@@ -1,0 +1,43 @@
+book_info:
+  title: "Fahrenheit 451"
+  author: "Ray Bradbury"
+  year: 1953
+  genre: "Dystopia"
+  reading_time: "5-6 godzin"
+
+background_prompt: "Books burning in flames, firefighter with flamethrower, dystopian city, wall-sized TV screens, dark atmosphere with fire glow"
+
+slides:
+  - type: "hook"
+    duration: 2.5
+    text: "451°F - temperatura, w której płonie papier. A jeśli strażacy PODPALAJĄ książki? 🔥"
+    
+  - type: "intro"
+    duration: 3
+    text: "Fahrenheit 451 - Gdy czytanie jest przestępstwem"
+    subtitle: "Ray Bradbury"
+    
+  - type: "world"
+    duration: 4
+    text: "Książki są zakazane. Strażacy nie gaszą pożarów - oni palą książki i domy, które je kryją"
+    
+  - type: "character"
+    duration: 3.5
+    text: "Montag - strażak, który zaczyna się zastanawiać: dlaczego palimy to, co kiedyś ratowaliśmy?"
+    
+  - type: "society"
+    duration: 4
+    text: "Ściany-telewizory, słuchawki w uszach 24/7. Brzmi znajomo? To było w 1953! 📺"
+    
+  - type: "rebellion"
+    duration: 3.5
+    text: "Ludzie-książki - uczą się całych dzieł na pamięć, by ocalić literaturę"
+    
+  - type: "warning"
+    duration: 3.5
+    text: "Bradbury ostrzegał nie przed cenzurą, ale przed tym, że sami przestaniemy czytać..."
+    
+  - type: "cta"
+    duration: 3
+    text: "Czytaj, póki możesz! Każda książka to akt buntu! 📚"
+    hashtags: ["#Fahrenheit451", "#Bradbury", "#Books", "#Dystopia"]

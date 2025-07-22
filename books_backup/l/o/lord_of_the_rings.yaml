@@ -1,0 +1,43 @@
+book_info:
+  title: "Władca Pierścieni"
+  author: "J.R.R. Tolkien"
+  year: 1954
+  genre: "Fantasy"
+  reading_time: "40-50 godzin"
+
+background_prompt: "Epic fantasy landscape with mountains, magical ring glowing in foreground, Middle-earth vista, dramatic lighting, adventure atmosphere"
+
+slides:
+  - type: "hook"
+    duration: 2.5
+    text: "Jeden pierścień, by wszystkimi rządzić... 💍"
+    
+  - type: "intro"
+    duration: 3
+    text: "Władca Pierścieni - Epicka podróż, która zdefiniowała fantasy"
+    subtitle: "J.R.R. Tolkien"
+    
+  - type: "story"
+    duration: 4
+    text: "Frodo, zwykły hobbit, musi zniszczyć pierścień mogący zniewolić cały świat 🌍"
+    
+  - type: "world"
+    duration: 4
+    text: "Śródziemie - świat pełen elfów, krasnoludów, czarodziejów i... mrocznych sił Saurona"
+    
+  - type: "journey"
+    duration: 3.5
+    text: "Drużyna Pierścienia wyrusza w niebezpieczną wyprawę. Każdy krok może być ostatni!"
+    
+  - type: "themes"
+    duration: 4
+    text: "Przyjaźń vs władza, dobro vs zło, czy mały człowiek może zmienić świat? TAK! ✨"
+    
+  - type: "impact"
+    duration: 3.5
+    text: "Bez tej książki nie byłoby Harry'ego Pottera, Gry o Tron czy Wiedźmina!"
+    
+  - type: "cta"
+    duration: 3
+    text: "Dołącz do Drużyny! Przygoda czeka! 🗡️"
+    hashtags: ["#LOTR", "#WładcaPierścieni", "#Tolkien", "#Fantasy"]

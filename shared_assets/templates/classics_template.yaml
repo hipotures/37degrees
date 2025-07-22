@@ -1,0 +1,74 @@
+# Template configuration for "Klasyka Światowa" TikTok series
+series_name: "Klasyka Światowa"
+series_hashtags: 
+  - "#37stopni"
+  - "#klasyka"
+  - "#ksiazki"
+  - "#czytam"
+  - "#booktok"
+  - "#książki"
+  - "#czytanie"
+
+video_settings:
+  width: 1080
+  height: 1920
+  fps: 30
+  format: "mp4"
+  codec: "h264"
+
+slide_defaults:
+  duration: 3.5  # seconds
+  transition_type: "fade"
+  transition_duration: 0.5
+
+text_settings:
+  font_family: "Montserrat"
+  font_size_title: 72
+  font_size_body: 48
+  font_size_cta: 56
+  color_primary: "#FFFFFF"
+  color_secondary: "#FFD700"  # Gold for emphasis
+  shadow: true
+  shadow_color: "#000000"
+  shadow_offset: 3
+  
+  positions:
+    title:
+      x: "center"
+      y: 200
+    body:
+      x: "center"
+      y: "center"
+      max_width: 900
+    cta:
+      x: "center"
+      y: 1600
+
+animation_settings:
+  text_entrance: "slide_up"
+  text_exit: "fade_out"
+  background_ken_burns: true
+
+music_settings:
+  use_trending_audio: true
+  fallback_music: "assets/music/dramatic_classical.mp3"
+  volume: 0.3
+
+# Content guidelines for youth audience (10-20 years)
+content_style:
+  language: "casual"  # casual, formal, mixed
+  use_emojis: true
+  emoji_frequency: "moderate"  # low, moderate, high
+  
+  hooks:
+    - "Czy wiesz, że..."
+    - "Wyobraź sobie, że..."
+    - "Co by było, gdyby..."
+    - "Uwaga! Ta książka..."
+    - "Szokujące! W tej książce..."
+  
+  cta_templates:
+    - "Przeczytaj i {action}!"
+    - "Odkryj {element} w tej książce!"
+    - "Ta historia zmieni Twoje {aspect}!"
+    - "Dołącz do milionów czytelników!"

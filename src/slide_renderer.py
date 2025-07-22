@@ -1,0 +1,353 @@
+import numpy as np
+from PIL import Image, ImageDraw, ImageFont
+from moviepy.editor import ImageClip, CompositeVideoClip
+from typing import Dict, Tuple, Optional, List
+import textwrap
+from pathlib import Path
+
+from .utils import get_font_path, add_text_shadow, calculate_text_position
+
+
+class SlideRenderer:
+    def __init__(self, template: Dict):
+        """Initialize slide renderer with template settings"""
+        self.template = template
+        self.text_settings = template['text_settings']
+        self.video_settings = template['video_settings']
+        
+        # Load fonts
+        self.fonts = self._load_fonts()
+        
+        # Colors
+        self.color_primary = self.text_settings['color_primary']
+        self.color_secondary = self.text_settings['color_secondary']
+        self.shadow_color = self.text_settings['shadow_color']
+        self.shadow_offset = self.text_settings['shadow_offset']
+    
+    def _load_fonts(self) -> Dict[str, ImageFont.FreeTypeFont]:
+        """Load font files for different text sizes"""
+        font_family = self.text_settings['font_family']
+        fonts = {}
+        
+        try:
+            fonts['title'] = ImageFont.truetype(
+                get_font_path(font_family, 'bold'),
+                self.text_settings['font_size_title']
+            )
+            fonts['body'] = ImageFont.truetype(
+                get_font_path(font_family, 'regular'),
+                self.text_settings['font_size_body']
+            )
+            fonts['cta'] = ImageFont.truetype(
+                get_font_path(font_family, 'bold'),
+                self.text_settings['font_size_cta']
+            )
+            fonts['small'] = ImageFont.truetype(
+                get_font_path(font_family, 'regular'),
+                int(self.text_settings['font_size_body'] * 0.8)
+            )
+        except Exception as e:
+            print(f"Error loading fonts, using default: {e}")
+            # Fallback to default font
+            for key, size in [('title', 72), ('body', 48), ('cta', 56), ('small', 38)]:
+                fonts[key] = ImageFont.load_default()
+        
+        return fonts
+    
+    def _wrap_text(self, text: str, font: ImageFont.FreeTypeFont, max_width: int) -> List[str]:
+        """Wrap text to fit within max_width"""
+        words = text.split()
+        lines = []
+        current_line = []
+        
+        for word in words:
+            test_line = ' '.join(current_line + [word])
+            bbox = font.getbbox(test_line)
+            if bbox[2] - bbox[0] <= max_width:
+                current_line.append(word)
+            else:
+                if current_line:
+                    lines.append(' '.join(current_line))
+                    current_line = [word]
+                else:
+                    lines.append(word)
+        
+        if current_line:
+            lines.append(' '.join(current_line))
+        
+        return lines
+    
+    def _draw_text_on_image(self, image: Image.Image, text: str, font: ImageFont.FreeTypeFont,
+                          position: Tuple[int, int], color: str, align: str = 'center',
+                          max_width: Optional[int] = None) -> Image.Image:
+        """Draw text on image with optional wrapping and shadow"""
+        draw = ImageDraw.Draw(image)
+        
+        # Wrap text if max_width is specified
+        if max_width:
+            lines = self._wrap_text(text, font, max_width)
+        else:
+            lines = [text]
+        
+        # Calculate total height for centering
+        line_height = font.size + 10  # Add some line spacing
+        total_height = len(lines) * line_height
+        
+        # Adjust starting y position for vertical centering
+        y = position[1] - (total_height // 2) if position[1] == self.video_settings['height'] // 2 else position[1]
+        
+        for line in lines:
+            # Get text bbox
+            bbox = draw.textbbox((0, 0), line, font=font)
+            text_width = bbox[2] - bbox[0]
+            
+            # Calculate x position based on alignment
+            if align == 'center':
+                x = position[0] - (text_width // 2) if position[0] == self.video_settings['width'] // 2 else position[0]
+            elif align == 'left':
+                x = position[0]
+            else:  # right
+                x = position[0] - text_width
+            
+            # Draw shadow if enabled
+            if self.text_settings['shadow']:
+                draw.text(
+                    (x + self.shadow_offset, y + self.shadow_offset),
+                    line,
+                    font=font,
+                    fill=self.shadow_color
+                )
+            
+            # Draw main text
+            draw.text((x, y), line, font=font, fill=color)
+            
+            y += line_height
+        
+        return image
+    
+    def _apply_ken_burns_effect(self, image_clip: ImageClip, duration: float) -> ImageClip:
+        """Apply Ken Burns effect (slow zoom) to background"""
+        if not self.template['animation_settings']['background_ken_burns']:
+            return image_clip
+        
+        # Slow zoom from 100% to 110%
+        def zoom_func(t):
+            zoom = 1.0 + (0.1 * t / duration)
+            return zoom
+        
+        return image_clip.resize(lambda t: zoom_func(t))
+    
+    def render_slide(self, slide_data: Dict, background: np.ndarray, book_info: Dict,
+                    slide_index: int, total_slides: int) -> ImageClip:
+        """Render a single slide with text and background"""
+        slide_type = slide_data.get('type', 'default')
+        
+        # Create PIL image from background
+        bg_image = Image.fromarray(background)
+        
+        # Add darkening overlay for better text readability
+        overlay = Image.new('RGBA', bg_image.size, (0, 0, 0, 100))
+        bg_image.paste(overlay, (0, 0), overlay)
+        
+        # Get positions from template
+        positions = self.text_settings['positions']
+        
+        # Render based on slide type
+        if slide_type == 'hook':
+            bg_image = self._render_hook_slide(bg_image, slide_data)
+        elif slide_type == 'intro':
+            bg_image = self._render_intro_slide(bg_image, slide_data, book_info)
+        elif slide_type == 'quote':
+            bg_image = self._render_quote_slide(bg_image, slide_data)
+        elif slide_type == 'cta':
+            bg_image = self._render_cta_slide(bg_image, slide_data)
+        else:
+            # Default text slide
+            bg_image = self._render_text_slide(bg_image, slide_data)
+        
+        # Add slide counter
+        if slide_index > 0:  # Don't show on first slide
+            self._add_slide_counter(bg_image, slide_index + 1, total_slides)
+        
+        # Convert back to numpy array and create video clip
+        slide_array = np.array(bg_image)
+        slide_clip = ImageClip(slide_array)
+        
+        # Apply Ken Burns effect
+        duration = slide_data.get('duration', self.template['slide_defaults']['duration'])
+        slide_clip = self._apply_ken_burns_effect(slide_clip, duration)
+        
+        return slide_clip
+    
+    def _render_hook_slide(self, image: Image.Image, slide_data: Dict) -> Image.Image:
+        """Render hook slide with large, centered text"""
+        text = slide_data['text']
+        
+        # Use title font but slightly smaller
+        font = self.fonts['title']
+        
+        # Center position
+        position = (
+            self.video_settings['width'] // 2,
+            self.video_settings['height'] // 2
+        )
+        
+        # Draw text with emphasis color
+        return self._draw_text_on_image(
+            image, text, font, position,
+            self.color_secondary,  # Use secondary color for hooks
+            align='center',
+            max_width=int(self.video_settings['width'] * 0.8)
+        )
+    
+    def _render_intro_slide(self, image: Image.Image, slide_data: Dict, book_info: Dict) -> Image.Image:
+        """Render intro slide with title and author"""
+        # Draw main title
+        title_pos = calculate_text_position(
+            self.text_settings['positions']['title'],
+            self.video_settings['width'],
+            self.video_settings['height']
+        )
+        
+        image = self._draw_text_on_image(
+            image,
+            slide_data['text'],
+            self.fonts['title'],
+            title_pos,
+            self.color_primary,
+            align='center',
+            max_width=int(self.video_settings['width'] * 0.9)
+        )
+        
+        # Draw subtitle (author)
+        if 'subtitle' in slide_data:
+            subtitle_pos = (
+                self.video_settings['width'] // 2,
+                title_pos[1] + self.text_settings['font_size_title'] + 40
+            )
+            image = self._draw_text_on_image(
+                image,
+                slide_data['subtitle'],
+                self.fonts['body'],
+                subtitle_pos,
+                self.color_secondary,
+                align='center'
+            )
+        
+        return image
+    
+    def _render_quote_slide(self, image: Image.Image, slide_data: Dict) -> Image.Image:
+        """Render quote slide with special formatting"""
+        quote_text = f'"{slide_data["text"]}"'
+        
+        # Draw quote
+        body_pos = calculate_text_position(
+            self.text_settings['positions']['body'],
+            self.video_settings['width'],
+            self.video_settings['height']
+        )
+        
+        image = self._draw_text_on_image(
+            image,
+            quote_text,
+            self.fonts['body'],
+            body_pos,
+            self.color_primary,
+            align='center',
+            max_width=int(self.video_settings['width'] * 0.85)
+        )
+        
+        # Draw author attribution if specified
+        if slide_data.get('author_position') == 'bottom':
+            author_pos = (
+                self.video_settings['width'] // 2,
+                self.video_settings['height'] - 200
+            )
+            image = self._draw_text_on_image(
+                image,
+                "— Mały Książę",
+                self.fonts['small'],
+                author_pos,
+                self.color_secondary,
+                align='center'
+            )
+        
+        return image
+    
+    def _render_cta_slide(self, image: Image.Image, slide_data: Dict) -> Image.Image:
+        """Render call-to-action slide"""
+        # Draw CTA text
+        cta_pos = calculate_text_position(
+            self.text_settings['positions']['cta'],
+            self.video_settings['width'],
+            self.video_settings['height']
+        )
+        
+        image = self._draw_text_on_image(
+            image,
+            slide_data['text'],
+            self.fonts['cta'],
+            cta_pos,
+            self.color_secondary,  # Use secondary color for CTA
+            align='center',
+            max_width=int(self.video_settings['width'] * 0.85)
+        )
+        
+        # Add hashtags if present
+        if 'hashtags' in slide_data:
+            hashtag_text = ' '.join(slide_data['hashtags'])
+            hashtag_pos = (
+                self.video_settings['width'] // 2,
+                cta_pos[1] + self.text_settings['font_size_cta'] + 50
+            )
+            image = self._draw_text_on_image(
+                image,
+                hashtag_text,
+                self.fonts['small'],
+                hashtag_pos,
+                self.color_primary,
+                align='center'
+            )
+        
+        return image
+    
+    def _render_text_slide(self, image: Image.Image, slide_data: Dict) -> Image.Image:
+        """Render default text slide"""
+        body_pos = calculate_text_position(
+            self.text_settings['positions']['body'],
+            self.video_settings['width'],
+            self.video_settings['height']
+        )
+        
+        return self._draw_text_on_image(
+            image,
+            slide_data['text'],
+            self.fonts['body'],
+            body_pos,
+            self.color_primary,
+            align='center',
+            max_width=int(self.text_settings['positions']['body'].get('max_width', self.video_settings['width'] * 0.85))
+        )
+    
+    def _add_slide_counter(self, image: Image.Image, current: int, total: int) -> None:
+        """Add slide progress indicator"""
+        draw = ImageDraw.Draw(image)
+        
+        # Position at bottom center
+        bar_width = 200
+        bar_height = 4
+        bar_x = (self.video_settings['width'] - bar_width) // 2
+        bar_y = self.video_settings['height'] - 100
+        
+        # Draw background bar
+        draw.rectangle(
+            [bar_x, bar_y, bar_x + bar_width, bar_y + bar_height],
+            fill=(255, 255, 255, 100)
+        )
+        
+        # Draw progress
+        progress_width = int(bar_width * (current / total))
+        draw.rectangle(
+            [bar_x, bar_y, bar_x + progress_width, bar_y + bar_height],
+            fill=self.color_secondary
+        )

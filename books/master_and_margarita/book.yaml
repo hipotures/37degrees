@@ -1,0 +1,43 @@
+book_info:
+  title: "Mistrz i Małgorzata"
+  author: "Michaił Bułhakow"
+  year: 1967
+  genre: "Fantastyka filozoficzna"
+  reading_time: "12-15 godzin"
+
+background_prompt: "Soviet Moscow with devil's entourage, black cat, mystical atmosphere, surreal blend of reality and fantasy"
+
+slides:
+  - type: "hook"
+    duration: 2.5
+    text: "Diabeł przyjeżdża do Moskwy. I to nie metafora - dosłownie diabeł! 😈"
+    
+  - type: "intro"
+    duration: 3
+    text: "Mistrz i Małgorzata - Gdy szatan jest good guy'em"
+    subtitle: "Michaił Bułhakow"
+    
+  - type: "chaos"
+    duration: 4
+    text: "Woland i jego świta: kot Behemot, Azazello, Korowiow. Moskwa goes crazy! 🐱"
+    
+  - type: "love"
+    duration: 3.5
+    text: "Małgorzata sprzedaje duszę diabłu, żeby uratować ukochanego Mistrza. Worth it!"
+    
+  - type: "parallel"
+    duration: 4
+    text: "Dwie historie: Moskwa lat 30. i Jerozolima za Piłata. Mind = blown 🤯"
+    
+  - type: "satire"
+    duration: 3.5
+    text: "Bułhakow wyśmiewa sowiecką rzeczywistość. Nic dziwnego, że zakazali książki!"
+    
+  - type: "philosophy"
+    duration: 3.5
+    text: "Dobro, zło, sztuka, miłość. Bułhakow pyta: co jest prawdziwe?"
+    
+  - type: "cta"
+    duration: 3
+    text: "Spotkaj diabła, który mówi prawdę! 🔥"
+    hashtags: ["#MasterAndMargarita", "#Bulgakov", "#Devil", "#Moscow"]

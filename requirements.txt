@@ -1,0 +1,40 @@
+# Video processing
+moviepy==1.0.3
+opencv-python==4.8.1.78
+imageio==2.31.1
+imageio-ffmpeg==0.4.9
+
+# Image processing
+Pillow==10.1.0
+numpy==1.24.3
+
+# YAML processing
+PyYAML==6.0.1
+
+# Text rendering and fonts
+arabic-reshaper==3.0.0
+python-bidi==0.4.2
+
+# Rich terminal output
+rich==13.7.0
+
+# Audio processing
+pydub==0.25.1
+
+# HTTP requests for AI background generation
+requests==2.31.0
+
+# Color manipulation
+colorthief==0.2.1
+
+# Progress bars
+tqdm==4.66.1
+
+# Path handling
+pathlib==1.0.1
+
+# Date handling
+python-dateutil==2.8.2
+
+# Optional: TikTok upload automation
+# tiktok-uploader==0.1.0  # Uncomment if needed

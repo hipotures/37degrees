@@ -1,0 +1,43 @@
+book_info:
+  title: "Quo Vadis"
+  author: "Henryk Sienkiewicz"
+  year: 1896
+  genre: "Powieść historyczna"
+  reading_time: "18-20 godzin"
+
+background_prompt: "Ancient Rome burning, colosseum with lions, early Christians, epic historical atmosphere, fire and faith"
+
+slides:
+  - type: "hook"
+    duration: 2.5
+    text: "Rzym płonie, chrześcijanie giną na arenie, a w tle... love story?! 🔥"
+    
+  - type: "intro"
+    duration: 3
+    text: "Quo Vadis - Game of Thrones starożytnego Rzymu"
+    subtitle: "Henryk Sienkiewicz"
+    
+  - type: "world"
+    duration: 4
+    text: "Neron - cesarz psychopata, który podpala Rzym dla inspiracji artystycznej 🎭"
+    
+  - type: "hero"
+    duration: 3.5
+    text: "Winicjusz - rzymski Chad, który zakochuje się w chrześcijance. Problem? Chrześcijan się zabija"
+    
+  - type: "conflict"
+    duration: 4
+    text: "Ligia woli Chrystusa niż Winicjusza. On: 'Challenge accepted!' 💪"
+    
+  - type: "action"
+    duration: 3.5
+    text: "Ursus vs byk na arenie, pożar Rzymu, ucieczki, pościgi. Blockbuster!"
+    
+  - type: "faith"
+    duration: 3.5
+    text: "Piotr, Paweł, pierwsi męczennicy. Sienkiewicz pokazał narodziny chrześcijaństwa"
+    
+  - type: "cta"
+    duration: 3
+    text: "Zobacz, jak umierał antyczny świat! Epic! ⚔️"
+    hashtags: ["#QuoVadis", "#Sienkiewicz", "#Rome", "#Nobel"]

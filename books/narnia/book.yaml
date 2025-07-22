@@ -1,0 +1,43 @@
+book_info:
+  title: "Opowieści z Narnii: Lew, czarownica i stara szafa"
+  author: "C.S. Lewis"
+  year: 1950
+  genre: "Fantasy"
+  reading_time: "5-6 godzin"
+
+background_prompt: "Magical wardrobe opening to snowy forest, lamppost in snow, golden lion silhouette, winter wonderland with magical sparkles"
+
+slides:
+  - type: "hook"
+    duration: 2.5
+    text: "Co jeśli w Twojej szafie kryje się przejście do magicznego świata? 🚪"
+    
+  - type: "intro"
+    duration: 3
+    text: "Narnia - Magia ukryta za starymi ubraniami"
+    subtitle: "C.S. Lewis"
+    
+  - type: "story"
+    duration: 4
+    text: "Czwórka rodzeństwa odkrywa w szafie przejście do Narnii - krainy wiecznej zimy ❄️"
+    
+  - type: "world"
+    duration: 3.5
+    text: "Mówiące zwierzęta, faun z parasolką, a wszystkim rządzi zła Biała Czarownica"
+    
+  - type: "hero"
+    duration: 4
+    text: "Aslan - najpotężniejszy lew, jedyna nadzieja Narnii. Ale gdzie on jest? 🦁"
+    
+  - type: "adventure"
+    duration: 3.5
+    text: "Tureckie rozkosze, kamienne posągi, bitwa dobra ze złem. Czy dzieci dadzą radę?"
+    
+  - type: "message"
+    duration: 3.5
+    text: "O odwadze, poświęceniu i tym, że nawet najmłodsi mogą być bohaterami"
+    
+  - type: "cta"
+    duration: 3
+    text: "Sprawdź swoją szafę... Może Narnia czeka właśnie na Ciebie? 🌟"
+    hashtags: ["#Narnia", "#CSLewis", "#Fantasy", "#Aslan"]

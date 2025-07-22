@@ -1,0 +1,43 @@
+book_info:
+  title: "Podróże Guliwera"
+  author: "Jonathan Swift"
+  year: 1726
+  genre: "Satyra przygodowa"
+  reading_time: "10-12 godzin"
+
+background_prompt: "Giant man tied down by tiny people, miniature city, sailing ship in distance, fantastical lands, satirical atmosphere"
+
+slides:
+  - type: "hook"
+    duration: 2.5
+    text: "Co jeśli obudzisz się związany przez ludzi wielkości Twojego kciuka? 👍"
+    
+  - type: "intro"
+    duration: 3
+    text: "Podróże Guliwera - Najbardziej szalone podróże w historii"
+    subtitle: "Jonathan Swift"
+    
+  - type: "lilliput"
+    duration: 4
+    text: "Liliputy - kraj ludzi 15 cm wzrostu. Guliwer jest tam gigantem! 🦶"
+    
+  - type: "satire"
+    duration: 3.5
+    text: "Wojna o to, od której strony tłuc jajka? Swift wyśmiewa ludzką głupotę!"
+    
+  - type: "giants"
+    duration: 4
+    text: "Brobdingnag - tu Guliwer jest mały jak mysz. Perspektywa wszystko zmienia!"
+    
+  - type: "flying"
+    duration: 3.5
+    text: "Laputa - latająca wyspa naukowców. Mają głowy w chmurach... dosłownie! ☁️"
+    
+  - type: "horses"
+    duration: 3.5
+    text: "Konie rządzą, ludzie to zwierzęta. Swift pokazuje, jak absurdalny jest nasz świat"
+    
+  - type: "cta"
+    duration: 3
+    text: "Zobacz świat z innej perspektywy! Literally! 🌍"
+    hashtags: ["#Gulliver", "#SwiftSatire", "#Adventure", "#Classic"]

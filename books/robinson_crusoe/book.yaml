@@ -1,0 +1,43 @@
+book_info:
+  title: "Robinson Crusoe"
+  author: "Daniel Defoe"
+  year: 1719
+  genre: "Przygodowa"
+  reading_time: "10-12 godzin"
+
+background_prompt: "Deserted tropical island beach, makeshift shelter, footprint in sand, survival tools, ocean horizon, castaway atmosphere"
+
+slides:
+  - type: "hook"
+    duration: 2.5
+    text: "28 lat sam na bezludnej wyspie. Przeżyłbyś? 🏝️"
+    
+  - type: "intro"
+    duration: 3
+    text: "Robinson Crusoe - Pierwszy survival w historii literatury"
+    subtitle: "Daniel Defoe"
+    
+  - type: "story"
+    duration: 4
+    text: "Katastrofa statku, jedyny ocalały, bezludna wyspa. Game over? Nie dla Robinsona!"
+    
+  - type: "survival"
+    duration: 3.5
+    text: "Buduje schronienie, uprawia zboże, oswaja kozy. Minecraft w XVIII wieku! 🔨"
+    
+  - type: "solitude"
+    duration: 4
+    text: "Rozmawia z papugą, prowadzi dziennik. Samotność to największy wróg"
+    
+  - type: "twist"
+    duration: 3.5
+    text: "Ślad stopy na plaży! Po latach Robinson nie jest sam... Przyjaciel czy wróg? 👣"
+    
+  - type: "friendship"
+    duration: 3.5
+    text: "Piętaszek - od wroga do najlepszego przyjaciela. Przetrwanie we dwóch!"
+    
+  - type: "cta"
+    duration: 3
+    text: "Naucz się sztuki przetrwania od mistrza! 🌴"
+    hashtags: ["#RobinsonCrusoe", "#Survival", "#Classic", "#Adventure"]

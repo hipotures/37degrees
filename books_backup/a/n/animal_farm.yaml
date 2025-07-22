@@ -1,0 +1,43 @@
+book_info:
+  title: "Folwark zwierzęcy"
+  author: "George Orwell"
+  year: 1945
+  genre: "Satyra polityczna"
+  reading_time: "3-4 godziny"
+
+background_prompt: "Farm with animals standing on two legs, pigs in command, barn with commandments, dark political satire atmosphere"
+
+slides:
+  - type: "hook"
+    duration: 2.5
+    text: "Wszystkie zwierzęta są równe, ale niektóre są równiejsze. Wait, what? 🐷"
+    
+  - type: "intro"
+    duration: 3
+    text: "Folwark zwierzęcy - Bajka, która obnażyła każdą dyktaturę"
+    subtitle: "George Orwell"
+    
+  - type: "revolution"
+    duration: 4
+    text: "Zwierzęta obalają farmera! Koniec wyzysku, wszyscy równi! ...czy na pewno?"
+    
+  - type: "leaders"
+    duration: 3.5
+    text: "Napoleon i Snowball - świnie, które przejmują władzę. Bo ktoś musi rządzić, prawda?"
+    
+  - type: "corruption"
+    duration: 4
+    text: "Przykazania się zmieniają, świnie chodzą na dwóch nogach, piją whisky 🥃"
+    
+  - type: "betrayal"
+    duration: 3.5
+    text: "Boxer - koń pracowity jak nikt, oddany sprawie. Nagroda? Rzeźnia."
+    
+  - type: "truth"
+    duration: 3.5
+    text: "Orwell opisał KAŻDĄ rewolucję. ZSRR, ale też... sprawdź dzisiejsze newsy"
+    
+  - type: "cta"
+    duration: 3
+    text: "Przeczytaj i nigdy nie daj się oszukać! 🚨"
+    hashtags: ["#AnimalFarm", "#Orwell", "#Politics", "#Truth"]

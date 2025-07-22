@@ -1,0 +1,43 @@
+book_info:
+  title: "Cierpienia młodego Wertera"
+  author: "Johann Wolfgang von Goethe"
+  year: 1774
+  genre: "Powieść epistolarna"
+  reading_time: "4-5 godzin"
+
+background_prompt: "Romantic German countryside, young man writing letters, unrequited love, melancholic atmosphere, 18th century setting"
+
+slides:
+  - type: "hook"
+    duration: 2.5
+    text: "Książka, która wywołała falę samobójstw w całej Europie. Too much feelings? 💔"
+    
+  - type: "intro"
+    duration: 3
+    text: "Cierpienia młodego Wertera - Pierwszy emo w literaturze"
+    subtitle: "Johann Wolfgang von Goethe"
+    
+  - type: "format"
+    duration: 4
+    text: "Cała historia w listach. Werter pisze do przyjaciela o swojej obsesji... znaczy miłości"
+    
+  - type: "love"
+    duration: 3.5
+    text: "Lotta - zaręczona z innym. Werter: 'To nic, będę ją kochał z oddali'. Spoiler: będzie źle"
+    
+  - type: "obsession"
+    duration: 4
+    text: "Każdy list bardziej dramatyczny. Werter nie je, nie śpi, tylko cierpi i pisze 📝"
+    
+  - type: "influence"
+    duration: 3.5
+    text: "Młodzi zaczęli ubierać się jak Werter, cierpieć jak Werter... i umierać jak Werter"
+    
+  - type: "warning"
+    duration: 3.5
+    text: "Goethe żałował, że to napisał. Ale stworzył archetyp romantycznego cierpiętnika"
+    
+  - type: "cta"
+    duration: 3
+    text: "Przeżyj cierpienia (ale zostań żywy)! 🖤"
+    hashtags: ["#Werther", "#Goethe", "#Romanticism", "#Emo"]

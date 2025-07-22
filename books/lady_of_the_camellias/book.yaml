@@ -1,0 +1,43 @@
+book_info:
+  title: "Dama Kameliowa"
+  author: "Aleksander Dumas (syn)"
+  year: 1848
+  genre: "Romans tragiczny"
+  reading_time: "6-8 godzin"
+
+background_prompt: "Parisian salon, white camellias, elegant courtesan, 19th century glamour, tragic romance atmosphere"
+
+slides:
+  - type: "hook"
+    duration: 2.5
+    text: "Najbardziej pożądana kobieta Paryża kocha kwiaty... i niemożliwą miłość 🌸"
+    
+  - type: "intro"
+    duration: 3
+    text: "Dama Kameliowa - Pretty Woman XIX wieku, ale bez happy endu"
+    subtitle: "Aleksander Dumas (syn)"
+    
+  - type: "character"
+    duration: 4
+    text: "Małgorzata Gautier - kurtyzana, która nosi białe kamelie. Piękna, chora, samotna"
+    
+  - type: "love"
+    duration: 3.5
+    text: "Armand Duval - zakochuje się w niej bez pamięci. Ale czy pokona uprzedzenia?"
+    
+  - type: "sacrifice"
+    duration: 4
+    text: "Ojciec Armanda błaga: zostaw go! Małgorzata poświęca miłość dla jego dobra 💔"
+    
+  - type: "tragedy"
+    duration: 3.5
+    text: "Armand myśli, że go zdradziła. Małgorzata umiera na gruźlicę, samotna"
+    
+  - type: "truth"
+    duration: 3.5
+    text: "Dopiero po śmierci Armand poznaje prawdę. Za późno na wszystko"
+    
+  - type: "cta"
+    duration: 3
+    text: "Płacz guaranteed! Kamelie czekają! 😢"
+    hashtags: ["#DamaKameliowa", "#Dumas", "#TragicLove", "#Paris"]

@@ -1,0 +1,43 @@
+book_info:
+  title: "Diuna"
+  author: "Frank Herbert"
+  year: 1965
+  genre: "Science Fiction"
+  reading_time: "20-25 godzin"
+
+background_prompt: "Desert planet with giant sandworms, two moons in sky, spice melange glowing, futuristic desert warriors, epic sci-fi atmosphere"
+
+slides:
+  - type: "hook"
+    duration: 2.5
+    text: "Planeta, gdzie woda jest cenniejsza niż złoto, a w piasku czają się kilometry długie robaki 🪱"
+    
+  - type: "intro"
+    duration: 3
+    text: "Diuna - Game of Thrones w kosmosie, zanim GoT istniało"
+    subtitle: "Frank Herbert"
+    
+  - type: "world"
+    duration: 4
+    text: "Arrakis - pustynia, która produkuje przyprawę dającą moc przewidywania przyszłości ✨"
+    
+  - type: "hero"
+    duration: 3.5
+    text: "Paul Atryda - nastolatek, który może być mesjaszem... albo zagładą galaktyki"
+    
+  - type: "politics"
+    duration: 4
+    text: "Wielkie Rody walczą o władzę. Intrygi, zdrady, spiski. Polityka level: ekspert"
+    
+  - type: "power"
+    duration: 3.5
+    text: "Kto kontroluje przyprawę, kontroluje wszechświat. Kto kontroluje Diunę?"
+    
+  - type: "ecology"
+    duration: 3.5
+    text: "Herbert pisał o zmianach klimatu, zanim było modne. Ekologia + Sci-Fi = mind blown"
+    
+  - type: "cta"
+    duration: 3
+    text: "Zanurz się w piasku Arrakis! Przyprawa czeka! 🏜️"
+    hashtags: ["#Dune", "#Diuna", "#SciFi", "#Herbert"]

@@ -1,0 +1,43 @@
+book_info:
+  title: "Alicja w Krainie Czarów"
+  author: "Lewis Carroll"
+  year: 1865
+  genre: "Fantasy"
+  reading_time: "3-4 godziny"
+
+background_prompt: "Surreal wonderland scene with playing cards, teacups floating, cheshire cat smile, rabbit hole, psychedelic colors, dreamlike atmosphere"
+
+slides:
+  - type: "hook"
+    duration: 2.5
+    text: "Wyobraź sobie, że gonisz białego królika i... wpadasz do innego świata! 🐰"
+    
+  - type: "intro"
+    duration: 3
+    text: "Alicja w Krainie Czarów - Najbardziej szalona podróż ever!"
+    subtitle: "Lewis Carroll"
+    
+  - type: "story"
+    duration: 4
+    text: "Alicja wpada do króliczej nory i trafia do świata, gdzie logika nie istnieje 🕳️"
+    
+  - type: "world"
+    duration: 3.5
+    text: "Kot z Cheshire, Szalony Kapelusznik, Królowa Kier krzycząca 'Ściąć głowę!'"
+    
+  - type: "adventure"
+    duration: 4
+    text: "Herbatka, która nigdy się nie kończy, gąsienica paląca fajkę, karty do gry żywe! ☕"
+    
+  - type: "meaning"
+    duration: 3.5
+    text: "Każda postać to zagadka, każda rozmowa to filozofia ukryta w nonsensie"
+    
+  - type: "relevance"
+    duration: 3.5
+    text: "Po 150 latach wciąż inspiruje filmy, gry, memy. Bo wszyscy czasem czujemy się jak Alicja!"
+    
+  - type: "cta"
+    duration: 3
+    text: "Skocz do króliczej nory! Obiecuję - wrócisz inny 🎩"
+    hashtags: ["#AlicjaWKrainieCzarów", "#AliceInWonderland", "#Fantasy"]

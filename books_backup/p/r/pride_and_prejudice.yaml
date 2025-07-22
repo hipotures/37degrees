@@ -1,0 +1,43 @@
+book_info:
+  title: "Duma i uprzedzenie"
+  author: "Jane Austen"
+  year: 1813
+  genre: "Romans"
+  reading_time: "10-12 godzin"
+
+background_prompt: "Romantic English countryside manor, gardens with roses, soft morning light, regency era atmosphere, elegant and dreamy"
+
+slides:
+  - type: "hook"
+    duration: 2.5
+    text: "Kiedy pierwsza miłość okazuje się pierwszą nienawiścią... 💔"
+    
+  - type: "intro"
+    duration: 3
+    text: "Duma i uprzedzenie - Romans, który podbił serca milionów"
+    subtitle: "Jane Austen"
+    
+  - type: "story"
+    duration: 4
+    text: "Elizabeth Bennet - bystra, niezależna i... niemająca zamiaru wyjść za mąż za pierwszego lepszego!"
+    
+  - type: "conflict"
+    duration: 3.5
+    text: "Pan Darcy - bogaty, przystojny i... nieznośnie arogancki. Czy to miłość od pierwszego wejrzenia? NIE! 😤"
+    
+  - type: "drama"
+    duration: 4
+    text: "Skandale, tajemnice, nieporozumienia! Kto kogo okłamał? Kto jest prawdziwym łajdakiem?"
+    
+  - type: "romance"
+    duration: 3.5
+    text: "Czasem trzeba odrzucić dumę i uprzedzenia, żeby zobaczyć prawdziwą miłość ❤️"
+    
+  - type: "relevance"
+    duration: 4
+    text: "200 lat później nadal uczymy się od Elizabeth - bądź sobą, nie daj się zaszufladkować!"
+    
+  - type: "cta"
+    duration: 3
+    text: "Zakochaj się w tej historii! Gwarantowane motylki w brzuchu! 🦋"
+    hashtags: ["#DumaIUprzedzenie", "#PrideAndPrejudice", "#JaneAusten", "#BookLove"]
