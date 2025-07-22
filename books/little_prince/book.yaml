@@ -6,17 +6,33 @@ book_info:
   reading_time: "2-3 godziny"
 
 art_style:
-  visual_style: "soft watercolor illustration, children's book aesthetic, hand-drawn quality"
-  resolution: "1080x1920"  # TikTok vertical format
+  # Technical requirements
+  resolution: "1080x1920"
   aspect_ratio: "9:16"
-  color_palette: 
-    primary: ["peach", "pink", "lavender", "soft yellow"]
-    secondary: ["gentle blues", "warm oranges", "muted greens"]
-    mood: "warm pastels with dreamy gradients"
-  lighting: "soft, diffused illumination with ethereal glow, no harsh shadows"
-  texture: "watercolor paper texture, organic brush strokes, translucent layers"
-  atmosphere: "dreamy, nostalgic, innocent, magical realism"
-  artistic_reference: "original Saint-Exupéry illustrations meets modern watercolor art"
+  
+  # Core style directive - THIS IS MOST IMPORTANT
+  primary_style: "minimalist children's book illustration with naive art approach"
+  complexity: "very simple, reduced forms, minimal details, childlike drawing"
+  
+  # Visual characteristics
+  line_work: "simple, clean lines, hand-drawn quality, imperfect and charming"
+  shapes: "basic geometric forms, simplified silhouettes, no complex details"
+  
+  # Color approach  
+  color_technique: "flat color areas with minimal shading, like colored pencils on paper"
+  color_palette:
+    base: ["soft peach", "dusty pink", "pale lavender", "warm cream"]
+    accents: ["sky blue", "golden yellow", "sage green"]
+    mood: "muted, gentle, dreamlike pastels"
+  
+  # Atmosphere
+  overall_feeling: "whimsical, innocent, fairy-tale like, not photorealistic"
+  magic_style: "subtle sparkles, soft glows, floating dots of light"
+  background_approach: "simple gradients or flat colors, minimal detail"
+  
+  # Style references
+  avoid: "photorealistic rendering, complex textures, detailed shading"
+  emphasize: "childlike wonder, storybook simplicity, dreamlike quality"
 
 slides:
   - type: "hook"

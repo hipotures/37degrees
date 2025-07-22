@@ -1,0 +1,53 @@
+scene_generation:
+  technical_specs:
+    resolution: 1080x1920
+    aspect_ratio: '9:16'
+  art_style:
+    resolution: 1080x1920
+    aspect_ratio: '9:16'
+    primary_style: minimalist children's book illustration with naive art approach
+    complexity: very simple, reduced forms, minimal details, childlike drawing
+    line_work: simple, clean lines, hand-drawn quality, imperfect and charming
+    shapes: basic geometric forms, simplified silhouettes, no complex details
+    color_technique: flat color areas with minimal shading, like colored pencils on
+      paper
+    color_palette:
+      base:
+      - soft peach
+      - dusty pink
+      - pale lavender
+      - warm cream
+      accents:
+      - sky blue
+      - golden yellow
+      - sage green
+      mood: muted, gentle, dreamlike pastels
+    overall_feeling: whimsical, innocent, fairy-tale like, not photorealistic
+    magic_style: subtle sparkles, soft glows, floating dots of light
+    background_approach: simple gradients or flat colors, minimal detail
+    avoid: photorealistic rendering, complex textures, detailed shading
+    emphasize: childlike wonder, storybook simplicity, dreamlike quality
+  scene_details:
+    slide_type: why_read
+    elements:
+    - 'floating everyday objects transformed: box→castle, hat→elephant'
+    - child's perspective looking upward
+    - wonder-filled eyes
+    - transformation sparkles
+    - philosophy books fading in background
+    composition: objects floating in dreamlike arrangement above child
+    camera_angle: low angle, child's point of view
+    focus_point: the magical transformations
+    atmosphere: wondrous, inspiring, playful
+    background: soft clouds with golden light breaking through
+  generation_instructions:
+    maintain_consistency: Keep visual style consistent across all scenes
+    text_space: Leave clear space in upper third of image (above 66% height) for text
+      overlay
+    mood: Match the wondrous, inspiring, playful atmosphere
+    quality: High quality, detailed illustration suitable for video
+    no_text: Do not include any text, letters, words, or written elements in the image
+    style_emphasis: Emphasize whimsical, childlike wonder with simplified forms and
+      dreamlike quality
+    magical_elements: Add subtle magical touches - floating stars, soft glows, ethereal
+      particles that enhance the fairy-tale atmosphere
