@@ -17,32 +17,36 @@ video_settings:
   codec: "h264"
 
 slide_defaults:
-  duration: 3.5  # seconds
+  duration: 5.5  # seconds
   transition_type: "fade"
   transition_duration: 0.5
 
 text_settings:
   font_family: "Montserrat"
-  font_size_title: 126
-  font_size_body: 84
-  font_size_cta: 98
+  font_size_title: 90   # Tytuł książki - duży ale nie za duży
+  font_size_body: 65    # Tekst główny - czytelny na telefonie
+  font_size_cta: 75     # Call to action - większy dla uwagi
+  font_size_author: 55  # Autor - mniejszy niż tytuł
   color_primary: "#FFFFFF"
   color_secondary: "#FFD700"  # Gold for emphasis
   shadow: true
   shadow_color: "#000000"
-  shadow_offset: 8
+  shadow_offset: 10     # Większy cień dla lepszego kontrastu
+  outline_width: 4      # Dodatkowy outline dla lepszej widoczności
+  outline_color: "#000000"
   
+  # Safe Zone: góra 108px, dół 320px, lewo 60px, prawo 120px
   positions:
     title:
       x: "center"
-      y: 400
+      y: 250      # W górnej 1/3 ekranu, bezpieczna strefa
     body:
       x: "center"
-      y: 600
-      max_width: 900
+      y: 450      # Środek górnej połowy ekranu
+      max_width: 840  # 1080 - 60 - 120 - 60 (marginesy bezpieczeństwa)
     cta:
       x: "center"
-      y: 1400
+      y: 1100     # Powyżej dolnej strefy niebezpiecznej (1920-320-500)
 
 animation_settings:
   text_entrance: "slide_up"

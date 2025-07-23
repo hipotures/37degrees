@@ -66,6 +66,10 @@ class SlideRenderer:
                     bold_font_path,
                     self.text_settings['font_size_cta']
                 )
+                fonts['author'] = ImageFont.truetype(
+                    regular_font_path,
+                    self.text_settings.get('font_size_author', 55)
+                )
                 fonts['small'] = ImageFont.truetype(
                     regular_font_path,
                     int(self.text_settings['font_size_body'] * 0.8)
@@ -145,6 +149,16 @@ class SlideRenderer:
             else:  # right
                 x = position[0] - text_width
             
+            # Draw outline if enabled (for better contrast)
+            if hasattr(self.text_settings, 'outline_width') or 'outline_width' in self.text_settings:
+                outline_width = self.text_settings.get('outline_width', 4)
+                outline_color = self.text_settings.get('outline_color', '#000000')
+                # Draw outline by drawing text multiple times with offset
+                for dx in range(-outline_width, outline_width + 1):
+                    for dy in range(-outline_width, outline_width + 1):
+                        if dx != 0 or dy != 0:
+                            draw.text((x + dx, y + dy), line, font=font, fill=outline_color)
+            
             # Draw shadow if enabled
             if self.text_settings['shadow']:
                 draw.text(
@@ -166,9 +180,16 @@ class SlideRenderer:
         if not self.template['animation_settings']['background_ken_burns']:
             return image_clip
         
-        # Slow zoom from 100% to 110%
+        # Zoom przez pierwsze 70% czasu, potem zatrzymaj
+        zoom_duration = duration * 0.7  # Zoom przez 70% czasu
+        
         def zoom_func(t):
-            zoom = 1.0 + (0.1 * t / duration)
+            if t < zoom_duration:
+                # Zoom od 100% do 105% podczas zoom_duration
+                zoom = 1.0 + (0.05 * t / zoom_duration)
+            else:
+                # Zatrzymaj na 105% przez resztę czasu
+                zoom = 1.05
             return zoom
         
         return image_clip.resized(lambda t: zoom_func(t))
@@ -210,8 +231,9 @@ class SlideRenderer:
         duration = slide_data.get('duration', self.template['slide_defaults']['duration'])
         slide_clip = ImageClip(slide_array, duration=duration)
         
-        # Apply Ken Burns effect
-        slide_clip = self._apply_ken_burns_effect(slide_clip, duration)
+        # Apply Ken Burns effect (ale nie dla ostatniego slajdu CTA)
+        if slide_type != 'cta':
+            slide_clip = self._apply_ken_burns_effect(slide_clip, duration)
         
         return slide_clip
     
@@ -237,35 +259,50 @@ class SlideRenderer:
         )
     
     def _render_intro_slide(self, image: Image.Image, slide_data: Dict, book_info: Dict) -> Image.Image:
-        """Render intro slide with title and author"""
-        # Draw main title
-        title_pos = calculate_text_position(
-            self.text_settings['positions']['title'],
-            self.video_settings['width'],
-            self.video_settings['height']
-        )
+        """Render intro slide with book title, author and year"""
+        # For intro slide, we want to display:
+        # 1. Book title (from book_info)
+        # 2. Author name
+        # 3. Year of publication
         
+        # Calculate center position
+        center_x = self.video_settings['width'] // 2
+        start_y = self.video_settings['height'] // 3  # Start from upper third
+        
+        # Draw book title
+        title_text = book_info.get('title', 'Nieznany tytuł')
         image = self._draw_text_on_image(
             image,
-            slide_data['text'],
+            title_text,
             self.fonts['title'],
-            title_pos,
+            (center_x, start_y),
             self.color_primary,
             align='center',
             max_width=int(self.video_settings['width'] * 0.9)
         )
         
-        # Draw subtitle (author)
-        if 'subtitle' in slide_data:
-            subtitle_pos = (
-                self.video_settings['width'] // 2,
-                title_pos[1] + self.text_settings['font_size_title'] + 40
-            )
+        # Draw author name
+        author_text = book_info.get('author', 'Nieznany autor')
+        author_y = start_y + self.text_settings['font_size_title'] + 30
+        image = self._draw_text_on_image(
+            image,
+            author_text,
+            self.fonts.get('author', self.fonts['small']),  # Użyj mniejszej czcionki dla autora
+            (center_x, author_y),
+            self.color_secondary,
+            align='center',
+            max_width=int(self.video_settings['width'] * 0.8)  # Ogranicz szerokość
+        )
+        
+        # Draw year
+        year_text = str(book_info.get('year', ''))
+        if year_text:
+            year_y = author_y + self.text_settings.get('font_size_author', 55) + 20
             image = self._draw_text_on_image(
                 image,
-                slide_data['subtitle'],
-                self.fonts['body'],
-                subtitle_pos,
+                year_text,
+                self.fonts['small'],
+                (center_x, year_y),
                 self.color_secondary,
                 align='center'
             )
@@ -329,21 +366,11 @@ class SlideRenderer:
             max_width=int(self.video_settings['width'] * 0.85)
         )
         
-        # Add hashtags if present
-        if 'hashtags' in slide_data:
-            hashtag_text = ' '.join(slide_data['hashtags'])
-            hashtag_pos = (
-                self.video_settings['width'] // 2,
-                cta_pos[1] + self.text_settings['font_size_cta'] + 50
-            )
-            image = self._draw_text_on_image(
-                image,
-                hashtag_text,
-                self.fonts['small'],
-                hashtag_pos,
-                self.color_primary,
-                align='center'
-            )
+        # Hashtagi usunięte - nie wyświetlamy ich na video
+        # if 'hashtags' in slide_data:
+        #     hashtag_text = ' '.join(slide_data['hashtags'])
+        #     ...
+        # Hashtagi są w opisie video na TikToku, nie na samym filmie
         
         return image
     
@@ -369,11 +396,11 @@ class SlideRenderer:
         """Add slide progress indicator"""
         draw = ImageDraw.Draw(image)
         
-        # Position at bottom center
+        # Position at bottom center (above TikTok UI elements)
         bar_width = 200
         bar_height = 4
         bar_x = (self.video_settings['width'] - bar_width) // 2
-        bar_y = self.video_settings['height'] - 100
+        bar_y = self.video_settings['height'] - 350  # Above TikTok's 320px bottom safe zone
         
         # Draw background bar
         draw.rectangle(

@@ -13,7 +13,7 @@ from io import BytesIO
 
 from .slide_renderer import SlideRenderer
 from .text_animator import TextAnimator
-from .utils import ensure_dir, get_font_path, generate_background_prompt_hash
+from .utils import ensure_dir, get_font_path
 
 console = Console()
 
@@ -163,9 +163,6 @@ class VideoGenerator:
         
         ensure_dir(Path(output_path).parent)
         
-        # Generate or load background
-        background = self._generate_or_load_background(book_config, book_yaml_path)
-        
         # Generate slides
         slides = []
         book_dir = Path(book_yaml_path).parent
@@ -213,8 +210,7 @@ class VideoGenerator:
                 scene_img = Image.open(scene_files[idx])
                 scene_array = np.array(scene_img.resize((self.width, self.height), Image.Resampling.LANCZOS))
             else:
-                console.print(f"[yellow]Using background for slide {idx}[/yellow]")
-                scene_array = np.copy(background)
+                raise FileNotFoundError(f"Missing AI-generated scene for slide {idx}. All scenes must be generated!")
             
             # Render slide with text
             slide_clip = self.slide_renderer.render_slide(
