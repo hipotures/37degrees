@@ -198,11 +198,12 @@ slides:
     text: "Ta krótka książka nauczy Cię więcej o życiu niż niejeden podręcznik filozofii"
     scene:
       elements:
-        - "floating everyday objects transformed: box→castle, hat→elephant"
-        - "child's perspective looking upward"
-        - "wonder-filled eyes"
-        - "transformation sparkles"
-        - "philosophy books fading in background"
+        - "floating everyday simple objects with magical sparkles"
+        - "cardboard box with castle-like glow"
+        - "ordinary hat with mysterious aura"
+        - "child looking up with wonder-filled eyes"
+        - "transformation sparkles and light effects"
+        - "faded philosophy books in background"
       composition: "objects floating in dreamlike arrangement above child"
       camera_angle: "low angle, child's point of view"
       focus_point: "the magical transformations"
