@@ -1,0 +1,80 @@
+{
+  "book": {
+    "title": "Tytuł Książki",
+    "title_genitive": "Tytułu Książki",
+    "emoji": "📚",
+    "author": {
+      "name": "Imię i Nazwisko Autora",
+      "emoji": "✍️",
+      "description": "Krótki opis autora i jego związku z książką..."
+    }
+  },
+  
+  "hero": {
+    "description": "Wyrusz w interaktywną podróż, aby odkryć tajemnice i ponadczasową mądrość tego klasycznego dzieła literatury."
+  },
+  
+  "timeline": [
+    {
+      "year": "1900",
+      "event": "Narodziny autora w mieście X."
+    },
+    {
+      "year": "1925",
+      "event": "Pierwsze próby literackie i publikacje."
+    },
+    {
+      "year": "1945",
+      "event": "Publikacja głównego dzieła."
+    }
+  ],
+  
+  "characters": [
+    {
+      "id": "protagonist",
+      "name": "Główny Bohater",
+      "emoji": "🦸",
+      "color": "bg-blue-200",
+      "description": "Symbolizuje poszukiwanie sensu życia i walkę z przeciwnościami losu."
+    },
+    {
+      "id": "mentor",
+      "name": "Mentor",
+      "emoji": "🧙",
+      "color": "bg-purple-200",
+      "description": "Reprezentuje mądrość i przewodnictwo duchowe."
+    }
+  ],
+  
+  "curiosities": [
+    {
+      "title": "Nocne pisanie",
+      "description": "Autor pisał głównie nocami, przy świecach i mocnej kawie..."
+    },
+    {
+      "title": "Pierwszy nakład",
+      "description": "Pierwsze wydanie miało tylko 500 egzemplarzy..."
+    }
+  ],
+  
+  "statistics": {
+    "translations": 250,
+    "sold_copies_millions": 50,
+    "countries": ["Polska", "Francja", "USA", "Japonia", "Niemcy"]
+  },
+  
+  "adaptations": [
+    {
+      "type": "Film (1970)",
+      "title": "Reż. Jan Kowalski",
+      "description": "Pierwsza ekranizacja, która zdobyła 3 Oscary.",
+      "image": "placeholder"
+    },
+    {
+      "type": "Musical (1985)",
+      "title": "Broadway",
+      "description": "Spektakl wystawiany przez 10 lat.",
+      "image": "placeholder"
+    }
+  ]
+}

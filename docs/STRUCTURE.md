@@ -9,8 +9,14 @@ The project has been reorganized to better support multimedia content for each b
 ```
 37degrees/
 ├── books/                      # All book content
-│   └── [book_name]/           # Individual book directory
+│   └── NNNN_[book_name]/      # Individual book directory (e.g., 0017_little_prince)
 │       ├── book.yaml          # Book metadata and slides
+│       ├── docs/              # Documentation and research
+│       │   ├── review.md      # Fascinating facts and discoveries
+│       │   ├── book_page.html # Interactive HTML presentation
+│       │   └── README.md      # Documentation guide
+│       ├── generated/         # AI-generated images
+│       ├── prompts/           # Generated AI prompts
 │       ├── cover.jpg/png      # Book cover image
 │       ├── background.jpg/png # Custom background (optional)
 │       ├── audio/             # Book-specific audio
@@ -23,11 +29,22 @@ The project has been reorganized to better support multimedia content for each b
 ├── shared_assets/             # Shared resources
 │   ├── fonts/                 # Common fonts
 │   ├── music/                 # Shared background music
-│   ├── templates/             # Video generation templates
+│   ├── templates/             # HTML and video templates
+│   │   ├── book_page_template.html
+│   │   └── book_page_data_example.json
 │   └── backgrounds/           # Shared AI-generated backgrounds
 │
 ├── collections/               # Series definitions
-│   └── classics.yaml          # Classic books series
+│   └── classics.yaml          # Classic books series (37 books)
+│
+├── scripts/                   # Helper scripts
+│   ├── create_docs_structure.py # Auto-create docs directories
+│   └── ...
+│
+├── docs/                      # Project documentation
+│   ├── HTML_PAGE_GENERATION_GUIDE.md
+│   ├── BOOK_STRUCTURE.md
+│   └── ...
 │
 ├── output/                    # Generated videos
 └── src/                       # Source code
@@ -43,22 +60,28 @@ The project has been reorganized to better support multimedia content for each b
 
 ## Adding a New Book
 
-1. Create a new directory in `books/`:
+1. Create a new directory in `books/` with proper numbering:
    ```bash
-   mkdir books/my_new_book
-   mkdir books/my_new_book/audio
-   mkdir books/my_new_book/assets
+   mkdir books/NNNN_my_new_book
+   mkdir books/NNNN_my_new_book/audio
+   mkdir books/NNNN_my_new_book/assets
+   python scripts/create_docs_structure.py  # Creates docs/ directories
    ```
 
 2. Add the book YAML file as `book.yaml`
 
-3. Add optional assets:
+3. Add documentation:
+   - Create `docs/review.md` with fascinating facts
+   - Use templates from `shared_assets/templates/` for HTML page
+   - See [HTML Page Generation Guide](HTML_PAGE_GENERATION_GUIDE.md)
+
+4. Add optional assets:
    - `cover.jpg` or `cover.png` - Book cover
    - `background.jpg` or `background.png` - Custom background
    - `audio/theme.mp3` - Book-specific music
    - Any other assets in the `assets/` folder
 
-4. Add the book to a series (e.g., in `collections/classics.yaml`)
+5. Add the book to a series (e.g., in `collections/classics.yaml`)
 
 ## Asset Priority
 

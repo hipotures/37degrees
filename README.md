@@ -54,13 +54,20 @@ python main.py ai classics
 ├── books/               # Book configurations and assets
 │   └── NNNN_[book_name]/ # Books numbered by ID (e.g., 0017_little_prince)
 │       ├── book.yaml    # Book configuration
+│       ├── docs/        # Book documentation and research
+│       │   ├── review.md         # Fascinating facts and discoveries
+│       │   ├── book_page.html    # Interactive HTML presentation
+│       │   └── README.md         # Documentation guide
 │       ├── generated/   # AI-generated images
 │       └── prompts/     # Generated AI prompts
 ├── collections/         # Book collections/series
 │   └── classics.yaml    # Main collection of 37 classic books
 ├── scripts/            # Helper and test scripts
-├── shared_assets/      # Fonts, backgrounds, etc.
-└── docs/              # Documentation
+│   ├── create_docs_structure.py  # Auto-create docs directories
+│   └── ...
+├── shared_assets/      # Fonts, backgrounds, templates
+│   └── templates/      # HTML page templates
+└── docs/              # Project documentation
 ```
 
 ## ⚡ Features
@@ -84,6 +91,12 @@ python main.py ai classics
 - TikTok Safe Zone compliance
 - GPU-accelerated encoding (NVENC)
 - Rich progress bars and status updates
+
+### Interactive HTML Pages
+- Professional book presentations with Charts.js visualizations
+- Interactive timelines and character explorers
+- Responsive design with Tailwind CSS
+- Template-based generation for consistency
 
 ## 📝 Book Configuration
 
@@ -151,8 +164,16 @@ pip install -r requirements.txt
 - **Use custom template**: `python main.py video 17 --template my_template`
 - **Generate specific book from collection**: `python main.py video classics 17`
 
+### Documentation and Research
+1. **Create docs structure**: `python scripts/create_docs_structure.py`
+2. **Add research**: Create `review.md` with fascinating facts about the book
+3. **Generate HTML page**: Use templates from `shared_assets/templates/`
+4. **View result**: Open `books/NNNN_book_name/docs/book_page.html`
+
 ## 📚 Documentation
 
+- [HTML Page Generation Guide](docs/HTML_PAGE_GENERATION_GUIDE.md) - How to create interactive book pages
+- [Book Structure](docs/BOOK_STRUCTURE.md) - Organization of book directories
 - [InvokeAI Models Guide](docs/invoke_models_guide.md) - Recommended models for different genres
 - [SDXL Resolutions](docs/sdxl_resolutions.md) - Optimal resolutions for SDXL
 - [Project Structure](docs/STRUCTURE.md) - Detailed project organization
