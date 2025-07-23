@@ -11,6 +11,11 @@ from datetime import datetime
 import requests
 from io import BytesIO
 
+# Configure MoviePy to use system ffmpeg
+import moviepy.config as moviepy_config
+import os
+moviepy_config.FFMPEG_BINARY = "/usr/bin/ffmpeg"
+
 from .slide_renderer import SlideRenderer
 from .text_animator import TextAnimator
 from .utils import ensure_dir, get_font_path
@@ -245,16 +250,101 @@ class VideoGenerator:
         # Add audio
         final_video = self._add_audio_track(final_video, book_info['title'], book_yaml_path)
         
+        # Check for GPU acceleration post-processing
+        use_gpu_postprocess = False
+        gpu_ffmpeg_path = "/home/xai/DEV/37degrees/tmp/ffmpeg-install/bin/ffmpeg"
+        
+        try:
+            import subprocess
+            # Check for NVIDIA GPU and custom ffmpeg
+            if os.path.exists(gpu_ffmpeg_path):
+                nvidia_check = subprocess.run(['nvidia-smi'], capture_output=True, text=True)
+                if nvidia_check.returncode == 0:
+                    # Verify h264_nvenc is available in custom ffmpeg
+                    nvenc_test = subprocess.run(
+                        [gpu_ffmpeg_path, '-hide_banner', '-encoders'], 
+                        capture_output=True, text=True,
+                        env={**os.environ, 'LD_LIBRARY_PATH': '/home/xai/DEV/37degrees/tmp/ffmpeg-install/lib:' + os.environ.get('LD_LIBRARY_PATH', '')}
+                    )
+                    if 'h264_nvenc' in nvenc_test.stdout:
+                        use_gpu_postprocess = True
+                        console.print("[green]✓ GPU acceleration available for post-processing[/green]")
+                    else:
+                        console.print("[yellow]Custom FFmpeg found but h264_nvenc not available[/yellow]")
+        except Exception as e:
+            console.print(f"[yellow]GPU check failed: {e}[/yellow]")
+        
         # Write video file
         console.print(f"[blue]Writing video to: {output_path}[/blue]")
-        final_video.write_videofile(
-            output_path,
-            fps=self.fps,
-            codec=self.codec,
-            audio_codec='aac',
-            temp_audiofile='temp-audio.m4a',
-            remove_temp=True
-        )
+        
+        # First encode with CPU (fast)
+        temp_output = output_path.replace('.mp4', '_temp.mp4')
+        
+        if use_gpu_postprocess:
+            # Use fast CPU encoding first
+            console.print("[blue]Creating temporary video with CPU encoding...[/blue]")
+            final_video.write_videofile(
+                temp_output,
+                fps=self.fps,
+                codec=self.codec,
+                audio_codec='aac',
+                temp_audiofile='temp-audio.m4a',
+                remove_temp=True,
+                preset='ultrafast',  # Fast CPU encoding
+                ffmpeg_params=['-crf', '23']
+            )
+            
+            # Then re-encode with GPU
+            console.print("[green]Re-encoding with GPU acceleration...[/green]")
+            gpu_env = {**os.environ, 'LD_LIBRARY_PATH': '/home/xai/DEV/37degrees/tmp/ffmpeg-install/lib:' + os.environ.get('LD_LIBRARY_PATH', '')}
+            gpu_cmd = [
+                gpu_ffmpeg_path,
+                '-y',  # Overwrite output
+                '-i', temp_output,  # Input file
+                '-c:v', 'h264_nvenc',  # Use NVENC
+                '-preset', 'p4',  # NVENC preset (balance quality/speed)
+                '-rc', 'vbr',  # Variable bitrate
+                '-cq', '23',  # Constant quality
+                '-b:v', '8M',  # Target bitrate
+                '-maxrate', '12M',  # Max bitrate
+                '-bufsize', '16M',  # Buffer size
+                '-pix_fmt', 'yuv420p',  # Pixel format
+                '-c:a', 'copy',  # Copy audio without re-encoding
+                output_path
+            ]
+            
+            gpu_process = subprocess.run(gpu_cmd, env=gpu_env, capture_output=True, text=True)
+            
+            if gpu_process.returncode == 0:
+                console.print("[green]✓ GPU encoding successful![/green]")
+                # Remove temporary file
+                os.remove(temp_output)
+            else:
+                console.print(f"[red]GPU encoding failed: {gpu_process.stderr}[/red]")
+                # Rename temp file as final output
+                os.rename(temp_output, output_path)
+        else:
+            # Use optimized CPU encoding with multi-threading
+            import multiprocessing
+            cpu_threads = multiprocessing.cpu_count()
+            console.print(f"[yellow]Using optimized CPU encoding with {cpu_threads} threads[/yellow]")
+            
+            final_video.write_videofile(
+                output_path,
+                fps=self.fps,
+                codec=self.codec,
+                audio_codec='aac',
+                temp_audiofile='temp-audio.m4a',
+                remove_temp=True,
+                preset='fast',  # Faster than medium, still good quality
+                threads=cpu_threads,  # Use all CPU cores
+                ffmpeg_params=[
+                    '-threads', str(cpu_threads),  # Force thread count in ffmpeg
+                    '-crf', '23',  # Constant quality (18-28, lower is better)
+                    '-tune', 'film',  # Better for video content
+                    '-movflags', '+faststart'  # Web optimization
+                ]
+            )
         
         # Clean up
         final_video.close()

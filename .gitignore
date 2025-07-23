@@ -111,3 +111,6 @@ docs/.doctrees/
 *~
 \#*\#
 .\#*
+
+# Temporary build directory
+tmp/
