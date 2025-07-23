@@ -36,17 +36,16 @@ class PromptBuilder:
             raise ValueError(f"Slide index {slide_index} out of range")
         
         slide = self.book_data['slides'][slide_index]
-        art_style = self.book_data['art_style']
+        custom_art_style = self.book_data.get('custom_art_style', {})
+        template_art_style = self.book_data.get('template_art_style', '')
         book_info = self.book_data['book_info']
+        technical_specs = self.book_data.get('technical_specs', {})
         
         # Build the complete prompt structure
         prompt_data = {
             'scene_generation': {
-                'technical_specs': {
-                    'resolution': art_style['resolution'],
-                    'aspect_ratio': art_style['aspect_ratio']
-                },
-                'art_style': art_style,  # Include all art style fields
+                'template_art_style': template_art_style if template_art_style else 'custom',
+                'custom_art_style': custom_art_style,
                 'scene_details': {
                     'slide_type': slide['type'],
                     'elements': slide['scene']['elements'],

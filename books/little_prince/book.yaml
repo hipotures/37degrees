@@ -5,11 +5,25 @@ book_info:
   genre: "Filozoficzna baśń"
   reading_time: "2-3 godziny"
 
-art_style:
-  # Technical requirements
+technical_specs:
   resolution: "1080x1920"
   aspect_ratio: "9:16"
-  
+  format: "vertical"
+  fps: 30
+  duration_per_slide: 3.5
+
+# AI generation settings
+ai_generation:
+  model_key: "c81f2f9b-cabd-40ec-b6f4-d3172c10bafc"  # Dreamshaper XL v2 Turbo
+  model_name: "Dreamshaper XL v2 Turbo"
+  steps: 30
+  cfg_scale: 7.5
+  sampler: "euler_a"
+
+# Style template from InvokeAI (leave empty or '-' to use custom_art_style)
+template_art_style: "Illustration"
+
+custom_art_style:
   # Core style directive - THIS IS MOST IMPORTANT
   primary_style: "minimalist children's book illustration with naive art approach"
   complexity: "very simple, reduced forms, minimal details, childlike drawing"
@@ -34,10 +48,57 @@ art_style:
   avoid: "photorealistic rendering, complex textures, detailed shading"
   emphasize: "childlike wonder, storybook simplicity, dreamlike quality"
 
+# Text overlay configuration
+text_overlay:
+  # Choose text visibility method (pick one):
+  method: "outline"  # Current selection
+  
+  # Available methods:
+  # "outline" - Text with colored border (good for any background)
+  # "shadow" - Drop shadow effect (subtle, works on light backgrounds)
+  # "box" - Semi-transparent box behind text (clean, professional)
+  # "gradient" - Darkening gradient at top of image (cinematic)
+  # "glow" - Soft glow around text (magical effect)
+  
+  # Method-specific settings:
+  outline:
+    color: "black"
+    width: 3
+    
+  shadow:
+    color: "rgba(0, 0, 0, 0.8)"
+    offset_x: 2
+    offset_y: 2
+    blur: 4
+    
+  box:
+    color: "rgba(0, 0, 0, 0.5)"
+    padding: 20
+    border_radius: 15
+    
+  gradient:
+    start_opacity: 0.7
+    end_opacity: 0.0
+    height_percent: 40  # Gradient covers top 40% of image
+    
+  glow:
+    color: "white"
+    intensity: 0.8
+    spread: 10
+
+  # Text styling (applies to all methods)
+  font:
+    family: "Arial"  # Will try to load system font
+    size: 48
+    color: "white"
+    weight: "bold"
+    line_height: 1.4
+    alignment: "center"  # left, center, right
+
 slides:
   - type: "hook"
     duration: 2.5
-    text: "Czy wiesz, że najważniejsze jest niewidoczne dla oczu? 👁️"
+    text: "Czy wiesz, że najważniejsze jest niewidoczne dla oczu?"
     scene:
       elements:
         - "mystical eye with cosmic iris"
@@ -69,7 +130,7 @@ slides:
     
   - type: "story"
     duration: 4
-    text: "Pilot rozbija się na Saharze i spotyka tajemniczego chłopca z innej planety 🌟"
+    text: "Pilot rozbija się na Saharze i spotyka tajemniczego chłopca z innej planety"
     scene:
       elements:
         - "small vintage airplane in sand"

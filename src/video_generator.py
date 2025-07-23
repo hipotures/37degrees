@@ -2,8 +2,10 @@ import os
 import yaml
 from pathlib import Path
 from typing import Dict, List, Optional
-from moviepy.editor import *
-from moviepy.video.fx import resize, fadein, fadeout
+from moviepy import VideoFileClip, ImageClip, CompositeVideoClip, concatenate_videoclips, AudioFileClip
+from moviepy.video.fx.resize import resize
+from moviepy.video.fx.fadein import fadein
+from moviepy.video.fx.fadeout import fadeout
 from PIL import Image, ImageDraw, ImageFont
 import numpy as np
 from rich.console import Console
