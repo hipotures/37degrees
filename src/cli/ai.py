@@ -71,13 +71,13 @@ def generate_single_book_images(book_yaml_path: Path):
             # Initialize generation
             progress.update(main_task, description="Starting image generation...")
             
-            # Use the simple InvokeAI generator that works
+            # Use simple generator (working but without board support for now)
             import subprocess
             import sys
             
             progress.update(main_task, description="Running InvokeAI generator...")
             
-            # Hide output to prevent conflicting progress bars
+            # Run simple generator
             result = subprocess.run([
                 sys.executable, "src/simple_invokeai_generator.py", str(book_yaml_path)
             ], capture_output=True, text=True)

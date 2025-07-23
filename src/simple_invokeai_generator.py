@@ -23,6 +23,7 @@ class SimpleInvokeAIGenerator:
         self.base_url = base_url
         self.api_url = f"{base_url}/api/v1"
         self.session = requests.Session()
+        self.board_id = None
         
     def test_connection(self) -> bool:
         """Test if InvokeAI is accessible"""
@@ -94,6 +95,14 @@ class SimpleInvokeAIGenerator:
                             if img['image_name'] not in before_names:
                                 status.stop()
                                 console.print(f"[green]✓ New image ready: {img['image_name']} (after {elapsed}s)[/green]")
+                                
+                                # Add to board if we have one
+                                if self.board_id:
+                                    if self.add_image_to_board(self.board_id, img['image_name']):
+                                        console.print(f"[green]✓ Added to board[/green]")
+                                    else:
+                                        console.print(f"[yellow]⚠ Failed to add to board[/yellow]")
+                                
                                 return img['image_name']
                     
                     time.sleep(1)
@@ -266,6 +275,49 @@ class SimpleInvokeAIGenerator:
         
         return workflow
     
+    def get_or_create_board(self, board_name: str) -> Optional[str]:
+        """Get or create a board by name"""
+        try:
+            # First check if board exists
+            response = self.session.get(f"{self.api_url}/boards/?all=true")
+            
+            if response.status_code == 200:
+                boards = response.json()
+                for board in boards:
+                    if board.get('board_name') == board_name:
+                        console.print(f"[green]Using existing board: {board_name}[/green]")
+                        return board['board_id']
+            
+            # Create new board
+            from urllib.parse import quote
+            response = self.session.post(
+                f"{self.api_url}/boards/?board_name={quote(board_name)}"
+            )
+            
+            if response.status_code == 201:
+                board = response.json()
+                console.print(f"[green]Created new board: {board_name}[/green]")
+                return board['board_id']
+            else:
+                console.print(f"[red]Failed to create board: {response.text}[/red]")
+                
+        except Exception as e:
+            console.print(f"[red]Error managing board: {e}[/red]")
+        
+        return None
+    
+    def add_image_to_board(self, board_id: str, image_name: str) -> bool:
+        """Add an image to a board"""
+        try:
+            response = self.session.post(
+                f"{self.api_url}/board_images/",
+                json={"board_id": board_id, "image_name": image_name}
+            )
+            return response.status_code == 201
+        except Exception as e:
+            console.print(f"[red]Error adding image to board: {e}[/red]")
+            return False
+    
     def download_image(self, image_name: str, output_path: str) -> bool:
         """Download an image from InvokeAI"""
         try:
@@ -418,6 +470,12 @@ def main():
     if not generator.test_connection():
         console.print("[red]Failed to connect to InvokeAI[/red]")
         return
+    
+    # Create or get board for this book
+    book_title = book_data.get('book_info', {}).get('title', 'Unknown')
+    board_name = f"37degrees - {book_title}"
+    console.print(f"[blue]Looking for board: {board_name}[/blue]")
+    generator.board_id = generator.get_or_create_board(board_name)
     
     # Get configuration
     custom_art_style = book_data.get('custom_art_style', {})
