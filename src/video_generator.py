@@ -339,7 +339,7 @@ class VideoGenerator:
             # Use optimized CPU encoding with multi-threading
             import multiprocessing
             cpu_threads = multiprocessing.cpu_count()
-            console.print(f"[yellow]Using optimized CPU encoding with {cpu_threads} threads[/yellow]")
+            console.print(f"[yellow]Using CPU encoding (MoviePy limitation: single-threaded rendering)[/yellow]")
             
             final_video.write_videofile(
                 output_path,
