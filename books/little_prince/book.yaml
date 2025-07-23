@@ -21,7 +21,7 @@ ai_generation:
   sampler: "euler_a"
 
 # Style template from InvokeAI (leave empty or '-' to use custom_art_style)
-template_art_style: "Illustration"
+template_art_style: "" # "Illustration"
 
 custom_art_style:
   # Core style directive - THIS IS MOST IMPORTANT

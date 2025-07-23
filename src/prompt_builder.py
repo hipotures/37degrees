@@ -1,93 +1,156 @@
 #!/usr/bin/env python3
 """
-Prompt builder for AI scene generation
-Builds YAML prompts combining art style and scene descriptions
+Builds prompts for AI image generation based on book scene descriptions
+Shows EXACTLY what will be sent to the AI, including negative prompts
 """
 
 import yaml
-from typing import Dict, Any
 from pathlib import Path
+from typing import Dict, List
 
 
 class PromptBuilder:
-    """Builds YAML prompts for AI scene generation"""
-    
     def __init__(self, book_yaml_path: str):
-        """Initialize with book YAML file"""
-        self.book_yaml_path = Path(book_yaml_path)
-        self.book_data = self._load_book_data()
-        
-    def _load_book_data(self) -> Dict[str, Any]:
-        """Load book YAML configuration"""
-        with open(self.book_yaml_path, 'r', encoding='utf-8') as f:
-            return yaml.safe_load(f)
+        """Initialize with book YAML configuration"""
+        self.book_path = Path(book_yaml_path)
+        with open(self.book_path, 'r', encoding='utf-8') as f:
+            self.book_data = yaml.safe_load(f)
     
     def build_scene_prompt(self, slide_index: int) -> str:
-        """
-        Build YAML prompt for a specific scene
-        
-        Args:
-            slide_index: Index of the slide (0-based)
-            
-        Returns:
-            YAML string with complete scene prompt
-        """
-        if slide_index >= len(self.book_data['slides']):
+        """Build COMPLETE prompt for a specific scene as it will be sent to AI"""
+        if slide_index < 0 or slide_index >= len(self.book_data['slides']):
             raise ValueError(f"Slide index {slide_index} out of range")
         
         slide = self.book_data['slides'][slide_index]
+        scene = slide['scene']
         custom_art_style = self.book_data.get('custom_art_style', {})
         template_art_style = self.book_data.get('template_art_style', '')
-        book_info = self.book_data['book_info']
-        technical_specs = self.book_data.get('technical_specs', {})
+        ai_generation = self.book_data.get('ai_generation', {})
+        tech_specs = self.book_data.get('technical_specs', {})
         
-        # Build the complete prompt structure
+        # Build the COMPLETE prompts
+        positive_prompt = self._build_full_positive_prompt(slide, custom_art_style, template_art_style)
+        negative_prompt = self._build_full_negative_prompt(custom_art_style, template_art_style)
+        
+        # Build COMPLETE prompt data showing EVERYTHING sent to AI
         prompt_data = {
-            'scene_generation': {
-                'template_art_style': template_art_style if template_art_style else 'custom',
-                'custom_art_style': custom_art_style,
-                'scene_details': {
-                    'slide_type': slide['type'],
-                    'elements': slide['scene']['elements'],
-                    'composition': slide['scene']['composition'],
-                    'camera_angle': slide['scene']['camera_angle'],
-                    'focus_point': slide['scene']['focus_point'],
-                    'atmosphere': slide['scene']['atmosphere'],
-                    'background': slide['scene']['background']
-                },
-                'generation_instructions': {
-                    'maintain_consistency': "Keep visual style consistent across all scenes",
-                    'text_space': "Leave clear space in upper third of image (above 66% height) for text overlay",
-                    'mood': f"Match the {slide['scene']['atmosphere']} atmosphere",
-                    'quality': "High quality, detailed illustration suitable for video",
-                    'no_text': "Do not include any text, letters, words, or written elements in the image",
-                    'style_emphasis': "Emphasize whimsical, childlike wonder with simplified forms and dreamlike quality",
-                    'magical_elements': "Add subtle magical touches - floating stars, soft glows, ethereal particles that enhance the fairy-tale atmosphere"
-                }
-            }
+            'positive_prompt': positive_prompt,
+            'negative_prompt': negative_prompt,
+            'resolution': tech_specs.get('resolution', '1080x1920'),
+            'model': ai_generation.get('model_name', 'Dreamshaper XL v2 Turbo'),
+            'model_key': ai_generation.get('model_key', 'c81f2f9b-cabd-40ec-b6f4-d3172c10bafc'),
+            'steps': ai_generation.get('steps', 30),
+            'cfg_scale': ai_generation.get('cfg_scale', 7.5),
+            'sampler': ai_generation.get('sampler', 'euler_a'),
+            'template_used': template_art_style if template_art_style and template_art_style not in ['', '-'] else 'custom'
         }
         
-        # Convert to YAML with nice formatting
         return yaml.dump(prompt_data, 
                         default_flow_style=False, 
                         allow_unicode=True,
                         sort_keys=False,
-                        width=80)
+                        width=200)  # Wide to accommodate long prompts
     
-    def build_all_scene_prompts(self) -> Dict[int, str]:
-        """
-        Build prompts for all scenes in the book
+    def _build_full_positive_prompt(self, slide: Dict, custom_art_style: Dict, template_art_style: str) -> str:
+        """Build the COMPLETE positive prompt as sent to AI"""
+        scene = slide.get('scene', {})
         
-        Returns:
-            Dictionary mapping slide index to YAML prompt
-        """
-        prompts = {}
-        for i in range(len(self.book_data['slides'])):
-            prompts[i] = self.build_scene_prompt(i)
-        return prompts
+        if template_art_style and template_art_style not in ['', '-']:
+            # Using template style - would need to load actual template from InvokeAI
+            # For now, showing what would happen with known templates
+            if template_art_style == 'Illustration':
+                template = "{prompt} illustration, bold linework, illustrative details, vector art style, flat coloring"
+                scene_elements = self._build_scene_elements(scene)
+                return template.replace('{prompt}', scene_elements)
+            else:
+                # Unknown template
+                return f"[TEMPLATE: {template_art_style}] {self._build_scene_elements(scene)}"
+        else:
+            # Using custom art style - build FULL prompt
+            prompt_parts = []
+            
+            # 1. Primary style directive
+            prompt_parts.append(custom_art_style.get('primary_style', 'illustration'))
+            
+            # 2. Complexity
+            prompt_parts.append(f"style of {custom_art_style.get('complexity', 'simple artwork')}")
+            
+            # 3. Scene elements
+            scene_elements = self._build_scene_elements(scene)
+            if scene_elements:
+                prompt_parts.append(scene_elements)
+            
+            # 4. Color palette
+            color_palette = custom_art_style.get('color_palette', {})
+            if color_palette.get('base'):
+                colors = ", ".join(color_palette['base'][:3])
+                prompt_parts.append(f"color palette: {colors}")
+            
+            # 5. Technical requirements
+            prompt_parts.extend([
+                "vertical composition",
+                "clear space in upper third for text overlay",
+                custom_art_style.get('line_work', 'clean lines'),
+                custom_art_style.get('color_technique', 'flat colors'),
+                custom_art_style.get('overall_feeling', 'whimsical')
+            ])
+            
+            return ", ".join(prompt_parts)
+    
+    def _build_scene_elements(self, scene: Dict) -> str:
+        """Build scene-specific elements"""
+        scene_parts = []
+        
+        # Elements
+        elements = scene.get('elements', [])
+        if elements:
+            scene_parts.append(", ".join(elements))
+        
+        # Composition
+        if scene.get('composition'):
+            scene_parts.append(f"composition: {scene['composition']}")
+        
+        # Atmosphere/mood
+        if scene.get('atmosphere'):
+            scene_parts.append(f"{scene['atmosphere']} mood")
+        
+        # Background
+        if scene.get('background'):
+            scene_parts.append(f"background: {scene['background']}")
+            
+        return ", ".join(scene_parts)
+    
+    def _build_full_negative_prompt(self, custom_art_style: Dict, template_art_style: str) -> str:
+        """Build the COMPLETE negative prompt as sent to AI"""
+        if template_art_style and template_art_style not in ['', '-']:
+            # Template styles have their own negatives
+            if template_art_style == 'Illustration':
+                return "(photo)+++. greyscale. painting, black and white."
+            else:
+                return "text, watermark"  # Default for unknown templates
+        else:
+            # Using custom style negative prompt
+            negative_parts = [
+                "text", "letters", "words", "typography", "writing",
+                "watermark", "signature", "logo"
+            ]
+            
+            # Add style-specific negatives from 'avoid' field
+            avoid = custom_art_style.get('avoid', '')
+            if avoid:
+                negative_parts.append(avoid)
+            
+            # Add default negatives for non-photorealistic style
+            negative_parts.extend([
+                "photorealistic", "3d render", "complex textures",
+                "detailed shading", "realistic lighting",
+                "ugly", "deformed", "noisy", "blurry"
+            ])
+            
+            return ", ".join(negative_parts)
     
     def save_scene_prompt(self, slide_index: int, output_path: str):
-        """Save scene prompt to YAML file"""
+        """Save COMPLETE scene prompt to YAML file"""
         prompt = self.build_scene_prompt(slide_index)
         with open(output_path, 'w', encoding='utf-8') as f:
             f.write(prompt)
@@ -99,23 +162,22 @@ class PromptBuilder:
 
 
 def main():
-    """Example usage"""
-    # Create prompt builder for Little Prince
+    """Generate COMPLETE prompts for Little Prince"""
     builder = PromptBuilder('books/little_prince/book.yaml')
     
-    # Generate prompt for first scene
-    print("=== SCENE 1 PROMPT (YAML) ===")
+    print("=== SCENE 1 COMPLETE PROMPT (Exactly what AI receives) ===")
     print(builder.build_scene_prompt(0))
     
-    # Generate and save all prompts
-    print("\n=== GENERATING ALL SCENE PROMPTS ===")
+    print("\n=== GENERATING ALL SCENE PROMPTS WITH FULL DETAILS ===")
     output_dir = Path('books/little_prince/prompts')
     output_dir.mkdir(exist_ok=True)
     
     for i in range(len(builder.book_data['slides'])):
-        output_file = output_dir / f"scene_{i+1:02d}_prompt.yaml"
-        builder.save_scene_prompt(i, output_file)
-        print(f"Saved: {output_file} - {builder.get_scene_summary(i)}")
+        output_path = output_dir / f"scene_{i+1:02d}_prompt.yaml"
+        builder.save_scene_prompt(i, str(output_path))
+        print(f"Saved: {output_path} - {builder.get_scene_summary(i)}")
+    
+    print("\nAll prompts now show EXACTLY what will be sent to AI, including negative prompts!")
 
 
 if __name__ == "__main__":

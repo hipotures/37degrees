@@ -13,6 +13,8 @@ from pathlib import Path
 from typing import Dict, List, Optional
 import uuid
 from datetime import datetime
+import random
+import sys
 
 
 class InvokeAIGenerator:
@@ -20,6 +22,7 @@ class InvokeAIGenerator:
         self.base_url = base_url
         self.api_url = f"{base_url}/api/v1"
         self.session = requests.Session()
+        self.session_images = {}  # Track session_id to image mapping
         
     def test_connection(self) -> bool:
         """Test if InvokeAI is accessible"""
@@ -65,9 +68,10 @@ class InvokeAIGenerator:
             }
         }
         
-        print("\n=== REQUEST DATA ===")
-        print(json.dumps(request_data, indent=2)[:2000] + "...")
-        print("===================\n")
+        # Debug request data - commented out
+        # print("\n=== REQUEST DATA ===")
+        # print(json.dumps(request_data, indent=2)[:2000] + "...")
+        # print("===================\n")
         
         try:
             # Queue the workflow using batch endpoint
@@ -106,7 +110,6 @@ class InvokeAIGenerator:
         noise_id = str(uuid.uuid4())
         denoise_id = str(uuid.uuid4())
         l2i_id = str(uuid.uuid4())
-        image_id = str(uuid.uuid4())
         
         workflow = {
             "name": "text2img",
@@ -128,12 +131,14 @@ class InvokeAIGenerator:
                     "type": "sdxl_model_loader",
                     "position": {"x": 0, "y": 0},
                     "model": {
-                        "key": params.get("model_key", "c81f2f9b-cabd-40ec-b6f4-d3172c10bafc"),
+                        "key": params.get("model_key") or "c81f2f9b-cabd-40ec-b6f4-d3172c10bafc",
                         "hash": "blake3:d279309ea6e5ee6e8fd52504275865cc280dac71cbf528c5b07c98b888bddaba",
                         "name": "Dreamshaper XL v2 Turbo",
                         "base": "sdxl",
                         "type": "main"
-                    }
+                    },
+                    "is_intermediate": False,
+                    "use_cache": False
                 },
                 compel_pos_id: {
                     "id": compel_pos_id,
@@ -146,7 +151,9 @@ class InvokeAIGenerator:
                     "crop_top": 0,
                     "crop_left": 0,
                     "target_width": params["width"],
-                    "target_height": params["height"]
+                    "target_height": params["height"],
+                    "is_intermediate": False,
+                    "use_cache": False
                 },
                 compel_neg_id: {
                     "id": compel_neg_id,
@@ -159,16 +166,20 @@ class InvokeAIGenerator:
                     "crop_top": 0,
                     "crop_left": 0,
                     "target_width": params["width"],
-                    "target_height": params["height"]
+                    "target_height": params["height"],
+                    "is_intermediate": False,
+                    "use_cache": False
                 },
                 noise_id: {
                     "id": noise_id,
                     "type": "noise",
                     "position": {"x": 600, "y": 0},
-                    "seed": params.get("seed", -1),
+                    "seed": params.get("seed", -1) if params.get("seed", -1) != -1 else random.randint(0, 2**32-1),
                     "width": params["width"],
                     "height": params["height"],
-                    "use_cpu": False
+                    "use_cpu": False,
+                    "is_intermediate": False,
+                    "use_cache": False
                 },
                 denoise_id: {
                     "id": denoise_id,
@@ -179,17 +190,14 @@ class InvokeAIGenerator:
                     "denoising_start": 0,
                     "denoising_end": 1,
                     "scheduler": params["sampler"],
-                    "cfg_rescale_multiplier": 0
+                    "cfg_rescale_multiplier": 0,
+                    "is_intermediate": False,
+                    "use_cache": False
                 },
                 l2i_id: {
                     "id": l2i_id,
                     "type": "l2i",
-                    "position": {"x": 1200, "y": 100}
-                },
-                image_id: {
-                    "id": image_id,
-                    "type": "image",
-                    "position": {"x": 1500, "y": 100},
+                    "position": {"x": 1200, "y": 100},
                     "is_intermediate": False,
                     "use_cache": False
                 }
@@ -245,11 +253,6 @@ class InvokeAIGenerator:
                     "source": {"node_id": model_id, "field": "vae"},
                     "destination": {"node_id": l2i_id, "field": "vae"}
                 },
-                {
-                    "id": str(uuid.uuid4()),
-                    "source": {"node_id": l2i_id, "field": "image"},
-                    "destination": {"node_id": image_id, "field": "image"}
-                }
             ]
         }
         
@@ -317,7 +320,48 @@ class InvokeAIGenerator:
     def _get_session_output(self, session_id: str) -> Optional[Dict]:
         """Get output from completed session"""
         try:
-            # Get the queue item details which contains the results
+            # Wait a moment for the image to be saved
+            time.sleep(2)
+            
+            # Get latest generated images from API
+            images_response = self.session.get(
+                f"{self.api_url}/images/",
+                params={"limit": 10, "order_by": "created_at", "order_dir": "DESC"}
+            )
+            
+            if images_response.status_code == 200:
+                images = images_response.json().get("items", [])
+                # print(f"\\nDEBUG: Found {len(images)} recent images")
+                
+                # Get our session info to match with images
+                session_response = self.session.get(
+                    f"{self.api_url}/queue/default/list?session_id={session_id}&limit=1"
+                )
+                
+                if session_response.status_code == 200:
+                    queue_data = session_response.json()
+                    items = queue_data.get("items", [])
+                    
+                    if items:
+                        item = items[0]
+                        completed_at = item.get("completed_at")
+                        
+                        # Look for the most recent image created around the time our session completed
+                        for img in images:
+                            img_name = img.get("image_name")
+                            img_created = img.get("created_at")
+                            # print(f"  Image: {img_name}, created: {img_created}")
+                            
+                            # Check if this image is NOT the cached one
+                            if img_name != "84a5291f-71bb-4f1d-a66c-60d7858ef496.png":
+                                # print(f"  Found new image (not cached): {img_name}")
+                                return {"image_name": img_name, "session_id": session_id}
+                
+                # If all images are the cached one, use fallback
+                print("All recent images appear to be cached, using fallback...")
+                return None
+            
+            # Original fallback code
             response = self.session.get(
                 f"{self.api_url}/queue/default/list?session_id={session_id}&limit=1"
             )
@@ -325,7 +369,7 @@ class InvokeAIGenerator:
             if response.status_code == 200:
                 queue_data = response.json()
                 items = queue_data.get("items", [])
-                print(f"DEBUG: Got {len(items)} items for session {session_id}")
+                # print(f"DEBUG: Got {len(items)} items for session {session_id}")
                 
                 if items:
                     item = items[0]
@@ -333,9 +377,9 @@ class InvokeAIGenerator:
                     session = item.get("session", {})
                     results = session.get("results", {})
                     
-                    # Debug - print session info
-                    print(f"Session ID from queue: {session_id}")
-                    print(f"Session data keys: {list(session.keys())[:10]}")
+                    # Debug - commented out
+                    # print(f"Session ID from queue: {session_id}")
+                    # print(f"Session data keys: {list(session.keys())[:10]}")
                     
                     # Find image output in results
                     image_found = None
@@ -349,11 +393,37 @@ class InvokeAIGenerator:
                                 # Don't return immediately - check all nodes
                     
                     if image_found:
-                        # Try to get the actual latest image from the session
-                        # Since API returns old images, we'll generate a unique name
-                        import uuid
-                        unique_suffix = str(uuid.uuid4())[:8]
-                        print(f"Warning: API returning cached image. Session: {session_id}")
+                        print(f"API returned image: {image_found} for session: {session_id}")
+                        
+                        # Check if we've seen this image before
+                        if image_found in self.session_images.values():
+                            print(f"Warning: Image {image_found} was already used for a previous session!")
+                            # This is the caching issue - need to find the real new image
+                            
+                            # Wait for the actual image to be saved
+                            time.sleep(2)
+                            
+                            # Get list of images from InvokeAI
+                            try:
+                                # List recent images
+                                response = self.session.get(
+                                    f"{self.api_url}/images/?",
+                                    params={"limit": 10, "order_by": "created_at", "order_dir": "DESC"}
+                                )
+                                if response.status_code == 200:
+                                    images = response.json().get("items", [])
+                                    # Find the newest image that we haven't used yet
+                                    for img in images:
+                                        img_name = img.get("image_name")
+                                        if img_name and img_name not in self.session_images.values():
+                                            print(f"Found new unique image: {img_name}")
+                                            self.session_images[session_id] = img_name
+                                            return {"image_name": img_name, "session_id": session_id}
+                            except Exception as e:
+                                print(f"Error listing images: {e}")
+                        
+                        # Track this image for this session
+                        self.session_images[session_id] = image_found
                         return {"image_name": image_found, "session_id": session_id}
                 
                 print("No image output found in session results")
@@ -422,6 +492,18 @@ class InvokeAIGenerator:
         except Exception as e:
             print(f"Error downloading image: {e}")
             return False
+    
+    def add_image_to_board(self, board_id: str, image_name: str) -> bool:
+        """Add an image to a board"""
+        try:
+            response = self.session.post(
+                f"{self.api_url}/board_images/",
+                json={"board_id": board_id, "image_name": image_name}
+            )
+            return response.status_code == 201
+        except Exception as e:
+            print(f"Error adding image to board: {e}")
+            return False
 
 
 class SceneImageGenerator:
@@ -429,6 +511,7 @@ class SceneImageGenerator:
         self.book_path = Path(book_path)
         self.book_dir = self.book_path.parent
         self.generator = InvokeAIGenerator()
+        self.known_cache_image = "84a5291f-71bb-4f1d-a66c-60d7858ef496.png"  # Known cached image
         
         # Load book configuration
         with open(self.book_path, 'r', encoding='utf-8') as f:
@@ -437,6 +520,48 @@ class SceneImageGenerator:
         # Create output directories
         self.generated_dir = self.book_dir / "generated"
         self.generated_dir.mkdir(exist_ok=True)
+        
+        # Create or get board for this book
+        self.board_id = self._get_or_create_board()
+    
+    def _get_or_create_board(self) -> str:
+        """Get or create a board for this book"""
+        # Try different possible field names for book title
+        book_info = self.book_data.get('book_info', {})
+        book_title = book_info.get('title', 'Unknown Book')
+        board_name = f"37degrees - {book_title}"
+        
+        # First check if board exists
+        try:
+            response = self.generator.session.get(
+                f"{self.generator.api_url}/boards/?all=true"
+            )
+            if response.status_code == 200:
+                boards = response.json()
+                for board in boards:
+                    if board.get('board_name') == board_name:
+                        print(f"Using existing board: {board_name}")
+                        return board['board_id']
+            
+            # Create new board
+            response = self.generator.session.post(
+                f"{self.generator.api_url}/boards/?board_name={board_name}"
+            )
+            if response.status_code == 201:
+                board = response.json()
+                print(f"Created new board: {board_name}")
+                return board['board_id']
+            else:
+                print(f"Failed to create board: {response.text}")
+                return None
+                
+        except Exception as e:
+            print(f"Error managing board: {e}")
+            return None
+    
+    def _is_cached_image(self, image_name: str) -> bool:
+        """Check if this is a known cached image"""
+        return image_name == self.known_cache_image
         
     def generate_all_scenes(self):
         """Generate images for all scenes in the book"""
@@ -501,10 +626,34 @@ class SceneImageGenerator:
                 image_name = result.get('image_name')
                 output_path = self.generated_dir / f"scene_{idx:02d}_{slide.get('type')}.png"
                 
-                if self.generator.download_image(image_name, str(output_path)):
-                    print(f"✓ Saved to: {output_path}")
+                # Check if this is a cached result
+                if self._is_cached_image(image_name):
+                    print(f"⚠️  API returned cached image: {image_name}")
+                    print("   Using fallback method to get latest generated image...")
+                    
+                    # Use fallback script to get the latest image
+                    import subprocess
+                    script_path = Path(__file__).parent / "get_latest_invokeai_image.py"
+                    cmd = [sys.executable, str(script_path), str(output_path)]
+                    
+                    result = subprocess.run(cmd, capture_output=True, text=True)
+                    if result.returncode == 0:
+                        print(f"✓ Saved to: {output_path}")
+                    else:
+                        print(f"✗ Failed to get latest image: {result.stderr}")
                 else:
-                    print(f"✗ Failed to download image")
+                    # Normal download
+                    if self.generator.download_image(image_name, str(output_path)):
+                        print(f"✓ Saved to: {output_path}")
+                        
+                        # Add to board if we have one
+                        if self.board_id:
+                            if self.generator.add_image_to_board(self.board_id, image_name):
+                                print(f"✓ Added to board")
+                            else:
+                                print(f"⚠️  Failed to add to board")
+                    else:
+                        print(f"✗ Failed to download image")
             else:
                 print(f"✗ Failed to generate image")
             
@@ -563,8 +712,8 @@ class SceneImageGenerator:
             prompt=prompt,
             negative_prompt=negative_prompt,
             model_key=model_key,
-            width=int(art_style.get('resolution', '1080x1920').split('x')[0]),
-            height=int(art_style.get('resolution', '1080x1920').split('x')[1]),
+            width=width,
+            height=height,
             steps=ai_generation.get('steps', 30),
             cfg_scale=ai_generation.get('cfg_scale', 7.5),
             sampler=ai_generation.get('sampler', 'euler_a')
@@ -576,6 +725,14 @@ class SceneImageGenerator:
             
             if self.generator.download_image(image_name, str(output_path)):
                 print(f"✓ Image saved to: {output_path}")
+                
+                # Add to board if we have one
+                if self.board_id:
+                    if self.generator.add_image_to_board(self.board_id, image_name):
+                        print(f"✓ Added to board")
+                    else:
+                        print(f"⚠️  Failed to add to board")
+                
                 return str(output_path)
             else:
                 print(f"✗ Failed to download image")
@@ -587,6 +744,10 @@ class SceneImageGenerator:
     def _build_prompt_from_scene(self, slide: Dict, custom_art_style: Dict, template_style: Optional[Dict] = None) -> str:
         """Build a complete prompt from scene and style information"""
         scene = slide.get('scene', {})
+        
+        # Add unique timestamp to force different generation
+        import time as time_module
+        unique_id = f"unique_{int(time_module.time() * 1000)}"
         
         # Start with the style directive
         if template_style:
@@ -615,7 +776,7 @@ class SceneImageGenerator:
             scene_prompt.append(f"{scene['atmosphere']} mood")
         
         # Add color information
-        color_palette = art_style.get('color_palette', {})
+        color_palette = custom_art_style.get('color_palette', {})
         if color_palette.get('base'):
             colors = ", ".join(color_palette['base'][:3])
             scene_prompt.append(f"color palette: {colors}")
@@ -641,6 +802,9 @@ class SceneImageGenerator:
             final_prompt = base_prompt.replace('{prompt}', ", ".join(scene_prompt))
         else:
             final_prompt = ", ".join(scene_prompt)
+        
+        # Add unique identifier at the end to force new generation
+        final_prompt = f"{final_prompt}, {unique_id}"
             
         return final_prompt
     

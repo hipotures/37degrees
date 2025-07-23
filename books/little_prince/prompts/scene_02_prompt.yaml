@@ -1,53 +1,13 @@
-scene_generation:
-  technical_specs:
-    resolution: 1080x1920
-    aspect_ratio: '9:16'
-  art_style:
-    resolution: 1080x1920
-    aspect_ratio: '9:16'
-    primary_style: minimalist children's book illustration with naive art approach
-    complexity: very simple, reduced forms, minimal details, childlike drawing
-    line_work: simple, clean lines, hand-drawn quality, imperfect and charming
-    shapes: basic geometric forms, simplified silhouettes, no complex details
-    color_technique: flat color areas with minimal shading, like colored pencils on
-      paper
-    color_palette:
-      base:
-      - soft peach
-      - dusty pink
-      - pale lavender
-      - warm cream
-      accents:
-      - sky blue
-      - golden yellow
-      - sage green
-      mood: muted, gentle, dreamlike pastels
-    overall_feeling: whimsical, innocent, fairy-tale like, not photorealistic
-    magic_style: subtle sparkles, soft glows, floating dots of light
-    background_approach: simple gradients or flat colors, minimal detail
-    avoid: photorealistic rendering, complex textures, detailed shading
-    emphasize: childlike wonder, storybook simplicity, dreamlike quality
-  scene_details:
-    slide_type: intro
-    elements:
-    - open book with golden-edged pages
-    - tiny planets floating up from pages
-    - constellation patterns
-    - delicate star trails
-    - miniature rose
-    composition: book at lower third, magical elements rising upward
-    camera_angle: 45-degree angle looking down at book
-    focus_point: the open pages with emerging worlds
-    atmosphere: magical, inviting, wondrous
-    background: soft cream to pale blue gradient
-  generation_instructions:
-    maintain_consistency: Keep visual style consistent across all scenes
-    text_space: Leave clear space in upper third of image (above 66% height) for text
-      overlay
-    mood: Match the magical, inviting, wondrous atmosphere
-    quality: High quality, detailed illustration suitable for video
-    no_text: Do not include any text, letters, words, or written elements in the image
-    style_emphasis: Emphasize whimsical, childlike wonder with simplified forms and
-      dreamlike quality
-    magical_elements: Add subtle magical touches - floating stars, soft glows, ethereal
-      particles that enhance the fairy-tale atmosphere
+positive_prompt: 'minimalist children''s book illustration with naive art approach, style of very simple, reduced forms, minimal details, childlike drawing, open book with golden-edged pages, tiny planets
+  floating up from pages, constellation patterns, delicate star trails, miniature rose, composition: book at lower third, magical elements rising upward, magical, inviting, wondrous mood, background: soft
+  cream to pale blue gradient, color palette: soft peach, dusty pink, pale lavender, vertical composition, clear space in upper third for text overlay, simple, clean lines, hand-drawn quality, imperfect
+  and charming, flat color areas with minimal shading, like colored pencils on paper, whimsical, innocent, fairy-tale like, not photorealistic'
+negative_prompt: text, letters, words, typography, writing, watermark, signature, logo, photorealistic rendering, complex textures, detailed shading, photorealistic, 3d render, complex textures, detailed
+  shading, realistic lighting, ugly, deformed, noisy, blurry
+resolution: 1080x1920
+model: Dreamshaper XL v2 Turbo
+model_key: c81f2f9b-cabd-40ec-b6f4-d3172c10bafc
+steps: 30
+cfg_scale: 7.5
+sampler: euler_a
+template_used: custom
