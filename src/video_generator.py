@@ -127,8 +127,8 @@ class VideoGenerator:
         if book_audio_path.exists():
             console.print(f"[green]Using book-specific audio: {book_audio_path}[/green]")
             audio = AudioFileClip(str(book_audio_path))
-            audio = audio.subclip(0, video_clip.duration)
-            audio = audio.volumex(music_settings['volume'])
+            audio = audio.subclipped(0, video_clip.duration)
+            audio = audio.with_volume_scaled(music_settings['volume'])
             video_clip = video_clip.with_audio(audio)
             return video_clip
         
@@ -144,8 +144,8 @@ class VideoGenerator:
         
         if os.path.exists(fallback_path):
             audio = AudioFileClip(fallback_path)
-            audio = audio.subclip(0, video_clip.duration)
-            audio = audio.volumex(music_settings['volume'])
+            audio = audio.subclipped(0, video_clip.duration)
+            audio = audio.with_volume_scaled(music_settings['volume'])
             video_clip = video_clip.with_audio(audio)
             console.print(f"[green]Added shared audio track to video[/green]")
         else:
