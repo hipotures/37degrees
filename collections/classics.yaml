@@ -1,221 +1,221 @@
 books:
 - order: 1
-  path: books/little_prince/book.yaml
+  path: books/0017_little_prince/book.yaml
   tags:
   - filozofia
   - baśń
   - klasyka XX wieku
 - order: 2
-  path: books/nineteen_eighty_four/book.yaml
+  path: books/0021_nineteen_eighty_four/book.yaml
   tags:
   - dystopia
   - polityka
   - klasyka XX wieku
 - order: 3
-  path: books/lord_of_the_rings/book.yaml
+  path: books/0018_lord_of_the_rings/book.yaml
   tags:
   - fantasy
   - przygoda
   - klasyka XX wieku
 - order: 4
-  path: books/pride_and_prejudice/book.yaml
+  path: books/0026_pride_and_prejudice/book.yaml
   tags:
   - romans
   - klasyka XIX wieku
   - literatura kobieca
 - order: 5
-  path: books/harry_potter/book.yaml
+  path: books/0012_harry_potter/book.yaml
   tags:
   - fantasy
   - młodzieżowa
   - współczesna klasyka
 - order: 6
-  path: books/hobbit/book.yaml
+  path: books/0013_hobbit/book.yaml
   tags:
   - fantasy
   - przygoda
   - klasyka XX wieku
 - order: 7
-  path: books/alice_in_wonderland/book.yaml
+  path: books/0001_alice_in_wonderland/book.yaml
   tags:
   - fantasy
   - baśń
   - klasyka XIX wieku
 - order: 8
-  path: books/narnia/book.yaml
+  path: books/0020_narnia/book.yaml
   tags:
   - fantasy
   - baśń
   - klasyka XX wieku
 - order: 9
-  path: books/treasure_island/book.yaml
+  path: books/0036_treasure_island/book.yaml
   tags:
   - przygoda
   - piraci
   - klasyka XIX wieku
 - order: 10
-  path: books/robinson_crusoe/book.yaml
+  path: books/0029_robinson_crusoe/book.yaml
   tags:
   - przygoda
   - survival
   - klasyka XVIII wieku
 - order: 11
-  path: books/tom_sawyer/book.yaml
+  path: books/0035_tom_sawyer/book.yaml
   tags:
   - przygoda
   - młodzieżowa
   - klasyka XIX wieku
 - order: 12
-  path: books/gullivers_travels/book.yaml
+  path: books/0011_gullivers_travels/book.yaml
   tags:
   - satyra
   - przygoda
   - klasyka XVIII wieku
 - order: 13
-  path: books/brave_new_world/book.yaml
+  path: books/0004_brave_new_world/book.yaml
   tags:
   - dystopia
   - science fiction
   - klasyka XX wieku
 - order: 14
-  path: books/fahrenheit_451/book.yaml
+  path: books/0009_fahrenheit_451/book.yaml
   tags:
   - dystopia
   - science fiction
   - klasyka XX wieku
 - order: 15
-  path: books/animal_farm/book.yaml
+  path: books/0002_animal_farm/book.yaml
   tags:
   - satyra
   - polityka
   - klasyka XX wieku
 - order: 16
-  path: books/dune/book.yaml
+  path: books/0007_dune/book.yaml
   tags:
   - science fiction
   - przygoda
   - klasyka XX wieku
 - order: 17
-  path: books/solaris/book.yaml
+  path: books/0031_solaris/book.yaml
   tags:
   - science fiction
   - filozofia
   - polska klasyka
 - order: 18
-  path: books/romeo_and_juliet/book.yaml
+  path: books/0030_romeo_and_juliet/book.yaml
   tags:
   - dramat
   - romans
   - Shakespeare
 - order: 19
-  path: books/jane_eyre/book.yaml
+  path: books/0014_jane_eyre/book.yaml
   tags:
   - romans
   - gotyk
   - klasyka XIX wieku
 - order: 20
-  path: books/wuthering_heights/book.yaml
+  path: books/0037_wuthering_heights/book.yaml
   tags:
   - romans
   - gotyk
   - klasyka XIX wieku
 - order: 21
-  path: books/anna_karenina/book.yaml
+  path: books/0003_anna_karenina/book.yaml
   tags:
   - romans
   - dramat
   - klasyka rosyjska
 - order: 22
-  path: books/great_gatsby/book.yaml
+  path: books/0010_great_gatsby/book.yaml
   tags:
   - dramat
   - amerykański sen
   - klasyka XX wieku
 - order: 23
-  path: books/lady_of_the_camellias/book.yaml
+  path: books/0015_lady_of_the_camellias/book.yaml
   tags:
   - romans
   - dramat
   - klasyka XIX wieku
 - order: 24
-  path: books/sorrows_of_young_werther/book.yaml
+  path: books/0032_sorrows_of_young_werther/book.yaml
   tags:
   - romans
   - epistolarny
   - klasyka XVIII wieku
 - order: 25
-  path: books/red_and_black/book.yaml
+  path: books/0028_red_and_black/book.yaml
   tags:
   - powieść psychologiczna
   - klasyka XIX wieku
 - order: 26
-  path: books/emma/book.yaml
+  path: books/0008_emma/book.yaml
   tags:
   - romans
   - komedia
   - klasyka XIX wieku
 - order: 27
-  path: books/pan_tadeusz/book.yaml
+  path: books/0024_pan_tadeusz/book.yaml
   tags:
   - epopeja
   - polska klasyka
   - romantyzm
 - order: 28
-  path: books/lalka/book.yaml
+  path: books/0016_lalka/book.yaml
   tags:
   - realizm
   - polska klasyka
   - XIX wiek
 - order: 29
-  path: books/quo_vadis/book.yaml
+  path: books/0027_quo_vadis/book.yaml
   tags:
   - historyczna
   - polska klasyka
   - Nobel
 - order: 30
-  path: books/chlopi/book.yaml
+  path: books/0005_chlopi/book.yaml
   tags:
   - realizm
   - polska klasyka
   - Nobel
 - order: 31
-  path: books/master_and_margarita/book.yaml
+  path: books/0019_master_and_margarita/book.yaml
   tags:
   - fantastyka
   - filozofia
   - klasyka rosyjska
 - order: 32
-  path: books/to_kill_a_mockingbird/book.yaml
+  path: books/0034_to_kill_a_mockingbird/book.yaml
   tags:
   - dramat
   - sprawiedliwość
   - klasyka XX wieku
 - order: 33
-  path: books/old_man_and_the_sea/book.yaml
+  path: books/0022_old_man_and_the_sea/book.yaml
   tags:
   - nowela
   - przygoda
   - Nobel
 - order: 34
-  path: books/one_hundred_years_of_solitude/book.yaml
+  path: books/0023_one_hundred_years_of_solitude/book.yaml
   tags:
   - realizm magiczny
   - saga rodzinna
   - Nobel
 - order: 35
-  path: books/the_trial/book.yaml
+  path: books/0033_the_trial/book.yaml
   tags:
   - egzystencjalizm
   - absurd
   - klasyka XX wieku
 - order: 36
-  path: books/portrait_of_dorian_gray/book.yaml
+  path: books/0025_portrait_of_dorian_gray/book.yaml
   tags:
   - filozofia
   - gotyk
   - klasyka XIX wieku
 - order: 37
-  path: books/don_quixote/book.yaml
+  path: books/0006_don_quixote/book.yaml
   tags:
   - przygoda
   - satyra

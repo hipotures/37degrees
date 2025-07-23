@@ -15,28 +15,38 @@ Automated video generator for creating engaging TikTok book reviews targeting Po
 ## 🚀 Quick Start
 
 ```bash
-# Generate video for a single book
-python main.py generate -b books/0017_little_prince/book.yaml
+# List all collections
+python main.py collections
 
-# Generate video for book #17 from collection
-python main.py generate -b 17
+# List books in a collection
+python main.py list classics
 
-# Generate videos for entire collection
-python main.py batch
-
-# List all books in collection
+# List all books in the project
 python main.py list
 
-# Generate only AI images
-python src/simple_invokeai_generator.py books/0017_little_prince/book.yaml
+# Generate video for book #17
+python main.py video 17
+
+# Generate video by book name
+python main.py video little_prince
+
+# Generate videos for entire collection
+python main.py video classics
+
+# Generate AI images for book #17
+python main.py ai 17
+
+# Generate AI images for entire collection
+python main.py ai classics
 ```
 
 ## 📁 Project Structure
 
 ```
 37degrees/
-├── main.py              # Main entry point
+├── main.py              # Main entry point with intuitive CLI
 ├── src/                 # Core application code
+│   ├── cli/            # CLI modules (collections, list, video, ai)
 │   ├── video_generator.py         # Video creation with effects
 │   ├── simple_invokeai_generator.py # AI image generation
 │   ├── prompt_builder.py          # Convert scenes to AI prompts
@@ -73,6 +83,7 @@ python src/simple_invokeai_generator.py books/0017_little_prince/book.yaml
 - Smooth transitions between slides
 - TikTok Safe Zone compliance
 - GPU-accelerated encoding (NVENC)
+- Rich progress bars and status updates
 
 ## 📝 Book Configuration
 
@@ -123,15 +134,22 @@ pip install -r requirements.txt
 ## 🎬 Workflow
 
 ### Single Book
-1. **Configure book** in `books/NNNN_[name]/book.yaml`
-2. **Generate AI images**: `python src/simple_invokeai_generator.py books/NNNN_[name]/book.yaml`
-3. **Create video**: `python main.py generate -b books/NNNN_[name]/book.yaml`
+1. **Find book ID**: `python main.py list`
+2. **Generate AI images**: `python main.py ai 17`
+3. **Create video**: `python main.py video 17`
 4. **Upload to TikTok** with hashtags: #37stopni #klasyka #booktok
 
 ### Entire Collection
-1. **Review collection**: `python main.py list`
-2. **Generate all videos**: `python main.py batch`
-3. **Find videos in**: `output/` (named as `book_NNNN_YYYYMMDD_HHMMSS.mp4`)
+1. **View collections**: `python main.py collections`
+2. **Review books**: `python main.py list classics`
+3. **Generate AI images**: `python main.py ai classics`
+4. **Create videos**: `python main.py video classics`
+5. **Find videos in**: `output/` (named as `book_NNNN_YYYYMMDD_HHMMSS.mp4`)
+
+### Additional Options
+- **Only render video** (skip image generation): `python main.py video 17 --only-render`
+- **Use custom template**: `python main.py video 17 --template my_template`
+- **Generate specific book from collection**: `python main.py video classics 17`
 
 ## 📚 Documentation
 
