@@ -17,6 +17,52 @@ import random
 import sys
 
 
+def load_invokeai_style_presets(invokeai_path: Optional[str] = None) -> Dict[str, Dict]:
+    """Load InvokeAI style presets from the default presets file
+    
+    Args:
+        invokeai_path: Optional path to InvokeAI installation. If not provided,
+                      will try to find it in common locations.
+    
+    Returns:
+        Dictionary mapping style names to their preset data
+    """
+    preset_paths = []
+    
+    if invokeai_path:
+        preset_paths.append(Path(invokeai_path) / ".venv/lib/python3.12/site-packages/invokeai/app/services/style_preset_records/default_style_presets.json")
+    
+    # Common paths to check
+    preset_paths.extend([
+        Path.home() / "DEV/invokeai/.venv/lib/python3.12/site-packages/invokeai/app/services/style_preset_records/default_style_presets.json",
+        Path("/home/xai/DEV/invokeai/.venv/lib/python3.12/site-packages/invokeai/app/services/style_preset_records/default_style_presets.json"),
+        Path.home() / ".invokeai/.venv/lib/python3.12/site-packages/invokeai/app/services/style_preset_records/default_style_presets.json",
+    ])
+    
+    for preset_path in preset_paths:
+        if preset_path.exists():
+            try:
+                with open(preset_path, 'r', encoding='utf-8') as f:
+                    presets_data = json.load(f)
+                    
+                # Convert to dictionary for easy lookup
+                presets = {}
+                for preset in presets_data:
+                    name = preset.get('name')
+                    if name:
+                        presets[name] = preset.get('preset_data', {})
+                
+                print(f"Loaded {len(presets)} style presets from: {preset_path}")
+                return presets
+                
+            except Exception as e:
+                print(f"Error loading presets from {preset_path}: {e}")
+                continue
+    
+    print("Warning: Could not find InvokeAI style presets file")
+    return {}
+
+
 class InvokeAIGenerator:
     def __init__(self, base_url: str = "http://localhost:9090"):
         self.base_url = base_url
@@ -304,6 +350,7 @@ class InvokeAIGenerator:
     def get_style_presets(self) -> Dict[str, Dict]:
         """Get available style presets from InvokeAI"""
         try:
+            # First try to get from API
             response = self.session.get(f"{self.api_url}/style_presets/")
             if response.status_code == 200:
                 presets = {}
@@ -311,11 +358,13 @@ class InvokeAIGenerator:
                     presets[preset['name']] = preset['preset_data']
                 return presets
             else:
-                print(f"Failed to get style presets: {response.status_code}")
-                return {}
+                print(f"Failed to get style presets from API: {response.status_code}")
+                # Fall back to loading from file
+                return load_invokeai_style_presets()
         except Exception as e:
-            print(f"Error getting style presets: {e}")
-            return {}
+            print(f"Error getting style presets from API: {e}")
+            # Fall back to loading from file
+            return load_invokeai_style_presets()
     
     def _get_session_output(self, session_id: str) -> Optional[Dict]:
         """Get output from completed session"""

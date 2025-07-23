@@ -5,8 +5,9 @@ Shows EXACTLY what will be sent to the AI, including negative prompts
 """
 
 import yaml
+import json
 from pathlib import Path
-from typing import Dict, List
+from typing import Dict, List, Optional
 
 
 class PromptBuilder:
@@ -15,6 +16,9 @@ class PromptBuilder:
         self.book_path = Path(book_yaml_path)
         with open(self.book_path, 'r', encoding='utf-8') as f:
             self.book_data = yaml.safe_load(f)
+        
+        # Load InvokeAI style presets
+        self.style_presets = self._load_invokeai_style_presets()
     
     def build_scene_prompt(self, slide_index: int) -> str:
         """Build COMPLETE prompt for a specific scene as it will be sent to AI"""
@@ -56,15 +60,16 @@ class PromptBuilder:
         scene = slide.get('scene', {})
         
         if template_art_style and template_art_style not in ['', '-']:
-            # Using template style - would need to load actual template from InvokeAI
-            # For now, showing what would happen with known templates
-            if template_art_style == 'Illustration':
-                template = "{prompt} illustration, bold linework, illustrative details, vector art style, flat coloring"
+            # Using template style from loaded presets
+            if template_art_style in self.style_presets:
+                template = self.style_presets[template_art_style].get('positive_prompt', '{prompt}')
                 scene_elements = self._build_scene_elements(scene)
                 return template.replace('{prompt}', scene_elements)
             else:
-                # Unknown template
-                return f"[TEMPLATE: {template_art_style}] {self._build_scene_elements(scene)}"
+                # Unknown template - show available
+                print(f"Warning: Template '{template_art_style}' not found!")
+                print(f"Available templates: {', '.join(sorted(self.style_presets.keys()))}")
+                return f"[TEMPLATE NOT FOUND: {template_art_style}] {self._build_scene_elements(scene)}"
         else:
             # Using custom art style - build FULL prompt
             prompt_parts = []
@@ -124,8 +129,8 @@ class PromptBuilder:
         """Build the COMPLETE negative prompt as sent to AI"""
         if template_art_style and template_art_style not in ['', '-']:
             # Template styles have their own negatives
-            if template_art_style == 'Illustration':
-                return "(photo)+++. greyscale. painting, black and white."
+            if template_art_style in self.style_presets:
+                return self.style_presets[template_art_style].get('negative_prompt', 'text, watermark')
             else:
                 return "text, watermark"  # Default for unknown templates
         else:
@@ -148,6 +153,32 @@ class PromptBuilder:
             ])
             
             return ", ".join(negative_parts)
+    
+    def _load_invokeai_style_presets(self) -> Dict[str, Dict]:
+        """Load InvokeAI style presets from file"""
+        preset_paths = [
+            Path("/home/xai/DEV/invokeai/.venv/lib/python3.12/site-packages/invokeai/app/services/style_preset_records/default_style_presets.json"),
+            Path.home() / "DEV/invokeai/.venv/lib/python3.12/site-packages/invokeai/app/services/style_preset_records/default_style_presets.json",
+        ]
+        
+        for preset_path in preset_paths:
+            if preset_path.exists():
+                try:
+                    with open(preset_path, 'r', encoding='utf-8') as f:
+                        presets_data = json.load(f)
+                    
+                    # Convert to dictionary for easy lookup
+                    presets = {}
+                    for preset in presets_data:
+                        name = preset.get('name')
+                        if name:
+                            presets[name] = preset.get('preset_data', {})
+                    
+                    return presets
+                except Exception as e:
+                    print(f"Error loading presets: {e}")
+        
+        return {}
     
     def save_scene_prompt(self, slide_index: int, output_path: str):
         """Save COMPLETE scene prompt to YAML file"""

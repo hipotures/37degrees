@@ -1,13 +1,10 @@
-positive_prompt: 'minimalist children''s book illustration with naive art approach, style of very simple, reduced forms, minimal details, childlike drawing, single red rose under glass dome, tiny planet
-  surface, three baobab sprouts, twinkling star field, gentle aurora effect, composition: rose centered on small planet curve, precious, protective, meaningful mood, background: cosmic vista with soft aurora
-  borealis, color palette: soft peach, dusty pink, pale lavender, vertical composition, clear space in upper third for text overlay, simple, clean lines, hand-drawn quality, imperfect and charming, flat
-  color areas with minimal shading, like colored pencils on paper, whimsical, innocent, fairy-tale like, not photorealistic'
-negative_prompt: text, letters, words, typography, writing, watermark, signature, logo, photorealistic rendering, complex textures, detailed shading, photorealistic, 3d render, complex textures, detailed
-  shading, realistic lighting, ugly, deformed, noisy, blurry
+positive_prompt: 'single red rose under glass dome, tiny planet surface, three baobab sprouts, twinkling star field, gentle aurora effect, composition: rose centered on small planet curve, precious, protective,
+  meaningful mood, background: cosmic vista with soft aurora borealis illustration, bold linework, illustrative details, vector art style, flat coloring'
+negative_prompt: (photo)+++. greyscale. painting, black and white.
 resolution: 1080x1920
 model: Dreamshaper XL v2 Turbo
 model_key: c81f2f9b-cabd-40ec-b6f4-d3172c10bafc
 steps: 30
 cfg_scale: 7.5
 sampler: euler_a
-template_used: custom
+template_used: Illustration
