@@ -1,11 +1,10 @@
-positive_prompt: 'small vintage airplane in sand, rolling desert dunes, tiny figure of boy with flowing scarf, setting sun on horizon, first stars appearing, composition: airplane in foreground left, boy
-  silhouette distant right, lonely yet hopeful, golden hour warmth mood, background: desert sunset with gradient from gold to purple illustration, bold linework, illustrative details, vector art style,
-  flat coloring'
-negative_prompt: (photo)+++. greyscale. painting, black and white.
+positive_prompt: 'crashed biplane partially buried in sand, sand dunes, small boy figure with scarf, large sun disc, few visible stars, composition: airplane in left foreground, boy standing far right,
+  sand dunes between them, sun on horizon, stars in upper corners black and white pencil drawing, off-center composition, cross-hatching for shadows, bold strokes, textured paper. sketch+++'
+negative_prompt: blurry, photo, painting, color. messy, dirty. unfinished. frame, borders.
 resolution: 1080x1920
 model: Dreamshaper XL v2 Turbo
 model_key: c81f2f9b-cabd-40ec-b6f4-d3172c10bafc
 steps: 30
 cfg_scale: 7.5
 sampler: euler_a
-template_used: Illustration
+template_used: Sketch

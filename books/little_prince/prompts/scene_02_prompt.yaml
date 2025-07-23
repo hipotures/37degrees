@@ -1,10 +1,10 @@
-positive_prompt: 'open book with golden-edged pages, tiny planets floating up from pages, constellation patterns, delicate star trails, miniature rose, composition: book at lower third, magical elements
-  rising upward, magical, inviting, wondrous mood, background: soft cream to pale blue gradient illustration, bold linework, illustrative details, vector art style, flat coloring'
-negative_prompt: (photo)+++. greyscale. painting, black and white.
+positive_prompt: 'open hardcover book lying flat, three small round planets, star constellation shapes, curved star trails, single small rose flower, composition: book in lower third of frame, planets floating
+  up from pages, constellation patterns above, rose on right page black and white pencil drawing, off-center composition, cross-hatching for shadows, bold strokes, textured paper. sketch+++'
+negative_prompt: blurry, photo, painting, color. messy, dirty. unfinished. frame, borders.
 resolution: 1080x1920
 model: Dreamshaper XL v2 Turbo
 model_key: c81f2f9b-cabd-40ec-b6f4-d3172c10bafc
 steps: 30
 cfg_scale: 7.5
 sampler: euler_a
-template_used: Illustration
+template_used: Sketch

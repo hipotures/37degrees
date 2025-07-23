@@ -6,6 +6,10 @@ import sys
 import yaml
 from pathlib import Path
 from PIL import Image
+
+# Add parent directory to path to import from src
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
 from src.text_overlay import TextOverlay
 
 def apply_overlays_to_book(book_path: str):

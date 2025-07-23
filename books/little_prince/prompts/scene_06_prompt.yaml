@@ -1,10 +1,10 @@
-positive_prompt: 'luminous heart shape, stars nested inside heart, radiating light beams, floating rose petals, subtle eye motifs in corners, composition: centered heart with symmetrical light rays, warm,
-  profound, enlightening mood, background: soft pink to lavender radial gradient illustration, bold linework, illustrative details, vector art style, flat coloring'
-negative_prompt: (photo)+++. greyscale. painting, black and white.
+positive_prompt: 'anatomical heart shape, small stars inside heart, straight light rays, rose petals, two small eyes, composition: heart in center, stars filling heart interior, eight light rays extending
+  outward symmetrically, rose petals scattered around, small eyes in top corners black and white pencil drawing, off-center composition, cross-hatching for shadows, bold strokes, textured paper. sketch+++'
+negative_prompt: blurry, photo, painting, color. messy, dirty. unfinished. frame, borders.
 resolution: 1080x1920
 model: Dreamshaper XL v2 Turbo
 model_key: c81f2f9b-cabd-40ec-b6f4-d3172c10bafc
 steps: 30
 cfg_scale: 7.5
 sampler: euler_a
-template_used: Illustration
+template_used: Sketch

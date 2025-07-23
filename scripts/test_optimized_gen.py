@@ -2,7 +2,12 @@
 """Test optimized video generator"""
 import time
 import sys
+import os
 from pathlib import Path
+
+# Add parent directory to path to import from src
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
 from src.optimized_video_generator import OptimizedVideoGenerator
 from src.video_generator import VideoGenerator
 from rich.console import Console

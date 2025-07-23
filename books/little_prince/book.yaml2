@@ -6,9 +6,8 @@ book_info:
   reading_time: "2-3 godziny"
 
 technical_specs:
-  resolution: "832x1248"  # Generation resolution (optimal for SDXL)
-  output_resolution: "1080x1920"  # Final video resolution (9:16 for TikTok)
-  aspect_ratio: "2:3"
+  resolution: "1080x1920"
+  aspect_ratio: "9:16"
   format: "vertical"
   fps: 30
   duration_per_slide: 3.5
@@ -22,7 +21,7 @@ ai_generation:
   sampler: "euler_a"
 
 # Style template from InvokeAI (leave empty or '-' to use custom_art_style)
-template_art_style: "Sketch"
+template_art_style: "Illustration"
 
 custom_art_style:
   # Core style directive - THIS IS MOST IMPORTANT
@@ -102,11 +101,15 @@ slides:
     text: "Czy wiesz, że najważniejsze jest niewidoczne dla oczu?"
     scene:
       elements:
-        - "large human eye floating in space"
-        - "multiple small stars arranged in constellations"
-        - "spiral galaxy"
-        - "floating light orbs"
-      composition: "eye in center, spiral galaxy wrapping around it, stars scattered throughout, light orbs floating near edges"
+        - "mystical eye with cosmic iris"
+        - "constellation of twinkling stars"
+        - "soft nebula clouds"
+        - "ethereal light particles"
+      composition: "centered eye surrounded by cosmic elements in circular arrangement"
+      camera_angle: "straight-on view, slightly ethereal perspective"
+      focus_point: "the eye's iris reflecting stars"
+      atmosphere: "mysterious, contemplative"
+      background: "gradient from deep purple to soft pink with star field"
     
   - type: "intro"
     duration: 5
@@ -114,52 +117,64 @@ slides:
     subtitle: "Antoine de Saint-Exupéry"
     scene:
       elements:
-        - "open hardcover book lying flat"
-        - "three small round planets"
-        - "star constellation shapes"
-        - "curved star trails"
-        - "single small rose flower"
-      composition: "book in lower third of frame, planets floating up from pages, constellation patterns above, rose on right page"
+        - "open book with golden-edged pages"
+        - "tiny planets floating up from pages"
+        - "constellation patterns"
+        - "delicate star trails"
+        - "miniature rose"
+      composition: "book at lower third, magical elements rising upward"
+      camera_angle: "45-degree angle looking down at book"
+      focus_point: "the open pages with emerging worlds"
+      atmosphere: "magical, inviting, wondrous"
+      background: "soft cream to pale blue gradient"
     
   - type: "story"
     duration: 6
     text: "Pilot rozbija się na Saharze i spotyka tajemniczego chłopca z innej planety"
     scene:
       elements:
-        - "crashed biplane partially buried in sand"
-        - "sand dunes"
-        - "small boy figure with scarf"
-        - "large sun disc"
-        - "few visible stars"
-      composition: "airplane in left foreground, boy standing far right, sand dunes between them, sun on horizon, stars in upper corners"
+        - "small vintage airplane in sand"
+        - "rolling desert dunes"
+        - "tiny figure of boy with flowing scarf"
+        - "setting sun on horizon"
+        - "first stars appearing"
+      composition: "airplane in foreground left, boy silhouette distant right"
+      camera_angle: "low angle emphasizing vastness of desert"
+      focus_point: "contrast between crashed plane and small boy"
+      atmosphere: "lonely yet hopeful, golden hour warmth"
+      background: "desert sunset with gradient from gold to purple"
     
   - type: "character"
     duration: 5.5
     text: "Mały Książę opowiada o swojej podróży po planetach i ludziach, których spotkał"
     scene:
       elements:
-        - "six small round planets"
-        - "king figure with crown on first planet"
-        - "man in suit on second planet"
-        - "person with lamp on third planet"
-        - "dotted line path between planets"
-        - "small stars"
-        - "asteroid rocks"
-      composition: "planets in arc formation across frame, each with tiny figure on top, dotted path connecting them, stars and asteroids scattered around"
+        - "chain of small planets in orbit"
+        - "silhouettes on each planet: king, businessman, lamplighter"
+        - "curved path connecting planets"
+        - "scattered stars"
+        - "tiny asteroids"
+      composition: "planets arranged in gentle arc across frame"
+      camera_angle: "wide cosmic view, slightly tilted"
+      focus_point: "the journey path between planets"
+      atmosphere: "whimsical, slightly melancholic"
+      background: "deep space with purple and blue nebula"
     
   - type: "theme"
     duration: 6
     text: "Każda planeta to metafora dorosłości - król, próżny, bankier... Czy dorośli zapomnieli, co ważne?"
     scene:
       elements:
-        - "three ornate metal keyholes"
-        - "adult figure visible through first keyhole"
-        - "businessman through second keyhole"
-        - "king through third keyhole"
-        - "thin lines connecting keyholes"
-        - "child's simple drawings"
-        - "clock face"
-      composition: "three keyholes arranged in triangle, figures visible inside each, connecting lines between them, child drawings faded behind, clock in corner"
+        - "series of ornate keyholes"
+        - "trapped adult figures visible through keyholes"
+        - "constellation patterns connecting keyholes"
+        - "fading childlike drawings in background"
+        - "subtle clock elements"
+      composition: "three keyholes in triangular arrangement"
+      camera_angle: "straight-on, symbolic perspective"
+      focus_point: "the trapped figures within keyholes"
+      atmosphere: "contemplative, slightly dark, philosophical"
+      background: "gradient from grey-blue to soft purple"
     
   - type: "quote"
     duration: 6.5
@@ -167,25 +182,33 @@ slides:
     author_position: "bottom"
     scene:
       elements:
-        - "anatomical heart shape"
-        - "small stars inside heart"
-        - "straight light rays"
-        - "rose petals"
-        - "two small eyes"
-      composition: "heart in center, stars filling heart interior, eight light rays extending outward symmetrically, rose petals scattered around, small eyes in top corners"
+        - "luminous heart shape"
+        - "stars nested inside heart"
+        - "radiating light beams"
+        - "floating rose petals"
+        - "subtle eye motifs in corners"
+      composition: "centered heart with symmetrical light rays"
+      camera_angle: "direct frontal view"
+      focus_point: "the glowing heart center"
+      atmosphere: "warm, profound, enlightening"
+      background: "soft pink to lavender radial gradient"
     
   - type: "why_read"
     duration: 5.5
     text: "Ta krótka książka nauczy Cię więcej o życiu niż niejeden podręcznik filozofii"
     scene:
       elements:
-        - "cardboard box"
-        - "top hat"
-        - "wooden crate"
-        - "child figure looking upward"
-        - "sparkle dots"
-        - "stack of thick books"
-      composition: "child at bottom center looking up, floating objects above (box left, hat center, crate right), sparkles around objects, book stack in far background"
+        - "floating everyday simple objects with magical sparkles"
+        - "cardboard box with castle-like glow"
+        - "ordinary hat with mysterious aura"
+        - "child looking up with wonder-filled eyes"
+        - "transformation sparkles and light effects"
+        - "faded philosophy books in background"
+      composition: "objects floating in dreamlike arrangement above child"
+      camera_angle: "low angle, child's point of view"
+      focus_point: "the magical transformations"
+      atmosphere: "wondrous, inspiring, playful"
+      background: "soft clouds with golden light breaking through"
     
   - type: "cta"
     duration: 5
@@ -193,9 +216,13 @@ slides:
     hashtags: ["#MałyKsiążę", "#LittlePrince", "#Klasyka"]
     scene:
       elements:
-        - "red rose under glass bell jar"
-        - "small spherical planet"
-        - "three small baobab seedlings"
-        - "multiple small stars"
-        - "wavy aurora lines"
-      composition: "planet surface at bottom taking lower third, rose in bell jar centered on planet, three baobabs to the right, stars scattered above, aurora waves across top"
+        - "single red rose under glass dome"
+        - "tiny planet surface"
+        - "three baobab sprouts"
+        - "twinkling star field"
+        - "gentle aurora effect"
+      composition: "rose centered on small planet curve"
+      camera_angle: "slightly elevated, intimate view"
+      focus_point: "the protected rose"
+      atmosphere: "precious, protective, meaningful"
+      background: "cosmic vista with soft aurora borealis"
