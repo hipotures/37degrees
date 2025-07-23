@@ -97,7 +97,7 @@ text_overlay:
 
 slides:
   - type: "hook"
-    duration: 2.5
+    duration: 4.5
     text: "Czy wiesz, że najważniejsze jest niewidoczne dla oczu?"
     scene:
       elements:
@@ -112,7 +112,7 @@ slides:
       background: "gradient from deep purple to soft pink with star field"
     
   - type: "intro"
-    duration: 3
+    duration: 5
     text: "Mały Książę - książka, która zmieni Twoje spojrzenie na świat"
     subtitle: "Antoine de Saint-Exupéry"
     scene:
@@ -129,7 +129,7 @@ slides:
       background: "soft cream to pale blue gradient"
     
   - type: "story"
-    duration: 4
+    duration: 6
     text: "Pilot rozbija się na Saharze i spotyka tajemniczego chłopca z innej planety"
     scene:
       elements:
@@ -145,7 +145,7 @@ slides:
       background: "desert sunset with gradient from gold to purple"
     
   - type: "character"
-    duration: 3.5
+    duration: 5.5
     text: "Mały Książę opowiada o swojej podróży po planetach i ludziach, których spotkał"
     scene:
       elements:
@@ -161,7 +161,7 @@ slides:
       background: "deep space with purple and blue nebula"
     
   - type: "theme"
-    duration: 4
+    duration: 6
     text: "Każda planeta to metafora dorosłości - król, próżny, bankier... Czy dorośli zapomnieli, co ważne?"
     scene:
       elements:
@@ -177,7 +177,7 @@ slides:
       background: "gradient from grey-blue to soft purple"
     
   - type: "quote"
-    duration: 4.5
+    duration: 6.5
     text: "Dobrze widzi się tylko sercem. Najważniejsze jest niewidoczne dla oczu"
     author_position: "bottom"
     scene:
@@ -194,7 +194,7 @@ slides:
       background: "soft pink to lavender radial gradient"
     
   - type: "why_read"
-    duration: 3.5
+    duration: 5.5
     text: "Ta krótka książka nauczy Cię więcej o życiu niż niejeden podręcznik filozofii"
     scene:
       elements:
@@ -210,7 +210,7 @@ slides:
       background: "soft clouds with golden light breaking through"
     
   - type: "cta"
-    duration: 3
+    duration: 5
     text: "Przeczytaj i odkryj, co Twoja róża znaczy dla Ciebie"
     hashtags: ["#MałyKsiążę", "#LittlePrince", "#Klasyka"]
     scene:
