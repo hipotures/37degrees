@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mały Książę - Interaktywna Odkrywcza Podróż</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Lora:wght@400;600&display=swap" rel="stylesheet">
+    <!-- Chosen Palette: Cosmic Dream -->
+    <!-- Application Structure Plan: A thematic, non-linear "galaxy exploration" model. The user navigates between "planets" of information (Author, Genesis, Symbols, Impact, Adaptations) via a sticky navigation bar. This structure encourages discovery and user-driven exploration over passive reading, aligning thematically with the book's journey. Key interactions include a character symbol explorer, data visualizations for the book's reach, and an interactive timeline, making complex information digestible and engaging. -->
+    <!-- Visualization & Content Choices: 
+        - Author's Life (Timeline): Goal: Show change/progression. Method: Interactive HTML/CSS timeline. Interaction: Clicking a date reveals details. Justification: More engaging than a static list for biographical data.
+        - Characters (Interactive Cards): Goal: Organize & explain symbolism. Method: Clickable HTML grid. Interaction: Clicking a character reveals a modal with their symbolic meaning. Justification: Visually appealing and allows for focused exploration of complex themes.
+        - Global Reach (Bar Chart): Goal: Compare translation scope. Method: Chart.js Bar Chart. Interaction: Tooltips on hover. Justification: Effectively compares quantities across categories (languages), highlighting the book's global impact.
+        - Sales (Doughnut Chart): Goal: Inform about scale. Method: Chart.js Doughnut Chart. Interaction: Tooltip on hover. Justification: Simple, clear visual for a single, powerful statistic.
+        - CONFIRMATION: NO SVG graphics used. NO Mermaid JS used. -->
+    <!-- CONFIRMATION: NO SVG graphics used. NO Mermaid JS used. -->
+    <style>
+        body {
+            background-color: #FDF6E3;
+            color: #073642;
+            font-family: 'Inter', sans-serif;
+        }
+        h1, h2, h3 {
+            font-family: 'Lora', serif;
+        }
+        .nav-link {
+            transition: color 0.3s, border-bottom-color 0.3s;
+            border-bottom: 2px solid transparent;
+        }
+        .nav-link:hover, .nav-link.active {
+            color: #B58900;
+            border-bottom-color: #B58900;
+        }
+        .planet-section {
+            scroll-margin-top: 80px;
+        }
+        .chart-container {
+            position: relative;
+            width: 100%;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+            height: 300px;
+            max-height: 400px;
+        }
+        @media (min-width: 768px) {
+            .chart-container {
+                height: 350px;
+            }
+        }
+        .modal-backdrop {
+            transition: opacity 0.3s ease-in-out;
+        }
+        .modal-content {
+            transition: transform 0.3s ease-in-out;
+        }
+    </style>
+</head>
+<body class="antialiased">
+
+    <header class="bg-[#FDF6E3]/80 backdrop-blur-md sticky top-0 z-50 shadow-sm">
+        <nav class="container mx-auto px-6 py-4">
+            <div class="flex items-center justify-between">
+                <div class="text-xl font-semibold text-[#073642]">
+                    <span class="font-serif">Mały Książę</span> 🪐
+                </div>
+                <div class="hidden md:flex items-center space-x-8">
+                    <a href="#author" class="nav-link text-lg">Autor</a>
+                    <a href="#genesis" class="nav-link text-lg">Geneza</a>
+                    <a href="#symbols" class="nav-link text-lg">Symbole</a>
+                    <a href="#impact" class="nav-link text-lg">Wpływ</a>
+                    <a href="#adaptations" class="nav-link text-lg">Adaptacje</a>
+                </div>
+                <div class="md:hidden">
+                    <button id="menu-btn" class="text-2xl">☰</button>
+                </div>
+            </div>
+            <div id="mobile-menu" class="hidden md:hidden flex-col items-center mt-4 space-y-4">
+                 <a href="#author" class="nav-link text-lg">Autor</a>
+                 <a href="#genesis" class="nav-link text-lg">Geneza</a>
+                 <a href="#symbols" class="nav-link text-lg">Symbole</a>
+                 <a href="#impact" class="nav-link text-lg">Wpływ</a>
+                 <a href="#adaptations" class="nav-link text-lg">Adaptacje</a>
+            </div>
+        </nav>
+    </header>
+
+    <main class="container mx-auto px-6 py-12">
+        <section id="hero" class="text-center mb-24">
+            <h1 class="text-5xl md:text-6xl font-bold text-[#268BD2] mb-4">Odkrywcza Podróż po Świecie Małego Księcia</h1>
+            <p class="text-xl max-w-3xl mx-auto text-gray-600">
+                Wyrusz w interaktywną podróż, aby zgłębić tajemnice, symbole i ponadczasową mądrość jednego z najbardziej ukochanych dzieł literatury światowej. Odkryj na nowo to, co "niewidoczne dla oczu".
+            </p>
+        </section>
+
+        <section id="author" class="planet-section mb-24">
+            <h2 class="text-4xl font-bold text-center mb-12 text-[#268BD2]">✈️ Planeta Autora: Antoine de Saint-Exupéry</h2>
+            <div class="bg-white/50 p-8 rounded-xl shadow-lg mb-8">
+                <h3 class="text-2xl font-bold mb-4 text-[#B58900]">Nocny Pisarz z Papierosem</h3>
+                <p class="text-lg mb-6">
+                    Antoine de Saint-Exupéry pisał "Małego Księcia" głównie nocami, zazwyczaj zaczynając około 23:00. Towarzyszyły mu mocna czarna kawa, papierosy i posiłki złożone z jajecznicy na angielskich muffinach oraz gin z tonikiem. Często dzwonił do przyjaciół o drugiej nad ranem, aby przeczytać im fragmenty. To był jego rytuał twórczy - praca w ciszy nocy, z papierosem w ustach i filiżanką kawy obok.
+                </p>
+            </div>
+            <div class="bg-white/50 p-8 rounded-xl shadow-lg">
+                <p class="text-lg mb-8 text-center max-w-4xl mx-auto">
+                    Życie Antoine'a de Saint-Exupéry'ego było równie fascynujące i pełne przygód co jego książki. Był arystokratą, pionierem lotnictwa i pisarzem, którego osobiste doświadczenia – zwłaszcza awaryjne lądowanie na Saharze w 1935 roku – stały się fundamentem dla "Małego Księcia". Ta sekcja pozwala prześledzić kluczowe momenty jego życia, które ukształtowały jego najsłynniejsze dzieło.
+                </p>
+                <div id="timeline" class="relative">
+                </div>
+            </div>
+        </section>
+
+        <section id="genesis" class="planet-section mb-24">
+            <h2 class="text-4xl font-bold text-center mb-12 text-[#268BD2]">✍️ Planeta Genezy: Narodziny Dzieła</h2>
+            <div class="grid md:grid-cols-2 gap-12 items-center mb-12">
+                <div class="bg-white/50 p-8 rounded-xl shadow-lg">
+                    <h3 class="text-2xl font-bold mb-4 text-[#B58900]">Książka na Zamówienie</h3>
+                    <p class="text-lg">
+                        "Mały Książę" powstał na prośbę żony wydawcy, która chciała, aby Saint-Exupéry napisał książkę dla dzieci. Miało to uspokoić jego nerwy i konkurować z nowymi opowiadaniami o Mary Poppins autorstwa P.L. Travers. Książka została napisana i zilustrowana w Nowym Jorku oraz w wiosce Asharoken na Long Island w okresie od połowy do końca 1942 roku.
+                    </p>
+                </div>
+                <div class="bg-white/50 p-8 rounded-xl shadow-lg">
+                    <h3 class="text-2xl font-bold mb-4 text-[#B58900]">Manuskrypt w Pogniecionej Torbie</h3>
+                    <p class="text-lg">
+                        Oryginalny 140-stronicowy rękopis był pełen przekreśleń, plam po kawie i przypaleniach od papierosów. Gdy Saint-Exupéry przekazywał go swojej przyjaciółce Sylvii Hamilton tuż przed wyjazdem do Afryki, powiedział: "Chciałbym dać ci coś wspaniałego, ale to wszystko co mam" - i wręczył jej manuskrypt w pogniecionej papierowej torbie. Jedna z ilustracji ma dziurę po papierosie, którą celowo pozostawiono dla potomności.
+                    </p>
+                </div>
+            </div>
+            <div class="bg-white/50 p-8 rounded-xl shadow-lg">
+                <h3 class="text-2xl font-bold mb-4 text-[#B58900]">Podwójny Zakaz</h3>
+                <p class="text-lg">
+                    Książka została zakazana zarówno przez rząd Vichy (za obronę Żydów i krytykę Hitlera), jak i przez Wolną Francję generała de Gaulle'a (z powodu osobistego konfliktu z autorem). To unikalna sytuacja - dzieło zakazane przez obie strony francuskiego konfliktu politycznego podczas II wojny światowej. Francuscy czytelnicy musieli czekać do 1946 roku na swoją wersję - po wyzwoleniu Francji i śmierci autora.
+                </p>
+            </div>
+        </section>
+
+        <section id="symbols" class="planet-section mb-24">
+            <h2 class="text-4xl font-bold text-center mb-12 text-[#268BD2]">✨ Planeta Symboli: Ukryte Znaczenia</h2>
+             <p class="text-lg mb-12 text-center max-w-4xl mx-auto">
+                Każda postać i element w "Małym Księciu" jest bogatym symbolem, który odnosi się do uniwersalnych prawd o miłości, przyjaźni, stracie i naturze ludzkiej. Ta sekcja pozwala zgłębić te ukryte znaczenia. Kliknij na postać, aby odkryć jej tajemnicę.
+            </p>
+            <div class="bg-white/50 p-8 rounded-xl shadow-lg mb-8">
+                <h3 class="text-2xl font-bold mb-4 text-[#B58900]">Tajemnica B-612</h3>
+                <p class="text-lg mb-4">
+                    Nazwa asteroidy B-612 prawdopodobnie pochodzi od numeru seryjnego A-612 jednego z samolotów, którymi Saint-Exupéry latał jako pilot pocztowy. To piękne połączenie jego lotniczej kariery z literaturą.
+                </p>
+                <p class="text-lg">
+                    W 1993 roku odkryto prawdziwą asteroidę 46610 Bésixdouze (wymawiane jak "B-612" po francusku), nazwaną na cześć fikcyjnej asteroidy z książki. Liczba asteroidy 46610 w zapisie szesnastkowym daje B612!
+                </p>
+            </div>
+            <div id="character-grid" class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+            </div>
+        </section>
+
+        <section id="impact" class="planet-section mb-24">
+            <h2 class="text-4xl font-bold text-center mb-12 text-[#268BD2]">🌍 Planeta Wpływu: Globalny Fenomen</h2>
+             <p class="text-lg mb-12 text-center max-w-4xl mx-auto">
+                "Mały Książę" to nie tylko książka, to globalny fenomen kulturowy. Jego wpływ jest widoczny w oszałamiających statystykach sprzedaży, rekordowej liczbie tłumaczeń i wszechobecności w popkulturze. Poniższe wizualizacje ukazują skalę tego zjawiska.
+            </p>
+            <div class="bg-white/50 p-8 rounded-xl shadow-lg mb-8">
+                <h3 class="text-2xl font-bold mb-4 text-[#B58900]">Ciekawostki Wydawnicze</h3>
+                <div class="grid md:grid-cols-2 gap-6">
+                    <div>
+                        <h4 class="font-bold text-lg mb-2">Wartość Oryginałów</h4>
+                        <ul class="list-disc list-inside text-lg">
+                            <li>Grudzień 2023: Akwarela sprzedana za 350 000 euro (10x więcej niż szacowano!)</li>
+                            <li>Czerwiec 2017: Akwarela z Małym Księciem - 294 000 euro</li>
+                            <li>Oryginały są niezwykle rzadkie - większość w muzeach</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h4 class="font-bold text-lg mb-2">Największa Książka Świata</h4>
+                        <p class="text-lg">
+                            Portugalskie wydanie z 2007 roku ma rekord Guinnessa jako największa opublikowana książka: 2,01 m wysokości i 3,08 m szerokości po otwarciu!
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="grid lg:grid-cols-2 gap-12">
+                <div class="bg-white/50 p-8 rounded-xl shadow-lg">
+                    <h3 class="text-2xl font-bold text-center mb-4 text-[#B58900]">Najczęściej Tłumaczona Książka Świata</h3>
+                    <div class="chart-container">
+                        <canvas id="translationsChart"></canvas>
+                    </div>
+                    <p class="text-sm text-center mt-4">Rekord Guinnessa: 382 języki oficjalnie, ale faktycznie ponad 600 tłumaczeń!</p>
+                </div>
+                <div class="bg-white/50 p-8 rounded-xl shadow-lg">
+                    <h3 class="text-2xl font-bold text-center mb-4 text-[#B58900]">Sprzedaż i Popularność</h3>
+                     <div class="chart-container">
+                        <canvas id="salesChart"></canvas>
+                    </div>
+                    <p class="text-sm text-center mt-4">140 milionów sprzedanych egzemplarzy, 14 milionów tylko we Francji!</p>
+                </div>
+            </div>
+        </section>
+        
+        <section id="adaptations" class="planet-section">
+            <h2 class="text-4xl font-bold text-center mb-12 text-[#268BD2]">🎬 Planeta Adaptacji: Poza Stronami Książki</h2>
+            <p class="text-lg mb-12 text-center max-w-4xl mx-auto">
+                Uniwersalna opowieść "Małego Księcia" zainspirowała twórców na całym świecie, prowadząc do powstania licznych adaptacji filmowych, teatralnych, a nawet gier i komiksów. Każda z nich na swój sposób interpretuje i rozszerza magiczny świat stworzony przez Saint-Exupéry'ego.
+            </p>
+            <div class="bg-white/50 p-8 rounded-xl shadow-lg">
+                <div class="relative">
+                    <div id="adaptations-carousel" class="overflow-hidden">
+                        <div id="carousel-inner" class="flex transition-transform duration-500 ease-in-out">
+                        </div>
+                    </div>
+                    <button id="prev-btn" class="absolute top-1/2 left-0 -translate-y-1/2 bg-white/50 rounded-full p-2 text-2xl shadow-md">&lt;</button>
+                    <button id="next-btn" class="absolute top-1/2 right-0 -translate-y-1/2 bg-white/50 rounded-full p-2 text-2xl shadow-md">&gt;</button>
+                </div>
+            </div>
+        </section>
+
+    </main>
+    
+    <div id="character-modal" class="modal-backdrop fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center p-4 z-50 opacity-0 pointer-events-none">
+        <div class="modal-content bg-[#FDF6E3] rounded-xl shadow-2xl max-w-lg w-full p-8 relative transform scale-95">
+            <button id="close-modal-btn" class="absolute top-4 right-4 text-2xl font-bold">&times;</button>
+            <div id="modal-body">
+            </div>
+        </div>
+    </div>
+
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const timelineData = [
+                { year: '1900', event: 'Narodziny Antoine'a de Saint-Exupéry'ego w Lyonie.' },
+                { year: '1921', event: 'Uzyskuje licencję pilota podczas służby wojskowej.' },
+                { year: '1931', event: 'Poślubia Consuelo Suncin, inspirację dla postaci Róży.' },
+                { year: '1935', event: 'Awaryjne lądowanie na Pustyni Libijskiej. To doświadczenie staje się kanwą dla książki.' },
+                { year: '1942', event: 'Rozpoczyna pisanie "Małego Księcia" na wygnaniu w Nowym Jorku.' },
+                { year: '1943', event: 'Pierwsze wydanie "Małego Księcia" w USA (w języku francuskim i angielskim).' },
+                { year: '1944', event: 'Tajemnicze zniknięcie podczas misji zwiadowczej nad Morzem Śródziemnym.' }
+            ];
+
+            const timelineContainer = document.getElementById('timeline');
+            timelineContainer.innerHTML = `<div class="absolute left-1/2 h-full w-0.5 bg-[#B58900]/50 -translate-x-1/2"></div>`;
+            timelineData.forEach((item, index) => {
+                const isLeft = index % 2 === 0;
+                const timelineItem = `
+                    <div class="mb-8 flex justify-between items-center w-full ${isLeft ? 'flex-row-reverse' : ''}">
+                        <div class="order-1 w-5/12"></div>
+                        <div class="z-20 flex items-center order-1 bg-[#B58900] shadow-xl w-8 h-8 rounded-full">
+                            <h1 class="mx-auto font-semibold text-sm text-white">${item.year}</h1>
+                        </div>
+                        <div class="order-1 bg-white rounded-lg shadow-xl w-5/12 px-6 py-4">
+                            <p class="text-sm text-gray-800">${item.event}</p>
+                        </div>
+                    </div>
+                `;
+                timelineContainer.innerHTML += timelineItem;
+            });
+
+            const characterData = [
+                { id: 'prince', name: 'Mały Książę', emoji: '🤴', color: 'bg-yellow-200', description: 'Uosobienie niewinności, ciekawości i mądrości dziecięcego spojrzenia. Jego podróż to poszukiwanie sensu, przyjaźni i zrozumienia świata dorosłych.' },
+                { id: 'rose', name: 'Róża', emoji: '🌹', color: 'bg-red-200', description: 'Symbol miłości – pięknej, lecz wymagającej i kapryśnej. Inspirowana żoną autora, Consuelo de Saint-Exupéry, Salwadorką o burzliwej przeszłości. Ich miłość była gwałtowna i pełna konfliktów, a "Mały Książę" jest uważany za list miłosny i przeprosiny dla niej. Trzy wulkany na planecie Małego Księcia reprezentują trzy wulkany Salwadoru - ojczyzny Consuelo.' },
+                { id: 'fox', name: 'Lis', emoji: '🦊', color: 'bg-orange-200', description: 'Reprezentuje mądrość i przyjaźń. Uczy Księcia najważniejszej lekcji: "Dobrze widzi się tylko sercem" i "Stajesz się odpowiedzialny za to, co oswoiłeś".' },
+                { id: 'snake', name: 'Wąż', emoji: '🐍', color: 'bg-green-200', description: 'Zagadkowa postać symbolizująca śmierć i cykl życia. Oferuje Księciu ostateczne rozwiązanie i powrót do domu, mówiąc językiem zagadek.' },
+                { id: 'king', name: 'Król', emoji: '👑', color: 'bg-purple-200', description: 'Karykatura żądzy władzy. Jego autorytet jest iluzją, ponieważ włada królestwem bez poddanych. Pokazuje absurdalność rządzenia dla samego rządzenia.' },
+                { id: 'businessman', name: 'Biznesmen', emoji: '💼', color: 'bg-blue-200', description: 'Symbol materializmu i obsesji na punkcie liczb. Jest tak zajęty liczeniem gwiazd, które uważa za swoją własność, że traci z oczu prawdziwe piękno wszechświata.' },
+                { id: 'lamplighter', name: 'Latarnik', emoji: '💡', color: 'bg-gray-200', description: 'Jedyna postać, którą Książę darzy sympatią. Symbolizuje absurdalność bezmyślnego wykonywania poleceń, ale także wierność i poświęcenie.' },
+                { id: 'baobabs', name: 'Baobaby', emoji: '🌳', color: 'bg-lime-200', description: 'Symbolizują złe nawyki, negatywne myśli i problemy, które, jeśli nie zostaną w porę usunięte, mogą "rozsadzić planetę" – czyli zniszczyć życie jednostki.' },
+                { id: 'roses', name: 'Pole Róż', emoji: '🌷', color: 'bg-pink-200', description: 'Pole róż, które rozprasza Małego Księcia podczas wizyty na Ziemi, jest alegorią licznych zdrad Saint-Exupéry'ego. Pokazuje konflikt między wyjątkowością a pospolitością.' },
+            ];
+            
+            const characterGrid = document.getElementById('character-grid');
+            characterData.forEach(char => {
+                const card = document.createElement('div');
+                card.className = `p-6 rounded-xl shadow-lg text-center cursor-pointer transition-transform transform hover:scale-105 ${char.color}`;
+                card.innerHTML = `<div class="text-6xl mb-4">${char.emoji}</div><h3 class="text-xl font-semibold">${char.name}</h3>`;
+                card.addEventListener('click', () => openModal(char));
+                characterGrid.appendChild(card);
+            });
+
+            const modal = document.getElementById('character-modal');
+            const modalBody = document.getElementById('modal-body');
+            const closeModalBtn = document.getElementById('close-modal-btn');
+
+            function openModal(character) {
+                modalBody.innerHTML = `
+                    <div class="text-center">
+                        <div class="text-8xl mb-4">${character.emoji}</div>
+                        <h2 class="text-3xl font-bold mb-2 text-[#268BD2]">${character.name}</h2>
+                        <p class="text-lg">${character.description}</p>
+                    </div>
+                `;
+                modal.classList.remove('opacity-0', 'pointer-events-none');
+                modal.querySelector('.modal-content').classList.remove('scale-95');
+            }
+
+            function closeModal() {
+                modal.classList.add('opacity-0', 'pointer-events-none');
+                modal.querySelector('.modal-content').classList.add('scale-95');
+            }
+            closeModalBtn.addEventListener('click', closeModal);
+            modal.addEventListener('click', (e) => {
+                if (e.target === modal) {
+                    closeModal();
+                }
+            });
+
+            const translationsCtx = document.getElementById('translationsChart').getContext('2d');
+            new Chart(translationsCtx, {
+                type: 'bar',
+                data: {
+                    labels: ['Języki i dialekty', 'Języki starożytne', 'Esperanto', 'Klingoński', 'Braille', 'Skolt Sámi'],
+                    datasets: [{
+                        label: 'Liczba Tłumaczeń',
+                        data: [600, 5, 1, 1, 1, 1],
+                        backgroundColor: ['#268BD2', '#6C71C4', '#D33682', '#DC322F', '#CB4B16', '#859900'],
+                        borderColor: '#FDF6E3',
+                        borderWidth: 2
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    indexAxis: 'y',
+                    plugins: {
+                        legend: { display: false },
+                        title: { display: true, text: 'Przetłumaczony na ponad 600 języków i dialektów' }
+                    },
+                    scales: {
+                        x: { beginAtZero: true }
+                    }
+                }
+            });
+
+            const salesCtx = document.getElementById('salesChart').getContext('2d');
+            new Chart(salesCtx, {
+                type: 'doughnut',
+                data: {
+                    labels: ['Sprzedane egzemplarze (w milionach)', 'Pozostała światowa literatura'],
+                    datasets: [{
+                        data: [140, 860],
+                        backgroundColor: ['#B58900', '#EEE8D5'],
+                        hoverBackgroundColor: ['#856708', '#EEE8D5'],
+                        borderColor: '#FDF6E3',
+                        borderWidth: 4
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: { display: false },
+                        title: { display: true, text: '140 milionów sprzedanych egzemplarzy na świecie' },
+                        tooltip: {
+                            callbacks: {
+                                label: function(context) {
+                                    if (context.dataIndex === 0) {
+                                        return 'Mały Książę: 140 milionów egzemplarzy';
+                                    }
+                                    return '';
+                                }
+                            }
+                        }
+                    }
+                }
+            });
+            
+            const adaptationsData = [
+                { type: 'Film Animowany (2015)', title: 'Reż. Mark Osborne', description: 'Nowoczesna adaptacja łącząca animację komputerową i poklatkową, opowiadająca historię przez pryzmat małej dziewczynki. Film zarobił 97 milionów dolarów na całym świecie.', image: 'https://placehold.co/600x400/268BD2/FFFFFF?text=Film+2015' },
+                { type: 'Musical Filmowy (1974)', title: 'Reż. Stanley Donen', description: 'Klasyczna, muzyczna interpretacja z Bobem Fosse w roli Węża (sam choreografował swoją sekwencję taneczną!) i Gene Wilder jako Lis. Film otworzył się w Radio City Music Hall w Nowym Jorku.', image: 'https://placehold.co/600x400/DC322F/FFFFFF?text=Musical+1974' },
+                { type: 'Japońskie Anime (1978)', title: 'Przygody Małego Księcia', description: 'Serial anime, który rozszerzył oryginalną fabułę o nowe planety i przygody.', image: 'https://placehold.co/600x400/859900/FFFFFF?text=Anime+1978' },
+                { type: 'Opera (2003)', title: 'Kompozytor: Rachel Portman', description: 'Uznana adaptacja operowa, która przeniosła poetycki język książki na scenę muzyczną. Wcześniej powstały też: Der Kleine Prinz (1985) i adaptacja w Teatrze Bolszoj w Moskwie (1982).', image: 'https://placehold.co/600x400/6C71C4/FFFFFF?text=Opera+2003' },
+                { type: 'Musical na Broadwayu (1981)', title: 'Z Anthony Rapp jako Małym Księciem', description: 'Musical teatralny, który mimo krótkiego czasu na scenie stał się legendą Broadwayu.', image: 'https://placehold.co/600x400/B58900/FFFFFF?text=Broadway+1981' }
+            ];
+
+            const carouselInner = document.getElementById('carousel-inner');
+            adaptationsData.forEach(item => {
+                const slide = document.createElement('div');
+                slide.className = 'w-full flex-shrink-0';
+                slide.innerHTML = `
+                    <div class="text-center p-4">
+                        <img src="${item.image}" alt="${item.title}" class="rounded-lg shadow-lg mx-auto mb-4 max-h-64 object-cover">
+                        <h4 class="text-xl font-bold">${item.type}</h4>
+                        <p class="text-md text-gray-600">${item.title}</p>
+                        <p class="text-sm mt-2 max-w-md mx-auto">${item.description}</p>
+                    </div>
+                `;
+                carouselInner.appendChild(slide);
+            });
+
+            let currentIndex = 0;
+            const prevBtn = document.getElementById('prev-btn');
+            const nextBtn = document.getElementById('next-btn');
+            const totalSlides = adaptationsData.length;
+
+            function updateCarousel() {
+                carouselInner.style.transform = `translateX(-${currentIndex * 100}%)`;
+            }
+
+            prevBtn.addEventListener('click', () => {
+                currentIndex = (currentIndex - 1 + totalSlides) % totalSlides;
+                updateCarousel();
+            });
+
+            nextBtn.addEventListener('click', () => {
+                currentIndex = (currentIndex + 1) % totalSlides;
+                updateCarousel();
+            });
+
+            const menuBtn = document.getElementById('menu-btn');
+            const mobileMenu = document.getElementById('mobile-menu');
+            menuBtn.addEventListener('click', () => {
+                mobileMenu.classList.toggle('hidden');
+            });
+
+            const navLinks = document.querySelectorAll('.nav-link');
+            const sections = document.querySelectorAll('.planet-section');
+
+            window.addEventListener('scroll', () => {
+                let current = '';
+                sections.forEach(section => {
+                    const sectionTop = section.offsetTop;
+                    if (pageYOffset >= sectionTop - 90) {
+                        current = section.getAttribute('id');
+                    }
+                });
+
+                navLinks.forEach(link => {
+                    link.classList.remove('active');
+                    if (link.getAttribute('href').substring(1) === current) {
+                        link.classList.add('active');
+                    }
+                });
+            });
+            
+            navLinks.forEach(link => {
+                link.addEventListener('click', (e) => {
+                    e.preventDefault();
+                    document.querySelector(link.getAttribute('href')).scrollIntoView({
+                        behavior: 'smooth'
+                    });
+                    if (mobileMenu.classList.contains('flex')) {
+                        mobileMenu.classList.add('hidden');
+                    }
+                });
+            });
+
+        });
+    </script>
+</body>
+</html>
