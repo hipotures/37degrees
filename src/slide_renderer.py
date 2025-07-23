@@ -1,6 +1,6 @@
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont
-from moviepy.editor import ImageClip, CompositeVideoClip
+from moviepy import ImageClip, CompositeVideoClip
 from typing import Dict, Tuple, Optional, List
 import textwrap
 from pathlib import Path
@@ -29,27 +29,63 @@ class SlideRenderer:
         font_family = self.text_settings['font_family']
         fonts = {}
         
-        try:
-            fonts['title'] = ImageFont.truetype(
-                get_font_path(font_family, 'bold'),
-                self.text_settings['font_size_title']
-            )
-            fonts['body'] = ImageFont.truetype(
-                get_font_path(font_family, 'regular'),
-                self.text_settings['font_size_body']
-            )
-            fonts['cta'] = ImageFont.truetype(
-                get_font_path(font_family, 'bold'),
-                self.text_settings['font_size_cta']
-            )
-            fonts['small'] = ImageFont.truetype(
-                get_font_path(font_family, 'regular'),
-                int(self.text_settings['font_size_body'] * 0.8)
-            )
-        except Exception as e:
-            print(f"Error loading fonts, using default: {e}")
-            # Fallback to default font
-            for key, size in [('title', 72), ('body', 48), ('cta', 56), ('small', 38)]:
+        # Try to use system fonts that exist
+        font_paths = [
+            "/usr/share/fonts/TTF/DejaVuSans-Bold.ttf",
+            "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
+            "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf",
+            "/usr/share/fonts/TTF/GoogleSans-Bold.ttf"
+        ]
+        
+        bold_font_path = None
+        regular_font_path = None
+        
+        # Find available fonts
+        for font_path in font_paths:
+            if Path(font_path).exists():
+                bold_font_path = font_path
+                # Try to find regular version
+                regular_path = font_path.replace('-Bold', '-Regular').replace('Bold', 'Regular')
+                if Path(regular_path).exists():
+                    regular_font_path = regular_path
+                else:
+                    regular_font_path = bold_font_path
+                break
+        
+        if bold_font_path:
+            try:
+                fonts['title'] = ImageFont.truetype(
+                    bold_font_path,
+                    self.text_settings['font_size_title']
+                )
+                fonts['body'] = ImageFont.truetype(
+                    regular_font_path,
+                    self.text_settings['font_size_body']
+                )
+                fonts['cta'] = ImageFont.truetype(
+                    bold_font_path,
+                    self.text_settings['font_size_cta']
+                )
+                fonts['small'] = ImageFont.truetype(
+                    regular_font_path,
+                    int(self.text_settings['font_size_body'] * 0.8)
+                )
+                print(f"✓ Loaded font: {Path(bold_font_path).name}")
+            except Exception as e:
+                print(f"Error loading fonts: {e}")
+                # Use large sizes even for default font
+                for key, size in [('title', self.text_settings['font_size_title']), 
+                                  ('body', self.text_settings['font_size_body']), 
+                                  ('cta', self.text_settings['font_size_cta']), 
+                                  ('small', int(self.text_settings['font_size_body'] * 0.8))]:
+                    fonts[key] = ImageFont.load_default()
+        else:
+            print("Warning: No system fonts found, using default")
+            # Use configured sizes for default font
+            for key, size in [('title', self.text_settings['font_size_title']), 
+                              ('body', self.text_settings['font_size_body']), 
+                              ('cta', self.text_settings['font_size_cta']), 
+                              ('small', int(self.text_settings['font_size_body'] * 0.8))]:
                 fonts[key] = ImageFont.load_default()
         
         return fonts
@@ -135,7 +171,7 @@ class SlideRenderer:
             zoom = 1.0 + (0.1 * t / duration)
             return zoom
         
-        return image_clip.resize(lambda t: zoom_func(t))
+        return image_clip.resized(lambda t: zoom_func(t))
     
     def render_slide(self, slide_data: Dict, background: np.ndarray, book_info: Dict,
                     slide_index: int, total_slides: int) -> ImageClip:
@@ -171,10 +207,10 @@ class SlideRenderer:
         
         # Convert back to numpy array and create video clip
         slide_array = np.array(bg_image)
-        slide_clip = ImageClip(slide_array)
+        duration = slide_data.get('duration', self.template['slide_defaults']['duration'])
+        slide_clip = ImageClip(slide_array, duration=duration)
         
         # Apply Ken Burns effect
-        duration = slide_data.get('duration', self.template['slide_defaults']['duration'])
         slide_clip = self._apply_ken_burns_effect(slide_clip, duration)
         
         return slide_clip

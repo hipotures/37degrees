@@ -1,5 +1,4 @@
-from moviepy.editor import VideoClip, ImageClip
-from moviepy.video.fx import fadein, fadeout
+from moviepy import VideoClip, ImageClip
 import numpy as np
 from typing import Dict, Callable
 
@@ -62,7 +61,7 @@ class TextAnimator:
                 return ('center', clip.h + offset)
             return ('center', 'center')
         
-        return clip.set_position(position_func)
+        return clip.with_position(position_func)
     
     def _slide_down_animation(self, clip: VideoClip, slide_data: Dict) -> VideoClip:
         """Slide down from top animation"""
@@ -77,7 +76,7 @@ class TextAnimator:
                 return ('center', -offset)
             return ('center', 'center')
         
-        return clip.set_position(position_func)
+        return clip.with_position(position_func)
     
     def _slide_left_animation(self, clip: VideoClip, slide_data: Dict) -> VideoClip:
         """Slide in from right animation"""
@@ -92,7 +91,7 @@ class TextAnimator:
                 return (clip.w + offset, 'center')
             return ('center', 'center')
         
-        return clip.set_position(position_func)
+        return clip.with_position(position_func)
     
     def _slide_right_animation(self, clip: VideoClip, slide_data: Dict) -> VideoClip:
         """Slide in from left animation"""
@@ -107,11 +106,12 @@ class TextAnimator:
                 return (-offset, 'center')
             return ('center', 'center')
         
-        return clip.set_position(position_func)
+        return clip.with_position(position_func)
     
     def _fade_animation(self, clip: VideoClip, slide_data: Dict) -> VideoClip:
         """Simple fade in animation"""
-        return clip.fadein(0.5)
+        from moviepy.video.fx import FadeIn
+        return clip.with_effects([FadeIn(0.5)])
     
     def _zoom_animation(self, clip: VideoClip, slide_data: Dict) -> VideoClip:
         """Zoom in animation"""
@@ -126,7 +126,7 @@ class TextAnimator:
                 return scale
             return 1.0
         
-        return clip.resize(resize_func)
+        return clip.resized(resize_func)
     
     def _bounce_animation(self, clip: VideoClip, slide_data: Dict) -> VideoClip:
         """Bounce entrance animation"""
@@ -151,7 +151,7 @@ class TextAnimator:
                 return ('center', clip.h // 2 + offset)
             return ('center', 'center')
         
-        return clip.set_position(position_func)
+        return clip.with_position(position_func)
     
     def _typewriter_animation(self, clip: VideoClip, slide_data: Dict) -> VideoClip:
         """Typewriter effect - reveals text character by character"""
@@ -172,7 +172,8 @@ class TextAnimator:
     
     def _fade_out_animation(self, clip: VideoClip, slide_data: Dict) -> VideoClip:
         """Fade out at the end"""
-        return clip.fadeout(0.3)
+        from moviepy.video.fx import FadeOut
+        return clip.with_effects([FadeOut(0.3)])
     
     def _slide_up_exit(self, clip: VideoClip, slide_data: Dict) -> VideoClip:
         """Slide up exit animation"""
@@ -188,7 +189,7 @@ class TextAnimator:
                 return ('center', clip.h // 2 - offset)
             return ('center', 'center')
         
-        return clip.set_position(position_func)
+        return clip.with_position(position_func)
     
     def _slide_down_exit(self, clip: VideoClip, slide_data: Dict) -> VideoClip:
         """Slide down exit animation"""
@@ -204,7 +205,7 @@ class TextAnimator:
                 return ('center', clip.h // 2 + offset)
             return ('center', 'center')
         
-        return clip.set_position(position_func)
+        return clip.with_position(position_func)
     
     def _zoom_out_animation(self, clip: VideoClip, slide_data: Dict) -> VideoClip:
         """Zoom out exit animation"""
@@ -220,7 +221,7 @@ class TextAnimator:
                 return scale
             return 1.0
         
-        return clip.resize(resize_func)
+        return clip.resized(resize_func)
     
     def _add_pulse_effect(self, clip: VideoClip) -> VideoClip:
         """Add pulsing effect for CTA slides"""
@@ -229,7 +230,7 @@ class TextAnimator:
             pulse = 1.0 + 0.05 * np.sin(2 * np.pi * t)
             return pulse
         
-        return clip.resize(resize_func)
+        return clip.resized(resize_func)
     
     def create_custom_animation(self, animation_func: Callable) -> Callable:
         """Create custom animation from user-provided function"""

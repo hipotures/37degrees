@@ -2,10 +2,7 @@ import os
 import yaml
 from pathlib import Path
 from typing import Dict, List, Optional
-from moviepy import VideoFileClip, ImageClip, CompositeVideoClip, concatenate_videoclips, AudioFileClip
-from moviepy.video.fx.resize import resize
-from moviepy.video.fx.fadein import fadein
-from moviepy.video.fx.fadeout import fadeout
+from moviepy import ImageClip, CompositeVideoClip, concatenate_videoclips, AudioFileClip, VideoFileClip
 from PIL import Image, ImageDraw, ImageFont
 import numpy as np
 from rich.console import Console
@@ -127,7 +124,7 @@ class VideoGenerator:
             audio = AudioFileClip(str(book_audio_path))
             audio = audio.subclip(0, video_clip.duration)
             audio = audio.volumex(music_settings['volume'])
-            video_clip = video_clip.set_audio(audio)
+            video_clip = video_clip.with_audio(audio)
             return video_clip
         
         if music_settings['use_trending_audio']:
@@ -144,7 +141,7 @@ class VideoGenerator:
             audio = AudioFileClip(fallback_path)
             audio = audio.subclip(0, video_clip.duration)
             audio = audio.volumex(music_settings['volume'])
-            video_clip = video_clip.set_audio(audio)
+            video_clip = video_clip.with_audio(audio)
             console.print(f"[green]Added shared audio track to video[/green]")
         else:
             console.print(f"[yellow]No audio file found at {fallback_path}[/yellow]")
@@ -171,14 +168,58 @@ class VideoGenerator:
         
         # Generate slides
         slides = []
-        for idx, slide_data in enumerate(track(book_config['slides'], description="Generating slides")):
+        book_dir = Path(book_yaml_path).parent
+        
+        # Check for generated scenes
+        scenes_dirs = ['generated', 'scenes_v2', 'scenes', 'with_text']
+        scene_files = []
+        
+        for scenes_dir in scenes_dirs:
+            scenes_path = book_dir / scenes_dir
+            if scenes_path.exists():
+                # Try to find scene files
+                for idx in range(len(book_config['slides'])):
+                    # Try different naming patterns
+                    patterns = [
+                        f"scene_{idx:02d}_*.png",
+                        f"scene_{idx}_*.png",
+                        f"{idx:02d}_*.png",
+                        f"*_{idx:02d}.png"
+                    ]
+                    
+                    found = False
+                    for pattern in patterns:
+                        files = list(scenes_path.glob(pattern))
+                        if files:
+                            scene_files.append(files[0])
+                            found = True
+                            break
+                    
+                    if not found:
+                        # Use background as fallback
+                        scene_files.append(None)
+                
+                if any(scene_files):
+                    console.print(f"[green]Found scenes in {scenes_dir}[/green]")
+                    break
+        
+        for idx, slide_data in enumerate(book_config['slides']):
             # Merge slide settings with defaults
             slide_duration = slide_data.get('duration', self.template['slide_defaults']['duration'])
             
-            # Render slide
+            # Load scene image or use background
+            if idx < len(scene_files) and scene_files[idx]:
+                console.print(f"[blue]Using scene: {scene_files[idx].name}[/blue]")
+                scene_img = Image.open(scene_files[idx])
+                scene_array = np.array(scene_img.resize((self.width, self.height), Image.Resampling.LANCZOS))
+            else:
+                console.print(f"[yellow]Using background for slide {idx}[/yellow]")
+                scene_array = np.copy(background)
+            
+            # Render slide with text
             slide_clip = self.slide_renderer.render_slide(
                 slide_data=slide_data,
-                background=background.copy(),
+                background=scene_array,
                 book_info=book_info,
                 slide_index=idx,
                 total_slides=len(book_config['slides'])
@@ -188,7 +229,7 @@ class VideoGenerator:
             slide_clip = self.text_animator.apply_animations(slide_clip, slide_data)
             
             # Set duration
-            slide_clip = slide_clip.set_duration(slide_duration)
+            slide_clip = slide_clip.with_duration(slide_duration)
             
             # Add transitions
             if idx > 0:
@@ -196,7 +237,8 @@ class VideoGenerator:
                 transition_duration = self.template['slide_defaults']['transition_duration']
                 
                 if transition_type == 'fade':
-                    slide_clip = slide_clip.crossfadein(transition_duration)
+                    from moviepy.video.fx import CrossFadeIn
+                    slide_clip = slide_clip.with_effects([CrossFadeIn(transition_duration)])
             
             slides.append(slide_clip)
         
@@ -242,9 +284,10 @@ class VideoGenerator:
         
         console.print(f"[blue]Series: {series_name} - {len(books)} books[/blue]")
         
-        for book_ref in track(books, description=f"Generating {series_name} videos"):
+        for i, book_ref in enumerate(books, 1):
             try:
                 book_path = book_ref['path']
+                console.print(f"\n[yellow]({i}/{len(books)}) Processing: {book_path}[/yellow]")
                 output_path = self.generate_video(book_path)
                 generated_videos.append(output_path)
             except Exception as e:

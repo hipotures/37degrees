@@ -143,7 +143,9 @@ def generate_single_video(book_ref: str, template: str = "templates/classics_tem
         console.print(f"\n[bold green]✅ Success! Video saved to: {output_path}[/bold green]")
         
     except Exception as e:
+        import traceback
         console.print(f"[red]Error generating video: {e}[/red]")
+        traceback.print_exc()
         raise
 
 
