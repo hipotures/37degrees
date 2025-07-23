@@ -212,6 +212,10 @@ class VideoGenerator:
                 
                 if any(scene_files):
                     console.print(f"[green]Found scenes in {scenes_dir}[/green]")
+                    # Print all scene files at once to avoid progress bar issues
+                    for idx, scene_file in enumerate(scene_files):
+                        if scene_file:
+                            console.print(f"[blue]Using scene: {scene_file.name}[/blue]")
                     break
         
         for idx, slide_data in enumerate(book_config['slides']):
@@ -220,7 +224,6 @@ class VideoGenerator:
             
             # Load scene image or use background
             if idx < len(scene_files) and scene_files[idx]:
-                console.print(f"[blue]Using scene: {scene_files[idx].name}[/blue]")
                 scene_img = Image.open(scene_files[idx])
                 scene_array = np.array(scene_img.resize((self.width, self.height), Image.Resampling.LANCZOS))
             else:
