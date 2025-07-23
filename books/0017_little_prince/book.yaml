@@ -167,7 +167,7 @@ slides:
     author_position: "bottom"
     scene:
       elements:
-        - "anatomical heart shape"
+        - "simple heart symbol shape"
         - "small stars inside heart"
         - "straight light rays"
         - "rose petals"

@@ -38,6 +38,13 @@ python main.py ai 17
 
 # Generate AI images for entire collection
 python main.py ai classics
+
+# Generate everything (prompts + AI + video) for book #17
+python main.py generate 17
+
+# Regenerate prompts only (e.g., after editing book.yaml)
+python main.py prompts 17
+python main.py prompts little_prince
 ```
 
 ## 📁 Project Structure

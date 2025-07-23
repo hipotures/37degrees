@@ -65,20 +65,8 @@ def generate_single_video(book_yaml_path: Path, only_render: bool = False, templ
         # Initialize generator
         generator = VideoGenerator(template_path)
         
-        # Generate video with progress
-        with Progress(
-            SpinnerColumn(),
-            TextColumn("[progress.description]{task.description}"),
-            BarColumn(),
-            TextColumn("[progress.percentage]{task.percentage:>3.0f}%"),
-            TimeRemainingColumn(),
-            console=console
-        ) as progress:
-            # This is a placeholder - actual progress tracking would need to be integrated into VideoGenerator
-            task = progress.add_task("Generating video...", total=100)
-            
-            output_path = generator.generate_video(str(book_yaml_path))
-            progress.update(task, completed=100)
+        # Generate video (MoviePy will handle progress display)
+        output_path = generator.generate_video(str(book_yaml_path))
         
         console.print(f"\n[bold green]✅ Video saved to: {output_path}[/bold green]")
         

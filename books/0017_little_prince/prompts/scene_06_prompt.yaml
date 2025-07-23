@@ -1,7 +1,7 @@
-positive_prompt: 'anatomical heart shape, small stars inside heart, straight light rays, rose petals, two small eyes, composition: heart in center, stars filling heart interior, eight light rays extending
-  outward symmetrically, rose petals scattered around, small eyes in top corners black and white pencil drawing, off-center composition, cross-hatching for shadows, bold strokes, textured paper. sketch+++'
+positive_prompt: 'cardboard box, top hat, wooden crate, child figure looking upward, sparkle dots, stack of thick books, composition: child at bottom center looking up, floating objects above (box left,
+  hat center, crate right), sparkles around objects, book stack in far background black and white pencil drawing, off-center composition, cross-hatching for shadows, bold strokes, textured paper. sketch+++'
 negative_prompt: blurry, photo, painting, color. messy, dirty. unfinished. frame, borders.
-resolution: 1080x1920
+resolution: 832x1248
 model: Dreamshaper XL v2 Turbo
 model_key: c81f2f9b-cabd-40ec-b6f4-d3172c10bafc
 steps: 30

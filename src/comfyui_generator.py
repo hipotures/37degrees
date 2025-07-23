@@ -165,15 +165,24 @@ class ComfyUIGenerator:
 
 
 def main():
-    """Generate all scenes for Little Prince"""
+    """Generate all scenes for any book"""
+    import sys
+    
+    if len(sys.argv) < 2:
+        print("Usage: python comfyui_generator.py <book_yaml_path>")
+        sys.exit(1)
+    
+    book_yaml_path = Path(sys.argv[1])
+    book_dir = book_yaml_path.parent
+    
     generator = ComfyUIGenerator()
     
     # You need to save a workflow from ComfyUI first!
     workflow_path = "comfyui_workflow.json"
     
-    prompts_dir = Path("books/little_prince/prompts")
-    output_dir = Path("books/little_prince/generated")
-    output_dir.mkdir(exist_ok=True)
+    prompts_dir = book_dir / "prompts"
+    output_dir = book_dir / "generated"
+    output_dir.mkdir(parents=True, exist_ok=True)
     
     for prompt_file in sorted(prompts_dir.glob("scene_*.yaml")):
         scene_num = prompt_file.stem.split('_')[1]

@@ -1,7 +1,7 @@
-positive_prompt: 'large human eye floating in space, multiple small stars arranged in constellations, spiral galaxy, floating light orbs, composition: eye in center, spiral galaxy wrapping around it, stars
-  scattered throughout, light orbs floating near edges black and white pencil drawing, off-center composition, cross-hatching for shadows, bold strokes, textured paper. sketch+++'
+positive_prompt: 'open hardcover book lying flat, three small round planets, star constellation shapes, curved star trails, single small rose flower, composition: book in lower third of frame, planets floating
+  up from pages, constellation patterns above, rose on right page black and white pencil drawing, off-center composition, cross-hatching for shadows, bold strokes, textured paper. sketch+++'
 negative_prompt: blurry, photo, painting, color. messy, dirty. unfinished. frame, borders.
-resolution: 1080x1920
+resolution: 832x1248
 model: Dreamshaper XL v2 Turbo
 model_key: c81f2f9b-cabd-40ec-b6f4-d3172c10bafc
 steps: 30

@@ -193,18 +193,25 @@ class PromptBuilder:
 
 
 def main():
-    """Generate COMPLETE prompts for Little Prince"""
-    builder = PromptBuilder('books/little_prince/book.yaml')
+    """Generate COMPLETE prompts for any book"""
+    import sys
+    if len(sys.argv) > 1:
+        book_yaml = sys.argv[1]
+    else:
+        book_yaml = 'books/little_prince/book.yaml'
+    
+    builder = PromptBuilder(book_yaml)
+    book_dir = Path(book_yaml).parent
     
     print("=== SCENE 1 COMPLETE PROMPT (Exactly what AI receives) ===")
     print(builder.build_scene_prompt(0))
     
     print("\n=== GENERATING ALL SCENE PROMPTS WITH FULL DETAILS ===")
-    output_dir = Path('books/little_prince/prompts')
+    output_dir = book_dir / 'prompts'
     output_dir.mkdir(exist_ok=True)
     
     for i in range(len(builder.book_data['slides'])):
-        output_path = output_dir / f"scene_{i+1:02d}_prompt.yaml"
+        output_path = output_dir / f"scene_{i:02d}_prompt.yaml"
         builder.save_scene_prompt(i, str(output_path))
         print(f"Saved: {output_path} - {builder.get_scene_summary(i)}")
     

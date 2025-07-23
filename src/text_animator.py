@@ -43,8 +43,9 @@ class TextAnimator:
             clip = self.exit_animations[exit_anim](clip, slide_data)
         
         # Apply special effects for specific slide types
-        if slide_data.get('type') == 'cta':
-            clip = self._add_pulse_effect(clip)
+        # Pulse effect disabled - user requested no zoom on CTA slides
+        # if slide_data.get('type') == 'cta':
+        #     clip = self._add_pulse_effect(clip)
         
         return clip
     

@@ -52,10 +52,7 @@ def generate_single_book_images(book_yaml_path: Path):
     if generated_dir.exists():
         existing_images = list(generated_dir.glob("*.png"))
         if existing_images:
-            console.print(f"[yellow]Warning: Found {len(existing_images)} existing images[/yellow]")
-            if not Confirm.ask("Regenerate all images?"):
-                console.print("[yellow]Operation cancelled[/yellow]")
-                return
+            console.print(f"[yellow]Found {len(existing_images)} existing images - regenerating...[/yellow]")
     
     try:
         # Initialize generator
@@ -71,21 +68,28 @@ def generate_single_book_images(book_yaml_path: Path):
             
             main_task = progress.add_task("Generating AI images...", total=len(slides))
             
-            # Generate prompts first
-            progress.update(main_task, description="Building prompts...")
-            generator.generate_prompts(str(book_yaml_path))
+            # Initialize generation
+            progress.update(main_task, description="Starting image generation...")
             
-            # Generate images
-            for i, slide in enumerate(slides, 1):
-                slide_type = slide.get('type', f'slide_{i}')
-                progress.update(main_task, description=f"Generating scene {i}/{len(slides)}: {slide_type}")
-                
-                # This would call the actual image generation
-                # For now, we'll simulate it
-                import time
-                time.sleep(0.5)  # Simulate generation time
-                
-                progress.update(main_task, advance=1)
+            # Use the simple InvokeAI generator that works
+            import subprocess
+            import sys
+            
+            progress.update(main_task, description="Running InvokeAI generator...")
+            
+            # Hide output to prevent conflicting progress bars
+            result = subprocess.run([
+                sys.executable, "src/simple_invokeai_generator.py", str(book_yaml_path)
+            ], capture_output=True, text=True)
+            
+            # Show any errors
+            if result.returncode != 0:
+                console.print(f"[red]Error: {result.stderr}[/red]")
+            
+            if result.returncode == 0:
+                progress.update(main_task, completed=len(slides))
+            else:
+                raise Exception(f"Generation failed with code: {result.returncode}")
         
         console.print(f"\n[bold green]✅ Successfully generated {len(slides)} images[/bold green]")
         console.print(f"[dim]Images saved to: {book_dir}/generated/[/dim]")

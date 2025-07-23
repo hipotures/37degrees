@@ -288,6 +288,7 @@ class VideoGenerator:
         
         # Write video file
         console.print(f"[blue]Writing video to: {output_path}[/blue]")
+        console.print("[yellow]Encoding in progress... (MoviePy progress bars below)[/yellow]")
         
         # First encode with CPU (fast)
         temp_output = output_path.replace('.mp4', '_temp.mp4')
