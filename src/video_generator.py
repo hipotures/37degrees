@@ -164,7 +164,16 @@ class VideoGenerator:
         # Set output path
         if not output_path:
             book_filename = Path(book_yaml_path).stem
-            output_path = f"output/{book_filename}_{datetime.now().strftime('%Y%m%d_%H%M%S')}.{self.video_format}"
+            # Extract book ID from directory name (e.g., "0017_little_prince" -> "0017")
+            book_dir_name = Path(book_yaml_path).parent.name
+            book_id = book_dir_name.split('_')[0] if '_' in book_dir_name else ""
+            
+            # Generate filename with ID
+            timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
+            if book_id and book_id.isdigit():
+                output_path = f"output/{book_filename}_{book_id}_{timestamp}.{self.video_format}"
+            else:
+                output_path = f"output/{book_filename}_{timestamp}.{self.video_format}"
         
         ensure_dir(Path(output_path).parent)
         
@@ -356,7 +365,7 @@ class VideoGenerator:
         
         return output_path
     
-    def batch_generate(self, series_file: str = "content/classics.yaml") -> List[str]:
+    def batch_generate(self, series_file: str = "collections/classics.yaml") -> List[str]:
         """Generate videos for all books in a series"""
         console.print(f"\n[bold cyan]Starting batch generation for series: {series_file}[/bold cyan]")
         

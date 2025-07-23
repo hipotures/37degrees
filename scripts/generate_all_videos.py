@@ -63,7 +63,7 @@ def generate_book_video(book_path):
 
 def main():
     """Main function"""
-    series_file = "content/classics.yaml"
+    series_file = "collections/classics.yaml"
     
     if len(sys.argv) > 1:
         series_file = sys.argv[1]

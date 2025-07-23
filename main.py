@@ -30,7 +30,7 @@ def display_banner():
     print(banner)
 
 
-def list_series_books(series_file: str = "content/classics.yaml"):
+def list_series_books(series_file: str = "collections/classics.yaml"):
     """List all books in a series"""
     if not Path(series_file).exists():
         console.print(f"[red]Series file not found: {series_file}[/red]")
@@ -97,7 +97,7 @@ def list_all_books(books_dir: str = "books"):
     console.print(f"\n[dim]Total books: {len(book_files)}[/dim]")
 
 
-def generate_single_video(book_ref: str, template: str = "templates/classics_template.yaml", 
+def generate_single_video(book_ref: str, template: str = "shared_assets/templates/classics_template.yaml", 
                          series_file: str = None):
     """Generate video for a single book
     
@@ -149,8 +149,8 @@ def generate_single_video(book_ref: str, template: str = "templates/classics_tem
         raise
 
 
-def generate_batch_videos(series_file: str = "content/classics.yaml", 
-                         template: str = "templates/classics_template.yaml"):
+def generate_batch_videos(series_file: str = "collections/classics.yaml", 
+                         template: str = "shared_assets/templates/classics_template.yaml"):
     """Generate videos for all books in a series"""
     try:
         # Validate inputs
@@ -199,7 +199,7 @@ def main():
     parser.add_argument(
         '-s', '--series',
         type=str,
-        default='content/classics.yaml',
+        default='collections/classics.yaml',
         help='Path to series YAML file'
     )
     
@@ -233,7 +233,7 @@ def main():
             console.print("[red]Please specify a book with -b/--book[/red]")
             console.print("[dim]Examples:[/dim]")
             console.print("  python main.py generate -b books/l/i/little_prince.yaml")
-            console.print("  python main.py generate -b 1 -s content/classics.yaml")
+            console.print("  python main.py generate -b 1 -s collections/classics.yaml")
             sys.exit(1)
         generate_single_video(args.book, args.template, args.series)
     

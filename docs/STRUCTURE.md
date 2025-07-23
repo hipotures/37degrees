@@ -26,7 +26,7 @@ The project has been reorganized to better support multimedia content for each b
 │   ├── templates/             # Video generation templates
 │   └── backgrounds/           # Shared AI-generated backgrounds
 │
-├── content/                   # Series definitions
+├── collections/               # Series definitions
 │   └── classics.yaml          # Classic books series
 │
 ├── output/                    # Generated videos
@@ -58,7 +58,7 @@ The project has been reorganized to better support multimedia content for each b
    - `audio/theme.mp3` - Book-specific music
    - Any other assets in the `assets/` folder
 
-4. Add the book to a series (e.g., in `content/classics.yaml`)
+4. Add the book to a series (e.g., in `collections/classics.yaml`)
 
 ## Asset Priority
 
