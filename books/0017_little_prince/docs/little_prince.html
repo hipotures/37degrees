@@ -71,6 +71,7 @@
                 <div class="hidden md:flex items-center space-x-8">
                     <a href="#author" class="nav-link text-lg">Autor</a>
                     <a href="#genesis" class="nav-link text-lg">Geneza</a>
+                    <a href="#curiosities" class="nav-link text-lg">Ciekawostki</a>
                     <a href="#symbols" class="nav-link text-lg">Symbole</a>
                     <a href="#impact" class="nav-link text-lg">Wpływ</a>
                     <a href="#adaptations" class="nav-link text-lg">Adaptacje</a>
@@ -126,6 +127,36 @@
             </div>
         </section>
 
+        <section id="curiosities" class="planet-section mb-24">
+            <h2 class="text-4xl font-bold text-center mb-12 text-[#268BD2]">📚 Planeta Ciekawostek: Fascynujące Odkrycia</h2>
+            <div class="grid md:grid-cols-2 gap-12 items-center">
+                <div class="bg-white/50 p-8 rounded-xl shadow-lg">
+                    <h3 class="text-2xl font-bold mb-4 text-[#B58900]">Nocny Pisarz z Papierosem</h3>
+                    <p class="text-lg">
+                        Antoine de Saint-Exupéry pisał "Małego Księcia" głównie nocami, zazwyczaj zaczynając około 23:00. Towarzyszyły mu mocna czarna kawa, papierosy i posiłki złożone z jajecznicy na angielskich muffinach oraz gin z tonikiem. Często dzwonił do przyjaciół o drugiej nad ranem, aby przeczytać im fragmenty. To był jego rytuał twórczy - praca w ciszy nocy, z papierosem w ustach i filiżanką kawy obok.
+                    </p>
+                </div>
+                <div class="bg-white/50 p-8 rounded-xl shadow-lg">
+                    <h3 class="text-2xl font-bold mb-4 text-[#B58900]">Manuskrypt w Pogniecionej Torbie</h3>
+                    <p class="text-lg">
+                        Oryginalny 140-stronicowy rękopis był pełen przekreśleń, plam po kawie i przypaleniach od papierosów. Gdy Saint-Exupéry przekazywał go swojej przyjaciółce Sylvii Hamilton tuż przed wyjazdem do Afryki, powiedział: "Chciałbym dać ci coś wspaniałego, ale to wszystko co mam" - i wręczył jej manuskrypt w pogniecionej papierowej torbie. Jedna z ilustracji ma dziurę po papierosie, którą celowo pozostawiono dla potomności.
+                    </p>
+                </div>
+                <div class="bg-white/50 p-8 rounded-xl shadow-lg">
+                    <h3 class="text-2xl font-bold mb-4 text-[#B58900]">Tajemnica B-612</h3>
+                    <p class="text-lg">
+                        Nazwa asteroidy B-612 prawdopodobnie pochodzi od numeru seryjnego A-612 jednego z samolotów, którymi Saint-Exupéry latał jako pilot pocztowy. W 1993 roku odkryto prawdziwą asteroidę 46610 Bésixdouze (wymawiane jak "B-612" po francusku), nazwaną na cześć fikcyjnej asteroidy z książki. Liczba asteroidy 46610 w zapisie szesnastkowym daje B612!
+                    </p>
+                </div>
+                <div class="bg-white/50 p-8 rounded-xl shadow-lg">
+                    <h3 class="text-2xl font-bold mb-4 text-[#B58900]">Podwójny Zakaz</h3>
+                    <p class="text-lg">
+                        Książka została zakazana zarówno przez rząd Vichy (za obronę Żydów i krytykę Hitlera), jak i przez Wolną Francję generała de Gaulle'a (z powodu osobistego konfliktu z autorem). To unikalna sytuacja - dzieło zakazane przez obie strony francuskiego konfliktu politycznego podczas II wojny światowej. Francuscy czytelnicy musieli czekać do 1946 roku na swoją wersję - po wyzwoleniu Francji i śmierci autora.
+                    </p>
+                </div>
+            </div>
+        </section>
+
         <section id="symbols" class="planet-section mb-24">
             <h2 class="text-4xl font-bold text-center mb-12 text-[#268BD2]">✨ Planeta Symboli: Ukryte Znaczenia</h2>
              <p class="text-lg mb-12 text-center max-w-4xl mx-auto">
@@ -142,7 +173,7 @@
             </p>
             <div class="grid lg:grid-cols-2 gap-12">
                 <div class="bg-white/50 p-8 rounded-xl shadow-lg">
-                    <h3 class="text-2xl font-bold text-center mb-4 text-[#B58900]">Najczęściej Tłumaczona Książka Świata</h3>
+                    <h3 class="text-2xl font-bold text-center mb-4 text-[#B58900]">TOP 7 Najczęściej Tłumaczonych Książek</h3>
                     <div class="chart-container">
                         <canvas id="translationsChart"></canvas>
                     </div>
@@ -203,8 +234,8 @@
                 const timelineItem = `
                     <div class="mb-8 flex justify-between items-center w-full ${isLeft ? 'flex-row-reverse' : ''}">
                         <div class="order-1 w-5/12"></div>
-                        <div class="z-20 flex items-center order-1 bg-[#B58900] shadow-xl w-8 h-8 rounded-full">
-                            <h1 class="mx-auto font-semibold text-sm text-white">${item.year}</h1>
+                        <div class="z-20 flex items-center order-1 bg-[#B58900] shadow-xl w-10 h-10 rounded-full">
+                            <h1 class="mx-auto font-semibold text-xs text-white">${item.year}</h1>
                         </div>
                         <div class="order-1 bg-white rounded-lg shadow-xl w-5/12 px-6 py-4">
                             <p class="text-sm text-gray-800">${item.event}</p>
@@ -265,11 +296,11 @@
             new Chart(translationsCtx, {
                 type: 'bar',
                 data: {
-                    labels: ['Języki i dialekty', 'Języki starożytne', 'Gwara śląska', 'Gwara poznańska', 'Język kaszubski'],
+                    labels: ['Biblia', 'Mały Książę', 'Pinocchio', 'Alicja w Krainie Czarów', 'Don Kichot', 'Harry Potter', 'Hobbit'],
                     datasets: [{
-                        label: 'Liczba Tłumaczeń',
-                        data: [600, 5, 1, 1, 1],
-                        backgroundColor: ['#268BD2', '#6C71C4', '#D33682', '#DC322F', '#CB4B16'],
+                        label: 'Liczba języków',
+                        data: [3400, 600, 300, 174, 145, 80, 60],
+                        backgroundColor: ['#268BD2', '#B58900', '#2AA198', '#D33682', '#6C71C4', '#DC322F', '#859900'],
                         borderColor: '#FDF6E3',
                         borderWidth: 2
                     }]
@@ -277,28 +308,52 @@
                 options: {
                     responsive: true,
                     maintainAspectRatio: false,
-                    indexAxis: 'y',
                     plugins: {
                         legend: { display: false },
-                        title: { display: true, text: 'Przetłumaczony na ponad 600 języków i dialektów' }
+                        title: { display: true, text: 'Porównanie liczby tłumaczeń słynnych książek' }
                     },
                     scales: {
-                        x: { beginAtZero: true }
+                        y: { 
+                            beginAtZero: true,
+                            title: {
+                                display: true,
+                                text: 'Liczba języków'
+                            }
+                        },
+                        x: {
+                            ticks: {
+                                autoSkip: false,
+                                maxRotation: 45,
+                                minRotation: 45,
+                                font: function(context) {
+                                    if (context.tick && context.tick.label === 'Mały Książę') {
+                                        return {
+                                            size: 12,
+                                            weight: 'bold'
+                                        };
+                                    }
+                                    return {
+                                        size: 12,
+                                        weight: 'normal'
+                                    };
+                                }
+                            }
+                        }
                     }
                 }
             });
 
             const salesCtx = document.getElementById('salesChart').getContext('2d');
             new Chart(salesCtx, {
-                type: 'doughnut',
+                type: 'bar',
                 data: {
-                    labels: ['Sprzedane egzemplarze (w milionach)'],
+                    labels: ['Francja', 'USA', 'Japonia', 'Niemcy', 'Polska', 'Brazylia', 'Korea Płd.', 'Pozostałe'],
                     datasets: [{
-                        data: [200],
-                        backgroundColor: ['#B58900'],
-                        hoverBackgroundColor: ['#856708'],
+                        label: 'Miliony egzemplarzy',
+                        data: [14, 25, 18, 12, 8, 10, 7, 46],
+                        backgroundColor: ['#268BD2', '#DC322F', '#D33682', '#6C71C4', '#CB4B16', '#859900', '#2AA198', '#B58900'],
                         borderColor: '#FDF6E3',
-                        borderWidth: 4
+                        borderWidth: 2
                     }]
                 },
                 options: {
@@ -306,7 +361,23 @@
                     maintainAspectRatio: false,
                     plugins: {
                         legend: { display: false },
-                        title: { display: true, text: 'Ponad 200 milionów sprzedanych egzemplarzy na świecie' }
+                        title: { display: true, text: 'Sprzedaż w różnych krajach (łącznie 140 mln egzemplarzy)' },
+                        tooltip: {
+                            callbacks: {
+                                label: function(context) {
+                                    return context.parsed.y + ' mln egzemplarzy';
+                                }
+                            }
+                        }
+                    },
+                    scales: {
+                        y: { 
+                            beginAtZero: true,
+                            title: {
+                                display: true,
+                                text: 'Miliony egzemplarzy'
+                            }
+                        }
                     }
                 }
             });
