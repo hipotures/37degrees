@@ -185,4 +185,4 @@ This project uses [Claude Code](https://claude.ai/code) for development assistan
 
 ## 📄 License
 
-Private project for @37stopni TikTok account.
+MIT License
