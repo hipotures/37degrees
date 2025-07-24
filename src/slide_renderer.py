@@ -4,6 +4,7 @@ from moviepy import ImageClip, CompositeVideoClip
 from typing import Dict, Tuple, Optional, List
 import textwrap
 from pathlib import Path
+import re
 
 from .utils import get_font_path, add_text_shadow, calculate_text_position
 from .emoji_utils import replace_emojis, has_emojis
@@ -127,36 +128,54 @@ class SlideRenderer:
         use_emoji_overlay = self.template.get('text_settings', {}).get('enable_color_emojis', True)
         
         if has_emojis(text) and use_emoji_overlay:
-            # Create EmojiTextOverlay config based on current settings
-            emoji_config = {
-                'method': 'outline' if self.text_settings.get('outline_width') else ('shadow' if self.text_settings.get('shadow') else 'simple'),
-                'outline': {
-                    'color': self.text_settings.get('outline_color', '#000000'),
-                    'width': self.text_settings.get('outline_width', 4)
-                },
-                'shadow': {
-                    'color': self.text_settings.get('shadow_color', '#000000'),
-                    'offset_x': self.shadow_offset,
-                    'offset_y': self.shadow_offset
-                },
-                'font': {
-                    'size': font.size,
-                    'color': color,
-                    'weight': 'bold',
-                    'alignment': align,
-                    'line_height': 1.2
-                }
-            }
+            # Use Pilmoji for emoji rendering on transparent background
+            from pilmoji import Pilmoji
             
-            # Create temporary overlay handler
-            emoji_overlay = EmojiTextOverlay(emoji_config)
+            # Create Pilmoji drawer
+            drawer = Pilmoji(image)
             
-            # Apply text with emojis
-            return emoji_overlay.apply_text_overlay(image, text)
-        
-        # Original behavior: replace emojis with text equivalents
-        if has_emojis(text) and not use_emoji_overlay:
-            text = replace_emojis(text)
+            # Wrap text if max_width is specified
+            if max_width:
+                lines = self._wrap_text(text, font, max_width)
+            else:
+                lines = [text]
+            
+            # Calculate total height for centering
+            line_height = font.size + 10  # Add some line spacing
+            total_height = len(lines) * line_height
+            
+            # Adjust starting y position for vertical centering
+            y = position[1] - (total_height // 2) if position[1] == self.video_settings['height'] // 2 else position[1]
+            
+            for line in lines:
+                # Get text bbox for alignment
+                bbox = drawer.getsize(line, font)
+                text_width = bbox[0]
+                
+                # Calculate x position based on alignment
+                if align == 'center':
+                    x = position[0] - (text_width // 2) if position[0] == self.video_settings['width'] // 2 else position[0]
+                elif align == 'left':
+                    x = position[0]
+                else:  # right
+                    x = position[0] - text_width
+                
+                # Draw with outline effect
+                if self.text_settings.get('outline_width'):
+                    outline_width = self.text_settings.get('outline_width', 4)
+                    outline_color = self.text_settings.get('outline_color', '#000000')
+                    # Draw outline by drawing text multiple times with offset
+                    for dx in range(-outline_width, outline_width + 1):
+                        for dy in range(-outline_width, outline_width + 1):
+                            if dx != 0 or dy != 0:
+                                drawer.text((x + dx, y + dy), line, font=font, fill=outline_color)
+                
+                # Draw main text
+                drawer.text((x, y), line, font=font, fill=color)
+                
+                y += line_height
+            
+            return image
         
         draw = ImageDraw.Draw(image)
         
@@ -233,47 +252,54 @@ class SlideRenderer:
         return image_clip.resized(lambda t: zoom_func(t))
     
     def render_slide(self, slide_data: Dict, background: np.ndarray, book_info: Dict,
-                    slide_index: int, total_slides: int) -> ImageClip:
-        """Render a single slide with text and background"""
+                    slide_index: int, total_slides: int) -> Tuple[ImageClip, ImageClip]:
+        """Render a single slide with separate background and text layers"""
         slide_type = slide_data.get('type', 'default')
+        duration = slide_data.get('duration', self.template['slide_defaults']['duration'])
         
-        # Create PIL image from background
+        # Create background layer
         bg_image = Image.fromarray(background)
         
         # Add darkening overlay for better text readability
         overlay = Image.new('RGBA', bg_image.size, (0, 0, 0, 100))
         bg_image.paste(overlay, (0, 0), overlay)
         
-        # Get positions from template
-        positions = self.text_settings['positions']
-        
-        # Render based on slide type
-        if slide_type == 'hook':
-            bg_image = self._render_hook_slide(bg_image, slide_data)
-        elif slide_type == 'intro':
-            bg_image = self._render_intro_slide(bg_image, slide_data, book_info)
-        elif slide_type == 'quote':
-            bg_image = self._render_quote_slide(bg_image, slide_data)
-        elif slide_type == 'cta':
-            bg_image = self._render_cta_slide(bg_image, slide_data)
-        else:
-            # Default text slide
-            bg_image = self._render_text_slide(bg_image, slide_data)
-        
-        # Add slide counter
+        # Add slide counter to background if needed
         if slide_index > 0:  # Don't show on first slide
             self._add_slide_counter(bg_image, slide_index + 1, total_slides)
         
-        # Convert back to numpy array and create video clip
-        slide_array = np.array(bg_image)
-        duration = slide_data.get('duration', self.template['slide_defaults']['duration'])
-        slide_clip = ImageClip(slide_array, duration=duration)
+        # Convert background to video clip
+        bg_array = np.array(bg_image)
+        bg_clip = ImageClip(bg_array, duration=duration)
         
-        # Apply Ken Burns effect (ale nie dla ostatniego slajdu CTA)
+        # Apply Ken Burns effect to background (ale nie dla ostatniego slajdu CTA)
         if slide_type != 'cta':
-            slide_clip = self._apply_ken_burns_effect(slide_clip, duration)
+            bg_clip = self._apply_ken_burns_effect(bg_clip, duration)
         
-        return slide_clip
+        # Create text layer on transparent background
+        text_image = Image.new('RGBA', (self.video_settings['width'], self.video_settings['height']), (0, 0, 0, 0))
+        
+        # Get positions from template
+        positions = self.text_settings['positions']
+        
+        # Render text based on slide type
+        if slide_type == 'hook':
+            text_image = self._render_hook_slide(text_image, slide_data)
+        elif slide_type == 'intro':
+            text_image = self._render_intro_slide(text_image, slide_data, book_info)
+        elif slide_type == 'quote':
+            text_image = self._render_quote_slide(text_image, slide_data)
+        elif slide_type == 'cta':
+            text_image = self._render_cta_slide(text_image, slide_data)
+        else:
+            # Default text slide
+            text_image = self._render_text_slide(text_image, slide_data)
+        
+        # Convert text to video clip with transparency
+        text_array = np.array(text_image)
+        text_clip = ImageClip(text_array, duration=duration)
+        
+        return bg_clip, text_clip
     
     def _render_hook_slide(self, image: Image.Image, slide_data: Dict) -> Image.Image:
         """Render hook slide with large, centered text"""

@@ -34,6 +34,7 @@ text_settings:
   shadow_offset: 10     # Większy cień dla lepszego kontrastu
   outline_width: 4      # Dodatkowy outline dla lepszej widoczności
   outline_color: "#000000"
+  enable_color_emojis: true
   
   # Safe Zone: góra 108px, dół 320px, lewo 60px, prawo 120px
   positions:
@@ -49,9 +50,15 @@ text_settings:
       y: 1100     # Powyżej dolnej strefy niebezpiecznej (1920-320-500)
 
 animation_settings:
-  text_entrance: "slide_up"
-  text_exit: "fade_out"
+  text_entrance: "none"  # Temporarily disabled to debug
+  text_exit: "none"      # Temporarily disabled to debug
   background_ken_burns: true
+
+text_timing:
+  delay_before: 0.2      # 20% czasu przed pojawieniem się napisów
+  text_duration: 0.7     # 70% czasu trwania napisów
+  delay_after: 0.1       # 10% czasu po zniknięciu napisów
+  fade_duration: 0.5     # Czas fade-in i fade-out w sekundach
 
 music_settings:
   use_trending_audio: true

@@ -238,8 +238,8 @@ class VideoGenerator:
             else:
                 raise FileNotFoundError(f"Missing AI-generated scene for slide {idx}. All scenes must be generated!")
             
-            # Render slide with text
-            slide_clip = self.slide_renderer.render_slide(
+            # Render slide with separate background and text layers
+            bg_clip, text_clip = self.slide_renderer.render_slide(
                 slide_data=slide_data,
                 background=scene_array,
                 book_info=book_info,
@@ -247,8 +247,31 @@ class VideoGenerator:
                 total_slides=len(book_config['slides'])
             )
             
-            # Apply animations
-            slide_clip = self.text_animator.apply_animations(slide_clip, slide_data)
+            # Get text timing settings
+            text_timing = self.template.get('text_timing', {})
+            delay_before = text_timing.get('delay_before', 0.0)
+            text_duration_ratio = text_timing.get('text_duration', 1.0)
+            fade_duration = text_timing.get('fade_duration', 0.5)
+            
+            # Calculate actual timing values
+            text_start = slide_duration * delay_before
+            text_duration = slide_duration * text_duration_ratio
+            
+            # Apply text animations first
+            text_clip = self.text_animator.apply_animations(text_clip, slide_data)
+            
+            # Set text timing and duration
+            text_clip = text_clip.with_start(text_start).with_duration(text_duration)
+            
+            # Apply fade-in and fade-out to text after setting duration
+            from moviepy.video.fx import FadeIn, FadeOut
+            text_clip = text_clip.with_effects([
+                FadeIn(fade_duration),
+                FadeOut(fade_duration)
+            ])
+            
+            # Composite background and text
+            slide_clip = CompositeVideoClip([bg_clip, text_clip], size=(self.width, self.height))
             
             # Set duration
             slide_clip = slide_clip.with_duration(slide_duration)

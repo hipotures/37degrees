@@ -35,11 +35,11 @@ class TextAnimator:
         exit_anim = self.animation_settings.get('text_exit', 'fade_out')
         
         # Apply entrance animation
-        if entrance in self.entrance_animations:
+        if entrance != 'none' and entrance in self.entrance_animations:
             clip = self.entrance_animations[entrance](clip, slide_data)
         
         # Apply exit animation
-        if exit_anim in self.exit_animations:
+        if exit_anim != 'none' and exit_anim in self.exit_animations:
             clip = self.exit_animations[exit_anim](clip, slide_data)
         
         # Apply special effects for specific slide types
@@ -59,7 +59,9 @@ class TextAnimator:
                 # Ease out cubic
                 progress = 1 - pow(1 - progress, 3)
                 offset = int((1 - progress) * 100)
-                return ('center', clip.h + offset)
+                # Ensure we stay within frame bounds
+                y_pos = min(clip.h - 100, clip.h // 2 + offset)
+                return ('center', y_pos)
             return ('center', 'center')
         
         return clip.with_position(position_func)
@@ -111,8 +113,9 @@ class TextAnimator:
     
     def _fade_animation(self, clip: VideoClip, slide_data: Dict) -> VideoClip:
         """Simple fade in animation"""
-        from moviepy.video.fx import FadeIn
-        return clip.with_effects([FadeIn(0.5)])
+        # Fade is now handled in video_generator.py with text_timing
+        # Just return the clip unchanged to avoid double fade
+        return clip
     
     def _zoom_animation(self, clip: VideoClip, slide_data: Dict) -> VideoClip:
         """Zoom in animation"""
@@ -173,8 +176,9 @@ class TextAnimator:
     
     def _fade_out_animation(self, clip: VideoClip, slide_data: Dict) -> VideoClip:
         """Fade out at the end"""
-        from moviepy.video.fx import FadeOut
-        return clip.with_effects([FadeOut(0.3)])
+        # Fade is now handled in video_generator.py with text_timing
+        # Just return the clip unchanged to avoid double fade
+        return clip
     
     def _slide_up_exit(self, clip: VideoClip, slide_data: Dict) -> VideoClip:
         """Slide up exit animation"""
