@@ -56,7 +56,7 @@ animation_settings:
 music_settings:
   use_trending_audio: true
   fallback_music: "assets/music/dramatic_classical.mp3"
-  volume: 0.3
+  volume: 0.7
 
 # Content guidelines for youth audience (10-20 years)
 content_style:

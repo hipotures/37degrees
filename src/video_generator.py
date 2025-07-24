@@ -119,6 +119,13 @@ class VideoGenerator:
         music_settings = self.template['music_settings']
         book_dir = Path(book_yaml_path).parent
         
+        # Load book config to check for volume override
+        book_config = self._load_book_config(book_yaml_path)
+        book_music_settings = book_config.get('music_settings', {})
+        
+        # Use book-specific volume if available, otherwise use template volume
+        volume = book_music_settings.get('volume', music_settings['volume'])
+        
         # Check for book-specific audio first
         book_audio_path = book_dir / "audio" / "theme.mp3"
         if not book_audio_path.exists():
@@ -126,9 +133,10 @@ class VideoGenerator:
         
         if book_audio_path.exists():
             console.print(f"[green]Using book-specific audio: {book_audio_path}[/green]")
+            console.print(f"[blue]Volume: {volume}[/blue]")
             audio = AudioFileClip(str(book_audio_path))
             audio = audio.subclipped(0, video_clip.duration)
-            audio = audio.with_volume_scaled(music_settings['volume'])
+            audio = audio.with_volume_scaled(volume)
             video_clip = video_clip.with_audio(audio)
             return video_clip
         
@@ -145,9 +153,10 @@ class VideoGenerator:
         if os.path.exists(fallback_path):
             audio = AudioFileClip(fallback_path)
             audio = audio.subclipped(0, video_clip.duration)
-            audio = audio.with_volume_scaled(music_settings['volume'])
+            audio = audio.with_volume_scaled(volume)
             video_clip = video_clip.with_audio(audio)
             console.print(f"[green]Added shared audio track to video[/green]")
+            console.print(f"[blue]Volume: {volume}[/blue]")
         else:
             console.print(f"[yellow]No audio file found at {fallback_path}[/yellow]")
         

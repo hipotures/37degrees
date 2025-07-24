@@ -13,6 +13,9 @@ technical_specs:
   fps: 30
   duration_per_slide: 5.5
 
+music_settings:
+  volume: 0.5  # Cichsza muzyka dla tej książki (50%)
+
 ai_generation:
   model_key: "c81f2f9b-cabd-40ec-b6f4-d3172c10bafc"
   model_name: "Dreamshaper XL v2 Turbo"
