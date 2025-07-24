@@ -1,3 +1,13 @@
+"""
+Video generation module for 37degrees TikTok video creator
+
+Handles the creation of final videos from AI-generated images with:
+- Text overlay rendering with multiple methods
+- Ken Burns effect and animations
+- Audio synchronization
+- GPU-accelerated encoding with NVENC
+"""
+
 import os
 import yaml
 from pathlib import Path

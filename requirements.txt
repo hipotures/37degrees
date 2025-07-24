@@ -36,5 +36,14 @@ python-dateutil
 # ComfyUI integration
 websocket-client
 
+# InvokeAI integration
+invoke
+
+# WebSocket support for AI generators
+python-socketio
+
+# Emoji rendering support
+pilmoji
+
 # Optional: TikTok upload automation
 # tiktok-uploader  # Uncomment if needed
