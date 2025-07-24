@@ -187,15 +187,21 @@ books/NNNN_book_name/           # Book folder (e.g., 0017_little_prince)
 
 ## 📚 Documentation
 
-- [HTML Page Generation Guide](docs/HTML_PAGE_GENERATION_GUIDE.md) - How to create interactive book pages
+### Configuration
+- [YAML Structures](docs/YAML_STRUCTURES.md) - All YAML file formats (book.yaml, collections, templates)
 - [Book Structure](docs/BOOK_STRUCTURE.md) - Organization of book directories
-- [InvokeAI Models Guide](docs/invoke_models_guide.md) - Recommended models for different genres
-- [SDXL Resolutions](docs/sdxl_resolutions.md) - Optimal resolutions for SDXL
-- [Project Structure](docs/STRUCTURE.md) - Detailed project organization
-- [Setup ComfyUI](docs/setup_comfyui.md) - Alternative AI backend
+- [Project Structure](docs/STRUCTURE.md) - Overall project organization
+
+### Features
 - [Emoji Support Guide](docs/EMOJI_SUPPORT_GUIDE.md) - Color emoji rendering in videos
 - [Text Animation Guide](docs/TEXT_ANIMATION_GUIDE.md) - Dynamic text effects
 - [Slide Renderer Guide](docs/SLIDE_RENDERER_GUIDE.md) - Advanced slide rendering system
+- [HTML Page Generation Guide](docs/HTML_PAGE_GENERATION_GUIDE.md) - Creating interactive book pages
+
+### AI Generation
+- [InvokeAI Models Guide](docs/invoke_models_guide.md) - Recommended models for different genres
+- [SDXL Resolutions](docs/sdxl_resolutions.md) - Optimal resolutions for SDXL
+- [Setup ComfyUI](docs/setup_comfyui.md) - Alternative AI backend
 
 ## 🤝 Contributing
 
