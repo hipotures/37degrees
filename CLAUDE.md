@@ -53,15 +53,6 @@ python main.py prompts little_prince
 # Migrate old book structure (if needed)
 python scripts/migrate_structure.py
 
-# Create documentation structure for books
-python scripts/create_docs_structure.py
-
-# Apply text overlays to existing images
-python scripts/apply_text_overlays.py
-
-# Test optimized video generation
-python scripts/test_optimized_gen.py
-
 # Build prompts for scenes (standalone)
 python src/prompt_builder.py books/NNNN_book_name/book.yaml
 ```

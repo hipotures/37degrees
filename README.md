@@ -172,7 +172,7 @@ pip install -r requirements.txt
 - **Generate specific book from collection**: `python main.py video classics 17`
 
 ### Documentation and Research
-1. **Create docs structure**: `python scripts/create_docs_structure.py`
+1. **Create docs folder**: `mkdir -p books/NNNN_book_name/docs`
 2. **Add research**: Create `review.md` with fascinating facts about the book
 3. **Generate HTML page**: Use templates from `shared_assets/templates/`
 4. **View result**: Open `books/NNNN_book_name/docs/book_page.html`
