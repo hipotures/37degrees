@@ -3,10 +3,11 @@
 Text overlay system with multiple rendering methods
 """
 
-from PIL import Image, ImageDraw, ImageFont, ImageFilter
+from PIL import Image, ImageDraw, ImageFont, ImageFilter, ImageColor
 import numpy as np
 from pathlib import Path
 from typing import Dict, Tuple, Optional
+import re
 
 
 class TextOverlay:
@@ -17,6 +18,8 @@ class TextOverlay:
         self.config = config
         self.method = config.get('method', 'outline')
         self.font_config = config.get('font', {})
+        self.emoji_font = None
+        self.regular_font = None
         
     def get_font(self, scale: float = 1.0) -> ImageFont.FreeTypeFont:
         """Load font with specified settings"""
@@ -24,26 +27,47 @@ class TextOverlay:
         font_size = int(self.font_config.get('size', 48) * scale)
         font_weight = self.font_config.get('weight', 'bold')
         
-        # Try to load system font - prioritize fonts with emoji support
-        font_paths = [
-            # Noto Sans has excellent Unicode/emoji coverage
-            "/usr/share/fonts/noto/NotoSans-Bold.ttf",
-            "/usr/share/fonts/truetype/noto/NotoSans-Bold.ttf",
-            # DejaVu also has good Unicode support
-            "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
-            f"/usr/share/fonts/truetype/liberation/Liberation{font_family}-{font_weight.capitalize()}.ttf",
-            f"/usr/share/fonts/truetype/dejavu/DejaVu{font_family}-{font_weight.capitalize()}.ttf",
-            "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf",  # Fallback
-        ]
+        # Load regular font for text
+        if not self.regular_font or self.regular_font.size != font_size:
+            regular_font_paths = [
+                # Noto Sans has excellent Unicode coverage
+                "/usr/share/fonts/noto/NotoSans-Bold.ttf",
+                "/usr/share/fonts/truetype/noto/NotoSans-Bold.ttf",
+                # DejaVu also has good Unicode support
+                "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
+                f"/usr/share/fonts/truetype/liberation/Liberation{font_family}-{font_weight.capitalize()}.ttf",
+                f"/usr/share/fonts/truetype/dejavu/DejaVu{font_family}-{font_weight.capitalize()}.ttf",
+                "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf",  # Fallback
+            ]
+            
+            for font_path in regular_font_paths:
+                try:
+                    self.regular_font = ImageFont.truetype(font_path, font_size)
+                    break
+                except:
+                    continue
+                    
+            if not self.regular_font:
+                self.regular_font = ImageFont.load_default()
         
-        for font_path in font_paths:
-            try:
-                return ImageFont.truetype(font_path, font_size)
-            except:
-                continue
-                
-        # Ultimate fallback
-        return ImageFont.load_default()
+        # Load emoji font separately
+        if not self.emoji_font or self.emoji_font.size != font_size:
+            emoji_font_paths = [
+                # Noto Color Emoji has full color emoji support
+                "/usr/share/fonts/noto/NotoColorEmoji.ttf",
+                "/usr/share/fonts/truetype/noto-color-emoji/NotoColorEmoji.ttf",
+                # Segoe UI Emoji (Windows font, may be available on some systems)
+                "/usr/share/fonts/truetype/segoe-ui-emoji/seguiemj.ttf",
+            ]
+            
+            for font_path in emoji_font_paths:
+                try:
+                    self.emoji_font = ImageFont.truetype(font_path, font_size)
+                    break
+                except:
+                    continue
+        
+        return self.regular_font
     
     def apply_gradient_overlay(self, image: Image.Image) -> Image.Image:
         """Apply darkening gradient to top of image"""
@@ -129,10 +153,10 @@ class TextOverlay:
         for adj_x in range(-outline_width, outline_width + 1):
             for adj_y in range(-outline_width, outline_width + 1):
                 if adj_x != 0 or adj_y != 0:
-                    draw.text((x + adj_x, y + adj_y), text, font=font, fill=outline_color)
+                    draw.text((x + adj_x, y + adj_y), text, font=font, fill=outline_color, embedded_color=True)
         
         # Draw main text
-        draw.text((x, y), text, font=font, fill=text_color)
+        draw.text((x, y), text, font=font, fill=text_color, embedded_color=True)
     
     def draw_text_with_shadow(self, draw: ImageDraw.Draw, position: Tuple[int, int], 
                              text: str, font: ImageFont.FreeTypeFont):
@@ -150,10 +174,10 @@ class TextOverlay:
             shadow_color = (0, 0, 0, 200)  # Default semi-transparent black
         
         # Draw shadow
-        draw.text((x + offset_x, y + offset_y), text, font=font, fill=shadow_color)
+        draw.text((x + offset_x, y + offset_y), text, font=font, fill=shadow_color, embedded_color=True)
         
         # Draw main text
-        draw.text((x, y), text, font=font, fill=text_color)
+        draw.text((x, y), text, font=font, fill=text_color, embedded_color=True)
     
     def draw_text_with_box(self, image: Image.Image, position: Tuple[int, int], 
                           text: str, font: ImageFont.FreeTypeFont) -> Image.Image:
@@ -192,7 +216,7 @@ class TextOverlay:
         
         # Draw text on top
         draw_final = ImageDraw.Draw(img_with_box)
-        draw_final.text((x, y), text, font=font, fill=text_color)
+        draw_final.text((x, y), text, font=font, fill=text_color, embedded_color=True)
         
         return img_with_box
     
@@ -217,7 +241,7 @@ class TextOverlay:
             for adj_x in range(-i, i + 1, max(1, i // 2)):
                 for adj_y in range(-i, i + 1, max(1, i // 2)):
                     x, y = position
-                    draw_glow.text((x + adj_x, y + adj_y), text, font=font, fill=glow_fill)
+                    draw_glow.text((x + adj_x, y + adj_y), text, font=font, fill=glow_fill, embedded_color=True)
         
         # Apply blur for smoother glow
         glow_layer = glow_layer.filter(ImageFilter.GaussianBlur(radius=spread // 2))
@@ -227,7 +251,7 @@ class TextOverlay:
         
         # Draw crisp text on top
         draw_final = ImageDraw.Draw(img_with_glow)
-        draw_final.text(position, text, font=font, fill=text_color)
+        draw_final.text(position, text, font=font, fill=text_color, embedded_color=True)
         
         return img_with_glow
     
@@ -281,7 +305,7 @@ class TextOverlay:
                 
             else:  # Default to simple text
                 draw = ImageDraw.Draw(result_image)
-                draw.text((x, y), line, font=font, fill=self.font_config.get('color', 'white'))
+                draw.text((x, y), line, font=font, fill=self.font_config.get('color', 'white'), embedded_color=True)
         
         return result_image.convert('RGB')
 

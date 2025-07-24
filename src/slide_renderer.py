@@ -6,6 +6,8 @@ import textwrap
 from pathlib import Path
 
 from .utils import get_font_path, add_text_shadow, calculate_text_position
+from .emoji_utils import replace_emojis, has_emojis
+from .text_overlay_emoji import EmojiTextOverlay
 
 
 class SlideRenderer:
@@ -121,6 +123,41 @@ class SlideRenderer:
                           position: Tuple[int, int], color: str, align: str = 'center',
                           max_width: Optional[int] = None) -> Image.Image:
         """Draw text on image with optional wrapping and shadow"""
+        # Use emoji-aware text overlay if emojis are present and not disabled
+        use_emoji_overlay = self.template.get('text_settings', {}).get('enable_color_emojis', True)
+        
+        if has_emojis(text) and use_emoji_overlay:
+            # Create EmojiTextOverlay config based on current settings
+            emoji_config = {
+                'method': 'outline' if self.text_settings.get('outline_width') else ('shadow' if self.text_settings.get('shadow') else 'simple'),
+                'outline': {
+                    'color': self.text_settings.get('outline_color', '#000000'),
+                    'width': self.text_settings.get('outline_width', 4)
+                },
+                'shadow': {
+                    'color': self.text_settings.get('shadow_color', '#000000'),
+                    'offset_x': self.shadow_offset,
+                    'offset_y': self.shadow_offset
+                },
+                'font': {
+                    'size': font.size,
+                    'color': color,
+                    'weight': 'bold',
+                    'alignment': align,
+                    'line_height': 1.2
+                }
+            }
+            
+            # Create temporary overlay handler
+            emoji_overlay = EmojiTextOverlay(emoji_config)
+            
+            # Apply text with emojis
+            return emoji_overlay.apply_text_overlay(image, text)
+        
+        # Original behavior: replace emojis with text equivalents
+        if has_emojis(text) and not use_emoji_overlay:
+            text = replace_emojis(text)
+        
         draw = ImageDraw.Draw(image)
         
         # Wrap text if max_width is specified
@@ -157,7 +194,7 @@ class SlideRenderer:
                 for dx in range(-outline_width, outline_width + 1):
                     for dy in range(-outline_width, outline_width + 1):
                         if dx != 0 or dy != 0:
-                            draw.text((x + dx, y + dy), line, font=font, fill=outline_color)
+                            draw.text((x + dx, y + dy), line, font=font, fill=outline_color, embedded_color=True)
             
             # Draw shadow if enabled
             if self.text_settings['shadow']:
@@ -165,11 +202,12 @@ class SlideRenderer:
                     (x + self.shadow_offset, y + self.shadow_offset),
                     line,
                     font=font,
-                    fill=self.shadow_color
+                    fill=self.shadow_color,
+                    embedded_color=True
                 )
             
             # Draw main text
-            draw.text((x, y), line, font=font, fill=color)
+            draw.text((x, y), line, font=font, fill=color, embedded_color=True)
             
             y += line_height
         
