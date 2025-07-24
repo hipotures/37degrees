@@ -5,39 +5,151 @@ book_info:
   genre: "Powieść społeczna"
   reading_time: "20-25 godzin"
 
+technical_specs:
+  resolution: "832x1248"
+  output_resolution: "1080x1920"
+  aspect_ratio: "2:3"
+  format: "vertical"
+  fps: 30
+  duration_per_slide: 3.5
+
+ai_generation:
+  model_key: "c81f2f9b-cabd-40ec-b6f4-d3172c10bafc"
+  model_name: "Dreamshaper XL v2 Turbo"
+  steps: 30
+  cfg_scale: 7.5
+  sampler: "euler_a"
+
+template_art_style: "Sketch"
+
+custom_art_style:
+  primary_style: "19th century realistic illustration with vintage engraving aesthetic"
+  complexity: "moderate detail, period-accurate architecture and clothing"
+  
+  line_work: "precise crosshatching, etching-style lines, detailed but not overwhelming"
+  shapes: "realistic proportions, architectural accuracy, period costume details"
+  
+  color_technique: "sepia tones with muted colors, aged paper texture"
+  color_palette:
+    base: ["sepia", "burnt umber", "antique white", "dusty brown"]
+    accents: ["deep burgundy", "gold", "prussian blue", "emerald green"]
+    mood: "nostalgic, melancholic, sophisticated"
+  
+  overall_feeling: "historical realism, Polish romanticism, urban melancholy"
+  atmosphere: "gaslit streets, foggy Warsaw evenings, elegant interiors"
+  background_approach: "detailed architectural elements, period-accurate streets"
+  
+  avoid: "modern elements, bright colors, cartoon style, fantasy elements"
+  emphasize: "historical accuracy, emotional depth, social contrasts"
+
+text_overlay:
+  method: "outline"
+  
+  outline:
+    color: "black"
+    width: 3
+    
+  font:
+    family: "Arial"
+    size: 48
+    color: "white"
+    weight: "bold"
+    line_height: 1.4
+    alignment: "center"
+
 background_prompt: "19th century Warsaw street, elegant shop window with doll, merchant and aristocrat worlds colliding, realistic urban atmosphere"
 
 slides:
   - type: "hook"
     duration: 2.5
     text: "Milioner, który stracił wszystko dla dziewczyny, która go nie chce. Simping level: MAX 💔"
+    scene:
+      elements:
+        - "broken heart made of gold coins"
+        - "porcelain doll face in background"
+        - "scattered money bills"
+        - "shattered glass pieces"
+      composition: "broken golden heart in center, doll face faded in background, money and glass scattered around"
     
   - type: "intro"
     duration: 3
     text: "Lalka - O miłości, która niszczy"
     subtitle: "Bolesław Prus"
+    scene:
+      elements:
+        - "antique book with ornate cover"
+        - "porcelain doll emerging from pages"
+        - "19th century Warsaw skyline silhouette"
+        - "gas street lamps"
+      composition: "book in center bottom, doll rising from pages, Warsaw skyline in background with gas lamps"
     
   - type: "hero"
     duration: 4
     text: "Stanisław Wokulski - self-made man, geniusz biznesu, ale w miłości... totalny noob"
+    scene:
+      elements:
+        - "middle-aged man in merchant coat"
+        - "scientific instruments on desk"
+        - "accounting ledgers"
+        - "portrait of woman on wall"
+        - "shop interior background"
+      composition: "Wokulski at desk with instruments and ledgers, woman's portrait visible on wall behind him"
     
   - type: "obsession"
     duration: 3.5
     text: "Izabela Łęcka - arystokratka piękna jak lalka i równie pusta. Wokulski doesn't care"
+    scene:
+      elements:
+        - "beautiful woman in elegant ball gown"
+        - "porcelain doll features"
+        - "aristocratic salon"
+        - "crystal chandelier"
+        - "empty mirror reflection"
+      composition: "Izabela in center like a doll, elegant salon setting, empty mirror showing no reflection"
     
   - type: "society"
     duration: 4
     text: "Kupiec kocha arystokratkę? Skandal! Prus pokazuje absurdy XIX-wiecznej Polski"
+    scene:
+      elements:
+        - "divided scene with merchant shop and aristocratic palace"
+        - "invisible wall between worlds"
+        - "poor people on merchant side"
+        - "nobles on palace side"
+        - "broken bridge between"
+      composition: "split composition showing two worlds divided by invisible barrier, broken bridge in middle"
     
   - type: "business"
     duration: 3.5
     text: "Wokulski buduje imperium, żeby zdobyć Izabelę. Ona? 'Ew, kupiec' 😤"
+    scene:
+      elements:
+        - "man building tower of gold coins"
+        - "woman turning away in disgust"
+        - "shop signs and warehouses"
+        - "rejected flowers on ground"
+      composition: "Wokulski building coin tower on left, Izabela turning away on right, rejected flowers between them"
     
   - type: "tragedy"
     duration: 3.5
     text: "Stracił przyjaciół, biznes, sens życia. Wszystko dla lalki bez serca"
+    scene:
+      elements:
+        - "lone man among ruins"
+        - "broken shop sign"
+        - "scattered photographs"
+        - "empty chairs"
+        - "shattered doll on ground"
+      composition: "devastated man in center surrounded by ruins of his life, broken doll in foreground"
     
   - type: "cta"
     duration: 3
     text: "Największa polska powieść o toxic love! 📚"
     hashtags: ["#Lalka", "#Prus", "#PolishLiterature", "#ToxicLove"]
+    scene:
+      elements:
+        - "open book with scenes flowing out"
+        - "Polish eagle emblem"
+        - "classic literature shelf"
+        - "reading light"
+      composition: "open Lalka book in center with story scenes emerging, Polish literary heritage symbols around"

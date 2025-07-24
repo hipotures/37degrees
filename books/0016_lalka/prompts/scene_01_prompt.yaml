@@ -1,0 +1,10 @@
+positive_prompt: 'antique book with ornate cover, porcelain doll emerging from pages, 19th century Warsaw skyline silhouette, gas street lamps, composition: book in center bottom, doll rising from pages,
+  Warsaw skyline in background with gas lamps black and white pencil drawing, off-center composition, cross-hatching for shadows, bold strokes, textured paper. sketch+++'
+negative_prompt: blurry, photo, painting, color. messy, dirty. unfinished. frame, borders.
+resolution: 832x1248
+model: Dreamshaper XL v2 Turbo
+model_key: c81f2f9b-cabd-40ec-b6f4-d3172c10bafc
+steps: 30
+cfg_scale: 7.5
+sampler: euler_a
+template_used: Sketch

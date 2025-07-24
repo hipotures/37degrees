@@ -1,0 +1,10 @@
+positive_prompt: 'divided scene with merchant shop and aristocratic palace, invisible wall between worlds, poor people on merchant side, nobles on palace side, broken bridge between, composition: split
+  composition showing two worlds divided by invisible barrier, broken bridge in middle black and white pencil drawing, off-center composition, cross-hatching for shadows, bold strokes, textured paper. sketch+++'
+negative_prompt: blurry, photo, painting, color. messy, dirty. unfinished. frame, borders.
+resolution: 832x1248
+model: Dreamshaper XL v2 Turbo
+model_key: c81f2f9b-cabd-40ec-b6f4-d3172c10bafc
+steps: 30
+cfg_scale: 7.5
+sampler: euler_a
+template_used: Sketch

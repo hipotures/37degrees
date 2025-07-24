@@ -1,0 +1,10 @@
+positive_prompt: 'open book with scenes flowing out, Polish eagle emblem, classic literature shelf, reading light, composition: open Lalka book in center with story scenes emerging, Polish literary heritage
+  symbols around black and white pencil drawing, off-center composition, cross-hatching for shadows, bold strokes, textured paper. sketch+++'
+negative_prompt: blurry, photo, painting, color. messy, dirty. unfinished. frame, borders.
+resolution: 832x1248
+model: Dreamshaper XL v2 Turbo
+model_key: c81f2f9b-cabd-40ec-b6f4-d3172c10bafc
+steps: 30
+cfg_scale: 7.5
+sampler: euler_a
+template_used: Sketch
