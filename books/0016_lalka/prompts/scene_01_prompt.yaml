@@ -1,5 +1,5 @@
-positive_prompt: 'antique book with ornate cover, porcelain doll emerging from pages, 19th century Warsaw skyline silhouette, gas street lamps, composition: book in center bottom, doll rising from pages,
-  Warsaw skyline in background with gas lamps black and white pencil drawing, off-center composition, cross-hatching for shadows, bold strokes, textured paper. sketch+++'
+positive_prompt: 'old book with ''Lalka'' title on cover, 19th century Warsaw street view, shop windows with dolls display, gas street lamps lighting the scene, composition: book lying on table in foreground,
+  Warsaw street visible through window, doll shop display visible black and white pencil drawing, off-center composition, cross-hatching for shadows, bold strokes, textured paper. sketch+++'
 negative_prompt: blurry, photo, painting, color. messy, dirty. unfinished. frame, borders.
 resolution: 832x1248
 model: Dreamshaper XL v2 Turbo

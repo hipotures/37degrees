@@ -1,5 +1,5 @@
-positive_prompt: 'simple heart symbol shape, small stars inside heart, straight light rays, rose petals, two small eyes, composition: heart in center, stars filling heart interior, eight light rays extending
-  outward symmetrically, rose petals scattered around, small eyes in top corners black and white pencil drawing, off-center composition, cross-hatching for shadows, bold strokes, textured paper. sketch+++'
+positive_prompt: 'little prince sitting with fox, rose under glass dome nearby, sunset in background, desert landscape, composition: prince and fox sitting together on left, rose under glass on right, warm
+  sunset colors filling sky black and white pencil drawing, off-center composition, cross-hatching for shadows, bold strokes, textured paper. sketch+++'
 negative_prompt: blurry, photo, painting, color. messy, dirty. unfinished. frame, borders.
 resolution: 832x1248
 model: Dreamshaper XL v2 Turbo

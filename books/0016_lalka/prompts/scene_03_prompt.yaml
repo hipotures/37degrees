@@ -1,5 +1,5 @@
-positive_prompt: 'beautiful woman in elegant ball gown, porcelain doll features, aristocratic salon, crystal chandelier, empty mirror reflection, composition: Izabela in center like a doll, elegant salon
-  setting, empty mirror showing no reflection black and white pencil drawing, off-center composition, cross-hatching for shadows, bold strokes, textured paper. sketch+++'
+positive_prompt: 'beautiful woman in luxurious ball gown, aristocratic salon with ornate furniture, crystal chandelier overhead, other nobles in background, large mirror on wall, composition: Izabela standing
+  elegantly in salon center, nobles socializing in background, ornate interior visible black and white pencil drawing, off-center composition, cross-hatching for shadows, bold strokes, textured paper. sketch+++'
 negative_prompt: blurry, photo, painting, color. messy, dirty. unfinished. frame, borders.
 resolution: 832x1248
 model: Dreamshaper XL v2 Turbo

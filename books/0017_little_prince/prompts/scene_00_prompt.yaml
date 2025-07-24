@@ -1,5 +1,5 @@
-positive_prompt: 'large human eye floating in space, multiple small stars arranged in constellations, spiral galaxy, floating light orbs, composition: eye in center, spiral galaxy wrapping around it, stars
-  scattered throughout, light orbs floating near edges black and white pencil drawing, off-center composition, cross-hatching for shadows, bold strokes, textured paper. sketch+++'
+positive_prompt: 'young boy looking through telescope, night sky with visible stars, desert landscape below, small distant planets visible, composition: boy with telescope on left side, looking up at starry
+  night sky, desert dunes visible at bottom black and white pencil drawing, off-center composition, cross-hatching for shadows, bold strokes, textured paper. sketch+++'
 negative_prompt: blurry, photo, painting, color. messy, dirty. unfinished. frame, borders.
 resolution: 832x1248
 model: Dreamshaper XL v2 Turbo

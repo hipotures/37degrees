@@ -1,5 +1,6 @@
-positive_prompt: 'man building tower of gold coins, woman turning away in disgust, shop signs and warehouses, rejected flowers on ground, composition: Wokulski building coin tower on left, Izabela turning
-  away on right, rejected flowers between them black and white pencil drawing, off-center composition, cross-hatching for shadows, bold strokes, textured paper. sketch+++'
+positive_prompt: 'Wokulski in his grand shop, multiple warehouses with his name, Izabela turning away with disdain, bouquet of flowers lying on ground, busy commercial street, composition: Wokulski standing
+  proudly by his shop, Izabela in distance turning away, dropped flowers on cobblestones black and white pencil drawing, off-center composition, cross-hatching for shadows, bold strokes, textured paper.
+  sketch+++'
 negative_prompt: blurry, photo, painting, color. messy, dirty. unfinished. frame, borders.
 resolution: 832x1248
 model: Dreamshaper XL v2 Turbo

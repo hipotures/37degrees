@@ -102,11 +102,11 @@ slides:
     text: "Czy wiesz, że najważniejsze jest niewidoczne dla oczu?"
     scene:
       elements:
-        - "large human eye floating in space"
-        - "multiple small stars arranged in constellations"
-        - "spiral galaxy"
-        - "floating light orbs"
-      composition: "eye in center, spiral galaxy wrapping around it, stars scattered throughout, light orbs floating near edges"
+        - "young boy looking through telescope"
+        - "night sky with visible stars"
+        - "desert landscape below"
+        - "small distant planets visible"
+      composition: "boy with telescope on left side, looking up at starry night sky, desert dunes visible at bottom"
     
   - type: "intro"
     duration: 5
@@ -114,12 +114,11 @@ slides:
     subtitle: "Antoine de Saint-Exupéry"
     scene:
       elements:
-        - "open hardcover book lying flat"
-        - "three small round planets"
-        - "star constellation shapes"
-        - "curved star trails"
-        - "single small rose flower"
-      composition: "book in lower third of frame, planets floating up from pages, constellation patterns above, rose on right page"
+        - "open book on reading table"
+        - "illustration of small boy visible on pages"
+        - "rose in vase beside book"
+        - "starry night visible through window"
+      composition: "book open on table showing illustrations, rose in vase to the right, window with stars in background"
     
   - type: "story"
     duration: 6
@@ -152,14 +151,12 @@ slides:
     text: "Każda planeta to metafora dorosłości - król, próżny, bankier... Czy dorośli zapomnieli, co ważne?"
     scene:
       elements:
-        - "three ornate metal keyholes"
-        - "adult figure visible through first keyhole"
-        - "businessman through second keyhole"
-        - "king through third keyhole"
-        - "thin lines connecting keyholes"
-        - "child's simple drawings"
-        - "clock face"
-      composition: "three keyholes arranged in triangle, figures visible inside each, connecting lines between them, child drawings faded behind, clock in corner"
+        - "king sitting on throne on small planet"
+        - "businessman counting money at desk"
+        - "vain man looking in mirror"
+        - "small boy watching them from distance"
+        - "stars in background"
+      composition: "three small planets in row with adults on each, little prince observing from his own small planet on right"
     
   - type: "quote"
     duration: 6.5
@@ -167,25 +164,22 @@ slides:
     author_position: "bottom"
     scene:
       elements:
-        - "simple heart symbol shape"
-        - "small stars inside heart"
-        - "straight light rays"
-        - "rose petals"
-        - "two small eyes"
-      composition: "heart in center, stars filling heart interior, eight light rays extending outward symmetrically, rose petals scattered around, small eyes in top corners"
+        - "little prince sitting with fox"
+        - "rose under glass dome nearby"
+        - "sunset in background"
+        - "desert landscape"
+      composition: "prince and fox sitting together on left, rose under glass on right, warm sunset colors filling sky"
     
   - type: "why_read"
     duration: 5.5
     text: "Ta krótka książka nauczy Cię więcej o życiu niż niejeden podręcznik filozofii"
     scene:
       elements:
-        - "cardboard box"
-        - "top hat"
-        - "wooden crate"
-        - "child figure looking upward"
-        - "sparkle dots"
-        - "stack of thick books"
-      composition: "child at bottom center looking up, floating objects above (box left, hat center, crate right), sparkles around objects, book stack in far background"
+        - "child reading thin book"
+        - "stack of thick philosophy books beside"
+        - "simple drawings on paper"
+        - "reading lamp on desk"
+      composition: "child at desk reading small book, thick books stacked to the side, child's drawings scattered on desk"
     
   - type: "cta"
     duration: 5
@@ -193,9 +187,8 @@ slides:
     hashtags: ["#MałyKsiążę", "#LittlePrince", "#Klasyka"]
     scene:
       elements:
-        - "red rose under glass bell jar"
-        - "small spherical planet"
-        - "three small baobab seedlings"
-        - "multiple small stars"
-        - "wavy aurora lines"
-      composition: "planet surface at bottom taking lower third, rose in bell jar centered on planet, three baobabs to the right, stars scattered above, aurora waves across top"
+        - "rose under glass dome on table"
+        - "small book beside it"
+        - "boy's drawing of planet"
+        - "window showing stars"
+      composition: "rose under glass in center of table, book beside it, child's drawing visible, starry window in background"

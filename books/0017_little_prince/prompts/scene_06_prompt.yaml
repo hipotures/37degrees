@@ -1,5 +1,5 @@
-positive_prompt: 'cardboard box, top hat, wooden crate, child figure looking upward, sparkle dots, stack of thick books, composition: child at bottom center looking up, floating objects above (box left,
-  hat center, crate right), sparkles around objects, book stack in far background black and white pencil drawing, off-center composition, cross-hatching for shadows, bold strokes, textured paper. sketch+++'
+positive_prompt: 'child reading thin book, stack of thick philosophy books beside, simple drawings on paper, reading lamp on desk, composition: child at desk reading small book, thick books stacked to the
+  side, child''s drawings scattered on desk black and white pencil drawing, off-center composition, cross-hatching for shadows, bold strokes, textured paper. sketch+++'
 negative_prompt: blurry, photo, painting, color. messy, dirty. unfinished. frame, borders.
 resolution: 832x1248
 model: Dreamshaper XL v2 Turbo

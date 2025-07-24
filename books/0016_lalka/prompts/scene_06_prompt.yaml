@@ -1,5 +1,6 @@
-positive_prompt: 'lone man among ruins, broken shop sign, scattered photographs, empty chairs, shattered doll on ground, composition: devastated man in center surrounded by ruins of his life, broken doll
-  in foreground black and white pencil drawing, off-center composition, cross-hatching for shadows, bold strokes, textured paper. sketch+++'
+positive_prompt: 'dejected Wokulski sitting alone, closed shop with boards on windows, empty warehouse in background, old photographs on table, abandoned doll in shop window, composition: Wokulski sitting
+  alone at table with photos, closed shop visible through window, abandoned doll in display black and white pencil drawing, off-center composition, cross-hatching for shadows, bold strokes, textured paper.
+  sketch+++'
 negative_prompt: blurry, photo, painting, color. messy, dirty. unfinished. frame, borders.
 resolution: 832x1248
 model: Dreamshaper XL v2 Turbo
