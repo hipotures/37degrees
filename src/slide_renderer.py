@@ -7,7 +7,7 @@ from pathlib import Path
 import re
 
 from .utils import get_font_path, add_text_shadow, calculate_text_position
-from .emoji_utils import replace_emojis, has_emojis
+from .emoji_utils import has_emojis
 from .text_overlay_emoji import EmojiTextOverlay
 
 
