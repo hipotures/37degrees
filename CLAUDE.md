@@ -48,22 +48,22 @@ python main.py prompts 17
 python main.py prompts little_prince
 ```
 
-### Testing and Development
+### Utility Scripts
 ```bash
-# Test text overlay methods
-python src/text_overlay.py
-
 # Migrate old book structure (if needed)
 python scripts/migrate_structure.py
 
 # Create documentation structure for books
 python scripts/create_docs_structure.py
 
-# Test AI generation
-python scripts/test_generation_with_library.py
-
 # Apply text overlays to existing images
 python scripts/apply_text_overlays.py
+
+# Test optimized video generation
+python scripts/test_optimized_gen.py
+
+# Build prompts for scenes (standalone)
+python src/prompt_builder.py books/NNNN_book_name/book.yaml
 ```
 
 ## Architecture
@@ -92,11 +92,10 @@ python scripts/apply_text_overlays.py
    - Emphasizes non-photorealistic, childlike illustration style
 
 4. **AI Integration**
-   - `src/simple_invokeai_generator.py` - Simple InvokeAI integration
-   - `src/invokeai_websocket_generator.py` - WebSocket-based generator
-   - `src/comfyui_generator.py` - ComfyUI API integration
+   - `src/simple_invokeai_generator.py` - Simple InvokeAI integration (primary generator)
+   - `src/comfyui_generator.py` - ComfyUI API integration (manual use)
    - `src/style_preset_loader.py` - InvokeAI style preset management
-   - Supports multiple AI generation backends
+   - `src/prompt_builder.py` - Standalone prompt generation tool
 
 5. **Video Creation**
    - `src/video_generator.py` - Main video generation logic

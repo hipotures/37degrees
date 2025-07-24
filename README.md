@@ -185,6 +185,9 @@ pip install -r requirements.txt
 - [SDXL Resolutions](docs/sdxl_resolutions.md) - Optimal resolutions for SDXL
 - [Project Structure](docs/STRUCTURE.md) - Detailed project organization
 - [Setup ComfyUI](docs/setup_comfyui.md) - Alternative AI backend
+- [Emoji Support Guide](docs/EMOJI_SUPPORT_GUIDE.md) - Color emoji rendering in videos
+- [Text Animation Guide](docs/TEXT_ANIMATION_GUIDE.md) - Dynamic text effects
+- [Slide Renderer Guide](docs/SLIDE_RENDERER_GUIDE.md) - Advanced slide rendering system
 
 ## 🤝 Contributing
 

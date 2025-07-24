@@ -42,11 +42,6 @@ class TextAnimator:
         if exit_anim != 'none' and exit_anim in self.exit_animations:
             clip = self.exit_animations[exit_anim](clip, slide_data)
         
-        # Apply special effects for specific slide types
-        # Pulse effect disabled - user requested no zoom on CTA slides
-        # if slide_data.get('type') == 'cta':
-        #     clip = self._add_pulse_effect(clip)
-        
         return clip
     
     def _slide_up_animation(self, clip: VideoClip, slide_data: Dict) -> VideoClip:
@@ -228,18 +223,3 @@ class TextAnimator:
         
         return clip.resized(resize_func)
     
-    def _add_pulse_effect(self, clip: VideoClip) -> VideoClip:
-        """Add pulsing effect for CTA slides"""
-        def resize_func(t):
-            # Gentle pulsing effect
-            pulse = 1.0 + 0.05 * np.sin(2 * np.pi * t)
-            return pulse
-        
-        return clip.resized(resize_func)
-    
-    def create_custom_animation(self, animation_func: Callable) -> Callable:
-        """Create custom animation from user-provided function"""
-        def apply_animation(clip: VideoClip, slide_data: Dict) -> VideoClip:
-            return animation_func(clip, slide_data, self.template)
-        
-        return apply_animation
