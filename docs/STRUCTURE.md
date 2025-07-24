@@ -60,18 +60,19 @@ The project has been reorganized to better support multimedia content for each b
 
 ## Adding a New Book
 
-1. Create a new directory in `books/` with proper numbering:
-   ```bash
-   mkdir books/NNNN_my_new_book
-   mkdir books/NNNN_my_new_book/audio
-   mkdir books/NNNN_my_new_book/assets
-   python scripts/create_docs_structure.py  # Creates docs/ directories
+1. Create a new book directory structure:
+   ```
+   books/NNNN_book_name/
+   ├── book.yaml          # Book configuration (copy from another book and modify)
+   ├── prompts/           # Will be auto-generated
+   ├── generated/         # Will be auto-created when generating images
+   └── docs/              # Optional documentation
+       └── review.md      # Fascinating facts about the book
    ```
 
-2. Add the book YAML file as `book.yaml`
+2. Copy and modify `book.yaml` from an existing book
 
-3. Add documentation:
-   - Create `docs/review.md` with fascinating facts
+3. Add the book to a collection file (e.g., `collections/classics.yaml`)
    - Use templates from `shared_assets/templates/` for HTML page
    - See [HTML Page Generation Guide](HTML_PAGE_GENERATION_GUIDE.md)
 
