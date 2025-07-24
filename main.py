@@ -10,9 +10,10 @@ from pathlib import Path
 from rich.console import Console
 from rich.table import Table
 from rich import print as rprint
+from src.config import get_config, set_override
 
 # Import CLI modules
-from src.cli import collections, list_books, video, ai
+from src.cli import collections, list_books, video, ai, research, site
 
 console = Console()
 
@@ -50,8 +51,20 @@ Examples:
   
   python main.py prompts 17               # Generate prompts for book #17
   python main.py prompts little_prince    # Generate prompts by name
+  
+  python main.py research 17              # Generate review.md for book #17
+  python main.py research classics        # Generate reviews for collection
+  
+  python main.py site                     # Generate complete static site
+  python main.py site 17                  # Generate page for book #17
+  python main.py site classics            # Generate pages for collection
 """
     )
+    
+    # Global arguments
+    parser.add_argument('--config', help='Path to config file (default: config/settings.yaml)')
+    parser.add_argument('--set', action='append', help='Set config value (e.g., --set video.fps=60)')
+    parser.add_argument('--no-banner', action='store_true', help='Skip banner display')
     
     subparsers = parser.add_subparsers(dest='command', help='Available commands')
     
@@ -73,6 +86,7 @@ Examples:
     ai_parser = subparsers.add_parser('ai', help='Generate AI images')
     ai_parser.add_argument('target', help='Book ID, name, or collection')
     ai_parser.add_argument('book_id', nargs='?', help='Book ID when target is collection')
+    ai_parser.add_argument('--generator', help='Generator to use (invokeai, comfyui, mock)')
     
     # Generate command (AI + Video)
     generate_parser = subparsers.add_parser('generate', help='Generate AI images and video')
@@ -85,10 +99,47 @@ Examples:
     prompts_parser.add_argument('target', help='Book ID, name, or collection')
     prompts_parser.add_argument('book_id', nargs='?', help='Book ID when target is collection')
     
+    # Research command
+    research_parser = subparsers.add_parser('research', help='Generate review.md with AI research')
+    research_parser.add_argument('target', help='Book ID, name, or collection')
+    research_parser.add_argument('book_id', nargs='?', help='Book ID when target is collection')
+    research_parser.add_argument('--provider', help='Research provider (perplexity, google, mock)')
+    
+    # Site command
+    site_parser = subparsers.add_parser('site', help='Generate static HTML site')
+    site_parser.add_argument('target', nargs='?', help='Book ID, name, or collection (optional)')
+    site_parser.add_argument('book_id', nargs='?', help='Book ID when target is collection')
+    
     args = parser.parse_args()
     
-    # Display banner
-    display_banner()
+    # Load config with custom path if provided
+    if args.config:
+        from pathlib import Path
+        from src.config import Config
+        import src.config
+        src.config._config = Config(Path(args.config))
+    
+    # Apply config overrides from CLI
+    if args.set:
+        for override in args.set:
+            if '=' in override:
+                key, value = override.split('=', 1)
+                # Try to parse value as number or boolean
+                try:
+                    if value.lower() in ['true', 'false']:
+                        value = value.lower() == 'true'
+                    elif '.' in value:
+                        value = float(value)
+                    else:
+                        value = int(value)
+                except ValueError:
+                    pass  # Keep as string
+                set_override(key, value)
+                console.print(f"[green]Config override: {key} = {value}[/green]")
+    
+    # Display banner unless disabled
+    if not hasattr(args, 'no_banner') or not args.no_banner:
+        display_banner()
     
     # Handle commands
     if not args.command:
@@ -109,7 +160,7 @@ Examples:
             video.generate_video(args.target, args.book_id, args.only_render, args.template)
             
         elif args.command == 'ai':
-            ai.generate_images(args.target, args.book_id)
+            ai.generate_images(args.target, args.book_id, args.generator)
             
         elif args.command == 'generate':
             # Generate prompts, AI images, then video
@@ -196,6 +247,12 @@ Examples:
                     console.print("[red]✗ Prompt generation failed[/red]")
             else:
                 console.print(f"[red]Book '{args.target}' not found![/red]")
+                
+        elif args.command == 'research':
+            research.research_book(args.target, args.book_id, args.provider)
+            
+        elif args.command == 'site':
+            site.generate_site(args.target, args.book_id)
             
     except KeyboardInterrupt:
         console.print("\n[yellow]Operation cancelled by user[/yellow]")

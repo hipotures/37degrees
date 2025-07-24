@@ -4,6 +4,8 @@
 
 The project has been reorganized to better support multimedia content for each book. Each book now has its own directory containing all related assets.
 
+**Version 2.0.0 Update**: Added plugin architecture for image generators and centralized configuration system.
+
 ## Directory Structure
 
 ```
@@ -42,12 +44,28 @@ The project has been reorganized to better support multimedia content for each b
 │   └── ...
 │
 ├── docs/                      # Project documentation
+│   ├── CONFIGURATION.md      # Configuration system guide
+│   ├── PLUGIN_ARCHITECTURE.md # Image generator plugins
 │   ├── HTML_PAGE_GENERATION_GUIDE.md
 │   ├── BOOK_STRUCTURE.md
 │   └── ...
 │
+├── config/                    # Configuration files
+│   ├── settings.yaml         # Main configuration
+│   └── generators.yaml       # Image generator settings
+│
 ├── output/                    # Generated videos
+│
 └── src/                       # Source code
+    ├── cli/                   # CLI command modules
+    ├── generators/            # Image generator plugins
+    │   ├── base.py          # Abstract base class
+    │   ├── registry.py      # Plugin registry
+    │   ├── invokeai.py      # InvokeAI implementation
+    │   ├── comfyui.py       # ComfyUI implementation
+    │   └── mock.py          # Mock generator for testing
+    ├── config.py             # Configuration management
+    └── ...                    # Other modules
 ```
 
 ## Benefits of New Structure

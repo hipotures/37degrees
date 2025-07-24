@@ -10,7 +10,11 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 - **Package manager**: Use `uv` instead of pip
   - Install dependencies: `uv pip install -r requirements.txt`
-  - Add new package: `uv pip add package_name`
+  - Add new package: `uv pip install package_name`
+- **Configuration**: Project uses centralized config in `config/settings.yaml`
+  - Copy `.env.example` to `.env` for local settings
+  - Override settings with `--set key=value`
+  - Use custom config with `--config file.yaml`
 
 ## Common Commands
 
@@ -37,6 +41,10 @@ python main.py video classics
 # Generate AI images for book #17
 python main.py ai 17
 
+# Generate AI images with specific generator
+python main.py ai 17 --generator mock  # For testing
+python main.py ai 17 --generator comfyui  # Alternative generator
+
 # Generate AI images for entire collection
 python main.py ai classics
 
@@ -46,6 +54,23 @@ python main.py generate 17
 # Regenerate prompts only (e.g., after editing book.yaml)
 python main.py prompts 17
 python main.py prompts little_prince
+
+# Generate AI-powered research content
+python main.py research 17 --provider perplexity  # Perplexity AI
+python main.py research 17 --provider google      # Google Search
+python main.py research classics --provider mock  # Testing
+
+# Generate static HTML site
+python main.py site              # Complete site
+python main.py site 17           # Single book page
+python main.py site classics     # Collection pages
+
+# Configuration overrides
+python main.py --set video.fps=60 video 17
+python main.py --set development.debug=true --no-banner ai 17
+
+# Use custom configuration file
+python main.py --config production.yaml video 17
 ```
 
 ### Utility Scripts
@@ -57,7 +82,44 @@ python scripts/migrate_structure.py
 python src/prompt_builder.py books/NNNN_book_name/book.yaml
 ```
 
-## Architecture
+## Architecture Updates (v2.0.0)
+
+### New Features
+
+1. **Plugin-based Image Generators** (`src/generators/`)
+   - Abstract base class for all generators
+   - Registry system for dynamic loading
+   - Built-in: InvokeAI, ComfyUI, Mock
+   - Easy to add custom generators
+
+2. **Centralized Configuration** (`src/config.py`)
+   - Single source of truth: `config/settings.yaml`
+   - Environment variable support with `.env` files
+   - Runtime overrides via CLI
+   - Automatic variable substitution
+
+3. **Enhanced CLI Options**
+   - `--generator`: Choose image generator
+   - `--set`: Override any config value
+   - `--config`: Use custom config file
+   - `--no-banner`: Skip startup banner
+   - `--provider`: Choose research provider
+
+4. **AI-Powered Research** (`src/research/`)
+   - Abstract provider system for extensibility
+   - Perplexity AI integration for real-time web search
+   - Google Search API support
+   - Mock provider for testing
+   - Automatic review.md generation in Polish
+   - Smart caching of API responses
+
+5. **Static Site Generator** (`src/site_generator/`)
+   - Interactive HTML pages for each book
+   - Main index with collection organization
+   - Collection overview pages
+   - Responsive design with Tailwind CSS
+   - Timeline visualizations and modal interactions
+   - Integration with research content
 
 ### Core Components
 

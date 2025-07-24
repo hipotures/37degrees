@@ -4,6 +4,8 @@
 
 Automated video generator for creating engaging TikTok book reviews targeting Polish youth (10-20 years old). Creates 8-slide vertical videos with AI-generated illustrations and text overlays for classic literature.
 
+**Version 2.0.0** - Now with plugin architecture, AI research integration, static site generation, and extensible systems!
+
 ## 📖 Overview
 
 37degrees generates short-form video content for the @37stopni TikTok account, featuring:
@@ -11,6 +13,9 @@ Automated video generator for creating engaging TikTok book reviews targeting Po
 - **AI-generated illustrations** in a childlike, non-photorealistic style
 - **Text overlays** with multiple visibility methods
 - **Automated video creation** with Ken Burns effects and transitions
+- **AI-powered research** for generating fascinating book facts
+- **Static HTML site** with interactive book exploration
+- **Plugin architecture** for extensible image generators
 
 ## 🚀 Quick Start
 
@@ -36,6 +41,10 @@ python main.py video classics
 # Generate AI images for book #17
 python main.py ai 17
 
+# Generate AI images with specific generator
+python main.py ai 17 --generator mock
+python main.py ai 17 --generator comfyui
+
 # Generate AI images for entire collection
 python main.py ai classics
 
@@ -45,6 +54,15 @@ python main.py generate 17
 # Regenerate prompts only (e.g., after editing book.yaml)
 python main.py prompts 17
 python main.py prompts little_prince
+
+# Generate AI-powered research content
+python main.py research 17 --provider perplexity
+python main.py research classics --provider mock
+
+# Generate static HTML site
+python main.py site              # Complete site
+python main.py site 17           # Single book page
+python main.py site classics     # Collection pages
 ```
 
 ## 📁 Project Structure
@@ -52,10 +70,28 @@ python main.py prompts little_prince
 ```
 37degrees/
 ├── main.py              # Main entry point with intuitive CLI
+├── config/              # Configuration files
+│   ├── settings.yaml    # Main configuration
+│   └── generators.yaml  # Image generator settings
 ├── src/                 # Core application code
-│   ├── cli/            # CLI modules (collections, list, video, ai)
+│   ├── cli/            # CLI modules (collections, list, video, ai, research, site)
+│   ├── generators/     # Plugin-based image generators
+│   │   ├── base.py     # Abstract base class
+│   │   ├── registry.py # Generator registry system
+│   │   ├── invokeai.py # InvokeAI implementation
+│   │   ├── comfyui.py  # ComfyUI implementation
+│   │   └── mock.py     # Mock generator for testing
+│   ├── research/       # AI-powered research providers
+│   │   ├── base.py     # Abstract research provider
+│   │   ├── perplexity_api.py # Perplexity AI integration
+│   │   ├── google_search.py  # Google Search integration
+│   │   └── review_generator.py # Generate review.md files
+│   ├── site_generator/ # Static HTML site generation
+│   │   ├── book_page.py      # Individual book pages
+│   │   ├── index_page.py     # Main index with collections
+│   │   └── site_builder.py   # Site generation orchestrator
+│   ├── config.py       # Configuration management
 │   ├── video_generator.py         # Video creation with effects
-│   ├── simple_invokeai_generator.py # AI image generation
 │   ├── prompt_builder.py          # Convert scenes to AI prompts
 │   └── text_overlay.py            # Text rendering methods
 ├── books/               # Book configurations and assets
@@ -80,9 +116,14 @@ python main.py prompts little_prince
 ## ⚡ Features
 
 ### AI Image Generation
-- Uses InvokeAI with SDXL models
+- **Plugin Architecture**: Easily add new image generators
+- **Built-in Generators**:
+  - InvokeAI (primary) - Local SDXL models
+  - ComfyUI - Workflow-based generation
+  - Mock - Testing without GPU
 - Optimized resolution (832x1248) to avoid artifacts
 - Style presets: Illustration, Sketch, etc.
+- Automatic retry with exponential backoff
 - Automatic upscaling to 1080x1920 for video
 
 ### Text Overlay Methods
@@ -98,6 +139,12 @@ python main.py prompts little_prince
 - TikTok Safe Zone compliance
 - GPU-accelerated encoding (NVENC)
 - Rich progress bars and status updates
+
+### Configuration System
+- Centralized configuration in `config/settings.yaml`
+- Environment variable support with `.env` files
+- CLI overrides: `--set video.fps=60`
+- Custom config files: `--config my_settings.yaml`
 
 ### Interactive HTML Pages
 - Professional book presentations with Charts.js visualizations
@@ -133,8 +180,11 @@ slides:
 ## 🔧 Requirements
 
 - Python 3.8+
-- InvokeAI running on http://localhost:9090
-- NVIDIA GPU with NVENC support (optional)
+- One of the following image generators:
+  - InvokeAI running on http://localhost:9090 (recommended)
+  - ComfyUI running on http://localhost:8188
+  - No generator needed for mock/testing mode
+- NVIDIA GPU with NVENC support (optional, for video encoding)
 - FFmpeg with NVENC (for GPU encoding)
 
 ## 📦 Installation
@@ -149,6 +199,10 @@ uv pip install -r requirements.txt
 
 # Or with pip
 pip install -r requirements.txt
+
+# Copy and configure environment variables
+cp .env.example .env
+# Edit .env with your settings (optional)
 ```
 
 ## 🎬 Workflow
@@ -170,6 +224,9 @@ pip install -r requirements.txt
 - **Only render video** (skip image generation): `python main.py video 17 --only-render`
 - **Use custom template**: `python main.py video 17 --template my_template`
 - **Generate specific book from collection**: `python main.py video classics 17`
+- **Use different generator**: `python main.py ai 17 --generator comfyui`
+- **Override settings**: `python main.py --set video.fps=60 video 17`
+- **Use custom config**: `python main.py --config production.yaml ai 17`
 
 ### Book Structure
 
@@ -188,6 +245,8 @@ books/NNNN_book_name/           # Book folder (e.g., 0017_little_prince)
 ## 📚 Documentation
 
 ### Configuration
+- [Configuration System](docs/CONFIGURATION.md) - Settings, environment variables, and overrides
+- [Plugin Architecture](docs/PLUGIN_ARCHITECTURE.md) - Creating custom image generators
 - [YAML Structures](docs/YAML_STRUCTURES.md) - All YAML file formats (book.yaml, collections, templates)
 - [Book Structure](docs/BOOK_STRUCTURE.md) - Organization of book directories
 - [Project Structure](docs/STRUCTURE.md) - Overall project organization

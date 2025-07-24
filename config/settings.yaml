@@ -1,0 +1,121 @@
+# Main configuration file for 37degrees project
+# This file centralizes all project settings
+
+project:
+  name: 37degrees
+  version: 2.0.0
+  description: TikTok video generator for book reviews
+  author: 37stopni
+  
+# Service configurations
+services:
+  # Image generation settings
+  generators:
+    default: ${DEFAULT_GENERATOR:-invokeai}
+    config_file: config/generators.yaml
+    cache_enabled: true
+    cache_ttl: 900  # 15 minutes
+    
+  # Research/AI search providers (future implementation)
+  research:
+    default: ${RESEARCH_PROVIDER:-perplexity}
+    cache_enabled: true
+    cache_ttl: 900  # 15 minutes
+    providers:
+      perplexity:
+        api_key: ${PERPLEXITY_API_KEY}
+        model: ${PERPLEXITY_MODEL:-sonar-medium-online}
+        max_tokens: 2000
+      google:
+        api_key: ${GOOGLE_API_KEY}
+        cx: ${GOOGLE_CX}
+        daily_limit: 100
+      openai:
+        api_key: ${OPENAI_API_KEY}
+        model: ${OPENAI_MODEL:-gpt-4}
+        max_tokens: 2000
+  
+  # Static site generation (future implementation)
+  site:
+    output_dir: ${SITE_OUTPUT_DIR:-output/site}
+    base_url: ${SITE_BASE_URL:-https://37stopni.pl}
+    enable_analytics: ${ENABLE_ANALYTICS:-false}
+    analytics_id: ${ANALYTICS_ID}
+    
+# Video generation settings
+video:
+  resolution: ${VIDEO_RESOLUTION:-1080x1920}
+  fps: ${VIDEO_FPS:-30}
+  duration_per_slide: ${SLIDE_DURATION:-3.5}
+  transition_duration: ${TRANSITION_DURATION:-0.5}
+  codec: ${VIDEO_CODEC:-libx264}
+  preset: ${VIDEO_PRESET:-medium}
+  crf: ${VIDEO_CRF:-23}
+  gpu_encoding: ${ENABLE_GPU:-true}
+  gpu_device: ${GPU_DEVICE:-0}
+  
+# Audio settings
+audio:
+  default_volume: ${AUDIO_VOLUME:-0.7}
+  fade_in_duration: ${AUDIO_FADE_IN:-1.0}
+  fade_out_duration: ${AUDIO_FADE_OUT:-2.0}
+  normalize: ${AUDIO_NORMALIZE:-true}
+  
+# Text overlay defaults
+text_overlay:
+  default_method: ${TEXT_METHOD:-outline}
+  outline_width: ${TEXT_OUTLINE_WIDTH:-3}
+  outline_color: ${TEXT_OUTLINE_COLOR:-#000000}
+  shadow_offset: ${TEXT_SHADOW_OFFSET:-5}
+  shadow_color: ${TEXT_SHADOW_COLOR:-#000000}
+  enable_color_emojis: ${ENABLE_COLOR_EMOJIS:-true}
+  
+# Paths configuration
+paths:
+  books_dir: ${BOOKS_DIR:-books}
+  collections_dir: ${COLLECTIONS_DIR:-collections}
+  output_dir: ${OUTPUT_DIR:-output}
+  site_output: ${SITE_OUTPUT:-site}
+  temp_dir: ${TEMP_DIR:-/tmp/37degrees}
+  shared_assets: ${SHARED_ASSETS:-shared_assets}
+  templates: ${TEMPLATES_DIR:-shared_assets/templates}
+  cache: ${CACHE_DIR:-.cache}
+  
+# Development settings
+development:
+  debug: ${DEBUG:-false}
+  verbose: ${VERBOSE:-false}
+  dry_run: ${DRY_RUN:-false}
+  parallel_processing: ${PARALLEL:-true}
+  max_workers: ${MAX_WORKERS:-4}
+  
+# API rate limits and retries
+api_limits:
+  default_timeout: ${API_TIMEOUT:-30}
+  max_retries: ${MAX_RETRIES:-3}
+  retry_delay: ${RETRY_DELAY:-2.0}
+  exponential_backoff: ${EXPONENTIAL_BACKOFF:-true}
+  
+# Logging configuration
+logging:
+  level: ${LOG_LEVEL:-INFO}
+  format: ${LOG_FORMAT:-rich}  # rich, simple, json
+  file: ${LOG_FILE}
+  max_size: ${LOG_MAX_SIZE:-10485760}  # 10MB
+  backup_count: ${LOG_BACKUP_COUNT:-5}
+  
+# Cache settings
+cache:
+  enabled: ${CACHE_ENABLED:-true}
+  directory: ${CACHE_DIR:-~/.cache/37degrees}
+  max_size: ${CACHE_MAX_SIZE:-1073741824}  # 1GB
+  ttl: ${CACHE_TTL:-3600}  # 1 hour
+  
+# Feature flags
+features:
+  web_generators: ${ENABLE_WEB_GENERATORS:-false}
+  research_api: ${ENABLE_RESEARCH_API:-false}
+  static_site: ${ENABLE_STATIC_SITE:-false}
+  batch_operations: ${ENABLE_BATCH_OPS:-true}
+  progress_bars: ${ENABLE_PROGRESS:-true}
+  color_output: ${ENABLE_COLOR:-true}

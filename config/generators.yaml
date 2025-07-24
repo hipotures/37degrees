@@ -1,0 +1,54 @@
+# Image generator configuration for 37degrees
+# This file defines available generators and their settings
+
+generators:
+  # InvokeAI - Primary generator for production use
+  invokeai:
+    class: InvokeAIGenerator
+    base_url: http://localhost:9090
+    default_model: c81f2f9b-cabd-40ec-b6f4-d3172c10bafc  # Dreamshaper XL v2 Turbo
+    board_name: "37degrees - Generated Images"
+    max_wait: 30
+    retry_max: 3
+    retry_backoff: 2.0
+  
+  # ComfyUI - Alternative generator with workflow support
+  comfyui:
+    class: ComfyUIGenerator
+    server_address: 127.0.0.1:8188
+    workflow_template: workflows/default_workflow.json
+    timeout: 120
+    retry_max: 3
+    retry_backoff: 2.0
+  
+  # Mock generator for testing and development
+  mock:
+    class: MockGenerator
+    delay: 2  # Simulated generation delay in seconds
+    fail_rate: 0.0  # Probability of failure (0.0-1.0)
+    placeholder_style: detailed  # simple, detailed, or debug
+  
+  # Fast mock for quick testing
+  mock_fast:
+    class: MockGenerator
+    delay: 0.5
+    fail_rate: 0.0
+    placeholder_style: simple
+  
+  # Failing mock for error handling tests
+  mock_fail:
+    class: MockGenerator
+    delay: 1
+    fail_rate: 0.8  # 80% failure rate
+    placeholder_style: debug
+
+# Default generator to use if not specified
+default_generator: invokeai
+
+# Generator selection rules (optional)
+# Can be used to automatically select generators based on conditions
+selection_rules:
+  - condition: "env:TESTING == true"
+    generator: mock
+  - condition: "env:CI == true"
+    generator: mock_fast
