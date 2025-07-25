@@ -1,0 +1,62 @@
+{
+  "session_id": "4e0ac0c3-d14c-475d-955f-06d163c9d80b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/4e0ac0c3-d14c-475d-955f-06d163c9d80b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Mistrz i Ma\u0142gorzata Bu\u0142hakow polskie t\u0142umaczenie historia pierwsze wydanie translator"
+  },
+  "tool_response": {
+    "query": "Mistrz i Ma\u0142gorzata Bu\u0142hakow polskie t\u0142umaczenie historia pierwsze wydanie translator",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01W28h6NG5GZfajiuNDXP3WJ",
+        "content": [
+          {
+            "title": "\"Mistrz i Ma\u0142gorzata\" Bu\u0142hakowa - nowe t\u0142umaczenie z kluczem do zrozumienia powie\u015bci zapowiedziane na 26 pa\u017adziernika",
+            "url": "https://booklips.pl/premiery-i-zapowiedzi/mistrz-i-malgorzata-bulhakowa-nowe-tlumaczenie-z-kluczem-do-zrozumienia-powiesci-zapowiedziane-na-26-pazdziernika/"
+          },
+          {
+            "title": "Mistrz i Ma\u0142gorzata \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Mistrz_i_Ma%C5%82gorzata"
+          },
+          {
+            "title": "Mistrz i Ma\u0142gorzata w t\u0142umaczeniach - Skrivanek",
+            "url": "https://skrivanek.pl/mistrz-i-malgorzata-w-tlumaczeniach/"
+          },
+          {
+            "title": "Michai\u0142 Bu\u0142hakow - Mistrz i Ma\u0142gorzata",
+            "url": "http://biblioteka.kijowski.pl/bulhakov%20michail/mistrz.pdf"
+          },
+          {
+            "title": "bu\u0142hakow zmanipulowany, czyli o \u201efachowym i wybitnym\u201d ...",
+            "url": "https://journals.us.edu.pl/index.php/PR/article/view/7624/5895"
+          },
+          {
+            "title": "Michai\u0142 Bu\u0142hakow \u201eMistrz i Ma\u0142gorzata\u201d - \u015aci\u0105gi, wypracowania, lektury - Bryk.pl",
+            "url": "https://www.bryk.pl/wypracowania/jezyk-polski/xx-lecie/25033-michail-bulhakow-mistrz-i-malgorzata.html"
+          },
+          {
+            "title": "Kt\u00f3re t\u0142umaczenie Mistrza i Ma\u0142gorzaty warto wybra\u0107? - TurboT\u0142umaczenia 24/7",
+            "url": "https://turbotlumaczenia.pl/blog/ktore-tlumaczenie-mistrza-i-malgorzaty-warto-wybrac/"
+          },
+          {
+            "title": "Mistrz i Ma\u0142gorzata - Michai\u0142 Bu\u0142hakow",
+            "url": "https://www.wydawnictwoznak.pl/ksiazka/Mistrz-i-Malgorzata/7640"
+          },
+          {
+            "title": "Mistrz i Ma\u0142gorzata (2022) | Michai\u0142 Bu\u0142hakow (Ksi\u0105\u017cka) - Ksi\u0119garnia znak.com.pl",
+            "url": "https://www.znak.com.pl/p/mistrz-i-malgorzata-2022-michail-bulhakow-163063"
+          },
+          {
+            "title": "Michai\u0142 Bu\u0142hakow - Mistrz I Ma\u0142gorzata. Pierwsze polskie wydanie dzie\u0142a z 1969r. w ekskluzywnej sk\u00f3rzanej oprawie. | Blog o starych ksi\u0105\u017ckach i starodrukach",
+            "url": "https://antyksobieski.pl/blog/michail-bulhakow-mistrz-i-malgorzata-pierwsze-polskie-wydanie-dziela-z-1969r-w-ekskluzywnej-skorzanej-oprawie"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about the Polish translations and publication history of \"The Master and Margarita\" by Mikhail Bulgakov:\n\n## Historia polskich t\u0142umacze\u0144 \"Mistrza i Ma\u0142gorzaty\"\n\n### Pierwsze wydanie polskie (1969)\nPierwsze polskie wydanie ukaza\u0142o si\u0119 w 1969 roku w przek\u0142adzie Witolda D\u0105browskiego i Ireny Lewandowskiej, dokonane na podstawie ocenzurowanego wydania radzieckiego. Ksi\u0105\u017ck\u0119 wyda\u0142a Sp\u00f3\u0142dzielnia Wydawnicza \"Czytelnik\".\n\nPierwsze t\u0142umaczenie powie\u015bci z 1969 roku powsta\u0142o w czasach, gdy na polsk\u0105 literatur\u0119 mia\u0142a wp\u0142yw radziecka cenzura. W tym samym roku w RFN zosta\u0142o opublikowane pe\u0142ne wydanie orygina\u0142u, gdzie zaznaczono tekst wyci\u0119ty przez cenzur\u0119, uwzgl\u0119dniany potem w kolejnych polskich wydaniach.\n\n### Drugie t\u0142umaczenie (1995)\nDrugie polskie t\u0142umaczenie, autorstwa Andrzeja Drawicza, ukaza\u0142o si\u0119 w 1995 roku. Ksi\u0105\u017cka ukaza\u0142a si\u0119 nak\u0142adem Wydawnictwa Dolno\u015bl\u0105skiego. 5 lat wcze\u015bniej \u2013 1990 roku \u2013 Drawicz opublikowa\u0142 pierwsze na \u015bwiecie wydanie krytyczne powie\u015bci Bu\u0142hakowa, opatrzonego w\u0142asnym wst\u0119pem.\n\n### Nowe t\u0142umaczenia (2016-2018)\nDruga po\u0142owa 1. dekady XXI wieku przynios\u0142a a\u017c 4 nowe t\u0142umaczenia Mistrza i Ma\u0142gorzaty na j\u0119zyk polski:\n\n1. **2016** - T\u0142umaczenie Leokadii Anny Przebindy, Grzegorza Przebindy i Igora Przebindy\n2. **2016** - Przek\u0142ad Krzysztofa Tura pt. Mistrz i Ma\u0142gorzata. Czarny Mag, kt\u00f3ry zawiera fragmenty wczesnych wersji powie\u015bci z lat 1928-1933\n3. **2017** - Nowy przek\u0142ad powie\u015bci autorstwa Jana Cichockiego\n4. **2018** - T\u0142umaczenie Barbary Dohnalik\n\n### Szczeg\u00f3\u0142y historyczne\nIgor Przebinda czyta\u0142 powie\u015b\u0107 oczywi\u015bcie w pierwszym polskim przek\u0142adzie Ireny Lewandowskiej i Witolda D\u0105browskiego, podczas gdy jego m\u0142odsza siostra Aneta korzysta\u0142a z opublikowanego ju\u017c w 1995 drugiego przek\u0142adu autorstwa Andrzeja Drawicza.\n\nPrzez wiele lat by\u0142 to przek\u0142ad jedyny, dzi\u015b uwa\u017ca si\u0119, \u017ce oddaje klimat orygina\u0142u w spos\u00f3b mistrzowski. Kto raz si\u0119gnie po \"Mistrza i Ma\u0142gorzat\u0119\" t\u0142umaczon\u0105 przez Lewandowsk\u0105 i D\u0105browskiego, wszystkie inne przek\u0142ady b\u0119dzie por\u00f3wnywa\u0142 do tego pierwszego.\n\nPierwszych polskich t\u0142umaczy mo\u017cna wi\u0119c uzna\u0107 za pionier\u00f3w, kt\u00f3rzy wprowadzili to arcydzie\u0142o do polskiej literatury, cho\u0107 ich praca by\u0142a ograniczona cenzur\u0105 okresu PRL-u."
+    ],
+    "durationSeconds": 43.14583426599996
+  }
+}

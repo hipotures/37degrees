@@ -1,0 +1,109 @@
+{
+  "session_id": "4e0ac0c3-d14c-475d-955f-06d163c9d80b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/4e0ac0c3-d14c-475d-955f-06d163c9d80b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Mistrz i Ma\u0142gorzata Bu\u0142hakow polskie t\u0142umaczenie historia przek\u0142ad site:culture.pl"
+  },
+  "tool_response": {
+    "query": "Mistrz i Ma\u0142gorzata Bu\u0142hakow polskie t\u0142umaczenie historia przek\u0142ad site:culture.pl",
+    "results": [
+      "I'll search for information about the Polish translation history of Bulgakov's \"The Master and Margarita\" on the culture.pl website.",
+      {
+        "tool_use_id": "srvtoolu_01YS1YCD8CQ7WBQWcffUojM4",
+        "content": [
+          {
+            "title": "Michai\u0142 Bu\u0142hakow, \"Mistrz i Ma\u0142gorzata\" | #teatr | Culture.pl",
+            "url": "https://culture.pl/pl/dzielo/michail-bulhakow-mistrz-i-malgorzata"
+          },
+          {
+            "title": "Maciej Wojtyszko, \"Bu\u0142hakow\" | #teatr | Culture.pl",
+            "url": "https://culture.pl/pl/dzielo/maciej-wojtyszko-bulhakow"
+          },
+          {
+            "title": "mistrz i ma\u0142gorzata | Culture.pl",
+            "url": "https://culture.pl/en/tag/mistrz-i-malgorzata"
+          },
+          {
+            "title": "\"Mistrz i Ma\u0142gorzata\" | #teatr | Culture.pl",
+            "url": "https://culture.pl/pl/dzielo/mistrz-i-malgorzata"
+          },
+          {
+            "title": "\"Mistrz i Ma\u0142gorzata\" w Teatrze Rampa [wideo] |Wideo | Culture.pl",
+            "url": "https://culture.pl/pl/wideo/mistrz-i-malgorzata-w-teatrze-rampa-wideo"
+          },
+          {
+            "title": "\"Mistrz i Ma\u0142gorzata\" - mi\u0142o\u015b\u0107 w stalinowskim piekle na ziemi | Wydarzenie | Culture.pl",
+            "url": "https://culture.pl/pl/wydarzenie/mistrz-i-malgorzata-milosc-w-stalinowskim-piekle-na-ziemi"
+          },
+          {
+            "title": "mistrzowie i przyjaciele meyera | Culture.pl",
+            "url": "https://culture.pl/pl/tag/mistrzowie-i-przyjaciele-meyera"
+          },
+          {
+            "title": "\"Mistrz i Ma\u0142gorzata\", re\u017c. Janusz Opry\u0144ski | #teatr | Culture.pl",
+            "url": "https://culture.pl/pl/dzielo/mistrz-i-malgorzata-rez-janusz-oprynski"
+          },
+          {
+            "title": "H\u0142asko w Ameryce (w t\u0142umaczeniu) | Artyku\u0142 | Culture.pl",
+            "url": "https://culture.pl/pl/artykul/hlasko-w-ameryce-w-tlumaczeniu"
+          },
+          {
+            "title": "Magdalena Nowakowska: Dobry t\u0142umacz wie, czego chce [WYWIAD] | Artyku\u0142 | Culture.pl",
+            "url": "https://culture.pl/pl/artykul/magdalena-nowakowska-dobry-tlumacz-wie-czego-chce-wywiad"
+          }
+        ]
+      },
+      "The search results from culture.pl primarily show theatrical adaptations of \"The Master and Margarita\" rather than information about Polish translations of the book itself. Let me search more specifically for translation history information.",
+      {
+        "tool_use_id": "srvtoolu_011JguoYaaUM655dJTKDbQuA",
+        "content": [
+          {
+            "title": "Mistrz i Ma\u0142gorzata \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Mistrz_i_Ma%C5%82gorzata"
+          },
+          {
+            "title": "\"Mistrz i Ma\u0142gorzata\" Bu\u0142hakowa - nowe t\u0142umaczenie z kluczem do zrozumienia powie\u015bci zapowiedziane na 26 pa\u017adziernika",
+            "url": "https://booklips.pl/premiery-i-zapowiedzi/mistrz-i-malgorzata-bulhakowa-nowe-tlumaczenie-z-kluczem-do-zrozumienia-powiesci-zapowiedziane-na-26-pazdziernika/"
+          },
+          {
+            "title": "Mistrz i Ma\u0142gorzata w t\u0142umaczeniach - Skrivanek",
+            "url": "https://skrivanek.pl/mistrz-i-malgorzata-w-tlumaczeniach/"
+          },
+          {
+            "title": "Mistrz i Ma\u0142gorzata",
+            "url": "https://www.wydawnictwoznak.pl/ksiazka/Mistrz-i-Malgorzata/7640"
+          },
+          {
+            "title": "Mistrz i Ma\u0142gorzata (2022) | Michai\u0142 Bu\u0142hakow (Ksi\u0105\u017cka) - Ksi\u0119garnia znak.com.pl",
+            "url": "https://www.znak.com.pl/p/mistrz-i-malgorzata-2022-michail-bulhakow-163063"
+          },
+          {
+            "title": "Kt\u00f3re t\u0142umaczenie Mistrza i Ma\u0142gorzaty warto wybra\u0107? - TurboT\u0142umaczenia 24/7",
+            "url": "https://turbotlumaczenia.pl/blog/ktore-tlumaczenie-mistrza-i-malgorzaty-warto-wybrac/"
+          },
+          {
+            "title": "Mistrz i Ma\u0142gorzata - Michai\u0142 Bu\u0142hakow | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5166174/mistrz-i-malgorzata"
+          },
+          {
+            "title": "Co wyczytali t\u0142umacze w najnowszych przek\u0142adach \u201eMistrza i Ma\u0142gorzaty\u201d - Stowarzyszenie T\u0142umaczy Literatury Stowarzyszenie T\u0142umaczy Literatury",
+            "url": "https://stl.org.pl/co-wyczytali-tlumacze-w-najnowszych-przekladach-mistrza-i-malgorzaty/"
+          },
+          {
+            "title": "Mistrz i Ma\u0142gorzata - Michai\u0142 Bu\u0142hakow | lektury szkolne z om\u00f3wieniem - Wydawnictwo Greg",
+            "url": "https://www.greg.pl/lektury/9,780_Mistrz-i-Malgorzata.html"
+          },
+          {
+            "title": "Dlaczego powstaj\u0105 nowe przek\u0142ady? Mistrz i Ma\u0142gorzata ...",
+            "url": "http://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.ojs-issn-2353-9763-year-2018-volume-9-issue-1-article-7453/c/Mistrz_i_Malgorzata.pdf"
+          }
+        ]
+      },
+      "Based on my search results, I can provide comprehensive information about the Polish translation history of Bulgakov's \"The Master and Margarita.\" The search on culture.pl didn't yield specific information about translation history, but other sources provide detailed information about Polish translations of this work.\n\n## Historia polskich t\u0142umacze\u0144 \"Mistrza i Ma\u0142gorzaty\" Michai\u0142a Bu\u0142hakowa\n\n### Pierwsze polskie wydanie (1969)\nPierwsze polskie wydanie, w przek\u0142adzie Witolda D\u0105browskiego i Ireny Lewandowskiej, dokonane na podstawie ocenzurowanego wydania radzieckiego, ukaza\u0142o si\u0119 w 1969 roku. Przek\u0142ad Ireny Lewandowskiej i Witolda D\u0105browskiego powsta\u0142 na podstawie fragment\u00f3w ksi\u0105\u017cki Bu\u0142hakowa opublikowanych w 1966 i 1967 roku przez miesi\u0119cznik Moskwa, co oznacza\u0142o znaczne ograniczenia cenzuralne.\n\n### Problemy cenzorskie\nW Polsce trzy pierwsze wydania powie\u015bci ukaza\u0142y si\u0119 bez tego rozdzia\u0142u (odno\u015bnie rozdzia\u0142u \"Sen Nikanora Iwanowicza\"), a pe\u0142ny przek\u0142ad ca\u0142ej ksi\u0105\u017cki ukaza\u0142 si\u0119 w Polsce dopiero w 1980 roku.\n\n### Drugie t\u0142umaczenie (1995)\nDrugie polskie t\u0142umaczenie, autorstwa Andrzeja Drawicza, ukaza\u0142o si\u0119 w 1995. M\u0142odsza siostra Aneta przesz\u0142a podobn\u0105 drog\u0119 z t\u0105 lektur\u0105, tyle \u017ce korzysta\u0142a z opublikowanego ju\u017c w 1995 drugiego przek\u0142adu autorstwa Andrzeja Drawicza, kt\u00f3ry zreszt\u0105 by\u0142 przyjacielem domu.\n\n### Wsp\u00f3\u0142czesne t\u0142umaczenia (od 2016)\nDruga po\u0142owa 1. dekady XXI wieku przynios\u0142a a\u017c 4 nowe t\u0142umaczenia Mistrza i Ma\u0142gorzaty na j\u0119zyk polski:\n\n1. **2016** - W 2016 roku powsta\u0142o t\u0142umaczenie Leokadii Anny Przebindy, Grzegorza Przebindy i Igora Przebindy\n2. **2016** - Niemal w tym samym czasie wydano r\u00f3wnie\u017c przek\u0142ad Krzysztofa Tura pt. Mistrz i Ma\u0142gorzata. Czarny Mag, kt\u00f3ry zawiera fragmenty wczesnych wersji powie\u015bci z lat 1928-1933\n3. **2017** - W 2017 roku czytelnicy dostali r\u00f3wnie\u017c nowy przek\u0142ad powie\u015bci autorstwa Jana Cichockiego\n4. **2018** - a rok p\u00f3\u017aniej \u2013 Barbary Dohnalik\n\n### Specyfika r\u00f3\u017cnych wersji\nW toku pracy powsta\u0142y wersje do tego stopnia rozbie\u017cne, \u017ce obecnie badacze wyr\u00f3\u017cniaj\u0105 ich sze\u015b\u0107. W zale\u017cno\u015bci od tego, kt\u00f3r\u0105 wersj\u0119 t\u0142umacz wybra\u0142 jako podstaw\u0119 t\u0142umaczenia \u2013 a panuje tu pe\u0142na dowolno\u015b\u0107 \u2013 tak r\u00f3\u017cne mog\u0105 by\u0107 przek\u0142ady. Polskie bazuj\u0105 na czterech spo\u015br\u00f3d sze\u015bciu wersji orygina\u0142u.\n\nWarto zaznaczy\u0107, \u017ce cho\u0107 szuka\u0142em informacji na culture.pl, strona ta zawiera g\u0142\u00f3wnie informacje o adaptacjach teatralnych \"Mistrza i Ma\u0142gorzaty\" w Polsce, a nie o historii przek\u0142ad\u00f3w literackich."
+    ],
+    "durationSeconds": 32.532633807
+  }
+}

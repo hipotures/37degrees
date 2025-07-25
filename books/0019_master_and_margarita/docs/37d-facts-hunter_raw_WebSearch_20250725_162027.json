@@ -1,0 +1,62 @@
+{
+  "session_id": "4e0ac0c3-d14c-475d-955f-06d163c9d80b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/4e0ac0c3-d14c-475d-955f-06d163c9d80b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Mistrz i Ma\u0142gorzata polskie t\u0142umaczenie historia wydania translator"
+  },
+  "tool_response": {
+    "query": "Mistrz i Ma\u0142gorzata polskie t\u0142umaczenie historia wydania translator",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01DFC3JXKGJgfLtsdzNkBHqD",
+        "content": [
+          {
+            "title": "Mistrz i Ma\u0142gorzata w t\u0142umaczeniach - Skrivanek",
+            "url": "https://skrivanek.pl/mistrz-i-malgorzata-w-tlumaczeniach/"
+          },
+          {
+            "title": "\"Mistrz i Ma\u0142gorzata\" Bu\u0142hakowa - nowe t\u0142umaczenie z kluczem do zrozumienia powie\u015bci zapowiedziane na 26 pa\u017adziernika",
+            "url": "https://booklips.pl/premiery-i-zapowiedzi/mistrz-i-malgorzata-bulhakowa-nowe-tlumaczenie-z-kluczem-do-zrozumienia-powiesci-zapowiedziane-na-26-pazdziernika/"
+          },
+          {
+            "title": "Mistrz i Ma\u0142gorzata",
+            "url": "https://www.wydawnictwoznak.pl/ksiazka/Mistrz-i-Malgorzata/7640"
+          },
+          {
+            "title": "Mistrz i Ma\u0142gorzata \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Mistrz_i_Ma%C5%82gorzata"
+          },
+          {
+            "title": "Kt\u00f3re t\u0142umaczenie Mistrza i Ma\u0142gorzaty warto wybra\u0107? - TurboT\u0142umaczenia 24/7",
+            "url": "https://turbotlumaczenia.pl/blog/ktore-tlumaczenie-mistrza-i-malgorzaty-warto-wybrac/"
+          },
+          {
+            "title": "Co wyczytali t\u0142umacze w najnowszych przek\u0142adach \u201eMistrza i Ma\u0142gorzaty\u201d - Stowarzyszenie T\u0142umaczy Literatury Stowarzyszenie T\u0142umaczy Literatury",
+            "url": "https://stl.org.pl/co-wyczytali-tlumacze-w-najnowszych-przekladach-mistrza-i-malgorzaty/"
+          },
+          {
+            "title": "Mistrz i Ma\u0142gorzata (2022) | Michai\u0142 Bu\u0142hakow (Ksi\u0105\u017cka) - Ksi\u0119garnia znak.com.pl",
+            "url": "https://www.znak.com.pl/p/mistrz-i-malgorzata-2022-michail-bulhakow-163063"
+          },
+          {
+            "title": "Dlaczego powstaj\u0105 nowe przek\u0142ady? Mistrz i Ma\u0142gorzata ...",
+            "url": "http://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.ojs-issn-2353-9763-year-2018-volume-9-issue-1-article-7453/c/Mistrz_i_Malgorzata.pdf"
+          },
+          {
+            "title": "Jest sens \"poprawia\u0107\" klasyk\u0119? Rozmawiam o tym z t\u0142umaczem \"Mistrza i Ma\u0142gorzaty\"",
+            "url": "https://natemat.pl/396439,nowe-wydanie-mistrza-i-malgorzaty-rozmawiamy-z-tlumaczem"
+          },
+          {
+            "title": "Mistrz i Ma\u0142gorzata. Czarny mag. - Michai\u0142 Bu\u0142hakow | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/4666947/mistrz-i-malgorzata-czarny-mag"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about the history of Polish translations of \"Mistrz i Ma\u0142gorzata\" (The Master and Margarita) by Mikhail Bulgakov.\n\n## Historia polskich t\u0142umacze\u0144 \"Mistrza i Ma\u0142gorzaty\"\n\n### Pierwsze t\u0142umaczenie (1969)\nPierwszy przek\u0142ad \"Mistrza i Ma\u0142gorzaty\" powsta\u0142 w PRL-u. Jego autorami byli Irena Lewandowska i Witold D\u0105browski. Pierwsze t\u0142umaczenie powie\u015bci z 1969 roku powsta\u0142o w czasach, gdy na polsk\u0105 literatur\u0119 mia\u0142a wp\u0142yw radziecka cenzura.\n\nPrzek\u0142ad Ireny Lewandowskiej i Witolda D\u0105browskiego powsta\u0142 na podstawie fragment\u00f3w ksi\u0105\u017cki Bu\u0142hakowa opublikowanych w 1966 i 1967 roku przez miesi\u0119cznik Moskwa. Z uwagi na \u00f3wczesne uwarunkowania geopolityczne, r\u00f3wnie\u017c polskie t\u0142umaczenie Mistrza i Ma\u0142gorzaty nosi\u0142o wyra\u017ane znamiona wy\u017cej wspomnianej cenzury. Pe\u0142ny przek\u0142ad ca\u0142ej ksi\u0105\u017cki ukaza\u0142 si\u0119 w Polsce dopiero w 1980 roku.\n\n### Drugie t\u0142umaczenie (1990/1995)\nDruga polskie t\u0142umaczenie zosta\u0142o wykonane przez Andrzeja Drawicza z 1990 r. (wed\u0142ug jednego \u017ar\u00f3d\u0142a opublikowane w 1995 roku).\n\n### Nowa fala t\u0142umacze\u0144 (2016-2018)\nDruga po\u0142owa 1. dekady XXI wieku przynios\u0142a a\u017c 4 nowe t\u0142umaczenia Mistrza i Ma\u0142gorzaty na j\u0119zyk polski. W 2016 r. min\u0119\u0142a 50. rocznica pierwszego, mocno zreszt\u0105 okrojonego przez radzieck\u0105 cenzur\u0119, wydania tego dzie\u0142a w miesi\u0119czniku literackim \"Moskwa\", a jubileusz zainspirowa\u0142 nowe ju\u017c pokolenia polskich t\u0142umaczy.\n\n**2016:**\n1. T\u0142umaczenie Leokadii Anny Przebindy, Grzegorza Przebindy i Igora Przebindy\n2. Przek\u0142ad Krzysztofa Tura pt. \"Mistrz i Ma\u0142gorzata. Czarny Mag\", kt\u00f3ry zawiera fragmenty wczesnych wersji powie\u015bci z lat 1928-1933\n\n**2017:**\nW 2017 roku czytelnicy dostali r\u00f3wnie\u017c nowy przek\u0142ad powie\u015bci autorstwa Jana Cichockiego. Ten T\u0142umacz opar\u0142 sw\u00f3j przek\u0142ad na ostatecznej, sz\u00f3stej wersji powie\u015bci, kt\u00f3ra powsta\u0142a w latach 1938-1940.\n\n**2018:**\nRok p\u00f3\u017aniej \u2013 przek\u0142ad Barbary Dohnalik.\n\n### Charakterystyka r\u00f3\u017cnych wersji\nW toku pracy powsta\u0142y wersje do tego stopnia rozbie\u017cne, \u017ce obecnie badacze wyr\u00f3\u017cniaj\u0105 ich sze\u015b\u0107. W zale\u017cno\u015bci od tego, kt\u00f3r\u0105 wersj\u0119 t\u0142umacz wybra\u0142 jako podstaw\u0119 t\u0142umaczenia \u2013 a panuje tu pe\u0142na dowolno\u015b\u0107 \u2013 tak r\u00f3\u017cne mog\u0105 by\u0107 przek\u0142ady. Polscy t\u0142umacze zazwyczaj opieraj\u0105 si\u0119 na 4 wersjach orygina\u0142u.\n\n### Problemy z pierwszymi t\u0142umaczeniami\nJ\u0119zyk u\u017cywany w pierwszym t\u0142umaczeniu szybko sta\u0142 si\u0119 ma\u0142o atrakcyjny dla wsp\u00f3\u0142czesnego czytelnika. Wiele nawi\u0105za\u0144 do kultury, religii i polityki straci\u0142o nieco na swojej aktualno\u015bci. Po ponad 50 latach t\u0142umaczenie Mistrza i Ma\u0142gorzaty nale\u017ca\u0142o od\u015bwie\u017cy\u0107 i dostosowa\u0107 do wsp\u00f3\u0142czesnego czytelnika."
+    ],
+    "durationSeconds": 35.49566320800013
+  }
+}
