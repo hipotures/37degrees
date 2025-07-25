@@ -1,0 +1,982 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Klasyka Światowa - 37 Stopni</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Lora:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        body {
+            background: linear-gradient(135deg, #FDF6E3 0%, #FAF0D7 100%);
+            color: #073642;
+            font-family: 'Inter', sans-serif;
+            min-height: 100vh;
+        }
+        h1, h2, h3 {
+            font-family: 'Lora', serif;
+        }
+        .book-item {
+            transition: all 0.3s ease;
+            background: rgba(255, 255, 255, 0.7);
+            backdrop-filter: blur(10px);
+        }
+        .book-item:hover {
+            transform: translateX(10px);
+            background: rgba(255, 255, 255, 0.9);
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+        }
+        .progress-bar {
+            background: linear-gradient(90deg, #268BD2 0%, #2AA198 100%);
+        }
+    </style>
+</head>
+<body class="antialiased">
+    <!-- HEADER -->
+    <header class="bg-white/80 backdrop-blur-md sticky top-0 z-50 shadow-lg">
+        <nav class="container mx-auto px-6 py-4">
+            <div class="flex items-center justify-between">
+                <div class="flex items-center space-x-3">
+                    <a href="../index.html" class="text-2xl hover:text-[#268BD2] transition-colors">
+                        ← Powrót
+                    </a>
+                </div>
+                <h1 class="text-xl font-bold text-[#073642]">Klasyka Światowa</h1>
+                <div class="text-sm text-gray-600">
+                    37 książek
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <!-- HERO SECTION -->
+    <section class="py-16 px-6">
+        <div class="container mx-auto text-center">
+            <h1 class="text-5xl md:text-6xl font-bold mb-6 text-[#268BD2]">
+                Klasyka Światowa
+            </h1>
+            <p class="text-xl text-gray-700 max-w-3xl mx-auto mb-8">
+                Najważniejsze dzieła literatury światowej w formie angażujących TikToków
+            </p>
+            
+            <!-- Progress stats -->
+            <div class="max-w-2xl mx-auto bg-white/80 rounded-xl p-6 shadow-lg">
+                <div class="grid grid-cols-3 gap-4 text-center">
+                    <div>
+                        <span class="text-3xl font-bold text-[#268BD2]">37</span>
+                        <p class="text-sm text-gray-600">Książek w kolekcji</p>
+                    </div>
+                    <div>
+                        <span class="text-3xl font-bold text-[#2AA198]">1</span>
+                        <p class="text-sm text-gray-600">Dostępnych stron</p>
+                    </div>
+                    <div>
+                        <span class="text-3xl font-bold text-[#CB4B16]">34</span>
+                        <p class="text-sm text-gray-600">Autorów</p>
+                    </div>
+                </div>
+                
+                <!-- Progress bar -->
+                <div class="mt-6">
+                    <div class="flex justify-between text-sm text-gray-600 mb-2">
+                        <span>Postęp digitalizacji</span>
+                        <span>2%</span>
+                    </div>
+                    <div class="w-full bg-gray-200 rounded-full h-3">
+                        <div class="progress-bar h-3 rounded-full" 
+                             style="width: 2%">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- BOOKS LIST -->
+    <main class="container mx-auto px-6 py-12">
+        <div class="max-w-4xl mx-auto">
+            <h2 class="text-3xl font-bold mb-8 text-[#073642]">Książki w kolekcji</h2>
+            
+            <div class="space-y-4">
+
+                <a href="../books/0017_little_prince.html" class="book-item block rounded-xl p-6 hover:no-underline">
+
+                    <div class="flex items-center justify-between">
+                        <div class="flex items-center space-x-4">
+                            <span class="text-4xl">📚</span>
+                            <div>
+                                <h3 class="font-bold text-lg text-[#073642]">
+                                    #01 - Mały Książę
+                                </h3>
+                                <p class="text-sm text-gray-600">
+                                    Antoine de Saint-Exupéry • 1943 • Filozoficzna baśń
+                                </p>
+                            </div>
+                        </div>
+                        <div class="text-right">
+                            <span class="text-green-600 text-sm font-semibold">
+                                Dostępna
+                            </span>
+                        </div>
+                    </div>
+
+                </a>
+
+                <div class="book-item rounded-xl p-6 opacity-75">
+
+                    <div class="flex items-center justify-between">
+                        <div class="flex items-center space-x-4">
+                            <span class="text-4xl">📚</span>
+                            <div>
+                                <h3 class="font-bold text-lg text-[#073642]">
+                                    #02 - Rok 1984
+                                </h3>
+                                <p class="text-sm text-gray-600">
+                                    George Orwell • 1949 • Dystopia
+                                </p>
+                            </div>
+                        </div>
+                        <div class="text-right">
+                            <span class="text-gray-400 text-sm font-semibold">
+                                Wkrótce
+                            </span>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="book-item rounded-xl p-6 opacity-75">
+
+                    <div class="flex items-center justify-between">
+                        <div class="flex items-center space-x-4">
+                            <span class="text-4xl">📚</span>
+                            <div>
+                                <h3 class="font-bold text-lg text-[#073642]">
+                                    #03 - Władca Pierścieni
+                                </h3>
+                                <p class="text-sm text-gray-600">
+                                    J.R.R. Tolkien • 1954 • Fantasy
+                                </p>
+                            </div>
+                        </div>
+                        <div class="text-right">
+                            <span class="text-gray-400 text-sm font-semibold">
+                                Wkrótce
+                            </span>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="book-item rounded-xl p-6 opacity-75">
+
+                    <div class="flex items-center justify-between">
+                        <div class="flex items-center space-x-4">
+                            <span class="text-4xl">📚</span>
+                            <div>
+                                <h3 class="font-bold text-lg text-[#073642]">
+                                    #04 - Duma i uprzedzenie
+                                </h3>
+                                <p class="text-sm text-gray-600">
+                                    Jane Austen • 1813 • Romans
+                                </p>
+                            </div>
+                        </div>
+                        <div class="text-right">
+                            <span class="text-gray-400 text-sm font-semibold">
+                                Wkrótce
+                            </span>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="book-item rounded-xl p-6 opacity-75">
+
+                    <div class="flex items-center justify-between">
+                        <div class="flex items-center space-x-4">
+                            <span class="text-4xl">📚</span>
+                            <div>
+                                <h3 class="font-bold text-lg text-[#073642]">
+                                    #05 - Harry Potter i Kamień Filozoficzny
+                                </h3>
+                                <p class="text-sm text-gray-600">
+                                    J.K. Rowling • 1997 • Fantasy młodzieżowe
+                                </p>
+                            </div>
+                        </div>
+                        <div class="text-right">
+                            <span class="text-gray-400 text-sm font-semibold">
+                                Wkrótce
+                            </span>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="book-item rounded-xl p-6 opacity-75">
+
+                    <div class="flex items-center justify-between">
+                        <div class="flex items-center space-x-4">
+                            <span class="text-4xl">📚</span>
+                            <div>
+                                <h3 class="font-bold text-lg text-[#073642]">
+                                    #06 - Hobbit
+                                </h3>
+                                <p class="text-sm text-gray-600">
+                                    J.R.R. Tolkien • 1937 • Fantasy
+                                </p>
+                            </div>
+                        </div>
+                        <div class="text-right">
+                            <span class="text-gray-400 text-sm font-semibold">
+                                Wkrótce
+                            </span>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="book-item rounded-xl p-6 opacity-75">
+
+                    <div class="flex items-center justify-between">
+                        <div class="flex items-center space-x-4">
+                            <span class="text-4xl">📚</span>
+                            <div>
+                                <h3 class="font-bold text-lg text-[#073642]">
+                                    #07 - Alicja w Krainie Czarów
+                                </h3>
+                                <p class="text-sm text-gray-600">
+                                    Lewis Carroll • 1865 • Fantasy
+                                </p>
+                            </div>
+                        </div>
+                        <div class="text-right">
+                            <span class="text-gray-400 text-sm font-semibold">
+                                Wkrótce
+                            </span>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="book-item rounded-xl p-6 opacity-75">
+
+                    <div class="flex items-center justify-between">
+                        <div class="flex items-center space-x-4">
+                            <span class="text-4xl">📚</span>
+                            <div>
+                                <h3 class="font-bold text-lg text-[#073642]">
+                                    #08 - Opowieści z Narnii: Lew, czarownica i stara szafa
+                                </h3>
+                                <p class="text-sm text-gray-600">
+                                    C.S. Lewis • 1950 • Fantasy
+                                </p>
+                            </div>
+                        </div>
+                        <div class="text-right">
+                            <span class="text-gray-400 text-sm font-semibold">
+                                Wkrótce
+                            </span>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="book-item rounded-xl p-6 opacity-75">
+
+                    <div class="flex items-center justify-between">
+                        <div class="flex items-center space-x-4">
+                            <span class="text-4xl">📚</span>
+                            <div>
+                                <h3 class="font-bold text-lg text-[#073642]">
+                                    #09 - Wyspa skarbów
+                                </h3>
+                                <p class="text-sm text-gray-600">
+                                    Robert Louis Stevenson • 1883 • Przygodowa
+                                </p>
+                            </div>
+                        </div>
+                        <div class="text-right">
+                            <span class="text-gray-400 text-sm font-semibold">
+                                Wkrótce
+                            </span>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="book-item rounded-xl p-6 opacity-75">
+
+                    <div class="flex items-center justify-between">
+                        <div class="flex items-center space-x-4">
+                            <span class="text-4xl">📚</span>
+                            <div>
+                                <h3 class="font-bold text-lg text-[#073642]">
+                                    #10 - Robinson Crusoe
+                                </h3>
+                                <p class="text-sm text-gray-600">
+                                    Daniel Defoe • 1719 • Przygodowa
+                                </p>
+                            </div>
+                        </div>
+                        <div class="text-right">
+                            <span class="text-gray-400 text-sm font-semibold">
+                                Wkrótce
+                            </span>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="book-item rounded-xl p-6 opacity-75">
+
+                    <div class="flex items-center justify-between">
+                        <div class="flex items-center space-x-4">
+                            <span class="text-4xl">📚</span>
+                            <div>
+                                <h3 class="font-bold text-lg text-[#073642]">
+                                    #11 - Przygody Tomka Sawyera
+                                </h3>
+                                <p class="text-sm text-gray-600">
+                                    Mark Twain • 1876 • Przygodowa
+                                </p>
+                            </div>
+                        </div>
+                        <div class="text-right">
+                            <span class="text-gray-400 text-sm font-semibold">
+                                Wkrótce
+                            </span>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="book-item rounded-xl p-6 opacity-75">
+
+                    <div class="flex items-center justify-between">
+                        <div class="flex items-center space-x-4">
+                            <span class="text-4xl">📚</span>
+                            <div>
+                                <h3 class="font-bold text-lg text-[#073642]">
+                                    #12 - Podróże Guliwera
+                                </h3>
+                                <p class="text-sm text-gray-600">
+                                    Jonathan Swift • 1726 • Satyra przygodowa
+                                </p>
+                            </div>
+                        </div>
+                        <div class="text-right">
+                            <span class="text-gray-400 text-sm font-semibold">
+                                Wkrótce
+                            </span>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="book-item rounded-xl p-6 opacity-75">
+
+                    <div class="flex items-center justify-between">
+                        <div class="flex items-center space-x-4">
+                            <span class="text-4xl">📚</span>
+                            <div>
+                                <h3 class="font-bold text-lg text-[#073642]">
+                                    #13 - Nowy wspaniały świat
+                                </h3>
+                                <p class="text-sm text-gray-600">
+                                    Aldous Huxley • 1932 • Dystopia
+                                </p>
+                            </div>
+                        </div>
+                        <div class="text-right">
+                            <span class="text-gray-400 text-sm font-semibold">
+                                Wkrótce
+                            </span>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="book-item rounded-xl p-6 opacity-75">
+
+                    <div class="flex items-center justify-between">
+                        <div class="flex items-center space-x-4">
+                            <span class="text-4xl">📚</span>
+                            <div>
+                                <h3 class="font-bold text-lg text-[#073642]">
+                                    #14 - Fahrenheit 451
+                                </h3>
+                                <p class="text-sm text-gray-600">
+                                    Ray Bradbury • 1953 • Dystopia
+                                </p>
+                            </div>
+                        </div>
+                        <div class="text-right">
+                            <span class="text-gray-400 text-sm font-semibold">
+                                Wkrótce
+                            </span>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="book-item rounded-xl p-6 opacity-75">
+
+                    <div class="flex items-center justify-between">
+                        <div class="flex items-center space-x-4">
+                            <span class="text-4xl">📚</span>
+                            <div>
+                                <h3 class="font-bold text-lg text-[#073642]">
+                                    #15 - Folwark zwierzęcy
+                                </h3>
+                                <p class="text-sm text-gray-600">
+                                    George Orwell • 1945 • Satyra polityczna
+                                </p>
+                            </div>
+                        </div>
+                        <div class="text-right">
+                            <span class="text-gray-400 text-sm font-semibold">
+                                Wkrótce
+                            </span>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="book-item rounded-xl p-6 opacity-75">
+
+                    <div class="flex items-center justify-between">
+                        <div class="flex items-center space-x-4">
+                            <span class="text-4xl">📚</span>
+                            <div>
+                                <h3 class="font-bold text-lg text-[#073642]">
+                                    #16 - Diuna
+                                </h3>
+                                <p class="text-sm text-gray-600">
+                                    Frank Herbert • 1965 • Science Fiction
+                                </p>
+                            </div>
+                        </div>
+                        <div class="text-right">
+                            <span class="text-gray-400 text-sm font-semibold">
+                                Wkrótce
+                            </span>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="book-item rounded-xl p-6 opacity-75">
+
+                    <div class="flex items-center justify-between">
+                        <div class="flex items-center space-x-4">
+                            <span class="text-4xl">📚</span>
+                            <div>
+                                <h3 class="font-bold text-lg text-[#073642]">
+                                    #17 - Solaris
+                                </h3>
+                                <p class="text-sm text-gray-600">
+                                    Stanisław Lem • 1961 • Science Fiction filozoficzne
+                                </p>
+                            </div>
+                        </div>
+                        <div class="text-right">
+                            <span class="text-gray-400 text-sm font-semibold">
+                                Wkrótce
+                            </span>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="book-item rounded-xl p-6 opacity-75">
+
+                    <div class="flex items-center justify-between">
+                        <div class="flex items-center space-x-4">
+                            <span class="text-4xl">📚</span>
+                            <div>
+                                <h3 class="font-bold text-lg text-[#073642]">
+                                    #18 - Romeo i Julia
+                                </h3>
+                                <p class="text-sm text-gray-600">
+                                    William Shakespeare • 1597 • Tragedia romantyczna
+                                </p>
+                            </div>
+                        </div>
+                        <div class="text-right">
+                            <span class="text-gray-400 text-sm font-semibold">
+                                Wkrótce
+                            </span>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="book-item rounded-xl p-6 opacity-75">
+
+                    <div class="flex items-center justify-between">
+                        <div class="flex items-center space-x-4">
+                            <span class="text-4xl">📚</span>
+                            <div>
+                                <h3 class="font-bold text-lg text-[#073642]">
+                                    #19 - Jane Eyre
+                                </h3>
+                                <p class="text-sm text-gray-600">
+                                    Charlotte Brontë • 1847 • Romans gotycki
+                                </p>
+                            </div>
+                        </div>
+                        <div class="text-right">
+                            <span class="text-gray-400 text-sm font-semibold">
+                                Wkrótce
+                            </span>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="book-item rounded-xl p-6 opacity-75">
+
+                    <div class="flex items-center justify-between">
+                        <div class="flex items-center space-x-4">
+                            <span class="text-4xl">📚</span>
+                            <div>
+                                <h3 class="font-bold text-lg text-[#073642]">
+                                    #20 - Wichrowe Wzgórza
+                                </h3>
+                                <p class="text-sm text-gray-600">
+                                    Emily Brontë • 1847 • Romans gotycki
+                                </p>
+                            </div>
+                        </div>
+                        <div class="text-right">
+                            <span class="text-gray-400 text-sm font-semibold">
+                                Wkrótce
+                            </span>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="book-item rounded-xl p-6 opacity-75">
+
+                    <div class="flex items-center justify-between">
+                        <div class="flex items-center space-x-4">
+                            <span class="text-4xl">📚</span>
+                            <div>
+                                <h3 class="font-bold text-lg text-[#073642]">
+                                    #21 - Anna Karenina
+                                </h3>
+                                <p class="text-sm text-gray-600">
+                                    Lew Tołstoj • 1877 • Powieść psychologiczna
+                                </p>
+                            </div>
+                        </div>
+                        <div class="text-right">
+                            <span class="text-gray-400 text-sm font-semibold">
+                                Wkrótce
+                            </span>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="book-item rounded-xl p-6 opacity-75">
+
+                    <div class="flex items-center justify-between">
+                        <div class="flex items-center space-x-4">
+                            <span class="text-4xl">📚</span>
+                            <div>
+                                <h3 class="font-bold text-lg text-[#073642]">
+                                    #22 - Wielki Gatsby
+                                </h3>
+                                <p class="text-sm text-gray-600">
+                                    F. Scott Fitzgerald • 1925 • Tragedia amerykańska
+                                </p>
+                            </div>
+                        </div>
+                        <div class="text-right">
+                            <span class="text-gray-400 text-sm font-semibold">
+                                Wkrótce
+                            </span>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="book-item rounded-xl p-6 opacity-75">
+
+                    <div class="flex items-center justify-between">
+                        <div class="flex items-center space-x-4">
+                            <span class="text-4xl">📚</span>
+                            <div>
+                                <h3 class="font-bold text-lg text-[#073642]">
+                                    #23 - Dama Kameliowa
+                                </h3>
+                                <p class="text-sm text-gray-600">
+                                    Aleksander Dumas (syn) • 1848 • Romans tragiczny
+                                </p>
+                            </div>
+                        </div>
+                        <div class="text-right">
+                            <span class="text-gray-400 text-sm font-semibold">
+                                Wkrótce
+                            </span>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="book-item rounded-xl p-6 opacity-75">
+
+                    <div class="flex items-center justify-between">
+                        <div class="flex items-center space-x-4">
+                            <span class="text-4xl">📚</span>
+                            <div>
+                                <h3 class="font-bold text-lg text-[#073642]">
+                                    #24 - Cierpienia młodego Wertera
+                                </h3>
+                                <p class="text-sm text-gray-600">
+                                    Johann Wolfgang von Goethe • 1774 • Powieść epistolarna
+                                </p>
+                            </div>
+                        </div>
+                        <div class="text-right">
+                            <span class="text-gray-400 text-sm font-semibold">
+                                Wkrótce
+                            </span>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="book-item rounded-xl p-6 opacity-75">
+
+                    <div class="flex items-center justify-between">
+                        <div class="flex items-center space-x-4">
+                            <span class="text-4xl">📚</span>
+                            <div>
+                                <h3 class="font-bold text-lg text-[#073642]">
+                                    #25 - Czerwone i czarne
+                                </h3>
+                                <p class="text-sm text-gray-600">
+                                    Stendhal • 1830 • Powieść psychologiczna
+                                </p>
+                            </div>
+                        </div>
+                        <div class="text-right">
+                            <span class="text-gray-400 text-sm font-semibold">
+                                Wkrótce
+                            </span>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="book-item rounded-xl p-6 opacity-75">
+
+                    <div class="flex items-center justify-between">
+                        <div class="flex items-center space-x-4">
+                            <span class="text-4xl">📚</span>
+                            <div>
+                                <h3 class="font-bold text-lg text-[#073642]">
+                                    #26 - Emma
+                                </h3>
+                                <p class="text-sm text-gray-600">
+                                    Jane Austen • 1815 • Komedia romantyczna
+                                </p>
+                            </div>
+                        </div>
+                        <div class="text-right">
+                            <span class="text-gray-400 text-sm font-semibold">
+                                Wkrótce
+                            </span>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="book-item rounded-xl p-6 opacity-75">
+
+                    <div class="flex items-center justify-between">
+                        <div class="flex items-center space-x-4">
+                            <span class="text-4xl">📚</span>
+                            <div>
+                                <h3 class="font-bold text-lg text-[#073642]">
+                                    #27 - Pan Tadeusz
+                                </h3>
+                                <p class="text-sm text-gray-600">
+                                    Adam Mickiewicz • 1834 • Epopeja narodowa
+                                </p>
+                            </div>
+                        </div>
+                        <div class="text-right">
+                            <span class="text-gray-400 text-sm font-semibold">
+                                Wkrótce
+                            </span>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="book-item rounded-xl p-6 opacity-75">
+
+                    <div class="flex items-center justify-between">
+                        <div class="flex items-center space-x-4">
+                            <span class="text-4xl">📚</span>
+                            <div>
+                                <h3 class="font-bold text-lg text-[#073642]">
+                                    #28 - Lalka
+                                </h3>
+                                <p class="text-sm text-gray-600">
+                                    Bolesław Prus • 1890 • Powieść społeczna
+                                </p>
+                            </div>
+                        </div>
+                        <div class="text-right">
+                            <span class="text-gray-400 text-sm font-semibold">
+                                Wkrótce
+                            </span>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="book-item rounded-xl p-6 opacity-75">
+
+                    <div class="flex items-center justify-between">
+                        <div class="flex items-center space-x-4">
+                            <span class="text-4xl">📚</span>
+                            <div>
+                                <h3 class="font-bold text-lg text-[#073642]">
+                                    #29 - Quo Vadis
+                                </h3>
+                                <p class="text-sm text-gray-600">
+                                    Henryk Sienkiewicz • 1896 • Powieść historyczna
+                                </p>
+                            </div>
+                        </div>
+                        <div class="text-right">
+                            <span class="text-gray-400 text-sm font-semibold">
+                                Wkrótce
+                            </span>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="book-item rounded-xl p-6 opacity-75">
+
+                    <div class="flex items-center justify-between">
+                        <div class="flex items-center space-x-4">
+                            <span class="text-4xl">📚</span>
+                            <div>
+                                <h3 class="font-bold text-lg text-[#073642]">
+                                    #30 - Chłopi
+                                </h3>
+                                <p class="text-sm text-gray-600">
+                                    Władysław Reymont • 1904 • Powieść naturalistyczna
+                                </p>
+                            </div>
+                        </div>
+                        <div class="text-right">
+                            <span class="text-gray-400 text-sm font-semibold">
+                                Wkrótce
+                            </span>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="book-item rounded-xl p-6 opacity-75">
+
+                    <div class="flex items-center justify-between">
+                        <div class="flex items-center space-x-4">
+                            <span class="text-4xl">📚</span>
+                            <div>
+                                <h3 class="font-bold text-lg text-[#073642]">
+                                    #31 - Mistrz i Małgorzata
+                                </h3>
+                                <p class="text-sm text-gray-600">
+                                    Michaił Bułhakow • 1967 • Fantastyka filozoficzna
+                                </p>
+                            </div>
+                        </div>
+                        <div class="text-right">
+                            <span class="text-gray-400 text-sm font-semibold">
+                                Wkrótce
+                            </span>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="book-item rounded-xl p-6 opacity-75">
+
+                    <div class="flex items-center justify-between">
+                        <div class="flex items-center space-x-4">
+                            <span class="text-4xl">📚</span>
+                            <div>
+                                <h3 class="font-bold text-lg text-[#073642]">
+                                    #32 - Zabić drozda
+                                </h3>
+                                <p class="text-sm text-gray-600">
+                                    Harper Lee • 1960 • Powieść obyczajowa
+                                </p>
+                            </div>
+                        </div>
+                        <div class="text-right">
+                            <span class="text-gray-400 text-sm font-semibold">
+                                Wkrótce
+                            </span>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="book-item rounded-xl p-6 opacity-75">
+
+                    <div class="flex items-center justify-between">
+                        <div class="flex items-center space-x-4">
+                            <span class="text-4xl">📚</span>
+                            <div>
+                                <h3 class="font-bold text-lg text-[#073642]">
+                                    #33 - Stary człowiek i morze
+                                </h3>
+                                <p class="text-sm text-gray-600">
+                                    Ernest Hemingway • 1952 • Nowela
+                                </p>
+                            </div>
+                        </div>
+                        <div class="text-right">
+                            <span class="text-gray-400 text-sm font-semibold">
+                                Wkrótce
+                            </span>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="book-item rounded-xl p-6 opacity-75">
+
+                    <div class="flex items-center justify-between">
+                        <div class="flex items-center space-x-4">
+                            <span class="text-4xl">📚</span>
+                            <div>
+                                <h3 class="font-bold text-lg text-[#073642]">
+                                    #34 - Sto lat samotności
+                                </h3>
+                                <p class="text-sm text-gray-600">
+                                    Gabriel García Márquez • 1967 • Realizm magiczny
+                                </p>
+                            </div>
+                        </div>
+                        <div class="text-right">
+                            <span class="text-gray-400 text-sm font-semibold">
+                                Wkrótce
+                            </span>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="book-item rounded-xl p-6 opacity-75">
+
+                    <div class="flex items-center justify-between">
+                        <div class="flex items-center space-x-4">
+                            <span class="text-4xl">📚</span>
+                            <div>
+                                <h3 class="font-bold text-lg text-[#073642]">
+                                    #35 - Proces
+                                </h3>
+                                <p class="text-sm text-gray-600">
+                                    Franz Kafka • 1925 • Powieść egzystencjalna
+                                </p>
+                            </div>
+                        </div>
+                        <div class="text-right">
+                            <span class="text-gray-400 text-sm font-semibold">
+                                Wkrótce
+                            </span>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="book-item rounded-xl p-6 opacity-75">
+
+                    <div class="flex items-center justify-between">
+                        <div class="flex items-center space-x-4">
+                            <span class="text-4xl">📚</span>
+                            <div>
+                                <h3 class="font-bold text-lg text-[#073642]">
+                                    #36 - Portret Doriana Graya
+                                </h3>
+                                <p class="text-sm text-gray-600">
+                                    Oscar Wilde • 1890 • Powieść filozoficzna
+                                </p>
+                            </div>
+                        </div>
+                        <div class="text-right">
+                            <span class="text-gray-400 text-sm font-semibold">
+                                Wkrótce
+                            </span>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="book-item rounded-xl p-6 opacity-75">
+
+                    <div class="flex items-center justify-between">
+                        <div class="flex items-center space-x-4">
+                            <span class="text-4xl">📚</span>
+                            <div>
+                                <h3 class="font-bold text-lg text-[#073642]">
+                                    #37 - Don Kichot
+                                </h3>
+                                <p class="text-sm text-gray-600">
+                                    Miguel de Cervantes • 1605 • Powieść przygodowa
+                                </p>
+                            </div>
+                        </div>
+                        <div class="text-right">
+                            <span class="text-gray-400 text-sm font-semibold">
+                                Wkrótce
+                            </span>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </main>
+
+    <!-- FOOTER -->
+    <footer class="bg-[#073642] text-white py-8 mt-16">
+        <div class="container mx-auto px-6 text-center">
+            <p>© 2025 37 Stopni. Wszystkie prawa zastrzeżone.</p>
+        </div>
+    </footer>
+
+    <script>
+        // Animation on load
+        document.addEventListener('DOMContentLoaded', () => {
+            const books = document.querySelectorAll('.book-item');
+            books.forEach((book, index) => {
+                book.style.opacity = '0';
+                book.style.transform = 'translateX(-20px)';
+                setTimeout(() => {
+                    book.style.transition = 'all 0.5s ease';
+                    book.style.opacity = '1';
+                    book.style.transform = 'translateX(0)';
+                }, index * 50);
+            });
+        });
+    </script>
+</body>
+</html>

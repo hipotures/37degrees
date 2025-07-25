@@ -1,0 +1,748 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>37 Stopni - Interaktywna Biblioteka Klasyki</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Lora:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        body {
+            background: linear-gradient(135deg, #FDF6E3 0%, #FAF0D7 100%);
+            color: #073642;
+            font-family: 'Inter', sans-serif;
+            min-height: 100vh;
+        }
+        h1, h2, h3 {
+            font-family: 'Lora', serif;
+        }
+        .book-card {
+            transition: all 0.3s ease;
+            background: rgba(255, 255, 255, 0.7);
+            backdrop-filter: blur(10px);
+        }
+        .book-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+            background: rgba(255, 255, 255, 0.9);
+        }
+        .collection-header {
+            background: linear-gradient(90deg, #268BD2 0%, #2AA198 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .hero-pattern {
+            background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23268BD2' fill-opacity='0.05'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+        }
+    </style>
+</head>
+<body class="antialiased">
+    <!-- HEADER -->
+    <header class="bg-white/80 backdrop-blur-md sticky top-0 z-50 shadow-lg">
+        <nav class="container mx-auto px-6 py-4">
+            <div class="flex items-center justify-between">
+                <div class="flex items-center space-x-3">
+                    <span class="text-3xl">🌡️</span>
+                    <div>
+                        <h1 class="text-2xl font-bold text-[#073642]">37 Stopni</h1>
+                        <p class="text-sm text-gray-600">Gorączka czytania</p>
+                    </div>
+                </div>
+                <div class="flex items-center space-x-6">
+                    <a href="#about" class="text-gray-700 hover:text-[#268BD2] transition-colors">O projekcie</a>
+                    <a href="#collections" class="text-gray-700 hover:text-[#268BD2] transition-colors">Kolekcje</a>
+                    <a href="#contact" class="text-gray-700 hover:text-[#268BD2] transition-colors">Kontakt</a>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <!-- HERO SECTION -->
+    <section class="hero-pattern py-20">
+        <div class="container mx-auto px-6 text-center">
+            <h2 class="text-5xl md:text-6xl font-bold mb-6 collection-header">
+                Interaktywna Biblioteka Klasyki
+            </h2>
+            <p class="text-xl text-gray-700 max-w-3xl mx-auto mb-8">
+                Odkryj klasyczne dzieła literatury światowej w nowoczesnej, interaktywnej formie.
+                Każda książka to osobna podróż pełna fascynujących odkryć i niespodzianek.
+            </p>
+            <div class="flex justify-center space-x-4">
+                <span class="bg-white/80 px-4 py-2 rounded-full text-sm font-semibold">
+                    📚 37 książek
+                </span>
+                <span class="bg-white/80 px-4 py-2 rounded-full text-sm font-semibold">
+                    🎬 1 kolekcji
+                </span>
+                <span class="bg-white/80 px-4 py-2 rounded-full text-sm font-semibold">
+                    🌍 Literatura światowa
+                </span>
+            </div>
+        </div>
+    </section>
+
+    <!-- COLLECTIONS -->
+    <main id="collections" class="container mx-auto px-6 py-12">
+
+        <section class="mb-16">
+            <h3 class="text-3xl font-bold mb-2 text-[#268BD2]">Klasyka Światowa</h3>
+            <p class="text-gray-600 mb-8">Najważniejsze dzieła literatury światowej w formie angażujących TikToków</p>
+            
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+
+                <a href="books/0017_little_prince.html" class="book-card rounded-xl p-6 block hover:no-underline">
+                    <div class="text-center mb-4">
+                        <span class="text-6xl block mb-3">📚</span>
+                        <span class="inline-block bg-[#268BD2]/10 text-[#268BD2] text-xs px-2 py-1 rounded-full">
+                            #01
+                        </span>
+                    </div>
+                    <h4 class="font-bold text-lg mb-1 text-[#073642]">Mały Książę</h4>
+                    <p class="text-sm text-gray-600 mb-2">Antoine de Saint-Exupéry</p>
+                    <div class="flex justify-between text-xs text-gray-500">
+                        <span>Filozoficzna baśń</span>
+                        <span>1943</span>
+                    </div>
+                </a>
+
+                <a href="books/0021_nineteen_eighty_four.html" class="book-card rounded-xl p-6 block hover:no-underline">
+                    <div class="text-center mb-4">
+                        <span class="text-6xl block mb-3">📚</span>
+                        <span class="inline-block bg-[#268BD2]/10 text-[#268BD2] text-xs px-2 py-1 rounded-full">
+                            #02
+                        </span>
+                    </div>
+                    <h4 class="font-bold text-lg mb-1 text-[#073642]">Rok 1984</h4>
+                    <p class="text-sm text-gray-600 mb-2">George Orwell</p>
+                    <div class="flex justify-between text-xs text-gray-500">
+                        <span>Dystopia</span>
+                        <span>1949</span>
+                    </div>
+                </a>
+
+                <a href="books/0018_lord_of_the_rings.html" class="book-card rounded-xl p-6 block hover:no-underline">
+                    <div class="text-center mb-4">
+                        <span class="text-6xl block mb-3">📚</span>
+                        <span class="inline-block bg-[#268BD2]/10 text-[#268BD2] text-xs px-2 py-1 rounded-full">
+                            #03
+                        </span>
+                    </div>
+                    <h4 class="font-bold text-lg mb-1 text-[#073642]">Władca Pierścieni</h4>
+                    <p class="text-sm text-gray-600 mb-2">J.R.R. Tolkien</p>
+                    <div class="flex justify-between text-xs text-gray-500">
+                        <span>Fantasy</span>
+                        <span>1954</span>
+                    </div>
+                </a>
+
+                <a href="books/0026_pride_and_prejudice.html" class="book-card rounded-xl p-6 block hover:no-underline">
+                    <div class="text-center mb-4">
+                        <span class="text-6xl block mb-3">📚</span>
+                        <span class="inline-block bg-[#268BD2]/10 text-[#268BD2] text-xs px-2 py-1 rounded-full">
+                            #04
+                        </span>
+                    </div>
+                    <h4 class="font-bold text-lg mb-1 text-[#073642]">Duma i uprzedzenie</h4>
+                    <p class="text-sm text-gray-600 mb-2">Jane Austen</p>
+                    <div class="flex justify-between text-xs text-gray-500">
+                        <span>Romans</span>
+                        <span>1813</span>
+                    </div>
+                </a>
+
+                <a href="books/0012_harry_potter.html" class="book-card rounded-xl p-6 block hover:no-underline">
+                    <div class="text-center mb-4">
+                        <span class="text-6xl block mb-3">📚</span>
+                        <span class="inline-block bg-[#268BD2]/10 text-[#268BD2] text-xs px-2 py-1 rounded-full">
+                            #05
+                        </span>
+                    </div>
+                    <h4 class="font-bold text-lg mb-1 text-[#073642]">Harry Potter i Kamień Filozoficzny</h4>
+                    <p class="text-sm text-gray-600 mb-2">J.K. Rowling</p>
+                    <div class="flex justify-between text-xs text-gray-500">
+                        <span>Fantasy młodzieżowe</span>
+                        <span>1997</span>
+                    </div>
+                </a>
+
+                <a href="books/0013_hobbit.html" class="book-card rounded-xl p-6 block hover:no-underline">
+                    <div class="text-center mb-4">
+                        <span class="text-6xl block mb-3">📚</span>
+                        <span class="inline-block bg-[#268BD2]/10 text-[#268BD2] text-xs px-2 py-1 rounded-full">
+                            #06
+                        </span>
+                    </div>
+                    <h4 class="font-bold text-lg mb-1 text-[#073642]">Hobbit</h4>
+                    <p class="text-sm text-gray-600 mb-2">J.R.R. Tolkien</p>
+                    <div class="flex justify-between text-xs text-gray-500">
+                        <span>Fantasy</span>
+                        <span>1937</span>
+                    </div>
+                </a>
+
+                <a href="books/0001_alice_in_wonderland.html" class="book-card rounded-xl p-6 block hover:no-underline">
+                    <div class="text-center mb-4">
+                        <span class="text-6xl block mb-3">📚</span>
+                        <span class="inline-block bg-[#268BD2]/10 text-[#268BD2] text-xs px-2 py-1 rounded-full">
+                            #07
+                        </span>
+                    </div>
+                    <h4 class="font-bold text-lg mb-1 text-[#073642]">Alicja w Krainie Czarów</h4>
+                    <p class="text-sm text-gray-600 mb-2">Lewis Carroll</p>
+                    <div class="flex justify-between text-xs text-gray-500">
+                        <span>Fantasy</span>
+                        <span>1865</span>
+                    </div>
+                </a>
+
+                <a href="books/0020_narnia.html" class="book-card rounded-xl p-6 block hover:no-underline">
+                    <div class="text-center mb-4">
+                        <span class="text-6xl block mb-3">📚</span>
+                        <span class="inline-block bg-[#268BD2]/10 text-[#268BD2] text-xs px-2 py-1 rounded-full">
+                            #08
+                        </span>
+                    </div>
+                    <h4 class="font-bold text-lg mb-1 text-[#073642]">Opowieści z Narnii: Lew, czarownica i stara szafa</h4>
+                    <p class="text-sm text-gray-600 mb-2">C.S. Lewis</p>
+                    <div class="flex justify-between text-xs text-gray-500">
+                        <span>Fantasy</span>
+                        <span>1950</span>
+                    </div>
+                </a>
+
+                <a href="books/0036_treasure_island.html" class="book-card rounded-xl p-6 block hover:no-underline">
+                    <div class="text-center mb-4">
+                        <span class="text-6xl block mb-3">📚</span>
+                        <span class="inline-block bg-[#268BD2]/10 text-[#268BD2] text-xs px-2 py-1 rounded-full">
+                            #09
+                        </span>
+                    </div>
+                    <h4 class="font-bold text-lg mb-1 text-[#073642]">Wyspa skarbów</h4>
+                    <p class="text-sm text-gray-600 mb-2">Robert Louis Stevenson</p>
+                    <div class="flex justify-between text-xs text-gray-500">
+                        <span>Przygodowa</span>
+                        <span>1883</span>
+                    </div>
+                </a>
+
+                <a href="books/0029_robinson_crusoe.html" class="book-card rounded-xl p-6 block hover:no-underline">
+                    <div class="text-center mb-4">
+                        <span class="text-6xl block mb-3">📚</span>
+                        <span class="inline-block bg-[#268BD2]/10 text-[#268BD2] text-xs px-2 py-1 rounded-full">
+                            #10
+                        </span>
+                    </div>
+                    <h4 class="font-bold text-lg mb-1 text-[#073642]">Robinson Crusoe</h4>
+                    <p class="text-sm text-gray-600 mb-2">Daniel Defoe</p>
+                    <div class="flex justify-between text-xs text-gray-500">
+                        <span>Przygodowa</span>
+                        <span>1719</span>
+                    </div>
+                </a>
+
+                <a href="books/0035_tom_sawyer.html" class="book-card rounded-xl p-6 block hover:no-underline">
+                    <div class="text-center mb-4">
+                        <span class="text-6xl block mb-3">📚</span>
+                        <span class="inline-block bg-[#268BD2]/10 text-[#268BD2] text-xs px-2 py-1 rounded-full">
+                            #11
+                        </span>
+                    </div>
+                    <h4 class="font-bold text-lg mb-1 text-[#073642]">Przygody Tomka Sawyera</h4>
+                    <p class="text-sm text-gray-600 mb-2">Mark Twain</p>
+                    <div class="flex justify-between text-xs text-gray-500">
+                        <span>Przygodowa</span>
+                        <span>1876</span>
+                    </div>
+                </a>
+
+                <a href="books/0011_gullivers_travels.html" class="book-card rounded-xl p-6 block hover:no-underline">
+                    <div class="text-center mb-4">
+                        <span class="text-6xl block mb-3">📚</span>
+                        <span class="inline-block bg-[#268BD2]/10 text-[#268BD2] text-xs px-2 py-1 rounded-full">
+                            #12
+                        </span>
+                    </div>
+                    <h4 class="font-bold text-lg mb-1 text-[#073642]">Podróże Guliwera</h4>
+                    <p class="text-sm text-gray-600 mb-2">Jonathan Swift</p>
+                    <div class="flex justify-between text-xs text-gray-500">
+                        <span>Satyra przygodowa</span>
+                        <span>1726</span>
+                    </div>
+                </a>
+
+                <a href="books/0004_brave_new_world.html" class="book-card rounded-xl p-6 block hover:no-underline">
+                    <div class="text-center mb-4">
+                        <span class="text-6xl block mb-3">📚</span>
+                        <span class="inline-block bg-[#268BD2]/10 text-[#268BD2] text-xs px-2 py-1 rounded-full">
+                            #13
+                        </span>
+                    </div>
+                    <h4 class="font-bold text-lg mb-1 text-[#073642]">Nowy wspaniały świat</h4>
+                    <p class="text-sm text-gray-600 mb-2">Aldous Huxley</p>
+                    <div class="flex justify-between text-xs text-gray-500">
+                        <span>Dystopia</span>
+                        <span>1932</span>
+                    </div>
+                </a>
+
+                <a href="books/0009_fahrenheit_451.html" class="book-card rounded-xl p-6 block hover:no-underline">
+                    <div class="text-center mb-4">
+                        <span class="text-6xl block mb-3">📚</span>
+                        <span class="inline-block bg-[#268BD2]/10 text-[#268BD2] text-xs px-2 py-1 rounded-full">
+                            #14
+                        </span>
+                    </div>
+                    <h4 class="font-bold text-lg mb-1 text-[#073642]">Fahrenheit 451</h4>
+                    <p class="text-sm text-gray-600 mb-2">Ray Bradbury</p>
+                    <div class="flex justify-between text-xs text-gray-500">
+                        <span>Dystopia</span>
+                        <span>1953</span>
+                    </div>
+                </a>
+
+                <a href="books/0002_animal_farm.html" class="book-card rounded-xl p-6 block hover:no-underline">
+                    <div class="text-center mb-4">
+                        <span class="text-6xl block mb-3">📚</span>
+                        <span class="inline-block bg-[#268BD2]/10 text-[#268BD2] text-xs px-2 py-1 rounded-full">
+                            #15
+                        </span>
+                    </div>
+                    <h4 class="font-bold text-lg mb-1 text-[#073642]">Folwark zwierzęcy</h4>
+                    <p class="text-sm text-gray-600 mb-2">George Orwell</p>
+                    <div class="flex justify-between text-xs text-gray-500">
+                        <span>Satyra polityczna</span>
+                        <span>1945</span>
+                    </div>
+                </a>
+
+                <a href="books/0007_dune.html" class="book-card rounded-xl p-6 block hover:no-underline">
+                    <div class="text-center mb-4">
+                        <span class="text-6xl block mb-3">📚</span>
+                        <span class="inline-block bg-[#268BD2]/10 text-[#268BD2] text-xs px-2 py-1 rounded-full">
+                            #16
+                        </span>
+                    </div>
+                    <h4 class="font-bold text-lg mb-1 text-[#073642]">Diuna</h4>
+                    <p class="text-sm text-gray-600 mb-2">Frank Herbert</p>
+                    <div class="flex justify-between text-xs text-gray-500">
+                        <span>Science Fiction</span>
+                        <span>1965</span>
+                    </div>
+                </a>
+
+                <a href="books/0031_solaris.html" class="book-card rounded-xl p-6 block hover:no-underline">
+                    <div class="text-center mb-4">
+                        <span class="text-6xl block mb-3">📚</span>
+                        <span class="inline-block bg-[#268BD2]/10 text-[#268BD2] text-xs px-2 py-1 rounded-full">
+                            #17
+                        </span>
+                    </div>
+                    <h4 class="font-bold text-lg mb-1 text-[#073642]">Solaris</h4>
+                    <p class="text-sm text-gray-600 mb-2">Stanisław Lem</p>
+                    <div class="flex justify-between text-xs text-gray-500">
+                        <span>Science Fiction filozoficzne</span>
+                        <span>1961</span>
+                    </div>
+                </a>
+
+                <a href="books/0030_romeo_and_juliet.html" class="book-card rounded-xl p-6 block hover:no-underline">
+                    <div class="text-center mb-4">
+                        <span class="text-6xl block mb-3">📚</span>
+                        <span class="inline-block bg-[#268BD2]/10 text-[#268BD2] text-xs px-2 py-1 rounded-full">
+                            #18
+                        </span>
+                    </div>
+                    <h4 class="font-bold text-lg mb-1 text-[#073642]">Romeo i Julia</h4>
+                    <p class="text-sm text-gray-600 mb-2">William Shakespeare</p>
+                    <div class="flex justify-between text-xs text-gray-500">
+                        <span>Tragedia romantyczna</span>
+                        <span>1597</span>
+                    </div>
+                </a>
+
+                <a href="books/0014_jane_eyre.html" class="book-card rounded-xl p-6 block hover:no-underline">
+                    <div class="text-center mb-4">
+                        <span class="text-6xl block mb-3">📚</span>
+                        <span class="inline-block bg-[#268BD2]/10 text-[#268BD2] text-xs px-2 py-1 rounded-full">
+                            #19
+                        </span>
+                    </div>
+                    <h4 class="font-bold text-lg mb-1 text-[#073642]">Jane Eyre</h4>
+                    <p class="text-sm text-gray-600 mb-2">Charlotte Brontë</p>
+                    <div class="flex justify-between text-xs text-gray-500">
+                        <span>Romans gotycki</span>
+                        <span>1847</span>
+                    </div>
+                </a>
+
+                <a href="books/0037_wuthering_heights.html" class="book-card rounded-xl p-6 block hover:no-underline">
+                    <div class="text-center mb-4">
+                        <span class="text-6xl block mb-3">📚</span>
+                        <span class="inline-block bg-[#268BD2]/10 text-[#268BD2] text-xs px-2 py-1 rounded-full">
+                            #20
+                        </span>
+                    </div>
+                    <h4 class="font-bold text-lg mb-1 text-[#073642]">Wichrowe Wzgórza</h4>
+                    <p class="text-sm text-gray-600 mb-2">Emily Brontë</p>
+                    <div class="flex justify-between text-xs text-gray-500">
+                        <span>Romans gotycki</span>
+                        <span>1847</span>
+                    </div>
+                </a>
+
+                <a href="books/0003_anna_karenina.html" class="book-card rounded-xl p-6 block hover:no-underline">
+                    <div class="text-center mb-4">
+                        <span class="text-6xl block mb-3">📚</span>
+                        <span class="inline-block bg-[#268BD2]/10 text-[#268BD2] text-xs px-2 py-1 rounded-full">
+                            #21
+                        </span>
+                    </div>
+                    <h4 class="font-bold text-lg mb-1 text-[#073642]">Anna Karenina</h4>
+                    <p class="text-sm text-gray-600 mb-2">Lew Tołstoj</p>
+                    <div class="flex justify-between text-xs text-gray-500">
+                        <span>Powieść psychologiczna</span>
+                        <span>1877</span>
+                    </div>
+                </a>
+
+                <a href="books/0010_great_gatsby.html" class="book-card rounded-xl p-6 block hover:no-underline">
+                    <div class="text-center mb-4">
+                        <span class="text-6xl block mb-3">📚</span>
+                        <span class="inline-block bg-[#268BD2]/10 text-[#268BD2] text-xs px-2 py-1 rounded-full">
+                            #22
+                        </span>
+                    </div>
+                    <h4 class="font-bold text-lg mb-1 text-[#073642]">Wielki Gatsby</h4>
+                    <p class="text-sm text-gray-600 mb-2">F. Scott Fitzgerald</p>
+                    <div class="flex justify-between text-xs text-gray-500">
+                        <span>Tragedia amerykańska</span>
+                        <span>1925</span>
+                    </div>
+                </a>
+
+                <a href="books/0015_lady_of_the_camellias.html" class="book-card rounded-xl p-6 block hover:no-underline">
+                    <div class="text-center mb-4">
+                        <span class="text-6xl block mb-3">📚</span>
+                        <span class="inline-block bg-[#268BD2]/10 text-[#268BD2] text-xs px-2 py-1 rounded-full">
+                            #23
+                        </span>
+                    </div>
+                    <h4 class="font-bold text-lg mb-1 text-[#073642]">Dama Kameliowa</h4>
+                    <p class="text-sm text-gray-600 mb-2">Aleksander Dumas (syn)</p>
+                    <div class="flex justify-between text-xs text-gray-500">
+                        <span>Romans tragiczny</span>
+                        <span>1848</span>
+                    </div>
+                </a>
+
+                <a href="books/0032_sorrows_of_young_werther.html" class="book-card rounded-xl p-6 block hover:no-underline">
+                    <div class="text-center mb-4">
+                        <span class="text-6xl block mb-3">📚</span>
+                        <span class="inline-block bg-[#268BD2]/10 text-[#268BD2] text-xs px-2 py-1 rounded-full">
+                            #24
+                        </span>
+                    </div>
+                    <h4 class="font-bold text-lg mb-1 text-[#073642]">Cierpienia młodego Wertera</h4>
+                    <p class="text-sm text-gray-600 mb-2">Johann Wolfgang von Goethe</p>
+                    <div class="flex justify-between text-xs text-gray-500">
+                        <span>Powieść epistolarna</span>
+                        <span>1774</span>
+                    </div>
+                </a>
+
+                <a href="books/0028_red_and_black.html" class="book-card rounded-xl p-6 block hover:no-underline">
+                    <div class="text-center mb-4">
+                        <span class="text-6xl block mb-3">📚</span>
+                        <span class="inline-block bg-[#268BD2]/10 text-[#268BD2] text-xs px-2 py-1 rounded-full">
+                            #25
+                        </span>
+                    </div>
+                    <h4 class="font-bold text-lg mb-1 text-[#073642]">Czerwone i czarne</h4>
+                    <p class="text-sm text-gray-600 mb-2">Stendhal</p>
+                    <div class="flex justify-between text-xs text-gray-500">
+                        <span>Powieść psychologiczna</span>
+                        <span>1830</span>
+                    </div>
+                </a>
+
+                <a href="books/0008_emma.html" class="book-card rounded-xl p-6 block hover:no-underline">
+                    <div class="text-center mb-4">
+                        <span class="text-6xl block mb-3">📚</span>
+                        <span class="inline-block bg-[#268BD2]/10 text-[#268BD2] text-xs px-2 py-1 rounded-full">
+                            #26
+                        </span>
+                    </div>
+                    <h4 class="font-bold text-lg mb-1 text-[#073642]">Emma</h4>
+                    <p class="text-sm text-gray-600 mb-2">Jane Austen</p>
+                    <div class="flex justify-between text-xs text-gray-500">
+                        <span>Komedia romantyczna</span>
+                        <span>1815</span>
+                    </div>
+                </a>
+
+                <a href="books/0024_pan_tadeusz.html" class="book-card rounded-xl p-6 block hover:no-underline">
+                    <div class="text-center mb-4">
+                        <span class="text-6xl block mb-3">📚</span>
+                        <span class="inline-block bg-[#268BD2]/10 text-[#268BD2] text-xs px-2 py-1 rounded-full">
+                            #27
+                        </span>
+                    </div>
+                    <h4 class="font-bold text-lg mb-1 text-[#073642]">Pan Tadeusz</h4>
+                    <p class="text-sm text-gray-600 mb-2">Adam Mickiewicz</p>
+                    <div class="flex justify-between text-xs text-gray-500">
+                        <span>Epopeja narodowa</span>
+                        <span>1834</span>
+                    </div>
+                </a>
+
+                <a href="books/0016_lalka.html" class="book-card rounded-xl p-6 block hover:no-underline">
+                    <div class="text-center mb-4">
+                        <span class="text-6xl block mb-3">📚</span>
+                        <span class="inline-block bg-[#268BD2]/10 text-[#268BD2] text-xs px-2 py-1 rounded-full">
+                            #28
+                        </span>
+                    </div>
+                    <h4 class="font-bold text-lg mb-1 text-[#073642]">Lalka</h4>
+                    <p class="text-sm text-gray-600 mb-2">Bolesław Prus</p>
+                    <div class="flex justify-between text-xs text-gray-500">
+                        <span>Powieść społeczna</span>
+                        <span>1890</span>
+                    </div>
+                </a>
+
+                <a href="books/0027_quo_vadis.html" class="book-card rounded-xl p-6 block hover:no-underline">
+                    <div class="text-center mb-4">
+                        <span class="text-6xl block mb-3">📚</span>
+                        <span class="inline-block bg-[#268BD2]/10 text-[#268BD2] text-xs px-2 py-1 rounded-full">
+                            #29
+                        </span>
+                    </div>
+                    <h4 class="font-bold text-lg mb-1 text-[#073642]">Quo Vadis</h4>
+                    <p class="text-sm text-gray-600 mb-2">Henryk Sienkiewicz</p>
+                    <div class="flex justify-between text-xs text-gray-500">
+                        <span>Powieść historyczna</span>
+                        <span>1896</span>
+                    </div>
+                </a>
+
+                <a href="books/0005_chlopi.html" class="book-card rounded-xl p-6 block hover:no-underline">
+                    <div class="text-center mb-4">
+                        <span class="text-6xl block mb-3">📚</span>
+                        <span class="inline-block bg-[#268BD2]/10 text-[#268BD2] text-xs px-2 py-1 rounded-full">
+                            #30
+                        </span>
+                    </div>
+                    <h4 class="font-bold text-lg mb-1 text-[#073642]">Chłopi</h4>
+                    <p class="text-sm text-gray-600 mb-2">Władysław Reymont</p>
+                    <div class="flex justify-between text-xs text-gray-500">
+                        <span>Powieść naturalistyczna</span>
+                        <span>1904</span>
+                    </div>
+                </a>
+
+                <a href="books/0019_master_and_margarita.html" class="book-card rounded-xl p-6 block hover:no-underline">
+                    <div class="text-center mb-4">
+                        <span class="text-6xl block mb-3">📚</span>
+                        <span class="inline-block bg-[#268BD2]/10 text-[#268BD2] text-xs px-2 py-1 rounded-full">
+                            #31
+                        </span>
+                    </div>
+                    <h4 class="font-bold text-lg mb-1 text-[#073642]">Mistrz i Małgorzata</h4>
+                    <p class="text-sm text-gray-600 mb-2">Michaił Bułhakow</p>
+                    <div class="flex justify-between text-xs text-gray-500">
+                        <span>Fantastyka filozoficzna</span>
+                        <span>1967</span>
+                    </div>
+                </a>
+
+                <a href="books/0034_to_kill_a_mockingbird.html" class="book-card rounded-xl p-6 block hover:no-underline">
+                    <div class="text-center mb-4">
+                        <span class="text-6xl block mb-3">📚</span>
+                        <span class="inline-block bg-[#268BD2]/10 text-[#268BD2] text-xs px-2 py-1 rounded-full">
+                            #32
+                        </span>
+                    </div>
+                    <h4 class="font-bold text-lg mb-1 text-[#073642]">Zabić drozda</h4>
+                    <p class="text-sm text-gray-600 mb-2">Harper Lee</p>
+                    <div class="flex justify-between text-xs text-gray-500">
+                        <span>Powieść obyczajowa</span>
+                        <span>1960</span>
+                    </div>
+                </a>
+
+                <a href="books/0022_old_man_and_the_sea.html" class="book-card rounded-xl p-6 block hover:no-underline">
+                    <div class="text-center mb-4">
+                        <span class="text-6xl block mb-3">📚</span>
+                        <span class="inline-block bg-[#268BD2]/10 text-[#268BD2] text-xs px-2 py-1 rounded-full">
+                            #33
+                        </span>
+                    </div>
+                    <h4 class="font-bold text-lg mb-1 text-[#073642]">Stary człowiek i morze</h4>
+                    <p class="text-sm text-gray-600 mb-2">Ernest Hemingway</p>
+                    <div class="flex justify-between text-xs text-gray-500">
+                        <span>Nowela</span>
+                        <span>1952</span>
+                    </div>
+                </a>
+
+                <a href="books/0023_one_hundred_years_of_solitude.html" class="book-card rounded-xl p-6 block hover:no-underline">
+                    <div class="text-center mb-4">
+                        <span class="text-6xl block mb-3">📚</span>
+                        <span class="inline-block bg-[#268BD2]/10 text-[#268BD2] text-xs px-2 py-1 rounded-full">
+                            #34
+                        </span>
+                    </div>
+                    <h4 class="font-bold text-lg mb-1 text-[#073642]">Sto lat samotności</h4>
+                    <p class="text-sm text-gray-600 mb-2">Gabriel García Márquez</p>
+                    <div class="flex justify-between text-xs text-gray-500">
+                        <span>Realizm magiczny</span>
+                        <span>1967</span>
+                    </div>
+                </a>
+
+                <a href="books/0033_the_trial.html" class="book-card rounded-xl p-6 block hover:no-underline">
+                    <div class="text-center mb-4">
+                        <span class="text-6xl block mb-3">📚</span>
+                        <span class="inline-block bg-[#268BD2]/10 text-[#268BD2] text-xs px-2 py-1 rounded-full">
+                            #35
+                        </span>
+                    </div>
+                    <h4 class="font-bold text-lg mb-1 text-[#073642]">Proces</h4>
+                    <p class="text-sm text-gray-600 mb-2">Franz Kafka</p>
+                    <div class="flex justify-between text-xs text-gray-500">
+                        <span>Powieść egzystencjalna</span>
+                        <span>1925</span>
+                    </div>
+                </a>
+
+                <a href="books/0025_portrait_of_dorian_gray.html" class="book-card rounded-xl p-6 block hover:no-underline">
+                    <div class="text-center mb-4">
+                        <span class="text-6xl block mb-3">📚</span>
+                        <span class="inline-block bg-[#268BD2]/10 text-[#268BD2] text-xs px-2 py-1 rounded-full">
+                            #36
+                        </span>
+                    </div>
+                    <h4 class="font-bold text-lg mb-1 text-[#073642]">Portret Doriana Graya</h4>
+                    <p class="text-sm text-gray-600 mb-2">Oscar Wilde</p>
+                    <div class="flex justify-between text-xs text-gray-500">
+                        <span>Powieść filozoficzna</span>
+                        <span>1890</span>
+                    </div>
+                </a>
+
+                <a href="books/0006_don_quixote.html" class="book-card rounded-xl p-6 block hover:no-underline">
+                    <div class="text-center mb-4">
+                        <span class="text-6xl block mb-3">📚</span>
+                        <span class="inline-block bg-[#268BD2]/10 text-[#268BD2] text-xs px-2 py-1 rounded-full">
+                            #37
+                        </span>
+                    </div>
+                    <h4 class="font-bold text-lg mb-1 text-[#073642]">Don Kichot</h4>
+                    <p class="text-sm text-gray-600 mb-2">Miguel de Cervantes</p>
+                    <div class="flex justify-between text-xs text-gray-500">
+                        <span>Powieść przygodowa</span>
+                        <span>1605</span>
+                    </div>
+                </a>
+
+            </div>
+        </section>
+
+    </main>
+
+    <!-- ABOUT SECTION -->
+    <section id="about" class="bg-white/80 py-16">
+        <div class="container mx-auto px-6">
+            <h3 class="text-3xl font-bold mb-8 text-center text-[#268BD2]">O projekcie</h3>
+            <div class="max-w-4xl mx-auto text-lg text-gray-700 space-y-4">
+                <p>
+                    <strong>37 Stopni</strong> to innowacyjny projekt edukacyjny, który łączy klasyczną literaturę
+                    z nowoczesnymi technologiami. Każda książka została przeprojektowana jako interaktywne doświadczenie,
+                    które angażuje młodych czytelników i pomaga im odkryć bogactwo literatury światowej.
+                </p>
+                <p>
+                    Nazwa projektu nawiązuje do "gorączki czytania" - pasji, która rozpala umysły i serca
+                    kolejnych pokoleń czytelników. Poprzez krótkie, dynamiczne materiały wideo na TikToku
+                    zachęcamy młodzież do sięgnięcia po klasyczne dzieła.
+                </p>
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mt-8">
+                    <div class="text-center">
+                        <span class="text-4xl mb-2 block">🎯</span>
+                        <h4 class="font-bold mb-1">Cel</h4>
+                        <p class="text-sm">Przybliżenie klasyki młodemu pokoleniu</p>
+                    </div>
+                    <div class="text-center">
+                        <span class="text-4xl mb-2 block">🎨</span>
+                        <h4 class="font-bold mb-1">Forma</h4>
+                        <p class="text-sm">Interaktywne strony i krótkie filmy</p>
+                    </div>
+                    <div class="text-center">
+                        <span class="text-4xl mb-2 block">👥</span>
+                        <h4 class="font-bold mb-1">Odbiorcy</h4>
+                        <p class="text-sm">Młodzież w wieku 10-20 lat</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer id="contact" class="bg-[#073642] text-white py-12">
+        <div class="container mx-auto px-6">
+            <div class="text-center">
+                <h3 class="text-2xl font-bold mb-4">Kontakt</h3>
+                <p class="mb-6">Śledź nas na TikToku: <strong>@37stopni</strong></p>
+                <div class="flex justify-center space-x-6 text-3xl">
+                    <a href="#" class="hover:text-[#268BD2] transition-colors">📱</a>
+                    <a href="#" class="hover:text-[#268BD2] transition-colors">📧</a>
+                    <a href="#" class="hover:text-[#268BD2] transition-colors">🎬</a>
+                </div>
+                <p class="mt-8 text-sm text-gray-400">
+                    © 2025 37 Stopni. Wszystkie prawa zastrzeżone.
+                </p>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // Smooth scrolling for anchor links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {{
+            anchor.addEventListener('click', function (e) {{
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {{
+                    target.scrollIntoView({{
+                        behavior: 'smooth',
+                        block: 'start'
+                    }});
+                }}
+            }});
+        }});
+
+        // Add animation on scroll
+        const observerOptions = {{
+            threshold: 0.1,
+            rootMargin: '0px 0px -100px 0px'
+        }};
+
+        const observer = new IntersectionObserver((entries) => {{
+            entries.forEach(entry => {{
+                if (entry.isIntersecting) {{
+                    entry.target.style.opacity = '1';
+                    entry.target.style.transform = 'translateY(0)';
+                }}
+            }});
+        }}, observerOptions);
+
+        // Observe all book cards
+        document.querySelectorAll('.book-card').forEach(card => {{
+            card.style.opacity = '0';
+            card.style.transform = 'translateY(20px)';
+            card.style.transition = 'all 0.6s ease';
+            observer.observe(card);
+        }});
+    </script>
+</body>
+</html>

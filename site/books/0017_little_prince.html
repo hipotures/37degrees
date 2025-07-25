@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mały Książę - Interaktywna Odkrywcza Podróż</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Lora:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        body {
+            background-color: #FDF6E3;
+            color: #073642;
+            font-family: 'Inter', sans-serif;
+        }
+        h1, h2, h3 {
+            font-family: 'Lora', serif;
+        }
+        .nav-link {
+            transition: color 0.3s, border-bottom-color 0.3s;
+            border-bottom: 2px solid transparent;
+        }
+        .nav-link:hover, .nav-link.active {
+            color: #B58900;
+            border-bottom-color: #B58900;
+        }
+        .planet-section {
+            scroll-margin-top: 80px;
+        }
+        .chart-container {
+            position: relative;
+            width: 100%;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+            height: 300px;
+        }
+        .modal-backdrop {
+            transition: opacity 0.3s ease-in-out;
+        }
+        .modal-content {
+            transition: transform 0.3s ease-in-out;
+        }
+    </style>
+</head>
+<body class="antialiased">
+
+    <!-- HEADER -->
+    <header class="bg-[#FDF6E3]/80 backdrop-blur-md sticky top-0 z-50 shadow-sm">
+        <nav class="container mx-auto px-6 py-4">
+            <div class="flex items-center justify-between">
+                <div class="text-xl font-semibold text-[#073642]">
+                    <span class="font-serif">Mały Książę</span> 📚
+                </div>
+                <div class="hidden md:flex items-center space-x-8">
+                    <a href="#author" class="nav-link text-lg">Autor</a>
+                    <a href="#genesis" class="nav-link text-lg">Geneza</a>
+                    <a href="#author" class="nav-link text-lg">Autor</a>
+<a href="#genesis" class="nav-link text-lg">Geneza</a>
+<a href="#symbols" class="nav-link text-lg">Symbole</a>
+<a href="#stats" class="nav-link text-lg">Statystyki</a>
+<a href="../index.html" class="nav-link text-lg">📚 Wszystkie książki</a>
+                </div>
+                <div class="md:hidden">
+                    <button id="menu-btn" class="text-2xl">☰</button>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <main class="container mx-auto px-6 py-12">
+        
+        <!-- HERO SECTION -->
+        <section id="hero" class="text-center mb-24">
+            <h1 class="text-5xl md:text-6xl font-bold text-[#268BD2] mb-4">
+                Odkrywcza Podróż po Świecie Mały Książęa
+            </h1>
+            <p class="text-xl max-w-3xl mx-auto text-gray-600">
+                Wyrusz w interaktywną podróż, aby odkryć tajemnice i ponadczasową mądrość tego klasycznego dzieła Filozoficzna baśń z 1943 roku.
+            </p>
+        </section>
+
+        <!-- AUTHOR SECTION -->
+        <section id="author" class="planet-section mb-24">
+            <h2 class="text-4xl font-bold text-center mb-12 text-[#268BD2]">
+                ✍️ Planeta Autora: Antoine de Saint-Exupéry
+            </h2>
+            <div class="bg-white/50 p-8 rounded-xl shadow-lg">
+                <p class="text-lg mb-8 text-center max-w-4xl mx-auto">
+                    Antoine de Saint-Exupéry - twórca niezapomnianego dzieła, które wciąż inspiruje kolejne pokolenia.
+                </p>
+                <div id="timeline" class="relative">
+                    <!-- Timeline będzie wygenerowany przez JavaScript -->
+                </div>
+            </div>
+        </section>
+
+        <!-- CHARACTER/SYMBOL SECTION -->
+        <section id="symbols" class="planet-section mb-24">
+            <h2 class="text-4xl font-bold text-center mb-12 text-[#268BD2]">
+                ✨ Planeta Symboli: Ukryte Znaczenia
+            </h2>
+            <p class="text-lg mb-12 text-center max-w-4xl mx-auto">
+                Odkryj kluczowe symbole i postacie, które kształtują przesłanie książki.
+            </p>
+            <div id="character-grid" class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+                <!-- Karty postaci będą wygenerowane przez JavaScript -->
+            </div>
+        </section>
+
+    </main>
+
+    <!-- CHARACTER MODAL -->
+    <div id="character-modal" class="modal-backdrop fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center p-4 z-50 opacity-0 pointer-events-none">
+        <div class="modal-content bg-[#FDF6E3] rounded-xl shadow-2xl max-w-lg w-full p-8 relative transform scale-95">
+            <button id="close-modal-btn" class="absolute top-4 right-4 text-2xl font-bold">&times;</button>
+            <div id="modal-body"></div>
+        </div>
+    </div>
+
+    <script>
+        // DANE DO UZUPEŁNIENIA
+        const timelineData = [{"year": "1943", "event": "Publikacja 'Mały Książę'"}]
+            { year: 'RRRR', event: 'Wydarzenie 1' },
+            { year: 'RRRR', event: 'Wydarzenie 2' },
+            // Dodaj więcej wydarzeń
+        ];
+
+        const characterData = [{"id": "theme_1", "name": "Temat 1", "emoji": "📖", "color": "bg-blue-200", "description": "Czy wiesz, że najważniejsze jest niewidoczne dla oczu?"}, {"id": "theme_2", "name": "Temat 2", "emoji": "📖", "color": "bg-purple-200", "description": "Mały Książę - książka, która zmieni Twoje spojrzenie na świat"}, {"id": "theme_3", "name": "Temat 3", "emoji": "📖", "color": "bg-green-200", "description": "Pilot rozbija się na Saharze i spotyka tajemniczego chłopca z innej planety"}, {"id": "theme_4", "name": "Temat 4", "emoji": "📖", "color": "bg-yellow-200", "description": "Mały Książę opowiada o swojej podróży po planetach i ludziach, których spotkał"}, {"id": "theme_5", "name": "Temat 5", "emoji": "📖", "color": "bg-pink-200", "description": "Każda planeta to metafora dorosłości - król, próżny, bankier... Czy dorośli zapomnieli, co ważne?"}, {"id": "theme_6", "name": "Temat 6", "emoji": "📖", "color": "bg-indigo-200", "description": "Dobrze widzi się tylko sercem. Najważniejsze jest niewidoczne dla oczu"}, {"id": "theme_7", "name": "Temat 7", "emoji": "📖", "color": "bg-red-200", "description": "Ta krótka książka nauczy Cię więcej o życiu niż niejeden podręcznik filozofii"}, {"id": "theme_8", "name": "Temat 8", "emoji": "📖", "color": "bg-gray-200", "description": "Przeczytaj i odkryj, co Twoja róża znaczy dla Ciebie"}]
+            { 
+                id: 'character1',
+                name: 'Postać 1',
+                emoji: '🎭',
+                color: 'bg-blue-200',
+                description: 'Opis postaci i jej symboliki.'
+            },
+            // Dodaj więcej postaci
+        ];
+
+        // TIMELINE GENERATOR
+        document.addEventListener('DOMContentLoaded', function() {
+            const timelineContainer = document.getElementById('timeline');
+            timelineContainer.innerHTML = `<div class="absolute left-1/2 h-full w-0.5 bg-[#B58900]/50 -translate-x-1/2"></div>`;
+            
+            timelineData.forEach((item, index) => {
+                const isLeft = index % 2 === 0;
+                const timelineItem = `
+                    <div class="mb-8 flex justify-between items-center w-full ${isLeft ? 'flex-row-reverse' : ''}">
+                        <div class="order-1 w-5/12"></div>
+                        <div class="z-20 flex items-center order-1 bg-[#B58900] shadow-xl w-10 h-10 rounded-full">
+                            <h1 class="mx-auto font-semibold text-xs text-white">${item.year}</h1>
+                        </div>
+                        <div class="order-1 bg-white rounded-lg shadow-xl w-5/12 px-6 py-4">
+                            <p class="text-sm text-gray-800">${item.event}</p>
+                        </div>
+                    </div>
+                `;
+                timelineContainer.innerHTML += timelineItem;
+            });
+
+            // CHARACTER GRID GENERATOR
+            const characterGrid = document.getElementById('character-grid');
+            characterData.forEach(char => {
+                const card = document.createElement('div');
+                card.className = `p-6 rounded-xl shadow-lg text-center cursor-pointer transition-transform transform hover:scale-105 ${char.color}`;
+                card.innerHTML = `<div class="text-6xl mb-4">${char.emoji}</div><h3 class="text-xl font-semibold">${char.name}</h3>`;
+                card.addEventListener('click', () => openModal(char));
+                characterGrid.appendChild(card);
+            });
+
+            // MODAL FUNCTIONS
+            const modal = document.getElementById('character-modal');
+            const modalBody = document.getElementById('modal-body');
+            const closeModalBtn = document.getElementById('close-modal-btn');
+
+            function openModal(character) {
+                modalBody.innerHTML = `
+                    <div class="text-center">
+                        <div class="text-8xl mb-4">${character.emoji}</div>
+                        <h2 class="text-3xl font-bold mb-2 text-[#268BD2]">${character.name}</h2>
+                        <p class="text-lg">${character.description}</p>
+                    </div>
+                `;
+                modal.classList.remove('opacity-0', 'pointer-events-none');
+                modal.querySelector('.modal-content').classList.remove('scale-95');
+            }
+
+            function closeModal() {
+                modal.classList.add('opacity-0', 'pointer-events-none');
+                modal.querySelector('.modal-content').classList.add('scale-95');
+            }
+
+            closeModalBtn.addEventListener('click', closeModal);
+            modal.addEventListener('click', (e) => {
+                if (e.target === modal) closeModal();
+            });
+        });
+    </script>
+</body>
+</html>

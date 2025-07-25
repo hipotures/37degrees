@@ -4,9 +4,11 @@ Perplexity AI API integration for research
 
 import os
 import json
+import yaml
 import requests
 from typing import Dict, List, Any
 from datetime import datetime
+from pathlib import Path
 from rich.console import Console
 
 from .base import (
@@ -17,6 +19,7 @@ from .base import (
     ResearchAPIError,
     ResearchLimitError
 )
+from .citation_db import CitationDatabase
 
 console = Console()
 
@@ -41,8 +44,11 @@ class PerplexityProvider(BaseResearchProvider):
             console.print("[yellow]Warning: Perplexity API key not configured[/yellow]")
         
         self.base_url = "https://api.perplexity.ai"
-        self.model = config.get('model', 'sonar-medium-online')
+        self.model = config.get('model', 'sonar')
         self.max_tokens = config.get('max_tokens', 2000)
+        
+        # Load prompts from YAML
+        self._load_prompts()
     
     def test_connection(self) -> bool:
         """Test if Perplexity API is accessible"""
@@ -100,7 +106,7 @@ class PerplexityProvider(BaseResearchProvider):
                         "messages": [
                             {
                                 "role": "system",
-                                "content": f"You are a literary research assistant. Provide interesting facts and insights about books in {query.language}. Focus on fascinating, lesser-known details that would interest young readers (10-20 years old)."
+                                "content": self._get_system_prompt(query.language)
                             },
                             {
                                 "role": "user",
@@ -122,17 +128,30 @@ class PerplexityProvider(BaseResearchProvider):
                 data = response.json()
                 content = data['choices'][0]['message']['content']
                 
+                # Extract citations if available
+                citations = data.get('citations', [])
+                search_results = data.get('search_results', [])
+                
+                # Get first citation URL if available
+                url = None
+                if citations and len(citations) > 0:
+                    url = citations[0]
+                elif search_results and len(search_results) > 0:
+                    url = search_results[0].get('url')
+                
                 # Parse response into structured result
                 result = ResearchResult(
                     title=f"{topic.capitalize()} - {query.book_title}",
                     content=content,
                     source="Perplexity AI",
-                    url=None,
+                    url=url,
                     date=datetime.now(),
                     relevance_score=0.9,
                     metadata={
                         'model': self.model,
-                        'topic': topic
+                        'topic': topic,
+                        'citations': citations,
+                        'search_results': search_results
                     }
                 )
                 results.append(result)
@@ -158,71 +177,44 @@ class PerplexityProvider(BaseResearchProvider):
             }
         )
     
+    def _load_prompts(self):
+        """Load prompts from YAML configuration"""
+        prompts_file = Path("config/research_prompts.yaml")
+        if prompts_file.exists():
+            with open(prompts_file, 'r', encoding='utf-8') as f:
+                self.prompts_config = yaml.safe_load(f)
+        else:
+            console.print("[yellow]Warning: research_prompts.yaml not found, using defaults[/yellow]")
+            self.prompts_config = {}
+    
+    def _get_system_prompt(self, language: str) -> str:
+        """Get system prompt from config"""
+        system_prompt_template = self.prompts_config.get('perplexity', {}).get('system_prompt', '')
+        
+        if not system_prompt_template:
+            # Default system prompt if not in config
+            return f"You are a literary research assistant. Provide interesting facts and insights about books in {language}. Focus on fascinating, lesser-known details that would interest young readers (10-20 years old)."
+        
+        return system_prompt_template.format(language=language)
+    
     def _build_prompt(self, query: ResearchQuery, topic: str) -> str:
         """Build research prompt for specific topic"""
-        prompts = {
-            "ciekawostki": f"""
-Znajdź 3-5 fascynujących ciekawostek o książce "{query.book_title}" autorstwa {query.author}.
-Szukaj informacji o:
-- Nietypowych okolicznościach powstania książki
-- Zaskakujących faktach z życia autora związanych z książką
-- Rekordach lub wyjątkowych osiągnięciach książki
-- Ciekawych historiach związanych z publikacją lub recepcją
-Podaj konkretne fakty z datami i liczbami gdzie to możliwe.
-""",
-            
-            "symbolika": f"""
-Wyjaśnij główne symbole i metafory w książce "{query.book_title}" autorstwa {query.author}.
-Opisz:
-- Najważniejsze symbole i ich znaczenie
-- Ukryte znaczenia i alegorie
-- Jak symbole łączą się z przesłaniem książki
-- Przykłady konkretnych scen gdzie symbole są kluczowe
-Wyjaśnij w sposób zrozumiały dla młodych czytelników.
-""",
-            
-            "kontekst historyczny": f"""
-Opisz kontekst historyczny książki "{query.book_title}" autorstwa {query.author}.
-Uwzględnij:
-- W jakich czasach powstała książka i dlaczego to ważne
-- Jakie wydarzenia historyczne wpłynęły na treść
-- Jak książka odzwierciedla swoją epokę
-- Czy książka wpłynęła na historię lub społeczeństwo
-Podaj konkretne daty i wydarzenia.
-""",
-            
-            "adaptacje": f"""
-Wymień i opisz adaptacje książki "{query.book_title}" autorstwa {query.author}.
-Szukaj informacji o:
-- Adaptacjach filmowych (daty, reżyserzy, aktorzy)
-- Serialach telewizyjnych
-- Adaptacjach teatralnych
-- Grach komputerowych
-- Komiksach lub mangach
-- Innych formach adaptacji
-Podaj konkretne tytuły, daty i twórców.
-""",
-            
-            "cytaty": f"""
-Znajdź 3-5 najsłynniejszych cytatów z książki "{query.book_title}" autorstwa {query.author}.
-Dla każdego cytatu:
-- Podaj dokładny cytat w języku polskim
-- Wyjaśnij kontekst i znaczenie
-- Opisz dlaczego cytat stał się słynny
-- Jak jest używany współcześnie
-Wybierz cytaty, które najbardziej przemawiają do młodych ludzi.
-""",
-            
-            "wpływ kulturowy": f"""
-Opisz wpływ kulturowy książki "{query.book_title}" autorstwa {query.author}.
-Uwzględnij:
-- Jak książka zmieniła literaturę lub kulturę
-- Wpływ na inne dzieła i twórców
-- Obecność w popkulturze
-- Memy, odniesienia w internecie
-- Współczesne nawiązania
-Podaj konkretne przykłady.
-"""
-        }
+        # Get prompts from config
+        perplexity_prompts = self.prompts_config.get('perplexity', {}).get('topics', {})
         
-        return prompts.get(topic, f"Opowiedz o {topic} w kontekście książki '{query.book_title}' autorstwa {query.author}.")
+        # Normalize topic name (replace spaces with underscores)
+        topic_key = topic.replace(' ', '_')
+        
+        # Get prompt template
+        prompt_template = perplexity_prompts.get(topic_key, perplexity_prompts.get('default', ''))
+        
+        # If no template found, use old default
+        if not prompt_template:
+            return f"Opowiedz o {topic} w kontekście książki '{query.book_title}' autorstwa {query.author}."
+        
+        # Format the prompt with book details
+        return prompt_template.format(
+            book_title=query.book_title,
+            author=query.author,
+            topic=topic
+        )

@@ -1,0 +1,125 @@
+# Research prompts for different providers and topics
+# These prompts are used to generate book research content
+
+perplexity:
+  system_prompt: |
+    You are a literary research assistant. Search for information in any language from sources worldwide. 
+    Focus on content relevance and quality regardless of the source language. 
+    Present your findings in {language} for young readers (10-20 years old).
+  
+  topics:
+    ciekawostki: |
+      Find 3-5 fascinating facts about the book "{book_title}" by {author}.
+      IMPORTANT: Search BOTH international sources (English, French, German) AND Polish sources.
+      Aim for a mix: include 2-3 Polish sources AND 2-3 international sources.
+      Look for information about:
+      - Unusual circumstances of the book's creation
+      - Surprising facts about the author related to the book
+      - Records or exceptional achievements of the book
+      - Interesting stories about publication or reception
+      Include specific facts with dates and numbers where possible.
+      Write your response in Polish language, but search in multiple languages.
+    
+    symbolika: |
+      Explain the main symbols and metaphors in the book "{book_title}" by {author}.
+      IMPORTANT: Balance your sources - use BOTH Polish sources AND international literary analysis.
+      This gives both local and global perspectives.
+      Cover:
+      - Most important symbols and their meanings
+      - Hidden meanings and allegories
+      - How symbols connect to the book's message
+      - Examples of specific scenes where symbols are crucial
+      Write your response in Polish language for young readers, but search in multiple languages.
+    
+    kontekst_historyczny: |
+      Describe the historical context of the book "{book_title}" by {author}.
+      IMPORTANT: Use a balanced mix of sources - include Polish perspectives AND international historical analysis.
+      Search in English, Polish, and the author's native language.
+      Look for information about:
+      - When the book was written and why this timing matters
+      - Historical events that influenced the content
+      - How the book reflects its era
+      - Whether the book influenced history or society
+      Include specific dates and events. Write your response in Polish language, but search in multiple languages.
+    
+    adaptacje: |
+      Search for film, TV, theater, game and other adaptations of "{book_title}" by {author}.
+      IMPORTANT: Search in BOTH English-language sources AND Polish-language sources.
+      I need information from international databases AND Polish sources.
+      Look for:
+      - Film adaptations (dates, directors, actors) 
+      - TV series
+      - Theater adaptations
+      - Video games
+      - Comics or manga
+      Write your response in Polish language, but search in multiple languages.
+    
+    cytaty: |
+      Find 3-5 most famous quotes from the book "{book_title}" by {author}.
+      IMPORTANT: Search BOTH Polish sources (for Polish translations) AND international sources (for original/famous versions).
+      Compare how quotes are known in different cultures.
+      For each quote:
+      - Provide the exact quote in Polish (as known by Polish readers)
+      - Explain context and meaning
+      - Describe why the quote became famous
+      - How it's used in modern times
+      Choose quotes that resonate with young people. Write your response in Polish language, but search in multiple languages.
+    
+    wpływ_kulturowy: |
+      Describe the cultural impact of the book "{book_title}" by {author}.
+      IMPORTANT: Research BOTH local Polish impact (using Polish sources) AND global cultural influence (using international sources).
+      Aim for 50/50 balance between Polish and international perspectives.
+      Look for:
+      - How the book changed literature or culture globally
+      - Specific impact on Polish culture, education, and readers
+      - Influence on other works and creators internationally
+      - Presence in Polish and global pop culture
+      - Memes, internet references (especially Polish ones)
+      - Modern references and adaptations
+      Include specific examples. Write your response in Polish language, but search in multiple languages.
+    
+    default: |
+      Research {topic} in the context of the book '{book_title}' by {author}.
+      IMPORTANT: Search for sources in multiple languages including Polish and English.
+      Write your response in Polish language, but search in multiple languages.
+
+# Google search prompts can be different
+google:
+  # Google doesn't use system prompts, just search queries
+  topics:
+    ciekawostki: '"{book_title}" {author} ciekawostki fakty'
+    symbolika: '"{book_title}" {author} symbolika znaczenie metafory'
+    kontekst_historyczny: '"{book_title}" {author} kontekst historyczny epoka'
+    adaptacje: '"{book_title}" {author} adaptacje filmy serial teatr'
+    cytaty: '"{book_title}" {author} cytaty słynne fragmenty'
+    wpływ_kulturowy: '"{book_title}" {author} wpływ kulturowy popkultura'
+    default: '"{book_title}" {author} {topic}'
+
+# Configuration for topic processing
+topics:
+  # List of topics to research
+  default_topics:
+    - ciekawostki
+    - symbolika
+    - kontekst_historyczny
+    - adaptacje
+    - cytaty
+    - wpływ_kulturowy
+  
+  # Topic display names for review.md
+  display_names:
+    ciekawostki: "Fascynujące ciekawostki"
+    symbolika: "Symbolika i znaczenia"
+    kontekst_historyczny: "Kontekst historyczny"
+    adaptacje: "Adaptacje i inspiracje"
+    cytaty: "Najsłynniejsze cytaty"
+    wpływ_kulturowy: "Wpływ na kulturę"
+  
+  # Icons for each topic
+  icons:
+    ciekawostki: "🎯"
+    symbolika: "🔮"
+    kontekst_historyczny: "📜"
+    adaptacje: "🎬"
+    cytaty: "💬"
+    wpływ_kulturowy: "🌍"

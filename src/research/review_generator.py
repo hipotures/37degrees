@@ -10,6 +10,7 @@ from rich.progress import Progress, SpinnerColumn, TextColumn
 
 from .base import ResearchQuery, ResearchResponse
 from .registry import registry
+from .citation_db import CitationDatabase
 
 console = Console()
 
@@ -81,6 +82,9 @@ class ReviewGenerator:
             console.print(f"[red]Provider '{self.provider_name}' is not available[/red]")
             return False
         
+        # Initialize citation database
+        citation_db = CitationDatabase(book_yaml_path)
+        
         # Perform research
         try:
             with Progress(
@@ -98,14 +102,28 @@ class ReviewGenerator:
                 
                 progress.update(task, completed=True)
             
-            # Format and save review
-            review_content = self._format_review(response, book_data)
+            # Create research session
+            topics = list(set(result.metadata.get('topic', '') for result in response.results if result.metadata))
+            session_id = citation_db.create_research_session(
+                provider=self.provider_name,
+                book_title=book_title,
+                author=author,
+                topics=topics,
+                metadata={'model': response.metadata.get('model', 'unknown')}
+            )
+            
+            # Process and save citations
+            citation_map = self._process_citations(response, citation_db, session_id)
+            
+            # Format and save review with citation IDs
+            review_content = self._format_review_with_citations(response, book_data, citation_map, citation_db)
             
             with open(output_path, 'w', encoding='utf-8') as f:
                 f.write(review_content)
             
             console.print(f"[green]✓ Review saved to: {output_path}[/green]")
             console.print(f"[dim]Found {len(response.results)} research results[/dim]")
+            console.print(f"[dim]Saved {len(citation_map)} unique citations to database[/dim]")
             
             return True
             
@@ -218,10 +236,34 @@ class ReviewGenerator:
             f"- **Data wyszukiwania:** {response.timestamp.strftime('%Y-%m-%d %H:%M:%S')}",
         ])
         
+        # Add citations if available
+        all_citations = []
+        all_search_results = []
+        
+        for result in response.results:
+            if result.metadata:
+                citations = result.metadata.get('citations', [])
+                search_results = result.metadata.get('search_results', [])
+                if citations:
+                    all_citations.extend(citations)
+                if search_results:
+                    all_search_results.extend(search_results)
+        
+        if all_citations:
+            lines.append("\n### 🔗 Źródła cytowane:")
+            for i, citation in enumerate(set(all_citations), 1):
+                lines.append(f"{i}. {citation}")
+        
+        if all_search_results:
+            lines.append("\n### 🌐 Wyniki wyszukiwania:")
+            for result in all_search_results[:5]:  # Show first 5
+                lines.append(f"- [{result.get('title', 'Link')}]({result.get('url', '#')})")
+        
         if response.metadata:
-            lines.append("- **Metadane:**")
+            lines.append("\n- **Metadane:**")
             for key, value in response.metadata.items():
-                lines.append(f"  - {key}: {value}")
+                if key not in ['citations', 'search_results']:  # Skip these as we show them above
+                    lines.append(f"  - {key}: {value}")
         
         lines.extend([
             "",
@@ -231,3 +273,125 @@ class ReviewGenerator:
         ])
         
         return "\n".join(lines)
+    
+    def _process_citations(self, response: ResearchResponse, citation_db: CitationDatabase, 
+                          session_id: int) -> Dict[str, int]:
+        """Process all citations from response and save to database
+        
+        Returns:
+            Dictionary mapping URL to citation ID
+        """
+        citation_map = {}
+        citation_count = 0
+        
+        # Process all results
+        for result in response.results:
+            if not result.metadata:
+                continue
+                
+            topic = result.metadata.get('topic', 'general')
+            
+            # Process direct citations
+            citations = result.metadata.get('citations', [])
+            for url in citations:
+                if url not in citation_map:
+                    citation_id = citation_db.add_citation(
+                        url=url,
+                        provider=self.provider_name,
+                        topic=topic,
+                        relevance_score=0.9
+                    )
+                    citation_map[url] = citation_id
+                    citation_count += 1
+            
+            # Process search results
+            search_results = result.metadata.get('search_results', [])
+            for sr in search_results:
+                url = sr.get('url')
+                if url and url not in citation_map:
+                    citation_id = citation_db.add_citation(
+                        url=url,
+                        title=sr.get('title'),
+                        date=sr.get('date'),
+                        last_updated=sr.get('last_updated'),
+                        provider=self.provider_name,
+                        topic=topic,
+                        relevance_score=0.8
+                    )
+                    citation_map[url] = citation_id
+                    citation_count += 1
+        
+        # Update session with total citations
+        citation_db.update_session_citations(session_id, citation_count)
+        
+        return citation_map
+    
+    def _format_review_with_citations(self, response: ResearchResponse, book_data: Dict[str, Any],
+                                     citation_map: Dict[str, int], citation_db: CitationDatabase) -> str:
+        """Format review with citation IDs instead of URLs
+        
+        Args:
+            response: Research response
+            book_data: Book YAML data
+            citation_map: Map of URL to citation ID
+            citation_db: Citation database instance
+            
+        Returns:
+            Formatted markdown content with [url=ID] citations
+        """
+        # First format the regular review
+        review_content = self._format_review(response, book_data)
+        
+        # Replace all URLs with [url=ID] format
+        for url, citation_id in citation_map.items():
+            # Replace various markdown link formats
+            # [text](url) -> text [url=ID]
+            review_content = review_content.replace(f"]({url})", f"] [url={citation_id}]")
+            # Direct URL mentions
+            review_content = review_content.replace(f" {url} ", f" [url={citation_id}] ")
+            review_content = review_content.replace(f" {url}.", f" [url={citation_id}].")
+            review_content = review_content.replace(f" {url},", f" [url={citation_id}],")
+        
+        # Remove the old citation sections (we'll add a new one)
+        lines = review_content.split('\n')
+        new_lines = []
+        skip_section = False
+        
+        for line in lines:
+            if line.startswith("### 🔗 Źródła cytowane:") or line.startswith("### 🌐 Wyniki wyszukiwania:"):
+                skip_section = True
+                continue
+            elif skip_section and (line.startswith("###") or line.startswith("##") or line.strip() == "---"):
+                skip_section = False
+            
+            if not skip_section:
+                new_lines.append(line)
+        
+        # Add bibliography section with all citations
+        bibliography_lines = [
+            "",
+            "### 📚 Bibliografia",
+            ""
+        ]
+        
+        # Get all citations used
+        all_citations = citation_db.get_all_citations()
+        for citation in all_citations:
+            title = citation['title'] or citation['domain'] or "Link"
+            date_str = f" ({citation['date']})" if citation['date'] else ""
+            bibliography_lines.append(f"[{citation['id']}] {citation['url']} - \"{title}\"{date_str}")
+        
+        # Find where to insert bibliography (before the metadata section)
+        insert_index = -1
+        for i, line in enumerate(new_lines):
+            if "## 📊 Informacje o wyszukiwaniu" in line:
+                insert_index = i
+                break
+        
+        if insert_index > 0:
+            new_lines = new_lines[:insert_index] + bibliography_lines + [""] + new_lines[insert_index:]
+        else:
+            # If metadata section not found, add at the end
+            new_lines.extend(bibliography_lines)
+        
+        return '\n'.join(new_lines)
