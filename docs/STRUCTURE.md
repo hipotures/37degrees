@@ -67,7 +67,9 @@ The project has been reorganized to better support multimedia content for each b
 │           ├── scene-description-template.json
 │           ├── narrative-prompt-generator.md
 │           ├── flexible-prompt-generator.md
-│           └── podcast-image-prompt-generator.md
+│           ├── podcast-image-prompt-generator.md
+│           ├── atmospheric-moments-generator.md
+│           └── emotional-journey-generator.md
 │
 ├── output/                    # Generated videos
 │

@@ -1,35 +1,35 @@
 {
   "sceneDescription": {
-    "title": "Deadly Duel with Israel Hands",
+    "title": "First Sight of Treasure Island",
     "setting": {
-      "time": "1750s, afternoon",
-      "location": "Deck of the drifting Hispaniola",
-      "weather": "Bright sun, ship rolling in swells"
+      "time": "1750s, dawn",
+      "location": "Deck of the Hispaniola, approaching island",
+      "weather": "misty morning, sun breaking through"
     },
     "characters": [
       {
-        "appearance": "Grizzled pirate, 40s, wounded leg, murderous eyes",
-        "clothing": "Bloodstained shirt, torn breeches",
-        "position": "Advancing across tilting deck",
-        "action": "Raising knife to throw at boy in rigging"
+        "appearance": "ship's crew and officers, mixed group",
+        "clothing": "various sailor and officer attire",
+        "position": "scattered along ship's rail",
+        "action": "all staring at island, some pointing, mixed expressions of greed and fear"
       },
       {
-        "appearance": "Boy, 13 years old, desperate courage",
-        "clothing": "Torn clothes, one shoe missing",
-        "position": "Climbing ship's rigging",
-        "action": "Scrambling higher while looking back"
+        "appearance": "boy, 13 years old, conflicted expression",
+        "clothing": "sailor's clothes",
+        "position": "at rail among others",
+        "action": "gripping rigging, staring at island with dread"
       }
     ],
     "scene": {
-      "mainElements": "Life-or-death chase up ship's rigging as wounded pirate pursues boy with deadly intent",
-      "details": "Complex web of ropes and rigging, deck tilting with waves, blood trail from pirate's wounded leg, boy's pistols visible at his belt, sun glinting off raised knife blade, loose sails flapping, seabirds circling overhead",
-      "background": "Open ocean, distant island visible, no other ships in sight",
-      "atmosphere": "Mortal danger, cat and mouse in ship's rigging, boy's coming of age through violence"
+      "mainElements": "mysterious tropical island emerging from morning mist, ship approaching destiny, crew's mixed reactions to their goal",
+      "details": "island's two hills visible through mist, strange tropical vegetation, circling seabirds, anchor being prepared, morning sun turning mist golden, skeleton-like dead trees visible on shore, no text or letters visible",
+      "background": "open ocean behind ship, cloudless sky above",
+      "atmosphere": "ominous beauty of island, destination finally reached, tension between excitement and foreboding"
     },
     "composition": {
-      "cameraAngle": "Dramatic upward angle showing both figures",
-      "focus": "Pirate's raised knife and boy's terrified determination",
-      "depth": "Pirate on deck foreground, boy climbing rigging middle height, sky and circling birds background"
+      "cameraAngle": "wide shot from ship's deck",
+      "focus": "island dominating horizon with crew silhouetted at rail",
+      "depth": "crew at rail foreground, misty waters middle, island background"
     }
   }
 }

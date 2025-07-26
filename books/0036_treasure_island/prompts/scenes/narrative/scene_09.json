@@ -1,41 +1,41 @@
 {
   "sceneDescription": {
-    "title": "Jim Overhears the Conspiracy in the Apple Barrel",
+    "title": "Planning the Voyage",
     "setting": {
-      "time": "1750s, night",
-      "location": "Below deck, the Hispaniola at sea",
-      "weather": "Calm seas, starlit night above"
+      "time": "1750s, afternoon",
+      "location": "Doctor Livesey's study, English country house",
+      "weather": "sunny day visible through windows"
     },
     "characters": [
       {
-        "appearance": "Boy, 13 years old, frightened expression",
-        "clothing": "Simple sailor's clothes",
-        "position": "Hidden inside large apple barrel",
-        "action": "Crouched down, hand over mouth to stifle breathing"
+        "appearance": "dignified doctor, 40s, intelligent face, trim build",
+        "clothing": "gentleman's coat, white wig, spectacles",
+        "position": "seated at desk examining something",
+        "action": "studying intently through magnifying glass"
       },
       {
-        "appearance": "One-legged man, 40s, animated gestures",
-        "clothing": "Loose shirt, sailor's breeches",
-        "position": "Leaning against crates near barrel",
-        "action": "Speaking in low, conspiratorial tone"
+        "appearance": "portly squire, 50s, red-faced, excited demeanor",
+        "clothing": "fine velvet coat, powdered wig slightly askew",
+        "position": "pacing behind doctor",
+        "action": "gesturing enthusiastically, barely containing excitement"
       },
       {
-        "appearance": "Two rough sailors, scarred faces",
-        "clothing": "Worn sailor garb",
-        "position": "Sitting on crates listening",
-        "action": "Nodding and whispering responses"
+        "appearance": "boy, 13 years old, neat and clean",
+        "clothing": "new clothes - proper jacket and breeches",
+        "position": "standing respectfully to side",
+        "action": "watching adults with mixture of excitement and worry"
       }
     ],
     "scene": {
-      "mainElements": "Dark ship's hold with boy accidentally trapped in barrel overhearing mutinous plot, conspirators unaware of witness",
-      "details": "Large wooden apple barrel with boy barely visible through gap in lid, swinging lantern casting moving shadows, coiled ropes and supply crates creating maze-like space, rats scurrying in corners, creaking ship timbers, glimpse of boy's terrified eye through barrel gap",
-      "background": "Deep shadows of ship's hold, stairs leading to upper deck",
-      "atmosphere": "Claustrophobic terror, betrayal revealed, danger of discovery, pivotal moment of lost innocence"
+      "mainElements": "elegant study with medical books and instruments, three figures planning adventure, sense of respectable men entering dangerous waters",
+      "details": "leather-bound books on shelves, globe on stand, medical instruments on side table, afternoon light streaming through tall windows, desk covered with navigation tools, no text or letters visible",
+      "background": "english countryside visible through windows, peaceful contrast to coming adventure",
+      "atmosphere": "excitement of planning mixed with gravity of undertaking, boy witnessing adult decision-making, threshold between civilized and dangerous worlds"
     },
     "composition": {
-      "cameraAngle": "Low angle showing barrel interior and conspirators beyond",
-      "focus": "Boy's frightened eye visible through barrel gap",
-      "depth": "Extreme close-up of eye in foreground, conspirators in lantern light middle ground, dark hold receding to background"
+      "cameraAngle": "wide shot encompassing entire study",
+      "focus": "doctor's concentrated examination with excited squire behind",
+      "depth": "desk scene foreground, boy observing middle, bookshelves and windows background"
     }
   }
 }

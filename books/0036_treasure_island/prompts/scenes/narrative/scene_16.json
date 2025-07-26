@@ -1,41 +1,35 @@
 {
   "sceneDescription": {
-    "title": "Following the Treasure Map Through the Jungle",
+    "title": "Ben Gunn's Wild Appearance",
     "setting": {
-      "time": "1750s, midday",
-      "location": "Dense jungle interior, Treasure Island",
-      "weather": "Humid heat under canopy"
+      "time": "1750s, late afternoon",
+      "location": "Jungle path, Treasure Island",
+      "weather": "dappled sunlight through canopy"
     },
     "characters": [
       {
-        "appearance": "One-legged man leading, 40s, intense focus",
-        "clothing": "Shirt soaked with sweat, hat protecting from sun",
-        "position": "At front of group with map",
-        "action": "Comparing map to landmarks while directing others"
+        "appearance": "wild man, 30s, sun-darkened skin, emaciated",
+        "clothing": "tatters of old sail cloth, goatskin pieces",
+        "position": "crouching behind tree, then emerging",
+        "action": "approaching cautiously, hands raised peacefully"
       },
       {
-        "appearance": "Five rough pirates, various ages, carrying tools",
-        "clothing": "Mixed sailor garb, armed",
-        "position": "Spread out behind leader",
-        "action": "Hacking through vegetation with cutlasses and shovels"
-      },
-      {
-        "appearance": "Boy, 13 years old, watchful",
-        "clothing": "Simple clothes, hands bound loosely",
-        "position": "In middle of group as prisoner",
-        "action": "Memorizing route while pretending submission"
+        "appearance": "boy, 13 years old, startled",
+        "clothing": "sailor clothes, pistol in belt",
+        "position": "frozen on jungle path",
+        "action": "hand moving toward pistol, then stopping"
       }
     ],
     "scene": {
-      "mainElements": "Treasure hunting party pushing through virgin jungle following cryptic map directions, mix of excitement and danger",
-      "details": "Ancient map in Silver's hands with markings, compass glinting, machetes clearing vines, disturbed parrots fleeing overhead, massive tree roots to climb over, sweat-soaked clothing, shovels and picks for digging, everyone alert for landmarks",
-      "background": "Impenetrable jungle walls, glimpses of blue sky above",
-      "atmosphere": "Fevered treasure hunt, greed driving men forward, hostile environment, building tension"
+      "mainElements": "shocking encounter in dense jungle, marooned sailor revealed as more animal than man, boy's first independent adventure on island",
+      "details": "thick tropical vegetation, vines hanging down, strange birds calling, wild man's makeshift clothes, his beard matted and long, scars from survival, hollow cheeks showing starvation, no text or letters visible",
+      "background": "dense jungle in all directions, distant sound of surf",
+      "atmosphere": "surreal meeting between civilization and wildness, boy's bravery tested, mystery of island deepening"
     },
     "composition": {
-      "cameraAngle": "Following shot from behind group",
-      "focus": "Silver with map leading the desperate search",
-      "depth": "Back of treasure party in foreground, Silver with map middle ground, jungle path ahead background"
+      "cameraAngle": "medium shot through jungle foliage",
+      "focus": "moment of encounter between wild man and boy",
+      "depth": "jungle framing foreground, characters middle, more jungle background"
     }
   }
 }

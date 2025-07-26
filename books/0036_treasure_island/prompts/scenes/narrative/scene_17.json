@@ -1,41 +1,35 @@
 {
   "sceneDescription": {
-    "title": "The Skeleton Pointer",
+    "title": "The Pirate Flag Rises",
     "setting": {
-      "time": "1750s, late afternoon",
-      "location": "Hilltop clearing, Treasure Island",
-      "weather": "Long shadows, golden hour light"
+      "time": "1750s, morning",
+      "location": "View of Hispaniola from island shore",
+      "weather": "clear day, bright sun"
     },
     "characters": [
       {
-        "appearance": "Group of six pirates, fearful expressions",
-        "clothing": "Weathered sailor clothes, armed",
-        "position": "Gathered around grim discovery",
-        "action": "Staring down at ground with superstitious dread"
+        "appearance": "distant figures on ship deck",
+        "clothing": "pirate garb",
+        "position": "visible on ship's deck",
+        "action": "raising flag, celebrating"
       },
       {
-        "appearance": "One-legged man, 40s, calculating look",
-        "clothing": "Blue coat, leaning on crutch",
-        "position": "Studying the scene analytically",
-        "action": "Using crutch to point along skeleton's direction"
-      },
-      {
-        "appearance": "Boy, 13 years old, disturbed but curious",
-        "clothing": "Worn clothes",
-        "position": "At edge of group",
-        "action": "Following skeleton's pointing arm with his eyes"
+        "appearance": "boy, 13 years old, watching from shore",
+        "clothing": "torn sailor clothes from jungle trek",
+        "position": "hidden behind rocks on beach",
+        "action": "watching with clenched fists"
       }
     ],
     "scene": {
-      "mainElements": "Human skeleton arranged as compass pointer on hilltop, pirates realizing dead man's bones mark treasure route",
-      "details": "Bleached skeleton laid out precisely with arm bones extended pointing direction, moss and vines growing through ribs, compass being checked against bones, pirates making superstitious gestures, late sun casting long skeleton shadow that also points way",
-      "background": "View across island jungle canopy, distant peaks visible",
-      "atmosphere": "Macabre discovery, pirates' superstitious fear, death marking way to treasure"
+      "mainElements": "pirate flag being raised on captured ship, black flag with skull visible against sky, boy witnessing pirates' victory",
+      "details": "Jolly Roger flag climbing mast, sun glinting off water, ship now clearly in pirate hands, boats pulled up on beach showing pirates control sea access, boy's isolation complete, no text or letters visible",
+      "background": "tropical island coastline, blue Caribbean waters",
+      "atmosphere": "pirates' triumph displayed, boy's realization of desperate situation, visual declaration of lawlessness"
     },
     "composition": {
-      "cameraAngle": "High angle showing skeleton and gathered men",
-      "focus": "The skeleton's pointing arm creating a natural arrow",
-      "depth": "Skeleton prominent in foreground, circle of pirates middle ground, island vista background"
+      "cameraAngle": "wide shot from boy's perspective on shore",
+      "focus": "pirate flag ascending mast as focal point",
+      "depth": "rocky shore foreground, harbor middle, ship with flag background"
     }
   }
 }

@@ -1,41 +1,41 @@
 {
   "sceneDescription": {
-    "title": "Silver's Parley at the Stockade",
+    "title": "The Stockade Fort",
     "setting": {
-      "time": "1750s, morning",
-      "location": "Outside the stockade fort, Treasure Island",
-      "weather": "Clear morning, rising heat"
+      "time": "1750s, afternoon",
+      "location": "Treasure Island, hilltop clearing",
+      "weather": "hot tropical sun"
     },
     "characters": [
       {
-        "appearance": "One-legged man, 40s, crafty smile, sweat on brow",
-        "clothing": "Best blue coat despite heat, white flag in hand",
-        "position": "Standing before stockade gate on crutch",
-        "action": "Speaking persuasively while gesturing with free hand"
+        "appearance": "doctor, 40s, sweat-stained but determined",
+        "clothing": "shirt sleeves, vest open, carrying musket",
+        "position": "standing at wooden stockade wall",
+        "action": "surveying defensive position, wiping brow"
       },
       {
-        "appearance": "Doctor, 40s, stern unmoved expression",
-        "clothing": "Military bearing despite civilian clothes",
-        "position": "Standing atop stockade wall",
-        "action": "Looking down with arms crossed"
+        "appearance": "squire, 50s, red-faced from exertion",
+        "clothing": "formerly fine clothes now disheveled",
+        "position": "inside stockade near log house",
+        "action": "organizing supplies, directing others"
       },
       {
-        "appearance": "Boy watching from gap in logs",
-        "clothing": "Simple clothes",
-        "position": "Hidden but observing",
-        "action": "Peering through stockade gap"
+        "appearance": "boy and loyal sailors, various",
+        "clothing": "practical clothes, armed",
+        "position": "distributed around stockade",
+        "action": "fortifying positions, loading weapons"
       }
     ],
     "scene": {
-      "mainElements": "Tense negotiation between pirate leader and defenders, white flag of truce contrasting with underlying threat",
-      "details": "White parley flag on stick, Silver's crutch leaving marks in sandy ground, loaded muskets visible along stockade wall, tropical vegetation framing scene, morning shadows still long, tension visible in body language despite civilized words",
-      "background": "Jungle edge with hidden pirates possibly watching, fort's British flag above",
-      "atmosphere": "Dangerous diplomacy, veneer of civility over violence, chess match of words"
+      "mainElements": "rough log stockade on cleared hilltop, small log house within, British flag raised on pole, defensive preparations",
+      "details": "sharpened log walls forming square, spring of fresh water inside, muskets stacked ready, supplies being counted, tropical forest pressing close on all sides, no text or letters visible",
+      "background": "glimpse of ship's masts in harbor below through trees",
+      "atmosphere": "desperate defensive preparations, civilization's outpost in hostile wilderness, loyal party preparing for siege"
     },
     "composition": {
-      "cameraAngle": "Medium shot showing both negotiators",
-      "focus": "The space between Silver below and doctor above",
-      "depth": "Silver in foreground looking up, stockade wall and defenders middle ground, jungle treeline background"
+      "cameraAngle": "elevated view showing stockade layout",
+      "focus": "stockade fort with defenders preparing",
+      "depth": "stockade foreground, clearing middle, jungle and distant harbor background"
     }
   }
 }

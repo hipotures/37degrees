@@ -1,41 +1,41 @@
 {
   "sceneDescription": {
-    "title": "Doctor Livesey and Squire Trelawney Examine the Map",
+    "title": "The Black Spot Warning",
     "setting": {
-      "time": "1750s, afternoon",
-      "location": "Squire Trelawney's study, country manor, Devon",
-      "weather": "Sunny day visible through tall windows"
+      "time": "1750s, foggy night",
+      "location": "Admiral Benbow Inn entrance, Devon",
+      "weather": "thick coastal fog, damp and cold"
     },
     "characters": [
       {
-        "appearance": "Distinguished doctor, 40s, intelligent eyes, neat appearance",
-        "clothing": "Black coat, white cravat, powdered wig",
-        "position": "Leaning over desk",
-        "action": "Studying document with magnifying glass"
+        "appearance": "blind beggar, thin and bent, empty eye sockets",
+        "clothing": "tattered great coat, worn boots, ragged hat",
+        "position": "at tavern door, stick tapping",
+        "action": "extending gnarled hand forward, sinister smile"
       },
       {
-        "appearance": "Portly squire, 50s, red face, excited expression",
-        "clothing": "Fine velvet coat, embroidered waistcoat, dress wig",
-        "position": "Standing beside doctor",
-        "action": "Pointing excitedly at map details"
+        "appearance": "boy, 13 years old, brown hair, terrified",
+        "clothing": "vest and breeches",
+        "position": "backing away from door",
+        "action": "trembling, trying to close door"
       },
       {
-        "appearance": "Boy, 13 years old, eager face",
-        "clothing": "Clean brown jacket, pressed shirt",
-        "position": "Standing respectfully nearby",
-        "action": "Watching the gentlemen with anticipation"
+        "appearance": "seaman captain, 50s, suddenly pale",
+        "clothing": "naval coat, disheveled",
+        "position": "visible in background, rising from chair",
+        "action": "face contorting in recognition and fear"
       }
     ],
     "scene": {
-      "mainElements": "Elegant study with two gentlemen discovering treasure map's secrets, boy watching as adventure plans form",
-      "details": "Large mahogany desk covered with papers, leather-bound books lining walls, globe in corner, yellowed treasure map spread on desk showing island with red X marks, inkwell and quills, afternoon light streaming through windows illuminating dust motes",
-      "background": "Floor-to-ceiling bookshelves, portrait paintings, view of manicured gardens through windows",
-      "atmosphere": "Excitement of discovery, scholarly investigation mixed with boyish adventure dreams, respectable setting contrasting with pirate treasure"
+      "mainElements": "menacing blind man at threshold, terrified boy caught between visitor and captain, fog swirling through doorway",
+      "details": "blind man's stick worn smooth, his unseeing face somehow knowing, boy's hands shaking on door handle, captain's ale mug dropping from nerveless fingers, no text or letters visible",
+      "background": "impenetrable fog outside, warm tavern light being invaded by cold mist",
+      "atmosphere": "moment of dread and recognition, past catching up with present, boy witnessing adult terror"
     },
     "composition": {
-      "cameraAngle": "High angle showing desk and all three figures",
-      "focus": "The treasure map spread on desk with hands pointing",
-      "depth": "Map and hands in sharp foreground, three figures arranged around desk middle ground, elegant room details background"
+      "cameraAngle": "tense medium shot from inside looking toward door",
+      "focus": "blind man's reaching hand and boy's frightened face",
+      "depth": "doorway foreground, boy middle, captain in background"
     }
   }
 }

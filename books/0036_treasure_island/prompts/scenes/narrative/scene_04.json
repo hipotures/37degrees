@@ -1,41 +1,29 @@
 {
   "sceneDescription": {
-    "title": "Captain's Tales in the Inn Common Room",
+    "title": "The Captain's Daily Vigil",
     "setting": {
-      "time": "1750s, evening",
-      "location": "Common room, Admiral Benbow Inn, Devon",
-      "weather": "Rain pattering against windows"
+      "time": "1750s, morning",
+      "location": "cliff path above Admiral Benbow Inn, Devon coast",
+      "weather": "bright but cold, sea spray in air"
     },
     "characters": [
       {
-        "appearance": "Sea captain, 50s, animated expression, gesturing wildly",
-        "clothing": "Loosened blue coat, white shirt open at neck",
-        "position": "Seated at head of large table",
-        "action": "Telling dramatic story, one hand raised mimicking sword fight"
-      },
-      {
-        "appearance": "Boy, 13 years old, entranced expression",
-        "clothing": "Brown vest, white shirt, serving apron",
-        "position": "Standing nearby with pitcher",
-        "action": "Frozen mid-pour, completely absorbed in tale"
-      },
-      {
-        "appearance": "Three local fishermen, various ages, weathered faces",
-        "clothing": "Simple work clothes, knitted caps",
-        "position": "Seated around table",
-        "action": "Leaning forward, listening intently"
+        "appearance": "weathered seaman, 50s, powerful build despite age",
+        "clothing": "blue naval coat, brass telescope at belt",
+        "position": "standing on cliff edge, telescope raised",
+        "action": "scanning horizon intently, jaw clenched with worry"
       }
     ],
     "scene": {
-      "mainElements": "Warm firelit room filled with pipe smoke, captain holding court with tales of piracy and adventure on high seas, audience captivated by stories",
-      "details": "Pewter mugs and plates on table, fire crackling in large stone hearth, shadows dancing on walls, rain-streaked windows reflecting firelight, nautical implements decorating walls, boy's pitcher tilting dangerously as he forgets his task",
-      "background": "Dark corners of room, other patrons in shadows, stairs leading to upper floors",
-      "atmosphere": "Cozy yet thrilling, mixture of warmth and danger in captain's tales, hypnotic storytelling"
+      "mainElements": "lone figure on windswept cliff, endless ocean stretching to horizon, small inn visible below",
+      "details": "brass telescope catching sunlight, coat billowing in wind, worn path showing daily ritual, seabirds wheeling overhead, waves crashing on rocks below, no text or letters visible",
+      "background": "dramatic coastline curving away, merchant ships as tiny specks on horizon",
+      "atmosphere": "watchful paranoia, man haunted by past, constant vigilance against unseen threat"
     },
     "composition": {
-      "cameraAngle": "Medium shot capturing storyteller and audience",
-      "focus": "Captain's animated face and gesturing hand",
-      "depth": "Captain prominent in foreground, listeners arranged in middle ground, fireplace and room details in background"
+      "cameraAngle": "dramatic angle from below, emphasizing figure against sky",
+      "focus": "captain's tense profile as he watches the sea",
+      "depth": "rocky cliff in foreground, captain mid-ground, vast ocean background"
     }
   }
 }

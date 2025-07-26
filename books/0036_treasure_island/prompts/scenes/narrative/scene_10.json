@@ -1,41 +1,41 @@
 {
   "sceneDescription": {
-    "title": "First Sight of Treasure Island",
+    "title": "Meeting Long John Silver",
     "setting": {
-      "time": "1750s, dawn",
-      "location": "Deck of the Hispaniola, approaching island",
-      "weather": "Misty morning, clouds parting"
+      "time": "1750s, busy morning",
+      "location": "Spy-glass Tavern, Bristol harbor district",
+      "weather": "overcast with occasional sun"
     },
     "characters": [
       {
-        "appearance": "Boy, 13 years old, conflicted expression",
-        "clothing": "Sailor's clothes, hair windblown",
-        "position": "At ship's bow",
-        "action": "Gripping rail, staring at island"
+        "appearance": "tall one-legged man, 40s, powerful build, intelligent face",
+        "clothing": "clean blue coat, well-kept appearance",
+        "position": "standing behind bar, leaning on crutch",
+        "action": "smiling broadly, extending welcoming hand"
       },
       {
-        "appearance": "One-legged man, 40s, studying island",
-        "clothing": "Blue coat, crutch under arm",
-        "position": "Few yards behind boy",
-        "action": "Pointing out island features with knowing look"
+        "appearance": "green parrot on shoulder",
+        "clothing": "natural feathers",
+        "position": "perched on man's left shoulder",
+        "action": "head cocked, observing newcomers"
       },
       {
-        "appearance": "Ship's captain, worried expression",
-        "clothing": "Naval uniform",
-        "position": "Near wheel",
-        "action": "Consulting charts nervously"
+        "appearance": "boy, 13 years old, well-dressed",
+        "clothing": "proper traveling clothes, clean jacket",
+        "position": "approaching bar hesitantly",
+        "action": "extending hand to shake, face showing relief and interest"
       }
     ],
     "scene": {
-      "mainElements": "Mysterious tropical island emerging from morning mist as ship approaches, creating mix of wonder and dread",
-      "details": "Island's distinctive twin peaks piercing fog, dense jungle covering slopes, birds circling above, dangerous-looking reefs visible in clear water, ship's figurehead pointing toward destiny, crew members gathering at rails with mixed expressions",
-      "background": "Endless ocean, sun breaking through clouds dramatically",
-      "atmosphere": "Ominous beauty, paradise hiding danger, anticipation mixed with foreboding"
+      "mainElements": "bustling harbor tavern, charismatic one-legged proprietor, first meeting between major characters",
+      "details": "crutch propped against bar, tavern filled with sailing men, nautical decorations, barrels and bottles behind bar, sunlight breaking through clouds illuminating Silver's friendly face, parrot's bright feathers, no text or letters visible",
+      "background": "other sailors at tables, harbor visible through windows",
+      "atmosphere": "deceptive warmth and friendship, boy's relief at finding seemingly trustworthy ally, hidden danger beneath charming exterior"
     },
     "composition": {
-      "cameraAngle": "Wide shot from ship's side showing island ahead",
-      "focus": "The forbidding island shrouded in mist",
-      "depth": "Ship's bow and crew in foreground, mysterious island looming in middle distance, vast ocean and sky background"
+      "cameraAngle": "medium shot across bar",
+      "focus": "moment of handshake between Silver and Jim",
+      "depth": "bar foreground, characters middle, busy tavern background"
     }
   }
 }

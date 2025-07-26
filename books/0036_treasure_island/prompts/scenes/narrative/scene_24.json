@@ -1,41 +1,41 @@
 {
   "sceneDescription": {
-    "title": "Return to Bristol Harbor",
+    "title": "Silver's Escape at Port",
     "setting": {
-      "time": "1750s, morning",
-      "location": "Bristol harbor, England",
-      "weather": "Misty English morning"
+      "time": "1750s, busy port morning",
+      "location": "Spanish colonial port, Caribbean",
+      "weather": "bright tropical morning"
     },
     "characters": [
       {
-        "appearance": "Boy, 13 years old, more mature bearing",
-        "clothing": "Fine new clothes befitting young gentleman",
-        "position": "At ship's rail",
-        "action": "Looking at familiar harbor with changed eyes"
+        "appearance": "Silver, 40s, dressed as respectable merchant",
+        "clothing": "clean merchant clothes, hat pulled low",
+        "position": "disappearing into crowd on dock",
+        "action": "walking away with bag, not looking back"
       },
       {
-        "appearance": "Doctor and squire, satisfied expressions",
-        "clothing": "Proper English gentleman attire",
-        "position": "Flanking the boy",
-        "action": "Pointing out waiting carriages on dock"
+        "appearance": "boy, 13 years old, watching from ship",
+        "clothing": "good clothes again",
+        "position": "at ship's rail",
+        "action": "watching Silver leave, conflicted expression"
       },
       {
-        "appearance": "Remaining honest crew members",
-        "clothing": "Best shore clothes",
-        "position": "Preparing to disembark",
-        "action": "Cheerful with adventure's success"
+        "appearance": "busy port crowd",
+        "clothing": "colonial period dress, various",
+        "position": "throughout dock area",
+        "action": "going about business, unaware of drama"
       }
     ],
     "scene": {
-      "mainElements": "Triumphant return to civilization, harbor unchanged but adventurers transformed by experience",
-      "details": "Bristol's familiar buildings in morning mist, other merchant ships at dock, treasure chests being prepared for unloading, boy's sea chest among them but smaller and worn, church bells ringing in distance, normal life continuing unaware of adventures",
-      "background": "English city life bustling as always, smoke from chimneys",
-      "atmosphere": "Successful completion, return to ordinary world with extraordinary memories, growth achieved"
+      "mainElements": "Silver vanishing into port crowd with his share of treasure, boy watching mentor/enemy disappear forever, busy colonial port life",
+      "details": "Spanish colonial architecture, market stalls, other ships at dock, Silver's distinctive gait still visible despite attempt to blend in, bag of treasure over shoulder, parrot cage in other hand, no text or letters visible",
+      "background": "Caribbean port town rising from harbor, mountains beyond",
+      "atmosphere": "bittersweet escape, complex emotions about Silver's departure, justice avoided but perhaps mercy shown"
     },
     "composition": {
-      "cameraAngle": "From ship looking toward welcoming harbor",
-      "focus": "The boy's matured face seeing home with new perspective",
-      "depth": "Ship's rail and boy foreground, busy harbor middle ground, Bristol city background"
+      "cameraAngle": "from ship looking down at dock",
+      "focus": "Silver disappearing into crowd while boy watches",
+      "depth": "ship's rail foreground, dock and crowd middle, port buildings background"
     }
   }
 }

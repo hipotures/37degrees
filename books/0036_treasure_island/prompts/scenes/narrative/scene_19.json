@@ -1,41 +1,35 @@
 {
   "sceneDescription": {
-    "title": "The Empty Treasure Pit",
+    "title": "Duel on the Hispaniola",
     "setting": {
-      "time": "1750s, morning",
-      "location": "Treasure site clearing, Treasure Island",
-      "weather": "Bright morning sun"
+      "time": "1750s, night",
+      "location": "Deck of the Hispaniola, harbor",
+      "weather": "moonlit night, calm waters"
     },
     "characters": [
       {
-        "appearance": "Five pirates, faces transforming from greed to rage",
-        "clothing": "Dirt-covered from digging",
-        "position": "Standing around large excavated pit",
-        "action": "Staring into empty hole with growing fury"
+        "appearance": "boy, 13 years old, determined and desperate",
+        "clothing": "torn sailor clothes, barefoot for stealth",
+        "position": "cornered against ship's mast",
+        "action": "holding pistol with both hands, aiming upward"
       },
       {
-        "appearance": "One-legged man, 40s, dangerous calm",
-        "clothing": "Blue coat dusty, still dignified",
-        "position": "At pit's edge on crutch",
-        "action": "Slowly turning to face angry men"
-      },
-      {
-        "appearance": "Boy, 13 years old, sensing danger",
-        "clothing": "Mud-stained clothes",
-        "position": "Backing away from group",
-        "action": "Hand moving toward hidden pistol"
+        "appearance": "grizzled pirate, 40s, drunk but dangerous",
+        "clothing": "dirty pirate garb, bandana",
+        "position": "advancing with raised cutlass",
+        "action": "stumbling forward, blade gleaming in moonlight"
       }
     ],
     "scene": {
-      "mainElements": "Large excavated pit where treasure should be, pirates' dreams turning to murderous rage at betrayal",
-      "details": "Deep rectangular pit freshly dug, scattered dirt piles, abandoned shovels, single gold coin glinting in dirt, broken chest pieces, pirates' faces showing progression from shock to fury, weapons being slowly drawn, Silver calculating escape routes",
-      "background": "Jungle clearing, escape paths visible between trees",
-      "atmosphere": "Explosive tension, greed turned to murder, alliance crumbling, violence imminent"
+      "mainElements": "life-or-death confrontation on ship deck, boy forced to defend himself, moonlight creating dramatic shadows",
+      "details": "ship's rigging casting web of shadows, anchor capstan nearby, blood on deck from earlier fights, pirate's face twisted in rage, boy's face showing terror and determination, pistol smoke in the air, no text or letters visible",
+      "background": "dark island silhouette, stars overhead, quiet harbor waters",
+      "atmosphere": "boy's loss of innocence through violence, desperate fight for survival, child forced to act as man"
     },
     "composition": {
-      "cameraAngle": "High angle showing pit and surrounding men",
-      "focus": "The empty pit as center of shattered dreams",
-      "depth": "Empty pit in foreground, circle of angry pirates middle ground, jungle escape routes background"
+      "cameraAngle": "dramatic low angle emphasizing confrontation",
+      "focus": "moment of violent confrontation",
+      "depth": "deck and fighters foreground, rigging middle, night sky background"
     }
   }
 }

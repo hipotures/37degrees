@@ -1,29 +1,35 @@
 {
   "sceneDescription": {
-    "title": "Billy Bones Watches the Coastal Road",
+    "title": "The Sea Dog Arrives",
     "setting": {
-      "time": "1750s, morning",
-      "location": "Cliff overlook near Admiral Benbow Inn, Devon coast",
-      "weather": "Clear day with strong sea breeze"
+      "time": "1750s, stormy afternoon",
+      "location": "Admiral Benbow Inn entrance, coastal village, Devon",
+      "weather": "dark storm clouds gathering, wind picking up"
     },
     "characters": [
       {
-        "appearance": "Grizzled sea captain, 50s, alert posture, hand shading eyes",
-        "clothing": "Blue coat flapping in wind, tricorn hat, brass telescope at side",
-        "position": "Standing on cliff edge",
-        "action": "Scanning the coastal road intently with telescope"
+        "appearance": "weathered man, 50s, tall and powerful build, scarred face",
+        "clothing": "stained blue naval coat, soiled cocked hat, sea boots",
+        "position": "standing in doorway, sea chest beside him",
+        "action": "surveying room with suspicious eyes, hand near coat pocket"
+      },
+      {
+        "appearance": "boy, 13 years old, brown hair, slight build",
+        "clothing": "simple brown vest over white shirt, breeches",
+        "position": "behind bar counter",
+        "action": "frozen in place, staring at newcomer with wide eyes"
       }
     ],
     "scene": {
-      "mainElements": "Dramatic clifftop position overlooking both the winding coastal road below and vast ocean, captain maintaining vigilant watch like a sentry",
-      "details": "Telescope glinting in sunlight, coat tails whipping in wind, worn path along cliff edge from repeated pacing, scattered wildflowers and sea grass bending in breeze, distant merchant wagons on road appearing tiny from height",
-      "background": "Expansive view of Devon coastline, white-capped waves, sailing vessels far at sea",
-      "atmosphere": "Paranoid watchfulness, exposed position suggesting both power and vulnerability, constant tension"
+      "mainElements": "tavern doorway framing intimidating stranger, heavy sea chest with brass corners, boy visible behind bar",
+      "details": "rain beginning to spatter windows, candles flickering in draft, stranger's coat dripping, cutlass handle visible at his side, tar stains on hands, no text or letters visible",
+      "background": "dark storm clouds through windows, empty tavern tables",
+      "atmosphere": "sudden tension and fear, arrival of danger into peaceful setting, boy's first encounter with rough seafaring world"
     },
     "composition": {
-      "cameraAngle": "Side profile emphasizing isolation and vigilance",
-      "focus": "Captain's weathered profile against sky, telescope extended",
-      "depth": "Captain on cliff edge foreground, coastal road snaking through middle distance, infinite ocean horizon"
+      "cameraAngle": "medium shot from inside tavern",
+      "focus": "menacing stranger silhouetted in doorway",
+      "depth": "stranger in foreground, boy at bar in background, storm visible through door"
     }
   }
 }

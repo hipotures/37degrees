@@ -1,35 +1,41 @@
 {
   "sceneDescription": {
-    "title": "Silver's Midnight Escape",
+    "title": "Loading the Treasure",
     "setting": {
-      "time": "1750s, midnight",
-      "location": "Deck of Hispaniola at sea",
-      "weather": "Calm night, crescent moon"
+      "time": "1750s, busy morning",
+      "location": "Beach and boats, Treasure Island",
+      "weather": "clear day, calm seas"
     },
     "characters": [
       {
-        "appearance": "One-legged man, 40s, moving stealthily",
-        "clothing": "Dark clothes for night",
-        "position": "Lowering himself over ship's side",
-        "action": "Escaping with small sack of coins"
+        "appearance": "loyal crew members, working hard",
+        "clothing": "sailor attire",
+        "position": "carrying treasure to boats",
+        "action": "loading heavy chests, passing bags hand to hand"
       },
       {
-        "appearance": "Boy, 13 years old, complex emotions",
-        "clothing": "Nightshirt",
-        "position": "Hidden in shadows watching",
-        "action": "Deliberately looking away to allow escape"
+        "appearance": "boy, 13 years old, participating as equal",
+        "clothing": "sailor clothes",
+        "position": "helping with loading",
+        "action": "carrying smaller bags, working alongside men"
+      },
+      {
+        "appearance": "Silver, 40s, uncertain status",
+        "clothing": "cleaner pirate attire",
+        "position": "standing apart, watching",
+        "action": "leaning on crutch, expression unreadable"
       }
     ],
     "scene": {
-      "mainElements": "Secret nighttime escape as Silver takes small portion of treasure and disappears, boy allowing it to happen",
-      "details": "Rope over ship's side, small boat waiting below, modest sack of gold coins not greedy amount, Silver's crutch carefully lowered first, boy's internal conflict visible in posture, moonlight on calm water, ship creaking gently, last shared look between them",
-      "background": "Dark ocean, distant shoreline of some port, stars above",
-      "atmosphere": "Bittersweet farewell, moral complexity, unspoken understanding between unlikely friends"
+      "mainElements": "organized transfer of treasure from beach to ship's boats, survivors working together, Silver's ambiguous position",
+      "details": "treasure chests being carried on poles, boats pulled up on sand, Hispaniola anchored in bay, everyone working except Silver, tropical paradise setting ironic contrast to earlier violence, no text or letters visible",
+      "background": "island's hills, site of recent battles, peaceful morning sky",
+      "atmosphere": "relief and accomplishment, treasure finally secured, unspoken question of Silver's fate"
     },
     "composition": {
-      "cameraAngle": "Ship's deck level showing both figures",
-      "focus": "The moment of silent acknowledgment between them",
-      "depth": "Boy in shadows foreground, Silver escaping middle ground, dark ocean background"
+      "cameraAngle": "wide beach scene showing operation",
+      "focus": "busy treasure loading with Silver observing",
+      "depth": "beach activity foreground, boats middle, ship in harbor background"
     }
   }
 }

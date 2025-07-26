@@ -1,47 +1,41 @@
 {
   "sceneDescription": {
-    "title": "Rescue from the Hilltop",
+    "title": "Silver's Hostage Negotiation",
     "setting": {
-      "time": "1750s, morning",
-      "location": "Jungle hillside, Treasure Island",
-      "weather": "Clear day, sun breaking through trees"
+      "time": "1750s, tense afternoon",
+      "location": "Pirates' camp, Treasure Island beach",
+      "weather": "hot sun, humid tropical air"
     },
     "characters": [
       {
-        "appearance": "Doctor, 40s, carrying musket, determined",
-        "clothing": "Practical clothes, hat against sun",
-        "position": "Emerging from jungle cover",
-        "action": "Aiming musket at pirates below"
+        "appearance": "boy, 13 years old, captive but defiant",
+        "clothing": "torn and dirty sailor clothes",
+        "position": "sitting on barrel, hands loosely tied",
+        "action": "chin raised defiantly despite situation"
       },
       {
-        "appearance": "Wild man in goatskins, 30s, agile",
-        "clothing": "Rough-sewn skins",
-        "position": "In tree above",
-        "action": "Preparing to drop on unsuspecting pirate"
+        "appearance": "Long John Silver, 40s, calculating",
+        "clothing": "pirate captain attire, crutch beside him",
+        "position": "seated on sea chest opposite boy",
+        "action": "leaning forward persuasively, gesturing reasonably"
       },
       {
-        "appearance": "Loyal sailor with musket",
-        "clothing": "British navy remnants",
-        "position": "Taking cover behind tree",
-        "action": "Supporting doctor's position"
-      },
-      {
-        "appearance": "Boy and one-legged man together",
-        "clothing": "Both disheveled from ordeal",
-        "position": "Caught between two forces",
-        "action": "Boy helping Silver who gestures surrender"
+        "appearance": "rough pirates surrounding camp",
+        "clothing": "various pirate attire",
+        "position": "scattered around camp perimeter",
+        "action": "watching suspiciously, hands on weapons"
       }
     ],
     "scene": {
-      "mainElements": "Dramatic rescue as loyal party arrives just as pirates turn violent, tables suddenly turned",
-      "details": "Musket smoke in morning air, pirates scattering for cover, dropped treasure-hunting tools, doctor's party having strategic high ground, Ben Gunn's wild appearance shocking pirates, Silver quickly switching sides again with raised hands",
-      "background": "Jungle paths showing how rescue party approached unseen",
-      "atmosphere": "Swift reversal of fortune, relief replacing terror, justice arriving at crucial moment"
+      "mainElements": "tense negotiation in pirate camp, Silver trying to win boy over while protecting him from other pirates, complex relationship visible",
+      "details": "makeshift camp with sail for shade, cooking fire smoldering, weapons stacked nearby, tension between Silver and his men evident, parrot on nearby perch, treasure digging tools visible, no text or letters visible",
+      "background": "tropical beach, jungle edge, ship visible in harbor",
+      "atmosphere": "dangerous balance of power, Silver's dual nature shown, boy's courage despite captivity"
     },
     "composition": {
-      "cameraAngle": "Wide shot showing both groups and terrain",
-      "focus": "The moment of intervention with muskets leveled",
-      "depth": "Rescue party on high ground foreground, pirates and captives middle ground, jungle paths background"
+      "cameraAngle": "medium shot showing confrontation and surrounding danger",
+      "focus": "Silver and Jim's negotiation with threatening pirates visible",
+      "depth": "main characters foreground, pirate crew middle, beach and jungle background"
     }
   }
 }

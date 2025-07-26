@@ -1,41 +1,41 @@
 {
   "sceneDescription": {
-    "title": "Ben Gunn's Secret Cave",
+    "title": "The Empty Treasure Pit",
     "setting": {
-      "time": "1750s, afternoon",
-      "location": "Hidden cave, Treasure Island interior",
-      "weather": "Cool shade inside cave"
+      "time": "1750s, late afternoon",
+      "location": "Treasure site, island interior",
+      "weather": "sun filtering through trees"
     },
     "characters": [
       {
-        "appearance": "Wild man, 30s, proud expression",
-        "clothing": "Goatskin garments",
-        "position": "Gesturing at cave contents",
-        "action": "Showing his secret with childlike pride"
+        "appearance": "group of pirates, various, shocked and enraged",
+        "clothing": "sweat-soaked pirate attire",
+        "position": "gathered around large excavated pit",
+        "action": "staring in disbelief, some on knees at edge"
       },
       {
-        "appearance": "Doctor, squire, and captain together",
-        "clothing": "Worn but proper clothes",
-        "position": "Standing in amazement",
-        "action": "Staring at unexpected sight"
+        "appearance": "Silver, 40s, carefully controlled",
+        "clothing": "pirate captain attire",
+        "position": "standing back, weight on crutch",
+        "action": "watching his men's reactions, hand near pistol"
       },
       {
-        "appearance": "Boy, 13 years old, wonder in eyes",
-        "clothing": "Adventure-worn clothes",
-        "position": "Stepping forward into cave",
-        "action": "Reaching toward glittering sight"
+        "appearance": "boy, 13 years old, understanding dawning",
+        "clothing": "dirty sailor clothes",
+        "position": "held by pirate guard",
+        "action": "watching scene with growing comprehension"
       }
     ],
     "scene": {
-      "mainElements": "Natural cave revealing actual treasure hoard that Ben Gunn found and moved years ago, explaining empty pit",
-      "details": "Stalactites hanging from ceiling, natural rock shelves holding organized treasure, gold coins in neat piles, silver bars stacked like firewood, jewels catching light from cave entrance, Ben Gunn's crude living arrangements visible, years of patient work evident",
-      "background": "Deep cave recesses hiding more wealth, water dripping somewhere",
-      "atmosphere": "Wonder and revelation, mystery solved, true treasure finally found, fairy tale ending"
+      "mainElements": "large empty excavation where treasure should be, pirates confronting their betrayal and failure, tension about to explode",
+      "details": "deep pit with shovel marks, scattered rocks and dirt, one skeleton at bottom pointing direction, pirates' faces showing rage and despair, Silver calculating escape, tools thrown down in anger, no text or letters visible",
+      "background": "dense tropical forest, tall trees creating cathedral-like space",
+      "atmosphere": "dreams shattered, greed leading to nothing, moment before violence erupts"
     },
     "composition": {
-      "cameraAngle": "From cave entrance looking in at magical scene",
-      "focus": "The glittering treasure hoard properly organized",
-      "depth": "Cave entrance framing foreground, treasure and amazed people middle ground, cave depths background"
+      "cameraAngle": "high angle looking down into empty pit",
+      "focus": "empty hole as center with devastated pirates around edge",
+      "depth": "pit foreground, pirates middle, forest background"
     }
   }
 }

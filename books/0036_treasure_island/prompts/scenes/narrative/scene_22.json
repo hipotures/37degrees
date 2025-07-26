@@ -1,41 +1,35 @@
 {
   "sceneDescription": {
-    "title": "Loading the Treasure Aboard",
+    "title": "Ben Gunn's Secret Cave",
     "setting": {
-      "time": "1750s, dawn",
-      "location": "Beach and the Hispaniola, Treasure Island",
-      "weather": "Calm morning, good sailing weather"
+      "time": "1750s, evening",
+      "location": "Hidden cave, Treasure Island",
+      "weather": "sunset light at cave entrance"
     },
     "characters": [
       {
-        "appearance": "Boy, 13 years old, healthy color returned",
-        "clothing": "Clean clothes, proper sailor outfit",
-        "position": "On beach supervising",
-        "action": "Directing treasure loading into boats"
+        "appearance": "wild man Ben Gunn, 30s, triumphant",
+        "clothing": "goatskin rags",
+        "position": "standing proudly beside treasure",
+        "action": "gesturing at his hidden hoard, grinning"
       },
       {
-        "appearance": "Loyal sailors, relieved expressions",
-        "clothing": "British naval dress",
-        "position": "Forming human chain",
-        "action": "Passing treasure chests to waiting boats"
-      },
-      {
-        "appearance": "One-legged man, 40s, subdued manner",
-        "clothing": "Still in blue coat but humbled",
-        "position": "Under guard but helping",
-        "action": "Using his strength to lift heavy chests"
+        "appearance": "boy, doctor, and squire, amazed",
+        "clothing": "worn expedition clothes",
+        "position": "entering cave, staring at treasure",
+        "action": "expressions of wonder and relief"
       }
     ],
     "scene": {
-      "mainElements": "Organized transfer of treasure from island to ship, civilization restored after chaos, preparation for departure",
-      "details": "Multiple small boats ferrying between beach and anchored ship, heavy chests requiring two men to carry, neat organization after pirate chaos, British flag flying proudly on Hispaniola, remaining pirates nowhere to be seen, tropical paradise now just backdrop",
-      "background": "The Hispaniola at anchor in calm bay, island losing its mystery",
-      "atmosphere": "Relief and accomplishment, order restored, adventure concluding successfully"
+      "mainElements": "cave filled with pirate treasure, gold and silver coins in heaps, Ben Gunn revealing he found and moved it years ago",
+      "details": "treasure chests overflowing with doubloons, gold bars stacked against walls, jewels glinting in torch light, cave formations creating natural vault, Ben's simple living area visible, no text or letters visible",
+      "background": "cave depths disappearing into darkness, sunset glow at entrance",
+      "atmosphere": "revelation and vindication, treasure found by the least expected person, true wealth in survival and friendship"
     },
     "composition": {
-      "cameraAngle": "Beach perspective showing boats and ship",
-      "focus": "The treasure being systematically loaded",
-      "depth": "Beach activity foreground, boats in surf middle ground, ship at anchor background"
+      "cameraAngle": "wide shot revealing cave's treasures",
+      "focus": "glittering treasure with amazed discoverers",
+      "depth": "cave entrance foreground, treasure and people middle, cave depths background"
     }
   }
 }

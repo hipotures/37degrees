@@ -1,41 +1,41 @@
 {
   "sceneDescription": {
-    "title": "The Stockade Fort Under Siege",
+    "title": "The Hispaniola Sets Sail",
     "setting": {
-      "time": "1750s, midday",
-      "location": "Wooden stockade fort, Treasure Island",
-      "weather": "Hot tropical sun, humid"
+      "time": "1750s, morning tide",
+      "location": "Bristol harbor, aboard the Hispaniola",
+      "weather": "fair wind, clear skies"
     },
     "characters": [
       {
-        "appearance": "Doctor, 40s, determined face, sweat-stained",
-        "clothing": "Shirt sleeves, waistcoat unbuttoned",
-        "position": "Behind stockade wall with musket",
-        "action": "Aiming through gap in logs"
+        "appearance": "boy, 13 years old, excited",
+        "clothing": "sailor's jacket and cap, new",
+        "position": "at ship's rail looking back at harbor",
+        "action": "gripping rail, face bright with adventure"
       },
       {
-        "appearance": "Squire, 50s, red-faced from exertion",
-        "clothing": "Fine clothes now torn and dirty",
-        "position": "Reloading weapons",
-        "action": "Frantically preparing ammunition"
+        "appearance": "captain, 50s, stern and professional",
+        "clothing": "naval uniform, tricorn hat",
+        "position": "on quarterdeck",
+        "action": "shouting orders, pointing aloft"
       },
       {
-        "appearance": "Boy, 13 years old, brave despite fear",
-        "clothing": "Torn sailor clothes",
-        "position": "Running between defenders",
-        "action": "Carrying powder and shot"
+        "appearance": "crew of sailors, various ages",
+        "clothing": "typical sailor garb",
+        "position": "in rigging and on deck",
+        "action": "hauling lines, unfurling sails"
       }
     ],
     "scene": {
-      "mainElements": "Rough log stockade under attack, defenders desperately holding position against unseen pirates in surrounding jungle",
-      "details": "Wooden palisade with British flag flying defiantly, musket smoke drifting across compound, water barrel with ladle, scattered supplies, palm trees and tropical vegetation pressing close, bullet holes in logs, abandoned pirate hat in dirt",
-      "background": "Dense jungle concealing attackers, glimpses of movement in foliage",
-      "atmosphere": "Desperate defense, heat and gunpowder, civilization's last stand against piracy"
+      "mainElements": "merchant ship leaving harbor under full sail, crew in coordinated action, boy's first sea voyage beginning",
+      "details": "white sails filling with wind, rigging alive with sailors, dock workers waving farewell, seabirds following ship, Bristol's buildings receding, anchor being hauled up dripping, no text or letters visible",
+      "background": "Bristol harbor growing smaller, other ships at anchor, English coastline",
+      "atmosphere": "exhilaration of departure, organized chaos of setting sail, boy's life-changing journey beginning"
     },
     "composition": {
-      "cameraAngle": "Inside stockade looking out toward jungle",
-      "focus": "Defenders at wall preparing for next assault",
-      "depth": "Defenders and stockade wall foreground, cleared ground middle distance, threatening jungle background"
+      "cameraAngle": "dynamic shot from mid-ship showing activity",
+      "focus": "boy at rail with busy ship around him",
+      "depth": "ship's deck foreground, harbor middle distance, coastline background"
     }
   }
 }

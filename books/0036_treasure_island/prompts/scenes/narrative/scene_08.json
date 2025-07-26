@@ -1,41 +1,35 @@
 {
   "sceneDescription": {
-    "title": "The Hispaniola Sets Sail from Bristol",
+    "title": "Discovery of the Map",
     "setting": {
-      "time": "1750s, dawn",
-      "location": "Bristol harbor, aboard the Hispaniola",
-      "weather": "Clear morning, light breeze"
+      "time": "1750s, morning",
+      "location": "Captain's room, Admiral Benbow Inn, Devon",
+      "weather": "bright morning sunlight"
     },
     "characters": [
       {
-        "appearance": "Ship's captain, 45, stern expression, weathered features",
-        "clothing": "Naval coat with brass buttons, tricorn hat",
-        "position": "Standing at ship's wheel",
-        "action": "Calling out orders to crew"
+        "appearance": "boy, 13 years old, excited and curious",
+        "clothing": "vest and breeches",
+        "position": "kneeling beside open sea chest",
+        "action": "holding up an oilcloth packet, eyes wide with discovery"
       },
       {
-        "appearance": "Boy, 13 years old, excited expression",
-        "clothing": "New sailor's outfit, slightly too large",
-        "position": "At ship's rail",
-        "action": "Watching harbor recede with wonder"
-      },
-      {
-        "appearance": "Various crew members, mixed ages",
-        "clothing": "Sailor's garb, some climbing rigging",
-        "position": "Throughout ship",
-        "action": "Unfurling sails, working lines"
+        "appearance": "middle-aged woman, brown hair, anxious",
+        "clothing": "dress and apron",
+        "position": "standing nearby watching",
+        "action": "wringing hands nervously, glancing toward window"
       }
     ],
     "scene": {
-      "mainElements": "Three-masted schooner leaving busy harbor at sunrise, crew working to set sails as adventure begins",
-      "details": "Complex rigging with sailors climbing like spiders, white sails catching golden dawn light, wooden deck scrubbed clean, coiled ropes, brass fittings gleaming, seagulls wheeling overhead, other ships at anchor, Bristol's buildings shrinking in distance",
-      "background": "Bristol harbor with forest of masts, city skyline in morning mist",
-      "atmosphere": "Exhilarating departure, fresh start, mixture of excitement and apprehension, dawn of adventure"
+      "mainElements": "open sea chest revealing contents, boy with discovered packet, morning light illuminating the moment of discovery",
+      "details": "sea chest lined with brass, containing folded clothes, a quadrant, pistols, bar of silver, oilcloth packet in boy's hands catching the light, mother's worried expression, coins scattered on floor, no text or letters visible",
+      "background": "simple room with window showing peaceful village beyond",
+      "atmosphere": "moment of discovery that will change everything, mixture of excitement and danger, boy's innocent curiosity about to launch great adventure"
     },
     "composition": {
-      "cameraAngle": "Wide shot from stern showing full ship and harbor",
-      "focus": "The ship cutting through harbor waters",
-      "depth": "Ship's deck and rigging in foreground, harbor waters middle ground, Bristol fading into misty background"
+      "cameraAngle": "medium shot from slightly above",
+      "focus": "boy's wondering face and the mysterious packet",
+      "depth": "boy and chest in foreground, mother mid-ground, bright window in background"
     }
   }
 }

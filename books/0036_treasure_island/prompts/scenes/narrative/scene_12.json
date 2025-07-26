@@ -1,35 +1,41 @@
 {
   "sceneDescription": {
-    "title": "Ben Gunn Emerges from the Jungle",
+    "title": "Silver's Galley Kingdom",
     "setting": {
-      "time": "1750s, late afternoon",
-      "location": "Dense jungle path, Treasure Island",
-      "weather": "Filtered sunlight through canopy"
+      "time": "1750s, midday",
+      "location": "Ship's galley, Hispaniola at sea",
+      "weather": "calm seas visible through porthole"
     },
     "characters": [
       {
-        "appearance": "Wild man, 30s, sun-darkened skin, matted hair and beard",
-        "clothing": "Tattered goatskin clothing, barefoot",
-        "position": "Crouching behind tree trunk",
-        "action": "Peering out with mixture of fear and hope"
+        "appearance": "one-legged cook, 40s, powerful and jovial",
+        "clothing": "cook's apron over sailor clothes",
+        "position": "working at stove, balanced expertly despite ship's motion",
+        "action": "stirring large pot while talking animatedly"
       },
       {
-        "appearance": "Boy, 13 years old, startled and wary",
-        "clothing": "Torn sailor clothes, muddy",
-        "position": "Frozen on jungle path",
-        "action": "Hand reaching for small knife at belt"
+        "appearance": "boy, 13 years old, attentive",
+        "clothing": "sailor's clothes",
+        "position": "sitting on barrel nearby",
+        "action": "peeling potatoes, listening with fascination"
+      },
+      {
+        "appearance": "parrot on perch",
+        "clothing": "green feathers",
+        "position": "swinging on perch near porthole",
+        "action": "preening feathers, occasionally squawking"
       }
     ],
     "scene": {
-      "mainElements": "Mysterious wild man revealing himself to lone boy in deep jungle, moment of mutual fear and recognition",
-      "details": "Thick vines and tropical plants creating green walls, shafts of golden light piercing canopy, exotic birds calling above, massive tree roots crossing path, wild man's makeshift tools visible at waist, boy's footprints in muddy path showing his journey",
-      "background": "Dense jungle in all directions, suggestion of hidden caves nearby",
-      "atmosphere": "Primal encounter, lost civilization, hope emerging from wildness, fairy tale meeting"
+      "mainElements": "cramped ship's galley filled with cooking smells, one-legged cook demonstrating mastery of his domain, boy drawn into Silver's charm",
+      "details": "pots swinging on hooks, vegetables in nets, ship's biscuit in barrels, steam rising from stove, Silver's crutch propped within reach, knife work expert despite disability, no text or letters visible",
+      "background": "blue ocean visible through porthole, ship's timbers creaking",
+      "atmosphere": "warm mentorship moment, Silver establishing father-figure relationship, cozy refuge within larger ship"
     },
     "composition": {
-      "cameraAngle": "Eye level between both figures",
-      "focus": "The moment of contact between wild man and boy",
-      "depth": "Wild man partially hidden by vegetation foreground, boy on path middle ground, jungle depths background"
+      "cameraAngle": "intimate shot within cramped galley",
+      "focus": "Silver cooking while engaging with Jim",
+      "depth": "cooking area foreground, boy middle, porthole with ocean background"
     }
   }
 }

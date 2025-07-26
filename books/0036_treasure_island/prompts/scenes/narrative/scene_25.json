@@ -1,35 +1,35 @@
 {
   "sceneDescription": {
-    "title": "Jim at the Admiral Benbow Window",
+    "title": "Return to the Admiral Benbow",
     "setting": {
-      "time": "1750s, evening",
-      "location": "Admiral Benbow Inn, Devon coast, England",
-      "weather": "Sunset over calm sea"
+      "time": "1750s, autumn afternoon",
+      "location": "Admiral Benbow Inn, English coastal village",
+      "weather": "similar to opening, crisp autumn day"
     },
     "characters": [
       {
-        "appearance": "Young man, 16 years old, thoughtful expression",
-        "clothing": "Gentleman's attire but comfortable at inn",
-        "position": "Seated by window with ledger",
-        "action": "Pausing in writing to gaze at horizon"
+        "appearance": "young man, 14 years old, taller and weathered",
+        "clothing": "gentleman's traveling clothes, well-made",
+        "position": "standing at same window as opening",
+        "action": "looking out to sea with knowing eyes"
       },
       {
-        "appearance": "Middle-aged woman, his mother, content",
-        "clothing": "Fine dress showing improved circumstances",
-        "position": "Behind bar arranging bottles",
-        "action": "Smiling at her son"
+        "appearance": "his mother, older, relieved",
+        "clothing": "good dress, inn keeper attire",
+        "position": "behind bar, watching her son",
+        "action": "smiling with pride and concern"
       }
     ],
     "scene": {
-      "mainElements": "Full circle return to inn where adventure began, now prosperous from treasure share, young man reflecting on journey",
-      "details": "Same inn but refurbished with treasure money, new furniture and fresh paint, ledger showing healthy accounts, model ship on mantelpiece, treasure chest in corner as reminder, sunset painting ocean gold like remembered doubloons, distant sail on horizon stirring memories",
-      "background": "Devon cliffs unchanged, eternal sea continuing its rhythms",
-      "atmosphere": "Peaceful reflection, adventure transformed into wisdom, stories waiting to be told to future travelers"
+      "mainElements": "same tavern as opening but subtly improved, young man where boy once stood, full circle but changed",
+      "details": "new furniture bought with treasure money, same nautical decorations but cleaner, ledger books suggesting prosperity, young man's hand resting on window where he once cleaned, distant gaze suggesting memories, no text or letters visible",
+      "background": "same harbor view, fishing boats, but now seen differently",
+      "atmosphere": "return home after transformation, innocence lost but wisdom gained, adventure's end but memories remain"
     },
     "composition": {
-      "cameraAngle": "Interior shot framing window and sea beyond",
-      "focus": "Young man's profile against sunset ocean view",
-      "depth": "Jim at window foreground, inn interior middle ground, infinite ocean through window background"
+      "cameraAngle": "matching opening shot, wide view of tavern",
+      "focus": "young man at window in same position as boy in scene 1",
+      "depth": "tavern interior foreground, figure at window middle, sea view background"
     }
   }
 }

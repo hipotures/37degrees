@@ -1,35 +1,22 @@
 {
   "sceneDescription": {
-    "title": "The Old Sea Captain Arrives at the Inn",
+    "title": "English Harbor Dawn",
     "setting": {
-      "time": "1750s, dusk",
-      "location": "Outside Admiral Benbow Inn, Devon coast, England",
-      "weather": "Light rain beginning, darkening clouds"
+      "time": "1750s, early morning",
+      "location": "Bristol harbor, Southwest England",
+      "weather": "misty morning with pale sunlight"
     },
-    "characters": [
-      {
-        "appearance": "Tall weathered man, 50s, scarred face, missing teeth",
-        "clothing": "Long blue sea coat, tricorn hat, high leather boots",
-        "position": "Standing at inn entrance",
-        "action": "Dragging heavy sea chest behind him"
-      },
-      {
-        "appearance": "Boy, 13 years old, brown hair, curious expression",
-        "clothing": "Brown wool vest, white shirt, breeches",
-        "position": "Holding inn door open",
-        "action": "Staring with wide eyes at the stranger"
-      }
-    ],
+    "characters": [],
     "scene": {
-      "mainElements": "Inn entrance with wooden sign creaking in wind, muddy path leading from coastal road, mysterious sea captain with his chest arriving as first drops of rain fall",
-      "details": "Heavy brass-cornered sea chest leaving grooves in mud, captain's weathered hands gripping rope handle, boy's mixture of fear and fascination visible on face, lantern light spilling from inn doorway creating dramatic shadows",
-      "background": "Darkening sky over rough sea, distant sailing ship barely visible on horizon",
-      "atmosphere": "Ominous arrival, tension building with approaching storm, sense of adventure beginning"
+      "mainElements": "busy commercial harbor with tall-masted merchant ships, warehouses lining waterfront, morning mist rising from water",
+      "details": "coiled ropes on dock, wooden barrels stacked near warehouses, seabirds perched on pilings, morning light reflecting on calm water, cranes for loading cargo silhouetted against sky, no text or letters visible",
+      "background": "city of Bristol rising on hills behind harbor, church spires in distance, smoke from chimneys",
+      "atmosphere": "awakening maritime commerce center, promise of adventure in ships preparing for voyages, blend of industry and seafaring life"
     },
     "composition": {
-      "cameraAngle": "Low angle emphasizing captain's imposing presence",
-      "focus": "The captain's scarred face and the mysterious chest",
-      "depth": "Captain and chest dominating foreground, boy in doorway middle ground, stormy seascape in background"
+      "cameraAngle": "elevated wide shot overlooking entire harbor",
+      "focus": "merchant ships at dock with city backdrop",
+      "depth": "misty water in foreground, ships and docks mid-ground, city in background"
     }
   }
 }

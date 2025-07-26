@@ -1,41 +1,41 @@
 {
   "sceneDescription": {
-    "title": "First Meeting with Long John Silver",
+    "title": "The Captain's Final Hour",
     "setting": {
-      "time": "1750s, morning",
-      "location": "The Spy-glass Tavern, Bristol docks, England",
-      "weather": "Misty harbor morning"
+      "time": "1750s, dawn breaking",
+      "location": "Captain's room, Admiral Benbow Inn, Devon",
+      "weather": "pale morning light through window"
     },
     "characters": [
       {
-        "appearance": "Tall man, 40s, missing left leg, cheerful round face",
-        "clothing": "Clean blue coat, white shirt, leather apron",
-        "position": "Standing behind bar on crutch",
-        "action": "Wiping mug while smiling broadly"
+        "appearance": "dying seaman, 50s, face twisted in final agony",
+        "clothing": "nightshirt soaked with sweat",
+        "position": "collapsed on floor beside bed",
+        "action": "one hand clutched to chest, other reaching out"
       },
       {
-        "appearance": "Boy, 13 years old, slightly nervous",
-        "clothing": "Traveling clothes, brown jacket, cap in hand",
-        "position": "Standing before the bar",
-        "action": "Looking up at tall man with mixture of awe and uncertainty"
+        "appearance": "boy, 13 years old, shocked and pale",
+        "clothing": "hastily thrown on vest and breeches",
+        "position": "kneeling beside fallen man",
+        "action": "trying to help but clearly overwhelmed"
       },
       {
-        "appearance": "Colorful parrot, green with red patches",
-        "clothing": "None",
-        "position": "Perched on Silver's shoulder",
-        "action": "Preening wing feathers"
+        "appearance": "middle-aged woman, brown hair in cap, worried",
+        "clothing": "simple dress with apron",
+        "position": "standing in doorway",
+        "action": "hand to mouth in shock"
       }
     ],
     "scene": {
-      "mainElements": "Bustling dockside tavern interior with one-legged tavern keeper charming young visitor, parrot adding exotic touch",
-      "details": "Rough wooden bar polished smooth, barrels and bottles behind counter, sawdust on floor, nautical charts on walls, morning light filtering through grimy windows, dock workers at tables in background, ship masts visible through windows",
-      "background": "Bristol harbor activity visible outside, sailors and merchants passing by windows",
-      "atmosphere": "Deceptively welcoming, busy maritime commerce, underlying tension beneath Silver's charm"
+      "mainElements": "small bedroom in chaos, dying man on floor, boy's first encounter with death, mother witnessing scene",
+      "details": "overturned chair, spilled water pitcher, sea chest in corner with brass corners gleaming, first rays of dawn through window illuminating tragedy, medical bottle on nightstand, no text or letters visible",
+      "background": "simple room with nautical mementos on walls, view of sea through window",
+      "atmosphere": "death arriving with the dawn, boy forced to confront mortality, end of one chapter of his life"
     },
     "composition": {
-      "cameraAngle": "Low angle emphasizing Silver's imposing height",
-      "focus": "Silver's friendly face contrasting with his powerful presence",
-      "depth": "Silver and parrot commanding foreground, boy in middle ground looking up, tavern activity in soft focus background"
+      "cameraAngle": "high angle looking down on tragic scene",
+      "focus": "dying captain and boy's shocked face",
+      "depth": "death scene foreground, mother in doorway middle, dawn light streaming in background"
     }
   }
 }

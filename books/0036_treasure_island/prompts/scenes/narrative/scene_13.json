@@ -1,35 +1,41 @@
 {
   "sceneDescription": {
-    "title": "Jim Cuts the Hispaniola's Anchor",
+    "title": "The Apple Barrel Discovery",
     "setting": {
       "time": "1750s, night",
-      "location": "Aboard the anchored Hispaniola, island cove",
-      "weather": "Moonlit night, gentle waves"
+      "location": "Hold of the Hispaniola, at sea",
+      "weather": "calm night, ship gently rocking"
     },
     "characters": [
       {
-        "appearance": "Boy, 13 years old, determined expression",
-        "clothing": "Dark clothes for stealth, barefoot",
-        "position": "Crouched by ship's anchor rope",
-        "action": "Sawing through thick rope with knife"
+        "appearance": "boy, 13 years old, hidden and terrified",
+        "clothing": "sailor's clothes",
+        "position": "crouched inside large apple barrel",
+        "action": "pressed against barrel side, hand over mouth, eyes wide with fear"
       },
       {
-        "appearance": "Two pirates, drunk and unconscious",
-        "clothing": "Disheveled sailor clothes",
-        "position": "Sprawled on deck near mast",
-        "action": "Sleeping heavily among empty bottles"
+        "appearance": "one-legged man, 40s, different demeanor than before",
+        "clothing": "sailor clothes without apron",
+        "position": "leaning against crates nearby",
+        "action": "speaking in low, commanding voice, gesturing with pipe"
+      },
+      {
+        "appearance": "group of sailors, rough looking",
+        "clothing": "typical sailor garb",
+        "position": "gathered in shadows around Silver",
+        "action": "listening intently, some nodding, weapons visible at belts"
       }
     ],
     "scene": {
-      "mainElements": "Boy secretly cutting ship adrift while pirate guards sleep, moonlight creating dramatic shadows on deck",
-      "details": "Thick anchor rope fraying under knife blade, hemp fibers parting strand by strand, empty rum bottles rolling with ship's gentle motion, coiled ropes and ship equipment casting shadows, island shoreline visible in distance, small boat tied alongside",
-      "background": "Moonlit cove, dark jungle on shore, stars reflected in calm water",
-      "atmosphere": "Tense stealth mission, one boy against pirates, desperate courage in darkness"
+      "mainElements": "dark ship's hold with boy trapped in barrel overhearing conspiracy, Silver revealed as pirate leader, moment of terrible discovery",
+      "details": "moonlight through grating creating dramatic shadows, apple barrel among other supplies, pistols and knives visible on conspirators, boy's face partially visible showing terror, rats scurrying in corners, no text or letters visible",
+      "background": "ship's supplies stacked around, ropes and sailing equipment",
+      "atmosphere": "menace and betrayal revealed, boy's innocence shattered, dangerous secret discovered"
     },
     "composition": {
-      "cameraAngle": "Close low angle on rope and hands",
-      "focus": "Knife cutting through anchor rope, fraying strands",
-      "depth": "Rope and hands in sharp foreground, sleeping pirates middle ground, moonlit water and island background"
+      "cameraAngle": "low angle from boy's perspective inside barrel",
+      "focus": "boy's terrified face in foreground, Silver and pirates beyond",
+      "depth": "inside of barrel foreground, conspirators middle, dark hold background"
     }
   }
 }

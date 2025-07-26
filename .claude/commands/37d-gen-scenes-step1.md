@@ -6,13 +6,13 @@ Generate 25 scene descriptions in JSON format based on book research.
 ## Input Parameters
 1. **Book Title**: (e.g., "Wuthering Heights")
 2. **Author**: (e.g., "Emily Brontë")
-3. **Generator Type**: Choose one: `narrative`, `flexible`, or `podcast` (default: `podcast` if not specified)
+3. **Generator Type**: Choose one: `narrative`, `flexible`, `podcast`, `atmospheric`, or `emotional` (default: `podcast` if not specified)
 
 ## Process Steps
 
 ### 1. Validate Generator Type and Locate Book Directory
 - If no generator type is provided, inform user: "No generator type specified. Using default: podcast"
-- Validate generator type is one of: `narrative`, `flexible`, or `podcast`
+- Validate generator type is one of: `narrative`, `flexible`, `podcast`, `atmospheric`, or `emotional`
 - Read `docs/STRUCTURE.md` to understand project structure
 - Find book directory by searching for book title/author in `books/` directories
 - Identify book number and path (e.g., `books/0037_wuthering_heights/`)
@@ -28,8 +28,10 @@ Generate 25 scene descriptions in JSON format based on book research.
   - If `narrative`: Read `config/prompt/scene-generator/narrative-prompt-generator.md`
   - If `flexible`: Read `config/prompt/scene-generator/flexible-prompt-generator.md`
   - If `podcast`: Read `config/prompt/scene-generator/podcast-image-prompt-generator.md`
+  - If `atmospheric`: Read `config/prompt/scene-generator/atmospheric-moments-generator.md`
+  - If `emotional`: Read `config/prompt/scene-generator/emotional-journey-generator.md`
   
-  IMPORTANT: Read ONLY the file corresponding to the selected generator type. Do NOT read the other two generators.
+  IMPORTANT: Read ONLY the file corresponding to the selected generator type. Do NOT read the other generators.
   
   Study the selected generator thoroughly:
   - Understand its specific approach and guidelines
@@ -114,9 +116,12 @@ Each file must match `scene-description-template.json` structure exactly.
 - **CLOTHING: Be specific about period garments**
   - Good: "brown wool vest, white linen shirt, knee-length breeches"
   - Bad: "everyday clothes", "best outfit"
-- **NO PROPRIETARY NAMES**: Replace with descriptive terms
-  - Bad: "Castle Blackstone", "The Wanderer ship", "Isle of Mysteries"
-  - Good: "medieval fortress", "merchant sailing vessel", "foggy island"
+- **NO PROPRIETARY NAMES**: Replace ALL proper names with descriptive terms
+  - Bad: "Castle Blackstone", "The Wanderer ship", "Isle of Mysteries", "Admiral Benbow Inn", "Hispaniola"
+  - Good: "medieval fortress", "merchant sailing vessel", "foggy island", "coastal tavern", "three-masted merchant ship"
+  - This includes: building names, ship names, location names (except real geographic locations like "Devon" or "England")
+  - Even if these names appear in the original book, replace them with descriptions
+  - REMEMBER: AI image generators don't know fictional place names from books. Always describe what something IS, not what it's called in the story
   - The "title" field must NOT contain character names
     - Good: "Negotiations at Dawn", "Library Window View"
     - Bad: "Sofia at the Gate", "Marcus's Discovery"
