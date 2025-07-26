@@ -45,5 +45,9 @@ python-socketio
 # Emoji rendering support
 pilmoji
 
+# Data visualization
+matplotlib
+networkx
+
 # Optional: TikTok upload automation
 # tiktok-uploader  # Uncomment if needed

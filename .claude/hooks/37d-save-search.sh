@@ -3,14 +3,17 @@
 # Read JSON from stdin
 json_input=$(cat)
 
+# Debug: save raw input to see what we're getting
+echo "$json_input" > /tmp/37d-hook-debug.json
+
 # Extract fields using jq
-agent_name=$(echo "$json_input" | jq -r '.agent_name // empty')
 tool_name=$(echo "$json_input" | jq -r '.tool_name // empty')
 tool_input=$(echo "$json_input" | jq -r '.tool_input // empty')
 tool_response=$(echo "$json_input" | jq -r '.tool_response // empty')
 
-# Only process 37d-* agents
-if [[ ! "$agent_name" =~ ^37d- ]]; then
+# Only process web searches for now
+if [[ "$tool_name" != "WebSearch" && "$tool_name" != "WebFetch" ]]; then
+    echo '{}'
     exit 0
 fi
 
@@ -22,7 +25,7 @@ if [ -z "$book_folder" ]; then
 fi
 
 # Create findings file path
-findings_file="$book_folder/docs/${agent_name}_raw_searches.md"
+findings_file="$book_folder/docs/web_searches_raw.md"
 mkdir -p "$book_folder/docs"
 
 # Append search results
@@ -42,4 +45,5 @@ mkdir -p "$book_folder/docs"
     echo "---"
 } >> "$findings_file"
 
-exit 0
+# Return empty JSON object to satisfy Claude Code
+echo '{}'
