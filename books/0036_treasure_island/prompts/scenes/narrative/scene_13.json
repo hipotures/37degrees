@@ -1,0 +1,41 @@
+{
+  "sceneDescription": {
+    "title": "Odpłynięcie Hispanioli z portu",
+    "setting": {
+      "time": "1750s, świt",
+      "location": "Pokład Hispanioli, port Bristol",
+      "weather": "Poranna bryza, czyste niebo"
+    },
+    "characters": [
+      {
+        "appearance": "Kapitan Smollett, surowy mężczyzna około 50 lat",
+        "clothing": "Granatowy mundur kapitański, trójgraniasty kapelusz",
+        "position": "Stoi na mostku kapitańskim",
+        "action": "Wydaje rozkazy przez tubę głosową"
+      },
+      {
+        "appearance": "Marynarze przy linach, różnego wieku",
+        "clothing": "Proste ubrania marynarskie",
+        "position": "Rozproszeni po pokładzie i w olinowaniu",
+        "action": "Stawiają żagle, ciągną liny"
+      },
+      {
+        "appearance": "Jim na dziobie statku",
+        "clothing": "Kurtka marynarską, chusta na głowie",
+        "position": "Stoi przy burcie dziobowej",
+        "action": "Macha na pożegnanie do brzegu"
+      }
+    ],
+    "scene": {
+      "mainElements": "Żagle napełniające się wiatrem, pokład pełen aktywności, oddalający się brzeg",
+      "details": "Liny napinające się z trzaskiem, flaga brytyjska na rufie, beczki przywiązane na pokładzie, kompas przy sterze, mewy towarzyszące statkowi",
+      "background": "Port Bristol i miasto kurczące się w oddali",
+      "atmosphere": "Ekscytacja wyruszenia w nieznane, poranna świeżość, dźwięki morza i wiatru"
+    },
+    "composition": {
+      "cameraAngle": "Widok z wysokości głównego masztu",
+      "focus": "Cały statek w ruchu z brzegiem w tle",
+      "depth": "Pierwszy plan: olinowanie, drugi plan: pokład z postaciami, trzeci plan: oddalający się port"
+    }
+  }
+}

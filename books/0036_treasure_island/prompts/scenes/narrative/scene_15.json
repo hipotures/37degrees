@@ -1,0 +1,41 @@
+{
+  "sceneDescription": {
+    "title": "Pierwsze ujrzenie Wyspy Skarbów z pokładu",
+    "setting": {
+      "time": "1750s, wczesny ranek",
+      "location": "Pokład Hispanioli, wody tropikalne",
+      "weather": "Mglisty świt, wilgotne powietrze"
+    },
+    "characters": [
+      {
+        "appearance": "Jim przy burcie, napięty i czujny",
+        "clothing": "Lekkie ubranie tropikalne, chusta na głowie",
+        "position": "Stoi przy relingu dziobowym",
+        "action": "Wpatruje się intensywnie w wyłaniającą się wyspę"
+      },
+      {
+        "appearance": "Silver obok, udający przyjaźń",
+        "clothing": "Koszula z wywiniętymi rękawami",
+        "position": "Opiera się o burtę obok Jima",
+        "action": "Wskazuje na różne części wyspy, uśmiecha się fałszywie"
+      },
+      {
+        "appearance": "Kapitan Smollett na mostku",
+        "clothing": "Mundur kapitański",
+        "position": "Przy kole sterowym",
+        "action": "Obserwuje wyspę przez lunetę"
+      }
+    ],
+    "scene": {
+      "mainElements": "Tajemnicza wyspa wyłaniająca się z mgły, trzy wzgórza, tropikalna roślinność",
+      "details": "Szkieletowe Wzgórze widoczne w oddali, plaże z białym piaskiem, palmy kołyszące się na brzegu, ptaki tropikalne krążące nad wyspą, rafa koralowa widoczna przez przejrzystą wodę",
+      "background": "Bezkresny ocean, wschodzące słońce przebijające się przez mgłę",
+      "atmosphere": "Mieszanka ekscytacji i grozy, piękno wyspy kontrastujące z wiedzą Jima o spisku"
+    },
+    "composition": {
+      "cameraAngle": "Widok zza pleców Jima i Silvera",
+      "focus": "Wyspa w centrum kompozycji, majestatyczna i groźna",
+      "depth": "Pierwszy plan: postacie przy burcie, drugi plan: ocean, trzeci plan: wyspa we mgle"
+    }
+  }
+}

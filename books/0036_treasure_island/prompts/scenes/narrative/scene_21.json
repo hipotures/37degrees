@@ -1,0 +1,35 @@
+{
+  "sceneDescription": {
+    "title": "Walka z Israelem Handsem na pokładzie",
+    "setting": {
+      "time": "1750s, popołudnie",
+      "location": "Pokład Hispanioli dryfującej",
+      "weather": "Słoneczny dzień, lekki wiatr"
+    },
+    "characters": [
+      {
+        "appearance": "Israel Hands, ranny pirat z zakrwawioną nogą",
+        "clothing": "Brudna koszula, podarte spodnie",
+        "position": "Czołga się po pokładzie z nożem",
+        "action": "Rzuca nożem w Jima wspinającego się na maszt"
+      },
+      {
+        "appearance": "Jim na olinowaniu, przerażony ale zdeterminowany",
+        "clothing": "Podarta koszula, spodnie",
+        "position": "Wspina się desperacko po linach masztu",
+        "action": "Uchyla się przed nożem, sięga po pistolet"
+      }
+    ],
+    "scene": {
+      "mainElements": "Pochylony pokład dryfującego statku, splątane liny, główny maszt",
+      "details": "Nóż wbity w maszt tuż obok Jima, krew na pokładzie, statek przechylony niebezpiecznie, martwe ciało innego pirata w kącie, koło sterowe kręcące się bez kontroli",
+      "background": "Błękitne niebo, wyspa widoczna w oddali",
+      "atmosphere": "Dramatyczne napięcie, walka o życie na opuszczonym statku"
+    },
+    "composition": {
+      "cameraAngle": "Widok z dołu w górę masztu",
+      "focus": "Jim na linach z Handsem czołgającym się poniżej",
+      "depth": "Pierwszy plan: Hands na pokładzie, drugi plan: Jim na maszcie, trzeci plan: niebo"
+    }
+  }
+}

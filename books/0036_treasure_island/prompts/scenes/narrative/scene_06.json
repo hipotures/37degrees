@@ -1,0 +1,41 @@
+{
+  "sceneDescription": {
+    "title": "Billy Bones opowiada historie przy kominku",
+    "setting": {
+      "time": "1750s, późny wieczór",
+      "location": "Główna sala gospody Admiral Benbow",
+      "weather": "Spokojna, gwiaździsta noc"
+    },
+    "characters": [
+      {
+        "appearance": "Billy Bones, stary marynarz z bliznami",
+        "clothing": "Granatowy kubrak, rozwiązana chustka na głowie",
+        "position": "Siedzi przy kominku, gestykuluje żywo",
+        "action": "Opowiada historię, wskazując na niewidzialnych wrogów"
+      },
+      {
+        "appearance": "Trzech miejscowych rybaków, różny wiek",
+        "clothing": "Proste ubrania robocze, wełniane czapki",
+        "position": "Siedzą wokół marynarza",
+        "action": "Słuchają z szeroko otwartymi oczami, popijają piwo"
+      },
+      {
+        "appearance": "Jim ukryty w cieniu",
+        "clothing": "Nocna koszula, bose stopy",
+        "position": "Kuca za beczką w kącie",
+        "action": "Podsłuchuje z fascynacją, oczy błyszczące w ciemności"
+      }
+    ],
+    "scene": {
+      "mainElements": "Kominek z żarzącymi się węglami, krąg słuchaczy w blasku ognia",
+      "details": "Cienie tańczące na ścianach przypominające potwory morskie, puste kufle na stole, dym z fajek tworzący mgłę, mapa morska przygnieciona kuflem na stole",
+      "background": "Ciemna sala poza kręgiem światła",
+      "atmosphere": "Hipnotyzująca atmosfera opowieści, mieszanka strachu i fascynacji"
+    },
+    "composition": {
+      "cameraAngle": "Niski kąt od strony kominka",
+      "focus": "Billy Bones gestykulujący w centrum światła",
+      "depth": "Pierwszy plan: żarzące się węgle, drugi plan: krąg słuchaczy, trzeci plan: Jim w cieniu"
+    }
+  }
+}

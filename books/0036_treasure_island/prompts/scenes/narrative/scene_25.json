@@ -1,0 +1,35 @@
+{
+  "sceneDescription": {
+    "title": "Powrót do gospody Admiral Benbow",
+    "setting": {
+      "time": "1750s, jesienne popołudnie",
+      "location": "Gospoda Admiral Benbow, Anglia",
+      "weather": "Chłodny dzień, liście opadające z drzew"
+    },
+    "characters": [
+      {
+        "appearance": "Jim starszy i dojrzalszy, pewność w oczach",
+        "clothing": "Eleganckie ubranie młodego dżentelmena",
+        "position": "Stoi przed gospodą",
+        "action": "Patrzy zamyślony na znajome miejsce"
+      },
+      {
+        "appearance": "Matka Jima w drzwiach, uśmiechnięta",
+        "clothing": "Schludna suknia, biały fartuch",
+        "position": "W drzwiach gospody",
+        "action": "Wita syna z radością i dumą"
+      }
+    ],
+    "scene": {
+      "mainElements": "Gospoda wyremontowana, nowy szyld, uporządkowane otoczenie",
+      "details": "Nowy szyld 'Admiral Benbow' błyszczący w słońcu, świeżo pomalowane okiennice, ogród z kwiatami, dym z komina, powóz odjeżdżający drogą",
+      "background": "Jesienne drzewa, spokojna angielska wieś",
+      "atmosphere": "Spokój po burzy, poczucie domu, zamknięty rozdział przygody"
+    },
+    "composition": {
+      "cameraAngle": "Szeroki plan pokazujący całą gospodę",
+      "focus": "Jim przed gospodą jako symbol powrotu",
+      "depth": "Pierwszy plan: Jim, drugi plan: gospoda i matka, trzeci plan: krajobraz"
+    }
+  }
+}

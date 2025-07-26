@@ -1,0 +1,41 @@
+{
+  "sceneDescription": {
+    "title": "Jim w beczce jabłek podsłuchuje spisek",
+    "setting": {
+      "time": "1750s, noc",
+      "location": "Ładownia Hispanioli na pełnym morzu",
+      "weather": "Spokojna noc, statek kołysze się łagodnie"
+    },
+    "characters": [
+      {
+        "appearance": "Jim ukryty w beczce, tylko oczy widoczne",
+        "clothing": "Prosta koszula i spodnie",
+        "position": "Skulony wewnątrz dużej beczki",
+        "action": "Zastyga w bezruchu, szeroko otwarte oczy ze strachu"
+      },
+      {
+        "appearance": "Long John Silver przy świetle latarni",
+        "clothing": "Luźna koszula, pas z nożem",
+        "position": "Siedzi na skrzyni obok beczki",
+        "action": "Gestykuluje, mówiąc konspiracyjnym tonem"
+      },
+      {
+        "appearance": "Trzech marynarzy wokół Silvera",
+        "clothing": "Zniszczone ubrania marynarskie",
+        "position": "Przykucnięci w półkolu",
+        "action": "Słuchają uważnie, kiwają głowami"
+      }
+    ],
+    "scene": {
+      "mainElements": "Ciemna ładownia, beczki i skrzynie, krąg światła od latarni",
+      "details": "Cienie rzucane przez latarnię tworzą groteskowe kształty, jabłka rozsypane wokół beczki, szczury przemykające w ciemności, kołysanie statku widoczne po ruchu cieni",
+      "background": "Ciemne zakamarki ładowni, belki konstrukcyjne statku",
+      "atmosphere": "Klaustrofobiczna i napięta atmosfera, strach Jima kontrastujący ze swobodą spiskowców"
+    },
+    "composition": {
+      "cameraAngle": "Widok z perspektywy Jima z wnętrza beczki",
+      "focus": "Silver i spiskowcy przez szczelinę między klepkami",
+      "depth": "Pierwszy plan: klepki beczki, drugi plan: spiskowcy w świetle, trzeci plan: ciemna ładownia"
+    }
+  }
+}

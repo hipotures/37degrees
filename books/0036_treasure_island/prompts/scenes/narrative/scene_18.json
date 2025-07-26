@@ -1,0 +1,35 @@
+{
+  "sceneDescription": {
+    "title": "Spotkanie z Benem Gunnem w dżungli",
+    "setting": {
+      "time": "1750s, zmierzch",
+      "location": "Gęsta dżungla Wyspy Skarbów",
+      "weather": "Wilgotny wieczór, cienie wydłużające się"
+    },
+    "characters": [
+      {
+        "appearance": "Ben Gunn, dziki wygląd, długie włosy i broda, wychudzona twarz",
+        "clothing": "Strzępy skóry koziej, samodziałowe ubranie",
+        "position": "Wyłania się zza drzewa",
+        "action": "Uśmiecha się szaleńczo, gestykuluje dziwacznie"
+      },
+      {
+        "appearance": "Jim przestraszony, zmęczony",
+        "clothing": "Podarte i brudne ubranie",
+        "position": "Cofa się pod drzewo",
+        "action": "Patrzy z mieszanką strachu i fascynacji"
+      }
+    ],
+    "scene": {
+      "mainElements": "Gęsty las tropikalny, splątane liany, półmrok",
+      "details": "Dziwne cienie między drzewami, owoce tropikalne na gałęziach, małpy obserwujące z koron drzew, ślady stóp Bena w błocie, prowizoryczna włócznia w jego ręku",
+      "background": "Nieprzenikliwa ściana zieleni, odgłosy dżungli",
+      "atmosphere": "Niesamowita i niepokojąca atmosfera, granica między cywilizacją a dzikością"
+    },
+    "composition": {
+      "cameraAngle": "Średni plan na poziomie oczu",
+      "focus": "Twarze obu postaci w półmroku",
+      "depth": "Pierwszy plan: rośliny i liany, drugi plan: postacie, trzeci plan: ciemna dżungla"
+    }
+  }
+}

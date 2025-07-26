@@ -1,0 +1,35 @@
+{
+  "sceneDescription": {
+    "title": "Ślepy Pew przy drzwiach gospody",
+    "setting": {
+      "time": "1750s, mglisty poranek",
+      "location": "Przed wejściem do gospody Admiral Benbow",
+      "weather": "Gęsta mgła, wilgoć w powietrzu"
+    },
+    "characters": [
+      {
+        "appearance": "Ślepy żebrak, wysoki, koścista twarz, puste oczy",
+        "clothing": "Podarta peleryna, zniszczony kapelusz, obszarpane ubranie",
+        "position": "Stoi przed drzwiami, opiera się na kiju",
+        "action": "Stuka kijem w drzwi, głowa uniesiona nasłuchując"
+      },
+      {
+        "appearance": "Jim w drzwiach, przerażony",
+        "clothing": "Poranna kamizelka i spodnie",
+        "position": "Stoi w uchylonych drzwiach",
+        "action": "Cofa się instynktownie, ręka na klamce"
+      }
+    ],
+    "scene": {
+      "mainElements": "Drewniane drzwi gospody, kamienny próg, mgła okalająca postacie",
+      "details": "Krople rosy na pajęczynach, stukanie kija o kamienie, cień ślepca wydłużony we mgle, ślady błota na progu, latarnia gasnąca przy drzwiach",
+      "background": "Niewyraźne kontury drogi i drzew we mgle",
+      "atmosphere": "Złowroga i niepokojąca atmosfera, poczucie nadchodzącego zagrożenia"
+    },
+    "composition": {
+      "cameraAngle": "Widok zza pleców Jima, patrzący na ślepca",
+      "focus": "Przerażająca postać ślepego Pew w centrum",
+      "depth": "Pierwszy plan: Jim w drzwiach, drugi plan: ślepy Pew, trzeci plan: mgła"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "sceneDescription": {
+    "title": "Spotkanie u dziedzica Trelawneya",
+    "setting": {
+      "time": "1750s, popołudnie",
+      "location": "Biblioteka w rezydencji dziedzica Trelawneya",
+      "weather": "Słoneczny dzień"
+    },
+    "characters": [
+      {
+        "appearance": "Dziedzic Trelawney, korpulentny mężczyzna około 45 lat, rumiana twarz",
+        "clothing": "Bogaty strój szlachecki, peruka, jedwabna kamizelka",
+        "position": "Siedzi za mahoniowym biurkiem",
+        "action": "Studiuje mapę przez lupę z ekscytacją"
+      },
+      {
+        "appearance": "Doktor Livesey, szczupły, inteligentny",
+        "clothing": "Ciemny surdut, biała peruka sędziowska",
+        "position": "Stoi obok biurka",
+        "action": "Wskazuje palcem na szczegóły mapy"
+      },
+      {
+        "appearance": "Jim stojący z boku",
+        "clothing": "Najlepsze ubranie, czyste i wyprasowane",
+        "position": "Stoi nieśmiało przy drzwiach",
+        "action": "Obserwuje z podziwem eleganckie wnętrze"
+      }
+    ],
+    "scene": {
+      "mainElements": "Bogata biblioteka z wysokimi regałami książek, duże biurko z mapą",
+      "details": "Globus w rogu, modele statków na półkach, portrety przodków na ścianach, kryształowy karafka z winem, promienie słońca przez wysokie okna oświetlające mapę",
+      "background": "Ściany pokryte książkami od podłogi do sufitu",
+      "atmosphere": "Ekscytacja odkryciem, atmosfera planowania wielkiej przygody, kontrast bogactwa z prostotą Jima"
+    },
+    "composition": {
+      "cameraAngle": "Widok od strony Jima na panów przy biurku",
+      "focus": "Mapa rozłożona na biurku jako centrum zainteresowania",
+      "depth": "Pierwszy plan: Jim, drugi plan: panowie nad mapą, trzeci plan: biblioteka"
+    }
+  }
+}

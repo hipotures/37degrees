@@ -1,0 +1,41 @@
+{
+  "sceneDescription": {
+    "title": "Pożegnanie z Silverem na plaży",
+    "setting": {
+      "time": "1750s, wczesny ranek",
+      "location": "Plaża wyspy, przy łodziach",
+      "weather": "Świt, spokojne morze"
+    },
+    "characters": [
+      {
+        "appearance": "Silver z workiem złota, melancholijny",
+        "clothing": "Czystsza koszula, kapelusz",
+        "position": "Stoi przy małej łodzi",
+        "action": "Wyciąga rękę do Jima na pożegnanie"
+      },
+      {
+        "appearance": "Jim rozdarty emocjonalnie",
+        "clothing": "Nowe ubranie z zapasów statku",
+        "position": "Stoi naprzeciwko Silvera",
+        "action": "Waha się, czy uścisnąć dłoń"
+      },
+      {
+        "appearance": "Reszta załogi w oddali",
+        "clothing": "Różne stroje",
+        "position": "Przy Hispanioli na kotwicy",
+        "action": "Ładują skarb na statek"
+      }
+    ],
+    "scene": {
+      "mainElements": "Dwie łodzie na plaży, Hispaniola w zatoce, wschodzące słońce",
+      "details": "Ślady na piasku, małe fale liżące brzeg, papuga Silvera na jego ramieniu, worek ze złotem w łodzi, mgła poranna unosząca się nad wodą",
+      "background": "Wyspa w porannym świetle, palmy i góry",
+      "atmosphere": "Melancholijne pożegnanie, koniec przygody, niejednoznaczne uczucia"
+    },
+    "composition": {
+      "cameraAngle": "Średni plan, profil obu postaci",
+      "focus": "Jim i Silver twarzą w twarz",
+      "depth": "Pierwszy plan: postacie, drugi plan: łodzie i plaża, trzeci plan: statek i morze"
+    }
+  }
+}

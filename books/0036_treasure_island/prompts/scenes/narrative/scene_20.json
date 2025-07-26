@@ -1,0 +1,29 @@
+{
+  "sceneDescription": {
+    "title": "Jim kradnie łódź Bena Gunna",
+    "setting": {
+      "time": "1750s, noc",
+      "location": "Ukryta zatoczka na wyspie",
+      "weather": "Księżycowa noc, spokojne morze"
+    },
+    "characters": [
+      {
+        "appearance": "Jim skulony, determinacja na twarzy",
+        "clothing": "Ciemne ubranie, przywiązany nóż",
+        "position": "Przy małej skórzanej łódce na brzegu",
+        "action": "Pcha łódkę do wody, rozgląda się nerwowo"
+      }
+    ],
+    "scene": {
+      "mainElements": "Mała prymitywna łódka z koziej skóry, skalista zatoczka, srebrzyste morze",
+      "details": "Łódka ledwo większa niż Jim, wiosło z gałęzi, skały osłaniające zatoczkę, ślady stóp na piasku, Hispaniola widoczna w oddali na kotwicy",
+      "background": "Księżyc w pełni oświetlający wodę, gwiaździste niebo",
+      "atmosphere": "Napięcie i determinacja, cichość nocy przerywanej pluskaniem wody"
+    },
+    "composition": {
+      "cameraAngle": "Niski kąt znad wody",
+      "focus": "Jim przy łódce w świetle księżyca",
+      "depth": "Pierwszy plan: woda i łódka, drugi plan: Jim, trzeci plan: zatoka i morze"
+    }
+  }
+}

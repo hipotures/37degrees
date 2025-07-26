@@ -1,0 +1,41 @@
+{
+  "sceneDescription": {
+    "title": "Odkrycie pustej kryjówki skarbu",
+    "setting": {
+      "time": "1750s, późne popołudnie",
+      "location": "Polana w głębi wyspy, miejsce skarbu",
+      "weather": "Zachodzące słońce, długie cienie"
+    },
+    "characters": [
+      {
+        "appearance": "Silver wściekły, twarz wykrzywiona gniewem",
+        "clothing": "Brudne ubranie, pas z pistoletem",
+        "position": "Stoi nad wielkim dołem",
+        "action": "Patrzy w pusty dół z niedowierzaniem"
+      },
+      {
+        "appearance": "Grupa piratów oszołomionych",
+        "clothing": "Różne stroje pirackie",
+        "position": "Wokół dołu",
+        "action": "Klęczą przy krawędzi, grzebią w ziemi"
+      },
+      {
+        "appearance": "Jim trzymany przez jednego pirata",
+        "clothing": "Zniszczone ubranie",
+        "position": "Z boku pod strażą",
+        "action": "Obserwuje reakcję piratów z ulgą"
+      }
+    ],
+    "scene": {
+      "mainElements": "Ogromny pusty dół, ślady dawnego kopania, rozczarowanie piratów",
+      "details": "Łopaty rzucone wokół, kawałki starej skrzyni w ziemi, szkielet wskazujący kierunek leżący nieopodal, drzewa rzucające długie cienie na polanę",
+      "background": "Gęsty las otaczający polanę, góry wyspy w oddali",
+      "atmosphere": "Szok i wściekłość, zniszczone nadzieje, napięcie grożące wybuchem"
+    },
+    "composition": {
+      "cameraAngle": "Widok z góry na dół i zgromadzonych wokół",
+      "focus": "Pusty dół jako centrum rozczarowania",
+      "depth": "Pierwszy plan: krawędź dołu, drugi plan: piraci, trzeci plan: las"
+    }
+  }
+}

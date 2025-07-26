@@ -1,0 +1,41 @@
+{
+  "sceneDescription": {
+    "title": "Jaskinia Bena Gunna ze skarbem",
+    "setting": {
+      "time": "1750s, wieczór",
+      "location": "Ukryta jaskinia w górach wyspy",
+      "weather": "Zachód słońca na zewnątrz"
+    },
+    "characters": [
+      {
+        "appearance": "Ben Gunn dumny i podekscytowany",
+        "clothing": "Jego zwykłe łachmany ze skór",
+        "position": "Stoi przy stosach złota",
+        "action": "Wskazuje na skarb z szerokim uśmiechem"
+      },
+      {
+        "appearance": "Doktor Livesey zdumiony",
+        "clothing": "Zniszczony surdut i koszula",
+        "position": "Klęczy przy skrzyniach",
+        "action": "Przesypuje monety przez palce"
+      },
+      {
+        "appearance": "Jim oszołomiony bogactwem",
+        "clothing": "Podarte ubranie po przygodach",
+        "position": "Stoi w wejściu do jaskini",
+        "action": "Rozgląda się z niedowierzaniem"
+      }
+    ],
+    "scene": {
+      "mainElements": "Stosy złotych monet, skrzynie z klejnotami, sztaby złota",
+      "details": "Hiszpańskie dublony, kawałki ósemek, brytyjskie gwinee, francuskie ludwiki, biżuteria z pereł i kamieni szlachetnych, pochodnie oświetlające skarb, błyski złota w świetle",
+      "background": "Skalne ściany jaskini, stalaktyty",
+      "atmosphere": "Magiczna atmosfera odkrycia, blask złota wypełniający jaskinię"
+    },
+    "composition": {
+      "cameraAngle": "Szeroki kąt obejmujący całą jaskinię",
+      "focus": "Skarb w centrum z postaciami wokół",
+      "depth": "Pierwszy plan: część skarbu, drugi plan: postacie, trzeci plan: głąb jaskini"
+    }
+  }
+}

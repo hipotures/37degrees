@@ -1,0 +1,41 @@
+{
+  "sceneDescription": {
+    "title": "Doktor Livesey bada chorego ojca Jima",
+    "setting": {
+      "time": "1750s, wczesne popołudnie",
+      "location": "Sypialnia na piętrze gospody",
+      "weather": "Pochmurny dzień, przyćmione światło"
+    },
+    "characters": [
+      {
+        "appearance": "Mężczyzna około 50 lat, elegancki, z peruką, inteligentna twarz",
+        "clothing": "Ciemny surdut, biała koszula z żabotem, kamizelka",
+        "position": "Pochyla się nad łóżkiem chorego",
+        "action": "Bada puls pacjenta, marszcząc czoło z troską"
+      },
+      {
+        "appearance": "Chory mężczyzna w łóżku, blady, osłabiony",
+        "clothing": "Nocna koszula",
+        "position": "Leży w łóżku pod kołdrą",
+        "action": "Oddycha ciężko, zamknięte oczy"
+      },
+      {
+        "appearance": "Jim stojący przy drzwiach",
+        "clothing": "Codzienne ubranie",
+        "position": "W progu pokoju",
+        "action": "Obserwuje z niepokojem, trzyma tacę z lekarstwami"
+      }
+    ],
+    "scene": {
+      "mainElements": "Skromny pokój z drewnianym łóżkiem, stolik z lekami, krzesło",
+      "details": "Medyczna torba doktora otwarta na stoliku, buteleczki z lekarstwami, miska z wodą i ręcznik, krucyfiks na ścianie, świeca paląca się na stoliku nocnym",
+      "background": "Okno z widokiem na pochmurne niebo",
+      "atmosphere": "Poważna i smutna atmosfera, zapach lekarstw, cisza przerywana ciężkim oddechem"
+    },
+    "composition": {
+      "cameraAngle": "Widok z rogu pokoju przy drzwiach",
+      "focus": "Doktor badający pacjenta w centrum",
+      "depth": "Pierwszy plan: Jim w drzwiach, drugi plan: scena przy łóżku, trzeci plan: okno"
+    }
+  }
+}

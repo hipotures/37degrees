@@ -1,0 +1,35 @@
+{
+  "sceneDescription": {
+    "title": "Czarna plama w dłoni Billy'ego Bonesa",
+    "setting": {
+      "time": "1750s, popołudnie",
+      "location": "Pokój Billy'ego Bonesa w gospodzie",
+      "weather": "Pochmurny dzień"
+    },
+    "characters": [
+      {
+        "appearance": "Billy Bones, blady ze strachu, pot na czole",
+        "clothing": "Rozchełstana koszula, spodnie marynarskie",
+        "position": "Siedzi ciężko na łóżku",
+        "action": "Patrzy z przerażeniem na czarną plamę w dłoni"
+      },
+      {
+        "appearance": "Jim stojący obok",
+        "clothing": "Zwykłe ubranie",
+        "position": "Stoi przy łóżku",
+        "action": "Patrzy z niepokojem na reakcję marynarza"
+      }
+    ],
+    "scene": {
+      "mainElements": "Mały pokój, łóżko z pomiętą pościelą, morska skrzynia w rogu",
+      "details": "Czarna plama - kawałek papieru z czarnym kółkiem, drżące ręce Billy'ego, butelka rumu na stoliku, pistolet i nóż na łóżku, światło padające przez małe okno",
+      "background": "Ściana z hakami na ubrania, zamknięte drzwi",
+      "atmosphere": "Napięcie i strach, poczucie nieuchronnego losu, dramatyczny moment"
+    },
+    "composition": {
+      "cameraAngle": "Zbliżenie na dłonie Billy'ego z czarną plamą",
+      "focus": "Czarna plama w drżących rękach jako centrum uwagi",
+      "depth": "Pierwszy plan: ręce z plamą, drugi plan: twarze postaci, trzeci plan: pokój"
+    }
+  }
+}

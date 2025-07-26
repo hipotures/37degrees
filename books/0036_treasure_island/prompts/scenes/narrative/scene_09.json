@@ -1,0 +1,35 @@
+{
+  "sceneDescription": {
+    "title": "Odkrycie mapy w morskiej skrzyni",
+    "setting": {
+      "time": "1750s, noc",
+      "location": "Pokój Billy'ego Bonesa, tuż po jego śmierci",
+      "weather": "Burzowa noc, wiatr wyje za oknem"
+    },
+    "characters": [
+      {
+        "appearance": "Jim klęczący przy skrzyni",
+        "clothing": "Pomięte ubranie, włosy w nieładzie",
+        "position": "Klęczy przy otwartej morskiej skrzyni",
+        "action": "Wyciąga zwinięty pergamin ze skrytki"
+      },
+      {
+        "appearance": "Matka Jima z latarnią",
+        "clothing": "Nocny szlafrok, czepek na głowie",
+        "position": "Stoi za synem",
+        "action": "Oświetla latarnią zawartość skrzyni, patrzy niespokojnie na drzwi"
+      }
+    ],
+    "scene": {
+      "mainElements": "Otwarta morska skrzynia, rozrzucone przedmioty, zwój pergaminu w rękach Jima",
+      "details": "Złote monety hiszpańskie, stary kompas, pistolet, sztylet, buteleczki z proszkiem, pożółkłe dokumenty, światło latarni odbijające się od monet",
+      "background": "Ciało Billy'ego przykryte prześcieradłem na łóżku",
+      "atmosphere": "Napięcie i pośpiech, strach przed powrotem piratów, odkrycie tajemnicy"
+    },
+    "composition": {
+      "cameraAngle": "Widok z góry na klęczącego Jima",
+      "focus": "Ręce Jima trzymające mapę w świetle latarni",
+      "depth": "Pierwszy plan: otwarta skrzynia, drugi plan: Jim i matka, trzeci plan: ciemny pokój"
+    }
+  }
+}

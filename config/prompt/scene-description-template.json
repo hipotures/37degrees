@@ -1,30 +1,30 @@
 {
   "sceneDescription": {
-    "title": "// Nazwa sceny",
+    "title": "// Nazwa sceny [zalecane: 5-15 słów]",
     "setting": {
-      "time": "// Epoka i pora dnia (np. '1920, wieczór')",
-      "location": "// Miejsce akcji (np. 'paryska kawiarnia, taras')",
-      "weather": "// Pogoda jeśli istotna"
+      "time": "// Epoka i pora dnia (np. '1920, wieczór') [zalecane: 3-15 słów]",
+      "location": "// Miejsce akcji (np. 'paryska kawiarnia, taras') [zalecane: 5-20 słów]",
+      "weather": "// Pogoda [opcjonalne, zalecane: 5-15 słów]"
     },
     "characters": [
       {
-        "appearance": "// Płeć, wiek, podstawowy wygląd (np. 'mężczyzna, 40 lat, wysoki, szczupły')",
-        "clothing": "// Strój (np. 'szary garnitur z epoki, kapelusz')",
-        "position": "// Gdzie i jak (np. 'siedzi przy stoliku po lewej')",
-        "action": "// Co robi (np. 'pije kawę, czyta gazetę')"
+        "appearance": "// Płeć, wiek, podstawowy wygląd [zalecane: 10-40 słów]",
+        "clothing": "// Strój odpowiedni do epoki [zalecane: 10-40 słów]",
+        "position": "// Gdzie i jak się znajduje [zalecane: 5-20 słów]",
+        "action": "// Co robi [zalecane: 10-30 słów]"
       }
     ],
 
     "scene": {
-      "mainElements": "// Główne elementy sceny (np. 'kawiarniany taras z metalowymi stolikami')",
-      "details": "// Ważne detale i przedmioty (np. 'na stolikach filiżanki z kawą, gazety')",
-      "background": "// Co jest w tle (budynki, natura)",
-      "atmosphere": "// Ogólny nastrój i klimat sceny"
+      "mainElements": "// Główne elementy sceny [zalecane: 20-80 słów]",
+      "details": "// Ważne detale i przedmioty [zalecane: 30-100 słów | max: 150 słów]",
+      "background": "// Co jest w tle [zalecane: 20-60 słów]",
+      "atmosphere": "// Ogólny nastrój i klimat sceny [zalecane: 20-80 słów]"
     },
     "composition": {
-      "cameraAngle": "// Perspektywa (np. 'widok z poziomu oczu')",
-      "focus": "// Co jest głównym punktem uwagi",
-      "depth": "// Co jest na pierwszym/drugim/trzecim planie"
+      "cameraAngle": "// Perspektywa ujęcia [zalecane: 5-15 słów]",
+      "focus": "// Co jest głównym punktem uwagi [zalecane: 10-30 słów]",
+      "depth": "// Co jest na pierwszym/drugim/trzecim planie [zalecane: 20-60 słów]"
     }
   }
 }

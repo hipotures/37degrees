@@ -1,0 +1,35 @@
+{
+  "sceneDescription": {
+    "title": "Atak na palisadę",
+    "setting": {
+      "time": "1750s, świt",
+      "location": "Forteca z palisadą na wyspie",
+      "weather": "Mglisty poranek, pierwsze promienie słońca"
+    },
+    "characters": [
+      {
+        "appearance": "Piraci atakujący, grupa kilkunastu mężczyzn",
+        "clothing": "Różnorodne stroje pirackie, chusty, pasy z bronią",
+        "position": "Szturmują palisadę z różnych stron",
+        "action": "Wspinają się po palisadzie, strzelają z pistoletów"
+      },
+      {
+        "appearance": "Obrońcy wewnątrz - kapitan, doktor, Jim",
+        "clothing": "Zabrudzone ubrania, pasy z amunicją",
+        "position": "Za palisadą, przy strzelnicach",
+        "action": "Odpierają atak, strzelają przez otwory"
+      }
+    ],
+    "scene": {
+      "mainElements": "Drewniana palisada, chatka w środku, dym z wystrzałów",
+      "details": "Dziury po kulach w drewnie, ciała rannych przy palisadzie, brytyjska flaga na maszcie w środku, rozsypany proch i kule, mgła unosząca się nad polaną",
+      "background": "Dżungla otaczająca polanę, wschodzące słońce przebijające mgłę",
+      "atmosphere": "Chaos bitwy, krzyki i wystrzały, zapach prochu, desperacka walka o życie"
+    },
+    "composition": {
+      "cameraAngle": "Widok z lotu ptaka na całą fortecę",
+      "focus": "Moment szturmu, piraci na palisadzie",
+      "depth": "Pierwszy plan: atakujący, drugi plan: palisada i obrońcy, trzeci plan: dżungla"
+    }
+  }
+}

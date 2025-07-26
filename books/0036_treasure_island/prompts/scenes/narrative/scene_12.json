@@ -1,0 +1,41 @@
+{
+  "sceneDescription": {
+    "title": "Pierwsze spotkanie z Long John Silverem",
+    "setting": {
+      "time": "1750s, popołudnie",
+      "location": "Tawerna 'Spyglass' w Bristol",
+      "weather": "Pochmurny dzień"
+    },
+    "characters": [
+      {
+        "appearance": "Long John Silver, potężny mężczyzna z jedną nogą, sympatyczna twarz",
+        "clothing": "Czysta koszula, skórzana kamizelka, drewniana proteza",
+        "position": "Stoi opierając się na kuli",
+        "action": "Uśmiecha się szeroko, wyciąga rękę na powitanie"
+      },
+      {
+        "appearance": "Papuga na ramieniu Silvera, kolorowe pióra",
+        "clothing": "Brak",
+        "position": "Siedzi na ramieniu Silvera",
+        "action": "Przekrzywia głowę, obserwuje Jima"
+      },
+      {
+        "appearance": "Jim nieufny ale zaciekawiony",
+        "clothing": "Podróżne ubranie",
+        "position": "Stoi w drzwiach tawerny",
+        "action": "Waha się przed podaniem ręki"
+      }
+    ],
+    "scene": {
+      "mainElements": "Wnętrze portowej tawerny, bar z beczkami, stoły z marynarzami",
+      "details": "Modele statków wiszące pod sufitem, mapy morskie na ścianach, dym z fajek, kufle z piwem, okno z widokiem na port",
+      "background": "Grupa marynarzy grających w karty przy stole",
+      "atmosphere": "Gwarna atmosfera portowej tawerny, ale z nutą niepokoju w oczach Jima"
+    },
+    "composition": {
+      "cameraAngle": "Średni plan, widok na poziomie oczu",
+      "focus": "Silver i Jim twarzą w twarz",
+      "depth": "Pierwszy plan: postacie główne, drugi plan: wnętrze tawerny, trzeci plan: okno z portem"
+    }
+  }
+}

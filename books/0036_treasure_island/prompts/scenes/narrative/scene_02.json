@@ -1,0 +1,22 @@
+{
+  "sceneDescription": {
+    "title": "Zatoka z perspektywy klifu o zachodzie słońca",
+    "setting": {
+      "time": "1750s, późne popołudnie",
+      "location": "Klify nad zatoką Black Hill, wybrzeże Devon",
+      "weather": "Czyste niebo, ciepłe promienie zachodzącego słońca"
+    },
+    "characters": [],
+    "scene": {
+      "mainElements": "Panoramiczny widok zatoki w kształcie półksiężyca, kilka statków handlowych na kotwicy, miasteczko portowe w dolinie",
+      "details": "Drewniane pomosty wystające w morze, małe łodzie rybackie ciągnięte na brzeg, dymy unoszące się z kominów domów, ścieżka wijąca się wzdłuż klifu, dzikie kwiaty rosnące na zboczu",
+      "background": "Bezkresny ocean rozciągający się po horyzont, złociste niebo zachodu",
+      "atmosphere": "Spokojna i malownicza sceneria portowego miasteczka, poczucie bezpieczeństwa przed nadchodzącą przygodą"
+    },
+    "composition": {
+      "cameraAngle": "Widok z lotu ptaka z wysokiego klifu",
+      "focus": "Zatoka i miasteczko w centrum kompozycji",
+      "depth": "Pierwszy plan: krawędź klifu z kwiatami, drugi plan: zatoka i port, trzeci plan: otwarty ocean"
+    }
+  }
+}

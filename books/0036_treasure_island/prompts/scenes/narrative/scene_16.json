@@ -1,0 +1,41 @@
+{
+  "sceneDescription": {
+    "title": "Bunt na pokładzie Hispanioli",
+    "setting": {
+      "time": "1750s, gorące popołudnie",
+      "location": "Główny pokład Hispanioli na kotwicy",
+      "weather": "Parne słońce tropikalne"
+    },
+    "characters": [
+      {
+        "appearance": "Kapitan Smollett z pistoletem",
+        "clothing": "Mundur kapitański, pas z bronią",
+        "position": "Stoi na podwyższeniu przy sterze",
+        "action": "Celuje z pistoletu w buntowników"
+      },
+      {
+        "appearance": "Doktor Livesey z szablą",
+        "clothing": "Koszula, kamizelka, spodnie",
+        "position": "Broni wejścia do kajuty",
+        "action": "Trzyma szablę w pozycji obronnej"
+      },
+      {
+        "appearance": "Grupa buntowników z Silver na czele",
+        "clothing": "Różne stroje marynarskie",
+        "position": "Zgromadzeni na środku pokładu",
+        "action": "Wymachują bronią, krzyczą groźby"
+      }
+    ],
+    "scene": {
+      "mainElements": "Pokład podzielony na dwa obozy, napięcie w powietrzu",
+      "details": "Broń w rękach obu stron, liny i beczki jako barykady, flaga brytyjska powiewająca na maszcie, łodzie przy burcie gotowe do użycia, wyspa widoczna w tle",
+      "background": "Lazurowe morze, tropikalna wyspa z palmami",
+      "atmosphere": "Ekstremalne napięcie, moment przed wybuchem przemocy, upał potęgujący konflikt"
+    },
+    "composition": {
+      "cameraAngle": "Widok z góry pokazujący cały pokład",
+      "focus": "Przestrzeń między dwoma obozami jako linia napięcia",
+      "depth": "Pierwszy plan: pokład z postaciami, drugi plan: ocean i wyspa"
+    }
+  }
+}

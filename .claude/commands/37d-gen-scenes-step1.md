@@ -6,39 +6,36 @@ Generate 25 scene descriptions in JSON format based on book research.
 ## Input Parameters
 1. **Book Title**: (e.g., "Wuthering Heights")
 2. **Author**: (e.g., "Emily Brontë")
+3. **Generator Type**: Choose one: `narrative`, `flexible`, or `podcast` (default: `podcast` if not specified)
 
 ## Process Steps
 
-### 1. Locate Book Directory
+### 1. Validate Generator Type and Locate Book Directory
+- If no generator type is provided, inform user: "No generator type specified. Using default: podcast"
+- Validate generator type is one of: `narrative`, `flexible`, or `podcast`
 - Read `docs/STRUCTURE.md` to understand project structure
 - Find book directory by searching for book title/author in `books/` directories
 - Identify book number and path (e.g., `books/0037_wuthering_heights/`)
 
 ### 2. Load Templates and Guidelines
 - **Scene Structure**: 
-  - Read and analyze `config/prompt/scene-generator/scene-description-template.json`
+  - Read and analyze `config/prompt/scene-description-template.json`
   - Study the JSON structure, field names, and data types
   - Understand all required and optional fields
-  - Note any comments or documentation within the template
+  - Note any comments and length recommendations within the template
   
-- **Generator Files**: Read, analyze and fully understand each generator:
-  - **Narrative Generator** (`config/prompt/scene-generator/narrative-prompt-generator.md`):
-    - Study the 3-act structure and scene distribution
-    - Understand narrative arc and pacing guidelines
-    - Analyze example prompts and their construction
-    - Note all specific instructions and constraints
-    
-  - **Flexible Generator** (`config/prompt/scene-generator/flexible-prompt-generator.md`):
-    - Understand the flexible approach to scene creation
-    - Study how it differs from narrative approach
-    - Analyze creative liberties and experimental elements
-    - Note unique features and possibilities
-    
-  - **Podcast Generator** (`config/prompt/scene-generator/podcast-image-prompt-generator.md`):
-    - Understand podcast-specific visual requirements
-    - Study how to create images that support audio narrative
-    - Analyze composition guidelines for podcast format
-    - Note special considerations for this medium
+- **Generator File**: Read and analyze ONLY ONE generator file based on the chosen generator type:
+  - If `narrative`: Read `config/prompt/scene-generator/narrative-prompt-generator.md`
+  - If `flexible`: Read `config/prompt/scene-generator/flexible-prompt-generator.md`
+  - If `podcast`: Read `config/prompt/scene-generator/podcast-image-prompt-generator.md`
+  
+  IMPORTANT: Read ONLY the file corresponding to the selected generator type. Do NOT read the other two generators.
+  
+  Study the selected generator thoroughly:
+  - Understand its specific approach and guidelines
+  - Analyze structure and pacing requirements
+  - Note all instructions and constraints
+  - Understand how it differs from other generators
 
 ### 3. Analyze Book Research
 - Navigate to `books/[book_dir]/docs/` directory
@@ -46,42 +43,72 @@ Generate 25 scene descriptions in JSON format based on book research.
 - These files contain all necessary book analysis and insights
 - Extract themes, characters, historical context, and key discoveries from these findings files
 
-### 4. Generate 3 Scene Sets
-Create 25 scenes using each generator:
+### 4. Check Existing Files and Generate Scene Set
 
-#### A. Narrative Set
-- Use `narrative-prompt-generator.md` guidelines
-- Save to `/prompts/scenes/narrative/`
+**Before generating**:
+- Check if any scene files already exist in `/prompts/scenes/[generator_type]/`
+- If `scene_01.json` exists, read ALL existing scene files to understand the story so far
+- Find the first missing scene number (e.g., if scenes 1-15 exist, start from scene 16)
+- If all 25 scenes already exist, STOP and inform user: "All 25 scenes already exist. Delete existing files if you want to regenerate."
 
-#### B. Flexible Set  
-- Use `flexible-prompt-generator.md` guidelines
-- Save to `/prompts/scenes/flexible/`
-
-#### C. Podcast Set
-- Use `podcast-image-prompt-generator.md` guidelines
-- Save to `/prompts/scenes/podcast/`
+**Generate missing scenes**:
+- Apply the guidelines from the chosen generator file
+- Ensure new scenes are consistent with any existing scenes
+- Continue the story from where existing scenes left off
+- Save only the missing scenes to `/prompts/scenes/[generator_type]/`
 
 ### 5. Output Structure
-Save to:
+Create directories if they don't exist and save to:
 ```
-books/[book_number]_[book_name]/prompts/scenes/
-  ├── narrative/
-  │   ├── scene_01.json
-  │   └── ... (25 files)
-  ├── flexible/
-  │   └── ... (25 files)
-  └── podcast/
-      └── ... (25 files)
+books/[book_number]_[book_name]/prompts/scenes/[generator_type]/
+  ├── scene_01.json
+  ├── scene_02.json
+  └── ... (25 files total)
 ```
+Where [generator_type] matches the input parameter (narrative, flexible, or podcast).
+
+**Important**: Create the directory structure if it doesn't exist:
+- First create `prompts/` if missing
+- Then create `prompts/scenes/` if missing  
+- Finally create `prompts/scenes/[generator_type]/` if missing
+
+**Critical Safety Rules**:
+- NEVER delete or overwrite existing files
+- Files should be checked in the earlier step (Step 4)
+- Only create files that don't already exist
+- At the end, report: "Created X new scenes (scenes Y-Z)" or "All scenes already existed"
 
 ### 6. JSON Format
 Each file must match `scene-description-template.json` structure exactly.
 
 ## Important Guidelines
 - Generate JSON data that will be used as prompts for AI image generation
+- **LANGUAGE: All scene descriptions MUST be in English**
+- **PERSPECTIVE: Write as a neutral observer who sees the scene for the first time**
+  - Describe what is visually present, not story context
+  - The observer knows geography/locations but NOT the characters or plot
+  - Scene can be dramatic/emotional, but described through visual elements
+  - Like a photographer who stumbled upon this moment without knowing the backstory
+- **LOCATIONS: Each scene must include FULL location context**
+  - Good: "Admiral Benbow Inn, Devon coast, England"
+  - Bad: "Main hall of Admiral Benbow" (AI won't know where this is)
+  - Always provide complete geographical/contextual information
+  - Treat each scene as independent - AI won't see previous scenes
+- **CHARACTERS: Describe as if viewer has never seen them before**
+  - NO references to other scenes or aging ("older Jim", "Jim now grown")
+  - Always give complete visual description (age, height, build, hair color)
+  - NO character names unless describing what's written/visible
+  - Good: "teenage boy, 16 years old, brown hair"
+  - Bad: "Jim, older and more mature"
+- **EMOTIONS: Use visual cues, not abstract descriptions**
+  - Good: "furrowed brow, clenched fists, leaning forward"
+  - Bad: "determination on face", "feeling anxious"
+- **CLOTHING: Be specific about period garments**
+  - Good: "brown wool vest, white linen shirt, knee-length breeches"
+  - Bad: "everyday clothes", "best outfit"
 - Follow the exact structure and field requirements from scene-description-template.json
 - Do NOT define visual style (colors, artistic technique, rendering style) - only describe WHAT is in the scene
-- Each generator's 25 scenes must be internally consistent and cohesive
-- Follow narrative arc defined in generators
-- Each set tells same story differently
+- The 25 scenes must be internally consistent and cohesive
+- Follow narrative arc defined in the selected generator
+- Focus only on the chosen approach without mixing styles
 - Output must be valid JSON matching the template structure

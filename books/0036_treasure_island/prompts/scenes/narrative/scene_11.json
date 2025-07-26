@@ -1,0 +1,35 @@
+{
+  "sceneDescription": {
+    "title": "Hispaniola w porcie Bristol",
+    "setting": {
+      "time": "1750s, wczesny ranek",
+      "location": "Port Bristol, nabrzeże",
+      "weather": "Lekka mgła poranna, wschodzące słońce"
+    },
+    "characters": [
+      {
+        "appearance": "Jim Hawkins z szerokim uśmiechem",
+        "clothing": "Nowe ubranie podróżne, płaszcz",
+        "position": "Stoi na nabrzeżu",
+        "action": "Patrzy z zachwytem na statek"
+      },
+      {
+        "appearance": "Dziedzic Trelawney dumny i podekscytowany",
+        "clothing": "Elegancki strój podróżny, cylinder",
+        "position": "Obok Jima",
+        "action": "Wskazuje laską na różne części statku"
+      }
+    ],
+    "scene": {
+      "mainElements": "Szkuner Hispaniola przy nabrzeżu, wysokie maszty, rozwinięte żagle",
+      "details": "Marynarze ładujący skrzynie i beczki, liny i takielunek, mewy krążące wokół masztów, inne statki w porcie, wózki z towarem na nabrzeżu",
+      "background": "Ruchliwy port z wieloma statkami, domy Bristol w oddali",
+      "atmosphere": "Ekscytacja przed wyprawą, zapach smoły i soli morskiej, krzyki marynarzy"
+    },
+    "composition": {
+      "cameraAngle": "Widok z nabrzeża pokazujący cały statek",
+      "focus": "Hispaniola dominująca w centrum kadru",
+      "depth": "Pierwszy plan: Jim i Trelawney, drugi plan: statek, trzeci plan: port"
+    }
+  }
+}

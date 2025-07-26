@@ -1,0 +1,35 @@
+{
+  "sceneDescription": {
+    "title": "Jim pomaga matce w kuchni gospody",
+    "setting": {
+      "time": "1750s, późny ranek",
+      "location": "Kuchnia gospody Admiral Benbow",
+      "weather": "Słoneczny dzień, światło wpadające przez okno"
+    },
+    "characters": [
+      {
+        "appearance": "Kobieta około 40 lat, zadbana, zmęczona twarz pełna dobroci",
+        "clothing": "Długa suknia z fartuchem, biały czepek na głowie",
+        "position": "Stoi przy wielkim piecu kuchennym",
+        "action": "Miesza w garnku drewnianą łyżką, uśmiecha się do syna"
+      },
+      {
+        "appearance": "Jim Hawkins, 12-letni chłopiec o bystrych oczach",
+        "clothing": "Prosta koszula i spodnie, fartuch kuchenny",
+        "position": "Przy stole kuchennym",
+        "action": "Obiera ziemniaki, słucha matki z uwagą"
+      }
+    ],
+    "scene": {
+      "mainElements": "Przestronna kuchnia z ceglanym piecem, duży drewniany stół, półki z naczyniami",
+      "details": "Wiszące przyprawy i zioła, miedziane garnki, kosze z warzywami, bochenek chleba na stole, kot śpiący przy piecu, promienie słońca oświetlające unoszącą się parę",
+      "background": "Widok przez okno na podwórze gospody",
+      "atmosphere": "Ciepła, domowa atmosfera, kontrast z mroczną salą gościnną, poczucie bezpieczeństwa"
+    },
+    "composition": {
+      "cameraAngle": "Widok z rogu kuchni, obejmujący całe pomieszczenie",
+      "focus": "Matka i syn przy swoich zajęciach",
+      "depth": "Pierwszy plan: stół z jedzeniem, drugi plan: postacie przy pracy, trzeci plan: piec i okno"
+    }
+  }
+}

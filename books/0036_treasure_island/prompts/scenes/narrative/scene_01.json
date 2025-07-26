@@ -1,0 +1,29 @@
+{
+  "sceneDescription": {
+    "title": "Portowa gospoda Benbow w mglisty poranek",
+    "setting": {
+      "time": "1750s, wczesny poranek",
+      "location": "Admiral Benbow Inn, angielskie wybrzeże Devon",
+      "weather": "Gęsta mgła znad morza, wilgotny chłód"
+    },
+    "characters": [
+      {
+        "appearance": "Młody chłopiec, około 12 lat, jasne włosy, szczupła sylwetka",
+        "clothing": "Prosta kamizelka i spodnie do kolan, płócienne koszula, drewniane chodaki",
+        "position": "Stoi w drzwiach gospody, patrząc w stronę morza",
+        "action": "Wpatruje się w mgłę, trzymając w ręku miotłę do zamiatania"
+      }
+    ],
+    "scene": {
+      "mainElements": "Kamienna gospoda z drewnianymi okiennicami, szyld 'Admiral Benbow' kołysze się na wietrze, wąska droga prowadząca do zatoki",
+      "details": "Stare sieci rybackie wiszą na płocie, beczki z rumem przy wejściu, latarnia morska ledwo widoczna w oddali przez mgłę, kamienne schody prowadzące do drzwi gospody pokryte mchem",
+      "background": "Strome klify opadające ku morzu, kontury masztów statków w zatoce",
+      "atmosphere": "Tajemnicza i niepokojąca atmosfera, cisza przerywana jedynie krzykiem mew i szumem odległych fal"
+    },
+    "composition": {
+      "cameraAngle": "Widok z ukosa, ukazujący gospodę i zatokę",
+      "focus": "Chłopiec w drzwiach jako centralny punkt, gospoda zajmująca lewą stronę kadru",
+      "depth": "Pierwszy plan: kamienna ścieżka, drugi plan: gospoda i chłopiec, trzeci plan: mglista zatoka"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "sceneDescription": {
+    "title": "Ucieczka Jima na wyspę",
+    "setting": {
+      "time": "1750s, późne popołudnie",
+      "location": "Plaża Wyspy Skarbów",
+      "weather": "Zachodzące słońce, złociste światło"
+    },
+    "characters": [
+      {
+        "appearance": "Jim biegnący po plaży, zdyszany",
+        "clothing": "Podarta koszula, mokre spodnie",
+        "position": "Biegnie wzdłuż linii wody",
+        "action": "Ogląda się za siebie w panice, biegnie w stronę dżungli"
+      },
+      {
+        "appearance": "Dwóch piratów w pościgu",
+        "clothing": "Brudne ubrania, chusty na głowach",
+        "position": "Daleko za Jimem na plaży",
+        "action": "Krzyczą i wymachują nożami"
+      }
+    ],
+    "scene": {
+      "mainElements": "Szeroka plaża, ślady stóp na piasku, granica dżungli",
+      "details": "Fale rozbijające się o brzeg, palmy pochylone nad plażą, skały wystające z piasku, kraby uciekające przed biegnącymi, ptaki tropikalne startujące z krzykiem",
+      "background": "Gęsta tropikalna dżungla, góry wyspy w oddali",
+      "atmosphere": "Desperacja i strach, dzikość niezbadanej wyspy, poczucie samotności"
+    },
+    "composition": {
+      "cameraAngle": "Dynamiczny widok z boku, pokazujący pościg",
+      "focus": "Jim jako mały punkt na ogromnej plaży",
+      "depth": "Pierwszy plan: piasek i fale, drugi plan: biegnący Jim, trzeci plan: ścigający i dżungla"
+    }
+  }
+}
