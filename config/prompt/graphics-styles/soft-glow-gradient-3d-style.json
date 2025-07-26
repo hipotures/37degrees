@@ -1,22 +1,34 @@
 {
   "styleName": "Soft Glow Gradient 3D",
   "description": "Modern 3D rendering with soft gradients, glowing effects, and translucent materials creating dreamy atmosphere",
-  
   "aiPrompts": {
     "basePrompt": "3D render, soft glow, gradient colors, translucent materials, floating objects",
     "negativePrompt": "hard shadows, photorealistic, gritty, dark",
-    "styleKeywords": ["3D", "glow", "gradient", "soft", "translucent", "modern"]
+    "styleKeywords": [
+      "3D",
+      "glow",
+      "gradient",
+      "soft",
+      "translucent",
+      "modern"
+    ]
   },
-  
   "colorPalette": {
-    "primary": ["#f9b8b8", "#fddccf", "#ffc8d0"],
-    "secondary": ["#9dbffb", "#a6d6c3", "#dbc1ff"],
+    "primary": [
+      "#f9b8b8",
+      "#fddccf",
+      "#ffc8d0"
+    ],
+    "secondary": [
+      "#9dbffb",
+      "#a6d6c3",
+      "#dbc1ff"
+    ],
     "background": "#6caeff",
     "usageNotes": "Soft pastel gradients with additive blending",
     "saturation": "medium",
     "contrast": "low to medium"
   },
-  
   "lineArt": {
     "style": "none - 3D surfaces",
     "weight": "n/a",
@@ -24,7 +36,6 @@
     "texture": "smooth surfaces",
     "edgeTreatment": "soft, rounded edges with bevel"
   },
-  
   "lighting": {
     "type": "soft HDR environment",
     "direction": "multi-directional with key light at 60 degrees",
@@ -36,42 +47,36 @@
     },
     "highlights": "glowing with color mixing"
   },
-  
   "rendering": {
     "technique": "3D PBR with translucency",
     "texture": "glossy with subsurface scattering",
     "detailLevel": "smooth abstract forms",
     "finish": "glossy with clearcoat"
   },
-  
   "perspective": "medium perspective, floating objects",
-  
   "mood": {
     "overall": "dreamy, soft, modern",
     "emotion": "calm, peaceful, optimistic",
     "tempo": "floating, gentle",
-    "keywords": ["dreamy", "soft", "glowing", "modern", "ethereal"]
+    "keywords": [
+      "dreamy",
+      "soft",
+      "glowing",
+      "modern",
+      "ethereal"
+    ]
   },
-  
   "postProcessing": {
-    "effects": ["bloom", "chromatic aberration", "vignette"],
+    "effects": [
+      "bloom",
+      "chromatic aberration",
+      "vignette"
+    ],
     "filters": "warm color grading",
     "adjustments": {
       "saturation": "1.1",
       "contrast": "1.15",
       "warmth_shift": "0.2"
     }
-  },
-  
-  "useCases": ["modern UI backgrounds", "abstract art", "tech presentations", "meditation apps"],
-  
-  "technicalSpecifications": {
-    "resolution": {
-      "aspectRatio": "9:16",
-      "minWidth": 1080,
-      "minHeight": 1920,
-      "unit": "pixels"
-    },
-    "orientation": "Portrait/Vertical"
   }
 }

@@ -1,22 +1,35 @@
 {
   "styleName": "Flat Design Style",
   "description": "Minimalist design approach with simple elements, bright colors, and no three-dimensional effects",
-  
   "aiPrompts": {
     "basePrompt": "flat design illustration, minimalist, simple shapes, bright colors, no gradients, clean",
     "negativePrompt": "3D effects, shadows, textures, gradients, realistic, complex",
-    "styleKeywords": ["flat design", "minimal", "simple", "clean", "modern", "geometric"]
+    "styleKeywords": [
+      "flat design",
+      "minimal",
+      "simple",
+      "clean",
+      "modern",
+      "geometric"
+    ]
   },
-  
   "colorPalette": {
-    "primary": ["bright blue", "orange", "green", "purple"],
-    "secondary": ["white", "light gray", "dark gray"],
+    "primary": [
+      "bright blue",
+      "orange",
+      "green",
+      "purple"
+    ],
+    "secondary": [
+      "white",
+      "light gray",
+      "dark gray"
+    ],
     "background": "solid bright or white",
     "usageNotes": "Bold, web-safe colors, no gradients",
     "saturation": "high",
     "contrast": "strong but balanced"
   },
-  
   "lineArt": {
     "style": "minimal or none",
     "weight": "uniform if present",
@@ -24,7 +37,6 @@
     "texture": "none",
     "edgeTreatment": "crisp, perfect"
   },
-  
   "lighting": {
     "type": "none - completely flat",
     "direction": "n/a",
@@ -36,32 +48,23 @@
     },
     "highlights": "none"
   },
-  
   "rendering": {
     "technique": "vector graphics",
     "texture": "none",
     "detailLevel": "minimalist",
     "finish": "perfectly smooth"
   },
-  
   "perspective": "often orthogonal or none",
-  
   "mood": {
     "overall": "modern, clean, friendly",
     "emotion": "clarity, simplicity, approachability",
     "tempo": "efficient, direct",
-    "keywords": ["modern", "clean", "simple", "friendly", "efficient"]
-  },
-  
-  "useCases": ["modern narratives", "tech themes", "educational content", "contemporary stories"],
-  
-  "technicalSpecifications": {
-    "resolution": {
-      "aspectRatio": "9:16",
-      "minWidth": 1080,
-      "minHeight": 1920,
-      "unit": "pixels"
-    },
-    "orientation": "Portrait/Vertical"
+    "keywords": [
+      "modern",
+      "clean",
+      "simple",
+      "friendly",
+      "efficient"
+    ]
   }
 }

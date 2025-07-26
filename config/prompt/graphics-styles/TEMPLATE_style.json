@@ -61,15 +61,3 @@
   
   "stylePrecedents": [], // array[string]: Style lub artyści będący inspiracją (opcjonalne)
   
-  "useCases": [], // array[string]: Najlepsze zastosowania stylu (opcjonalne)
-  
-  "technicalSpecifications": { // object: Specyfikacje techniczne (wymagane)
-    "resolution": {
-      "aspectRatio": "9:16", // string: Proporcje obrazu
-      "minWidth": 1080, // number: Minimalna szerokość w pikselach
-      "minHeight": 1920, // number: Minimalna wysokość w pikselach
-      "unit": "pixels" // string: Jednostka miary
-    },
-    "orientation": "Portrait/Vertical" // string: Orientacja obrazu
-  }
-}

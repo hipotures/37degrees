@@ -1,22 +1,40 @@
 {
   "styleName": "Comic Book Style",
   "description": "Retro comic book aesthetic with bold lines, halftone patterns, and vibrant colors reminiscent of classic superhero comics",
-  
   "aiPrompts": {
     "basePrompt": "comic book illustration, bold outlines, halftone dots, cel shading, pop art",
     "negativePrompt": "photorealistic, smooth gradients, soft edges, blurry",
-    "styleKeywords": ["comic", "halftone", "cel-shaded", "pop art", "retro", "vintage comics"]
+    "styleKeywords": [
+      "comic",
+      "halftone",
+      "cel-shaded",
+      "pop art",
+      "retro",
+      "vintage comics"
+    ]
   },
-  
   "colorPalette": {
-    "primary": ["#FF0000", "#FFFF00", "#0000FF", "#00FFFF", "#FF6600", "#000000", "#FFFFFF"],
-    "secondary": ["#FFC107", "#A52A2A", "#8B4513", "#008080", "#999999"],
+    "primary": [
+      "#FF0000",
+      "#FFFF00",
+      "#0000FF",
+      "#00FFFF",
+      "#FF6600",
+      "#000000",
+      "#FFFFFF"
+    ],
+    "secondary": [
+      "#FFC107",
+      "#A52A2A",
+      "#8B4513",
+      "#008080",
+      "#999999"
+    ],
     "background": "White or yellow with halftone patterns",
     "usageNotes": "Colors should be flat and vivid. No gradients. Primary colors dominate the foreground",
     "saturation": "high",
     "contrast": "high"
   },
-  
   "lineArt": {
     "style": "bold black outlines",
     "weight": "thick (2-6px)",
@@ -24,7 +42,6 @@
     "texture": "solid, no anti-aliasing",
     "edgeTreatment": "sharp, high contrast"
   },
-  
   "lighting": {
     "type": "dramatic",
     "direction": "top-left",
@@ -36,43 +53,41 @@
     },
     "highlights": "bold white or light color accents"
   },
-  
   "rendering": {
     "technique": "digital illustration mimicking print",
     "texture": "halftone dots, printed comic paper texture",
     "detailLevel": "moderate with emphasis on clear forms",
     "finish": "flat with visible ink strokes"
   },
-  
   "perspective": "dynamic angles, often exaggerated",
-  
   "mood": {
     "overall": "dynamic and action-oriented",
     "emotion": "exaggerated, dramatic, explosive",
     "tempo": "fast-paced, energetic",
-    "keywords": ["action", "dramatic", "explosive", "heroic", "vintage"]
+    "keywords": [
+      "action",
+      "dramatic",
+      "explosive",
+      "heroic",
+      "vintage"
+    ]
   },
-  
   "postProcessing": {
-    "effects": ["halftone dots", "ink outline", "grain", "misregistration"],
+    "effects": [
+      "halftone dots",
+      "ink outline",
+      "grain",
+      "misregistration"
+    ],
     "filters": "slight yellowing for vintage feel",
     "adjustments": {
       "saturation": "high",
       "contrast": "high"
     }
   },
-  
-  "stylePrecedents": ["Jack Kirby", "Steve Ditko", "Roy Lichtenstein"],
-  
-  "useCases": ["superhero content", "action scenes", "retro designs", "pop art projects"],
-  
-  "technicalSpecifications": {
-    "resolution": {
-      "aspectRatio": "9:16",
-      "minWidth": 1080,
-      "minHeight": 1920,
-      "unit": "pixels"
-    },
-    "orientation": "Portrait/Vertical"
-  }
+  "stylePrecedents": [
+    "Jack Kirby",
+    "Steve Ditko",
+    "Roy Lichtenstein"
+  ]
 }

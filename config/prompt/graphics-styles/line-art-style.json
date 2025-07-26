@@ -53,8 +53,6 @@
     "keywords": ["minimal", "clean", "simple", "modern", "clear"]
   },
   
-  "useCases": ["icons", "logos", "coloring books", "instructional diagrams"],
-  
   "technicalSpecifications": {
     "resolution": {
       "aspectRatio": "9:16",

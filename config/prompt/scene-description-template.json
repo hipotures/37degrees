@@ -1,0 +1,30 @@
+{
+  "sceneDescription": {
+    "title": "// Nazwa sceny",
+    "setting": {
+      "time": "// Epoka i pora dnia (np. '1920, wieczór')",
+      "location": "// Miejsce akcji (np. 'paryska kawiarnia, taras')",
+      "weather": "// Pogoda jeśli istotna"
+    },
+    "characters": [
+      {
+        "appearance": "// Płeć, wiek, podstawowy wygląd (np. 'mężczyzna, 40 lat, wysoki, szczupły')",
+        "clothing": "// Strój (np. 'szary garnitur z epoki, kapelusz')",
+        "position": "// Gdzie i jak (np. 'siedzi przy stoliku po lewej')",
+        "action": "// Co robi (np. 'pije kawę, czyta gazetę')"
+      }
+    ],
+
+    "scene": {
+      "mainElements": "// Główne elementy sceny (np. 'kawiarniany taras z metalowymi stolikami')",
+      "details": "// Ważne detale i przedmioty (np. 'na stolikach filiżanki z kawą, gazety')",
+      "background": "// Co jest w tle (budynki, natura)",
+      "atmosphere": "// Ogólny nastrój i klimat sceny"
+    },
+    "composition": {
+      "cameraAngle": "// Perspektywa (np. 'widok z poziomu oczu')",
+      "focus": "// Co jest głównym punktem uwagi",
+      "depth": "// Co jest na pierwszym/drugim/trzecim planie"
+    }
+  }
+}

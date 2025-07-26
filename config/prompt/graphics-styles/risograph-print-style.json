@@ -1,22 +1,35 @@
 {
   "styleName": "Risograph Print Style",
   "description": "Distinctive grain texture with limited spot colors, overprint effects, and intentionally imperfect aesthetic",
-  
   "aiPrompts": {
     "basePrompt": "risograph print style, grain texture, limited colors, overprint effect, spot colors, textured",
     "negativePrompt": "smooth, photorealistic, many colors, perfect, clean gradients",
-    "styleKeywords": ["risograph", "grain", "overprint", "textured", "limited palette", "spot color"]
+    "styleKeywords": [
+      "risograph",
+      "grain",
+      "overprint",
+      "textured",
+      "limited palette",
+      "spot color"
+    ]
   },
-  
   "colorPalette": {
-    "primary": ["bright pink", "fluorescent blue", "yellow", "red"],
-    "secondary": ["teal", "orange", "purple"],
+    "primary": [
+      "bright pink",
+      "fluorescent blue",
+      "yellow",
+      "red"
+    ],
+    "secondary": [
+      "teal",
+      "orange",
+      "purple"
+    ],
     "background": "off-white paper",
     "usageNotes": "Maximum 3-4 colors, overlapping creates new colors",
     "saturation": "very high - fluorescent",
     "contrast": "high"
   },
-  
   "lineArt": {
     "style": "bold, simple shapes",
     "weight": "medium to thick",
@@ -24,7 +37,6 @@
     "texture": "grainy, textured",
     "edgeTreatment": "slightly imperfect registration"
   },
-  
   "lighting": {
     "type": "flat color layers",
     "direction": "n/a",
@@ -36,32 +48,23 @@
     },
     "highlights": "paper showing through"
   },
-  
   "rendering": {
     "technique": "layered spot color printing",
     "texture": "heavy grain, paper texture visible",
     "detailLevel": "simplified for print process",
     "finish": "imperfect registration, grain texture"
   },
-  
   "perspective": "flat, graphic design approach",
-  
   "mood": {
     "overall": "playful, retro, handmade",
     "emotion": "energetic, creative, indie",
     "tempo": "vibrant, dynamic",
-    "keywords": ["indie", "creative", "handmade", "vibrant", "experimental"]
-  },
-  
-  "useCases": ["zines", "indie publications", "poster art", "contemporary illustration"],
-  
-  "technicalSpecifications": {
-    "resolution": {
-      "aspectRatio": "9:16",
-      "minWidth": 1080,
-      "minHeight": 1920,
-      "unit": "pixels"
-    },
-    "orientation": "Portrait/Vertical"
+    "keywords": [
+      "indie",
+      "creative",
+      "handmade",
+      "vibrant",
+      "experimental"
+    ]
   }
 }

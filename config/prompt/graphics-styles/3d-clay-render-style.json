@@ -1,22 +1,35 @@
 {
   "styleName": "3D Clay Render Style",
   "description": "Playful 3D illustrations with clay-like textures, soft forms, and organic tactile appearance",
-  
   "aiPrompts": {
     "basePrompt": "3D clay render, plasticine texture, soft forms, tactile, organic shapes, matte finish",
     "negativePrompt": "flat, 2D, sharp edges, metallic, glossy, photorealistic",
-    "styleKeywords": ["clay", "3D", "plasticine", "tactile", "soft", "playful"]
+    "styleKeywords": [
+      "clay",
+      "3D",
+      "plasticine",
+      "tactile",
+      "soft",
+      "playful"
+    ]
   },
-  
   "colorPalette": {
-    "primary": ["warm terracotta", "soft blues", "mint green", "coral"],
-    "secondary": ["cream", "dusty pink", "sage"],
+    "primary": [
+      "warm terracotta",
+      "soft blues",
+      "mint green",
+      "coral"
+    ],
+    "secondary": [
+      "cream",
+      "dusty pink",
+      "sage"
+    ],
     "background": "neutral gray or white",
     "usageNotes": "Matte, earthy tones like real clay",
     "saturation": "medium, natural",
     "contrast": "soft"
   },
-  
   "lineArt": {
     "style": "none - 3D forms",
     "weight": "n/a",
@@ -24,7 +37,6 @@
     "texture": "clay-like surface",
     "edgeTreatment": "soft, rounded, organic"
   },
-  
   "lighting": {
     "type": "soft studio lighting",
     "direction": "three-quarter angle",
@@ -36,32 +48,23 @@
     },
     "highlights": "minimal, matte surface"
   },
-  
   "rendering": {
     "technique": "3D modeling with clay texture",
     "texture": "fingerprint marks, organic imperfections",
     "detailLevel": "simplified, chunky forms",
     "finish": "matte, non-reflective"
   },
-  
   "perspective": "playful angles, often isometric",
-  
   "mood": {
     "overall": "playful, approachable, handmade",
     "emotion": "joy, warmth, creativity",
     "tempo": "relaxed, inviting",
-    "keywords": ["playful", "tactile", "handmade", "warm", "organic"]
-  },
-  
-  "useCases": ["children's content", "educational materials", "brand mascots", "friendly interfaces"],
-  
-  "technicalSpecifications": {
-    "resolution": {
-      "aspectRatio": "9:16",
-      "minWidth": 1080,
-      "minHeight": 1920,
-      "unit": "pixels"
-    },
-    "orientation": "Portrait/Vertical"
+    "keywords": [
+      "playful",
+      "tactile",
+      "handmade",
+      "warm",
+      "organic"
+    ]
   }
 }

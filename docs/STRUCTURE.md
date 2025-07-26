@@ -16,9 +16,17 @@ The project has been reorganized to better support multimedia content for each b
 │       ├── docs/              # Documentation and research
 │       │   ├── review.md      # Fascinating facts and discoveries
 │       │   ├── book_page.html # Interactive HTML presentation
-│       │   └── README.md      # Documentation guide
+│       │   ├── README.md      # Documentation guide
+│       │   └── research/      # AI-generated research
 │       ├── generated/         # AI-generated images
 │       ├── prompts/           # Generated AI prompts
+│       │   ├── scenes/        # Scene descriptions (v2.0+)
+│       │   │   ├── narrative/ # Story-focused scenes
+│       │   │   ├── flexible/  # Flexible creative scenes
+│       │   │   └── podcast/   # Podcast-style scenes
+│       │   ├── narrative/     # Legacy narrative prompts
+│       │   ├── epic/          # Legacy epic prompts
+│       │   └── modern/        # Legacy modern prompts
 │       ├── cover.jpg/png      # Book cover image
 │       ├── background.jpg/png # Custom background (optional)
 │       ├── audio/             # Book-specific audio
@@ -52,7 +60,14 @@ The project has been reorganized to better support multimedia content for each b
 │
 ├── config/                    # Configuration files
 │   ├── settings.yaml         # Main configuration
-│   └── generators.yaml       # Image generator settings
+│   ├── generators.yaml       # Image generator settings
+│   └── prompt/               # Prompt generation configs
+│       ├── graphics-styles/  # Visual style definitions (JSON)
+│       └── scene-generator/  # Scene generation templates
+│           ├── scene-description-template.json
+│           ├── narrative-prompt-generator.md
+│           ├── flexible-prompt-generator.md
+│           └── podcast-image-prompt-generator.md
 │
 ├── output/                    # Generated videos
 │

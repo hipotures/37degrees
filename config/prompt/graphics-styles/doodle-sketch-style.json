@@ -1,22 +1,34 @@
 {
   "styleName": "Doodle Sketch Style",
   "description": "Spontaneous, imperfect drawings with playful energy, embracing rawness and authenticity",
-  
   "aiPrompts": {
     "basePrompt": "doodle art, spontaneous sketch, imperfect lines, playful drawing, hand-drawn, whimsical",
     "negativePrompt": "polished, perfect, precise, professional, geometric",
-    "styleKeywords": ["doodle", "sketch", "spontaneous", "playful", "imperfect", "authentic"]
+    "styleKeywords": [
+      "doodle",
+      "sketch",
+      "spontaneous",
+      "playful",
+      "imperfect",
+      "authentic"
+    ]
   },
-  
   "colorPalette": {
-    "primary": ["black ink", "blue pen", "pencil gray"],
-    "secondary": ["highlighter yellow", "red pen", "green marker"],
+    "primary": [
+      "black ink",
+      "blue pen",
+      "pencil gray"
+    ],
+    "secondary": [
+      "highlighter yellow",
+      "red pen",
+      "green marker"
+    ],
     "background": "notebook paper, white",
     "usageNotes": "Like drawing with everyday pens and markers",
     "saturation": "varies, often bright accents",
     "contrast": "high between ink and paper"
   },
-  
   "lineArt": {
     "style": "loose, spontaneous",
     "weight": "varied, energetic",
@@ -24,7 +36,6 @@
     "texture": "scratchy, overlapping",
     "edgeTreatment": "incomplete, sketchy"
   },
-  
   "lighting": {
     "type": "flat, no shading or simple",
     "direction": "n/a",
@@ -36,32 +47,23 @@
     },
     "highlights": "empty spaces"
   },
-  
   "rendering": {
     "technique": "quick sketching",
     "texture": "paper texture visible",
     "detailLevel": "loose, suggestive",
     "finish": "raw, unfinished"
   },
-  
   "perspective": "playful, often wonky",
-  
   "mood": {
     "overall": "playful, authentic, energetic",
     "emotion": "joy, spontaneity, freedom",
     "tempo": "quick, lively",
-    "keywords": ["playful", "authentic", "spontaneous", "free", "energetic"]
-  },
-  
-  "useCases": ["journals", "creative narratives", "youth content", "informal storytelling"],
-  
-  "technicalSpecifications": {
-    "resolution": {
-      "aspectRatio": "9:16",
-      "minWidth": 1080,
-      "minHeight": 1920,
-      "unit": "pixels"
-    },
-    "orientation": "Portrait/Vertical"
+    "keywords": [
+      "playful",
+      "authentic",
+      "spontaneous",
+      "free",
+      "energetic"
+    ]
   }
 }

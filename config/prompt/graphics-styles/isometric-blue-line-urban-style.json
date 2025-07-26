@@ -1,23 +1,34 @@
 {
   "styleName": "Isometric Blue Line Urban Style",
   "description": "Clean and minimal isometric vector illustrations with a soft blue color palette for urban and tech visualizations",
-  
   "aiPrompts": {
     "basePrompt": "isometric illustration, blue line art, minimal urban design, vector style, technical drawing",
     "negativePrompt": "photorealistic, complex textures, multiple colors, perspective distortion",
-    "styleKeywords": ["isometric", "minimal", "urban", "technical", "blue line", "vector"]
+    "styleKeywords": [
+      "isometric",
+      "minimal",
+      "urban",
+      "technical",
+      "blue line",
+      "vector"
+    ]
   },
-  
   "colorPalette": {
-    "primary": ["#3F51B5"],
-    "secondary": ["#E8F0FE"],
-    "accents": ["#FFFFFF", "#B0BEC5"],
+    "primary": [
+      "#3F51B5"
+    ],
+    "secondary": [
+      "#E8F0FE"
+    ],
+    "accents": [
+      "#FFFFFF",
+      "#B0BEC5"
+    ],
     "background": "light blue or white",
     "usageNotes": "Monochromatic blue scheme with soft gradients for depth",
     "saturation": "low to medium",
     "contrast": "medium"
   },
-  
   "lineArt": {
     "style": "clean technical lines",
     "weight": "thin to medium",
@@ -25,7 +36,6 @@
     "texture": "smooth vector",
     "edgeTreatment": "rounded corners and softened edges"
   },
-  
   "lighting": {
     "type": "neutral, technical",
     "direction": "top-down neutral",
@@ -37,32 +47,23 @@
     },
     "highlights": "subtle gradients"
   },
-  
   "rendering": {
     "technique": "vector illustration",
     "texture": "smooth, no texture",
     "detailLevel": "simplified, iconic",
     "finish": "clean, professional"
   },
-  
   "perspective": "isometric (30-degree angle)",
-  
   "mood": {
     "overall": "modern, clean, semi-technical",
     "emotion": "friendly, approachable, professional",
     "tempo": "calm, organized",
-    "keywords": ["modern", "clean", "technical", "friendly", "organized"]
-  },
-  
-  "useCases": ["smart city infographics", "urban planning visuals", "tech product UI/UX", "transportation presentations"],
-  
-  "technicalSpecifications": {
-    "resolution": {
-      "aspectRatio": "9:16",
-      "minWidth": 1080,
-      "minHeight": 1920,
-      "unit": "pixels"
-    },
-    "orientation": "Portrait/Vertical"
+    "keywords": [
+      "modern",
+      "clean",
+      "technical",
+      "friendly",
+      "organized"
+    ]
   }
 }

@@ -1,22 +1,35 @@
 {
   "styleName": "Expressionist Style",
   "description": "Emotional, distorted imagery with bold colors and dramatic angles conveying psychological intensity",
-  
   "aiPrompts": {
     "basePrompt": "expressionist art, emotional distortion, bold brushstrokes, dramatic angles, psychological intensity",
     "negativePrompt": "realistic, calm, peaceful, photographic, precise",
-    "styleKeywords": ["expressionist", "emotional", "distorted", "dramatic", "psychological", "intense"]
+    "styleKeywords": [
+      "expressionist",
+      "emotional",
+      "distorted",
+      "dramatic",
+      "psychological",
+      "intense"
+    ]
   },
-  
   "colorPalette": {
-    "primary": ["stark contrasts", "deep reds", "harsh yellows", "midnight blues"],
-    "secondary": ["acid greens", "violent purples", "stark whites"],
+    "primary": [
+      "stark contrasts",
+      "deep reds",
+      "harsh yellows",
+      "midnight blues"
+    ],
+    "secondary": [
+      "acid greens",
+      "violent purples",
+      "stark whites"
+    ],
     "background": "turbulent, uneven color fields",
     "usageNotes": "Clashing, emotional color choices",
     "saturation": "very high or very low",
     "contrast": "extreme"
   },
-  
   "lineArt": {
     "style": "jagged, emotional",
     "weight": "heavy, uneven",
@@ -24,7 +37,6 @@
     "texture": "rough, aggressive",
     "edgeTreatment": "angular, distorted"
   },
-  
   "lighting": {
     "type": "dramatic, unnatural",
     "direction": "multiple conflicting sources",
@@ -36,34 +48,28 @@
     },
     "highlights": "stark, unsettling"
   },
-  
   "rendering": {
     "technique": "rough brushwork",
     "texture": "visible, aggressive strokes",
     "detailLevel": "simplified for emotional impact",
     "finish": "raw, unfinished feeling"
   },
-  
   "perspective": "distorted, unsettling",
-  
   "mood": {
     "overall": "intense, psychological, disturbing",
     "emotion": "anxiety, alienation, passion",
     "tempo": "urgent, unstable",
-    "keywords": ["psychological", "intense", "emotional", "disturbing", "raw"]
+    "keywords": [
+      "psychological",
+      "intense",
+      "emotional",
+      "disturbing",
+      "raw"
+    ]
   },
-  
-  "stylePrecedents": ["Edvard Munch", "Ernst Ludwig Kirchner", "Egon Schiele"],
-  
-  "useCases": ["psychological dramas", "existential works", "dark narratives", "emotional conflicts"],
-  
-  "technicalSpecifications": {
-    "resolution": {
-      "aspectRatio": "9:16",
-      "minWidth": 1080,
-      "minHeight": 1920,
-      "unit": "pixels"
-    },
-    "orientation": "Portrait/Vertical"
-  }
+  "stylePrecedents": [
+    "Edvard Munch",
+    "Ernst Ludwig Kirchner",
+    "Egon Schiele"
+  ]
 }

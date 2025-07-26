@@ -1,22 +1,36 @@
 {
   "styleName": "Eco Botanical Style",
   "description": "Nature-inspired illustrations with botanical accuracy, environmental themes, and organic textures",
-  
   "aiPrompts": {
     "basePrompt": "botanical illustration, eco-friendly art, nature inspired, organic forms, environmental theme, flora and fauna",
     "negativePrompt": "industrial, artificial, urban, synthetic, geometric",
-    "styleKeywords": ["botanical", "eco", "nature", "organic", "environmental", "sustainable"]
+    "styleKeywords": [
+      "botanical",
+      "eco",
+      "nature",
+      "organic",
+      "environmental",
+      "sustainable"
+    ]
   },
-  
   "colorPalette": {
-    "primary": ["forest green", "earth brown", "sky blue", "sunlight yellow"],
-    "secondary": ["moss", "bark", "leaf variations", "flower tones"],
+    "primary": [
+      "forest green",
+      "earth brown",
+      "sky blue",
+      "sunlight yellow"
+    ],
+    "secondary": [
+      "moss",
+      "bark",
+      "leaf variations",
+      "flower tones"
+    ],
     "background": "natural paper or soft nature scenes",
     "usageNotes": "Natural, earthy tones found in nature",
     "saturation": "natural, not oversaturated",
     "contrast": "gentle, natural light"
   },
-  
   "lineArt": {
     "style": "delicate, botanical accuracy",
     "weight": "varied, organic",
@@ -24,7 +38,6 @@
     "texture": "hand-drawn quality",
     "edgeTreatment": "soft, natural"
   },
-  
   "lighting": {
     "type": "natural sunlight",
     "direction": "dappled, filtered through leaves",
@@ -36,32 +49,23 @@
     },
     "highlights": "sun-kissed edges"
   },
-  
   "rendering": {
     "technique": "botanical illustration mixed with modern eco-art",
     "texture": "paper texture, organic materials",
     "detailLevel": "high botanical accuracy",
     "finish": "natural, handcrafted feel"
   },
-  
   "perspective": "intimate nature views",
-  
   "mood": {
     "overall": "peaceful, conscious, harmonious",
     "emotion": "connection, responsibility, wonder",
     "tempo": "calm, meditative",
-    "keywords": ["sustainable", "conscious", "harmonious", "natural", "peaceful"]
-  },
-  
-  "useCases": ["environmental narratives", "nature books", "eco-conscious themes", "educational content"],
-  
-  "technicalSpecifications": {
-    "resolution": {
-      "aspectRatio": "9:16",
-      "minWidth": 1080,
-      "minHeight": 1920,
-      "unit": "pixels"
-    },
-    "orientation": "Portrait/Vertical"
+    "keywords": [
+      "sustainable",
+      "conscious",
+      "harmonious",
+      "natural",
+      "peaceful"
+    ]
   }
 }

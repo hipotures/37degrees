@@ -1,22 +1,31 @@
 {
   "styleName": "Stipple Pointillism Style",
   "description": "Art created entirely with dots and points, building form and tone through dot density",
-  
   "aiPrompts": {
     "basePrompt": "stipple art, pointillism technique, dot artwork, stippling illustration, points only",
     "negativePrompt": "lines, smooth shading, brushstrokes, continuous marks",
-    "styleKeywords": ["stipple", "pointillism", "dots", "points", "stippling", "dotwork"]
+    "styleKeywords": [
+      "stipple",
+      "pointillism",
+      "dots",
+      "points",
+      "stippling",
+      "dotwork"
+    ]
   },
-  
   "colorPalette": {
-    "primary": ["black dots on white", "single color dots"],
-    "secondary": ["colored dots for pointillism"],
+    "primary": [
+      "black dots on white",
+      "single color dots"
+    ],
+    "secondary": [
+      "colored dots for pointillism"
+    ],
     "background": "white or light color",
     "usageNotes": "Tone through dot density, color through optical mixing",
     "saturation": "pure colors that mix optically",
     "contrast": "created through dot spacing"
   },
-  
   "lineArt": {
     "style": "no lines, only dots",
     "weight": "dot size variations",
@@ -24,7 +33,6 @@
     "texture": "grainy from dots",
     "edgeTreatment": "defined by dot placement"
   },
-  
   "lighting": {
     "type": "implied through dot density",
     "direction": "shown through gradual transitions",
@@ -36,34 +44,28 @@
     },
     "highlights": "sparse dots or empty"
   },
-  
   "rendering": {
     "technique": "methodical dot placement",
     "texture": "uniform dot texture",
     "detailLevel": "depends on dot size and patience",
     "finish": "textured, vibrating surface"
   },
-  
   "perspective": "any, defined by dot patterns",
-  
   "mood": {
     "overall": "meticulous, contemplative, shimmering",
     "emotion": "patience, precision, meditation",
     "tempo": "slow, methodical",
-    "keywords": ["meticulous", "meditative", "precise", "shimmering", "patient"]
+    "keywords": [
+      "meticulous",
+      "meditative",
+      "precise",
+      "shimmering",
+      "patient"
+    ]
   },
-  
-  "stylePrecedents": ["Georges Seurat", "Paul Signac", "Scientific illustration"],
-  
-  "useCases": ["contemplative works", "nature themes", "detailed portraits", "atmospheric scenes"],
-  
-  "technicalSpecifications": {
-    "resolution": {
-      "aspectRatio": "9:16",
-      "minWidth": 1080,
-      "minHeight": 1920,
-      "unit": "pixels"
-    },
-    "orientation": "Portrait/Vertical"
-  }
+  "stylePrecedents": [
+    "Georges Seurat",
+    "Paul Signac",
+    "Scientific illustration"
+  ]
 }

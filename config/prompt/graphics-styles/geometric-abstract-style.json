@@ -1,22 +1,33 @@
 {
   "styleName": "Geometric Abstract Style",
   "description": "Bold geometric shapes and patterns with mathematical precision and modernist aesthetic",
-  
   "aiPrompts": {
     "basePrompt": "geometric abstract art, bold shapes, mathematical patterns, modernist design, precise geometry",
     "negativePrompt": "organic, realistic, textured, hand-drawn, natural forms",
-    "styleKeywords": ["geometric", "abstract", "modernist", "mathematical", "precise", "minimal"]
+    "styleKeywords": [
+      "geometric",
+      "abstract",
+      "modernist",
+      "mathematical",
+      "precise",
+      "minimal"
+    ]
   },
-  
   "colorPalette": {
-    "primary": ["primary colors", "black", "white"],
-    "secondary": ["gray scales", "complementary pairs"],
+    "primary": [
+      "primary colors",
+      "black",
+      "white"
+    ],
+    "secondary": [
+      "gray scales",
+      "complementary pairs"
+    ],
     "background": "solid colors or geometric patterns",
     "usageNotes": "Bold, decisive color choices",
     "saturation": "high or completely desaturated",
     "contrast": "strong, clear divisions"
   },
-  
   "lineArt": {
     "style": "precise, mathematical",
     "weight": "uniform, calculated",
@@ -24,7 +35,6 @@
     "texture": "smooth, perfect",
     "edgeTreatment": "sharp, exact"
   },
-  
   "lighting": {
     "type": "flat, graphic",
     "direction": "n/a",
@@ -36,34 +46,28 @@
     },
     "highlights": "color blocks"
   },
-  
   "rendering": {
     "technique": "vector-perfect precision",
     "texture": "none or geometric patterns",
     "detailLevel": "simplified to essential forms",
     "finish": "clean, mathematical"
   },
-  
   "perspective": "often impossible or multi-dimensional",
-  
   "mood": {
     "overall": "modern, intellectual, ordered",
     "emotion": "clarity, structure, harmony",
     "tempo": "static but dynamic through composition",
-    "keywords": ["modern", "intellectual", "ordered", "precise", "harmonious"]
+    "keywords": [
+      "modern",
+      "intellectual",
+      "ordered",
+      "precise",
+      "harmonious"
+    ]
   },
-  
-  "stylePrecedents": ["Mondrian", "Kandinsky", "Bauhaus"],
-  
-  "useCases": ["philosophical works", "modernist narratives", "intellectual themes", "structural stories"],
-  
-  "technicalSpecifications": {
-    "resolution": {
-      "aspectRatio": "9:16",
-      "minWidth": 1080,
-      "minHeight": 1920,
-      "unit": "pixels"
-    },
-    "orientation": "Portrait/Vertical"
-  }
+  "stylePrecedents": [
+    "Mondrian",
+    "Kandinsky",
+    "Bauhaus"
+  ]
 }
