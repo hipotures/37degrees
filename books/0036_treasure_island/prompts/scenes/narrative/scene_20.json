@@ -1,29 +1,47 @@
 {
   "sceneDescription": {
-    "title": "Jim kradnie łódź Bena Gunna",
+    "title": "Rescue from the Hilltop",
     "setting": {
-      "time": "1750s, noc",
-      "location": "Ukryta zatoczka na wyspie",
-      "weather": "Księżycowa noc, spokojne morze"
+      "time": "1750s, morning",
+      "location": "Jungle hillside, Treasure Island",
+      "weather": "Clear day, sun breaking through trees"
     },
     "characters": [
       {
-        "appearance": "Jim skulony, determinacja na twarzy",
-        "clothing": "Ciemne ubranie, przywiązany nóż",
-        "position": "Przy małej skórzanej łódce na brzegu",
-        "action": "Pcha łódkę do wody, rozgląda się nerwowo"
+        "appearance": "Doctor, 40s, carrying musket, determined",
+        "clothing": "Practical clothes, hat against sun",
+        "position": "Emerging from jungle cover",
+        "action": "Aiming musket at pirates below"
+      },
+      {
+        "appearance": "Wild man in goatskins, 30s, agile",
+        "clothing": "Rough-sewn skins",
+        "position": "In tree above",
+        "action": "Preparing to drop on unsuspecting pirate"
+      },
+      {
+        "appearance": "Loyal sailor with musket",
+        "clothing": "British navy remnants",
+        "position": "Taking cover behind tree",
+        "action": "Supporting doctor's position"
+      },
+      {
+        "appearance": "Boy and one-legged man together",
+        "clothing": "Both disheveled from ordeal",
+        "position": "Caught between two forces",
+        "action": "Boy helping Silver who gestures surrender"
       }
     ],
     "scene": {
-      "mainElements": "Mała prymitywna łódka z koziej skóry, skalista zatoczka, srebrzyste morze",
-      "details": "Łódka ledwo większa niż Jim, wiosło z gałęzi, skały osłaniające zatoczkę, ślady stóp na piasku, Hispaniola widoczna w oddali na kotwicy",
-      "background": "Księżyc w pełni oświetlający wodę, gwiaździste niebo",
-      "atmosphere": "Napięcie i determinacja, cichość nocy przerywanej pluskaniem wody"
+      "mainElements": "Dramatic rescue as loyal party arrives just as pirates turn violent, tables suddenly turned",
+      "details": "Musket smoke in morning air, pirates scattering for cover, dropped treasure-hunting tools, doctor's party having strategic high ground, Ben Gunn's wild appearance shocking pirates, Silver quickly switching sides again with raised hands",
+      "background": "Jungle paths showing how rescue party approached unseen",
+      "atmosphere": "Swift reversal of fortune, relief replacing terror, justice arriving at crucial moment"
     },
     "composition": {
-      "cameraAngle": "Niski kąt znad wody",
-      "focus": "Jim przy łódce w świetle księżyca",
-      "depth": "Pierwszy plan: woda i łódka, drugi plan: Jim, trzeci plan: zatoka i morze"
+      "cameraAngle": "Wide shot showing both groups and terrain",
+      "focus": "The moment of intervention with muskets leveled",
+      "depth": "Rescue party on high ground foreground, pirates and captives middle ground, jungle paths background"
     }
   }
 }

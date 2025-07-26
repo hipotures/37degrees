@@ -1,29 +1,35 @@
 {
   "sceneDescription": {
-    "title": "Portowa gospoda Benbow w mglisty poranek",
+    "title": "The Admiral Benbow Inn on the Devon Coast",
     "setting": {
-      "time": "1750s, wczesny poranek",
-      "location": "Admiral Benbow Inn, angielskie wybrzeże Devon",
-      "weather": "Gęsta mgła znad morza, wilgotny chłód"
+      "time": "1750s, late afternoon",
+      "location": "Admiral Benbow Inn, Devon coast, England",
+      "weather": "Overcast skies with salty sea breeze"
     },
     "characters": [
       {
-        "appearance": "Młody chłopiec, około 12 lat, jasne włosy, szczupła sylwetka",
-        "clothing": "Prosta kamizelka i spodnie do kolan, płócienne koszula, drewniane chodaki",
-        "position": "Stoi w drzwiach gospody, patrząc w stronę morza",
-        "action": "Wpatruje się w mgłę, trzymając w ręku miotłę do zamiatania"
+        "appearance": "Boy, 13 years old, brown hair, slender build",
+        "clothing": "Simple brown wool vest, white linen shirt, knee-length breeches",
+        "position": "Standing behind inn counter",
+        "action": "Wiping down wooden counter with cloth"
+      },
+      {
+        "appearance": "Middle-aged woman, graying hair tied back, tired expression",
+        "clothing": "Dark blue dress with white apron, practical boots",
+        "position": "Near kitchen doorway",
+        "action": "Carrying tray of mugs towards common room"
       }
     ],
     "scene": {
-      "mainElements": "Kamienna gospoda z drewnianymi okiennicami, szyld 'Admiral Benbow' kołysze się na wietrze, wąska droga prowadząca do zatoki",
-      "details": "Stare sieci rybackie wiszą na płocie, beczki z rumem przy wejściu, latarnia morska ledwo widoczna w oddali przez mgłę, kamienne schody prowadzące do drzwi gospody pokryte mchem",
-      "background": "Strome klify opadające ku morzu, kontury masztów statków w zatoce",
-      "atmosphere": "Tajemnicza i niepokojąca atmosfera, cisza przerywana jedynie krzykiem mew i szumem odległych fal"
+      "mainElements": "Interior of seaside inn with wooden beams, nautical decorations on walls including old ship wheels and nets, large fireplace with dying embers",
+      "details": "Shelves behind bar filled with bottles and pewter mugs, worn wooden tables and benches scattered throughout room, maritime charts and paintings of sailing ships on walls, small window showing glimpse of rocky coastline and gray sea beyond",
+      "background": "Through the window, steep cliffs and churning sea visible, seagulls circling in distance",
+      "atmosphere": "Quiet anticipation of evening guests, smell of salt air mixed with wood smoke, comfortable but weathered establishment"
     },
     "composition": {
-      "cameraAngle": "Widok z ukosa, ukazujący gospodę i zatokę",
-      "focus": "Chłopiec w drzwiach jako centralny punkt, gospoda zajmująca lewą stronę kadru",
-      "depth": "Pierwszy plan: kamienna ścieżka, drugi plan: gospoda i chłopiec, trzeci plan: mglista zatoka"
+      "cameraAngle": "Wide interior view from entrance",
+      "focus": "The boy at the counter as central figure",
+      "depth": "Counter and boy in foreground, woman with tray in middle ground, window showing sea vista in background"
     }
   }
 }

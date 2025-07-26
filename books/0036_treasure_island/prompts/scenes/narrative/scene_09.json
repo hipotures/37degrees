@@ -1,35 +1,41 @@
 {
   "sceneDescription": {
-    "title": "Odkrycie mapy w morskiej skrzyni",
+    "title": "Jim Overhears the Conspiracy in the Apple Barrel",
     "setting": {
-      "time": "1750s, noc",
-      "location": "Pokój Billy'ego Bonesa, tuż po jego śmierci",
-      "weather": "Burzowa noc, wiatr wyje za oknem"
+      "time": "1750s, night",
+      "location": "Below deck, the Hispaniola at sea",
+      "weather": "Calm seas, starlit night above"
     },
     "characters": [
       {
-        "appearance": "Jim klęczący przy skrzyni",
-        "clothing": "Pomięte ubranie, włosy w nieładzie",
-        "position": "Klęczy przy otwartej morskiej skrzyni",
-        "action": "Wyciąga zwinięty pergamin ze skrytki"
+        "appearance": "Boy, 13 years old, frightened expression",
+        "clothing": "Simple sailor's clothes",
+        "position": "Hidden inside large apple barrel",
+        "action": "Crouched down, hand over mouth to stifle breathing"
       },
       {
-        "appearance": "Matka Jima z latarnią",
-        "clothing": "Nocny szlafrok, czepek na głowie",
-        "position": "Stoi za synem",
-        "action": "Oświetla latarnią zawartość skrzyni, patrzy niespokojnie na drzwi"
+        "appearance": "One-legged man, 40s, animated gestures",
+        "clothing": "Loose shirt, sailor's breeches",
+        "position": "Leaning against crates near barrel",
+        "action": "Speaking in low, conspiratorial tone"
+      },
+      {
+        "appearance": "Two rough sailors, scarred faces",
+        "clothing": "Worn sailor garb",
+        "position": "Sitting on crates listening",
+        "action": "Nodding and whispering responses"
       }
     ],
     "scene": {
-      "mainElements": "Otwarta morska skrzynia, rozrzucone przedmioty, zwój pergaminu w rękach Jima",
-      "details": "Złote monety hiszpańskie, stary kompas, pistolet, sztylet, buteleczki z proszkiem, pożółkłe dokumenty, światło latarni odbijające się od monet",
-      "background": "Ciało Billy'ego przykryte prześcieradłem na łóżku",
-      "atmosphere": "Napięcie i pośpiech, strach przed powrotem piratów, odkrycie tajemnicy"
+      "mainElements": "Dark ship's hold with boy accidentally trapped in barrel overhearing mutinous plot, conspirators unaware of witness",
+      "details": "Large wooden apple barrel with boy barely visible through gap in lid, swinging lantern casting moving shadows, coiled ropes and supply crates creating maze-like space, rats scurrying in corners, creaking ship timbers, glimpse of boy's terrified eye through barrel gap",
+      "background": "Deep shadows of ship's hold, stairs leading to upper deck",
+      "atmosphere": "Claustrophobic terror, betrayal revealed, danger of discovery, pivotal moment of lost innocence"
     },
     "composition": {
-      "cameraAngle": "Widok z góry na klęczącego Jima",
-      "focus": "Ręce Jima trzymające mapę w świetle latarni",
-      "depth": "Pierwszy plan: otwarta skrzynia, drugi plan: Jim i matka, trzeci plan: ciemny pokój"
+      "cameraAngle": "Low angle showing barrel interior and conspirators beyond",
+      "focus": "Boy's frightened eye visible through barrel gap",
+      "depth": "Extreme close-up of eye in foreground, conspirators in lantern light middle ground, dark hold receding to background"
     }
   }
 }

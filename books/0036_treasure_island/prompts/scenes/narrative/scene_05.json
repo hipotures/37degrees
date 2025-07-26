@@ -1,41 +1,35 @@
 {
   "sceneDescription": {
-    "title": "Doktor Livesey bada chorego ojca Jima",
+    "title": "The Black Spot Delivered",
     "setting": {
-      "time": "1750s, wczesne popołudnie",
-      "location": "Sypialnia na piętrze gospody",
-      "weather": "Pochmurny dzień, przyćmione światło"
+      "time": "1750s, night",
+      "location": "Captain's room, Admiral Benbow Inn, Devon",
+      "weather": "Storm outside, wind howling"
     },
     "characters": [
       {
-        "appearance": "Mężczyzna około 50 lat, elegancki, z peruką, inteligentna twarz",
-        "clothing": "Ciemny surdut, biała koszula z żabotem, kamizelka",
-        "position": "Pochyla się nad łóżkiem chorego",
-        "action": "Bada puls pacjenta, marszcząc czoło z troską"
+        "appearance": "Blind beggar, elderly, milky white eyes, gaunt face",
+        "clothing": "Tattered cloak, worn boots, old felt hat",
+        "position": "Standing in doorway",
+        "action": "Extending bony hand holding small paper"
       },
       {
-        "appearance": "Chory mężczyzna w łóżku, blady, osłabiony",
-        "clothing": "Nocna koszula",
-        "position": "Leży w łóżku pod kołdrą",
-        "action": "Oddycha ciężko, zamknięte oczy"
-      },
-      {
-        "appearance": "Jim stojący przy drzwiach",
-        "clothing": "Codzienne ubranie",
-        "position": "W progu pokoju",
-        "action": "Obserwuje z niepokojem, trzyma tacę z lekarstwami"
+        "appearance": "Sea captain, 50s, face suddenly pale with terror",
+        "clothing": "Nightshirt, hastily thrown on coat",
+        "position": "Sitting up in bed",
+        "action": "Recoiling from the offered paper"
       }
     ],
     "scene": {
-      "mainElements": "Skromny pokój z drewnianym łóżkiem, stolik z lekami, krzesło",
-      "details": "Medyczna torba doktora otwarta na stoliku, buteleczki z lekarstwami, miska z wodą i ręcznik, krucyfiks na ścianie, świeca paląca się na stoliku nocnym",
-      "background": "Okno z widokiem na pochmurne niebo",
-      "atmosphere": "Poważna i smutna atmosfera, zapach lekarstw, cisza przerywana ciężkim oddechem"
+      "mainElements": "Dimly lit bedroom with blind beggar delivering dreaded black spot to terrified captain, single candle casting dramatic shadows",
+      "details": "Simple wooden bed with rumpled covers, sea chest in corner, candle on bedside table flickering in draft, black paper with ominous mark visible in beggar's extended palm, captain's hands gripping bedsheets, window rattling in storm",
+      "background": "Dark corners of room, rain lashing against window panes",
+      "atmosphere": "Pure terror, supernatural dread, fate closing in, death sentence delivered"
     },
     "composition": {
-      "cameraAngle": "Widok z rogu pokoju przy drzwiach",
-      "focus": "Doktor badający pacjenta w centrum",
-      "depth": "Pierwszy plan: Jim w drzwiach, drugi plan: scena przy łóżku, trzeci plan: okno"
+      "cameraAngle": "Over beggar's shoulder looking at captain",
+      "focus": "The black spot in extended hand and captain's horrified face",
+      "depth": "Beggar's hand with black spot foreground, captain's terrified expression middle ground, storm-darkened window background"
     }
   }
 }

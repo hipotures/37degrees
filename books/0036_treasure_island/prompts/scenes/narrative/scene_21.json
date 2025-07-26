@@ -1,35 +1,41 @@
 {
   "sceneDescription": {
-    "title": "Walka z Israelem Handsem na pokładzie",
+    "title": "Ben Gunn's Secret Cave",
     "setting": {
-      "time": "1750s, popołudnie",
-      "location": "Pokład Hispanioli dryfującej",
-      "weather": "Słoneczny dzień, lekki wiatr"
+      "time": "1750s, afternoon",
+      "location": "Hidden cave, Treasure Island interior",
+      "weather": "Cool shade inside cave"
     },
     "characters": [
       {
-        "appearance": "Israel Hands, ranny pirat z zakrwawioną nogą",
-        "clothing": "Brudna koszula, podarte spodnie",
-        "position": "Czołga się po pokładzie z nożem",
-        "action": "Rzuca nożem w Jima wspinającego się na maszt"
+        "appearance": "Wild man, 30s, proud expression",
+        "clothing": "Goatskin garments",
+        "position": "Gesturing at cave contents",
+        "action": "Showing his secret with childlike pride"
       },
       {
-        "appearance": "Jim na olinowaniu, przerażony ale zdeterminowany",
-        "clothing": "Podarta koszula, spodnie",
-        "position": "Wspina się desperacko po linach masztu",
-        "action": "Uchyla się przed nożem, sięga po pistolet"
+        "appearance": "Doctor, squire, and captain together",
+        "clothing": "Worn but proper clothes",
+        "position": "Standing in amazement",
+        "action": "Staring at unexpected sight"
+      },
+      {
+        "appearance": "Boy, 13 years old, wonder in eyes",
+        "clothing": "Adventure-worn clothes",
+        "position": "Stepping forward into cave",
+        "action": "Reaching toward glittering sight"
       }
     ],
     "scene": {
-      "mainElements": "Pochylony pokład dryfującego statku, splątane liny, główny maszt",
-      "details": "Nóż wbity w maszt tuż obok Jima, krew na pokładzie, statek przechylony niebezpiecznie, martwe ciało innego pirata w kącie, koło sterowe kręcące się bez kontroli",
-      "background": "Błękitne niebo, wyspa widoczna w oddali",
-      "atmosphere": "Dramatyczne napięcie, walka o życie na opuszczonym statku"
+      "mainElements": "Natural cave revealing actual treasure hoard that Ben Gunn found and moved years ago, explaining empty pit",
+      "details": "Stalactites hanging from ceiling, natural rock shelves holding organized treasure, gold coins in neat piles, silver bars stacked like firewood, jewels catching light from cave entrance, Ben Gunn's crude living arrangements visible, years of patient work evident",
+      "background": "Deep cave recesses hiding more wealth, water dripping somewhere",
+      "atmosphere": "Wonder and revelation, mystery solved, true treasure finally found, fairy tale ending"
     },
     "composition": {
-      "cameraAngle": "Widok z dołu w górę masztu",
-      "focus": "Jim na linach z Handsem czołgającym się poniżej",
-      "depth": "Pierwszy plan: Hands na pokładzie, drugi plan: Jim na maszcie, trzeci plan: niebo"
+      "cameraAngle": "From cave entrance looking in at magical scene",
+      "focus": "The glittering treasure hoard properly organized",
+      "depth": "Cave entrance framing foreground, treasure and amazed people middle ground, cave depths background"
     }
   }
 }

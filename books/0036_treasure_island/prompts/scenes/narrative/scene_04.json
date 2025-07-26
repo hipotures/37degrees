@@ -1,35 +1,41 @@
 {
   "sceneDescription": {
-    "title": "Jim pomaga matce w kuchni gospody",
+    "title": "Captain's Tales in the Inn Common Room",
     "setting": {
-      "time": "1750s, późny ranek",
-      "location": "Kuchnia gospody Admiral Benbow",
-      "weather": "Słoneczny dzień, światło wpadające przez okno"
+      "time": "1750s, evening",
+      "location": "Common room, Admiral Benbow Inn, Devon",
+      "weather": "Rain pattering against windows"
     },
     "characters": [
       {
-        "appearance": "Kobieta około 40 lat, zadbana, zmęczona twarz pełna dobroci",
-        "clothing": "Długa suknia z fartuchem, biały czepek na głowie",
-        "position": "Stoi przy wielkim piecu kuchennym",
-        "action": "Miesza w garnku drewnianą łyżką, uśmiecha się do syna"
+        "appearance": "Sea captain, 50s, animated expression, gesturing wildly",
+        "clothing": "Loosened blue coat, white shirt open at neck",
+        "position": "Seated at head of large table",
+        "action": "Telling dramatic story, one hand raised mimicking sword fight"
       },
       {
-        "appearance": "Jim Hawkins, 12-letni chłopiec o bystrych oczach",
-        "clothing": "Prosta koszula i spodnie, fartuch kuchenny",
-        "position": "Przy stole kuchennym",
-        "action": "Obiera ziemniaki, słucha matki z uwagą"
+        "appearance": "Boy, 13 years old, entranced expression",
+        "clothing": "Brown vest, white shirt, serving apron",
+        "position": "Standing nearby with pitcher",
+        "action": "Frozen mid-pour, completely absorbed in tale"
+      },
+      {
+        "appearance": "Three local fishermen, various ages, weathered faces",
+        "clothing": "Simple work clothes, knitted caps",
+        "position": "Seated around table",
+        "action": "Leaning forward, listening intently"
       }
     ],
     "scene": {
-      "mainElements": "Przestronna kuchnia z ceglanym piecem, duży drewniany stół, półki z naczyniami",
-      "details": "Wiszące przyprawy i zioła, miedziane garnki, kosze z warzywami, bochenek chleba na stole, kot śpiący przy piecu, promienie słońca oświetlające unoszącą się parę",
-      "background": "Widok przez okno na podwórze gospody",
-      "atmosphere": "Ciepła, domowa atmosfera, kontrast z mroczną salą gościnną, poczucie bezpieczeństwa"
+      "mainElements": "Warm firelit room filled with pipe smoke, captain holding court with tales of piracy and adventure on high seas, audience captivated by stories",
+      "details": "Pewter mugs and plates on table, fire crackling in large stone hearth, shadows dancing on walls, rain-streaked windows reflecting firelight, nautical implements decorating walls, boy's pitcher tilting dangerously as he forgets his task",
+      "background": "Dark corners of room, other patrons in shadows, stairs leading to upper floors",
+      "atmosphere": "Cozy yet thrilling, mixture of warmth and danger in captain's tales, hypnotic storytelling"
     },
     "composition": {
-      "cameraAngle": "Widok z rogu kuchni, obejmujący całe pomieszczenie",
-      "focus": "Matka i syn przy swoich zajęciach",
-      "depth": "Pierwszy plan: stół z jedzeniem, drugi plan: postacie przy pracy, trzeci plan: piec i okno"
+      "cameraAngle": "Medium shot capturing storyteller and audience",
+      "focus": "Captain's animated face and gesturing hand",
+      "depth": "Captain prominent in foreground, listeners arranged in middle ground, fireplace and room details in background"
     }
   }
 }

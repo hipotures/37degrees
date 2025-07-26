@@ -1,41 +1,41 @@
 {
   "sceneDescription": {
-    "title": "Pożegnanie z Silverem na plaży",
+    "title": "Return to Bristol Harbor",
     "setting": {
-      "time": "1750s, wczesny ranek",
-      "location": "Plaża wyspy, przy łodziach",
-      "weather": "Świt, spokojne morze"
+      "time": "1750s, morning",
+      "location": "Bristol harbor, England",
+      "weather": "Misty English morning"
     },
     "characters": [
       {
-        "appearance": "Silver z workiem złota, melancholijny",
-        "clothing": "Czystsza koszula, kapelusz",
-        "position": "Stoi przy małej łodzi",
-        "action": "Wyciąga rękę do Jima na pożegnanie"
+        "appearance": "Boy, 13 years old, more mature bearing",
+        "clothing": "Fine new clothes befitting young gentleman",
+        "position": "At ship's rail",
+        "action": "Looking at familiar harbor with changed eyes"
       },
       {
-        "appearance": "Jim rozdarty emocjonalnie",
-        "clothing": "Nowe ubranie z zapasów statku",
-        "position": "Stoi naprzeciwko Silvera",
-        "action": "Waha się, czy uścisnąć dłoń"
+        "appearance": "Doctor and squire, satisfied expressions",
+        "clothing": "Proper English gentleman attire",
+        "position": "Flanking the boy",
+        "action": "Pointing out waiting carriages on dock"
       },
       {
-        "appearance": "Reszta załogi w oddali",
-        "clothing": "Różne stroje",
-        "position": "Przy Hispanioli na kotwicy",
-        "action": "Ładują skarb na statek"
+        "appearance": "Remaining honest crew members",
+        "clothing": "Best shore clothes",
+        "position": "Preparing to disembark",
+        "action": "Cheerful with adventure's success"
       }
     ],
     "scene": {
-      "mainElements": "Dwie łodzie na plaży, Hispaniola w zatoce, wschodzące słońce",
-      "details": "Ślady na piasku, małe fale liżące brzeg, papuga Silvera na jego ramieniu, worek ze złotem w łodzi, mgła poranna unosząca się nad wodą",
-      "background": "Wyspa w porannym świetle, palmy i góry",
-      "atmosphere": "Melancholijne pożegnanie, koniec przygody, niejednoznaczne uczucia"
+      "mainElements": "Triumphant return to civilization, harbor unchanged but adventurers transformed by experience",
+      "details": "Bristol's familiar buildings in morning mist, other merchant ships at dock, treasure chests being prepared for unloading, boy's sea chest among them but smaller and worn, church bells ringing in distance, normal life continuing unaware of adventures",
+      "background": "English city life bustling as always, smoke from chimneys",
+      "atmosphere": "Successful completion, return to ordinary world with extraordinary memories, growth achieved"
     },
     "composition": {
-      "cameraAngle": "Średni plan, profil obu postaci",
-      "focus": "Jim i Silver twarzą w twarz",
-      "depth": "Pierwszy plan: postacie, drugi plan: łodzie i plaża, trzeci plan: statek i morze"
+      "cameraAngle": "From ship looking toward welcoming harbor",
+      "focus": "The boy's matured face seeing home with new perspective",
+      "depth": "Ship's rail and boy foreground, busy harbor middle ground, Bristol city background"
     }
   }
 }

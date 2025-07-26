@@ -1,35 +1,29 @@
 {
   "sceneDescription": {
-    "title": "Stary marynarz Billy Bones przy kominku",
+    "title": "Billy Bones Watches the Coastal Road",
     "setting": {
-      "time": "1750s, wieczór",
-      "location": "Główna sala gospody Admiral Benbow",
-      "weather": "Deszczowa noc za oknami"
+      "time": "1750s, morning",
+      "location": "Cliff overlook near Admiral Benbow Inn, Devon coast",
+      "weather": "Clear day with strong sea breeze"
     },
     "characters": [
       {
-        "appearance": "Mężczyzna około 50 lat, pokryta bliznami twarz, potężna postura",
-        "clothing": "Znoszony granatowy kubrak marynarki, szerokie spodnie, chustka na głowie",
-        "position": "Siedzi ciężko na ławie przy kominku",
-        "action": "Pije rum z cynowego kufla, spogląda podejrzliwie na drzwi"
-      },
-      {
-        "appearance": "Młody Jim Hawkins obserwujący z boku",
-        "clothing": "Prosta kamizelka i spodnie służącego",
-        "position": "Stoi przy barze w cieniu",
-        "action": "Wyciera kufle, ukradkiem obserwując gościa"
+        "appearance": "Grizzled sea captain, 50s, alert posture, hand shading eyes",
+        "clothing": "Blue coat flapping in wind, tricorn hat, brass telescope at side",
+        "position": "Standing on cliff edge",
+        "action": "Scanning the coastal road intently with telescope"
       }
     ],
     "scene": {
-      "mainElements": "Niska sala z belkowanym sufitem, duży kominek z płonącym ogniem, proste drewniane stoły i ławy",
-      "details": "Morska skrzynia przy nodze marynarza, szable i pistolety na ścianie, butelki rumu na półkach, dym z fajek unoszący się pod sufitem, świece w żelaznych świecznikach",
-      "background": "Ciemne okna z deszczem uderzającym o szyby",
-      "atmosphere": "Napięta i tajemnicza atmosfera, cienie tańczące na ścianach, poczucie zagrożenia"
+      "mainElements": "Dramatic clifftop position overlooking both the winding coastal road below and vast ocean, captain maintaining vigilant watch like a sentry",
+      "details": "Telescope glinting in sunlight, coat tails whipping in wind, worn path along cliff edge from repeated pacing, scattered wildflowers and sea grass bending in breeze, distant merchant wagons on road appearing tiny from height",
+      "background": "Expansive view of Devon coastline, white-capped waves, sailing vessels far at sea",
+      "atmosphere": "Paranoid watchfulness, exposed position suggesting both power and vulnerability, constant tension"
     },
     "composition": {
-      "cameraAngle": "Widok od strony baru, ukazujący całą salę",
-      "focus": "Billy Bones przy kominku jako główny punkt uwagi",
-      "depth": "Pierwszy plan: róg baru, drugi plan: marynarz przy ogniu, trzeci plan: reszta sali"
+      "cameraAngle": "Side profile emphasizing isolation and vigilance",
+      "focus": "Captain's weathered profile against sky, telescope extended",
+      "depth": "Captain on cliff edge foreground, coastal road snaking through middle distance, infinite ocean horizon"
     }
   }
 }

@@ -1,41 +1,41 @@
 {
   "sceneDescription": {
-    "title": "Pierwsze ujrzenie Wyspy Skarbów z pokładu",
+    "title": "Silver's Parley at the Stockade",
     "setting": {
-      "time": "1750s, wczesny ranek",
-      "location": "Pokład Hispanioli, wody tropikalne",
-      "weather": "Mglisty świt, wilgotne powietrze"
+      "time": "1750s, morning",
+      "location": "Outside the stockade fort, Treasure Island",
+      "weather": "Clear morning, rising heat"
     },
     "characters": [
       {
-        "appearance": "Jim przy burcie, napięty i czujny",
-        "clothing": "Lekkie ubranie tropikalne, chusta na głowie",
-        "position": "Stoi przy relingu dziobowym",
-        "action": "Wpatruje się intensywnie w wyłaniającą się wyspę"
+        "appearance": "One-legged man, 40s, crafty smile, sweat on brow",
+        "clothing": "Best blue coat despite heat, white flag in hand",
+        "position": "Standing before stockade gate on crutch",
+        "action": "Speaking persuasively while gesturing with free hand"
       },
       {
-        "appearance": "Silver obok, udający przyjaźń",
-        "clothing": "Koszula z wywiniętymi rękawami",
-        "position": "Opiera się o burtę obok Jima",
-        "action": "Wskazuje na różne części wyspy, uśmiecha się fałszywie"
+        "appearance": "Doctor, 40s, stern unmoved expression",
+        "clothing": "Military bearing despite civilian clothes",
+        "position": "Standing atop stockade wall",
+        "action": "Looking down with arms crossed"
       },
       {
-        "appearance": "Kapitan Smollett na mostku",
-        "clothing": "Mundur kapitański",
-        "position": "Przy kole sterowym",
-        "action": "Obserwuje wyspę przez lunetę"
+        "appearance": "Boy watching from gap in logs",
+        "clothing": "Simple clothes",
+        "position": "Hidden but observing",
+        "action": "Peering through stockade gap"
       }
     ],
     "scene": {
-      "mainElements": "Tajemnicza wyspa wyłaniająca się z mgły, trzy wzgórza, tropikalna roślinność",
-      "details": "Szkieletowe Wzgórze widoczne w oddali, plaże z białym piaskiem, palmy kołyszące się na brzegu, ptaki tropikalne krążące nad wyspą, rafa koralowa widoczna przez przejrzystą wodę",
-      "background": "Bezkresny ocean, wschodzące słońce przebijające się przez mgłę",
-      "atmosphere": "Mieszanka ekscytacji i grozy, piękno wyspy kontrastujące z wiedzą Jima o spisku"
+      "mainElements": "Tense negotiation between pirate leader and defenders, white flag of truce contrasting with underlying threat",
+      "details": "White parley flag on stick, Silver's crutch leaving marks in sandy ground, loaded muskets visible along stockade wall, tropical vegetation framing scene, morning shadows still long, tension visible in body language despite civilized words",
+      "background": "Jungle edge with hidden pirates possibly watching, fort's British flag above",
+      "atmosphere": "Dangerous diplomacy, veneer of civility over violence, chess match of words"
     },
     "composition": {
-      "cameraAngle": "Widok zza pleców Jima i Silvera",
-      "focus": "Wyspa w centrum kompozycji, majestatyczna i groźna",
-      "depth": "Pierwszy plan: postacie przy burcie, drugi plan: ocean, trzeci plan: wyspa we mgle"
+      "cameraAngle": "Medium shot showing both negotiators",
+      "focus": "The space between Silver below and doctor above",
+      "depth": "Silver in foreground looking up, stockade wall and defenders middle ground, jungle treeline background"
     }
   }
 }

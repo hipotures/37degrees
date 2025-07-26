@@ -1,41 +1,41 @@
 {
   "sceneDescription": {
-    "title": "Odkrycie pustej kryjówki skarbu",
+    "title": "Loading the Treasure Aboard",
     "setting": {
-      "time": "1750s, późne popołudnie",
-      "location": "Polana w głębi wyspy, miejsce skarbu",
-      "weather": "Zachodzące słońce, długie cienie"
+      "time": "1750s, dawn",
+      "location": "Beach and the Hispaniola, Treasure Island",
+      "weather": "Calm morning, good sailing weather"
     },
     "characters": [
       {
-        "appearance": "Silver wściekły, twarz wykrzywiona gniewem",
-        "clothing": "Brudne ubranie, pas z pistoletem",
-        "position": "Stoi nad wielkim dołem",
-        "action": "Patrzy w pusty dół z niedowierzaniem"
+        "appearance": "Boy, 13 years old, healthy color returned",
+        "clothing": "Clean clothes, proper sailor outfit",
+        "position": "On beach supervising",
+        "action": "Directing treasure loading into boats"
       },
       {
-        "appearance": "Grupa piratów oszołomionych",
-        "clothing": "Różne stroje pirackie",
-        "position": "Wokół dołu",
-        "action": "Klęczą przy krawędzi, grzebią w ziemi"
+        "appearance": "Loyal sailors, relieved expressions",
+        "clothing": "British naval dress",
+        "position": "Forming human chain",
+        "action": "Passing treasure chests to waiting boats"
       },
       {
-        "appearance": "Jim trzymany przez jednego pirata",
-        "clothing": "Zniszczone ubranie",
-        "position": "Z boku pod strażą",
-        "action": "Obserwuje reakcję piratów z ulgą"
+        "appearance": "One-legged man, 40s, subdued manner",
+        "clothing": "Still in blue coat but humbled",
+        "position": "Under guard but helping",
+        "action": "Using his strength to lift heavy chests"
       }
     ],
     "scene": {
-      "mainElements": "Ogromny pusty dół, ślady dawnego kopania, rozczarowanie piratów",
-      "details": "Łopaty rzucone wokół, kawałki starej skrzyni w ziemi, szkielet wskazujący kierunek leżący nieopodal, drzewa rzucające długie cienie na polanę",
-      "background": "Gęsty las otaczający polanę, góry wyspy w oddali",
-      "atmosphere": "Szok i wściekłość, zniszczone nadzieje, napięcie grożące wybuchem"
+      "mainElements": "Organized transfer of treasure from island to ship, civilization restored after chaos, preparation for departure",
+      "details": "Multiple small boats ferrying between beach and anchored ship, heavy chests requiring two men to carry, neat organization after pirate chaos, British flag flying proudly on Hispaniola, remaining pirates nowhere to be seen, tropical paradise now just backdrop",
+      "background": "The Hispaniola at anchor in calm bay, island losing its mystery",
+      "atmosphere": "Relief and accomplishment, order restored, adventure concluding successfully"
     },
     "composition": {
-      "cameraAngle": "Widok z góry na dół i zgromadzonych wokół",
-      "focus": "Pusty dół jako centrum rozczarowania",
-      "depth": "Pierwszy plan: krawędź dołu, drugi plan: piraci, trzeci plan: las"
+      "cameraAngle": "Beach perspective showing boats and ship",
+      "focus": "The treasure being systematically loaded",
+      "depth": "Beach activity foreground, boats in surf middle ground, ship at anchor background"
     }
   }
 }

@@ -1,22 +1,35 @@
 {
   "sceneDescription": {
-    "title": "Zatoka z perspektywy klifu o zachodzie słońca",
+    "title": "The Old Sea Captain Arrives at the Inn",
     "setting": {
-      "time": "1750s, późne popołudnie",
-      "location": "Klify nad zatoką Black Hill, wybrzeże Devon",
-      "weather": "Czyste niebo, ciepłe promienie zachodzącego słońca"
+      "time": "1750s, dusk",
+      "location": "Outside Admiral Benbow Inn, Devon coast, England",
+      "weather": "Light rain beginning, darkening clouds"
     },
-    "characters": [],
+    "characters": [
+      {
+        "appearance": "Tall weathered man, 50s, scarred face, missing teeth",
+        "clothing": "Long blue sea coat, tricorn hat, high leather boots",
+        "position": "Standing at inn entrance",
+        "action": "Dragging heavy sea chest behind him"
+      },
+      {
+        "appearance": "Boy, 13 years old, brown hair, curious expression",
+        "clothing": "Brown wool vest, white shirt, breeches",
+        "position": "Holding inn door open",
+        "action": "Staring with wide eyes at the stranger"
+      }
+    ],
     "scene": {
-      "mainElements": "Panoramiczny widok zatoki w kształcie półksiężyca, kilka statków handlowych na kotwicy, miasteczko portowe w dolinie",
-      "details": "Drewniane pomosty wystające w morze, małe łodzie rybackie ciągnięte na brzeg, dymy unoszące się z kominów domów, ścieżka wijąca się wzdłuż klifu, dzikie kwiaty rosnące na zboczu",
-      "background": "Bezkresny ocean rozciągający się po horyzont, złociste niebo zachodu",
-      "atmosphere": "Spokojna i malownicza sceneria portowego miasteczka, poczucie bezpieczeństwa przed nadchodzącą przygodą"
+      "mainElements": "Inn entrance with wooden sign creaking in wind, muddy path leading from coastal road, mysterious sea captain with his chest arriving as first drops of rain fall",
+      "details": "Heavy brass-cornered sea chest leaving grooves in mud, captain's weathered hands gripping rope handle, boy's mixture of fear and fascination visible on face, lantern light spilling from inn doorway creating dramatic shadows",
+      "background": "Darkening sky over rough sea, distant sailing ship barely visible on horizon",
+      "atmosphere": "Ominous arrival, tension building with approaching storm, sense of adventure beginning"
     },
     "composition": {
-      "cameraAngle": "Widok z lotu ptaka z wysokiego klifu",
-      "focus": "Zatoka i miasteczko w centrum kompozycji",
-      "depth": "Pierwszy plan: krawędź klifu z kwiatami, drugi plan: zatoka i port, trzeci plan: otwarty ocean"
+      "cameraAngle": "Low angle emphasizing captain's imposing presence",
+      "focus": "The captain's scarred face and the mysterious chest",
+      "depth": "Captain and chest dominating foreground, boy in doorway middle ground, stormy seascape in background"
     }
   }
 }

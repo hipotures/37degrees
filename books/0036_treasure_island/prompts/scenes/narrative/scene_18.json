@@ -1,35 +1,41 @@
 {
   "sceneDescription": {
-    "title": "Spotkanie z Benem Gunnem w dżungli",
+    "title": "Ghostly Voices from the Trees",
     "setting": {
-      "time": "1750s, zmierzch",
-      "location": "Gęsta dżungla Wyspy Skarbów",
-      "weather": "Wilgotny wieczór, cienie wydłużające się"
+      "time": "1750s, dusk",
+      "location": "Deep jungle approaching treasure site",
+      "weather": "Gathering twilight, still air"
     },
     "characters": [
       {
-        "appearance": "Ben Gunn, dziki wygląd, długie włosy i broda, wychudzona twarz",
-        "clothing": "Strzępy skóry koziej, samodziałowe ubranie",
-        "position": "Wyłania się zza drzewa",
-        "action": "Uśmiecha się szaleńczo, gestykuluje dziwacznie"
+        "appearance": "Six pirates, faces white with terror",
+        "clothing": "Sweat-stained sailor garb",
+        "position": "Frozen in their tracks",
+        "action": "Looking up at trees with primitive fear"
       },
       {
-        "appearance": "Jim przestraszony, zmęczony",
-        "clothing": "Podarte i brudne ubranie",
-        "position": "Cofa się pod drzewo",
-        "action": "Patrzy z mieszanką strachu i fascynacji"
+        "appearance": "One-legged man, 40s, struggling to maintain control",
+        "clothing": "Blue coat, gripping crutch tightly",
+        "position": "Among the terrified men",
+        "action": "Eyes darting, trying to locate voice source"
+      },
+      {
+        "appearance": "Boy, 13 years old, frightened but observant",
+        "clothing": "Dirty clothes",
+        "position": "Crouched low",
+        "action": "Scanning treeline for hidden figure"
       }
     ],
     "scene": {
-      "mainElements": "Gęsty las tropikalny, splątane liany, półmrok",
-      "details": "Dziwne cienie między drzewami, owoce tropikalne na gałęziach, małpy obserwujące z koron drzew, ślady stóp Bena w błocie, prowizoryczna włócznia w jego ręku",
-      "background": "Nieprzenikliwa ściana zieleni, odgłosy dżungli",
-      "atmosphere": "Niesamowita i niepokojąca atmosfera, granica między cywilizacją a dzikością"
+      "mainElements": "Terrified pirates hearing ghostly voice of dead captain Flint echoing from jungle, supernatural dread gripping all",
+      "details": "Dense foliage where voice seems to originate, pirates' shovels and picks dropped in fear, one man on knees praying, another gripping charm at neck, shadows deepening between trees, no visible source for eerily familiar voice, parrots disturbed and flying",
+      "background": "Dark jungle becoming more menacing as night approaches",
+      "atmosphere": "Supernatural terror, pirate superstitions made real, courage crumbling before ghostly presence"
     },
     "composition": {
-      "cameraAngle": "Średni plan na poziomie oczu",
-      "focus": "Twarze obu postaci w półmroku",
-      "depth": "Pierwszy plan: rośliny i liany, drugi plan: postacie, trzeci plan: ciemna dżungla"
+      "cameraAngle": "Low angle emphasizing towering trees",
+      "focus": "Pirates' terrified faces looking upward",
+      "depth": "Frightened men in foreground, mysterious tree canopy where voice originates middle ground, darkening sky background"
     }
   }
 }

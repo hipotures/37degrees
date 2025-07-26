@@ -1,35 +1,41 @@
 {
   "sceneDescription": {
-    "title": "Czarna plama w dłoni Billy'ego Bonesa",
+    "title": "The Hispaniola Sets Sail from Bristol",
     "setting": {
-      "time": "1750s, popołudnie",
-      "location": "Pokój Billy'ego Bonesa w gospodzie",
-      "weather": "Pochmurny dzień"
+      "time": "1750s, dawn",
+      "location": "Bristol harbor, aboard the Hispaniola",
+      "weather": "Clear morning, light breeze"
     },
     "characters": [
       {
-        "appearance": "Billy Bones, blady ze strachu, pot na czole",
-        "clothing": "Rozchełstana koszula, spodnie marynarskie",
-        "position": "Siedzi ciężko na łóżku",
-        "action": "Patrzy z przerażeniem na czarną plamę w dłoni"
+        "appearance": "Ship's captain, 45, stern expression, weathered features",
+        "clothing": "Naval coat with brass buttons, tricorn hat",
+        "position": "Standing at ship's wheel",
+        "action": "Calling out orders to crew"
       },
       {
-        "appearance": "Jim stojący obok",
-        "clothing": "Zwykłe ubranie",
-        "position": "Stoi przy łóżku",
-        "action": "Patrzy z niepokojem na reakcję marynarza"
+        "appearance": "Boy, 13 years old, excited expression",
+        "clothing": "New sailor's outfit, slightly too large",
+        "position": "At ship's rail",
+        "action": "Watching harbor recede with wonder"
+      },
+      {
+        "appearance": "Various crew members, mixed ages",
+        "clothing": "Sailor's garb, some climbing rigging",
+        "position": "Throughout ship",
+        "action": "Unfurling sails, working lines"
       }
     ],
     "scene": {
-      "mainElements": "Mały pokój, łóżko z pomiętą pościelą, morska skrzynia w rogu",
-      "details": "Czarna plama - kawałek papieru z czarnym kółkiem, drżące ręce Billy'ego, butelka rumu na stoliku, pistolet i nóż na łóżku, światło padające przez małe okno",
-      "background": "Ściana z hakami na ubrania, zamknięte drzwi",
-      "atmosphere": "Napięcie i strach, poczucie nieuchronnego losu, dramatyczny moment"
+      "mainElements": "Three-masted schooner leaving busy harbor at sunrise, crew working to set sails as adventure begins",
+      "details": "Complex rigging with sailors climbing like spiders, white sails catching golden dawn light, wooden deck scrubbed clean, coiled ropes, brass fittings gleaming, seagulls wheeling overhead, other ships at anchor, Bristol's buildings shrinking in distance",
+      "background": "Bristol harbor with forest of masts, city skyline in morning mist",
+      "atmosphere": "Exhilarating departure, fresh start, mixture of excitement and apprehension, dawn of adventure"
     },
     "composition": {
-      "cameraAngle": "Zbliżenie na dłonie Billy'ego z czarną plamą",
-      "focus": "Czarna plama w drżących rękach jako centrum uwagi",
-      "depth": "Pierwszy plan: ręce z plamą, drugi plan: twarze postaci, trzeci plan: pokój"
+      "cameraAngle": "Wide shot from stern showing full ship and harbor",
+      "focus": "The ship cutting through harbor waters",
+      "depth": "Ship's deck and rigging in foreground, harbor waters middle ground, Bristol fading into misty background"
     }
   }
 }

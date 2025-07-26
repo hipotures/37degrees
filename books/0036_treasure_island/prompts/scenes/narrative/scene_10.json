@@ -1,41 +1,41 @@
 {
   "sceneDescription": {
-    "title": "Spotkanie u dziedzica Trelawneya",
+    "title": "First Sight of Treasure Island",
     "setting": {
-      "time": "1750s, popołudnie",
-      "location": "Biblioteka w rezydencji dziedzica Trelawneya",
-      "weather": "Słoneczny dzień"
+      "time": "1750s, dawn",
+      "location": "Deck of the Hispaniola, approaching island",
+      "weather": "Misty morning, clouds parting"
     },
     "characters": [
       {
-        "appearance": "Dziedzic Trelawney, korpulentny mężczyzna około 45 lat, rumiana twarz",
-        "clothing": "Bogaty strój szlachecki, peruka, jedwabna kamizelka",
-        "position": "Siedzi za mahoniowym biurkiem",
-        "action": "Studiuje mapę przez lupę z ekscytacją"
+        "appearance": "Boy, 13 years old, conflicted expression",
+        "clothing": "Sailor's clothes, hair windblown",
+        "position": "At ship's bow",
+        "action": "Gripping rail, staring at island"
       },
       {
-        "appearance": "Doktor Livesey, szczupły, inteligentny",
-        "clothing": "Ciemny surdut, biała peruka sędziowska",
-        "position": "Stoi obok biurka",
-        "action": "Wskazuje palcem na szczegóły mapy"
+        "appearance": "One-legged man, 40s, studying island",
+        "clothing": "Blue coat, crutch under arm",
+        "position": "Few yards behind boy",
+        "action": "Pointing out island features with knowing look"
       },
       {
-        "appearance": "Jim stojący z boku",
-        "clothing": "Najlepsze ubranie, czyste i wyprasowane",
-        "position": "Stoi nieśmiało przy drzwiach",
-        "action": "Obserwuje z podziwem eleganckie wnętrze"
+        "appearance": "Ship's captain, worried expression",
+        "clothing": "Naval uniform",
+        "position": "Near wheel",
+        "action": "Consulting charts nervously"
       }
     ],
     "scene": {
-      "mainElements": "Bogata biblioteka z wysokimi regałami książek, duże biurko z mapą",
-      "details": "Globus w rogu, modele statków na półkach, portrety przodków na ścianach, kryształowy karafka z winem, promienie słońca przez wysokie okna oświetlające mapę",
-      "background": "Ściany pokryte książkami od podłogi do sufitu",
-      "atmosphere": "Ekscytacja odkryciem, atmosfera planowania wielkiej przygody, kontrast bogactwa z prostotą Jima"
+      "mainElements": "Mysterious tropical island emerging from morning mist as ship approaches, creating mix of wonder and dread",
+      "details": "Island's distinctive twin peaks piercing fog, dense jungle covering slopes, birds circling above, dangerous-looking reefs visible in clear water, ship's figurehead pointing toward destiny, crew members gathering at rails with mixed expressions",
+      "background": "Endless ocean, sun breaking through clouds dramatically",
+      "atmosphere": "Ominous beauty, paradise hiding danger, anticipation mixed with foreboding"
     },
     "composition": {
-      "cameraAngle": "Widok od strony Jima na panów przy biurku",
-      "focus": "Mapa rozłożona na biurku jako centrum zainteresowania",
-      "depth": "Pierwszy plan: Jim, drugi plan: panowie nad mapą, trzeci plan: biblioteka"
+      "cameraAngle": "Wide shot from ship's side showing island ahead",
+      "focus": "The forbidding island shrouded in mist",
+      "depth": "Ship's bow and crew in foreground, mysterious island looming in middle distance, vast ocean and sky background"
     }
   }
 }

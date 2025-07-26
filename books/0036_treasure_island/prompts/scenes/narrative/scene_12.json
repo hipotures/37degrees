@@ -1,41 +1,35 @@
 {
   "sceneDescription": {
-    "title": "Pierwsze spotkanie z Long John Silverem",
+    "title": "Ben Gunn Emerges from the Jungle",
     "setting": {
-      "time": "1750s, popołudnie",
-      "location": "Tawerna 'Spyglass' w Bristol",
-      "weather": "Pochmurny dzień"
+      "time": "1750s, late afternoon",
+      "location": "Dense jungle path, Treasure Island",
+      "weather": "Filtered sunlight through canopy"
     },
     "characters": [
       {
-        "appearance": "Long John Silver, potężny mężczyzna z jedną nogą, sympatyczna twarz",
-        "clothing": "Czysta koszula, skórzana kamizelka, drewniana proteza",
-        "position": "Stoi opierając się na kuli",
-        "action": "Uśmiecha się szeroko, wyciąga rękę na powitanie"
+        "appearance": "Wild man, 30s, sun-darkened skin, matted hair and beard",
+        "clothing": "Tattered goatskin clothing, barefoot",
+        "position": "Crouching behind tree trunk",
+        "action": "Peering out with mixture of fear and hope"
       },
       {
-        "appearance": "Papuga na ramieniu Silvera, kolorowe pióra",
-        "clothing": "Brak",
-        "position": "Siedzi na ramieniu Silvera",
-        "action": "Przekrzywia głowę, obserwuje Jima"
-      },
-      {
-        "appearance": "Jim nieufny ale zaciekawiony",
-        "clothing": "Podróżne ubranie",
-        "position": "Stoi w drzwiach tawerny",
-        "action": "Waha się przed podaniem ręki"
+        "appearance": "Boy, 13 years old, startled and wary",
+        "clothing": "Torn sailor clothes, muddy",
+        "position": "Frozen on jungle path",
+        "action": "Hand reaching for small knife at belt"
       }
     ],
     "scene": {
-      "mainElements": "Wnętrze portowej tawerny, bar z beczkami, stoły z marynarzami",
-      "details": "Modele statków wiszące pod sufitem, mapy morskie na ścianach, dym z fajek, kufle z piwem, okno z widokiem na port",
-      "background": "Grupa marynarzy grających w karty przy stole",
-      "atmosphere": "Gwarna atmosfera portowej tawerny, ale z nutą niepokoju w oczach Jima"
+      "mainElements": "Mysterious wild man revealing himself to lone boy in deep jungle, moment of mutual fear and recognition",
+      "details": "Thick vines and tropical plants creating green walls, shafts of golden light piercing canopy, exotic birds calling above, massive tree roots crossing path, wild man's makeshift tools visible at waist, boy's footprints in muddy path showing his journey",
+      "background": "Dense jungle in all directions, suggestion of hidden caves nearby",
+      "atmosphere": "Primal encounter, lost civilization, hope emerging from wildness, fairy tale meeting"
     },
     "composition": {
-      "cameraAngle": "Średni plan, widok na poziomie oczu",
-      "focus": "Silver i Jim twarzą w twarz",
-      "depth": "Pierwszy plan: postacie główne, drugi plan: wnętrze tawerny, trzeci plan: okno z portem"
+      "cameraAngle": "Eye level between both figures",
+      "focus": "The moment of contact between wild man and boy",
+      "depth": "Wild man partially hidden by vegetation foreground, boy on path middle ground, jungle depths background"
     }
   }
 }

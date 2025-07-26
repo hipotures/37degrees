@@ -1,35 +1,41 @@
 {
   "sceneDescription": {
-    "title": "Atak na palisadę",
+    "title": "The Empty Treasure Pit",
     "setting": {
-      "time": "1750s, świt",
-      "location": "Forteca z palisadą na wyspie",
-      "weather": "Mglisty poranek, pierwsze promienie słońca"
+      "time": "1750s, morning",
+      "location": "Treasure site clearing, Treasure Island",
+      "weather": "Bright morning sun"
     },
     "characters": [
       {
-        "appearance": "Piraci atakujący, grupa kilkunastu mężczyzn",
-        "clothing": "Różnorodne stroje pirackie, chusty, pasy z bronią",
-        "position": "Szturmują palisadę z różnych stron",
-        "action": "Wspinają się po palisadzie, strzelają z pistoletów"
+        "appearance": "Five pirates, faces transforming from greed to rage",
+        "clothing": "Dirt-covered from digging",
+        "position": "Standing around large excavated pit",
+        "action": "Staring into empty hole with growing fury"
       },
       {
-        "appearance": "Obrońcy wewnątrz - kapitan, doktor, Jim",
-        "clothing": "Zabrudzone ubrania, pasy z amunicją",
-        "position": "Za palisadą, przy strzelnicach",
-        "action": "Odpierają atak, strzelają przez otwory"
+        "appearance": "One-legged man, 40s, dangerous calm",
+        "clothing": "Blue coat dusty, still dignified",
+        "position": "At pit's edge on crutch",
+        "action": "Slowly turning to face angry men"
+      },
+      {
+        "appearance": "Boy, 13 years old, sensing danger",
+        "clothing": "Mud-stained clothes",
+        "position": "Backing away from group",
+        "action": "Hand moving toward hidden pistol"
       }
     ],
     "scene": {
-      "mainElements": "Drewniana palisada, chatka w środku, dym z wystrzałów",
-      "details": "Dziury po kulach w drewnie, ciała rannych przy palisadzie, brytyjska flaga na maszcie w środku, rozsypany proch i kule, mgła unosząca się nad polaną",
-      "background": "Dżungla otaczająca polanę, wschodzące słońce przebijające mgłę",
-      "atmosphere": "Chaos bitwy, krzyki i wystrzały, zapach prochu, desperacka walka o życie"
+      "mainElements": "Large excavated pit where treasure should be, pirates' dreams turning to murderous rage at betrayal",
+      "details": "Deep rectangular pit freshly dug, scattered dirt piles, abandoned shovels, single gold coin glinting in dirt, broken chest pieces, pirates' faces showing progression from shock to fury, weapons being slowly drawn, Silver calculating escape routes",
+      "background": "Jungle clearing, escape paths visible between trees",
+      "atmosphere": "Explosive tension, greed turned to murder, alliance crumbling, violence imminent"
     },
     "composition": {
-      "cameraAngle": "Widok z lotu ptaka na całą fortecę",
-      "focus": "Moment szturmu, piraci na palisadzie",
-      "depth": "Pierwszy plan: atakujący, drugi plan: palisada i obrońcy, trzeci plan: dżungla"
+      "cameraAngle": "High angle showing pit and surrounding men",
+      "focus": "The empty pit as center of shattered dreams",
+      "depth": "Empty pit in foreground, circle of angry pirates middle ground, jungle escape routes background"
     }
   }
 }

@@ -1,35 +1,35 @@
 {
   "sceneDescription": {
-    "title": "Powrót do gospody Admiral Benbow",
+    "title": "Jim at the Admiral Benbow Window",
     "setting": {
-      "time": "1750s, jesienne popołudnie",
-      "location": "Gospoda Admiral Benbow, Anglia",
-      "weather": "Chłodny dzień, liście opadające z drzew"
+      "time": "1750s, evening",
+      "location": "Admiral Benbow Inn, Devon coast, England",
+      "weather": "Sunset over calm sea"
     },
     "characters": [
       {
-        "appearance": "Jim starszy i dojrzalszy, pewność w oczach",
-        "clothing": "Eleganckie ubranie młodego dżentelmena",
-        "position": "Stoi przed gospodą",
-        "action": "Patrzy zamyślony na znajome miejsce"
+        "appearance": "Young man, 16 years old, thoughtful expression",
+        "clothing": "Gentleman's attire but comfortable at inn",
+        "position": "Seated by window with ledger",
+        "action": "Pausing in writing to gaze at horizon"
       },
       {
-        "appearance": "Matka Jima w drzwiach, uśmiechnięta",
-        "clothing": "Schludna suknia, biały fartuch",
-        "position": "W drzwiach gospody",
-        "action": "Wita syna z radością i dumą"
+        "appearance": "Middle-aged woman, his mother, content",
+        "clothing": "Fine dress showing improved circumstances",
+        "position": "Behind bar arranging bottles",
+        "action": "Smiling at her son"
       }
     ],
     "scene": {
-      "mainElements": "Gospoda wyremontowana, nowy szyld, uporządkowane otoczenie",
-      "details": "Nowy szyld 'Admiral Benbow' błyszczący w słońcu, świeżo pomalowane okiennice, ogród z kwiatami, dym z komina, powóz odjeżdżający drogą",
-      "background": "Jesienne drzewa, spokojna angielska wieś",
-      "atmosphere": "Spokój po burzy, poczucie domu, zamknięty rozdział przygody"
+      "mainElements": "Full circle return to inn where adventure began, now prosperous from treasure share, young man reflecting on journey",
+      "details": "Same inn but refurbished with treasure money, new furniture and fresh paint, ledger showing healthy accounts, model ship on mantelpiece, treasure chest in corner as reminder, sunset painting ocean gold like remembered doubloons, distant sail on horizon stirring memories",
+      "background": "Devon cliffs unchanged, eternal sea continuing its rhythms",
+      "atmosphere": "Peaceful reflection, adventure transformed into wisdom, stories waiting to be told to future travelers"
     },
     "composition": {
-      "cameraAngle": "Szeroki plan pokazujący całą gospodę",
-      "focus": "Jim przed gospodą jako symbol powrotu",
-      "depth": "Pierwszy plan: Jim, drugi plan: gospoda i matka, trzeci plan: krajobraz"
+      "cameraAngle": "Interior shot framing window and sea beyond",
+      "focus": "Young man's profile against sunset ocean view",
+      "depth": "Jim at window foreground, inn interior middle ground, infinite ocean through window background"
     }
   }
 }

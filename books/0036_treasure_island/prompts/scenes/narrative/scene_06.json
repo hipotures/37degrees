@@ -1,41 +1,41 @@
 {
   "sceneDescription": {
-    "title": "Billy Bones opowiada historie przy kominku",
+    "title": "Doctor Livesey and Squire Trelawney Examine the Map",
     "setting": {
-      "time": "1750s, późny wieczór",
-      "location": "Główna sala gospody Admiral Benbow",
-      "weather": "Spokojna, gwiaździsta noc"
+      "time": "1750s, afternoon",
+      "location": "Squire Trelawney's study, country manor, Devon",
+      "weather": "Sunny day visible through tall windows"
     },
     "characters": [
       {
-        "appearance": "Billy Bones, stary marynarz z bliznami",
-        "clothing": "Granatowy kubrak, rozwiązana chustka na głowie",
-        "position": "Siedzi przy kominku, gestykuluje żywo",
-        "action": "Opowiada historię, wskazując na niewidzialnych wrogów"
+        "appearance": "Distinguished doctor, 40s, intelligent eyes, neat appearance",
+        "clothing": "Black coat, white cravat, powdered wig",
+        "position": "Leaning over desk",
+        "action": "Studying document with magnifying glass"
       },
       {
-        "appearance": "Trzech miejscowych rybaków, różny wiek",
-        "clothing": "Proste ubrania robocze, wełniane czapki",
-        "position": "Siedzą wokół marynarza",
-        "action": "Słuchają z szeroko otwartymi oczami, popijają piwo"
+        "appearance": "Portly squire, 50s, red face, excited expression",
+        "clothing": "Fine velvet coat, embroidered waistcoat, dress wig",
+        "position": "Standing beside doctor",
+        "action": "Pointing excitedly at map details"
       },
       {
-        "appearance": "Jim ukryty w cieniu",
-        "clothing": "Nocna koszula, bose stopy",
-        "position": "Kuca za beczką w kącie",
-        "action": "Podsłuchuje z fascynacją, oczy błyszczące w ciemności"
+        "appearance": "Boy, 13 years old, eager face",
+        "clothing": "Clean brown jacket, pressed shirt",
+        "position": "Standing respectfully nearby",
+        "action": "Watching the gentlemen with anticipation"
       }
     ],
     "scene": {
-      "mainElements": "Kominek z żarzącymi się węglami, krąg słuchaczy w blasku ognia",
-      "details": "Cienie tańczące na ścianach przypominające potwory morskie, puste kufle na stole, dym z fajek tworzący mgłę, mapa morska przygnieciona kuflem na stole",
-      "background": "Ciemna sala poza kręgiem światła",
-      "atmosphere": "Hipnotyzująca atmosfera opowieści, mieszanka strachu i fascynacji"
+      "mainElements": "Elegant study with two gentlemen discovering treasure map's secrets, boy watching as adventure plans form",
+      "details": "Large mahogany desk covered with papers, leather-bound books lining walls, globe in corner, yellowed treasure map spread on desk showing island with red X marks, inkwell and quills, afternoon light streaming through windows illuminating dust motes",
+      "background": "Floor-to-ceiling bookshelves, portrait paintings, view of manicured gardens through windows",
+      "atmosphere": "Excitement of discovery, scholarly investigation mixed with boyish adventure dreams, respectable setting contrasting with pirate treasure"
     },
     "composition": {
-      "cameraAngle": "Niski kąt od strony kominka",
-      "focus": "Billy Bones gestykulujący w centrum światła",
-      "depth": "Pierwszy plan: żarzące się węgle, drugi plan: krąg słuchaczy, trzeci plan: Jim w cieniu"
+      "cameraAngle": "High angle showing desk and all three figures",
+      "focus": "The treasure map spread on desk with hands pointing",
+      "depth": "Map and hands in sharp foreground, three figures arranged around desk middle ground, elegant room details background"
     }
   }
 }

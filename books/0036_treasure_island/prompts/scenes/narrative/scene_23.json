@@ -1,41 +1,35 @@
 {
   "sceneDescription": {
-    "title": "Jaskinia Bena Gunna ze skarbem",
+    "title": "Silver's Midnight Escape",
     "setting": {
-      "time": "1750s, wieczór",
-      "location": "Ukryta jaskinia w górach wyspy",
-      "weather": "Zachód słońca na zewnątrz"
+      "time": "1750s, midnight",
+      "location": "Deck of Hispaniola at sea",
+      "weather": "Calm night, crescent moon"
     },
     "characters": [
       {
-        "appearance": "Ben Gunn dumny i podekscytowany",
-        "clothing": "Jego zwykłe łachmany ze skór",
-        "position": "Stoi przy stosach złota",
-        "action": "Wskazuje na skarb z szerokim uśmiechem"
+        "appearance": "One-legged man, 40s, moving stealthily",
+        "clothing": "Dark clothes for night",
+        "position": "Lowering himself over ship's side",
+        "action": "Escaping with small sack of coins"
       },
       {
-        "appearance": "Doktor Livesey zdumiony",
-        "clothing": "Zniszczony surdut i koszula",
-        "position": "Klęczy przy skrzyniach",
-        "action": "Przesypuje monety przez palce"
-      },
-      {
-        "appearance": "Jim oszołomiony bogactwem",
-        "clothing": "Podarte ubranie po przygodach",
-        "position": "Stoi w wejściu do jaskini",
-        "action": "Rozgląda się z niedowierzaniem"
+        "appearance": "Boy, 13 years old, complex emotions",
+        "clothing": "Nightshirt",
+        "position": "Hidden in shadows watching",
+        "action": "Deliberately looking away to allow escape"
       }
     ],
     "scene": {
-      "mainElements": "Stosy złotych monet, skrzynie z klejnotami, sztaby złota",
-      "details": "Hiszpańskie dublony, kawałki ósemek, brytyjskie gwinee, francuskie ludwiki, biżuteria z pereł i kamieni szlachetnych, pochodnie oświetlające skarb, błyski złota w świetle",
-      "background": "Skalne ściany jaskini, stalaktyty",
-      "atmosphere": "Magiczna atmosfera odkrycia, blask złota wypełniający jaskinię"
+      "mainElements": "Secret nighttime escape as Silver takes small portion of treasure and disappears, boy allowing it to happen",
+      "details": "Rope over ship's side, small boat waiting below, modest sack of gold coins not greedy amount, Silver's crutch carefully lowered first, boy's internal conflict visible in posture, moonlight on calm water, ship creaking gently, last shared look between them",
+      "background": "Dark ocean, distant shoreline of some port, stars above",
+      "atmosphere": "Bittersweet farewell, moral complexity, unspoken understanding between unlikely friends"
     },
     "composition": {
-      "cameraAngle": "Szeroki kąt obejmujący całą jaskinię",
-      "focus": "Skarb w centrum z postaciami wokół",
-      "depth": "Pierwszy plan: część skarbu, drugi plan: postacie, trzeci plan: głąb jaskini"
+      "cameraAngle": "Ship's deck level showing both figures",
+      "focus": "The moment of silent acknowledgment between them",
+      "depth": "Boy in shadows foreground, Silver escaping middle ground, dark ocean background"
     }
   }
 }

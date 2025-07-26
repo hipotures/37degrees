@@ -1,41 +1,41 @@
 {
   "sceneDescription": {
-    "title": "Bunt na pokładzie Hispanioli",
+    "title": "Following the Treasure Map Through the Jungle",
     "setting": {
-      "time": "1750s, gorące popołudnie",
-      "location": "Główny pokład Hispanioli na kotwicy",
-      "weather": "Parne słońce tropikalne"
+      "time": "1750s, midday",
+      "location": "Dense jungle interior, Treasure Island",
+      "weather": "Humid heat under canopy"
     },
     "characters": [
       {
-        "appearance": "Kapitan Smollett z pistoletem",
-        "clothing": "Mundur kapitański, pas z bronią",
-        "position": "Stoi na podwyższeniu przy sterze",
-        "action": "Celuje z pistoletu w buntowników"
+        "appearance": "One-legged man leading, 40s, intense focus",
+        "clothing": "Shirt soaked with sweat, hat protecting from sun",
+        "position": "At front of group with map",
+        "action": "Comparing map to landmarks while directing others"
       },
       {
-        "appearance": "Doktor Livesey z szablą",
-        "clothing": "Koszula, kamizelka, spodnie",
-        "position": "Broni wejścia do kajuty",
-        "action": "Trzyma szablę w pozycji obronnej"
+        "appearance": "Five rough pirates, various ages, carrying tools",
+        "clothing": "Mixed sailor garb, armed",
+        "position": "Spread out behind leader",
+        "action": "Hacking through vegetation with cutlasses and shovels"
       },
       {
-        "appearance": "Grupa buntowników z Silver na czele",
-        "clothing": "Różne stroje marynarskie",
-        "position": "Zgromadzeni na środku pokładu",
-        "action": "Wymachują bronią, krzyczą groźby"
+        "appearance": "Boy, 13 years old, watchful",
+        "clothing": "Simple clothes, hands bound loosely",
+        "position": "In middle of group as prisoner",
+        "action": "Memorizing route while pretending submission"
       }
     ],
     "scene": {
-      "mainElements": "Pokład podzielony na dwa obozy, napięcie w powietrzu",
-      "details": "Broń w rękach obu stron, liny i beczki jako barykady, flaga brytyjska powiewająca na maszcie, łodzie przy burcie gotowe do użycia, wyspa widoczna w tle",
-      "background": "Lazurowe morze, tropikalna wyspa z palmami",
-      "atmosphere": "Ekstremalne napięcie, moment przed wybuchem przemocy, upał potęgujący konflikt"
+      "mainElements": "Treasure hunting party pushing through virgin jungle following cryptic map directions, mix of excitement and danger",
+      "details": "Ancient map in Silver's hands with markings, compass glinting, machetes clearing vines, disturbed parrots fleeing overhead, massive tree roots to climb over, sweat-soaked clothing, shovels and picks for digging, everyone alert for landmarks",
+      "background": "Impenetrable jungle walls, glimpses of blue sky above",
+      "atmosphere": "Fevered treasure hunt, greed driving men forward, hostile environment, building tension"
     },
     "composition": {
-      "cameraAngle": "Widok z góry pokazujący cały pokład",
-      "focus": "Przestrzeń między dwoma obozami jako linia napięcia",
-      "depth": "Pierwszy plan: pokład z postaciami, drugi plan: ocean i wyspa"
+      "cameraAngle": "Following shot from behind group",
+      "focus": "Silver with map leading the desperate search",
+      "depth": "Back of treasure party in foreground, Silver with map middle ground, jungle path ahead background"
     }
   }
 }

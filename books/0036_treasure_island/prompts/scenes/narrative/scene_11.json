@@ -1,35 +1,41 @@
 {
   "sceneDescription": {
-    "title": "Hispaniola w porcie Bristol",
+    "title": "The Stockade Fort Under Siege",
     "setting": {
-      "time": "1750s, wczesny ranek",
-      "location": "Port Bristol, nabrzeże",
-      "weather": "Lekka mgła poranna, wschodzące słońce"
+      "time": "1750s, midday",
+      "location": "Wooden stockade fort, Treasure Island",
+      "weather": "Hot tropical sun, humid"
     },
     "characters": [
       {
-        "appearance": "Jim Hawkins z szerokim uśmiechem",
-        "clothing": "Nowe ubranie podróżne, płaszcz",
-        "position": "Stoi na nabrzeżu",
-        "action": "Patrzy z zachwytem na statek"
+        "appearance": "Doctor, 40s, determined face, sweat-stained",
+        "clothing": "Shirt sleeves, waistcoat unbuttoned",
+        "position": "Behind stockade wall with musket",
+        "action": "Aiming through gap in logs"
       },
       {
-        "appearance": "Dziedzic Trelawney dumny i podekscytowany",
-        "clothing": "Elegancki strój podróżny, cylinder",
-        "position": "Obok Jima",
-        "action": "Wskazuje laską na różne części statku"
+        "appearance": "Squire, 50s, red-faced from exertion",
+        "clothing": "Fine clothes now torn and dirty",
+        "position": "Reloading weapons",
+        "action": "Frantically preparing ammunition"
+      },
+      {
+        "appearance": "Boy, 13 years old, brave despite fear",
+        "clothing": "Torn sailor clothes",
+        "position": "Running between defenders",
+        "action": "Carrying powder and shot"
       }
     ],
     "scene": {
-      "mainElements": "Szkuner Hispaniola przy nabrzeżu, wysokie maszty, rozwinięte żagle",
-      "details": "Marynarze ładujący skrzynie i beczki, liny i takielunek, mewy krążące wokół masztów, inne statki w porcie, wózki z towarem na nabrzeżu",
-      "background": "Ruchliwy port z wieloma statkami, domy Bristol w oddali",
-      "atmosphere": "Ekscytacja przed wyprawą, zapach smoły i soli morskiej, krzyki marynarzy"
+      "mainElements": "Rough log stockade under attack, defenders desperately holding position against unseen pirates in surrounding jungle",
+      "details": "Wooden palisade with British flag flying defiantly, musket smoke drifting across compound, water barrel with ladle, scattered supplies, palm trees and tropical vegetation pressing close, bullet holes in logs, abandoned pirate hat in dirt",
+      "background": "Dense jungle concealing attackers, glimpses of movement in foliage",
+      "atmosphere": "Desperate defense, heat and gunpowder, civilization's last stand against piracy"
     },
     "composition": {
-      "cameraAngle": "Widok z nabrzeża pokazujący cały statek",
-      "focus": "Hispaniola dominująca w centrum kadru",
-      "depth": "Pierwszy plan: Jim i Trelawney, drugi plan: statek, trzeci plan: port"
+      "cameraAngle": "Inside stockade looking out toward jungle",
+      "focus": "Defenders at wall preparing for next assault",
+      "depth": "Defenders and stockade wall foreground, cleared ground middle distance, threatening jungle background"
     }
   }
 }

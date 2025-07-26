@@ -1,35 +1,41 @@
 {
   "sceneDescription": {
-    "title": "Ślepy Pew przy drzwiach gospody",
+    "title": "First Meeting with Long John Silver",
     "setting": {
-      "time": "1750s, mglisty poranek",
-      "location": "Przed wejściem do gospody Admiral Benbow",
-      "weather": "Gęsta mgła, wilgoć w powietrzu"
+      "time": "1750s, morning",
+      "location": "The Spy-glass Tavern, Bristol docks, England",
+      "weather": "Misty harbor morning"
     },
     "characters": [
       {
-        "appearance": "Ślepy żebrak, wysoki, koścista twarz, puste oczy",
-        "clothing": "Podarta peleryna, zniszczony kapelusz, obszarpane ubranie",
-        "position": "Stoi przed drzwiami, opiera się na kiju",
-        "action": "Stuka kijem w drzwi, głowa uniesiona nasłuchując"
+        "appearance": "Tall man, 40s, missing left leg, cheerful round face",
+        "clothing": "Clean blue coat, white shirt, leather apron",
+        "position": "Standing behind bar on crutch",
+        "action": "Wiping mug while smiling broadly"
       },
       {
-        "appearance": "Jim w drzwiach, przerażony",
-        "clothing": "Poranna kamizelka i spodnie",
-        "position": "Stoi w uchylonych drzwiach",
-        "action": "Cofa się instynktownie, ręka na klamce"
+        "appearance": "Boy, 13 years old, slightly nervous",
+        "clothing": "Traveling clothes, brown jacket, cap in hand",
+        "position": "Standing before the bar",
+        "action": "Looking up at tall man with mixture of awe and uncertainty"
+      },
+      {
+        "appearance": "Colorful parrot, green with red patches",
+        "clothing": "None",
+        "position": "Perched on Silver's shoulder",
+        "action": "Preening wing feathers"
       }
     ],
     "scene": {
-      "mainElements": "Drewniane drzwi gospody, kamienny próg, mgła okalająca postacie",
-      "details": "Krople rosy na pajęczynach, stukanie kija o kamienie, cień ślepca wydłużony we mgle, ślady błota na progu, latarnia gasnąca przy drzwiach",
-      "background": "Niewyraźne kontury drogi i drzew we mgle",
-      "atmosphere": "Złowroga i niepokojąca atmosfera, poczucie nadchodzącego zagrożenia"
+      "mainElements": "Bustling dockside tavern interior with one-legged tavern keeper charming young visitor, parrot adding exotic touch",
+      "details": "Rough wooden bar polished smooth, barrels and bottles behind counter, sawdust on floor, nautical charts on walls, morning light filtering through grimy windows, dock workers at tables in background, ship masts visible through windows",
+      "background": "Bristol harbor activity visible outside, sailors and merchants passing by windows",
+      "atmosphere": "Deceptively welcoming, busy maritime commerce, underlying tension beneath Silver's charm"
     },
     "composition": {
-      "cameraAngle": "Widok zza pleców Jima, patrzący na ślepca",
-      "focus": "Przerażająca postać ślepego Pew w centrum",
-      "depth": "Pierwszy plan: Jim w drzwiach, drugi plan: ślepy Pew, trzeci plan: mgła"
+      "cameraAngle": "Low angle emphasizing Silver's imposing height",
+      "focus": "Silver's friendly face contrasting with his powerful presence",
+      "depth": "Silver and parrot commanding foreground, boy in middle ground looking up, tavern activity in soft focus background"
     }
   }
 }
