@@ -1,0 +1,76 @@
+{
+  "styleName": "Glitch Art Style",
+  "description": "Digital distortion aesthetic with data corruption effects, pixel displacement, and electronic artifacts",
+  
+  "aiPrompts": {
+    "basePrompt": "glitch art, digital distortion, data corruption, pixel displacement, RGB shift, electronic artifacts",
+    "negativePrompt": "clean, perfect, smooth, traditional, analog",
+    "styleKeywords": ["glitch", "distortion", "digital", "corruption", "artifacts", "electronic"]
+  },
+  
+  "colorPalette": {
+    "primary": ["cyan", "magenta", "yellow", "black"],
+    "secondary": ["neon green", "electric blue", "hot pink"],
+    "background": "digital noise patterns",
+    "usageNotes": "RGB color separation, chromatic aberration",
+    "saturation": "oversaturated in glitches",
+    "contrast": "extreme, broken"
+  },
+  
+  "lineArt": {
+    "style": "fragmented, displaced",
+    "weight": "varies, breaks apart",
+    "color": "RGB separated",
+    "texture": "digital corruption",
+    "edgeTreatment": "jagged, pixelated"
+  },
+  
+  "lighting": {
+    "type": "broken digital light",
+    "direction": "chaotic, multiple",
+    "intensity": "flickering, unstable",
+    "shadows": {
+      "style": "corrupted, displaced",
+      "color": "inverted or shifted",
+      "opacity": "glitched"
+    },
+    "highlights": "blown out, data errors"
+  },
+  
+  "rendering": {
+    "technique": "digital manipulation",
+    "texture": "compression artifacts, scan lines",
+    "detailLevel": "corrupted data",
+    "finish": "intentionally broken"
+  },
+  
+  "perspective": "warped, unstable",
+  
+  "mood": {
+    "overall": "chaotic, modern, rebellious",
+    "emotion": "disruption, unease, energy",
+    "tempo": "erratic, pulsing",
+    "keywords": ["chaotic", "digital", "rebellious", "unstable", "energetic"]
+  },
+  
+  "postProcessing": {
+    "effects": ["datamoshing", "pixel sorting", "RGB split"],
+    "filters": "compression artifacts",
+    "adjustments": {
+      "saturation": "broken",
+      "contrast": "extreme"
+    }
+  },
+  
+  "useCases": ["cyberpunk themes", "digital age narratives", "tech horror", "experimental works"],
+  
+  "technicalSpecifications": {
+    "resolution": {
+      "aspectRatio": "9:16",
+      "minWidth": 1080,
+      "minHeight": 1920,
+      "unit": "pixels"
+    },
+    "orientation": "Portrait/Vertical"
+  }
+}

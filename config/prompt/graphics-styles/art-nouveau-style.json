@@ -1,0 +1,69 @@
+{
+  "styleName": "Art Nouveau Style",
+  "description": "Elegant decorative style with flowing organic lines, floral motifs, and sophisticated ornamental details",
+  
+  "aiPrompts": {
+    "basePrompt": "art nouveau illustration, decorative borders, flowing lines, floral motifs, elegant ornamental",
+    "negativePrompt": "modern, minimalist, geometric, photorealistic, plain",
+    "styleKeywords": ["art nouveau", "decorative", "ornamental", "flowing", "botanical", "elegant"]
+  },
+  
+  "colorPalette": {
+    "primary": ["muted golds", "deep greens", "burgundy", "peacock blue"],
+    "secondary": ["ivory", "dusty rose", "sage green"],
+    "background": "aged paper or decorative patterns",
+    "usageNotes": "Rich but muted tones with metallic accents",
+    "saturation": "medium, sophisticated",
+    "contrast": "elegant, balanced"
+  },
+  
+  "lineArt": {
+    "style": "flowing, sinuous curves",
+    "weight": "varied, decorative",
+    "color": "dark brown or black with gold accents",
+    "texture": "smooth, refined",
+    "edgeTreatment": "organic, plant-like curves"
+  },
+  
+  "lighting": {
+    "type": "decorative, non-realistic",
+    "direction": "integrated into design",
+    "intensity": "balanced throughout",
+    "shadows": {
+      "style": "decorative, part of pattern",
+      "color": "deeper tones of base colors",
+      "opacity": "integrated"
+    },
+    "highlights": "gold leaf effects"
+  },
+  
+  "rendering": {
+    "technique": "decorative illustration",
+    "texture": "smooth with ornamental details",
+    "detailLevel": "high in decoration, simplified figures",
+    "finish": "refined, poster-like"
+  },
+  
+  "perspective": "flattened, decorative",
+  
+  "mood": {
+    "overall": "elegant, romantic, sophisticated",
+    "emotion": "beauty, refinement, nostalgia",
+    "tempo": "flowing, graceful",
+    "keywords": ["elegant", "decorative", "romantic", "ornate", "sophisticated"]
+  },
+  
+  "stylePrecedents": ["Alphonse Mucha", "Gustav Klimt", "Aubrey Beardsley"],
+  
+  "useCases": ["romantic classics", "period dramas", "poetry", "elegant narratives"],
+  
+  "technicalSpecifications": {
+    "resolution": {
+      "aspectRatio": "9:16",
+      "minWidth": 1080,
+      "minHeight": 1920,
+      "unit": "pixels"
+    },
+    "orientation": "Portrait/Vertical"
+  }
+}

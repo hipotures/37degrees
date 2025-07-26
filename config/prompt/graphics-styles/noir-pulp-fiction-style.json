@@ -1,0 +1,69 @@
+{
+  "styleName": "Noir Pulp Fiction Style",
+  "description": "Dark, high-contrast urban scenes with dramatic shadows, venetian blind lighting, and gritty atmosphere",
+  
+  "aiPrompts": {
+    "basePrompt": "film noir style, pulp fiction cover, dramatic shadows, venetian blinds, urban night, detective story",
+    "negativePrompt": "bright, cheerful, colorful, soft, rural",
+    "styleKeywords": ["noir", "pulp", "detective", "urban", "dramatic", "mysterious"]
+  },
+  
+  "colorPalette": {
+    "primary": ["deep blacks", "stark whites", "blood red"],
+    "secondary": ["gunmetal gray", "amber streetlight", "neon accent"],
+    "background": "dark urban settings",
+    "usageNotes": "Mostly monochromatic with rare color accents",
+    "saturation": "low except for accents",
+    "contrast": "extreme"
+  },
+  
+  "lineArt": {
+    "style": "sharp, angular",
+    "weight": "bold with fine details",
+    "color": "black",
+    "texture": "rough, sketchy in shadows",
+    "edgeTreatment": "hard-boiled, no softness"
+  },
+  
+  "lighting": {
+    "type": "harsh, directional",
+    "direction": "low angle, venetian blind patterns",
+    "intensity": "extreme contrast",
+    "shadows": {
+      "style": "deep, geometric",
+      "color": "pure black",
+      "opacity": "solid, dramatic"
+    },
+    "highlights": "harsh, limited"
+  },
+  
+  "rendering": {
+    "technique": "high contrast illustration",
+    "texture": "gritty, urban textures",
+    "detailLevel": "selective, focus on mood",
+    "finish": "pulp magazine quality"
+  },
+  
+  "perspective": "dramatic angles, Dutch tilts",
+  
+  "mood": {
+    "overall": "mysterious, dangerous, urban",
+    "emotion": "suspicion, danger, fatalism",
+    "tempo": "tense, suspenseful",
+    "keywords": ["mysterious", "dangerous", "urban", "gritty", "fatalistic"]
+  },
+  
+  "stylePrecedents": ["Pulp magazine covers", "Film noir posters", "James M. Cain book covers"],
+  
+  "useCases": ["crime fiction", "detective stories", "urban dramas", "psychological thrillers"],
+  
+  "technicalSpecifications": {
+    "resolution": {
+      "aspectRatio": "9:16",
+      "minWidth": 1080,
+      "minHeight": 1920,
+      "unit": "pixels"
+    },
+    "orientation": "Portrait/Vertical"
+  }
+}
