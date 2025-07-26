@@ -90,22 +90,45 @@ Each file must match `scene-description-template.json` structure exactly.
   - Scene can be dramatic/emotional, but described through visual elements
   - Like a photographer who stumbled upon this moment without knowing the backstory
 - **LOCATIONS: Each scene must include FULL location context**
-  - Good: "Admiral Benbow Inn, Devon coast, England"
+  - Good: "Seaside tavern, Devon coast, England"
   - Bad: "Main hall of Admiral Benbow" (AI won't know where this is)
   - Always provide complete geographical/contextual information
   - Treat each scene as independent - AI won't see previous scenes
 - **CHARACTERS: Describe as if viewer has never seen them before**
   - NO references to other scenes or aging ("older Jim", "Jim now grown")
-  - Always give complete visual description (age, height, build, hair color)
+  - EVERY character must have complete description:
+    - age (exact for children, approximate for adults: 20s, 40s, 60s)
+    - hair color and style
+    - build (slender, stocky, athletic, muscular, frail)
+    - height indication (tall, average, short)
   - NO character names unless describing what's written/visible
-  - Good: "teenage boy, 16 years old, brown hair"
-  - Bad: "Jim, older and more mature"
+  - Good: "teenage boy, 16 years old, brown hair, athletic build"
+  - Bad: "Jim, older and more mature" or just "Boy watching"
 - **EMOTIONS: Use visual cues, not abstract descriptions**
   - Good: "furrowed brow, clenched fists, leaning forward"
   - Bad: "determination on face", "feeling anxious"
+  - Avoid abstract concepts in atmosphere/details:
+    - Bad: "dangerous diplomacy", "chess match of words", "veneer of civility"
+    - Good: "man gripping crutch tightly", "sweat on foreheads", "hands near weapons"
+  - Describe what camera would see, not what it means
 - **CLOTHING: Be specific about period garments**
   - Good: "brown wool vest, white linen shirt, knee-length breeches"
   - Bad: "everyday clothes", "best outfit"
+- **NO PROPRIETARY NAMES**: Replace with descriptive terms
+  - Bad: "Admiral Benbow Inn", "Hispaniola ship", "Treasure Island"
+  - Good: "seaside tavern", "three-masted sailing ship", "tropical island"
+  - The "title" field must NOT contain character names
+    - Good: "Parley at the Fort", "Tavern Window at Sunset"
+    - Bad: "Jim at the Window", "Silver's Negotiation"
+- **NO STORY REFERENCES**: Each scene stands alone
+  - Bad: "return to where adventure began", "reminder of journey"
+  - Good: "young man at tavern window", "treasure chest in corner"
+  - Never mention what happened before or will happen after
+- **SIMPLE VISUAL LANGUAGE**: Write like describing a photograph
+  - Bad: "sunset painting ocean gold like remembered doubloons"
+  - Good: "orange sunset reflecting on water surface"
+  - Bad: "eternal sea continuing its rhythms"
+  - Good: "waves breaking on shore"
 - Follow the exact structure and field requirements from scene-description-template.json
 - Do NOT define visual style (colors, artistic technique, rendering style) - only describe WHAT is in the scene
 - The 25 scenes must be internally consistent and cohesive
