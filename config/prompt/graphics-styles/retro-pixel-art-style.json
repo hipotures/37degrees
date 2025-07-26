@@ -1,0 +1,76 @@
+{
+  "styleName": "Retro Pixel Art Style",
+  "description": "Classic pixel art aesthetic with limited colors, hard edges, and nostalgic 8-bit/16-bit game visuals",
+  
+  "aiPrompts": {
+    "basePrompt": "pixel art, retro game style, 8-bit, 16-bit, pixelated",
+    "negativePrompt": "smooth, anti-aliased, gradients, photorealistic, blurry",
+    "styleKeywords": ["pixel art", "retro", "8-bit", "16-bit", "blocky", "pixelated"]
+  },
+  
+  "colorPalette": {
+    "primary": ["limited palette", "16 colors maximum"],
+    "secondary": ["#000000", "#FFFFFF"],
+    "background": "solid color or simple pattern",
+    "usageNotes": "Strict color limit, no gradients, maximum contrast",
+    "saturation": "high",
+    "contrast": "maximum"
+  },
+  
+  "lineArt": {
+    "style": "pixel-perfect outlines",
+    "weight": "1 pixel",
+    "color": "#000000",
+    "texture": "hard edges",
+    "edgeTreatment": "no anti-aliasing"
+  },
+  
+  "lighting": {
+    "type": "flat or simple shading",
+    "direction": "typically top-left",
+    "intensity": "simple light/dark values",
+    "shadows": {
+      "style": "dithering patterns",
+      "color": "darker palette color",
+      "opacity": "solid"
+    },
+    "highlights": "lighter palette color"
+  },
+  
+  "rendering": {
+    "technique": "pixel placement",
+    "texture": "none or dithering",
+    "detailLevel": "minimal, iconic",
+    "finish": "crisp pixels"
+  },
+  
+  "perspective": "isometric or straight-on",
+  
+  "mood": {
+    "overall": "nostalgic, playful, retro",
+    "emotion": "fun, energetic, classic gaming",
+    "tempo": "varies by subject",
+    "keywords": ["nostalgic", "retro", "gaming", "8-bit", "classic"]
+  },
+  
+  "postProcessing": {
+    "effects": ["pixelation", "color reduction"],
+    "filters": "none",
+    "adjustments": {
+      "saturation": "high",
+      "contrast": "maximum"
+    }
+  },
+  
+  "useCases": ["retro games", "nostalgic designs", "icons", "indie game art"],
+  
+  "technicalSpecifications": {
+    "resolution": {
+      "aspectRatio": "9:16",
+      "minWidth": 1080,
+      "minHeight": 1920,
+      "unit": "pixels"
+    },
+    "orientation": "Portrait/Vertical"
+  }
+}

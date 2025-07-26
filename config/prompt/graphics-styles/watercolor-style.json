@@ -1,0 +1,76 @@
+{
+  "styleName": "Watercolor Style",
+  "description": "Traditional watercolor painting with translucent washes, color bleeding, and organic flow",
+  
+  "aiPrompts": {
+    "basePrompt": "watercolor painting, translucent washes, wet on wet, soft edges",
+    "negativePrompt": "digital art, hard edges, solid colors, photographic",
+    "styleKeywords": ["watercolor", "aquarelle", "wet on wet", "translucent", "flowing"]
+  },
+  
+  "colorPalette": {
+    "primary": ["translucent washes", "soft pastels"],
+    "secondary": ["deeper pigments for accents"],
+    "background": "white paper showing through",
+    "usageNotes": "Colors should bleed and blend naturally",
+    "saturation": "variable - from muted to vibrant",
+    "contrast": "soft to medium"
+  },
+  
+  "lineArt": {
+    "style": "minimal or suggested",
+    "weight": "very thin if present",
+    "color": "often absent or very light",
+    "texture": "organic, flowing",
+    "edgeTreatment": "soft, bleeding edges"
+  },
+  
+  "lighting": {
+    "type": "soft, diffused",
+    "direction": "natural light",
+    "intensity": "gentle",
+    "shadows": {
+      "style": "translucent washes",
+      "color": "cool tones mixed with base colors",
+      "opacity": "transparent"
+    },
+    "highlights": "white paper reserved or lifted paint"
+  },
+  
+  "rendering": {
+    "technique": "traditional watercolor on paper",
+    "texture": "visible watercolor paper grain",
+    "detailLevel": "impressionistic, not highly detailed",
+    "finish": "organic with natural pigment accumulation"
+  },
+  
+  "perspective": "varied, often loose and interpretive",
+  
+  "mood": {
+    "overall": "delicate, flowing, organic",
+    "emotion": "peaceful, dreamy, contemplative",
+    "tempo": "calm, fluid",
+    "keywords": ["flowing", "organic", "delicate", "translucent", "artistic"]
+  },
+  
+  "postProcessing": {
+    "effects": ["wet on wet bleeding", "paper texture", "color pooling"],
+    "filters": "none",
+    "adjustments": {
+      "saturation": "natural pigment saturation",
+      "contrast": "soft"
+    }
+  },
+  
+  "useCases": ["landscapes", "botanical illustrations", "portraits", "atmospheric scenes"],
+  
+  "technicalSpecifications": {
+    "resolution": {
+      "aspectRatio": "9:16",
+      "minWidth": 1080,
+      "minHeight": 1920,
+      "unit": "pixels"
+    },
+    "orientation": "Portrait/Vertical"
+  }
+}

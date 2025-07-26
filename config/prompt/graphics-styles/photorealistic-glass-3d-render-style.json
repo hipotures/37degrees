@@ -1,0 +1,76 @@
+{
+  "styleName": "Photorealistic Glass 3D Render",
+  "description": "High-end 3D rendering of glass materials with iridescent effects, refractions, and studio lighting",
+  
+  "aiPrompts": {
+    "basePrompt": "photorealistic 3D render, glass material, transparent, iridescent, studio lighting",
+    "negativePrompt": "flat, cartoon, illustration, matte surfaces",
+    "styleKeywords": ["photorealistic", "glass", "transparent", "iridescent", "3D render", "studio"]
+  },
+  
+  "colorPalette": {
+    "primary": ["transparent with iridescent blue, green, and purple hues"],
+    "secondary": ["crystal-clear with subtle chromatic shifts"],
+    "background": "#000000",
+    "usageNotes": "Iridescent rainbow effects through glass refraction",
+    "saturation": "high in reflections",
+    "contrast": "high"
+  },
+  
+  "lineArt": {
+    "style": "none - photorealistic surfaces",
+    "weight": "n/a",
+    "color": "n/a",
+    "texture": "smooth polished glass",
+    "edgeTreatment": "sharp, precise edges"
+  },
+  
+  "lighting": {
+    "type": "studio HDRI",
+    "direction": "angled top-left key light and ambient fill",
+    "intensity": "high",
+    "shadows": {
+      "style": "soft realistic shadows",
+      "color": "dark with color bleeding",
+      "opacity": "variable based on transparency"
+    },
+    "highlights": "bright specular reflections with bloom"
+  },
+  
+  "rendering": {
+    "technique": "photorealistic 3D with ray tracing",
+    "texture": "smooth, polished glass",
+    "detailLevel": "high with accurate physics",
+    "finish": "glossy with refractions and reflections"
+  },
+  
+  "perspective": "studio product shot angle",
+  
+  "mood": {
+    "overall": "luxurious, pristine, high-tech",
+    "emotion": "sophisticated, premium",
+    "tempo": "static, contemplative",
+    "keywords": ["luxury", "pristine", "sophisticated", "premium", "crystalline"]
+  },
+  
+  "postProcessing": {
+    "effects": ["chromatic aberration", "glow", "bloom"],
+    "filters": "high contrast",
+    "adjustments": {
+      "saturation": "enhanced in refractions",
+      "contrast": "high"
+    }
+  },
+  
+  "useCases": ["product visualization", "luxury branding", "abstract art", "tech demonstrations"],
+  
+  "technicalSpecifications": {
+    "resolution": {
+      "aspectRatio": "9:16",
+      "minWidth": 1080,
+      "minHeight": 1920,
+      "unit": "pixels"
+    },
+    "orientation": "Portrait/Vertical"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "styleName": "Minimalist 3D Illustration",
+  "description": "Clean 3D renders with simplified geometry, soft colors, and modern minimalist aesthetic",
+  
+  "aiPrompts": {
+    "basePrompt": "minimalist 3D illustration, simple geometry, soft colors, clean render",
+    "negativePrompt": "complex details, photorealistic, busy composition, dark shadows",
+    "styleKeywords": ["minimal 3D", "simple", "clean", "modern", "soft"]
+  },
+  
+  "colorPalette": {
+    "primary": ["soft beige", "light gray", "warm orange"],
+    "secondary": ["warm orange accents"],
+    "background": "solid muted color",
+    "usageNotes": "Soft gradients with smooth transitions",
+    "saturation": "low to medium",
+    "contrast": "low"
+  },
+  
+  "lineArt": {
+    "style": "none - 3D surfaces",
+    "weight": "n/a",
+    "color": "n/a",
+    "texture": "smooth surfaces",
+    "edgeTreatment": "rounded edges"
+  },
+  
+  "lighting": {
+    "type": "soft, diffused",
+    "direction": "above and slightly to the right",
+    "intensity": "gentle",
+    "shadows": {
+      "style": "subtle and diffused",
+      "color": "light gray",
+      "opacity": "very soft"
+    },
+    "highlights": "subtle"
+  },
+  
+  "rendering": {
+    "technique": "3D render with low-poly aesthetics",
+    "texture": "matte, smooth surfaces",
+    "detailLevel": "medium, focus on form",
+    "finish": "matte with subtle shading"
+  },
+  
+  "perspective": "slightly angled, three-dimensional",
+  
+  "mood": {
+    "overall": "clean, modern, approachable",
+    "emotion": "calm, peaceful, friendly",
+    "tempo": "static, serene",
+    "keywords": ["minimalist", "modern", "clean", "simple", "peaceful"]
+  },
+  
+  "useCases": ["modern branding", "UI elements", "product visualization", "abstract art"],
+  
+  "technicalSpecifications": {
+    "resolution": {
+      "aspectRatio": "9:16",
+      "minWidth": 1080,
+      "minHeight": 1920,
+      "unit": "pixels"
+    },
+    "orientation": "Portrait/Vertical"
+  }
+}
