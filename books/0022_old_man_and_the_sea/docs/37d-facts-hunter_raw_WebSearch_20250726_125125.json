@@ -1,0 +1,62 @@
+{
+  "session_id": "43f695dd-e5f4-4477-9443-90691e46295c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/43f695dd-e5f4-4477-9443-90691e46295c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "entrepreneurs failed multiple times before success young people inspiration 2025 startup stories"
+  },
+  "tool_response": {
+    "query": "entrepreneurs failed multiple times before success young people inspiration 2025 startup stories",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_018RMCh4tr2YiWaSvUVocZfm",
+        "content": [
+          {
+            "title": "Lessons from Entrepreneurs Who Failed Before Achieving Success",
+            "url": "https://smallbiztrends.com/entrepreneurs-who-failed-before-success/"
+          },
+          {
+            "title": "Famous Entrepreneurs Who Succeeded After Failure",
+            "url": "https://www.business.com/articles/never-giving-up-9-entrepreneurs-and-millionaires-who-failed-at-least-once/"
+          },
+          {
+            "title": "5 Entrepreneurs That Failed Again and Again...Then Succeeded",
+            "url": "https://www.orega.com/news/blog/industry-insight/5-entrepreneurs-that-failed-again-and-again-then-succeeded"
+          },
+          {
+            "title": "Perseverance in Entrepreneurship: Famous Entrepreneurs Who Failed Before Success",
+            "url": "https://www.cuppa.so/post/famous-entrepreneurs-who-failed-before-success"
+          },
+          {
+            "title": "Almost Failed Startups: What You Can Learn from 8 Startups That Made It Big",
+            "url": "https://foundr.com/articles/building-a-business/failed-startups"
+          },
+          {
+            "title": "25 entrepreneurs who failed before becoming successful - Tactyqal",
+            "url": "https://tactyqal.com/blog/25-entrepreneurs-who-failed-before-becoming-successful/"
+          },
+          {
+            "title": "5 Failed Entrepreneurs Who Made a Big Comeback | Inc.com",
+            "url": "https://www.inc.com/sujan-patel/5-failed-entrepreneurs-who-made-a-big-comeback.html"
+          },
+          {
+            "title": "Startups' Success and Failure Rate in 2025",
+            "url": "https://www.upsilonit.com/blog/startup-success-and-failure-rate"
+          },
+          {
+            "title": "106 must-know startup statistics for 2025 | Embroker",
+            "url": "https://www.embroker.com/blog/startup-statistics/"
+          },
+          {
+            "title": "6 Stories of Entrepreneurs Who Overcame Failure | by Jayson DeMers | Medium",
+            "url": "https://jaysondemers.medium.com/6-stories-of-entrepreneurs-who-overcame-failure-b799f69f6e7d"
+          }
+        ]
+      },
+      "I found several inspiring stories and insights about entrepreneurs who failed multiple times before achieving success. Here's what the search revealed:\n\n## Key Statistics and Insights\n\nAccording to Global Entrepreneur Monitor's 2024/2025 Global Report, 49 percent of survey respondents said they won't start a business out of fear of failing, an increase from 44 percent in 2019. However, startup failure rate statistics reveal that around 90% of startups don't make it, while founders who have failed previously have a 20% chance of success while first time first time founders have an 18% chance of success.\n\n## Inspiring Entrepreneur Stories\n\n### James Dyson - The King of Prototypes\nJames Dyson actually made 5,127 vacuum prototypes, all of which were failed attempts, over a grueling 15-year period. During this challenging time, by 2,627, his wife was giving art lessons for some extra cash, demonstrating the personal sacrifices involved in pursuing entrepreneurial dreams.\n\n### Bill Gates - Learning from Early Failures\nBefore Microsoft he had started a company called Traf-O-Data, whose purpose was to process and analyze the data from traffic tapes. The first demo of the product was a complete disaster, as the technology just did not work.\n\n### Arianna Huffington - Persistence in Publishing\nArianna Huffington began her career in the publishing industry by writing a book which was later rejected a startling 36 times before finding a publisher. Even after launching The Huffington Post, it received harsh critique and negative reviews, but she persevered.\n\n### Howard Schultz - Starbucks Journey\nAfter visiting numerous espresso bars in Milan, he faced rejection from 217 out of 242 investors when trying to secure funding for his coffee concept that would eventually become the Starbucks we know today.\n\n## Key Lessons for Young Entrepreneurs\n\n### Failure as a Learning Tool\nEntrepreneurial failure is common: Many successful entrepreneurs face setbacks early in their careers, emphasizing that failure is often a stepping stone to success rather than an endpoint.(no content)Failure provides valuable lessons and experiences that help individuals grow personally and professionally. It builds resilience, character, and problem-solving skills.\n\n### Essential Qualities for Success\nOvercoming challenges fosters resilience, allowing entrepreneurs to adapt their business strategies and capitalize on new opportunities. Persistence, resilience, and a willingness to take risks are crucial qualities to develop.\n\n### The Importance of Perseverance\nIt is this very quality that sets apart those who dream from those who actually do and end up succeeding. It's a silent force that propels entrepreneurs to keep going when others would quit.\n\nThese stories demonstrate that most successful entrepreneurs failed many times before they became successful, providing powerful inspiration for young people considering entrepreneurship in 2025. The key message is clear: never give up. Tomorrow is the day you succeed."
+    ],
+    "durationSeconds": 25.897494260000066
+  }
+}

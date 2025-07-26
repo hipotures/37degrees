@@ -1,0 +1,62 @@
+{
+  "session_id": "43f695dd-e5f4-4477-9443-90691e46295c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/43f695dd-e5f4-4477-9443-90691e46295c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Hemingway \"Stary cz\u0142owiek i morze\" polska adaptacja teatr film telewizja"
+  },
+  "tool_response": {
+    "query": "Hemingway \"Stary cz\u0142owiek i morze\" polska adaptacja teatr film telewizja",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01R2jVNy7gR5R4fMuSVSNePj",
+        "content": [
+          {
+            "title": "Stary cz\u0142owiek i morze \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Stary_cz%C5%82owiek_i_morze"
+          },
+          {
+            "title": "Stary cz\u0142owiek i morze - Streszczenie kr\u00f3tkie - Ernest Hemingway - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/ernest-hemingway/stary-czlowiek-i-morze.streszczenie-krotkie"
+          },
+          {
+            "title": "Stary cz\u0142owiek i morze - Streszczenie i opracowanie, Ernest Hemingway - Skrotowo",
+            "url": "https://skrotowo.pl/stary-czlowiek-i-morze-streszczenie-szczegolowe/"
+          },
+          {
+            "title": "Stary cz\u0142owiek i morze | Film | 1958",
+            "url": "https://www.filmweb.pl/film/Stary+cz%C5%82owiek+i+morze-1958-35397"
+          },
+          {
+            "title": "Stary cz\u0142owiek i morze (film 1990) \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Stary_cz%C5%82owiek_i_morze_(film_1990)"
+          },
+          {
+            "title": "ERNEST HEMINGWAY - Stary cz\u0142owiek i morze",
+            "url": "https://www.sp11bedzin.edu.pl/wp-content/uploads/2021/04/Stary-czlowiek-i-morze-Ernest-Hemingway.pdf"
+          },
+          {
+            "title": "Stary cz\u0142owiek i morze (E. Hemingway) - Opracowania, lektury, fiszki, testy - Opracowania.pl",
+            "url": "https://opracowania.pl/opracowania/jezyk-polski/stary-czlowiek-i-morze-e-hemingway,oid,40"
+          },
+          {
+            "title": "Stary cz\u0142owiek i morze | Film | 1999",
+            "url": "https://www.filmweb.pl/film/Stary+cz%C5%82owiek+i+morze-1999-178371"
+          },
+          {
+            "title": "Stary cz\u0142owiek i morze | Film | 1990",
+            "url": "https://www.filmweb.pl/film/Stary+cz%C5%82owiek+i+morze-1990-166753"
+          },
+          {
+            "title": "Stary cz\u0142owiek i morze (The Old Man and the Sea)",
+            "url": "https://www.sfp.org.pl/film,26233,1,Stary-czlowiek-i-morze.html"
+          }
+        ]
+      },
+      "Wyszukiwanie dostarcza szczeg\u00f3\u0142owych informacji o polskich adaptacjach \"Starego cz\u0142owieka i morza\" Ernesta Hemingwaya. Oto g\u0142\u00f3wne wyniki:\n\n## Adaptacje filmowe\n\nW 1958 roku ukaza\u0142a si\u0119 adaptacja filmowa z udzia\u0142em Spencera Tracy'ego, kt\u00f3ra by\u0142a najbardziej znan\u0105 adaptacj\u0105 filmow\u0105 powie\u015bci. P\u00f3\u017aniej powsta\u0142y kolejne ekranizacje: w 1990 roku ukaza\u0142a si\u0119 adaptacja telewizyjna z udzia\u0142em Anthony'ego Quinna, a tak\u017ce adaptacja z 1999 roku w wersji animowanej, przygotowana przez Rosjanina Aleksandra Pietrowa.\n\n## Adaptacje teatralne\n\nPowie\u015b\u0107 zosta\u0142a zaadaptowana na potrzeby filmu, teatru i nawet baletu, co \u015bwiadczy o jej uniwersalno\u015bci. Powie\u015b\u0107 Hemingwaya zosta\u0142a r\u00f3wnie\u017c zaadaptowana na scen\u0119 teatraln\u0105, co pozwoli\u0142o na nowe interpretacje i inscenizacje tej klasycznej historii. Adaptacje teatralne oferuj\u0105 widzom bezpo\u015brednie do\u015bwiadczenie duchowej i fizycznej walki Santiago, cz\u0119sto za pomoc\u0105 innowacyjnych technik scenicznych i narracyjnych.\n\n## Wp\u0142yw kulturowy w Polsce\n\n\"Stary cz\u0142owiek i morze\", dzi\u0119ki swojej ponadczasowej tematyce i unikatowemu stylowi, zainspirowa\u0142 liczne inne dzie\u0142a literackie, filmowe, teatralne i wizualne. Powie\u015b\u0107 ta, b\u0119d\u0105ca medytacj\u0105 nad ludzk\u0105 determinacj\u0105, si\u0142\u0105 woli oraz relacj\u0105 cz\u0142owieka z przyrod\u0105, znalaz\u0142a odzwierciedlenie w r\u00f3\u017cnych formach artystycznych.\n\n\"Stary cz\u0142owiek i morze\" pozostaje \u017cywym \u017ar\u00f3d\u0142em inspiracji dla tw\u00f3rc\u00f3w w r\u00f3\u017cnych dziedzinach sztuki, od literatury, przez film, po teatr. Jego uniwersalne tematy, takie jak godno\u015b\u0107 w obliczu przeciwno\u015bci losu, walka z przesz\u0142o\u015bci\u0105 i natur\u0105 oraz poszukiwanie sensu \u017cycia, nadal rezonuj\u0105 z nowymi pokoleniami odbiorc\u00f3w.\n\nDzie\u0142o to r\u00f3wnie\u017c jest cz\u0119sto wykorzystywane jako narz\u0119dzie do nauczania o literaturze ameryka\u0144skiej... jest cz\u0119sto wybierane jako lektura szkolna, poniewa\u017c porusza uniwersalne tematy, kt\u00f3re pozostaj\u0105 aktualne i resonuj\u0105 z do\u015bwiadczeniami ludzi na ca\u0142ym \u015bwiecie."
+    ],
+    "durationSeconds": 20.252662386000157
+  }
+}

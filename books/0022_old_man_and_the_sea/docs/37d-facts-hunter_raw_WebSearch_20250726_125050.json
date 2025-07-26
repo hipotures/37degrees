@@ -1,0 +1,152 @@
+{
+  "session_id": "43f695dd-e5f4-4477-9443-90691e46295c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/43f695dd-e5f4-4477-9443-90691e46295c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"The Old Man and the Sea\" TikTok memes youth culture social media GenZ quotes motivational"
+  },
+  "tool_response": {
+    "query": "\"The Old Man and the Sea\" TikTok memes youth culture social media GenZ quotes motivational",
+    "results": [
+      "I'll search for information about \"The Old Man and the Sea\" TikTok memes and their connection to youth culture and motivational content.",
+      {
+        "tool_use_id": "srvtoolu_01Vh59ZfMzuFsgs6e57buhcT",
+        "content": [
+          {
+            "title": "Old Man Quotes - BrainyQuote",
+            "url": "https://www.brainyquote.com/topics/old-man-quotes"
+          },
+          {
+            "title": "The Old Man and the Sea Quotes by Ernest Hemingway",
+            "url": "https://www.goodreads.com/work/quotes/69741-the-old-man-and-the-sea"
+          },
+          {
+            "title": "15 The old man & the sea ideas",
+            "url": "https://www.pinterest.com/bwoodson26/the-old-man-the-sea/"
+          },
+          {
+            "title": "The Old Man and the Sea: Famous Quotes Explained | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/oldman/quotes/"
+          },
+          {
+            "title": "15 Hard-Hitting Quotes: The Old Man and the Sea - Book Analysis",
+            "url": "https://bookanalysis.com/ernest-hemingway/the-old-man-and-the-sea/quotes/"
+          },
+          {
+            "title": "The Old Man and the Sea Quotes and Analysis | GradeSaver",
+            "url": "https://www.gradesaver.com/the-old-man-and-the-sea/study-guide/quotes"
+          },
+          {
+            "title": "The Old Man and the Sea, Ernest Hemingway. \u2013 James Egerton",
+            "url": "https://jamesegerton.wordpress.com/2020/06/06/the-old-man-and-the-sea-ernest-hemingway/"
+          },
+          {
+            "title": "TOP 25 OLD MAN QUOTES (of 921) | A-Z Quotes",
+            "url": "https://www.azquotes.com/quotes/topics/old-man.html"
+          },
+          {
+            "title": "The Old Man and The Sea Ar Test Answers",
+            "url": "https://www.tiktok.com/discover/the-old-man-and-the-sea-ar-test-answers"
+          },
+          {
+            "title": "What is the best passage from The Old Man and the Sea? - Quora",
+            "url": "https://www.quora.com/What-is-the-best-passage-from-The-Old-Man-and-the-Sea"
+          }
+        ]
+      },
+      "Let me search more specifically for TikTok content related to \"The Old Man and the Sea\" to find information about how it's being used in social media by Gen Z.",
+      {
+        "tool_use_id": "srvtoolu_0187fFGaPsPgTwURNz1bJDwR",
+        "content": [
+          {
+            "title": "The Old Man and the Sea Quotes by Ernest Hemingway",
+            "url": "https://www.goodreads.com/work/quotes/69741-the-old-man-and-the-sea"
+          },
+          {
+            "title": "Quote Origin: The Sea Is the Sea. The Old Man Is an Old Man \u2013 Quote Investigator\u00ae",
+            "url": "https://quoteinvestigator.com/2022/06/17/old-man/"
+          },
+          {
+            "title": "The 20 Best Old Man and the Sea Quotes",
+            "url": "https://bookroo.com/quotes/the-old-man-and-the-sea"
+          },
+          {
+            "title": "The Old Man and the Sea, Ernest Hemingway. \u2013 James Egerton",
+            "url": "https://jamesegerton.wordpress.com/2020/06/06/the-old-man-and-the-sea-ernest-hemingway/"
+          },
+          {
+            "title": "The Old Man and the Sea: Famous Quotes Explained | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/oldman/quotes/"
+          },
+          {
+            "title": "15 Hard-Hitting Quotes: The Old Man and the Sea - Book Analysis",
+            "url": "https://bookanalysis.com/ernest-hemingway/the-old-man-and-the-sea/quotes/"
+          },
+          {
+            "title": "The Old Man and The Sea Quotes",
+            "url": "https://www.tiktok.com/discover/the-old-man-and-the-sea-quotes"
+          },
+          {
+            "title": "Quote by, Ernest Hemingway, from, The Old Man and the Sea ...",
+            "url": "https://www.tiktok.com/@bradleybowers1/video/7194733548329389355"
+          },
+          {
+            "title": "100 Most Famous Quotes By Ernest Hemingway, The Author Of The Old Man And The Sea",
+            "url": "https://www.wisdomly.net/ernest-hemingway-1366.php"
+          },
+          {
+            "title": "The Old Man and the Sea quotes by Ernest Hemingway - Kwize",
+            "url": "https://kwize.com/The-Old-Man-and-the-Sea-quotes"
+          }
+        ]
+      },
+      "Based on the search results, I can see extensive information about \"The Old Man and the Sea\" quotes, but I didn't find specific evidence of a TikTok meme phenomenon around this classic. Let me search more specifically for social media trends and motivational content related to this book.",
+      {
+        "tool_use_id": "srvtoolu_01GJVWk4xYBunrsaqtkZAuKL",
+        "content": [
+          {
+            "title": "60 Defeat quotes that'll make you a much stronger person",
+            "url": "https://www.blissquote.com/2020/08/defeat-quotes.html"
+          },
+          {
+            "title": "Defeated Quotes - BrainyQuote",
+            "url": "https://www.brainyquote.com/topics/defeated-quotes"
+          },
+          {
+            "title": "Top 10 Defeated Quotes - BrainyQuote",
+            "url": "https://www.brainyquote.com/lists/topics/top-10-defeated-quotes"
+          },
+          {
+            "title": "Defeat Quotes (583 quotes)",
+            "url": "https://www.goodreads.com/quotes/tag/defeat"
+          },
+          {
+            "title": "Quote by Ernest Hemingway | Defeat - Dont Give Up World",
+            "url": "https://dontgiveupworld.com/quote-by-ernest-hemingway-defeat/"
+          },
+          {
+            "title": "Defeat Quotes - BrainyQuote",
+            "url": "https://www.brainyquote.com/topics/defeat-quotes"
+          },
+          {
+            "title": "But the man is not made for defeat. A man can be ...",
+            "url": "https://www.pinterest.com/pin/powerful-motivational-quotes-to-ignite-your-inner-fire--746260600771901834/"
+          },
+          {
+            "title": "One Liner Quotes | But man is not made for defeat. A man can be destroyed but not defeated.",
+            "url": "https://www.onelinerquotes.com/quote/130/but-man-is-not-made-for-defeat.-a-man-can-be-destroyed-but-not-defeated."
+          }
+        ]
+      },
+      "Based on my search results, I can see information about quotes from \"The Old Man and the Sea,\" particularly the famous motivational quote, but I haven't found specific evidence of a TikTok meme phenomenon. Let me search more directly for any recent social media trends.",
+      {
+        "tool_use_id": "srvtoolu_01W5zjZmhEpzzJYA2gcEDH4G",
+        "content": []
+      },
+      "Based on the search results I've gathered, I can provide you with information about \"The Old Man and the Sea\" quotes and their presence in motivational content and social media, though I didn't find specific evidence of a major TikTok meme trend.\n\n## \"The Old Man and the Sea\" in Social Media and Motivational Culture\n\nWhile I didn't find specific evidence of a viral TikTok meme phenomenon around \"The Old Man and the Sea,\" the search results reveal that several quotes from Hemingway's classic novella have become popular in motivational and inspirational content across social media platforms.\n\n### Most Popular Quotes Being Shared:\n\n**\"Every day is a new day. It is better to be lucky. But I would rather be exact. Then when luck comes you are ready.\"** - This quote appears frequently in motivational content and quote compilations.\n\n**\"But man is not made for defeat. A man can be destroyed but not defeated.\"** - This is perhaps the most widely shared quote from the book, appearing across multiple motivational websites and social media platforms.\n\n**\"Let him think I am more man than I am and I will be so.\"**(no content)**\"Why do old men wake so early? Is it to have one longer day?\"**\n\n### Motivational Content Usage:\n\nThe quotes are being shared on motivational websites that \"deliver only the best motivational and inspirational quotes\" and encourage sharing \"on the web and social media.\"(no content)Sites like \"Don't Give Up World\" feature these quotes alongside \"motivational stories, quotes, songs, videos, articles and much more inspiring content.\"\n\n### Contemporary Relevance:\n\nThe themes from the book resonate with modern audiences, particularly around \"a desire to reclaim something of his youth\" and wanting \"to show himself that he's still strong.\"(no content)The quotes \"illustrate Hemingway's exploration of the human spirit,\" which makes them particularly appealing for motivational content.\n\nWhile I couldn't find specific evidence of a major TikTok meme trend around \"The Old Man and the Sea,\" the enduring popularity of these quotes in motivational social media content suggests they continue to resonate with younger audiences seeking inspiration and life wisdom from classic literature."
+    ],
+    "durationSeconds": 40.72611966500059
+  }
+}

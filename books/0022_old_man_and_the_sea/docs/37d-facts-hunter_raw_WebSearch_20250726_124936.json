@@ -1,0 +1,62 @@
+{
+  "session_id": "43f695dd-e5f4-4477-9443-90691e46295c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/43f695dd-e5f4-4477-9443-90691e46295c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "social media pressure anxiety Gen Z mental health comparison culture 2025"
+  },
+  "tool_response": {
+    "query": "social media pressure anxiety Gen Z mental health comparison culture 2025",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01UfKFQT8up3ETwwWEGwvrwG",
+        "content": [
+          {
+            "title": "Social media and mental health: The impact on Gen Z | McKinsey",
+            "url": "https://www.mckinsey.com/mhi/our-insights/gen-z-mental-health-the-impact-of-tech-and-social-media"
+          },
+          {
+            "title": "State of Gen Z Mental Health 2025 - Harmony Healthcare IT",
+            "url": "https://www.harmonyhit.com/state-of-gen-z-mental-health/"
+          },
+          {
+            "title": "Gen Z, Social Media, and Mental Health | Emory University - Rollins School of Public Health",
+            "url": "https://sph.emory.edu/news/gen-z-social-media-mental-health"
+          },
+          {
+            "title": "Gen Z, Social Media, and Mental Health | Rollins School of Public Health | Emory University | Atlanta GA",
+            "url": "https://sph.emory.edu/news/news-release/2024/05/gen-z-social-media-mental-health.html"
+          },
+          {
+            "title": "Adverse effect of social media on generation Z user's behavior: Government information support as a moderating variable - ScienceDirect",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S0969698923000036"
+          },
+          {
+            "title": "How Social Anxiety is Affecting Gen Z More Than Ever - OCD Anxiety Centers",
+            "url": "https://www.ocdanxietycenters.com/mesa-arizona/how-social-anxiety-is-affecting-gen-z-more-than-ever/"
+          },
+          {
+            "title": "The Impact of Social Media on the Mental Health of Adolescents and Young Adults: A Systematic Review - PMC",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10476631/"
+          },
+          {
+            "title": "Teen Concerns in 2025: Mental Health, Social Issues, Education & Social Media | by Msjag | Medium",
+            "url": "https://medium.com/@msjag416/top-concerns-among-teenagers-in-2025-mental-health-social-issues-education-social-media-c06f083e287c"
+          },
+          {
+            "title": "How Social Media Shaped Gen Z In The Recent Years | Amber",
+            "url": "https://amberstudent.com/blog/post/the-impact-of-social-media-on-gen-zs-self-image-and-body-image"
+          },
+          {
+            "title": "Stress in America\u2122 Generation Z",
+            "url": "https://www.apa.org/news/press/releases/stress/2018/stress-gen-z.pdf"
+          }
+        ]
+      },
+      "Based on the search results, here's what the research reveals about social media pressure, anxiety, and mental health among Gen Z in 2025:\n\n## Gen Z Mental Health Crisis and Social Media\n\nGeneration Z is \"shaped by a global pandemic, economic instability, and relentless digital comparison\" and is facing unprecedented mental health challenges. Nearly half (46%) have already received a formal mental health diagnosis and more than a third (37%) believe they have an undiagnosed condition, with anxiety leading as the most common diagnosis, followed by depression and ADHD.\n\n## Social Media's Role in Mental Health\n\nWhile fear of the future is a primary source of anxiety, social media also plays a role. Nearly 4 in 5 (78%) admit they've felt addicted to their phone or social media. Research shows that Gen Z spends an average of 6 hours 27 minutes per day on their phones (the most of any generation).\n\nSocial media algorithms \"are developed to hold our attention and drive ad revenue,\" and \"if what's holding our attention online is something that creates or exacerbates loneliness, depression, or anxiety, those could get ramped up by increased engagement with these platforms\".\n\n## Comparison Culture and Its Impact\n\nThe comparison culture fostered by social media is particularly damaging to Gen Z. Users \"compete to offer the greatest image of themselves online, which may add to a culture of comparison and competitiveness\". This has led to significant body image issues, with 70% of American teen girls thinking social media shapes their conception of the \"ideal\" body type.\n\nSocial media burnout is characterized by \"seeing everyone's 'perfect' life online makes comparison and self-doubt a daily struggle\", and 51% of teens say they stress about their appearance online.\n\n## Information Overload and FOMO\n\nResearch suggests that social media platforms need to understand user's compulsive usage that is resulting into fatigue and consequently anxiety. The study found that the relationship between 'FOMO', 'phubbing' and anxiety is found significant.\n\n## Positive Developments in 2025\n\nDespite these challenges, there are encouraging trends. Nearly 7 in 10 (68%) have taken a social media break for their mental health. Additionally, over half (54%) report having mostly good mental health days \u2013 a 21% increase since post-Covid research in 2022, while only 10% report having mostly bad mental health days \u2013 a 21% decrease from 2022.\n\nOver 2 in 5 (42%) of Gen Z reports going to therapy, which is a 22% increase from 2022, and 77% report doing self-help, which includes books, journaling, and podcasts.\n\nThe research indicates that while Gen Z continues to face significant mental health challenges related to social media pressure and comparison culture, they are increasingly seeking help and taking proactive steps to manage their well-being."
+    ],
+    "durationSeconds": 23.108931199000217
+  }
+}

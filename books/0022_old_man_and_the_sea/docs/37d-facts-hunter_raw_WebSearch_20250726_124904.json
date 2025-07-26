@@ -1,0 +1,62 @@
+{
+  "session_id": "43f695dd-e5f4-4477-9443-90691e46295c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/43f695dd-e5f4-4477-9443-90691e46295c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Ernest Hemingway \"Stary cz\u0142owiek i morze\" polskie t\u0142umaczenie historia t\u0142umacz wydawnictwo"
+  },
+  "tool_response": {
+    "query": "Ernest Hemingway \"Stary cz\u0142owiek i morze\" polskie t\u0142umaczenie historia t\u0142umacz wydawnictwo",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_011eRFCMxZD7mXvDRzJ6umhi",
+        "content": [
+          {
+            "title": "ERNEST HEMINGWAY - Stary cz\u0142owiek i morze",
+            "url": "https://www.sp11bedzin.edu.pl/wp-content/uploads/2021/04/Stary-czlowiek-i-morze-Ernest-Hemingway.pdf"
+          },
+          {
+            "title": "Stary cz\u0142owiek i morze | Ernest Hemingway (Ksi\u0105\u017cka) - Ksi\u0119garnia znak.com.pl",
+            "url": "https://www.znak.com.pl/p/stary-czlowiek-i-morze-ernest-hemingway-158452"
+          },
+          {
+            "title": "Stary cz\u0142owiek i morze (E. Hemingway) - J\u0119zyk polski - Opracowania.pl",
+            "url": "https://opracowania.pl/opracowania/jezyk-polski/stary-czlowiek-i-morze-e-hemingway,oid,40"
+          },
+          {
+            "title": "Stary cz\u0142owiek i morze - Streszczenie kr\u00f3tkie - Ernest Hemingway - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/ernest-hemingway/stary-czlowiek-i-morze.streszczenie-krotkie"
+          },
+          {
+            "title": "Stary cz\u0142owiek i morze \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Stary_cz%C5%82owiek_i_morze"
+          },
+          {
+            "title": "Stary cz\u0142owiek i morze - Ernest Hemingway | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5003593/stary-czlowiek-i-morze"
+          },
+          {
+            "title": "Stary cz\u0142owiek i morze ebook pdf,mobi,epub",
+            "url": "https://upolujebooka.pl/oferta,150351,stary_czlowiek_i_morze.html"
+          },
+          {
+            "title": "\u201eStary cz\u0142owiek i morze\u201d E. Hemingway",
+            "url": "https://tanayahczyta.wordpress.com/2022/04/16/stary-czlowiek-i-morze-e-hemingway/"
+          },
+          {
+            "title": "Stary cz\u0142owiek i morze - Ernest Hemingway",
+            "url": "https://www.empik.com/stary-czlowiek-i-morze-hemingway-ernest,p1291003372,ksiazka-p"
+          },
+          {
+            "title": "Stary cz\u0142owiek i morze | Ernest Hemingway (Ksi\u0105\u017cka) - Ksi\u0119garnia matras.pl",
+            "url": "https://www.matras.pl/p/stary-czlowiek-i-morze-ernest-hemingway-158452"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about the Polish translations of Ernest Hemingway's \"Stary cz\u0142owiek i morze\" (The Old Man and the Sea) and their publishing history:\n\n## Polish Translations and Publishers\n\nThe most recent notable Polish translation is by Kaja Gucio, published by Wydawnictwo Marginesy. This new edition with Kaja Gucio's translation has been praised as providing a fresh perspective on Hemingway's classic.\n\nThe book has been published by Wydawnictwo Marginesy as part of their \"Ernest Hemingway w Marginesach\" series.\n\nThe work is also available through Wydawnictwo Znak, and there are multiple Polish editions available from different publishers.\n\n## Publication History and Significance\n\nThe original story was published in 1952 and was written during Hemingway's stay in Cuba in 1951. The work won the Pulitzer Prize for Fiction in 1953 and contributed to Hemingway receiving the Nobel Prize in Literature in 1954.\n\nThe story's genesis can be traced back to a 1936 sketch called \"Na b\u0142\u0119kitnej wodzie\" (On the Blue Water) that Hemingway published in Esquire magazine, which he later developed into the full novella published in Life magazine in 1952.\n\nThe work is required reading in Polish elementary and secondary schools, making it one of the most widely read pieces of American literature in Poland.\n\nThe search results show that \"Stary cz\u0142owiek i morze\" has had multiple Polish translations over the years, with the most recent and highly regarded being Kaja Gucio's translation published by Marginesy, which has been praised for bringing new life to this classic work."
+    ],
+    "durationSeconds": 15.25049564400036
+  }
+}

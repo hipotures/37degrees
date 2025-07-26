@@ -1,0 +1,62 @@
+{
+  "session_id": "43f695dd-e5f4-4477-9443-90691e46295c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/43f695dd-e5f4-4477-9443-90691e46295c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "environmental consciousness ocean conservation youth 2025 sustainable fishing awareness Gen Z"
+  },
+  "tool_response": {
+    "query": "environmental consciousness ocean conservation youth 2025 sustainable fishing awareness Gen Z",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01Sc8hqxkbffzZTNWiS5eYGb",
+        "content": [
+          {
+            "title": "Better understanding ocean awareness: Insights from young people - ScienceDirect",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0308597X2400157X"
+          },
+          {
+            "title": "Empowering young people with climate and ocean science: Five strategies for adults to consider - ScienceDirect",
+            "url": "https://www.sciencedirect.com/science/article/pii/S2590332222003748"
+          },
+          {
+            "title": "Engaging Youth to Conserve Coastal and Marine Environments | United Nations",
+            "url": "https://www.un.org/en/chronicle/article/engaging-youth-conserve-coastal-and-marine-environments"
+          },
+          {
+            "title": "Youth and the Environment \u2013 Geneva Environment Network",
+            "url": "https://www.genevaenvironmentnetwork.org/resources/updates/youth-and-the-environment/"
+          },
+          {
+            "title": "Evaluating the influence of government initiatives and social platforms on green practices of Gen Z: The mediating role of environmental awareness and consciousness - ScienceDirect",
+            "url": "https://www.sciencedirect.com/science/article/pii/S2666784323000104"
+          },
+          {
+            "title": "Insights and recommendations for involving young people in decision making for the marine environment - ScienceDirect",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S0308597X20309593"
+          },
+          {
+            "title": "The hidden reasons behind generation Z's green choices | Discover Sustainability",
+            "url": "https://link.springer.com/article/10.1007/s43621-024-00764-8"
+          },
+          {
+            "title": "Youth \u00d7 Creativity \u00d7 Sustainable Ocean \u2014 2025 Youth Innovation Challenge Now Open! | Global Environmental Education Partnership (GEEP)",
+            "url": "https://thegeep.org/news-events/news/youth-creativity-sustainable-ocean-2025-youth-innovation-challenge-now-open"
+          },
+          {
+            "title": "The impact of Gen Z's pro-environmental behavior on sustainable development goals through tree planting - ScienceDirect",
+            "url": "https://www.sciencedirect.com/science/article/pii/S2666188824001011"
+          },
+          {
+            "title": "What is Gen Z Doing for the Environment? \u2022 Bow Seat Ocean Awareness Programs",
+            "url": "https://bowseat.org/gallery/what-is-gen-z-doing-for-the-environment/"
+          }
+        ]
+      },
+      "Based on my search, here are the key findings about environmental consciousness, ocean conservation, youth engagement, sustainable fishing awareness, and Gen Z in 2025:\n\n## Youth Environmental Consciousness and Ocean Conservation\n\nMany young people are concerned and overwhelmed about the impacts of climate and ocean change and are emerging as advocates for action.(no content)Engaging with young people is essential as they are key thought shifters and positive movers in the future of MPAs, and environmental issues broadly.\n\n## Current Initiatives and Programs\n\nSeveral significant programs are actively engaging youth in ocean conservation:\n\n**2025 Youth Innovation Challenge**: The Ocean Conservation Administration (OCA) of Taiwan collaborates with U.S. EPA and GEEP to launch the 2025 Youth Innovation Challenge (YIC), an opportunity for youth ages 15\u201330 to submit their innovative solution to help protect marine environments... Now in its fifth year, YIC invites young people aged 15 to 30 from around the world to participate and share their creative solutions to ocean conservation issues.\n\n**Real-World Impact**: To date, over 400 young people have been engaged in youth-led initiatives ranging from mangrove reforestation to advocating for sustainable fisheries... Youth act as 'citizen scientists' and are taught how to carry out research, collecting data to benefit fisheries management and threatened species, and how to help promote sustainable economic activities, such as ecotourism.\n\n## Gen Z's Environmental Engagement\n\nResearch reveals mixed findings about Gen Z's environmental behavior:\n\nThe results reveal that SPI, EA, and EC have a significant positive impact on GP, while ESGI does not affect GP... The study highlights the importance of SPI and its effect on the green practices of Gen Z, which will guide businesses and marketers in promoting their green initiative.\n\nHowever, there's an important caveat: Although younger consumers like Gen Y and Z are widely seen as more environmentally conscious, studies reveal that older generations may be more consistent in translating environmental values into concrete actions.\n\n## Challenges and Solutions\n\nKey challenges include social injustice, climate anxiety, nature disconnectedness, and fake news limit their ability to protect their future from the impacts of climate and ocean change.\n\nTo address these challenges, experts recommend five actionable strategies to engage and empower young people with climate and ocean science in support of long-term sustainability: inclusion of diverse voices, active dialogue-based science learning, connection to nature, critical thinking skills, and co-created visions of a sustainable future.\n\n## Marine Awareness Gaps\n\nResearch shows significant knowledge gaps: Results indicate that broadly there were low levels of understanding of MPAs, with only 30 % of students acknowledging they knew what MPAs were.\n\nThe search reveals that while Gen Z shows high environmental awareness and activism potential, there are still significant gaps between intention and action, particularly regarding marine conservation knowledge and sustainable fishing practices."
+    ],
+    "durationSeconds": 23.46643066200055
+  }
+}

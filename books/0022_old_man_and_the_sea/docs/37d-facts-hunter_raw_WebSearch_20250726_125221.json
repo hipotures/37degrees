@@ -1,0 +1,62 @@
+{
+  "session_id": "43f695dd-e5f4-4477-9443-90691e46295c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/43f695dd-e5f4-4477-9443-90691e46295c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Polish youth economic emigration dignity hardship work ethic tradition modernity 2025"
+  },
+  "tool_response": {
+    "query": "Polish youth economic emigration dignity hardship work ethic tradition modernity 2025",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01YSzzWURvpxzdC5vN4ujgHn",
+        "content": [
+          {
+            "title": "(PDF) Confederacy \u2014 the polish new right wing between tradition and modernity",
+            "url": "https://www.researchgate.net/publication/350462623_Confederacy_-_the_polish_new_right_wing_between_tradition_and_modernity"
+          },
+          {
+            "title": "Poland's Immigration Policy in 2025: A Complete Compliance Guide",
+            "url": "https://www.centuroglobal.com/article/poland-immigration-policy-2025/"
+          },
+          {
+            "title": "Post-Accession Economic Migration of Young Adults as Element of Changing Career Patterns in Poland | Przegl\u0105d Bada\u0144 Edukacyjnych (Educational Studies Review)",
+            "url": "https://apcz.umk.pl/PBE/article/view/32310"
+          },
+          {
+            "title": "2 The impact of migration from and to Poland since EU accession from The Impact of Migration on Poland: EU Mobility and Social Change on JSTOR",
+            "url": "https://www.jstor.org/stable/j.ctv550d7m.6?seq=1"
+          },
+          {
+            "title": "(PDF) Young people and migration from contemporary Poland",
+            "url": "https://www.researchgate.net/publication/240533042_Young_people_and_migration_from_contemporary_Poland"
+          },
+          {
+            "title": "The attitude of Polish youth towards migrants, and...",
+            "url": "https://sciendo.com/article/10.2478/mgrsd-2020-0016"
+          },
+          {
+            "title": "Diminishing Solidarity: Polish Attitudes toward the European Migration and Refugee Crisis",
+            "url": "https://www.migrationpolicy.org/article/diminishing-solidarity-polish-attitudes-toward-european-migration-and-refugee-crisis"
+          },
+          {
+            "title": "Young People, Precarious Employment and Nationalism in Poland: Exploring the (Missing) Links | European Review | Cambridge Core",
+            "url": "https://www.cambridge.org/core/journals/european-review/article/young-people-precarious-employment-and-nationalism-in-poland-exploring-the-missing-links/11789FC25C25603A4B055DBE87672508"
+          },
+          {
+            "title": "Poland's migration strategy for 2025-2030 and its (potential) effects on the employment of foreigners in Poland - Labour and employment law",
+            "url": "https://hrlaw.pl/en/articles/poland-s-migration-strategy-for-2025-2030-and-its-potential-effects-on-the-employment-of"
+          },
+          {
+            "title": "Polish Personality Traits: Unveiling the Unique Characteristics of Polish People",
+            "url": "https://neurolaunch.com/polish-personality-traits/"
+          }
+        ]
+      },
+      "Based on the search results, I found relevant information about Polish youth economic emigration and its relationship to themes of dignity, hardship, work ethic, tradition, and modernity. Here's what the research reveals:\n\n## Polish Youth Economic Migration: Between Tradition and Modernity\n\nThe search results reveal several key insights about Polish youth economic emigration and its connection to broader themes of dignity, hardship, work ethic, and the tension between tradition and modernity:\n\n### Historical Context and Patterns\n\nFor most of modern history, Poland has traditionally been viewed as a country of emigration rather than immigration. For decades, millions of Polish citizens left the country to live and work abroad, particularly after joining the EU in 2004. However, the 2010s and early 2020s saw that trend flip, driven by strong economic growth, labour shortages, and regional instability (especially the war in Ukraine), Poland became one of Europe's top destinations for foreign workers.\n\n### Work Ethic and Economic Motivations\n\nResearch examining the experiences of young Polish migrants found that their work experiences before, during and after emigration were central to understanding their migration patterns. The Polish cultural emphasis on work ethic remains strong: Polish people are renowned for their strong work ethic and dedication to professional life. This trait stems from a combination of historical necessity and cultural values that prioritize hard work and education. In the workplace, Poles are often described as diligent, reliable, and resourceful.\n\n### Tension Between Tradition and Modernity\n\nThe research reveals a complex dynamic between traditional values and modern aspirations among Polish youth. In opposition to late modern ambivalence, sometimes identified with the views and political agenda of liberal elites, right-wing informants opt for traditional values and clearly bounded, religious or national communities, which provide them with some degree of certainty, a firm axiological orientation and guidelines for life strategies.(no content)Polish personality is characterized by the balance between tradition and modernity, the entrepreneurial spirit that truly brings the Polish personality to life.(no content)Poland has seen a surge in entrepreneurship in recent years, with many young Poles embracing innovation and start-up culture. This blend of traditional work values and modern entrepreneurial spirit is propelling Poland into a new era of economic growth and global influence.\n\n### Current Migration Policy and Return Migration (2025)\n\nThe Polish government wants to attract skilled emigrants back home to support the labour force. Poland's approach to migration in 2025 reflects this shift from emigration to immigration management, with the strategy intended to set directions for changes in immigration law in terms of access to Poland, access to national and international protection, access to the labour market, educational migration, integration of foreigners.\n\nThe research suggests that Polish youth migration patterns reflect broader societal tensions between maintaining cultural dignity through traditional values while adapting to modern economic realities and opportunities both within Poland and abroad."
+    ],
+    "durationSeconds": 22.074706551999785
+  }
+}

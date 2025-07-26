@@ -1,0 +1,108 @@
+{
+  "session_id": "43f695dd-e5f4-4477-9443-90691e46295c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/43f695dd-e5f4-4477-9443-90691e46295c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Pulitzer Prize 1953 \"Old Man and the Sea\" Ernest Hemingway committee citation"
+  },
+  "tool_response": {
+    "query": "Pulitzer Prize 1953 \"Old Man and the Sea\" Ernest Hemingway committee citation",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01MpKaznpf7QYqP81kyMy84f",
+        "content": [
+          {
+            "title": "1953 Pulitzer Prize Review: The Old Man and the Sea by Ernest Hemingway \u2013 Great Books Guy",
+            "url": "https://greatbooksguy.com/2020/11/22/the-writers-endurance-the-old-man-and-the-sea/"
+          },
+          {
+            "title": "1954 Nobel Prize in Literature - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/1954_Nobel_Prize_in_Literature"
+          },
+          {
+            "title": "The Old Man and the Sea - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Old_Man_and_the_Sea"
+          },
+          {
+            "title": "The Old Man and the Sea | Summary, Characters, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/The-Old-Man-and-the-Sea-novel-by-Hemingway"
+          },
+          {
+            "title": "Ernest Hemingway finishes \"The Old Man and the Sea\" | March 4, 1952 | HISTORY",
+            "url": "https://www.history.com/this-day-in-history/march-4/ernest-hemingway-finishes-the-old-man-and-the-sea"
+          },
+          {
+            "title": "Awards for The Old Man and the Sea | Study.com",
+            "url": "https://study.com/academy/lesson/awards-for-the-old-man-and-the-sea.html"
+          },
+          {
+            "title": "Ernest Hemingway Denied Pulitzer Prize for \u201cFor Whom the Bell Tolls\u201d | Today in Civil Liberties History",
+            "url": "https://todayinclh.com/?event=ernest-hemmingway-denied-pulitzer-prize-for-for-whom-the-bell-tolls"
+          },
+          {
+            "title": "Today in Media History: 1953 Pulitzer winners included Ernest Hemingway - Poynter",
+            "url": "https://www.poynter.org/reporting-editing/2015/today-in-media-history-1953-pulitzer-winners-included-ernest-hemingway/"
+          },
+          {
+            "title": "Ernest Hemingway - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ernest_Hemingway"
+          },
+          {
+            "title": "The Old Man and the Sea - Ernest Hemingway 1952 | 1st Edition | nocloo.com: Rare, Antiquarian Books",
+            "url": "https://www.nocloo.com/the-old-man-and-the-sea-ernest-hemingway-1952-1st-edition/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about Ernest Hemingway's 1953 Pulitzer Prize for \"The Old Man and the Sea,\" though I don't see a specific committee citation quote in these results. Let me search more specifically for the actual Pulitzer Prize citation.",
+      {
+        "tool_use_id": "srvtoolu_01PdXeiVC5i2RyHuXigTK2m6",
+        "content": [
+          {
+            "title": "Pulitzer Prize for Fiction - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
+          },
+          {
+            "title": "Pulitzer Prize - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pulitzer_Prize"
+          },
+          {
+            "title": "Pulitzer Prize | History, Winners, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/Pulitzer-Prize"
+          },
+          {
+            "title": "Pulitzer Prize Special Citations and Awards - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pulitzer_Prize_Special_Citations_and_Awards"
+          },
+          {
+            "title": "Today in Media History: 1953 Pulitzer winners included Ernest Hemingway - Poynter",
+            "url": "https://www.poynter.org/reporting-editing/2015/today-in-media-history-1953-pulitzer-winners-included-ernest-hemingway/"
+          },
+          {
+            "title": "1953 Pulitzer Prize - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/1953_Pulitzer_Prize"
+          },
+          {
+            "title": "Pulitzer Prize for Investigative Reporting - Wikipedia",
+            "url": "https://en.m.wikipedia.org/wiki/Pulitzer_Prize_for_Investigative_Reporting"
+          },
+          {
+            "title": "Winners of the Pulitzer Prize for fiction | History, List, Books, Authors, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/winners-of-the-Pulitzer-Prize-for-fiction-2227349"
+          },
+          {
+            "title": "Ernest Hemingway Denied Pulitzer Prize for \u201cFor Whom the Bell Tolls\u201d | Today in Civil Liberties History",
+            "url": "https://todayinclh.com/?event=ernest-hemmingway-denied-pulitzer-prize-for-for-whom-the-bell-tolls"
+          },
+          {
+            "title": "1953 Pulitzer Prize Winners, All Winners - Pulitzer Prizes, Books | Barnes & Noble\u00ae",
+            "url": "https://www.barnesandnoble.com/b/books/all-winners-pulitzer-prizes/1953-pulitzer-prize-winners/_/N-29Z8q8Z1qfn"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with information about Ernest Hemingway's 1953 Pulitzer Prize for \"The Old Man and the Sea.\" Here's what I found:\n\n## Ernest Hemingway's 1953 Pulitzer Prize for \"The Old Man and the Sea\"\n\nErnest Hemingway won the Pulitzer Prize for Fiction on May 4, 1953, for \"The Old Man and the Sea,\" which was published in 1952. This was the first time Hemingway had received the award, having been overlooked previously for A Farewell to Arms and For Whom the Bell Tolls.\n\n### The Committee Citation\nThe judges awarded Hemingway's \"The Old Man and the Sea\" the Pulitzer Prize because they found it the most \"distinguished fiction published in book form during the year by an American author, preferably dealing with American life\". This citation reflects the standard criteria used by the Pulitzer Prize committee for fiction at that time.\n\n### Background and Significance\nThe prizes were announced on May 4, 1953, and the news media soon reported that Hemingway's book, \"The Old Man and the Sea,\" earned the Pulitzer Prize for Fiction. Hemingway's first Pulitzer Prize came with a $500 award.\n\nIn 1953, \"The Old Man and the Sea\" received the Pulitzer Prize for Fiction, and it was the only work explicitly mentioned when Hemingway was awarded the Nobel Prize in Literature in 1954. The 1954 Nobel Prize in Literature was awarded to Ernest Hemingway \"for his mastery of the art of narrative, most recently demonstrated in The Old Man and the Sea, and for the influence that he has exerted on contemporary style\".\n\nThe novella had already achieved remarkable commercial success, with Life magazine selling a record 5.3 million copies in two days when it first published the story in September 1952.\n\nThe search results show the standard Pulitzer Prize citation language rather than a specific lengthy committee statement, as the Pulitzer Prize citations for fiction typically follow the established criteria format."
+    ],
+    "durationSeconds": 21.949740943000652
+  }
+}
