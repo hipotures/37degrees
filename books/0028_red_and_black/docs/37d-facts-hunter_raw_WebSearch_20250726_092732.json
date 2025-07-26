@@ -1,0 +1,62 @@
+{
+  "session_id": "117fc0a1-8874-49c5-b0fc-4bb38d5ee638",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/117fc0a1-8874-49c5-b0fc-4bb38d5ee638.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Stendhal \"Le Rouge et le Noir\" original 1830 edition first publication Levavasseur Paris"
+  },
+  "tool_response": {
+    "query": "Stendhal \"Le Rouge et le Noir\" original 1830 edition first publication Levavasseur Paris",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01USEeiTdwqBd6dwjSQSgTjq",
+        "content": [
+          {
+            "title": "Les \u00e9ditions illustr\u00e9es du Rouge et le Noir au xixe si\u00e8cle : trois lectures de l\u2019\u0153uvre",
+            "url": "https://journals.openedition.org/stendhal/357"
+          },
+          {
+            "title": "Le Rouge et le Noir. Chronique du XIXe si\u00e8cle | Henri Beyle Stendhal | First edition",
+            "url": "https://www.whitmorerarebooks.com/pages/books/1979/henri-beyle-stendhal/le-rouge-et-le-noir-chronique-du-xixe-siecle"
+          },
+          {
+            "title": "The Red and the Black - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Red_and_the_Black"
+          },
+          {
+            "title": "Revisiting the Classics: Le Rouge et le Noir and French History by David Kaiser | NAS",
+            "url": "https://www.nas.org/blogs/article/revisiting_the_classics_le_rouge_et_le_noir_and_french_history"
+          },
+          {
+            "title": "Le Rouge et le Noir - Introduction. Un \u00e9trange objet - Presses universitaires de Rouen et du Havre",
+            "url": "https://books.openedition.org/purh/5568?lang=en"
+          },
+          {
+            "title": "STENDHAL \u2022 Le rouge et le noir \u2022 1831 \u2013 Edition-Originale.com",
+            "url": "https://edition-originale.com/en/works/literature/first-editions/stendhal-le-rouge-et-le-noir-1831-53565"
+          },
+          {
+            "title": "Le Rouge et le Noir (French Edition): Stendhal: 9781483903590: Amazon.com: Books",
+            "url": "https://www.amazon.com/Rouge-Noir-French-Stendhal/dp/1483903591"
+          },
+          {
+            "title": "The Red and the Black | Romanticism, Realism, France | Britannica",
+            "url": "https://www.britannica.com/topic/The-Red-and-the-Black"
+          },
+          {
+            "title": "(#78) Le Rouge et le Noir Paris, Levavasseur (1831)",
+            "url": "https://www.sothebys.com/en/auctions/ecatalogue/2006/fred-feinsilber-collection-a-collectors-journey-1460-1960-books-manuscripts-prints-photos-pf6025/lot.78.html"
+          },
+          {
+            "title": "Stendhal - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Stendhal"
+          }
+        ]
+      },
+      "Based on the search results, I found comprehensive information about the original 1830 edition of Stendhal's \"Le Rouge et le Noir\" published by Levavasseur in Paris.\n\nHere are the key details about the original 1830 edition:\n\n## Publication Details\nLe Rouge et le Noir was first published in its entirety in 1830 by Levavasseur. More specifically, Le Rouge et le Noir was published by Levavasseur on November 30, 1830 under Stendhal's pen name.\n\n## Physical Description\nThis edition in two volumes was adorned with two title vignettes by Henry Monnier, engraved on wood by Porret. The search results confirm that the upper wrapper and titles featured vignettes by Henry Monnier, engraved by Porret.\n\n## Illustrations\nThe original edition included two specific vignettes:\n- Volume one vignette shows Julien Sorel appearing to Madame de Renal near a confessional; volume two shows Mathilde de La Mole holding the head of Julien Sorel\n\n## Rarity and Significance\nThe first edition is \"very rare and extremely sought-after\", and was published as one of 750 copies, with title vignettes by Henry Monnier.\n\n## Full Title\nThe novel's full title was \"Le Rouge et le Noir: Chronique du XIXe si\u00e8cle\" (The Red and the Black: A Chronicle of the 19th Century).\n\nThe Levavasseur edition represents the true first edition of this masterpiece of French literature, making it highly valuable to collectors and scholars of 19th-century French literature."
+    ],
+    "durationSeconds": 14.462859406001867
+  }
+}

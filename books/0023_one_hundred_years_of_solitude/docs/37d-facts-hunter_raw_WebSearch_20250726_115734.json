@@ -1,0 +1,62 @@
+{
+  "session_id": "0f8759f7-b95e-4668-a90a-18f4c93b0e9d",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0f8759f7-b95e-4668-a90a-18f4c93b0e9d.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"One Hundred Years of Solitude\" film adaptations theater opera musical challenges history attempts"
+  },
+  "tool_response": {
+    "query": "\"One Hundred Years of Solitude\" film adaptations theater opera musical challenges history attempts",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01LZthrNJKofiv7aZNK3vj2g",
+        "content": [
+          {
+            "title": "One Hundred Years of Solitude: A Journey Through Time, Magic, and Reality",
+            "url": "https://www.abookgeek.com/one-hundred-years-of-solitude-a-journey-through-time-magic-and-reality/"
+          },
+          {
+            "title": "One Hundred Years of Solitude - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude"
+          },
+          {
+            "title": "Watch One Hundred Years of Solitude | Netflix Official Site",
+            "url": "https://www.netflix.com/title/81087583"
+          },
+          {
+            "title": "Netflix Faithfully Adapts \u201cOne Hundred Years of Solitude,\" For Better and Worse | TV/Streaming | Roger Ebert",
+            "url": "https://www.rogerebert.com/streaming/one-hundred-years-of-solitude-netflix-tv-review"
+          },
+          {
+            "title": "One Hundred Years of Solitude (TV Series 2024) \u2b50 8.3 | Drama, Fantasy, History",
+            "url": "https://www.imdb.com/title/tt9892936/"
+          },
+          {
+            "title": "One Hundred Years of Solitude (TV series) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude_(TV_series)"
+          },
+          {
+            "title": "One Hundred Years of Solitude - Annenberg Learner",
+            "url": "https://www.learner.org/series/invitation-to-world-literature/one-hundred-years-of-solitude/"
+          },
+          {
+            "title": "Why I Will Not Watch One Hundred Years of Solitude -",
+            "url": "https://www.colombianjukebox.com/why-i-will-not-watch-one-hundred-years-of-solitude/"
+          },
+          {
+            "title": "One Hundred Years of Solitude | Drama, Fantasy, History | Netflix | AVS Forum",
+            "url": "https://www.avsforum.com/threads/one-hundred-years-of-solitude-drama-fantasy-history-netflix.3309932/"
+          },
+          {
+            "title": "One Hundred Years of Solitude Review: The Magic of Adaptation - IMDb",
+            "url": "https://m.imdb.com/news/ni65003896/?ref_=nm_nwr_1"
+          }
+        ]
+      },
+      "Based on the search results, here's what I found about adaptations and challenges with \"One Hundred Years of Solitude\":\n\n## Film and TV Adaptations\n\nA full film adaptation of One Hundred Years of Solitude has proven elusive due to its complex plot.(no content)Before his death in 2014, author Gabriel Garc\u00eda M\u00e1rquez had refused to sell the rights to the novel as he did not believe the time constraints of a feature film were sufficient for a proper adaptation.\n\nHowever, the novel has finally found its way to screens:\n\n**Netflix Series (2024)**: One Hundred Years of Solitude is a Colombian television series based on Gabriel Garc\u00eda M\u00e1rquez's 1967 novel of the same name. The series will run for 16 episodes on Netflix, with the first eight released on 11 December 2024.(no content)The series was filmed with the support of Garc\u00eda M\u00e1rquez's family, who requested that it be shot in Colombia, in Spanish, and with Colombian actors.\n\n**Japanese Adaptation (1984)**: In 1984, Shuji Terayama released Farewell to the Ark, a film closely inspired by the novel. The film even entered the 1985 Cannes Film Festival. However, Garc\u00eda M\u00e1rquez did not approve the adaptation and insisted that all credits related to his novel be removed, as he believed the magic of the book was something that could not be fully captured on film.\n\n## Theater and Opera Adaptations\n\nTheater productions: Staged adaptations have brought the Buend\u00eda family to life in intimate settings. Opera: The magical realism of the novel has been translated into haunting musical compositions.(no content)Sh\u016bji Terayama's play One Hundred Years of Solitude (Hyakunen no godoku \u767e\u5e74\u306e\u5b64\u72ec; originally performed by the Tenj\u014d Sajiki theater troupe) and his film Farewell to the Ark (Saraba hakobune \u3055\u3089\u3070\u7bb1\u821f) are loose (and unauthorized) adaptations of the novel transplanted into the realm of Japanese culture and history.\n\n## Adaptation Challenges\n\nSeveral major challenges have been identified:\n\n1. **Duration and Scope**: The apparently unsurmountable problem to adapt the novel was its duration. To compress one hundred years of family and national history was an impossible task.\n\n2. **Complex Structure**: Adapting a novel like One Hundred Years of Solitude, with its non-linear chronology and little dialogue, is outrageous\u2014crazy.\n\n3. **Visual Representation of Magic**: How do you visually convey the madness, the surreal atmosphere, and the soul of a place that is both magical and haunting? How do you translate the intangible into something so concrete?\n\n4. **Garc\u00eda M\u00e1rquez's Opposition**: M\u00e1rquez famously opposed film adaptations of his writings, claiming that no film could capture the depth of his vision.\n\n## Critical Reception of the Netflix Adaptation\n\nDespite these challenges, the recent Netflix adaptation has received positive reviews: \"One Hundred Years of Solitude faithfully realizes Gabriel Garc\u00eda M\u00e1rquez's seminal novel with sumptuous polish, making for an adaptation that is nothing short of magical.\""
+    ],
+    "durationSeconds": 24.97305268600001
+  }
+}

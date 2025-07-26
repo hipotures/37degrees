@@ -1,0 +1,62 @@
+{
+  "session_id": "e6537320-f282-4226-b0c0-d5beb3935bc2",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e6537320-f282-4226-b0c0-d5beb3935bc2.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Przygody Tomka Sawyera\" Mark Twain polskie t\u0142umaczenie krytyka literacka polska"
+  },
+  "tool_response": {
+    "query": "\"Przygody Tomka Sawyera\" Mark Twain polskie t\u0142umaczenie krytyka literacka polska",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01XP1rRxpVq3eLaowRw7QwNM",
+        "content": [
+          {
+            "title": "Przygody Tomka Sawyera - Mark Twain",
+            "url": "https://wolnelektury.pl/katalog/lektura/przygody-tomka-sawyera/"
+          },
+          {
+            "title": "Przygody Tomka Sawyera - Streszczenie kr\u00f3tkie - Mark Twain - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/mark-twain/przygody-tomka-sawyera.streszczenie-krotkie"
+          },
+          {
+            "title": "Klasyka M\u0142odego Czytelnika: Mark Twain, Przygody Tomka Sawyera.",
+            "url": "http://klasykadlamlodych.blogspot.com/2013/04/mark-twain-przygody-tomka-sawyera.html"
+          },
+          {
+            "title": "Mark Twain - Przygody Tomka Sawyera",
+            "url": "https://3telnia.pl/mark-twain-przygody-tomka-sawyera/"
+          },
+          {
+            "title": "Przygody Tomka Sawyera | Mark Twain (ksi\u0105\u017cka) - Ksi\u0119garnia znak.com.pl",
+            "url": "https://www.znak.com.pl/ksiazka/przygody-tomka-sawyera-mark-twain-32053"
+          },
+          {
+            "title": "\"Przygody Tomka Sawyera\" - Mark Twain - Recenzja ksi\u0105\u017cki - Eduarena",
+            "url": "https://eduarena.pl/przygody-tomka-sawyera-mark-twain-recenzja-ksiazki/"
+          },
+          {
+            "title": "Przygody Tomka Sawyera - Mark Twain - Polska Ksiegarnia w UK",
+            "url": "https://ksiegarniainternetowa.co.uk/pl/przygody_tomka_sawyera-9788374371384"
+          },
+          {
+            "title": "\u201ePrzygody Tomka Sawyera\u201d \u2013 Mark Twain [recenzja 282] - Magiczny \u015awiat Ksi\u0105\u017cki i nie tylko",
+            "url": "https://magicznyswiatksiazki.pl/przygody-tomka-sawyera-mark-twain-recenzja-282/"
+          },
+          {
+            "title": "Przygody Tomka Sawyera",
+            "url": "https://lektury.gov.pl/lektura/przygody-tomka-sawyera"
+          },
+          {
+            "title": "Przygody Tomka Sawyera \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Przygody_Tomka_Sawyera"
+          }
+        ]
+      },
+      "Based on the search results, I found extensive information about \"Przygody Tomka Sawyera\" (The Adventures of Tom Sawyer) by Mark Twain in Polish, including information about Polish translations and literary criticism. Here's what I found:\n\n## Polskie t\u0142umaczenia\n\nPierwsze polskie t\u0142umaczenie pojawi\u0142o si\u0119 w 1901 roku, zaledwie 25 lat po premierze.(no content)Przygody Tomka Sawyera (tytu\u0142 oryginalny: The Adventures of Tom Sawyer) \u2013 powie\u015b\u0107 dla m\u0142odzie\u017cy ameryka\u0144skiego pisarza Marka Twaina z 1876 roku; pierwsze polskie wydanie \u2013 rok 1901.\n\nWsp\u00f3\u0142czesne polskie wydania szczeg\u00f3lnie wyr\u00f3\u017cniaj\u0105 si\u0119 znakomitym t\u0142umaczeniem Paw\u0142a Ber\u0119sewicza, kt\u00f3re jest wielokrotnie chwalone w recenzjach. Nowe, znakomite t\u0142umaczenie Paw\u0142a Ber\u0119sewicza z pewno\u015bci\u0105 sposoba si\u0119 najbardziej wymagaj\u0105cym czytelnikom!(no content)Nie mo\u017cna r\u00f3wnie\u017c zapomnie\u0107 o doskona\u0142ym t\u0142umaczeniu Paw\u0142a Ber\u0119sewicza, kt\u00f3ry zawsze stara si\u0119 prze\u0142o\u017cy\u0107 tekst w taki spos\u00f3b, aby by\u0142 najbli\u017cszy orygina\u0142owi.\n\n## Polska krytyka literacka\n\nPolska krytyka literacka bardzo pozytywnie ocenia to dzie\u0142o:\n\n### Znaczenie literackie\n\"Przygody Tomka Sawyera\" autorstwa Marka Twaina to absolutny klasyk literatury ameryka\u0144skiej, kt\u00f3ry od ponad wieku zachwyca czytelnik\u00f3w na ca\u0142ym \u015bwiecie.(no content)\"Przygody Tomka Sawyera\" Marka Twaina z 1876 roku zmieni\u0142y literatur\u0119 dzieci\u0119c\u0105 w Ameryce.\n\n### Analiza spo\u0142eczna\nPolscy krytycy podkre\u015blaj\u0105 g\u0142\u0119boki wymiar spo\u0142eczny dzie\u0142a: Przez pryzmat los\u00f3w m\u0142odego bohatera i jego przyjaci\u00f3\u0142, Twain prezentuje odwzorowanie spo\u0142ecze\u0144stwa ameryka\u0144skiego XIX wieku, z jego wadami i zaletami. \u201ePrzygody Tomka Sawyera\" ukazuj\u0105 nie tylko dzieci\u0119c\u0105 swobod\u0119 i niewinno\u015b\u0107, ale tak\u017ce skomplikowane relacje mi\u0119dzyludzkie, klasowe podzia\u0142y, a tak\u017ce obyczajowo\u015b\u0107 epoki.\n\n### Warto\u015b\u0107 pedagogiczna\nKsi\u0105\u017cka ta, cho\u0107 z pozoru skierowana do m\u0142odszych czytelnik\u00f3w, staje si\u0119 g\u0142\u0119bokim studium spo\u0142ecznym, w kt\u00f3rym autor nie boi si\u0119 stawia\u0107 trudnych pyta\u0144 dotycz\u0105cych moralno\u015bci, sprawiedliwo\u015bci i idea\u0142\u00f3w ameryka\u0144skich.\n\n### Humor i warstwa artystyczna\nKsi\u0105\u017cka napisana barwnym j\u0119zykiem opowiada o wspania\u0142ych i beztroskich dzieci\u0119cych latach.(no content)Twain u\u017cywa humoru, by opowiada\u0107 o powa\u017cnych tematach. Przygody Tomka Sawyera s\u0105 pe\u0142ne zabawnych scen. Te sceny kryj\u0105 g\u0142\u0119bokie my\u015bli o ludziach i ich relacjach.\n\n### Ponadczasowo\u015b\u0107\nTwain, z niezr\u00f3wnan\u0105 bieg\u0142o\u015bci\u0105, \u0142\u0105czy elementy przygodowe z ostr\u0105 krytyk\u0105 \u00f3wczesnych reali\u00f3w, tworz\u0105c dzie\u0142o ponadczasowe i uniwersalne.(no content)Dzie\u0142a wchodz\u0105ce w jej sk\u0142ad stanowi\u0105 ponadczasowe historie, po kt\u00f3re si\u0119gaj\u0105 kolejne pokolenia.\n\nPolscy krytycy literaccy doceniaj\u0105 zar\u00f3wno warto\u015b\u0107 rozrywkow\u0105 dzie\u0142a, jak i jego g\u0142\u0119bokie przes\u0142anie spo\u0142eczne oraz doskona\u0142e t\u0142umaczenia, kt\u00f3re umo\u017cliwiaj\u0105 polskim czytelnikom pe\u0142ne docenienie kunsztu Marka Twaina."
+    ],
+    "durationSeconds": 28.391387463000136
+  }
+}

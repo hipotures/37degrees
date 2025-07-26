@@ -1,0 +1,62 @@
+{
+  "session_id": "95239c3a-5fbf-4fbf-93f7-3afd6ea78885",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/95239c3a-5fbf-4fbf-93f7-3afd6ea78885.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Kate Bush \"Wuthering Heights\" song 1978 number one UK first self-written female artist"
+  },
+  "tool_response": {
+    "query": "Kate Bush \"Wuthering Heights\" song 1978 number one UK first self-written female artist",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_016Wty83Uwb6dBW9HHmUsEiF",
+        "content": [
+          {
+            "title": "Kate Bush - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Kate_Bush"
+          },
+          {
+            "title": "Wuthering Heights (song) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Wuthering_Heights_(song)"
+          },
+          {
+            "title": "Wuthering Heights - Kate Bush Encyclopedia",
+            "url": "https://www.katebushencyclopedia.com/wuthering-heights/"
+          },
+          {
+            "title": "Official Charts Flashback 1978: Celebrating Kate Bush's Wuthering Heights, Number 1 in the UK 40 years ago this week | Official Charts",
+            "url": "https://www.officialcharts.com/chart-news/official-charts-flashback-1978-celebrating-kate-bushs-wuthering-heights-number-1-in-the-uk-40-years-ago-this-week__18605/"
+          },
+          {
+            "title": "Kate Bush \u2013 Wuthering Heights",
+            "url": "https://rock-reflections.com/blogs/videos-lyrics-facts/kate-bush-wuthering-heights"
+          },
+          {
+            "title": "The first woman to hit number one with a self-written song",
+            "url": "https://faroutmagazine.co.uk/kate-bush-first-woman-uk-number-one-single/"
+          },
+          {
+            "title": "The Story Behind The Song: \u2018Wuthering Heights\u2019 Kate Bush\u2019s literary record-breaker",
+            "url": "https://faroutmagazine.co.uk/kate-bush-wuthering-heights-the-story-behind-the-song/"
+          },
+          {
+            "title": "The Curious Meaning of 'Wuthering Heights' by Kate Bush",
+            "url": "https://interestingliterature.com/2023/05/kate-bush-wuthering-heights-meaning/"
+          },
+          {
+            "title": "The Best Debut Single Ever \u2013 Wuthering Heights by Kate Bush | Tricialo",
+            "url": "https://tricialo.wordpress.com/2012/06/13/the-best-debut-single-ever-wuthering-heights-by-kate-bush/"
+          },
+          {
+            "title": "FEATURE: Too Long I Roam in the Night: Kate Bush\u2019s Wuthering Heights at Forty-Four \u2014 Music Musings & Such",
+            "url": "https://www.musicmusingsandsuch.com/musicmusingsandsuch/2021/12/25/feature-too-long-i-roam-in-the-night-kate-bushs-wuthering-heights-at-forty-four"
+          }
+        ]
+      },
+      "Based on the search results, I can provide comprehensive information about Kate Bush's \"Wuthering Heights\" and its historic achievement in 1978:\n\nKate Bush's \"Wuthering Heights\" was released as her debut single on 20 January 1978 through EMI Records, and it made Bush the first female artist to achieve a number-one single with an entirely self-written song.(no content)In 1978, at the age of 19, she topped the UK singles chart for four weeks with her debut single \"Wuthering Heights\", becoming the first female artist to achieve a UK number one with a fully self-written song.(no content)\"Wuthering Heights\" spent 14 weeks in the UK singles chart and spent 4 weeks at No. 1 in March 1978.(no content)Kate was just 19 when she landed at Number 1 on the Official Singles Chart with Wuthering Heights, knocking Abba's three-week leader Take A Chance On Me off the top.\n\nThe song's chart performance was remarkable: \"Wuthering Heights\" entered the charts in the week ending 11 February 1978 at No. 42. The following week it rose to No. 27, and Bush made her first appearance on Top of the Pops.(no content)The song uses unusual harmonic progressions and irregular phrase lengths, with lyrics inspired by the 1847 novel Wuthering Heights by Emily Bront\u00eb. Bush wrote it in a single evening at the age of 18.(no content)Bush's debut single finished the year as the tenth highest-selling and was certified gold by the British Phonographic Industry, denoting sales of over half a million.\n\nThe historic achievement extended beyond the UK: \"Wuthering Heights\" also hit number one in Ireland, in Italy, in New Zealand, where it spent five weeks at number one and achieved platinum status, and in Australia, where it stayed at the top of the charts for three consecutive weeks and achieved gold status.\n\nThis groundbreaking success established Kate Bush as a pioneering artist and opened doors for other female singer-songwriters to achieve similar recognition with self-written material."
+    ],
+    "durationSeconds": 18.227008120000015
+  }
+}

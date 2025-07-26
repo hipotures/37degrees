@@ -1,0 +1,62 @@
+{
+  "session_id": "2dcb2a8f-b11d-466d-8a59-c7f92df6d7a0",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/2dcb2a8f-b11d-466d-8a59-c7f92df6d7a0.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Frank Herbert Dune 6 years research writing process 1959-1965 extensive research methodology"
+  },
+  "tool_response": {
+    "query": "Frank Herbert Dune 6 years research writing process 1959-1965 extensive research methodology",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01NAES9bBpsJHoZokt6VQRN1",
+        "content": [
+          {
+            "title": "Frank Herbert - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Frank_Herbert"
+          },
+          {
+            "title": "Dune (novel) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dune_(novel)"
+          },
+          {
+            "title": "Articles - Frank Herbert's Dune - A guide for further study - LibGuides at California State University, Fullerton",
+            "url": "https://libraryguides.fullerton.edu/c.php?g=389150&p=2640435"
+          },
+          {
+            "title": "Home - Frank Herbert's Dune - A guide for further study - LibGuides at California State University, Fullerton",
+            "url": "https://libraryguides.fullerton.edu/HerbertDune"
+          },
+          {
+            "title": "Frank Herbert and Proto-Complexity - The Augustry",
+            "url": "https://theaugustry.com/frank-herbert-and-proto-complexity/"
+          },
+          {
+            "title": "The Epic Journey of Frank Herbert\u2019s Dune: From Rejection to Literary Triumph | by Andy McNally | Medium",
+            "url": "https://andymcnally.medium.com/the-epic-journey-of-frank-herberts-dune-from-rejection-to-literary-triumph-5589238b5e43"
+          },
+          {
+            "title": "Dune Scholar - Accessible, research-based analysis of Frank Herbert's science fiction series",
+            "url": "https://dunescholar.com/"
+          },
+          {
+            "title": "\u00bb Frank Herbert\u2013 First Edition Books: Identification Guide | Golden Age Children's Book Illustrations",
+            "url": "https://www.nocloo.com/frank-herbert-first-edition-books-identification-points/"
+          },
+          {
+            "title": "Dune (novel) | Frank Herbert, Summary, Films, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/Dune-by-Herbert"
+          },
+          {
+            "title": "DUNE: How the Heck Did It Ever Work? | by C Johnson | Medium",
+            "url": "https://medium.com/@CCyranoj2265/dune-how-the-heck-did-it-ever-work-f4c8ed787094"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with detailed information about Frank Herbert's extensive research and writing process for Dune from 1959-1965:\n\n## Frank Herbert's Six-Year Research and Writing Process for Dune (1959-1965)\n\nHerbert began researching Dune in 1959, and Dune took six years of research and writing to complete. This extensive development period spanned from 1959 to 1965, when the novel was finally published.\n\n### The Research Process\n\nHerbert spent the next five years researching, writing, and revising. The novel's origins trace back to when he was assigned to write a magazine article about sand dunes in the Oregon Dunes near Florence, Oregon. He got overinvolved and ended up with far more raw material than needed for an article.\n\nHerbert's research methodology was particularly thorough in the area of ecology. One of Dune's major inspirations was ecology; a topic Herbert first began writing about as a journalist in 1952. The research included detailed studies of sand dune stabilization techniques, as evidenced by his findings that \"sand could be controlled only by the use of one type of grass (European beach grass) and by a system of follow-up plantings with other growth\".\n\n### Publication Timeline\n\nThe writing process resulted in serialization before book publication:\n- He published a three-part serial Dune World in the monthly Analog, from December 1963 to February 1964\n- After an interval of a year, he published the much slower-paced five-part The Prophet of Dune in the January\u2013May 1965 issues\n- The novel, Dune, was finally accepted and published in August 1965 by Chilton Books\n\n### Challenges and Scale\n\nDune was much longer than commercial science fiction of the time was supposed to be. The extensive nature of Herbert's work led to significant publishing challenges, as the serialized version was expanded, reworked, and submitted to more than twenty publishers, each of whom rejected it.\n\nThis six-year research and writing process established Dune as the \"first planetary ecology novel on a grand scale\" and the first ecological science fiction novel written at a time when ecology was an emerging field of study."
+    ],
+    "durationSeconds": 23.851691135
+  }
+}

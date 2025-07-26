@@ -1,0 +1,62 @@
+{
+  "session_id": "7da3bbc0-2d10-4a7c-9f7d-e17950766dc1",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7da3bbc0-2d10-4a7c-9f7d-e17950766dc1.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Oscar Wilde Dorian Gray John Gray real model Victorian scandal homosexuality trials"
+  },
+  "tool_response": {
+    "query": "Oscar Wilde Dorian Gray John Gray real model Victorian scandal homosexuality trials",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01H8iLZGno73HKzaBA9DdwVc",
+        "content": [
+          {
+            "title": "Considering The Picture of Dorian Gray and Oscar Wilde Through a Queer Theory Lens \u2013 Derian Dalton \u2013 Celebration of Student Writing 2023",
+            "url": "https://iu.pressbooks.pub/celeb2023/chapter/chapter-1/"
+          },
+          {
+            "title": "The Picture of Dorian Gray - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Picture_of_Dorian_Gray"
+          },
+          {
+            "title": "Dorian Gray author Oscar Wilde was put on trial for being homosexual",
+            "url": "https://www.heart.co.uk/lifestyle/oscar-wilde-trail-homosexuality/"
+          },
+          {
+            "title": "Oscar Wilde - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Oscar_Wilde"
+          },
+          {
+            "title": "Oscar Wilde Trial",
+            "url": "https://www.history.com/topics/lgbtq/oscar-wilde-trial"
+          },
+          {
+            "title": "The Trials of Oscar Wilde: An Account",
+            "url": "https://www.famous-trials.com/wilde/327-home"
+          },
+          {
+            "title": "The Picture of Dorian Gray | Summary, Book, Analysis, Movie, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/The-Picture-of-Dorian-Gray-novel-by-Wilde"
+          },
+          {
+            "title": "Homosexuality as (Anti)Illness: Oscar Wilde's The Picture of Dorian Gray and Gabriele D'Annunzio's Il Piacere",
+            "url": "https://www.academia.edu/11294629/Homosexuality_as_Anti_Illness_Oscar_Wildes_The_Picture_of_Dorian_Gray_and_Gabriele_DAnnunzios_Il_Piacere"
+          },
+          {
+            "title": "A Close Reading of the \u2018Censored\u2019 Passages of The Picture of Dorian Gray",
+            "url": "https://lithub.com/a-close-reading-of-the-originally-censored-passages-of-the-picture-of-dorian-gray/"
+          },
+          {
+            "title": "The Homosexuality Trial Of Oscar Wilde | Lessons from History",
+            "url": "https://medium.com/lessons-from-history/the-homosexuality-trial-of-oscar-wilde-6f45ef23d02c"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about Oscar Wilde, *The Picture of Dorian Gray*, John Gray as a potential real model, and the Victorian scandal surrounding homosexuality and Wilde's trials.\n\n## Oscar Wilde and *The Picture of Dorian Gray*\n\n*The Picture of Dorian Gray* is an 1890 philosophical fiction and Gothic horror novel by Irish writer Oscar Wilde, and it was the only novel written by Wilde. The novel tells the story of a young man whose portrait ages while he remains youthful, serving as a romantic exposition of Wilde's own Aestheticism.\n\n## John Gray as the Real Model\n\nEnglish poet John Gray is believed to have been the real-life model for the Dorian Gray character in Oscar Wilde's novel. This connection between the fictional character and the real person added another layer to the scandal surrounding the work.\n\n## Victorian Scandal and Critical Reception\n\nThe novel caused immediate controversy upon publication. Such book reviews achieved for the novel a \"certain notoriety for being 'mawkish and nauseous', 'unclean', 'effeminate' and 'contaminating'\" due to the novel's homoeroticism, which offended Victorian sensibilities. Reviewers immediately criticised the novel's decadence and homosexual allusions; the Daily Chronicle called it \"unclean\", \"poisonous\", and \"heavy with the mephitic odours of moral and spiritual putrefaction\".\n\n## Censorship and Multiple Versions\n\nThe vast majority of editorial deletions were acts of censorship, bearing on sexual matters of both homosexual and heterosexual nature, with much of the cut material making the homoerotic nature of Basil Hallward's feelings for Dorian Gray more vivid and explicit. Wilde worked with another editor to prepare the novel for publication in book form, enlarging it significantly and further reducing its allusions to homosexuality.\n\n## Oscar Wilde's Trials and Imprisonment\n\nWilde, a homosexual, was put on trial for gross indecency in 1895 after the details of his affair with a British aristocrat were made public. In 1891, Wilde began an affair with Lord Alfred Douglas, a young British poet and aristocrat 16 years his junior. Douglas' father, the Marquess of Queensberry, was outraged by the relationship and left a calling card reading \"For Oscar Wilde, posing somdomite [sic]\".\n\nPublication of the novel scandalized Victorian England, and *The Picture of Dorian Gray* was used as evidence against Wilde when he was tried and convicted in 1895 on charges related to homosexuality. The defense questioned Wilde about the premise of his controversial novel, suggesting that Wilde had used the novel's homoerotic themes to seduce Lord Alfred.\n\nWilde was convicted of gross indecency and received two years of hard labor, the maximum sentence allowed for the crime. Britain's Criminal Law Amendment Act of 1885 had criminalized all sex acts between men as \"gross indecency\".\n\n## Social Impact of the Trials\n\nThe Wilde trials caused public attitudes toward homosexuals to become harsher and less tolerant, with homosexuals increasingly seen as a threat and predators rather than objects of pity. They caused the public to begin associating art with homo-eroticism, and after the trials, every male relationship of any intensity came under suspicion, with the arts and homosexuality becoming linked in the public mind.\n\nThe case represents a significant moment in Victorian history, illustrating the intersection of literature, sexuality, law, and social attitudes during a period when homosexuality was criminalized and heavily stigmatized."
+    ],
+    "durationSeconds": 28.20172567600012
+  }
+}

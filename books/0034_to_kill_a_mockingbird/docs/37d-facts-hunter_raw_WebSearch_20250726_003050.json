@@ -1,0 +1,63 @@
+{
+  "session_id": "bca0f9c4-aba0-4606-9d12-d305df5c1a73",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/bca0f9c4-aba0-4606-9d12-d305df5c1a73.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"To Kill a Mockingbird\" Harper Lee bibliography sources academic papers Polish translation"
+  },
+  "tool_response": {
+    "query": "\"To Kill a Mockingbird\" Harper Lee bibliography sources academic papers Polish translation",
+    "results": [
+      "I'll search for academic sources about Harper Lee's bibliography and Polish translations of \"To Kill a Mockingbird\".",
+      {
+        "tool_use_id": "srvtoolu_01XqS1mUi2N2rZB8vALvzxk4",
+        "content": [
+          {
+            "title": "To Kill a Mockingbird - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird"
+          },
+          {
+            "title": "To Kill a Mockingbird Bibliography | GradeSaver",
+            "url": "https://www.gradesaver.com/to-kill-a-mockingbird/study-guide/bibliography"
+          },
+          {
+            "title": "Harper Lee - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Harper_Lee"
+          },
+          {
+            "title": "Salem Press - Critical Insights: To Kill a Mockingbird",
+            "url": "https://salempress.com/Critical-Insights-to-kill-a-mockingbird"
+          },
+          {
+            "title": "Citation - To kill a mockingbird - UW-Madison Libraries",
+            "url": "https://search.library.wisc.edu/catalog/9910037954002121/cite"
+          },
+          {
+            "title": "To Kill A Mockingbird",
+            "url": "https://www.raio.org/TKMFullText.pdf"
+          },
+          {
+            "title": "To Kill a Mockingbird | Summary, Characters, Book, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/To-Kill-a-Mockingbird"
+          },
+          {
+            "title": "Harper Lee, \u201cTo Kill a Mockingbird\u201d \u2013 The Banned Books Project",
+            "url": "https://bannedbooks.library.cmu.edu/harper-lee-to-kill-a-mockingbird/"
+          },
+          {
+            "title": "To Kill a Mockingbird by Harper Lee | EBSCO Research Starters",
+            "url": "https://www.ebsco.com/research-starters/literature-and-writing/kill-mockingbird-harper-lee"
+          },
+          {
+            "title": "To Kill a Mockingbird by Harper Lee | Goodreads",
+            "url": "https://www.goodreads.com/book/show/2657.To_Kill_a_Mockingbird"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with information about academic sources and Polish translations of Harper Lee's \"To Kill a Mockingbird,\" though the results don't contain extensive details about Polish translations specifically.\n\n## Academic Sources and Bibliography\n\nHere are some key academic sources and critical works about \"To Kill a Mockingbird\":\n\n### Critical Collections and Essays:\n- Edited by Alabama native and Lee scholar Don Noble, this volume brings together some of the very best criticism available on Lee's timeless classic.\n- Johnson, Claudia Durst. To Kill a Mockingbird: Threatening Boundaries. New York: Twayne, 1994. Print.\n- Johnson, Claudia Durst. Understanding To Kill a Mockingbird: A Casebook to Issues, Sources and Historical Documents. Westport: Greenwood, 1994. Print.\n- Meyer, Michael J., ed. Harper Lee's To Kill a Mockingbird: New Essays. Lanham: Scarecrow, 2010. Print.\n- Petry, Alice Hall. On Harper Lee: Essays and Reflections. Knoxville: U of Tennessee P, 2007. Print.\n\n### Academic Articles:\n- Michigan Law Review 97:6 (1999) - \"Reconstructing Atticus Finch\" by Steven Lubet\n- Dave, R. A. \"To Kill a Mockingbird: Harper Lee's Tragic Vision.\" Indian Studies in American Literature. Ed. M. K. Naik et al. Dharwar, India: Karnatak University, 1974. Print.\n\n### Other Academic Resources:\n- Mancini, Candice, ed. Racism in Harper Lee's To Kill a Mockingbird. Detroit: Greenhaven, 2008. Print.\n- Shields, Carol. Mockingbird: A Portrait of Harper Lee. New York: Holt, 2006.\n\n## Polish Translation Information\n\nWhile the search results confirm that the novel has been translated into numerous languages, specific details about the Polish translation are limited:\n\n- In the years since, it has sold more than 30 million copies and been translated into more than 40 languages.\n- Enormously popular, it was translated into some 40 languages and sold over 40 million copies worldwide.\n- Having been translated into over 40 languages, and never having gone out of print since its date of publication, Lee's novel is considered to be one of the most influential works of the 20th century.\n\n## Additional Academic Context\n\nDespite the number of copies sold and its widespread use in education, literary analysis of it is sparse.(no content)Don Noble, the editor of a book of essays about the novel, estimates that the ratio of sales to analytical essays may be a million to one.\n\nThe novel has maintained significant academic interest despite this paradox, with Essays Offering Analysis by Top Literary Scholars continuing to examine themes of race, courage, and Southern Gothic elements.\n\nFor more specific information about Polish translations, including the translator's name, publication dates, and Polish academic criticism, you may need to search Polish academic databases or contact Polish literary institutions directly."
+    ],
+    "durationSeconds": 35.150640858000145
+  }
+}

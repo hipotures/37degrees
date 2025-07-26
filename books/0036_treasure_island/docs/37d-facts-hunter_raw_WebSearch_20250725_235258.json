@@ -1,0 +1,62 @@
+{
+  "session_id": "38d2c10d-061a-4607-b249-863b58008013",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/38d2c10d-061a-4607-b249-863b58008013.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Treasure Island pirate speech language influence Robert Newton 1950 film \"arrr\" pirate dialect"
+  },
+  "tool_response": {
+    "query": "Treasure Island pirate speech language influence Robert Newton 1950 film \"arrr\" pirate dialect",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01XGQ3zGCZALmQ7S1QDdWgXo",
+        "content": [
+          {
+            "title": "The popular \"pirate accent\" is based on Robert Newton\u2019s performance in the movie Treasure Island | The Vintage News",
+            "url": "https://www.thevintagenews.com/2017/01/12/the-popular-pirate-accent-is-based-on-robert-newtons-performance-in-the-movie-treasure-island/"
+          },
+          {
+            "title": "Arrr, Matey! The Origins of the Pirate Accent | Dialect Blog",
+            "url": "http://dialectblog.com/2011/05/24/pirate-accent/"
+          },
+          {
+            "title": "Pirate speech origins in West Country English via Robert Newton, aka Long John Silver",
+            "url": "https://slate.com/human-interest/2014/09/pirate-speech-origins-in-west-country-english-via-robert-newton-aka-long-john-silver.html"
+          },
+          {
+            "title": "The Eternal Legacy of Treasure Island | Britannica",
+            "url": "https://www.britannica.com/story/the-eternal-legacy-of-treasure-island"
+          },
+          {
+            "title": "The Disney Film That Changed How We Think Pirates Talked In Real Life - Looper",
+            "url": "https://www.looper.com/1399749/disney-treasure-island-changed-pirate-talk-robert-newton/"
+          },
+          {
+            "title": "It's Talk Like a Pirate Day\u2014But Where Does 'Pirate Talk' Really Come From?",
+            "url": "https://time.com/4497168/international-talk-like-pirate-day/"
+          },
+          {
+            "title": "Talkin\u2019 Like a Pirate? It be a linguistic treasure trove",
+            "url": "https://warwick.ac.uk/newsandevents/knowledgecentre/society/linguistics/piratetalk/"
+          },
+          {
+            "title": "Arrr You Ready For the Unlikely Origin of the Pirate Accent? - Commonplace Fun Facts",
+            "url": "https://commonplacefacts.com/2024/10/14/origin-pirate-accent/"
+          },
+          {
+            "title": "Why Do Pirates Say 'Arrr'? | The Children's Museum of Indianapolis",
+            "url": "https://www.childrensmuseum.org/stories/why-do-pirates-say-arrr"
+          },
+          {
+            "title": "Talk Like a Pirate Day? Not Even Pirates Spoke Pirate | National Geographic",
+            "url": "https://www.nationalgeographic.com/culture/article/120919-talk-like-a-pirate-day-news-history"
+          }
+        ]
+      },
+      "The search results reveal fascinating information about how Robert Newton's performance in the 1950 Disney film \"Treasure Island\" fundamentally shaped our modern conception of pirate speech and the \"arrr\" dialect.\n\n## The Origins of \"Pirate Speech\"\n\nAlmost certainly, charismatic actor Robert Newton popularised this in his films, particularly Disney's 1950 classic, Treasure Island. Basing his his pirate-speak on an amalgamated and highly theatrical version of various English West Country accents (not specifically Dorset), the film brought it to a mass audience.\n\n## Robert Newton's Influence\n\nHowever, it was Robert Newton who simultaneously invented and immortalized the pirate accent in the 1950 adaptation of \"Treasure Island.\" A native of Dorset, England, Newton exaggerated his West Country accent \u2014 also found in the southwestern English hamlets of Cornwall, Somerset, Devon, and Bristol \u2014 to produce the signature \"arrrrs\" that we now associate with pirates.(no content)Long John Silver's speech characteristics were brought about by actor Robert Newton, who exaggerated his native West Country English accent for \"piratical\" effect. He went on to play Blackbeard and Long John Silver in other films, further cementing his image of a pirate in the public consciousness.\n\n## The \"Arrr\" Sound and West Country Dialect\n\nSpeakers in the region tend to cling to a strong rhotic \"R\" sound, as opposed to other parts of England that drop the \"R\" entirely, with the pirate-friendly \"arrr\" a common affirmative expression.(no content)In this area of England, during the early 20th century, \" 'Arr' was an affirmation, not unlike the Canadian 'eh,' and maritime expressions were a part of everyday speech,\" Woodard explains.\n\n## Historical Context\n\nIn addition to Newton's influence, that region of the country was a pirate hotbed, indicating the accent has some historical accuracy. Blackbeard and Sir Francis Drake were both from the area.(no content)Pirates were, after all, just sailors who had deserted the navy, so the \"Arrr\" was a very common form of \"yes\" spoken through the 16th-19th century.\n\n## Lasting Cultural Impact\n\n\"Newton's performance\u2014full of 'arrs,' 'shiver me timbers,' and references to landlubbers\u2014not only stole the show, it permanently shaped pop culture's vision of how pirates looked, acted, and spoke,\" Woodard said. \"Afterwards, Newtonesque pirates were everywhere, from Captain Hook to Captain McCallister of the Simpsons series.\"(no content)While the novel Treasure Island certainly influenced the way we think of pirates\u2014and especially their presumed proclivity for burying treasure and marking it on secret maps\u2014it's the 1950 movie adaptation of the book, directed by Byron Haskin, that gave us the archetypal image of pirates and pirate talk. It's in this movie where audiences first heard pirates employ words such as \"matey\" and say \"arrrr\" instead of \"yes.\"\n\nThe search results demonstrate that our modern understanding of \"pirate speech\" is largely a Hollywood creation, specifically stemming from Robert Newton's theatrical interpretation of his native West Country English dialect in Disney's 1950 \"Treasure Island\" film, which became the template for all subsequent pirate portrayals in popular culture."
+    ],
+    "durationSeconds": 30.872856790999883
+  }
+}

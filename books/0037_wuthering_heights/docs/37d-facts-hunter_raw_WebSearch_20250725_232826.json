@@ -1,0 +1,62 @@
+{
+  "session_id": "95239c3a-5fbf-4fbf-93f7-3afd6ea78885",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/95239c3a-5fbf-4fbf-93f7-3afd6ea78885.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Kate Bush Wuthering Heights song 1978 cultural impact TikTok viral dance running up that hill"
+  },
+  "tool_response": {
+    "query": "Kate Bush Wuthering Heights song 1978 cultural impact TikTok viral dance running up that hill",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_012bJpbjccoB75qDFTBQJfFk",
+        "content": [
+          {
+            "title": "Wuthering Heights (song) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Wuthering_Heights_(song)"
+          },
+          {
+            "title": "Kate Bush - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Kate_Bush"
+          },
+          {
+            "title": "Kate Bush spent 4 weeks at No1 in the UK in early 1978 with her self-penned masterpiece, \u201cWuthering Heights\u201d. With this song she was the first female to ever have a self-written song reach Number 1 on the UK singles chart. It also reached the top of the charts in Australia, Ireland, Italy, New Zealand, and Portugal #KateBush #wutheringheights #runningupthathill #70sMusic #fyp #TopOfThePops #70s #TheKickInside #katebushtok #singersongwriter  | TikTok",
+            "url": "https://www.tiktok.com/@70s80s90sthrowback/video/7274326209486490913"
+          },
+          {
+            "title": "Wuthering Heights - Kate Bush (1978) #70s #70smusic #70years #70ssongs #anos70 #oldmusic #foryoupage #foryoupageofficiall #fy #flashback #tuneldotempo #tuneldeltiempo #nostalgic #nostalgia #katebush #wutheringheights  | TikTok",
+            "url": "https://www.tiktok.com/@nostalgica708090/video/7241314135324118277?lang=en"
+          },
+          {
+            "title": "Kate Bush fans from all over Sydney gathered to \u2018wuther\u2019 and show off their love for the 1978 classic hit in The Most Wuthering Heights Day Ever! Video via ABC Sydney #ABCNews #ABCSydney #Sydney #WutheringHeights #KateBush #FlashMob #Dance #RunningUpThatHill | TikTok",
+            "url": "https://www.tiktok.com/@abcnewsaus/video/7257376273763175681"
+          },
+          {
+            "title": "Roll And Fall In Green: Kate Bush\u2019s \u201cWuthering Heights\u201d video is still moving \u2014 proxy music",
+            "url": "https://proxymusic.club/2018/08/20/kate-bush-wuthering-heights-video/"
+          },
+          {
+            "title": "\u201cWuthering Heights\u201d - Kate Bush (1978) #popmusic #70s #perte #fouryou #fyp #trending #popculture #throwbacksongs #live #70smusic #70sthrowback  | TikTok",
+            "url": "https://www.tiktok.com/@popmusicofficial_/video/7333672028811152673"
+          },
+          {
+            "title": "World Wuthering Heights Day 2025 celebrates Kate Bush\u2019s 1978 hit song",
+            "url": "https://www.dailyadvertiser.com.au/video/viral/x9naero/world-wuthering-heights-day-2025-celebrates-kate-bushs-1978-hit-song/"
+          },
+          {
+            "title": "TikTok - Make Your Day",
+            "url": "https://www.tiktok.com/music/Wuthering-Heights-223454259768528896?lang=en"
+          },
+          {
+            "title": "kate bush - wuthering heights (1978) #fyp #70songs #katebush #lyrics #memories | TikTok",
+            "url": "https://www.tiktok.com/@barretoedits/video/7131381688772332806?lang=en"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about Kate Bush's cultural impact, particularly regarding \"Wuthering Heights\" and its connection to TikTok and \"Running Up That Hill\":\n\n## Kate Bush's \"Wuthering Heights\" (1978) Cultural Impact\n\n\"Wuthering Heights\" is Kate Bush's debut single, released on 20 January 1978 through EMI Records as the lead single from her debut album, The Kick Inside (1978).(no content)Bush wrote it in a single evening at the age of 18.\n\n### Historic Achievement\nBush became the first female artist to have an entirely self-written number one in the UK.(no content)It rose to number one three weeks later dethroning ABBA's \"Take a Chance on Me\" from the top spot.(no content)It also reached the top of the charts in Australia, Ireland, Italy, New Zealand, and Portugal.\n\n### Iconic Music Video and Dance\nThis music video has been influential in sparking events such as \"The Most Wuthering Heights Day Ever\". To imitate Kate Bush, the participants called \"Cathy's\" would wear a red dress with black accessories and red lipstick as the signature look.(no content)But \"Wuthering Heights\" remains her most celebrated piece: not for nothing has it been consistently cherished and parodied, and not for nothing do hundreds of people gather each year for The Most Wuthering Heights Day Ever to recreate Bush's video right down to the red stockings.\n\n### TikTok and Social Media Presence\nThe search results show that \"Wuthering Heights\" has found new life on TikTok, with multiple videos celebrating the 1978 classic. Again, there's something to be said about the earnest yet evocative simplicity of the film's choreography that has lent it instant appeal and enduring virality.\n\n### Connection to \"Running Up That Hill\" Viral Moment\n\"Running Up That Hill\" has become particularly popular with members of Generation Z, who were not born when the song was first released, and it has appeared in numerous videos on the social media platform TikTok. Bush released a statement praising Stranger Things and saying the resurgence was \"really exciting\".(no content)On 17 June, the song reached number one in the UK, making it Bush's second UK number one. With 44 years since her last number one, \"Wuthering Heights\" in 1978, Bush sur[passed her own record].\n\nThe cultural impact spans from the original 1978 breakthrough to modern social media platforms, with both songs experiencing viral moments that introduced Kate Bush's unique artistry to new generations."
+    ],
+    "durationSeconds": 21.517443247999996
+  }
+}

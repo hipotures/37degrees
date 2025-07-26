@@ -1,0 +1,42 @@
+{
+  "session_id": "2dcb2a8f-b11d-466d-8a59-c7f92df6d7a0",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/2dcb2a8f-b11d-466d-8a59-c7f92df6d7a0.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Marek Marsza\u0142\" \"Jerzy \u0141ozi\u0144ski\" Diuna t\u0142umaczenie Polski wydawca Rebis historia publikacji"
+  },
+  "tool_response": {
+    "query": "\"Marek Marsza\u0142\" \"Jerzy \u0141ozi\u0144ski\" Diuna t\u0142umaczenie Polski wydawca Rebis historia publikacji",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01PX16AhkAkd3UVXNiAJYnCY",
+        "content": [
+          {
+            "title": "Diuna \u2013 encyklopediafantastyki.pl",
+            "url": "https://encyklopediafantastyki.pl/index.php?title=Diuna"
+          },
+          {
+            "title": "Diuna, Mesjasz Diuny - Frank Herbert. Powr\u00f3t na Arrakis (recenzja) - Ksi\u0105\u017cki - POLTERGEIST",
+            "url": "https://polter.pl/ksiazki/Diuna-Mesjasz-Diuny-Frank-Herbert-c10770"
+          },
+          {
+            "title": "Diuna \u2013 powie\u015b\u0107 Franka Herberta - Agencja Skrivanek",
+            "url": "https://skrivanek.pl/diuna-powiesc-franka-herberta/"
+          },
+          {
+            "title": "Ciekawostki o Diunie - Diuna Group",
+            "url": "https://diuna.biz/ciekawostki-o-diunie/"
+          },
+          {
+            "title": "Czy przek\u0142ad ksi\u0105\u017cki to akt tw\u00f3rczy? | HISTORIA.org.pl - historia, kultura, muzea, matura, rekonstrukcje i recenzje historyczne",
+            "url": "https://historia.org.pl/2020/11/05/czy-przeklad-ksiazki-to-akt-tworczy/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about the Polish translation history of \"Dune\" (Diuna) by Frank Herbert, involving translators Marek Marsza\u0142 and Jerzy \u0141ozi\u0144ski, and the publishing history with Rebis:\n\n## Polish Translation History of Dune\n\n### Two Main Polish Translators\n\nDiuna Herberta ukaza\u0142a si\u0119 w Polsce w dw\u00f3ch wersjach t\u0142umaczeniowych. Pierwszego przek\u0142adu dokona\u0142 Marek Marsza\u0142 w 1986 roku, ponad 20 lat po publikacji orygina\u0142u. Za drugie t\u0142umaczenie na j\u0119zyk polski odpowiada Jerzy \u0141ozi\u0144ski.\n\n### Publication Timeline\n\nNa pierwsze polskie t\u0142umaczenie musieli\u015bmy czeka\u0107 do\u015b\u0107 d\u0142ugo, bo do roku 1986. Jego autorem by\u0142 Marek Marsza\u0142 i by\u0142o ono do tej pory uwa\u017cane za najlepsze polskie t\u0142umaczenie.(no content)Ostatni raz Diuna wznawiana by\u0142a dziesi\u0119\u0107 lat temu przez wydawnictwo Zysk, dla kt\u00f3rego t\u0142umaczenia dokona\u0142 Jerzy \u0141ozi\u0144ski.\n\n### Rebis Publishing House\n\nGdy w zesz\u0142ym roku Dom Wydawniczy Rebis zapowiedzia\u0142 wznowienie Kronik Diuny autorstwa Franka Herberta w \u015brodowisku fantastycznym nie przesz\u0142o to bez echa. Mamy rok 2007, dzi\u0119ki wydawnictwu Rebis na nasze p\u00f3\u0142ki po raz kolejny trafiaj\u0105 pierwsze tomy Kronik Diuny \u2013 Diuna i Mesjasz Diuny.(no content)Na nasze szcz\u0119\u015bcie wydawnictwo Rebis si\u0119gn\u0119\u0142o po t\u0142umaczenie Marka Marsza\u0142a, kt\u00f3re zosta\u0142o gruntownie poprawione i pozbawione wi\u0119kszo\u015bci wpadek t\u0142umacza i j\u0119zykowych niezr\u0119czno\u015bci.\n\n### Translation Quality Comparison\n\nT\u0142umaczenie Marka Marsza\u0142a spotka\u0142o si\u0119 z wi\u0119kszym uznaniem fan\u00f3w gatunku. Jerzy \u0141ozi\u0144ski znany jest ze swojego swobodnego podej\u015bcia do t\u0142umaczenia i jego styl nie odpowiada wielu czytelnikom.(no content)Czytelnikom Diuny zdecydowanie bardziej odpowiada\u0142o t\u0142umaczenie Marsza\u0142a, kt\u00f3ry lepiej potrafi\u0142 odczyta\u0107 zamys\u0142 autora. \u0141ozi\u0144ski do wierno\u015bci przek\u0142adu podchodzi\u0142 cz\u0119sto zbyt swobodnie.\n\n### Notable Translation Differences\n\nW t\u0142umaczeniu Jerzego \u0141ozi\u0144skiego zamiast czerwi pustyni spotkamy si\u0119 z piaskalami, a Fremen\u00f3w poznamy jako Wolan\u00f3w.(no content)W poprawionej wersji ukaza\u0142o si\u0119 ono p\u00f3\u017aniej pod pseudonimem \u0141adys\u0142aw Jerzy\u0144ski.\n\nThe search reveals that Rebis chose to republish the more popular Marsza\u0142 translation in 2007, which was well-received by fans and represented a significant milestone in Polish science fiction publishing."
+    ],
+    "durationSeconds": 17.655683146000026
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "session_id": "8e510ca3-dab1-4e58-b10a-336d368b79a7",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e510ca3-dab1-4e58-b10a-336d368b79a7.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Pan Tadeusz youth engagement strategies polish teachers modern adaptations TikTok students 2024 2025"
+  },
+  "tool_response": {
+    "query": "Pan Tadeusz youth engagement strategies polish teachers modern adaptations TikTok students 2024 2025",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_012ftxzRwurjsaTGLZQVcBZM",
+        "content": [
+          {
+            "title": "Full article: Teacher education in Poland (1970\u20132024): policy development, legislation, and period-specific challenges",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/02607476.2024.2413457"
+          },
+          {
+            "title": "Announcing the launch of TikTok's Youth Council - Newsroom | TikTok",
+            "url": "https://newsroom.tiktok.com/en-us/tiktok-youth-council-holds-first-meetings-as-new-research-shows-teens-want-to-work-directly-with-platforms"
+          },
+          {
+            "title": "Exploring TikTok\u2019s Role in K-12 Education: A Mixed-Methods Study of Teachers\u2019 Professional Use \u2013 CITE Journal",
+            "url": "https://citejournal.org/volume-25/issue-1-25/current-practice/exploring-tiktoks-role-in-k-12-education-a-mixed-methods-study-of-teachers-professional-use/"
+          },
+          {
+            "title": "What TikTok can teach educators - Kappan Online",
+            "url": "https://kappanonline.org/what-tiktok-can-teach-educators/"
+          },
+          {
+            "title": "TeachTok: Teachers of TikTok, micro-celebrification, and fun learning communities - ScienceDirect",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S0742051X22003535"
+          },
+          {
+            "title": "Meaningful Youth Engagement at the 2024 ECOSOC Youth Forum: On the path towards the Summit of the Future | #LeadingSDG4 | Education2030",
+            "url": "https://www.unesco.org/sdg4education2030/en/articles/meaningful-youth-engagement-2024-ecosoc-youth-forum-path-towards-summit-future"
+          },
+          {
+            "title": "New studies quantify TikTok's growing impact on culture and music - Newsroom | TikTok",
+            "url": "https://newsroom.tiktok.com/en-us/new-studies-quantify-tiktoks-growing-impact-on-culture-and-music"
+          },
+          {
+            "title": "TikTok Youth Council holds first meetings, as new research shows teens want to work directly with platforms - Newsroom | TikTok",
+            "url": "https://newsroom.tiktok.com/en-gb/tiktok-youth-council-holds-first-meetings-as-new-research-shows-teens-want-to-work-directly-with-platforms-uk"
+          },
+          {
+            "title": "Try These 15 TikTok Challenges to Generate Engagement in 2025!",
+            "url": "https://nealschaffer.com/tiktok-challenges/"
+          },
+          {
+            "title": "Full article: Teaching through TikTok: a duoethnographic exploration of pedagogical approaches using TikTok in higher dance education in China and Norway during a global pandemic",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/14647893.2022.2114446"
+          }
+        ]
+      },
+      "The search results provide insights into modern educational strategies involving TikTok and youth engagement, though specific information about Pan Tadeusz adaptations is limited. Here's what I found:\n\n## TikTok in Education and Teacher Practices\n\nIncreasingly, social media spaces have become places for teachers to exchange ideas and acquire new information in support of their professional learning. The popular app, TikTok, has become one of the social media spaces that teachers are using for that purpose. Teachers' use of online social media spaces to support their learning may have important implications for professional development and for classroom teaching practices.(no content)Teachers took notice of the platform and began to use it as a space to create content, with much of it showcasing everyday experiences in the life of teachers. With over a billion active users, it is important to take a closer look at TikTok to identify its appeal and understand how teachers are using it.\n\n## Youth Engagement Strategies for 2024-2025\n\nThe Youth Council has set out its priorities for 2024, which include a focus on teen well-being and inclusion to help ensure TikTok continues to be a safe and accessible space for young people to show up as who they are.(no content)During the first Youth Council meeting, teens talked about the importance of educational campaigns, and throughout 2024, TikTok will launch over 10 in-app media literacy campaigns around the world, including deepdives into topics like misinformation and AI-generated content.\n\n## Educational Innovation and Engagement\n\nKids are learning on TikTok. Leaders also should be learning from it\u2014not from the content but from how it engages students.(no content)This study explores the subculture of teachers and teaching on TikTok, known in the vernacular as 'TeachTok', which represents a growing trend of educators using the platform for professional development and student engagement.\n\n## Polish Education Context\n\nWhile the search didn't yield specific results about Pan Tadeusz TikTok adaptations, it did reveal information about Polish teacher education evolution. This paper aims to provide a comprehensive analysis of the evolution of teacher education in Poland from 1970 to 2024, detailing socio-political and economic changes that have shaped educational policies.\n\nThe search results suggest that while TikTok is increasingly being used by teachers globally for educational purposes and professional development, specific documented cases of Pan Tadeusz being adapted for TikTok by Polish teachers weren't found in this particular search. The platform is clearly being recognized as a valuable tool for youth engagement and educational innovation in 2024-2025."
+    ],
+    "durationSeconds": 21.097622993000027
+  }
+}

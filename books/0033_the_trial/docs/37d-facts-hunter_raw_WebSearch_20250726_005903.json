@@ -1,0 +1,63 @@
+{
+  "session_id": "3a49404c-4f85-49d3-82a6-52395d74d3af",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/3a49404c-4f85-49d3-82a6-52395d74d3af.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Franz Kafka Prague 1914-1915 cultural environment German-Czech Jewish community Austro-Hungarian Empire"
+  },
+  "tool_response": {
+    "query": "Franz Kafka Prague 1914-1915 cultural environment German-Czech Jewish community Austro-Hungarian Empire",
+    "results": [
+      "I'll search for information about Franz Kafka's cultural environment in Prague during 1914-1915, focusing on the German-Czech Jewish community in the Austro-Hungarian Empire.",
+      {
+        "tool_use_id": "srvtoolu_01BypzXU97X4GufHSREo8b7R",
+        "content": [
+          {
+            "title": "Franz Kafka - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Franz_Kafka"
+          },
+          {
+            "title": "Franz Kafka. A German-Speaking Jew from Prague \u2013 The Boomerang",
+            "url": "https://ehkern.com/2014/01/27/franz-kafka/"
+          },
+          {
+            "title": "Franz Kafka was a Jew, who wrote in German and lived in Prague, in the Austrian-Hungarian Empire. Are his works studied in highschool literature classes in Austria, Czechia, Germany and Israel? - Quora",
+            "url": "https://www.quora.com/Franz-Kafka-was-a-Jew-who-wrote-in-German-and-lived-in-Prague-in-the-Austrian-Hungarian-Empire-Are-his-works-studied-in-highschool-literature-classes-in-Austria-Czechia-Germany-and-Israel"
+          },
+          {
+            "title": "Franz Kafka Biography| Databases Explored | Gale",
+            "url": "https://www.gale.com/intl/databases-explored/literature/franz-kafka"
+          },
+          {
+            "title": "Franz Kafka | Encyclopedia.com",
+            "url": "https://www.encyclopedia.com/people/literature-and-arts/german-literature-biographies/franz-kafka"
+          },
+          {
+            "title": "Franz Kafka, Prague Austria-Hungary, European Authors | Literary Traveler",
+            "url": "https://www.literarytraveler.com/articles/on-franz-kafkas-trail/"
+          },
+          {
+            "title": "Franz Kafka | Biography, Books, The Metamorphosis, The Trial, & Facts | Britannica",
+            "url": "https://www.britannica.com/biography/Franz-Kafka"
+          },
+          {
+            "title": "Franz Kafka, Prague Jewish Author \u2013 Prague Blog",
+            "url": "https://www.private-prague-guide.com/article/franz-kafka/"
+          },
+          {
+            "title": "FRANZ KAFKA. Franz Kafka lived nearly all of his\u2026 | by Hailey Buckley | Alphabeticon | Medium",
+            "url": "https://medium.com/alphabeticon/franz-kafka-8ba674fc31e0"
+          },
+          {
+            "title": "The Languages of Kafka Czech Center Museum Houston \u2014 a meeting place for Czech and local culture",
+            "url": "https://www.czechcenter.org/blog/2021/6/4/kafka-and-the-jewish-experience"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with detailed information about Franz Kafka's cultural environment in Prague during 1914-1915, focusing on the German-Czech Jewish community in the Austro-Hungarian Empire.\n\n## Franz Kafka's Prague (1914-1915): Cultural Environment\n\n### Political and Historical Context\n\nFranz Kafka was a German-language Jewish Czech writer born in Prague, in the Austro-Hungarian Empire, and remained a citizen of this empire until it collapsed after World War I. Prague was a large provincial capital of the Austro-Hungarian Empire that was home to many Czechs, some Germans, and a lesser number of German-cultured, German-speaking Jews.\n\nThe Austro-Hungarian Empire came into being in 1867 when a constitutional compromise between the Austrian Empire and Hungary was reached, with Hungary autonomous in all political issues except war and foreign relations. Bohemia and Prague belonged to the \"other Imperial half\" - regions united by the dynastic claim of the Habsburgs.\n\n### The Three Communities of Prague\n\nThroughout history, Bohemia had three major population groups: Czechs, Germans, and Jews. When Kafka was seventeen, in 1900, Prague had 420,000 citizens, mostly Czech. Among them were 35,000 German speakers, of whom some 30,000 were Jewish and 5,000 were Gentile.\n\nKafka grew up as a member of a minority (the Jewish community) within a minority (the German-speaking population) at a time when there was little or no communication between these two groups or with the predominantly Czech-speaking citizens of Prague.\n\n### Anti-Semitism and Social Tensions\n\nThe period of 1914-1915 was marked by significant social tensions:\n\nAnti-Semitism was rife throughout eastern Europe, and in Prague, as in many European cities, Jews were reduced by economic and social disadvantage to congregating in ghettos.\n\nCzechs had long been hostile to the Germans among them, and especially so to the German-speaking Jews. Kafka grew up exposed to racial prejudice, vented in abrogated civil rights and, sometimes, in physical violence. He was harassed in the street on the way to school.\n\nAnti-Semitism was rife, and remained so until 1918, when Czechoslovakia emerged as a sovereign nation and Masaryk nourished a culture of racial harmony.\n\n### The War Years (1914-1915)\n\nAround this time, the Archduke Ferdinand, heir to the kingdom of Austro-Hungary, was assassinated, marking the beginning of World War I.\n\nApparently, Kafka did his job admirably well\u2014so well in fact that his supervisors arranged for him to be excused from military service during World War I. Between 1914 and 1918, more than one million Austro-Hungarian soldiers were killed, and more than three and a half million were wounded.\n\nKafka lived during the First World War in the Oppelt House (his poor health exempted him from being drafted).\n\n### Kafka's Jewish Identity\n\nAs a Jew, Kafka was isolated from the German community in Prague, but, as a modern intellectual, he was also alienated from his own Jewish heritage.\n\nHe was deeply fascinated by the Jews of Eastern Europe, who he thought possessed an intensity of spiritual life that was absent from Jews in the West.\n\nOn 8 January 1914, he wrote in his diary: Was habe ich mit Juden gemeinsam? (\"What do I have in common with Jews?\"), reflecting his ambivalent relationship with his Jewish identity.\n\n### Cultural and Literary Activity\n\nDespite the tensions, there was in Prague's Jewish community a cultural flowering out of all proportion to its minority status. Its chief form was literature. And the consummate practitioner was Franz Kafka.\n\nHis literary life involved meeting with Brod and Weltsch in what they termed the Prague Circle, which was part of a larger Prague Circle composed of German-Jewish writers.\n\n### Kafka's Work During 1914-1915\n\nAfter completing \"In the Penal Colony\" in late 1914, Kafka returned to several other stories in various stages of completion. He completed few works between the winters of 1914, when he produced \"In the Penal Colony,\" and of 1916, when he wrote \"A Country Doctor\".\n\nThe story \"The Stoker,\" later incorporated in his fragmentary novel Amerika, was awarded the Fontane Prize in 1915, his first public recognition. The engagement to Felice Bauer was officially announced in June 1914, only to be dissolved six weeks later.\n\n### The Bureaucratic State\n\nAuthors active in Prague under the late Empire, whether writing in German or in Czech, were well placed to capture the atmosphere of a police state administered by an impenetrable bureaucracy.\n\nOpinions ranged from the notion that he satirised the bureaucratic bungling of a crumbling Austro-Hungarian Empire, to the belief that he embodied the rise of socialism.\n\nThis cultural environment of Prague in 1914-1915 - with its complex ethnic tensions, bureaucratic oppression, wartime anxieties, and paradoxical cultural flowering within the Jewish community - profoundly shaped Kafka's worldview and literary works during this crucial period."
+    ],
+    "durationSeconds": 52.07153429900016
+  }
+}

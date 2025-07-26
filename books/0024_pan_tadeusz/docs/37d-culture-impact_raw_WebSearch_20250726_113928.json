@@ -1,0 +1,62 @@
+{
+  "session_id": "8e510ca3-dab1-4e58-b10a-336d368b79a7",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e510ca3-dab1-4e58-b10a-336d368b79a7.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Pan Tadeusz Adam Mickiewicz Uniwersytet Warszawski Jagiello\u0144ski Pozna\u0144ski Polish academic research"
+  },
+  "tool_response": {
+    "query": "Pan Tadeusz Adam Mickiewicz Uniwersytet Warszawski Jagiello\u0144ski Pozna\u0144ski Polish academic research",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_015EwSCqK1ZSbUrgss1uT25R",
+        "content": [
+          {
+            "title": "Adam Mickiewicz University in Pozna\u0144 - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Adam_Mickiewicz_University_in_Pozna%C5%84"
+          },
+          {
+            "title": "About AMU | Adam Mickiewicz University, Pozna\u0144, Poland",
+            "url": "https://amu.edu.pl/en"
+          },
+          {
+            "title": "##RECENZENCI##",
+            "url": "https://journals.us.edu.pl/index.php/SSP/recenzenci"
+          },
+          {
+            "title": "ADAM MICKIEWICZ UNIVERSITY IN POZNA\u0143 \u2013 The 23rd Congress",
+            "url": "https://ichs2020poznan.pl/en/adam-mickiewicz-university-in-poznan/"
+          },
+          {
+            "title": "Manuscript of 40 verses of Mickiewicz\u2019s \u201cPan Tadeusz\u201d \u2013 European Romanticisms in Association",
+            "url": "https://www.euromanticism.org/manuscript-of-40-verses-of-mickiewiczs-pan-tadeusz/"
+          },
+          {
+            "title": "Adam Mickiewicz University, Poznan | study.gov.pl",
+            "url": "https://study.gov.pl/university/adam-mickiewicz-university-poznan"
+          },
+          {
+            "title": "Adam Mickiewicz University, Pozna\u0144 : Rankings, Fees & Courses Details | Top Universities",
+            "url": "https://www.topuniversities.com/universities/adam-mickiewicz-university-poznan"
+          },
+          {
+            "title": "Adam Mickiewicz - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Adam_Mickiewicz"
+          },
+          {
+            "title": "Adam Mickiewicz University in Pozna\u0144",
+            "url": "https://www.gbif.org/grscicoll/institution/4be58e31-b023-41c1-a813-52af1df2bbeb"
+          },
+          {
+            "title": "Adam Mickiewicz University, Pozna\u0144 - Study in Poland",
+            "url": "https://www.studyinpoland.pl/en/university?school=17"
+          }
+        ]
+      },
+      "I've found search results that provide information about the connections between Pan Tadeusz, Adam Mickiewicz, and Polish universities. Here's what the search revealed:\n\n## Key Findings\n\n**Adam Mickiewicz and Pan Tadeusz:**\nAdam Mickiewicz is known chiefly for the poetic drama Dziady (Forefathers' Eve) and the national epic poem Pan Tadeusz, which he published in 1834. Pan Tadeusz is an epic poem that draws a picture of the Grand Duchy of Lithuania on the eve of Napoleon's 1812 invasion of Russia. Pan Tadeusz won acclaim as \"the highest achievement in all Polish literature\".\n\n**Adam Mickiewicz University in Pozna\u0144:**\nThe Adam Mickiewicz University is a research university in Pozna\u0144, Poland. In 1955 University of Pozna\u0144 adopted a new patron, the 19th-century Polish Romantic poet Adam Mickiewicz, and changed to its current name. AMU is proud to bear the name of Adam Mickiewicz \u2013 the Polish iconic bard who believed strongly in a free, multicultural Poland and was one of the most important poets of European Romanticism.\n\n**Polish Universities and Academic Standing:**\nToday, Adam Mickiewicz university, next to the University of Warsaw and The Jagiellonian University, is one of the biggest and best institutions of higher education in Poland. Due to its history, the university is traditionally considered among Poland's most reputable institutions of higher learning, this standing equally being reflected in national rankings.\n\n**Academic Research:**\nThe search results show that scholars from Uniwersytet Adama Mickiewicza w Poznaniu and Uniwersytet Jagiello\u0144ski w Krakowie are actively involved in academic research, particularly in literary studies. The results also indicate research collaboration involving Uniwersytet Warszawski.\n\nThe search confirms strong academic connections between these major Polish universities (Warsaw, Jagiellonian, and Adam Mickiewicz) and their involvement in research related to Polish literature, including works by Adam Mickiewicz like Pan Tadeusz."
+    ],
+    "durationSeconds": 17.592980611999984
+  }
+}

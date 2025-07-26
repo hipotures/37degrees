@@ -1,0 +1,62 @@
+{
+  "session_id": "256f845f-ddd5-4027-a9c2-755ec8659a89",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/256f845f-ddd5-4027-a9c2-755ec8659a89.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Robinsonade genre Robinson Crusoe inspired Swiss Family Robinson Lord of the Flies survival literature"
+  },
+  "tool_response": {
+    "query": "Robinsonade genre Robinson Crusoe inspired Swiss Family Robinson Lord of the Flies survival literature",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01Bs6EYMc7ePLT7eQiMC72sG",
+        "content": [
+          {
+            "title": "Robinsonade - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Robinsonade"
+          },
+          {
+            "title": "Robinson Crusoe - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Robinson_Crusoe"
+          },
+          {
+            "title": "The motif of robinsonades in 'Lord of the flies' - GRIN | Grin",
+            "url": "https://www.grin.com/document/189299"
+          },
+          {
+            "title": "Robinsonade | Adventure, Survival & Exploration | Britannica",
+            "url": "https://www.britannica.com/art/robinsonade"
+          },
+          {
+            "title": "The Swiss Family Robinson - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Swiss_Family_Robinson"
+          },
+          {
+            "title": "Robinsonade Shelf",
+            "url": "https://www.goodreads.com/genres/robinsonade"
+          },
+          {
+            "title": "Lord of the Flies: Literary Context Essay: Lord of the Flies and Adventure Stories | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/flies/context/literary/lord-of-the-flies-and-adventure-stories/"
+          },
+          {
+            "title": "Robinsonade Books",
+            "url": "https://www.goodreads.com/shelf/show/robinsonade"
+          },
+          {
+            "title": "The motif of robinsonades in 'Lord of the flies': A comparison of 'Robinson Crusoe' and 'Lord of the flies': Diedrich, Julia: 9783656134923: Amazon.com: Books",
+            "url": "https://www.amazon.com/motif-robinsonades-Lord-flies/dp/3656134928"
+          },
+          {
+            "title": "Save the Adventure (1) \u2013 HILOBROW",
+            "url": "https://www.hilobrow.com/2013/09/30/robinsonade/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about the Robinsonade genre and its connection to the works mentioned in your query.\n\n## The Robinsonade Genre\n\nRobinsonade is a literary genre of fiction wherein the protagonist is suddenly separated from civilization, usually by being shipwrecked or marooned on a secluded and uninhabited island, and must improvise the means of their survival from the limited resources at hand. The genre takes its name from the 1719 novel Robinson Crusoe by Daniel Defoe.(no content)The word \"robinsonade\" was coined by the German writer Johann Gottfried Schnabel in the Preface of his 1731 work Die Insel Felsenburg (The Island Stronghold).(no content)The success of this novel spawned so many imitations that its name was used to define a genre, which is sometimes described simply as a \"desert island story\" or a \"castaway narrative\".(no content)It is often viewed as a subgenre of survivalist fiction.\n\n## Key Themes and Characteristics\n\nCommon themes of Robinsonade works include the protagonists being in a state of isolation (e.g. on a desert island or an uninhabited planet), a new beginning for the work's characters, self-reflection as a plot point, contact with indigenous peoples or extraterrestrial life and social commentary.(no content)The protagonist survives by his wits and the qualities of his cultural upbringing, which also enable him to prevail in conflicts with fellow castaways or over local peoples he may encounter. However, he manages to wrest survival and even a certain amount of civilisation from the wilderness.\n\n## The Swiss Family Robinson\n\nOne of the best known robinsonades is The Swiss Family Robinson (1812\u201327) by Johann David Wyss, in which a shipwrecked clergyman, his wife, and his four sons manage not only to survive on their island but also to discover the good life.(no content)The book is the most successful of a large number of \"Robinsonade\" novels that were written in response to the success of Daniel Defoe's Robinson Crusoe (1719).(no content)The German title translates as The Swiss Robinson which identifies the novel as part of the Robinsonade genre, rather than a story about a family named Robinson.\n\n## Lord of the Flies and the Genre\n\nThe relationship between William Golding's \"Lord of the Flies\" and the Robinsonade genre is complex and debated among scholars. Works that followed went both in the more utopian direction (The Swiss Family Robinson) and the dystopian direction (Lord of the Flies).(no content)For most literary scholars the latter definitely is a robinsonade, which is a general term used for narrations and novels written and published after Defoe\u00b4s Robinson Crusoe. For others it is not seen as such, and some just see parts of this genre in the novel.(no content)Lord of the Flies is an allegorical novel, it draws a great deal from adventure literature, a genre that pits humans against nature to explore the personality traits necessary for the survival of the species. Both William Golding and his fictional characters were familiar with Robinsonades, a 19th century genre that took its name from Daniel Defoe's desert island novel.\n\n## Evolution and Modern Examples\n\nThe genre has evolved significantly since its origins. In the 20th century the flowering of science fiction produced a new type of robinsonade in which castaways struggle to survive in outer space or on distant planets.(no content)A more recent example is Andy Weir's 2011 The Martian.\n\nThe Robinsonade genre continues to influence contemporary literature, representing humanity's eternal fascination with survival, isolation, and the triumph of human ingenuity over adverse circumstances."
+    ],
+    "durationSeconds": 34.11838209099695
+  }
+}

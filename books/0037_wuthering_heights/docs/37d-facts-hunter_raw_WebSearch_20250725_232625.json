@@ -1,0 +1,62 @@
+{
+  "session_id": "95239c3a-5fbf-4fbf-93f7-3afd6ea78885",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/95239c3a-5fbf-4fbf-93f7-3afd6ea78885.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Wuthering Heights academic criticism literary analysis scholarly books journals MLA feminist psychological interpretation"
+  },
+  "tool_response": {
+    "query": "Wuthering Heights academic criticism literary analysis scholarly books journals MLA feminist psychological interpretation",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01F88Y6itrBk1vgqAu6jpHse",
+        "content": [
+          {
+            "title": "An Analysis of the Problem of Perception in Emily Bronte's ...",
+            "url": "https://scholarworks.calstate.edu/downloads/7s75dj602"
+          },
+          {
+            "title": "Alternative Interpretations of Wuthering Heights | Study.com",
+            "url": "https://study.com/academy/lesson/alternative-interpretations-of-wuthering-heights.html"
+          },
+          {
+            "title": "(PDF) Feminist Literary Criticism and Wuthering Heights | sandeep kumar - Academia.edu",
+            "url": "https://www.academia.edu/33410764/Feminist_Literary_Criticism_and_Wuthering_Heights"
+          },
+          {
+            "title": "Feminist Literary Criticism and Wuthering Heights",
+            "url": "https://euacademic.org/UploadArticle/1188.pdf"
+          },
+          {
+            "title": "The Radical Politics of Wuthering Heights \u2013 Journal of Victorian Culture Online",
+            "url": "https://jvc.oup.com/2020/03/24/the-radical-politics-of-wuthering-heights/"
+          },
+          {
+            "title": "Analysis of Emily Bront\u00eb\u2019s Wuthering Heights \u2013 Literary Theory and Criticism",
+            "url": "https://literariness.org/2019/03/25/analysis-of-emily-brontes-wuthering-heights/"
+          },
+          {
+            "title": "(PDF) A Study of Wuthering Heights from the Perspective of Eco-Criticism",
+            "url": "https://www.academia.edu/49188349/A_Study_of_Wuthering_Heights_from_the_Perspective_of_Eco_Criticism"
+          },
+          {
+            "title": "Seattleu",
+            "url": "https://scholarworks.seattleu.edu/cgi/viewcontent.cgi?article=1101&context=suurj"
+          },
+          {
+            "title": "Wuthering Heights - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Wuthering_Heights"
+          },
+          {
+            "title": "Self-Education and Narrative Power in Emily Bront\u00eb\u2019s Wuthering Heights: (Re)Discovering Marginal Women Characters | American & British Studies Annual",
+            "url": "https://absa.upce.cz/index.php/absa/article/view/2502"
+          }
+        ]
+      },
+      "Based on my search, I found several valuable academic resources for scholarly criticism and literary analysis of Emily Bront\u00eb's *Wuthering Heights*. Here's what the search revealed:\n\n## Feminist Literary Criticism\nThe feminist approach to interpretation looks at a story using feminist theory, exploring how themes, plots, characters, or other components of a story may reinforce the oppression of women and support the inherent patriarchy of society.(no content)If we interpret Wuthering Heights this way, we can get a deeper understanding of Catherine. She is more than just a young girl in love. Because of the patriarchal politics of Victorian England, Catherine's own desires are repressed - she cannot, because she is a woman, choose who she weds because men rule all aspects of her life.\n\nThe privileged attention to its romance overlooks Bront\u00eb's depiction of the strangulating effect on Wuthering Heights's Catherine Earnshaw as she transforms from a brash child to a woman enmeshed within the patriarchy's physical and mental violence, and Heathcliff's descent into his position of oppressor.\n\n## Psychological Interpretation\nThere are many different types of lit theory including: Formalism, Post-Structuralism, Marxism, New Historicism, Deconstruction, Reader Response, Feminist, and Psychoanalytical. We'll focus on three interpretations: Feminist, Formalist, and Marxist.\n\n## Scholarly Resources and Citations\nThe search found several academic papers available through scholarly platforms:\n\n- **Academia.edu**: \"Feminist Literary Criticism and Wuthering Heights\" published in JELTL (Journal of English Language Teaching and Linguistics)\n- **European Academic Research**: The variety of research domains covered by our journal is a challenging invitation to dialogue and potential interdisciplinary collaborative projects\n- **American & British Studies Annual**: Despite the secure position of Emily Bront\u00eb's Wuthering Heights (1847) in academic and popular culture... This study argues that in Wuthering Heights reading, writing, education, and learning resist a unified interpretation, but nonetheless can provide a compass for navigating its unwieldy narrative.\n\n## Literary Analysis Approaches\nWuthering Heights is constructed around a series of dialectic motifs that interconnect and unify the elements of setting, character, and plot. An examination of these motifs will give the reader the clearest insight into the central meaning of the novel.(no content)Although Wuthering Heights is a \"classic,\" as Frank Kermode has noted, precisely because it is open to many different critical methods and conducive to many levels of interpretation, the novel grows from a coherent imaginative vision that underlies all the motifs. That vision demonstrates that all human perception is limited and failed.\n\n## Additional Critical Perspectives\nThe search also revealed eco-critical approaches: This research paper attempts to explore the novel, Wuthering Heights, through the lens of Eco criticism and it explores the relationship between human and nature in the novel.\n\nThese resources provide a solid foundation for MLA-style academic research on *Wuthering Heights*, covering feminist, psychological, and other critical approaches through peer-reviewed journals and scholarly publications."
+    ],
+    "durationSeconds": 29.694731504999975
+  }
+}

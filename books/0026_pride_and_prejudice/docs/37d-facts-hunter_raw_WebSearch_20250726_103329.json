@@ -1,0 +1,62 @@
+{
+  "session_id": "4029c48e-0ae1-4fb8-ac64-0a5ca0afe9c3",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/4029c48e-0ae1-4fb8-ac64-0a5ca0afe9c3.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "polscy m\u0142odzi czytelnicy \"Duma i uprzedzenie\" TikTok BookTok polska m\u0142odzie\u017c Elizabeth Bennet"
+  },
+  "tool_response": {
+    "query": "polscy m\u0142odzi czytelnicy \"Duma i uprzedzenie\" TikTok BookTok polska m\u0142odzie\u017c Elizabeth Bennet",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_017xDNhHqRuxPTTHbSacK4uV",
+        "content": [
+          {
+            "title": "200 lat temu ukaza\u0142a si\u0119 \"Duma i uprzedzenie\" | dzieje.pl - Historia Polski",
+            "url": "https://dzieje.pl/kultura-i-sztuka/200-lat-temu-ukazala-sie-duma-i-uprzedzenie"
+          },
+          {
+            "title": "\u201eDuma i uprzedzenie\u201d \u2013 recenzja \u2013 YOUTHVOICE",
+            "url": "https://www.lo.kopernik.jaroslaw.pl/youthvoice/2020/12/12/duma-i-uprzedzenie-recenzja/"
+          },
+          {
+            "title": "Duma i uprzedzenie \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Duma_i_uprzedzenie"
+          },
+          {
+            "title": "Duma i uprzedzenie",
+            "url": "https://www.netflix.com/title/70032594"
+          },
+          {
+            "title": "CzyTa Maja: Duma i uprzedzenie - czyli przerysowana przesz\u0142o\u015b\u0107",
+            "url": "https://czytamaja.pl/duma-i-uprzedzenie-czyli-przerysowana-przeszlosc/"
+          },
+          {
+            "title": "200 lat temu zosta\u0142a wydana \"Duma i uprzedzenie\", najbardziej znana powie\u015b\u0107 Jane Austen",
+            "url": "https://wpolityce.pl/polityka/149614-200-lat-temu-zostala-wydana-duma-i-uprzedzenie-najbardziej-znana-powiesc-jane-austen"
+          },
+          {
+            "title": "Rusza klub ksi\u0105\u017cki na TikToku. \u201eTo uk\u0142on w stron\u0119 czytelnik\u00f3w\u201d | Aktualno\u015bci | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/rusza-klub-ksiazki-na-tiktoku-to-uklon-w-strone-czytelnikow"
+          },
+          {
+            "title": "Duma i uprzedzenie (2005) - Filmweb",
+            "url": "https://www.filmweb.pl/film/Duma+i+uprzedzenie-2005-125487"
+          },
+          {
+            "title": "Duma I Uprzedzenie \u015awiat Ksi\u0105zki",
+            "url": "https://www.tiktok.com/discover/duma-i-uprzedzenie-\u015bwiat-ksi\u0105zki"
+          },
+          {
+            "title": "Nieortodoksyjny.: Duma i Uprzedzenie- Jane Austen",
+            "url": "http://nieortodoksyjny.blogspot.com/2015/09/duma-i-uprzedzenie-jane-austen.html"
+          }
+        ]
+      },
+      "I've performed a web search for the query about Polish young readers of \"Pride and Prejudice\" on TikTok and BookTok. The search results provide some relevant information about Polish readership of Jane Austen's classic novel and the BookTok phenomenon, though the specific intersection of Polish youth and TikTok discussion of the book appears limited in the results.\n\nHere's what I found:\n\n## Polish BookTok and Reading Community\n\nThe #booktok hashtag has over 65 billion views, and TikTok has decided to harness the enthusiasm of book lovers for creating content on the platform. Users often read classic novels like \"Pride and Prejudice\" or \"The Great Gatsby\", and Jane Austen has a huge fan base on TikTok - the #AustenTok hashtag has over 16.2 million views.\n\n## Polish Young Readers' Perspectives\n\nThe search revealed some Polish young readers' reviews and perspectives on \"Pride and Prejudice\":\n\nA Polish student recently decided to read Pride and Prejudice at a friend's suggestion and was positively surprised, despite expecting dense 19th-century prose. Rather than being another weak, clich\u00e9d romance, the novel features unconventional characters and a plot far from literary clich\u00e9s that often left the reader reading subsequent chapters with mouth wide open.\n\nThe language is pleasant and despite the book being published two centuries ago, it seemed quite contemporary, and Pride and Prejudice can be considered a timeless novel due to the problems it addresses.\n\n## Elizabeth Bennet's Appeal\n\nThe author claimed that first impressions are often misleading and only closer acquaintance can dramatically change one's opinion about a given person - words that everyone should take to heart, especially in today's times. Female readers often found confirmation in the novel that one doesn't need to be rich and beautiful to find happiness - intelligence, honesty, sincerity, sense of humor and natural charm are enough - qualities that the fictional Elizabeth possesses.\n\nWhile the search didn't yield extensive specific content about Polish youth discussing Elizabeth Bennet on TikTok, it shows that Polish young readers are engaging with Jane Austen's work and finding it relevant to contemporary times, with the broader BookTok community celebrating classic literature including \"Pride and Prejudice.\""
+    ],
+    "durationSeconds": 19.303977879993617
+  }
+}

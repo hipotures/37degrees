@@ -1,0 +1,63 @@
+{
+  "session_id": "38d2c10d-061a-4607-b249-863b58008013",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/38d2c10d-061a-4607-b249-863b58008013.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "literatura przygodowa dla dzieci Polska XX wiek Stevenson wp\u0142yw piraci"
+  },
+  "tool_response": {
+    "query": "literatura przygodowa dla dzieci Polska XX wiek Stevenson wp\u0142yw piraci",
+    "results": [
+      "I'll perform a web search for that query about Polish adventure literature for children in the 20th century and Stevenson's influence on pirate themes.",
+      {
+        "tool_use_id": "srvtoolu_011thAkiLMEBhN2NxFe64oX6",
+        "content": [
+          {
+            "title": "Wyspa skarb\u00f3w. Powie\u015b\u0107 przygodowa o piratach - Robert Louis Stevenson | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/4827690/wyspa-skarbow-powiesc-przygodowa-o-piratach"
+          },
+          {
+            "title": "Wyspa skarb\u00f3w \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Wyspa_skarb%C3%B3w"
+          },
+          {
+            "title": "Literatura dla dzieci i m\u0142odzie\u017cy \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Literatura_dla_dzieci_i_m\u0142odzie\u017cy"
+          },
+          {
+            "title": "Wyspa skarb\u00f3w. Powie\u015b\u0107 przygodowa o piratach - Robert Louis Stevenson - ebook - Legimi online",
+            "url": "https://www.legimi.pl/ebook-wyspa-skarbow-powiesc-przygodowa-o-piratach-robert-louis-stevenson,b61169.html"
+          },
+          {
+            "title": "Wyspa skarb\u00f3w. Powie\u015b\u0107 przygodowa o piratach - Stevenson Robert Louis | Ebook Sklep EMPIK.COM",
+            "url": "https://www.empik.com/wyspa-skarbow-powiesc-przygodowa-o-piratach-stevenson-robert-louis,p1084855287,ebooki-i-mp3-p"
+          },
+          {
+            "title": "Ksi\u0105\u017cki o piratach - Empik",
+            "url": "https://www.empik.com/ksiazki/ksiazki-o-piratach"
+          },
+          {
+            "title": "Wyspa skarb\u00f3w. Powie\u015b\u0107 przygodowa o piratach - Robert Louis Stevenson (eBook) - Ksi\u0119garnia Medyczna PZWL",
+            "url": "https://pzwl.pl/Wyspa-skarbow.-Powiesc-przygodowa-o-piratach,14603468,p.html"
+          },
+          {
+            "title": "Literatura w XX wieku - Materia\u0142y dodatkowe \u2013 galeria wiedzy Wydawnictwa Naukowego PWN",
+            "url": "https://encyklopedia.pwn.pl/materialy-dodatkowe/haslo/Literatura-w-XX-wieku;448866.html"
+          },
+          {
+            "title": "M\u00f3j Top 10 ksi\u0105\u017cek przygodowych \u2013 Inna Wile\u0144szczyzna jest mo\u017cliwa",
+            "url": "https://rojsty.wordpress.com/2014/08/11/moj-top-10-ksiazek-przygodowych/"
+          },
+          {
+            "title": "Wyspa skarb\u00f3w. Powie\u015b\u0107 przygodowa o piratach - Robert Louis Stevenson (eBook) - Ksi\u0119garnia PWN",
+            "url": "https://ksiegarnia.pwn.pl/Wyspa-skarbow.-Powiesc-przygodowa-o-piratach,68915182,p.html"
+          }
+        ]
+      },
+      "Based on the search results, I found information about adventure literature for children in Polish, particularly focusing on Stevenson's influence on pirate-themed literature. Here's what the search revealed:\n\n## Robert Louis Stevenson's Influence on Polish Adventure Literature\n\nStevenson's \"Treasure Island\" (Wyspa skarb\u00f3w) is a adventure novel by the Scottish writer Robert Louis Stevenson telling the story of pirates searching for hidden treasure, first published in its entirety in 1883, and previously serialized in 1881-1882 in the children's magazine \"Young Folks\".\n\nStevenson came up with the idea of writing Treasure Island when he drew a map for his twelve-year-old stepson Lloyd Osbourne for fun and simultaneously invented a story about pirates to explain it. He then began successively writing the adventure story, which was published in installments in a children's periodical.\n\n## Stevenson's Place in Children's Literature\n\nThe Englishman Robert Louis Stevenson was the author of several adventure novels for youth, among which are: Treasure Island (published 1883), Kidnapped (published 1886), and The Strange Case of Dr. Jekyll and Mr. Hyde (published 1886).\n\n## Polish Adventure Literature Context\n\nThe search revealed information about Polish children's literature development, showing that one of the first Polish writers who began publishing with children and youth in mind was Klementyna Hoffmanowa, creator of the first Polish children's magazine titled \"Rozrywki dla Dzieci\" (Entertainment for Children), published from 1824-1828, featuring poems, fairy tales and stories for children with mainly patriotic and educational themes.\n\n## Pirate Literature Popularity\n\nThe results show that pirate adventure literature, exemplified by works like Rafael Sabatini's \"Captain Blood,\" was considered among the best introductions to the world of corsairs, pirates, buccaneers and Spanish-French-Dutch-English rivalry in the Caribbean in the 17th century. However, there's mention of a \"complicated relationship\" with Robert Louis Stevenson's work among some Polish readers.\n\nThe search results primarily focus on Stevenson's \"Treasure Island\" and its influence, but don't provide extensive detail about specific Polish adventure literature from the 20th century that was directly influenced by Stevenson's pirate themes. The results suggest that while Stevenson's work was known and translated into Polish, the specific impact on Polish 20th-century children's adventure literature would require more targeted research."
+    ],
+    "durationSeconds": 20.551962772000117
+  }
+}

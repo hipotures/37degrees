@@ -1,0 +1,62 @@
+{
+  "session_id": "0f8759f7-b95e-4668-a90a-18f4c93b0e9d",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0f8759f7-b95e-4668-a90a-18f4c93b0e9d.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "One Hundred Years of Solitude magical realism influence contemporary writers 2024 2025"
+  },
+  "tool_response": {
+    "query": "One Hundred Years of Solitude magical realism influence contemporary writers 2024 2025",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01AJ1J2ZCqq3buFe3CJu5NAL",
+        "content": [
+          {
+            "title": "One Hundred Years of Solitude: A Journey Through Time, Magic, and Reality",
+            "url": "https://www.abookgeek.com/one-hundred-years-of-solitude-a-journey-through-time-magic-and-reality/"
+          },
+          {
+            "title": "One Hundred Years of Solitude | Introduction & Summary | Britannica",
+            "url": "https://www.britannica.com/topic/One-Hundred-Years-of-Solitude"
+          },
+          {
+            "title": "Magical Realism Review: One Hundred Years of Solitude by Gabriel Garc\u00eda M\u00e1rquez - Tar Vol on",
+            "url": "https://www.tarvolon.com/2025/01/19/magical-realism-review-one-hundred-years-of-solitude-by-gabriel-garcia-marquez/"
+          },
+          {
+            "title": "(PDF) Magical realism in 'One Hundred Years of Solitude' by",
+            "url": "https://www.academia.edu/60661869/Magical_realism_in_One_Hundred_Years_of_Solitude_by"
+          },
+          {
+            "title": "The book that sparked a revolution: One Hundred Years of Solitude, the literary masterpiece now adapted for TV",
+            "url": "https://theconversation.com/the-book-that-sparked-a-revolution-one-hundred-years-of-solitude-the-literary-masterpiece-now-adapted-for-tv-236697"
+          },
+          {
+            "title": "One Hundred Years of Solitude: A Masterpiece of Magical ...",
+            "url": "https://www.cliffsnotes.com/study-notes/15341211"
+          },
+          {
+            "title": "One Hundred Years of Solitude - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude"
+          },
+          {
+            "title": "Science as Magic in Netflix\u2019s One Hundred Years of Solitude | Science/Fiction",
+            "url": "https://vusf.wordpress.com/2025/01/24/science-as-magic-in-netflixs-one-hundred-years-of-solitude/"
+          },
+          {
+            "title": "One Hundred Years of Solitude: Garc\u00eda M\u00e1rquez\u2019s Masterpiece from Macondo with Samuel Rutter | The Center for Fiction",
+            "url": "https://centerforfiction.org/group-workshop/one-hundred-years-of-solitude-garcia-marquezs-masterpiece-from-macondo-with-samuel-rutter/"
+          },
+          {
+            "title": "Have you read 'One Hundred Years of Solitude' Gabriel ...",
+            "url": "https://www.facebook.com/nobelprize/posts/have-you-read-one-hundred-years-of-solitude-gabriel-garc%C3%ADa-m%C3%A1rquezs-masterpiece-/982384943923335/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about One Hundred Years of Solitude's influence on magical realism and contemporary writers in 2024-2025.\n\nGarc\u00eda M\u00e1rquez's masterful blend of the ordinary and the extraordinary popularized magical realism as a literary genre. This style has influenced writers worldwide. The novel continues to have a significant impact on contemporary literature, with One Hundred Years of Solitude inspiring a generation of internationally famous magical realist authors like Salman Rushdie, Isabel Allende, Eka Kurniawan, and Haruki Murakami.\n\nRecent developments in 2024-2025 have brought renewed attention to the work:\n\n**Television Adaptation**: In 2024 the novel was adapted into an acclaimed television series. More specifically, On December 11th, 2024 the impossible became a reality\u2014Gabriel Garc\u00eda Marquez's One Hundred Years of Solitude debuted on screen. Over six years, Netflix Latin America, the author's sons, and a crew of Colombian and Latino filmmakers translated the magical realism epic to screen for the first time ever, creating the most expensive television production in Latin American history.\n\n**Contemporary Literary Influence**: Melding modernist approaches with folklore, history and a startling ability to infuse the everyday with the sublime, One Hundred Years of Solitude is the gold standard of magic realism and continues to influence writers all around the world.\n\n**Critical Reception and Resistance**: The influence isn't universally embraced. This article analyzes the reaction against magical realism on the part of contemporary Latin American writers, such Juan Gabriel V\u00e1squez, the Mc Ondo group, especially Alberto Fuguet, and the Crack novelists. Additionally, a group of young Latin American authors in the 1990s rejected One Hundred Years of Solitude and started the \"McOndo\" movement to oppose it - though this shows the novel's continued relevance as something to either embrace or react against.\n\n**Netflix Adaptation's Cultural Impact**: Netflix's adaptation brings the locally and globally beloved Macondo to life with special attention to how the medium of film can define and represent magical realism for a contemporary audience. Capturing the central tensions between the old world and the new world, the insider and the outsider, tradition and innovation, and the cycles that bind them all together.\n\nThe novel's enduring influence demonstrates how Garc\u00eda M\u00e1rquez's magical realism continues to shape contemporary literature and media adaptations in 2024-2025."
+    ],
+    "durationSeconds": 20.79279003200005
+  }
+}

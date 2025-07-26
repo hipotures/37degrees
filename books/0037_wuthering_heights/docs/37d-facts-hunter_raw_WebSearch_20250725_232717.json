@@ -1,0 +1,62 @@
+{
+  "session_id": "95239c3a-5fbf-4fbf-93f7-3afd6ea78885",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/95239c3a-5fbf-4fbf-93f7-3afd6ea78885.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Wichrowe Wzg\u00f3rza szko\u0142a polska edukacja lektury gimnazjum liceum"
+  },
+  "tool_response": {
+    "query": "Wichrowe Wzg\u00f3rza szko\u0142a polska edukacja lektury gimnazjum liceum",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_018bnHmayF4EFnEg6ZUYoM2m",
+        "content": [
+          {
+            "title": "Lektury w programach dla szko\u0142y podstawowej z lat 1949-1989",
+            "url": "https://opus.us.edu.pl/docstore/download/USLb32b5b8427b44377a624d4fc50ea59a2/Jedrych_Lektury_w_programach_dla_szkoly_podstawowej.pdf?entityType=article"
+          },
+          {
+            "title": "Lista lektur",
+            "url": "http://www.ekola.edu.pl/gimnazjum/2018-2019/lista-lektur"
+          },
+          {
+            "title": "XX Liceum Og\u00f3lnokszta\u0142c\u0105ce - Pozna\u0144 - Nab\u00f3r - PCSS",
+            "url": "https://nabor.pcss.pl/poznan/szkolaponadpodstawowa/Info/64394"
+          },
+          {
+            "title": "LISTA LEKTUR szkolnych dla liceum i technikum - Dziennik.pl",
+            "url": "https://edukacja.dziennik.pl/aktualnosci/artykuly/548567,lista-lektur-w-liceum-aktualna-kompletny-wykaz.html"
+          },
+          {
+            "title": "Lista lektur szkolnych 2024/2025 \u2013 Lektury do szko\u0142y podstawowej 2024/2025 i lektury do liceum 2024/2025",
+            "url": "https://www.listalektur.pl/"
+          },
+          {
+            "title": "Wykaz lektur - O\u015brodek Rozwoju Polskiej Edukacji za Granic\u0105",
+            "url": "https://www.orpeg.pl/ksztalcenie-na-odleglosc/liceum-ogolnoksztalcace/wykaz-lektur/"
+          },
+          {
+            "title": "Xx Liceum Og\u00f3lnokszta\u0142c\u0105ce, Osiedle Wichrowe Wzg\u00f3rze 111, Pozna\u0144",
+            "url": "https://www.eduranking.pl/szkola/xx-liceum-ogolnoksztalcace-poznan/"
+          },
+          {
+            "title": "Ore",
+            "url": "https://ore.edu.pl/wp-content/plugins/download-attachments/includes/download.php?id=23135"
+          },
+          {
+            "title": "Us\u0142uga wygas\u0142a",
+            "url": "http://www.liceum-gimnazjum.pl/"
+          },
+          {
+            "title": "Kontakt - Prywatne liceum dla doros\u0142ych - Pozna\u0144 os. Wichrowe Wzg\u00f3rze 111 - siedziba: Pozna\u0144, Kossaka 3",
+            "url": "http://www.liceum-gimnazjum.pl/prywatne-liceum-gimnazjum-kontakt.html"
+          }
+        ]
+      },
+      "Based on the search results, I found information related to \"Wichrowe Wzg\u00f3rza\" (Wuthering Heights) in the context of Polish school education and required reading lists. Here's what I found:\n\n\"Wichrowe wzg\u00f3rza\" by E. Bront\u00eb appears on reading lists for Polish schools, specifically mentioned in what appears to be a gymnasium reading list. The novel is listed among other classic works that students are expected to read.\n\nThe search also revealed information about schools located in the Wichrowe Wzg\u00f3rze area of Pozna\u0144, Poland:\n\nXX Liceum Og\u00f3lnokszta\u0142c\u0105ce is located at Osiedle Wichrowe Wzg\u00f3rze 111 in Pozna\u0144, and there's also a private school for adults offering high school and gymnasium education at the same address.\n\nThe search results show that new reading lists for high schools and technical schools became mandatory starting from the 2021/2022 school year, and there are updated reading lists for the 2024/2025 school year.\n\nEmily Bront\u00eb's \"Wuthering Heights\" (Wichrowe Wzg\u00f3rza in Polish) remains a part of the curriculum for Polish secondary education, appearing alongside other classic works of world literature that Polish students are required to read during their gymnasium and high school years."
+    ],
+    "durationSeconds": 14.092726584999996
+  }
+}

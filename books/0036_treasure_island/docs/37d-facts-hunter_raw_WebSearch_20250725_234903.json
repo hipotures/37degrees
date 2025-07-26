@@ -1,0 +1,62 @@
+{
+  "session_id": "38d2c10d-061a-4607-b249-863b58008013",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/38d2c10d-061a-4607-b249-863b58008013.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Treasure Island map symbolism cultural interpretations psychological meaning literary scholars"
+  },
+  "tool_response": {
+    "query": "Treasure Island map symbolism cultural interpretations psychological meaning literary scholars",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_017edHPt9HL9eSxScGFi5Uma",
+        "content": [
+          {
+            "title": "Symbolism in Treasure Island | Study.com",
+            "url": "https://study.com/academy/lesson/symbolism-in-treasure-island.html"
+          },
+          {
+            "title": "Literary Devices In Treasure Island \u270d\ufe0f",
+            "url": "https://litdevices.com/literature/treasure-island/"
+          },
+          {
+            "title": "Treasure Island - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Treasure_Island"
+          },
+          {
+            "title": "Themes in Treasure Island",
+            "url": "https://www.cliffsnotes.com/literature/t/treasure-island/critical-essays/themes-in-treasure-island"
+          },
+          {
+            "title": "Treasure Island: Symbols | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/treasure/symbols/"
+          },
+          {
+            "title": "Themes And Symbols In Robert Louis Stevenson's Treasure Island | Cram",
+            "url": "https://www.cram.com/essay/Themes-And-Symbols-In-Robert-Louis-Stevensons/FJ5BZXGHPR"
+          },
+          {
+            "title": "Treasure Island's Impact on Society, Literacy, and Pop Culture",
+            "url": "https://professorramos.blog/2019/07/30/treasure-islands-impact-on-society-literacy-and-pop-culture/"
+          },
+          {
+            "title": "The Map of Treasure Symbol in Treasure Island | LitCharts",
+            "url": "https://www.litcharts.com/lit/treasure-island/symbols/the-map-of-treasure"
+          },
+          {
+            "title": "Treasure Island Symbols & Motifs | SuperSummary",
+            "url": "https://www.supersummary.com/treasure-island/symbols-and-motifs/"
+          },
+          {
+            "title": "Treasure Island Literary Devices | LitCharts",
+            "url": "https://www.litcharts.com/lit/treasure-island/literary-devices/motif"
+          }
+        ]
+      },
+      "Based on the search results, I found comprehensive information about the symbolism of the treasure map in Robert Louis Stevenson's *Treasure Island* and its cultural, psychological, and literary interpretations by scholars. Here's what the research reveals:\n\n## The Treasure Map's Symbolic Significance\n\nThe treasure map represents goals and hope according to literary analysis, making it one of the most important symbols in the novel. The map represents the quest for an avowed desire that triggers an entire novel's plot.\n\n## Psychological and Cultural Interpretations\n\n### Quest Pattern and Universal Experience\nSome schools of psychology hold that the pattern is a figurative reflection of universal human experience and that such stories are thus deeply satisfying to readers at an unconscious level. The hero of such a story is often very young and innocent, in which case the quest is also a coming-of-age adventure. This is a coming-of-age story, and Jim is a boy who at its outset loses his father.\n\n### Complexity of Desire and Interpretation\nThe treasure map itself is not exactly clear: it includes several red crosses which are too large to pinpoint a specific place, as well as a set of directions that could be interpreted in a number of ways. The search after one's desires, the treasure map seems to suggest, is more complex than it seems at first, and requires not only persistence but the ability to interpret and respond to various challenges along the way.\n\n## Literary Scholars' Perspectives\n\n### Educational Value\nMichael Mendelson, professor of English at Iowa State University, believes that Long John Silver is the perfect character for classroom discussions to begin a deeper, more critical discussion of humanity. He describes the complex nature of Silver and his relationships teaching us abstract ideas about people and situations that can help us not only when studying literature, but also within our own lives outside of school.\n\n### Enduring Academic Interest\nOver the years, it's become a favorite of literary scholars for studying the complexities of characters, the themes within children's literature, and how to apply what we learn from stories to our own lives.\n\n## Cultural Impact and Interpretations\n\nSince its publication Treasure Island has significantly influenced depictions of pirates in popular culture, including elements such as deserted tropical islands, treasure maps marked with an \"X\", and one-legged seamen with parrots perched on their shoulders.\n\nThe treasure map in *Treasure Island* functions as a multifaceted symbol that operates on psychological, cultural, and literary levels, representing not just the promise of material wealth but the broader human quest for meaning, growth, and self-discovery."
+    ],
+    "durationSeconds": 17.769086303000105
+  }
+}

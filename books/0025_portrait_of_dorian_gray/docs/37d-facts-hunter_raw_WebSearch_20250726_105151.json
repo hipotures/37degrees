@@ -1,0 +1,62 @@
+{
+  "session_id": "7da3bbc0-2d10-4a7c-9f7d-e17950766dc1",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7da3bbc0-2d10-4a7c-9f7d-e17950766dc1.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Oscar Wilde influence literature psychology narcissism psychology today cultural impact adaptations"
+  },
+  "tool_response": {
+    "query": "Oscar Wilde influence literature psychology narcissism psychology today cultural impact adaptations",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_014SzM6Kx6Nj74Eh3KgNekJS",
+        "content": [
+          {
+            "title": "reflections of narcissism in three novels by oscar wilde, ...",
+            "url": "https://core.ac.uk/download/pdf/48535037.pdf"
+          },
+          {
+            "title": "(DOC) Narcissism in Literature: A Comparison and Narrative in Two Examples \u2013 Oscar Wilde's The Picture of Dorian Gray and Scott Fitzgerald's The Great Gatsby",
+            "url": "https://www.academia.edu/33162025/Narcissism_in_Literature_A_Comparison_and_Narrative_in_Two_Examples_Oscar_Wildes_The_Picture_of_Dorian_Gray_and_Scott_Fitzgeralds_The_Great_Gatsby"
+          },
+          {
+            "title": "The Conflict Between Aestheticism and Morality in Oscar Wilde\u2019s The Picture of Dorian Gray | Writing Program",
+            "url": "https://www.bu.edu/writingprogram/journal/past-issues/issue-1/duggan/"
+          },
+          {
+            "title": "The psychopathology of everyday narcissism: Oscar Wilde's ...",
+            "url": "https://liverpool.universitypressscholarship.com/view/10.5949/UPO9781846315404/upso-9780853238492-chapter-5"
+          },
+          {
+            "title": "Oscar Wilde Overview and Analysis | TheArtStory",
+            "url": "https://www.theartstory.org/influencer/wilde-oscar/"
+          },
+          {
+            "title": "A Discussion on Aestheticism in The Picture of Dorian Gray by Oscar Wilde | by Shana Chia | Medium",
+            "url": "https://medium.com/@shana.chia/a-discussion-on-aestheticism-in-the-picture-of-dorian-gray-by-oscar-wilde-15da36e5f023"
+          },
+          {
+            "title": "How does Oscar Wilde\u2019s novel \u2018The Picture of Dorian Gray\u2019 reveal insights into narcissistic personality disorder? - Quora",
+            "url": "https://www.quora.com/How-does-Oscar-Wilde-s-novel-The-Picture-of-Dorian-Gray-reveal-insights-into-narcissistic-personality-disorder"
+          },
+          {
+            "title": "Oscar Wilde \u2013 Decadence and the Making of Modernism",
+            "url": "https://sites.nd.edu/oascarwilde/"
+          },
+          {
+            "title": "Project MUSE - Taking One to Know One: Oscar Wilde and Narcissism",
+            "url": "https://muse.jhu.edu/article/694589/summary"
+          },
+          {
+            "title": "The psychopathology of everyday narcissism: Oscar Wilde's picture (Chapter 3) - Labyrinths of Deceit",
+            "url": "https://www.cambridge.org/core/books/abs/labyrinths-of-deceit/psychopathology-of-everyday-narcissism-oscar-wildes-picture/7E3A4DCFD291FF43041DE1C7468507BF"
+          }
+        ]
+      },
+      "Based on my search, I found extensive information about Oscar Wilde's influence on literature, psychology, and cultural understanding of narcissism. Here's what the research reveals:\n\n## Oscar Wilde's Literary and Psychological Influence\n\nOscar Wilde was a nineteenth-century Irish poet and playwright, one of the most influential and celebrated. Associated with the Aesthetic Movement, he connected to the visual arts of his time, especially via Whistler and Ruskin.(no content)By liberating English literature from its Victorian preconceptions, he helped align British culture with the modernist values emerging on the European continent.\n\n### Narcissism in Wilde's Work\n\nThis article explores the concept of narcissism as depicted in Oscar Wilde's \"The Picture of Dorian Gray\" and Scott Fitzgerald's \"The Great Gatsby.\" Utilizing psychoanalytic theory, it examines how each protagonist embodies traits of narcissism influenced by their cultural contexts. The analysis argues that Wilde and Fitzgerald employ their characters to critique societal values and the pervasive self-centeredness of the modern man.(no content)In his pursuit of his own pleasures, a distinctly narcissistic attitude emerges, and the incompatibility of morality and unconditional aestheticism becomes all the more apparent.(no content)Basil also showcases another tenet of Aestheticism which is the \"idolatry\" he feels towards Dorian's beauty and tries to replicate in his portrait, while Dorian's appreciation of his own youthful beauty, which is the primary subject of the book, is so extreme that he makes 'the devil's bargain' to trade his soul for the beauty in the portrait.\n\n### Psychology and Cultural Impact\n\nMichael Warner has argued that, by the beginning of the twentieth century, homoerotics had become \"an unrecognized version of autoerotics, or more precisely, of narcissism; both [were] seen as essentially an interest in the self rather than in the other\", and \"Narcissism\" is that spectacularly wide-ranging charge whose moral weight is still often unmitigated, and which still often centres on the designation and condemnation of the modern Western gay man.\n\n### Contemporary Cultural Relevance\n\nToday, the book is appreciated as a Literary masterpiece alongside other similar popular texts such as The Scarlet Letter and other books by Charles Dickens. Personally, I believe that the novel is appreciated globally due to its superb writing style and historical context. Its 4.1 stars rating on Goodreads (goodread.com) is a testament to its positive reception among mainstream audiences who are able to appreciate the main theme of Aestheticism, amongst others such as Vanity and Narcissism which are perhaps more relevant to the contemporary world.\n\n### Modern Adaptations and Legacy\n\nWriter, director and thespian, Rupert Everett wrote, directed, and starred as Wilde in The Happy Prince (2018), the latest in a long line of filmed adaptations of Wilde's life. Wilde's star, which today burns brightest within the gay/queer community, has never diminished, however, and his legacy - exemplified by two classics of English literature, the Gothic novel The Picture of Dorian Gray and the stage satire, The Importance of Being Earnest - prevails through screen biographies and countless reinterpretations of his works.\n\nThe search reveals that Wilde's exploration of narcissism in \"The Picture of Dorian Gray\" has had a lasting impact on both literary criticism and psychological discourse, with scholars continuing to analyze how his work anticipated modern understanding of narcissistic personality traits and their cultural implications."
+    ],
+    "durationSeconds": 30.220580182999374
+  }
+}

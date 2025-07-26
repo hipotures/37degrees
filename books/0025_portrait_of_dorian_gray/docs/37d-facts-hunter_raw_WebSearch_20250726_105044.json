@@ -1,0 +1,62 @@
+{
+  "session_id": "7da3bbc0-2d10-4a7c-9f7d-e17950766dc1",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7da3bbc0-2d10-4a7c-9f7d-e17950766dc1.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Picture of Dorian Gray influence psychological horror genre modern literature"
+  },
+  "tool_response": {
+    "query": "Picture of Dorian Gray influence psychological horror genre modern literature",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_017dztj8T7XJ86n6rkUU8G72",
+        "content": [
+          {
+            "title": "The Picture of Dorian Gray - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Picture_of_Dorian_Gray"
+          },
+          {
+            "title": "Story Skeleton\u2014The Picture of Dorian Gray",
+            "url": "https://darlingaxe.com/blogs/news/dorian-gray"
+          },
+          {
+            "title": "The Picture of Dorian Gray:",
+            "url": "https://www.literature-no-trouble.com/the-picture-of-dorian-gray-the-novel/"
+          },
+          {
+            "title": "Gothic Horror: The Picture of Dorian Gray by Oscar Wilde",
+            "url": "https://blog.flametreepublishing.com/fantasy-gothic/bid/72012/Gothic-Horror-The-Picture-of-Dorian-Gray-by-Oscar-Wilde"
+          },
+          {
+            "title": "The Horror of Dorian Gray: The use of horror to bring Dorian Gray to a 21st century audience | Taswegian Words",
+            "url": "https://taswegianwords.wordpress.com/2015/07/24/the-horror-of-dorian-gray-the-use-of-horror-to-bring-dorian-gray-to-a-21st-century-audience-2/"
+          },
+          {
+            "title": "The Picture of Dorian Gray by Oscar Wilde - 10/31 Consortium",
+            "url": "https://1031consortium.com/books/dorian-gray/"
+          },
+          {
+            "title": "Is The Picture of Dorian Gray really one of the best classic in terms of the story, or am I just found myself being tricked by TikTok (I\u2019m not a fan of the book)? - Quora",
+            "url": "https://www.quora.com/Is-The-Picture-of-Dorian-Gray-really-one-of-the-best-classic-in-terms-of-the-story-or-am-I-just-found-myself-being-tricked-by-TikTok-I-m-not-a-fan-of-the-book"
+          },
+          {
+            "title": "Is The Picture of Dorian Gray Horror? - MattDuvall",
+            "url": "https://blogs.setonhill.edu/MattDuvall/2009/08/is_the_picture_of_dorian_gray.html"
+          },
+          {
+            "title": "Horror Fiction 102: The Picture of Dorian Gray by Oscar Wilde",
+            "url": "https://www.byarcadia.org/post/horror-fiction-102-the-portrait-of-dorian-gray-by-oscar-wilde"
+          },
+          {
+            "title": "Why Dorian Gray Isn\u2019t a Horror Icon (Despite Hollywood\u2019s Best Attempts) | by Manor Vellum | Medium",
+            "url": "https://manorvellum.medium.com/why-dorian-gray-isnt-a-horror-icon-despite-hollywood-s-best-attempts-b13656582554"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about The Picture of Dorian Gray's influence on the psychological horror genre in modern literature.\n\n## The Picture of Dorian Gray's Impact on Psychological Horror\n\nThe Picture of Dorian Gray is an 1890 philosophical fiction and Gothic horror novel by Irish writer Oscar Wilde. The novel has had a profound and lasting influence on psychological horror in modern literature in several key ways:\n\n### Foundational Psychological Horror Elements\n\nThis novel, first published in 1890, has had a significant impact on the horror genre. Wilde's story of a man who sells his soul for eternal youth and beauty has influenced numerous horror stories, films, and television shows over the years.(no content)Unlike other classic horror novels such as Mary Shelley's Frankenstein or Bram Stoker's Dracula, Wilde's story is not about supernatural monsters. Instead, it is a psychological thriller that explores the consequences of vanity, narcissism, and hedonism.\n\n### Genre Classification and Critical Recognition\n\nFew people agree on this novel's genre: it has been categorized as a gothic cautionary tale, horror, a psychological novel, a philosophical novel, and a moral fantasy.(no content)In terms of themes and tone, though, the novel definitely falls into the category of horror.\n\nCritics have recognized its horror credentials, with Allie Townsend of Time placed it 8th on her 6 October 2010 \"must read classic horror novels\" list and the Horror Writers Association states that \"horror fiction has a rightful place in our educational system...classics like The Picture of Dorian Gray..\"\n\n### Influence on Modern Horror Techniques\n\nThe novel pioneered several psychological horror techniques that continue to influence modern literature:\n\n**Psychological Deterioration**: There are also horror aspects in this book; for example, as Dorian sinks into depravity, his painting, the representation of his soul, gets progressively more horrifying.\n\n**Corruption and Influence**: Wilde's Dorian \"corrupt[s] every one with whom [he] become[s] intimate\" (297.3); his company, \"fatal to young men\", is such that no \"pure-minded girl \u2026 [nor] chaste woman should sit in the same room with [him]\" (294.0). Dorian's influence infects his companions with his own desires and \"madness for pleasure\" (296.0), reminiscent of a zombie transforming humans into undead.\n\n### Victorian Horror Foundation\n\nDespite this, The Picture of Dorian Gray has become one of the most relevant stories in English literature, and a perfect example of Victorian Horror Fiction. The Picture of Dorian Gray beautifully represents Victorian horror fiction. Dark desires and forbidden pleasures are at the centre of the novel, with the protagonist selling his soul for eternal beauty and youth.\n\n### Language and Atmosphere\n\nWilde often uses the language of horror throughout the book. Upon seeing the effects his cruelty to Sybil have had on the painting, Dorian \"drew a large screen right in front of the portrait, shuddering as he glanced at it. 'How horrible!'\"\n\n### Contemporary Relevance\n\nBecause at its core, The Picture of Dorian Gray can be timeless. It's the story of temptation, of a man who lets himself do terrible things under the assumption that no one will confront him.\n\nThe novel's exploration of psychological decay, moral corruption, and the horror of unchecked hedonism established templates that continue to influence psychological horror literature today, making it a foundational text in the development of the genre's psychological dimensions."
+    ],
+    "durationSeconds": 26.39718770799786
+  }
+}

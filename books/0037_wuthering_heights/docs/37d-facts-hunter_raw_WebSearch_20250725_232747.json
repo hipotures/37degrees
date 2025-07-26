@@ -1,0 +1,62 @@
+{
+  "session_id": "95239c3a-5fbf-4fbf-93f7-3afd6ea78885",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/95239c3a-5fbf-4fbf-93f7-3afd6ea78885.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Emily Bronte death 1848 tuberculosis one year after Wuthering Heights publication tragic facts"
+  },
+  "tool_response": {
+    "query": "Emily Bronte death 1848 tuberculosis one year after Wuthering Heights publication tragic facts",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_011Gry6mmLpBb16ZVhmJR1wX",
+        "content": [
+          {
+            "title": "Emily Bront\u00eb - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Emily_Bront%C3%AB"
+          },
+          {
+            "title": "Full article: \u201cShe Resolutely Refuses to See a Doctor\u201d: Re-reading Emily Bront\u00eb and Tuberculosis in 1848; or Charlotte Bront\u00eb, Sickness and Correspondence",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/09699082.2022.2122324"
+          },
+          {
+            "title": "Reimagining Emily Bront\u00eb\u2019s state of mind dying of tuberculosis | KNCV Tuberculosis",
+            "url": "https://www.kncvtbplus.com/articles/news/reimagining-emily-brontes-state-mind-dying-tuberculosis"
+          },
+          {
+            "title": "Emily Bronte | Biography, Books, Poems, & Facts | Britannica",
+            "url": "https://www.britannica.com/biography/Emily-Bronte"
+          },
+          {
+            "title": "Wuthering Heights Tuberculosis, Emily Bront\u00eb, and Victorian England | GradeSaver",
+            "url": "https://www.gradesaver.com/wuthering-heights/study-guide/tuberculosis-emily-bront%C3%AB-and-victorian-england"
+          },
+          {
+            "title": "Reimagining how Emily Bronte died \u2013 new paper | News and events | Loughborough University",
+            "url": "https://www.lboro.ac.uk/news-events/news/2022/december/reimagining-how-emily-bronte-died-new-research/"
+          },
+          {
+            "title": "Wuthering Heights - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Wuthering_Heights"
+          },
+          {
+            "title": "All about the author of Wuthering Heights",
+            "url": "https://www.wuthering-heights.co.uk/emily-bronte"
+          },
+          {
+            "title": "Was Emily Bront\u00eb sick when she wrote Wuthering Heights? - Quora",
+            "url": "https://www.quora.com/Was-Emily-Bront%C3%AB-sick-when-she-wrote-Wuthering-Heights"
+          },
+          {
+            "title": "10 Tragic & Surprising Facts About the Bronte Family | TheCollector",
+            "url": "https://www.thecollector.com/bronte-family-facts/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about Emily Bront\u00eb's tragic death in 1848 from tuberculosis, which occurred just about a year after the publication of Wuthering Heights:\n\n## Emily Bront\u00eb's Tragic Death: Key Facts\n\nEmily Bront\u00eb died in 1848, aged 30, a year after its publication of *Wuthering Heights*. She died of tuberculosis in December 1848, specifically on December 19, 1848 at the young age of 30.\n\n### Timeline and Circumstances\n\nWuthering Heights was initially published in 1847 under her pen name \"Ellis Bell\". Her brother Branwell died in September 1848 and Emily caught a chill during the funeral. This brought on the tuberculosis that she had probably originally caught when nursing Branwell.\n\nEmily Bronte caught cold at her brother's funeral in September and was dead from tuberculosis before the year was out. Emily died almost exactly one year after the publication of her only novel, Wuthering Heights.\n\n### Her Refusal of Medical Treatment\n\nOne of the most tragic aspects was Emily's refusal of medical care. She had been sick for two months, but refused medical care and she brushed it off as \"quackery,\" saying she wanted \"no poisoning doctor\" near her. Refusing all medical help until too late, she died 176 years ago surrounded by her family on 19 December, 1848, about two in the afternoon.\n\n### Understanding Her Refusal\n\nRecent scholarship suggests Emily's refusal wasn't merely stubborn. Three of Emily's siblings had died of TB. Her brother Branwell, whom she allegedly nursed through his illness, died in September 1848. According to O'Callaghan, this provides a very clear reason why Emily refused aid. She understood the disease and the symptoms as good as anybody could at that time.\n\nA wider understanding of Emily's knowledge of tuberculosis (from her writing) coupled with the access she had to medical knowledge shows that she likely understood her prognosis... That Emily understood that Victorian medicine offered no effective treatment or cure.\n\n### Physical Deterioration\n\nShe had grown so thin that her coffin, while long enough to accommodate her 5'7\" frame, was a mere 16 inches wide, illustrating the devastating physical toll tuberculosis took on her body.\n\n### Impact on the Bront\u00eb Family\n\nIt claimed Emily's life in 1848, not long after Wuthering Heights was published, and her sister Anne would also die of the disease the following year. Historians would call tuberculosis the Bront\u00ebs' \"family attendant\".\n\nEmily Bront\u00eb's death represents one of literature's greatest losses - a brilliant writer taken at the height of her creative powers, having produced only one novel that would become a masterpiece of English literature."
+    ],
+    "durationSeconds": 23.122521751000022
+  }
+}

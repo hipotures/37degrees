@@ -1,0 +1,62 @@
+{
+  "session_id": "7da3bbc0-2d10-4a7c-9f7d-e17950766dc1",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7da3bbc0-2d10-4a7c-9f7d-e17950766dc1.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "social media addiction Generation Z teenagers 2024 beauty filters Instagram TikTok mental health"
+  },
+  "tool_response": {
+    "query": "social media addiction Generation Z teenagers 2024 beauty filters Instagram TikTok mental health",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_014mSJ5Bjz4YqZekDzGjVYfm",
+        "content": [
+          {
+            "title": "Social Media Addiction Statistics 2025 (Trends & Facts)",
+            "url": "https://www.demandsage.com/social-media-addiction-statistics/"
+          },
+          {
+            "title": "Social Media Addiction Statistics Worldwide",
+            "url": "https://www.mastermindbehavior.com/post/social-media-addiction-statistics-worldwide"
+          },
+          {
+            "title": "Social Media Addiction Statistics (Updated for 2025)",
+            "url": "https://www.lanierlawfirm.com/social-media-addiction/statistics/"
+          },
+          {
+            "title": "TikTok impact on mental health for U.S. users by generation 2023 | Statista",
+            "url": "https://www.statista.com/statistics/1409808/tiktok-us-opinions-mental-health-effects-by-generation/"
+          },
+          {
+            "title": "How does Gen Z feel about social media? - Washington Association of Black Journalists",
+            "url": "https://wabjdc.org/how-does-gen-z-feel-about-social-media/"
+          },
+          {
+            "title": "Social Media Led to an Eating Disorder. Now She\u2019s Suing | TIME",
+            "url": "https://time.com/7295323/social-media-case-instagram-tiktok/"
+          },
+          {
+            "title": "ALGORITHMS, ADDICTION, AND ADOLESCENT MENTAL HEALTH: An Interdisciplinary Study to Inform State-level Policy Action to Protect Youth from the Dangers of Social Media | American Journal of Law & Medicine | Cambridge Core",
+            "url": "https://www.cambridge.org/core/journals/american-journal-of-law-and-medicine/article/algorithms-addiction-and-adolescent-mental-health-an-interdisciplinary-study-to-inform-statelevel-policy-action-to-protect-youth-from-the-dangers-of-social-media/EC9754B533553BDD56827CD9E34DFC25"
+          },
+          {
+            "title": "Gen Z, Social Media, and Mental Health | Rollins School of Public Health | Emory University | Atlanta GA",
+            "url": "https://sph.emory.edu/news/news-release/2024/05/gen-z-social-media-mental-health.html"
+          },
+          {
+            "title": "Australian teens trapped by social media apps as the \u2018like\u2019 button triggers mental health disorders | APS",
+            "url": "https://psychology.org.au/about-us/news-and-media/aps-in-the-media/2024/australian-teens-trapped-by-social-media-apps-as-t"
+          },
+          {
+            "title": "Social Media Lawsuit Against Meta & Facebook | 2025",
+            "url": "https://www.sokolovelaw.com/personal-injury/social-media-addiction/"
+          }
+        ]
+      },
+      "Based on my search, here are the key findings about social media addiction among Generation Z teenagers in 2024, with particular focus on beauty filters and mental health impacts on Instagram and TikTok:\n\n## Social Media Addiction Statistics for Gen Z\n\n82% of Gen Z adults acknowledge their dependency on platforms like Instagram, TikTok, and Twitter, with 77.7 percent of Generation Z users reporting feeling that TikTok was addictive.\n\n36% of teenagers report excessive social media use, often linked to negative mental health outcomes such as anxiety, stress, and depression. More specifically, 54% of teenagers find it hard to give up social media.\n\n## Usage Patterns and Platform Preferences\n\nA 2024 Pew Research Center survey found that YouTube remains the preferred social media site for teens, with roughly nine out of ten of those ages 13 to 17 surveyed using the video-sharing app. Meanwhile, 63 percent of teens use TikTok, 61 percent use Instagram, and 55 percent use Snapchat.\n\nAccording to 2023 survey data from Gallup, young adults between the ages of 13 and 17 spend an average of 4.8 hours on social media daily, while the average teenager in the U.S. spends nearly five hours per day on social media.\n\n## Mental Health Impacts and Beauty Standards\n\n### Instagram's Particular Harm\nA recent survey by the U.K.'s Royal Society for Public Health and the Young Health Movement found that Instagram was the most detrimental to mental health among the most popular apps. Specifically, teenagers between the ages of 14 and 17 noted increased feelings of anxiety, depression, loneliness, and the fear of missing out, or FOMO, when scrolling Instagram.\n\nWhile TikTok is more rooted in performance and Snapchat focuses on filters and the face in particular, Instagram places far more importance on the body overall and the person's lifestyle, which can more readily invite unrealistic comparisons and standards.\n\n### TikTok and Beauty Filter Issues\nA recent Wall Street Journal investigation revealed that TikTok floods child and adolescent users with videos of rapid weight loss methods, including tips on how to consume less than 300 calories a day and promoting a \"corpse bride diet,\" showing emaciated girls with protruding bones. The investigation involved the creation of a dozen automated accounts registered as 13-year-olds and revealed that TikTok algorithms fed adolescents tens of thousands of weight-loss videos within just a few weeks of joining the platform.\n\nSocial media algorithms that push extreme content to vulnerable youth are linked to an increase in mental health problems for adolescents, including poor body image, eating disorders, and suicidality.\n\n## Specific Mental Health Risks\n\nTeenagers who use social media for three or more hours every day are at an increased risk of depression, anxiety, and other mental health problems, while teens who spend between five and seven hours a day using social media are twice as likely to exhibit signs of mental health problems.\n\nAccording to a 2023 U.S. Surgeon General's Advisory on social media and youth mental health, some of the major concerns that come with social media use are sleep loss, cyberbullying and harassment, body image issues and disordered eating behaviors, and depressive symptoms.\n\n70% of teens report feeling anxious when disconnected, and those spending more than five hours daily on these platforms face a 70% heightened risk of contemplating suicide.\n\n## Real-World Impact Example\n\nThe search results reveal concerning real-world impacts, with Instagram and TikTok feeds becoming full of content promoting extreme workouts and disordered eating for young users who initially searched for innocent content like healthy recipes or workouts. As some of the most powerful companies in the world work to monetize their attention, kids across the country are struggling with the consequences of social media addiction."
+    ],
+    "durationSeconds": 32.9631966059953
+  }
+}

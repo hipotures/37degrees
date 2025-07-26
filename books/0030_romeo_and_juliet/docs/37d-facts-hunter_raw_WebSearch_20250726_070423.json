@@ -1,0 +1,62 @@
+{
+  "session_id": "dfef5421-3cfd-4f13-a992-935c866ee7a0",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/dfef5421-3cfd-4f13-a992-935c866ee7a0.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Romeo Juliet\" phrases everyday language \"star-crossed lovers\" \"Romeo Juliet effect\" balcony scene impact"
+  },
+  "tool_response": {
+    "query": "\"Romeo Juliet\" phrases everyday language \"star-crossed lovers\" \"Romeo Juliet effect\" balcony scene impact",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_019e5kcdjiHVJnwPsUE56esV",
+        "content": [
+          {
+            "title": "17 Romeo and Juliet Love Quotes That Stand the Test of Time [Analysis]",
+            "url": "https://booksonthewall.com/blog/romeo-and-juliet-love-quotes/"
+          },
+          {
+            "title": "Romeo and Juliet: Famous Quotes Explained | SparkNotes",
+            "url": "https://www.sparknotes.com/shakespeare/romeojuliet/quotes/"
+          },
+          {
+            "title": "Romeo and Juliet - Act 2, scene 2 | Folger Shakespeare Library",
+            "url": "https://www.folger.edu/explore/shakespeares-works/romeo-and-juliet/read/2/2/"
+          },
+          {
+            "title": "metaphors - What type of literary technique is the phrase 'star-crossed lovers' in 'Romeo and Juliet'? - English Language & Usage Stack Exchange",
+            "url": "https://english.stackexchange.com/questions/552125/what-type-of-literary-technique-is-the-phrase-star-crossed-lovers-in-romeo-an"
+          },
+          {
+            "title": "Famous Quotes | Romeo and Juliet | Royal Shakespeare Company",
+            "url": "https://www.rsc.org.uk/romeo-and-juliet/about-the-play/famous-quotes"
+          },
+          {
+            "title": "Romeo and Juliet | Act 2, Scene 2",
+            "url": "https://myshakespeare.com/romeo-and-juliet/act-2-scene-2"
+          },
+          {
+            "title": "Best Romeo and Juliet quotes | Speechify",
+            "url": "https://speechify.com/blog/best-romeo-and-juliet-quotes/"
+          },
+          {
+            "title": "Romeo and Juliet - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Romeo_and_Juliet"
+          },
+          {
+            "title": "Quotes from Romeo and Juliet with Examples and Analysis",
+            "url": "https://literarydevices.net/romeo-and-juliet-quotes/"
+          },
+          {
+            "title": "Examining the Text: Romeo and Juliet | Utah Shakespeare Festival",
+            "url": "https://www.bard.org/study-guides/examining-the-text-romeo-and-juliet/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with information about Romeo and Juliet's impact on everyday language, including the famous \"star-crossed lovers\" phrase, psychological effects, and the significance of the balcony scene.\n\n## \"Star-crossed lovers\" and its Impact on Language\n\nThe phrase \"star-cross'd lovers\" originated from Shakespeare's Romeo and Juliet, specifically from the Prince's opening soliloquy. The term \"star-cross'd\" means \"thwarted by a malign star\", and it has become deeply embedded in modern language.\n\nIn the late 16th and early 17th centuries when Shakespeare was writing, educated people accepted the validity of astrology, so 'star-crossed' was a literal use of technical terms for them. However, if we write \"star-crossed lovers\" in most contexts in the 21st century then the phrase is metaphorical.\n\n## The \"Romeo and Juliet Effect\"\n\nWhile the search results don't explicitly mention the \"Romeo and Juliet effect\" as a psychological term, they do reference the concept. The word \"Romeo\" has even become synonymous with \"male lover\" in English, showing how the play's characters have entered common usage.\n\n## Phrases That Entered Everyday Language\n\nSeveral iconic phrases from Romeo and Juliet have become part of everyday language:\n\n- \"What's in a name? That which we call a rose By any other name would smell as sweet\"\n- \"Parting is such sweet sorrow\" \n- \"But soft, what light through yonder window breaks? It is the east, and Juliet is the sun\"\n\n## The Balcony Scene's Cultural Impact\n\nThe famous balcony scene of the play is overflowing with figurative language. This scene has had enormous cultural influence:\n\n- A Juliet balcony (or Juliette balcony) is a balustrade connected to the fa\u00e7ade of a building\n- Romeo and Juliet was parodied in Shakespeare's own lifetime: Henry Porter's Two Angry Women of Abingdon (1598) and Thomas Dekker's Blurt, Master Constable (1607) both contain balcony scenes\n\n## Broader Literary and Cultural Influence\n\nRomeo and Juliet had a profound influence on subsequent literature. Before then, romance had not even been viewed as a worthy topic for tragedy. Of Shakespeare's works, Romeo and Juliet has generated the most\u2014and the most varied\u2014adaptations, including prose and verse narratives, drama, opera, orchestral and choral music, ballet, film, television, and painting.\n\nThe play's influence extends to music as well, with Duke Ellington's Such Sweet Thunder containing a piece entitled \"The Star-Crossed Lovers\"."
+    ],
+    "durationSeconds": 23.990194762002677
+  }
+}

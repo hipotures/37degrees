@@ -1,0 +1,62 @@
+{
+  "session_id": "a13ae777-128d-46b3-ae68-aaaa7f00c2a3",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/a13ae777-128d-46b3-ae68-aaaa7f00c2a3.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Quo Vadis\" film adaptations 1951 2001 cultural impact international reception bibliography"
+  },
+  "tool_response": {
+    "query": "\"Quo Vadis\" film adaptations 1951 2001 cultural impact international reception bibliography",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01TddtkbztFpYyjX3LdUr5Hm",
+        "content": [
+          {
+            "title": "(PDF) Quo Vadis on film (1912, 1925, 1951, 1985, 2001), the many faces of antiquity | Ewa Skwara - Academia.edu",
+            "url": "https://www.academia.edu/47457233/Quo_Vadis_on_film_1912_1925_1951_1985_2001_the_many_faces_of_antiquity"
+          },
+          {
+            "title": "(PDF) Quo Vadis em filme (1912, 1925, 1951, 1985, 2001), as muitas faces da Antiguidade",
+            "url": "https://www.researchgate.net/publication/284576577_Quo_Vadis_em_filme_1912_1925_1951_1985_2001_as_muitas_faces_da_Antiguidade"
+          },
+          {
+            "title": "Quo Vadis 1951 | Encyclopedia.com",
+            "url": "https://www.encyclopedia.com/arts/culture-magazines/quo-vadis-1951"
+          },
+          {
+            "title": "Quo Vadis on Film (1912, 1925, 1951, 1985, 2001), The many Faces of Antiquity | Classica - Revista Brasileira de Estudos Cl\u00e1ssicos",
+            "url": "https://revista.classica.org.br/classica/article/view/270"
+          },
+          {
+            "title": "Quo Vadis (1951) - Turner Classic Movies",
+            "url": "https://www.tcm.com/tcmdb/title/933/quo-vadis"
+          },
+          {
+            "title": "Quo Vadis (1951 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Quo_Vadis_(1951_film)"
+          },
+          {
+            "title": "Faith and Spectacle: Examining Quo Vadis (1951) \u2013 Classical Studies",
+            "url": "https://blogs.dickinson.edu/classicalstudies/2018/05/17/faith-and-spectacle-examining-quo-vadis-1951/"
+          },
+          {
+            "title": "Quo Vadis (1951) \u2b50 7.1 | Drama, Romance",
+            "url": "https://www.imdb.com/title/tt0043949/"
+          },
+          {
+            "title": "Film Review: Quo Vadis (1951) | Classically Inclined",
+            "url": "https://lizgloyn.wordpress.com/2013/03/18/film-review-quo-vadis-1951/"
+          },
+          {
+            "title": "Quo Vadis? (1913) \u2b50 6.1 | Drama, History",
+            "url": "https://www.imdb.com/title/tt0002445/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about the \"Quo Vadis\" film adaptations, particularly the 1951 and 2001 versions, their cultural impact, international reception, and bibliography.\n\n## \"Quo Vadis\" Film Adaptations\n\nThe Polish novel Quo vadis by Henryk Sienkiewicz was adapted into film five times.(no content)The paper will focus especially on the three adaptations \u2013 the American (1951), the Italian (1985) and the Polish one (2001).\n\n### The 1951 American Version\n\nQuo Vadis (Latin for \"Where are you going?\") is a 1951 American religious epic historical film set in ancient Rome during the final years of Emperor Nero's reign, based on the 1896 novel of the same title by Polish Nobel Laureate author Henryk Sienkiewicz.(no content)Produced by Metro-Goldwyn-Mayer and filmed in Technicolor, it was directed by Mervyn LeRoy from a screenplay by S. N. Behrman, Sonya Levien, and John Lee Mahin.\n\n#### Production and Scale\nProduced for $7 million, it was the most expensive film ever made at the time.(no content)He was given a $12 million dollar budget with the hopes he would produce a quality ancient epic at a time when Metro-Goldyn-Mayer's (MGM) production studios were on the verge of bankruptcy.(no content)A lease was obtained on the huge Cinecitta Studios, eight miles outside Rome, with its 148 acres and nine soundstages... Construction of the outdoor sets began at once: the huge Circus of Nero and exterior of Nero's palace, a whole section of Ancient Rome, a great bridge, and the Plautius villa.\n\n#### Cultural Impact and Reception\nAlthough not the first of the \"Biblical epics\" that were prominent during the 1950s, Quo Vadis, which was released a year after Cecil B. DeMille's Samson and Delilah (see AFI Catalog of Feature Films, 1941-50), is credited by film historians as a major influence on the genre, and the film that set the standard for epic Roman or Biblical films shot abroad and featuring a \"cast of thousands.\"(no content)It became MGM's largest grosser since Gone with the Wind (1939).(no content)Although it did not win any Academy Awards, it did, in fact, receive eight nominations \u2013 including one for R\u00f3zsa's score.\n\n### The 2001 Polish Version\n\nThe 2001 Polish adaptation represents a return to the source material's national origins. I haven't seen the 2001 polish version yet, which was submitted to the Academy Awards (but not nominated) as Best Foreing Language Film but, since it didn't get very positive reviews\n\n### International Reception and Historical Context\n\nEvery adaptation was filmed in special circumstances, accompanied by different political situations and each time for a different, specific audience.(no content)The comparison and detailed analysis of all versions will bring to light, how and for what purpose has antiquity been translated onto the silver screen.\n\n### Bibliography and Academic Sources\n\nThe search results provide several academic references for further study:\n\n- SCODEL, R.; BETTENWORTH, A. Whither quo vadis? Sienkiewicz\u00b4s novel in film and television. Oxford: Wiley-Blackwell, 2009.\n\n- WINKLER, M.M. The Roman salute: cinema, history, ideology. Columbus: The Ohio State University Press, 2009.\n\n- Meyer, Stephen C. \"Spectacle and Authenticity in Miklos Rozsa's Quo Vadis Score.\" in Epic Sound: Music in Postwar Hollywood Biblical Films, Indiana University Press, 2015.\n\n- Joshel, Sandra R. et. al. \"The Roman Empire in American Cinema after 1945.\" Chap 2 in Imperial Projections: Ancient Rome in Modern Popular Culture, Johns Hopkins University Press, 2006, pp. 50-76.\n\n### Critical Analysis\n\nThe use of spectacle in Quo Vadis was as much a point of focus for reviewers as it was for Leroy when he directed it. Critic Bosley Crowther, in his writeup for the New York Times, called it \"the last of a cinematic species, the super super-colossal film\"\n\nThe film's significance extends beyond entertainment, as I've used Quo Vadis successfully with students to show how modern biases can shape our perception of antiquity."
+    ],
+    "durationSeconds": 33.125919353999194
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "session_id": "95239c3a-5fbf-4fbf-93f7-3afd6ea78885",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/95239c3a-5fbf-4fbf-93f7-3afd6ea78885.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "BookTok \"Wuthering Heights\" TikTok #BookTok 200 billion views classic literature"
+  },
+  "tool_response": {
+    "query": "BookTok \"Wuthering Heights\" TikTok #BookTok 200 billion views classic literature",
+    "results": [
+      "I'll search for information about BookTok, Wuthering Heights on TikTok, and the massive view counts for classic literature content.",
+      {
+        "tool_use_id": "srvtoolu_01KMhq8MQZupMw6JA3WvV9jg",
+        "content": [
+          {
+            "title": "Wuthering Heights Booktok Books I Cant Out Down",
+            "url": "https://www.tiktok.com/discover/wuthering-heights-booktok-books-i-cant-out-down"
+          },
+          {
+            "title": "Exploring BookTok\u2019s impact on literature",
+            "url": "https://miscellanynews.org/2025/02/19/opinions/exploring-booktoks-impact-on-literature/"
+          },
+          {
+            "title": "Wuthering Heights Reading",
+            "url": "https://www.tiktok.com/discover/wuthering-heights-reading"
+          },
+          {
+            "title": "#BookTok: What Books Trending on TikTok are Worth the Read",
+            "url": "https://www.hercampus.com/school/american/booktok-what-books-trending-on-tiktok-are-worth-the-read/"
+          },
+          {
+            "title": "'Book Tok and what it means to be a reader' by Julia Pierzgalska - Worcester Sixth Form College",
+            "url": "https://www.wsfc.ac.uk/news/studentblog/book-tok-and-what-it-means-to-be-a-reader-by-julia-pierzgalska/"
+          },
+          {
+            "title": "Wuthering Heights (Everyman's Library ): Bronte, Emily, Frank, Katherine: 9780679405436: Amazon.com: Books",
+            "url": "https://www.amazon.com/Wuthering-Heights-Everymans-Library-Bronte/dp/0679405437"
+          },
+          {
+            "title": "Wuthering Heights (Collins Classics): Bront\u00eb, Emily: 9780007350810: Amazon.com: Books",
+            "url": "https://www.amazon.com/Wuthering-Heights-Collins-Classics-Bront%C3%AB/dp/0007350813"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about BookTok's relationship with \"Wuthering Heights\" and the broader impact on classic literature, though I didn't find specific mention of the 200 billion views figure in these results.\n\n## BookTok and \"Wuthering Heights\"\n\nBookTok has \"reignited some of the classics that are not usually read outside of English class, like 'Wuthering Heights.'\" However, the reception of Emily Bront\u00eb's classic on the platform appears to be mixed.\n\nWhile BookTok advertises Wuthering Heights as a romantic classic, some critics note that \"Bront\u00eb's story is more of a depressing tragedy\" and suggest that \"if you're desperate for some period-piece romance, try Pride and Prejudice by Jane Austen instead.\"(no content)The complexity of the novel presents challenges for modern readers, as \"in Wuthering Heights Bronte uses a ton of complex language that many readers (including myself) found difficult to grasp onto and continue reading.\"\n\n## BookTok's Impact on Literature and Book Sales\n\nThe financial impact of BookTok has been substantial, with \"profits from authors with large BookTok followings\" reaching \"$760 million, per an economics review.\"(no content)BookTok has played a significant role in revitalizing the book industry: \"BookTok is playing a role in keeping bookstores in business. Before the pandemic, Barnes and Noble was struggling, having closed over 400 of their locations. With BookTok bringing more people into bookstores, partially for the instant gratification of fast-paced romance and 'Romantasy' novels, sales and business are better.\"\n\n## Criticism and Concerns\n\nThere is some criticism of BookTok from traditional literary communities, with some websites \"diminish[ing] Book Tok because classic literature is not a predominant genre that is recommended\" and BookTok readers being \"seen as shallow and believed to be only reading for aesthetic purposes rather than to enrich their minds.\"\n\nWhile I didn't find the specific \"200 billion views\" statistic for the #BookTok hashtag in these results, the search clearly shows that BookTok has had a significant impact on bringing classic literature like \"Wuthering Heights\" to new audiences, despite mixed reception and ongoing debates about the platform's influence on reading culture."
+    ],
+    "durationSeconds": 19.515010529999856
+  }
+}

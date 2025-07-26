@@ -1,0 +1,108 @@
+{
+  "session_id": "7da3bbc0-2d10-4a7c-9f7d-e17950766dc1",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7da3bbc0-2d10-4a7c-9f7d-e17950766dc1.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Oscar Wilde Picture of Dorian Gray academic literary criticism scholarly articles 2020-2025"
+  },
+  "tool_response": {
+    "query": "Oscar Wilde Picture of Dorian Gray academic literary criticism scholarly articles 2020-2025",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01SvEfY4DKnsYFfbh1jCZpfy",
+        "content": [
+          {
+            "title": "Oscar Wilde\u2019s The Picture of Dorian Gray \u2013 Literary Theory and Criticism",
+            "url": "https://literariness.org/2025/05/13/oscar-wildes-the-picture-of-dorian-gray/"
+          },
+          {
+            "title": "The Conflict Between Aestheticism and Morality in Oscar Wilde\u2019s The Picture of Dorian Gray | Writing Program",
+            "url": "https://www.bu.edu/writingprogram/journal/past-issues/issue-1/duggan/"
+          },
+          {
+            "title": "The Picture: Dorian Gray | Ethics, Evil, and Fiction | Oxford Academic",
+            "url": "https://academic.oup.com/book/2659/chapter/143081941"
+          },
+          {
+            "title": "Aestheticism and Morality in Oscar Wilde\u2019s \u00ab The Picture of Dorian Gray\u00bb (1890) \u2014 Anglais",
+            "url": "https://cle.ens-lyon.fr/anglais/litterature/litterature-britannique/aestheticism-and-morality-in-the-picture-of-dorian-gray"
+          },
+          {
+            "title": "A Summary and Analysis of Oscar Wilde\u2019s The Picture of Dorian Gray",
+            "url": "https://interestingliterature.com/2021/02/oscar-wilde-picture-of-dorian-gray-summary-analysis/"
+          },
+          {
+            "title": "The Picture of Dorian Gray: Inspirations, Interpretations, and a Literary Analysis",
+            "url": "https://www.oldstyletales.com/single-post/the-picture-of-dorian-gray-inspirations-interpretations-and-a-literary-analysis"
+          },
+          {
+            "title": "The Picture of Dorian Gray - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Picture_of_Dorian_Gray"
+          },
+          {
+            "title": "Thoughts On Oscar Wilde\u2019s THE PICTURE OF DORIAN GRAY: | by Benjamin Luc | Medium",
+            "url": "https://medium.com/@benjaminluc/my-thoughts-on-oscar-wildes-the-picture-of-dorian-gray-96615fd7e010"
+          },
+          {
+            "title": "The Picture of Dorian Gray and the Symbolism of the Self - The Hyacinth Review",
+            "url": "https://hyacinthreview.org/terri-pinyerd-the-picture-of-dorian-gray-and-the-symbolism-of-the-self/"
+          },
+          {
+            "title": "Quite Useless: Truth, Art, and Life in Oscar Wilde\u2019s The Picture of Dorian Gray \u2013 PIT Journal",
+            "url": "https://pitjournal.unc.edu/2023/01/24/quite-useless-truth-art-and-life-in-oscar-wildes-the-picture-of-dorian-gray/"
+          }
+        ]
+      },
+      "I found some recent academic and scholarly articles about Oscar Wilde's *The Picture of Dorian Gray* from the 2020-2025 timeframe. Let me search for more specific scholarly articles to give you a comprehensive overview.",
+      {
+        "tool_use_id": "srvtoolu_011q34rTPbSzKCTJdR8P9VEY",
+        "content": [
+          {
+            "title": "Exploring the Dorian Gray Trait: Unveiling the Complexities of Perceived Aging and Self-Image - PMC",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10657170/"
+          },
+          {
+            "title": "The Picture of Dorian Gray | Summary, Book, Analysis, Movie, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/The-Picture-of-Dorian-Gray-novel-by-Wilde"
+          },
+          {
+            "title": "Art for Art\u2019s Sake: Decadence in The Picture of Dorian Gray, by Alessia Guarangna \u2013 Dawson English Journal",
+            "url": "https://www.dawsonenglishjournal.ca/article/art-for-arts-sake-decadence-in-the-picture-of-dorian-gray-by-alessia-guarangna/"
+          },
+          {
+            "title": "Dorian Gray Syndrome of Upfront Immunotherapy in Patients With Non\u2013Small-Cell Lung Cancer and High PD-L1 Expression - ScienceDirect",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S1525730421001492"
+          },
+          {
+            "title": "The Picture of Dorian Gray - Michael Cassel Group",
+            "url": "https://doriangrayplay.com/"
+          },
+          {
+            "title": "The Conflict Between Aestheticism and Morality in Oscar Wilde\u2019s The Picture of Dorian Gray | Writing Program",
+            "url": "https://www.bu.edu/writingprogram/journal/past-issues/issue-1/duggan/"
+          },
+          {
+            "title": "Dorian Gray \u2013 Journal of Victorian Culture Online",
+            "url": "https://jvc.oup.com/tag/dorian-gray/"
+          },
+          {
+            "title": "Amazon.com: The Picture of Dorian Gray: Includes MLA Style Citations for Scholarly Secondary Sources, Peer-Reviewed Journal Articles and Critical Essays (Squid Ink Classics): 9781517370206: Wilde, Oscar: Books",
+            "url": "https://www.amazon.com/Picture-Dorian-Gray-Citations-Peer-Reviewed/dp/1517370205"
+          },
+          {
+            "title": "The Picture: Dorian Gray | Ethics, Evil, and Fiction | Oxford Academic",
+            "url": "https://academic.oup.com/book/2659/chapter/143081941"
+          },
+          {
+            "title": "Quite Useless: Truth, Art, and Life in Oscar Wilde\u2019s The Picture of Dorian Gray \u2013 PIT Journal",
+            "url": "https://pitjournal.unc.edu/2023/01/24/quite-useless-truth-art-and-life-in-oscar-wildes-the-picture-of-dorian-gray/"
+          }
+        ]
+      },
+      "Based on my search results, I found several recent academic and scholarly articles about Oscar Wilde's *The Picture of Dorian Gray* from the 2020-2025 timeframe. Here's an overview of the current scholarly discourse:\n\n## Recent Academic Literary Criticism (2020-2025)\n\n### Key Scholarly Articles and Themes:\n\n**Contemporary Literary Analysis:**\n\nLouise Bailly's \"Aestheticism and Morality in Oscar Wilde's The Picture of Dorian Gray (1890)\" was published by ENS de Lyon in September 2020, examining Wilde's belief that art should be dissociated from moral considerations and his creation of an anti-hero at odds with traditional protagonists whose virtuous behaviours were meant to be exemplary models.\n\n**Philosophy and Art Theory:**\n\nRecent scholarship explores how \"Wilde subverts the Platonic tradition by introducing a different vision of integrity\" and how \"the secular Aestheticism of Dorian Gray was somewhat extreme to Victorian England,\" with Wilde's \"deviations from Plato's influence and his distinctive approach to artistic theory\" being \"very relevant, even revolutionary\" in the 2023 PIT Journal article \"Quite Useless: Truth, Art, and Life in Oscar Wilde's The Picture of Dorian Gray.\"\n\n**Student Academic Work:**\n\nRecent student scholarship from 2025 examines \"Art for Art's Sake: Decadence in The Picture of Dorian Gray,\" focusing on how \"the late 19th century saw the rise of the Decadent Movement\" and how \"the Decadents argued that art serves an aesthetic rather than didactic purpose\" and \"should not be laden with morals or deeper meanings, but should instead be created for the sake of beauty alone\".\n\n**Psychological Applications:**\n\nInterestingly, a 2023 medical journal article in Cureus explored \"The concept of the 'Dorian Gray Trait,' inspired by Oscar Wilde's renowned literary work\" which \"delves into the intricate interplay between self-perception, the fear of aging, and the pursuit of eternal youth\" and \"explores the psychological dimensions of this trait, wherein individuals harbor an intense preoccupation with maintaining their youthful appearance\".\n\n**Contemporary Critical Perspectives:**\n\nCurrent scholarship argues that rather than endorsing aestheticism, \"this story of the rise and fall of Dorian Gray might instead represent an allegory about morality meant to critique, rather than endorse, the obeying of one's impulses\" and that \"Dorian Gray is a cautionary tale in which Wilde illustrates the dangers of the aesthetic philosophy when not practiced with prudence,\" with \"Aestheticism\" often aligning \"itself with immorality, resulting in a precarious philosophy that must be practiced deliberately\".\n\n**Journal Publications:**\n\nThe Journal of Victorian Culture has featured recent analysis examining \"how the dandy's languorous posture, aesthetic writing style, opium smoking, and musical repertoire interact in Oscar Wilde's literature and criticism\" and how \"The Picture of Dorian Gray as well as 'The Critic as Artist' and The Importance of Being Earnest draws into focus how each of Wilde's works is organized to create complicated relationships among this grouping\".\n\nThe current scholarly discourse continues to examine the novel's treatment of aestheticism versus morality, its psychological implications, and its philosophical underpinnings, with particular attention to how Wilde both embraced and critiqued the aesthetic movement of his time."
+    ],
+    "durationSeconds": 32.884172429002824
+  }
+}

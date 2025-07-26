@@ -1,0 +1,63 @@
+{
+  "session_id": "3a49404c-4f85-49d3-82a6-52395d74d3af",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/3a49404c-4f85-49d3-82a6-52395d74d3af.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Gen Z cancel culture social media trials online shaming 2025"
+  },
+  "tool_response": {
+    "query": "Gen Z cancel culture social media trials online shaming 2025",
+    "results": [
+      "I'll search for information about Gen Z cancel culture and social media trials in 2025.",
+      {
+        "tool_use_id": "srvtoolu_01AfxmsngbgnibWiJBrhZJ5Z",
+        "content": [
+          {
+            "title": "Gen-Z: How social media redefines cancel culture in 2025",
+            "url": "https://www.khaleejtimes.com/lifestyle/gen-z-how-social-media-redefines-cancel-culture-in-2025"
+          },
+          {
+            "title": "Cancel culture in a developing country: A belief in a just world behavioral analysis among generation Z - ScienceDirect",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0001691824002555"
+          },
+          {
+            "title": "Cancel Culture and Gen Z \u2013 A New Phenomenon or Just Another New Trend? - Lifebonder",
+            "url": "https://lifebonder.com/blog/2023/03/18/cancel-culture-and-gen-z-a-new-phenomenon-or-just-another-new-trendcancel-culture-has-gained-increased-attention-in-recent-years-particularly-among-generation-z/"
+          },
+          {
+            "title": "Move over cancel culture: Gen Z is seeking its due process - The Emancipator",
+            "url": "https://theemancipator.org/2023/04/07/sections/commentary/move-over-cancel-culture-gen-z-is-seeking-its-due-process/"
+          },
+          {
+            "title": "Gen Z Woman Quit All Social Media\u2014What She Learned Was Eye-Opening - Newsweek",
+            "url": "https://www.newsweek.com/gen-z-woman-quit-all-social-media-observations-2081932"
+          },
+          {
+            "title": "Online shaming - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Online_shaming"
+          },
+          {
+            "title": "Canceling Cancel Culture (for the sake of Gen Z Mental Health)",
+            "url": "https://meagans-newsletter.beehiiv.com/p/canceling-cancel-culture-sake-gen-z-mental-health"
+          },
+          {
+            "title": "Social media and mental health: The impact on Gen Z | McKinsey",
+            "url": "https://www.mckinsey.com/mhi/our-insights/gen-z-mental-health-the-impact-of-tech-and-social-media"
+          },
+          {
+            "title": "In the age of cancel culture, shaming can be healthy for online communities \u2013 a political scientist explains when and how",
+            "url": "https://theconversation.com/in-the-age-of-cancel-culture-shaming-can-be-healthy-for-online-communities-a-political-scientist-explains-when-and-how-221730"
+          },
+          {
+            "title": "The Psychology of Cancel Culture: Impacts on Mental Health - Therapy Group of DC",
+            "url": "https://therapygroupdc.com/therapist-dc-blog/the-psychology-of-cancel-culture-impacts-on-mental-health/"
+          }
+        ]
+      },
+      "Based on the search results, here's what I found about Gen Z cancel culture and social media trials in 2025:\n\n## Current State of Cancel Culture in 2025\n\nCancel culture refers to the practice of publicly calling out, shaming, or boycotting individuals, organisations, or even brands for behaviour deemed socially unacceptable. However, there are signs that Gen Z's relationship with cancel culture is evolving in 2025.\n\n## Shift from Cancel Culture to Legal Action\n\nWhile canceling is punitive and temporary, this firm hopes a lawsuit will bring lasting change to a hostile workplace. Our client, who was subjected daily to racial slurs, offensive jokes and was forced to leave her job to avoid further damage to her psyche, is not concerned about a trial in the court of public opinion (i.e., cancellation). Getting justice through the law has longer-lasting effects on social status and is much more consequential.(no content)We can officially consider cancel culture #canceled.\n\n## The Mechanics of Online Shaming\n\nOnline shaming is a form of public shaming in which internet users are harassed, mocked, or bullied by other internet users online. This shaming may involve commenting directly to or about the shamed; the sharing of private messages; or the posting of private photos. Those being shamed are often accused of committing a social transgression, and other internet users then use public exposure to shame the offender.(no content)In recent years, the rise of social media has played a significant role in the growth of cancel culture. Platforms like Twitter and Facebook have made it easier for individuals and groups to call out and publicly shame others, often with significant consequences.\n\n## Impact on Mental Health and Free Speech\n\nThe effects of cancel culture on individuals can be severe:\n\n- Being the target of cancel culture can be extremely stressful and damaging to an individual's mental health. This can be particularly true for people who are already vulnerable, such as those with mental health issues or marginalized identities.\n\n- Cancel culture can create an environment where people are afraid to express their opinions for fear of being publicly shamed or boycotted. This can undermine free speech and lead to a chilling effect on public discourse.\n\n- According to journalist Jon Ronson, the public does not understand that a vigilante campaign of public shaming, undertaken with the ostensible intention of defending the underdog, may create a mob mentality capable of destroying the lives and careers of the public figures singled out for shaming.\n\n## Gen Z's Changing Relationship with Social Media\n\nThere's also evidence of Gen Z reassessing their relationship with social media entirely. It is now 2025 and I just started TikTok a month ago and this is the only social media I have. Some Gen Z individuals are finding benefits in disconnecting from social media, including becoming their most-authentic self and gaining a stronger sense of identity in a short amount of time.\n\n## The Debate on Constructive vs. Destructive Shaming\n\nPublic shaming can be a valuable tool for democratic accountability. However, it is more likely to provide these positive effects within a clearly defined community whose members have many overlapping connections.(no content)Most online shamings, however, do not take place in this kind of positive social context. Moreover, reintegration for targets of shamings on X is nearly impossible, since it is not clear to what community they should apologize, or how they should do so.\n\nThe search results suggest that in 2025, there's a growing recognition among Gen Z that cancel culture may have limitations, with some moving toward more formal legal channels for addressing grievances and others choosing to disconnect from social media entirely to protect their mental health and authenticity."
+    ],
+    "durationSeconds": 37.81905235899985
+  }
+}

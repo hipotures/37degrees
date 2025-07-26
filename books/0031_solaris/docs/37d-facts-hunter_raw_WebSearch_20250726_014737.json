@@ -1,0 +1,62 @@
+{
+  "session_id": "25c2a401-88de-4e28-8dba-e70b720fd603",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/25c2a401-88de-4e28-8dba-e70b720fd603.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Solaris\" Stanis\u0142aw Lem m\u0142odzie\u017c Polska dzisiaj recepcja wsp\u00f3\u0142czesna edukacja szkolna"
+  },
+  "tool_response": {
+    "query": "\"Solaris\" Stanis\u0142aw Lem m\u0142odzie\u017c Polska dzisiaj recepcja wsp\u00f3\u0142czesna edukacja szkolna",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01BHvq1e1k1JiDkpEq6iFbN3",
+        "content": [
+          {
+            "title": "Solaris - Stanis\u0142aw Lem | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/133717/solaris"
+          },
+          {
+            "title": "Solaris Stanis\u0142aw Lem | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/solaris-stanislaw-lem"
+          },
+          {
+            "title": "Lem S. Solaris (opracowanie streszczenie).doc - Lem Stanis\u0142aw - 08. Wsp\u00f3\u0142czesna po 45 - chahaviah - Chomikuj.pl",
+            "url": "https://chomikuj.pl/chahaviah/Polonistyka/08.+Wsp*c3*b3*c5*82czesna+po+45/Lem+Stanis*c5*82aw/Lem+S.*2c+Solaris+(opracowanie-streszczenie),1853918239.doc"
+          },
+          {
+            "title": "Solaris - Lem Stanis\u0142aw | Ksi\u0105\u017cka w Sklepie EMPIK.COM",
+            "url": "https://www.empik.com/solaris-lem-stanislaw,p1047478199,ksiazka-p"
+          },
+          {
+            "title": "Stanis\u0142aw Lem - Stanis\u0142aw Lem 1921-2006",
+            "url": "https://solaris.lem.pl/"
+          },
+          {
+            "title": "Lem S. Solaris (opracowanie).doc - Lem Stanis\u0142aw - 08. Wsp\u00f3\u0142czesna po 45 - chahaviah - Chomikuj.pl",
+            "url": "https://chomikuj.pl/chahaviah/Polonistyka/08.+Wsp*c3*b3*c5*82czesna+po+45/Lem+Stanis*c5*82aw/Lem+S.*2c+Solaris+(opracowanie),1853918235.doc"
+          },
+          {
+            "title": "Stanis\u0142aw Lem - Fragment ksi\u0105\u017cki",
+            "url": "https://solaris.lem.pl/o-lemie/ksiazki-o-lemie/lem-tlumacze/520-fragment-lem-i-tlumacze"
+          },
+          {
+            "title": "Lem S. Solaris (streszczenie).doc - Lem Stanis\u0142aw - 08. Wsp\u00f3\u0142czesna po 45 - chahaviah - Chomikuj.pl",
+            "url": "https://chomikuj.pl/chahaviah/Polonistyka/08.+Wsp*c3*b3*c5*82czesna+po+45/Lem+Stanis*c5*82aw/Lem+S.*2c+Solaris+(streszczenie),1853918242.doc"
+          },
+          {
+            "title": "Stanis\u0142aw Lem - Lustro",
+            "url": "https://solaris.lem.pl/ksiazki/beletrystyka/solaris/30-poslowie-solaris"
+          },
+          {
+            "title": "Solaris (powie\u015b\u0107) \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Solaris_(powie\u015b\u0107)"
+          }
+        ]
+      },
+      "I found information about Stanis\u0142aw Lem's \"Solaris\" and its contemporary reception in Poland, including its educational context. Based on the search results, here's what I found:\n\n## Solaris w edukacji szkolnej i recepcji wsp\u00f3\u0142czesnej\n\nSolaris to najbardziej znana powie\u015b\u0107 Stanis\u0142awa Lema, przet\u0142umaczona na ponad 40 j\u0119zyk\u00f3w, zaliczana do klasyki fantastyki naukowej.(no content)Solaris to najs\u0142ynniejsza powie\u015b\u0107 Lema - od niej poczyna si\u0119 jego \u015bwiatowy rozg\u0142os. W swoim gatunku zajmuje ona miejsce, jakiego nie dost\u0105pi\u0142o bodaj \u017cadne inne polskie dzie\u0142o literackie\n\n### Materia\u0142y edukacyjne\nWyszukiwanie ujawnia dost\u0119pno\u015b\u0107 materia\u0142\u00f3w szkolnych, takich jak opracowania i streszczenia \"Solaris\" w zasobach edukacyjnych, co wskazuje na wykorzystanie tej powie\u015bci w nauczaniu literatury.\n\n### Recepcja w\u015br\u00f3d m\u0142odzie\u017cy\nPowie\u015b\u0107 napisana jest w formie pierwszoosobowej, co przynajmniej mi kojarzy si\u0119 zwykle z kiepskimi m\u0142odzie\u017c\u00f3wkami - jeden z komentarzy pokazuje, jak wsp\u00f3\u0142czesny czytelnik mo\u017ce odbiera\u0107 form\u0119 narracyjn\u0105 powie\u015bci.\n\n### Znaczenie edukacyjne\nAutorowi uda\u0142o si\u0119 stworzy\u0107 najbardziej oryginaln\u0105 wizj\u0119 Obcego w historii literatury s-f. Solaris porusza problemy niemo\u017cno\u015bci zrozumienia Wszech\u015bwiata, bezsilno\u015bci nauki wobec innej formy istnienia oraz bezradno\u015bci cz\u0142owieka(no content)W swojej powie\u015bci Lem porusza przede wszystkim zagadnienie dotycz\u0105ce kontaktu i mo\u017cliwo\u015bci ludzkiego poznania - niezale\u017cnie, czy m\u00f3wimy o tym w kontek\u015bcie mi\u0119dzyplanetarnym, czy mi\u0119dzyludzkim.\n\n### Wsp\u00f3\u0142czesna dost\u0119pno\u015b\u0107\nPowie\u015b\u0107 jest obecnie dost\u0119pna w r\u00f3\u017cnych formatach, w tym jako ksi\u0105\u017cka m\u00f3wiona wydana przez Polskie Radio w 2010 r. oraz w wersji czytanej przez znanych aktor\u00f3w, co u\u0142atwia jej przyswojenie przez m\u0142odzie\u017c.\n\nWyniki wskazuj\u0105, \u017ce \"Solaris\" pozostaje istotnym elementem polskiej edukacji literackiej, z dost\u0119pnymi materia\u0142ami dydaktycznymi i wsp\u00f3\u0142czesnymi adaptacjami u\u0142atwiaj\u0105cymi odbi\u00f3r przez m\u0142ode pokolenie."
+    ],
+    "durationSeconds": 18.110589067000895
+  }
+}

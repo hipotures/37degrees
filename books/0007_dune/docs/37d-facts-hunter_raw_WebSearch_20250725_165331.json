@@ -1,0 +1,62 @@
+{
+  "session_id": "2dcb2a8f-b11d-466d-8a59-c7f92df6d7a0",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/2dcb2a8f-b11d-466d-8a59-c7f92df6d7a0.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Diuna Frank Herbert polskie t\u0142umaczenia wydania historia publikacji Polska"
+  },
+  "tool_response": {
+    "query": "Diuna Frank Herbert polskie t\u0142umaczenia wydania historia publikacji Polska",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01KVr6nYtZxSiXGtG7KSEftV",
+        "content": [
+          {
+            "title": "Diuna (powie\u015b\u0107) \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Diuna_(powie\u015b\u0107)"
+          },
+          {
+            "title": "Diuna ksi\u0105\u017cka | Frank Herbert | seria Kroniki Diuny",
+            "url": "https://www.swiatksiazki.pl/seria/diuna"
+          },
+          {
+            "title": "Diuna \u2013 powie\u015b\u0107 Franka Herberta - Agencja Skrivanek",
+            "url": "https://skrivanek.pl/diuna-powiesc-franka-herberta/"
+          },
+          {
+            "title": "Diuna, Mesjasz Diuny - Frank Herbert. Powr\u00f3t na Arrakis (recenzja) - Ksi\u0105\u017cki - POLTERGEIST",
+            "url": "https://polter.pl/ksiazki/Diuna-Mesjasz-Diuny-Frank-Herbert-c10770"
+          },
+          {
+            "title": "Diuna - Frank Herbert | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/4942534/diuna"
+          },
+          {
+            "title": "\"Diuna\", Frank Herbert, REBIS",
+            "url": "https://www.rebis.com.pl/pl/book-diuna-frank-herbert,SCHB02842.html"
+          },
+          {
+            "title": "Diuna. Kroniki Diuny. Tom 1 Frank Herbert ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/diuna-kroniki-diuny-tom-1-frank-herbert"
+          },
+          {
+            "title": "Diuna - Frank Herbert - Polska Ksiegarnia w UK",
+            "url": "https://ksiegarniainternetowa.co.uk/pl/diuna-9788373017238"
+          },
+          {
+            "title": "Seria Diuna | ksi\u0119garnia TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/seria/diuna"
+          },
+          {
+            "title": "Diuna Frank Herbert - Grupa dyskusyjna - Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/dyskusja/69/791/diuna-frank-herbert"
+          }
+        ]
+      },
+      "Na podstawie wynik\u00f3w wyszukiwania przedstawi\u0119 Ci histori\u0119 polskich t\u0142umacze\u0144 i wyda\u0144 \"Diuny\" Franka Herberta w Polsce:\n\n## Historia polskich t\u0142umacze\u0144\n\nDiuna Herberta ukaza\u0142a si\u0119 w Polsce w dw\u00f3ch wersjach t\u0142umaczeniowych. Pierwszego przek\u0142adu dokona\u0142 Marek Marsza\u0142 w 1986 roku, ponad 20 lat po publikacji orygina\u0142u.(no content)Na pierwsze polskie t\u0142umaczenie musieli\u015bmy czeka\u0107 do\u015b\u0107 d\u0142ugo, bo do roku 1986. Jego autorem by\u0142 Marek Marsza\u0142 i by\u0142o ono do tej pory uwa\u017cane za najlepsze polskie t\u0142umaczenie.(no content)Za drugie t\u0142umaczenie na j\u0119zyk polski odpowiada Jerzy \u0141ozi\u0144ski. W poprawionej wersji ukaza\u0142o si\u0119 ono p\u00f3\u017aniej pod pseudonimem \u0141adys\u0142aw Jerzy\u0144ski.\n\n## R\u00f3\u017cnice mi\u0119dzy t\u0142umaczeniami\n\nT\u0142umaczenie Marka Marsza\u0142a spotka\u0142o si\u0119 z wi\u0119kszym uznaniem fan\u00f3w gatunku. Jerzy \u0141ozi\u0144ski znany jest ze swojego swobodnego podej\u015bcia do t\u0142umaczenia i jego styl nie odpowiada wielu czytelnikom.(no content)W u\u017cyciu mo\u017cna nawet spotka\u0107 termin \u201e\u0142ozizm\", kt\u00f3ry oznacza przek\u0142ad bardzo odbiegaj\u0105cy od orygina\u0142u. Z krytyk\u0105 spotykaj\u0105 si\u0119 zw\u0142aszcza jego wersje nazw w\u0142asnych.\n\nPrzyk\u0142ady r\u00f3\u017cnic w nazwach w\u0142asnych w t\u0142umaczeniu \u0141ozi\u0144skiego:\nW pierwszej wersji t\u0142umaczenia \u0141ozi\u0144skiego Fremeni (ang. Fremen) byli Wolanami, czerw pustyni (ang. sandworm) \u2013 piaskalem, Imperator (ang. Emperor) \u2013 Cesarzem, filtrfrak (ang. stillsuit) \u2013 hermetykiem, rusznica laserowa (ang. lasgun) \u2013 laserobinem, a grot-go\u0144czak (ang. hunter-seeker) \u2013 skrytob\u00f3jk\u0105.(no content)W drugiej wersji przek\u0142adu nazwy w\u0142asne zosta\u0142y nieco dostosowane do tych wymy\u015blonych przez Marka Marsza\u0142a. Wci\u0105\u017c jednak mo\u017cna wychwyci\u0107 znacz\u0105ce r\u00f3\u017cnice pomi\u0119dzy t\u0142umaczeniami.\n\n## Wsp\u00f3\u0142czesne wydania\n\nGdy ju\u017c zajrzeli\u015bmy do \u015brodka zapewne wiele os\u00f3b zainteresuje si\u0119 osob\u0105 t\u0142umacza polskiej wersji. Jest to uzasadnione bior\u0105c pod uwag\u0119, \u017ce przy ostatnim wznowieniu w t\u0142umaczenie, cho\u0107 to mo\u017ce by\u0107 zbyt w\u0105ski termin w jego wypadku, ca\u0142y sw\u00f3j kunszt w\u0142o\u017cy\u0142 Jerzy \u0141ozi\u0144ski. Na nasze szcz\u0119\u015bcie wydawnictwo Rebis si\u0119gn\u0119\u0142o po t\u0142umaczenie Marka Marsza\u0142a, kt\u00f3re zosta\u0142o gruntownie poprawione i pozbawione wi\u0119kszo\u015bci wpadek t\u0142umacza i j\u0119zykowych niezr\u0119czno\u015bci.(no content)Dom Wydawniczy REBIS oddaje czytelnikom nowe, poprawione wydanie cyklu \u201eKroniki Diuny\", kt\u00f3ry tworz\u0105: \"Diuna\", \"Mesjasz Diuny\", \"Dzieci Diuny\", \"B\u00f3g Imperator Diuny\", \"Heretycy Diuny\" i \"Kapitularz Diun\u0105\".\n\nPolskie wydania wykorzystuj\u0105 tak\u017ce obrazy i rysunki Wojciecha Siudmaka, w t\u0142umaczeniu Marka Marsza\u0142a, kt\u00f3re doskonale oddaj\u0105 klimat powie\u015bci ilustracje Wojciecha Siudmaka. One r\u00f3wnie\u017c odznaczaj\u0105 si\u0119 barokowym bogactwem i przepychem, fascynuj\u0105c i urzekaj\u0105c czytelnika."
+    ],
+    "durationSeconds": 37.504394574999985
+  }
+}

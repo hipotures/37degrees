@@ -1,0 +1,62 @@
+{
+  "session_id": "38d2c10d-061a-4607-b249-863b58008013",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/38d2c10d-061a-4607-b249-863b58008013.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Treasure Island\" pirates authority symbolism legitimate power rebellion social order"
+  },
+  "tool_response": {
+    "query": "\"Treasure Island\" pirates authority symbolism legitimate power rebellion social order",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01Gd8fLFDLXah3riPHP4hay6",
+        "content": [
+          {
+            "title": "Treasure Island - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Treasure_Island"
+          },
+          {
+            "title": "Treasure Island: Themes | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/treasure/themes/"
+          },
+          {
+            "title": "The Pirate Crew in Treasure Island Character Analysis | Shmoop",
+            "url": "https://www.shmoop.com/study-guides/treasure-island-book/pirate-crew.html"
+          },
+          {
+            "title": "Treasure Island: Character List | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/treasure/characters/"
+          },
+          {
+            "title": "Pirates in Treasure Island by Stevenson | Summary & Analysis | Study.com",
+            "url": "https://study.com/academy/lesson/pirates-in-treasure-island-description-analysis.html"
+          },
+          {
+            "title": "Impact of Piracy on Culture and Society",
+            "url": "https://www.piratesinfo.com/history-of-piracy/impact-and-influence-of-piracy/impact-of-piracy-on-culture-and-society/"
+          },
+          {
+            "title": "Were Pirates The Revolutionaries Of The High Seas? \u00bb ScienceABC",
+            "url": "https://www.scienceabc.com/social-science/were-pirates-the-revolutionaries-of-the-high-seas.html"
+          },
+          {
+            "title": "About Treasure Island",
+            "url": "https://www.cliffsnotes.com/literature/t/treasure-island/about-treasure-island"
+          },
+          {
+            "title": "Treasure Island | Pirates of the Caribbean Wiki | Fandom",
+            "url": "https://pirates.fandom.com/wiki/Treasure_Island"
+          },
+          {
+            "title": "Treasure Island Themes | SuperSummary",
+            "url": "https://www.supersummary.com/treasure-island/themes/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with insights about authority, symbolism, legitimate power, rebellion, and social order in Robert Louis Stevenson's \"Treasure Island\":\n\n## Authority and Legitimate Power\n\nDr. Livesey and Squire Trelawney represent established authority figures who \"have high social status in the community and represent the civilized, rational world\" and serve as \"symbol[s] of worldly authority.\"(no content)Trelawney is \"associated with civic authority and social power, as well as with the comforts of civilized country life.\"(no content)The novel presents a clear divide where \"the captain and his men represent the forces of loyalty, while the pirates represent the forces of rebellion,\" with \"the captain, the doctor, the squire, Jim, and the other honest men remain[ing] loyal to one another, to their country, and to their mission.\"\n\n## Pirate Authority and Democratic Rebellion\n\nInterestingly, the pirates operate under their own alternative authority structure. The pirate society works \"according to oddly democratic principles\" where \"they elect the man they most respect (in this case, Long John Silver) to be captain.\"(no content)Pirate crews \"were generally democratic, electing their captains and reserving the right to depose them,\" making \"Stevenson's pirates, freely choosing the redoubtable Silver as their leader.\"\n\nHowever, this democratic system is unstable as \"without the rule of law, these elected captains aren't protected from the quarrelsome violence of their men\" and \"it really all seems to boil down to who's the strongest man at any given time. Might definitely makes right among pirates.\"\n\n## Symbolism of Rebellion and Social Order\n\nPirates serve as powerful symbols where \"the pirate, once a feared criminal, became a symbol of rebellion and freedom,\" particularly through Stevenson's work, which \"portrayed pirates not merely as ruthless outlaws but as individuals driven by a sense of adventure, individualism, and a rejection of societal constraints.\"(no content)Pirates represent \"enduring symbols of defiance and revolutionary thought\" and \"early symbols of resistance to imperialism\" whose \"actions represented a form of resistance against imperialist exploitation and control.\"\n\n## The Moral Framework\n\nThe novel's \"central theme revolves around concepts of loyalty and mutiny\" where \"each party reaps the consequences of each quality,\" making \"Treasure Island a moral tale that teaches the virtues of loyalty.\"(no content)The loyal characters \"survive the pirates' attacks and discover and secure the treasure,\" while \"the pirates rebel against the ship's rightful captain\" and \"fail to capture the treasure for themselves, and most of them die in the process.\"\n\n## Symbolic Emptiness and Social Value\n\nThe story uses symbolic elements like the empty treasure hole, which \"becomes a symbol for the futility of the treasure hunt and for the loss of one's soul in searching for the treasure,\" highlighting how \"without the structure and rules of a society that places monetary value on gold, the treasure is worthless.\"\n\nThe novel thus presents a complex examination of authority where legitimate social order ultimately prevails over pirate rebellion, while simultaneously romanticizing the pirates' democratic ideals and individualistic spirit."
+    ],
+    "durationSeconds": 24.840593074999983
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "session_id": "256f845f-ddd5-4027-a9c2-755ec8659a89",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/256f845f-ddd5-4027-a9c2-755ec8659a89.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Robinsonade term coined Johann Gottfried Schnabel 1731"
+  },
+  "tool_response": {
+    "query": "Robinsonade term coined Johann Gottfried Schnabel 1731",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_013oiGZah2CQHeYoKG29SdCx",
+        "content": [
+          {
+            "title": "Robinsonade",
+            "url": "https://www.worldwidewords.org/weirdwords/ww-rob1.htm"
+          },
+          {
+            "title": "Robinsonade - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Robinsonade"
+          },
+          {
+            "title": "Johann Gottfried Schnabel - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Johann_Gottfried_Schnabel"
+          },
+          {
+            "title": "Robinsonade - The Art and Popular Culture Encyclopedia",
+            "url": "https://www.artandpopularculture.com/Robinsonade"
+          },
+          {
+            "title": "Robinsonade - TV Tropes",
+            "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/Robinsonade"
+          },
+          {
+            "title": "(PDF) Rewriting Crusoe: The Robinsonade across Languages, Cultures, and Media | Jakub Lipski and Daniel Cook - Academia.edu",
+            "url": "https://www.academia.edu/42941926/Rewriting_Crusoe_The_Robinsonade_across_Languages_Cultures_and_Media"
+          },
+          {
+            "title": "\"Rewriting Crusoe: The Robinsonade across Languages, Cultures, and Medi\" by Jakub Lipski",
+            "url": "https://digitalcommons.bucknell.edu/bucknell-press/36/"
+          },
+          {
+            "title": "Deutsche Biographie - Schnabel, Johann Gottfried",
+            "url": "https://www.deutsche-biographie.de/118609475.html?language=en"
+          },
+          {
+            "title": "The New International Encyclop\u00e6dia/Schnabel, Johann Gottfried - Wikisource, the free online library",
+            "url": "https://en.wikisource.org/wiki/The_New_International_Encyclop%C3%A6dia/Schnabel,_Johann_Gottfried"
+          },
+          {
+            "title": "Robinsonade Novels | LibraryThing",
+            "url": "https://www.librarything.com/list/11171/all/Robinsonade-Novels"
+          }
+        ]
+      },
+      "Based on the web search results, I can confirm the information about the term \"Robinsonade\" being coined by Johann Gottfried Schnabel in 1731:\n\nThe word \"robinsonade\" was indeed coined by the German writer Johann Gottfried Schnabel in the Preface of his 1731 work Die Insel Felsenburg (The Island Stronghold). This confirms the details in your search query.\n\nKey facts about this term and its origin:\n\n- Robinsonade is a literary genre of fiction wherein the protagonist is suddenly separated from civilization, usually by being shipwrecked or marooned on a secluded and uninhabited island, and must improvise the means of their survival from the limited resources at hand. The genre takes its name from the 1719 novel Robinson Crusoe by Daniel Defoe.\n\n- Johann Gottfried Schnabel (November 7, 1692 \u2013 c. 1751\u20131758) was a German writer best known for his novel Insel Felsenburg.\n\n- The term was coined in German, by the writer Johann Gottfried Schnabel, in 1731, and it was also known earlier in French, though the Oxford English Dictionary's first example from that journal is dated 1847.\n\nThe search confirms that Schnabel not only coined the term but also wrote one of the most significant early examples of the genre with his own island narrative \"Die Insel Felsenburg\" in 1731."
+    ],
+    "durationSeconds": 13.080014816001057
+  }
+}

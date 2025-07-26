@@ -1,0 +1,62 @@
+{
+  "session_id": "117fc0a1-8874-49c5-b0fc-4bb38d5ee638",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/117fc0a1-8874-49c5-b0fc-4bb38d5ee638.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Antoine Berthet case 1827 Grenoble murder trial Stendhal inspiration Red and Black historical records"
+  },
+  "tool_response": {
+    "query": "Antoine Berthet case 1827 Grenoble murder trial Stendhal inspiration Red and Black historical records",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01Q5zDYo9hhNPMfLnWSZy4EQ",
+        "content": [
+          {
+            "title": "Stendhal Biography",
+            "url": "https://www.cliffsnotes.com/literature/r/the-red-and-the-black/stendhal-biography"
+          },
+          {
+            "title": "1828: Antoine Berthet, Stendhal inspiration | Executed Today",
+            "url": "https://www.executedtoday.com/2014/02/23/1828-antoine-berthet-stendhal-inspiration/"
+          },
+          {
+            "title": "L'affaire Berthet, la gen\u00e8se du Rouge et le Noir - Les anecdotes de l'Histoire",
+            "url": "https://anecdotes.canalblog.com/archives/2006/01/26/1155312.html"
+          },
+          {
+            "title": "Stendhal | Encyclopedia.com",
+            "url": "https://www.encyclopedia.com/people/literature-and-arts/french-literature-biographies/stendhal"
+          },
+          {
+            "title": "Julien Sorel - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Julien_Sorel"
+          },
+          {
+            "title": "The Novel as Political History: Stendhal's 'Le rouge et le noir' | Gresham College",
+            "url": "https://www.gresham.ac.uk/watch-now/novel-political-history-stendhals-le-rouge-et-le-noir"
+          },
+          {
+            "title": "The Red and the Black by Stendhal | Goodreads",
+            "url": "https://www.goodreads.com/book/show/45836523-the-red-and-the-black"
+          },
+          {
+            "title": "The Red and the Black - stendhalforever.com - Stendhal",
+            "url": "http://redandblack.stendhalforever.com/sources.html"
+          },
+          {
+            "title": "The Red and the Black 0812972074, 9780812972078, 0679642846, 9780679642848 - DOKUMEN.PUB",
+            "url": "https://dokumen.pub/the-red-and-the-black-0812972074-9780812972078-0679642846-9780679642848.html"
+          },
+          {
+            "title": "The Project Gutenberg eBook of The Red and the Black, by Stendhal",
+            "url": "https://www.gutenberg.org/cache/epub/44747/pg44747-images.html"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with detailed information about the Antoine Berthet case and its connection to Stendhal's \"The Red and the Black\":\n\n## The Antoine Berthet Case (1827-1828)\n\nAntoine Berthet was convicted of murder in December 1827 at Grenoble and was the son of a Brangues blacksmith.(no content)Antoine Berthet was the last son of the blacksmith of Brangues, located in Is\u00e8re, of modest origins but gifted with great intelligence.\n\n### Background and Career\nAt twenty, he became preceptor in the home of a local dignitary, M. Michoud, and probably became the lover of Mme. Michoud. Leaving the Michoud home, Berthet entered a seminary at Belley, from which he was dismissed as undesirable.(no content)From there, he went as preceptor to the home of M. de Cordon. He had an affair with the latter's daughter and was sent away.\n\n### The Crime\nOn Sunday July 22, 1827, during the celebration of high mass, Antoine Berthet entered the parish church noisily. He looked for his victim then fired. In the church there was panic. Screams accompanied the fall from her bench of Madame Michoud. Young Antoine turned his pistol against himself and fired.(no content)Both protagonists of this affair were saved from death. Antoine's suicide had failed.(no content)On February 23, 1828, Antoine Berthet was executed by guillotine at Grenoble's Place Grenette.\n\n### Trial and Execution\nHe was arrested and incarcerated at Bourgain. During the trial, the prosecution emphasized the odious character of the person: his devouring ambition, the assassination project against a woman during service. The sentence was harsh. He was condemned to death.\n\n## Connection to Stendhal's \"The Red and the Black\"\n\nThe Red and the Black, Chronicle of the XIX Century, written in 1829 and published in 1831, fictionalizes and elaborates an actual happening of which Stendhal had read in records of court proceedings. The historical person who served as a model for Julien Sorel was Antoine Berthet.(no content)The Red and the Black relied in part on borrowed material and sprang from the account of a crime that Stendhal had read in the Journal of Criminal Cases. A blacksmith's son named Antoine Berthet had been sentenced to death after shooting a woman\u2014with whom he may have had a romantic history\u2014in a church during Mass.\n\n### Historical Records\nThe events of the novel are based on real events, as recorded in various numbers of the Gazette des Tribunaux of December 1827. The Gazette specialised in sensational court proceedings.(no content)The story was prompted by a real-life case reported in a French newspaper over four days in late December, 1827.\n\n### Parallels and Differences\nBerthet's story, reduced to this pattern, is the story of Julien Sorel, hero of the novel. The three successive stages in Julien's adventure have their counterparts in Berthet's life. However, few details about the third phase of Berthet's life were available from the Grenoble trial records, and Stendhal was forced to stray from the facts in his creation of Julien's experiences with Mathilde in the Mole episode.(no content)While the influence of the case is clear in the plot of Le Rouge et le Noir, and the sickly Berthet also provides a physical model, he has none of the nobler traits or brilliance that makes Julien more than a jealous stalker.\n\nThe Antoine Berthet case thus provided Stendhal with the factual foundation for his masterpiece, though he transformed the real-life events into a more complex psychological and social study through his fictional character Julien Sorel."
+    ],
+    "durationSeconds": 32.62027049500495
+  }
+}

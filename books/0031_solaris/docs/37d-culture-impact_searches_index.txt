@@ -1,0 +1,12 @@
+2025-07-26 01:49:23 | WebSearch | 25c2a401-88de-4e28-8dba-e70b720fd603 | 37d-culture-impact_raw_WebSearch_20250726_014923.json
+2025-07-26 01:49:45 | WebSearch | 25c2a401-88de-4e28-8dba-e70b720fd603 | 37d-culture-impact_raw_WebSearch_20250726_014945.json
+2025-07-26 01:50:00 | WebSearch | 25c2a401-88de-4e28-8dba-e70b720fd603 | 37d-culture-impact_raw_WebSearch_20250726_015000.json
+2025-07-26 01:50:27 | WebSearch | 25c2a401-88de-4e28-8dba-e70b720fd603 | 37d-culture-impact_raw_WebSearch_20250726_015027.json
+2025-07-26 01:50:58 | WebSearch | 25c2a401-88de-4e28-8dba-e70b720fd603 | 37d-culture-impact_raw_WebSearch_20250726_015058.json
+2025-07-26 01:53:38 | WebFetch | 25c2a401-88de-4e28-8dba-e70b720fd603 | 37d-culture-impact_raw_WebFetch_20250726_015338.json
+2025-07-26 01:53:51 | WebFetch | 25c2a401-88de-4e28-8dba-e70b720fd603 | 37d-culture-impact_raw_WebFetch_20250726_015351.json
+2025-07-26 01:54:10 | WebFetch | 25c2a401-88de-4e28-8dba-e70b720fd603 | 37d-culture-impact_raw_WebFetch_20250726_015410.json
+2025-07-26 01:54:21 | WebSearch | 25c2a401-88de-4e28-8dba-e70b720fd603 | 37d-culture-impact_raw_WebSearch_20250726_015421.json
+2025-07-26 01:54:52 | WebSearch | 25c2a401-88de-4e28-8dba-e70b720fd603 | 37d-culture-impact_raw_WebSearch_20250726_015452.json
+2025-07-26 01:55:04 | WebSearch | 25c2a401-88de-4e28-8dba-e70b720fd603 | 37d-culture-impact_raw_WebSearch_20250726_015504.json
+2025-07-26 01:55:30 | WebSearch | 25c2a401-88de-4e28-8dba-e70b720fd603 | 37d-culture-impact_raw_WebSearch_20250726_015530.json

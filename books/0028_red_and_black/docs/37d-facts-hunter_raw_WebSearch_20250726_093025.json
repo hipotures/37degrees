@@ -1,0 +1,62 @@
+{
+  "session_id": "117fc0a1-8874-49c5-b0fc-4bb38d5ee638",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/117fc0a1-8874-49c5-b0fc-4bb38d5ee638.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "youth mental health imposter syndrome toxic ambition social pressure education social mobility Gen Z psychology"
+  },
+  "tool_response": {
+    "query": "youth mental health imposter syndrome toxic ambition social pressure education social mobility Gen Z psychology",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01CxCQjb4tSSpa7XNxCEgSYc",
+        "content": [
+          {
+            "title": "Generation Z\u2019s Mental Health Issues - The Annie E. Casey Foundation",
+            "url": "https://www.aecf.org/blog/generation-z-and-mental-health"
+          },
+          {
+            "title": "Gen Z Mental Health Crisis: Causes, Challenges & Solutions",
+            "url": "https://psychplus.com/blog/the-gen-z-mental-health-crisis-why-its-getting-worse-what-can-be-done/"
+          },
+          {
+            "title": "Understanding Gen Z's Mental Health Challenge | Charlie Health",
+            "url": "https://www.charliehealth.com/post/mental-health-the-biggest-threat-to-our-generation"
+          },
+          {
+            "title": "Gen Z more likely to report mental health concerns",
+            "url": "https://www.apa.org/monitor/2019/01/gen-z"
+          },
+          {
+            "title": "Social media and mental health: The impact on Gen Z | McKinsey",
+            "url": "https://www.mckinsey.com/mhi/our-insights/gen-z-mental-health-the-impact-of-tech-and-social-media"
+          },
+          {
+            "title": "Gen Z adults and younger millennials are \u201ccompletely ...",
+            "url": "https://www.apa.org/topics/stress/generation-z-millennials-young-adults-worries"
+          },
+          {
+            "title": "Gen Z Takes on Mental Health | Psychology Today",
+            "url": "https://www.psychologytoday.com/us/blog/the-cube/202405/gen-z-takes-on-mental-health"
+          },
+          {
+            "title": "Gen Z + Mental Health: What Is Impacting Our Youth and Young Adults Today? | UofL Health",
+            "url": "https://uoflhealth.org/articles/gen-z-mental-health-what-is-impacting-our-youth-and-young-adults-today/"
+          },
+          {
+            "title": "Generational Shifts in Adolescent Mental Health: A Longitudinal Time-Lag Study | Journal of Youth and Adolescence",
+            "url": "https://link.springer.com/article/10.1007/s10964-024-02095-3"
+          },
+          {
+            "title": "Commentary: Prevalence, Predictors, and Treatment of Imposter Syndrome: A Systematic Review",
+            "url": "https://www.mentalhealthjournal.org/articles/commentary-prevalence-predictors-and-treatment-of-imposter-syndrome-a-systematic-review.html"
+          }
+        ]
+      },
+      "Based on my search results, I found comprehensive information about youth mental health issues among Generation Z, including imposter syndrome and the various pressures they face. Here's what the research reveals:\n\n## Generation Z Mental Health Crisis\n\nLeading organizations such as the American Academy of Pediatrics and the American Academy of Child and Adolescent Psychiatry recently declared a national state of emergency for child and youth mental health. Trends in youth suicide, mental health ER visits, depression and anxiety have been on the rise over the past decade or more.(no content)A 2023 Gallup survey found that almost half (47%) of Gen Zers ages 12 to 26 often or always feel anxious, and more than one in five (22%) often or always feel depressed.\n\n## Imposter Syndrome and Academic Pressure\n\nThe fear of \"not being good enough\" or falling behind makes it easy to feel exhausted, even before officially starting a career.(no content)Gen Z has grown up in a comparison-oriented culture, constantly questioning whether their real lives\u2014the ones lived outside of social media\u2014stack up to others. The sea of status updates can make it feel impossible to avoid FOMO, and you might feel like you'll never be as successful as your peers.(no content)Another major factor that affects Gen Z's mental health is the pressure for achievement and success. With the rise of social media, young people are constantly exposed to images of their peers achieving in various fields. This creates a sense of competition and pressure to excel, which can lead to stress and anxiety.\n\n## Social Media and Toxic Ambition\n\nThe pressure to look successful, happy, and \"perfect\" online is overwhelming. Scrolling through highlight reels of people's lives often leads to self-doubt and insecurity.(no content)With skyrocketing tuition costs and a competitive job market, Gen Z is under immense stress to secure financial stability in an unpredictable economy.\n\n## Educational and Social Mobility Pressures\n\nThere's constant pressure to be stronger, faster, prettier, smarter. Your peers all seem perfect. Teenagers can't escape. They're stuck in school.(no content)Several factors may predispose minority students to increased psychological stress during their educational experiences including lack of adequate financial aid resulting in the need to work to support themselves financially, racial discrimination, and being the first in their families to pursue advanced education. Given the current environment of financial uncertainty for all students and recent graduates, there may be an increase in the number of individuals suffering from imposter feelings.\n\n## Unique Generational Challenges\n\nUnlike Millennials, Gen X, or Baby Boomers, Gen Z grew up in a world of constant digital stimulation, global crises, and economic uncertainty. Gen Z juggles the pressure of increasingly high costs of living and student loans, high political tensions, and even a global pandemic, all while trying to maintain a perfect Instagram feed.(no content)Gen-Z'ers\u2014individuals born between 1995 and 2010\u2014are growing up in an increased age of stress and anxiety. According to a 2019 survey by the American Psychological Association, just 45 percent of Gen-Z'ers say their mental health is very good or excellent.\n\nThe research indicates that Generation Z faces unprecedented mental health challenges driven by a complex intersection of social media pressure, academic competition, economic uncertainty, and social mobility pressures, all contributing to widespread imposter syndrome and toxic ambition patterns."
+    ],
+    "durationSeconds": 25.846768500998618
+  }
+}

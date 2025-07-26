@@ -1,0 +1,62 @@
+{
+  "session_id": "117fc0a1-8874-49c5-b0fc-4bb38d5ee638",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/117fc0a1-8874-49c5-b0fc-4bb38d5ee638.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Stendhal Julien Sorel real inspiration Antoine Berthet Lafargue case \"The Red and the Black\" true story"
+  },
+  "tool_response": {
+    "query": "Stendhal Julien Sorel real inspiration Antoine Berthet Lafargue case \"The Red and the Black\" true story",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01VfUwvVTAa99sJQKBtp5nHX",
+        "content": [
+          {
+            "title": "Julien Sorel - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Julien_Sorel"
+          },
+          {
+            "title": "The Red and the Black - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Red_and_the_Black"
+          },
+          {
+            "title": "The Red and the Black by Stendhal | Goodreads",
+            "url": "https://www.goodreads.com/book/show/14662.The_Red_and_the_Black"
+          },
+          {
+            "title": "The Project Gutenberg eBook of The Red and the Black, by Stendhal",
+            "url": "https://www.gutenberg.org/files/44747/44747-h/44747-h.htm"
+          },
+          {
+            "title": "The Red and the Black - stendhalforever.com - Stendhal",
+            "url": "http://redandblack.stendhalforever.com/sources.html"
+          },
+          {
+            "title": "Stendhal Biography",
+            "url": "https://www.cliffsnotes.com/literature/r/the-red-and-the-black/stendhal-biography"
+          },
+          {
+            "title": "The Red and the Black | Romanticism, Realism, France | Britannica",
+            "url": "https://www.britannica.com/topic/The-Red-and-the-Black"
+          },
+          {
+            "title": "\u201cThe Red and the Black\u201d, analysis of the novel by Frederic Stendhal | LitHelper",
+            "url": "https://lithelper.com/frederic-stendhal/the-red-and-the-black-analysis/"
+          },
+          {
+            "title": "The Red and the Black by Stendhal - Reading Guide: 9780140447644 - PenguinRandomHouse.com: Books",
+            "url": "https://www.penguinrandomhouse.com/books/298093/the-red-and-the-black-by-stendhal/9780140447644/readers-guide/"
+          },
+          {
+            "title": "1831: Julien Sorel, in The Red and the Black | Executed Today",
+            "url": "https://www.executedtoday.com/2012/07/25/1831-julien-sorel-stendhal-the-red-and-the-black/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about the real-life inspirations behind Stendhal's \"The Red and the Black\" and its protagonist Julien Sorel.\n\n## Antoine Berthet - The Primary Inspiration\n\nThe life of Stendhal's Julien Sorel mirrors events in the life of Antoine Berthet to a remarkable degree. The external physical basis of the story is supplied not by the life of the author, but by the life of a young student of Besan\u00e7on, of the name of Berthet, who was convicted, like Julien, of murder in December 1827, at Grenoble.(no content)Berthet was the son of a Brangues blacksmith. At twenty, he became preceptor in the home of a local dignitary, M. Michoud, and probably became the lover of Mme. Michoud.(no content)Berthet, a man from lowly origins, nevertheless achieved a considerable degree of learning and was employed as a tutor by the Michoud family. It is not known whether Berthet had a sexual relationship with Madam Michoud or not (at his trial he denied it), but he certainly appears to have had a very close emotional relationship with her.(no content)At some point Berthet left the Michoud family and was employed as a tutor by the Aristocratic Cordon family, and again became emotionally embroiled, this time with the Cordon daughter. Leaving the Michoud home, Berthet entered a seminary at Belley, from which he was dismissed as undesirable. From there, he went as preceptor to the home of M. de Cordon. He had an affair with the latter's daughter and was sent away.(no content)Now desperate, without a future or position, but still in love with Mme. Michoud, Berthet began writing threatening letters to Mme. Michoud, accusing her of infidelity toward him and of calumny, holding her responsible for his failure. His intimidations and threats finally caused M. Michoud to find a position for Berthet in the home of some cousins. One Sunday, however, Antoine returned to Brangues, followed Mme. Michoud to church, and shot her during the service.(no content)In June 1826 he entered the church in which she was worshipping and shot her. He also attempted to kill himself. Both attempts failed, but he was nevertheless executed by guillotine at Grenoble in February, 1828, aged 25 years.\n\n## Adrien Lafargue - The Secondary Inspiration\n\nFor the personality of his 'hero' Stendhal looked to the case of Adrien Lafargue, a cabinet-maker from the Pyrenees who killed and then decapitated his mistress, Th\u00e9r\u00e8se, in 1828. Like Berthet he tried and failed to commit suicide but justice was more lenient and he was sentenced to just five years imprisonment.(no content)In a perverse process of Stendhalian crystallisation, the author was able to forget the atrocity of Lafargue's crime and depict him as an 'Othello', full of imagination and energy: \"For Stendhal the killing of Th\u00e9r\u00e8se represents energy and will-power. It is an act of authentic, full-blooded passion, a spontaneous yet voluntary expression of vengeful jealousy.\"\n\n## Stendhal's Creative Process\n\nLike all of Stendhal's novels with the exception of Lamiel, the plot for Le Rouge et le Noir was not invented from his imagination but rather inspired by other written sources then appropriated and altered during the subsequent processes of composition and invention. In an autograph note written in the manuscript of Lucien Leuwen comparing the two works, Stendhal later acknowledged that the plot of Le Rouge et le Noir was not of his invention and declared this a compositional advantage: 'I cannot write a dialogue of substance or wit unless I feel it to be real. That is the advantage of working on an existent story like [that of] Julien Sorel.'(no content)The Red and the Black, Chronicle of the XIX Century, written in 1829 and published in 1831, fictionalizes and elaborates an actual happening of which Stendhal had read in records of court proceedings.\n\n## The True Story vs. Fiction\n\nWhile the influence of the case is clear in the plot of Le Rouge et le Noir, and the sickly Berthet also provides a physical model, he has none of the nobler traits or brilliance that makes Julien more than a jealous stalker.(no content)The soul, the brain of Julien is not Berthet but Beyle.(no content)Berthet's story, reduced to this pattern, is the story of Julien Sorel, hero of the novel. The three successive stages in Julien's adventure have their counterparts in Berthet's life.\n\nIn essence, Stendhal combined the external circumstances of Antoine Berthet's tragic case with elements from Adrien Lafargue's story and his own psychological insights to create the complex character of Julien Sorel, transforming a sordid crime into one of literature's most psychologically compelling novels."
+    ],
+    "durationSeconds": 38.26422734599561
+  }
+}

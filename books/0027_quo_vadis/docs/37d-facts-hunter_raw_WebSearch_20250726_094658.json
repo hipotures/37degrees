@@ -1,0 +1,62 @@
+{
+  "session_id": "a13ae777-128d-46b3-ae68-aaaa7f00c2a3",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/a13ae777-128d-46b3-ae68-aaaa7f00c2a3.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Quo Vadis program nauczania polskie szko\u0142y matura patriotyzm edukacja"
+  },
+  "tool_response": {
+    "query": "Quo Vadis program nauczania polskie szko\u0142y matura patriotyzm edukacja",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01BCG1L5mdHkRMBp4XQxyZT8",
+        "content": [
+          {
+            "title": "Nowa lista lektur 2024/2025. Kt\u00f3re lektury s\u0105 obowi\u0105zkowe dla szk\u00f3\u0142 podstawowych, a kt\u00f3re w liceum? | Strefa Edukacji",
+            "url": "https://strefaedukacji.pl/nowa-lista-lektur-obowiazujaca-od-1-wrzesnia-2024-r-jakie-zmiany-w-lekturach-wprowadzono/ar/c5-18308625"
+          },
+          {
+            "title": "QUO VADIS, Henryk Sienkiewicz | egzamin \u00f3smoklasisty 2025",
+            "url": "https://www.otouczelnie.pl/news/1496/Quo-vadis-Henryk-Sienkiewicz-egzamin-osmoklasisty-2023"
+          },
+          {
+            "title": "Lektury z gwiazdk\u0105",
+            "url": "https://npseo.pl/lektury-z-gwiazdka/"
+          },
+          {
+            "title": "NPC Quo Vadis \u2013 Niderlandzko-Polskie Centrum Kultury i Edukacji",
+            "url": "https://www.npc-quovadis.nl/"
+          },
+          {
+            "title": "Quo vadis, Edukacjo? - rp.pl - Edukacja",
+            "url": "https://edukacja.rp.pl/edukacja/art41607521-quo-vadis-edukacjo"
+          },
+          {
+            "title": "Henryk Sienkiewicz \u201eQUO VADIS\u201d",
+            "url": "http://spkp.pl/info/quo_vadis.pdf"
+          },
+          {
+            "title": "Patriotyzm w edukacji szkolnej. Za\u0142o\u017cenia podstaw programowych kszta\u0142cenia og\u00f3lnego - Tera\u017aniejszo\u015b\u0107 \u2013 Cz\u0142owiek \u2013 Edukacja - Volume 20, Issue 1(77) (2017) - CEJSH - Yadda",
+            "url": "http://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.ojs-issn-1505-8808-year-2017-volume-20-issue-1_77_-article-oai_ojs_kwartalniktce_edu_pl_article_305"
+          },
+          {
+            "title": "Quo vadis jako lektura szkolna - Rozprawka",
+            "url": "https://zszywka.pl/rozprawka/szkoly-srednie/5994/quo-vadis-jako-lektura-szkolna"
+          },
+          {
+            "title": "\"\"Quo vadis\" - \u015bwiat przedstawiony\" - quiz z j\u0119zyka polskiego dla klasy si\u00f3dmej szko\u0142y podstawowej",
+            "url": "https://www.eduelo.pl/quizy/poziom-vii/jezyk-polski/lektury/quo-vadis-swiat-przedstawiony/"
+          },
+          {
+            "title": "Zadanie 1 / Powt\u00f3rka z polskiego - Quo vadis Henryka Sienkiewicza - Zadania i testy z j\u0119zyka polskiego na egzamin \u00f3smoklasisty - J\u0119zyk polski - egzamin online, testy i zadania z rozwi\u0105zaniami - dlaucznia.info",
+            "url": "https://testy.dlaucznia.info/s/5026/81093-jezyk-polski-zadania/4990419-Powtorka-z-polskiego-Quo-vadis-Henryka-Sienkiewicza.htm"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with information about the \"Quo Vadis\" curriculum and its role in Polish education, particularly regarding patriotism and the matura exam.\n\n## Quo Vadis in Polish Education System\n\nFrom 2024/2025, \"Quo vadis\" is only required to be read in fragments in primary schools, similar to \"Pan Tadeusz\". This represents a significant change in the Polish curriculum.\n\n### Changes in Reading Requirements\n\nChanges in the core curriculum came into effect from the 2024/2025 school year, aiming to limit the mandatory scope of teaching content. \"Pan Tadeusz\", \"Quo vadis\", and \"Syzyfowe prace\", previously studied in their entirety, are now only required in fragments.\n\n### Educational Significance\n\n\"Quo vadis\" is a historical novel that describes the persecution of early Christians and the development of their religion. The novel transports readers to ancient Rome, where young Christianity confronts the pagan world under Nero's rule, allowing for deeper understanding of Christianity's origins and the moral challenges of that era.\n\n### Patriotic and Educational Value\n\nThese readings constitute an extremely important element of education for every student completing secondary school in Poland, as they are significant books that matura students should know to successfully pass the Polish language exam. These novels are an indispensable part of matura exams, helping students develop analytical skills and better understand the historical and cultural background of literary works.\n\n### Student Reception and Debates\n\n\"Quo vadis\" is not a reading beloved by students, likely due to the fact that it is quite long. The debate over whether \"Quo vadis\" should be required school reading continues, as introducing this literary classic to the curriculum could benefit students' intellectual and cultural development, but would require fundamental changes in approach to school readings and teaching methods.\n\n### Connection to Modern Patriotism Education\n\nFrom a pedagogical perspective, it's important to prepare individuals through formal education to be modern patriots - multidimensional patriots ready to accept responsibility for a broadly understood community while maintaining respect for ancestral heritage and attachment to their nation.\n\nThe search results indicate that \"Quo Vadis\" remains an important part of Polish educational discourse, though its role has been modified to reduce the burden on students while maintaining its cultural and patriotic educational value."
+    ],
+    "durationSeconds": 19.061083243004976
+  }
+}

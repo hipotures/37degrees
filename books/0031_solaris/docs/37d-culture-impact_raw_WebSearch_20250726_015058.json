@@ -1,0 +1,62 @@
+{
+  "session_id": "25c2a401-88de-4e28-8dba-e70b720fd603",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/25c2a401-88de-4e28-8dba-e70b720fd603.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Stanis\u0142aw Lem polski edukacja matura lektury szkolne m\u0142odzie\u017c szko\u0142a"
+  },
+  "tool_response": {
+    "query": "Stanis\u0142aw Lem polski edukacja matura lektury szkolne m\u0142odzie\u017c szko\u0142a",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01P9a8j4JwtojgmkNb3CzJVz",
+        "content": [
+          {
+            "title": "Stanis\u0142aw Lem - wszystkie ksi\u0105\u017cki autora - SkupSzop",
+            "url": "https://skupszop.pl/autor/stanislaw-lem"
+          },
+          {
+            "title": "Stanis\u0142aw Lem | wszystkie ksi\u0105\u017cki w TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/autor/stanislaw-lem"
+          },
+          {
+            "title": "Stanis\u0142aw Lem - wybrane opowiadanie - Lista lektur dla gimnazjum i ostatnich klas szko\u0142y podstawowej. Fot. materia\u0142y prasowe - Zdj\u0119cia, fotki",
+            "url": "https://maturzysta.dlastudenta.pl/fotoalbum/1453715,11770,128996,1.html"
+          },
+          {
+            "title": "Stanis\u0142aw Lem - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Stanis%C5%82aw_Lem"
+          },
+          {
+            "title": "Stanis\u0142aw Lem - ksi\u0105\u017cki, opowiadania, \u017cyciorys - Empik.com",
+            "url": "https://www.empik.com/autor/stanislaw-lem"
+          },
+          {
+            "title": "Literatura dla dzieci i m\u0142odzie\u017cy stanis\u0142aw lem - stanis\u0142aw lem - Ceneo.pl",
+            "url": "https://www.ceneo.pl/Literatura_dla_dzieci_i_mlodziezy;030ps1=stanis~~saw~~Mlem.htm"
+          },
+          {
+            "title": "Stanis\u0142aw Lem - ksi\u0105\u017cki, e-booki, audiobooki",
+            "url": "https://www.swiatksiazki.pl/autor/stanislaw-lem-9809"
+          },
+          {
+            "title": "Stanis\u0142aw Lem \u2013 5 ksi\u0105\u017cek, kt\u00f3re musisz przeczyta\u0107",
+            "url": "https://woblink.com/blog/stanislaw-lem-5-ksiazek-ktore-musisz-przeczytac/"
+          },
+          {
+            "title": "Stanis\u0142aw Lem - Ksi\u0105\u017cki i Ebooki - Ksi\u0119garnia PWN",
+            "url": "https://ksiegarnia.pwn.pl/autor/Stanislaw-Lem,a,69634129"
+          },
+          {
+            "title": "Lektura szkolna \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Lektura_szkolna"
+          }
+        ]
+      },
+      "Based on the search results, I found information about Stanis\u0142aw Lem's works in the context of Polish education and school reading lists. Here's what I discovered:\n\nW kanonie lektur szkolnych znajduj\u0105 si\u0119 r\u00f3wnie\u017c wybrane opowiadania Stanis\u0142awa Lema.\n\nThe search reveals several key points about Stanis\u0142aw Lem's presence in Polish school education:\n\n**Works included in school curricula:**\n\n1. **\"Bajki robot\u00f3w\" (Robot Fables)** - Nie bez przyczyny ksi\u0105\u017cka znalaz\u0142a si\u0119 w kanonie szkolnych lektur. This work is specifically mentioned as being part of the school reading canon for elementary school students: Stanis\u0142aw Lem Bajki robot\u00f3w appears in the official list for grades IV-VI.\n\n2. **\"Solaris\"** - Do listy lektur uzupe\u0142niaj\u0105cych dodano (w kategorii XX wieku): \u201eSolaris\" Stanis\u0142awa Lema - this novel has been added to the supplementary reading list for the 20th century category.\n\n3. **Selected short stories** - Stanis\u0142aw Lem \u2013 wybran (the text is cut off, but indicates selected works by Lem are included).\n\n**Educational value:**\nMimo \u017ce uczniowie szk\u00f3\u0142 podstawowych czytaj\u0105 j\u0105 na lekcjach nie oznacza, \u017ce ksi\u0105\u017cka nie nadaje si\u0119 dla doros\u0142ych. Jak to zwykle u Lema, doros\u0142y czytelnik znajdzie w jego tekstach ukryte znaczenia i odniesienia do kultury. Dzi\u0119ki temu \u201eBajki robot\u00f3w\" \u015bwietnie nadaj\u0105 si\u0119 do czytania niezale\u017cnie od wieku.\n\nThe search shows that Stanis\u0142aw Lem's works, particularly \"Bajki robot\u00f3w\" and \"Solaris,\" are officially included in Polish school curricula as required or supplementary reading for different age groups, reflecting their educational and cultural significance in Polish literature education."
+    ],
+    "durationSeconds": 20.549049447000026
+  }
+}

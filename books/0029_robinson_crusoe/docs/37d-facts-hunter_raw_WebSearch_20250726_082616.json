@@ -1,0 +1,62 @@
+{
+  "session_id": "256f845f-ddd5-4027-a9c2-755ec8659a89",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/256f845f-ddd5-4027-a9c2-755ec8659a89.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Robinson Crusoe\" szko\u0142a podstawowa lektura program nauczania Polska"
+  },
+  "tool_response": {
+    "query": "\"Robinson Crusoe\" szko\u0142a podstawowa lektura program nauczania Polska",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01JWz5gmtJsVtud71tbDt6Ki",
+        "content": [
+          {
+            "title": "Robinson Crusoe - Streszczenie szczeg\u00f3\u0142owe - Daniel Defoe - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/daniel-defoe/robinson-crusoe.streszczenie-szczegolowe"
+          },
+          {
+            "title": "Robinson Crusoe",
+            "url": "https://wolnelektury.pl/katalog/lektura/robinson-crusoe/"
+          },
+          {
+            "title": "Lektura szkolna \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Lektura_szkolna"
+          },
+          {
+            "title": "Szko\u0142a Podstawowa B\u0142ogos\u0142awionej Franciszki Siedliskiej w Krakowie |Lektury",
+            "url": "https://www.szkolanazaret.pl/lektury"
+          },
+          {
+            "title": "Robinson Crusoe - Daniel Defoe | lektury szkolne z om\u00f3wieniem - Wydawnictwo Greg",
+            "url": "https://www.greg.pl/lektury/8,371_Robinson-Crusoe.html"
+          },
+          {
+            "title": "Robinson Crusoe Lektura z opracowaniem | Daniel Defoe (Ksi\u0105\u017cka) - Ksi\u0119garnia znak.com.pl",
+            "url": "https://www.znak.com.pl/p/robinson-crusoe-lektura-z-opracowaniem-daniel-defoe-79324"
+          },
+          {
+            "title": "Robinson Crusoe - klasyka lektur szkolnych | Recenzja -",
+            "url": "https://www.nicestory.pl/robinson-crusoe-klasyka-lektur-szkolnych/"
+          },
+          {
+            "title": "Robinson Crusoe Daniel Defoe | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/robinson-crusoe-daniel-defoe"
+          },
+          {
+            "title": "Robinson Crusoe - \u015aci\u0105gi, wypracowania, lektury - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury-online/daniel-defoe/robinson-crusoe"
+          },
+          {
+            "title": "\u201eRobinson Crusoe\u201d - \u015aci\u0105gi, wypracowania, lektury - Bryk.pl",
+            "url": "https://www.bryk.pl/wypracowania/jezyk-polski/lektury/21581-robinson-crusoe.html"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with information about \"Robinson Crusoe\" as a school reading text in the Polish educational system:\n\n## Robinson Crusoe w polskim programie nauczania\n\nRobinson Crusoe autorstwa Daniela Defoe jest jedn\u0105 z lektur szkolnych w polskim systemie edukacji. Ksi\u0105\u017cka ta jest wymieniana w\u015br\u00f3d lektur dla szk\u00f3\u0142 podstawowych.\n\n### Historia w programie nauczania\n\nRobinson Crusoe by\u0142 wielokrotnie dodawany i usuwany z oficjalnych list lektur szkolnych - na przyk\u0142ad w pewnym momencie zosta\u0142 usuni\u0119ty z programu, ale p\u00f3\u017aniej ponownie dodany do listy lektur.\n\n### Charakterystyka lektury\n\nRobinson Crusoe to powie\u015b\u0107 podr\u00f3\u017cniczo-przygodowa, najs\u0142ynniejsza w dorobku autora, Daniela Defoe. Opowiada ona histori\u0119 m\u0142odego m\u0119\u017cczyzny, kt\u00f3ry ucieka z domu, bo nie chce wie\u015b\u0107 nudnego \u017cywota, takiego, jakie wiedzie jego ojciec. Trafia na statek i uczy si\u0119 sztuki \u017ceglarskiej, prowadzi interesy wraz z \u017con\u0105 zmar\u0142ego kapitana, du\u017co podr\u00f3\u017cuje, a\u017c podczas jednej z wypraw statek zostaje napadni\u0119ty, a za\u0142oga uwi\u0119ziona.\n\n### Dost\u0119pno\u015b\u0107 i wydania szkolne\n\nDost\u0119pne s\u0105 wydania Robinsona Crusoe kompletne bez skr\u00f3t\u00f3w i ci\u0119\u0107 w tre\u015bci, kt\u00f3re zawieraj\u0105 pe\u0142en tekst lektury oraz opracowanie z bardzo szczeg\u00f3\u0142owym streszczeniem. Historia Robinsona Crusoe na sta\u0142e wesz\u0142a do kanonu tytu\u0142\u00f3w podr\u00f3\u017cniczych oraz lektur szkolnych.\n\nLektura ta jest szczeg\u00f3lnie ceniona jako przyk\u0142ad literatury przygodowej i jest cz\u0119sto u\u017cywana w polskich szko\u0142ach podstawowych do nauki literatury \u015bwiatowej."
+    ],
+    "durationSeconds": 19.049399587001652
+  }
+}

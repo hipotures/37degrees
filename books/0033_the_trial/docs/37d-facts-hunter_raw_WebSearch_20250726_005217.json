@@ -1,0 +1,63 @@
+{
+  "session_id": "3a49404c-4f85-49d3-82a6-52395d74d3af",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/3a49404c-4f85-49d3-82a6-52395d74d3af.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Orson Welles The Trial 1962 Kafka film adaptation box office reception"
+  },
+  "tool_response": {
+    "query": "Orson Welles The Trial 1962 Kafka film adaptation box office reception",
+    "results": [
+      "I'll search for information about Orson Welles' 1962 film adaptation of Kafka's \"The Trial\" and its box office reception.",
+      {
+        "tool_use_id": "srvtoolu_014m2YXLPfbkSr9ci1nih7Qx",
+        "content": [
+          {
+            "title": "Film: The Trial (1962) - Orson Welles",
+            "url": "https://www.orsonwelles.org/2012/10/film-trial_17.html"
+          },
+          {
+            "title": "The Trial (1962 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Trial_(1962_film)"
+          },
+          {
+            "title": "Orson Welles at 100: The Trial (1962) - Criminal Element",
+            "url": "https://www.criminalelement.com/orson-welles-at-100-the-trial-1962-kafka-jake-hinkson/"
+          },
+          {
+            "title": "\u2018The Trial\u2019: Orson Welles\u2019 Exhibition of Paranoia, Illogicality and Personal Responsibility in His Take on Kafka\u2019s Classic \u2022 Cinephilia & Beyond",
+            "url": "https://cinephiliabeyond.org/trial-orson-welles-exhibition-paranoia-illogicality-personal-responsibility-take-kafkas-classic/"
+          },
+          {
+            "title": "The Trial (1962) \u2b50 7.6 | Drama, Mystery, Thriller",
+            "url": "https://www.imdb.com/title/tt0057427/"
+          },
+          {
+            "title": "'The Trial': THR's 1963 Film",
+            "url": "https://www.hollywoodreporter.com/movies/movie-news/trial-review-1963-movie-1101964/"
+          },
+          {
+            "title": "1962: Orson Welles adapts Kafka's The Trial - Festival de Cannes",
+            "url": "https://www.festival-cannes.com/en/2022/1962-orson-welles-adapts-kafka-s-the-trial/"
+          },
+          {
+            "title": "The Trial (1962) | Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/m/the_trial_1962"
+          },
+          {
+            "title": "\"Josef K von 1963...\": Orson Welles' \u2018Americanized\u2019 Version of The Trial and the changing functions of the Kafkaesque in Postwar West Germany",
+            "url": "https://journals.openedition.org/ejas/7610"
+          },
+          {
+            "title": "\u200eThe Trial (1962) directed by Orson Welles \u2022 Reviews, film + cast \u2022 Letterboxd",
+            "url": "https://letterboxd.com/film/the-trial/"
+          }
+        ]
+      },
+      "Based on my search results, here's what I found about the box office reception of Orson Welles' 1962 film adaptation of Kafka's \"The Trial\":\n\n## Box Office Performance\n\nThe movie was neither terribly critically-acclaimed nor a juggernaut at the box office. Unfortunately, the search results don't provide specific box office numbers or financial details for the film.\n\n## Critical and Commercial Reception\n\nThe film had a mixed reception upon its initial release:\n\n- The film also opened in Paris, and wasn't very well-received.\n- Welles' 1962 film which polarized the critics upon release, but soon gained the reputation of one of the master's best works.\n- Upon release of The Trial in 1962, international reviews were mixed, with the exception of the French press, who loved the adaptation.\n\n## Release Information\n\n- On February 20, 1963, Orson Welles' adaptation of Franz Kafka's The Trial hit theaters in New York.\n- The Hollywood Reporter's original review in April, headlined \"The Trial Fascinating as Film Showmanship \u2013 Welles Picture Has Strong Arty Appeal,\" suggested it had limited commercial appeal, primarily to art house audiences.\n\n## Later Reputation\n\nDespite its initial commercial disappointment:\n- The Trial has grown in reputation over the years, and some critics, including Roger Ebert, have called it a masterpiece.\n- In response, Orson Welles declared in a BBC interview: \"Say what you will, but The Trial is the finest film I have ever made.\"\n\nThe film appears to have been a commercial disappointment at the box office but has since been recognized as an important artistic achievement in Welles' filmography."
+    ],
+    "durationSeconds": 21.56720858400036
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "session_id": "e6537320-f282-4226-b0c0-d5beb3935bc2",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e6537320-f282-4226-b0c0-d5beb3935bc2.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Tom Sawyer theme parks Disney attractions Mark Twain Disneyland Frontierland Tom Sawyer Island"
+  },
+  "tool_response": {
+    "query": "Tom Sawyer theme parks Disney attractions Mark Twain Disneyland Frontierland Tom Sawyer Island",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_013ci7KZ39aTpC3HHiKVncuE",
+        "content": [
+          {
+            "title": "Tom Sawyer Island - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Tom_Sawyer_Island"
+          },
+          {
+            "title": "Tom Sawyer Island | Magic Kingdom Attractions",
+            "url": "https://disneyworld.disney.go.com/attractions/magic-kingdom/tom-sawyer-island/"
+          },
+          {
+            "title": "Here's Why Closing Tom Sawyer Island at Disney World is a Huge Mistake - WDW Magazine",
+            "url": "https://www.wdw-magazine.com/closing-tom-sawyer-island-at-disney-world/"
+          },
+          {
+            "title": "Tom Sawyer Island - Frontierland - AllEars.Net",
+            "url": "https://allears.net/magic-kingdom/tom-sawyer-island-frontierland-magic-kingdom/"
+          },
+          {
+            "title": "Pirate's Lair on Tom Sawyer Island | Rides & Attractions",
+            "url": "https://disneyland.disney.go.com/attractions/disneyland/pirates-lair-on-tom-sawyer-island/"
+          },
+          {
+            "title": "Final days of Tom Sawyer Island at Disney\u2019s Magic Kingdom: What to know about new attractions",
+            "url": "https://www.clickorlando.com/theme-parks/2025/07/02/final-days-of-tom-sawyer-island-at-disneys-magic-kingdom-what-to-know-about-new-attractions/"
+          },
+          {
+            "title": "Tom Sawyer Island | Disney Wiki | Fandom",
+            "url": "https://disney.fandom.com/wiki/Tom_Sawyer_Island"
+          },
+          {
+            "title": "Five Things to Know About Tom Sawyer Island | TouringPlans.com Blog",
+            "url": "https://touringplans.com/blog/five-things-to-know-about-tom-sawyer-island/"
+          },
+          {
+            "title": "A historic attraction will be torn down for Disney's biggest expansion",
+            "url": "https://www.sfgate.com/disneyland/article/disneyland-disney-world-tom-sawyer-island-19659359.php"
+          },
+          {
+            "title": "Mark Twain Riverboat | Rides & Attractions | Disneyland Park",
+            "url": "https://disneyland.disney.go.com/attractions/disneyland/mark-twain-riverboat/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide comprehensive information about Tom Sawyer Island and its connection to Disney theme parks and Mark Twain:\n\n## Tom Sawyer Island at Disney Parks\n\nTom Sawyer Island is an artificial island surrounded by the Rivers of America at Disneyland and Tokyo Disneyland.(no content)It contains structures and caves with references to Mark Twain characters from the novel The Adventures of Tom Sawyer, and provides interactive, climbing, and scenic opportunities.\n\n### Park Locations and History\n\n**Disneyland (California):**\n- The area opened in 1956, one year after the opening of Disneyland Park.\n- The attraction has the distinction of being the only one designed by Walt Disney.\n- At Disneyland in 2007, the attraction was rethemed and expanded as Pirate's Lair on Tom Sawyer Island, adding references to Disney's Pirates of the Caribbean film series.\n\n**Magic Kingdom (Florida):**\n- Tom Sawyer Island opened in the Magic Kingdom in 1973.\n- Magic Kingdom in Florida previously had its own version of Tom Sawyer Island, which was removed in 2025 as part of an expansion of Frontierland.\n- Two Cars-themed attractions are set to change the face of Frontierland, replacing both Tom Sawyer Island and the Rivers of America.\n\n**Tokyo Disneyland:**\n- Tokyo Disneyland has its own version of Tom Sawyer Island, still known by the original name.\n- Tokyo Disneyland's version opened with the park in 1983.\n\n### Walt Disney's Connection to Mark Twain\n\nMark Twain was a hero to Walt Disney, and the two shared a lot in common, from their upbringing in Missouri to their military service to their love of storytelling.(no content)Walt felt connected to the small-town adventures of Tom and Huckleberry Finn, and it was his idea to build Tom Sawyer Island (in fact, he designed the one at Disneyland) and to fill Disneyland's Rivers of America with massive boats, including the Mark Twain Riverboat.\n\n### Island Features\n\nThe island includes various themed areas:\n- Initially, the highlights of Tom Sawyer Island were called Injun Joe's Cave, Magnetic Mystery Mine and old Fort Sam Clemens.\n- Fort Sam Clemens, which was renamed Fort Langhorne at the Magic Kingdom in 1996, took its name from Mark Twain's real name, Samuel Clemens.\n- The island is actually two man-made islands connected by a suspension bridge. The island you dock at holds places to explore, all created to bring to life settings from Mark Twain's book, Tom Sawyer.\n\n### Access and Experience\n\nGuests visit the island, surrounded by the Rivers of America, by traveling on a motorized raft which is piloted by a Disneyland cast member.(no content)Tom Sawyer Island, accessible by only log raft across the Rivers of America, provided that reprieve. from the busy theme park atmosphere.\n\nThe attraction represents a unique experience in Disney parks as it's based on characters Disney doesn't own. While it's true that Disney Studios released the movie \"Tom and Huck,\" the books and characters have entered the public domain."
+    ],
+    "durationSeconds": 26.223143712999764
+  }
+}

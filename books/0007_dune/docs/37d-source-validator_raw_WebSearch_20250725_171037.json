@@ -1,0 +1,62 @@
+{
+  "session_id": "2dcb2a8f-b11d-466d-8a59-c7f92df6d7a0",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/2dcb2a8f-b11d-466d-8a59-c7f92df6d7a0.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Paul Stamets Frank Herbert mushrooms psilocybin Dune spice melange inspiration \"Mycelium Running\""
+  },
+  "tool_response": {
+    "query": "Paul Stamets Frank Herbert mushrooms psilocybin Dune spice melange inspiration \"Mycelium Running\"",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01Y9rcyB1bSV2dh961EBG8hd",
+        "content": [
+          {
+            "title": "Mushrooms w/ a Dash of Dune Spice | by Hayden Moore | Medium",
+            "url": "https://medium.com/@haydenmoore44/mushrooms-w-a-dash-of-dune-spice-ecdee1e31f3"
+          },
+          {
+            "title": "How Magic Mushrooms Inspired Frank Herbert's 'Dune' - The Debrief",
+            "url": "https://thedebrief.org/how-magic-mushrooms-inspired-frank-herberts-dune/"
+          },
+          {
+            "title": "Dune's Magic Mushroom Origin Story - Bart Kaspero Law",
+            "url": "https://www.bartkasperolaw.com/dunes-magic-mushroom-origin-story/"
+          },
+          {
+            "title": "Frank Herbert\u2019s magic mushrooms and the psychedelic science behind Dune",
+            "url": "https://www.yahoo.com/lifestyle/frank-herbert-magic-mushrooms-psychedelic-134809673.html"
+          },
+          {
+            "title": "Magic Mushrooms were the Inspiration for Frank Herbert's Science Fiction Epic 'Dune' - The Daily Grail",
+            "url": "https://www.dailygrail.com/2014/07/magic-mushrooms-were-the-inspiration-for-frank-herberts-science-fiction-epic-dune/"
+          },
+          {
+            "title": "Magic Mushrooms Inspired Frank Herbert's \"Dune\"",
+            "url": "https://realitysandwich.com/magic-mushrooms-inspired-the-spice-behind-frank-herberts-dune/"
+          },
+          {
+            "title": "Magic mushrooms inspired Frank Herbert's 'Dune'",
+            "url": "https://dangerousminds.net/comments/magic_mushrooms_inspired_frank_herberts_dune"
+          },
+          {
+            "title": "\u2018Dune\u2019 Is a Psychedelic Sci-Fi Hit: 5 Ways Mushroom Magic Inspired Frank Herbert\u2019s Masterpiece",
+            "url": "https://psychedelicspotlight.com/dune-movie-psychedelic-frank-herbert-masterpiece-inspired-by-mushroom-magic/"
+          },
+          {
+            "title": "Dune author Franker Herbert on mushrooms - Boing Boing",
+            "url": "https://boingboing.net/2014/07/24/dune-author-franker-herbert-on.html"
+          },
+          {
+            "title": "What 'Dune' Tells Us About Psychedelics' Past, Present, and Future",
+            "url": "https://culturetrip.substack.com/p/what-dune-tells-us-about-psychedelics"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about the connection between Paul Stamets, Frank Herbert, and the inspiration behind Dune's spice melange from magic mushrooms.\n\n## The Connection Revealed\n\nFrank Herbert was an enthusiastic mushroom cultivator and is even mentioned in Paul Stamets book, \"Mycelium Running: How Mushrooms Can Help Save the World\". The connection between Herbert's psychedelic experiences and Dune comes directly from Paul Stamets' personal interactions with the author.\n\n## Herbert's Mushroom Cultivation Techniques\n\nAccording to a July article in The Daily Grail, Legendary mycologist, Paul Stamets, commented that Frank Herbert was a talented and innovative mushroom enthusiast: \"Frank Herbert, the well-known author of the Dune books, told me his technique for using spores. When I met him in the early 1980s, Frank enjoyed collecting mushrooms on his property near Port Townsend, Washington\".\n\nHerbert \"would put a few weathered chanterelles in a five-gallon bucket of water, add some salt, and then, after one or two days, pour this spore-mass slurry on the ground at the base of newly planted firs\". This technique was so effective that \"When he told me chanterelles were growing from trees not even 10 years old, I couldn't believe it. No one had previously reported chanterelles arising near such young trees, nor had anyone reported them growing as a result of using this method\".\n\n## The Psilocybin Inspiration for Dune\n\nThe most significant revelation comes from Stamets' account in \"Mycelium Running.\" \"Frank went on to tell me that much of the premise of Dune \u2014 the magic spice (spores) that allowed the bending of space (tripping), the giant sand worms (maggots digesting mushrooms), the eyes of the Fremen (the cerulean blue of Psilocybe mushrooms), the mysticism of the female spiritual warriors, the Bene Gesserits (influenced by the tales of Maria Sabina and the sacred mushroom cults of Mexico) \u2014 came from his perception of the fungal life cycle, and his imagination was stimulated through his experiences with the use of magic mushrooms\".\n\n## Specific Parallels Between Mushrooms and Dune Elements\n\nThe search results reveal detailed connections:\n\n- **Spice as Spores**: The \"magic spice (spores) that allowed the bending of space (tripping)\"\n- **Sand Worms**: The \"giant sand worms (maggots digesting mushrooms)\"\n- **Fremen Eyes**: The \"eyes of the Fremen (the cerulean blue of Psilocybe mushrooms)\"\n- **Bene Gesserit**: The \"mysticism of the female spiritual warriors, the Bene Gesserits (influenced by the tales of Maria Sabina and the sacred mushroom cults of Mexico)\"\n\n## Herbert's Broader Psychedelic Context\n\nHerbert had taken peyote, a substance often turned into tea for Central American medicinal rituals which has hallucinogenic qualities thanks to the mescaline present in it. He was also heavily into Carl Jung and his idea of a collective unconscious.\n\n## The Spice as Consciousness Expander\n\nIn the world of Dune, as author Frank Herbert writes, the \"most precious substance in the universe is the spice m\u00e9lange. The spice extends life. The spice expands consciousness.\" Spice \"gives insight,\" and a chance to see with your \"inward eye\".\n\nThis information comes primarily from Paul Stamets' 2005 book \"Mycelium Running: How Mushrooms Can Help Save the World,\" where the renowned mycologist documented his personal conversations with Frank Herbert in the early 1980s, revealing the psychedelic mushroom origins behind one of science fiction's most iconic substances."
+    ],
+    "durationSeconds": 26.560323337999872
+  }
+}

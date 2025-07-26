@@ -1,0 +1,62 @@
+{
+  "session_id": "25c2a401-88de-4e28-8dba-e70b720fd603",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/25c2a401-88de-4e28-8dba-e70b720fd603.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Solaris Stanis\u0142aw Lem references modern movies games music internet memes pop culture"
+  },
+  "tool_response": {
+    "query": "Solaris Stanis\u0142aw Lem references modern movies games music internet memes pop culture",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01C2kkgQvFXYNEwv2oVmV4hc",
+        "content": [
+          {
+            "title": "Stanis\u0142aw Lem - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Stanis%C5%82aw_Lem"
+          },
+          {
+            "title": "Theme in Stanislaw Lem\u2019s Solaris and Andrei Tarkovksy\u2019s Film Adaptation \u2013 Writing the World 2021",
+            "url": "https://openbooks.library.umass.edu/writing-the-world-2021/chapter/theme-in-stanislaw-lems-solaris-and-andrei-tarkovksys-film-adaptation/"
+          },
+          {
+            "title": "Solaris : Stanislaw Lem : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/B-001-001-236"
+          },
+          {
+            "title": "Stanis\u0142aw Lem Quotes (Author of Solaris)",
+            "url": "https://www.goodreads.com/author/quotes/10991.Stanis_aw_Lem"
+          },
+          {
+            "title": "Solaris | novel by Lem | Britannica",
+            "url": "https://www.britannica.com/topic/Solaris-novel-by-Lem"
+          },
+          {
+            "title": "Solaris (novel) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Solaris_(novel)"
+          },
+          {
+            "title": "Lem Vs. Tarkovsky: The Fight Over \u2018Solaris\u2019 | Article | Culture.pl",
+            "url": "https://culture.pl/en/article/lem-vs-tarkovsky-the-fight-over-solaris"
+          },
+          {
+            "title": "Seeing double with Stanislaw Lem\u2019s \u201cSolaris\u201d (1972/2002)\u2026",
+            "url": "https://musingsofamiddleagedgeek.blog/2021/02/19/seeing-double-with-stanislaw-lems-solaris-1972-2002/"
+          },
+          {
+            "title": "Istvan Csicsery-Ronay, Jr. -- Twenty-Two Answers and Two Postscripts: An Interview with Stanislaw Lem",
+            "url": "https://www.depauw.edu/sfs/interviews/lem40interview.htm"
+          },
+          {
+            "title": "Tarkovsky's Solaris Revisited | Open Culture",
+            "url": "https://www.openculture.com/2011/02/tarkovskys_solaris_revisited.html"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about Stanis\u0142aw Lem's \"Solaris\" and its references and influences in modern pop culture:\n\n## Film Adaptations and Influence\n\nSolaris has been adapted into major films including the 1972 Soviet film by Andrei Tarkovsky and the 2002 American version directed by Steven Soderbergh starring George Clooney. Film critics have noted the influence of Tarkovsky's adaptation on later science fiction films such as Event Horizon (1997) and Christopher Nolan's Inception (2010).\n\n## Video Game Influences\n\nWill Wright's popular city-planning game SimCity was partly inspired by Lem's short story \"The Seventh Sally\" in The Cyberiad. The video game Stellaris is highly inspired by his works, as its creators said at the start of 2021, designated the \"Year of Lem\". In 2023, 11 Bit Studios published The Invincible, an adventure video game developed by Starward Industries which is an adaptation of Stanis\u0142aw Lem's 1964 novel.\n\n## Pop Culture References\n\nA major character in the film Planet 51, an alien named Lem, was named by screenwriter Joe Stillman after Stanis\u0142aw Lem. Since the film was intended to be a parody of American pulp science fiction shot in Eastern Europe, Stillman thought that it would be hilarious to hint at the writer whose works have nothing to do with little green men.\n\n## Internet Culture and Quotes\n\nOne of Lem's notable quotes that has gained internet attention is: \"I hadn't known there were so many idiots in the world until I started using the Internet\". His philosophical quotes from Solaris, such as \"We have no need of other worlds. We need mirrors. We don't know what to do with other worlds. A single world, our own, suffices us; but we can't accept it for what it is\", continue to circulate in literary and philosophical discussions online.\n\n## Modern Recognition\n\nIn December 2020 Polish Parliament declared year of 2021 to be the Year of Stanis\u0142aw Lem, highlighting his continued cultural relevance. Various space objects have been named after his works, including the star Solaris and its planet Pirx, after the novel Solaris and Tales of Pirx the Pilot.\n\nThe lasting influence of Lem's work, particularly Solaris, demonstrates how his philosophical science fiction continues to inspire modern creators across various media, from blockbuster films to video games and internet culture."
+    ],
+    "durationSeconds": 24.641935046000405
+  }
+}

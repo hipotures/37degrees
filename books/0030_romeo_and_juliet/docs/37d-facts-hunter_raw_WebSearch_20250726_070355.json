@@ -1,0 +1,62 @@
+{
+  "session_id": "dfef5421-3cfd-4f13-a992-935c866ee7a0",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/dfef5421-3cfd-4f13-a992-935c866ee7a0.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Romeo Juliet\" musical adaptations opera ballet Prokofiev Gounod Broadway"
+  },
+  "tool_response": {
+    "query": "\"Romeo Juliet\" musical adaptations opera ballet Prokofiev Gounod Broadway",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01VVGPwUhAKAGWrYJ8tCTXE8",
+        "content": [
+          {
+            "title": "Romeo et Juliette | Metropolitan Opera",
+            "url": "https://www.metopera.org/discover/education/educator-guides-archive/romeo-et-juliette/"
+          },
+          {
+            "title": "Romeo and Juliet (Prokofiev) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Romeo_and_Juliet_(Prokofiev)"
+          },
+          {
+            "title": "7 remarkable musical adaptations of Romeo and Juliet | Victorian Opera",
+            "url": "https://staging.victorianopera.com.au/behind-the-scenes/7-remarkable-musical-adaptations-of-romeo-and-juliet"
+          },
+          {
+            "title": "Gounod's 'Romeo and Juliet' : NPR",
+            "url": "https://www.npr.org/2007/03/09/7775863/gounods-romeo-and-juliet"
+          },
+          {
+            "title": "Rom\u00e9o et Juliette | Metropolitan Opera",
+            "url": "https://www.metopera.org/user-information/nightly-met-opera-streams/week-34/program-notes/romeo-et-juliette/"
+          },
+          {
+            "title": "Conflicts and Resolutions: Musical Adaptations of Romeo and Juliet - Serenade",
+            "url": "https://serenademagazine.com/conflicts-and-resolutions-musical-adaptations-of-romeo-and-juliet/"
+          },
+          {
+            "title": "Romeo and Juliet in Opera and Ballet | The Arts Desk",
+            "url": "https://theartsdesk.com/dance/romeo-and-juliet-opera-and-ballet"
+          },
+          {
+            "title": "Romeo et Juliette (20-21) | Metropolitan Opera",
+            "url": "https://www.metopera.org/discover/education/educator-guides/romeo-et-juliette/"
+          },
+          {
+            "title": "LA Opera Romeo and Juliet - LA Opera | LA Opera",
+            "url": "https://www.laopera.org/performances/2025/romeo-et-juliette"
+          },
+          {
+            "title": "Rom\u00e9o et Juliette | A Fresh Take on the Shakespearean Tale",
+            "url": "https://www.bostonballet.org/performances/romeo-et-juliette/"
+          }
+        ]
+      },
+      "Based on the search results, here's a comprehensive overview of the major musical adaptations of Romeo and Juliet:\n\n## Opera Adaptations\n\nOf the 20 or so operas based on Romeo and Juliet, Gounod's achievement is perhaps the most enduring, described as \"the most successful of some 40 operatic adaptations of Shakespeare's play\". The opera sticks closely to the Shakespeare, with four separate lovers' duets, and a closing scene in which Juliette wakes in time for a reunion duet with the dying Romeo and kills herself as he expires. Gounod's Rom\u00e9o et Juliette premiered at the Th\u00e9\u00e2tre Lyrique on April 27, 1867.\n\n## Ballet Adaptations\n\n**Prokofiev's Romeo and Juliet** is the most famous ballet adaptation. Romeo and Juliet, Op. 64, is a ballet by Sergei Prokofiev based on William Shakespeare's play. First composed in 1935, it was substantially revised for its Soviet premiere in early 1940. It is better known today from the significantly revised version that was first presented at the Kirov Theatre in Leningrad on 11 January 1940, with choreography by Leonid Lavrovsky and with Galina Ulanova and Konstantin Sergeyev in the leading roles.\n\nThere are many versions of the ballet performed by companies from around the world; the first production was by the Kirov in 1940. Other versions have been created by John Cranko, Mikhail Lavrovsky, Kenneth MacMillian, Rudi van Dantzig, Mats Ek, Rudolf Nureyev, Alexei Ratmansky, Choo San Goh, and Oleg Vinogradov.\n\n## Broadway Musical\n\nWest Side Story (1957), a Broadway musical created through the collaborative work of Jerome Robbins (concept), Stephen Sondheim (lyrics), Arthur Laurents (book) and Leonard Bernstein (music), is an adaptation of Shakespeare's play set in New York of the 1950s. In the Broadway category the most famous example must be West Side Story, with music by Leonard Bernstein and words by Stephen Sondheim.\n\n## Other Musical Adaptations\n\nThe search results also mention several orchestral works:\n- Berlioz's \"dramatic symphony\" (1839) and Tchaikovsky's overture-fantasia (1880)\n- Tchaikovsky's Romeo and Juliet overture (1869; revised 1870; final version 1880)(no content)Shakespeare was but one link in a chain of transmission connecting an Italian novella from the first half of the 16th century to a ballet by Sergei Prokofiev, the 1957 Broadway musical West Side Story, and film adaptations by Franco Zeffirelli and Baz Luhrmann.\n\nThe adaptations demonstrate how each transformation of Shakespeare's play works out its own ordering of priorities among the various ingredients of revelry, passion, combat, piety, and sentimentality."
+    ],
+    "durationSeconds": 22.91951338000223
+  }
+}

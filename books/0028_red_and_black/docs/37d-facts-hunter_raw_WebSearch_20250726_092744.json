@@ -1,0 +1,62 @@
+{
+  "session_id": "117fc0a1-8874-49c5-b0fc-4bb38d5ee638",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/117fc0a1-8874-49c5-b0fc-4bb38d5ee638.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "modern social climbing influencers entrepreneurs youth 2024 2025 social media status seeking"
+  },
+  "tool_response": {
+    "query": "modern social climbing influencers entrepreneurs youth 2024 2025 social media status seeking",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_016pHSDMrNUPBgpkhPwU5pNj",
+        "content": [
+          {
+            "title": "Top 80 Climbing Influencers in 2025",
+            "url": "https://influencers.feedspot.com/climbing_instagram_influencers/"
+          },
+          {
+            "title": "Top 20 Social Media Influencers to Watch in 2025",
+            "url": "https://fourthwall.com/blog/top-20-social-media-influencers"
+          },
+          {
+            "title": "Social Climbing: How to Understand Its Evolution From Past to Present - Azura",
+            "url": "https://azuramagazine.com/articles/social-climbing-how-to-understand-its-evolution-from-past-to-present"
+          },
+          {
+            "title": "Social climbing: How to Navigate Social Circles to Increase Influence - Azura",
+            "url": "https://azuramagazine.com/articles/social-climbing-how-to-navigate-social-circles-to-increase-influence"
+          },
+          {
+            "title": "Social Climbing in the Digital Age: How to Use Social Media - Azura",
+            "url": "https://azuramagazine.com/articles/social-climbing-in-the-digital-age-how-to-use-social-media"
+          },
+          {
+            "title": "Most Popular Social Media Platforms in 2025 [May \u201825 Update] - Shopify - Shopify",
+            "url": "https://www.shopify.com/blog/most-popular-social-media-platforms"
+          },
+          {
+            "title": "The 25 Most Influential Social Media Influencers and Creators of 2024",
+            "url": "https://www.rollingstone.com/culture/culture-lists/top-social-media-influencers-creators-2024-1235084589/"
+          },
+          {
+            "title": "Top 20 Rock Climbing Influencers on Instagram (2025)",
+            "url": "https://www.modash.io/find-influencers/rock-climbing"
+          },
+          {
+            "title": "Climbing in Social Media",
+            "url": "https://thedihedral.com/2025/03/29/climbing-in-social-media/"
+          },
+          {
+            "title": "Top Climbing Influencers on Instagram in 2025",
+            "url": "https://hypeauditor.com/instagram-category-climbing/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide insights about modern social climbing, influencers, entrepreneurs, and youth behavior on social media in 2024-2025:\n\n## Modern Social Climbing in the Digital Age\n\nIn the digital age, social climbing has transformed, reflecting our deeply interconnected online realities. Platforms like Instagram, TikTok, and LinkedIn have become arenas for strategic self-presentation and networking, facilitating an ascension in the social hierarchy.\n\n## Key Characteristics of Digital Social Climbing\n\nSocial media has democratized the process of social climbing. Platforms like Facebook, Instagram, and TikTok allow individuals to build personal brands, gain followers, and establish online influence. They've made social climbing more accessible but also more complex.(no content)The markers of success in the digital realm differ from traditional ones. Online status is often gauged by follower counts, likes, shares, and the ability to create trending content. Consequently, social climbing has transformed into a game of numbers and influence, offering new opportunities for those adept at navigating the digital landscape.\n\n## The Influence Industry in 2024-2025\n\nThis year, influencer marketing has cemented its status as an essential industry with over $19 billion in value.(no content)With over 5.1 billion active social media users globally, platforms like Instagram, TikTok, and YouTube have transformed from digital hangouts into powerful platforms that shape trends, build brand awareness, and generate revenue for influential creators who connect authentically with their audiences.\n\n## Youth and Entrepreneurial Trends\n\nSeveral platforms are particularly popular among young entrepreneurs and status-seeking individuals:\n\n- Short form video has never been more addictive or profitable for brands tapping into youth culture. TikTok has captured the attention of 18- to 34-year-olds (its largest demographic) with its swipeable videos and a For You page that surfaces new, relevant content. Since launching TikTok Shop in 2023, the app has opened up new direct selling opportunities for entrepreneurs targeting a younger audience.\n\n- Instagram's emphasis on visual storytelling makes it a go-to platform for brands and influencers connecting with the 18 to 34 crowd\u2014its largest US demographic. While carousels and single-image grid posts saw a decrease in engagement from 2023 to 2024, Reels\u2014the platform's short form video format\u2014saw a 45% increase in the same time frame.\n\n## Challenges and Psychological Aspects\n\nTo gain popularity and influence, individuals often carefully curate their online personas. The social climbing attitude sometimes involves selectively showing the best parts of life while masking the less glamorous realities. This can create an illusion of perfection that's misleading for followers and raises ethical questions about authenticity and honesty in digital self-presentation.\n\nThe search results reveal that modern social climbing has been fundamentally transformed by social media, with young entrepreneurs and influencers using digital platforms to build personal brands, gain status, and create business opportunities through strategic online presence and content creation."
+    ],
+    "durationSeconds": 22.46699538099766
+  }
+}

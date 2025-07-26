@@ -1,0 +1,62 @@
+{
+  "session_id": "256f845f-ddd5-4027-a9c2-755ec8659a89",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/256f845f-ddd5-4027-a9c2-755ec8659a89.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Robinson Crusoe reality TV survival shows Survivor Alone castaway shows influence connection"
+  },
+  "tool_response": {
+    "query": "Robinson Crusoe reality TV survival shows Survivor Alone castaway shows influence connection",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_013VQwvGmEVD89D4Zf5doJ1e",
+        "content": [
+          {
+            "title": "Robinson (TV series) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Robinson_(TV_series)"
+          },
+          {
+            "title": "Robinson Crusoe - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Robinson_Crusoe"
+          },
+          {
+            "title": "Robinsonade - TV Tropes",
+            "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/Robinsonade"
+          },
+          {
+            "title": "Survivor (American TV series) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Survivor_(American_TV_series)"
+          },
+          {
+            "title": "Review: ABC\u2019s Castaways, a survival series with shades of Survivor, Lost, and Alone \u2013 reality blurred",
+            "url": "https://www.realityblurred.com/realitytv/2018/08/castaways-abc-tv-show-review/"
+          },
+          {
+            "title": "15 Best Survival Reality TV Shows Ranked",
+            "url": "https://screenrant.com/best-survival-reality-tv-shows-ranked/"
+          },
+          {
+            "title": "Reality-TV, survival (Sorted by Popularity Ascending)",
+            "url": "https://www.imdb.com/search/title/?genres=reality-tv&keywords=survival"
+          },
+          {
+            "title": "How Castaway Survivor Alexander Selkirk Inspired the Tale of Robinson Crusoe | Ancient Origins",
+            "url": "https://www.ancient-origins.net/history-famous-people/how-castaway-survivor-alexander-selkirk-inspired-tale-robinson-crusoe-002638"
+          },
+          {
+            "title": "Expedition Robinson | Survivor Wiki | Fandom",
+            "url": "https://survivor.fandom.com/wiki/Expedition_Robinson"
+          },
+          {
+            "title": "Castaways (TV Series 2018) \u2b50 6.6 | Game-Show, Reality-TV",
+            "url": "https://www.imdb.com/title/tt8589128/"
+          }
+        ]
+      },
+      "Based on my search results, there are clear and documented connections between Daniel Defoe's 1719 novel \"Robinson Crusoe\" and modern reality TV survival shows. Here are the key findings:\n\n## Direct Literary Influence\n\nThe original Swedish reality show \"Expedition Robinson\" (which later became \"Survivor\") explicitly draws its name from both Robinson Crusoe and The Swiss Family Robinson, as both are \"stories featuring people marooned by shipwrecks.\"(no content)Two 2000s reality television series, Expedition Robinson and Survivor, have their contestants try to survive on an isolated location, usually an island, with the concept being influenced by Robinson Crusoe.\n\n## Evolution of the Format\n\nThe original idea of Survivor was developed by Charlie Parsons in 1994 under the name \"Castaway,\" which directly references the Robinson Crusoe narrative. Robinson (formerly Expedition Robinson) is the Swedish reality game show and the original version of the international Survivor format, with the American version being derived from this Swedish series.\n\n## The \"Robinsonade\" Genre\n\nThe literary term \"Robinsonade\" describes \"a plot about characters being stranded in the wilderness, far away from civilization, and forced to live off the land in order to survive.\" This concept has been widely adapted across various media, including reality TV.\n\n## Modern Shows Following the Pattern\n\nSeveral contemporary survival shows follow the Robinson Crusoe template:\n\n- **Survivor**: Places \"a group of people in an isolated location, where they must provide food, fire, and shelter for themselves.\"\n\n- **Alone**: Referenced as having \"the isolation and open-ended feeling of History's Alone\" similar to the Crusoe experience.\n\n- **Castaways**: ABC's show begins \"with 12 people, dropped off on several small islands but with no idea where the others are and with no idea when they'll be picked up,\" combining \"the isolation and open-ended feeling of History's Alone with the society-building possibilities of Survivor.\"\n\n## Real-Life Inspiration\n\nDefoe's fictional tale may have been based on true stories of castaways, one of them being Alexander Selkirk, a Scotsman who was also a contemporary of the writer.(no content)Selkirk lived as a castaway for \"four years and four months\" on an island with only basic supplies including \"some clothing, navigation devices, a cooking pot, a knife, an axe, a musket, and a Bible.\"\n\nThe connection is both thematic and explicit - modern survival reality TV shows directly acknowledge Robinson Crusoe as their inspiration, with the core concept of isolated survival in challenging environments forming the foundation of the entire genre."
+    ],
+    "durationSeconds": 23.538278138998894
+  }
+}

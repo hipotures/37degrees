@@ -1,0 +1,63 @@
+{
+  "session_id": "bca0f9c4-aba0-4606-9d12-d305df5c1a73",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/bca0f9c4-aba0-4606-9d12-d305df5c1a73.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"To Kill a Mockingbird\" TV references parodies Simpsons South Park Family Guy modern shows"
+  },
+  "tool_response": {
+    "query": "\"To Kill a Mockingbird\" TV references parodies Simpsons South Park Family Guy modern shows",
+    "results": [
+      "I'll search for information about \"To Kill a Mockingbird\" references and parodies in modern TV shows like The Simpsons, South Park, and Family Guy.",
+      {
+        "tool_use_id": "srvtoolu_01URVQqhmeNFRt6qqSdshtUD",
+        "content": [
+          {
+            "title": "To Kill a Mockingbird in popular culture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_in_popular_culture"
+          },
+          {
+            "title": "To Kill A Mocking Bart/References | Simpsons Wiki | Fandom",
+            "url": "https://simpsons.fandom.com/wiki/To_Kill_A_Mocking_Bart/References"
+          },
+          {
+            "title": "Alien, Predator & AvP Parodies (The Simpsons, South Park...) - AvPGalaxy",
+            "url": "https://www.avpgalaxy.net/website/articles/parodies/"
+          },
+          {
+            "title": "South Park's 8 Best TV Parodies",
+            "url": "https://screenrant.com/south-parks-eight-best-tv-parodies/"
+          },
+          {
+            "title": "South Park | Simpsons Wiki | Fandom",
+            "url": "https://simpsons.fandom.com/wiki/South_Park"
+          },
+          {
+            "title": "To Kill a Mockingbird - Wikisimpsons, the Simpsons Wiki",
+            "url": "https://simpsonswiki.com/wiki/To_Kill_a_Mockingbird_(book)"
+          },
+          {
+            "title": "The Simpsons - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Simpsons"
+          },
+          {
+            "title": "20 Ingenious Jokes and References From \u2018The Simpsons,\u2019 \u2018South Park,\u2019 \u2018Family Guy\u2019 and \u2018Futurama\u2019 | Cracked.com",
+            "url": "https://www.cracked.com/image-pictofact-15130-20-ingenious-jokes-and-references-from-the-simpsons-south-park-family-guy-and-futurama"
+          },
+          {
+            "title": "Daddicus Finch - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Daddicus_Finch"
+          },
+          {
+            "title": "The Simpsons Mocks Family Guy, Rick & Morty AND South Park In 1 Episode",
+            "url": "https://screenrant.com/simpsons-treehouse-horror-parodies-south-park-rick-morty-family-guy/"
+          }
+        ]
+      },
+      "Based on my search results, I found several references to \"To Kill a Mockingbird\" in modern TV shows, particularly in The Simpsons. Here's what I discovered:\n\n## The Simpsons References\n\nIn The Simpsons episode \"Jaws Wired Shut\", the Simpson family visits a movie theater. Its title, \"To Kill a Talking Bird\", is a play on the name of To Kill a Mockingbird.(no content)When Lisa's part is cut from the school play, Homer takes her clothes shopping to cheer her up. He expresses disgust at the sexualized branding on show, leading Lisa to view him as Atticus Finch from the book To Kill a Mockingbird, her required reading. Homer responds to Lisa's appreciation and the two spend time together including watching the To Kill a Mockingbird movie. This comes from the episode \"Daddicus Finch\" is the ninth episode of the thirtieth season of the American animated television series The Simpsons.\n\nThe title of a comics is a parody of a book To Kill a Mockingbird. This refers to \"To Kill A Mocking Bart.\"\n\nAn episode of the American situation comedy Frasier was titled \"To Kill a Talking Bird\".\n\n## Other TV Show References\n\nIn the Robot Chicken episode \"Cannot Be Erased, So Sorry\", a student gives his book report on To Kill a Mockingbird. Atticus, Scout and Jem are reimagined as superheroes battling the supervillain \"Mockingbird\".(no content)To Kill a Mockingbird was featured in an episode of the comedic educational literature series Thug Notes.(no content)In the show Awkward, Sadie references To Kill a Mockingbird by constantly calling Austin Welch, Boo Radley.(no content)In the episode \"Mountain Wedding\" of The Andy Griffith Show, Dud Wash says that Ernest T. Bass' cousin said that Bass \"went off into the woods to kill a mockingbird\", to which Andy Taylor responds, \"He doesn't sound like a very nice person.\"\n\n## Comic Strips\n\nIn the comic strips Bloom County, Outland, and Opus, Opus the penguin is frequently seen reading To Kill a Mockingbird and has stated he rereads it every summer. In the comic strip, a fictional movie was created entitled Kill Mo' Mockingbird.\n\nWhile I found these references to \"To Kill a Mockingbird\" in various TV shows, I didn't find specific parodies from South Park or Family Guy in the search results, though both shows are known for their pop culture references. The Simpsons appears to have made the most direct references to the classic novel, including naming an entire episode after it and incorporating it into storylines."
+    ],
+    "durationSeconds": 34.095433201999406
+  }
+}

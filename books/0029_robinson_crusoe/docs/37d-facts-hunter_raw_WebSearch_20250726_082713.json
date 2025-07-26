@@ -1,0 +1,62 @@
+{
+  "session_id": "256f845f-ddd5-4027-a9c2-755ec8659a89",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/256f845f-ddd5-4027-a9c2-755ec8659a89.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Robinson Crusoe school curriculum education teaching literature high school reading list worldwide"
+  },
+  "tool_response": {
+    "query": "Robinson Crusoe school curriculum education teaching literature high school reading list worldwide",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01G3xc5gsPrziadcnd5TRjwM",
+        "content": [
+          {
+            "title": "Robinson Crusoe Student Guide, Second Edition - Memoria Press: Classical Education",
+            "url": "https://www.memoriapress.com/curriculum/literature-and-poetry/robinson-crusoe-student-guide-second-edition/"
+          },
+          {
+            "title": "Robinson Crusoe Set - Memoria Press: Classical Education",
+            "url": "https://www.memoriapress.com/curriculum/literature-and-poetry/robinson-crusoe-set/"
+          },
+          {
+            "title": "Robinson Crusoe Lesson Plan for Elementary School | Study.com",
+            "url": "https://study.com/academy/lesson/robinson-crusoe-lesson-plan-for-elementary-school.html"
+          },
+          {
+            "title": "Robinson Crusoe Literature Teacher Guide, Second Edition",
+            "url": "https://www.rainbowresource.com/035462.html"
+          },
+          {
+            "title": "Teach Literature to Elementary and High School \u2013 Canon Press",
+            "url": "https://canonpress.com/collections/literature-curriculum"
+          },
+          {
+            "title": "curriculum overview_comprehensive - Hillsdale K-12",
+            "url": "https://k12.hillsdale.edu/k12/media/Documents/curriculum-overview_interactive_.pdf"
+          },
+          {
+            "title": "High School Reading List \u2013 Education Alliance",
+            "url": "https://arkansashomeschool.org/index.php/free-info/curriculum-resources/high-school-reading-list/"
+          },
+          {
+            "title": "Robinson Crusoe - Memoria Press: Classical Education",
+            "url": "https://www.memoriapress.com/curriculum/literature-and-poetry/robinson-crusoe/"
+          },
+          {
+            "title": "The Robinson Self-Teaching Active Independent Learning Problem Solving Curriculum",
+            "url": "https://www.robinsoncurriculum.com/rc/homeschool-curriculum-excellence/"
+          },
+          {
+            "title": "TeachingBooks | Robinson Crusoe",
+            "url": "https://school.teachingbooks.net/tb.cgi?tid=5784"
+          }
+        ]
+      },
+      "Based on the search results, here's what I found about Robinson Crusoe in school curricula and education worldwide:\n\n## Robinson Crusoe in Educational Settings\n\nRobinson Crusoe is considered \"perhaps the greatest adventure in all of English literature\" and \"the first important English novel\" that \"has taken its rightful place among the great myths of Western civilization.\"\n\n### Curriculum Resources and Teaching Materials\n\nSeveral educational publishers offer comprehensive Robinson Crusoe study materials:\n\n**Classical Education Programs:**\n- Memoria Press offers a Robinson Crusoe Student Guide that \"leads students to think through the central proposition that gives the story its ultimate meaning and expression\" through \"grammar, logic, and rhetoric stages.\"\n- Their upper-school literature guides \"train students to read actively\" and lead them \"through a trivium-based continuum\" where \"students read and think through the grammar, logic, and rhetoric stages toward the essence of the story.\"\n\n**Teaching Features:**\n- Literature guides typically include \"helpful reading notes, extensive vocabulary training, and quizzes and tests\" along with \"comprehension questions, Socratic discussion questions, work with quotes, and learn about literary and rhetorical devices.\"\n\n### Grade Level Applications\n\n**Elementary School:**\n- Study.com offers elementary lesson plans that outline \"The Life and Adventures of Robinson Crusoe by Daniel Defoe\" with activities that \"give chance to create a visual to represent the events portrayed in the book.\"\n\n**High School Reading Lists:**\n- For college-bound students, \"there are certain books that he or she will probably be expected to have some level of familiarity with\" as \"college English professors often assume their students have read Shakespeare, Faulkner, Orwell, and other famous authors.\"\n- The book appears on \"lists of books that commonly appear on reading lists in high schools across America.\"\n\n### Educational Significance\n\nThe novel has been \"consistently popular since its first publication in 1719\" and represents \"Daniel Defoe's story of human endurance\" that \"exerts a timeless appeal.\"(no content)These study programs prepare students \"for sophisticated literary analysis and future study.\"\n\nThe search results show that Robinson Crusoe is widely integrated into literature curricula at multiple grade levels, from elementary through high school, with particular emphasis in classical education programs and college preparatory reading lists."
+    ],
+    "durationSeconds": 18.077824411999433
+  }
+}

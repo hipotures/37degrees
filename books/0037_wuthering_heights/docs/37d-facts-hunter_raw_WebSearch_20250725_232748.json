@@ -1,0 +1,62 @@
+{
+  "session_id": "95239c3a-5fbf-4fbf-93f7-3afd6ea78885",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/95239c3a-5fbf-4fbf-93f7-3afd6ea78885.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Wichrowe Wzg\u00f3rza polski teatr adaptacje filmowe telewizyjne spektakle"
+  },
+  "tool_response": {
+    "query": "Wichrowe Wzg\u00f3rza polski teatr adaptacje filmowe telewizyjne spektakle",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01CssRMc9Lwn2jT1EitiqZEL",
+        "content": [
+          {
+            "title": "Wichrowe wzg\u00f3rze - serial telewizyjny, Ogl\u0105daj na TVP VOD",
+            "url": "https://vod.tvp.pl/seriale,18/wichrowe-wzgorze-odcinki,1543869"
+          },
+          {
+            "title": "Wichrowe Wzg\u00f3rza | Tragedia | Dramat | bilety do teatru eBilet.pl",
+            "url": "https://www.ebilet.pl/teatr/tragedia-dramat/wichrowe-wzgorza"
+          },
+          {
+            "title": "Wichrowe Wzg\u00f3rza - STUDIO teatrgaleria | e-teatr.pl",
+            "url": "https://e-teatr.pl/wichrowe-wzgorza-r996"
+          },
+          {
+            "title": "Wichrowe Wzg\u00f3rza - Adaptacje Filmowe by Jan Bryg on Prezi Next",
+            "url": "https://prezi.com/p/_cdspzutcvs8/wichrowe-wzgorza-adaptacje-filmowe/"
+          },
+          {
+            "title": "Wichrowe wzg\u00f3rza - Spektakl, przedstawienie - Teatr Studio, Warszawa - Opis, Recenzje, Obsada, Bilety",
+            "url": "https://warszawa.dlastudenta.pl/teatr/spektakl/wichrowe-wzgorza-teatr-studio,14114.html"
+          },
+          {
+            "title": "Adaptacje filmowe, teatralne i telewizyjne lektur",
+            "url": "https://www.cku2.waw.pl/dokumenty/biblioteka/adaptacje_filmowe,_teatralne_i_telewizyjne_lektur.pdf"
+          },
+          {
+            "title": "Wichrowe wzg\u00f3rza (1992) - Filmweb",
+            "url": "https://www.filmweb.pl/film/Wichrowe+wzg%C3%B3rza-1992-1223"
+          },
+          {
+            "title": "Wichrowe wzg\u00f3rze: odc. 1 - serial telewizyjny, Ogl\u0105daj na TVP VOD",
+            "url": "https://vod.tvp.pl/seriale,18/wichrowe-wzgorze-odcinki,1543869/odcinek-1,S01E01,1544681"
+          },
+          {
+            "title": "Filmowe adaptacje Wichrowych wzg\u00f3rz Emily Bronte",
+            "url": "https://ruj.uj.edu.pl/entities/publication/ee5197db-f936-4128-affb-88521239785f"
+          },
+          {
+            "title": "\u201eWichrowe wzg\u00f3rza\u201d Teatru Studio -",
+            "url": "https://niewinni-czarodzieje.pl/wichrowe-wzgorza-teatru-studio"
+          }
+        ]
+      },
+      "Based on the search results, I found comprehensive information about Polish theatrical adaptations and film/television adaptations of \"Wichrowe Wzg\u00f3rza\" (Wuthering Heights). Here's what I discovered:\n\n## Polish Theater Productions\n\nThe novel \"Wichrowe Wzg\u00f3rza\" was staged for the first time on a Polish stage at Teatr Studio in Warsaw. The adaptation was created by young playwright Julia Holewi\u0144ska, winner of the Gdynia Dramatic Award in 2010 for her play \"Cia\u0142a obce\".\n\nThe creators attempted to approach \"Wichrowe Wzg\u00f3rza\" as a kind of \"encyclopedia of love\", exploring various forms of relationships from sibling bonds to parental love and ultimately romantic relationships.\n\nThe production took a modern approach by translating the romantic novel into contemporary language, omitting the Victorian setting. The modern adaptation included references to Marlon Brando, branded tea, and football fans' chants.\n\n## Film and Television Adaptations\n\nThe novel has been adapted numerous times into films, television productions, and miniseries. The first film adaptation was made in 1920 as a silent film covering the entire novel, though it is now lost.\n\nResearch has analyzed several major film adaptations, including versions directed by Peter Kosminsky (USA-UK, 1992) and Andrea Arnold (UK, 2011).\n\nCurrently, there's a Turkish television series adaptation called \"Wichrowe wzg\u00f3rze\" available on TVP VOD, following characters Zeynep and Halil, with Halil returning to the city to avenge his family who were unjustly accused and lost their fortune.\n\n## Cultural Impact\n\nThe novel's first Polish publication was in 1929 under the title \"Szata\u0144ska mi\u0142o\u015b\u0107\" (Satanic Love), translated by Janika Sujkowska. The early Polish edition carried the title \"Szata\u0144ska mi\u0142o\u015b\u0107,\" while critics who were scandalized by the novel suggested calling it \"Obmierz\u0142e wzg\u00f3rza\" (Loathsome Heights).\n\nThe novel continues to resonate because it addresses timeless issues such as ethnic prejudice, power struggles, the importance of wealth and origin in marriage decisions, and double moral standards."
+    ],
+    "durationSeconds": 20.137773371000016
+  }
+}

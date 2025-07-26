@@ -1,0 +1,62 @@
+{
+  "session_id": "dfef5421-3cfd-4f13-a992-935c866ee7a0",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/dfef5421-3cfd-4f13-a992-935c866ee7a0.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "polska historia rody szlacheckie feudy rodzinne honor Radziwillowie Potoccy konflikty magnackie"
+  },
+  "tool_response": {
+    "query": "polska historia rody szlacheckie feudy rodzinne honor Radziwillowie Potoccy konflikty magnackie",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_019dyuhG11pEgitFjZzkZGWb",
+        "content": [
+          {
+            "title": "Najpot\u0119\u017cniejsze rody magnackie w historii Polski (Top 12) \u2013 PolskaZachwyca.pl",
+            "url": "https://polskazachwyca.pl/top-10/najpotezniejsze-rody-magnackie-w-historii-polski-top-12/"
+          },
+          {
+            "title": "\"Arystokracja. Polskie rody\" | dzieje.pl - Historia Polski",
+            "url": "https://dzieje.pl/ksiazka/arystokracja-polskie-rody"
+          },
+          {
+            "title": "Jak bardzo zamo\u017cni byli polscy magnaci? | CiekawostkiHistoryczne.pl",
+            "url": "https://ciekawostkihistoryczne.pl/2016/04/13/przy-nich-kulczyk-byl-biedakiem-jak-bardzo-zamozni-byli-polscy-magnaci/"
+          },
+          {
+            "title": "NIEKT\u00d3RE SZLACHECKIE MA\u0141O ZNANE RODY - HISTORIE RODZINNE - ROMUALD BEJNAR-BEJNAROWICZ \u2014 Ridero",
+            "url": "https://ridero.eu/pl/books/niktore_szlacheckie_malo_znane_rody/freeText"
+          },
+          {
+            "title": "Lista polskich rod\u00f3w ksi\u0105\u017c\u0119cych \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Lista_polskich_rod\u00f3w_ksi\u0105\u017c\u0119cych"
+          },
+          {
+            "title": "One moment, please...",
+            "url": "http://szlachta.org.pl/dokumenty/lista-rodow.html"
+          },
+          {
+            "title": "Tak \u017cy\u0142a rodzina szlachecka w dawnej Polsce. Pod lup\u0119 wzi\u0105\u0142 j\u0105 historyk z UwB",
+            "url": "https://uwb.edu.pl/aktualnosci/tak-zyla-rodzina-szlachecka-w-dawnej-polsce-pod-lupe-wzial-ja-historyk-z-uwb-4983.html"
+          },
+          {
+            "title": "Magnateria w Polsce \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Magnateria_w_Polsce"
+          },
+          {
+            "title": "Zapomniane rody magnackie Polski",
+            "url": "https://www.koronamk.pl/zapomniane-rody-magnackie-polski"
+          },
+          {
+            "title": "Bogatsi od kr\u00f3la? Jak bardzo zamo\u017cna by\u0142a polska magnateria?",
+            "url": "https://hrabiatytus.pl/2018/10/29/bogatsi-od-krola-jak-bardzo-zamozna-byla-polska-magnateria/"
+          }
+        ]
+      },
+      "Based on the search results, I found comprehensive information about Polish noble families, their feuds, and conflicts involving the Radziwi\u0142\u0142 and Potocki families. Here's what the search revealed:\n\n## Polish Noble Family Feuds and Magnate Conflicts\n\nThe magnate families were constantly involved in arrangements or disputes with each other, and they also intermarried to maintain their noble lineage. After the second side of the dispute stood the old nobility camp with the Branicki and Potocki families at the head.\n\n### The Radziwi\u0142\u0142 Family\n\nThe Radziwi\u0142\u0142s were \"everywhere.\" This magnate family, known since the 15th century, was very versatile. For several hundred years it belonged to the most influential in the Polish-Lithuanian state, providing it with hetmans, chancellors, bishops... They were virtually unsinkable, although in a scandalous atmosphere they brought about the marriage of Barbara Radziwi\u0142\u0142\u00f3wna with King Sigismund Augustus, in Lithuania they discouraged the Sapieha and Pac families, and during the Swedish Deluge Janusz and Bogus\u0142aw Radziwi\u0142\u0142 were branded as traitors.(no content)The first ordination in Poland was created by the Radziwi\u0142\u0142s in 1586, three years later the Zamoyski ordination was established.\n\n### The Potocki Family\n\nBoth noble and disreputable Potockis distinguished themselves in history. Some of them opposed the Family party led by the Czartoryskis. They were considered an anti-Russian faction that disrupted sejms.\n\n### Magnate Conflicts and Political Divisions\n\nOne of the most distinguished magnate families were the Czartoryskis, patrons of art, educated strategists and authors of reforms. Together with the Poniatowskis, they founded the Family, an opposition party to King Augustus III of Saxony. On the other side of the dispute stood the old nobility camp with the Branicki and Potocki families at the head.\n\n### Honor and Family Feuds\n\nNot to mention the bronze cannons kept in the family castle in \u017b\u00f3\u0142kiew, deterring opponents. Weapons could always be useful to magnates - not only in defending the country, but also to protect their property from creditors (and they had considerable debts) or... to quickly occupy the estates of a deceased relative.\n\n### The Magnate System\n\nIndividual magnate families developed their own system of noble clientele, through which they elected their own candidates to the sejm, deputies of the Crown Tribunal and the Main Tribunal of the Grand Duchy of Lithuania, controlled sejmiks and land courts.(no content)The most important criteria for belonging to the magnate class were: possessed wealth, held royal estates, existing marriages, held offices, a specific lifestyle - maintaining a court and armed force. Representatives of magnate families held the most prestigious dignities and offices, which, based on personal wealth and their families' influence, gave them real power.\n\nThe search results reveal that Polish magnate families like the Radziwi\u0142\u0142s and Potockis were deeply involved in political conflicts, family feuds over inheritance, and power struggles that often involved maintaining private armies and forming political factions that could influence royal elections and parliamentary decisions."
+    ],
+    "durationSeconds": 33.61362892900035
+  }
+}

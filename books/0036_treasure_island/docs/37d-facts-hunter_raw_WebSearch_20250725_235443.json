@@ -1,0 +1,62 @@
+{
+  "session_id": "38d2c10d-061a-4607-b249-863b58008013",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/38d2c10d-061a-4607-b249-863b58008013.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Wyspa skarb\u00f3w matura j\u0119zyk polski gimnazjum liceum literatura"
+  },
+  "tool_response": {
+    "query": "Wyspa skarb\u00f3w matura j\u0119zyk polski gimnazjum liceum literatura",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_019cUbpigqmtvNRNjTNiJ9zA",
+        "content": [
+          {
+            "title": "Wyspa skarb\u00f3w - Literatura dla dzieci i m\u0142odzie\u017cy - Oficyna Wydawnicza RYTM",
+            "url": "https://www.rytm-wydawnictwo.pl/literatura-dla-dzieci-i-mlodziezy/wyspa-skarbow_p_1895.html"
+          },
+          {
+            "title": "Wyspa skarb\u00f3w - Robert Louis Stevenson | lektury szkolne z om\u00f3wieniem - Wydawnictwo Greg",
+            "url": "https://www.greg.pl/lektury/8,400_Wyspa-skarbow-wydanie-z-opracowaniem-i.html"
+          },
+          {
+            "title": "Lektury obowi\u0105zkowe \u2013 j\u0119zyk polski (matura 2023 i 2024)",
+            "url": "https://www.staszic.edu.pl/wp-content/uploads/2022/09/Lista-lektur-obowi\u0105zkowych-j\u0119zyk-polski-matura-2023-i-2024.pdf"
+          },
+          {
+            "title": "Lista lektur do matury z j\u0119zyka polskiego - poziom podstawowy i rozszerzony",
+            "url": "https://www.kursymaturalne.krakow.pl/blog/lista-lektur-do-matury-z-jezyka-polskiego-poziom-podstawowy-i-rozszerzony"
+          },
+          {
+            "title": "Test z lektury \u201eWyspa skarb\u00f3w\u201d R. L. Stevensona",
+            "url": "http://www.wiedza24h.pl/test/257/test_z_lektury_wyspa_skarbow_r_l_stevensona.html"
+          },
+          {
+            "title": "Lista lektur z gwiazdk\u0105 * - obowi\u0105zkowych w gimnazjum i ...",
+            "url": "https://www.ceziu.pl/images/dokumenty_pdf/matura_polski/lista-lektur-z-gwiazdk.pdf"
+          },
+          {
+            "title": "Matura 2023 - lista lektur na egzamin z j\u0119zyka polskiego, poziom podstawowy i rozszerzony - Opinieouczelniach.pl",
+            "url": "https://opinieouczelniach.pl/artykul/matura-2023-lista-lektur-obowiazkowych/"
+          },
+          {
+            "title": "Lista zagadnie\u0144 na matur\u0119 ustn\u0105 z j\u0119zyka polskiego 2024. Czego si\u0119 spodziewa\u0107?",
+            "url": "https://www.wroclaw.pl/dla-mieszkanca/zagadnienia-na-mature-ustna-z-jezyka-polskiego-2024-lista"
+          },
+          {
+            "title": "Matura 2024 lista lektur obowi\u0105zkowych, lektury poziom podstawowy, lektury poziom rozszerzony - Opinieouczelniach.pl",
+            "url": "https://opinieouczelniach.pl/artykul/matura-2024-lista-lektur-obowiazkowych/"
+          },
+          {
+            "title": "52 lektury, kt\u00f3re maturzysta zna\u0107 musi - Portal edukacyjny Perspektywy",
+            "url": "https://perspektywy.pl/portal/index.php?option=com_content&view=article&id=211:52-lektury-ktore-kazdy-maturzysta-znac-musi&Itemid=180"
+          }
+        ]
+      },
+      "Przeprowadzi\u0142em wyszukiwanie dla zapytania \u201eWyspa skarb\u00f3w matura j\u0119zyk polski gimnazjum liceum literatura\". Oto co znalaz\u0142em:\n\n## \"Wyspa skarb\u00f3w\" R.L. Stevensona w kontek\u015bcie edukacji polskiej\n\nWyszukiwanie ujawni\u0142o, \u017ce \"Wyspa skarb\u00f3w\" Roberta Louisa Stevensona jest dost\u0119pna jako lektura szkolna z om\u00f3wieniem w ofercie wydawniczej. \n\n### Dost\u0119pno\u015b\u0107 materia\u0142\u00f3w edukacyjnych\n\nW wydaniach dla szk\u00f3\u0142 znajduj\u0105 si\u0119 odpowiedzi na pytania z podr\u0119cznika - \u201epewniak na te\u015bcie\", czyli wskazanie zagadnie\u0144, kt\u00f3re zwykle pojawiaj\u0105 si\u0119 w pytaniach z danej lektury we wszelkich testach sprawdzaj\u0105cych wiedz\u0119. Zawiera bardzo szczeg\u00f3\u0142owe streszczenie oraz drugie skr\u00f3cone, u\u0142atwiaj\u0105ce szybkie przygotowanie si\u0119 przed lekcj\u0105. Opracowanie zawiera plan wydarze\u0144, wnikliwie wyja\u015bnion\u0105 problematyk\u0119 oraz szerokie charakterystyki bohater\u00f3w.\n\n### Testy i sprawdziany\n\nDost\u0119pne s\u0105 testy z lektury \"Wyspa skarb\u00f3w\" R. L. Stevensona, kt\u00f3re pozwalaj\u0105 przygotowa\u0107 si\u0119 na sprawdzian z j\u0119zyka polskiego i przekona\u0107 si\u0119 czy wiadomo\u015bci s\u0105 wystarczaj\u0105ce do zbli\u017caj\u0105cego si\u0119 sprawdzianu.\n\n### Status w systemie edukacyjnym\n\nZ wyszukiwania wynika, \u017ce \"Wyspa skarb\u00f3w\" nie znajduje si\u0119 obecnie w\u015br\u00f3d obowi\u0105zuj\u0105cych lektur z gwiazdk\u0105 na egzaminie maturalnym, jednak na egzaminie maturalnym obowi\u0105zuj\u0105 uczni\u00f3w r\u00f3wnie\u017c lektury ogwiazdkowane z etapu gimnazjum.\n\n### Charakterystyka literacka\n\nW utworze wyst\u0119puje podzia\u0142 na dobro i z\u0142o oraz to, \u017ce dobro zawsze zwyci\u0119\u017ca: Jim i jego towarzysze bezpiecznie wracaj\u0105 do domu, a z\u0142o, czyli wi\u0119kszo\u015b\u0107 z\u0142ych i okrutnych pirat\u00f3w ginie. Jest to bardzo interesuj\u0105ca i ciekawa ksi\u0105\u017cka, zabieraj\u0105ca czytelnika w niezwyk\u0142y \u015bwiat skarb\u00f3w i pirat\u00f3w.\n\nCho\u0107 \"Wyspa skarb\u00f3w\" nie jest obecnie na li\u015bcie obowi\u0105zkowych lektur maturalnych, pozostaje popularn\u0105 pozycj\u0105 w edukacji gimnazjalnej i licealnej, z dost\u0119pnymi materia\u0142ami pomocniczymi i testami sprawdzaj\u0105cymi znajomo\u015b\u0107 tre\u015bci."
+    ],
+    "durationSeconds": 24.723245340999913
+  }
+}

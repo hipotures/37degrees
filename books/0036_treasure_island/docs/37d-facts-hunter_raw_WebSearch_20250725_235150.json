@@ -1,0 +1,62 @@
+{
+  "session_id": "38d2c10d-061a-4607-b249-863b58008013",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/38d2c10d-061a-4607-b249-863b58008013.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Wyspa skarb\u00f3w\" teatr polski spektakl przedstawienie dzieci m\u0142odzie\u017c"
+  },
+  "tool_response": {
+    "query": "\"Wyspa skarb\u00f3w\" teatr polski spektakl przedstawienie dzieci m\u0142odzie\u017c",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_015AVenA3d4SiecAQyoqxCJ6",
+        "content": [
+          {
+            "title": "Wyspa skarb\u00f3w | Miejski Teatr Miniatura",
+            "url": "https://teatrminiatura.pl/r/wyspa-skarbow/"
+          },
+          {
+            "title": "Papier, no\u017cyce i wyspa skarb\u00f3w \u2013 Teatr Figurki",
+            "url": "https://teatrfigurki.pl/spektakle/papier-nozyce-i-wyspa-skarbow/"
+          },
+          {
+            "title": "Wyspa Skarb\u00f3w - Teatr Wsp\u00f3\u0142czesny w Krakowie",
+            "url": "http://www.teatrkrakow.pl/spektakle/wyspa-skarbow.html"
+          },
+          {
+            "title": "Wyspa skarb\u00f3w | PREMIERA | Miejski Teatr Miniatura",
+            "url": "https://teatrminiatura.pl/r/wyspa-skarbow-premiera/"
+          },
+          {
+            "title": "Wyspa Skarb\u00f3w - Gda\u0144ski Archipelag Kultury",
+            "url": "https://gak.gda.pl/placowki/wyspa-skarbow/"
+          },
+          {
+            "title": "\u201ePapier, no\u017cyce i wyspa skarb\u00f3w\u201d \u2013 Teatr Figurki - Krak\u00f3w | Kupuj Bilety Online - biletyna.pl",
+            "url": "https://biletyna.pl/dla-dzieci/Festiwal-Teatrow-dla-dzieci/Papier-nozyce-i-wyspa-skarbow-Teatr-Figurki/Krakow"
+          },
+          {
+            "title": "\u201ePapier, no\u017cyce i wyspa skarb\u00f3w\u201d \u2013 Teatr Figurki | Bilety Online, Opis, Recenzje | 2023, 2024 - biletyna.pl",
+            "url": "https://biletyna.pl/dla-dzieci/Festiwal-Teatrow-dla-dzieci/Papier-nozyce-i-wyspa-skarbow-Teatr-Figurki"
+          },
+          {
+            "title": "Papier, no\u017cyce i wyspa skarb\u00f3w - Teatr Figur Krak\u00f3w",
+            "url": "https://teatrfigur.pl/spektakle/papier-nozyce-wyspa-skarbow/"
+          },
+          {
+            "title": "Wyspa skarb\u00f3w - spektakl inny ni\u017c wszystkie Serwis Kultura",
+            "url": "https://www.trojmiasto.pl/kultura/Wyspa-skarbow-spektakl-inny-niz-wszystkie-n203878.html"
+          },
+          {
+            "title": "Tajemnicza wyspa z pirackim skarbem w Krakowie. Atrakcje dla dzieci w Krakowie",
+            "url": "https://miastodzieci.pl/wydarzenia/wyspa-skarbow-w-teatrze-wspolczesnym/"
+          }
+        ]
+      },
+      "Based on the search results, I found information about several theatrical productions of \"Wyspa skarb\u00f3w\" (Treasure Island) for children and youth in Polish theaters. Here's what I discovered:\n\n## Theatrical Productions of \"Wyspa skarb\u00f3w\" for Children and Youth\n\n### Miejski Teatr Miniatura (Gda\u0144sk)\nMiniaturowa wersja \u201eWyspy skarb\u00f3w\" to uk\u0142on w stron\u0119 dzieci\u0119cej wyobra\u017ani \u2013 tej, kt\u00f3ra z kija od szczotki zrobi maszt, a z pokoju \u2013 statek p\u0142yn\u0105cy ku nieznanym l\u0105dom, ale te\u017c zaproszenie do wsp\u00f3lnej zabawy w pirack\u0105 przygod\u0119.(no content)Wyspa skarb\u00f3w \u2013 nowa adaptacja legendarnej powie\u015bci Roberta Louisa Stevensona \u2013 to niezwyk\u0142a podr\u00f3\u017c przez ocean przyg\u00f3d, tajemnic i ponadczasowych warto\u015bci.\n\nThe production features unique staging where spektakl odbywa si\u0119 na Du\u017cej Scenie, ale na potrzeby spektaklu widownia usytuowana jest na scenie, a aktorzy graj\u0105 w miejscu widowni.(no content)Spektakl adresowany jest do widz\u00f3w od 10. roku \u017cycia and explores themes of coming of age, where prawdziwe skarby nie zawsze b\u0142yszcz\u0105 z\u0142otem, ale cz\u0119sto ukryte s\u0105 w przyja\u017ani, zaufaniu i odwadze.\n\n### Teatr Wsp\u00f3\u0142czesny w Krakowie\nTeatr Wsp\u00f3\u0142czesny w Krakowie zaprasza m\u0142odego widza do prze\u017cycia niezwyk\u0142ej przygody razem z bohaterami spektaklu \u201eWyspa Skarb\u00f3w.(no content)Scenariusz zosta\u0142 napisany na podstawie powie\u015bci Roberta Louisa Stevensona \u201eWyspa Skarb\u00f3w\".(no content)Sceny pe\u0142ne napi\u0119cia i komicznych sytuacji, zaskakuj\u0105ce zwroty akcji, znakomite dialogi i barwne postaci s\u0105 niezaprzeczalnymi atutami przedstawienia.\n\n### Teatr Figurki - \"Papier, no\u017cyce i wyspa skarb\u00f3w\"\nThis is a creative adaptation where Domi i Mati s\u0105 r\u00f3wnie\u017c aktorami Teatru Figurki, wystarcz\u0105 im papier i no\u017cyczki, aby w kilka minut wyczarowa\u0107 ca\u0142y \u015bwiat!(no content)spektakl dla widz\u00f3w powy\u017cej 4 lat czas trwania: 45 minut\n\nThe production tells the story of travel bloggers who lose their photos and must recreate their adventures using paper and scissors. Sytuacj\u0119 ratuj\u0105 kartki, no\u017cyczki i wspania\u0142a wyobra\u017ania podr\u00f3\u017cnik\u00f3w i widz\u00f3w.\n\n### Educational Aspects\nZesp\u00f3\u0142 Edukacji opracowa\u0142 warsztaty do tego spektaklu skupione na temacie lub formie teatralnej. These productions emphasize the educational value of theater for young audiences, combining entertainment with learning about literature, friendship, and personal growth.\n\nThe search revealed that \"Wyspa skarb\u00f3w\" is a popular choice for Polish children's theater, with multiple theaters creating their own adaptations of Stevenson's classic novel, each with unique staging approaches and age-appropriate content."
+    ],
+    "durationSeconds": 25.52724368900014
+  }
+}

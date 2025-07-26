@@ -1,0 +1,62 @@
+{
+  "session_id": "a13ae777-128d-46b3-ae68-aaaa7f00c2a3",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/a13ae777-128d-46b3-ae68-aaaa7f00c2a3.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Quo Vadis Sienkiewicz digital humanities online archives Internet Archive Project Gutenberg modern analysis"
+  },
+  "tool_response": {
+    "query": "Quo Vadis Sienkiewicz digital humanities online archives Internet Archive Project Gutenberg modern analysis",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01CrmMkhfSVK45ujEUZ5ryXN",
+        "content": [
+          {
+            "title": "Quo Vadis, by Henryk Sienkiewicz",
+            "url": "https://www.gutenberg.org/files/2853/2853-h/2853-h.htm"
+          },
+          {
+            "title": "Quo Vadis : Henryk Sienkiewicz : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/bwb_P9-BUC-462"
+          },
+          {
+            "title": "Quo Vadis: A Narrative of the Time of Nero by Henryk Sienkiewicz | Project Gutenberg",
+            "url": "https://www.gutenberg.org/ebooks/2853"
+          },
+          {
+            "title": "Books by Sienkiewicz, Henryk (sorted by popularity) - Project Gutenberg",
+            "url": "https://www.gutenberg.org/ebooks/author/1052"
+          },
+          {
+            "title": "Quo vadis : Sienkiewicz, Henryk, 1846-1916 : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/quovadis000sien"
+          },
+          {
+            "title": "\"Quo Vadis\", narrative of the time of Nero; : Sienkiewicz, Henryk, 1846-1916 : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/quovadisnarrati00sien"
+          },
+          {
+            "title": "Quo Vadis, A Narrative of the Time of Nero, by Henryk Sienkiewicz",
+            "url": "https://www.gutenberg.org/files/8816/8816-index.htm"
+          },
+          {
+            "title": "QUO VADIS. : Sienkiewicz. Henryk. : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/quovadis0000sien_s3q9"
+          },
+          {
+            "title": "Quo Vadis: a narrative of the time of Nero : Sienkiewicz, Henryk, 1846-1916 : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/quovadisanarrati02853gut"
+          },
+          {
+            "title": "Quo vadis? : Sienkiewicz, Henryk, 1846-1916, author : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/quovadis0000unse"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about Henryk Sienkiewicz's \"Quo Vadis\" in relation to digital humanities and online archives:\n\n## Digital Archive Availability\n\nHenryk Sienkiewicz's \"Quo Vadis: A Narrative of the Time of Nero\" is widely available through major digital humanities archives. The novel has been digitized and made freely accessible through both Project Gutenberg and the Internet Archive.\n\n### Project Gutenberg\n\nProject Gutenberg offers \"Quo Vadis\" as EBook #2853, released on December 31, 2008, and last updated on November 19, 2016. The text is available for free use with almost no restrictions under the Project Gutenberg License. Project Gutenberg offers 76,355 free eBooks for various digital devices including Kindle, iPad, Nook, Android, and iPhone.\n\n### Internet Archive\n\nThe Internet Archive hosts multiple versions of \"Quo Vadis,\" demonstrating the work's continued relevance for digital preservation and scholarship. The Internet Archive is currently involved in legal proceedings to restore access to 500,000+ books, highlighting ongoing debates about digital access to literary works.\n\n### Literary Significance for Digital Analysis\n\n\"Quo Vadis: A Narrative of the Time of Nero\" is a historical novel written during the late 19th century that explores the clash between traditional Roman values and emerging Christianity during Nero's reign. The story centers on Marcus Vinicius, a young Roman tribune, and Lygia, a beautiful Christian captive, whose love story unfolds amid political and moral turmoil.\n\nThe novel's availability across multiple digital platforms makes it an excellent candidate for modern digital humanities analysis, including textual analysis, comparative translation studies, and historical literary research. The free access through both Project Gutenberg and Internet Archive ensures researchers can examine this important work of 19th-century historical fiction that deals with themes of religious transformation and cultural conflict in ancient Rome."
+    ],
+    "durationSeconds": 16.201467131994665
+  }
+}

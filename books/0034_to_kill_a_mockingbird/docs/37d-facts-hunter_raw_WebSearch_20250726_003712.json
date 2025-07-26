@@ -1,0 +1,63 @@
+{
+  "session_id": "bca0f9c4-aba0-4606-9d12-d305df5c1a73",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/bca0f9c4-aba0-4606-9d12-d305df5c1a73.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"To Kill a Mockingbird\" banned censored schools controversy reasons why removed challenged"
+  },
+  "tool_response": {
+    "query": "\"To Kill a Mockingbird\" banned censored schools controversy reasons why removed challenged",
+    "results": [
+      "I'll search for information about the banning and censorship of \"To Kill a Mockingbird\" in schools.",
+      {
+        "tool_use_id": "srvtoolu_01LhAQbMQaNi4J9NK6ZCSFJV",
+        "content": [
+          {
+            "title": "Why 'To Kill a Mockingbird' Keeps Getting Banned",
+            "url": "https://www.history.com/articles/why-to-kill-a-mockingbird-keeps-getting-banned"
+          },
+          {
+            "title": "Students hated \u2018To Kill a Mockingbird.\u2019 Their teachers tried to dump it. - The Washington Post",
+            "url": "https://www.washingtonpost.com/education/2023/11/03/to-kill-a-mockingbird-book-ban-removal-washington/"
+          },
+          {
+            "title": "Banned Books 2022 - To Kill a Mockingbird - Marshall Libraries",
+            "url": "https://www.marshall.edu/library/bannedbooks/to-kill-a-mockingbird/"
+          },
+          {
+            "title": "Banned Spotlight: To Kill a Mockingbird | Banned Books Week",
+            "url": "https://bannedbooksweek.org/banned-spotlight-to-kill-a-mockingbird/"
+          },
+          {
+            "title": "The Failed Campaign To Ban 'To Kill a Mockingbird'",
+            "url": "https://reason.com/2022/08/18/to-kill-a-mockingbird/"
+          },
+          {
+            "title": "Blowback following school's ban of 'To Kill a Mockingbird\u2019",
+            "url": "https://www.newsnationnow.com/us-news/education/ban-kill-a-mockingbird/"
+          },
+          {
+            "title": "'To Kill a Mockingbird,' Other Books Banned From California Schools Over Racism Concerns - Newsweek",
+            "url": "https://www.newsweek.com/kill-mockingbird-other-books-banned-california-schools-over-racism-concerns-1547241"
+          },
+          {
+            "title": "Harper Lee, \u201cTo Kill a Mockingbird\u201d \u2013 The Banned Books Project",
+            "url": "https://bannedbooks.library.cmu.edu/harper-lee-to-kill-a-mockingbird/"
+          },
+          {
+            "title": "The Controversy Behind Banning \"To Kill a Mockingbird\" | Free Essay Example for Students",
+            "url": "https://aithor.com/essay-examples/the-controversy-behind-banning-to-kill-a-mockingbird"
+          },
+          {
+            "title": "'To Kill a Mockingbird' in the hot seat at WA school district | Cascade PBS",
+            "url": "https://www.cascadepbs.org/news/2022/01/kill-mockingbird-hot-seat-wa-school-district/"
+          }
+        ]
+      },
+      "Based on the search results, here's a comprehensive overview of why \"To Kill a Mockingbird\" has been banned, censored, and challenged in schools:\n\n## Main Reasons for Banning/Challenging\n\nThe most common reasons for challenging \"To Kill a Mockingbird\" over the decades have been the book's strong language, discussion of sexuality and rape, and use of the n-word. The specific concerns have evolved over time:\n\n### Historical Challenges (1960s-1980s)\n\nOne of the earliest challenges was in Hanover County, Virginia, in 1966, where the school board initially decided to remove the book, citing the book's theme of rape and the charge that the novel was \"immoral\". Into the 1970s and 1980s, school boards and parents continued to challenge the book for its \"filthy\" or \"trashy\" content and racial slurs.\n\n### Modern Challenges (2000s-Present)\n\nThe reasons for challenging the book have shifted in recent years:\n\n1. **Racial Concerns**: The book has been banned and challenged for racial slurs and their negative effect on students, featuring a \"white savior\" character, and its perception of the Black experience. \"To Kill A Mockingbird centers on whiteness,\" teachers wrote in their challenge, adding that \"it presents a barrier to understanding and celebrating an authentic Black point of view in Civil Rights era literature and should be removed\".\n\n2. **Uncomfortable Language**: A Biloxi School Board member said the book \"just says it 'makes people uncomfortable'\". A Biloxi school board member said the book's language made some people \"uncomfortable\".\n\n3. **Impact on Students**: Four parents, three of whom are Black, challenged the classic novels for alleged potential harm to the district's roughly 400 Black students. One parent was concerned about her daughter, who is black, and her classmates' response to the book, which reportedly included laughter over the use of the slur.\n\n## Recent Notable Cases\n\n### Burbank, California (2020)\nAfter parent complaints, the Burbank Unified School District superintendent removed the book from the district's required reading lists and banned the use of the N-word in all school classes. The books will be allowed in classroom libraries, but no student can be required to read them.\n\n### Duluth, Minnesota (2018)\nTo Kill a Mockingbird and Mark Twain's Adventures of Huckleberry Finn were removed from required reading in the Duluth, Minnesota, school district over the use of racial slurs.\n\n### Mukilteo, Washington (2021-2022)\nTeachers launched a years-long quest to prohibit any teacher in the largely liberal Mukilteo School District from assigning \"Mockingbird.\" And it started with a formal book challenge in late 2021 \u2014 the first in 20 years, and the first ever to come from teachers.\n\n## Frequency of Challenges\n\nLee's novel made the American Library Association's top 10 list of most challenged books in 2009, 2011, 2017 and 2020. In 2019, the American Library Association listed it as No. 15 in its top 100 most banned and challenged books of the last decade.\n\n## The Debate\n\nThe controversy has sparked debate from multiple perspectives:\n\n- Some argue that \"Lee's is not the best book to teach white kids about racism, because it grounds its narrative in the experiences of a white narrator and presents her father as the white savior\"\n\n- Others accuse the book of having a white savior complex and shallow black characters\n\n- The fight sparked \"a rare moment of national political unity, with right-wing critics alleging the district wanted to censor a classic in service of a 'woke' agenda \u2014 while left-wing detractors insisted teachers were erasing the reality of racism\"\n\nDespite the controversies, many educators and free speech advocates continue to defend the book's educational value when taught with proper context and discussion of its complexities."
+    ],
+    "durationSeconds": 44.70814710200019
+  }
+}

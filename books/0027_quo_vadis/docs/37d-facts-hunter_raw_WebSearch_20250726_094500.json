@@ -1,0 +1,62 @@
+{
+  "session_id": "a13ae777-128d-46b3-ae68-aaaa7f00c2a3",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/a13ae777-128d-46b3-ae68-aaaa7f00c2a3.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Henryk Sienkiewicz \"Quo Vadis\" 1896 original first edition Polish publication details bibliography"
+  },
+  "tool_response": {
+    "query": "Henryk Sienkiewicz \"Quo Vadis\" 1896 original first edition Polish publication details bibliography",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_013UyDmM2VHWPVfUPogFiFYS",
+        "content": [
+          {
+            "title": "Quo Vadis by Henryk Sienkiewicz, First Edition - AbeBooks",
+            "url": "https://www.abebooks.com/servlet/SearchResults?an=henryk+sienkiewicz&fe=on&sortby=1&tn=quo+vadis&cm_sp=pan-_-srp-_-fe"
+          },
+          {
+            "title": "Quo Vadis (novel) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Quo_Vadis_(novel)"
+          },
+          {
+            "title": "Quo vadis : Sienkiewicz, Henryk, 1846-1916 : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/quovadis0000sien_z8d8"
+          },
+          {
+            "title": "Amazon.com: Quo Vadis? (Polish Edition): 9781909669413: Sienkiewicz, Henryk: Books",
+            "url": "https://www.amazon.com/Quo-vadis-Polish-Henryk-Sienkiewicz/dp/1909669415"
+          },
+          {
+            "title": "Quo Vadis \u2013 Cluny Media",
+            "url": "https://clunymedia.com/products/quo-vadis"
+          },
+          {
+            "title": "QUO VADIS: A NARRATIVE OF THE TIME OF NERO | Henryk Sienkiewicz | First Edition; Second Printing",
+            "url": "https://www.rarebookcellar.com/pages/books/180274/henryk-sienkiewicz/quo-vadis-a-narrative-of-the-time-of-nero"
+          },
+          {
+            "title": "Quo Vadis, by Henryk Sienkiewicz",
+            "url": "https://www.gutenberg.org/files/2853/2853-h/2853-h.htm"
+          },
+          {
+            "title": "The novel of Neronian Rome and its multimedial transformations: Sienkiewicz\u2019s \u201cQuo vadis\u201d \u2013 Bryn Mawr Classical Review",
+            "url": "https://bmcr.brynmawr.edu/2021/2021.11.30/"
+          },
+          {
+            "title": "Quo vadis : a narrative of the time of Nero : Sienkiewicz, Henryk, 1846-1916 : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/quovadisnarrativ00sien"
+          },
+          {
+            "title": "Quo Vadis & Beyond: Henryk Sienkiewicz's Notable Works",
+            "url": "https://blog.bookstellyouwhy.com/quo-vadis-beyond-henryk-sienkiewiczs-notable-works"
+          }
+        ]
+      },
+      "Based on the search results, I can provide detailed information about the original Polish publication of Henryk Sienkiewicz's \"Quo Vadis\" from 1896:\n\n## Original Polish Publication Details\n\nQuo Vadis: A Narrative of the Time of Nero (Quo vadis: Powie\u015b\u0107 z czas\u00f3w Nerona) is a historical novel written by Henryk Sienkiewicz in Polish. The novel was published in installments in three Polish dailies in 1895, it came out in book form in 1896. More specifically, originally serialized in Poland in 1895-1896, Quo vadis was published in novel form in Poland in 1896.\n\n## International Publication Timeline\n\nThe novel achieved rapid international success: quickly found international success, translated into numerous languages at a rapid pace, including Jeremiah Curtin's successful 1896 English translation, popular in the United States.\n\n## American First Edition Details\n\nFor the American market, in 1897, Jeremiah Curtin translated Quo Vadis from Polish to English and 250 copies of the translation were published in Boston by Little Brown and Company. The search results show that Little Brown, Boston MA, (1896) published the first US edition, with some sources indicating Boston: Little, Brown & Company, 1896. First Edition; Second Printing.\n\n## Publishing Success\n\nSince its publication in 1896, Quo Vadis has been one of historical fiction's most beloved works and has been translated into fifty-plus languages and adapted for film numerous times. The work is considered First published in book form in 1896, Quo Vadis is Henryk Sienkiewicz's most widely-known work.\n\nThe novel represents a significant achievement in historical fiction, combining Sienkiewicz studied the Roman Empire extensively before writing the novel, with the aim of getting historical details correct with compelling storytelling that made it an international literary phenomenon from its initial 1896 Polish publication."
+    ],
+    "durationSeconds": 16.26625723899901
+  }
+}

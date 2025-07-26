@@ -1,0 +1,62 @@
+{
+  "session_id": "8e510ca3-dab1-4e58-b10a-336d368b79a7",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e510ca3-dab1-4e58-b10a-336d368b79a7.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Pan Tadeusz gaming video games RPG adaptations fantasy strategy games witcher poland mythology"
+  },
+  "tool_response": {
+    "query": "Pan Tadeusz gaming video games RPG adaptations fantasy strategy games witcher poland mythology",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01K6kKueYvvEcmGw4zbJ6nEJ",
+        "content": [
+          {
+            "title": "The Witcher - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Witcher"
+          },
+          {
+            "title": "10 Polish computer games that aren\u2019t The Witcher or Cyberpunk 2077!",
+            "url": "https://www.inyourpocket.com/warsaw/10-polish-computer-games-that-arent-the-witcher-or_79031f"
+          },
+          {
+            "title": "The Witching Hour of Modern Polish Nationalism - The Public Medievalist",
+            "url": "https://publicmedievalist.com/the-witcher-nationalism/"
+          },
+          {
+            "title": "The Witcher (video game series) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Witcher_(video_game_series)"
+          },
+          {
+            "title": "The Witcher (video game) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Witcher_(video_game)"
+          },
+          {
+            "title": "Andrzej Sapkowski - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Andrzej_Sapkowski"
+          },
+          {
+            "title": "10 Games To Play If You Love Slavic Mythology",
+            "url": "https://www.thegamer.com/slavic-mythology-best-video-games/"
+          },
+          {
+            "title": "5 Best Games About Slavic Mythology",
+            "url": "https://gamerant.com/best-games-slavic-mythology/"
+          },
+          {
+            "title": "Wied\u017amin: Gra Wyobra\u017ani | Witcher Wiki | Fandom",
+            "url": "https://witcher.fandom.com/wiki/Wied\u017amin:_Gra_Wyobra\u017ani"
+          },
+          {
+            "title": "Category:Video games developed in Poland - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Category:Video_games_developed_in_Poland"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about video games and RPG adaptations related to Polish mythology and The Witcher series, though I did not find specific information about Pan Tadeusz video game adaptations:\n\n## The Witcher Series - Poland's Gaming Success\n\nThe Witcher is a fantasy action role-playing game series developed by CD Projekt Red and published by CD Projekt. It is based on the book series of the same name by Polish writer Andrzej Sapkowski, acting as non-canonical sequels to the story of the books.(no content)The series is critically acclaimed and commercially successful, selling over 75 million units by March 2023\n\n## Polish Mythology and Cultural Elements\n\nInstead of the more typical Arthurian, French, Germanic, or Nordic influences, the Northern Kingdoms are based primarily on a mythological pan-Slavic vision of Central Europe.(no content)Although admitting to using Slavic mythology often due to it being very rich and abundant, Sapkowski said he does not have any preferred mythologies, folklores or bestiaries that he draws on for monsters in The Witcher(no content)The influence of Slavic mythology is seen as a characteristic feature of many of his works. The world in which these adventures take place is heavily influenced by Slavic mythology.\n\n## Cultural Impact and Polish Identity\n\nMarcin Iwinski, the co-founder of CD Projekt, has explicitly stated that The Witcher universe stands as \"a tribute to the Polish language and to Polishness in general\".(no content)The franchise has become one of Poland's best known cultural exports.\n\n## Other Games with Slavic/Polish Elements\n\nThe 2015 strategic survival game Thea: The Awakening was inspired, among others, by The Witcher. After an apocalyptic event changed the world forever, creatures from Slavic mythology, such as striga and Baba Yaga, are now roaming it.(no content)Many video games have done a great job of capturing the essence of Slavic mythology by focusing on players' moral choices. Also, the best thing about them is that each one tells a unique new story set in a fantasy world populated by creatures from Slavic folklore.\n\n## Pan Tadeusz Adaptations\n\nThe search did not return specific information about video game adaptations of \"Pan Tadeusz,\" Adam Mickiewicz's epic poem. While The Witcher has become Poland's most successful gaming export drawing on Polish/Slavic culture, there don't appear to be major RPG or strategy game adaptations of Pan Tadeusz specifically in the current search results."
+    ],
+    "durationSeconds": 23.07500968000002
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "session_id": "3a49404c-4f85-49d3-82a6-52395d74d3af",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/3a49404c-4f85-49d3-82a6-52395d74d3af.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Proces\" Kafka Teatr Stary Krak\u00f3w adaptacja Jarosz Lupa polski teatr"
+  },
+  "tool_response": {
+    "query": "\"Proces\" Kafka Teatr Stary Krak\u00f3w adaptacja Jarosz Lupa polski teatr",
+    "results": [
+      "I'll search for information about the theatrical adaptation of Kafka's \"The Trial\" (Proces) at Teatr Stary in Krak\u00f3w, focusing on adaptations by Jarosz and Lupa in Polish theater.",
+      {
+        "tool_use_id": "srvtoolu_01GYC8VcuHVLqNz9xQT7VF25",
+        "content": [
+          {
+            "title": "Proces - Nowy Teatr",
+            "url": "https://nowyteatr.org/pl/kalendarz/proces"
+          },
+          {
+            "title": "Proces ::: Sztuki ::: Encyklopedia teatru polskiego",
+            "url": "https://encyklopediateatru.pl/sztuki/1332/proces-franz-kafka"
+          },
+          {
+            "title": "Proces - Teatr Polski | e-teatr.pl",
+            "url": "https://e-teatr.pl/proces-s11780"
+          },
+          {
+            "title": "Krystian Lupa, Proces, Franz Kafka, Teatr Nowy w Warszawie, Jakub Ekier, Lupa",
+            "url": "https://teatr-pismo.pl/6499-afektowanie/"
+          },
+          {
+            "title": "Proces ::: Przedstawienia ::: Encyklopedia teatru polskiego",
+            "url": "https://encyklopediateatru.pl/przedstawienie/8239/proces"
+          },
+          {
+            "title": "Proces. Spektakl muzyczny \u2013 Teatr Bagatela",
+            "url": "https://bagatela.pl/spektakl/proces-spektakl-muzyczny/"
+          },
+          {
+            "title": "Proces - Od\u00e9on - Th\u00e9\u00e2tre de l'Europe",
+            "url": "https://www.theatre-odeon.eu/en/library-and-archives/archives/saison-2018--2019/proces"
+          },
+          {
+            "title": "PROCES | Banialuka",
+            "url": "https://www.banialuka.pl/spektakl/755/proces"
+          },
+          {
+            "title": "Proces",
+            "url": "https://trwarszawa.pl/en/program/the-trial/"
+          },
+          {
+            "title": "Nowy Teatr",
+            "url": "https://nowyteatr.org/pl/plays/Proces"
+          }
+        ]
+      },
+      "Based on the search results, I found information about theatrical adaptations of Franz Kafka's \"The Trial\" (Proces) in Polish theater, particularly focusing on productions at Teatr Stary in Krak\u00f3w and works by directors Jarosz and Lupa.\n\nHere are the key findings:\n\n## Jerzy Jarocki's Production at Stary Teatr (1973)\n\nJerzy Jarocki directed \"Proces\" at Stary Teatr im. Heleny Modrzejewskiej in Krak\u00f3w, with the premiere on July 13, 1973. This production took place at Stary Teatr im. Heleny Modrzejewskiej in Krak\u00f3w and premiered on July 13, 1973.\n\n## Krystian Lupa's Production (2017)\n\nKrystian Lupa directed \"Proces\" with a premiere on November 15, 2017 at Nowy Teatr in Warsaw. The production featured voices by Krystian Lupa, Andrzej K\u0142ak, Marta Zi\u0119ba, Marcin Pempu\u015b, Adam Szczyszczaj, Ma\u0142gorzata Gorol, and Rados\u0142aw St\u0119pie\u0144.\n\nLupa initially began preparing this production at Teatr Polski in Wroc\u0142aw in 2016, but suspended rehearsals after the change of theater director. He later resumed work in Warsaw in 2017. The production involved actors from the Wroc\u0142aw Teatr Polski who had been dismissed.\n\nThe production was created by multiple producers including Studio teatrgaleria, Teatr Powszechny, TR Warszawa, and Le Quai Centre Dramatique National Angers Pays de la Loire, with several international co-producers.\n\nLupa's approach to Kafka's work represented a return to his dialogue with modernity's great spiritual observers. In his production diary, Lupa wrote about the \"Kafkaesque child\" that awakened in him during Poland's \"PiS era\" and how it now describes this Poland.\n\n## Other Notable Productions\n\nThe search results also reveal numerous other Polish theatrical adaptations of \"The Trial\" over the decades, including:\n- Adam Hanuszkiewicz's production at Teatr Narodowy in Warsaw (1972)\n- Waldemar \u015amigasiewicz's production at Teatr Bagatela in Krak\u00f3w (2008)\n- Jakub Szyd\u0142owski's musical adaptation at Teatr Bagatela, featuring extensive sung dialogues and lyrical musical pieces\n\nWhile the search results don't provide specific information about a director named \"Jarosz,\" they do show that Jerzy Jarocki was the prominent director who staged \"The Trial\" at Stary Teatr in Krak\u00f3w in 1973, which became one of the most significant Polish theatrical adaptations of Kafka's work."
+    ],
+    "durationSeconds": 28.76297001499962
+  }
+}

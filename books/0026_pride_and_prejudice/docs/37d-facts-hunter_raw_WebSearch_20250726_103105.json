@@ -1,0 +1,62 @@
+{
+  "session_id": "4029c48e-0ae1-4fb8-ac64-0a5ca0afe9c3",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/4029c48e-0ae1-4fb8-ac64-0a5ca0afe9c3.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Jane Austen personal life romantic experiences inspired Pride and Prejudice Elizabeth Bennet Mr Darcy real people"
+  },
+  "tool_response": {
+    "query": "Jane Austen personal life romantic experiences inspired Pride and Prejudice Elizabeth Bennet Mr Darcy real people",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_011xBxQjgnZ1MVtmfLbmch8m",
+        "content": [
+          {
+            "title": "Pride and Prejudice - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice"
+          },
+          {
+            "title": "Pride and Prejudice by Jane Austen : All About Romance",
+            "url": "https://allaboutromance.com/pride-and-prejudice-by-jane-austen/"
+          },
+          {
+            "title": "Pride and Prejudice: Possible inspirations from Jane Austen's life",
+            "url": "https://janeausteninfo.wixsite.com/blog/single-post/2015/09/24/pride-and-prejudice-possible-inspirations-from-jane-austens-life"
+          },
+          {
+            "title": "Pride and Prejudice | Summary, Characters, Author, Book, Movie, Quotes, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/Pride-and-Prejudice"
+          },
+          {
+            "title": "Mr. Darcy - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Mr._Darcy"
+          },
+          {
+            "title": "Pride and Prejudice. What I learned from Jane Austen\u2019s\u2026 | by Lena Ovechkin | Medium",
+            "url": "https://medium.com/@lenaovechkin9/pride-and-prejudice-12a060565f55"
+          },
+          {
+            "title": "Elizabeth Bennet | The Jane Austen Wiki | Fandom",
+            "url": "https://janeausten.fandom.com/wiki/Elizabeth_Bennet"
+          },
+          {
+            "title": "Pride and Prejudice and the Problem of Elizabeth, Jane, and Mr. Bennet - Jane Austen articles and blog",
+            "url": "https://janeausten.co.uk/blogs/extended-reading/pride-and-prejudice-and-the-problem-of-elizabeth-jane-and-mr-bennet"
+          },
+          {
+            "title": "Pride & Prejudice (2005) \u2b50 7.8 | Drama, Romance",
+            "url": "https://www.imdb.com/title/tt0414387/"
+          },
+          {
+            "title": "Pride and Prejudice: Elizabeth & Darcy, the Iconic Romantic Couple \u2013 Austenprose",
+            "url": "https://austenprose.com/2010/07/16/pride-and-prejudice-without-zombies-elizabeth-darcy-the-iconic-romantic-couple/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about Jane Austen's personal life and its possible connections to Pride and Prejudice characters.\n\n## Jane Austen's Personal Life and Possible Inspirations for Pride and Prejudice\n\nThe search reveals several insights into how Jane Austen's personal experiences may have influenced her creation of Elizabeth Bennet and Mr. Darcy:\n\n### Personal Relationships and Inspirations\n\nJane, much like Jane and Elizabeth Bennet, had a very close relationship with her sister Cassandra. Although Jane used her own name for the elder Bennet sister, Jane Bennet is not a direct reflection of her own character.(no content)Many people believe that Elizabeth Bennet is a representative of Jane Austen herself. Jane would speak her mind in her letters, much as Elizabeth speaks hers.\n\n### Social Background Similarities\n\nJane was herself a gentleman's daughter as her father was a clergyman, and the Bennet sisters are also daughters of a gentleman. Mr Bennet is part of the landed gentry making him a gentleman.\n\n### Claims About Real-Life Inspirations\n\nRegarding claims about real people inspiring the characters, the search results show some skepticism among scholars:\n\nAn academic, Dr Susan Law, claimed in 2013 to have found the real Mr Darcy - the Earl of Morley John Parker. I personally find this a load of nonsense as no Jane Austen character was a direct representation of a real life person, only elements.\n\n### Austen's Approach to Character Creation\n\nNo Jane Austen character was a direct representation of a real life person, only elements... This is not to say that she consciously took these events or characters directly or consciously, the following is mostly speculation.\n\nThe search results suggest that while Jane Austen may have drawn inspiration from her personal experiences and relationships (particularly her close bond with her sister Cassandra, her social status as a clergyman's daughter, and her own outspoken nature), scholars generally agree that her characters were not direct representations of specific real people. Rather, Elizabeth Bennet and Mr. Darcy appear to be composite characters that may have incorporated elements from Austen's observations of society and her own personality traits, but were primarily products of her literary imagination."
+    ],
+    "durationSeconds": 19.16333293200284
+  }
+}

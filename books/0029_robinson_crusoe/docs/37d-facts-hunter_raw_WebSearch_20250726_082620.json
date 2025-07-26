@@ -1,0 +1,63 @@
+{
+  "session_id": "256f845f-ddd5-4027-a9c2-755ec8659a89",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/256f845f-ddd5-4027-a9c2-755ec8659a89.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Robinson Crusoe TV series children's animated adaptations BBC television series cast away shows"
+  },
+  "tool_response": {
+    "query": "Robinson Crusoe TV series children's animated adaptations BBC television series cast away shows",
+    "results": [
+      "I'll search for information about Robinson Crusoe TV series, particularly focusing on children's animated adaptations and BBC television series about being cast away.",
+      {
+        "tool_use_id": "srvtoolu_0159Jw6ZVujn3FfkUYJ5oSFa",
+        "content": [
+          {
+            "title": "The Adventures of Robinson Crusoe (TV series) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Adventures_of_Robinson_Crusoe_(TV_series)"
+          },
+          {
+            "title": "Crusoe (TV series) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Crusoe_(TV_series)"
+          },
+          {
+            "title": "Robinson Crusoe Movies and TV Shows",
+            "url": "https://www.imdb.com/list/ls033635772/"
+          },
+          {
+            "title": "Robinson Crusoe - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Robinson_Crusoe"
+          },
+          {
+            "title": "Crusoe (TV Series 2008\u20132009) - IMDb",
+            "url": "https://www.imdb.com/title/tt1117552/"
+          },
+          {
+            "title": "The Adventures of Robinson Crusoe (TV Series 1964) \u2b50 8.1 | Adventure",
+            "url": "https://www.imdb.com/title/tt0167516/"
+          },
+          {
+            "title": "Adventures of Robinson Crusoe \u2013 Blood and Porridge",
+            "url": "https://bloodandporridge.co.uk/wp/tag/adventures-of-robinson-crusoe/"
+          },
+          {
+            "title": "Robinson Crusoe (BBC Children\u2019s Classics): Defoe, Daniel, Full Cast, Marsden, Roy: 9781408400654: Amazon.com: Books",
+            "url": "https://www.amazon.com/Robinson-Crusoe-BBC-Children%C2%92s-Classics/dp/1408400650"
+          },
+          {
+            "title": "The Adventures of Robinson Crusoe ( 1964 ) - TV Series - Silver Scenes - A Blog for Classic Film Lovers",
+            "url": "https://silverscenesblog.blogspot.com/2016/03/the-adventures-of-robinson-crusoe-1964.html"
+          },
+          {
+            "title": "Crusoe TV show",
+            "url": "https://tvseriesfinale.com/tv-show/crusoe/"
+          }
+        ]
+      },
+      "Based on the search results, I found several Robinson Crusoe TV series and animated adaptations, including BBC productions and children's shows. Here's what I discovered:\n\n## Key Robinson Crusoe TV Series and Adaptations:\n\n### The Adventures of Robinson Crusoe (1964)\nThe Adventures of Robinson Crusoe (French: Les Aventures de Robinson Cruso\u00eb) is a French-German children's television drama series made by Franco London Films and based on Daniel Defoe's 1719 novel Robinson Crusoe.(no content)The show was first aired in Germany in October 1964 as four 90-minute episodes and was first aired in the UK in 1965 as a 13-part serial.(no content)The English-language version's theme music, which the BBC requested before they would buy the serial, has been praised.(no content)After its debut in 1965 it became a staple part of the BBC's school summer holiday schedules and was last screened in the early 1980s, after which the BBC's contract for repeat screenings expired.\n\n### Crusoe (2008-2009)\nCrusoe is an adventure-drama television series, based loosely on the 1719 novel Robinson Crusoe by Daniel Defoe. The series' 13 episodes aired on NBC from October 17, 2008, to January 31, 2009.(no content)In the UK, Crusoe premiered with a double-bill on FTA Terrestrial Channel Five on 20 December 2008 and was then played daily during the holiday period for the full 13 episodes.\n\n### Animated Adaptations\nIn 1981, Czechoslovakian director and animator Stanislav L\u00e1tal made a version of the story under the name Adventures of Robinson Crusoe, a Sailor from York combining traditional and stop-motion animation. The movie was coproduced by regional West Germany broadcaster S\u00fcdwestfunk Baden-Baden.(no content)In 1988, an animated cartoon for children called Classic Adventure Stories Robinson Crusoe was released.\n\n### BBC Audio Productions\nThe search results also show The BBC Children's Classics are all excellent audio dramatizations with top-notch actors, sound effects and music. This includes a BBC radio dramatization of Robinson Crusoe that was first broadcast on Radio 4 in May 1998.\n\n### Cast Away Connection\nThe 2000 film Cast Away, with Tom Hanks as a FedEx employee stranded on an island for many years, also borrows much from the Robinson Crusoe story.\n\nThe most famous and beloved adaptation appears to be the 1964 French-German production that became a BBC staple for children's television programming, running regularly during school holidays for about 15 years."
+    ],
+    "durationSeconds": 25.63739642100036
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "session_id": "7da3bbc0-2d10-4a7c-9f7d-e17950766dc1",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7da3bbc0-2d10-4a7c-9f7d-e17950766dc1.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Dorian Gray effect\" beauty filters social media technology 2024"
+  },
+  "tool_response": {
+    "query": "\"Dorian Gray effect\" beauty filters social media technology 2024",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_017TqGGXwb65ZdjP6Ka7tgv2",
+        "content": [
+          {
+            "title": "Schengen anniversary: a Dorian Gray effect? - Foundation for European Progressive Studies",
+            "url": "https://feps-europe.eu/schengen-anniversary-a-dorian-gray-effect/"
+          }
+        ]
+      },
+      "This result is about EU politics and Schengen, not about beauty filters or social media. Let me search more specifically for the Dorian Gray effect in relation to beauty filters and social media technology.",
+      {
+        "tool_use_id": "srvtoolu_01N7R9WiciF2zGMnYTz1ikqM",
+        "content": [
+          {
+            "title": "The Present Day Dorian Gray: Ugly Truths about Social Media & Peer Pressure | by No Sorensen | Medium",
+            "url": "https://nosorensen.medium.com/the-present-day-dorian-gray-ugly-truths-about-social-media-peer-pressure-475bf30591cd"
+          },
+          {
+            "title": "How \u2018The Picture of Dorian Gray\u2019 mirrors the social media age | The Daily Star",
+            "url": "https://www.thedailystar.net/daily-star-books/news/how-the-picture-dorian-gray-mirrors-the-social-media-age-3144181"
+          },
+          {
+            "title": "Exploring the Dorian Gray Trait: Unveiling the Complexities of Perceived Aging and Self-Image - PMC",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10657170/"
+          },
+          {
+            "title": "Dorian Gray in the Age of Social Media: The Price of a Perfect Image | by Think bigger | Medium",
+            "url": "https://medium.com/@thinkbigge/dorian-gray-in-the-age-of-social-media-the-price-of-a-perfect-image-a365ccb755ae"
+          },
+          {
+            "title": "Through Dorian's Eyes: A Look Into Social Attraction and the Privileges that Come With It",
+            "url": "https://www.theobserverumd.org/post/through-dorian-s-eyes-a-look-into-social-attraction-and-the-privileges-that-come-with-it"
+          },
+          {
+            "title": "Does Social Media Make Us Like Dorian Gray?",
+            "url": "https://laradentremont.substack.com/p/does-social-media-make-us-like-dorian"
+          },
+          {
+            "title": "More relevant than ever: How 'The Picture of Dorian Gray' perfectly encapsulates the social media era",
+            "url": "https://beat.com.au/more-relevant-than-ever-how-the-picture-of-dorian-gray-encapsulates-the-social-media-era/"
+          },
+          {
+            "title": "How beauty filters took over social media | MIT Technology Review",
+            "url": "https://www.technologyreview.com/2021/04/02/1021635/beauty-filters-young-girls-augmented-reality-social-media/"
+          },
+          {
+            "title": "The Glowing Picture of Dorian Gray Radiates Out the Treachery of Online Beauty | Times Square Chronicles",
+            "url": "https://t2conline.com/the-glowing-picture-of-dorian-gray-radiates-out-the-treachery-of-online-beauty/"
+          },
+          {
+            "title": "The Dorian Gray deception. Distorted self-images in the social\u2026 | by Kem-Laurin Lubin, Ph.D-C | Medium",
+            "url": "https://kemlaurin.medium.com/the-dorian-gray-deception-7d1d126d95ce"
+          }
+        ]
+      },
+      "Based on the search results, I can provide comprehensive information about the \"Dorian Gray effect\" in relation to beauty filters and social media technology. Here's what I found:\n\n## The Dorian Gray Effect in Social Media and Beauty Filters\n\nThe \"Dorian Gray effect\" has become a widely discussed concept in relation to social media and beauty filters, drawing parallels between Oscar Wilde's 1890 novel \"The Picture of Dorian Gray\" and modern digital behavior.\n\n### The Modern Dorian Gray Phenomenon\n\nDorian's mythical portrait has become a reality in modern-day with social media but with the opposite effect.(no content)We use social media to give the perception of beauty rather than sharing the often marred and messy lifestyles we live, creating a digital version of Wilde's original tale.\n\n### The Dorian Gray Trait/Syndrome\n\nMedical researchers have formally defined this phenomenon. The proposed Dorian Gray trait is an obsession with a youthful appearance and compulsive use of aesthetic and lifestyle trends to mute or mask signs of aging while circumventing a rational healthy way of life.(no content)There is a fear of 'looking' old, rather than growing old.(no content)The concept \"Dorian Gray syndrome\" (DGS) was first used in the year 2000. Key characteristics include:\n- Excessive preoccupation with one's outward appearance\n- Imaginary or minimal defects in external morphology responded to in the form of embarrassment and social reclusiveness\n- A strong desire to preserve one's youthfulness in order not to grow older\n\n### Social Media and Beauty Filters Connection\n\nIn the age of social media and selfies, our exposure to our own image is very frequent. The urge to show the best possible appearance of one's self is natural. But software-modified and beauty-filtered images can show us how we might look with a few alterations like higher cheekbones, fuller lips, or trimmer jawlines, and patients are known to demand aesthetic procedures based on this 'selfie dysmorphia.'(no content)The most widespread use of augmented reality isn't in gaming: it's the face filters on social media. A mass experiment on girls and young women.(no content)Facebook and Instagram alone claim that over 600 million people have used at least one of the AR effects associated with the company's products\n\n### The Hidden Cost\n\nLike Dorian's portrait that aged while he remained beautiful, the hidden toll of social media perfectionism is absorbed in the form of declining mental health, lost self-worth, and an inability to live outside the confines of a manufactured reality.(no content)Though written in 1890, Wilde's novel eerily mirrors the modern era of social media. Today, our portraits aren't hidden in dusty attics. They're on Instagram, TikTok, and Snapchat, curated for the world to see.\n\n### Typical Profile\n\nA typical patient is likely to be middle-aged, educated, of a middle or higher socioeconomic class, heavily using social media, and having subconscious insecurities about his or her appearance or relationships.\n\nThis modern interpretation of the Dorian Gray effect highlights how beauty filters and social media create a digital portrait that presents perfection while the real person may struggle with the psychological consequences of maintaining this illusion."
+    ],
+    "durationSeconds": 29.843822909004988
+  }
+}

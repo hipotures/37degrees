@@ -1,0 +1,62 @@
+{
+  "session_id": "2dcb2a8f-b11d-466d-8a59-c7f92df6d7a0",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/2dcb2a8f-b11d-466d-8a59-c7f92df6d7a0.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Frank Herbert Dune published 20 rejections Chilton Books automotive repair manuals publisher"
+  },
+  "tool_response": {
+    "query": "Frank Herbert Dune published 20 rejections Chilton Books automotive repair manuals publisher",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_013i5KqhASaQJFZhKrwcuYVt",
+        "content": [
+          {
+            "title": "Nobody Wanted To Publish Dune Except A Car Repair Manual Company - Jalopnik",
+            "url": "https://www.jalopnik.com/dune-was-originally-published-by-a-car-repair-manual-co-1847940372/"
+          },
+          {
+            "title": "Dune (novel) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dune_(novel)"
+          },
+          {
+            "title": "The Epic Journey of Frank Herbert\u2019s Dune: From Rejection to Literary Triumph | by Andy McNally | Medium",
+            "url": "https://andymcnally.medium.com/the-epic-journey-of-frank-herberts-dune-from-rejection-to-literary-triumph-5589238b5e43"
+          },
+          {
+            "title": "Dune by Frank Herbert, First Edition, chilton - AbeBooks",
+            "url": "https://www.abebooks.com/book-search/title/dune/author/frank-herbert/publisher/chilton/first-edition/"
+          },
+          {
+            "title": "How to Fix Your Ornithopter: The Unlikely Publishing History of Dune - SFWA - The Science Fiction & Fantasy Writers Association",
+            "url": "https://www.sfwa.org/2024/02/27/how-to-fix-your-ornithopter-the-unlikely-publishing-history-of-dune/"
+          },
+          {
+            "title": "Dune's Original Publisher Otherwise Just Printed Repair Manuals | Cracked.com",
+            "url": "https://www.cracked.com/article_31566_dunes-original-publisher-otherwise-just-printed-repair-manuals.html"
+          },
+          {
+            "title": "Frank Herbert - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Frank_Herbert"
+          },
+          {
+            "title": "Herbert, Frank (1965) 'Dune', US first edition, review copy in outstanding condition and handcrafted clamshell case - First and Fine",
+            "url": "https://www.firstandfine.com/product/herbert-frank-1965-dune-us-first-edition-review-copy-in-outstanding-condition-and-handcrafted-clamshell-case/"
+          },
+          {
+            "title": "Who Originally Published Frank Herbert's Book Dune?",
+            "url": "https://fantasticfacts.net/6732/"
+          },
+          {
+            "title": "Herbert, Frank (1965-1976) 'Dune' trilogy, US signed first editions - First and Fine",
+            "url": "https://www.firstandfine.com/product/herbert-frank-1965-dune-us-signed-first-edition-in-fine-condition/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about Frank Herbert's *Dune* and its publishing history with Chilton Books:\n\n## The Publishing Journey of Dune\n\nFrank Herbert's *Dune* was rejected by more than twenty publishers before finding a home. The serialized version was expanded, reworked, and submitted to more than twenty publishers, each of whom rejected it. Some sources mention 23 rejections by established publishers, while others reference twenty different rejections from the traditional fiction markets.\n\n## Chilton Books: The Unlikely Publisher\n\nThe novel, Dune, was finally accepted and published in August 1965 by Chilton Books, a printing house better known for publishing auto repair manuals. As a Jalopnik reader, you likely know Chilton from their incredibly detailed auto repair manuals. Sterling E. Lanier was an editor for Chilton Books, a nonfiction publishing house known for their manuals on auto-repair.\n\nSterling Lanier, an editor at Chilton, had seen Herbert's manuscript and had urged his company to take a risk in publishing the book. Lanier was a science fiction author himself, as well as a mega-fan of \"Dune World.\" Even before the entire serial was completed, Mr. Lanier reached out to Herbert's agent with an offer to publish a whole book at Chilton Books.\n\n## Initial Commercial Struggles\n\nDespite eventually becoming a classic, *Dune* had a difficult start:\n\n- Chilton priced the 412-page novel at a whopping $5.95, which is over $56 today... they printed a mere 2,200 copies for the first edition\n- The first printing, priced at $5.95 (equivalent to $59.37 in 2024), did not sell well and was poorly received by critics as being atypical of science fiction at the time\n- Dune sold slowly \u2014 so slowly, in fact, that Chilton editor Sterling Lanier was fired over the decision to publish it\n\n## Frank Herbert's Humorous Take\n\nAccording to his son Brian, Frank Herbert would sometimes crack that Chilton may change the title to How to Repair Your Ornithopter - a playful reference to the flying vehicles in *Dune* and Chilton's specialty in repair manuals.\n\n## Ultimate Success\n\nDespite the rocky start, over the course of time, the book gained critical acclaim, and its popularity spread by word-of-mouth to allow Herbert to start working full time on developing the sequels to Dune. The novel went on to win the Nebula and the Hugo awards and became the best-selling science fiction novel of all time.\n\nThis remarkable publishing story demonstrates how even the most celebrated works can face initial rejection, and sometimes success comes from the most unexpected sources - in this case, a company known for teaching people how to fix cars rather than publish science fiction epics."
+    ],
+    "durationSeconds": 30.152831771999832
+  }
+}

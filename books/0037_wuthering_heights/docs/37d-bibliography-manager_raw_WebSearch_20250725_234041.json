@@ -1,0 +1,26 @@
+{
+  "session_id": "95239c3a-5fbf-4fbf-93f7-3afd6ea78885",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/95239c3a-5fbf-4fbf-93f7-3afd6ea78885.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "#BookTok hashtag views \"nearly 200 billion\" TikTok statistics 2024 2025"
+  },
+  "tool_response": {
+    "query": "#BookTok hashtag views \"nearly 200 billion\" TikTok statistics 2024 2025",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01RxftCj1wwZsbY57GyBG9e9",
+        "content": [
+          {
+            "title": "The best BookTok books to read in 2025 - Pan Macmillan",
+            "url": "https://www.panmacmillan.com/blogs/general/best-booktok-books"
+          }
+        ]
+      },
+      "Based on the search results, I found the information about BookTok hashtag views. Here's what I discovered:\n\n#BookTok videos have gained nearly 200 billion views to date, and regularly push books to the top of bestseller lists. This statistic comes from a recent Pan Macmillan article published in February 2025.\n\nThe search results confirm that BookTok is one of the biggest and most powerful communities on TikTok, and its influence extends beyond the platform itself - walk into your local bookshop and you're bound to see a whole table of books marked 'TikTok Made Me Buy It'.\n\nThis nearly 200 billion views statistic demonstrates the massive reach and influence of the BookTok community in driving book sales and literary trends across social media and traditional publishing."
+    ],
+    "durationSeconds": 7.726254146999913
+  }
+}

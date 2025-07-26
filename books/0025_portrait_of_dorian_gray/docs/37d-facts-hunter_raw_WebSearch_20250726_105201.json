@@ -1,0 +1,62 @@
+{
+  "session_id": "7da3bbc0-2d10-4a7c-9f7d-e17950766dc1",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7da3bbc0-2d10-4a7c-9f7d-e17950766dc1.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Oscar Wilde trials 1895 \"Picture of Dorian Gray\" court documents evidence prosecution"
+  },
+  "tool_response": {
+    "query": "Oscar Wilde trials 1895 \"Picture of Dorian Gray\" court documents evidence prosecution",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_014eN7t3BEyqFaqcABPBUwVD",
+        "content": [
+          {
+            "title": "The Picture of Dorian Gray | Summary, Book, Analysis, Movie, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/The-Picture-of-Dorian-Gray-novel-by-Wilde"
+          },
+          {
+            "title": "Oscar Wilde's Gross Indecency Trial | COVE",
+            "url": "https://editions.covecollective.org/chronologies/oscar-wildes-gross-indecency-trial"
+          },
+          {
+            "title": "Oscar Wilde - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Oscar_Wilde"
+          },
+          {
+            "title": "The Picture of Dorian Gray - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Picture_of_Dorian_Gray"
+          },
+          {
+            "title": "Oscar Wilde Trial",
+            "url": "https://www.history.com/topics/gay-rights/oscar-wilde-trial"
+          },
+          {
+            "title": "Oscar Wilde | Biography | Author of The Picture of Dorian Gray | Sevenov",
+            "url": "https://sevenov.com/oscar-wilde/"
+          },
+          {
+            "title": "5 Facts You Won\u2019t Believe About the Trials of Oscar Wilde | TheCollector",
+            "url": "https://www.thecollector.com/facts-oscar-wilde-trial-case/"
+          },
+          {
+            "title": "The Triptych of Dorian Gray (1890\u201391): Reading Wilde\u2019s Novel as Three Print Objects",
+            "url": "https://journals.openedition.org/cve/2978"
+          },
+          {
+            "title": "Oscar Wilde | Biography, Books, Poems, Plays, Works, Trial, Wife, Cause of Death, & Facts | Britannica",
+            "url": "https://www.britannica.com/biography/Oscar-Wilde"
+          },
+          {
+            "title": "The Picture of Dorian Gray and the Symbolism of the Self - The Hyacinth Review",
+            "url": "https://hyacinthreview.org/terri-pinyerd-the-picture-of-dorian-gray-and-the-symbolism-of-the-self/"
+          }
+        ]
+      },
+      "Based on the search results, I found significant information about Oscar Wilde's 1895 trials and how \"The Picture of Dorian Gray\" was used as evidence by the prosecution. Here's what the search revealed:\n\n## Use of \"The Picture of Dorian Gray\" as Evidence in Oscar Wilde's 1895 Trials\n\nThe Picture of Dorian Gray was used as evidence against Wilde when he was tried and convicted in 1895 on charges related to homosexuality. The novel played a central role in the prosecution's case across multiple trials.\n\n### Specific Details of How the Novel Was Used:\n\n**Cross-examination and Court Proceedings:**\nAt Wilde's 1895 trials, the book was called a \"perverted novel\" and passages (from the magazine version) were read during cross-examination.(no content)During this time, the lines from A Picture of Dorian Grey and Two Loves, such as love that dare not speak its name,\" were cross examined extensively.\n\n**Prosecution Strategy:**\nThe defense also questioned Wilde about the premise of his controversial 1890 novel The Picture of Dorian Gray, suggesting that Wilde had used the novel's homoerotic themes to seduce Lord Alfred.(no content)His cross-examination focused on Wilde's written words as well as his actions. The literary part included references to Wilde's own letters and his aesthetic movement works The Picture of Dorian Gray and Phrases and Philosophies for Use of the Young.\n\n**Use of Textual Changes as Evidence:**\nMost importantly, the mere fact that Wilde changed his novel at all functioned as evidence against Wilde's cause in his 1895 libel trial against the Marquess of Queensberry. According to Queensberry's counsel, the fact that Wilde 'purged' material was tantamount to an admission that the novel was indecent.\n\n**Court Testimony About the Novel:**\nWilde remained somewhat flippant on the stand: when reminded that The Picture of Dorian Gray contained the sentiment that \"There is no such thing as an immoral work \u2026 books are well written or badly written,\" Wilde declared that Dorian Gray could only be considered a perverted book by \"brutes and illiterates.\"\n\n### Timeline and Context:\n\nThe trials took place over several months in 1895:\n- The libel case against the Marquess of Queensberry opened on April 3, 1895, at the Central Criminal Court of England and Wales, commonly known as Old Bailey.\n- While Oscar Wilde secured a mistrial on his first trial, during the second trial, beginning on May 21st, Oscar Wilde was convicted of gross indecency. Despite many potential witnesses not betraying Wilde, the jury found Wilde guilty and the judge punished Wilde to the greatest degree he could; two years in prison with hard labor and no bail.\n\nThe prosecution successfully used the novel's content, themes, and even Wilde's revisions to it as evidence supporting their case that Wilde had engaged in homosexual activities, which were illegal under British law at the time."
+    ],
+    "durationSeconds": 22.217013930000366
+  }
+}

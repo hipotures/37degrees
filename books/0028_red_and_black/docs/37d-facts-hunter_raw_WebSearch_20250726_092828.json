@@ -1,0 +1,42 @@
+{
+  "session_id": "117fc0a1-8874-49c5-b0fc-4bb38d5ee638",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/117fc0a1-8874-49c5-b0fc-4bb38d5ee638.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Stendhal \"Czerwone i czarne\" polskie szko\u0142y lektury lista lektur matura"
+  },
+  "tool_response": {
+    "query": "Stendhal \"Czerwone i czarne\" polskie szko\u0142y lektury lista lektur matura",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01BeV3d9H2Ep3NftTXMCn1ay",
+        "content": [
+          {
+            "title": "Czerwone i czarne",
+            "url": "https://wolnelektury.pl/katalog/lektura/stendhal-czerwone-i-czarne/"
+          },
+          {
+            "title": "Marie Beyle (Stendhal), Czerwone i czarne",
+            "url": "https://wolnelektury.pl/katalog/lektura/stendhal-czerwone-i-czarne.html"
+          },
+          {
+            "title": "Czerwone i czarne \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Czerwone_i_czarne"
+          },
+          {
+            "title": "Czerwone i czarne (Stendhal, 1932)/ca\u0142o\u015b\u0107 - Wiki\u017ar\u00f3d\u0142a, wolna biblioteka",
+            "url": "https://pl.wikisource.org/wiki/Czerwone_i_czarne_(Stendhal,_1932)/ca\u0142o\u015b\u0107"
+          },
+          {
+            "title": "Czerwone i czarne ebook pdf,mobi,epub - Stendhal",
+            "url": "https://upolujebooka.pl/oferta,30022,czerwone_i_czarne.html"
+          }
+        ]
+      },
+      "Wyszukiwanie dotyczy powie\u015bci \"Czerwone i czarne\" autorstwa Stendhala, kt\u00f3ra zosta\u0142a wydana pierwszy raz w 1830 r. we Francji. \n\nCzerwone i czarne to najs\u0142ynniejsza powie\u015b\u0107 Stendhala, kt\u00f3ra przedstawia dzieje ubogiego ch\u0142opca \u2013 Juliana Sorela, kt\u00f3ry pr\u00f3buje si\u0119 odnale\u017a\u0107 w rzeczywisto\u015bci francuskiej Restauracji. G\u0142\u00f3wnym bohaterem jest Julian Sorel, zdolny m\u0142ody m\u0119\u017cczyzna, kt\u00f3ry marzy o karierze oficerskiej. Po pora\u017cce Napoleona taka \u015bcie\u017cka jest niedost\u0119pna dla os\u00f3b z niskich warstw spo\u0142ecznych, wi\u0119c Julian decyduje si\u0119 obra\u0107 drog\u0119 kap\u0142a\u0144stwa.\n\nJe\u015bli chodzi o polskie szko\u0142y i lektury, znalezione wyniki wskazuj\u0105 g\u0142\u00f3wnie na dost\u0119pno\u015b\u0107 ksi\u0105\u017cki w polskich bibliotekach cyfrowych, takich jak Wolne Lektury, gdzie jest dost\u0119pna w r\u00f3\u017cnych formatach. Powie\u015b\u0107 jest t\u0142umaczona na j\u0119zyk polski przez Tadeusza Boya-\u017bele\u0144skiego.\n\nZ wyszukiwania nie wynika jednak bezpo\u015brednio, czy \"Czerwone i czarne\" znajduje si\u0119 obecnie na oficjalnej li\u015bcie lektur maturalnych w polskich szko\u0142ach. Wyniki pokazuj\u0105 g\u0142\u00f3wnie informacje o dost\u0119pno\u015bci tekstu i charakterystyce literackiej utworu."
+    ],
+    "durationSeconds": 13.151652564004063
+  }
+}

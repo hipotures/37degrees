@@ -1,0 +1,62 @@
+{
+  "session_id": "e6537320-f282-4226-b0c0-d5beb3935bc2",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e6537320-f282-4226-b0c0-d5beb3935bc2.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Mark Twain polskie wydania \"Przygody Tomka Sawyera\" wydawnictwa PIW Nasza Ksi\u0119garnia"
+  },
+  "tool_response": {
+    "query": "Mark Twain polskie wydania \"Przygody Tomka Sawyera\" wydawnictwa PIW Nasza Ksi\u0119garnia",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01DL7KViZonxF5fJn5CnXWwC",
+        "content": [
+          {
+            "title": "Przygody Tomka Sawyera - Mark Twain",
+            "url": "https://wolnelektury.pl/katalog/lektura/przygody-tomka-sawyera/"
+          },
+          {
+            "title": "Przygody Tomka Sawyera | Mark Twain (Ksi\u0105\u017cka) - Ksi\u0119garnia chodnikliteracki.pl",
+            "url": "https://chodnikliteracki.pl/p/przygody-tomka-sawyera-mark-twain-86091"
+          },
+          {
+            "title": "Przygody Tomka Sawyera Lektura z opracowaniem / SBM | Mark Twain (Ksi\u0105\u017cka) - Ksi\u0119garnia chodnikliteracki.pl",
+            "url": "https://chodnikliteracki.pl/p/przygody-tomka-sawyera-lektura-z-opracowaniem-sbm-mark-twain-173829"
+          },
+          {
+            "title": "Przygody Tomka Sawyera - Mark Twain (eBook) - Ksi\u0119garnia Medyczna PZWL",
+            "url": "https://pzwl.pl/Przygody-Tomka-Sawyera,14667328,p.html"
+          },
+          {
+            "title": "Przygody Tomka Sawyera - Mark Twain | lektury szkolne z om\u00f3wieniem - Wydawnictwo Greg",
+            "url": "https://www.greg.pl/lektury/103,764_Przygody-Tomka-Sawyera.html"
+          },
+          {
+            "title": "Przygody Tomka Sawyera Mark Twain ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/przygody-tomka-sawyera-mark-twain"
+          },
+          {
+            "title": "Przygody Tomka Sawyera - Mark Twain (eBook) - Ksi\u0119garnia PWN",
+            "url": "https://ksiegarnia.pwn.pl/Przygody-Tomka-Sawyera,571245804,p.html"
+          },
+          {
+            "title": "Przygody Tomka Sawyera 1925 r - Mark Twain | ksi\u0105\u017cka w tezeusz.pl ksi\u0105\u017cki promocje, u\u017cywane ksi\u0105\u017cki, nowo\u015bci wydawnicze",
+            "url": "https://tezeusz.pl/przygody-tomka-sawyera-1925-r-twain-mark-3245359"
+          },
+          {
+            "title": "Przygody Tomka Sawyera | Mark Twain (Ksi\u0105\u017cka) - Ksi\u0119garnia paskarz.pl",
+            "url": "https://paskarz.pl/p/przygody-tomka-sawyera-mark-twain-22023"
+          },
+          {
+            "title": "Przygody Tomka Sawyera | Mark Twain (Ksi\u0105\u017cka) - Ksi\u0119garnia matras.pl",
+            "url": "https://www.matras.pl/p/przygody-tomka-sawyera-mark-twain-86091"
+          }
+        ]
+      },
+      "Based on my search results for Polish editions of \"The Adventures of Tom Sawyer\" by Mark Twain published by PIW and Nasza Ksi\u0119garnia, I can provide you with the following information:\n\nThe first Polish edition of \"The Adventures of Tom Sawyer\" was published in 1901, and the work has been continuously available in Polish translation since then.\n\nFrom the search results, I can identify several Polish publishers that have released editions of \"Przygody Tomka Sawyera\":\n\n**Wydawnictwo Greg** appears to be one of the most prominent publishers offering this title:\n- They published a version in the \"Kolorowa Klasyka\" (Colorful Classics) series, which is described as \"the most beautiful colored edition of this novel on the market\" with wonderful, colorful illustrations and large, easy-to-read font on noble paper, very durable and aesthetic\n- This edition contains the full text of the work without cuts or abridgements in content, but does not include study materials\n\n**Other publishers mentioned** in the search results include various bookstores and educational publishers, but I did not find specific information about **PIW (Pa\u0144stwowy Instytut Wydawniczy)** or **Nasza Ksi\u0119garnia** editions in these particular search results.\n\nThe novel was originally published in 1876 in English as \"The Adventures of Tom Sawyer\", and it remains a school reading assignment that new generations read with delight.\n\nWhile I found extensive information about various Polish editions of this classic work, I wasn't able to locate specific details about the PIW and Nasza Ksi\u0119garnia editions you asked about in these search results. You may want to check directly with those publishers' catalogs or contact them for more specific information about their editions of this title."
+    ],
+    "durationSeconds": 16.786584040999877
+  }
+}

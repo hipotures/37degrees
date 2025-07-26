@@ -1,0 +1,61 @@
+{
+  "session_id": "2dcb2a8f-b11d-466d-8a59-c7f92df6d7a0",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/2dcb2a8f-b11d-466d-8a59-c7f92df6d7a0.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Diuna film 2021 2024 Polska m\u0142odzie\u017c kino popularno\u015b\u0107 Timoth\u00e9e Chalamet Zendaya"
+  },
+  "tool_response": {
+    "query": "Diuna film 2021 2024 Polska m\u0142odzie\u017c kino popularno\u015b\u0107 Timoth\u00e9e Chalamet Zendaya",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01GG6VryosgPQQCrtX3mZ845",
+        "content": [
+          {
+            "title": "Diuna: Cz\u0119\u015b\u0107 druga | Film | 2024",
+            "url": "https://www.filmweb.pl/film/Diuna:+Cz\u0119\u015b\u0107+druga-2024-10003481"
+          },
+          {
+            "title": "Diuna | Film | 2021",
+            "url": "https://www.filmweb.pl/film/Diuna-2021-469476"
+          },
+          {
+            "title": "Diuna (film 2021) \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Diuna_(film_2021)"
+          },
+          {
+            "title": "Wszystko, co wiemy o filmie \u201eDiuna: Cz\u0119\u015b\u0107 trzecia\u201d z Timoth\u00e9em Chalametem i Zenday\u0105",
+            "url": "https://www.vogue.pl/a/wszystko-co-wiemy-o-filmie-diuna-czesc-trzecia"
+          },
+          {
+            "title": "Zendaya i Timoth\u00e9e Chalamet na antenie TVN Fabu\u0142a. Nie przegapcie \"Diuny\"",
+            "url": "https://tvnfabula.pl/diuna-w-tvn-fabula-kiedy-emisja-o-czym-jest-film-st7844496"
+          },
+          {
+            "title": "Diuna (2021) - Film - Obsada, zwiastun, recenzje - Kino",
+            "url": "https://kino.dlastudenta.pl/film/diuna-dune-2021,47739.html"
+          },
+          {
+            "title": "Diuna Ca\u0142y Film \u2022 Vider",
+            "url": "https://vider.im/filmy/diuna/"
+          },
+          {
+            "title": "Recenzja filmu \u201eDiuna\u201d z Timoth\u00e9em Chalametem w roli g\u0142\u00f3wnej",
+            "url": "https://www.vogue.pl/a/recenzja-filmu-diuna-z-timothem-chalametem-w-roli-glownej"
+          },
+          {
+            "title": "Diuna (Dune: Part One, 2021) RECENZJA | Analiza epickiego science fiction | Pop Bookownik",
+            "url": "https://popbookownik.pl/diuna/"
+          },
+          {
+            "title": "Diuna - film online, ogl\u0105daj na Player.pl",
+            "url": "https://player.pl/filmy-online/diuna,245848"
+          }
+        ]
+      }
+    ],
+    "durationSeconds": 4.598837532000034
+  }
+}

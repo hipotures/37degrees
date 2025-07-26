@@ -1,0 +1,62 @@
+{
+  "session_id": "117fc0a1-8874-49c5-b0fc-4bb38d5ee638",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/117fc0a1-8874-49c5-b0fc-4bb38d5ee638.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "rap hip hop music 2024 2025 ambition success social climbing fake it till you make it youth Gen Z Polish music artists"
+  },
+  "tool_response": {
+    "query": "rap hip hop music 2024 2025 ambition success social climbing fake it till you make it youth Gen Z Polish music artists",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_017PdXaokkpx3GdMf915dHJA",
+        "content": [
+          {
+            "title": "2025 in hip-hop - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/2025_in_hip-hop"
+          },
+          {
+            "title": "Rap Songs 2025 | New Hip Hop \ud83d\udd25\ud83d\udcaf - playlist by Topsify",
+            "url": "https://open.spotify.com/playlist/7kdOsNnHtzwncTBnI3J17w"
+          },
+          {
+            "title": "48 Rap & Hip-Hop Statistics 2025: Listeners, Demographics, Industry",
+            "url": "https://headphonesaddict.com/rap-and-hip-hop-statistics/"
+          },
+          {
+            "title": "The 20 Best Hip Hop Songs of 2024",
+            "url": "https://www.rollingstone.com/music/music-lists/20-best-hip-hop-songs-2024-1235198186/"
+          },
+          {
+            "title": "Best Hip Hop and Rap Highlights of 2025: Winners and Newcomers",
+            "url": "https://artistpush.me/blogs/news/best-hip-hop-highlights"
+          },
+          {
+            "title": "AllHipHop's Top Hip-Hop/Rap Albums Of 2025 - AllHipHop",
+            "url": "https://allhiphop.com/features/give-us-your-favorite-rap-album-of-2024-and-read-our-top-choices-too/"
+          },
+          {
+            "title": "Is Hip-Hop Really Declining? Or are Genre Lines Blurring?",
+            "url": "https://hmc.chartmetric.com/rap-music-decline-popular-again-2024/"
+          },
+          {
+            "title": "Rap Songs 2025 | New Hip Hop \ud83d\udd25\ud83d\udcaf on Apple Music",
+            "url": "https://music.apple.com/us/playlist/rap-songs-2025-new-hip-hop/pl.73b988ca86f341a6be126e49504db950"
+          },
+          {
+            "title": "46+ Hip Hop Statistics 2025: Facts, Stats and Trends - HarlemBling",
+            "url": "https://harlembling.com/blog/hip-hop-statistics/"
+          },
+          {
+            "title": "The 25 Best Rap Albums Of 2025 So Far",
+            "url": "https://www.hotnewhiphop.com/923267-the-25-best-rap-albums-of-2025-so-far"
+          }
+        ]
+      },
+      "Based on the search results, here's what I found about rap/hip-hop music in 2024-2025, including themes of ambition, success, and social climbing that resonate with youth and Gen Z:\n\n## Current Hip-Hop Landscape (2024-2025)\n\nHip-hop has shown a significant resurgence in 2024, bringing the genre's current average market share to 34% on major streaming platforms. The global growth of rap and hip hop overall showed that this genre is dominating the music industry, with rap artists hitting #1 in the Billboard Hot 100 and Hot 200 charts.\n\n## Key Artists and Themes\n\n**Kendrick Lamar** continues to dominate the scene. On November 22, 2024, Kendrick released his latest album called \"GNX,\" which has been possessing top charts, and the fact that the artist will show up at the 2025 Super Bowl in February means the album will be on top for a long time.\n\n**Youth Movement and Gen Z Appeal:**\nRising stars like Nettspend represent the young generation and talks about problems of the youth, with his fanbase considered one of the most powerful in the genre. Artists like OsamaSon have proven themselves to be leaders of the youth movement in rap, and while some may find this style of music unlistenable, it clearly resonates with the younger generation.\n\n## Ambition and Success Themes\n\nThe search results show several artists embodying \"fake it till you make it\" and social climbing narratives:\n\n- Cash Cobain's \"Dunk Contest\" feels like the catalyst of his momentous 2024, riding a warm loop as the Queens-Bronx rapper croons through aspirational content\n- Central Cee's journey embodies \"the slow grind to the top,\" buzzing through the streets of London with high-profile collaborations that cemented the foundation for his debut album\n\n## Global Demographics and Youth Appeal\n\nHip-hop is especially popular among 16-24-year-olds, with globally approximately 26% of music listeners tuning into rap and hip-hop, and in China, 37.1% of listeners aged 15 to 25 are fans of hip-hop.\n\nHowever, the search results did not return specific information about Polish hip-hop artists or music that explicitly focuses on the \"fake it till you make it\" social climbing themes you mentioned. The results primarily covered mainstream American and UK hip-hop scenes, with some mention of global trends but limited coverage of Polish artists specifically."
+    ],
+    "durationSeconds": 20.064683563999832
+  }
+}

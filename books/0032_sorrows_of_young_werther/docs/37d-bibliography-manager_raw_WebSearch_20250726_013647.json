@@ -1,0 +1,63 @@
+{
+  "session_id": "0262f963-d6f8-4237-8daf-cd971b19d54f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0262f963-d6f8-4237-8daf-cd971b19d54f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Gen Z social media\" Instagram 89% TikTok 82% statistics 2025"
+  },
+  "tool_response": {
+    "query": "\"Gen Z social media\" Instagram 89% TikTok 82% statistics 2025",
+    "results": [
+      "I'll search for the latest Gen Z social media statistics for 2025, specifically looking for Instagram and TikTok usage data.",
+      {
+        "tool_use_id": "srvtoolu_015ibj6GaZez4KpNyMJdjjrF",
+        "content": [
+          {
+            "title": "Gen Z\u2019s Social Media Usage in 2025 | Later",
+            "url": "https://later.com/blog/gen-z-social-media-usage/"
+          },
+          {
+            "title": "How Gen Z uses social media and what that means for brands",
+            "url": "https://sproutsocial.com/insights/gen-z-social-media/"
+          },
+          {
+            "title": "65+ Gen Z Social Media Usage Statistics [2025] That Can\u2019t Ignore",
+            "url": "https://cropink.com/gen-z-social-media-usage-statistics"
+          },
+          {
+            "title": "Social media and Generation Z in the United States - statistics & facts | Statista",
+            "url": "https://www.statista.com/topics/10943/social-media-and-generation-z-in-the-united-states/"
+          },
+          {
+            "title": "28 TikTok statistics marketers need to know in 2025 | Sprout Social",
+            "url": "https://sproutsocial.com/insights/tiktok-stats/"
+          },
+          {
+            "title": "Social Media Demographics to Inform Your 2025 Strategy | Sprout Social",
+            "url": "https://sproutsocial.com/insights/new-social-media-demographics/"
+          },
+          {
+            "title": "Gen Z Media Consumption 2025: Social Media & What\u2019s Next | Attest",
+            "url": "https://www.askattest.com/blog/research/gen-z-media-consumption"
+          },
+          {
+            "title": "Social Media Statistics In 2025",
+            "url": "https://www.gwi.com/blog/social-media-statistics"
+          },
+          {
+            "title": "U.S. Gen Z users of selected social platforms 2025 | Statista",
+            "url": "https://www.statista.com/statistics/1276021/instagram-snapchat-tiktok-gen-z-users/"
+          },
+          {
+            "title": "How Different Age Groups Are Using Social Media 2025 | Target Internet",
+            "url": "https://targetinternet.com/resources/how-different-age-groups-are-using-social-media-2024/"
+          }
+        ]
+      },
+      "Based on the search results, I found comprehensive information about Gen Z social media usage statistics for 2025, including specific data about Instagram and TikTok usage rates.\n\n## Key Findings:\n\nAccording to The 2025 Sprout Social Index\u2122, 89% of Gen Z social media users are on Instagram, 84% are on YouTube and another 82% are on TikTok, making these platforms the most popular for Zoomers.\n\nThis directly confirms the statistics you mentioned - Instagram at 89% and TikTok at 82% for Gen Z users in 2025.\n\n## Additional Gen Z Social Media Statistics for 2025:\n\n### Platform Usage:\n- According to the 2025 Sprout Social Index\u2122, 58% of consumers have profiles on TikTok, and 82% of Gen Z are mostly likely to have TikTok profiles.\n- Instagram is now more popular among Gen Z than millennials, with 52.4 million Gen Z users in 2025.\n- Reddit is growing fast, with 18 million Gen Z users in 2024, expected to reach 40.1% adoption by 2028.\n\n### Usage Patterns:\n- Half of Gen Z spends at least 4 hours daily on social media, making them the most engaged generation online.\n- Consumer research group Attest reports that a whopping 81% of Gen Zers spend more than one hour a day on social media, with nearly 60% reporting social media usage of three hours a day or more.\n\n### Shopping and Discovery:\n- TikTok is the top platform for product discovery, with 77% of Gen Z using it to find new items.\n- Forty-eight percent of Gen Z consumers plan to make more purchases through social media in 2025 compared to 2024, according to the Q4 2024 Sprout Pulse Survey.\n- They're most likely to make purchases through TikTok Shop, followed by Instagram Shops and Facebook Shops.\n\n### Behavioral Trends:\n- Social media is replacing search engines, with 46% of Gen Z preferring platforms like TikTok and Instagram for finding information.\n- Gen Z's social media usage grew 7.7% in 2024, far outpacing the overall U.S. population's 1.8% growth.\n- 42.9% rely on social media for daily news, with TikTok leading for 21% of users.\n\n### Market Size:\n- Gen Z makes up 25% of the U.S. social media audience as of June 2024.\n\nThese statistics confirm that Instagram (89%) and TikTok (82%) are indeed the dominant platforms for Gen Z in 2025, with both platforms serving as primary channels for entertainment, social interaction, product discovery, and even news consumption."
+    ],
+    "durationSeconds": 29.13360202599969
+  }
+}

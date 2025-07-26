@@ -1,0 +1,62 @@
+{
+  "session_id": "7da3bbc0-2d10-4a7c-9f7d-e17950766dc1",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7da3bbc0-2d10-4a7c-9f7d-e17950766dc1.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Picture of Dorian Gray\" censorship 1890 1891 versions Lippincott's Magazine differences"
+  },
+  "tool_response": {
+    "query": "\"Picture of Dorian Gray\" censorship 1890 1891 versions Lippincott's Magazine differences",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_015Xx8qSh2pAqaWH5R3BUmGb",
+        "content": [
+          {
+            "title": "A Close Reading of the \u2018Censored\u2019 Passages of The Picture of Dorian Gray",
+            "url": "https://lithub.com/a-close-reading-of-the-originally-censored-passages-of-the-picture-of-dorian-gray/"
+          },
+          {
+            "title": "A Textual History of The Picture of Dorian Gray - Harvard University Press Blog",
+            "url": "https://harvardpress.typepad.com/hup_publicity/2011/02/textual-history-picture-of-dorian-gray-frankel.html"
+          },
+          {
+            "title": "The Picture of Dorian Gray - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Picture_of_Dorian_Gray"
+          },
+          {
+            "title": "The Triptych of Dorian Gray (1890\u201391): Reading Wilde\u2019s Novel as Three Print Objects",
+            "url": "https://journals.openedition.org/cve/2978?lang=en"
+          },
+          {
+            "title": "An Uncensored Look Into Oscar Wilde\u2019s \u2018The Picture of Dorian Gray\u2019",
+            "url": "https://thesciencesurvey.com/arts-entertainment/2023/03/14/an-uncensored-look-into-oscar-wildes-the-picture-of-dorian-gray/"
+          },
+          {
+            "title": "Lippincott's Monthly Magazine/Volume 46/July 1890/The Picture of Dorian Gray - Wikisource, the free online library",
+            "url": "https://en.wikisource.org/wiki/Lippincott's_Monthly_Magazine/Volume_46/July_1890/The_Picture_of_Dorian_Gray"
+          },
+          {
+            "title": "The Picture of Dorian Gray in Lippincott's Monthly Magazine July 1890 by Oscar Wilde - AbeBooks",
+            "url": "https://www.abebooks.com/book-search/title/the-picture-of-dorian-gray-in-lippincott's-monthly-magazine-july-1890/author/oscar-wilde/"
+          },
+          {
+            "title": "'The Picture of Dorian Gray': An Uncensored Version of a Scandalous Classic \u00bb PopMatters",
+            "url": "https://www.popmatters.com/138421-the-picture-of-dorian-gray-an-annotated-uncensored-edition-by-oscar-2496064128.html"
+          },
+          {
+            "title": "\"The Picture of Dorian Gray\" is first published in Lippincott's Monthly Magazine | COVE",
+            "url": "https://editions.covecollective.org/chronologies/picture-dorian-gray-first-published-lippincotts-monthly-magazine"
+          },
+          {
+            "title": "The Picture of Dorian Gray: the manuscript by Oscar Wilde",
+            "url": "https://www.spbooks.com/79-the-picture-of-dorian-gray-9791095457466.html"
+          }
+        ]
+      },
+      "Based on my search, I can provide you with comprehensive information about the censorship and differences between the 1890 and 1891 versions of Oscar Wilde's \"The Picture of Dorian Gray\" in Lippincott's Magazine.\n\n## Three Versions of the Novel\n\nThe Picture of Dorian Gray existed in three forms: the original typescript, commissioned by and submitted to J.M. Stoddart, the editor at Lippincott's, the edited 1890 version published in the magazine, and the re-edited and expanded 1891 version, published by Ward, Lock and Company.\n\n## Initial Censorship by Lippincott's Editor\n\nWhen Wilde's typescript arrived on editor J.M. Stoddart's desk, he quickly determined that it contained \"a number of things which an innocent woman would make an exception to,\" and assured his employer that The Picture of Dorian Gray would \"not go into the Magazine unless it is proper that it shall,\" guaranteeing he would edit the novel to \"make it acceptable to the most fastidious taste.\"(no content)The vast majority of Stoddart's deletions were acts of censorship, bearing on sexual matters of both a homosexual and a heterosexual nature. Much of the material that Stoddart cut makes the homoerotic nature of Basil Hallward's feelings for Dorian Gray more vivid and explicit than either of the two subsequent published versions.(no content)The first edition to restore \"objectionable\" material cut by Lippincott editor J.M. Stoddart includes roughly 500 words of text deleted prior to publication in Lippincott's in 1890.\n\n## Specific Content Changes\n\n### Homoerotic Content\nIn one scene from the original typescript, Basil Hallward confesses that he has worshipped Dorian Gray with a \"romance of feeling\" and has never loved a woman.(no content)In the magazine edition (1890), Basil tells Lord Henry how he \"worships\" Dorian, whereas in the book edition (1891), he focuses upon his art, saying to Lord Henry, \"the one person who gives my art whatever charm it may possess.\"\n\n### Other Censored Content\nLines which described Sybil Vane as Dorian's \"mistress\" were removed before publication in Lippincott's, and passages concerning his relationship with Hettie Merton were similarly censored. Some of the missing passages would have made clear that Dorian's relationships were not confined to women.\n\n## Public Reception and Further Changes\n\nThe Picture of Dorian Gray was published in 1890 in Lippincott's Monthly Magazine, and its assault on repressive Victorianism was immediately controversial, provoking hostile reactions from many members of the British press.(no content)Due to controversy, retailing chain WHSmith, then Britain's largest bookseller, withdrew every copy of the July 1890 issue of Lippincott's Monthly Magazine from its bookstalls in railway stations.(no content)For the fuller 1891 novel, Wilde retained Stoddart's edits and made some of his own, while expanding the text from thirteen to twenty chapters and added the book's famous preface.\n\n## Legal Implications\n\nAt Wilde's 1895 trials, the book was called a \"perverted novel\" and passages from the magazine version were read during cross-examination, with portions of the 1890 version cited as evidence against Wilde in his trial for indecency.\n\nThe censorship history of \"The Picture of Dorian Gray\" reflects the sexual paranoia and moral strictures of Victorian society, with each version representing different levels of self-censorship and editorial intervention in response to public and legal pressures."
+    ],
+    "durationSeconds": 28.920311746999623
+  }
+}

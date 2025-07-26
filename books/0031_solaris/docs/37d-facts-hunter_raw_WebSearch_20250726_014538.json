@@ -1,0 +1,62 @@
+{
+  "session_id": "25c2a401-88de-4e28-8dba-e70b720fd603",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/25c2a401-88de-4e28-8dba-e70b720fd603.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Stanis\u0142aw Lem Solaris 1961 original Polish edition primary sources bibliography"
+  },
+  "tool_response": {
+    "query": "Stanis\u0142aw Lem Solaris 1961 original Polish edition primary sources bibliography",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01BiUwjHEZqyLyDaxqZKGkL5",
+        "content": [
+          {
+            "title": "Solaris (novel) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Solaris_(novel)"
+          },
+          {
+            "title": "Solaris by Stanis\u0142aw Lem | EBSCO Research Starters",
+            "url": "https://www.ebsco.com/research-starters/literature-and-writing/solaris-stanislaw-lem"
+          },
+          {
+            "title": "Lem, Stanislaw (1961 and 1971) 'Solaris', true first Polish edition and UK first edition - First and Fine",
+            "url": "https://www.firstandfine.com/product/lem-stanislaw-1961-and-1971-solaris-true-first-polish-edition-and-uk-first-edition/"
+          },
+          {
+            "title": "Solaris Polish MON 1961 | Stanislaw Lem Wiki | Fandom",
+            "url": "https://stanislaw-lem.fandom.com/wiki/Solaris_Polish_MON_1961"
+          },
+          {
+            "title": "SOLARIS \u2013 Stanis\u0142aw Lem (1961) | Weighing a pig doesn't fatten it.",
+            "url": "https://schicksalgemeinschaft.wordpress.com/2020/07/08/solaris-stanislaw-lem-1961/"
+          },
+          {
+            "title": "Stanis\u0142aw Lem - Solaris",
+            "url": "https://english.lem.pl/works/novels/solaris"
+          },
+          {
+            "title": "Amazon.com: Solaris (Polish Edition): 9788308049051: Lem, Stanislaw: Books",
+            "url": "https://www.amazon.com/Solaris-polish-Stanislaw-Lem/dp/8308049052"
+          },
+          {
+            "title": "List of works by Stanis\u0142aw Lem and their adaptations - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/List_of_works_by_Stanis%C5%82aw_Lem_and_their_adaptations"
+          },
+          {
+            "title": "Solaris by Stanis\u0142aw Lem | Goodreads",
+            "url": "https://www.goodreads.com/book/show/95558.Solaris"
+          },
+          {
+            "title": "Solaris : Stanislaw Lem : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/B-001-001-236"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about the 1961 original Polish edition of Stanis\u0142aw Lem's *Solaris* and primary source bibliography:\n\n## Original Polish Edition (1961)\n\nThe true first edition of *Solaris* was published in Polish by Wydawnictwo Ministerstwa Obrony Narodowej (MON - Ministry of National Defense Publishing House) in 1961. The original Polish edition was a softcover publication with a cover by K.M. Sopo\u0107ko, containing 197 pages with a print run of 10,000 copies.\n\nThe original Polish edition contained the following chapters: Przybysz, Solary\u015bci, Go\u015bcie, Sartorius, Harey, \"Ma\u0142y apokryf\", Narada, Potwory, P\u0142ynny tlen, Rozmowa, My\u015bliciele, Sny, Sukces, and Stary Mimoid.\n\n## Translation History and Primary Sources\n\nThe novel was first translated into French in 1964, and the first English-language translation only appeared in 1970 in the US. The English translation from 1970 by Joanna Kilmartin and Steve Cox was based on a French version rather than the original Polish, and Lem wasn't satisfied with the result.\n\nIn 2011, Audible.com released the first direct Polish-to-English translation as an audiobook, with the original Polish text translated into English by Bill Johnston, with the approval of Lem's estate. Johnston's translation was released as an audio book and a Kindle edition, and Lem's wife and son thought it \"captured the spirit of the original\".\n\n## Bibliography and Critical Sources\n\nThe search results provide several important bibliographical resources:\n\nPeter Swirski's *A Stanislaw Lem Reader* includes \"a complete bibliography of Lem's books in English and Polish, a list of Lem's essays and articles in English, and an extensive bibliography of critical sources on Lem in English\".\n\nDarko Suvin's afterword in the 1970 Walker edition provides \"a general introduction to Lem's work, including an annotated bibliography\".\n\nScience-Fiction Studies volume 13, no. 3 (November 1986) was an entire issue devoted to consideration of Lem's work, including editorial materials and several papers that examine *Solaris*.\n\n## Significance\n\n\"Solaris\" is the most famous of Lem's novels, has been reviewed many times in various countries and languages, and belongs to the core canon of science fiction - a novel about contact with aliens cannot be omitted in discussions of world science fiction."
+    ],
+    "durationSeconds": 26.990178088000043
+  }
+}

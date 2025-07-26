@@ -1,0 +1,62 @@
+{
+  "session_id": "7da3bbc0-2d10-4a7c-9f7d-e17950766dc1",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7da3bbc0-2d10-4a7c-9f7d-e17950766dc1.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "beauty filters snapchat instagram psychological impact teenagers body dysmorphia 2024"
+  },
+  "tool_response": {
+    "query": "beauty filters snapchat instagram psychological impact teenagers body dysmorphia 2024",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01PZDEyS54kLboNSxYR5BYZR",
+        "content": [
+          {
+            "title": "The association between use of social media and the development of body dysmorphic disorder and attitudes toward cosmetic surgeries: a national survey - PMC",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10957761/"
+          },
+          {
+            "title": "The Link Between Social Media and Body Image Issues Among Youth in the United States - Ballard Brief",
+            "url": "https://ballardbrief.byu.edu/issue-briefs/the-link-between-social-media-and-body-image-issues-among-youth-in-the-united-states"
+          },
+          {
+            "title": "Frontiers | The association between use of social media and the development of body dysmorphic disorder and attitudes toward cosmetic surgeries: a national survey",
+            "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1324092/full"
+          },
+          {
+            "title": "Selfies, Filters, and Snapchat Dysmorphia: How Photo-Editing Harms Body Image | Psychology Today",
+            "url": "https://www.psychologytoday.com/us/articles/202002/selfies-filters-and-snapchat-dysmorphia-how-photo-editing-harms-body-image"
+          },
+          {
+            "title": "The Link Between Social Media and Body Dysmorphia",
+            "url": "https://online.king.edu/news/social-media-and-body-image/"
+          },
+          {
+            "title": "The Hidden Danger of Online Beauty Filters | Psychology Today",
+            "url": "https://www.psychologytoday.com/us/blog/the-clarity/202303/can-beauty-filters-damage-your-self-esteem"
+          },
+          {
+            "title": "\u201cREAL ME VERSUS SOCIAL MEDIA ME:\u201d FILTERS, SNAPCHAT DYSMORPHIA, AND BEAUTY PERCEPTIONS AMONG YOUNG WOMEN",
+            "url": "https://scholarworks.lib.csusb.edu/etd/1101/"
+          },
+          {
+            "title": "Snapchat Dysmorphia and Teen Body Image",
+            "url": "https://www.newportacademy.com/resources/empowering-teens/snapchat-dysmorphia/"
+          },
+          {
+            "title": "Snapchat dysmorphia - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Snapchat_dysmorphia"
+          },
+          {
+            "title": "Social Media Beauty Filters Impact on Mental Health",
+            "url": "https://nbc24.com/news/spotlight-on-america/social-media-beauty-filters-impacting-the-mental-health-of-young-women-tiktok-meta-snapchat-instagram-university-of-london-study-bold-glamour-facetune-bodytune-airbrush"
+          }
+        ]
+      },
+      "Based on the search results, I found comprehensive research about the psychological impact of beauty filters on Snapchat and Instagram, particularly regarding teenagers and body dysmorphia. Here are the key findings from 2024 research:\n\n## Research Findings on Beauty Filters and Teen Psychology\n\n**\"Snapchat Dysmorphia\" Phenomenon:**\nCosmetic surgeons have coined the term \"Snapchat dysmorphia\" to describe the psychological phenomenon of patients bringing filtered selfies to their surgeons to demonstrate the surgical changes they want to achieve. The British cosmetic surgeon Tijion Esho coined the term \"Snapchat Dysmorphia\" to explain the increasing trend of patients seeking cosmetic surgeries to achieve the filtered versions of themselves.\n\n**Impact on Teenagers:**\nRecent 2024 research reveals alarming trends:\n\n- Forty percent of teens reported that content on social media caused them to worry about their image\n- A 2023 study published in Frontiers in Psychology revealed that image-based social media platforms were significantly associated with increased symptoms of body dysmorphia among participants ages 16 to 18\n- Snapchat filters instill unrealistic beauty standards in young girls, leading to low self-esteem and image problems\n\n**Filter Usage Statistics:**\nThe prevalence of filter usage is extensive:\n- Snapchat found that over 90 percent of young people in the United States, France, and the UK use filter products on their apps\n- More than 400-million people reportedly use Snapchat filters every day, and Meta has reported that more than 600-million people have used its filters on Facebook and Instagram\n- In a sample of 175 participants, with an average age of 20, 90 percent of young women reported using filters or editing their photos\n\n**Psychological Effects:**\nResearch demonstrates several concerning psychological impacts:\n\n- Frequent selfie viewing is associated with lower self-esteem and life satisfaction, which may lead to body dysmorphic disorder\n- Participants' regular exposure to social media led to body dissatisfaction, harsh self-criticism of their appearance, anxiety, and other concerning behaviors\n- An article published in the International Journal of Eating Disorders found that the more adolescent girls engaged in photo-editing, the more they worried about their body and dieting\n\n**Treatment and Recovery:**\nEncouraging findings show that reducing social media use can help:\nA study from the American Psychological Association revealed that spending less time on social media could reduce symptoms of body dysmorphia. In the study, teens and young adults reduced their social media use by 50% in four weeks. By the end of the study, they demonstrated improved confidence in their weight and overall appearance.\n\n**Platform Response:**\nAfter a public controversy around these distorted filters, in August 2020, a new policy banned filters that directly promoted cosmetic surgery, though concerns about the broader impact of beauty filters persist.\n\nThe research consistently shows that beauty filters on platforms like Snapchat and Instagram are contributing to body dysmorphia, particularly among teenagers, with the 2024 studies highlighting the urgency of addressing these mental health impacts."
+    ],
+    "durationSeconds": 24.05846249599755
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "session_id": "e6537320-f282-4226-b0c0-d5beb3935bc2",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e6537320-f282-4226-b0c0-d5beb3935bc2.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Przygody Tomka Sawyera pierwsze polskie t\u0142umaczenie historia wyda\u0144"
+  },
+  "tool_response": {
+    "query": "Przygody Tomka Sawyera pierwsze polskie t\u0142umaczenie historia wyda\u0144",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01Paj1Lb3ucQboHYpqT36odt",
+        "content": [
+          {
+            "title": "Klasyka M\u0142odego Czytelnika: Mark Twain, Przygody Tomka Sawyera.",
+            "url": "http://klasykadlamlodych.blogspot.com/2013/04/mark-twain-przygody-tomka-sawyera.html"
+          },
+          {
+            "title": "Przygody Tomka Sawyera \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Przygody_Tomka_Sawyera"
+          },
+          {
+            "title": "Przygody Tomka Sawyera -",
+            "url": "https://lekturygimnazjum.pl/przygody-tomka-sawyera/"
+          },
+          {
+            "title": "Przygody Tomka Sawyera - Wydawnictwo SBM",
+            "url": "https://www.wydawnictwosbm.pl/ksiazka/przygody-tomka-sawyera/"
+          },
+          {
+            "title": "Przygody Tomka Sawyera \u2014 Google Arts & Culture",
+            "url": "https://artsandculture.google.com/entity/m01b6vv?hl=pl"
+          },
+          {
+            "title": "\u201ePrzygody Tomka Sawyera\u201d - Polskie Radio PiK",
+            "url": "https://www.radiopik.pl/100,5436,przygody-tomka-sawyera"
+          },
+          {
+            "title": "Przygody Tomka Sawyera - Mark Twain | lektury szkolne z om\u00f3wieniem - Wydawnictwo Greg",
+            "url": "https://www.greg.pl/lektury/103,764_Przygody-Tomka-Sawyera.html"
+          },
+          {
+            "title": "Przygody Tomka Sawyera - Mark Twain - epub, mobi \u2013 Ibuk.pl",
+            "url": "https://www.ibuk.pl/fiszka/121010/przygody-tomka-sawyera.html"
+          },
+          {
+            "title": "Przygody Tomka Sawyera - klp.pl",
+            "url": "https://klp.pl/przygody-tomka-sawyera/"
+          },
+          {
+            "title": "Mark Twain - Przygody Tomka Sawyera",
+            "url": "https://3telnia.pl/mark-twain-przygody-tomka-sawyera/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with information about the first Polish translation and publication history of \"The Adventures of Tom Sawyer\" (Przygody Tomka Sawyera):\n\n## Pierwsze polskie t\u0142umaczenie i historia wyda\u0144\n\nPierwsze polskie wydanie \"Przyg\u00f3d Tomka Sawyera\" ukaza\u0142o si\u0119 w 1901 roku, zaledwie 25 lat po premierze orygina\u0142u w Stanach Zjednoczonych w 1876 roku.\n\n## T\u0142umaczenia i wydania\n\nW\u015br\u00f3d wsp\u00f3\u0142czesnych t\u0142umacze\u0144 wymieniane s\u0105:\n\n- T\u0142umaczenie Paw\u0142a Ber\u0119sewicza (wydawnictwo Skrzat, wydanie 2011)\n- T\u0142umaczenie Jana Bili\u0144skiego (wydawnictwo SBM)\n- T\u0142umaczenie Aleksandry Lemiszewskiej z francuskiego (2006)\n\n## Znaczenie i recepcja\n\nKsi\u0105\u017cka szybko zdoby\u0142a mi\u0119dzynarodowe uznanie, a pierwsze polskie t\u0142umaczenie pojawi\u0142o si\u0119 ju\u017c w 1901 roku. \"Przygody Tomka Sawyera\" rozs\u0142awi\u0142y nazwisko pisarza na ca\u0142ym \u015bwiecie i wesz\u0142y do kanonu literatury dzieci\u0119cej.\n\nPowie\u015b\u0107 pozostaje popularna w\u015br\u00f3d polskich czytelnik\u00f3w i jest regularnie wydawana przez r\u00f3\u017cne wydawnictwa w nowych opracowaniach graficznych i przek\u0142adach, co \u015bwiadczy o jej trwa\u0142ej pozycji w polskiej kulturze literackiej."
+    ],
+    "durationSeconds": 17.351799069999718
+  }
+}

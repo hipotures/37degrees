@@ -1,0 +1,63 @@
+{
+  "session_id": "bca0f9c4-aba0-4606-9d12-d305df5c1a73",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/bca0f9c4-aba0-4606-9d12-d305df5c1a73.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"To Kill a Mockingbird\" required reading statistics worldwide Polish schools curriculum education"
+  },
+  "tool_response": {
+    "query": "\"To Kill a Mockingbird\" required reading statistics worldwide Polish schools curriculum education",
+    "results": [
+      "I'll search for information about \"To Kill a Mockingbird\" as required reading in Polish schools and worldwide education statistics.",
+      {
+        "tool_use_id": "srvtoolu_01Nb5XDcPsLBxwNriRUzBWCF",
+        "content": [
+          {
+            "title": "Why I Kept Teaching To Kill a Mockingbird When Others Wouldn't",
+            "url": "https://www.edweek.org/teaching-learning/why-i-kept-teaching-to-kill-a-mockingbird-when-others-wouldnt/2023/11"
+          },
+          {
+            "title": "Opinion | Why do we still teach 'To Kill a Mockingbird' in schools?",
+            "url": "https://www.nbcnews.com/think/opinion/why-are-we-still-teaching-kill-mockingbird-schools-ncna812281"
+          },
+          {
+            "title": "Why I'm Tired of Teaching To Kill A Mockingbird \u2013 Language Arts Classroom",
+            "url": "https://languageartsclassroom.com/why-im-tired-of-teaching-to-kill-a-mockingbird/"
+          },
+          {
+            "title": "Students hated \u2018To Kill a Mockingbird.\u2019 Their teachers tried to dump it. - The Washington Post",
+            "url": "https://www.washingtonpost.com/education/2023/11/03/to-kill-a-mockingbird-book-ban-removal-washington/"
+          },
+          {
+            "title": "Seeking Justice: To Kill a Mockingbird (2020)",
+            "url": "https://www.fishtanklearning.org/curriculum/ela/8th-grade/to-kill-a-mockingbird/"
+          },
+          {
+            "title": "Q&A: Should teachers still assign 'To Kill a Mockingbird'?",
+            "url": "https://www.pittwire.pitt.edu/pittwire/features-articles/qa-should-teachers-still-assign-kill-mockingbird"
+          },
+          {
+            "title": "Schools Drop 'To Kill A Mockingbird' From Reading List After Race Complaint - Newsweek",
+            "url": "https://www.newsweek.com/schools-drop-kill-mockingbird-required-reading-list-1672563"
+          },
+          {
+            "title": "Cana Academy \u2014 Why Every High Schooler Should Read To Kill a Mockingbird",
+            "url": "https://www.canaacademy.org/blog/why-every-high-schooler-should-read-to-kill-a-mockingbird"
+          },
+          {
+            "title": "Banned Books 2022 - To Kill a Mockingbird - Marshall Libraries",
+            "url": "https://www.marshall.edu/library/bannedbooks/to-kill-a-mockingbird/"
+          },
+          {
+            "title": "Should We Still be Teaching To Kill a Mockingbird? \u2013 Off the Leash",
+            "url": "https://srhsoffleash.org/2559/opinion/should-we-still-be-teaching-to-kill-a-mockingbird/"
+          }
+        ]
+      },
+      "Based on my search results, I can provide you with information about \"To Kill a Mockingbird\" as required reading in schools worldwide and specifically regarding Polish schools:\n\n## Global Status of \"To Kill a Mockingbird\" in Education\n\n\"To Kill a Mockingbird\" is considered a classic of modern American literature and is among the books most frequently challenged and banned from middle and high school curricula.(no content)The novel, which won the Pulitzer Prize for fiction in 1961, is required reading in many schools across the country.\n\n## Recent Trends in U.S. Schools\n\nSeveral U.S. school districts have recently removed or made the book optional:\n\n- The Mukilteo School Board in Washington voted unanimously to remove the book from the required reading list for ninth-grade students.\n- The Burbank Unified School District in California removed the book from required reading lists but allowed it in classroom libraries.\n- The Duluth school district in Minnesota removed the novel from the curriculum \"to protect the dignity of our students.\"\n- San Rafael High School (SRHS) no longer teaches the book after 2019, with many teachers removing it from their curriculum.\n\n## Reasons for Removal or Challenges\n\nThe main concerns include:\n- The novel celebrates white saviorhood, marginalizes characters of color, and features the 'n-word' almost 50 times.\n- Profanity, racially charged epithets including the n-word, and a rape scene top the reasons critics want it out of classrooms.\n- In the 21st century, it may not be the best book to illuminate themes of race and injustice, especially when it reinforces stereotypes and misconceptions.\n\n## Polish Schools and International Context\n\nUnfortunately, the search results did not provide specific information about \"To Kill a Mockingbird\" in Polish schools' curriculum or detailed international statistics beyond the United States. The search focused primarily on debates within American education systems.\n\nThe available data shows that while the book remains widely taught in many U.S. schools, there's an ongoing debate about its appropriateness, with an increasing number of districts either removing it from required reading lists or making it optional. The book is taught in high schools across the United States, usually in 9th grade classrooms, and is often used as a platform to discuss racial injustice, though many themes are oversimplified.\n\nTo get specific information about Polish schools and more comprehensive worldwide statistics, additional searches focusing on international education curricula would be needed."
+    ],
+    "durationSeconds": 28.930770854000002
+  }
+}

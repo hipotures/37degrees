@@ -1,0 +1,155 @@
+{
+  "session_id": "3a49404c-4f85-49d3-82a6-52395d74d3af",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/3a49404c-4f85-49d3-82a6-52395d74d3af.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "The Trial Kafka film adaptations list David Hugh Jones Kyle MacLachlan Konstantin Lopushansky"
+  },
+  "tool_response": {
+    "query": "The Trial Kafka film adaptations list David Hugh Jones Kyle MacLachlan Konstantin Lopushansky",
+    "results": [
+      "I'll search for information about film adaptations of Kafka's \"The Trial\" with those specific names.",
+      {
+        "tool_use_id": "srvtoolu_012TLDyMTVwNjBJkHMwhCSr7",
+        "content": [
+          {
+            "title": "The Trial (1993 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Trial_(1993_film)"
+          },
+          {
+            "title": "Amazon.com: The Trial : Kyle MacLachlan, Anthony Hopkins, Jason Robards, Juliet Stevenson, Polly Walker, Alfred Molina, David Thewlis, Michael Kitchen, Tony Haygarth, Douglas Hodge, Jir\u00ed Schwarz, David Schneider, David Hugh Jones, Ann Wingate, Carolyn Montagu, Geoffrey Paget, Kobi Jaeger, Louis Marks, Franz Kafka, Harold Pinter: Movies & TV",
+            "url": "https://www.amazon.com/Trial-Kyle-MacLachlan/dp/B00000G0DU"
+          },
+          {
+            "title": "The Trial : David Jones : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/TheTrial1993"
+          },
+          {
+            "title": "The Trial (1993) \u2b50 6.0 | Drama, Thriller",
+            "url": "https://www.imdb.com/title/tt0108388/"
+          },
+          {
+            "title": "\u200eThe Trial (1993) directed by David Hugh Jones \u2022 Reviews, film + cast \u2022 Letterboxd",
+            "url": "https://letterboxd.com/film/the-trial-1993/"
+          },
+          {
+            "title": "The Trial movie review & film summary (1994) | Roger Ebert",
+            "url": "https://www.rogerebert.com/reviews/the-trial-1994"
+          },
+          {
+            "title": "The Trial | Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/m/1047936-trial"
+          },
+          {
+            "title": "Has Kafka's The Trial ever been adapted into a film? - Quora",
+            "url": "https://www.quora.com/Has-Kafkas-The-Trial-ever-been-adapted-into-a-film"
+          },
+          {
+            "title": "Movie Group: Franz Kafka Adaptations - FilmAffinity",
+            "url": "https://www.filmaffinity.com/us/movie-group.php?group-id=701&orderby=pos&chv=list"
+          },
+          {
+            "title": "The Trial (1962) - flickfeast",
+            "url": "https://www.flickfeast.co.uk/reviews/dvd-reviews/trial-1962/"
+          }
+        ]
+      },
+      "Based on the search results, I found information about film adaptations of Kafka's \"The Trial\" including the ones you mentioned. Let me search for more specific information about Konstantin Lopushansky's adaptation.",
+      {
+        "tool_use_id": "srvtoolu_01XSoZMzcYNexhHRksEPwuj4",
+        "content": [
+          {
+            "title": "The Trial (2014) \u2b50 5.3 | Drama",
+            "url": "https://www.imdb.com/title/tt5994472/"
+          },
+          {
+            "title": "Has Kafka's The Trial ever been adapted into a film? - Quora",
+            "url": "https://www.quora.com/Has-Kafkas-The-Trial-ever-been-adapted-into-a-film"
+          },
+          {
+            "title": "The Trial (1993) \u2b50 6.0 | Drama, Thriller",
+            "url": "https://www.imdb.com/title/tt0108388/"
+          },
+          {
+            "title": "The Trial (1962 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Trial_(1962_film)"
+          },
+          {
+            "title": "Kafka's Last Trial (2025) \u2b50 8.3 | Documentary",
+            "url": "https://www.imdb.com/title/tt33201770/"
+          },
+          {
+            "title": "Kafka On Film: The Trial - The Ultimate Picture Palace",
+            "url": "https://uppcinema.com/show/kafka-on-film-the-trial/"
+          },
+          {
+            "title": "Kafka (film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Kafka_(film)"
+          },
+          {
+            "title": "The Trial (1993 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Trial_(1993_film)"
+          },
+          {
+            "title": "The Trial (1962) | Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/m/the_trial_1962"
+          },
+          {
+            "title": "1962: Orson Welles adapts Kafka's The Trial - Festival de Cannes",
+            "url": "https://www.festival-cannes.com/en/2022/1962-orson-welles-adapts-kafka-s-the-trial/"
+          }
+        ]
+      },
+      "Based on my search results, I found that the 2014 film adaptation of \"The Trial\" was directed by Konstantin Seliverstov, not Konstantin Lopushansky as mentioned in your query. Let me search for more information about any Lopushansky adaptation of Kafka's work.",
+      {
+        "tool_use_id": "srvtoolu_012nV6iQypAUNckjTU9f5my3",
+        "content": [
+          {
+            "title": "Konstantin Lopushansky - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Konstantin_Lopushansky"
+          },
+          {
+            "title": "Films directed by Konstantin Lopushansky",
+            "url": "https://letterboxd.com/director/konstantin-lopushansky/"
+          },
+          {
+            "title": "Konstantin Lopushansky Director Archives - Russian Film Hub",
+            "url": "https://russianfilmhub.com/director/konstantin-lopushansky/"
+          },
+          {
+            "title": "The History of Cinema. Konstantin Lopushansky: biography, filmography, reviews, ratings",
+            "url": "https://www.scaruffi.com/director/lopushan.html"
+          },
+          {
+            "title": "Kafka (film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Kafka_(film)"
+          },
+          {
+            "title": "Director: Lopushanskiy, Konstantin",
+            "url": "https://www.imdb.com/list/ls548132663/"
+          },
+          {
+            "title": "Konstantin Lopushansky Film Director :: people :: Russia-InfoCentre",
+            "url": "http://russia-ic.com/people/general/l/197/"
+          },
+          {
+            "title": "Kafka (1991) \u2b50 6.8 | Drama, Mystery, Sci-Fi",
+            "url": "https://www.imdb.com/title/tt0102181/"
+          },
+          {
+            "title": "Konstantin Lopushansky - Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q1364690"
+          },
+          {
+            "title": "The 25 Most Visually Stunning Russian Films Since 1992",
+            "url": "https://www.tasteofcinema.com/2015/the-25-most-visually-stunning-russian-films-since-1992/3/"
+          }
+        ]
+      },
+      "Based on my extensive search results, I can provide you with information about film adaptations of Franz Kafka's \"The Trial\" that include the names you mentioned:\n\n## Film Adaptations of Kafka's \"The Trial\":\n\n### 1. **The Trial (1993)**\nDirected by David Hugh Jones (not David Jones as some sources incorrectly state)\n- Stars Kyle MacLachlan as Josef K.\n- Produced by Jan Balzer and Louis Marks, the film has cameo appearances by several prominent British actors including Anthony Hopkins, Juliet Stevenson, Alfred Molina, David Thewlis, and Michael Kitchen\n- Based on Harold Pinter's screenplay adaptation of Franz Kafka's 1925 novel The Trial\n- The film was shot in Prague and Kutn\u00e1 Hora\n\n### 2. **The Trial (1962)**\nDirected by Orson Welles, based on the 1925 posthumously published novel of the same name by Franz Kafka\n- Anthony Perkins stars as Josef K.\n- Welles stated immediately after completing the film: \"The Trial is the best film I have ever made\"\n\n### 3. **The Trial (2014)**\nDirected by Konstantin Seliverstov (not Konstantin Lopushansky as mentioned in your query)\n- This movie is an adaptation of Franz Kafka's 'The Trial'\n- Made by Russian filmmakers\n\n### Regarding Konstantin Lopushansky:\nKonstantin Sergeyevich Lopushansky is a Soviet and Russian film director, film theorist and author. He is best known for directing the apocalyptic and post-apocalyptic films Dead Man's Letters (1986), A Visitor to a Museum (1989), Russian Symphony (1994), and The Ugly Swans (2006). However, I could not find any evidence that he directed an adaptation of Kafka's \"The Trial.\"\n\nHe also assisted Andrei Tarkovsky in directing the legendary film Stalker, based on the novel Roadside Picnic by Boris Strugatsky, but there's no record of him adapting any Kafka works.\n\nThe confusion may arise from the fact that there was a 2014 Russian adaptation of \"The Trial\" directed by Konstantin Seliverstov, not Lopushansky."
+    ],
+    "durationSeconds": 36.26324359200056
+  }
+}

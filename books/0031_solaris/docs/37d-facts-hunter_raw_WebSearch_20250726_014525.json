@@ -1,0 +1,62 @@
+{
+  "session_id": "25c2a401-88de-4e28-8dba-e70b720fd603",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/25c2a401-88de-4e28-8dba-e70b720fd603.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Tarkovsky Solaris 1972 film cultural impact differences from Stanis\u0142aw Lem book"
+  },
+  "tool_response": {
+    "query": "Tarkovsky Solaris 1972 film cultural impact differences from Stanis\u0142aw Lem book",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01Y9Hosdrt15b9ojhycx4Amf",
+        "content": [
+          {
+            "title": "Stanis\u0142aw Lem hated Andrei Tarkovsky's adaptation of 'Solaris'",
+            "url": "https://faroutmagazine.co.uk/why-stanislaw-lem-hated-andrei-tarkovsky-solaris-adaptation/"
+          },
+          {
+            "title": "Lem Vs. Tarkovsky: The Fight Over 'Solaris' | Article",
+            "url": "https://culture.pl/en/article/lem-vs-tarkovsky-the-fight-over-solaris"
+          },
+          {
+            "title": "Theme in Stanislaw Lem\u2019s Solaris and Andrei Tarkovksy\u2019s Film Adaptation \u2013 Writing the World 2021",
+            "url": "https://openbooks.library.umass.edu/writing-the-world-2021/chapter/theme-in-stanislaw-lems-solaris-and-andrei-tarkovksys-film-adaptation/"
+          },
+          {
+            "title": "Solaris (1972 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Solaris_(1972_film)"
+          },
+          {
+            "title": "Solaris (novel) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Solaris_(novel)"
+          },
+          {
+            "title": "Seeing double with Stanislaw Lem\u2019s \u201cSolaris\u201d (1972/2002)\u2026",
+            "url": "https://musingsofamiddleagedgeek.blog/2021/02/19/seeing-double-with-stanislaw-lems-solaris-1972-2002/"
+          },
+          {
+            "title": "Solaris: A Comparison | Aesthetics Of The Mind",
+            "url": "https://aestheticsofthemind.wordpress.com/2011/07/25/solaris-a-comparison/"
+          },
+          {
+            "title": "Solaris (1972 film) | Stanislaw Lem Wiki | Fandom",
+            "url": "https://stanislaw-lem.fandom.com/wiki/Solaris_(1972_film)"
+          },
+          {
+            "title": "Stanis\u0142aw Lem: Exploring the Visionary Worlds of a Sci-Fi Maestro - Literature Legends",
+            "url": "https://literaturelegends.com/sci-fi/sci-fi-writers/stanislaw-lem/"
+          },
+          {
+            "title": "Mustseecinema",
+            "url": "https://mustseecinema.com/stanislaw-lems-critique-on-solaris-tarkovsky-and-soderbergh/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about the cultural impact differences between Stanis\u0142aw Lem's 1961 novel \"Solaris\" and Andrei Tarkovsky's 1972 film adaptation.\n\n## Major Thematic Differences\n\nLem's primary problem with Tarkovsky's version was that the filmmaker focused his investigation on the philosophical implications of the sentient ocean on the human rather than the ocean itself. The Polish novelist dismissed Tarkovsky's film as a sci-fi Crime and Punishment rather than a Solaris adaptation.(no content)Lem's novel is a critique on the limits of humanity, arguing that science is an imperfect tool for obtaining knowledge insofar that it is confined by human comprehension. Meanwhile, Tarkovsky's film reflects on the significance of humanity by elevating the importance of human emotions and values such as nostalgia, love, guilt, and morality.\n\n## Cultural Impact and Reception\n\nConsidered by many to be one of the greatest films in the history of cinema, Andrei Tarkovsky's 1972 film Solaris marked a significant change in the approach to the genre of science fiction.(no content)The film won the Grand Prix at the 1972 Cannes Film Festival.\n\nHowever, Lem later remarked that none of these films reflected the book's thematic emphasis on the limitations of human rationality.\n\n## Key Differences in Focus\n\n**Lem's Novel:**\n- The book is primarily about communication barriers; specifically, the communication barrier between humans and some alien sentient being. It's about experiencing an alien life form who's intelligence is beyond human recognition, that works on a level that is apprehensible but not comprehensible to human consciousness.\n\n**Tarkovsky's Film:**\n- Tarkovsky's Solaris is about a similar communication barrier, except the alien is one's self. It's not about experiencing the beyond, but experiencing the beyond within.\n- In the movie, Tarkovsky concentrates on Kelvin's feelings for his wife, Hari, and the impact of outer space exploration on the human condition.\n\n## Structural Changes\n\nKris Kelvin's brisk flight to the Solaris space station opens Lem's novel; it doesn't happen until about 40-odd minutes into Tarkovsky's 1972 film... One of the biggest changes from book to screen occurs at the very beginning, with a protracted 40-odd minute sequence taking place on Earth that isn't in the novel at all.\n\n## The Conflict Between Creator and Adapter\n\nInsisting that he did not write the book about \"people's erotic problems in space\", Lem recalled the meeting between the two creative geniuses: \"Tarkovsky and I had a healthy argument. I sat in Moscow for six weeks while we argued about how to make the movie, then I called him a 'durak' ['idiot' in Russian] and went home.\"(no content)Tarkovsky claimed that Lem did not fully appreciate cinema and expected the film to merely illustrate the novel without creating an original cinematic piece.\n\n## Cultural Legacy\n\nThe film has had significant influence beyond its initial release. Japanese filmmaker Akira Kurosawa cited Solaris as one of his favorite films.(no content)Its influence on Christopher Nolan's Inception (2010) was noted.\n\nDespite their differences, both the film and the book have become separate literary entities in their own rights. While Lem's novel focuses on the epistemological limitations of human understanding when encountering truly alien intelligence, Tarkovsky's adaptation transforms this into a deeply personal meditation on human consciousness, memory, and emotional experience."
+    ],
+    "durationSeconds": 28.539309781000018
+  }
+}

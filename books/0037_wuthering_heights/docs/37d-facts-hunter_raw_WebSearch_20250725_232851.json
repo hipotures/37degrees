@@ -1,0 +1,71 @@
+{
+  "session_id": "95239c3a-5fbf-4fbf-93f7-3afd6ea78885",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/95239c3a-5fbf-4fbf-93f7-3afd6ea78885.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Catherine Earnshaw symbolism \"torn between two worlds\" nature civilization Wuthering Heights Emily Bronte"
+  },
+  "tool_response": {
+    "query": "Catherine Earnshaw symbolism \"torn between two worlds\" nature civilization Wuthering Heights Emily Bronte",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01DeV9ikx27mncP8VkQgad32",
+        "content": [
+          {
+            "title": "What is Catherine Earnshaw known for in 'Wuthering Heights'? - Quora",
+            "url": "https://www.quora.com/What-is-Catherine-Earnshaw-known-for-in-Wuthering-Heights"
+          }
+        ]
+      },
+      {
+        "tool_use_id": "srvtoolu_01UEqjQPvDiC18szCRGzDhPg",
+        "content": [
+          {
+            "title": "Nature and Civilization Theme Analysis - Wuthering Heights",
+            "url": "https://www.litcharts.com/lit/wuthering-heights/themes/nature-and-civilization"
+          },
+          {
+            "title": "Wuthering Heights Analysis",
+            "url": "https://kaitlynessays.com/wuthering-heights-analysis/"
+          },
+          {
+            "title": "Wuthering Heights \u2014 Themes \u2014 CliffsNotes",
+            "url": "https://www.cliffsnotes.com/literature/wuthering-heights/themes"
+          },
+          {
+            "title": "Wuthering Heights Themes: Nature and Romanticism - eNotes.com",
+            "url": "https://www.enotes.com/topics/wuthering-heights/themes/nature-and-romanticism"
+          },
+          {
+            "title": "Catherine Earnshaw Character Analysis in Wuthering Heights | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/wuthering/character/catherine/"
+          },
+          {
+            "title": "Catherine Earnshaw in Wuthering Heights | Sevenov",
+            "url": "https://sevenov.com/catherine-earnshaw-in-wuthering-heights/"
+          },
+          {
+            "title": "Wuthering Heights Analysis: Symbols, Genre, & Wuthering Heights Themes",
+            "url": "https://custom-writing.org/blog/wuthering-heights-analysis"
+          },
+          {
+            "title": "Wuthering Heights: Nature vs nurture",
+            "url": "https://www.yorknotes.com/news/wuthering-heights-nature-vs-nurture-"
+          },
+          {
+            "title": "Symbols in Wuthering Heights by E. Bront\u00eb | Examples & Analysis - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/symbols-symbolism-in-wuthering-heights.html"
+          },
+          {
+            "title": "Wuthering Heights Style, Form, and Literary Elements - eNotes.com",
+            "url": "https://www.enotes.com/topics/wuthering-heights/in-depth/style-form-literary-elements"
+          }
+        ]
+      },
+      "Based on the search results, I can provide comprehensive information about Catherine Earnshaw's symbolism as a character \"torn between two worlds\" representing nature and civilization in Emily Bront\u00eb's *Wuthering Heights*.\n\n## Catherine Earnshaw's Symbolic Nature\n\nCatherine is depicted as \"a typical woman who is torn between two worlds\", which forms the central symbolic conflict of her character. This duality is manifested through her relationships with two different men and two contrasting environments.\n\n## The Two Worlds: Nature vs. Civilization\n\n### Wuthering Heights as Nature\nWuthering Heights symbolizes wildness and freedom, reflecting characters like Catherine Earnshaw and Heathcliff, while Wuthering Heights represents nature itself, revealing raw and wild primal instincts of the characters. Wuthering Heights symbolizes the wild and untamed aspects of nature, characterized by its passionate inhabitants and its rugged location on the moors. Catherine is drawn to this wildness, which resonates with her spirited personality.\n\n### Thrushcross Grange as Civilization\nIn stark contrast, Thrushcross Grange represents decorum and order, akin to the Linton family. Thrushcross Grange, home to the Lintons, symbolizes refinement, civilization, and the upper middle class. Catherine becomes lady-like when she spends time there, as Thrushcross Grange represents a civilized and tamed attitude.\n\n## Catherine's Internal Conflict\n\nCatherine's famous declaration reveals the depth of her internal struggle between these two worlds. She expresses how \"My love for Linton is like the foliage in the woods; time will change it, I'm well aware, as winter changes the trees. My love for Heathcliff resembles the eternal rocks beneath\u2014a source of little visible delight, but necessary\".\n\nCatherine Earnshaw's longing for both Heathcliff and social advancement results in her being trapped between two worlds, never fully achieving either. Her marriage to Edgar Linton is \"largely motivated by social class considerations\", yet she cannot escape her deeper connection to Heathcliff and the natural world he represents.\n\n## Symbolic Representation\n\nCatherine represents wild nature, in both her high, lively spirits and her occasional cruelty, which contrasts with Isabella Linton, who \"represents culture and civilization, both in her refinement and in her weakness\".\n\nCatherine Earnshaw stands as a symbol of these dualities, representing both the free spirit constrained by the norms of her time and the all-consuming love that defies conventional boundaries. Her character \"is marked by her turbulent emotions and the dichotomy between her wild, passionate nature and the societal expectations imposed on her\".\n\n## Physical Symbolism of Her Burial\n\nEven in death, Catherine's torn nature is symbolized through her burial location. The location of Catherine's coffin symbolizes the conflict that tears apart her short life. She is buried \"in a corner of the kirkyard, where the wall is so low that heath and bilberry plants have climbed over it from the moor.\" Moreover, she is buried with Edgar on one side and Heathcliff on the other, suggesting her conflicted loyalties.\n\nThis symbolic positioning perfectly encapsulates Catherine's role as a character forever caught between the civilized world of social conventions (represented by Edgar and Thrushcross Grange) and the wild, natural world of passionate, untamed emotion (represented by Heathcliff and Wuthering Heights)."
+    ],
+    "durationSeconds": 31.771611506999996
+  }
+}

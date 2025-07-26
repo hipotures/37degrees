@@ -1,0 +1,63 @@
+{
+  "session_id": "bca0f9c4-aba0-4606-9d12-d305df5c1a73",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/bca0f9c4-aba0-4606-9d12-d305df5c1a73.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"To Kill a Mockingbird\" sales statistics copies sold worldwide impact numbers translated languages"
+  },
+  "tool_response": {
+    "query": "\"To Kill a Mockingbird\" sales statistics copies sold worldwide impact numbers translated languages",
+    "results": [
+      "I'll search for information about \"To Kill a Mockingbird\" sales statistics and its global impact.",
+      {
+        "tool_use_id": "srvtoolu_01KAEvmPUUqyxrKWba7yKdir",
+        "content": [
+          {
+            "title": "To Kill a Mockingbird - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird"
+          },
+          {
+            "title": "To Kill a Mockingbird | Summary, Characters, Book, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/To-Kill-a-Mockingbird"
+          },
+          {
+            "title": "Harper Lee Statistics \u2013 WordsRated",
+            "url": "https://wordsrated.com/harper-lee-statistics/"
+          },
+          {
+            "title": "'Go Set a Watchman' Release: Harper Lee and 'To Kill a Mockingbird' By the Numbers",
+            "url": "https://www.nbcnews.com/pop-culture/books/harper-lee-kill-mockingbird-numbers-n391021"
+          },
+          {
+            "title": "How many copies of \"To Kill a Mockingbird\" were sold? - eNotes.com",
+            "url": "https://www.enotes.com/homework-help/how-many-copies-kill-mockingbird-were-sold-1782"
+          },
+          {
+            "title": "To Kill a Mockingbird (Pulitzer Prize Winner) by Harper Lee, Paperback | Barnes & Noble\u00ae",
+            "url": "https://www.barnesandnoble.com/w/to-kill-a-mockingbird-harper-lee/1100151011"
+          },
+          {
+            "title": "To Kill A Mockingbird",
+            "url": "https://encyclopediaofalabama.org/article/to-kill-a-mockingbird/"
+          },
+          {
+            "title": "By the numbers: 'To Kill a Mockingbird'",
+            "url": "https://www.aol.com/article/2016/02/19/by-the-numbers-to-kill-a-mockingbird/21315602/"
+          },
+          {
+            "title": "To Kill a Mockingbird - Lee, Harper: 9780060935467 - AbeBooks",
+            "url": "https://www.abebooks.com/9780060935467/Kill-Mockingbird-Lee-Harper-0060935464/plp"
+          },
+          {
+            "title": "10 things you didn\u2019t know about Harper Lee\u2019s To Kill A Mockingbird | Official London Theatre",
+            "url": "https://officiallondontheatre.com/news/10-things-you-didnt-know-about-harper-lees-to-kill-a-mockingbird/"
+          }
+        ]
+      },
+      "Based on the search results, here are the key statistics about \"To Kill a Mockingbird\":\n\n## Sales Statistics\n\nThe novel has sold more than 30 million copies, though some sources report higher figures. Since its publication in 1960, the novel has sold more than 40 million copies worldwide. Additional sources confirm that To Kill a Mockingbird has sold more than forty million copies worldwide. By the 50th anniversary of its publication in 2010 had sold some 40 million copies. It continues to sell around a million copies a year.\n\n## Translation Impact\n\nThe novel has been translated into more than 40 languages. This is confirmed by multiple sources: the novel has been translated into some 40 languages and To Kill a Mockingbird has been translated into more than forty languages. It has been translated into more than 40 languages and has never been out of print since 1960.\n\n## Publishing Timeline\n\n- One year after its publication To Kill a Mockingbird had been translated into ten languages\n- Harper Lee's publishers told her that she should only expect to sell a few thousand copies when the book first went to print\n\n## Global Educational Impact\n\nThe novel has never been out of print in hardcover or paperback, and has become part of the standard literature curriculum. A 2008 survey of secondary books read by students between grades 9\u201312 in the U.S. indicates the novel is the most widely read book in these grades. According to the Library of Congress, the novel is the country's most popular selection for citywide reading programs, in which residents of a community read a common novel over the course of a year. Perhaps even more astounding, the novel is required reading in many schools in Ireland, Great Britain, Australia, and Canada, as well as in many non-English-speaking countries.\n\n## Cultural Impact Rankings\n\nA 1991 survey by the Book of the Month Club and the Library of Congress Center for the Book found that To Kill a Mockingbird was fourth in a list of books that are \"most often cited as making a difference\". In 1991, the Library of Congress asked 5,000 patrons to name the book that had made the biggest difference in their lives. To Kill a Mockingbird came in second, after the Bible. In 1999, it was voted the \"Best Novel of the 20th century\" by readers of the Library Journal.\n\nThe novel's impact extends far beyond sales numbers, having become a cultural touchstone with sustained influence in education, literature, and social discourse across multiple continents and languages."
+    ],
+    "durationSeconds": 29.544873631999828
+  }
+}

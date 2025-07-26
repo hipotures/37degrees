@@ -1,0 +1,62 @@
+{
+  "session_id": "38d2c10d-061a-4607-b249-863b58008013",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/38d2c10d-061a-4607-b249-863b58008013.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Robert Louis Stevenson Treasure Island literary inspirations Robinson Crusoe Daniel Defoe Washington Irving influences"
+  },
+  "tool_response": {
+    "query": "Robert Louis Stevenson Treasure Island literary inspirations Robinson Crusoe Daniel Defoe Washington Irving influences",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_016Avg1HBLa4WSiJsLSQ5xVo",
+        "content": [
+          {
+            "title": "Treasure Island - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Treasure_Island"
+          },
+          {
+            "title": "Treasure Island Historical Context | Book Analysis",
+            "url": "https://bookanalysis.com/robert-louis-stevenson/treasure-island/historical-context/"
+          },
+          {
+            "title": "Treasure Island: Robert Louis Stevenson and Treasure Island Background | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/treasure/context/"
+          },
+          {
+            "title": "Treasure Island by Robert Louis Stevenson - Book Analysis",
+            "url": "https://bookanalysis.com/robert-louis-stevenson/treasure-island/"
+          },
+          {
+            "title": "Treasure Island by Robert Louis Stevenson | Summary & Characters - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/treasure-island-summary-characters-author.html"
+          },
+          {
+            "title": "Shipwrecked: The Classic Island Adventures of Robinson Crusoe, Treasure Island and The Swiss Family Robinson (Illustrated with Original Commentary by Daniel Defoe, Robert Louis Stevenson, Johann David Wyss | eBook | Barnes & Noble\u00ae",
+            "url": "https://www.barnesandnoble.com/w/shipwrecked-daniel-defoe/1103758687"
+          },
+          {
+            "title": "Treasure Island, 1883 | Robert Louis Stevenson",
+            "url": "https://robert-louis-stevenson.org/works/treasure-island-1883/"
+          },
+          {
+            "title": "Treasure Island by Robert Louis Stevenson | Goodreads",
+            "url": "https://www.goodreads.com/book/show/295.Treasure_Island"
+          },
+          {
+            "title": "Robinson Crusoe - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Robinson_Crusoe"
+          },
+          {
+            "title": "A Trilogy of Island Adventures: Robinson Crusoe, The Swiss Family Robinson, and Treasure Island (Unexpurgated Edition) by Daniel Defoe | Goodreads",
+            "url": "https://www.goodreads.com/book/show/8144109-a-trilogy-of-island-adventures"
+          }
+        ]
+      },
+      "Based on the search results, I found comprehensive information about Robert Louis Stevenson's literary inspirations for \"Treasure Island,\" particularly his influences from Robinson Crusoe by Daniel Defoe and Washington Irving's works. Here's what the search revealed:\n\n## Literary Inspirations for Treasure Island\n\n**Washington Irving's Influence:**\nStevenson constructed Billy Bones's history from the \"Money-Diggers\" section (\"Golden Dreams\" in particular) of Tales of a Traveller by Washington Irving, one of his favourite writers. In a letter to Sidney Colvin from July 1884, Stevenson acknowledged that he deliberately borrowed Billy Bones' history from Tales of a Traveller by Washington Irving.\n\n**Daniel Defoe's Robinson Crusoe:**\nPart of his inspiration was also in Daniel Defoe's Robinson Crusoe, a story about a man left on an abandoned island. Robinson Crusoe also inspired Treasure Island, and in Treasure Island, author Robert Louis Stevenson parodies Crusoe with the character of Ben Gunn, a friendly castaway who was marooned for many years.\n\n**Other Literary Influences:**\nStevenson received inspiration from the contemporary literary works of Daniel Defoe, Edgar Allen Poe, and Washington Irving. Stevenson admits that he took the idea of Captain Flint's pointing skeleton from Poe's The Gold-Bug, and some of the notable works of similar style could be Daniel Defoe's 'Robinson Crusoe', and the mid-19th-century works include James Fenimore Cooper's 'The Pilot' (1823) and Edgar Allan Poe's 'MS Found in a Bottle' (1833), and 'The Gold-Bug' (1843).\n\n**Stevenson's Acknowledgment:**\nAs mentioned in a letter (July 1884) to Sidney Colvin from Stevenson, he has deliberately borrowed material from previous authors. \"The Dead Man's Chest\" from Kingsley, Captain Flint's pointing skeleton from Poe's The Gold-Bug, and Billy Bones' history from Tales of a Traveller by Washington Irving.\n\nThe search results confirm that Stevenson was quite open about drawing inspiration from these classic adventure and maritime literature works, particularly Robinson Crusoe's castaway themes and Washington Irving's pirate tales."
+    ],
+    "durationSeconds": 19.504082702999934
+  }
+}

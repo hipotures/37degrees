@@ -1,0 +1,62 @@
+{
+  "session_id": "8e510ca3-dab1-4e58-b10a-336d368b79a7",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e510ca3-dab1-4e58-b10a-336d368b79a7.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Pan Tadeusz\" wsp\u00f3\u0142czesne odczytania polscy krytycy XXI wiek m\u0142odzie\u017c opinie"
+  },
+  "tool_response": {
+    "query": "\"Pan Tadeusz\" wsp\u00f3\u0142czesne odczytania polscy krytycy XXI wiek m\u0142odzie\u017c opinie",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01Eq132AR6FXMpXu6Z1JE9RH",
+        "content": [
+          {
+            "title": "Pan Tadeusz w XXI wieku - Joanna Paw\u0142owska | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/4892970/pan-tadeusz-w-xxi-wieku"
+          },
+          {
+            "title": "\"Pan Tadeusz\u201d XXI wieku. Zaskakuj\u0105cy remake dzie\u0142a Mickiewicza - WP Ksi\u0105\u017cki",
+            "url": "https://ksiazki.wp.pl/pan-tadeusz-xxi-wieku-zaskakujacy-remake-dziela-mickiewicza-6291113734309505a"
+          },
+          {
+            "title": "Recenzja dla Wydawnictwa Novae Res \"Pan Tadeusz w XXI wieku\" Joanny Paw\u0142owskiej",
+            "url": "https://www.emeste.eu/2019/08/recenzja-ksiazki-pan-tadeusz-xxi-wieku.html"
+          },
+          {
+            "title": "Mylne \u015bcie\u017cki u\u0142atwie\u0144. O edycji \u201ePan Tadeusz w XXI wieku\" Joanny Paw\u0142owskiej | Sztuka Edycji. Studia Tekstologiczne i Edytorskie",
+            "url": "https://apcz.umk.pl/sztukaedycji/article/view/SE.2021.0010"
+          },
+          {
+            "title": "Pan Tadeusz w XXI wieku Joanna Paw\u0142owska ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/pan-tadeusz-w-xxi-wieku-joanna-pawlowska-p-1262446.html"
+          },
+          {
+            "title": "Ksi\u0105\u017cka Pan tadeusz w xxi wieku - Ceny i opinie",
+            "url": "https://www.ceneo.pl/82743335"
+          },
+          {
+            "title": "Zaczytani.pl: Pan Tadeusz w XXI wieku \u2014 Joanna Paw\u0142owska",
+            "url": "https://zaczytani.pl/ksiazka/pan_tadeusz_w_xxi_wieku,druk"
+          },
+          {
+            "title": "Pan Tadeusz w XXI wieku - Joanna Paw\u0142owska - ebook + ksi\u0105\u017cka - Legimi online",
+            "url": "https://www.legimi.pl/ebook-pan-tadeusz-w-xxi-wieku-joanna-pawlowska,b1358202.html"
+          },
+          {
+            "title": "Pan Tadeusz w XXI wieku (Joanna Paw\u0142owska) - ksi\u0105\u017cka - ksi\u0119garnia tantis.pl",
+            "url": "https://tantis.pl/pan-tadeusz-w-xxi-wieku-p902174"
+          },
+          {
+            "title": "Pan Tadeusz - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pan_Tadeusz"
+          }
+        ]
+      },
+      "Wyszukiwanie przynios\u0142o bardzo interesuj\u0105ce informacje na temat wsp\u00f3\u0142czesnych odczyta\u0144 \"Pana Tadeusza\" przez polskich krytyk\u00f3w i m\u0142odzie\u017c w XXI wieku. Oto g\u0142\u00f3wne punkty z znalezionych \u017ar\u00f3de\u0142:\n\n## Projekt Joanny Paw\u0142owskiej - \"Pan Tadeusz w XXI wieku\"\n\nWsp\u00f3\u0142czesna m\u0142odzie\u017c coraz cz\u0119\u015bciej odnosi si\u0119 do \"Pana Tadeusza\" niech\u0119tnie, z wyrazem znudzenia na twarzy, a z powodu przemian cywilizacyjnych po prostu nie rozumie tre\u015bci epopei. Joanna Paw\u0142owska, polonistka i nauczycielka j\u0119zyka polskiego od wielu lat, obserwuje pog\u0142\u0119biaj\u0105ce si\u0119 trudno\u015bci, z jakimi musz\u0105 mierzy\u0107 si\u0119 m\u0142odzi ludzie, czytaj\u0105c klasyk\u0119.\n\n## Problemy z odbiorem dzie\u0142a przez m\u0142odzie\u017c\n\nZrozumienie tre\u015bci \"Pana Tadeusza\" jest problemem nie tylko w\u015br\u00f3d m\u0142odych ludzi, ale dla wsp\u00f3\u0142czesnego cz\u0142owieka w og\u00f3le. Dla m\u0142odzie\u017cy \"kot zawsze b\u0119dzie kotem, a nie zaj\u0105cem\", \"kochanka\" to dzi\u015b ukochana, a s\u0142owa jak \"lecie\u0107\" czy \"siedzie\u0107\" maj\u0105 po kilka znacze\u0144, co czyni tekst niezno\u015bnie trudnym w odbiorze.\n\nJedna z uczennic powiedzia\u0142a: \"przeczyta\u0142am Pana Tadeusza, ale nie ma to \u017cadnego znaczenia, bo i tak niczego nie zrozumia\u0142am. Wielokrotnie musia\u0142am si\u0119 cofa\u0107, aby nie zgubi\u0107 w\u0105tku\".\n\n## Rozwi\u0105zanie - uwsp\u00f3\u0142cze\u015bnienie j\u0119zyka\n\nJoanna Paw\u0142owska wychodzi naprzeciw wsp\u00f3\u0142czesnej m\u0142odzie\u017cy, tworz\u0105c ksi\u0105\u017ck\u0119, kt\u00f3ra ma pom\u00f3c zrozumie\u0107 epopej\u0119 pod k\u0105tem dos\u0142ownego rozumienia tre\u015bci. Autorka zmienia szyk wyraz\u00f3w w zdaniu, tak by odpowiada\u0142 wsp\u00f3\u0142cze\u015bnie obowi\u0105zuj\u0105cym zasadom, a niekt\u00f3re wyrazy zamienia na swoje wsp\u00f3\u0142czesne odpowiedniki - uwsp\u00f3\u0142cze\u015bniony j\u0119zyk zdecydowanie u\u0142atwia lektur\u0119 i mo\u017ce zach\u0119ci\u0107 m\u0142odzie\u017c do bli\u017cszego poznania fabu\u0142y.\n\n## Kontrowersje wok\u00f3\u0142 projektu\n\nJoanna Paw\u0142owska postanowi\u0142a \"napisa\u0107\" uaktualnion\u0105 leksykalnie wersj\u0119 poematu, jednak artyku\u0142 naukowy z 2021 roku stara si\u0119 odpowiedzie\u0107 na pytanie, czy taka \"uwsp\u00f3\u0142cze\u015bniona\" edycja rzeczywi\u015bcie umo\u017cliwia interpretacj\u0119 dzie\u0142a Mickiewicza.\n\n## Opinie o projekcie\n\nMo\u017ce niekt\u00f3rym wyda si\u0119 to zbyt odwa\u017cnym posuni\u0119ciem, aby na nowo pisa\u0107 polsk\u0105 epopej\u0119 narodow\u0105, jednak autorka zach\u0119ca do zapoznania si\u0119 z wst\u0119pem do ksi\u0105\u017cki i docenia wk\u0142ad w popularizowanie g\u0142\u0119bszego poznania epopei po\u015br\u00f3d m\u0142odzie\u017cy.\n\nPaw\u0142owska uwa\u017ca, \u017ce \"musimy przystosowa\u0107 klasyk\u0119 do naszego wsp\u00f3\u0142czesnego \u015bwiata \u2013 uczyni\u0107 z niej \u017cyw\u0105 literatur\u0119\", a klasyk\u0119 w oryginalnej wersji zostawi\u0107 filologom lub osobom z pasj\u0105 humanistyczn\u0105.\n\nWyszukiwanie pokazuje \u017cyw\u0105 debat\u0119 wok\u00f3\u0142 recepcji \"Pana Tadeusza\" w XXI wieku, gdzie g\u0142\u00f3wnym problemem jest bariera j\u0119zykowa i kulturowa, kt\u00f3ra sprawia, \u017ce m\u0142odzie\u017c ma trudno\u015bci z zrozumieniem dzie\u0142a na poziomie dos\u0142ownym."
+    ],
+    "durationSeconds": 30.558327531000018
+  }
+}

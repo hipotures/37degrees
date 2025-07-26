@@ -1,0 +1,62 @@
+{
+  "session_id": "95239c3a-5fbf-4fbf-93f7-3afd6ea78885",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/95239c3a-5fbf-4fbf-93f7-3afd6ea78885.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Wuthering Heights toxic relationship analysis BookTok TikTok 2024 2025"
+  },
+  "tool_response": {
+    "query": "Wuthering Heights toxic relationship analysis BookTok TikTok 2024 2025",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01DsXzxsgJU9HcPwEMz8mEkD",
+        "content": [
+          {
+            "title": "3 Lessons on Toxic Love from Wuthering Heights - In the Light Room",
+            "url": "https://inthelightroom.org/3-lessons-on-toxic-love-from-wuthering-heights/"
+          },
+          {
+            "title": "Toxic Love In Emily Bronte's Wuthering Heights | 123 Help Me",
+            "url": "https://www.123helpme.com/essay/Toxic-Love-In-Emily-Brontes-Wuthering-Heights-0908E5D0C3380E47"
+          },
+          {
+            "title": "The Best of BookTok 2025: Must-Read Books and Why TikTok Still Owns Publishing - Film 14",
+            "url": "https://film-14.com/best-booktok-2025/"
+          },
+          {
+            "title": "The Most Popular TikTok Books #BookTok | Barnes & Noble\u00ae",
+            "url": "https://www.barnesandnoble.com/b/booktok/_/N-2vdn"
+          },
+          {
+            "title": "Toxic Relationships: What Wuthering Heights taught me about love \u2013 Era Journal",
+            "url": "https://erajournal.co.uk/maya-wilson-autzen/toxic-relationships-what-wuthering-heights-taught-me-about-love/"
+          },
+          {
+            "title": "Tiktok #Booktok 2022-2024 (47 books)",
+            "url": "https://www.goodreads.com/list/show/179763.Tiktok_Booktok_2022_2024"
+          },
+          {
+            "title": "The best BookTok books to read in 2025 - Pan Macmillan",
+            "url": "https://www.panmacmillan.com/blogs/general/best-booktok-books"
+          },
+          {
+            "title": "Wuthering Heights Reading",
+            "url": "https://www.tiktok.com/discover/wuthering-heights-reading"
+          },
+          {
+            "title": "Wuthering Heights by Emily Bront\u00eb [A Review] \u2013 We Need to Talk About Books",
+            "url": "https://weneedtotalkaboutbooks.com/2024/12/13/wuthering-heights-by-emily-bronte-a-review/"
+          },
+          {
+            "title": "'Wuthering Heights' adaptation faces controversy - The Post",
+            "url": "https://www.thepostathens.com/article/2025/04/wuthering-heights-controversy-robbie-elordi"
+          }
+        ]
+      },
+      "Based on my search results, I can provide insights about the toxic relationship analysis of *Wuthering Heights* and its reception on BookTok/TikTok platforms in 2024-2025:\n\n## Toxic Relationship Analysis of Wuthering Heights\n\nCatherine and Heathcliff are without a doubt synonymous with 'toxic behaviour,' 'childhood trauma,' 'poor communication skills,' 'emotional abuse' and 'manipulation.' Recent analyses have emphasized how their love grows from childhood to adulthood, the dynamics and forces behind it are turned jealous, spiteful, vengeful, and toxic, leading many to conclude that Wuthering Heights is not a romance novel, but rather a continual, passionate battle between societal forces and true love gone sour as it treads between the lines of obsession and compassion.\n\nCritical examinations have particularly highlighted the abusive nature of the relationships. Their marriage is an abhorrent cycle of verbal and psychological abuse; he throws a knife at her, hangs her dog and refuses to allow her to leave, holding her against her will. Modern readers are increasingly recognizing that the all-consuming love of Heathcliff and Cathy is like a bomb, destroying all those in its path.\n\n## BookTok/TikTok Reception and Analysis in 2024-2025\n\nBookTok's hunger for high-stakes romance with actual plot continues to influence reading trends, though there's more nuance: Genre Diversification: Fantasy and romance still rule, but dark academia, horror, and speculative thrillers are surging.\n\nThe platform's influence remains significant, as #BookTok videos have gained nearly 200 billion views to date, and regularly push books to the top of bestseller lists.(no content)The more a book makes you cry, swoon, or even get a little hot under the collar, the more likely it is to become a BookTok success.\n\n## Recent Critical Perspective\n\nRecent analysis has challenged the romanticized view of the novel. One reviewer noted that at a time where I was attempting to get my head around Joyce's intricate and maddening Ulysses, I was looking forward to the comfort of a classic, welcoming what I had perceived to be a tragically romantic love story set upon the wild Yorkshire moors. I was disappointed. They observed that the romanticisation of Heathcliff has more likely developed from various film adaptations, some of which have blatantly softened the cruelty of the characters and romanticised the harshness of the moors.\n\nA 2025 film adaptation controversy has also emerged, with fans were angry when the casting was announced in 2024, as many commented on the fact Elordi is white. In the book, Bront\u00eb alludes to Heathcliff being Romani, mixed-race or North African.\n\nThe contemporary analysis emphasizes that modern readers are more aware of toxic relationship patterns and are re-examining classic literature through this lens, particularly in social media spaces like BookTok where emotional impact and relatability drive engagement."
+    ],
+    "durationSeconds": 23.92561048500001
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "session_id": "bca0f9c4-aba0-4606-9d12-d305df5c1a73",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/bca0f9c4-aba0-4606-9d12-d305df5c1a73.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Zabi\u0107 drozda\" teatr Polska spektakl adaptacja teatralna przedstawienie"
+  },
+  "tool_response": {
+    "query": "\"Zabi\u0107 drozda\" teatr Polska spektakl adaptacja teatralna przedstawienie",
+    "results": [
+      "I'll search for information about the theatrical adaptation of \"Zabi\u0107 drozda\" (To Kill a Mockingbird) in Polish theaters.",
+      {
+        "tool_use_id": "srvtoolu_015po7US3N7ZFxsL6hPehRUA",
+        "content": []
+      },
+      "Based on the search results, I found extensive information about theatrical adaptations of \"Zabi\u0107 drozda\" (To Kill a Mockingbird) in Poland:\n\n## Current and Recent Productions\n\nTeatr Zag\u0142\u0119bia in Sosnowiec is currently staging \"Zabi\u0107 drozda\" directed by Robert Talarczyk. The production stars Rafa\u0142 Dziwisz as Atticus FinchI'll search for information about the theatrical adaptation of \"Zabi\u0107 drozda\" (To Kill a Mockingbird) in Polish theaters.",
+      {
+        "tool_use_id": "srvtoolu_01NJ6ZyTG2yMqZ6FPL2infjZ",
+        "content": []
+      },
+      {
+        "tool_use_id": "srvtoolu_01K3FLyZ261YvHBTzK1dLGEP",
+        "content": [
+          {
+            "title": "Joanna Drozda | Teatr Polski w Poznaniu",
+            "url": "https://teatr-polski.pl/zespol/joanna-drozda/"
+          },
+          {
+            "title": "Nie wychod\u017a po zmroku \u2013 Teatr dla Wszystkich",
+            "url": "https://teatrdlawszystkich.eu/nie-wychodz-po-zmroku/"
+          },
+          {
+            "title": "Teatr w Krakowie im. J. S\u0142owackiego - Trzeba zabi\u0107 t\u0119 mi\u0142o\u015b\u0107 / re\u017c. Janusz Morgenstern",
+            "url": "https://teatrwkrakowie.pl/spektakl/trzeba-zabic-te-milosc-rez-janusz-morgenstern"
+          },
+          {
+            "title": "Teatr Polski w Poznaniu EN | Teatr Polski w Poznaniu",
+            "url": "https://teatr-polski.pl/en/"
+          },
+          {
+            "title": "Zabi\u0107 drozda - Ca\u0142a Polska Czyta Dzieciom",
+            "url": "https://calapolskaczytadzieciom.pl/ksiazka/zabic-drozda/"
+          },
+          {
+            "title": "Teatr Polski w Warszawie - spektakle, repertuar, bilety Warszawa",
+            "url": "https://teatrpolski.waw.pl/"
+          },
+          {
+            "title": "Teatr Dramatyczny im. Gustawa Holoubka",
+            "url": "https://teatrdramatyczny.pl/"
+          },
+          {
+            "title": "Repertuar",
+            "url": "https://teatrdramatyczny.pl/repertuar"
+          },
+          {
+            "title": "Repertuar Teatru Warszawskiego - Spektakle i Bilety Teatr Warszawa | Teatr Polski - Teatr Polski w Warszawie - spektakle, repertuar, bilety Warszawa",
+            "url": "https://teatrpolski.waw.pl/repertuar"
+          },
+          {
+            "title": "Repertuar | Teatr Polski w Poznaniu",
+            "url": "https://teatr-polski.pl/repertuar/"
+          }
+        ]
+      },
+      {
+        "tool_use_id": "srvtoolu_01N3dxxTf2S5spSC4A36AbJU",
+        "content": [
+          {
+            "title": "Zabi\u0107 drozda \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Zabi%C4%87_drozda"
+          },
+          {
+            "title": "Zabi\u0107 drozda - Harper Lee - ksi\u0105\u017cka, streszczenie",
+            "url": "https://www.granice.pl/ksiazka/zabic-drozda/163573"
+          },
+          {
+            "title": "Zabi\u0107 drozda (To Kill a Mockingbird )",
+            "url": "https://www.sfp.org.pl/film,808,1,Zabic-drozda.html"
+          },
+          {
+            "title": "Zabi\u0107 drozda - wydawnictwo-jaguar.pl",
+            "url": "https://wydawnictwo-jaguar.pl/sklep/produkt/790/zabic-drozda"
+          },
+          {
+            "title": "Zabi\u0107 drozda | Wydawnictwo Marginesy",
+            "url": "https://marginesy.com.pl/sklep/produkt/134255/zabic-drozda"
+          },
+          {
+            "title": "Film Zabi\u0107 drozda (1962) - Pe\u0142na obsada - FDB",
+            "url": "https://fdb.pl/film/3910-zabic-drozda/obsada"
+          },
+          {
+            "title": "Zabi\u0107 drozda (film) \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Zabi%C4%87_drozda_(film)"
+          },
+          {
+            "title": "Zabi\u0107 drozda - recenzja",
+            "url": "https://3telnia.pl/zabic-drozda-recenzja/"
+          },
+          {
+            "title": "\u201eZabi\u0107 drozda\u201d - recenzja",
+            "url": "https://paradoks.net.pl/read/39519-zabic-drozda-recenzja"
+          },
+          {
+            "title": "Zabi\u0107 drozda \u2022 Lee Harper \u2022 ksi\u0105\u017cka - recenzje, opisy, opinie \u00bb BiblioNETka.pl",
+            "url": "https://www.biblionetka.pl/book.aspx?id=1780"
+          }
+        ]
+      },
+      "Based on the search results, I found some information about theatrical adaptations of \"Zabi\u0107 drozda\" (To Kill a Mockingbird) in Polish theaters:\n\nJest dobrym aktorem, bo przecie\u017c by\u0107 na sali rozpraw to jak gra\u0107 przed publiczno\u015bci\u0105 w teatrze. The search reveals a connection between the courtroom drama of the story and theatrical performance.\n\nWspania\u0142a, nowatorska komiksowa adaptacja jednej z najwa\u017cniejszych powie\u015bci literatury \u015bwiatowej, za kt\u00f3r\u0105 Harper Lee otrzyma\u0142a Nagrod\u0119 Pulitzera. While this mentions a comic book adaptation, I didn't find specific information about theatrical stage adaptations in Polish theaters.\n\nTo Kill a Mockingbird) \u2013 powie\u015b\u0107 obyczajowa ameryka\u0144skiej pisarki Harper Lee, wydana w 1960 roku, w kolejnym roku uhonorowana nagrod\u0105 Pulitzera. The novel was published in 1960 and won the Pulitzer Prize.\n\nZosta\u0142a zekranizowana w 1962 roku, a rol\u0119 Atticusa Fincha zagra\u0142 Gregory Peck. The novel was adapted into a famous film in 1962 with Gregory Peck.\n\nUnfortunately, the search results don't contain specific information about Polish theatrical stage adaptations of \"To Kill a Mockingbird\" (\"Zabi\u0107 drozda\"). The results mainly discuss the original novel, its film adaptation from 1962, and a recent graphic novel adaptation. While the search did return results from various Polish theater websites (Teatr Polski w Poznaniu, Teatr Polski w Warszawie, Teatr Dramatyczny), none of them contained information about staging this particular play.\n\nTo find information about specific theatrical productions of \"Zabi\u0107 drozda\" in Polish theaters, you might want to search for more specific terms or check individual theater archives and repertoires directly."
+    ],
+    "durationSeconds": 233.4452355589997
+  }
+}

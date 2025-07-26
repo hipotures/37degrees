@@ -1,0 +1,247 @@
+
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diuna - Interaktywna Odkrywcza Podróż</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Lora:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-primary: #FDF6E3;     /* Tło strony */
+            --text-primary: #073642;   /* Tekst główny */
+            --accent-primary: #268BD2; /* Niebieski akcent */
+            --accent-secondary: #B58900; /* Złoty akcent */
+            --timeline-color: #2aa198;
+        }
+        body { font-family: 'Inter', sans-serif; background-color: var(--bg-primary); color: var(--text-primary); }
+        h1, h2, h3 { font-family: 'Lora', serif; }
+        .sticky-nav { position: -webkit-sticky; position: sticky; top: 0; z-index: 50; background-color: rgba(253, 246, 227, 0.8); backdrop-filter: blur(10px); }
+        .timeline-item::before { content: ''; position: absolute; left: -10px; top: 50%; transform: translateY(-50%); width: 20px; height: 20px; border-radius: 50%; background-color: var(--bg-primary); border: 4px solid var(--timeline-color); }
+        .modal-bg { background-color: rgba(0,0,0,0.5); }
+        .carousel-item { min-width: 100%; transition: transform 0.5s ease-in-out; }
+        @media (min-width: 768px) { .carousel-item { min-width: 50%; } }
+        @media (min-width: 1024px) { .carousel-item { min-width: 33.33%; } }
+    </style>
+</head>
+<body class="antialiased">
+    <header id="navbar" class="sticky-nav shadow-md">
+        <nav class="container mx-auto px-6 py-3 flex justify-between items-center">
+            <a href="#" class="text-2xl font-bold" style="color: var(--accent-secondary);">🏜️ Diuna</a>
+            <div class="hidden md:flex space-x-6">
+                <a href="#author" class="hover:text-blue-500">Autor</a>
+                <a href="#genesis" class="hover:text-blue-500">Geneza</a>
+                <a href="#symbols" class="hover:text-blue-500">Symbole</a>
+                <a href="#impact" class="hover:text-blue-500">Wpływ</a>
+                <a href="#adaptations" class="hover:text-blue-500">Adaptacje</a>
+            </div>
+            <div class="md:hidden">
+                <button id="mobile-menu-button" class="text-gray-500 focus:outline-none">
+                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path></svg>
+                </button>
+            </div>
+        </nav>
+        <div id="mobile-menu" class="hidden md:hidden">
+            <a href="#author" class="block py-2 px-4 text-sm hover:bg-gray-200">Autor</a>
+            <a href="#genesis" class="block py-2 px-4 text-sm hover:bg-gray-200">Geneza</a>
+            <a href="#symbols" class="block py-2 px-4 text-sm hover:bg-gray-200">Symbole</a>
+            <a href="#impact" class="block py-2 px-4 text-sm hover:bg-gray-200">Wpływ</a>
+            <a href="#adaptations" class="block py-2 px-4 text-sm hover:bg-gray-200">Adaptacje</a>
+        </div>
+    </header>
+
+    <main>
+        <section id="hero" class="text-center py-20" style="background: linear-gradient(to bottom, var(--bg-primary), #f3e9d2); color: var(--text-primary);">
+            <h1 class="text-5xl font-bold mb-4">Odkrywcza Podróż po Świecie Diuny</h1>
+            <p class="text-xl max-w-3xl mx-auto">Zanurz się w piaskach Arrakis i odkryj sekrety jednej z najważniejszych powieści science fiction wszech czasów. Polityka, religia, ekologia i ludzka natura w jednym, epickim uniwersum.</p>
+        </section>
+
+        <section id="author" class="container mx-auto px-6 py-16">
+            <h2 class="text-4xl font-bold text-center mb-12">Frank Herbert: Architekt Światów</h2>
+            <div id="timeline-container" class="relative max-w-4xl mx-auto">
+                <div class="absolute h-full border-l-4" style="left: 1.25rem; border-color: var(--timeline-color);"></div>
+                <!-- Timeline items will be injected here -->
+            </div>
+        </section>
+
+        <section id="genesis" class="py-16" style="background-color: #f3e9d2;">
+            <div class="container mx-auto px-6">
+                <h2 class="text-4xl font-bold text-center mb-12">Narodziny Legendy: Geneza Diuny</h2>
+                <div class="grid md:grid-cols-2 gap-8">
+                    <div class="bg-white p-6 rounded-lg shadow-lg"> <h3 class="text-2xl font-bold mb-2" style="color: var(--accent-primary);">Inspiracja na Wydmach</h3> <p>W 1957 roku Frank Herbert pojechał do Florence w Oregonie, by napisać artykuł o projekcie stabilizacji ruchomych wydm. Potęga natury i ludzkie próby jej kontroli tak go zafascynowały, że zamiast artykułu, narodził się pomysł na planetę Arrakis.</p> </div>
+                    <div class="bg-white p-6 rounded-lg shadow-lg"> <h3 class="text-2xl font-bold mb-2" style="color: var(--accent-primary);">Sześcioletni Maraton</h3> <p>Herbert poświęcił 6 lat (1959-1965) na badania i pisanie. Przeczytał ponad 200 książek o ekologii, religii i polityce, by stworzyć niezwykle realistyczny i spójny świat. Jego metodyczna praca ustanowiła nowy standard w gatunku science fiction.</p> </div>
+                    <div class="bg-white p-6 rounded-lg shadow-lg"> <h3 class="text-2xl font-bold mb-2" style="color: var(--accent-primary);">Odrzucona przez System</h3> <p>Manuskrypt "Diuny" został odrzucony przez ponad 20 wydawców. Uważano go za zbyt długi, skomplikowany i trudny do sklasyfikowania. Wydawcy obawiali się, że czytelnicy nie zaakceptują tak złożonej i ambitnej historii.</p> </div>
+                    <div class="bg-white p-6 rounded-lg shadow-lg"> <h3 class="text-2xl font-bold mb-2" style="color: var(--accent-primary);">Nietypowy Wydawca</h3> <p>Ostatecznie książkę wydało w 1965 roku wydawnictwo Chilton Books, znane głównie z... podręczników naprawy samochodów. Był to ryzykowny krok, który początkowo przyniósł straty, ale ostatecznie zapisał się w historii literatury.</p> </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="symbols" class="container mx-auto px-6 py-16">
+            <h2 class="text-4xl font-bold text-center mb-12">Kluczowe Postacie i Symbole</h2>
+            <div id="character-grid" class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+                <!-- Character cards will be injected here -->
+            </div>
+        </section>
+
+        <section id="impact" class="py-16" style="background-color: #f3e9d2;">
+            <div class="container mx-auto px-6">
+                <h2 class="text-4xl font-bold text-center mb-12">Wpływ na Kulturę: Wykresy i Dane</h2>
+                <div class="grid md:grid-cols-2 gap-8 items-center">
+                    <div class="bg-white p-6 rounded-lg shadow-lg"> <canvas id="rejectionsChart"></canvas> </div>
+                    <div class="bg-white p-6 rounded-lg shadow-lg"> <canvas id="influenceChart"></canvas> </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="adaptations" class="container mx-auto px-6 py-16">
+            <h2 class="text-4xl font-bold text-center mb-12">Adaptacje: Diuna na Ekranie i Poza Nim</h2>
+            <div class="relative">
+                <div id="carousel" class="flex overflow-x-hidden scroll-smooth">
+                    <!-- Carousel items will be injected here -->
+                </div>
+                <button id="prevBtn" class="absolute top-1/2 left-0 transform -translate-y-1/2 bg-white bg-opacity-50 rounded-full p-2 shadow-lg">&lt;</button>
+                <button id="nextBtn" class="absolute top-1/2 right-0 transform -translate-y-1/2 bg-white bg-opacity-50 rounded-full p-2 shadow-lg">&gt;</button>
+            </div>
+        </section>
+    </main>
+
+    <div id="character-modal" class="fixed inset-0 modal-bg items-center justify-center hidden">
+        <div class="bg-white rounded-lg shadow-xl max-w-lg w-full p-8 m-4 relative">
+            <button id="close-modal" class="absolute top-4 right-4 text-2xl">&times;</button>
+            <h3 id="modal-title" class="text-3xl font-bold mb-4"></h3>
+            <p id="modal-description"></p>
+        </div>
+    </div>
+
+    <script>
+        // Mobile Menu
+        document.getElementById('mobile-menu-button').addEventListener('click', function() {
+            document.getElementById('mobile-menu').classList.toggle('hidden');
+        });
+
+        // Timeline Data
+        const timelineData = [
+            { year: '1920', event: 'Narodziny Franka Herberta w Tacoma, Waszyngton.' },
+            { year: '1957', event: 'Wizyta w Florence, Oregon, która zainspirowała go do napisania Diuny.' },
+            { year: '1959', event: 'Rozpoczęcie sześcioletnich badań i prac nad powieścią.' },
+            { year: '1965', event: 'Publikacja "Diuny" przez Chilton Books po odrzuceniu przez ponad 20 wydawców.' },
+            { year: '1966', event: '"Diuna" zdobywa nagrody Hugo i Nebula, ugruntowując swój status w kanonie SF.' },
+            { year: '1986', event: 'Śmierć Franka Herberta, pozostawiając po sobie bogate dziedzictwo literackie.' }
+        ];
+        const timelineContainer = document.getElementById('timeline-container');
+        timelineData.forEach((item, index) => {
+            const div = document.createElement('div');
+            div.className = `mb-8 flex justify-between items-center w-full ${index % 2 === 0 ? 'flex-row-reverse' : ''}`;
+            div.innerHTML = `
+                <div class="order-1 w-5/12"></div>
+                <div class="z-20 flex items-center order-1 bg-gray-800 shadow-xl w-8 h-8 rounded-full">
+                    <h1 class="mx-auto font-semibold text-lg text-white">${item.year}</h1>
+                </div>
+                <div class="order-1 rounded-lg shadow-xl w-5/12 px-6 py-4" style="background-color: white;">
+                    <p class="text-sm">${item.event}</p>
+                </div>
+            `;
+            timelineContainer.appendChild(div);
+        });
+
+        // Character Grid Data
+        const characterData = [
+            { id: 'paul', name: 'Paul Atryda', emoji: '🤴', color: 'bg-blue-200', description: 'Główny bohater, którego podróż od młodego arystokraty do mesjasza Fremenów jest centralną osią fabuły. Symbolizuje zarówno heroizm, jak i niebezpieczeństwa związane z charyzmatycznym przywództwem.' },
+            { id: 'spice', name: 'Melanż (Przyprawa)', emoji: '✨', color: 'bg-orange-200', description: 'Najcenniejsza substancja we wszechświecie. Symbolizuje ropę naftową, władzę, uzależnienie i potencjał ludzkiej świadomości. Kontrola nad nią to kontrola nad imperium.' },
+            { id: 'sandworm', name: 'Czerw Pustyni', emoji: '🐛', color: 'bg-yellow-800', description: 'Shai-Hulud, wcielenie boga dla Fremenów. Symbol potęgi natury, której nie da się w pełni okiełznać. Kluczowy element ekosystemu Arrakis, tworzący przyprawę.' },
+            { id: 'bene', name: 'Bene Gesserit', emoji: '🔮', color: 'bg-purple-200', description: 'Tajemniczy zakon żeński manipulujący polityką i genetyką zza kulis. Symbolizują ukrytą, długofalową władzę, siłę kobiet i niebezpieczeństwa eugeniki.' },
+            { id: 'fremen', name: 'Fremeni', emoji: '💧', color: 'bg-cyan-200', description: 'Rdzenni mieszkańcy Arrakis. Mistrzowie przetrwania w ekstremalnych warunkach. Symbolizują adaptację, symbiozę z naturą i kulturę ukształtowaną przez surowe środowisko.' },
+            { id: 'harkonnen', name: 'Ród Harkonnenów', emoji: '🦇', color: 'bg-red-200', description: 'Główni antagoniści, symbolizujący chciwość, tyranię i bezwzględną eksploatację zasobów. Ich brutalność stoi w kontraście do honoru Atrydów.' },
+            { id: 'water', name: 'Woda', emoji: '💧', color: 'bg-sky-200', description: 'Na pustynnej Arrakis woda jest cenniejsza niż złoto. Symbolizuje życie, bogactwo, status społeczny i ostateczny cel ekologicznej transformacji planety.' },
+            { id: 'jihad', name: 'Dżihad', emoji: '⚔️', color: 'bg-red-800', description: 'Święta wojna prowadzona w imieniu Paula. To przestroga Herberta przed fanatyzmem religijnym i niszczycielską siłą, jaką może uwolnić mesjanistyczny przywódca.' }
+        ];
+        const characterGrid = document.getElementById('character-grid');
+        characterData.forEach(char => {
+            const div = document.createElement('div');
+            div.className = `p-4 rounded-lg text-center cursor-pointer transition-transform transform hover:scale-105 ${char.color}`;
+            div.innerHTML = `<div class="text-5xl">${char.emoji}</div><div class="mt-2 font-semibold">${char.name}</div>`;
+            div.addEventListener('click', () => openModal(char));
+            characterGrid.appendChild(div);
+        });
+
+        // Modal Logic
+        const modal = document.getElementById('character-modal');
+        const closeModalBtn = document.getElementById('close-modal');
+        function openModal(character) {
+            document.getElementById('modal-title').innerText = `${character.emoji} ${character.name}`;
+            document.getElementById('modal-description').innerText = character.description;
+            modal.classList.remove('hidden');
+            modal.classList.add('flex');
+        }
+        closeModalBtn.addEventListener('click', () => modal.classList.add('hidden'));
+        modal.addEventListener('click', (e) => { if (e.target === modal) modal.classList.add('hidden'); });
+
+        // Charts.js
+        new Chart(document.getElementById('rejectionsChart'), {
+            type: 'bar',
+            data: {
+                labels: ['Odrzucenia "Diuny"', 'Odrzucenia "Harry Potter"'],
+                datasets: [{ label: 'Liczba odrzuceń przez wydawców', data: [23, 12], backgroundColor: ['rgba(211, 9, 9, 0.7)', 'rgba(9, 211, 111, 0.7)'] }]
+            },
+            options: { responsive: true, plugins: { title: { display: true, text: 'Droga do publikacji: "Diuna" vs "Harry Potter"' } } }
+        });
+        new Chart(document.getElementById('influenceChart'), {
+            type: 'radar',
+            data: {
+                labels: ['Złożoność świata', 'Wpływ na gatunek', 'Motywy ekologiczne', 'Intrygi polityczne', 'Głębia filozoficzna'],
+                datasets: [
+                    { label: 'Diuna', data: [95, 98, 90, 92, 85], fill: true, backgroundColor: 'rgba(38, 139, 210, 0.2)', borderColor: 'rgb(38, 139, 210)' },
+                    { label: 'Gwiezdne Wojny (oryg.)', data: [70, 95, 30, 65, 50], fill: true, backgroundColor: 'rgba(181, 137, 0, 0.2)', borderColor: 'rgb(181, 137, 0)' }
+                ]
+            },
+            options: { responsive: true, plugins: { title: { display: true, text: 'Porównanie wpływu: Diuna vs Gwiezdne Wojny' } } }
+        });
+
+        // Carousel Data
+        const adaptationsData = [
+            { type: 'Film', title: 'Diuna (1984)', description: 'Surrealistyczna, kontrowersyjna adaptacja Davida Lyncha. Mimo porażki finansowej, zyskała status kultowej.', image: 'https://placehold.co/600x400/cb4b16/FFFFFF?text=Lynch+1984' },
+            { type: 'Film', title: 'Diuna (2021)', description: 'Pierwsza część epickiej sagi Denisa Villeneuve. Zdobyła 6 Oscarów i uznanie krytyków za wierność książce i monumentalną wizję.', image: 'https://placehold.co/600x400/268bd2/FFFFFF?text=Villeneuve+2021' },
+            { type: 'Film', title: 'Diuna: Część Druga (2024)', description: 'Kontynuacja sagi Villeneuve, która stała się globalnym fenomenem kulturowym i kasowym hitem.', image: 'https://placehold.co/600x400/b58900/FFFFFF?text=Villeneuve+2024' },
+            { type: 'Gra', title: 'Dune II (1992)', description: 'Gra, która zdefiniowała gatunek strategii czasu rzeczywistego (RTS) i zainspirowała serię Command & Conquer.', image: 'https://placehold.co/600x400/2aa198/FFFFFF?text=Dune+II+1992' },
+            { type: 'Miniserial', title: 'Dzieci Diuny (2003)', description: 'Adaptacja drugiej i trzeciej książki z serii, ceniona za wierność materiałowi źródłowemu i rozbudowanie historii.', image: 'https://placehold.co/600x400/6c71c4/FFFFFF?text=Dzieci+Diuny+2003' }
+        ];
+        const carousel = document.getElementById('carousel');
+        adaptationsData.forEach(item => {
+            const div = document.createElement('div');
+            div.className = 'carousel-item p-4';
+            div.innerHTML = `
+                <div class="bg-white rounded-lg shadow-lg overflow-hidden h-full">
+                    <img src="${item.image}" alt="${item.title}" class="w-full h-48 object-cover">
+                    <div class="p-4">
+                        <h4 class="font-bold text-lg" style="color: var(--accent-secondary);">${item.type}</h4>
+                        <h3 class="text-xl font-bold mb-2">${item.title}</h3>
+                        <p class="text-sm">${item.description}</p>
+                    </div>
+                </div>
+            `;
+            carousel.appendChild(div);
+        });
+
+        // Carousel Logic
+        const prevBtn = document.getElementById('prevBtn');
+        const nextBtn = document.getElementById('nextBtn');
+        let currentIndex = 0;
+        function updateCarousel() {
+            const itemWidth = carousel.querySelector('.carousel-item').clientWidth;
+            carousel.style.transform = `translateX(-${currentIndex * itemWidth}px)`;
+        }
+        nextBtn.addEventListener('click', () => {
+            currentIndex = (currentIndex + 1) % (adaptationsData.length - (window.innerWidth < 768 ? 0 : window.innerWidth < 1024 ? 1 : 2));
+            updateCarousel();
+        });
+        prevBtn.addEventListener('click', () => {
+            currentIndex = (currentIndex - 1 + (adaptationsData.length - (window.innerWidth < 768 ? 0 : window.innerWidth < 1024 ? 1 : 2))) % (adaptationsData.length - (window.innerWidth < 768 ? 0 : window.innerWidth < 1024 ? 1 : 2));
+            updateCarousel();
+        });
+        window.addEventListener('resize', updateCarousel);
+
+    </script>
+</body>
+</html>

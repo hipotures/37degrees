@@ -1,0 +1,63 @@
+{
+  "session_id": "38d2c10d-061a-4607-b249-863b58008013",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/38d2c10d-061a-4607-b249-863b58008013.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "polscy nastolatkowie gry piraci przygody media spo\u0142eczno\u015bciowe zainteresowania"
+  },
+  "tool_response": {
+    "query": "polscy nastolatkowie gry piraci przygody media spo\u0142eczno\u015bciowe zainteresowania",
+    "results": [
+      "I'll perform a web search for that Polish query about Polish teenagers, games, pirates, adventures, social media, and interests.",
+      {
+        "tool_use_id": "srvtoolu_01PKhj8HPiLoj8Aa34XH89Ju",
+        "content": [
+          {
+            "title": "Gry z Reksiem nie tylko dla dzieci? Analiza popularno\u015bci Przyg\u00f3d Reksia",
+            "url": "https://grajmerki.pl/gry-z-reksiem-nie-tylko-dla-dzieci-analiza-popularnosci-przygod-reksia/"
+          },
+          {
+            "title": "Piractwo gier wideo w Polsce na przestrzeni dekad (lata 80. XX w. \u2013 lata 20. XXI w.) - Com.press - czasopismo naukowe. Komunikacja i nauki o mediach",
+            "url": "https://compress.edu.pl/e-wydania/item/piractwo-gier-wideo-w-polsce-na-przestrzeni-dekad-lata-80-xx-w-lata-20-xxi-w"
+          },
+          {
+            "title": "Piraci | GRYOnline.pl",
+            "url": "https://www.gry-online.pl/gry/piraci/"
+          },
+          {
+            "title": "Najlepsze pirackie memy i \u017carty inspirowane grami",
+            "url": "https://www.mmorpg.net.pl/gry-o-piratach/najlepsze-pirackie-memy-i-zarty-inspirowane-grami/"
+          },
+          {
+            "title": "TOP 10 gier o piratach - najlepsze gry akcji, RPG, strategie i przygod\u00f3wki",
+            "url": "https://planetagracza.pl/top-10-gier-o-piratach-najlepsze-przygody-do-singla-i-kooperacji/"
+          },
+          {
+            "title": "Video Games Piracy in Poland over Decades | Com.press",
+            "url": "https://journals.ptks.pl/compress/article/view/616"
+          },
+          {
+            "title": "Polacy \u015bcigaj\u0105 si\u0119 z Niemcami, pr\u00f3buj\u0105c zapobiec \u201eumieraniu\u201d gier wideo | GRYOnline.pl",
+            "url": "https://www.gry-online.pl/newsroom/polacy-scigaja-sie-z-niemcami-probujac-zapobiec-umieraniu-gier-wi/z22dfc3"
+          },
+          {
+            "title": "40 proc. m\u0142odych ludzi piraci. Dziwi was to?",
+            "url": "https://antyweb.pl/piractwo-mlodziez-polska-europa"
+          },
+          {
+            "title": "Punkowi piraci gier z Polski wychodz\u0105 w \u015bwiat - rp.pl",
+            "url": "https://cyfrowa.rp.pl/gry-e-sport/art18084971-punkowi-piraci-gier-z-polski-wychodza-w-swiat"
+          },
+          {
+            "title": "Szkodliwe tre\u015bci w internecie. Nie akceptuj\u0119, reaguj\u0119! - Ministerstwo Cyfryzacji - Portal Gov.pl",
+            "url": "https://www.gov.pl/web/cyfryzacja/szkodliwe-tresci-w-internecie-nie-akceptuje-reaguje"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with information about Polish teenagers' interests in games, pirates, adventures, and social media:\n\n## Polish Teenagers and Gaming Culture\n\nThe search results reveal that Polish gaming culture has strong social media engagement, with creators using social media platforms and fans actively participating in online communities to share memories about popular games.\n\n## Pirate-Themed Games and Adventures\n\nPolish gaming includes popular pirate adventure games, starting with titles like \"Reksio i Skarb Pirat\u00f3w\" (a straightforward adventure set in pirate realities), followed by more eccentric science-fiction themed games including \"Reksio i UFO,\" \"Reksio i Czarodzieje,\" \"Reksio i Wehiku\u0142 Czasu,\" and \"Reksio i Kapitan Nemo\".\n\nModern pirate games available to Polish players include survival games set in fantasy pirate eras, multiplayer adventures like \"Sea of Thieves\" focusing on pirates, treasures, and exotic lands to explore, created by experienced British studio Rare.\n\n## Gaming Piracy Among Polish Youth\n\nAccording to the European Union Intellectual Property Office (EUIPO) report on youth content consumption, 40% of young European citizens (aged 15-24) used illegal sources for content, with Poland performing relatively well compared to other European countries - only 19% of Polish youth consciously pirate content, compared to 29% in Belgium and France.\n\nVideo game piracy in Poland has a long history, being almost as old as games themselves, and was not socially perceived as crime in the 1980s but rather as a form of entrepreneurship.\n\n## Social Media and Gaming Interests\n\nPirate-themed gaming content has gained new life through social media platforms, where memes multiply and entertain players, with many pirate-themed memes being shared on social media platforms and relating to players' daily gaming struggles.\n\nSocial media platforms have over 3.4 billion users, and many of children's activities are internet-related, with their interests often transferring to the virtual world.\n\nThe search results indicate that Polish teenagers engage with pirate-themed adventure games both through traditional gaming and social media platforms, with a relatively lower rate of content piracy compared to other European countries."
+    ],
+    "durationSeconds": 22.491784757999937
+  }
+}

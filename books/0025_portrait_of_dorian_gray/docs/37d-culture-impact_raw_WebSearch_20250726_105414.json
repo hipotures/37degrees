@@ -1,0 +1,62 @@
+{
+  "session_id": "7da3bbc0-2d10-4a7c-9f7d-e17950766dc1",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7da3bbc0-2d10-4a7c-9f7d-e17950766dc1.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Dorian Gray TikTok memes social media trends dark academia 2024"
+  },
+  "tool_response": {
+    "query": "Dorian Gray TikTok memes social media trends dark academia 2024",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01QD4vPrretRDbqMk5zKW1GV",
+        "content": [
+          {
+            "title": "Dark Academia: Aesthetics and Belonging in an Age of Social Media | Arts | The Harvard Crimson",
+            "url": "https://www.thecrimson.com/article/2024/2/13/dark-academia-universities-trend-aesthetic-history-social-media/"
+          },
+          {
+            "title": "What is dark academia and what does it have to do with social media? \u2013 CanCulture Magazine",
+            "url": "https://www.canculturemag.com/literary-1/2024/5/8/what-is-dark-academia-and-what-does-it-have-to-do-with-social-media"
+          },
+          {
+            "title": "Picture of Dorian Gray Memes",
+            "url": "https://www.tiktok.com/discover/picture-of-dorian-gray-memes"
+          },
+          {
+            "title": "The Picture of Dorian Gray Memes",
+            "url": "https://www.tiktok.com/discover/the-picture-of-dorian-gray-memes"
+          },
+          {
+            "title": "Meet Dark Academia, The Bookish Fashion Trend That's All Over TikTok",
+            "url": "https://www.refinery29.com/en-us/2020/10/10079305/dark-academia-aesthetic-tiktok-trend"
+          },
+          {
+            "title": "What is dark academia? Everything you need to know about this moody TikTok aesthetic",
+            "url": "https://www.dailydot.com/pop-culture/what-is-dark-academia/"
+          },
+          {
+            "title": "The Picture of Dorian Gray Aesthetic - Dark Academia Book ...",
+            "url": "https://www.tiktok.com/@historical.houses/video/7355935686131813664"
+          },
+          {
+            "title": "Dark academia - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dark_academia"
+          },
+          {
+            "title": "25 Must-Read Dark Academia Books to Pick Up in 2024",
+            "url": "https://www.rd.com/list/dark-academia-books/"
+          },
+          {
+            "title": "Beyond the Aesthetics: An Introduction to Dark Academia - Lib AAC",
+            "url": "https://libaac.de/home/full-view-post/detail/News/beyond-the-aesthetics-an-introduction-to-dark-academia/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about Dorian Gray, dark academia, and social media trends in 2024:\n\n## Dark Academia and The Picture of Dorian Gray on Social Media\n\nCurrently, TikTok has over four hundred thousand posts under its dark academia tag, showing the significant presence of this aesthetic on social media platforms. Oscar Wilde's The Picture of Dorian Gray has been cited as either influential or popular among the subculture or fitting within the subculture's aesthetics.\n\n## The Picture of Dorian Gray's Place in Dark Academia\n\nCalled the bible of dark academia books, this 1891 classic novel by Oscar Wilde is perennially entertaining and horrifying. The Picture of Dorian Gray is Wilde's only Gothic novel, and it centers on a young man, Dorian, who trades his soul for eternal youth and beauty. Oscar Wilde's The Picture of Dorian Gray (1890/91) and Mary Shelley's Frankenstein (1818), are often cited as forerunners of the dark academia genre.\n\n## 2024 Social Media Trends\n\nThe dark academia aesthetic has continued to evolve on platforms like TikTok throughout 2024. TikTok videos riffing on the aesthetic often stress the importance of diversifying it by supporting representation of non-white, non-straight people in academic settings. Dark academia, \"the internet subculture obsessed with higher education and literature\" and the dissemination of the aesthetic's vibes and values play a crucial part in kindling gen Z's love for libraries.\n\n## The Aesthetic Elements\n\nThe fashion choices of the characters\u2014such as blazers, woolen sweaters, tweed patterns, and just generally darker colour palettes\u2014all contribute to the finely curated aesthetic of dark rooms, classic novels, candles, and typewriters. The aesthetic centres on traditional educational clothing, interior design, activities such as writing and poetry, ancient art, and classic literature, as well as classical Greek and Collegiate Gothic architecture.\n\nThe trend has maintained its relevance beyond just social media aesthetics, with the genre very much relevant outside of social media. For example, outside of the literature community, other mediums have used the dark academic aesthetic to tell stories, such as podcasts like The Alexandria Archives or The Magnus Archives. The aesthetic is also present in TV shows like Wednesday or A Series of Unfortunate Events."
+    ],
+    "durationSeconds": 19.480995642997325
+  }
+}

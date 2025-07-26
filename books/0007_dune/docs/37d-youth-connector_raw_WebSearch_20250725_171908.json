@@ -1,0 +1,62 @@
+{
+  "session_id": "2dcb2a8f-b11d-466d-8a59-c7f92df6d7a0",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/2dcb2a8f-b11d-466d-8a59-c7f92df6d7a0.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Polish youth teenagers environmental activism climate change Poland 2024 2025"
+  },
+  "tool_response": {
+    "query": "Polish youth teenagers environmental activism climate change Poland 2024 2025",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01N2TqQBwS1irHWaUxnxwteT",
+        "content": [
+          {
+            "title": "How the Polish state is intimidating their youth climate activists - Greenpeace International",
+            "url": "https://www.greenpeace.org/international/story/46892/polish-state-intimidating-youth-climate-activists/"
+          },
+          {
+            "title": "Coal and conservatism: How Polish activists push for more climate action | Clean Energy Wire",
+            "url": "https://www.cleanenergywire.org/news/coal-and-conservatism-how-polish-activists-push-more-climate-action"
+          },
+          {
+            "title": "Climate protests in Poland - EuroNatur",
+            "url": "https://www.euronatur.org/en/what-we-do/nature-conservation-policy-in-europe/tackling-the-climate-and-ecological-crisis/polish-youth-we-are-not-standing-idly-watch-our-planet-implode"
+          },
+          {
+            "title": "Poland's climate action strategy - European Parliament",
+            "url": "https://www.europarl.europa.eu/RegData/etudes/BRIE/2024/767168/EPRS_BRI(2024)767168_EN.pdf"
+          },
+          {
+            "title": "Poland \u2013 Climate Performance Ranking 2025 | Climate Change Performance Index",
+            "url": "https://ccpi.org/country/pol/"
+          },
+          {
+            "title": "Climate change in Poland - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Climate_change_in_Poland"
+          },
+          {
+            "title": "Poland\u2019s Changing Climate Activists \u2013 Political Critique [DISCONTINUED]",
+            "url": "https://politicalcritique.org/cee/poland/2019/polands-changing-climate-activists/"
+          },
+          {
+            "title": "\u2018We have our future\u2019: Why climate campaigners are celebrating Poland\u2019s election result | Euronews",
+            "url": "https://www.euronews.com/green/2023/10/24/we-have-our-future-why-climate-campaigners-are-celebrating-polands-election-result"
+          },
+          {
+            "title": "Poland's climate action strategy | Think Tank | European Parliament",
+            "url": "https://www.europarl.europa.eu/thinktank/en/document/EPRS_BRI(2024)767168"
+          },
+          {
+            "title": "Youth changing politics and driving climate action in Poland: Part 1",
+            "url": "https://www.demsoc.org/blog/youth-changing-politics-and-driving-climate-action-in-poland-part-1"
+          }
+        ]
+      },
+      "Based on the web search results, here's what I found about Polish youth and teenage environmental activism and climate change in Poland for 2024-2025:\n\n## Current Climate Performance and Political Context\n\nPoland ranks 47th in the Climate Change Performance Index 2025, receiving low climate performance ratings across the board but is up 8 places. The new government is more open to climate dialogue, but coal remains a contentious topic.(no content)Coal power still dominates Poland's energy mix, though the share is falling. The government has an agreement with miners to phase out coal mining by 2049, which experts criticise as too late.\n\n## Youth Climate Movement in Poland\n\n### Fridays for Future Poland\nInspired by Swedish schoolgirl Greta Thunberg, who started a global movement of striking for the climate in 2018, a local branch of youth climate activists arose in Poland. In March 2019, under the name M\u0142odzie\u017cowy Strajk Klimatyczny (MSK), or Youth Climate Strike, thousands of pupils and university students across the country took to the streets to demand climate justice for their generation, climate education at schools and a political response to the climate crisis based on science.(no content)On September 20, 2019, four million young people protested in 1,000 cities, including 72 cities in Poland. To create and mobilise dozens of branches of the movement in Poland was something to be proud of, and it still is.\n\n### Challenges Faced by Young Activists\nThe Polish climate movement faces significant challenges. At least five climate activists are reportedly being accused of breaking Environmental law in Poland after participating in the Fridays for Future demonstrations during the European Council summit in December. He is one of several Polish youth climate activists who claim they had been visited by police after participating in the Fridays for Future demonstrations during the European Council summit on the 9th of December.(no content)Many Fridays for Future walks have been organized in Europe but activists in Poland have experienced the most intimidation so far. Young activists have faced harassment, with people pushed and shouted at us, ripped our posters from us, and threw slurs. Older men harassed us, and one forcefully pulled up one of our activist tops, exposing her entire naked torso in public.\n\n### Recent Political Developments and Hope\nPoland's election results are being celebrated as a win for both democracy and climate action. Last week, opposition parties gained a majority over the right-wing Law and Justice party (Prawo i Sprawiedliwo\u015b\u0107, or PiS).(no content)Climate activists have played a major role in the recent election win, with young people particularly engaged in voter mobilization efforts.\n\n### Growing Public Awareness\nAn awareness of the importance of taking action to combat climate change has increased substantially in the last ten years. 53% of the Poles consider climate change a \"very serious problem\", according to a 2020 survey, in comparison with 19% in 2015.\n\nThe search results show that Polish youth environmental activism continues to be active despite significant challenges, with young activists playing crucial roles in recent political changes and maintaining their commitment to climate action through organizations like Fridays for Future Poland and other climate groups."
+    ],
+    "durationSeconds": 29.406172038999852
+  }
+}

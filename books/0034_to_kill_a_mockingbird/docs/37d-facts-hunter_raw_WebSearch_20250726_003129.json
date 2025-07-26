@@ -1,0 +1,63 @@
+{
+  "session_id": "bca0f9c4-aba0-4606-9d12-d305df5c1a73",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/bca0f9c4-aba0-4606-9d12-d305df5c1a73.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Zabi\u0107 drozda\" polski program nauczania lektura szkolna matura"
+  },
+  "tool_response": {
+    "query": "\"Zabi\u0107 drozda\" polski program nauczania lektura szkolna matura",
+    "results": [
+      "I'll search for information about \"Zabi\u0107 drozda\" (To Kill a Mockingbird) in the Polish education curriculum and as required reading for matura exams.",
+      {
+        "tool_use_id": "srvtoolu_011n1U2AuTSTf2HV75SuYGzQ",
+        "content": [
+          {
+            "title": "Zabi\u0107 drozda - Ca\u0142a Polska Czyta Dzieciom",
+            "url": "https://calapolskaczytadzieciom.pl/ksiazka/zabic-drozda/"
+          },
+          {
+            "title": "Zesp\u00f3\u0142 Szk\u00f3\u0142 nr 2 w Mr\u0105gowie - \"Zabi\u0107 drozda\" - Harper Lee",
+            "url": "https://zs2mragowo.szkolnastrona.pl/a,169,zabic-drozda-harper-lee"
+          },
+          {
+            "title": "Zabi\u0107 drozda - Harper Lee | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/270109/zabic-drozda"
+          },
+          {
+            "title": "Zabi\u0107 drozda. Powie\u015b\u0107 graficzna \u2013 Harper Lee, Fred Fordham",
+            "url": "https://naszerecenzje.wordpress.com/2020/03/12/zabic-drozda-powiesc-graficzna-harper-lee-fred-fordham/"
+          },
+          {
+            "title": "Zabi\u0107 drozda \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Zabi%C4%87_drozda"
+          },
+          {
+            "title": "Zabi\u0107 drozda, 2022 (ksi\u0105\u017cka) - Profinfo.pl",
+            "url": "https://www.profinfo.pl/sklep/zabic-drozda,355670.html"
+          },
+          {
+            "title": "Recenzja ksi\u0105\u017cki pod tytu\u0142em \u201eZabi\u0107 Drozda\u201d autorstwa Harper Lee. - \u015aci\u0105gi, wypracowania, lektury - Bryk.pl",
+            "url": "https://www.bryk.pl/wypracowania/jezyk-polski/recenzje/5310-recenzja-ksiazki-pod-tytulem-zabic-drozda-autorstwa-harper-lee.html"
+          },
+          {
+            "title": "Zabi\u0107 drozda | Harper Lee (Ksi\u0105\u017cka) - Ksi\u0119garnia matras.pl",
+            "url": "https://www.matras.pl/p/zabic-drozda-harper-lee-170690"
+          },
+          {
+            "title": "Harper Lee: \"Zabi\u0107 drozda\" \u2013 opis, om\u00f3wienie, analiza, recenzja, opracowanie",
+            "url": "https://www.klasykaliteraturyifilmu.pl/2018/08/09/harper-lee-zabic-drozda-opis-omowienie-analiza-recenzja-opracowanie/"
+          },
+          {
+            "title": "Na marginesie lektury #5 (\u201eZabi\u0107 drozda\u201d)",
+            "url": "https://pracowniaksiazki.wordpress.com/2018/06/11/na-marginesie-lektury-5-zabic-drozda/"
+          }
+        ]
+      },
+      "Based on my search results, I found information about \"Zabi\u0107 drozda\" (To Kill a Mockingbird) in Polish education, though the results don't definitively confirm it as an official matura (high school graduation exam) required reading. Here's what I found:\n\n## \"Zabi\u0107 drozda\" in Polish Education\n\nOne source mentions that the novel was definitely a required reading for English philology students in Poland, but when asked, the author couldn't remember if it was also a required reading in elementary or high school, and their former classmates also couldn't recall it being mandatory.\n\nHowever, another reviewer suggests that \"To Kill a Mockingbird\" should be a required school reading already in elementary school, as the comic book version would be more accessible for children than the book with small print and no pictures.\n\nOne source mentions a tutor who assigned this reading to a student preparing for the eighth-grade exam during summer vacation.\n\n## Book Information\n\nTo Kill a Mockingbird (original title) is a social novel by American writer Harper Lee, published in 1960 and awarded the Pulitzer Prize the following year. It depicts life in a small town in the southern USA during the Great Depression, including the problem of racism.\n\n\"Zabi\u0107 drozda\" was included in the \"Ca\u0142a Polska czyta dzieciom\" (All of Poland Reads to Children) collection in 2008, which indicates its recognition as important literature for young readers in Poland.\n\n## Educational Value\n\nThe novel provides an excellent opportunity to explain to young people what racial segregation in the USA was, where it came from, and how culture and social fabric differed between southern and northern states. It's also valuable for explaining what the Great Depression was, its causes, and which branches of the economy suffered most.\n\nWhile the search results don't confirm \"Zabi\u0107 drozda\" as an official matura exam required reading in the current Polish curriculum, they do show that it's widely read in Polish schools and considered valuable educational literature, particularly for discussions about tolerance, racism, and historical context."
+    ],
+    "durationSeconds": 25.315247944999488
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "session_id": "8e510ca3-dab1-4e58-b10a-336d368b79a7",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e510ca3-dab1-4e58-b10a-336d368b79a7.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Pan Tadeusz Andrzej Wajda 1999 film adaptation reception box office"
+  },
+  "tool_response": {
+    "query": "Pan Tadeusz Andrzej Wajda 1999 film adaptation reception box office",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01Rz9LG5Jq8ZRRPU3RoDxQup",
+        "content": [
+          {
+            "title": "Pan Tadeusz (1999) \u2b50 6.1 | Drama, History, Romance",
+            "url": "https://www.imdb.com/title/tt0170351/"
+          },
+          {
+            "title": "Pan Tadeusz \u2013 Andrzej Wajda | #film | Culture.pl",
+            "url": "https://culture.pl/en/work/pan-tadeusz-andrzej-wajda"
+          },
+          {
+            "title": "Pan Tadeusz - Harvard Film Archive",
+            "url": "https://harvardfilmarchive.org/calendar/pan-tadeusz-2001-03"
+          },
+          {
+            "title": "Sir Thaddeus (1999 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Sir_Thaddeus_(1999_film)"
+          },
+          {
+            "title": "Pan Tadeusz (1999)",
+            "url": "https://m.imdb.com/title/tt0170351/mediaviewer/rm194802432/"
+          },
+          {
+            "title": "Pan Tadeusz de Andrzej Wajda (1999) - Unifrance",
+            "url": "https://en.unifrance.org/movie/20591/pan-tadeusz"
+          },
+          {
+            "title": "Pan Tadeusz | Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/m/pan_tadeusz"
+          },
+          {
+            "title": "Pan Tadeusz (1999 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pan_Tadeusz_(the_movie)"
+          },
+          {
+            "title": "\u200ePan Tadeusz (1999) directed by Andrzej Wajda \u2022 Reviews, film + cast \u2022 Letterboxd",
+            "url": "https://letterboxd.com/film/pan-tadeusz/"
+          },
+          {
+            "title": "An Epic Return for Polish Filmmaking - The Washington Post",
+            "url": "https://www.washingtonpost.com/archive/politics/1999/12/10/an-epic-return-for-polish-filmmaking/1cc2b05e-7128-466e-a1ff-d293011d5093/"
+          }
+        ]
+      },
+      "Based on the search results, here's what I found about Andrzej Wajda's 1999 film adaptation of \"Pan Tadeusz\" regarding its reception and box office performance:\n\n## Box Office Performance\n\nPan Tadeusz was an overwhelming commercial success domestically, with more than 6 million tickets sold to its screenings in Poland, which was significant in allowing for the unprecedented domination of Polish box-office by domestic productions, together with With Fire and Sword. \n\nOn the first weekend 420,000 Poles saw the movie. By mid-November more than three million Poles watched Pan Tadeusz in the 130 movie theaters nationwide.\n\nIn Poland, \"Pan Tadeusz\" was the box office sensation of the Christmas season. In its fifth week, the 2\u00bd-hour film, playing on 25 percent of screens in Poland, surpassed all of last year's Polish ticket sales for \"Titanic\".\n\n## International Reception\n\nHowever, the film's success was largely confined to Poland. Pan Tadeusz did not do what Wajda's other films managed in the past; it was not successful internationally. While Wajda's earlier works were hailed by Western European critics, Pan Tadeusz's success was largely confined to Poland.\n\nPan Tadeusz played in eastern Europe during the latter half of 1999, featured at the Berlin Film Festival, and endured a limited, albeit financially unsuccessful, run in the US early in 2000.\n\n## Awards and Recognition\n\nPan Tadeusz was Poland's official Best Foreign Language Film submission at the 72nd Academy Awards, but did not manage to receive a nomination.\n\nPan Tadeusz did however win awards at The Polish Film: Eagle award 2000. It won Best Film score, Best actress, Best Cinematography, Best Sound, Best Editing and Best Production Design. Andrzej Wajda won a Life Achievement Award at the same ceremony.\n\n## Critical Reception\n\nThe film received mixed reviews, particularly from international audiences. The film loses nearly everything in translation, and some critics noted that its ability to confuse non-Polish-speaking members of the audience with its vast number of characters and their poorly defined interrelationships.\n\nThe film was praised for its visual beauty and Wajda's direction, with one review noting the director did a wonderful job -- the casting seems almost perfect, and Wajda has taken a masterpiece in one genre (poetry) and created a masterpiece in another genre (film)."
+    ],
+    "durationSeconds": 23.151863715999994
+  }
+}

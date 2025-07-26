@@ -1,0 +1,62 @@
+{
+  "session_id": "dfef5421-3cfd-4f13-a992-935c866ee7a0",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/dfef5421-3cfd-4f13-a992-935c866ee7a0.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Romeo and Juliet study guide exam tips Polish students essays themes analysis"
+  },
+  "tool_response": {
+    "query": "Romeo and Juliet study guide exam tips Polish students essays themes analysis",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01JXBq4KxQZti9j7SHXoZvk6",
+        "content": [
+          {
+            "title": "Romeo and Juliet Study Guide | Literature Guide | LitCharts",
+            "url": "https://www.litcharts.com/lit/romeo-and-juliet"
+          },
+          {
+            "title": "Romeo and Juliet Essay Questions | GradeSaver",
+            "url": "https://www.gradesaver.com/romeo-and-juliet/study-guide/essay-questions"
+          },
+          {
+            "title": "Year 10 English Shakespeare's Romeo and Juliet ...",
+            "url": "https://www.cardinalnewmanschool.net/assets/Documents/Departments/English/English-Lit-Romeo-and-Juliet.pdf"
+          },
+          {
+            "title": "Romeo and Juliet: Suggested Essay Topics | SparkNotes",
+            "url": "https://www.sparknotes.com/shakespeare/romeojuliet/essay-topics/"
+          },
+          {
+            "title": "Romeo and Juliet Essay Model Answers - Eduqas GCSE English",
+            "url": "https://www.savemyexams.com/gcse/english-literature/wjec-eduqas/15/revision-notes/shakespeare/romeo-and-juliet/grade-9-romeo-and-juliet-essay-question-model-answer/"
+          },
+          {
+            "title": "Romeo and Juliet: A+ Student Essay | SparkNotes",
+            "url": "https://www.sparknotes.com/shakespeare/romeojuliet/a-plus-essay/"
+          },
+          {
+            "title": "Grade 9 Romeo and Juliet Answer - GCSE English Literature",
+            "url": "https://www.savemyexams.com/gcse/english-literature/wjec-eduqas/15/revision-notes/shakespeare/romeo-and-juliet/how-to-write-a-grade-9-romeo-and-juliet-essay/"
+          },
+          {
+            "title": "Original Romeo and Juliet Essay Topics",
+            "url": "https://essayshark.com/blog/original-romeo-and-juliet-essay-topics/"
+          },
+          {
+            "title": "Romeo and Juliet \u2014 Themes \u2014 CliffsNotes",
+            "url": "https://www.cliffsnotes.com/literature/r/romeo-and-juliet/study-help/essay-questions"
+          },
+          {
+            "title": "Romeo and Juliet Overview - AQA GCSE English Literature",
+            "url": "https://www.savemyexams.com/gcse/english-literature/aqa/17/revision-notes/1-shakespeare/romeo-and-juliet/romeo-and-juliet-overview/"
+          }
+        ]
+      },
+      "I found comprehensive study guide resources for Romeo and Juliet that will be helpful for Polish students preparing for exams and essays. Here's what I discovered:\n\n## Study Guide Resources and Exam Tips\n\nLitCharts offers comprehensive Romeo and Juliet study materials including detailed scene-by-scene analysis and theme explanations. For GCSE exams, students need to write two essays - one based on an extract and one discursive essay question.\n\n## Key Essay Topics and Themes for Analysis\n\nThe search revealed several important themes and essay topics that Polish students should focus on:\n\n### Major Themes:\n- Love and Violence, Fate, Individuals vs. Society, Language and Wordplay, Family and Duty\n- The contrast between order and disorder, which appears from the Prologue and is a common theme throughout\n- The concept of \"star-crossed lovers\" and whether the characters are destined by fate or responsible for their actions\n\n### Essay Question Examples:\n- How the suicidal impulse relates to the theme of young love and whether Shakespeare considers self-destructive tendencies connected with love\n- Parent-child relationships and how Romeo and Juliet interact with their parents\n- Whether Romeo and Juliet experienced real love and their responsibility for the tragic ending\n\n## Exam Writing Tips\n\nThe most important strategy is to avoid jumping straight into writing before having a firm grasp of the question. Examiners award highest marks to students who create a \"coherent line of argument\" and maintain \"focus on the question\".\n\n### Structure Recommendations:\n- Include an introduction with a clear thesis statement, organized paragraphs, and a conclusion\n- For extract questions, explore the whole passage from beginning to end while maintaining knowledge of the complete play\n- References to specific moments in the play are as valid as direct quotations\n\n## Character Analysis Focus\n\nMercutio is considered one of Shakespeare's greatest inventions, serving both dramatic function and as a multi-faceted individual. Students should also analyze the role of women in Romeo and Juliet and how this role dictates their behavior and decisions.\n\nThese resources provide Polish students with comprehensive guidance for understanding themes, structuring essays, and approaching exam questions effectively."
+    ],
+    "durationSeconds": 22.786691190999
+  }
+}

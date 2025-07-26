@@ -1,0 +1,63 @@
+{
+  "session_id": "bca0f9c4-aba0-4606-9d12-d305df5c1a73",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/bca0f9c4-aba0-4606-9d12-d305df5c1a73.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"To Kill a Mockingbird\" inspired famous people celebrities influenced Barack Obama Oprah Winfrey"
+  },
+  "tool_response": {
+    "query": "\"To Kill a Mockingbird\" inspired famous people celebrities influenced Barack Obama Oprah Winfrey",
+    "results": [
+      "I'll search for information about famous people and celebrities who were inspired or influenced by \"To Kill a Mockingbird,\" including Barack Obama and Oprah Winfrey.",
+      {
+        "tool_use_id": "srvtoolu_01MFb2VDiUbbfqo3C1xZoWKe",
+        "content": [
+          {
+            "title": "To Kill a Mockingbird - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird"
+          },
+          {
+            "title": "Screening \"To Kill A Mockingbird\" at the White House | whitehouse.gov",
+            "url": "https://obamawhitehouse.archives.gov/blog/2012/04/27/screening-kill-mockingbird-white-house"
+          },
+          {
+            "title": "To Kill a Mockingbird in popular culture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_in_popular_culture"
+          },
+          {
+            "title": "Hey, Boo: Reflections on the Masterpiece: To Kill a Mockingbird | Facing History & Ourselves",
+            "url": "https://www.facinghistory.org/resource-library/hey-boo-reflections-masterpiece-kill-mockingbird"
+          },
+          {
+            "title": "'To Kill a Mockingbird' star Mary Badham reveals why Barack Obama reminded her of Gregory Peck",
+            "url": "https://www.yahoo.com/entertainment/kill-mockingbird-star-mary-badham-says-barack-obama-reminded-gregory-peck-154805804.html"
+          },
+          {
+            "title": "10 Incredible Facts About Oprah Winfrey",
+            "url": "https://www.mentalfloss.com/posts/oprah-winfrey-facts"
+          },
+          {
+            "title": "10 Famous Authors on To Kill Mockingbird - B&N Reads",
+            "url": "https://www.barnesandnoble.com/blog/10-famous-authors-on-to-kill-mockingbird/"
+          },
+          {
+            "title": "Oprah on To Kill a Mockingbird's 50th anniversary",
+            "url": "https://www.baltimoresun.com/bs-mtblog-2010-06-oprah_on_to_kill_a_mockingbird-story.html"
+          },
+          {
+            "title": "Conversation: 'To Kill a Mockingbird' Turns 50",
+            "url": "https://www.pbs.org/newshour/arts/conversation-to-kill-a-mockingbird-turns-50"
+          },
+          {
+            "title": "Obama quotes Atticus Finch from 'To Kill a Mockingbird'",
+            "url": "https://www.washingtonpost.com/video/politics/obama-quotes-atticus-finch-from-to-kill-a-mockingbird/2017/01/10/c9151c06-d7a8-11e6-a0e6-d502d6751bc8_video.html"
+          }
+        ]
+      },
+      "Based on my search results, I found extensive information about famous people and celebrities who were influenced by \"To Kill a Mockingbird,\" including Barack Obama and Oprah Winfrey. Here's what I discovered:\n\n## Barack Obama's Connection to \"To Kill a Mockingbird\"\n\nPresident Obama commemorated the 50th Anniversary of \"To Kill a Mockingbird\"\u2014a 1962 film adaptation of author Harper Lee's 1960 novel about racial inequality in the deep south\u2014by hosting a screening in the Family Theater at the White House in April 2012. \n\n\"Each one of us needs to try to heed the advice of a great character in American fiction, Atticus Finch,\" said President Obama during his farewell speech on Jan. 10. \"'You never really understand a person until you consider things from his point of view. Until you climb into his skin and walk around in it.'\"(no content)When I brought up the comparison with Badham, who met Obama at a 2012 White House screening of To Kill a Mockingbird, she burst out laughing. \"And it's funny because having been with the president, I had the same thought when we were together. He's got that sense of humor. He puts people at ease as soon as he walks in the door.\" Mary Badham, who played Scout in the film, noted similarities between Obama and Gregory Peck's character Atticus Finch.\n\n## Oprah Winfrey's Deep Connection to the Novel\n\nWinfrey learned to read before the age of 3, and her favorite novel of all time is To Kill a Mockingbird by Harper Lee. She first read the book as a child living with her mother in Milwaukee, Wisconsin, and checked it out at a local library upon a librarian's recommendation.(no content)\"So I picked up To Kill A Mockingbird,\" Oprah wrote in The Guardian in 2015. \"I remember starting it and just devouring it, not being able to get enough of it, because I fell in love with Scout. I thought I was Scout. I always took on or wanted to take on the characteristics of whoever I was reading about, and so I wanted to be Scout and I wanted a father like Atticus Finch.\"(no content)\"I think it is our national novel.\" \u2014Oprah Winfrey(no content)Oprah Winfrey also weighs in, revealing that \"To Kill a Mockingbird\" may have been a spark for her book club.(no content)Oprah Winfrey tried to coax Harper Lee onto her talk show, and they met for lunch in New York City. And Oprah told me that within 20 minutes she knew that there was no way in the world she would be getting an interview. And in fact Harper Lee had said to her, if you know the character Boo Radley, then you know why I won't be giving you an interview. And Oprah said she immediately thought, ok, Boo Radley is not coming on my show.\n\n## Other Famous People Influenced by the Novel\n\nThe book features interviews with Mary Badham, Tom Brokaw, Oprah Winfrey, Anna Quindlen, Richard Russo, as well as Harper Lee's sister, Alice Finch Lee. These celebrities shared their experiences with the novel in \"Scout, Atticus, & Boo: A Celebration of Fifty Years of To Kill a Mockingbird.\"\n\nMurphy talked to several writers and celebrities about the book's influence and legacy, including Tom Brokaw, James Patterson, Richard Russo, Scott Turow and Oprah Winfrey.(no content)Tom Brokaw talking about life in a small town, as he had grown up in a small town, or Roseanne Cash, the singer and memoirist, discussing what a great parenting manual \"To Kill a Mockingbird\" is or Jon Meacham, who wrote the Pulitzer Prize-winning biography of Andrew Jackson, talking about the way it applied to race in his Tennessee town when he read it, which was actually not that long ago, everyone had something new to say. Wally Lamb said it taught him how to write a novel, Richard Russo talked a lot about parenting, as well, and about Atticus being the father he yearned for\n\nThe novel has had a profound impact on numerous celebrities and public figures, with many citing it as formative to their understanding of justice, morality, and American society. Its influence extends across political leaders, media personalities, and authors, demonstrating its enduring relevance and power."
+    ],
+    "durationSeconds": 42.42020957200043
+  }
+}

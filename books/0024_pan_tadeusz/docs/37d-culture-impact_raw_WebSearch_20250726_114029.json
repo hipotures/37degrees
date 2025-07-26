@@ -1,0 +1,62 @@
+{
+  "session_id": "8e510ca3-dab1-4e58-b10a-336d368b79a7",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e510ca3-dab1-4e58-b10a-336d368b79a7.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Pan Tadeusz digital humanities Project Gutenberg Google Arts Culture archive.org"
+  },
+  "tool_response": {
+    "query": "Pan Tadeusz digital humanities Project Gutenberg Google Arts Culture archive.org",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01T3Ac7zqea9ebhzhLs177m3",
+        "content": [
+          {
+            "title": "Pan Tadeusz : Jan Szymanski : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/pan-tadeusz_1928"
+          },
+          {
+            "title": "Pan Tadeusz; or The last foray in Lithuania; a story of life among Polish gentlefolk in the years 1811 and 1812 : Mickiewicz, Adam, 1798-1855 : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/pantadeuszorlast00mick"
+          },
+          {
+            "title": "Pan Tadeusz : Mickiewicz, Adam, 1798-1855 : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/pantadeusz0000mick"
+          },
+          {
+            "title": "Pan Tadeusz",
+            "url": "https://www.gutenberg.org/files/28240/28240-pdf.pdf"
+          },
+          {
+            "title": "Full text of \"Pan Tadeusz Adama Mickiewicza: studyum estetyczno-literackie\"",
+            "url": "https://archive.org/stream/pantadeuszadama00bieggoog/pantadeuszadama00bieggoog_djvu.txt"
+          },
+          {
+            "title": "Pan Tadeusz Adama Mickiewicza : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/jbc.bj.uj.edu.pl.NDIGDRUK014644"
+          },
+          {
+            "title": "Polonez Pan Tadeusz : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/polonez-pan-tadeusz"
+          },
+          {
+            "title": "Project Gutenberg - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Project_Gutenberg"
+          },
+          {
+            "title": "Full text of \"Pan Tadeusz Or, the Last Foray in Lithuania; a Story of Life Among Polish Gentlefolk in the Years 1811 and 1812\"",
+            "url": "https://archive.org/stream/pantadeuszorthel28240gut/28240-pdf_djvu.txt"
+          },
+          {
+            "title": "The Project Gutenberg EBook of Pan Tadeusz by Adam Mickiewicz",
+            "url": "https://www.gutenberg.org/files/28240/28240-h/28240-h.html"
+          }
+        ]
+      },
+      "The search results reveal several digital humanities resources related to Pan Tadeusz by Adam Mickiewicz across the platforms you mentioned:\n\n## Archive.org\nArchive.org hosts multiple versions of Pan Tadeusz, including:\n- A translation titled \"Pan Tadeusz; or The last foray in Lithuania; a story of life among Polish gentlefolk in the years 1811 and 1812\" (xxiv, 354 p.)\n- A Polish version (598 p.)\n- Full text versions available for study, including academic analysis\n- A \"Polonez Pan Tadeusz\" audio recording\n\n## Project Gutenberg\nProject Gutenberg is a volunteer effort to digitize cultural works, focusing on public domain texts. Pan Tadeusz is available as a free eBook with almost no restrictions, available for copying and reuse under the Project Gutenberg License. The work is identified as \"Project Gutenberg eBook Pan Tadeusz\" and includes both PDF and HTML formats.\n\n## Literary Significance\nPan Tadeusz is considered \"the only successful epic our century has produced\" and is uniquely national and popular among Polish literature. Almost every literate Pole is familiar with its contents, making it more widely known and beloved than Shakespeare's plays are to the English.\n\nThe search didn't return specific results for Google Arts & Culture, but it confirmed that Pan Tadeusz is extensively digitized and available through major digital humanities platforms like Archive.org and Project Gutenberg, making it accessible for scholarly research and public engagement."
+    ],
+    "durationSeconds": 15.92057089699991
+  }
+}

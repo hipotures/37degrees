@@ -1,0 +1,63 @@
+{
+  "session_id": "bca0f9c4-aba0-4606-9d12-d305df5c1a73",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/bca0f9c4-aba0-4606-9d12-d305df5c1a73.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"To Kill a Mockingbird\" civil rights movement 1960s impact influence Martin Luther King"
+  },
+  "tool_response": {
+    "query": "\"To Kill a Mockingbird\" civil rights movement 1960s impact influence Martin Luther King",
+    "results": [
+      "I'll search for information about the impact and influence of \"To Kill a Mockingbird\" on the civil rights movement and Martin Luther King Jr. in the 1960s.",
+      {
+        "tool_use_id": "srvtoolu_01Gm1BULLwSscWFYPPfGn8Gv",
+        "content": [
+          {
+            "title": "To Kill A Mockingbird and Civil Rights Drama | Society for US Intellectual History",
+            "url": "https://s-usih.org/2015/07/to-kill-a-mockingbird-and-civil-rights-drama/"
+          },
+          {
+            "title": "The Civil Rights Movement and 'To Kill a Mockingbird'",
+            "url": "https://time.com/3928162/mockingbird-civil-rights-movement/"
+          },
+          {
+            "title": "The Civil Rights Movement and To Kill a Mockingbird - 1015 Words | Bartleby",
+            "url": "https://www.bartleby.com/essay/The-Civil-Rights-Movement-and-To-Kill-P3EZRZS5HKGEY"
+          },
+          {
+            "title": "To Kill A Mockingbird Impact On Civil Rights | ipl.org",
+            "url": "https://www.ipl.org/essay/To-Kill-A-Mockingbird-Impact-On-Civil-E0B1E2C96C262273"
+          },
+          {
+            "title": "To Kill a Mockingbird: About | Study Guide | Lit Note | CliffsNotes",
+            "url": "https://www.cliffsnotes.com/literature/t/to-kill-a-mockingbird/about-to-kill-a-mockingbird"
+          },
+          {
+            "title": "Au Revoir To Kill a Mockingbird \u2013 Marquette University Law School Faculty Blog",
+            "url": "https://law.marquette.edu/facultyblog/2022/03/au-revoir-to-kill-a-mockingbird/"
+          },
+          {
+            "title": "To Kill A Mockingbird Martin Luther King Analysis | ipl.org",
+            "url": "https://www.ipl.org/essay/To-Kill-A-Mockingbird-Martin-Luther-King-P3M3FSPBG5PV"
+          },
+          {
+            "title": "To Kill a Mockingbird - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird"
+          },
+          {
+            "title": "Civil Rights Movement in To Kill a Mockingbird by Harper Lee | Bartleby",
+            "url": "https://www.bartleby.com/essay/Civil-Rights-Movement-in-To-Kill-a-FKWBV44C8MRA"
+          },
+          {
+            "title": "To Kill A Mockingbird Themes, Symbols, Motifs & Character Analysis",
+            "url": "https://www.gale.com/open-access/to-kill-a-mockingbird"
+          }
+        ]
+      },
+      "Based on the search results, I can provide comprehensive information about the impact and influence of \"To Kill a Mockingbird\" on the civil rights movement and its connection to Martin Luther King Jr. in the 1960s.\n\n## Impact on the Civil Rights Movement\n\nThe novel is cited as a factor in the success of the civil rights movement in the 1960s, in that it \"arrived at the right moment to help the South and the nation grapple with the racial tensions (of) the accelerating civil rights movement\". Its publication is so closely associated with the Civil Rights Movement that many studies of the book and biographies of Harper Lee include descriptions of important moments in the movement, despite the fact that she had no direct involvement in any of them.\n\nTo Kill a Mockingbird was written and published in 1960, \"in the midst of the Civil Rights Movement\". This time was just a few years after events like the murder of Emmett Till, a fourteen year old boy accused of whistling at a white woman, the Montgomery Bus Boycott, and the ruling in Alabama that segregation on buses is unconstitutional happened.\n\n## Connection to Martin Luther King Jr.\n\nReverend Martin Luther King Jr., no less, would write in his book Why We Can't Wait, about \"the strength of moral force,\" and how, \"To the Negro in 1963, as to Atticus Finch, it had become obvious that nonviolence could symbolize the gold badge of heroism rather than the white feather of cowardice.\" This direct reference by Dr. King demonstrates how the novel's protagonist served as a symbol of moral courage during the civil rights movement.\n\nTo kill a mockingbird came out on December 25, 1962 and eight months later Martin Luther King gave his speech that he wanted his children to be judged by the \"content of their character\". In 1962 and 1963 the story of Atticus finch was front and center.\n\n## Key Influences of the Novel\n\n### 1. **Raising Awareness of Racial Injustice**\nOne of the ways in which \"To Kill a Mockingbird\" influenced the Civil Rights Movement was by bringing attention to the issue of racial injustice. The book's portrayal of a black man falsely accused of rape and the subsequent trial that ensues highlights the pervasive racism of the time. This depiction of the legal system's failure to provide justice for African Americans was particularly relevant in the context of the Civil Rights Movement, as activists were fighting for equal treatment under the law.\n\n### 2. **Model for Resistance**\nAnother way in which the book influenced the movement was by providing a model for resistance against racial oppression. The character of Atticus Finch, a white lawyer who defends the accused black man in the novel, represents a courageous and principled individual whose example resonated with civil rights activists.\n\n### 3. **Cultural and Interpretive Framework**\nTo Kill a Mockingbird, along with Judgment at Nuremberg and countless other courtroom dramas, in fiction and in film, not only provided \"fertile ground\" for many Americans' acceptance of the civil rights movement, but also greatly influenced their understanding of the civil rights demonstration, so that the demonstrations themselves became rather simplistic racial melodramas in which the activists' symbolic reversal of the lynching ritual became commodified in a much more palatable form.\n\n## Broader Civil Rights Context\n\nCivil Rights leader Andrew Young comments that part of the book's effectiveness is that it \"inspires hope in the midst of chaos and confusion\" and by using racial epithets portrays the reality of the times in which it was set. Young views the novel as \"an act of humanity\" in showing the possibility of people rising above their prejudices.\n\nThe fictional town of Maycomb is in Alabama, the same state where Martin Luther King Jr. would rise to be the voice of African Americans aching for equality. The actual movement may have started in 1960 but that is the same year that To Kill a Mockingbird was published and huge events were rupturing the south, throughout the novel readers can see the attitude of a want and need for equality in characters and some events.\n\n## Legal and Professional Impact\n\nOne of the most significant impacts To Kill a Mockingbird has had is Atticus Finch's model of integrity for the legal profession. As scholar Alice Petry explains, \"Atticus has become something of a folk hero in legal circles and is treated almost as if he were an actual person.\" Morris Dees of the Southern Poverty Law Center cites Atticus Finch as the reason he became a lawyer, and Richard Matsch, the federal judge who presided over the Timothy McVeigh trial, counts Atticus as a major judicial influence.\n\nThe novel's publication during this pivotal moment in American history helped shape public opinion about racial justice and provided a moral framework for understanding the civil rights struggle, with its themes directly referenced by Martin Luther King Jr. himself in his writings about nonviolent resistance."
+    ],
+    "durationSeconds": 49.88082388599962
+  }
+}

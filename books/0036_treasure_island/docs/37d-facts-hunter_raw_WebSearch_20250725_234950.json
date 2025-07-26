@@ -1,0 +1,62 @@
+{
+  "session_id": "38d2c10d-061a-4607-b249-863b58008013",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/38d2c10d-061a-4607-b249-863b58008013.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Treasure Island\" creation history publication manuscript Stevenson 1883 scholarly sources"
+  },
+  "tool_response": {
+    "query": "\"Treasure Island\" creation history publication manuscript Stevenson 1883 scholarly sources",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01Cs6cfe3wC77TSAmt7op3QD",
+        "content": [
+          {
+            "title": "Treasure Island, 1883 | Robert Louis Stevenson",
+            "url": "https://robert-louis-stevenson.org/works/treasure-island-1883/"
+          },
+          {
+            "title": "Treasure Island - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Treasure_Island"
+          },
+          {
+            "title": "Treasure Island (1883) A NOVEL by Robert Louis Stevenson (Original Version) - Kindle edition by Louis Stevenson, Robert. Literature & Fiction Kindle eBooks @ Amazon.com.",
+            "url": "https://www.amazon.com/Treasure-Island-Stevenson-Original-Version-ebook/dp/B015SN0XJQ"
+          },
+          {
+            "title": "Stevenson, Treasure Island, 1883 | English Literature, History, Children\u2019s Books and Illustrations | Books & Manuscripts | Sotheby's",
+            "url": "https://www.sothebys.com/en/buy/auction/2019/english-literature-history-childrens-books-and-illustrations/stevenson-treasure-island-1883"
+          },
+          {
+            "title": "Treasure Island by Robert Louis Stevenson - Suntup Editions",
+            "url": "https://suntup.press/treasure-island/"
+          },
+          {
+            "title": "Treasure Island by Robert Louis Stevenson",
+            "url": "https://conversationtreepress.com/pages/treasure-island-rl-stevenson"
+          },
+          {
+            "title": "Treasure Island First Edition: Rare Books & Signed First Editions by Louis Robert Stevenson. Peter Harrington Rare & First Edition Books.",
+            "url": "https://www.peterharrington.co.uk/authors/s/robert-louis-stevenson"
+          },
+          {
+            "title": "Robert Louis Stevenson's Treasure Island | World of History",
+            "url": "https://worldofhistorycheatsheet.com/robert-louis-stevensons-treasure-island/"
+          },
+          {
+            "title": "Robert Louis Stevenson, Treasure Island (1881\u20132; 1883) | Request PDF",
+            "url": "https://www.researchgate.net/publication/313017209_Robert_Louis_Stevenson_Treasure_Island_1881-2_1883"
+          },
+          {
+            "title": "Treasure Island : Stevenson, Robert Louis, 1850-1894 : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/treasureisland02stev"
+          }
+        ]
+      },
+      "Based on my web search, I found comprehensive information about the creation history and publication of Robert Louis Stevenson's \"Treasure Island\" from multiple scholarly and reliable sources. Here's what the search revealed:\n\n## Creation and Publication History\n\nTreasure Island was written by Stevenson after returning from his first trip to America where he was married. Still a relatively unknown author, inspiration came in summer of 1881 in Braemar, Scotland when bad weather kept the family inside. To amuse his 12-year old stepson, Lloyd Osbourne, he used the idea of a secret map as the basis of a story about hidden treasure.(no content)He had clearly started work by 25 August, writing to a friend, \"If this don't fetch the kids, why, they have gone rotten since my day. Will you be surprised to learn that it is about Buccaneers, that it begins in the Admiral Benbow public house on the Devon coast, that it's all about a map and a treasure and a mutiny and a derelict ship... It's quite silly and horrid fun \u2013 and what I want is the best book about Buccaneers that can be had.\"\n\n## Original Title and Serialization\n\nStevenson originally gave the book the title The Sea Cook.(no content)The novel was originally serialised from 1881 to 1882 in the children's magazine Young Folks under the title Treasure Island or the Mutiny of the Hispaniola, credited to the pseudonym \"Captain George North\".(no content)The novel eventually ran in seventeen weekly instalments from 1 October 1881 to 28 January 1882.\n\n## Manuscript and Map History\n\nStevenson's stepson, Lloyd Osbourne, was involved in the creation of the map. The two of them were playing around with sketches, and Stevenson began to draw a map that depicted an island with a mysterious layout, complete with various features like the \"Spy-glass Hill\" and \"Skeleton Island.\" This map captivated Stevenson so much that it inspired the story itself, shaping the novel's setting and events. Unfortunately, the original map was lost when the manuscript was sent to the publishers, forcing Stevenson to recreate it from memory. The recreated map is the one that was eventually published with the book, but it was slightly different from the original.\n\n## 1883 Book Publication\n\nIt was first published as a book on 14 November 1883 by Cassell & Co.(no content)Treasure Island had originally been serialized (under the pseudonym Captain George North) in Young Folks between October 1881 and January 1882. Remarkably it attracted little attention, but when it was published in book form as here in November 1883 it attracted a chorus of praise and has never been out of print since.\n\n## Literary Influences and Sources\n\nIn a letter from July 1884 to Sidney Colvin, he wrote that, \"Treasure Island came out of Kingsley's At Last, where I got the Dead Man's Chest \u2014 and that was the seed \u2014 and out of the great Captain Johnson's History of the Notorious Pirates.\"(no content)Stevenson also admits that he took the idea of Captain Flint's pointing skeleton from Poe's The Gold-Bug and he constructed Billy Bones's history from the \"Money-Diggers\" section (\"Golden Dreams\" in particular) of Tales of a Traveller by Washington Irving, one of his favourite writers.\n\n## Reception and Legacy\n\nThe book was later republished as the novel Treasure Island and proved to be Stevenson's first financial and critical success.(no content)It was with the publication of Treasure Island in 1883, however, that Stevenson achieved wide recognition and fame.\n\nThe search results provide extensive scholarly information about the novel's genesis, from its origins as entertainment for Stevenson's stepson to its transformation into one of the most influential adventure novels in English literature."
+    ],
+    "durationSeconds": 34.019150193999984
+  }
+}

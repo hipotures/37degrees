@@ -1,0 +1,62 @@
+{
+  "session_id": "4029c48e-0ae1-4fb8-ac64-0a5ca0afe9c3",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/4029c48e-0ae1-4fb8-ac64-0a5ca0afe9c3.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Pride and Prejudice character symbolism Elizabeth Bennet Mr Darcy Wickham Lydia Jane symbolic meaning"
+  },
+  "tool_response": {
+    "query": "Pride and Prejudice character symbolism Elizabeth Bennet Mr Darcy Wickham Lydia Jane symbolic meaning",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01ETLjWBsuhK2nU4yu4fTFoK",
+        "content": [
+          {
+            "title": "Pride and Prejudice Characters - GCSE English Literature",
+            "url": "https://www.savemyexams.com/gcse/english-literature/aqa/17/revision-notes/2-the-19th-century-novel/pride-and-prejudice/pride-and-prejudice-characters/"
+          },
+          {
+            "title": "Pride and Prejudice: Symbols | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/pride/symbols/"
+          },
+          {
+            "title": "Pride and Prejudice - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice"
+          },
+          {
+            "title": "Pride and Prejudice: Character List | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/pride/characters/"
+          },
+          {
+            "title": "Jane Austen\u2019s Most Widely Mocked Character is Also Her Most Subversive",
+            "url": "https://lithub.com/jane-austens-most-widely-mocked-character-is-also-her-most-subversive/"
+          },
+          {
+            "title": "Pride and Prejudice | Summary, Characters, Author, Book, Movie, Quotes, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/Pride-and-Prejudice"
+          },
+          {
+            "title": "Pride and Prejudice Character Analysis | LitCharts",
+            "url": "https://www.litcharts.com/lit/pride-and-prejudice/characters"
+          },
+          {
+            "title": "Pride and Prejudice: Analysis of Major Characters | EBSCO Research Starters",
+            "url": "https://www.ebsco.com/research-starters/literature-and-writing/pride-and-prejudice-analysis-major-characters"
+          },
+          {
+            "title": "Jane Austen: Pride and Prejudice -- Index of Characters",
+            "url": "https://pemberley.com/janeinfo/ppdrmtis.html"
+          },
+          {
+            "title": "Characters in Pride and Prejudice | Characteristics & Analysis | Study.com",
+            "url": "https://study.com/learn/lesson/characters-pride-and-prejudice-analysis-significance.html"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with insights into the character symbolism in Pride and Prejudice:\n\n## Elizabeth Bennet - Symbol of Independent Judgment and Growth\n\nElizabeth Bennet is the intelligent, lively, and spirited heroine who initially harbors prejudice against Darcy due to his perceived pride and the misleading accounts of Mr. Wickham. She symbolizes the importance of overcoming first impressions and personal growth through self-reflection.\n\n## Mr. Darcy - Symbol of Pride Overcome by Love\n\nThough Darcy is intelligent and honest, his excess of pride causes him to look down on his social inferiors. Over the course of the novel, he tempers his class-consciousness and learns to admire and love Elizabeth for her strong character. Mr Darcy's character evolution symbolises a shift in societal expectations and the possibility of change in attitudes toward social class and personal growth.\n\n## Jane Bennet - Symbol of Virtue and Gentleness\n\nThe eldest and most beautiful Bennet sister. Jane is more reserved and gentler than Elizabeth. She adapts to her separation from Mr Bingley with grace and resilience: Her calm demeanour contrasts with the more dramatic moments involving her sisters. Jane symbolizes patience, kindness, and the reward that comes to those who maintain their virtue.\n\n## George Wickham - Symbol of Deceptive Charm\n\nA handsome, fortune-hunting militia officer. Wickham's good looks and charm attract Elizabeth initially, but Darcy's revelation about Wickham's disreputable past clues her in to his true nature. Austen reveals he is manipulative and self-interested, using his charms to deceive: Wickham's true character is gradually revealed to be less virtuous than initially presented. He symbolizes the danger of superficial attraction and the importance of looking beyond appearances.\n\n## Lydia Bennet - Symbol of Reckless Youth and Consequences\n\nShe is frivolous, headstrong, irresponsible, and spoiled. Her main activity in life is socialising, especially flirting with the officers of the militia. This leads to her running off with George Wickham, although he has no intention of marrying her. Lydia shows no regard for the moral code of her society. Lydia's character serves as a warning of the risks and the consequences young ladies face if they behave the way she does.\n\n## Symbolic Patterns\n\nThe characters also function symbolically in relation to marriage choices: Charlotte Lucas makes a calculated marriage to Mr. Collins because it will assure her a comfortable life. In contrast, Lydia rushes into marriage with Wickham because she focuses on her strong passion for him without accounting for reputation or financial issues. Both Jane and Elizabeth's marriages take into account chemistry with their spouses and financial security.\n\nThese character symbols work together to explore themes of personal growth, the importance of looking beyond surface appearances, and the balance between reason and emotion in making life choices."
+    ],
+    "durationSeconds": 25.572146274000406
+  }
+}

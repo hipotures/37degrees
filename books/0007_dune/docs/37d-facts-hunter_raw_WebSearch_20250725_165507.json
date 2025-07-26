@@ -1,0 +1,61 @@
+{
+  "session_id": "2dcb2a8f-b11d-466d-8a59-c7f92df6d7a0",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/2dcb2a8f-b11d-466d-8a59-c7f92df6d7a0.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Diuna gry komputerowe Polska graczy spo\u0142eczno\u015b\u0107 gaming Dune games Polish"
+  },
+  "tool_response": {
+    "query": "Diuna gry komputerowe Polska graczy spo\u0142eczno\u015b\u0107 gaming Dune games Polish",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01VcgqNnwcqsomv64D9LUSMe",
+        "content": [
+          {
+            "title": "Dune: Spice Wars na Steam",
+            "url": "https://store.steampowered.com/app/1605220/Dune_Spice_Wars/?l=polish"
+          },
+          {
+            "title": "Dune (edycja polska)",
+            "url": "https://www.rebel.pl/gry-planszowe/dune-edycja-polska-2001744.html"
+          },
+          {
+            "title": "Diuna PC - najlepsze gry o pustynnej planecie i mody, kt\u00f3re je ulepszaj\u0105 | GRYOnline.pl",
+            "url": "https://www.gry-online.pl/newsroom/diuna-pc-najlepsze-gry-o-pustynnej-planecie-i-mody-ktore-je-uleps/z920aae"
+          },
+          {
+            "title": "Dune (seria) \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Dune_(seria)"
+          },
+          {
+            "title": "Dune: Awakening na Steam",
+            "url": "https://store.steampowered.com/app/1172710/Dune_Awakening/?l=polish"
+          },
+          {
+            "title": "Dune - Gry - Allegro.pl",
+            "url": "https://allegro.pl/kategoria/gry?string=dune"
+          },
+          {
+            "title": "Dune PC | GRYOnline.pl",
+            "url": "https://www.gry-online.pl/gry/dune/z0b8f"
+          },
+          {
+            "title": "Dune: Imperium na Steam",
+            "url": "https://store.steampowered.com/app/1689500/Dune_Imperium/?l=polish"
+          },
+          {
+            "title": "Seria Dune - seria gier | GRYOnline.pl",
+            "url": "https://www.gry-online.pl/gry/seria-dune/z66"
+          },
+          {
+            "title": "Dune | Angry BoardGamer",
+            "url": "https://angryboardgamer.pl/dune/"
+          }
+        ]
+      }
+    ],
+    "durationSeconds": 6.695724211999972
+  }
+}

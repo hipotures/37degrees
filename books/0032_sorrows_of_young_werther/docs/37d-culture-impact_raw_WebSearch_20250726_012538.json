@@ -1,0 +1,63 @@
+{
+  "session_id": "0262f963-d6f8-4237-8daf-cd971b19d54f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0262f963-d6f8-4237-8daf-cd971b19d54f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "social media oversharing validation seeking digital stalking gen z behavior 2025"
+  },
+  "tool_response": {
+    "query": "social media oversharing validation seeking digital stalking gen z behavior 2025",
+    "results": [
+      "I'll search for information about social media oversharing, validation seeking, digital stalking, and Gen Z behavior in 2025.",
+      {
+        "tool_use_id": "srvtoolu_012xiaHGAddxPZYEPBzfVkyF",
+        "content": [
+          {
+            "title": "Oversharing Behavior in Gen Z on Social Media | SHS Web of Conferences",
+            "url": "https://www.shs-conferences.org/articles/shsconf/abs/2025/03/shsconf_icarsess2024_04022/shsconf_icarsess2024_04022.html"
+          },
+          {
+            "title": "Oversharing Behavior in Gen Z on Social Media",
+            "url": "https://www.shs-conferences.org/articles/shsconf/pdf/2025/03/shsconf_icarsess2024_04022.pdf"
+          },
+          {
+            "title": "(PDF) Oversharing Behavior in Gen Z on Social Media",
+            "url": "https://www.researchgate.net/publication/389567520_Oversharing_Behavior_in_Gen_Z_on_Social_Media"
+          },
+          {
+            "title": "Gen Z and Millennials Accept Online Creeping and Stalking as Part of Dating Culture",
+            "url": "https://www.prnewswire.com/news-releases/gen-z-and-millennials-accept-online-creeping-and-stalking-as-part-of-dating-culture-301740012.html"
+          },
+          {
+            "title": "Gen Z Media Consumption 2025: Social Media & What\u2019s Next | Attest",
+            "url": "https://www.askattest.com/blog/research/gen-z-media-consumption"
+          },
+          {
+            "title": "Gen Z\u2019s Social Media Usage in 2025 | Later",
+            "url": "https://later.com/blog/gen-z-social-media-usage/"
+          },
+          {
+            "title": "Oversharing on Social Media: Anxiety, Attention-Seeking, and Social Media Addiction Predict the Breadth and Depth of Sharing - PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35993372/"
+          },
+          {
+            "title": "How Gen Z uses social media and what that means for brands",
+            "url": "https://sproutsocial.com/insights/gen-z-social-media/"
+          },
+          {
+            "title": "Social media and mental health: The impact on Gen Z | McKinsey",
+            "url": "https://www.mckinsey.com/mhi/our-insights/gen-z-mental-health-the-impact-of-tech-and-social-media"
+          },
+          {
+            "title": "Are you being authentic, or oversharing and chasing clout? | Philstar.com",
+            "url": "https://www.philstar.com/opinion/2024/01/23/2327755/are-you-being-authentic-or-oversharing-and-chasing-clout"
+          }
+        ]
+      },
+      "Based on the search results, here are the key findings about social media oversharing, validation seeking, digital stalking, and Gen Z behavior in 2025:\n\n## Oversharing Behavior in Gen Z\n\nKey influences include the need for social validation, fear of missing out (FOMO), and the desire for a strong digital presence.(no content)Oversharing on social media has become a prevalent behavior among Generation Z, driven by psychological, social, and technological factors. This study explores the motivations behind excessive self-disclosure, using surveys and interviews to analyze its causes and consequences.(no content)Anxiety, attention-seeking, and social media addiction were significantly associated with elevated levels of online oversharing. Research shows that while oversharing can foster social connections and a sense of belonging, it also poses risks such as privacy breaches, cyberbullying, and mental health issues.\n\n## Validation Seeking and Social Media Usage\n\nGen Z has noticeably felt comfortable sharing a lot about their lives and posting all about it. From the trauma dump GRWM's, the detailed X threads and the Notes app reveals, it's a generation that's much more blunt and honest about their feelings, emotions and thoughts about the world around them.(no content)Many say it's a compulsion to overshare because aside from platforms encouraging the behavior, posting on social media can provide comfort, representation and self-expression, making it easier with an invisible audience.\n\n## Digital Stalking and Online Behavior\n\nWhile the search results mention \"digital stalking\" in one title about Gen Z and Millennials accepting \"online creeping and stalking as part of dating culture\" from February 2023, there isn't detailed recent information about this specific aspect in 2025.\n\n## Gen Z's Social Media Habits in 2025\n\nAccording to The 2025 Sprout Social Index\u2122, 89% of Gen Z social media users are on Instagram, 84% are on YouTube and another 82% are on TikTok, making these platforms the most popular for Zoomers.(no content)Forty-eight percent of Gen Z consumers plan to make more purchases through social media in 2025 compared to 2024, according to the Q4 2024 Sprout Pulse Survey.\n\nHowever, there's also a countertrend: The Q1 2024 Sprout Pulse Survey found that 57% of Gen Z took a detox in 2023 and 63% planned to in 2024\u2014the highest of any generation.\n\n## Mental Health Impacts\n\nWhen compared with their male counterparts, a higher proportion of female Gen Zers said social media had a negative impact on FOMO (32 percent versus 22 percent), body image (32 percent versus 16 percent), and self-confidence (24 percent versus 13 percent).(no content)To mitigate these risks, the study suggests media literacy education and awareness campaigns promoting responsible social media use.(no content)Future research should examine the long-term effects of oversharing on Generation Z and explore effective interventions to enhance digital resilience.\n\nThe research indicates that Gen Z's relationship with social media in 2025 is complex, marked by both heavy engagement and growing awareness of its negative impacts, leading to a push for more balanced and mindful usage."
+    ],
+    "durationSeconds": 32.58624422500003
+  }
+}

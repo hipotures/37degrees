@@ -1,0 +1,62 @@
+{
+  "session_id": "2dcb2a8f-b11d-466d-8a59-c7f92df6d7a0",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/2dcb2a8f-b11d-466d-8a59-c7f92df6d7a0.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "David Lynch Dune 1984 film reception cult following vs Villeneuve adaptation"
+  },
+  "tool_response": {
+    "query": "David Lynch Dune 1984 film reception cult following vs Villeneuve adaptation",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01BWJdUqMV12HsFMXNVYwV6U",
+        "content": [
+          {
+            "title": "David Lynch's 1984 Dune Movie Is Controversial - Here's Why it Failed to Impress",
+            "url": "https://www.cbr.com/dune-1984-controversial-david-lynch/"
+          },
+          {
+            "title": "Dune (1984 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dune_(1984_film)"
+          },
+          {
+            "title": "Dune: 15 Biggest Differences Between The David Lynch & Denis Velleneuve Versions",
+            "url": "https://screenrant.com/dune-biggest-differences-denis-villeneuve-david-lynch-versions/"
+          },
+          {
+            "title": "RETRO REVIEW: Dune (1984) Is Underrated & Surreal",
+            "url": "https://www.cbr.com/dune-1984-retro-review/"
+          },
+          {
+            "title": "David Lynch's 'Dune' Did This Better Than Denis Villeneuve",
+            "url": "https://collider.com/david-lynch-dune-denis-villeneuves-book-adaptation/"
+          },
+          {
+            "title": "How Denis Villeneuve Really Feels About David Lynch's 1984 Dune Movie - SlashFilm",
+            "url": "https://www.slashfilm.com/1632407/denis-villeneuve-david-lynch-dune-1984-movie-feelings/"
+          },
+          {
+            "title": "The New Dune Movie Is Great, But There Are A Few Things David Lynch Just Did Better",
+            "url": "https://www.thegamer.com/dune-movie-denis-villeneuve-vs-david-lynch/"
+          },
+          {
+            "title": "Dune (2021 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dune_(2021_film)"
+          },
+          {
+            "title": "Dune (1984) Review: David Lynch Crafts Bizarre Adaptation of Frank Herbert's Classic Novel",
+            "url": "https://cinephilecorner.com/reviews/dune-movie-1984/"
+          },
+          {
+            "title": "Dune: Part Two Director Explains Where David Lynch's Original Movie Went Wrong",
+            "url": "https://www.cbr.com/dune-part-2-director-1984-dune/"
+          }
+        ]
+      },
+      "Based on the search results, here's a comprehensive overview of the reception and cult following of David Lynch's 1984 Dune film compared to Denis Villeneuve's adaptation:\n\n## David Lynch's 1984 Dune Reception\n\nDavid Lynch's 1984 version of Dune opened to scathing reviews and anemic box office, receiving a chilly and even downright hostile reception at the time of its release.(no content)The film underperformed at the box office, grossing $30.9 million against a $40\u201342 million budget.(no content)On review aggregator Rotten Tomatoes, Dune has an approval rating of 36% based on 117 reviews, with an average score of 5.6/10, while on Metacritic, the film has a weighted average score of 41 out of 100 based on 20 critic reviews, indicating \"mixed or average\" reviews.(no content)Things got so bad that Lynch disowned it, and demanded his name be replaced with \"Alan Smithee\" in the credits.(no content)It proved such a scarring experience for the director that he famously refuses to discuss it in public.\n\n## Development of Cult Following\n\nNearly 40 years later, public opinion towards Lynch's Dune shifted significantly. Once universally hated, history vindicated the movie. Modern audiences now regard it as a cult classic, with some even claiming it to be a major inspiration for their own works.(no content)The film's reputation has improved over the years, and it has earned a cult following thanks to its striking visuals and strong ensemble.(no content)The film has developed a cult following, but opinion varies between fans of the novel and fans of Lynch's films.(no content)Though its H.R. Giger-inspired aesthetic and certain creative liberties taken with the source material made it divisive, Lynch's take has developed a cult following.\n\n## Villeneuve's Adaptation Success vs Lynch's Legacy\n\nDenis Villeneuve's 2021 adaptation has been praised for its faithful and engaging portrayal of Dune, setting it apart from Lynch's version and solidifying its status as a modern classic.(no content)In 2021, director Denis Villeneuve decided to see if he could conquer the novel that had been deemed unfilmable, resulting in critical and financial success.(no content)The two \"Dune\" movies were both hits, and the first was nominated for Best Picture at the Academy Awards.\n\n## Comparative Analysis\n\nWhile Villeneuve's Dune has been a box office hit and widely critically acclaimed, Lynch's film will likely always be remembered as something of a failed experiment\u2014despite developing a large and passionate cult following over the years.(no content)The question of which adaptation is the definitive Dune is moot. Both esteemed directors did their jobs by interpreting the source material in their own ways, and each version provided something extraordinary for cinema.(no content)Villenueve's version of Dune is ultimately the more successful film and will be heralded as a future classic; however, Lynch's adaptation is the more accurate depiction of the peculiar style of Herbet's source material.\n\nThe search reveals that while Lynch's Dune was initially a critical and commercial failure, it has gained significant cult appreciation over time for its unique visual style and bold interpretation, even as Villeneuve's adaptation achieved mainstream success."
+    ],
+    "durationSeconds": 30.787463956999943
+  }
+}

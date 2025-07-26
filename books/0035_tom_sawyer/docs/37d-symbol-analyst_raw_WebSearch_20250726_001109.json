@@ -1,0 +1,154 @@
+{
+  "session_id": "e6537320-f282-4226-b0c0-d5beb3935bc2",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e6537320-f282-4226-b0c0-d5beb3935bc2.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Tom Sawyer psychological studies childhood development freedom themes academic research boyhood American character analysis"
+  },
+  "tool_response": {
+    "query": "Tom Sawyer psychological studies childhood development freedom themes academic research boyhood American character analysis",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01AksS7TCVsg3R4ePM8tKmvP",
+        "content": [
+          {
+            "title": "The Adventures of Tom Sawyer",
+            "url": "https://cranberry-plane-6zce.squarespace.com/s/The-Adventures-of-Tom-Sawyer.pdf"
+          },
+          {
+            "title": "The Adventures of Tom Sawyer - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Adventures_of_Tom_Sawyer"
+          },
+          {
+            "title": "The Adventures of Tom Sawyer | Summary, Characters & Analysis - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/the-adventures-of-tom-sawyer-by-mark-twain-summary-characters-analysis.html"
+          },
+          {
+            "title": "The Adventures of Tom Sawyer | Project Gutenberg",
+            "url": "https://www.gutenberg.org/files/74/74-h/74-h.htm"
+          },
+          {
+            "title": "The Adventures of Tom Sawyer: Analysis of Major Characters | EBSCO Research Starters",
+            "url": "https://www.ebsco.com/research-starters/literature-and-writing/adventures-tom-sawyer-analysis-major-characters"
+          },
+          {
+            "title": "Boyhood Rebellion and Growing Up Theme in The Adventures of Tom Sawyer | LitCharts",
+            "url": "https://www.litcharts.com/lit/the-adventures-of-tom-sawyer/themes/boyhood-rebellion-and-growing-up"
+          },
+          {
+            "title": "The Adventures of Tom Sawyer by Mark Twain | EBSCO Research Starters",
+            "url": "https://www.ebsco.com/research-starters/literature-and-writing/adventures-tom-sawyer-mark-twain"
+          },
+          {
+            "title": "About The Adventures of Tom Sawyer",
+            "url": "https://www.cliffsnotes.com/literature/a/the-adventures-of-tom-sawyer/about-the-adventures-of-tom-sawyer"
+          },
+          {
+            "title": "How is 'The Adventures of Tom Sawyer' by Mark Twain relevant or relatable to today's students? - Quora",
+            "url": "https://www.quora.com/How-is-The-Adventures-of-Tom-Sawyer-by-Mark-Twain-relevant-or-relatable-to-todays-students"
+          },
+          {
+            "title": "The Adventures of Tom Sawyer: Summary | Vaia",
+            "url": "https://www.vaia.com/en-us/explanations/english-literature/american-literature/the-adventures-of-tom-sawyer/"
+          }
+        ]
+      },
+      "I've found several relevant academic and literary analysis sources about psychological studies and character analysis of Tom Sawyer. Let me search for more specific academic research on the psychological aspects of childhood development and freedom themes in the novel.",
+      {
+        "tool_use_id": "srvtoolu_0153LRio3TupmLrLnHmFJRfA",
+        "content": [
+          {
+            "title": "The Adventures of Tom Sawyer",
+            "url": "https://cranberry-plane-6zce.squarespace.com/s/The-Adventures-of-Tom-Sawyer.pdf"
+          },
+          {
+            "title": "The Adventures of Tom Sawyer | Project Gutenberg",
+            "url": "https://www.gutenberg.org/files/74/74-h/74-h.htm"
+          },
+          {
+            "title": "Silverchair",
+            "url": "https://direct.mit.edu/books/book-pdf/2388726/book_9780262354080.pdf"
+          },
+          {
+            "title": "About The Adventures of Tom Sawyer",
+            "url": "https://www.cliffsnotes.com/literature/a/the-adventures-of-tom-sawyer/about-the-adventures-of-tom-sawyer"
+          },
+          {
+            "title": "Frontiers | From adventures to diagnosis: adolescent behavior in classic fiction through the eyes of newly licensed Czech psychiatrists \u2013 a ...",
+            "url": "https://www.frontiersin.org/articles/10.3389/fpsyt.2025.1592912/full"
+          },
+          {
+            "title": "The Adventures of Tom Sawyer | Summary, Characters & Analysis - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/the-adventures-of-tom-sawyer-by-mark-twain-summary-characters-analysis.html"
+          },
+          {
+            "title": "Character Analysis Tom Sawyer",
+            "url": "https://www.cliffsnotes.com/literature/a/the-adventures-of-tom-sawyer/character-analysis/tom-sawyer"
+          },
+          {
+            "title": "Impact of Disruptive Behavior on Academic Performance",
+            "url": "https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=7247&context=doctoral"
+          },
+          {
+            "title": "The Adventures of Tom Sawyer - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Adventures_of_Tom_Sawyer"
+          },
+          {
+            "title": "Tom Sawyer Childhood Development - 767 Words | Internet Public Library",
+            "url": "https://www.ipl.org/essay/Tom-Sawyer-Childhood-Development-F3TMMBHEAJP6"
+          }
+        ]
+      },
+      "This search revealed some excellent material, including a fascinating recent study about modern psychiatrists analyzing Tom Sawyer as a character. Let me search for more academic research on American character analysis and boyhood themes in the novel.",
+      {
+        "tool_use_id": "srvtoolu_01TsYo3H8DyRPrDhiSnkcyTf",
+        "content": [
+          {
+            "title": "The Adventures of Tom Sawyer - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Adventures_of_Tom_Sawyer"
+          },
+          {
+            "title": "The Adventures of Tom Sawyer | Summary, Characters, Setting, Huckleberry Finn, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/The-Adventures-of-Tom-Sawyer-novel-by-Twain"
+          },
+          {
+            "title": "The Adventures of Tom Sawyer | National Endowment for the Arts",
+            "url": "https://www.arts.gov/initiatives/nea-big-read/adventures-tom-sawyer"
+          },
+          {
+            "title": "The Adventures of Tom Sawyer | Summary, Characters & Analysis - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/the-adventures-of-tom-sawyer-by-mark-twain-summary-characters-analysis.html"
+          },
+          {
+            "title": "Boyhood Rebellion and Growing Up Theme in The Adventures of Tom Sawyer | LitCharts",
+            "url": "https://www.litcharts.com/lit/the-adventures-of-tom-sawyer/themes/boyhood-rebellion-and-growing-up"
+          },
+          {
+            "title": "The Adventures of Tom Sawyer by Mark Twain | EBSCO Research Starters",
+            "url": "https://www.ebsco.com/research-starters/literature-and-writing/adventures-tom-sawyer-mark-twain"
+          },
+          {
+            "title": "The Adventures of Tom Sawyer Study Guide | Literature Guide | LitCharts",
+            "url": "https://www.litcharts.com/lit/the-adventures-of-tom-sawyer"
+          },
+          {
+            "title": "The Adventures of Tom Sawyer | Encyclopedia.com",
+            "url": "https://www.encyclopedia.com/arts/educational-magazines/adventures-tom-sawyer"
+          },
+          {
+            "title": "The Adventures of Tom Sawyer by Mark Twain | Audible.com",
+            "url": "https://www.audible.com/blog/summary-the-adventures-of-tom-sawyer-by-mark-twain"
+          },
+          {
+            "title": "The Adventures of Tom Sawyer: Summary | StudySmarter",
+            "url": "https://www.studysmarter.us/explanations/english-literature/american-literature/the-adventures-of-tom-sawyer/"
+          }
+        ]
+      },
+      "Perfect! I've found excellent content that directly addresses the psychological studies and themes. Let me now search for more specific academic research on the psychological aspects of Tom Sawyer.\n\nBased on my search results, I have found relevant information about psychological studies of Tom Sawyer, childhood development themes, freedom concepts, and academic research on boyhood and American character analysis. Here's what the search revealed:\n\n## Academic and Psychological Studies of Tom Sawyer\n\n### Modern Psychological Analysis\n\nA recent study by Czech psychiatrists (2025) examined what modern mental health professionals might diagnose in Tom Sawyer's character. The study noted that Tom Sawyer represents \"the typical, healthy adolescent of the mid-19th century\" and that Twain stated \"most of the adventures recorded in this book really occurred\" and that \"Tom Sawyer \u2026 is a combination of the characteristics of three boys I knew.\" This research explores \"the pathologization of behaviors typical of adolescence\" using Tom Sawyer as a prototypical teenager.\n\n### Childhood Development Themes\n\nLiterary scholars recognize Tom Sawyer as \"a child's adventure story\" that is also \"the story of a young boy's transition into a young man.\" It functions as \"a bildungsroman, a novel whose principle subject is the moral, psychological, and intellectual development of a youthful main character.\"(no content)Academic analysis emphasizes that \"the novel concentrates basically on Tom's--and to a lesser degree, Huck's--development from carefree childish behavior to one that is filled with mature responsibility.\"\n\n### Freedom and Rebellion Themes\n\nLiterary analysis identifies Tom as \"the embodiment of boyhood rebellion\" who disappoints adults \"by breaking rules, fighting with other boys, failing to perform his chores, fibbing, stealing sweet treats.\" However, Twain's portrayal is \"humorous and affectionate, rather than judgmental moral lessons,\" with Tom's \"shenanigans\" often bringing \"delight and even unpredictable insight into a situation.\"(no content)The character development shows Tom's evolving relationship with freedom: \"In the beginning, Tom is jealous of Huckleberry Finn, whom he sees as a symbol of freedom and liberation from school and church... however, by the end of the story, Tom begins to realize that all of the rules of society that he has been complaining about actually exist for good reason.\"\n\n### American Character Analysis\n\nThe National Endowment for the Arts notes that Tom Sawyer \"established America's vision of childhood\" and is \"part of the American imagination. More than any other work in our culture, it established America's vision of childhood.\"(no content)Britannica states that the novel \"changed the course of children's literature in the United States as well as of American literature generally, presenting the first deeply felt portrayal of boyhood\" and notes that Tom's character \"is considered the epitome of the all-American boy, full of mischief but basically purehearted.\"\n\n### Academic Research on Boyhood Themes\n\nScholarly analysis identifies that \"The Adventures of Tom Sawyer presents the ideal of an adventurous boyhood in small-town America. Mark Twain paints boyhood as a unique period of freedom, exploration, and imagination\" and \"portrays boyhood as a time of freedom from society's conventions and fears.\"(no content)Academic sources note that \"themes of childhood innocence, moral dilemmas, and social commentary are woven throughout the text, showcasing the complexities of growing up in a world rife with expectations and challenges,\" making it \"a poignant exploration of boyhood and the transition to adulthood.\"\n\nThe search results reveal substantial academic interest in Tom Sawyer as a subject for psychological and developmental analysis, with modern researchers examining how Twain's portrayal of 19th-century boyhood relates to contemporary understanding of childhood development and mental health."
+    ],
+    "durationSeconds": 41.239774069000035
+  }
+}

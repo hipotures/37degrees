@@ -1,0 +1,62 @@
+{
+  "session_id": "38d2c10d-061a-4607-b249-863b58008013",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/38d2c10d-061a-4607-b249-863b58008013.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "pirate themed tourism destinations Treasure Island Caribbean Key West Nassau pirate museums attractions"
+  },
+  "tool_response": {
+    "query": "pirate themed tourism destinations Treasure Island Caribbean Key West Nassau pirate museums attractions",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01TFe6oubT8PwmeRefYmK3JZ",
+        "content": [
+          {
+            "title": "Pirates of Nassau Museum (2025) - All You Need to Know BEFORE You Go (with Reviews)",
+            "url": "https://www.tripadvisor.com/Attraction_Review-g147416-d148523-Reviews-Pirates_of_Nassau_Museum-Nassau_New_Providence_Island_Bahamas.html"
+          },
+          {
+            "title": "Pirate-Themed Vacations in Nassau & Paradise Island | Nassau Paradise Island",
+            "url": "https://www.nassauparadiseisland.com/blog/pirate-themed-vacations-in-nassau-paradise-island"
+          },
+          {
+            "title": "Pirate-Themed Attractions and Events Treasure Island, FL",
+            "url": "https://www.providentresorts.com/blog/a-guide-to-pirate-themed-attractions-and-events-in-treasure-island-fl"
+          },
+          {
+            "title": "A Day In Nassau Designed For Pirate Lovers | Tru Bahamian Food Tours",
+            "url": "https://www.trubahamianfoodtours.com/bites-of-nassau-food-tour/day-nassau-designed-pirate-lovers/"
+          },
+          {
+            "title": "Pirates of Nassau Museum: Step Into the Golden Age of Piracy",
+            "url": "https://sheiswanderlust.com/destinations/the-caribbean-travel-guide/bahamas/nassau/attractions/pirates-of-nassau-museum/"
+          },
+          {
+            "title": "Nassau \u2013 A pirate lover\u2019s tour of the Bahamas",
+            "url": "https://the5thcrewmember.com/2022/06/05/nassau-a-pirate-lovers-tour-of-the-bahamas/"
+          },
+          {
+            "title": "Pirates of Nassau |",
+            "url": "http://www.piratesofnassau.com/"
+          },
+          {
+            "title": "Caribbean Adventures For The Pirate-Loving Traveler - Travel Noire",
+            "url": "https://travelnoire.com/caribbean-adventures-pirate-loving-traveler"
+          },
+          {
+            "title": "Pirate Experiences in Nassau & Paradise Island | Nassau Paradise Island",
+            "url": "https://www.nassauparadiseisland.com/blog/pirate-experiences-in-nassau-paradise-island"
+          },
+          {
+            "title": "Pirate Vacation, Ahoy! 7 Swashbuckling Destinations in the US and Caribbean | Expedia",
+            "url": "https://www.expedia.com/stories/pirate-vacation-destinations-us-caribbean/"
+          }
+        ]
+      },
+      "Based on the search results, I've found comprehensive information about pirate-themed tourism destinations in the Caribbean and beyond. Here's what I discovered:\n\n## Nassau, Bahamas - The Premier Pirate Destination\n\nNassau was at the heart of The Golden Age of Piracy (1690-1720), attracting the greatest concentration of pirates ever seen in the New World. With turquoise waters too shallow for large man-of-war ships but deep enough for fast galleons and sloops favored by pirates, Nassau was the ideal base of operations.\n\n### Key Attractions in Nassau:\n\n**Pirates of Nassau Museum** - One of the best places to start your pirate-themed adventure is Pirates of Nassau, a fun and interactive museum in downtown Nassau that features a great mix of entertainment and history.(no content)Board a replica pirate ship, then enter a world of cutlass-wielding pirates, where you'll learn about infamous \"local\" pirates like Blackbeard, Benjamin Hornigold, and Anne Bonny.\n\n**Blackbeard's Revenge Cruise** - For the ultimate pirate experience, take a journey aboard Blackbeard's Revenge, a 500-ton Spanish galleon replica that boasts an all-pirate crew, two bars, and Captain's Lounge.\n\n**Rum Runner's Passage Tour** - Strolling the historic downtown streets of Nassau, you'll be immersed in thrilling tales from our pirate plundering and rum-running days. Learn how to taste \"the pirate's drink\" like a professional during a guided walking tour featuring rum-infused sweet and savoury bites and a selection of rum samplings and cocktails.\n\n## Other Caribbean Pirate Destinations\n\nPort Royal in Jamaica, Nassau in the Bahamas, and Campeche in Mexico are just a few of the captivating places where you can walk in the footsteps of these notorious buccaneers.\n\n### Key West, Florida\nIf a pirate's life is for you, follow your compass to Florida. Real-life pirates once plied Florida's shores. Learn all about them at the Pirate and Treasure Museum in St. Augustine.\n\n### Treasure Island, Florida\nTreasure Island, Florida offers pirate-themed adventures and attractions.\n\n## Pirate Museum Experiences\n\n**Pirates of Nassau Museum Details:**\n- Admission is $14 per adult and is considered good value for the experience.\n- The experience begins on a moonlight dock with sounds of lapping water and pirates celebrating in a nearby tavern. Board a replica of the ship \"Revenge\" and enter a world of cutlass wielding, bloodthirsty pirates.\n\n**Other Caribbean Pirate Activities:**\n- In destinations like Nassau, Bahamas and Grand Cayman, you can hop aboard a replica pirate ship, complete with period costumes and interactive pirate-themed activities. Raise the Jolly Roger, fire the cannons, and imagine yourself as Captain Jack Sparrow for a day.\n- Plan your Caribbean adventure to coincide with pirate festivals and reenactments. The Pirates Week Festival in the Cayman Islands and the Pirate Fest in Bocas del Toro, Panama are renowned for their swashbuckling celebrations.\n\nThe search reveals that Nassau, Bahamas stands out as the premier pirate tourism destination, offering the most comprehensive collection of authentic pirate history, museums, and themed experiences in the Caribbean."
+    ],
+    "durationSeconds": 19.01527675099997
+  }
+}

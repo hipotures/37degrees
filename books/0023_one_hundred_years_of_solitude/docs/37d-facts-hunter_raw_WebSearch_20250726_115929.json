@@ -1,0 +1,62 @@
+{
+  "session_id": "0f8759f7-b95e-4668-a90a-18f4c93b0e9d",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0f8759f7-b95e-4668-a90a-18f4c93b0e9d.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "recent scholarly articles 2020-2024 \"One Hundred Years of Solitude\" digital humanities Garc\u00eda M\u00e1rquez contemporary research"
+  },
+  "tool_response": {
+    "query": "recent scholarly articles 2020-2024 \"One Hundred Years of Solitude\" digital humanities Garc\u00eda M\u00e1rquez contemporary research",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01A36Xmv4ha9KS7P8hzVqQEw",
+        "content": [
+          {
+            "title": "Elements of postmodernism in One Hundred Years of Solitude by G.G.Marquez | Request PDF",
+            "url": "https://www.researchgate.net/publication/375389874_Elements_of_postmodernism_in_One_Hundred_Years_of_Solitude_by_GGMarquez"
+          },
+          {
+            "title": "Analysis of M\u00e1rquez\u2019s One Hundred Years of Solitude",
+            "url": "https://literariness.org/2020/09/24/analysis-of-marquezs-one-hundred-years-of-solitude/"
+          },
+          {
+            "title": "One Hundred Years of Solitude - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude"
+          },
+          {
+            "title": "Netflix shines new light on \u2018One Hundred Years of Solitude,\u2019 expert illuminates classic novel\u2019s timeless appeal | Virginia Tech News | Virginia Tech",
+            "url": "https://news.vt.edu/articles/2024/11/Netflix-One-Hundred-Years-of-Solitude-Gabriel-Garcia-Marquez-expert.html"
+          },
+          {
+            "title": "Ascent to Glory: How One Hundred Years of Solitude Was Written and Became a Global Classic 9780231545433 - DOKUMEN.PUB",
+            "url": "https://dokumen.pub/ascent-to-glory-how-one-hundred-years-of-solitude-was-written-and-became-a-global-classic-9780231545433.html"
+          },
+          {
+            "title": "Approaches to Teaching Garc\u00eda M\u00e1rquez's One Hundred Years of Solitude | Modern Language Association",
+            "url": "https://www.mla.org/Publications/Bookstore/Approaches-to-Teaching-World-Literature/Approaches-to-Teaching-Garcia-Marquez-s-One-Hundred-Years-of-Solitude"
+          },
+          {
+            "title": "One Hundred Years of Solitude by Gabriel Garc\u00eda M\u00e1rquez | EBSCO Research Starters",
+            "url": "https://www.ebsco.com/research-starters/literature-and-writing/one-hundred-years-solitude-gabriel-garcia-marquez"
+          },
+          {
+            "title": "One Hundred Years of Solitude | Introduction & Summary | Britannica",
+            "url": "https://www.britannica.com/topic/One-Hundred-Years-of-Solitude"
+          },
+          {
+            "title": "Repetition and Alchemy in One Hundred Years of Solitude | The Oxford Handbook of Gabriel Garc\u00eda M\u00e1rquez | Oxford Academic",
+            "url": "https://academic.oup.com/edited-volume/37087/chapter/323185264"
+          },
+          {
+            "title": "One Hundred Years of Solitude by Gabriel Garc\u00eda M\u00e1rquez",
+            "url": "https://www.researchgate.net/publication/291963097_One_hundred_years_of_solitude_by_Gabriel_Garcia_Marquez"
+          }
+        ]
+      },
+      "I've found several relevant results from your search. The results include both recent academic work and contemporary research on Garc\u00eda M\u00e1rquez's \"One Hundred Years of Solitude\" from the 2020-2024 timeframe. Here's what the search revealed:\n\n## Recent Scholarly Research (2020-2024)\n\nA 2023 scholarly publication on ResearchGate examines \"Elements of postmodernism in One Hundred Years of Solitude by G.G.Marquez,\" analyzing Garc\u00eda M\u00e1rquez as \"one of the greatest postmodern writers\" and focusing on \"fragmentation, lack of identity and juxtaposition of two disparate cultures\" with particular emphasis on how these elements contribute to the novel's worldwide acclaim.\n\nA significant 2020 academic study titled \"Ascent to Glory: How One Hundred Years of Solitude Was Written and Became a Global Classic\" by \u00c1lvaro Santana-Acu\u00f1a, published by Columbia University Press, provides groundbreaking analysis of how cultural brokers have \"indexed\" different elements of the novel across six continents over the decades.\n\n## Digital Humanities and Contemporary Research\n\nThe search reveals several contemporary digital initiatives and scholarly approaches:\n\nNetflix's 2024 adaptation of the novel, premiering December 11, has sparked renewed academic interest, with experts discussing whether television can adequately represent \"a narrative that many consider to be unfilmable\".\n\nAcademic teaching approaches show that \"Critics have read One Hundred Years of Solitude as a cultural document, as a revolutionary narrative, and as a high point of early postmodernism\" and the novel is \"taught widely and in a variety of curricular contexts, from courses on civilization and Latin American literature to seminars on comparative literature and women's studies\".\n\nThe Oxford Handbook of Gabriel Garc\u00eda M\u00e1rquez (2021) includes current scholarship examining \"Repetition and Alchemy in One Hundred Years of Solitude,\" analyzing how \"all generations of Buend\u00edas live fully, but neither wisely nor well\".\n\n## Contemporary Critical Reception\n\nCurrent scholarship continues to recognize the novel's enduring significance: \"'One Hundred Years of Solitude' always appears in lists of the top 10 novels of the 20th century. It has been translated into nearly 50 languages and has sold over 50 million copies. Indeed, it is the most translated Spanish-language literary work after 'Don Quixote'\".\n\nThe search results demonstrate ongoing scholarly engagement with the novel through various digital humanities approaches, postmodern literary analysis, and cross-cultural studies, indicating that Garc\u00eda M\u00e1rquez's masterwork remains a vital subject of contemporary academic research."
+    ],
+    "durationSeconds": 22.82486857199995
+  }
+}

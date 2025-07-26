@@ -1,0 +1,154 @@
+{
+  "session_id": "0f8759f7-b95e-4668-a90a-18f4c93b0e9d",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0f8759f7-b95e-4668-a90a-18f4c93b0e9d.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Sto lat samotno\u015bci\" BookTube Poland bookstagram polscy youtuberzy ksi\u0105\u017ckowi"
+  },
+  "tool_response": {
+    "query": "\"Sto lat samotno\u015bci\" BookTube Poland bookstagram polscy youtuberzy ksi\u0105\u017ckowi",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01YCsb7Ho5wQ6KRJ5oWTzpzp",
+        "content": [
+          {
+            "title": "Sto lat samotno\u015bci - Gabriel Garc\u00eda M\u00e1rquez | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5045946/sto-lat-samotnosci"
+          },
+          {
+            "title": "Sto lat samotno\u015bci \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Sto_lat_samotno%C5%9Bci"
+          },
+          {
+            "title": "Sto lat samotno\u015bci - nowa i u\u017cywana - SkupSzop.pl",
+            "url": "https://skupszop.pl/ksiazka/sto-lat-samotnosci"
+          },
+          {
+            "title": "\u201eSto lat samotno\u015bci\u201d na platformie Netflix. Recenzja serialu na podstawie powie\u015bci Gabriela Garc\u00edi M\u00e1rqueza - rp.pl",
+            "url": "https://www.rp.pl/platformy-streamingowe/art41568831-widzielismy-serial-sto-lat-samotnosci-bedzie-dyskusja-wsrod-fanow-powiesci"
+          },
+          {
+            "title": "Sto lat samotno\u015bci - Ca\u0142a Polska Czyta Dzieciom",
+            "url": "https://calapolskaczytadzieciom.pl/ksiazka/sto-lat-samotnosci/"
+          },
+          {
+            "title": "Sto lat samotno\u015bci - Gabriel Garcia Marquez - ksi\u0105\u017cka, recenzja, streszczenie",
+            "url": "https://www.granice.pl/ksiazka/sto-lat-samotnosci/1180"
+          },
+          {
+            "title": "\u201eSto lat samotno\u015bci\u201d G.G. M\u00e1rqueza \u2013 streszczenie, bohaterowie i inspiruj\u0105ce cytaty",
+            "url": "https://zwierciadlo.pl/kultura/537228,1,sto-lat-samotnosci-gg-mrqueza--streszczenie-bohaterowie-i-inspirujace-cytaty.read"
+          },
+          {
+            "title": "sto lat samotno\u015bci - Recenzja ksi\u0105\u017cki Sto lat samotno\u015bci - nakanapie.pl",
+            "url": "https://nakanapie.pl/recenzje/sto-lat-samotnosci-sto-lat-samotnosci"
+          },
+          {
+            "title": "Stworzeni, by opowiada\u0107. \u201eSto lat samotno\u015bci\u201d, czyli ksi\u0105\u017cka mojego \u017cycia - Wi\u0119\u017a",
+            "url": "https://wiez.pl/2024/12/22/stworzeni-by-opowiadac-sto-lat-samotnosci-czyli-ksiazka-mojego-zycia/"
+          },
+          {
+            "title": "Sto lat samotno\u015bci (ebook)",
+            "url": "https://muza.com.pl/pl/products/sto-lat-samotnosci-ebook-9093.html"
+          }
+        ]
+      },
+      "The search returned general information about \"Sto lat samotno\u015bci\" (One Hundred Years of Solitude) by Gabriel Garc\u00eda M\u00e1rquez, but didn't specifically address Polish BookTube or bookstagram content creators. Let me search more specifically for Polish book YouTubers and book influencers.",
+      {
+        "tool_use_id": "srvtoolu_01A5UJ54TdjiraM5k1jDtiz1",
+        "content": [
+          {
+            "title": "Opowiadaj\u0105 o literaturze tak, \u017ce chce si\u0119 czyta\u0107. 10 najciekawszych kana\u0142\u00f3w o ksi\u0105\u017ckach",
+            "url": "https://natemat.pl/338083,kanaly-o-ksiazkach-na-youtube-lista"
+          },
+          {
+            "title": "Booktube - polscy influencerzy na YT",
+            "url": "https://allegro.pl/artykul/booktube-polscy-influencerzy-na-yt-RdKmAl85bTV"
+          },
+          {
+            "title": "BookTube, czyli o ksi\u0105\u017ckach na Youtube - nakanapie.pl",
+            "url": "https://nakanapie.pl/a/booktube-czyli-o-ksiazkach-na-youtube"
+          },
+          {
+            "title": "Kana\u0142y ksi\u0105\u017ckowe na YouTube. Tych bloger\u00f3w warto zna\u0107, aby by\u0107 na bie\u017c\u0105co \u2013 Twoja Ksi\u0119garnia",
+            "url": "https://www.twojaksiegarnia.pl/kanaly-ksiazkowe-you-tube/"
+          },
+          {
+            "title": "Najlepsi influencerzy ksi\u0105\u017ckowi 2024 r. Ranking najpopularniejszych tw\u00f3rc\u00f3w bookmedi\u00f3w",
+            "url": "https://www.granice.pl/news/najlepsi-influencerzy-ksiazkowi-2024-ranking/27348"
+          },
+          {
+            "title": "Najlepsi influencerzy ksi\u0105\u017ckowi 2024 | wirtualnywydawca.pl",
+            "url": "https://wirtualnywydawca.pl/2024/09/najlepsi-influencerzy-ksiazkowi-2024/"
+          },
+          {
+            "title": "Youtuberzy biznesowi i marketingowi. To ci s\u0105 najpopularniejsi - Bankier.pl",
+            "url": "https://www.bankier.pl/wiadomosc/Youtuberzy-biznesowi-i-marketingowi-To-ci-sa-najpopularniejsi-8703734.html"
+          },
+          {
+            "title": "NAJPOPULARNIEJSZE KSI\u0104\u017bKOWE KANA\u0141Y NA YOUTUBIE - Czytam wsz\u0119dzie | Blog dla mi\u0142o\u015bnik\u00f3w ksi\u0105\u017cek",
+            "url": "http://www.czytamwszedzie.pl/inspirujemy/najpopularniejsze-ksiazkowe-kanaly-na-youtubie/"
+          },
+          {
+            "title": "Booktuberzy i bookstagramerzy polecaj\u0105 na Gwiazdk\u0119 - Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/aktualnosci/varia/11198/booktuberzy-i-bookstagramerzy-polecaja-na-gwiazdke"
+          },
+          {
+            "title": "Ksi\u0105\u017cki YouTuber\u00f3w",
+            "url": "https://www.taniaksiazka.pl/t/13-najlepszych-ksiazek-youtuberow"
+          }
+        ]
+      },
+      "Let me search for more specific information about Polish book influencers discussing \"Sto lat samotno\u015bci\":",
+      {
+        "tool_use_id": "srvtoolu_019cVSHUrEo3XGNh5V4WLiLf",
+        "content": [
+          {
+            "title": "Sto lat samotno\u015bci - Gabriel Garc\u00eda M\u00e1rquez | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5045946/sto-lat-samotnosci"
+          },
+          {
+            "title": "Sto lat samotno\u015bci Gabriel Garcia Marquez ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/sto-lat-samotnosci-gabriel-garcia-marquez"
+          },
+          {
+            "title": "Gabriel Garcia Marquez Sto Lat Samotno\u015bci - Niska cena na Allegro",
+            "url": "https://allegro.pl/listing?string=gabriel+garcia+marquez+sto+lat+samotno%C5%9Bci"
+          },
+          {
+            "title": "Sto lat samotno\u015bci \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Sto_lat_samotno%C5%9Bci"
+          },
+          {
+            "title": "Sto lat samotno\u015bci - Marquez Gabriel Garcia",
+            "url": "https://www.empik.com/sto-lat-samotnosci-marquez-gabriel-garcia,p1137473192,ksiazka-p"
+          },
+          {
+            "title": "Sto lat samotno\u015bci : Garc\u00eda M\u00e1rquez, Gabriel (1928",
+            "url": "https://archive.org/details/stolatsamotnosci0000garc"
+          },
+          {
+            "title": "Sto lat samotno\u015bci \u2013 Gabriel Garcia Marquez | Ebook w epub, mobi | ksi\u0119garnia internetowa Woblink",
+            "url": "https://woblink.com/ebook/sto-lat-samotnosci-gabriel-garcia-marquez-29273u"
+          },
+          {
+            "title": "Gabriel Garc\u00eda M\u00e1rquez Sto lat samotno\u015bci",
+            "url": "https://ksiegarnia.siesta.pl/antykwariat/2011-gabriel-garcia-marquez-sto-lat-samotnosci.html"
+          },
+          {
+            "title": "Sto lat samotno\u015bci - wydanie ilustrowane",
+            "url": "https://muza.com.pl/pl/products/sto-lat-samotnosci-wydanie-ilustrowane-autor-gabriel-garcia-marquez-isbn-9788328725102-oprawa-twarda-wydanie-27-tlumaczenia-grazyna-grudzinska-kalina-wojciechowska-data-premiery-202-10542.html"
+          },
+          {
+            "title": "Sto lat samotno\u015bci - Ca\u0142a Polska Czyta Dzieciom",
+            "url": "https://calapolskaczytadzieciom.pl/ksiazka/sto-lat-samotnosci/"
+          }
+        ]
+      },
+      "Based on the search results, I found information about \"Sto lat samotno\u015bci\" (One Hundred Years of Solitude) by Gabriel Garc\u00eda M\u00e1rquez and Polish BookTube content. Let me provide you with a comprehensive summary of what the search revealed:\n\n## \"Sto lat samotno\u015bci\" (One Hundred Years of Solitude) in Polish BookTube and Book Community\n\n### About the Book\nSto lat samotno\u015bci (Spanish: Cien a\u00f1os de soledad) is a novel by Colombian writer Gabriel Garc\u00eda M\u00e1rquez, considered a masterpiece of Iberoamerican and world literature.(no content)The first Polish edition appeared in 1974 in a translation by Gra\u017cyna Grudzi\u0144ska and Kalina Wojciechowska, published by Pa\u0144stwowy Instytut Wydawniczy in the \"Contemporary World Prose\" series.\n\n### Polish BookTube Scene\nThe search revealed an active Polish BookTube community, with several prominent creators:\n\n**Popular Polish Book YouTubers mentioned include:**\n\n1. **Book Reviews by Anita** - One of the most popular book reviewers on Polish YouTube, operating for over six years and known to almost everyone who watches book channels on YouTube.\n\n2. **Zaksiazkowanych** - A sisterly duo mentioned as excellent, with their parents (Literaccy) also joining BookTube, creating different content worlds for various audiences.\n\n3. **Wielki Buk** - A channel run by Olga Kowalska, a literature scholar who started blogging in 2012 and has made bookmedia and literature reviews an important part of her life.\n\n4. **Rafa\u0142 Hetman** - A journalist who has been writing about literature online since 2013, focusing mainly on reportage and conducting online interviews with other YouTubers about BookTube secrets.\n\n### 2024 Book Influencer Rankings\nBook media creators make TikTok videos, record podcasts, write reviews, organize author meetings \u2013 they are now one of the most important elements of the book market. On August 31st \u2013 International Blog Day \u2013 influencers, journalists and \"book and pop culture\" people who particularly contributed to promoting literature online in the past year were recognized.\n\n**Top influencers mentioned include:**\n- **Get Booky** (Magda) - with over 40,000 Instagram followers, regularly vlogs on YouTube and co-creates the \"Ksi\u0105\u017ckowe echa\" podcast.\n- **ksia_zkowe** (Oliwia Panek) - active on Instagram and TikTok, sharing book content and recently published her own novel \"W rytmie uczu\u0107\".\n- **Agata G\u0142adysz** (@agatandbooks) - with over 436,000 TikTok followers, published her debut novel \"Aurora\" and \"Cozy BookTok Journal\" in 2024.\n\n### BookTube Community Characteristics\nBookTube is a community that emerged within the YouTube platform, consisting of book channels and their viewers. BookTube is becoming an increasingly significant phenomenon in Poland as well.(no content)Polish BookTube is really extensively developed. Finding someone who suits you in terms of energy and recommended books shouldn't be difficult.\n\nThe searches didn't reveal specific discussions of \"Sto lat samotno\u015bci\" by Polish BookTubers, but they show a vibrant Polish book community on YouTube, Instagram, and TikTok where classic literature like Garc\u00eda M\u00e1rquez's masterpiece would likely be discussed alongside contemporary works."
+    ],
+    "durationSeconds": 39.86902202399983
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "session_id": "256f845f-ddd5-4027-a9c2-755ec8659a89",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/256f845f-ddd5-4027-a9c2-755ec8659a89.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Robinson Crusoe film adaptations cinema history silent films modern movies Disney animation"
+  },
+  "tool_response": {
+    "query": "Robinson Crusoe film adaptations cinema history silent films modern movies Disney animation",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01RbQmmAQ4UG5W2EoQ2TRFHB",
+        "content": [
+          {
+            "title": "Category:Films based on Robinson Crusoe - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Category:Films_based_on_Robinson_Crusoe"
+          },
+          {
+            "title": "Favorite Robinson Crusoe Film",
+            "url": "https://www.imdb.com/list/ls042423218/"
+          },
+          {
+            "title": "Why hasn't many films been made about Robinson Crusoe? It's a great story that hasn't really had any decent films made about it. - Quora",
+            "url": "https://www.quora.com/Why-hasnt-many-films-been-made-about-Robinson-Crusoe-Its-a-great-story-that-hasnt-really-had-any-decent-films-made-about-it"
+          },
+          {
+            "title": "Robinson Crusoe - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Robinson_Crusoe"
+          },
+          {
+            "title": "Robinson Crusoe Movies & Media Adaptations | BookRags.com",
+            "url": "https://www.bookrags.com/studyguide-robinsoncrusoe/adaptations.html"
+          },
+          {
+            "title": "Robinson Crusoe (2016 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Robinson_Crusoe_(2016_film)"
+          },
+          {
+            "title": "Robinson Crusoe Movies and TV Shows",
+            "url": "https://www.imdb.com/list/ls033635772/"
+          },
+          {
+            "title": "Lt. Robin Crusoe, U.S.N. \u2013 The Great Disney Movie Ride",
+            "url": "https://thegreatdisneymovieride.home.blog/2020/09/22/lt-robin-crusoe-u-s-n/"
+          },
+          {
+            "title": "Lt. Robin Crusoe, U.S.N. (1966) \u2013 My Live Action Disney Project",
+            "url": "https://myliveactiondisneyproject.com/2018/07/03/lt-robin-crusoe-u-s-n-1966/"
+          },
+          {
+            "title": "Lt. Robin Crusoe, U.S.N. | Disney Movies",
+            "url": "https://movies.disney.com/lt-robin-crusoe-usn"
+          }
+        ]
+      },
+      "Based on your search query about Robinson Crusoe film adaptations, here's what I found about its history in cinema, from silent films to modern movies including Disney animation:\n\n## Silent Film Era\nThere is a 1927 silent film titled Robinson Crusoe. Additionally, this count does not include all of the spin-offs, such as a female Crusoe as early as a silent film made in 1917.\n\n## Early Film Adaptations\nThe Soviet 3D film Robinson Crusoe was produced in 1947. One of the first adaptations still available dates from 1932 titled Mr. Robinson Crusoe.(no content)This film was produced by Douglas Fairbanks Sr and directed by Eddie Sutherland.\n\n## Notable Later Adaptations\nSeveral significant adaptations emerged over the decades:\n\n- Variations on the theme include the 1954 Miss Robin Crusoe, with a female castaway, played by Amanda Blake, and a female Friday, and in 1965 we get the film adaptation Robinson Crusoe on Mars, starring Paul Mantee, with an alien Friday portrayed by Victor Lundin and an added character played by Adam West.\n\n- In 1968, American writer/director Ralph C. Bluemke made a family-friendly version of the story titled Robby, in which the main characters were portrayed as children.\n\n- The most recent movie adapted from Defoe's novel is Robinson Crusoe (1996), produced by USA pictures. Directed by Rod Hardy and George Miller, Pierce Brosnan stars as a lovestruck Robinson Crusoe separated from the object of his desire.\n\n## Disney's Version\nDisney created its own adaptation: Loosely based on the Daniel Defoe novel, Robinson Crusoe, Lt. Robin Crusoe, U.S.N. This 1966 film starred Dick Van Dyke as a Navy pilot who gets stranded on an island.\n\n## Recent Animation\nRobinson Crusoe (released in North America as The Wild Life) is a 2016 3D animated adventure comedy film directed by Vincent Kesteloot and Ben Stassen and written by Lee Christopher, Domonic Paris and Graham Weldon. The film is loosely based on the 1719 novel Robinson Crusoe by Daniel Defoe, but from the point of view of the island's animals. However, Critical reaction to Robinson Crusoe was mostly negative. On Rotten Tomatoes, the film has an approval rating of 17%, based on 59 reviews, with an average rating of 4.1/10.\n\n## Animation Variations\nHowever, this count does not include all of the spin-offs, such as a female Crusoe as early as a silent film made in 1917 or animations of Crusoe as a rodent in, Rabbitson Crusoe (1956).\n\n## Television Adaptations\nConsidered one of the first novels of literary fiction, Robinson Crusoe not only got two sequels, but has been adapted to film and television numerous times.(no content)In 1964, a French film production crew made a 13-part serial of The Adventures of Robinson Crusoe. It starred Robert Hoffmann. The black-and-white series was dubbed into English and German. In the UK, the BBC broadcast it on numerous occasions between 1965 and 1977.\n\nThe Robinson Crusoe story has had remarkable staying power in cinema, spanning from early silent films through modern animated features, with adaptations ranging from faithful retellings to creative variations that reimagine the classic tale from different perspectives."
+    ],
+    "durationSeconds": 30.42706789299846
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "session_id": "117fc0a1-8874-49c5-b0fc-4bb38d5ee638",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/117fc0a1-8874-49c5-b0fc-4bb38d5ee638.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Stendhal \"Czerwone i czarne\" polskie t\u0142umaczenia historia pierwsze wydanie translator"
+  },
+  "tool_response": {
+    "query": "Stendhal \"Czerwone i czarne\" polskie t\u0142umaczenia historia pierwsze wydanie translator",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01EctAbV8fkwKE5aP2Tqb9VG",
+        "content": [
+          {
+            "title": "Czerwone i czarne",
+            "url": "https://wolnelektury.pl/katalog/lektura/stendhal-czerwone-i-czarne/"
+          },
+          {
+            "title": "Czerwone i czarne \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Czerwone_i_czarne"
+          },
+          {
+            "title": "Czerwone i czarne (Stendhal, 1932)/Tom I/Od t\u0142umacza - Wiki\u017ar\u00f3d\u0142a, wolna biblioteka",
+            "url": "https://pl.m.wikisource.org/wiki/Czerwone_i_czarne_(Stendhal,_1932)/Tom_I/Od_t%C5%82umacza"
+          },
+          {
+            "title": "Czerwone i czarne | Stendhal (Ksi\u0105\u017cka) - Ksi\u0119garnia znak.com.pl",
+            "url": "https://www.znak.com.pl/ksiazka/czerwone-i-czarne-stendhal-29546"
+          },
+          {
+            "title": "Stendhal, Encyklopedia PWN: \u017ar\u00f3d\u0142o wiarygodnej i rzetelnej wiedzy",
+            "url": "https://encyklopedia.pwn.pl/haslo/stendhal;3979544.html"
+          },
+          {
+            "title": "Czerwone i czarne (Stendhal, 1932)/ca\u0142o\u015b\u0107 - Wiki\u017ar\u00f3d\u0142a, wolna biblioteka",
+            "url": "https://pl.wikisource.org/wiki/Czerwone_i_czarne_(Stendhal,_1932)/ca\u0142o\u015b\u0107"
+          },
+          {
+            "title": "Marie Beyle (Stendhal), Czerwone i czarne",
+            "url": "https://wolnelektury.pl/katalog/lektura/stendhal-czerwone-i-czarne.html"
+          },
+          {
+            "title": "Czerwone i czarne - Stendhal | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/258056/czerwone-i-czarne"
+          },
+          {
+            "title": "Stendhal \u2013 \u201eCzerwone i czarne\u201d",
+            "url": "https://znajnizszejwiezy.wordpress.com/2018/05/20/stendhal-czerwone-i-czarne/"
+          },
+          {
+            "title": "Czerwone i czarne - Stendhal (eBook) - Ksi\u0119garnia PWN",
+            "url": "https://ksiegarnia.pwn.pl/Czerwone-i-czarne,683939966,p.html"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about Polish translations of Stendhal's \"Czerwone i czarne\" (The Red and the Black):\n\n## Historia polskich t\u0142umacze\u0144 \"Czerwone i czarne\"\n\n### Pierwsze wydanie polskie\nPierwsze wydanie polskie \"Czerwone i czarne\" ukaza\u0142o si\u0119 w 1889 roku, co oznacza, \u017ce polskie t\u0142umaczenie pojawi\u0142o si\u0119 stosunkowo szybko po francuskim oryginale z 1830 roku.\n\n### Wydanie z 1932 roku i t\u0142umacz\nZ wynik\u00f3w wyszukiwania wynika, \u017ce istnieje szczeg\u00f3lnie wa\u017cne wydanie z 1932 roku. W tym okresie pierwszym prezesem \"klubu Stendhalist\u00f3w\" by\u0142 rodak nasz, Kazimierz Stryje\u0144ski, wydawca (bardzo dzi\u015b krytykowany) i komentator po\u015bmiertnych pism Beyle'a.\n\n### T\u0142umaczenie Tadeusza \u017bele\u0144skiego-Boya\nNajs\u0142ynniejszym polskim t\u0142umaczeniem \"Czerwone i czarne\" jest przek\u0142ad autorstwa Tadeusza \u017bele\u0144skiego-Boya. A jego t\u0142umacz, Tadeusz \u017bele\u0144ski-Boy, dodaje: Wystarczy si\u0119 tej powie\u015bci podda\u0107, by p\u0142ywa\u0107 w rozkoszy. Henryk Stendhal Beyle \"Le rouge et le noir\" (\"Czerwone i czarne\") Pa\u0144stwowy Instytut Wydawniczy, Warszawa, 1973 Prze\u0142o\u017cy\u0142 Tadeusz \u017bele\u0144ski (Boy).\n\n### Kontekst historyczny\nWydana pierwszy raz w 1830 r. we Francji. Z powodu zawartych w powie\u015bci tre\u015bci krytycznych wobec Ko\u015bcio\u0142a w 1864 r. umieszczona na indeksie ksi\u0105g zakazanych.\n\nT\u0142umaczenie Boya jest szczeg\u00f3lnie cenione i nadal u\u017cywane w wsp\u00f3\u0142czesnych wydaniach, co \u015bwiadczy o jego wysokiej jako\u015bci artystycznej i wierno\u015bci orygina\u0142owi."
+    ],
+    "durationSeconds": 17.720488701999187
+  }
+}

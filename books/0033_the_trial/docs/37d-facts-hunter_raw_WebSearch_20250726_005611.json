@@ -1,0 +1,63 @@
+{
+  "session_id": "3a49404c-4f85-49d3-82a6-52395d74d3af",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/3a49404c-4f85-49d3-82a6-52395d74d3af.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Proces\" Kafka lektury 2025 usuni\u0119te pozostaje program nauczania"
+  },
+  "tool_response": {
+    "query": "\"Proces\" Kafka lektury 2025 usuni\u0119te pozostaje program nauczania",
+    "results": [
+      "I'll search for information about whether Kafka's \"The Trial\" (Process) remains in or has been removed from the 2025 teaching curriculum.",
+      {
+        "tool_use_id": "srvtoolu_01PpNGkRukLDDEtcSE2WQVP2",
+        "content": [
+          {
+            "title": "Franz Kafka - Proces - Baba od polskiego",
+            "url": "https://babaodpolskiego.pl/franz-kafka-proces/"
+          },
+          {
+            "title": "Zmiany w spisie lektur. Propozycja ministerstwa edukacji - lista - TVN24",
+            "url": "https://tvn24.pl/polska/zmiany-w-spisie-lektur-propozycja-ministerstwa-edukacji-lista-st7770498"
+          },
+          {
+            "title": "Franz Kafka - Proces | WolneLektury.pl",
+            "url": "https://wolnelektury.pl/wesprzyj/lektura/kafka-proces/"
+          },
+          {
+            "title": "Proces - Streszczenie szczeg\u00f3\u0142owe - Franz Kafka - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/franz-kafka/proces.streszczenie-szczegolowe"
+          },
+          {
+            "title": "Proces - Streszczenie kr\u00f3tkie - Franz Kafka - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/franz-kafka/proces.streszczenie-krotkie"
+          },
+          {
+            "title": "Proces Lektura z opracowaniem Klasy 1-4 Liceum | Franz Kafka (Ksi\u0105\u017cka) - Ksi\u0119garnia matras.pl",
+            "url": "https://www.matras.pl/p/proces-lektura-z-opracowaniem-klasy-1-4-liceum-franz-kafka-150476"
+          },
+          {
+            "title": "Franz Kafka - Proces - Lista lektur dla szko\u0142y \u015bredniej. Fot. materia\u0142y prasowe - Zdj\u0119cia, fotki",
+            "url": "https://maturzysta.dlastudenta.pl/fotoalbum/1453817,11771,128996,1.html"
+          },
+          {
+            "title": "Proces - Franz Kafka | lektury szkolne z om\u00f3wieniem - Wydawnictwo Greg",
+            "url": "https://www.greg.pl/lektury/8,361_Proces.html"
+          },
+          {
+            "title": "Franz Kafka - Proces",
+            "url": "http://www.comporecordeyros.cba.pl/lektury/Kafka Franz - Proces.pdf"
+          },
+          {
+            "title": "Franz Kafka, Sen",
+            "url": "https://wolnelektury.pl/katalog/lektura/kafka-sen/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about Franz Kafka's \"The Trial\" (Proces) and its status in the 2025 teaching curriculum:\n\nFranz Kafka's \"Proces\" (fragmenty) appears on the Ministry of Education's proposed list of mandatory readings for high schools and technical schools for the 2024/2025 school year. According to the TVN24 article from February 2024, it is listed as position number 15 in the proposed reading list.\n\nThe new, narrowed curriculum will be in effect during a transitional period starting from the 2024/2025 school year. During this time, experts will work on comprehensive program reform. A completely new curriculum will come into effect 2 years later - from September 1, 2026/2027 in primary schools, and from the 2028/2029 school year in secondary schools.\n\nFragments of Kafka's Process are discussed as mandatory reading at the extended level.\n\nSo to answer your question: Franz Kafka's \"The Trial\" (Proces) **remains** in the teaching curriculum for 2025. It has not been removed - rather, it appears on the proposed list of mandatory readings, though only fragments of the work are required to be read, not the entire novel."
+    ],
+    "durationSeconds": 17.209152068999597
+  }
+}

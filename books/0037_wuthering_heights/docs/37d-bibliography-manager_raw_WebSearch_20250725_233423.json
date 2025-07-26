@@ -1,0 +1,21 @@
+{
+  "session_id": "95239c3a-5fbf-4fbf-93f7-3afd6ea78885",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/95239c3a-5fbf-4fbf-93f7-3afd6ea78885.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Emily Bront\u00eb \"native and nursling of the moors\" Charlotte Bront\u00eb quote \"stronger than a man simpler than a child\""
+  },
+  "tool_response": {
+    "query": "Emily Bront\u00eb \"native and nursling of the moors\" Charlotte Bront\u00eb quote \"stronger than a man simpler than a child\"",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01HAhkcxMcZ6JT1GV7VBiz8q",
+        "content": []
+      },
+      "I searched for the specific quotes you mentioned, but I don't see any search results returned. This could mean that the exact phrasing of these quotes might not be widely documented online, or they may appear in different forms or contexts than the specific wording you provided.\n\nWould you like me to try searching for these quotes separately, or search more broadly for Charlotte Bront\u00eb's quotes about Emily Bront\u00eb? I could also search for information about how Charlotte described Emily in her biographical writings or prefaces to Emily's works."
+    ],
+    "durationSeconds": 8.42642206500005
+  }
+}

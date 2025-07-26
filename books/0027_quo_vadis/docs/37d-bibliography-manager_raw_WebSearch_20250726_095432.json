@@ -1,0 +1,54 @@
+{
+  "session_id": "a13ae777-128d-46b3-ae68-aaaa7f00c2a3",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/a13ae777-128d-46b3-ae68-aaaa7f00c2a3.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Henryk Sienkiewicz Nobel Prize speech 1905 Poland partitions \"She was pronounced defeated\""
+  },
+  "tool_response": {
+    "query": "Henryk Sienkiewicz Nobel Prize speech 1905 Poland partitions \"She was pronounced defeated\"",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01Xrx5Tyf84p8TW2qknX3Rr7",
+        "content": [
+          {
+            "title": "1905 Nobel Prize in Literature - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/1905_Nobel_Prize_in_Literature"
+          },
+          {
+            "title": "Henryk Sienkiewicz - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Henryk_Sienkiewicz"
+          },
+          {
+            "title": "Henryk Sienkiewicz Is Awarded the Nobel Prize, 1905 \u2013 Landmark Events",
+            "url": "https://landmarkevents.org/henryk-sienkiewicz-is-awarded-the-nobel-prize-1905/"
+          },
+          {
+            "title": "Henryk Sienkiewicz - New World Encyclopedia",
+            "url": "https://www.newworldencyclopedia.org/entry/Henryk_Sienkiewicz"
+          },
+          {
+            "title": "Lech Wa\u0142\u0119sa \u2013 Acceptance Speech* - NobelPrize.org",
+            "url": "https://www.nobelprize.org/prizes/peace/1983/walesa/acceptance-speech/"
+          },
+          {
+            "title": "Henryk Sienkiewicz Facts for Kids",
+            "url": "https://kids.kiddle.co/Henryk_Sienkiewicz"
+          },
+          {
+            "title": "The Nobel Peace Prize 1983",
+            "url": "https://www.nobelprize.org/prizes/peace/1983/walesa/acceptance-speech/?print=1"
+          },
+          {
+            "title": "What American Conservatives Can Learn From This Polish Novelist - Intercollegiate Studies Institute",
+            "url": "https://isi.org/intercollegiate-review/thinker-you-should-know-henryk-sienkiewicz/"
+          }
+        ]
+      },
+      "I found excellent information about Henryk Sienkiewicz's Nobel Prize speech from 1905 and the quote you were looking for! Here are the key findings:\n\nHenryk Sienkiewicz, the Polish novelist who won the Nobel Prize in Literature in 1905, delivered a powerful acceptance speech in which he spoke about Poland during the partitions. In his speech, he famously declared about his homeland: \"She was pronounced dead \u2013 yet here is proof that she lives on... She was pronounced defeated \u2013 and here is proof that she is victorious.\"\n\nThis quote was particularly poignant because Poland had been \"cruelly and bitterly divided between the martial ambitions of the Prussian Kaiser and the Russian Tzar in the late 18th century; its kingdom ceased to exist for 123 years after they partitioned it\". Sienkiewicz came to maturity when Poland didn't exist as a sovereign nation, having been \"dismantled in turn by Russia, Prussia, and Germany\" and \"deprived of its language and culture as well as sovereignty\".\n\nSienkiewicz was awarded the Nobel Prize in Literature on December 10, 1905, \"because of his outstanding merits as an epic writer\". He was the first Polish author to win the Nobel Prize in the literary category and the second Polish citizen to win in general after Marie Curie in 1903.\n\nInterestingly, this same quote was later referenced by Lech Wa\u0142\u0119sa in his Nobel Peace Prize acceptance speech in 1983, when he said: \"In 1905, when Poland did not appear on the map of Europe, Henryk Sienkiewicz said when receiving the Nobel prize for literature: 'She was pronounced dead \u2013 yet here is a proof that She lives on; She was declared incapable to think and to work \u2013 and here is proof to the contrary; She was pronounced defeated \u2013 and here is proof that She is victorious'\"."
+    ],
+    "durationSeconds": 15.889678206004202
+  }
+}

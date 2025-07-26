@@ -1,0 +1,62 @@
+{
+  "session_id": "7da3bbc0-2d10-4a7c-9f7d-e17950766dc1",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7da3bbc0-2d10-4a7c-9f7d-e17950766dc1.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Portret Doriana Graya polskie t\u0142umaczenia historia wydania wydawnictwa"
+  },
+  "tool_response": {
+    "query": "Portret Doriana Graya polskie t\u0142umaczenia historia wydania wydawnictwa",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01J7ogiKpPjvRmiz6YC2a6E6",
+        "content": [
+          {
+            "title": "Portret Doriana Graya",
+            "url": "https://www.empik.com/portret-doriana-graya-wilde-oscar,p1113524685,ksiazka-p"
+          },
+          {
+            "title": "Portret Doriana Graya Oscar Wilde ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/portret-doriana-graya-oscar-wilde"
+          },
+          {
+            "title": "Portret Doriana Graya (nowe wydanie) 34,90 z\u0142. - Wydawnictwo ZYSK I S-KA",
+            "url": "https://sklep.zysk.com.pl/portret-doriana-graya-nowe-wydanie-6754.html"
+          },
+          {
+            "title": "\u015awiat fantasy: Portret Doriana Graya",
+            "url": "https://hrosskar.blogspot.com/2017/01/portret-doriana-graya.html"
+          },
+          {
+            "title": "Portret Doriana Graya \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Portret_Doriana_Graya"
+          },
+          {
+            "title": "Portret Doriana Graya - sztukater.pl",
+            "url": "https://sztukater.pl/ksiazki/portret-doriana-graya.html"
+          },
+          {
+            "title": "Portret Doriana Graya",
+            "url": "https://wolnelektury.pl/katalog/lektura/wilde-portret-doriana-graya/"
+          },
+          {
+            "title": "Portret Doriana Graya - rp.pl",
+            "url": "https://www.rp.pl/literatura/art14964341-portret-doriana-graya"
+          },
+          {
+            "title": "Portret Doriana Graya (nowe wyd. 2024 ) 39,90 z\u0142. - Wydawnictwo ZYSK I S-KA",
+            "url": "https://sklep.zysk.com.pl/portret-doriana-graya-nowe-wydanie-39-90-zl-8444.html"
+          },
+          {
+            "title": "Portret Doriana Graya - Oscar Wilde (Ksi\u0105\u017cka) - Ksi\u0119garnia PWN",
+            "url": "https://ksiegarnia.pwn.pl/Portret-Doriana-Graya,113967241,p.html"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with information about Polish translations and publishing history of \"The Picture of Dorian Gray\" (Portret Doriana Graya) by Oscar Wilde.\n\n## Polish Translations and Publishing History\n\n### First Polish Translation\nThe first Polish translation of this outstanding work of world literature appeared in 1905 in the pages of \"Przegl\u0105d Tygodniowy\". Its author was Maria Feldmanowa. This was the first Polish edition from 1905, translated by Maria Feldmanowa.\n\n### Different Polish Translations Available\n\n1. **Maria Feldmanowa Translation**: The edition preserves the first Polish translation with later corrections, by Maria Feldmanowa. This translation perfectly captures the atmosphere of the era, care for the beauty of language and reveals to the reader the true meaning of many censored scenes.\n\n2. **Jerzy \u0141ozi\u0144ski Translation**: More recent editions use translation by Jerzy \u0141ozi\u0144ski, available since 2015.\n\n### Publishing Houses and Editions\n\nSeveral Polish publishers have released different editions:\n\n- **Wydawnictwo Vesper**: Offers an edition with the first Polish translation with later corrections by Maria Feldmanowa, featuring beautiful illustrations and Art Nouveau decorations by Henry Weston Keen.\n\n- **Wydawnictwo Zysk i S-ka**: Published what they claim is the first Polish uncensored edition of the scandalizing story, using Jerzy \u0141ozi\u0144ski's translation. They released editions in 2022 and 2024.\n\n- **Wydawnictwo PWN**: Offers an edition with Maria Feldmanowa's excellent translation from the first Polish edition of 1905.\n\n### Original Publication Context\nThe first version of the book appeared in \"Lippincott's Monthly Magazine\" on June 20, 1890. The novel immediately met with a wave of criticism and was proclaimed a scandal, which contributed to Oscar Wilde's controversial reputation.\n\nThe Polish editions often emphasize the uncensored nature of their translations, as the original work was considered scandalous and some content was modified in various international editions over time."
+    ],
+    "durationSeconds": 19.35944140599668
+  }
+}

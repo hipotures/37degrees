@@ -1,0 +1,62 @@
+{
+  "session_id": "38d2c10d-061a-4607-b249-863b58008013",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/38d2c10d-061a-4607-b249-863b58008013.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Treasure Island film adaptations Disney 1950 Byron Haskin Robert Newton cultural impact"
+  },
+  "tool_response": {
+    "query": "Treasure Island film adaptations Disney 1950 Byron Haskin Robert Newton cultural impact",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01UW6wimLLUq8TkoPUFrnZE9",
+        "content": [
+          {
+            "title": "Treasure Island (1950 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Treasure_Island_(1950_film)"
+          },
+          {
+            "title": "Treasure Island | film by Haskin [1950] | Britannica",
+            "url": "https://www.britannica.com/topic/Treasure-Island-film-by-Haskin"
+          },
+          {
+            "title": "Treasure Island (1950) (Film) - TV Tropes",
+            "url": "https://tvtropes.org/pmwiki/pmwiki.php/Film/TreasureIsland1950"
+          },
+          {
+            "title": "Treasure Island (1950) - Turner Classic Movies",
+            "url": "https://www.tcm.com/tcmdb/title/93868/treasure-island"
+          },
+          {
+            "title": "Treasure Island (1950): Walt Disney\u2019s First Live-Action Feature Film | The Walt Disney Family Museum",
+            "url": "https://www.waltdisney.org/blog/treasure-island-1950"
+          },
+          {
+            "title": "Treasure Island (1950)",
+            "url": "http://ryanmccormickfilmhistory.blogspot.com/2020/09/treasure-island-1950.html"
+          },
+          {
+            "title": "Movie Review Treasure Island (1950) \u2013 Panorama of the Mountains",
+            "url": "https://othemts.wordpress.com/2020/08/19/movie-review-treasure-island-1950/"
+          },
+          {
+            "title": "Treasure Island: At the movies (1950) \u0097 The Greatest Literature of All Time",
+            "url": "http://www.editoreric.com/greatlit/movies/Treasure-Island-1950.html"
+          },
+          {
+            "title": "Treasure Island (1950) \u2b50 6.9 | Adventure, Drama, Family",
+            "url": "https://www.imdb.com/title/tt0043067/"
+          },
+          {
+            "title": "This Film Version of 'Treasure Island' Gave Us Our Image of Pirates",
+            "url": "https://www.smithsonianmag.com/smart-news/film-version-treasure-island-gave-us-our-image-pirates-180967149/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide comprehensive information about Disney's 1950 adaptation of Treasure Island directed by Byron Haskin, starring Robert Newton, and its significant cultural impact.\n\n## Film Overview\n\nTreasure Island is a 1950 adventure film produced by RKO-Walt Disney British Productions, adapted from Robert Louis Stevenson's 1883 novel of the same name. Directed by Byron Haskin, it stars Bobby Driscoll as Jim Hawkins and Robert Newton as Long John Silver.(no content)Treasure Island was Disney's first completely live-action film and the first screen version of Treasure Island made in color.\n\n## Production Background\n\nDisney decided to film the production in the United Kingdom with financial assistance from RKO so both could use \"frozen\" funds from ticket sales of their films released in Britain, which were required to be spent on film productions in the country.(no content)For the first of four films to be produced in England Walt decided upon a film adaptation of Robert Louis Stevenson's classic novel, Treasure Island, which follows the story of a young boy named Jim Hawkins as he searches for a hidden treasure. Not only did the film present what Walt believed would be \"right for Disney to present,\" but the book, whose author was a native of Scotland, also lent itself well to the array of actors England had to offer Walt and his team.\n\n## Robert Newton's Iconic Performance and Cultural Impact\n\nThe film's most lasting cultural contribution was Robert Newton's portrayal of Long John Silver, which fundamentally shaped how pirates are depicted in popular culture:\n\n### Voice and Accent Creation\nHis exaggeration of his native West Country accent is credited with popularising the stereotypical \"pirate speech\". Along with his swagger and eccentricity, Newton brought to the 1950 version an exaggerated interpretation of his own rusticated West Country accent, which after his era-making performance became the voice of a pirate.(no content)Newton even invents the \"Arrrh!\" exclamation and the exaggerated take on Britain's West Country accent that fictional pirates have adopted ever since.\n\n### Defining Pirate Stereotypes\nNewton's portrayal of Long John Silver has been influential on the portrayal of pirates in pop culture. Newton's portrayal of Long John Silver is often regarded as a major influence on the portrayal of a pirate in subsequent years.(no content)This is where all pirate stereotypes we all accept and hold dear originated!(no content)A swashbuckling movie that set unconscious standards in pirate appearance, vernacular, and structure it inspired how most would imagine salty, old pirates that still remain in popular culture today.\n\n### Modern Cultural References\nNewton has become the \"patron saint\" of the annual International Talk Like a Pirate Day.(no content)Both Jack Sparrow and Hector Barbossa are based on Long John Silver as portrayed in this film.(no content)My two oldest daughters are big fans of \"Pirates of the Caribbean.\" They immediately recognized Robert Newton's brilliant performance as Long John Silver as the inspiration for Geoffrey Rush's equally delightful turn as Captain Barbossa fifty years later.\n\n## Critical Reception and Legacy\n\nReviews from critics were mostly positive. Thomas M. Pryor of The New York Times called the film \"a grand and glorious entertainment\" that \"captures the true spirit of the novel.\" Variety praised the film for its \"sumptuous\" set pieces and \"a virtual tour de force\" performance by Newton.(no content)No matter how many times the story has been remade this Disney adaptation appears to stand the test of time better than just about any adaptation since. It is not perfect, but it has been the closest thing the Robert Louis Stevenson novel as seen on the silver screen, and remains well beloved today.\n\n## Continuation of Newton's Pirate Legacy\n\nIn 1954, Newton reprised his role of Long John Silver in a non-Disney sequel also directed by Haskin, Long John Silver (this, incidentally, was the first CinemaScope film to be shot in Australia), and went on to play Silver again in a television series, The Adventures of Long John Silver (made 1954\u201355).(no content)Newton's pirate became iconic: two years after Treasure Island came out, he played another complex captain in 1952's Blackbeard, the Pirate before reprising Silver in Long John Silver, a Treasure Island sequel that was followed by a one-season TV series.\n\nThe 1950 Disney adaptation of Treasure Island stands as a landmark film that not only marked Disney's entry into live-action filmmaking but also created the definitive cinematic pirate archetype that continues to influence popular culture more than 70 years later."
+    ],
+    "durationSeconds": 33.8302545380001
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "session_id": "7da3bbc0-2d10-4a7c-9f7d-e17950766dc1",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7da3bbc0-2d10-4a7c-9f7d-e17950766dc1.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Jan Kasprowicz Oscar Wilde t\u0142umaczenia M\u0142oda Polska ruch estetyczny"
+  },
+  "tool_response": {
+    "query": "Jan Kasprowicz Oscar Wilde t\u0142umaczenia M\u0142oda Polska ruch estetyczny",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_015UoKBjweLUmeKPZiunAKG5",
+        "content": [
+          {
+            "title": "Oscar Wilde | Autor: Wszystkie ksi\u0105\u017cki, wywiady, artyku\u0142y | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/autor/6944/oscar-wilde"
+          },
+          {
+            "title": "Wanda Krajewska Oskar Wilde w literaturze M\u0142odej Polski",
+            "url": "https://bazhum.muzhp.pl/media/files/Pamietnik_Literacki_czasopismo_kwartalne_poswiecone_historii_i_krytyce_literatury_polskiej/Pamietnik_Literacki_czasopismo_kwartalne_poswiecone_historii_i_krytyce_literatury_polskiej-r1968-t59-n1/Pamietnik_Literacki_czasopismo_kwartalne_poswiecone_historii_i_krytyce_literatury_polskiej-r1968-t59-n1-s257-281/Pamietnik_Literacki_czasopismo_kwartalne_poswiecone_historii_i_krytyce_literatury_polskiej-r1968-t59-n1-s257-281.pdf"
+          },
+          {
+            "title": "Oscar Wilde - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Oscar_Wilde"
+          },
+          {
+            "title": "Oscar Wilde \u2013 encyklopediafantastyki.pl",
+            "url": "https://encyklopediafantastyki.pl/index.php?title=Oscar_Wilde"
+          },
+          {
+            "title": "M\u0142oda Polska \u2013 powt\u00f3rzenie wiadomo\u015bci cz. 3 (Kazimierz Przerwa\u2011Tetmajer, Jan Kasprowicz i Leopold Staff) - zpe.gov.pl",
+            "url": "https://zpe.gov.pl/b/mloda-polska---powtorzenie-wiadomosci-cz-3-kazimierz-przerwa-tetmajer-jan-kasprowicz-i-leopold-staff/PcRzJhR6O"
+          },
+          {
+            "title": "Oscar Wilde - Wikipedia, wolna encyklopedia",
+            "url": "https://www.classicistranieri.com/pl/articles/o/s/c/Oscar_Wilde_3590.html"
+          },
+          {
+            "title": "Oscar Wilde | wszystkie ksi\u0105\u017cki w TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/autor/oscar-wilde"
+          },
+          {
+            "title": "M\u0142oda Polska: Wiersze i Interpretacja - Tetmajer, Kasprowicz, Staff (J\u0119zyk polski) jako PDF - Knowunity",
+            "url": "https://knowunity.pl/knows/jzyk-polski-moda-polska-wiersze-6899a670-eb69-4250-baae-4319494cfd78"
+          },
+          {
+            "title": "Jan Kasprowicz \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.m.wikipedia.org/wiki/Jan_Kasprowicz"
+          },
+          {
+            "title": "Ostatnia komedia Wilde\u2019a - Miesi\u0119cznik Teatr",
+            "url": "https://teatr-pismo.pl/17187-ostatnia-komedia-wildea/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about the connection between Jan Kasprowicz, Oscar Wilde, translations, Young Poland (M\u0142oda Polska) movement, and the aesthetic movement:\n\n## Jan Kasprowicz and Oscar Wilde Translations\n\nJan Kasprowicz was one of the translators of Oscar Wilde's works into Polish. The search results confirm that Oscar Wilde's works were translated into Polish by various translators including Jan Kasprowicz, among others such as Ewa Berberyusz, Antoni Libera, Maria Feldmanowa, Andrzej Tretiak, Janina Pude\u0142ek, Jadwiga Korni\u0142owiczowa, W\u0142odzimierz Lewik, Cecylia Wojewoda and Boles\u0142aw J\u00f3zef Korzeniowski.\n\n## Young Poland (M\u0142oda Polska) Movement\n\nJan Kasprowicz was a representative of Young Poland, associated with several main currents of contemporary lyric poetry, primarily with naturalism, symbolism and expressionism. He was a Polish poet, playwright, literary critic and translator, considered one of the most outstanding poets in the history of Polish literature.\n\n## Aesthetic Movement Connection\n\nThe connection to the aesthetic movement is evident in several ways:\n\n1. **Oscar Wilde's Aestheticism**: Oscar Wilde was a representative of modernist aestheticism, which was part of the broader aesthetic movement.\n\n2. **Kasprowicz's Aesthetic Evolution**: Interestingly, Kasprowicz's image from his early period - quite strongly imitating decadents and nonconformists in the style of Oscar Wilde - had nothing to do with his peasant origins and tough personality. This suggests that Kasprowicz was influenced by Wilde's aesthetic style during his formative years.\n\n3. **Modernist Context**: The young poet first encountered Western modernit\u00e9 po\u00e9tique, the new poetics of modernism emerging in Poland, for which he broke his previous ties with positivist poetics.\n\nThe search results indicate there was scholarly interest in this topic, as evidenced by a work titled \"Oskar Wilde w literaturze M\u0142odej Polski\" (Oscar Wilde in Young Poland Literature) by Wanda Krajewska, though the full content wasn't accessible in the search results.\n\nThis connection demonstrates how international aesthetic movements, particularly through figures like Oscar Wilde, influenced Polish modernist literature and its representatives like Jan Kasprowicz during the Young Poland period."
+    ],
+    "durationSeconds": 20.214152045994997
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "session_id": "0262f963-d6f8-4237-8daf-cd971b19d54f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0262f963-d6f8-4237-8daf-cd971b19d54f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Napoleon Bonaparte Werther Goethe \"carried to Egypt\" seven times read obsession"
+  },
+  "tool_response": {
+    "query": "Napoleon Bonaparte Werther Goethe \"carried to Egypt\" seven times read obsession",
+    "results": [
+      "I'll search for information about Napoleon Bonaparte's connection to Goethe's \"Werther\" and his reported obsession with the book during his Egyptian campaign.",
+      {
+        "tool_use_id": "srvtoolu_01EVxH6Mz22iLjbC5n9BiyKU",
+        "content": []
+      },
+      "The search results confirm the famous story about Napoleon's obsession with Goethe's \"The Sorrows of Young Werther\":\n\nNapoleon Bonaparte carried a copy of Goethe's \"The Sorrows of Young Werther\" with him during his Egyptian campaign (1798-1801) and claimed to have read it seven times. This demonstrates Napoleon's deep connection to German Romantic literature and particularly to Goethe's work.\n\nNapoleon met Goethe in person in 1808 at Erfurt, where the Emperor famously greeted him with \"Voil\u00e0 un homme!\" (\"There is a man!\"). During their conversation, Napoleon discussed \"Werther\" in detail, showing his intimate knowledge of the novel.\n\nNapoleon's fascination with \"Werther\" reflected the novel's enormous cultural impact across Europe. The book, published in 1774, became a sensation and influenced an entire generation, including future military and political leaders like Napoleon.\n\nThis anecdote illustrates Napoleon's intellectual interests beyond military matters and his engagement with the literary culture of his time, particularly the Romantic movement that \"Werther\" helped to inspire."
+    ],
+    "durationSeconds": 15.205366980000399
+  }
+}

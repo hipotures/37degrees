@@ -1,0 +1,63 @@
+{
+  "session_id": "bca0f9c4-aba0-4606-9d12-d305df5c1a73",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/bca0f9c4-aba0-4606-9d12-d305df5c1a73.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"To Kill a Mockingbird\" inspired songs music references hip hop rock bands"
+  },
+  "tool_response": {
+    "query": "\"To Kill a Mockingbird\" inspired songs music references hip hop rock bands",
+    "results": [
+      "I'll search for information about songs and music references inspired by \"To Kill a Mockingbird\" across different genres including hip hop and rock.",
+      {
+        "tool_use_id": "srvtoolu_01P7PE5v185LnEkfAda5cWyF",
+        "content": [
+          {
+            "title": "To Kill a Mockingbird in popular culture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_in_popular_culture"
+          },
+          {
+            "title": "TO KILL A MOCKINGBIRD \u2013 Elmer Bernstein | MOVIE MUSIC UK",
+            "url": "https://moviemusicuk.us/2017/10/02/to-kill-a-mockingbird-elmer-bernstein-2/"
+          },
+          {
+            "title": "To Kill A Mockingbird: Music inspired by Harper Lee\u2019s masterpiece",
+            "url": "https://www.thecurrent.org/feature/2015/02/to-kill-a-mockingbird-songs-inspired-by-harper-lees-masterpiece"
+          },
+          {
+            "title": "3 Songs - To Kill A Mockingbird",
+            "url": "https://caseymockingbird.weebly.com/3-songs.html"
+          },
+          {
+            "title": "Music That Would Ideally Describe The Book \"To Kill A Mockingbird\"",
+            "url": "https://www.xsnoize.com/music-that-would-ideally-describe-the-book-to-kill-a-mockingbird/"
+          },
+          {
+            "title": "To Kill A Mockingbird Soundtrack (1962)",
+            "url": "https://www.soundtrack.net/album/to-kill-a-mockingbird-vsd-5754/"
+          },
+          {
+            "title": "Songs Representing Themes in To Kill a Mockingbird - eNotes.com",
+            "url": "https://www.enotes.com/homework-help/what-songs-could-represent-themes-characters-kill-647552"
+          },
+          {
+            "title": "To Kill a Mockingbird - Complete Original Soundtrack",
+            "url": "https://open.spotify.com/album/6w8SJl8Qs809fkf3egh5HX"
+          },
+          {
+            "title": "After 50 Years, 'To Kill A Mockingbird' Still Sings America's Song : NPR",
+            "url": "https://www.npr.org/2010/07/07/128340180/50-years-on-mockingbird-still-sings-americas-song"
+          },
+          {
+            "title": "TO KILL A MOCKINGBIRD SOUNDTRACK by Katie H on Prezi",
+            "url": "https://prezi.com/6i60_yw_4fjm/to-kill-a-mockingbird-soundtrack/"
+          }
+        ]
+      },
+      "Based on my search results, here's a comprehensive overview of songs and music references inspired by \"To Kill a Mockingbird\" across various genres:\n\n## Rock and Alternative Bands\n\nThe Knoxville, Tennessee-based rock band Atticus was inspired by To Kill a Mockingbird. The name of the Temecula, California-based band Finch was inspired by To Kill a Mockingbird. Additionally, In 2001, Blink-182 band members Mark Hoppus and Tom Delonge created the clothing line Atticus Clothing, named after the character in this book.(no content)A pop-punk band from Upstate New York is named \"Atticus Finch\" after the main character, and has a song about the events of To Kill a Mockingbird called \"Believe Tom Robinson\".\n\n## Specific Songs\n\nSeveral artists have created songs directly inspired by the novel:\n\n- The Noisettes song \"Atticus\" is inspired by To Kill a Mockingbird.\n- The Paint It Black song \"Atticus Finch\" is inspired by To Kill a Mockingbird.\n- Bruce Hornsby wrote a song called \"Sneaking Up on Boo Radley,\" which describes the kids' adventures and reactions with regard to their neighbor Boo.\n\n## Hip Hop References\n\nMost notably in hip hop, The Kendrick Lamar album's title To Pimp a Butterfly is inspired by To Kill a Mockingbird. This represents one of the most prominent hip hop connections to Harper Lee's novel.\n\n## Musical Themes and Analysis\n\nThe search results also reveal various songs that thematically connect to the novel's themes:\n\n- \"Strange Fruit\" by Billie Holiday highlights racial injustice and lynching, paralleling Tom Robinson's trial.\n- Lead Belly's \"Bourgeois Blues\" is a prime candidate for a song that can explain the book, as its author sings about racist landlords and how whites don't want blacks to be around.\n- \"Forever Young\" by Rod Stewart relates to the theme of childhood innocence in the novel\n\n## Film Score\n\nTo Kill A Mockingbird soundtrack from 1962, composed by Elmer Bernstein. The original film score has become iconic and influenced how many people associate music with the story.\n\nThe novel's impact on popular music demonstrates its enduring cultural influence across multiple genres, from punk and alternative rock to hip hop, with artists continuing to find inspiration in Harper Lee's characters and themes of justice, innocence, and moral courage."
+    ],
+    "durationSeconds": 27.94569377399981
+  }
+}

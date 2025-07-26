@@ -1,0 +1,62 @@
+{
+  "session_id": "25c2a401-88de-4e28-8dba-e70b720fd603",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/25c2a401-88de-4e28-8dba-e70b720fd603.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Solaris\" Stanis\u0142aw Lem 1961 Polska PRL odbi\u00f3r krytyk\u00f3w recepcja pierwsze wydanie"
+  },
+  "tool_response": {
+    "query": "\"Solaris\" Stanis\u0142aw Lem 1961 Polska PRL odbi\u00f3r krytyk\u00f3w recepcja pierwsze wydanie",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01CS8eM6gXszH1sXkwRZfDjf",
+        "content": [
+          {
+            "title": "Solaris - Stanis\u0142aw Lem | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/133717/solaris"
+          },
+          {
+            "title": "Solaris, Wydanie I z roku 1961 - Stanis\u0142aw Lem | ksi\u0105\u017cka w tezeusz.pl ksi\u0105\u017cki promocje, u\u017cywane ksi\u0105\u017cki, nowo\u015bci wydawnicze",
+            "url": "https://tezeusz.pl/solaris-wydanie-i-z-roku-1961-lem-stanislaw-1979501"
+          },
+          {
+            "title": "LEM STANIS\u0141AW - Solaris [wydanie pierwsze] | Antique Concept store",
+            "url": "https://www.antiqueconceptstore.com/stanislaw-lem-solaris-1961-wydanie-pierwsze"
+          },
+          {
+            "title": "Stanis\u0142aw Lem - Solaris",
+            "url": "https://solaris.lem.pl/ksiazki/beletrystyka/solaris"
+          },
+          {
+            "title": "Solaris \u2013 Stanis\u0142aw Lem | #language & literature | Culture.pl",
+            "url": "https://culture.pl/en/work/solaris-stanislaw-lem"
+          },
+          {
+            "title": "Solaris (powie\u015b\u0107) \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Solaris_(powie\u015b\u0107)"
+          },
+          {
+            "title": "Stanis\u0142aw Lem - R\u00f3\u017cne oblicza spotkania z Obcym w tw\u00f3rczo\u015bci Stanis\u0142awa Lema",
+            "url": "https://solaris.lem.pl/o-lemie/teksty-o-lemie/prace-dyplomowe/587-rozne-oblicza-spotkania-z-obcym-w-tworczosci-stanislawa-lema"
+          },
+          {
+            "title": "Stanis\u0142aw Lem - Fragment ksi\u0105\u017cki",
+            "url": "https://solaris.lem.pl/o-lemie/ksiazki-o-lemie/lem-tlumacze/520-fragment-lem-i-tlumacze"
+          },
+          {
+            "title": "Stanis\u0142aw Lem - Solaris, pierwsze wydanie ksi\u0105\u017ckowe kultowej ksi\u0105\u017cki science fiction. | Antykwariat internetowy Sobieski",
+            "url": "https://antyksobieski.pl/blog/stanislaw-lem-solaris-pierwsze-wydanie-ksiazkowe-kultowej-ksiazki-science-fiction"
+          },
+          {
+            "title": "Solaris (powie\u015b\u0107) \u2013 encyklopediafantastyki.pl",
+            "url": "https://encyklopediafantastyki.pl/index.php?title=Solaris_(powie%C5%9B%C4%87)"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about the first edition of \"Solaris\" by Stanis\u0142aw Lem from 1961 and its critical reception in Poland and the Polish People's Republic (PRL).\n\n## First Edition Publication Details\n\nPowie\u015b\u0107 Stanis\u0142awa Lema \"Solaris\" po raz pierwszy zosta\u0142a opublikowana w 1961 roku w Wydawnictwie MON (Ministerstwa Obrony Narodowej). The first edition was published in Warsaw in 1961 by the Ministry of National Defense publishing house, with 197 pages and dimensions of 12.5 x 19.5 cm. The dust jacket, cover and title page were designed by Konstanty Maria Sopo\u0107ko.\n\n## Critical Reception and Impact\n\nPowie\u015b\u0107 jest najs\u0142ynniejszym utworem Lema, tak w kraju, jak i za granic\u0105. Od niej rozpocz\u0105\u0142 si\u0119 jego \u015bwiatowy rozg\u0142os. The novel became najbardziej znana powie\u015b\u0107 Stanis\u0142awa Lema, przet\u0142umaczona na ponad 40 j\u0119zyk\u00f3w, zaliczana do klasyki fantastyki naukowej.\n\nSeveral Polish critics provided important assessments of the work:\n\n- Antoni Smuszkiewicz ocenia powie\u015b\u0107 jako \"najciekawsze zjawisko w ca\u0142ej powojennej fantastyce naukowej\"\n- Jan B\u0142o\u0144ski docenia utw\u00f3r, pisz\u0105c \u017ce w powie\u015bci \"sytuacja zaczerpni\u0119ta z science fiction zostaje podniesiona do rangi modelu psychologicznego\"\n- Niewiadowski pisze, \u017ce utw\u00f3r \"skupia wiod\u0105ce motywy pisarstwa Lema: znikomo\u015b\u0107 ludzkich d\u0105\u017ce\u0144 i dzia\u0142a\u0144 wobec przera\u017caj\u0105cego ogromu Kosmosu, heroiczn\u0105 walk\u0119 z oporn\u0105 materi\u0105\"\n\n## Challenges with Polish Critics\n\nHowever, Lem faced some difficulties with Polish literary critics. Do ko\u0144ca \u017cycia towarzyszy\u0142o mu uczucie niedocenienia i niezrozumienia \u2013 g\u0142\u00f3wnie ze strony polskich krytyk\u00f3w, ale tak\u017ce naukowc\u00f3w, kt\u00f3rzy nie traktowali powa\u017cnie jego teorii. Trudno\u015bci z klasyfikacj\u0105 przyczyni\u0142y si\u0119 kilkakrotnie do pomijania osoby i tw\u00f3rczo\u015bci Stanis\u0142awa Lema w r\u00f3\u017cnych uj\u0119ciach i antologiach literatury.\n\n## Author's Own Assessment\n\nSam autor w rozmowie ze Stanis\u0142awem Beresiem oceni\u0142 powie\u015b\u0107 jako \"zupe\u0142nie przyzwoit\u0105\", w kt\u00f3rej \"uda\u0142o mu si\u0119 powiedzie\u0107 to, co zamierza\u0142\".\n\nThe novel was significant in establishing Lem's reputation both domestically and internationally, though he continued to feel underappreciated by some Polish critics throughout his career."
+    ],
+    "durationSeconds": 26.03234772700071
+  }
+}

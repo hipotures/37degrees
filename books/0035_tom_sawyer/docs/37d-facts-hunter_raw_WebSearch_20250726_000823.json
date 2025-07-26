@@ -1,0 +1,62 @@
+{
+  "session_id": "e6537320-f282-4226-b0c0-d5beb3935bc2",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e6537320-f282-4226-b0c0-d5beb3935bc2.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Tom Sawyer cultural references popular culture parodies advertising marketing references books movies TV shows"
+  },
+  "tool_response": {
+    "query": "Tom Sawyer cultural references popular culture parodies advertising marketing references books movies TV shows",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01YScA3xHBSNzraGj4Hr7d5d",
+        "content": [
+          {
+            "title": "The Adventures of Tom Sawyer - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Adventures_of_Tom_Sawyer"
+          },
+          {
+            "title": "Rush Pop Culture References from Power Windows: A Tribute To Rush",
+            "url": "http://www.2112.net/powerwindows/rushreferences.html"
+          },
+          {
+            "title": "Most Popular Movies and TV Shows tagged with ... - IMDb",
+            "url": "https://www.imdb.com/search/keyword/?keywords=reference-to-tom-sawyer"
+          },
+          {
+            "title": "The Adventures of Tom Sawyer | National Endowment for the Arts",
+            "url": "https://www.arts.gov/initiatives/nea-big-read/adventures-tom-sawyer"
+          },
+          {
+            "title": "The Adventures of Tom Sawyer | Encyclopedia.com",
+            "url": "https://www.encyclopedia.com/arts/educational-magazines/adventures-tom-sawyer"
+          },
+          {
+            "title": "Mark Twain in popular culture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Mark_Twain_in_popular_culture"
+          },
+          {
+            "title": "The Adventures of Tom Sawyer \u2014 The Greatest Literature of All Time",
+            "url": "http://www.editoreric.com/greatlit/books/Adventures-of-Tom-Sawyer.html"
+          },
+          {
+            "title": "Tom Sawyer - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Tom_Sawyer"
+          },
+          {
+            "title": "Exploring Tom Sawyer's Exciting Journey: A Summary",
+            "url": "https://brainly.com/topic/english/the-adventures-of-tom-sawyer"
+          },
+          {
+            "title": "Have you ever seen a cultural reference in a movie or TV show and think, 'nobody's going to get that!'? - Quora",
+            "url": "https://www.quora.com/Have-you-ever-seen-a-cultural-reference-in-a-movie-or-TV-show-and-think-nobodys-going-to-get-that"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about Tom Sawyer cultural references across popular culture, including parodies, advertising, marketing, books, movies, and TV shows:\n\n## Cultural Impact and References\n\nTom Sawyer is deeply embedded in the American imagination and established America's vision of childhood more than any other work in our culture. It has become iconographic of childhood itself\u2014especially American childhood.\n\n## Film and Television Adaptations\n\nSeveral film adaptations have been made, including Tom Sawyer (1917) directed by William Desmond Taylor starring Jack Pickford, Tom Sawyer (1930) directed by John Cromwell starring Jackie Coogan, and a 1936 Soviet Union version.\n\n## Musical Adaptations\n\nIn 1956, a musical adaptation called \"We're From Missouri\" was presented, which was later retitled \"Tom Sawyer\" and performed professionally in London in 1960. Tom appears as a secondary character in the 1985 musical \"Big River,\" and in 2001, \"The Adventures of Tom Sawyer\" musical by Ken Ludwig and Don Schlitz debuted on Broadway.\n\n## Popular Culture References\n\n### Rush Music References\nThe online comic strip OverCompensating featured a character writing a song about hacking to the tune of Rush's \"Tom Sawyer\". In the movie \"Small Soldiers\" (1998), Rush's \"Tom Sawyer\" plays in the background during a phone conversation scene. The song was also played at a party in the movie \"Whatever\" (1998) and included on the soundtrack.\n\n### Google Doodle\nOn November 30, 2011, Google celebrated Mark Twain's 176th birthday with a Google Doodle depicting the famous whitewashing scene from The Adventures of Tom Sawyer.\n\n### Anime and Manga\nA character named after Twain appears in \"Bungo Stray Dogs\" (2012) with an ability called \"Huck Finn and Tom Sawyer\" named after Twain's novels.\n\n### Literary Parodies and References\nPeter Heck's series of historical mysteries features titles that are spins on Twain works, including \"Tom's Lawyer\" (2001) as a reference to The Adventures of Tom Sawyer.\n\n## Publishing Success\nTom Sawyer has been translated into over two dozen foreign languages with sales extending into the millions, making it second in popularity among Twain's books only to Huckleberry Finn. During Mark Twain's life, The Adventures of Tom Sawyer was his most popular work.\n\n## Educational and Cultural Significance\nThe character remains relevant to contemporary discussions about childhood, with observations that if Tom stepped into a modern classroom, he might be tagged as an at-risk child, making the book an invitation to discuss how American childhood has and hasn't changed.\n\nThe search results show that Tom Sawyer has had a lasting impact on popular culture, with references spanning from music and film to digital media and educational contexts, demonstrating its enduring relevance as a cultural touchstone."
+    ],
+    "durationSeconds": 27.23037216400029
+  }
+}

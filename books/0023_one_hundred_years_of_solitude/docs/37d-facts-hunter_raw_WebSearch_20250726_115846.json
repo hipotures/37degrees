@@ -1,0 +1,62 @@
+{
+  "session_id": "0f8759f7-b95e-4668-a90a-18f4c93b0e9d",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0f8759f7-b95e-4668-a90a-18f4c93b0e9d.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"One Hundred Years of Solitude\" university curriculum high school reading Latin American literature education impact"
+  },
+  "tool_response": {
+    "query": "\"One Hundred Years of Solitude\" university curriculum high school reading Latin American literature education impact",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01UqJnxqLeyPoEy6qgV54Yjs",
+        "content": [
+          {
+            "title": "Teaching One Hundred Years of Solitude ...",
+            "url": "https://semo.edu/faulkner-studies/teaching-faulkner/teaching-hundred-years.html"
+          },
+          {
+            "title": "Why is One Hundred Years of Solitude Eternally Beloved? \u2039 Literary Hub",
+            "url": "https://lithub.com/why-is-one-hundred-years-of-solitude-eternally-beloved/"
+          },
+          {
+            "title": "Why is the novel 'One Hundred Years of Solitude' considered an epitome of Latin America history? - Quora",
+            "url": "https://www.quora.com/Why-is-the-novel-One-Hundred-Years-of-Solitude-considered-an-epitome-of-Latin-America-history"
+          },
+          {
+            "title": "Ascent to Glory: How One Hundred Years of Solitude Was Written and Became a Global Classic 9780231545433 - DOKUMEN.PUB",
+            "url": "https://dokumen.pub/ascent-to-glory-how-one-hundred-years-of-solitude-was-written-and-became-a-global-classic-9780231545433.html"
+          },
+          {
+            "title": "One Hundred Years of Solitude - Annenberg Learner",
+            "url": "https://www.learner.org/series/invitation-to-world-literature/one-hundred-years-of-solitude/"
+          },
+          {
+            "title": "10 Compelling Reasons to Read One Hundred Years of Solitude",
+            "url": "https://medium.com/@francesco.saviano87/10-compelling-reasons-to-read-one-hundred-years-of-solitude-5d4a27c344bd"
+          },
+          {
+            "title": "Ascent to Glory: How One Hundred Years of Solitude was Written and Became a Global Classic | ReVista",
+            "url": "https://revista.drclas.harvard.edu/ascent-to-glory-how-one-hundred-years-of-solitude-was-written-and-became-a-global-classic/"
+          },
+          {
+            "title": "One Hundred Years of Solitude - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude"
+          },
+          {
+            "title": "Magical Realism in One Hundred Years of Solitude | NEH-Edsitement",
+            "url": "https://edsitement.neh.gov/curricula/magical-realism-one-hundred-years-solitude"
+          },
+          {
+            "title": "One Hundred Years of Solitude: Analysis | Vaia",
+            "url": "https://www.vaia.com/en-us/explanations/english-literature/american-literature/one-hundred-years-of-solitude/"
+          }
+        ]
+      },
+      "Based on the search results, I found extensive information about \"One Hundred Years of Solitude\" in educational settings, its impact on Latin American literature studies, and its role in curricula. Here's what the search revealed:\n\n## Educational Impact and Curriculum Inclusion\n\nCurrent classroom concerns with multiculturalism encourage the expansion of the canon and the inclusion of texts from other cultures. Even if this were not the case, however, there would be compelling critical and pedagogical reasons to teach William Faulkner's The Sound and the Fury along with Gabriel Garc\u00eda M\u00e1rquez's One Hundred Years of Solitude.(no content)The inclusion of a literary work in educational curricula and history of literature textbooks proves that cultural brokers think its value is long-lasting. In the case of this novel, organizations such as universities and secondary schools have made it available to new generations in different countries and cultural re\n\n## University and High School Teaching\n\nShe has taught One Hundred Years of Solitude in many settings. The novel is widely taught across educational levels, with Censors in\ufb02uenced not only what Latin American consumers read, but also what people read in Spain, especially high school and university students. Only books approved by censors were added to the national educational curriculum.\n\n## Impact on Latin American Literature Education\n\nCollege syllabi can certainly account for some of this figure, but when one considers by just how much Garc\u00eda M\u00e1rquez's sales dwarf his fellow Boom greats\u2014Carlos Fuentes, Mario Vargas Llosa, and Julio Cort\u00e1zar\u2014something more than higher education must be called to account. Nor is it easy to explain One Hundred Years of Solitude's global diffusion: published in at least 44 languages, it is the most translated Spanish-language literary work after Don Quixote.(no content)Garc\u00eda M\u00e1rquez has had a huge impact on writers around the world from Salman Rushdie in India, to Sandra Cisneros, and Toni Morrison in the United States.\n\n## Educational Significance and Global Impact\n\nI think what can be said of this book is that it captured something vital about the historical experience of hundreds of millions of people, not only in Latin America but in other colonized lands as well. Nii Ayikwei Parkes, the award-winning British novelist born to Ghanaian immigrants, has said of the book: \"[It] taught the West how to read a reality alternative to their own, which in turn opened the gates for other non-Western writers like myself and other writers from Africa and Asia.\"(no content)These themes, woven together with the history and politics of Latin America, bestow the novel with profound and multifaceted significance. Its impact goes beyond literary boundaries: it's a work that has shaped the global perception of Latin America and, conversely, how Latin America perceives itself in the eyes of the world.\n\n## Literary and Cultural Understanding\n\nI think as a young Latina it is very important to read this book. It gave us permission to write about our realities especially when we didn't see our reality in North American literature.(no content)It has been said that the novel is one of a number of texts that \"Latin American culture has created to understand itself.\" In this sense, the novel can be conceived as a linear archive that narrates the story of a Latin America discovered by European explorers, which had its historical entity developed by the printing press.\n\nThe search reveals that \"One Hundred Years of Solitude\" has had a profound impact on education at both university and high school levels, serving as a cornerstone text for understanding Latin American literature, magical realism, and multicultural perspectives in literature curricula worldwide."
+    ],
+    "durationSeconds": 27.835667524999938
+  }
+}

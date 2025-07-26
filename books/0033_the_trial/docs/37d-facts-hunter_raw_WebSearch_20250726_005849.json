@@ -1,0 +1,63 @@
+{
+  "session_id": "3a49404c-4f85-49d3-82a6-52395d74d3af",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/3a49404c-4f85-49d3-82a6-52395d74d3af.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Pawe\u0142 Huelle\" \"Andrzej Stasiuk\" Kafka inspiracja polska literatura wsp\u00f3\u0142czesna"
+  },
+  "tool_response": {
+    "query": "\"Pawe\u0142 Huelle\" \"Andrzej Stasiuk\" Kafka inspiracja polska literatura wsp\u00f3\u0142czesna",
+    "results": [
+      "I'll search for information about Pawe\u0142 Huelle and Andrzej Stasiuk in relation to Kafka's inspiration in contemporary Polish literature.",
+      {
+        "tool_use_id": "srvtoolu_012vYAcCHf7A27gyTLedNugH",
+        "content": [
+          {
+            "title": "Pawe\u0142 Huelle | Autor: Wszystkie ksi\u0105\u017cki, wywiady, artyku\u0142y | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/autor/14496/pawel-huelle"
+          },
+          {
+            "title": "Wuw",
+            "url": "https://www.wuw.pl/data/include/cms/Przeglad_Humanistyczny_4455_2016.pdf"
+          },
+          {
+            "title": "Wsp\u00f3\u0142czesna literatura polska w Czechach i czeska w Polsce - El\u017cbieta Kupczak | Nowy Napis",
+            "url": "https://nowynapis.eu/tygodnik/nr-31/artykul/wspolczesna-literatura-polska-w-czechach-i-czeska-w-polsce"
+          },
+          {
+            "title": "Pawe\u0142 Huelle : Booklips.pl",
+            "url": "https://booklips.pl/autorzy/pawel-huelle/"
+          },
+          {
+            "title": "Pawe\u0142 Huelle - Biography | Artist | Culture.pl",
+            "url": "https://culture.pl/en/artist/pawel-huelle"
+          },
+          {
+            "title": "Pawe\u0142 Huelle | wszystkie ksi\u0105\u017cki w TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/autor/pawel-huelle"
+          },
+          {
+            "title": "literatura polska wsp\u00f3\u0142czesna - EBOOK - Biluklb - Chomikuj.pl",
+            "url": "https://chomikuj.pl/Biluklb/EBOOK/literatura+polska+wsp*c3*b3*c5*82czesna"
+          },
+          {
+            "title": "Pawe\u0142 Huelle - biografia, \u017cyciorys, tw\u00f3rczo\u015b\u0107",
+            "url": "https://eszkola.pl/jezyk-polski/pawel-huelle-2772.html"
+          },
+          {
+            "title": "Huelle Pawe\u0142",
+            "url": "https://instytutksiazki.pl/literatura,8,indeks-autorow,26,pawel-huelle,843.html?filter=H"
+          },
+          {
+            "title": "Pawe\u0142 Huelle - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pawe%C5%82_Huelle"
+          }
+        ]
+      },
+      "Based on the search results, I found some information about Pawe\u0142 Huelle and Andrzej Stasiuk in the context of contemporary Polish literature, though specific references to Kafka's inspiration are limited in these results.\n\n## Key Findings:\n\nBoth Pawe\u0142 Huelle and Andrzej Stasiuk are among the well-recognized contemporary Polish writers, alongside names like Olga Tokarczuk, Joanna Bator, Dorota Mas\u0142owska, and others.\n\n### Pawe\u0142 Huelle:\n- Born in 1957, he is a prose writer, columnist, and dramatist\n- His debut novel \"Weiser Dawidek\" (1987) brought him recognition both in Poland and abroad\n- Huelle is considered, alongside Stefan Chwin, one of the most important creators of the so-called Gda\u0144sk school in contemporary Polish prose\n- The action of his works is almost always set in Gda\u0144sk\n\n### Andrzej Stasiuk:\n- Listed among the established names in contemporary Polish literature who are frequently translated into Czech\n- His work \"Miejsce\" (Place) is referenced in several educational contexts dealing with themes of identity, memory, and tradition\n\n### Contemporary Polish Literature:\nThe search results indicate that contemporary Polish authors translated into Czech include representatives of different generations: the older generation (Gombrowicz, Mi\u0142osz, Mro\u017cek), the middle generation (including Stasiuk), and the youngest (Mas\u0142owska, Witkowski).\n\nWhile these search results don't provide specific information about Kafka's influence on these particular authors, they confirm that both Huelle and Stasiuk are significant figures in contemporary Polish literature. To find more specific information about Kafka's inspiration in their works, a more targeted search might be needed."
+    ],
+    "durationSeconds": 20.613736181999556
+  }
+}

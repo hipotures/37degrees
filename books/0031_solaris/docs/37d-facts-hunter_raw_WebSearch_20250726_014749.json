@@ -1,0 +1,63 @@
+{
+  "session_id": "25c2a401-88de-4e28-8dba-e70b720fd603",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/25c2a401-88de-4e28-8dba-e70b720fd603.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "technology addiction social media personas memory identity teenagers digital relationships Solaris themes"
+  },
+  "tool_response": {
+    "query": "technology addiction social media personas memory identity teenagers digital relationships Solaris themes",
+    "results": [
+      "I'll perform a web search using your specified query.",
+      {
+        "tool_use_id": "srvtoolu_0185s5MUHexUK6PgfKLhSNh2",
+        "content": [
+          {
+            "title": "How Using Social Media Affects Teenagers - Child Mind Institute",
+            "url": "https://childmind.org/article/how-using-social-media-affects-teenagers/"
+          },
+          {
+            "title": "The Digital Self: How Social Media Serves as a Setting that Shapes Youth\u2019s Emotional Experiences | Adolescent Research Review",
+            "url": "https://link.springer.com/article/10.1007/s40894-015-0014-8"
+          },
+          {
+            "title": "Social Media Use and adolescents' mental health and well-being: An umbrella review - ScienceDirect",
+            "url": "https://www.sciencedirect.com/science/article/pii/S245195882400037X"
+          },
+          {
+            "title": "Exploring adolescents\u2019 perspectives on social media and mental health and well-being \u2013 A qualitative literature review - PMC",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9902994/"
+          },
+          {
+            "title": "Social Media and Youth Mental Health",
+            "url": "https://www.hhs.gov/sites/default/files/sg-youth-mental-health-social-media-advisory.pdf"
+          },
+          {
+            "title": "Adolescent Mental Health in the Digital Age: Facts, Fears and Future Directions - PMC",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8221420/"
+          },
+          {
+            "title": "Social media: a digital social mirror for identity development during adolescence | Current Psychology",
+            "url": "https://link.springer.com/article/10.1007/s12144-024-05980-z"
+          },
+          {
+            "title": "Full article: Belonging and loneliness in cyberspace: impacts of social media on adolescents\u2019 well-being",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/00049530.2021.1898914"
+          },
+          {
+            "title": "Youth, Identity, and Digital Media",
+            "url": "https://library.oapen.org/bitstream/handle/20.500.12657/26085/1/1004001.pdf"
+          },
+          {
+            "title": "Research trends in social media addiction and problematic social media use: A bibliometric analysis - PMC",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9707397/"
+          }
+        ]
+      },
+      "The search results provide extensive information about technology addiction, social media personas, memory, identity, and digital relationships among teenagers. Here are the key findings:\n\n## Identity Development and Social Media\n\nSocial media are settings where adolescents construct their identities while engaging in social interactions. In digital spaces, adolescents can interact with, display, and receive feedback about themselves, contributing to the development of a clear and integrated sense of self.(no content)Erikson proposed that adolescence is the developmental period where identity becomes the primary concern, and it is widely understood that adolescence is a period when youth aim to foster their own autonomy via their identity creation, sexuality, and interpersonal intimacy.\n\n## Multiple Personas and Identity Fragmentation\n\nSelf-esteem comes from consolidating who you are. The more identities you have, and the more time you spend pretending to be someone you aren't, the harder it's going to be to feel good about yourself.(no content)Facebook is a place where late adolescents experiment with their identity as their identities are not yet fixed.\n\n## Technology Addiction and Connection Pressure\n\nParticipants felt anxious and uneasy about not informing others that they had disconnected from social media for 24 hours. Adolescents mostly talked in the third person about problems disconnecting from social media, suggesting that teenagers were normalising their own behaviour in contrast with others who might be 'addicted' to social media. This could potentially enable them to avoid confronting their own levels of social media use.\n\n## Digital Relationships vs. Real-World Communication\n\nWhen friendship is conducted online and through texts, kids are doing this in a context stripped of many of the most personal \u2014 and sometimes intimidating \u2014 aspects of communication. It's easier to keep your guard up when you're texting, so less is at stake. You aren't hearing or seeing the effect that your words are having on the other person.\n\n## Memory and Hyperconnectivity\n\nAnother big change that has come with new technology and especially smart phones is that we are never really alone. The result is that kids feel hyperconnected with each other. The conversation never needs to stop, and it feels like there's always something new happening.\n\n## Mental Health Impacts\n\nExperts say kids are growing up with more anxiety and less self-esteem due to social media.(no content)Numerous quantitative studies have supported the association between social media use and psychological issues, specifically increased rates of depression, anxiety and reduced self-esteem.\n\n## Positive Aspects\n\nAdolescents described how social media could positively contribute to wellbeing, through supporting social engagement and enabling access to peer support. By tweeting, texting and posting, friendships blossomed and strengthened.(no content)Potential benefits of social media engagement included: increases in self-esteem, perceived social support and social capital, safe identity experimentation, and increased opportunities for self-disclosure.\n\nThe search didn't return specific information about \"Solaris themes\" in relation to these topics, which might refer to the science fiction work by Stanis\u0142aw Lem that explores themes of memory, identity, and artificial consciousness."
+    ],
+    "durationSeconds": 27.478948234999553
+  }
+}

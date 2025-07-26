@@ -1,0 +1,62 @@
+{
+  "session_id": "8e510ca3-dab1-4e58-b10a-336d368b79a7",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e510ca3-dab1-4e58-b10a-336d368b79a7.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Pan Tadeusz\" szlachta obyczaje polsko-litewskie tradycje kulturowe polonez polowanie"
+  },
+  "tool_response": {
+    "query": "\"Pan Tadeusz\" szlachta obyczaje polsko-litewskie tradycje kulturowe polonez polowanie",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01L9Hdr5cNFiUzj4Uhmb786Z",
+        "content": [
+          {
+            "title": "Zwyczaje i obyczaje szlacheckie w \"Panu Tadeuszu\" - Lektury - Bryk.pl",
+            "url": "https://www.bryk.pl/wypracowania/jezyk-polski/lektury/1001047-zwyczaje-i-obyczaje-szlacheckie-w-panu-tadeuszu.html"
+          },
+          {
+            "title": "obyczaje szlacheckie z ksiazki pod tytu\u0142em pan Tadeusz",
+            "url": "https://brainly.pl/zadanie/22248734"
+          },
+          {
+            "title": "Obyczaje szlachty polskiej utrwalone w Panu Tadeuszu. | AleKlasa",
+            "url": "https://aleklasa.pl/liceum/praca-domowa-w-liceum/wypracowania-z-romantyzmu/obyczaje-szlachty-w-panu-tadeuszu"
+          },
+          {
+            "title": "\u201ePan Tadeusz\u201d szlacheckie obyczaje i tradycje: Mickiewicz w ...",
+            "url": "https://golaszyn.gminalukow.pl/pdf/pan_tadeusz_szlacheckie_obyczaje_i_tradycje.pdf"
+          },
+          {
+            "title": "Zwyczaje i obyczaje szlacheckie w kulturze polskiej",
+            "url": "https://setkazpolaka.pl/zwyczaje-i-obyczaje-szlacheckie-w-kulturze-polskiej/"
+          },
+          {
+            "title": "Szlacheckie obyczaje i tradycje w \"Panu Tadeuszu\" - Sciaga.pl",
+            "url": "https://sciaga.pl/tekst/119512-120-szlacheckie-obyczaje-i-tradycje-w-panu-tadeuszu"
+          },
+          {
+            "title": "Zwyczaje szlacheckie w Panu Tadeuszu - Pan Tadeusz - Adam Mickiewicz",
+            "url": "https://poezja.org/wz/interpretacja/4217/Zwyczaje_i_obyczaje_szlacheckie_w_kulturze_polskiej_na_podstawie_Pana_Tadeusza"
+          },
+          {
+            "title": "Zwyczaje i obyczaje szlacheckie w kulturze polskiej. Om\u00f3w zagadnienie na podstawie Pana Tadeusza Adama Mickiewicza. W swojej odpowiedzi uwzgl\u0119dnij r\u00f3wnie\u017c wybrany kontekst. - Baba od polskiego",
+            "url": "https://babaodpolskiego.pl/zwyczaje-i-obyczaje-szlacheckie-w-kulturze-polskiej/"
+          },
+          {
+            "title": "Szlacheckie obyczaje i tradycje w \"Panu Tadeuszu\". - Szkola-edukacja.pl",
+            "url": "https://szkola-edukacja.pl/content/1105-szlacheckie-obyczaje-i-tradycje-w-panu-tadeuszu.html"
+          },
+          {
+            "title": "Opracowanie na matur\u0119: Zwyczaje i obyczaje szlacheckie w kulturze polskiej. Om\u00f3w zagadnienie na podstawie \u201ePana Tadeusza\u201d Adama Mickiewicza | Strefa Edukacji",
+            "url": "https://strefaedukacji.pl/opracowanie-na-mature-zwyczaje-i-obyczaje-szlacheckie-w-kulturze-polskiej-omow-zagadnienie-na-podstawie-pana-tadeusza-adama/ar/c5-18057655"
+          }
+        ]
+      },
+      "Based on the web search results, I can provide comprehensive information about Polish-Lithuanian noble customs and traditions as portrayed in Pan Tadeusz. Here's what the search revealed:\n\n## Szlacheckie Obyczaje i Tradycje w \"Panu Tadeuszu\"\n\nPolonez odgrywa\u0142 szczeg\u00f3ln\u0105 rol\u0119 jako taniec rozpoczynaj\u0105cy i ko\u0144cz\u0105cy uroczysto\u015bci, a w obyczaju zar\u0119czyn mia\u0142 szczeg\u00f3lnie wa\u017cne znaczenie.\n\nObyczaj polowania rozpoczyna\u0142 si\u0119 msz\u0105, nast\u0119pnie d\u017awi\u0119kiem tr\u0105b \u2013 p\u00f3\u017aniej mia\u0142o sw\u00f3j scenariusz: nagonk\u0119, ob\u0142aw\u0119 z udzia\u0142em specjalnie szkolonych ps\u00f3w. Ko\u0144czy\u0142o si\u0119 gr\u0105 na rogu i staropolskim bigosem. Najwy\u017csi urz\u0119dem polowali na zwierz\u0119ta z k\u0142ami lub poro\u017cem (np. jelenie lub nied\u017awiedzie), natomiast pozostali \u2013 mi\u0119dzy innymi na zaj\u0105ce.\n\n### Obyczaje kulinarne i sto\u0142owe\n\nTradycje dawa\u0142y obraz polskiej go\u015bcinno\u015bci oraz szacunku dla os\u00f3b starszych i kobiet. Spos\u00f3b zasiadania za sto\u0142em \u2013 najwy\u017csze miejsce zajmowa\u0142 Podkomorzy ze wzgl\u0119du na wiek i urz\u0105d, obok ksi\u0105dz, potem S\u0119dzia, czyli gospodarz. Tadeusz otrzymywa\u0142 wa\u017cne miejsce \u2013 przy stryju i przy damach (cho\u0107 m\u0142ody), by\u0142 bowiem go\u015bciem. Obyczaj \u015bci\u015ble okre\u015bla\u0142 spos\u00f3b zasiadania przy stole \u2013 wyr\u00f3\u017cnia\u0142 urz\u0105d i wiek go\u015bci.\n\nObyczaje kulinarne obejmowa\u0142y \u015bniadanie, wieczerz\u0119, uczt\u0119, wymienione przez Mickiewicza zupy \u2013 ch\u0142odziec litewski, barszcz i ros\u00f3\u0142 z per\u0142\u0105 i monet\u0105. Toasty wznoszono w odpowiedniej kolejno\u015bci zazwyczaj w\u00f3dk\u0105, ale te\u017c pito w\u0119grzyn, wino, arkas.\n\n### Inne tradycje\n\nGrzybobranie by\u0142o popularn\u0105 rozrywk\u0105, zbierano g\u0142\u00f3wnie ko\u017alarze, borowiki i rydze. Zak\u0142adano p\u0142\u00f3cienne opo\u0144cze (obszerne p\u0142aszcze bez r\u0119kaw\u00f3w i bez pelerynki, z kapturem), kt\u00f3rymi os\u0142aniano z wierzchu kontusze, a na g\u0142owy wk\u0142adano s\u0142omiane kapelusze.\n\nStr\u00f3j szlachecki to kontusz, pas s\u0142ucki, szabla. Dla dziewcz\u0105t \u2013 szlachecka sukienka z serdaczkiem, fryzura to proste warkocze.\n\nZajazdy wynika\u0142y ze sk\u0142onno\u015bci do samos\u0105d\u00f3w i k\u0142\u00f3tliwo\u015bci. Szlachta zbiera\u0142a wojsko i sama wydawa\u0142a wyrok. Wa\u017cn\u0105 osob\u0105 by\u0142 Wo\u017any, kt\u00f3ry zanosi\u0142 zapowied\u017a zajazdu i og\u0142asza\u0142 zaj\u0119cie ziemi przez organizatora zajazdu.\n\n### Znaczenie kulturowe\n\nWierno\u015b\u0107 obyczajom i tradycji by\u0142a obron\u0105 dawnej Polski przed zapomnieniem, walk\u0105 o jej przetrwanie cho\u0107by w \u015bwiadomo\u015bci narodu, istot\u0105 ojczyzny i ocaleniem dawnych warto\u015bci. Piel\u0119gnowanie zwyczaj\u00f3w pomaga\u0142o zachowa\u0107 to\u017csamo\u015b\u0107 narodow\u0105."
+    ],
+    "durationSeconds": 32.78000076300005
+  }
+}

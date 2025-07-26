@@ -1,0 +1,62 @@
+{
+  "session_id": "95239c3a-5fbf-4fbf-93f7-3afd6ea78885",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/95239c3a-5fbf-4fbf-93f7-3afd6ea78885.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Wuthering Heights\" 1939 film Laurence Olivier Merle Oberon William Wyler 8 Academy Award nominations"
+  },
+  "tool_response": {
+    "query": "\"Wuthering Heights\" 1939 film Laurence Olivier Merle Oberon William Wyler 8 Academy Award nominations",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_0131QrjwtimHeMzexinFhoF3",
+        "content": [
+          {
+            "title": "Wuthering Heights (1939 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Wuthering_Heights_(1939_film)"
+          },
+          {
+            "title": "WUTHERING HEIGHTS, 1939, classic movie, Laurence Olivier, Merle Oberon, David Niven, Flora Robson, Geraldine Fitzgerald, Gregg Toland, Hollywood movie William Wyler, Donald Crisp, Leo G. Carroll",
+            "url": "https://www.jaysclassicmovieblog.com/post/wuthering-heights-1939"
+          },
+          {
+            "title": "Wuthering Heights (film) | EBSCO Research Starters",
+            "url": "https://www.ebsco.com/research-starters/film/wuthering-heights-film"
+          },
+          {
+            "title": "Wuthering Heights (1939) \u2b50 7.5 | Drama, Romance",
+            "url": "https://www.imdb.com/title/tt0032145/"
+          },
+          {
+            "title": "Wuthering Heights (1939) | Moviepedia | Fandom",
+            "url": "https://movies.fandom.com/wiki/Wuthering_Heights_(1939)"
+          },
+          {
+            "title": "Wuthering Heights | Romantic Drama, Emily Bronte, Classic | Britannica",
+            "url": "https://www.britannica.com/topic/Wuthering-Heights-film-1939"
+          },
+          {
+            "title": "Wuthering Heights (1939)",
+            "url": "https://www.cinemaessentials.com/2017/10/wuthering-heights-1939-laurence-olivier-merle-oberon-review.html"
+          },
+          {
+            "title": "Favorite Films of 1939: Wuthering Heights - Vivien Leigh and Laurence Olivier",
+            "url": "http://vivandlarry.com/classic-film/favorite-films-of-1939-wuthering-heights/"
+          },
+          {
+            "title": "Wuthering Heights (1939) \u2013 Classic for a Reason",
+            "url": "https://classicforareason.com/2016/10/04/wuthering-heights-1939/"
+          },
+          {
+            "title": "Wuthering Heights (1939) - Awards - IMDb",
+            "url": "https://www.imdb.com/title/tt0032145/awards/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide comprehensive information about the 1939 film \"Wuthering Heights\":\n\n\"Wuthering Heights\" is a 1939 American romantic period drama film directed by William Wyler, produced by Samuel Goldwyn, starring Merle Oberon, Laurence Olivier and David Niven, and based on the 1847 novel Wuthering Heights by Emily Bront\u00eb.\n\n## Academy Award Recognition\n\nThe film earned nominations for eight Academy Awards, including for Best Picture, Best Director and Best Actor.(no content)The 1940 Academy Award for Best Cinematography, black-and-white category, was awarded to Gregg Toland for his work.(no content)Toland's astounding work won him the film's only Academy Award (Best Cinematography) \u2014 and the only win of his five career nominations.\n\n## Production Details\n\nThe film depicts only 16 of the novel's 34 chapters, eliminating the second generation of characters.(no content)The novel was adapted for the screen by Charles MacArthur, Ben Hecht and John Huston (uncredited).\n\n## Cast and Performances\n\nThe film featured an impressive cast including Flora Robson and Geraldine Fitzgerald in supporting roles. Fitzgerald's performance earned her a Best Supporting Actress Academy Award nomination (her only).\n\n## Critical Success and Legacy\n\nThe film won the 1939 New York Film Critics Award for Best Film.(no content)Despite some on-set conflicts, the film received critical acclaim, garnering eight Academy Award nominations and winning one for Best Cinematography. Although it did not perform strongly at the box office, its artistic merits led to its selection for preservation in the United States National Film Registry in 2007 for its cultural and historical significance.\n\n## Production Challenges\n\nThe production was notable for tensions between the lead actors. Merle Oberon and Laurence Olivier also apparently detested each other, even though both had performed together the year before in The Divorce of Lady X.(no content)Tensions between the lead actors, Olivier and Oberon, were high on set, with one reported interaction involving Olivier accidentally spitting in Oberon's face during a romantic scene. Oberon became very upset, eventually storming off set and refusing to return without an apology from Olivier. The film's director, William Wyler, demanded that Olivier apologize, to which Olivier reacted extremely poorly.\n\nThe film remains \"one of the most unforgettable love stories ever put on film\" and stands as a testament to Hollywood's golden age of filmmaking."
+    ],
+    "durationSeconds": 21.46099941300007
+  }
+}

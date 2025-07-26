@@ -1,0 +1,63 @@
+{
+  "session_id": "3a49404c-4f85-49d3-82a6-52395d74d3af",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/3a49404c-4f85-49d3-82a6-52395d74d3af.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"The Trial\" Kafka TV series adaptation miniseries Netflix BBC"
+  },
+  "tool_response": {
+    "query": "\"The Trial\" Kafka TV series adaptation miniseries Netflix BBC",
+    "results": [
+      "I'll search for information about TV adaptations of Kafka's \"The Trial\" on Netflix and BBC.",
+      {
+        "tool_use_id": "srvtoolu_01Sem8n6RmMg28tkLMHwoLe8",
+        "content": [
+          {
+            "title": "Franz Kafka's life wasn't so kafkaesque after all, TV miniseries shows",
+            "url": "https://www.npr.org/2024/06/10/nx-s1-4952406/kafka-tv-miniseries-kafkaesque"
+          },
+          {
+            "title": "The Trial - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Trial"
+          },
+          {
+            "title": "'Kafka' conjures a thoughtful -- and occasionally bizarre -- portrait of an iconic artist : NPR",
+            "url": "https://www.npr.org/2024/06/20/g-s1-5345/kafka-reviews-netflix-miniseries-profiles-czech-writer"
+          },
+          {
+            "title": "The Trial | Summary, Legacy, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/The-Trial-novel-by-Kafka"
+          },
+          {
+            "title": "Amazon.com: The Trial : Kyle MacLachlan, Anthony Hopkins, Jason Robards, Juliet Stevenson, Polly Walker, Alfred Molina, David Thewlis, Michael Kitchen, Tony Haygarth, Douglas Hodge, Jir\u00ed Schwarz, David Schneider, David Hugh Jones, Ann Wingate, Carolyn Montagu, Geoffrey Paget, Kobi Jaeger, Louis Marks, Franz Kafka, Harold Pinter: Movies & TV",
+            "url": "https://www.amazon.com/Trial-Kyle-MacLachlan/dp/B00000G0DU"
+          },
+          {
+            "title": "The Trial (1993 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Trial_(1993_film)"
+          },
+          {
+            "title": "The Trial (TV series)",
+            "url": "https://en.wikipedia.org/wiki/The_Trial_(TV_series)"
+          },
+          {
+            "title": "Wes Anderson meets Franz Kafka in a new streaming series \u2013 The Forward",
+            "url": "https://forward.com/culture/film-tv/618319/franz-kafka-chaiflicks-jewish-author/"
+          },
+          {
+            "title": "The Trial (1962) | Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/m/the_trial_1962"
+          },
+          {
+            "title": "The Trial | Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/m/1047936-trial"
+          }
+        ]
+      },
+      "Based on my search results, I found several adaptations of Kafka's \"The Trial\" but let me provide you with the most relevant information about TV/miniseries adaptations:\n\n## Recent Kafka Miniseries (2024)\n\nThe most recent is a six-part German-Austrian miniseries called \"Kafka\" that was co-produced by Germany's ARD, Austria's ORF and Superfilm, and is now streaming on ChaiFlicks (not Netflix). This series focuses on Franz Kafka's life rather than being a direct adaptation of \"The Trial,\" though it does reference how Kafka's confrontation with his fianc\u00e9e Felice Bauer inspired his novel The Trial.\n\n## BBC Adaptations\n\n### 1993 BBC Film\nThe Trial is a 1993 film made by the British Broadcasting Corporation (BBC) based on Harold Pinter's screenplay adaptation of Franz Kafka's 1925 novel The Trial. Directed by David Jones and produced by Jan Balzer and Louis Marks, the film stars Kyle MacLachlan and has cameo appearances by several prominent British actors including Anthony Hopkins.\n\n### 2015 BBC Radio Drama\nSam Troughton starred as Joseph Kay in a new adaptation by Mark Ravenhill titled The Process directed by Polly Thomas and broadcast on 10 May 2015 on BBC Radio 3's Drama on 3 program.\n\n## Other Film Adaptations\n\nThe search results also mention:\n- The 1962 film adaptation by Orson Welles, with Josef K. played by Anthony Perkins\n- The 1993 film The Trial was based on Harold Pinter's screenplay adaptation. Directed by David Jones, it starred Kyle MacLachlan as Josef K. and Anthony Hopkins as The Priest\n\nTo clarify: I did not find any Netflix adaptation of \"The Trial\" specifically. The recent \"Kafka\" miniseries is available on ChaiFlicks, and while it references how The Trial was inspired by events in Kafka's life, it is not a direct adaptation of the novel itself."
+    ],
+    "durationSeconds": 23.229391272000036
+  }
+}

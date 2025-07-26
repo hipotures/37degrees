@@ -1,0 +1,62 @@
+{
+  "session_id": "95239c3a-5fbf-4fbf-93f7-3afd6ea78885",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/95239c3a-5fbf-4fbf-93f7-3afd6ea78885.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Wuthering Heights\" psychological analysis childhood trauma Heathcliff Catherine abandonment"
+  },
+  "tool_response": {
+    "query": "\"Wuthering Heights\" psychological analysis childhood trauma Heathcliff Catherine abandonment",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01CuSbiBKjj3NXFeGZECHnca",
+        "content": [
+          {
+            "title": "Wuthering Heights Analysis",
+            "url": "https://kaitlynessays.com/wuthering-heights-analysis/"
+          },
+          {
+            "title": "Wuthering Heights - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Wuthering_Heights"
+          },
+          {
+            "title": "(PDF) Catherine Earnshaw\u2019s Trauma in Emily Bront\u00eb\u2019s Wuthering Heights: BPD and Conflicted Loyalties",
+            "url": "https://www.researchgate.net/publication/383542136_Catherine_Earnshaw's_Trauma_in_Emily_Bronte's_Wuthering_Heights_BPD_and_Conflicted_Loyalties"
+          },
+          {
+            "title": "Psychological Profiles of Wuthering Heights Characters | chatnoir's Blog",
+            "url": "https://chatnoirco.wordpress.com/2012/01/13/psychological-profiles-of-wuthering-heights-characters/"
+          },
+          {
+            "title": "Psychoanalytic Theory While Reading Bronte's Wuthering Heights - Free Essay Example - Edubirdie",
+            "url": "https://hub.edubirdie.com/examples/psychoanalytic-theory-while-reading-brontes-wuthering-heights/"
+          },
+          {
+            "title": "Wuthering Heights: Cycles of Abuse | by Sophie Daubigney | Medium",
+            "url": "https://sophie-daubigney.medium.com/wuthering-heights-cycles-of-abuse-9723d567336"
+          },
+          {
+            "title": "Salempress",
+            "url": "https://online.salempress.com/articleDetails.do?articleName=CIMS_0008&activationcode=ehsknights"
+          },
+          {
+            "title": "Heathcliff (Wuthering Heights) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Heathcliff_(Wuthering_Heights)"
+          },
+          {
+            "title": "Wuthering Heights by Emily Bront\u00eb | Plot, Characters & Analysis - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/wuthering-heights-plot-overview-and-character-analysis.html"
+          },
+          {
+            "title": "3 Lessons on Toxic Love from Wuthering Heights - In the Light Room",
+            "url": "https://inthelightroom.org/3-lessons-on-toxic-love-from-wuthering-heights/"
+          }
+        ]
+      },
+      "Based on the search results, here's what I found regarding the psychological analysis of childhood trauma and abandonment in Wuthering Heights, particularly focusing on Heathcliff and Catherine:\n\n## Childhood Trauma and Abandonment in Wuthering Heights\n\nChildhood is a central theme of Wuthering Heights.(no content)This paper explores the profound impact of trauma on Catherine Earnshaw in Emily Bront\u00eb's Wuthering Heights, specifically focusing on how her experiences of abuse and abandonment contribute to symptoms of Borderline Personality Disorder (BPD).\n\n### Heathcliff's Traumatic Origins\n\nA foundling discovered on the streets of Liverpool and raised by the Earnshaw family of Wuthering Heights in Yorkshire, Heathcliff's past and early childhood before his mysterious adoption are only hinted at by Bront\u00eb.(no content)He was abandoned as a child, and Mr. Earnshaw found him in deplorable conditions.(no content)He and his new wife Frances force Heathcliff to live as one of their servants and subject him to much verbal and emotional abuse.(no content)As a boy, Heathcliff is bullied because of his class and race, which only harden him so that by adulthood, Heathcliff's character is stripped of all feeling to the extent where he doesn't even resemble 'a human being'.\n\n### Catherine's Abandonment Issues\n\nCatherine Earnshaw is first introduced as an abandoned sobbing child who mourns about being forsaken for her whole life.(no content)Having lost her mother, Catherine's sense of having been abandoned is intensified when her brother leaves her for college\u2026\n\n### Psychological Impact and Patterns\n\nThe trauma manifests in several ways:\n\n**PTSD and Complex Trauma**: Even though Catherine and Heathcliff are separated and both resume living in a state of suspended adolescence, they never stop experiencing life through the lens of complex PTSD.(no content)Catherine in Wuthering Heights has insomnia and emotional outbursts; moreover, they can suffer from difficulty in relationships, which is the main interest of this article.\n\n**Identity Fusion**: fusion of identity is reminiscent of a profound interdependence, a symbiosis wherein Cathy and Heathcliff become inextricably entwined.(no content)He tells Nelly, \"I cannot live without my life! I cannot live without my soul!\" suggesting that his very selfhood is dependent on Catherine's existence.\n\n**Cycle of Abuse**: Heathcliff recycles these feelings of bitterness by abusing those around him, such as his wife and son.(no content)The novel, spanning across two generations, illustrates how the actions and emotions of one generation reverberate into the next, creating a cycle of suffering, revenge, and redemption.\n\n### Toxic Love and Dependency\n\nCatherine and Heathcliff are without a doubt synonymous with 'toxic behaviour,' 'childhood trauma,' 'poor communication skills,' 'emotional abuse' and 'manipulation.'(no content)Catherine and Heathcliff's dependency on each other cross healthy boundaries.\n\n### Defense Mechanisms\n\nDenial and repression are two psychological concepts Freud discussed and are clearly illustrated in the novel's characters. It is shown by the character of Catherine Earnshaw, who denies the fact that she is fond of Heathcliff and rather marries Edgar Linton.\n\nThe search results reveal that modern psychological analysis of Wuthering Heights focuses heavily on how childhood abandonment and trauma shape the characters' destructive patterns, particularly through the lens of PTSD, BPD, and attachment disorders that perpetuate cycles of abuse across generations."
+    ],
+    "durationSeconds": 31.345964294999956
+  }
+}

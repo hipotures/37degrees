@@ -1,0 +1,62 @@
+{
+  "session_id": "8e510ca3-dab1-4e58-b10a-336d368b79a7",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e510ca3-dab1-4e58-b10a-336d368b79a7.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Pan Tadeusz other film adaptations television radio drama theater productions Poland"
+  },
+  "tool_response": {
+    "query": "Pan Tadeusz other film adaptations television radio drama theater productions Poland",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01SuAaYGU8qZa3idwEe6JfBy",
+        "content": [
+          {
+            "title": "Pan Tadeusz (1999) \u2b50 6.1 | Drama, History, Romance",
+            "url": "https://www.imdb.com/title/tt0170351/"
+          },
+          {
+            "title": "Pan Tadeusz (1999) - User reviews - IMDb",
+            "url": "https://www.imdb.com/title/tt0170351/reviews/"
+          },
+          {
+            "title": "Pan Tadeusz - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pan_Tadeusz"
+          },
+          {
+            "title": "Piotr Cyrwus | Actor, Director, Writer",
+            "url": "https://m.imdb.com/name/nm0194305/?showAllCredits=true"
+          },
+          {
+            "title": "Pan Tadeusz | Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/m/pan_tadeusz"
+          },
+          {
+            "title": "PAN TADEUSZ \u2013 Wojciech Kilar | MOVIE MUSIC UK",
+            "url": "https://moviemusicuk.us/2019/05/06/pan-tadeusz-wojciech-kilar-2/"
+          },
+          {
+            "title": "Sir Thaddeus (1999 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Sir_Thaddeus_(1999_film)"
+          },
+          {
+            "title": "Theatre of Poland - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Theatre_of_Poland"
+          },
+          {
+            "title": "Cinema of Poland - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Cinema_of_Poland"
+          },
+          {
+            "title": "Family Theater - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Family_Theater"
+          }
+        ]
+      },
+      "Based on my search results, I can provide information about various adaptations of \"Pan Tadeusz\" by Adam Mickiewicz:\n\n## Film Adaptations\n\nThe first film version of the poem as a feature was produced in 1928.(no content)The film version made by Andrzej Wajda in 1999 was his great cinematic success in Poland.(no content)One of the most beloved literary works in the history of Polish History, \"Pan Tadeusz\" was never adapted to the screen before the 1999 version, though this appears to refer to major adaptations rather than the 1928 version.\n\nThe 1999 film directed by Andrzej Wajda was particularly successful: The film, which was made on a three-million dollar budget, beat all records of popularity in Poland.(no content)On the first weekend 420,000 Poles saw the movie.(no content)By mid-November more than three million Poles watched Pan Tadeusz in the 130 movie theaters nationwide.\n\n## Awards and Recognition\n\nYet it achieved tremendous success at the Polish Film Awards, earning eleven nominations, winning eight for Best Picture, Best Director, Best Cinematography, Best Editing, Best Actress, Best Production Design, Best Sound and Best Film Score.(no content)Pan Tadeusz was Poland's official Best Foreign Language Film submission at the 72nd Academy Awards, but did not manage to receive a nomination.\n\n## Theater Productions\n\nThis is a theatre style production though and a very good adaptation of Mickiewicz's epic novel. The search results indicate theatrical elements in the film adaptation but don't provide specific details about standalone theater productions of Pan Tadeusz in Poland.\n\n## Cultural Impact\n\nPan Tadeusz is required reading in Polish schools, and its original manuscript is considered to be the most important holding of the Ossolineum.(no content)Pan Tadeusz, Poland's national epic, is compulsory reading in Polish schools and has been translated into 33 languages.(no content)In 2014 Pan Tadeusz was incorporated into Poland's list in the UNESCO Memory of the World Programme.\n\nThe search results primarily focus on the famous 1999 film adaptation by Andrzej Wajda, with limited information about other specific television, radio, or theater adaptations. The poem's status as Poland's national epic suggests there have likely been other adaptations across different media, but specific details about these weren't found in the current search results."
+    ],
+    "durationSeconds": 20.200853836000025
+  }
+}

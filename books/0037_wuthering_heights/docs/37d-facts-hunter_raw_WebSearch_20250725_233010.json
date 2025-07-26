@@ -1,0 +1,62 @@
+{
+  "session_id": "95239c3a-5fbf-4fbf-93f7-3afd6ea78885",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/95239c3a-5fbf-4fbf-93f7-3afd6ea78885.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Wuthering Heights international reception translations worldwide adaptations global cultural impact different countries"
+  },
+  "tool_response": {
+    "query": "Wuthering Heights international reception translations worldwide adaptations global cultural impact different countries",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01HBA8cLDygzdG8KKqdUukLp",
+        "content": [
+          {
+            "title": "The Reception of Wuthering Heights in China",
+            "url": "https://www.sciedupress.com/journal/index.php/wjel/article/download/23324/14515"
+          },
+          {
+            "title": "The Translation and Dissemination of Wuthering Heights in ...",
+            "url": "https://papers.iafor.org/submission63869/"
+          },
+          {
+            "title": "Wuthering Heights - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Wuthering_Heights"
+          },
+          {
+            "title": "(PDF) The Reception of Wuthering Heights in China: English-Chinese Translation, Dissemination, and Adaptation",
+            "url": "https://www.researchgate.net/publication/369062880_The_Reception_of_Wuthering_Heights_in_China_English-Chinese_Translation_Dissemination_and_Adaptation"
+          },
+          {
+            "title": "Wuthering heights' three Chinese translated versions' ...",
+            "url": "https://pdfs.semanticscholar.org/d04e/43046e11aa20365a5b66693f59af1455aeba.pdf"
+          },
+          {
+            "title": "The Reception of Wuthering Heights in China: English-Chinese Translation, Dissemination, and Adaptation | Zhang | World Journal of English Language",
+            "url": "https://www.sciedupress.com/journal/index.php/wjel/article/view/23324"
+          },
+          {
+            "title": "The Reception of Wuthering Heights in China: English-Chinese Translation, Dissemination, and Adaptation",
+            "url": "https://ideas.repec.org/a/jfr/wjel11/v13y2023i2p374.html"
+          },
+          {
+            "title": "Distance and Fidelity of Wuthering Heights Adaptations",
+            "url": "https://storymaps.arcgis.com/stories/9ad014f6dce34567bee54e4c58343255"
+          },
+          {
+            "title": "Calstate",
+            "url": "https://scholarworks.calstate.edu/downloads/7s75dj602"
+          },
+          {
+            "title": "Wuthering Heights on Film and Television: A Journey Across Time and Cultures, Hazette",
+            "url": "https://press.uchicago.edu/ucp/books/book/distributed/W/bo22229379.html"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about the international reception, translations, and global cultural impact of *Wuthering Heights* across different countries:\n\n## International Reception and Translations\n\nThough contemporaneous reviews were polarised, Wuthering Heights has come to be considered one of the greatest novels written in English. It was controversial for its depictions of mental and physical cruelty, including domestic abuse, and for its challenges to Victorian morality, religion, and the class system.(no content)Writing for BBC Culture in 2015 author and book reviewer Jane Ciabattari polled 82 book critics from outside the UK and presented Wuthering Heights as number 7 in the resulting list of 100 greatest British novels.\n\n## Reception in China\n\nThe novel has had particularly significant reception in China. About half a century after its publication in 1847, Wuthering Heights came to China and became part of the historical process of this country; as a result it was constantly transformed to meet the demands of Chinese political and cultural reality.(no content)The researchers found that the past nine decades witnessed the successful reception of Wuthering Heights in China for four reasons. First, the policies in the literary field contributed to its translation. Second, the reviews of the work in British literature textbooks and academic studies promoted the original text's dissemination. Third, disseminating the movie adaptations enables more Chinese readers to know the classic, contributing to the original text's dissemination. Fourth, the transmission of the children's extracurricular bilingual reading material adapted from it gave Chinese teenagers a chance to know the novel's plot and enhanced their reading ability, promoting the dissemination of Wuthering Heights in China.\n\n## Global Adaptations\n\nIt has inspired an array of adaptations across several media, including English singer-songwriter Kate Bush's song \"Wuthering Heights\".(no content)Emily Bront\u00eb's beloved novel Wuthering Heights has been adapted countless times for film and television over the decades. Val\u00e9rie V.Hazette offers here a historical and transnational study of those adaptations, presenting the afterlife of the book as a series of cultural journeys that focuses as much on the readers, filmmakers, and viewers as on the dramas themselves. Taking in the British silent film; French, Mexican, and Japanese versions; the British television serials; and more, this richly theoretical volume is the first comprehensive global analysis of the adaptation of Wuthering Heights\n\nIn China specifically, It was adapted into two dramas in the 1940s: To Die for Love by Sun Daolin (1921\u20132007) mainly performed in the Japanese-occupied areas; and Everlasting Resentment by Zhao Qingge (1914\u20131999) mainly performed in Kuomintang-controlled areas. The dramatization of Wuthering Heights involves the construction of nationalist discourse to meet Chinese social demands during wartime.\n\n## Educational Impact\n\nWuthering Heights is in university's foreign literature class and has also been on the book recommendations list for junior and senior high school students from the Chinese Ministry of Education.\n\nThe search results reveal that *Wuthering Heights* has achieved significant global cultural impact through translations into multiple languages, diverse adaptations across various media, and integration into educational curricula, particularly demonstrating strong reception in China where it has been culturally adapted to meet local social and political contexts."
+    ],
+    "durationSeconds": 19.982421036000016
+  }
+}

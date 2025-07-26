@@ -1,0 +1,62 @@
+{
+  "session_id": "95239c3a-5fbf-4fbf-93f7-3afd6ea78885",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/95239c3a-5fbf-4fbf-93f7-3afd6ea78885.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Wuthering Heights\" enemies to lovers trope red flags modern relationships 2024"
+  },
+  "tool_response": {
+    "query": "\"Wuthering Heights\" enemies to lovers trope red flags modern relationships 2024",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_018yLdqEUrF7L3oHzgcxjpuk",
+        "content": [
+          {
+            "title": "\u201cI Am Heathcliff\u201d and Other Red Flags: How Wuthering Heights Predicted Modern Dating Culture | by Ankita | Write Your World | Medium",
+            "url": "https://medium.com/write-your-world/i-am-heathcliff-and-other-red-flags-how-wuthering-heights-predicted-modern-dating-culture-358335767169"
+          },
+          {
+            "title": "A Hate Letter To Wuthering Heights",
+            "url": "https://www.readinghasruinedmylife.com/post/a-hate-letter-to-wuthering-heights"
+          },
+          {
+            "title": "cycle of abuse \u2013 Darker Fables",
+            "url": "https://darkerfables.wordpress.com/tag/cycle-of-abuse/"
+          },
+          {
+            "title": "Toxic Relationships: What Wuthering Heights taught me about love \u2013 Era Journal",
+            "url": "https://erajournal.co.uk/literature/toxic-relationships-what-wuthering-heights-taught-me-about-love/"
+          },
+          {
+            "title": "YMMV / Wuthering Heights - TV Tropes",
+            "url": "https://tvtropes.org/pmwiki/pmwiki.php/YMMV/WutheringHeights"
+          },
+          {
+            "title": "Heathcliff From \"Wuthering Heights\" Isn\u2019t A Romantic Anti-Hero, He\u2019s A F*cking Monster | LitReactor",
+            "url": "https://litreactor.com/columns/heathcliff-from-wuthering-heights-isnt-a-romantic-anti-hero-hes-a-fcking-monster"
+          },
+          {
+            "title": "3 Lessons on Toxic Love from Wuthering Heights - In the Light Room",
+            "url": "https://inthelightroom.org/3-lessons-on-toxic-love-from-wuthering-heights/"
+          },
+          {
+            "title": "Can\u2019t Stop the Trope: Star-Crossed Lovers | Clandestine",
+            "url": "https://clandestine801.wordpress.com/2017/02/16/cant-stop-the-trope-star-crossed-lovers/"
+          },
+          {
+            "title": "Heathcliff (Wuthering Heights) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Heathcliff_(Wuthering_Heights)"
+          },
+          {
+            "title": "Wuthering Heights - TV Tropes",
+            "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/WutheringHeights"
+          }
+        ]
+      },
+      "Based on my search results, I found several relevant discussions about Wuthering Heights, the enemies-to-lovers trope, red flags, and modern relationships. Here are the key findings:\n\n## Wuthering Heights and Red Flags in Modern Context\n\nHeathcliff is described as \"the man who gives just enough to keep you hoping but never enough to make you whole\" and \"the original king of the situationship.\"(no content)The analysis notes that \"Back then, he was climbing in and out of windows and psychologically tormenting everyone within a ten-mile radius. Today, he'd be that guy who disappears mid-conversation, only to pop up with a 'Hey.'\"\n\n## The Misunderstood \"Romance\"\n\nMultiple sources emphasize that Wuthering Heights is frequently misunderstood as a romantic story:\n\nOne analysis states: \"Wuthering Heights is not a sexy love story, and it was never intended to be... To rate Wuthering Heights as a romance is to ignore the fey, witchy quality of the author's writing, and the sharp teeth of her subject matter. In short, it misses the point.\"(no content)Another critic notes that \"Wuthering Heights isn't romantic; it's a multi-faceted, Gothic examination of gender inequality, classism, the madness generated from both, and the darkness forever lurking at the heart of humanity.\"\n\n## Red Flags and Toxic Behavior\n\nThe search results highlight numerous concerning behaviors that would be considered major red flags in modern relationships:\n\nBoth main characters are described as \"volatile\" and \"prone to screaming and manipulating others; they're both extremely toxic... No one should be in a relationship like Heathcliff's and Catherine's... They're both abusive partners.\"(no content)Heathcliff's treatment of Isabella includes throwing \"a knife at her, hangs her dog and refuses to allow her to leave, holding her against her will\" and keeping \"strictly within the limits of the law\" only to prevent her from obtaining grounds for divorce.\n\n## Modern Psychological Understanding\n\nA 2024 analysis describes Catherine and Heathcliff as \"synonymous with 'toxic behaviour,' 'childhood trauma,' 'poor communication skills,' 'emotional abuse' and 'manipulation.'\"(no content)The novel is recognized as depicting \"the circle of devastation that radiates outwards from child abuse, including the appalling transition that leads some abused children to become abusers themselves in adulthood.\"\n\n## Contemporary Relevance\n\nOne 2024 commentary notes that \"girls and boys, women and men fall victim to the same toxic cycles at least at one point in their life\" and suggests examining \"traits of toxic love\" to understand how people might find themselves in similar situations.\n\nThe consensus among these 2024 analyses is that while Wuthering Heights remains a literary masterpiece, it serves more as a cautionary tale about toxic relationships rather than a romantic ideal, with many of the behaviors displayed by the main characters representing serious red flags that would be concerning in modern relationships."
+    ],
+    "durationSeconds": 24.536342264999984
+  }
+}

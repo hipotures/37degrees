@@ -1,0 +1,62 @@
+{
+  "session_id": "7da3bbc0-2d10-4a7c-9f7d-e17950766dc1",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7da3bbc0-2d10-4a7c-9f7d-e17950766dc1.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Picture of Dorian Gray\" 1890 original edition Ward Lock publishers Lippincott's Magazine Oscar Wilde letters"
+  },
+  "tool_response": {
+    "query": "\"Picture of Dorian Gray\" 1890 original edition Ward Lock publishers Lippincott's Magazine Oscar Wilde letters",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01JKfEvMRLfN4Ve9m7YNiUjj",
+        "content": [
+          {
+            "title": "The Picture of Dorian Gray - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Picture_of_Dorian_Gray"
+          },
+          {
+            "title": "Picture Dorian Gray by Wilde, Lippincott, First Edition - AbeBooks",
+            "url": "https://www.abebooks.com/book-search/title/picture-dorian-gray/author/wilde/kw/lippincott/first-edition/"
+          },
+          {
+            "title": "The Picture of Dorian Gray in Lippincott's Monthly Magazine July 1890 by Oscar Wilde - AbeBooks",
+            "url": "https://www.abebooks.com/book-search/title/the-picture-of-dorian-gray-in-lippincott's-monthly-magazine-july-1890/author/oscar-wilde/"
+          },
+          {
+            "title": "The Triptych of Dorian Gray (1890\u201391): Reading Wilde\u2019s Novel as Three Print Objects",
+            "url": "https://journals.openedition.org/cve/2978"
+          },
+          {
+            "title": "The Picture of Dorian Gray: the manuscript by Oscar Wilde",
+            "url": "https://www.spbooks.com/79-the-picture-of-dorian-gray-9791095457466.html"
+          },
+          {
+            "title": "Picture of Dorian Gray in Lippincott's Magazine by Oscar Wilde - AbeBooks",
+            "url": "https://www.abebooks.com/book-search/title/picture-of-dorian-gray-in-lippincott's-magazine/author/oscar-wilde"
+          },
+          {
+            "title": "The Picture of Dorian Gray | Summary, Book, Analysis, Movie, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/The-Picture-of-Dorian-Gray-novel-by-Wilde"
+          },
+          {
+            "title": "The Picture of Dorian Gray | | The Morgan Library & Museum",
+            "url": "https://www.themorgan.org/collection/oscar-wilde/the-picture-of-dorian-gray"
+          },
+          {
+            "title": "The Picture of Dorian Gray (1890) Philosophical NOVEL (Original Version) by Oscar Wilde, Paperback | Barnes & Noble\u00ae",
+            "url": "https://www.barnesandnoble.com/w/the-picture-of-dorian-gray-oscar-wilde/1121074133"
+          },
+          {
+            "title": "The Picture of Dorian Gray | OSCAR WILDE | First edition",
+            "url": "https://www.manhattanrarebooks.com/pages/books/2782/oscar-wilde/the-picture-of-dorian-gray?soldItem=true"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about \"The Picture of Dorian Gray\" and its publication history, particularly regarding the 1890 original edition, Ward Lock publishers, and Lippincott's Magazine.\n\n## Publication History\n\nThe Picture of Dorian Gray was first published in the July 1890 issue of Lippincott's Monthly Magazine, and later appeared as a book in 1891.(no content)The magazine version was published in full as the first 100 pages in both the American and British editions of the July 1890 issue, first printed on 20 June 1890.\n\n## Ward Lock & Company Connection\n\nLater in the year the publisher of Lippincott's Monthly Magazine, Ward, Lock and Company, published a collection of complete novels from the magazine, which included Wilde's.(no content)In April 1891 Ward, Lock and Company published the revised version of The Picture of Dorian Gray.\n\n## Editorial Censorship\n\nThe literary merits impressed Stoddart, but he told publisher George Lippincott that \"in its present condition there are a number of things an innocent woman would make an exception to.\" Fearing that the story was indecent, Stoddart deleted around five hundred words without Wilde's knowledge prior to publication.(no content)Among the pre-publication deletions were: passages alluding to homosexuality and to homosexual desire; all references to the fictional book title Le Secret de Raoul and its author, Catulle Sarrazin; and all \"mistress\" references to Gray's lovers.\n\n## Three Versions of the Text\n\nThe novel exists in three distinct versions:\n1. The 1890 magazine edition (in 13 chapters), with important material deleted before publication by the magazine's editor, J. M. Stoddart\n2. The 'uncensored' version submitted to Lippincott's Monthly Magazine for publication (also in 13 chapters), with all of Wilde's original material intact, first published in 2011 by Harvard University Press\n3. The 1891 book edition (in 20 chapters)\n\n## Original Manuscript\n\nThe original typescript submitted to Lippincott's Monthly Magazine, now housed at UCLA, had been largely forgotten except by professional Wilde scholars until the 2011 publication of The Picture of Dorian Gray: An Annotated, Uncensored Edition by the Belknap Press.(no content)One of the Morgan's great literary treasures is the earliest surviving manuscript of The Picture of Dorian Gray.\n\n## Contemporary Reception\n\nIn the 30 June 1890 issue of the Daily Chronicle, the book critic said that Wilde's novel contains \"one element ... which will taint every young mind that comes in contact with it.\" In the 5 July 1890 issue of the Scots Observer, a reviewer asked \"Why must Oscar Wilde 'go grubbing in muck-heaps?'\"\n\nThis information covers the key aspects of your search query about the 1890 original edition, Ward Lock publishers, Lippincott's Magazine publication, and references to Oscar Wilde's correspondence regarding the work."
+    ],
+    "durationSeconds": 26.22632535699755
+  }
+}

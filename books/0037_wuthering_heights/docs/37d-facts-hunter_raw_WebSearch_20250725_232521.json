@@ -1,0 +1,62 @@
+{
+  "session_id": "95239c3a-5fbf-4fbf-93f7-3afd6ea78885",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/95239c3a-5fbf-4fbf-93f7-3afd6ea78885.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Wuthering Heights Emily Bronte influence Gothic literature Victorian novels modern authors influenced"
+  },
+  "tool_response": {
+    "query": "Wuthering Heights Emily Bronte influence Gothic literature Victorian novels modern authors influenced",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01P44AS33WGpQDhHpLRYsxw2",
+        "content": [
+          {
+            "title": "Wuthering Heights - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Wuthering_Heights"
+          },
+          {
+            "title": "Wuthering Heights: Emily Bront\u00eb and Wuthering Heights Background | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/wuthering/context/"
+          },
+          {
+            "title": "Wuthering Heights by Emily Bronte | Summary, Setting & Analysis - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/inspirations-for-wuthering-heights.html"
+          },
+          {
+            "title": "Gothic Literature: Emily Bront\u00eb | Mandy M. Roth",
+            "url": "https://mandyroth.com/gothic-literature-emily-bronte/"
+          },
+          {
+            "title": "How is Wuthering Heights a Gothic Novel?",
+            "url": "https://mail.ijels.com/upload_document/issue_files/48IJELS-110201930-Howis.pdf"
+          },
+          {
+            "title": "Gothic Elements in Victorian Literature: A Comparative Analysis of Wuthering Heights and Jane Eyre | Free Essay Example",
+            "url": "https://studycorgi.com/gothic-elements-in-victorian-literature-a-comparative-analysis-of-wuthering-heights-and-jane-eyre/"
+          },
+          {
+            "title": "Emily Bront\u00eb - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Emily_Bront%C3%AB"
+          },
+          {
+            "title": "How to perceive Emily Bronte's novel Wuthering Heights as gothic literature or Victorian romance - Quora",
+            "url": "https://www.quora.com/How-do-you-perceive-Emily-Brontes-novel-Wuthering-Heights-as-gothic-literature-or-Victorian-romance"
+          },
+          {
+            "title": "Wuthering Heights | Romanticism, Gothic Fiction, Revenge | Britannica",
+            "url": "https://www.britannica.com/topic/Wuthering-Heights"
+          },
+          {
+            "title": "THE GOTHIC LITERARY COMPLEX IN EMILY BRONT\u00cb'S ...",
+            "url": "https://core.ac.uk/download/pdf/198170445.pdf"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about Emily Bront\u00eb's *Wuthering Heights* and its influence on Gothic literature, Victorian novels, and modern authors.\n\n## Emily Bront\u00eb's Influence on Gothic Literature\n\n*Wuthering Heights* was influenced by Romanticism and Gothic fiction, and is considered a classic of English literature.(no content)Like Charlotte Bront\u00eb's *Jane Eyre*, *Wuthering Heights* is based partly on the Gothic tradition of the late eighteenth century, a style of literature that featured supernatural encounters, crumbling ruins, moonless nights, and grotesque imagery, seeking to create effects of mystery and fear.(no content)*Wuthering Heights* is one of the earliest examples of gothic literature, a genre that has been popular among readers since its conception. The novel incorporates key Gothic elements including supernatural forces or events, seen in the ghost-like apparition that appears throughout the novel, and an atmosphere full of fear and dread felt throughout the novel due to its eerie setting on a desolate moorland with foreboding characters such as Heathcliff and Catherine.\n\n## Victorian Context and Reception\n\nWhen first published in 1847, Victorian readers found the book shocking and inappropriate in its depiction of passionate, ungoverned love and cruelty, and the work was virtually ignored.(no content)The novel shocked Victorian England with its portrayal of unbridled passions. However, today, *Wuthering Heights* has a secure position in the canon of world literature, and Emily Bront\u00eb is revered as one of the finest writers of the nineteenth century.\n\n## Literary Influences and Traditions\n\nRomanticism was also a major influence, which included the Gothic novel, the novels of Walter Scott and the poetry of Byron.(no content)Emily Bronte took the threads of Romanticism and the Gothic novel, braiding in a third element that was coming into literary fashion, the Byronic hero.(no content)Heathcliff is a Byronic hero, haunted by a past and yet strangely intriguing, and like Mr. Rochester in Charlotte Bronte's *Jane Eyre*, sets a bar for the Byronic hero that persists to this day.(no content)The Bront\u00ebs' fiction is seen by some feminist critics as prime examples of Female Gothic, exploring the domestic entrapment and subjection of women to patriarchal authority, and the attempts to subvert and escape such restriction.\n\n## Lasting Impact and Modern Influence\n\nIn 2018 Penguin presented a list of 100 must-read classic books and placed *Wuthering Heights* at number 71, saying: \"Widely considered a staple of Gothic fiction and the English literary canon, this book has gone on to inspire many generations of writers \u2013 and will continue to do so\".(no content)Emily Bront\u00eb managed to subvert the conventional elements of a romantic novel of that period, adding a revolutionary perspective that would later receive due recognition. The novel's innovative approach to Gothic elements has influenced subsequent literature, with its specific aspects having an evident impact on novels, and Emily Bront\u00eb managing to subvert some aspects which retained their traditional nature in other contemporary works.\n\nThe novel continues to be studied extensively, with the novel being studied, analyzed, dissected, and discussed from every imaginable critical perspective, yet it remains unexhausted."
+    ],
+    "durationSeconds": 28.176149939000023
+  }
+}

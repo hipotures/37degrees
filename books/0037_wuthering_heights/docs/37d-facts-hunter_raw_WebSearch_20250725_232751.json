@@ -1,0 +1,154 @@
+{
+  "session_id": "95239c3a-5fbf-4fbf-93f7-3afd6ea78885",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/95239c3a-5fbf-4fbf-93f7-3afd6ea78885.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Wuthering Heights contemporary criticism 2020s recent academic scholarship feminist postcolonial digital humanities analysis"
+  },
+  "tool_response": {
+    "query": "Wuthering Heights contemporary criticism 2020s recent academic scholarship feminist postcolonial digital humanities analysis",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01RA5e7D9fpS3FgtEwekLTwU",
+        "content": [
+          {
+            "title": "Feminist Literary Criticism and Wuthering Heights",
+            "url": "https://euacademic.org/UploadArticle/1188.pdf"
+          },
+          {
+            "title": "the rhetorical importance of monstrosity: genre criticism and",
+            "url": "https://ninercommons.charlotte.edu/record/1418/files/Fussell_uncc_0694N_12115.pdf"
+          },
+          {
+            "title": "Seattleu",
+            "url": "https://scholarworks.seattleu.edu/cgi/viewcontent.cgi?article=1101&context=suurj"
+          },
+          {
+            "title": "An Analysis of the Problem of Perception in Emily Bronte's ...",
+            "url": "https://scholarworks.calstate.edu/downloads/7s75dj602"
+          },
+          {
+            "title": "(PDF) Feminist Literary Criticism and Wuthering Heights | sandeep kumar - Academia.edu",
+            "url": "https://www.academia.edu/33410764/Feminist_Literary_Criticism_and_Wuthering_Heights"
+          },
+          {
+            "title": "Wuthering Heights - JSTOR Daily",
+            "url": "https://daily.jstor.org/friday-reads-in-the-digital-library-wuthering-heights/"
+          },
+          {
+            "title": "The Queer Ecological Aesthetics of Wuthering Heights: Bront\u00eb Studies: Vol 46, No 1",
+            "url": "https://www.tandfonline.com/doi/abs/10.1080/14748932.2021.1835059"
+          },
+          {
+            "title": "The Radical Politics of Wuthering Heights \u2013 Journal of Victorian Culture Online",
+            "url": "https://jvc.oup.com/2020/03/24/the-radical-politics-of-wuthering-heights/"
+          },
+          {
+            "title": "(PDF) A Study of Wuthering Heights from the Perspective of Eco-Criticism",
+            "url": "https://www.academia.edu/49188349/A_Study_of_Wuthering_Heights_from_the_Perspective_of_Eco_Criticism"
+          },
+          {
+            "title": "Is Wuthering Heights a feminist text? - Quora",
+            "url": "https://www.quora.com/Is-Wuthering-Heights-a-feminist-text"
+          }
+        ]
+      },
+      "Based on the search results, I can see there is recent scholarship on Wuthering Heights touching on feminist, postcolonial, and other contemporary critical approaches. Let me search for more specific information about recent digital humanities approaches and 2020s scholarship.",
+      {
+        "tool_use_id": "srvtoolu_015HZ1TiQU6DGLyMrpcCtr9b",
+        "content": [
+          {
+            "title": "Who wrote Wuthering Heights? | Digital Scholarship in the Humanities | Oxford Academic",
+            "url": "https://academic.oup.com/dsh/article-abstract/36/2/383/5862913"
+          },
+          {
+            "title": "[Retracted] Study on the Influence of Wuthering Heights Characters Based on Web Analysis and Text Mining - Wang - 2022 - Scientific Programming - Wiley Online Library",
+            "url": "https://onlinelibrary.wiley.com/doi/10.1155/2022/4326551"
+          },
+          {
+            "title": "DHQ: Digital Humanities Quarterly: 2025",
+            "url": "https://www.digitalhumanities.org/dhq/"
+          },
+          {
+            "title": "Analysis of Wuthering Heights from the Gothic tradition ...",
+            "url": "https://davuniversity.org/images/files/study-material/Analysis%20of%20Wuthering%20Heights%20from%20the%20Gothic%20tradition%20perspective.pdf"
+          },
+          {
+            "title": "Wuthering Heights - Linden Hall Library - LibGuides at Linden Hall School for Girls",
+            "url": "https://lindenhall.libguides.com/home/Wuthering_Heights"
+          },
+          {
+            "title": "Gothic Reality: A Study of Emily Bronte's Wuthering Heights",
+            "url": "https://awej-tls.org/wp-content/uploads/2021/08/4-1.pdf"
+          },
+          {
+            "title": "Wuthering Heights Study Guide | Literature Guide | LitCharts",
+            "url": "https://www.litcharts.com/lit/wuthering-heights"
+          },
+          {
+            "title": "The Radical Politics of Wuthering Heights \u2013 Journal of Victorian Culture Online",
+            "url": "https://jvc.oup.com/2020/03/24/the-radical-politics-of-wuthering-heights/"
+          },
+          {
+            "title": "Wuthering Heights: Gothic Literature At It\u2019s Best | Book Review",
+            "url": "https://readinglitty.com/2020/04/30/wutheringheightsbookreview/"
+          },
+          {
+            "title": "Full article: The education and exclusion of heathcliff: a lesson on \u2018looked after\u2019 and \u2018previously looked after\u2019 children in schools from nineteenth-century literature",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/14681366.2023.2177325"
+          }
+        ]
+      },
+      "I found some good results about digital humanities approaches and recent academic work. Let me search for more specific information about postcolonial criticism of Wuthering Heights in recent years.",
+      {
+        "tool_use_id": "srvtoolu_01TYS6BQP8woVuPrtwbbcjuJ",
+        "content": [
+          {
+            "title": "Blog 6, Occasional Criticism: The Culture of Britain After the Emancipation of Colonial Slaves & its Relation to Wuthering Heights \u2013 Forms and Contexts of Literary Studies",
+            "url": "https://blogs.dickinson.edu/403lit/2017/11/05/blog-6-occasional-criticism-the-culture-of-britain-after-the-emancipation-of-colonial-slaves-its-relation-to-wuthering-heights/"
+          },
+          {
+            "title": "(Bront\u00eb Week #3) Race, Otherness, and Colonialism in Jane Eyre by Charlotte Bront\u00eb and Wuthering Heights by Emily Bront\u00eb \u2013 History With Ella",
+            "url": "https://ellashistoryblog.home.blog/2020/05/21/bronte-week-3-thoughts-on-race-otherness-and-colonialism-in-jane-eyre-by-charlotte-bronte-and-wuthering-heights-by-emily-bronte/"
+          },
+          {
+            "title": "Heathcliff's Race: Identity in Wuthering Heights - Sciencedepot.blog",
+            "url": "https://sciencedepot.blog/heathcliffs-race-wuthering-heights"
+          },
+          {
+            "title": "Wuthering Heights: The Rejection, of Heathcliff? | Essays in Criticism | Oxford Academic",
+            "url": "https://academic.oup.com/eic/article-abstract/VIII/1/27/477849"
+          },
+          {
+            "title": "(PDF) \" Can the Subaltern Speak? \" Color and Silence in Wuthering Heights",
+            "url": "https://www.researchgate.net/publication/315566805_Can_the_Subaltern_Speak_Color_and_Silence_in_Wuthering_Heights"
+          },
+          {
+            "title": "AnnaKate Burleson-Race and Its Impact",
+            "url": "https://www.processjmus.org/annakate-burleson-race-and-its-impact"
+          },
+          {
+            "title": "Wuthering Heights - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Wuthering_Heights"
+          },
+          {
+            "title": "Wuthering Heights and The Lost Child | Undisciplining the Victorian Classroom",
+            "url": "https://undiscipliningvc.org/html/lesson_plans/contemporary_bronte_phillips.html"
+          },
+          {
+            "title": "Umich",
+            "url": "https://lsa.umich.edu/content/dam/english-assets/migrated/honors_files/Caywood%20Thesis.pdf"
+          },
+          {
+            "title": "Wuthering Heights Analysis",
+            "url": "https://kaitlynessays.com/wuthering-heights-analysis/"
+          }
+        ]
+      },
+      "Based on the search results I've gathered, I can now provide a comprehensive overview of contemporary criticism and recent academic scholarship on Wuthering Heights, particularly focusing on the 2020s and recent work in feminist, postcolonial, and digital humanities approaches.\n\n## Search Results Summary\n\n### Digital Humanities Analysis\n\nRecent digital humanities work includes a 2021 study in Digital Scholarship in the Humanities by Rachel McCarthy and James O'Sullivan titled \"Who wrote Wuthering Heights?\" which used stylometry to examine authorship questions. The study demonstrated that \"it is highly unlikely that Branwell\" Bront\u00eb wrote the novel, addressing Victorian attitudes that questioned Emily Bront\u00eb's legitimacy as the sole author.(no content)A 2022 study in Scientific Programming examined \"the Influence of Wuthering Heights Characters Based on Web Analysis and Text Mining,\" focusing on character relationships and thematic analysis through computational methods.\n\n### Feminist and Queer Criticism\n\nA significant 2021 essay in Bront\u00eb Studies explored \"The Queer Ecological Aesthetics of Wuthering Heights,\" examining how Andrea Arnold's 2011 film adaptation \"combines queer, ecofeminist and postcolonial approaches to disavow the institutional and cultural ways in which white heterosexist patriarchy 'sexualizes' nature and 'naturalizes' heterosexuality.\"(no content)Earlier feminist scholarship by Patsy Stoneman traced \"feminist readings of the novel, dissecting how the book manages to encompass the universal within the domestic.\"\n\n### Postcolonial and Race-Based Criticism\n\nThe search revealed extensive recent scholarship on race in Wuthering Heights:\n\nA postcolonial reading titled \"Can the Subaltern Speak? Color and Silence in Wuthering Heights\" provided \"a sharp critique of the contribution the novel makes to contemporary stereotypes and preconceptions of 'race' and culture,\" viewing Heathcliff's \"otherness\" as central to interpreting the novel.(no content)Recent scholarship by AnnaKate Burleson examined \"Race and its Impact in Wuthering Heights,\" analyzing both Bront\u00eb's novel and Andrea Arnold's 2011 film adaptation, which \"was a breakthrough because it was the first to depict Heathcliff as black.\"(no content)Contemporary pedagogical approaches include syllabi that examine \"legacies of white supremacy in Victorian texts through the framework of Black studies, Black feminism, and postcolonial theory,\" pairing Wuthering Heights with Caryl Phillips's The Lost Child (2015) to investigate \"the history of the Black Atlantic.\"\n\n### Contemporary Critical Perspectives\n\nA 2020 essay in the Journal of Victorian Culture argued for viewing Emily Bront\u00eb as \"writing a radical novel,\" noting that the focus on romance \"overlooks Bront\u00eb's depiction of the strangulating effect on Wuthering Heights's Catherine Earnshaw as she transforms from a brash child to a woman enmeshed within the patriarchy's physical and mental violence.\"(no content)A 2023 study in Research in Education used Wuthering Heights \"as an interrogative framework\" to examine educational exclusion, demonstrating how \"fiction illuminates the human story and human issues in ways other discourses cannot.\"\n\n### Ecocriticism\n\nRecent ecocritical scholarship examined Wuthering Heights from environmental perspectives, arguing that \"studying literary work is one way that can be taken to overcome environmental problems\" and that \"literary texts contain contents of ecological consciousness.\"\n\nThe contemporary scholarship demonstrates that Wuthering Heights continues to be a vital text for 2020s academic inquiry, with particular strength in digital humanities methods, intersectional feminist analysis, postcolonial race theory, and interdisciplinary approaches that connect the novel to contemporary social issues."
+    ],
+    "durationSeconds": 40.59883608199999
+  }
+}

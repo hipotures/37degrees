@@ -1,0 +1,63 @@
+{
+  "session_id": "3a49404c-4f85-49d3-82a6-52395d74d3af",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/3a49404c-4f85-49d3-82a6-52395d74d3af.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Franz Kafka insurance company bureaucracy law degree Workers' Accident Insurance Institute Prague"
+  },
+  "tool_response": {
+    "query": "Franz Kafka insurance company bureaucracy law degree Workers' Accident Insurance Institute Prague",
+    "results": [
+      "I'll search for information about Franz Kafka's connection to insurance work, bureaucracy, law degree, and the Workers' Accident Insurance Institute in Prague.",
+      {
+        "tool_use_id": "srvtoolu_01EdeaQK1QtEJ6n6fX3G9E3K",
+        "content": [
+          {
+            "title": "Franz Kafka - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Franz_Kafka"
+          },
+          {
+            "title": "The Organization Man: Franz Kafka, Risk Insurance, and the Occasional Hell of Office Life \u2013 First of the Month",
+            "url": "https://www.firstofthemonth.org/the-organization-man-franz-kafka-risk-insurance-and-the-occasional-hell-of-office-life/"
+          },
+          {
+            "title": "Joseph K. Claims Compensation: Franz Kafka\u2019s Legal Writings",
+            "url": "https://www.scirp.org/html/4-2810042_44439.htm"
+          },
+          {
+            "title": "Before the Law | The New Republic",
+            "url": "https://newrepublic.com/article/64034/the-law"
+          },
+          {
+            "title": "Franz Kafka \u2013 the workers\u2019 friend | marywcraig",
+            "url": "https://marywcraig.com/2018/01/14/franz-kafka-the-workers-friend/"
+          },
+          {
+            "title": "Franz Kafka: distinguished clerk at Generali - Generali Group",
+            "url": "https://www.generali.com/who-we-are/history/Generali-life-stories/Franz-Kafka--distinguished-clerk-at-Generali"
+          },
+          {
+            "title": "A Short Biography of Franz Kafka",
+            "url": "https://www.kafka-online.info/franz-kafka-biography.htm"
+          },
+          {
+            "title": "Franz Kafka | Biography, Books, The Metamorphosis, The Trial, & Facts | Britannica",
+            "url": "https://www.britannica.com/biography/Franz-Kafka"
+          },
+          {
+            "title": "Franz Kafka, Prague Jewish Author \u2013 Prague Blog",
+            "url": "https://www.private-prague-guide.com/article/franz-kafka/"
+          },
+          {
+            "title": "The Office Series, Day Three: Kafka - Tablet Magazine",
+            "url": "https://www.tabletmag.com/sections/arts-letters/articles/the-office-series-day-three-kafka"
+          }
+        ]
+      },
+      "Based on the search results, here's what I found about Franz Kafka's connection to insurance work, bureaucracy, law degree, and the Workers' Accident Insurance Institute in Prague:\n\n## Law Degree and Career Path\n\nFranz Kafka received his doctorate in law in 1906 from the German Ferdinand-Karls University in Prague (also known as Charles Ferdinand University). After receiving his law degree, he spent nine months as a clerk at the high court in Prague.\n\n## Insurance Career\n\n### Assicurazioni Generali (1907-1908)\nIn 1907, Kafka began working for Assicurazioni Generali, a large Italian insurance company based in Trieste, at their Prague branch. He was unhappy with the work schedule\u2014from 08:00 until 18:00 (though one source mentions 8 p.m. to 6 a.m.)\u2014that made it extremely difficult to concentrate on writing. On July 15, 1908, he resigned from this position.\n\n### Workers' Accident Insurance Institute (1908-1922)\nTwo weeks after leaving Assicurazioni Generali, Kafka found employment at the Worker's Accident Insurance Institute for the Kingdom of Bohemia (\u00darazov\u00e1 poji\u0161\u0165ovna d\u011blnick\u00e1 pro \u010cechy v Praze). He had prepared for this job by attending evening courses on workmen's insurance at the Prague Academy of Commerce from February to May.\n\nThe Workmen's Accident Insurance Institute for the Kingdom of Bohemia was a semi-governmental institution, the most important and the largest of seven such entities in Austria, created pursuant to a law of 1887. In 1911, the Prague Institute insured more than 720,000 workers, or about one-third of Austria's entire industrial capacity.\n\n## Kafka's Work and Responsibilities\n\nKafka's duties included processing and investigating compensation claims, writing reports, and handling appeals from businessmen who thought their firms had been placed in too high a risk category. Besides being involved in litigation, Kafka produced official declarations, commentaries, petitions, reports, briefs to speeches and newspaper articles.\n\nHe would compile and compose the annual report on the insurance institute for the several years he worked there. The reports were well received by his superiors.\n\nDespite resistance to promoting Jews, Kafka progressed through positions and eventually became Senior Legal Secretary (Obersekret\u00e4r). Kafka usually got off work at 2 p.m., so that he had time to spend on his literary work.\n\n## Kafka and Bureaucracy\n\nDuring the communist era, opinions ranged from the notion that he satirised the bureaucratic bungling of a crumbling Austro-Hungarian Empire, and a 1963 conference reassessed the importance of Kafka's portrayal of bureaucracy. His novel is focused on alienation, bureaucracy, the seemingly endless frustrations of man's attempts to stand against the system.\n\nKafka described himself as a \"natural\" official fully aware of \"the deep-seated bureaucrat\" inside him, and wrote about the \"evolutions\" and \"climaxes of which the bureaucracy is capable\". To Kafka, the office was \"not dumb, it is phantasmal\".\n\nThe Institute with its hierarchy of officials, clerks and lawyers, had its own bureaucracy, typical of all such institutions, leading to a maze of difficulties for any claimant.\n\n## Social Reform and Workers' Rights\n\nKafka was a brilliant innovator of social and legal reform in \"the Manchester of the Empire,\" which was one of the most highly developed industrial areas of Europe. He promoted universal coverage, seeking to extend compulsory accident insurance and make sure that equal treatment was extended to all members of the work force.\n\nKafka worked furiously to process claims quickly and to the fullest extent, and in his spare time, he started to write anonymously letters and articles to the press about the conditions of workers in factories.\n\n## End of Career\n\nIn 1918, the Worker's Accident Insurance Institute put Kafka on a pension due to his illness (tuberculosis), and he worked there until July 1922 when he retired."
+    ],
+    "durationSeconds": 51.081661947000775
+  }
+}

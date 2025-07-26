@@ -1,0 +1,58 @@
+{
+  "session_id": "117fc0a1-8874-49c5-b0fc-4bb38d5ee638",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/117fc0a1-8874-49c5-b0fc-4bb38d5ee638.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Stendhal \"Red and Black\" 19th century French society Restoration period social class"
+  },
+  "tool_response": {
+    "query": "Stendhal \"Red and Black\" 19th century French society Restoration period social class",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01EeNSyTRS3bYM58dNhgPkLt",
+        "content": [
+          {
+            "title": "The Red and the Black - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Red_and_the_Black"
+          },
+          {
+            "title": "The Red and the Black: Full Book Analysis - Stendhal",
+            "url": "https://www.sparknotes.com/lit/redblack/plot-analysis/"
+          },
+          {
+            "title": "Stendhal: Biography, Major Works & Legacy | Vaia",
+            "url": "https://www.vaia.com/en-us/explanations/french/french-literature/stendhal/"
+          },
+          {
+            "title": "The Red and the Black by Stendhal | Goodreads",
+            "url": "https://www.goodreads.com/book/show/30457336-the-red-and-the-black"
+          },
+          {
+            "title": "Symbolic Meanings of Red and Black",
+            "url": "https://www.academypublication.com/issues2/tpls/vol05/06/27.pdf"
+          },
+          {
+            "title": "Red and Black",
+            "url": "https://www.upress.umn.edu/9781452967356/red-and-black/"
+          },
+          {
+            "title": "The Red and the Black (Literature) - TV Tropes",
+            "url": "https://tvtropes.org/pmwiki/pmwiki.php/Literature/TheRedAndTheBlack"
+          },
+          {
+            "title": "Stendhal - New World Encyclopedia",
+            "url": "https://www.newworldencyclopedia.org/entry/Stendhal"
+          },
+          {
+            "title": "Church and Stendhal's \"The Red and The Black\" - 335 Words | Essay Example",
+            "url": "https://ivypanda.com/essays/churchs-attitude-to-stendhals-the-red-and-the-black/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about Stendhal's \"The Red and the Black\" and its portrayal of 19th century French society during the Restoration period.\n\n## Historical Context\n\nStendhal's \"The Red and the Black\" is set during the latter years of the Bourbon Restoration (1814\u20131830) and chronicles the French social order under this period. The novel tells the story of Julien Sorel's life in France's rigid social structure restored after the disruptions of the French Revolution and the reign of Napoleon Bonaparte.\n\n## Social Class and Mobility\n\nThe novel provides a scathing critique of the rigid class system of the Restoration period. The First French Empire under Napoleon made it possible for any Frenchman, irrespective of birth, to rise in the social scale through talent and military prowess. However, the fall of Napoleon and the restoration of the Bourbons once again restored the division between the aristocracy and plebeians.\n\nEarly in the story, Julien Sorel observes that under the Bourbon Restoration it is impossible for a man of his plebeian class to distinguish himself in the (red-uniformed) army (as he might have done under Napoleon), hence only a (black-uniformed) church career offers social advancement and glory.\n\n## The Protagonist's Struggle\n\nThe novel chronicles the attempts of a provincial young man to rise socially beyond his modest upbringing through a combination of talent, hard work, deception, and hypocrisy. For the son of a provincial carpenter in post-Napoleonic France, the prospects for advancement are vanishingly narrow, the chances for glory rarer yet.\n\n## Political and Social Commentary\n\nThe author's emphasis on history also criticizes the Restoration's attempt to turn back the clock to the way things were before the French Revolution in 1789. Stendhal uses his protagonist's experiences to satirize the Restoration government.\n\nThe novel's vivid portrayal of social climbing and the bourgeoisie's morality (or lack thereof) offer a critical view on the Restoration era's social fabric. The disillusionment with the monarchy and the Church, apparent in the narrative, goes on to underscore the restlessness felt across Europe post-Napoleon.\n\n## Literary Significance\n\nOver time, it has been acknowledged as a masterpiece of 19th-century literature, celebrated for its deep psychological insight and critique of social stratification. The Red and the Black is Stendhal's first masterpiece and a major work of realist literature. As a result of this book, Stendhal is considered the inventor of the psychological novel.\n\nThe novel serves both as a psychological portrait of its romantic protagonist and as an analytical, sociological satire of French society during a critical period of transition from revolutionary ideals back to monarchical restoration."
+    ],
+    "durationSeconds": 22.408006357997657
+  }
+}

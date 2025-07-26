@@ -1,0 +1,63 @@
+{
+  "session_id": "0262f963-d6f8-4237-8daf-cd971b19d54f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0262f963-d6f8-4237-8daf-cd971b19d54f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Cierpienia m\u0142odego Wertera\" polska m\u0142odzie\u017c wsp\u00f3\u0142czesno\u015b\u0107 media spo\u0142eczno\u015bciowe TikTok Instagram"
+  },
+  "tool_response": {
+    "query": "\"Cierpienia m\u0142odego Wertera\" polska m\u0142odzie\u017c wsp\u00f3\u0142czesno\u015b\u0107 media spo\u0142eczno\u015bciowe TikTok Instagram",
+    "results": [
+      "I'll search for information about how \"The Sorrows of Young Werther\" (Cierpienia m\u0142odego Wertera) relates to contemporary Polish youth and social media platforms like TikTok and Instagram.",
+      {
+        "tool_use_id": "srvtoolu_01V7YK2Aen6pq2UizeKG85Kk",
+        "content": [
+          {
+            "title": "Cierpienia m\u0142odego Wertera - streszczenie i tematy do rozprawki (J\u0119zyk polski) - Knowunity",
+            "url": "https://knowunity.pl/knows/jzyk-polski-cierpienia-modego-wertera-064aae75-d102-442b-a91a-8c1e070d74c8"
+          },
+          {
+            "title": "Cierpienia m\u0142odego Wertera",
+            "url": "https://wolnelektury.pl/katalog/lektura/cierpienia-mlodego-wertera/"
+          },
+          {
+            "title": "Cierpienia m\u0142odego Wertera \u2013 czy to nas jeszcze wzrusza? - Polityka.pl",
+            "url": "https://www.polityka.pl/tygodnikpolityka/ludzieistyle/2210438,1,cierpienia-mlodego-wertera--czy-to-nas-jeszcze-wzrusza.read"
+          },
+          {
+            "title": "Cierpienia m\u0142odego Wertera \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Cierpienia_m%C5%82odego_Wertera"
+          },
+          {
+            "title": "Cierpienia m\u0142odego Wertera \u2013 jak omawia\u0107 klasyk\u00f3w - Goethe-Institut Polska",
+            "url": "https://www.goethe.de/ins/pl/pl/m/spr/mag/21454648.html"
+          },
+          {
+            "title": "Kilka uwag na temat Efektu Wertera i wp\u0142ywu medi\u00f3w na jego rozw\u00f3j lub zahamowanie - Instytut Nauk o Polityce i Bezpiecze\u0144stwie - Uniwersytet Szczeci\u0144ski",
+            "url": "https://npb.usz.edu.pl/kilka-uwag-na-temat-efektu-wertera-i-wplywu-mediow-na-jego-rozwoj-lub-zahamowanie/"
+          },
+          {
+            "title": "Johann Wolfgang Goethe - Cierpienia m\u0142odego Wertera - Baba od polskiego",
+            "url": "https://babaodpolskiego.pl/johann-wolfgang-goethe-cierpienia-mlodego-wertera/"
+          },
+          {
+            "title": "Cierpienia m\u0142odego Wertera - Streszczenie i opracowanie, Johann Wolfgang Goethe - Skrotowo",
+            "url": "https://skrotowo.pl/cierpienia-mlodego-wertera-streszczenie-szczegolowe/"
+          },
+          {
+            "title": "Cierpienia m\u0142odego Wertera - motywy literackie - Johann Wolfgang Goethe",
+            "url": "https://poezja.org/wz/interpretacja/6096/Cierpienia_mlodego_Wertera_motywy_literackie"
+          },
+          {
+            "title": "Efekt Wertera - podstawy i przyk\u0142ady popkulturowe - MinerwaProject",
+            "url": "https://minerwaproject.pl/efekt-wertera-podstawy-i-przyklady-popkulturowe/"
+          }
+        ]
+      },
+      "Based on the search results, I found interesting information about how \"The Sorrows of Young Werther\" (Cierpienia m\u0142odego Wertera) relates to contemporary Polish youth and social media. Here are the key findings:\n\n## Connection to Contemporary Polish Youth and Social Media\n\nCzy warto dzisiaj zach\u0119ca\u0107 m\u0142odzie\u017c, aby gotowa by\u0142a czyta\u0107 podobne lektury jak Cierpienia m\u0142odego Wertera? This question reflects ongoing debates about the relevance of this classic work for today's youth.\n\n### Modern Communication vs. Werther's Letters\n\nW wsp\u00f3\u0142czesnym \u015bwiecie nasza komunikacja cz\u0119sto zamyka si\u0119 w pojedynczych wiadomo\u015bciach, kr\u00f3tkich has\u0142ach i odpowiedziach. Werter mo\u017ce za\u015b pokaza\u0107, jak cenna jest umiej\u0119tno\u015b\u0107 autoanalizy: tak dostrzegania w\u0142asnych uczu\u0107 i emocji, nazywania ich, jak i rozpoznawania sytuacji, w kt\u00f3rej si\u0119 znajdujemy. The epistolary format of Werther's story contrasts sharply with today's brief social media posts, offering lessons about deeper emotional expression.\n\n### The \"Werther Effect\" in the Social Media Age\n\nW czasach coraz szybszego rozprzestrzeniania si\u0119 informacji w mediach spo\u0142eczno\u015bciowych, na blogach czy forach musimy zada\u0107 sobie pytanie \u2013 Jak zareagowa\u0107, gdy widzimy wpis \u201eChc\u0119 strzeli\u0107 sobie w g\u0142ow\u0119\" opublikowany przez nastolatka? This highlights how the \"Werther Effect\" (copycat suicides) remains relevant in the age of social media.\n\nZapyta\u0142am osoby obserwuj\u0105ce mnie na Instagramie, czy przy okazji omawiania w szkole Cierpie\u0144 m\u0142odego Wertera pad\u0142o has\u0142o \"efekt Wertera\". Wi\u0119kszo\u015b\u0107 \u2013 co mnie nie zaskoczy\u0142o \u2013 takiego tematu nie podejmowa\u0142a. Dzi\u015b o tym, jak literatura i media wp\u0142ywaj\u0105 na liczb\u0119 samob\u00f3jstw i dlaczego powinni\u015bmy zwraca\u0107 uwag\u0119 na to, jak zachowania samob\u00f3jcze s\u0105 przedstawiane w kulturze.\n\n### Contemporary Relevance and Social Media Parallels\n\n\u201eCierpienia m\u0142odego Wertera\", pomimo \u017ce zosta\u0142y napisane w XVIII wieku, nadal pozostaj\u0105 aktualne w kontek\u015bcie wsp\u00f3\u0142czesnych dyskusji o emocjach, indywidualno\u015bci oraz poszukiwaniu sensu \u017cycia. Wsp\u00f3\u0142czesna refleksja nad emocjonalno\u015bci\u0105 i jej wp\u0142ywem na decyzje \u017cyciowe podkre\u015bla znaczenie zdrowia psychicznego i potrzeb\u0119 zrozumienia oraz zarz\u0105dzania emocjami. Autentyczno\u015b\u0107 uczu\u0107: W dobie medi\u00f3w spo\u0142eczno\u015bciowych i ci\u0105g\u0142ej prezentacji \u201eidealnego \u017cycia\", autentyczno\u015b\u0107 emocji Wertera przypomina o warto\u015bci prawdziwych, g\u0142\u0119bokich do\u015bwiadcze\u0144 emocjonalnych ponad powierzchown\u0105 prezentacj\u0119.\n\n### Teaching Methods for Digital Natives\n\nAby u\u0142atwi\u0107 im zrozumienie i upro\u015bci\u0107 przekaz, mo\u017cna wykorzysta\u0107 wizualizacje, chocia\u017cby w kontek\u015bcie kontaktu Wertera z natur\u0105 jako odzwierciedlenia jego nastroju (wiosna \u2013 jesie\u0144). M\u0142odzie\u017c mo\u017cna przygotowa\u0107 do lektury za pomoc\u0105 odpowiednich zdj\u0119\u0107, filmik\u00f3w i kola\u017cy (zw\u0142aszcza takich, kt\u00f3re odnosz\u0105cych si\u0119 do konkretnego regionu), tak\u017ce zrobionych samodzielnie czy wr\u0119cz powsta\u0142ych specjalnie w tym celu.\n\n### Pop Culture References\n\nW\u015br\u00f3d m\u0142odzie\u017cy popularna jest tak\u017ce powie\u015b\u0107, a zw\u0142aszcza powsta\u0142y na jej bazie serial Trzyna\u015bcie powod\u00f3w (13 Reasons Why). This shows how contemporary media dealing with similar themes continues to influence young people.\n\nThe search results reveal that while \"The Sorrows of Young Werther\" remains a challenging read for contemporary Polish youth accustomed to brief social media interactions, educators are finding ways to make it relevant by drawing parallels between Werther's emotional depth and the superficiality of social media presentations. The discussion of the \"Werther Effect\" in relation to social media posts about suicide shows the continued relevance of the novel's themes in the digital age."
+    ],
+    "durationSeconds": 41.39174065699987
+  }
+}

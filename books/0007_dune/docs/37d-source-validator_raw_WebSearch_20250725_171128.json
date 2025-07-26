@@ -1,0 +1,62 @@
+{
+  "session_id": "2dcb2a8f-b11d-466d-8a59-c7f92df6d7a0",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/2dcb2a8f-b11d-466d-8a59-c7f92df6d7a0.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Dune film Lynch 1984 box office budget failure 30.9 million 40-42 million"
+  },
+  "tool_response": {
+    "query": "Dune film Lynch 1984 box office budget failure 30.9 million 40-42 million",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_0196eUSi5wUbMp4fUaNB4FnW",
+        "content": [
+          {
+            "title": "Dune (1984 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dune_(1984_film)"
+          },
+          {
+            "title": "Why the 1984 Adaptation of Dune Bombed at the Box Office",
+            "url": "https://movieweb.com/dune-1984-box-office-bomb-why/"
+          },
+          {
+            "title": "Dune (1984 film)",
+            "url": "https://dune.fandom.com/wiki/Dune_(1984_film)"
+          },
+          {
+            "title": "\"All My Fault\": Dune Director Shares Major Regret For 1984 Sci-Fi",
+            "url": "https://screenrant.com/dune-movie-1984-david-lynch-regret/"
+          },
+          {
+            "title": "Dune (1984) \u2b50 6.3 | Action, Adventure, Sci-Fi",
+            "url": "https://www.imdb.com/title/tt0087182/"
+          },
+          {
+            "title": "Dune (1984) - Financial Information",
+            "url": "https://www.the-numbers.com/movie/Dune"
+          },
+          {
+            "title": "Dune 1984 Star Says Movie\u2019s Box Office Failure Could\u2019ve Killed Career",
+            "url": "https://screenrant.com/dune-1984-movie-box-office-kyle-maclachlan-response/"
+          },
+          {
+            "title": "David Lynch's Dune Was A Box Office Bomb That Killed A Would-Be Franchise - SlashFilm",
+            "url": "https://www.slashfilm.com/1530766/david-lynch-dune-box-office-bomb-killed-would-be-franchise/"
+          },
+          {
+            "title": "Bad Movie Monday: Dune (1984) \u2013 Cinema Crazed",
+            "url": "https://www.cinema-crazed.com/blog/2024/03/04/bad-movie-monday-dune-1984/"
+          },
+          {
+            "title": "Why David Lynch's Dune Bombed At The Box Office - Looper",
+            "url": "https://www.looper.com/643979/why-david-lynchs-dune-bombed-at-the-box-office/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with detailed information about David Lynch's 1984 Dune film and its box office performance:\n\n## Box Office Performance and Budget\n\nThe film underperformed at the box office, grossing $30.9 million against a $40\u201342 million budget. Several sources confirm these figures:\n\n- By the end of its run, Dune had grossed $30,925,690 (equivalent to $94,000,000 in 2024).\n- On an estimated production budget of $40\u201342 million, the film was considered a box-office disappointment.\n- When \"Dune\" hit theaters in 1984 it raked in nearly $31 million at the global box office against a $40 million budget (via Box Office Mojo), thus cementing its reputation as a bomb.\n\n## Opening Weekend Performance\n\nThe film opened on December 14, 1984, in 915 theaters, and grossed US$6,025,091 in its opening weekend, ranking number two in the US box office behind Beverly Hills Cop.(no content)Throughout its domestic theatrical run, in which Lynch's film grossed approximately $30.9 million, Dune never played in more than 975 theaters.\n\n## Reasons for the Box Office Failure\n\nThe film's commercial failure was attributed to several factors:\n\n1. **Critical Reception**: Dune received mostly negative reviews upon release.(no content)The film wasn't a hit with critics, and its score on Rotten Tomatoes is a lackluster 37%.\n\n2. **Production Issues**: Despite a then sizable budget of approximately $40 million, many of the effects in the movie look cheap and unconvincing.\n\n3. **Bad Timing**: In 1984, Dune was a victim of bad timing, particularly in terms of its proximity to the recently ended original Star Wars trilogy. While the original Star Wars trilogy certainly had an overhanging effect on virtually every science-fiction film of the 1980s, this was especially present with Dune, originally intended to be \"Star Wars for grown-ups,\" with expected sequels from David Lynch.\n\n## Impact on Careers\n\nThe film's failure had significant consequences: Dune 1984 star Kyle MacLachlan, who played Paul Atreides, was outcast by Hollywood after the box office failure of David Lynch's attempted adaptation.(no content)As a result of its commercial and critical failure, Dune's sequels were cancelled.\n\nThe search results confirm the specific figures you mentioned - the film grossed $30.9 million against a budget of $40-42 million, making it a notable box office failure that effectively ended plans for what was intended to be a franchise."
+    ],
+    "durationSeconds": 22.973590878000017
+  }
+}

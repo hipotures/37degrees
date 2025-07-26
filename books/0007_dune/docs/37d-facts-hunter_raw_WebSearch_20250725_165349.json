@@ -1,0 +1,62 @@
+{
+  "session_id": "2dcb2a8f-b11d-466d-8a59-c7f92df6d7a0",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/2dcb2a8f-b11d-466d-8a59-c7f92df6d7a0.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Frank Herbert Dune rejected 20 publishers Chilton Books publishing struggles 1965"
+  },
+  "tool_response": {
+    "query": "Frank Herbert Dune rejected 20 publishers Chilton Books publishing struggles 1965",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01Q7jcY81J1H74iz8iDEzb8s",
+        "content": [
+          {
+            "title": "Dune (novel) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dune_(novel)"
+          },
+          {
+            "title": "Dune (franchise) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dune_(franchise)"
+          },
+          {
+            "title": "'Dune' Books in Order: How to Read All 26 Novels Chronologically",
+            "url": "https://www.esquire.com/entertainment/books/g38012512/dune-books-in-order/"
+          },
+          {
+            "title": "Dune (novel) | Frank Herbert, Summary, Films, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/Dune-by-Herbert"
+          },
+          {
+            "title": "The Epic Journey of Frank Herbert\u2019s Dune: From Rejection to Literary Triumph | by Andy McNally | Medium",
+            "url": "https://andymcnally.medium.com/the-epic-journey-of-frank-herberts-dune-from-rejection-to-literary-triumph-5589238b5e43"
+          },
+          {
+            "title": "Frank Herbert - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Frank_Herbert"
+          },
+          {
+            "title": "Herbert, Frank (1965) 'Dune', US first edition, review copy in outstanding condition and handcrafted clamshell case - First and Fine",
+            "url": "https://www.firstandfine.com/product/herbert-frank-1965-dune-us-first-edition-review-copy-in-outstanding-condition-and-handcrafted-clamshell-case/"
+          },
+          {
+            "title": "Dune by Frank Herbert, chilton - AbeBooks",
+            "url": "https://www.abebooks.com/book-search/title/dune/author/frank-herbert/publisher/chilton/"
+          },
+          {
+            "title": "Dune | City Lights Booksellers & Publishers",
+            "url": "https://citylights.com/sci-fi-fantasy/dune-dune-1/"
+          },
+          {
+            "title": "Herbert, Frank (1965-1976) 'Dune' trilogy, US signed first editions - First and Fine",
+            "url": "https://www.firstandfine.com/product/herbert-frank-1965-dune-us-signed-first-edition-in-fine-condition/"
+          }
+        ]
+      },
+      "The search results provide extensive information about Frank Herbert's publishing struggles with Dune. Here are the key findings:\n\n## Publishing Rejections and Chilton Books\n\nThe serialized version was expanded, reworked, and submitted to more than twenty publishers, each of whom rejected it. Sources vary slightly on the exact number, with some citing nearly twenty book publishers and others stating 23 rejections by established publishers.\n\nThe novel, Dune, was finally accepted and published in August 1965 by Chilton Books, a printing house better known for publishing auto repair manuals. Editor Sterling Lanier at Chilton, a company best known for its automobile repair manuals, felt that Dune would be a good choice for the company to branch out into fiction.\n\n## Initial Publishing Struggles\n\nThe initial publication faced significant challenges:\n\n- The first printing, priced at $5.95 (equivalent to $59.37 in 2024), did not sell well and was poorly received by critics as being atypical of science fiction at the time\n- Chilton considered the publication of Dune a write-off and Lanier was fired\n- The print run was very low and about half of the initial run had to be discarded\n\n## Research and Development Background\n\nDune took six years of research and writing to complete, and was much longer than other commercial science fiction of the time. The novel originated when Herbert was assigned to write a magazine article about sand dunes in the Oregon Dunes near Florence, Oregon.\n\n## Eventual Success\n\nDespite the initial struggles, over the course of time, the book gained critical acclaim, and its popularity spread by word-of-mouth to allow Herbert to start working full time on developing the sequels to Dune. The novel won the first Nebula Award for best novel and shared the Hugo Award with Roger Zelazny's This Immortal.\n\nThe story of Dune's publication has become legendary in science fiction publishing, demonstrating how a now-classic work faced significant rejection before finding success with an unlikely publisher."
+    ],
+    "durationSeconds": 20.590542971999994
+  }
+}

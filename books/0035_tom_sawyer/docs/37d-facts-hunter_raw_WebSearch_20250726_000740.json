@@ -1,0 +1,62 @@
+{
+  "session_id": "e6537320-f282-4226-b0c0-d5beb3935bc2",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e6537320-f282-4226-b0c0-d5beb3935bc2.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Tom Sawyer\" Mark Twain scholarly articles academic books dissertations American literature criticism"
+  },
+  "tool_response": {
+    "query": "\"Tom Sawyer\" Mark Twain scholarly articles academic books dissertations American literature criticism",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_015YhpWi4qSAzXkYUXPungY9",
+        "content": [
+          {
+            "title": "The Adventures of Tom Sawyer - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Adventures_of_Tom_Sawyer"
+          },
+          {
+            "title": "What is the relevance of Mark Twain's Tom Sawyer to American literature? - Quora",
+            "url": "https://www.quora.com/What-is-the-relevance-of-Mark-Twains-Tom-Sawyer-to-American-literature"
+          },
+          {
+            "title": "Social Criticism in The Adventures of Tom Sawyer and Huckleberry Finn - GRIN | Grin",
+            "url": "https://www.grin.com/document/49160"
+          },
+          {
+            "title": "Mark Twain\u2019s Impact on American Literature and Culture",
+            "url": "https://www.abookgeek.com/mark-twains-impact/"
+          },
+          {
+            "title": "Mark Twain - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Mark_Twain"
+          },
+          {
+            "title": "The Adventures of Tom Sawyer | Summary, Characters, Setting, Huckleberry Finn, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/The-Adventures-of-Tom-Sawyer-novel-by-Twain"
+          },
+          {
+            "title": "The Adventures of Tom Sawyer by Mark Twain | EBSCO Research Starters",
+            "url": "https://www.ebsco.com/research-starters/literature-and-writing/adventures-tom-sawyer-mark-twain"
+          },
+          {
+            "title": "Writing and Publishing Tom Sawyer",
+            "url": "https://twain.lib.virginia.edu/tomsawye/tomcomp.html"
+          },
+          {
+            "title": "Mark Twain | Books, Cause of Death, Quotes, House, & Famous Works | Britannica",
+            "url": "https://www.britannica.com/biography/Mark-Twain"
+          },
+          {
+            "title": "Salem Press - Critical Insights: The Adventures of Tom Sawyer",
+            "url": "https://www.salempress.com/ci_adventures_of_tom_sawyer"
+          }
+        ]
+      },
+      "Based on the search results, I found extensive information about scholarly articles, academic books, dissertations, and criticism of Mark Twain's \"Tom Sawyer\" in American literature. Here's what the search revealed:\n\n## Academic Sources and Scholarly Works on Tom Sawyer\n\nThe search revealed several academic publications including a term paper titled \"Social Criticism in The Adventures of Tom Sawyer and Huckleberry Finn\" published through GRIN academic publishing. Key concepts explored in scholarly works include 19th century American children's literature, social criticism, didacticism, romanticism, education, religion, slavery, racism, individual morality, societal norms, mob mentality, and the enduring relevance of Twain's critique.\n\nCritical academic works include \"Critical Insights: Mark Twain\" edited by R. Kent Rasmussen and scholarly articles such as \"Social Play and Bad Faith in The Adventures of Tom Sawyer\" by Forrest G. Robinson published in Nineteenth-Century Literature.\n\n## Literary Significance and Critical Reception\n\nThe novel has elements of humor, satire and social criticism \u2013 features that later made Mark Twain one of the most important authors of American literature. Together with The Adventures of Huckleberry Finn, The Adventures of Tom Sawyer changed the course of children's literature in the United States as well as of American literature generally, presenting the first deeply felt portrayal of boyhood.\n\nWilliam Faulkner called Mark Twain \"the father of American literature\", and Ernest Hemingway once stated \"All modern American literature comes from one book by Mark Twain called Huckleberry Finn\".\n\n## Academic Critical Analysis\n\nScholarly analysis focuses on the nostalgic portraits of American childhood blended with social criticism, examining Twain's depiction of South American society and his attitude towards societal concepts of education, religion and slavery, as well as the conflict between individual and social morality.\n\nAcademic themes identified include childhood innocence, moral dilemmas, and social commentary woven throughout the text, showcasing the complexities of growing up in a world rife with expectations and challenges.\n\n## Comprehensive Academic Resources\n\nThe Critical Insights series provides authoritative scholarly analysis, with a volume edited by R. Kent Rasmussen collecting various new, classic, and contemporary essays on Twain's life and works. This includes essays such as \"Tom Sawyer's Evasion of History\" by Peter Messent and \"Tom Sawyer: A Classic Overshadowed by Its Successor\" by Alan Gribben.\n\nThe search results demonstrate that Tom Sawyer continues to be a subject of extensive academic study, with scholars examining its role in American literature, its social commentary, and its enduring cultural significance."
+    ],
+    "durationSeconds": 23.351367349999958
+  }
+}

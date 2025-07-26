@@ -1,0 +1,62 @@
+{
+  "session_id": "117fc0a1-8874-49c5-b0fc-4bb38d5ee638",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/117fc0a1-8874-49c5-b0fc-4bb38d5ee638.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "anime manga gaming characters ambitious social climbing manipulation similar Julien Sorel Light Yagami Lelouch"
+  },
+  "tool_response": {
+    "query": "anime manga gaming characters ambitious social climbing manipulation similar Julien Sorel Light Yagami Lelouch",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01CvfDvQbW88jurNdy54vG3X",
+        "content": [
+          {
+            "title": "Light Yagami Fans Will Love These Animes- 3 Animes Where Main Character is Manipulating Everyone",
+            "url": "https://fandomwire.com/light-yagami-fans-will-love-these-animes-3-animes-where-main-character-is-manipulating-everyone/"
+          },
+          {
+            "title": "5 Most Intelligent Student Characters in Anime",
+            "url": "https://gamerant.com/most-intelligent-student-characters-anime/"
+          },
+          {
+            "title": "Anime Manga Genius Smart",
+            "url": "https://gakamangas.com/manga/the-anime-geniuses-meet/"
+          },
+          {
+            "title": "116 Anime Like Code Geass: Lelouch of the Rebellion | Anime-Planet",
+            "url": "https://www.anime-planet.com/anime/code-geass-lelouch-of-the-rebellion/recommendations"
+          },
+          {
+            "title": "10 Anime Characters That Are Just Like Lelouch Vi Britannia",
+            "url": "https://www.cbr.com/anime-characters-lelouch-vi-britannia-similar-compare/"
+          },
+          {
+            "title": "Best Anime To Watch If You Love Code Geass",
+            "url": "https://gamerant.com/best-anime-to-watch-like-code-geass/"
+          },
+          {
+            "title": "Smartest Anime Characters Meet in One Room Manga Concept",
+            "url": "https://www.tiktok.com/@iixtizzyxii/video/7341973653057244459?lang=en"
+          },
+          {
+            "title": "15 Anime Heroes Who Are Extremely Manipulative",
+            "url": "https://gamerant.com/anime-most-manipulative-heroes/"
+          },
+          {
+            "title": "Death Note: 5 Anime Characters Light Yagami Could Outsmart (& 5 He Couldn\u2019t)",
+            "url": "https://www.cbr.com/death-note-anime-characters-light-yagami-can-cant-outsmart/"
+          },
+          {
+            "title": "12 Most Manipulative Manga Characters - MyAnimeGo",
+            "url": "https://myanimego.com/manipulative-manga-characters/"
+          }
+        ]
+      },
+      "I've found information about anime, manga, and gaming characters who share similar traits to the literary figure Julien Sorel - specifically ambitious characters skilled in social climbing and manipulation, similar to Light Yagami and Lelouch.\n\nHere are some key characters that fit this archetype:\n\n## Core Manipulative Anime/Manga Characters\n\n**Light Yagami (Death Note)** - Light Yagami is an iconic manga manipulator who skillfully uses his intelligence and charm to keep everyone in the dark about his identity as Kira. Light manipulates people by exploiting their trust, even using close relationships to his advantage without remorse.(no content)His manipulative powers allowed him to hide his identity as Kira for the longest time by manipulating other characters and events in his favor.\n\n**Lelouch Lamperouge (Code Geass)** - An exiled prince who uses his intelligence and strategic mind to manipulate not only individuals but entire armies to achieve his goals. With his Geass power, which lets him command anyone to obey him once, he can control others' actions directly.(no content)Lelouch, just like Light, shows himself as a sophisticated individual, but in reality, he hides his true intentions behind the mask of Zero.\n\n**Yuuichi Katagiri (Tomodachi Game)** - His true nature is that of a manipulative machiavellian menace who can scheme with the best of them and has an endless supply of mental tricks and traps to spring upon anyone who tests him and his friends. His main goal is to win all the Tomodachi Games, climb his way to the top, and destroy the system itself.\n\n**Johan Liebert (Monster)** - Although at first sight, Johan might look like a character with a polite, charismatic, and compassionate personality, he actually is a manipulative serial killer. He uses his manipulative skills to persuade others to do his deeds as he goes on a killing spree.\n\n**Kiyotaka Ayanokoji (Classroom of the Elite)** - Another subtle manipulative manga and anime character who uses a calm and emotionless facade to stay unnoticed while tactfully influencing events and people around him.\n\n## Character Connections\n\nCharacters of Light and Lelouch are extremely similar, and if you enjoyed the character of Light Yagami and the way in which he out smarted his opponents with his intelligence then you will thoroughly enjoy Code Geass.(no content)In both series, the main characters are anti-heroes who are trying to overthrow society and change the world into their idea of \"better\". Each one uses mysterious powers they've obtained and show incredible strategic planning to manipulate everyone they need to.(no content)These characters often appear together in fan discussions, as seen in concepts featuring \"Lelouch Lamperouge from Code Geass, Yuuichi Katagiri from Tomodachi Game, Light Yagami from Death Note, Senku Ishigami from Dr. Stone, Shikamaru Nara from Naruto, and Ayanokoji Kiyotaka from Classroom of the Elite.\"\n\nThese characters share the Julien Sorel archetype of ambitious, intelligent individuals who use manipulation and social maneuvering to achieve their goals, often presenting a polished exterior while pursuing darker objectives beneath the surface."
+    ],
+    "durationSeconds": 22.829372235000132
+  }
+}

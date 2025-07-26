@@ -1,0 +1,63 @@
+{
+  "session_id": "0262f963-d6f8-4237-8daf-cd971b19d54f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0262f963-d6f8-4237-8daf-cd971b19d54f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Werther syndrome social media gen z parasocial relationships online crushes 2025"
+  },
+  "tool_response": {
+    "query": "Werther syndrome social media gen z parasocial relationships online crushes 2025",
+    "results": [
+      "I'll search for information about Werther syndrome, social media, Gen Z, parasocial relationships, and online crushes in 2025.",
+      {
+        "tool_use_id": "srvtoolu_0199gzMvP3YLLN8F9tdL7tjM",
+        "content": [
+          {
+            "title": "Parasocial relationships, social media, & well-being - PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35219157/"
+          },
+          {
+            "title": "Parasocial relationships of Generation Z consumers with social media influencers | Request PDF",
+            "url": "https://www.researchgate.net/publication/346758654_Parasocial_relationships_of_Generation_Z_consumers_with_social_media_influencers"
+          },
+          {
+            "title": "Social media and mental health: The impact on Gen Z | McKinsey",
+            "url": "https://www.mckinsey.com/mhi/our-insights/gen-z-mental-health-the-impact-of-tech-and-social-media"
+          },
+          {
+            "title": "Parasocial interaction - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Parasocial_interaction"
+          },
+          {
+            "title": "Parasocial relationships of Generation Z consumers with social media i",
+            "url": "https://www.taylorfrancis.com/chapters/edit/10.4324/9780429322501-10/parasocial-relationships-generation-consumers-social-media-influencers-elina-n%C3%A4rv%C3%A4nen-tytti-kirvesmies-elina-kahri"
+          },
+          {
+            "title": "Parasocial relationships: Gen-Z and celebrity - Thred Website",
+            "url": "https://thred.com/culture/parasocial-relationships-gen-z-and-celebrity/"
+          },
+          {
+            "title": "Parasocial Interaction, the COVID-19 Quarantine, and Digital Age Media | Human Arenas",
+            "url": "https://link.springer.com/article/10.1007/s42087-020-00156-0"
+          },
+          {
+            "title": "The rise of parasocial relationships",
+            "url": "https://www.blogto.com/tech/2024/08/parasocial-pitfalls/"
+          },
+          {
+            "title": "Friend or Faux: Are Parasocial Relationships Healthy?",
+            "url": "https://health.clevelandclinic.org/parasocial-relationships"
+          },
+          {
+            "title": "Full article: Parasocial relationships, social support and well-being: A mixed-methods study among Indian youth",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/02673843.2025.2480712"
+          }
+        ]
+      },
+      "Based on the search results, I found comprehensive information about parasocial relationships, social media, Gen Z, and online crushes in 2025. Here's what the research reveals:\n\n## Parasocial Relationships and Gen Z in 2025\n\nParasocial relationships (PSRs) are nonreciprocal socio-emotional connections with media figures such as celebrities or influencers, where viewers or listeners come to consider media personalities as friends, despite having no or limited interactions with them.\n\n### Recent Research from 2025\n\nA new study published in Frontiers in Psychology in January 2025 examined the impact of parasocial relationships on well-being. The research found that PSRs on social media can promote healthy attitudes and behaviors and lower health-related stigma, but may adversely impact mental health through negative self-comparisons. PSRs also can enhance feelings of connection and community, facilitate coping, foster personal development and identity exploration, and reduce prejudice.\n\n### Gen Z and Social Media Parasocial Relationships\n\nResearch focusing on Generation Z (ages 16-26) in Ireland found five main motives that make young people follow social media influencers, with parasocial relationship, trust, and relatability playing crucial roles in their susceptibility to being influenced.\n\nGeneration Z consumers, who can be considered as \"social media natives,\" form relationships with influencers that have significant meaning in their daily lives. Social media is a dominant force in the lives of many members of Gen Z, and the presence of parasocial relationships has grown in the digital age as boundaries between reality and virtual existence continue to blur.\n\n### The Impact of Social Media Platforms\n\nSocial media introduces additional opportunities for parasocial relationships to intensify because it provides more opportunities for intimate, reciprocal, and frequent interactions between the user and persona. Platforms like Instagram, TikTok, and YouTube have transformed ordinary individuals into digital demigods, wielding influence over millions of loyal viewers, with streaming platforms such as Twitch allowing influencers to interact with fans in real time, forming the facade of an even more intimate bond.\n\n### Positive and Negative Aspects\n\n**Positive aspects:**\n- Parasocial relationships at their best can cultivate strong, loyal fan bases and offer a sense of belonging, community, and connection with others who share mutual interests\n- The behavior can supplement real relationships in filling social needs and decreasing loneliness\n\n**Negative aspects:**\n- Fans invest time, emotion, and sometimes even financial resources into their online idols, who remain unaware of their devotees' existence, creating a false sense of intimacy that can be damaging for mental health\n- Aggressive behavior can develop in fans, with celebrities falling victim to stalkers, home invasion, abuse, and even murder\n- The parasocial relationship creates an environment for unchecked propagation of ideas, with extremely loyal fans defending their idols even when they face controversy\n\n### The Werther Effect Connection\n\nWhile I didn't find specific results linking the \"Werther syndrome\" directly to parasocial relationships in 2025, the Werther effect traditionally refers to copycat suicides following media coverage of suicide. The search results suggest that intense parasocial relationships with online figures could potentially amplify such effects, especially given the most dangerous form of parasocial relationship is the borderline-pathological type.\n\n### 2025 Context\n\nA 2025 study among Indian youth (mean age 20.6 years) using the Multiple Parasocial Relationships Scale found that the intensity of parasocial relationships does not have a significant relationship with well-being, suggesting these relationships may coexist with real relationships without necessarily impacting well-being.\n\nThe research indicates that parasocial relationships among Gen Z in 2025 are complex phenomena that can have both beneficial and harmful effects, particularly as social media continues to blur the lines between real and virtual connections."
+    ],
+    "durationSeconds": 42.59463490099925
+  }
+}

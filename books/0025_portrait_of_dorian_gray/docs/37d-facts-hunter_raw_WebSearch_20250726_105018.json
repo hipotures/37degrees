@@ -1,0 +1,62 @@
+{
+  "session_id": "7da3bbc0-2d10-4a7c-9f7d-e17950766dc1",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7da3bbc0-2d10-4a7c-9f7d-e17950766dc1.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "M\u0142oda Polska Oscar Wilde estetyzm katolicyzm recepcja Wilde"
+  },
+  "tool_response": {
+    "query": "M\u0142oda Polska Oscar Wilde estetyzm katolicyzm recepcja Wilde",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01MSbwmdhtwawQj5YRbfxeUR",
+        "content": [
+          {
+            "title": "Oscar Wilde \u2013 encyklopediafantastyki.pl",
+            "url": "https://encyklopediafantastyki.pl/index.php?title=Oscar_Wilde"
+          },
+          {
+            "title": "(PDF) Dandys i \u015awi\u0119ty: Estetyzm Oscara Wilde\u2019a a transformacja religii",
+            "url": "https://www.researchgate.net/publication/325484892_Dandys_i_Swiety_Estetyzm_Oscara_Wilde'a_a_transformacja_religii"
+          },
+          {
+            "title": "Oscar Wilde | Autor: Wszystkie ksi\u0105\u017cki, wywiady, artyku\u0142y | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/autor/6944/autor"
+          },
+          {
+            "title": "Wilde Oscar (Fingal O\u2019Flahertie Wills), Encyklopedia PWN: \u017ar\u00f3d\u0142o wiarygodnej i rzetelnej wiedzy",
+            "url": "https://encyklopedia.pwn.pl/haslo/Wilde-Oscar-Fingal-O-Flahertie-Wills;3996232.html"
+          },
+          {
+            "title": "Oscar Wilde | Polacy w Oxford",
+            "url": "https://www.oksford.co.uk/historia/znani-ludzie/oscar-wilde/"
+          },
+          {
+            "title": "Oscar Wilde - biografia, \u017cyciorys, ciekawostki, cytaty",
+            "url": "https://zyciorysy.info/oscar-wilde/"
+          },
+          {
+            "title": "Oscar Wilde - ksi\u0105\u017cki, audiobooki, ebooki - Empik",
+            "url": "https://www.empik.com/autor/oscar-wilde"
+          },
+          {
+            "title": "Wilde, Oscar - Polska Biblioteka Muzyczna",
+            "url": "https://polskabibliotekamuzyczna.pl/encyklopedia/wilde-oscar/?lang=en"
+          },
+          {
+            "title": "Oscar Wilde - strona g\u0142\u00f3wna",
+            "url": "https://oscarwildeanegdoty.github.io/index.html"
+          },
+          {
+            "title": "Sylwetka Oscara Wilde'a w |",
+            "url": "https://kulturanacodzien.pl/2019/10/16/portret-oscara-wildea/"
+          }
+        ]
+      },
+      "Based on my search results, I found information about Oscar Wilde and his relationship to aestheticism and Catholicism in Polish sources. Here's what the search revealed:\n\n**Oscar Wilde's Aestheticism:**\nOscar Wilde was a representative of modernist aestheticism. In his views on art, Wilde presented extreme aestheticism, amoralism and hedonism, developing the view of art's autonomy and self-sufficiency (art for art's sake). In his work, he proclaimed aestheticism, individualism and praise for the autonomy of art, which was to serve only itself.\n\n**Conversion to Catholicism:**\nMultiple sources confirm that Wilde converted to Catholicism on his deathbed. He died in a modest Parisian hotel \"Hotel d'Alsace\" from meningitis at age 46.\n\n**Academic Research on Wilde's Aestheticism and Religion:**\nI found a scholarly work titled \"Dandys i \u015awi\u0119ty: Estetyzm Oscara Wilde'a a transformacja religii\" (Dandy and Saint: Oscar Wilde's Aestheticism and the transformation of religion) by J. Edgar Bauer from 2000. This research appears to examine Wilde's attempt to fundamentally revalue dogmatically structured religion in favor of religiosity that celebrates the beauty of life without compromise, similar to Nietzsche's critical undertakings.\n\n**Connection to Young Poland (M\u0142oda Polska):**\nWhile the search results mention connections to Irish cultural movements (his mother was involved in \"Young Ireland\"), I didn't find specific information about Wilde's reception in the Polish \"M\u0142oda Polska\" movement. However, the results show that Wilde's works were translated into Polish by various translators including Jan Kasprowicz, who was indeed associated with the Young Poland movement.\n\nThe search reveals that Wilde's aestheticism and his eventual conversion to Catholicism have been subjects of Polish academic interest, particularly in examining how his aesthetic philosophy related to religious transformation."
+    ],
+    "durationSeconds": 18.919486662998796
+  }
+}

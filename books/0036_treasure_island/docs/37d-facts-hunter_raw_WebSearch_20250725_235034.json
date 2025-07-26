@@ -1,0 +1,62 @@
+{
+  "session_id": "38d2c10d-061a-4607-b249-863b58008013",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/38d2c10d-061a-4607-b249-863b58008013.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Treasure Island pirate themed attractions theme parks worldwide Tom Sawyer Island Adventureland"
+  },
+  "tool_response": {
+    "query": "Treasure Island pirate themed attractions theme parks worldwide Tom Sawyer Island Adventureland",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_019oNRUhNFB5YqcHaZ2Mi5CG",
+        "content": [
+          {
+            "title": "Tom Sawyer Island - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Tom_Sawyer_Island"
+          },
+          {
+            "title": "Pirate's Lair on Tom Sawyer Island | Rides & Attractions",
+            "url": "https://disneyland.disney.go.com/attractions/disneyland/pirates-lair-on-tom-sawyer-island/"
+          },
+          {
+            "title": "Pirate's Lair on Tom Sawyer Island - Frontierland - Disneyland - AllEars.Net",
+            "url": "https://allears.net/disneyland/dlr-planning/pirates-lair-on-tom-sawyer-island-frontierland-disneyland-2/"
+          },
+          {
+            "title": "Tom Sawyer Island | Magic Kingdom Attractions",
+            "url": "https://disneyworld.disney.go.com/attractions/magic-kingdom/tom-sawyer-island/"
+          },
+          {
+            "title": "Pirate's Lair on Tom Sawyer Island | Disneyland Park",
+            "url": "https://touringplans.com/disneyland/attractions/pirates-lair-tom-sawyer-island"
+          },
+          {
+            "title": "Tom Sawyer Island | Disney Wiki | Fandom",
+            "url": "https://disney.fandom.com/wiki/Tom_Sawyer_Island"
+          },
+          {
+            "title": "Pirate's Lair on Tom Sawyer Island (2025) - All You Need to Know BEFORE You Go (with Reviews)",
+            "url": "https://www.tripadvisor.com/Attraction_Review-g29092-d8563054-Reviews-Pirate_s_Lair_on_Tom_Sawyer_Island-Anaheim_California.html"
+          },
+          {
+            "title": "Pirate\u2019s Lair on Tom Sawyer Island at Disneyland Resort | Attraction Insight",
+            "url": "https://attractioninsight.com/attractions/disneyland/pirates-lair-on-tom-sawyer-island/"
+          },
+          {
+            "title": "Tom Sawyer Island - D23",
+            "url": "https://d23.com/a-to-z/tom-sawyer-island/"
+          },
+          {
+            "title": "Pirate's Lair on Tom Sawyer Island | Pirates of the Caribbean Wiki | Fandom",
+            "url": "https://pirates.fandom.com/wiki/Pirate's_Lair_on_Tom_Sawyer_Island"
+          }
+        ]
+      },
+      "Based on the search results, I found comprehensive information about pirate-themed attractions at theme parks worldwide, particularly focusing on Treasure Island/pirate themes, Tom Sawyer Island, and Adventureland connections. Here's what I discovered:\n\n## Pirate's Lair on Tom Sawyer Island at Disneyland\n\nOriginally based on the novels by Mark Twain, the Tom Sawyer Island attraction reopened with a pirate-themed makeover on May 25, 2007 to coincide with the release of Pirates of the Caribbean: At World's End. This transformation represents one of the most significant pirate-themed attractions in Disney parks.\n\n### Key Features of the Pirate Transformation\n\nThe island features several pirate-themed areas:\n\n**Dead Man's Grotto**: Formerly Injun Joe's Cave (featuring a bridge over a bottomless pit along with wind and moan sounds), Dead Man's Grotto infuses more of the Pirates of the Caribbean film mythology into Tom Sawyer Island.(no content)The first major interactive feature guests will encounter is the Chest of Davy Jones from the Pirates of the Caribbean films. Upon touching the chest, lighting will change, Davy Jones' disembodied voice will utter words of warning, and guests will be able to feel the heartbeat of Jones' heart from within the chest.\n\n**Smuggler's Cove**: Smuggler's Cove is a remnant of the original Tom Sawyer Island, however, has been changed dramatically for the Pirate's Lair makeover. The area now appears to be the site of the wreck of a small sailing vessel which was carrying much pirate loot.\n\n**Lafitte's Tavern**: The most prominent structure on the island, viewable from Frontierland, Adventureland and New Orleans Square, is Lafitte's Tavern, which was formerly Harper's Mill.\n\n## Global Disney Park Variations\n\nTokyo Disneyland has its own version of Tom Sawyer Island, still known by the original name. Disneyland Paris and Hong Kong Disneyland have islands, but with alternate themes. In Disneyland Paris, Big Thunder Mountain Railroad occupies the site while Hong Kong Disneyland has Tarzan's Treehouse, which is in Adventureland in a similar location.\n\n### Recent Changes\n\nMagic Kingdom in Florida previously had its own version of Tom Sawyer Island, which was removed in 2025 as part of an expansion of Frontierland. This expansion will be themed to the American wilderness from Pixar's Cars franchise and will be called Piston Peak National Park.\n\n## Interactive Pirate Elements\n\nThe attraction includes several interactive features that enhance the pirate theme:\n\n- The Capstan Wheel: When turned by guests, the capstan wheel hoists a treasure chest out of the watery wreckage, with the skeletal remains of a pirate still holding onto his beloved treasure.\n- Bilge Pumps: Bilge pumps allow guests to pump out some of the water from the flooded ship, revealing skeletons of long-dead pirates still guarding their treasure in their watery grave.\n- The island has sets from the Pirates of the Caribbean films, such as William Turner's blacksmith shop, and story artifacts, such as Elizabeth Swann's love letters, tucked into every nook and cranny.\n\n## Connection to Mark Twain's Original Vision\n\nInterestingly, Before the Tom Sawyer theme was chosen, other themes were proposed such as naming the island \"Mickey Mouse Club Island\" and serving as a club headquarters or making the island into \"Treasure Island\". This shows that the pirate theme has deep historical connections to the attraction's original conception.\n\nThe search revealed that while there are pirate-themed attractions worldwide, Disneyland's Pirate's Lair on Tom Sawyer Island represents the most comprehensive integration of treasure island pirate themes with the classic Tom Sawyer Island concept, successfully blending Mark Twain's literary adventure with Disney's Pirates of the Caribbean franchise."
+    ],
+    "durationSeconds": 29.047755409999983
+  }
+}

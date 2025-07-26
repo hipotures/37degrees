@@ -1,0 +1,62 @@
+{
+  "session_id": "7da3bbc0-2d10-4a7c-9f7d-e17950766dc1",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7da3bbc0-2d10-4a7c-9f7d-e17950766dc1.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "music artists songs Dorian Gray Oscar Wilde references pop culture"
+  },
+  "tool_response": {
+    "query": "music artists songs Dorian Gray Oscar Wilde references pop culture",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01MsrQkU7QbJswzQWgX6p1im",
+        "content": [
+          {
+            "title": "Music based on the works of Oscar Wilde - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Music_based_on_the_works_of_Oscar_Wilde"
+          },
+          {
+            "title": "9 Songs Inspired By Oscar Wilde Quotes | Louder",
+            "url": "https://www.loudersound.com/features/9-songs-inspired-by-oscar-wilde-quotes"
+          },
+          {
+            "title": "The Picture of Dorian Gray & Pop Culture's Obsession With Oscar Wilde",
+            "url": "https://www.townandcountrymag.com/leisure/arts-and-culture/a64329984/oscar-wilde-picture-of-dorian-gray-broadway/"
+          },
+          {
+            "title": "The Picture of Dorian Gray written by Oscar Wilde - Pop Culture Cross-References and Connections on @POPisms",
+            "url": "https://www.popisms.com/Book/17285/The-Picture-of-Dorian-Gray-Oscar-Wilde-1890"
+          },
+          {
+            "title": "Dorian Gray: ***Flawless | Victorian Visual Culture",
+            "url": "https://victorianvisualculture.blog/2014/12/12/dorian-gray-flawless/"
+          },
+          {
+            "title": "Beyond The (K-Pop) Scene: BTS\u2019s Wings and Oscar Wilde\u2019s The Picture of Dorian Gray, Nayoung Bishoff, Literature Film Quarterly",
+            "url": "https://lfq.salisbury.edu/_issues/53_1/beyond_the_kpop-scene_btss_wings_and_oscar_wildes_the_picture_of_dorian_gray.html"
+          },
+          {
+            "title": "The Picture of Dorian Gray \u2013 Oscar Wilde",
+            "url": "https://sites.nd.edu/oascarwilde/tag/the-picture-of-dorian-gray/"
+          },
+          {
+            "title": "Oscar Wilde\u00b4s Playlist: The Picture Of Dorian Gray - playlist by Jefferson Torres | Spotify",
+            "url": "https://open.spotify.com/playlist/40oE8WV46wmEqAG0Ak8ucB"
+          },
+          {
+            "title": "A Portrait of Dorian Gray - a Playlist by musicto",
+            "url": "https://www.musicto.com/playlist/a-portrait-of-dorian-gray/"
+          },
+          {
+            "title": "The Picture of Dorian Gray | Summary, Book, Analysis, Movie, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/The-Picture-of-Dorian-Gray-novel-by-Wilde"
+          }
+        ]
+      },
+      "Based on my search results, I found extensive information about music artists and songs that reference Oscar Wilde's \"The Picture of Dorian Gray\" and his other works in pop culture. Here's what I discovered:\n\n## Metal and Rock References\n\nSeveral metal and rock artists have created songs directly inspired by \"The Picture of Dorian Gray,\" including Cherry Five with a song titled \"The Picture of Dorian Gray,\" Gothic metal band Pyogenesis with \"I Have Seen My Soul\" (from their 2017 album \"A Kingdom to Disappear\"), and doom metal band Pagan Altar with \"The Portrait Of Dorian Gray\" from their 2017 album \"A Room of Shadows.\"(no content)The metal duo Demons & Wizards created \"Dorian\" for their 2005 album \"Touched By The Crimson King,\" which is described as \"an artful retelling of Wilde's controversial (in 1890) sole novel,\" featuring Blind Guardian singer Hansi Kursch and Iced Earth's Jon Schaffer.\n\n## K-Pop and Contemporary Pop\n\nThe South Korean K-pop group BTS incorporated themes from \"The Picture of Dorian Gray\" into their 2016 short film series \"Wings,\" reinterpreting the concept of a hidden self beyond one's persona within a South Korean cultural context. This demonstrates how the group uses intertextuality with Western literature to expand adaptation definitions through a transnational lens.(no content)BTS member V (Taehyung Kim) wore an Oscar Wilde T-shirt to a movie premiere in 2023, which \"became popular enough to spark fans' interest in Wilde.\"\n\n## Academic and Cultural Analysis\n\nSome scholars have noted connections between contemporary artists like Beyonc\u00e9 and the aesthetic portrayed in Wilde's \"Dorian Gray,\" suggesting that \"Wilde and the aesthetic he portrayed in Dorian Gray paved the way for Beyonc\u00e9 and similar artists a century before her birth.\"(no content)Modern queer artists like Lil Nas X have been compared to Oscar Wilde, with both being described as \"mainstream\" artists whose \"art speaks to queerness.\"\n\n## Other Musical References\n\nPete Doherty quotes from Wilde's \"The Ballad of Reading Gaol\" in his song \"Broken Love Song\" on his solo album \"Grace/Wastelands.\"(no content)Lord Vampyr's song \"Morgana\" opens with lines from Wilde's 1881 poem \"Quia Multum Amavi.\"\n\nThe search also revealed that there are curated playlists on streaming platforms specifically themed around \"The Picture of Dorian Gray,\" showing the ongoing influence of Wilde's work in contemporary music culture. These references span multiple genres from metal to K-pop, demonstrating the enduring appeal and adaptability of Wilde's themes across different musical styles and cultural contexts."
+    ],
+    "durationSeconds": 23.487225093998013
+  }
+}

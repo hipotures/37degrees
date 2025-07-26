@@ -1,0 +1,62 @@
+{
+  "session_id": "95239c3a-5fbf-4fbf-93f7-3afd6ea78885",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/95239c3a-5fbf-4fbf-93f7-3afd6ea78885.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Wuthering Heights\" \"toxic relationship\" modern discussions social media Heathcliff Catherine abuse red flags"
+  },
+  "tool_response": {
+    "query": "\"Wuthering Heights\" \"toxic relationship\" modern discussions social media Heathcliff Catherine abuse red flags",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01MEobkjLVLZiCVEGinFiyq2",
+        "content": [
+          {
+            "title": "A Hate Letter To Wuthering Heights",
+            "url": "https://www.readinghasruinedmylife.com/post/a-hate-letter-to-wuthering-heights"
+          },
+          {
+            "title": "Toxic Relationships: What Wuthering Heights taught me about love \u2013 Era Journal",
+            "url": "https://erajournal.co.uk/literature/toxic-relationships-what-wuthering-heights-taught-me-about-love/"
+          },
+          {
+            "title": "Wuthering Heights - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Wuthering_Heights"
+          },
+          {
+            "title": "Wuthering Heights: A Story of Love, Revenge, and Tragedy | by Bookey | Medium",
+            "url": "https://medium.com/@bookey.en/wuthering-heights-a-story-of-love-revenge-and-tragedy-9ee3fa958c7a"
+          },
+          {
+            "title": "Heathcliff From \"Wuthering Heights\" Isn\u2019t A Romantic Anti-Hero, He\u2019s A F*cking Monster | LitReactor",
+            "url": "https://litreactor.com/columns/heathcliff-from-wuthering-heights-isnt-a-romantic-anti-hero-hes-a-fcking-monster"
+          },
+          {
+            "title": "Wuthering Heights by Emily Bront\u00eb - Book Discussion - Armed with A Book",
+            "url": "https://armedwithabook.com/wuthering-heights/"
+          },
+          {
+            "title": "Love as the Ocean Waves/ Inconstant, Yet Always Present/ Toxic Relationships in Wuthering Heights and Carmilla \u2013 Elysian Poiesis",
+            "url": "https://elysianpoiesis.wordpress.com/2020/08/21/toxic-relationships-in-wuthering-heights-and-carmilla/"
+          },
+          {
+            "title": "Wuthering Heights Analysis",
+            "url": "https://kaitlynessays.com/wuthering-heights-analysis/"
+          },
+          {
+            "title": "\u226b Catherine and Heathcliff Relationship in Wuthering Heights Free Essay Sample on Samploon.com",
+            "url": "https://samploon.com/catherine-and-heathcliff-relationship-in-wuthering-heights/"
+          },
+          {
+            "title": "Violence in Emily Bront\u00eb's \"Wuthering Heights\" 725 words [Essay Example]",
+            "url": "https://gradesfixer.com/free-essay-examples/violence-in-emily-brontes-wuthering-heights/"
+          }
+        ]
+      },
+      "Based on the search results, I found extensive modern discussions about the toxic relationship between Heathcliff and Catherine in *Wuthering Heights*, particularly on social media and contemporary literary criticism. Here's what the discussions reveal:\n\n## Modern Critical Perspectives on the Toxic Relationship\n\nSome critics suggest that reading Wuthering Heights as a love story not only \"romanticizes abusive men and toxic relationships but goes against Bront\u00eb's clear intent\".(no content)This book is the poster child for toxic relationships, but in my opinion, Bronte doesn't try to paint it as anything different.\n\n## Red Flags and Abusive Behaviors Identified\n\nModern readers have identified numerous red flags in Heathcliff's behavior:\n\n- **Physical and Emotional Abuse**: Not only is he mentally abusive towards the women he's in relationships with, he's physically abusive towards others around him as well.(no content)Heathcliff should just be a giant, humanoid red flag.\n\n- **Manipulation and Control**: For as much as these two claim to love each other, every time they are alone together, their conversations are full of backhanded compliments, manipulation, and a general distrust.\n\n- **Disturbing Behaviors**: But for me, no reinterpretation or adaptation can redefine Heathcliff's necrophilic digging up of Cathy's corpse as romantic; it is undeniably disturbing.\n\n## Social Media and Contemporary Discussions\n\nThe search reveals active discussions across platforms, with readers critically examining the relationship:\n\nNo one should be in a relationship like Heathcliff's and Catherine's, and I don't know how people think they are an iconic romantic couple. They're both abusive partners.\n\nModern literary criticism emphasizes that Bronte wanted to explore a love that was toxic to the core, a love that doomed both Catherine and Heathcliff from the start rather than romanticizing their relationship.\n\n## Educational Perspectives\n\nContemporary educators and literary scholars are reframing how the novel is taught: The novel is a Gothic tragedy about the cyclical nature of generational abuse and how it destroys families.\n\nThe modern consensus appears to be that while the novel contains \"killer romantic lines,\" Unequivocally then, Heathcliff is a villain and not a romantic hero. These discussions highlight how contemporary readers are more aware of recognizing toxic relationship patterns and are rejecting the romanticization of abusive dynamics that may have been overlooked in earlier interpretations of the classic."
+    ],
+    "durationSeconds": 23.41094986699999
+  }
+}

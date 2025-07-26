@@ -1,0 +1,62 @@
+{
+  "session_id": "95239c3a-5fbf-4fbf-93f7-3afd6ea78885",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/95239c3a-5fbf-4fbf-93f7-3afd6ea78885.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Wuthering Heights\" 2011 Andrea Arnold film James Howson first black Heathcliff Kaya Scodelario"
+  },
+  "tool_response": {
+    "query": "\"Wuthering Heights\" 2011 Andrea Arnold film James Howson first black Heathcliff Kaya Scodelario",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01H2UJUjEivcRbyqcKZtN8dJ",
+        "content": [
+          {
+            "title": "Wuthering Heights (2011 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Wuthering_Heights_(2011_film)"
+          },
+          {
+            "title": "Wuthering Heights (2011) \u2b50 6.0 | Drama, Romance",
+            "url": "https://www.imdb.com/title/tt1181614/"
+          },
+          {
+            "title": "\u200eWuthering Heights (2011) directed by Andrea Arnold \u2022 Reviews, film + cast \u2022 Letterboxd",
+            "url": "https://letterboxd.com/film/wuthering-heights-2011/"
+          },
+          {
+            "title": "Wuthering Heights | Moviepedia | Fandom",
+            "url": "https://movies.fandom.com/wiki/Wuthering_Heights"
+          },
+          {
+            "title": "Wuthering Heights - Film4",
+            "url": "https://www.film4productions.com/productions/2011/wuthering-heights"
+          },
+          {
+            "title": "Wuthering Heights 2011 directed by Andrea Arnold | Meerkatlitalert's Blog",
+            "url": "https://meerkatlitalert.wordpress.com/2018/12/09/wuthering-heights-2011-directed-by-andrea-arnold/"
+          },
+          {
+            "title": "Wuthering Heights - Apple TV",
+            "url": "https://tv.apple.com/us/movie/wuthering-heights/umc.cmc.ifieqeboipi3rxt31xfhyynm"
+          },
+          {
+            "title": "Kaya Scodelario and James Howson in Andrea Arnold\u2019s 2011 adaptation of Emily Bront\u00eb\u2019s WUTHERING HEIGHTS #WutheringHeights | TikTok",
+            "url": "https://www.tiktok.com/@mubi/video/7418247767153315104?lang=en"
+          },
+          {
+            "title": "Wuthering Heights (2011)",
+            "url": "https://www.filmlinc.org/films/wuthering-heights-2011/"
+          },
+          {
+            "title": "Watch Wuthering Heights online - BFI Player",
+            "url": "https://player.bfi.org.uk/subscription/film/watch-wuthering-heights-2011-online"
+          }
+        ]
+      },
+      "Based on the search results, here's information about Andrea Arnold's 2011 film adaptation of \"Wuthering Heights\":\n\n## Film Overview\nWuthering Heights is a 2011 British Gothic romantic drama film directed by Andrea Arnold starring Kaya Scodelario as Catherine Earnshaw and James Howson as Heathcliff.(no content)The screenplay written by Arnold and Olivia Hetreed, is based on Emily Bront\u00eb's 1847 novel of the same name.\n\n## James Howson as First Black Heathcliff\nIn November, it was reported that James Howson had been cast as Heathcliff, the first time a black actor would portray the role.(no content)With Kaya Scodelario (Skins) and James Howson, the first black actor to play Heathcliff, Bront\u00eb's 'dark-skinned gypsy', on screen.\n\n## Casting Process\nDue to Bront\u00eb's description of Heathcliff as a \"dark-skinned gypsy in aspect\" and \"a little Lascar\", Arnold searched for an actor from the UK's Romani community.(no content)The search was then expanded to Yorkshire actors aged 16 to 21 of mixed race, Indian, Pakistani, Bangladeshi or Middle Eastern descent.\n\n## Kaya Scodelario as Catherine\nIn April, she cast Kaya Scodelario as Catherine, a more age-appropriate choice than previous adaptations.(no content)Kaya Scodelario (Skins) as Cathy and James Howson as Heathcliff lead an impressive British cast in this timeless story of two of the most memorable lovers in literature.\n\n## Film Details\nHeathcliff is bullied and \"whipped like a slave\", and he is played by a multiracial actor which befits the original description of Heathcliff in the book. The film focuses primarily on the childhood and adolescence of Heathcliff and Catherine, with the novel's second half, about the romance between Catherine Linton and Linton Heathcliff, is omitted.\n\nThe film received a 69% fresh rating on Rotten Tomatoes, based on 115 reviews, with an average rating of 6.5/10."
+    ],
+    "durationSeconds": 22.346932935999938
+  }
+}

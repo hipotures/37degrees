@@ -1,0 +1,62 @@
+{
+  "session_id": "e6537320-f282-4226-b0c0-d5beb3935bc2",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e6537320-f282-4226-b0c0-d5beb3935bc2.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "1876 America culture society Mississippi River life Hannibal Missouri 19th century childhood education"
+  },
+  "tool_response": {
+    "query": "1876 America culture society Mississippi River life Hannibal Missouri 19th century childhood education",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01DLsRU5ZjNjBSNWBw1WJvi3",
+        "content": [
+          {
+            "title": "Hannibal, Missouri - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Hannibal,_Missouri"
+          },
+          {
+            "title": "Culture and History of the Mississippi River | Adventure Life",
+            "url": "https://www.adventure-life.com/mississippi-river/articles/culture-and-history-of-the-mississippi-river"
+          },
+          {
+            "title": "Life on the Mississippi by Mark Twain | Goodreads",
+            "url": "https://www.goodreads.com/book/show/99152.Life_on_the_Mississippi"
+          },
+          {
+            "title": "Hannibal, Missouri: Mark Twain's Childhood Home",
+            "url": "https://www.visittheusa.com/experience/hannibal-river-town-famous-son"
+          },
+          {
+            "title": "River of History - Chapter 4 - Mississippi National River & Recreation Area (U.S. National Park Service)",
+            "url": "https://www.nps.gov/miss/learn/historyculture/river-of-history-chapter-4.htm"
+          },
+          {
+            "title": "Life on the Mississippi - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Life_on_the_Mississippi"
+          },
+          {
+            "title": "[FREE] Mark Twain spent his childhood on the banks of the Mississippi River in Missouri, which influenced the - brainly.com",
+            "url": "https://brainly.com/question/28337527"
+          },
+          {
+            "title": "Life on Mark Twain\u2019s Mississippi | History Today",
+            "url": "https://www.historytoday.com/archive/feature/life-mark-twains-mississippi"
+          },
+          {
+            "title": "America Comes of Age: 1876\u20131900 - The Metropolitan Museum of Art",
+            "url": "https://www.metmuseum.org/essays/america-comes-of-age-1876-1900"
+          },
+          {
+            "title": "Mark Twain Boyhood Home, Hannibal | EBSCO Research Starters",
+            "url": "https://www.ebsco.com/research-starters/history/mark-twain-boyhood-home-hannibal"
+          }
+        ]
+      },
+      "Based on the search results, I found rich information about 1876 America, particularly focusing on Mississippi River culture, Hannibal Missouri, and 19th-century childhood experiences, largely through the lens of Mark Twain's life and works. Here's what the search revealed:\n\n## Mark Twain and 1876 America\n\nThe river community was the mid-19th-century boyhood home of author Samuel Langhorne Clemens (aka Mark Twain, 1835\u20131910). Twain drew from his childhood settings for his novels The Adventures of Tom Sawyer (1876) and Adventures of Huckleberry Finn (1884).(no content)He would publish the first edition of The Adventures of Tom Sawyer in 1876 and wrote The Adventures of Huckleberry Finn from 1876-1883 and released his first edition in 1884.\n\n## Mississippi River Life and Culture\n\nAfter the Civil War, transportation on the Mississippi River became rampant as steamboats were readily available for most people and there were newer and faster models. Around the end of the 19th-century motorboats were invented and were set to change how the trade worked around the world.(no content)America's 1880s are my current decade of choice, having spent years mired in research about the period, and Life on the Mississippi captures the rapid change in this country that took place after the Civil War, as it changed from a land of bucolic wilderness filled with independent workingmen to one of safer, duller regulated organized industrialization and automation.\n\n## Hannibal, Missouri Society and Education\n\nThe family relocated to nearby Hannibal, a steamboat stop on the Mississippi River, around the time that Sam turned four. Apart from summers spent on an uncle's farm near Florida, Sam lived in Hannibal without interruption until 1853.\n\nEducation in the era is reflected in Twain's own experience: When Twain was only 11 he became a printer's apprentice and only four years later was writing articles and sketches for the Hannibal Journal.(no content)Hannibal High School was founded in 1896. This public high school is part of the Hannibal School District #60, with K-12 grades serving Hannibal and surrounding areas.\n\n## 19th Century Childhood and Society\n\nThey also meant that Hannibal was implicated in America's slave trade. Mark Twain grew up in a family that used the labour of enslaved people; he remembered seeing shackled humans waiting to be sold down the river.(no content)Decades later, his memories turned back to those years and he wrote the most popular boys' story of all time, The Adventures of Tom Sawyer (1876), setting it in a village like that of his own youth and giving Tom a home almost identical to his own. During the twentieth century, his boyhood home came to be regarded as an icon of nineteenth century America and helped make Hannibal a major tourist stop.\n\nThe search results paint a picture of 1876 America as a transitional period, particularly along the Mississippi River, where traditional river culture was giving way to industrialization and automation, while childhood experiences in towns like Hannibal Missouri were being immortalized in literature that would define American cultural memory."
+    ],
+    "durationSeconds": 23.20471709700022
+  }
+}

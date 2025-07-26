@@ -1,0 +1,246 @@
+{
+  "session_id": "e6537320-f282-4226-b0c0-d5beb3935bc2",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e6537320-f282-4226-b0c0-d5beb3935bc2.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Przygody Tomka Sawyera\" PRL cenzura komunizm literatura ameryka\u0144ska"
+  },
+  "tool_response": {
+    "query": "\"Przygody Tomka Sawyera\" PRL cenzura komunizm literatura ameryka\u0144ska",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01PNyFTmudQeeK3KUUuXPzfu",
+        "content": [
+          {
+            "title": "Przygody Tomka Sawyera \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Przygody_Tomka_Sawyera"
+          },
+          {
+            "title": "Przygody Tomka Sawyera - Mark Twain",
+            "url": "https://wolnelektury.pl/katalog/lektura/przygody-tomka-sawyera/"
+          },
+          {
+            "title": "Przygody Tomka Sawyera - klp.pl",
+            "url": "https://klp.pl/przygody-tomka-sawyera/"
+          },
+          {
+            "title": "Przygody Tomka Sawyera",
+            "url": "https://lektury.gov.pl/lektura/przygody-tomka-sawyera"
+          },
+          {
+            "title": "Przygody Tomka Sawyera - Wydawnictwo SBM",
+            "url": "https://www.wydawnictwosbm.pl/ksiazka/przygody-tomka-sawyera/"
+          },
+          {
+            "title": "Przygody Tomka Sawyera",
+            "url": "https://www.rytm-wydawnictwo.pl/literatura-dla-dzieci-i-mlodziezy/przygody-tomka-sawyera_p_1772.html"
+          },
+          {
+            "title": "Przygody Tomka Sawyera -",
+            "url": "https://lekturygimnazjum.pl/przygody-tomka-sawyera/"
+          },
+          {
+            "title": "Przygody Tomka Sawyera - Mark Twain | lektury szkolne z om\u00f3wieniem - Wydawnictwo Greg",
+            "url": "https://www.greg.pl/lektury/103,764_Przygody-Tomka-Sawyera.html"
+          },
+          {
+            "title": "Przygody Tomka Sawyera - \u015aci\u0105gi, wypracowania, lektury - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/mark-twain/przygody-tomka-sawyera.problematyka"
+          },
+          {
+            "title": "Klasyka m\u0142odego czytelnika. Przygody Tomka Sawyera (Ibis) w ksi\u0119garni Tuliszk\u00f3w",
+            "url": "https://ksiegarnia-tuliszkow.pl/klasyka-mlodego-czytelnika-przygody-tomka-sawyera"
+          }
+        ]
+      },
+      "The search results provide information about \"The Adventures of Tom Sawyer\" (Przygody Tomka Sawyera) in Polish literature but don't contain specific information about censorship, PRL (People's Republic of Poland), communism, or American literature being censored during the communist period. Let me search for more specific information about censorship of American literature in communist Poland.",
+      {
+        "tool_use_id": "srvtoolu_0149jvBHJi3QhTyLcW5owcDi",
+        "content": [
+          {
+            "title": "Absurdy cenzury w okresie PRL-u - Archiwum Narodowe w Krakowie",
+            "url": "https://ank.gov.pl/wystawy/absurdy-cenzury-w-okresie-prl-u/"
+          },
+          {
+            "title": "historiomat: cenzura w PRL - historiomat: cenzura w PRL - Historiomat - Wiedza - HISTORIA: POSZUKAJ",
+            "url": "https://www.historiaposzukaj.pl/wiedza,historiomat,1612,historiomat_cenzura_w_prl.html"
+          },
+          {
+            "title": "Cenzura w Polskiej Rzeczypospolitej Ludowej \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Cenzura_w_Polskiej_Rzeczypospolitej_Ludowej"
+          },
+          {
+            "title": "Cenzura w PRL",
+            "url": "https://www.nexto.pl/upload/virtualo/aspra/5e07638fd689ab1185ffaf06b1b9cc2b3d13f62a/free/5e07638fd689ab1185ffaf06b1b9cc2b3d13f62a.pdf"
+          },
+          {
+            "title": "Cenzura jako narz\u0119dzie sprawowania w\u0142adzy w PRL - Cenzura Przystanek Historia",
+            "url": "https://przystanekhistoria.pl/pa2/tematy/cenzura/101598,Cenzura-jako-narzedzie-sprawowania-wladzy-w-PRL.html"
+          },
+          {
+            "title": "Prof. Friszke: cenzura w PRL by\u0142a wszechogarniaj\u0105ca | dzieje.pl - Historia Polski",
+            "url": "https://dzieje.pl/aktualnosci/prof-friszke-cenzura-w-prl-byla-wszechogarniajaca"
+          },
+          {
+            "title": "Cenzura a nauka historyczna w Polsce 1944\u20131970",
+            "url": "https://rcin.org.pl/Content/64193/PDF/WA303_83657_III2708_Romek.pdf"
+          },
+          {
+            "title": "Cenzura PRL a wsp\u00f3\u0142czesne edytorstwo.",
+            "url": "https://rcin.org.pl/Content/66555"
+          },
+          {
+            "title": "Cenzura. Ostatni relikt PRL - Przystanek Historia Instytut Pami\u0119ci Narodowej - Krak\u00f3w",
+            "url": "https://krakow.ipn.gov.pl/pl4/edukacja/przystanek-historia/95553,Cenzura-Ostatni-relikt-PRL.html"
+          },
+          {
+            "title": "Cenzura jako narz\u0119dzie sprawowania w\u0142adzy w PRL - TEKSTY Przystanek Historia",
+            "url": "https://przystanekhistoria.pl/pa2/teksty/101595,Cenzura-jako-narzedzie-sprawowania-wladzy-w-PRL.html"
+          }
+        ]
+      },
+      "The results provide good information about censorship in PRL but don't specifically address American literature or Tom Sawyer. Let me search more specifically for information about American literature censorship in communist Poland.",
+      {
+        "tool_use_id": "srvtoolu_01UsNonbei5d5Xc3GcA1VDQF",
+        "content": [
+          {
+            "title": "Mark Twain \u2013 Wikicytaty",
+            "url": "https://pl.wikiquote.org/wiki/Mark_Twain"
+          },
+          {
+            "title": "PRL - T\u0142umaczenie na angielski",
+            "url": "https://en.bab.la/dictionary/polish-english/polska-rzeczpospolita-ludowa"
+          },
+          {
+            "title": "Cenzura w Polskiej Rzeczypospolitej Ludowej \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Cenzura_w_Polskiej_Rzeczypospolitej_Ludowej"
+          },
+          {
+            "title": "Mark Twain - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Mark_Twain"
+          },
+          {
+            "title": "Cenzura. Ostatni relikt PRL - Przystanek Historia Instytut Pami\u0119ci Narodowej - Krak\u00f3w",
+            "url": "https://krakow.ipn.gov.pl/pl4/edukacja/przystanek-historia/95553,Cenzura-Ostatni-relikt-PRL.html"
+          },
+          {
+            "title": "Absurdy cenzury w okresie PRL-u - Archiwum Narodowe w Krakowie",
+            "url": "https://ank.gov.pl/wystawy/absurdy-cenzury-w-okresie-prl-u/"
+          },
+          {
+            "title": "TWAIN - T\u0142umaczenie na polski",
+            "url": "https://en.bab.la/dictionary/english-polish/twain"
+          },
+          {
+            "title": "Jak w XXI wieku ocenzurowano Marka Twaina - rp.pl",
+            "url": "https://historia.rp.pl/historia/art1609211-jak-w-xxi-wieku-ocenzurowano-marka-twaina"
+          },
+          {
+            "title": "Mark Twain: 208 cytat\u00f3w i aforyzm\u00f3w - Cytaty i aforyzmy",
+            "url": "https://cytatybaza.pl/autorzy/mark-twain.html"
+          },
+          {
+            "title": "T\u0142umacz na us\u0142ugach cenzury. Manipulacja w t\u0142umaczeniach filmowych w PRL-u \u2013 strategie t\u0142umaczeniowe w cenzurze",
+            "url": "https://ruj.uj.edu.pl/xmlui/handle/item/209293"
+          }
+        ]
+      },
+      "The searches are showing general information about censorship in PRL and Mark Twain, but not specific information about how Tom Sawyer or Mark Twain's works were specifically censored in communist Poland. Let me try one more targeted search for specific examples of American literature censorship in PRL.",
+      {
+        "tool_use_id": "srvtoolu_012oKbyYHAQLrhjpwmvHYWcc",
+        "content": [
+          {
+            "title": "Przygody Tomka Sawyera - Mark Twain",
+            "url": "https://wolnelektury.pl/katalog/lektura/przygody-tomka-sawyera/"
+          },
+          {
+            "title": "Przygody Tomka Sawyera - Wydawnictwo SBM",
+            "url": "https://www.wydawnictwosbm.pl/ksiazka/przygody-tomka-sawyera/"
+          },
+          {
+            "title": "Przygody Tomka Sawyera",
+            "url": "https://www.rytm-wydawnictwo.pl/literatura-dla-dzieci-i-mlodziezy/przygody-tomka-sawyera_p_1772.html"
+          },
+          {
+            "title": "Przygody Tomka Sawyera | Wydawnictwo Olesiejuk",
+            "url": "https://www.wydawnictwoolesiejuk.pl/ksiazki/przygody-tomka-sawyera-9788382163438/"
+          },
+          {
+            "title": "Przygody Tomka Sawyera. Wydawnictwo Greg",
+            "url": "https://bookland.com.pl/przygody-tomka-sawyera-wydawnictwo-greg-1"
+          },
+          {
+            "title": "Przygody Tomka Sawyera",
+            "url": "https://lektury.gov.pl/lektura/przygody-tomka-sawyera"
+          },
+          {
+            "title": "Przygody Tomka Sawyera \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Przygody_Tomka_Sawyera"
+          },
+          {
+            "title": "Poprawno\u015b\u0107 polityczna w przek\u0142adzie literatury dla dzieci. Analiza serii translatorskiej powie\u015bci Marka Twaina Przygody Tomka Sawyera - Bia\u0142ostockie Archiwum J\u0119zykowe - Issue 18 (2018) - CEJSH - Yadda",
+            "url": "https://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.ojs-doi-10_15290_baj_2018_18_04"
+          },
+          {
+            "title": "Ksi\u0119garnia Wydawnictwo Skrzat Stanis\u0142aw Por\u0119bski - WYDAWNICTWO DLA DZIECI I M\u0141ODZIE\u017bY - Przygody Tomka Sawyera",
+            "url": "https://www.skrzat.com.pl/index.php?themes=2020&page=pozycja&id=719&tytul=Przygody+Tomka+Sawyera"
+          },
+          {
+            "title": "Klasyka m\u0142odego czytelnika. Przygody Tomka Sawyera (Ibis) w ksi\u0119garni Tuliszk\u00f3w",
+            "url": "https://ksiegarnia-tuliszkow.pl/klasyka-mlodego-czytelnika-przygody-tomka-sawyera"
+          }
+        ]
+      },
+      "The search results continue to show general information about Tom Sawyer publications and translations in Poland, but don't contain specific information about censorship of this work during the PRL period. The most relevant result is item 8, which mentions a research paper about political correctness in translations of Tom Sawyer, but doesn't specifically address PRL censorship. Let me try one final targeted search for specific information about communist censorship of American literature in Poland.",
+      {
+        "tool_use_id": "srvtoolu_01DZ8CMLZvSrhe7FoXJu4ngN",
+        "content": [
+          {
+            "title": "Cenzura w PRL",
+            "url": "https://www.nexto.pl/upload/virtualo/aspra/5e07638fd689ab1185ffaf06b1b9cc2b3d13f62a/free/5e07638fd689ab1185ffaf06b1b9cc2b3d13f62a.pdf"
+          },
+          {
+            "title": "Cenzura a nauka historyczna w Polsce 1944\u20131970",
+            "url": "https://rcin.org.pl/Content/64193/PDF/WA303_83657_III2708_Romek.pdf"
+          },
+          {
+            "title": "Zakazane ksi\u0105\u017cki \u2013 cenzura w\u0142adz komunistycznych (1944\u20131989) - Leksykon - Teatr NN",
+            "url": "https://teatrnn.pl/leksykon/artykuly/zakazane-ksiazki-cenzura-wladz-komunistycznych-1944-1989/"
+          },
+          {
+            "title": "Cenzura jako narz\u0119dzie sprawowania w\u0142adzy w PRL - Cenzura Przystanek Historia",
+            "url": "https://przystanekhistoria.pl/pa2/tematy/cenzura/101598,Cenzura-jako-narzedzie-sprawowania-wladzy-w-PRL.html"
+          },
+          {
+            "title": "historiomat: cenzura w PRL - historiomat: cenzura w PRL - Historiomat - Wiedza - HISTORIA: POSZUKAJ",
+            "url": "https://www.historiaposzukaj.pl/wiedza,historiomat,1612,historiomat_cenzura_w_prl.html"
+          },
+          {
+            "title": "Cenzura w Polskiej Rzeczypospolitej Ludowej \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Cenzura_w_Polskiej_Rzeczypospolitej_Ludowej"
+          },
+          {
+            "title": "Repozytorium Uniwersytetu w Bia\u0142ymstoku: Pod presj\u0105 cenzury. Szkice o kontroli s\u0142owa w latach 1945-1990",
+            "url": "https://repozytorium.uwb.edu.pl/jspui/handle/11320/14964?mode=full"
+          },
+          {
+            "title": "Cenzura jako narz\u0119dzie sprawowania w\u0142adzy w PRL - TEKSTY Przystanek Historia",
+            "url": "https://przystanekhistoria.pl/pa2/teksty/101595,Cenzura-jako-narzedzie-sprawowania-wladzy-w-PRL.html"
+          },
+          {
+            "title": "Absurdy cenzury w okresie PRL-u - Archiwum Narodowe w Krakowie",
+            "url": "https://ank.gov.pl/wystawy/absurdy-cenzury-w-okresie-prl-u/"
+          },
+          {
+            "title": "Cenzura w PRL",
+            "url": "https://www.wdib.uw.edu.pl/images/Spis_tre\u015bci_i_wst\u0119p.pdf"
+          }
+        ]
+      },
+      "Based on the extensive search results, I can now provide information about the topics you searched for, though the specific connection between \"The Adventures of Tom Sawyer,\" PRL censorship, communism, and American literature is not directly documented in the available sources.\n\n## Search Results Summary\n\nYour search query focused on \"The Adventures of Tom Sawyer\" (Przygody Tomka Sawyera) in relation to PRL censorship, communism, and American literature. Here's what the search revealed:\n\n### About \"The Adventures of Tom Sawyer\" in Poland\n\nThe Adventures of Tom Sawyer (Przygody Tomka Sawyera) is a novel for young people by American writer Mark Twain from 1876, with the first Polish edition published in 1901. The Adventures of Tom Sawyer is the most famous novel for young people by American writer Mark Twain.\n\nThe novel has been continuously available in Polish translations throughout different periods, including during the PRL era. There was even a Soviet film adaptation \"The Adventures of Tom Sawyer and Huckleberry Finn\" from 1981, directed by Stanis\u0142aw Goworuchin.\n\n### Censorship in PRL (Communist Poland)\n\nCensorship in the Polish People's Republic was a phenomenon of supervision by PRL authorities over information (press, scientific and cultural publications, performances) intended for distribution. Censorship in People's Poland lasted from 1944 to 1990 and functioned in the form of the Main Office for Control of Press, Publications and Performances (GUKPPiW) established by decree in 1946.\n\nCensorship in PRL was all-encompassing, covering everything. It was meant to help create a certain positive image of the state in political, civilizational, and economic terms, popularize it and prevent its undermining.\n\n### Targets of Communist Censorship\n\nThe tasks of censorship, defined during censor briefings in 1948, were: \"Counteracting attacks by the clergy, paralyzing Anglo-Saxon infiltration and propaganda, counteracting anti-Soviet propaganda, fighting for a new psyche of the citizen of new Poland\".\n\nEvery manifestation of criticism of the functioning system and the propagation of Western political ideas was censored. About US or Israeli politics, one could only write critically, also for example in the sphere of technological achievements.\n\n### Extent of Censorship\n\nCensorship activities covered even children's books, scientific works, announcements, leaflets, and obituaries. Censorship in PRL consisted of preventive control (i.e., preceding the publication of text or presentation of work) of everything that had the character of public information. Not only all printed materials were subject to it, but also radio and television broadcasts, film materials, slides, artistic and entertainment events, information posters.\n\n### American Literature and Censorship\n\nWhile the search results don't provide specific examples of how \"The Adventures of Tom Sawyer\" was censored in communist Poland, they do show that there was systematic \"paralyzing of Anglo-Saxon infiltration and propaganda\" as one of the main censorship objectives.\n\nInterestingly, one search result references a scholarly article about \"political correctness in the translation of children's literature\" that focuses on how Polish translators of Mark Twain's \"Adventures of Tom Sawyer\" dealt with descriptions of the Black minority, examining the notion of political correctness and its role in works written for young audiences.\n\nThe search results suggest that while Mark Twain's works were available in Poland during the PRL period, the broader context of systematic censorship of Western, particularly American, cultural influences was pervasive throughout the communist era."
+    ],
+    "durationSeconds": 47.70044658500003
+  }
+}

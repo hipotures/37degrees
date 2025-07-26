@@ -1,0 +1,226 @@
+{
+  "session_id": "117fc0a1-8874-49c5-b0fc-4bb38d5ee638",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/117fc0a1-8874-49c5-b0fc-4bb38d5ee638.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "contemporary stories social climbing manipulation ambition movies TV shows books Gen Z youth parallel Julien Sorel"
+  },
+  "tool_response": {
+    "query": "contemporary stories social climbing manipulation ambition movies TV shows books Gen Z youth parallel Julien Sorel",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01NMRpF2DrLa9VCHta6cfQB3",
+        "content": [
+          {
+            "title": "Seeing Julien Sorel and Emma Bovary through their hamartia: ambition | by Simay | Medium",
+            "url": "https://simay.medium.com/seeing-julien-sorel-and-emma-bovary-through-their-hamartia-ambition-2ae738ab3605"
+          },
+          {
+            "title": "The Red And The Black: A Tale of Ambition",
+            "url": "https://www.linkedin.com/pulse/red-black-tale-ambition-bookey-sqqfc"
+          },
+          {
+            "title": "Julien Sorel - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Julien_Sorel"
+          },
+          {
+            "title": "The Red And The Black: A Tale of Ambition | by Bookey | Medium",
+            "url": "https://medium.com/@bookey.en/the-red-and-the-black-a-tale-of-ambition-4797ac822f94"
+          },
+          {
+            "title": "(PDF) Television Fiction Series Targeted at Young Audience: Plots and Conflicts Portrayed in a Teen Series",
+            "url": "https://www.researchgate.net/publication/270121039_Television_Fiction_Series_Targeted_at_Young_Audience_Plots_and_Conflicts_Portrayed_in_a_Teen_Series"
+          },
+          {
+            "title": "The Social Dilemma - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Social_Dilemma"
+          },
+          {
+            "title": "Pitt",
+            "url": "https://d-scholarship.pitt.edu/8368/1/ETDBoalick_April2007.pdf"
+          },
+          {
+            "title": "Twenge, J. M. (2017). iGen: Why Today's Super\u2010Connected Kids Are Growing Up Less Rebellious, More Tolerant, Less Happy\u2014and Completely Unprepared for Adulthood and What That Means for the Rest of Us. New York, NY: Atria. ISBN: 978\u20101\u20105011\u20105201\u20106 paperback. 342 pp. | Request PDF",
+            "url": "https://www.researchgate.net/publication/338282649_Twenge_J_M_2017_iGen_Why_Today's_Super-Connected_Kids_Are_Growing_Up_Less_Rebellious_More_Tolerant_Less_Happy-and_Completely_Unprepared_for_Adulthood_and_What_That_Means_for_the_Rest_of_Us_New_York_NY"
+          },
+          {
+            "title": "(PDF) It's Complicated: The Social Lives of Networked Teens",
+            "url": "https://www.researchgate.net/publication/281562649_It's_Complicated_The_Social_Lives_of_Networked_Teens"
+          },
+          {
+            "title": "It's Complicated: The Social Lives of Networked Teens: boyd, danah: 9780300166316: Amazon.com: Books",
+            "url": "https://www.amazon.com/Its-Complicated-Social-Lives-Networked/dp/0300166311"
+          }
+        ]
+      },
+      "The search results provide extensive information about Julien Sorel from Stendhal's \"The Red and the Black\" and his characteristics of social climbing, manipulation, and ambition. However, to find contemporary stories that parallel this character in modern Gen Z youth culture, I should search more specifically for recent movies, TV shows, and books with similar themes.",
+      {
+        "tool_use_id": "srvtoolu_01Jkd83KNJc2Y6RnzFzUHbed",
+        "content": [
+          {
+            "title": "Driven to Win: 11 TV Characters Who Define Ambition - TV Fanatic",
+            "url": "https://www.tvfanatic.com/driven-to-win-11-tv-characters-who-define-ambition/"
+          },
+          {
+            "title": "Social climbing movies | Best and New films",
+            "url": "https://bestsimilar.com/tag/123774-social-climbing"
+          },
+          {
+            "title": "Most Popular Movies and TV Shows tagged with keyword \" ...",
+            "url": "https://www.imdb.com/search/keyword/?keywords=social-climber"
+          },
+          {
+            "title": "10 TV Shows That Perfectly Capture Gen Z Culture",
+            "url": "https://screenrant.com/tv-shows-gen-z-culture/"
+          },
+          {
+            "title": "ambition & success \u2013 aspirational movies & tv shows",
+            "url": "https://www.imdb.com/list/ls522907748/"
+          },
+          {
+            "title": "From 'Euphoria' to 'Booksmart': 10 Movies and TV Shows That\u2019ll Make Any Gen-Zer Feel Understood",
+            "url": "https://collider.com/best-gen-z-movies-and-shows/"
+          },
+          {
+            "title": "\"Classic\" TV Shows Gen Z Is Weirdly Obsessed With (And Why)",
+            "url": "https://www.ranker.com/list/classic-shows-gen-z-loves/sawyer-grant"
+          },
+          {
+            "title": "What are some good social climbing movies? - Quora",
+            "url": "https://www.quora.com/What-are-some-good-social-climbing-movies"
+          },
+          {
+            "title": "You're Definitely A Gen-Zer If You've Seen Over 70 Of These TV Shows",
+            "url": "https://www.buzzfeed.com/audreyworboys/gen-z-tv-list"
+          },
+          {
+            "title": "Top 20 Franchises Gen Z Grew Up Watching | Articles on WatchMojo.com",
+            "url": "https://www.watchmojo.com/articles/top-20-franchises-gen-z-grew-up-watching"
+          }
+        ]
+      },
+      "Let me search more specifically for recent shows and movies that feature young ambitious characters engaging in social climbing and manipulation, particularly those that resonate with Gen Z audiences.",
+      {
+        "tool_use_id": "srvtoolu_01U89kXeKh5jWopj5ZNpX9xq",
+        "content": [
+          {
+            "title": "Characters in Euphoria - TV Tropes",
+            "url": "https://tvtropes.org/pmwiki/pmwiki.php/Characters/Euphoria"
+          },
+          {
+            "title": "13 Shows Like Euphoria to Watch If You Like Euphoria - TV Guide",
+            "url": "https://www.tvguide.com/news/shows-like-euphoria-season-3-hbo-watch-next/"
+          },
+          {
+            "title": "Top Reasons to Watch HBO's 'Euphoria' | DIRECTV Insider",
+            "url": "https://www.directv.com/insider/watch-euphoria/"
+          },
+          {
+            "title": "Industry Isn't Millennial Succession - It's Older Euphoria",
+            "url": "https://www.cbr.com/industry-millenial-succession-euphoria-hbo-max/"
+          },
+          {
+            "title": "List of Euphoria characters - Wikipedia",
+            "url": "https://en.m.wikipedia.org/wiki/List_of_Euphoria_characters"
+          },
+          {
+            "title": "Euphoria/Characters | Tropedia | Fandom",
+            "url": "https://tropedia.fandom.com/wiki/Euphoria/Characters"
+          },
+          {
+            "title": "Euphoria - All The Tropes",
+            "url": "https://allthetropes.org/wiki/Euphoria"
+          },
+          {
+            "title": "15 Best Shows Like Netflix's Elite",
+            "url": "https://screenrant.com/netflix-elite-best-similar-tv-shows/"
+          },
+          {
+            "title": "Euphoria | Tropedia | Fandom",
+            "url": "https://tropedia.fandom.com/wiki/Euphoria"
+          },
+          {
+            "title": "'Euphoria' Captivates Despite Character Development",
+            "url": "https://www.bcheights.com/2022/02/13/euphoria-season-two-review/"
+          }
+        ]
+      },
+      "Now let me search for specific contemporary books that feature young ambitious characters similar to Julien Sorel.",
+      {
+        "tool_use_id": "srvtoolu_018uwVigviWSeJ1VDY3cbe5C",
+        "content": [
+          {
+            "title": "Books To Read if You Love Sally Rooney | Penguin Random House",
+            "url": "https://www.penguinrandomhouse.com/the-read-down/books-to-read-if-you-love-sally-rooney/"
+          },
+          {
+            "title": "Sally Rooney Books in Order, From Conversations With Friends to Intermezzo",
+            "url": "https://earlybirdbooks.com/sally-rooney-books-in-order"
+          },
+          {
+            "title": "The greatest books written by Sally Rooney",
+            "url": "https://thegreatestbooks.org/authors/7273"
+          },
+          {
+            "title": "Sally Rooney - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Sally_Rooney"
+          },
+          {
+            "title": "Is Sally Rooney Worth Your Time? Rating Normal People, Conversations With Friends, And Beautiful World Where Are You? | Rock & Art",
+            "url": "https://www.rockandart.org/is-sally-rooney-worth-time-rating-normal-people/"
+          },
+          {
+            "title": "Sally Rooney (Author of Normal People)",
+            "url": "https://www.goodreads.com/author/show/15860970.Sally_Rooney"
+          },
+          {
+            "title": "If You Like Sally Rooney, Read These 5 Books Next - 5 Books Similar to Sally Rooney | Symptoms of Living",
+            "url": "https://symptomsofliving.com/blog/if-you-like-sally-rooney-read-these-5-books-next/"
+          },
+          {
+            "title": "hope, romance, confusion, fragility: defining the Sally Rooney novel and growing up",
+            "url": "http://www.readingwritingandme.com/2023/09/hope-romance-confusion-fragility.html"
+          },
+          {
+            "title": "I Love Sally Rooney\u2019s Novels, But They Aren\u2019t Written For Me - Electric Literature",
+            "url": "https://electricliterature.com/i-love-sally-rooneys-novels-but-they-arent-written-for-me/"
+          },
+          {
+            "title": "Which Sally Rooney Book You Should Read Based on the Specific Moment in Your Life",
+            "url": "http://www.readingwritingandme.com/2024/11/which-sally-rooney-book-you-should-read.html"
+          }
+        ]
+      },
+      "Let me search for more specific contemporary books and shows featuring ambitious young characters who use manipulation for social advancement.",
+      {
+        "tool_use_id": "srvtoolu_01LW8LPrbTfimgxPazHxcPuv",
+        "content": [
+          {
+            "title": "Donna Tartt\u2019s \u201cThe Secret History\u201d VS. Patricia Highsmith\u2019s \u201cThe Talented Mr Ripley\u201d",
+            "url": "https://thoughtsonpapyrus.com/2019/07/12/donna-tartts-the-secret-history-vs-patricia-highsmiths-the-talented-mr-ripley/"
+          },
+          {
+            "title": "Donna Tartt on the books that were important to her while writing The Secret History. \u2039 Literary Hub",
+            "url": "https://lithub.com/donna-tartt-on-the-books-that-were-important-to-her-while-writing-the-secret-history/"
+          },
+          {
+            "title": "'The Secret History' Syndrome",
+            "url": "https://www.thesaint.scot/post/the-secret-history-syndrome"
+          },
+          {
+            "title": "Donna Tartt Answers Questions About The Secret History, Social Media, More",
+            "url": "https://www.today.com/popculture/books/donna-tartt-secret-history-interview-questions-rcna62501"
+          },
+          {
+            "title": "CIS: Revisiting Mr Ripley | Crime Fiction Lover",
+            "url": "https://crimefictionlover.com/2012/09/cis-revisiting-mr-ripley/"
+          }
+        ]
+      },
+      "Based on my search results, I can now provide a comprehensive response about contemporary stories that feature social climbing, manipulation, and ambition similar to Julien Sorel, with particular relevance to Gen Z youth.\n\nYour search query reveals fascinating parallels between Stendhal's Julien Sorel and contemporary characters across various media formats. Here's what I found about stories featuring young, ambitious characters engaging in social climbing and manipulation that resonate with Gen Z audiences:\n\n## Television Shows\n\n**Euphoria** emerges as a key contemporary parallel. Rue's own narration describes her character as violent, abusive, manipulative, deceptive, and larcenous \u2014 an antagonistic force to everyone around her, from friends to loved ones to law enforcement. Similarly, Maddy Perez's ambition is driven by a thirst for attention and validation and a craving for the high life\u2014no matter the cost. On Euphoria, Maddy constantly strives to prove her worth, navigating toxic relationships and using her charm to manipulate her way through the chaos of adolescence.\n\n**Industry** has been described as \"the exact midpoint between 'Succession for Instagram influencers' and 'Euphoria for business majors.'\"(no content)Harper (Myha'la Herrold, who recently starred in Bodies Bodies Bodies), for example, is no longer just the bright mind on the job -- she's sleeping with her new boss, Danny; doing a lot more drugs and trying to repair things with her junkie brother in Berlin. It has the dynamic of Euphoria's Rue, who has so much potential to succeed but quickly got bogged down by drugs and family problems.\n\n**Elite** represents another significant contemporary take on ambitious youth. The Spanish teen drama Elite is full of intrigue, affluence, and complex relationships... With seven seasons on Netflix to binge, Elite is a reason to celebrate for those who enjoy a steamy thriller series, as audiences can immerse themselves in its unique mix of teenage drama, murder mystery, and soap opera.\n\n## Contemporary Literature\n\n**Sally Rooney's novels** capture the millennial/Gen Z experience of social climbing through intellectual circles. Rooney is known for her insightful, character-driven novels that follow multiple characters as they navigate the complexities of adult friendships, relationships, and ambitions. Her books are often set in the intellectual milieu of Dublin, with protagonists whose situations are simultaneously characterized by belonging to and feeling alienated from their elite environment.\n\n**Classic Influences**: While not contemporary, Richard Papen in The Secret History and Tom Ripley from The Talented Mr Ripley share many similar characteristics and goals in life. From the start of their respective stories, they are both young men who come from relatively poor and economically-disadvantaged backgrounds. These characters continue to influence contemporary works.\n\n## Gen Z Cultural Context\n\nTelevision shows are often reflections of the present society, and in the 2020s, Gen Z is at the forefront of many stories being told onscreen... The shows highlight iconic characters who fully embody what it means to be a part of Gen Z, and people can't get enough of these series. Many Gen Z television shows depict young and complex characters in high school or college or as 20-somethings trying to find themselves in an adult world.\n\n## Core Themes Paralleling Julien Sorel\n\nLike Stendhal's protagonist, contemporary stories feature:\n\n1. **Social Climbing**: Social climbing: Another significant theme is social climbing. Julien, a poor peasant, aspires to rise above his social class and gain status and power in society. He sees education as a means to achieve this, studying to become a priest and later joining the aristocracy.\n\n2. **Manipulation**: He becomes involved in political intrigue and secret societies, often using his charm and wit to manipulate others.\n\n3. **Burning Ambition**: The Red and the Black perfectly captures the character of Julien's burning ambition, reflecting in harsh realities of nineteenth-century French society.\n\nThese contemporary works demonstrate how the timeless themes of ambition, social climbing, and manipulation continue to resonate with young audiences, particularly Gen Z, who face their own challenges navigating social hierarchies in an increasingly digital and stratified world."
+    ],
+    "durationSeconds": 50.67299028400332
+  }
+}

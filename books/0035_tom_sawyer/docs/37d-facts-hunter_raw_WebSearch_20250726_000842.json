@@ -1,0 +1,63 @@
+{
+  "session_id": "e6537320-f282-4226-b0c0-d5beb3935bc2",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e6537320-f282-4226-b0c0-d5beb3935bc2.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Tom Sawyer treasure hunt symbolism childhood dreams adult reality Injun Joe money"
+  },
+  "tool_response": {
+    "query": "Tom Sawyer treasure hunt symbolism childhood dreams adult reality Injun Joe money",
+    "results": [
+      "I'll search for information about the symbolism in Tom Sawyer's treasure hunt and how it relates to childhood dreams, adult reality, and the themes involving Injun Joe and money.",
+      {
+        "tool_use_id": "srvtoolu_0181Y8eTJgYTuno3nT7cQyXx",
+        "content": [
+          {
+            "title": "The Adventures of Tom Sawyer",
+            "url": "https://www.cliffsnotes.com/literature/a/the-adventures-of-tom-sawyer/summary-and-analysis/chapters-2526"
+          },
+          {
+            "title": "The Adventures of Tom Sawyer - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Adventures_of_Tom_Sawyer"
+          },
+          {
+            "title": "American Indians in Children's Literature (AICL): An American Indian perspective on changing \"Injun\" to \"Indian\" in TOM SAWYER",
+            "url": "https://americanindiansinchildrensliterature.blogspot.com/2011/01/american-indian-perspective-on-changing.html"
+          },
+          {
+            "title": "The Adventures of Tom Sawyer - Study Guide and Literary Analysis",
+            "url": "https://literarydevices.net/the-adventures-of-tom-sawyer/"
+          },
+          {
+            "title": "The Treasure Symbol in The Adventures of Tom Sawyer | LitCharts",
+            "url": "https://www.litcharts.com/lit/the-adventures-of-tom-sawyer/symbols/the-treasure"
+          },
+          {
+            "title": "The Adventures of Tom Sawyer | Summary, Characters & Analysis - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/the-adventures-of-tom-sawyer-by-mark-twain-summary-characters-analysis.html"
+          },
+          {
+            "title": "The Adventures of Tom Sawyer | Summary, Characters, Setting, Huckleberry Finn, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/The-Adventures-of-Tom-Sawyer-novel-by-Twain"
+          },
+          {
+            "title": "The Adventures of Tom Sawyer",
+            "url": "https://cranberry-plane-6zce.squarespace.com/s/The-Adventures-of-Tom-Sawyer.pdf"
+          },
+          {
+            "title": "The Adventures of Tom Sawyer Chapter 26 Summary & Analysis | LitCharts",
+            "url": "https://www.litcharts.com/lit/the-adventures-of-tom-sawyer/chapter-26"
+          },
+          {
+            "title": "The Adventures of Tom Sawyer - XXXIII: The Fate of Injun Joe",
+            "url": "https://standardebooks.org/ebooks/mark-twain/the-adventures-of-tom-sawyer/text/chapter-33"
+          }
+        ]
+      },
+      "Based on the search results, I found comprehensive information about the symbolism in Tom Sawyer's treasure hunt and its relationship to childhood dreams, adult reality, and the themes involving Injun Joe and money. Here's what the sources reveal:\n\n## The Treasure Hunt as Childhood Symbolism\n\nThe opening sentence of Chapter 25 expresses the universal truth that sometime in the life of every boy there comes a time when he wants to search for buried treasure. This establishes the treasure hunt as a fundamental childhood experience that represents the transition from innocent play to more serious adventures.\n\nThe theme of the joys and thrill of childhood in the novel is significant in that Tom is engaged in enjoying his boyhood having free of responsibilities and cares of adulthood. His adventures of treasure hunt and enjoyment of the Mississippi River show that Tom loves romanticism.\n\n## Transformation from Childhood Dreams to Adult Reality\n\nThe treasure hunt symbolizes the evolution from childhood fantasy to adult consequences. What started out as a game no more serious than playing pirates, Indians, or Robin Hood, now becomes a serious and dangerous situation. This transformation occurs when the boys encounter Injun Joe, representing the intrusion of adult evil into their innocent world.\n\nIn all of Tom and Huck's previous adventures, superstitious tokens and other junk assumed the status of treasure to them. In coveting the silver coins, the boys desire something of actual value in the adult world. The discovery of real money marks their transition from childish games to adult concerns.\n\n## Injun Joe and Money as Adult Corruption\n\nInjun Joe represents the dark side of adult reality that threatens childhood innocence. Injun Joe is the antagonist of the novel as he kills the doctor and then appears to try his best to obstruct and blackmail Tom and his friends when hunting the treasure.\n\nThe money becomes a corrupting force that brings real danger into the boys' lives. Injun Joe and his companion awake and decide to bury a packet of about six hundred silver coins that they have stolen. While digging a hole, they discover a metal box filled with gold coins worth thousands of dollars.\n\n## Dreams Versus Reality\n\nTom's dreams ceaselessly about the treasure. The treasure becomes an obsession that blurs the line between dream and reality. Then it occurred to him that the great adventure itself must be a dream! There was one very strong argument in favor of this idea\u2014namely, that the quantity of coin he had seen was too vast to be real.\n\n## Ultimate Resolution\n\nThe treasure hunt ultimately serves as Tom's coming-of-age experience. Tom Sawyer is a highly symbolic character representing a free-spirit caught in a community and situation where he does not want to be... Tom is considered badly behaved, but has a heart of gold as his misdeeds are never malicious, resulting in him being thought of as a simple trickster with dreams of adventure.\n\nThe symbolism concludes with Tom's maturation as he faces real adult dangers while maintaining his adventurous spirit, showing how childhood dreams can evolve into adult courage and responsibility."
+    ],
+    "durationSeconds": 27.028949368999804
+  }
+}

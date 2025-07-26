@@ -1,0 +1,62 @@
+{
+  "session_id": "117fc0a1-8874-49c5-b0fc-4bb38d5ee638",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/117fc0a1-8874-49c5-b0fc-4bb38d5ee638.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Stendhal The Red and the Black influence French literature realism psychological novel"
+  },
+  "tool_response": {
+    "query": "Stendhal The Red and the Black influence French literature realism psychological novel",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_018tRaSE3qsb2doRGFGSmXZX",
+        "content": [
+          {
+            "title": "The Red and the Black - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Red_and_the_Black"
+          },
+          {
+            "title": "Stendhal's Romanticism and Realism",
+            "url": "https://www.cliffsnotes.com/literature/r/the-red-and-the-black/critical-essay/stendhals-romanticism-and-realism"
+          },
+          {
+            "title": "Stendhal | Encyclopedia.com",
+            "url": "https://www.encyclopedia.com/people/literature-and-arts/french-literature-biographies/stendhal"
+          },
+          {
+            "title": "Stendhal - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Stendhal"
+          },
+          {
+            "title": "The Red and the Black by Stendhal | Goodreads",
+            "url": "https://www.goodreads.com/book/show/14662.The_Red_and_the_Black"
+          },
+          {
+            "title": "Stendhal Biography",
+            "url": "https://www.cliffsnotes.com/literature/r/the-red-and-the-black/stendhal-biography"
+          },
+          {
+            "title": "Literary Devices In The Red & The Black \u270d\ufe0f",
+            "url": "https://litdevices.com/literature/the-red-the-black/"
+          },
+          {
+            "title": "Stendhal: Biography, Major Works & Legacy | Vaia",
+            "url": "https://www.vaia.com/en-us/explanations/french/french-literature/stendhal/"
+          },
+          {
+            "title": "The Red and the Black (Stendhal): An Analysis - A Gentleman's Library",
+            "url": "https://www.gentlemanlibrary.com/red-black-analysis/"
+          },
+          {
+            "title": "The Red and the Black | Romanticism, Realism, France | Britannica",
+            "url": "https://www.britannica.com/topic/The-Red-and-the-Black"
+          }
+        ]
+      },
+      "The search results provide comprehensive information about Stendhal's \"The Red and the Black\" and its influence on French literature, realism, and the psychological novel. Here's a synthesis of the key findings:\n\n## Stendhal's Influence on French Literature and Realism\n\nStendhal's works \"mark the transition in France from romanticism to realism\" and he is \"considered one of the early and foremost practitioners of realism\". The novel represents a significant shift in literary technique and subject matter.\n\n### Revolutionary Approach to Realism\n\nErich Auerbach noted that Stendhal's approach was \"entirely new and highly significant\" in how it \"logically and systematically\" situated \"the tragically conceived life of a man of low social position\" within \"the most concrete kind of contemporary history\". Auerbach considers modern \"serious realism\" to have begun with Stendhal and Balzac.\n\n### Creation of the Psychological Novel\n\nStendhal's \"great contribution to literary technique was the describing of the psychologies (emotions, thoughts, and interior monologues) of the characters. As a result, he is considered the creator of the psychological novel\". His \"innovative use of psychological analysis in character development paved the way for the modern novel\".\n\n### Literary Technique and Style\n\nStendhal \"forged his style in direct reaction to the lyrical, hyperbolic, flowery style of Romanticism\" and \"created a style that in its directness approximates the immediacy of the spoken language\". His style \"is realistic in a broader sense of the term in that it communicates a direct impression of life being lived at the present moment\".\n\n### Influence on Later Literature\n\nFord Madox Ford noted that with Stendhal, \"the Novel as such was capable of being regarded as a means of profoundly serious and many-sided discussion and therefore as a medium of profoundly serious investigation into the human case\". His legacy influenced \"literary giants such as Gustave Flaubert, \u00c9mile Zola, and James Joyce\".\n\n### Contemporary Reception and Lasting Impact\n\nAndr\u00e9 Gide stated that \"The Red and the Black was a novel ahead of its time, that it was a novel for readers in the 20th century\". Friedrich Nietzsche referred to Stendhal as \"France's last great psychologist\", highlighting his enduring influence on understanding human psychology in literature.\n\nThe novel's combination of psychological depth, social realism, and historical specificity established new standards for literary fiction that continue to influence writers today."
+    ],
+    "durationSeconds": 20.52419613800198
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "session_id": "256f845f-ddd5-4027-a9c2-755ec8659a89",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/256f845f-ddd5-4027-a9c2-755ec8659a89.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Robinson Crusoe Daniel Defoe 1719 first edition publication details bibliography"
+  },
+  "tool_response": {
+    "query": "Robinson Crusoe Daniel Defoe 1719 first edition publication details bibliography",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01FMMCH7CKriEmQ4yvi29uC9",
+        "content": [
+          {
+            "title": "Robinson Crusoe - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Robinson_Crusoe"
+          },
+          {
+            "title": "Daniel Defoe - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Daniel_Defoe"
+          },
+          {
+            "title": "Robinson Crusoe : Defoe, Daniel, 1661?-1731 : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/cu31924011498676"
+          },
+          {
+            "title": "Robinson Crusoe | Summary, Author, Characters, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/Robinson-Crusoe-novel"
+          },
+          {
+            "title": "Robinson Crusoe First Edition: Rare & First Edition Books by Daniel Defoe. Peter Harrington Rare & First Edition Books.",
+            "url": "https://www.peterharrington.co.uk/authors/d/daniel-defoe"
+          },
+          {
+            "title": "Amazon.com: Robinson Crusoe: 9781503292383: Defoe, Daniel: Books",
+            "url": "https://www.amazon.com/Robinson-Crusoe-Daniel-Defoe/dp/150329238X"
+          },
+          {
+            "title": "Why is it generally held that Daniel Defoe's Robinson Crusoe was the first novel to be written despite the fact that in actuality it was not? - Quora",
+            "url": "https://www.quora.com/Why-is-it-generally-held-that-Daniel-Defoes-Robinson-Crusoe-was-the-first-novel-to-be-written-despite-the-fact-that-in-actuality-it-was-not"
+          },
+          {
+            "title": "\"Robinson Crusoe\" is published | April 25, 1719 | HISTORY",
+            "url": "https://www.history.com/this-day-in-history/april-25/robinson-crusoe-is-published"
+          },
+          {
+            "title": "Amazon.com: Robinson Crusoe: The Original 1719 Edition (A Daniel Defoe Classic Novel): 9798373456562: Defoe, Daniel: Books",
+            "url": "https://www.amazon.com/Robinson-Crusoe-Original-Daniel-Classic/dp/B0BTP1WNPK"
+          },
+          {
+            "title": "Daniel Defoe | EBSCO Research Starters",
+            "url": "https://www.ebsco.com/research-starters/history/daniel-defoe"
+          }
+        ]
+      },
+      "Based on the web search results, I've found comprehensive information about the first edition of Robinson Crusoe by Daniel Defoe published in 1719. Here are the key publication details and bibliographic information:\n\n## First Edition Publication Details\n\nRobinson Crusoe was first published on 25 April 1719. The novel was first published in London in 1719.\n\n## Original Title\n\nThe book was originally published under the considerably longer title: \"The Life and Strange Surprising Adventures of Robinson Crusoe, Of York, Mariner: Who lived Eight and Twenty Years, all alone in an un-inhabited Island on the Coast of America, near the Mouth of the Great River of Oroonoque; Having been cast on Shore by Shipwreck, wherein all the Men perished but himself\".\n\n## Authorship Attribution\n\nThe first edition credited the work's protagonist Robinson Crusoe as its author, leading many readers to believe he was a real person and that the book was a non-fiction travelogue.\n\n## Publication Success\n\nBefore the end of the year, this first volume had run through four editions. Robinson Crusoe was a popular success in Britain, and it went through multiple editions in the months after its first publication.\n\n## Literary Significance\n\nDefoe's first long work of fiction, it introduced two of the most-enduring characters in English literature: Robinson Crusoe and Friday. Many scholars consider it the first true English novel.\n\n## Sequel Publication\n\nDefoe wrote a sequel (The Farther Adventures of Robinson Crusoe) that was also published in 1719.\n\nThe search results provide detailed bibliographic information about this foundational work of English literature, confirming its publication date, original title, and immediate commercial success in 1719."
+    ],
+    "durationSeconds": 15.18004850799963
+  }
+}

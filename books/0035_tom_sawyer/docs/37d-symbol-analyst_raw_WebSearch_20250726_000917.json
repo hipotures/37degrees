@@ -1,0 +1,63 @@
+{
+  "session_id": "e6537320-f282-4226-b0c0-d5beb3935bc2",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e6537320-f282-4226-b0c0-d5beb3935bc2.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Mark Twain Museum Hannibal digital archives Project Gutenberg Tom Sawyer manuscripts online"
+  },
+  "tool_response": {
+    "query": "Mark Twain Museum Hannibal digital archives Project Gutenberg Tom Sawyer manuscripts online",
+    "results": [
+      "I'll search for information about Mark Twain Museum Hannibal digital archives and Project Gutenberg's Tom Sawyer manuscripts online.",
+      {
+        "tool_use_id": "srvtoolu_014muz1A6yUAKj1nPP9bDLrE",
+        "content": [
+          {
+            "title": "The Adventures of Tom Sawyer, Complete by Mark Twain | Project Gutenberg",
+            "url": "https://www.gutenberg.org/ebooks/74"
+          },
+          {
+            "title": "The adventures of Tom Sawyer : Twain, Mark, 1835-1910 : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/adventuresoftoms99twai"
+          },
+          {
+            "title": "The Adventures Of Tom Sawyer : Mark Twain : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/TheAdventuresOfTomSawyerMR"
+          },
+          {
+            "title": "The Adventures of Tom Sawyer by Mark Twain | Project Gutenberg",
+            "url": "https://www.gutenberg.org/ebooks/9038"
+          },
+          {
+            "title": "The Mark Twain Boyhood Home & Museum | Hannibal, MO",
+            "url": "https://marktwainmuseum.org/"
+          },
+          {
+            "title": "The Project Gutenberg eBook of Tom Sawyer Abroad, By Mark Twain",
+            "url": "https://www.gutenberg.org/files/91/91-h/91-h.htm"
+          },
+          {
+            "title": "THE WORKS OF MARK TWAIN",
+            "url": "https://www.gutenberg.org/files/28803/28803-h/28803-h.htm"
+          },
+          {
+            "title": "Tom Sawyer Abroad by Mark Twain | Project Gutenberg",
+            "url": "https://www.gutenberg.org/ebooks/91"
+          },
+          {
+            "title": "The Adventures of Tom Sawyer | Project Gutenberg",
+            "url": "https://www.gutenberg.org/cache/epub/74/pg74-images.html"
+          },
+          {
+            "title": "The Adventures of Tom Sawyer - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Adventures_of_Tom_Sawyer"
+          }
+        ]
+      },
+      "Based on my search, I can provide you with information about Mark Twain digital resources, though the results don't show specific manuscripts or digital archives collaboration between the Mark Twain Museum in Hannibal and Project Gutenberg.\n\nHere's what I found:\n\n**Project Gutenberg Tom Sawyer Collection:**\nProject Gutenberg offers \"The Adventures of Tom Sawyer, Complete\" by Mark Twain as a free digitized ebook that has been \"proofread by volunteers.\"(no content)The complete text was first released on July 1, 2004 as eBook #74 and was most recently updated on May 10, 2025.(no content)Project Gutenberg also has \"Tom Sawyer Abroad\" available \"for the use of anyone anywhere in the United States and most other parts of the world at no cost\" under the Project Gutenberg License.\n\n**Mark Twain Museum in Hannibal:**\nThe Mark Twain Boyhood Home & Museum offers tours of \"historic museum properties located in the heart of Hannibal, MO.\"(no content)The museum features live performances about \"The Inspiration for Tom Sawyer\" by professional Mark Twain performer Jim Waddell.\n\n**Connection to Hannibal:**\nThe novel is \"set in the 1830s-1840s in the town of St. Petersburg, which is based on Hannibal, Missouri, where Twain lived as a boy\" and \"many of the places in it are real and today support a tourist industry.\"\n\n**Internet Archive Resources:**\nThe Internet Archive also provides free access to various editions of \"The Adventures of Tom Sawyer,\" including versions with original illustrations.\n\nThe search didn't reveal specific information about manuscript digitization projects or formal partnerships between the Mark Twain Museum in Hannibal and Project Gutenberg for digitizing original Tom Sawyer manuscripts. The available digital texts appear to be based on published editions rather than original manuscripts."
+    ],
+    "durationSeconds": 15.908680395000149
+  }
+}

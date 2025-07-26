@@ -1,0 +1,62 @@
+{
+  "session_id": "38d2c10d-061a-4607-b249-863b58008013",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/38d2c10d-061a-4607-b249-863b58008013.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "polska historia morska Ba\u0142tyk \u017cegluga piraci korsarze polscy"
+  },
+  "tool_response": {
+    "query": "polska historia morska Ba\u0142tyk \u017cegluga piraci korsarze polscy",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01UxtzzSUBvJptes7CfmBXAS",
+        "content": [
+          {
+            "title": "Polscy piraci siali postrach na morzach. Korsarze znad Wis\u0142y \u0142upili statki i s\u0142u\u017cyli kr\u00f3lom Polski | National Geographic",
+            "url": "https://www.national-geographic.pl/historia/polscy-piraci-siali-postrach-na-morzach-korsarze-znad-wisly-lupili-statki-i-sluzyli-krolom-polski/"
+          },
+          {
+            "title": "Piraci znad Ba\u0142tyku | Presti\u017c Szczecin",
+            "url": "https://prestizszczecin.pl/magazyn/129/styl-zycia/piraci-znad-baltyku"
+          },
+          {
+            "title": "Morskie Opowie\u015bci: \u017begluga i Piraci na Ba\u0142tyku",
+            "url": "https://www.silny-szczecin.pl/morskie-opowiesci-zegluga-i-piraci-na-baltyku/"
+          },
+          {
+            "title": "Piraci na Ba\u0142tyku - In Gremio",
+            "url": "https://ingremio.org/felieton/piraci-na-baltyku/"
+          },
+          {
+            "title": "Nasi na Karaibach, czyli polscy koledzy Jacka Sparrowa",
+            "url": "https://hrabiatytus.pl/2020/10/29/nasi-na-karaibach-czyli-polscy-koledzy-jacka-sparrowa/"
+          },
+          {
+            "title": "Pirackie dzieje Ba\u0142tyku \u2013 Bracia Witalijscy | CiekawostkiHistoryczne.pl",
+            "url": "https://ciekawostkihistoryczne.pl/2020/01/21/pirackie-dzieje-baltyku-bracia-witalijscy/"
+          },
+          {
+            "title": "Czy w Polsce byli piraci? Czy na Ba\u0142tyku byli piraci?",
+            "url": "https://www.trojmiasto.pl/historia/Czy-w-Polsce-byli-piraci-Czy-na-Baltyku-byli-piraci-n56503.html"
+          },
+          {
+            "title": "\u201ePiraci na Ba\u0142tyku!\u201d \u2013 czyli o flocie kaperskiej Zygmunta Augusta",
+            "url": "https://www.duch.edu.pl/index.php/aktualnosci-list/643-piraci-na-baltyku-czyli-o-flocie-kaperskiej-zygmunta-augusta"
+          },
+          {
+            "title": "Piraci nie tylko z Karaib\u00f3w prawdziwi korsarze dawniej i dzisiaj",
+            "url": "https://www.naszeszlaki.pl/archives/44293"
+          },
+          {
+            "title": "Polscy piraci na morzach \u015bwiata",
+            "url": "https://www.trojmiasto.pl/historia/Polscy-piraci-na-morzach-swiata-n135833.html"
+          }
+        ]
+      },
+      "Based on the search results, I found comprehensive information about Polish maritime history on the Baltic Sea, including navigation, pirates, and privateers. Here's what the search revealed:\n\n## Polish Maritime History on the Baltic Sea\n\nThe search results provide extensive information about Polish maritime activities on the Baltic Sea, particularly focusing on piracy and privateering throughout history.\n\n### Early Polish Privateering (15th Century)\n\nThe first \"state pirates\" began operating on the Baltic during the thirteen-year war with the Teutonic Order, supported by Denmark and Holland. The main task of privateers operating under the royal banner was to cut off the Teutonic Knights from supplies of food, weapons and gunpowder arriving through the port in K\u00f6nigsberg.(no content)The Polish privateer fleet intercepted several dozen Dutch and Danish ships. It fought 21 naval battles and also conducted an effective blockade of ports.(no content)King Casimir Jagiellon, wanting to defeat the Teutonic Knights at sea, established a privateer fleet - a unit of pirates that was to form part of his army on the Baltic. The first privateers came mainly from Gdansk and their task was to stop Teutonic ships, as well as any others that could help Polish enemies.\n\n### Notable Polish Maritime Figures\n\n**Paul Beneke** was the most famous privateer, commanding the largest ship sailing on the Baltic at the time, \"Peter von Danczk\" (Peter of Gdansk), on April 27, 1473.\n\n**Arend Dickmann** was probably the most famous privateer in Polish service, who became fleet commander during the battle of Oliwa.\n\n### Baltic Sea Piracy Organizations\n\nThe Victual Brothers, though greatly weakened, continued to operate on the Baltic.(no content)One of the bases of the Victual Brothers was supposedly also located in Poland, specifically in Rowy.\n\n### Maritime Activities and Navigation\n\nOver the years, navigation on the Baltic became more organized. Here are some key stages in history: 11th-12th century: Creation of the first trade routes. 13th century: The growing importance of the Hanseatic League of cities. 16th-17th century: The golden age of navigation, development of naval and merchant fleets.\n\n### Polish Pirates Beyond the Baltic\n\nFew people know that Polish pirates also operated much further: off the coasts of North America and in the Caribbean.(no content)Polish pirates were among Hanseatic privateers and buccaneers - the famous pirates whose kingdom was the island of Tortuga, attacking Spanish ships and colonies on behalf of the governments of England, France and Holland.\n\n### Legal Distinction Between Pirates and Privateers\n\nPiracy was a typically bandit activity, but privateering (kaperstwo) was its institutionalized form, protected by monarchs or coastal cities. These were sea pirates equipped with patents, i.e. privateer letters.\n\nThe search results reveal a rich history of Polish maritime activities on the Baltic Sea, showing how Poland used both official privateering and unofficial piracy as tools of warfare and commerce throughout the medieval and early modern periods."
+    ],
+    "durationSeconds": 28.577076152999886
+  }
+}

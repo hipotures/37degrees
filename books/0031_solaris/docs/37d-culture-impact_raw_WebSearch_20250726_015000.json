@@ -1,0 +1,63 @@
+{
+  "session_id": "25c2a401-88de-4e28-8dba-e70b720fd603",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/25c2a401-88de-4e28-8dba-e70b720fd603.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Stanis\u0142aw Lem awards honors translation history international recognition global reception"
+  },
+  "tool_response": {
+    "query": "Stanis\u0142aw Lem awards honors translation history international recognition global reception",
+    "results": [
+      "I'll perform a web search for information about Stanis\u0142aw Lem's awards, honors, translation history, and international recognition.",
+      {
+        "tool_use_id": "srvtoolu_01M9wpGjNsWN2krVTgQQVxY8",
+        "content": [
+          {
+            "title": "Stanis\u0142aw Lem - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Stanis%C5%82aw_Lem"
+          },
+          {
+            "title": "Lem Prize | Wroclaw Tech",
+            "url": "https://lemprize.pwr.edu.pl/"
+          },
+          {
+            "title": "List of works by Stanis\u0142aw Lem and their adaptations - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/List_of_works_by_Stanis%C5%82aw_Lem_and_their_adaptations"
+          },
+          {
+            "title": "List of awards and honours received by Stanis\u0142aw Lem - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/List_of_honors_bestowed_on_Stanis%C5%82aw_Lem"
+          },
+          {
+            "title": "Stanis\u0142aw Lem | Polish Sci-Fi Author & Philosopher | Britannica",
+            "url": "https://www.britannica.com/biography/Stanislaw-Lem"
+          },
+          {
+            "title": "Have people in the West heard of the Polish writer Stanis\u0142aw Lem, everyone probably knows Sapkowski but I wonder if anyone else in Europe has heard of Lem and he deserves recognition like Arthur C. Clarke? - Quora",
+            "url": "https://www.quora.com/Have-people-in-the-West-heard-of-the-Polish-writer-Stanis%C5%82aw-Lem-everyone-probably-knows-Sapkowski-but-I-wonder-if-anyone-else-in-Europe-has-heard-of-Lem-and-he-deserves-recognition-like-Arthur-C-Clarke"
+          },
+          {
+            "title": "Stanislaw Lem | The Booker Prizes",
+            "url": "https://thebookerprizes.com/the-booker-library/authors/stanislaw-lem"
+          },
+          {
+            "title": "Stanis\u0142aw Lem | EBSCO Research Starters",
+            "url": "https://www.ebsco.com/research-starters/biography/stanislaw-lem"
+          },
+          {
+            "title": "Stanis\u0142aw Lem - Words Without Borders",
+            "url": "https://wordswithoutborders.org/contributors/view/stanisaw-lem/"
+          },
+          {
+            "title": "The World According to Stanis\u0142aw Lem | Los Angeles Review of Books",
+            "url": "https://lareviewofbooks.org/article/world-according-stanislaw-lem/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide comprehensive information about Stanis\u0142aw Lem's awards, honors, translation history, and international recognition:\n\n## Awards and Honors\n\nStanis\u0142aw Lem received numerous prestigious awards throughout his career, including the City of Krak\u00f3w's Prize in Literature (1957), the Prize of the Minister of Culture and Art 2nd Level (1965), the Prize of the Minister of Foreign Affairs for popularization of Polish culture abroad (1973), the Literary Prize of the Minister of Culture and Art (1973), and the State Prize 1st Level in the area of literature (1976). He also won the Grand Prix de Litt\u00e9rature Polici\u00e8re for his novel \"Katar\" in 1979.\n\nIn 1973, Lem was awarded honorary membership in the Science Fiction Writers of America (SFWA), though this was later revoked in 1976 due to his scathing evaluations of other sci-fi writers' work.\n\nLem received several honorary doctorates, including from Wroc\u0142aw University of Technology (1981), University of Bielefeld (2003), and the Austrian State Prize for European Literature (1986). He also received Polish state decorations including The Medal of the White Eagle.\n\n## Translation History and Global Reception\n\nLem's books have been translated into more than 50 languages and have sold more than 45 million copies worldwide. In 1976, Theodore Sturgeon wrote that Lem was the most widely read science fiction writer in the world.\n\nAccording to recent estimates, his books have been translated into more than 40 languages and have sold almost 40 million copies, and he was repeatedly nominated for the Nobel Prize. By all measures he was one of the most successful writers of the 20th century.\n\nLem was phenomenally popular in Eastern and Central Europe, though today he has fallen into quasi-obscurity, at least in the English-speaking world.\n\n## International Recognition\n\nWorldwide, he is best known as the author of the 1961 novel \"Solaris\". For his entire body of work, he was shortlisted for The Man Booker International Prize 2005.\n\nA minor planet, 3836 Lem, discovered by Soviet astronomer Nikolai Stepanovich Chernykh in 1979, is named after him. In 2013, two planetoids were named after Lem's literary characters: 343000 Ijontichy and 343444 Halluzinelle. An exoplanet named Pirx was found orbiting the star Solaris in the constellation Pegasus.\n\nIn 2011, an elaborate interactive Google Doodle inspired by \"The Cyberiad\" was created for the 60th anniversary of his first published book. The Polish Parliament declared 2021 to be the Year of Stanis\u0142aw Lem.\n\nIn 2021, the Lem Prize was established by Wroc\u0142aw University of Science and Technology to commemorate his 100th birthday, awarded annually to young European researchers whose work has potential for positive impact on civilization."
+    ],
+    "durationSeconds": 28.368370353000238
+  }
+}

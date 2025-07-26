@@ -1,0 +1,63 @@
+{
+  "session_id": "117fc0a1-8874-49c5-b0fc-4bb38d5ee638",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/117fc0a1-8874-49c5-b0fc-4bb38d5ee638.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Stendhal \"Czerwone i czarne\" wsp\u00f3\u0142czesna Polska m\u0142odzi czytelnicy BookTok TikTok"
+  },
+  "tool_response": {
+    "query": "Stendhal \"Czerwone i czarne\" wsp\u00f3\u0142czesna Polska m\u0142odzi czytelnicy BookTok TikTok",
+    "results": [
+      "I'll perform a web search for that query about Stendhal's \"The Red and the Black\" and its contemporary reception among young Polish readers on BookTok/TikTok.",
+      {
+        "tool_use_id": "srvtoolu_01UQGsfpDkzrXVoFWf86wiTD",
+        "content": [
+          {
+            "title": "Czerwone i czarne",
+            "url": "https://wolnelektury.pl/katalog/lektura/stendhal-czerwone-i-czarne/"
+          },
+          {
+            "title": "Czerwone i czarne | Teatr \u0141a\u017ania Nowa",
+            "url": "https://www.laznianowa.pl/spektakl/czerwone-i-czarne"
+          },
+          {
+            "title": "Czerwone i czarne - Stendhal | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5090613/czerwone-i-czarne"
+          },
+          {
+            "title": "stendhal-czerwone-i-czarne.txt",
+            "url": "https://wolnelektury.pl/media/book/txt/stendhal-czerwone-i-czarne.txt"
+          },
+          {
+            "title": "Czerwone i czarne | Stendhal (Ksi\u0105\u017cka) - Ksi\u0119garnia znak.com.pl",
+            "url": "https://www.znak.com.pl/p/czerwone-i-czarne-stendhal-19731"
+          },
+          {
+            "title": "\"Stendhal\" (autor ksi\u0105\u017cki \"Czerwone i czarne\") - nakanapie.pl",
+            "url": "https://nakanapie.pl/autorzy/stendhal"
+          },
+          {
+            "title": "Recenzja: Czerwone i czarne - Stendhal - granice.pl",
+            "url": "https://www.granice.pl/recenzja/czerwone-i-czarne/13238"
+          },
+          {
+            "title": "Czerwone i czarne | Stendhal Stendhal (Ksi\u0105\u017cka) - Ksi\u0119garnia chodnikliteracki.pl",
+            "url": "https://chodnikliteracki.pl/p/czerwone-i-czarne-stendhal-stendhal-17137"
+          },
+          {
+            "title": "Czerwone i czarne, Stendhal - Trio z Roztocza",
+            "url": "https://triozroztocza.pl/product/czerwone-i-czarne-stendhal/"
+          },
+          {
+            "title": "Marie Beyle (Stendhal), Czerwone i czarne",
+            "url": "https://wolnelektury.pl/katalog/lektura/stendhal-czerwone-i-czarne.html"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about Stendhal's \"Czerwone i czarne\" (The Red and the Black) in contemporary Poland, though the results don't show specific content about BookTok or TikTok reception among young Polish readers.\n\nCzerwone i czarne to najs\u0142ynniejsza powie\u015b\u0107 Stendhala. The novel remains a significant work in Polish literary culture, with powie\u015b\u0107 zosta\u0142a wydana po raz pierwszy w 1831 roku, a w 1864 zosta\u0142a umieszczona w Indeksie ksi\u0105g zakazanych ze wzgl\u0119du na krytyczne tre\u015bci wobec Ko\u015bcio\u0142a.(no content)Polski tytu\u0142, nadany przez Tadeusza Boya-\u017bele\u0144skiego, odnosi si\u0119 do ci\u0105g\u0142ej walki wewn\u0119trznej zachodz\u0105cej w Julianie \u2014 nami\u0119tno\u015bci i konserwatywnego wyrachowania.\n\nThe novel continues to be adapted for contemporary Polish audiences. W efekcie powsta\u0142a bardzo wsp\u00f3\u0142czesna i aktualna opowie\u015b\u0107, w kt\u00f3rej uda\u0142o nam si\u0119 zachowa\u0107 wierno\u015b\u0107 Stendhalowi \u2013 m\u00f3wi Bartosz Szyd\u0142owski, re\u017cyser spektaklu. Szyd\u0142owski przez pryzmat Stendhala pokazuje r\u00f3wnie\u017c to, co dzi\u015b dzieje si\u0119 na polskich plebaniach, w konfesjona\u0142ach i w biskupich pa\u0142acach.\n\nRecent Polish readers acknowledge the work's literary significance. Tym razem si\u0119gn\u0119\u0142am po \u201eCzerwone i czarne\" Stendhala, klasyk\u0119 literatury francuskiej, kt\u00f3ra z pewno\u015bci\u0105 zas\u0142uguje na uwag\u0119 ze wzgl\u0119du na sw\u00f3j kontekst historyczny i g\u0142\u0119bok\u0105 analiz\u0119 spo\u0142eczno-obyczajow\u0105 XIX-wiecznej Francji. Dostrzegam jej warto\u015b\u0107 jako pi\u0119knie odmalowany portret epoki, mentalno\u015bci i konwenans\u00f3w tamtych czas\u00f3w.\n\nHowever, the search results don't reveal specific information about the novel's presence on Polish BookTok or TikTok, or its particular reception among young Polish readers on these platforms. The available sources focus more on traditional literary criticism, theatrical adaptations, and general reader reviews rather than social media engagement or contemporary youth reading trends."
+    ],
+    "durationSeconds": 18.77784320400655
+  }
+}

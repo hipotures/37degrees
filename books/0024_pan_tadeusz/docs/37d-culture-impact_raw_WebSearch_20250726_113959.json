@@ -1,0 +1,62 @@
+{
+  "session_id": "8e510ca3-dab1-4e58-b10a-336d368b79a7",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e510ca3-dab1-4e58-b10a-336d368b79a7.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Pan Tadeusz\" international comparative literature English translations UNESCO"
+  },
+  "tool_response": {
+    "query": "\"Pan Tadeusz\" international comparative literature English translations UNESCO",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01NvYrQkoYCkimtNn4k9vjmU",
+        "content": [
+          {
+            "title": "Pan Tadeusz - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pan_Tadeusz"
+          },
+          {
+            "title": "New English translation of Adam Mickiewicz's \u201cPAN TADEUSZ\u201d - Muzeum Pana Tadeusza",
+            "url": "https://muzeumpanatadeusza.ossolineum.pl/en/new-english-translation-of-adam-mickiewiczs-pan-tadeusz/"
+          },
+          {
+            "title": "English translations of Pan Tadeusz: a comparison with TRACER",
+            "url": "https://www.etrap.eu/english-translations-of-pan-tadeusz-a-comparison-with-tracer/"
+          },
+          {
+            "title": "\"Pan Tadeusz,\" or translating the untranslatable: an analysis of English translations",
+            "url": "https://ruj.uj.edu.pl//handle/item/195387"
+          },
+          {
+            "title": "Index Translationum - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Index_Translationum"
+          },
+          {
+            "title": "Unesco",
+            "url": "https://www.unesco.org/xtrans/bsstatlist.aspx?lg=0"
+          },
+          {
+            "title": "UNESCO\u2019s Clearing House for Literary Translation: Index Translationum - Literature Across Frontiers - Literature Across Frontiers",
+            "url": "https://www.lit-across-frontiers.org/resources/unescos-clearing-house-for-literary-translation-index-translationum/"
+          },
+          {
+            "title": "Index Translationum: UNESCO Culture Sector",
+            "url": "https://www.unesco.org/xtrans/bsstatexp.aspx?crit1L=5&nTyp=min&topN=50"
+          },
+          {
+            "title": "Pan Tadeusz - (Intro to Comparative Literature) - Vocab, Definition, Explanations | Fiveable",
+            "url": "https://fiveable.me/key-terms/introduction-to-comparative-literature/pan-tadeusz"
+          },
+          {
+            "title": "The dynamics of translation from and into Arabic in the Arab world: bibliometric analysis of the Index Translationum UNESCO database (1979\u20132012) | Humanities and Social Sciences Communications",
+            "url": "https://www.nature.com/articles/s41599-024-04225-5"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about Pan Tadeusz in the context of international comparative literature, English translations, and UNESCO recognition.\n\n## Pan Tadeusz: International Recognition and UNESCO Status\n\nPan Tadeusz was incorporated into Poland's list in the UNESCO Memory of the World Programme in 2014. Pan Tadeusz, Poland's national epic, is compulsory reading in Polish schools and has been translated into 33 languages.\n\n## Literary Significance in Comparative Literature\n\nPan Tadeusz (full title: Sir Thaddeus, or the Last Foray in Lithuania: A Nobility's Tale of the Years 1811\u20131812, in Twelve Books of Verse) is an epic poem by the Polish poet, writer, translator and philosopher Adam Mickiewicz. It is deemed one of the last great epic poems in European literature. Pan Tadeusz is an epic poem written by Adam Mickiewicz, published in 1834, that serves as a national epic of Poland. It is celebrated for its romantic themes, rich portrayal of Polish society, and nostalgic reflection on the lost world of the Polish-Lithuanian Commonwealth.\n\n## English Translations\n\nAs many as seven translators decided to render \"Pan Tadeusz\" in English, starting from the earliest translation by Maude A. Biggs (1885). The search results reveal several notable English translations:\n\n1. **Maude Ashurst Biggs** (1885): \"Master Thaddeus or the Last Foray in Lithuania\" (in Miltonian blank verse)\n2. **George Rapall Noyes** (1917): \"Pan Tadeusz, or the Last Foray in Lithuania. A Story of Life among Polish Gentlefolk\" (prose)\n3. **Watson Kirkconnell** (1962): \"Sir Thaddeus or Last Foray in Lithuania: a History of the Nobility in the Years 1811 and 1812 in Twelve Books of Verse\" (verse, based on Noyes)\n4. **Bill Johnston**: A fresh translation by award-winning translator Bill Johnston that allows English-language readers to experience the richness, humor, and narrative energy of the original. Johnston received the National Translation Award bestowed by the American Literary Translators Association.\n\n## Translation Challenges and Research\n\nAny attempt to translate Mickiewicz's epic poem into a foreign language may seem destined to failure almost by definition. The quintessentially Polish text defies translation both by its content (the cultural load) and by its form (the versification and the sheer number of lines).\n\nEnglish translations of Polish literature demonstrate the potential of TRACER for translation studies, with researchers using computational tools to analyze relationships between different translations.\n\n## UNESCO's Index Translationum\n\nThe Index Translationum is UNESCO's database of book translations, which serves as a list of books translated in the world, i.e. an international bibliography of translations. This database would likely contain records of Pan Tadeusz translations as part of UNESCO's broader mission to track international literary exchange."
+    ],
+    "durationSeconds": 27.422119374
+  }
+}

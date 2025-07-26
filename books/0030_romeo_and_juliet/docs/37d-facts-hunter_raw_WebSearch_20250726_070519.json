@@ -1,0 +1,62 @@
+{
+  "session_id": "dfef5421-3cfd-4f13-a992-935c866ee7a0",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/dfef5421-3cfd-4f13-a992-935c866ee7a0.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Romeo Juliet education curriculum schools worldwide English literature academic studies"
+  },
+  "tool_response": {
+    "query": "Romeo Juliet education curriculum schools worldwide English literature academic studies",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01MXokVZNGfLzdg72NK7Szse",
+        "content": [
+          {
+            "title": "Romeo and Juliet South African School Edition (English) | Cambridge University Press & Assessment",
+            "url": "https://www.cambridge.org/us/education/subject/literature-south-african-schools/caps-approved-literature/romeo-and-juliet-south-african-school-edition-english"
+          },
+          {
+            "title": "Romeo and Juliet - Memoria Press: Classical Education",
+            "url": "https://www.memoriapress.com/curriculum/literature-and-poetry/romeo-juliet/"
+          },
+          {
+            "title": "9th Grade English Curriculum - Romeo and Juliet | Common Core Lessons",
+            "url": "https://www.fishtanklearning.org/curriculum/ela/9th-grade/romeo-and-juliet/"
+          },
+          {
+            "title": "Romeo and Juliet Student Book, Second Edition - Memoria Press: Classical Education",
+            "url": "https://www.memoriapress.com/curriculum/literature-and-poetry/romeo-juliet-student-guide/"
+          },
+          {
+            "title": "Education | Romeo and Juliet | Royal Shakespeare Company",
+            "url": "https://www.rsc.org.uk/romeo-and-juliet/learning"
+          },
+          {
+            "title": "Romeo and Juliet Context - GCSE English Literature Revision",
+            "url": "https://www.savemyexams.com/gcse/english-literature/aqa/17/revision-notes/1-shakespeare/romeo-and-juliet/romeo-and-juliet-context/"
+          },
+          {
+            "title": "Romeo and Juliet Teacher Guide, Second Edition - Memoria Press: Classical Education",
+            "url": "https://www.memoriapress.com/curriculum/literature-and-poetry/romeo-juliet-teacher-manual/"
+          },
+          {
+            "title": "Romeo and juliet | Literary texts | Cambridge University Press",
+            "url": "https://www.cambridge.org/gb/academic/subjects/literature/literary-texts/romeo-and-juliet"
+          },
+          {
+            "title": "Globe Education Shakespeare: Romeo and Juliet for Wjec Eduqas GCSE English Literature: Globe Education: 9781471854880: Amazon.com: Books",
+            "url": "https://www.amazon.com/Globe-Education-Shakespeare-English-Literature/dp/1471854884"
+          },
+          {
+            "title": "Fall in Love with these Lesson Plans for Your Romeo and Juliet Unit",
+            "url": "https://www.commonlit.org/blog/fall-in-love-with-these-lesson-plans-for-your-romeo-and-juliet-unit/"
+          }
+        ]
+      },
+      "Based on the web search results, here's what I found about Romeo and Juliet in education curriculum across schools worldwide:\n\n## Romeo and Juliet in Global Education Curricula\n\nRomeo and Juliet is commonly taught in 9th grade English curricula, and it appears as a key text in various educational systems worldwide.\n\n### Educational Implementation Worldwide\n\nCambridge University Press provides educational materials that unlock the potential of millions of people worldwide, with assessments, publications and research that spread knowledge around the world. They offer Romeo and Juliet South African School Edition specifically designed for educational use.\n\nIn the UK, Romeo and Juliet is part of the AQA GCSE English Literature exam curriculum, and there are WJEC Eduqas-specific GCSE play texts produced in partnership with Globe Education.\n\n### Pedagogical Approaches and Focus Areas\n\nThe major areas of focus when teaching Romeo and Juliet include: (1) decoding and comprehending Shakespeare's archaic language and (2) comparing his original text to other works that have drawn on his original text.\n\nThis end-of-year unit draws upon literary analysis and writing skills students have been developing throughout the year and applies them to Shakespeare's complex language and style. While students may have previously read simplified versions, this is often their first experience with Shakespeare's original, more archaic language.\n\n### Educational Resources and Materials\n\nCommonLit offers thousands of lessons, a full-year ELA curriculum, and has created Book Pairings for over a hundred classic books taught in schools across the country. The lessons in Book Pairings are designed to build students' reading comprehension and engagement, with every pairing including information about the new text and discussion questions.\n\nThe Royal Shakespeare Company provides information and resources for teachers and learners on Romeo and Juliet.\n\n### Academic Skills Development\n\nThe curriculum emphasizes building skills described in Common Core ELA standard RL.9-10.9, \"analyzing how an author draws on and transforms source material.\" Students analyze works by fourteenth-century poet Petrarch, investigating how Shakespeare drew on Petrarch's themes and characters.\n\nStudents also engage with modern adaptations, watching pieces of the 1996 Baz Luhrmann film version and reading excerpts from Walter Dean Myers' novel \"Street Love,\" analyzing how these modern artists transform Shakespeare's sixteenth-century play.\n\n### Classroom Considerations\n\nRomeo and Juliet features teenage suicide, a topic that can be difficult to address in a classroom setting, requiring careful pedagogical consideration.\n\nThe play remains a cornerstone of English literature education globally, with educational publishers and institutions providing specialized materials and approaches to make Shakespeare's work accessible to students across different educational systems and grade levels."
+    ],
+    "durationSeconds": 24.374801038000733
+  }
+}

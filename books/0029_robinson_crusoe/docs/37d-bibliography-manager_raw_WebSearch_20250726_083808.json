@@ -1,0 +1,62 @@
+{
+  "session_id": "256f845f-ddd5-4027-a9c2-755ec8659a89",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/256f845f-ddd5-4027-a9c2-755ec8659a89.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Robinson Crusoe over 100 film adaptations since 1902"
+  },
+  "tool_response": {
+    "query": "Robinson Crusoe over 100 film adaptations since 1902",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01NasD3ogGPKpvtkuLbCR3at",
+        "content": [
+          {
+            "title": "Category:Films based on Robinson Crusoe - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Category:Films_based_on_Robinson_Crusoe"
+          },
+          {
+            "title": "Robinson Crusoe - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Robinson_Crusoe"
+          },
+          {
+            "title": "Favorite Robinson Crusoe Film",
+            "url": "https://www.imdb.com/list/ls042423218/"
+          },
+          {
+            "title": "Robinson Crusoe (disambiguation) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Robinson_Crusoe_(disambiguation)"
+          },
+          {
+            "title": "Robinson Crusoe (1902 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Robinson_Crusoe_(1902_film)"
+          },
+          {
+            "title": "Robinson Crusoe (Short 1902) - User reviews - IMDb",
+            "url": "https://m.imdb.com/title/tt0225132/reviews/"
+          },
+          {
+            "title": "Robinson Crusoe Movies & Media Adaptations | BookRags.com",
+            "url": "https://www.bookrags.com/studyguide-robinsoncrusoe/adaptations.html"
+          },
+          {
+            "title": "Which are the best Robinson Crusoe film adaptations? - Quora",
+            "url": "https://www.quora.com/Which-are-the-best-Robinson-Crusoe-film-adaptations"
+          },
+          {
+            "title": "Robinson Crusoe Movies and TV Shows",
+            "url": "https://www.imdb.com/list/ls033635772/"
+          },
+          {
+            "title": "Classic Film Review: Bunuel\u2019s \u201cAdventures of Robinson Crusoe\u201d(1954) | Movie Nation",
+            "url": "https://rogersmovienation.com/2021/08/27/classic-film-review-bunuels-adventures-of-robinson-crusoe1954/"
+          }
+        ]
+      },
+      "Based on my web search, I found information about Robinson Crusoe film adaptations since 1902, though the specific claim of \"over 100 film adaptations\" is not explicitly verified in the search results. Here's what I found:\n\nThe first film adaptation was produced and directed by Georges M\u00e9li\u00e8s in 1902, confirming that film adaptations of Robinson Crusoe began in that year.\n\nThe search results show evidence of numerous adaptations across different decades:\n\n**Early adaptations:**\n- Robinson Crusoe (French: Les aventures de Robinson Cruso\u00eb) is a 1902 French silent film directed by Georges M\u00e9li\u00e8s\n- Robinson Crusoe (1916 film), an American silent film by George F. Marion \u00b7 Robinson Crusoe (1924 film), an American film by Bryan Foy \u00b7 Robinson Crusoe (1927 film), a British silent film by M.A. Wetherell\n\n**Later adaptations include:**\n- Robinson Crusoe (1947 film), a Soviet film by Aleksandr Andriyevsky (Russian: \u0420\u043e\u0431\u0438\u043d\u0437\u043e\u043d \u041a\u0440\u0443\u0437\u043e) Robinson Crusoe (1954 film), a Mexican film by Luis Bu\u00f1uel\n- In 1966, Walt Disney later comedicized the novel with Lt. Robin Crusoe, U.S.N., featuring Dick Van Dyke... Variations on the theme include the 1954 Miss Robin Crusoe, with a female castaway, played by Amanda Blake, and a female Friday, and in 1965 we get the film adaptation Robinson Crusoe on Mars\n\nWhile the search results document multiple adaptations spanning from the silent black-and-white film in 1916 with Robert Paton Gibbs, there have been some sixteen film adaptations of Robinson Crusoe This count includes versions in French, Spanish, Russian, Swiss, and German, the specific count mentioned here refers to a subset of adaptations and doesn't include all variations and spin-offs.\n\nRobinson Crusoe not only got two sequels, but has been adapted to film and television numerous times, and It's been adapted too many times and in so many different ways that it's hard to keep count, suggesting the total number of adaptations is indeed substantial, though the exact figure of \"over 100\" wasn't specifically confirmed in these search results."
+    ],
+    "durationSeconds": 17.790731970001012
+  }
+}

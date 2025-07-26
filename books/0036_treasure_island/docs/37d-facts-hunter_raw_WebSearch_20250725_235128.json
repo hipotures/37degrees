@@ -1,0 +1,62 @@
+{
+  "session_id": "38d2c10d-061a-4607-b249-863b58008013",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/38d2c10d-061a-4607-b249-863b58008013.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Treasure Island\" adaptations films movies cultural impact Disney 1950 scholarly sources"
+  },
+  "tool_response": {
+    "query": "\"Treasure Island\" adaptations films movies cultural impact Disney 1950 scholarly sources",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01NJcEMeg6dCzti8gHUouW3C",
+        "content": [
+          {
+            "title": "Treasure Island (1950 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Treasure_Island_(1950_film)"
+          },
+          {
+            "title": "Treasure Island (1950): Walt Disney\u2019s First Live-Action Feature Film | The Walt Disney Family Museum",
+            "url": "https://www.waltdisney.org/blog/treasure-island-1950"
+          },
+          {
+            "title": "Treasure Island (1950)",
+            "url": "http://ryanmccormickfilmhistory.blogspot.com/2020/09/treasure-island-1950.html"
+          },
+          {
+            "title": "The 10 Best Movie and TV Adaptations of Treasure Island",
+            "url": "https://movieweb.com/best-treasure-island-adaptations/"
+          },
+          {
+            "title": "Treasure Island: At the movies (1950) \u0097 The Greatest Literature of All Time",
+            "url": "http://www.editoreric.com/greatlit/movies/Treasure-Island-1950.html"
+          },
+          {
+            "title": "Treasure Island | Disney Movies",
+            "url": "https://movies.disney.com/treasure-island"
+          },
+          {
+            "title": "Treasure Island: Our Top Adaptations \u2013 Not Cricket Productions",
+            "url": "https://simplyspiffing.co.uk/treasure-island-our-top-adaptations/"
+          },
+          {
+            "title": "Treasure Island (1950) Review \u2013 Drew Martin Writes",
+            "url": "https://drewmartinwrites.wordpress.com/2021/03/11/treasure-island-1950-review/"
+          },
+          {
+            "title": "Review: Disney's Treasure Island (1950) \u2014 Disnerd Movie Challenge",
+            "url": "https://disnerdmoviechallenge.com/blog/review-treasure-island-dmc-13"
+          },
+          {
+            "title": "Treasure Island (1950) \u2b50 6.9 | Adventure, Drama, Family",
+            "url": "https://www.imdb.com/title/tt0043067/"
+          }
+        ]
+      },
+      "Based on your search query, I found comprehensive information about Disney's 1950 adaptation of \"Treasure Island\" and its cultural impact. Here's what the search revealed:\n\n## Disney's 1950 Treasure Island: A Cultural Milestone\n\nDisney's 1950 \"Treasure Island\" was a groundbreaking film produced by RKO-Walt Disney British Productions and was Disney's first completely live-action film and the first screen version of Treasure Island made in color.(no content)The film was directed by Byron Haskin and starred Bobby Driscoll as Jim Hawkins and Robert Newton as Long John Silver.\n\n## Production Context and Scholarly Significance\n\nThe film stands as a landmark feature for Walt Disney, representing his first full-length live-action feature film, yet the film's significance extends far beyond that.(no content)Walt Disney had been planning an adaptation of Treasure Island, originally intended to be animated, since the 1930s, and Disney acquired the film rights to the novel from Metro-Goldwyn-Mayer in 1949.\n\n## Cultural Impact and Lasting Legacy\n\n### Influence on Pirate Portrayal\nNewton's portrayal of Long John Silver has been influential on the portrayal of pirates in pop culture, and his exaggeration of his native West Country accent is credited with popularizing the stereotypical \"pirate speech.\"(no content)This swashbuckling movie set unconscious standards in pirate appearance, vernacular, and structure that inspired how most would imagine salty, old pirates that still remain in popular culture today, with Newton's version of Long John Silver becoming his most popular character and leaving the greatest lasting legacy in popular culture.\n\n### Modern Cultural References\nNewton has become the \"patron saint\" of the annual International Talk Like a Pirate Day, and both Jack Sparrow and Hector Barbossa from Pirates of the Caribbean are based on Long John Silver as portrayed in this film.(no content)Disney's popular theme park attraction Pirates of the Caribbean portrayed similarities to Newton's distinct deliveries.\n\n## Critical Reception and Historical Context\n\nReviews from critics were mostly positive, with Thomas M. Pryor of The New York Times calling the film \"a grand and glorious entertainment\" that \"captures the true spirit of the novel,\" while Variety praised the film for its \"sumptuous\" set pieces and \"a virtual tour de force\" performance by Newton.(no content)Filmed primarily in the United Kingdom, Treasure Island was the sixth most popular movie at the British box office in 1950, racking up a total gross of $4.1 million.\n\n## Academic and Scholarly Analysis\n\nScholarly analysis notes that this adaptation delivers a beautifully shot picture that provides rich visuals while presenting a solid representation of the story told from a young boy's point of view, capturing all the romance and adventure of the book and bringing what was previously only imagined in such rich detail to the motion picture screen.(no content)Despite multiple remakes over the years, this Disney adaptation appears to stand the test of time better than just about any adaptation since, remaining the closest thing to the Robert Louis Stevenson novel as seen on the silver screen and remaining well beloved today.\n\nThe search results provide substantial information about the film's production, cultural impact, and scholarly significance, though direct academic sources specifically focused on scholarly analysis appear limited in these particular results."
+    ],
+    "durationSeconds": 29.900753949000034
+  }
+}

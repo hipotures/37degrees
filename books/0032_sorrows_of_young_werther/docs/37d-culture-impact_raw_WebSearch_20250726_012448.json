@@ -1,0 +1,63 @@
+{
+  "session_id": "0262f963-d6f8-4237-8daf-cd971b19d54f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0262f963-d6f8-4237-8daf-cd971b19d54f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "journaling mental health gen z creative expression TikTok art therapy 2025"
+  },
+  "tool_response": {
+    "query": "journaling mental health gen z creative expression TikTok art therapy 2025",
+    "results": [
+      "I'll search for information about journaling, mental health, Gen Z creative expression, TikTok, and art therapy trends in 2025.",
+      {
+        "tool_use_id": "srvtoolu_01DMmvGPNstXj3CYhDQaKo3v",
+        "content": [
+          {
+            "title": "TikTok Therapy: How the Gen Z Trend Is Reshaping Mental Health | Psychology Today",
+            "url": "https://www.psychologytoday.com/us/blog/the-human-algorithm/202503/tiktok-therapy-how-gen-zs-trend-is-reshaping-mental-health"
+          },
+          {
+            "title": "Journaling: The viral TikTok trend that\u2019s transforming Gen Z\u2019s mental health",
+            "url": "https://www.nationalworld.com/read-this/journaling-the-viral-tiktok-trend-thats-transforming-gen-zs-mental-health-4974974"
+          },
+          {
+            "title": "Maybelline, Pinterest partner on mental health campaign to empower young people",
+            "url": "https://www.mmm-online.com/home/channel/campaigns/maybelline-pinterest-partner-on-mental-health-campaign-to-empower-young-people/"
+          },
+          {
+            "title": "Gen Z trends 2025: Y2K, self-care, and digital identity",
+            "url": "https://www.contentgrip.com/gen-z-trends-2025/"
+          },
+          {
+            "title": "Gen Z healthcare in 2025: Expectations & trends | Pragmatic Coders",
+            "url": "https://www.pragmaticcoders.com/blog/gen-z-healthcare-app"
+          },
+          {
+            "title": "Gen Z: Digital art therapy could be an answer to mental health struggles - Verdict",
+            "url": "https://www.verdict.co.uk/gen-z-digital-art-therapy-mental-health/"
+          },
+          {
+            "title": "Gen Z found its mental health language in therapy and on TikTok. Now they\u2019re bringing it to work | PR Week",
+            "url": "https://www.prweek.com/article/1916046/gen-z-found-its-mental-health-language-therapy-tiktok-theyre-bringing-work"
+          },
+          {
+            "title": "Journaling: Gen Z\u2019s latest form of self-expression and therapy - Lifestyle - The Jakarta Post",
+            "url": "https://www.thejakartapost.com/culture/2022/07/18/journaling-gen-zs-latest-form-of-self-expression-and-therapy.html"
+          },
+          {
+            "title": "Journal of Creativity in Mental Health | Taylor & Francis Online",
+            "url": "https://www.tandfonline.com/journals/wcmh20"
+          },
+          {
+            "title": "Art and Gen Z",
+            "url": "https://www.artwalkway.com/art-and-gen-z/"
+          }
+        ]
+      },
+      "Based on the search results, here's what I found about journaling, mental health, Gen Z creative expression, TikTok, and art therapy trends in 2025:\n\n## Key Trends and Findings\n\n### Journaling's Rise Among Gen Z\n\nIn recent years, there has been a significant increase in young people taking up journaling, as of 2025, TikTok has become a vibrant hub for aspiring writers, with over 1.6M posts under 'journaling' and 80k posts under 'journalinspiration'. This is partially thanks to the rise of trends such as 'junk journaling' and 'bullet journaling' which has taken the community by storm.\n\nAmong Gen Z, bullet journalling has been particularly popular as it combines creativity with organisation, helping track tasks and deadlines. The practice offers multiple benefits:\n\n- **Mental health benefits**: There are numerous mental health benefits to regular journaling, such as stress reduction, emotional growth and improved mood\n- **Physical health benefits**: There is also evidence that supports the claim journaling helps lower blood pressure, because of its stress-related benefits... Sleep consistency reportedly increases from 70% to 72% on nights when people report journaling\n- **Creative outlet**: Journaling has long been credited as being a creative outlet for people to experiment with their passions... This is a time when you can let your creative freedom run wild without any fear of backlash or criticism. Whether it be wanting to practice song writing, poetry or even drawing, your journal should be a place where you can let your mind run completely wild\n\n### Mental Health as Central Focus\n\nMental health isn't just a talking point\u2014it's central to how Gen Z sees themselves and the world around them. Gen Z is 80% more likely to report experiencing anxiety or depression than older generations (AECF), and they're ready to pay out-of-pocket for mental health memberships.\n\nThe study found that searches related to writing therapy (like journaling) had increased by 1,840%, while expressive art therapy activities rose by 120%. Pinterest found that Gen Z and millennials are increasingly searching for mental health channels outside of talk therapy, including journaling and art therapy.\n\n### Digital Art Therapy Apps\n\nThe Scribble Journey app provides users with drawing and journaling prompts to work through any mental health difficulties in their own time, while the LINA app presents users with art therapy exercises to work through past trauma, gain relief from anxiety, and develop more robust coping skills with exercises designed by certified art therapists. With Gen Z's continued mental health struggles and healthcare systems stretched thin globally, this technology will be an invaluable relief for many.\n\nMood tracking and journaling: Apps like Gratitude allow you to log emotions and thoughts, giving insights into their mental state over time. Meditation and mindfulness: Quick, guided sessions that fit into busy schedules in apps like Headspace or Calm help users find moments of calm throughout the day.\n\n### TikTok's Complex Role\n\nWhile TikTok has become a major platform for journaling and mental health content, there are concerns about misinformation. Over 83% of mental health advice on TikTok is misleading, according to recent studies. Gen Z is more likely to self-diagnose based on social media content than older generations. While some content is educational, much of it oversimplifies complex conditions, leading to misinformation and misdiagnosis. For example, videos describing symptoms of ADHD or OCD often lack nuance, reducing these conditions to catchy soundbites.\n\nHowever, Gen Z gravitates to formats that combine humor with vulnerability\u2014think therapy-style rants, mental health breakdowns, and behind-the-scenes storytelling.\n\n### Art as Therapeutic Expression\n\nIn a world where mental health issues are prevalent, art has become a therapeutic outlet for many Gen Zers. Journaling, doodling, and digital painting help them process emotions and reduce stress. Unlike previous generations, Gen Z values authenticity over perfection. Raw, emotional works often take precedence over polished pieces, emphasizing the need to connect with others on a human level. For many, art becomes a way to navigate questions of identity, mental health, and personal growth.\n\n### Looking Forward\n\nGen Z is building its own culture with tools like TikTok, gaming, and podcasting\u2014and rejecting parts of the old one. They want care, creativity, and community. If your brand can speak that language authentically, you won't just be relevant\u2014you'll be part of their story.\n\nThe convergence of journaling, mental health awareness, creative expression, and digital platforms represents a significant cultural shift in how Gen Z approaches wellness and self-care in 2025."
+    ],
+    "durationSeconds": 49.48541096100025
+  }
+}

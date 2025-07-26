@@ -1,0 +1,62 @@
+{
+  "session_id": "38d2c10d-061a-4607-b249-863b58008013",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/38d2c10d-061a-4607-b249-863b58008013.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Disney Pirates of the Caribbean theme park attraction Treasure Island influence Disneyland Walt Disney World"
+  },
+  "tool_response": {
+    "query": "Disney Pirates of the Caribbean theme park attraction Treasure Island influence Disneyland Walt Disney World",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01UsxfcQS8XgTVyMDQ3uDMXo",
+        "content": [
+          {
+            "title": "Pirates of the Caribbean | Rides & Attractions | Disneyland Park",
+            "url": "https://disneyland.disney.go.com/attractions/disneyland/pirates-of-the-caribbean/"
+          },
+          {
+            "title": "Pirates of the Caribbean (attraction) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean_(attraction)"
+          },
+          {
+            "title": "Pirates of the Caribbean Ride | Walt Disney World Resort",
+            "url": "https://disneyworld.disney.go.com/attractions/magic-kingdom/pirates-of-the-caribbean/"
+          },
+          {
+            "title": "Pirates of the Caribbean | Attractions | Shanghai Disney Resort",
+            "url": "https://www.shanghaidisneyresort.com/en/attractions/pirates-of-caribbean/"
+          },
+          {
+            "title": "A Pirate's Adventures: Treasures of the Seven Seas",
+            "url": "https://disneyworld.disney.go.com/attractions/magic-kingdom/pirates-adventures/"
+          },
+          {
+            "title": "Pirates of the Caribbean (attraction) | Disney Wiki | Fandom",
+            "url": "https://disney.fandom.com/wiki/Pirates_of_the_Caribbean_(attraction)"
+          },
+          {
+            "title": "Behind the Attraction: Pirates of the Caribbean - MickeyBlog.com",
+            "url": "https://mickeyblog.com/2023/11/10/behind-the-attraction-pirates-of-the-caribbean/"
+          },
+          {
+            "title": "Pirates of the Caribbean History: Disneyland to Big Screen",
+            "url": "https://disneyparksblog.com/disney-experiences/yo-ho-yo-ho-the-pirates-conquest-from-disneyland-to-the-big-screen/"
+          },
+          {
+            "title": "Pirates of the Caribbean | Pirates of the Caribbean Wiki | Fandom",
+            "url": "https://pirates.fandom.com/wiki/Pirates_of_the_Caribbean_(ride)"
+          },
+          {
+            "title": "PIRATES OF THE CARIBBEAN - Walt Disney Imagineering",
+            "url": "https://sites.disney.com/waltdisneyimagineering/pirates-of-the-caribbean/"
+          }
+        ]
+      },
+      "Based on the search results, I found comprehensive information about Disney's Pirates of the Caribbean theme park attraction and its connection to Treasure Island influence. Here's what the search revealed:\n\n## Pirates of the Caribbean Theme Park Attraction Overview\n\nThe original version of the ride opened at the Disneyland in Anaheim, California, near Los Angeles, in 1967, and was the last ride whose construction was envisioned and personally overseen by Walt Disney, who died three months before it opened.(no content)After immense popularity, the ride was replicated six years later at the Magic Kingdom of Walt Disney World, near Orlando, Florida in 1973.\n\n## Treasure Island Influence\n\nThe search results reveal a clear connection between Robert Louis Stevenson's \"Treasure Island\" and the Pirates of the Caribbean attraction:\n\nAs a boy, Disney fell in love with Robert Louis Stevenson's signature story, Treasure Island, which became the eventual impetus for a Pirates attraction.(no content)Disney also adored Emilio Salgari's Queen of the Caribbean, which would provide the setting for this ride.(no content)In between, Disney created a movie based on Treasure Island, one that co-starred Robert Newton as Long John Silver. Newton's portrayal of an engaging, likable scoundrel with a novel style of speech single-handedly established pop culture perceptions of pirates.\n\n## Evolution Across Disney Parks\n\nThe attraction has been replicated at multiple Disney parks:\n- Disneyland (1967) - original\n- Magic Kingdom at Walt Disney World (1973)\n- Tokyo Disneyland (1983)\n- Disneyland Paris (1992)\n- Shanghai Disneyland (2016) - featuring \"Pirates of the Caribbean: Battle for the Sunken Treasure\"\n\n## From Attraction to Film\n\nThe ride became the basis for the Pirates of the Caribbean film series, which debuted in 2003. Notably, since 2006, Disney has incorporated characters (most notably Jack Sparrow and Hector Barbossa) from the film series into the Disneyland, Magic Kingdom, Tokyo Disneyland, and Disneyland Paris versions of the ride.\n\nThe attraction represents a fascinating circle of influence - from Stevenson's literary work \"Treasure Island\" inspiring Walt Disney, to Disney's creation of the theme park attraction, which then inspired a successful film franchise that has been integrated back into the original attractions."
+    ],
+    "durationSeconds": 19.17828634699993
+  }
+}

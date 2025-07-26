@@ -1,0 +1,62 @@
+{
+  "session_id": "95239c3a-5fbf-4fbf-93f7-3afd6ea78885",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/95239c3a-5fbf-4fbf-93f7-3afd6ea78885.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "teaching healthy relationships young adults trigger warnings emotional abuse manipulation red flags education"
+  },
+  "tool_response": {
+    "query": "teaching healthy relationships young adults trigger warnings emotional abuse manipulation red flags education",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01TYbyFiUMyhaDAtEVZTG81w",
+        "content": [
+          {
+            "title": "What is emotional abuse? | The National Domestic Violence Hotline",
+            "url": "https://www.thehotline.org/resources/what-is-emotional-abuse/"
+          },
+          {
+            "title": "Domestic Violence Support | National Domestic Violence Hotline",
+            "url": "https://www.thehotline.org/"
+          },
+          {
+            "title": "Emotional and Psychological Abuse | WomensLaw.org",
+            "url": "https://www.womenslaw.org/about-abuse/forms-abuse/emotional-and-psychological-abuse"
+          },
+          {
+            "title": "Teaching Teens Healthy Relationships & Preventing Abuse",
+            "url": "https://click2pro.com/blog/teaching-teens-healthy-relationships"
+          },
+          {
+            "title": "I'm not sure if my relationship is healthy - Women\u2019s Aid",
+            "url": "https://www.womensaid.org.uk/information-support/the-survivors-handbook/im-not-sure-if-my-relationship-is-healthy/"
+          },
+          {
+            "title": "Emotional Abuse: What It Is and Signs to Watch For",
+            "url": "https://www.healthline.com/health/signs-of-mental-abuse"
+          },
+          {
+            "title": "21 Signs of Emotional Abuse in Relationships",
+            "url": "https://psychcentral.com/lib/emotional-abuse-signs"
+          },
+          {
+            "title": "Red Flags of Abuse - NNEDV",
+            "url": "https://nnedv.org/content/red-flags-of-abuse/"
+          },
+          {
+            "title": "Signs of Emotional Abuse | Canadian Women\u2019s Foundation",
+            "url": "https://canadianwomen.org/blog/signs-of-emotional-abuse/"
+          },
+          {
+            "title": "Emotional Abuse | Psychology Today",
+            "url": "https://www.psychologytoday.com/us/basics/emotional-abuse"
+          }
+        ]
+      },
+      "I've found comprehensive information about teaching healthy relationships to young adults, including content about emotional abuse, manipulation, red flags, and educational approaches. Here's what I found:\n\n## Educational Resources for Teaching Healthy Relationships\n\n**National Resources:**\n- National Teen Dating Abuse Helpline 866.311.9474 | For young people experiencing abuse or curious about healthy relationships\n- Love Is Respect: This nonprofit organization offers teens and young adults a chance to chat online, call, or text with advocates\n\n## Key Educational Components\n\n**Red Flags to Teach:**\n- Emotional abuse includes non-physical behaviors that are meant to control, isolate, or frighten you. This may present in romantic relationships as threats, insults, constant monitoring, excessive jealousy, manipulation, humiliation, intimidation, and dismissiveness, among others\n- Your partner overloads you with compliments and gifts, and then uses that to manipulate you later (love bombing)\n- Gaslighting is a form of emotional and psychological abuse that tends to happen gradually in a relationship. The term \"gaslighting\" is used to describe a pattern of behavior in which the abuser intentionally denies that acts or events happened in the way that you know that they happened\n\n**Educational Approaches for Schools and Communities:**\n- Implement Relationship Education Programs: Include discussions on emotional intelligence, boundaries, and consent\n- Create Support Groups: Establish school-based support groups for teens experiencing relationship distress\n- Implement relationship education as part of the curriculum. Schools and communities must take an active role in educating teens on domestic violence, family violence, and healthy dating behaviors\n\n## Importance of Early Education\n\n**Long-term Impact:**\n- Many adults experiencing domestic abuse report that their first experiences with intimate partner violence began in adolescence. If teens are not educated about red flags, they may continue toxic relationship cycles into adulthood\n- Survivors of teenage emotional abuse are 5 times more likely to stay in manipulative marriages. Solution: Early education, awareness, and intervention can help break the cycle of domestic violence and emotional manipulation\n\n**Effects of Emotional Abuse:**\n- While these emotionally abusive behaviors do not leave physical marks, they do hurt, disempower, and traumatize the partner who is experiencing the abuse. Over time, emotional abuse can wear down a person's self-worth, confidence, and their mental and emotional strength\n- This type of abuse can affect both your physical and your mental health. You may experience feelings of confusion, anxiety, shame, guilt, frequent crying, over-compliance, powerlessness, and more\n\n## Trigger Warnings and Sensitive Content\n\nThe search results emphasize the importance of creating safe educational environments when discussing these topics, as Psychological abuse is a common type of abuse among teens who experience abusive behaviors in romantic relationships. Research from 2017 suggests that teens who believe dating violence is acceptable are more likely to exhibit abusive behaviors, like psychological abuse, and face challenges with their mental health\n\nThese resources provide comprehensive frameworks for educators working with young adults on relationship education while being mindful of the sensitive nature of the content."
+    ],
+    "durationSeconds": 29.212325410000048
+  }
+}

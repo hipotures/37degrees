@@ -1,0 +1,62 @@
+{
+  "session_id": "256f845f-ddd5-4027-a9c2-755ec8659a89",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/256f845f-ddd5-4027-a9c2-755ec8659a89.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Robinson Crusoe\" Friday master servant relationship colonial symbolism postcolonial analysis"
+  },
+  "tool_response": {
+    "query": "\"Robinson Crusoe\" Friday master servant relationship colonial symbolism postcolonial analysis",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01RsafCekevPh2JMBXm6yaDY",
+        "content": [
+          {
+            "title": "Crusoe\u2019s Colonialism: The Subtext of Slave/Master Interactions | British Literature 1700-1900, A Course Blog",
+            "url": "https://britlitsurvey2.wordpress.com/2014/09/29/crusoes-colonialism/"
+          },
+          {
+            "title": "Colonial Representation in Robinson Crusoe, Heart of ...",
+            "url": "https://core.ac.uk/download/pdf/61803058.pdf"
+          },
+          {
+            "title": "COLONIALISM, THE NOVEL, AND ROBINSON CRUSOE.",
+            "url": "http://englishprogramme.pbworks.com/f/9514612%20Expanding%20Empire%20Robinson%20Crusoe.pdf"
+          },
+          {
+            "title": "Robinson Crusoe Themes: Colonialism - eNotes.com",
+            "url": "https://www.enotes.com/topics/robinson-crusoe/themes/colonialism"
+          },
+          {
+            "title": "Reading Contrapuntally: Robinson Crusoe, Slavery, and Postcolonial Theory | The Postcolonial Enlightenment: Eighteenth-Century Colonialism and ...",
+            "url": "https://academic.oup.com/book/6838/chapter/151023194"
+          },
+          {
+            "title": "Robinson Crusoe - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Robinson_Crusoe"
+          },
+          {
+            "title": "Post-colonial technique in Robinson Crusoe. | by Divine | Medium",
+            "url": "https://medium.com/@prosesociety/post-colonial-technique-in-robinson-crusoe-0b9be2745dae"
+          },
+          {
+            "title": "Postcolonial Analysis On Novel Robinson Crusoe | PDF | Robinson Crusoe | Colonialism",
+            "url": "https://www.scribd.com/document/430546480/Robinson-crusoe-relationship-with-colona-docx"
+          },
+          {
+            "title": "Colonialism in Robinson Crusoer | PDF | Robinson Crusoe | Colonialism",
+            "url": "https://www.scribd.com/document/383036798/Colonialism-in-Robinson-Crusoer"
+          },
+          {
+            "title": "The Colonial Undertones in Robinson Crusoe: A Postcolonial Perspective | by Saachi Kaur | Medium",
+            "url": "https://medium.com/@saachikaur3112/the-colonial-undertones-in-robinson-crusoe-a-postcolonial-perspective-8307be5399fd"
+          }
+        ]
+      },
+      "Based on the search results, I found comprehensive information about postcolonial analyses of the Crusoe-Friday relationship in Robinson Crusoe. Here's what the scholarly sources reveal:\n\n## Colonial Symbolism in the Crusoe-Friday Relationship\n\nRobinson Crusoe's relationship with his servant Friday serves as an allegory for British imperialists disrupting other cultures and civilizing them.(no content)The relationship between Crusoe and Friday exemplifies imperialist ideology through Crusoe's treatment of Friday as a possession rather than an equal.\n\n### Power Dynamics and Domination\n\nFriday \"laid his Head upon the Ground, and taking me by the foot, set my Foot upon his head,\" which serves as a fitting illustration where the white man keeps the minority group down, quite literally, with Robinson, the colonizer, clearly in charge.(no content)When he encounters Friday, he immediately assumes that their relations will be those of master and servant.\n\n### Cultural Erasure and Naming\n\nIt is hugely important that Robinson Crusoe chooses to name his servant \"Friday,\" ostensibly for \"the Day I sav'd his Life,\" choosing a name from Western culture that reflects Robinson's eagerness to rub English habits and norms off on his servant.(no content)In a sense, Robinson has created a new identity for the servant, with Friday living life answering to a name that has roots in English-speaking culture.(no content)Crusoe named the escaped cannibal Friday, and this naming is significant too since he is assuming the authority to give a person a name.\n\n### Cultural Assimilation and Civilizing Mission\n\nThe idealized master-servant relationship Defoe depicts between Crusoe and Friday can be seen in terms of cultural assimilation, with Crusoe representing the \"enlightened\" European while Friday is the \"savage\" who can only be redeemed from his cultural manners through assimilation into Crusoe's culture.(no content)Robinson's fixed mindset regarding the customs of others is a classic example of colonial ethnocentrism, as rather than gradually weaning Friday of his lifelong habits, Robinson is extremely quick to change his servant's cultural values.(no content)Crusoe rescues Friday from cannibals but then imposes his language, religion, culture, and identity on Friday, with Friday coming to represent the colonized peoples as he accepts his role as Crusoe's obedient slave.\n\n### Language and Control\n\nCrusoe taught Friday language: \"I likewise taught him to say Yes and No, and to know the meaning of them,\" and by teaching Friday language, Crusoe asserts his dominance and control, reinforcing the power dynamics inherent in colonial encounters.\n\n### Postcolonial Critical Perspective\n\nPostcolonialism, as a critical theory, seeks to examine the effects of colonialism on both the colonizers and the colonized, and how power dynamics are portrayed in literary texts, with Robinson Crusoe showcasing several postcolonial techniques, including the portrayal of the \"Other,\" the exploration of cultural hybridity, and the examination of power dynamics.\n\nThe search results demonstrate that postcolonial scholars consistently interpret the Crusoe-Friday relationship as a fundamental allegory for European colonialism, examining themes of cultural dominance, racial hierarchy, and the colonial \"civilizing mission\" that characterized 18th-century imperial expansion."
+    ],
+    "durationSeconds": 25.70920174700022
+  }
+}

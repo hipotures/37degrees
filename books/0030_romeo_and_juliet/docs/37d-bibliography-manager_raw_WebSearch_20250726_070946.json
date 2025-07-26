@@ -1,0 +1,63 @@
+{
+  "session_id": "dfef5421-3cfd-4f13-a992-935c866ee7a0",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/dfef5421-3cfd-4f13-a992-935c866ee7a0.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Montagues Montecchi Capulets Capuleti real feuding families Verona 13th century Dante Divine Comedy Purgatorio"
+  },
+  "tool_response": {
+    "query": "Montagues Montecchi Capulets Capuleti real feuding families Verona 13th century Dante Divine Comedy Purgatorio",
+    "results": [
+      "I'll search for information about the real feuding families that inspired Shakespeare's Romeo and Juliet, focusing on their historical context in 13th century Verona and their mention in Dante's work.",
+      {
+        "tool_use_id": "srvtoolu_013cWzqbiLxSLzxi8JpcKXC7",
+        "content": [
+          {
+            "title": "Dante and Shakespeare: A Tale of Montagues and Capulets | Secrets of Inferno",
+            "url": "https://secretsofinferno.wordpress.com/2013/11/17/dante-and-shakespeare-a-tale-of-montagues-and-capulets/"
+          },
+          {
+            "title": "Montecchi and Capelliti by Brooks Royal on Prezi",
+            "url": "https://prezi.com/08sgopbath1m/montecchi-and-capelliti/"
+          },
+          {
+            "title": "David Blixt: The real Capulets & Montagues",
+            "url": "https://themasterofverona.typepad.com/the_master_of_verona/2007/09/the-real-capule.html"
+          },
+          {
+            "title": "Are the Montague and Capulet families real? - Quora",
+            "url": "https://www.quora.com/Are-the-Montague-and-Capulet-families-real"
+          },
+          {
+            "title": "The True Story of Romeo and Juliet (Shakespeare was a copycat)",
+            "url": "http://www.veronacityguide.altervista.org/inghilterra/verona-romeo-juliet-guided-tour.html"
+          },
+          {
+            "title": "Montagues And Capulets: What's The Story? \u2694\ufe0f",
+            "url": "https://nosweatshakespeare.com/montagues-and-capulets/"
+          },
+          {
+            "title": "Alighieri, Dante (1265\u20131321) - The Divine Comedy: Index IJLM",
+            "url": "https://www.poetryintranslation.com/PITBR/Italian/DantindexIJLM.php"
+          },
+          {
+            "title": "william shakespeare - What caused the feud between the Capulets and the Montagues? - Literature Stack Exchange",
+            "url": "https://literature.stackexchange.com/questions/8972/what-caused-the-feud-between-the-capulets-and-the-montagues"
+          },
+          {
+            "title": "A love story for the ages - Seymour Centre",
+            "url": "https://www.seymourcentre.com/blog/a-love-story-for-the-ages/"
+          },
+          {
+            "title": "I Capuleti e i Montecchi - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/I_Capuleti_e_i_Montecchi"
+          }
+        ]
+      },
+      "Based on my search results, I can provide you with detailed information about the real feuding families that inspired Shakespeare's Romeo and Juliet:\n\n## The Historical Montecchi and Cappelletti\n\nThe Montagues and Capulets were indeed real families - known in Italian as \"Montecchi\" and \"Cappelletti\" (or \"Capuleti\"). The two families actually lived in Verona between the end of the 13th and the beginning of the 14th century.\n\n## Dante's Reference in the Divine Comedy\n\nDante Alighieri was the first to mention in book form the feuding families of Verona that would later become known through Shakespeare's Romeo and Juliet as the Montagues and the Capulets, referring to them by their Italian names\u2013\u2013the Montecchi and the Cappelletti. These names appear in a passage in the Purgatorio section of Divine Comedy.\n\nThe specific reference appears in Dante's Purgatorio VI, lines 106-108: \"Vieni a veder Montecchi e Cappelletti, // Monaldi e Filippeschi, uom sanza cura: // color gi\u00e0 tristi, e questi con sospetti!\"(no content)In this passage, Dante laments the collapse of civil order in the Italian lands of the former Roman Empire, citing warring factions and dysfunctional families as indicators of the moral and spiritual malaise in which Italy finds itself in the thirteenth and fourteenth centuries.\n\n## Political Context and Geographic Scope\n\nSome scholars believe that the Montecchi and the Cappelletti were not just feuding families, but were also caught up in the Ghibelline versus Guelph factionalism that soaked northern Italian city-states in blood and conflict during Dante's lifetime.\n\nThey actually clashed more in the area of Cremona than Verona, but were so famous for their squabbles that their names became synonyms for \"feuding families\". Montecchi and Cappelletti were, respectively, from Verona and Cremona. They were two families around which had gathered the two factions \u2013 imperial and anti-imperial \u2013 that had upheaved, until the mid-13th century, the whole of Lombardy.\n\n## Literary Evolution\n\nTwo wealthy Italian clans, the Montagues and the Capulets fought one another for power and political supremacy in 13th century Verona, and made such a cultural impression that they were also included in Dante's 14th century masterpiece, the Divine Comedy, where they're referred to by their Italian names of Montecchi and Cappelletti.\n\nThe historical reality was quite different from Shakespeare's romantic tragedy - these were political conflicts rather than family feuds over personal matters, and the families' influence extended well beyond Verona to encompass broader regional power struggles in medieval Italy."
+    ],
+    "durationSeconds": 22.194179808001966
+  }
+}

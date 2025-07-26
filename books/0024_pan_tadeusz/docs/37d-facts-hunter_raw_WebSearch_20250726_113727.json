@@ -1,0 +1,62 @@
+{
+  "session_id": "8e510ca3-dab1-4e58-b10a-336d368b79a7",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e510ca3-dab1-4e58-b10a-336d368b79a7.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Pan Tadeusz Polish academic sources university dissertations peer-reviewed articles"
+  },
+  "tool_response": {
+    "query": "Pan Tadeusz Polish academic sources university dissertations peer-reviewed articles",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01R5JJXjSktuxZ77ULjfnpBk",
+        "content": [
+          {
+            "title": "Pan Tadeusz - University of Toronto Press",
+            "url": "https://utppublishing.com/doi/book/10.3138/9781487580018"
+          },
+          {
+            "title": "Is a Dissertation Peer Reviewed? - My Dissertation Editor",
+            "url": "https://mydissertationeditor.com/is-a-dissertation-peer-reviewed/"
+          },
+          {
+            "title": "Pan Tadeusz: a theatrical reading with music | Faculty of Modern and Medieval Languages and Linguistics",
+            "url": "https://www.mmll.cam.ac.uk/polish/pan-tadeusz"
+          },
+          {
+            "title": "Dissertations - Evaluating Resources - Academic Guides at Walden University",
+            "url": "https://academicguides.waldenu.edu/library/evaluating/resource-types/dissertations"
+          },
+          {
+            "title": "Peer-Reviewed or Academic Sources - Evaluating & Finding All Types of Sources - LibGuides at Regent University",
+            "url": "https://libguides.regent.edu/c.php?g=883151&p=10433208"
+          },
+          {
+            "title": "Limit to Peer-Reviewed Articles - Verify Peer Review - Academic Guides at Walden University",
+            "url": "https://academicguides.waldenu.edu/library/verifypeerreview"
+          },
+          {
+            "title": "What is Peer Review? - Peer Reviewed Literature - Research Guides at Regis College",
+            "url": "https://libguides.regiscollege.edu/peer_review"
+          },
+          {
+            "title": "Are dissertations and theses considered scholarly or peer-reviewed resources? - Ask Us!",
+            "url": "https://ncu.libanswers.com/faq/168507"
+          },
+          {
+            "title": "Full text of \"Pan Tadeusz : or, The last foray in Lithuania, a story of life among Polish gentlefolk in the years 1811 and 1812, in twelve books\"",
+            "url": "https://archive.org/stream/pantadeuszorlast00mickuoft/pantadeuszorlast00mickuoft_djvu.txt"
+          },
+          {
+            "title": "Can I use a dissertation as a scholarly source for my research? - SNHU Library Frequently Asked Questions",
+            "url": "https://libanswers.snhu.edu/faq/295864"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with information about Pan Tadeusz and academic sources:\n\n## Pan Tadeusz Academic Information\n\nPan Tadeusz or The Last Foray in Lithuania is the greatest epic poem of Poland's greatest poet, Adam Mickiewicz (1798-1855).(no content)It was written in exile and published in Paris in 1833, during the author's long absence from his native country because of his patriotic sympathies.\n\nThe work has significant academic interest, as evidenced by university publications and scholarly engagement. The work has been presented as \"a land-mark in Polish literature\" and continues to be studied at universities like Cambridge, where dramatic theatrical readings are performed with live musical interludes, presented in the original Polish with English translation.\n\n## Important Distinction: Dissertations vs. Peer-Reviewed Articles\n\nThe search results clarify an important academic distinction regarding your query about dissertations and peer-reviewed articles:\n\n**Dissertations:**\n- While dissertations are definitely scholarly and are reviewed and edited before publication, they do not go through a peer-review process, and thus, aren't considered peer-reviewed sources.\n- Dissertations and theses have value as research material and are an important form of scholarly communication. They may reveal emerging trends and voices in a field of study, and because of their length, they frequently offer more substantial coverage of a topic than a traditional journal article can.\n\n**For Academic Research:**\n- If your assignment requires you to use articles from peer-reviewed journals, then a dissertation is not a good fit as one of your sources.\n- If your assignment calls for scholarly sources, a dissertation may be a great contribution to your resources.\n\nThe search results show that Pan Tadeusz is available through academic publishers like the University of Toronto Press and is studied at major universities, but to find specific peer-reviewed articles about Pan Tadeusz, you would need to search academic databases that specialize in peer-reviewed journal articles rather than dissertations."
+    ],
+    "durationSeconds": 15.905284442999982
+  }
+}

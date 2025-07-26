@@ -1,0 +1,62 @@
+{
+  "session_id": "256f845f-ddd5-4027-a9c2-755ec8659a89",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/256f845f-ddd5-4027-a9c2-755ec8659a89.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Robinsonade genre literary tradition desert island survival fiction Robinson Crusoe influence"
+  },
+  "tool_response": {
+    "query": "Robinsonade genre literary tradition desert island survival fiction Robinson Crusoe influence",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01WRis9AJ6Tnm7v3ccRqjiTB",
+        "content": [
+          {
+            "title": "Robinsonade - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Robinsonade"
+          },
+          {
+            "title": "Robinson Crusoe - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Robinson_Crusoe"
+          },
+          {
+            "title": "Robinson Crusoe: The Novel and Other Desert Island Stories | Robinson Crusoe: Adventures on the Cursed Island",
+            "url": "https://boardgamegeek.com/thread/3266856/robinson-crusoe-the-novel-and-other-desert-island"
+          },
+          {
+            "title": "Robinson Crusoe | Summary, Author, Characters, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/Robinson-Crusoe-novel"
+          },
+          {
+            "title": "Desert island risks: Robinson Crusoe at 300 \u2013 The Irish Times",
+            "url": "https://www.irishtimes.com/culture/books/desert-island-risks-robinson-crusoe-at-300-1.3850833"
+          },
+          {
+            "title": "SRU professors reflect on 300th anniversary of \u2018Robinson Crusoe\u2019 | Slippery Rock University",
+            "url": "https://www.sru.edu/news/042519b"
+          },
+          {
+            "title": "Robinsonade | Adventure, Survival & Exploration | Britannica",
+            "url": "https://www.britannica.com/art/robinsonade"
+          },
+          {
+            "title": "Theorising Literary Islands: The Island Trope in Contemporary Robinsonade Narratives (Rethinking the Island): Kinane Associate Lecturer in the School of English Trinity College Dublin, Ian: 9781783488063: Amazon.com: Books",
+            "url": "https://www.amazon.com/Theorising-Literary-Islands-Contemporary-Robinsonade/dp/1783488069"
+          },
+          {
+            "title": "Robinsonade - All The Tropes",
+            "url": "https://allthetropes.org/wiki/Robinsonade"
+          },
+          {
+            "title": "Robinsonade - TV Tropes",
+            "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/Robinsonade"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about the Robinsonade genre and its literary tradition:\n\n## The Robinsonade Genre\n\nRobinsonade is a literary genre of fiction wherein the protagonist is suddenly separated from civilization, usually by being shipwrecked or marooned on a secluded and uninhabited island, and must improvise the means of their survival from the limited resources at hand.(no content)The genre takes its name from the 1719 novel Robinson Crusoe by Daniel Defoe.\n\n## Origin and Etymology\n\nThe word \"robinsonade\" was coined by the German writer Johann Gottfried Schnabel in the Preface of his 1731 work Die Insel Felsenburg (The Island Stronghold).(no content)The success of this novel spawned so many imitations that its name was used to define a genre, which is sometimes described simply as a \"desert island story\" or a \"castaway narrative\".\n\n## Literary Significance and Influence\n\nRobinson Crusoe marked the beginning of realistic fiction as a literary genre.(no content)Before the end of 1719, the book had already run through four editions, and it has gone on to become one of the most widely published books in history, spawning so many imitations, not only in literature but also in film, television, and radio, that its name is used to define a genre, the Robinsonade.(no content)By the end of the nineteenth century, no book in the history of Western literature had more editions, spin-offs, and translations (even into languages such as Inuktitut, Coptic, and Maltese) than Robinson Crusoe, with more than 700 such alternative versions, including children's versions with pictures and no text.\n\n## Historical Development\n\nIts success led to many imitators; and castaway novels, written by Ambrose Evans, Penelope Aubin, and others, became quite popular in Europe in the 18th and early 19th centuries.(no content)The genre was the most widely read of the 1800s, and, in England alone, Robinsonade narratives were produced at the rate of about two per year for most of the long eighteenth century.\n\n## Notable Examples\n\nSome of the most famous Robinsonades include:\n\n- The Swiss Family Robinson (1812\u201327) by Johann David Wyss, in which a shipwrecked clergyman, his wife, and his four sons manage not only to survive on their island but also to discover the good life.\n- Jules Verne strands his castaways in Mysterious Island (1874) with only one match, one grain of wheat, a metal dog collar, and two watches.\n\n## Modern Evolution\n\nIn the 20th century the flowering of science fiction produced a new type of robinronade in which castaways struggle to survive in outer space or on distant planets. Modern examples include films like \"Cast Away\" and \"The Martian,\" as well as novels like Margaret Atwood's \"Oryx and Crake.\"\n\n## Literary Characteristics\n\nIt is often viewed as a subgenre of survivalist fiction.(no content)Those island narratives produced in Defoe's wake draw both implicit and explicit attention to the intertextual nature of the Robinsonade genre as a whole, as each Robinsonade is always-already invested in the myth of its \u00fcrtextual forbears \u2014 the original Robinson, and the imaginary island as constructed in Defoe's text. Each Robinsonade must necessarily situate itself within a cultural tradition that will always compare and contrast it with its textual predecessors.\n\nThe Robinsonade remains a significant literary tradition that continues to influence contemporary fiction, demonstrating the enduring appeal of stories about human survival, ingenuity, and the relationship between civilization and nature."
+    ],
+    "durationSeconds": 32.3639531159997
+  }
+}

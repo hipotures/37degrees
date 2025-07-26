@@ -1,0 +1,62 @@
+{
+  "session_id": "256f845f-ddd5-4027-a9c2-755ec8659a89",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/256f845f-ddd5-4027-a9c2-755ec8659a89.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Alexander Selkirk Robinson Crusoe inspiration myth debunked modern scholars Auburn University Paula Backscheider"
+  },
+  "tool_response": {
+    "query": "Alexander Selkirk Robinson Crusoe inspiration myth debunked modern scholars Auburn University Paula Backscheider",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_012EMvd7BsTbTpEpeQSKknwk",
+        "content": [
+          {
+            "title": "Debunking the Myth of the \u2018Real\u2019 Robinson Crusoe | National Geographic",
+            "url": "https://www.nationalgeographic.com/culture/article/robinson-crusoe-alexander-selkirk-history"
+          },
+          {
+            "title": "Alexander Selkirk - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Alexander_Selkirk"
+          },
+          {
+            "title": "Debunking the Myth of the \u2018Real\u2019 Robinson Crusoe - Neatorama",
+            "url": "https://www.neatorama.com/2016/09/29/Debunking-the-Myth-of-the-Real-Robinson-Crusoe/"
+          },
+          {
+            "title": "The Real Robinson Crusoe",
+            "url": "https://www.smithsonianmag.com/history/the-real-robinson-crusoe-74877644/"
+          },
+          {
+            "title": "The Real Robinson Crusoe: The True Story of Alexander Selkirk",
+            "url": "https://www.desertislandsurvival.com/real-robinson-crusoe/"
+          },
+          {
+            "title": "The Life and Adventures of Alexander Selkirk, the Real Robinson Crusoe: A Narrative Founded on Facts: 1788-1863, Howell John: 9781019369470: Amazon.com: Books",
+            "url": "https://www.amazon.com/Adventures-Alexander-Selkirk-Robinson-Crusoe/dp/1019369477"
+          },
+          {
+            "title": "The Solitude of Alexander Selkirk \u2013 The Story of the Real Robinson Crusoe \u2013 Read & Co. Books",
+            "url": "https://www.readandcobooks.co.uk/blog/alexander-selkirk-real-robinson-crusoe/"
+          },
+          {
+            "title": "National Geographic | National Geographic",
+            "url": "http://news.nationalgeographic.com/2016/09/robinson-crusoe-alexander-selkirk-history/"
+          },
+          {
+            "title": "The Real-Life Robinson Crusoe (Maybe) - JSTOR Daily",
+            "url": "https://daily.jstor.org/the-real-life-robinson-crusoe-maybe/"
+          },
+          {
+            "title": "Rescue of Alexander Selkirk, the Real-Life Robinson Crusoe | EBSCO Research Starters",
+            "url": "https://www.ebsco.com/research-starters/history/rescue-alexander-selkirk-real-life-robinson-crusoe"
+          }
+        ]
+      },
+      "Based on my search, I found several relevant results that directly address the query about Alexander Selkirk, Robinson Crusoe, and the debunking of the inspiration myth by modern scholars, particularly Paula Backscheider from Auburn University.\n\n## The Debunked Myth of Alexander Selkirk as Robinson Crusoe's Primary Inspiration\n\nModern literary scholars have challenged the long-held belief that Alexander Selkirk was the primary inspiration for Daniel Defoe's Robinson Crusoe. Paula Backscheider, an English scholar at Auburn University and author of Daniel Defoe: His Life, states that \"Selkirk is definitely not accepted as the major source, or even one of the top five\" sources for the novel.\n\nBackscheider emphasizes that \"Robinson Crusoe is a long book and it is incorrect in dozens of ways to give Selkirk as the major source\" of inspiration. She notes that Defoe scholars are tired of the assumption that Selkirk's story was the inspiration for Crusoe, rather than just one of many survival narratives that Defoe knew about. When people bring up this connection to scholars, \"we just giggle,\" she says.\n\n## Multiple Sources of Inspiration\n\nMost literary scholars now accept that Selkirk was \"just one of many survival narratives that Defoe knew about\". Real-life buccaneer survival narratives were a major literary genre when Daniel Defoe published his hit novel Robinson Crusoe in 1719, and Defoe was influenced by these narratives.\n\nMany of these other survival stories featured people shipwrecked or marooned on islands, with some featuring people who interacted with tribes, or used their time to trade or make things\u2014all qualities that are more similar to Crusoe's story than Selkirk's. For example, Robert Knox, after his shipwreck on Ceylon (now Sri Lanka), was held captive for 20 years, which is closer to the amount of time that Crusoe spent on an island.\n\n## Key Differences Between Selkirk and Crusoe\n\nThe scholars point out several significant differences between Selkirk's real experience and Crusoe's fictional story:\n\n- In Robinson Crusoe, the hero is the sole survivor of a shipwreck and lands on an island by accident\u2014but Selkirk chose to be left on an island\n- Unlike Crusoe, Selkirk was a pirate\n- Crusoe's island is located in the Caribbean rather than the South Pacific where Selkirk was marooned(no content)As researcher Tim Severin explains, \"Robinson Crusoe is much more interesting and diverse than Alexander Selkirk, and more complex\u2026Defoe assembled his hero from a jumble of half-remembered tales of adventure, maroonings, and shipwrecks. Crusoe, like his island, is a composite\u2014not a mere clone of Alexander Selkirk\".\n\nThis scholarly consensus represents a significant shift from the popular belief that has persisted for centuries about Selkirk being the \"real Robinson Crusoe.\""
+    ],
+    "durationSeconds": 23.205544606000185
+  }
+}

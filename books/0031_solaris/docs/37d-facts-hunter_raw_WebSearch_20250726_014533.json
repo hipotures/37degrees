@@ -1,0 +1,63 @@
+{
+  "session_id": "25c2a401-88de-4e28-8dba-e70b720fd603",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/25c2a401-88de-4e28-8dba-e70b720fd603.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Stanis\u0142aw Lem pozycja w polskiej fantastyce naukowej kanon literatura sci-fi Polska"
+  },
+  "tool_response": {
+    "query": "Stanis\u0142aw Lem pozycja w polskiej fantastyce naukowej kanon literatura sci-fi Polska",
+    "results": [
+      "I'll perform a web search for that query about Stanis\u0142aw Lem's position in Polish science fiction and the literary canon.",
+      {
+        "tool_use_id": "srvtoolu_012ky8G3mKiBUN33KpRSEiCT",
+        "content": [
+          {
+            "title": "Nie tylko Lem, czyli co w polskiej SF piszczy - Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/nie-tylko-lem-czyli-co-w-polskiej-sf-piszczy"
+          },
+          {
+            "title": "Stanis\u0142aw Lem - Problemy etyczne w literaturze fantastyczno-naukowej Stanis\u0142awa Lema",
+            "url": "https://solaris.lem.pl/128-root/584-problemy-etyczne-w-literaturze-fantastyczno-naukowej-stanislawa-lema"
+          },
+          {
+            "title": "Nie tylko Lem, czyli co w polskiej SF piszczy | Aktualno\u015bci | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/aktualnosci/16075/nie-tylko-lem-czyli-co-w-polskiej-sf-piszczy"
+          },
+          {
+            "title": "Stanis\u0142aw Lem - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Stanis%C5%82aw_Lem"
+          },
+          {
+            "title": "Stanis\u0142aw Lem, wielki nauczyciel science fiction | Nauka w Polsce",
+            "url": "https://naukawpolsce.pl/aktualnosci/news,23031,stanislaw-lem-wielki-nauczyciel-science-fiction.html"
+          },
+          {
+            "title": "Stanis\u0142aw Lem - Szanse science-fiction",
+            "url": "https://solaris.lem.pl/o-lemie/teksty-o-lemie/artykuly/355-szanse-science-fiction"
+          },
+          {
+            "title": "Stanis\u0142aw Lem - Igraszki i powinno\u015bci fantastyki naukowej",
+            "url": "https://solaris.lem.pl/ksiazki/eseje/fantastyka-i-futurologia/165-poslowie-fantastyka-i-futurologia"
+          },
+          {
+            "title": "Najlepsze polskie ksi\u0105\u017cki science fiction \u2013 odkryj fascynuj\u0105ce tytu\u0142y",
+            "url": "https://taniaksiazka.pl/blog/najlepsze-polskie-ksiazki-science-fiction-odkryj-fascynujace-tytuly"
+          },
+          {
+            "title": "Stanis\u0142aw Lem - Fantastyka i futurologia",
+            "url": "https://solaris.lem.pl/ksiazki/eseje/fantastyka-i-futurologia"
+          },
+          {
+            "title": "Stanis\u0142aw Lem \u2013 pisarz praktycznie bez bestsellera | dzieje.pl - Historia Polski",
+            "url": "https://dzieje.pl/kultura-i-sztuka/stanislaw-lem-pisarz-praktycznie-bez-bestsellera"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about Stanis\u0142aw Lem's position in Polish science fiction and the literary canon:\n\n## Pozycja Stanis\u0142awa Lema w polskiej fantastyce naukowej\n\nNader cz\u0119sto polska fantastyka naukowa redukowana jest do jednego nazwiska.(no content)Stanis\u0142aw Lem wielkim pisarzem by\u0142 \u2013 wiemy. Ta dominuj\u0105ca pozycja w polskim science fiction jest wielokrotnie podkre\u015blana w \u017ar\u00f3d\u0142ach.\n\n### Miejsce w kanonie literatury \u015bwiatowej\n\nO tym, jak wielk\u0105 postaci\u0105 by\u0142 Stanis\u0142aw Lem \u015bwiadczy ju\u017c cho\u0107by fakt, \u017ce jego \u015bmier\u0107 zako\u0144czy\u0142a pewn\u0105 epok\u0119 w dziejach polskiej, a nawet \u015bwiatowej fantastyki.(no content)Lem's books have been translated into more than 50 languages and have sold more than 45 million copies.(no content)In 1976, Theodore Sturgeon wrote that Lem was the most widely read science fiction writer in the world.\n\n### Kanon dzie\u0142 Stanis\u0142awa Lema\n\nKolejne dzie\u0142a Lema:\"Powr\u00f3t z gwiazd\", \"Solaris\", \"Opowie\u015bci o pilocie Pirxie\", \"Dzienniki Gwiazdowe\", \"Cyberiada\" wesz\u0142y do kanonu najs\u0142ynniejszych dzie\u0142 science fiction XX wieku.(no content)Jego powie\u015bci takie jak \u201eSolaris\", \u201eCyberiada\" czy \u201eDzienniki gwiazdowe\" na sta\u0142e wesz\u0142y do kanonu literatury SF.\n\n### Znaczenie dla polskiej literatury\n\n\"Lem by\u0142 jednym z najwybitniejszych polskich prozaik\u00f3w XX wieku, kt\u00f3ry zyska\u0142 uznanie \u015bwiatowe i kt\u00f3ry mia\u0142 ambicj\u0119 tworzenia wielkiej literatury m\u00f3wi\u0105cej o cz\u0142owieku\" - jak podkre\u015bla jeden z badaczy.\n\nStanis\u0142aw Lem wywar\u0142 ogromny wp\u0142yw na rozw\u00f3j zar\u00f3wno polskiej, jak i \u015bwiatowej fantastyki naukowej. Trudno wyobrazi\u0107 sobie, jak wygl\u0105da\u0142aby dzi\u015b rodzima SF bez jego tw\u00f3rczo\u015bci. Powie\u015bci i opowiadania Lema sta\u0142y si\u0119 punktem odniesienia dla kolejnych pokole\u0144 pisarzy, inspiracj\u0105 i wzorcem kunsztu literackiego.\n\n### Wyzwanie dla kolejnych pokole\u0144\n\nHas\u0142o \u201edrugi Lem\" to raczej wyraz czytelniczych t\u0119sknot ni\u017c realna nadzieja, \u017ce po\u015br\u00f3d autor\u00f3w i autorek trafi si\u0119 zn\u00f3w kto\u015b na miar\u0119 talentu Stanis\u0142awa Lema.(no content)Jak polska fantastyka rozkwita\u0142a w cieniu Lema? - to pytanie pokazuje, jak jego posta\u0107 wp\u0142ywa na postrzeganie ca\u0142ego gatunku w Polsce.\n\n### Teoretyczny wk\u0142ad w gatunek\n\nOgromny esej o fantastyce i futurologii jest po pierwsze: oryginaln\u0105 i nowatorsk\u0105 pr\u00f3b\u0105 stworzenia teorii gatunku, po drugie: b\u0142yskotliw\u0105 autointerpretacj\u0105 dzie\u0142 Lema, po trzecie: przegl\u0105dem \u015bwiatowego dorobku science fiction - co pokazuje, \u017ce Lem by\u0142 nie tylko praktykiem, ale i teoretykiem literatury fantastyczno-naukowej.\n\nPodsumowuj\u0105c, Stanis\u0142aw Lem zajmuje absolutnie wyj\u0105tkow\u0105 pozycj\u0119 w polskiej fantastyce naukowej - jest nie tylko jej najwybitniejszym przedstawicielem, ale postaci\u0105, kt\u00f3ra definiuje ca\u0142y gatunek w Polsce i ma ogromny wp\u0142yw na \u015bwiatowe postrzeganie polskiej literatury SF."
+    ],
+    "durationSeconds": 30.422455894000827
+  }
+}

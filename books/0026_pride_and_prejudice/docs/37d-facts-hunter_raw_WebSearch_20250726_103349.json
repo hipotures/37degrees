@@ -1,0 +1,62 @@
+{
+  "session_id": "4029c48e-0ae1-4fb8-ac64-0a5ca0afe9c3",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/4029c48e-0ae1-4fb8-ac64-0a5ca0afe9c3.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Pride and Prejudice social class symbolism marriage economics money inheritance entailment"
+  },
+  "tool_response": {
+    "query": "Pride and Prejudice social class symbolism marriage economics money inheritance entailment",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_016DY4Qsi1CRdj2NkkWkEzHJ",
+        "content": [
+          {
+            "title": "Social Class in Pride and Prejudice by Jane Austen - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/class-in-pride-and-prejudice-explanation-examples.html"
+          },
+          {
+            "title": "The Role of Social Class and Marriage in Pride and Prejudice | Free Essay Example for Students",
+            "url": "https://aithor.com/essay-examples/the-role-of-social-class-and-marriage-in-pride-and-prejudice"
+          },
+          {
+            "title": "Exploring Women's Roles in Pride and Prejudice: Social and Economic Realities in Jane Austen's Time",
+            "url": "https://www.thelighthousereads.com/post/exploring-women-s-roles-in-pride-and-prejudice-social-and-economic-realities-in-jane-austen-s-time"
+          },
+          {
+            "title": "The Theme of Money and Marriage (Pride and Prejudice) | Free Essay Example",
+            "url": "https://studycorgi.com/the-theme-of-money-and-marriage-pride-and-prejudice/"
+          },
+          {
+            "title": "Class Theme in Pride and Prejudice | LitCharts",
+            "url": "https://www.litcharts.com/lit/pride-and-prejudice/themes/class"
+          },
+          {
+            "title": "Pride and Prejudice: Themes | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/pride/themes/"
+          },
+          {
+            "title": "Pride and Prejudice: Analysis of Setting | EBSCO Research Starters",
+            "url": "https://www.ebsco.com/research-starters/literature-and-writing/pride-and-prejudice-analysis-setting"
+          },
+          {
+            "title": "When reading Jane Austen's Pride and Prejudice, what does entailment mean?",
+            "url": "https://www.cliffsnotes.com/cliffsnotes/subjects/literature/when-reading-jane-austens-pride-and-prejudice-what-does-entailment-mean"
+          },
+          {
+            "title": "Influence of Social Class in 'Pride and Prejudice'",
+            "url": "https://eduindex.org/2021/06/28/influence-of-social-class-in-pride-and-prejudice/"
+          },
+          {
+            "title": "Money and Morality in Pride and Prejudice \u2013 Serena E. Suson",
+            "url": "https://journeys.dartmouth.edu/serenaesuson25/money-and-morality-in-pride-and-prejudice/"
+          }
+        ]
+      },
+      "I've performed a web search for Pride and Prejudice social class symbolism marriage economics money inheritance entailment. The search results provide comprehensive insights into these interconnected themes in Jane Austen's novel. Here are the key findings:\n\n## Social Class and Its Symbolism\n\nSocial class in Pride and Prejudice is one of the most important aspects of the story. Everything hinges on a series of rules and traditions that force characters to make certain decisions not just for themselves but for their families.(no content)Social class is primarily determined by wealth, but other factors also contribute. A person's family, standing, and even how that wealth was acquired are all taken into account when determining a person's class.(no content)Class is the target of much of the novel's criticism of society in general. Austen makes it clear that people like Lady Catherine, who are overly invested in their social position, are guilty of mistreating other people.\n\n## Marriage as Economic Strategy\n\nIn \"Pride and Prejudice,\" marriage is portrayed as a crucial means of financial security for women. During the early 19th century, women had limited opportunities for economic independence, making marriage often the only viable option for securing their futures.(no content)Marriage and its strong relationship with wealth and social position are one of the key topics in \"Pride and Prejudice.\" According to Austen, a middle-class lady did not frequently have the means to marry entirely based on love; she needed to be aware of the man's potential to provide for her financially.(no content)Marriage is a pressing question for female characters like Charlotte Lucas and the Bennet sisters because marriage is the only way women can achieve economic stability and autonomy.\n\n## Inheritance and Entailment\n\nEntailment is a system of inheritance that limits the inheritance to specific heirs; that is, only certain people can receive the inheritance.(no content)In Jane Austen's Pride and Prejudice, owning land boosted a family's status and income. An entail helped keep all of the land in one chunk and in one family (on the male side) through the generations.(no content)This societal pressure is epitomized by Mrs. Bennet's relentless pursuit to marry off her daughters, particularly because the Bennet estate is entailed to Mr. Collins, leaving the daughters without an inheritance.(no content)Because of the entailment, Mrs. Bennet was justifiably desperate to get her daughters married \u2014 and the wealthier the better. Acceptable employment opportunities were extremely limited for women in their social class, so the Bennet women faced destitution after Mr.\n\n## Economics and Money\n\nAt the heart of Pride and Prejudice, Jane Austen underscores a network of booming economic exchange. Hertfordshire and Derbyshire represent only a microcosm of the commercial activity sweeping England as wealth pours forth from every corner of the empire.(no content)In Jane Austen's society, the marital and economic considerations were closely related. In Pride and Prejudice, the wealthy Sir William Lucas has advanced his family's social status both by an advantageous marriage and by accumulating a fortune.\n\n## Class vs. Character\n\nThe marriage of Darcy and Elizabeth shows that class restrictions, while rigid, do not determine one's character, and that love can overcome all obstacles, including class.(no content)Pride and Prejudice shows that class might determine a character's social situation, but it doesn't signify anything about their behavior. The marriage between Elizabeth and Darcy shows that even though class restrictions are rigid, it does not determine one's character and that love can overcome all material obstacles like class.\n\nThe search reveals how Austen masterfully weaves together themes of social class, economics, marriage, and inheritance to create a complex critique of Regency society while exploring the tension between practical considerations and personal happiness."
+    ],
+    "durationSeconds": 29.159157207995655
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "session_id": "95239c3a-5fbf-4fbf-93f7-3afd6ea78885",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/95239c3a-5fbf-4fbf-93f7-3afd6ea78885.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Emily Bronte reclusive personality isolated life Haworth Parsonage Wuthering Heights influence"
+  },
+  "tool_response": {
+    "query": "Emily Bronte reclusive personality isolated life Haworth Parsonage Wuthering Heights influence",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01ETULX3HUHVZ1b1MduQWMq4",
+        "content": [
+          {
+            "title": "Emily Bront\u00eb - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Emily_Bront%C3%AB"
+          },
+          {
+            "title": "How Did Recluse Emily Bronte Create \"Wuthering Heights\": A Novel of Complex Interpersonal Dynamics - Owlcation",
+            "url": "https://owlcation.com/humanities/HowDidaRecluseLikeEmilyBronteCreateWutheringHeightsANovelofComplexInterpersonal-Dynamics"
+          },
+          {
+            "title": "Wuthering Heights: Emily Bront\u00eb and Wuthering Heights Background | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/wuthering/context/"
+          },
+          {
+            "title": "Emily Bronte | Biography, Books, Poems, & Facts | Britannica",
+            "url": "https://www.britannica.com/biography/Emily-Bronte"
+          },
+          {
+            "title": "Emily Bront\u00eb (Author of Wuthering Heights)",
+            "url": "https://www.goodreads.com/author/show/4191.Emily_Bront_"
+          },
+          {
+            "title": "Emily Bronte's Life and Its Mirror Image in Wuthering Heights",
+            "url": "https://www.bartleby.com/essay/Emily-Brontes-Life-and-Its-Mirror-Image-FKJ2XAYTC"
+          },
+          {
+            "title": "Wuthering Heights - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Wuthering_Heights"
+          },
+          {
+            "title": "All about the author of Wuthering Heights",
+            "url": "https://www.wuthering-heights.co.uk/emily-bronte"
+          },
+          {
+            "title": "Wuthering Heights by Emily Bront\u00eb | Audible.com",
+            "url": "https://www.audible.com/blog/review-wuthering-heights-audible-essentials"
+          },
+          {
+            "title": "Wuthering Heights, Emily Bront\u00eb and the truth about the \u2018real-life Heathcliff\u2019",
+            "url": "https://theconversation.com/wuthering-heights-emily-bronte-and-the-truth-about-the-real-life-heathcliff-192230"
+          }
+        ]
+      },
+      "Based on the search results, I can provide comprehensive information about Emily Bront\u00eb's reclusive personality, isolated life at Haworth Parsonage, and how it influenced Wuthering Heights:\n\n## Emily Bront\u00eb's Reclusive Personality and Isolated Life\n\nEmily was intensely private and reclusive by nature. She had an unusual character, extremely unsocial and reserved, with few friends outside her family. Emily had few friends outside of her family and few interactions with neighbors.\n\nShe is described by her sister Charlotte as very shy, but also strong-willed and nonconforming, with a keen love of nature and animals. She preferred the company of animals to people and rarely travelled, forever yearning for the freedom of Haworth and the moors.\n\n## Life at Haworth Parsonage\n\nApart from a brief period at school, and another as a student teacher in Brussels with her sister Charlotte, Emily spent most of her life at home in Haworth, helping the family servant with chores, playing the piano and teaching herself from books. Emily Bronte never married, living a quiet life at her father's Parsonage at Haworth in Yorkshire, England.\n\nHer father was curate of Haworth parsonage in Yorkshire, England, a home for local clergymen, where Emily spent nearly all of her life. The lonely parsonage offered few companions for Bronte besides her family, but included a large library which consumed her childhood.\n\nHer few forays into the world - boarding schools, teaching positions, and a governess job were brief due to her homesickness and the depression it caused her. She briefly attended schools in Cowan Bridge and Roe Head but was plagued by homesickness and preferred the solitude of the Yorkshire moors, which inspired much of her work. She worked briefly as a teacher but found the demands of the profession exhausting. She also studied in Brussels with Charlotte in 1842, but again found herself alienated and yearning for home.\n\n## The Yorkshire Moors Environment\n\nThe Bront\u00ebs lived in Haworth, a Yorkshire village in the midst of the moors. These wild, desolate expanses\u2014later the setting of Wuthering Heights\u2014made up the Bront\u00ebs' daily environment, and Emily lived among them her entire life.\n\nBy that singular and forlorn scenery\u2014the scenery of the Yorkshire moors round her home\u2014[Emily Bront\u00eb] was, however, in the more flexible portion of her curious nature inveterately influenced. She does not precisely describe this scenery\u2014not at any length ... but it sank so deeply into her that whatever she wrote was affected by it and bears its desolate and imaginative imprint.\n\n## Connection to Nature\n\nIn a similar description, The Literary News (1883) states: \"[Emily] loved the solemn moors, she loved all wild, free creatures and things\", a love that critics attest to be manifest in Wuthering Heights. A newspaper dated 31 December 1899, gives the account that \"with bird and beast [Emily] had the most intimate relations, and from her walks she often came with fledgling or young rabbit in hand, talking softly to it, quite sure, too, that it understood\".\n\n## Influence on Wuthering Heights\n\nMany people have wondered how a sheltered and reclusive person like Emily Bronte could have written Wuthering Heights, a complex story that depicts the coarser side of life. It seems difficult for a woman who never married or had any known love affairs to create such an intense novel of desire.\n\nThis solitary life and experience with Branwell seems to have heavily influenced Wuthering Heights, the only novel written by Bronte, which centers on a similar setting of isolated, lonely households and contains a heavily alcoholic character.\n\nEmily was perhaps the greatest of the three Bront\u00eb sisters, but the record of her life is extremely meager, for she was silent and reserved and left no correspondence of interest, and her single novel darkens rather than solves the mystery of her spiritual existence.\n\nThe paradox of Emily Bront\u00eb remains fascinating: An isolated, painfully shy woman, she produced one of the most distinctive novels in literature and some of the greatest poetry. Her character and life are as singular as her book."
+    ],
+    "durationSeconds": 39.37023495100002
+  }
+}

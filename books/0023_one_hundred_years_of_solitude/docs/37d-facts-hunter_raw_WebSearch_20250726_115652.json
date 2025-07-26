@@ -1,0 +1,62 @@
+{
+  "session_id": "0f8759f7-b95e-4668-a90a-18f4c93b0e9d",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0f8759f7-b95e-4668-a90a-18f4c93b0e9d.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "BookTok One Hundred Years of Solitude TikTok trends magical realism Gabriel Garcia Marquez young readers 2024 2025"
+  },
+  "tool_response": {
+    "query": "BookTok One Hundred Years of Solitude TikTok trends magical realism Gabriel Garcia Marquez young readers 2024 2025",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01AuWnqRYjaFNzjV8vcCS6gH",
+        "content": [
+          {
+            "title": "Have you read 'One Hundred Years of Solitude' Gabriel ...",
+            "url": "https://www.facebook.com/nobelprize/posts/have-you-read-one-hundred-years-of-solitude-gabriel-garc%C3%ADa-m%C3%A1rquezs-masterpiece-/982384943923335/"
+          },
+          {
+            "title": "Magical Realism Review: One Hundred Years of Solitude by Gabriel Garc\u00eda M\u00e1rquez - Tar Vol on",
+            "url": "https://www.tarvolon.com/2025/01/19/magical-realism-review-one-hundred-years-of-solitude-by-gabriel-garcia-marquez/"
+          },
+          {
+            "title": "For Colombia, I read One Hundred Years of Solitude by Gabriel Garc\u00eda M\u00e1rquez, translated from Spanish to English by Gregory Rabasa, and wow. This was exactly the book I needed as my extended family feels all the feelings about my Aunt Berta\u2019s cancer and the void we will have when we lose our matriarch. I\u2019ll share a more traditional review when I\u2019ve had more time to digest this masterpiece. #readaroundtheworld #booktok #booktokfyp  | TikTok",
+            "url": "https://www.tiktok.com/@courtneyhenningnovak/video/7400526296213638430"
+          },
+          {
+            "title": "Gabriel Garc\u00eda M\u00e1rquez (Author of One Hundred Years of Solitude)",
+            "url": "https://www.goodreads.com/author/show/13450.Gabriel_Garc_a_M_rquez"
+          },
+          {
+            "title": "Exploring Gabriel Garcia Marquez's Magical Realism in One ...",
+            "url": "https://www.tiktok.com/@tomesandtextiles/video/7369615729257237802"
+          },
+          {
+            "title": "One Hundred Years of Solitude - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude"
+          },
+          {
+            "title": "One Hundred Years of Solitude: A Colombian Work of Art",
+            "url": "https://colombiaone.com/2024/12/21/one-hundred-years-solitude-literary-gabriel-garcia-marquez-colombia/"
+          },
+          {
+            "title": "One Hundred Years of Solitude | Introduction & Summary | Britannica",
+            "url": "https://www.britannica.com/topic/One-Hundred-Years-of-Solitude"
+          },
+          {
+            "title": "The Most Popular TikTok Books #BookTok | Barnes & Noble\u00ae",
+            "url": "https://www.barnesandnoble.com/b/booktok/_/N-2vdn"
+          },
+          {
+            "title": "One Hundred Years of Solitude by Gabriel Garc\u00eda M\u00e1rquez | Goodreads",
+            "url": "https://www.goodreads.com/book/show/320.One_Hundred_Years_of_Solitude"
+          }
+        ]
+      },
+      "Based on my search, I found several relevant pieces of information about \"One Hundred Years of Solitude,\" Gabriel Garc\u00eda M\u00e1rquez's magical realism masterpiece, and its presence on social media platforms including TikTok/BookTok:\n\n## Recent BookTok and Social Media Presence\n\nTikTok creators are actively engaging with \"One Hundred Years of Solitude\", with users like Courtney Henning Novak sharing personal reading experiences and traditional reviews of the book. There are also TikTok videos specifically exploring Garc\u00eda M\u00e1rquez's magical realism in the novel.\n\n## 2024-2025 Relevance and Adaptations\n\nIn 2024, the book was adapted into an authorized television series released on Netflix, which premiered on December 11, 2024, and was executive produced by Garc\u00eda M\u00e1rquez's sons. This 2024 television adaptation has been acclaimed, likely contributing to renewed interest among younger readers and social media users.\n\n## Magical Realism and Literary Significance\n\nGarc\u00eda M\u00e1rquez is credited with helping introduce an array of readers to magical realism, a genre that combines conventional storytelling forms with vivid layers of fantasy. Critics often cite \"One Hundred Years of Solitude\" as exemplary of magic realism, a style where the supernatural is presented as mundane, and the mundane as supernatural.\n\nGarc\u00eda M\u00e1rquez's use of magical realism blurs the boundaries between the extraordinary and the mundane, creating a world where fantastical events like prolonged rainstorms, levitating priests, and ascensions to heaven coexist with ordinary struggles, making the supernatural an integral part of the story.\n\n## Appeal to Young Readers\n\nMagical realism has been noted as a favorite genre among readers, particularly with works that take events from ordinary life and insert elements of fantasy. The recent Netflix adaptation and renewed social media attention suggest the novel continues to find new audiences among younger readers interested in this unique storytelling approach.\n\nThe search results show that while \"One Hundred Years of Solitude\" maintains its status as a literary classic, it's experiencing a renaissance through the 2024 Netflix adaptation and active engagement on platforms like TikTok, where readers are sharing their experiences with Garc\u00eda M\u00e1rquez's magical realism."
+    ],
+    "durationSeconds": 18.924721044000005
+  }
+}
