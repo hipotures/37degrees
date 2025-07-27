@@ -1,0 +1,62 @@
+{
+  "session_id": "028ac210-0cb7-4efc-a317-99c91e956ed9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/028ac210-0cb7-4efc-a317-99c91e956ed9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Podr\u00f3\u017ce Guliwera\" teatr polski adaptacja spektakl film Polska"
+  },
+  "tool_response": {
+    "query": "\"Podr\u00f3\u017ce Guliwera\" teatr polski adaptacja spektakl film Polska",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01BVGjPFaErrPeWhDEecuKv6",
+        "content": [
+          {
+            "title": "Teatr Polski Dzieciom: Podr\u00f3\u017ce Guliwera | Bilety",
+            "url": "https://kicket.com/wydarzenia/teatr-polski-dzieciom-podroze-guliwera-4114"
+          },
+          {
+            "title": "Podr\u00f3\u017ce Guliwera",
+            "url": "https://stary.pl/en/repertuar/gullivers-travels/"
+          },
+          {
+            "title": "Podr\u00f3\u017ce Guliwera - Teatr Polski im. Arnolda Szyfmana w Warszawie | e-teatr.pl",
+            "url": "https://e-teatr.pl/podroze-guliwera-s16735"
+          },
+          {
+            "title": "Bilety24 \u2013 Podr\u00f3\u017ce Guliwera - TEATR POLSKI DZIECIOM, Warszawa",
+            "url": "https://www.bilety24.pl/teatr/195-podroze-guliwera-teatr-polski-dzieciom-18643?id=572271"
+          },
+          {
+            "title": "Podr\u00f3\u017ce Guliwera ::: Przedstawienia ::: Encyklopedia teatru polskiego",
+            "url": "https://encyklopediateatru.pl/przedstawienie/66077/podroze-guliwera"
+          },
+          {
+            "title": "Niesamowite \"Podr\u00f3\u017ce Guliwera\" w Teatrze Polskim | Nasze Miasto",
+            "url": "https://naszemiasto.pl/niesamowite-podroze-guliwera-w-teatrze-polskim/ar/c13-4533702"
+          },
+          {
+            "title": "Home page - Teatr Lalek Guliwer",
+            "url": "https://teatrguliwer.pl/en/home-page/"
+          },
+          {
+            "title": "Podr\u00f3\u017ce Guliwera ::: Sztuki ::: Encyklopedia teatru polskiego",
+            "url": "https://encyklopediateatru.pl/sztuki/3670/podroze-guliwera"
+          },
+          {
+            "title": "Podr\u00f3\u017ce Guliwera - Narodowy Stary Teatr im. Heleny Modrzejewskiej | e-teatr.pl",
+            "url": "https://e-teatr.pl/podroze-guliwera-s23072"
+          },
+          {
+            "title": "Podr\u00f3\u017ce Guliwera - Teatr Lalek Guliwer - Warszawa | e-teatr.pl",
+            "url": "https://e-teatr.pl/podroze-guliwera-s3119"
+          }
+        ]
+      },
+      "Based on the search results, I found extensive information about Polish theatrical adaptations of \"Gulliver's Travels\" (Podr\u00f3\u017ce Guliwera). Here's what the search revealed:\n\n## Polish Theater Adaptations of Gulliver's Travels\n\nThe search shows several significant Polish theatrical productions of \"Gulliver's Travels\":\n\n### Teatr Polski im. Arnolda Szyfmana, Warsaw\nThe most prominent adaptation premiered on September 29, 2015, at Teatr Polski im. Arnolda Szyfmana in Warsaw, directed by Jaros\u0142aw Kilian. This production is \"an adaptation of Jonathan Swift's novel, which constitutes a satire on human nature\".\n\nThe main character Lemuel Gulliver is played by Maksymilian Rogacki, portraying a ship's doctor and captain who recalls his extraordinary adventures years later. The production features innovative staging ideas by Jaros\u0142aw Kilian, who manipulates perspectives and planes, combined with Julia Skrzynecka's scenography, Andrzej Brzoska's sound decorations, and film footage by Piotr Niemyjski.\n\nThis is described as \"an exceptional performance that stays in memory for a long time\" and though it runs almost 3 hours, \"you don't feel it at all\" - recommended for both children and adults.\n\n### Other Notable Productions\nA second adaptation premiered on May 25, 2019, directed by Pawe\u0142 Mi\u015bkiewicz at Narodowy Stary Teatr im. Heleny Modrzejewskiej in Krak\u00f3w.\n\nThe search also reveals numerous other Polish theaters that have staged adaptations, including:\n- Teatr Lalek Guliwer in Warsaw (February 15, 2009)\n- Wroc\u0142awski Teatr Lalek in Wroc\u0142aw (July 5, 2013)\n- Teatr Wybrze\u017ce in Gda\u0144sk (December 12, 2013)\n\n### Reception and Significance\nThe novel \"Gulliver's Travels\" by Jonathan Swift, written in 1726, \"has been fascinating, disturbing, frightening, amusing, and provoking reflection in successive generations of readers around the world for almost 300 years\".\n\nThese theatrical adaptations are described as \"performances for older children and those who are children at heart\", maintaining the universal appeal of Swift's original work in Polish theater."
+    ],
+    "durationSeconds": 20.221784221999346
+  }
+}

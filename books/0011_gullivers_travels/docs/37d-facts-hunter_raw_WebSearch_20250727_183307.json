@@ -1,0 +1,62 @@
+{
+  "session_id": "028ac210-0cb7-4efc-a317-99c91e956ed9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/028ac210-0cb7-4efc-a317-99c91e956ed9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Gulliver's Travels\" references modern media entertainment movies TV shows video games popular culture citations"
+  },
+  "tool_response": {
+    "query": "\"Gulliver's Travels\" references modern media entertainment movies TV shows video games popular culture citations",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01E1xzvsXB6EBKCqSkpvvFGi",
+        "content": [
+          {
+            "title": "Gulliver's Travels | Encyclopedia.com",
+            "url": "https://www.encyclopedia.com/arts/educational-magazines/gullivers-travels"
+          },
+          {
+            "title": "References to Gulliver's Travels | Gulliver's Travels Wiki | Fandom",
+            "url": "https://gulliverstravels.fandom.com/wiki/References_to_Gulliver's_Travels"
+          },
+          {
+            "title": "Gulliver's Travels Movie Review | Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/gullivers-travels"
+          },
+          {
+            "title": "Gulliver's Travels (2010 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Gulliver's_Travels_(2010_film)"
+          },
+          {
+            "title": "\"Gulliver's Travels\" Movie Review",
+            "url": "https://www.jesusfreakhideout.com/movies/GulliversTravels.asp"
+          },
+          {
+            "title": "Gulliver\u2019s Travels | Summary, Characters, Analysis, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/Gullivers-Travels"
+          },
+          {
+            "title": "Cultural influence of Gulliver's Travels - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Cultural_influence_of_Gulliver's_Travels"
+          },
+          {
+            "title": "Gulliver\u2019s Travels - Satire, Adventure, Voyages | Britannica",
+            "url": "https://www.britannica.com/topic/Gullivers-Travels/Analysis"
+          },
+          {
+            "title": "Spectacle and Satire: American Film Adaptations of Gulliver\u2019s Travels - BSECS",
+            "url": "https://www.bsecs.org.uk/criticks-reviews/spectacle-and-satire-american-film-adaptations-of-gullivers-travels/"
+          },
+          {
+            "title": "Gulliver's Travels (2010) - Connections - IMDb",
+            "url": "https://www.imdb.com/title/tt1320261/movieconnections/"
+          }
+        ]
+      },
+      "Based on the search results, I found comprehensive information about Gulliver's Travels references in modern media and popular culture. Here's what I discovered:\n\n## Film and TV Adaptations\n\nA live-action miniseries Gulliver's Travels was made for television in 1996 by Charles Sturridge from a screenplay by Simon Moore. The film starred Ted Danson as Gulliver, as well as Mary Steenburgen, Peter O'Toole, Ned Beatty, Alfre Woodard, Geraldine Chaplin, Ned Beatty, John Gielgud, Kristin Scott Thomas, and Omar Sharif. Longer and containing more of the book's plot than other film versions of Gulliver's Travels, this version nevertheless takes some big liberties, adding a secondary plot featuring Gulliver's wife (Steenburgen) and son.(no content)Gulliver's Travels is a 2010 fantasy adventure comedy film directed by Rob Letterman that is loosely based on Part One (and slightly on Part Two) of the 1726 novel of the same name by Jonathan Swift, though the film takes place in the modern day and contains references to modern pop culture.(no content)Gulliver's Travels (1979): An animated TV movie adaptation of the first two parts made in Australia. It was produced by Southern Star Group for Famous Classic Tales, with the voice cast being Julie Bennett, Regis Cordic, Ross Martin, Don Messick, Hal Smith, John Stephenson, and Janet Waldo. Saban's Gulliver's Travels: A 26 episode long cartoon adaptation of the book produced by Saban Entertainment and Saban International Paris, which aired from September 8, 1992 to June 29, 1993.\n\n## Modern Pop Culture References\n\n### 2010 Film's Pop Culture Integration\nPop culture references and modern media flood this update of Gulliver's Travels. So with such, frequent mentions of Star Wars and other popular franchises like Avatar and Titanic are made, as well as other recognizable brands like Guitar Hero, iPhone, and more.(no content)Numerous film references, especially Star Wars and Titanic. Gulliver passes off movie plots as his own creations. They are produced as plays by the mythical Liliputians.\n\n### Specific Movie References\nStar Wars: Episode V - The Empire Strikes Back (1980) One of the plays made by lilputians is based on this movie, showing the \"I'm your father\" scene.(no content)Gulliver convinces Horatio to woo Princess Mary by quoting Prince's song \"Kiss.\"\n\n## References in Other Media\n\n### Literature and Comics\nIn Alan Moore's comic The League of Extraordinary Gentlemen, Gulliver was the unofficial leader of an early incarnation of the League which also included The Scarlet Pimpernel, Dr. Syn and Fanny Hill.(no content)The character of Gulliver appears in the Doctor Who story The Mind Robber, played by Bernard Horsfall. He speaks only dialogue from the original book (though some speeches are patched together from widely separated sections).(no content)In Fahrenheit 451, Guy Montag briefly reads a section of Gulliver's Travels to his wife, who insists that it makes no sense. The section read is \"It is computed that eleven thousand persons have at several times suffered death rather than submit to break their eggs at the smaller end.\"\n\n### Anime and Video Games\nHayao Miyazaki's anime film Laputa: Castle in the Sky is about a mythical flying island.(no content)In the anime series Digimon Adventure 02 of the popular Digimon franchise, episode 28 referred to Iori who compared it to that of the Giga House that they were in.\n\n## Cultural Impact\n\nThe term Lilliputian has entered many languages as an adjective meaning \"small and delicate\". There is even a brand of small cigar called Lilliput. There is a series of collectable model houses known as \"Lilliput Lane\". The smallest light bulb fitting (5 mm diameter) in the Edison screw series is called the \"Lilliput Edison screw\".(no content)In the discipline of computer architecture, the terms big-endian and little-endian are used to describe two possible ways of laying out bytes in memory. The terms derive from one of the satirical conflicts in the book, in which two religious sects of Lilliputians are divided between those who crack open their soft-boiled eggs from the little end, the \"Little-endians\", and those who use the big end, the \"Big-endians\".(no content)Its enduring appeal is such that several terms from the book entered common lexicon. Perhaps most notable is yahoo, which widely means a crass or stupid person.\n\nThe search reveals that Gulliver's Travels has had an extensive influence on modern media, from major Hollywood adaptations to references in contemporary literature, comics, anime, and even technical terminology in computer science."
+    ],
+    "durationSeconds": 37.66670119099878
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "session_id": "028ac210-0cb7-4efc-a317-99c91e956ed9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/028ac210-0cb7-4efc-a317-99c91e956ed9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Polish teenagers literature education TikTok social media classic books engagement Poland"
+  },
+  "tool_response": {
+    "query": "Polish teenagers literature education TikTok social media classic books engagement Poland",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01HfJiogYKdUUeGiYNFFqFnn",
+        "content": [
+          {
+            "title": "Discover 8 Classics from Poland\u2019s Required Reading Curriculum | Article | Culture.pl",
+            "url": "https://culture.pl/en/article/discover-8-classics-from-polands-required-reading-curriculum"
+          },
+          {
+            "title": "(PDF) \"Polish Literature for Children & Young Adults Inspired by Classical Antiquity\"",
+            "url": "https://www.academia.edu/33077730/_Polish_Literature_for_Children_and_Young_Adults_Inspired_by_Classical_Antiquity_"
+          },
+          {
+            "title": "Top 1,000 Sports tiktok Influencers In Poland | StarNgage Plus",
+            "url": "https://starngage.com/plus/en-us/influencer/ranking/tiktok/poland/sports"
+          },
+          {
+            "title": "Top 1,000 tiktok Influencers In Poland | StarNgage Plus",
+            "url": "https://starngage.com/plus/en-us/influencer/ranking/tiktok/poland"
+          },
+          {
+            "title": "11 Great Polish Books You Have to Read | Article | Culture.pl",
+            "url": "https://culture.pl/en/article/11-great-polish-books-you-have-to-read"
+          },
+          {
+            "title": "BookTok - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/BookTok"
+          },
+          {
+            "title": "Top 19 TikTok Influencers in Poland: Find Polish TikTokers",
+            "url": "https://www.modash.io/find-influencers/tiktok/poland"
+          },
+          {
+            "title": "How can Booktok on TikTok inform readers' advisory services for young people? - ScienceDirect",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S0740818821000219"
+          },
+          {
+            "title": "Polish literature - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Polish_literature"
+          },
+          {
+            "title": "Top 10 Books Influencers on Youtube in Poland",
+            "url": "https://influencers.hiveinfluence.io/top-influencers/youtube/books/poland"
+          }
+        ]
+      },
+      "The search results provide some relevant information about Polish literature education and social media trends, but there's limited specific information about how Polish teenagers are engaging with literature through TikTok. Let me search for more specific information about this topic.",
+      {
+        "tool_use_id": "srvtoolu_013SneZq9e7YTGmuktNBegFu",
+        "content": [
+          {
+            "title": "Books vs BookTok: Understanding the reading habits of young adults \u2013 Nielsenbook-UK",
+            "url": "https://nielsenbook.co.uk/books-vs-booktok-understanding-the-reading-habits-of-young-adults/"
+          },
+          {
+            "title": "What is BookTok? How is it shaping teenagers' reading habits? - Graduates",
+            "url": "https://tbsgraduates.net/writeup/what-is-booktok-how-is-it-shaping-teenagers-reading-habits/"
+          },
+          {
+            "title": "How BookTok is transforming Gen-Z reading habits - Australia Reads",
+            "url": "https://australiareads.org.au/news/booktok-transforming-gen-z-reading-habits/"
+          },
+          {
+            "title": "Number of Poles who read at least one book a year highest since 2010 but still a minority | Notes From Poland",
+            "url": "https://notesfrompoland.com/2024/04/06/number-of-poles-who-read-at-least-one-book-a-year-highest-since-2010-but-still-a-minority/"
+          },
+          {
+            "title": "Why Gen Z are the new bookworms | GoHenry",
+            "url": "https://www.gohenry.com/uk/blog/bread/why-gen-z-are-the-new-bookworms"
+          },
+          {
+            "title": "BookTok, Teen Readers, and the Rise of TikTok Literacies \u2013 Once Upon a Book Club",
+            "url": "https://www.onceuponabookclub.com/blogs/ya/booktok-teen-readers-and-the-rise-of-tiktok-literacies"
+          },
+          {
+            "title": "What is BookTok, and how is it influencing the reading habits of Australian teenagers? | Aspioneer",
+            "url": "https://aspioneer.com/what-is-booktok-and-how-is-it-influencing-the-reading-habits-of-australian-teenagers/"
+          },
+          {
+            "title": "Number of Poles reading books increased in 2020, but most still read none | Notes From Poland",
+            "url": "https://notesfrompoland.com/2021/04/22/number-of-poles-reading-books-increased-in-2020-but-most-still-read-none/"
+          },
+          {
+            "title": "BookTok: A Narrative Review of Current Literature and Directions for Future Research - Dera - 2024 - Literature Compass - Wiley Online Library",
+            "url": "https://compass.onlinelibrary.wiley.com/doi/full/10.1111/lic3.70012"
+          },
+          {
+            "title": "The Impact Of BookTok | Rock & Art",
+            "url": "https://www.rockandart.org/the-impact-of-booktok/"
+          }
+        ]
+      },
+      "Based on the search results, I've found relevant information about Polish teenagers, literature education, TikTok, social media, classic books engagement, and BookTok in Poland. Here's what the web search reveals:\n\n## Polish Literature Education Context\n\nIn Poland, there's an official list of works recommended for high-school students, which includes about 150 varied titles. This provides the foundation for understanding what Polish teenagers are expected to read in their formal education.\n\n## Polish Reading Habits and Statistics\n\nRecent data shows positive trends in Polish reading habits. The proportion of Poles who say they have read at least one book in the last year rose to 43% in 2023, up by nine percentage ponts on 2022 and the highest figure since 2010 in a regular survey carried out by Poland's National Library. There's also a notable gender gap: Polish women (50%) are more likely to have read at least one book than men (36%).\n\n## TikTok and BookTok's Global Impact on Teen Reading\n\nThe BookTok phenomenon has emerged as a significant force in teenage reading habits globally. BookTok is a subcommunity on the social media platform TikTok that focuses on books and literature.(no content)As of 2023, the BookTok hashtag is reported to have over 107 billion views globally, and is particularly popular with 'Gen-Z' users, born between 1996 and 2010.\n\n## BookTok's Influence on Reading Engagement\n\nResearch demonstrates BookTok's significant impact on young people's reading habits:\n\n- Almost two-thirds (59%) of 16-25 year olds say that BookTok or book influencers have helped them discover a passion for reading.\n- 68% say that BookTok has inspired them to read a book that they would have never considered otherwise.\n- 48% of TikTok users say they now read more books than before the use of BookTok and 62% of TikTok users from the US have read at least one book based on a BookTok recommendation.\n\n## Educational and Social Benefits\n\nThe platform serves multiple educational functions: It offers a digital space for teenagers to connect with their peers and share authentic responses to books in a \"youth friendly\" way. By showcasing teenagers who love books and are proud of their reading habits, BookTok inspires other young people to enjoy reading.(no content)They are learning to think critically, evaluate literature, and engage in deeper textual analysis. This digital environment is creating a great form of literacy where multimedia elements, like visuals and audio, are great at complementing traditional reading practices.\n\n## Polish Social Media Landscape\n\nPoland has a substantial digital presence with over 32 million internet users and social media penetration exceeding 68%, Poland presents a fertile ground for influencer collaborations that drive meaningful engagement and conversion. The search also reveals that 914,961 Polish TikTok influencers were found, indicating a vibrant Polish TikTok ecosystem.\n\n## Impact on Classic Literature\n\nInterestingly, BookTok doesn't only promote new releases but also revives older works: When novels go viral, they become incredibly popular, and it is not just the latest books that are featured\u2014we often see older titles re-emerging. This suggests that classic literature could potentially benefit from social media engagement strategies.\n\nWhile the search didn't reveal specific data about BookTok's penetration specifically among Polish teenagers or how it's affecting engagement with Polish classic literature, the global trends and Poland's strong digital infrastructure suggest similar patterns likely exist in Poland."
+    ],
+    "durationSeconds": 32.79894778000005
+  }
+}

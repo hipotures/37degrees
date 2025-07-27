@@ -1,0 +1,62 @@
+{
+  "session_id": "62c63379-e312-4b2e-a73b-24b8927c6427",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/62c63379-e312-4b2e-a73b-24b8927c6427.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Harry Potter merchandising market value products sales clothing toys collectibles 2024 revenue"
+  },
+  "tool_response": {
+    "query": "Harry Potter merchandising market value products sales clothing toys collectibles 2024 revenue",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01WdLcatz4qxmu2pN6B5mYKi",
+        "content": [
+          {
+            "title": "Harry Potter Best Seller: Top Merchandise & Market Trends 2025",
+            "url": "https://www.accio.com/business/harry-potter-best-seller"
+          },
+          {
+            "title": "Galloping gargoyles! Is Harry Potter losing his (earning) power?",
+            "url": "https://theconversation.com/galloping-gargoyles-is-harry-potter-losing-his-earning-power-131382"
+          },
+          {
+            "title": "Harry Potter World 20 Years On | Book Sales, Franchise Total Income and Stats",
+            "url": "https://www.movavi.io/harry-potter-2/"
+          },
+          {
+            "title": "The Business Behind Harry Potter\u2019s Billion-Dollar Legacy",
+            "url": "https://www.outlookbusiness.com/ampstories/news/the-business-behind-harry-potters-billion-dollar-legacy"
+          },
+          {
+            "title": "The British publisher behind the 'Harry Potter' series had record sales and profits last year, proving physical books and loyal fans can still make big money | Fortune Europe",
+            "url": "https://fortune.com/europe/2024/05/30/book-publisher-bloomsbury-harry-potter-sarah-j-maas-record-sales-profits-fans-booktok/"
+          },
+          {
+            "title": "Harry Potter and the $25 billion franchise",
+            "url": "https://www.cnbc.com/2016/10/13/harry-potter-and-the-25-billion-franchise.html"
+          },
+          {
+            "title": "Harry Potter: 10 Money Facts About The Series",
+            "url": "https://screenrant.com/harry-potter-money-facts-about-the-series/"
+          },
+          {
+            "title": "Official Harry Potter Shop US | Warner Bros Merchandise",
+            "url": "https://harrypottershop.com/"
+          },
+          {
+            "title": "How Much The Harry Potter Books & Movies Made, How Much They Cost To Make (And More)",
+            "url": "https://screenrant.com/harry-potter-books-movies-value-production-costs-ranked/"
+          },
+          {
+            "title": "How Much is the Harry Potter Franchise Worth: Financial Insights - Harry Potter Kids",
+            "url": "https://harrypotterkids.com/how-much-is-the-harry-potter-franchise-worth-financial-insights/"
+          }
+        ]
+      },
+      "Based on the search results, here's what I found about the Harry Potter merchandising market value and revenue for 2024:\n\n## Overall Franchise Value\nThe Harry Potter \"empire\" has an estimated total worth of US$25 billion, with the Harry Potter franchise producing a staggering $25 billion in sales so far.\n\n## Merchandise Sales Revenue\nUS$7.3 billion (A$11 billion) has been made from toys and merchandise, according to multiple sources. Other estimates show Harry Potter merchandise has generated $3.5 billion in sales, though this appears to be a more conservative figure.\n\n## 2024 Market Trends\nThe Harry Potter franchise continues to dominate global consumer markets despite a 25% year-over-year decline in overall merchandise demand from 2023\u20132024. However, key drivers include nostalgia, upcoming media releases (e.g., the 2026 HBO series), and enduring popularity of licensed products.\n\n## Product Categories and Performance\n\n### Toys and Collectibles\nMattel and Hasbro together made over $7 billion on Potter plush toys, action figures, special editions of board games like Monopoly and Trivial Pursuit, trading cards, and even candy. Collectible items such as Funko Pop! Harry Potter Figures are popular among fans, driven by their collectible value and the franchise's enduring popularity.\n\n### LEGO Products\nIn 2010, the Danish toymaker reported \"phenomenal sales,\" with its pre-tax profits soaring to around $2.4 billion \u2013 thanks in no small part to the launch of their Potter-themed products. Interactive and building toys like the LEGO Harry Potter Hogwarts Castle appeal to consumers, reflecting the franchise's strong presence in licensed partnerships.\n\n### Popular Items in 2024\nNostalgic items like the Squishmallows Hedwig Plush are in high demand due to their connection to beloved characters and the overall Harry Potter franchise.\n\n## Supporting Revenue Streams\n- The Wizarding World theme parks earn over $1 billion each year\n- Bloomsbury reported a 30% jump in sales to \u00a3343 million ($436.6 million) and a nearly 60% hike in profits to \u200b\u200b\u00a349 million ($62.4 million) in the year to Feb. 29, 2024\n\nThe merchandise market continues to be a significant revenue driver for the franchise, encompassing everything from toys to clothing and collectibles, with strong performance expected to continue despite some market softening in 2024."
+    ],
+    "durationSeconds": 27.294981277000158
+  }
+}

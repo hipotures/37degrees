@@ -1,0 +1,62 @@
+{
+  "session_id": "028ac210-0cb7-4efc-a317-99c91e956ed9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/028ac210-0cb7-4efc-a317-99c91e956ed9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Gulliver's Travels international reception translations different cultures educational curricula schools worldwide"
+  },
+  "tool_response": {
+    "query": "Gulliver's Travels international reception translations different cultures educational curricula schools worldwide",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01MxjMcDfgu8RvbAxnZnWqjU",
+        "content": [
+          {
+            "title": "Exploring Our Educational Ideals: Following along Gulliver\u2019s Travels \u2022 Educational Renaissance",
+            "url": "https://educationalrenaissance.com/2022/12/17/exploring-our-educational-ideals-following-along-gullivers-travels/"
+          },
+          {
+            "title": "Gulliver's Travels - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Gulliver's_Travels"
+          },
+          {
+            "title": "Different Educational Traditions in Gulliver\u2019s Travels 2011 words [Essay Example]",
+            "url": "https://gradesfixer.com/free-essay-examples/a-comparison-of-the-schooling-in-foreign-lands-in-gullivers-travels/"
+          },
+          {
+            "title": "Gulliver's Travels | Encyclopedia.com",
+            "url": "https://www.encyclopedia.com/arts/educational-magazines/gullivers-travels"
+          },
+          {
+            "title": "Travel as Education: Gulliver the Traveller and the Potential Corruptions of Seeking Betterment Abroad \u2013 Lumen",
+            "url": "https://www.erudit.org/en/journals/lumen/2020-v39-lumen05289/1069411ar/"
+          },
+          {
+            "title": "Cultural influence of Gulliver's Travels - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Cultural_influence_of_Gulliver's_Travels"
+          },
+          {
+            "title": "Gulliver's Travels: Summary, Analysis and Essay Examples",
+            "url": "https://kaitlynessays.com/gullivers-travels/"
+          },
+          {
+            "title": "Gulliver\u2019s Travels | Summary, Characters, Analysis, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/Gullivers-Travels"
+          },
+          {
+            "title": "(DOC) \"Gulliver Travels in Turkey: Retranslation and Intertextuality\" in Lance Weldy (ed.) Crossing Textual Boundaries in International Children\u2019s Literature. New Castle Upon Tyne: Cambridge Scholars Publishing, 2011, 44-58. | \u015eehnaz Tahir G\u00fcr\u00e7a\u011flar - Academia.edu",
+            "url": "https://www.academia.edu/8476534/_Gulliver_Travels_in_Turkey_Retranslation_and_Intertextuality_in_Lance_Weldy_ed_Crossing_Textual_Boundaries_in_International_Children_s_Literature_New_Castle_Upon_Tyne_Cambridge_Scholars_Publishing_2011_44_58"
+          },
+          {
+            "title": "Co-Educational Private School in Miami, FL | Gulliver Prep",
+            "url": "https://www.gulliverprep.org/"
+          }
+        ]
+      },
+      "The search results provide valuable information about Gulliver's Travels' international reception, translations, and educational impact across different cultures. Here's what I found:\n\n## International Reception and Translations\n\nSince his death, Swift has emerged as the most widely read and translated Irish author, and Gulliver's Travels has retained its position as the most printed book by an Irish writer in libraries and bookstores worldwide.(no content)Gulliver's Travels was quite a success in its time. The first printing sold out immediately and the book was translated into French, Dutch, and German.\n\nThe work's international reach is evidenced by specific cultural adaptations. Abb\u00e9 Pierre Desfontaines, the first French translator of Swift's story, wrote a sequel, Le Nouveau Gulliver ou Voyages de Jean Gulliver, fils du capitaine Lemuel Gulliver (The New Gulliver, or the travels of John Gulliver, son of Captain Lemuel Gulliver), published in 1730. \n\nResearch also documents translations in non-Western contexts. The search results include references to studies on Gulliver's Travels in Turkey, examining \"a diversity of cultural settings and illustrate the assumptions and epistemologies underlying the manifestations of retranslation in various cultures and time periods\" and Bulgarian reception studies.\n\n## Educational Curricula and School Usage\n\nThe work appears prominently in educational settings worldwide. In my most recent reading of this travelog with our Enlightenment Humanities class at Clapham School, I was struck by Swift's thoughts on education.(no content)It appealed to people from all social classes and ages, and readers thought the book was a humorous adventure tale, suitable even for children to read (the separate category of books especially for children did not come about until a generation after Swift's death).\n\n## Cultural Reception Across Different Societies\n\nGulliver's Travels remains popular in modern times due to its insightful social commentary and enduring themes. The novel's satire, particularly its elaborate critique of human nature, societal flaws and norms, and personal relations, continues to be studied in literary circles.\n\nThe educational themes within the work itself explore cultural differences in learning approaches, with each land that Gulliver visits has its own idea of what education should be like for the citizens there... As a whole, the educational practices that Gulliver encounters in the various lands are different from the educational practices in England at the time of the book's writing in 1726. Swift uses these differing practices to make a commentary on the state of education in early eighteenth-century England.\n\nThe work's enduring relevance is highlighted by its ability to encourage readers of any society at any time to raise important questions about mankind's limitations, how we can structure our institutions to bring out the best in people, and what it means to be human."
+    ],
+    "durationSeconds": 23.97513153200038
+  }
+}

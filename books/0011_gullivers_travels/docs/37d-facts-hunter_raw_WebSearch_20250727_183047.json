@@ -1,0 +1,62 @@
+{
+  "session_id": "028ac210-0cb7-4efc-a317-99c91e956ed9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/028ac210-0cb7-4efc-a317-99c91e956ed9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Gulliver's Travels film adaptations timeline movies TV shows animated versions chronological list"
+  },
+  "tool_response": {
+    "query": "Gulliver's Travels film adaptations timeline movies TV shows animated versions chronological list",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01FjqmPJAtqLM7YgqpyJJZj9",
+        "content": [
+          {
+            "title": "Film list: All Adaptation of \"Gulliver's travels\"",
+            "url": "https://letterboxd.com/greycountess/list/all-adaptation-of-gullivers-travels/"
+          },
+          {
+            "title": "Gulliver's Travels (1939 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Gulliver's_Travels_(1939_film)"
+          },
+          {
+            "title": "Category:Films based on Gulliver's Travels - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Category:Films_based_on_Gulliver's_Travels"
+          },
+          {
+            "title": "Gulliver's Travels Films & TV Shows with YouTube videos of scenes from the best movies - Gulliver's Travels",
+            "url": "http://www.mygullivertravels.com/movies-older-movies--shows.html"
+          },
+          {
+            "title": "Spectacle and Satire: American Film Adaptations of Gulliver\u2019s Travels - BSECS",
+            "url": "https://www.bsecs.org.uk/criticks-reviews/spectacle-and-satire-american-film-adaptations-of-gullivers-travels/"
+          },
+          {
+            "title": "Gulliver\u2019s Travels Film Adaptation \u2013 Crimson Miscellany",
+            "url": "https://adhc.lib.ua.edu/site/crimsonmiscellany/?p=255"
+          },
+          {
+            "title": "Obscure Animation: Gulliver\u2019s Travels | The Animation Historian",
+            "url": "https://animationhistorian.wordpress.com/2019/06/08/obscure-animation-gullivers-travels/"
+          },
+          {
+            "title": "Most Popular Movies and TV Shows tagged with keyword \" ...",
+            "url": "https://www.imdb.com/search/keyword/?keywords=reference-to-gulliver's-travels"
+          },
+          {
+            "title": "What is the best movie version of Gulliver's Travels? - Quora",
+            "url": "https://www.quora.com/What-is-the-best-movie-version-of-Gullivers-Travels"
+          },
+          {
+            "title": "Gulliver's Travels | Paramount Animation Fan Wiki | Fandom",
+            "url": "https://paramountanimation.fandom.com/wiki/Gulliver's_Travels"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with a comprehensive chronological timeline of Gulliver's Travels film and TV adaptations:\n\n## Chronological Timeline of Gulliver's Travels Adaptations\n\n### Early Silent Era\n- **1902** - \"Gulliver's Travels Among the Lilliputians and the Giants\" (also known as \"Le Voyage de Gulliver \u00e0 Lilliput et chez les g\u00e9ants\") - The very first film adaptation, produced in France, which \"sets the precedent that most adaptations follow, using cutting-edge film techniques to play with scale in Lilliput and Brobdingnag\"\n- **1903** - \"Gulliver in the Land of Giants\" (Spain)\n- **1924** - \"Gullivers Reisen\" (Austria)\n\n### Early Animation Era\n- **1934** - \"Gulliver Mickey\" - Disney animated short\n- **1935** - \"The New Gulliver\" (Soviet Union)\n\n### Golden Age of Animation\n- **1939** - \"Gulliver's Travels\" - Fleischer Studios' first feature-length animated film, \"produced by Max Fleischer and directed by Dave Fleischer, with animation sequences directed by Seymour Kneitel\" and others. It \"premiered in New York City on December 20, 1939, and went into general release in the United States on December 22\"\n\n### Live-Action Era\n- **1960** - \"The 3 Worlds of Gulliver\" - Live-action film starring Kerwin Mathews\n\n### Television Era\n- **1968-1969** - \"The Adventures of Gulliver\" (animated TV series, USA)\n- **1974** - \"Gulliver in the Country of Dwarfs\" (Hungary)\n- **1982** - \"Gulliver in Lilliput\" (UK)\n- **1992-1993** - \"Saban's Gulliver's Travels\" (Canada & France)\n\n### Modern Era\n- **1996** - \"Gulliver's Travels\" - Charles Sturridge's TV miniseries\n- **2010** - \"Gulliver's Travels\" - Rob Letterman's 3D live-action comedy starring Jack Black\n\n### Recent Productions\n- **2021** - \"Gulliver Returns\" (Ukrainian production, with an English version released in 2022)\n\n## Key Analysis\n\nThe search reveals that \"only a handful of American feature-length adaptations exists,\" with the major ones being the 1939 animated film, 1960's \"The 3 Worlds of Gulliver,\" 1996's miniseries, and 2010's Jack Black comedy. These \"adaptations predominantly share two qualities: reliance on the latest technology in visual effects, relatedly, and the prioritization of spectacle over plot\".\n\nMost film adaptations focus only on limited portions of Swift's work, \"essentially depicting a version of the children's book abridgements\" that \"focus solely on Part I, and occasionally also Part II, of Gulliver's Travels\".\n\nThis timeline spans over 120 years of adaptations, from the earliest 1902 French film using pioneering special effects to modern CGI and 3D productions, showing how each era has used contemporary technology to bring Swift's fantastical tale to life."
+    ],
+    "durationSeconds": 26.154160465000196
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "session_id": "62c63379-e312-4b2e-a73b-24b8927c6427",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/62c63379-e312-4b2e-a73b-24b8927c6427.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Harry Potter polska m\u0142odzie\u017c TikTok Instagram 2023 2024 polscy nastolatkowie opinie"
+  },
+  "tool_response": {
+    "query": "Harry Potter polska m\u0142odzie\u017c TikTok Instagram 2023 2024 polscy nastolatkowie opinie",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01KcTtBL6vfzZKw6tqCbM73k",
+        "content": [
+          {
+            "title": "20 lat Pottera w Polsce - Media-Rodzina",
+            "url": "https://www.mediarodzina.pl/aktualnosci/20-lat-pottera-w-polsce/"
+          },
+          {
+            "title": "TikTok - Make Your Day",
+            "url": "https://www.tiktok.com/@ciekawostki.harry.potter"
+          },
+          {
+            "title": "#harrypotter :: Wykop.pl",
+            "url": "https://wykop.pl/tag/harrypotter"
+          },
+          {
+            "title": "HARRY POTTER: THE EXHIBITION JU\u017b WKR\u00d3TCE W POLSCE | Harry Potter\u2122: The Exhibition",
+            "url": "https://harrypotterexhibition.com/press/harry-potter-the-exhibition-juz-wkrotce-w-polsce/"
+          },
+          {
+            "title": "Mieczys\u0142aw Mackiewicz (@doc_me4ik) \u2022 Instagram photos and videos",
+            "url": "https://www.instagram.com/doc_me4ik/reel/C4a4u8rIuOH/"
+          },
+          {
+            "title": "Polscy internauci na TikToku cztery godziny d\u0142u\u017cej ni\u017c na Facebooku. Zyskuj\u0105 te\u017c Pinterest i Snapchat",
+            "url": "https://www.wirtualnemedia.pl/m/artykul/tiktok-jak-korzystac-ile-ma-uzytkownikow-polska-facebook-instagram"
+          },
+          {
+            "title": "TikTok w liczbach. Najwa\u017cniejsze statystyki w 2023 roku! - widoczni",
+            "url": "https://widoczni.com/blog/statystyki-tiktok/"
+          },
+          {
+            "title": "Teen Social Media Trends: Instagram Leads Usage, TikTok Tops Popularity",
+            "url": "https://www.ecommercebridge.ie/teen-social-media-trends-instagram-leads-usage-tiktok-tops-popularity-3/"
+          },
+          {
+            "title": "TikTok Awards 2024: Polscy tw\u00f3rcy po raz pierwszy wyr\u00f3\u017cnieni",
+            "url": "https://goingapp.pl/more/tiktok-awards-2024-polska-nominacje/"
+          },
+          {
+            "title": "Ambitne plany nastolatek. Jak dorosn\u0105, chc\u0105 zosta\u0107 instagramerkami i tiktokerkami - ESKA.pl",
+            "url": "https://www.eska.pl/wiadomosci/ambitne-plany-nastolatek-jak-dorosna-chca-zostac-instagramerkami-i-tiktokerkami-aa-Bbjy-2Q4E-zi9M.html"
+          }
+        ]
+      },
+      "Based on the search results, I can see information about Harry Potter's popularity in Poland and Polish youth's engagement with social media platforms like TikTok and Instagram, though the specific connection between Harry Potter content and Polish teens on these platforms isn't extensively covered in these results. Here's what I found:\n\n## Polish Youth and Social Media Engagement\n\nNearly half of Polish girls (48%) aged 10-15 want to connect their future with the world of social media after finishing school, specifically wanting to become YouTubers, Instagrammers, and TikTokers, according to research conducted for Inspiring Girls Polska.\n\nPolish internet users spend an average of 4.5 hours more on TikTok than on Facebook, showing the platform's significant engagement among Polish users.\n\n## Harry Potter's Continued Popularity in Poland\n\nHarry Potter proved that \"the most difficult target according to researchers, namely teenagers, do read!\" when it was first published in Poland, revolutionizing youth literature consumption.\n\nThere's ongoing excitement about bringing Harry Potter: The Exhibition to Central Europe for the first time, with organizers specifically choosing Poland for the 2025 exhibition in Krakow.\n\n## Recent Developments\n\nTikTok Awards 2024 addressed creators who impressed users of the popular app across many fields, with Polish creators being recognized for the first time.\n\nThe search results suggest that while Polish youth are highly engaged with social media platforms like TikTok and Instagram, and Harry Potter remains culturally significant in Poland, there isn't extensive specific data about Polish teenagers' opinions on Harry Potter content specifically on these platforms for 2023-2024. The general trends show strong social media engagement among Polish youth and continuing Harry Potter cultural relevance in the country."
+    ],
+    "durationSeconds": 16.68685380899906
+  }
+}

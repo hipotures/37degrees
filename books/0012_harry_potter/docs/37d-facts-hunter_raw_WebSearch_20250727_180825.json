@@ -1,0 +1,62 @@
+{
+  "session_id": "62c63379-e312-4b2e-a73b-24b8927c6427",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/62c63379-e312-4b2e-a73b-24b8927c6427.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Harry Potter digital sources official websites social media verified accounts J.K. Rowling Wizarding World Pottermore"
+  },
+  "tool_response": {
+    "query": "Harry Potter digital sources official websites social media verified accounts J.K. Rowling Wizarding World Pottermore",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01UccBdyjYtVpqwxW3vnoYUQ",
+        "content": [
+          {
+            "title": "Pottermore - the digital heart of the Wizarding World - J.K. Rowling",
+            "url": "https://www.jkrowling.com/pottermore-digital-heart-wizarding-world/"
+          },
+          {
+            "title": "Harry Potter | Official home of Harry Potter, Hogwarts Sorting, and the Wizarding World",
+            "url": "https://www.harrypotter.com"
+          },
+          {
+            "title": "Wizarding World Digital - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Wizarding_World_Digital"
+          },
+          {
+            "title": "Harry Potter | J.K. Rowling Originals",
+            "url": "https://www.harrypotter.com/writing-by-jk-rowling"
+          },
+          {
+            "title": "Pottermore Shop - Pottermore Publishing",
+            "url": "https://shop.pottermore.com"
+          },
+          {
+            "title": "Pottermore | Harry Potter Wiki | Fandom",
+            "url": "https://harrypotter.fandom.com/wiki/Pottermore"
+          },
+          {
+            "title": "Pottermore Publishing - Digital Publisher of Harry Potter eBooks & audiobooks",
+            "url": "https://www.pottermorepublishing.com/"
+          },
+          {
+            "title": "How to transfer your Pottermore account to WizardingWorld.com",
+            "url": "https://bookstacked.com/popular/jk-rowling/harry-potter/how-to-transfer-your-pottermore-account-to-wizarding-world-digital/"
+          },
+          {
+            "title": "Harry Potter | Privacy",
+            "url": "https://www.harrypotter.com/privacy"
+          },
+          {
+            "title": "Harry Potter - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Harry_Potter"
+          }
+        ]
+      },
+      "Based on the search results, here's what I found about Harry Potter digital sources, official websites, social media verified accounts, and related properties:\n\n## Official Harry Potter Digital Sources\n\n### Primary Official Website\nHarryPotter.com is the official home of Harry Potter, Fantastic Beasts, and the Wizarding World, formerly known as Pottermore. Brought to you by Wizarding World Digital and its parent company Warner Bros. Entertainment Inc., delivering the latest news and official products from the Wizarding World and our partners.\n\n### Evolution of Digital Platforms\nThe Harry Potter digital landscape has undergone significant changes:\n\n1. **Pottermore (Original)**: Pottermore was an official Harry Potter website created by J. K. Rowling. It started in April 2012 as a joint venture by Rowling and Sony.\n\n2. **Wizarding World Digital**: Wizarding World Digital is a digital publishing, e-commerce, entertainment and news company, now trading as HarryPotter.com. It offers news, features, and articles as well as new and previously unreleased writing by J. K. Rowling regarding the Wizarding World.\n\n3. **Current Status**: Pottermore was available to the general public for free up until it was rebranded in 2019 as Wizarding World, which itself was rebranded to HarryPotter.com in 2024.\n\n### J.K. Rowling's Official Website\nThe new version of pottermore.com is an English-language site only and is a flexible and evolving digital platform for the Wizarding World.\n\n### Publishing Operations\nPottermore Publishing is the global digital audiobook and eBook publisher of J.K. Rowling's multi-million bestselling Harry Potter series and associated titles.\n\nNote: The Pottermore Shop has closed. Pottermore's publishing business continues to operate as before and its full range of publishing is available from a wide array eBook and audiobook retailers and to borrow from libraries globally.\n\n### Key Features Available\nThe current official site offers:\n- Discover your Hogwarts house, wand and Patronus, play quizzes, read features, and keep up to speed on the latest Wizarding World news.\n- Wizarding Passport\u2122: Account details including house, wand, patronus, etc., and linked partner data.\n\nThe search results provided comprehensive information about the official digital sources but did not return specific social media account information for verified Harry Potter or J.K. Rowling accounts. For the most current verified social media accounts, users would need to visit the official websites mentioned above, which typically link to their verified social media presence."
+    ],
+    "durationSeconds": 24.39414325599931
+  }
+}

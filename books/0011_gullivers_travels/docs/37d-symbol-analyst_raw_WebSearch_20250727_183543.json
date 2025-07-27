@@ -1,0 +1,62 @@
+{
+  "session_id": "028ac210-0cb7-4efc-a317-99c91e956ed9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/028ac210-0cb7-4efc-a317-99c91e956ed9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "TikTok hook first 3 seconds storytelling classic literature viral video structure 8 slides engagement"
+  },
+  "tool_response": {
+    "query": "TikTok hook first 3 seconds storytelling classic literature viral video structure 8 slides engagement",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01BZJhikaEwrepMAxgRcUZMB",
+        "content": [
+          {
+            "title": "50 TikTok Hook Ideas To Get Viral Videos - Digital Marketing Blog",
+            "url": "https://www.lyfemarketing.com/blog/tiktok-hook-ideas/"
+          },
+          {
+            "title": "The best TikTok hooks to boost views and engagement (with examples) | HeyOrca",
+            "url": "https://www.heyorca.com/blog/best-tiktok-hooks"
+          },
+          {
+            "title": "Top 14 TikTok Hooks for 84.3% More Engagement (2025)",
+            "url": "https://sendshort.ai/guides/tiktok-hooks/"
+          },
+          {
+            "title": "15 Ideas to Hook Audience on Your TikTok and Reels \u2013 Plann by Linktree",
+            "url": "https://www.plannthat.com/15-ideas-hook-audiences-tiktok-instagram-reels/"
+          },
+          {
+            "title": "The Art of TikTok Storytelling: Engaging Your Audience in 15 Seconds",
+            "url": "https://statuo.co.uk/blog/the-art-of-tiktok-storytelling-engaging-your-audience-in-15-seconds"
+          },
+          {
+            "title": "Tiktok",
+            "url": "https://ads.tiktok.com/business/library/Storytelling_Formats_One_Pager_SMB.pdf"
+          },
+          {
+            "title": "The 63 Best TikTok Hooks to Boost Engagement in 2024 | Munch",
+            "url": "https://www.getmunch.com/blog/tiktok-hooks"
+          },
+          {
+            "title": "What are the best ways to tell a story on TikTok?",
+            "url": "https://www.linkedin.com/advice/1/what-best-ways-tell-story-tiktok-skills-creator-economy-xkone"
+          },
+          {
+            "title": "Shortform Storytelling: Creating Impactful TikToks and Reels | Sophia Smith Galer | Skillshare",
+            "url": "https://www.skillshare.com/en/classes/shortform-storytelling-creating-impactful-tiktoks-and-reels/157758866"
+          },
+          {
+            "title": "How To Go Viral On TikTok Overnight | Proven Examples (2025)",
+            "url": "https://www.learningrevolution.net/viral-on-tiktok/"
+          }
+        ]
+      },
+      "Based on the search results, here's what I found about TikTok hooks, storytelling, and video structure for creating viral content:\n\n## The Critical First 3 Seconds\n\nResearch shows that 63% of videos with the highest click-through rate hook viewers in the first 3 seconds. Studies show that if your content doesn't engage users in the first three seconds, they'll move to the next video.\n\n## Key TikTok Hook Strategies\n\n### 1. Strong Opening Statements\nA good hook to start with for TikTok can be a thought-provoking question, a surprising statistic, a bold statement, or a compelling anecdote that immediately grabs the attention of viewers and makes them want to watch more.\n\n### 2. Visual and Audio Hooks\nTikTok hooks can be created using a headline (on-screen text) saying something intriguing, a sound, a physical action, or a combination of all three.\n\n### 3. Popular Hook Examples\n- \"You won't believe this\u2026\" \u2014 it's great because you don't need much editing after the hook\n- Question-based hooks that create curiosity\n- \"Stop scrolling\" direct call-outs\n- Before/after transformations\n\n## Storytelling Structure\n\n### Classic Three-Act Structure\nStart by determining the primary message or story you want to convey and break it down into a concise structure. Consider the three-act structure commonly used in storytelling... Condense each act into a few seconds, ensuring a smooth flow and progression in your video.\n\n### Optimal Video Length\nThe optimal TikTok video length is roughly between 21 to 34 seconds, though TikTok has since increased its video length to up to 3 minutes, being able to quickly engage your audience is essential in keeping their attention.\n\n## Viral Video Elements\n\n### Storytelling Approach\nStorytelling is one of the most effective ways to capture attention on TikTok. In fact, TikTok named \"Storytelling Unhinged\" as one of the top trends of 2024.\n\n### Content That Goes Viral\nContent that hooks viewers in the first 3 seconds, uses storytelling, high energy, and follows current trends or sounds is more likely to go viral. Clear, relatable, and emotionally resonant content performs best.\n\n## Engagement Techniques\n\n### Visual Elements\nVisual and auditory elements play a crucial role in TikTok storytelling. Leverage the platform's features such as filters, effects, and transitions to enhance your visual storytelling. Use engaging and eye-catching visuals that align with your brand aesthetic and message.\n\n### Interactive Elements\nEncourage user interaction by asking questions, creating polls, or inviting responses to continue the story in the comments or subsequent videos.\n\nWhile the search didn't return specific information about \"8 slides\" structure or classic literature adaptations for TikTok, the results provide comprehensive guidance on creating hooks within the critical first 3 seconds, storytelling techniques, and viral video structure that can be applied to any content theme, including literary adaptations."
+    ],
+    "durationSeconds": 24.088254744000732
+  }
+}

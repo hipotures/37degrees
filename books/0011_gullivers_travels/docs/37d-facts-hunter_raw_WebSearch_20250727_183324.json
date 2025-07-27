@@ -1,0 +1,62 @@
+{
+  "session_id": "028ac210-0cb7-4efc-a317-99c91e956ed9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/028ac210-0cb7-4efc-a317-99c91e956ed9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Podr\u00f3\u017ce Guliwera dla m\u0142odzie\u017cy polskie edukacja szko\u0142y \u015brednie gimnazjum liceum"
+  },
+  "tool_response": {
+    "query": "Podr\u00f3\u017ce Guliwera dla m\u0142odzie\u017cy polskie edukacja szko\u0142y \u015brednie gimnazjum liceum",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01GepSwRFDv1s7ZDtMFuzW5u",
+        "content": [
+          {
+            "title": "Podr\u00f3\u017ce Guliwera (Siedmior\u00f3g) w ksi\u0119garni Tuliszk\u00f3w",
+            "url": "https://ksiegarnia-tuliszkow.pl/podroze-guliwera-26"
+          },
+          {
+            "title": "(PDF) Domestykacja i uniwersalizacja w adaptacjach dla m\u0142odzie\u017cy: polskie i judeohiszpa\u0144skie \"Podr\u00f3\u017ce Guliwera\" (Domestication and Universalism ...",
+            "url": "https://www.academia.edu/35303100/Domestykacja_i_uniwersalizacja_w_adaptacjach_dla_m\u0142odzie\u017cy_polskie_i_judeohiszpa\u0144skie_Podr\u00f3\u017ce_Guliwera_Domestication_and_Universalism_in_Literature_Adapted_for_Children_Gulliver_s_travels_in_Polish_and_Ladino_"
+          },
+          {
+            "title": "(PDF) Domestykacja i uniwersalizacja w adaptacjach dla m\u0142odzie\u017cy: polskie i judeohiszpa\u0144skie Podr\u00f3\u017ce Guliwera Domestication and Universalism in Literature Adapted for Children: Gulliver\u2019s travels in Polish and Ladino",
+            "url": "https://www.researchgate.net/publication/336313133_Domestykacja_i_uniwersalizacja_w_adaptacjach_dla_mlodziezy_polskie_i_judeohiszpanskie_Podroze_Guliwera_Domestication_and_Universalism_in_Literature_Adapted_for_Children_Gulliver's_travels_in_Polish_an"
+          },
+          {
+            "title": "Podr\u00f3\u017ce Guliwera \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Podr\u00f3\u017ce_Guliwera"
+          },
+          {
+            "title": "Podr\u00f3\u017ce Guliwera ksi\u0105\u017cka w ksi\u0119garni TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/podroze-guliwera-p-1588219.html"
+          },
+          {
+            "title": "Podr\u00f3\u017ce Guliwera Jonathan Swift ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/podroze-guliwera-jonathan-swift"
+          },
+          {
+            "title": "Podr\u00f3\u017ce z klas\u0105 - Ministerstwo Edukacji Narodowej - Portal Gov.pl",
+            "url": "https://www.gov.pl/web/edukacja/podroze-z-klasa"
+          },
+          {
+            "title": "Podr\u00f3\u017ce Guliwera",
+            "url": "https://www.zielonasowa.pl/podroze-guliwera-14423.html"
+          },
+          {
+            "title": "Motyw: Szko\u0142a w utworze Podr\u00f3\u017ce Guliwera",
+            "url": "https://wolnelektury.pl/katalog/lektura/podroze-guliwera/motyw/szkola/"
+          },
+          {
+            "title": "Podr\u00f3\u017ce Guliwera - Streszczenie szczeg\u00f3\u0142owe - Jonathan Swift - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/jonathan-swift/podroze-guliwera.streszczenie-szczegolowe"
+          }
+        ]
+      },
+      "Based on my web search results, I found extensive information about \"Podr\u00f3\u017ce Guliwera\" (Gulliver's Travels) in the context of Polish education for secondary schools. Here's what I discovered:\n\n## Podr\u00f3\u017ce Guliwera w polskim systemie edukacji\n\nLektura dla szk\u00f3\u0142 \u015brednich. \"Podr\u00f3\u017ce Guliwera\" Jonathana Swifta to jedna z pozycji lekturowych w polskim systemie edukacji, szczeg\u00f3lnie na poziomie szk\u00f3\u0142 \u015brednich.\n\n### Charakterystyka utworu w kontek\u015bcie edukacyjnym\n\nPodr\u00f3\u017ce Guliwera s\u0105 o\u015bwieceniow\u0105 powie\u015bci\u0105 satyryczn\u0105 nale\u017c\u0105c\u0105 do \u015bcis\u0142ego kanonu i s\u0105 uwa\u017cane za pierwsz\u0105 w historii krytyk\u0119 czas\u00f3w nowo\u017cytnych, arcydzie\u0142o satyry spo\u0142ecznej i politycznej poddaj\u0105ce krytyce obyczajowo\u015b\u0107 spo\u0142ecze\u0144stwa, kt\u00f3rego jedynym drogowskazem sta\u0142a si\u0119 chytro\u015b\u0107 i pogo\u0144 za zyskiem.(no content)Powie\u015b\u0107 ta stanowi najbardziej znan\u0105 prac\u0119 Swifta, jest jednocze\u015bnie zaliczana do klasyki literatury angielskiej. W kontek\u015bcie edukacyjnym, Swift podda\u0142 krytyce obyczajowo\u015b\u0107 brytyjsk\u0105 pocz\u0105tku XVIII wieku (kompromitacja polityki, s\u0105downictwa, ustroju parlamentarnego, nauki, filozofii), atakowa\u0142 nietolerancj\u0119, pych\u0119, g\u0142upot\u0119, donosicielstwo, intrygi.\n\n### Adaptacje dla m\u0142odzie\u017cy\n\nSzczeg\u00f3lnie interesuj\u0105ce s\u0105 badania nad polskimi adaptacjami dla m\u0142odzie\u017cy. The paper presents a comparative study of two adaptations of Gulliver's travels which appeared at the turn of the 20th century in two different literary polysystems: a Polish adaptation by Aleksandra Callier (1908) and a Ladino adaptation by Alexandr Ben Ghiat.(no content)The analysis shows that the Polish version is strongly domesticated whereas the Ladino one stripped of most realia acquires a universal character.\n\n### Wydania edukacyjne\n\nSeria \u201eLiteratura klasyczna\" to zbi\u00f3r najpi\u0119kniejszych dzie\u0142 \u015bwiatowej literatury dla dzieci i m\u0142odzie\u017cy. Utw\u00f3r jest dost\u0119pny w r\u00f3\u017cnych wydaniach dostosowanych do r\u00f3\u017cnych grup wiekowych, w tym specjalnie przygotowanych dla m\u0142odzie\u017cy szkolnej.\n\n\"Podr\u00f3\u017ce Guliwera to lektura obowi\u0105zkowa dla ka\u017cdego. [...] M\u0142odzie\u017c, przy zachowaniu resztki rozs\u0105dku i rozumu, mo\u017ce wykorzysta\u0107 \u00f3w wiedz\u0119 zawart\u0105 w ksi\u0105\u017cce dla lepszego jutra.\"\n\nPodr\u00f3\u017ce Guliwera pozostaj\u0105 istotn\u0105 pozycj\u0105 w polskim kanonie lektur szkolnych, oferuj\u0105c m\u0142odzie\u017cy zar\u00f3wno warto\u015bci literackie, jak i mo\u017cliwo\u015b\u0107 refleksji nad uniwersalnymi problemami spo\u0142ecznymi i politycznymi."
+    ],
+    "durationSeconds": 26.440837557999416
+  }
+}

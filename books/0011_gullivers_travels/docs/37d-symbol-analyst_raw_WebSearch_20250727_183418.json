@@ -1,0 +1,62 @@
+{
+  "session_id": "028ac210-0cb7-4efc-a317-99c91e956ed9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/028ac210-0cb7-4efc-a317-99c91e956ed9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Polish youth culture 2025 memes slang TikTok trends Poland Gen Z interests"
+  },
+  "tool_response": {
+    "query": "Polish youth culture 2025 memes slang TikTok trends Poland Gen Z interests",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01CJappTdnLb3UxYoiFrstJw",
+        "content": [
+          {
+            "title": "From 'Sztos' to 'Wixy': 14 Polish Gen Z Slang Words You Need in Your Vocab | Culture",
+            "url": "https://www.wokewaves.com/posts/polish-gen-z-slang-guide"
+          },
+          {
+            "title": "How Gen Z fell for Poland's memes - UnHerd",
+            "url": "https://unherd.com/2024/11/how-gen-z-fell-for-polands-memes/?us"
+          },
+          {
+            "title": "Polish Memes | TikTok",
+            "url": "https://www.tiktok.com/channel/polish-memes?lang=en"
+          },
+          {
+            "title": "Nowy The Voice of Poland 2025",
+            "url": "https://www.tiktok.com/discover/nowy-the-voice-of-poland-2025"
+          },
+          {
+            "title": "The Ultimate List of Gen Z Slang You\u2019ll Hear in 2025",
+            "url": "https://www.sharkpapers.com/blog/genz-slang"
+          },
+          {
+            "title": "How to reach Polish millennials? - ALL 4 COMMS",
+            "url": "https://all4comms.com/how-to-reach-polish-millennials/"
+          },
+          {
+            "title": "Polish elections: TikTok overpromotes hard right content | Global Witness",
+            "url": "https://globalwitness.org/en/campaigns/digital-threats/tiktok-algorithm-recommends-twice-as-much-hard-right-content-to-users-ahead-of-polish-election/"
+          },
+          {
+            "title": "TikTok - Make Your Day",
+            "url": "https://www.tiktok.com/discover/meme-polnisch-2025"
+          },
+          {
+            "title": "Starter Pack Poland 2025",
+            "url": "https://www.tiktok.com/discover/starter-pack-poland-2025"
+          },
+          {
+            "title": "Poland on 14th Place at Eurovision 2025",
+            "url": "https://www.tiktok.com/en/trending/detail/poland-on-14th-place-at-eurovision-2025"
+          }
+        ]
+      },
+      "Based on the search results, I found some interesting information about Polish youth culture, memes, slang, and TikTok trends in 2025. Here's what the search revealed:\n\n## Polish Gen Z Slang and Language Trends\n\nPolish Gen Z has created their own fresh lingo that's all about humor, attitude, and simplicity, used from casual conversations to TikTok trends. Some popular Polish Gen Z slang terms include:\n\n- **Sztos**: If something's sztos, it's amazing or awesome - perfect slang to describe something that completely blew your mind\n- **Bekowy**: If something's bekowy, it's hilarious - Polish Gen Z loves using bekowy to describe funny moments, memes, or even people who have a great sense of humor\n- **Dymy**: Dymy literally means \"smoke,\" but it's used to describe drama or conflict - when there's drama going down or tensions are high, Polish Gen Z calls it dymy\n\n## Polish Memes and Internet Culture\n\nPoland has gained significant online cultural influence, particularly through memes. The \"Kurwa b\u00f3br!\" (roughly \"Fuck, a beaver!\") meme shot to wider fame in 2023, when a video of such an encounter gained 30 million views on TikTok. Polish users on forums like 4chan pioneered memes like Polandball and Wojak, the \"feels guy\" that continues to dominate the internet today.\n\n## Gen Z's Discovery of Poland\n\nPoland has secured a new and unlikely online audience: Gen Z. This was influenced by several factors:\n\n- The release of \"Poland,\" a hit song by rapper Lil Yachty in November 2022, which went viral due to fortunate timing or the absurdism of the codeine-fueled hip hop anthem\n- YouTuber and streamer IShowSpeed visited Poland during a transatlantic tour, declaring it \"low-key the best country in Europe\"\n- Gen Z memes mocking IShowSpeed's run-ins with the intricacies of the Polish language have spread like wildfire\n\n## TikTok Presence and Trends\n\nThere are 68M posts related to Polish Memes on TikTok, showing the significant presence of Polish content on the platform. The platform features various Polish meme content including references to Polish culture, language difficulties, and cultural stereotypes.\n\n## General Gen Z Social Media Behavior\n\nGen Z's slang is shaped by social media platforms like TikTok, Twitter, and Instagram that help spread slang quickly - a new trend can catch on in hours. Gen Z loves irony and jokes, with memes being a major source of new slang that spreads fast.\n\nThe search reveals that Polish youth culture in 2025 is characterized by unique slang terms, viral memes that have gained international attention, and a growing presence on platforms like TikTok, where Polish content and culture have found unexpected popularity among global Gen Z audiences."
+    ],
+    "durationSeconds": 24.757700508998706
+  }
+}

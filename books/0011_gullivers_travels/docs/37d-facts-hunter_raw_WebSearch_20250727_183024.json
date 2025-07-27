@@ -1,0 +1,62 @@
+{
+  "session_id": "028ac210-0cb7-4efc-a317-99c91e956ed9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/028ac210-0cb7-4efc-a317-99c91e956ed9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Jonathan Swift Gulliver's Travels 1726 original manuscript primary sources academic research"
+  },
+  "tool_response": {
+    "query": "Jonathan Swift Gulliver's Travels 1726 original manuscript primary sources academic research",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01VHavgfn3yuorHE2MdwBZ9R",
+        "content": [
+          {
+            "title": "Library Resources - Gulliver's Travels (1726) - LibGuides at Anne Arundel Community College",
+            "url": "https://libguides.aacc.edu/gulliverstravels"
+          },
+          {
+            "title": "Gulliver's Travels - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Gulliver's_Travels"
+          },
+          {
+            "title": "Gulliver's travels, and other writings : Swift, Jonathan, 1667-1745 : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/gulliverstravels0000unse_k0u3"
+          },
+          {
+            "title": "Gulliver\u2019s Travels | Project Gutenberg",
+            "url": "https://www.gutenberg.org/files/829/829-h/829-h.htm"
+          },
+          {
+            "title": "Gulliver\u2019s Travels | Summary, Characters, Analysis, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/Gullivers-Travels"
+          },
+          {
+            "title": "Gulliver\u2019s Travels : Swift, Jonathan : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/in.ernet.dli.2015.463035"
+          },
+          {
+            "title": "(PDF) Diminution and Magnification: Gothic Images in Jonathan Swift's Gulliver's Travels (1726)",
+            "url": "https://www.researchgate.net/publication/320807635_Diminution_and_Magnification_Gothic_Images_in_Jonathan_Swift's_Gulliver's_Travels_1726"
+          },
+          {
+            "title": "Gulliver's Travels, by Jonathan Swift (work) | The Online Books Page",
+            "url": "https://onlinebooks.library.upenn.edu/webbin/work?id=olbp101195"
+          },
+          {
+            "title": "Swift, Gulliver's Travels, First Edition - AbeBooks",
+            "url": "https://www.abebooks.com/servlet/SearchResults?an=Swift&bi=0&bx=off&ds=30&fe=on&kn=Gulliver's+Travels&pics=on&prl=50&recentlyadded=all&sortby=1&x=53&y=2"
+          },
+          {
+            "title": "Gulliver's Travels | Jonathan Swift | Lit2Go ETC",
+            "url": "https://etc.usf.edu/lit2go/177/gullivers-travels/"
+          }
+        ]
+      },
+      "Based on your search query about Jonathan Swift's *Gulliver's Travels* from 1726, I found several relevant sources for manuscript information and academic research. Here are the key findings:\n\n## Original 1726 Publication and Manuscript Information\n\nBy August 1725 the book was complete; and as Gulliver's Travels was a transparently anti-Whig satire, it is likely that Swift had the manuscript copied so that his handwriting could not be used as evidence if a prosecution should arise. In March 1726 Swift travelled to London to have his work published; the manuscript was secretly delivered to the publisher Benjamin Motte.\n\nThe first edition was released in two volumes on 28 October 1726, and was first published in 1726 by Benjamin Motte under the title \"Travels into Several Remote Nations of the World\".\n\n## Manuscript History and Primary Sources\n\nAn important detail about the original manuscript: \"I hear the original manuscript is all destroyed since the publication of my book; neither have I any copy left\" - this appears in the fictional \"Letter from Captain Gulliver to his Cousin Sympson\" included in later editions.\n\nThe copytext is based on the 1726 edition with emendations and additions from later texts and manuscripts in modern scholarly editions.\n\n## Academic Research Resources\n\nFor academic research, several important resources are available:\n\n1. **Digital Archives**: The Internet Archive contains multiple digitized versions of *Gulliver's Travels* including a 1726 edition from the Digital Library of India.\n\n2. **Scholarly Editions**: Modern critical editions like the Norton and Oxford editions provide introductions and notes by scholars like Robert DeMaria Jr., Claude Rawson, and Ian Higgins.\n\n3. **Academic Analysis**: Recent academic papers study techniques in Jonathan Swift's Gulliver's Travels (1726) including diminution and magnification as influential devices.\n\n4. **Rare Book Collections**: First edition copies from 1726 printed by Benjamin Motte are available in rare book collections, described as \"one of the scarcest and most desirable books in all of English literature\".\n\nThe composition timeline shows composition proper began in 1720 with Parts I and II written first, Part IV next in 1723 and Part III written in 1724."
+    ],
+    "durationSeconds": 22.116206849001347
+  }
+}

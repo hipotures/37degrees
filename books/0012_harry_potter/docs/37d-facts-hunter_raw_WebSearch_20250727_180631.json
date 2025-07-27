@@ -1,0 +1,62 @@
+{
+  "session_id": "62c63379-e312-4b2e-a73b-24b8927c6427",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/62c63379-e312-4b2e-a73b-24b8927c6427.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Harry Potter film series box office revenue success casting Daniel Radcliffe Emma Watson"
+  },
+  "tool_response": {
+    "query": "Harry Potter film series box office revenue success casting Daniel Radcliffe Emma Watson",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01WgSr2pL5NCetKLqjndxUbQ",
+        "content": [
+          {
+            "title": "How Much The Harry Potter Cast Was Paid At The Beginning & End",
+            "url": "https://screenrant.com/harry-potter-movies-cast-actors-salary-how-much/"
+          },
+          {
+            "title": "How Much Daniel Radcliffe, Emma Watson, and Rupert Grint Made From All 8 Harry Potter Movies",
+            "url": "https://fandomwire.com/how-much-daniel-radcliffe-emma-watson-and-rupert-grint-made-from-all-8-harry-potter-movies/"
+          },
+          {
+            "title": "How Much Did Harry Potter Trio Really Make? Daniel Radcliffe, Emma Watson & Rupert Grint\u2019s Earnings Will Shock You!",
+            "url": "https://www.koimoi.com/hollywood-news/how-much-did-harry-potter-trio-really-make-daniel-radcliffe-emma-watson-rupert-grints-earnings-will-shock-you/"
+          },
+          {
+            "title": "'Harry Potter' Cast Net Worth: Is Daniel Radcliffe, Emma Watson, Or Rupert Grint The Richest?",
+            "url": "https://www.bustle.com/entertainment/harry-potter-cast-net-worth-daniel-radcliffe-emma-watson-rupert-grint"
+          },
+          {
+            "title": "Daniel Radcliffe's Earnings from Harry Potter: A Detailed Breakdown",
+            "url": "https://starsnetprofile.net/daniel-radcliffe-earnings-from-harry-potter/"
+          },
+          {
+            "title": "Daniel Radcliffe\u2019s Earnings from Harry Potter Films",
+            "url": "https://www.finance-monthly.com/how-much-did-daniel-radcliffe-earn-from-the-harry-potter-movies/"
+          },
+          {
+            "title": "Harry Potter's OG Star Cast: Know How Much Daniel Radcliffe, Emma Watson And Rupert Grint Got Paid?",
+            "url": "https://www.bollywoodshaadis.com/articles/know-how-much-the-og-star-cast-of-harry-potter-got-paid-64076"
+          },
+          {
+            "title": "Harry Potter: The Highest Paid Actors (And How Much They're Worth)",
+            "url": "https://www.thethings.com/harry-potter-actors-net-worth-daniel-radcliffe-emma-watson-rupert-grint/"
+          },
+          {
+            "title": "The Harry Potter cast became millionaires from the multi-billion pound franchise",
+            "url": "https://www.nationalworld.com/culture/film/harry-potter-cast-net-worth-stars-daniel-radcliffe-movie-franchise-4110840"
+          },
+          {
+            "title": "How Much a Young 'Harry Potter' Cast Got Paid for Their Role as Harry, Hermione, and Ron",
+            "url": "https://fandomwire.com/how-much-a-young-harry-potter-cast-got-paid-for-their-role-as-harry-hermione-and-ron/"
+          }
+        ]
+      },
+      "I've performed the web search for information about the Harry Potter film series box office revenue success and the casting of Daniel Radcliffe and Emma Watson. Here are the key findings:\n\n## Box Office Success\nThe Harry Potter franchise has made over $9.5 billion worldwide for Warner Bros., making it one of the highest-grossing movie series of all time, trailing only behind Marvel Cinematic Universe and Star Wars in box office earnings. The films made over $9.66 billion globally, with Harry Potter and the Deathly Hallows \u2013 Part 2 earning over $1.34 billion on its own.\n\n## Daniel Radcliffe's Earnings\nDaniel Radcliffe started with $1 million for Harry Potter and the Sorcerer's Stone when he was 11 years old. For The Deathly Hallows Part 1 and Part 2, filmed back-to-back, Radcliffe earned a jaw-dropping $50 million combined. When all eight movies wrapped up, Radcliffe had pocketed an eye-watering $109 million in total from the series alone.\n\nHis salary progression through the films was:\n- $1 million for Sorcerer's Stone\n- $6 million for Prisoner of Azkaban and $11 million for Goblet of Fire\n- $24 million for Half-Blood Prince\n- $50 million combined for the two-part Deathly Hallows finale\n\n## Emma Watson's Earnings\nEmma Watson was just 10 years old when she joined the Harry Potter world, and while she made under $1 million for her first movie, her earnings grew alongside her character's reputation. By the time The Order of the Phoenix rolled around, Watson was taking home $4 million.(no content)Emma Watson reportedly earned $60 million across the series for her role as Hermione Granger. Some sources suggest she earned $30 million for her performance in the two-part Harry Potter finale, the same as Rupert Grint.\n\n## Casting Success\nThe long-running series brought together Radcliffe, Rupert Grint, and Emma Watson, who rose to fame and consequently saw their salaries rise as the series progressed. Based on J.K. Rowling's bestselling books, Harry Potter witnessed the blooming of Harry (Radcliffe), Ron (Grint), and Hermione's (Watson) friendship at Hogwarts.(no content)At the heart of the magical saga were three young actors\u2014Daniel Radcliffe, Emma Watson, and Rupert Grint\u2014who brought to life the iconic characters. The franchise couldn't have cast a more talented and perfect ensemble, and their roles catapulted them to global fame.\n\nThe search reveals that the Harry Potter franchise was an enormous financial success, grossing nearly $10 billion worldwide, and the main cast members, particularly Daniel Radcliffe and Emma Watson, earned substantial fortunes from their roles, with their salaries increasing dramatically as the series progressed and became more successful."
+    ],
+    "durationSeconds": 23.459979013999924
+  }
+}

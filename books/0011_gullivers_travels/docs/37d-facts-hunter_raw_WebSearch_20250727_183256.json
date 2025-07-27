@@ -1,0 +1,62 @@
+{
+  "session_id": "028ac210-0cb7-4efc-a317-99c91e956ed9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/028ac210-0cb7-4efc-a317-99c91e956ed9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Podr\u00f3\u017ce Guliwera\" Polish criticism literary analysis Swift symbolism polska krytyka literacka"
+  },
+  "tool_response": {
+    "query": "\"Podr\u00f3\u017ce Guliwera\" Polish criticism literary analysis Swift symbolism polska krytyka literacka",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_014bgVFktFprtPkC2FN34HUZ",
+        "content": [
+          {
+            "title": "Podr\u00f3\u017ce Guliwera \u2013 interpretacja",
+            "url": "https://eszkola.pl/jezyk-polski/interpretacja-941.html"
+          },
+          {
+            "title": "(PDF) Domestykacja i uniwersalizacja w adaptacjach dla m\u0142odzie\u017cy: polskie i judeohiszpa\u0144skie \"Podr\u00f3\u017ce Guliwera\" (Domestication and Universalism ...",
+            "url": "https://www.academia.edu/35303100/Domestykacja_i_uniwersalizacja_w_adaptacjach_dla_m\u0142odzie\u017cy_polskie_i_judeohiszpa\u0144skie_Podr\u00f3\u017ce_Guliwera_Domestication_and_Universalism_in_Literature_Adapted_for_Children_Gulliver_s_travels_in_Polish_and_Ladino_"
+          },
+          {
+            "title": "Podr\u00f3\u017ce Guliwera \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Podr\u00f3\u017ce_Guliwera"
+          },
+          {
+            "title": "Podr\u00f3\u017ce Guliwera",
+            "url": "https://wolnelektury.pl/katalog/lektura/podroze-guliwera/"
+          },
+          {
+            "title": "Domestykacja i uniwersalizacja w adaptacjach dla m\u0142odzie\u017cy: polskie i judeohiszpa\u0144skie \u201ePodr\u00f3\u017ce Guliwera\u201d",
+            "url": "https://www.journals.polon.uw.edu.pl/index.php/pfl/article/view/80"
+          },
+          {
+            "title": "Kwestia skali | Jonathan Swift, Podr\u00f3\u017ce do wielu odleg\u0142ych narod\u00f3w \u015bwiata | 355 lat temu urodzi\u0142 si\u0119 autor \u201eGuliwera\u201d",
+            "url": "https://zupelnieinnaopowiesc.com/2022/11/30/kwestia-skali-jonathan-swift-podroze-do-wielu-odleglych-narodow-swiata-355-lat-temu-urodzil-sie-autor-guliwera-1/"
+          },
+          {
+            "title": "Jonathan Swift \u201ePodr\u00f3\u017ce Guliwera\u201d - motyw utopii - opracowanie",
+            "url": "https://wypracowania24.pl/jezyk-polski/9475/jonathan-swift-podroze-guliwera"
+          },
+          {
+            "title": "Krytyka totalna Swifta | Niebieska Papu\u017cka",
+            "url": "https://niebieskapapuzka.wordpress.com/2017/04/06/krytyka-totalna-swifta/"
+          },
+          {
+            "title": "\"Podr\u00f3\u017ce Guliwera\" dla doros\u0142ych. \"Po tej ksi\u0105\u017cce cz\u0142owiek nie b\u0119dzie spokojny\" - Historia - PR24.PL",
+            "url": "https://polskieradio24.pl/artykul/3078389,podroze-guliwera-dla-doroslych-po-tej-ksiazce-czlowiek-nie-bedzie-spokojny"
+          },
+          {
+            "title": "Podr\u00f3\u017ce Guliwera (Siedmior\u00f3g) w ksi\u0119garni Tuliszk\u00f3w",
+            "url": "https://ksiegarnia-tuliszkow.pl/podroze-guliwera-26"
+          }
+        ]
+      },
+      "I've found comprehensive information about Polish literary criticism and analysis of Swift's \"Gulliver's Travels\" (Podr\u00f3\u017ce Guliwera). The search results provide insights into how Polish critics and scholars have interpreted this work. Here's what I found:\n\n## Polish Critical Analysis of \"Gulliver's Travels\"\n\nThe search results reveal extensive Polish scholarship on Swift's work, focusing on several key areas:\n\n### Literary Genre and Interpretation\n\nPolish critics view \"Podr\u00f3\u017ce Guliwera\" as a work combining travel novel, fantasy novel, and satire. Under the guise of fantasy lies a deeper message, as Swift gives the described societies and states features of European civilization.\n\n### Symbolism and Satirical Elements\n\nPolish literary criticism emphasizes the symbolic nature of Swift's work. The actions of rulers encountered by Gulliver resemble the actions of eighteenth-century monarchs - surrounding themselves with flatterers, conquering weaker communities, subjecting subjects to irrational decrees, bloody fights between domestic factions.\n\n\"Podr\u00f3\u017ce Guliwera\" are an allegorical work, meaning one whose literal content hides hidden meanings and ideas. It's an ironic-satirical text that, despite being fictional, suggests an impression of probability through first-person writing in diary form.\n\n### Contemporary Relevance and Universal Themes\n\nPolish scholars emphasize the work's enduring relevance. According to literary scholars, Swift's story, despite being created almost three centuries ago, remains current because it contains a universal message hidden under fantastic stories - successive generations find their own anxieties and problems in it.\n\nDressed in the costume of satire, lined with unfathomable layers of grotesque, \"Gulliver's Travels\" by Jonathan Swift shows an unflattering image of man and society that remains as clear and current today as it was at the time of publication.\n\n### Critical Reception and Analysis\n\nPolish critics recognize that \"Gulliver's Travels\" is not only a classic of English literature and one of the first travel novels, but also a parody of this type of novel and an excellent, very sharp satire that hits the sensitive point of human nature - the work is like a weapon aimed at human nature, and the author's total criticism is something fascinating.\n\n### Academic Studies\n\nThere have been specific Polish academic studies, including comparative research on adaptations of Gulliver's Travels published at the turn of the 20th century, examining linguistic, narratological, and genre-related issues as well as representation of the world and domestication.\n\nThe Polish critical tradition clearly recognizes Swift's masterpiece as a complex satirical work that transcends simple adventure narrative to offer profound commentary on human nature and society."
+    ],
+    "durationSeconds": 23.612131985999643
+  }
+}

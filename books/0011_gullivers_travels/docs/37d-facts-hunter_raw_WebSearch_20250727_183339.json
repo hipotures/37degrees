@@ -1,0 +1,62 @@
+{
+  "session_id": "028ac210-0cb7-4efc-a317-99c91e956ed9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/028ac210-0cb7-4efc-a317-99c91e956ed9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "interactive storytelling choose your own adventure TikTok AR filters size changing apps gamification literature"
+  },
+  "tool_response": {
+    "query": "interactive storytelling choose your own adventure TikTok AR filters size changing apps gamification literature",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01MVXk3bpNYMxVZkE9u6L5AM",
+        "content": [
+          {
+            "title": "Interactive storytelling: gamification and storytelling marketing",
+            "url": "https://dmexco.com/stories/interactive-storytelling-gamification-and-storytelling-marketing/"
+          },
+          {
+            "title": "TikTok Story Selection: The new interactive format - Adsmurai",
+            "url": "https://www.adsmurai.com/en/articles/tiktok-story-selection"
+          },
+          {
+            "title": "These Interactive TikTok Filters Make It So Easy To Get In On All The Action",
+            "url": "https://www.elitedaily.com/p/heres-how-to-use-interactive-tiktok-filters-to-get-in-on-all-the-action-22842876"
+          },
+          {
+            "title": "About Story Selection ad specifications | TikTok Ads Manager",
+            "url": "https://ads.tiktok.com/help/article/about-tiktok-interactive-add-on-story-selection?lang=en"
+          },
+          {
+            "title": "INTERACTIVE STORYTELLING, GAMIFICATION, AND ONLINE EDUCATION: STORYTELLING MADE EASY - IJIOE",
+            "url": "https://onlineinnovationsjournal.com/streams/course-design-and-development/2f91cac216403cd1.html"
+          },
+          {
+            "title": "Interactive fiction - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Interactive_fiction"
+          },
+          {
+            "title": "TikTok experiential marketing: How to Create Immersive and Interactive Experiences on TikTok: Filters: Effects: and AR - FasterCapital",
+            "url": "https://fastercapital.com/content/TikTok-experiential-marketing--How-to-Create-Immersive-and-Interactive-Experiences-on-TikTok--Filters--Effects--and-AR.html"
+          },
+          {
+            "title": "TikTok Effect House",
+            "url": "https://effecthouse.tiktok.com/"
+          },
+          {
+            "title": "About Interactive Add-On: Story Selection",
+            "url": "https://ads.tiktok.com/help/article/about-interactive-add-on-story-selection?lang=en"
+          },
+          {
+            "title": "Interactive Storytelling Techniques - FasterCapital",
+            "url": "https://fastercapital.com/topics/interactive-storytelling-techniques.html"
+          }
+        ]
+      },
+      "I've performed the web search for your query about interactive storytelling, choose your own adventure, TikTok AR filters, size changing apps, gamification, and literature. Here's what I found:\n\n## Interactive Storytelling & Choose Your Own Adventure\n\nChoose Your Own Adventure-type narratives allow users to decide how the story develops, harnessing the power of interactive stories in which users' decisions shape the narrative. This technique allows the audience to make choices that affect the outcome of the story, creating a more intense brand experience and strengthening brand identification.\n\n## TikTok Interactive Features\n\nTikTok has introduced several interactive storytelling formats:\n\n### Story Selection\nTikTok's Story Selection is a new interactive format introduced by the platform to strengthen relationships between brands and creators. Story Selection is an interactive add-on that provides a story-selection function for in-feed ads and lets audiences choose the next video that they want to watch. The Story Selection format invites users to interactively participate in the development of an ad's story.\n\n### AR Filters and Effects\nTikTok's interactive filters work similarly to some of the augmented reality (AR) filters you may have seen trending on Snapchat and Instagram. Some of these filters include the popular AR predictor filters, interactive games, or moving filters that are customizable. TikTok Effect House allows creators to create imaginary worlds, virtual characters, games, filters, sounds, and more, including full, interactive effects in just a few clicks.\n\n## Gamification in Storytelling\n\nInteractive storytelling combines gamification and storytelling marketing to create immersive brand experiences that foster connections and strengthen long-term brand loyalty. Gamification introduces gamelike capabilities into traditional venues, with video games permitting solving puzzles, engaging play in simulated venues that provide challenges.\n\n## Educational Applications\n\nNonlinear storytelling with gamification can dramatically improve learning in online education. Through personalized narratives, emotional connections, gamification, and collaborative features, edutainment startups are harnessing the power of storytelling to make education more enjoyable, effective, and impactful.\n\n## Literary Context\n\nInteractive fiction can refer to literary works that are not read in a linear fashion, known as gamebooks, where the reader is instead given choices at different points in the text. The most famous example of this form of printed fiction is the Choose Your Own Adventure book series.\n\nThe search revealed a rich ecosystem of interactive storytelling tools and techniques spanning from traditional literature to modern social media platforms, with particular emphasis on how TikTok is innovating in this space through AR filters and interactive ad formats."
+    ],
+    "durationSeconds": 23.72163317800127
+  }
+}

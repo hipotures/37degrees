@@ -1,0 +1,62 @@
+{
+  "session_id": "62c63379-e312-4b2e-a73b-24b8927c6427",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/62c63379-e312-4b2e-a73b-24b8927c6427.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Harry Potter book sales 600 million copies worldwide 2023 2024 statistics"
+  },
+  "tool_response": {
+    "query": "Harry Potter book sales 600 million copies worldwide 2023 2024 statistics",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01GYDghwu5whsQhaT58r5fjg",
+        "content": [
+          {
+            "title": "List of best-selling books - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/List_of_best-selling_books"
+          },
+          {
+            "title": "Harry Potter | 500 million Harry Potter books have now been sold worldwide | Wizarding World",
+            "url": "https://www.harrypotter.com/news/500-million-harry-potter-books-have-now-been-sold-worldwide"
+          },
+          {
+            "title": "The British publisher behind the 'Harry Potter' series had record sales and profits last year, proving physical books and loyal fans can still make big money | Fortune Europe",
+            "url": "https://fortune.com/europe/2024/05/30/book-publisher-bloomsbury-harry-potter-sarah-j-maas-record-sales-profits-fans-booktok/"
+          },
+          {
+            "title": "Harry Potter Facts and Statistics for 2024",
+            "url": "https://expandedramblings.com/index.php/harry-potter-statistics-facts/"
+          },
+          {
+            "title": "UPDATE: \u2018Harry Potter\u2019 Series Un-Cancelable Despite J.K. Rowling, Sales Up Millions",
+            "url": "https://insidethemagic.net/2024/01/harry-potter-series-un-cancelable-despite-j-k-rowling-sales-up-millions-nk1/"
+          },
+          {
+            "title": "Scholastic marks 25 Year Anniversary of the publication of J.K. Rowling's Harry Potter and the Sorcerer's Stone",
+            "url": "https://www.therowlinglibrary.com/2023/02/06/scholastic-marks-25-year-anniversary-of-the-publication-of-j-k-rowlings-harry-potter-and-the-sorcerers-stone/"
+          },
+          {
+            "title": "Harry Potter unit sales 2018 | Statista",
+            "url": "https://www.statista.com/statistics/589978/harry-potter-book-sales/"
+          },
+          {
+            "title": "Harry Potter books stats and facts \u2013 WordsRated",
+            "url": "https://wordsrated.com/harry-potter-stats/"
+          },
+          {
+            "title": "Harry Potter World 20 Years On | Book Sales, Franchise Total Income and Stats",
+            "url": "https://www.movavi.io/harry-potter-2/"
+          },
+          {
+            "title": "Scholastic Marks 25 Year Anniversary of The Publication Of J.K. Rowling\u2019s Harry Potter and the Sorcerer\u2019s Stone",
+            "url": "https://mediaroom.scholastic.com/press-release/scholastic-marks-25-year-anniversary-publication-jk-rowling-s-harry-potter-and-sorcere"
+          }
+        ]
+      },
+      "Based on the search results, here are the key statistics about Harry Potter book sales and the 600 million copies milestone:\n\n## Harry Potter Global Sales Statistics\n\nHarry Potter has sold more than 600 million copies worldwide, making it the best-selling book series in history. This milestone represents a significant increase from earlier figures.\n\n### Recent Sales Progression:\n- As of August 2018, 500 million Harry Potter books had sold worldwide\n- By 2019, the series reached 500 million books sold worldwide in 80 languages\n- By 2023, the series had reached 600 million copies sold worldwide\n\n### Regional Breakdown:\n- 230 million copies sold in the U.S.\n- 180 million copies were sold in the United States as of 2018\n\n### Recent Performance (2023-2024):\nDigital Harry Potter book sales through Pottermore jumped to $61.4 million in the last fiscal year, up from $48.26 million the previous year. Additionally, traditional book sales via Bloomsbury increased 15% in 2023.\n\n### Publishing Details:\n- The series has been published in 85 languages\n- The first novel, Harry Potter and the Philosopher's Stone, has sold over 120 million copies\n- The books have been listened to as audiobooks for over one billion hours\n\nThe 600 million figure represents the most current available data from 2023 sources, showing continued strong performance for the franchise well into the 2020s."
+    ],
+    "durationSeconds": 15.053055617999286
+  }
+}

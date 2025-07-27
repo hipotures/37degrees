@@ -1,0 +1,154 @@
+{
+  "session_id": "62c63379-e312-4b2e-a73b-24b8927c6427",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/62c63379-e312-4b2e-a73b-24b8927c6427.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Harry Potter symbolism analysis Poland Polish teens youth TikTok social media interpretation symbols"
+  },
+  "tool_response": {
+    "query": "Harry Potter symbolism analysis Poland Polish teens youth TikTok social media interpretation symbols",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_012fijQS28Si4Ca9n1AVnnp4",
+        "content": [
+          {
+            "title": "Harry Potter but in Poland #harrypotter #ai #poland\ud83c\uddf5\ud83c\uddf1 #polish #easterneuropean #midjourney #adidas #ai  | TikTok",
+            "url": "https://www.tiktok.com/@swoleai/video/7245238100413238555"
+          },
+          {
+            "title": "Harry Potter Polish Edition #faisalkawusi #harrypotter #harrypotterpolska #harrypotterpolish #harrypotterpoland #harrypotteredit  | TikTok",
+            "url": "https://www.tiktok.com/@faisal_kawusi/video/7348858792240549152?lang=en"
+          },
+          {
+            "title": "Traditional Symbols in Harry Potter and Cormoran Strike: A Perennialist View",
+            "url": "https://hogwartsprofessor.substack.com/p/traditional-symbols-in-harry-potter"
+          },
+          {
+            "title": "Harry Potter Polish",
+            "url": "https://www.tiktok.com/discover/harry-potter-polish"
+          },
+          {
+            "title": "The Symbols and Images Used in Harry Potter | ZenBusiness",
+            "url": "https://www.zenbusiness.com/blog/branding-lessons-from-harry-potter/"
+          },
+          {
+            "title": "Harry Potter But Polish",
+            "url": "https://www.tiktok.com/discover/harry-potter-but-polish"
+          },
+          {
+            "title": "Iconoclasm in Harry Potter: A Political Symbolism Analysis",
+            "url": "https://www.tiktok.com/@_theiconoclass/video/6888076809208974593"
+          },
+          {
+            "title": "Polish Harry Potter (short version) #faisalkawusi #harrypotter #harrypotterpolska #harrypotterpolish #harrypotterpoland #harrypotteredit | TikTok",
+            "url": "https://www.tiktok.com/@faisal_kawusi/video/7361534113083346208"
+          },
+          {
+            "title": "Harry Potter - Wands and Spells: Hogwarts in Poland",
+            "url": "https://www.tiktok.com/@ech0l0kacja/video/7323968323161460001"
+          },
+          {
+            "title": "Harry potter poland",
+            "url": "https://www.tiktok.com/discover/Harry-potter-poland"
+          }
+        ]
+      },
+      "The search results primarily show TikTok videos about Polish-themed Harry Potter content, but don't contain much detailed analysis about symbolism interpretation by Polish teens. Let me search for more specific academic or analytical content about this topic.",
+      {
+        "tool_use_id": "srvtoolu_01QtsoUiGm3u6QgeGKJUMaQ2",
+        "content": [
+          {
+            "title": "(PDF) Reading Harry Potter: Popular Culture, Queer Theory and The Fashioning of Youth Identity",
+            "url": "https://www.researchgate.net/publication/247839284_Reading_Harry_Potter_Popular_Culture_Queer_Theory_and_The_Fashioning_of_Youth_Identity"
+          },
+          {
+            "title": "Analysis of the Themes, Motifs and Symbols in Harry Potter and the Sorcerer's Stone",
+            "url": "https://potter-scarpnotes.djmed.net/sorcerers/hpscarpthemes1.html"
+          },
+          {
+            "title": "Politics of Harry Potter - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Politics_of_Harry_Potter"
+          },
+          {
+            "title": "Harry Potter and the Chamber of Secrets Symbols, Allegory and Motifs | GradeSaver",
+            "url": "https://www.gradesaver.com/harry-potter-and-the-chamber-of-secrets/study-guide/symbols-allegory-motifs"
+          },
+          {
+            "title": "Symbolism in Harry Potter: A Deep Dive",
+            "url": "https://bookbrio.com/glossario/symbolism-in-harry-potter-analysis-and-interpretation/"
+          },
+          {
+            "title": "The best of Harry Potter [according to muggles on social media]",
+            "url": "https://awario.com/blog/harry-potter-social-listening-analysis/"
+          },
+          {
+            "title": "Polish Harry Potter (short version) #faisalkawusi #harrypotter #harrypotterpolska #harrypotterpolish #harrypotterpoland #harrypotteredit | TikTok",
+            "url": "https://www.tiktok.com/@faisal_kawusi/video/7361534113083346208"
+          },
+          {
+            "title": "Poland | Harry Potter Wiki | Fandom",
+            "url": "https://harrypotter.fandom.com/wiki/Poland"
+          },
+          {
+            "title": "Issues with Racism, Classism, and Ideology in Harry Potter",
+            "url": "https://commons.nmu.edu/cgi/viewcontent.cgi?article=1045&context=theses"
+          },
+          {
+            "title": "Harry Potter, Benjamin Bloom, and the Sociological ...",
+            "url": "https://isetl.org/ijtlhe/pdf/IJTLHE160.pdf"
+          }
+        ]
+      },
+      "Let me search more specifically for information about TikTok interpretations and youth engagement with Harry Potter symbolism.",
+      {
+        "tool_use_id": "srvtoolu_01STRAs5jxu5DEStRDkmNCHu",
+        "content": [
+          {
+            "title": "Harry Potter Analysis",
+            "url": "https://www.tiktok.com/discover/harry-potter-analysis"
+          },
+          {
+            "title": "Iconoclasm in Harry Potter: A Political Symbolism Analysis",
+            "url": "https://www.tiktok.com/@_theiconoclass/video/6888076809208974593"
+          },
+          {
+            "title": "With TikTok and Harry Potter, Thai Youth Protesters Usher in New Era of Politics | United States Institute of Peace",
+            "url": "https://www.usip.org/publications/2021/01/tiktok-and-harry-potter-thai-youth-protesters-usher-new-era-politics"
+          },
+          {
+            "title": "The best of Harry Potter [according to muggles on social media]",
+            "url": "https://awario.com/blog/harry-potter-social-listening-analysis/"
+          },
+          {
+            "title": "TikTok - Make Your Day",
+            "url": "https://www.tiktok.com/tag/harrypotter?lang=en"
+          },
+          {
+            "title": "How a Harry Potter TikTok Trend Tackles a Complex Linguistic Phenomenon",
+            "url": "https://www.cbr.com/tiktok-trend-tackles-linguistic-issue-harry-potter/"
+          },
+          {
+            "title": "Harry Potter: The Pop Culture Phenomenon | by Krissy Edmonds | Medium",
+            "url": "https://kedmonds.medium.com/harry-potter-the-pop-culture-phenomenon-41121541d136"
+          },
+          {
+            "title": "Harry Potter and the Media-Driven World",
+            "url": "https://storymaps.com/stories/6a8580b24e4f4cfe958e07ffe337e001"
+          },
+          {
+            "title": "Exploring Adolescence through Harry Potter and the Sorcerer\u2019s Stone | SIUE Young Adult Literature",
+            "url": "https://siueyalit.wordpress.com/2019/06/13/exploring-adolescence-through-harry-potter-and-the-sorcerers-stone/"
+          },
+          {
+            "title": "Analysis of the Themes, Motifs and Symbols in Harry Potter and the Sorcerer's Stone",
+            "url": "https://potter-scarpnotes.djmed.net/sorcerers/hpscarpthemes1.html"
+          }
+        ]
+      },
+      "Based on the search results, I found some relevant information about Harry Potter symbolism analysis on social media and youth interpretation, though specific information about Polish teens interpreting Harry Potter symbolism on TikTok is limited. Here's what the search revealed:\n\n## Harry Potter Symbolism Analysis on Social Media and Youth Interpretation\n\nThe search results show several interesting findings about how young people, particularly on social media platforms like TikTok, engage with and interpret Harry Potter symbolism:\n\n### TikTok and Harry Potter Analysis Trends\n\nThe best Harry Potter character is an unlikely TikTok starlet Draco Malfoy, with the character enjoying a popularity spike thanks to TikTok embracing the Draco Malfoy trend in every possible way.\n\nPopular culture and linguistics happen to overlap in a TikTok trend based around Harry Potter, which began with people picking up random, wand-sized objects and pointing them with Voldemort's trademark wrapped-palm pose, featuring Ralph Fiennes' \"Avada Kadavra\" sound, eventually evolving into introducing new sounds like \"Avidikadibi\".\n\n### Youth Political Symbolism and Harry Potter\n\nParticularly relevant is how youth protesters have used Harry Potter symbolism for political expression. One prominent tactic has been the adaption of pop culture as symbols of protest, with protesters gathering in rallies dressed as Harry Potter characters to speak out against \"You-Know-Who,\" comparing authority figures to the fictitious villain.\n\n### Academic Analysis of Youth Identity Formation\n\nCultural studies show that popular culture enables young persons to navigate and resist oppressive social practices, with cultural studies viewing all media texts as open to multiple readings, where members of divergent genders, classes, ages, races, nations, sexualities, and political ideologies interpret texts differently.\n\nThe Harry Potter books are relatable for youth as they are going through ever-changing phases and the shock of navigating into the young adult world.\n\n### Broader Social Media Analysis\n\nSocial listening analysis shows the significant impact Harry Potter has had on millions of readers around the world, with social media providing insights into how \"muggles\" interpret the franchise.\n\nHowever, the search did not yield specific academic studies or detailed analyses about Polish teenagers' interpretation of Harry Potter symbolism on TikTok specifically. The results mainly showed TikTok videos with Polish-themed Harry Potter content but without detailed analytical content about symbolic interpretation by Polish youth."
+    ],
+    "durationSeconds": 32.661011398000646
+  }
+}

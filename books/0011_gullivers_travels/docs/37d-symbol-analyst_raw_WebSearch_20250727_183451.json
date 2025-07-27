@@ -1,0 +1,63 @@
+{
+  "session_id": "028ac210-0cb7-4efc-a317-99c91e956ed9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/028ac210-0cb7-4efc-a317-99c91e956ed9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Podr\u00f3\u017ce Guliwera\" Polska polityka satyra wsp\u00f3\u0142czesno\u015b\u0107 znaczenie"
+  },
+  "tool_response": {
+    "query": "\"Podr\u00f3\u017ce Guliwera\" Polska polityka satyra wsp\u00f3\u0142czesno\u015b\u0107 znaczenie",
+    "results": [
+      "I'll perform a web search for that query about \"Podr\u00f3\u017ce Guliwera\" (Gulliver's Travels) and its significance in Polish politics, satire, and contemporary meaning.",
+      {
+        "tool_use_id": "srvtoolu_014ebBwdd8pFBwxByD26x9ow",
+        "content": [
+          {
+            "title": "Podr\u00f3\u017ce Guliwera \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Podr\u00f3\u017ce_Guliwera"
+          },
+          {
+            "title": "Podr\u00f3\u017ce Guliwera",
+            "url": "https://wolnelektury.pl/katalog/lektura/podroze-guliwera/"
+          },
+          {
+            "title": "Podr\u00f3\u017ce Guliwera \u2013 interpretacja",
+            "url": "https://eszkola.pl/jezyk-polski/interpretacja-941.html"
+          },
+          {
+            "title": "Kwestia skali | Jonathan Swift, Podr\u00f3\u017ce do wielu odleg\u0142ych narod\u00f3w \u015bwiata | 355 lat temu urodzi\u0142 si\u0119 autor \u201eGuliwera\u201d",
+            "url": "https://zupelnieinnaopowiesc.com/2022/11/30/kwestia-skali-jonathan-swift-podroze-do-wielu-odleglych-narodow-swiata-355-lat-temu-urodzil-sie-autor-guliwera-1/"
+          },
+          {
+            "title": "\"Podr\u00f3\u017ce Guliwera\" dla doros\u0142ych. \"Po tej ksi\u0105\u017cce cz\u0142owiek nie b\u0119dzie spokojny\" - Historia - PR24.PL",
+            "url": "https://polskieradio24.pl/artykul/3078389,podroze-guliwera-dla-doroslych-po-tej-ksiazce-czlowiek-nie-bedzie-spokojny"
+          },
+          {
+            "title": "Satyra - definicja, pochodzenie s\u0142owa, historia. - Rozprawka",
+            "url": "https://zszywka.pl/rozprawka/szkoly-srednie/23137/satyra---definicja-pochodzenie-slowa-historia"
+          },
+          {
+            "title": "Przeczytaj - Zintegrowana Platforma Edukacyjna",
+            "url": "https://zpe.gov.pl/a/przeczytaj/DgIMleZn0"
+          },
+          {
+            "title": "Podr\u00f3\u017ce Gullivera do wielu odleg\u0142ych narod\u00f3w \u015bwiata - Jonathan Swift | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/191932/podroze-gullivera-do-wielu-odleglych-narodow-swiata"
+          },
+          {
+            "title": "Podr\u00f3\u017ce Guliwera - W labiryncie teatru",
+            "url": "https://wlabiryncieteatru.pl/klasa-w-teatrze/podroze-guliwera-jaroslaw-kilian"
+          },
+          {
+            "title": "Jonathan Swift \"Podr\u00f3\u017ce Guliwera\" problematyka. - Sciaga.pl",
+            "url": "https://sciaga.pl/tekst/69364-70-jonathan_swift_podroze_guliwera_problematyka"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about \"Podr\u00f3\u017ce Guliwera\" (Gulliver's Travels) and its significance in Polish politics, satire, and contemporary meaning.\n\n## \"Podr\u00f3\u017ce Guliwera\" - Znaczenie polityczne i satyryczne w Polsce\n\n\"Podr\u00f3\u017ce Guliwera\" to powie\u015b\u0107 Jonathana Swifta z 1726 roku, stanowi\u0105ca po\u0142\u0105czenie satyry na ludzk\u0105 natur\u0119 z parodi\u0105 popularnych w\u00f3wczas powie\u015bci podr\u00f3\u017cniczych. Wsp\u00f3\u0142cze\u015bni czytelnicy Swifta postrzegali \"Podr\u00f3\u017ce Guliwera\" jako powie\u015b\u0107 z kluczem, staraj\u0105c si\u0119 rozszyfrowa\u0107 aluzje do dzia\u0142aj\u0105cych na scenie politycznej stronnictw, a nawet konkretnych postaci.\n\n### Satyra spo\u0142eczna i polityczna\n\nW kolejnych cz\u0119\u015bciach ksi\u0105\u017cki Swift podda\u0142 krytyce obyczajowo\u015b\u0107 brytyjsk\u0105 pocz\u0105tku XVIII wieku (kompromitacja polityki, s\u0105downictwa, ustroju parlamentarnego, nauki, filozofii), atakowa\u0142 nietolerancj\u0119, pych\u0119, g\u0142upot\u0119, donosicielstwo, intrygi. Przygody Guliwera s\u0105 dla Swifta doskona\u0142ym pretekstem do skrytykowania XVII-wiecznej obyczajowo\u015bci angielskiej, wytkni\u0119cia najistotniejszych wad spo\u0142ecze\u0144stwu, ale te\u017c politykom, s\u0119dziom, filozofom.\n\nDzia\u0142ania poznanych przez Guliwera w\u0142adc\u00f3w przypominaj\u0105 poczynania osiemnastowiecznych monarch\u00f3w. Otaczanie si\u0119 pochlebcami, podbijanie s\u0142abszych spo\u0142eczno\u015bci, podporz\u0105dkowywanie poddanych irracjonalnym dekretom, krwawe walki pomi\u0119dzy krajowymi stronnictwami \u2013 to tylko nieliczne z cech wsp\u00f3lnych kr\u00f3lom opisywanym w \"Podr\u00f3\u017cach...\".\n\n### Wsp\u00f3\u0142czesne znaczenie i aktualno\u015b\u0107\n\n\"Podr\u00f3\u017ce Guliwera\" pokazuj\u0105 dzi\u015b wci\u0105\u017c tak samo wyra\u017any i aktualny jak w chwili publikacji, ma\u0142o pochlebny obraz cz\u0142owieka i spo\u0142ecze\u0144stwa. Opowie\u015b\u0107 Swifta, mimo powstania prawie trzy wieku temu, jest wci\u0105\u017c na sw\u00f3j spos\u00f3b aktualna, gdy\u017c zawiera uniwersalny, ukryty pod fantastycznymi historiami przekaz. Kolejne pokolenia odnajduj\u0105 tu swoje w\u0142asne niepokoje i problemy.\n\nSwift skupia uwag\u0119 na sprawach spo\u0142ecznych, wykpiwa po kolei wszystko, co tylko mo\u017cna: system praw, w\u0142adzy, przyczyny wojen. Nie ma dziedziny \u017cycia, kt\u00f3rej satyra Swifta by nie obj\u0119\u0142a.\n\n### Mechanizmy w\u0142adzy i krytyka polityczna\n\nSwift na przyk\u0142adzie sporu o rozbijanie jajek obna\u017ca jeden z mechanizm\u00f3w w\u0142adzy, pokazuj\u0105c, jak co\u015b w\u0142a\u015bciwie nieistotnego, ma\u0142ego, mo\u017ce sta\u0107 si\u0119 problemem nie do pokonania. Do najs\u0142ynniejszych satyrycznych epizod\u00f3w powie\u015bci nale\u017cy ten z podr\u00f3\u017cy do krainy Liliputu, w kt\u00f3rym opisane s\u0105 zwalczaj\u0105ce si\u0119 frakcje zwolennik\u00f3w wysokich i niskich obcas\u00f3w oraz trwaj\u0105ca od trzech lat wojna mi\u0119dzy s\u0105siaduj\u0105cymi mocarstwami - jej powodem jest sp\u00f3r o to, z kt\u00f3rej strony nale\u017cy t\u0142uc jajka przed zjedzeniem.\n\n### Uniwersalne przes\u0142anie\n\nDo jednych z g\u0142\u00f3wnych przes\u0142a\u0144 \"Podr\u00f3\u017cy Guliwera\" nale\u017cy to g\u0142osz\u0105ce, \u017ce \"cz\u0142owiek nie jest panem stworzenia\". \u017be dumne wyobra\u017cenia ludzko\u015bci o sobie powinny by\u0107 poddane intelektualnej weryfikacji. Temu s\u0142u\u017c\u0105 wszystkie pomys\u0142y Swifta, by pokaza\u0107 cz\u0142owieka z dystansu, w r\u00f3\u017cnym \u015bwietle, na r\u00f3\u017cnym tle.\n\nW XVIII wieku satyra osi\u0105gn\u0119\u0142a sw\u00f3j renesans, g\u0142\u00f3wnie dzi\u0119ki o\u015bwieconym pisarzom jak Jonathan Swift i Voltaire. Ich dzie\u0142a, takie jak \"Podr\u00f3\u017ce Guliwera\" czy \"Kandyd\", ostrzega\u0142y przed nadu\u017cyciami w\u0142adzy, nietolerancj\u0105 religijn\u0105 i g\u0142\u0119boko zakorzenionymi wadami spo\u0142ecze\u0144stwa. Satyra w tym okresie sta\u0142a si\u0119 narz\u0119dziem walki o prawa cz\u0142owieka, demokracj\u0119 oraz post\u0119p kulturalny i naukowy.\n\nDzie\u0142o pozostaje aktualnym komentarzem do mechanizm\u00f3w w\u0142adzy, ludzkiej natury i spo\u0142ecznych patologii, co czyni je nieustannie wa\u017cnym w kontek\u015bcie polskiej i \u015bwiatowej polityki wsp\u00f3\u0142czesnej."
+    ],
+    "durationSeconds": 38.149506768001245
+  }
+}
