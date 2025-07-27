@@ -9,20 +9,20 @@
       {
         "appearance": "teenage boy, 13 years old, face showing internal conflict",
         "clothing": "weathered clothes, makeshift weapon in hand",
-        "position": "standing at exact center where shadow meets light",
-        "action": "one foot in sunlight, one in shadow, looking between two paths"
+        "position": "standing at fork looking ahead at two diverging paths",
+        "action": "back turned to viewer, head looking between the two paths ahead, contemplating which direction to take"
       }
     ],
     "scene": {
-      "mainElements": "clearing divided dramatically between golden sunlight and deep shadow, two paths leading in opposite directions",
-      "details": "butterflies in lit area, moths in shadows, flowers blooming on bright side, thorns on dark side, boy's shadow split showing two possible selves, moment of choice made visible, no text or letters visible",
-      "background": "dense jungle, path to left leading upward to light, path to right descending into darkness",
-      "atmosphere": "pivotal moment, internal struggle externalized, choice between paths"
+      "mainElements": "forest clearing with two distinct dirt paths forking at Y-junction, dramatic division between bright sunlit area and shadowed forest section",
+      "details": "left path clearly visible leading uphill through bright clearing with wildflowers and butterflies, right path clearly visible descending into dark forest with twisted branches and thorns, ravens perched in dark trees, natural fork where paths split around large boulder, boy standing at decision point, no text or letters visible",
+      "background": "dense jungle surrounding clearing, bright sky above left path, dark canopy above right path",
+      "atmosphere": "clear visual choice between two physical paths, dramatic lighting contrast between left and right sides of clearing"
     },
     "composition": {
-      "cameraAngle": "straight-on view emphasizing symmetrical split",
-      "focus": "boy positioned at exact division point",
-      "depth": "clearing foreground, diverging paths middle, jungle background"
+      "cameraAngle": "view from behind boy looking over his shoulder toward the two paths ahead",
+      "focus": "two diverging paths stretching ahead - bright left path and dark right path",
+      "depth": "boy in foreground, fork and paths in middle ground, destinations in background"
     }
   },
   "colorPalette": {

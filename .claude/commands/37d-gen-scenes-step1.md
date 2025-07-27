@@ -106,13 +106,20 @@ Each file must match `scene-description-template.json` structure exactly.
   - NO character names unless describing what's written/visible
   - Good: "teenage boy, 16 years old, brown hair, athletic build"
   - Bad: "Elena, older and more mature" or just "Boy watching"
-- **EMOTIONS: Use visual cues, not abstract descriptions**
+- **EMOTIONS & ABSTRACT CONCEPTS: Use only physical, visible elements**
   - Good: "furrowed brow, clenched fists, leaning forward"
   - Bad: "determination on face", "feeling anxious"
   - Avoid abstract concepts in atmosphere/details:
     - Bad: "dangerous diplomacy", "chess match of words", "veneer of civility"
     - Good: "man gripping crutch tightly", "sweat on foreheads", "hands near weapons"
+  - CRITICAL: Replace abstract moments with concrete visual elements:
+    - Bad: "pivotal moment", "internal struggle", "crossroads of destiny"
+    - Good: "two distinct dirt paths forking at 90-degree angle", "wooden signpost with two arrows", "boy standing with left foot on bright path, right foot on dark path"
   - Describe what camera would see, not what it means
+  
+  **REAL EXAMPLE - Scene 15 Problem:**
+  ❌ **WRONG:** "atmosphere": "pivotal moment, internal struggle externalized, choice between paths"
+  ✅ **CORRECT:** "details": "two clearly visible forest paths diverging - left path leads uphill toward sunny clearing with flowers, right path descends into dark forest with thorns, wooden crossroads marker with two directional arrows, boy positioned exactly where paths meet"
 - **CLOTHING: Be specific about period garments**
   - Good: "brown wool vest, white linen shirt, knee-length breeches"
   - Bad: "everyday clothes", "best outfit"
@@ -134,6 +141,14 @@ Each file must match `scene-description-template.json` structure exactly.
   - Good: "orange sunset reflecting on water surface"
   - Bad: "eternal sea continuing its rhythms"
   - Good: "waves breaking on shore"
+- **PHYSICAL ELEMENTS ONLY**: Describe what camera lens would capture
+  - Good: "rope bridge spanning 50-foot gorge", "two wooden doors side by side", "scales weighing gold vs feathers"
+  - Bad: "moral dilemma", "life-changing decision", "moment of truth"
+  - Every abstract concept must have physical manifestation
+  - If scene represents "choice" - show actual paths, doors, objects to choose between
+  - If scene shows "conflict" - show weapons, aggressive postures, opposing groups
+  - Complete visual clarity: every element must be specifically visible
+    - Bad: "place where two worlds meet" → Good: "forest clearing divided by stream, bright meadow on left, dark woods on right"
 - Follow the exact structure and field requirements from scene-description-template.json
 - Do NOT define visual style (colors, artistic technique, rendering style) - only describe WHAT is in the scene
 - The 25 scenes must be internally consistent and cohesive
