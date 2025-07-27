@@ -1,0 +1,62 @@
+{
+  "session_id": "ee5740ec-c8bd-4d09-98fb-e20dcc0622d8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ee5740ec-c8bd-4d09-98fb-e20dcc0622d8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Instagram culture wealth display influencer lifestyle Gen Z social media class 2025"
+  },
+  "tool_response": {
+    "query": "Instagram culture wealth display influencer lifestyle Gen Z social media class 2025",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_0149Mr1H3UYrJbbbgk8dW94x",
+        "content": [
+          {
+            "title": "Gen Z And Social Media: Habits And Behaviour In 2025 | Amber",
+            "url": "https://amberstudent.com/blog/post/the-ultimate-guide-to-gen-z-social-media-habits"
+          },
+          {
+            "title": "18 Gen Z Influencers To Look Out For in 2024",
+            "url": "https://collabstr.com/blog/gen-z-influencers"
+          },
+          {
+            "title": "Gen Z has replaced traditional job searching with TikTok\u201470% are finding career advice on social media | Fortune",
+            "url": "https://fortune.com/2025/07/19/gen-z-tiktok-influencer-instagram-career/"
+          },
+          {
+            "title": "Gen Z Trends 2025: What Marketers Need to Know",
+            "url": "https://camphouse.io/blog/gen-z-trends"
+          },
+          {
+            "title": "65+ Gen Z Social Media Usage Statistics [2025] That Can\u2019t Ignore",
+            "url": "https://cropink.com/gen-z-social-media-usage-statistics"
+          },
+          {
+            "title": "How Gen Z uses social media and what that means for brands",
+            "url": "https://sproutsocial.com/insights/gen-z-social-media/"
+          },
+          {
+            "title": "Top 100 Gen Z Influencers in 2025",
+            "url": "https://influencers.feedspot.com/gen_z_instagram_influencers/"
+          },
+          {
+            "title": "Instagram Mega-Influencers\u2019 Effect on Generation Z\u2019s Intention to Purchase: A Technology Acceptance Model and Source Credibility Model Perspective",
+            "url": "https://www.mdpi.com/0718-1876/20/2/94"
+          },
+          {
+            "title": "29 Influencer Marketing Statistics for Your Social Strategy in 2025",
+            "url": "https://sproutsocial.com/insights/influencer-marketing-statistics/"
+          },
+          {
+            "title": "Gen Z\u2019s Social Media Usage in 2025 | Later",
+            "url": "https://later.com/blog/gen-z-social-media-usage/"
+          }
+        ]
+      },
+      "I've performed the web search for your query about Instagram culture, wealth display, influencer lifestyle, Gen Z, and social media class in 2025. Here's what the search revealed:\n\n## Key Findings About Gen Z, Instagram Culture, and Wealth Display in 2025\n\n### Platform Usage and Preferences\nGen Z's preferred platforms are YouTube (78%), Instagram (76%), and TikTok (69%), with Instagram taking center stage for sharing curated moments.\n\n### Influencer Culture and Trust\nNearly 40% of Gen Z consumers trust influencers more than they did a year ago, and 1 in 4 Gen Zers aspire to be influencers. 66% of Gen Z consumers have made a purchase based on an influencer's recommendation.\n\n### Shopping and Wealth Display Behaviors\nNearly three-quarters of Gen Z follow influencers on social media platforms, with influencers ahead of traditional celebrities in terms of impact and trust. 67% of Gen Z shoppers have discovered a product through a social media video that appeared organically in their feed.\n\n### Authenticity Over Superficial Wealth\nThe characteristics Gen Z cares about most in brand content are authenticity, entertainment and reliability. Gen Z trusts user-generated content more than branded content, preferring content that feels authentic and relatable.\n\n### Economic Impact and Marketing Investment\nGlobal brands are expected to spend up to USD 39.3 billion on influencer marketing in 2025, reflecting the significant economic power of this generation's social media influence.\n\n### Career and Lifestyle Content\nSeven in 10 young adults aged 16-24 find educational and career opportunities on social media, preferring platforms like TikTok, Instagram, and YouTube over traditional guidance.\n\nThe search results indicate that while Gen Z engages with wealth display through influencer culture on Instagram, they prioritize authenticity and genuine content over superficial displays of luxury, representing a shift in how social class and wealth are presented and consumed on social media platforms."
+    ],
+    "durationSeconds": 17.984287370000036
+  }
+}

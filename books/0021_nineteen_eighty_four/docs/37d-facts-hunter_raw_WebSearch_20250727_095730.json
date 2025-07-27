@@ -1,0 +1,63 @@
+{
+  "session_id": "10d774b1-cbee-4596-b9de-70bcda5cd9e0",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/10d774b1-cbee-4596-b9de-70bcda5cd9e0.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "1984 George Orwell terms common language Big Brother Orwellian doublethink thoughtcrime newspeak"
+  },
+  "tool_response": {
+    "query": "1984 George Orwell terms common language Big Brother Orwellian doublethink thoughtcrime newspeak",
+    "results": [
+      "I'll search for information about the terms from George Orwell's 1984 that have entered common language usage.",
+      {
+        "tool_use_id": "srvtoolu_01LGHRDYmPYy9kbRBnGSSFK6",
+        "content": [
+          {
+            "title": "Big Brother and Other Terms from \"1984\" | Center for the Arts",
+            "url": "https://cfa.gmu.edu/news/2019-10/big-brother-and-other-terms-1984"
+          },
+          {
+            "title": "Newspeak | Doublethink, Thoughtcrime, Big Brother | Britannica",
+            "url": "https://www.britannica.com/art/newspeak"
+          },
+          {
+            "title": "Newspeak - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Newspeak"
+          },
+          {
+            "title": "Nineteen Eighty-Four - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four"
+          },
+          {
+            "title": "Newspeak in 1984 by George Orwell | Definition, Examples & Quotes - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/what-is-newspeak-in-1984.html"
+          },
+          {
+            "title": "Doublethink - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Doublethink"
+          },
+          {
+            "title": "George Orwell - 1984",
+            "url": "https://www.abhafoundation.org/assets/books/html/1984/203.html"
+          },
+          {
+            "title": "Doublethink in George Orwell's 1984: The Art of Simultaneous Belief in Contradictions",
+            "url": "https://www.linkedin.com/pulse/doublethink-george-orwells-1984-art-simultaneous-hassan-sayed-"
+          },
+          {
+            "title": "George Orwell Explains How \"Newspeak\" Works, the Official Language of His Totalitarian Dystopia in 1984 | Open Culture",
+            "url": "https://www.openculture.com/2017/01/george-orwell-explains-how-newspeak-works.html"
+          },
+          {
+            "title": "Orwell's 1984: On the Power of Words to Affect Thought | Kenia Sedler",
+            "url": "https://www.keniasedler.com/orwells-1984-on-the-power-of-words-to-affect-thought/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about the terms from George Orwell's 1984 that have entered common language usage:\n\n## Terms from 1984 That Have Entered Common Language\n\nMany terms from George Orwell's 1984 have become part of common usage, including \"Big Brother\", \"doublethink\", \"Thought Police\", \"thoughtcrime\", \"Newspeak\" and the expression \"2 + 2 = 5\". The concepts of Big Brother, Room 101, the Thought Police, thoughtcrime, unperson, memory hole, doublethink and Newspeak have become common phrases for denoting totalitarian authority.\n\n### Key Terms and Their Meanings:\n\n**Big Brother**: \"Big Brother\" is referenced whenever the topic of surveillance or governmental control comes up, and many people use the term when discussing government oversight.\n\n**Doublethink**: Doublethink is a process of indoctrination in which subjects are expected to simultaneously accept two conflicting beliefs as truth, often at odds with their own memory or sense of reality. George Orwell coined the term doublethink as part of the fictional language of Newspeak in his 1949 dystopian novel.(no content)Many people use \"doublethink\" when politicians try to encourage two contradictory ideas.\n\n**Newspeak**: Newspeak is propagandistic language that is characterized by euphemism, circumlocution, and the inversion of customary meanings. The term was coined by George Orwell in his novel Nineteen Eighty-four (1949).(no content)Newspeak is a controlled language of simplified grammar and limited vocabulary designed to limit a person's ability for critical thinking.\n\n**Thoughtcrime**: Thoughtcrime describes the personal beliefs that are contrary to the accepted norms of society.(no content)Some imply that they're being accused of a \"thoughtcrime\" whenever their freedom to express themselves is hindered.\n\n### Other Notable Terms:\n\n- **Orwellian**: The adjective \"Orwellian\" means similar to Orwell's writings, especially Nineteen Eighty-Four.\n- **Memory hole**: Memory hole refers to oblivion, the practice of erasing unwanted information from history.\n- **Unperson**: An unperson refers to someone whose existence is erased from history and memory.\n\n### Modern Usage and Impact:\n\nDoublespeak and groupthink are both deliberate elaborations of doublethink. The practice of ending words with \"-speak\" (such as mediaspeak) is drawn from the novel.(no content)1984 is still commonly referenced in modern media, and many Newspeak terms have made their way into English vocabulary. Many also argue that the concept of Newspeak is being implemented into modern-day English, implying that the media and regular citizens are allowed to say fewer and fewer words every year.(no content)Phrases and concepts from the novel, such as \"Big Brother is watching you,\" \"thoughtcrime,\" and \"Newspeak,\" have become part of the cultural lexicon. The novel's warning about the dangers of totalitarianism and the erosion of individual freedom remains relevant and continues to be referenced in discussions about government surveillance and authoritarianism.\n\nThese terms demonstrate how Orwell's fictional dystopian language has profoundly influenced modern discourse about politics, surveillance, propaganda, and the manipulation of truth."
+    ],
+    "durationSeconds": 24.79137231299997
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "session_id": "ee5740ec-c8bd-4d09-98fb-e20dcc0622d8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ee5740ec-c8bd-4d09-98fb-e20dcc0622d8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Polish youth TikTok Lalka Boles\u0142aw Prus classic literature social media content"
+  },
+  "tool_response": {
+    "query": "Polish youth TikTok Lalka Boles\u0142aw Prus classic literature social media content",
+    "results": [
+      "I'll search for information about Polish youth creating TikTok content related to \"Lalka\" by Boles\u0142aw Prus and how classic literature is being adapted for social media.",
+      {
+        "tool_use_id": "srvtoolu_01N7c3DFqP7BAb2bpRfqQPGt",
+        "content": [
+          {
+            "title": "Lalka by Boles\u0142aw Prus | Goodreads",
+            "url": "https://www.goodreads.com/book/show/484466.Lalka"
+          },
+          {
+            "title": "Amazon.com: Lalka, by Boleslaw Prus, volumes 1 and 2. Polish edition: 9788306008258: Boles\u0142aw Prus: Books",
+            "url": "https://www.amazon.com/Lalka-Boleslaw-Prus-volumes-Polish/dp/8306008251"
+          },
+          {
+            "title": "Top 19 TikTok Influencers in Poland: Find Polish TikTokers",
+            "url": "https://www.modash.io/find-influencers/tiktok/poland"
+          },
+          {
+            "title": "Polish elections: TikTok overpromotes hard right content | Global Witness",
+            "url": "https://globalwitness.org/en/campaigns/digital-threats/tiktok-algorithm-recommends-twice-as-much-hard-right-content-to-users-ahead-of-polish-election/"
+          },
+          {
+            "title": "Read Bilingual Book The Doll (Lalka) in Polish with translation | AnyLang",
+            "url": "https://anylang.net/en/books/pl/doll"
+          },
+          {
+            "title": "The Doll \u2013 Boles\u0142aw Prus | #language & literature | Culture.pl",
+            "url": "https://culture.pl/en/work/the-doll-boleslaw-prus"
+          },
+          {
+            "title": "Top 1,000 tiktok Influencers In Poland | StarNgage Plus",
+            "url": "https://starngage.com/plus/en-us/influencer/ranking/tiktok/poland"
+          },
+          {
+            "title": "Top 20 Tiktokers in Poland in 2025 - Favikon",
+            "url": "https://www.favikon.com/blog/top-tiktokers-poland"
+          },
+          {
+            "title": "Polish Writers With a Social Conscience: From Boles\u0142aw Prus to Maria D\u0105browska | Article | Culture.pl",
+            "url": "https://culture.pl/en/article/polish-writers-with-a-social-conscience-from-boleslaw-prus-to-maria-dabrowska"
+          },
+          {
+            "title": "Boles\u0142aw Prus Books | List of books by author Boles\u0142aw Prus",
+            "url": "https://www.thriftbooks.com/a/bolesaw-prus/522013/"
+          }
+        ]
+      },
+      "The search results show information about \"Lalka\" by Boles\u0142aw Prus and Polish TikTok influencers, but don't specifically address Polish youth creating TikTok content about this classic literature. Let me search more specifically for this connection.",
+      {
+        "tool_use_id": "srvtoolu_01K9JtF3HAezfAf6TYLbvQ7A",
+        "content": [
+          {
+            "title": "(PDF) The Impact of TikTok on Students: A Literature Review",
+            "url": "https://www.researchgate.net/publication/374824156_The_Impact_of_TikTok_on_Students_A_Literature_Review"
+          },
+          {
+            "title": "Top 19 TikTok Influencers in Poland: Find Polish TikTokers",
+            "url": "https://www.modash.io/find-influencers/tiktok/poland"
+          },
+          {
+            "title": "#Booktok: Social Media's Influence on Literature",
+            "url": "https://scholarship.richmond.edu/cgi/viewcontent.cgi?article=2716&context=honors-theses"
+          },
+          {
+            "title": "TikTok - Make Your Day",
+            "url": "https://www.tiktok.com/discover/juliano-polish"
+          },
+          {
+            "title": "Who is Adam Mirek? - Favikon",
+            "url": "https://www.favikon.com/blog/who-is-adam-mirek"
+          },
+          {
+            "title": "Polish literature - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Polish_literature"
+          },
+          {
+            "title": "The Impact of TikTok on Students: A Literature Review - Article (Preprint v1) by Atinafu Regasa et al. | Qeios",
+            "url": "https://www.qeios.com/read/EPFGO6"
+          },
+          {
+            "title": "Polish TikTok priest gains social media fame dancing with his high-school students | Notes From Poland",
+            "url": "https://notesfrompoland.com/2022/12/13/polish-tiktok-priest-gains-social-media-fame-dancing-with-his-high-school-students/"
+          },
+          {
+            "title": "Full article: War, social media and gender: an analysis of the use of TikTok by Ukrainian soldiers",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/23337486.2025.2472100"
+          },
+          {
+            "title": "Poland's conservative ruling party joins TikTok to challenge \"radical anti-PiS messages\" on social media",
+            "url": "https://notesfrompoland.com/2023/02/16/polands-conservative-ruling-party-joins-tiktok-to-challenge-radical-anti-pis-messages-on-social-media/"
+          }
+        ]
+      },
+      "Let me search more specifically for BookTok content and how Polish students engage with classic literature on social media.",
+      {
+        "tool_use_id": "srvtoolu_01LPgH618hjzJoyB1osCtvSR",
+        "content": [
+          {
+            "title": "BookTok: A Narrative Review of Current Literature and Directions for Future Research - Dera - 2024 - Literature Compass - Wiley Online Library",
+            "url": "https://compass.onlinelibrary.wiley.com/doi/full/10.1111/lic3.70012"
+          },
+          {
+            "title": "Full article: Sharing is caring: young people\u2019s narratives about BookTok and volitional reading",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/09500782.2024.2324947"
+          },
+          {
+            "title": "Social Reading Cultures on BookTube, Bookstagram, and BookTok - 1st Ed",
+            "url": "https://www.routledge.com/Social-Reading-Cultures-on-BookTube-Bookstagram-and-BookTok/Reddan-Rutherford-Schoonens-Dezuanni/p/book/9781032603230"
+          },
+          {
+            "title": "#Booktok: Social Media's Influence on Literature",
+            "url": "https://scholarship.richmond.edu/cgi/viewcontent.cgi?article=2716&context=honors-theses"
+          },
+          {
+            "title": "The next chapter: How 'BookTok' is shaping a new generation of readers, literature | ASU News",
+            "url": "https://news.asu.edu/20241004-arts-humanities-and-education-next-chapter-how-booktok-shaping-new-generation-readers"
+          },
+          {
+            "title": "BookTok: A Narrative Review of Current Literature and Directions for Future Research - PMC",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11600797/"
+          },
+          {
+            "title": "The Influence of BookTok on Literary Criticisms and Diversity - Alysia De Melo, 2024",
+            "url": "https://journals.sagepub.com/doi/10.1177/20563051241286700"
+          },
+          {
+            "title": "Tok About Disappointing: How Booktok Ruined Reading (Editorial) \u2013 Periscope",
+            "url": "https://www.chsperiscope.com/perspectives/2024/05/13/tok-about-disappointing-how-booktok-ruined-reading-editorial/"
+          },
+          {
+            "title": "Reading Like Rory: Post-Digital Reading on BookTok - Post45",
+            "url": "https://post45.org/2023/12/reading-like-rory-post-digital-reading-on-booktok/"
+          },
+          {
+            "title": "Social Reading Cultures on BookTube, Bookstagram, and BookTok: Reddan, Bronwyn, Rutherford, Leonie, Schoonens, Amy, Dezuanni, Michael: 9781032603230: Amazon.com: Books",
+            "url": "https://www.amazon.com/Reading-Cultures-BookTube-Bookstagram-BookTok/dp/1032603232"
+          }
+        ]
+      },
+      "Based on my search results, I can see there's extensive research on BookTok and its influence on literature, but I haven't found specific information about Polish youth creating TikTok content related to \"Lalka\" by Boles\u0142aw Prus. Let me search more specifically for Polish educational content on TikTok or Polish literature adaptations.",
+      {
+        "tool_use_id": "srvtoolu_018sJ9PUjSciXGEk6zGXGsAx",
+        "content": [
+          {
+            "title": "Lalka - Boles\u0142aw Prus",
+            "url": "https://wolnelektury.pl/katalog/lektura/lalka/"
+          },
+          {
+            "title": "Lalka - ca\u0142o\u015b\u0107",
+            "url": "https://clarin-pl.eu/dspace/handle/11321/341"
+          },
+          {
+            "title": "Boles\u0142aw Prus\u2019 \u201cLalka\u201d (\u201cThe Doll\u201d) \u2013 a romance novel for cynical men. | Amazing Worlds",
+            "url": "https://amazingworlds.home.blog/2019/05/27/boleslaw-prus-lalka-the-doll-a-romance-novel-for-cynical-men/"
+          },
+          {
+            "title": "Lalka (powie\u015b\u0107) \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Lalka_(powie\u015b\u0107)"
+          },
+          {
+            "title": "Boles\u0142aw Prus: Lalka",
+            "url": "https://literat.ug.edu.pl/lalka/index.htm"
+          },
+          {
+            "title": "Lalka - Streszczenie szczeg\u00f3\u0142owe - Boles\u0142aw Prus - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/boleslaw-prus/lalka.streszczenie-szczegolowe"
+          },
+          {
+            "title": "The Doll (Prus novel) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Doll_(Prus_novel)"
+          },
+          {
+            "title": "Lalka by Boles\u0142aw Prus | Goodreads",
+            "url": "https://www.goodreads.com/book/show/484466.Lalka"
+          },
+          {
+            "title": "Lalka Boles\u0142aw Prus - audiobook (mp3), ksi\u0105\u017cka online - ksi\u0119garnia Ebookpoint.",
+            "url": "https://ebookpoint.pl/ksiazki/lalka-boleslaw-prus,e_0yd3.htm"
+          },
+          {
+            "title": "Read Bilingual Book The Doll (Lalka) in Polish with translation | AnyLang",
+            "url": "https://anylang.net/en/books/pl/doll"
+          }
+        ]
+      },
+      "Based on my searches, I found information about \"Lalka\" by Boles\u0142aw Prus and general research on BookTok and Polish TikTok usage, but I haven't found specific examples of Polish youth creating TikTok content about this classic novel. Let me provide a comprehensive response based on what I found.\n\nBased on my search, I found information about the broader phenomenon of BookTok and Polish social media usage, though I didn't locate specific examples of Polish youth creating TikTok content about \"Lalka\" by Boles\u0142aw Prus. Here's what the research reveals:\n\n## BookTok's Global Impact on Literature\n\nBookTok, with hundreds of billions of views, is currently having a global impact on the production, distribution and reception of literature. Research differentiates among three directions: (1) BookTok as a specific form of book reviewing; (2) BookTok as a literary community-builder; and (3) BookTok as an agent in reading promotion.\n\n## Young People and Social Reading\n\nYoung people use the digital media platform TikTok and its subcommunity BookTok as a resource in constructing their own volitional reading practices and as a means to strengthen their reader identities. TikTok creates potential for people to find community, and sometimes that means finding a recommendation for a book that allows connection to a perspective, a community or a new insight into the world.\n\n## Polish TikTok Landscape\n\nThere are 914,961 Polish TikTok influencers, with up to 500k followers, and the majority of their audience in Poland. A priest has racked up millions of views on TikTok after posting videos dancing with his Catholic catechism students at a high school in Poland, showing how Polish educators are using the platform creatively.\n\n## \"Lalka\" as Educational Content\n\n\"Lalka\" is the most famous novel by Boles\u0142aw Prus, featuring Stanis\u0142aw Wokulski, a wealthy Warsaw merchant and philanthropist, unhappily in love with aristocrat Izabela \u0141\u0119cka. This late 19th-century love story is considered by many critics to be the greatest Polish realist novel and, unlike many acclaimed works of the past, is still adored by many readers.\n\n## Educational Applications\n\nIn literature education, BookTok presents intriguing questions, with early advocates highlighting its potential for fostering student agency, reading choices, and student voice in digital space unregulated by teachers, advising using BookTok videos for classroom analysis.\n\nWhile I couldn't find specific examples of Polish students creating TikTok content about \"Lalka,\" the research suggests this would align with broader trends of young people using social media platforms to engage with literature in creative ways, particularly given Poland's active TikTok community and the novel's continued relevance in Polish education."
+    ],
+    "durationSeconds": 39.872498080999826
+  }
+}

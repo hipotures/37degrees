@@ -1,0 +1,30 @@
+{
+  "session_id": "10d774b1-cbee-4596-b9de-70bcda5cd9e0",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/10d774b1-cbee-4596-b9de-70bcda5cd9e0.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Rok 1984\" Orwell PRL cenzura bibu\u0142a drugi obieg Solidarno\u015b\u0107 \"Instytut Literacki\" Pary\u017c"
+  },
+  "tool_response": {
+    "query": "\"Rok 1984\" Orwell PRL cenzura bibu\u0142a drugi obieg Solidarno\u015b\u0107 \"Instytut Literacki\" Pary\u017c",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01KCDtQDTyKYaPYTUHuqYEXV",
+        "content": [
+          {
+            "title": "ORWELL- ROK 1984 drugi obieg | Antykwariat internetowy Sobieski",
+            "url": "https://antyksobieski.pl/orwell-rok-1984-i-wyd-9396.html"
+          },
+          {
+            "title": "\u201eRok 1984\u201d George\u2019a Orwella: fikcja przera\u017caj\u0105co bliska prawdy | Portal historyczny Histmag.org - historia dla ka\u017cdego!",
+            "url": "https://histmag.org/Rok-1984-Georgea-Orwella-fikcja-przerazajaco-bliska-prawdy-18869"
+          }
+        ]
+      },
+      "The search results provide fascinating information about George Orwell's \"1984\" and its connection to Polish underground publishing during the communist era. Here's what I found:\n\nThe first Polish translation of \"1984\" by Juliusz Mieroszewski was published in exile by the Literary Institute in Paris in 1953.(no content)Until the fall of the communist system in Poland (1989), the novel was banned by censorship, but from 1980 onwards it was published as reprints of the Paris edition by independent publishing houses - the so-called \"drugi obieg\" (second circulation).\n\nThe search reveals important details about the underground circulation of Orwell's dystopian novel in communist Poland:\n\n- The book was originally published in Paris in 1953 by the Literary Institute (Instytut Literacki)\n- The underground editions were faithful reprints of the Paris edition from the \"second circulation\"\n- The Literary Institute in Paris published various editions, including one in 1979\n\nThis underground distribution network was crucial for Polish readers to access banned literature during the communist period, with \"1984\" being particularly relevant given its themes of totalitarian control and surveillance that resonated with life under the Polish People's Republic (PRL). The book's circulation through the \"drugi obieg\" and samizdat networks like those connected to Solidarity movement represented an important form of intellectual resistance against censorship."
+    ],
+    "durationSeconds": 14.005752376999997
+  }
+}

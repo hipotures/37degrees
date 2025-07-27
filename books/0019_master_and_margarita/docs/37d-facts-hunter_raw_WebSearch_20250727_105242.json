@@ -1,0 +1,63 @@
+{
+  "session_id": "33f7964e-50c3-4a6f-a60c-a132c9281df9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/33f7964e-50c3-4a6f-a60c-a132c9281df9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Mistrz i Ma\u0142gorzata\" cenzura PRL Polska komunistyczna prohibita"
+  },
+  "tool_response": {
+    "query": "\"Mistrz i Ma\u0142gorzata\" cenzura PRL Polska komunistyczna prohibita",
+    "results": [
+      "I'll perform a web search for information about \"Mistrz i Ma\u0142gorzata\" (The Master and Margarita) and censorship in communist Poland.",
+      {
+        "tool_use_id": "srvtoolu_01JqbZoubDFYYuAjENnrxyJm",
+        "content": [
+          {
+            "title": "Mistrz i Ma\u0142gorzata - cenzura 2007 - Bu\u0142hakow Michai\u0142 ksi\u0105\u017cka | Selkar",
+            "url": "https://selkar.pl/mistrz-i-malgorzata-cenzura-2007"
+          },
+          {
+            "title": "Mistrz i Ma\u0142gorzata. Zaznaczono ingerencje sowieckiej cenzury - Ksi\u0119garnia Akademicka Krak\u00f3w",
+            "url": "https://akademicka.com.pl/index.php?detale=1&a=2&id=32300"
+          },
+          {
+            "title": "Mistrz i Ma\u0142gorzata (zaznaczono ingerencj\u0119 Sowieckiej Cenzury) - Michai\u0142 Bu\u0142hakow | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/40325/mistrz-i-malgorzata-zaznaczono-ingerencje-sowieckiej-cenzury"
+          },
+          {
+            "title": "Mistrz i Ma\u0142gorzata \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Mistrz_i_Ma%C5%82gorzata"
+          },
+          {
+            "title": "Mistrz i Ma\u0142gorzata Michai\u0142a Bu\u0142hakowa w Polsce w latach ...",
+            "url": "https://repozytorium.amu.edu.pl/bitstream/10593/14312/1/Rozprawa doktorska Mistrz i Ma\u0142gorzata Michai\u0142a Bu\u0142hakowa w Polsce w latach 1969-1989.pdf"
+          },
+          {
+            "title": "Mistrz-i-Malgorzata - Lektury - Michai\u0142 Bu\u0142hakow \u201eMistrz i Ma\u0142gorzata\u201d Karta lektury \u201eW\u0142a\u015bciwa akcja - Studocu",
+            "url": "https://www.studocu.com/pl/document/szkola-srednia-polska/polski-literatura/mistrz-i-malgorzata-lektury/54298426"
+          },
+          {
+            "title": "\u201eMistrz i Ma\u0142gorzata\u201d, Michai\u0142 Bu\u0142hakow \u2014 opracowanie i streszczenie",
+            "url": "https://babaodpolskiego.pl/mistrz-i-malgorzata-michail-bulhakow-opracowanie-i-streszczenie/"
+          },
+          {
+            "title": "Ksi\u0105\u017cka Mistrz i Ma\u0142gorzata - cenzura 2007 - Ceny i opinie - Ceneo.pl",
+            "url": "https://www.ceneo.pl/784366"
+          },
+          {
+            "title": "Wp\u0142yw cenzury sowieckiej na \u017cycie Michai\u0142a Bu\u0142hakowa i powie\u015b\u0107 Mistrz i Ma\u0142gorzata - Praca magisterska",
+            "url": "https://e-dyplom.com.pl/filologia/wplyw-cenzury-sowieckiej-na-zycie-michaila-bulhakowa-i-powiesc-mistrz-i-malgorzata"
+          },
+          {
+            "title": "Mistrz i Ma\u0142gorzata: na Patriarszych Prudach.",
+            "url": "https://blog-o-rosji.wixsite.com/blogorosji/single-post/2016/11/13/mistrz-i-ma\u0142gorzata-rozdzia\u0142-1"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about \"Mistrz i Ma\u0142gorzata\" (The Master and Margarita) and censorship in communist Poland and the Soviet Union.\n\n## Censorship of \"The Master and Margarita\" in the Soviet Union\n\nThe novel was first published (in a censored version) in the monthly magazine \"Moskwa\" (issues 11/1966 and 1/1967). When the novel was published then in an incomplete version, censorship removed about 14,000 words. It was published in a censored version in 1966-1967, and in an almost complete version in 1973.\n\nThe complete work by Bulgakov appeared only in 1969 in the magazine \"Posiev\" and in book version in 1973.\n\n## Publication in Poland\n\nThe first Polish edition, translated by Witold D\u0105browski and Irena Lewandowska, based on the censored Soviet edition, was published in 1969. In Poland, the first edition (1969) was published by the State Publishing Institute.\n\nFor the first time into Polish, the translation was done in 1969 by Irena Lewandowska and Witold D\u0105browski, and this translation is the best known. In 1995, Andrzej Drawicz undertook the translation. In Poland this year, a new translation of the novel by Grzegorz, Leokadia and Igor Przebind\u00f3w was published by Krak\u00f3w's Znak publishing house.\n\n## Special Editions Showing Censorship\n\nThere have been special editions that highlight the censorship interventions:\n\nThis edition, prepared according to the 1969 edition by Possev-Verlag, Frankfurt/Main, is unique because all the interventions of Soviet censorship have been marked in it.\n\n## Impact of Censorship on Bulgakov's Life and Work\n\nBulgakov lived in a totalitarian state, saw the development of Stalin's cult, the omnipotence of officials and the absurdity of everyday life in the USSR. The novel is a reaction to this reality: it shows fear, opportunism and enslavement of society through grotesque and fantasy. Censorship and conflicts with the literary environment also left their mark - the Master, a persecuted writer in the work, is the author's alter ego fighting for creative freedom.\n\nBulgakov sent the first chapter to the Nedra publishing house, but without much hope that censorship would allow publication.\n\nThe search results reveal that \"The Master and Margarita\" faced significant censorship in the Soviet Union, with thousands of words removed from the initial publication. The book's journey to Polish readers was also affected by this censorship, as the first Polish translation was based on the incomplete Soviet edition."
+    ],
+    "durationSeconds": 22.749430538000073
+  }
+}

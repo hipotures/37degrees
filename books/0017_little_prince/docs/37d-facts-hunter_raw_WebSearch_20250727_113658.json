@@ -1,0 +1,62 @@
+{
+  "session_id": "f420e2ea-43ea-499f-a68a-b8dea67fad50",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/f420e2ea-43ea-499f-a68a-b8dea67fad50.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "The Little Prince sales statistics global readership studies cultural impact research translation studies worldwide"
+  },
+  "tool_response": {
+    "query": "The Little Prince sales statistics global readership studies cultural impact research translation studies worldwide",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_014qK8xiFPyCZ2QdWLDRpyZq",
+        "content": [
+          {
+            "title": "The Little Prince - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Little_Prince"
+          },
+          {
+            "title": "Analysis of The Little Prince Book of Antoine de Saint- ...",
+            "url": "https://hayefjournal.org/Content/files/sayilar/119/179-188.pdf"
+          },
+          {
+            "title": "Investigating Translators' Styles in The Little Prince: A Corpus",
+            "url": "https://files.eric.ed.gov/fulltext/EJ1426802.pdf"
+          },
+          {
+            "title": "The Little Prince | Plot, Analysis, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/The-Little-Prince"
+          },
+          {
+            "title": "Project MUSE - Children\u2019s Literature in Translation",
+            "url": "https://muse.jhu.edu/pub/258/oa_edited_volume/chapter/2733657"
+          },
+          {
+            "title": "How the \u2018The Little Prince\u2019 Endures as a Global Merch Icon",
+            "url": "https://rollingstonephilippines.com/radar/rs-recommends/the-little-prince-global-brand/"
+          },
+          {
+            "title": "The Postcolonial Little Prince: A Comparative Analysis of Saint-Exup\u00e9ry's The Little Prince and Other Works | International Research in Children's Literature",
+            "url": "https://www.euppublishing.com/doi/10.3366/ircl.2023.0489"
+          },
+          {
+            "title": "The Little Prince | Culture Wikia | Fandom",
+            "url": "https://culture.fandom.com/wiki/The_Little_Prince"
+          },
+          {
+            "title": "(PDF) The Role of Translation in Commercialization of Popular Culture: The Little Prince",
+            "url": "https://www.academia.edu/122121411/The_Role_of_Translation_in_Commercialization_of_Popular_Culture_The_Little_Prince"
+          },
+          {
+            "title": "What\u2019s the best translation of The Little Prince? \u2022 We Love Translations",
+            "url": "https://welovetranslations.com/2021/10/15/whats-the-best-translation-of-the-little-prince/"
+          }
+        ]
+      },
+      "Based on my search results, I can provide comprehensive information about The Little Prince's sales statistics, global readership studies, cultural impact research, and translation studies worldwide:\n\n## Sales Statistics and Global Readership\n\nThe Little Prince has achieved remarkable commercial success, selling an estimated 140-200 million copies worldwide, making it one of the best-selling books in publishing history. As a cultural icon, the novella regularly draws new readers and reviewers, selling almost two million copies annually.\n\nThe book enjoyed modest initial success, residing on The New York Times Best Seller list for only two weeks, but has since become a global phenomenon spanning generations.\n\n## Translation Studies and Linguistic Reach\n\nThe Little Prince has been translated into over 505 different languages and dialects worldwide, being the second most translated work ever published, trailing only the Bible. More recent data shows in April 2017, The Little Prince became the world's most translated non-religious book, with translations into 300 languages, a number that had risen to 600 by November 2024.\n\nKatherine Woods produced the first English translation in 1943, which contained some errors but was admired by many Little Prince lovers for maintaining Saint-Exup\u00e9ry's story-telling spirit and charm, staying in print until 2001. As of 2019, at least seven additional English translations have been published.\n\n## Cultural Impact Research\n\n### Global Cultural Phenomenon\nAs one of the most translated literary texts in the world, The Little Prince has transcended its pages to become a global cultural icon, continuing to leave its cultural footprint on the world 80 years later. The novella was voted the best book of the 20th century in France.\n\n### Commercial and Merchandising Impact\nProduct-wise, The Little Prince has inspired more than 10,000 products available worldwide, making its way into games, toys, stationery, and more. Fashion brands, toy companies like Pop Mart, and luxury brands like Moleskine and Montblanc have created special collections inspired by the story.\n\n### Academic and Critical Studies\nResearch has examined various aspects of the work's cultural impact:\n\n- Studies have investigated underlying colonial overtones, comparing The Little Prince with Saint-Exup\u00e9ry's other writings to examine how French imperialist and orientalist sentiments are manifested\n- Research explores how popular literary works like The Little Prince are positioned within different literary systems through translation in relation to the culture industry\n- Translation studies have examined specific aspects like humor translation in children's literature\n\n### Educational and Memorial Impact\nEducational institutions have been named after the work, such as L'\u00e9cole \u00e9l\u00e9mentaire catholique Le Petit Prince in Ontario, Canada, which expanded from 30 students to 325 children by 2014. A bronze statue of the Little Prince was unveiled in New York City in September 2023.\n\n## Translation Theory and Practice\nAcademic research on translation preferences suggests \"we should accept and encourage the possibility of several translations of the same text, instead of selecting and excluding,\" indicating that translations should collaborate rather than compete in making meaning for readers.\n\nThe Little Prince continues to serve as a significant case study in translation studies, cultural transfer, and the globalization of literature, demonstrating how a single work can achieve unprecedented reach across linguistic and cultural boundaries."
+    ],
+    "durationSeconds": 26.466702486000024
+  }
+}

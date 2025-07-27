@@ -1,0 +1,62 @@
+{
+  "session_id": "f420e2ea-43ea-499f-a68a-b8dea67fad50",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/f420e2ea-43ea-499f-a68a-b8dea67fad50.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"The Little Prince\" film adaptations theater musical opera ballet global cultural impact statistics translations"
+  },
+  "tool_response": {
+    "query": "\"The Little Prince\" film adaptations theater musical opera ballet global cultural impact statistics translations",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01GG3YKR4aD2ks8U3mwDrihY",
+        "content": [
+          {
+            "title": "List of The Little Prince adaptations - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/List_of_The_Little_Prince_adaptations"
+          },
+          {
+            "title": "The Little Prince - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Little_Prince"
+          },
+          {
+            "title": "The Little Prince | Ultimate Pop Culture Wiki | Fandom",
+            "url": "https://ultimatepopculture.fandom.com/wiki/The_Little_Prince"
+          },
+          {
+            "title": "Adaptations | The Little Prince",
+            "url": "https://thepetitprince.wordpress.com/adaptations/"
+          },
+          {
+            "title": "The Little Prince (play) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Little_Prince_(play)"
+          },
+          {
+            "title": "The Little Prince (1974 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Little_Prince_(1974_film)"
+          },
+          {
+            "title": "The Little Prince | Culture Wikia | Fandom",
+            "url": "https://culture.fandom.com/wiki/The_Little_Prince"
+          },
+          {
+            "title": "The Little Prince | Plot, Analysis, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/The-Little-Prince"
+          },
+          {
+            "title": "The Little Prince - Play Guide",
+            "url": "https://www.guthrietheater.org/contentassets/2c80609d489144ffade39b074026af4c/prince_playguide_final_12.21.22.pdf"
+          },
+          {
+            "title": "The Little Prince - Antoine de Saint-Exup\u00e9ry, Classic, Fable | Britannica",
+            "url": "https://www.britannica.com/topic/The-Little-Prince/Analysis-and-reception"
+          }
+        ]
+      },
+      "Based on my search, here's a comprehensive overview of \"The Little Prince\" adaptations and global cultural impact:\n\n## Global Cultural Impact & Translation Statistics\n\nThe Little Prince has sold close to two million copies per year with sales totaling more than 140 million copies worldwide, making it one of the best-selling books ever published. The book has been translated into over 505 different languages and dialects worldwide, being the second most translated work ever published, trailing only the Bible. As of 2024, this number had risen to 600.\n\nThe novella is both the most read and most translated book in the French language, and was voted the best book of the 20th century in France. As a cultural icon, the novella regularly draws new readers and reviewers, selling almost two million copies annually and also spawning numerous adaptations.\n\n## Film Adaptations\n\nThe Little Prince is a 1974 sci-fi fantasy-musical film with screenplay and lyrics by Alan Jay Lerner, music by Frederick Loewe, arranged and orchestrated by Angela Morley. It was both directed and produced by Stanley Donen and based on the 1943 classic children-adult's novella. Notable movies included Stanley Donen's 1974 musical, featuring Bob Fosse and Gene Wilder, and a 2015 animated film with voice work by Jeff Bridges and Rachel McAdams.\n\n## Theater & Musical Adaptations\n\nThe Little Prince's popular appeal has lent itself to widespread dramatic adaptations in live stage productions at both the professional and amateur levels. It has become a staple of numerous stage companies, with dozens of productions created.\n\nNotable theater productions include:\n- The French-language musical, Le Petit Prince, by composer Riccardo Cocciante, ran at the Casino de Paris from October 2002 to January 2003. Daniel Lavoie played The Pilot while Jeff Tetedoie played The Prince\n- A German musical version produced by 3for1 Trinity Concerts GmbH premiered at the Musical Theater Niedernhausen (Wiesbaden) on December 12, 2015. The music was written by American soprano Deborah Sasson, the libretto and lyrics by Jochen Sautter\n- Cocreator Nicholas Lloyd Webber, son of famed British composer and theatrical producer Andrew Lloyd Webber, debuted the stage musical The Little Prince in 2011\n\n## Opera Adaptations\n\nSeveral operatic and ballet versions of the novella have been produced as early as the Russian Malen\u2032kiy prints by Lev Knipper, first performed in 1978 with a symphony score composed in the 1960s.\n\nOther notable opera adaptations include:\n- Rachel Portman composed an English opera, The Little Prince, based on the book that had its stage premiere in 2003 at the Houston Grand Opera in Houston, Texas, starring Nate Irvin as The Prince and Teddy Tahu Rhodes in the role of The Pilot, receiving widespread critical acclaim\n- Der Kleine Prinz opera with music by Michael Horwath and libretto by Barbara Hass, at the Theater des Westens in 1985\n\n## Ballet Adaptations\n\nThe National Ballet of Canada of Toronto, Ontario, Canada announced a future full-length adaptation of the story premiering in its 2015\u201316 season, to be choreographed by Guillaume C\u00f4t\u00e9, with its score composed by Kevin Lau and its libretto written by Adam Gopnik. In 2016 the National Ballet of Canada performed its own adaptation.\n\nThe Hurjaruuth Dance Theater in Helsinki, Finland created a new production in 2014, with direction by Arja Pettersson, expressing the story's elements of friendship, loneliness, the search for happiness and the thrill of life in general.\n\n## Overall Adaptations\n\nThe Little Prince has been adapted to numerous art forms and media, including audio recordings, radio plays, live stage, film, cinema television, ballet, and opera. The enduring appeal of The Little Prince resulted in numerous adaptations around the world, from radio plays and films to operas, ballets, and theatre productions.\n\nThe work's universal themes and timeless appeal have made it a source of inspiration across multiple artistic mediums, cementing its status as one of the most culturally significant literary works of the 20th century."
+    ],
+    "durationSeconds": 30.77120023899997
+  }
+}

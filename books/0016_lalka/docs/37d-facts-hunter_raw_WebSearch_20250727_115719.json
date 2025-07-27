@@ -1,0 +1,62 @@
+{
+  "session_id": "ee5740ec-c8bd-4d09-98fb-e20dcc0622d8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ee5740ec-c8bd-4d09-98fb-e20dcc0622d8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Poland wealth inequality youth economic anxiety class mobility 2024 2025"
+  },
+  "tool_response": {
+    "query": "Poland wealth inequality youth economic anxiety class mobility 2024 2025",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01R2dUHwtTDQEJVic7ZFZUCh",
+        "content": [
+          {
+            "title": "Poland - Inequality of income distribution - 2025 Data 2026 Forecast 2010-2024 Historical",
+            "url": "https://tradingeconomics.com/poland/inequality-of-income-distribution-eurostat-data.html"
+          },
+          {
+            "title": "Economic Inequality Seen as Major Challenge Around the World | Pew Research Center",
+            "url": "https://www.pewresearch.org/global/2025/01/09/economic-inequality-seen-as-major-challenge-around-the-world/"
+          },
+          {
+            "title": "The Anxious Middle Class: Risk of Downward Mobility and Support for Radical Right Parties across Western Europe - Derndorfer - 2025 - Review of Income and Wealth - Wiley Online Library",
+            "url": "https://onlinelibrary.wiley.com/doi/10.1111/roiw.12715?af=R"
+          },
+          {
+            "title": "Republic of Poland: 2024 Article IV Consultation-Press Release; Staff Report; and Statement by the Executive Director for the Republic of Poland in: IMF Staff Country Reports Volume 2025 Issue 006 (2025)",
+            "url": "https://www.elibrary.imf.org/view/journals/002/2025/006/article-A001-en.xml"
+          },
+          {
+            "title": "Global Social Mobility Index - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Global_Social_Mobility_Index"
+          },
+          {
+            "title": "No 40-2023, P. Bukowski, P. Chrostek, F. Novokmet, M. Skawi\u0144ski: Income inequality in the 21st century Poland - Ministry of Finance - Gov.pl website",
+            "url": "https://www.gov.pl/web/finance/no-40-2023-p-bukowski-p-chrostek-f-novokmet-m-skawinski-income-inequality-in-the-21st-century-poland"
+          },
+          {
+            "title": "Sharing the gains of transition: Evaluating changes in income inequality and redistribution in Poland using combined survey and tax return data - ScienceDirect",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0176268021001038"
+          },
+          {
+            "title": "What are the Trends and Explanations of Perceived Social Mobility in Poland? | Applied Research in Quality of Life",
+            "url": "https://link.springer.com/article/10.1007/s11482-022-10105-4"
+          },
+          {
+            "title": "Income Inequality by Country 2025",
+            "url": "https://worldpopulationreview.com/country-rankings/income-inequality-by-country"
+          },
+          {
+            "title": "Observatory on Social Mobility and Equal Opportunity | OECD",
+            "url": "https://www.oecd.org/en/about/programmes/observatory-on-social-mobility-and-equal-opportunity.html"
+          }
+        ]
+      },
+      "Based on the search results, here's what I found regarding Poland's wealth inequality, youth economic anxiety, and class mobility in 2024-2025:\n\n## Economic Inequality in Poland\n\nIncome inequality in Poland is among the lowest in the OECD, according to the IMF's 2024 assessment. This contrasts with some concerning trends. Poland's inequality of income distribution was 3.85 in December of 2024, according to the EUROSTAT.\n\n## Youth Economic Anxiety and Global Context\n\nThe Pew Research Center's 2024 survey found significant economic pessimism globally. A median of 57% of adults across the nations polled expect children in their country to be worse off financially than their parents when they grow up. This pessimistic view about the economic future is shared by younger and older adults alike, as well as by people with higher and lower incomes. Poland was included in this comprehensive survey conducted in 2024.\n\n## Social Mobility Patterns\n\nResearch on perceived social mobility in Poland shows mixed outcomes. In Poland, more than one fifth of respondents reported downward mobility in 2010, while about half reported doing better in life compared to their parents. This data suggests that while many Poles perceive upward mobility, a significant portion experience downward mobility concerns.\n\n## Economic Insecurity and Political Implications\n\nRecent academic research indicates that financial insecurity and work insecurity correlate with radical voting intentions, with the exception of Poland, Hungary and Italy, suggesting Poland may be somewhat resilient to this trend compared to other European nations.\n\n## Current Economic Conditions\n\nThe IMF reported that the labor market has cooled somewhat but remains tight, with unemployment remaining near historical lows (2.9 percent in Q3 2024). However, the fiscal deficit increased substantially from 3.4 percent of GDP in 2022 to 5.3 percent of GDP in 2023, with a further widening foreseen to 5.9 percent of GDP in 2024.\n\nThe data suggests that while Poland maintains relatively low inequality compared to OECD peers, concerns about intergenerational economic prospects and social mobility persist, reflecting broader European trends of economic anxiety among youth and concerns about class mobility."
+    ],
+    "durationSeconds": 19.65308218799997
+  }
+}

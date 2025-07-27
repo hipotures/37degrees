@@ -1,0 +1,62 @@
+{
+  "session_id": "33f7964e-50c3-4a6f-a60c-a132c9281df9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/33f7964e-50c3-4a6f-a60c-a132c9281df9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Mistrz i Ma\u0142gorzata\" teatr polska spektakl adaptacja telewizja radio"
+  },
+  "tool_response": {
+    "query": "\"Mistrz i Ma\u0142gorzata\" teatr polska spektakl adaptacja telewizja radio",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_013Ek7q6KEMidTRkUuwZav6g",
+        "content": [
+          {
+            "title": "Mistrz i Ma\u0142gorzata, Ogl\u0105daj na TVP VOD",
+            "url": "https://vod.tvp.pl/teatr-telewizji,202/mistrz-i-malgorzata,329602"
+          },
+          {
+            "title": "Mistrz i Ma\u0142gorzata - Teatr Muzyczny Capitol",
+            "url": "https://www.teatr-capitol.pl/spektakle/mistrz-i-malgorzata/"
+          },
+          {
+            "title": "Mistrz i Ma\u0142gorzata - serial telewizyjny, Ogl\u0105daj na TVP VOD",
+            "url": "https://vod.tvp.pl/seriale,18/mistrz-i-malgorzata-odcinki,314330"
+          },
+          {
+            "title": "Mistrz i Ma\u0142gorzata (Serial TV 1988-1988) - Filmweb",
+            "url": "https://www.filmweb.pl/serial/Mistrz+i+Ma%C5%82gorzata-1988-7762"
+          },
+          {
+            "title": "Mistrz i Ma\u0142gorzata - Teatr Telewizji Polskiej",
+            "url": "https://teatrtv.vod.tvp.pl/28366717/mistrz-i-malgorzata"
+          },
+          {
+            "title": "Mistrz i Ma\u0142gorzata (serial telewizyjny 1988) \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Mistrz_i_Ma%C5%82gorzata_(serial_telewizyjny_1988)"
+          },
+          {
+            "title": "Spektakl MISTRZ I MA\u0141GORZATA",
+            "url": "https://teatrdramatyczny.pl/mistrz-i-malgorzata"
+          },
+          {
+            "title": "FilmPolski.pl - MISTRZ I MA\u0141GORZATA",
+            "url": "https://www.filmpolski.pl/fp/index.php?film=1241985"
+          },
+          {
+            "title": "Mistrz i Ma\u0142gorzata - Telewizja Polska SA",
+            "url": "https://www.tvp.pl/seriale/archiwalne/mistrz-i-malgorzata"
+          },
+          {
+            "title": "Mistrz i Ma\u0142gorzata | Teatr Polski Bielsko-Bia\u0142a",
+            "url": "https://teatr.bielsko.pl/spektakl/mistrz-i-malgorzata"
+          }
+        ]
+      },
+      "Based on the search results, I found extensive information about Polish theatrical, television, and radio adaptations of \"The Master and Margarita\" (Mistrz i Ma\u0142gorzata) by Mikhail Bulgakov. Here's what I discovered:\n\n## Television Adaptations\n\nThe most prominent Polish television adaptation was directed by Maciej Wojtyszko and consisted of four episodes, produced in 1988 with its premiere in 1990. The main roles were played by W\u0142adys\u0142aw Kowalski as the Master, Anna Dymna as Margarita, and Gustaw Holoubek as Woland. This production combined elements of film drama, fantasy, political drama, psychological film, and romance.\n\n## Theatrical Adaptations\n\n### Lubelski Teatr Osterwy\nThere was a theatrical production registered by the Osterwy Theater in Lublin, with Artur Tyszkiewicz as both director and adapter of the classical novel. This scenic adaptation was a registered performance by Artur Tyszkiewicz from the Juliusz Osterwy Theater in Lublin.\n\n### Teatr Muzyczny Capitol\nThe Capitol Music Theater presented an adaptation as a brilliant musical. The production had direction, translation and adaptation by Wojciech Ko\u015bcielniak, with song lyrics by Rafa\u0142 Dziwisz and music by Piotr Dziubek.\n\n### Teatr Dramatyczny in Warsaw\nThe production was described as very visual, sometimes dark and terrifying, but not without humor, ambiguity, and incredible suggestions. The entire performance lasted approximately 3.5 hours.\n\n### Teatr Polski in Bielsko-Bia\u0142a\nThis was the third realization of Bulgakov's novel at the Polish Theater in Bielsko-Bia\u0142a over the last 21 years, with the first directed by Andrzej Maria Marczewski in 1998, the second by Robert Talarczyk in 2011. The newest adaptation was directed by Ma\u0142gorzata Warsicka.\n\n## Critical Reception\n\nThe adaptations received positive critical reviews. \"The show is a masterpiece!\" wrote Gazeta Wyborcza Wroc\u0142aw. Critics noted it as \"a show where probably every admirer of Bulgakov's novel will find the motif for which they loved the book, a musically fascinating adaptation\".\n\nThese Polish adaptations demonstrate the enduring popularity and theatrical potential of Bulgakov's masterwork across different media formats in Poland."
+    ],
+    "durationSeconds": 21.03239870599983
+  }
+}

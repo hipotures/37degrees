@@ -1,0 +1,62 @@
+{
+  "session_id": "f420e2ea-43ea-499f-a68a-b8dea67fad50",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/f420e2ea-43ea-499f-a68a-b8dea67fad50.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Little Prince global impact statistics most translated book languages worldwide sales records"
+  },
+  "tool_response": {
+    "query": "Little Prince global impact statistics most translated book languages worldwide sales records",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01E8CrTdsZqZ6SYtabE3BguG",
+        "content": [
+          {
+            "title": "The Little Prince - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Little_Prince"
+          },
+          {
+            "title": "The Little Prince reaches its 600th translation, a world record! - Le Petit Prince",
+            "url": "https://www.lepetitprince.com/en/events-around-the-world/the-little-prince-reaches-its-600th-translation/"
+          },
+          {
+            "title": "Little Princes Edition - P.I.A.F. Solutions",
+            "url": "https://www.piaf.solutions/en/2023/01/12/little-princes-edition/"
+          },
+          {
+            "title": "The Little Prince turns 80! - Le Petit Prince",
+            "url": "https://www.lepetitprince.com/en/events/the-little-prince-turns-80/"
+          },
+          {
+            "title": "Novels In Translation: The Little Prince | Atlas Translations",
+            "url": "https://www.atlas-translations.co.uk/blog/little-prince/"
+          },
+          {
+            "title": "List of literary works by number of translations - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/List_of_literary_works_by_number_of_translations"
+          },
+          {
+            "title": "The most translated books in the world",
+            "url": "https://www.alphatrad.com/news/most-translated-books"
+          },
+          {
+            "title": "The Little Prince, A King Of Most Translated Books - Worldcrunch",
+            "url": "https://worldcrunch.com/culture-society/the-little-prince-a-king-of-most-translated-books"
+          },
+          {
+            "title": "List of best-selling books - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/List_of_best-selling_books"
+          },
+          {
+            "title": "List of The Little Prince adaptations - Wikipedia",
+            "url": "https://en.m.wikipedia.org/wiki/List_of_The_Little_Prince_adaptations"
+          }
+        ]
+      },
+      "Based on the search results, here are the key global impact statistics for \"The Little Prince\":\n\n## Translation Statistics\n\nThe Little Prince has reached a historic milestone as the world's most translated fiction book, with 600 translations as of 2024. This makes it the second most translated work ever published, trailing only the Bible.\n\nThe translation milestones include:\n- In April 2017, it became the world's most translated non-religious book, with translations into 300 languages\n- This number had risen to 600 by November 2024\n- The 600th translation was presented in Dulegaya, the language of the Indigenous Guna people of Northeastern Panama and Colombia, on June 25, 2024\n\n## Sales Records\n\nThe Little Prince became Saint-Exup\u00e9ry's most successful work, selling an estimated 140 million copies worldwide, which makes it one of the best-selling in history. It sells close to two million copies per year with sales totalling more than 140 million copies worldwide.\n\n## Global Publishing Phenomenon\n\nThe novella is both the most read and most translated book in the French language, and was voted the best book of the 20th century in France. It became a bestseller in France selling over 14 million copies through Gallimard.\n\n## Cultural Impact\n\nToday, with many languages on the brink of extinction, The Little Prince uniquely preserves languages and transmits cultures. Thanks to the passion of translators, this work has been translated into rare languages and endangered dialects, thus contributing to the preservation of the world's linguistic heritage.\n\nThe book has been translated into numerous minority and endangered languages, including Sardinian, the constructed languages of Esperanto and Klingon, and the Congolese language Alur, as well as being printed in Braille for blind readers."
+    ],
+    "durationSeconds": 17.273711058999993
+  }
+}

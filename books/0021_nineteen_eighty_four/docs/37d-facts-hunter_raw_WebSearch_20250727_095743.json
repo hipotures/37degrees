@@ -1,0 +1,62 @@
+{
+  "session_id": "10d774b1-cbee-4596-b9de-70bcda5cd9e0",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/10d774b1-cbee-4596-b9de-70bcda5cd9e0.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "George Orwell 1984 polskie t\u0142umaczenia historia wydania \"Rok 1984\" t\u0142umacze wydawnictwa"
+  },
+  "tool_response": {
+    "query": "George Orwell 1984 polskie t\u0142umaczenia historia wydania \"Rok 1984\" t\u0142umacze wydawnictwa",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_011r6Yu8UtJ1QGZFfQXeRhSU",
+        "content": [
+          {
+            "title": "George Orwell, Rok 1984",
+            "url": "https://wolnelektury.pl/katalog/lektura/orwell-rok-1984/"
+          },
+          {
+            "title": "Rok 1984 \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Rok_1984"
+          },
+          {
+            "title": "Rok 1984 George Orwell ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/rok-1984-george-orwell"
+          },
+          {
+            "title": "Rok 1984 George'a Orwella w t\u0142umaczeniach - Skrivanek",
+            "url": "https://skrivanek.pl/rok-1984-georgea-orwella-w-tlumaczeniach/"
+          },
+          {
+            "title": "Rok 1984 - Streszczenie szczeg\u00f3\u0142owe - George Orwell - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/george-orwell/rok-1984.streszczenie-szczegolowe"
+          },
+          {
+            "title": "Rok 1984 | George Orwell, George Orwell (Ksi\u0105\u017cka) - Ksi\u0119garnia znak.com.pl",
+            "url": "https://www.znak.com.pl/p/rok-1984-george-orwell-george-orwell-140397"
+          },
+          {
+            "title": "Premiera nowego t\u0142umaczenia \u201eRoku 1984\u201d George\u2019a Orwella ju\u017c tej wiosny | Aktualno\u015bci | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/premiera-nowego-tlumaczenia-roku-1984-george-a-orwella-juz-tej-wiosny"
+          },
+          {
+            "title": "George Orwell \u2013 ciekawostki \u2013 Blog Wydawnictwa GREG",
+            "url": "https://www.greg.pl/blog/george-orwell/"
+          },
+          {
+            "title": "Rok 1984 ebook pdf,mobi,epub - George Orwell - UpolujEbooka.pl",
+            "url": "https://upolujebooka.pl/oferta,95675,rok_1984.html"
+          },
+          {
+            "title": "Rok 1984 - George Orwell | lektury szkolne z om\u00f3wieniem",
+            "url": "https://www.greg.pl/lektury/103,1178_Rok-1984.html"
+          }
+        ]
+      },
+      "Oto wyniki wyszukiwania dotycz\u0105ce polskich t\u0142umacze\u0144 \"Roku 1984\" George'a Orwella:\n\n## Historia polskich wyda\u0144\n\nPierwsze polskie t\u0142umaczenie, autorstwa Juliusza Mieroszewskiego, ukaza\u0142o si\u0119 w Pary\u017cu w 1953 roku przez Instytut Literacki. W PRL-u \"Rok 1984\" by\u0142 zakazany przez cenzur\u0119, a pierwsze oficjalne wydanie krajowe ukaza\u0142o si\u0119 dopiero w 1988 roku.\n\nOd roku 1980 powie\u015b\u0107 by\u0142a jednak publikowana w postaci przedruk\u00f3w z wydania paryskiego w wydawnictwach niezale\u017cnych \u2013 tzw. \"drugiego obiegu\".\n\n## T\u0142umacze i wydania po 1988 roku\n\nPo 1988 roku publikowane by\u0142y przek\u0142ady nast\u0119puj\u0105cych t\u0142umaczy:\n- Tomasza Mirkowicza\n- Bart\u0142omieja Zborskiego  \n- Doroty Konowrockiej-Sawy\n- Roberta Sud\u00f3\u0142a\n- Ma\u0142gorzaty Kaczorowskiej\n\n## Najnowsze t\u0142umaczenia\n\nWolne Lektury opublikowa\u0142y najnowsze t\u0142umaczenie autorstwa Julii Fiedorczuk \u2014 pisarki, poetki, t\u0142umaczki i wyk\u0142adowczyni Instytutu Anglistyki Uniwersytetu Warszawskiego.\n\nW 2022 roku ukaza\u0142o si\u0119 nowe t\u0142umaczenie Andrzeja Jankowskiego w wydawnictwie Rebis, a wydawnictwo GREG opublikowa\u0142o przek\u0142ad Krzysztofa Mazurka.\n\nW ci\u0105gu ostatnich kilkunastu miesi\u0119cy pojawi\u0142o si\u0119 kilka nowych t\u0142umacze\u0144, w tym: Roberta Sud\u00f3\u0142a (Vis-a-Vis/Etiuda), Andrzeja Jankowskiego (\u015awiat Ksi\u0105\u017cki), Doroty Konowrockiej-Sawy (W.A.B.), Paw\u0142a Bulskiego (SBM) oraz klasyczne Tomasza Mirkowicza (Muza).\n\nW 2021 roku ukaza\u0142a si\u0119 r\u00f3wnie\u017c graficzna adaptacja dzie\u0142a z ilustracjami brazylijskiego grafika Fido Nesti w przek\u0142adzie Ma\u0142gorzaty Kaczorowskiej.\n\n## Zachowanie terminologii\n\nNowe t\u0142umaczenia zachowuj\u0105 charakterystyczne zwroty, sformu\u0142owania i nazwy, jak np. \"Wielki Brat\" i wi\u0119kszo\u015b\u0107 s\u0142\u00f3w z nowomowy, kt\u00f3re s\u0105 znane z t\u0142umaczenia Juliusza Mieroszewskiego."
+    ],
+    "durationSeconds": 22.013522673
+  }
+}

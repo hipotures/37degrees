@@ -1,0 +1,62 @@
+{
+  "session_id": "f420e2ea-43ea-499f-a68a-b8dea67fad50",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/f420e2ea-43ea-499f-a68a-b8dea67fad50.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Ma\u0142y Ksi\u0105\u017c\u0119 s\u0142ynne cytaty polski Szwykowski t\u0142umaczenie najwa\u017cniejsze oczami sercem"
+  },
+  "tool_response": {
+    "query": "Ma\u0142y Ksi\u0105\u017c\u0119 s\u0142ynne cytaty polski Szwykowski t\u0142umaczenie najwa\u017cniejsze oczami sercem",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01EPVy3MuwTeosM95efqp2HY",
+        "content": [
+          {
+            "title": "Ma\u0142y Ksi\u0105\u017c\u0119 \u2013 Wikicytaty",
+            "url": "https://pl.wikiquote.org/wiki/Ma\u0142y_Ksi\u0105\u017c\u0119"
+          },
+          {
+            "title": "Jak rozumie\u0107 s\u0142owa z \u201eMa\u0142ego Ksi\u0119cia\u201d, i\u017c \u201e\u2026dobrze widzi si\u0119 tylko sercem. Najwa\u017cniejsze jest niewidoczne dla oczu?\" - Lektury - Bryk.pl",
+            "url": "https://www.bryk.pl/wypracowania/jezyk-polski/lektury/21050-jak-rozumiec-slowa-z-malego-ksiecia-iz-dobrze-widzi-sie-tylko-sercem-najwazniejsze-jest-niewidoczne-dla-oczu.html"
+          },
+          {
+            "title": "Zinterpretuj cytat: \u201eDobrze widzi si\u0119 tylko sercem. Najwa\u017cniejsze jest nie widoczne dla oczu\u201d - Lektury - Bryk.pl",
+            "url": "https://www.bryk.pl/wypracowania/jezyk-polski/lektury/18116-zinterpretuj-cytat-dobrze-widzi-sie-tylko-sercem-najwazniejsze-jest-nie-widoczne-dla-oczu.html"
+          },
+          {
+            "title": "Najpi\u0119kniejsze cytaty z Ma\u0142ego Ksi\u0119cia - Szko\u0142a j\u0119zykowa Skrivanek",
+            "url": "https://szkolajezyk.pl/najpiekniejsze-cytaty-z-malego-ksiecia/"
+          },
+          {
+            "title": "Najlepsze cytaty z ksi\u0105\u017cki \"Ma\u0142y Ksi\u0105\u017ce\". Id\u0119 o zak\u0142ad, \u017ce kochacie je wszystkie",
+            "url": "https://joannapachla.com/literatura/55-cytatow-z-malego-ksiecia-ide-o-zaklad-ze-kochasz-je-wszystkie/"
+          },
+          {
+            "title": "\u201eWidzie\u0107 mo\u017cna tylko sercem. Najwa\u017cniejsze jest niewidoczne dla oczu\u201d - interpretacja i rozwini\u0119cie tematu w oparciu o Ma\u0142ego Ksi\u0119cia \u2013 Ma\u0142y Ksi\u0105\u017c\u0119 \u2013 Antoine de Saint-Exup\u00e9ry \u2013 poezja.org",
+            "url": "https://poezja.org/wz/interpretacja/4075/Widziec_mozna_tylko_sercem_Najwazniejsze_jest_niewidoczne_dla_oczu_interpretacja"
+          },
+          {
+            "title": "Najpi\u0119kniejsze cytaty z Ma\u0142ego Ksi\u0119cia - Blog Moi-Mili.pl",
+            "url": "https://moi-mili.pl/cytaty-z-malego-ksiecia/"
+          },
+          {
+            "title": "Najpi\u0119kniejsze cytaty z Ma\u0142ego Ksi\u0119cia - odkryj m\u0105dro\u015b\u0107!",
+            "url": "https://extraordinarylife.pl/maly-ksiaze-cytaty/"
+          },
+          {
+            "title": "Ma\u0142y Ksi\u0105\u017c\u0119 - pe\u0142en tekst",
+            "url": "http://biblioteka.kijowski.pl/st_exupery  antoine de/polski/21.htm"
+          },
+          {
+            "title": "Ma\u0142y Ksi\u0105\u017c\u0119 - cytaty i najlepsze z\u0142otemy\u015bli z \u201eMa\u0142ego Ksi\u0119cia\u201d do zapami\u0119tania!",
+            "url": "https://twojstyl.pl/artykul/cytaty-z-malego-ksiecia-te-zlote-mysli-przypominaja-co-w-zyciu-jest-naprawde-wazne-wzruszycie-sie,aid,5862"
+          }
+        ]
+      },
+      "Based on the search results, I found extensive information about famous quotes from \"The Little Prince\" (Ma\u0142y Ksi\u0105\u017c\u0119) in Polish, including the Szwykowski translation and the most important quotes about seeing with the heart and the eyes. Here's what I found:\n\n## Najs\u0142ynniejsze cytaty z \"Ma\u0142ego Ksi\u0119cia\" w t\u0142umaczeniu Jana Szwykowskiego\n\nNajwa\u017cniejszy cytat z ksi\u0105\u017cki to: \"A oto m\u00f3j sekret. Jest bardzo prosty: dobrze widzi si\u0119 tylko sercem, najwa\u017cniejsze jest niewidoczne dla oczu.\"(no content)Ksi\u0105\u017cka \"Ma\u0142y Ksi\u0105\u017c\u0119\" (Le Petit Prince) to ba\u015b\u0144 poetycka autorstwa Antoine'a de Saint-Exup\u00e9ry'ego z 1943 roku w t\u0142umaczeniu Jana Szwykowskiego.(no content)Za najpopularniejsz\u0105 uwa\u017ca si\u0119 wersj\u0119 Jana Szwykowskiego.\n\n### Inne znacz\u0105ce cytaty z polskiego t\u0142umaczenia:\n\n**O patrzeniu sercem:** \"Lecz oczy s\u0105 \u015blepe. Szuka\u0107 nale\u017cy sercem.\"(no content)**O przyja\u017ani:** \"Ludzie maj\u0105 zbyt ma\u0142o czasu, aby cokolwiek pozna\u0107. Kupuj\u0105 w sklepach rzeczy gotowe. A poniewa\u017c nie ma magazyn\u00f3w z przyjaci\u00f3\u0142mi, wi\u0119c ludzie nie maj\u0105 przyjaci\u00f3\u0142.\"(no content)**O odpowiedzialno\u015bci:** \"Na zawsze ponosisz odpowiedzialno\u015b\u0107 za to, co oswoi\u0142e\u015b.\"(no content)**O oswajaniu:** \"Decyzja oswojenia niesie w sobie ryzyko \u0142ez.\"\n\n### Interpretacja g\u0142\u00f3wnego cytatu:\n\nKsi\u0105\u017c\u0119 poj\u0105\u0142 sekret lisa i przyswoi\u0142 sobie wielk\u0105 prawd\u0119, i\u017c najlepiej widzi si\u0119 sercem. Ma\u0142y Ksi\u0105\u017c\u0119 nauczy\u0142 si\u0119 patrze\u0107 sercem. Patrze\u0107 bowiem sercem znaczy rozumie\u0107 drugich, znajduj\u0105cych si\u0119 obok nas.(no content)Znamienne s\u0105 s\u0142owa z ksi\u0105\u017cki, i\u017c \"najwa\u017cniejsze jest niewidoczne dla oczu\". Cz\u0142owiek dzisiejszy \u017cyje coraz szybciej, ci\u0105gle si\u0119 gdzie\u015b spieszy, na wszystko brakuje mu czasu. Dlatego na zatrzymanie si\u0119, na zastanowienie nad w\u0142asnym \u017cyciem pozostaje naprawd\u0119 niewiele czasu.(no content)Ma\u0142y Ksi\u0105\u017c\u0119 zosta\u0142 przet\u0142umaczony z francuskiego na j\u0119zyk polski a\u017c 18 razy. Co ciekawe, nasza mowa ojczysta by\u0142a jednym z pierwszych j\u0119zyk\u00f3w, w kt\u00f3rych pojawi\u0142 si\u0119 przek\u0142ad dzie\u0142a."
+    ],
+    "durationSeconds": 23.780550122999994
+  }
+}

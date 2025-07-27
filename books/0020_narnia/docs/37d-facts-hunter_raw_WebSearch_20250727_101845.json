@@ -1,0 +1,62 @@
+{
+  "session_id": "7ed04832-da4f-417c-b9bb-c372937eeaa9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7ed04832-da4f-417c-b9bb-c372937eeaa9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Chronicles Narnia BookTok fantasy books Gen Z teenagers"
+  },
+  "tool_response": {
+    "query": "Chronicles Narnia BookTok fantasy books Gen Z teenagers",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_018d32JH8RtLLwYCsHsxmAMo",
+        "content": [
+          {
+            "title": "The Chronicles of Narnia - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Chronicles_of_Narnia"
+          },
+          {
+            "title": "Magical Books for Kids Who Like The Chronicles of Narnia",
+            "url": "https://www.whatdowedoallday.com/books-like-narnia/"
+          },
+          {
+            "title": "The Chronicles of Narnia - Fans of Narnia: what else should I read? Showing 1-50 of 116",
+            "url": "https://www.goodreads.com/topic/show/9983-fans-of-narnia-what-else-should-i-read"
+          },
+          {
+            "title": "All-Time Favorite Fantasy Books for Tweens and Teens | Brightly",
+            "url": "https://www.readbrightly.com/time-favorite-fantasy-books-tweens-teens/"
+          },
+          {
+            "title": "Amazon.com: Chronicles of Narnia Box Set: 9780061992889: Lewis, C. S., Baynes, Pauline: Books",
+            "url": "https://www.amazon.com/Chronicles-Narnia-Box-Set-Lewis/dp/0061992887"
+          },
+          {
+            "title": "Book Series: The Chronicles of Narnia",
+            "url": "https://www.ducksters.com/kidsbooks/chronicles_of_narnia.php"
+          },
+          {
+            "title": "8 Books to read if you love The Chronicles of Narnia \u2013 greenish bookshelf",
+            "url": "https://greenishbookshelf.com/2019/07/06/8-books-to-read-if-you-love-the-chronicles-of-narnia/"
+          },
+          {
+            "title": "5 Fantasy Books That Defined Millennials' Childhoods",
+            "url": "https://screenrant.com/fantasy-books-defined-millennials-childhoods-list/"
+          },
+          {
+            "title": "Chronicles of Narnia Series | Narnia Books | Barnes & Noble\u00ae",
+            "url": "https://www.barnesandnoble.com/b/series/chronicles-of-narnia-series/_/N-2kp8"
+          },
+          {
+            "title": "25 of the Best Fantasy Books For Teens | Best Young Adult Fantasy Books",
+            "url": "https://www.readbrightly.com/best-young-adult-fantasy-books/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with insights about the Chronicles of Narnia and its connection to BookTok, fantasy books, and Gen Z teenagers:\n\n## The Chronicles of Narnia and Modern Young Readers\n\nThe Chronicles of Narnia is a series of seven portal fantasy novels by British author C. S. Lewis, illustrated by Pauline Baynes and originally published between 1950 and 1956, the series is set in the fictional realm of Narnia, a fantasy world of magic, mythical beasts, and talking animals.\n\n### Contemporary Appeal to Gen Z and BookTok\n\nC. S. Lewis's The Chronicles of Narnia has captivated readers of all ages for over sixty years, enchanting them with fantastical talking creatures, epic battles between good and evil, and magical doorways into new lands. The series continues to find new audiences among younger generations, including Gen Z readers who discover it through various platforms including BookTok.\n\n### Reading Level and Accessibility\n\nThe Narnia books, known for their imaginative storytelling, are a great choice for the 9-12-year-old reading level but can be enjoyed by kids of different ages from young readers to teens, making them accessible to a wide range of young readers.\n\n### Similar Fantasy Books for Gen Z Readers\n\nThe search results reveal several fantasy series that appeal to similar audiences:\n\n**Popular recommendations for Narnia fans include:**\n- Harry Potter and the Sorcerer's Stone by J. K. Rowling // This series needs so intro and seems an obvious choice for a list like this. Both this and Narnia are fantastic!\n- Fablehaven by Brandon Mull // I have raved over and over about this series on my blog. But it's perfect again for a list like this. Siblings Kendra and Seth are swept into the world of Fablehaven, a magical preserve for fantastic creatures run by their grandparents.\n\n### BookTok and Modern Fantasy Trends\n\nIf you love fairy tales and folklore, you won't want to miss this breathtaking #booktok sensation! This indicates that fantasy books, including classics like Narnia, are finding renewed popularity on social media platforms like BookTok, where young readers share recommendations.\n\n### Generational Impact\n\nLike other generations, many millennials were introduced to J.R.R. Tolkien's Lord of the Rings books and C.S. Lewis' Chronicles of Narnia series in school. These classics make great entry-points into the fantasy genre, but they're old enough that their influence spans multiple generations.\n\nThe Chronicles of Narnia remains relevant to contemporary young readers, including Gen Z, through its timeless themes, accessible storytelling, and continued presence in modern literary discussions on platforms like BookTok, where fantasy literature thrives."
+    ],
+    "durationSeconds": 22.17434914100007
+  }
+}

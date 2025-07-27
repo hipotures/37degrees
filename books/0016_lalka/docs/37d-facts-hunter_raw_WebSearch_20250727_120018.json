@@ -1,0 +1,21 @@
+{
+  "session_id": "ee5740ec-c8bd-4d09-98fb-e20dcc0622d8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ee5740ec-c8bd-4d09-98fb-e20dcc0622d8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "postcolonial criticism \"Lalka\" Prus Russian partition Polish colonialism academic studies"
+  },
+  "tool_response": {
+    "query": "postcolonial criticism \"Lalka\" Prus Russian partition Polish colonialism academic studies",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01X9obTBrNG5toYA9ktyQcrZ",
+        "content": []
+      },
+      "I performed a web search for your query about postcolonial criticism of \"Lalka\" by Prus in the context of the Russian partition and Polish colonialism in academic studies. However, the search didn't return any results. This could be because:\n\n1. This is a very specialized academic topic that may not have extensive online coverage\n2. The specific combination of terms may be too narrow\n3. Academic literature on this topic might be primarily in Polish or published in specialized journals with limited online access\n\nIf you're looking for academic studies on this topic, you might want to try:\n- Searching academic databases like JSTOR, Project MUSE, or MLA International Bibliography\n- Looking for Polish literary criticism journals\n- Checking university library databases that specialize in Slavic or Eastern European studies\n- Broadening the search terms to focus on one aspect at a time (e.g., just \"Lalka Prus postcolonial\" or \"Polish literature Russian partition colonialism\")\n\nWould you like me to try a modified search with different or broader terms?"
+    ],
+    "durationSeconds": 9.711432570999953
+  }
+}

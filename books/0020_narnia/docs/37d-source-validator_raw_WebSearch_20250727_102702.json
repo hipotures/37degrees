@@ -1,0 +1,62 @@
+{
+  "session_id": "7ed04832-da4f-417c-b9bb-c372937eeaa9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7ed04832-da4f-417c-b9bb-c372937eeaa9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Polish stone altars sacrifice symbolism Slavic rituals religious stones Catholic Poland"
+  },
+  "tool_response": {
+    "query": "Polish stone altars sacrifice symbolism Slavic rituals religious stones Catholic Poland",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01EMrLWzjiHzd5SptXdz7kfK",
+        "content": [
+          {
+            "title": "The Layered Meanings of Poland\u2019s Wayside Shrines | Folklife Magazine",
+            "url": "https://folklife.si.edu/magazine/poland-wayside-shrines"
+          },
+          {
+            "title": "9 Slavic Rituals & Customs of Ye Olden Days | Article | Culture.pl",
+            "url": "https://culture.pl/en/article/9-slavic-rituals-customs-of-ye-olden-days"
+          },
+          {
+            "title": "Slavic paganism - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Slavic_paganism"
+          },
+          {
+            "title": "Native Polish Church - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Native_Polish_Church"
+          },
+          {
+            "title": "Traces of Slavic Pagan Rites in the Polish Easter Tradition - ARCHAEOTRAVEL.eu",
+            "url": "https://archaeotravel.eu/traces-of-slavic-pagan-rites-in-the-polish-easter-traditions/"
+          },
+          {
+            "title": "Sacred Symbols and Sites - Gods of poland",
+            "url": "https://www.godsofpoland.org/symbols.html"
+          },
+          {
+            "title": "From Slavic Rites to Old Polish and Modern Polish Christmas - ARCHAEOTRAVEL.eu",
+            "url": "https://archaeotravel.eu/from-slavic-rites-to-old-polish-and-modern-polish-christmas/"
+          },
+          {
+            "title": "7 unique Polish traditions you won't find anywhere else in the world",
+            "url": "https://www.trafalgar.com/real-word/7-unique-polish-traditions/"
+          },
+          {
+            "title": "Paganism in Poland - Living, News, Paganism, World",
+            "url": "https://wildhunt.org/2016/07/paganism-in-poland.html"
+          },
+          {
+            "title": "Polish Paganism - Polish Toledo - Archive of Okana",
+            "url": "http://www.polishtoledo.com/pagan/"
+          }
+        ]
+      },
+      "Based on my search, I found comprehensive information about Polish stone altars, Slavic ritual practices, and the relationship between pre-Christian traditions and Catholic Poland. Here's what the search revealed:\n\n## Stone Altars and Sacred Sites\n\nThere existed holy places with no buildings, where the deity was believed to manifest in nature itself. Such locations were characterised by the combined presence of trees and springs, according to historical descriptions of Slavic sacred sites. Poland is dotted with many other ancient sacred sites. The Krakow Mound is often sited as an impressive example of an ancient Slavic sacred site.\n\n## Sacrificial Practices and Symbolism\n\nThe search revealed several aspects of Slavic sacrificial practices:\n\nThese ritual banquets are known variously, across Slavic countries, as bratchina (from brat, \"brother\"), mol'ba (\"entreaty\", \"supplication\") and kanun (short religious service) in Russia; slava (\"glorification\") in Serbia; sobor (\"assembly\") and kurban (\"sacrifice\") in Bulgaria.\n\nAlso Slavic \"Giver of Favorable Winds\" a weather and agricultural goddess to whom sheep and cattle were sacrificed to. Piorun's sacrificial animals included roosters, bears, bulls, and he-goats. Consumption of these animals was believed to have the person absorb the essence of God, which parallels modern communion in Christianity.\n\n## Religious Stones and Sacred Objects\n\nSlavic Native Faith artefacts from the pre-Christian era are very rare. Two items stand out : the Hand of God vessel found near L\u00f3d\u017a, and the four sided Zbruch Idol, now kept at the Archeological Museum in Krakow. Some scholars suggest the idol represents \u015awietowit - our high god.\n\n## Relationship with Catholic Poland\n\nThe transition from Slavic paganism to Catholicism created a unique religious landscape:\n\nThroughout the ages, and even until this century, Slavs have expressed a curious religious concept known as \"double faith\" (in Polish, dwojwierny dvoi-VYAIR-nee, in Russian, dvoeverie). It is the concurrent existence of Christian and Pagan beliefs.\n\nIn folk beliefs, if a place was inhabited by a demon or a devil, establishing a shrine guaranteed it would go away. This shows how Catholic wayside shrines were built on locations with earlier spiritual significance.\n\n## Modern Revival\n\nThe Native Polish Church, or Native Church of Poland (Polish: Rodzimy Ko\u015bci\u00f3\u0142 Polski, RKP), is a West Slavic pagan religious association that adverts to ethnic, pre-Christian beliefs of the Slavic peoples. The most popular Pagan path practiced in Poland is Rodzimowierstwo (\"native faith\"), an indigenous form of Slavic polytheism. Adherents tend to use a reconstructionist methodology to rebuild their native faith.\n\nThe search shows that while Poland became predominantly Catholic after 966 AD, ancient Slavic ritual practices involving stone altars, sacrificial rites, and sacred natural sites have left lasting traces in Polish culture, and there's a growing modern movement to revive these pre-Christian traditions."
+    ],
+    "durationSeconds": 24.712769386
+  }
+}

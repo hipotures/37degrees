@@ -1,0 +1,62 @@
+{
+  "session_id": "ee5740ec-c8bd-4d09-98fb-e20dcc0622d8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ee5740ec-c8bd-4d09-98fb-e20dcc0622d8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Gen Z loneliness epidemic depression social isolation mental health 2024 2025"
+  },
+  "tool_response": {
+    "query": "Gen Z loneliness epidemic depression social isolation mental health 2024 2025",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01KtchMFoLhgDcrP2Cx7AKrH",
+        "content": [
+          {
+            "title": "Isolation Among Generation Z in the United States - Ballard Brief",
+            "url": "https://ballardbrief.byu.edu/issue-briefs/isolation-among-generation-z-in-the-united-states"
+          },
+          {
+            "title": "Breaking down the teen loneliness epidemic, and how you can help | GBH",
+            "url": "https://www.wgbh.org/news/health/2024-05-15/breaking-down-the-teen-loneliness-epidemic-and-how-you-can-help"
+          },
+          {
+            "title": "Surfing her way out of the social anxiety shared by many in Gen Z : Shots - Health News : NPR",
+            "url": "https://www.npr.org/sections/shots-health-news/2024/11/29/nx-s1-5210636/loneliness-social-isolation-friendship-hinge-gen-z"
+          },
+          {
+            "title": "The loneliest generation: Inside the Gen Z mental health crisis",
+            "url": "https://www.axios.com/2024/02/17/gen-z-depression-anxiety-future-workforce"
+          },
+          {
+            "title": "Gen Z Has a Loneliness Problem - Newsweek",
+            "url": "https://www.newsweek.com/generation-genz-loneliness-problem-mental-health-1877013"
+          },
+          {
+            "title": "Gen Z and millennial men in the U.S. are among the loneliest in the world | Fortune Well",
+            "url": "https://fortune.com/well/2025/05/21/gen-z-millennial-men-loneliness/"
+          },
+          {
+            "title": "Full article: Social isolation and loneliness among Generation Z employees: can emotional intelligence help mitigate?",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/23311975.2024.2441474"
+          },
+          {
+            "title": "Our Epidemic of Loneliness and Isolation",
+            "url": "https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf"
+          },
+          {
+            "title": "Gen Z are not okay: Study shows they're more depressed, isolated, feel less successful than millennial coworkers | Fortune",
+            "url": "https://fortune.com/2025/01/21/gen-z-depressed-isolated-compared-boomers-millennials-metlife-report/"
+          },
+          {
+            "title": "Understanding Gen Z\u2019s loneliness epidemic",
+            "url": "https://www.gwi.com/blog/gen-z-loneliness"
+          }
+        ]
+      },
+      "Based on the search results, here's what recent research reveals about Gen Z's loneliness epidemic and mental health crisis in 2024-2025:\n\n## The Scale of the Problem\n\nGeneration Z is the loneliest generation the world has seen, with isolation rates higher than both millennials and members of Generation X. Recent research from 2024 confirms this trend, with research conducted in November 2024 showing that this generation experiences loneliness more than any other, with eight in 10 Gen Z respondents (80%) agreeing they've felt lonely in the past 12 months\u2014a stark contrast to just 45% of baby boomers.(no content)Of the Gen Z respondents, 30% reported feeling isolated, compared to 22% recorded across other age demographics. The mental health impacts are equally concerning, with 41 percent of the Gen Z cohort saying they struggled with their mental health, alongside 36 percent of Millennials.\n\n## Contributing Factors\n\n### Reduced In-Person Social Interaction\nWhen the surgeon general issued a 2023 warning on the epidemic of loneliness and social isolation, one fact stood out: People between the ages of 15-24 spend 70% less time in person with friends than those of the same age did in 2003. This difference amounts to nearly 1,000 fewer hours per year.\n\n### Social Media and Digital Connection\nFactors such as social media usage contribute to feelings of loneliness that are compounded by the vulnerability and peer exclusion often experienced during adolescence.(no content)Partly by choice and partly out of necessity during the pandemic, Gen Z socializes online, rather than in person, far more than previous generations. That's not healthy, experts say.\n\n### COVID-19 Impact\nCOVID isolation hit Gen Z especially hard. \"It was a complete lack of social connectedness during a such a formative time,\" said behavioral neuroscientist Bonnie Nagel.\n\n## Health Consequences\n\nThe research reveals serious mental and physical health impacts:\n\nSocial isolation leads to detrimental effects on both the physical and mental health of teenagers who experience it. Such effects include decreased sleep efficiency, a weakened immune system, and depression.(no content)Further, those who are lonely and isolated are more likely to participate in risky behavior such as substance abuse.(no content)Loneliness, which was declared a national epidemic by the former U.S. Surgeon General Vivek Murthy in 2023, has been found to increase the risk of developing depression, anxiety, diabetes, heart disease, dementia, and stroke, according to the Centers for Disease Control and Prevention.\n\n## Workplace Impact\n\nGen Z also says they are less productive, happy, and engaged than their boomer colleagues. While 79% of boomers said they were engaged at work, 86% said they were productive, and 71% said they were happy, Gen Z's responses were 60%, 64%, and 59%, respectively.\n\nThe research indicates this is becoming a critical issue as Gen Z is predicted to comprise approximately 27% of the workforce by 2025."
+    ],
+    "durationSeconds": 22.596719105999917
+  }
+}

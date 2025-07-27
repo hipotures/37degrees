@@ -1,0 +1,62 @@
+{
+  "session_id": "10d774b1-cbee-4596-b9de-70bcda5cd9e0",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/10d774b1-cbee-4596-b9de-70bcda5cd9e0.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "George Orwell Spanish Civil War 1936 POUM militia experience influence 1984 totalitarianism"
+  },
+  "tool_response": {
+    "query": "George Orwell Spanish Civil War 1936 POUM militia experience influence 1984 totalitarianism",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01M3wDazhRGojqzvMiRpvdyK",
+        "content": [
+          {
+            "title": "How Spain\u2019s Civil War defined George Orwell politically",
+            "url": "https://www.realinstitutoelcano.org/en/commentaries/how-spains-civil-war-defined-george-orwell-politically/"
+          },
+          {
+            "title": "Homage to Catalonia - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Homage_to_Catalonia"
+          },
+          {
+            "title": "'George Orwell Learns About Propaganda in Spanish Civil War. Crystallized Orwell\u2019s Transformation'",
+            "url": "https://www.strategycentral.io/post/the-spanish-civil-war-and-george-orwell-a-powerful-transformation-of-a-once-naive-man"
+          },
+          {
+            "title": "Looking Back on the Spanish War | The Orwell Foundation",
+            "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/looking-back-on-the-spanish-war/"
+          },
+          {
+            "title": "GEORGE ORWELL AND THE SPANISH CIVIL WAR | Clifford Thurlow",
+            "url": "https://cliffordthurlow.com/2022/10/15/george-orwell-and-the-spanish-civil-war/"
+          },
+          {
+            "title": "George Orwell - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/George_Orwell"
+          },
+          {
+            "title": "Orwell on revolutionary Spain \u2013 Understanding Society",
+            "url": "https://undsoc.org/2020/10/20/orwell-on-revolutionary-spain/"
+          },
+          {
+            "title": "George Orwell and Barcelona: Unearthing History",
+            "url": "https://www.bcn.travel/george-orwell-barcelona-guide/"
+          },
+          {
+            "title": "John Newsinger: Orwell and the Spanish Revolution (Spring 1994)",
+            "url": "https://www.marxists.org/history/etol/writers/newsinger/1994/xx/orwell.htm"
+          },
+          {
+            "title": "The war that made Orwell - Salon.com",
+            "url": "https://www.salon.com/2014/01/11/the_war_that_made_orwell/"
+          }
+        ]
+      },
+      "Based on the web search results, here's a comprehensive overview of George Orwell's Spanish Civil War experience with POUM militia and its influence on his later works, particularly 1984 and his understanding of totalitarianism:\n\n## Orwell's POUM Militia Experience (1936-1937)\n\nOrwell arrived in Barcelona at the end of 1936 and approached the Independent Labour Party, a small, maverick socialist party allied to the anti-Stalinist Workers' Party of Marxist Unification (POUM), which welcomed him. Covering the period between December 1936 and June 1937, Orwell recounts Catalonia's revolutionary fervor during his training in Barcelona, his boredom on the front lines in Aragon, his involvement in the interfactional May Days conflict back in Barcelona on leave, his getting shot in the throat back on the front lines, and his escape to France after the POUM was declared an illegal organization.\n\n## The May 1937 Crisis\n\nA pivotal moment occurred in May 1937 when they fought one another in the streets, in a civil war within a civil war, after the Communist Party and its Catalan branch tried to take over an anarchist-controlled telephone exchange. Orwell spent three nights on the roof top of the Poliorama cinema with a rifle to help defend the POUM headquarters across the road.\n\nAndreas Nin, the leader of the 'Trotskyist-fascists' of the POUM, was arrested and subsequently killed after being savagely tortured. The POUM was outlawed and most of the 40 members of the executive committee arrested and jailed. The room of Orwell and his wife Eileen, who had joined him, was raided and plainclothes policemen spent two hours examining Orwell's papers and books. A warrant was subsequently issued for their arrest as 'pronounced Trotskyists' conspiring with dissidents in Moscow.\n\n## Impact on Orwell's Understanding of Totalitarianism\n\nThe Spanish experience profoundly shaped Orwell's political worldview. Orwell's experiences, culminating in his and his wife Eileen O'Shaughnessy's narrow escape from the communist purges in Barcelona in June 1937, greatly increased his sympathy for the POUM and, while not affecting his moral and political commitment to socialism, made him a lifelong anti-Stalinist.\n\nMost significantly, in Spain, for the first time, I saw newspaper reports which did not bear any relation to the facts, not even the relationship which is implied in an ordinary lie. I saw great battles reported where there had been no fighting, and complete silence where hundreds of men had been killed. I saw troops who had fought bravely denounced as cowards and traitors, and others who had never seen a shot fired hailed as the heroes of imaginary victories, and I saw newspapers in London retailing these lies and eager intellectuals building emotional superstructures over events that had never happened.\n\n## Direct Influence on 1984 and Later Works\n\nEvery line of serious work that I have written since 1936 has been written, directly or indirectly, against totalitarianism and for democratic socialism, Orwell declared in his 1946 essay \"Why I Write.\"\n\nHis seminal novels Animal Farm and 1984 distilled the lessons of Spain into universal allegories about the corrupting influence of power and the mechanisms by which totalitarian regimes sustain themselves. This realization profoundly shaped Orwell's understanding of propaganda as not merely a tool of persuasion but as a weapon that could fracture solidarity and rewrite historical truth. Orwell's reflections in Homage to Catalonia and later essays emphasize his disillusionment with the capacity of propaganda to overwrite objective truth. He lamented that in Spain, history was being rewritten to suit political agendas.\n\nThe Spanish Civil War experience gave Orwell firsthand insight into how totalitarian forces manipulate truth, suppress dissent, and turn former allies against each other - themes that would become central to 1984's exploration of thought control, historical revisionism, and the destruction of objective reality under totalitarian rule."
+    ],
+    "durationSeconds": 31.68152983600006
+  }
+}

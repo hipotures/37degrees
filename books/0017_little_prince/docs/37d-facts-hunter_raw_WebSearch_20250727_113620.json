@@ -1,0 +1,21 @@
+{
+  "session_id": "f420e2ea-43ea-499f-a68a-b8dea67fad50",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/f420e2ea-43ea-499f-a68a-b8dea67fad50.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Ma\u0142y Ksi\u0105\u017c\u0119 polskie cytaty najs\u0142ynniejsze \"widzi si\u0119 tylko sercem\" \"to co najwa\u017cniejsze\""
+  },
+  "tool_response": {
+    "query": "Ma\u0142y Ksi\u0105\u017c\u0119 polskie cytaty najs\u0142ynniejsze \"widzi si\u0119 tylko sercem\" \"to co najwa\u017cniejsze\"",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01U317DmaJKRevw4DVJHrsAU",
+        "content": []
+      },
+      "I searched for information about famous Polish quotes from \"The Little Prince\" (Ma\u0142y Ksi\u0105\u017c\u0119), particularly the well-known phrases \"one sees only with the heart\" and \"what is most important.\" However, it appears the search didn't return any results. This could be due to the specific combination of Polish terms and quotes in the search query.\n\nWould you like me to try a different search approach, perhaps searching for:\n- Polish translations of The Little Prince quotes\n- The specific quotes in Polish translation\n- General information about The Little Prince in Polish\n\nLet me know how you'd like me to refine the search to help you find the information you're looking for about these famous quotes from Antoine de Saint-Exup\u00e9ry's work."
+    ],
+    "durationSeconds": 9.136166030000021
+  }
+}

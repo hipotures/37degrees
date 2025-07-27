@@ -1,0 +1,62 @@
+{
+  "session_id": "10d774b1-cbee-4596-b9de-70bcda5cd9e0",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/10d774b1-cbee-4596-b9de-70bcda5cd9e0.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "1984 George Orwell influence dystopian fiction Hunger Games Divergent Fahrenheit 451 Brave New World"
+  },
+  "tool_response": {
+    "query": "1984 George Orwell influence dystopian fiction Hunger Games Divergent Fahrenheit 451 Brave New World",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01Ei3EJA1NDdsBnHxy238QU9",
+        "content": [
+          {
+            "title": "The Influence of George Orwell\u2019s 1984 on Modern Dystopian Works | by Booxoul | Medium",
+            "url": "https://booxoul.medium.com/the-influence-of-george-orwells-1984-on-modern-dystopian-works-2468a5e9cc41"
+          },
+          {
+            "title": "Books Like 1984: 16 Top Dystopian Novels Every Orwell Fan Should Read",
+            "url": "https://makeheadway.com/blog/books-like-1984/"
+          },
+          {
+            "title": "[FREE] How is 1984, Fahrenheit 451, The Hunger Games, or Divergent a dystopian novel? - brainly.com",
+            "url": "https://brainly.com/question/20939526"
+          },
+          {
+            "title": "Dystopian Classic Collection Set (Animal Farm, 1984, Brave New World, Fahrenheit 451, The Handmaid's Tale, The Testaments): George Orwell, Atwood Margaret, 9780452262935, 9780452262935, 9780452277502, 9781451673319, 9780593311646, 9780060898526: Amazon.com: Books",
+            "url": "https://www.amazon.com/Dystopian-Collection-Fahrenheit-Handmaids-Testaments/dp/B0B3DB4FLX"
+          },
+          {
+            "title": "What are some good dystopian novels apart from 1984, Brave New World, Fahrenheit 451, The Handmaid's Tale, Anthem, and We? - Quora",
+            "url": "https://www.quora.com/What-are-some-good-dystopian-novels-apart-from-1984-Brave-New-World-Fahrenheit-451-The-Handmaids-Tale-Anthem-and-We"
+          },
+          {
+            "title": "Fahrenheit 451 And 1984 Analysis - 1136 Words | Cram",
+            "url": "https://www.cram.com/essay/Fahrenheit-451-And-1984-Analysis/P3MYH9G6E4X"
+          },
+          {
+            "title": "How The Hunger Games Popularized Dystopian Media | by Taylor Staples | Medium",
+            "url": "https://medium.com/@tbstaytay/how-the-hunger-games-popularized-dystopian-media-50a6fd9accd6"
+          },
+          {
+            "title": "Nineteen Eighty-Four - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four"
+          },
+          {
+            "title": "1984 And Divergent: A Dystopian Society - 938 Words | Cram",
+            "url": "https://www.cram.com/essay/1984-And-Divergent-A-Dystopian-Society/FC4Q3SZG59V"
+          },
+          {
+            "title": "20 Riveting Books Like \u201c1984\u201d to Unveil Dystopian Worlds",
+            "url": "https://www.blinkist.com/magazine/posts/books-like-1984"
+          }
+        ]
+      },
+      "Based on the search results, here's what I found about George Orwell's \"1984\" and its influence on dystopian fiction, including works like \"The Hunger Games,\" \"Divergent,\" \"Fahrenheit 451,\" and \"Brave New World\":\n\n## George Orwell's 1984 as a Foundation for Dystopian Fiction\n\nOrwell's depiction of the Party, led by the enigmatic Big Brother, has influenced countless dystopian works.(no content)Thematically, it centres on the consequences of totalitarianism, mass surveillance and repressive regimentation of people and behaviours within society.(no content)These two books have permanently defined themselves as classics worth studying, especially due to their groundbreaking publication as two of the first (and most popular) dystopian novels ever written... 1984 and Fahrenheit 451 both laid the foundation for all of the aforementioned novels of the dystopian genre.\n\n## Influence on Modern Dystopian Works\n\n### The Hunger Games\nIn Suzanne Collins' \"The Hunger Games\", the Capitol exerts a similar iron grip over the districts, using fear and propaganda to maintain its dominance.(no content)The Hunger Games wasn't the first dystopian novel and it won't be the last, but it's definitely made its mark in an impactful way... I think a big reason that The Hunger Games is such a staple when we think of dystopian media is because it kicked off the dystopian book-to-movie adaptation era at the time.\n\n### Divergent\nIn \"Divergent\" by Veronica Roth, Tris Prior's journey mirrors Winston's struggle, as she fights against a society that seeks to dictate her identity and choices. The novel explores themes of resistance against oppressive systems similar to those in 1984.\n\n### Fahrenheit 451\nIn \"Fahrenheit 451\" by Ray Bradbury, the government censors literature to suppress dissent and maintain societal control.(no content)Published just four years apart, with 1984 in 1949 and Fahrenheit 451 in 1953, Ray Bradbury and George Orwell shared many ideas... Comparable novels published in more recent years include The Hunger Games, Divergent, and The City of Ember, however scholars often agree that Bradbury and Orwell \"did it best\".\n\n### Brave New World\nIn 1946 Orwell wrote about the 1931 dystopian novel Brave New World by Aldous Huxley in his article \"Freedom and Happiness\" for the Tribune, and noted similarities to We.(no content)Different dystopians utilize varied mechanisms of control, from the pleasure-inducing methods of 'Brave New World' to the brutal oppression in 'The Handmaid's Tale.'\n\n## Common Dystopian Themes\n\nThe novels \"1984\", \"Fahrenheit 451,\" \"The Hunger Games,\" and \"Divergent\" are all examples of dystopian novels because: They all depict an extremely flawed and unfair society where freedom is restricted and citizens are under surveillance.\n\nKey themes that connect these works include:\n\n- **Surveillance and Control**: Orwell's concept of constant surveillance, epitomized by the omnipresent telescreens and the Thought Police, has become a hallmark of dystopian fiction.\n\n- **Truth Manipulation**: 1984\" introduces the concept of \"doublethink\" and the manipulation of truth, where the Party constantly alters historical records to fit its narrative. This theme of truth manipulation is evident in modern dystopian novels such as \"The Giver\" by Lois Lowry.\n\n- **Individual Resistance**: Winston Smith's quiet rebellion against the Party in \"1984\" serves as a powerful narrative of resistance. This theme is prevalent in many modern dystopian works, where protagonists challenge oppressive regimes.\n\n## Sales and Cultural Impact\n\nThe Hunger Games has sold over 100 million copies as of October 2022... Taking this back to older dystopian novels like George Orwell's 1984, that's sold about 30 million copies worldwide as of July 2023.(no content)After The Hunger Games book was released, there seemed to be an outpouring of dystopian books that followed. There was The Maze Runner book that came out in 2009, Divergent in 2011, Reboot in 2013, and many more.\n\nThe enduring influence of 1984 continues to shape dystopian fiction, with these works sharing common threads with '1984,' revealing the persistent relevance of its themes concerning the dangers of totalitarianism and the importance of personal autonomy."
+    ],
+    "durationSeconds": 31.27521635699994
+  }
+}

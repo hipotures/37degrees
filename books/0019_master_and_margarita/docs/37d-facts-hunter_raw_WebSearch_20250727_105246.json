@@ -1,0 +1,62 @@
+{
+  "session_id": "33f7964e-50c3-4a6f-a60c-a132c9281df9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/33f7964e-50c3-4a6f-a60c-a132c9281df9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Master and Margarita film adaptations theater productions opera TV series worldwide"
+  },
+  "tool_response": {
+    "query": "Master and Margarita film adaptations theater productions opera TV series worldwide",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01LmtCSAFs3vnJteey3cJouJ",
+        "content": [
+          {
+            "title": "The Master and Margarita - Adaptations - Performing arts",
+            "url": "https://www.masterandmargarita.eu/en/05media/theater.html"
+          },
+          {
+            "title": "The Master and Margarita - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Master_and_Margarita"
+          },
+          {
+            "title": "The Master and Margarita - Adaptations - Performing arts - Theatre",
+            "url": "https://www.masterandmargarita.eu/en/05media/theatertoneel.html"
+          },
+          {
+            "title": "The Master and Margarita - Films and TV series",
+            "url": "https://www.m.masterandmargarita.eu/en/05media/film.html"
+          },
+          {
+            "title": "The Master and Margarita - Adaptations",
+            "url": "https://www.m.masterandmargarita.eu/en/05media/index.html"
+          },
+          {
+            "title": "The Master and Margarita - Films and TV series - History",
+            "url": "https://www.masterandmargarita.eu/mobile/en/05media/filmgeschiedenis.html"
+          },
+          {
+            "title": "Amazon.com: The Master and Margarita : Anna Kovalchuk, Aleksandr Galibin, Oleg Basilashvili, Vladislav Galkin, Kirill Lavrov, Aleksandr Abdulov, Aleksandr Filippenko, Sergei Bezrukov, Aleksandr Bashirov, Valentin Gaft, Aleksandr Adabashyan, Gennadi Bogachyov, Lev Borisov, Roman Kartsev, Liubomiras Lauciavicius, Vasili Livanov, Dmitri Nagiyev, Vladimir Bortko, Based on novel by M.A. Bulgakov: Movies & TV",
+            "url": "https://www.amazon.com/Master-Margarita-Aleksandr-Abdulov/dp/B000EANSXM"
+          },
+          {
+            "title": "The Master and Margarita (2024 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Master_and_Margarita_(2024_film)"
+          },
+          {
+            "title": "The Master and Margarita (2024) \u2b50 7.2 | Drama, Fantasy, Horror",
+            "url": "https://www.imdb.com/title/tt14536120/"
+          },
+          {
+            "title": "Master i Margarita (TV Series 2005) \u2b50 7.5 | Drama, Fantasy, Horror",
+            "url": "https://www.imdb.com/title/tt0403783/"
+          }
+        ]
+      },
+      "Based on my search, I found extensive information about adaptations of \"The Master and Margarita\" across various media worldwide. Here's a comprehensive overview:\n\n## Theatre Adaptations\n\nThe Master and Margarita has been adapted for theatre extensively, with over 400 different productions totaling more than 20,000 performances worldwide. The first theatrical adaptation was presented on stage five years after the novel's publication, happening in Krakow, Poland, on June 26, 1971. From 1971 to 1977, all theatre adaptations were Polish.\n\nNotable theatrical adaptations include:\n\n- 1971-1977: Polish productions were prohibited from using the original title, with titles like \"Black Magic and Its Exposure\" (Krak\u00f3w, 1971), \"Black Magic\" (Katowice, 1973), \"Have You Seen Pontius Pilate?\" (Wroc\u0142aw, 1974), and \"Patients\" (Wroclaw, 1976)\n- 1977: Russian stage adaptation by director Yuri Lyubimov at Moscow's Taganka Theatre\n- 1978: Stage adaptation directed by Andrei \u0218erban at the New York Public Theater, starring John Shea\n- 2000: Israeli theater company Gesher premiered \"haSatan baMoskva,\" a musical with song lyrics by Ehud Manor and a 23-musician orchestra, starring Haim Topol\n\n## Opera and Ballet\n\nIn 2003, the Perm Opera and Ballet Theatre, Russia, presented \"Master i Margarita,\" a full-length ballet set to music by Gustav Mahler, Dmitri Shostakovich, Hector Berlioz, and Astor Piazzolla, with choreography by David Avdysh.\n\nIn 2007, the National Opera of Ukraine, Kyiv, premiered David Avdysh's \"The Master and Margarita,\" a ballet-phantasmagoria in two acts.\n\nIn 2021, the Bolshoi Ballet premiered a new full-length ballet named \"Master and Margarita,\" set to music by Alfred Schnitke and Milko Lazar, with choreography by Edward Clug.\n\n## Film Adaptations\n\nThere are approximately sixteen film adaptations of The Master and Margarita, with two others in preparation.\n\n### Major Film and TV Productions:\n\n**2005 Russian TV Series:**\nThe most notable adaptation is Vladimir Bortko's 2005 Russian TV series, which involved more than 50 characters and starred Oleg Basilashvili as Woland, Anna Kovalchuk as Margarita, and Aleksander Galibin as the Master.\n\n**2024 Russian Film:**\nA new Russian fantasy-drama film directed by Michael Lockshin was released in 2024, starring August Diehl as Woland, Yevgeny Tsyganov as the Master, and Yuliya Snigir as Margarita. The film was shot in 2021 but release was delayed due to Russia's invasion of Ukraine.\n\nThe 2024 film became commercially successful, making 1 billion rubles by its second weekend and ultimately becoming the highest-grossing film with an 18+ rating in Russia, earning over 2.3 billion rubles despite political controversies.\n\n## International Scope\n\nHundreds of theatre companies worldwide have made stage adaptations of The Master and Margarita, with productions spanning multiple continents and countries including Russia, Poland, United States, Israel, Germany, Austria, United Kingdom, Canada, Romania, Slovenia, and Estonia.\n\nThe number of adaptations has increased exponentially over the last twenty years, with 27 different adaptations recorded in 2012 alone.\n\nThe novel's complex narrative structure with multiple storylines and numerous characters continues to challenge and inspire artists across various media, resulting in diverse interpretations ranging from traditional theatre to modern dance adaptations, operas, and major film productions."
+    ],
+    "durationSeconds": 29.474128781000154
+  }
+}

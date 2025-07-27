@@ -1,0 +1,62 @@
+{
+  "session_id": "33f7964e-50c3-4a6f-a60c-a132c9281df9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/33f7964e-50c3-4a6f-a60c-a132c9281df9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Master Margarita 27 year publication delay 1940-1967 censorship Soviet magazine Moskva"
+  },
+  "tool_response": {
+    "query": "Master Margarita 27 year publication delay 1940-1967 censorship Soviet magazine Moskva",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01CfbL5PhzvKyNywT3vdsWrs",
+        "content": [
+          {
+            "title": "The Master and Margarita - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Master_and_Margarita"
+          },
+          {
+            "title": "The Master and Margarita Mikhail Bulgakov 1967",
+            "url": "https://www.encyclopedia.com/arts/educational-magazines/master-and-margarita"
+          },
+          {
+            "title": "The Symbolic Survival of The Master and Margarita - JSTOR Daily",
+            "url": "https://daily.jstor.org/the-symbolic-survival-of-the-master-and-margarita/"
+          },
+          {
+            "title": "The Master and Margarita - Anna\u2019s Archive",
+            "url": "https://annas-archive.org/md5/384fa17234b2dc1cbf72ea3a3bbda47c"
+          },
+          {
+            "title": "The Master and Margarita Historical Context | Book Analysis",
+            "url": "https://bookanalysis.com/mikhail-bulgakov/the-master-and-margarita/historical-context/"
+          },
+          {
+            "title": "The Officiality of The Master and Margarita: A Study of the Relationship Between Bulgakov and Soviet Authorities | International Theory and Practice in Humanities and Social Sciences",
+            "url": "https://ac.wisvora.com/index.php/itphss/article/view/509"
+          },
+          {
+            "title": "Mikhail Bulgakov, Master and Margarita, and Truth in the USSR.",
+            "url": "https://museumstudiesabroad.org/bulgakov-master-margarita-ussr/"
+          },
+          {
+            "title": "I've read 'The Master and Margarita' by Mikhail Bulgakov was written in response to the aggressive censorship of art by the Russian Government. Was the book itself subject to any censorship and if so, what was censored and why? - Quora",
+            "url": "https://www.quora.com/Ive-read-The-Master-and-Margarita-by-Mikhail-Bulgakov-was-written-in-response-to-the-aggressive-censorship-of-art-by-the-Russian-Government-Was-the-book-itself-subject-to-any-censorship-and-if-so-what-was-censored"
+          },
+          {
+            "title": "The Master and Margarita: Deconstructing Social Realism - Arts and culture",
+            "url": "http://arts.brighton.ac.uk/projects/brightonline/issue-number-three/the-master-and-margarita-deconstructing-social-realism"
+          },
+          {
+            "title": "(PDF) The Officiality of The Master and Margarita: A Study of the Relationship Between Bulgakov and Soviet Authorities",
+            "url": "https://www.researchgate.net/publication/393386801_The_Officiality_of_The_Master_and_Margarita_A_Study_of_the_Relationship_Between_Bulgakov_and_Soviet_Authorities"
+          }
+        ]
+      },
+      "The search results provide comprehensive information about \"The Master and Margarita\" by Mikhail Bulgakov and its publication history, including the 27-year delay and censorship issues. Here's what I found:\n\n## Publication History and Censorship\n\nMikhail Bulgakov wrote \"The Master and Margarita\" between 1928 and 1940, completing the final version shortly before his death in 1940. The novel was not published for another twenty-seven years, when the government of the Soviet Union had become more open to intellectual differences to the party line.\n\n## Initial Publication in Moskva Magazine\n\nA censored version, with several chapters cut by editors, was published posthumously in Moskva magazine in 1966\u20131967 by his widow Elena Bulgakova.(no content)The journal Moskva made the daring decision to finally publish The Master and Margarita in 1966, but this version was censored to the point of butchery, and many of Bulgakov's canny messages vanished in the process.(no content)Initially, a censored version with around 12% of the text modified was printed in Moskva magazine (no. 11, 1966 and no. 1, 1967).\n\n## What Was Censored\n\nGone was Margarita's sexual liberty, for instance, and Bulgakov's mockery of the USSR's corruption and incompetence as a communist nation.(no content)What made the novel so unacceptable to Soviet censors was not only its depiction of unregulated female power and sexuality, but its portrayal of a USSR that existed parallel to the celestial realms of the afterlife.\n\n## Publication Outside the Soviet Union\n\nThe manuscript was not published as a book until 1967, in Paris.(no content)The publisher Eesti Raamat in Estonia can take credit for bringing out the first unedited rendition in 1967, but it should be noted that this was only a translation. Published in Estonian, not Russian, it, unfortunately, couldn't be interpreted as Bulgakov's own voice.(no content)The Italian publisher Einaudi published the book in Russian in 1967 as well, but in the Soviet Union, it wouldn't be published properly until 1973, when the first complete version, prepared by Anna Sahakyants, was published in Russian by Khudozhestvennaya Literatura.\n\n## Reasons for Censorship\n\n'The Master and Margarita' was outlawed because it had satirical and critical elements that the Soviet Union deemed dangerous and subversive. The Soviet morality system was attacked, and heresy was considered when the devil was portrayed as a sympathetic and even likable character.\n\nThe 27-year publication delay from 1940 to 1967 represents one of the most significant cases of literary censorship in Soviet history, with the novel only seeing light when political conditions became more favorable during the Khrushchev \"Thaw\" period."
+    ],
+    "durationSeconds": 25.281618658999914
+  }
+}

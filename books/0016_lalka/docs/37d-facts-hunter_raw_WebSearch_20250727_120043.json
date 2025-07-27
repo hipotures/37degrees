@@ -1,0 +1,62 @@
+{
+  "session_id": "ee5740ec-c8bd-4d09-98fb-e20dcc0622d8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ee5740ec-c8bd-4d09-98fb-e20dcc0622d8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Lalka\" digital archives online sources Polish literature databases reliability academic"
+  },
+  "tool_response": {
+    "query": "\"Lalka\" digital archives online sources Polish literature databases reliability academic",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01Rh3rzUeG3jcxeooaEiccDG",
+        "content": [
+          {
+            "title": "Digital Archives - Polish History and Culture - Research Guides at UCLA Library",
+            "url": "https://guides.library.ucla.edu/c.php?g=1008536&p=10431629"
+          },
+          {
+            "title": "Szukajwarchiwach.gov.pl \u2013 Search the Archives | NAC",
+            "url": "https://www.nac.gov.pl/en/digital-archive/szukajwarchiwach-pl-search-the-archives/"
+          },
+          {
+            "title": "Digital libraries - UNIVERSITY LIBRARY",
+            "url": "https://lib.amu.edu.pl/digital-libraries/?lang=en"
+          },
+          {
+            "title": "Databases \u2013 State Archives",
+            "url": "https://archiwa.gov.pl/en/search-in-archives/databases/"
+          },
+          {
+            "title": "National Digital Library of Poland \u2014 Collections",
+            "url": "https://publicdomainreview.org/collections/source/national-digital-library-of-poland/"
+          },
+          {
+            "title": "Poland: Historical Collections - EuroDocs",
+            "url": "https://eudocs.lib.byu.edu/index.php/Poland:_Historical_Collections"
+          },
+          {
+            "title": "Online databases - Warszawa - University of Warsaw Library",
+            "url": "https://www.buw.uw.edu.pl/en/online-resources/online-databases/"
+          },
+          {
+            "title": "Guide to Polish Electronic Resources \u2013 Slavic, East European & Eurasian Studies \u2013 U of I Library",
+            "url": "https://www.library.illinois.edu/slavic/spx/slavicresearchguides/eresources/polanderesources/"
+          },
+          {
+            "title": "POLISH LIBRARIES",
+            "url": "https://polishlibraries.bn.org.pl/"
+          },
+          {
+            "title": "Homepage \u2013 State Archives",
+            "url": "https://archiwa.gov.pl/en/"
+          }
+        ]
+      },
+      "Based on my web search for \"Lalka digital archives online sources Polish literature databases reliability academic,\" I found comprehensive information about digital archives and databases for Polish literature. Here's what I discovered:\n\n## Major Digital Archive Platforms for Polish Literature\n\nThe Federation of Polish Digital Libraries (FBC) provides free search access to the distributed catalogues of digital libraries that are members of the federation.(no content)This platform enables simultaneous searching of over 70 Polish digital libraries and is considered the most important resource for Polish digital publications.(no content)The Wielkopolska Digital Library (WBC) offers online access to the oldest monuments of Polish literature and provides academic textbooks, reference texts, and resources from rare collections from regional libraries.(no content)Pozna\u0144 University Library has digitized and made available over 100,000 documents from their extensive collections on this platform.\n\n## Government-Supported Digital Archives\n\nSzukajwarchiwach.gov.pl is an online service developed by the National Digital Archive (NDA) that presents scans and descriptions of archive materials collected in Polish archives, with currently more than 55 million scans available.(no content)This service offers access to archival materials stored by State Archives and other institutions from various parts of Poland online, as a free service available to anyone interested.\n\n## Academic Literature Projects\n\nSTAROPOLSKA is an academic and educational project focused on early modern Polish literature within the sphere of broad European heritage.(no content)Prasa w Internecie is a joint project that began in 2000 as the first attempt in Poland to create a model for digital presentation of archival periodical holdings.\n\n## Reliability and Academic Standards\n\nThese digital resources are co-produced by numerous institutions including higher education institutions, academic and public libraries, archives, registry offices, and research centers.(no content)The Polish implementation uses the Access to Memory (AtoM) system, which is compliant with four main international standards of description (ISAD(G), ISAAR(CPF), ISDIAH and ISDF).(no content)Polish Libraries is an academic, peer-reviewed journal published yearly by the National Library of Poland that aims to acquaint the international library community with achievements in Polish library and information science.\n\nThe search results indicate that Poland has developed a robust digital infrastructure for preserving and providing access to its literary heritage, with multiple interconnected platforms that meet international academic standards for archival description and access."
+    ],
+    "durationSeconds": 20.704997383000098
+  }
+}

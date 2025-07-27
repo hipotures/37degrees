@@ -1,0 +1,125 @@
+{
+  "session_id": "f420e2ea-43ea-499f-a68a-b8dea67fad50",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/f420e2ea-43ea-499f-a68a-b8dea67fad50.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"The Little Prince\" mental health anxiety depression youth \"see with the heart\" emotional wellness"
+  },
+  "tool_response": {
+    "query": "\"The Little Prince\" mental health anxiety depression youth \"see with the heart\" emotional wellness",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01XS8rCkSWCw4ae7rR1uSVGW",
+        "content": [
+          {
+            "title": "\u201cThe Little Prince\u201d and Cultivating Our Inner Child | by Patrick Daniel | Medium",
+            "url": "https://medium.com/@WiseHypocrite/the-little-prince-and-cultivating-our-inner-child-8ed4209613c2"
+          }
+        ]
+      },
+      {
+        "tool_use_id": "srvtoolu_018qjFyN95EkEEYP43D99tX9",
+        "content": [
+          {
+            "title": "Maryland Mental Health & Psychotherapy - Waldorf Gaithersburg Prince Frederick DC VA MD | The Pinnacle Center",
+            "url": "https://www.pinnaclecenter.com/"
+          },
+          {
+            "title": "Anxiety & Depression Treatment Online | Medication & Therapy",
+            "url": "https://www.brightside.com/"
+          },
+          {
+            "title": "Mental Health Support and Services",
+            "url": "https://www.princeedwardisland.ca/en/information/health-pei/mental-health-support-and-services"
+          },
+          {
+            "title": "NAMI Prince William: Mental Health Support, Education & Resources",
+            "url": "https://nami-pw.org/"
+          },
+          {
+            "title": "Terra Prince, Pre-Licensed Professional, South Jordan, UT, 84095 | Psychology Today",
+            "url": "https://www.psychologytoday.com/us/therapists/terra-prince-south-jordan-ut/438359"
+          },
+          {
+            "title": "Little Otter | Mental Health Services for the Whole Family",
+            "url": "https://www.littleotterhealth.com/"
+          },
+          {
+            "title": "New Path Mental Health & Wellness | Mental Health Clinic",
+            "url": "https://www.newpathlittlerock.com/"
+          },
+          {
+            "title": "Find Therapists and Psychologists in Prince William County, VA - Psychology Today",
+            "url": "https://www.psychologytoday.com/us/therapists/va/prince-william-county"
+          },
+          {
+            "title": "Arkansas Psychiatric Clinic \u2013 Little Rock Psychiatrist",
+            "url": "https://apclr.com/"
+          },
+          {
+            "title": "Mental Health Care in California | Family Psychological Services",
+            "url": "https://fpsca.com/"
+          }
+        ]
+      },
+      {
+        "tool_use_id": "srvtoolu_01RgfnT69rgFS291wZj6KEBS",
+        "content": [
+          {
+            "title": "The Little Prince: My Book of Feelings by Corinne Delporte | Goodreads",
+            "url": "https://www.goodreads.com/book/show/60817331-the-little-prince"
+          },
+          {
+            "title": "18+ Timeless Life Lessons from The Little Prince Book - Knowledge Lover",
+            "url": "https://knowledgelover.com/timeless-life-lessons-the-little-prince-book/"
+          },
+          {
+            "title": "\u201cThe Little Prince\u201d \u2014 Life Lessons From the Book for the Child Within Us | by Steve Pabel | Medium",
+            "url": "https://stevepabel.medium.com/the-little-prince-life-lessons-from-the-book-for-the-child-within-us-b6a098632004"
+          },
+          {
+            "title": "The Little Prince My First Feelings Book Explore Emotions with Joy, Sadness & More! kids books ages 3+: Antoine de Saint-Exup\u00e9ry, Corinne Delporte, CrackBoom! Books: 9782898023552: Amazon.com: Books",
+            "url": "https://www.amazon.com/Little-Prince-My-Book-Feelings/dp/2898023558"
+          },
+          {
+            "title": "What \"The Little Prince\" Taught Me - The Silver Lining",
+            "url": "https://thesilverlining.in/2022/01/01/what-the-little-prince-taught-me/"
+          },
+          {
+            "title": "The Little Prince by Antoine de Saint-Exup\u00e9ry \u2013 GiveLiveExplore",
+            "url": "https://www.giveliveexplore.com/2012/10/16/influential-books-the-little-prince/"
+          },
+          {
+            "title": "The Little Prince",
+            "url": "https://andonovicmilica.files.wordpress.com/2018/07/the_little_prince.pdf"
+          },
+          {
+            "title": "Amazon.com: The Little Prince: 9780156012195: Antoine de Saint-Exup\u00e9ry, Richard Howard: Books",
+            "url": "https://www.amazon.com/Little-Prince-Antoine-Saint-Exup%C3%A9ry/dp/0156012197"
+          },
+          {
+            "title": "Lesson Learned from The Little Prince by Antoine de Saint Exupery | by Labibah Qotrunnada | Medium",
+            "url": "https://medium.com/@labibahqotrunnada/lesson-learned-from-the-little-prince-by-antoine-de-saint-exupery-d2b2f248d18d"
+          },
+          {
+            "title": "The Little Prince and the Allure of Sadness - Public Seminar",
+            "url": "https://publicseminar.org/essays/the-little-prince-and-the-allure-of-sadness/"
+          }
+        ]
+      },
+      {
+        "tool_use_id": "srvtoolu_01KrX6RQWCzQ86A1SYvxcVw2",
+        "content": [
+          {
+            "title": "5 Ways \u2018The Little Prince\u2019 Guides Me Through the Heartbreaking Loss of My Student | by Yakira Yedidia | Betterism | Medium",
+            "url": "https://medium.com/betterism/5-ways-the-little-prince-guides-me-through-the-heartbreaking-loss-of-my-student-fbab9a4f58f8"
+          }
+        ]
+      },
+      "I've performed your web search as requested. The search returned a variety of results related to \"The Little Prince,\" mental health, anxiety, depression, youth emotional wellness, and the concept of \"seeing with the heart.\" Here's a summary of the key findings:\n\n## Search Results Summary\n\nThe search yielded several types of relevant content:\n\n**1. Emotional Learning Resources**\nThe search found a specialized adaptation called \"The Little Prince: My Book of Feelings\" that follows the Little Prince as he explains Joy, Surprise, Anger, Love, Fear, Sadness and Calmness and how to appropriately handle and identify these emotions. This book did a great job going over feelings and how to properly and in a positive and healthy way handle emotions. It's one of those books that isn't too pushy and that you would find in a therapist or counsellor office.\n\n**2. Therapeutic Applications**\nMental health professionals are using The Little Prince for emotional learning, with educators noting it as \"an asset to parents, teachers and therapists helping children and young people learn to explore and manage their feelings\" and \"one of the most perfect books to read for a SEL lesson every day.\"\n\n**3. Core Mental Health Themes**\nThe search revealed several key emotional wellness themes from the original work:\n\n- **Emotional Healing**: The Little Prince watches the sun sink below the horizon forty-four times possibly because he is sad about a great loss. He finds solace, awe, and wonder in the beauty of the sunset. The sunset is a symbol of hope and renewal. It is a reminder that even the darkest night will eventually end, and even the saddest heart can be healed.\n\n- **\"Seeing with the Heart\"**: The famous quote \"On ne voit bien qu'avec le coeur. L'essentiel est invisible pour les yeux.\" translates to \"It is only with the heart that one can see rightly. What is essential is invisible to the eye.\"\n\n- **Children's Emotional Wisdom**: \"Children quite naturally see with the heart. The essential is clearly visible to them.\"\n\n**4. Grief and Loss Support**\nThe search found content about using The Little Prince to cope with profound loss, where individuals \"find themselves turning to The Little Prince, one of my favorite stories that offers timeless lessons on love, loss, and the invisible bonds that connect us\" and how it teaches people \"to see with the heart.\"\n\n**5. Youth Mental Health Services**\nThe search also returned information about various mental health services for young people, including anxiety and depression treatment programs that serve teens and families.\n\nThe search results demonstrate that \"The Little Prince\" is actively being used in therapeutic and educational contexts to help young people understand and manage their emotions, particularly around themes of seeing beyond surface appearances to emotional truths."
+    ],
+    "durationSeconds": 34.23245463599998
+  }
+}

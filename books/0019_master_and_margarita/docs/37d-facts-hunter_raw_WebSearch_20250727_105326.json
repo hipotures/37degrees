@@ -1,0 +1,62 @@
+{
+  "session_id": "33f7964e-50c3-4a6f-a60c-a132c9281df9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/33f7964e-50c3-4a6f-a60c-a132c9281df9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "uniwersytet polska praca doktorska \"Mistrz i Ma\u0142gorzata\" Bu\u0142hakow akademicki"
+  },
+  "tool_response": {
+    "query": "uniwersytet polska praca doktorska \"Mistrz i Ma\u0142gorzata\" Bu\u0142hakow akademicki",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01RYqrXgn2AuJcZ8NjUjrTiE",
+        "content": [
+          {
+            "title": "Rozprawa doktorska Mistrz i Ma\u0142gorzata Michai\u0142a Bu\u0142hakowa w",
+            "url": "https://dokumen.tips/documents/rozprawa-doktorska-mistrz-i-malgorzata-michaila-bulhakowa-w-.html"
+          },
+          {
+            "title": "Repozytorium Uniwersytetu im. Adama Mickiewicza (AMUR): \u201eMistrz i Ma\u0142gorzata\u201d Michai\u0142a Bu\u0142hakowa w Polsce w latach 1969-1989",
+            "url": "https://repozytorium.amu.edu.pl/handle/10593/14312"
+          },
+          {
+            "title": "Mistrz-i-Malgorzata - Michai\u0142 Bu\u0142hakow \u201eMistrz i Ma\u0142gorzata\u201d Karta lektury \u201eW\u0142a\u015bciwa akcja utworu - Studocu",
+            "url": "https://www.studocu.com/pl/document/uniwersytet-wroclawski/poetyka/mistrz-i-malgorzata/57179503"
+          },
+          {
+            "title": "Mistrz i Ma\u0142gorzata - Michai\u0142 Bu\u0142hakow - epub, mobi \u2013 Ibuk.pl",
+            "url": "https://www.ibuk.pl/fiszka/140334/mistrz-i-malgorzata.html"
+          },
+          {
+            "title": "Mistrz i Ma\u0142gorzata Michai\u0142a Bu\u0142hakowa w Polsce w latach ...",
+            "url": "https://repozytorium.amu.edu.pl/bitstream/10593/14312/1/Rozprawa doktorska Mistrz i Ma\u0142gorzata Michai\u0142a Bu\u0142hakowa w Polsce w latach 1969-1989.pdf"
+          },
+          {
+            "title": "Michai\u0142 Bu\u0142hakow \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Michai\u0142_Bu\u0142hakow"
+          },
+          {
+            "title": "Michai\u0142 Bu\u0142hakow - biografia - klp.pl",
+            "url": "https://klp.pl/mistrz-i-malgorzata/a-5878.html"
+          },
+          {
+            "title": "Michai\u0142 Bu\u0142hakow - biografia, opis lektury - Michai\u0142 Bu\u0142hakow Micha\u0142 Bu\u0142hakow urodzi\u0142 si\u0119 w roku - Studocu",
+            "url": "https://www.studocu.com/pl/document/uniwersytet-jagiellonski/glowne-nurty-w-literaturze-xx-i-xxi-wieku/michail-bulhakow-biografia-opis-lektury/21910090"
+          },
+          {
+            "title": "\u201eMistrz i Ma\u0142gorzata\u201d Michai\u0142a Bu\u0142hakowa \u2013 opracowanie lektury - \u015aci\u0105gi, wypracowania, lektury - Bryk.pl",
+            "url": "https://www.bryk.pl/wypracowania/jezyk-polski/streszczenia-i-plany-wydarzen/7387-mistrz-i-malgorzata-michaila-bulhakowa-opracowanie-lektury.html"
+          },
+          {
+            "title": "MISTRZ I MA\u0141GORZATA / Michai\u0142 Bu\u0142hakow \u2013 Pedagogiczna Biblioteka Wojew\u00f3dzka w Opolu",
+            "url": "https://pedagogiczna.pl/mistrz-i-malgorzata/"
+          }
+        ]
+      },
+      "Based on the search results, I found information about a Polish doctoral dissertation on Bulgakov's \"The Master and Margarita.\" Here are the key findings:\n\nThere is a doctoral dissertation titled \"Mistrz i Ma\u0142gorzata Michai\u0142a Bu\u0142hakowa w Polsce w latach 1969-1989\" (The Master and Margarita by Mikhail Bulgakov in Poland in the years 1969-1989) written by Karolina Korcz at the Adam Mickiewicz University in Pozna\u0144 at the Faculty of Polish and Classical Philology. The dissertation was written under the supervision of prof. dr hab. Bogus\u0142aw Baku\u0142a and completed in Pozna\u0144 in 2015.\n\nThe dissertation is available in the repository of Adam Mickiewicz University (AMUR) and can be accessed at the University Library at ul. F. Ratajczaka 38/40 in Pozna\u0144.\n\nThe research was also published as a book with the subtitle \"Cie\u0144 Wolanda nad PRL : obecno\u015b\u0107, recepcja, odzew\" (The Shadow of Woland over the Polish People's Republic: presence, reception, response) by Wydawnictwo \"Pozna\u0144skie Studia Polonistyczne\" in 2016.\n\nThis doctoral work appears to focus specifically on the reception and presence of Bulgakov's masterpiece \"The Master and Margarita\" in Poland during the period 1969-1989, examining how this important Russian novel was received and influenced Polish literary and cultural discourse during the communist period."
+    ],
+    "durationSeconds": 14.480331284000073
+  }
+}

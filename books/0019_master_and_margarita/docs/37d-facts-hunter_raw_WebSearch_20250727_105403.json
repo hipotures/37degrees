@@ -1,0 +1,63 @@
+{
+  "session_id": "33f7964e-50c3-4a6f-a60c-a132c9281df9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/33f7964e-50c3-4a6f-a60c-a132c9281df9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Elena Bulgakova preserved Master Margarita manuscript after Bulgakov death 1940 widow"
+  },
+  "tool_response": {
+    "query": "Elena Bulgakova preserved Master Margarita manuscript after Bulgakov death 1940 widow",
+    "results": [
+      "I'll search for information about Elena Bulgakova preserving the Master and Margarita manuscript after Bulgakov's death.",
+      {
+        "tool_use_id": "srvtoolu_01VciRJogtgRpseMeMSq7XyY",
+        "content": [
+          {
+            "title": "The Master and Margarita - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Master_and_Margarita"
+          },
+          {
+            "title": "Mikhail Bulgakov, THE MASTER AND MARGARITA",
+            "url": "https://forrester.domains.swarthmore.edu/alum-readings/2003/bulgakov.html"
+          },
+          {
+            "title": "The Master and Margarita Novel by Elena S. Bulgakova and Mikhail Bulgakov: A DEEP DIVE",
+            "url": "https://www.literarysphere.com/2025/05/the-master-and-margarita-novel-by-elena.html"
+          },
+          {
+            "title": "Elena Sergeevna Bulgakova - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Elena_Sergeevna_Bulgakova"
+          },
+          {
+            "title": "The Master and Margarita by Mikhail Bulgakov | Goodreads",
+            "url": "https://www.goodreads.com/book/show/117833.The_Master_and_Margarita"
+          },
+          {
+            "title": "Following Master and his Margarita. Moscow through Mikhail Bulgakov\u2019s Eyes.",
+            "url": "https://carusel.tours/bulgakov"
+          },
+          {
+            "title": "Mikhail Bulgakov - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Mikhail_Bulgakov"
+          },
+          {
+            "title": "A Reader's Companion to Mikhail Bulgakov's the Master and Margarita 1644690780, 9781644690789 - DOKUMEN.PUB",
+            "url": "https://dokumen.pub/a-readers-companion-to-mikhail-bulgakovs-the-master-and-margarita-1644690780-9781644690789.html"
+          },
+          {
+            "title": "The Master and Margarita - Would-be Margaritas",
+            "url": "https://www.masterandmargarita.eu/en/03karakters/margaritas.html"
+          },
+          {
+            "title": "The Symbolic Survival of The Master and Margarita - JSTOR Daily",
+            "url": "https://daily.jstor.org/the-symbolic-survival-of-the-master-and-margarita/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with detailed information about Elena Bulgakova's crucial role in preserving \"The Master and Margarita\" manuscript after Mikhail Bulgakov's death in 1940.\n\nElena Bulgakova, Bulgakov's widow, published a censored version of \"The Master and Margarita\" posthumously in Moscow magazine in 1966\u20131967. Bulgakov died on March 10, 1940, from nephrotic syndrome, leaving his masterpiece unpublished.\n\nElena Sergeevna preserved the manuscript of this very heterodox novel, which could have meant her own arrest and disappearance into the Stalinist camps. Elena, who was Bulgakov's inspiration for the character of Margarita, swore at the suffering Bulgakov's bedside that she would make his magnum opus her life's mission. Elena had made a deathbed vow to Bulgakov that she would ensure that the novel would see the light of day, saying \"I give you my solemn word that I will type up the novel, that I'll submit it, and you will be published!\"(no content)Bulgakova continued the work of writing and editing the text after her husband's death in March 1940. After his death in 1940, Bulgakova took up his notes and had to make numerous editorial decisions. She extensively revised her husband's notes, selected readings of the text, and even added text in many places. She completed and edited the work in less than a year.\n\nElena edited the final version already without him and she devoted the rest of her life to get the novel printed. His widow, Yelena Shilovskaya, worked tirelessly after his death for decades, preserving his manuscript and finally seeing it published, in a censored version, in 1966 and 1967.\n\nElena preserved and protected the manuscript as a surviving brainchild of her husband-author's legacy, and in 1963 she painstakingly edited and retyped a new version of it, an act of devotion and perseverance that ranks her among history's great spouses of genius. It is unknown how much of this version was influenced by Elena Shilovskaya, Bulgakov's third and final wife, as she had been in possession of the remaining manuscript notes.\n\nThe novel's publication history was complex: The first version of the novel with many omissions was printed in the USSR in 1967, the same year Master and Margarita was printed in Paris completely. The complete version of the book in the USSR was published in 1973.\n\nElena Bulgakova's preservation of the manuscript was an act of tremendous courage and dedication, ensuring that one of the greatest works of Russian literature survived Stalin's repressive regime to reach readers worldwide."
+    ],
+    "durationSeconds": 23.334668433999642
+  }
+}

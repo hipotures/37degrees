@@ -1,0 +1,21 @@
+{
+  "session_id": "10d774b1-cbee-4596-b9de-70bcda5cd9e0",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/10d774b1-cbee-4596-b9de-70bcda5cd9e0.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"George Orwell 1984\" inspiration Spanish Civil War totalitarianism Stalin Hitler influences"
+  },
+  "tool_response": {
+    "query": "\"George Orwell 1984\" inspiration Spanish Civil War totalitarianism Stalin Hitler influences",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_018Z5nX1sowp8N8PEteSHdXE",
+        "content": []
+      },
+      "I searched for information about George Orwell's inspirations for \"1984,\" particularly focusing on the Spanish Civil War, totalitarianism, and the influences of Stalin and Hitler. Here are the key findings:\n\nOrwell's experiences during the Spanish Civil War (1936-1939) profoundly influenced his understanding of totalitarianism and became a major inspiration for \"1984.\"(no content)He witnessed firsthand how different political factions could manipulate truth and rewrite history, which directly informed the concept of the Ministry of Truth in his novel.\n\nThe character of Big Brother and the Party's methods in \"1984\" drew heavily from Orwell's observations of both Stalin's Soviet Union and Hitler's Nazi Germany.(no content)Orwell was particularly disturbed by the use of propaganda, thought control, and the cult of personality that he observed in both totalitarian regimes.\n\nStalin's purges and show trials significantly influenced Orwell's depiction of how the Party eliminates \"unpersons\" and rewrites history.(no content)The concept of \"doublethink\" was inspired by the way totalitarian regimes could make people believe contradictory things simultaneously.(no content)Orwell's time fighting with the POUM militia in Spain exposed him to the brutal reality of ideological warfare, where \"former allies could become enemies overnight based on shifting political loyalties.\"\n\nThe novel essentially synthesized Orwell's direct experiences with authoritarianism into a warning about the dangers of unchecked governmental power and the manipulation of truth."
+    ],
+    "durationSeconds": 12.326764420000021
+  }
+}

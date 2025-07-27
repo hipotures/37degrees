@@ -1,0 +1,63 @@
+{
+  "session_id": "10d774b1-cbee-4596-b9de-70bcda5cd9e0",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/10d774b1-cbee-4596-b9de-70bcda5cd9e0.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Stanis\u0142aw Lem \"Solaris\" S\u0142awomir Mro\u017cek dystopia polska literatura komunizm por\u00f3wnanie Orwell"
+  },
+  "tool_response": {
+    "query": "Stanis\u0142aw Lem \"Solaris\" S\u0142awomir Mro\u017cek dystopia polska literatura komunizm por\u00f3wnanie Orwell",
+    "results": [
+      "I'll perform a web search using your specified query about Polish literature, dystopia, and comparisons between these authors and Orwell.",
+      {
+        "tool_use_id": "srvtoolu_01DJB3usRkMD6d4cVYNP17U3",
+        "content": [
+          {
+            "title": "Stanis\u0142aw Lem - format tekstowy",
+            "url": "https://solaris.lem.pl/o-lemie/teksty-o-lemie/prace-dyplomowe/135-format-tekstowy"
+          },
+          {
+            "title": "Solaris (powie\u015b\u0107) \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Solaris_(powie\u015b\u0107)"
+          },
+          {
+            "title": "Stanis\u0142aw Lem - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Stanis%C5%82aw_Lem"
+          },
+          {
+            "title": "Stanis\u0142aw Lem - Wydawnictwo Literackie",
+            "url": "https://www.wydawnictwoliterackie.pl/autor/76/stanislaw-lem"
+          },
+          {
+            "title": "Solaris - Stanis\u0142aw Lem | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/133717/solaris"
+          },
+          {
+            "title": "Solaris - Lem Stanis\u0142aw | Ksi\u0105\u017cka w Sklepie EMPIK.COM",
+            "url": "https://www.empik.com/solaris-lem-stanislaw,p1047478199,ksiazka-p"
+          },
+          {
+            "title": "Solaris \u2013 Stanis\u0142aw Lem | #language & literature | Culture.pl",
+            "url": "https://culture.pl/en/work/solaris-stanislaw-lem"
+          },
+          {
+            "title": "Stanis\u0142aw Lem - Stanis\u0142aw Lem 1921-2006",
+            "url": "https://solaris.lem.pl/"
+          },
+          {
+            "title": "Stanis\u0142aw Lem - Solaris",
+            "url": "https://solaris.lem.pl/ksiazki/beletrystyka/solaris"
+          },
+          {
+            "title": "Stanis\u0142aw Lem - R\u00f3\u017cne oblicza spotkania z Obcym w tw\u00f3rczo\u015bci Stanis\u0142awa Lema",
+            "url": "https://solaris.lem.pl/o-lemie/teksty-o-lemie/prace-dyplomowe/587-rozne-oblicza-spotkania-z-obcym-w-tworczosci-stanislawa-lema"
+          }
+        ]
+      },
+      "The search results reveal fascinating information about Polish literature, particularly regarding Stanis\u0142aw Lem's works and their relationship to dystopian themes and communist-era contexts. Based on the search results, here are the key findings:\n\nIn \"Eden,\" alongside moral issues related to hypothetical intervention on a planet where Orwellian totalitarianism reigns, epistemological problems emerge. This directly connects Lem's work to Orwellian dystopian themes.\n\nSome stories constitute a critique of communism, others show the threats that capitalism brings, and the theme related to the dangers of technology is also frequent - this shows Lem's balanced political critique in his \"Star Diaries\" works.\n\nThe administrative-social system of Eden includes a narrow caste of ruling elites that not only engages in genetic modifications of the population but also removes certain elements of language in the spirit of Orwellian newspeak to make it difficult for the planet's inhabitants to become aware as individuals, and thus limit rebellions and revolutions to a minimum.\n\nSolaris is Stanis\u0142aw Lem's most famous novel, translated into over 40 languages, classified as a classic of science fiction, and is his most famous work both domestically and internationally, from which his worldwide fame began.\n\nThe action of the novel takes place at the beginning of the 21st century in a world united under the banner of communism - referring to \"The Astronauts,\" Lem's debut novel.\n\nThe search reveals that Lem's works, particularly \"Eden\" and some of his \"Star Diaries\" stories, contain explicit dystopian elements and critiques of totalitarian systems that parallel Orwell's themes. The comparison with Orwell appears particularly relevant in the context of language manipulation and social control mechanisms depicted in Lem's fiction.\n\nUnfortunately, the search didn't return specific information about S\u0142awomir Mro\u017cek in relation to this comparative analysis, suggesting this might be a less documented area of Polish literary criticism or requiring a more targeted search approach."
+    ],
+    "durationSeconds": 19.22764059700002
+  }
+}

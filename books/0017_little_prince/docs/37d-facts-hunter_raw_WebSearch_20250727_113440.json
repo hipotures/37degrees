@@ -1,0 +1,62 @@
+{
+  "session_id": "f420e2ea-43ea-499f-a68a-b8dea67fad50",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/f420e2ea-43ea-499f-a68a-b8dea67fad50.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Ma\u0142y Ksi\u0105\u017c\u0119 podstawa programowa szko\u0142a podstawowa lektura obowi\u0105zkowa szkolnictwo Polska"
+  },
+  "tool_response": {
+    "query": "Ma\u0142y Ksi\u0105\u017c\u0119 podstawa programowa szko\u0142a podstawowa lektura obowi\u0105zkowa szkolnictwo Polska",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01D6rSC88vjXvmgALPrHvkpy",
+        "content": [
+          {
+            "title": "Lista lektur szkolnych 2024/2025 \u2013 Lektury do szko\u0142y podstawowej 2024/2025 i lektury do liceum 2024/2025",
+            "url": "https://www.listalektur.pl/"
+          },
+          {
+            "title": "Lektury na rok szkolny 2025/2026 - Szko\u0142a Polska im. Miko\u0142aja Kopernika przy Konsulacie Generalnym RP w MEDIOLANIE",
+            "url": "https://mediolan.orpeg.pl/uczniowie/lektury/"
+          },
+          {
+            "title": "Lektury szkolne - Klasa 4, 5, 6, 7, 8 - Szko\u0142a podstawowa | ksi\u0119garnia internetowa TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/lektury-szkolne-klasa-4-5-6-7-8-szkola-podstawowa-c-13783_13784_13786.html"
+          },
+          {
+            "title": "Zmiana wykazu lektur szkolnych \u2013 Aktualna podstawa programowa",
+            "url": "https://podstawaprogramowa.pl/aktualnosci/Zmiana-wykazu-lektur-szkolnych"
+          },
+          {
+            "title": "Lektury i podr\u0119czniki. Aktualny wykaz dla klas od 1 do 8!",
+            "url": "https://www.libratus.edu.pl/lektury-i-podreczniki/"
+          },
+          {
+            "title": "Wykaz lektur - O\u015brodek Rozwoju Polskiej Edukacji za Granic\u0105",
+            "url": "https://www.orpeg.pl/ksztalcenie-na-odleglosc/szkola-podstawowa/wykaz-lektur/"
+          },
+          {
+            "title": "Nowa LISTA LEKTUR dla szko\u0142y podstawowej - Dziennik.pl",
+            "url": "https://edukacja.dziennik.pl/aktualnosci/artykuly/459243,lista-lektur-w-szkole-podstawowej-aktualna.html"
+          },
+          {
+            "title": "Lektury obowi\u0105zkowe 2024/2025 \u2013 lista tytu\u0142\u00f3w - CZYTAM - Empik Pasje",
+            "url": "https://www.empik.com/pasje/lektury-obowiazkowe-2024-2025-lista-tytulow,134892,a"
+          },
+          {
+            "title": "Samorz\u0105dowa Szko\u0142a Podstawowa - Wykaz lektur dla klas 4-8",
+            "url": "https://mieszkola.szkolnastrona.pl/art,475,wykaz-lektur-dla-klas-4-8"
+          },
+          {
+            "title": "Ore",
+            "url": "https://ore.edu.pl/wp-content/uploads/2021/09/znowelizowana-lista-lektur-w-podstawie-programowej-sp-1.pdf"
+          }
+        ]
+      },
+      "Based on the search results, I can see information about \"Ma\u0142y Ksi\u0105\u017c\u0119\" (The Little Prince) and its place in the Polish school curriculum. Here's what I found regarding its status as a mandatory reading in Polish elementary education:\n\nAntoine de Saint-Exup\u00e9ry's \"Ma\u0142y Ksi\u0105\u017c\u0119\" is listed as the first mandatory reading on the current curriculum for Polish elementary schools.\n\n\"Ma\u0142y Ksi\u0105\u017c\u0119\" by Antoine de Saint-Exup\u00e9ry is among the most frequently chosen titles for school reading, alongside other popular books like \"Felix, Net i Nika\" and \"Kubu\u015b Puchatek.\"\n\nThe book appears in the list of mandatory readings for grades VII-VIII of elementary schools, which was updated in recent years. New mandatory reading lists became effective in Polish elementary schools starting from the 2021/2022 school year as part of curriculum updates.\n\nThe 2024/2025 school year brought further changes to education, including a new list of mandatory readings, indicating that reading lists are regularly updated in the Polish education system.\n\n\"Ma\u0142y Ksi\u0105\u017c\u0119\" is described as a masterpiece of world literature, a universal story about love, friendship, trust, and care for others that teaches respect for people, animals, plants, and nature, making it educationally valuable for students.\n\nThe search results confirm that \"Ma\u0142y Ksi\u0105\u017c\u0119\" is indeed part of the mandatory reading curriculum (podstawa programowa) for Polish elementary schools (szko\u0142a podstawowa), particularly for the higher grades."
+    ],
+    "durationSeconds": 15.447847907999996
+  }
+}

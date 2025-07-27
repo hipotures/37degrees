@@ -1,0 +1,62 @@
+{
+  "session_id": "10d774b1-cbee-4596-b9de-70bcda5cd9e0",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/10d774b1-cbee-4596-b9de-70bcda5cd9e0.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"1984 George Orwell\" publication history June 1949 initial reception reviews bestseller"
+  },
+  "tool_response": {
+    "query": "\"1984 George Orwell\" publication history June 1949 initial reception reviews bestseller",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01NQ88TddBx9YPtnKn4uUrbb",
+        "content": [
+          {
+            "title": "Nineteen Eighty-Four - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four"
+          },
+          {
+            "title": "1984 by George Orwell: Read TIME's Original 1949 Review of the Book | TIME",
+            "url": "https://time.com/3903841/review-nineteen-eighty-four-history/"
+          },
+          {
+            "title": "George Orwell\u2019s \"1984\" is published | June 8, 1949 | HISTORY",
+            "url": "https://www.history.com/this-day-in-history/june-8/george-orwells-nineteen-eighty-four-is-published"
+          },
+          {
+            "title": "Orwell-1949 1984.pdf",
+            "url": "https://rauterberg.employee.id.tue.nl/lecturenotes/DDM110%20CAS/Orwell-1949%201984.pdf"
+          },
+          {
+            "title": "1984 by George Orwell, Paperback | Barnes & Noble\u00ae",
+            "url": "https://www.barnesandnoble.com/w/1984-george-orwell/1100009100"
+          },
+          {
+            "title": "1984: 75th Anniversary: George Orwell, Erich Fromm: 9780451524935: Amazon.com: Books",
+            "url": "https://www.amazon.com/1984-Signet-Classics-George-Orwell/dp/0451524934"
+          },
+          {
+            "title": "75 Years of 1984: Why George Orwell\u2019s Classic Remains More Relevant Than Ever",
+            "url": "https://lithub.com/75-years-of-1984-why-george-orwells-classic-remains-more-relevant-than-ever/"
+          },
+          {
+            "title": "1984 by George Orwell | Goodreads",
+            "url": "https://www.goodreads.com/book/show/61439040-1984"
+          },
+          {
+            "title": "Nineteen Eighty-four | Summary, Characters, Analysis, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/Nineteen-Eighty-four"
+          },
+          {
+            "title": "George Orwell wrote the book '1984' in 1949. By today\u2019s standard, would you consider '1984' as science fiction? - Quora",
+            "url": "https://www.quora.com/George-Orwell-wrote-the-book-1984-in-1949-By-today-s-standard-would-you-consider-1984-as-science-fiction"
+          }
+        ]
+      },
+      "Based on the search results, here's what I found about the publication history and initial reception of George Orwell's \"1984\":\n\n## Publication Details\n\nGeorge Orwell's dystopian novel \"1984\" was published on 8 June 1949 by Secker & Warburg as Orwell's ninth and final completed book.(no content)In the United States, it was released on 13 June 1949 by Harcourt Brace, & Co.\n\n## Initial Print Runs and Sales\n\nThe first British print run consisted of 25,575 copies, followed by a further 5,000 copies in March and August 1950.(no content)In the United States, an initial print of 20,000 copies was quickly followed by another 10,000 on 1 July, and again on 7 September.(no content)Orwell predicted earnings of around \u00a3500.\n\n## Commercial Success\n\nThe book became a major bestseller. By 1970 over 8 million copies had been sold in the US, and in 1984 it topped the country's all-time best seller list.(no content)It had the most immediate impact in the United States.\n\n## Critical Reception\n\nGeorge Orwell was already an established literary star when his masterwork Nineteen Eighty-Four was published on this day in 1949, but that didn't stop TIME's reviewer from being pleasantly surprised by the book.(no content)TIME's reviewer found it \"absolutely super.\"(no content)A contemporary New York Times review from June 1949 described it as \"the most contemporary novel of the year and who knows of now many past and to come.\"(no content)The novel's chilling dystopia made a deep impression on readers, and Orwell's ideas entered mainstream culture in a way achieved by very few books.\n\n## Publisher and Author Response\n\nIt was enthusiastically received by Secker & Warburg, who acted quickly.(no content)In the run up to publication Orwell called the novel \"a beastly book\" and expressed some disappointment towards it, thinking it would have been improved had he not been so ill. However, this was typical of Orwell, who had talked down his other books shortly before their release.\n\nThe search confirmed that \"1984\" was indeed published in June 1949, received enthusiastic initial reviews, and quickly became a bestseller with significant commercial and cultural impact."
+    ],
+    "durationSeconds": 20.314032446000027
+  }
+}

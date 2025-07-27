@@ -1,0 +1,62 @@
+{
+  "session_id": "7ed04832-da4f-417c-b9bb-c372937eeaa9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7ed04832-da4f-417c-b9bb-c372937eeaa9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "C.S. Lewis Narnia polskie wydawnictwa Media Rodzina Zysk i S-ka historia wyda\u0144"
+  },
+  "tool_response": {
+    "query": "C.S. Lewis Narnia polskie wydawnictwa Media Rodzina Zysk i S-ka historia wyda\u0144",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01UtxsNMstkRaEvWhdg65XY3",
+        "content": [
+          {
+            "title": "Seria Opowie\u015bci z Narnii (wszystkie ksi\u0105\u017cki), C.S Lewis | Media Rodzina",
+            "url": "https://www.mediarodzina.pl/seria/opowiesci-z-narnii/"
+          },
+          {
+            "title": "C.S. Lewis \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/C.S._Lewis"
+          },
+          {
+            "title": "Clive Staples Lewis (C.S Lewis) | Ksi\u0105\u017cki, audiobooki | Media Rodzina",
+            "url": "https://www.mediarodzina.pl/autor/clive-staples-lewis/"
+          },
+          {
+            "title": "Opowie\u015bci z Narnii. Lew, czarownica i stara szafa - C.S. Lewis | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/33905/opowiesci-z-narnii-lew-czarownica-i-stara-szafa"
+          },
+          {
+            "title": "Ciekawostki o ksi\u0105\u017cce \"Opowie\u015bci z Narnii\" C.S. Lewisa | Media Rodzina",
+            "url": "https://www.mediarodzina.pl/blog/ciekawostki-dotyczace-opowiesci-z-narnii-nawet-fani-beda-zaskoczeni/"
+          },
+          {
+            "title": "Opowie\u015bci z Narnii - C.S. Lewis Ksi\u0105\u017cki przy herbacie",
+            "url": "https://ksiazkiprzyherbacie.pl/opowiesci-z-narnii-c-s-lewis-komplet"
+          },
+          {
+            "title": "C.S. Lewis (autor ksi\u0105\u017cki \"Opowie\u015bci z Narnii. Lew, Czarownica i stara szafa\") - nakanapie.pl",
+            "url": "https://nakanapie.pl/autorzy/c-s-lewis"
+          },
+          {
+            "title": "Pakiet: Opowie\u015bci z Narnii. Tom 1-7 (siedmiopak), C.S. Lewis | Media Rodzina",
+            "url": "https://www.mediarodzina.pl/produkt/opowiesci-z-narnii-siedmiopak/"
+          },
+          {
+            "title": "Lew, Czarownica i Stara Szafa. Opowie\u015bci z Narnii, t. 1 - C.S. Lewis - Ksi\u0119garnia Esprit",
+            "url": "https://www.esprit.com.pl/1391/lew--czarownica-i-stara-szafa-opowiesci-z-narnii--t-1.html"
+          },
+          {
+            "title": "Opowie\u015bci z Narnii \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Opowie%C5%9Bci_z_Narnii"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with information about the Polish publishing history of C.S. Lewis's Chronicles of Narnia books, particularly regarding Media Rodzina and Zysk i S-ka publishers.\n\n## Historia wyda\u0144 polskich \"Opowie\u015bci z Narnii\"\n\n### Media Rodzina\nMedia Rodzina jest g\u0142\u00f3wnym polskim wydawc\u0105 serii \"Opowie\u015bci z Narnii\" C.S. Lewisa. Autor pisa\u0142 seri\u0119 mi\u0119dzy rokiem 1949 a 1954, a pierwsze polskie wydanie ukaza\u0142o si\u0119 w latach 1984-1989.\n\n**Obecna oferta Media Rodzina obejmuje:**\n- Siedmiopak - zbi\u00f3r wszystkich siedmiu cz\u0119\u015bci serii\n- Wydanie dwutomowe\n- Wydania filmowe z kadrami z film\u00f3w (Lew, Czarownica i stara szafa, Ksi\u0105\u017c\u0119 Kaspian oraz Podr\u00f3\u017c W\u0119drowca do \u015awitu)\n- Audiobooki wszystkich siedmiu cz\u0119\u015bci\n- Ksi\u0105\u017ck\u0119 do kolorowania(no content)Wydawnictwo Media Rodzina publikuje tak\u017ce inne dzie\u0142a Lewisa dla doros\u0142ych z gatunku literatury pi\u0119knej i filozofii, w tym:\n- Chrze\u015bcija\u0144stwo po prostu (2002)\n- Cztery mi\u0142o\u015bci\n- Listy starego diab\u0142a do m\u0142odego\n\n### Zysk i S-ka\nWydawnictwo Zysk i S-ka r\u00f3wnie\u017c publikuje wydania \"Opowie\u015bci z Narnii\", oferuj\u0105c pe\u0142ne siedmiotomowe wydanie serii w formacie 125 x 195 mm w mi\u0119kkiej oprawie.\n\n### T\u0142umaczenia\nPolskie t\u0142umaczenie \"Opowie\u015bci z Narnii\" wykona\u0142 Andrzej Polkowski (od 1985 roku).\n\n### Popularno\u015b\u0107 i znaczenie\nCykl sprzeda\u0142 si\u0119 w ponad stu dwudziestu milionach egzemplarzy w czterdziestu jeden j\u0119zykach, a znajduje si\u0119 na Z\u0142otej Li\u015bcie ksi\u0105\u017cek polecanych do czytania dzieciom przez Fundacj\u0119 ABC XXI \"Ca\u0142a Polska czyta dzieciom\"."
+    ],
+    "durationSeconds": 24.959524156
+  }
+}

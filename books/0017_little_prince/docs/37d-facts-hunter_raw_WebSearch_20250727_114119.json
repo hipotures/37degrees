@@ -1,0 +1,62 @@
+{
+  "session_id": "f420e2ea-43ea-499f-a68a-b8dea67fad50",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/f420e2ea-43ea-499f-a68a-b8dea67fad50.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Little Prince controversies publication stories banned Vichy France censorship debates criticism"
+  },
+  "tool_response": {
+    "query": "Little Prince controversies publication stories banned Vichy France censorship debates criticism",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01QC2HVq69zNVkQiJiykvFuW",
+        "content": [
+          {
+            "title": "The Little Prince - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Little_Prince"
+          },
+          {
+            "title": "Antoine de Saint-Exup\u00e9ry - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry"
+          },
+          {
+            "title": "'Le Petit Prince' turns 80: Five facts you didn't know about Antoine de Saint-Exup\u00e9ry | Euronews",
+            "url": "https://www.euronews.com/culture/2023/04/19/le-petit-prince-turns-80-five-facts-you-didnt-know-about-antoine-de-saint-exupery"
+          },
+          {
+            "title": "Books Mandala - Did you know? The Little Prince was ...",
+            "url": "https://www.facebook.com/booksmandala/posts/did-you-know-the-little-prince-was-banned-in-france-until-1945-two-years-after-i/1970383003142269/"
+          },
+          {
+            "title": "How the iconic French children's book 'The Little Prince ...",
+            "url": "https://www.newyorktheatreguide.com/theatre-news/news/iconic-french-childrens-book-the-little-prince-became-a-broadway-show"
+          },
+          {
+            "title": "70 years of Le Petit Prince \u2013 Languages across Borders",
+            "url": "https://languagecollections-blog.lib.cam.ac.uk/2014/12/09/70-years-of-le-petit-prince/"
+          },
+          {
+            "title": "Why was The Little Prince banned? | Art Blog | Firstlawcomic",
+            "url": "https://first-law-comic.com/why-was-the-little-prince-banned/"
+          },
+          {
+            "title": "12 Charming Facts About The Little Prince",
+            "url": "https://www.mentalfloss.com/article/64148/12-charming-facts-about-little-prince"
+          },
+          {
+            "title": "Critical Reception - The Little Prince",
+            "url": "https://historyofthelittleprince.weebly.com/critical-reception.html"
+          },
+          {
+            "title": "Antoine de Saint-Exup\u00e9ry, Author of \"The Little Prince\"",
+            "url": "https://blog.bookstellyouwhy.com/antoine-de-saint-exup%C3%A9ry-author-of-the-little-prince"
+          }
+        ]
+      },
+      "Based on the search results, I found detailed information about the controversies and publication history of \"The Little Prince\" and its author Antoine de Saint-Exup\u00e9ry. Here's what the research reveals:\n\n## The Little Prince: Controversies and Censorship History\n\n### Vichy France Ban and Publication Challenges\n\nThe Little Prince was first published in both English and French in the United States in April 1943, but it was banned by the Vichy Regime and only appeared in France posthumously after liberation. Due to Saint-Exup\u00e9ry's controversial political views, his works were not easily available under the Vichy regime, so it wasn't until the liberation of France that the book was made available in the author's homeland.\n\n### Political Controversies Surrounding Saint-Exup\u00e9ry\n\nSaint-Exup\u00e9ry faced criticism from multiple political factions during World War II:\n\n1. **Vichy Government Opposition**: Vichy authorities and Nazi appeasers objected to Saint-Exup\u00e9ry's praise of Captain Jean Isra\u00ebl, a Jewish squadron colleague, in his book \"Flight to Arras.\" This led to the book being banned in France, along with prohibitions against further printings of Saint-Exup\u00e9ry's other works.\n\n2. **Gaullists vs. Vichy Tensions**: Saint-Exup\u00e9ry faced partisan attacks due to his neutral stance towards supporters of both ardent French Gaullist and Vichy France. While the Vichy government had banned certain of his books for negative mentions of Hitler and for praising Jewish aviators, Saint-Exup\u00e9ry was also a fierce critic of Free French general Charles de Gaulle, who tried to paint the author as a Nazi sympathizer, earning his books the strange distinction of being banned in both collaborationist territory and among the resistance.\n\n3. **Controversial Open Letter**: Saint-Exup\u00e9ry wrote \"An Open Letter to Frenchmen Everywhere,\" which was highly controversial in its attempt to rally support for France against Nazi oppression at a time when the French were sharply divided between support of the Gaullists and Vichy factions.\n\n### Initial Reception and Criticism\n\nThe Little Prince spent a modest two weeks on the New York Times bestseller list, and critics were confused by its lack of a clear-cut narrative and whether it was truly a book for adults and kids. The Little Prince didn't take off in France at first! Though de Saint-Exup\u00e9ry was a leading writer by that time, his work was banned under the oppressive Vichy Regime. The Little Prince wasn't published in France until after his death in 1944.\n\n### Ongoing Legacy Despite Controversies\n\nDespite these early controversies and bans, The Little Prince became Saint-Exup\u00e9ry's most successful work, selling an estimated 140 million copies worldwide and being translated into over 505 different languages and dialects, making it the second most translated work ever published, trailing only the Bible.\n\nThe book's publication history reveals how political tensions during World War II led to one of the world's most beloved children's books being caught up in censorship battles on multiple fronts."
+    ],
+    "durationSeconds": 22.01795822499995
+  }
+}

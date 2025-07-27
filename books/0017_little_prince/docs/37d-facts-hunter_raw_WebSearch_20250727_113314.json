@@ -1,0 +1,62 @@
+{
+  "session_id": "f420e2ea-43ea-499f-a68a-b8dea67fad50",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/f420e2ea-43ea-499f-a68a-b8dea67fad50.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Ma\u0142y Ksi\u0105\u017c\u0119 polskie t\u0142umaczenia Jan Szwykowski Marta Malicka historia wyda\u0144 Polska"
+  },
+  "tool_response": {
+    "query": "Ma\u0142y Ksi\u0105\u017c\u0119 polskie t\u0142umaczenia Jan Szwykowski Marta Malicka historia wyda\u0144 Polska",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01Xth66DAe9seJDuML6hsS5T",
+        "content": [
+          {
+            "title": "Ma\u0142y Ksi\u0105\u017c\u0119 - Polskie wydania ksi\u0105\u017cki",
+            "url": "https://malyksiaze.net/pl/moja-kolekcja/polskie-wydania-malego-ksiecia"
+          },
+          {
+            "title": "Ma\u0142y Ksi\u0105\u017c\u0119 \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Ma\u0142y_Ksi\u0105\u017c\u0119"
+          },
+          {
+            "title": "Ma\u0142y Ksi\u0105\u017ce - Prawe ksi\u0105\u017cki",
+            "url": "https://praweksiazki.pl/dla-dzieci/1829-maly-ksiaze-9788374954006.html"
+          },
+          {
+            "title": "\u201eMa\u0142y Ksi\u0105\u017c\u0119\u201d Antoine de Saint-Exue`ery - krakowczyta.pl",
+            "url": "https://krakowczyta.pl/1416548/Ma\u0142y+Ksi\u0105\u017c\u0119"
+          },
+          {
+            "title": "Ma\u0142y Ksi\u0105\u017c\u0119",
+            "url": "https://www.empik.com/maly-ksiaze-de-saint-exupery-antoine,prod560022,ksiazka-p"
+          },
+          {
+            "title": "70 lat temu ukaza\u0142 si\u0119 \u201eMa\u0142y Ksi\u0105\u017c\u0119\u201d | dzieje.pl - Historia Polski",
+            "url": "https://dzieje.pl/kultura-i-sztuka/70-lat-temu-ukazal-sie-maly-ksiaze"
+          },
+          {
+            "title": "\u201eMa\u0142y Ksi\u0105\u017c\u0119\u201d Antoine de Saint-Exup\u00e9ry - w.bibliotece.pl",
+            "url": "https://w.bibliotece.pl/1416548/Ma\u0142y+Ksi\u0105\u017c\u0119"
+          },
+          {
+            "title": "Lis, a mo\u017ce Lisica? \u041e przek\u0142adzie osobowych nazw w\u0142asnych w \u201eMa\u0142ym Ksi\u0119ciu\u201d Antoine\u2019a de Saint-Exup\u00e9ry\u2019ego | P\u00f3\u0142rocznik J\u0119zykoznawczy Tertium",
+            "url": "https://journal.tertium.edu.pl/JaK/article/view/201"
+          },
+          {
+            "title": "Czterna\u015bcie odcieni Ksi\u0119cia | Aktualno\u015bci | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/aktualnosci/5928/czternascie-odcieni-ksiecia"
+          },
+          {
+            "title": "Ma\u0142y Ksi\u0105\u017c\u0119 (TW)",
+            "url": "https://muza.com.pl/pl/products/maly-ksiaze-tw-10120.html"
+          }
+        ]
+      },
+      "Based on the search results, I found comprehensive information about the Polish translations of \"The Little Prince\" (\"Ma\u0142y Ksi\u0105\u017c\u0119\") by Antoine de Saint-Exup\u00e9ry, specifically regarding the work of Jan Szwykowski and Marta Malicka, and the publication history in Poland.\n\nHere are the key findings about the Polish translations and publication history:\n\n## First Polish Translation - Marta Malicka (1947)\n\nPolish was the first language in the world to which \"The Little Prince\" was translated (not counting English, which was published a few days before the French edition). The book was published by Sp\u00f3\u0142dzielnia Wydawnicza \"P\u0142omienie\" in Marta Malicka's translation already two years after the end of the war (Warsaw, 1947). In Polish, \"The Little Prince\" appeared for the first time in 1947 published by Sp\u00f3\u0142dzielnia Wydawnicza \"P\u0142omienie\" in Marta Malicka's translation.\n\n## Jan Szwykowski's Translation Dominance\n\nAlthough Jan Szwykowski's translation is the most popular, Polish readers first received \"The Little Prince\" in Marta Malicka's translation. The version in Jan Szwykowski's translation has the most editions - over 50 (as of 2024). Probably the most popular is Jan Szwykowski's translation. It is precisely his versions of quotes from \"The Little Prince\" that Poles most often repeat.\n\n## Publishing History of Szwykowski's Translation\n\nThe search results show an extensive publishing history of Jan Szwykowski's translation through PAX Instytut Wydawniczy:\n\nFirst edition in 1958, followed by multiple editions: II (1967), III (1968), IV (1969), VI (1970), VII (1971), VIII (1972), IX (1976), X (1981), and XI (1985), with print runs ranging from 20,000 to 80,000 copies.\n\n## Multiple Polish Translators\n\nOther translators of \"The Little Prince\" included Marta Cywi\u0144ska, Halina Kozio\u0142, Barbara Przyby\u0142owska, Piotr Drzyma\u0142a, Wiera and Zbigniew Bie\u0144kowscy. The basic research corpus consists of the original French version of the novel and fifteen selected Polish translations published between 1947-2021.\n\n## Historical Context\n\nInterestingly, before the second Polish translation appeared, on August 12, 1956, in issue 13 of \"Kierunki\" magazine, the full text of \"The Little Prince\" was published. Of course, in Marta Malicka's translation.\n\nThe search results demonstrate that \"The Little Prince\" has a rich publication history in Poland, with Marta Malicka being the pioneering translator in 1947, while Jan Szwykowski's translation became the most popular and widely published version with over 50 editions."
+    ],
+    "durationSeconds": 22.39226092900001
+  }
+}

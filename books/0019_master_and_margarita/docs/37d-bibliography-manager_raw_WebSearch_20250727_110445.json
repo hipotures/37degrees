@@ -1,0 +1,51 @@
+{
+  "session_id": "33f7964e-50c3-4a6f-a60c-a132c9281df9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/33f7964e-50c3-4a6f-a60c-a132c9281df9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Karolina Korcz \"Mistrz i Ma\u0142gorzata\" dissertation Adam Mickiewicz University Pozna\u0144 2015"
+  },
+  "tool_response": {
+    "query": "Karolina Korcz \"Mistrz i Ma\u0142gorzata\" dissertation Adam Mickiewicz University Pozna\u0144 2015",
+    "results": [
+      "I'll perform a web search for that specific dissertation query.",
+      {
+        "tool_use_id": "srvtoolu_01Pn7S5AgYRr35bPY3i8FJFG",
+        "content": [
+          {
+            "title": "Korcz Karolina, \u201eMistrz i Ma\u0142gorzata\u201d Michai\u0142a Bu\u0142hakowa. ...",
+            "url": "https://psp.amu.edu.pl/asset/public/965/Korcz%20Karolina,%20%E2%80%9EMistrz%20i%20Ma%C5%82gorzata%E2%80%9D%20Michai%C5%82a%20Bu%C5%82hakowa.pdf"
+          },
+          {
+            "title": "Repozytorium Uniwersytetu im. Adama Mickiewicza (AMUR): \u201eMistrz i Ma\u0142gorzata\u201d Michai\u0142a Bu\u0142hakowa w Polsce w latach 1969-1989",
+            "url": "https://repozytorium.amu.edu.pl/handle/10593/14312"
+          },
+          {
+            "title": "Cie\u0144 Wolanda nad PRL - Oceny, opinie, ceny - Karolina Korcz - Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/ksiazka/4883136/cien-wolanda-nad-prl"
+          },
+          {
+            "title": "Rozprawa doktorska Mistrz i Ma\u0142gorzata Michai\u0142a Bu\u0142hakowa w",
+            "url": "https://dokumen.tips/documents/rozprawa-doktorska-mistrz-i-malgorzata-michaila-bulhakowa-w-.html"
+          },
+          {
+            "title": "Krakow",
+            "url": "https://studiapoetica.uken.krakow.pl/article/view/9711"
+          },
+          {
+            "title": "Motywy i motywacje duchowe w Mistrzu i Ma\u0142gorzacie Michai\u0142a Bu\u0142hakowa w polskich \u017ar\u00f3d\u0142ach periodycznych i zwartych po roku 1989 - Roczniki Humanistyczne - Volume 69, Issue 7 (2021) - CEJSH - Yadda",
+            "url": "http://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.ojs-doi-10_18290_rh21697-10"
+          },
+          {
+            "title": "Ma\u0142a Czarna - Karolina Korcz - 18.03.2019 - Radio Pozna\u0144",
+            "url": "https://radiopoznan.fm/audycja/mala-czarna/mala-czarna-karolina-korcz-18-03-2019"
+          }
+        ]
+      },
+      "Based on the search results, I found information about Karolina Korcz's dissertation on \"Mistrz i Ma\u0142gorzata\" (Master and Margarita) by Mikhail Bulgakov at Adam Mickiewicz University in Pozna\u0144. Here's what I found:\n\nKarolina Korcz wrote her doctoral dissertation titled \"Mistrz i Ma\u0142gorzata Michai\u0142a Bu\u0142hakowa w Polsce w latach 1969-1989\" (Master and Margarita by Mikhail Bulgakov in Poland in the years 1969-1989) at Adam Mickiewicz University in Pozna\u0144. \n\nThis dissertation was later published as a book titled \"Cie\u0144 Wolanda nad PRL. 'Mistrz i Ma\u0142gorzata' Michai\u0142a Bu\u0142hakowa w Polsce w latach 1969\u20131989. Obecno\u015b\u0107. Recepcja. Odzew\" (The Shadow of Woland over PRL. \"Master and Margarita\" by Mikhail Bulgakov in Poland in the years 1969\u20131989. Presence. Reception. Response) published in Pozna\u0144 in 2019.\n\nDr. Karolina Korcz's research interests focus on the conditions and ways of functioning of Mikhail Bulgakov's most famous novel in the reading circulation in Poland, the specificity of reception, and the value of this work for Polish culture.\n\nThe work has been praised as filling an important gap in Polish literary studies, being the first comprehensive study to examine the reception of the novel in relation to Polish socio-cultural life, and is considered significant both in Polish and foreign Polish studies.\n\nThe search results indicate this was indeed a doctoral dissertation from Adam Mickiewicz University in Pozna\u0144, though the exact year appears to be slightly different from what you searched for - the published book came out in 2019, which may have been when the dissertation was completed or published."
+    ],
+    "durationSeconds": 14.37775452399999
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "session_id": "33f7964e-50c3-4a6f-a60c-a132c9281df9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/33f7964e-50c3-4a6f-a60c-a132c9281df9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Mistrz i Ma\u0142gorzata\" wsp\u00f3\u0142czesna Polska polityka totalitaryzm cenzura aktualno\u015b\u0107"
+  },
+  "tool_response": {
+    "query": "\"Mistrz i Ma\u0142gorzata\" wsp\u00f3\u0142czesna Polska polityka totalitaryzm cenzura aktualno\u015b\u0107",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01HfTYZUk56m4pvBX58NyX9L",
+        "content": [
+          {
+            "title": "W\u0105tek totalitaryzmu w \u015bwietle powie\u015bci Micha\u0142a Bu\u0142hakowa -\u201eMistrz i Ma\u0142gorzata\" - XX-lecie - Bryk.pl",
+            "url": "https://www.bryk.pl/wypracowania/jezyk-polski/xx-lecie/21193-watek-totalitaryzmu-w-swietle-powiesci-michala-bulhakowa-mistrz-i-malgorzata.html"
+          },
+          {
+            "title": "Totalitaryzm w Mistrzu i Ma\u0142gorzacie",
+            "url": "https://eszkola.pl/jezyk-polski/totalitaryzm-w-mistrzu-i-malgorzacie-3071.html"
+          },
+          {
+            "title": "\"Mistrz i Ma\u0142gorzata\", czyli wizerunek pa\u0144stwa totalitarnego",
+            "url": "https://www.mdk.webd.pl/_bin/docs/dwu/dwu16.html"
+          },
+          {
+            "title": "Michai\u0142 Bu\u0142hakow \"Mistrz i Ma\u0142gorzata\" w czasach totalitarnej Rosji - XX-lecie - Bryk.pl",
+            "url": "https://www.bryk.pl/wypracowania/jezyk-polski/xx-lecie/1002213-michail-bulhakow-mistrz-i-malgorzata-w-czasach-totalitarnej-rosji.html"
+          },
+          {
+            "title": "Mistrz i Ma\u0142gorzata. Zaznaczono ingerencje sowieckiej cenzury - Ksi\u0119garnia Akademicka Krak\u00f3w",
+            "url": "https://akademicka.com.pl/index.php?detale=1&a=2&id=32300"
+          },
+          {
+            "title": "Totalitaryzm w \u201eMistrzu i Ma\u0142gorzacie\u201d - wypracowanie",
+            "url": "https://wypracowania.pl/wypracowania/totalitaryzm-w-mistrzu-i-malgorzacie"
+          },
+          {
+            "title": "Obraz systemu totalitarnego w Mistrzu i Ma\u0142gorzacie Michai\u0142a Bu\u0142hakowa - zpe.gov.pl",
+            "url": "https://zpe.gov.pl/b/obraz-systemu-totalitarnego-w-mistrzu-i-malgorzacie-michaila-bulhakowa/P1BG6Htzq"
+          },
+          {
+            "title": "Mistrz i Ma\u0142gorzata - cenzura 2007 - Bu\u0142hakow Michai\u0142 ksi\u0105\u017cka | Selkar",
+            "url": "https://selkar.pl/mistrz-i-malgorzata-cenzura-2007"
+          },
+          {
+            "title": "Mistrz i Ma\u0142gorzata (zaznaczono ingerencj\u0119 Sowieckiej Cenzury) - Michai\u0142 Bu\u0142hakow | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/40325/mistrz-i-malgorzata-zaznaczono-ingerencje-sowieckiej-cenzury"
+          },
+          {
+            "title": "Michai\u0142 Bu\u0142hakow \u201eMistrz i Ma\u0142gorzata\u201d - system totalitarny i spos\u00f3b jego przedstawienia w powie\u015bci",
+            "url": "https://wypracowania24.pl/jezyk-polski/4957/michail-bulhakow-mistrz-i"
+          }
+        ]
+      },
+      "Wyszukiwanie przynios\u0142o interesuj\u0105ce rezultaty dotycz\u0105ce analizy \"Mistrza i Ma\u0142gorzaty\" Michai\u0142a Bu\u0142hakowa w kontek\u015bcie wsp\u00f3\u0142czesnej polskiej polityki i totalitaryzmu. Oto g\u0142\u00f3wne w\u0105tki zwi\u0105zane z aktualno\u015bci\u0105 tej powie\u015bci:\n\n## Totalitaryzm w \"Mistrzu i Ma\u0142gorzacie\"\n\nJedn\u0105 z najwa\u017cniejszych p\u0142aszczyzn znaczeniowych \u201eMistrza i Ma\u0142gorzaty\" jest dyskurs na temat totalitaryzmu.(no content)Bu\u0142hakow kreuj\u0105c obraz Moskwy lat 30. obna\u017ca istot\u0119 panuj\u0105cego w \u00f3wczesnym Zwi\u0105zku Radzieckim komunizmu i za pomoc\u0105 groteskowej deformacji \u015bwiata przedstawionego pokazuje absurd ka\u017cdego systemu politycznego zniewolenia.\n\n## Mechanizmy kontroli i cenzury\n\nPowie\u015b\u0107 przedstawia r\u00f3\u017cne narz\u0119dzia totalitarnego kontrolowania spo\u0142ecze\u0144stwa:\n\nBez pardonu pa\u0144stwo si\u0119ga zatem po \u015brodki takie, jak propaganda i cenzura. Narz\u0119dziem tej pierwszej staje si\u0119 sztuka i \u015brodki masowego przekazu. Redaktorzy pa\u0144stwowych pism zamawiaj\u0105 poematy szkaluj\u0105ce wiar\u0119 chrze\u015bcija\u0144sk\u0105, a w prasie rozp\u0119tuje si\u0119 kampanie przeciwko pisarzom niezale\u017cnym. Dzie\u0142a sprzeczne z oficjaln\u0105 ideologi\u0105 nie mog\u0105 ujrze\u0107 \u015bwiat\u0142a dziennego, poniewa\u017c zostaj\u0105 poddane bezlitosnej cenzurze, tak jak powie\u015b\u0107 Mistrza.(no content)Innym narz\u0119dziem totalitarnego porz\u0105dku jest cenzura, kt\u00f3ra ca\u0142kowicie likwiduje wolno\u015b\u0107 s\u0142owa. Mistrz, g\u0142\u00f3wny bohater powie\u015bci Bu\u0142hakowa, traci wszystko z powodu napisania ksi\u0105\u017cki sprzecznej z ateistyczn\u0105 ideologi\u0105 propagowan\u0105 przez w\u0142adz\u0119.\n\n## Terror i kontrola spo\u0142ecze\u0144stwa\n\nCa\u0142y kraj ogarni\u0119ty jest przez wszechobecny terror NKWD. Bu\u0142hakow ukazuje metody dzia\u0142ania tej \u201einstytucji\": ludzie s\u0105 zabijani, skazywani na wieloletni pobyt w wi\u0119zieniu albo zsy\u0142ani na Sybir do oboz\u00f3w pracy, tzw. \u0142agr\u00f3w - nikt nie jest pewien swego losu.(no content)Jednocze\u015bnie zostaj\u0105 zniszczone mechanizmy spo\u0142ecznej solidarno\u015bci, w\u0142adza zach\u0119ca bowiem do donosicielstwa i szpiegostwa. Ci, kt\u00f3rzy zdecyduj\u0105 si\u0119 wsp\u00f3\u0142pracowa\u0107 z re\u017cimem, zyskuj\u0105 znacz\u0105ce przywileje.\n\n## Aktualno\u015b\u0107 wobec polskich do\u015bwiadcze\u0144\n\nTego \u017ce nie by\u0142a to wizja sztucznie wymy\u015blona, dowodzi najlepiej do\u015bwiadczenie komunistycznego totalitaryzmu w Polsce lat pi\u0119\u0107dziesi\u0105tych: te same metody niszczenia ludzi, ten sam brak szacunku dla jakichkolwiek warto\u015bci.\n\n## Edycje uwzgl\u0119dniaj\u0105ce cenzur\u0119\n\nSzczeg\u00f3ln\u0105 warto\u015b\u0107 ma fakt, \u017ce niniejsza edycja, przygotowana wed\u0142ug wydania z 1969 roku w Possev-Verlag, Frankfurt/Main, jest wyj\u0105tkowa, poniewa\u017c zaznaczone w niej zosta\u0142ay wszystkie ingerencje sowieckiej cenzury.\n\nPowie\u015b\u0107 Bu\u0142hakowa pozostaje aktualn\u0105 analiz\u0105 mechanizm\u00f3w totalitarnej w\u0142adzy, kt\u00f3ra znajduje odzwierciedlenie w r\u00f3\u017cnych kontekstach historycznych, w tym w polskich do\u015bwiadczeniach z systemem komunistycznym."
+    ],
+    "durationSeconds": 28.08236546100024
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "session_id": "10d774b1-cbee-4596-b9de-70bcda5cd9e0",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/10d774b1-cbee-4596-b9de-70bcda5cd9e0.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "orwellowski Polska polityka j\u0119zyk \"Big Brother\" nowomowa inwigilacja"
+  },
+  "tool_response": {
+    "query": "orwellowski Polska polityka j\u0119zyk \"Big Brother\" nowomowa inwigilacja",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01NY9YZeqJJUQzFSA7RmZSnN",
+        "content": [
+          {
+            "title": "Rok 1984 \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Rok_1984"
+          },
+          {
+            "title": "Raz, dwa, trzy, Wielki Brat patrzy - Polityka.pl",
+            "url": "https://www.polityka.pl/tygodnikpolityka/ludzieistyle/1786710,1,raz-dwa-trzy-wielki-brat-patrzy.read"
+          },
+          {
+            "title": "Big Brother (Polska) \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Big_Brother_(Polska)"
+          },
+          {
+            "title": "Nowomowa \u2013 j\u0119zyk w\u0142adzy totalitarnej - zpe.gov.pl",
+            "url": "https://zpe.gov.pl/a/nowomowa---jezyk-wladzy-totalitarnej/DnpXELg4f"
+          },
+          {
+            "title": "Rok 1984 - streszczenie | Akademia Humanistyczno-Ekonomiczna w \u0141odzi",
+            "url": "https://www.ahe.lodz.pl/strefa-wiedzy/rok-1984-streszczenie"
+          },
+          {
+            "title": "Pod czujnym okiem Wielkiego Brata - rp.pl",
+            "url": "https://www.rp.pl/literatura/art7657961-pod-czujnym-okiem-wielkiego-brata"
+          },
+          {
+            "title": "George Orwell \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.m.wikipedia.org/wiki/George_Orwell"
+          },
+          {
+            "title": "Big Brother: 10 lat po | Wielki Brat zmala\u0142 z czasem - Polityka.pl",
+            "url": "https://www.polityka.pl/tygodnikpolityka/kraj/1513708,1,big-brother-10-lat-po.read"
+          },
+          {
+            "title": "Polityka jak Big Brother - felieton",
+            "url": "https://swiatlekarza.pl/polityka-big-brother/"
+          },
+          {
+            "title": "George Orwell trafnie przewidzia\u0142 stan wsp\u00f3\u0142czesnego \u015bwiata. \u2013 Wolna Polska \u2013 Wiadomo\u015bci",
+            "url": "https://wolna-polska.pl/wiadomosci/george-orwell-trafnie-przewidzial-stan-wspolczesnego-swiata-2013-02"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about Orwellian themes in Polish politics and language, particularly relating to \"Big Brother,\" newspeak, and surveillance:\n\n## Orwellowski j\u0119zyk polityczny w Polsce\n\nPrzymiotnik \u201eorwellowski\" okre\u015bla sytuacje, w kt\u00f3rych system zagra\u017ca wolno\u015bci jednostki b\u0105d\u017a ca\u0142ych spo\u0142ecze\u0144stw, szczeg\u00f3lnie w zakresie prywatno\u015bci. W kontek\u015bcie polskiej polityki, kilka kluczowych poj\u0119\u0107 orwellowskich znalaz\u0142o zastosowanie:\n\n### Nowomowa w polskiej polityce\n\nNowomowa \u2013 jako j\u0119zyk totalitarnej w\u0142adzy \u2013 jest podstawowym \u015brodkiem uprawianej przez ni\u0105 propagandy.(no content)Wielki Brat to by\u0142 Zwi\u0105zek Radziecki, nowomowa \u2013 j\u0119zyk, kt\u00f3rym pos\u0142ugiwa\u0142a si\u0119 PZPR - wspomina Jan Rulewski w kontek\u015bcie czas\u00f3w PRL.\n\nCelem nowomowy by\u0142o nie tylko dostarczenie \u015brodk\u00f3w odpowiednich do wyra\u017cania \u015bwiatopogl\u0105du oraz my\u015bli w\u0142a\u015bciwych dla zwolennik\u00f3w angsocu, lecz r\u00f3wnie\u017c uniemo\u017cliwienie swobody my\u015blenia. Zak\u0142adano, \u017ce z chwil\u0105 gdy nowomowa wejdzie ca\u0142kowicie do powszechnego u\u017cytku, a staromowa ulegnie zapomnieniu, jakakolwiek herezja my\u015blowa \u2013 czyli odej\u015bcie od zasad angsocu \u2013 stanie si\u0119 ca\u0142kowicie nierealna.\n\n### Inwigilacja i \"Wielki Brat\"\n\nWszechobecna inwigilacja, propaganda, cenzura i brutalne represje sta\u0142y si\u0119 narz\u0119dziami kontroli spo\u0142ecze\u0144stwa przez Parti\u0119 i jej przyw\u00f3dc\u0119 \u2013 Wielkiego Brata.(no content)Nazwa \u201eWielki Brat\" (Big Brother) sta\u0142a si\u0119 synonimem inwigilacji i dzi\u015b jest powszechnie u\u017cywana w kontek\u015bcie nadzoru \u2013 tak\u017ce technologicznego.\n\n### Wsp\u00f3\u0142czesne zastosowania\n\nZwroty takie jak \u201eWielki Brat patrzy\", czy \u201eWszystkie zwierz\u0119ta s\u0105 r\u00f3wne, ale niekt\u00f3re s\u0105 r\u00f3wniejsze\" oraz takie poj\u0119cia, jak \u201enowomowa\" (\u201enew-speak\"), \u201epolicja my\u015bli\" (\u201ethought police\"), \u201edw\u00f3jmy\u015blenie\" (\u201edoublethink\") i \u201emy\u015blozbrodnia\" (\u201ethoughtcrime\") s\u0105 u\u017cywane w potocznym j\u0119zyku.(no content)Najcz\u0119stszy argument to manipulacja j\u0119zykiem, u\u017cywanie go nie, po prostu, dla osi\u0105gni\u0119cia politycznych cel\u00f3w ale dla kszta\u0142towania \u015bwiadomo\u015bci ludzi, tak jak to robiono w powie\u015bci \u201eRok 1984\". Nawet krytycznie ustosunkowani do Orwella komentatorzy, gotowi s\u0105 zgodzi\u0107 si\u0119 z nim w tym, \u017ce j\u0119zyk wsp\u00f3\u0142czesnej polityki zachodniej i sfery \u201eoko\u0142opolitycznej\" w rzeczywisto\u015bci zaczyna coraz bardziej przypomina\u0107 \u201enowomow\u0119\".\n\nOrwellowskie poj\u0119cia pozostaj\u0105 aktualne w analizach wsp\u00f3\u0142czesnej polskiej polityki jako narz\u0119dzia do opisywania mechanizm\u00f3w manipulacji j\u0119zykiem i praktykami inwigilacji."
+    ],
+    "durationSeconds": 26.036785134000006
+  }
+}

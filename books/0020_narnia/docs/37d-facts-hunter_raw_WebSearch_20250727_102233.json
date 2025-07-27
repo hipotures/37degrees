@@ -1,0 +1,62 @@
+{
+  "session_id": "7ed04832-da4f-417c-b9bb-c372937eeaa9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7ed04832-da4f-417c-b9bb-c372937eeaa9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Narnia merchandising Disney toys board games collectibles theme park attractions commercial products licensing"
+  },
+  "tool_response": {
+    "query": "Narnia merchandising Disney toys board games collectibles theme park attractions commercial products licensing",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01VNJvvqaEVtqTdTSDPYvBfi",
+        "content": [
+          {
+            "title": "The Chronicles of Narnia | License Global",
+            "url": "https://www.licenseglobal.com/publishing/chronicles-narnia"
+          },
+          {
+            "title": "Disney Consumer Products licensee list - Narnia Fans",
+            "url": "https://narniafans.com/2005/05/disney-consumer-products-licensee-list/"
+          },
+          {
+            "title": "Legal Notices \u2013 Disney Store Guest Services",
+            "url": "https://support.disneystore.com/hc/en-us/articles/7347170254867-Legal-Notices"
+          },
+          {
+            "title": "Amazon.com: Disney Theme Park Merchandise",
+            "url": "https://www.amazon.com/disney-theme-park-merchandise/s?k=disney+theme+park+merchandise"
+          },
+          {
+            "title": "Chronicles Of Narnia Collectibles",
+            "url": "https://www.toynk.com/collections/chronicles-of-narnia"
+          },
+          {
+            "title": "Disney Parks Merchandise | Disney Store",
+            "url": "https://www.disneystore.com/parks/"
+          },
+          {
+            "title": "Narnia Marketing Partners - NarniaWeb | Netflix's Narnia Movies",
+            "url": "https://www.narniaweb.com/2005/05/narnia-marketing-partners/"
+          },
+          {
+            "title": "Narnia Toys",
+            "url": "https://www.tiktok.com/discover/narnia-toys"
+          },
+          {
+            "title": "Products - Disney Experiences",
+            "url": "https://disneyconnect.com/products/"
+          },
+          {
+            "title": "How to Get a License to Sell Disney Characters & Products",
+            "url": "https://smallbusiness.chron.com/license-sell-disney-characters-products-21576.html"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about Narnia merchandising and Disney's involvement with commercial products and licensing.\n\n## Disney's Narnia Merchandising and Licensing\n\nWalden Media and Walt Disney Pictures were granted the rights to bring \"The Chronicles of Narnia\" to life, creating significant merchandising opportunities. For Disney, this represented the beginning of a long-term franchise opportunity.\n\n### Commercial Product Strategy\n\nDisney treated Narnia \"as a long-term franchise, analogous to Lord of the Rings and Star Wars\". The Chronicles of Narnia was considered highly merchandisable with its host of characters and fantastical imagery, offering \"a rich world for merchandising\".\n\n### Licensed Product Categories\n\nDisney established extensive licensing partnerships across multiple product categories:\n\n**Toys and Games:**\n- Master Toy Licensee \u2013 Hasbro\n- Board Games \u2013 Hasbro Games  \n- Construction \u2013 Mega Bloks\n- Porcelain Doll \u2013 Brass Key\n- Role Play \u2013 Zizzle\n\n**Home Products:**\n- Ornaments \u2013 Hallmark\n- Bedding \u2013 WestPoint Stevens\n- Rugs \u2013 Gertnanian & Sons\n- Throws \u2013 Northwest\n- Beach Towels \u2013 Jay Franco\n\n**Collectibles:**\n- Collectibles Statues and Environments \u2013 WETA\n- Prop Replicas \u2013 Master Replicas\n- Jewelry Boxes, Book Lights, Snow globes, Banks, Frames \u2013 Colibri\n- Posters \u2013 Bruce McGaw\n\n**Consumer Goods:**\n- Turkish Delight \u2013 Imagination Confections\n- Kleenex Tissues \u2013 Kimberly Clark\n- Toothbrushes \u2013 Oral B\n\n### Market Demographics and Appeal\n\nWhile the books historically \"skewed more girls than boys,\" Disney expected the movie merchandise to \"skew more boys than girls,\" particularly toys, with a speculated 60-40 ratio. Disney also pointed to an older avid reader fan base and believed collectibles would be in the merchandise mix.\n\n### Trademark and Licensing Information\n\nThe Chronicles of Narnia trademarks, including \"NARNIA\" and all book titles, characters and locales, are owned by C.S. Lewis Pte Ltd. and used with permission.\n\n### Comprehensive Product Range\n\nThe merchandising extended to virtually every area of consumer life, including \"toothbrushes, Kleenex, beach towels, rugs, cake decorations, mousepads, checks, footwear or watches\".\n\nThis search reveals that Disney created an extensive merchandising ecosystem for Narnia, treating it as a major franchise with broad commercial appeal across toys, collectibles, home goods, and everyday consumer products through strategic licensing partnerships."
+    ],
+    "durationSeconds": 23.255238317000213
+  }
+}

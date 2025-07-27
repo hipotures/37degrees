@@ -1,0 +1,62 @@
+{
+  "session_id": "33f7964e-50c3-4a6f-a60c-a132c9281df9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/33f7964e-50c3-4a6f-a60c-a132c9281df9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Master and Margarita\" Bulgakov scholarly academic books peer-reviewed articles literary criticism 2020 2021 2022 2023 2024"
+  },
+  "tool_response": {
+    "query": "\"Master and Margarita\" Bulgakov scholarly academic books peer-reviewed articles literary criticism 2020 2021 2022 2023 2024",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01BwAnGNjwXqng7UmEF5agY7",
+        "content": [
+          {
+            "title": "Analysis of Mikhail Bulgakov\u2019s The Master and Margarita \u2013 Literary Theory and Criticism",
+            "url": "https://literariness.org/2023/08/01/analysis-of-mikhail-bulgakovs-the-master-and-margarita/"
+          },
+          {
+            "title": "AN APPROACH TO BULGAKOV'S THE MASTER AND MARGARITA | Forum for Modern Language Studies | Oxford Academic",
+            "url": "https://academic.oup.com/fmls/article-abstract/VII/2/134/540002"
+          },
+          {
+            "title": "The Master and Margarita - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Master_and_Margarita"
+          },
+          {
+            "title": "(PDF) Reading The Master and Margarita by Mikhail Bulgakov as Fantastic Literature",
+            "url": "https://www.researchgate.net/publication/382320665_Reading_The_Master_and_Margarita_by_Mikhail_Bulgakov_as_Fantastic_Literature"
+          },
+          {
+            "title": "Book Review: The Master and Margarita (1940/1967) by Mikhail Bulgakov \u2013 Literary Potpourri",
+            "url": "https://potpourri2015.wordpress.com/2024/06/25/book-review-the-master-and-margarita-1940-1967-by-mikhail-bulgakov/"
+          },
+          {
+            "title": "A Review of Bulgakov's 'Master and Margarita'",
+            "url": "https://thesciencesurvey.com/arts-entertainment/2022/03/16/an-ever-relevant-mockery-of-authoritarian-power-a-review-of-bulgakovs-master-and-margarita/"
+          },
+          {
+            "title": "Embodying the Archive: An Analysis of Mikhail Bulgakov\u2019s The Master and Margarita",
+            "url": "https://eurasiatique.ca/2022/04/04/embodying-the-archive-an-analysis-of-mikhail-bulgakovs-the-master-and-margarita/"
+          },
+          {
+            "title": "Mikhail Bulgakov \u2013 The Master and Margarita",
+            "url": "https://couchmagpie.com/2024/10/07/mikhail-bulgakov-the-master-and-margarita/"
+          },
+          {
+            "title": "Why a New Adaptation of The Master and Margarita is Setting Russian Society Aflame \u2039 Literary Hub",
+            "url": "https://lithub.com/why-a-new-adaptation-of-the-master-and-margarita-is-setting-russian-society-aflame/"
+          },
+          {
+            "title": "Mikhail Bulgakov (Author of The Master and Margarita)",
+            "url": "https://www.goodreads.com/author/show/3873.Mikhail_Bulgakov"
+          }
+        ]
+      },
+      "Based on the search results, I found several recent scholarly and academic sources on Bulgakov's \"The Master and Margarita\" from 2020-2024. Here are the key findings:\n\n## Academic and Scholarly Publications (2020-2024)\n\nRecent scholarly work includes a peer-reviewed analysis titled \"Reading The Master and Margarita by Mikhail Bulgakov as Fantastic Literature\" published in 2022, which examines the novel through the lens of fantasy theory and demonstrates how it functions within the fantastic canon.\n\nThis study applies Rosemary Jackson's fantasy theory to Bulgakov's work, adapting it for the Soviet-Communist context and suggesting ways that fantastic theory can shift away from Anglocentric perspectives.\n\nAnother significant academic work is \"Embodying the Archive: An Analysis of Mikhail Bulgakov's The Master and Margarita\" (2022), which examines Bulgakov's use of literary satire, his interactions with censorship, and connects literary themes to his life in the Soviet Union.\n\n## Contemporary Critical Analysis\n\nLiterary Theory and Criticism published an analysis in August 2023 examining how Bulgakov wrote the novel \"between 1928 and early 1940 in a time when the official ideology of the Soviet state was based on militant atheism,\" noting that it was \"first published long after the author's death, between 1966 and 1967, yet in a highly censored form\".\n\nA 2022 review emphasizes the novel's contemporary relevance, stating that \"In a time of rampant disinformation, fake news, and propaganda, Bulgakov's novel represents what it means to be truthful and creative in the looming shadow of authoritarianism\" and that \"There has never been a more relevant time to read The Master and Margarita\".\n\n## Recent Cultural Impact and Adaptations\n\nA new film adaptation directed by Michael Lockshin was released in January 2024, which \"surged to the top of Russia's domestic box office\" but \"raised the ire of pro-Kremlin bloggers.\" The world premiere outside Russia was held at Yale University on March 6, 2024.\n\nThe contemporary relevance is highlighted by the fact that \"in Putin's Russia, going to see Lockshin's adaptation has become a brave act of revolt\" and \"The Master and Margarita is a powerful story (re)told at a critical time\".\n\nThe search reveals continued scholarly interest in the novel, with recent academic publications examining it through various theoretical frameworks including fantastic literature theory, archival studies, and contemporary political relevance. The work remains highly relevant for literary criticism in the 2020-2024 period."
+    ],
+    "durationSeconds": 23.341465460999867
+  }
+}

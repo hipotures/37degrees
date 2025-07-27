@@ -1,0 +1,62 @@
+{
+  "session_id": "33f7964e-50c3-4a6f-a60c-a132c9281df9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/33f7964e-50c3-4a6f-a60c-a132c9281df9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Bulgakov \"Master and Margarita\" Polish academic sources translation studies \"Mistrz i Ma\u0142gorzata\" Polish literary criticism"
+  },
+  "tool_response": {
+    "query": "Bulgakov \"Master and Margarita\" Polish academic sources translation studies \"Mistrz i Ma\u0142gorzata\" Polish literary criticism",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01D8bdAgsgoU694CmojZp4MT",
+        "content": [
+          {
+            "title": "The Master and Margarita - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Master_and_Margarita"
+          },
+          {
+            "title": "Between Polish and English Translations of The Master and Margarita",
+            "url": "https://ruj.uj.edu.pl//handle/item/237828"
+          },
+          {
+            "title": "Translation Criticism in Cyberspace \u2013 New Opportunities and Challenges (on Polish Translations of Mikhail Bulgakov\u2019s The Master and Margarita)",
+            "url": "https://www.ejournals.eu/Przekladaniec/2023/Special-Issue-Translation-Criticism-and-Its-Vicinity/art/24034/"
+          },
+          {
+            "title": "Polish literature SL (group 1) - reflective statement Mistrz i Ma\u0142gorzata (Master and Margarita) - Languages A - IB Survival",
+            "url": "https://ibsurvival.com/files/file/2904-polish-literature-sl-group-1-reflective-statement-mistrz-i-ma%C5%82gorzata-master-and-margarita/"
+          },
+          {
+            "title": "The Master and Margarita (1988 TV series) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Master_and_Margarita_(1988_TV_series)"
+          },
+          {
+            "title": "STYLISTYKA POWIE\u015aCI MICHAI\u0141A BU\u0141HAKOWA MISTRZ I MA\u0141GORZATA",
+            "url": "https://journals.us.edu.pl/index.php/PR/article/view/8628"
+          },
+          {
+            "title": "The Master and Margarita by Mikhail Bulgakov - The 34th greatest book of all time",
+            "url": "https://thegreatestbooks.org/books/1409"
+          },
+          {
+            "title": "The Master and Margarita - News - February 21, 2012",
+            "url": "https://www.masterandmargarita.eu/en/00start/nieuws/120221dinner.html"
+          },
+          {
+            "title": "Editions of The Master and Margarita by Mikhail Bulgakov",
+            "url": "https://www.goodreads.com/work/editions/876183"
+          },
+          {
+            "title": "The Master and Margarita - Maciej Wojtyszko - 1990",
+            "url": "https://m.masterandmargarita.eu/en/05media/filmwojtyszko.html"
+          }
+        ]
+      },
+      "I found several valuable Polish academic sources and research on Bulgakov's \"The Master and Margarita\" (Polish: \"Mistrz i Ma\u0142gorzata\") in translation studies and literary criticism. Here are the key findings:\n\n## Academic Sources and Research\n\nA scholarly work from the Jagiellonian University analyzes English and Polish translations of Mikhail Bulgakov's novel The Master and Margarita based on A. Berman's set of translatorial deformations. The main aspects discussed include foreignizing and naturalizing tendencies, stylistic amendments, clarification, differences stemming from source text editions, the form and the purpose of footnotes, translations of culturally-specific items and the melodiousness of the language.(no content)The journal \"Przek\u0142adaniec\" published research on translation criticism in cyberspace, noting that digitization and competition between publishing houses has led to \"synchronic explosion\" of parallel texts, with the newest retranslations of Mikhail Bulgakov's The Master and Margarita being one of the most interesting examples. In recent years, new Polish versions of this novel have been published at a dizzying pace (five new translations between 2015 and 2018).\n\n## Key Polish Academic Publications\n\nThe search revealed several Polish academic publications and researchers:\n\nMocarz-Kleindienst, Maria. 2018. \"Dlaczego powstaj\u0105 nowe przek\u0142ady? Mistrz i Ma\u0142gorzata Michai\u0142a Bu\u0142hakowa w nowym t\u0142umaczeniu na j\u0119zyk polski\", Przek\u0142ady Literatur S\u0142owia\u0144skich vol. 9, part 1, pp. 267\u2013281.(no content)Przebinda, Grzegorz. 2019. \"Mogarycz i inni. Dramatyczne losy kanonu tekstowego Mistrza i Ma\u0142gorzaty\", Przegl\u0105d Rusycystyczny 3(167), pp. 36\u201390.(no content)The same author also published: \"Sto dwadzie\u015bcia jedna Ma\u0142gorzata\". O tek\u015bcie pierwszego polskiego przek\u0142adu Mistrza i Ma\u0142gorzaty\", Przegl\u0105d Rusycystyczny 2(158), pp. 54\u201379.(no content)Sadowska, Monika. 2018. \"Elementy trzeciej kultury w przek\u0142adach polskich wersji Mistrza i Ma\u0142gorzaty Michai\u0142a Bu\u0142hakowa\", Acta Polono-Ruthenica XXIII/3, pp. 141\u2013155.\n\n## Stylistic Analysis\n\nPolish academic research on the stylistics of Bulgakov's novel indicates that while the literary style is often referred to as satire, parody and grotesque, the novel cannot be called a comic one, since its ideological essence belongs to tragedy. The style takes on a triple model, which is subject to speech style of the characters and narrative.\n\nThe search reveals a rich body of Polish academic work on Bulgakov's masterpiece, particularly focusing on translation studies, comparative analysis of different Polish versions, and stylistic analysis within Polish literary criticism."
+    ],
+    "durationSeconds": 25.864437812000048
+  }
+}

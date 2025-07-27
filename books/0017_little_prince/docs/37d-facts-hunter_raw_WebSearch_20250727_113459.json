@@ -1,0 +1,62 @@
+{
+  "session_id": "f420e2ea-43ea-499f-a68a-b8dea67fad50",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/f420e2ea-43ea-499f-a68a-b8dea67fad50.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Antoine de Saint-Exup\u00e9ry biography wartime exile New York 1942 writing Little Prince biographical sources"
+  },
+  "tool_response": {
+    "query": "Antoine de Saint-Exup\u00e9ry biography wartime exile New York 1942 writing Little Prince biographical sources",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01UL53vSbPTJJNwSEktrW27x",
+        "content": [
+          {
+            "title": "Antoine de Saint-Exup\u00e9ry - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry"
+          },
+          {
+            "title": "Antoine de Saint-Exup\u00e9ry | French Aviator, Author & Poet | Britannica",
+            "url": "https://www.britannica.com/biography/Antoine-de-Saint-Exupery"
+          },
+          {
+            "title": "The Little Prince's Last Flight: The Story of Antoine de Saint-Exup\u00e9ry | The National WWII Museum | New Orleans",
+            "url": "https://www.nationalww2museum.org/war/articles/the-little-prince-antoine-de-saint-exupery"
+          },
+          {
+            "title": "The Little Prince - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Little_Prince"
+          },
+          {
+            "title": "Antoine de Saint-Exup\u00e9ry - Quotes, The Little Prince & Books",
+            "url": "https://www.biography.com/authors-writers/antoine-de-saint-exupery"
+          },
+          {
+            "title": "The Grown-Up Saint-Exup\u00e9ry | National Endowment for the Humanities",
+            "url": "https://www.neh.gov/humanities/2016/januaryfebruary/feature/the-grown-saint-exup%C3%A9ry"
+          },
+          {
+            "title": "Antoine de Saint-Exup\u00e9ry | Northport-East Northport Public Library",
+            "url": "https://www.nenpl.org/research-learning/local-history/antoine-de-saint-exupery"
+          },
+          {
+            "title": "Saint\u2013Exup\u00e9ry, Antoine de | Encyclopedia.com",
+            "url": "https://www.encyclopedia.com/arts/encyclopedias-almanacs-transcripts-and-maps/saint-exupery-antoine-de"
+          },
+          {
+            "title": "The Little Prince: Antoine de Saint-Exup\u00e9ry and The Little Prince Background | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/littleprince/context/"
+          },
+          {
+            "title": "The Little Prince | The work of Antoine de Saint Exup\u00e9ry",
+            "url": "https://www.lepetitprince.com/en/the-book/"
+          }
+        ]
+      },
+      "Based on the web search results, I can provide comprehensive information about Antoine de Saint-Exup\u00e9ry's biography, his wartime exile in New York in 1942, and the writing of *The Little Prince*, along with relevant biographical sources.\n\n## Antoine de Saint-Exup\u00e9ry's Wartime Exile and Writing of *The Little Prince*\n\nAfter the collapse of France, he fled to the United States, spending the next couple of years there and in Canada advocating for the liberation of his country from German occupation and also denouncing the Vichy French rump state that collaborated with the Nazis.(no content)It was during his time in the United States that Saint-Exup\u00e9ry wrote The Little Prince, which was published there in 1943.\n\n### The 1942 New York Period\n\nSaint-Exup\u00e9ry wrote and illustrated The Little Prince in New York City and the village of Asharoken in mid-to-late 1942, with the manuscript being completed in October.(no content)Although greeted warmly by French-speaking Americans and by fellow expatriates who had preceded him in New York, his 27-month stay would be marred by health problems and racked with periods of severe stress and marital strife.(no content)Between January 1941 and April 1943, the Saint-Exup\u00e9rys lived in two penthouse apartments on Central Park South, then, at the Delamater-Bevin Mansion in Asharoken, Long Island, where The book was written during the fall and winter of 1942 in the twenty-two-room Bevin House built by industrialist Cornelius DeLamater.\n\n### Inspiration for *The Little Prince*\n\nAfter he returned from his stay in Qu\u00e9bec, which had been fraught with illness and stress, the wife of one of his publishers helped persuade Saint-Exup\u00e9ry to produce a children's book, hoping to calm his nerves and In the spring of 1942, his French publisher encouraged him to think about writing a children's book, something that could compete with P. L. Travers's Mary Poppins series.\n\nThe character of the little prince was inspired by a precocious eight-year-old with curly blond hair while he was residing with a family in Quebec City in 1942, Thomas De Koninck, the son of philosopher Charles De Koninck.(no content)The Saint-Exup\u00e9rys also resided in Quebec City, Canada for several weeks during the late spring of 1942. During their time in Quebec City, the family lived with the philosopher Charles De Koninck and his family, including his \"precocious\" 8-year-old son, Thomas.\n\n### Writing Process and Publication\n\nHe wrote and illustrated the manuscript during the summer and fall of 1942.(no content)The Little Prince was published in the United States in English and French in early 1943.(no content)However, the period was to be both a \"dark but productive time\" during which he created three important works.\n\n## Key Biographical Sources\n\nThe search results reveal several important biographical sources:\n\n### Major Biographies\n- Saint-Exup\u00e9ry: A Biography (1994) by Stacy Schiff\n- Antoine de Saint-Exup\u00e9ry: His Life and Times (1970) by Curtis Cate\n- Saint-Exup\u00e9ry: A Biography. New York: Knopf, 1994 by Stacy Schiff\n\n### Contemporary Accounts\n- After his disappearance, Consuelo de Saint-Exup\u00e9ry wrote The Tale of the Rose, which was published in 2000 and subsequently translated into 16 languages.\n- Wartime Writings, 1939-1944 by Antoine de Saint-Exup\u00e9ry.\n\n### Academic Recognition\nStacy Schiff, one of Saint-Exup\u00e9ry's principal biographers, wrote of him and his most famous work, \"rarely have an author and a character been so intimately bound together as Antoine de Saint-Exup\u00e9ry and his Little Prince\", demonstrating the close connection between the author's life experiences and his literary work during this crucial period of wartime exile."
+    ],
+    "durationSeconds": 31.63182504799997
+  }
+}

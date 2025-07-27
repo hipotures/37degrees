@@ -1,0 +1,63 @@
+{
+  "session_id": "33f7964e-50c3-4a6f-a60c-a132c9281df9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/33f7964e-50c3-4a6f-a60c-a132c9281df9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Master and Margarita\" Soviet dissident literature anti-authoritarian samizdat underground"
+  },
+  "tool_response": {
+    "query": "\"Master and Margarita\" Soviet dissident literature anti-authoritarian samizdat underground",
+    "results": [
+      "I'll search for information about \"The Master and Margarita\" in the context of Soviet dissident literature and underground publishing.",
+      {
+        "tool_use_id": "srvtoolu_013kv6x2UHm1weFY4RWpwRbN",
+        "content": [
+          {
+            "title": "The Master and Margarita - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Master_and_Margarita"
+          },
+          {
+            "title": "An Ever-Relevant Mockery of Authoritarian Power: A Review of Bulgakov\u2019s \u2018Master and Margarita\u2019",
+            "url": "https://thesciencesurvey.com/arts-entertainment/2022/03/16/an-ever-relevant-mockery-of-authoritarian-power-a-review-of-bulgakovs-master-and-margarita/"
+          },
+          {
+            "title": "Mikhail Bulgakov, Master and Margarita, and Truth in the USSR.",
+            "url": "https://museumstudiesabroad.org/bulgakov-master-margarita-ussr/"
+          },
+          {
+            "title": "The case of Master and Margarita in Samizdat, and the existence of an extra-Gutenberg culture in the Soviet Union | Global Histories: A Student Journal",
+            "url": "https://www.globalhistories.com/index.php/GHSJ/article/view/331"
+          },
+          {
+            "title": "\u201cSamizdat\u201d \u2013 A Dissident Publication Practice From The Soviet Union | Mythdetector.com",
+            "url": "https://mythdetector.com/en/samizdat-a-dissident-publication-practice-from-the-soviet-union/"
+          },
+          {
+            "title": "(PDF) The case of Master and Margarita in Samizdat, and the existence of an extra-Gutenberg culture in the Soviet Union | Julia Boechat Machado - Academia.edu",
+            "url": "https://www.academia.edu/100228141/The_case_of_Master_and_Margarita_in_Samizdat_and_the_existence_of_an_extra_Gutenberg_culture_in_the_Soviet_Union"
+          },
+          {
+            "title": "The Master and Margarita: Deconstructing Social Realism - Arts and culture",
+            "url": "http://arts.brighton.ac.uk/projects/brightonline/issue-number-three/the-master-and-margarita-deconstructing-social-realism"
+          },
+          {
+            "title": "The Master and Margarita - Publishing in samizdat",
+            "url": "https://www.masterandmargarita.eu/en/09context/samizdat.html"
+          },
+          {
+            "title": "How Stalin Toyed With Mikhail Bulgakov",
+            "url": "https://reason.com/2022/08/20/the-master-and-margarita/"
+          },
+          {
+            "title": "Samizdat - New World Encyclopedia",
+            "url": "https://www.newworldencyclopedia.org/entry/Samizdat"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about \"The Master and Margarita\" in the context of Soviet dissident literature, anti-authoritarian themes, and samizdat underground publishing.\n\n## The Master and Margarita as Dissident Literature\n\nMikhail Bulgakov wrote \"The Master and Margarita\" between 1928 and 1940 in the Soviet Union, and a censored version was published posthumously in Moscow magazine in 1966\u20131967 by his widow Elena Bulgakova.(no content)The novel was written during some of the most severe years of Soviet censorship, when authors and poets were prohibited from transcending propaganda and recognizing societal flaws at threat of death or imprisonment.\n\n## Anti-Authoritarian Themes\n\nThe novel serves as an allegory for the USSR under Stalin's cult of personality, with Bulgakov delivering \"semi-disguised, shattering critiques of Stalin's regime through the antics, gaslighting, and mockery\" carried out by Woland (the devil) and his assistants.(no content)Bulgakov found methods of conveying searing political commentary through allegory, subtlety, and myth, filling the novel with satire and subtle digs while using comedy and creativity to communicate a deeply earnest moral about the role of personal cowardice in Soviet corruption.\n\n## Samizdat Underground Publishing\n\nA samizdat version circulated that included parts cut out by official censors, and these were incorporated in a 1969 version published in Frankfurt.(no content)Although a samizdat version of the manuscript had been circulating for a while, the book was only officially published in its uncensored form in 1973.(no content)Even when the full novel finally appeared in 1973, Russian readers were more likely to encounter a samizdat edition than the hard-to-find official printing.(no content)The novel is specifically mentioned among books shared by the samizdat practice, alongside works like \"The Gulag Archipelago\" by Aleksandr Solzhenitsyn.\n\n## Censorship and Underground Circulation\n\nWhen the novel was published, censors cut not parts that showed an ideology opposite to Soviet ideas of religion, but references to the housing crisis and nudity. When the novel started circulating as samizdat with the censored parts taped to it, it made a mockery of the official institutions, showing the unreliability of its publication system and the existence of censorship.(no content)A manuscript was smuggled out of the Soviet Union to Paris, where the YMCA Press, celebrated for publishing the banned work of Aleksandr Solzhenitsyn, published the first book edition in 1967.\n\n## Cultural Impact and Resistance\n\nParadoxically, the censorship freed Bulgakov to make The Master and Margarita as subversive as possible: Once he realized the book was unlikely to appear in his lifetime, he poured ideas into it that he could never say publicly. And eventually it found an enormous audience.\n\nThe novel represents a significant example of how Soviet writers used literary techniques to resist authoritarian control and how underground publishing networks preserved and disseminated works that challenged the official narrative of the Soviet state."
+    ],
+    "durationSeconds": 26.263444439000452
+  }
+}

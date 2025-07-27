@@ -1,0 +1,21 @@
+{
+  "session_id": "10d774b1-cbee-4596-b9de-70bcda5cd9e0",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/10d774b1-cbee-4596-b9de-70bcda5cd9e0.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "m\u0142odzi Polacy 2024 2025 \"Rok 1984\" Orwell TikTok BookTok opinie recenzje media spo\u0142eczno\u015bciowe"
+  },
+  "tool_response": {
+    "query": "m\u0142odzi Polacy 2024 2025 \"Rok 1984\" Orwell TikTok BookTok opinie recenzje media spo\u0142eczno\u015bciowe",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_012JZpPRFwNcgQtpzRJL269H",
+        "content": []
+      },
+      "I performed a web search using your exact query about young Poles, \"1984\" by Orwell, TikTok, BookTok, opinions, reviews, and social media in 2024-2025. However, the search didn't return any specific results for this particular topic.\n\nThis could be because:\n- The specific combination of terms may be too narrow to find exact matches\n- The content might be in Polish and not indexed in the search results\n- This particular trend or discussion might be very recent or localized\n\nWould you like me to try a different search approach, perhaps with a more focused query about one aspect of this topic (like \"Rok 1984 BookTok\" or \"Orwell TikTok Polska\")?"
+    ],
+    "durationSeconds": 8.854438781999983
+  }
+}

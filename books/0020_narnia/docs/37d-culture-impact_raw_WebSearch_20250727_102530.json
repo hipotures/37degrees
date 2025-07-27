@@ -1,0 +1,63 @@
+{
+  "session_id": "7ed04832-da4f-417c-b9bb-c372937eeaa9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7ed04832-da4f-417c-b9bb-c372937eeaa9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Narnia adaptations\" Disney film \"behind the scenes\" BBC \"casting\" filming locations fascinating facts"
+  },
+  "tool_response": {
+    "query": "\"Narnia adaptations\" Disney film \"behind the scenes\" BBC \"casting\" filming locations fascinating facts",
+    "results": [
+      "I'll search for information about Narnia adaptations, focusing on Disney films, behind-the-scenes content, BBC productions, casting, filming locations, and fascinating facts.",
+      {
+        "tool_use_id": "srvtoolu_01UgcUn3DHVuMsbeGhG4tUzz",
+        "content": [
+          {
+            "title": "Adaptations of The Chronicles of Narnia - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Adaptations_of_The_Chronicles_of_Narnia"
+          },
+          {
+            "title": "The Everlasting Charm of BBC's The Chronicles of Narnia - Filmotomy",
+            "url": "https://filmotomy.com/the-everlasting-charm-of-bbcs-the-chronicles-of-narnia/"
+          },
+          {
+            "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Chronicles_of_Narnia:_The_Lion,_the_Witch_and_the_Wardrobe"
+          },
+          {
+            "title": "The Chronicles of Narnia (film series) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Chronicles_of_Narnia_(film_series)"
+          },
+          {
+            "title": "20 Amazing Details Behind Making Of The Chronicles Of Narnia Movies",
+            "url": "https://screenrant.com/chronicles-narnia-movies-behind-scenes-making-details-trivia/"
+          },
+          {
+            "title": "Chronicles Of Narnia: 10 Behind-The-Scenes Facts About The Cast You Didn't Know",
+            "url": "https://screenrant.com/chronicles-of-narnia-behind-the-scenes-facts-moments/"
+          },
+          {
+            "title": "How to Watch the Narnia Movies in Order",
+            "url": "https://www.cbr.com/watch-narnia-movies-in-order/"
+          },
+          {
+            "title": "Narnia on Film - How Narnia Works | HowStuffWorks",
+            "url": "https://entertainment.howstuffworks.com/narnia4.htm"
+          },
+          {
+            "title": "The Correct Way to Watch BBC's Narnia TV Series | Talking Beasts - NarniaWeb | Netflix's Narnia Movies",
+            "url": "https://www.narniaweb.com/2019/10/the-correct-way-to-watch-bbcs-narnia-tv-series-talking-beasts/"
+          },
+          {
+            "title": "The Chronicles of Narnia: Prince Caspian - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Chronicles_of_Narnia:_Prince_Caspian"
+          }
+        ]
+      },
+      "Based on my search results, I found extensive information about Narnia adaptations, including fascinating behind-the-scenes details about both Disney films and BBC productions. Here's what I discovered:\n\n## Disney Film Adaptations\n\nThe first film was an adaptation of The Lion, the Witch and the Wardrobe, entitled The Chronicles of Narnia: The Lion, the Witch and the Wardrobe, produced by Walden Media and Walt Disney Pictures, and released in December 2005. It was directed by Andrew Adamson, with a screenplay by Ann Peacock.\n\n### Filming Locations\nPrincipal photography for the film took place in Poland, the Czech Republic and New Zealand.(no content)It was filmed almost entirely in New Zealand -- shots of real snow for the Lantern Waste were filmed in the Czech Republic.\n\n### Behind-the-Scenes Fascinating Facts\n\n**Visual Effects Challenges:** There are 60 distinct races and cultures in the film, and more than half of the characters are either partially or completely computer generated. Aslan is entirely computer animated, for example, and the centaurs are human actors combined with computer-generated horse bodies. This is why three large animation studios -- Rhythm & Hues, Industrial Light & Magic and Sony Imageworks -- have had to work together to complete the movie.\n\n**Casting and Production Details:**\n- William Moseley, Anna Popplewell, Skandar Keynes, and Georgie Henley play Peter, Susan, Edmund, and Lucy Pevensie, four British children evacuated during the Blitz to the countryside\n- Finding one talented child actor is tough, but finding four? Now that's really having your work cut out for you \u2013 as the filmmakers found out during casting for The Lion, the Witch and the Wardrobe.\n\n**Interesting Production Facts:**\n- During the filming of the movie, the actor [Skandar Keynes] grew over fifteen centimeters. His voice also matured, which meant that the producers weren't able to use his voice. Instead, they had to bring his younger sibling who provided his voice.\n- The actors were initially forced to engage with an inanimate bust of Aslan's head when filming scenes with him. When it came time for the cameras to roll on Prince Caspian, director Andrew Adamson quickly realized this wouldn't work, considering how involved Aslan's interactions with Georgie Henley's Lucy were going to be \u2013 so stuntman Shane Rangi stepped in to don Aslan's mane on set.\n\n## BBC Adaptations\n\nIn 1988, the BBC released three miniseries that covered the span of four of the Narnia books. Of these, The Lion, The Witch, and The Wardrobe, Prince Caspian, The Voyage of the Dawn Treader, and The Silver Chair were all made into television miniseries.\n\n### BBC Production Details\nIt's true that the technology was not today's, but I liked it that the series was filmed in the UK, which I think is the proper location.(no content)The casting of the Pevensie children is inspired and spot-on, especially that of Sophie Wilcox as Lucy, in a sense conscience personified in the first part of the series. The sets are like something out of Santa's workshop, crafted in minute details, as are all costumes and other designs.\n\n### Notable BBC Casting\nA huge fan-favorite character in The Silver Chair is also played by one of the original Dr. Who doctors, Tom Baker, who plays a wonderfully melancholic Puddleglum.\n\n## Commercial Success and Legacy\n\nThe Disney films were major commercial successes: Worldwide, Narnia earned $745 million marking it the 55th-highest-grossing film of all time worldwide. It is the third-largest movie worldwide among those released in 2005 and it remains the highest-grossing movie of the Narnia franchise worldwide\n\n## Future Adaptations\n\nIn July 2023, it was announced that Greta Gerwig had been hired to write and direct at least two Narnia films for Netflix. Gerwig's adaptation will release exclusively in IMAX theaters on Thanksgiving Day in 2026, before premiering on Netflix in December 2026.\n\nThe contrast between the BBC's more intimate, UK-based production and Disney's high-budget, effects-heavy approach offers fascinating insights into different ways of adapting beloved source material for different audiences and eras."
+    ],
+    "durationSeconds": 35.87879123899992
+  }
+}

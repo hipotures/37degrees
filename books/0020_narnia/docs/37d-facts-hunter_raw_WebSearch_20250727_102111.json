@@ -1,0 +1,201 @@
+{
+  "session_id": "7ed04832-da4f-417c-b9bb-c372937eeaa9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7ed04832-da4f-417c-b9bb-c372937eeaa9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Chronicles of Narnia\" fanfiction AO3 statistics number of works Edmund Pevensie Caspian popular pairings"
+  },
+  "tool_response": {
+    "query": "\"Chronicles of Narnia\" fanfiction AO3 statistics number of works Edmund Pevensie Caspian popular pairings",
+    "results": [
+      "I'll search for information about Chronicles of Narnia fanfiction statistics on AO3, focusing on Edmund Pevensie, Caspian, and popular pairings.",
+      {
+        "tool_use_id": "srvtoolu_011Ry3Va3mACV25Kcmid4gLP",
+        "content": [
+          {
+            "title": "Chronicles of Narnia FanFiction Archive | FanFiction",
+            "url": "https://www.fanfiction.net/book/Chronicles-of-Narnia/"
+          },
+          {
+            "title": "Harry Potter and Chronicles of Narnia Crossover | FanFiction",
+            "url": "https://www.fanfiction.net/Harry-Potter-and-Chronicles-of-Narnia-Crossovers/224/1043/"
+          },
+          {
+            "title": "Hurt Edmund Pevensie - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Hurt%20Edmund%20Pevensie/works"
+          },
+          {
+            "title": "Chronicles of Narnia Communities | FanFiction",
+            "url": "https://m.fanfiction.net/communities/book/Chronicles-of-Narnia/"
+          },
+          {
+            "title": "Caspian (Narnia) - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Caspian (Narnia)/works"
+          },
+          {
+            "title": "epic_recs, posts by tag: fandom: chronicles of narnia - LiveJournal \u2014 LiveJournal",
+            "url": "https://epic-recs.livejournal.com/tag/fandom: chronicles of narnia"
+          },
+          {
+            "title": "Angelina's Fanfiction Recs : Chronicles of Narnia Recs",
+            "url": "https://angelinarecs.tumblr.com/chroniclesofnarnia"
+          },
+          {
+            "title": "Edmund Stories - Wattpad",
+            "url": "https://www.wattpad.com/stories/edmund"
+          },
+          {
+            "title": "Peter Pevensie - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Peter%20Pevensie/works"
+          },
+          {
+            "title": "Edmund-centred Faves! | FanFiction",
+            "url": "https://www.fanfiction.net/community/Edmund-centred-Faves/83819/"
+          }
+        ]
+      },
+      "Let me search more specifically for AO3 statistics about Chronicles of Narnia fanfiction:",
+      {
+        "tool_use_id": "srvtoolu_015PvgHd7wuG3a6oZQeLAYYy",
+        "content": [
+          {
+            "title": "National Service - burntcopper - Chronicles of Narnia (Movies), Chronicles of Narnia - C. S. Lewis, Good Omens - Neil Gaiman & Terry Pratchett, Torchwood [Archive of Our Own]",
+            "url": "https://archiveofourown.org/series/8533"
+          },
+          {
+            "title": "Chronicles of Narnia FanFiction Archive | FanFiction",
+            "url": "https://www.fanfiction.net/book/Chronicles-of-Narnia/"
+          },
+          {
+            "title": "Statistics FAQ | Archive of Our Own",
+            "url": "https://archiveofourown.org/faq/statistics?language_id=en"
+          },
+          {
+            "title": "Aslan & Lucy Pevensie - Works | Archive of Our Own",
+            "url": "https://www.archiveofourown.org/tags/Aslan *a* Lucy Pevensie/works"
+          },
+          {
+            "title": "Chronicles of Narnia - C. S. Lewis - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Chronicles of Narnia - C*d* S*d* Lewis/works"
+          },
+          {
+            "title": "Mr. Pevensie (Narnia) - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Mr*d*%20Pevensie%20(Narnia)/works"
+          },
+          {
+            "title": "Archive of Our Own - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Archive_of_Our_Own"
+          },
+          {
+            "title": "Latest Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/works/"
+          },
+          {
+            "title": "Search Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/works/search"
+          },
+          {
+            "title": "Home | Archive of Our Own",
+            "url": "https://archiveofourown.org/"
+          }
+        ]
+      },
+      "Let me search more specifically for Edmund/Caspian pairing statistics on AO3:",
+      {
+        "tool_use_id": "srvtoolu_01L1CHgCSHjCkTwFkkKzfYZy",
+        "content": [
+          {
+            "title": "Caspian/Edmund Pevensie - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Caspian*s*Edmund%20Pevensie/works"
+          },
+          {
+            "title": "Edmund Pevensie - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Edmund%20Pevensie/works"
+          },
+          {
+            "title": "Edmund Pevensie/Original Character(s) - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Edmund Pevensie*s*Original Character(s)/works"
+          },
+          {
+            "title": "The Royal Narnian Ship Edmund/Caspian \u2014 LiveJournal",
+            "url": "https://edmund-caspian.livejournal.com/"
+          },
+          {
+            "title": "Edmund Pevensie/Peter Pevensie - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Edmund Pevensie*s*Peter Pevensie/works"
+          },
+          {
+            "title": "Edmund Pevensie & Lucy Pevensie - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Edmund%20Pevensie%20*a*%20Lucy%20Pevensie/works"
+          },
+          {
+            "title": "Edmund Pevensie-centric - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Edmund%20Pevensie-centric/works"
+          },
+          {
+            "title": "Caspian & Peter Pevensie - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Caspian%20*a*%20Peter%20Pevensie/works"
+          },
+          {
+            "title": "Caspian/Edmund Pevensie/Peter Pevensie | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Caspian*s*Edmund%20Pevensie*s*Peter%20Pevensie"
+          },
+          {
+            "title": "Edmund Pevensie - skandarsprincess - Wattpad",
+            "url": "https://www.wattpad.com/list/961259916-edmund-pevensie"
+          }
+        ]
+      },
+      "Let me search for more specific Chronicles of Narnia AO3 statistics and total works count:",
+      {
+        "tool_use_id": "srvtoolu_01W7x5FfheALm7Yrs8RFqgXV",
+        "content": [
+          {
+            "title": "Chronicles of Narnia FanFiction Archive | FanFiction",
+            "url": "https://www.fanfiction.net/book/Chronicles-of-Narnia/"
+          },
+          {
+            "title": "H Max Marius | FanFiction",
+            "url": "https://www.fanfiction.net/u/1048123/H-Max-Marius"
+          },
+          {
+            "title": "The Chronicles of Narnia Book Series Statistics \u2013 WordsRated",
+            "url": "https://wordsrated.com/the-chronicles-of-narnia-book-series-statistics/"
+          },
+          {
+            "title": "FanficRecs / The Chronicles of Narnia - TV Tropes",
+            "url": "https://tvtropes.org/pmwiki/pmwiki.php/FanficRecs/TheChroniclesOfNarnia"
+          },
+          {
+            "title": "Narnia Fanfiction - snowember2120 - Wattpad",
+            "url": "https://www.wattpad.com/list/204214206-narnia-fanfiction"
+          },
+          {
+            "title": "Chronicles of Narnia - C. S. Lewis - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Chronicles of Narnia - C*d* S*d* Lewis/works"
+          },
+          {
+            "title": "Hurt Edmund Pevensie - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Hurt%20Edmund%20Pevensie/works"
+          },
+          {
+            "title": "The_Newbie's Chronicles of Narnia Fanfiction | Archive of Our Own",
+            "url": "https://insecure.ao3.org/collections/Narnia_Fanfiction"
+          },
+          {
+            "title": "Chronicles of Narnia Communities | FanFiction",
+            "url": "https://m.fanfiction.net/communities/book/Chronicles-of-Narnia/0/3/4/"
+          },
+          {
+            "title": "Caspian (Narnia) - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Caspian (Narnia)/works"
+          }
+        ]
+      },
+      "Based on my search results, I can provide information about Chronicles of Narnia fanfiction statistics on AO3 and other platforms, focusing on Edmund Pevensie, Caspian, and popular pairings:\n\n## Chronicles of Narnia Fanfiction Statistics\n\n### Total Works Count\n\nChronicles of Narnia fanfiction archive with over 12,554 stories on FanFiction.Net. While I couldn't find specific total work counts for AO3, the platform itself hosts over 15,000,000 works in over 71,720 fandoms as of May 2025, though Chronicles of Narnia is just one of those many fandoms.\n\n### Edmund Pevensie Popularity\n\nEdmund Pevensie appears to be one of the most popular characters in Chronicles of Narnia fanfiction:\n\n- He features prominently in many works, often as a central character\n- Edmund has grown on me so much over the years... the contrast between Edmund and Susan is suuuuuper fascinating\n- There are dedicated tags and communities for Edmund-centric fanfiction, including \"This is a community for all things Edmund. He's a very interestingly complex character, that I'm sure others enjoy reading about too\"\n\n### Edmund/Caspian Pairing\n\nThe Edmund Pevensie/Caspian pairing appears to be a notable relationship in the fandom:\n\n- There is a dedicated AO3 tag for \"Caspian/Edmund Pevensie\" works\n- Edmund/Caspian fanfiction exists across multiple platforms including LiveJournal communities specifically dedicated to \"The Royal Narnian Ship Edmund/Caspian\"\n- Stories explore their relationship dynamics, with works like \"Edmund's tired of being in love with Caspian, and being stuck on the Dawn Treader and sharing a bunk with him is perhaps the worst thing to happen to his heart. Though, it's probably the one of the worst things to happen to his mind, too, since everyone except him can tell that Caspian is terribly in love with him all the same\"\n\n### Other Popular Pairings\n\nThe search results reveal several other popular pairings in Chronicles of Narnia fanfiction:\n\n1. **Peter/Edmund** - Edmund Pevensie/Peter Pevensie works exist on AO3, though these appear to be controversial within the fandom\n2. **Edmund/Original Characters** - Very popular, with numerous works featuring Edmund paired with OCs\n3. **Caspian/Susan** - Traditional pairing from the films, with \"Stories about Caspian and Susan that may contain other pairings and OC's\"\n4. **Lucy/Caspian** - \"Your source for quality, well-written stories featuring the LucyCaspian pairing\"\n\n### Community Characteristics\n\nThe Chronicles of Narnia fanfiction community appears to be:\n- Focused heavily on character relationships and family dynamics\n- Particularly interested in the Pevensie siblings' bonds\n- Active across multiple platforms (AO3, FanFiction.Net, LiveJournal, Wattpad)\n- Includes both romantic and platonic relationship exploration\n- Features significant interest in \"Golden Age\" Narnia stories and post-canon explorations\n\nThe fandom seems to have a strong appreciation for Edmund's character development and complex relationships, making him and his pairings (especially with Caspian) popular subjects for fanfiction exploration."
+    ],
+    "durationSeconds": 39.271045915000144
+  }
+}

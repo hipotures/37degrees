@@ -1,0 +1,62 @@
+{
+  "session_id": "33f7964e-50c3-4a6f-a60c-a132c9281df9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/33f7964e-50c3-4a6f-a60c-a132c9281df9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Mikhail Bulgakov Master and Margarita original manuscript archives Elena Bulgakova memoirs primary sources academic research"
+  },
+  "tool_response": {
+    "query": "Mikhail Bulgakov Master and Margarita original manuscript archives Elena Bulgakova memoirs primary sources academic research",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01DfNM4MnXg17RzdYj6p86Kd",
+        "content": [
+          {
+            "title": "The Master and Margarita - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Master_and_Margarita"
+          },
+          {
+            "title": "The Master and Margarita by Mikhail Bulgakov : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/2019-The-Master-and-Margarita"
+          },
+          {
+            "title": "Mikhail Bulgakov \u2013 Master and Margarita",
+            "url": "https://www.paskvil.com/file/files-books/bulgakov-master-and-margarita.pdf"
+          },
+          {
+            "title": "The Master and Margarita Novel by Elena S. Bulgakova and Mikhail Bulgakov: A DEEP DIVE",
+            "url": "https://www.literarysphere.com/2025/05/the-master-and-margarita-novel-by-elena.html"
+          },
+          {
+            "title": "The master and Margarita : Bulgakov, Mikhail, 1891-1940 : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/mastermargarita00bulg_1"
+          },
+          {
+            "title": "The Master and Margarita - Archives of the website",
+            "url": "https://www.masterandmargarita.eu/estore/pdf/engels.html"
+          },
+          {
+            "title": "The master and Margarita : Bulgakov, Mikhail, 1891-1940, author : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/mastermargarita0000bulg_h8o6"
+          },
+          {
+            "title": "The Master and Margarita - Bulgakov biography documents",
+            "url": "https://www.masterandmargarita.eu/en/01bulgakov/documenten.html"
+          },
+          {
+            "title": "The Master and Margarita - Would-be Margaritas",
+            "url": "https://www.masterandmargarita.eu/en/03karakters/margaritas.html"
+          },
+          {
+            "title": "(PDF) Master and Margarita: a Literary Autobiography?",
+            "url": "https://www.researchgate.net/publication/31197210_Master_and_Margarita_a_Literary_Autobiography"
+          }
+        ]
+      },
+      "Based on your search, I found valuable information about the original manuscripts, archives, and primary sources related to Mikhail Bulgakov's \"The Master and Margarita\" and Elena Bulgakova's role in preserving the work.\n\n## Original Manuscripts and Archives\n\nBulgakov started writing The Master and Margarita in 1928, but burned the first manuscript in 1930 (just as his character the Master does) facing the harsh reality that he could not see a future as a writer in the Soviet Union at a time of widespread political repression. He restarted the novel in 1931.(no content)The archives contain Bulgakov's two tiny notebooks containing the preliminary notes for the third version of The Master and Margarita, written in 1929-1931, with various early drafts including \"The Hoof of the Engineer\" written in 1928-1929.(no content)Manuscript versions exist of the first page of the 1932 version, the first page of chapter 19 of the 1933 version, and pages from the 1938 version of the novel.\n\n## Elena Bulgakova's Critical Role\n\nA censored version, with several chapters cut by editors, was published posthumously in Moscow magazine in 1966\u20131967 by his widow Elena Bulgakova.(no content)Elena Sergeevna Bulgakova preserved the manuscripts, risking her own safety, and became the novel's fierce guardian, embodying a dedication akin to Margarita's own. While Mikhail Bulgakov is the undisputed authorial genius, Elena Bulgakova's role in its survival and eventual revelation to the world is undeniably significant, making the novel a testament to their shared legacy and enduring love.\n\n## Primary Sources and Memoirs\n\nElena Bulgakova kept a diary from 1933 to 1940, which has become an important primary source. The diaries and letters of the author and his third wife Elena Sergeyevna Shilovskaya were published by Oxford-researcher Julie A. E. Curtis as \"Manuscripts Don't Burn: Mikhail Bulgakov: A Life in Letters and Diaries\" (Overlook Press, Woodstock, NY, 1992).\n\n## Academic Research and Archives\n\nIn 2006, Viktor Losev published a unique book entitled \"Poor Poor Master,\" in which he collected all the saved manuscripts of all the different versions of The Master and Margarita written by Bulgakov between 1928 and 1940.(no content)Academic research continues with the publication of diaries and letters, memoirs and much professional research that allows for new interpretations of the novel.\n\nThe archives reveal that Elena Bulgakova was instrumental not only in preserving the manuscripts during the dangerous Stalin era but also in ensuring their eventual publication, making her contributions as significant as her husband's in bringing this masterpiece to the world."
+    ],
+    "durationSeconds": 23.479399488999974
+  }
+}

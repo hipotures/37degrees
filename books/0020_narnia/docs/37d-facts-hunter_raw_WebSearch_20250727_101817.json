@@ -1,0 +1,62 @@
+{
+  "session_id": "7ed04832-da4f-417c-b9bb-c372937eeaa9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7ed04832-da4f-417c-b9bb-c372937eeaa9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Opowie\u015bci z Narnii polskie t\u0142umaczenia historia wydawnictwa C.S. Lewis"
+  },
+  "tool_response": {
+    "query": "Opowie\u015bci z Narnii polskie t\u0142umaczenia historia wydawnictwa C.S. Lewis",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01VXWLEeA1hzmo52FJ7tmNNT",
+        "content": [
+          {
+            "title": "Seria Opowie\u015bci z Narnii (wszystkie ksi\u0105\u017cki), C.S Lewis | Media Rodzina",
+            "url": "https://www.mediarodzina.pl/seria/opowiesci-z-narnii/"
+          },
+          {
+            "title": "Opowie\u015bci z Narnii \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Opowie%C5%9Bci_z_Narnii"
+          },
+          {
+            "title": "Opowie\u015bci z Narnii - C.S. Lewis | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/91987/opowiesci-z-narnii"
+          },
+          {
+            "title": "C.S. Lewis \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/C.S._Lewis"
+          },
+          {
+            "title": "Opowie\u015bci z Narni, cz. I Lew, Czarownica i stara szafa (C. S. Lewis) - Streszczenie - J\u0119zyk polski - Opracowania.pl",
+            "url": "https://opracowania.pl/opracowania/jezyk-polski/opowiesci-z-narni-cz-i-lew-czarownica-i-stara-szafa-c-s-lewis,oid,202,streszczenie"
+          },
+          {
+            "title": "Seria Opowie\u015bci z Narnii | ksi\u0119garnia TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/seria/opowiesci-z-narnii"
+          },
+          {
+            "title": "C.S. Lewis i jego \"Opowie\u015bci z Narnii\" - Historia - PR24.PL",
+            "url": "https://www.polskieradio.pl/39/156/artykul/983610,cs-lewis-i-jego-opowiesci-z-narnii"
+          },
+          {
+            "title": "Opowie\u015bci z Narnii. Lew, czarownica i stara szafa - C.S. Lewis | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/33905/opowiesci-z-narnii-lew-czarownica-i-stara-szafa"
+          },
+          {
+            "title": "Opowie\u015bci z Narni, cz. I Lew, Czarownica i stara szafa (C. S. Lewis) - J\u0119zyk polski - Opracowania.pl",
+            "url": "https://opracowania.pl/opracowania/jezyk-polski/opowiesci-z-narni-cz-i-lew-czarownica-i-stara-szafa-c-s-lewis,oid,202"
+          },
+          {
+            "title": "Opowie\u015bci z Narnii - C.S. Lewis Ksi\u0105\u017cki przy herbacie",
+            "url": "https://ksiazkiprzyherbacie.pl/opowiesci-z-narnii-c-s-lewis-komplet"
+          }
+        ]
+      },
+      "Based on my search results, I found comprehensive information about the Polish translations and publishing history of \"The Chronicles of Narnia\" by C.S. Lewis. Here's what I discovered:\n\n## Polish Translations and Publishing History of \"The Chronicles of Narnia\" by C.S. Lewis\n\n### Translation Information\n\nThe Chronicles of Narnia series was first published in Polish between 1984-1989. The main Polish translator is Andrzej Polkowski (from 1985), who is noted for producing an excellent translation that has helped make the series well-known in Poland.\n\n### Publication Timeline\n\nLewis wrote the series between 1949 and 1954, and the first volume \"The Lion, the Witch and the Wardrobe\" was published on October 16, 1951. The Chronicles of Narnia have been translated into forty-one languages and have been continuously published since 1954, selling over one hundred million copies to date.\n\n### Current Publishers in Poland\n\nMedia Rodzina publishing house has released several books by Lewis, including the Narnia series. The publisher offers both individual volumes and complete editions of the series.\n\n### Series Composition and Publishing Order\n\nThe seven books that make up The Chronicles of Narnia are presented in the order they were first published. However, there has been discussion about reading order - originally they weren't numbered, with American publisher Macmillan first numbering them in publication order, while when HarperCollins acquired the rights in 1994, they renumbered the series according to chronological order suggested by Douglas Gresham, Lewis's stepson.\n\n### Cultural Impact in Poland\n\n\"The Lion, the Witch and the Wardrobe\" has been used as required reading in Polish schools (fifth grade), and is considered one of the most enjoyable novels in the school reading canon. The Chronicles of Narnia are on the Golden List of books recommended for children by the ABC XXI Foundation \"All of Poland Reads to Children\".\n\n### Available Editions\n\nPolish readers can find the series in various formats, including a beautiful two-volume hardcover edition in an elegant box, as well as the traditional seven-volume edition.\n\nThe series remains extremely popular in Poland, continuing the global success that has made it one of the most beloved children's fantasy series worldwide."
+    ],
+    "durationSeconds": 20.76752874799981
+  }
+}

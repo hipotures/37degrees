@@ -1,0 +1,62 @@
+{
+  "session_id": "10d774b1-cbee-4596-b9de-70bcda5cd9e0",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/10d774b1-cbee-4596-b9de-70bcda5cd9e0.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "1984 George Orwell inspired video games Papers Please Watch Dogs Beholder Big Brother games"
+  },
+  "tool_response": {
+    "query": "1984 George Orwell inspired video games Papers Please Watch Dogs Beholder Big Brother games",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_017ztCrbCiy9FW9GSi88n9jP",
+        "content": [
+          {
+            "title": "A demo for a lost videogame based on George Orwell's 1984 has emerged from the memory hole | PC Gamer",
+            "url": "https://www.pcgamer.com/games/puzzle/a-demo-for-a-lost-videogame-based-on-george-orwells-1984-has-emerged-from-the-memory-hole/"
+          },
+          {
+            "title": "A demo for a lost videogame based on George Orwell's 1984 has emerged from the memory hole",
+            "url": "https://www.yahoo.com/tech/demo-lost-videogame-based-george-031944425.html"
+          },
+          {
+            "title": "Dystopian Games That Draw Inspiration From George Orwell\u2019s 1984",
+            "url": "https://bosslevelgamer.com/dystopian-games-inspired-by-george-orwells-1984-13459"
+          },
+          {
+            "title": "Dystopian Games Inspired by Orwell's 1984 | N4G",
+            "url": "https://n4g.com/news/2483147/dystopian-games-inspired-by-orwells-1984"
+          },
+          {
+            "title": "Beholder Lets Players Live George Orwell\u2019s 1984 | N4G",
+            "url": "https://n4g.com/news/1979298/beholder-lets-players-live-george-orwells-1984"
+          },
+          {
+            "title": "What are some video games that capture atmosphere similar to Nineteen Eighty-Four? - Quora",
+            "url": "https://www.quora.com/What-are-some-video-games-that-capture-atmosphere-similar-to-Nineteen-Eighty-Four"
+          },
+          {
+            "title": "Big Brother (George Orwell\u2019s 1984 Video Game) [PC - Cancelled] - Unseen64",
+            "url": "https://www.unseen64.net/2019/01/18/big-brother-george-orwell-1984-video-game-cancelled/"
+          },
+          {
+            "title": "Save 75% on Orwell: Keeping an Eye On You on Steam",
+            "url": "https://store.steampowered.com/app/491950/Orwell_Keeping_an_Eye_On_You/"
+          },
+          {
+            "title": "We\u2019re not (just) playing, the politics of games | The Orwell Foundation",
+            "url": "https://www.orwellfoundation.com/the-orwell-youth-prize/for-teachers/orwell-in-the-classroom/were-not-just-playing-the-politics-of-games/"
+          },
+          {
+            "title": "Big Brother is Watching You - 6 Video Games That Watch Your Every Move",
+            "url": "https://www.gamingdebugged.com/2013/11/18/big-brother-watching-6-games-watch-every-move/"
+          }
+        ]
+      },
+      "Your search has returned comprehensive information about video games inspired by George Orwell's 1984 novel. Here's what I found:\n\n## Lost Official Adaptation\n\nIn 1996, a US studio called MediaX began working on a videogame inspired by George Orwell's 1984. It was called Big Brother, and you played a member of the resistance called Eric Blair (which was Orwell's real name), breaking into and sabotaging government installations across 12 levels with hundreds of puzzles.(no content)MediaX's Big Brother was canceled in 1999 or 2000, possibly because the licence had expired before the game could be completed.(no content)A demo from January of 1999 has recently surfaced on the Internet Archive, though it reportedly \"doesn't feel particularly Orwellian.\"\n\n## Modern Games Drawing 1984 Inspiration\n\nSeveral contemporary games draw heavily from Orwell's themes:\n\n### Beholder\nBeholder is a series of dystopian games that draws heavy inspiration from 1984, to the point where the first entry even takes place in the titular year. Just like in Orwell, your job in Beholder is working for Big Brother.(no content)Beholder is basically 1984 in game form and you are not the good guy. In Beholder you are playing the role of the landlord and your boss is the state.\n\n### Papers, Please\nPapers, Please is one of the most popular dystopian games out there. In Papers, Please you play as an immigration inspector at one of the borders of the communist state of Arstotzka. Your job essentially involves choosing who enters the country, who gets turned away, and who gets arrested. The article notes this as an example of \"a properly dystopian videogame.\"\n\n### Orwell Game Series\nThe irony of a Big Brother program dubbed Orwell is certainly not lost on the game or its characters, some of whom point out that this is the exact opposite of what the author stood for.(no content)Once you're done with Orwell: Keeping an Eye on You, I recommend also checking out the second season, Orwell: Ignorance is Strength. This one is more about fake news and \"truth\" fabrication but plays the same as Keeping an Eye on You.\n\n## Watch Dogs Connection\n\nWhile Watch Dogs wasn't extensively covered in these specific results, it's mentioned among games dealing with surveillance themes. Over the past few years gaming has begun to embrace this concept and play on the collective consciousness that is a bit annoyed by the lack of privacy.\n\n## Common Themes\n\nAlthough there are no actual video game adaptations of the seminal novel, there are quite a few titles that explore themes found within it. Namely, nationalism, surveillance, oppressive governments, censorship, and totalitarianism, among other things.\n\nThe search reveals that while there have been attempts at direct adaptations of 1984, most games inspired by Orwell's work focus on exploring the novel's core themes of surveillance, government control, and dystopian societies rather than directly adapting the story itself."
+    ],
+    "durationSeconds": 24.06477607600007
+  }
+}

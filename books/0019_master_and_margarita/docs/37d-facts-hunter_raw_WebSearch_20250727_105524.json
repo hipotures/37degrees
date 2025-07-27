@@ -1,0 +1,63 @@
+{
+  "session_id": "33f7964e-50c3-4a6f-a60c-a132c9281df9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/33f7964e-50c3-4a6f-a60c-a132c9281df9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Mistrz i Ma\u0142gorzata\" lektura szkolna program nauczania matura liceum"
+  },
+  "tool_response": {
+    "query": "\"Mistrz i Ma\u0142gorzata\" lektura szkolna program nauczania matura liceum",
+    "results": [
+      "I'll perform a web search for information about \"Mistrz i Ma\u0142gorzata\" (The Master and Margarita) as required reading in Polish high school curriculum and graduation exams.",
+      {
+        "tool_use_id": "srvtoolu_01EX4SPNme19LxSNngoTUMqC",
+        "content": [
+          {
+            "title": "Mistrz i Ma\u0142gorzata - Michai\u0142 Bu\u0142hakow | lektury szkolne z om\u00f3wieniem - Wydawnictwo Greg",
+            "url": "https://www.greg.pl/lektury/9,780_Mistrz-i-Malgorzata.html"
+          },
+          {
+            "title": "Mistrz i Ma\u0142gorzata -lektura liceum \u2013 Programy dla szko\u0142y",
+            "url": "https://programydlaszkoly.pl/sklep/filmy/lektury/mistrz-i-malgorzata-lektura-liceum.html"
+          },
+          {
+            "title": "\"Mistrz i Ma\u0142gorzata\" lektur\u0105 nastolatk\u00f3w? &bull forum czytelnik\u00f3w ksi\u0105\u017cek &raquo; BiblioNETka.pl",
+            "url": "https://www.biblionetka.pl/art.aspx?id=86175"
+          },
+          {
+            "title": "Michai\u0142 Bu\u0142hakow - Mistrz i Ma\u0142gorzata - Lista lektur dla szko\u0142y \u015bredniej. Fot. materia\u0142y prasowe - Zdj\u0119cia, fotki",
+            "url": "https://maturzysta.dlastudenta.pl/fotoalbum/1453802,11771,128996,1.html"
+          },
+          {
+            "title": "Mistrz i ma\u0142gorzata lektura w kt\u00f3rej klasie - szkolniewo.pl",
+            "url": "https://szkolniewo.pl/artykul/8916/mistrz-i-magorzata-lektura-w-ktorej-klasie"
+          },
+          {
+            "title": "Mistrz i Ma\u0142gorzata (lektura z opracowaniem) (Ibis) w ksi\u0119garni Tuliszk\u00f3w",
+            "url": "https://ksiegarnia-tuliszkow.pl/mistrz-i-malgorzata-lektura-z-opracowaniem-47"
+          },
+          {
+            "title": "Mistrz i Ma\u0142gorzata \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Mistrz_i_Ma%C5%82gorzata"
+          },
+          {
+            "title": "Lektura szkolna \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Lektura_szkolna"
+          },
+          {
+            "title": "Michai\u0142 Bu\u0142hakow - Mistrz i Ma\u0142gorzata",
+            "url": "http://biblioteka.kijowski.pl/bulhakov%20michail/mistrz.pdf"
+          },
+          {
+            "title": "Mistrz i Ma\u0142gorzata na maturze | AleKlasa",
+            "url": "https://aleklasa.pl/matura/c406-nauka-o-jezyku-2/mistrz-i-malgorzata-na-maturze"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about \"Mistrz i Ma\u0142gorzata\" (The Master and Margarita) as a school reading requirement in the Polish educational system:\n\n## \"Mistrz i Ma\u0142gorzata\" w polskim programie nauczania\n\nPowie\u015b\u0107 \"Mistrz i Ma\u0142gorzata\" Michai\u0142a Bu\u0142hakowa jest lektur\u0105 szkoln\u0105 w szko\u0142ach \u015brednich w Polsce, na poziomie rozszerzonym.(no content)Jest to lektura obowi\u0105zkowa na poziomie rozszerzonym.\n\n### Status w podstawie programowej\n\nPowie\u015b\u0107 znajduje si\u0119 na li\u015bcie lektur obowi\u0105zkowych dla szk\u00f3\u0142 \u015brednich jako przyk\u0142ad literatury \u015bwiatowej XX wieku, wymieniana obok takich klasycznych dzie\u0142 jak \"Faust\" Goethego czy \"Proces\" Kafki.(no content)W podstawie programowej literatura powszechna obejmuje m.in. F. Kafka \u2013 Proces; M. Bu\u0142hakow \u2013 Mistrz i Ma\u0142gorzata.\n\n### Kontekst edukacyjny\n\nOpracowanie ksi\u0105\u017cki zawarte w wydaniach sprawia, \u017ce lektura staje si\u0119 przyjemniejsza, a lekcje polskiego staj\u0105 si\u0119 proste i zrozumia\u0142e.(no content)Utw\u00f3r nale\u017cy do epiki, jego z\u0142o\u017cona struktura oraz szkatu\u0142kowa kompozycja przynosz\u0105 szereg mo\u017cliwo\u015bci interpretacyjnych. To kontestacyjna powie\u015b\u0107 o wkroczeniu diabelskiej ekipy do moskiewskich reali\u00f3w \u017cycia, przedstawiaj\u0105ca obraz \u017cycia w totalitarnej rzeczywisto\u015bci.\n\n### Znaczenie dla matury\n\nW kontek\u015bcie maturalnym Bu\u0142hakow w \"Mistrzu i Ma\u0142gorzacie\" w realistyczny, a zarazem satyryczny spos\u00f3b przedstawi\u0142 \u015bwiat totalitaryzmu stalinowskiego. Powie\u015b\u0107 jest cz\u0119sto analizowana pod k\u0105tem:\n- Krytyki totalitaryzmu\n- Motyw\u00f3w faustowskich\n- W\u0105tk\u00f3w mi\u0142osnych i religijnych\n- Struktury wielop\u0142aszczyznowej narracji\n\n### Historia publikacji\n\nPowie\u015b\u0107 zosta\u0142a wydana w wersji ocenzurowanej w latach 1966\u20131967, a w wersji prawie pe\u0142nej w roku 1973.(no content)W Polsce pe\u0142n\u0105 wersj\u0119 utworu wydano w roku 1981.(no content)Jest uznawana za jedn\u0105 z najlepszych powie\u015bci w historii literatury."
+    ],
+    "durationSeconds": 23.208149954999797
+  }
+}

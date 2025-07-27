@@ -1,0 +1,62 @@
+{
+  "session_id": "f420e2ea-43ea-499f-a68a-b8dea67fad50",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/f420e2ea-43ea-499f-a68a-b8dea67fad50.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Ma\u0142y Ksi\u0105\u017c\u0119 teatr polska adaptacje spektakl film polscy arty\u015bci znane postacie"
+  },
+  "tool_response": {
+    "query": "Ma\u0142y Ksi\u0105\u017c\u0119 teatr polska adaptacje spektakl film polscy arty\u015bci znane postacie",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_011h1ycRZgABkqMkmHejKzd1",
+        "content": [
+          {
+            "title": "Ma\u0142y Ksi\u0105\u017c\u0119 - Teatr Polski w Warszawie",
+            "url": "https://teatrpolski.waw.pl/spektakl/maly-ksiaze"
+          },
+          {
+            "title": "Pilot i Ma\u0142y Ksi\u0105\u017c\u0119 \u2013 Musical",
+            "url": "https://www.pilotimalyksiaze.pl/"
+          },
+          {
+            "title": "Ma\u0142y Ksi\u0105\u017c\u0119",
+            "url": "https://www.teatrroma.pl/en/spektakl/the-little-prince/"
+          },
+          {
+            "title": "Pilot i Ma\u0142y Ksi\u0105\u017c\u0119. Cyber musical | Musicale | bilety do teatru eBilet.pl",
+            "url": "https://www.ebilet.pl/teatr/musicale/pilot-i-maly-ksiaze"
+          },
+          {
+            "title": "Okiem Obserwatora: Ma\u0142y Ksi\u0105\u017c\u0119 | e-teatr.pl",
+            "url": "https://e-teatr.pl/okiem-obserwatora-maly-ksiaze-37468"
+          },
+          {
+            "title": "Ma\u0142y Ksi\u0105\u017c\u0119",
+            "url": "https://ludowy.pl/pl/spectacle/maly-ksiaze"
+          },
+          {
+            "title": "Ma\u0142y Ksi\u0105\u017c\u0119 spektakl \u2013 emocjonuj\u0105ce przedstawienia w Polsce",
+            "url": "https://pop-art.org.pl/maly-ksiaze-spektakl-emocjonujace-przedstawienia-w-polsce"
+          },
+          {
+            "title": "Ma\u0142y Ksi\u0105\u017c\u0119 - Teatr Polski we Wroc\u0142awiu",
+            "url": "https://www.teatrpolski.wroc.pl/maly-ksiaze/"
+          },
+          {
+            "title": "Ma\u0142y Ksi\u0105\u017c\u0119. Opowie\u015b\u0107 - Cz\u0119stochowa",
+            "url": "https://www.teatr-mickiewicza.pl/sp264,Maly-Ksiaze--Opowiesc"
+          },
+          {
+            "title": "MA\u0141Y KSI\u0104\u017b\u0118 Antoine de Saint-Exup\u00e9ry / re\u017c. Cezary Domaga\u0142a - Teatr Nowy w Zabrzu Teatr Nowy w Zabrzu",
+            "url": "https://teatrzabrze.pl/przedstawienia/maly-ksiaze-2/"
+          }
+        ]
+      },
+      "Based on your search query about \"Ma\u0142y Ksi\u0105\u017c\u0119 teatr polska adaptacje spektakl film polscy arty\u015bci znane postacie,\" here are the key findings about Polish theater adaptations of \"The Little Prince\" and notable Polish artists involved:\n\n## Polish Theater Adaptations\n\nIn Poland, \"The Little Prince\" shows are performed by various theater groups, such as Teatr Piasku Tetiany Galitsyny, Teatr Mickiewicza, and Teatr Pinokio, with each offering their unique interpretation.\n\n## Notable Polish Theater Productions\n\n### Teatr Polski in Warsaw\nDirected by Konrad Dworakowski at Teatr Polski in Warsaw, this production features:\n- Micha\u0142 Kurek (Little Prince) and Dominik \u0141o\u015b (Pilot)\n- Set design and costumes by Marika Wojciechowska, with film projections by Jan Caban\n\n### Cyber Musical \"Pilot i Ma\u0142y Ksi\u0105\u017c\u0119\"\nA groundbreaking production that represents the first time in Polish theater history that Polish artists collaborate with a creative team from Broadway. The cast includes \"the cream of Polish musical artists\" - Rafa\u0142 Szatan, Kaja Mianowana, Marta Florek, Dominik Bobryk, Krzysztof Cybi\u0144ski, Sylwia Banasiuk-Smulska, Micha\u0142 Lech, Daniel Markiewicz, Filip Robak, Szymon Chata\u0142a, Adrianna Zuchma\u0144ska, Ola Bie\u0144kowska, Oliwa Dro\u017cd\u017cyk, Micha\u0142 S\u0142omka, Dominik Fija\u0142kowski, and \u0141ukasz Mazurek.\n\nVisual effects are handled by Polish studio Platige Image, which has over 25 years of experience in creating visual effects for film, games, series, and musicals.\n\n### Other Polish Productions\n- **Teatr Polski in Wroc\u0142aw**: Adaptation and direction by Marzena Sadocha, featuring Marcin Pempu\u015b (Little Prince), Joanna Wo\u017anicka (Lamb; Rose; Fox; Friend), and Aleksandra Neyman (Flower)\n\n- **Teatr Mickiewicz in Cz\u0119stochowa**: Translation, adaptation, and direction by Agnieszka Baranowska, with set design and costumes by Kamila Grzybowska-Sosnowska\n\n- **Teatr Nowy in Zabrze**: Directed by Cezary Domaga\u0142a\n\n## Artistic Innovations\n\nThe Polish adaptations showcase various creative approaches:\n- Teatr Piasku Tetiany Galitsyny offers a magical presentation using sand art technique\n- The cyber musical blends virtual and real worlds using cutting-edge visual technology\n- Film projections are used as \"a show within a show\"\n\nThese adaptations demonstrate how Polish theater artists have creatively interpreted Saint-Exup\u00e9ry's classic work, combining traditional theatrical elements with modern technology and diverse artistic approaches."
+    ],
+    "durationSeconds": 25.636069869
+  }
+}

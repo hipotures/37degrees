@@ -1,0 +1,62 @@
+{
+  "session_id": "33f7964e-50c3-4a6f-a60c-a132c9281df9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/33f7964e-50c3-4a6f-a60c-a132c9281df9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Master and Margarita\" theater productions adaptations 400 worldwide statistics"
+  },
+  "tool_response": {
+    "query": "\"Master and Margarita\" theater productions adaptations 400 worldwide statistics",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01Vp6m46stAoJc5tFjD4PET1",
+        "content": [
+          {
+            "title": "The Master and Margarita - Adaptations - Performing arts",
+            "url": "https://www.masterandmargarita.eu/en/05media/theater.html"
+          },
+          {
+            "title": "The Master and Margarita - Adaptations - Performing arts - Theatre",
+            "url": "https://www.masterandmargarita.eu/en/05media/theatertoneel.html"
+          },
+          {
+            "title": "The Master and Margarita: Adaptations",
+            "url": "https://masterandmargaritamap.blogspot.com/p/adaptations.html"
+          },
+          {
+            "title": "The Master and Margarita - Adaptations - Performing arts - Theatre - 2011-2020",
+            "url": "https://www.masterandmargarita.eu/en/05media/theatertoneel20102020.html"
+          },
+          {
+            "title": "The Master and Margarita - Adaptations - Performing arts - Musicals",
+            "url": "https://www.masterandmargarita.eu/en//05media/theatermusical.html"
+          },
+          {
+            "title": "The Master and Margarita - Adaptations - Performing arts - Theatre - 2025",
+            "url": "https://www.masterandmargarita.eu/en/05media/theatertoneel2025.html"
+          },
+          {
+            "title": "The Master and Margarita - Adaptations",
+            "url": "https://www.m.masterandmargarita.eu/en/05media/index.html"
+          },
+          {
+            "title": "The Master and Margarita - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Master_and_Margarita"
+          },
+          {
+            "title": "The Master and Margarita - Theatre fragments",
+            "url": "https://www.masterandmargarita.eu/en/00start/theaterfragmenten.html"
+          },
+          {
+            "title": "The Master and Margarita - Adaptations - Performing arts - Theatre - 2001-2010",
+            "url": "https://www.masterandmargarita.eu/en/05media/theatertoneel20002010.html"
+          }
+        ]
+      },
+      "Based on the search results, I found comprehensive information about \"The Master and Margarita\" theater productions and adaptations worldwide. Here are the key statistics and findings:\n\n## Global Statistics on \"The Master and Margarita\" Theater Adaptations\n\nThis inventory of stage adaptations of 'The Master and Margarita' by Mikhail Bulgakov contains over 400 different productions for a total of more than 20,000 performances.\n\n### Key Statistical Highlights:\n\n**Overall Numbers:**\n- Over 400 different theater productions\n- More than 20,000 total performances\n- Hundreds of theatre companies worldwide have made one or more stage adaptations\n\n**Historical Development:**\n- The first theatrical adaptation was presented on June 26, 1971, in Krakow, Poland\n- From 1971 to 1977, all theatre adaptations were Polish\n- The last twenty years saw the number of adaptations increase exponentially\n\n**Recent Activity:**\n- In the last five years there have been at least a hundred theatre companies worldwide which presented their adaptations\n- 2011 was the year with the highest number of representations\n- In 2010, The Master and Margarita was staged more than 1,500 times in various versions\n\n**Geographic Distribution Examples:**\n- In Germany, 9 companies together presented 85 performances in one period, supplemented by 12 guest performances\n- In Italy, 6 companies together staged the story about 111 times\n- The Th\u00e9\u00e2tre de la Temp\u00eate from Paris staged nearly 50 performances in France\n\nThe search confirms that there are indeed over 400 different theater productions of \"The Master and Margarita\" worldwide, making it one of the most frequently adapted literary works for the stage globally. The comprehensive database mentioned tracks productions across multiple formats including theater plays, musicals, operas, and ballets."
+    ],
+    "durationSeconds": 16.594948723000474
+  }
+}

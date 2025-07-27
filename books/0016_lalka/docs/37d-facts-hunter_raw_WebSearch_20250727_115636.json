@@ -1,0 +1,62 @@
+{
+  "session_id": "ee5740ec-c8bd-4d09-98fb-e20dcc0622d8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ee5740ec-c8bd-4d09-98fb-e20dcc0622d8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Lalka Boles\u0142aw Prus theater productions radio drama adaptations stage performances"
+  },
+  "tool_response": {
+    "query": "Lalka Boles\u0142aw Prus theater productions radio drama adaptations stage performances",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01QSQAuSoCcjQ2RVphAXwjCe",
+        "content": [
+          {
+            "title": "Radio drama - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Radio_drama"
+          },
+          {
+            "title": "lalka",
+            "url": "https://studiolalka.com/"
+          },
+          {
+            "title": "Boles\u0142aw Prus - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Boles%C5%82aw_Prus"
+          },
+          {
+            "title": "Polskie Radio Katowice Wiadomo\u015bci | Lalka - Boles\u0142aw Prus. Serial audio w gwiazdorskiej obsadzie.",
+            "url": "https://www.radio.katowice.pl/zobacz,51792,Lalka-Boleslaw-Prus-Serial-audio-w-gwiazdorskiej-obsadzie.html"
+          },
+          {
+            "title": "Lalka - Streszczenie szczeg\u00f3\u0142owe - Boles\u0142aw Prus - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/boleslaw-prus/lalka.streszczenie-szczegolowe"
+          },
+          {
+            "title": "Teatr w Krakowie im. J. S\u0142owackiego - Lalka",
+            "url": "https://teatrwkrakowie.pl/spektakl/lalka-1"
+          },
+          {
+            "title": "Lalka - rekonstrukcja filmowa, Ogl\u0105daj na TVP VOD",
+            "url": "https://vod.tvp.pl/rekonstrukcja-filmowa,158/lalka-odcinki,286741"
+          },
+          {
+            "title": "Theatre of Poland - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Theatre_of_Poland"
+          },
+          {
+            "title": "Lalka (powie\u015b\u0107) \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Lalka_(powie\u015b\u0107)"
+          },
+          {
+            "title": "Lalka - Boles\u0142aw Prus",
+            "url": "https://wolnelektury.pl/katalog/lektura/lalka/"
+          }
+        ]
+      },
+      "Based on my search results, I can provide comprehensive information about theater productions, radio drama adaptations, and stage performances of Boles\u0142aw Prus's \"Lalka\" (The Doll).\n\n## Film and Television Adaptations\n\nLalka has been adapted for screen multiple times, including a 1977 TV serial directed by Ryszard Ber and a 1968 film directed by Wojciech Jerzy Has. There's also a digitally reconstructed version of the TV series available.\n\n## Theater Productions\n\nThe novel has been adapted for stage numerous times:\n\nIn 1952, there was a theatrical production at Warsaw's Polish Theatre directed by Zygmunt Le\u015bnodorski, with Lech Madali\u0144ski as Wokulski and Nina Andrycz as Izabela.\n\nIn 1967, Warsaw's Powszechny Theatre presented \"Pan Wokulski according to Lalka by Boles\u0142aw Prus\" directed by Adam Hanuszkiewicz, with Mariusz Dmochowski as Wokulski and Ewa Wawrzo\u0144 as Izabela.\n\nMore recent productions include:\n- 1993: \"Panna Izabela according to Lalka by Boles\u0142aw Prus\" at Warsaw's National Theatre, directed by Adam Hanuszkiewicz\n- 2008: Production at Wroc\u0142aw's Polish Theatre directed by Wiktor Rubin\n- 2010: A musical at Gdynia's Musical Theatre directed by Wojciech Ko\u015bcielniak(no content)Currently, there's a contemporary adaptation at Krak\u00f3w's S\u0142owacki Theatre directed by Wojtek Klemm, which qualified for the \"Living Classics\" competition for staging classical Polish literature.\n\n## Radio Drama Adaptations\n\nThe first radio adaptation was in 1937, featuring the \"Old Clerk\" fragment adapted by Witold Hulewicz.\n\nMore recently, Radio Katowice has produced an audio series of Lalka with a star-studded cast, broadcasting Monday to Friday at 12:30 and Sundays at 22:05. This modern adaptation features Adam Woronowicz as Wokulski and Julia Wieniawa, presented as a 13-episode series with a contemporary approach and modern soundtrack.\n\n## Cultural Impact\n\nMillions of Poles have read Lalka, and film and television adaptations have attracted large audiences throughout the 20th century. The Doll has been translated into twenty-eight languages, demonstrating its international appeal.\n\nThe adaptations consistently aim to make this classic work relevant to contemporary audiences while maintaining its literary integrity and exploring themes that remain current today."
+    ],
+    "durationSeconds": 21.56496016699984
+  }
+}

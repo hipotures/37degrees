@@ -1,0 +1,63 @@
+{
+  "session_id": "10d774b1-cbee-4596-b9de-70bcda5cd9e0",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/10d774b1-cbee-4596-b9de-70bcda5cd9e0.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Rok 1984\" szko\u0142a podstawowa liceum matura lektura obowi\u0105zkowa program nauczania polski"
+  },
+  "tool_response": {
+    "query": "\"Rok 1984\" szko\u0142a podstawowa liceum matura lektura obowi\u0105zkowa program nauczania polski",
+    "results": [
+      "I'll perform a web search for information about \"Rok 1984\" (the year 1984) in relation to Polish elementary school, high school, matriculation exams, required reading, and Polish curriculum.",
+      {
+        "tool_use_id": "srvtoolu_01FASAnr9rdy5EySrP3fmdzS",
+        "content": [
+          {
+            "title": "Matura ustna \u2013 zagadnienia z \u201eRoku 1984\u201d z om\u00f3wieniem \u2013 pytania jawne na 2025 i 2026-2028 - Baba od polskiego",
+            "url": "https://babaodpolskiego.pl/matura-ustna-rok-1984/"
+          },
+          {
+            "title": "Lista lektur \u2013 stara podstawa programowa (IV technikum po gimnazjum) | Zesp\u00f3\u0142 Szk\u00f3\u0142 Agro-Ekonomicznych im. Bronis\u0142awa Zamojdzina w Karolewie",
+            "url": "https://zsae-karolewo.home.pl/?page_id=8514"
+          },
+          {
+            "title": "ROK 1984, George Orwell | matura 2025 - opracowanie i pytania jawne",
+            "url": "https://www.otouczelnie.pl/news/2224/Rok-1984-matura-2025"
+          },
+          {
+            "title": "Rok 1984 - George Orwell | lektury szkolne z om\u00f3wieniem - Wydawnictwo Greg",
+            "url": "https://www.greg.pl/lektury/8,1175_Rok-1984.html"
+          },
+          {
+            "title": "Na podstawie powie\u015bci \u201eRok 1984\u201d George\u2019a - Zadanie 16.2 - strona 19 - Matura z j\u0119zyka polskiego. Formu\u0142a 2023. Poziom podstawowy. 2023 - Skul",
+            "url": "https://skul.pl/jezyk-polski/zadanie,16-2,zid,424420"
+          },
+          {
+            "title": "Rok 1984 - George Orwell | lektury szkolne z om\u00f3wieniem",
+            "url": "https://www.greg.pl/lektury/103,1178_Rok-1984.html"
+          },
+          {
+            "title": "Rok 1984 - jawne pytania na matur\u0119 ustn\u0105 z j\u0119zyka polskiego 2025 - klp.pl",
+            "url": "https://klp.pl/pytania-maturalne/ser-1047.html"
+          },
+          {
+            "title": "Rok 1984 - Streszczenie szczeg\u00f3\u0142owe - George Orwell - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/george-orwell/rok-1984.streszczenie-szczegolowe"
+          },
+          {
+            "title": "George Orwell - Rok 1984 - Lista lektur dla szko\u0142y \u015bredniej. Fot. materia\u0142y prasowe - Zdj\u0119cia, fotki",
+            "url": "https://maturzysta.dlastudenta.pl/fotoalbum/1453819,11771,128996,1.html"
+          },
+          {
+            "title": "Rok 1984 - opracowanie do matury (J\u0119zyk polski) jako PDF - Knowunity",
+            "url": "https://knowunity.pl/knows/jzyk-polski-rok-1984-d3b85626-cad1-4277-841a-26314650b2e7"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about \"Rok 1984\" (George Orwell's \"1984\") as a required reading in Polish schools:\n\n**\"Rok 1984\" in Polish Education System:**\n\nKsi\u0105\u017cka ta jest lektur\u0105 obowi\u0105zkow\u0105 na poziomie podstawowym - This book is required reading at the basic level.\n\n**Matura Exam (Polish High School Final Exam):**\n\nOpracowanie pyta\u0144 jawnych dotycz\u0105cych \u201eRoku 1984\" na matur\u0119 ustn\u0105 z j\u0119zyka polskiego 2025 i 2026-2028 - There are open questions about \"1984\" for the oral Polish language matura exam for 2025 and 2026-2028.\n\nFunkcjonowanie jednostki w pa\u0144stwie totalitarnym. Om\u00f3w zagadnienie na podstawie powie\u015bci \"Rok 1984\" George'a Orwella - One of the matura questions focuses on \"The functioning of an individual in a totalitarian state\" based on Orwell's novel.\n\nRaj zbudowany na ziemi, czyli o antyutopii. Om\u00f3w zagadnienie na podstawie powie\u015bci \"Rok 1984\" George'a Orwella - Another question deals with \"Paradise built on earth, or about anti-utopia\" based on the novel.\n\n**Educational Materials:**\n\nTo lektura obowi\u0105zkowa dla ka\u017cdego - It's described as required reading for everyone.\n\nSzczeg\u00f3\u0142owe streszczenie lektury szkolnej Rok 1984 online. Wyczerpuj\u0105ce streszczenie lektury wymaganej w szkole - Detailed summaries are available for this required school reading.\n\nThe search results confirm that George Orwell's \"Rok 1984\" is an important part of the Polish curriculum, serving as required reading and featuring prominently in matura exam questions, particularly focusing on themes of totalitarianism and dystopia."
+    ],
+    "durationSeconds": 17.898120865999953
+  }
+}

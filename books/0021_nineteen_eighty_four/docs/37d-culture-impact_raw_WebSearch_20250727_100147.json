@@ -1,0 +1,63 @@
+{
+  "session_id": "10d774b1-cbee-4596-b9de-70bcda5cd9e0",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/10d774b1-cbee-4596-b9de-70bcda5cd9e0.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "S\u0142awomir Mro\u017cek \"Tango\" \"Emigranci\" dystopia teatr absurd Orwell por\u00f3wnanie"
+  },
+  "tool_response": {
+    "query": "S\u0142awomir Mro\u017cek \"Tango\" \"Emigranci\" dystopia teatr absurd Orwell por\u00f3wnanie",
+    "results": [
+      "I'll perform a web search for that query about S\u0142awomir Mro\u017cek's works and their connections to dystopia and theater of the absurd.",
+      {
+        "tool_use_id": "srvtoolu_01Dhoq8Df3YQCfUmRfvwj2At",
+        "content": [
+          {
+            "title": "Tango - Problematyka - S\u0142awomir Mro\u017cek - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/slawomir-mrozek/tango.problematyka"
+          },
+          {
+            "title": "Tango - Streszczenie kr\u00f3tkie - S\u0142awomir Mro\u017cek - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/slawomir-mrozek/tango.streszczenie-krotkie"
+          },
+          {
+            "title": "S\u0142awomir Mro\u017cek - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/S%C5%82awomir_Mro%C5%BCek"
+          },
+          {
+            "title": "Tango opracowanie - TANGO Informacje biograficzne S\u0142awomir Mro\u017cek, dramaturg, prozaik i satyryk, - Studocu",
+            "url": "https://www.studocu.com/pl/document/uniwersytet-swps/literatura-piekna-xx-i-xxi-wieku/tango-opracowanie/57462482"
+          },
+          {
+            "title": "\u201eTango\u201d jako dramat z elementami groteski - \u015aci\u0105gi, wypracowania, lektury - Bryk.pl",
+            "url": "https://www.bryk.pl/wypracowania/jezyk-polski/wspolczesnosc/2403-tango-jako-dramat-z-elementami-groteski.html"
+          },
+          {
+            "title": "Tango - Streszczenie szczeg\u00f3\u0142owe - S\u0142awomir Mro\u017cek - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/slawomir-mrozek/tango.streszczenie-szczegolowe"
+          },
+          {
+            "title": "S\u0142awomir Mro\u017cek (autor ksi\u0105\u017cek \"Tango\" i \"Emigranci\") - nakanapie.pl",
+            "url": "https://nakanapie.pl/autorzy/mrozek-slawomir/ksiazki"
+          },
+          {
+            "title": "\u201eTango\u201d jako groteskowa tragikomedia - Sciaga.pl",
+            "url": "https://sciaga.pl/tekst/23739-24-tango_jako_groteskowa_tragikomedia"
+          },
+          {
+            "title": "\u201eTango\u201d jako groteskowa tragikomedia - \u015aci\u0105gi, wypracowania, lektury - Bryk.pl",
+            "url": "https://www.bryk.pl/wypracowania/jezyk-polski/wspolczesnosc/2404-tango-jako-groteskowa-tragikomedia.html"
+          },
+          {
+            "title": "Sztuczki z Mro\u017ckiem ::: Artyku\u0142y ::: Encyklopedia teatru polskiego",
+            "url": "https://encyklopediateatru.pl/artykuly/73356/sztuczki-z-mrozkiem"
+          }
+        ]
+      },
+      "Based on the web search results, I found comprehensive information about S\u0142awomir Mro\u017cek's works \"Tango\" and \"Emigranci\" and their connections to dystopia, theater of the absurd, and comparisons to Orwell. Here's what the search revealed:\n\n## S\u0142awomir Mro\u017cek and Theater of the Absurd\n\n\"Tango\" Mro\u017cka za wpisuj\u0105ce si\u0119 z tzw. estetyk\u0119 absurdu, kt\u00f3rej patronem na \u015bwiecie jest przede wszystkim Samuel Beckett.(no content)His theatrical works belong to the genre of absurdist fiction, intended to shock the audience with non-realistic elements, political and historic references, distortion, and parody.\n\n## \"Tango\" (1964) - Dystopian Elements and Totalitarianism\n\nHis first full-length play, Tango (1965) written about totalitarianism in the style of Theatre of the Absurd, made him, according to Krystyna D\u0105browska, one of the most recognizable Polish contemporary dramatists in the world.(no content)Najbardziej znan\u0105 jego sztuk\u0105 jest jednak \"Tango\" (1964), krytyczna refleksja nad rodzeniem si\u0119 system\u00f3w totalitarnych. The play explores jak \u0142atwo doprowadzi\u0107 do sytuacji, w kt\u00f3rej spo\u0142ecze\u0144stwo traci prawdziwe warto\u015bci, a naiwny romantyzm (Artura i Eugeniusza) nie chroni przed totalitaryzmem osadzonym na sile fizycznej, a nie duchowej (Edek).\n\n## \"Emigranci\" (1974) - Social Alienation\n\nIn 1975 his second popular play Emigranci (The \u00c9migr\u00e9s), a bitter and ironic portrait of two Polish emigrants in Paris, was produced by director Andrzej Wajda at the Teatr Stary in Krak\u00f3w.(no content)W 1974 r., w \u201eDialogu\" ukaza\u0142 si\u0119 dramat, kt\u00f3ry \u2013 obok Tanga i Policji \u2013 cieszy si\u0119 nies\u0142abn\u0105cym zainteresowaniem realizator\u00f3w i publiczno\u015bci teatralnej: Emigranci. Jest to konfrontacja postaw dwu bohater\u00f3w, robotnika i intelektualisty, ukazanych w sytuacji wyobcowania spo\u0142ecznego.\n\n## Connections to Absurdist Theater and Dystopian Themes\n\nteatrze absurdu prawa Natury. I ta konieczno\u015b\u0107 bezsensowna jest chyba tym, co go \u0142\u0105czy z teatrem absurdu.(no content)Takie przedstawienie losu ludzkiego i jego zako\u0144czenie sprowadza relacje spo\u0142eczne do absurdu.\n\nThe works examine how Mro\u017cek w ten spos\u00f3b czyni relacje mi\u0119dzyludzkie absolutnie fundamentalnymi dla obrazu \u015bwiata. Jednocze\u015bnie pokazuje, jak absurdalne formy mog\u0105 one przyjmowa\u0107.\n\n## Literary Analysis and Social Commentary\n\n\"Tango\", zdaniem Jaros\u0142awa Szymkiewicza, jest pamfletem na koszmarny, przera\u017caj\u0105cy i zastyg\u0142y w g\u0142upocie polski komunizm. The play shows \u017ce w czasach kryzysu w\u0142adza rzadko znajduje si\u0119 w r\u0119kach ludzi \u015bwiat\u0142ych. Cz\u0119\u015bciej do g\u0142osu dochodz\u0105 jednostki przebieg\u0142e, a zarazem maj\u0105ce ciasne horyzonty my\u015blowe.\n\nBoth works demonstrate Mro\u017cek's mastery in combining niepowtarzalnym po\u0142\u0105czeniem satyry, groteski i parodii to create profound commentary on political and social systems, making them significant contributions to both Polish literature and the broader tradition of absurdist drama that examines dystopian themes similar to those found in Orwell's works."
+    ],
+    "durationSeconds": 31.869123579000007
+  }
+}
