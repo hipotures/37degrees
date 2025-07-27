@@ -1,0 +1,62 @@
+{
+  "session_id": "ce52af78-3d0b-4820-934c-a3168f2187ce",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ce52af78-3d0b-4820-934c-a3168f2187ce.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "sex work stigma 2024 2025 Gen Z perspectives women autonomy OnlyFans social media"
+  },
+  "tool_response": {
+    "query": "sex work stigma 2024 2025 Gen Z perspectives women autonomy OnlyFans social media",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01Ny1Z2CjJnexwzSxAVhLaEa",
+        "content": [
+          {
+            "title": "Is OnlyFans affecting Gen Z's view of intimacy?",
+            "url": "https://swlondoner.shorthandstories.com/is-onlyfans-affecting-gen-zs-view-of-intimacy/"
+          },
+          {
+            "title": "Stigma, Agency, and \"Whorearchy\": a Post-feminism Neoliberal Discourse Analysis of Sex Work in the Era of OnlyFans - Exploratio Journal",
+            "url": "https://exploratiojournal.com/stigma-agency-and-whorearchy-a-post-feminism-neoliberal-discourse-analysis-of-sex-work-in-the-era-of-onlyfans/"
+          },
+          {
+            "title": "These Gen Z Women Think Sex Positivity Is Overrated",
+            "url": "https://www.buzzfeednews.com/article/madeleineholden/gen-z-sex-positivity"
+          },
+          {
+            "title": "Sex Work, OnlyFans, and Celebrity Participation",
+            "url": "https://journals.tulane.edu/ncs/article/view/3661/3442"
+          },
+          {
+            "title": "Avoidance and empowerment: How do sex workers navigate stigma? - Toni Daniel, Jessica Lamb, Christine Campbell, 2025",
+            "url": "https://journals.sagepub.com/doi/full/10.1177/13634607231201736"
+          },
+          {
+            "title": "(PDF) Revolutionising digital sex work: an analysis of the impact of OnlyFans on sex workers",
+            "url": "https://www.researchgate.net/publication/353236967_Revolutionising_digital_sex_work_an_analysis_of_the_impact_of_OnlyFans_on_sex_workers"
+          },
+          {
+            "title": "Gen Z Men Are Turning Against Porn - Newsweek",
+            "url": "https://www.newsweek.com/gen-z-men-turning-against-porn-conservative-rise-young-people-2097714"
+          },
+          {
+            "title": "Eckburg: Gen Z legitimizes sex work, so what gives, OnlyFans? \u2013 The Rocky Mountain Collegian",
+            "url": "https://collegian.com/articles/opinion/2021/08/category-opinion-eckburg-gen-z-legitimizes-sex-work-so-what-gives-onlyfans/"
+          },
+          {
+            "title": "Learning on OnlyFans: User Perspectives on Knowledge and Skills Acquired on the Platform - PMC",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9838472/"
+          },
+          {
+            "title": "\u201cNudes? Shouldn't I charge for these?\u201d: Motivations of New Sexual Content Creators on OnlyFans",
+            "url": "https://dl.acm.org/doi/fullHtml/10.1145/3544548.3580730"
+          }
+        ]
+      },
+      "Based on the web search results, I found several insights about sex work stigma, Gen Z perspectives, women's autonomy, and OnlyFans in 2024-2025. Here's what the research reveals:\n\n## Gen Z Perspectives on Sex Work and OnlyFans\n\nGen Z was divided when asked if OnlyFans is a genuine platform of liberation or a distorted illusion of bodily autonomy.(no content)Some Gen Zs see OnlyFans as an empowering platform for financial independence, while others argue it commodifies intimacy in a way that could have long-term consequences.(no content)Gen Z is hugely responsible for challenging the stigma surrounding sex work, and the internet has played a role in facilitating this move into normalcy. OnlyFans, naturally, was a key component in the movement to legitimize sex work due to its recognition and acceptance of all creators, regardless of content.\n\n## Women's Autonomy and Agency Debates\n\nThe research reveals complex perspectives on autonomy in sex work. Mizy separates OnlyFans from mainstream platforms like Pornhub, perceiving it as a space for creators to exercise agency and empowerment. With an academic background in gender studies, he resists framing sex work and OnlyFans as solely either empowering or exploitative of women's bodies.\n\nHowever, there are opposing views. One perspective emphasized: \"You can say, bodily autonomy is my own decision. But at the end of the day, you're still having to use your body to get something from a man.\"\n\n## Platform Benefits and Concerns\n\nOnlyFans revolutionized the sex work industry by elevating anonymity and safety, as well as granting sex workers autonomy over pricing and content creation.(no content)Participants considered creating on OnlyFans preferable to other gig work because of the platform's affordances: a lack of rating of creators, ease of blocking harassing subscribers, and autonomy over what content to create and how to construct their business model.\n\n## Stigma Research Findings\n\nMany participants talked about how, rather than trying to avoid stigma, they resisted it and even experienced positive repercussions as a result of their profession. There is a prominent narrative which paints sex workers as vulnerable, disempowered women, and yet, participants such as Irish perceived their clients to be hierarchically below them.(no content)OnlyFans' unique position between digital sex work and social media, along with the cultural assimilation of the platform have decreased the stigma associated with joining the platform, resulting in a particularly large user base.\n\n## Current Demographics and Usage\n\nIn 2024, the digital platform had 305 million registered users worldwide and 4.11 million creators. The platform is most popular among millennials and Gen Z. Most OnlyFans users are young people between 18 and 34, making up 60% of the overall.\n\nThe research shows that while Gen Z has been instrumental in reducing sex work stigma and normalizing platforms like OnlyFans, there remain significant debates about autonomy, empowerment, and the long-term societal impacts of digital sex work platforms."
+    ],
+    "durationSeconds": 23.997823417000006
+  }
+}

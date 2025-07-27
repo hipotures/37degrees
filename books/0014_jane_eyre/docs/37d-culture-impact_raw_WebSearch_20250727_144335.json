@@ -1,0 +1,62 @@
+{
+  "session_id": "b0f41138-72f1-43cb-917b-54ebecc8e541",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b0f41138-72f1-43cb-917b-54ebecc8e541.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Jane Eyre\" global translations international adaptations worldwide recognition bestseller statistics"
+  },
+  "tool_response": {
+    "query": "\"Jane Eyre\" global translations international adaptations worldwide recognition bestseller statistics",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_012cqme8gdGqNVyZQuDwdVUh",
+        "content": [
+          {
+            "title": "Jane Eyre translated: 57 languages show how different cultures interpret Charlotte Bront\u00eb\u2019s classic novel",
+            "url": "https://theconversation.com/jane-eyre-translated-57-languages-show-how-different-cultures-interpret-charlotte-brontes-classic-novel-124128"
+          },
+          {
+            "title": "Prismatic Jane Eyre - List of Translations",
+            "url": "https://books.openbookpublishers.com/10.11647/obp.0319/translations.xhtml"
+          },
+          {
+            "title": "\"An Ideal Lady\": translation reinvents Jane Eyre in over 60 languages | Center for the Art of Translation | Two Lines Press",
+            "url": "https://www.catranslation.org/feature/an-ideal-lady-translation-reinvents-jane-eyre-in-over-60-languages/"
+          },
+          {
+            "title": "Jane Eyre translated: 57 languages show how different cultures interpret Charlotte Bront\u00eb\u2019s classic novel | Faculty of English",
+            "url": "https://www.english.ox.ac.uk/article/jane-eyre-translated-57-languages-show-how-different-cultures-interpret-charlotte-brontes-cl"
+          },
+          {
+            "title": "Intersectionality in Jane Eyre and its Adaptations",
+            "url": "https://scholarworks.uark.edu/cgi/viewcontent.cgi?article=2104&context=etd"
+          },
+          {
+            "title": "Mapping translation \u2013 on the trail of Jane Eyre | Creative Multilingualism",
+            "url": "https://www.creativeml.ox.ac.uk/blog/exploring-multilingualism/mapping-translation-trail-jane-eyre/"
+          },
+          {
+            "title": "Jane Eyre translated: 57 languages show how different cultures interpret Charlotte Bront\u00eb\u2019s classic novel | TORCH | The Oxford Research Centre in the Humanities",
+            "url": "https://www.torch.ox.ac.uk/article/jane-eyre-translated-57-languages-show-how-different-cultures-interpret-charlotte-brontes-cl"
+          },
+          {
+            "title": "594 Ways of Reading Jane Eyre | Poets & Writers",
+            "url": "https://www.pw.org/content/594_ways_of_reading_jane_eyre"
+          },
+          {
+            "title": "Mapping and Reading a World of Translations: Prismatic Jane Eyre | Modern Languages Open",
+            "url": "https://modernlanguagesopen.org/articles/10.3828/mlo.v0i0.375"
+          },
+          {
+            "title": "The radical power of \u201cJane Eyre,\u201d according to 57 translations from across the world",
+            "url": "https://tech.yahoo.com/business/articles/radical-power-jane-eyre-according-090024170.html"
+          }
+        ]
+      },
+      "Based on the search results, here's what I found about Jane Eyre's global translations, international adaptations, and worldwide recognition:\n\n## Global Translation Statistics\n\nJane Eyre has been translated into at least 57 languages, at least 593 times. According to more recent research from the Prismatic Jane Eyre project at Oxford University, the novel has been translated close to 600 times, by hundreds of translators, into more than 60 languages.\n\n## Early International Recognition\n\nThe novel was an instant bestseller from the moment of its publication in 1847 and its popularity has only increased in line with the number of languages into which it has been translated.(no content)Just three years after Bront\u00eb published the novel in 1847, people were reading a Russian translation in St. Petersburg and a Spanish one in Havana.\n\n## Regional Translation Patterns\n\nThe novel's global reach is remarkable:\n\n- **China**: Although the first Chinese translation was not published until 1935, since then there have been as many as 40 further translations. Despite being banned from 1950-1970, today there are at least five popular translations in circulation in mainland China and a further two or more in Taiwan.(no content)Jane Eyre is taught in Chinese schools and was voted one of the top 50 books in the world by the people of China in 1999.\n\n- **Iran**: In Iran there have been 29 translations of Jane Eyre since 1980.(no content)Jane Eyre was translated into Persian thirty times after 1950.\n\n- **Asia**: There are translations available in eight Indian languages (Assamese, Bengali, Gujarati, Hindi, Malayalam, Punjabi, Sinhalese and Tamil) and six South-East Asian ones (Burmese, Indonesian, Malay and Tagalog, Thai and Vietnamese).\n\n## International Adaptations\n\nTo date, there have been not only theatrical, musical, operatic and film interpretations (in multiple languages) but also a ballet and manga version.(no content)Jane Eyre has been widely adapted into films, tv shows, and plays, and it's also inspired other novels.\n\n## Cultural Impact and Recognition\n\nWhat was a thoroughly English book has become a multilingual, ever-changing global text continually putting down roots in different cultures. The novel's global significance is demonstrated by unique examples like when Korean is taught in a school in Vietnam, a translation of Jane Eyre is on the syllabus, as an example of Korean literature.\n\nThe translations reveal fascinating cultural adaptations, from title changes like the Chinese \"Jianai\" meaning both \"Jane Eyre\" and \"simple love\" to variations in how different cultures interpret key passages, showing the novel's enduring global relevance and adaptability across cultures."
+    ],
+    "durationSeconds": 25.636702733000273
+  }
+}

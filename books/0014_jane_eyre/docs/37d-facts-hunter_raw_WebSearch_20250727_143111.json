@@ -1,0 +1,62 @@
+{
+  "session_id": "b0f41138-72f1-43cb-917b-54ebecc8e541",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b0f41138-72f1-43cb-917b-54ebecc8e541.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Jane Eyre Charlotte Bront\u00eb publishing scandal controversy Victorian reception pseudonym Currer Bell"
+  },
+  "tool_response": {
+    "query": "Jane Eyre Charlotte Bront\u00eb publishing scandal controversy Victorian reception pseudonym Currer Bell",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01PrHLxF4g4w3wmM7GoGDq9L",
+        "content": [
+          {
+            "title": "Charlotte Bront\u00eb - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Charlotte_Bront%C3%AB"
+          },
+          {
+            "title": "Charlotte Bronte | Biography, Books, Novels, Jane Eyre, & Facts | Britannica",
+            "url": "https://www.britannica.com/biography/Charlotte-Bronte"
+          },
+          {
+            "title": "\u201cOut of obscurity I came \u2013 to obscurity I can easily return\u201d: Charlotte Bront\u00eb, Currer Bell and Jane Eyre \u2013 National Library of Scotland Blog",
+            "url": "https://blog.nls.uk/out-of-obscurity-i-came-to-obscurity-i-can-easily-return-charlotte-bronte-currer-bell-and-jane-eyre/"
+          },
+          {
+            "title": "Charlotte Bront\u00eb's \u201cJane Eyre\u201d is published in London | October 19, 1847 | HISTORY",
+            "url": "https://www.history.com/this-day-in-history/october-19/jane-eyre-is-published"
+          },
+          {
+            "title": "Jane Eyre - Wikipedia",
+            "url": "https://en.m.wikipedia.org/wiki/Jane_Eyre"
+          },
+          {
+            "title": "When Currer Bell Became Charlotte Bront\u00eb \u2013 Anne Bront\u00eb",
+            "url": "http://www.annebronte.org/2022/02/06/when-currer-bell-became-charlotte-bronte/"
+          },
+          {
+            "title": "\u2018Currer Bell\u2019: Jane Eyre\u2019s Alternative Proper Name: Bront\u00eb Studies: Vol 46 , No 1 - Get Access",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/14748932.2021.1835064"
+          },
+          {
+            "title": "Charlotte Bront\u00eb's Novels: Jane Eyre, Shirley, Villette & The Professor",
+            "url": "https://www.literaryladiesguide.com/book-description/charlotte-brontes-novels-jane-eyre-shirley-villette-the-professor/"
+          },
+          {
+            "title": "Women Writers Who Used Male Pen Names #InternationalWomensDay #WWWBlogs \u2013 Rereading Jane Eyre",
+            "url": "https://lucciagray.com/2017/03/08/women-writers-who-used-male-pen-names-internationalwomensday-wwwblogs/"
+          },
+          {
+            "title": "The Life of 'Currer Bell' | Victorian Women Writers & Celebrity",
+            "url": "https://victorianwomencelebrities.wordpress.com/2014/09/22/the-life-of-currer-bell/"
+          }
+        ]
+      },
+      "Based on my search results, I can provide you with comprehensive information about the publishing scandal and controversy surrounding Charlotte Bront\u00eb's *Jane Eyre* and her use of the pseudonym Currer Bell:\n\n## The Pseudonym Strategy\n\nThe Bront\u00eb sisters adopted the pseudonyms Currer, Ellis, and Acton Bell to \"preserve secrecy and avoid the special treatment that they believed reviewers accorded to women.\"(no content)Charlotte explained their reasoning: \"Adverse to personal publicity, we veiled our own names under those of Currer, Ellis, and Acton Bell; the ambiguous choice being dictated by a sort of conscientious scruple at assuming Christian names positively masculine, while we did not like to declare ourselves women.\"\n\n## Publication and Initial Reception\n\n*Jane Eyre* was published on October 19, 1847, by Smith, Elder & Co. under the pseudonym Currer Bell.(no content)The book was \"an immediate popular success\" and \"set off a frenzy of speculation as to the true identity of its author.\"\n\n## The Controversy and Scandal\n\nThe novel generated significant controversy for several reasons:\n\n### Gender Speculation\nCritics speculated intensely about whether Currer Bell was \"a man or 'a very coarse woman'\" and whether the novel \"was written by a woman.\"(no content)The controversy \"was fueled by critics and the public suspecting that 'Currer Bell' (the author's ambiguous pseudonym) was a woman.\"\n\n### Critical Attacks\nElizabeth Rigby (later Lady Eastlake) was commissioned to review *Jane Eyre* for the influential *Quarterly Review*, and \"in her infamous 1848 review she claimed it was a dangerous book, with an unrepentant and rebellious heroine.\"\n\n## Identity Revelation\n\nThe sisters' true identities were revealed in 1848 when Charlotte and Anne traveled to London to convince their publisher George Murray Smith that there were three Bell siblings, confiding to Smith that they were Currer and Acton Bell.(no content)Charlotte also accidentally revealed Emily's identity to Smith, despite having been sworn to keep it a secret.\n\n## Local Discovery\nThe secret was also discovered locally in Yorkshire when Charlotte's second novel *Shirley* contained \"thinly disguised portraits of local people,\" leading book lovers in the area to conclude \"that the bookish daughter of the curate of Haworth had to be the author.\"\n\n## Lasting Impact\nAlthough Charlotte revealed the Bell siblings' identities in later prefaces, \"she maintained the pen name Currer Bell until her final novel 'Villette' in 1853.\" The pseudonym strategy and the resulting controversy helped establish the novel's revolutionary impact on Victorian literature and women's writing."
+    ],
+    "durationSeconds": 24.962302017999814
+  }
+}

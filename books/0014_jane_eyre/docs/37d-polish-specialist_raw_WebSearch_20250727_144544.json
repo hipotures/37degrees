@@ -1,0 +1,62 @@
+{
+  "session_id": "b0f41138-72f1-43cb-917b-54ebecc8e541",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b0f41138-72f1-43cb-917b-54ebecc8e541.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Jane Eyre Polish translation history \"Charlotte Bront\u00eb\" polski przek\u0142ad t\u0142umaczenie"
+  },
+  "tool_response": {
+    "query": "Jane Eyre Polish translation history \"Charlotte Bront\u00eb\" polski przek\u0142ad t\u0142umaczenie",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01A8zyDAQSDDPZJgGDB6xxDU",
+        "content": [
+          {
+            "title": "(PDF) A controversial translation justified by the context: \"Janina,\" the first Polish version of Charlotte Bront\u00eb\u2019s \"Jane Eyre\" | Dagmara Hadyna - Academia.edu",
+            "url": "https://www.academia.edu/4019388/A_controversial_translation_justified_by_the_context_Janina_the_first_Polish_version_of_Charlotte_Bront%C3%AB_s_Jane_Eyre_"
+          },
+          {
+            "title": "(PDF) The evolution of translation standards as illustrated by the history of Polish translations of Jane Eyre by Charlotte Bront\u00eb | Monika Roszkowska - Academia.edu",
+            "url": "https://www.academia.edu/67437591/The_evolution_of_translation_standards_as_illustrated_by_the_history_of_Polish_translations_of_Jane_Eyre_by_Charlotte_Bront%C3%AB"
+          },
+          {
+            "title": "A controversial translation justified by the context: Janina, the first Polish version of Charlotte Bront\u00eb\u2019s Jane Eyre",
+            "url": "https://ruj.uj.edu.pl/xmlui/handle/item/187541"
+          },
+          {
+            "title": "(PDF) The evolution of translation standards as illustrated by the history of Polish translations of Jane Eyre by Charlotte Bront\u00eb",
+            "url": "https://www.academia.edu/86777208/The_evolution_of_translation_standards_as_illustrated_by_the_history_of_Polish_translations_of_Jane_Eyre_by_Charlotte_Bront%C3%AB"
+          },
+          {
+            "title": "The evolution of translation standards as illustrated by the history of Polish translations of Jane Eyre by Charlotte Bront\u00eb",
+            "url": "https://czasopisma.filologia.uwb.edu.pl/index.php/c/article/view/683"
+          },
+          {
+            "title": "A Relayed Translation. Looking for the Source Text of the First Polish Translation of Charlotte Bront\u00eb\u2019s Jane Eyre",
+            "url": "https://ejournals.eu/czasopismo/studia-litteraria-uic/artykul/a-relayed-translation-looking-for-the-source-text-of-the-first-polish-translation-of-charlotte-brontes-jane-eyre"
+          },
+          {
+            "title": "Teresa \u015awiderska \u2013 Prismatic Jane Eyre",
+            "url": "https://prismaticjaneeyre.org/teresa-swiderska/"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre: Charlotte Bronte: 9788373370265: Amazon.com: Books",
+            "url": "https://www.amazon.com/Dziwne-losy-Jane-Eyre-Polish/dp/8373370269"
+          },
+          {
+            "title": "Zofia Sawicka, a.k.a. Zofja Sawicka \u2013 Prismatic Jane Eyre",
+            "url": "https://prismaticjaneeyre.org/zofia-sawicka-a-k-a-zofja-sawicka/"
+          },
+          {
+            "title": "Amazon.com: Jane Eyre Autobiografia (Polish Edition): 9788377791448: Bronte, Charlotte: Books",
+            "url": "https://www.amazon.com/Jane-Autobiografia-Polish-Charlotte-Bronte/dp/8377791447"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with detailed information about the Polish translation history of Charlotte Bront\u00eb's \"Jane Eyre\":\n\n## First Polish Translation (1880-1881)\n\nThe first Polish translation of Charlotte Bront\u00eb's Jane Eyre was published between 1880-1881, exactly 33 years after the original novel came out, under the title \"Janina. Powie\u015b\u0107 z angielskiego\" (\"Janina. A novel from English\") as a supplement to the weekly periodical Tydzie\u0144 (\"The Week\"). This translation was done by Emilia Dobrza\u0144ska and over the years became obsolete and was forgotten.\n\nThis translation was extremely abridged - less than half of the original's length - and abundant with misinterpretations, mistranslations and errors, including probable mistakes made by typesetters or editors. The earliest translation is more of an adaptation than a faithful rendering; it also makes frequent use of domestication (e.g. most proper names are translated into Polish).\n\n## Subsequent Translations\n\nThe search results reveal that there have been multiple Polish translations over time:\n\n1. **Zofia Sawicka's translation (1921)** - Polish novelist, translator, compiler and editor of children's literature active during the Interwar period\n\n2. **Teresa \u015awiderska's translation (1930)** - A Polish translator from English and author of children's literature\n\n3. **Gabriela Jaworska's translation (2007)** - The most recent major translation\n\n## Evolution of Translation Standards\n\nResearch shows the evolution of translation standards through these three Polish translations: Emilia Dobrza\u0144ska's version (1880-1881), Teresa \u015awiderska's translation (1930), and Gabriela Jaworska's (2007). Analyzing the translators' strategies elucidates a shift from free, subjective adaptation to more faithful translations, alongside a movement from domestication to foreignization, reflecting broader trends in translation theory.\n\n## Academic Research\n\nThere has been significant scholarly interest in the Polish translation history of Jane Eyre, with multiple academic papers examining the most characteristic changes in translation standards which have occurred since the late 19th century, examining the strategies used by three Polish translators of Jane Eyre by Charlotte Bront\u00eb.\n\nThe translation history demonstrates how approaches to literary translation have evolved from heavily adapted versions to more faithful renderings that preserve the original's cultural context."
+    ],
+    "durationSeconds": 20.24043022800004
+  }
+}

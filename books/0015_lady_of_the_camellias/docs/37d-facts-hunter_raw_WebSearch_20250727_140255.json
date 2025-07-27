@@ -1,0 +1,108 @@
+{
+  "session_id": "ce52af78-3d0b-4820-934c-a3168f2187ce",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ce52af78-3d0b-4820-934c-a3168f2187ce.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Pretty Woman\" trope modern media teenagers impossible love class differences 2024"
+  },
+  "tool_response": {
+    "query": "\"Pretty Woman\" trope modern media teenagers impossible love class differences 2024",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01F1rHJfUtivv6CEkDyknCPG",
+        "content": [
+          {
+            "title": "Pretty Woman (Film) - TV Tropes",
+            "url": "https://tvtropes.org/pmwiki/pmwiki.php/Film/PrettyWoman"
+          },
+          {
+            "title": "\u201cGood Girl\u201d Turns Dateable: The Movie Makeover Trope",
+            "url": "https://stuyspec.com/article/good-girl-turns-dateable-the-movie-makeover-trope"
+          },
+          {
+            "title": "Pretty Woman - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pretty_Woman"
+          },
+          {
+            "title": "30 Best Movies to Watch If You Love the Fake Dating Trope, Ranked",
+            "url": "https://collider.com/best-fake-dating-movies-ranked/"
+          },
+          {
+            "title": "30 Years Later, \"Pretty Woman\" Is So Much More Than A Guilty Pleasure",
+            "url": "https://www.refinery29.com/en-us/2018/07/203053/pretty-woman-modern-review-julia-roberts-richard-gere"
+          },
+          {
+            "title": "\u00bb Know Your Rom-Coms: 6 Tropes of the Genre\u2019s Golden Age",
+            "url": "https://grantland.com/hollywood-prospectus/know-your-rom-coms-6-tropes-of-the-genres-golden-age/"
+          },
+          {
+            "title": "YMMV / Pretty Woman - TV Tropes",
+            "url": "https://tvtropes.org/pmwiki/pmwiki.php/YMMV/PrettyWoman"
+          },
+          {
+            "title": "I've Seen More Rom-Coms Than The Average Movie-Goer And Here's My Ranking Of Their Overused Tropes",
+            "url": "https://www.buzzfeed.com/alysaurus688/common-rom-com-tropes-ranked"
+          },
+          {
+            "title": "Ranking tropes that happen in nearly every rom-com (but almost never in real life)",
+            "url": "https://www.deseret.com/entertainment/23844665/rom-com-tropes/"
+          },
+          {
+            "title": "Pretty Woman Trivia - TV Tropes",
+            "url": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/PrettyWoman"
+          }
+        ]
+      },
+      "The search results provide insight into the \"Pretty Woman\" trope and its presence in modern media, though specific examples focused on teenagers and 2024 content are limited. Let me search for more specific information about recent teenage media featuring class differences and impossible love.",
+      {
+        "tool_use_id": "srvtoolu_01VvUiGShY7pLUDtERM1fFom",
+        "content": [
+          {
+            "title": "The Best Movies Where Social Class and Wealth Serve as a Barrier to Love",
+            "url": "https://movieweb.com/romance-movies-social-class/"
+          },
+          {
+            "title": "Class differences movies | Best and New films",
+            "url": "https://bestsimilar.com/tag/5962-class-differences"
+          },
+          {
+            "title": "Best Teen Movies of 2024",
+            "url": "https://www.imdb.com/list/ls590411493/"
+          },
+          {
+            "title": "Best Movies About Teenagers of 2024",
+            "url": "https://bestsimilar.com/top/best-movies-about-teenagers-of-2024"
+          },
+          {
+            "title": "2024 Teenage Romantic Movies",
+            "url": "https://www.tiktok.com/discover/2024-teenage-romantic-movies?lang=en"
+          },
+          {
+            "title": "Did you see your fav ?? #movie #movie #highschool #foryoupag\u0435 #workit #movierecommendation #netflixx movies recommendations\n movies to watch 2024\n movies to watch on netflix\n movies you can't watch with your parents\n movies to watch on youtube\n movies to watch on movie box 2024\n movies on tiktok\n movies must watch\n movies like crazy rich asians movies for teenage to watch\n movies for teenage on netflix\n best teenage movies to watch\n best movies for teenage\n movies for teenage life\n movies for teenage 2024\n movies for teenage on netflix 2024\n movies for teenage couples\n movies for teenage school\n movies for teenage drama | TikTok",
+            "url": "https://www.tiktok.com/@favysedit/video/7451716932686007557"
+          },
+          {
+            "title": "Romantic Teenage Movies 2024",
+            "url": "https://www.tiktok.com/discover/romantic-teenage-movies-2024"
+          },
+          {
+            "title": "Allow the 18 Best Romance Movies of the Year So Far to Sweep You Off Your Feet",
+            "url": "https://www.marieclaire.com/culture/movies/best-romance-movies-2025/"
+          },
+          {
+            "title": "Rich man poor woman movies | Best and New films",
+            "url": "https://bestsimilar.com/tag/11208-rich-man-poor-woman"
+          },
+          {
+            "title": "Best High School Romance Movie to Watch in 2024",
+            "url": "https://www.tiktok.com/discover/best-high-school-romance-movie-to-watch-in-2024"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with insights about the \"Pretty Woman\" trope and its presence in modern media featuring teenagers and class differences. Here's what I found:\n\n## The \"Pretty Woman\" Trope in Modern Media\n\nThe \"Pretty Woman\" trope, characterized by cross-class romance where love transcends socioeconomic barriers, continues to be prevalent in modern media, including content targeting teenage audiences.\n\n### Core Elements of the Trope\n\nThe classic \"Pretty Woman\" narrative features transformations that \"promote a sexist and classist idea of beauty, declaring that the only way a woman can be respected in this world is by wearing overpriced designer clothing.\"(no content)Originally conceived as \"a dark cautionary tale about class and prostitution in Los Angeles,\" the story was \"re-conceived as a romantic comedy.\"\n\n### Modern Adaptations and Criticism\n\nContemporary media continues to utilize this trope, though with varying degrees of sophistication. The original film created \"the impression that expensive beauty equates admiration,\" which modern critics argue is problematic. However, more recent films like \"10 Things I Hate About You\" (1999) and \"Juno\" (2007) show \"character development without confining a woman's worth to her appearance,\" where characters \"don't have to mask their intelligence or assertiveness to become more approachable to men.\"\n\n### 2024 Teen Media Examples\n\nIn 2024 teen media, films continue to explore \"teen romance, class differences, teenager, friendship, love\" themes.(no content)Recent examples include stories where characters \"have been in love since they were teenagers, but thought they could never bridge the good-girl/bad-boy divide.\"\n\n### Ongoing Relevance\n\nThe trope appears in various forms across movies like \"The Prince and Me, The Christmas Prince, Pretty Woman, Maid in Manhattan, The Cinderella Story series,\" with modern versions showing that \"movies with this trope no longer have the makeover, but rather the 'popular' character just falls for the 'unpopular' character for their charming personality.\"\n\nThe \"Pretty Woman\" trope remains a compelling narrative device in 2024, though creators are increasingly aware of its problematic elements and are working to subvert or modernize the formula to be more empowering and less dependent on superficial transformations."
+    ],
+    "durationSeconds": 25.373340178999992
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "session_id": "b0f41138-72f1-43cb-917b-54ebecc8e541",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b0f41138-72f1-43cb-917b-54ebecc8e541.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Jane Eyre\" \"Charlotte Bront\u00eb\" szko\u0142a podstawowa liceum lektura obowi\u0105zkowa matura"
+  },
+  "tool_response": {
+    "query": "\"Jane Eyre\" \"Charlotte Bront\u00eb\" szko\u0142a podstawowa liceum lektura obowi\u0105zkowa matura",
+    "results": [
+      "I'll perform a web search for that query about Jane Eyre as required reading in Polish schools.",
+      {
+        "tool_use_id": "srvtoolu_01PJSodVYRZPnKisjs18dcoL",
+        "content": [
+          {
+            "title": "Dziwne losy Jane Eyre",
+            "url": "https://wolnelektury.pl/katalog/lektura/bronte-dziwne-losy-jane-eyre/"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre Charlotte Bront\u00eb ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/dziwne-losy-jane-eyre-charlotte-bronte"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre - Charlotte Bront\u00eb | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/4968674/dziwne-losy-jane-eyre"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Dziwne_losy_Jane_Eyre"
+          },
+          {
+            "title": "\u201eDziwne losy Jane Eyre\u201d Charlotte Bront\u00eb na Wolnych Lekturach",
+            "url": "https://fundacja.wolnelektury.pl/2023/09/28/dziwne-losy-jane-eyre-charlotte-bronte-na-wolnych-lekturach/"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre. Ekskluzywna kolekcja klasyki (Charlotte Bront\u00eb) ksi\u0105\u017cka w ksi\u0119garni TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/dziwne-losy-jane-eyre-ekskluzywna-kolekcja-klasyki-charlotte-bronte-p-1481058.html"
+          },
+          {
+            "title": "Natasza Szutta: Jane Eyre i jej trudny wyb\u00f3r - Filozofuj!",
+            "url": "https://filozofuj.eu/natasza-szutta-jane-eyre-i-jej-trudny-wybor/"
+          },
+          {
+            "title": "\u201eDziwne losy Jane Eyre\u201d Charlotte Bront\u00eb",
+            "url": "https://www.kulturatka.pl/2021/07/30/dziwne-losy-jane-eyre-charlotte-bronte/"
+          },
+          {
+            "title": "Charlotte Bront\u00eb i \"Dziwne losy Jane Eyre\" - Historia - PR24.PL",
+            "url": "https://polskieradio24.pl/artykul/2719002,charlotte-bronte-i-dziwne-losy-jane-eyre"
+          },
+          {
+            "title": "Charlotte Bront\u00eb \u2013 Jane Eyre \u2013 Statek G\u0142upc\u00f3w",
+            "url": "https://statekglupcow.pl/2021/11/11/charlotte-bronte-jane-eyre/"
+          }
+        ]
+      },
+      "Based on the search results, I can see information about \"Jane Eyre\" by Charlotte Bront\u00eb in Polish contexts, but the results don't specifically mention it as required reading (lektura obowi\u0105zkowa) for Polish elementary schools (szko\u0142a podstawowa), high schools (liceum), or for the matura exam. Let me search more specifically for information about this book's status in Polish school curricula.",
+      {
+        "tool_use_id": "srvtoolu_011cfycKwGyWUkdXG7sm4nL1",
+        "content": [
+          {
+            "title": "Dziwne losy Jane Eyre",
+            "url": "https://wolnelektury.pl/katalog/lektura/bronte-dziwne-losy-jane-eyre/"
+          },
+          {
+            "title": "Lista lektur szkolnych 2024/2025 \u2013 Lektury do szko\u0142y podstawowej 2024/2025 i lektury do liceum 2024/2025",
+            "url": "https://www.listalektur.pl/"
+          },
+          {
+            "title": "Lektury.gov.pl",
+            "url": "https://lektury.gov.pl/"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre - Charlotte Bront\u00eb | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/4968674/dziwne-losy-jane-eyre"
+          },
+          {
+            "title": "Jane Eyre po angielsku wersja uproszczona B1 dla m\u0142odzie\u017cy +audio",
+            "url": "https://www.ettoi.pl/jane-eyre-audio-mp3-9788853607935-p-2500.html"
+          },
+          {
+            "title": "Wykaz lektur - O\u015brodek Rozwoju Polskiej Edukacji za Granic\u0105",
+            "url": "https://www.orpeg.pl/ksztalcenie-na-odleglosc/szkola-podstawowa/wykaz-lektur/"
+          },
+          {
+            "title": "\u201eDziwne losy Jane Eyre\u201d Charlotte Bront\u00eb na Wolnych Lekturach",
+            "url": "https://fundacja.wolnelektury.pl/2023/09/28/dziwne-losy-jane-eyre-charlotte-bronte-na-wolnych-lekturach/"
+          },
+          {
+            "title": "Spis lektur | Szko\u0142a Podstawowa im. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego w Nawojowej G\u00f3rze",
+            "url": "https://spnawojowa.edupage.org/a/spis-lektur"
+          },
+          {
+            "title": "Zmiany w kanonie lektur \u2013 rozporz\u0105dzenie podpisane",
+            "url": "https://www.gov.pl/web/edukacja-i-nauka/zmiany-w-kanonie-lektur--rozporzadzenie-podpisane"
+          },
+          {
+            "title": "Ore",
+            "url": "https://ore.edu.pl/wp-content/uploads/2021/09/znowelizowana-lista-lektur-w-podstawie-programowej-sp-1.pdf"
+          }
+        ]
+      },
+      "Let me search more specifically for information about Jane Eyre in Polish high school curricula and matura requirements.",
+      {
+        "tool_use_id": "srvtoolu_01NxX1vMgXgN78ehrzNkWbtg",
+        "content": [
+          {
+            "title": "Dziwne losy Jane Eyre",
+            "url": "https://wolnelektury.pl/katalog/lektura/bronte-dziwne-losy-jane-eyre/"
+          },
+          {
+            "title": "Lektury obowi\u0105zkowe \u2013 j\u0119zyk polski (matura 2023 i 2024)",
+            "url": "https://www.staszic.edu.pl/wp-content/uploads/2022/09/Lista-lektur-obowi\u0105zkowych-j\u0119zyk-polski-matura-2023-i-2024.pdf"
+          },
+          {
+            "title": "LISTA LEKTUR obowi\u0105zkowych CKE | Matura 2025",
+            "url": "https://www.otouczelnie.pl/matura/lista-lektur"
+          },
+          {
+            "title": "CKE wykaz lektur matura 2024-2025: Lista lektur obowi\u0105zkowych i epoki (J\u0119zyk polski) - Knowunity",
+            "url": "https://knowunity.pl/knows/jzyk-polski-lista-lektur-obowizkowych-poziom-podstawowy-matura-202324-850514db-3ebc-43fd-b580-b12fd4762f63"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre - Charlotte Bront\u00eb | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/4968674/dziwne-losy-jane-eyre"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre Charlotte Bront\u00eb ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/dziwne-losy-jane-eyre-charlotte-bronte?msockid=233f7abe36ce628501946f7a37e963d1"
+          },
+          {
+            "title": "Matura 2025 - lektury obowi\u0105zkowe (pe\u0142na lista) - Baba od polskiego",
+            "url": "https://babaodpolskiego.pl/lektury-obowiazkowe-matura-2024/"
+          },
+          {
+            "title": "Nowa lista lektur obowi\u0105zkowych \u2013 matura 2025 \u2013 j\u0119zyk polski \u2013 zmiana podstawy programowej - Baba od polskiego",
+            "url": "https://babaodpolskiego.pl/nowa-lista-lektur-obowiazkowych-matura-2025-jezyk-polski-zmiana-podstawy-programowej/"
+          },
+          {
+            "title": "Matura 2025: Lista lektur obowi\u0105zkowych z j\u0119zyka polskiego. Poziom podstawowy i rozszerzony - rp.pl",
+            "url": "https://edukacja.rp.pl/matura-i-egzamin-osmoklasisty/art41578691-lista-lektur-obowiazkowych-na-mature-2025-poziom-podstawowy-i-rozszerzony"
+          },
+          {
+            "title": "Matura 2024. Lektury obowi\u0105zkowe na egzaminie [LISTA] - Infor.pl",
+            "url": "https://www.infor.pl/prawo/dziecko-i-prawo/edukacja/6576855,matura-2024-lektury-obowiazkowe-na-egzaminie-lista.html"
+          }
+        ]
+      },
+      "Let me search for the specific official list of required readings for Polish matura 2025 to see if Jane Eyre is included.",
+      {
+        "tool_use_id": "srvtoolu_01CyYtDusGUNqii853jAVGXy",
+        "content": [
+          {
+            "title": "Rok szkolny 2024/2025 \u2013 CKE",
+            "url": "https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/harmonogram-komunikaty-i-informacje/rok-szkolny-2024-2025-2/"
+          },
+          {
+            "title": "Lista lektur obowi\u0105zkowych matura 2025 Polski",
+            "url": "https://setkazpolaka.pl/lista-lektur-obowiazkowych-matura-2025-polski/"
+          },
+          {
+            "title": "Matura 2025: Lista lektur obowi\u0105zkowych z j\u0119zyka polskiego. Poziom podstawowy i rozszerzony - rp.pl",
+            "url": "https://edukacja.rp.pl/matura-i-egzamin-osmoklasisty/art41578691-lista-lektur-obowiazkowych-na-mature-2025-poziom-podstawowy-i-rozszerzony"
+          },
+          {
+            "title": "Nowa lista lektur obowi\u0105zkowych \u2013 matura 2025 \u2013 j\u0119zyk polski \u2013 zmiana podstawy programowej - Baba od polskiego",
+            "url": "https://babaodpolskiego.pl/nowa-lista-lektur-obowiazkowych-matura-2025-jezyk-polski-zmiana-podstawy-programowej/"
+          },
+          {
+            "title": "Matura 2025. J\u0119zyk polski. Lista lektur, kt\u00f3re musisz zna\u0107. Wytyczne CKE - Dziennik.pl",
+            "url": "https://edukacja.dziennik.pl/matura/artykuly/9774193,matura-2025-jezyk-polski-lista-lektur-ktore-musisz-znac-wytyczne-c.html"
+          },
+          {
+            "title": "Matura 2025: CKE o zmianach na egzaminach z j\u0119zyka polskiego, matematyki, angielskiego (TERMINY MATUR)",
+            "url": "https://www.wroclaw.pl/dla-mieszkanca/matura-2025-cke-jezyk-polski-matematyka-angielski-terminy-zmiany-harmonogram"
+          },
+          {
+            "title": "Lista lektur na maturze 2025 podana przez CKE - lista lektur matura 2025, lektury obowi\u0105zkowe CKE, j\u0119zyk polski matura, spis lektur maturalnych - dlaMaturzysty",
+            "url": "https://maturzysta.dlastudenta.pl/artykul/Lista_lektur_na_maturze_2025_podana_przez_CKE,156547.html"
+          },
+          {
+            "title": "Cke",
+            "url": "https://bip.cke.gov.pl/attachments/download/9283"
+          },
+          {
+            "title": "Jakie b\u0119d\u0105 wymagania na maturze z j\u0119zyka polskiego w 2025 roku? Por\u00f3wnanie z 2024 | Nowa Era",
+            "url": "https://www.nowaera.pl/egzamin-maturalny-artykuly/jakie-beda-wymagania-na-maturze-z-jezyka-polskiego-w-2025-roku-porownanie-z-2024"
+          },
+          {
+            "title": "Matura 2025 - lektury obowi\u0105zkowe (pe\u0142na lista) - Baba od polskiego",
+            "url": "https://babaodpolskiego.pl/lektury-obowiazkowe-matura-2024/"
+          }
+        ]
+      },
+      "Based on my search results, I have found comprehensive information about \"Jane Eyre\" by Charlotte Bront\u00eb in Polish educational contexts. Let me provide you with what I discovered:\n\n## Search Results Summary\n\nThe search revealed extensive information about Charlotte Bront\u00eb's \"Jane Eyre\" (Polish title: \"Dziwne losy Jane Eyre\") in Polish educational materials and reading contexts, but **it does not appear to be included as required reading (lektura obowi\u0105zkowa) in current Polish school curricula for elementary schools (szko\u0142a podstawowa), high schools (liceum), or matura exams**.\n\n### Key Findings:\n\n**Availability and Recognition:**\n- The novel \"Jane Eyre: An Autobiography\" was published in 1847 under the pseudonym Currer Bell by English writer Charlotte Bront\u00eb\n- The book became a great literary success and gained a huge audience, and continues to enjoy popularity worldwide to this day\n- Jane Eyre's Strange Fortunes is now available on Wolne Lektury (Free Readings)\n\n**Educational Context:**\n- Some readers mentioned reading this book \"still in high school\"\n- The book appears in sections for \"Lektury szkolne - liceum i technikum\" (School readings - high school and technical school)\n\n**Current Matura 2025 Requirements:**\nBased on the official sources I found, the current list of required readings (lektury obowi\u0105zkowe) for Polish matura 2025 includes works by authors such as:\n- Bible fragments, Jan Parandowski's \"Mythology\"\n- Adam Mickiewicz's \"Dziady cz. III\" and \"Pan Tadeusz\"\n- George Orwell's \"1984\"\n- European realist or naturalist novels (Honor\u00e9 de Balzac's \"P\u00e8re Goriot\" or Charles Dickens' \"Pickwick Club\" or Nikolai Gogol's \"Dead Souls\" or Gustave Flaubert's \"Madame Bovary\")\n\n**Important Note:**\nThe list of required readings for matura 2025 includes 29 positions, and after changes to the curriculum, 34 positions remain on the list of required readings at the basic level. Jane Eyre is notably absent from these official lists.\n\nThe search results indicate that while \"Jane Eyre\" is available in Polish translation, is popular among readers, and appears in some school reading contexts, it is **not currently listed as required reading** (lektura obowi\u0105zkowa) for Polish elementary schools, high schools, or matura examinations based on the official CKE (Central Examination Commission) requirements for 2024-2025."
+    ],
+    "durationSeconds": 41.875570938999765
+  }
+}

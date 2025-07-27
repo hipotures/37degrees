@@ -1,0 +1,58 @@
+{
+  "session_id": "ce52af78-3d0b-4820-934c-a3168f2187ce",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ce52af78-3d0b-4820-934c-a3168f2187ce.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Lady of the Camellias\" modern adaptations contemporary film theater Moulin Rouge 2001 recent productions"
+  },
+  "tool_response": {
+    "query": "\"Lady of the Camellias\" modern adaptations contemporary film theater Moulin Rouge 2001 recent productions",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01PGXJRx7AhWdE39qU8a7Ucr",
+        "content": [
+          {
+            "title": "The Lady of the Camellias - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Lady_of_the_Camellias"
+          },
+          {
+            "title": "The Lady of the Camellias (1981 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Lady_of_the_Camellias_(1981_film)"
+          },
+          {
+            "title": "Moulin Rouge | Moulin Rouge Wiki | Fandom",
+            "url": "https://moulin-rouge.fandom.com/wiki/Moulin_Rouge"
+          },
+          {
+            "title": "How Marguerite and Armand inspired Moulin Rouge!",
+            "url": "https://australianballet.com.au/blog/how-marguerite-and-armand-inspired-moulin-rouge"
+          },
+          {
+            "title": "Some Notes on \u201cLa Dame aux Cam\u00e9lias\u201d | Notes On Whatever",
+            "url": "https://notesonwhatever.wordpress.com/2014/11/25/some-notes-on-la-dame-aux-camelias/"
+          },
+          {
+            "title": "Movie Review \u2013 Moulin Rouge! \u2013 Fernby Films",
+            "url": "https://www.fernbyfilms.com/2015/02/25/movie-review-moulin-rouge/"
+          },
+          {
+            "title": "Moulin Rouge! (Film) - TV Tropes",
+            "url": "https://tvtropes.org/pmwiki/pmwiki.php/Film/MoulinRouge"
+          },
+          {
+            "title": "Derek Deane's The Lady of the Camellias, performed by Shanghai Ballet - Queensland Ballet - Queensland Ballet",
+            "url": "https://www.queenslandballet.com.au/performances/2024/the-lady-of-the-camellias"
+          },
+          {
+            "title": "Camille (1921 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Camille_(1921_film)"
+          }
+        ]
+      },
+      "Based on the search results, I can provide comprehensive information about \"Lady of the Camellias\" modern adaptations and its connection to Moulin Rouge! (2001).\n\n## Connection to Moulin Rouge! (2001)\n\nThe storyline of Moulin Rouge can be traced back to Alexandre Dumas, fils' The Lady of the Camellias, although Luhrmann, as an opera director, was probably more directly influenced by Verdi's adaptation, La traviata.(no content)Baz Luhrmann's 2001 musical film, Moulin Rouge! takes inspiration from the tragic love affair.(no content)Courtesan Camille becomes Satine, played by Nicole Kidman and the young and impressionable writer Christian, played by Ewan McGregor is Luhrmann's take on Armand.\n\n## Recent Ballet Productions\n\nSeveral modern ballet adaptations continue to bring this story to contemporary audiences:\n\n- Lady of the Camellias is a ballet by John Neumeier with music by Fr\u00e9d\u00e9ric Chopin, created for Marcia Hayd\u00e9e, then prima ballerina of the Stuttgart Ballet. It premiered at the Staatstheater Stuttgart in 1978.\n\n- Lady of the Camellias is a ballet by Val Caniparoli with music by Fr\u00e9d\u00e9ric Chopin. It premiered with Ballet Florida at the Raymond Kravis Center in 1994.\n\n- Queensland Ballet is proud to present Derek Deane OBE's The Lady of the Camellias, performed by Shanghai Ballet, in a season exclusive to Brisbane in December 2024. Based on the landmark 1848 novel by French author Alexandre Dumas fils, this tale of forbidden love and tragedy has inspired countless stage, operatic and film productions, including the feature film and award-winning musical Moulin Rouge!, and Verdi's opera La Traviata.\n\n## Contemporary Adaptations and Productions\n\nThe story has inspired various modern interpretations:\n\n- In 1999 Alexia Vassiliou collaborated with composer Aristides Mytaras for the contemporary dance performance, La Dame aux Cam\u00e9lias at the Amore Theatre in Athens.\n\n- It is also the inspiration for the 2008 musical Marguerite, which places the story in 1944 German-occupied France.\n\n- In 2008, a stage adaptation, La Belle Bizarre Du Moulin Rouge (The Moulin Rouge Bizarre's Beauty) toured Germany and produced a cast recording.\n\n## Film Adaptations Beyond Moulin Rouge!\n\nThe search results reveal numerous film adaptations, including:\n\n- Camille 2000 (1969), an Italian film adapted by Michael DeForrest, directed by Radley Metzger, starring Danielle Gaubert as Marguerite and Nino Castelnuovo as Armand \u00b7 Camille (1981), commonly known as La Dame aux Cam\u00e9lias or Lady of the Camellias (Italian: La storia vera della signora dalle camelie, lit. 'the true story of the lady of the camellias'), a French-Italian film directed by Mauro Bolognini, starring Isabelle Huppert as Alphonsine\n\n## Cultural Impact and Legacy\n\nIn some of the English-speaking world, The Lady of the Camellias became known as Camille, and sixteen versions have been performed at Broadway theatres alone. The enduring appeal of this tragic love story continues to inspire contemporary artists across multiple mediums, from ballet and theater to film, demonstrating its timeless relevance in exploring themes of love, sacrifice, and social constraints."
+    ],
+    "durationSeconds": 26.816592273999994
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "session_id": "b0f41138-72f1-43cb-917b-54ebecc8e541",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b0f41138-72f1-43cb-917b-54ebecc8e541.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Jane Eyre modern parallels Gen Z TikTok 2025 toxic relationships independence"
+  },
+  "tool_response": {
+    "query": "Jane Eyre modern parallels Gen Z TikTok 2025 toxic relationships independence",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01LGkvorE2ZzaWvVQ2cfijoc",
+        "content": [
+          {
+            "title": "Jane Eyre 2025 Predictions",
+            "url": "https://www.tiktok.com/discover/jane-eyre-2025-predictions"
+          },
+          {
+            "title": "Intersectionality in Jane Eyre and its Adaptations",
+            "url": "https://scholarworks.uark.edu/cgi/viewcontent.cgi?article=2104&context=etd"
+          },
+          {
+            "title": "\"Contradiction in Jane Eyre: Conversations of 19th Century Feminism\" by Audrey Clement - Marymount University",
+            "url": "https://marymount.edu/academics/college-of-sciences-and-humanities/school-of-interdisciplinary-studies/student-publications/magnificat-2022/contradiction-in-jane-eyre/"
+          },
+          {
+            "title": "Analyzing Jane Eyre: Intersectionality and the 21st Century ...",
+            "url": "https://journalofsocialsciences.org/vol5no2/analyzing-jane-eyre--intersectionality-and-the-21st-century-adaptations/"
+          },
+          {
+            "title": "For Gen Z, Love is Becoming a Digital Battlefield - American Thinker",
+            "url": "https://www.americanthinker.com/articles/2025/05/for_gen_z_love_is_becoming_a_digital_battlefield.html"
+          },
+          {
+            "title": "Analysis of Jane Eyre with Contemporary Feminist Criticism",
+            "url": "https://www.rosiestamu.com/post/analysis-of-jane-eyre-with-contemporary-feminist-criticism"
+          },
+          {
+            "title": "\u201cI Am Merely Telling the Truth\u201d: \u201cJane Eyre\u201d and the Triumph of the Female Voice | by Hana Liebman | Medium",
+            "url": "https://hana-liebman.medium.com/i-am-merely-telling-the-truth-jane-eyre-and-the-triumph-of-the-female-voice-3a8527a168d4"
+          },
+          {
+            "title": "English Lit Jane Eyre Predictions 2025",
+            "url": "https://www.tiktok.com/discover/english-lit-jane-eyre-predictions-2025"
+          },
+          {
+            "title": "Jane Eyre - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Jane_Eyre"
+          },
+          {
+            "title": "Jane Eyre Predictions Gcse",
+            "url": "https://www.tiktok.com/discover/jane-eyre-predictions-gcse?lang=en"
+          }
+        ]
+      },
+      "Based on the search results, I found some interesting connections between Jane Eyre and modern Gen Z perspectives on toxic relationships and independence, though limited specific content about TikTok discussions. Let me search for more specific information about contemporary discussions of Jane Eyre and toxic relationships.",
+      {
+        "tool_use_id": "srvtoolu_01QzAjsvQfWPFbfcEsUq2yDd",
+        "content": [
+          {
+            "title": "Reader, I read Jane Eyre: A Jane Eyre Review | Ella Thinks Aloud",
+            "url": "https://ellathinksaloud.wordpress.com/2022/07/17/reader-i-read-jane-eyre-a-jane-eyre-review/"
+          },
+          {
+            "title": "Misreading \u201cJane Eyre\u201d",
+            "url": "https://medium.com/arc-digital/misreading-jane-eyre-db753dd2b1f1"
+          },
+          {
+            "title": "Sorry, but Jane Eyre Isn't the Romance You Want It to Be - JSTOR Daily",
+            "url": "https://daily.jstor.org/sorry-but-jane-eyre-isnt-the-perfect-romance-you-want-it-to-be/"
+          },
+          {
+            "title": "\"Contradiction in Jane Eyre: Conversations of 19th Century Feminism\" by Audrey Clement - Marymount University",
+            "url": "https://marymount.edu/academics/college-of-sciences-and-humanities/school-of-interdisciplinary-studies/student-publications/magnificat-2022/contradiction-in-jane-eyre/"
+          },
+          {
+            "title": "Jane Eyre's Quest for Truth and Identity",
+            "url": "https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=1006&context=tor"
+          },
+          {
+            "title": "(PDF) Trauma and Emotional Manipulation in \"Jane Eyre\"",
+            "url": "https://www.academia.edu/95406626/Trauma_and_Emotional_Manipulation_in_Jane_Eyre_"
+          },
+          {
+            "title": "Reviews with content warning for Toxic relationship - Jane Eyre | The StoryGraph",
+            "url": "https://assets.thestorygraph.com/book_reviews/ef77134e-c272-4faf-8359-2e07bc5d30d8/content_warning/52"
+          },
+          {
+            "title": "Jane Eyre - Rochester: Yay or Nay? Showing 551-600 of 602",
+            "url": "https://www.goodreads.com/topic/show/559124-rochester-yay-or-nay?page=12"
+          },
+          {
+            "title": "in defense of Edward Rochester. \u2013 THE CAFFEINATED FANGIRL",
+            "url": "https://evaschon.wordpress.com/2022/01/01/in-defense-of-edward-rochester/"
+          },
+          {
+            "title": "Jane Eyre promotes toxicity, not romance \u2013 Augustana Mirror",
+            "url": "https://www.augiemirror.news/2022/03/04/jane-eyre-promotes-toxicity-not-romance/"
+          }
+        ]
+      },
+      "Based on my search results, I found substantial analysis connecting Jane Eyre to modern perspectives on toxic relationships and independence. The searches revealed detailed academic and contemporary discussions about how Gen Z and modern readers are reinterpreting this classic novel, particularly regarding Rochester's behavior and Jane's journey toward independence. Here's what I found:\n\n## Modern Analysis of Jane Eyre's Relevance to Gen Z and Toxic Relationships\n\nThe issues of feminine independence and women's rights portrayed in Jane Eyre still resonate with modern-day readers, as equality is still a work in progress. Women are still confined through a lack of opportunity, unequal pay, and countless other areas, and these women are searching for solutions just like Jane.\n\n### Rochester as a Toxic Love Interest\n\nContemporary readers, particularly Gen Z, are increasingly recognizing the problematic aspects of Rochester's character. Rochester was an unbelievably toxic love interest. He lied to Jane, manipulated her feelings, and made excuses for all the wrongs he had done \u2014 a classic gaslighter. \n\nModern analysis identifies specific red flags:\n- He flirts with Jane by pretending to date another woman (because emotional manipulation is sexy, apparently), gaslights her about the weird attic noises, and casually omits the detail that he has a whole secret wife.\n- Rochester controls, isolates, insults and manipulates Jane throughout the book. He exhibits no regard for her feelings or well-being.\n\n### Jane's Independence as a Modern Inspiration\n\nDespite the toxic relationship dynamics, Jane's journey toward independence resonates strongly with contemporary audiences. \"I care for myself. The more solitary, the more friendless, the more unsustained I am, the more I will respect myself.\"\n\nCritics note that Jane could have stayed with Rochester when he proposed (and she really, really wanted to), but she decided against it. This is probably Jane's most critical moment, when she refused to accept Rochester's terms and chose to leave. That was when, despite all the love she felt for him and all the best interests the relationship would bring her, she decided she could not settle for a love like this.\n\n### Gen Z Dating Culture Parallels\n\nDating in 2025 is a minefield. Everywhere you turn, you're met with unresolved trauma, emotional baggage, or self-destructive behavior. What was once a straightforward path to connection has become a labyrinth of complexities, especially for Generation Z.\n\nThe patterns Jane experiences mirror modern relationship challenges:\n- It's interesting, how falling for a man like Rochester is something many of us can relate to. We or someone we know have fallen for these very same traps. As a friend of mine once said, red flags are harder to see when you wear rose-colored glasses.\n\n### Educational Value for Modern Readers\n\nContemporary analysis emphasizes the educational value of recognizing these patterns: It is all too often that society romanticizes toxic relationships. It is extremely harmful to young people who are influenced by these kinds of stories. It reinforces the idea that brooding men with personality disorders are attractive, and that it is the job of meek women to fix these flawed men.\n\n### The Redemption Debate\n\nModern discussions are divided on whether Rochester's eventual change justifies the relationship. Looking at Jane Eyre with modern eyes has both its benefits and drawbacks. One benefit is that we are able to more clearly examine Rochester's toxic behavior, gaslighting, etc.\n\nWhile TikTok-specific content wasn't fully accessible in the search results, the broader academic and contemporary literary analysis shows that Jane Eyre continues to be relevant for Gen Z discussions about toxic relationships, independence, and recognizing red flags in romantic dynamics."
+    ],
+    "durationSeconds": 33.56112641499983
+  }
+}

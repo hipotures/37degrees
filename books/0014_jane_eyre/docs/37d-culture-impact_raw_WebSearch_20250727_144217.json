@@ -1,0 +1,62 @@
+{
+  "session_id": "b0f41138-72f1-43cb-917b-54ebecc8e541",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b0f41138-72f1-43cb-917b-54ebecc8e541.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"books inspired by Jane Eyre\" modern retellings Rebecca \"Wide Sargasso Sea\" literary influence adaptations"
+  },
+  "tool_response": {
+    "query": "\"books inspired by Jane Eyre\" modern retellings Rebecca \"Wide Sargasso Sea\" literary influence adaptations",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01UKZfspNFkWFfCM6dNVNKFx",
+        "content": [
+          {
+            "title": "Derivatives of Jane Eyre (181 books)",
+            "url": "https://www.goodreads.com/list/show/18840.Derivatives_of_Jane_Eyre"
+          },
+          {
+            "title": "11 Novels Inspired By 'Jane Eyre' To Pick Up Instead Of Re-Reading Charlotte Bronte's Classic For The Tenth Time",
+            "url": "https://www.bustle.com/p/11-novels-inspired-by-jane-eyre-to-pick-up-instead-of-re-reading-charlotte-brontes-classic-for-the-tenth-time-11951930"
+          },
+          {
+            "title": "16 JANE EYRE Retellings | Book Riot",
+            "url": "https://bookriot.com/jane-eyre-retellings/"
+          },
+          {
+            "title": "Our Favorite Jane Eyre Retellings Across Genres and Formats - Quirk Books",
+            "url": "https://www.quirkbooks.com/our-favorite-jane-eyre-retellings-across-genres-and-formats/"
+          },
+          {
+            "title": "Bront\u00eb Essentials: Six Modern Books Inspired by 'Jane Eyre' - The Millions",
+            "url": "https://themillions.com/2017/04/bronte-essentials-six-modern-books-inspired-by-jane-eyre.html"
+          },
+          {
+            "title": "The Many and Sometimes Sinister Retellings of Jane Eyre \u2039 CrimeReads",
+            "url": "https://crimereads.com/the-many-and-sometimes-sinister-retellings-of-jane-eyre/"
+          },
+          {
+            "title": "Jane Eyre, Past and Present",
+            "url": "https://journals.openedition.org/lisa/1741?lang=en"
+          },
+          {
+            "title": "Wide Sargasso Sea - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Wide_Sargasso_Sea"
+          },
+          {
+            "title": "Sequels, Prequels, Spin-Offs, and Retellings of \"Jane Eyre\" - Owlcation",
+            "url": "https://owlcation.com/humanities/Jane-Eyre-Sequels-Prequels-Spin-Offs-and-Retellings"
+          },
+          {
+            "title": "Intersectionality in Jane Eyre and its Adaptations",
+            "url": "https://scholarworks.uark.edu/cgi/viewcontent.cgi?article=2104&context=etd"
+          }
+        ]
+      },
+      "I've found comprehensive information about books inspired by Jane Eyre, including modern retellings, adaptations, and their literary influence. Here's what the search revealed:\n\n## Most Notable Jane Eyre-Inspired Works\n\nThe most significant derivatives include \"Rebecca\" by Daphne du Maurier, \"The Eyre Affair\" by Jasper Fforde, and \"Wide Sargasso Sea\" by Jean Rhys, with 181 books documented as being based on or inspired by Jane Eyre.\n\n## Key Modern Retellings and Adaptations\n\n**Wide Sargasso Sea** by Jean Rhys is already considered a modern classic and arguably the most important of Jane Eyre retellings. The novel serves as a postcolonial and feminist prequel to Charlotte Bront\u00eb's Jane Eyre, describing the background to Mr. Rochester's marriage from the point of view of his wife Antoinette Cosway. Critics have considered Wide Sargasso Sea as a postcolonial response to Jane Eyre.\n\n**Rebecca** by Daphne du Maurier, while not technically a retelling, has Jane's ghost haunting the edges of Du Maurier's Gothic classic, with this story of an innocent young woman falling for a wealthy and tortured man with secrets clearly being Jane Eyre's spiritual successor.\n\n## Contemporary Retellings Include:\n\n- **The Eyre Affair** by Jasper Fforde - Set in an alternative 1985 where Thursday Next, a \"literary detective,\" faces a career-changing challenge when Jane Eyre is kidnapped from her own novel\n\n- **Jane Steele** by Lyndsay Faye - A Victorian novel where Jane Steele is an orphan similar to Jane Eyre except she's a serial killer, exploring what happens when a defenseless underdog takes rebelliousness to the ultimate extreme\n\n- **The Wife Upstairs** by Rachel Hawkins - A contemporary thriller where Jane is a broke dog walker in Birmingham, Alabama, who meets Eddie Rochester and is haunted by the legend of his drowned wife Bea\n\n- **Jane** (graphic novel) by Aline Brosh McKenna - A graphic novel that sets the Jane Eyre story in present day New York, digging into the darkness that lurks behind Manhattan luxury\n\n## Literary Collections and Analysis\n\nThere's a short story collection called \"Reader, I Married Him,\" featuring twenty short stories inspired by that memorable line from Jane Eyre.\n\nEvidence of Bront\u00eb's enduring popularity is everywhere, with the large number of adaptations and re-tellings her books have inspired, and spin-offs producing wonderfully beloved novels in their own right.\n\nThe influence of Jane Eyre continues to be strong, with these rewritings serving as testimonies to the contemporary world, with Jane Eyre being \"re-fashioned to serve the critical needs of the present\"."
+    ],
+    "durationSeconds": 23.143356811000036
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "session_id": "b0f41138-72f1-43cb-917b-54ebecc8e541",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b0f41138-72f1-43cb-917b-54ebecc8e541.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Jane Eyre\" TikTok BookTok social media modern relevance feminist icon 2020s"
+  },
+  "tool_response": {
+    "query": "\"Jane Eyre\" TikTok BookTok social media modern relevance feminist icon 2020s",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01Lvz1717TkDVS23CMY6bUny",
+        "content": [
+          {
+            "title": "Jane Eyre: The Almost Feminist Icon | Humans",
+            "url": "https://vocal.media/humans/jane-eyre-the-almost-feminist-icon"
+          },
+          {
+            "title": "Analysis of Jane Eyre with Contemporary Feminist Criticism",
+            "url": "https://www.rosiestamu.com/post/analysis-of-jane-eyre-with-contemporary-feminist-criticism"
+          },
+          {
+            "title": "Is Jane Eyre Still a Feminist Icon in 2019? | by Violet Ames | Medium",
+            "url": "https://medium.com/@violetames/is-jane-eyre-still-a-feminist-icon-in-2019-a8f42c678fd0"
+          },
+          {
+            "title": "Jane Eyre Book",
+            "url": "https://www.tiktok.com/discover/jane-eyre-book"
+          },
+          {
+            "title": "Is Jane Eyre a feminist icon, pragmatist or an insufferable prig? | Croydon High School",
+            "url": "https://www.croydonhigh.gdst.net/2023/09/is-jane-eyre-a-feminist-icon-pragmatist-or-an-insufferable-prig/"
+          },
+          {
+            "title": "Intersectionality in Jane Eyre and its Adaptations",
+            "url": "https://scholarworks.uark.edu/cgi/viewcontent.cgi?article=2104&context=etd"
+          },
+          {
+            "title": "\"Contradiction in Jane Eyre: Conversations of 19th Century Feminism\" by Audrey Clement - Marymount University",
+            "url": "https://marymount.edu/academics/college-of-sciences-and-humanities/school-of-interdisciplinary-studies/student-publications/magnificat-2022/contradiction-in-jane-eyre/"
+          },
+          {
+            "title": "no thoughts, only jane eyre #booktok #studytok #vlog | TikTok",
+            "url": "https://www.tiktok.com/@thesecrethistoryofhallie/video/7072718140228029697?lang=en"
+          },
+          {
+            "title": "Reflection on Feminism in Jane Eyre",
+            "url": "https://www.academypublication.com/issues/past/tpls/vol03/06/08.pdf"
+          },
+          {
+            "title": "Reading Jane Eyre",
+            "url": "https://www.tiktok.com/discover/reading-jane-eyre"
+          }
+        ]
+      },
+      "Let me search for more specific information about Jane Eyre's presence on BookTok and social media in recent years.",
+      {
+        "tool_use_id": "srvtoolu_014oraiK8AXFy9KXtiQ6DyzH",
+        "content": [
+          {
+            "title": "Jane Eyre Book",
+            "url": "https://www.tiktok.com/discover/jane-eyre-book"
+          },
+          {
+            "title": "Reading Jane Eyre",
+            "url": "https://www.tiktok.com/discover/reading-jane-eyre"
+          },
+          {
+            "title": "Rese\u00f1a de Jane Eyre - Charlotte Bront\u00eb #booktok #booktokespa\u00f1ol #librostiktok #bookish #janeeyre #charlottebronte #clasicos #librosrecomendados #rese\u00f1adelibros   | TikTok",
+            "url": "https://www.tiktok.com/@meetforcoffee.books/video/7220015260202192155"
+          },
+          {
+            "title": "Please give Jane Eyre another try with this reading!!! (edition mentioned is Norton Critical Edition from @W. W. Norton & Company !!) #janeeyre #classicbooks #literaryhistory #charlottebronte #wutheringheights #literaturetiktok #videoessay  | TikTok",
+            "url": "https://www.tiktok.com/@authormmcmahon/video/7504736933713808686"
+          },
+          {
+            "title": "Booktok Recommends 2024",
+            "url": "https://www.tiktok.com/discover/booktok-recommends-2024"
+          },
+          {
+            "title": "Jane Eyre Gcse Predictions 2024",
+            "url": "https://www.tiktok.com/discover/jane-eyre-gcse-predictions-2024"
+          },
+          {
+            "title": "Booktok Sortie 2023 2024",
+            "url": "https://www.tiktok.com/discover/booktok-sortie-2023-2024"
+          },
+          {
+            "title": "Exploring Jane Eyre: A Classic Gothic Romance Novel",
+            "url": "https://www.tiktok.com/@frederick.atkinson/video/7473783568284552470"
+          },
+          {
+            "title": "Booktok Must Read 2024",
+            "url": "https://www.tiktok.com/discover/booktok-must-read-2024?lang=en"
+          },
+          {
+            "title": "The Most Popular TikTok Books #BookTok | Barnes & Noble\u00ae",
+            "url": "https://www.barnesandnoble.com/b/booktok/_/N-2vdn"
+          }
+        ]
+      },
+      "Let me search for more recent discussions about Jane Eyre's feminist relevance in contemporary culture.",
+      {
+        "tool_use_id": "srvtoolu_01LjN3upTN85cUsJ2FUi37xi",
+        "content": [
+          {
+            "title": "Analysis of Jane Eyre with Contemporary Feminist Criticism",
+            "url": "https://www.rosiestamu.com/post/analysis-of-jane-eyre-with-contemporary-feminist-criticism"
+          },
+          {
+            "title": "Is Jane Eyre a feminist icon, pragmatist or an insufferable prig? | Croydon High School",
+            "url": "https://www.croydonhigh.gdst.net/2023/09/is-jane-eyre-a-feminist-icon-pragmatist-or-an-insufferable-prig/"
+          },
+          {
+            "title": "\u2018Odd and incorrect\u2019: Convention and Jane Eyre\u2019s Feminist Legacy: Bront\u00eb Studies: Vol 49, No 1-2",
+            "url": "https://www.tandfonline.com/doi/abs/10.1080/14748932.2024.2308841"
+          },
+          {
+            "title": "Feminism & Gender Roles in Jane Eyre by Charlotte Bronte - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/feminism-gender-roles-in-jane-eyre.html"
+          },
+          {
+            "title": "Reflection on Feminism in Jane Eyre",
+            "url": "https://www.academypublication.com/issues/past/tpls/vol03/06/08.pdf"
+          },
+          {
+            "title": "Was Jane Eyre a Feminist? \u2014 Bookishly",
+            "url": "https://www.bookishly.co.uk/blogs/news/was-jane-eyre-a-feminist"
+          },
+          {
+            "title": "A Feminist Critique of Jane Eyre by Charlotte Bronte",
+            "url": "https://www.ijfmr.com/papers/2024/5/28335.pdf"
+          },
+          {
+            "title": "\"Contradiction in Jane Eyre: Conversations of 19th Century Feminism\" by Audrey Clement - Marymount University",
+            "url": "https://marymount.edu/academics/college-of-sciences-and-humanities/school-of-interdisciplinary-studies/student-publications/magnificat-2022/contradiction-in-jane-eyre/"
+          },
+          {
+            "title": "Feminism and gender roles in Jane Eyre and Wuthering Heights | British Literature II Class Notes | Fiveable | Fiveable",
+            "url": "https://library.fiveable.me/british-literature-ii/unit-8/feminism-gender-roles-jane-eyre-wuthering-heights/study-guide/BW3I7QmH92WNFmtm"
+          },
+          {
+            "title": "Twenty Incredible Books on Feminism and Patriarchy: 2023 and 2024 - Inclusion Geeks",
+            "url": "https://www.inclusiongeeks.com/articles/twenty-incredible-books-on-feminism-and-patriarchy-2023-and-2024/"
+          }
+        ]
+      },
+      "Based on my web searches, I can provide information about Jane Eyre's presence and relevance on TikTok's BookTok community and its modern feminist significance in the 2020s:\n\n## Jane Eyre on BookTok and Social Media\n\nWhile TikTok's page descriptions weren't accessible in the search results, there is evidence of Jane Eyre's presence on BookTok through various content creators. TikTok video from Madison McMahon\ud83c\udf49 (@authormmcmahon) shows creators encouraging viewers to \"give Jane Eyre another try,\" and there are videos in multiple languages, including TikTok video from meetforcoffee\ud83d\udcda (@meetforcoffee.books) creating Spanish-language Jane Eyre content with hashtags like #booktok and #charlottebronte.\n\n## Modern Feminist Relevance in the 2020s\n\nJane Eyre's feminist legacy remains contentious and actively debated in contemporary scholarship:\n\n### Contemporary Feminist Criticism\n\nreaders today still claim that Bront\u00eb's commentary of class and women's confinement of social convention are still relevant in illustrating the new aspects of feminism today. However, modern feminist analysis reveals complex contradictions in the novel.\n\n### Academic Perspectives (2022-2024)\n\nRecent scholarship has taken a nuanced view of Jane Eyre's feminist credentials. As a staple in classic feminist literature, Charlotte Bront\u00eb's Jane Eyre plunges readers into the 19th century feminine sphere. Bront\u00eb's narrator, Jane, is a delightfully complex heroine who exemplifies the successes and limitations of 19th century feminist philosophy.\n\n### Complex Feminist Icon Status\n\nModern critics acknowledge both Jane's progressive and problematic aspects. Jane's final decision is entirely her own and feminism at its very heart empowers women to have the freedom to choose their own destiny, suggesting her choices represent feminist agency. However, Jane Eyre can be a frustrating character for modern readers because, despite all her strong words against oppression on the grounds of her sex and status, she ultimately agrees to a conventional conclusion. She gives up her career and independence and returns to Rochester as a housewife and mother.\n\n### Contemporary Debate\n\nThe novel's feminist legacy continues to generate debate. no one, since 1847, has known what to do with Jane Eyre\u2014especially when it comes to feminism. Critics argue that Bront\u00eb's views of women are somewhat aligned with that of the male gaze and that her interpretation of feminism would not uphold the standards of the progressive women today.\n\n### Modern Relevance\n\nDespite criticisms, Jane Eyre maintains relevance as Jane is viewed as a feminist heroine due to her independence, her willingness to love and be loved, and her integrity. Jane exemplifies a feminist heroine by leading an independent life. The character represents feminism because she is a character willing to be independent, showing love when she wants and allowing herself to be loved, and refusing to compromise on her principles. She represents working-class women and rejects the stereotypical gender role of women as wives and mothers.\n\nWhile Jane Eyre maintains a presence on BookTok and continues to be studied as feminist literature, her status as a feminist icon remains complex and contested in 2020s discourse, with scholars recognizing both her progressive elements and her limitations from a contemporary feminist perspective."
+    ],
+    "durationSeconds": 36.78358258600021
+  }
+}

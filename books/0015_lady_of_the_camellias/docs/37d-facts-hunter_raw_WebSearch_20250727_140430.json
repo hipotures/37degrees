@@ -1,0 +1,51 @@
+{
+  "session_id": "ce52af78-3d0b-4820-934c-a3168f2187ce",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ce52af78-3d0b-4820-934c-a3168f2187ce.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "polska m\u0142odzie\u017c \"Dama Kameliowa\" TikTok BookTok wsp\u00f3\u0142czesne interpretacje"
+  },
+  "tool_response": {
+    "query": "polska m\u0142odzie\u017c \"Dama Kameliowa\" TikTok BookTok wsp\u00f3\u0142czesne interpretacje",
+    "results": [
+      "I'll perform a web search for that query about Polish youth, \"The Lady of the Camellias,\" TikTok, BookTok, and contemporary interpretations.",
+      {
+        "tool_use_id": "srvtoolu_01WEiEdfnrdtr86AixFBMUH5",
+        "content": [
+          {
+            "title": "Dama Kameliowa 1995 || Gdybt tylko Malgorzata przejrza\u0142a na oczy\u2026 #damakameliowa #malgorzatagautier #armandduval #L#ladameauxcamelias #telewizjapolska #polskakinematografia #filmpolski #polskaszkolafilmowa #polskifilm #filmkostiumowy #19wiek #damakameliowa  | TikTok",
+            "url": "https://www.tiktok.com/@literacko/video/7342184025039113505"
+          },
+          {
+            "title": "\u201eDama kameliowa\u201d-ksi\u0105\u017cka, kt\u00f3ra od razu skrad\u0142a moje serce\ud83e\udd79\ud83e\udd79(jestem najwi\u0119ksz\u0105 fank\u0105, przysi\u0119gam) | TikTok",
+            "url": "https://www.tiktok.com/@kocielapki123/video/7389280589871861025"
+          },
+          {
+            "title": "Jestem ju\u017c po spektaklu Dama kameliowa w Teatrze Narodowym \u2013 wra\u017cenia niesamowite! Choreografia, emocje i talent artyst\u00f3w zrobi\u0142y na mnie ogromne wra\u017cenie. Wn\u0119trza teatru r\u00f3wnie\u017c zachwycaj\u0105 swoim pi\u0119knem i elegancj\u0105. Serdecznie dzi\u0119kuj\u0119 Chinarze za zaproszenie na ten wyj\u0105tkowy wiecz\u00f3r \u2013 to by\u0142 prawdziwy zaszczyt! | TikTok",
+            "url": "https://www.tiktok.com/@marcyfisia/video/7448740369409346838"
+          },
+          {
+            "title": "Dama kameliowa \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Dama_kameliowa"
+          },
+          {
+            "title": "Dama Kameliowa",
+            "url": "https://wolnelektury.pl/katalog/lektura/dumas-dama-kameliowa/"
+          },
+          {
+            "title": "Polska \u201eDama kameliowa\u201d",
+            "url": "https://taniec.blog.polityka.pl/2018/03/24/polska-dama-kameliowa/"
+          },
+          {
+            "title": "Dama kameliowa - Najnowsze informacje - WP Film",
+            "url": "https://film.wp.pl/dama-kameliowa-6030349392790145c"
+          }
+        ]
+      },
+      "Based on the search results, I found several relevant findings about Polish youth, \"The Lady of the Camellias\" (Dama Kameliowa), and its presence on TikTok and contemporary platforms:\n\nThe search reveals that \"The Lady of the Camellias\" has gained visibility among Polish youth on TikTok, with multiple creators sharing content about the work. One young Polish TikTok user (@kocielapki123) created content expressing how the book \"immediately stole their heart\", demonstrating genuine enthusiasm for the classic work among contemporary readers.\n\nThere's also engagement with theatrical performances, as seen in a TikTok video about attending \"The Lady of the Camellias\" performance at the National Theatre, with the creator describing it as an \"extraordinary evening\".\n\nThe work itself is a social novel by Alexandre Dumas (son) first published in 1848, based on the authentic biography of courtesan Marie Duplessis and her romance with the writer. It's Dumas's most famous novel and has been adapted into several film versions, starting with the first in 1907.\n\nIn Polish cultural context, \"The Lady of the Camellias\" has been presented as a ballet at the National Opera, even being dedicated to the centenary of Poland's independence, showing its continued relevance in Polish cultural discourse.\n\nThe presence of this classic work on TikTok and BookTok platforms demonstrates how Polish youth are engaging with classical literature through contemporary digital media, creating their own interpretations and sharing their reading experiences with modern audiences."
+    ],
+    "durationSeconds": 16.93636638599995
+  }
+}

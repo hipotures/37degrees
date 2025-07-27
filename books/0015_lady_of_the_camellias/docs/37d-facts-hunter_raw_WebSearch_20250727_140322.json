@@ -1,0 +1,62 @@
+{
+  "session_id": "ce52af78-3d0b-4820-934c-a3168f2187ce",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ce52af78-3d0b-4820-934c-a3168f2187ce.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Dama Kameliowa\" szko\u0142y polskie lektury obowi\u0105zkowe matura"
+  },
+  "tool_response": {
+    "query": "\"Dama Kameliowa\" szko\u0142y polskie lektury obowi\u0105zkowe matura",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01GREUs3YLd6fKY2vUeekZz6",
+        "content": [
+          {
+            "title": "Dama Kameliowa",
+            "url": "https://wolnelektury.pl/katalog/lektura/dumas-dama-kameliowa/"
+          },
+          {
+            "title": "Dama kameliowa \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Dama_kameliowa"
+          },
+          {
+            "title": "Aleksander Dumas (syn), Dama Kameliowa - Wolne Lektury",
+            "url": "https://wolnelektury.pl/katalog/lektura/dumas-dama-kameliowa.html"
+          },
+          {
+            "title": "Dama kameliowa Aleksander Dumas ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/dama-kameliowa-aleksander-dumas"
+          },
+          {
+            "title": "Dama Kameliowa - Aleksander Dumas - ksi\u0105\u017cka, recenzja, streszczenie",
+            "url": "https://www.granice.pl/ksiazka/dama-kameliowa/279328"
+          },
+          {
+            "title": "Aleksander Dumas, Dama kameliowa \u2013 streszczenie",
+            "url": "https://eszkola.pl/jezyk-polski/dama-kameliowa-streszczenie-11640.html"
+          },
+          {
+            "title": "Dama kameliowa - Wydawnictwo SBM",
+            "url": "https://www.wydawnictwosbm.pl/ksiazka/dama-kameliowa/"
+          },
+          {
+            "title": "Dama Kameliowa",
+            "url": "http://biblioteka.kijowski.pl/dumas alexandre - syn/dama.pdf"
+          },
+          {
+            "title": "Dama Kameliowa (Aleksander Dumas) ksi\u0105\u017cka w ksi\u0119garni TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/dama-kameliowa-aleksander-dumas-p-423645.html"
+          },
+          {
+            "title": "Dama kameliowa | Aleksander Dumas (Ksi\u0105\u017cka) - Ksi\u0119garnia znak.com.pl",
+            "url": "https://www.znak.com.pl/p/dama-kameliowa-aleksander-dumas-158574"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with information about \"Dama Kameliowa\" (The Lady of the Camellias) and its status in Polish schools as a required reading text for the matura exam.\n\n\"Dama kameliowa\" to powie\u015b\u0107 spo\u0142eczno-obyczajowa autorstwa Alexandre'a Dumasa (syna) napisana i wydana po raz pierwszy w 1848, z polskim t\u0142umaczeniem w 1870. Oparta jest na autentycznej biografii kurtyzany Marie Duplessis i historii jej romansu z pisarzem, kt\u00f3ry pozna\u0142 Mari\u0119 Duplessis w epoce jej \u015bwietno\u015bci, gdy wi\u00f3d\u0142 dosy\u0107 p\u0142oche \u017cycie m\u0142odzie\u017cy paryskiej.\n\nRegarding its status as a school reading requirement for the matura exam, the search results provide some insights but not definitive confirmation. One reviewer mentions that \"Dama Kameliowa\" jest wspania\u0142ym uzupe\u0142nieniem lektur szkolnych i powinna znale\u017a\u0107 si\u0119 w kanonie obowi\u0105zkowych lektur do szk\u00f3\u0142 ponadgimnazjalnych\" (should be included in the canon of required readings for secondary schools).\n\nThe novel is indeed widely available in Polish educational contexts, as evidenced by:\n- Its availability on Wolne Lektury (a Polish digital library for school texts)\n- Multiple educational publishers offering it in their school series\n- References to it being part of \"lektury szkolne\" (school readings)\n\nDama kameliowa jest uznawana za szczytowe osi\u0105gni\u0119cie melodramatu and has had significant cultural impact, inspiring Giuseppe Verdiego, kt\u00f3ry na jej podstawie stworzy\u0142 jedn\u0105 z najpi\u0119kniejszych oper - La Traviat\u0119.\n\nThe story follows burzliwy zwi\u0105zek Armanda Duvalla i Ma\u0142gorzaty Gautier - ona jest \"kobiet\u0105 lekkich obyczaj\u00f3w\" przyzwyczajon\u0105 do luksus\u00f3w a on pochodzi z ubogiej rodziny.\n\nWhile the search results show \"Dama Kameliowa\" is widely used in Polish schools and recommended as supplementary reading, I cannot find definitive confirmation that it is specifically on the official matura exam reading list based on these search results."
+    ],
+    "durationSeconds": 20.071161187999998
+  }
+}

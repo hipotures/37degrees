@@ -1,0 +1,62 @@
+{
+  "session_id": "3731359d-acb0-434f-a690-a37d68244b04",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/3731359d-acb0-434f-a690-a37d68244b04.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Hobbit radio adaptations BBC audiobooks narrators Rob Inglis Martin Shaw cultural impact audio versions"
+  },
+  "tool_response": {
+    "query": "Hobbit radio adaptations BBC audiobooks narrators Rob Inglis Martin Shaw cultural impact audio versions",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01FSFAytJeE3uBYdt3jccXAN",
+        "content": [
+          {
+            "title": "902 Audiobooks (Unabridged)* | Lord of the Rings Collector Notes",
+            "url": "https://lotrcollectornotes.wordpress.com/900-miscellaneous/902-audiobooks-unabridged/"
+          },
+          {
+            "title": "Discover the Best Lord of the Rings Audiobooks - LOTR Guide",
+            "url": "https://rtbookreviews.com/best-lord-of-the-rings-audiobooks/"
+          },
+          {
+            "title": "The Hobbit Unabridged by Rob Inglis : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/TheHobbitAudiobook"
+          },
+          {
+            "title": "Rob Inglis - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Rob_Inglis"
+          },
+          {
+            "title": "Adaptations of The Hobbit - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Adaptations_of_The_Hobbit"
+          },
+          {
+            "title": "The Hobbit Audiobook Review | Best Fantasy Audio",
+            "url": "https://bestfantasyaudio.com/the-hobbit-audiobook-review"
+          },
+          {
+            "title": "Audiobooks narrated by Rob Inglis | Audible.com",
+            "url": "https://www.audible.com/search?searchNarrator=Rob+Inglis"
+          },
+          {
+            "title": "Audiobooks narrated by Rob Inglis - Storytel International",
+            "url": "https://www.storytel.com/tv/narrators/rob-inglis-6391"
+          },
+          {
+            "title": "Browse Audiobooks Rob Inglis - Sort by Bestselling this Month - Page 1 | Audiobooks.com",
+            "url": "https://www.audiobooks.com/browse/narrator/6056/rob-inglis"
+          },
+          {
+            "title": "Best The Lord of the Rings, The Hobbit, & The Silmarillion Audiobook Versions",
+            "url": "https://fictionhorizon.com/best-lord-of-the-rings-the-hobbit-and-the-silmarillion-audiobooks-versions/"
+          }
+        ]
+      },
+      "Based on my search results, I can provide you with comprehensive information about Hobbit radio adaptations, BBC audiobooks, narrators Rob Inglis and Martin Shaw, and their cultural impact.\n\n## Key Narrators and Their Versions\n\nRob Inglis is renowned for his unabridged audiobook performances of The Hobbit and The Lord of the Rings trilogy, while Martin Shaw performed The Silmarillion. Rob Inglis performed an unabridged reading of The Hobbit for Recorded Books in 1990, following his 1990 Lord of the Rings recording. Martin Shaw performed an abridged recording of The Hobbit in 1993 for HarperCollins.\n\n## Rob Inglis's Background and Performance Style\n\nRobert Inglis (born March 1933, died before September 2021) was an Australian-British actor, playwright, dramatist, journalist, critic and producer who was born in Australia but later moved to England. Inglis appeared with the Royal Shakespeare Company and the Royal Court Theatre, playing characters such as the Ghost and Claudius in Hamlet and Mr. Bumble in Oliver!.\n\nIt was through his one-man stage adaptations that he was noticed by Recorded Books and asked to narrate an unabridged edition of Lord of the Rings (1990) and soon after The Hobbit (1991). The J.R.R. Tolkien Encyclopedia (2006) called it a \"remarkable performance in which he provides distinctive voices for the various characters and sings the songs in the story\".\n\n## Critical Reception and Cultural Impact\n\nLaura Miller of Salon.com praised Inglis's narration, saying \"Inglis strikes precisely the right note in his narration. It is an old-fashioned audiobook narration, one that feels more read than performed, although the voices of the many characters are all well-developed. It's ever so slightly prosy, and the sensation conveyed is exactly like listening to a favourite relative read to a beloved child\".\n\nUntil Andy Serkis' 2020 recording, Inglis' reading of The Hobbit was the only commercially available unabridged edition of the book. The general consensus is that unabridged versions narrated by Rob Inglis are the best Lord of the Rings, The Hobbit, and The Silmarillion audiobook versions.\n\n## BBC Radio Adaptations\n\nA BBC Radio 4 series The Hobbit radio drama was an adaptation by Michael Kilgarriff, broadcast in eight parts from September to November 1968, starring Anthony Jackson as narrator, Paul Daneman as Bilbo and Heron Carvic as Gandalf. The series was released on audio cassette in 1988 and on CD in 1997.\n\nThere was also a BBC Radio multi-cast abridged version, first presented on radio in 1981.\n\n## Comparative Analysis of Narrators\n\nRob Inglis, Andy Serkis, and Martin Shaw are among the top narrators of Lord of the Rings, with Inglis being a trained Shakespearean actor who expertly brings each character to life with distinct voices and accents. Rob Inglis's narration is known for its soothing and melodic quality, with each character having their own distinct voice, and his unabridged version of the series is over 50 hours long.\n\nMartin Shaw's audiobook version is praised for its emotional resonance, though some listeners may find it difficult to differentiate between characters based solely on his vocal performance.\n\nThe audiobook adaptations have had significant cultural impact, with Inglis's recordings being one of Recorded Books' best-selling titles and representing the definitive audio versions of Tolkien's works for decades."
+    ],
+    "durationSeconds": 35.13926771099958
+  }
+}

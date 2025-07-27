@@ -1,0 +1,62 @@
+{
+  "session_id": "b0f41138-72f1-43cb-917b-54ebecc8e541",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b0f41138-72f1-43cb-917b-54ebecc8e541.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Jane Eyre\" \"Charlotte Bront\u00eb\" krytyka literacka polska recepcja akademicka badania"
+  },
+  "tool_response": {
+    "query": "\"Jane Eyre\" \"Charlotte Bront\u00eb\" krytyka literacka polska recepcja akademicka badania",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_013CVXQ27KVwFaBqMsoHJbUs",
+        "content": [
+          {
+            "title": "Dziwne losy Jane Eyre \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Dziwne_losy_Jane_Eyre"
+          },
+          {
+            "title": "\u201eDziwne losy Jane Eyre\u201d Charlotte Bront\u00eb na Wolnych Lekturach",
+            "url": "https://fundacja.wolnelektury.pl/2023/09/28/dziwne-losy-jane-eyre-charlotte-bronte-na-wolnych-lekturach/"
+          },
+          {
+            "title": "Charlotte Bront\u00eb \u2013 Jane Eyre \u2013 Statek G\u0142upc\u00f3w",
+            "url": "https://statekglupcow.pl/2021/11/11/charlotte-bronte-jane-eyre/"
+          },
+          {
+            "title": "dziwne losy charlotte bront\u00eb",
+            "url": "https://artpapier.com/index.php?page=artykul&wydanie=191&artykul=4125"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre - Charlotte Bront\u00eb | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/4968674/dziwne-losy-jane-eyre"
+          },
+          {
+            "title": "Natasza Szutta: Jane Eyre i jej trudny wyb\u00f3r - Filozofuj!",
+            "url": "https://filozofuj.eu/natasza-szutta-jane-eyre-i-jej-trudny-wybor/"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre",
+            "url": "https://wolnelektury.pl/katalog/lektura/bronte-dziwne-losy-jane-eyre/"
+          },
+          {
+            "title": "\u201eDziwne losy Jane Eyre\u201d Charlotte Bront\u00eb",
+            "url": "https://www.kulturatka.pl/2021/07/30/dziwne-losy-jane-eyre-charlotte-bronte/"
+          },
+          {
+            "title": "\"Dziwne losy Jane Eyre\" - Charlotte Bront\u00eb",
+            "url": "https://kultowy.pl/dziwne-losy-jane-eyre"
+          },
+          {
+            "title": "Charlotte Bront\u00eb - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Charlotte_Bront%C3%AB"
+          }
+        ]
+      },
+      "Based on the search results, I found several sources related to Polish literary criticism and academic reception of Charlotte Bront\u00eb's \"Jane Eyre.\" Here's what the search revealed:\n\n## Polish Reception and Academic Studies of \"Jane Eyre\"\n\nThe search results show that Polish readers until recently could only access part of the Bront\u00eb sisters' works (frequently republished \"Dziwne losy Jane Eyre\" and \"Villette\" by Charlotte Bront\u00eb, and \"Wichrowe Wzg\u00f3rza\" by Emily Bront\u00eb), but their work is currently experiencing a true renaissance in Poland.\n\n### Academic Research and Publications\n\nIn recent years, remaining novels by Charlotte were published (\"Shirley\" in 2011, and \"Profesor\" a year later), as well as prose by Anne Bront\u00eb - the third writing sister, previously unknown to Polish readers. The publication of these books gives Polish literary scholars the opportunity for a new reading of the work of these excellent English writers.\n\nAn interesting attempt at such analysis was undertaken by Eryk Ostrowski in \"Charlotte Bront\u00eb i jej siostrach \u015bpi\u0105cych\", indicating active Polish academic engagement with Bront\u00eb scholarship.\n\n### Editorial Work and Academic Commentary\n\nThe Polish edition includes scholarly apparatus with \"editorial work and annotations by: Paulina Choroma\u0144ska, Danuta Pust\u00f3wka, El\u017cbieta Seku\u0142a\", demonstrating serious academic treatment of the work.\n\nA new edition of \"Villette\" was published \"with an introduction by Eryk Ostrowski,\" though it doesn't constitute as significant a cultural event in Poland as the publication of Anne Bront\u00eb's books.\n\n### Critical Analysis in Polish Scholarship\n\nThe search results indicate that Polish literary criticism examines various aspects of the novel, including serious themes such as \"relations between men and women, women's equality, treatment of children and women, religious faith and religious hypocrisy, self-realization and the nature of true love\".\n\nPolish critics also engage with the autobiographical elements in Charlotte Bront\u00eb's novels, noting that \"Jane Eyre\" in its first edition was even subtitled \"autobiography\" and that Bront\u00eb accurately described her own difficult experiences at Cowan Bridge school and her sister Maria who died of tuberculosis.\n\nThe materials show that Polish academic reception treats \"Jane Eyre\" as both a significant literary work and an important feminist text, with the novel being \"recognized as the first feminist novel in history\" in Polish literary discourse."
+    ],
+    "durationSeconds": 21.601249987000134
+  }
+}

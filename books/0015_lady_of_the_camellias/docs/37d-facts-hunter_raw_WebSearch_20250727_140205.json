@@ -1,0 +1,30 @@
+{
+  "session_id": "ce52af78-3d0b-4820-934c-a3168f2187ce",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ce52af78-3d0b-4820-934c-a3168f2187ce.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "polska krytyka literacka \"Dama Kameliowa\" romantyzm pozytywizm moralizm"
+  },
+  "tool_response": {
+    "query": "polska krytyka literacka \"Dama Kameliowa\" romantyzm pozytywizm moralizm",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01SwrxrNEE9oVP7sQkYTV6cr",
+        "content": [
+          {
+            "title": "Aleksander Dumas (syn), Dama Kameliowa - Wolne Lektury",
+            "url": "https://wolnelektury.pl/katalog/lektura/dumas-dama-kameliowa.html"
+          },
+          {
+            "title": "Dama Kameliowa",
+            "url": "https://wolnelektury.pl/katalog/lektura/dumas-dama-kameliowa/"
+          }
+        ]
+      },
+      "I found some information about Polish literary criticism of \"Dama Kameliowa\" (The Lady of the Camellias) in relation to Romanticism and Positivism. The search results primarily come from Wolne Lektury, a Polish digital library.\n\nThe work \"closes the period of Romanticism, from which it took its broad breath and ability to move, while simultaneously opening the period of scenic realism\". When in France \"Dama Kameliowa\" marked the dawn of realism, Poland was still experiencing Romanticism.\n\nThe Polish reception of the work was different from the French one due to several factors:\n\n1. **Different literary evolution**: The evolution of literary styles was different in Poland than in France. When there \"Dama Kameliowa\" signified the dawn of realism, we were still experiencing Romanticism.\n\n2. **Cultural differences**: There were also differences in customs. If there both the theme and its treatment seemed too harsh to censorship, how much harsher they were for us!\n\n3. **Transitional nature**: Dumas's drama serves as an intermediate link, and the theme that life presented to him was very conducive to this renewal of theater. These conditions, naturally combining luxury with need, brilliance with humiliation, particularly made this terrain favorable for the fusion of Romanticism with realism.\n\nThe work was significant in Polish theater history, with the Polish \"Dama Kameliowa\" differing greatly from the French version, influenced by Verdi's opera and the liberties taken by translators of that era."
+    ],
+    "durationSeconds": 15.436653041999962
+  }
+}

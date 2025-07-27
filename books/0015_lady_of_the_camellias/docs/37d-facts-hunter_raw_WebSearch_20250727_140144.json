@@ -1,0 +1,62 @@
+{
+  "session_id": "ce52af78-3d0b-4820-934c-a3168f2187ce",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ce52af78-3d0b-4820-934c-a3168f2187ce.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Lady of the Camellias\" film adaptations history cinema Greta Garbo Camille theater productions"
+  },
+  "tool_response": {
+    "query": "\"Lady of the Camellias\" film adaptations history cinema Greta Garbo Camille theater productions",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01Tq6HL9eQYx6YEiafTL99ZB",
+        "content": [
+          {
+            "title": "The Lady of the Camellias - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Lady_of_the_Camellias"
+          },
+          {
+            "title": "Amazon.com: Camille : Greta Garbo, Robert Taylor, Lionel Barrymore, Elizabeth Allan, Jessie Ralph, Henry Daniell, Lenore Ulric, Laura Hope Crews, Rex O'Malley, Mariska Aldrich, Marion Ballou, Phyllis Barry, George Cukor, Alexandre Dumas fils, Frances Marion, James Hilton, Zoe Akins: Movies & TV",
+            "url": "https://www.amazon.com/Camille-Greta-Garbo/dp/B0009S4IH4"
+          },
+          {
+            "title": "Camille",
+            "url": "https://www.umsl.edu/~gradyf/film/reviews/Camille.htm"
+          },
+          {
+            "title": "Camille (1936) - Turner Classic Movies",
+            "url": "https://www.tcm.com/tcmdb/title/1986/camille"
+          },
+          {
+            "title": "Camille (1936): Greta Garbo's Flawless Film - Vanguard of Hollywood",
+            "url": "https://vanguardofhollywood.com/camille/"
+          },
+          {
+            "title": "Buy cinema tickets for Camille | BFI Southbank",
+            "url": "https://whatson.bfi.org.uk/Online/default.asp?BOparam::WScontent::loadArticle::permalink=camille"
+          },
+          {
+            "title": "Camille (1936) (Film) - TV Tropes",
+            "url": "https://tvtropes.org/pmwiki/pmwiki.php/Film/Camille1936"
+          },
+          {
+            "title": "The Lady of the Camellias | waterlooeast",
+            "url": "https://www.waterlooeast.co.uk/the-lady-of-the-camellias"
+          },
+          {
+            "title": "The Lady of the Camellias (1981 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Lady_of_the_Camellias_(1981_film)"
+          },
+          {
+            "title": "Camille | Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/m/1003441-camille"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about \"The Lady of the Camellias\" film adaptations and theater history, particularly focusing on Greta Garbo's famous 1936 performance in \"Camille.\"\n\n## Film Adaptation History\n\n\"La Dame aux Cam\u00e9lias has been adapted for some 20 different motion pictures in numerous countries and in a wide variety of languages.\"(no content)There have been at least nine adaptations of La Dame aux Cam\u00e9lias entitled Camille.\n\n### Notable Film Adaptations:\n\n**Silent Era:**\n- Camille (1915), an American silent film adapted by Frances Marion, directed by Albert Capellani, starring Clara Kimball Young as Camille and Paul Capellani as Armand\n- Camille (1917), an American silent film adapted by Adrian Johnson, directed by J. Gordon Edwards, starring Theda Bara as Camille and Alan Roscoe as Armand\n- Camille (1921), an American silent film starring Alla Nazimova as Camille and Rudolph Valentino as Armand\n\n**Sound Era:**\n- Camille (1936), an American film directed by George Cukor, starring Greta Garbo as Camille and Robert Taylor as Armand\n- Camille 2000 (1969), an Italian film adapted by Michael DeForrest, directed by Radley Metzger, starring Danielle Gaubert as Marguerite and Nino Castelnuovo as Armand\n- Camille (1981), commonly known as La Dame aux Cam\u00e9lias or Lady of the Camellias (Italian: La storia vera della signora dalle camelie), a French-Italian film directed by Mauro Bolognini, starring Isabelle Huppert as Alphonsine\n\n## Greta Garbo's Iconic 1936 Performance\n\nThe 1936 MGM adaptation directed by George Cukor is widely considered the definitive film version. Camille is unquestionably the greatest film adaptation of the Alexandre Dumas fils novel, La Dame aux Camelias.\n\n### Critical Reception:\n- Garbo earned an Academy Award nomination and the New York Film Critics Best Actress Award for her memorable work.\n- Greta Garbo's effort in director George Cukor's adaptation of the Dumas fils tragedy Camille is pretty well recognized as her signature performance\n- \"MGM's high camp 'funereal' decor, the judicious adaptation of Dumas' play, Cukor's gay sensibility in directing women, and William Daniels' atmospheric photography - all these made Camille Garbo's most popular film.\"\n\n### Production Details:\nGarbo refused to even meet Robert Taylor before filming began. As Garbo saw it, the moment Marguerite and Armand spot each other for the first time in the theater would be even more poignant if it was also the first time Garbo and Taylor met.\n\n## Theater History\n\n### Original Stage Production:\nFirst published in 1848 and subsequently adapted by Dumas for the stage, the play premiered at the Th\u00e9\u00e2tre du Vaudeville in Paris, France, on February 2, 1852.(no content)It was an instant success.\n\n### American Theater History:\nIn 1853, Jean Davenport starred in the first American production of the play, a sanitized version that changed the name of the leading character to Camille\u2014a practice adopted by most American actresses playing the role.(no content)In some of the English-speaking world, The Lady of the Camellias became known as Camille, and sixteen versions have been performed at Broadway theatres alone.\n\n### Notable Theater Actresses:\nThe role of the tragic Marguerite Gautier became one of the most coveted among actresses and included performances by Sarah Bernhardt, Laura Keene, Eleonora Duse, Margaret Anglin, Gabrielle R\u00e9jane, Tallulah Bankhead, Lillian Gish, Dolores del R\u00edo, Eva Le Gallienne, Isabelle Adjani, Cacilda Becker, and Helena Modjeska.(no content)Bernhardt quickly became associated with the role after starring in Camellias in Paris, London, and several Broadway revivals, plus the 1911 film.\n\n## Contemporary Adaptations\n\nFor modern musical fans, Baz Luhrmann's 2001 film, Moulin Rouge, is the most recent film incarnation of Dumas' book. The story has also inspired other works, including the 2008 musical Marguerite, which places the story in 1944 German-occupied France.\n\nThe enduring appeal of \"The Lady of the Camellias\" across different media demonstrates its timeless themes of love, sacrifice, and social class, with Garbo's 1936 performance remaining the gold standard for film adaptations."
+    ],
+    "durationSeconds": 34.896722931
+  }
+}

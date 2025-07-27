@@ -1,0 +1,21 @@
+{
+  "session_id": "b0f41138-72f1-43cb-917b-54ebecc8e541",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b0f41138-72f1-43cb-917b-54ebecc8e541.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Jane Eyre\" \"literatura polska\" por\u00f3wnanie wp\u0142yw \"polskie pisarki\" feminizm"
+  },
+  "tool_response": {
+    "query": "\"Jane Eyre\" \"literatura polska\" por\u00f3wnanie wp\u0142yw \"polskie pisarki\" feminizm",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01UAqhR6AG6kH9nMJuF5RkYR",
+        "content": []
+      },
+      "I searched for the query you specified: \"Jane Eyre\" \"literatura polska\" por\u00f3wnanie wp\u0142yw \"polskie pisarki\" feminizm\n\nHowever, the search didn't return any results. This could be because:\n\n1. The specific combination of Polish literary analysis terms with Jane Eyre may be quite specialized\n2. The exact phrase combination might not exist in the indexed content\n3. There may be limited academic or online content that specifically compares Jane Eyre's influence on Polish female writers and feminism using these exact terms\n\nIf you're looking for information about Jane Eyre's influence on Polish literature or Polish female writers, I could try a different search approach with modified terms. Would you like me to search with slightly different keywords or a broader query?"
+    ],
+    "durationSeconds": 9.830599849999881
+  }
+}

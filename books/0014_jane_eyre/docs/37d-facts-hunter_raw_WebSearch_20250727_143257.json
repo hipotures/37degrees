@@ -1,0 +1,62 @@
+{
+  "session_id": "b0f41138-72f1-43cb-917b-54ebecc8e541",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b0f41138-72f1-43cb-917b-54ebecc8e541.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Charlotte Bront\u00eb writing challenges struggles Jane Eyre manuscript creation obstacles difficulties"
+  },
+  "tool_response": {
+    "query": "Charlotte Bront\u00eb writing challenges struggles Jane Eyre manuscript creation obstacles difficulties",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01L9SzxnbqyJFSyCMQQ5aBGe",
+        "content": [
+          {
+            "title": "Charlotte Bront\u00eb - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Charlotte_Bront%C3%AB"
+          },
+          {
+            "title": "Charlotte Bront\u00eb: The Woman Behind Jane Eyre - Alley Theatre",
+            "url": "https://www.alleytheatre.org/charlotte-bronte-the-women-behind-jane-eyre/"
+          },
+          {
+            "title": "The Blurry Line Between Charlotte Bront\u00eb and Jane Eyre - LaurelLit.com",
+            "url": "https://laurellit.com/the-blurry-line-between-charlotte-bronte-and-jane-eyre/"
+          },
+          {
+            "title": "The Fierce, Bright Mind Behind Jane Eyre: A Review of Elizabeth Gaskell\u2019s The Life of Charlotte Bront\u00eb | by Legible | Legible Blog | Medium",
+            "url": "https://medium.com/legible-media/the-fierce-bright-mind-behind-jane-eyre-a-review-of-elizabeth-gaskells-the-life-of-charlotte-eb45d78b8055"
+          },
+          {
+            "title": "Jane Eyre, by Charlotte Bronte (1847) - ZSR Library",
+            "url": "https://zsr.wfu.edu/2016/jane-eyre-by-charlotte-bronte-1847/"
+          },
+          {
+            "title": "Jane Eyre Summary, Plot, Character List + Essay Sample",
+            "url": "https://essaypro.com/blog/jane-eyre-summary"
+          },
+          {
+            "title": "Jane Eyre - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Jane_Eyre"
+          },
+          {
+            "title": "Charlotte Bronte | Biography, Books, Novels, Jane Eyre, & Facts | Britannica",
+            "url": "https://www.britannica.com/biography/Charlotte-Bronte"
+          },
+          {
+            "title": "How 'Jane Eyre' Was Published - The Story in Charlotte Bront\u00eb's Letters - leseriana",
+            "url": "https://leseriana.blog/2023/10/21/how-jane-eyre-was-published-the-story-in-charlotte-brontes-letters/"
+          },
+          {
+            "title": "Jane Eyre: Charlotte Bront\u00eb and Jane Eyre Background | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/janeeyre/context/"
+          }
+        ]
+      },
+      "Based on the search results, I found extensive information about Charlotte Bront\u00eb's writing challenges and struggles during the creation of Jane Eyre. Here's what the search revealed about her obstacles and difficulties:\n\n## Publishing Rejections and Gender Barriers\n\nCharlotte faced significant discouragement when she sent her work to the poet Robert Southey, who replied, \"Literature cannot be the business of a woman's life, and it ought not to be. The more she is engaged in her proper duties, the less leisure will she have for it, even as an accomplishment and a recreation.\" Ultimately, Bront\u00eb submitted her work, and her sisters', to publishers under male pseudonyms, conducting all business by post.(no content)Her first novel, The Professor, written before Jane Eyre, was first submitted together with Wuthering Heights by Emily Bront\u00eb and Agnes Grey by Anne Bront\u00eb. Subsequently, The Professor was resubmitted separately, and rejected by many publishing houses.\n\n## Financial Struggles and Failed Ventures\n\nAfter a failed attempt to start their own school at Haworth, Charlotte, Emily, and Anne turned to writing as a potential source of income. In 1846 they published, at their own expense, a volume of their collected poetry\u2014which sold a total of two copies.\n\n## Personal Traumas That Influenced Her Writing\n\nOne of the most poignant parallels between Bront\u00eb's life and her literary masterpiece is the boarding school experience. At eight, Charlotte and her sisters were sent to Clergy Daughters' School at Cowan Bridge. The harsh conditions and inadequate facilities left a lasting impact on the Bront\u00eb sisters, with the eldest two, Maria and Elizabeth, succumbing to tuberculosis. The portrayal of Lowood School in Jane Eyre echoes Charlotte's own traumatic experiences.\n\n## Creative Dependency and Fantasy World Struggles\n\nAt the end of 1839, Charlotte wrote Farewell to Angria, a manuscript in which she explored her growing dependency on her fantasy world. This suggests she struggled with balancing her imaginative world with real-world writing ambitions.\n\n## The Success of Jane Eyre and Editorial Challenges\n\nCharlotte sent the manuscript to George Smith in August 1847, and the publisher's enthusiasm was immediate. Smith wrote to \"Currer Bell\" with some proposed edits to the manuscript, apparently expressing some misgivings about the early chapters dealing with Jane's childhood. Charlotte wrote back thanking him for the \"judicious remarks and sound advice,\" but firmly rejecting his suggestions.\n\n## Post-Publication Self-Doubt\n\nAfter the novel was published, on the 4th January 1848, Currer Bell writes to Williams that he should have been kinder to \"the Maniac\" and \"I have erred in making horror too predominant\". On the 11th of March 1848 he wrote, in reference to his preface to the second edition of Jane Eyre, \"I see it as a fault to bore the public with enthusiasm about a living author\". It's reassuring to know that even sacred monsters of literature have second thoughts about their works.\n\nThe search reveals that Charlotte Bront\u00eb faced multiple obstacles including gender discrimination, financial pressures, personal trauma from her boarding school experiences, repeated rejections of her first novel, and ongoing self-doubt about her work even after achieving success with Jane Eyre."
+    ],
+    "durationSeconds": 27.025932124999816
+  }
+}

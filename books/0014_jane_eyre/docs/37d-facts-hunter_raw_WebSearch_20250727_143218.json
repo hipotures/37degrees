@@ -1,0 +1,62 @@
+{
+  "session_id": "b0f41138-72f1-43cb-917b-54ebecc8e541",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b0f41138-72f1-43cb-917b-54ebecc8e541.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Jane Eyre hidden secrets lesser-known facts trivia Charlotte Bront\u00eb manuscript writing curiosities"
+  },
+  "tool_response": {
+    "query": "Jane Eyre hidden secrets lesser-known facts trivia Charlotte Bront\u00eb manuscript writing curiosities",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01J2QrcGigvPPSAFiF23u7v2",
+        "content": [
+          {
+            "title": "Charlotte Bront\u00eb - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Charlotte_Bront%C3%AB"
+          },
+          {
+            "title": "Charlotte Bront\u00eb Trivia: The Iconic Mind Behind 'Jane Eyre'",
+            "url": "https://bookstr.com/article/charlotte-bronte-trivia-the-iconic-mind-behind-jane-eyre/"
+          },
+          {
+            "title": "Amazon.com: The Secret History of Jane Eyre: How Charlotte Bront\u00eb Wrote Her Masterpiece: 9780393248876: Pfordresher, John: Books",
+            "url": "https://www.amazon.com/Secret-History-Jane-Eyre-Masterpiece/dp/0393248879"
+          },
+          {
+            "title": "Autobiographical Details in Charlotte Bront\u00eb\u2019s Jane Eyre: Part 1 -- The Madwoman in the Attic | Syrie James",
+            "url": "https://syriejames.com/2021/06/14/autobiographical-details-in-charlotte-brontes-jane-eyre-part-1/"
+          },
+          {
+            "title": "Charlotte Bronte | Biography, Books, Novels, Jane Eyre, & Facts | Britannica",
+            "url": "https://www.britannica.com/biography/Charlotte-Bronte"
+          },
+          {
+            "title": "Jane Eyre - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Jane_Eyre"
+          },
+          {
+            "title": "Charlotte Bront\u00eb's \u201cJane Eyre\u201d is published in London | October 19, 1847 | HISTORY",
+            "url": "https://www.history.com/this-day-in-history/jane-eyre-is-published"
+          },
+          {
+            "title": "Jane Eyre | Summary, Characters, Analysis, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/Jane-Eyre-novel-by-Bronte"
+          },
+          {
+            "title": "Jane Eyre: Charlotte Bront\u00eb and Jane Eyre Background | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/janeeyre/context/"
+          },
+          {
+            "title": "Jane Eyre Study Guide - Charlotte Bront\u00eb",
+            "url": "https://www.litcharts.com/lit/jane-eyre"
+          }
+        ]
+      },
+      "Based on my search results, I found several fascinating hidden secrets and lesser-known facts about Jane Eyre and Charlotte Bront\u00eb's writing process. Here are the most intriguing discoveries:\n\n## Hidden Secrets and Lesser-Known Facts about Jane Eyre\n\n### The Mysterious Writing Process\n\nFew people know how quickly Bront\u00eb composed Jane Eyre. Nor do many know that she wrote it during a devastating and anxious period in her life. Thwarted in her passionate, secret, and forbidden love for a married man, she found herself living in a home suddenly imperiled by the fact that her father, a minister, the sole support of the family, was on the brink of blindness.(no content)After his hasty operation, as she nursed him in an isolated apartment kept dark to help him heal his eyes, Bront\u00eb began writing Jane Eyre - literally writing her masterpiece in darkness while caring for her father.\n\n### Concealment and Secrecy\n\nWhy did Charlotte Bront\u00eb go to such great lengths on the publication of her acclaimed, best-selling novel, Jane Eyre, to conceal its authorship from her family, close friends, and the press? In The Secret History of Jane Eyre, John Pfordresher tells the enthralling story of Bront\u00eb's compulsion to write her masterpiece and why she then turned around and vehemently disavowed it.\n\n### The Family Name Secret\n\nDid you know that Bront\u00eb is not really the family's original inherited surname? Charlotte's father, Patrick Bront\u00eb was born Patrick Brunty to a large, poor family in Ireland. He sought to distance himself from his Irish roots by changing 'Brunty' to 'Bront\u00eb,' the Latin spelling which means thunder.\n\n### Publication Mysteries\n\nJane Eyre was originally published in 1847 as an \"autobiography\" of Jane Eyre herself, edited by Currer Bell. This created additional layers of mystery about the true author. Charlotte Bront\u00eb's name \u2014 she, Emily, and Anne each took on male pseudonyms when publishing their work. They called themselves Currer, Ellis, and Acton Bell respectively, and used these names to avoid the stigma of being a woman in the literary world.\n\n### Autobiographical Elements Hidden in Plain Sight\n\nJane Eyre, like Charlotte, was also poor and motherless. In fact, every single one of the heroines in Charlotte Bront\u00eb's novels, from Frances Henri in The Professor, to the schoolgirl in her last unfinished work Emma, are motherless.\n\nThe early sequences, in which Jane is sent to Lowood, a harsh boarding school, are derived from the author's own experiences. Helen Burns's death from tuberculosis (referred to as consumption) recalls the deaths of Charlotte Bront\u00eb's sisters, Elizabeth and Maria, who died of the disease in childhood as a result of the conditions at their school.\n\n### Hidden Inspirations for Gothic Elements\n\nThe Gothic manor of Thornfield Hall was probably inspired by North Lees Hall, near Hathersage in the Peak District in Derbyshire. This was visited by Charlotte Bront\u00eb and her friend Ellen Nussey in the summer of 1845, and is described by the latter in a letter dated 22 July 1845. It was the residence of the Eyre family, and its first owner, Agnes Ashurst, was reputedly confined as a lunatic in a padded second floor room.\n\n### Early Writing Experiments\n\nThe sequence in which Mr Rochester's wife sets fire to the bed curtains was prepared in an August 1830 homemade publication of Bront\u00eb's The Young Men's Mag - showing that key dramatic scenes were conceived years before the novel was written.\n\n### Location Mysteries\n\nCharlotte Bront\u00eb began composing Jane Eyre in Manchester, and she likely envisioned Manchester Cathedral churchyard as the burial place for Jane's parents and Manchester as the birthplace of Jane herself.\n\nThese discoveries reveal that Jane Eyre was far more autobiographical and secretive in its creation than many readers realize, written during a period of personal crisis and concealment that Charlotte Bront\u00eb went to great lengths to hide from the world."
+    ],
+    "durationSeconds": 32.746936395999974
+  }
+}

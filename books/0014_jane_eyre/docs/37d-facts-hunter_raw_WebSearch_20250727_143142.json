@@ -1,0 +1,62 @@
+{
+  "session_id": "b0f41138-72f1-43cb-917b-54ebecc8e541",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b0f41138-72f1-43cb-917b-54ebecc8e541.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Jane Eyre real-life inspirations Lowood School Cowan Bridge Rochester Thornfield Hall Charlotte Bront\u00eb"
+  },
+  "tool_response": {
+    "query": "Jane Eyre real-life inspirations Lowood School Cowan Bridge Rochester Thornfield Hall Charlotte Bront\u00eb",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01Vkvn6ng6dbmvvepWztRKob",
+        "content": [
+          {
+            "title": "Jane Eyre - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Jane_Eyre"
+          },
+          {
+            "title": "Charlotte Bronte, Jane Eyre and the true inspiration for Thornfield Hall | Mike Sheridan \u2013 Researcher and Writer",
+            "url": "https://bakersfieldlad.wordpress.com/2016/04/21/charlotte-bronte-jane-eyre-and-the-true-inspiration-for-thornfield-hall/"
+          },
+          {
+            "title": "Lowood School: location and characters",
+            "url": "https://jane-eyre.guidesite.co.uk/lowood-school"
+          },
+          {
+            "title": "Jane Eyre and Education",
+            "url": "https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1729&context=student_scholarship"
+          },
+          {
+            "title": "Lowood/Cowan Bridge: The Reason Behind the Similarities \u2013 L.M.Hambrick",
+            "url": "https://lmhambrick.wordpress.com/academic/bronte/"
+          },
+          {
+            "title": "Jane Eyre | Summary, Characters, Analysis, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/Jane-Eyre-novel-by-Bronte"
+          },
+          {
+            "title": "Jane Eyre | Encyclopedia.com",
+            "url": "https://www.encyclopedia.com/arts/educational-magazines/jane-eyre"
+          },
+          {
+            "title": "Lowood Institute | COVE",
+            "url": "https://editions.covecollective.org/place/lowood-institute"
+          },
+          {
+            "title": "Jane Eyre Summary - BookBrief",
+            "url": "https://bookbrief.io/books/jane-eyre-charlotte-bront%C3%AB/summary"
+          },
+          {
+            "title": "Jane Eyre (character) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Jane_Eyre_(character)"
+          }
+        ]
+      },
+      "Based on the search results, I can provide comprehensive information about the real-life inspirations behind Charlotte Bront\u00eb's \"Jane Eyre,\" particularly regarding Lowood School, Cowan Bridge, Rochester, and Thornfield Hall.\n\n## Lowood School and Cowan Bridge\n\nLowood School in Jane Eyre was directly inspired by the Clergy Daughters' School at Cowan Bridge in Lancashire, which Charlotte Bront\u00eb and her sisters attended as pupils. The deaths of Charlotte Bront\u00eb's sisters, Elizabeth and Maria, who died of tuberculosis (consumption) in childhood as a result of the conditions at their school, recalls Helen Burns's death from tuberculosis in the novel.\n\nMr. Brocklehurst, the harsh evangelical minister who runs Lowood, is based on Rev. William Carus Wilson (1791\u20131859), the Evangelical minister who ran the Cowan Bridge school. Fellow pupils from Cowan Bridge recognized the school from Jane Eyre and also some of the teachers.\n\n## Helen Burns and Maria Bront\u00eb\n\nHelen Burns is based on Charlotte's eldest sister, Maria, who also died of consumption. Elizabeth Gaskell wrote: \"I need hardly say, that Helen Burns is as exact a transcript of Maria Bront\u00eb as Charlotte's wonderful power of reproducing character could give\". Charlotte Bront\u00eb's \"imagination built up two strongly contrasted ideas\u2014one, as Maria as the epitome of goodness; the other, of Cowan Bridge as the epitome of evil\".\n\n## Thornfield Hall Inspirations\n\nThornfield Hall may be modeled on two different manor houses with which Bront\u00eb was familiar. The first, called Norton Conyers, is near the city of Ripon in North Yorkshire. North Lees Hall, a large, forbidding-looking stone manor house in Derbyshire, also seems to fit the description of Thornfield. In 1846 Bront\u00eb spent three weeks in the village of Heathersage, in Derbyshire, visiting her old school friend Ellen Nussey.\n\n## Other Personal Inspirations\n\nJohn Reed's decline into alcoholism and dissolution recalls the life of Charlotte's brother Branwell, who became an opium and alcohol addict in the years preceding his death. Finally, like Jane, Charlotte became a governess.\n\nMany scholars agree that when Charlotte Bront\u00eb wrote Jane Eyre, she based many of the situations and characters in the book on her own experiences and acquaintances. Bront\u00eb declared, \"I will show you a heroine as plain and as small as myself,\" in regards to creating Jane Eyre.\n\nThe novel draws extensively from Charlotte Bront\u00eb's personal experiences, transforming her tragic family history and educational experiences into one of literature's most enduring works."
+    ],
+    "durationSeconds": 26.443097441000397
+  }
+}
