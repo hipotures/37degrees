@@ -1,0 +1,41 @@
+{
+  "sceneDescription": {
+    "title": "Shadows in the Inn",
+    "setting": {
+      "time": "1750s, evening",
+      "location": "Inn common room",
+      "weather": "Rain beginning outside"
+    },
+    "characters": [
+      {
+        "appearance": "teenage boy, 13 years old, tense posture",
+        "clothing": "simple work clothes, slightly damp from rain",
+        "position": "pressed against wall near staircase",
+        "action": "watching room with wide, alert eyes"
+      },
+      {
+        "appearance": "mysterious stranger, tall build, face partially hidden",
+        "clothing": "long dark coat, tricorn hat casting shadow over features",
+        "position": "seated alone in darkest corner of room",
+        "action": "slowly turning tankard in hands, observing everything"
+      },
+      {
+        "appearance": "innkeeper, usually jovial face now guarded",
+        "clothing": "usual vest and apron",
+        "position": "behind bar, pretending to clean glasses",
+        "action": "stealing glances at stranger, movements unnaturally stiff"
+      }
+    ],
+    "scene": {
+      "mainElements": "previously warm inn space now filled with long shadows and uncomfortable silence",
+      "details": "fire burning lower than usual, casting dancing shadows on walls, empty chairs where regulars usually sit, rain starting to tap against windows, door occasionally rattling in wind, no text or letters visible",
+      "background": "dark windows reflecting interior, creating sense of isolation",
+      "atmosphere": "tension replacing comfort, familiar space becoming threatening"
+    },
+    "composition": {
+      "cameraAngle": "low angle emphasizing shadows and ceiling beams",
+      "focus": "interplay of light and shadow creating visual tension",
+      "depth": "boy in foreground shadow, stranger in background darkness"
+    }
+  }
+}

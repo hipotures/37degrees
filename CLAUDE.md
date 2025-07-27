@@ -11,12 +11,29 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - **Package manager**: Use `uv` instead of pip
   - Install dependencies: `uv pip install -r requirements.txt`
   - Add new package: `uv pip install package_name`
+  - Activate virtual environment: `source .venv/bin/activate` (if needed)
+- **Python version**: 3.12+ required
 - **Configuration**: Project uses centralized config in `config/settings.yaml`
   - Copy `.env.example` to `.env` for local settings
   - Override settings with `--set key=value`
   - Use custom config with `--config file.yaml`
 
 ## Common Commands
+
+### Testing and Development
+```bash
+# No formal test suite - test with mock generator
+python main.py ai 17 --generator mock
+
+# Test video generation without AI
+python main.py video 17  # Requires existing images in generated/
+
+# Test research generation
+python main.py research 17 --provider mock
+
+# Debug mode
+python main.py --set development.debug=true ai 17
+```
 
 ### Main CLI Commands
 ```bash
@@ -73,143 +90,89 @@ python main.py --set development.debug=true --no-banner ai 17
 python main.py --config production.yaml video 17
 ```
 
+### Advanced Scene Generation (37degrees Commands)
+```bash
+# Generate new scene descriptions using custom commands
+/37d-gen-scenes-step1 "Book Title" "Author" [generator_type]
+
+# Examples:
+/37d-gen-scenes-step1 "Little Prince" "Saint-Exupéry" narrative
+/37d-gen-scenes-step1 "Treasure Island" "Stevenson" flexible
+/37d-gen-scenes-step1 "Wuthering Heights" "Emily Brontë" emotional
+/37d-gen-scenes-step1 "1984" "Orwell"  # defaults to 'podcast'
+
+# Apply visual styles to scenes
+/37d-apply-style-step2 "Book Title" "Author" [style_name]
+```
+
 ### Utility Scripts
 ```bash
-# Migrate old book structure (if needed)
-python scripts/migrate_structure.py
-
 # Build prompts for scenes (standalone)
 python src/prompt_builder.py books/NNNN_book_name/book.yaml
 ```
 
-## Architecture Updates (v2.0.0)
+## High-Level Architecture
 
-### New Features
+### Core Pipeline Flow
+1. **Book Configuration** → 2. **Scene Generation** → 3. **AI Image Generation** → 4. **Video Composition**
 
-1. **Plugin-based Image Generators** (`src/generators/`)
-   - Abstract base class for all generators
-   - Registry system for dynamic loading
-   - Built-in: InvokeAI, ComfyUI, Mock
-   - Easy to add custom generators
+### Key Architectural Components
 
-2. **Centralized Configuration** (`src/config.py`)
-   - Single source of truth: `config/settings.yaml`
-   - Environment variable support with `.env` files
-   - Runtime overrides via CLI
-   - Automatic variable substitution
+1. **Plugin Architecture** (`src/generators/`)
+   - `BaseImageGenerator` abstract class defines interface
+   - Registry pattern for dynamic generator discovery
+   - Generators: InvokeAI (primary), ComfyUI, Mock (testing)
+   - New generators can be added by inheriting from base class
 
-3. **Enhanced CLI Options**
-   - `--generator`: Choose image generator
-   - `--set`: Override any config value
-   - `--config`: Use custom config file
-   - `--no-banner`: Skip startup banner
-   - `--provider`: Choose research provider
+2. **Scene Generation System** (v2.0+)
+   - **Two-step process**: Scene descriptions → Style application
+   - **Generator types**: narrative, flexible, podcast, atmospheric, emotional
+   - **Scene files**: `books/*/prompts/scenes/[type]/scene_XX.json`
+   - **Style library**: 37 graphic styles in `config/prompt/graphics-styles/`
+   - **Templates**: Scene generators in `config/prompt/scene-generator/`
 
-4. **AI-Powered Research** (`src/research/`)
-   - Abstract provider system for extensibility
-   - Perplexity AI integration for real-time web search
-   - Google Search API support
-   - Mock provider for testing
-   - Automatic review.md generation in Polish
-   - Smart caching of API responses
+3. **Configuration System** (`src/config.py`)
+   - Centralized settings loaded from `config/settings.yaml`
+   - Environment variables override via `.env`
+   - Runtime overrides with `--set` flag
+   - Path resolution and variable substitution
 
-5. **Static Site Generator** (`src/site_generator/`)
-   - Interactive HTML pages for each book
-   - Main index with collection organization
-   - Collection overview pages
-   - Responsive design with Tailwind CSS
-   - Timeline visualizations and modal interactions
-   - Integration with research content
+4. **CLI Command Architecture** (`src/cli/`)
+   - Each major feature has dedicated module
+   - Commands use click framework with shared context
+   - Batch operations support via collection system
 
-### Core Components
+5. **Video Generation Pipeline**
+   - `OptimizedVideoGenerator` for parallel frame rendering
+   - `SlideRenderer` handles Ken Burns effects and transitions
+   - `TextAnimator` provides entrance/exit animations
+   - Multiple text overlay methods (outline, shadow, box, etc.)
+   - FFmpeg with NVENC GPU acceleration
 
-1. **Book Configuration** (`books/NNNN_book_name/book.yaml`)
-   - Books are numbered with 4-digit IDs (e.g., 0017_little_prince)
-   - Contains book metadata, art style, text overlay settings, and slide definitions
-   - Each slide has scene descriptions for AI generation
-   - Text overlay configuration supports multiple methods (outline, shadow, box, gradient, glow)
-   - Supports emoji rendering with `enable_color_emojis` setting
-   - Configurable text timing with fade in/out effects
-   - Per-book audio volume override
+6. **Research Integration** (`src/research/`)
+   - Provider pattern for extensibility
+   - Perplexity AI and Google Search implementations
+   - Automatic Polish review.md generation
+   - Response caching to minimize API calls
 
-2. **CLI System** (`src/cli/`)
-   - `collections_cmd.py` - Collection management
-   - `list_books.py` - Book listing functionality
-   - `video.py` - Video generation commands
-   - `ai.py` - AI image generation commands
-   - `utils.py` - CLI utility functions
+7. **Static Site Generation** (`src/site_generator/`)
+   - Generates interactive HTML for book exploration
+   - Timeline visualizations and collection organization
+   - Templates in `shared_assets/templates/`
 
-3. **Prompt Generation** (`src/prompt_builder.py`)
-   - Converts book YAML to AI-ready prompts
-   - Outputs structured YAML prompts for scene generation
-   - Emphasizes non-photorealistic, childlike illustration style
+### Data Flow
+```
+book.yaml → Scene Generator → JSON scenes → Style Application → AI Prompts
+                                                                     ↓
+HTML Site ← Video File ← Frame Rendering ← AI Images ← AI Generator
+```
 
-4. **AI Integration**
-   - `src/simple_invokeai_generator.py` - Simple InvokeAI integration (primary generator)
-   - `src/comfyui_generator.py` - ComfyUI API integration (manual use)
-   - `src/style_preset_loader.py` - InvokeAI style preset management
-   - `src/prompt_builder.py` - Standalone prompt generation tool
-
-5. **Video Creation**
-   - `src/video_generator.py` - Main video generation logic
-   - `src/optimized_video_generator.py` - Parallel frame rendering
-   - `src/slide_renderer.py` - Advanced slide rendering with templates
-   - `src/text_animator.py` - Text animation effects
-   - `src/text_overlay.py` - Basic text rendering
-   - `src/text_overlay_emoji.py` - Enhanced text with color emoji support
-   - `src/emoji_utils.py` - Emoji to text replacement utilities
-   - Uses ffmpeg for final video encoding with NVENC GPU acceleration
-
-6. **Collections System** (`collections/`)
-   - YAML files defining book collections
-   - `classics.yaml` - Main collection of 37 classic books
-   - Supports batch operations on entire collections
-
-### Directory Structure
-
-- `books/NNNN_[book_name]/` - Self-contained book directories with:
-  - `book.yaml` - Configuration
-  - `generated/` - AI-generated illustrations
-  - `prompts/` - AI generation prompts
-  - `frames/` - Video frames (gitignored)
-  - `docs/` - Book documentation and research
-    - `README.md` - Documentation guide
-    - `review.md` - Fascinating facts and discoveries
-    - `book_page.html` - Interactive HTML presentation
-  
-- `collections/` - Book collections/series definitions
-- `shared_assets/` - Common resources (fonts, templates, backgrounds)
-  - `fonts/` - Font files for text rendering
-  - `templates/` - HTML page templates
-  - `backgrounds/` - Background images
-- `src/` - Core application code
-- `scripts/` - Utility and test scripts
-- `docs/` - Project documentation
-- `output/` - Generated videos (gitignored)
-
-### Key Design Decisions
-
-1. **Art Style**: Minimalist children's book illustrations with naive art approach
-   - Flat colors, simple shapes, no photorealistic rendering
-   - Upper third of image reserved for text overlay
-   - SDXL resolution: 832x1248 (to avoid artifacts)
-   - Final video resolution: 1080x1920
-
-2. **Text Visibility**: Multiple methods configurable per book
-   - Default: outline method with black border
-   - Alternatives: shadow, semi-transparent box, gradient, glow
-   - Configurable outline width and color
-   - Color emoji support with Pilmoji
-
-3. **Text Animation**: Rich animation system
-   - Entrance animations: slide_up, slide_down, slide_left, slide_right, fade, zoom, bounce, typewriter
-   - Exit animations: fade_out, slide_up, slide_down, zoom_out
-   - Configurable timing and fade effects
-
-4. **AI Model Selection**:
-   - DreamShaper XL for fantasy/universal use
-   - Pony Diffusion XL for younger audience
-   - Different models for different genres (see docs/invoke_models_guide.md)
+### Key Design Patterns
+- **Registry Pattern**: Dynamic generator discovery
+- **Abstract Factory**: Image generator creation
+- **Template Method**: Scene generation process
+- **Strategy Pattern**: Text overlay methods
+- **Provider Pattern**: Research API abstraction
 
 ## Important Context
 
@@ -219,3 +182,6 @@ python src/prompt_builder.py books/NNNN_book_name/book.yaml
 - Each video: ~28 seconds, 8 slides, vertical format
 - Emphasis on emotional, direct messaging with contemporary references
 - Safe zone compliance for TikTok UI elements
+- Art style: Non-photorealistic, childlike illustrations
+- SDXL optimal resolution: 832x1248 (avoid artifacts)
+- Final video: 1080x1920 at 30fps

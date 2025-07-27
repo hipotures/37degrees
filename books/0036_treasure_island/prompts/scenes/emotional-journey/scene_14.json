@@ -1,0 +1,29 @@
+{
+  "sceneDescription": {
+    "title": "Hunched in Despair",
+    "setting": {
+      "time": "1750s, dawn",
+      "location": "Rocky beach on tropical island",
+      "weather": "Gray dawn, heavy mist"
+    },
+    "characters": [
+      {
+        "appearance": "teenage boy, 13 years old, exhausted and defeated",
+        "clothing": "torn and salt-stained clothes, one shoe missing",
+        "position": "sitting hunched on wet rock, knees drawn up",
+        "action": "head buried in arms, shoulders shaking with silent sobs"
+      }
+    ],
+    "scene": {
+      "mainElements": "desolate beach at low tide, boy isolated on rock surrounded by shallow water, mist obscuring any hope of rescue",
+      "details": "dead fish washed up on shore, broken ship's timber scattered, boy's reflection in tide pool showing distorted face of anguish, seaweed draped like funeral shrouds, crabs scuttling past indifferently, no text or letters visible",
+      "background": "impenetrable wall of mist, jungle sounds distant and threatening",
+      "atmosphere": "complete abandonment, overwhelming despair, lost and alone"
+    },
+    "composition": {
+      "cameraAngle": "high angle emphasizing boy's smallness",
+      "focus": "boy's collapsed posture against vast empty beach",
+      "depth": "boy in middle distance, emphasizing isolation in space"
+    }
+  }
+}

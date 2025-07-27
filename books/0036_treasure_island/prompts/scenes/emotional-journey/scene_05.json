@@ -1,0 +1,41 @@
+{
+  "sceneDescription": {
+    "title": "Family Dinner Harmony",
+    "setting": {
+      "time": "1750s, evening",
+      "location": "Inn's private dining area",
+      "weather": "Clear night, stars visible through window"
+    },
+    "characters": [
+      {
+        "appearance": "middle-aged woman, motherly figure, brown hair in neat bun",
+        "clothing": "blue dress with white collar, clean apron",
+        "position": "seated at head of wooden table",
+        "action": "ladling stew into bowls, warm smile on face"
+      },
+      {
+        "appearance": "teenage boy, 13 years old, brown hair, content expression",
+        "clothing": "clean shirt and trousers for evening meal",
+        "position": "seated at table, hands folded politely",
+        "action": "listening attentively to conversation, occasional gentle laugh"
+      },
+      {
+        "appearance": "middle-aged man, innkeeper, robust build",
+        "clothing": "white shirt with rolled sleeves, dark vest",
+        "position": "seated at table opposite woman",
+        "action": "breaking bread to share, gesturing while telling story"
+      }
+    ],
+    "scene": {
+      "mainElements": "intimate dining space with wooden table set for evening meal, warm candlelight, simple but hearty food",
+      "details": "steam rising from bowls of stew, fresh bread on wooden board, pewter plates and cups, single candle creating warm pool of light, family portraits on wall, comfortable worn chairs, no text or letters visible",
+      "background": "doorway to main inn room, window showing starlit sky",
+      "atmosphere": "family togetherness, end-of-day gratitude, secure emotional bonds"
+    },
+    "composition": {
+      "cameraAngle": "slightly elevated view of dinner scene",
+      "focus": "circular arrangement emphasizing unity and connection",
+      "depth": "table and diners in center, room details surrounding"
+    }
+  }
+}

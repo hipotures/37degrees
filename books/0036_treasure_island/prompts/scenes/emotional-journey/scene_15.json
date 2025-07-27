@@ -1,0 +1,29 @@
+{
+  "sceneDescription": {
+    "title": "Between Light and Shadow",
+    "setting": {
+      "time": "1750s, sunset",
+      "location": "Forest clearing on island",
+      "weather": "Dramatic sunset splitting sky"
+    },
+    "characters": [
+      {
+        "appearance": "teenage boy, 13 years old, face showing internal conflict",
+        "clothing": "weathered clothes, makeshift weapon in hand",
+        "position": "standing at exact center where shadow meets light",
+        "action": "one foot in sunlight, one in shadow, looking between two paths"
+      }
+    ],
+    "scene": {
+      "mainElements": "clearing divided dramatically between golden sunlight and deep shadow, two paths leading in opposite directions",
+      "details": "butterflies in lit area, moths in shadows, flowers blooming on bright side, thorns on dark side, boy's shadow split showing two possible selves, moment of choice made visible, no text or letters visible",
+      "background": "dense jungle, path to left leading upward to light, path to right descending into darkness",
+      "atmosphere": "pivotal moment, internal struggle externalized, choice between paths"
+    },
+    "composition": {
+      "cameraAngle": "straight-on view emphasizing symmetrical split",
+      "focus": "boy positioned at exact division point",
+      "depth": "clearing foreground, diverging paths middle, jungle background"
+    }
+  }
+}

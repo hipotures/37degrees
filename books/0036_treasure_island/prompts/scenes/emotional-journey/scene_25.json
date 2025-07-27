@@ -1,0 +1,29 @@
+{
+  "sceneDescription": {
+    "title": "Full Circle at Sunset",
+    "setting": {
+      "time": "1750s, sunset",
+      "location": "Same coastal cliff from childhood",
+      "weather": "Golden sunset, gentle breeze"
+    },
+    "characters": [
+      {
+        "appearance": "young man, 18 years old, weathered but wise face",
+        "clothing": "quality coat over sailor's clothes, mix of two worlds",
+        "position": "standing on cliff edge, hands clasped behind back",
+        "action": "gazing at horizon with profound understanding, small smile"
+      }
+    ],
+    "scene": {
+      "mainElements": "familiar cliff overlooking ocean, but perspective completely transformed by experience",
+      "details": "same rocks and grass but now understood differently, ship's journal tucked under arm, wedding ring catching sunset light, telescope hanging at side, footprints in grass showing contemplative pacing, no text or letters visible",
+      "background": "merchant ships on horizon representing new ventures, village peaceful below",
+      "atmosphere": "profound peace, journey integrated, future embraced with wisdom"
+    },
+    "composition": {
+      "cameraAngle": "wide establishing shot, then moving to profile",
+      "focus": "solitary figure at peace with past and future",
+      "depth": "figure foreground, cliff middle, infinite ocean beyond"
+    }
+  }
+}

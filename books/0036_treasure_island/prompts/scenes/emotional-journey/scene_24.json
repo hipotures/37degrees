@@ -1,0 +1,41 @@
+{
+  "sceneDescription": {
+    "title": "New Foundation",
+    "setting": {
+      "time": "1750s, evening",
+      "location": "Rebuilt inn common room",
+      "weather": "Clear evening, stars visible"
+    },
+    "characters": [
+      {
+        "appearance": "young man, formerly the boy, now 16-17, confident bearing",
+        "clothing": "respectable merchant clothes, quality fabric",
+        "position": "standing by fireplace, addressing small gathering",
+        "action": "gesturing while sharing wisdom, natural leadership showing"
+      },
+      {
+        "appearance": "younger boy, 12 years old, eager expression",
+        "clothing": "simple work clothes, clean apron",
+        "position": "sitting cross-legged on floor, looking up admiringly",
+        "action": "listening intently, eyes wide with wonder"
+      },
+      {
+        "appearance": "mixed group of villagers, various ages",
+        "clothing": "evening attire, comfortable",
+        "position": "seated in semi-circle, leaning forward",
+        "action": "engaged listening, occasional knowing nods"
+      }
+    ],
+    "scene": {
+      "mainElements": "inn transformed into place of learning and community, maps on walls showing wider world",
+      "details": "new books on shelves, navigation instruments displayed, comfortable furniture arranged for gathering, fire creating warm circle of light, sense of knowledge being passed on, no text or letters visible",
+      "background": "windows showing peaceful village night, ships' lanterns in harbor",
+      "atmosphere": "wisdom shared, cycle continuing, transformation from seeker to guide"
+    },
+    "composition": {
+      "cameraAngle": "inclusive view showing teacher and students",
+      "focus": "young man as center of new community dynamic",
+      "depth": "gathering foreground, inn details middle, night beyond"
+    }
+  }
+}

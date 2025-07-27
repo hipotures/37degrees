@@ -23,7 +23,10 @@ The project has been reorganized to better support multimedia content for each b
 │       │   ├── scenes/        # Scene descriptions (v2.0+)
 │       │   │   ├── narrative/ # Story-focused scenes
 │       │   │   ├── flexible/  # Flexible creative scenes
-│       │   │   └── podcast/   # Podcast-style scenes
+│       │   │   ├── podcast/   # Podcast-style scenes
+│       │   │   ├── atmospheric/ # Atmospheric moment scenes
+│       │   │   └── emotional/ # Emotional journey scenes
+│       │   ├── genimage/      # Final AI-ready prompts (scene + style merged)
 │       │   ├── narrative/     # Legacy narrative prompts
 │       │   ├── epic/          # Legacy epic prompts
 │       │   └── modern/        # Legacy modern prompts
@@ -54,6 +57,7 @@ The project has been reorganized to better support multimedia content for each b
 ├── docs/                      # Project documentation
 │   ├── CONFIGURATION.md      # Configuration system guide
 │   ├── PLUGIN_ARCHITECTURE.md # Image generator plugins
+│   ├── PROMPT_GENERATION_GUIDE.md # Prompt generation system
 │   ├── HTML_PAGE_GENERATION_GUIDE.md
 │   ├── BOOK_STRUCTURE.md
 │   └── ...
@@ -63,13 +67,15 @@ The project has been reorganized to better support multimedia content for each b
 │   ├── generators.yaml       # Image generator settings
 │   └── prompt/               # Prompt generation configs
 │       ├── graphics-styles/  # Visual style definitions (JSON)
-│       └── scene-generator/  # Scene generation templates
-│           ├── scene-description-template.json
-│           ├── narrative-prompt-generator.md
-│           ├── flexible-prompt-generator.md
-│           ├── podcast-image-prompt-generator.md
-│           ├── atmospheric-moments-generator.md
-│           └── emotional-journey-generator.md
+│       ├── scene-generator/  # Scene generation templates
+│       │   ├── scene-description-template.json
+│       │   ├── narrative-prompt-generator.md
+│       │   ├── flexible-prompt-generator.md
+│       │   ├── podcast-image-prompt-generator.md
+│       │   ├── atmospheric-moments-generator.md
+│       │   ├── emotional-journey-generator.md
+│       │   └── automatic-style-selector.md
+│       └── scene-description-template.json
 │
 ├── output/                    # Generated videos
 │

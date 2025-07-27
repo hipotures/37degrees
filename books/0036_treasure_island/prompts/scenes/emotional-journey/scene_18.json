@@ -1,0 +1,29 @@
+{
+  "sceneDescription": {
+    "title": "Breaking Point",
+    "setting": {
+      "time": "1750s, midday",
+      "location": "Hilltop on island",
+      "weather": "Harsh sun, no shade"
+    },
+    "characters": [
+      {
+        "appearance": "teenage boy, 13 years old, at absolute limit",
+        "clothing": "clothes barely holding together, sun-burned skin visible",
+        "position": "collapsed on knees at hilltop",
+        "action": "fists pounding ground, face twisted in anguish, screaming silently"
+      }
+    ],
+    "scene": {
+      "mainElements": "barren hilltop under merciless sun, boy completely alone in breakdown",
+      "details": "dust rising from pounded earth, vultures circling high above, empty water flask discarded, boy's shadow small beneath him, tears creating mud on dusty face, fingernails digging into earth, no text or letters visible",
+      "background": "island spread below showing smoke from various conflicts, ocean mocking with its unreachable vastness",
+      "atmosphere": "complete emotional collapse, rage and despair combined, breaking point reached"
+    },
+    "composition": {
+      "cameraAngle": "aerial view spiraling down to boy",
+      "focus": "boy's small figure against vast landscape",
+      "depth": "hilltop foreground, island middle, endless ocean background"
+    }
+  }
+}

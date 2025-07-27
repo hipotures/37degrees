@@ -1,0 +1,99 @@
+{
+  "sceneDescription": {
+    "setting": {
+      "time": "1750s, morning",
+      "location": "Inn kitchen and common area",
+      "weather": "Gray overcast day"
+    },
+    "characters": [
+      {
+        "appearance": "middle-aged woman, innkeeper's wife, face drawn with worry",
+        "clothing": "usual dress but wrinkled, hair less neat than normal",
+        "position": "standing by kitchen door, hand on frame",
+        "action": "looking toward empty chair, fingers nervously twisting apron"
+      },
+      {
+        "appearance": "teenage boy, 13 years old, shoulders hunched",
+        "clothing": "work clothes",
+        "position": "sweeping floor near fireplace",
+        "action": "moving mechanically, avoiding eye contact, body turned away"
+      }
+    ],
+    "scene": {
+      "mainElements": "inn interior showing signs of disrupted routine, spaces that should be occupied standing empty",
+      "details": "unopened mail on table, cold fireplace with yesterday's ashes, half-eaten breakfast abandoned, chairs pushed back hastily, dust motes in pale light showing neglect, no text or letters visible",
+      "background": "windows showing gray village, normal life continuing outside",
+      "atmosphere": "domestic harmony disrupted, unspoken tensions, things left unsaid"
+    },
+    "composition": {
+      "cameraAngle": "medium shot showing spatial distance between characters",
+      "focus": "empty spaces and turned backs emphasizing emotional distance",
+      "depth": "woman in doorway foreground, boy mid-ground, empty spaces prominent"
+    }
+  },
+  "colorPalette": {
+    "primary": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "secondary": [
+      "sepia tones",
+      "aged paper"
+    ],
+    "background": "cream or aged paper",
+    "usageNotes": "Primarily monochromatic, occasional sepia wash",
+    "saturation": "none to minimal",
+    "contrast": "high through line density"
+  },
+  "lineArt": {
+    "style": "precise engraving lines",
+    "weight": "very fine, built up in layers",
+    "color": "black ink",
+    "texture": "crosshatching, stippling",
+    "edgeTreatment": "precise, controlled"
+  },
+  "lighting": {
+    "type": "classical, theatrical",
+    "direction": "three-quarter lighting",
+    "intensity": "dramatic through line density",
+    "shadows": {
+      "style": "built through crosshatching",
+      "color": "black line density",
+      "opacity": "varied through technique"
+    },
+    "highlights": "white paper showing through"
+  },
+  "rendering": {
+    "technique": "steel engraving simulation",
+    "texture": "fine line patterns throughout",
+    "detailLevel": "extremely high, meticulous",
+    "finish": "printed illustration quality"
+  },
+  "perspective": "classical, accurate",
+  "mood": {
+    "overall": "formal, literary, refined",
+    "emotion": "dignity, propriety, narrative drama",
+    "tempo": "measured, contemplative",
+    "keywords": [
+      "classical",
+      "refined",
+      "literary",
+      "formal",
+      "dignified"
+    ]
+  },
+  "stylePrecedents": [
+    "Gustave Doré",
+    "John Tenniel",
+    "George Cruikshank"
+  ],
+  "technicalSpecifications": {
+    "resolution": {
+      "aspectRatio": "9:16",
+      "minWidth": 1080,
+      "minHeight": 1920,
+      "unit": "pixels"
+    },
+    "orientation": "Portrait/Vertical"
+  }
+}

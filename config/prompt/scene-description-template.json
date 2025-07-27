@@ -1,30 +1,30 @@
 {
   "sceneDescription": {
-    "title": "// Nazwa sceny [zalecane: 5-15 słów]",
+    "title": "// Scene name [recommended: 5-15 words]",
     "setting": {
-      "time": "// Epoka i pora dnia (np. '1920, wieczór') [zalecane: 3-15 słów]",
-      "location": "// Miejsce akcji (np. 'paryska kawiarnia, taras') [zalecane: 5-20 słów]",
-      "weather": "// Pogoda [opcjonalne, zalecane: 5-15 słów]"
+      "time": "// Era and time of day (e.g. '1920, evening') [recommended: 3-15 words]",
+      "location": "// Place of action (e.g. 'Parisian cafe, terrace') [recommended: 5-20 words]",
+      "weather": "// Weather [optional, recommended: 5-15 words]"
     },
     "characters": [
       {
-        "appearance": "// Płeć, wiek, podstawowy wygląd [zalecane: 10-40 słów]",
-        "clothing": "// Strój odpowiedni do epoki [zalecane: 10-40 słów]",
-        "position": "// Gdzie i jak się znajduje [zalecane: 5-20 słów]",
-        "action": "// Co robi [zalecane: 10-30 słów]"
+        "appearance": "// Gender, age, basic appearance [recommended: 10-40 words]",
+        "clothing": "// Period-appropriate attire [recommended: 10-40 words]",
+        "position": "// Where and how positioned [recommended: 5-20 words]",
+        "action": "// What they're doing [recommended: 10-30 words]"
       }
     ],
 
     "scene": {
-      "mainElements": "// Główne elementy sceny [zalecane: 20-80 słów]",
-      "details": "// Ważne detale i przedmioty [zalecane: 30-100 słów | max: 150 słów]",
-      "background": "// Co jest w tle [zalecane: 20-60 słów]",
-      "atmosphere": "// Ogólny nastrój i klimat sceny [zalecane: 20-80 słów]"
+      "mainElements": "// Main scene elements [recommended: 20-80 words]",
+      "details": "// Important details and objects [recommended: 30-100 words | max: 150 words]",
+      "background": "// What's in the background [recommended: 20-60 words]",
+      "atmosphere": "// Overall mood and atmosphere [recommended: 20-80 words]"
     },
     "composition": {
-      "cameraAngle": "// Perspektywa ujęcia [zalecane: 5-15 słów]",
-      "focus": "// Co jest głównym punktem uwagi [zalecane: 10-30 słów]",
-      "depth": "// Co jest na pierwszym/drugim/trzecim planie [zalecane: 20-60 słów]"
+      "cameraAngle": "// Shot perspective [recommended: 5-15 words]",
+      "focus": "// Main point of attention [recommended: 10-30 words]",
+      "depth": "// What's in foreground/middle/background [recommended: 20-60 words]"
     }
   }
 }

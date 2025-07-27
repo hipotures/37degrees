@@ -51,15 +51,5 @@
     "emotion": "neutral, clear",
     "tempo": "static",
     "keywords": ["minimal", "clean", "simple", "modern", "clear"]
-  },
-  
-  "technicalSpecifications": {
-    "resolution": {
-      "aspectRatio": "9:16",
-      "minWidth": 1080,
-      "minHeight": 1920,
-      "unit": "pixels"
-    },
-    "orientation": "Portrait/Vertical"
   }
 }

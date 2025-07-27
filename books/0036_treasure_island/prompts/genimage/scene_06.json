@@ -1,0 +1,99 @@
+{
+  "sceneDescription": {
+    "setting": {
+      "time": "1750s, late afternoon",
+      "location": "Coastal path overlooking harbor",
+      "weather": "Dark storm clouds building on horizon"
+    },
+    "characters": [
+      {
+        "appearance": "teenage boy, 13 years old, brown hair whipping in wind",
+        "clothing": "work clothes, shirt billowing in breeze",
+        "position": "standing on cliff path, one hand shielding eyes",
+        "action": "staring at approaching storm with growing concern"
+      },
+      {
+        "appearance": "fisherman, 50s, weathered face showing worry",
+        "clothing": "oilskin coat, woolen cap pulled low",
+        "position": "hurrying up path from harbor",
+        "action": "glancing anxiously between sky and boats below"
+      }
+    ],
+    "scene": {
+      "mainElements": "dramatic contrast between still-sunny village and menacing storm front approaching from sea",
+      "details": "wind picking up dried leaves, boats beginning to rock more violently in harbor, seabirds flying inland, first drops of rain starting to fall, shadows lengthening unnaturally, no text or letters visible",
+      "background": "wall of dark clouds with occasional lightning flash, churning seas beneath",
+      "atmosphere": "nature's mood shifting from calm to threatening, sense of impending change"
+    },
+    "composition": {
+      "cameraAngle": "wide shot emphasizing sky and approaching storm",
+      "focus": "small human figures dwarfed by massive weather system",
+      "depth": "figures in foreground, village mid-ground, storm dominating background"
+    }
+  },
+  "colorPalette": {
+    "primary": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "secondary": [
+      "sepia tones",
+      "aged paper"
+    ],
+    "background": "cream or aged paper",
+    "usageNotes": "Primarily monochromatic, occasional sepia wash",
+    "saturation": "none to minimal",
+    "contrast": "high through line density"
+  },
+  "lineArt": {
+    "style": "precise engraving lines",
+    "weight": "very fine, built up in layers",
+    "color": "black ink",
+    "texture": "crosshatching, stippling",
+    "edgeTreatment": "precise, controlled"
+  },
+  "lighting": {
+    "type": "classical, theatrical",
+    "direction": "three-quarter lighting",
+    "intensity": "dramatic through line density",
+    "shadows": {
+      "style": "built through crosshatching",
+      "color": "black line density",
+      "opacity": "varied through technique"
+    },
+    "highlights": "white paper showing through"
+  },
+  "rendering": {
+    "technique": "steel engraving simulation",
+    "texture": "fine line patterns throughout",
+    "detailLevel": "extremely high, meticulous",
+    "finish": "printed illustration quality"
+  },
+  "perspective": "classical, accurate",
+  "mood": {
+    "overall": "formal, literary, refined",
+    "emotion": "dignity, propriety, narrative drama",
+    "tempo": "measured, contemplative",
+    "keywords": [
+      "classical",
+      "refined",
+      "literary",
+      "formal",
+      "dignified"
+    ]
+  },
+  "stylePrecedents": [
+    "Gustave Doré",
+    "John Tenniel",
+    "George Cruikshank"
+  ],
+  "technicalSpecifications": {
+    "resolution": {
+      "aspectRatio": "9:16",
+      "minWidth": 1080,
+      "minHeight": 1920,
+      "unit": "pixels"
+    },
+    "orientation": "Portrait/Vertical"
+  }
+}
