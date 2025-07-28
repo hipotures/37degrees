@@ -1,0 +1,107 @@
+{
+  "session_id": "ac25dab5-19ee-43b4-8689-cf24d65d211d",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ac25dab5-19ee-43b4-8689-cf24d65d211d.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Alice in Wonderland fanfiction Archive of Our Own AO3 works count statistics"
+  },
+  "tool_response": {
+    "query": "Alice in Wonderland fanfiction Archive of Our Own AO3 works count statistics",
+    "results": [
+      "I'll search for information about Alice in Wonderland fanfiction statistics on Archive of Our Own (AO3).",
+      {
+        "tool_use_id": "srvtoolu_01Hpc5BnpCUya6yNCW97zENc",
+        "content": [
+          {
+            "title": "Alice in Wonderland (Movies - Burton) - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Alice in Wonderland (Movies - Burton)/works"
+          },
+          {
+            "title": "Time (Alice in Wonderland) - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Time%20(Alice%20in%20Wonderland)/works"
+          },
+          {
+            "title": "Archive of Our Own - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Archive_of_Our_Own"
+          },
+          {
+            "title": "Search Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/works/search"
+          },
+          {
+            "title": "Original Work - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Original%20Work/works"
+          },
+          {
+            "title": "Statistics FAQ | Archive of Our Own",
+            "url": "https://archiveofourown.org/faq/statistics?language_id=en"
+          },
+          {
+            "title": "Home | Archive of Our Own",
+            "url": "https://archiveofourown.org/"
+          },
+          {
+            "title": "Archive of Our Own & Hits - Fanlore",
+            "url": "https://fanlore.org/wiki/Archive_of_Our_Own_&_Hits"
+          },
+          {
+            "title": "AO3 Statistics 2020: A Look Behind the Scenes | Archive of Our Own",
+            "url": "https://archiveofourown.org/admin_posts/15931"
+          }
+        ]
+      },
+      "Let me search for more specific information about Alice in Wonderland fanfiction statistics on AO3.",
+      {
+        "tool_use_id": "srvtoolu_01Tk7eCLLfmKrPgK9Ng4Cru7",
+        "content": [
+          {
+            "title": "Alice in Wonderland (Movies - Burton) - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Alice in Wonderland (Movies - Burton)/works"
+          },
+          {
+            "title": "Time (Alice in Wonderland) - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Time%20(Alice%20in%20Wonderland)/works"
+          },
+          {
+            "title": "DraconisHyperion | FanFiction",
+            "url": "https://www.fanfiction.net/u/3787333/DraconisHyperion"
+          },
+          {
+            "title": "Archive of Our Own - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Archive_of_Our_Own"
+          },
+          {
+            "title": "Alice in Wonderland FanFiction Archive | FanFiction",
+            "url": "https://www.fanfiction.net/book/Alice-in-Wonderland/"
+          }
+        ]
+      },
+      "Let me search for more specific statistics about Alice in Wonderland tags on AO3.",
+      {
+        "tool_use_id": "srvtoolu_01PhUuyVEX5YAdWSHsD3PMFi",
+        "content": [
+          {
+            "title": "Alice in Wonderland (Movies - Burton) - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Alice in Wonderland (Movies - Burton)/works"
+          },
+          {
+            "title": "Time (Alice in Wonderland) - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Time%20(Alice%20in%20Wonderland)/works"
+          },
+          {
+            "title": "Alice/Mad Hatter (Alice in Wonderland) - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Alice*s*Mad Hatter (Alice in Wonderland)/works"
+          },
+          {
+            "title": "Queen of Hearts (Alice in Wonderland) - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Queen of Hearts (Alice in Wonderland)/works"
+          }
+        ]
+      },
+      "Based on my search results, I found some information about Alice in Wonderland fanfiction on Archive of Our Own (AO3), though specific comprehensive statistics were not directly available in the search results. Here's what I found:\n\n## Alice in Wonderland on AO3\n\nAs of 14 May 2025, Archive of Our Own hosts over 15,000,000 works in over 71,720 fandoms, making it one of the largest fanfiction archives online.\n\n### Alice in Wonderland Categories on AO3\n\nThe search results show that Alice in Wonderland fanfiction on AO3 is organized into several distinct tags/categories:\n\n1. **Alice in Wonderland (Movies - Burton)** - This tag covers fanfiction based on Tim Burton's film adaptations\n2. **Time (Alice in Wonderland)** - Works featuring the character Time from the Alice in Wonderland universe\n3. **Alice/Mad Hatter (Alice in Wonderland)** - Relationship-focused fanfiction between these characters\n4. **Queen of Hearts (Alice in Wonderland)** - Works featuring or centered around the Queen of Hearts character\n\n### Comparison with Other Platforms\n\nFor comparison, FanFiction.net's Alice in Wonderland section has over 1,817 stories in their archive.\n\n### General AO3 Statistics\n\nSome relevant general statistics about AO3:\n- AO3 reached one million works in February 2014, and by July 2019 it had 2 million registered users and 5 million posted works\n- In 2014, the largest fandoms on the site were the Marvel Cinematic Universe (MCU), Supernatural, Sherlock, and Harry Potter\n\nUnfortunately, the specific total number of Alice in Wonderland works across all its various tags on AO3 was not provided in the search results. To get exact current statistics, you would need to visit AO3 directly and search for all Alice in Wonderland-related tags to see the work counts displayed on each tag page."
+    ],
+    "durationSeconds": 30.312719341999852
+  }
+}

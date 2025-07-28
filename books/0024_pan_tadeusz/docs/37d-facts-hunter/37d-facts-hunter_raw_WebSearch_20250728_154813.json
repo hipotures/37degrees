@@ -1,0 +1,47 @@
+{
+  "session_id": "c357bd2a-ff18-4f3e-ad1a-144b3d8d1e08",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/c357bd2a-ff18-4f3e-ad1a-144b3d8d1e08.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Pan Tadeusz\" Poland 1834 historical context partitions \"November Uprising\" exile literature national identity"
+  },
+  "tool_response": {
+    "query": "\"Pan Tadeusz\" Poland 1834 historical context partitions \"November Uprising\" exile literature national identity",
+    "results": [
+      "I'll search for information about \"Pan Tadeusz\" and its historical context related to Poland's partitions, the November Uprising, and its role as exile literature expressing national identity.",
+      {
+        "tool_use_id": "srvtoolu_014ocyPMFPaKo12QJWggM5DE",
+        "content": [
+          {
+            "title": "National Romanticism: The Formation of National Movements - Adam Mickiewicz: Pan Tadeusz - Central European University Press",
+            "url": "https://books.openedition.org/ceup/2314?lang=en"
+          },
+          {
+            "title": "Pan Tadeusz (Literature) - TV Tropes",
+            "url": "https://tvtropes.org/pmwiki/pmwiki.php/Literature/PanTadeusz"
+          },
+          {
+            "title": "November Uprising - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/November_Uprising"
+          },
+          {
+            "title": "Pan Tadeusz - Wikiquote",
+            "url": "https://en.wikiquote.org/wiki/Pan_Tadeusz"
+          },
+          {
+            "title": "Manuscript of \"Pan Tadeusz\" by Adam Mickiewicz - Adam Mickiewicz \u2014 Google Arts & Culture",
+            "url": "https://artsandculture.google.com/asset/manuscript-of-pan-tadeusz-by-adam-mickiewicz-adam-mickiewicz/fAGGnC-XbFxddA?hl=en"
+          },
+          {
+            "title": "The 19th Century",
+            "url": "https://agad.gov.pl/230K3M/XIX_gb.html"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about \"Pan Tadeusz\" and its historical context:\n\n## Pan Tadeusz: Historical Context and Significance\n\nPan Tadeusz, officially titled \"Pan Tadeusz, czyli Ostatni zajazd na Litwie: Historia szlachecka z roku 1811 i 1812 we dwunastu ksi\u0119gach wierszem\" (Pan Tadeusz or the last foray in Lithuania: History of the szlachta from 1811 and 1812 in twelve parts), was first published in Paris in 1834. It is generally considered one of the greatest masterpieces of Polish literature and a national epic of Poland.\n\n### Connection to the November Uprising\n\nPan Tadeusz reflects the bitter disappointment of Polish \u00e9migr\u00e9s after the collapse of the 'November Uprising' (1830\u20131831). The November Uprising (1830\u201331) was an armed rebellion in the heartland of partitioned Poland against the Russian Empire, beginning on 29 November 1830 in Warsaw when young Polish officers from the military academy revolted. Although the insurgents achieved local successes, a numerically superior Imperial Russian Army under Ivan Paskevich eventually crushed the uprising, and the Russian Emperor Nicholas I issued the Organic Statute in 1832, according to which Russian-occupied Poland would lose its autonomy and become an integral part of the Russian Empire.\n\nThe poem was written in 1832 and published in 1834, meant to comfort the members of the Polish emigration in France after the trauma of the lost November Uprising. The poem was written shortly after the defeat of the November Uprising and was read as a consolation and a call to work together to regain independence.\n\n### Exile Literature and the \"Great Emigration\"\n\nThousands of Poles were forced to leave their homeland after the November Uprising, going mainly to France. The post-uprising, so-called \"great\" emigration played an enormous role in the cultural and political life of both countries. Adam Mickiewicz was part of this exile community. In 1830 he unsuccessfully tried to return to the 'Congress Kingdom' in order to participate in the uprising. In 1832 he moved to Dresden and finally to Paris, where he published a series of celebrated poems and radical political articles.\n\nIn the epilogue, the author returns from his dreamy recollections of a bygone world to the reality of his life in exile in France after a failed anti-Russian November Uprising in Poland.\n\n### National Identity and the Partitions\n\nThe poem's setting and themes directly relate to Poland's partition history. After the Partitions of Poland by Austria, Prussia, and Russia, Poland ceased to exist as an independent political entity at the end of 1795. The Congress of Vienna brought that state's existence to an end in 1815, and essentially solidified the long-term division of Poland between Russia, Prussia and Austria.\n\nSet during the Napoleonic era in a fictional idyllic village of Soplicowo somewhere in the former Grand Duchy of Lithuania, or in modern-day Belarus, the poem tells a story of litigation over ruins of an old castle between two noble families \u2013 Soplica and Horeszko \u2013 against the backdrop of an anticipated Franco-Russian war. It is set before Napoleon's Russian campaign, which was a huge surge of hope for Poland's restoration, much like the Uprising was.\n\n### Cultural and National Significance\n\nPan Tadeusz is a reevaluation of the national past, and in particular the heritage of the Polish-Lithuanian Commonwealth, in all its splendor (though seen in a peripheral village) and comic traits. Mickiewicz imbued the poem with idyllic elements, idealising the countryside and the customs of the nobility.\n\nDuring the first years of their exile, Polish \u00e9migr\u00e9s hoped that the independence of Poland could be restored within months, or at most a couple of years. As years passed and the hope of freedom for Poland receded, they became more nostalgic. This nostalgia permeates the work, making it both a tribute to a lost homeland and a repository of Polish cultural identity.\n\nThe manuscript of \"Pan Tadeusz\" was incorporated into Poland's List in the UNESCO Memory of the World Programme in 2014 as a valuable monument of Polish culture, a historical memento and a carrier of national values, underscoring its enduring importance to Polish national identity."
+    ],
+    "durationSeconds": 45.35826859200001
+  }
+}

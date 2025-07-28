@@ -1,0 +1,63 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Folwark zwierz\u0119cy\" Polska polityka \"Kaczy\u0144ski\" \"Tusk\" \"PiS\" \"Platforma\" totalitaryzm w\u0142adza"
+  },
+  "tool_response": {
+    "query": "\"Folwark zwierz\u0119cy\" Polska polityka \"Kaczy\u0144ski\" \"Tusk\" \"PiS\" \"Platforma\" totalitaryzm w\u0142adza",
+    "results": [
+      "I'll search for information about \"Animal Farm\" (\"Folwark zwierz\u0119cy\") in the context of Polish politics, including references to Kaczy\u0144ski, Tusk, PiS, and Platforma Obywatelska, focusing on themes of totalitarianism and power.",
+      {
+        "tool_use_id": "srvtoolu_013evQV9Ta8c3YriFL4irBMT",
+        "content": [
+          {
+            "title": "Mariusz Cie\u015blik: Folwark zwierz\u0119cy - rp.pl",
+            "url": "https://www.rp.pl/opinie-polityczno-spoleczne/art18972451-mariusz-cieslik-folwark-zwierzecy"
+          },
+          {
+            "title": "Czy Platforma zagra\u017ca demokracji? | Demony demokracji - Polityka.pl",
+            "url": "https://www.polityka.pl/tygodnikpolityka/kraj/1517908,1,czy-platforma-zagraza-demokracji.read"
+          },
+          {
+            "title": "Donald Tusk - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Donald_Tusk"
+          },
+          {
+            "title": "Fenomen internetowego zoo | Folw@rk zwierz\u0119cy - Polityka.pl",
+            "url": "https://www.polityka.pl/tygodnikpolityka/ludzieistyle/1614053,1,fenomen-internetowego-zoo.read"
+          },
+          {
+            "title": "Staniszkis: Tusk ma racj\u0119, bij\u0105c na alarm - Polityka - rp.pl",
+            "url": "https://www.rp.pl/Polityka/311209906-Staniszkis-Tusk-ma-racje-bijac-na-alarm.html"
+          },
+          {
+            "title": "Zaremba: System Tuska i Kaczy\u0144skiego, czyli wojna bez ko\u0144ca [OPINIA] - GazetaPrawna.pl",
+            "url": "https://www.gazetaprawna.pl/magazyn-na-weekend/artykuly/8206375,system-tuska-i-kaczynskiego-polityka-partii-pis-po.html"
+          },
+          {
+            "title": "Kaczy\u0144ski, Tusk, Rydzyk, narodowcy. Dlaczego tak r\u00f3\u017cni politycy sprzyjaj\u0105 Romanowi Giertychowi?",
+            "url": "https://www.rp.pl/polityka/art42642481-kim-naprawde-jest-roman-giertych-i-dlaczego-liczy-sie-z-nim-premier-donald-tusk"
+          },
+          {
+            "title": "Historyk: 18 lat min\u0119\u0142o, a polityk\u0105 nadal rz\u0105dz\u0105 Kaczy\u0144ski i Tusk | Tygodnik Powszechny",
+            "url": "https://www.tygodnikpowszechny.pl/historyk-18-lat-minelo-polityka-nadal-rzadza-kaczynski-i-tusk-182034"
+          },
+          {
+            "title": "Zagraniczne biznesowe media o wyborach w Polsce: Tusk i Kaczy\u0144ski jak dwa jelenie - Money.pl",
+            "url": "https://www.money.pl/gospodarka/zagraniczne-biznesowe-media-o-wyborach-w-polsce-tusk-i-kaczynski-jak-dwa-jelenie-6950982769199968a.html"
+          },
+          {
+            "title": "PiS nie jest ju\u017c socjalny. Tylko Partia Razem mo\u017ce kontynuowa\u0107 polityk\u0119 Lecha Kaczy\u0144skiego \u2014 Klub Jagiello\u0144ski",
+            "url": "https://klubjagiellonski.pl/2025/06/20/pis-nie-jest-juz-socjalny-tylko-partia-razem-moze-kontynuowac-polityke-lecha-kaczynskiego/"
+          }
+        ]
+      },
+      "The search results reveal several interesting references to George Orwell's \"Animal Farm\" (\"Folwark zwierz\u0119cy\") in the context of Polish politics, particularly regarding the rivalry between Jaros\u0142aw Kaczy\u0144ski (PiS) and Donald Tusk (Platforma Obywatelska), and discussions about totalitarianism and power.\n\nKey findings from the search:\n\n1. **Direct Literary References**: An opinion piece notes that Orwell would likely not be pleased with his book's contemporary popularity in Poland, as his work was an allegory of the Bolshevik revolution.\n\n2. **Political Animalization**: The article describes Polish politics as having experienced \"complete animalization\" (\"zupe\u0142ne zezwierz\u0119cenie\"), with Donald Tusk commenting on the situation in his characteristic style.\n\n3. **Totalitarianism Accusations**: PiS's informal election campaign appears directed at people feeling \"helpless\" and \"persecuted\" by totalitarianism. The article discusses various alleged examples of totalitarian governance in Poland, including ABW actions against internet users and attempts to refer politicians to psychiatrists.\n\n4. **Power Dynamics**: PiS has launched a campaign with \"absurd accusations about Platform's totalitarianism, theses about the fall of democracy, about the Gierek era\", which appears to be an anti-turnout campaign aimed at discouraging potential Platform voters rather than winning them over.\n\n5. **Staniszkis's Analysis**: Sociologist Jadwiga Staniszkis provides a stark assessment, stating that Kaczy\u0144ski as prime minister would more quickly implement a totalitarian vision of the state, though PiS's totalitarianism doesn't mean prisons or repressions, but rather changing society through the state. She argues that this is typical of Bolshevik totalitarianism, where freedom was seen as an obstacle to implementing the laws of history.\n\n6. **Internet Culture**: An article notes that if Orwell were alive today, he would illustrate \"Animal Farm\" with memes, and that 60 years ago his pigs, sheep, and dogs served to describe humanity - the phenomenon of the internet zoo is about roughly the same thing.\n\n7. **Long-Standing Conflict**: Donald Tusk and Jaros\u0142aw Kaczy\u0144ski are described as differing in style and ideological priorities, but united by being the only people in Poland who have wielded almost absolute power since 1989.\n\nThe search results show that \"Animal Farm\" has become a recurring metaphor in Polish political discourse, used to critique both the concentration of power and the perceived authoritarian tendencies in contemporary Polish politics, with both major political camps accusing each other of totalitarian inclinations."
+    ],
+    "durationSeconds": 34.29967713800026
+  }
+}

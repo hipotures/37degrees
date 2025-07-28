@@ -1,0 +1,109 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Jane Eyre\" \"Dziwne losy\" polskie pi\u015bmiennictwo feminist wp\u0142yw pisarki Maria Konopnicka Eliza Orzeszkowa"
+  },
+  "tool_response": {
+    "query": "\"Jane Eyre\" \"Dziwne losy\" polskie pi\u015bmiennictwo feminist wp\u0142yw pisarki Maria Konopnicka Eliza Orzeszkowa",
+    "results": [
+      "I'll search for information about the influence of \"Jane Eyre\" on Polish feminist literature, particularly focusing on writers Maria Konopnicka and Eliza Orzeszkowa, and the concept of \"Dziwne losy\" (Strange Fates).",
+      {
+        "tool_use_id": "srvtoolu_017kLRyAwCkwS3zkqANaaBa3",
+        "content": [
+          {
+            "title": "Dziwne losy Jane Eyre - Charlotte Bront\u00eb | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/4968674/dziwne-losy-jane-eyre"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Dziwne_losy_Jane_Eyre"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre",
+            "url": "https://wolnelektury.pl/katalog/lektura/bronte-dziwne-losy-jane-eyre/"
+          },
+          {
+            "title": "\"Ponadczasowe powie\u015bci\" - TOM 4 Dziwne losy Jane Eyre - Kultowy.pl",
+            "url": "https://kultowy.pl/ponadczasowe-powiesci-tom-4-dziwne-losy-jane-eyre"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre | C. Bront\u00eb - Przeczytana.com | Blog o ksi\u0105\u017ckach",
+            "url": "https://przeczytana.com/2024/09/01/dziwne-losy-jane-eyre-c-bronte/"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre | Wydawnictwo \u015awiat Ksi\u0105\u017cki",
+            "url": "https://wydawnictwoswiatksiazki.pl/tytul/dziwne-losy-jane-eyre/"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre - Kultowy.pl",
+            "url": "https://kultowy.pl/dziwne-losy-jane-eyre"
+          },
+          {
+            "title": "Charlotte Bront\u00eb i \"Dziwne losy Jane Eyre\" - Historia - PR24.PL",
+            "url": "https://polskieradio24.pl/artykul/2719002,charlotte-bronte-i-dziwne-losy-jane-eyre"
+          },
+          {
+            "title": "PIEKUTOWSKA: Dziwne losy postfeministki. O najnowszym wcieleniu Jane Eyre",
+            "url": "https://kulturaliberalna.pl/2011/11/01/piekutowska-dziwne-losy-postfeministki-o-najnowszym-wcieleniu-jane-eyre/"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre - Charlotte Bront\u00eb",
+            "url": "https://wolnelektury.pl/katalog/lektura/bronte-dziwne-losy-jane-eyre.html"
+          }
+        ]
+      },
+      "The search results provide information about \"Jane Eyre\" in Polish literature, where the novel is known as \"Dziwne losy Jane Eyre.\" However, I notice the search didn't return specific information about the influence on Maria Konopnicka and Eliza Orzeszkowa, two prominent Polish feminist writers. Let me search more specifically for this connection.",
+      {
+        "tool_use_id": "srvtoolu_01Xig3TzDH1pze3RtnGQyddx",
+        "content": [
+          {
+            "title": "Feminizm w polskiej literaturze kobiet",
+            "url": "https://journals.umcs.pl/l/article/download/6165/5634"
+          },
+          {
+            "title": "Icm",
+            "url": "http://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.hdl_11089_2535/c/Joanna_Jaskiewicz.pdf"
+          },
+          {
+            "title": "Orzeszkowa i Konopnicka. Pisarki i emancypantki | Portal historyczny Histmag.org - historia dla ka\u017cdego!",
+            "url": "https://histmag.org/Orzeszkowa-i-Konopnicka-Pisarki-i-emancypantki-23078"
+          },
+          {
+            "title": "Maria Konopnicka i Eliza Orzeszkowa - poza kostiumem narodowej pisarki",
+            "url": "https://mbpleszno.pl/Maria_Konopnicka_i_Eliza_Orzeszkowa_-_poza_kostiumem_narodowej_pisarki.html"
+          },
+          {
+            "title": "Matka m\u0105drej emancypacji [POLKI INSPIRUJ\u0104] \u2014 Klub Jagiello\u0144ski",
+            "url": "https://klubjagiellonski.pl/2018/03/08/matka-madrej-emancypacji-polki-inspiruja/"
+          },
+          {
+            "title": "Maria Konopnicka, Eliza Orzeszkowa - kobiety - pisarki w XIX wieku. Tw\u00f3rczo\u015b\u0107 i biografia. - Sciaga.pl",
+            "url": "https://sciaga.pl/tekst/54392-55-maria_konopnicka_eliza_orzeszkowa_kobiety_pisarki_w_xix_wieku_tworczosc_i"
+          },
+          {
+            "title": "R\u00f3wnouprawnienie kobiet w XIX i XX wieku - rp.pl",
+            "url": "https://www.rp.pl/kraj/art13452001-rownouprawnienie-kobiet-w-xix-i-xx-wieku"
+          },
+          {
+            "title": "Eliza Orzeszkowa, mistrzyni powie\u015bci | Polona/Blog",
+            "url": "https://blog.polona.pl/2021/06/eliza-orzeszkowa-mistrzyni-powiesci/"
+          },
+          {
+            "title": "Maria Konopnicka \u2013 nie taka \u015bwi\u0119ta?",
+            "url": "https://kobieta.wp.pl/maria-konopnicka-nie-taka-swieta-5982777261769345a"
+          },
+          {
+            "title": "Emancypacja kobiet - klp.pl",
+            "url": "https://klp.pl/pozytywizm/a-8429.html"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about \"Jane Eyre\" (known as \"Dziwne losy Jane Eyre\" in Polish) and its connection to Polish feminist literature, though the specific influence on Maria Konopnicka and Eliza Orzeszkowa is not directly detailed in these results.\n\n## \"Dziwne losy Jane Eyre\" in Polish Literature\n\nDziwne losy Jane Eyre \u2013 powie\u015b\u0107 napisana przez Charlotte Bront\u00eb. Ukaza\u0142a si\u0119 po raz pierwszy w pa\u017adzierniku 1847 roku w trzech tomach i okaza\u0142a si\u0119 wielkim wydawniczym sukcesem.(no content)Baz\u0105 naszej publikacji jest polski przek\u0142ad powie\u015bci autorstwa Teresy \u015awiderskiej z 1930 roku.(no content)Arcydzie\u0142o Charlotte Bront\u00eb zosta\u0142o uznane za pierwsz\u0105 powie\u015b\u0107 feministyczn\u0105 w historii.(no content)Dziwne losy Jane Eyre nale\u017c\u0105 do ksi\u0105\u017cek prze\u0142omowych, w\u0142a\u015bnie z punktu widzenia tematyki, kt\u00f3ra w centrum stawia kobiety.\n\n## Maria Konopnicka and Eliza Orzeszkowa - Polish Feminist Writers\n\nCzternastoletnia Eliza i trzynastoletnia Maria pozna\u0142y si\u0119 na pensji si\u00f3str sakramentek w Warszawie w 1855 roku. Dziewcz\u0119ta lubi\u0142y czyta\u0107 i deklamowa\u0107 poezj\u0119, w tym zakazane utwory Adama Mickiewicza. Zainteresowania literackie zrodzi\u0142y ich d\u0142ugoletni\u0105 przyja\u017a\u0144.(no content)W doros\u0142ym \u017cyciu obie si\u0119gn\u0119\u0142y po pi\u00f3ra i sta\u0142y si\u0119 g\u0142osami swojej epoki. Eliza Orzeszkowa, z domu Paw\u0142owska, \u017cona Piotra Orzeszki, autorka Nad Niemnem i konkurentka Henryka Sienkiewicza do literackiej Nagrody Nobla, oraz Maria Wasi\u0142owska, po m\u0119\u017cu Konopnicka, autorka Roty, licznych nowel, utwor\u00f3w dla dzieci \u2014 to bohaterki opowie\u015bci. Pisarki i emancypantki, kobiety, kt\u00f3re wiele osi\u0105gn\u0119\u0142y jak na wiek dziewi\u0119tnasty.\n\n## Their Approach to Women's Rights\n\nMaria Konopnicka, Eliza Orzeszkowa, Ola Szczerbi\u0144ska (p\u00f3\u017aniejsza Pi\u0142sudska), Maria Kretkowska (szefowa Zjednoczonego Ko\u0142a Ziemianek) czy Jadwiga Szczawi\u0144ska-Dawid (za\u0142o\u017cycielka Uniwersytetu Lataj\u0105cego) \u2013 mog\u0142abym ci\u0105gn\u0105\u0107 d\u0142ugo \u2013 nie by\u0142y feministkami. Deklarowa\u0142y to wprost i nale\u017cy to uszanowa\u0107.(no content)Cho\u0107 na sercu le\u017ca\u0142y jej [Orzeszkowej] prawa kobiet, to trudno postrzega\u0107 jej dzia\u0142alno\u015b\u0107 przez pryzmat wsp\u00f3\u0142czesnego feminizmu. Nigdy nie zgodzi\u0142a si\u0119 na wyst\u0119powanie przeciwko rodzinie i tak wa\u017cnym zadaniu w \u017cyciu kobiety, jakim jest macierzy\u0144stwo. Pisa\u0142a, \u017ce kobieta powinna stara\u0107 si\u0119 zdoby\u0107 \u201ecnoty m\u0119skie przy zachowaniu wszystkich wdzi\u0119k\u00f3w niewie\u015bcich\". Uwa\u017ca\u0142a, \u017ce wychowanie potomstwa to najwa\u017cniejsze zadanie kobiety, ale \u017ce powinno odbywa\u0107 si\u0119 w udanym ma\u0142\u017ce\u0144stwie.(no content)Obie nasze dzisiejsze bohaterki, i Eliza Orzeszkowa, i Maria Konopnicka, przecz\u0105 stereotypowi, zgodnie z kt\u00f3rym kobiety polskie pozostawa\u0142y w dziewi\u0119tnastym wieku tylko na marginesie historii, gdzie\u015b st\u0142amszone zupe\u0142nie, w cieniu swoich m\u0119\u017c\u00f3w. Oczywi\u015bcie, w niejednym wypadku tak bywa\u0142o, ale to w\u0142a\u015bnie tak zwana sprawa narodowa czyni\u0142a z kobiet postaci wyzwolone do nowych r\u00f3l spo\u0142ecznych, czy raczej przekszta\u0142ca\u0142a ich spo\u0142eczn\u0105 rol\u0119. Ta szczeg\u00f3lna droga poprzez patriotyczne zaanga\u017cowanie prowadzi\u0142a do emancypacji pa\u0144 na ziemiach polskich. Polki by\u0142y pod koniec wieku dziewi\u0119tnastego na pewno najbardziej wyemancypowan\u0105 grup\u0105 w\u015br\u00f3d kobiet europejskich, mo\u017ce obok niekt\u00f3rych mieszkanek kraj\u00f3w skandynawskich.\n\n## Literary Works on Women's Issues\n\nDzie\u0142em, w kt\u00f3rym Orzeszkowa zwr\u00f3ci\u0142a uwag\u0119 opinii spo\u0142ecznej na kwesti\u0119 kobiet jest powie\u015b\u0107 Marta. Opowiada ona o losach m\u0142odej kobiety, kt\u00f3ra po stracie m\u0119\u017ca nie mog\u0142a nigdzie znale\u017a\u0107 zat[rudnienia](no content)Orzeszkowa, absolwentka pensji si\u00f3str sakramentek w Warszawie, gdzie jej kole\u017cank\u0105 by\u0142a Maria Wasi\u0142owska (p\u00f3\u017aniej Konopnicka), wyczulona by\u0142a jak ma\u0142o kto przed ni\u0105 na zagadnienie wykluczenia kobiety w spo\u0142ecze\u0144stwie patriarchalnym, ale przecie\u017c nie tylko, bo interesowa\u0142o j\u0105 wykluczenie jako takie, wykluczenie grup spo\u0142ecznych czy zawodowych\n\nWhile the search results don't provide specific information about the direct influence of \"Jane Eyre\" on Konopnicka and Orzeszkowa's works, they do establish that both Polish writers were prominent voices in women's literature of the 19th century, addressing issues of women's emancipation within the specific context of Polish society under partition. Their approach to women's rights was notably different from Western feminism, being deeply intertwined with Polish patriotic causes and maintaining respect for traditional values while advocating for women's education and professional opportunities."
+    ],
+    "durationSeconds": 61.474026808999945
+  }
+}

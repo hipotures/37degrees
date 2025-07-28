@@ -1,0 +1,63 @@
+{
+  "session_id": "bb5bd92f-2e06-46b2-9b84-f65c0578b080",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/bb5bd92f-2e06-46b2-9b84-f65c0578b080.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Little Prince\" global impact translations statistics worldwide sales most translated book fascinating facts"
+  },
+  "tool_response": {
+    "query": "\"Little Prince\" global impact translations statistics worldwide sales most translated book fascinating facts",
+    "results": [
+      "I'll search for information about \"The Little Prince\" and its global impact, including translation statistics, worldwide sales, and interesting facts.",
+      {
+        "tool_use_id": "srvtoolu_01GvB5C9FBP8MJUiYBqZ83JN",
+        "content": [
+          {
+            "title": "The Little Prince - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Little_Prince"
+          },
+          {
+            "title": "The Little Prince reaches its 600th translation, a world record! - Le Petit Prince",
+            "url": "https://www.lepetitprince.com/en/events-around-the-world/the-little-prince-reaches-its-600th-translation/"
+          },
+          {
+            "title": "The Little Prince, A King Of Most Translated Books - Worldcrunch",
+            "url": "https://worldcrunch.com/culture-society/the-little-prince-a-king-of-most-translated-books"
+          },
+          {
+            "title": "The Little Prince | Plot, Analysis, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/The-Little-Prince"
+          },
+          {
+            "title": "What\u2019s the best translation of The Little Prince? \u2022 We Love Translations",
+            "url": "https://welovetranslations.com/2021/10/15/whats-the-best-translation-of-the-little-prince/"
+          },
+          {
+            "title": "Antoine de Saint Exupery\u2019s The Little Prince and Its Translation Process",
+            "url": "https://www.motaword.com/blog/the-little-prince"
+          },
+          {
+            "title": "List of literary works by number of translations - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/List_of_literary_works_by_number_of_translations"
+          },
+          {
+            "title": "One Good Fact about The Little Prince | Britannica",
+            "url": "https://www.britannica.com/one-good-fact/what-book-has-been-translated-into-the-most-languages"
+          },
+          {
+            "title": "The Little Prince turns 80! - Le Petit Prince",
+            "url": "https://www.lepetitprince.com/en/events/the-little-prince-turns-80/"
+          },
+          {
+            "title": "7 Most Translated Books In The World | GTE Localize",
+            "url": "https://gtelocalize.com/7-most-translated-books-in-the-world/"
+          }
+        ]
+      },
+      "Based on the search results, here are the fascinating facts about \"The Little Prince\" and its global impact:\n\n## Translation Statistics\n\nIn April 2017, The Little Prince became the world's most translated non-religious book, with translations into 300 languages. This number had risen to 600 by November 2024.(no content)The Little Prince, Saint Exup\u00e9ry's masterpiece, has become the most translated fiction book in the world with now 600 translations!(no content)The book has been translated into over 505 different languages and dialects worldwide, being the second most translated work ever published, trailing only the Bible.\n\n## Worldwide Sales\n\nThe Little Prince became Saint-Exup\u00e9ry's most successful work, selling an estimated 140 million copies worldwide, which makes it one of the best-selling in history.(no content)The novella has been translated into hundreds of languages and has sold some 200 million copies worldwide, making it one of the best-selling books in publishing history.(no content)It also became Saint-Exup\u00e9ry's most successful work, selling about 300 million copies.(no content)As a cultural icon, the novella regularly draws new readers and reviewers, selling almost two million copies annually and also spawning numerous adaptations.\n\n## Additional Fascinating Facts\n\n1. **Publishing History**: Written and illustrated by Antoine de Saint Exup\u00e9ry, The Little Prince was first published in 1943 in New York in English and French, before being released in France in 1946 by Gallimard, where it became a bestseller selling over 14 million copies.\n\n2. **Audio-Visual Impact**: The Antoine de Saint-Exup\u00e9ry Foundation estimates an additional 80 million copies of the story in audio-video formats have been sold worldwide.\n\n3. **Adaptations**: The Little Prince has been adapted to numerous art forms and media, including audio recordings, radio plays, live stage, film, cinema television, ballet, and opera.\n\n4. **Cultural Impact**: The 600th translation confirms the cultural and social impact of the Little Prince, which transcends borders and becomes a link between peoples.\n\n5. **Initial Reception**: The book enjoyed modest initial success, residing on The New York Times Best Seller list for only two weeks, as opposed to his earlier 1939 English translation, Wind, Sand and Stars which remained on the same list for nearly five months.\n\n6. **Classification Challenge**: Its publisher had anticipated such reactions to a work that fell neither exclusively into a children's nor adults' literature classification.\n\n7. **Universal Appeal**: The 1943 poetic and illustrated novella by French adventurer Antoine de Saint-Exup\u00e9ry is among the best-selling books ever published.\n\nThe Little Prince stands as a truly remarkable literary achievement, being the most translated non-religious book in the world with its recent 600th translation, and continuing to captivate readers across all ages and cultures with approximately 2 million copies sold annually."
+    ],
+    "durationSeconds": 30.890022580999997
+  }
+}

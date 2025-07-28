@@ -1,0 +1,114 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Jane Eyre\" consent boundaries \"no means no\" self-respect dating lessons modern women Gen Z"
+  },
+  "tool_response": {
+    "query": "\"Jane Eyre\" consent boundaries \"no means no\" self-respect dating lessons modern women Gen Z",
+    "results": [
+      "I'll search for information about Jane Eyre's themes of consent, boundaries, and self-respect as they relate to modern dating lessons for Gen Z women.",
+      {
+        "tool_use_id": "srvtoolu_011Wei5oBJnsKjJKsKMjFg7F",
+        "content": []
+      },
+      "I need to search for content that discusses Jane Eyre in the context of modern dating advice and consent. Let me try a more focused search query.",
+      {
+        "tool_use_id": "srvtoolu_015bV5gwpNDxDMuAPBLK6HPh",
+        "content": [
+          {
+            "title": "10 Lessons Modern Women Can Learn From 'Jane Eyre'",
+            "url": "https://www.bustle.com/p/10-lessons-modern-women-can-learn-from-jane-eyre-58736"
+          },
+          {
+            "title": "Sorry, but Jane Eyre Isn't the Romance You Want It to Be - JSTOR Daily",
+            "url": "https://daily.jstor.org/sorry-but-jane-eyre-isnt-the-perfect-romance-you-want-it-to-be/"
+          },
+          {
+            "title": "Jane Eyre: Themes | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/janeeyre/themes/"
+          },
+          {
+            "title": "\"Contradiction in Jane Eyre: Conversations of 19th Century Feminism\" by Audrey Clement - Marymount University",
+            "url": "https://marymount.edu/academics/college-of-sciences-and-humanities/school-of-interdisciplinary-studies/student-publications/magnificat-2022/contradiction-in-jane-eyre/"
+          },
+          {
+            "title": "Feminism & Gender Roles in Jane Eyre by Charlotte Bronte - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/feminism-gender-roles-in-jane-eyre.html"
+          },
+          {
+            "title": "Analysis Of Online Dating In Jane Eyre By Charlotte Bronte - 1023 Words | Bartleby",
+            "url": "https://www.bartleby.com/essay/Analysis-Of-Online-Dating-In-Jane-Eyre-PC7PEYNV6R"
+          },
+          {
+            "title": "Jane Eyre and Feminism: Role Subversion and Women\u2019s Freedom | Part Two",
+            "url": "https://blueinknotes.wordpress.com/2018/01/17/jane-eyre-and-feminism-role-subversion-and-womens-freedom-part-two/"
+          },
+          {
+            "title": "12 Influential Lessons from Jane Eyre - Knowledge Lover",
+            "url": "https://knowledgelover.com/lessons-from-jane-eyre/"
+          },
+          {
+            "title": "A closer reading of gender and character action in Jane Eyre ...",
+            "url": "https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1203&context=englishfacpubs"
+          },
+          {
+            "title": "Intersectionality in Jane Eyre and its Adaptations",
+            "url": "https://scholarworks.uark.edu/cgi/viewcontent.cgi?article=2104&context=etd"
+          }
+        ]
+      },
+      "Let me search for more specific content about Jane Eyre and modern dating lessons related to consent and boundaries.",
+      {
+        "tool_use_id": "srvtoolu_01Sa5h8uTeWuVvR741UvKmic",
+        "content": [
+          {
+            "title": "\u201cJane Eyre: Navigating Love, Power, and Communication in a Gen Z World\u201d | by Ella Bella | Medium",
+            "url": "https://medium.com/@Ellabellareads/jane-eyre-navigating-love-power-and-communication-in-a-gen-z-world-92f3a6313351"
+          },
+          {
+            "title": "Jane Eyre: A Tale of Self-Discovery and Resilience",
+            "url": "https://www.cliffsnotes.com/study-notes/19637299"
+          },
+          {
+            "title": "12 Influential Lessons from Jane Eyre - Knowledge Lover",
+            "url": "https://knowledgelover.com/lessons-from-jane-eyre/"
+          },
+          {
+            "title": "How can the novel Jane Eyre help me navigate relationships in my own life? - Quora",
+            "url": "https://www.quora.com/How-can-the-novel-Jane-Eyre-help-me-navigate-relationships-in-my-own-life"
+          },
+          {
+            "title": "The currency of self respect in a world of validation",
+            "url": "https://medium.com/@keionnawork/the-currency-of-self-respect-in-a-world-of-validation-a1725eaee780"
+          },
+          {
+            "title": "Jane Eyre searching for belonging",
+            "url": "https://academicjournals.org/journal/IJEL/article-full-text-pdf/3BEEA7B49917"
+          },
+          {
+            "title": "What She is Not: Jane Eyre and the Female Desirability",
+            "url": "https://access.portico.org/Portico/show?viewFile=pdf&auId=phx6ch5s12q"
+          },
+          {
+            "title": "Exploring the Complex Themes of Love, Identity, and Redemption in Jane Eyre (2006): A Literary Analysis of Jane and Rochester & 9 Literary Devices | by Maria Aloysius | Medium",
+            "url": "https://medium.com/@maria.sociology2/exploring-the-complex-themes-of-love-identity-and-redemption-in-jane-eyre-2006-a-literary-c49192087485"
+          },
+          {
+            "title": "Jane's Liminal Agency in Charlotte Bront\u00eb's Jane Eyre",
+            "url": "https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?article=2099&context=theses"
+          },
+          {
+            "title": "(PDF) Jane Eyre and the History of Self-Respect",
+            "url": "https://www.academia.edu/1013916/Jane_Eyre_and_the_History_of_Self_Respect"
+          }
+        ]
+      },
+      "Based on my search results, I can provide information about how Jane Eyre's themes of consent, boundaries, and self-respect relate to modern dating lessons for Gen Z women:\n\n## Jane Eyre's Timeless Lessons on Boundaries and Self-Respect\n\nThe romance stuff is thrilling, but Jane can't settle down with anyone until she truly learns to respect and love herself fiercely: \"I care for myself. The more solitary, the more friendless, the more unsustained I am, the more I will respect myself.\"\n\n### Key Dating Lessons from Jane Eyre:\n\n**1. Self-Respect as Foundation**\nSelf-respect is the central element of Jane's character and the foundation of her most meaningful choices in Jane Eyre. Regardless of her modest birth and efforts by society to strip her of value, Jane never wavers in her belief in her own intrinsic value as a human being.\n\n**2. Setting Clear Boundaries**\nWhen Mr. Rochester tries to make Jane his mistress after he learned that he is already married, she faces her toughest challenge. Even with her great passion for him, she will not give up what she believes in: \"I care for myself. The more solitary, the more friendless, the more unsustained I am, the more I will respect myself.\" This realization makes Jane understand that sacrificing her sense of self-respect, even for love, would be a self-consuming decision.\n\n**3. Refusing to Compromise Core Values**\nHer fear of losing her autonomy motivates her refusal of Rochester's marriage proposal. Jane believes that \"marrying\" Rochester while he remains legally tied to Bertha would mean rendering herself a mistress and sacrificing her own integrity for the sake of emotional gratification.\n\n**4. Maintaining Independence in Relationships**\nOnly after proving her self-sufficiency to herself can she marry Rochester and not be asymmetrically dependent upon him as her \"master.\" The marriage can be one between equals.\n\n**5. Walking Away When Necessary**\nAt least, if you do find out that your fianc\u00e9 keeps his exes captive in his home, pull a Jane and skip town at once.\n\n### Modern Relevance for Gen Z Women:\n\nIn our contemporary context, where economic pressure, relationship requirements, and social media stress insidiously erode personal boundaries, Jane's call for freedom remains radical. Her story asks us to reflect on where and how we might be sacrificing our autonomy -whether in career choices that betray our values, relationships that drain our selfhood, or social norms that erode our authenticity.(no content)It's to look at the imperfections and accept yourself for who you are, and to respect yourself enough, to walk away from situations that hurt you or place boundaries again that have slowly eroded over time. It's not built up overnight, or through these grand moments, it's built up slowly over unremarkable choices like choosing to cut off a friend who's decidedly focused on hurting you by making snide comments about your weight every time you meet.\n\nThe novel demonstrates that True independence, then, is not selfishness or isolation, Jane implies, but the basis of genuine connection. Only when she is independently whole in every definition of the word can she turn back to Rochester as his peer and have an equal relationship of respect, rather than dependence.\n\nJane Eyre's story continues to resonate because it shows that healthy relationships require both partners to maintain their autonomy and self-respect, teaching that saying \"no\" when your values are compromised isn't just acceptable\u2014it's essential for authentic love and partnership."
+    ],
+    "durationSeconds": 51.00486136199999
+  }
+}

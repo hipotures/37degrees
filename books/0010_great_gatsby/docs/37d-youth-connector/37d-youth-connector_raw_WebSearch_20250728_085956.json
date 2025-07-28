@@ -1,0 +1,68 @@
+{
+  "session_id": "e18f7f1c-5883-41e4-8ef9-15aee4aa266b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e18f7f1c-5883-41e4-8ef9-15aee4aa266b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Gen Z dating anxiety ghosting \"Great Gatsby\" emotional manipulation online relationships unhealthy patterns"
+  },
+  "tool_response": {
+    "query": "Gen Z dating anxiety ghosting \"Great Gatsby\" emotional manipulation online relationships unhealthy patterns",
+    "results": [
+      "I'll search for information about Gen Z dating anxiety, ghosting, and its connection to \"Great Gatsby\" themes and emotional manipulation in online relationships.",
+      {
+        "tool_use_id": "srvtoolu_01Jw5HTWXBp4k7jMBzu555ZQ",
+        "content": []
+      },
+      "I notice the search didn't return any results with that specific combination of terms. Let me try a more focused search on the core topics.",
+      {
+        "tool_use_id": "srvtoolu_01YYamurdjGfGr3zSmN5n1Dz",
+        "content": [
+          {
+            "title": "Gen Z and Millennial Ghosting Statistics and Habits - 2023 Survey",
+            "url": "https://thrivingcenterofpsych.com/blog/gen-z-millennial-ghosting-statistics/"
+          },
+          {
+            "title": "Ghostlighting Is the Dating Trend Even Worse Than Ghosting",
+            "url": "https://www.vice.com/en/article/ghostlighting-is-the-dating-trend-even-worse-than-ghosting/"
+          },
+          {
+            "title": "Ghosting and Breadcrumbing: The New Norms in Gen-Z Dating Culture | by Deepak Vaswani | Medium",
+            "url": "https://medium.com/@vaswanideepak35/ghosting-and-breadcrumbing-the-new-norms-in-gen-z-dating-culture-013f6da96c1b"
+          },
+          {
+            "title": "Why Gen Z relationships never get closure \u2014 and what that says about us - The DePaulia",
+            "url": "https://depauliaonline.com/75704/opinions/why-gen-z-relationships-never-get-closure-and-what-that-says-about-us/"
+          },
+          {
+            "title": "Forget ghosting: Introducing 'banksying', Gen Z's new dating trend",
+            "url": "https://thetab.com/2025/07/15/banksying-inside-the-new-dating-trend-thats-even-worse-than-ghosting"
+          },
+          {
+            "title": "Ghosting: Generation Z\u2019s Normalized Epidemic \u2013 The Nevada Sagebrush",
+            "url": "https://nevadasagebrush.com/2023/01/30/ghosting-generation-zs-normalized-epidemic/"
+          },
+          {
+            "title": "Understanding Gen Z Dating Terms: A Guide for Millennials | Decoding Gen Z's Dating Slang: What Millennials Need to Know | Navigating Modern Romance: Key Gen Z Dating Terms Explained | Gen Z Dating Lingo Demystified: A Millennial's Guide | From Breadcrumbing to Ghosting: Gen Z Dating Terms Unpacked | Millennials Meet Gen Z: Understanding New Dating Terminology | The Evolution of Dating Slang: Gen Z Terms Every Millennial Should Know | Breaking Down Gen Z Dating Terms: A Comprehensive Guide | Modern Dating D",
+            "url": "https://www.thedailystar.net/life-living/relationships-family/news/situationships-breadcrumbing-ghosting-unpacking-gen-z-dating-lingo-millennials-3821871"
+          },
+          {
+            "title": "Are Zillennials Experts In Ghosting? - Girls United",
+            "url": "https://girlsunited.essence.com/feedback/news/ghosting-gen-z-relationships/"
+          },
+          {
+            "title": "\"New\" Gen Z Dating Trend Merges Toxic Tactics | Hypebae",
+            "url": "https://hypebae.com/2023/6/gen-z-dating-trend-ghosting-gaslighting-ghostlighting-expert-advice-tips"
+          },
+          {
+            "title": "Gen Z Dating: How the Young Generation is Changing the Game",
+            "url": "https://indigotherapygroup.com/gen-z-dating-how-the-young-generation-is-changing-the-game/"
+          }
+        ]
+      },
+      "Based on the search results, I've found significant information about Gen Z dating anxiety, ghosting, and emotional manipulation patterns in online relationships. Here's what the research reveals:\n\n## Gen Z Dating Anxiety and Ghosting Trends\n\nMore Gen Zers (77%) have ghosted than Millennials (61%), as well as more women than men. The prevalence of ghosting has become a defining characteristic of modern dating culture, particularly among younger generations.\n\n### Reasons for Ghosting\n\nThe main reason people ghost is because they're not interested in continuing the relationship. Other causes include avoiding confrontation or being stressed or overwhelmed by expectations. Nearly 1 in 3 shared they do it because they're struggling with mental health. This suggests that ghosting is often a coping mechanism for dealing with emotional stress and anxiety.\n\n### Emotional Impact\n\n84% of Gen Z and Millennials shared they've been ghosted, and they don't feel good about it. The psychological effects are significant: Ghosting can have a profound impact on the person being ghosted. It can lead to feelings of rejection, low self-esteem, and even trust issues in future relationships. It's a form of emotional abandonment that can leave lasting scars, making it difficult for the person to move on and open up to new connections.\n\n## New Forms of Emotional Manipulation\n\n### \"Ghostlighting\" - A Toxic Combination\n\nIt is a manipulative tactic where an individual disappears and cuts off communication suddenly from another person. When confronted, they feel anxiety and shame, and freeze, and then make up an excuse because they were too busy. This combines ghosting with gaslighting, where Ghostlighting is the combination of both: ghosting someone, then denying it. The aim is to make you question whether you were mistreated instead of taking responsibility.\n\n### \"Banksying\" - The Latest Trend\n\nThe person doing the \"banksying\" will have been withdrawing emotionally for some time, but only ends the relationship when they've mentally checked out. Capturing the emotional selfishness of today's dating culture, the recipient is left feeling gaslit and confused, having been repeatedly reassured everything was fine despite having doubts. Meanwhile, the departing partner is relieved and ready to move on straight away, after prioritising their own feelings over the person they were supposed to care about.\n\n## Connection to Broader Cultural Issues\n\n### Conflict Avoidance and Therapy Speak\n\nGen Z loves therapy, but they love using therapy speak to justify harmful behavior more. Terms like \"narcissist,\" \"gaslighting\" and \"trauma\" are thrown around so casually that they've lost meaning. Instead of breaking up with a sense of maturity, Gen Z diagnoses their exes with personality disorders to avoid self-reflection.\n\n### Systemic Factors\n\nGen Z's relationship habits are a symptom of a larger systemic issue \u2014 capitalism's emphasis on self-interest over community. An economy that prioritizes self-preservation, a mental health crisis that teaches people to protect themselves at all costs and an era of hyper-individualism that discourages dependence on others only explain Gen Z's relationship struggles, they don't absolve individuals of accountability.\n\n## The Role of Technology\n\n2 in 3 think ghosting is a byproduct of online dating.(no content)Amy Chan, a dating coach and the author of Breakup Bootcamp: The Science of Rewiring Your Heart, told USA Today that whilst \"banksying\" has been going on for a while, it's becoming more common. The author cited the proliferation of dating apps, \"where people have developed poor dating etiquette\", as the most likely cause of its surge in popularity.\n\n## Mental Health Implications\n\nThe emotional toll of ghosting and breadcrumbing can be severe. It can lead to feelings of anxiety, depression, and low self-worth, making it difficult to trust and open up to future partners. Additionally, These behaviors can also breed trust issues, making it harder for individuals to form genuine connections and healthy relationships. If someone has been ghosted or breadcrumbed in the past, they may constantly fear it happening again, leading to a cycle of self-sabotage and emotional distance.\n\nWhile I didn't find specific connections to \"The Great Gatsby\" in these search results, the patterns of emotional manipulation, superficial connections, and the pursuit of unattainable relationships mirror themes from the novel - particularly the way characters like Gatsby and Daisy engage in emotionally manipulative behaviors while avoiding genuine emotional intimacy."
+    ],
+    "durationSeconds": 55.95490206000023
+  }
+}

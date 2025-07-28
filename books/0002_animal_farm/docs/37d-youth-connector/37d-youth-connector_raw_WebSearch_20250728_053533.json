@@ -1,0 +1,155 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Animal Farm\" TikTok BookTok young readers Gen Z discussion themes 2024"
+  },
+  "tool_response": {
+    "query": "\"Animal Farm\" TikTok BookTok young readers Gen Z discussion themes 2024",
+    "results": [
+      "I'll search for information about how Animal Farm is being discussed on TikTok's BookTok community among young readers and Gen Z in 2024.",
+      {
+        "tool_use_id": "srvtoolu_01GEAJeNPWqCza6GUdbfryL8",
+        "content": [
+          {
+            "title": "Kid reviews for Animal Farm | Common Sense Media",
+            "url": "https://www.commonsensemedia.org/book-reviews/animal-farm/user-reviews/child"
+          },
+          {
+            "title": "Parent reviews for Animal Farm | Common Sense Media",
+            "url": "https://www.commonsensemedia.org/book-reviews/animal-farm/user-reviews/adult"
+          },
+          {
+            "title": "is animal farm a goodread for kids? \u2014 Animal Farm Q&A",
+            "url": "https://www.goodreads.com/questions/125238-is-animal-farm-a-goodread-for-kids"
+          },
+          {
+            "title": "Animal Farm Book Review | Common Sense Media",
+            "url": "https://www.commonsensemedia.org/book-reviews/animal-farm"
+          },
+          {
+            "title": "Kid's Book Review: Animal Farm | Books Up North",
+            "url": "https://booksupnorth.com/kids-book-review-animal-farm/"
+          },
+          {
+            "title": "Animal Farm",
+            "url": "https://www.oxac.org/Downloads/Animal%20Farm%20Packet.pdf"
+          },
+          {
+            "title": "Is it a good idea for an 11 yo child to read Animal Farm? - Quora",
+            "url": "https://www.quora.com/Is-it-a-good-idea-for-an-11-yo-child-to-read-Animal-Farm"
+          },
+          {
+            "title": "Teaching Animal Farm Like It's Your Civic Duty - Building Book Love",
+            "url": "https://buildingbooklove.com/amp-up-animal-farm-teaching-animal-farm/"
+          },
+          {
+            "title": "12 Books Like Animal Farm You Need to Read Next",
+            "url": "https://www.bookbub.com/blog/books-like-animal-farm-by-george-orwell"
+          },
+          {
+            "title": "Exploring Similarity: 20 Powerful Books Like Animal Farm by George Orwell",
+            "url": "https://www.blinkist.com/magazine/posts/books-like-animal-farm"
+          }
+        ]
+      },
+      "The search results don't specifically show TikTok BookTok discussions about Animal Farm in 2024. Let me try a more targeted search focusing on TikTok and BookTok specifically.",
+      {
+        "tool_use_id": "srvtoolu_01Fc71CCMV4Nz3GGWDcoUVoV",
+        "content": [
+          {
+            "title": "BookTok\u2019s 21 Most Talked About Books of 2024",
+            "url": "https://www.rollingstone.com/culture/culture-lists/booktok-best-books-2024-1235090973/"
+          },
+          {
+            "title": "Animal Farm - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Animal_Farm"
+          },
+          {
+            "title": "Farm Booktok",
+            "url": "https://www.tiktok.com/discover/farm-booktok"
+          },
+          {
+            "title": "Booktok 2024",
+            "url": "https://www.tiktok.com/find/booktok-2024"
+          },
+          {
+            "title": "That time Hallmark did a weird adaptation of Animal Farm. #animalfarm ... | TikTok",
+            "url": "https://www.tiktok.com/@tom_nicholas/video/7187454838282652934?lang=en"
+          },
+          {
+            "title": "Booktok Recommends 2024",
+            "url": "https://www.tiktok.com/discover/booktok-recommends-2024"
+          },
+          {
+            "title": "Booktok May 2024",
+            "url": "https://www.tiktok.com/discover/booktok-may-2024"
+          },
+          {
+            "title": "TikTok - Make Your Day",
+            "url": "https://www.tiktok.com/discover/lookbook-farm-2024"
+          },
+          {
+            "title": "The Best BookTok Books Of 2024 To Read ASAP (If You Haven\u2019t Already)",
+            "url": "https://www.hercampus.com/culture/10-best-books-2024-booktok/"
+          },
+          {
+            "title": "Tiktok #Booktok 2022-2024 (47 books)",
+            "url": "https://www.goodreads.com/list/show/179763.Tiktok_Booktok_2022_2024"
+          }
+        ]
+      },
+      "I'm not finding specific results about Animal Farm discussions on BookTok in 2024. Let me try one more search with different terms to see if I can find any recent Gen Z discussions about this classic.",
+      {
+        "tool_use_id": "srvtoolu_01AqPVgdLWgJSABjEgiek5it",
+        "content": [
+          {
+            "title": "is animal farm a goodread for kids? \u2014 Animal Farm Q&A",
+            "url": "https://www.goodreads.com/questions/125238-is-animal-farm-a-goodread-for-kids"
+          },
+          {
+            "title": "Teaching Animal Farm Like It's Your Civic Duty - Building Book Love",
+            "url": "https://buildingbooklove.com/amp-up-animal-farm-teaching-animal-farm/"
+          },
+          {
+            "title": "Themes in Animal Farm | GCSE English Literature Revision",
+            "url": "https://www.shalom-education.com/courses/gcse-english-literature/lessons/prose/topic/themes-in-animal-farm/"
+          },
+          {
+            "title": "Animal Farm Study Guide | Literature Guide | LitCharts",
+            "url": "https://www.litcharts.com/lit/animal-farm"
+          },
+          {
+            "title": "Animal Farm Themes | LitCharts",
+            "url": "https://www.litcharts.com/lit/animal-farm/themes"
+          },
+          {
+            "title": "Farm Animals | Reading A-Z",
+            "url": "https://www.readinga-z.com/book.php?id=175"
+          },
+          {
+            "title": "Parent reviews for Animal Farm | Common Sense Media",
+            "url": "https://www.commonsensemedia.org/book-reviews/animal-farm/user-reviews/adult"
+          },
+          {
+            "title": "Animal Farm Book Review | Common Sense Media",
+            "url": "https://www.commonsensemedia.org/book-reviews/animal-farm"
+          },
+          {
+            "title": "Farm Friends | Reading A-Z",
+            "url": "https://www.readinga-z.com/book.php?id=797"
+          },
+          {
+            "title": "Animal Farm by George Orwell | Goodreads",
+            "url": "https://www.goodreads.com/book/show/170448.Animal_Farm"
+          }
+        ]
+      },
+      "Based on my searches, I was unable to find specific information about how Animal Farm is being discussed on TikTok's BookTok community among Gen Z readers in 2024. The search results did not reveal any current BookTok trends or discussions specifically about Orwell's classic novel.\n\nHowever, I found some relevant information about:\n\n1. **BookTok trends in 2024**: BookTok has been responsible for millions of dollars of book sales and made authors household names in 2024, with 21 of BookTok's biggest hits of 2024 being primarily contemporary fiction and romance novels rather than classic literature.\n\n2. **Teaching Animal Farm in 2024**: There's emphasis on connecting Animal themes to modern day issues, with educators focusing on how \"herd mentality\" can lead to a country full of people who don't know how to think for themselves.\n\n3. **Young readers' perspectives**: While not specifically from TikTok, discussions indicate that reading Animal Farm should be at their discretion, not their parents' urging, because some of the themes are disturbing, and it should not be required reading for anyone below high school age.\n\nThe search results suggest that while BookTok is highly influential in 2024, it appears to focus more on contemporary fiction, romance, and thriller genres rather than classic political allegories like Animal Farm. The discussions about Animal Farm among young readers seem to be happening more in educational contexts rather than on social media platforms like TikTok."
+    ],
+    "durationSeconds": 29.70698167200014
+  }
+}

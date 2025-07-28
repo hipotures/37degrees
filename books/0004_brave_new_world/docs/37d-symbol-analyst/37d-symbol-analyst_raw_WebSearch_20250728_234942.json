@@ -1,0 +1,62 @@
+{
+  "session_id": "376d92b9-8691-4487-a582-02786fce3fb0",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/376d92b9-8691-4487-a582-02786fce3fb0.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Soma Brave New World Polish translation symbolism \"Nowy wspania\u0142y \u015bwiat\" cultural interpretation"
+  },
+  "tool_response": {
+    "query": "Soma Brave New World Polish translation symbolism \"Nowy wspania\u0142y \u015bwiat\" cultural interpretation",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01MAX9YRFYxuF5CRLAwhkNDD",
+        "content": [
+          {
+            "title": "Taco Hemingway - Nowy wspania\u0142y \u015bwiat (English translation)",
+            "url": "https://lyricstranslate.com/en/nowy-wspanialy-swiat-brave-new-world.html"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2013 Wikicytaty",
+            "url": "https://pl.wikiquote.org/wiki/Nowy_wspania\u0142y_\u015bwiat"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat (Serial TV 2020-2020) - Filmweb",
+            "url": "https://www.filmweb.pl/serial/Nowy+wspania\u0142y+\u015bwiat-2020-833866"
+          },
+          {
+            "title": "brave new world - Translation into Polish - examples English | Reverso Context",
+            "url": "https://context.reverso.net/translation/english-polish/brave+new+world"
+          },
+          {
+            "title": "POLISH DOCS: NOWY WSPANIA\u0141Y \u015aWIAT - international promotion of Polish documentary films",
+            "url": "https://www.polishdocs.pl/en/films/1402/brave_new_world"
+          },
+          {
+            "title": "POLISH DOCS: BRAVE NEW WORLD - promocja polskich film\u00f3w dokumentalnych za granic\u0105",
+            "url": "https://polishdocs.pl/pl/filmy/1402/nowy_wspanialy_swiat"
+          },
+          {
+            "title": "a brave new world - Translation into Polish - examples English | Reverso Context",
+            "url": "https://context.reverso.net/translation/english-polish/a+brave+new+world"
+          },
+          {
+            "title": "Huxley BRAVE NEW WORLD [NOWY WSPANIA\u0141Y \u015aWIAT]",
+            "url": "https://antykwariat-zakladka.pl/produkt/brave-new-world-nowy-wspanialy-swiat/"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - serial (2020) - naEKRANIE.pl",
+            "url": "https://naekranie.pl/seriale/brave-new-world"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat Sezon 1 Odcinek 9 - Soma | Filmweb",
+            "url": "https://www.filmweb.pl/serial/Nowy+wspania%C5%82y+%C5%9Bwiat-2020-833866/episode/1/9"
+          }
+        ]
+      },
+      "Based on the search results, I can provide some information about the Polish translation of \"Brave New World\" and its cultural interpretation, though the results don't contain extensive analysis of soma symbolism specifically in the Polish context.\n\n## Polish Translation and Title\n\nThe Polish translation of Aldous Huxley's \"Brave New World\" is titled \"Nowy wspania\u0142y \u015bwiat\", translated by Bogdan Baran. This direct translation maintains the ironic tone of the original English title.\n\n## Cultural Reception and Interpretation\n\nThe search results reveal that \"Nowy wspania\u0142y \u015bwiat\" has had significant cultural impact in Poland:\n\n1. **Literary Recognition**: The book is described as a \"kultowa ksi\u0105\u017cka\" (cult book) by Aldous Huxley, indicating its established status in Polish literary culture.\n\n2. **Contemporary Relevance**: The Polish title has become a common phrase used metaphorically in modern contexts. Translation examples show \"brave new world\" being rendered as \"nowy wspania\u0142y \u015bwiat\" in various contemporary Polish contexts, suggesting the phrase has entered common usage beyond just the literary work.\n\n3. **Cultural Center**: Interestingly, there's a cultural center in Poland called \"Nowy Wspania\u0142y \u015awiat\" run by Krytyka Polityczna, a left-wing publication that aimed to revitalize engaged Polish intelligentsia.\n\n## Soma Reference in Adaptations\n\nIn the 2020 TV adaptation, there's an episode specifically titled \"Soma,\" which deals with Bernard's struggles, Lenina's final open rebellion against the system, and John's exile leading to turmoil in New London.\n\nUnfortunately, the search results don't contain detailed scholarly analysis of soma's symbolism specifically within Polish cultural interpretation or how Polish readers might uniquely understand this element of Huxley's dystopia. The results focus more on the general reception of the work and its adaptations rather than deep symbolic analysis of specific elements like soma within Polish cultural context."
+    ],
+    "durationSeconds": 15.827841180000018
+  }
+}

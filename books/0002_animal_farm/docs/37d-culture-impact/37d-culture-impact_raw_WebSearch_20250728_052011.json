@@ -1,0 +1,63 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Animal Farm parodies satire contemporary references Saturday Night Live South Park Simpsons"
+  },
+  "tool_response": {
+    "query": "Animal Farm parodies satire contemporary references Saturday Night Live South Park Simpsons",
+    "results": [
+      "I'll search for information about Animal Farm parodies and satire in contemporary media like Saturday Night Live, South Park, and The Simpsons.",
+      {
+        "tool_use_id": "srvtoolu_01KrAHfbQAV7GhCiMVsUh37U",
+        "content": [
+          {
+            "title": "Animal Park (aka South Park) | The Parody Wiki | Fandom",
+            "url": "https://parody.fandom.com/wiki/Animal_Park_(aka_South_Park)"
+          },
+          {
+            "title": "2021 Satire in AF Simpsons and SNL Ex - READ: Analyzing Satire: a Quick Guide What is satire? Satire - Studocu",
+            "url": "https://www.studocu.com/en-us/document/saddleback-college/news-media-production-blogging-and-social-media/2021-satire-in-af-simpsons-and-snl-ex/55062304"
+          },
+          {
+            "title": "The 50 Best 'SNL' Commercial Parodies of All Time",
+            "url": "https://www.rollingstone.com/tv-movies/tv-movie-lists/best-saturday-night-live-commercial-parodies-1235086864/"
+          },
+          {
+            "title": "South Park's 8 Best TV Parodies",
+            "url": "https://screenrant.com/south-parks-eight-best-tv-parodies/"
+          },
+          {
+            "title": "South Park | Simpsons Wiki | Fandom",
+            "url": "https://simpsons.fandom.com/wiki/South_Park"
+          },
+          {
+            "title": "Alien, Predator & AvP Parodies (The Simpsons, South Park...) - AvPGalaxy",
+            "url": "https://www.avpgalaxy.net/website/articles/parodies/"
+          },
+          {
+            "title": "TV Funhouse - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/TV_Funhouse"
+          },
+          {
+            "title": "5 Examples of Parody in South Park",
+            "url": "https://seanmiller.us/blog/5-examples-of-parody-in-south-park/"
+          },
+          {
+            "title": "The Complete Guide to South Park Movie Parodies and References | Den of Geek",
+            "url": "https://www.denofgeek.com/movies/the-complete-guide-to-south-park-movie-parodies-and-references/"
+          },
+          {
+            "title": "The Importance Of Parody In George Orwell's Animal Farm | Cram",
+            "url": "https://www.cram.com/essay/The-Importance-Of-Parody-In-George-Orwells/PCLYWV2ACT"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about how Animal Farm has been parodied and referenced in contemporary satire shows like Saturday Night Live, South Park, and The Simpsons:\n\n## Animal Farm References in Contemporary Media\n\nAnimal Farm is described as an allegorical satire by George Orwell that can be read as a simple tale of farm animals, but has a deeper political meaning. George Orwell's famous 1945 novel Animal Farm is cited as a good example of Juvenalian satire, with its intended target being communism and Stalin-era Soviet Union.\n\n## Saturday Night Live (SNL)\n\nSaturday Night Live is noted for its long tradition of poking fun at elected officials and is given as a modern-day example of Menippean satire. While the search results don't reveal specific Animal Farm parodies on SNL, the show is known for its political satire that shares thematic similarities with Orwell's work.\n\n## South Park\n\nSouth Park is described as a modern-day example that \"juxtaposes biting satire with juvenile humor\". The show has tackled various hot-button targets, including abortion, the Pope, Hollywood, and criminal justice.\n\nSouth Park, created by Trey Parker and Matt Stone, is known for leaving no stone unturned in its biting satire, having parodied movies, sports, music, politics, and religion. The show is known for its use of parody to critique society, politics, and popular culture, using parody as a form of satire that imitates the style of someone or something else to make a comedic point and expose absurdities and contradictions in various aspects of society.\n\nWhile the search results don't show direct Animal Farm parodies in South Park, the show shares similar satirical approaches to political and social commentary.\n\n## The Simpsons\n\nThe search results indicate several references between The Simpsons and South Park:\n\nThere's an episode titled \"The Simpsons Already Did It\" which is described as \"a complete spoof of The Simpsons\". In South Park's \"The Problem with a Poo\" (a reference to \"The Problem With Apu\"), Mr. Hankey is exiled from South Park and arrives in Springfield, where he is welcomed by Apu and other Simpsons characters.\n\nHowever, specific Animal Farm parodies in The Simpsons aren't mentioned in the search results.\n\n## Common Satirical Themes\n\nThese shows share Animal Farm's approach to satire by:\n- Using allegory and metaphor to critique political systems\n- Exposing corruption and hypocrisy in authority figures\n- Employing humor to address serious social and political issues\n- Creating fictional scenarios that mirror real-world political situations\n\nWhile the search results don't provide specific examples of direct Animal Farm parodies in these shows, they demonstrate how contemporary satire continues to use similar techniques to those employed by Orwell in critiquing power structures and political ideologies."
+    ],
+    "durationSeconds": 29.67174401399959
+  }
+}

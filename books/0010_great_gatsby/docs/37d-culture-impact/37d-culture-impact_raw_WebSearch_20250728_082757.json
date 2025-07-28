@@ -1,0 +1,85 @@
+{
+  "session_id": "e18f7f1c-5883-41e4-8ef9-15aee4aa266b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e18f7f1c-5883-41e4-8ef9-15aee4aa266b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "#gatsby TikTok trending hashtag BookTok \"Great Gatsby\" viral videos 2023 2024"
+  },
+  "tool_response": {
+    "query": "#gatsby TikTok trending hashtag BookTok \"Great Gatsby\" viral videos 2023 2024",
+    "results": [
+      "I'll search for information about The Great Gatsby's popularity on TikTok, particularly through BookTok and viral videos from 2023-2024.",
+      {
+        "tool_use_id": "srvtoolu_01NSSYuxiw42GmdnPweUNjNE",
+        "content": [
+          {
+            "title": "BookTok: The Dark Horse of the Economy \u2013 Berkeley Economic Review",
+            "url": "https://econreview.studentorg.berkeley.edu/booktok-the-dark-horse-of-the-economy-2/"
+          },
+          {
+            "title": "The Great Gatsby Musical",
+            "url": "https://www.tiktok.com/en/trending/detail/the-great-gatsby-musical"
+          },
+          {
+            "title": "What Is BookTok? These Readers Say Tiktok Changed Their Reading Habits",
+            "url": "https://www.today.com/today/amp/rcna70362"
+          },
+          {
+            "title": "Great Gatsby",
+            "url": "https://www.tiktok.com/discover/great-gatsby?lang=en"
+          }
+        ]
+      },
+      "Let me search for more specific information about The Great Gatsby's viral presence on TikTok in 2023-2024.",
+      {
+        "tool_use_id": "srvtoolu_0185kHwhAQk946nLCsJicscA",
+        "content": [
+          {
+            "title": "BookTok: The Dark Horse of the Economy \u2013 Berkeley Economic Review",
+            "url": "https://econreview.studentorg.berkeley.edu/booktok-the-dark-horse-of-the-economy-2/"
+          },
+          {
+            "title": "BookTok\u2019s 21 Most Talked About Books of 2024",
+            "url": "https://www.rollingstone.com/culture/culture-lists/booktok-best-books-2024-1235090973/"
+          },
+          {
+            "title": "The Most Popular TikTok Books #BookTok | Barnes & Noble\u00ae",
+            "url": "https://www.barnesandnoble.com/b/booktok/_/N-2vdn"
+          },
+          {
+            "title": "Booktok Recommends 2024",
+            "url": "https://www.tiktok.com/discover/booktok-recommends-2024"
+          },
+          {
+            "title": "TikTok - Make Your Day",
+            "url": "https://www.tiktok.com/tag/BookTok"
+          },
+          {
+            "title": "Tiktok #Booktok 2022-2024 (47 books)",
+            "url": "https://www.goodreads.com/list/show/179763.Tiktok_Booktok_2022_2024"
+          },
+          {
+            "title": "An Author's Guide to Navigating the #BookTok Trend (2024)",
+            "url": "https://booklinker.com/blog/booktok/"
+          },
+          {
+            "title": "Booktok Must Read 2024",
+            "url": "https://www.tiktok.com/discover/booktok-must-read-2024?lang=en"
+          },
+          {
+            "title": "The best BookTok books to read in 2025 - Pan Macmillan",
+            "url": "https://www.panmacmillan.com/blogs/general/best-booktok-books"
+          },
+          {
+            "title": "BookTok Recommendations 2024: What's Hot and What's Not?",
+            "url": "https://sociallypowerful.com/post/booktok-recommendations-2024"
+          }
+        ]
+      },
+      "Based on my search results, here's what I found about The Great Gatsby's presence on TikTok and BookTok in 2023-2024:\n\n## The Great Gatsby on BookTok\n\nEven many classics like The Great Gatsby, Emma, and Little Women, have resurfaced due to their cultural impact.(no content)With popular reboots and adaptations like Little Women by Greta Gerwig and the TV series Bridgerton romanticizes period pieces, many readers found on BookTok are beginning to enjoy esteemed novels again.(no content)When love and the Roaring Twenties meet, you get \"The Great Gatsby.\" This quote from a February 2023 Today.com article demonstrates how The Great Gatsby is being positioned as part of the BookTok conversation, particularly in discussions about classic literature meeting modern social media.\n\n## BookTok's Overall Impact in 2023-2024\n\nThe BookTok community has shown significant growth and influence during this period:\n\n- However, based on TikTok analytics, there is still heightened popularity for the usage of the hashtag #booktok\u2014the peak of popularity being in 2024.\n- Book sales catered to both adult and young adult audiences skyrocketed in 2021, but plateaued mid 2023.\n- The BookTok hashtag, aside from having more than 108 billion views on TikTok, has helped boost book sales across the charts.\n- In fact, #BookTok videos have gained nearly 200 billion views to date, and regularly push books to the top of bestseller lists.\n\n## Classic Literature Revival on BookTok\n\nThe Great Gatsby appears to be part of a broader trend of classic literature experiencing renewed interest on BookTok. The platform has been instrumental in bringing older titles back into popular culture, particularly when they connect with contemporary themes or have recent adaptations that resonate with younger audiences.\n\nWhile I couldn't find specific viral videos or detailed metrics about The Great Gatsby's performance on TikTok in 2023-2024, the evidence suggests it has benefited from BookTok's general trend of reviving classic literature alongside contemporary releases. The platform's influence continues to shape reading habits and book sales, with classics finding new audiences through creative content and community discussions."
+    ],
+    "durationSeconds": 31.099170956999995
+  }
+}

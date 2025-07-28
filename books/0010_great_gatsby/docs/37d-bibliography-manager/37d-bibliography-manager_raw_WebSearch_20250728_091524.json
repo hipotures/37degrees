@@ -1,0 +1,63 @@
+{
+  "session_id": "e18f7f1c-5883-41e4-8ef9-15aee4aa266b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e18f7f1c-5883-41e4-8ef9-15aee4aa266b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Great Gatsby\" Polish translation \"Wielki Gatsby\" academic bibliography Polish scholars research"
+  },
+  "tool_response": {
+    "query": "\"Great Gatsby\" Polish translation \"Wielki Gatsby\" academic bibliography Polish scholars research",
+    "results": [
+      "I'll search for academic research about the Polish translation of \"The Great Gatsby\" (\"Wielki Gatsby\") by Polish scholars.",
+      {
+        "tool_use_id": "srvtoolu_01Lp4NikMteYvE8URLPcRYWD",
+        "content": [
+          {
+            "title": "(PDF) Selected cultural elements and allusions in five Polish translations of F. Scott Fitzgerald\u2019s 'The Great Gatsby'",
+            "url": "https://www.researchgate.net/publication/378252335_Selected_cultural_elements_and_allusions_in_five_Polish_translations_of_F_Scott_Fitzgerald's_'The_Great_Gatsby'"
+          },
+          {
+            "title": "Error in Literary Translation: F.S. Fitzgerald's \"The Great Gatsby\" in Three Polish Renditions | Harmon | Lublin Studies in Modern Languages and Literature",
+            "url": "https://journals.umcs.pl/lsmll/article/view/13748/0"
+          },
+          {
+            "title": "Selected cultural elements and allusions in five Polish translations of F. Scott Fitzgerald\u2019s 'The Great Gatsby' | Beyond Philology An International Journal of Linguistics, Literary Studies and English Language Teaching",
+            "url": "https://czasopisma.bg.ug.edu.pl/index.php/beyond/article/view/10403"
+          },
+          {
+            "title": "Representation of culture-specific elements in two Polish translations of The Great Gatsby by Francis Scott Fitzgerald",
+            "url": "https://ruj.uj.edu.pl/entities/publication/29668e8c-8ab8-4a9a-94be-3681a99bf593"
+          },
+          {
+            "title": "First Polish Edition the Great Gatsby (wielki Gatsby) by F. Scott Fitzgerald Ksiazka Wiedza, 1982 Vintage Paperback Book - Etsy",
+            "url": "https://www.etsy.com/listing/1382509225/first-polish-edition-the-great-gatsby"
+          },
+          {
+            "title": "The Great Gatsby Book in Polish | Multilingual Books",
+            "url": "https://shop.multilingualbooks.com/products/the-great-gatsby-book-in-polish"
+          },
+          {
+            "title": "Wielki Gatsby - Translation into English - examples Polish | Reverso Context",
+            "url": "https://context.reverso.net/translation/polish-english/Wielki+Gatsby"
+          },
+          {
+            "title": "great gatsby - Translation into Polish - examples English | Reverso Context",
+            "url": "https://context.reverso.net/translation/english-polish/great+gatsby"
+          },
+          {
+            "title": "The Great Gatsby (Wielki Gatsby) by Fitzgerald, F. Scott: Good Soft cover (1982) 1st Edition | Bohemian Bookworm",
+            "url": "https://www.abebooks.com/first-edition/Great-Gatsby-Wielki-Fitzgerald-F-Scott/30084736448/bd"
+          },
+          {
+            "title": "Wielki Gatsby \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Wielki_Gatsby"
+          }
+        ]
+      },
+      "Based on my search results, I can provide you with comprehensive information about academic research on the Polish translation of \"The Great Gatsby\" (\"Wielki Gatsby\") by Polish scholars.\n\n## Academic Research on Polish Translations of \"The Great Gatsby\"\n\n### Translation History\n\nThe first Polish translation of \"The Great Gatsby\" was published in 1962 by Ariadna Demkowska-Bohdziewicz. Currently, readers in Poland can choose from among six translations of this iconic work, with three of them added in 2021 and 2022, probably as a result of the entry of the book into the public domain in 2021.\n\n### Polish Translators and Editions\n\nThe main Polish translations include:\n- 1962: Ariadna Demkowska-Bohdziewicz (Warszawa: Czytelnik)\n- 1994: J\u0119drzej Polak (Pozna\u0144: SAWW)\n- 2001: Ariadna Demkowska-Bohdziewicz edited version (Pozna\u0144: Rebis)\n- 2013: Jacek Dehnel (Krak\u00f3w: Znak)\n- 2021: Edited by Kazimierz Cap (Warszawa: \u015awiat Ksi\u0105\u017cki)\n- 2022: Arkadiusz Belczyk (Warszawa: SBM)\n- 2022: Adam Zabokrzycki (Wroc\u0142aw: Siedmiogr\u00f3d)\n\n### Key Academic Studies\n\n1. **Cultural Elements and Allusions Research**\n   A paper examining selected cultural elements and allusions within the context of five Polish translations of The Great Gatsby was published in Beyond Philology in 2023.\n\n2. **Translation Error Analysis**\n   Research inspired by Dehnel's translator's note on his rendering of The Great Gatsby and Kope\u0107-Umiastowska's vehement criticism of this translation, based on evidence of errors. This study by Lucyna Harmon compares fragments criticized are juxtaposed with the parallel sections in Polak's neglected translation of the same novel.\n\n3. **Semantic Dominant Study**\n   Bart\u0142omiej Warzycki (2021) completed a doctoral thesis titled \"Dominanta semantyczna w polskich przek\u0142adach powie\u015bci Francisa Scotta Fitzgeralda 'Wielki Gatsby'\" [Semantic dominant in the Polish renderings of Francis Scott Fitzgerald's novel \"The Great Gatsby\"] at the Pedagogical University in Krak\u00f3w.\n\n4. **Culture-Specific Elements Representation**\n   A comparative analysis of two Polish translations of Francis Scott Fitzgerald's The Great Gatsby with special regard to their treatment of culture-specific elements.\n\n### Research Focus Areas\n\nPolish scholars have particularly focused on:\n- How Polish translators dealt with the cultural elements and allusions pervasive in The Great Gatsby\n- Translation strategies and error criteria in literary translation assessment\n- Relations between culture, language, and translation, classifications of culture-specific elements and possible translation solutions\n\n### Theoretical Approaches\n\nThe research applies various theoretical frameworks including:\n- Polysystem theory, skopos theory and translation as a form of \"rewriting\" the original\n- Cognitive-communicative translation theory\n\nThe academic bibliography demonstrates a growing interest in Polish translations of \"The Great Gatsby,\" particularly with the recent surge of new translations following the novel's entry into the public domain."
+    ],
+    "durationSeconds": 41.05628823099937
+  }
+}

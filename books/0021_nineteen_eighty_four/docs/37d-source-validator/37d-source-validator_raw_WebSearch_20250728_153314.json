@@ -1,0 +1,109 @@
+{
+  "session_id": "b8c17c71-efc6-4c19-9b68-e101c36de9c9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b8c17c71-efc6-4c19-9b68-e101c36de9c9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "George Orwell wrote 1984 tuberculosis Jura island Scotland 1947-1948 death January 21 1950"
+  },
+  "tool_response": {
+    "query": "George Orwell wrote 1984 tuberculosis Jura island Scotland 1947-1948 death January 21 1950",
+    "results": [
+      "I'll search for information about George Orwell writing 1984 while dealing with tuberculosis on Jura island in Scotland during 1947-1948, and his death on January 21, 1950.",
+      {
+        "tool_use_id": "srvtoolu_01W7iC8SzhBt3vZru6rFwkPB",
+        "content": [
+          {
+            "title": "Down and almost out in Scotland: George Orwell, tuberculosis and getting streptomycin in 1948 - PMC",
+            "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1360500/"
+          },
+          {
+            "title": "George Orwell Wrote '1984' While Dying of Tuberculosis",
+            "url": "https://www.smithsonianmag.com/smart-news/george-orwell-wrote-1984-while-dying-tuberculosis-180962608/"
+          },
+          {
+            "title": "Down and almost out in Scotland: George Orwell, tuberculosis and getting streptomycin in 1948. - The James Lind Library The James Lind Library",
+            "url": "https://www.jameslindlibrary.org/articles/down-and-almost-out-in-scotland-george-orwell-tuberculosis-and-getting-streptomycin-in-1948/"
+          },
+          {
+            "title": "Nineteen Eighty-Four - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four"
+          },
+          {
+            "title": "Tuberculosis, Bronchiectasis, and Infertility: What Ailed George Orwell? | Clinical Infectious Diseases | Oxford Academic",
+            "url": "https://academic.oup.com/cid/article/41/11/1599/356821"
+          },
+          {
+            "title": "'1984': A History of George Orwell's Dystopian Masterpiece",
+            "url": "https://www.historynet.com/history-of-1984-george-orwell/"
+          },
+          {
+            "title": "George Orwell - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/George_Orwell"
+          },
+          {
+            "title": "Down and almost out in Scotland: George Orwell, tuberculosis and getting streptomycin in 1948 - PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16449785/"
+          },
+          {
+            "title": "Did George Orwell Pick Up TB During the Spanish Civil War?",
+            "url": "https://www.smithsonianmag.com/smart-news/george-orwell-may-have-picked-tb-during-spanish-civil-war-180969807/"
+          },
+          {
+            "title": "Tuberculosis, Infertility May Have Influenced George Orwell's Writing | ScienceDaily",
+            "url": "https://www.sciencedaily.com/releases/2005/10/051020090008.htm"
+          }
+        ]
+      },
+      "Let me search for more specific information about Orwell's death date.",
+      {
+        "tool_use_id": "srvtoolu_01NBdDnobDBVUXNwXaK916Yk",
+        "content": [
+          {
+            "title": "George Orwell - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/George_Orwell"
+          },
+          {
+            "title": "21 January 1950: George Orwell dies - Susannah Fullerton",
+            "url": "https://susannahfullerton.com.au/21-january-1950-george-orwell-dies/"
+          },
+          {
+            "title": "George Orwell | Biography, Books, Real Name, Political Views, & Facts | Britannica",
+            "url": "https://www.britannica.com/biography/George-Orwell"
+          },
+          {
+            "title": "Twenty-Five Facts About George Orwell: Day 24 25. He Died Alone Early in the morning of January 21, 1950, an artery in Orwell\u2019s... \u2013 @hellyeahgeorgeorwell on Tumblr",
+            "url": "https://www.tumblr.com/hellyeahgeorgeorwell/126339618583/twenty-five-facts-about-george-orwell-day-24-25"
+          },
+          {
+            "title": "George Orwell\u2019s Last Days | London Historians' Blog",
+            "url": "https://londonhistorians.wordpress.com/2020/01/21/george-orwells-last-days/"
+          },
+          {
+            "title": "'The Night Orwell Died' - marking the 70th anniversary of George Orwell's death | The Orwell Foundation",
+            "url": "https://www.orwellfoundation.com/the-orwell-foundation/news-events/news-events/news/night-orwell-died-marking-70th-anniversary-george-orwells-death/"
+          },
+          {
+            "title": "Down and almost out in Scotland: George Orwell, tuberculosis and getting streptomycin in 1948 - PMC",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1360500/"
+          },
+          {
+            "title": "On This Day: 21 January 1950 - Acclaimed author George Orwell dies - Art-Sheep",
+            "url": "https://art-sheep.com/on-this-day-21-january-1950-acclaimed-author-george-orwell-dies-2/"
+          },
+          {
+            "title": "The last man to know George Orwell as a man -- not as a legend - Mercator",
+            "url": "https://www.mercatornet.com/the-last-man-to-know-george-orwell-as-a-man-not-as-a-legend"
+          },
+          {
+            "title": "George Orwell - 1984, Books & Quotes",
+            "url": "https://www.biography.com/authors-writers/george-orwell"
+          }
+        ]
+      },
+      "Based on my search results, I can provide you with comprehensive information about George Orwell's writing of 1984 while battling tuberculosis on the Scottish island of Jura, and his death on January 21, 1950.\n\n## George Orwell Writing 1984 on Jura (1947-1948)\n\nIn May 1946 Orwell arrived on the Scottish island of Jura. He had wanted to retreat to a Hebridean island for several years; David Astor recommended he should stay at Barnhill, a remote farmhouse on the island that his family owned, with no electricity or hot water.(no content)Orwell had struggled with health throughout his life, but in the cold and damp of Scotland, under the stress of writing, he got worse and worse, finally being formally diagnosed with tuberculosis in 1947.(no content)While writing the first draft of 1984, Orwell's health declined precipitously. He developed fever and night sweats, and he lost 13 kg in weight.(no content)He lost almost two stone (28 pounds or 12.7 kg) in weight and had recurring night sweats, but he decided not to see a doctor and continued writing. On 7 November 1947 he completed the first draft in bed, and subsequently travelled to East Kilbride near Glasgow for medical treatment at Hairmyres Hospital, where a specialist confirmed a chronic and infectious case of tuberculosis.\n\n## Hospitalization and Treatment (Christmas Eve 1947)\n\nOn Christmas Eve 1947, Eric Blair (pen-name, George Orwell) was admitted to Hairmyres Hospital near Glasgow.(no content)He was 44 years old, and tests at the hospital confirmed that he had infectious chronic tuberculosis (TB) in his lungs.\n\nDuring his hospitalization, Orwell received various treatments including:\n- Collapse therapy and other painful surgical procedures to keep the lung disabled to 'rest' it, vitamins, fresh air, and being confined to bed.\n- In February 1948, Orwell wrote: \"We are now sending for some new American drug called streptomycin which they say will speed up the cure.\"\n- The request for permission to import the new medicine streptomycin to treat Orwell went as far as Aneurin Bevan, then Minister of Health. David Astor helped with supply and payment and Orwell began his course of streptomycin on 19 or 20 February 1948.\n\n## Completing 1984 (1948)\n\nOrwell was discharged in the summer of 1948, after which he returned to Jura and produced a full second draft of Nineteen Eighty-Four, which he finished in November.(no content)The previous volunteer had left the country and no other could be found at short notice, so an impatient Orwell retyped it himself at a rate of roughly 4,000 words a day during bouts of fever and bloody coughing fits.(no content)\"The circumstances surrounding the writing of 1984 make a haunting narrative that helps to explain the bleakness of Orwell's dystopia,\" writes Robert Crum.(no content)Orwell's ordeals with collapse therapy may have influenced the portrayal of the tortures of Winston Smith in the novel 1984.\n\n## Death on January 21, 1950\n\nEric Arthur Blair (25 June 1903 \u2013 21 January 1950) was an English novelist, poet, essayist, journalist, and critic who wrote under the pen name of George Orwell.(no content)At the age of 46, Orwell suffered a pulmonary artery rupture due to complications of tuberculosis, and died in the early morning of 21 January 1950.(no content)One of the greatest writers of the 20th Century passed away just after midnight in Room 65 of University College Hospital, London.(no content)Early in the morning of January 21, 1950, an artery in Orwell's lung burst, suffocating and killing him instantly.(no content)On Friday morning he had a long talk with a friend about his plans for the future. However, a few hours later he suffered a fatal haemorrhage in a London hospital.(no content)George Orwell died on January 21, 1950, of a massive lung hemorrhage, leaving behind a 30-year-old wife and a five-year-old son. His legacy lives on through his masterpiece 1984, which he completed despite his deteriorating health, and which has given us terms like \"Big Brother\" and \"Orwellian\" that remain relevant today."
+    ],
+    "durationSeconds": 55.783327062000055
+  }
+}

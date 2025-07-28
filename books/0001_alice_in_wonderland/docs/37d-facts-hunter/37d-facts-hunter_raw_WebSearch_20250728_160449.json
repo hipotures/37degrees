@@ -1,0 +1,62 @@
+{
+  "session_id": "ad0134af-ec8f-4d33-afa8-be303b4ad42f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ad0134af-ec8f-4d33-afa8-be303b4ad42f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Alicja w Krainie Czar\u00f3w\" polskie wydania recepcja czytelnicza PRL historia ksi\u0105\u017cki w Polsce"
+  },
+  "tool_response": {
+    "query": "\"Alicja w Krainie Czar\u00f3w\" polskie wydania recepcja czytelnicza PRL historia ksi\u0105\u017cki w Polsce",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01HL8HrcAd3kx3EGKf5XDr3h",
+        "content": [
+          {
+            "title": "150 lat temu ukaza\u0142y si\u0119 \"Przygody Alicji w Krainie Czar\u00f3w\" | dzieje.pl - Historia Polski",
+            "url": "https://dzieje.pl/dziedzictwo-kulturowe/150-lat-temu-ukazaly-sie-przygody-alicji-w-krainie-czarow"
+          },
+          {
+            "title": "CARROLL - ALICJA W KRAINIE CZAR\u00d3W ilustr. Mackiewicza. Pierwsze polskie wydanie!",
+            "url": "https://antyksobieski.pl/carroll-ala-w-krainie-czarow-2-wyd-ilustr-mackiewicza-14101.html"
+          },
+          {
+            "title": "\u201cAlicja w Krainie Czar\u00f3w\u201d w fantazji ilustrator\u00f3w \u2013 Wydawca",
+            "url": "https://wydawca.com.pl/2020/05/04/alicja-w-krainie-czarow-ilustracje/"
+          },
+          {
+            "title": "\u201eAlicja w Krainie Czar\u00f3w\u201d ma ju\u017c 150 lat | Mi\u0119dzy Kotem a Znikotem - Polityka.pl",
+            "url": "https://www.polityka.pl/tygodnikpolityka/kultura/1624087,1,alicja-w-krainie-czarow-ma-juz-150-lat.read"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w \u2013 encyklopediafantastyki.pl",
+            "url": "https://encyklopediafantastyki.pl/index.php?title=Alicja_w_Krainie_Czar%C3%B3w"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w - Lewis Carroll | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/4988571/alicja-w-krainie-czarow"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w | (Ksi\u0105\u017cka) - Ksi\u0119garnia matras.pl",
+            "url": "https://www.matras.pl/p/alicja-w-krainie-czarow-241070"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w",
+            "url": "https://www.empik.com/alicja-w-krainie-czarow-carroll-lewis,p1558359707,ksiazka-p"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w - Lewis Carroll | ksi\u0105\u017cka w tezeusz.pl ksi\u0105\u017cki promocje, u\u017cywane ksi\u0105\u017cki, nowo\u015bci wydawnicze",
+            "url": "https://tezeusz.pl/alicja-w-krainie-czarow-lewis-carroll"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w. Wydanie ilustrowane - Ceny i opinie",
+            "url": "https://www.ceneo.pl/170359198"
+          }
+        ]
+      },
+      "The search results provide valuable information about Polish editions and reception of \"Alice in Wonderland\" in Poland, including during the PRL period. Here's what I found:\n\n## Polish Editions and Translation History\n\nThe first Polish translation appeared in 1910 by Adela S. (whose surname is unknown) published by M. Arct in Warsaw. Its title was rather unusual for us - \"Adventures of Alinka in the Land of Wonders,\" where \"wonders\" was used instead of \"magic\" on the title page, with additional information indicating it was based on the 90th English edition.\n\nThis first Polish translation from 1910 by Adela S. titled \"Adventures of Alinka in the Land of Wonders\" was lost for years but was recently rediscovered in the Raczy\u0144ski Library.\n\nThe next translation, actually a free adaptation, was created in 1927 by Maria Morawska, who definitively changed the \"Land of Wonders\" to \"Land of Magic\". This 1927 edition is particularly rare, with illustrations by Kamil Mackiewicz, published by Gebethner and Wolff in Warsaw.\n\nIn total, 11 Polish translations have been published to date. Poland has had good fortune with \"Alice\" - nine translations were created (counting free adaptations - as many as 11), which is quite a lot, especially for a children's book.\n\n## Reception During the PRL Period\n\nThe reception of \"Alice in Wonderland\" during the PRL (Polish People's Republic) period presents an interesting paradox. One theory suggests that nonsense literature didn't take root in the PRL because reality was already so nonsensical that there was nothing to bounce off from - the sense of absurdity all around made people less inclined toward absurd jokes.\n\nHowever, on the other hand, there were enclaves of absurd humor in the PRL - the Kabaret Starszych Pan\u00f3w (Senior Gentlemen's Cabaret) and indeed the popularity of Polish translations of \"Alice\".\n\n## Literary Significance and Book History\n\n\"Alice in Wonderland\" is considered one of the most difficult texts to translate, while simultaneously being one of the most frequently translated books. Maciej S\u0142omczy\u0144ski wrote that \"this is probably the only case in the history of literature\" because we have both a book for children and another for very sophisticated adults, hence the varied history of \"Alice\" translations - some are for children, others loaded with footnotes explaining every philosophical, linguistic, or logical reference.\n\nThe humor was wonderfully rendered by Antoni Marianowicz, whose translation of \"Alice in Wonderland\" made its phrases permanently inhabit our language. However, there are also critical voices: Robert Stiller's excellent translation of Carroll's work exists, published as a mirror edition with comprehensive introduction and detailed footnotes, and Stiller criticized Marianowicz's translation, noting that \"entire passages of his text have nothing to do with Carroll's work and are only his own paraphrases based on the plot framework. The work has been trivialized, dumbed down, stripped of the very form, style and thought that make it a masterpiece. Presenting it as Carroll's work is almost profanation\".\n\nThe book's enduring appeal in Poland demonstrates its significant place in Polish literary culture, despite the translation challenges and the complex political context of its reception during the communist era."
+    ],
+    "durationSeconds": 39.73542679399997
+  }
+}

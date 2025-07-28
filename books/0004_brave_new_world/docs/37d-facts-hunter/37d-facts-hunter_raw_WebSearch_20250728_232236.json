@@ -1,0 +1,62 @@
+{
+  "session_id": "9588e4fa-c119-4986-be3b-1d3af7769f8f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/9588e4fa-c119-4986-be3b-1d3af7769f8f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Aldous Huxley\" personal background experiences influenced \"Brave New World\" 1932 writing motivation"
+  },
+  "tool_response": {
+    "query": "\"Aldous Huxley\" personal background experiences influenced \"Brave New World\" 1932 writing motivation",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_019rAXLRqquxv3c7eiWPBuss",
+        "content": [
+          {
+            "title": "Brave New World: Aldous Huxley and Brave New World Background | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/bravenew/context/"
+          },
+          {
+            "title": "Aldous Huxley, Brave New World Author | Life, Beliefs & Writings | Study.com",
+            "url": "https://study.com/academy/lesson/who-is-the-author-of-brave-new-world.html"
+          },
+          {
+            "title": "Aldous Huxley | Biography, Books, & Facts | Britannica",
+            "url": "https://www.britannica.com/biography/Aldous-Huxley"
+          },
+          {
+            "title": "What was Aldous Huxley\u2019s motivation for writing Brave New World? Some have said it wasn\u2019t a warning, but a blueprint. - Quora",
+            "url": "https://www.quora.com/What-was-Aldous-Huxley-s-motivation-for-writing-Brave-New-World-Some-have-said-it-wasn-t-a-warning-but-a-blueprint"
+          },
+          {
+            "title": "Brave New World Aldous Huxley 1932",
+            "url": "https://www.encyclopedia.com/arts/educational-magazines/brave-new-world"
+          },
+          {
+            "title": "Brave New World | Summary, Context, & Reception | Britannica",
+            "url": "https://www.britannica.com/topic/Brave-New-World"
+          },
+          {
+            "title": "Brave New World by Aldous Huxley : Monarch Notes",
+            "url": "https://www.huxley.net/studyaid/index.html"
+          },
+          {
+            "title": "The Life of Aldous Huxley, Author of \u201cBrave New World\u201d | TheCollector",
+            "url": "https://www.thecollector.com/aldous-huxley-life/"
+          },
+          {
+            "title": "Brave New World - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World"
+          },
+          {
+            "title": "Influences On Aldous Huxley's Brave New World - 1415 Words | Bartleby",
+            "url": "https://www.bartleby.com/essay/Influences-On-Aldous-Huxleys-Brave-New-World-FJ9CJWZPYDV"
+          }
+        ]
+      },
+      "Based on the search results, here's what I found about Aldous Huxley's personal background and experiences that influenced his writing of \"Brave New World\" in 1932:\n\n## Personal and Family Background\n\nAldous Huxley was born in Surrey, England, on July 26, 1894, to an illustrious family deeply rooted in England's literary and scientific tradition. Huxley's father, Leonard Huxley, was the son of Thomas Henry Huxley, a well-known biologist who gained the nickname \"Darwin's bulldog\" for championing Charles Darwin's evolutionary ideas. His mother, Julia Arnold, was related to the important nineteenth-century poet and essayist Matthew Arnold.(no content)Huxley's life was surrounded by science, something that likely helped him to produce the science-heavy Brave New World. His grandfather (Thomas Henry Huxley) was a prominent biologist and an early advocate of Darwin's theory of evolution, and his brothers also became scientists.\n\n## Physical Challenges and Their Impact\n\nAnother major influence on Huxley's life and writing was an eye disease contracted in his teenage years that left him almost blind. As a teenager Huxley had dreamed about becoming a doctor, but the degeneration of his eyesight prevented him from pursuing his chosen career.(no content)Aldous too had hoped to pursue a career in the sciences, but a disease left him partially blind as an adolescent and thus unable to continue on his scientific path.(no content)Blindness and vision are motifs that permeate much of Huxley's writing.\n\n## Writing Motivation and Context\n\nThe changing world around him helped influence Brave New World and his many works afterward. Aldous Huxley wrote Brave New World as a way of showing his viewpoints on the way technology was relied on too much regarding the world's problems, such as disease and war.(no content)Much of the anxiety that drives Brave New World can be traced to a widespread belief in technology as a futuristic remedy for problems caused by disease and war. Unlike his fellow citizens, Huxley felt that such a reliance was naive, and he decided to challenge these ideas by imagining them taken to their extremes.\n\n## Philosophical Evolution\n\nDuring these years, Huxley left his early satires behind and became more interested in writing about subjects with deeper philosophical and ethical significance. Much of his work deals with the conflict between the interests of the individual and society, often focusing on the problem of self-realization within the context of social responsibility.\n\n## Historical Context and Timing\n\nIn late 1931, Huxley wrote Brave New World within four months. Written in 1931 and published the following year, Aldous Huxley's Brave New World is a dystopian\u2014or antiutopian\u2014novel.(no content)In it, the author questions the values of 1931 London, using satire and irony to portray a futuristic world in which many of the contemporary trends in British and American society have been taken to extremes.\n\nThe novel represented marked a turning point in Huxley's career: like his earlier work, it is a fundamentally satiric novel, but it also vividly expresses Huxley's distrust of 20th-century trends in both politics and technology."
+    ],
+    "durationSeconds": 32.54512502800004
+  }
+}

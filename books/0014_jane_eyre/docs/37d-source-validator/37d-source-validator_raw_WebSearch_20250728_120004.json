@@ -1,0 +1,63 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Charlotte Bront\u00eb Cowan Bridge School 1824 1825 Maria Elizabeth died tuberculosis Rev William Carus-Wilson"
+  },
+  "tool_response": {
+    "query": "Charlotte Bront\u00eb Cowan Bridge School 1824 1825 Maria Elizabeth died tuberculosis Rev William Carus-Wilson",
+    "results": [
+      "I'll search for information about Charlotte Bront\u00eb's time at Cowan Bridge School and the tragic deaths of her sisters there.",
+      {
+        "tool_use_id": "srvtoolu_0163xQWvfRtxyickRngiRyH1",
+        "content": [
+          {
+            "title": "In Memoriam: Maria Bront\u00eb and Elizabeth Bront\u00eb \u2013 Anne Bront\u00eb",
+            "url": "http://www.annebronte.org/2018/05/06/in-memoriam-maria-bronte-and-elizabeth-bronte/"
+          },
+          {
+            "title": "Bront\u00eb family - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Bront%C3%AB_family"
+          },
+          {
+            "title": "Charlotte Bront\u00eb - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Charlotte_Bront%C3%AB"
+          },
+          {
+            "title": "The Bront\u00eb Sisters and Bront\u00eb School House",
+            "url": "https://www.bronteschoolhouse.com/history"
+          },
+          {
+            "title": "Cowan Bridge School - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Cowan_Bridge_School"
+          },
+          {
+            "title": "Charlotte Bronte | Biography, Books, Novels, Jane Eyre, & Facts | Britannica",
+            "url": "https://www.britannica.com/biography/Charlotte-Bronte"
+          },
+          {
+            "title": "Elizabeth Bront\u00eb - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Elizabeth_Bront%C3%AB"
+          },
+          {
+            "title": "Amazon.com: The Bront\u00eb Sisters: The Brief Lives of Charlotte, Emily, and Anne: 9780547579665: Reef, Catherine: Books",
+            "url": "https://www.amazon.com/Bront%C3%AB-Sisters-Brief-Lives-Charlotte/dp/0547579667"
+          },
+          {
+            "title": "The Aftermath Of The Life Of Charlotte Bront\u00eb \u2013 Anne Bront\u00eb",
+            "url": "http://www.annebronte.org/2020/11/15/the-aftermath-of-the-life-of-charlotte-bronte/"
+          },
+          {
+            "title": "The Life of Charlotte Bront\u00eb - Wikipedia",
+            "url": "https://en.m.wikipedia.org/wiki/The_Life_of_Charlotte_Bront%C3%AB"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about Charlotte Bront\u00eb's time at Cowan Bridge School and the tragic deaths of her sisters Maria and Elizabeth:\n\n## The Bront\u00eb Sisters at Cowan Bridge School (1824-1825)\n\nMaria and Elizabeth Bront\u00eb were sent to the Clergy Daughter's School in Cowan Bridge in Westmorland in July 1824, Charlotte following on 10th August 1824 (30th pupil) and Emily on 26th November 1824 (44th pupil).\n\n### The School and Its Founder\n\nCowan Bridge School was a Clergy Daughters' School, founded and purchased in 1824 by William Carus Wilson. Rev. William Carus Wilson was a wealthy evangelical clergyman and landowner who was a firm believer in the value of education. He was well aware that the income of the poorer clergy was insufficient to allow them to properly educate their daughters.\n\nCarus Wilson, who became Jane Eyre's Mr Brocklehurst \u00b7 He was, by any standards, a hell-fire preacher of extreme views and extreme ferocity. The Revd. Carus Wilson, unlike Patrick Bront\u00eb, was a Calvinist Evangelist who believed in predestination, and consequently in the damnation of the majority of souls.\n\n### Harsh Conditions at the School\n\nThe conditions at Cowan Bridge were notoriously poor:\n\n- There was a distinct lack of sanitation in the school: the food provided by the school was often poorly cooked and unhealthy, and the cook was reported as being \"careless, dirty, and wasteful\"\n- In all weather, without adequate protective clothing, the pupils had to walk more than three miles (five km) over the fields to St John the Baptist's Church, Tunstall, to attend the Sunday service. As the distance did not permit a return to the school, they were given a cold snack at the back of the church before evensong, then finally walked back to school. On arriving, cold and famished after the long walk, they were given a single slice of bread spread with rancid butter\n\n### The Deaths of Maria and Elizabeth\n\nIn February 1825, Maria was diagnosed with tuberculosis and was transported back home. In reality, Charlotte could not be by Maria's side as she breathed her last breath on May the sixth 1825, as she, Elizabeth and Emily were still at the school.\n\nPossibly encouraged by bad conditions, in the early spring of that same year there was an outbreak of typhus in the school. There is a possibility that this may have covered up symptoms of tuberculosis in Elizabeth. Elizabeth was sent home ill on 31 May, by which time Maria had already died.\n\nIt was Patrick who had to close her glazed eyes, just as a month later he had to do for his second daughter Elizabeth who was sent home to Haworth on 31st May 1825 in 'ill health', along with a bill for her stay at the school. Elizabeth died of her illness on 15 June in 1825, with her school record stating she died of consumption.\n\n### Charlotte's Response and Literary Legacy\n\nSeeing Elizabeth's wasted condition, her frightened father removed Charlotte and Emily from the Clergy Daughters' School immediately, possibly saving their lives.\n\nThe experience left a lasting impact on Charlotte. Charlotte was adamant in later years that Cowan Bridge had in fact been much worse than the Lowood of her novel, insisting that: 'Had I told all the truth, I might indeed have made it far more exquisitely painful.'(no content)In Jane Eyre, Cowan Bridge became Lowood, Maria inspired the young Helen Burns, the cruel mistress Miss Andrews inspired the headmistress Miss Scatcherd, and the tyrannical headmaster Rev. Carus Wilson, Mr Brocklehurst.\n\n### The Wilson Family's Response\n\nGaskell had to deal with rather sensitive issues, toning down some of her material: in the case of her description of the Clergy Daughters' School, attended by Charlotte and her sisters, this was to avoid legal action from the Rev. William Carus Wilson, the founder of the school. Wilson sued Elizabeth Gaskell after the publication of her biography of Charlotte Bront\u00eb, and had many references to him removed.\n\nThe tragic loss of Maria and Elizabeth Bront\u00eb at such young ages from tuberculosis, exacerbated by the harsh conditions at Cowan Bridge School under Rev. William Carus Wilson's management, profoundly affected the surviving Bront\u00eb siblings and became immortalized in Charlotte's literary work, particularly in Jane Eyre."
+    ],
+    "durationSeconds": 51.550959847999735
+  }
+}

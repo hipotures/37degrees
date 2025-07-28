@@ -1,0 +1,63 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Folwark zwierz\u0119cy\" m\u0142odzie\u017c Polska TikTok BookTok memy \"pokolenie Z\" interpretacja"
+  },
+  "tool_response": {
+    "query": "\"Folwark zwierz\u0119cy\" m\u0142odzie\u017c Polska TikTok BookTok memy \"pokolenie Z\" interpretacja",
+    "results": [
+      "I'll search for information about how Polish youth on TikTok and BookTok are interpreting and creating memes about \"Folwark zwierz\u0119cy\" (Animal Farm).",
+      {
+        "tool_use_id": "srvtoolu_01E4FqquHCo6gW7fuUqUCbNc",
+        "content": [
+          {
+            "title": "TikTok i ksi\u0105\u017cki, czyli co to jest booktok? - CZYTAM - Empik Pasje",
+            "url": "https://www.empik.com/pasje/tiktok-i-ksiazki-czyli-co-to-jest-booktok,135027,a"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy (G. Orwell) - Opracowania, lektury, fiszki, testy - Opracowania.pl",
+            "url": "https://opracowania.pl/opracowania/jezyk-polski/folwark-zwierzecy-g-orwell,oid,519,problematyka"
+          },
+          {
+            "title": "Aktywi\u015bci Ostatnie Pokolenie Memy",
+            "url": "https://www.tiktok.com/discover/aktywi%C5%9Bci-ostatnie-pokolenie-memy"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy a idea Mi\u0119dzymorza |",
+            "url": "http://przekladanieckulturalny.pl/?p=4784"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy \u2013 bohaterowie \u2013 George Orwell \u2013 poezja.org",
+            "url": "https://poezja.org/wz/interpretacja/8049/Folwark_zwierzecy_bohaterowie"
+          },
+          {
+            "title": "Interpretacja parabolicznej powie\u015bci \u201eFolwark zwierz\u0119cy\u201d - \u015aci\u0105gi, wypracowania, lektury - Bryk.pl",
+            "url": "https://www.bryk.pl/wypracowania/jezyk-polski/xx-lecie/25631-interpretacja-parabolicznej-powiesci-folwark-zwierzecy.html"
+          },
+          {
+            "title": "Pokolenie BookToka \u2013 Rynek ksi\u0105\u017cki",
+            "url": "https://rynek-ksiazki.pl/czasopisma/pokolenie-booktoka/"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy - Ministerstwo \u015bmiesznych obrazk\u00f3w - KWEJK.pl",
+            "url": "https://kwejk.pl/obrazek/2471451/folwark-zwierzecy.html"
+          },
+          {
+            "title": "Te ksi\u0105\u017cki zrobi\u0142y furor\u0119 na Tik Toku! Warte rozg\u0142osu? | Aktualno\u015bci | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/ksiazkowe-hity-tiktoka-masz-je-w-swojej-biblioteczce"
+          },
+          {
+            "title": "TOP 5 ksi\u0105\u017ckar, kt\u00f3re podbijaj\u0105 polski BookTok - Going. MORE - muzyka, kultura, lifestyle",
+            "url": "https://goingapp.pl/more/booktok-ksiazkary-tiktok/"
+          }
+        ]
+      },
+      "Based on the search results, I found limited information specifically about Polish youth on TikTok and BookTok creating memes or reinterpreting \"Folwark zwierz\u0119cy\" (Animal Farm). However, I can provide some context about BookTok in Poland and the book itself:\n\n## BookTok w Polsce i m\u0142odzie\u017c\n\nBooktok jest trendsetterem w \u015bwiecie literatury, ale te\u017c promuje czytelnictwo, cz\u0119sto w\u015br\u00f3d nastolatk\u00f3w czy m\u0142odzie\u017cy, kt\u00f3rzy bardzo ch\u0119tnie si\u0119gaj\u0105 po literatur\u0119 Young Adult.(no content)W ankiecie przeprowadzonej w\u015br\u00f3d ponad 2000 os\u00f3b w wieku od 16 do 25 lat prawie 59 proc. respondent\u00f3w stwierdzi\u0142o, \u017ce BookTok pom\u00f3g\u0142 im odkry\u0107 pasj\u0119 do czytania.\n\nPolski BookTok jest aktywn\u0105 spo\u0142eczno\u015bci\u0105, gdzie BookTok, czyli cz\u0119\u015b\u0107 TikTok-a, na kt\u00f3rej zobaczymy filmiki zwi\u0105zane z literatur\u0105, to \u017ar\u00f3d\u0142o rozmaitych czytelnicznych inspiracji i polecajek.(no content)Najpopularniejsze gatunki to oczywi\u015bcie Young Adult i New Adult \u2013 to w\u0142a\u015bnie o nich tocz\u0105 si\u0119 gor\u0105ce dyskusje w komentarzach. Porozmawiacie tam jednak nie tylko o fabule, ale te\u017c innych zwi\u0105zanych z ksi\u0105\u017ckami tematach.\n\n## \"Folwark zwierz\u0119cy\" - interpretacja\n\nFolwark zwierz\u0119cy jest powie\u015bci\u0105 parabol\u0105, inaczej przypowie\u015bci\u0105, tzn. obok warstwy dos\u0142ownej ma r\u00f3wnie\u017c warst...(no content)George Orwell jest znany mi\u0119dzy innymi jako autor powie\u015bci zatytu\u0142owanej \u201eFolwark zwierz\u0119cy\", wydanej po raz pierwszy w roku 1945.(no content)George Orwell, autor 'Folwarku zwierz\u0119cego\", by\u0142 mistrzem kamufla\u017cu. W swojej pozornie \u017cartobliwej ksi\u0105\u017cce o zwierz\u0119tach, kt\u00f3re rozpoczynaj\u0105 \u017cycie ...\n\nNiestety, w wynikach wyszukiwania nie znalaz\u0142em konkretnych przyk\u0142ad\u00f3w mem\u00f3w czy interpretacji \"Folwarku zwierz\u0119cego\" przez polsk\u0105 m\u0142odzie\u017c na TikToku. Znalaz\u0142em jedynie odniesienie do strony KWEJK.pl z memem o tej ksi\u0105\u017cce z 2015 roku, ale to by\u0142o sprzed ery TikToka.\n\nWydaje si\u0119, \u017ce cho\u0107 BookTok jest popularny w\u015br\u00f3d polskiej m\u0142odzie\u017cy (pokolenia Z), to brak jest dost\u0119pnych informacji o specyficznym trendzie zwi\u0105zanym z reinterpretacj\u0105 \"Folwarku zwierz\u0119cego\" w formie mem\u00f3w czy filmik\u00f3w na TikToku."
+    ],
+    "durationSeconds": 29.939663102000022
+  }
+}

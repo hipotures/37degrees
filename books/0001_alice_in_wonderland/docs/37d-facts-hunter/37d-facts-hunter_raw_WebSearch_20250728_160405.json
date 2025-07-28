@@ -1,0 +1,63 @@
+{
+  "session_id": "ad0134af-ec8f-4d33-afa8-be303b4ad42f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ad0134af-ec8f-4d33-afa8-be303b4ad42f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Alicja w Krainie Czar\u00f3w\" pierwszy polski t\u0142umacz Maciej S\u0142omczy\u0144ski historia t\u0142umaczenia"
+  },
+  "tool_response": {
+    "query": "\"Alicja w Krainie Czar\u00f3w\" pierwszy polski t\u0142umacz Maciej S\u0142omczy\u0144ski historia t\u0142umaczenia",
+    "results": [
+      "I'll perform a web search for information about the first Polish translator of \"Alice in Wonderland\" (Alicja w Krainie Czar\u00f3w), Maciej S\u0142omczy\u0144ski, and the history of its translation.",
+      {
+        "tool_use_id": "srvtoolu_017K8whj21FJiKPWDxYbhWpA",
+        "content": [
+          {
+            "title": "Alicja w Krainie Czar\u00f3w \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Alicja_w_Krainie_Czar%C3%B3w"
+          },
+          {
+            "title": "150 lat temu ukaza\u0142y si\u0119 \"Przygody Alicji w Krainie Czar\u00f3w\" | dzieje.pl - Historia Polski",
+            "url": "https://dzieje.pl/dziedzictwo-kulturowe/150-lat-temu-ukazaly-sie-przygody-alicji-w-krainie-czarow"
+          },
+          {
+            "title": "\u201eAlicja w Krainie Czar\u00f3w\u201d \u2013 lista polskich t\u0142umacze\u0144 | Through The Looking Glass....",
+            "url": "https://krainaczarow.wordpress.com/2010/07/25/alicja-w-krainie-czarow-lista-polskich-tlumaczen/"
+          },
+          {
+            "title": "\"Alicja w Krainie Czar\u00f3w\" ma 150 lat! - RMF 24",
+            "url": "https://www.rmf24.pl/fakty/swiat/news-alicja-w-krainie-czarow-ma-150-lat,nId,1846691"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w w t\u0142umaczeniu S\u0142omczy\u0144skiego | Bajkoch\u0142onka",
+            "url": "https://bajkochlonka.pl/tag/alicja-w-krainie-czarow-w-tlumaczeniu-slomczynskiego/"
+          },
+          {
+            "title": "Perypetie z przek\u0142adem Alicji | Publicystyka | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/publicystyka/6503/perypetie-z-przekladem-alicji"
+          },
+          {
+            "title": "Przygody Alicji w Krainie Czar\u00f3w. Alicja w Krainie Czar\u00f3w. Tom 1 Lewis Carroll ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/przygody-alicji-w-krainie-czarow-alicja-w-krainie-czarow-tom-1-lewis-carroll-p-1235311.html"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w | wydawnictwowam.pl",
+            "url": "https://wydawnictwowam.pl/prod.alicja-w-krainie-czarow.31167.htm"
+          },
+          {
+            "title": "Alicja w krainie czar\u00f3w. Po drugiej stronie lustra",
+            "url": "https://bonito.pl/produkt/alicja-w-krainie-czarow-po-drugiej-stronie-lustra"
+          },
+          {
+            "title": "Alicja w krainie przek\u0142ad\u00f3w - ExLibro profesjonalne t\u0142umaczenia",
+            "url": "https://www.exlibro.pl/aktualnosci/alicja-w-krainie-przek-ad-w"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about the first Polish translator of \"Alice in Wonderland\" (Alicja w Krainie Czar\u00f3w), Maciej S\u0142omczy\u0144ski, and the history of its Polish translations.\n\n## Historia polskich t\u0142umacze\u0144 \"Alicji w Krainie Czar\u00f3w\"\n\nPierwsze polskie t\u0142umaczenie ksi\u0105\u017cki ukaza\u0142o si\u0119 w 1910 roku autorstwa Adeli S., opublikowane przez Wydawnictwo M. Arcta w Warszawie. Na stronie tytu\u0142owej widnia\u0142 tytu\u0142 \"Przygody Alinki w Krainie Cud\u00f3w\", podczas gdy na ok\u0142adce by\u0142y to \"Przygody Alinki w Krainie Czar\u00f3w\". Nie jest znane pe\u0142ne nazwisko t\u0142umaczki.\n\nPierwszy przek\u0142ad autorstwa Marii Morawskiej ukaza\u0142 si\u0119 w 1927 roku, w 1955 roku przek\u0142adu dokona\u0142 Antoni Marianowicz, jednak najwi\u0119ksz\u0105 popularno\u015bci\u0105 ciesz\u0105 si\u0119 t\u0142umaczenia autorstwa Macieja S\u0142omczy\u0144skiego (1965) i Roberta Stillera (1986).\n\n## Maciej S\u0142omczy\u0144ski jako t\u0142umacz\n\nMaciej S\u0142omczy\u0144ski wykona\u0142 w 1965 roku pierwszy zgodny z orygina\u0142em przek\u0142ad, skierowany do starszego czytelnika. Trudnego zadania prze\u0142o\u017cenia dzie\u0142a na j\u0119zyk polski podj\u0105\u0142 si\u0119 Maciej S\u0142omczy\u0144ski, kt\u00f3ry musia\u0142 zmierzy\u0107 si\u0119 z licznymi alegoriami oraz lingwistycznymi zagadkami. By\u0142o to wyzwaniem nawet dla kogo\u015b, kto wcze\u015bniej pracowa\u0142 nad utworami Szekspira, Miltona czy Joyce'a.\n\n## Znaczenie t\u0142umaczenia S\u0142omczy\u0144skiego\n\nT\u0142umacz Maciej S\u0142omczy\u0144ski pisze w przedmowie do Alicji, \u017ce \"jest to zapewne jedyny wypadek w dziejach pi\u015bmiennictwa, gdzie jeden tekst zawiera dwie zupe\u0142nie r\u00f3\u017cne ksi\u0105\u017cki: jedn\u0105 dla dzieci i drug\u0105 dla bardzo doros\u0142ych\".\n\nW swojej przedmowie do w\u0142asnego t\u0142umaczenia powie\u015bci, Maciej S\u0142omczy\u0144ski odni\u00f3s\u0142 si\u0119 do w\u0105tku odwzorowania aktywno\u015bci umys\u0142u podczas snu.\n\n## Trudno\u015bci przek\u0142adowe\n\nAlicja w Krainie Czar\u00f3w uchodzi za jeden z najtrudniejszych w przek\u0142adzie tekst\u00f3w, a jednocze\u015bnie nale\u017cy do ksi\u0105\u017cek najcz\u0119\u015bciej t\u0142umaczonych. Na j\u0119zyk polski przek\u0142adano j\u0105 10 razy.\n\nW Alicji najwa\u017cniejsze s\u0105 j\u0119zyk i forma, przez co staje si\u0119 ona jednym z najambitniejszych wyzwa\u0144 dla ka\u017cdego t\u0142umacza literatury. Oryginalny tekst angielski pe\u0142en jest wyrafinowanych gier j\u0119zykowych i zabaw s\u0142ownych, pojawiaj\u0105 si\u0119 w nim satyryczne aluzje do przyjaci\u00f3\u0142 i wrog\u00f3w autora, parodie szkolnych wierszyk\u00f3w wiktoria\u0144skich.\n\nT\u0142umaczenie S\u0142omczy\u0144skiego zosta\u0142o szczeg\u00f3lnie docenione za wierno\u015b\u0107 orygina\u0142owi i jest jednym z najcenniejszych polskich przek\u0142ad\u00f3w tego klasycznego dzie\u0142a Lewisa Carrolla."
+    ],
+    "durationSeconds": 26.26375485499995
+  }
+}

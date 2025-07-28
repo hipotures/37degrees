@@ -1,0 +1,63 @@
+{
+  "session_id": "ac25dab5-19ee-43b4-8689-cf24d65d211d",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ac25dab5-19ee-43b4-8689-cf24d65d211d.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "site:edu \"Alice in Wonderland\" symbolism scholarly analysis academic interpretation"
+  },
+  "tool_response": {
+    "query": "site:edu \"Alice in Wonderland\" symbolism scholarly analysis academic interpretation",
+    "results": [
+      "I'll search for scholarly academic analyses of symbolism in \"Alice in Wonderland\" from educational institutions.",
+      {
+        "tool_use_id": "srvtoolu_01MKagVEnynsYZ4RniwmAT6H",
+        "content": [
+          {
+            "title": "Home - Alice's Adventures In Wonderland: History, Story Timeline, Chapter Summaries, Classroom Lesson Plans and Activities - Library Guides at DiPietro Library, Franklin Pierce University",
+            "url": "https://libguides.franklinpierce.edu/alicesadventuresinwonderland"
+          },
+          {
+            "title": "Alice in Wonderland: a summary of selected criticism and an explication.",
+            "url": "https://esirc.emporia.edu/handle/123456789/2693"
+          },
+          {
+            "title": "Hopping into Symbolism: Decoding the White Rabbit in Alice in Wonderland - My Blog",
+            "url": "https://manasgodha.web.illinois.edu/2023/04/18/hopping-into-symbolism-decoding-the-white-rabbit-in-alice-in-wonderland/"
+          },
+          {
+            "title": "Curiouser and Curiouser: The Evolution of Alice Criticism",
+            "url": "https://www.carleton.edu/departments/engl/alice/criticism.html"
+          },
+          {
+            "title": "(DOC) Psychoanalysis of Alice in Wonderland",
+            "url": "https://www.academia.edu/110664906/Psychoanalysis_of_Alice_in_Wonderland"
+          },
+          {
+            "title": "(PDF) Disney\u2019s Alice in Wonderland (1951) Film Analysis: A Narrative of Cultural and Psychological Encounter",
+            "url": "https://www.academia.edu/14062557/Disney_s_Alice_in_Wonderland_1951_Film_Analysis_A_Narrative_of_Cultural_and_Psychological_Encounter"
+          },
+          {
+            "title": "Analysis Of Alice In Wonderland | former-students.imperial.edu",
+            "url": "https://former-students.imperial.edu/020-guitar/article?dataid=Rxw66-3872&title=analysis-of-alice-in-wonderland.pdf"
+          },
+          {
+            "title": "(PDF) A Brief Analysis of Lewis Carroll's Alice's Adventures in Wonderland | Raha Hajrasouliha - Academia.edu",
+            "url": "https://www.academia.edu/45604855/A_Brief_Analysis_of_Lewis_Carrolls_Alices_Adventures_in_Wonderland"
+          },
+          {
+            "title": "(PDF) Stylistic study of Alice in Wonderland | Doris Younes Achkar - Academia.edu",
+            "url": "https://www.academia.edu/33043707/Stylistic_study_of_Alice_in_Wonderland"
+          },
+          {
+            "title": "Psychedelic Interpretations",
+            "url": "https://www.carleton.edu/departments/engl/alice/CritPsyched1.html"
+          }
+        ]
+      },
+      "Based on the search results, I found several scholarly analyses of symbolism in \"Alice in Wonderland\" from educational institutions. Here's a comprehensive overview of the academic interpretations:\n\n## Major Symbolic Themes in Academic Analysis\n\n### 1. Mathematical and Victorian Satire\nDodgson, a stubbornly conservative mathematician, used some of the missing scenes to satirize these radical new ideas in mathematics. The 19th century was a turbulent time for mathematics, with many new and controversial concepts, like imaginary numbers, becoming widely accepted in the mathematical community. The Franklin Pierce University analysis reveals that Most of the other characters in Wonderland are satirical caricatures of some of the most significant figures of Victorian society.\n\n### 2. Time and Anxiety Symbolism\nThe University of Illinois analysis focuses on the White Rabbit as a key symbolic figure. The White Rabbit's obsession with time is a prominent symbol in the story. As he constantly checks his pocket watch and exclaims, \"I'm late, I'm late, for a very important date!\", he embodies the concept of time slipping away and the pressure of keeping up with societal expectations. The White Rabbit's anxiety-ridden behavior reflects Carroll's commentary on the fast-paced, time-centric nature of the modern world and the pressure to conform to rigid schedules and deadlines.\n\n### 3. Identity and Growing Up\nMultiple academic sources identify identity crisis as a central theme. It is an explication of the book which deals with Alice as a child's dream-vision of a relative world. The analysis from Emporia State University notes that These critics range from arguing that Alice is a topical political and religious allegory to interpreting the book as a metaphorical version of growing up. These more general interpretations are especially helpful in showing that Alice is a child faced with a complex world.\n\n### 4. Psychoanalytic Symbolism\nAcademia.edu sources reveal deep psychoanalytic interpretations. In Lewis Carroll's Alice in Wonderland, the adventures of a young girl Alice lies symbolism ripe for psychoanalytic exploration.This essay provides the reader with short dream interpretation using psychoanalytic approach. By closely examining the young girls dream, the dream provides insight through her unconscious and the imaginative characters,providing with layers of meanings and dream symbolism and many psychoanalytic concepts such as transference, object relation theory, fantasy bonds, Freud's model of mind or Jungian archetypes could be discovered through dream interpretation.\n\n### 5. Critical Evolution Over Time\nCarleton College's comprehensive overview shows how interpretations have evolved: And if we want to understand how Wonderland has evolved over time, a good place to look is in the critical interpretations of the novel. For scholarly interpretation actually has good deal of influence over the popular conception of Alice. For instance, when scholars began investigating Carroll's perhaps inappropriate relationships with his \"child friends,\" Wonderland became a much darker place in the popular imagination, echoed in the recent adaptations like Camille Rose Garcia's Alice edition and Tim Burton's film Alice in Wonderland.\n\n### 6. Multiple Critical Approaches\nThe Carleton analysis identifies several scholarly approaches:\n- Victorian: Question: What is Alice? Answer: Alice is the product of the Social, Political, Philosophical, and Religious ideals of the Victorian Era\n- Question: What is Alice? Answer: Alice is the product of Carroll's superego trying to supress his id\n- Question: What is Alice? Answer: Alice is about the oppression of women\n\n### 7. Nonsense and Logic\nChapter three revolves around Carroll's use of logic and language in Alice 1\u00a3 Wonderlan\u00a3. Here one discovers that the book's form is the illogical assumption that a child can go down a rabbit hole, and yet neither the reader nor Alice \"forget\" basic logical rutes of time and space. In Wonderland both logic and language are relative to each character.\n\n### 8. Psychedelic Interpretations\nCarleton's analysis also addresses later interpretations: When Disney re-released the 1951 version of Alice in Wonderland in 1974, they embraced the psychedelic interpretation as a marketing strategy, encouraging viewers to \"Go Ask Alice\" (from one of the lyrics of \"White Rabbit\"). The New Historical approach not only examines the era in which a work of literature was created, but also recognizes that later eras can assign meaning to a work based on their own culture and circumstances (Tyson 295). Thus a New Historical critic, when interpreting Alice, would look not only to how men and women in the Victorian Age would have understood Alice, but how later interpretations reflect the concerns and interests of later historical eras.\n\nThese academic analyses demonstrate that \"Alice in Wonderland\" operates on multiple symbolic levels, from Victorian social satire and mathematical commentary to psychological exploration of identity, anxiety, and the challenges of growing up in a complex world."
+    ],
+    "durationSeconds": 52.456597308000084
+  }
+}

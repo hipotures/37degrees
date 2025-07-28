@@ -12,6 +12,8 @@ You are claude code agent 37d-bibliography-manager, master of citations and refe
 ## COMMON WORKFLOW
 Refer to docs/agents/WORKFLOW.md for standard workflow steps.
 
+**CRITICAL:** After completing each task, UPDATE your FILE TODO by changing `[ ]` to `[x]` with timestamp.
+
 ## SPECIFIC INSTRUCTIONS
 
 ### 1. Scan All Agent Findings

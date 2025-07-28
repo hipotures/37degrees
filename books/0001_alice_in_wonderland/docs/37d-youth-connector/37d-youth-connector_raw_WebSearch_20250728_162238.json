@@ -1,0 +1,62 @@
+{
+  "session_id": "ad0134af-ec8f-4d33-afa8-be303b4ad42f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ad0134af-ec8f-4d33-afa8-be303b4ad42f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Wonderlandcore aesthetic TikTok Instagram Pinterest \"Alice in Wonderland\" fashion Gen Z 2024"
+  },
+  "tool_response": {
+    "query": "Wonderlandcore aesthetic TikTok Instagram Pinterest \"Alice in Wonderland\" fashion Gen Z 2024",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01NbcZgaCEkDeH8n3C5t4xtV",
+        "content": [
+          {
+            "title": "Wonderland | Aesthetics Wiki | Fandom",
+            "url": "https://aesthetics.fandom.com/wiki/Wonderland"
+          },
+          {
+            "title": "Discover alice in wonderland aesthetic clothes 's popular videos",
+            "url": "https://www.tiktok.com/discover/alice-in-wonderland-aesthetic-clothes"
+          },
+          {
+            "title": "TikTok \u00b7 \u300a\u00bf\u00b0\u2022\u2022\u00b0\u00bf\u300b [Video] in 2023 | Alice in wonderland, Alice ...",
+            "url": "https://www.pinterest.com/pin/tiktok-video-in-2023--914019686855301609/"
+          },
+          {
+            "title": "Alice In Wonderland Inspired Outfits: Embrace The Magic Of Wonderland",
+            "url": "https://addicfashion.com/2024/01/19/alice-in-wonderland-inspired-outfits/"
+          },
+          {
+            "title": "Alice in Wonderland Aesthetic",
+            "url": "https://www.tiktok.com/discover/alice-in-wonderland-aesthetic"
+          },
+          {
+            "title": "Alice in Wonderland Fashion",
+            "url": "https://www.tiktok.com/discover/alice-in-wonderland-fashion"
+          },
+          {
+            "title": "170 Alice in Wonderland Aesthetic ideas",
+            "url": "https://www.pinterest.com/KenlieSwank/alice-in-wonderland-aesthetic/"
+          },
+          {
+            "title": "Alice In Wonderland Aesthetic Merch & Gifts for Sale | Redbubble",
+            "url": "https://www.redbubble.com/shop/alice+in+wonderland+aesthetic?page=2"
+          },
+          {
+            "title": "Selected Alice in Wonderland Inspired Outfits",
+            "url": "https://www.tiktok.com/product/alice-in-wonderland-inspired-outfits"
+          },
+          {
+            "title": "700 Alice in Wonderland ideas in 2025",
+            "url": "https://www.pinterest.com/positivepresent/alice-in-wonderland/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with information about the Wonderlandcore aesthetic and its popularity on social media platforms in 2024:\n\n## Wonderlandcore Aesthetic Overview\n\nWonderland is an aesthetic heavily based on the concept of a surreal wonderland as popularized by Lewis Carroll's Alice in Wonderland.(no content)It has a strong focus on the feeling of being lost in a fantastic yet dark world far away from home.\n\n## Visual Elements\n\nWonderland visuals typically feature a whimsical fairytale landscape as its main focus, dominated by bizarre architecture as well as fauna and flora.(no content)Both colorful and dark visuals are common sporting unrealistic anatomy and patterns.\n\nKey visual elements include checkered floors, dark forests, unusual architecture, pocket watches, locked doors, tea sets, rabbits, mirrors, locks and keys, key holes, flamingos, playing cards, mushrooms, roses, gardens, hedge mazes, books, cats with a color palette of muted colors, black, white, light brown, red, blue.\n\n## Fashion Elements\n\nFashions for this aesthetic consist of comfortable clothing and clothes that could be similar to Cottagecore and Fairycore, as well as having a strong Victorian influence due to the time period Alice in Wonderland took place in.(no content)Lolita fashion is related to and sometimes inspired by wonderland because of the Victorian influence with a dramatic, whimsical twist.\n\n## Social Media Presence in 2024\n\nThe aesthetic has gained significant traction on social media platforms:\n\n- **Instagram, TikTok, and Pinterest**: Social media platforms like Instagram, TikTok, and Pinterest provide a space to share your creativity with a wide audience.\n\n- **Fashion Content**: Alice in Wonderland inspired outfits are fashion ensembles inspired by the characters and elements from Lewis Carroll's famous novel. These outfits often incorporate whimsical prints, playful accessories, and a sense of fantasy. From Alice's iconic blue dress to the Mad Hatter's eccentric style, there are countless ways to channel the magic of Wonderland through your clothing.\n\nThe aesthetic appears to be particularly popular among Gen Z users who are drawn to its combination of whimsical fantasy elements, Victorian-inspired fashion, and the ability to create content that blends nostalgia with modern creative expression on platforms like TikTok and Pinterest."
+    ],
+    "durationSeconds": 15.29407811699994
+  }
+}

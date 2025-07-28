@@ -1,0 +1,63 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Jane Eyre\" fire brimstone love forgiveness moral compass religious extremism balance"
+  },
+  "tool_response": {
+    "query": "\"Jane Eyre\" fire brimstone love forgiveness moral compass religious extremism balance",
+    "results": [
+      "I'll search for information about how \"Jane Eyre\" explores themes of fire, brimstone, love, forgiveness, moral compass, religious extremism, and balance.",
+      {
+        "tool_use_id": "srvtoolu_013vzBNtPBpyvkZFF6BZCtwe",
+        "content": [
+          {
+            "title": "Jane Eyre Religion and Morality Quotes - 72 Top Quotes with Analysis",
+            "url": "https://www.allgreatquotes.com/authors/jane-eyre-religion-and-morality/"
+          },
+          {
+            "title": "Jane Eyre Hypocrisy Analysis - 442 Words | 123 Help Me",
+            "url": "https://www.123helpme.com/essay/Jane-Eyre-Hypocrisy-Analysis-FCRN6SJWCT"
+          },
+          {
+            "title": "Jane Eyre: Themes | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/janeeyre/themes/"
+          },
+          {
+            "title": "Evangelical Christianity in Jane Eyre \u2013 Tebok Kai",
+            "url": "https://tebokkai.com/2024/09/16/evangelical-christianity-in-jane-eyre/"
+          },
+          {
+            "title": "Religion in Jane Eyre | The Nineteenth Century British Novel",
+            "url": "https://blogs.commons.georgetown.edu/engl-145-fall2016/2016/09/19/200/"
+          },
+          {
+            "title": "\"Conventionality is not morality\": What 'Jane Eyre' Teaches About True Virtue \u2013 The Lutheran Witness",
+            "url": "https://witness.lcms.org/2023/jane-eyre/"
+          },
+          {
+            "title": "Critical Reception of Jane Eyre \u2013 UNSUITABLE",
+            "url": "https://sites.duke.edu/unsuitable/critical-reception-of-jane-eyre/"
+          },
+          {
+            "title": "(PDF) Analysis of Charlotte Bront\u00eb\u2019s Religious Attitudes in Jane Eyre",
+            "url": "https://www.researchgate.net/publication/389604185_Analysis_of_Charlotte_Bronte's_Religious_Attitudes_in_Jane_Eyre"
+          },
+          {
+            "title": "Religion In Charlotte Bronte's Jane Eyre - 1636 Words | Cram",
+            "url": "https://www.cram.com/essay/Christianity-And-Religion-In-Charlotte-Bront%C3%ABs-Jane/P33QJVPNB5YQ"
+          },
+          {
+            "title": "Charlotte Bronte's Jane Eyre and nineteenth-century Christianity",
+            "url": "https://scholarworks.calstate.edu/downloads/qf85ng565"
+          }
+        ]
+      },
+      "Based on the search results, I can provide comprehensive insights into how \"Jane Eyre\" explores the themes of fire, brimstone, love, forgiveness, moral compass, religious extremism, and balance.\n\n## Fire and Brimstone\n\nMr. Brocklehurst uses fire and brimstone imagery to threaten and intimidate children, warning that \"All liars will have their portion in the lake burning with fire and brimstone\". He represents religious extremism, using faith as \"hell-fire and brimstone\" to \"punish her body to save the soul,\" embodying \"the worst kind of extreme evangelical zeal\".\n\n## Love and Forgiveness\n\nThe novel presents forgiveness as a central Christian virtue through multiple characters:\n\n- Helen Burns teaches Jane about Christian forgiveness, believing that \"it is not violence that best overcomes hate- nor vengeance that most certainly heals injury\"\n- Jane forgives Mrs. Reed despite childhood trauma, saying \"I ought to forgive you, for you knew not what you did\"\n- Jane later puts Helen's teachings into practice when she \"fully forgives Mrs. Reed for her abuse and attempts to set her aunt at ease\" on her deathbed\n\n## Moral Compass\n\nJane's moral compass is deeply rooted in her religious beliefs - she \"often turns to the Bible and her religious beliefs for guidance when making difficult decisions\" and \"relies on her moral compass to guide her toward what she believes is the right choice\". When faced with becoming Rochester's mistress, \"her moral compass that's built on Christianity tells her the former is not the way to go\".\n\n## Religious Extremism vs. Balance\n\nThe novel critiques religious extremism through three main figures:\n\n1. **Mr. Brocklehurst**: Represents \"the dangers and hypocrisies that Charlotte Bront\u00eb perceived in the nineteenth-century Evangelical movement,\" using religious rhetoric while subjecting students to \"privations and humiliations\"\n\n2. **St. John Rivers**: Embodies \"a Christianity of ambition, glory, and extreme self-importance\" who \"urges Jane to sacrifice her emotional deeds for the fulfillment of her moral duty\"\n\n3. **Helen Burns**: Represents sincere faith, \"teaching her the value of forgiveness and the importance of inner faith\" with \"calm approach to death\"\n\n## Finding Balance\n\nThe central struggle is Jane's attempt to \"find the right balance between moral duty and earthly pleasure, between obligation to her spirit and attention to her body\". Though \"Jane ends up rejecting all three models of religion, she does not abandon morality, spiritualism, or a belief in a Christian God\" - instead forming \"her own ideas about faith and principle\".\n\nBront\u00eb advocates for \"a harmonious blend of human virtues and divine transcendence\" that \"offers a moral compass for a meaningful life,\" combining \"compassion with a reproach against inhumanity\".\n\n## Critique of Religious Hypocrisy\n\nThe novel argues that \"Conventionality is not morality. Self-righteousness is not religion,\" showing how \"self-righteous characters in Jane Eyre who use their reputations and moral-sounding language to justify sin are not acting in moral, God-pleasing, or Christian ways\".\n\nThe novel ultimately presents a nuanced view where true faith involves balancing spiritual devotion with human compassion, rejecting both religious extremism and moral abandonment in favor of a personal, sincere relationship with God that doesn't sacrifice love and human connection."
+    ],
+    "durationSeconds": 38.72793857599981
+  }
+}

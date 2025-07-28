@@ -1,0 +1,63 @@
+{
+  "session_id": "bb5bd92f-2e06-46b2-9b84-f65c0578b080",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/bb5bd92f-2e06-46b2-9b84-f65c0578b080.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Little Prince\" celebrity references popular culture musician artist interpretations modern adaptations cultural phenomenon"
+  },
+  "tool_response": {
+    "query": "\"Little Prince\" celebrity references popular culture musician artist interpretations modern adaptations cultural phenomenon",
+    "results": [
+      "I'll search for information about \"The Little Prince\" and its influence on celebrities, musicians, artists, and popular culture.",
+      {
+        "tool_use_id": "srvtoolu_01CGVEdLucTEopJa9ag68vWn",
+        "content": [
+          {
+            "title": "The Little Prince | Culture Wikia | Fandom",
+            "url": "https://culture.fandom.com/wiki/The_Little_Prince"
+          },
+          {
+            "title": "The Little Prince - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Little_Prince"
+          },
+          {
+            "title": "List of The Little Prince adaptations - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/List_of_The_Little_Prince_adaptations"
+          },
+          {
+            "title": "The Little Prince: Themes | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/littleprince/themes/"
+          },
+          {
+            "title": "\u2018Little Prince\u2019 Chinese Adaptation in the Works From Stars Collective, Shanghai\u2019s El Pajaro (Exclusive) - IMDb",
+            "url": "https://www.imdb.com/news/ni65072687/"
+          },
+          {
+            "title": "The Little Prince | Ultimate Pop Culture Wiki | Fandom",
+            "url": "https://ultimatepopculture.fandom.com/wiki/The_Little_Prince"
+          },
+          {
+            "title": "The Little Prince | Plot, Analysis, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/The-Little-Prince"
+          },
+          {
+            "title": "The Little Prince - Antoine de Saint-Exup\u00e9ry, Classic, Fable | Britannica",
+            "url": "https://www.britannica.com/topic/The-Little-Prince/Analysis-and-reception"
+          },
+          {
+            "title": "\u201cThe Little Prince\u201d \u2014 Allegory and Symbolism with quotes from the book | by Steve Pabel | Medium",
+            "url": "https://stevepabel.medium.com/the-little-prince-allegory-and-symbolism-with-quotes-from-the-book-8b07c47a625c"
+          },
+          {
+            "title": "Why you should read The Little Prince even today \u2013 Webb Canyon Chronicle",
+            "url": "https://webbcanyonchronicle.com/12098/culture-and-lifestyle/why-you-should-read-the-little-prince-even-today/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide comprehensive information about \"The Little Prince\" as a cultural phenomenon and its influence on celebrities, musicians, artists, and popular culture:\n\n## The Little Prince as a Cultural Phenomenon\n\nIn April 2017, The Little Prince became the world's most translated non-religious book, with translations into 300 languages. This number had risen to 600 by November 2024.(no content)The novella is both the most read and most translated book in the French language, and was voted the best book of the 20th century in France.(no content)As a cultural icon, the novella regularly draws new readers and reviewers, selling almost two million copies annually and also spawning numerous adaptations.\n\n## Modern Cultural References and Adaptations\n\n### Celebrity and Artistic Interpretations\n\nMichael York starred as The Aviator and Anthony Rapp as The Prince, with Ellen Greene in a supporting role in a 1981 musical theatre adaptation. Daniel Lavoie played The Pilot while Jeff Tetedoie played The Prince in a 2002 French-language musical by composer Riccardo Cocciante.\n\nNotable movies included Stanley Donen's 1974 musical, featuring Bob Fosse and Gene Wilder, and a 2015 animated film with voice work by Jeff Bridges and Rachel McAdams.(no content)Nicholas Lloyd Webber, son of famed British composer and theatrical producer Andrew Lloyd Webber, debuted the stage musical The Little Prince in 2011.\n\n### Contemporary Pop Culture Collaborations\n\nIn 2023, The Little Prince inspired a collaboration with Chinese toy brand Pop Mart and artist Hideaki Kawashima's Hirono series. Titled \"Pop Mart x Le Petit Prince \u2013 La Nouvelle S\u00e9rie de Figurines par Hirono\", the collection features reinterpretations of characters from the novella, including the Little Prince, the Rose, and the Fox. The figurines depict scenes such as the Little Prince standing atop his asteroid B612 and interacting with the Fox under a starry sky. The collaboration was marketed as a celebration of the story's themes of love, friendship, and exploration.(no content)The Montblanc Luxury Writing Instrument Company created three series of luxury fountain pens based on the Little Prince series, including the Le Petit Prince, the Le Petit Prince Aviator and the Le Petit Prince and Planet pens in various models.\n\n### Artistic Installations and Public Art\n\nIn 1996 the Danish sculptor Jens Galschi\u00f8t unveiled an artistic arrangement consisting of seven blocks of granite asteroids 'floating' in a circle around a 2-metre tall planet Earth. The artistic universe was populated by bronze sculpture figures that the little prince met on his journeys.(no content)French artist Joann Sfar drew a graphic novel adaptation of The Little Prince that was released in 2008 by \u00c9ditions Gallimard in France.\n\n### Cultural Tourism and Architecture\n\nIn Gyeonggi Province, South Korea, there is an imitation French village, Petite France, which has adapted the story elements of The Little Prince into its architecture and monuments. There are several sculptures of the story's characters, and the village also offers overnight housing in some of the French-style homes. Featured are the history of The Little Prince, an art gallery, and a small amphitheatre situated in the middle of the village for musicians and other performances. The enterprise's director stated that in 2009 the village received a half million visitors.\n\n### Musical Adaptations\n\nThe French-language musical, Le Petit Prince, by composer Riccardo Cocciante, ran at the Casino de Paris from October 2002 to January 2003. Daniel Lavoie played The Pilot while Jeff Tetedoie played The Prince. It was reprised at the Shanghai Oriental Art Centre in July 2007, and in the Hong Kong Cultural Centre in January 2008 with lyrics by Elizabeth Anais.(no content)Russian operatic composer Lev Knipper wrote a three-part symphony in 1962, his skazka (tale) entitled Malen\u2032kiy Prints (The Little Prince), which was first performed in Moscow in 1978.\n\n### Contemporary Media Adaptations\n\nA French TV series inspired by the novella aired from 2010 to 2017.(no content)In 2016 the National Ballet of Canada performed its own adaptation.\n\nThe Little Prince continues to be a significant cultural touchstone, inspiring artists, musicians, and celebrities across various media formats, from theatre and film to visual arts and commercial collaborations, demonstrating its enduring appeal and universal themes that resonate across cultures and generations."
+    ],
+    "durationSeconds": 50.25051954399981
+  }
+}

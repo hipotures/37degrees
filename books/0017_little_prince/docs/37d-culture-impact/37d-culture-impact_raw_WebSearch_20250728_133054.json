@@ -1,0 +1,155 @@
+{
+  "session_id": "bb5bd92f-2e06-46b2-9b84-f65c0578b080",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/bb5bd92f-2e06-46b2-9b84-f65c0578b080.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Little Prince\" TikTok hashtag trends viral videos Polish youth #ma\u0142yksi\u0105\u017c\u0119 #littleprince content creators"
+  },
+  "tool_response": {
+    "query": "\"Little Prince\" TikTok hashtag trends viral videos Polish youth #ma\u0142yksi\u0105\u017c\u0119 #littleprince content creators",
+    "results": [
+      "I'll search for information about Little Prince TikTok trends and viral videos among Polish youth.",
+      {
+        "tool_use_id": "srvtoolu_012EECsmsiYhUZEshc6yaxpf",
+        "content": [
+          {
+            "title": "The Little Prince",
+            "url": "https://www.tiktok.com/discover/little-prince?lang=en"
+          },
+          {
+            "title": "my little prince",
+            "url": "https://www.tiktok.com/discover/my-little-prince?lang=en"
+          },
+          {
+            "title": "the little prince series",
+            "url": "https://www.tiktok.com/discover/the-little-prince-series"
+          },
+          {
+            "title": "little prince\uff5c\u0628\u062d\u062b TikTok",
+            "url": "https://www.tiktok.com/discover/-little-prince?lang=en"
+          },
+          {
+            "title": "Little Prince Songs",
+            "url": "https://www.tiktok.com/discover/little-prince-songs"
+          },
+          {
+            "title": "Respect \ud83d\ude0a\u2764 #socialexperiment #rek #redcarpet #littleprince #smallprince #fypviral\u30b7 #viralvideos #foruyou #foryoupage\u2764\ufe0f\u2764\ufe0f #fyp  | TikTok",
+            "url": "https://www.tiktok.com/@littleprince376/video/7520689150941498646"
+          },
+          {
+            "title": "little prince | TikTok",
+            "url": "https://www.tiktok.com/@gerards_wayy/video/7082117892346613038"
+          },
+          {
+            "title": "Little Prince (@littleprrince)",
+            "url": "https://www.tiktok.com/@littleprrince"
+          },
+          {
+            "title": "little prince book",
+            "url": "https://www.tiktok.com/discover/little-prince-book?lang=en"
+          },
+          {
+            "title": "The Little Prince Book",
+            "url": "https://www.tiktok.com/discover/the-little-prince-book?lang=en"
+          }
+        ]
+      },
+      "Let me search more specifically for Polish TikTok content about The Little Prince.",
+      {
+        "tool_use_id": "srvtoolu_01HCrD2Di88SyK5JCGfw1uY6",
+        "content": [
+          {
+            "title": "Pole fighting for Russia goes viral on TikTok",
+            "url": "https://tvpworld.com/87615125/polish-tiktoker-goes-viral-after-joining-russian-forces-to-fight-in-ukraine"
+          },
+          {
+            "title": "Top 1,000 tiktok Influencers In Poland | StarNgage Plus",
+            "url": "https://starngage.com/plus/en-us/influencer/ranking/tiktok/poland"
+          },
+          {
+            "title": "Hot Tik Tok - Etsy Poland",
+            "url": "https://www.etsy.com/pl/market/hot_tik_tok"
+          },
+          {
+            "title": "TikTok Hits Polska - playlist by Topsify Poland",
+            "url": "https://open.spotify.com/playlist/6BKT6LfkGo82q8eMBUS6OU"
+          },
+          {
+            "title": "Top 19 TikTok Influencers in Poland: Find Polish TikTokers",
+            "url": "https://www.modash.io/find-influencers/tiktok/poland"
+          },
+          {
+            "title": "TikTok Trending Songs - Poland",
+            "url": "https://kworb.net/charts/tiktok/pl.html"
+          },
+          {
+            "title": "TikTok - Make Your Day",
+            "url": "https://www.tiktok.com/discover/poland-video"
+          },
+          {
+            "title": "Top 10 TikTok Influencers In Poland In 2022 - inBeat",
+            "url": "https://www.inbeat.co/top-influencers/tiktok/poland/"
+          },
+          {
+            "title": "Cringe-worthy Polish hotel ad goes viral on TikTok - English Section",
+            "url": "https://www.polskieradio.pl/395/7786/artykul/3418457,cringeworthy-polish-hotel-ad-goes-viral-on-tiktok"
+          },
+          {
+            "title": "Top 1000 Influencers on TikTok in Poland | HypeAuditor TikTok Ranking",
+            "url": "https://hypeauditor.com/top-tiktok-poland/"
+          }
+        ]
+      },
+      "Let me search more specifically for Little Prince content on Polish TikTok.",
+      {
+        "tool_use_id": "srvtoolu_01CkJ9LiQt96heZx41QxoVZ6",
+        "content": [
+          {
+            "title": "\u2018The Little Prince\u2019 in Polish Dialects | Article | Culture.pl",
+            "url": "https://culture.pl/en/article/the-little-prince-in-polish-dialects"
+          },
+          {
+            "title": "little prince book",
+            "url": "https://www.tiktok.com/discover/little-prince-book?lang=en"
+          },
+          {
+            "title": "The Little Prince - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Little_Prince"
+          },
+          {
+            "title": "\"You're either here to enlighten or discourage,\" shared Prince in an interview with @MTV on the influence music has on youth culture. #prince #mtv  | TikTok",
+            "url": "https://www.tiktok.com/@prince/video/7487010937573068062"
+          },
+          {
+            "title": "Little Prince Book for Pageant",
+            "url": "https://www.tiktok.com/discover/little-prince-book-for-pageant"
+          },
+          {
+            "title": "The Little Prince: A Book for All Ages, Through the Ages \u2013 News for YOUth",
+            "url": "https://newsforyouth.org/2020/04/23/the-little-prince-a-book-for-all-ages-through-the-ages/"
+          },
+          {
+            "title": "The Little Prince Book",
+            "url": "https://www.tiktok.com/discover/the-little-prince-book?lang=en"
+          },
+          {
+            "title": "Parent reviews for The Little Prince - Book",
+            "url": "https://www.commonsensemedia.org/book-reviews/the-little-prince/user-reviews/adult"
+          },
+          {
+            "title": "Little Prince Release",
+            "url": "https://www.tiktok.com/discover/little-prince-release"
+          },
+          {
+            "title": "The Little Prince Book Chinese Drama",
+            "url": "https://www.tiktok.com/discover/the-little-prince-book-chinese-drama"
+          }
+        ]
+      },
+      "Based on my search results, I found limited specific information about Little Prince TikTok hashtag trends among Polish youth. Here's what I discovered:\n\n## Key Findings:\n\n### Polish TikTok Landscape\nTikTok is a rapidly growing platform in Poland with the youngest demographic, popular for dance, humor, and viral challenges. There are 914,961 Polish TikTok influencers with up to 500k followers, indicating a vibrant creator community.\n\n### The Little Prince in Polish Culture\nThe Little Prince is available in Polish dialects including Greater Polish, Silesian, and Podhale dialects, showing the book's cultural significance in Poland. However, I couldn't find specific information about viral TikTok content using #ma\u0142yksi\u0105\u017c\u0119 or #littleprince hashtags among Polish youth.\n\n### Top Polish TikTok Creators\nCurrently, Emilio Piano is the most popular TikTok creator in Poland with 13M followers, and @milway.ka has an impressive following of 10,400,000 subscribers within Poland.\n\n### Polish TikTok Content Trends\nThe search results show that Polish TikTok content includes various trends like viral challenges, comedy, pranks, and lifestyle content, but there wasn't specific information about Little Prince-themed content or the hashtags #ma\u0142yksi\u0105\u017c\u0119 and #littleprince being particularly viral among Polish youth.\n\nUnfortunately, the search didn't return specific data about Little Prince TikTok trends, viral videos, or content creators using these hashtags in Poland. The TikTok pages that might have contained this information were inaccessible in the search results. To get more detailed information about this specific trend, you might need to explore TikTok directly or look for Polish social media analytics platforms that track hashtag performance."
+    ],
+    "durationSeconds": 32.578898364000025
+  }
+}

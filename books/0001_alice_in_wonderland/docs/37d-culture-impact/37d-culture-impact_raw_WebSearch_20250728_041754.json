@@ -1,0 +1,63 @@
+{
+  "session_id": "ac25dab5-19ee-43b4-8689-cf24d65d211d",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ac25dab5-19ee-43b4-8689-cf24d65d211d.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Alice in Wonderland merchandise fashion collections designer collaborations retail products"
+  },
+  "tool_response": {
+    "query": "Alice in Wonderland merchandise fashion collections designer collaborations retail products",
+    "results": [
+      "I'll search for information about Alice in Wonderland merchandise, fashion collections, designer collaborations, and retail products.",
+      {
+        "tool_use_id": "srvtoolu_01EN7Db34b6mFKMwPJnpFQ2L",
+        "content": [
+          {
+            "title": "Alice in Wonderland Shirts, Toys, Figurines & More | Disney Store",
+            "url": "https://www.disneystore.com/movies-shows/disney/alice-in-wonderland/"
+          },
+          {
+            "title": "Products",
+            "url": "https://aliceswonderland.com/collections/all"
+          },
+          {
+            "title": "Alice's Shop | The Original Alice in Wonderland Shop",
+            "url": "https://aliceinwonderlandshop.com/"
+          },
+          {
+            "title": "Amazon.com: Alice In Wonderland Merchandise",
+            "url": "https://www.amazon.com/Alice-Wonderland-Merchandise/s?k=Alice+in+Wonderland+Merchandise"
+          },
+          {
+            "title": "Alice in Wonderland : Disney Clothing & Accessories : Target",
+            "url": "https://www.target.com/c/disney-clothing-accessories/alice-in-wonderland/-/N-2slbiZ5qe6e"
+          },
+          {
+            "title": "OFFICIAL Alice in Wonderland Shirts, Gifts & Merch | BoxLunch",
+            "url": "https://www.boxlunch.com/pop-culture/shop-by-license/alice-in-wonderland/"
+          },
+          {
+            "title": "Alice in Wonderland Book T-shirts and More Collection \u2014 Out of Print",
+            "url": "https://outofprint.com/collections/alice-in-wonderland"
+          },
+          {
+            "title": "Top 5 Disney Fashion Collaborations of the past year",
+            "url": "https://fashionunited.uk/news/fashion/top-5-disney-fashion-collaborations-of-the-past-year/2016061720801"
+          },
+          {
+            "title": "Alice In Wonderland Clothing & Accessories | Her Universe",
+            "url": "https://www.heruniverse.com/shop-by-license/alice-in-wonderland/"
+          },
+          {
+            "title": "Sue Wong to Debut High-End Alice in Wonderland Line | License Global",
+            "url": "https://www.licenseglobal.com/apparel/sue-wong-debut-high-end-alice-wonderland-line"
+          }
+        ]
+      },
+      "Based on my search results, here's an overview of Alice in Wonderland merchandise, fashion collections, designer collaborations, and retail products:\n\n## Designer Collaborations\n\nMarc by Marc Jacobs launched an 80-piece capsule collection called 'I Am Not Like Other Girls' inspired by Alice from the animated film. The collection featured sweatshirts, iPhone cases, sunglasses, and other items with multi-colored flowers from the movie, the Cheshire Cat, and Alice herself.(no content)Fashion designer Sue Wong created a high-end dress line inspired by Disney's Alice in Wonderland film, featuring Victorian antique lace and vibrant details. The dresses retailed from $329 to $609 and were available at department stores including Bloomingdale's, Neiman Marcus, Saks Fifth Avenue, Nordstrom's, Lord and Taylor, and Macy's.(no content)Vans collaborated with Disney for their 'Young at Heart Collection,' which featured an Alice in Wonderland capsule collection inspired by the 1951 movie. The collection included classic Vans slip-on sneakers, t-shirts, socks, and backpacks featuring the Cheshire Cat character.\n\n## Major Retail Collections\n\nDisney Store offers the Queen of Hearts Limited Edition Doll from the Disney Designer Collection Midnight Masquerade Series, featuring a metallic accented gown with rose print underskirt, red and black tulle layers, gemstone studs, and red satin rosettes.(no content)BoxLunch carries exclusive Loungefly Disney Alice in Wonderland collections including mini backpacks, convertible purses, and zip wallets with Alice & Flowers designs, as well as floral glass cups, kitchen conversion charts, and sleep pants.(no content)Out of Print offers an Alice's Adventures in Wonderland collection featuring book cover art on t-shirts, mugs, socks, jewelry, tote bags, and pouches, with designs adapted from classic illustrations by Sir John Tenniel.\n\n## Specialty Shops\n\nAlice's Shop in Oxford, England is the real-life shop that Alice Liddell visited as a child and that features in Lewis Carroll's Alice Through the Looking Glass. The shop offers unique Alice in Wonderland gifts, birthday presents, merchandise, and collectibles with worldwide shipping.\n\n## Product Categories\n\nThe merchandise spans various categories including:\n- Fashion apparel (dresses, t-shirts, hoodies, sleep pants)\n- Accessories (bags, backpacks, wallets, jewelry)\n- Collectibles (limited edition dolls, figurines)\n- Home goods (teapots, cups, kitchen items)\n- Beauty products (face masks, cosmetic sheets)\n- Tech accessories (MagicBand+, phone cases)\n\nDisney's Art of Villains Designer Collection features the Queen of Hearts on various customizable items including water bottles, t-shirts, tote bags, and tank tops.\n\nThe Alice in Wonderland merchandise market includes both high-end designer collaborations and mass-market retail products, appealing to a wide range of consumers from collectors to everyday fans of the classic story."
+    ],
+    "durationSeconds": 29.948656446000097
+  }
+}

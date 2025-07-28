@@ -1,0 +1,63 @@
+{
+  "session_id": "9588e4fa-c119-4986-be3b-1d3af7769f8f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/9588e4fa-c119-4986-be3b-1d3af7769f8f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Brave New World\" 1932 reviews literary critics contemporary reception H.G. Wells George Orwell"
+  },
+  "tool_response": {
+    "query": "\"Brave New World\" 1932 reviews literary critics contemporary reception H.G. Wells George Orwell",
+    "results": [
+      "I'll search for information about the contemporary reception and reviews of \"Brave New World\" from 1932, including reactions from literary critics like H.G. Wells and George Orwell.",
+      {
+        "tool_use_id": "srvtoolu_01NCgNM7hJUgvatCZi2Ekqpf",
+        "content": [
+          {
+            "title": "'Brave New World' at 75",
+            "url": "https://www.thenewatlantis.com/publications/brave-new-world-at-75"
+          },
+          {
+            "title": "Brave New World - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World"
+          },
+          {
+            "title": "Brave New World | Summary, Context, & Reception | Britannica",
+            "url": "https://www.britannica.com/topic/Brave-New-World"
+          },
+          {
+            "title": "Brave New World (1932) by Aldous Huxley \u2013 Book Review - Literary Retreat",
+            "url": "https://www.literaryretreat.com/brave-new-world-1932-by-aldous-huxley-book-review/"
+          },
+          {
+            "title": "ALDOUS HUXLEY: BRAVE NEW WORLD (1932)[1] \u2013 Comments on Culture",
+            "url": "https://bookerhorror.com/aldous-huxley-brave-new-world-19321/"
+          },
+          {
+            "title": "Amazon.com: Brave New World: 9780060850524: Huxley, Aldous: Books",
+            "url": "https://www.amazon.com/Brave-New-World-Aldous-Huxley/dp/0060850523"
+          },
+          {
+            "title": "Brave New World (Aldous Huxley 1932) \u2013 The Discerning Writer",
+            "url": "https://thediscerningwriter.wordpress.com/2016/04/18/brave-new-world-aldous-huxley-1932/"
+          },
+          {
+            "title": "The Future is Now and it\u2019s Our Fault: A Review of Brave New World by Aldous Huxley | by Christopher Willard | Medium",
+            "url": "https://christopherwillardauthor.medium.com/fordism-and-freudism-a-review-of-brave-new-world-by-aldous-huxley-a6bfdaa9e440"
+          },
+          {
+            "title": "REVIEW: Brave New World (1932) \u2013 r. w. thorne",
+            "url": "https://rwthorneblog.wordpress.com/2022/12/31/review-brave-new-world-1932/"
+          },
+          {
+            "title": "In retrospect: Brave New World | Nature",
+            "url": "https://www.nature.com/articles/503338a"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with detailed information about the contemporary reception of \"Brave New World\" when it was published in 1932, including reactions from literary critics like H.G. Wells and George Orwell.\n\n## Contemporary Reception of Brave New World (1932)\n\nThe novel received a mixed reception from literary critics when it was first published in 1932, with notable responses from several prominent figures of the time.\n\n### Positive Reviews\n\nUpon its publication, Rebecca West praised Brave New World as \"The most accomplished novel Huxley has yet written\", Joseph Needham lauded it as \"Mr Huxley's remarkable book\", and Bertrand Russell also praised it, stating, \"Mr Aldous Huxley has shown his usual masterly skill in Brave New World.\"\n\n### H.G. Wells' Response\n\nH.G. Wells had a particularly notable reaction to the book. Wells himself was curious about the book, and most critics shared Wells's reaction to it, though the search results suggest this reaction was not entirely positive. Wells's friend and fellow writer Wyndham Lewis called it \"an unforgivable offense to Progress.\"\n\n### George Orwell's Critique\n\nGeorge Orwell was notably unimpressed with Brave New World. George Orwell \u2014 himself not especially impressed with Brave New World, which he called a \"brilliant caricature of the present\" that \"probably casts no light on the future\" \u2014 even accused Huxley of plagiarism (particularly strange since Orwell's own 1984 was influenced by Yevgeny Zamyatin's \"We\").\n\nOrwell, who was always a better writer than Huxley, wrote, \"The first thing anyone would notice about We is the fact \u2014 never pointed out, I believe \u2014 that Aldous Huxley's Brave New World must be partly derived from it. Both books deal with the rebellion of the primitive human spirit against a rationalised, mechanised, painless world, and both stories are supposed to take place about six hundred years hence. The atmosphere of the two books is similar, and it is roughly speaking the same kind of society that is being described, though Huxley's book shows less political awareness and is more influenced by recent biological and psychological theories.\"\n\n### Other Critical Responses\n\nThe reception was decidedly mixed among other critics:\n\n- \"As prophecy it is merely fantastic,\" dismissed essayist Gerald Bullett.\n- Marxist literary critic Granville Hicks began his review by asking, \"With war in Asia, bankruptcy in Europe and starvation everywhere, what do you suppose Aldous Huxley is now worrying about?\" and ended it with several personal attacks.\n- Brave New World also received negative responses from other contemporary critics, although his work was later embraced.\n\n### Contemporary Context\n\nIn an article in the 4 May 1935 issue of the Illustrated London News, G. K. Chesterton explained that Huxley was revolting against the \"Age of Utopias\". Much of the discourse on man's future before 1914 was based on the thesis that humanity would solve all economic and social issues. In the decade following the war the discourse shifted to an examination of the causes of the catastrophe. The works of H. G. Wells and George Bernard Shaw on the promises of socialism and a World State were then viewed as the ideas of naive optimists.\n\nThe mixed contemporary reception reflected the book's challenge to the prevailing optimistic technological and social visions of the early 20th century, with some critics appreciating Huxley's literary skill while others dismissed it as irrelevant to pressing contemporary concerns."
+    ],
+    "durationSeconds": 27.146358236
+  }
+}

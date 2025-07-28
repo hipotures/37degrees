@@ -1,0 +1,63 @@
+{
+  "session_id": "bb5bd92f-2e06-46b2-9b84-f65c0578b080",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/bb5bd92f-2e06-46b2-9b84-f65c0578b080.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Little Prince\" Polish translation reception \"Ma\u0142y Ksi\u0105\u017c\u0119\" Poland youth reading patterns educational use"
+  },
+  "tool_response": {
+    "query": "\"Little Prince\" Polish translation reception \"Ma\u0142y Ksi\u0105\u017c\u0119\" Poland youth reading patterns educational use",
+    "results": [
+      "I'll search for information about the Polish translation of \"The Little Prince\" and its reception in Poland, particularly regarding youth reading patterns and educational use.",
+      {
+        "tool_use_id": "srvtoolu_01ReXJ6cXjCZnEqUp7ZNRkqZ",
+        "content": [
+          {
+            "title": "Ma\u0142y ksi\u0105\u017c\u0119. The Little Prince (Polish-English) Poziom B1-B2 - B1 - The Threshold - Polski dla obcokrajowc\u00f3w - Ksi\u0119garnia Poltax.waw.pl",
+            "url": "https://ksiegarnia.poltax.waw.pl/maly-ksiaze-the-little-prince-polish-english-poziom-b1-b2-9788394645816-477854"
+          },
+          {
+            "title": "The Little Prince Polish - Polnisch - Polonais",
+            "url": "http://www.petit-prince.at/pp-poln.htm"
+          },
+          {
+            "title": "THE LITTLE PRINCE - Translation in Polish - bab.la",
+            "url": "https://en.bab.la/dictionary/english-polish/the-little-prince"
+          },
+          {
+            "title": "The Little Prince / Ma\u0142y Ksi\u0105\u017c\u0119 \u2014 in English and Polish. Page 9",
+            "url": "https://bilinguator.com/en/online?book=254&page=9"
+          },
+          {
+            "title": "Ma\u0142y Ksi\u0105\u017c\u0119 / Le Petit Prince \u2014 in Polish and French",
+            "url": "https://bilinguator.com/en/online?book=270&page="
+          },
+          {
+            "title": "SOLD OUT! SOLD OUT! LITTLE PRINCE/ MA\u0141Y KSI\u0104\u017b\u0118 - Polish Everyday",
+            "url": "https://polisheveryday.net/product/little-prince/"
+          },
+          {
+            "title": "little prince - Translation into Polish - examples English | Reverso Context",
+            "url": "https://context.reverso.net/translation/english-polish/little+prince"
+          },
+          {
+            "title": "Maly Ksiaze / The Little Prince : Saint-Exupery, Antoine De: Amazon.co.uk: Books",
+            "url": "https://www.amazon.co.uk/Ksiaze-Little-Prince-Antoine-Saint-Exupery/dp/837495602X"
+          },
+          {
+            "title": "A LITTLE PRINCE in Polish Translation",
+            "url": "https://tr-ex.me/translation/english-polish/a+little+prince"
+          },
+          {
+            "title": "Polish Reading and Listening Activity - Learn Polish Language Online Resource",
+            "url": "https://realpolish.pl/polish-reading/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with information about the Polish translation of \"The Little Prince\" (\"Ma\u0142y Ksi\u0105\u017c\u0119\") and its reception in Poland, particularly regarding educational use and youth reading patterns:\n\n## Polish Translation and Educational Use\n\n\"Ma\u0142y Ksi\u0105\u017c\u0119\" is described as \"jedna z najbardziej lubianych bajek na \u015bwiecie\" (one of the most beloved fairy tales in the world). The Polish translation has been widely adopted for educational purposes, particularly in language learning contexts.\n\n### Language Learning Applications\n\nThe book is used to help perfect and practice the Polish language (\"Ksi\u0105\u017cka pomo\u017ce Ci doskonali\u0107 i \u0107wiczy\u0107 j\u0119zyk polski\"). Several bilingual editions have been created specifically for educational purposes:\n\n1. **Polish-English Editions**: These editions are recommended for B1-B2 language levels, with difficult vocabulary translated into English in the margins to eliminate the need for a dictionary.\n\n2. **Polish-French Editions**: Bilingual Polish-French versions are also available for language learners.\n\n### Educational Benefits\n\nReading \"The Little Prince\" in Polish is recognized as an important way to improve language skills, introducing learners to new vocabulary, improving sentence structure and grammar, while also being entertaining. The approach emphasizes that \"learning a foreign language is always easier when you are having fun\".\n\n### Reception and Usage\n\nThe Polish translation \"Ma\u0142y Ksi\u0105\u017c\u0119\" appears to be well-integrated into Polish culture and education:\n\n- It's included in guided Polish reading programs alongside other classic texts\n- Guided Polish reading using texts like \"Ma\u0142y Ksi\u0105\u017c\u0119\" is considered \"a great way to learn Polish, expand your Polish vocabulary and it is a good start to independent reading\"\n- Multiple publishers have released various editions, including hardcover versions from major Polish publishers like Muza\n\n### Youth Reading Patterns\n\nWhile the search results don't provide specific statistics on youth reading patterns in Poland, the widespread availability of educational editions and the book's use in language learning programs suggests it remains popular among young readers and students. The educational approach aligns with Steven Krashen's theory that \"free voluntary reading 'may be the most powerful educational tool in language education'\".\n\nThe Polish translation has successfully maintained the book's appeal while serving as an important educational resource for both native Polish speakers and those learning Polish as a foreign language."
+    ],
+    "durationSeconds": 25.466334416000173
+  }
+}

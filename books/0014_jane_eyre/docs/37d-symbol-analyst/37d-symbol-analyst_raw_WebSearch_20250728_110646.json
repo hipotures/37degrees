@@ -1,0 +1,63 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Jane Eyre\" attic madwoman Bertha Mason Gothic symbolism psychoanalytic interpretation"
+  },
+  "tool_response": {
+    "query": "\"Jane Eyre\" attic madwoman Bertha Mason Gothic symbolism psychoanalytic interpretation",
+    "results": [
+      "I'll search for information about Bertha Mason, the \"madwoman in the attic\" from Jane Eyre, and her significance in Gothic literature and psychoanalytic interpretations.",
+      {
+        "tool_use_id": "srvtoolu_01RKFRC89rjfhm9He1HYB1To",
+        "content": [
+          {
+            "title": "Bertha Mason Character Analysis in Jane Eyre | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/janeeyre/character/bertha-mason/"
+          },
+          {
+            "title": "Bertha Mason - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Bertha_Mason"
+          },
+          {
+            "title": "Bertha Mason in Jane Eyre by Bronte | Character Analysis & Quotes - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/bertha-mason-in-jane-eyre-character-analysis-quotes.html"
+          },
+          {
+            "title": "Bertha Mason in Jane Eyre Character Analysis | Shmoop",
+            "url": "https://www.shmoop.com/study-guides/jane-eyre/bertha-mason.html"
+          },
+          {
+            "title": "On being the madwoman in the attic: What \"Jane Eyre\" taught me about women's anger - Salon.com",
+            "url": "https://www.salon.com/2021/07/17/on-being-the-madwoman-in-the-attic-what-jane-eyre-taught-me-about-womens-anger/"
+          },
+          {
+            "title": "All the Monsters in Jane Eyre \u2039 CrimeReads",
+            "url": "https://crimereads.com/all-the-monsters-in-jane-eyre/"
+          },
+          {
+            "title": "The Mad Woman In The Attic | Literary Gitane",
+            "url": "https://literarygitane.wordpress.com/2019/10/18/the-mad-woman-in-the-attic/"
+          },
+          {
+            "title": "Jane Eyre The Madwoman in the Attic: Angel or Monster? | GradeSaver",
+            "url": "https://www.gradesaver.com/jane-eyre/study-guide/the-madwoman-in-the-attic-angel-or-monster"
+          },
+          {
+            "title": "Out of the Attic: A Caregiver\u2019s Rage and Jane Eyre",
+            "url": "https://lithub.com/out-of-the-attic-a-caregivers-rage-and-jane-eyre/"
+          },
+          {
+            "title": "The Madwoman |",
+            "url": "https://inthelandofliterature.wordpress.com/best-work-file/what-the-madwoman-did-in-the-attic/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about Bertha Mason as the \"madwoman in the attic\" in Jane Eyre, her Gothic symbolism, and psychoanalytic interpretations.\n\n## Bertha Mason as a Gothic Symbol\n\nBertha Mason, also known as the madwoman in the attic, is Mr. Rochester's first wife whom he keeps locked in a room on the third floor of Thornfield Hall.(no content)Bertha, who is embodies both the pervading mystery in the text (such as in female Gothic novels) and the \"monster\" (such as in male Gothic novels), helps develop both these aspects of the novel.(no content)Years of violence, insanity, and confinement in an attic destroy Bertha's looks: when she sees Bertha in the middle of the night, Jane describes Bertha as looking \"savage\", even going so far as to compare her with a \"vampire\". This vampiric imagery reinforces her role as a Gothic monster figure.\n\n## The Madwoman in the Attic: Feminist Literary Criticism\n\nBertha has become especially famous in literary criticism because her situation supplied the title and central theory of a major 1979 book of feminist criticism, Sandra Gilbert and Susan Gubar's The Madwoman in the Attic: The Woman Writer and the Nineteenth-Century Literary Imagination.(no content)Basically, the idea is that the intensely powerful, passionate, and talented woman who is seen as crazy and in need of confinement by the world represents the nineteenth-century woman writer, whose abilities threatened the dominant good-old-boy literary network.(no content)Two feminist critics, Sandra Gilbert and Susan Gubar in a 1979 book entitled The Madwoman in the Attic posited that she represents the subverted rage of Charlotte Bront\u00eb herself, the female voice stifled in literature who had to write the story under a male pseudonym or that she could be the evil doppelg\u00e4nger of Jane herself.\n\n## Psychoanalytic Interpretations\n\n### The Double/Doppelg\u00e4nger\n\nBertha serves as Jane's \"double\", juxtaposing the feminist character to a character constrained by domesticity.(no content)She is Jane's alter ego who acts out her darkest repressed desires.(no content)This type of 'doubling' is a motif prevalent in many Gothic novels.(no content)Secondly, she can be considered an embodiment of Jane's anger, which, like Bertha herself, is a socially unacceptable entity.(no content)Bertha Mason is the grotesque, angry, raging side of the female; Jane learns to tamp down her righteous anger and moments of rebellion as a child, and as an adult exercises utter self-control.\n\n### Symbol of Repressed Female Rage\n\nBertha is not a madwoman, she is an angry woman who we, her readers, have been calling psycho for years.(no content)As a baby Victorianist in the take-back-the-night 1990s, I cut my teeth on Sandra Gilbert and Susan Gubar's The Madwoman in the Attic, the foundational feminist critical work that in part looks at Bertha Mason as a symbol of repressed female rage.(no content)Reed's remark about Jane ('she talked to me once like something mad or like a fiend') as well as Jane's own estimate of her mental state ('I will hold to the principles received by me when I was sane, and not mad-as I am now.' And most dramatic of all, Bertha's incendiary tendencies recall Jane's early flaming rages, at Lowood and at Gateshead, as well as that 'ridge of lighted heath' which she herself saw as emblematic of her mind in its rebellion against society.\n\n## Colonial and Racial Symbolism\n\nRochester believes Bertha is ''mad'' because of her heritage, which represents the racist imperialist ideologies of the time, including the fear of a tainted family bloodline.(no content)In reality, Bertha likely has post-traumatic stress due to her community being colonized by Rochester's community. She was taken from her home in Jamaica, married a colonizer, and is now held prisoner by him and treated like a ''madwoman in the attic.''(no content)Her ethnicity is not clear; she is described as dark but was probably a white Creole woman, but even as a white woman she is viewed as the foreign 'other' compared to the 'civilized' English.\n\n## Gothic and Psychological Function\n\nFirstly, she is a symbol of Rochester's guilt.(no content)Rochester hides Bertha in the attic, just as he tries to suppress evidence of his tainted conscience- he states to Jane that is \"not a villain\"; rather, he was transformed into a \"trite, commonplace sinner\" due to \"circumstances, rather than [his] natural bent\"(no content)Although Bertha does serve as one of the seeming villains of the novel, she should be seen more as a critique of a society in which passionate woman are viewed as monsters or madwomen.(no content)\"It is cruel\u2014she cannot help being mad.\" Bertha represents the oppression of women in a patriarchal society.\n\n## Wide Sargasso Sea and Postcolonial Perspectives\n\nThe 1966 parallel novel Wide Sargasso Sea by Jean Rhys serves as a prequel to Bront\u00eb's novel. It is the story of Bertha (there called Antoinette Cosway) from the time of her youth in the Caribbean to her unhappy marriage and relocation to England. Rhys's novel re-imagines Bront\u00eb's devilish madwoman in the attic.(no content)Jean Rhys' novel Wide Sargasso Sea, written in 1966 is a prequel and a post colonial reading of Jane Eyre, narrating the story from the perspective of Bertha Mason. She literally brings her out of the closet..er..attic. She gives a voice to the silent woman and reveals how she was a victim of patriarchal and colonial hegemony.\n\nIn summary, Bertha Mason functions as a complex Gothic symbol representing multiple psychological and social themes: repressed female rage, the Victorian \"Other,\" colonial oppression, the dark double of the protagonist, and the monstrous feminine that society seeks to contain and control. Her presence in the attic serves as both a literal Gothic element and a powerful metaphor for the suppression of female passion, anger, and autonomy in Victorian society."
+    ],
+    "durationSeconds": 60.82858462099999
+  }
+}

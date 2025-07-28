@@ -1,0 +1,63 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Lowood School\" \"Cowan Bridge School\" Charlotte Bront\u00eb sisters inspiration real events"
+  },
+  "tool_response": {
+    "query": "\"Lowood School\" \"Cowan Bridge School\" Charlotte Bront\u00eb sisters inspiration real events",
+    "results": [
+      "I'll search for information about the connection between Lowood School, Cowan Bridge School, Charlotte Bront\u00eb, and her sisters.",
+      {
+        "tool_use_id": "srvtoolu_01VoxR4aJ9LM8gkUh7fdMj7y",
+        "content": [
+          {
+            "title": "Lowood Institute | COVE",
+            "url": "https://editions.covecollective.org/place/lowood-institute"
+          },
+          {
+            "title": "Bront\u00eb family - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Bront%C3%AB_family"
+          },
+          {
+            "title": "Lowood School: location and characters",
+            "url": "https://jane-eyre.guidesite.co.uk/lowood-school"
+          },
+          {
+            "title": "Remembering Charlotte Bront\u00eb - Hektoen International",
+            "url": "https://hekint.org/2017/02/01/remembering-charlotte-bronte/"
+          },
+          {
+            "title": "Jane Eyre - Charlotte Bronte's Inspirations for Lowood School | Green Coffee Beans HK | Specialty Coffee | Roasted | Geisha",
+            "url": "https://greencoffeehk.com/jane-eyre-charlotte-brontes-inspirations-for-lowood-school/"
+          },
+          {
+            "title": "Cowan Bridge School | COVE",
+            "url": "https://editions.covecollective.org/place/cowan-bridge-school"
+          },
+          {
+            "title": "10 Facts about the Bront\u00ebs, The Most Interesting Literary Family | Book Riot",
+            "url": "https://bookriot.com/who-were-the-brontes/"
+          },
+          {
+            "title": "Covecollective",
+            "url": "https://editions.covecollective.org/content/map-export/15143"
+          },
+          {
+            "title": "Jane Eyre - Charlotte Bronte's Inspirations for Lowood School - Bectoreb.com",
+            "url": "https://bectoreb.com/jane-eyre-charlotte-brontes-inspirations-for-lowood-school/"
+          },
+          {
+            "title": "Cowan Bridge, the Lowood School of Charlotte Bront\u00eb's \"Jane ...",
+            "url": "https://www.themorgan.org/literary-historical/443908"
+          }
+        ]
+      },
+      "Based on the search results, I can provide comprehensive information about the connection between Lowood School in Charlotte Bront\u00eb's \"Jane Eyre,\" Cowan Bridge School, and the real events that inspired the novel:\n\n## The Real School: Cowan Bridge\n\nCharlotte Bront\u00eb and her sisters attended Cowan Bridge School in Lancashire, England, which was a school that educated the children of less prosperous members of the clergy. The school was located in Cowan Bridge, a village in the county of Lancashire.\n\n## Timeline of the Bront\u00eb Sisters at Cowan Bridge\n\nIn July 1824, the two eldest Bront\u00eb sisters, Maria and Elizabeth, were sent to Cowan Bridge school. Their entry had been delayed because they were still delicate from having the whooping cough and measles in the spring. In August, Charlotte was sent and in November, Emily as well. Anne, who was only four, remained at home with her aunt while their brother Branwell was taught at home by his father.\n\n## The Tragic Deaths\n\nThe school experience ended in tragedy. In 1825, Maria and Elizabeth fell gravely ill and were removed from the school, later dying on 6 May and 15 June 1825, respectively. Typhoid Fever hit Cowan's Bridge in 1825. The illness was thought to be exacerbated by the poor nutrition and rough living conditions at the school. Both Maria and Elizabeth fell ill and died of tuberculosis. Charlotte and Emily were also withdrawn from the school and returned to Haworth.\n\n## Direct Inspiration for Jane Eyre\n\nThere is no doubt about Lowood being based on Cowan Bridge. The school is based upon Cowan Bridge School in Lancashire which Charlotte and her sisters attended as pupils. There is no doubt that descriptions of life at Lowood School in Charlotte Bront\u00eb's Jane Eyre are based on the sisters' own early experiences at Cowan Bridge School.\n\nElizabeth Gaskell, a personal friend and the first biographer of Charlotte, confirmed that Cowan Bridge was Charlotte's model for Lowood and insisted that conditions there in Charlotte's day were egregious.\n\n## Specific Characters Based on Real People\n\n### Helen Burns = Maria Bront\u00eb\nHelen Burns is based on Charlotte's eldest sister, Maria, who also died of consumption. The character of Helen Burns is generally thought to be modeled on Charlotte's eldest sister Maria, who died of consumption in 1825, aged only 11. The character Helen Burns, Jane Eyre's friend at Lowood, is based on Charlotte's lost sister Maria, who had been a mother-figure to her younger siblings ever since their real mother had died.\n\n### Mr. Brocklehurst = Rev. William Carus-Wilson\nIn Jane Eyre, the tyrannical headmaster Rev. Carus Wilson became Mr Brocklehurst. Mr. Brocklehurst has an original in the Reverend William Carus-Wilson (1791-1859), the founder of The Clergy Daughters' School.\n\n### Miss Scatcherd = Miss Andrews\nThe cruel mistress Miss Andrews inspired the headmistress Miss Scatcherd. Miss Scatcherd is apparently based on a Miss Andrews, who taught at Cowan Bridge school when the Bronte sisters attended.\n\n### Miss Temple = Ann Evans\nThe kindly superintendent Miss Temple who Jane develops a close friendship with has a real life counterpart in Ann Evans, who was the superintendent at Cowan Bridge school.\n\n## The Harsh Conditions\n\nCharlotte's vivid memories of the privations at Cowan Bridge were poured into her depiction of Lowood School in Jane Eyre: the scanty and often spoiled food, the lack of heating and adequate clothing, the periodic epidemics of illness such as \"low fever\" (probably typhus), the severity and arbitrariness of the punishments.\n\nMaria suffered from hunger, cold, and privation at Cowan Bridge School. Charlotte blamed Cowan Bridge for her sisters' deaths, especially its poor medical care\u2014chiefly, repeated emetics and blood-lettings\u2014and the negligence of the school's doctor, who was the director's brother-in-law.\n\n## Charlotte's Lasting Blame\n\nThe Lowood school setting in Charlotte Bront\u00eb's Jane Eyre is clearly inspired by the Bront\u00ebs' experiences at the Cowan Bridge School. Charlotte was not shy about blaming her sisters' deaths on the conditions at the school. Charlotte expressed the traumatic impact that her sisters' deaths had on her in her future works.\n\nThe connection between Lowood School and Cowan Bridge School is thus undeniable - Charlotte Bront\u00eb directly transformed her traumatic childhood experiences at Cowan Bridge, including the loss of her two eldest sisters, into the fictional Lowood School in \"Jane Eyre,\" creating one of the most powerful critiques of 19th-century educational institutions in English literature."
+    ],
+    "durationSeconds": 49.144573054000034
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "session_id": "fbc680e7-1eb0-4e03-89a6-2cdd410f922d",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/fbc680e7-1eb0-4e03-89a6-2cdd410f922d.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"The Hobbit\" YouTube BookTube reviews young adult content Polish youth contemporary relevance"
+  },
+  "tool_response": {
+    "query": "\"The Hobbit\" YouTube BookTube reviews young adult content Polish youth contemporary relevance",
+    "results": [
+      "I'll search for information about The Hobbit BookTube reviews focusing on young adult content and Polish youth perspectives on its contemporary relevance.",
+      {
+        "tool_use_id": "srvtoolu_01Fkvn8JVUFC89ML69yk2Ggu",
+        "content": [
+          {
+            "title": "Parent reviews for The Hobbit | Common Sense Media",
+            "url": "https://www.commonsensemedia.org/book-reviews/the-hobbit/user-reviews/adult"
+          },
+          {
+            "title": "Book Review: The Hobbit - Compass ...",
+            "url": "https://www.compassbookratings.com/the-hobbit/"
+          },
+          {
+            "title": "\"BookTube and the Formation of the Young Adult Canon\" by Melina Hughes",
+            "url": "https://pdxscholar.library.pdx.edu/eng_bookpubpaper/24/"
+          },
+          {
+            "title": "Kid reviews for The Hobbit | Common Sense Media",
+            "url": "https://www.commonsensemedia.org/book-reviews/the-hobbit/user-reviews/child"
+          },
+          {
+            "title": "Parent reviews for The Hobbit: An Unexpected Journey | Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/the-hobbit-an-unexpected-journey/user-reviews/adult"
+          },
+          {
+            "title": "The Hobbit Book Review | Common Sense Media",
+            "url": "https://www.commonsensemedia.org/book-reviews/the-hobbit"
+          },
+          {
+            "title": "BookTube and the Formation of the Young Adult Canon",
+            "url": "https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1024&context=eng_bookpubpaper"
+          },
+          {
+            "title": "What is BookTube? Popular Types of Content Found on BookTube",
+            "url": "https://blueroseone.com/publish/booktube-types-of-content-found-on-booktube/"
+          },
+          {
+            "title": "BookTube - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/BookTube"
+          },
+          {
+            "title": "The Hobbit: An Unexpected Journey: Video Review | Common Sense Media",
+            "url": "https://www.commonsensemedia.org/videos/the-hobbit-an-unexpected-journey-video-review"
+          }
+        ]
+      },
+      "Based on my search results, I found limited information specifically about Polish youth BookTube reviews of The Hobbit. However, I can provide some relevant insights about BookTube, young adult content, and The Hobbit's reception:\n\n## BookTube and Young Adult Content\n\nBookTube is a self-identified subsection of YouTube, where content creators, known as BookTubers, create videos with book-related content. Most BookTube channels are focused on Young Adult titles.(no content)While the majority of BookTubers focus on Young Adult literature, many address other genres.(no content)The BookTube community is diverse, with members ranging from young adult readers to older book enthusiasts.(no content)BookTube channels exist globally in English, Portuguese, Italian, French, and Spanish, among other languages.\n\n## The Hobbit as Young Adult Content\n\nOf J.R.R. Tolkien's many excellent books, The Hobbit is the better choice for tweens. It makes a great read-aloud for kids 8 and up and read-alone for 10 or 11 and up. This positions The Hobbit as appropriate for the young adult demographic that dominates BookTube.\n\nThe hobbit is a book written by J.R.R Tolkien and is a book I would highly recommend for any one 9 and above. The book features themes that resonate with young readers, including bravery, loyalty, cunning, and the guts to take a stand against friends blinded by greed so he can help bring about peace.\n\n## Contemporary Relevance\n\nWhile I didn't find specific information about Polish youth perspectives on The Hobbit's contemporary relevance, the search results indicate that BookTube continues to be an influential platform for book discussions. The BookTube community has been noted by social media consultants as a potential source of revenue growth for publishing houses.\n\nUnfortunately, the search didn't yield specific results about Polish BookTubers reviewing The Hobbit or discussing its contemporary relevance for Polish youth. To find more targeted information, you might need to search specifically for Polish BookTube channels or use Polish language search terms."
+    ],
+    "durationSeconds": 25.6668458120001
+  }
+}

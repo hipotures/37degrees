@@ -1,0 +1,256 @@
+{
+  "session_id": "9588e4fa-c119-4986-be3b-1d3af7769f8f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/9588e4fa-c119-4986-be3b-1d3af7769f8f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Brave New World\" translations \"first published\" German French Spanish Italian Russian chronological order"
+  },
+  "tool_response": {
+    "query": "\"Brave New World\" translations \"first published\" German French Spanish Italian Russian chronological order",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01RaYSw3G2QFag46SWTzxJkZ",
+        "content": [
+          {
+            "title": "Brave New World by Aldous Huxley | Context, Summary & Characters - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/brave-new-world-by-aldous-huxley-summary-characters-themes.html"
+          }
+        ]
+      },
+      "The search didn't return specific information about translations and their publication dates. Let me try a more targeted search focusing on the translation history.",
+      {
+        "tool_use_id": "srvtoolu_017wUTJLVea4PiLSUMrD63u5",
+        "content": [
+          {
+            "title": "Brave New World - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World"
+          },
+          {
+            "title": "Brave New World (TV series) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World_(TV_series)"
+          },
+          {
+            "title": "Brave New World | Summary, Context, & Reception | Britannica",
+            "url": "https://www.britannica.com/topic/Brave-New-World"
+          },
+          {
+            "title": "BRAVE NEW WORLD - Translation in German - bab.la",
+            "url": "https://en.bab.la/dictionary/english-german/brave-new-world"
+          },
+          {
+            "title": "Huxley's Brave New World Forecasts Technological Totalitarianism | EBSCO Research Starters",
+            "url": "https://www.ebsco.com/research-starters/history/huxleys-brave-new-world-forecasts-technological-totalitarianism"
+          },
+          {
+            "title": "Amazon.com: Brave New World( with the English Version as Present)(Bilingual Translation Yili Library): 9787544754682: Aldous Leonard Huxley: Books",
+            "url": "https://www.amazon.com/English-Version-Present-Bilingual-Translation/dp/7544754685"
+          },
+          {
+            "title": "Read Bilingual Book Brave New World in English with translation | AnyLang",
+            "url": "https://anylang.net/en/books/en/brave-new-world"
+          },
+          {
+            "title": "Brave New World Revisited (1958) by Aldous Huxley",
+            "url": "https://www.huxley.net/bnw-revisited/"
+          },
+          {
+            "title": "Brave New World | Encyclopedia.com",
+            "url": "https://www.encyclopedia.com/arts/educational-magazines/brave-new-world"
+          },
+          {
+            "title": "About Brave New World",
+            "url": "https://www.cliffsnotes.com/literature/b/brave-new-world/about-brave-new-world"
+          }
+        ]
+      },
+      "I found some information about the French title in the Wikipedia result. Let me search more specifically for the German and other language translations with their publication dates.",
+      {
+        "tool_use_id": "srvtoolu_01PvXsGKF3S4UZBT9FY2NKuU",
+        "content": [
+          {
+            "title": "Sch\u00f6ne neue Welt \u2013 Wikipedia",
+            "url": "https://de.wikipedia.org/wiki/Sch%C3%B6ne_neue_Welt"
+          },
+          {
+            "title": "Amazon.com: Aldous Huxley. Brave New World - Sch\u00f6ne neue Welt. In deutscher Sprache. (Lernmaterialien) (German Edition): 9783129281147: Kathleen Ellenrieder, Aldous Huxley: Books",
+            "url": "https://www.amazon.com/Aldous-Huxley-Brave-World-Lernmaterialien/dp/3129281142"
+          },
+          {
+            "title": "Sch\u00f6ne neue Welt/Wiedersehen mit der sch\u00f6nen neuen Welt by Aldous Huxley | Goodreads",
+            "url": "https://www.goodreads.com/book/show/7616032"
+          },
+          {
+            "title": "BRAVE NEW WORLD - Translation in German - bab.la",
+            "url": "https://en.bab.la/dictionary/english-german/brave-new-world"
+          },
+          {
+            "title": "Brave New World: The Correlation of Social Order and the Process of Literary Translation",
+            "url": "https://uwspace.uwaterloo.ca/items/ada6f876-b4a3-4912-88f6-abc77e80c22d"
+          },
+          {
+            "title": "Sch\u00f6ne Neue Welt by Aldous Huxley | Goodreads",
+            "url": "https://www.goodreads.com/book/show/24732856"
+          },
+          {
+            "title": "brave new world - Translation into German - examples English | Reverso Context",
+            "url": "https://context.reverso.net/translation/english-german/brave+new+world"
+          },
+          {
+            "title": "Brave New World - Aldous Huxley | S. Fischer Verlage",
+            "url": "https://www.fischerverlage.de/verlag/rights/book/aldous-huxley-schoene-neue-welt-9783596905737"
+          },
+          {
+            "title": "BRAVE NEW WORLD - Translation from English into German | PONS",
+            "url": "https://en.pons.com/translate/english-german/brave+new+world"
+          },
+          {
+            "title": "What is the translation of \"Sch\u00f6ne neue Welt\" in English?",
+            "url": "https://en.bab.la/dictionary/german-english/schoene-neue-welt"
+          }
+        ]
+      },
+      "Great! I found information about the German translation. Now let me search for the French translation information.",
+      {
+        "tool_use_id": "srvtoolu_018KQkoTiB1FgTwjEnya3pL9",
+        "content": [
+          {
+            "title": "Brave New World - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World"
+          },
+          {
+            "title": "Le Meilleur des mondes \u2014 Wikip\u00e9dia",
+            "url": "https://fr.wikipedia.org/wiki/Le_Meilleur_des_mondes"
+          },
+          {
+            "title": "Le meilleur des mondes: Huxley, Aldous, Castier, Jules: 9782266128568: Amazon.com: Books",
+            "url": "https://www.amazon.com/Meilleur-Mondes-French-Aldous-Huxley/dp/2266128566"
+          },
+          {
+            "title": "Amazon.com: Le Meilleur des Mondes (French Edition): 9782266113137: Huxley, Aldous: Books",
+            "url": "https://www.amazon.com/Meilleur-Mondes-French-Aldous-Huxley/dp/2266113135"
+          },
+          {
+            "title": "BRAVE NEW WORLD / LE MEILLEUR DES MONDES . ( Edition Bilingue : Anglais / Fran\u00e7ais ) eBook by Aldous Huxley - EPUB | Rakuten Kobo 1230001784862",
+            "url": "https://www.kobo.com/ww/en/ebook/brave-new-world-le-meilleur-des-mondes-edition-bilingue-anglais-francais"
+          },
+          {
+            "title": "Editions of Brave New World by Aldous Huxley",
+            "url": "https://www.goodreads.com/work/editions/3204877-brave-new-world"
+          },
+          {
+            "title": "brave new world | WordReference Forums",
+            "url": "https://forum.wordreference.com/threads/brave-new-world.513866/"
+          },
+          {
+            "title": "Le Meilleur des mondes (T\u00e9l\u00e9film 1998)",
+            "url": "https://www.imdb.com/title/tt0145600/"
+          },
+          {
+            "title": "BRAVE NEW WORLD - Translation in French - bab.la",
+            "url": "https://en.bab.la/dictionary/english-french/brave-new-world"
+          },
+          {
+            "title": "Brave New World translation into French, dictionary Czech French | Glosbe",
+            "url": "https://fr.glosbe.com/cs/fr/Brave%20New%20World"
+          }
+        ]
+      },
+      "Now let me search for the Spanish, Italian, and Russian translations with their publication dates.",
+      {
+        "tool_use_id": "srvtoolu_01Y9yLxWppriXssrM61SgCsQ",
+        "content": [
+          {
+            "title": "brave new world > Un mundo feliz - English to Spanish translation on #KudoZ Term Help Network.",
+            "url": "https://www.proz.com/kudoz/english-to-spanish/social-science-sociology-ethics-etc/908779-brave-new-world.html"
+          },
+          {
+            "title": "(PDF) Doing Justice to Aldous Huxley's Un mundo feliz: The Three Translations of Aldous Huxley's Brave New World into Spanish",
+            "url": "https://www.researchgate.net/publication/317568202_Doing_Justice_to_Aldous_Huxley's_Un_mundo_feliz_The_Three_Translations_of_Aldous_Huxley's_Brave_New_World_into_Spanish"
+          },
+          {
+            "title": "Brave New World | WordReference Forums",
+            "url": "https://forum.wordreference.com/threads/brave-new-world.2460446/"
+          },
+          {
+            "title": "Un mundo feliz / Brave New World (Spanish Edition): Huxley, Aldous: 9788466350945: Amazon.com: Books",
+            "url": "https://www.amazon.com/mundo-feliz-Brave-Contempor%C3%A1nea-Spanish/dp/8466350942"
+          },
+          {
+            "title": "Un mundo feliz / Brave New World (Spanish Edition) - Huxley, Aldous: 9788497594257 - AbeBooks",
+            "url": "https://www.abebooks.com/9788497594257/mundo-feliz-Brave-New-World-8497594258/plp"
+          },
+          {
+            "title": "Un mundo feliz/Brave New World (Spanish Edition): Huxley, Aldous: 9788484502418: Amazon.com: Books",
+            "url": "https://www.amazon.com/mundo-feliz-Brave-World-Spanish/dp/8484502414"
+          },
+          {
+            "title": "Un mundo feliz/Brave New World (Spanish Edition) - Huxley, Aldous: 9788484502418 - AbeBooks",
+            "url": "https://www.abebooks.com/9788484502418/mundo-felizBrave-New-World-Spanish-8484502414/plp"
+          },
+          {
+            "title": "Un mundo feliz / Brave New World (Contempor\u00e1nea) ...",
+            "url": "https://www.readinglength.com/book/isbn-8497594258"
+          },
+          {
+            "title": "Iron Maiden - Brave New World (Spanish translation)",
+            "url": "https://lyricstranslate.com/en/brave-new-world-un-mundo-feliz-un-mundo-nuevo-valiente.html"
+          },
+          {
+            "title": "Un mundo feliz / Brave New World (Spanish Edition): Huxley, Aldous: 9788497594257: Amazon.com: Books",
+            "url": "https://www.amazon.com/mundo-feliz-Brave-World-Spanish/dp/8497594258"
+          }
+        ]
+      },
+      "Now let me search for Italian and Russian translation information specifically.",
+      {
+        "tool_use_id": "srvtoolu_019ksZc86rqt5EpNvw8asftK",
+        "content": [
+          {
+            "title": "BRAVE NEW WORLD - Translation in Italian - bab.la",
+            "url": "https://en.bab.la/dictionary/english-italian/brave-new-world"
+          },
+          {
+            "title": "New World - Translation into Italian - examples English | Reverso Context",
+            "url": "https://context.reverso.net/translation/english-italian/New+World"
+          },
+          {
+            "title": "Il mondo nuovo - Wikipedia",
+            "url": "https://it.wikipedia.org/wiki/Il_mondo_nuovo"
+          },
+          {
+            "title": "brave new world - Translation into Italian - examples English | Reverso Context",
+            "url": "https://context.reverso.net/translation/english-italian/brave+new+world"
+          },
+          {
+            "title": "Editions of Brave New World and Brave New World Revisited by Aldous Huxley",
+            "url": "https://www.goodreads.com/work/editions/39947767-brave-new-world-brave-new-world-revisited"
+          },
+          {
+            "title": "IL MONDO NUOVO - Translation in English - bab.la",
+            "url": "https://en.bab.la/dictionary/italian-english/il-mondo-nuovo"
+          },
+          {
+            "title": "Brave New - Translation into Italian - examples English | Reverso Context",
+            "url": "https://context.reverso.net/translation/english-italian/Brave+New"
+          },
+          {
+            "title": "NEW WORLD - Translation in Italian - bab.la",
+            "url": "https://en.bab.la/dictionary/english-italian/new-world"
+          },
+          {
+            "title": "Ritorno al mondo nuovo - Wikipedia",
+            "url": "https://it.wikipedia.org/wiki/Ritorno_al_mondo_nuovo"
+          },
+          {
+            "title": "IL MONDO NUOVO - traduzione in inglese - dizionario italiano-inglese di bab.la",
+            "url": "https://it.bab.la/dizionario/italiano-inglese/mondo-nuovo"
+          }
+        ]
+      },
+      "Based on my search results, I can provide you with information about the translations of \"Brave New World\" into these languages, though complete chronological publication dates are not available for all translations.\n\nHere's what I found about the translations of Aldous Huxley's \"Brave New World\":\n\n## German Translation\nThe novel was translated into German already in the year it was published, 1932, by Herberth E. Herlitschka under the title \"Welt \u2013 wohin?\" (World \u2013 Where to?)(no content)Later, in 1978, the East German publisher Das Neue Berlin published a new translation by Eva Walch entitled \"Sch\u00f6ne neue Welt\"\n\n## French Translation  \nThe French edition is entitled \"Le Meilleur des mondes\" (The Best of All Worlds), an allusion to an expression used by the philosopher Gottfried Leibniz and satirised in Candide by Voltaire (1759)(no content)The novel was written in 1931 and published in 1932\n\n## Spanish Translation\nThe Spanish translation is titled \"Un mundo feliz\" in every edition of the book(no content)There have been three translations into Spanish of Aldous Huxley's \"Brave New World\"\n\n## Italian Translation\nThe Italian translation is titled \"Il mondo nuovo\"(no content)The Italian translation by Lorenzo Gigli was published by Mondadori in 1933\n\n## Russian Translation\nWhile I found references to Russian translations in some search results, I did not find specific publication date information for the first Russian translation.\n\n## Chronological Summary\nBased on the available information:\n\n1. **1932**: German - \"Welt \u2013 wohin?\" by Herberth E. Herlitschka (same year as original publication)\n2. **1932**: French - \"Le Meilleur des mondes\" (same year as original publication)  \n3. **1933**: Italian - \"Il mondo nuovo\" by Lorenzo Gigli\n\nFor Spanish and Russian translations, while I found confirmation that they exist (\"Un mundo feliz\" for Spanish), I could not locate specific first publication dates in my search results to provide an accurate chronological ordering for these languages.\n\nThe novel was eventually translated into nineteen languages and continued to enjoy respectable sales throughout the remainder of the century"
+    ],
+    "durationSeconds": 41.5778865860001
+  }
+}

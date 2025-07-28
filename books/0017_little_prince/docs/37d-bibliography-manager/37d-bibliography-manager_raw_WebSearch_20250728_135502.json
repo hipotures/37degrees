@@ -1,0 +1,63 @@
+{
+  "session_id": "bb5bd92f-2e06-46b2-9b84-f65c0578b080",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/bb5bd92f-2e06-46b2-9b84-f65c0578b080.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Ma\u0142y Ksi\u0105\u017c\u0119\" Polish translations Jan Szwykowski Marta Malicka educational materials Polish scholars bibliography"
+  },
+  "tool_response": {
+    "query": "\"Ma\u0142y Ksi\u0105\u017c\u0119\" Polish translations Jan Szwykowski Marta Malicka educational materials Polish scholars bibliography",
+    "results": [
+      "I'll search for information about Polish translations of \"The Little Prince\" (Ma\u0142y Ksi\u0105\u017c\u0119) by Jan Szwykowski and Marta Malicka, along with educational materials and scholarly bibliography.",
+      {
+        "tool_use_id": "srvtoolu_01PWLTEZGVQGyr2XKW4Gg21E",
+        "content": [
+          {
+            "title": "Jan Szwykowski (Translator of Ma\u0142y Ksi\u0105\u017c\u0119)",
+            "url": "https://www.goodreads.com/author/show/2966428.Jan_Szwykowski"
+          },
+          {
+            "title": "The little prince rules. | Sobieski Antiquarian Bookstore",
+            "url": "https://antyksobieski.pl/blog/en/the-little-prince-rules-sobieski-antiquarian-bookstore"
+          },
+          {
+            "title": "\u201eMa\u0142y Ksi\u0105\u017c\u0119\u201d Antoine de Saint-Exup\u00e9ry - w.bibliotece.pl",
+            "url": "https://w.bibliotece.pl/1416548/Ma\u0142y+Ksi\u0105\u017c\u0119"
+          },
+          {
+            "title": "Ma\u0142y Ksi\u0105\u017ce - Prawe ksi\u0105\u017cki",
+            "url": "https://praweksiazki.pl/dla-dzieci/1829-maly-ksiaze-9788374954006.html"
+          },
+          {
+            "title": "Download Saint-Exup\u00e9ry Antoine de. Ma\u0142y Ksi\u0105\u017c\u0119 [AUDIO] - Sciarium",
+            "url": "https://sciarium.com/file/14998/"
+          },
+          {
+            "title": "Jan Szwykowski",
+            "url": "https://virtualo.pl/jan-szwykowski-t2081/"
+          },
+          {
+            "title": "Lis, a mo\u017ce Lisica? \u041e przek\u0142adzie osobowych nazw w\u0142asnych w \u201eMa\u0142ym Ksi\u0119ciu\u201d Antoine\u2019a de Saint-Exup\u00e9ry\u2019ego | P\u00f3\u0142rocznik J\u0119zykoznawczy Tertium",
+            "url": "https://journal.tertium.edu.pl/JaK/article/view/201"
+          },
+          {
+            "title": "Ma\u0142y ksi\u0105\u017c\u0119 - Jan Szwykowski | ksi\u0105\u017cka w tezeusz.pl ksi\u0105\u017cki promocje, u\u017cywane ksi\u0105\u017cki, nowo\u015bci wydawnicze",
+            "url": "https://tezeusz.pl/maly-ksiaze-jan-szwykowski"
+          },
+          {
+            "title": "Ma\u0142y Ksi\u0105\u017c\u0119 \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Ma\u0142y_Ksi\u0105\u017c\u0119"
+          },
+          {
+            "title": "Ma\u0142y Ksi\u0105\u017c\u0119 - Prolib Integro",
+            "url": "https://opac.r-sl.pl/952500184360/saint-exupery-antoine-de/maly-ksiaze?bibFilter=95&agFilter=16"
+          }
+        ]
+      },
+      "Based on my search results, I can provide you with comprehensive information about Polish translations of \"The Little Prince\" (Ma\u0142y Ksi\u0105\u017c\u0119), particularly focusing on Jan Szwykowski and Marta Malicka's translations, along with educational materials and scholarly bibliography.\n\n## Polish Translations of \"The Little Prince\"\n\n### First Polish Translation - Marta Malicka (1947)\n\nPolish was the first language in the world (aside from English) into which \"The Little Prince\" was translated. The book was published by Sp\u00f3\u0142dzielnia Wydawnicza P\u0142omienie in Marta Malicka's translation just two years after the war ended (Warsaw, 1947). However, Malicka's translation was not very popular, perhaps because of its low circulation and limited availability.\n\n### Jan Szwykowski's Translation (1958)\n\nIn 1958, Pax published the first edition in the most popular Polish translation by Jan Szwykowski. It is his version of The Little Prince that most Poles cite. The version in Szwykowski's translation has had the most editions \u2013 over 50 (as of 2024).\n\nJan Szwykowski's translation has been used in various formats:\n- Published by MUZA SA in 2013 with the author's original illustrations (ISBN 978-83-7495-400-6)\n- Audio version narrated by Micha\u0142 \u017bebrowski, produced by Sony Music Entertainment Poland in 2009\n\n## Other Polish Translations\n\nThe search results reveal an extensive list of Polish translators who have worked on \"The Little Prince\":\n\nThe primary research corpus consists of the original French version of the novel and fifteen selected Polish translations published between 1947-2021. These include translations by:\n\n1. Marta Malicka (1947, Wydawnictwo \"Siedmior\u00f3g\")\n2. Jan Szwykowski (1958, Instytut Wydawniczy PAX)\n3. Wiera and Zbigniew Bie\u0144kowski (1961, Pa\u0144stwowy Instytut Wydawniczy)\n4. Marta Cywi\u0144ska (1993, Krajowa Agencja Wydawnicza \"B\")\n5. Miros\u0142awa D\u0119bska (199?, Klasyka)\n6. Ewa \u0141ozi\u0144ska-Ma\u0142kiewicz (1997, Algo \u2013 Wydawnictwo)\n7. Barbara Przyby\u0142owska (1998, Firma Ksi\u0119garska Olesiejuk)\n8. Halina Kozio\u0142 (1999, Zielona Sowa)\n9. Zofia Barchanowska (2002, Agencja Artystyczna Prospero)\n10. Anna Pikor-P\u00f3\u0142torak (2015, IBIS \u2013 Wydawnictwo)\n11. Dorota Spyrka (2016, Wydawnictwo Zielona Sowa)\n12. Agata Kozak (2021, available on wolnelektury.pl)\n\n## Scholarly Research and Educational Materials\n\n### Academic Articles\n\nOne significant scholarly work found is:\nAn article dedicated to the translation of personal proper names in Antoine de Saint-Exup\u00e9ry's \"The Little Prince\" into Polish. The main goal of the work is to show possible interpretations of the origins of the main characters' names (references to rose and fox symbols functioning in literature and culture, and demonstrating connections between \"The Little Prince\" characters and real people from the writer's circle), as well as attempting to analyze translation strategies chosen by Polish translators in terms of compliance with the original text.\n\n### Educational Use\n\nThe translations, particularly Szwykowski's version, appear to be widely used in educational contexts:\n- It is described as \"the most beautiful poetic tale about the search for friendship, close to every reader's heart thanks to its timeless wisdom. Since 1943, it has been published in millions of copies worldwide\"\n- Multiple publishers have released educational editions with various formats suitable for classroom use\n\n## Bibliography and Publishing Details\n\nKey bibliographic information for the main translations:\n\n**Marta Malicka's translation:**\n- Saint-Exup\u00e9ry, Antoine de ([1947] 1997) Ma\u0142y Ksi\u0105\u017c\u0119 [Le Petit Prince. Paris: Gallimard]. (trans.) Marta Malicka. Warsaw: Wydawnictwo \"Siedmior\u00f3g\"\n\n**Jan Szwykowski's translation:**\n- Saint-Exup\u00e9ry, Antoine de ([1958] 1991) Ma\u0142y Ksi\u0105\u017c\u0119 [Le Petit Prince. Paris: Gallimard] (trans.) Jan Szwykowski. Warsaw: Instytut Wydawniczy PAX\n\nThe search results indicate that \"The Little Prince\" in Polish translation, especially Szwykowski's version, has become a cornerstone of Polish literary culture and continues to be used extensively in educational settings, with numerous scholarly works analyzing various aspects of the translations."
+    ],
+    "durationSeconds": 48.55097504799999
+  }
+}

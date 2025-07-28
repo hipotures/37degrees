@@ -1,0 +1,22 @@
+{
+  "session_id": "7ca65eb2-e5d0-4143-8931-90f15001b62e",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7ca65eb2-e5d0-4143-8931-90f15001b62e.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Anna Karenina\" matura CKE arkusze egzaminacyjne polskie"
+  },
+  "tool_response": {
+    "query": "\"Anna Karenina\" matura CKE arkusze egzaminacyjne polskie",
+    "results": [
+      "I'll search for Polish high school exam materials related to \"Anna Karenina\" for you.",
+      {
+        "tool_use_id": "srvtoolu_015hQECtsNRVcbcMQkqasumk",
+        "content": []
+      },
+      "Based on my search, I found several resources related to \"Anna Karenina\" in Polish matura (high school final) exams:\n\nThe novel \"Anna Karenina\" by Leo Tolstoy has appeared in matura exam papers, particularly in extended-level Polish language exams. In the May 2023 matura exam, there was a task requiring analysis of a fragment from \"Anna Karenina\".\n\nCKE (Centralna Komisja Egzaminacyjna - Central Examination Commission) provides official exam papers and answer keys on their website. Past matura exam papers, including those featuring \"Anna Karenina\", can be found in the CKE archives.\n\nFor study materials:\n- Various educational platforms offer practice materials and analyses of \"Anna Karenina\" fragments that have appeared in matura exams\n- Study guides often include character analyses, themes, and potential essay topics related to the novel(no content)The novel is part of the reading list for extended-level Polish language matura, which means students should be prepared to analyze excerpts and write essays about various aspects of the work.\n\nTo access specific exam papers featuring \"Anna Karenina\", you can visit the official CKE website (cke.gov.pl) where they archive past matura exams with their answer keys and scoring guidelines."
+    ],
+    "durationSeconds": 16.502400408999993
+  }
+}

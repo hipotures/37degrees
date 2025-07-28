@@ -1,0 +1,63 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Teresa Jele\u0144ska Animal Farm Polish translation 1946-1947 first Slavic language verification \u015awiatpol London"
+  },
+  "tool_response": {
+    "query": "Teresa Jele\u0144ska Animal Farm Polish translation 1946-1947 first Slavic language verification \u015awiatpol London",
+    "results": [
+      "I'll search for information about Teresa Jele\u0144ska's Polish translation of Animal Farm from 1946-1947 and its verification as the first Slavic language translation published by \u015awiatpol in London.",
+      {
+        "tool_use_id": "srvtoolu_01XdHPnd7faCvwULHA4MBXfB",
+        "content": [
+          {
+            "title": "Orwell in Translation - European studies blog",
+            "url": "https://blogs.bl.uk/european/2017/11/orwell-in-translation.html"
+          },
+          {
+            "title": "Masha Karp on the Ukrainian translation of Animal Farm",
+            "url": "https://orwellfoundation.substack.com/p/the-ukrainian-translation-of-animal-farm-excerpt-from-masha-karps-orwell-and-russia"
+          },
+          {
+            "title": "An original Polish \u2018samizdat\u2019 of Orwell\u2019s Animal Farm",
+            "url": "https://bellacaledonia.org.uk/2012/11/05/animal-farm-samizdat/"
+          },
+          {
+            "title": "Animal Farm - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Animal_Farm"
+          },
+          {
+            "title": "(PDF) Orwell and the Poles: The Case of 'Animal Farm' | Krystyna Wieszczek - Academia.edu",
+            "url": "https://www.academia.edu/38849855/Orwell_and_the_Poles_The_Case_of_Animal_Farm"
+          },
+          {
+            "title": "Polish Communists Speak - Oni. By Teresa Toranska. London: Aneks, 1985. 366 pp. | Slavic Review | Cambridge Core",
+            "url": "https://www.cambridge.org/core/journals/slavic-review/article/abs/polish-communists-speak-oni-by-teresa-toranska-london-aneks-1985-366-pp/96F11E096D8C0373B2C4163491EF9803"
+          },
+          {
+            "title": "Folwark Zwierz\u0119cy -Animal Farm- Polish 1947 | Country House Library - Country House Library",
+            "url": "https://countryhouselibrary.co.uk/products/folwark-zwierzecy-george-orwells-animal-farm-polish-edition-1947"
+          },
+          {
+            "title": "Teresa Lynn Polowy, 1953\u20132015 | Slavic Review | Cambridge Core",
+            "url": "https://www.cambridge.org/core/journals/slavic-review/article/teresa-lynn-polowy-19532015/1835C0D8877AEB69B53FCA45C8B49BC0"
+          },
+          {
+            "title": "Poland's forgotten Nobel winner who wrote \"Animal Farm\" before Orwell",
+            "url": "https://notesfrompoland.com/2019/10/24/polands-forgotten-nobel-winner-who-wrote-animal-farm-20-years-before-orwell/"
+          },
+          {
+            "title": "Orwell George - Animal Farm. Translated from the English by Teresa Jele\u0144ska. London 1974 Renewal - Online auction / Online bidding - Price - OneBid",
+            "url": "https://one.bid/en/ksiazki-i-starodruki-orwell-george-folwark-zwierzecy-przelozyla-z-ang-teresa-jelenska-londyn-1974-odnowa/1967591"
+          }
+        ]
+      },
+      "Based on my search results, I can provide comprehensive information about Teresa Jele\u0144ska's Polish translation of Animal Farm:\n\n## Key Findings:\n\nTeresa Jele\u0144ska, the wife of a Polish diplomat and a \"grande dame\" in Italo-English literary circles, made the first Polish translation of Animal Farm, which was published at the turn of 1946 and 1947 in London by the League of Poles Abroad (\u015awiatpol), with 5000 copies printed.(no content)The search results confirm that Slavic languages (Polish, Ukrainian, Russian) were among the first translations of Animal Farm. This verifies that Teresa Jele\u0144ska's Polish translation was indeed one of the earliest translations of Orwell's work.\n\n## Timeline and Publishing Details:\n\nThe first Polish edition was published as \"London: \u015awiatpol, 1947\" in Teresa Jele\u0144ska's 1946/1947 translation. The translation work appears to have been completed in 1946, with publication occurring at the very end of 1946 or early 1947.\n\n## Teresa Jele\u0144ska's Role:\n\nJele\u0144ska corresponded with Orwell, elucidating some passages with his help, and was so fascinated by the fable that she tried to organise its translation into other languages as well.(no content)Teresa Jele\u0144ska was also instrumental in putting her son's friend, a young Polish-born Ukrainian Ihor Szewczenko, in touch with Orwell, which led to the Ukrainian translation of Animal Farm.\n\n## Historical Context:\n\nThe Polish translation preceded several other major translations. The French publication appeared later than expected, only in October 1947, because the French publisher got \"cold feet\" due to political reasons. This highlights how early the Polish translation was in comparison to other Western European languages.\n\nThere is mention of \"Orwell's letters to Teresa Jele\u0144ska deemed lost by Orwell scholars,\" suggesting there was correspondence between them during the translation process.\n\n## Verification as First Slavic Translation:\n\nThe search results strongly support that Teresa Jele\u0144ska's Polish translation was the first Slavic language translation of Animal Farm, published by \u015awiatpol in London in 1946-1947, preceding both the Ukrainian translation (1947) and other Slavic translations."
+    ],
+    "durationSeconds": 27.591500644999556
+  }
+}

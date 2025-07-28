@@ -1,0 +1,62 @@
+{
+  "session_id": "ad0134af-ec8f-4d33-afa8-be303b4ad42f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ad0134af-ec8f-4d33-afa8-be303b4ad42f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Alice in Wonderland mental health Gen Z depression anxiety identity crisis therapy 2024 2025"
+  },
+  "tool_response": {
+    "query": "Alice in Wonderland mental health Gen Z depression anxiety identity crisis therapy 2024 2025",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01YZMxxnDixC49eB9gjXUSQE",
+        "content": [
+          {
+            "title": "Youth Mental Health Trends in 2025 | JED",
+            "url": "https://jedfoundation.org/what-we-expect-in-2025-new-years-trends-in-youth-mental-health/"
+          },
+          {
+            "title": "The Mental Health Syndrome Known as Alice in Wonderland - A Case Report",
+            "url": "https://journalindj.com/index.php/INDJ/article/view/344"
+          },
+          {
+            "title": "Alice in Wonderland: A Journey Through Mental Health",
+            "url": "https://neurolaunch.com/alice-in-wonderland-mental-illness/"
+          },
+          {
+            "title": "Does Alice in Wonderland Syndrome Cause Anxiety or Depression?",
+            "url": "https://www.unitedwecare.com/alice-in-wonderland-syndrome-anxiety-depression/"
+          },
+          {
+            "title": "Alice in Wonderland Syndrome: Symptoms, Causes, and Treatment for AIWS",
+            "url": "https://californiaprimerecovery.com/alice-in-wonderland-syndrome/"
+          },
+          {
+            "title": "Alice in Wonderland Syndrome (AIWS): Symptoms & Treatment",
+            "url": "https://my.clevelandclinic.org/health/diseases/24491-alice-in-wonderland-syndrome-aiws"
+          },
+          {
+            "title": "Alice in Wonderland \u2013 A Borderline Personality Tale",
+            "url": "https://www.energeticsinstitute.com.au/alice-in-wonderland-borderline-personality/"
+          },
+          {
+            "title": "What Mental Health Disorder Does Alice In Wonderland Have",
+            "url": "https://health-root.com/which-mental-illness-does-alice-in-wonderland.html"
+          },
+          {
+            "title": "The Psychological & Neurological Disorders Experienced by Characters in Alice in Wonderland: A Neuroscience Reading of Lewis Carroll's Classic Tale | Open Culture",
+            "url": "https://www.openculture.com/2018/01/the-psychological-neurological-disorders-experienced-by-characters-in-alice-in-wonderland.html"
+          },
+          {
+            "title": "The Perplexing Mental Health Comorbidity of Alice in Wonderland Syndrome (AIWS): A Case Study",
+            "url": "https://www.mdpi.com/2673-5318/4/1/5"
+          }
+        ]
+      },
+      "I found information connecting Alice in Wonderland themes to mental health issues relevant to Gen Z, as well as specific information about Alice in Wonderland Syndrome (AIWS) and its psychological impacts. Here's what the search revealed:\n\n## Mental Health Themes in Alice in Wonderland Literature\n\nAlice in Wonderland touches on a wide range of mental health issues including dissociative identity disorder, depression, anxiety, and eating disorders.(no content)Alice's fear and confusion as she navigates unfamiliar situations mirrors the overwhelming sensations many people with anxiety disorders face daily, with the feeling of being lost in a world that doesn't make sense being a common thread between Alice's adventures and mental health challenges.(no content)The sense of isolation Alice feels echoes the loneliness and disconnection often associated with depression, with the gloomy atmosphere of certain parts of Wonderland serving as a metaphor for the emotional landscape of depression.\n\n## Alice in Wonderland Syndrome (AIWS) and Mental Health\n\nA study found that Alice in Wonderland Syndrome symptoms include depression, anxiety, frequent panic attacks, and comorbid migraine.(no content)Due to the distorted body image perception, people suffering from the syndrome are most likely to undergo depression, with the distortions and hallucinations terrifying individuals and giving rise to anxiety and panic.(no content)The disorienting nature of AIWS can contribute to feelings of anxiety or depression, as individuals may feel disconnected from reality or fear the recurrence of episodes.(no content)Over time, the uncertainty and unpredictability of AIWS episodes can lead to heightened stress and even depression, with coping requiring therapy and support from healthcare professionals.\n\n## Youth Mental Health Context (2024-2025)\n\nIn 2024, 45% of young people ages 10 to 24 reported struggling with their mental health within the past two years, and 29% had engaged in or considered self-harm.(no content)Deep divisions, conflicts, financial insecurities, pandemic impacts, economic anxieties, and climate change all remain present and can negatively impact the emotional well-being of teens and young adults.\n\n## Treatment and Therapy Connections\n\nTreatment for AIWS focuses on managing underlying conditions like migraines or infections, with medications or therapy to alleviate symptoms.(no content)Stories like Alice in Wonderland are part of a broader cultural conversation about mental health, helping to foster understanding and empathy.\n\nThe search results show a clear connection between Alice in Wonderland themes and contemporary mental health discussions, particularly around anxiety, depression, and identity issues that resonate with Gen Z experiences in 2024-2025."
+    ],
+    "durationSeconds": 24.197207936999853
+  }
+}

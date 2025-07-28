@@ -1,0 +1,63 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Currer Bell\" \"Ellis Bell\" \"Acton Bell\" Bront\u00eb sisters pseudonyms reason prejudice authoresses"
+  },
+  "tool_response": {
+    "query": "\"Currer Bell\" \"Ellis Bell\" \"Acton Bell\" Bront\u00eb sisters pseudonyms reason prejudice authoresses",
+    "results": [
+      "I'll search for information about the Bront\u00eb sisters' pseudonyms and the reasons behind their use.",
+      {
+        "tool_use_id": "srvtoolu_01Ait7YeKfUD5RmcR396Mk41",
+        "content": [
+          {
+            "title": "Who Were The Real Currer, Ellis and Acton Bell? \u2013 Anne Bront\u00eb",
+            "url": "https://www.annebronte.org/2017/03/26/who-were-the-real-currer-ellis-and-acton-bell/"
+          },
+          {
+            "title": "Biographical Notice of Ellis and Acton Bell | LiteraryLadiesGuide",
+            "url": "https://www.literaryladiesguide.com/literary-musings/biographical-notice-of-ellis-and-acton-bell/"
+          },
+          {
+            "title": "Charlotte Bront\u00eb - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Charlotte_Bront%C3%AB"
+          },
+          {
+            "title": "Poems by Currer, Ellis, and Acton Bell - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Poems_by_Currer,_Ellis,_and_Acton_Bell"
+          },
+          {
+            "title": "The Moving Stories Of Currer, Ellis and Acton Bell \u2013 Anne Bront\u00eb",
+            "url": "http://www.annebronte.org/2018/12/11/the-moving-stories-of-currer-ellis-and-acton-bell/"
+          },
+          {
+            "title": "Bront\u00eb family - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Bront%C3%AB_family"
+          },
+          {
+            "title": "Emily Bront\u00eb - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Emily_Bront%C3%AB"
+          },
+          {
+            "title": "[FREE] The Bront\u00eb sisters published their novels under the pseudonyms Currer Bell, Ellis Bell, and Acton Bell. Why - brainly.com",
+            "url": "https://brainly.com/question/8047361"
+          },
+          {
+            "title": "What\u2019s In A Name? The Bronte Pen Names \u2026",
+            "url": "https://gonetotheheather.com/2020/01/13/whats-in-a-name-the-bronte-pen-names/"
+          },
+          {
+            "title": "Why did Emily Bronte use a pen name? - Quora",
+            "url": "https://www.quora.com/Why-did-Emily-Bronte-use-a-pen-name"
+          }
+        ]
+      },
+      "The search results provide comprehensive information about the Bront\u00eb sisters' use of pseudonyms. Here's what I found:\n\n## The Bront\u00eb Sisters and Their Pseudonyms\n\nCurrer Bell was Charlotte Bront\u00eb, Ellis Bell was Emily Bront\u00eb, and Acton Bell was Anne Bront\u00eb.(no content)The three sisters published their first work, \"Poems by Currer, Ellis, and Acton Bell,\" jointly in 1846.\n\n## Reasons for Using Male Pseudonyms\n\nThe primary reason for adopting male pseudonyms was to avoid prejudice against female writers. Charlotte, in the biographical notices of her sisters she composed after their death, explained why they had used ostensibly male names: 'We did not like to declare ourselves women, because we had a vague impression that authoresses are liable to be looked on with prejudice'.(no content)Charlotte further elaborated: \"the ambiguous choice being dictated by a sort of conscientious scruple at assuming Christian names positively masculine, while we did not like to declare ourselves women, because \u2014 without at that time suspecting that our mode of writing and thinking was not what is called 'feminine' \u2014 we had a vague impression that authoresses are liable to be looked on with prejudice\" and that critics sometimes used \"the weapon of personality\" against female writers.\n\nTo evade contemporary prejudice against female writers, the Bront\u00eb sisters adopted masculine first names.(no content)Emily Bront\u00eb above all prized anonymity and secrecy, so it is likely to be she rather than her sisters who pressed for the use of pseudonyms when presenting their work.\n\n## The Choice of Names\n\nAll three retained the first letter of their first names: Charlotte became Currer Bell, Emily became Ellis Bell, and Anne became Acton Bell. \n\nAs for the surname \"Bell,\" several theories exist:\n- The surname Bell could have been chosen simply because of the sound of the bells from their father's St. Michael's and All Angels church, a short stroll from the Parsonage in which they lived.\n- Another option is that they may have borrowed part of the name of their father's new assistant curate \u2013 Arthur Bell Nicholls.\n- By removing the middle letters of the name they could disguise it so that B(ranw)ell becomes simply B'ell or Bell.\n\nFor the first names:\n- Charlotte Bront\u00eb was for a short while a governess to the Sidgwick family of Stone Gappe at Lothersdale, North Yorkshire. The neighbouring property of Eshton Hall, a huge mansion near Skipton, belonged to a Miss Frances Mary Richardson Currer.\n- Acton Bell may have taken 'his' name from Eliza Acton. Largely forgotten now, she was a cookery writer and more importantly a poetess of note in the early to mid nineteenth century, and likely to have been read by Anne in the magazines that the sisters enjoyed, passed on from their father.\n\n## Impact and Success\n\nThe first edition failed to attract interest, with only two copies being sold. However, Charlotte's second novel, Jane Eyre, was published in 1847. The sisters' true identities were revealed in 1848, and by the following year Charlotte was known in London literary circles.(no content)In July 1848, Charlotte and Anne (Emily had refused to go along with them) travelled by train to London to prove to Smith, Elder & Co. that each sister was indeed an independent author, for Thomas Cautley Newby, the publisher of Wuthering Heights and Agnes Grey, had launched a rumour that the three novels were the work of one author, understood to be Ellis Bell (Emily). George Smith was extremely surprised to find two gawky, ill-dressed country girls paralysed with fear, who, to identify themselves, held out the letters addressed to Messrs. Acton, Currer and Ellis Bell.\n\nThe use of pseudonyms was a strategic decision that allowed the Bront\u00eb sisters to navigate the literary world of Victorian England, where female authors faced significant prejudice and were not taken as seriously as their male counterparts."
+    ],
+    "durationSeconds": 46.502688252999974
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "session_id": "bb5bd92f-2e06-46b2-9b84-f65c0578b080",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/bb5bd92f-2e06-46b2-9b84-f65c0578b080.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Ma\u0142y Ksi\u0105\u017c\u0119\" TikTok BookTok polska m\u0142odzie\u017c materia\u0142y edukacyjne Bryk.pl"
+  },
+  "tool_response": {
+    "query": "\"Ma\u0142y Ksi\u0105\u017c\u0119\" TikTok BookTok polska m\u0142odzie\u017c materia\u0142y edukacyjne Bryk.pl",
+    "results": [
+      "I'll search for information about \"The Little Prince\" (Ma\u0142y Ksi\u0105\u017c\u0119) in the context of TikTok BookTok, Polish youth, educational materials, and Bryk.pl.",
+      {
+        "tool_use_id": "srvtoolu_01THxWuFKJQhG2maUBaZn9nH",
+        "content": [
+          {
+            "title": "Ma\u0142y Ksi\u0105\u017c\u0119 \u2013 opracowanie lektury - \u015aci\u0105gi, wypracowania, lektury - Bryk.pl",
+            "url": "https://www.bryk.pl/wypracowania/jezyk-polski/lektury/17545-maly-ksiaze-opracowanie-lektury.html"
+          },
+          {
+            "title": "\u201eMa\u0142y Ksi\u0105\u017c\u0119\u201d - streszczenie - \u015aci\u0105gi, wypracowania, lektury - Bryk.pl",
+            "url": "https://www.bryk.pl/wypracowania/jezyk-polski/lektury/6997-maly-ksiaze-streszczenie.html"
+          },
+          {
+            "title": "Ma\u0142y ksi\u0105\u017c\u0119 - Filmy edukacyjne, materia\u0142y dydaktyczne, \u015bci\u0105gi online | edudu.pl",
+            "url": "http://edudu.pl/szukaj-Ma%C5%82y-ksi%C4%85%C5%BC%C4%99"
+          },
+          {
+            "title": "Ma\u0142y Ksi\u0105\u017c\u0119 - Film w Szkole",
+            "url": "https://filmwszkole.pl/film/maly-ksiaze/"
+          },
+          {
+            "title": "\"Ma\u0142y Ksi\u0105\u017c\u0119\" o doros\u0142ych - Zintegrowana Platforma Edukacyjna",
+            "url": "https://zpe.gov.pl/a/maly-ksiaze-o-doroslych/D1qQMaEF7"
+          },
+          {
+            "title": "\"Ma\u0142y Ksi\u0105\u017c\u0119\" i symbole - \"Ma\u0142y Ksi\u0105\u017c\u0119\" i symbole - zpe.gov.pl",
+            "url": "https://zpe.gov.pl/a/maly-ksiaze-i-symbole/D132iE3WS"
+          },
+          {
+            "title": "Ma\u0142y Ksi\u0105\u017c\u0119 \u2013 streszczenie",
+            "url": "https://aniakubica.com/lektury/maly-ksiaze/maly-ksiaze-streszczenie/"
+          },
+          {
+            "title": "Jeste\u015b odpowiedzialny za to co oswoi\u0142e\u015b (Ma\u0142y Ksi\u0105\u017c\u0119) - \u015aci\u0105gi, wypracowania, lektury - Bryk.pl",
+            "url": "https://www.bryk.pl/wypracowania/jezyk-polski/lektury/7938-jestes-odpowiedzialny-za-to-co-oswoiles-maly-ksiaze.html"
+          },
+          {
+            "title": "Materia\u0142y edukacyjne 1 - PDF Free Download - DocPlayer.pl",
+            "url": "https://docplayer.pl/10879406-Materialy-edukacyjne-1.html"
+          },
+          {
+            "title": "Ma\u0142y Ksi\u0105\u017c\u0119 - Lektury Info",
+            "url": "https://lektury.info/maly-ksiaze/"
+          }
+        ]
+      },
+      "Based on the search results, I found information about \"The Little Prince\" (Ma\u0142y Ksi\u0105\u017c\u0119) in the context of educational materials and Polish educational platforms, though I didn't find specific results directly connecting it to TikTok BookTok trends among Polish youth. Here's what I found:\n\n## Educational Materials on Bryk.pl\n\nBryk.pl offers comprehensive study materials for \"The Little Prince,\" including literary analysis that describes it as an atypical work - primarily a novel about the meeting of two people. The site provides summaries describing the main character as a young boy living on a foreign planet with a rose.\n\n## Other Educational Resources\n\nEdudu.pl offers educational films and teaching materials about \"The Little Prince\" for middle school students, high school students, and beyond, including many educational materials, articles, and online films.\n\nFilm w Szkole provides educational materials for the 2015 animated film adaptation of \"The Little Prince\" directed by Mark Osborne.\n\nThe Polish government's Integrated Educational Platform (zpe.gov.pl) offers free educational materials about \"The Little Prince,\" including lessons on adult perspectives and symbolism in the work.\n\n## Cultural Impact\n\n\"I believe this book has a wonderful impact on our world. It tells about what is timeless and universal - about love and friendship\" - this quote from the search results reflects the enduring appeal of the work.\n\nWhile the search didn't return specific results about \"The Little Prince\" trending on Polish BookTok or TikTok among Polish youth, the abundance of educational materials and platforms suggests the book remains an important part of Polish literary education. The connection between traditional educational resources like Bryk.pl and potential social media trends among young readers would require additional searching to establish."
+    ],
+    "durationSeconds": 22.478922870999668
+  }
+}

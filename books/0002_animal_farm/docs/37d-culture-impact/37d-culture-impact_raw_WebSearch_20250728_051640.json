@@ -1,0 +1,63 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Animal Farm\" theater stage production musical play adaptations Broadway West End"
+  },
+  "tool_response": {
+    "query": "\"Animal Farm\" theater stage production musical play adaptations Broadway West End",
+    "results": [
+      "I'll search for information about Animal Farm theatrical adaptations, including stage productions, musicals, and performances on Broadway and the West End.",
+      {
+        "tool_use_id": "srvtoolu_01DRE9NpZZ2YrPvgAjQAHXSS",
+        "content": [
+          {
+            "title": "Alan Menken, Glenn Slater & James Graham Team Up for West End-Bound Animal Farm Musical | Broadway Buzz | Broadway.com",
+            "url": "https://www.broadway.com/buzz/200197/alan-menken-glenn-slater-james-graham-team-up-for-west-end-bound-animal-farm-musical/"
+          },
+          {
+            "title": "Animal Farm by George Orwell | Touring 2026 | A Children\u2019s Theatre Partnership production in association with Birmingham Rep",
+            "url": "https://animalfarmonstage.co.uk/"
+          },
+          {
+            "title": "Animal Farm Musical in the Works From Alan Menken, Glenn Slater, and James Graham - TheaterMania.com",
+            "url": "https://www.theatermania.com/london-theater/news/animal-farm-musical-in-the-works-from-alan-menken_91702.html/"
+          },
+          {
+            "title": "Animal Farm: The Musical on New York City: Get Tickets Now! | Theatermania - 408415",
+            "url": "https://www.theatermania.com/shows/new-york-city-theater/off-off-broadway/animal-farm-the-musical_408415/"
+          },
+          {
+            "title": "Animal Farm | A Noise Within",
+            "url": "https://www.anoisewithin.org/play/animal-farm/"
+          },
+          {
+            "title": "Animal Farm \u2014 Theatre Royal Bath",
+            "url": "https://www.theatreroyal.org.uk/events/animal-farm/"
+          },
+          {
+            "title": "Berloni Theatrical Animals",
+            "url": "https://theatricalanimals.com/"
+          },
+          {
+            "title": "Animal Farm | New Theatre",
+            "url": "https://newtheatre.org.au/animal-farm/"
+          },
+          {
+            "title": "Animal Farm - Wilton's",
+            "url": "https://www.wiltons.org.uk/whatson/842-animal-farm"
+          },
+          {
+            "title": "Review: ANIMAL FARM, Rose Theatre",
+            "url": "https://www.broadwayworld.com/westend/article/Review-ANIMAL-FARM-Rose-Theatre-20250205"
+          }
+        ]
+      },
+      "Based on my search results, here's what I found about Animal Farm theatrical adaptations:\n\n## Recent Musical Adaptation for West End\n\nAward-winning composer Alan Menken is teaming up with lyricist Glenn Slater and scribe James Graham for a musical version of George Orwell's allegorical tale. The writers are planning for a series of workshops in 2021, with a West End premiere to follow. Menken legendary composer of Beauty and the Beast, The Little Mermaid, Little Shop of Horrors, and Newsies, among many other shows. Slater is the Tony-nominated lyricist of Sister Act and School of Rock. Adam Spiegel will produce Animal Farm.\n\n## Historical Productions\n\nThe first stage adaptation of the novel arrived at London's National Theatre in 1984. \n\n## Recent Stage Productions\n\nSeveral recent theatrical adaptations have been staged:\n\n1. **A Noise Within Theatre (California)**: Peter Hall's fast-moving musical adaptation of George Orwell's savage satire was performed at A Noise Within theatre in California.\n\n2. **New Theatre (Australia)**: Saro Lusty-Cavallari's adaptation of the seemingly sweet but ultimately dark fable serves as a reminder of the need to challenge the actions and messages delivered by our leaders was staged in 2020.\n\n3. **Wilton's Music Hall (London)**: Olivier winner Guy Masterson (director of the Olivier-nominated West End and Broadway hit The Shark Is Broken), will reprise \"One of the greatest solo shows of all time\" (The Times), after 10 years - a one-person show adaptation.\n\n4. **Rose Theatre**: Animal Farm is at the Rose Theatre until 8 February (2025).\n\n5. **Touring Production**: Animal Farm is a dynamic, daring and contemporary take on a timeless story directed by Robert Icke. Animal Farm is directed by Robert Icke, whose version of 1984 (co-adapted and directed with Duncan Macmillan) was a smash-hit in the West End and on Broadway.\n\n## Production Notes\n\nIn terms of staging the show with animals, lead producer Adam Spiegel (also known as Spike Jonze) has declared that the production would not feature puppets for the upcoming Menken musical.\n\nWhile there have been numerous stage adaptations of Animal Farm over the years, including musical versions, there hasn't been a Broadway production specifically mentioned in the search results. The most significant upcoming production appears to be the Alan Menken/Glenn Slater/James Graham musical being developed for the West End."
+    ],
+    "durationSeconds": 30.772601786000187
+  }
+}

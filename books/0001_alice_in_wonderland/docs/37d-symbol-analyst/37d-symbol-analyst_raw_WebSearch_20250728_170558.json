@@ -1,0 +1,63 @@
+{
+  "session_id": "e45997b0-1016-4783-9450-979f533f9cbc",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e45997b0-1016-4783-9450-979f533f9cbc.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Alice in Wonderland\" symbolism contemporary scholarship 2020-2025 feminist postcolonial interpretations"
+  },
+  "tool_response": {
+    "query": "\"Alice in Wonderland\" symbolism contemporary scholarship 2020-2025 feminist postcolonial interpretations",
+    "results": [
+      "I'll search for recent scholarly interpretations of Alice in Wonderland symbolism with a focus on feminist and postcolonial perspectives from 2020-2025.",
+      {
+        "tool_use_id": "srvtoolu_01TTA64K4HSWT3KEFGWoghQZ",
+        "content": [
+          {
+            "title": "The Analytical Interpretation of Classical Alice in Wonderland in the Movie Adaptations of Walt Disney (1951) and Tim Burton (2010) Through a Feminist Perspective and Symbolism | European Scientific Journal, ESJ",
+            "url": "https://eujournal.org/index.php/esj/article/view/16997"
+          },
+          {
+            "title": "(PDF) \u2022 \u2018Alice\u2019s Adventures in Wonderland as an Anti-Feminist Text: Historical, Psychoanalytical, and Postcolonial Perspectives\u2019, Women: A Cultural Review, Vol. 27, no. 2 (2016): 177-201. (UK, peer reviewed, ESCI) | Flair Donglai Shi - Academia.edu",
+            "url": "https://www.academia.edu/13958045/_Alice_s_Adventures_in_Wonderland_as_an_Anti_Feminist_Text_Historical_Psychoanalytical_and_Postcolonial_Perspectives_Women_A_Cultural_Review_Vol_27_no_2_2016_177_201_UK_peer_reviewed_ESCI_"
+          },
+          {
+            "title": "(PDF) Alice's Adventures in Wonderland : A Feminist Bildungsroman",
+            "url": "https://www.academia.edu/108681580/Alices_Adventures_in_Wonderland_A_Feminist_Bildungsroman"
+          },
+          {
+            "title": "Literary Criticism Of Alice In Wonderland Through A Feminist Lens 1144 words [Essay Example]",
+            "url": "https://gradesfixer.com/free-essay-examples/literary-criticism-of-alice-in-wonderland-through-a-feminist-lens/"
+          },
+          {
+            "title": "Literary Theory: Post-colonialism & Alice in Wonderland \u2014 English Class Ideas",
+            "url": "https://www.englishclassideas.com/blog/literary-theory/post-colonialism"
+          },
+          {
+            "title": "Alice",
+            "url": "https://www.academia.edu/35016366/Alice"
+          },
+          {
+            "title": "\u201cCuriouser and Curiouser\u201d: Discouraging Female Agency and Curiosity in \u2018Alice\u2019s Adventures in Wonderland\u2019",
+            "url": "https://tortoise.princeton.edu/2017/06/14/curiouser-and-curiouser-discouraging-female-agency-and-curiosity-in-alices-adventures-in-wonderland/"
+          },
+          {
+            "title": "Alice\u2019s Adventures in Wonderland as an Anti-Feminist Text: Historical, Psychoanalytical and Postcolonial Perspectives | Semantic Scholar",
+            "url": "https://www.semanticscholar.org/paper/Alice%E2%80%99s-Adventures-in-Wonderland-as-an-Text:-and-Shi/f7b2dba9e7dac1e66bcb5e5f7816c59b386de1b8"
+          },
+          {
+            "title": "The feminist and Marxist interpretations of Alice's... | 123 Help Me",
+            "url": "https://www.123helpme.com/essay/The-feminist-and-Marxist-interpretations-of-Alices-325908"
+          },
+          {
+            "title": "(DOC) Feminism in Alice in Wonderland & Matilda",
+            "url": "https://www.academia.edu/35545171/Feminism_in_Alice_in_Wonderland_and_Matilda"
+          }
+        ]
+      },
+      "Based on my search results, I've found several contemporary scholarly perspectives on Alice in Wonderland from 2020-2025 focusing on feminist and postcolonial interpretations. Here's what the current scholarship reveals:\n\n## Recent Feminist Scholarship (2020-2025)\n\nContemporary feminist analysis has examined Alice in Wonderland through film adaptations, particularly comparing Walt Disney's 1951 version with Tim Burton's 2010 interpretation. Scholars note that Burton's Alice is \"bolder, more independent, stronger both in mind and soul, and more feminist\" than earlier representations.\n\nA significant 2016 study in Women: A Cultural Review examines \"whether Lewis Carroll's Alice's Adventures in Wonderland is a feminist book\" by presenting \"arguments from historical, psychoanalytical and postcolonial perspectives\". This work represents ongoing scholarly debate about the text's feminist dimensions.\n\nRecent university scholarship has identified a tension in feminist readings, with \"many, including Princeton professors, [calling] it a feminist work epitomizing female curiosity, agency, and heroism\", while other scholars challenge these traditional feminist interpretations.\n\n## Postcolonial Perspectives\n\nContemporary postcolonial scholarship questions Alice's feminist status by examining \"the different sides' distinctive interpretations of Alice's social identification\". Scholars have explored \"Alice's Struggle with Imperialism: Undermining the British Empire through Alice's Adventures in Wonderland\", examining the text's colonial implications.\n\n## Symbolic Interpretations in Contemporary Scholarship\n\nRecent feminist analysis of key characters reveals complex symbolism: \"The Queen of Hearts embodies the Victorian fear of women wielding authority\" and \"some critics argue that Carroll presents her as a caricature of powerful women, reinforcing patriarchal anxieties about female leadership\".\n\nContemporary scholarship increasingly views Alice as \"a Bildungsroman\" with \"a coming of age aspect based on feminism,\" where \"Alice matures in the traditional sense\" while also developing \"as a stronger female fighting for gender rights with signs of feminism\".\n\n## Evolving Critical Consensus\n\nThe scholarly debate remains active, with researchers continuing to \"engage with the question--whether Lewis Carroll's Alice's Adventures in Wonderland is a feminist book\" through \"historical, psychoanalytical and postcolonial perspectives,\" detecting that \"the source of the unresolved conflicts\" stems from \"different sides' distinctive interpretation of Alice's social identification\".\n\nThe contemporary scholarship from 2020-2025 shows a nuanced, ongoing debate about Alice in Wonderland's feminist and postcolonial dimensions, with scholars increasingly examining how different interpretations of Alice's character and agency reflect broader questions about gender, power, and colonial discourse in Victorian literature."
+    ],
+    "durationSeconds": 22.028840276000004
+  }
+}

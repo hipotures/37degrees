@@ -1,0 +1,62 @@
+{
+  "session_id": "9588e4fa-c119-4986-be3b-1d3af7769f8f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/9588e4fa-c119-4986-be3b-1d3af7769f8f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Brave New World\" scientific influences mass production assembly line Henry Ford behaviorism Pavlov Watson"
+  },
+  "tool_response": {
+    "query": "\"Brave New World\" scientific influences mass production assembly line Henry Ford behaviorism Pavlov Watson",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_017fgtUVsT43qE5p3bsUaVmE",
+        "content": [
+          {
+            "title": "Brave New World Historical and Social Context - eNotes.com",
+            "url": "https://www.enotes.com/topics/brave-new-world/in-depth/historical-social-context"
+          },
+          {
+            "title": "Brave New World - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World"
+          },
+          {
+            "title": "Brave New World | Summary, Context, & Reception | Britannica",
+            "url": "https://www.britannica.com/topic/Brave-New-World"
+          },
+          {
+            "title": "Huxley, Aldous - Brave New World - A perfect society? - GRIN | Grin",
+            "url": "https://www.grin.com/document/104664"
+          },
+          {
+            "title": "Brave New World: Analysis of Setting | EBSCO Research Starters",
+            "url": "https://www.ebsco.com/research-starters/literature-and-writing/brave-new-world-analysis-setting"
+          },
+          {
+            "title": "Full Glossary for Brave New World",
+            "url": "https://www.cliffsnotes.com/literature/b/brave-new-world/study-help/full-glossary-for-brave-new-world"
+          },
+          {
+            "title": "Brave New World: Allusions | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/bravenew/allusions/"
+          },
+          {
+            "title": "Fordism and Society: World State in Brave New World | PDF",
+            "url": "https://www.scribd.com/document/399318170/bnw-2"
+          },
+          {
+            "title": "Brave New World Chapter 2 Summary & Analysis | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/bravenew/section2/"
+          },
+          {
+            "title": "Summary and Analysis Chapter 2 - Brave New World",
+            "url": "https://www.cliffsnotes.com/literature/b/brave-new-world/summary-and-analysis/chapter-2"
+          }
+        ]
+      },
+      "The search results provide comprehensive information about how scientific influences, mass production concepts, and behaviorism shaped Aldous Huxley's \"Brave New World.\" Here's what I found:\n\n## Scientific Influences on Brave New World\n\nScientific advancements also influenced Huxley, especially the work of Ivan Pavlov on conditioned responses and John B. Watson's behaviorism. These discoveries challenged traditional views of human autonomy, suggesting that behavior could be manipulated through stimuli, an idea explored extensively in Brave New World.\n\n### Behaviorism - Pavlov and Watson\n\nScientist Ivan Pavlov conducts behavioral experiments, demonstrating that animals can develop a conditioned response. John B. Watson establishes the behaviorist school of thought, asserting that human behavior can be reduced to a series of stimuli and responses, which can be manipulated by the experimenter.(no content)The conditioning technique used to instill a dislike for flowers and books in infants is modeled after the research of Ivan Pavlov, a Russian scientist. Pavlov demonstrated that dogs could be trained to salivate at the ringing of a bell if the sound was consistently visually associated with food.\n\nThe novel implements these theories through \"Neo-Pavlovian Conditioning\" - Huxley's term for the dystopian form of infant training. The term derives from the classical conditioning system named for the Russian physiologist Ivan Petrovich Pavlov (1849-1931).\n\n### Henry Ford and Mass Production\n\nHenry Ford was revolutionizing industry with the introduction of the Model T and the electric conveyor belt assembly line in 1914. His factory in Highland Park, Michigan, could produce a car in just ninety-three minutes, capturing a significant share of the automobile market.(no content)The World State is built upon the principles of Henry Ford's assembly line: mass production, homogeneity, predictability, and consumption of disposable consumer goods.\n\n### Ford as a Religious Figure\n\nHenry Ford, who has become a messianic figure to the World State. \"Our Ford\" is used in place of \"Our Lord\", as a credit to popularising the use of the assembly line.(no content)The World State calendar numbers years in the \"AF\" era\u2014\"After Ford\"\u2014with the calendar beginning in AD 1908, the year in which Ford's first Model T rolled off his assembly line.\n\n### Assembly Line Applied to Human Production\n\nThe hatchery is the core of Huxley's sarcastic extrapolation of the principles of American automobile pioneer Henry Ford's assembly-line production system and Frederick Winslow Taylor's theories of applying scientific management to the organization of entire societies.(no content)Ford is the founder of the \"assembly line\", which is the starting point of mass production. Referring to this fact there is an analogy to the production of human beings in Huxley\u00b4s novel. Henry Ford established the breakthrough of industrial production; cars could be produced in great amounts. In Brave New World human beings can be mulitplied and the identical set of people is created.\n\nThe search reveals how Huxley masterfully wove together the scientific theories of Pavlov and Watson with Ford's industrial innovations to create a dystopian society where humans are mass-produced and conditioned like products on an assembly line."
+    ],
+    "durationSeconds": 32.69733795900002
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "session_id": "6545194c-1a01-4819-963f-db6995a69675",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/6545194c-1a01-4819-963f-db6995a69675.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Alice in Wonderland fashion collaboration 2024 2025 streetwear luxury brands clothing collection"
+  },
+  "tool_response": {
+    "query": "Alice in Wonderland fashion collaboration 2024 2025 streetwear luxury brands clothing collection",
+    "results": [
+      "I'll search for information about Alice in Wonderland fashion collaborations with streetwear and luxury brands for 2024-2025.",
+      {
+        "tool_use_id": "srvtoolu_01NhDzhe5CA3axVujoc1W7iE",
+        "content": [
+          {
+            "title": "The top 7 fashion collabs of 2024 | Fashion Dive",
+            "url": "https://www.fashiondive.com/news/7-best-fashion-brand-collabs-2024/736114/"
+          },
+          {
+            "title": "Fashion Collaborations and Partnerships to Watch in 2025 | Brand Vision",
+            "url": "https://www.brandvm.com/post/fashion-collaborations-2025"
+          },
+          {
+            "title": "Amazon.com: Alice In Wonderland Clothes",
+            "url": "https://www.amazon.com/Alice-Wonderland-Clothes/s?k=Alice+in+Wonderland+Clothes"
+          },
+          {
+            "title": "Kohl's, Avril Lavigne Get Inspired by Alice in Wonderland | License Global",
+            "url": "https://www.licenseglobal.com/licensing-resources/kohls-avril-lavigne-get-inspired-alice-wonderland"
+          },
+          {
+            "title": "Alice in Wonderland clothes - Alice-in-wonderland.net shop",
+            "url": "https://www.alice-in-wonderland.net/shop/clothes/clothing/"
+          },
+          {
+            "title": "160 Alice in Wonderland Outfits",
+            "url": "https://www.pinterest.com/fixingthingswit/alice-in-wonderland-outfits-alice/"
+          },
+          {
+            "title": "Why Alice in Wonderland is one of fashion\u2019s most enduring muses",
+            "url": "https://vogue.sg/alice-in-wonderland-fashion/"
+          },
+          {
+            "title": "Disney Collaborations 2024 That Fashion Editors Love",
+            "url": "https://www.cosmopolitan.com/style-beauty/fashion/g62446006/disney-clothing-fashion-collabs-2024/"
+          },
+          {
+            "title": "Alice In Wonderland Clothing & Accessories | Her Universe",
+            "url": "https://www.heruniverse.com/shop-by-license/alice-in-wonderland/"
+          },
+          {
+            "title": "Alice in Wonderland : Women's Clothing & Fashion : Target",
+            "url": "https://www.target.com/c/women/alice-in-wonderland/-/N-5xtd3Zkw5k8"
+          }
+        ]
+      },
+      "Based on my search results, I found some information about fashion collaborations in 2024-2025, though I didn't find specific Alice in Wonderland collaborations with major streetwear or luxury brands for this period. Here's what I discovered:\n\n## Alice in Wonderland Fashion References\n\nWhile there weren't specific Alice in Wonderland collaborations with luxury or streetwear brands announced for 2024-2025, I did find:\n\n1. **Disney Fashion Collaborations in 2024**:\n   - Swarovski created a ring inspired by the flowers from Alice in Wonderland\n   - French luxury brand Coperni debuted their Spring Summer 2025 collection at Disneyland Paris, featuring lots of Disney-inspired looks\n\n2. **Historical Alice in Wonderland Fashion Influence**:\n   - Lewis Carroll's novel, Alice's Adventures in Wonderland, has inspired everyone from Rei Kawakubo to Vivienne Westwood\n   - Avril Lavigne's Abbey Dawn clothing line, an exclusive at Kohl's, created an Alice in Wonderland treatment collection\n\n## Major Fashion Collaborations in 2024-2025\n\nThe search revealed several significant fashion collaborations happening in this period, though not specifically Alice in Wonderland themed:\n\n- Louis Vuitton and Japanese artist Takashi Murakami collab in 2025 once again after their groundbreaking 2003 collaboration\n- Pharrell Williams and Nigo reunite to co-design Louis Vuitton's Fall/Winter 2025 collection\n- London streetwear powerhouse Palace Skateboards and utilitarian label Maharishi unite for an exclusive Spring 2025 camo collection\n- Gap's first collaboration with skatewear brand Palace\n\nWhile Alice in Wonderland continues to be a fashion muse and appears in various Disney collaborations, I didn't find announcements of specific Alice in Wonderland-themed collections from major luxury or streetwear brands for 2024-2025. The character remains available through general Disney merchandise collaborations with retailers like Target, Her Universe, and various jewelry brands."
+    ],
+    "durationSeconds": 22.170419967999972
+  }
+}

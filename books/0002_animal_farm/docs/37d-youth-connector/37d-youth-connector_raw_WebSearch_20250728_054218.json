@@ -1,0 +1,159 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Poland \"youth activism\" \"climate protests\" \"political engagement\" \"corruption protests\" 2020 2024"
+  },
+  "tool_response": {
+    "query": "Poland \"youth activism\" \"climate protests\" \"political engagement\" \"corruption protests\" 2020 2024",
+    "results": [
+      "I'll search for information about youth activism in Poland focusing on climate protests, political engagement, and corruption protests between 2020 and 2024.",
+      {
+        "tool_use_id": "srvtoolu_01AoMwgNALRudmqwLjtztXoX",
+        "content": []
+      },
+      {
+        "tool_use_id": "srvtoolu_01PDSCxQpZs11S1ivKAFmouG",
+        "content": [
+          {
+            "title": "Coal and conservatism: How Polish activists push for more climate action | Clean Energy Wire",
+            "url": "https://www.cleanenergywire.org/news/coal-and-conservatism-how-polish-activists-push-more-climate-action"
+          },
+          {
+            "title": "Climate protests in Poland - EuroNatur",
+            "url": "https://www.euronatur.org/en/what-we-do/nature-conservation-policy-in-europe/tackling-the-climate-and-ecological-crisis/polish-youth-we-are-not-standing-idly-watch-our-planet-implode"
+          },
+          {
+            "title": "How the Polish state is intimidating their youth climate activists - Greenpeace International",
+            "url": "https://www.greenpeace.org/international/story/46892/polish-state-intimidating-youth-climate-activists/"
+          },
+          {
+            "title": "\u2018The Last Generation\u2019 Take Their Climate Protests Onto Poland\u2019s Streets | Balkan Insight",
+            "url": "https://balkaninsight.com/2024/07/22/the-last-generation-take-their-climate-protests-onto-polands-streets/"
+          },
+          {
+            "title": "Poland\u2019s Changing Climate Activists \u2013 Political Critique [DISCONTINUED]",
+            "url": "https://politicalcritique.org/cee/poland/2019/polands-changing-climate-activists/"
+          },
+          {
+            "title": "\u2018We have our future\u2019: Why climate campaigners are celebrating Poland\u2019s election result | Euronews",
+            "url": "https://www.euronews.com/green/2023/10/24/we-have-our-future-why-climate-campaigners-are-celebrating-polands-election-result"
+          },
+          {
+            "title": "\"Thousand Cities Protest\" against climate change. Polish youth involved - TVN24",
+            "url": "https://tvn24.pl/tvn24-news-in-english/thousand-cities-protest-against-climate-change-polish-youth-involved-ra971149-2311938"
+          },
+          {
+            "title": "Climate activists convicted in Poland for disrupting National Philharmonic concert | Notes From Poland",
+            "url": "https://notesfrompoland.com/2025/05/29/climate-activists-convicted-in-poland-for-disrupting-national-philharmonic-concert/"
+          },
+          {
+            "title": "Frontiers | Young people's climate activism: A review of the literature",
+            "url": "https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2022.940876/full"
+          },
+          {
+            "title": "Civic Activism in an Intensifying Climate Crisis | Carnegie Endowment for International Peace",
+            "url": "https://carnegieendowment.org/research/2024/12/climate-change-protest-activism-green-transition?lang=en"
+          }
+        ]
+      },
+      "Let me search for more specific information about Polish youth activism on corruption protests between 2020-2024.",
+      {
+        "tool_use_id": "srvtoolu_01STErPiwuauBtsuXrpjkLNx",
+        "content": [
+          {
+            "title": "World Report 2024: Poland | Human Rights Watch",
+            "url": "https://www.hrw.org/world-report/2024/country-chapters/poland"
+          },
+          {
+            "title": "Inside the Poland Protests | Chatham House \u2013 International Affairs Think Tank",
+            "url": "https://www.chathamhouse.org/2020/12/inside-poland-protests"
+          },
+          {
+            "title": "2024\u2013present Serbian anti-corruption protests - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/2024\u2013present_Serbian_anti-corruption_protests"
+          },
+          {
+            "title": "Climate protests in Poland - EuroNatur",
+            "url": "https://www.euronatur.org/en/what-we-do/nature-conservation-policy-in-europe/tackling-the-climate-and-ecological-crisis/polish-youth-we-are-not-standing-idly-watch-our-planet-implode"
+          },
+          {
+            "title": "2023 Polish protests - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/2023_Polish_protests"
+          },
+          {
+            "title": "Global Protest Tracker | Carnegie Endowment for International Peace",
+            "url": "https://carnegieendowment.org/features/global-protest-tracker"
+          },
+          {
+            "title": "Nationwide protests reveal awakening of Poland's youth",
+            "url": "https://euobserver.com/opinion/150256"
+          },
+          {
+            "title": "Youth, Protests and the Polycrisis",
+            "url": "https://www.unicef.org/innocenti/media/7761/file/UNICEF-Innocenti-Youth-Protests-and-the-Polycrisis-%20report.pdf"
+          },
+          {
+            "title": "Poland: Nations in Transit 2024 Country Report | Freedom House",
+            "url": "https://freedomhouse.org/country/poland/nations-transit/2024"
+          },
+          {
+            "title": "Student activism - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Student_activism"
+          }
+        ]
+      },
+      "Let me search for more specific information about Polish youth political engagement and anti-corruption movements.",
+      {
+        "tool_use_id": "srvtoolu_01UcDVtqJAnh71BCeLZJFcw7",
+        "content": [
+          {
+            "title": "Women's rights groups protest against abortion law in Poland | Euronews",
+            "url": "https://www.euronews.com/health/2024/07/24/womens-rights-groups-protest-against-abortion-law-in-poland"
+          },
+          {
+            "title": "World Report 2024: Poland | Human Rights Watch",
+            "url": "https://www.hrw.org/world-report/2024/country-chapters/poland"
+          },
+          {
+            "title": "Women\u2019s Protests in Poland | Women, Politics, and Protest in Central and Eastern Europe",
+            "url": "https://u.osu.edu/womenpoliticsprotest/womens-protests-in-poland/"
+          },
+          {
+            "title": "2020\u20132021 women's strike protests in Poland - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/2020\u20132021_women's_strike_protests_in_Poland"
+          },
+          {
+            "title": "Inside the Poland Protests | Chatham House \u2013 International Affairs Think Tank",
+            "url": "https://www.chathamhouse.org/2020/12/inside-poland-protests"
+          },
+          {
+            "title": "Frontiers | \u201cThey attack the family and order\u201d: Right-wing media about feminists and the political consequences of the women's strike in Poland",
+            "url": "https://www.frontiersin.org/journals/sociology/articles/10.3389/fsoc.2022.1066409/full"
+          },
+          {
+            "title": "Monthly Review | What Comes after a Cycle of Protests? The Case of the 2020 Women\u2019s Protests in Poland",
+            "url": "https://monthlyreview.org/2022/11/01/what-comes-after-a-cycle-of-protests-the-case-of-the-2020-womens-protests-in-poland/"
+          },
+          {
+            "title": "Gendering Resistance to Right-Wing Populism: Black Protest and a New Wave of Feminist Activism in Poland? - Bogumila Hall, 2019",
+            "url": "https://journals.sagepub.com/doi/10.1177/0002764219831731"
+          },
+          {
+            "title": "All-Poland Women's Strike - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/All-Poland_Women's_Strike"
+          },
+          {
+            "title": "\u201cThey\u2019re uncompromising\u201d: How the young transformed Poland\u2019s abortion protests | openDemocracy",
+            "url": "https://www.opendemocracy.net/en/can-europe-make-it/theyre-uncompromising-how-the-young-transformed-polands-abortion-protests/"
+          }
+        ]
+      },
+      "Based on my search results, I can provide a comprehensive overview of youth activism in Poland between 2020 and 2024, focusing on climate protests, political engagement, and corruption protests.\n\n## Polish Youth Activism (2020-2024): Climate Protests, Political Engagement, and Anti-Corruption Movements\n\n### Climate Activism\n\nBetween 2019 and 2024, Polish youth, particularly through organizations like M\u0142odzie\u017cowy Strajk Klimatyczny (Youth Climate Strike) and Fridays For Future Poland, organized numerous climate protests, with thousands of pupils and university students taking to the streets to demand climate justice, climate education at schools, and political responses based on science.(no content)During the 2020 presidential election, Fridays For Future Poland launched the \"What about the climate?\" campaign, showing up at election rallies with banners, facing mixed reactions - warm welcomes at some rallies but harassment and violence at others.(no content)Polish youth climate activists faced state intimidation, with at least five young activists over 18 being accused of breaking Environmental law for using megaphones during Fridays for Future demonstrations at the December European Council summit, while underage activists were assigned 'special guardians.'(no content)In July 2024, young environmental activists from \"The Last Generation\" (Ostatnie Pokolenie) began blocking major roads in Warsaw, joining similar movements across Europe who believe disruptive action is the only way to get political leaders to address the climate crisis.\n\n### Women's Rights and Political Engagement\n\nThe most significant youth-led protests occurred in October 2020, when street protests took place in 60 Polish towns following a Constitutional Tribunal ruling that virtually banned abortion, with protests continuing and expanding to 150 Polish towns and cities by October 26, 2020.(no content)The 2020 protests mobilized Polish youth who brought unique methods of expressing dissent, created powerful solidarity that brought together diverse people through social media and local gatherings, making many young people feel they belong even if they hadn't previously identified as feminist.(no content)Youth activists from groups like Wsch\u00f3d played a major role in the 2023 elections, campaigning for months to mobilize voters, particularly targeting young women who felt disillusioned with politics after the 2020 abortion ban, using music festivals and social media campaigns that reached as many as 20 million people.(no content)Following the 2020 protests, young people in Poland became increasingly interested in politics, moving away from the belief that politics doesn't concern them, with a change in perception of protests in general.\n\n### Broader Political Context\n\nPolish civil society is relatively new, and conservative societal attitudes, especially toward youth activism, present significant challenges for young activists.(no content)While climate activists in other European countries openly call for broad progressive change including women's rights and anti-capitalism, Polish activists are more hesitant to be associated with the political left, believing that the climate crisis must be seen beyond divisions in Poland's polarized society.(no content)The right to free and safe abortion was one of the reasons for exceptionally high youth turnout in Poland's 2023 parliamentary elections, with many young people wanting change after years of Law and Justice party rule, contributing to the victory of Donald Tusk's coalition.\n\n### Key Characteristics of Polish Youth Activism (2020-2024):\n\n1. **Multi-issue approach**: Youth activists connected climate justice with women's rights, LGBTQ+ rights, and broader democratic reforms\n2. **Facing state repression**: Young activists experienced police harassment, legal charges, and intimidation\n3. **Creative protest methods**: From road blockades to cultural performances (polonaise dances during protests)\n4. **Generational divide**: Young activists rejected older \"dziadersi\" (establishment figures) who criticized their methods\n5. **Electoral impact**: Youth mobilization contributed significantly to political change in the 2023 elections\n\nThe period 2020-2024 marked a significant awakening of Polish youth activism, combining environmental concerns with broader demands for democratic reform and social justice, despite facing considerable state opposition and societal conservatism."
+    ],
+    "durationSeconds": 61.36569026299985
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Animal Farm\" George Orwell Jonathan Cape Ministry of Information official spy rejection"
+  },
+  "tool_response": {
+    "query": "\"Animal Farm\" George Orwell Jonathan Cape Ministry of Information official spy rejection",
+    "results": [
+      "I'll search for information about George Orwell's \"Animal Farm\" and its rejection by publishers due to concerns about the Ministry of Information and potential spy connections.",
+      {
+        "tool_use_id": "srvtoolu_01C66dzA1RmPTwVrJFAPewVY",
+        "content": [
+          {
+            "title": "Orwell Subverted: The CIA and the Filming of Animal Farm By Daniel J. Leab",
+            "url": "https://www.psupress.org/books/titles/978-0-271-02978-8.html"
+          },
+          {
+            "title": "Animal Farm - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Animal_Farm"
+          },
+          {
+            "title": "Animal Farm: How the CIA Turned Orwell's Literary Classic Into a PsyOps Mission",
+            "url": "https://spyscape.com/article/spy-tricks-the-cia-mission-to-turn-orwells-animal-farm-into-cold-war-weapon"
+          },
+          {
+            "title": "The Freedom of the Press - by The Orwell Foundation",
+            "url": "https://orwellfoundation.substack.com/p/the-freedom-of-the-press"
+          },
+          {
+            "title": "George Orwell - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/George_Orwell"
+          },
+          {
+            "title": "10 Facts About George Orwell's Animal Farm",
+            "url": "https://www.mentalfloss.com/article/626689/animal-farm-book-facts"
+          },
+          {
+            "title": "Animal Farm | George Orwell \u2013 This Reading Life",
+            "url": "https://bronasbooks.com/2024/10/04/animal-farm-george-orwell/"
+          },
+          {
+            "title": "Something About a Pig: Why Animal Farm was criticised when it was released",
+            "url": "https://www.listening-books.org.uk/something-about-a-pig-why-animal-farm-was-criticised-when-it-was-released"
+          },
+          {
+            "title": "Animal Farm by George Orwell - Penguin Books Australia",
+            "url": "https://www.penguin.com.au/books/animal-farm-9781787301078"
+          },
+          {
+            "title": "Animal Farm by George Orwell | Summary, Impact & Publication - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/animal-farm-publisher-struggles.html"
+          }
+        ]
+      },
+      "Based on the search results, here's what I found about the rejection of George Orwell's \"Animal Farm\" by Jonathan Cape and the involvement of the Ministry of Information:\n\n## The Jonathan Cape Rejection\n\nJonathan Cape, a respected publisher who was initially keen on the manuscript, rejected \"Animal Farm\" after consulting an \"important official\" at the Ministry of Information, who advised against publication.(no content)The publisher Jonathan Cape, who had initially accepted Animal Farm, subsequently rejected the book after an official at the British Ministry of Information warned him off.(no content)Jonathan Cape, with the support of his publishing company, agreed to publish the novel. However, Cape changed his mind when an official of the British Ministry of Information told him that it would be a bad idea.\n\n## The Mystery Official and Soviet Spy Connection\n\nThe official is presumed to be Peter Smollett, who during the war headed the ministry's Russian section, earning an OBE for his services to the Crown. He may also have served another master, for he was thought to be a Soviet agent.(no content)The decision followed his visit to Peter Smollett, an official at the Ministry of Information, who was later identified as a Soviet agent.(no content)Jonathan Cape, a publisher who had at first agreed to publish 'Animal Farm' later rejected it at the behest of an official at the British Ministry of Information. Now, it is thought that the official was Peter Smollett, a man later found to be a Soviet spy.\n\n## Background on Peter Smollett\n\nBorn Hans Peter Smolka in Vienna in 1912, he wrote pro-Soviet travel journalism for various UK outlets during the 1930s, became a naturalized British subject in 1938, changed his name, and after the war's outbreak joined the Ministry of Information, where he energetically organized pro-Soviet propaganda and suppressed \"unfavorable comment\" on Stalinist Russia.(no content)Smollett's family has vigorously denied suggestions that he was a spy.\n\n## Orwell's Response and Publication Context\n\nA concerned and depressed Orwell, fuming about Cape's \"intellectual cowardice\" and acutely aware of the opposition to the book, at one point considered publishing it himself.(no content)By 1943, when Orwell was approaching prospective publishers, Russia was a British ally in the war against Nazi Germany and there was an unwillingness to take on a book which singled the country's regime out for criticism. One publisher openly admitted to Orwell that they had been warned off the book by an official in the Ministry of Information (it later transpired that this particular rejection had been encouraged by a Soviet spy.)\n\nThe rejection of \"Animal Farm\" by Jonathan Cape after Ministry of Information intervention represents a fascinating intersection of wartime politics, censorship, and espionage, with the involvement of a likely Soviet spy adding an ironic twist to the suppression of Orwell's anti-Stalinist allegory."
+    ],
+    "durationSeconds": 32.70024149399996
+  }
+}

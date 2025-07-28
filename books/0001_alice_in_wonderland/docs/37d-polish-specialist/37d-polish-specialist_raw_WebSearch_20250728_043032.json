@@ -1,0 +1,63 @@
+{
+  "session_id": "ac25dab5-19ee-43b4-8689-cf24d65d211d",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ac25dab5-19ee-43b4-8689-cf24d65d211d.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Polish BookTube \"Alicja w Krainie Czar\u00f3w\" BookTokPolska TikTok YouTube recenzja m\u0142odzie\u017c"
+  },
+  "tool_response": {
+    "query": "Polish BookTube \"Alicja w Krainie Czar\u00f3w\" BookTokPolska TikTok YouTube recenzja m\u0142odzie\u017c",
+    "results": [
+      "I'll search for information about Polish BookTube and BookTok content related to \"Alice in Wonderland\" (Alicja w Krainie Czar\u00f3w) reviews for young audiences.",
+      {
+        "tool_use_id": "srvtoolu_01H4dbtncV87UTUyccgBT2Ha",
+        "content": [
+          {
+            "title": "Alicja w Krainie Czar\u00f3w Ksi\u0119garnia Wydawnictwa Nowa Ba\u015b\u0144",
+            "url": "https://ksiegarnianowabasn.com/pl/p/Alicja-w-Krainie-Czarow/562"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w - Lewis Carroll | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/4988571/alicja-w-krainie-czarow"
+          },
+          {
+            "title": "Amazon.com: Alicja w Krainie Czar\u00f3w (Polish Edition): 9788375179095: Carroll, Lewis: Books",
+            "url": "https://www.amazon.com/Alicja-w-Krainie-Czar%C3%B3w-Polish/dp/8375179094"
+          },
+          {
+            "title": "\u201eAlicji Kraina Czar\u00f3w\u201d \u2013 wyb\u00f3r recenzji - Teatr Narodowy \u2013 Aktualno\u015bci - Teatr Narodowy",
+            "url": "https://narodowy.pl/aktualnosci,1512,alicji_kraina_czarow_wybor_recenzji.html"
+          },
+          {
+            "title": "\u201eAlicja w Krainie Czar\u00f3w\u201d \u2013 recenzja",
+            "url": "https://dlalejdis.pl/artykuly/alicja-w-krainie-czarow-recenzja"
+          },
+          {
+            "title": "alicja w krainie czar\u00f3w",
+            "url": "http://bilinguis.com/book/alice/pl/c11/"
+          },
+          {
+            "title": "Alicja w krainie czar\u00f3w (Polish Edition): Carroll, Lewis: 9788363035624: Amazon.com: Books",
+            "url": "https://www.amazon.com/Alicja-W-Krainie-Czar%C3%B3w-Polish/dp/8363035629"
+          },
+          {
+            "title": "Recenzja gry Alicja w Krainie Czar\u00f3w | M\u0141ODY GIERCOWNIK",
+            "url": "https://mlodygiercownik.pl/2023/11/19/recenzja-gry-alicja-w-krainie-czarow/"
+          },
+          {
+            "title": "\"Alicja w Krainie Czar\u00f3w\" - Lewis Carroll - Recenzja ksi\u0105\u017cki - Eduarena",
+            "url": "https://eduarena.pl/alicja-w-krainie-czarow-lewis-carroll-recenzja-ksiazki/"
+          },
+          {
+            "title": "Ebook Alicja w krainie czar\u00f3w, Lewis Carroll - Virtualo.pl",
+            "url": "https://virtualo.pl/ebook/alicja-w-krainie-czarow-i124270/"
+          }
+        ]
+      },
+      "I found limited direct results about Polish BookTube and BookTok content specifically reviewing \"Alice in Wonderland\" for young audiences. The search results primarily show:\n\n1. Reviews of a theatrical adaptation at the National Theatre (Teatr Narodowy) which was well-received by young audiences who \"laugh, clap, and try to sing along\" with \"dazzling scenography and costumes by Martyna Kander\" and a \"live orchestra\".\n\n2. A book review from dlalejdis.pl discussing how \"Alice in Wonderland\" by Carroll turned out to be \"even better than the film adaptations\" and how characters like the Queen of Hearts, White Rabbit, Mad Hatter, and Cheshire Cat are \"impossible not to know\" as they appear in works from every field of art.\n\n3. A board game review from mlodygiercownik.pl (Young Gamer) stating it's currently \"the best small Alice game on the market\" and \"very good in its category\" for families with younger children.\n\n4. An educational review from eduarena.pl describing the book as \"a literary journey full of wonders and surrealistic images\" that serves as both \"a fairy tale for children and a deeply philosophical story for adults,\" having \"comprehensive and versatile impact on mass culture and literature\" since its 1865 publication.\n\nThe search didn't return specific results about Polish BookTubers or BookTok creators discussing this classic on their channels. To find more specific content about Polish BookTube/BookTok reviews of \"Alice in Wonderland,\" you might want to search directly on YouTube or TikTok platforms using hashtags like #BookTokPolska or #PolishBookTube combined with \"Alicja w Krainie Czar\u00f3w.\""
+    ],
+    "durationSeconds": 26.841014556000008
+  }
+}

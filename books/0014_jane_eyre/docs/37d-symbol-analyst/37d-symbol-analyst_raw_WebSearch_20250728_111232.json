@@ -1,0 +1,63 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Jane Eyre\" Victorian social hierarchy servants domestic spaces class mobility independence"
+  },
+  "tool_response": {
+    "query": "\"Jane Eyre\" Victorian social hierarchy servants domestic spaces class mobility independence",
+    "results": [
+      "I'll search for information about Jane Eyre and its treatment of Victorian social hierarchy, servants, domestic spaces, class mobility, and independence.",
+      {
+        "tool_use_id": "srvtoolu_01Vhbz7otbsoTuHqcPmgbngX",
+        "content": [
+          {
+            "title": "Social Class and Social Rules Theme in Jane Eyre | LitCharts",
+            "url": "https://www.litcharts.com/lit/jane-eyre/themes/social-class-and-social-rules"
+          },
+          {
+            "title": "Role of Social Class in Jane Eyre | UKEssays.com",
+            "url": "https://www.ukessays.com/essays/english-literature/role-of-social-class-in-jane-eyre-english-literature-essay.php"
+          },
+          {
+            "title": "Jane Eyre Themes: Social Class - eNotes.com",
+            "url": "https://www.enotes.com/topics/jane-eyre/themes/social-class"
+          },
+          {
+            "title": "Jane Eyre and North and South on Social Class",
+            "url": "https://victorianweb.org/authors/bronte/cbronte/61brnt13.html"
+          },
+          {
+            "title": "Introducing Jane Eyre: An Unlikely Victorian Heroine | NEH-Edsitement",
+            "url": "https://edsitement.neh.gov/lesson-plans/introducing-jane-eyre-unlikely-victorian-heroine"
+          },
+          {
+            "title": "The Victorian Era of Jane Eyre | UKEssays.com",
+            "url": "https://www.ukessays.com/essays/english-literature/the-victorian-era-of-jane-eyre-english-literature-essay.php"
+          },
+          {
+            "title": "Jane Eyre: Themes | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/janeeyre/themes/"
+          },
+          {
+            "title": "Jane Eyre: Charlotte Bront\u00eb's Progressive Take On Victorian Social Hierarchy \u2014 Necessary Behavior",
+            "url": "https://necessarybehavior.com/charlotte-bronts-progressive-take-on-victorian-social-hierarchy"
+          },
+          {
+            "title": "Progressivism for Women in Jane Eyre - UI Victorian Wiki - UIowa Wiki",
+            "url": "https://wiki.uiowa.edu/display/vicwik/Progressivism+for+Women+in+Jane+Eyre"
+          },
+          {
+            "title": "(PDF) Class mobility in Jane Eyre",
+            "url": "https://www.academia.edu/5574484/Class_mobility_in_Jane_Eyre"
+          }
+        ]
+      },
+      "Based on the search results, here's a comprehensive overview of how Jane Eyre engages with Victorian social hierarchy, servants, domestic spaces, class mobility, and independence:\n\n## Victorian Social Hierarchy and Class Structure\n\nLife in 19th-century Britain was governed by social class, and people typically stayed in the class into which they were born. Jane Eyre is critical of Victorian England's strict social hierarchy. Bront\u00eb's exploration of the complicated social position of governesses is perhaps the novel's most important treatment of this theme.\n\n## Jane's Ambiguous Social Position\n\nBoth as an orphan at Gateshead and as a governess at Thornfield, Jane holds a position that is between classes, and interacts with people of every level, from working-class servants to aristocrats. As Jane was an orphaned child yet then received a high standard of education to become a governess, she holds no definitive social status and is therefore \"in between\" classes. She has an ambiguous social standing as she both lives and converses with all classes of people, from the working class servants to the upper class aristocrats.\n\n## The Governess's Peculiar Status\n\nGovernesses were caught between social classes\u2014educated like their employers but paid like servants. Victorian governesses, who tutored children in etiquette as well as academics, were expected to possess the \"culture\" of the aristocracy. Yet, as paid employees, they were more or less treated as servants; thus, Jane remains penniless and powerless while at Thornfield.\n\nJane is therefore a cause for extreme tension as she holds the sophistication of the upper classes yet she has a lower class background. Governesses of this time were expected to uphold a high standard of aristocrat 'culture'; however they were often still very poorly treated by their employers.\n\n## Social Mobility and Independence\n\nJane's social mobility lets Bront\u00eb create a vast social landscape in her novel in which she examines the sources and consequences of class boundaries. Bronte has created Jane Eyre's character with social mobility in order to help develop an extensive network in the novel, therefore allowing the story more flexibility to unfold.\n\nThe novel demonstrates Jane's journey through different social positions:\n\n1. **At Gateshead**: You have no business to take our books; you are a dependant, mama says; you have no money; your father left you none; you ought to beg, and not to live here with gentlemen's children like us.\n\n2. **As a Governess**: Jane's understanding of the double standard crystallizes when she becomes aware of her feelings for Rochester; she is his intellectual, but not his social, equal.\n\n3. **After Inheritance**: Ultimately, Jane is only able to marry Rochester as his equal because she has almost magically come into her own inheritance from her uncle. Jane's inheritance is crucial as it grants her financial independence, allowing her to marry Rochester as an equal partner. Previously, she was a pauper, reliant on others.\n\n## Domestic Spaces and Class Boundaries\n\nShe draws distinctions between the servants, herself, and members of the upper class. Even though Jane had reason to dislike the Ingrams and their party, she maintained a subservient attitude when in their presence.\n\nAfter Jane flees from Thornfield Hall; homeless, penniless and hungry, she takes upon a journey to find independence and clarity in her life. In a strange town, miles away from what she has become accustomed too, Jane comes face to face with true poverty. She is now with no class, no possessions, no worth and no status.\n\n## Women's Independence and Social Constraints\n\nJane challenges the social restrictions on women to the household and rallies for a more independent and mobile woman. Jane's desire for intellect was unusual in Victorian Society, but it helped her gain rare independence in the form of a career (a governess). In a way, Jane demonstrates that knowledge and education could open up doors for independence and mobility in Victorian society for women.\n\n## Revolutionary Aspects of Jane's Character\n\nWhen Charlotte Bront\u00eb set out to write the novel Jane Eyre, she was determined to create a main character who challenged the notion of the ideal Victorian woman, or as Bront\u00eb was once quoted: \"a heroine as plain and as small as myself\" (Gaskell, Chapter XV). Bront\u00eb's determination to portray a plain yet passionate young woman who defied the stereotype of the docile and domestic Victorian feminine ideal most likely developed from her own dissatisfaction with domestic duties and a Victorian culture that discouraged women from having literary aspirations.\n\nWhen Jane does finally marry Rochester, she has the physical advantage from his cripple and a newfound economic independence which makes her almost a superior to her husband, something that never happened in Victorian England. Jane's notions of equality and love in marriage go against the grain of Victorian society, and set an example for young women everywhere to find a fair marriage for love instead of a socially accepted match.\n\n## Conclusion\n\nJane must break through class prejudices about her standing, and make people recognize and respect her personal qualities. Bront\u00eb tries to illustrate how personal virtues are better indicators of character than class. The novel ultimately presents a progressive vision where individual merit, education, and personal integrity can transcend the rigid social boundaries of Victorian society, though it acknowledges that financial independence remains crucial for true equality."
+    ],
+    "durationSeconds": 63.929231314000205
+  }
+}

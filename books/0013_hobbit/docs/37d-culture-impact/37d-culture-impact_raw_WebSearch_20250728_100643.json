@@ -1,0 +1,127 @@
+{
+  "session_id": "fbc680e7-1eb0-4e03-89a6-2cdd410f922d",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/fbc680e7-1eb0-4e03-89a6-2cdd410f922d.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"The Hobbit\" Instagram hashtags social media presence fan accounts content creators 2024"
+  },
+  "tool_response": {
+    "query": "\"The Hobbit\" Instagram hashtags social media presence fan accounts content creators 2024",
+    "results": [
+      "I'll search for information about The Hobbit's social media presence on Instagram, including hashtags, fan accounts, and content creators in 2024.",
+      {
+        "tool_use_id": "srvtoolu_01TwAFLgqsKg6w5WNcQHrcfx",
+        "content": [
+          {
+            "title": "Hobbit Day Social Media Post Ideas",
+            "url": "https://predis.ai/resources/hobbit-day-social-media-post-ideas/"
+          },
+          {
+            "title": "LOTR & The Hobbit Facts \ud83d\udc8d (@thehobbitfacts)",
+            "url": "https://www.instagram.com/thehobbitfacts/"
+          },
+          {
+            "title": "The Hobbit & LOTR (@thehobbitmovie)",
+            "url": "https://www.instagram.com/thehobbitmovie/"
+          }
+        ]
+      },
+      "Let me search for more specific information about The Hobbit's Instagram presence in 2024, including popular hashtags and content creators.",
+      {
+        "tool_use_id": "srvtoolu_01CUsGJ9KrFU9UdS2Q81LLVA",
+        "content": [
+          {
+            "title": "Display Purposes - Best #hobbit hashtags for Instagram, TikTok, YouTube in 2025",
+            "url": "https://displaypurposes.com/hashtags/hashtag/hobbit"
+          },
+          {
+            "title": "Instagram",
+            "url": "https://www.instagram.com/explore/tags/hobbit/"
+          },
+          {
+            "title": "Best #hobbit Hashtags for Instagram & TikTok - Top Trends 2025",
+            "url": "https://best-hashtags.com/hashtag/hobbit/"
+          },
+          {
+            "title": "26 hobbit hashtags popular on Twitter and Instagram | RiteTag: Find the best hashtags",
+            "url": "https://ritetag.com/best-hashtags-for/hobbit"
+          },
+          {
+            "title": "Hashtags for #lotr in 2024 to be popular and trending in Instagram, TikTok - Top Hashtags",
+            "url": "https://top-hashtags.com/hashtag/lotr/"
+          },
+          {
+            "title": "Display Purposes - Best #lotr hashtags for Instagram, TikTok, YouTube in 2025",
+            "url": "https://displaypurposes.com/hashtags/hashtag/lotr"
+          },
+          {
+            "title": "Hashtags for #tolkien to grow your Instagram, TikTok | best-hashtags.com",
+            "url": "https://best-hashtags.com/hashtag/tolkien/"
+          },
+          {
+            "title": "Best #lotr Hashtags for Instagram & TikTok - Top Trends 2025",
+            "url": "https://best-hashtags.com/hashtag/lotr/"
+          },
+          {
+            "title": "Best Instagram #hobbit Hashtags | Difficulty: 72 | Posts: 1.4 M",
+            "url": "https://inflact.com/instagram-hashtag/hobbit/"
+          },
+          {
+            "title": "Best Instagram hashtags for #lotr | Flick: Social Media Marketing Platform",
+            "url": "https://www.flick.social/learn/hashtags/lotr"
+          }
+        ]
+      },
+      "Let me search for more information about The Hobbit fan accounts and content creators on Instagram.",
+      {
+        "tool_use_id": "srvtoolu_011LDPPJmZPGahAMyXYqbbe9",
+        "content": [
+          {
+            "title": "Instagram",
+            "url": "https://www.instagram.com/explore/tags/hobbit/"
+          },
+          {
+            "title": "Top 100 Horror Influencers in 2025",
+            "url": "https://influencers.feedspot.com/horror_instagram_influencers/"
+          },
+          {
+            "title": "Top 100 OnlyFans Influencers in 2025 (OnlyFans Models)",
+            "url": "https://influencers.feedspot.com/onlyfans_instagram_influencers/"
+          },
+          {
+            "title": "The 25 Most Influential Social Media Influencers and Creators of 2024",
+            "url": "https://www.rollingstone.com/culture/culture-lists/top-social-media-influencers-creators-2024-1235084589/"
+          },
+          {
+            "title": "LOTR & The Hobbit Facts \ud83d\udc8d (@thehobbitfacts)",
+            "url": "https://www.instagram.com/thehobbitfacts/"
+          },
+          {
+            "title": "Top 100 Male OnlyFans Influencers in 2025",
+            "url": "https://influencers.feedspot.com/male_onlyfans_instagram_influencers/"
+          },
+          {
+            "title": "100 Hottest Onlyfans Influencers On Instagram of 2025 (Updated)",
+            "url": "https://influencers.uppromote.com/social-media/instagram/onlyfans-influencer/"
+          },
+          {
+            "title": "Top 80 Disney Influencers in 2025",
+            "url": "https://influencers.feedspot.com/disney_instagram_influencers/"
+          },
+          {
+            "title": "500+ Influencers & Content Creators to Watch in 2025 | Afluencer",
+            "url": "https://afluencer.com/top-influencers-to-watch/"
+          },
+          {
+            "title": "Influencers Who Often Post About News, and Who Sees Their Content | Pew Research Center",
+            "url": "https://www.pewresearch.org/journalism/2024/11/18/americas-news-influencers/"
+          }
+        ]
+      },
+      "Based on my search results, here's what I found about The Hobbit's social media presence on Instagram in 2024:\n\n## Popular Hashtags\n\nThe most popular hashtags for The Hobbit content on Instagram in 2024 include: #hobbit #lordoftherings #lotr #tolkien #thehobbit #middleearth #jrrtolkien #gandalf #thelordoftherings #legolas #frodo #fantasy #bilbobaggins #aragorn #sauron #silmarillion #hobbiton #bilbo #frodobaggins #hobbits #hobbithouse #art #lotrmemes #tolkienart #mordor #gimli #elves #gollum #theshire #elf(no content)Additional hashtags for specific Hobbit-themed content include: #HobbitCostumeContest #HobbitCostume #HobbitQuiz #HobbitTrivia #HobbitBookRecommendation #BooksLikeHobbit #HobbitShire #HobbitCafe #HobbitHome #HobbitMerchandise #HobbitTshirts #HobbitCups #HobbitProducts #HobbitArt #HobbitCraft #HobbitDayArt #HobbitGiveaway #HobbitDayPrizes(no content)More specific hashtags include: #hobbitday #hobbitland #hobbitcosplay #hobbitcon #hobbitsbg #hobbitdoor #hobbitmovie #hobbitmemes #hobbitedit #hobbithill #hobbitcafe #hobbitmeme #hobbitnations #hobbitshirt #hobbittshirt #hobbitgirl\n\n## Fan Accounts\n\nTwo notable Instagram fan accounts dedicated to The Hobbit and Lord of the Rings content include:\n\n1. @thehobbitfacts - \"LOTR & The Hobbit Facts \ud83d\udc8d\"\n2. @thehobbitmovie - \"The Hobbit & LOTR\"\n\n## Content Creation Strategies\n\nContent creators are using charming Hobbit Day social media post ideas to engage their audience and celebrate the magic of Middle-earth. Popular content types include:\n\n- Hobbit quizzes and trivia to encourage fan engagement, covering characters, storylines, and facts about the story\n- Hobbit-themed artwork, crafts, and illustrations\n- Fan features showing followers dressed as their favorite characters with creative costumes and makeup\n- Content about Hobbit-inspired places and filming locations\n\n## Platform Statistics\n\nThe hashtag #hobbit has approximately 1.4 million posts on Instagram, with related hashtags showing significant engagement: #lotr has 2.74 million posts, #lordoftherings has 2.63 million posts, and #thehobbit has 1.6 million posts(no content)Hashtag generators have analyzed the most popular hashtags relating to #hobbit to help content creators maximize likes and attract new followers on Instagram, TikTok, and YouTube\n\nThe Hobbit maintains a strong social media presence on Instagram in 2024, with active fan communities, dedicated content creators, and millions of posts using related hashtags. The content spans from movie appreciation to book discussions, cosplay, merchandise, and location-based content, showing the enduring popularity of Tolkien's work on the platform."
+    ],
+    "durationSeconds": 45.655075298999904
+  }
+}

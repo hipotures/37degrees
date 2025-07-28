@@ -1,0 +1,63 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Jane Eyre\" pierwsze wydanie polskie t\u0142umaczenie \"Dziwne losy Jane Eyre\" translator"
+  },
+  "tool_response": {
+    "query": "\"Jane Eyre\" pierwsze wydanie polskie t\u0142umaczenie \"Dziwne losy Jane Eyre\" translator",
+    "results": [
+      "I'll search for information about the first Polish edition of \"Jane Eyre\" and its translation as \"Dziwne losy Jane Eyre\" along with the translator.",
+      {
+        "tool_use_id": "srvtoolu_01C9cRSxyp693oQh1vUKr922",
+        "content": [
+          {
+            "title": "Dziwne losy Jane Eyre | Wydawnictwo \u015awiat Ksi\u0105\u017cki",
+            "url": "https://wydawnictwoswiatksiazki.pl/tytul/dziwne-losy-jane-eyre/"
+          },
+          {
+            "title": "Jane Eyre - t\u0142umaczenia &bull forum czytelnik\u00f3w ksi\u0105\u017cek &raquo; BiblioNETka.pl",
+            "url": "https://www.biblionetka.pl/art.aspx?id=502603"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre - Charlotte Bront\u00eb | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/4968674/dziwne-losy-jane-eyre"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre",
+            "url": "https://wolnelektury.pl/katalog/lektura/bronte-dziwne-losy-jane-eyre/"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre - Translation into English - examples Polish | Reverso Context",
+            "url": "https://context.reverso.net/translation/polish-english/Dziwne+losy+Jane+Eyre"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Dziwne_losy_Jane_Eyre"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre Charlotte Bront\u00eb. Ebook - Ksi\u0119garnia psychologiczna Sensus",
+            "url": "https://sensus.pl/ksiazki/dziwne-losy-jane-eyre-charlotte-bront,e_0p2g.htm"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre | C. Bront\u00eb - Przeczytana.com | Blog o ksi\u0105\u017ckach",
+            "url": "https://przeczytana.com/2024/09/01/dziwne-losy-jane-eyre-c-bronte/"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre - Kultowy.pl",
+            "url": "https://kultowy.pl/dziwne-losy-jane-eyre"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre | Charlotte Bronte (Ksi\u0105\u017cka) - Ksi\u0119garnia znak.com.pl",
+            "url": "https://www.znak.com.pl/p/dziwne-losy-jane-eyre-charlotte-bronte-84528"
+          }
+        ]
+      },
+      "Based on the search results, I found information about the Polish translation of \"Jane Eyre\" as \"Dziwne losy Jane Eyre\":\n\nThe Polish translation of \"Jane Eyre\" titled \"Dziwne losy Jane Eyre\" was translated by Teresa \u015awiderska in 1930. The search results from wolnelektury.pl (Free Books) specifically state that \"Baz\u0105 naszej publikacji jest polski przek\u0142ad powie\u015bci autorstwa Teresy \u015awiderskiej z 1930 roku\" (The basis of our publication is the Polish translation of the novel by Teresa \u015awiderska from 1930).\n\nThe novel was originally published in English in October 1847 under the pseudonym Currer Bell, which was Charlotte Bront\u00eb's pen name. The Polish title \"Dziwne losy Jane Eyre\" translates to \"The Strange Fates of Jane Eyre\" in English.\n\nThis appears to be the first Polish translation of the novel, as Teresa \u015awiderska's 1930 translation is referenced as the standard Polish version used in various publications, including the one available on wolnelektury.pl, which is a major Polish digital library for classic literature."
+    ],
+    "durationSeconds": 15.277786720000208
+  }
+}

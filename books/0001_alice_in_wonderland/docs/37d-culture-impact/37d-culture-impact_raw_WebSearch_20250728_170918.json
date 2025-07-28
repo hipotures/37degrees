@@ -1,0 +1,62 @@
+{
+  "session_id": "e45997b0-1016-4783-9450-979f533f9cbc",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e45997b0-1016-4783-9450-979f533f9cbc.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Alice in Wonderland\" psychological references movies TV shows modern adaptations therapy mental health"
+  },
+  "tool_response": {
+    "query": "\"Alice in Wonderland\" psychological references movies TV shows modern adaptations therapy mental health",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01SKqjrtuVXpjrSsemJcm98a",
+        "content": [
+          {
+            "title": "Alice in Wonderland and Mental Illness: Exploring the Psychological Themes in Carroll's Classic",
+            "url": "https://neurolaunch.com/alice-in-wonderland-mental-illness/"
+          },
+          {
+            "title": "Do The 'Alice In Wonderland' Characters Symbolize Mental Illness?",
+            "url": "https://www.thethings.com/what-mental-illness-do-the-characters-in-alice-in-wonderland-have/"
+          },
+          {
+            "title": "Works based on Alice in Wonderland - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Works_based_on_Alice_in_Wonderland"
+          },
+          {
+            "title": "The Psychology Within Alice In Wonderland | The Odyssey Online",
+            "url": "https://www.theodysseyonline.com/psychology-within-alice-wonderland"
+          },
+          {
+            "title": "Why \u201cAlice in Wonderland\u201d Is So Hard To Adapt? \u2014 OnStage Blog",
+            "url": "https://www.onstageblog.com/stage-directions/2022/12/16/why-alice-in-wonderland-is-so-hard-to-adapt"
+          },
+          {
+            "title": "The Psychological & Neurological Disorders Experienced by Characters in Alice in Wonderland: A Neuroscience Reading of Lewis Carroll's Classic Tale | Open Culture",
+            "url": "https://www.openculture.com/2018/01/the-psychological-neurological-disorders-experienced-by-characters-in-alice-in-wonderland.html"
+          },
+          {
+            "title": "Films and television programmes based on Alice in Wonderland - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Films_and_television_programmes_based_on_Alice_in_Wonderland"
+          },
+          {
+            "title": "Alice in Wonderland Adaptations (TV & Movies) \u2013 Elley the Book Otter",
+            "url": "https://elleyotter.home.blog/2021/03/10/alice-in-wonderland-adaptations-tv-movies/"
+          },
+          {
+            "title": "10 Movies Directly Inspired by Alice in Wonderland",
+            "url": "https://movieweb.com/movies-directly-inspired-by-alice-in-wonderland/"
+          },
+          {
+            "title": "\u201cAlice in Wonderland\u201d: The Book, The Syndrome, and the Neuroscience of Perception - Psi Chi, The International Honor Society in Psychology",
+            "url": "https://www.psichi.org/blogpost/987366/499920/Alice-in-Wonderland--The-Book-The-Syndrome-and-the-Neuroscience-of-Perception"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about Alice in Wonderland's psychological references, modern adaptations, and connections to mental health themes:\n\n## Psychological Themes and Mental Health References\n\nThe narrative has also found its way into therapeutic settings. Art therapists have used Alice's journey as a framework for exploring patients' inner worlds. The vivid imagery and symbolic characters provide a rich vocabulary for expressing complex emotional states that might otherwise be difficult to articulate.(no content)It is believed that Carroll used his knowledge of mental disorders and what was understood about them at the time to help mold his characters.(no content)Carroll himself, it seems, drew many of his depictions directly from the treatment of mental disorders in 19th century England, many of which were linked to \"extremely poor working conditions.\"\n\n### Character Mental Health Interpretations\n\n**Alice:** According to Owlcation, Alice seems to be struggling primarily with an eating disorder. This is first alluded to when she arrives in Wonderland and dramatically changes size after eating or drinking the foods and potions she can access. This may show how those with disordered eating may feel like they drastically change size even after only consuming one thing.(no content)Alice is arguably in my opinion one of the most interesting characters portrayed.\n\n**The Mad Hatter:** According to The Odyssey Online, the Mad Hatter, one of the most significant characters, displays Post-Traumatic Stress Disorder. At least in the Tim Burton adaptation of the story, where the character is played by Johnny Depp, he suffers frequent flashbacks of his village being attacked by the Red Queen, which sparks angry outbursts. The character also seems to show signs of Bipolar Disorder as he is at times gloomy and depressed before experiencing manic episodes of excitement.\n\n## Modern TV and Movie Adaptations\n\n### Television Adaptations\nAlice (2009) is a Syfy channel miniseries based on the novels, but set in the modern day, where Wonderland has evolved to today's standards and Alice as a dark-haired assertive woman instead of the blond child she is in the original.(no content)Once Upon a Time in Wonderland (2013) is an ABC channel miniseries based on the novels, a spinoff from the successful TV series \"Once Upon A Time\". Both series combines elements from various Disney movies and are greatly inspired by the narration of LOST, which the creators also worked on.\n\n### Psychological Horror Adaptations\nAmerican McGee's Alice is a macabre computer game which chronologically takes place following the two Alice books. Alice is awoken from a dream of Wonderland by a house fire which claimed her family and left her with serious physical and mental wounds and is receiving treatment in Rutledge Asylum, she then goes on a journey in Wonderland.(no content)In American McGee's \"Alice\" video game (which has been ripped off by everything from Burton's \"Looking Glass\" premise (at least, faintly and in a much lighter way,) to the \"Once Upon a Time in Wonderland\" spin-off T.V. show from the creators of \"Once Upon a Time.\" In this story (similarly to \"Return to Oz,\") Alice has been locked away in a mental institution for years after watching her family killed in a fire and suffering intense psychological damage. She mentally retreats to Wonderland, now a nightmare version, which she must restore to its former state (and thus restore her mind to sanity) before it's too late.\n\n## Impact on Mental Health Awareness\n\nThe impact of Alice in Wonderland on mental health awareness cannot be overstated. By couching complex psychological concepts in the guise of a children's story, Carroll created a work that has helped destigmatize mental illness.(no content)Pop culture, too, has embraced the mental health themes in Alice in Wonderland. Numerous adaptations and reinterpretations have explicitly explored the psychological aspects of the story. From dark reimaginings in video games to thoughtful explorations in literature, Alice's journey continues to serve as a powerful metaphor for the experience of mental illness.(no content)In recent years, there's been a growing interest in psychological interpretations of Alice's adventures. Scholars, therapists, and readers alike have begun to see the story as a profound allegory for various mental health conditions. This perspective has opened up new avenues for understanding both the text and the human experience it reflects.\n\nThe search results reveal that Alice in Wonderland has become a significant cultural touchstone for exploring mental health themes, with modern adaptations continuing to use Carroll's framework to examine psychological conditions and therapeutic concepts across various media formats."
+    ],
+    "durationSeconds": 40.809561613
+  }
+}

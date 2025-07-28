@@ -1,0 +1,63 @@
+{
+  "session_id": "b8c17c71-efc6-4c19-9b68-e101c36de9c9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b8c17c71-efc6-4c19-9b68-e101c36de9c9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "1984 protest songs electronic music hip hop rap references Big Brother surveillance dystopia musicians"
+  },
+  "tool_response": {
+    "query": "1984 protest songs electronic music hip hop rap references Big Brother surveillance dystopia musicians",
+    "results": [
+      "I'll search for information about protest songs from 1984 that reference Big Brother, surveillance, and dystopia in electronic music, hip hop, and rap.",
+      {
+        "tool_use_id": "srvtoolu_01MurYQv68wewvsj4XG2jAHu",
+        "content": [
+          {
+            "title": "10 Songs Inspired by George Orwell's 1984 - Paste Magazine",
+            "url": "https://www.pastemagazine.com/music/1984/10-songs-inspired-by-george-orwells-1984"
+          },
+          {
+            "title": "1984 in hip-hop - Wikipedia",
+            "url": "https://en.m.wikipedia.org/wiki/1984_in_hip_hop_music"
+          },
+          {
+            "title": "10 Songs Inspired by George Orwell\u2019s 1984",
+            "url": "https://www.1984play.com.au/10-songs-inspired-by-george-orwells-1984/"
+          },
+          {
+            "title": "Playlist: We Look Back 40 Years To The Epic, Blockbuster Year, Rock N Roll In\u2026 1984 | BourbonAndVinyl",
+            "url": "https://bourbonandvinyl.net/2024/04/18/playlist-we-look-back-to-the-epic-blockbuster-year-rock-n-roll-in-1984/"
+          },
+          {
+            "title": "The 100 Best Protest Songs of All Time",
+            "url": "https://www.rollingstone.com/music/music-lists/best-protest-songs-1235154848/"
+          },
+          {
+            "title": "1984 (For the Love of Big Brother) - Wikipedia",
+            "url": "https://en.m.wikipedia.org/wiki/1984_(For_the_Love_of_Big_Brother)"
+          },
+          {
+            "title": "Hip-Hop/R&B Hits: 1984 on Apple Music",
+            "url": "https://music.apple.com/us/playlist/hip-hop-r-b-hits-1984/pl.48bf5b496c8d4177810fa32ef461aed6"
+          },
+          {
+            "title": "Phish.Net: Songs related to George Orwell's 1984?",
+            "url": "https://forum.phish.net/forum/show/1358938361"
+          },
+          {
+            "title": "1984 in music - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/1984_in_music"
+          },
+          {
+            "title": "The 25 best hip-hop protest songs ever - Salon.com",
+            "url": "https://www.salon.com/2017/10/28/the-25-best-hip-hop-protest-songs-ever/"
+          }
+        ]
+      },
+      "Based on my search results, I found some interesting information about protest songs from 1984 and songs inspired by George Orwell's \"1984\" that reference Big Brother, surveillance, and dystopia. While the search didn't return many specific examples from electronic music, hip hop, and rap from 1984 itself, here's what I found:\n\n## Songs Inspired by Orwell's \"1984\":\n\n### Electronic Music:\nEurythmics released \"1984 (For the Love of Big Brother)\" on November 12, 1984, as a soundtrack album for the film adaptation of George Orwell's dystopian novel. The music continued in the predominantly electronic style and employed the use of sampling.(no content)\"Sexcrime (Nineteen Eighty-Four)\" from this soundtrack was particularly notable, though it was actually banned and very hard to find for a long time. Big Brother is out there.\n\n### Punk and Rock References:\nSeveral punk and rock bands created songs directly referencing Big Brother and surveillance themes:\n- Subhumans' \"Big Brother\" was written on the heels of the actual year 1984 and communicated frustration with Thatcher-era Britain. The band leveraged the text's portrayal of mass surveillance to comment on the brainwashing effect of mainstream media\n- Stevie Wonder's \"Big Brother\" from 1972's Talking Book was one of the subtlest protest songs ever recorded, with Wonder singing in his velveteen voice about Big Brother watching on the telly\n\n### Hip Hop Context in 1984:\nIn 1984, alternative rock was being born on college radio, and Hip Hop was beginning to get noticed. However, the search didn't reveal specific hip hop protest songs from 1984 that directly referenced Big Brother or surveillance themes.\n\n### Later Hip Hop Protest Songs:\nWhile not from 1984 specifically, Dead Prez's \"Police State\" addresses the ways black communities are surveilled, and over-policed and incarcerated in America, showing how surveillance themes continued in hip hop protest music.\n\n### Cultural Context:\nWhile 1984 the actual year looked nothing like 1984 the novel, the Reagan administration was doing everything they could to bring it about. It seems we've saved the mass surveillance, permanent warfare, \"cult of personality\" and doublespeak (and alternative facts) for today's world.\n\nThe search results suggest that while 1984 was a significant year for music, with hip hop beginning to gain mainstream attention and electronic music evolving, many of the most notable protest songs directly referencing Orwell's \"1984\" and Big Brother themes came from punk and rock artists rather than specifically from electronic music or hip hop in that year. The influence of Orwell's dystopian themes has continued to resonate in protest music across all genres in subsequent decades."
+    ],
+    "durationSeconds": 36.242313079999995
+  }
+}

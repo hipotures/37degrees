@@ -1,0 +1,109 @@
+{
+  "session_id": "715f4a06-6795-4697-b7aa-4344b3e12664",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/715f4a06-6795-4697-b7aa-4344b3e12664.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Lalka matura arkusze CKE 2020 2021 2022 2023 2024 pytania egzaminacyjne"
+  },
+  "tool_response": {
+    "query": "Lalka matura arkusze CKE 2020 2021 2022 2023 2024 pytania egzaminacyjne",
+    "results": [
+      "I'll search for Polish high school graduation exam (matura) materials related to \"Lalka\" (The Doll) by Boles\u0142aw Prus from the Central Examination Commission (CKE) for the years 2020-2024.",
+      {
+        "tool_use_id": "srvtoolu_01KQ81Jpg8RXJ8ZSXNxD2f2u",
+        "content": [
+          {
+            "title": "Matura 2024 r. Sprawd\u017a czy rozwi\u0105\u017cesz matur\u0119 z matematyki 2023 r. [Formu\u0142a 2023 r. arkusz egzaminacyjny CKE] - Infor.pl",
+            "url": "https://www.infor.pl/prawo/dziecko-i-prawo/edukacja/6597974,matura-2024-r-sprawdz-czy-rozwiazesz-mature-z-matematyki-2023-r-pytania-i-odpowiedzi-arkusz-egzaminacyjny-cke-formula-2023-r.html"
+          },
+          {
+            "title": "Cke",
+            "url": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/komunikaty/2024/20230321_Lista_jawnych_zadan_JEZYK_POLSKI_2024_Aneks_1.pdf"
+          },
+          {
+            "title": "Matura - arkusze maturalne pytania i odpowiedzi - Matura - zadania - pytania i odpowiedzi - dla maturzysty",
+            "url": "https://www.dlamaturzysty.info/s/1625/36234-Matura-arkusze-maturalne.htm"
+          },
+          {
+            "title": "Arkusze egzaminacyjne - Okr\u0119gowa Komisja Egzaminacyjna w Krakowie",
+            "url": "https://www.oke.krakow.pl/inf/staticpages/index.php?page=20190107152352244"
+          },
+          {
+            "title": "Matura z matematyki: Arkusze 2024, 2023 i 2022. CKE: Te zadania sprawi\u0142y problem",
+            "url": "https://edukacja.rp.pl/matura-i-egzamin-osmoklasisty/art42204331-matura-z-matematyki-arkusze-2024-2023-i-2022-cke-te-zadania-sprawily-problem"
+          },
+          {
+            "title": "Arkusze CKE, Operon, Nowa Era - matura, egzamin \u00f3smoklasisty, egzamin zawodowy - Arkusze CKE, Operon, Nowa Era - matura, egzamin \u00f3smoklasisty, egzamin zawodowy",
+            "url": "https://arkusze.pl/"
+          },
+          {
+            "title": "Ostatni test przed matura 2024 r. Rozwi\u0105\u017c zadania z ubieg\u0142ego roku. Dzi\u015b matematyka [Arkusze egzaminacyjne CKE z odpowiedziami, Formu\u0142a 2015 r.]",
+            "url": "https://www.infor.pl/prawo/dziecko-i-prawo/edukacja/6597984,ostatni-test-przed-matura-2024-r-rozwiaz-zadania-z-ubieglego-roku-dzis-matematyka-arkusze-egzaminacyjne-cke-z-odpowiedziami-formula-2015-r.html.amp"
+          },
+          {
+            "title": "Matura j\u0119zyk polski 2022 maj (poziom podstawowy) - Arkusze CKE, Operon, Nowa Era - matura, egzamin \u00f3smoklasisty, egzamin zawodowy",
+            "url": "https://arkusze.pl/matura-jezyk-polski-2022-maj-poziom-podstawowy/"
+          },
+          {
+            "title": "ARKUSZE MATURALNE CKE | pytania i odpowiedzi",
+            "url": "https://www.otouczelnie.pl/matura/arkusze?przedmiot%5B%5D=j%C4%99zyk+polski&poziom%5B%5D=podstawowy"
+          },
+          {
+            "title": "MATURA-Arkusze CKE",
+            "url": "https://cke.gov.pl/egzamin-maturalny/egzamin-w-starej-formule/arkusze/"
+          }
+        ]
+      },
+      "I found search results related to Polish high school graduation exam (matura) materials, but I notice that the specific search for \"Lalka\" (The Doll by Boles\u0142aw Prus) exam questions from CKE didn't return many directly relevant results. Let me search more specifically for \"Lalka\" matura questions.",
+      {
+        "tool_use_id": "srvtoolu_01CFs3GeRsyQsrZcGJnW8G6t",
+        "content": [
+          {
+            "title": "Matura ustna \u2013 zagadnienia z \u201eLalki\u201d z om\u00f3wieniem \u2013 pytania jawne na 2025 i 2026-2028 - Baba od polskiego",
+            "url": "https://babaodpolskiego.pl/matura-ustna-lalka/"
+          },
+          {
+            "title": "LALKA Boles\u0142awa Prusa | matura 2025 - opracowanie i pytania jawne",
+            "url": "https://www.otouczelnie.pl/news/1399/Lalka-matura-2023"
+          },
+          {
+            "title": "Lalka - Matura ustna 2023 - pytania - Boles\u0142aw Prus",
+            "url": "https://www.bryk.pl/lektury/boleslaw-prus/lalka.matura-ustna-2023-pytania"
+          },
+          {
+            "title": "Pytania jawne matura 2026-2028 \u2013 lista i odpowiedzi \u2013 Matura z j\u0119zyka polskiego \u2013 poezja.org",
+            "url": "https://poezja.org/wz/a/Matura_ustna_2026/"
+          },
+          {
+            "title": "Proste wyja\u015bnienie: Lalka pytania jawne 2024 odpowiedzi matura ustna i pisemna (J\u0119zyk polski) - Knowunity",
+            "url": "https://knowunity.pl/knows/jzyk-polski-bolesaw-prus-lalka-lista-pyta-jawnych-matura-1234175b-9ef6-4099-8a97-0a74a7125109"
+          },
+          {
+            "title": "Pytania jawne matura 2025 \u2013 lista CKE i odpowiedzi (aktualizacja 20.08.2024) \u2013 Matura z j\u0119zyka polskiego \u2013 poezja.org",
+            "url": "https://poezja.org/wz/a/Matura_ustna_2025/"
+          },
+          {
+            "title": "Matura z j\u0119zyka polskiego CKE 2021. \"Lalka\" Boles\u0142awa Prusa na maturze z j. polskiego [ARKUSZ, ODPOWIEDZI] | Gazeta Krakowska",
+            "url": "https://gazetakrakowska.pl/matura-z-jezyka-polskiego-cke-2021-lalka-boleslawa-prusa-na-maturze-z-j-polskiego-arkusz-odpowiedzi/ar/c5-15574415"
+          },
+          {
+            "title": "Lalka - Matura ustna 2024 - pytania - Boles\u0142aw Prus - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/boleslaw-prus/lalka.matura-ustna-2024-pytania"
+          },
+          {
+            "title": "Pytania jawne matura ustna 2025 - lista 68 pyta\u0144 i odpowiedzi",
+            "url": "https://setkazpolaka.pl/pytania-jawne-matura-ustna-2025-odpowiedzi/"
+          },
+          {
+            "title": "Zadania maturalne na temat Lalki - B. Prus Lalka - opracowanie lektury - J\u0119zyk-polski.pl",
+            "url": "https://xn--jzyk-polski-rrb.pl/wiedza/lektury-opracowania/lalka-prus/zadanie-maturalne"
+          }
+        ]
+      },
+      "Based on my search results, I found comprehensive information about \"Lalka\" (The Doll) by Boles\u0142aw Prus in Polish high school graduation exam (matura) materials. Here's what I discovered:\n\n## \"Lalka\" in Polish Matura Exams (2020-2024)\n\n### Key Findings:\n\n1. **Matura 2021** - \"Lalka\" appeared in the 2021 matura exam with an essay topic about ambition: \"Czy ambicja mo\u017ce pom\u00f3c w osi\u0105gni\u0119ciu zamierzonego celu\" (Can ambition help in achieving one's intended goal). Students had to refer to a fragment from \"Lalka\" about Wokulski's scientific career beginnings, the entire novel, and another cultural text.\n\n2. **Oral Exam Questions for 2025** - For the 2025 oral matura exam, there are 7 public questions related to \"Lalka\" by Boles\u0142aw Prus, while for years 2026-2028 there will be 6 questions.\n\n3. **Public Questions for Oral Exams** include topics such as:\n   - Love \u2013 destructive force or motivation for action? Discuss based on \"Lalka\" by Boles\u0142aw Prus\n   - Different faces of friendship. Discuss based on \"Lalka\" by Boles\u0142aw Prus\n   - Work as human passion. Discuss based on \"Lalka\" by Boles\u0142aw Prus\n   - What role do wealth and origin play in interpersonal relations? Discuss based on \"Lalka\" by Boles\u0142aw Prus\n   - Confrontation of dreams with reality. Discuss based on \"Lalka\" by Boles\u0142aw Prus\n   - What character traits help a person achieve their goal?\n   - City \u2013 friendly or hostile space for humans? Discuss based on \"Lalka\" by Boles\u0142aw Prus\n\n4. **Written Exam History** - In the history-literary test, questions about \"Lalka\" have appeared, including whether Boles\u0142aw Prus fulfilled the task mentioned in his Chronicles fragments (diagnostic test, June 2022).\n\n5. **Student Reception** - \"Most students before the matura were betting on 'Lalka', so this year's Polish matura didn't surprise students\". \"'Lalka' is a reading that probably every high school student knows and it's one of the readings that are better covered in school\".\n\n6. **CKE Materials** - The Central Examination Commission (CKE) provides official exam archives on their website, though specific \"Lalka\" questions from recent years aren't always directly accessible. On the CKE website, you can find a complete set of archival exam sheets, including full grading criteria for solutions.\n\nThe search results indicate that \"Lalka\" remains one of the most important works in Polish matura exams, appearing regularly in both written and oral examinations with various thematic approaches focusing on love, ambition, social relations, work ethics, and the contrast between dreams and reality."
+    ],
+    "durationSeconds": 40.43228590600006
+  }
+}

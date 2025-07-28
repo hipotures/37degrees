@@ -1,0 +1,63 @@
+{
+  "session_id": "7ca65eb2-e5d0-4143-8931-90f15001b62e",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7ca65eb2-e5d0-4143-8931-90f15001b62e.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Anna Karenina theater stage adaptations opera ballet productions Royal Opera House Broadway"
+  },
+  "tool_response": {
+    "query": "Anna Karenina theater stage adaptations opera ballet productions Royal Opera House Broadway",
+    "results": [
+      "I'll search for information about Anna Karenina theatrical adaptations, including opera, ballet, and stage productions at venues like the Royal Opera House and Broadway.",
+      {
+        "tool_use_id": "srvtoolu_01NrQoxjCYxY15neztNKRj88",
+        "content": [
+          {
+            "title": "Anna Karenina (musical) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Anna_Karenina_(musical)"
+          },
+          {
+            "title": "Stage Direction: Anna Karenina",
+            "url": "https://stories.sydneyoperahouse.com/stage-direction-anna-karenina/"
+          },
+          {
+            "title": "Anna Karenina | June 13\u201321, 2025 | The National Ballet of Canada",
+            "url": "https://national.ballet.ca/productions/anna-karenina/"
+          },
+          {
+            "title": "\u201cANNA KARENINA\u201d: All the world\u2019s a stage | Butler's Cinema Scene",
+            "url": "https://butlerscinemascene.com/2012/11/29/anna-karenina-all-the-worlds-a-stage/"
+          },
+          {
+            "title": "ANNA KARENINA",
+            "url": "https://www.staatsoper.de/en/productions/anna-karenina"
+          },
+          {
+            "title": "Anna Karenina-Lyric Opera- Chicago",
+            "url": "https://www.theatreinchicago.com/anna-karenina/11968/"
+          },
+          {
+            "title": "Gorgeous Surface, Hidden Depths: A Review of Joffrey Ballet\u2019s \u201cAnna Karenina\u201d at the Lyric Opera House | Newcity Stage",
+            "url": "https://www.newcitystage.com/2023/02/20/gorgeous-surface-hidden-depths-a-review-of-joffrey-ballets-anna-karenina-at-the-lyric-opera-house/"
+          },
+          {
+            "title": "Anna Karenina, Mariinsky Ballet, Royal Opera House | The Arts Desk",
+            "url": "https://www.theartsdesk.com/dance/anna-karenina-mariinsky-ballet-royal-opera-house"
+          },
+          {
+            "title": "Adaptations of Anna Karenina - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Adaptations_of_Anna_Karenina"
+          },
+          {
+            "title": "How ballet companies adapt classic novels for the stage - The Washington Post",
+            "url": "https://www.washingtonpost.com/theater-dance/2023/04/01/ballet-novels-crucible-karenina/"
+          }
+        ]
+      },
+      "Based on my search results, I can provide you with comprehensive information about Anna Karenina theatrical adaptations across various performing arts venues:\n\n## Broadway Musical (1992)\n\nAfter 18 previews, the Broadway production, directed by Theodore Mann and choreographed by Patricia Birch, and associate choreographer, Jonathan Stuart Cerullo, opened on August 26, 1992, at the Circle in the Square Theatre.(no content)Anna Karenina is a 1992 musical with a book and lyrics by Peter Kellogg and music by Daniel Levine.\n\nThe production had a minimalist approach with \"a sparse set, an almost bare stage, and only seven members in the orchestra, with orchestrations by Peter Matz.\" Unfortunately, Anna Karenina was received poorly by the critics. Time deemed it \"earnest, intermittently moving but never quite thrilling\", and The New York Times was harsher, calling the show a \"series of misperceptions and errors in judgment.\"(no content)The musical ran for 46 performances.\n\nDespite its short run, it received Tony Award nominations for Best Actress in a Musical (Ann Crumb), Best Book of a Musical, Best Score of a Musical, and Best Featured Actor in a Musical (Gregg Edelman).\n\n## Royal Opera House Productions\n\nWell, that was War and Peace. Alexei Ratmansky hasn't tried to distil that monster into ballet, but has instead gone for the (relatively) brief Anna Karenina. But by God, he's got the yacht race in all the same \u2013 or, at least, a horse race. Indeed, the horse race was my favourite part of the Mariinsky Ballet's production at the Royal Opera House.\n\nRatmansky has tied himself to composer Rodion Shchedrin's 1972 Anna Karenina score, created for his wife, Maya Plisetskaya, and the score sounds pretty much like the way the Bolshoi were dancing in the 1970s \u2013 a score for a silent movie, the urgent accompaniment to waving capes, rolling eyes, everyone making sure at every moment that every emotion is carried to the farthest balcony.\n\n## Ballet Productions\n\n### National Ballet of Canada\nAn alluring new Anna Karenina enters The National Ballet of Canada repertoire with this North American premiere and first creative partnership with Christian Spuck. One of Europe's foremost choreographers, Spuck distills Leo Tolstoy's richly themed novel about morality, social reform, family and passion into profound choreography that shares the best of his modern yet theatrical style. The production runs June 13\u201321, 2025 and features \"lush 19th-century costumes, cinematic projections and a curated score featuring music by Sergei Rachmaninoff and Witold Lutos\u0142awski.\"\n\n### Australian Ballet & Joffrey Ballet Co-Production\nThe Australian Ballet's latest take on Tolstoy's epic, a co-production with Chicago's Joffrey Ballet, is arguably its most breathtaking yet. Deftly dancing around the heart of the text, it thrums to mesmerising choreography from Ukrainian-born choreographer Yuri Possokhov and a brilliant new score by St Petersburg-based composer Ilya Demutsky.(no content)\"A breathtaking, cinematic production with stunning costume design and captivating choreography, set to an original composition by award-winning composer Ilya Demutsky, the famed psychological drama returns to the Joffrey for the first time since its successful world premiere.\" The production premiered in 2019 and has been remounted at the Lyric Opera House.\n\n\"Anna Karenina\" has been the highest-grossing full-length work in the company's history outside of \"The Nutcracker.\"\n\n### Other Notable Ballet Productions\n- 2018: Anna Karenina, a ballet by John Neumeier inspired by Leo Tolstoy; music by Tchaikovsky, Alfred Schnittke and Cat Stevens/Yusuf Islam\n- The 1972 \"Anna Karenina\" that Maya Plisetskaya choreographed for the Bolshoi Ballet with a score by Rodion Shchedrin\n- The Australian Ballet tackled the mighty tome for the first time, as led by choreographer Andr\u00e9 Prokovsky in 1979\n\n## Opera Adaptations\n\nTolstoy's operatic plot has also inspired arias from composers, including American David Carlson and Scotsman Iain Hamilton.(no content)2007: Anna Karenina, an American opera with music by David Carlson on a libretto by Colin Graham which premiered in 2007 at Florida Grand Opera. Second version with an added scene on text by Mark Streshinsky was premi\u00e8red in 2010 by Opera San Jose.\n\nAdditional opera versions include:\n- 1914: Karenina Anna by Hungarian composer Jen\u0151 Hubay, premi\u00e8red in 1923\n- 1962: Anna Kareninov\u00e1 by Czech composer Emil Hlobil on his own libretto, premi\u00e8red in \u010cesk\u00e9 Bud\u011bjovice in 1963\n- 1970: Anna Karenina by Ukrainian composer Yuly Sergeyevich Meytus\n\n## Stage Adaptations\n\n1992: Helen Edmundson's adaptation was produced by Shared Experience for a touring production. Edmundson won a Time Out Award for Outstanding Theatrical Event of 1992, and a TMA Award.\n\nThe novel has also been adapted into various theatrical productions, with directors taking creative approaches like Joe Wright's 2012 film which \"reimaged 'Anna Karenina' and late 10th-century Russian life as a sort of grand pageant, one that actually unfolds on the stage of a Moscow theater. While a few scenes are shot in real locations (more on that later), most of this 'Anna' takes place in what looks like a grand opera house.\"\n\nThese adaptations demonstrate the enduring appeal of Tolstoy's masterpiece across multiple theatrical forms, from Broadway musicals to grand opera productions and innovative ballet interpretations at prestigious venues worldwide."
+    ],
+    "durationSeconds": 62.454500122
+  }
+}

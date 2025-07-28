@@ -1,0 +1,63 @@
+{
+  "session_id": "bb5bd92f-2e06-46b2-9b84-f65c0578b080",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/bb5bd92f-2e06-46b2-9b84-f65c0578b080.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Ma\u0142y Ksi\u0105\u017c\u0119\" matura egzamin \u00f3smoklasisty CKE arkusze pytania"
+  },
+  "tool_response": {
+    "query": "\"Ma\u0142y Ksi\u0105\u017c\u0119\" matura egzamin \u00f3smoklasisty CKE arkusze pytania",
+    "results": [
+      "I'll search for information about \"Ma\u0142y Ksi\u0105\u017c\u0119\" (The Little Prince) in Polish matura and eighth-grade exams, including CKE exam sheets and questions.",
+      {
+        "tool_use_id": "srvtoolu_018t78bTcTmrD29Wso5ABikv",
+        "content": [
+          {
+            "title": "Egzamin \u00f3smoklasisty j\u0119zyk polski 2025 - Arkusze CKE, Operon, Nowa Era - matura, egzamin \u00f3smoklasisty, egzamin zawodowy",
+            "url": "https://arkusze.pl/egzamin-osmoklasisty-jezyk-polski-2025/"
+          },
+          {
+            "title": "Zadanie 1 / Powt\u00f3rka z polskiego - Ma\u0142y Ksi\u0105\u017c\u0119 Antoine\u2019a de Saint-Exup\u00e9ry\u2019ego oraz Ma\u0142y Ksi\u0105\u017c\u0119 odnaleziony Jean-Pierre\u2019a Davidtsa - Zadania i testy z j\u0119zyka polskiego na egzamin \u00f3smoklasisty - J\u0119zyk polski - egzamin online, testy i zadania z rozwi\u0105zaniami - dlaucznia.info",
+            "url": "https://testy.dlaucznia.info/s/5026/81093-jezyk-polski-zadania/4990408-Powtorka-z-polskiego-Maly-Ksiaze-Antoinea-de-Saint-Exuperyego-oraz-Maly-Ksiaze-odnaleziony-Jean.htm"
+          },
+          {
+            "title": "Egzamin \u00f3smoklasisty 2025. J\u0119zyk polski. Tu arkusz CKE i odpowiedzi - Wydarzenia w INTERIA.PL",
+            "url": "https://wydarzenia.interia.pl/egzamin-osmoklasisty/arkusze/news-egzamin-osmoklasisty-2025-jezyk-polski-arkusz-cke-i-odpowied,nId,21400906"
+          },
+          {
+            "title": "Egzamin \u00f3smoklasisty POLSKI - ARKUSZE, ODPOWIEDZI, ZADANIA. \"Ma\u0142y Ksi\u0105\u017c\u0119\" na egzaminie \u00f3smoklasisty z j\u0119zyka polskiego? [18.04.2019 r.] | Gazeta Krakowska",
+            "url": "https://gazetakrakowska.pl/egzamin-osmoklasisty-polski-arkusze-odpowiedzi-zadania-maly-ksiaze-na-egzaminie-osmoklasisty-z-jezyka-polskiego-18042019-r/ar/c5-14050717"
+          },
+          {
+            "title": "Egzamin \u00f3smoklasisty 2025 \u2013 propozycje odpowiedzi [klucz odpowiedzi] - Baba od polskiego",
+            "url": "https://babaodpolskiego.pl/egzamin-osmoklasisty-2025-propozycje-odpowiedzi-klucz-odpowiedzi/"
+          },
+          {
+            "title": "MA\u0141Y KSI\u0104\u017b\u0118, Antoine de Saint-Exup\u00e9ry | egzamin \u00f3smoklasisty 2025",
+            "url": "https://www.otouczelnie.pl/news/1366/Maly-Ksiaze-Antoine-de-Saint-Exupry-egzamin-osmoklasisty-2023"
+          },
+          {
+            "title": "Oce\u0144 prawdziwo\u015b\u0107 podanych stwierdze\u0144 w - Zadanie 3 - strona 5 - J\u0119zyk polski. Egzamin \u00f3smoklasisty 2019 - Skul",
+            "url": "https://skul.pl/jezyk-polski/zadanie,3,zid,233772"
+          },
+          {
+            "title": "Zadania i testy z j\u0119zyka polskiego na egzamin \u00f3smoklasisty - J\u0119zyk polski - egzamin online, testy i zadania z rozwi\u0105zaniami - dlaucznia.info",
+            "url": "https://testy.dlaucznia.info/s/5026/81093-jezyk-polski-zadania.htm"
+          },
+          {
+            "title": "\"Ma\u0142y Ksi\u0105\u017c\u0119\" - zadania egzaminacyjne \u2022 Z\u0142oty nauczyciel",
+            "url": "https://zlotynauczyciel.pl/downloads/maly-ksiaze-zadania-egzaminacyjne/"
+          },
+          {
+            "title": "Egzamin \u00f3smoklasisty 2019: J\u0119zyk Polski ARKUSZE CKE + ODPOWIEDZI Ma\u0142y Ksi\u0105\u017c\u0119 i Pocz\u0105tki kina 16. 04. 2019 | Dziennik Zachodni",
+            "url": "https://dziennikzachodni.pl/egzamin-osmoklasisty-2019-jezyk-polski-arkusze-cke-odpowiedzi-maly-ksiaze-i-poczatki-kina-16-04-2019/ar/c5-14047473"
+          }
+        ]
+      },
+      "Based on the search results, I found information about \"Ma\u0142y Ksi\u0105\u017c\u0119\" (The Little Prince) appearing in Polish eighth-grade exams (egzamin \u00f3smoklasisty) and matura exams. Here's what I found:\n\n## \"Ma\u0142y Ksi\u0105\u017c\u0119\" in Polish Exams:\n\n### Eighth-Grade Exam (Egzamin \u00f3smoklasisty):\n\n\"Ma\u0142y Ksi\u0105\u017c\u0119\" appeared in the 2025 eighth-grade Polish language exam. Students had to work with questions about friendship in the context of this book.\n\nIn the 2025 exam, students could reference \"Ma\u0142y Ksi\u0105\u017c\u0119\" and Harry Potter when discussing friendship themes, as practically any required reading containing friendship could be used with proper arguments.\n\nThe book \"Ma\u0142y Ksi\u0105\u017c\u0119\" appeared in the 2020 eighth-grade exam, where a fragment of the book was quoted. Students had to write what was described in the fragment and complete sentences with multiple choice answers, including \"The pilot landed in the desert because\".\n\n\"Ma\u0142y Ksi\u0105\u017c\u0119\" by Antoine de Saint-Exup\u00e9ry appeared in the 2019 eighth-grade exam and wasn't surprising, though the text by Krzysztof Teodor Toeplitz was.\n\n### Types of Questions and Tasks:\n\nStudents had to evaluate whether statements were true or false, such as \"The Pilot and the Little Prince decided to search for a well because they ran out of water\" and \"The Little Prince's proposal expressed in the words 'Let's look for a well' was met with joy by the pilot\".\n\nOther tasks included: \"Referring to the entire work, write why the Little Prince decided to leave the Rose\", \"Referring to the entire work, write why the Little Prince decided to return to his planet\", and \"Which character from a required reading other than The Little Prince turned out to be a true friend?\"(no content)Example true/false questions included: \"All roses from 'The Little Prince' symbolize modesty\" and \"In 'The Little Prince' the fox embodies cunning and slyness\".\n\n### CKE Materials:\n\nCKE (Central Examination Commission) prepared revision sets with 2 texts and 12 tasks with answers and explanations for \"Ma\u0142y Ksi\u0105\u017c\u0119\" by Antoine de Saint-Exup\u00e9ry and \"Ma\u0142y Ksi\u0105\u017c\u0119 odnaleziony\" (The Little Prince Found) by Jean-Pierre Davidts on March 20, 2020.\n\nEducational materials include worksheets with 13 original exam-style tasks about \"Ma\u0142y Ksi\u0105\u017c\u0119\" by Antoine de Saint-Exup\u00e9ry with answer keys.\n\nThe search results show that \"Ma\u0142y Ksi\u0105\u017c\u0119\" is a regularly featured text in Polish eighth-grade exams, with questions focusing on themes of friendship, character relationships, symbolism, and plot comprehension."
+    ],
+    "durationSeconds": 31.190007765999994
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "session_id": "b8c17c71-efc6-4c19-9b68-e101c36de9c9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b8c17c71-efc6-4c19-9b68-e101c36de9c9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "George Orwell 1984 publication date June 8 1949 Secker Warburg first edition"
+  },
+  "tool_response": {
+    "query": "George Orwell 1984 publication date June 8 1949 Secker Warburg first edition",
+    "results": [
+      "I'll search for information about the publication date of George Orwell's \"1984\" and its first edition details.",
+      {
+        "tool_use_id": "srvtoolu_01MvjJCtH4LdJDb4rhQU2Hf1",
+        "content": [
+          {
+            "title": "Nineteen Eighty-Four - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four"
+          },
+          {
+            "title": "1984 or Nineteen Eighty Four by George Orwell, First Edition, Secker - AbeBooks",
+            "url": "https://www.abebooks.com/servlet/SearchResults?an=George+Orwell&bi=0&bx=on&ds=30&fe=on&pn=Secker&prl=1500&recentlyadded=all&sortby=1&tn=1984+or+Nineteen+Eighty+Four&x=0&y=0&yrh=1949"
+          },
+          {
+            "title": "Nineteen Eighty Four by George Orwell, Secker and Warburg - AbeBooks",
+            "url": "https://www.abebooks.com/servlet/SearchResults?yrh=1949&x=0&yrl=1949&y=0&pn=Secker+and+Warburg&bi=0&ds=30&bx=off&sortby=17&tn=Nineteen+Eighty+Four&an=George+Orwell&recentlyadded=all"
+          },
+          {
+            "title": "Nineteen Eighty-Four 1984 | GEORGE ORWELL | First edition",
+            "url": "https://www.manhattanrarebooks.com/pages/books/2019/george-orwell/nineteen-eighty-four-1984?soldItem=true"
+          },
+          {
+            "title": "Orwell-1949 1984.pdf",
+            "url": "https://rauterberg.employee.id.tue.nl/lecturenotes/DDM110%20CAS/Orwell-1949%201984.pdf"
+          },
+          {
+            "title": "Nineteen Eighty-Four: A 1984 Novel [First Edition] by Orwell, George | Hardcover | 1949 | Martin Secker & Warburg, Limited | Biblio",
+            "url": "https://www.biblio.com/book/nineteen-eighty-four-1984-novel-first/d/1463377651"
+          },
+          {
+            "title": "Nineteen Eighty-Four by George Orwell",
+            "url": "https://www.biblio.com/nineteen-eighty-four-by-george-orwell/work/3692"
+          },
+          {
+            "title": "Nineteen Eighty-Four: A 1984 Novel [British First Edition] by Orwell, George | Hardcover | 1950 | Martin Secker & Warburg, Limited | Biblio",
+            "url": "https://www.biblio.com/book/nineteen-eighty-four-1984-novel-british/d/1396371130"
+          },
+          {
+            "title": "1984 (Essential Orwell Classics): George Orwell: 9786257287401: Amazon.com: Books",
+            "url": "https://www.amazon.com/1984-Essential-Orwell-Classics-George/dp/6257287405"
+          },
+          {
+            "title": "Nineteen Eighty-Four OR 1984? \u2013 Darcy Moore",
+            "url": "https://www.darcymoore.net/2022/12/30/nineteen-eighty-four-or-1984/"
+          }
+        ]
+      },
+      "Based on the search results, I can confirm the following information about George Orwell's \"1984\" (also titled \"Nineteen Eighty-Four\"):\n\n## Publication Details:\n\n**Publication Date**: The novel was published on 8 June 1949 by Secker & Warburg in London, United Kingdom.\n\nThe UK edition is the true first edition, published on June 8, 1949; the first US edition followed only five days later.(no content)It was Orwell's ninth and final completed book.\n\n## Publisher and First Edition Information:\n\nPublished by Secker & Warburg, London, 1949(no content)First Edition, First Printing with the words \"First Published 1949\" printed on the copyright page.\n\n## Additional Details:\n\nThe iconic dust jacket designed by Michael Kennard for the genuine first edition of the novel published by Secker & Warburg on the 8th June featured both \"Nineteen Eighty-Four\" and \"1984\" on it.(no content)The UK edition was published with both red and green dust jackets (no priority established); the US in both red and blue (no priority).(no content)The UK edition first printing ran 26,575 copies, the US edition approximately 20,000.(no content)The book was an instant best seller in both Great Britain and the United States.\n\nThe search confirms that George Orwell's \"1984\" was indeed first published on June 8, 1949, by Secker & Warburg in London, making it the true first edition of this dystopian masterpiece."
+    ],
+    "durationSeconds": 19.523122719000092
+  }
+}

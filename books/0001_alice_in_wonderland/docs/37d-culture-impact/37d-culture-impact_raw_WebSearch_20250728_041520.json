@@ -1,0 +1,63 @@
+{
+  "session_id": "ac25dab5-19ee-43b4-8689-cf24d65d211d",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ac25dab5-19ee-43b4-8689-cf24d65d211d.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Alice in Wonderland video games list adaptations mobile VR interactive media"
+  },
+  "tool_response": {
+    "query": "Alice in Wonderland video games list adaptations mobile VR interactive media",
+    "results": [
+      "I'll search for information about Alice in Wonderland video game adaptations, including mobile, VR, and interactive media versions.",
+      {
+        "tool_use_id": "srvtoolu_01QVDWtscS3e26iM3Bjjx9KE",
+        "content": [
+          {
+            "title": "Disney announces multi-platform Alice in Wonderland video game | TechCrunch",
+            "url": "https://techcrunch.com/2009/07/23/disney-announces-multi-platform-alice-in-wonderland-video-game/"
+          },
+          {
+            "title": "10 Best Alice In Wonderland Inspired Games",
+            "url": "https://screenrant.com/alice-in-wonderland-best-video-games/"
+          },
+          {
+            "title": "Category:Video games based on Alice in Wonderland - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Category:Video_games_based_on_Alice_in_Wonderland"
+          },
+          {
+            "title": "Alice in Wonderland Adaptation Guide \u2013 Book Cave",
+            "url": "https://mybookcave.com/alice-in-wonderland-adaptation-guide-movie-books-music-play-video-game-adaptations-alices-story/"
+          },
+          {
+            "title": "Best Games Inspired By Alice in Wonderland",
+            "url": "https://gamerant.com/best-games-inspired-by-alice-in-wonderland/"
+          },
+          {
+            "title": "Video games based on Alice in Wonderland - FamousFix.com list",
+            "url": "https://m.famousfix.com/list/video-games-based-on-alice-in-wonderland"
+          },
+          {
+            "title": "10 Video Games Inspired By Alice In Wonderland",
+            "url": "https://www.thegamer.com/video-games-alice-in-wonderland-inspired/"
+          },
+          {
+            "title": "Alice In VR on Steam",
+            "url": "https://store.steampowered.com/app/829610/Alice_In_VR/"
+          },
+          {
+            "title": "Amazon.com: Alice in Wonderland - PC : Video Games",
+            "url": "https://www.amazon.com/Alice-Wonderland-PC/dp/B002KA20XI"
+          },
+          {
+            "title": "Category:Video games | Alice in Wonderland Wiki | Fandom",
+            "url": "https://aliceinwonderland.fandom.com/wiki/Category:Video_games"
+          }
+        ]
+      },
+      "Based on my search results, I've found extensive information about Alice in Wonderland video game adaptations across various platforms including mobile, VR, and interactive media. Here's a comprehensive list:\n\n## Major Alice in Wonderland Video Game Adaptations\n\n### Classic Games\n- **Alice in Wonderland (1985)** - Adventure game for Commodore 64 and Apple II by Windham Classics\n- **American McGee's Alice (2000)** - Third-person psychological horror action-adventure for PC\n- **Alice in Wonderland (2000)** - Platform game for Game Boy Color based on the 1951 Disney film\n- **Alice: An Interactive Museum (1991)** - Point-and-click adventure game\n- **Alice: Madness Returns (2011)** - Action-adventure sequel to American McGee's Alice\n\n### Mobile Games\n- **Alice in Wonderland Mobile Games** - Disney Interactive Studios released mobile games starting in 2009, including iPhone and iTouch applications\n- **Alice in Wonderland: The Mobile Game** - Features puzzle gameplay where players twist and turn their iPhone to guide Alice through Wonderland\n\n### VR Games\n- **Alice VR (2017)** - A virtual reality adventure game with a sci-fi reinterpretation of Alice's adventures, featuring puzzle-solving and character interactions in a surreal, futuristic world\n- **Alice In VR** - Available on Steam, this VR experience lets players fall down the rabbit hole, drink potions to shrink, eat cake to grow, and meet classic characters like the Cheshire Cat, White Rabbit, and Caterpillar\n\n### Film-Based Games\n- **Alice in Wonderland (2010)** - Multiple versions based on Tim Burton's film for Wii, Nintendo DS, and PC\n- **Alice in Wonderland (2010 DS version)** - A metroidvania-style puzzle-platformer where players control Wonderland residents to help escort Alice\n\n### Interactive and Visual Novel Games\n- **Alice's Adventures in Wonderland: A Pop-Up Adaptation (2003)** - Interactive book with pop-up illustrations\n- **Alice in the Country of Hearts** - Japanese female-oriented visual novel\n- **Guard of Wonderland** - Visual novel with dramatic twist on classic characters\n- **The Bottom of the Well (2016)** - Free visual novel available on Itch.io and Steam\n\n### Flash and Web Games\n- **Alice is Dead series** - Popular episodic Flash game series with noir-inspired tone\n\n### Other Notable Games\n- **Wonderland (1990)** - Text-driven adventure game by Magnetic Scrolls\n- **M\u00e4rchen Maze (1988)** - Isometric platform arcade game by Namco\n- **Alice no Paint Adventure** - Super Famicom adventure game based on the 1951 Disney film\n\n### Games Inspired by Alice in Wonderland\n- **Kingdom Hearts series** - Features Wonderland as one of the first worlds Sora visits\n- **BioShock series** - Contains parallel themes and references to Alice's Wonderland\n- **Epic Mickey** - Features similar story structure with Mickey entering a Wonderland-like realm\n\nThe search results show that the imaginative and fantastical nature of the original story lends itself well to the interactive medium of video games, resulting in adaptations across multiple platforms and genres, from traditional adventure games to modern VR experiences and mobile puzzle games."
+    ],
+    "durationSeconds": 38.96114854300022
+  }
+}

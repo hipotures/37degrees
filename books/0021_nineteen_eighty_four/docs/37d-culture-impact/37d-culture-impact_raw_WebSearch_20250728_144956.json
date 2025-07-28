@@ -1,0 +1,63 @@
+{
+  "session_id": "b8c17c71-efc6-4c19-9b68-e101c36de9c9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b8c17c71-efc6-4c19-9b68-e101c36de9c9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "1984 George Orwell theater stage adaptations Broadway West End contemporary productions 2023 2024"
+  },
+  "tool_response": {
+    "query": "1984 George Orwell theater stage adaptations Broadway West End contemporary productions 2023 2024",
+    "results": [
+      "I'll search for information about recent theater adaptations of George Orwell's \"1984\" on Broadway and West End stages.",
+      {
+        "tool_use_id": "srvtoolu_01He7WvDcKow5zajeKase9VR",
+        "content": [
+          {
+            "title": "1984 (play) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/1984_(play)"
+          },
+          {
+            "title": "Adaptations of Nineteen Eighty-Four - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Adaptations_of_Nineteen_Eighty-Four"
+          },
+          {
+            "title": "West End Production of 1984, Adapted from George Orwell's Book, Extends Run | Playbill",
+            "url": "https://playbill.com/article/west-end-production-of-1984-adapted-from-george-orwells-book-extends-run-com-217969"
+          },
+          {
+            "title": "George Orwell\u2019s 1984 announces casting and tour dates",
+            "url": "https://www.whatsonstage.com/news/george-orwells-1984-announces-casting-and-tour-dates_1623777/"
+          },
+          {
+            "title": "1984 | Official Box Office | Hudson Theatre",
+            "url": "https://www.thehudsonbroadway.com/events/1984-the-play/"
+          },
+          {
+            "title": "George Orwell's 1984 Will Be Staged at Theatre Royal Bath in and Adaptation By Ryan Craig",
+            "url": "https://www.broadwayworld.com/westend/article/George-Orwells-1984-Will-Be-Staged-at-Theatre-Royal-Bath-in-and-Adaptation-By-Ryan-Craig-20240423"
+          },
+          {
+            "title": "1984 on Broadway Tickets | Broadway.com",
+            "url": "https://www.broadway.com/shows/1984-broadway/"
+          },
+          {
+            "title": "George Orwell's 1984 (2024) - a unique theatre experience",
+            "url": "https://everythingimmersive.com/events/george-orwells-1984-2024"
+          },
+          {
+            "title": "1984 Tickets | London Theatre Direct",
+            "url": "https://www.londontheatredirect.com/play/1984-tickets"
+          },
+          {
+            "title": "George Orwell\u2019s dystopian classic 1984 is coming to Broadway in the Trump era",
+            "url": "https://www.timeout.com/newyork/blog/george-orwells-dystopian-classic-1984-is-coming-to-broadway-in-the-trump-era-020317"
+          }
+        ]
+      },
+      "Based on my search results, here's what I found about recent theater adaptations of George Orwell's \"1984\" on Broadway and West End stages:\n\n## Recent Major Productions (2023-2024)\n\n### 2024 UK Tour - Ryan Craig Adaptation\nA new stage adaptation by Ryan Craig and directed by Lindsay Posner opened at the Theatre Royal, Bath in September 2024 before embarking on a UK tour. The production ran in Bath from 20 to 28 September 2024, before heading to Malvern Theatre (1 to 5 October), Poole's Lighthouse Theatre (8 to 12 October), Guildford's Yvonne Arnaud Theatre (15 to 19 October), Cambridge Arts Theatre (22 to 26 October), Theatre Royal Brighton (29 October to 2 November), Richmond Theatre (12 to 16 November) and Liverpool Playhouse (19 to 23 November). The cast includes Keith Allen as O'Brien, Mark Quartley as Winston, Eleanor Wyld as Julia and David Birrell as Parsons.\n\n### 2024 Immersive Production in London\nIn October 2024, London's Hackney Town Hall became the Ministry of Truth for an extremely limited run with an immersive staging of 1984.\n\n## The Icke/Macmillan Adaptation - Major International Success\n\n### Original UK Productions and West End\nThe most significant recent theatrical adaptation was created by Robert Icke and Duncan Macmillan. 1984 is a 2013 play by Robert Icke and Duncan Macmillan based on the 1949 novel Nineteen Eighty-Four by George Orwell. The production premiered at the Nottingham Playhouse on Friday 13 September 2013 in a co-production with Headlong. In 2016 the production returned for a third time to the Playhouse Theatre in the West End from 14 June to 29 October.\n\n### Broadway Production (2017)\nIn 2017, Icke and Macmillan released a US edition of the play, and directed a new American cast for the play's opening on Broadway. The Broadway production opened at the Hudson Theatre on June 22 (previews beginning May 18) for a limited run until October 8, starring Tom Sturridge, Olivia Wilde and Reed Birney. Due to audience reactions to the shocking content, security guards were placed within the Hudson Theatre. Before opening night of the show, those under the age of 13 were barred from attending, after actors had spotted a small child in the audience.\n\n## Notable Features\nThe productions have been noted for their innovative staging and intense theatrical experience. Co-creators Robert Icke and Duncan Macmillan have created a stylish and dizzying take that frames the novel not as a quaint cautionary tale from 1949 (when Orwell was writing of the dangers of a totalitarian state such as the Soviet Union), but as an actual document that predicted the world in 2050. The play includes extreme torture scenes.\n\nWhile there was a major Broadway production in 2017 and significant UK productions in 2024, I did not find specific information about new Broadway or West End productions specifically in 2023. The most recent major theatrical activity appears to be the 2024 UK tour and the immersive London production at Hackney Town Hall."
+    ],
+    "durationSeconds": 30.636629887999966
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Madwoman in the Attic\" Gilbert Gubar Yale University Press 1979 Jane Eyre feminist criticism \"Victorian woman writer\""
+  },
+  "tool_response": {
+    "query": "\"Madwoman in the Attic\" Gilbert Gubar Yale University Press 1979 Jane Eyre feminist criticism \"Victorian woman writer\"",
+    "results": [
+      "I'll search for information about \"The Madwoman in the Attic\" by Gilbert and Gubar, focusing on its feminist criticism of Jane Eyre and Victorian women writers.",
+      {
+        "tool_use_id": "srvtoolu_01XAArUeb5i1DssuKLJTVKwp",
+        "content": [
+          {
+            "title": "The Madwoman in the Attic - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Madwoman_in_the_Attic"
+          },
+          {
+            "title": "The Madwoman in the Attic: The Woman Writer and the Nineteenth-Century Literary Imagination by Sandra M. Gilbert | Goodreads",
+            "url": "https://www.goodreads.com/book/show/149709.The_Madwoman_in_the_Attic"
+          },
+          {
+            "title": "Book Review: 'The Madwoman in the Attic' | How A 'Madwoman' Upended A Literary Boy's Club : NPR",
+            "url": "https://www.npr.org/2013/01/17/169548789/how-a-madwoman-upended-a-literary-boys-club"
+          },
+          {
+            "title": "The Madwoman in the Attic: The Woman Writer and the Nineteenth-Century Literary Imagination on JSTOR",
+            "url": "https://www.jstor.org/stable/j.ctvxkn74x"
+          },
+          {
+            "title": "The Madwoman In The Attic : Sandra Gilbert and Susan Gubar : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/TheMadwomanInTheAttic"
+          },
+          {
+            "title": "Sandra M. Gilbert - Susan Gubar",
+            "url": "https://ia803202.us.archive.org/32/items/TheMadwomanInTheAttic/The Madwoman in the Attic.pdf"
+          },
+          {
+            "title": "Gilbert and Gubar, The Madwoman in the Attic",
+            "url": "https://egrove.olemiss.edu/cgi/viewcontent.cgi?article=1020&context=studies_eng_new"
+          },
+          {
+            "title": "The Madwoman in the Attic",
+            "url": "https://yalebooks.yale.edu/book/9780300246728/the-madwoman-in-the-attic/"
+          },
+          {
+            "title": "\"The Madwoman in the Attic: The Woman Writer and the Nineteenth-Century Literary Imagination\", by Sandra M. Gilbert and Susan Gubar (Book Review) - ProQuest",
+            "url": "https://www.proquest.com/openview/a5b41886285ea75266144825064e0186/1?pq-origsite=gscholar&cbl=1816494"
+          },
+          {
+            "title": "Project MUSE - Sandra M. Gilbert and Susan Gubar's The Madwoman in the Attic",
+            "url": "https://muse.jhu.edu/article/201184/summary"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about \"The Madwoman in the Attic\" by Sandra Gilbert and Susan Gubar:\n\n## Publication Details\n\nThe Madwoman in the Attic: The Woman Writer and the Nineteenth-Century Literary Imagination is a 1979 book by Sandra Gilbert and Susan Gubar, in which they examine Victorian literature from a feminist perspective. Originally published in 1979 by Yale University Press, a second edition was released in 2000 by Yale Nota Bene.(no content)In 2022, it was reissued by Yale University Press.\n\n## Central Thesis and Title Origin\n\nGilbert and Gubar draw their title from Charlotte Bront\u00eb's Jane Eyre, in which Rochester's wife (n\u00e9e Bertha Mason) is kept secretly locked in an attic apartment by her husband.(no content)The most famous example of one of these doubles gave Gilbert and Gubar's book its catchy title: howling Bertha Rochester, imprisoned in her husband's attic, giving vent to the forbidden feminist anger of plain Jane Eyre.\n\n## Key Arguments About Victorian Women Writers\n\nIn the work, Gilbert and Gubar examine the notion that women writers of the nineteenth century were confined in their writing to make their female characters either embody the \"angel\" or the \"monster\", a struggle which they argue stemmed from male writers' tendencies to categorize female characters as either pure, angelic women or rebellious, unkempt madwomen.(no content)Gilbert and Gubar stress the importance of killing off both figures because neither accurately represents women or women writers. Instead, Gilbert and Gubar urge female writers to strive for autonomous self-definition beyond this dichotomy, which they see as imposed by a reductionist patriarchal view of women's roles.\n\n## The Anxiety of Authorship\n\nThey also explore the way women were inhibited in their writing by what they called the Anxiety of Authorship \u2013 the lack of legitimating role-models for the nineteenth-century woman writer.\n\n## Authors Examined\n\nThe text specifically examines Jane Austen, Mary Shelley, Charlotte and Emily Bront\u00eb, George Eliot, Elizabeth Barrett Browning, Christina Rossetti and Emily Dickinson.\n\n## Impact on Feminist Literary Criticism\n\nOver 700 pages long, the work is an early landmark in feminist literary criticism.(no content)Madwoman in the Attic is widely recognized as a text central to second-wave feminism.(no content)Madwoman in the Attic was immediately a popular as well as an academic success. In the United States it was a runner-up for both the Pulitzer Prize and the National Book Critics Circle Award.\n\n## The Female Literary Tradition\n\nThe undercover female tradition that Gilbert and Gubar were talking about was one in which writers as disparate as Austen, Emily Dickinson, the Brontes, Louisa May Alcott and George Eliot used similar themes and images to dramatize the social limitations they themselves suffered as women.(no content)Once you started looking for metaphors of confinement, Gilbert and Gubar demonstrated, you saw that novels like Frankenstein, Northanger Abbey and Middlemarch were jampacked with images of locked rooms and closets, dungeons and enclosures, as well as overbearing patriarch-jailors.\n\n## Lasting Influence\n\nThe reason I still have my 1981 paperback is that I refer to it all the time when I teach 19th century literature and my students dip into it, too. How many works of literary criticism have become classics themselves?(no content)Their celebration of the rebelliousness of women writers and their female heroines shapes our contemporary cinematic and even Masterpiece Theatre depictions of Elizabeth Bennet, Jane Eyre and Jo March, and contributes to the ongoing invention of characters like Lady Sybil Crawley.\n\nThe book remains a foundational text in feminist literary criticism, particularly for its analysis of how Victorian women writers navigated patriarchal literary constraints through what Gilbert and Gubar identified as subversive subtexts and doubled characters."
+    ],
+    "durationSeconds": 41.898868873999916
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "session_id": "e18f7f1c-5883-41e4-8ef9-15aee4aa266b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e18f7f1c-5883-41e4-8ef9-15aee4aa266b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Leonardo DiCaprio\" \"Great Gatsby\" toast meme 2013 film viral"
+  },
+  "tool_response": {
+    "query": "\"Leonardo DiCaprio\" \"Great Gatsby\" toast meme 2013 film viral",
+    "results": [
+      "I'll search for information about the Leonardo DiCaprio Great Gatsby toast meme from the 2013 film.",
+      {
+        "tool_use_id": "srvtoolu_01Jcf8LjwagNdq9tLLJcK5se",
+        "content": [
+          {
+            "title": "Great Gatsby Reaction / Leonardo DiCaprio Toast | Know Your Meme",
+            "url": "https://knowyourmeme.com/memes/great-gatsby-reaction-leonardo-dicaprio-toast"
+          },
+          {
+            "title": "\u2018The Great Gatsby\u2019 turns 100: How Leonardo DiCaprio\u2019s toast became a meme for the ages",
+            "url": "https://www.goldderby.com/article/2025/the-great-gatsby-100-leonardo-dicaprio-toast-meme-explainer/"
+          },
+          {
+            "title": "A Toast to The Great Gatsby Meme",
+            "url": "https://www.filmcompanion.in/features/indepth-stories/a-toast-to-the-great-gatsby-meme-leonardo-dicaprio-baz-luhrmann"
+          },
+          {
+            "title": "\u2018The Great Gatsby\u2019 turns 100: How Leonardo DiCaprio\u2019s toast became a meme for the ages",
+            "url": "https://www.yahoo.com/entertainment/articles/great-gatsby-turns-100-leonardo-194522149.html"
+          },
+          {
+            "title": "Great Gatsby Reaction - Leonardo DiCaprio Toast Meme Generator",
+            "url": "https://makeameme.org/memegenerator/great-gatsby-reaction-leonardo-dicaprio-toast"
+          },
+          {
+            "title": "\u2018The Great Gatsby\u2019 turns 100: How Leonardo DiCaprio\u2019s toast became a meme for the ages - IMDb",
+            "url": "https://www.imdb.com/news/ni65227953/"
+          },
+          {
+            "title": "Great Gatsby Reaction - Leonardo DiCaprio Toast Meme Generator Template",
+            "url": "https://makeameme.org/character/great-gatsby-reaction-leonardo-dicaprio-toast"
+          },
+          {
+            "title": "Gatsby Toast GIFs - Find & Share on GIPHY",
+            "url": "https://giphy.com/explore/gatsby-toast"
+          },
+          {
+            "title": "\ud83c\udf78 The iconic Great Gatsby toast! \ud83c\udf7e\ud83c\udfa9 A timeless meme for every occasion! \ud83e\udd42 #TheGreatGatsby #leonardo dicaprio #MemeClassic | TikTok",
+            "url": "https://www.tiktok.com/@onetime.hollywood/video/7483241621421575446"
+          },
+          {
+            "title": "Good Meme, Old Sport. The case study I have chosen is the\u2026 | by Sophie K | Medium",
+            "url": "https://medium.com/@sparkle8293/good-meme-old-sport-d3f4ed1381ed"
+          }
+        ]
+      },
+      "Based on my search, here's what I found about the Leonardo DiCaprio Great Gatsby toast meme from the 2013 film:\n\n## Origin and Timeline\n\nDiCaprio's immortal toast first entered the public consciousness on Dec. 20, 2012, when the second trailer for Luhrmann's Gatsby dropped.(no content)The Warner Bros. film, which also starred Tobey Maguire, Carey Mulligan, Isla Fisher, Joel Edgerton, and Elizabeth Debicki, opened wide on May 10, 2013.(no content)Only three days later, on May 13, 2013, Tumblr user boosted-minkica posted a series of gifs featuring the image of Gatsby toasting. This marked the birth of the meme.\n\n## How It Went Viral\n\nThe meme gained traction quickly through several key moments:\n\n- On May 24th, the website The Meta Picture posted an image macro of Gatsby toasting and the words \"A little party never killed nobody.\"\n- On June 17th, BuzzFeed published \"The Top 3 Times Leonardo DiCaprio Raised His Glass,\" with the Gatsby scene ranking second.\n- On July 16th, the website Meme Generator posted the image, allowing users to create image macros using the Gatsby toasting picture.(no content)It appeared initially as a reaction image to American singer Fergie's song, \"A Little Party Never Killed Nobody (All We Got)\".\n\n## The Meme's Impact\n\nThe Leonardo DiCaprio Toast, also known as the Great Gatsby Meme, is a popular internet meme that originated from a scene in the 2013 film \"The Great Gatsby,\" where the actor Leonardo DiCaprio, who played the lead character Jay Gatsby, raises a glass of champagne in a toast.\n\nThe meme has had remarkable staying power:\n- Ten years after the film's release, the GIF was still going strong.\n- In a 2023 Reddit poll, users knew the meme, but a majority couldn't correctly identify the film where it came from.\n- The meme first gained widespread popularity in 2016 when it was used to celebrate the 88th Academy Awards ceremony, where DiCaprio finally won his first Oscar for Best Actor after five previous nominations.\n\n## Cultural Significance\n\nWhile Luhrmann's film had a strong run at the box office ($353 million worldwide \u2014 his highest-grosser to date) and won two Oscars for production design and costume design, for a considerable percentage of internet users, the movie is less recognized than the viral image it created.(no content)\"It's a story full of charm and mystery, and it's become more than that today because Jay Gatsby has become an internet meme thanks to Leo DiCaprio raising his glass of champagne,\" Jacques Mailhos told the Economic Times.\n\nThe meme has become primarily used as reactions in praise of something and can be used to celebrate any occasion, from the mundane to the extraordinary."
+    ],
+    "durationSeconds": 35.58845916400011
+  }
+}

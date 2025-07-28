@@ -1,0 +1,63 @@
+{
+  "session_id": "715f4a06-6795-4697-b7aa-4344b3e12664",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/715f4a06-6795-4697-b7aa-4344b3e12664.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Lalka Boles\u0142aw Prus teatr adaptacje sceniczne przedstawienia Teatr Narodowy Polski"
+  },
+  "tool_response": {
+    "query": "Lalka Boles\u0142aw Prus teatr adaptacje sceniczne przedstawienia Teatr Narodowy Polski",
+    "results": [
+      "I'll search for information about theatrical adaptations and stage performances of Boles\u0142aw Prus's novel \"Lalka\" (The Doll) at Polish National Theatre.",
+      {
+        "tool_use_id": "srvtoolu_01D31UzkzWtqMaQodE5ZHZje",
+        "content": [
+          {
+            "title": "Boles\u0142aw Prus, Lalka, Teatr Powszechny, Teatr Polski w Bielsku Bia\u0142ej, Najlepsze przed nami",
+            "url": "https://archiwum.teatr-pismo.pl/5288-kraj-dla-subiektow/"
+          },
+          {
+            "title": "Lalka (powie\u015b\u0107) \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Lalka_(powie\u015b\u0107)"
+          },
+          {
+            "title": "Lalka ::: Przedstawienia ::: Encyklopedia teatru polskiego",
+            "url": "https://encyklopediateatru.pl/przedstawienie/54007/lalka"
+          },
+          {
+            "title": "Nie tylko lektura szkolna. Najciekawsze adaptacje \u201eLalki\u201d Boles\u0142awa Prusa - CZYTAM - Empik Pasje",
+            "url": "https://www.empik.com/pasje/nie-tylko-lektura-szkolna-najciekawsze-adaptacje-lalki-boleslawa-prusa,114805,a"
+          },
+          {
+            "title": "Lalka (1968) - Filmweb",
+            "url": "https://www.filmweb.pl/film/Lalka-1968-1174"
+          },
+          {
+            "title": "Lalka, Boles\u0142aw Prus, Wojtek Klemm, Teatr S\u0142owackiego, Krak\u00f3w, Aleksander G\u0142owacki, Prus",
+            "url": "https://teatr-pismo.pl/7292-rzecki-w-sukni/"
+          },
+          {
+            "title": "Lalka | Teatr Polski Bielsko-Bia\u0142a",
+            "url": "https://teatr.bielsko.pl/spektakl/lalka"
+          },
+          {
+            "title": "Lalka (odcinek 13) ::: Przedstawienia ::: Encyklopedia teatru polskiego",
+            "url": "https://encyklopediateatru.pl/przedstawienie/57181/lalka"
+          },
+          {
+            "title": "Studenci ::: Przedstawienia ::: Encyklopedia teatru polskiego",
+            "url": "https://encyklopediateatru.pl/przedstawienie/31135/studenci"
+          },
+          {
+            "title": "Teatr w Krakowie im. J. S\u0142owackiego - Lalka",
+            "url": "https://teatrwkrakowie.pl/spektakl/lalka-1"
+          }
+        ]
+      },
+      "Based on the search results, I found extensive information about theatrical adaptations and stage performances of Boles\u0142aw Prus's novel \"Lalka\" (The Doll). Here's a comprehensive overview:\n\n## Recent Theatrical Adaptations of \"Lalka\"\n\n### Major Productions:\n\n1. **Teatr Polski in Bielsko-Bia\u0142a (2015)**\n   - Premiere: April 17, 2015\n   - Adaptation: Artur Pa\u0142yga\n   - Direction: Aneta Groszy\u0144ska\n   - Scenography: Marta Zaj\u0105c\n   - Costumes: Pawe\u0142 Cukier\n   - Music: Jerzy Rogiewicz\n   - This production followed the novel's plot structure\n\n2. **Teatr Powszechny in Warsaw (2015)**\n   - Premiere: May 15, 2015\n   - Title: \"Lalka. Najlepsze przed nami\" (The Doll. The Best is Ahead of Us)\n   - Created by: Pawe\u0142 Sztarbowski and Wojciech Faruga\n   - Direction: Wojciech Faruga\n   - Scenography, costumes, lighting: Agata Skwarczy\u0144ska\n   - Music: Joanna Halszka Soko\u0142owska\n\n3. **Teatr im. Juliusza S\u0142owackiego in Krak\u00f3w (2019)**\n   - Premiere: May 17, 2019\n   - Adaptation and dramaturgy: Tomasz Cymerman\n   - Direction: Wojtek Klemm\n   - Scenography: Magdalena Gut\n   - Costumes: Julia Kornacka\n   - Music: Albrecht Ziepert\n   - The performance lasted three hours and forty minutes with one intermission\n   - Featured a gigantic Warsaw panorama with the Palace of Culture as backdrop, shown upside down\n\n### Musical Adaptation:\n\nA musical version was created by Wojciech Ko\u015bcielniak at the Danuta Baduszkowa Musical Theatre in Gdynia. The production proved that Prus's prose could be translated to theater in a lively, modern, and energetic way, with impressive stage design and dance arrangements that fully utilized the enormous Gdynia theater stage.\n\n### Historical Productions at Teatr Narodowy and Other Major Theaters:\n\n1952 - Warsaw's Teatr Polski production directed by Zygmunt Le\u015bnodorski, with Lech Madali\u0144ski as Wokulski and Nina Andrycz as Izabela(no content)1967 - \"Pan Wokulski wed\u0142ug 'Lalki' Boles\u0142awa Prusa\" at Warsaw's Teatr Powszechny, directed by Adam Hanuszkiewicz, with Mariusz Dmochowski as Wokulski and Ewa Wawrzo\u0144 as Izabela\n\n### Notable Interpretative Approaches:\n\n1. **Feminist and Contemporary Perspectives**: The Krak\u00f3w production emphasized women's and feminist themes, featuring a strong quartet of actresses\n\n2. **Modern Reinterpretations**: The Teatr Powszechny production changed the character Ochocki to a female scientist (Ochocka), whom Wokulski follows to Paris twice\n\n3. **Experimental Elements**: The Krak\u00f3w production briefly featured Rzecki in a shimmering red dress, which was both the director's fantasy and the result of textual analysis\n\nThe search results show that \"Lalka\" continues to be a popular choice for theatrical adaptation in Poland, with major theaters regularly producing new interpretations that often modernize or recontextualize Prus's classic novel for contemporary audiences."
+    ],
+    "durationSeconds": 36.43990182600031
+  }
+}

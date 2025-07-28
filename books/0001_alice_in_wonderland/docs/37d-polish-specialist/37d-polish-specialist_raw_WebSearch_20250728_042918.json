@@ -1,0 +1,63 @@
+{
+  "session_id": "ac25dab5-19ee-43b4-8689-cf24d65d211d",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ac25dab5-19ee-43b4-8689-cf24d65d211d.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Alicja w Krainie Czar\u00f3w\" polski teatr adaptacja spektakl Teatr Polski e-teatr.pl"
+  },
+  "tool_response": {
+    "query": "\"Alicja w Krainie Czar\u00f3w\" polski teatr adaptacja spektakl Teatr Polski e-teatr.pl",
+    "results": [
+      "I'll search for information about Polish theater adaptations of \"Alice in Wonderland\" with a focus on Teatr Polski and e-teatr.pl.",
+      {
+        "tool_use_id": "srvtoolu_01F7p7eksmYdbURkSaeP5KaF",
+        "content": [
+          {
+            "title": "Alicja w Krainie Czar\u00f3w - Teatr Muzyczny ...",
+            "url": "https://www.teatrroma.pl/en/spektakl/alice-in-wonderland/"
+          },
+          {
+            "title": "ALICJA W KRAINIE CZAR\u00d3W. REMIX - Teatr Nowy w Poznaniu",
+            "url": "https://teatrnowy.pl/spektakle/alicja-w-krainie-czarow-remix/"
+          },
+          {
+            "title": "Alicja w krainie czar\u00f3w - Teatr Powszechny im. Jana Kochanowskiego | e-teatr.pl",
+            "url": "https://e-teatr.pl/alicja-w-krainie-czarow-r33180"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w - Teatr Muzyczny Roma | e-teatr.pl",
+            "url": "https://e-teatr.pl/alicja-w-krainie-czarow-r8842"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w",
+            "url": "http://apart.art.pl/en/spektakle/alice-in-wonderland/"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w - Teatr \u015al\u0105ski im. St. Wyspia\u0144skiego w Katowicach",
+            "url": "https://teatrslaski.art.pl/repertuar/alicja-w-krainie-czarow/"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w - Nowy Teatr im. Witkacego w S\u0142upsku",
+            "url": "https://nowyteatr.pl/spektakle/alicja-w-krainie-czarow/"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w - Kielecki Teatr Ta\u0144ca | e-teatr.pl",
+            "url": "https://e-teatr.pl/alicja-w-krainie-czarow-s18868"
+          },
+          {
+            "title": "Alicja w krainie czar\u00f3w",
+            "url": "https://www.teatrmaska.pl/spektakle/dzieci/alicja-w-krainie-czarow,spektakl610/"
+          },
+          {
+            "title": "Spektakl: Alicja w Krainie Czar\u00f3w / lublin.eu - oficjalny portal miasta Lublin",
+            "url": "https://lublin.eu/lublin/esm2023/kalendarz-wydarzen/spektakl-alicja-w-krainie-czarow,101,w.html"
+          }
+        ]
+      },
+      "Based on the search results, I found several Polish theater adaptations of \"Alice in Wonderland\" (\"Alicja w Krainie Czar\u00f3w\"). Here's what I discovered:\n\n## Polish Theater Productions of \"Alicja w Krainie Czar\u00f3w\"\n\n### Major Productions:\n\n1. **Teatr Muzyczny Roma (Warsaw)** - A musical performance directed by Cezary Domaga\u0142a with premiere on 23.05.2015. The production features performers including Magda Kusa, Klaudia Borejko, Karolina Puerto Cardozo, and Maja Kwiatkowska as Alice.\n\n2. **Teatr Nowy w Poznaniu** - \"ALICJA W KRAINIE CZAR\u00d3W. REMIX\" with premiere on March 22, 2025. This is not a faithful adaptation but rather a record of a possible visit to Wonderland, created in collaboration with high school students.\n\n3. **Teatr Powszechny im. Jana Kochanowskiego** - Listed on e-teatr.pl with cast including Katarzyna Krzyszkowska and Katarzyna Margielska as Alice.\n\n4. **Teatr \u015al\u0105ski im. St. Wyspia\u0144skiego (Katowice)** - Directed by Justyna \u0141agowska with song lyrics by Micha\u0142 Rusinek. Recommended for audiences above 10 years old.\n\n5. **Nowy Teatr im. Witkacego (S\u0142upsk)** - A musical adaptation that premiered on 19.03.2023. The production received critical acclaim, with Aleksandra Rowicka recognized for her debut as Alice.\n\n6. **Kielecki Teatr Ta\u0144ca** - Dance theater production with premiere in January 2017.\n\n7. **Teatr Maska** - Production premiered during the Wsch\u00f3d Kultury Europejski Stadion Kultury 2020 festival, directed by Gabriel Gietzky with Anna Z\u0142oma\u0144czuk as Alice.\n\n### E-teatr.pl Presence:\nThe search results confirm that e-teatr.pl, Poland's national theater portal, features multiple productions of \"Alicja w Krainie Czar\u00f3w\" from various Polish theaters, including detailed cast information and performance updates.\n\nThese productions showcase diverse interpretations of Carroll's classic, from traditional adaptations to modern remixes, musical versions, and dance theater performances across Poland's theatrical landscape."
+    ],
+    "durationSeconds": 28.08938953100005
+  }
+}

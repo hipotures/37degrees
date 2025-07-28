@@ -1,0 +1,62 @@
+{
+  "session_id": "9588e4fa-c119-4986-be3b-1d3af7769f8f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/9588e4fa-c119-4986-be3b-1d3af7769f8f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Soviet Union propaganda techniques 1920s 1930s Stalin mass media Lenin film radio social engineering"
+  },
+  "tool_response": {
+    "query": "Soviet Union propaganda techniques 1920s 1930s Stalin mass media Lenin film radio social engineering",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01JR5bZryArd1zzknyZEyfqP",
+        "content": [
+          {
+            "title": "Propaganda in the Soviet Union - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Propaganda_in_the_Soviet_Union"
+          },
+          {
+            "title": "Communications and media in the USSR and Eastern Europe",
+            "url": "https://journals.openedition.org/monderusse/8182"
+          },
+          {
+            "title": "The Definitive History of the Soviet Propaganda Poster | COMRADE Gallery",
+            "url": "https://www.comradegallery.com/journal/the-definitive-history-soviet-propaganda-poster"
+          },
+          {
+            "title": "Internal Workings of the Soviet Union - Revelations from the Russian Archives | Exhibitions - Library of Congress",
+            "url": "https://www.loc.gov/exhibits/archives/intn.html"
+          },
+          {
+            "title": "Propaganda Investigative Assets: Timeline",
+            "url": "https://www.pbs.org/redfiles/prop/inv/prop_inv_time.htm"
+          },
+          {
+            "title": "Propaganda & Censorship under Stalin - History: AQA GCSE Russia, 1894-1945",
+            "url": "https://senecalearning.com/en-GB/revision-notes/gcse/history/aqa/russia-1894-1945/3-1-6-propaganda-and-censorship-under-stalin"
+          },
+          {
+            "title": "Agitprop | Political Propaganda & Soviet Union History | Britannica",
+            "url": "https://www.britannica.com/topic/agitprop"
+          },
+          {
+            "title": "Propaganda Investigative Assets: Insights",
+            "url": "https://www.pbs.org/redfiles/prop/inv/prop_inv_ins.htm"
+          },
+          {
+            "title": "Stalin, PROPAGANDA AND SOVIET SOCIETY",
+            "url": "https://www.history.org.uk/files/download/499/1204285703/stalin_propaganda.pdf"
+          },
+          {
+            "title": "STALIN PROPAGANDA AND REALITY | Radio Free Europe/Radio Liberty",
+            "url": "https://www.rferl.org/a/27774611.html"
+          }
+        ]
+      },
+      "Based on my search results, I found comprehensive information about Soviet propaganda techniques during the 1920s and 1930s under Lenin and Stalin. Here's what the search revealed:\n\n## Key Soviet Propaganda Techniques in the 1920s-1930s\n\n### Media and Communication Technologies\n\nThe radio was put to good use, especially to reach the illiterate; radio receivers were put in communal locations, where the peasants would have to come to hear the news, such as changes to rationing, and received propaganda broadcasts with it. Wall posters were widely used in the early days, often depicting the Red Army's triumphs for the benefit of the illiterate. Throughout the 1920s, this was continued.\n\nThe decision of Soviet leaders to modernize telecommunications technologies in the Soviet Union with the help of western companies dated to the mid\u20111920s. In their view, communications technologies were tools of governance and of territorial, social, and economic control. The stakes attributed to local telephone service evolved over time : in the 1920s, the urban telephone was associated with technological progress and claimed social significance ; as of the beginning of the 1930s, this communications tool was supposed to lead the campaigns for the organization and management of the kolkhoz.\n\n### Visual Propaganda and Artistic Control\n\nAs Stalin tightened his grip on the arts in the 1930s, avant-garde experimentation faded. In 1932, the Central Committee issued the decree \"On the Reconstruction of Literary and Artistic Organizations,\" dissolving the diverse artistic groups that had flourished in the 1920s. Artists were placed under state-controlled unions, paving the way for Socialist Realism as the official artistic doctrine of the Soviet Union. Formally adopted in 1934, Socialist Realism required all art to be realistic in form, socialist in content, and optimistic in spirit.\n\nBy 1935, the USSR was producing 5.7 million political posters. These images helped mobilize the population for sweeping economic and social transformations, even as daily life grew harsher.\n\n### Social Engineering and Cult of Personality\n\nHe often figured as the great father of the \"great family\" that was the new Soviet Union. Regulations on how exactly to portray Stalin's image and write of his life were carefully promulgated. His work for the Soviet Union was praised in paeans to the \"light in the Kremlin window.\" Marx, Engels, Lenin, and above all Stalin appeared frequently in art.\n\nStalin called official artists 'engineers of souls'. Stalin now asserted that art should not merely serve society, but do so in a way determined by the party and its megalomaniacal plans for transforming society.\n\n### Agitprop System\n\nAgitprop, political strategy in which the techniques of agitation and propaganda are used to influence and mobilize public opinion. Although the strategy is common, both the label and an obsession with it were specific to the Marxism practiced by communists in the Soviet Union. The term agitprop originated as a shortened form of the Agitation and Propaganda Section of the Central Committee Secretariat of the Communist Party in the Soviet Union.\n\nVladimir Lenin stated that the propagandist, whose primary medium is print, explains the causes of social inequities such as unemployment or hunger, while the agitator, whose primary medium is speech, seizes on the emotional aspects of these issues to arouse his audience to indignation or action. Agitation is thus the use of political slogans and half-truths to exploit the grievances of the public and thereby to mold public opinion and mobilize public support. Propaganda, by contrast, is the reasoned use of historical and scientific arguments to indoctrinate the educated and so-called \"enlightened\" members of society, such as party members.\n\n### Creating New Society and Identity\n\nA common theme was the creation of a new, utopian society, depicted in posters and newsreels, which inspired an enthusiasm in many people. Much propaganda was dedicated to a new community, as exemplified in the use of \"comrade.\" This new society was to be classless. Distinctions were to be based on function, not class, and all possessed the equal duty to work.\n\nThe search revealed that the USSR was the world's first \"propaganda state,\" establishing a radical new communications order. The Bolshevik regime was the first not merely to set itself propaganda goals but also through political education to aim to create a new humanity suitable for living in a new society."
+    ],
+    "durationSeconds": 42.21964570500003
+  }
+}

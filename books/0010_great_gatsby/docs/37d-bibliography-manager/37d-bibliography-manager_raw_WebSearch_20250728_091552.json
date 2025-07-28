@@ -1,0 +1,63 @@
+{
+  "session_id": "e18f7f1c-5883-41e4-8ef9-15aee4aa266b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e18f7f1c-5883-41e4-8ef9-15aee4aa266b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Great Gatsby\" digital databases Project Gutenberg Internet Archive online resources scholarly"
+  },
+  "tool_response": {
+    "query": "\"Great Gatsby\" digital databases Project Gutenberg Internet Archive online resources scholarly",
+    "results": [
+      "I'll search for information about digital databases and online resources for \"The Great Gatsby,\" including Project Gutenberg and Internet Archive.",
+      {
+        "tool_use_id": "srvtoolu_01NmLE4vbsQdjJTDFMp4t7bS",
+        "content": [
+          {
+            "title": "The Great Gatsby by F. Scott Fitzgerald | Project Gutenberg",
+            "url": "https://www.gutenberg.org/ebooks/64317"
+          },
+          {
+            "title": "The Great Gatsby : Fitzgerald, F. Scott (Francis Scott), 1896-1940 : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/greatgatsby00fitz_1"
+          },
+          {
+            "title": "The Great Gatsby : F. Scott Fitzgerald : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/the-great-gatsby_1922"
+          },
+          {
+            "title": "Internet Archive: Digital Library of Free & Borrowable Texts, Movies, Music & Wayback Machine",
+            "url": "https://archive.org/details/gutenberg"
+          },
+          {
+            "title": "The Project Gutenberg eBook of The Great Gatsby",
+            "url": "https://www.gutenberg.org/files/64317/64317-h/64317-h.htm"
+          },
+          {
+            "title": "Project Gutenberg | The Online Library",
+            "url": "https://onlinelibrary.london.ac.uk/resources/databases/project-gutenberg"
+          },
+          {
+            "title": "The Great Gatsby from Project Gutenberg",
+            "url": "https://onlinebooks.library.upenn.edu/webbin/gutbook/lookup?num=64317"
+          },
+          {
+            "title": "Library Resources - The Great Gatsby (1925) - LibGuides at Anne Arundel Community College",
+            "url": "https://libguides.aacc.edu/greatgatsby"
+          },
+          {
+            "title": "Top 100 | Project Gutenberg",
+            "url": "https://www.gutenberg.org/browse/scores/top"
+          },
+          {
+            "title": "All Books (sorted by popularity) - Project Gutenberg",
+            "url": "https://www.gutenberg.org/ebooks/search/?sort_order=downloads"
+          }
+        ]
+      },
+      "Based on the search results, here's what I found about \"The Great Gatsby\" in digital databases and online resources:\n\n## Project Gutenberg\n\n\"The Great Gatsby\" by F. Scott Fitzgerald is a novel written in the early 20th century. The book is available for free on Project Gutenberg at https://www.gutenberg.org/ebooks/64317. Project Gutenberg offers over 70,000 free ebooks.(no content)It is a volunteer effort to digitize and archive cultural works, and most of the items in its collection are the full texts of public-domain books.\n\nThe Project Gutenberg version includes:\n- Multiple download formats available\n- Project Gutenberg Release #64317 Select author names above for additional information and titles. Additional formats may also be available from the main Gutenberg site.\n- Full text access including passages from the novel\n\n## Internet Archive\n\nThe Internet Archive hosts multiple versions of \"The Great Gatsby\":\n- Available at https://archive.org/details/greatgatsby00fitz_1\n- The Great Gatsby is a 1925 novel written by American author F. Scott Fitzgerald that follows a cast of characters living in the fictional towns of West Egg and... (available at archive.org/details/the-great-gatsby_1922)\n\n## Scholarly and Library Resources\n\nA list of resources available through Truxal Library for researching F. Scott Fitzgerald's The Great Gatsby includes:\n\n- Use the links below to search for criticism and interpretation of literary works, as well as biographical information about authors.\n- Full text of Fitzgerald's The Great Gatsby is available on the Web at: ... Print copies are also available in Truxal Library.\n- Fitzgerald, F. Scott \u00b7 You'll find library materials that provide biographical information about F. Scott Fitzgerald as well criticism and interpretation of his work. You might find the following eBooks useful for researching The Great Gatsby.\n- Critical Insights: F. Scott Fitzgerald\n\n## Additional Digital Resources\n\nThis catalog page is provided by The Online Books Page, and the literature by Project Gutenberg. The Online Books Page provides links to various formats and mirror sites for accessing the text.\n\nThese digital databases provide free access to the full text of \"The Great Gatsby\" along with scholarly resources for research and analysis. Both Project Gutenberg and Internet Archive offer the novel in multiple formats suitable for different e-readers and devices."
+    ],
+    "durationSeconds": 24.074562938999385
+  }
+}

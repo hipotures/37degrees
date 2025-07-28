@@ -1,0 +1,63 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Jane Eyre\" lektura szkolna polska MEN program nauczania podstawa programowa"
+  },
+  "tool_response": {
+    "query": "\"Jane Eyre\" lektura szkolna polska MEN program nauczania podstawa programowa",
+    "results": [
+      "I'll search for information about \"Jane Eyre\" as required reading in the Polish educational system according to the Ministry of National Education (MEN) curriculum.",
+      {
+        "tool_use_id": "srvtoolu_015V62GTsUM9R1np1U1e8eF4",
+        "content": [
+          {
+            "title": "Dziwne losy Jane Eyre",
+            "url": "https://wolnelektury.pl/katalog/lektura/bronte-dziwne-losy-jane-eyre/"
+          },
+          {
+            "title": "\u201eDziwne losy Jane Eyre\u201d Charlotte Bront\u00eb na Wolnych Lekturach",
+            "url": "https://fundacja.wolnelektury.pl/2023/09/28/dziwne-losy-jane-eyre-charlotte-bronte-na-wolnych-lekturach/"
+          },
+          {
+            "title": "Jane Eyre - Macmillan Readers - Wydawnictwo Macmillan",
+            "url": "https://www.macmillan.pl/katalog/mr-jane-eyre"
+          },
+          {
+            "title": "Jane Eyre po angielsku wersja uproszczona B1 dla m\u0142odzie\u017cy +audio",
+            "url": "https://www.ettoi.pl/jane-eyre-audio-mp3-9788853607935-p-2500.html"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre - Charlotte Bront\u00eb | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/4968674/dziwne-losy-jane-eyre"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre - Charlotte Bront\u00eb",
+            "url": "https://wolnelektury.pl/katalog/lektura/bronte-dziwne-losy-jane-eyre.html"
+          },
+          {
+            "title": "Jane Eyre. Autobiografia - sztukater.pl",
+            "url": "https://sztukater.pl/ksiazki/jane-eyre.html"
+          },
+          {
+            "title": "ksi\u0105\u017cki w serii tematycznej \"Jane Eyre\" \u00bb BiblioNETka",
+            "url": "https://www.biblionetka.pl/bookSerie.aspx?id=9429"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Dziwne_losy_Jane_Eyre"
+          },
+          {
+            "title": "Jane Eyre - Inne publikacje - Wydawnictwo Macmillan",
+            "url": "https://www.macmillan.pl/katalog/jane-eyre"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about \"Jane Eyre\" in the Polish educational system:\n\n## \"Jane Eyre\" in Polish Education\n\nThe search results show that \"Jane Eyre\" (Polish title: \"Dziwne losy Jane Eyre\") is a novel by Charlotte Bront\u00eb published in 1847 under the pseudonym Currer Bell. While the search didn't return specific information about the book being part of the official MEN (Ministry of National Education) curriculum or \"podstawa programowa\" (core curriculum), the results indicate several important points:\n\n### Availability and Educational Resources\n\n1. **Polish Translation**: The novel is available in Polish as \"Dziwne losy Jane Eyre\" and is available on Wolne Lektury (Free Readings), which is a platform that provides free access to literature often used in Polish education.\n\n2. **Educational Adaptations**: The search shows Macmillan Graded Readers offers simplified versions of the book for English language learners at different levels, and there are adapted versions for youth and adults learning English at B1 level with audio recordings.\n\n### Plot Summary in Polish Context\n\nThe Polish resources describe \"Jane Eyre\" as the story of an 18-year-old orphan who arrives at Thornfield Hall, having been raised by an aunt who hated her and educated at a boarding school where she spent eight years. The novel follows three main periods: Jane's childhood, her work as a governess at Thornfield Hall and developing relationship with Mr. Rochester, and her journey to self-determination.\n\n### Educational Value\n\nPolish educational resources emphasize that the novel contains deep analysis of character evolution from both moral and emotional perspectives, and the author skillfully portrays both \"the world of culture\" (British society) and \"the world of nature\" (stylistically refined nature descriptions).\n\nWhile I couldn't find specific confirmation that \"Jane Eyre\" is currently on the official MEN required reading list, its presence on educational platforms like Wolne Lektury and the availability of various educational editions suggest it may be used in Polish schools, possibly as supplementary reading or in English language courses."
+    ],
+    "durationSeconds": 26.754979987000116
+  }
+}

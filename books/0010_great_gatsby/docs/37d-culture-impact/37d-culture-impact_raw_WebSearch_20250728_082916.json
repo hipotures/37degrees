@@ -1,0 +1,63 @@
+{
+  "session_id": "e18f7f1c-5883-41e4-8ef9-15aee4aa266b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e18f7f1c-5883-41e4-8ef9-15aee4aa266b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Great Gatsby\" memes TikTok viral moments Leonardo DiCaprio toasting gif social media 2023 2024"
+  },
+  "tool_response": {
+    "query": "\"Great Gatsby\" memes TikTok viral moments Leonardo DiCaprio toasting gif social media 2023 2024",
+    "results": [
+      "I'll search for information about Great Gatsby memes, particularly the viral Leonardo DiCaprio toasting gif and related TikTok moments from 2023-2024.",
+      {
+        "tool_use_id": "srvtoolu_01PATSFoT84TwoZriJxpLkSr",
+        "content": [
+          {
+            "title": "Great Gatsby Reaction / Leonardo DiCaprio Toast | Know Your Meme",
+            "url": "https://knowyourmeme.com/memes/great-gatsby-reaction-leonardo-dicaprio-toast"
+          },
+          {
+            "title": "\u2018The Great Gatsby\u2019 turns 100: How Leonardo DiCaprio\u2019s toast became a meme for the ages",
+            "url": "https://www.yahoo.com/entertainment/articles/great-gatsby-turns-100-leonardo-194522149.html"
+          },
+          {
+            "title": "\u2018The Great Gatsby\u2019 turns 100: How Leonardo DiCaprio\u2019s toast became a meme for the ages",
+            "url": "https://www.goldderby.com/film/2025/the-great-gatsby-100-leonardo-dicaprio-toast-meme-explainer/"
+          },
+          {
+            "title": "\ud83c\udf78 The iconic Great Gatsby toast! \ud83c\udf7e\ud83c\udfa9 A timeless meme for every occasion! \ud83e\udd42 #TheGreatGatsby #leonardo dicaprio #MemeClassic | TikTok",
+            "url": "https://www.tiktok.com/@onetime.hollywood/video/7483241621421575446"
+          },
+          {
+            "title": "A Toast to The Great Gatsby Meme",
+            "url": "https://www.filmcompanion.in/features/indepth-stories/a-toast-to-the-great-gatsby-meme-leonardo-dicaprio-baz-luhrmann"
+          },
+          {
+            "title": "Great Gatsby Reaction / Leonardo DiCaprio Toast: Image Gallery | Know Your Meme",
+            "url": "https://knowyourmeme.com/memes/great-gatsby-reaction-leonardo-dicaprio-toast/photos"
+          },
+          {
+            "title": "Great Gatsby Reaction - Leonardo DiCaprio Toast Meme Generator",
+            "url": "https://makeameme.org/memegenerator/great-gatsby-reaction-leonardo-dicaprio-toast"
+          },
+          {
+            "title": "Great Gatsby Reaction - Leonardo DiCaprio Toast Meme Generator Template",
+            "url": "https://makeameme.org/character/great-gatsby-reaction-leonardo-dicaprio-toast"
+          },
+          {
+            "title": "Leonardo Dicaprio Great Gatsby Meme",
+            "url": "https://www.tiktok.com/discover/leonardo-dicaprio-great-gatsby-meme"
+          },
+          {
+            "title": "Great Gatsby Reaction / Leonardo DiCaprio Toast: Image Gallery (List View) (List View) | Know Your Meme",
+            "url": "https://knowyourmeme.com/memes/great-gatsby-reaction/photos"
+          }
+        ]
+      },
+      "Based on the search results, here's what I found about Great Gatsby memes, particularly the Leonardo DiCaprio toasting gif and its viral moments on TikTok and social media in 2023-2024:\n\n## The Leonardo DiCaprio Toast Meme\n\nThe Great Gatsby Reaction or Leonardo DiCaprio Toast refers to a series of reaction images and GIFs featuring actor Leonardo DiCaprio as Jay Gatsby toasting a martini glass from the 2013 film The Great Gatsby.(no content)Typically the reaction is used to show agreement or praise for something, but it is also used as an image macro in memes.\n\n## Viral Status and Longevity\n\nThe meme has shown remarkable staying power over the years. Ten years after the film's release, the GIF was still going strong.(no content)The translator of the 2023 French edition of Gatsby attributed the novel's popularity in the country in part to the ubiquity of Leo Toasting.\n\n## Cultural Impact in 2023\n\nIn a 2023 Reddit poll, users knew the meme, but a majority couldn't correctly identify the film where it came from. This demonstrates how the meme has transcended its source material to become a standalone cultural phenomenon.\n\n## Origins and Usage\n\nAccording to the website Know Your Meme, the Toast as a meme was born in the cradle of all things genuinely cool, the blogging website Tumblr. It appeared initially as a reaction image to American singer Fergie's song, \"A Little Party Never Killed Nobody (All We Got)\".(no content)The bulk of the memes, however, were made as reactions in praise of something.(no content)In short, you don't need to know The Great Gatsby; you just need to vibe with DiCaprio holding a martini.\n\n## TikTok Presence\n\nWhile the search results show that the meme has a presence on TikTok (with dedicated pages and videos about the Leonardo DiCaprio Great Gatsby meme), specific viral moments from 2023-2024 on the platform weren't detailed in these results. The meme continues to be used across social media platforms as a versatile reaction image for expressing approval, agreement, or celebration.\n\nThe meme's enduring popularity speaks to its versatility and the universal appeal of DiCaprio's charismatic toast, making it one of the most recognizable movie memes on the internet."
+    ],
+    "durationSeconds": 27.24672567000007
+  }
+}

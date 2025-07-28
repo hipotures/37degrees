@@ -1,0 +1,63 @@
+{
+  "session_id": "b8c17c71-efc6-4c19-9b68-e101c36de9c9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b8c17c71-efc6-4c19-9b68-e101c36de9c9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Rok 1984\" pierwsze wydanie polskie t\u0142umaczenie Orwell PIW"
+  },
+  "tool_response": {
+    "query": "\"Rok 1984\" pierwsze wydanie polskie t\u0142umaczenie Orwell PIW",
+    "results": [
+      "I'll search for information about the first Polish edition of George Orwell's \"1984\" published by PIW (Pa\u0144stwowy Instytut Wydawniczy).",
+      {
+        "tool_use_id": "srvtoolu_01U5d6X65E86aFkBQ8wD8P8D",
+        "content": [
+          {
+            "title": "Rok 1984 \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Rok_1984"
+          },
+          {
+            "title": "George Orwell, Rok 1984",
+            "url": "https://wolnelektury.pl/katalog/lektura/orwell-rok-1984/"
+          },
+          {
+            "title": "Rok 1984 George'a Orwella w t\u0142umaczeniach - Skrivanek",
+            "url": "https://skrivanek.pl/rok-1984-georgea-orwella-w-tlumaczeniach/"
+          },
+          {
+            "title": "\"Rok 1984\", czyli orwellowska przepowiednia - Historia - PR24.PL",
+            "url": "https://www.polskieradio.pl/39/156/artykul/1144186,rok-1984-czyli-orwellowska-przepowiednia"
+          },
+          {
+            "title": "Rok 1984 \u2013 encyklopediafantastyki.pl",
+            "url": "https://encyklopediafantastyki.pl/index.php?title=Rok_1984"
+          },
+          {
+            "title": "Rok 1984 \u2013 opracowanie \u2013 George Orwell \u2013 poezja.org",
+            "url": "https://poezja.org/wz/zbior/Rok_1984/"
+          },
+          {
+            "title": "ORWELL G. - Rok 1984. 1953. Pierwsze polskie wydanie. - Aukcja internetowa / Licytacja online - Cena - OneBid",
+            "url": "https://onebid.pl/pl/ksiazki-i-starodruki-orwell-g-rok-1984-1953-pierwsze-polskie-wydanie/1582982"
+          },
+          {
+            "title": "Rok 1984 | George Orwell, George Orwell (Ksi\u0105\u017cka) - Ksi\u0119garnia znak.com.pl",
+            "url": "https://www.znak.com.pl/p/rok-1984-george-orwell-george-orwell-140397"
+          },
+          {
+            "title": "Rok 1984 Orwell George [Klub Interesuj\u0105cej Ksi\u0105\u017cki / 1989]",
+            "url": "https://antykwariatwaw.pl/rok-1984-orwell-george-klub-interesujacej-ksiazki-1988"
+          },
+          {
+            "title": "Rok 1984 George Orwell ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/rok-1984-george-orwell"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with information about the first Polish edition of George Orwell's \"1984\" published by PIW (Pa\u0144stwowy Instytut Wydawniczy):\n\nThe first Polish translation of \"1984\" was done by Juliusz Mieroszewski and published in exile at the Literary Institute (Instytut Literacki) in Paris in 1953.(no content)In the People's Republic of Poland (PRL), Orwell's novel was banned by censorship, and the first official edition by PIW (Pa\u0144stwowy Instytut Wydawniczy) was published in 1988.(no content)From 1980, however, it was published in the form of reprints of the Paris edition by independent publishers - the so-called \"second circulation.\"(no content)From 1988, official domestic editions were published in translations by Tomasz Mirkowicz and Bart\u0142omiej Zborski, and in 2021, translations by Dorota Konowrocka-Sawa and Robert Sud\u00f3\u0142 were published.(no content)The 1988 PIW edition was translated by T. Mirkowicz and was part of the \"Klub Interesuj\u0105cej Ksi\u0105\u017cki\" (Interesting Book Club) series, with ISBN: 83-06-01806-0.\n\nThe book had a significant underground circulation in Poland before its official publication, as it was seen as a direct critique of the communist system. In Poland, it functioned in the form of second-circulation reprints of the Paris edition (from the late 1970s), and was officially published for the first time only in 1988."
+    ],
+    "durationSeconds": 21.113345434000017
+  }
+}

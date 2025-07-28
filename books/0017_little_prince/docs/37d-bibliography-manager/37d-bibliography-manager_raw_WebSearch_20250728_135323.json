@@ -1,0 +1,63 @@
+{
+  "session_id": "bb5bd92f-2e06-46b2-9b84-f65c0578b080",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/bb5bd92f-2e06-46b2-9b84-f65c0578b080.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "The Little Prince Antoine de Saint-Exup\u00e9ry academic sources scholarly articles literary criticism bibliography 2024 2025"
+  },
+  "tool_response": {
+    "query": "The Little Prince Antoine de Saint-Exup\u00e9ry academic sources scholarly articles literary criticism bibliography 2024 2025",
+    "results": [
+      "I'll search for recent academic sources and scholarly articles about \"The Little Prince\" by Antoine de Saint-Exup\u00e9ry.",
+      {
+        "tool_use_id": "srvtoolu_01U7SLP51t8JzVV7rNuo6MCB",
+        "content": [
+          {
+            "title": "Analysis of Antoine de Saint-Exup\u00e9ry\u2019s The Little Prince \u2013 Literary Theory and Criticism",
+            "url": "https://literariness.org/2023/08/01/40535/"
+          },
+          {
+            "title": "The Little Prince by Antoine de Saint-Exup\u00e9ry | EBSCO Research Starters",
+            "url": "https://www.ebsco.com/research-starters/literature-and-writing/little-prince-antoine-de-saint-exupery"
+          },
+          {
+            "title": "Antoine de Saint-Exup\u00e9ry | French Aviator, Author & Poet | Britannica",
+            "url": "https://www.britannica.com/biography/Antoine-de-Saint-Exupery"
+          },
+          {
+            "title": "The Little Prince's Last Flight: The Story of Antoine de Saint-Exup\u00e9ry | The National WWII Museum | New Orleans",
+            "url": "https://www.nationalww2museum.org/war/articles/the-little-prince-antoine-de-saint-exupery"
+          },
+          {
+            "title": "Antoine de Saint-Exup\u00e9ry - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry"
+          },
+          {
+            "title": "The Little Prince by Antoine de Saint-Exup\u00e9ry",
+            "url": "https://blogs.ubc.ca/edcp508/files/2016/02/TheLittlePrince.pdf"
+          },
+          {
+            "title": "The Little Prince | Plot, Analysis, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/The-Little-Prince"
+          },
+          {
+            "title": "The Little Prince by Antoine de Saint-Exup\u00e9ry | Goodreads",
+            "url": "https://www.goodreads.com/book/show/157993.The_Little_Prince"
+          },
+          {
+            "title": "The Little Prince - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Little_Prince"
+          },
+          {
+            "title": "The Little Prince: Antoine de Saint-Exup\u00e9ry and The Little Prince Background | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/littleprince/context/"
+          }
+        ]
+      },
+      "Based on my search results, I found several scholarly sources and bibliographic references about \"The Little Prince\" by Antoine de Saint-Exup\u00e9ry. Here's what I discovered:\n\n## Academic Sources and Bibliography\n\n### Key Scholarly Works:\n\n**James E. Higgins** - \"The Little Prince: A Reverie of Substance\" (New York: Twayne Publishers, 1996) - This work provides information on the book's literary and historical contexts, including its critical reception, and offers an interpretation that emphasizes the \"eye of innocence,\" \"the landscape of metaphor,\" and Saint-Exup\u00e9ry's explorations of the spirit and of responsibility.\n\n**Nathalie Des Valli\u00e8res** - \"Saint Exup\u00e9ry: Art, Writing and Musing\" (Translated by Anthony Zielonka. New York: Rizzoli, 2004)(no content)**Stacy Schiff** - \"Saint Exup\u00e9ry, A Biography\" (New York: Knopf, 1994) - This biography, reprinted by Henry Holt in 2006, presents substantial previously unavailable material on Saint-Exup\u00e9ry's life and career, especially his experience as a war pilot.\n\n**Paul Webster** - \"Antoine de Saint Exup\u00e9ry: The Life and Death of the Little Prince\" (London: Macmillan, 1993)\n\n### Additional Academic Resources:\n\n**Joy D. Marie Robinson** - \"Antoine de Saint-Exup\u00e9ry\" (Boston: Twayne, 1984) - described as an \"unusually thorough study\" and \"perhaps the best resource for the beginning student of Saint-Exup\u00e9ry's works,\" opening with three chapters devoted to Saint-Exup\u00e9ry's childhood, his student and soldier years, and his career as an aviator.\n\n**Edward J. Capestany** - \"The Dialectic of 'The Little Prince'\" (Lanham, Md.: University Press of America, 1982) - A searching study that presents a chapter-by-chapter analysis of the book, focusing on Saint-Exup\u00e9ry's use of myth.\n\n**John R. L. Harris** - \"Chaos, Cosmos, and Saint-Exup\u00e9ry's Pilot Hero: A Study in Mythopoeia\"\n\n### Memoirs and Personal Accounts:\n\n**Ad\u00e8le Breaux** - \"Saint-Exup\u00e9ry in America, 1942-1943: A Memoir\" (Rutherford, N.J.: Fairleigh Dickinson University Press, 1971) - covers the events of the time Saint-Exup\u00e9ry spent in the United States during World War II and includes discussion of his work on The Little Prince.\n\n**Consuelo de Saint-Exup\u00e9ry** - \"The Tale of the Rose: The Passion That Inspired 'The Little Prince'\" (Translated by Esther Allen. New York: Random House, 2001) - a memoir by Saint-Exup\u00e9ry's wife\u2014the possible model for the little prince's coquettish flower.\n\n### Recent Literary Analysis:\n\nThe website \"Literary Theory and Criticism\" published an analysis on August 1, 2023, noting that \"The Little Prince\" is \"ostensibly a children's book, set in the author's familiar and cherished landscape of the Sahara of northern Africa\".\n\n### Translation and Global Reach:\n\nIn April 2017, The Little Prince became the world's most translated non-religious book, with translations into 300 languages. This number had risen to 600 by November 2024.\n\nThe Little Prince became Saint-Exup\u00e9ry's most successful work, selling an estimated 140 million copies worldwide, which makes it one of the best-selling in history. The book has been translated into over 505 different languages and dialects worldwide, being the second most translated work ever published, trailing only the Bible.\n\nWhile my search didn't find specific academic articles published in 2024-2025, the sources above provide a comprehensive bibliography of scholarly works on \"The Little Prince\" that would be valuable for academic research. The most recent information I found was from 2023, with the literary analysis website, and the translation statistics updated to November 2024."
+    ],
+    "durationSeconds": 41.22545161699969
+  }
+}

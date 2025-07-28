@@ -1,0 +1,109 @@
+{
+  "session_id": "b8c17c71-efc6-4c19-9b68-e101c36de9c9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b8c17c71-efc6-4c19-9b68-e101c36de9c9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Black Mirror episodes inspired by 1984 dystopian parallels social media surveillance technology"
+  },
+  "tool_response": {
+    "query": "Black Mirror episodes inspired by 1984 dystopian parallels social media surveillance technology",
+    "results": [
+      "I'll search for information about Black Mirror episodes that draw parallels to George Orwell's 1984, particularly focusing on themes of dystopia, social media, and surveillance technology.",
+      {
+        "tool_use_id": "srvtoolu_01LLdDUNDzVYjbzER6oU94QS",
+        "content": [
+          {
+            "title": "15 Best 'Black Mirror' Episodes For Every Dystopian Mood - Netflix Tudum",
+            "url": "https://www.netflix.com/tudum/articles/black-mirror-best-episodes"
+          },
+          {
+            "title": "16 Best 'Black Mirror' Episodes For Every Dystopian Mood - Netflix Tudum",
+            "url": "https://wwww.netflix.com/tudum/articles/black-mirror-best-episodes"
+          },
+          {
+            "title": "Black Mirror - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Black_Mirror"
+          },
+          {
+            "title": "How Black Mirror Became Pop Culture's New 1984 Explained",
+            "url": "https://screenrant.com/black-mirror-new-1984-replace-how/"
+          },
+          {
+            "title": "China\u2019s New System is Less 1984 and More Black Mirror - Inkstick",
+            "url": "https://inkstickmedia.com/chinas-new-system-is-less-1984-and-more-black-mirror/"
+          },
+          {
+            "title": "List of Black Mirror episodes - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/List_of_Black_Mirror_episodes"
+          },
+          {
+            "title": "10 Dystopian Architectures from Black Mirror",
+            "url": "https://parametric-architecture.com/10-dystopian-architecture-black-mirror/"
+          },
+          {
+            "title": "Stranger than Fiction: When Black Mirror Becomes Reality | by Simone Puorto, We Are The Glitch | Medium",
+            "url": "https://wearetheglitch.medium.com/stranger-than-fiction-when-black-mirror-becomes-reality-37c939177020"
+          },
+          {
+            "title": "Here's Every Time 'Black Mirror' Predicted the Future",
+            "url": "https://www.levelman.com/heres-every-time-black-mirror-predicted-the-future/"
+          },
+          {
+            "title": "Black Mirror Series Season 7 Update: Holding up the Mirror to a Dystopian Future",
+            "url": "https://www.themoviejunkie.com/post/black-mirror-series-review"
+          }
+        ]
+      },
+      "Let me search for more specific information about Black Mirror episodes and their connections to 1984's themes.",
+      {
+        "tool_use_id": "srvtoolu_01CL9tLHJp5y4QhwTFs6GXQR",
+        "content": [
+          {
+            "title": "Fifteen Million Merits - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Fifteen_Million_Merits"
+          },
+          {
+            "title": "Behind the Black Mirror: The Limits of Orwellian Dystopia: Critique: Vol 47 , No 2 - Get Access",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/03017605.2019.1601887"
+          },
+          {
+            "title": "Fifteen Million Merits | Black Mirror Wiki | Fandom",
+            "url": "https://black-mirror.fandom.com/wiki/Fifteen_Million_Merits"
+          },
+          {
+            "title": "Black Mirror\u2019s \u201915 Million Merits\u2019 and the Limits of its ties to Marxism",
+            "url": "https://arts3047.wordpress.com/2019/10/23/black-mirrors-15-million-merits-and-the-limits-of-its-ties-to-marxism/"
+          },
+          {
+            "title": "Fifteen Million Merits \u2013 Black Mirror | Afterlives of Slavery",
+            "url": "https://afterlivesofslavery.wordpress.com/television/fifteen-million-merits-black-mirror/"
+          },
+          {
+            "title": "Black Mirror - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Black_Mirror"
+          },
+          {
+            "title": "Black Mirror: Fifteen Million Merits | by Jessica Nguyen | RTA902 (Social Media) | Medium",
+            "url": "https://medium.com/rta902/black-mirror-fifteen-million-merits-58ee612b680d"
+          },
+          {
+            "title": "Black Mirror: 'Fifteen Million Merits' Ending, Explained",
+            "url": "https://gamerant.com/black-mirror-fifteen-million-merits-episode-ending-explained/"
+          },
+          {
+            "title": "Black Mirror\u2019s 15 Million Merits \u2014 the Illusion of Choice in a Techspace of Coercion | by Miranda Adama | Medium",
+            "url": "https://mirandaadama.medium.com/black-mirrors-15-million-merits-the-illusion-of-choice-in-a-techspace-of-coercion-0183b3ed619a"
+          },
+          {
+            "title": "Social mobility and resistance in Black Mirror's 'Fifteen Million Merits ...",
+            "url": "https://vector-bsfa.com/2022/02/25/who-do-you-think-is-powering-that-spotlight-social-mobility-and-resistance-in-black-mirrors-fifteen-million-merits/"
+          }
+        ]
+      },
+      "Based on my search results, I can provide you with comprehensive information about Black Mirror episodes that draw parallels to George Orwell's 1984, particularly focusing on themes of dystopia, social media, surveillance, and technology.\n\n## Black Mirror Episodes with Strong 1984 Parallels:\n\n### 1. **\"Fifteen Million Merits\" (Season 1, Episode 2)**\nBrooker mentioned the \"1984\" ad produced by Apple, Inc. for the Apple Macintosh computer. He said that the advert \"implied the Mac might save mankind from a nightmarish Orwellian future\", but that such a world would instead \"probably\" look \"a bit like\" the one in \"Fifteen Million Merits\". This episode features:\n\n- The relationship of Abi and Bing drew comparison to that of Julia and Winston in Nineteen Eighty-Four\n- The lack of privacy in the digital world can feel Orwellian, but as William Wresch argues in his book: In 1984 George Orwell had visions of state control brought about by watchers you could watch TV and it could watch you. He may have understood the goals of the police state, but he totally misunderstood technology. Who needs armies of people watching armies of people when trivial computer programs and minuscule storage devices can effortlessly record every move you make?\n- This episode really reminded me of George Orwell's novel 1984. Particularly the fact the citizens are subdued or controlled through certain means and it basically keeps them compliant with society's structure and order. There are many elements of Fifteen Million Merits (as well as George Orwell's 1984) that seem to already be present in our society\n\n### 2. **\"Nosedive\" (Season 3, Episode 1)**\nThis episode explores social credit systems and surveillance through social media:\n- One of the most anxiety-inducing episodes of Black Mirror, \"Nosedive\" imagines a future where every human interaction is rated on a mobile app, and your overall score determines where you can work and live. Lacie (Bryce Dallas Howard) sees an opportunity to take her status to the next level when her popular childhood friend chooses her as her maid of honor\n- in \"Nosedive\", the protagonist Lacie strives for a utopian life through superficiality and performativity, in a society where social media success contributes to high socioeconomic status\n- The parallels between Nosedive and the Chinese system were so obvious that in a 2016 interview Charlie Booker, Black Mirror's creator, when asked about the parallels stated \"They're going to do the system from 'Nosedive' for citizens! It's incredibly sinister\"\n\n### 3. **\"White Bear\" (Season 2, Episode 2)**\nFeatures surveillance and public spectacle as punishment:\n- The White Bear episode of Black Mirror presents one of the series' most unsettling uses of dystopian architecture and spatial manipulation as a tool of punishment. As Victoria moves outside, the environment itself becomes part of the punishment: urban spaces are stripped of normal interaction, turning into arenas of surveillance and psychological torture. The journey leads her to White Bear Justice Park, a facility blending prison and theater. Its design, with towering walls, isolated stages, and oversized screens, transforms punishment into a public spectacle. Transparent vehicles and carefully choreographed spaces emphasize constant exposure and humiliation\n\n### 4. **\"Bandersnatch\" (Interactive Film)**\n- Set in 1984, the film follows Stefan Butler (Fionn Whitehead), an ambitious programmer trying to make a fantasy game where the player's choices will really matter\n- The plot is set in 1984 England and follows the young programmer Stefan, who is working on an innovative interactive video game inspired by the choose-your-own-adventure book \"Bandersnatch.\" As the deadline for delivery approaches, Stefan begins to encounter errors and bugs in the game and becomes increasingly obsessed with the idea of being controlled by external forces\n\n## Key Themes Connecting Black Mirror to 1984:\n\n### 1. **Surveillance and Privacy**\n- The episode explores themes of over-surveillance and being constantly online, and the tragedy that it brings. Toby Kebbell plays an executive going through a particularly rough patch in his career and life, finds that the grain implant technology makes things infinitely worse when he overindulges\n- Daily life unfolds under constant surveillance, and the spaces, much like the people, become robotic: efficient, controlled, and stripped of soul\n\n### 2. **Technology as Control**\n- While the acclaimed novel's broader themes are essentially timeless, Black Mirror has the benefit of being at the tail end of the internet's maximized potential while also being able to reference the earliest stages of multiple looming technological revolutions. Everything from artificial intelligence to reality-altering, mind-bending augmentations and devices have already been plot points on the show. It should come as no surprise that the phrase \"it's just like 1984\" seems to have been replaced by \"it's just like an episode of Black Mirror\" in modern lexicon, carrying exactly the same meaning\n\n### 3. **Dystopian Societies**\n- The programme is an instance of speculative fiction within science fiction: the majority of episodes are set in dystopian near-futures with novel technologies that exaggerate a trait from contemporary culture, often the internet\n- The episode provides a darkly satirical vision of a dystopic future in which the state regime numbs people's minds and co-opts their rebellious energies by keeping them occupied with entertainment spectacles in the whole Pop Idol/X Factor vein. Although the episode is compelling and imaginative, this essay will argue it is based \u2013 albeit unconsciously \u2013 on the type of political sensibility which purports to provide a radical critique of consumerism\n\n### 4. **Social Media and Mass Manipulation**\n- Overarching themes of surveillance, censorship, and even elements of totalitarianism are still massively important topics in the 21st century. While 1984 was more concerned about government and the political aspects of those themes, Black Mirror reveals the concerning rise of the commercial sector's role in those same themes(no content)Black Mirror's dystopian takes on technology and society have only become more relevant since 2019, and the anthology series is firmly entrenched as popular culture's new 1984. The series effectively updates Orwell's warnings about totalitarianism for the digital age, showing how surveillance, control, and manipulation have evolved through technology and social media rather than through traditional authoritarian government structures."
+    ],
+    "durationSeconds": 76.70076432499988
+  }
+}

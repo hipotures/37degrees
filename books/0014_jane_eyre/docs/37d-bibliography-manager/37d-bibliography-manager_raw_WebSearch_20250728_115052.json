@@ -1,0 +1,63 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Charlotte Bront\u00eb Jane Eyre 1847 first edition original publisher Smith Elder manuscript letters"
+  },
+  "tool_response": {
+    "query": "Charlotte Bront\u00eb Jane Eyre 1847 first edition original publisher Smith Elder manuscript letters",
+    "results": [
+      "I'll search for information about Charlotte Bront\u00eb's Jane Eyre first edition, including details about the original publisher Smith Elder and any manuscript letters.",
+      {
+        "tool_use_id": "srvtoolu_01QhnMB3xumYzAxFKKtE8UJE",
+        "content": [
+          {
+            "title": "Jane Eyre, by Charlotte Bronte (1847) - ZSR Library",
+            "url": "https://zsr.wfu.edu/2016/jane-eyre-by-charlotte-bronte-1847/"
+          },
+          {
+            "title": "How 'Jane Eyre' Was Published - The Story in Charlotte Bront\u00eb's Letters - leseriana",
+            "url": "https://leseriana.blog/2023/10/21/how-jane-eyre-was-published-the-story-in-charlotte-brontes-letters/"
+          },
+          {
+            "title": "Charlotte Bront\u00eb\u2019s Contract For Jane Eyre",
+            "url": "http://www.annebronte.org/2021/09/12/charlotte-brontes-contract-for-jane-eyre/"
+          },
+          {
+            "title": "Amazon.com: The Letters of Charlotte Bront\u00eb: With a Selection of Letters by Family and Friends, Volume I: 1829-1847: 9780198185970: Bront\u00eb, Charlotte, Smith, Margaret: Books",
+            "url": "https://www.amazon.com/Letters-Charlotte-Bront%C3%AB-Selection-1829-1847/dp/0198185979"
+          },
+          {
+            "title": "Charlotte Bront\u00eb's The Professor | | The Morgan Library & Museum",
+            "url": "https://www.themorgan.org/collection/charlotte-bronte/81847"
+          },
+          {
+            "title": "Jane Eyre - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Jane_Eyre"
+          },
+          {
+            "title": "Jane Eyre: \u00c9ditions des Saints P\u00e8res Review \u2014 Miranda's Notebook",
+            "url": "https://mirandasnotebook.com/blog/jane-eyre-ditions-des-saints-pres"
+          },
+          {
+            "title": "1. Letter to William S. Williams, 28 October 1847, page 1 | Charlotte Bront\u00eb: Ten Letters and a Fictional Fantasy | The Morgan Library & Museum",
+            "url": "https://www.themorgan.org/collection/charlotte-bronte/letters/1"
+          },
+          {
+            "title": "Charlotte Bront\u00eb's \u201cJane Eyre\u201d is published in London | October 19, 1847 | HISTORY",
+            "url": "https://www.history.com/this-day-in-history/october-19/jane-eyre-is-published"
+          },
+          {
+            "title": "Here, there and every Eyre: Charlotte Bront\u00eb goes global - European studies blog",
+            "url": "https://blogs.bl.uk/european/2016/04/here-there-and-every-eyre-charlotte-bront%C3%AB-goes-global.html"
+          }
+        ]
+      },
+      "Based on my search results, I can provide you with comprehensive information about Charlotte Bront\u00eb's Jane Eyre first edition, the publisher Smith Elder, and related manuscript letters:\n\n## First Edition Publication Details\n\nJane Eyre was published under Charlotte Bront\u00eb's pen name \"Currer Bell\" on 19 October 1847 by Smith, Elder & Co. of London.(no content)The first American edition was published in January 1848 by Harper & Brothers of New York.\n\n## The Publishing Process\n\nThe journey to publication was remarkably swift by today's standards:\n\n1. **Initial Rejection and Encouragement**: Charlotte initially sent The Professor to Smith, Elder and Co., but received a rejection that included encouraging words about sending \"a more striking and exciting\" novel.\n\n2. **Manuscript Submission**: Charlotte sent the Jane Eyre manuscript to George Smith on 28th August 1847, and the publisher's enthusiasm was immediate - George Smith read it in one day, cancelling his dinner appointment.\n\n3. **Fair Copy Manuscript**: Charlotte carefully wrote out a 'fair copy' manuscript between 16th and 19th March 1847 and sent it to the publishers Smith, Elder and Co. on 24th August 1847.\n\n4. **Publication**: Less than two months after submission, on 16th October 1847, it was available to buy.\n\n## Key Letters and Correspondence\n\nSeveral important letters document the publication process:\n\n1. **August 7, 1847**: Currer Bell writes to Smith, Elder of a \"striking and exciting character\" he was working on, for which he received a favourable response.\n\n2. **September 12, 1847**: Charlotte received proposed edits from Smith, expressing misgivings about the early chapters dealing with Jane's childhood. Charlotte wrote back thanking him for the \"judicious remarks and sound advice,\" but firmly rejecting his suggestions.(no content)In this letter, Charlotte wrote that \"it is true and Truth has a severe charm of its own\".\n\n3. **October 19, 1847**: On the same day the novel was published, Currer Bell received six copies, forwarded \"as usual to Miss Bront\u00eb &c\". In a letter written that day, he expressed trust in the \"advantage which good paper, clear type and a seemly outside can supply\".\n\n4. **October 28, 1847**: Charlotte wrote to William S. Williams of Smith, Elder & Co., reacting to some early reviews of her first published novel.\n\n## Publishing Contract Terms\n\nCharlotte was offered an advance of one hundred pounds for Jane Eyre and two subsequent novels - at least twice as much as a governess or teacher would earn in a year.(no content)Charlotte was confident that Smith, Elder would increase the advances if Jane Eyre proved successful, and she was right - by the time Shirley was being readied for publication she was given an advance of \u00a3500.\n\n## Physical Description of First Edition\n\nJane Eyre was published in three volumes in October 1847.(no content)Charlotte wrote to Smith: \"You have given the work every advantage which good paper, clear type and a seemly outside can supply.\"\n\n## Reception and Success\n\nSales of Jane Eyre were excellent.(no content)Jane Eyre An Autobiography edited by Currer Bell was published on the 19th October 1847, a fulminating commercial success.(no content)The book, about the struggles of an orphan girl who grows up to become a governess, was an immediate popular success.\n\n## The Manuscript\n\nBront\u00eb started working on Jane Eyre in August 1846 and, in August 1847, she sent it to her publisher. The manuscript that Charlotte sent was carefully prepared as a fair copy, demonstrating her confidence in the work.\n\n## Related Letter Collections\n\nA comprehensive collection of Charlotte Bront\u00eb's letters from 1829 to 1847 has been published, including many confidential letters based on original manuscripts. This volume covers the period from her childhood up to the publication and review of Jane Eyre.\n\nThe rapid acceptance and publication of Jane Eyre, along with the preserved correspondence between Charlotte Bront\u00eb and Smith, Elder & Co., provides a fascinating glimpse into 19th-century publishing practices and the birth of one of English literature's most beloved novels."
+    ],
+    "durationSeconds": 47.5086604869999
+  }
+}

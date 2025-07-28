@@ -1,0 +1,72 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Folwark zwierz\u0119cy\" \"lektura szkolna\" \"podstawa programowa\" \"MEN\" \"klasa\" obowi\u0105zkowa uzupe\u0142niaj\u0105ca"
+  },
+  "tool_response": {
+    "query": "\"Folwark zwierz\u0119cy\" \"lektura szkolna\" \"podstawa programowa\" \"MEN\" \"klasa\" obowi\u0105zkowa uzupe\u0142niaj\u0105ca",
+    "results": [
+      "I'll search for information about \"Animal Farm\" (Folwark zwierz\u0119cy) as a school reading in Poland, including its status in the curriculum and which grade levels it's assigned to.",
+      {
+        "tool_use_id": "srvtoolu_01Y15iXkuxW5FPcCYsiHuawm",
+        "content": []
+      },
+      {
+        "tool_use_id": "srvtoolu_01UZUA9Pa9fi9cMEdqMrkkj3",
+        "content": []
+      },
+      "I notice the search isn't returning results. Let me try a modified search query that might be more effective:",
+      {
+        "tool_use_id": "srvtoolu_01PLc1F2FvXetWPCvo9mN9ni",
+        "content": [
+          {
+            "title": "Folwark zwierz\u0119cy - George Orwell | lektury szkolne z om\u00f3wieniem - Wydawnictwo Greg",
+            "url": "https://www.greg.pl/lektury/103,1187_Folwark-zwierzecy.html"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy (lektura z opracowaniem) (Ibis) w ksi\u0119garni Tuliszk\u00f3w",
+            "url": "https://ksiegarnia-tuliszkow.pl/folwark-zwierzecy-lektura-z-opracowaniem-miekka-okladka"
+          },
+          {
+            "title": "Lektura szkolna \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Lektura_szkolna"
+          },
+          {
+            "title": "SPIS LEKTUR \u2013 KLASY 1-8 - Szko\u0142a Podstawowa w Zwierzy\u0144cu Pierwszym",
+            "url": "http://spzwierzyniec.szkolna.net/n,spis-lektur-klasy-1-8"
+          },
+          {
+            "title": "Orwell-George-Folwark-Zwierz\u0119cy.pdf - Magda Lipiec",
+            "url": "http://magdalipiec.pl/wp-content/uploads/2013/09/Orwell-George-Folwark-Zwierz%C4%99cy.pdf"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy - ksi\u0105\u017cka - Empik",
+            "url": "https://www.empik.com/ksiazki/folwark-zwierzecy"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Folwark_zwierz%C4%99cy"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy - Streszczenie kr\u00f3tkie - George Orwell - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/george-orwell/folwark-zwierzecy.streszczenie-krotkie"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy. Z opracowaniem - Wydawnictwo SBM",
+            "url": "https://www.wydawnictwosbm.pl/ksiazka/folwark-zwierzecy-z-opracowaniem/"
+          },
+          {
+            "title": "J\u0119zyk Polski - Wykaz lektur dla klas VII-VIII | Publiczna Szko\u0142a Podstawowa w K\u0105tach Opolskich",
+            "url": "https://pspkatyopolskie.edupage.org/text/?eqa=dGV4dD1zdWJqZWN0cy8tMSZzdWJwYWdlPTM%3D"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with information about \"Folwark zwierz\u0119cy\" (Animal Farm) as a school reading in Poland:\n\n## Status in Polish Education System\n\n\"Folwark zwierz\u0119cy\" nale\u017cy tak\u017ce do uzupe\u0142niaj\u0105cych lektur szkolnych w polskim systemie o\u015bwiaty (Animal Farm is included as a supplementary reading in the Polish education system).\n\nAccording to the search results from a school website, \"Folwark zwierz\u0119cy\" by George Orwell is listed as a supplementary reading (\"LEKTURA UZUPE\u0141NIAJ\u0104CA\") for grades VII-VIII.\n\n## Historical Context in Polish Curriculum\n\nIn the curriculum changes, George Orwell's \"Folwark zwierz\u0119cy\" was mentioned as one of the works that replaced another selection in the general literature section. The book appears to have been added to the curriculum along with C.S. Lewis's \"Letters from a Senior to a Junior Devil.\"\n\n## About the Book\n\n\"Folwark zwierz\u0119cy\" is a novel by English journalist and writer George Orwell, presenting farm animals that expelled humans and began to govern the farm themselves. It is an allegorical representation of Stalinism and a warning against any totalitarianism.\n\nUntil nearly the fall of the communist system in Poland in 1989, it was a novel banned by censorship - its first official domestic edition appeared only in 1988.\n\nThe search results confirm that \"Folwark zwierz\u0119cy\" (Animal Farm) is currently part of the Polish school curriculum as a **supplementary reading** (lektura uzupe\u0142niaj\u0105ca), particularly for grades VII-VIII in primary school."
+    ],
+    "durationSeconds": 27.77584759099968
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Jane Eyre\" polska krytyka literacka \"Dziwne losy\" feministyczna interpretacja akademicka"
+  },
+  "tool_response": {
+    "query": "\"Jane Eyre\" polska krytyka literacka \"Dziwne losy\" feministyczna interpretacja akademicka",
+    "results": [
+      "I'll search for Polish literary criticism on \"Jane Eyre\" focusing on \"Strange Fortunes\" (Dziwne losy) and feminist academic interpretations.",
+      {
+        "tool_use_id": "srvtoolu_0158Pi7GwPVWS1p5HTJxeX2w",
+        "content": [
+          {
+            "title": "Dziwne losy Jane Eyre - Kultowy.pl",
+            "url": "https://kultowy.pl/dziwne-losy-jane-eyre"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Dziwne_losy_Jane_Eyre"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre",
+            "url": "https://wolnelektury.pl/katalog/lektura/bronte-dziwne-losy-jane-eyre/"
+          },
+          {
+            "title": "Jane Eyre - Recenzja ksi\u0105\u017cki Dziwne losy Jane Eyre - nakanapie.pl",
+            "url": "https://nakanapie.pl/recenzje/jane-eyre-jane-eyre-autobiografia"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre - Charlotte Bront\u00eb | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/4968674/dziwne-losy-jane-eyre"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre \u2013 Charlotte Br\u00f6nte \u2013 Szuflada.net",
+            "url": "https://szuflada.net/dziwne-losy-jane-eyre-charlotte-bronte/"
+          },
+          {
+            "title": "Jane Eyre. Autobiografia - sztukater.pl",
+            "url": "https://sztukater.pl/ksiazki/jane-eyre.html"
+          },
+          {
+            "title": "\u201eDziwne losy Jane Eyre\u201d Charlotte Bront\u00eb na Wolnych Lekturach",
+            "url": "https://fundacja.wolnelektury.pl/2023/09/28/dziwne-losy-jane-eyre-charlotte-bronte-na-wolnych-lekturach/"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre/ca\u0142o\u015b\u0107 - Wiki\u017ar\u00f3d\u0142a, wolna biblioteka",
+            "url": "https://pl.m.wikisource.org/wiki/Dziwne_losy_Jane_Eyre/ca%C5%82o%C5%9B%C4%87"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre | Wydawnictwo \u015awiat Ksi\u0105\u017cki",
+            "url": "https://wydawnictwoswiatksiazki.pl/tytul/dziwne-losy-jane-eyre/"
+          }
+        ]
+      },
+      "Based on the search results, I found information about Polish literary criticism and feminist interpretations of \"Jane Eyre\" (Polish title: \"Dziwne losy Jane Eyre\"). Here are the key findings:\n\n## Polish Literary Criticism and Feminist Interpretations of \"Jane Eyre\"\n\nDziwne losy Jane Eyre Arcydzie\u0142o Charlotte Bront\u00eb zosta\u0142o uznane za pierwsz\u0105 powie\u015b\u0107 feministyczn\u0105 w historii. This recognition establishes the novel's important place in feminist literary history.\n\n### Feminist Characteristics\n\nThe novel presents a groundbreaking female protagonist for its time. \"Dziwne losy Jane Eyre\" to powie\u015b\u0107 mroczna, tajemnicza i bardzo feministyczna, szczeg\u00f3lnie jak na czasy si\u00f3str Bronte.(no content)Wartym szerszego zaakcentowania jest ukazany w powie\u015bci portret kobiety, tak r\u00f3\u017cny od znanych nam obraz\u00f3w z wiktoria\u0144skich powie\u015bci. Jane Eyre bowiem nie jest s\u0142ab\u0105, pogodzon\u0105 z losem kobiet\u0105, kt\u00f3ra nie potrafi walczy\u0107 o swoje szcz\u0119\u015bcie. Charlotte Bront\u00eb wykreowa\u0142a t\u0119 posta\u0107 na dumn\u0105, pewn\u0105 siebie i niezale\u017cn\u0105 przedstawicielk\u0119 p\u0142ci \u017ce\u0144skiej.\n\n### Jane's Active Resistance\n\nThe Polish criticism emphasizes Jane's active resistance to injustice: Stworzona przez ni\u0105 sierota jest i biedna, i prze\u015bladowana, ale nie godzi si\u0119 pokornie na sw\u00f3j los, tylko aktywnie przeciwstawia si\u0119 niesprawiedliwo\u015bci. Tym zajadlej walczy, im bardziej jest na przegranej pozycji. Nie poddaje si\u0119 jednak nigdy.\n\n### Literary Analysis in Polish Academia\n\nPowie\u015bci, kt\u00f3rej analiza literacka sta\u0142a si\u0119 podstaw\u0105 do wielu artyku\u0142\u00f3w i prac naukowych. The novel has become a significant subject of academic study in Poland.\n\nPowie\u015bci, kt\u00f3rej analiza literacka sta\u0142a si\u0119 podstaw\u0105 do wielu artyku\u0142\u00f3w i prac naukowych.\n\n### Polish Translation and Reception\n\nThe Polish translation by Teresa \u015awiderska from 1930 is widely used: Baz\u0105 naszej publikacji jest polski przek\u0142ad powie\u015bci autorstwa Teresy \u015awiderskiej z 1930 roku.\n\nThe novel continues to find resonance with Polish readers: Nawet pod wp\u0142ywem kolei los\u00f3w, kt\u00f3re nie szcz\u0119dz\u0105 jej nieszcz\u0119\u015b\u0107 w postaci cierpienia i samotno\u015bci, Jane nie poddaje si\u0119. Pewnie dlatego bohaterka od tylu lat, znajduje swoje miejsce w sercach milion\u00f3w czytelnik\u00f3w, a w szczeg\u00f3lno\u015bci czytelniczek.\n\n### Universal and Timeless Themes\n\nPolish critics recognize the novel's universal appeal: \"Jane Eyre. Autobiografia\" to powie\u015b\u0107 uniwersalna i ponadczasowa. Dotyka tak wielu obszar\u00f3w \u017cycia, \u017ce trudno tutaj o jedn\u0105 i w\u0142a\u015bciw\u0105 interpretacj\u0119 tego utworu.\n\nThe search results show that Polish literary criticism has embraced \"Jane Eyre\" as a pioneering feminist novel, with academic analysis focusing on the protagonist's independence, strength, and active resistance to oppression - themes that continue to resonate with contemporary readers in Poland."
+    ],
+    "durationSeconds": 34.46222134000016
+  }
+}

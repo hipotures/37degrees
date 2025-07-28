@@ -1,0 +1,63 @@
+{
+  "session_id": "b8c17c71-efc6-4c19-9b68-e101c36de9c9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b8c17c71-efc6-4c19-9b68-e101c36de9c9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"BookTok\" 1984 George Orwell teenagers reading trends dystopian fiction TikTok 2024"
+  },
+  "tool_response": {
+    "query": "\"BookTok\" 1984 George Orwell teenagers reading trends dystopian fiction TikTok 2024",
+    "results": [
+      "I'll search for information about BookTok's influence on teenagers reading 1984 and dystopian fiction trends in 2024.",
+      {
+        "tool_use_id": "srvtoolu_01De6NgxkVVtEgpYERY4T4V7",
+        "content": [
+          {
+            "title": "The Most Popular TikTok Books #BookTok | Barnes & Noble\u00ae",
+            "url": "https://www.barnesandnoble.com/b/booktok/_/N-2vdn"
+          },
+          {
+            "title": "Tiktok #Booktok 2022-2024 (47 books)",
+            "url": "https://www.goodreads.com/list/show/179763.Tiktok_Booktok_2022_2024"
+          },
+          {
+            "title": "The Newest BookTok Darling Silver Elite Proves Dire for Dystopian Literature | Den of Geek",
+            "url": "https://www.denofgeek.com/books/silver-elite-booktok-dystopian-literature-controversy/"
+          },
+          {
+            "title": "YA Reads Trending on BookTok | Brightly",
+            "url": "https://www.readbrightly.com/booktok-recommended-young-adult-books/"
+          },
+          {
+            "title": "BookTok\u2019s 21 Most Talked About Books of 2024",
+            "url": "https://www.rollingstone.com/culture/culture-lists/booktok-best-books-2024-1235090973/"
+          },
+          {
+            "title": "TikTok's trend of 'BookTok' affects viewers' choices - The Post",
+            "url": "https://www.thepostathens.com/article/2024/10/booktok-tiktok-influence-reading"
+          },
+          {
+            "title": "The best BookTok books to read in 2025 - Pan Macmillan",
+            "url": "https://www.panmacmillan.com/blogs/general/best-booktok-books"
+          },
+          {
+            "title": "The Only 1984 Summary You Need to Understand Total Control",
+            "url": "https://www.blinkist.com/magazine/posts/fact-behind-fiction-book-orwell-1984"
+          },
+          {
+            "title": "1984 george orwell chapter 1\uff5cTikTok Search",
+            "url": "https://www.tiktok.com/discover/1984-george-orwell-chapter-1?lang=en"
+          },
+          {
+            "title": "30 BookTok Books That Are Worth the Hype, According to Readers",
+            "url": "https://www.rd.com/list/booktok-books/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with information about BookTok's influence on teenagers reading 1984 and dystopian fiction trends in 2024:\n\n## BookTok's Impact on Teen Reading in 2024\n\nBookTok has emerged as a vibrant trend on TikTok that captivates a diverse environment of readers. Its inclusive space has allowed content creators to share their favorite books through engaging formats with readers of all levels and ages.(no content)The BookTok hashtag is reported to have over 107 billion views globally. As of 2023, it is particularly popular with Generation Z users, people who were born between 1996 and 2010.\n\n## Dystopian Fiction on BookTok\n\nWhile the search results don't show 1984 specifically trending as a major BookTok sensation in 2024, there is discussion about dystopian literature on the platform. Dystopian fiction has a very significant role in literature, often serving as a reflection of current society. The best dystopian fiction creates parallels between power imbalances and injustice present in our political culture and global events. Think about George Orwell's 1984 and its use of surveillance, or Nana Kwame Adjei-Brenyah's Chain-Gang All Stars and its representation of capital punishment(no content)There's been a book called \"Silver Elite\" making its rounds as the rising star of \"BookTok,\" the subsection of TikTok that recommends and reviews books. However, there has been growing negative discourse regarding Silver Elite, with many readers critical of its use of the dystopian genre to forefront a romance at the expense of worldbuilding\n\n## BookTok's Reading Preferences\n\nThe more common users on this side of TikTok are women and young teenagers sharing genre recommendations like romance, young adult fiction and fantasy.(no content)There are dark romance lovers, fairy porn enthusiasts, literary fiction champions, and horror aficionados.\n\n## 1984 on TikTok\n\nWhile 1984 isn't prominently featured in the 2024 BookTok bestseller lists, there is some presence of Orwell's work on TikTok. There are videos related to 1984 on TikTok, including read-along content and discussions about the book's themes(no content)Blinkist embraces modern trends with short TikTok videos, offering a quick glimpse before you dive into the summary or the captivating 1984 audiobook. Discover why 1984's themes remain relevant by checking out our TikTok preview\n\n## 2024 BookTok Trends\n\nThe most popular BookTok books of 2024 appear to be primarily romance and fantasy novels rather than classic dystopian fiction. TikTok's book community has been responsible for millions of dollars of book sales. Here are 21 of BookTok's biggest hits of 2024. TikTok's book community has been responsible for millions of dollars of book sales and made authors household names.\n\nWhile George Orwell's 1984 maintains its status as a classic dystopian novel and continues to be discussed in educational contexts, it doesn't appear to be experiencing a major viral moment on BookTok in 2024 compared to contemporary romance and fantasy titles that dominate the platform's trending lists."
+    ],
+    "durationSeconds": 37.99194879900012
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Folwark zwierz\u0119cy\" krytyka literacka Polska \"Pami\u0119tnik Literacki\" \"Teksty Drugie\" academia uniwersytet"
+  },
+  "tool_response": {
+    "query": "\"Folwark zwierz\u0119cy\" krytyka literacka Polska \"Pami\u0119tnik Literacki\" \"Teksty Drugie\" academia uniwersytet",
+    "results": [
+      "I'll search for Polish literary criticism of \"Folwark zwierz\u0119cy\" (Animal Farm) in academic journals and university sources.",
+      {
+        "tool_use_id": "srvtoolu_01Ghmzoecfnjw58h1wchZcYN",
+        "content": []
+      },
+      "I found several academic sources discussing George Orwell's \"Folwark zwierz\u0119cy\" (Animal Farm) in Polish literary criticism:\n\n## Academic Papers and Journals:\n\n\"Pami\u0119tnik Literacki\" published an article titled \"ANGIELSKA FARMA ZWIERZ\u0118CA I POLSKA FOLWARK ZWIERZ\u0118CY. O SPECYFICE PRZEK\u0141ADU JANINY DACKIEWICZ\" (2019) by Anna Cetera-W\u0142odarczyk and Alicja Kosim from the University of Warsaw.(no content)This article examines the specifics of Janina Dackiewicz's Polish translation of Orwell's work.(no content)Another publication in \"Pami\u0119tnik Literacki\" is \"Pieskie \u017cycie na folwarku i za granic\u0105. Zwierz\u0119ce motywacje Zbigniewa Herberta\" (2020) by Marcin Ca\u0142becki.(no content)This article analyzes animal motivations in literature, including references to Orwell's work.\n\n## University Resources:\n\nAcademia.edu hosts an article by Magdalena Cornis-Pope from Nicolaus Copernicus University titled \"George Orwell, \u201eFolwark zwierz\u0119cy\".\"(no content)The article discusses how Orwell's novel is \"jedn\u0105 z najbardziej znanych antyutopii napisanych w XX wieku\" (one of the most well-known dystopias written in the 20th century).(no content)The University of Bia\u0142ystok repository contains a scholarly work titled \"\u015awiat stworzony przez cz\u0142owieka, ale bez cz\u0142owieka w powie\u015bci George'a Orwella Folwark zwierz\u0119cy\" (2017) by Wioleta Olchowik, which analyzes the paradox of a world created by humans but existing without humans in Orwell's novel.\n\n## Translation Studies:\n\nAcademia.edu also features \"Marta Ka\u017amierczak's Review of: Anna Cetera-W\u0142odarczyk & Alicja Kosim (2019). Angielska \u201eFarma zwierz\u0119ca\" i polski \u201eFolwark zwierz\u0119cy\"...\"(no content)This review discusses the translation analysis published by Wydawnictwo Uniwersytetu Warszawskiego.\n\nThese sources demonstrate that \"Folwark zwierz\u0119cy\" has been extensively analyzed in Polish academic circles, particularly focusing on translation studies, allegorical interpretations, and its significance as a dystopian work in Polish literary criticism."
+    ],
+    "durationSeconds": 23.09149507599976
+  }
+}

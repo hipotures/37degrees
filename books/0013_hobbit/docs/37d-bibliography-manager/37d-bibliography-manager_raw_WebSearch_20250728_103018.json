@@ -1,0 +1,63 @@
+{
+  "session_id": "fbc680e7-1eb0-4e03-89a6-2cdd410f922d",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/fbc680e7-1eb0-4e03-89a6-2cdd410f922d.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"The Hobbit\" J.R.R. Tolkien academic sources scholarly articles bibliography 2024 2025"
+  },
+  "tool_response": {
+    "query": "\"The Hobbit\" J.R.R. Tolkien academic sources scholarly articles bibliography 2024 2025",
+    "results": [
+      "I'll search for recent academic sources and scholarly articles about \"The Hobbit\" by J.R.R. Tolkien.",
+      {
+        "tool_use_id": "srvtoolu_01H39H6HdvPXtzoG6L6e15oP",
+        "content": [
+          {
+            "title": "J. R. R. Tolkien bibliography - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/J._R._R._Tolkien_bibliography"
+          },
+          {
+            "title": "J. R. R. Tolkien - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/J._R._R._Tolkien"
+          },
+          {
+            "title": "J.R.R. Tolkien | Biography, Books, Movies, Middle-earth, & Facts | Britannica",
+            "url": "https://www.britannica.com/biography/J-R-R-Tolkien"
+          },
+          {
+            "title": "Books by J.R.R. Tolkien \u2013 The Tolkien Society",
+            "url": "https://www.tolkiensociety.org/discover/books-by-tolkien/"
+          },
+          {
+            "title": "J.R.R. Tolkien - Tolkien Gateway",
+            "url": "https://tolkiengateway.net/wiki/J.R.R._Tolkien"
+          },
+          {
+            "title": "A chronological bibliography of the writings of J.R.R. Tolkien",
+            "url": "https://forodrim.org/bibliography/tbchron.html"
+          },
+          {
+            "title": "Project MUSE - A Tolkien Bibliography",
+            "url": "https://muse.jhu.edu/article/250336/summary"
+          },
+          {
+            "title": "Tolkien research - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Tolkien_research"
+          },
+          {
+            "title": "J.R.R. Tolkien (Author of The Hobbit, or There and Back Again)",
+            "url": "https://www.goodreads.com/author/show/656983.J_R_R_Tolkien"
+          },
+          {
+            "title": "David Bratman - Studies in English on the works of J.R.R. Tolkien - The Tolkien Estate",
+            "url": "https://www.tolkienestate.com/writing/studies-in-english-on-the-works-of-j-r-r-tolkien/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with information about recent academic sources and scholarly articles about \"The Hobbit\" by J.R.R. Tolkien, though the results show limited specific 2024-2025 academic publications:\n\n## Recent Tolkien Publications (2024-2025)\n\nThe Collected Poems of J.R.R. Tolkien, edited by Christina Scull and Wayne G. Hammond, was published by HarperCollins, London, in 2024. This book includes over 250 poems, of which at least 70 had never before been published.\n\nA new Tolkien book \u2013 The Bovadium Fragments \u2013 is satire on industrialisation posted on 27 June 2025, though this appears to be an upcoming release.\n\n## Academic Resources and Bibliographies\n\nFor comprehensive academic sources on Tolkien's works including \"The Hobbit,\" several key bibliographic resources are available:\n\n1. **Descriptive Bibliography**: Wayne G. Hammond, with the assistance of Douglas A. Anderson, published \"J.R.R. Tolkien: A Descriptive Bibliography\" (St. Paul's Bibliographies, Oak Knoll Books, 1993), which provides a complete catalogue of Tolkien's published writings with detailed physical descriptions of each edition and essays on the publishing history of each book.\n\n2. **Chronological Bibliography**: A chronological bibliography containing all articles and books published by Tolkien himself as well as works appearing posthumously is maintained at forodrim.org.\n\n3. **Academic Criticism Bibliography**: Judith A. Johnson's \"J.R.R. Tolkien: Six Decades of Criticism\" (Greenwood Press, 1986) provides an annotated bibliography of works by and about Tolkien, arranged chronologically by decade, serving as the basic bibliography of writings about Tolkien up through 1984.\n\n## Key Scholarly Works on \"The Hobbit\"\n\nSeveral important academic works focus specifically on \"The Hobbit\":\n\n1. \"The Annotated Hobbit\" edited by Douglas A. Anderson (revised edition, HarperCollins, Houghton Mifflin, 2002) provides a full and corrected text of the story with marginal annotations on various subjects, including a complete catalogue of textual revisions between published editions.\n\n2. \"The History of The Hobbit\" by John Rateliff (HarperCollins, 2007), published in two volumes (Mr. Baggins and Return to Bag-End), offers a full study of the composition and revision of The Hobbit, including pre-publication drafting.\n\n3. Corey Olsen's \"Exploring J.R.R. Tolkien's The Hobbit\" (Boston: Houghton Mifflin Harcourt, 2012) provides academic analysis of the work.\n\n## Annual Scholarly Review\n\nAdditional bibliographic information appears in issues of the annual scholarly review Tolkien Studies, which would be the best source for the most recent 2024-2025 academic articles.\n\nThe search results indicate that while there are ongoing publications related to Tolkien's works, specific academic articles from 2024-2025 focusing on \"The Hobbit\" are not extensively represented in these results. For the most current scholarly articles, I recommend checking academic databases like JSTOR, Project MUSE, and the annual Tolkien Studies journal directly."
+    ],
+    "durationSeconds": 30.42223422700027
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Animal Farm\" Poland Polish translation \"Folwark zwierz\u0119cy\" reception symbolism youth interpretation"
+  },
+  "tool_response": {
+    "query": "\"Animal Farm\" Poland Polish translation \"Folwark zwierz\u0119cy\" reception symbolism youth interpretation",
+    "results": [
+      "I'll search for information about the Polish translation of \"Animal Farm\" and its reception, symbolism, and interpretation among youth in Poland.",
+      {
+        "tool_use_id": "srvtoolu_01PLmvSxcuqTgdA1NyMmYMFG",
+        "content": [
+          {
+            "title": "Hazel O'Connor - Animal Farm (Polish translation)",
+            "url": "https://lyricstranslate.com/en/animal-farm-folwark-zwierz%C4%99cy.html"
+          },
+          {
+            "title": "Orwell in Translation - European studies blog",
+            "url": "https://blogs.bl.uk/european/2017/11/orwell-in-translation.html"
+          },
+          {
+            "title": "Animal Farm / Folwark zwierz\u0119cy: Tranzlaty English Polsku (Polish Edition): Orwell, George, Tranzlaty: 9781835661673: Amazon.com: Books",
+            "url": "https://www.amazon.com/Animal-Farm-Folwark-zwierz%C4%99cy-Tranzlaty/dp/183566167X"
+          },
+          {
+            "title": "Trove",
+            "url": "https://trove.nla.gov.au/nbdid/3576752"
+          },
+          {
+            "title": "Folwark zwierzecy (Polish Edition): Orwell, George: 9788377580288: Amazon.com: Books",
+            "url": "https://www.amazon.com/Folwark-Zwierzecy-Polska-wersja-jezykowa/dp/8377580284"
+          },
+          {
+            "title": "Animal Farm / Folwark zwierz\u0119cy: Tranzlaty English Polsku (Polish Edition) - Orwell, George: 9781835661673 - AbeBooks",
+            "url": "https://www.abebooks.com/9781835661673/Animal-Farm-Folwark-zwierzcy-Tranzlaty-183566167X/plp"
+          },
+          {
+            "title": "Animal Farm - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Animal_Farm"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy Folwark zwierz\u0119cy, Komiks wg Orwella. Animal Farm. Comics After Orwell. | First edition, first issue with price 120 zloty printed on rear cover . Oblong, format A5. Text in Polish",
+            "url": "https://www.foldvaribooks.com/pages/books/749/folwark-zwierzecy-komiks-wg-orwella-animal-farm-comics-after-orwell"
+          },
+          {
+            "title": "ANIMAL FARM - Translation in Polish - bab.la",
+            "url": "https://en.bab.la/dictionary/english-polish/animal-farm"
+          },
+          {
+            "title": "Learn Polish. Lesson 29: Farm animals",
+            "url": "https://www.lingohut.com/en/v775391/polish-lessons-farm-animals"
+          }
+        ]
+      },
+      "Let me search for more specific information about the reception and symbolism of \"Folwark zwierz\u0119cy\" in Poland, particularly among youth.",
+      {
+        "tool_use_id": "srvtoolu_01DnNtvMvzPhpznoQ4Q9tNU3",
+        "content": [
+          {
+            "title": "Folwark zwierz\u0119cy",
+            "url": "https://wwww.ludowy.pl/pl/spectacle/folwark-zwierzecy"
+          },
+          {
+            "title": "FOLWARK ZWIERZ\u0118CY - opracowanie lektury",
+            "url": "https://zadaniadomowe.5v.pl/jezyk-polski/folwark-zwierzecy-opracowanie-lektury/"
+          },
+          {
+            "title": "Cultural codes and education in Poland \u2013 a plea for a new educational imaginary - Piotr Zamojski, 2018",
+            "url": "https://journals.sagepub.com/doi/full/10.1177/1478210317739488"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy - Digital Library of the Jan Kochanowski University",
+            "url": "https://bibliotekacyfrowa.ujk.edu.pl/dlibra/publication/10101/edition/9579?language=en"
+          },
+          {
+            "title": "Folwark zwierzecy (Polish Edition): Orwell, George: 9788377580288: Amazon.com: Books",
+            "url": "https://www.amazon.com/Folwark-Zwierzecy-Polska-wersja-jezykowa/dp/8377580284"
+          },
+          {
+            "title": "HISTORY OF THE COMMUNIST PARTY OF POLAND | CIA FOIA (foia.cia.gov)",
+            "url": "https://www.cia.gov/readingroom/document/cia-rdp81-01043r001600160002-1"
+          },
+          {
+            "title": "Polish Communist Party (2002) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Polish_Communist_Party_(2002)"
+          },
+          {
+            "title": "The Communist Regime in Poland in 10 Astonishing Pictures | Article | Culture.pl",
+            "url": "https://culture.pl/en/article/the-communist-regime-in-poland-in-10-astonishing-pictures"
+          },
+          {
+            "title": "Trove",
+            "url": "https://trove.nla.gov.au/nbdid/3576752"
+          },
+          {
+            "title": "George Orwell (Eric Arthur Blair) | European Youth Portal",
+            "url": "https://youth.europa.eu/nnfe/george-orwell-eric-arthur-blair_en"
+          }
+        ]
+      },
+      "Let me search for more specific information about the symbolism and interpretation of \"Folwark zwierz\u0119cy\" in Polish education and its impact on youth understanding of totalitarianism.",
+      {
+        "tool_use_id": "srvtoolu_01YWaJUmf4fksg3SQrJFqd6P",
+        "content": [
+          {
+            "title": "Poland's forgotten Nobel winner who wrote \"Animal Farm\" before Orwell",
+            "url": "https://notesfrompoland.com/2019/10/24/polands-forgotten-nobel-winner-who-wrote-animal-farm-20-years-before-orwell/"
+          },
+          {
+            "title": "Some Interpretations are More Equal Than Others: Misinterpreting George Orwell\u2019s Animal Farm \u2013 PIT Journal",
+            "url": "https://pitjournal.unc.edu/2023/01/05/some-interpretations-are-more-equal-than-others-misinterpreting-george-orwells-animal-farm/"
+          },
+          {
+            "title": "Animal Farm - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Animal_Farm"
+          },
+          {
+            "title": "(PDF) The Meaning of Animals in the First Farm Revolts: From Kostomarov\u2019s Ukraine to Reymont\u2019s Poland at the Turn of the 20th Century",
+            "url": "https://www.researchgate.net/publication/386230688_The_Meaning_of_Animals_in_the_First_Farm_Revolts_From_Kostomarov's_Ukraine_to_Reymont's_Poland_at_the_Turn_of_the_20th_Century"
+          },
+          {
+            "title": "Animal Farm Themes, Symbolism, Characters & Literary Devices",
+            "url": "https://www.gale.com/open-access/animal-farm"
+          },
+          {
+            "title": "Animal Farm Themes and Symbolism - College Transitions",
+            "url": "https://www.collegetransitions.com/blog/animal-farm-theme-symbolism/"
+          },
+          {
+            "title": "Animal Farm: George Orwell and Animal Farm Background | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/animalfarm/context/"
+          },
+          {
+            "title": "George Orwell's Animal Farm and Criticism of Totalitarianism",
+            "url": "https://www.jetir.org/papers/JETIR2212597.pdf"
+          },
+          {
+            "title": "(PDF) Totalitarianism in George Orwell's Animal Farm",
+            "url": "https://www.researchgate.net/publication/357311809_Totalitarianism_in_George_Orwell's_Animal_Farm"
+          },
+          {
+            "title": "Title Animal Farm A Satirical Allegory of Totalitarianism (1)",
+            "url": "https://www.cliffsnotes.com/study-notes/6486332"
+          }
+        ]
+      },
+      "Based on my search results, I can provide comprehensive information about the Polish translation of \"Animal Farm\" (\"Folwark zwierz\u0119cy\") and its reception, symbolism, and interpretation among youth in Poland.\n\n## Translation History\n\nThe first translation of Animal Farm into a Slavic language \u2013 in fact, into any language! \u2013 was into Polish. It was made by Teresa Jelenska, the wife of a Polish diplomat, and published at the turn of 1946 and 1947 in London by the League of Poles Abroad.\n\nThe Polish title \"Folwark zwierz\u0119cy\" literally translates to \"Animal Farm\" or \"Animal Manor.\"\n\n## Historical Context and Symbolism\n\nBetween 1952 and 1957, the CIA, in an operation codenamed Aedinosaur, sent millions of balloons carrying copies of the novel into Poland, Hungary, and Czechoslovakia, whose air forces tried to shoot the balloons down. This demonstrates the significant political importance of the work during the Cold War era.\n\nPolish samizdat comics of Orwell's Animal Farm. The original novel was banned in the Communist countries, but in 1985 two comics version were published underground in Poland. This one was published by \"Gilosz & Azyl\", that refers to the creator and the publisher, however the first remained unknown.\n\n## Contemporary Reception and Interpretation\n\nThe work has maintained relevance in modern Poland:\n\nOrwellowska antyutopia w formie pop teledysku dotyka jeszcze bardziej, bo pokazuje jak bardzo wsp\u00f3\u0142czesny jest ten tekst, kt\u00f3ry liczy ju\u017c 80 lat. Tyle czasu min\u0119\u0142o od jego pierwszej publikacji, a on wci\u0105\u017c, przez kolejne lata jak ma\u0142o kt\u00f3re dzie\u0142o literatury dosadnie i bardzo trafnie diagnozuje rzeczywisto\u015b\u0107. Przez kolejne dekady nawet na chwil\u0119 nie straci\u0142 na swojej aktualno\u015bci, niestety.\n\n(The Orwellian dystopia in the form of a pop music video touches even more deeply, showing how contemporary this text remains after 80 years. So much time has passed since its first publication, yet it continues, year after year, like few works of literature, to accurately diagnose reality. Through the decades, it hasn't lost its relevance for even a moment, unfortunately.)\n\n## Educational Use and Youth Interpretation\n\nGeorge Orwell to pseudonim pisarza angielskiego (prawdziwe nazwisko: Eric Arthur Blair), znanego przede wszystkim z dwu pub\u00adlikacji: Folwark Zwierz\u0119cy i Rok 1984, po\u015bwieconych refleksji nad zagro\u017ceniami p\u0142yn\u0105cymi z systemu totalitarnego, w kt\u00f3rym w\u0142adza narzuca obywatelom swoj\u0105 wizje rzeczywisto\u015bci, jest bezkarna i czer\u00adpie korzy\u015bci kosztem podporz\u0105dkowanych sobie obywateli. Inspiracj\u0105 do tego rodzaju tw\u00f3rczo\u015bci by\u0142y wiadomo\u015bci przenikaj\u0105ce z obszaru \u00f3wczesnego Zwi\u0105zku Radzieckiego.\n\n(George Orwell is the pseudonym of an English writer known primarily for two publications: Animal Farm and 1984, devoted to reflection on the threats coming from a totalitarian system in which the authorities impose their vision of reality on citizens, are unpunished, and derive benefits at the expense of subordinated citizens. The inspiration for this type of work was news coming from the Soviet Union.)\n\n## Cultural and Academic Analysis\n\nWith reference to Max Weber's methodology of ideal types, and following the inquires of Sowa (2011), Leder (2014) and Hryniewicz (2015), as well as with reference to contemporary research on education in Poland, I distinguish three types of cultural codes: the folwark, the totalitarian and the modernisation code.\n\nThe term \"folwark\" itself has special significance in Polish culture, referring to a type of feudal estate system, which adds another layer of meaning to the Polish translation.\n\n## Polish Literary Context\n\nInterestingly, While Reymont never explicitly said that The Revolt was an allegory for the Bolshevik Revolution, it was interpreted as such by literary critics and casual readers alike. This was partly because Reymont's distaste for Marxism was well known.(no content)Bunt (Revolt), published in 1924 by Polish Nobel laureate W\u0142adys\u0142aw Reymont, has a similar premise to Animal Farm. This suggests that Polish readers had a pre-existing literary framework for understanding animal allegories about revolution and totalitarianism.\n\n## Symbolism and Youth Reception\n\nThe work's symbolism resonates particularly strongly in Poland due to the country's direct experience with totalitarianism. Orwell pisal: ,,Folwark zwierzecy mial byc przede wszystkim satyra na rewolucje rosyjska. (Orwell wrote: \"Animal Farm was meant to be primarily a satire on the Russian revolution.\")\n\nThe novel serves as an educational tool for Polish youth to understand:\n1. The mechanisms of totalitarian control\n2. The corruption of revolutionary ideals\n3. The importance of critical thinking and resistance to propaganda\n4. The universal nature of power corruption\n\nJako ludzie wci\u0105\u017c cierpimy z nami\u0119tno\u015bci do w\u0142adzy, budujemy hierarchie, chcemy rz\u0105dzi\u0107 i ustala\u0107 zasady. I rzadko wyci\u0105gamy lekcje z jaskrawych do\u015bwiadcze\u0144 totalitaryzm\u00f3w i re\u017cim\u00f3w.\n\n(As humans, we still suffer from the passion for power, we build hierarchies, we want to rule and establish rules. And we rarely draw lessons from the glaring experiences of totalitarianisms and regimes.)\n\nThe Polish reception of \"Folwark zwierz\u0119cy\" demonstrates how the work transcends its original context to become a powerful tool for understanding and critiquing authoritarian systems, particularly resonant for a nation that experienced both Nazi and Soviet totalitarianism firsthand."
+    ],
+    "durationSeconds": 69.55271701900008
+  }
+}

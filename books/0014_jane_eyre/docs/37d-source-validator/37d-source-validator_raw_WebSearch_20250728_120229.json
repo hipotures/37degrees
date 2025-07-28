@@ -1,0 +1,63 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"#JaneEyre\" TikTok views statistics BookTok hashtag usage 2024 2025"
+  },
+  "tool_response": {
+    "query": "\"#JaneEyre\" TikTok views statistics BookTok hashtag usage 2024 2025",
+    "results": [
+      "I'll search for information about the #JaneEyre hashtag on TikTok, focusing on view statistics and BookTok usage for 2024-2025.",
+      {
+        "tool_use_id": "srvtoolu_017SA76mNgg89rkenNPsBobv",
+        "content": [
+          {
+            "title": "250+ Trending TikTok Hashtags To Gain More Views in 2025",
+            "url": "https://www.socialpilot.co/tiktok-marketing/tiktok-hashtags"
+          },
+          {
+            "title": "TikTok Hashtags: How to Use Them to Gain More Views in 2025 | Sprout Social",
+            "url": "https://sproutsocial.com/insights/tiktok-hashtags/"
+          },
+          {
+            "title": "TikTok top hashtags by post views 2024 | Statista",
+            "url": "https://www.statista.com/statistics/1299851/tiktok-top-hashtags-by-post-views/"
+          },
+          {
+            "title": "TikTok Statistics: Revenue & Usage (Updated Apr. 2025)",
+            "url": "https://sendshort.ai/statistics/tiktok/"
+          },
+          {
+            "title": "How the TikTok algorithm ranks content in 2025 + tips for visibility",
+            "url": "https://blog.hootsuite.com/tiktok-algorithm/"
+          },
+          {
+            "title": "25 Essential TikTok Statistics You Need to Know in 2025",
+            "url": "https://thesocialshepherd.com/blog/tiktok-statistics"
+          },
+          {
+            "title": "What Is BookTok: A TikTok Success Guide For Authors (2025)",
+            "url": "https://www.learningrevolution.net/booktok-tiktok-for-authors/"
+          },
+          {
+            "title": "The Most Popular TikTok Books #BookTok | Barnes & Noble\u00ae",
+            "url": "https://www.barnesandnoble.com/b/booktok/_/N-2vdn"
+          },
+          {
+            "title": "Book Tok Trend 2025: How TikTok Is Reshaping Literary Discovery",
+            "url": "https://www.accio.com/business/book_tok_trend"
+          },
+          {
+            "title": "28 TikTok statistics marketers need to know in 2025 | Sprout Social",
+            "url": "https://sproutsocial.com/insights/tiktok-stats/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with information about the #JaneEyre hashtag on TikTok and its connection to BookTok, though specific statistics for this particular hashtag are limited in the results. Here's what I found:\n\n## BookTok Overview and Statistics (2024-2025)\n\nA 2023 survey found that 48% of TikTok users in the US and 53% of Canadian users reported reading more because of BookTok's influence. The last time we checked, the subcommunity stood at 215.8B views.(no content)Over 52 million BookTok creations and 370 billion views by 2025 have revitalized backlist titles (e.g., A Little Life) and launched debut authors into bestseller status.\n\n## BookTok Growth and Engagement\n\n#BookTok: This community of book lovers saw more than 1.2 million posts in the first ten months of 2024. This represents significant growth for the literary community on TikTok.\n\nNote that the more niche #Romantasy community saw a 300% increase in posts in 2024.\n\n## How BookTok Works\n\nBookTok is a hashtag used by creators who feature book recommendations, reviews and memes. While the search results don't provide specific statistics for the #JaneEyre hashtag, classic literature is often featured within the BookTok community alongside contemporary titles.\n\n## TikTok Hashtag Performance Context\n\nAs of January 2024, the hashtag \"fyp,\" which stands for \"for you page,\" was the most used hashtag on TikTok, amassing almost 55.4 trillion views across posts using it.\n\n## BookTok's Impact on Publishing\n\nExpect a 20\u201330% YoY increase in YA and genre-blended fiction sales through 2026, fueled by BookTok's algorithmic reach.\n\n## Recommendations for Classic Literature on BookTok\n\nTo find specific statistics for #JaneEyre on TikTok, you might want to:\n\n1. Navigate to the \"Hashtags\" tab to explore hashtag suggestions and their corresponding views, ensuring the incorporation of the most pertinent and impactful hashtags in your content.\n\n2. Regularly monitor BookTok trends, sounds, and challenges in your niche. TikTok's Discover page will be helpful here.\n\nWhile the search didn't return specific view counts for #JaneEyre, classic literature hashtags typically perform well within the BookTok community, especially when creators connect them to modern themes or create engaging content that makes classics accessible to younger audiences."
+    ],
+    "durationSeconds": 31.985396139999853
+  }
+}

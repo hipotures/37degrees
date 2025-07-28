@@ -1,0 +1,63 @@
+{
+  "session_id": "7ca65eb2-e5d0-4143-8931-90f15001b62e",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7ca65eb2-e5d0-4143-8931-90f15001b62e.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Anna Karenina teatr polskie produkcje spektakle adaptacje sceniczne"
+  },
+  "tool_response": {
+    "query": "Anna Karenina teatr polskie produkcje spektakle adaptacje sceniczne",
+    "results": [
+      "I'll search for information about Polish theater productions and stage adaptations of Anna Karenina.",
+      {
+        "tool_use_id": "srvtoolu_013MiNVu37CjSrQctS7YJsmz",
+        "content": [
+          {
+            "title": "Anna Karenina : Teatr Wielki Opera Narodowa",
+            "url": "https://teatrwielki.pl/teatr/polski-balet-narodowy/repertuar-pbn/anna-karenina/"
+          },
+          {
+            "title": "Anna Karenina | Tragedia | Dramat | bilety do teatru eBilet.pl",
+            "url": "https://www.ebilet.pl/teatr/tragedia-dramat/anna-karenina"
+          },
+          {
+            "title": "Anna Karenina - Teatr Wielki im. Stanis\u0142awa Moniuszki | e-teatr.pl",
+            "url": "https://e-teatr.pl/anna-karenina-s19430"
+          },
+          {
+            "title": "Anna Karenina - Teatr Powszechny im. Jana Kochanowskiego | e-teatr.pl",
+            "url": "https://e-teatr.pl/anna-karenina-s14170"
+          },
+          {
+            "title": "Anna Karenina-Archiwum - Teatr Powszechny",
+            "url": "https://www.teatr.radom.pl/spektakle/archiwum/anna-karenina-7.html"
+          },
+          {
+            "title": "Anna Karenina ::: Przedstawienia ::: Encyklopedia teatru polskiego",
+            "url": "https://encyklopediateatru.pl/przedstawienie/73899/anna-karenina"
+          },
+          {
+            "title": "Anna Karenina",
+            "url": "https://teatr.zgora.pl/spektakle/spektakle-archiwalne/559-anna-karenina"
+          },
+          {
+            "title": "Anna Karenina ::: Sztuki ::: Encyklopedia teatru polskiego",
+            "url": "https://encyklopediateatru.pl/sztuki/1152/anna-karenina"
+          },
+          {
+            "title": "Spektakle - STUDIO",
+            "url": "https://www.teatrstudio.pl/pl/spektakle/23,anna-karenina"
+          },
+          {
+            "title": "Anna Karenina - Spektakl, przedstawienie - Teatr Studio, Warszawa - Opis, Recenzje, Obsada, Bilety",
+            "url": "https://warszawa.dlastudenta.pl/teatr/spektakl/anna-karenina-teatr-studio,13355.html"
+          }
+        ]
+      },
+      "Based on the search results, I found several Polish theater productions and stage adaptations of Anna Karenina. Here are the main ones:\n\n## Ballet Productions\n\nThe most prominent is a ballet adaptation at Teatr Wielki Opera Narodowa (Polish National Opera) in Warsaw, choreographed by Alexei Ratmansky with music by Russian composer Rodion Shchedrin (originally created for his wife, legendary prima ballerina Maya Plisetskaya in 1972).\n\nThere was also a ballet production at Teatr Wielki im. Stanis\u0142awa Moniuszki in Pozna\u0144 in 2017, featuring soloists from the theater's ballet company.\n\n## Dramatic Theater Productions\n\nTeatr Powszechny im. Jana Kochanowskiego in Radom staged a dramatic adaptation directed by Grigorij Lifanov with scenography by Wojciech Stefaniak and costumes by Zofia de Ines-Lewczuk. This production premiered in September 2013.\n\nLubuski Teatr im. Leona Kruczkowskiego in Zielona G\u00f3ra presented Anna Karenina after a 35-year absence from Polish dramatic theater stages, adapted by Rados\u0142aw Paczocha and directed by Micha\u0142 Kota\u0144ski in 2012.\n\nTeatr Polskiego Radia (Polish Radio Theater) produced a radio drama adaptation in 2018, adapted by Magdalena Wleklik and directed by Katarzyna Micha\u0142kiewicz.\n\nTeatr Studio in Warsaw also staged a production using a new adaptation by British writer Helen Edmundson, which gave Tolstoy's story a contemporary theatrical form.\n\n## Historical Productions\n\nThe search results also mention several older productions in Polish theaters:\n- 1958 production at Teatry Dramatyczne in Wroc\u0142aw directed by Jakub Rotbaum\n- 1961 production for Teatr Telewizji directed by Adam Hanuszkiewicz\n- 1976 production at Teatr \u015al\u0105ski in Katowice directed by Lidia Zamkow\n\nThese productions demonstrate that Anna Karenina has been adapted multiple times for Polish stages, both as dramatic theater productions and ballet performances, with various directors and theaters offering their interpretations of Tolstoy's classic novel."
+    ],
+    "durationSeconds": 25.70253611400002
+  }
+}

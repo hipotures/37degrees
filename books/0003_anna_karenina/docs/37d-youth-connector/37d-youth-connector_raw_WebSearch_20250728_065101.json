@@ -1,0 +1,109 @@
+{
+  "session_id": "7ca65eb2-e5d0-4143-8931-90f15001b62e",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7ca65eb2-e5d0-4143-8931-90f15001b62e.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Anna Karenina YouTube video summaries study guides SparkNotes CliffsNotes Polish students"
+  },
+  "tool_response": {
+    "query": "Anna Karenina YouTube video summaries study guides SparkNotes CliffsNotes Polish students",
+    "results": [
+      "I'll search for Anna Karenina YouTube video summaries and study guides that might be helpful for Polish students.",
+      {
+        "tool_use_id": "srvtoolu_017CLRcv3RrvFcMMy7q8QvYh",
+        "content": [
+          {
+            "title": "Anna Karenina: Study Guide | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/anna/"
+          },
+          {
+            "title": "Anna Karenina",
+            "url": "https://www.cliffsnotes.com/literature/a/anna-karenina/book-summary"
+          },
+          {
+            "title": "Anna Karenina Summary and Study Guide | SuperSummary",
+            "url": "https://www.supersummary.com/anna-karenina/summary/"
+          },
+          {
+            "title": "Anna Karenina Study Guide | Literature Guide | LitCharts",
+            "url": "https://www.litcharts.com/lit/anna-karenina"
+          },
+          {
+            "title": "Anna Karenina by Leo Tolstoy | Summary, Characters & Analysis - Video | Study.com",
+            "url": "https://study.com/academy/lesson/video/anna-karenina-summary-flashcards.html"
+          },
+          {
+            "title": "Anna Karenina Part 1 Summary & Analysis | SuperSummary",
+            "url": "https://www.supersummary.com/anna-karenina/part-1-summary/"
+          },
+          {
+            "title": "Anna Karenina Part 1: Chapters 1\u201317 Summary & Analysis | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/anna/section1/"
+          },
+          {
+            "title": "Anna Karenina: Full Book Summary | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/anna/summary/"
+          },
+          {
+            "title": "Chapters 1-5",
+            "url": "https://www.cliffsnotes.com/literature/a/anna-karenina/summary-and-analysis/part-1-chapters-15"
+          },
+          {
+            "title": "Anna Karenina Symbols & Motifs | SuperSummary",
+            "url": "https://www.supersummary.com/anna-karenina/symbols-and-motifs/"
+          }
+        ]
+      },
+      "I found comprehensive study guide resources for Anna Karenina, but I notice the search results don't specifically mention resources tailored for Polish students. Let me search for more specific content.",
+      {
+        "tool_use_id": "srvtoolu_01Nnk6wCZ8i76jFekQi7yp15",
+        "content": [
+          {
+            "title": "Anna Karenina - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Anna_Karenina"
+          },
+          {
+            "title": "Anna Karenina by Leo Tolstoy | Summary, Characters & Analysis - Video | Study.com",
+            "url": "https://study.com/academy/lesson/video/anna-karenina-summary-flashcards.html"
+          },
+          {
+            "title": "Anna Karenina (Polish Edition): Tolstoj, Lew: 9788324022151: Amazon.com: Books",
+            "url": "https://www.amazon.com/Anna-Karenina-Polska-Wersja-Jezykowa/dp/8324022155"
+          },
+          {
+            "title": "Anna Karenina Summary and Study Guide | SuperSummary",
+            "url": "https://www.supersummary.com/anna-karenina/summary/"
+          },
+          {
+            "title": "Anna Karenina",
+            "url": "https://archive.org/download/annakareninatols00tolsiala/annakareninatols00tolsiala.pdf"
+          },
+          {
+            "title": "Anna Karenina | Russian literature, 19th century, tragedy | Britannica",
+            "url": "https://www.britannica.com/topic/Anna-Karenina-novel"
+          },
+          {
+            "title": "Anna Karenina (2012) \u2b50 6.6 | Drama, Romance",
+            "url": "https://www.imdb.com/title/tt1781769/"
+          },
+          {
+            "title": "Anna Karenina: Study Guide | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/anna/"
+          },
+          {
+            "title": "Anna Karenina | Project Gutenberg",
+            "url": "https://www.gutenberg.org/files/1399/1399-h/1399-h.htm"
+          },
+          {
+            "title": "Obejrzyj sezon 1 serialu Anna Karenina \u2014 Prime Video",
+            "url": "https://www.primevideo.com/-/pl/detail/Anna-Karenina/0KAE6EQ2CV6SLOZDK6EOWU3UJH"
+          }
+        ]
+      },
+      "Based on my searches, I found comprehensive study guide resources for Anna Karenina, though the results didn't specifically mention YouTube video summaries tailored for Polish students. Here's what I found:\n\n## Major Study Guide Resources:\n\n### 1. **SparkNotes** \nSparkNotes offers comprehensive Anna Karenina study materials including a full book summary, in-depth character analysis of Count Vronsky, and explanations of important quotes.\n\n### 2. **CliffsNotes**\nCliffsNotes provides a detailed book summary that follows the narrative from the crisis in the Oblonsky household through Anna's tragic suicide and ends with Levin discovering salvation by resolving to \"live for his soul\".\n\n### 3. **SuperSummary** \nSuperSummary offers a modern alternative to SparkNotes and CliffsNotes with high-quality Study Guides featuring detailed chapter summaries and analysis of major themes, characters, and more.\n\n### 4. **LitCharts**\nLitCharts provides what they describe as \"the best study guide to Anna Karenina on the planet,\" created by the original team behind SparkNotes. Their guide includes a quick-reference summary on a single page, in-depth summary and analysis of every chapter, visual theme-tracking, character analysis with timelines, and explanations of literary devices sortable by chapter.\n\n### 5. **Study.com**\nStudy.com offers a video lesson that explores the summary and characters of Leo Tolstoy's Anna Karenina in just 5 minutes, providing an in-depth analysis and a quiz for practice.\n\n## For Polish Students:\n\nI found evidence of Polish language resources:\n- There is a Polish edition of Anna Karenina available on Amazon, which describes Anna as leading a \"comfortable, stable and somewhat boring life alongside her much older husband\" until Count Vronsky introduces passion she has never experienced.\n- Prime Video offers a Russian series adaptation of Anna Karenina with English subtitles.\n\n## Key Plot Summary:\nLeo Tolstoy's Anna Karenina is a complex novel set in 19th century Russia that explores the tragic love affair between aristocrat Anna Karenina and Count Vronsky, alongside themes of societal expectations, marriage, and the search for meaning in life. The novel juxtaposes Anna's destructive passion against Levin and Kitty's more conventional but ultimately fulfilling relationship.\n\nWhile I didn't find YouTube video summaries specifically designed for Polish students in these results, the major study guide platforms (SparkNotes, CliffsNotes, SuperSummary, and LitCharts) all offer comprehensive resources that would be helpful for any student studying the novel, regardless of their native language."
+    ],
+    "durationSeconds": 36.61430422300007
+  }
+}

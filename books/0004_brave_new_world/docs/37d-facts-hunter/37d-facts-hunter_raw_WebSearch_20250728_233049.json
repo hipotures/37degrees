@@ -1,0 +1,62 @@
+{
+  "session_id": "9588e4fa-c119-4986-be3b-1d3af7769f8f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/9588e4fa-c119-4986-be3b-1d3af7769f8f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Brave New World\" \"Aldous Huxley\" first translations international publication history chronology"
+  },
+  "tool_response": {
+    "query": "\"Brave New World\" \"Aldous Huxley\" first translations international publication history chronology",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01DEwzYcXfdqwu1S1KzproP8",
+        "content": [
+          {
+            "title": "Huxley's Brave New World Forecasts Technological Totalitarianism | EBSCO Research Starters",
+            "url": "https://www.ebsco.com/research-starters/history/huxleys-brave-new-world-forecasts-technological-totalitarianism"
+          },
+          {
+            "title": "Brave New World - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World"
+          },
+          {
+            "title": "Aldous Huxley: Brave New World",
+            "url": "https://www.researchgate.net/publication/290698809_Aldous_Huxley_Brave_New_World"
+          },
+          {
+            "title": "Brave New World | Summary, Context, & Reception | Britannica",
+            "url": "https://www.britannica.com/topic/Brave-New-World"
+          },
+          {
+            "title": "Brave New World by Aldous Huxley | Goodreads",
+            "url": "https://www.goodreads.com/book/show/5129.Brave_New_World"
+          },
+          {
+            "title": "Aldous Huxley | Biography, Books, & Facts | Britannica",
+            "url": "https://www.britannica.com/biography/Aldous-Huxley"
+          },
+          {
+            "title": "Aldous Huxley's Brave New World",
+            "url": "https://200.hc.com/stories/aldous-huxleys-brave-new-world/"
+          },
+          {
+            "title": "Brave New World: Aldous Huxley and Brave New World Background | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/bravenew/context/"
+          },
+          {
+            "title": "Brave New World Study Guide - Aldous Huxley",
+            "url": "https://www.litcharts.com/lit/brave-new-world"
+          },
+          {
+            "title": "Brave New World by Aldous Huxley : Monarch Notes",
+            "url": "https://www.huxley.net/studyaid/index.html"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about the publication and translation history of Aldous Huxley's \"Brave New World\":\n\n## Publication History\n\nBrave New World is a dystopian novel by English author Aldous Huxley, written in 1931, and published in 1932.(no content)Huxley wrote Brave New World while living in Sanary-sur-Mer, France, in the four months from May to August 1931.(no content)Brave New World enjoyed great success, both commercially and critically, when it was first published. It sold over 23,000 copies during its first two years on the market, and it was, for the most part, lauded by reviewers.\n\n## International Publication and Translations\n\nThe search results provide some specific information about translations:\n\n### French Translation\nTranslations of the title often allude to similar expressions used in domestic works of literature: the French edition of the work is entitled Le Meilleur des mondes (The Best of All Worlds), an allusion to an expression used by the philosopher Gottfried Leibniz and satirised in Candide, Ou l'Optimisme by Voltaire (1759).\n\n### Chinese Translation\nThe first Standard Chinese translation, done by novelist Lily Hsueh and Aaron Jen-wang Hsueh in 1974, is entitled \"\u7f8e\u9e97\u65b0\u4e16\u754c\" (Pinyin: M\u011bil\u00ec X\u012bn Sh\u00ecji\u00e8, literally \"Beautiful New World\").\n\n## Critical Reception and Legacy\n\nUpon its publication, Rebecca West praised Brave New World as \"The most accomplished novel Huxley has yet written\", Joseph Needham lauded it as \"Mr Huxley's remarkable book\", and Bertrand Russell also praised it. However, Brave New World also received negative responses from other contemporary critics, although his work was later embraced. The reception of Brave New World at its publication was primarily negative. Many were offended by the nature of Huxley's future, and very few understood the novel's philosophical implications.(no content)In 1998 and 1999, the Modern Library ranked Brave New World at number 5 on its list of the 100 Best Novels in English of the 20th century.\n\nThe search results don't provide a comprehensive chronology of all international translations and their publication dates, but they do indicate that the novel has been widely translated and continues to have global influence and recognition across different cultures and languages."
+    ],
+    "durationSeconds": 19.42393232599995
+  }
+}

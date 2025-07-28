@@ -1,0 +1,63 @@
+{
+  "session_id": "b8c17c71-efc6-4c19-9b68-e101c36de9c9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b8c17c71-efc6-4c19-9b68-e101c36de9c9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "youth creative protests memes surveillance resistance Gen Z privacy activism TikTok 2024"
+  },
+  "tool_response": {
+    "query": "youth creative protests memes surveillance resistance Gen Z privacy activism TikTok 2024",
+    "results": [
+      "I'll search for information about Gen Z's creative protests and activism around surveillance and privacy, particularly through memes and platforms like TikTok in 2024.",
+      {
+        "tool_use_id": "srvtoolu_01RfXg6mJJCetU761Wan32Jn",
+        "content": [
+          {
+            "title": "Full article: Youth activism and (de)personalized remix on TikTok",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/14742837.2024.2415672?af=R"
+          },
+          {
+            "title": "TikTok's Next Big Gen Z Trend Might Be Viral Protests - Newsweek",
+            "url": "https://www.newsweek.com/tiktok-trend-protest-1596785"
+          },
+          {
+            "title": "Gen Z are not the future. They are a formidable force in the present - Africa at LSE",
+            "url": "https://blogs.lse.ac.uk/africaatlse/2024/08/14/gen-z-are-not-the-future-they-are-a-formidable-force-in-the-present/"
+          },
+          {
+            "title": "Viral Justice: TikTok Activism, Misinformation, and the Fight for Social Change in Southeast Asia - Nuurrianti Jalli, 2025",
+            "url": "https://journals.sagepub.com/doi/10.1177/20563051251318122"
+          },
+          {
+            "title": "TikTok becomes key battleground for Gen Z voters in 2024 election",
+            "url": "https://www.emarketer.com/content/tiktok-becomes-key-battleground-gen-z-voters-2024-election"
+          },
+          {
+            "title": "The Age of Digital Activism and Gen Z: From Kenya's Protests to the 2024 US Elections | Tomorrow University of Applied Sciences",
+            "url": "https://www.tomorrow.university/blog/the-role-of-gen-z-in-shaping-social-impact-insights-from-kenya-and-the-usa"
+          },
+          {
+            "title": "TikTok's influence over Generation Z's Political Behavior",
+            "url": "https://thejsms.org/index.php/JSMS/article/download/1251/627/5361"
+          },
+          {
+            "title": "More than just Tok: Gen Z\u2019s activism on TikTok is outperforming the performative",
+            "url": "https://www.reach3insights.com/blog/tiktok-social-activism"
+          },
+          {
+            "title": "Framing Gen Z Protests Against the 2024 Finance Bill in Kenya: A Linguistic Assessment of TikTok - Kujenga Amani",
+            "url": "https://kujenga-amani.ssrc.org/2024/12/17/framing-gen-z-protests-against-the-2024-finance-bill-in-kenya-a-linguistic-assessment-on-tiktok-2/"
+          },
+          {
+            "title": "TikTok and the GenZ problem: Government races to ban app most favored by young adults \u2022 Washington State Standard",
+            "url": "https://washingtonstatestandard.com/2024/05/24/tiktok-and-the-genz-problem-government-races-to-ban-app-most-favored-by-young-adults/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive insights into Gen Z's creative protests and activism around surveillance and privacy in 2024, particularly through memes and platforms like TikTok:\n\n## Gen Z's Digital Activism and Creative Resistance in 2024\n\n### Key Trends and Patterns\n\nGen Z activists are skillfully leveraging TikTok's unique features and participatory culture, using strategies like trend-jacking and meme creation to reach broad audiences and promote social justice causes. They are making politics enjoyable and accessible through satire, memes and creative arts.\n\n### Global Impact and Mobilization\n\nPolitical protests around the world are being shaped by Gen Z, a cohort of digital natives who are coming of age and using social media to share progressive views and organize. Notable examples include:\n\n- **Kenya (2024)**: Gen Z activists led protests against the Finance Bill that ultimately forced the government to reconsider its proposed tax policy. The movement utilized social media platforms like Twitter, TikTok, and Instagram, beginning as an outcry on these platforms.\n\n- **Southeast Asia**: People used TikTok to express political opinions in Indonesia during the Omnibus Law protests in 2020, Malaysia in 2021, Thailand during the Youth Protests in 2020, and Myanmar Military Coup Protests.\n\n### Creative Protest Strategies\n\nActivists frequently engaged in \"trend-jacking,\" leveraging viral hashtags, sounds, filters, and memes to broaden the reach of their content. For instance, Indonesian student activists used the popular \"crying filter\" to dramatize their demands.\n\nIn Myanmar, young activists shared protest footage, documented military violence, and used popular music and memes to convey political messages, with videos quickly going viral and reaching both local and global audiences.\n\n### Platform Features and Activism\n\nUnique sharing features and algorithmic efficiency have launched TikTok to the forefront of 21st century activism and digital mobilization. TikTok's participatory features, including duetting and stitching, enabled users to interact with and build upon each other's content, fostering a dynamic, evolving narrative and providing unique avenues for activists to foster iterative conversations.\n\n### Real-World Impact\n\n94% of TikTok users believe that TikTok has generated meaningful action for social movements, with 26% of TikTok users attending protests compared to only 13% of non-users. More than half (54%) engaged in discussions with friends and family, 44% signed petitions, and 32% educated themselves further because of something they saw on TikTok.\n\nTikTok's formidable ability to inspire the gathering of large crowds in a short period of time offers impassioned activists an organizational tool to spark swift, unpredictable street protests.\n\n### Privacy and Surveillance Concerns\n\nWhile the search results don't specifically focus on privacy activism against surveillance, they do highlight:\n\n- Concerns about invasion of privacy through amendments to data protection acts\n- TikTok's U.S. user data being stored and processed in Texas-based cloud infrastructure, overseen by Oracle and surveillance powerhouse Palantir\n\n### The Power of Gen Z's Approach\n\nGen Z's approach to activism is highly inclusive and intersectional, which enables them to build coalitions across different movements. This amplifies their impact and fosters a holistic approach to social change. They have redefined what it means to be an activist in the modern world.\n\nDespite their digital dominance, Gen Zers also recognize the importance of physical protest, blending online and offline activism to maximize impact. Social media is used not just to share information but to plan physical protests.\n\nThe search results demonstrate that Gen Z's creative use of TikTok and memes represents a significant evolution in protest tactics, combining entertainment with activism to create powerful movements that challenge traditional power structures and mobilize rapid, large-scale collective action."
+    ],
+    "durationSeconds": 45.09931683799997
+  }
+}

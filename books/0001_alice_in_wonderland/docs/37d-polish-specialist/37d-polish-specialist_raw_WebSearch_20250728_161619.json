@@ -1,0 +1,62 @@
+{
+  "session_id": "ad0134af-ec8f-4d33-afa8-be303b4ad42f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ad0134af-ec8f-4d33-afa8-be303b4ad42f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Alicja w Krainie Czar\u00f3w\" wp\u0142yw na polsk\u0105 literatur\u0119 dzieci\u0119c\u0105 pisarze autorzy inspiracje"
+  },
+  "tool_response": {
+    "query": "\"Alicja w Krainie Czar\u00f3w\" wp\u0142yw na polsk\u0105 literatur\u0119 dzieci\u0119c\u0105 pisarze autorzy inspiracje",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01B5UdJi65rbYvrGDqbdnnNv",
+        "content": [
+          {
+            "title": "\"Alicja w Krainie Czar\u00f3w - Analiza i Streszczenie\"",
+            "url": "https://dyktanda.pl/lektury/alicja-w-krainie-czarow/"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w: Streszczenie i Analiza - Przysta\u0144 w sieci - biznes, technologie",
+            "url": "https://przystanwsieci.pl/lifestyle/alicja-w-krainie-czarow-streszczenie-i-analiza/"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Alicja_w_Krainie_Czar%C3%B3w"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w - Lewis Carroll | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/4988571/alicja-w-krainie-czarow"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w - Streszczenie szczeg\u00f3\u0142owe - Lewis Carroll - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/lewis-carroll/alicja-w-krainie-czarow.streszczenie-szczegolowe"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w Ksi\u0119garnia Wydawnictwa Nowa Ba\u015b\u0144",
+            "url": "https://ksiegarnianowabasn.com/pl/p/Alicja-w-Krainie-Czarow/562"
+          },
+          {
+            "title": "\"Alicja w Krainie Czar\u00f3w\" - Lewis Carroll - Recenzja ksi\u0105\u017cki - Eduarena",
+            "url": "https://eduarena.pl/alicja-w-krainie-czarow-lewis-carroll-recenzja-ksiazki/"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w - Wydawnictwo MG",
+            "url": "https://wydawnictwomg.pl/alicja-w-krainie-czarow-2/"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w \u2013 opracowanie (geneza, czas i miejsce akcji, problematyka)",
+            "url": "https://eszkola.pl/jezyk-polski/opracowanie-3168.html"
+          },
+          {
+            "title": "Alicja w krainie czar\u00f3w, Czas Dzieci",
+            "url": "https://czasdzieci.pl/ksiazki/ksiazka,1584598-alicja_krainie_czarow.html"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about the influence of \"Alice's Adventures in Wonderland\" (Alicja w Krainie Czar\u00f3w) on Polish children's literature and its impact on writers and authors.\n\n## Wp\u0142yw \"Alicji w Krainie Czar\u00f3w\" na polsk\u0105 literatur\u0119 dzieci\u0119c\u0105\n\n### Og\u00f3lny wp\u0142yw na literatur\u0119 dzieci\u0119c\u0105\n\n\"Alicja w Krainie Czar\u00f3w\" mia\u0142a du\u017cy wp\u0142yw na literatur\u0119 dzieci\u0119c\u0105 i kultur\u0119 popularn\u0105, inspiruj\u0105c wiele adaptacji i interpretacji. \"Alicja w Krainie Czar\u00f3w\" mia\u0142a ogromny wp\u0142yw na literatur\u0119 i kultur\u0119 popularn\u0105 od czasu swojego powstania. Ksi\u0105\u017cka by\u0142a inspiracj\u0105 dla wielu innych autor\u00f3w, kt\u00f3rzy tworzyli w\u0142asne adaptacje historii Alicji.\n\n### Charakterystyka dzie\u0142a jako inspiracji\n\nKsi\u0105\u017cka szybko zdoby\u0142a popularno\u015b\u0107 i sta\u0142a si\u0119 klasyk\u0105 literatury dzieci\u0119cej. Podsumowuj\u0105c, \u201eAlicja w Krainie Czar\u00f3w\" to ksi\u0105\u017cka, kt\u00f3ra zas\u0142uguje na uwag\u0119 ze wzgl\u0119du na swoj\u0105 oryginalno\u015b\u0107 i g\u0142\u0119bi\u0119.(no content)Alicja w Krainie Czar\u00f3w, autorstwa Lewisa Carrolla, jest jedn\u0105 z tych niezwyk\u0142ych ksi\u0105\u017cek, kt\u00f3re wywieraj\u0105 d\u0142ugotrwa\u0142y i wszechstronny wp\u0142yw na kultur\u0119 masow\u0105 oraz literatur\u0119. Dzie\u0142o to, od czasu swojej publikacji w roku 1865, sta\u0142o si\u0119 \u017ar\u00f3d\u0142em inspiracji dla licznych tw\u00f3rc\u00f3w w r\u00f3\u017cnych dziedzinach sztuki.\n\n### Wp\u0142yw na techniki narracyjne i j\u0119zyk\n\nPostaci i motywy z Alicji w Krainie Czar\u00f3w pojawiaj\u0105 si\u0119 w r\u00f3\u017cnorodnych formach literackich, od noweli po poezj\u0119, cz\u0119sto jako symbole czy metafory, kt\u00f3re pomagaj\u0105 autorom bada\u0107 z\u0142o\u017cono\u015b\u0107 ludzkiej psychiki oraz spo\u0142eczne i kulturowe konflikty. To dzie\u0142o nie tylko rozszerzy\u0142o granice literackiej wyobra\u017ani, ale r\u00f3wnie\u017c wzbogaci\u0142o j\u0119zyk i spos\u00f3b, w jaki opowiadamy historie, wprowadzaj\u0105c nowe perspektywy i techniki narracyjne, kt\u00f3re inspiruj\u0105 pisarzy do dzi\u015b.\n\n### Polskie t\u0142umaczenia i adaptacje\n\nAlicj\u0119... na polski t\u0142umaczyli: Adela S. (1910) \u2013 pierwsze t\u0142umaczenie ksi\u0105\u017cki na j. polski, opublikowane przez Wydawnictwo M. Arcta w Warszawie. Na stronie tytu\u0142owej widnieje tytu\u0142 Przygody Alinki w Krainie Cud\u00f3w, podczas gdy na ok\u0142adce s\u0105 to Przygody Alinki w Krainie Czar\u00f3w.(no content)Humoru cudownie oddanego przez Antoniego Marianowicza, bo to w\u0142a\u015bnie z jego t\u0142umaczenia zdania z \"Alicji w Krainie Czar\u00f3w\" na zawsze zamieszka\u0142y w naszym j\u0119zyku.\n\n### Znaczenie edukacyjne i rozwojowe\n\nAkcja przebiegaj\u0105ca w konwencji snu prowokuje jednak czytelnik\u00f3w do wielu refleksji, a w przypadku najm\u0142odszych \u2013 dla kt\u00f3rych ksi\u0105\u017cka jest po prostu pi\u0119kn\u0105 ba\u015bni\u0105 \u2013 korzystnie wp\u0142ywa na rozw\u00f3j wyobra\u017ani. Z tych i wielu innych wzgl\u0119d\u00f3w utar\u0142o si\u0119 mawia\u0107 o Alicji w krainie czar\u00f3w, \u017ce jest to jedyny przypadek, gdy jeden tekst kryje w sobie dwie ksi\u0105\u017cki \u2013 dla dzieci i dla doros\u0142ych.\n\n### Inspiracje mi\u0119dzynarodowe\n\nFinnegans Wake Jamesa Joyce'a jest utworem inspirowanym przez Alicj\u0119. Vladimir Nabokov przet\u0142umaczy\u0142 Alicj\u0119 na rosyjski jako \u0410\u043d\u044f \u0432 \u0421\u0442\u0440\u0430\u043d\u0435 \u0427\u0443\u0434\u0435\u0441. Jego dzie\u0142a zawieraj\u0105 wiele aluzji do \u015bwiata Alicji.\n\nChocia\u017c wyniki wyszukiwania nie zawieraj\u0105 szczeg\u00f3\u0142owych informacji o konkretnych polskich pisarzach dzieci\u0119cych, kt\u00f3rzy zostali bezpo\u015brednio zainspirowany przez \"Alicj\u0119 w Krainie Czar\u00f3w\", jasno pokazuj\u0105, \u017ce dzie\u0142o to wywar\u0142o znacz\u0105cy wp\u0142yw na rozw\u00f3j literatury dzieci\u0119cej jako gatunku, wprowadzaj\u0105c nowe techniki narracyjne, elementy surrealizmu i absurdalnego humoru, kt\u00f3re sta\u0142y si\u0119 inspiracj\u0105 dla wielu p\u00f3\u017aniejszych autor\u00f3w na ca\u0142ym \u015bwiecie."
+    ],
+    "durationSeconds": 32.0207160240002
+  }
+}

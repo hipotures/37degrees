@@ -1,0 +1,50 @@
+{
+  "session_id": "ad0134af-ec8f-4d33-afa8-be303b4ad42f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ad0134af-ec8f-4d33-afa8-be303b4ad42f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Alice in Wonderland\" 1865 first edition \"John Tenniel\" suppressed reprint \"2000 copies\" 1865"
+  },
+  "tool_response": {
+    "query": "\"Alice in Wonderland\" 1865 first edition \"John Tenniel\" suppressed reprint \"2000 copies\" 1865",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01XhDEQRP8vTdc6HieAkwCx7",
+        "content": [
+          {
+            "title": "Alice in Wonderland by Lewis Carroll, First Edition - AbeBooks",
+            "url": "https://www.abebooks.com/servlet/SearchResults?an=Lewis+Carroll&bi=0&bx=off&ds=30&fe=on&pics=on&recentlyadded=all&sortby=1&tn=Alice+in+Wonderland&x=0&y=0"
+          },
+          {
+            "title": "John Tenniel and his illustrations - Alice-in-Wonderland.net",
+            "url": "https://www.alice-in-wonderland.net/resources/background/tenniel-and-his-illustrations/"
+          },
+          {
+            "title": "Alice Adventures in Wonderland by Lewis Carroll, First Edition - AbeBooks",
+            "url": "https://www.abebooks.com/servlet/SearchResults?an=lewis+carroll&bi=0&bx=off&ds=30&fe=on&sortby=1&sts=t&tn=alice+adventures+in+wonderland&x=65&y=15"
+          },
+          {
+            "title": "Alice+in+wonderland, First Edition - AbeBooks",
+            "url": "https://www.abebooks.com/search/tn/alice+in+wonderland/fe/on/sortby/1"
+          },
+          {
+            "title": "Alice Wonderland, Macmillan - AbeBooks",
+            "url": "https://www.abebooks.com/servlet/SearchResults?bi=0&bx=on&ds=30&kn=John+Tenniel+not+MACFARLANE&pics=on&pn=Macmillan+&recentlyadded=all&sortby=1&tn=Alice+Wonderland"
+          },
+          {
+            "title": "alice wonderland, 1866 john tenniel, Ancien ou d'occasion - AbeBooks",
+            "url": "https://www.abebooks.fr/rechercher-livre/titre/alice-wonderland/kw/1866-john-tenniel/ancien-occasion/"
+          },
+          {
+            "title": "alice+wonderland, 1866+john+tenniel - AbeBooks",
+            "url": "https://www.abebooks.fr/search/sortby/1/tn/alice+wonderland/kn/1866+john+tenniel"
+          }
+        ]
+      },
+      "Based on the search results, I found detailed information about the \"Alice in Wonderland\" 1865 first edition story involving John Tenniel and the suppressed reprint. Here's what the search revealed:\n\n## The 1865 Alice in Wonderland First Edition Story\n\nThe first edition of \"Alice's Adventures in Wonderland\" was published by Macmillan in 1865 and was printed on brittle, cheap paper. John Tenniel (the illustrator) demanded the book be reprinted on better stock.(no content)The book was originally printed in Oxford at the Clarendon Press in June 1865, but was suppressed when Carroll heard that the book's illustrator was dissatisfied with the quality of the printing.(no content)When Carroll recalled the first 2000 copies of his book and had another printer re-do them, Macmillan, watching out for the bottom line, sold roughly 2000 copies of the already printed sheets to the American publisher D. Appleton & Co.\n\n### Key Details:\n\n- The true first edition of 2000 copies was printed by Oxford University Press in July 1865 and was famously withdrawn before publication by Dodgson because Tenniel was unhappy with the print quality of his illustrations.\n\n- Although Dodgson had visited the publishers on 15 July 1865 to inscribe a number of copies, he was unaware of issues with the printing. He was contacted by Tenniel on 19 July who was \"dissatisfied with the printing of the pictures\".\n\n- The condemned printing was then sold to David Appleton & Co., an overseas publishing house who wanted to distribute copies of the book in America. The title-pages were redone with a New York imprint dated 1866.\n\n- Dodgson tried to recall copies and a new printing was ordered which would become the second, but first published, edition.\n\nThis edition using the suppressed 1865 sheets became known as \"the Appleton Alice\" and is now quite rare, with the British Library being the only institutional holder found in the UK, some seventy institutional holders in the United States and Canada and one in Switzerland, and fewer than twenty private holders identified."
+    ],
+    "durationSeconds": 16.100621371000074
+  }
+}

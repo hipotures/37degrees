@@ -1,0 +1,63 @@
+{
+  "session_id": "ac25dab5-19ee-43b4-8689-cf24d65d211d",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ac25dab5-19ee-43b4-8689-cf24d65d211d.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Alicja w Krainie Czar\u00f3w polska adaptacja teatr film t\u0142umaczenie polskie wydania"
+  },
+  "tool_response": {
+    "query": "Alicja w Krainie Czar\u00f3w polska adaptacja teatr film t\u0142umaczenie polskie wydania",
+    "results": [
+      "I'll search for information about Polish adaptations, translations, and editions of \"Alice in Wonderland\" (Alicja w Krainie Czar\u00f3w).",
+      {
+        "tool_use_id": "srvtoolu_01DdHsjVSarvEWPaGoKP3J5i",
+        "content": [
+          {
+            "title": "Alicja w Krainie Czar\u00f3w \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Alicja_w_Krainie_Czar%C3%B3w"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w (film 2010) \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.m.wikipedia.org/wiki/Alicja_w_Krainie_Czar%C3%B3w_(film_2010)"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w - Nowy Teatr im. Witkacego w S\u0142upsku",
+            "url": "https://nowyteatr.pl/spektakle/alicja-w-krainie-czarow/"
+          },
+          {
+            "title": "spektakle Teatru Narodowego \u2013 \u201eAlicji Kraina Czar\u00f3w\u201d wg Lewisa Carrolla w re\u017cyserii S\u0142awomira Narlocha - Teatr Narodowy \u2013 spektakle - Teatr Narodowy \u2013 repertuar - Teatr Narodowy",
+            "url": "https://www.narodowy.pl/repertuar,spektakle,425,alicji_kraina_czarow.html"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w | Film | 1951",
+            "url": "https://www.filmweb.pl/film/Alicja+w+Krainie+Czar%C3%B3w-1951-108102"
+          },
+          {
+            "title": "\u201eAlicja w Krainie Czar\u00f3w\u201d \u2013 lista polskich t\u0142umacze\u0144 | Through The Looking Glass....",
+            "url": "https://krainaczarow.wordpress.com/2010/07/25/alicja-w-krainie-czarow-lista-polskich-tlumaczen/"
+          },
+          {
+            "title": "ZORROBLOG: ALICJA W KRAINIE CZAR\u00d3W",
+            "url": "https://znak-zorro-zo.blogspot.com/2010/02/alicja-w-krainie-czarow.html"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w - Teatr Muzyczny ...",
+            "url": "https://www.teatrroma.pl/en/spektakl/alice-in-wonderland/"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w - Teatr \u015al\u0105ski im. St. Wyspia\u0144skiego w Katowicach",
+            "url": "https://teatrslaski.art.pl/repertuar/alicja-w-krainie-czarow/"
+          },
+          {
+            "title": "Perypetie z przek\u0142adem Alicji - Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/aktualnosci/publicystyka/6503/perypetie-z-przekladem-alicji"
+          }
+        ]
+      },
+      "Based on the search results, I can provide comprehensive information about Polish adaptations, translations, and editions of \"Alice in Wonderland\" (Alicja w Krainie Czar\u00f3w):\n\n## Polish Translations (Polskie t\u0142umaczenia)\n\nThe first Polish translation was by Adela S. in 1910, published by Wydawnictwo M. Arcta in Warsaw. The title page showed \"Przygody Alinki w Krainie Cud\u00f3w\" while the cover read \"Przygody Alinki w Krainie Czar\u00f3w\". The full surname of the translator is unknown.\n\nMaria Morawska's translation from 1927 was commissioned by Gebethner and Wolff, titled \"Ala w krainie czar\u00f3w\". It was published three times before the war, then in 1947 and finally in 1997.\n\nAntoni Marianowicz created a translation in 1955. This version is directed more towards children. The translator replaces original poems with adapted Polish ones, like \"Pan Kotek by\u0142 chory\".\n\nIn 1965, Maciej S\u0142omczy\u0144ski created the first translation faithful to the original, directed at older readers.\n\nJolanta Kozak's 1999 translation uniquely preserved the title structure, translating \"Alice's Adventures in Wonderland\" as \"Przygody Alicji w Krainie Czar\u00f3w\".\n\nBogumi\u0142a Kaniewska created a translation in 2010, faithful to the original, containing both parts.\n\nAs of 2015, there were already twelve Polish translations of the book.\n\n## Theatre Adaptations (Adaptacje teatralne)\n\nThe Nowy Teatr im. Witkacego in S\u0142upsk staged a musical version directed by Wojciech Ko\u015bcielniak, based on his own translation of Lewis Carroll's \"Alice in Wonderland\". The premiere was on March 19, 2023.\n\nThe Teatr Narodowy presented \"Alicji Kraina Czar\u00f3w,\" a musical performance based on Lewis Carroll's famous novels, directed by S\u0142awomir Narloch, with premiere on March 4, 2023.\n\nTeatr Muzyczny Roma staged a musical performance directed by Cezary Domaga\u0142a with premiere on May 23, 2015.\n\nTeatr \u015al\u0105ski im. St. Wyspia\u0144skiego in Katowice also staged \"Alicja w Krainie Czar\u00f3w,\" noting it as possibly the only case in history where one story contains two: for children and for adults.\n\n## Film Adaptations (Adaptacje filmowe)\n\nA 1951 Disney animated adaptation of Lewis Carroll's book tells the story of a girl who followed the White Rabbit, fell into his hole and found herself in a world full of fairy-tale creatures.\n\nThe 2010 Tim Burton film had its Polish premiere on March 5, 2010. Polish dubbing featured actors including Cezary Pazura, Ma\u0142gorzata Ko\u017cuchowska, Katarzyna Figura, Bart\u0142omiej Topa, Jan Peszek, and Ma\u0142gorzata Braunek.\n\nAlthough nine different Polish translations of the book were available at the time of the film's premiere, Jan Jakub Wecsile, responsible for the Polish dialogues, didn't base them on any existing translation, creating his own versions of Carroll's invented names. For example, \"vorpal sword\" became \"turpi koncerz\" and \"Jabberwocky\" became \"\u017baberzw\u0142ok\".\n\n## Publishing History (Historia wydawnicza)\n\nThe term \"Kraina Czar\u00f3w\" (Wonderland) appears in the title of ten translations, while in the eleventh (by Grzegorz Wasowski) the magical element is preserved but the location is changed to \"Czarytorium\".\n\nThe translations have been illustrated by various Polish artists over the years, and classic John Tenniel illustrations most often appear with Maria Morawska's translation from 1927."
+    ],
+    "durationSeconds": 45.88010910200002
+  }
+}

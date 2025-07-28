@@ -1,0 +1,63 @@
+{
+  "session_id": "b8c17c71-efc6-4c19-9b68-e101c36de9c9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b8c17c71-efc6-4c19-9b68-e101c36de9c9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Polish youth social media preferences TikTok Instagram gaming culture political awareness 2024"
+  },
+  "tool_response": {
+    "query": "Polish youth social media preferences TikTok Instagram gaming culture political awareness 2024",
+    "results": [
+      "I'll search for information about Polish youth social media preferences, including TikTok, Instagram, gaming culture, and political awareness in 2024.",
+      {
+        "tool_use_id": "srvtoolu_01K8CCfotJB1xK3VKG8FqNQw",
+        "content": [
+          {
+            "title": "Social Media in Poland in 2024: Key Trends and Data for International Marketing - LemonMedia Agency",
+            "url": "https://lemon-media.pl/en/social-media-in-poland-in-2024-key-trends-and-data-for-international-marketing/"
+          },
+          {
+            "title": "The Kids Are Online: Teen Social Media Use, Civic Engagement, and Affective Polarization - Ayla Oden, Lance Porter, 2023",
+            "url": "https://journals.sagepub.com/doi/full/10.1177/20563051231186364"
+          },
+          {
+            "title": "Digital 2024: Poland \u2014 DataReportal \u2013 Global Digital Insights",
+            "url": "https://datareportal.com/reports/digital-2024-poland"
+          },
+          {
+            "title": "How political parties used TikTok to target young voters in Poland`s general elections",
+            "url": "https://www.interhacktives.com/2023/11/15/how-political-parties-used-tiktok-to-target-young-voters-in-polands-general-elections/"
+          },
+          {
+            "title": "How Americans Navigate Politics on TikTok, X, Facebook and Instagram | Pew Research Center",
+            "url": "https://www.pewresearch.org/internet/2024/06/12/how-americans-navigate-politics-on-tiktok-x-facebook-and-instagram/"
+          },
+          {
+            "title": "Social Media Trends in Poland, France, and the United States",
+            "url": "https://www.translatorsfamily.com/comparative-analysis-of-social-media-usage-in-poland-france-and-the-united-states/"
+          },
+          {
+            "title": "Social Media in Poland - 2023 Stats & Platform Trends - OOSGA",
+            "url": "https://oosga.com/social-media/pol/"
+          },
+          {
+            "title": "Teens, Social Media and Technology 2024 | Pew Research Center",
+            "url": "https://www.pewresearch.org/internet/2024/12/12/teens-social-media-and-technology-2024/"
+          },
+          {
+            "title": "Polish elections: TikTok overpromotes hard right content | Global Witness",
+            "url": "https://globalwitness.org/en/campaigns/digital-threats/tiktok-algorithm-recommends-twice-as-much-hard-right-content-to-users-ahead-of-polish-election/"
+          },
+          {
+            "title": "The Impact Of TikTok On Young People - Sedona Sky Academy",
+            "url": "https://www.sedonasky.org/blog/impact-of-tiktok-on-young-people"
+          }
+        ]
+      },
+      "Based on the search results, here's what I found about Polish youth social media preferences, TikTok, Instagram, gaming culture, and political awareness in 2024:\n\n## Social Media Platform Usage Among Polish Youth\n\nGen Z (15\u201324 years) \u2013 TikTok, Instagram, and Snapchat dominate, with average usage of 3\u20134 hours per day. This shows that Polish youth are highly active on social media, particularly on visual and video-based platforms.\n\n### TikTok's Growing Influence\n\nTikTok \u2013 approx. 50% (dynamic growth, especially among youth and creative industries). The platform has seen significant growth in Poland, with TikTok had 11.52 million users aged 18 and above in Poland in early 2024.(no content)TikTok's potential ad reach in Poland increased by 1.4 million (+13.6 percent) between the start of 2023 and early 2024, indicating rapid adoption.\n\n### Video Content Preference\n\nDespite Facebook's popularity, Poles spend twice as much time on TikTok and YouTube, indicating a preference for video content. This aligns with global trends where younger users prefer dynamic video content over static posts.\n\n## Political Awareness and Engagement\n\n### TikTok's Role in Polish Politics\n\nYoung voters in Poland voted mostly for the political parties that were popular in TikTok such as: Civic Coalition, Confederation and Lewica. During Poland's general elections, Civic Coalition represented by Donald Tusk (401.8k followers). The far-right Konfederacja or Confederation (221.5k followers) and The Left or Lewica (79.2k followers). Respectively, in the final results Civic Coalition got 30.7 %, Lewica with 8.6 % and Confederation with 7.2 %.(no content)While the major conservative party Law and Justice Party (PiS), which governed the country since 2015 remained loyal to traditional social media during political campaigns, other parties were focused on new social media platforms.\n\n### Political Content and Youth Engagement\n\nResearch shows that TikTok and Instagram each correlated with higher levels of interest and civic engagement, and the platforms had no relationship with polarization. This suggests that these platforms may be fostering political awareness without necessarily increasing political division among youth.\n\n## Gaming Culture Integration\n\nThe gaming and entertainment sector concentrates budgets on YouTube, TikTok, and Twitch. Main activities include premiere promotions, streamer partnerships, and campaigns built around online/offline events. This indicates a strong intersection between gaming culture and social media usage in Poland.\n\n## Platform-Specific Demographics\n\n- In early 2024, 50.4 percent of TikTok's ad audience in Poland was female, while 49.6 percent was male.\n- With the latest data published in January 2023, we can see that at the growth rate of 1.06%, there is now around 9.1 million TikTok users in Poland. With male users account for around 0.425 and female users account for around 0.575.\n\n## Key Trends and Implications\n\n1. **Video-First Preference**: Polish youth strongly prefer video content platforms like TikTok and YouTube over traditional text-based social media.\n\n2. **Political Mobilization**: TikTok has become a significant platform for political engagement among Polish youth, with parties that actively used the platform seeing electoral success.\n\n3. **Authenticity Over Production**: Content must match the platform's format and tone: authenticity, creativity, and humor matter more than polished production.\n\n4. **Gaming Culture Integration**: The convergence of gaming culture and social media is evident, with gaming content creators having significant influence on these platforms.\n\n5. **High Engagement Rates**: Polish Gen Z spends 3-4 hours daily on social media, indicating these platforms are central to their daily lives and potentially their worldview formation.\n\nThe data suggests that Polish youth are highly engaged with social media, particularly TikTok and Instagram, and these platforms play a significant role in shaping their political awareness and cultural preferences in 2024."
+    ],
+    "durationSeconds": 41.251869095999744
+  }
+}

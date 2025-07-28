@@ -1,0 +1,43 @@
+{
+  "session_id": "b8c17c71-efc6-4c19-9b68-e101c36de9c9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b8c17c71-efc6-4c19-9b68-e101c36de9c9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"1984\" Orwell Poland communist interpretation \"PRL\" surveillance state Polish readers reception"
+  },
+  "tool_response": {
+    "query": "\"1984\" Orwell Poland communist interpretation \"PRL\" surveillance state Polish readers reception",
+    "results": [
+      "I'll search for information about how George Orwell's \"1984\" was interpreted and received in communist Poland (PRL) with focus on surveillance state themes.",
+      {
+        "tool_use_id": "srvtoolu_01Rs8jFM4P95hgpRrbo98CeQ",
+        "content": [
+          {
+            "title": "(PDF) Orwell, Poland and Polish Exiles in Paris and London",
+            "url": "https://www.academia.edu/30964299/Orwell_Poland_and_Polish_Exiles_in_Paris_and_London"
+          },
+          {
+            "title": "Poland under Communism",
+            "url": "https://www.cambridge.org/core/books/poland-under-communism/AB4118A491B528BD2811173EB0B1FE91"
+          },
+          {
+            "title": "The Communist Experience and Legacy | SpringerLink",
+            "url": "https://link.springer.com/chapter/10.1057/9781403907578_2"
+          },
+          {
+            "title": "The Year 1989 \u2013 The End of Communism in Poland | ENRS",
+            "url": "https://enrs.eu/en/articles/216-the-end-of-communism-in-poland"
+          },
+          {
+            "title": "Censoring Solidarity: Freedom of Speech and its Denial in Poland, 1980\u20131981 | Contemporary European History | Cambridge Core",
+            "url": "https://www.cambridge.org/core/journals/contemporary-european-history/article/abs/censoring-solidarity-freedom-of-speech-and-its-denial-in-poland-19801981/90D0FCF800C4E2690A26446AFE0554D2"
+          }
+        ]
+      },
+      "Based on the search results, here's what I found about how George Orwell's \"1984\" was interpreted and received in communist Poland (PRL):\n\n## Official Censorship and Underground Reception\n\nWhile the official publishing market in communist Poland would condemn Orwell to being an 'unperson' for almost forty years after his death, indicating that \"1984\" was banned from official publication throughout most of the PRL period. The Polish reception of George Orwell is a complex one.\n\n## The PRL Context and Surveillance State\n\nThe Polish People's Republic (PRL) operated as a communist state from 1952-1989. The name Polska Rzeczpospolita Ludowa (People's Republic of Poland; PRL) was in use from 1952 until 1989. The system involved extensive censorship and surveillance mechanisms that would have made Orwell's warnings particularly resonant for Polish readers who could access the work.\n\nBlack Book of Polish Censorship documents the extensive censorship system in Poland, while The Polonia companies became a sort of a testing ground for the authorities and especially for the secret service (both the SB and military). The behaviour of entities functioning within market mechanisms was tested and used in operational activities.\n\n## Theoretical Application and Interpretation\n\nThis paper uses George Orwell's theorization of Newspeak in 1984 to argue that disciplinary society is not primarily about spatiality but instead the restriction of semantic play. This suggests that Polish scholars and readers who could access the work drew parallels between Orwell's concept of language control and the communist regime's control over discourse.\n\n## The Question of PRL's Nature\n\nThe search results reveal an ongoing debate about how to characterize the PRL period. Since the fall of communism there has been a great debate on the place of the Polish People's Republic (PRL) in Polish history. Should it be viewed as an externally controlled Soviet satellite run on Marxist-Leninist principles completely alien to the Polish tradition?(no content)The key issues of the degree of subjugation to the Soviet Union and whether the PRL can justly be described as 'totalitarian', remain one of the most important cleavages in contemporary Polish political life.\n\nThis debate suggests that Orwell's \"1984\" would have been interpreted through the lens of whether the PRL represented a totalitarian system similar to Orwell's Oceania, or something more complex with elements of Polish resistance and adaptation.\n\n## Legacy and Contemporary Relevance\n\nThe enduring relevance of these questions about surveillance, censorship, and totalitarian control continues to shape Polish political discourse, particularly regarding how to remember and interpret the communist period. Both the Solidarity and national-Catholic political camps have argued that communism had to be purged from both political consciousness and practice.\n\nWhile the search results don't provide specific details about how ordinary Polish readers interpreted \"1984\" during the PRL period, they clearly indicate that Orwell's work was considered dangerous enough to ban officially, while its themes of language control, surveillance, and totalitarian power resonated deeply with the Polish experience under communism."
+    ],
+    "durationSeconds": 34.238772447000024
+  }
+}

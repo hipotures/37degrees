@@ -1,0 +1,112 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Folwark zwierz\u0119cy\" wydania polskie t\u0142umaczenia \"Teresa Jele\u0144ska\" \"Magdalena S\u0142ysz\" \"PIW\" \"\u015awiat Ksi\u0105\u017cki\""
+  },
+  "tool_response": {
+    "query": "\"Folwark zwierz\u0119cy\" wydania polskie t\u0142umaczenia \"Teresa Jele\u0144ska\" \"Magdalena S\u0142ysz\" \"PIW\" \"\u015awiat Ksi\u0105\u017cki\"",
+    "results": [
+      "I'll search for information about Polish editions and translations of \"Folwark zwierz\u0119cy\" (Animal Farm) with the specific translators and publishers you mentioned.",
+      {
+        "tool_use_id": "srvtoolu_01RFCEDrCVfMeYeBmasrc9re",
+        "content": []
+      },
+      {
+        "tool_use_id": "srvtoolu_01YVD5hGpSwoqTGAxmLSup1x",
+        "content": [
+          {
+            "title": "Folwark zwierzecy. Przelozyla z angielskiego Teresa Jelenska. / Folwark zwierz\u0119cy. Prze\u0142o\u017cy\u0142a z angielskiego Teresa Jele\u0144ska. Animal Farm. Translated by Teresa Jele\u0144ska. | George Orwell |",
+            "url": "https://www.foldvaribooks.com/pages/books/899/george-orwell/folwark-zwierzecy-przelozyla-z-angielskiego-teresa-jelenska-folwark-zwierzecy-przelozyla-z"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy Semper Publishers",
+            "url": "https://semper.istore.pl/pl/p/Folwark-zwierzecy-/23076515"
+          },
+          {
+            "title": "ORWELL George - Folwark zwierz\u0119cy. Prze\u0142. Teresa Jele\u0144ska. Ilustrowa\u0142 Jan Lebenstein. [Krak\u00f3w] 1985. Oficyna Literacka",
+            "url": "https://onebid.pl/lt/knygos-ir-rankrasciai-orwell-george-folwark-zwierzecy-przel-teresa-jelenska-ilustrowal-jan-lebenstein-krakow-1985-oficyna-literacka/681138"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Folwark_zwierz%C4%99cy"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy \u2013 encyklopediafantastyki.pl",
+            "url": "https://encyklopediafantastyki.pl/index.php?title=Folwark_zwierz%C4%99cy"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy - Wielkopolska Biblioteka Cyfrowa",
+            "url": "https://www.wbc.poznan.pl/dlibra/publication/492230/edition/399795?language=pl"
+          },
+          {
+            "title": "Nowe t\u0142umaczenie \u201eFolwarku zwierz\u0119cego\u201d",
+            "url": "https://www.piotrsamolewicz.pl/2021/03/05/nowe-tlumaczenie-folwarku-zwierzecego/"
+          },
+          {
+            "title": "Orwell George - Animal Farm. Translated from the English by Teresa Jele\u0144ska. London 1974 Renewal - Online auction / Online bidding - Price - OneBid",
+            "url": "https://one.bid/en/ksiazki-i-starodruki-orwell-george-folwark-zwierzecy-przelozyla-z-ang-teresa-jelenska-londyn-1974-odnowa/1967591"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy",
+            "url": "https://wwww.ludowy.pl/pl/spectacle/folwark-zwierzecy"
+          },
+          {
+            "title": "ORWELL George - Folwark zwierz\u0119cy. Prze\u0142. Teresa Jele\u0144ska. Ilustrowa\u0142 Jan Lebenstein. [Krak\u00f3w] 1985.... - Aukcja internetowa / Licytacja online - Cena - OneBid",
+            "url": "https://onebid.pl/pl/ksiazki-i-starodruki-orwell-george-folwark-zwierzecy-przel-teresa-jelenska-ilustrowal-jan-lebenstein-krakow-1985/955191"
+          }
+        ]
+      },
+      {
+        "tool_use_id": "srvtoolu_016YzAKxjT4c9EsQBgvLFo4N",
+        "content": [
+          {
+            "title": "Orwell-George-Folwark-Zwierz\u0119cy.pdf - Magda Lipiec",
+            "url": "http://magdalipiec.pl/wp-content/uploads/2013/09/Orwell-George-Folwark-Zwierz%C4%99cy.pdf"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy (edycja kolekcjonerska) | Wydawnictwo \u015awiat Ksi\u0105\u017cki",
+            "url": "https://wydawnictwoswiatksiazki.pl/tytul/folwark-zwierzecy-edycja-kolekcjonerska/"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy - George Orwell - Ksi\u0105\u017cka w Ksi\u0119garnia ...",
+            "url": "https://www.swiatksiazki.pl/folwark-zwierzecy-6747315-ksiazka.html"
+          },
+          {
+            "title": "Magdalena Mikrut-Majeranek / CZTERY NOGI DOBRZE, A DWIE? | Teatrologia info",
+            "url": "https://teatrologia.pl/recenzje/magdalena-mikrut-majeranek-cztery-nogi-dobrze-a-dwie/"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy (e-book) - George Orwell",
+            "url": "https://www.swiatksiazki.pl/folwark-zwierzecy-6763224-e-book.html"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy - Wydawnictwo MG",
+            "url": "https://wydawnictwomg.pl/folwark-zwierzecy/"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy - George Orwell | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5131226/folwark-zwierzecy"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy (edycja kolekcjonerska)",
+            "url": "https://www.swiatksiazki.pl/folwark-zwierzecy-edycja-kolekcjonerska-7014943-ksiazka.html"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy",
+            "url": "https://www.swiatksiazki.pl/folwark-zwierzecy-6775428-ksiazka.html"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy George Orwell ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/folwark-zwierzecy-george-orwell"
+          }
+        ]
+      },
+      "Based on my search results, I can provide you with information about Polish editions and translations of \"Folwark zwierz\u0119cy\" (Animal Farm) by George Orwell:\n\n## Teresa Jele\u0144ska Translation\n\nThe first Polish edition translated by Teresa Jele\u0144ska was published in exile in London in 1947 under the title \"Zwierz\u0119cy folwark\". Teresa Jele\u0144ska was responsible for the first emigrant translation.\n\nSeveral editions with Teresa Jele\u0144ska's translation include:\n- Warsaw: Niezale\u017cnej Oficyny Wydawniczej; Zapis i Puls, 1979 - a samizdat edition\n- Krak\u00f3w, 1985, Oficyna Literacka - an underground publishing house edition with illustrations by Jan Lebenstein\n- London 1974, Odnowa - another emigrant edition\n\nThe first Polish edition translated by Teresa Jele\u0144ska was published in exile in London in 1947 under the title \"Zwierz\u0119cy folwark\".\n\n## Magdalena S\u0142ysz Translation\n\nI could not find any search results confirming a translation of \"Folwark zwierz\u0119cy\" by Magdalena S\u0142ysz in my searches.\n\n## Publishers\n\n### PIW (Pa\u0144stwowy Instytut Wydawniczy)\nI did not find specific information about PIW editions of \"Folwark zwierz\u0119cy\" in the search results.\n\n### \u015awiat Ksi\u0105\u017cki\n\u015awiat Ksi\u0105\u017cki has published a collector's edition of \"Folwark zwierz\u0119cy\", noting that tens of millions of copies have been printed worldwide since then, and the British Book Marketing Council included Animal Farm among the twelve most outstanding works of contemporary times. However, the search results don't specify which translator's version \u015awiat Ksi\u0105\u017cki used.\n\n## Additional Notes\n\nBart\u0142omiej Zborski is mentioned as the author of the first domestic (non-emigrant) Polish translation of the Farm, though this appears to be separate from the Teresa Jele\u0144ska and any potential Magdalena S\u0142ysz translations you asked about.\n\nThe book was censored in Poland for many years during the communist period, which is why many early Polish editions were published in exile or by underground publishers."
+    ],
+    "durationSeconds": 34.3339506570003
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "session_id": "e18f7f1c-5883-41e4-8ef9-15aee4aa266b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e18f7f1c-5883-41e4-8ef9-15aee4aa266b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"F. Scott Fitzgerald\" letters correspondence \"Great Gatsby\" Perkins editor Maxwell archive collections"
+  },
+  "tool_response": {
+    "query": "\"F. Scott Fitzgerald\" letters correspondence \"Great Gatsby\" Perkins editor Maxwell archive collections",
+    "results": [
+      "I'll search for information about F. Scott Fitzgerald's letters and correspondence with his editor Maxwell Perkins regarding \"The Great Gatsby\" and archive collections.",
+      {
+        "tool_use_id": "srvtoolu_01YYGrrxVkwUxKS4Qzn1q1Pb",
+        "content": [
+          {
+            "title": "F. Scott Fitzgerald Papers, 1897-1944 - Finding Aids",
+            "url": "https://findingaids.princeton.edu/catalog/C0187"
+          },
+          {
+            "title": "2 June (1924): F. Scott Fitzgerald to Maxwell Perkins | The American Reader",
+            "url": "https://theamericanreader.com/2-june-1924-f-scott-fitzgerald-to-maxwell-perkins/"
+          },
+          {
+            "title": "\"Such Friends:\" Maxwell Perkins and F. Scott Fitzgerald - The American Writers Museum",
+            "url": "https://americanwritersmuseum.org/such-friends-maxwell-perkins-and-f-scott-fitzgerald/"
+          },
+          {
+            "title": "The Great Gatsby - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+          },
+          {
+            "title": "Letters of F. Scott Fitzgerald and Maxwell Perkins, Adrien Brody's Take on Men\u2019s Fiction, and More | Poets & Writers",
+            "url": "https://www.pw.org/content/letters_of_f_scott_fitzgerald_and_maxwell_perkins_adrien_brodys_take_on_men_s_fiction_and_mo"
+          },
+          {
+            "title": "A Life in Letters - F. Scott Fitzgerald: 9780684195704 - AbeBooks",
+            "url": "https://www.abebooks.com/9780684195704/Life-Letters-F-Scott-Fitzgerald-0684195704/plp"
+          },
+          {
+            "title": "F. Scott Fitzgerald and The Great Gatsby \u2013 Library News",
+            "url": "https://library.missouri.edu/news/special-collections/f-scott-fitzgerald-and-the-great-gatsby"
+          },
+          {
+            "title": "1924-1930 - The Letters of F. Scott Fitzgerald",
+            "url": "https://taylorsackaris.weebly.com/1924-1930.html"
+          },
+          {
+            "title": "The manuscript of The Great Gatsby by F. Scott Fitzgerald",
+            "url": "https://www.spbooks.com/67-the-great-gatsby-9791095457428.html"
+          },
+          {
+            "title": "A Writer and His Editor: Fitzgerald and Perkins - Miranda Liasson Romance Author",
+            "url": "https://mirandaliasson.com/a-writer-and-his-editor-fitzgerald-and-perkins/"
+          }
+        ]
+      },
+      "Based on my search results, I found extensive information about F. Scott Fitzgerald's letters and correspondence with his editor Maxwell Perkins regarding \"The Great Gatsby\" and various archive collections. Here's what I discovered:\n\n## Major Archive Collections\n\nThe F. Scott Fitzgerald Papers at Princeton University (1897-1944) contain the autograph manuscript of The Great Gatsby and include extensive correspondence with Maxwell Perkins. These papers were donated to Princeton University Library in 1950 by Frances Scott (\"Scottie\") Fitzgerald Lanahan, Fitzgerald's daughter.\n\nPrinceton also holds Fitzgerald's extensive correspondence with his editor Maxwell Perkins in the Charles Scribner's Sons Records (C0101), which provides crucial documentation of their editorial relationship during the creation of The Great Gatsby.\n\n## The Fitzgerald-Perkins Correspondence\n\nThe correspondence between Fitzgerald and Perkins during 1924-1925 was instrumental in shaping The Great Gatsby. Fitzgerald maintained a close correspondence with Maxwell Perkins while writing The Great Gatsby (which he originally titled \"Trimalchio in the West Egg\" after Petronius' Satyricon).\n\nFitzgerald submitted the manuscript to editor Maxwell Perkins, who persuaded Fitzgerald to revise the work over the following winter. Perkins suggested that Fitzgerald reveal the origins of Gatsby's fortune and flesh out his character.\n\nKey aspects of their correspondence include:\n\n- By November 1924, Fitzgerald had settled on the title \"Trimalchio in West Egg,\" but Perkins persuaded him that the reference was too obscure. Both Zelda and Perkins expressed their preference for \"The Great Gatsby,\" and Fitzgerald agreed.\n\n- In their 1924 exchanges, Fitzgerald wrote to Perkins: \"This time I don't want any signed blurbs on the jacket\u2014not Mencken's or Lewis' or Howard's or anyone's. I'm tired of being the author of This Side of Paradise and I want to start over\".\n\n## The Manuscript\n\nF. Scott Fitzgerald's handwritten manuscript for The Great Gatsby consists of 303 numbered pages covered with Fitzgerald's easily decipherable rounded and fluid handwriting, and is kept at the Department of Rare Books and Special Collections at Princeton University.\n\nThe correspondence between Fitzgerald and Perkins included in archival materials shows Perkins making suggestions for revision and suggesting using a different title.\n\n## Available Resources\n\nSeveral published collections document this correspondence:\n\n- \"A Life in Letters\" is the most comprehensive volume of Fitzgerald's letters, with many appearing in print for the first time. Letters to his editor Maxwell Perkins illustrate the development of Fitzgerald's literary sensibility.\n\n- \"The Sons of Maxwell Perkins: Letters of F. Scott Fitzgerald, Ernest Hemingway, Thomas Wolfe, and Their Editor,\" edited by Matthew Joseph Bruccoli and Judith Baughman, published by University of South Carolina Press (2004).\n\nThe Princeton University Library continues to be the primary repository for Fitzgerald manuscripts and correspondence, offering researchers access to these invaluable primary sources that document the creative process behind one of American literature's greatest novels."
+    ],
+    "durationSeconds": 34.662705789000725
+  }
+}

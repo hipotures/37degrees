@@ -1,0 +1,63 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Folwark zwierz\u0119cy\" George Orwell Polska komunizm cenzura PRL"
+  },
+  "tool_response": {
+    "query": "\"Folwark zwierz\u0119cy\" George Orwell Polska komunizm cenzura PRL",
+    "results": [
+      "I'll search for information about George Orwell's \"Animal Farm\" (Folwark zwierz\u0119cy) in the context of Polish communism, censorship, and the Polish People's Republic (PRL).",
+      {
+        "tool_use_id": "srvtoolu_019WU975kD3VL1hsuPXbb2yB",
+        "content": [
+          {
+            "title": "Folwark zwierz\u0119cy - Problematyka - George Orwell - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/george-orwell/folwark-zwierzecy.problematyka"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy - George Orwell | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5131226/folwark-zwierzecy"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy - Streszczenie szczeg\u00f3\u0142owe - George Orwell - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/george-orwell/folwark-zwierzecy.streszczenie-szczegolowe"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy - George Orwell, Quentin Gr\u00e9ban | Media Rodzina",
+            "url": "https://www.mediarodzina.pl/produkt/folwark-zwierzecy/"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Folwark_zwierz%C4%99cy"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy \u2013 encyklopediafantastyki.pl",
+            "url": "https://encyklopediafantastyki.pl/index.php?title=Folwark_zwierz%C4%99cy"
+          },
+          {
+            "title": "Ods\u0142oni\u0142 przed nami potworn\u0105 prawd\u0119, na d\u0142ugo zanim zosta\u0142a niech\u0119tnie zaakceptowana. George Orwell - Wi\u0119\u017a",
+            "url": "https://wiez.pl/2022/09/26/george-orwell/"
+          },
+          {
+            "title": "Folwark Zwierz\u0119cy - George Orwell",
+            "url": "https://andrzejewski.siedlce.pl/folwark-zwierzecy.html"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy - George Orwell - WP Ksi\u0105\u017cki",
+            "url": "https://ksiazki.wp.pl/nie-wolno-ci-tego-czytac-35-zakazanych-ksiazek-6145575806027905g/32"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy | George Orwell (Ksi\u0105\u017cka) - Ksi\u0119garnia chodnikliteracki.pl",
+            "url": "https://chodnikliteracki.pl/ksiazka/folwark-zwierzecy-george-orwell-8475"
+          }
+        ]
+      },
+      "Based on the search results, I found valuable information about George Orwell's \"Animal Farm\" (Folwark zwierz\u0119cy) in the context of Polish communism, censorship, and the Polish People's Republic (PRL). Here are the key findings:\n\n## Censorship in Communist Poland\n\n\"Folwark zwierz\u0119cy\" do 1989 r. by\u0142 w Polsce obj\u0119ty cenzur\u0105. This indicates that Animal Farm was banned by censorship in Poland until 1989, which coincides with the fall of communism in Poland.\n\n## Polish Publication History\n\nPierwsze polskie wydanie w t\u0142umaczeniu Teresy Jele\u0144skiej opublikowane zosta\u0142o na emigracji w Londynie w roku 1947 pod tytu\u0142em Zwierz\u0119cy folwark. The first Polish edition was published in exile in London in 1947, translated by Teresa Jele\u0144ska under the title \"Zwierz\u0119cy folwark\" (Animal Farmyard).\n\n## The Book's Anti-Communist Message\n\nProblematyka \u201eFolwarku zwierz\u0119cego\" zwi\u0105zana jest wypaczeniem idei rewolucji, komunizmu oraz wizji powszechnej r\u00f3wno\u015bci; utw\u00f3r stanowi krytyk\u0119 komunizmu oraz wszelkich system\u00f3w totalitarnych.(no content)Jest alegorycznym przedstawieniem komunizmu i jednocze\u015bnie g\u0142o\u015bnym ostrze\u017ceniem przed ka\u017cdym totalitaryzmem.\n\n## Publication Challenges Due to Political Reasons\n\nOdrzucana przez znanych brytyjskich wydawc\u00f3w, r\u00f3wnie\u017c z przyczyn politycznych (wcze\u015bniej jej maszynopis omal nie zosta\u0142 zniszczony w Londynie w eksplozji niemieckiej lataj\u0105cej bomby V-1),alegoryczna bajka Folwark zwierz\u0119cy ukaza\u0142a si\u0119 w Anglii 17 sierpnia 1945 r. w nak\u0142adzie 4500 egzemplarzy.(no content)Kilku wydawc\u00f3w odm\u00f3wi\u0142o jego publikacji ze wzgl\u0119du na opini\u0119 brytyjskiego Ministerstwa Informacji, kt\u00f3ra punktowa\u0142a antyrosyjski charakter powie\u015bci (w tym czasie Wielka Brytania i ZSRR zwi\u0105zane by\u0142y sojuszem wojennym).\n\n## Orwell's Critique of Soviet Communism\n\nKiedy opublikowano \u201eFolwark zwierz\u0119cy\", wi\u0119kszo\u015b\u0107 recenzent\u00f3w traktowa\u0142a go jako histori\u0119 o tym, \u017ce Stalin zmieni\u0142 komunistyczn\u0105 Rosj\u0119 w tyrani\u0119, chocia\u017c zastanawiali si\u0119, czy potworne szczeg\u00f3\u0142y mia\u0142y swoje \u017ar\u00f3d\u0142o w faktach. Orwell wiedzia\u0142 o czystkach oraz morderczym, totalitarnym re\u017cimie Stalina od \u015bwiadk\u00f3w, cho\u0107by Koestlera, ale dopiero w 1968 roku teksty faktograficzne, oparte na badaniach historycznych, sprawi\u0142y, \u017ce lewicuj\u0105cy my\u015bliciele na Zachodzie zrewidowali swoje z\u0142udzenia co do komunizmu w praktyce. \u201eWielki terror\" Roberta Conquesta to w zasadzie \u201eFolwark zwierz\u0119cy\", w kt\u00f3rym przywr\u00f3cono nazwiska postaci historycznych. Orwell ods\u0142oni\u0142 przed nami potworn\u0105 prawd\u0119, na d\u0142ugo zanim zosta\u0142a ona niech\u0119tnie zaakceptowana przez \u015brodowisko kulturalne wolnego \u015bwiata.\n\n## Orwell's Own Words About the Book\n\nOrwell pisa\u0142: ,,Folwark zwierz\u0119cy mia\u0142 by\u0107 przede wszystkim satyr\u0105 na rewolucj\u0119 rosyjsk\u0105. Jednak, jak podkre\u015blam, przes\u0142anie utworu jest szersze: chcia\u0142em wyrazi\u0107 w nim my\u015bl, i\u017c \u00f3w szczeg\u00f3lny rodzaj rewolucji (gwa\u0142towna rewolucja oparta na konspiracji, z motorem nap\u0119dowym w postaci nie\u015bwiadomie \u017c\u0105dnych w\u0142adzy os\u00f3b) mo\u017ce doprowadzi\u0107 jedynie do zmiany w\u0142adc\u00f3w. M\u00f3j mora\u0142 brzmi tak oto: rewolucje mog\u0105 przynie\u015b\u0107 radykalna popraw\u0119, gdy masy b\u0119d\u0105 czujne i b\u0119d\u0105 wiedzie\u0107, jak pozby\u0107 si\u0119 swych przyw\u00f3dc\u00f3w, gdy tamci zrobi\u0105, co do nich nale\u017cy.\n\nThe search results clearly show that \"Animal Farm\" was a powerful critique of communism and totalitarianism that was censored in communist Poland until 1989. The book's allegorical portrayal of the Soviet system made it particularly threatening to the Polish communist regime, which is why it could only be published in Polish in exile and was banned within Poland during the PRL period."
+    ],
+    "durationSeconds": 44.25491291300021
+  }
+}

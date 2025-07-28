@@ -1,0 +1,63 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Animal Farm\" George Orwell banned Soviet Union Eastern Europe Poland Hungary censorship history"
+  },
+  "tool_response": {
+    "query": "\"Animal Farm\" George Orwell banned Soviet Union Eastern Europe Poland Hungary censorship history",
+    "results": [
+      "I'll search for information about the censorship and banning of George Orwell's \"Animal Farm\" in the Soviet Union and Eastern European countries.",
+      {
+        "tool_use_id": "srvtoolu_01TKW6HVii7UCqS8wJLsVSH8",
+        "content": [
+          {
+            "title": "Animal Farm - George Orwell | Censored - the books they didn't want us to read | Birmingham City Council",
+            "url": "https://www.birmingham.gov.uk/info/50138/leisure_and_learning/1435/censored_-_the_books_they_didnt_want_us_to_read/8"
+          },
+          {
+            "title": "Animal Farm: The Movie That Helped CIA Spies Win the Cold War",
+            "url": "https://spyscape.com/article/how-cia-spies-used-george-orwell-to-help-win-the-cold-war"
+          },
+          {
+            "title": "Animal Farm | The Censorship Files",
+            "url": "https://thecensorshipfiles.wordpress.com/volume-1/issue-2/animal-farm/"
+          },
+          {
+            "title": "Animal Farm: Banned by the Soviets, Promoted by the CIA - PEN America",
+            "url": "https://pen.org/animal-farm-banned-by-the-soviets-promoted-by-the-cia/"
+          },
+          {
+            "title": "Animal Farm - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Animal_Farm"
+          },
+          {
+            "title": "Banned Books Week: Animal Farm | CMU Libraries",
+            "url": "https://www.library.cmu.edu/about/news/2021-09/banned-books-week-animal-farm"
+          },
+          {
+            "title": "All Are Equal: The History Behind George Orwell\u2019s Controversial Novel, Animal Farm\u2013by Hannah Huckins \u2013 The Ellen Reeder",
+            "url": "https://english.plymouthcreate.net/literature/banned-books/all-are-equal-the-history-behind-george-orwells-controversial-novel-animal-farm-by-hannah-huckins/"
+          },
+          {
+            "title": "Animal Farm (Tyler Guilford) | CMLIT 130: Banned Books",
+            "url": "https://sites.psu.edu/bannedbookscmlit130/2016/02/18/animal-farm/"
+          },
+          {
+            "title": "Exploring How Animal Farm Was Censored and Suppressed: A Historical Perspective | Volunteer Heroes: Inspiring Stories of Those Who Make a Difference",
+            "url": "https://volunteerpeninsula.org/exploring-how-animal-farm-was-censored-and-suppressed-a-historical-perspective/"
+          },
+          {
+            "title": "The Strange History of Animal Farm | by Fox in the snow | Medium",
+            "url": "https://medium.com/@ifox_/the-strange-history-of-animal-farm-320bd8e092f8"
+          }
+        ]
+      },
+      "Based on the search results, here's what I found about the censorship and banning of George Orwell's \"Animal Farm\" in the Soviet Union and Eastern Europe:\n\n## Soviet Union\n\nAnimal Farm was banned in the Soviet Union from 1945 until the 1980s. The Soviet Union and its allies accused Orwell of spreading anti-communist propaganda and banned the book from publication. One of the most infamous examples of censorship occurred in the Soviet Union, where the book was banned due to its scathing critique of communism.\n\n## Eastern European Countries\n\n### Poland and Hungary\nIn some countries, such as Poland and Hungary, possession of Animal Farm could result in imprisonment or even execution. It was illegally smuggled and copied into the Soviet Bloc where the punishment for reading it was imprisonment.\n\n### CIA Distribution Efforts\nBetween 1952 and 1957, the CIA, in an operation codenamed Aedinosaur, sent millions of balloons carrying copies of the novel into Poland, Hungary, and Czechoslovakia, whose air forces tried to shoot the balloons down. In a colorful display of deceit and cunning, the CIA launched hot air balloons from West Germany in the 1950s and sent them drifting across the Iron Curtain to deliver their prized cargo - George Orwell's novel Animal Farm (1945). Balloons that dodged enemy fire in Poland, Hungary, and Czechoslovakia wafted into hostile territory like silent grenades. Operation AeDinosaur - as the literary spy mission was known - undermined Soviet censorship and used literature as a secret weapon to stir up intellectual debate about communism.\n\n### Samizdat Distribution\nBecause of its illegality, many in Soviet-controlled territory first read it in pirated, 'samizdat' form. This refers to the underground practice of copying and distributing censored materials by hand in Soviet bloc countries.\n\n### Other Regions\nToday Animal Farm is still banned in Cuba, Kenya, and the United Arab Emirates. Only a censored version is read in China.\n\nThe censorship of Animal Farm in the Soviet Union and Eastern Europe was particularly severe because According to Orwell, Animal Farm reflects events leading up to the Russian Revolution of 1917 and then on into the Stalinist era of the Soviet Union, making it a direct political threat to the communist regimes in these countries."
+    ],
+    "durationSeconds": 27.080981483000098
+  }
+}

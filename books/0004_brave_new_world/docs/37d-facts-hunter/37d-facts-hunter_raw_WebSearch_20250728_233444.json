@@ -1,0 +1,26 @@
+{
+  "session_id": "9588e4fa-c119-4986-be3b-1d3af7769f8f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/9588e4fa-c119-4986-be3b-1d3af7769f8f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Brave New World\" \"technological developments\" prediction \"in vitro fertilization\" genetic engineering pharmaceutical developments"
+  },
+  "tool_response": {
+    "query": "\"Brave New World\" \"technological developments\" prediction \"in vitro fertilization\" genetic engineering pharmaceutical developments",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01423QqznspdozFfsn7eMtGA",
+        "content": [
+          {
+            "title": "Connections between Brave New World and Recent Technological Advancements | Art Technically",
+            "url": "https://arttechnically.org/2020/11/10/connections-between-brave-new-world-and-recent-technological-advancements/"
+          }
+        ]
+      },
+      "The search found information about how Aldous Huxley's \"Brave New World\" predicted various technological developments. Here are the key findings:\n\nHuxley's artificial reproduction process was remarkably similar to in vitro fertilization (IVF), which scientists began experimenting with on rabbits and guinea pigs in 1878, but wasn't successfully used to create a human until 1978, over 40 years after Brave New World was published.(no content)This IVF technology, despite being similar to a key part of Huxley's dystopia, has become relatively common in today's world and serves as a key option for people struggling with infertility when implemented with proper regulations.(no content)While Huxley envisioned artificial insemination as part of government control in his dystopian world, the real-world development serves the beneficial purpose of helping people with infertility.\n\nThe search also touched on genetic engineering through the mention of GMOs, which face skepticism but can help address environmental dangers and food insecurity when implemented correctly.\n\nThe source demonstrates how \"Brave New World\" served as a prescient prediction of technological developments that would emerge decades later, particularly in reproductive technology and genetic modification."
+    ],
+    "durationSeconds": 9.716519628999988
+  }
+}

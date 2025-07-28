@@ -1,0 +1,63 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "George Orwell biography academic sources scholarly books Eric Blair Burma"
+  },
+  "tool_response": {
+    "query": "George Orwell biography academic sources scholarly books Eric Blair Burma",
+    "results": [
+      "I'll search for academic sources and scholarly books about George Orwell's biography, including his early life as Eric Blair and his time in Burma.",
+      {
+        "tool_use_id": "srvtoolu_01DW2QWFPu2fyruoUKdwAy5T",
+        "content": [
+          {
+            "title": "George Orwell - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/George_Orwell"
+          },
+          {
+            "title": "George Orwell | Biography, Books, Real Name, Political Views, & Facts | Britannica",
+            "url": "https://www.britannica.com/biography/George-Orwell"
+          },
+          {
+            "title": "Orwell, George | Internet Encyclopedia of Philosophy",
+            "url": "https://iep.utm.edu/george-orwell/"
+          },
+          {
+            "title": "Biography | The Orwell Foundation",
+            "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/biography/"
+          },
+          {
+            "title": "George Orwell bibliography - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/George_Orwell_bibliography"
+          },
+          {
+            "title": "George Orwell - Biography and Works. Search Texts, Read Online. Discuss.",
+            "url": "https://www.online-literature.com/orwell/"
+          },
+          {
+            "title": "Eric Blair becomes George Orwell \u2013 National Library of Scotland Blog",
+            "url": "https://blog.nls.uk/eric-blair-becomes-george-orwell/"
+          },
+          {
+            "title": "George Orwell | EBSCO Research Starters",
+            "url": "https://www.ebsco.com/research-starters/history/george-orwell"
+          },
+          {
+            "title": "George Orwell - New World Encyclopedia",
+            "url": "https://www.newworldencyclopedia.org/entry/George_Orwell"
+          },
+          {
+            "title": "George Orwell | Making Britain",
+            "url": "https://www5.open.ac.uk/research-projects/making-britain/content/george-orwell"
+          }
+        ]
+      },
+      "Based on my search results, I can provide you with information about academic sources and scholarly books on George Orwell's biography, particularly focusing on his early life as Eric Blair and his time in Burma:\n\n## Major Academic Biographies of George Orwell\n\n**D.J. Taylor's \"Orwell: The Life\" (2003)** - This critically acclaimed biography won the Whitbread Biography Award. Taylor also published \"Orwell: The New Life\" in 2023.\n\n**Bernard Crick's \"George Orwell: A Life\" (1980)** - Published by Secker & Warburg, this is considered one of the foundational scholarly biographies of Orwell.\n\n**Michael Shelden's \"Orwell: The Authorised Biography\" (1991)** - Published by Heinemann, this is the official authorized biography.\n\n**Peter Stansky and William Abrahams** wrote two important volumes: \"The Unknown Orwell\" (1972) and \"Orwell: The Transformation\" (1979), both published by Constable.\n\n**George Woodcock's \"The Crystal Spirit: A Study of George Orwell\" (1967)** - Published by Cape, this is an important critical study.\n\n## Key Facts About Eric Blair's Early Life and Burma Experience\n\nEric Arthur Blair was born on June 25, 1903 in India. His English father worked as a member of the British specialized services in colonial India, where he oversaw local opium production for export to China.\n\nAfter graduating from Eton, Blair decided to follow in his father's footsteps and join the specialized services of the British Empire. Blair was stationed in Burma (now Myanmar) where his mother had been raised. He spent five unhappy years with the Imperial Police in Burma (1922-1927).\n\nHe used his experiences working for imperial Britain in Burma as the foundation for his second book, Burmese Days, first published in 1934, and his frequently anthologized essays, \"A Hanging\" and \"Shooting an Elephant,\" first published in 1931 and 1936 respectively.\n\nHis experiences formed the basis for his first book, Down and Out in Paris and London, which was published in 1933. Blair published the book under the pen name George Orwell.\n\n## Academic Resources and Archives\n\nIn 1960 Orwell's widow Sonia deposited his papers on permanent loan to University College London. The collection contains Orwell's literary notebooks, manuscripts and typescripts of his work, personal and political diaries, correspondence and family material. Since the initial donation the papers \u2013 now known as the George Orwell Archive \u2013 have been supplemented by further donations.\n\nThe Collected Essays, Journalism and Letters in four volumes (1968, 1970), co-edited by Ian Angus and Orwell's widow Sonia Brownell; and The Complete Works of George Orwell, in 20 volumes, edited by Peter Davison.\n\n## Recent Fictional Works About Blair in Burma\n\nPaul Theroux's 2024 novel \"Burma Sahib\" features the young Eric Blair as the main character in a fictional narrative of Blair's five years in the country.\n\nThese sources provide comprehensive academic coverage of Orwell's life, with particular attention to his formative years as Eric Blair and his crucial experiences in Burma that shaped his political views and literary career."
+    ],
+    "durationSeconds": 32.551567404999396
+  }
+}

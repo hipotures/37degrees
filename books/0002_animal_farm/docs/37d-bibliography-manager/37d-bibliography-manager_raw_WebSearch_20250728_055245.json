@@ -1,0 +1,63 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Animal Farm educational resources teaching guides youth students curriculum study"
+  },
+  "tool_response": {
+    "query": "Animal Farm educational resources teaching guides youth students curriculum study",
+    "results": [
+      "I'll search for educational resources and teaching guides for Animal Farm that are suitable for youth students and curriculum study.",
+      {
+        "tool_use_id": "srvtoolu_0163SMRrzL9urfozeUoJZ5X8",
+        "content": [
+          {
+            "title": "Animal Farm",
+            "url": "https://www.oxac.org/Downloads/Animal%20Farm%20Packet.pdf"
+          },
+          {
+            "title": "Teaching Animal Farm Like It's Your Civic Duty - Building Book Love",
+            "url": "https://buildingbooklove.com/amp-up-animal-farm-teaching-animal-farm/"
+          },
+          {
+            "title": "Animal Farm Study Guide | Progeny Press Literature Curriculum",
+            "url": "https://stores.progenypress.com/animal-farm-study-guide/"
+          },
+          {
+            "title": "Animal Farm TheatreCloud Teachers Resource. ...",
+            "url": "https://www.cambridgeartstheatre.com/sites/default/files/inline-files/Animal Farm TheatreCloud Teachers Resource.pdf"
+          },
+          {
+            "title": "Animal Farm",
+            "url": "https://homeschool.humuhumu.com/animal-farm/"
+          },
+          {
+            "title": "Animal Farm Curriculum Teaching Resources",
+            "url": "https://www.teacherspayteachers.com/Browse/Search:animal farm curriculum"
+          },
+          {
+            "title": "Literature Study Guide for Animal Farm - 7sistershomeschool.com",
+            "url": "https://www.7sistershomeschool.com/product/animal-farm-study-guide-2/"
+          },
+          {
+            "title": "Animal Farm PDF Download Study Guide | Progeny Press Literature Curriculum",
+            "url": "https://stores.progenypress.com/animal-farm-e-guide/"
+          },
+          {
+            "title": "8th Grade ELA | Abusing Power: Animal Farm & Wicked History",
+            "url": "https://www.fishtanklearning.org/curriculum/ela/8th-grade/animal-farm/"
+          },
+          {
+            "title": "Animal Farm Lesson Plans",
+            "url": "https://www.varsitytutors.com/englishteacher/animal-farm-lesson-plans"
+          }
+        ]
+      },
+      "Based on my search results, I've found several excellent educational resources and teaching guides for Animal Farm that are suitable for youth students and curriculum study. Here are the key findings:\n\n## Professional Study Guides and Curriculum\n\nProgeny Press offers an award-winning study guide curriculum that digs into Animal Farm and examines themes of corruption and power. Their study guides are formatted with high school grade students in mind, dividing the book into writing assignments and lessons that strengthen reading comprehension, vocabulary, and refine critical analysis and writing skills. This high school level literature curriculum offers a one-quarter credit for students.\n\nThe Progeny Press curriculum includes:\n- Author biography about George Orwell and inspirations behind his works\n- Background information examining concepts of governments and economics\n- Before-you-read activities exploring Russia, allegories, and the Spanish Civil War\n- Vocabulary activities designed to improve retention and growth\n- Literary techniques including anthropomorphism, personification, foreshadowing, rhetoric, and poetic justice\n\n## Teachers Pay Teachers Resources\n\nA popular Animal Farm teaching resource by Stacey Lloyd on Teachers Pay Teachers has been highlighted as particularly helpful, forming the backbone of many learning experiences. This resource includes a 75-page teaching guide with 17 detailed, nearly-scripted classroom lessons, and a 40-page student workbook ideal for more independent learners.\n\n## Grade-Level Specific Resources\n\n### 8th Grade Curriculum\nFishtank Learning offers free, ready-to-teach 8th grade lesson plans that build students' speaking, paragraph writing, and reading skills through Animal Farm. The unit includes guided intellectual preparation with short videos, targeted readings, and action planning opportunities.\n\n### High School Resources\nTeachers Pay Teachers offers bundles for teaching classic literature to high school students, with novel studies presented chapter-by-chapter including vocabulary, comprehension questions, and challenging activities.\n\n## Key Educational Themes Covered\n\nEducational resources focus on recurring themes around power, corruption, propaganda, education, and inequalities, showing how these themes appear in our world. Students learn literary terms and political ideologies while researching Russian/Soviet history, including the revolution and introduction to communism with its brutality, deception, and failures.\n\n## Additional Features\n\nBuilding Book Love offers relevant activities, engaging lesson plans, and project ideas for teaching Animal Farm. Resources are designed to work in both printed and digital classroom formats.\n\n7Sisters Homeschool offers a unique approach with no-busywork curriculum that's adaptable to varying levels of academic rigor, allowing teens to complete coursework that is personally meaningful to their interests, needs, and goals.\n\nThese resources provide comprehensive support for educators teaching Animal Farm to youth students, with materials ranging from detailed lesson plans and student workbooks to digital resources and assessment tools, all aligned with educational standards and designed to engage students in critical thinking about the novel's themes."
+    ],
+    "durationSeconds": 39.77456491100043
+  }
+}

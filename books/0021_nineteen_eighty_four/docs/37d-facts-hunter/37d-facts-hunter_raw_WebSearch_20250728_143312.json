@@ -1,0 +1,63 @@
+{
+  "session_id": "b8c17c71-efc6-4c19-9b68-e101c36de9c9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b8c17c71-efc6-4c19-9b68-e101c36de9c9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Newspeak\" creation \"George Orwell\" linguistic principles propaganda language development \"1984\""
+  },
+  "tool_response": {
+    "query": "\"Newspeak\" creation \"George Orwell\" linguistic principles propaganda language development \"1984\"",
+    "results": [
+      "I'll search for information about Newspeak, the fictional language created by George Orwell in his novel \"1984\", focusing on its linguistic principles and development as a propaganda tool.",
+      {
+        "tool_use_id": "srvtoolu_012fMKGyFeDwmWWGb2G2pa6n",
+        "content": [
+          {
+            "title": "George Orwell Explains How \"Newspeak\" Works, the Official Language of His Totalitarian Dystopia in 1984 | Open Culture",
+            "url": "https://www.openculture.com/2017/01/george-orwell-explains-how-newspeak-works.html"
+          },
+          {
+            "title": "Newspeak - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Newspeak"
+          },
+          {
+            "title": "(PDF) THE PRINCIPLES OF NEWSPEAK OR HOW LANGUAGE DEFINES REALITY IN ORWELL' S 1984",
+            "url": "https://www.researchgate.net/publication/328514349_THE_PRINCIPLES_OF_NEWSPEAK_OR_HOW_LANGUAGE_DEFINES_REALITY_IN_ORWELL'_S_1984"
+          },
+          {
+            "title": "Newspeak in 1984 by George Orwell | Definition, Examples & Quotes - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/what-is-newspeak-in-1984.html"
+          },
+          {
+            "title": "(PDF) The Semiotics of Newspeak: Language, Power, and Thought Control in Orwell's 1984",
+            "url": "https://www.researchgate.net/publication/379404191_The_Semiotics_of_Newspeak_Language_Power_and_Thought_Control_in_Orwell's_1984"
+          },
+          {
+            "title": "1984 Newspeak: Explained, Examples & Quotes | Vaia",
+            "url": "https://www.vaia.com/en-us/explanations/english/linguistic-terms/1984-newspeak/"
+          },
+          {
+            "title": "George Orwell: Nineteen Eighty-Four -- Appendix: The principles of Newspeak",
+            "url": "https://orwell.ru/library/novels/1984/english/en_app"
+          },
+          {
+            "title": "Harnessing Words, Shaping Minds: A Comparative Analysis of Newspeak in 1984 and Language Manipulation in Animal Farm - International Journal of Research and Innovation in Social Science",
+            "url": "https://rsisinternational.org/journals/ijriss/articles/harnessing-words-shaping-minds-a-comparative-analysis-of-newspeak-in-1984-and-language-manipulation-in-animal-farm/"
+          },
+          {
+            "title": "Language in 1984 and The Concept of Newspeak",
+            "url": "https://www.llceranglais.fr/language-in-1984-and-the-concept-of-newspeak.html"
+          },
+          {
+            "title": "Newspeak in George Orwell\u2019s \u201c1984\u201d",
+            "url": "https://linguisticus.wordpress.com/2015/09/18/newspeak-in-george-orwells-1984/"
+          }
+        ]
+      },
+      "Based on the search results, I've found comprehensive information about Newspeak, the fictional language created by George Orwell in his novel \"1984\". Here's what I've learned about its creation, linguistic principles, and role as a propaganda tool:\n\n## Creation and Purpose of Newspeak\n\nIn the dystopian novel Nineteen Eighty-Four (also published as 1984), by George Orwell, Newspeak is the fictional language of Oceania, a totalitarian superstate. To meet the ideological requirements of Ingsoc (English Socialism) in Oceania, the Party created Newspeak, which is a controlled language of simplified grammar and limited vocabulary designed to limit a person's ability for critical thinking.(no content)The purpose of Newspeak was not only to provide a medium of expression for the world-view and mental habits proper to the devotees of Ingsoc, but to make all other modes of thought impossible.\n\n## Linguistic Principles\n\n### 1. **Vocabulary Reduction**\nNewspeak isn't just a set of buzzwords, but the deliberate replacement of one set of words in the language for another.(no content)It is the only language that regularly loses words in order to narrow the range of thought.(no content)\"We're destroying words\u2014scores of them, hundreds of them, every day. We're cutting the language down to the bone.\"\n\n### 2. **Three Vocabulary Classes**\nNewspeak words are classified by three distinct classes: the A, B, and C vocabularies. The words of the A vocabulary describe the functional concepts of daily life (e.g. eating and drinking, working and cooking). It consists mostly of English words, but they are very small in number compared to English, and each word's meanings are \"far more rigidly defined\" than in English. The words of the B vocabulary are deliberately constructed for political purposes to convey complex ideas in a simple form. They are compound words and noun-verbs with political significance that are meant to impose and instill in Oceania's citizens the correct mental attitudes required by the Party.\n\n### 3. **Grammatical Simplification**\nOrwell dispassionately discusses the \"perfected\" form of Newspeak, including its grammatical \"peculiarities,\" such as \"an almost complete interchangeability between different parts of speech\"(no content)Its vocabulary was so constructed as to give exact and often very subtle expression to every meaning that a Party member could properly wish to express, while excluding all other meanings and also the possibility of arriving at them by indirect methods. This was done partly by the invention of new words, but chiefly by eliminating undesirable words and by stripping such words as remained of unorthodox meanings, and so far as possible of all secondary meanings whatever.\n\n### 4. **Word Formation Principles**\nExamples include:\n- \"ungood\" instead of \"bad\" (exact opposite of \"good\"), and intensifiers like \"plusgood\" or \"doubleplusgood\" instead of words like \"excellent\"\n- \"uncold\" for warm, \"pluscold and doublepluscold\" for \"very cold\" and \"superlatively cold\"\n- Compound words like \"joycamp (forced-labor camp)\" and \"Minipax (Ministry of Peace)\"\n\n## Development as Propaganda Language\n\n### Linguistic Determinism\nLinguistic determinism is the idea that human knowledge and thought are determined and structured by language. For Orwell, language is the basis of human thought because it structures and shapes the way we think and the way we see the world. It can also limit the ideas that we are capable of formulating and expressing. According to Orwell, totalitarian regimes can use language to limit and restrict certain ideas : \"If thoughts can corrupt language, language can also corrupt thoughts.\" Without a word for \"rebellion\", for instance, the concept of rebellion itself can no longer exist.\n\n### Political Control Through Language\nThe Party created Newspeak, which is a controlled language of simplified grammar and limited vocabulary designed to limit a person's ability for critical thinking. The Newspeak language thus limits the person's ability to articulate and communicate abstract concepts, such as personal identity, self-expression, and free will, which are thoughtcrimes, acts of personal independence that contradict the ideological orthodoxy of Ingsoc collectivism.(no content)The word free still existed in Newspeak, but it could only be used in such statements as 'This dog is free from lice' or 'This field is free from weeds'. It could not be used in its old sense of 'politically free' or 'intellectually free' since political and intellectual freedom no longer existed even as concepts, and were therefore of necessity nameless.\n\n### Implementation Timeline\nThe transition is still in progress in the fictional 1984, but is expected to be completed \"by about the year 2050.\" Students of history and linguistics will recognize that this is a ludicrously accelerated pace for the complete replacement of one vocabulary and syntax by another.\n\n## Connection to Real-World Propaganda\n\nAs with examples of compound words in the political language of the 20th century\u2014Nazi, Gestapo, Politburo, Comintern, Inprecor, Agitprop, and many others\u2014Orwell remarks that the Party believed that abbreviating a name could \"narrowly and subtly\" alter a word's meaning. Newspeak is supposed to make this effort a conscious purpose: [...]Comintern is a word that can be uttered almost without taking thought, whereas Communist International is a phrase over which one is obliged to linger at least momentarily. In the same way, the associations called up by a word like Minitrue are fewer and more controllable than those called up by Ministry of Truth.\n\n## Influences on Orwell's Creation\n\nAs a constructed language, Newspeak is a language of planned phonology, limited grammar, and finite vocabulary, much like the phonology, grammar, and vocabulary of Basic English (British American Scientific International Commercial English), which was proposed by the British linguist Charles Kay Ogden in 1930. As a controlled language without complex constructions or ambiguous usages, Basic English was designed to be easy to learn, to sound, and to speak, with a vocabulary of 850 words composed specifically to facilitate the communication of facts, not the communication of abstract thought. While employed as a propagandist by BBC during the Second World War (1939\u20131945), Orwell grew to believe that the constructions of Basic English, as a controlled language, imposed functional limitations upon the speech, the writing, and the thinking of the users.(no content)\"Politics and the English Language\" (1946) and in \"The Principles of Newspeak\" appendix to Nineteen Eighty-Four (1949), Orwell discusses the communication function of English and contemporary ideological changes in usage during the 1940s.\n\nNewspeak represents Orwell's profound warning about how language can be weaponized by totalitarian regimes to control thought itself, making it impossible for citizens to even conceive of resistance or alternative ways of thinking."
+    ],
+    "durationSeconds": 67.882820718
+  }
+}

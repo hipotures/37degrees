@@ -1,0 +1,63 @@
+{
+  "session_id": "715f4a06-6795-4697-b7aa-4344b3e12664",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/715f4a06-6795-4697-b7aa-4344b3e12664.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Lalka Boles\u0142aw Prus film adaptations movies television complete list"
+  },
+  "tool_response": {
+    "query": "Lalka Boles\u0142aw Prus film adaptations movies television complete list",
+    "results": [
+      "I'll search for information about film and television adaptations of \"Lalka\" (The Doll) by Boles\u0142aw Prus.",
+      {
+        "tool_use_id": "srvtoolu_017LkfVUsHCHCMrhtkLX4wHh",
+        "content": [
+          {
+            "title": "The Doll (Lalka) 1968 with English subtitles",
+            "url": "https://easterneuropeanmovies.com/melodrama/the-doll"
+          },
+          {
+            "title": "Lalka - rekonstrukcja filmowa, Ogl\u0105daj na TVP VOD",
+            "url": "https://vod.tvp.pl/rekonstrukcja-filmowa,158/lalka-odcinki,286741"
+          },
+          {
+            "title": "Lalka - TVP rekonstrukcja - Telewizja Polska S.A.",
+            "url": "https://cyfrowa.tvp.pl/website/lalka,42036001"
+          },
+          {
+            "title": "Lalka (1968) \u2b50 6.9 | Drama, Romance",
+            "url": "https://www.imdb.com/title/tt0064570/"
+          },
+          {
+            "title": "Lalka | Film | 1968",
+            "url": "https://www.filmweb.pl/film/Lalka-1968-1174"
+          },
+          {
+            "title": "Lalka (1968) film online - Gdzie obejrze\u0107: Netflix | MAX | Prime | Disney+ | Filmweb",
+            "url": "https://www.filmweb.pl/film/Lalka-1968-1174/vod"
+          },
+          {
+            "title": "Lalka | Film | 2026",
+            "url": "https://www.filmweb.pl/film/Lalka-2026-10057628"
+          },
+          {
+            "title": "Amazon.com: Boleslaw Prus - Lalka: The Doll : Movies & TV",
+            "url": "https://www.amazon.com/Boleslaw-Prus-Lalka-The-Doll/dp/B005R8BQBW"
+          },
+          {
+            "title": "Lalka (film) \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Lalka_(film)"
+          },
+          {
+            "title": "Lalka (Serial TV 1977-1977) - Filmweb",
+            "url": "https://www.filmweb.pl/serial/Lalka-1977-35878"
+          }
+        ]
+      },
+      "Based on my search results, I can provide you with information about the film and television adaptations of \"Lalka\" (The Doll) by Boles\u0142aw Prus:\n\n## Film Adaptations:\n\n1. **Lalka (1968)** - Film adaptation\n   - Directed by Wojciech Jerzy Has\n   - Adaptation of the novel \"The Doll\" by Boles\u0142aw Prus\n   - Cast includes Beata Tyszkiewicz, Mariusz Dmochowski, and Tadeusz Fijewski\n   - Won Grand Prix and four awards at the International Film Festival in Panama\n   - The production budget was 35 million z\u0142oty\n\n2. **Lalka (2026)** - Upcoming film\n   - A new adaptation about a wealthy Warsaw merchant who falls in love with an impoverished aristocrat\n   - Filming has begun\n\n## Television Adaptations:\n\n1. **Lalka (1977-1978)** - TV series\n   - Television adaptation of Boles\u0142aw Prus's novel\n   - Directed by Ryszard Ber\n   - Stars Jerzy Kamas as Stanis\u0142aw Wokulski and Ma\u0142gorzata Braunek as Izabela \u0141\u0119cka\n   - Bronis\u0142aw Pawlik played Ignacy Rzecki\n   - The TV series gained sympathy from a large portion of viewers\n   - A digitally reconstructed version was created based on this TV series\n\nThe search results indicate that there have been at least two major adaptations of \"Lalka\" - the 1968 film by Wojciech Has and the 1977-1978 television series by Ryszard Ber. The TV series proved to be more popular than Has's film, as viewers expected realistic depictions of Warsaw life and the failed romance between the merchant and the countess. Additionally, a new film adaptation is planned for release in 2026."
+    ],
+    "durationSeconds": 22.92847202800028
+  }
+}

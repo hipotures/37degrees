@@ -1,0 +1,63 @@
+{
+  "session_id": "e18f7f1c-5883-41e4-8ef9-15aee4aa266b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e18f7f1c-5883-41e4-8ef9-15aee4aa266b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Wielki Gatsby\" uniwersytet polskie uczelnie literatura ameryka\u0144ska wyk\u0142ady"
+  },
+  "tool_response": {
+    "query": "\"Wielki Gatsby\" uniwersytet polskie uczelnie literatura ameryka\u0144ska wyk\u0142ady",
+    "results": [
+      "I'll search for information about \"The Great Gatsby\" (Wielki Gatsby) in the context of Polish universities teaching American literature.",
+      {
+        "tool_use_id": "srvtoolu_013s1izhykkhUPdaFCu3JtAf",
+        "content": [
+          {
+            "title": "Wielki Gatsby \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Wielki_Gatsby"
+          },
+          {
+            "title": "Wielki Gatsby - Wydawnictwo SBM",
+            "url": "https://www.wydawnictwosbm.pl/ksiazka/wielki-gatsby/"
+          },
+          {
+            "title": "Wielki Gatsby",
+            "url": "https://www.empik.com/wielki-gatsby-fitzgerald-f-scott,p1069457833,ksiazka-p"
+          },
+          {
+            "title": "100 najlepszych ksi\u0105\u017cek z listy ameryka\u0144skich lektur szkolnych - KlaudynaMaciag.pl",
+            "url": "https://klaudynamaciag.pl/2017/10/amerykanskie-lektury-szkolne/"
+          },
+          {
+            "title": "\u201eWielki Gatsby\u201d ko\u0144czy sto lat. Jak si\u0119 go czyta w czasach Trumpa?",
+            "url": "https://www.polityka.pl/tygodnikpolityka/kultura/2294927,1,wielki-gatsby-konczy-sto-lat-jak-sie-go-czyta-w-czasach-trumpa.read"
+          },
+          {
+            "title": "T\u0142umacz jako marka? O tym, co zast\u0105pi\u0142o kryteria w internetowej recepcji przek\u0142adu Wielkiego Gatsby\u2019ego Francisa Scotta Fitzgeralda | Mi\u0119dzy Orygina\u0142em a Przek\u0142adem",
+            "url": "https://journals.akademicka.pl/moap/article/view/1834"
+          },
+          {
+            "title": "Wielki Gatsby - opracowanie (czas i miejsce akcji, narrator, motywy)",
+            "url": "https://eszkola.pl/jezyk-polski/wielki-gatsby-opracowanie-9780.html"
+          },
+          {
+            "title": "Lektury Lirael: \"Wielki Gatsby\" w nowej ods\u0142onie",
+            "url": "http://lekturylirael.blogspot.com/2013/04/wielki-gatsby-w-nowej-odsonie_29.html"
+          },
+          {
+            "title": "Literatura ameryka\u0144ska w pigu\u0142ce. Co musisz o niej wiedzie\u0107? - SkupSzop.pl",
+            "url": "https://skupszop.pl/blog/literatura-amerykanska-w-pigulce-co-musisz-o-niej-wiedziec"
+          },
+          {
+            "title": "Wielki Gatsby | choices\u00ae | edukacja i us\u0142ugi j\u0119zykowe",
+            "url": "https://choices.com.pl/englishtogo/wielki-gatsby/"
+          }
+        ]
+      },
+      "Based on the search results, I found some information about \"The Great Gatsby\" (Wielki Gatsby) in the context of Polish universities and American literature studies, though the results don't provide extensive details about specific university courses.\n\nHere's what I found:\n\n## \"Wielki Gatsby\" in Polish Academic Context\n\nThe Great Gatsby is an American novel by Francis Scott Fitzgerald from 1925. Currently it is often discussed in American high schools.\n\n### American Literature in Polish Education\n\nThe Great Gatsby by F. Scott Fitzgerald is listed as the third book on the list of 100 best American school readings. Polish commentators note that the American educational system's literary canon is more diverse, more accessible to students, and less discouraging to reading than the Polish one, with many American school readings potentially encouraging young people to read more.\n\n### Polish Translations and Academic Reception\n\nThe novel has had multiple Polish translations, with Internet reception analysis of Jacek Dehnel's translation of The Great Gatsby being studied in academic journals. The academic journal article mentions Universitas, Krak\u00f3w as one of the publishing houses involved in academic discussions about the novel.\n\n### Contemporary Academic Interest\n\nAs of 2025, the novel is marking 100 years since its publication, with discussions about how it's read in Trump's era. The article mentions a graduate of Jagiellonian University discussing the novel's relevance.\n\nWhile the search results don't provide specific information about university lectures on \"The Great Gatsby\" at Polish universities, they do indicate that:\n\n1. The novel is recognized as an important work of American literature in Poland\n2. It has been translated multiple times into Polish\n3. Academic journals discuss its translations and reception\n4. It's considered part of the canon of American literature that Polish educators find more engaging than some Polish canonical works\n\nFor more specific information about university courses and lectures on American literature featuring \"The Great Gatsby\" at Polish universities, you might need to search for specific university course catalogs or departmental websites."
+    ],
+    "durationSeconds": 25.510397001999895
+  }
+}

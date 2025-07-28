@@ -1,0 +1,119 @@
+{
+  "session_id": "7ca65eb2-e5d0-4143-8931-90f15001b62e",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7ca65eb2-e5d0-4143-8931-90f15001b62e.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Anna Karenina\" polscy BookTuberzy TikTok BookTok m\u0142odzi Polacy"
+  },
+  "tool_response": {
+    "query": "\"Anna Karenina\" polscy BookTuberzy TikTok BookTok m\u0142odzi Polacy",
+    "results": [
+      "I'll search for information about Polish BookTubers and BookTok creators discussing \"Anna Karenina\" among young Polish audiences.",
+      {
+        "tool_use_id": "srvtoolu_01NMBneF4punoFKM6JKsfzS9",
+        "content": [
+          {
+            "title": "Anna Karenina",
+            "url": "https://www.tiktok.com/discover/anna-karenina"
+          }
+        ]
+      },
+      "Let me try a more focused search to find Polish BookTok content about Anna Karenina.",
+      {
+        "tool_use_id": "srvtoolu_01NS9ABvMgr6AvPXG6fbtRww",
+        "content": [
+          {
+            "title": "Anna Karenina - Lew To\u0142stoj | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5043957/anna-karenina"
+          },
+          {
+            "title": "Anna Karenina \u2022 To\u0142stoj Lew \u2022 ksi\u0105\u017cka - recenzje, opisy, opinie \u00bb BiblioNETka.pl",
+            "url": "https://www.biblionetka.pl/book.aspx?id=2324"
+          },
+          {
+            "title": "Anna Karenina - Recenzje - strona 2",
+            "url": "https://www.empik.com/anna-karenina-tolstoj-lew,p1054656786,ksiazka-p/recenzje?page=2"
+          },
+          {
+            "title": "Lew To\u0142stoj \u2013 \"Anna Karenina\" | Subiektywnie o ksi\u0105\u017ckach",
+            "url": "https://www.subiektywnieoksiazkach.pl/2014/01/lew-tostoj-anna-karenina.html"
+          },
+          {
+            "title": "Anna Karenina - Lew To\u0142stoj - Recenzje ksi\u0105\u017cek z ka\u017cdej p\u00f3\u0142ki - MoznaPrzeczytac.pl",
+            "url": "https://moznaprzeczytac.pl/anna-karenina-lew-tolstoj/"
+          },
+          {
+            "title": "Anna Karenina - Recenzja ksi\u0105\u017cki Anna Karenina - nakanapie.pl",
+            "url": "https://nakanapie.pl/recenzje/anna-karenina-anna-karenina-tom-i"
+          },
+          {
+            "title": "Recenzja ksi\u0105\u017cki Anna Karenina \u2022 To\u0142stoj Lew \u2022 opinie, oceny \u00bb BiblioNETka.pl",
+            "url": "https://www.biblionetka.pl/art.aspx?id=930626"
+          },
+          {
+            "title": "Anna Karenina - Lew To\u0142stoj - Recenzja ksi\u0105\u017cki Anna Karenina - nakanapie.pl",
+            "url": "https://nakanapie.pl/recenzje/anna-karenina-lew-tolstoj-anna-karenina"
+          },
+          {
+            "title": "Anna Karenina Lew To\u0142stoj ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/anna-karenina-lew-tolstoj"
+          },
+          {
+            "title": "Anna Karenina",
+            "url": "https://www.wydawnictwoznak.pl/ksiazka/Anna-Karenina/3502"
+          }
+        ]
+      },
+      "Let me search for more specific information about Polish BookTubers and their reviews of Anna Karenina.",
+      {
+        "tool_use_id": "srvtoolu_017bMyBUFuTeYApNJyf71jb2",
+        "content": [
+          {
+            "title": "Kana\u0142y o ksi\u0105\u017ckach na Youtube. 10 najciekawszych [LISTA]",
+            "url": "https://natemat.pl/338083,kanaly-o-ksiazkach-na-youtube-lista"
+          },
+          {
+            "title": "Zapoczytalna: TOP 10 moich ulubionych polskich booktuber\u00f3w",
+            "url": "http://zapoczytalna.blogspot.com/2016/11/top-10-moich-ulubionych-polskich.html"
+          },
+          {
+            "title": "Kana\u0142y ksi\u0105\u017ckowe na YouTube. Tych bloger\u00f3w warto zna\u0107, aby by\u0107 na bie\u017c\u0105co \u2013 Twoja Ksi\u0119garnia",
+            "url": "https://www.twojaksiegarnia.pl/kanaly-ksiazkowe-you-tube/"
+          },
+          {
+            "title": "Dolina Ksi\u0105\u017cek: Moi ulubieni booktuberzy cz.2",
+            "url": "http://calm-inside-the-storm.blogspot.com/2017/10/moi-ulubieni-booktuberzy-cz2.html"
+          },
+          {
+            "title": "Polscy Booktuberzy Tag - Secret-Books",
+            "url": "http://secret-books.blogspot.com/2015/07/polscy-booktuberzy-tag.html"
+          },
+          {
+            "title": "BookTube, czyli o ksi\u0105\u017ckach na Youtube - nakanapie.pl",
+            "url": "https://nakanapie.pl/a/booktube-czyli-o-ksiazkach-na-youtube"
+          },
+          {
+            "title": "Anna Karenina - Lew To\u0142stoj | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5043957/anna-karenina"
+          },
+          {
+            "title": "Ksi\u0105\u017ckownia: Polscy Booktuberzy TAG",
+            "url": "http://ksiazkowniaa.blogspot.com/2015/04/jestem-na-facebooku-polscy-booktuberzy.html"
+          },
+          {
+            "title": "Obejrzyj Anna Karenina online \u2014 Prime Video",
+            "url": "https://www.primevideo.com/-/pl/detail/Anna-Karenina/0JXIZMDTNPXPRE2OMT4SFN02EO"
+          },
+          {
+            "title": "Booktuberzy i bookstagramerzy polecaj\u0105 na Gwiazdk\u0119 - Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/aktualnosci/varia/11198/booktuberzy-i-bookstagramerzy-polecaja-na-gwiazdke"
+          }
+        ]
+      },
+      "Based on my search results, I found information about Polish BookTubers and book content creators discussing literature, including classic works like \"Anna Karenina.\" Here's what I discovered:\n\n## Polish BookTubers and \"Anna Karenina\" Reviews\n\nWhile I didn't find specific BookTok/TikTok content about \"Anna Karenina\" among young Polish creators, I found several relevant insights:\n\n### Polish Book Review Community\nThe Polish reader community has extensively reviewed \"Anna Karenina,\" with readers noting that the book has an almost 900-page length but remains engaging throughout. Many Polish readers appreciate it as a literary classic that deserves its reputation.\n\n### BookTube Community in Poland\nBookTube is a community that has formed within the YouTube platform, consisting of book-focused channels and their audiences. BookTube is becoming an increasingly significant phenomenon in Poland.\n\n### Popular Polish BookTubers\nThe search results mention several popular Polish BookTubers:\n- Anna from \"Wyznania ksi\u0105\u017ckoholiczki\" (Confessions of a Bookaholic) blog, described as a lovely booktuber who clearly loves books and has much to say about them\n- Maja, whose videos are always of excellent quality and well-edited, who has recently started making vlogs combined with reviews\n- Anita from \"Book Reviews by Anita,\" described as unique, hilarious, and lovely, whose book recommendations have been consistently reliable\n\n### Reader Reception of \"Anna Karenina\" in Poland\nPolish readers have shown great appreciation for the novel:\n- One reader mentions it as one of their favorite books, reading it even three times a year despite its length, finding Anna reveals different aspects of herself with each reading\n- A reviewer notes that \"Anna Karenina\" was their favorite classic read of the year, appreciating it from the very first sentence to the powerful ending delivered through Levin's perspective\n\n### Modern Adaptations and Youth Interest\nThe 2012 film adaptation directed by Joe Wright, starring Keira Knightley and Jude Law, has renewed interest in Tolstoy's novel, particularly among younger audiences who discovered the book through the movie\n\nWhile the search didn't reveal specific TikTok BookTok content about \"Anna Karenina\" by young Polish creators, the strong presence of Polish BookTubers on YouTube and the enthusiastic reception of the novel in Polish reading communities suggests that classic literature like Tolstoy's work continues to find new audiences among young Polish readers through various social media platforms."
+    ],
+    "durationSeconds": 39.92076213100017
+  }
+}

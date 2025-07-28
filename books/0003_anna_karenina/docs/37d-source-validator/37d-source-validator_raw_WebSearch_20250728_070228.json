@@ -1,0 +1,63 @@
+{
+  "session_id": "7ca65eb2-e5d0-4143-8931-90f15001b62e",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7ca65eb2-e5d0-4143-8931-90f15001b62e.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Anna Karenina film adaptations 27 total 1907-2012 Greta Garbo 1935 Rotten Tomatoes 93%"
+  },
+  "tool_response": {
+    "query": "Anna Karenina film adaptations 27 total 1907-2012 Greta Garbo 1935 Rotten Tomatoes 93%",
+    "results": [
+      "I'll search for information about Anna Karenina film adaptations, particularly focusing on the details you've mentioned.",
+      {
+        "tool_use_id": "srvtoolu_0131v4rfKkuCwbQnK5FGqiL1",
+        "content": [
+          {
+            "title": "Anna Karenina (1935 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Anna_Karenina_(1935_film)"
+          },
+          {
+            "title": "Anna Karenina | Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/m/1001063-anna_karenina"
+          },
+          {
+            "title": "Anna Karenina (1935) Movie Reviews - Fan Reviews and Ratings | Fandango",
+            "url": "https://www.fandango.com/anna-karenina-1935-104527/movie-reviews"
+          },
+          {
+            "title": "A Look At Two Versions Of Anna Karenina (1935 and 1948) \u2013 Silver Screen Classics",
+            "url": "https://silverscreenclassicsblog.wordpress.com/2020/04/03/a-look-at-two-versions-of-anna-karenina-1935-and-1948/"
+          },
+          {
+            "title": "These are the only Anna Karenina adaptations you actually need to know about. \u2039 Literary Hub",
+            "url": "https://lithub.com/these-are-the-only-anna-karenina-adaptations-you-actually-need-to-know-about/"
+          },
+          {
+            "title": "Anna Karenina | Romantic Drama, Leo Tolstoy, Greta Garbo | Britannica",
+            "url": "https://www.britannica.com/topic/Anna-Karenina-film"
+          },
+          {
+            "title": "Adaptations of Anna Karenina - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Adaptations_of_Anna_Karenina"
+          },
+          {
+            "title": "Anna Karenina at the movies, Garbo & Rathbone (1935) to Leigh & Richardson (1948); a Virginia Woolf column \u2013 Ellen And Jim Have A Blog, Two",
+            "url": "https://ellenandjim.wordpress.com/2018/01/23/anna-kareninaatthemoviesgarborathbonetoleighrichardson/"
+          },
+          {
+            "title": "Anna Karenina | Reviews | Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/m/1001063-anna_karenina/reviews"
+          },
+          {
+            "title": "Amazon.com: Anna Karenina (1935) : Greta Garbo, Fredric March, Freddie Bartholomew, Maureen O'Sullivan, May Robson, Basil Rathbone, Reginald Owen, Phoebe Foster, Reginald Denny, Gyles Isham, Joan Marsh, Ethel Griffies, Clarence Brown, Clemence Dane, Leo Tolstoy, S.N. Behrman, Salka Viertel: Movies & TV",
+            "url": "https://www.amazon.com/Anna-Karenina-Greta-Garbo/dp/B0009S4IIS"
+          }
+        ]
+      },
+      "Based on the search results, I found information about Anna Karenina film adaptations, particularly focusing on the 1935 version starring Greta Garbo. Here are the key findings:\n\n## Anna Karenina (1935) - Greta Garbo Version\n\nThe 1935 Anna Karenina was a Metro-Goldwyn-Mayer film adaptation directed by Clarence Brown, starring Greta Garbo, Fredric March, Basil Rathbone, and Maureen O'Sullivan.\n\n### Critical Reception\n\nThe film holds a 93% approval rating on Rotten Tomatoes, confirming the percentage you mentioned. Greta Garbo received a New York Film Critics Circle Award for Best Actress for her role as Anna.(no content)\"The most famous and critically-acclaimed of all the Annas Karenina, Greta Garbo's anguished performance became the yardstick against which all future screen Annas were measured.\"\n\n### Commercial Success\n\nThe film earned $2,304,000 at the box office, and won the Mussolini Cup for best foreign film at the Venice Film Festival.\n\n## Other Film Adaptations\n\nWhile I couldn't find specific confirmation of exactly 27 total adaptations from 1907-2012, the search results do show numerous adaptations:\n\nEarly adaptations include: a 1911 French/Russian adaptation, a 1914 Russian adaptation directed by Vladimir Gardin, and a 1915 American version starring Danish actress Betty Nansen.(no content)In 1927, there was an American version called \"Love\" starring Greta Garbo and directed by Edmund Goulding.(no content)Later adaptations include the 1948 film starring Vivien Leigh and Ralph Richardson, a 1953 Russian version, and various international adaptations including a 1954 Tamil version and a 1960 Egyptian movie.\n\nThe search results indicate there have been numerous adaptations across different decades and countries, though the exact count of 27 adaptations from 1907-2012 wasn't explicitly confirmed in these results."
+    ],
+    "durationSeconds": 22.140142510999926
+  }
+}

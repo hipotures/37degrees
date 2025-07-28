@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Task",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/home/xai/DEV/37degrees/.claude/hooks/control-agent-cwd.py"
+          }
+        ]
+      }
+    ]
+  }
+}

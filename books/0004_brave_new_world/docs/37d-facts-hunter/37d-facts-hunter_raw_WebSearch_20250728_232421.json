@@ -1,0 +1,62 @@
+{
+  "session_id": "9588e4fa-c119-4986-be3b-1d3af7769f8f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/9588e4fa-c119-4986-be3b-1d3af7769f8f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Brave New World\" 1932 publication Chatto Windus first edition reviews initial reception critics"
+  },
+  "tool_response": {
+    "query": "\"Brave New World\" 1932 publication Chatto Windus first edition reviews initial reception critics",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_018eqwuPpSgzCfb9MsAti9oK",
+        "content": [
+          {
+            "title": "Brave New World by Aldous Huxley, First Edition - AbeBooks",
+            "url": "https://www.abebooks.com/servlet/SearchResults?yrh=1932&fe=on&yrl=1932&bi=0&ds=30&bx=off&pics=on&sortby=1&tn=Brave+New+World&dj=on&an=Aldous+Huxley&recentlyadded=all&cm_sp=pan-_-srp-_-ptall"
+          },
+          {
+            "title": "Brave New World - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World"
+          },
+          {
+            "title": "Brave New World. First Edition (1932) - Ulysses Rare Books",
+            "url": "https://www.rarebooks.ie/books/english-and-american-literature/brave-new-world-first-edition-1932-4/"
+          },
+          {
+            "title": "Brave New World by Huxley, Chatto - AbeBooks",
+            "url": "https://www.abebooks.com/servlet/SearchResults?an=Huxley&bi=0&bx=off&ds=30&pn=Chatto&recentlyadded=all&sortby=1&tn=Brave+New+World&x=0&y=0&yrh=1932&yrl=1932"
+          },
+          {
+            "title": "Brave New World by Huxley, Aldous | | 1932 | Chatto & Windus | BIBLIO",
+            "url": "https://www.biblio.com/book/brave-new-world-huxley-aldous/d/1439039921"
+          },
+          {
+            "title": "Brave New World by Aldous Huxley",
+            "url": "https://www.biblio.com/brave-new-world-by-aldous-huxley/work/5640"
+          },
+          {
+            "title": "Brave New World | Summary, Context, & Reception | Britannica",
+            "url": "https://www.britannica.com/topic/Brave-New-World"
+          },
+          {
+            "title": "Brave New World, First Edition - AbeBooks",
+            "url": "https://www.abebooks.com/servlet/SearchResults?yrh=1932&x=0&fe=on&y=0&bi=0&ds=30&sts=t&bx=on&sortby=1&tn=Brave+New+World&recentlyadded=all"
+          },
+          {
+            "title": "BRAVE NEW WORLD BY ALDOUS HUXLEY 1932 FIRST EDITION \u2013 MFR Rare Books",
+            "url": "https://rarebooksboutique.com/products/brave-new-world-by-aldous-huxley-1932-first-edition"
+          },
+          {
+            "title": "REVIEW: Brave New World (1932) \u2013 r. w. thorne",
+            "url": "https://rwthorneblog.wordpress.com/2022/12/31/review-brave-new-world-1932/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about the 1932 publication of \"Brave New World\" by Chatto & Windus and its initial reception:\n\n## Publication Details\n\nBrave New World is a dystopian novel by English author Aldous Huxley, written in 1931, and published in 1932. The first UK printing was published by Chatto and Windus, London in 1932. \n\nThe first edition was published in London in 1932 by Chatto & Windus in blue cloth with the top edge stained blue and an iconic blue and white illustrated jacket. In Great Britain, before the general trade edition, Chatto & Windus offered a signed, numbered run of 324 copies, 314 of which were released for general sale.\n\n## Critical Reception\n\nThe initial critical reception appears to have been quite positive. One of the few science fiction novels of the 1930s that was considered a major work by the critics. Brave New World came after Huxley's commercial and critical success for his previous works, so Huxley's publishers anticipated another success.\n\nAlongside Orwell's '1984,' Brave New World stands out as one of the classic dystopian novels of the 20th century. One of the defining novels of the twentieth century, a dystopian vision which distils the fears arising from scientific advance, just as Orwell's 1984 did for those arising from the misuse of progressive political theory.\n\n## Later Recognition\n\nThe novel's lasting impact is evident in its continued recognition: In 1998 and 1999, the Modern Library ranked Brave New World at number 5 on its list of the 100 Best Novels in English of the 20th century.\n\n## Early Controversy\n\nHowever, the book also faced some early censorship: In 1932, the book was banned in Ireland for its language, and for supposedly being anti-family and anti-religion.\n\nThe search results indicate that the novel was well-received critically from its initial publication, being recognized as a significant work of science fiction and dystopian literature, though it also generated some controversy due to its content."
+    ],
+    "durationSeconds": 19.314167873999978
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "session_id": "ac25dab5-19ee-43b4-8689-cf24d65d211d",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ac25dab5-19ee-43b4-8689-cf24d65d211d.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Alice in Wonderland pierwsze wydanie polskie t\u0142umaczenie Alicja w Krainie Czar\u00f3w"
+  },
+  "tool_response": {
+    "query": "Alice in Wonderland pierwsze wydanie polskie t\u0142umaczenie Alicja w Krainie Czar\u00f3w",
+    "results": [
+      "I'll search for information about the first Polish edition and translation of \"Alice in Wonderland\" (Alicja w Krainie Czar\u00f3w).",
+      {
+        "tool_use_id": "srvtoolu_01Py9KGidEocgtaH4Rj2181A",
+        "content": [
+          {
+            "title": "Alicja w Krainie Czar\u00f3w \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Alicja_w_Krainie_Czar%C3%B3w"
+          },
+          {
+            "title": "Alice's Adventures in Wonderland. Alicja w Krainie Czar\u00f3w z podr\u0119cznym s\u0142ownikiem angielsko-polskim",
+            "url": "https://www.empik.com/alice-s-adventures-in-wonderland-alicja-w-krainie-czarow-carroll-lewis,p1130937929,ksiazka-p"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w - Lewis Carroll | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/4988571/alicja-w-krainie-czarow"
+          },
+          {
+            "title": "Alice in Wonderland. Ju\u017c czytam po angielsku",
+            "url": "https://www.zielonasowa.pl/alice-in-wonderland-juz-czytam-po-angielsku-14268.html"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w cytaty | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/cytaty/4988571/ksiazka/alice-s-adventures-in-wonderland-alicja-w-krainie-czarow-z-podrecznym-slownikiem-angielsko-polskim"
+          },
+          {
+            "title": "Alice in Wonderland/ Alicja w Krainie Czar\u00f3w",
+            "url": "https://sklep.nowaera.pl/product/alice-in-wonderland-alicja-w-krainie-czarow-t26143"
+          },
+          {
+            "title": "Alice in Wonderland. Alicja w Krainie Czar\u00f3w w wersji do nauki angielskiego Lewis Carroll | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/alice-in-wonderland-alicja-w-krainie-czarow-w-wersji-do-nauki-angielskiego-lewis-carroll-p-1654832.html"
+          },
+          {
+            "title": "\"Alice's Adventures in Wonderland / Alicja w krainie czar\u00f3w\" Lewis Carroll. Ebook - Ksi\u0119garnia ekonomiczna Onepress.pl - ksi\u0105\u017cki klasy business",
+            "url": "https://onepress.pl/ksiazki/alice-s-adventures-in-wonderland-alicja-w-krainie-czarow-lewis-carroll,e_c2oj.htm"
+          },
+          {
+            "title": "Alicja (Alicja w Krainie Czar\u00f3w) \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.m.wikipedia.org/wiki/Alicja_(Alicja_w_Krainie_Czar%C3%B3w)"
+          },
+          {
+            "title": "\u201eAlicja w Krainie Czar\u00f3w\u201d \u2013 lista polskich t\u0142umacze\u0144 | Through The Looking Glass....",
+            "url": "https://krainaczarow.wordpress.com/2010/07/25/alicja-w-krainie-czarow-lista-polskich-tlumaczen/"
+          }
+        ]
+      },
+      "Based on the search results, I found information about the first Polish edition and translation of \"Alice in Wonderland\" (Alicja w Krainie Czar\u00f3w):\n\nThe first Polish translation was titled \"Przygody Alinki w krainie cud\u00f3w\" (The Adventures of Alinka in the Land of Wonders).\n\nThe first Polish translation was published in 1910 by translator Adela S. However, the book is not available in the National Library, and the translator's full surname is not known.\n\nThe first Polish translators rendered \"Wonderland\" as \"Kraina Czar\u00f3w\" (Land of Magic/Enchantment), although there is no magic in the book.\n\nThe search results also mention several other Polish translations that followed:\n- Maria Morawska's translation\n- Antoni Marianowicz's version published in 1969\n- An edition from 1986 translated by Stiller with illustrations by Du\u0161an K\u00e1llay gained popularity\n- In 1999, Jolanta Kozak's translation was notable for being faithful to the original titles, translating \"Alice's Adventures in Wonderland\" as \"Przygody Alicji w Krainie Czar\u00f3w\" and including both parts in one book\n- In 2010, Bogumi\u0142a Kaniewska published a translation that was faithful to the original and contained both parts\n\nSo the first Polish edition was published in 1910, translated by someone known only as Adela S., with the title \"Przygody Alinki w krainie cud\u00f3w\" (using the diminutive form \"Alinka\" instead of \"Alicja\")."
+    ],
+    "durationSeconds": 19.888142938999923
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "session_id": "b8c17c71-efc6-4c19-9b68-e101c36de9c9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b8c17c71-efc6-4c19-9b68-e101c36de9c9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Poland EU GDPR privacy laws teenagers awareness digital rights 2024 youth protection"
+  },
+  "tool_response": {
+    "query": "Poland EU GDPR privacy laws teenagers awareness digital rights 2024 youth protection",
+    "results": [
+      "I'll search for information about Poland's implementation of EU GDPR privacy laws and youth awareness of digital rights in 2024.",
+      {
+        "tool_use_id": "srvtoolu_011qRDZN8h4JvztqheWUUjDW",
+        "content": [
+          {
+            "title": "Children's Online Privacy and Data Protection in Selected ...",
+            "url": "https://tile.loc.gov/storage-services/service/ll/llglrd/2021680641/2021680641.pdf"
+          },
+          {
+            "title": "The EU GDPR - General Data Protection Regulation",
+            "url": "https://www.privo.com/learn-more-gdpr"
+          },
+          {
+            "title": "CEELM Comparative Legal Guide: Data Protection in Poland 2024",
+            "url": "https://ceelegalmatters.com/data-protection-2024/poland-data-protection-2024"
+          },
+          {
+            "title": "Children's Online Privacy and Data Protection",
+            "url": "https://maint.loc.gov/law/help/online-privacy/children.php"
+          },
+          {
+            "title": "Art. 8 GDPR \u2013 Conditions applicable to child's consent in relation to information society services - General Data Protection Regulation (GDPR)",
+            "url": "https://gdpr-info.eu/art-8-gdpr/"
+          },
+          {
+            "title": "GDPR-K: Children\u2019s Data and Parental Consent under the GDPR - Clarip",
+            "url": "https://www.clarip.com/data-privacy/gdpr-child-consent/"
+          },
+          {
+            "title": "Youth Privacy and Data Protection 101 - Student Privacy Compass",
+            "url": "https://studentprivacycompass.org/youth-privacy-and-data-protection-101/"
+          },
+          {
+            "title": "Full article: Consent for processing children\u2019s personal data in the EU: following in US footsteps?",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/13600834.2017.1321096"
+          },
+          {
+            "title": "EDRi-gram, 28 May 2025 - European Digital Rights (EDRi)",
+            "url": "https://edri.org/our-work/edri-gram-28-may-2025/"
+          },
+          {
+            "title": "Teenagers on privacy | European Data Protection Supervisor",
+            "url": "https://www.edps.europa.eu/press-publications/press-news/blog/teenagers-privacy_en"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about Poland's implementation of EU GDPR privacy laws regarding teenagers' awareness and digital rights protection:\n\n## Poland's GDPR Implementation and Youth Protection\n\nPoland's data protection framework is primarily established by the EU's General Data Protection Regulation (GDPR), which became directly applicable in all EU Member States on May 25, 2018, and constitutes the cornerstone of privacy regulations in Poland.(no content)To ensure GDPR application in Poland, the Polish Parliament adopted several national acts, including the Act of 10 May 2018 on Personal Data Protection and the Act of 21 February 2019.\n\n## Age of Consent for Digital Services\n\nPoland is expected to have set the age of consent at the minimum allowed under GDPR: 13 years old. This means that children under 13 require parental consent for their personal data to be processed by online services.\n\n## Special Protections for Young People\n\nThe GDPR provides several specific protections for children and teenagers:\n\n1. **Recognition of Vulnerability**: Children are considered vulnerable and need protection when online services collect and process their personal data because they are often less aware of the risks involved.\n\n2. **Clear Communication**: The EU's GDPR requires that information provided to children about the processing of their personal data must be presented in clear and simple terms that are easily understood.\n\n3. **Marketing Protections**: Children merit special protection regarding processing their data for marketing, as they may be less aware of the risks, consequences and safeguards concerned with marketing.\n\n## Polish-Specific Requirements\n\nPolish law provides several specificities beyond GDPR requirements, including the obligation to translate privacy documents into Polish (especially those directed at consumers, employees, and job applicants), and the obligation to notify the appointment of a data protection officer to the Polish data protection authority.\n\n## Current Challenges and Youth Awareness\n\nWhile the search results don't provide specific data about Polish teenagers' awareness levels in 2024, they do reveal broader concerns:\n\n1. **Privacy Awareness**: Most teenagers are aware of the dangers on the internet, but worry the most about invasions of privacy from their parents.\n\n2. **Digital Rights Developments**: Recent developments highlight the urgent need for Poland to implement the Digital Services Act (DSA), with cases of arbitrary censorship by platforms like Meta dragging on for years.\n\n3. **EU-Wide Considerations**: Currently, the GDPR gives individual Member States flexibility in determining the national age of digital consent between 13 and 16, though the European Commission has suggested harmonizing the age across the EU as a possible future policy development.\n\nThe search results indicate that while Poland has implemented the GDPR framework with specific national adaptations, there's limited publicly available information about specific youth awareness campaigns or educational initiatives regarding digital rights in Poland for 2024. The focus appears to be more on regulatory compliance and legal frameworks rather than youth education and awareness programs."
+    ],
+    "durationSeconds": 31.870828859999776
+  }
+}

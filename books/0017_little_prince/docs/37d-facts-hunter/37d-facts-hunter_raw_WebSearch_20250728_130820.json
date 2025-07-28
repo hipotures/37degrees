@@ -1,0 +1,63 @@
+{
+  "session_id": "bb5bd92f-2e06-46b2-9b84-f65c0578b080",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/bb5bd92f-2e06-46b2-9b84-f65c0578b080.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Little Prince\" publication history 1943 first published USA France reception reviews initial"
+  },
+  "tool_response": {
+    "query": "\"Little Prince\" publication history 1943 first published USA France reception reviews initial",
+    "results": [
+      "I'll search for information about \"The Little Prince\" publication history, focusing on its 1943 first publication in the USA and France, along with initial reception and reviews.",
+      {
+        "tool_use_id": "srvtoolu_015dXDGZ6DaYUqLeApv6YAR2",
+        "content": [
+          {
+            "title": "Production History - The Little Prince",
+            "url": "https://historyofthelittleprince.weebly.com/production-history.html"
+          },
+          {
+            "title": "The Little Prince, 1943, First Edition - AbeBooks",
+            "url": "https://www.abebooks.com/book-search/title/the-little-prince/kw/1943/first-edition/"
+          },
+          {
+            "title": "Amazon.com: Little Prince (1943 Original 1st Edition Design Hardcover English ver.): 9788998046330: Antoine de Saint-Exup\u00e9ry: Books",
+            "url": "https://www.amazon.com/Little-Prince-Original-Hardcover-English/dp/8998046334"
+          },
+          {
+            "title": "The Little Prince - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Little_Prince"
+          },
+          {
+            "title": "The Little Prince | Plot, Analysis, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/The-Little-Prince"
+          },
+          {
+            "title": "Amazon.com: The Little Prince: 9780156012195: Antoine de Saint-Exup\u00e9ry, Richard Howard: Books",
+            "url": "https://www.amazon.com/Little-Prince-Antoine-Saint-Exup%C3%A9ry/dp/0156012197"
+          },
+          {
+            "title": "The Little Prince: Manuscript and Drawings | | The Morgan Library & Museum",
+            "url": "https://www.themorgan.org/collection/little-prince"
+          },
+          {
+            "title": "The Little Prince | The Folio Society",
+            "url": "https://www.foliosociety.com/usa/the-little-prince.html"
+          },
+          {
+            "title": "Little Prince, First Edition - AbeBooks",
+            "url": "https://www.abebooks.com/servlet/SearchResults?yrh=1943&x=72&fe=on&yrl=1943&y=7&bi=0&ds=50&bx=off&pics=on&sortby=17&tn=Little+Prince&recentlyadded=all"
+          },
+          {
+            "title": "THE LITTLE PRINCE | Antoine de SAINT-EXUPERY | First Edition",
+            "url": "https://www.charlesagvent.com/pages/books/019593/antoine-de-saint-exupery/the-little-prince"
+          }
+        ]
+      },
+      "Based on the search results, here's what I found about \"The Little Prince\" publication history in 1943, including its first publication in the USA and France, along with initial reception and reviews:\n\n## Publication History\n\nThe Little Prince was first published in English and French in the United States by Reynal & Hitchcock in April 1943. This was the first and only time Reynal & Hitchcock issued one of Saint-Exup\u00e9ry's works in the original French.\n\nThe American edition appeared before the French or English editions. It was published posthumously in France following liberation; Saint-Exup\u00e9ry's works had been banned by the Vichy Regime.\n\nThe preliminary draft contract for The Little Prince was drawn up in November 1942, just after Saint-Exup\u00e9ry had finished writing the story, and went through several revisions before it was finalized in January 1943. The publisher granted the author a $3,000 advance for two books, The Little Prince and a second volume (never completed) about France's place in the modern world.\n\n## Initial Reception\n\nThe Little Prince saw immediate and long-term success. It went through at least three printings between April 1943 and December 1943. The Little Prince became Saint-Exup\u00e9ry's most successful work, selling an estimated 140 million copies worldwide, which makes it one of the best-selling in history.\n\nTHE LITTLE PRINCE is both the most-read and most-translated book in the French language and was voted the best book of the 20th century in France.\n\n## First Edition Details\n\nThe first editions of The Little Prince appeared in near-identical volumes, both priced at $2. The first editions had distinctive features including salmon cloth with paragraph containing printing information and dustwrapper with Fourth Avenue address.\n\nThe author was assigned to fly with the French Free Air Force shortly before publication and went missing about a year later while on a mission. Only weeks after his novella was first published in April 1943, despite his wife's pleadings and before Saint-Exup\u00e9ry had received any of its royalties (he never would), the author-aviator joined the Free French Forces.\n\nThe book's immediate success and enduring popularity made it one of the most translated works in history, though specific contemporary reviews from 1943 were not included in the search results."
+    ],
+    "durationSeconds": 28.90571758700005
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "session_id": "e18f7f1c-5883-41e4-8ef9-15aee4aa266b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e18f7f1c-5883-41e4-8ef9-15aee4aa266b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Gen Z mental health authenticity anxiety social media persona imposter syndrome statistics 2024"
+  },
+  "tool_response": {
+    "query": "Gen Z mental health authenticity anxiety social media persona imposter syndrome statistics 2024",
+    "results": [
+      "I'll search for information about Gen Z mental health, particularly focusing on authenticity anxiety, social media personas, and imposter syndrome with recent 2024 statistics.",
+      {
+        "tool_use_id": "srvtoolu_01NpjrbXvkW7cTHjP1KYzVDi",
+        "content": [
+          {
+            "title": "SOCIAL ANXIETY IN GENERATION Z",
+            "url": "https://nationalsocialanxietycenter.com/2024/08/19/social-anxiety-in-generation-z/"
+          },
+          {
+            "title": "Social media and mental health: The impact on Gen Z | McKinsey",
+            "url": "https://www.mckinsey.com/mhi/our-insights/gen-z-mental-health-the-impact-of-tech-and-social-media"
+          },
+          {
+            "title": "How Gen Z\u2019s Social Anxiety triggers Imposter Syndrome",
+            "url": "https://alisonshamir.com/gen-z-social-anxiety-triggers-imposter-syndrome/"
+          },
+          {
+            "title": "Gen Z, Social Media, and Mental Health | Rollins School of Public Health | Emory University | Atlanta GA",
+            "url": "https://sph.emory.edu/news/news-release/2024/05/gen-z-social-media-mental-health.html"
+          },
+          {
+            "title": "Gen Z Mental Health Crisis: Causes, Challenges & Solutions",
+            "url": "https://psychplus.com/blog/the-gen-z-mental-health-crisis-why-its-getting-worse-what-can-be-done/"
+          },
+          {
+            "title": "Stress in America\u2122 Generation Z",
+            "url": "https://www.apa.org/news/press/releases/stress/2018/stress-gen-z.pdf"
+          },
+          {
+            "title": "Gen-Z, Self-Presentation, and Authenticity on Social Media",
+            "url": "https://digitalcommons.trinity.edu/cgi/viewcontent.cgi?article=1026&context=comm_honors"
+          },
+          {
+            "title": "Generation Z\u2019s Mental Health Issues - The Annie E. Casey Foundation",
+            "url": "https://www.aecf.org/blog/generation-z-and-mental-health"
+          },
+          {
+            "title": "Gen Z's mental health and authenticity on social media: Fascinating insights from new research",
+            "url": "https://www.psypost.org/gen-zs-mental-health-and-authenticity-on-social-media-fascinating-insights-from-new-research/"
+          },
+          {
+            "title": "Adverse effect of social media on generation Z user's behavior: Government information support as a moderating variable - ScienceDirect",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S0969698923000036"
+          }
+        ]
+      },
+      "Based on the search results, here's a comprehensive overview of Gen Z mental health issues related to authenticity anxiety, social media personas, and imposter syndrome with 2024 statistics:\n\n## Key Statistics and Findings\n\n### Mental Health Prevalence\n- Over 60% of Generation Z (people born between 1997 and 2012) report experiencing significant stress and anxiety, including social anxiety\n- In 2021, almost one third of high school students had experienced poor mental health within the past month\n- More than 50% of total respondents expressed fear and anxiety about the future, with Gen Z demonstrating greater concern than other generations\n\n### Imposter Syndrome\n- Many Gen Zers additionally struggle with imposter syndrome\n- The fear of \"not being good enough\" or falling behind makes it easy to feel exhausted, even before officially starting a career\n- Imposter syndrome refers to the belief that you're not as intelligent or qualified as other people perceive you to be despite what you've achieved. Of significance to social anxiety, people with imposter syndrome also believe that they'll be exposed as a fraud, leading to embarrassment or humiliation\n\n### Social Media and Authenticity\n- New research reveals that college students who feel authentic on social media experience better mental health, with online authenticity emerging as a more significant predictor of well-being than offline self-perception\n- Students who perceived themselves as more authentic on these platforms at the beginning of the study reported lower levels of stress and better overall mental health two months later\n- Generation Z participants were more likely than Baby Boomers to perceive their online persona as more open, conscientious, extraverted, and emotionally stable than their offline self. Additionally, for Generation Z, perceiving themselves as similar across social media and offline contexts was negatively associated with psychological well-being. This indicates that young adults who differentiate between their online and offline selves may experience less depression and higher life satisfaction\n\n### Contributing Factors\n- Between academic pressure, job market uncertainties, social media overload, and the weight of world issues, Gen Z is navigating a mental health minefield like no generation before\n- Rising student loan debt and an unstable job market create financial worries, making adulthood feel like an uphill battle\n- The findings from a sample of 319 users belonging to Generation Z suggest that social media platforms need to understand user's compulsive usage that is resulting into fatigue and consequently anxiety\n\n### Unique Generational Characteristics\n- One strength among this group of individuals, however, is their openness to talking about mental health and their willingness to seek treatment\n- One thing that Gen Zs have been great at (in fact, better than all other generations) is acknowledging when they need help, and speaking up about their mental health needs\n- Dubbed \"the anxious generation\" and \"the loneliest generation\"\n\n### Vulnerable Populations\n- Concerningly, there are large disparities in this trend, with female, LGBTQ+, and racial and ethnic minority youth being more likely to experience poor mental health\n- American Indian or Alaska Native youth in the same age range have the highest suicide rate compared to other racial/ethnic groups, and Native Hawaiian or Other Pacific Islander youth (not combined with Asian) have the second highest rate. While rates are lower for Asian youth ages 10 to 24, suicide is the leading cause of death for this group, and alarming trends have been observed in recent decades, including suicide rates spiking by 140% from 1998 to 2018 among Asian young people. Rates are also lower for Black youth, although it is still the third leading cause of death for this group, and leaders have been calling attention to concerning increases here, as well. For example, a 2024 study noted that the suicide rate for Black youth ages 10 to 24 jumped by 37% between 2018 and 2021, the largest increase of all racial and ethnic groups in this period\n\nThe research shows that Gen Z faces unprecedented mental health challenges, with authenticity anxiety and imposter syndrome being significant issues. The paradox is that while they may feel more authentic online, this digital authenticity becomes crucial for their mental well-being, yet the pressure to maintain online personas contributes to their anxiety and stress levels."
+    ],
+    "durationSeconds": 45.81010427599959
+  }
+}

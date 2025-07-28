@@ -1,0 +1,63 @@
+{
+  "session_id": "7ca65eb2-e5d0-4143-8931-90f15001b62e",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7ca65eb2-e5d0-4143-8931-90f15001b62e.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Anna Karenina Vronsky toxic relationship red flags love bombing emotional manipulation patterns"
+  },
+  "tool_response": {
+    "query": "Anna Karenina Vronsky toxic relationship red flags love bombing emotional manipulation patterns",
+    "results": [
+      "I'll search for information about the toxic relationship patterns between Anna Karenina and Vronsky, including love bombing and emotional manipulation.",
+      {
+        "tool_use_id": "srvtoolu_01EX7xBSxxNjBuZnCUif1wRP",
+        "content": [
+          {
+            "title": "Passion and Marriage in Anna Karenina Kelly A. Castillo",
+            "url": "https://digitalshowcase.lynchburg.edu/cgi/viewcontent.cgi?article=1065&context=agora"
+          },
+          {
+            "title": "Love Bombing: Meaning, Signs, and Examples",
+            "url": "https://www.webmd.com/sex-relationships/what-is-love-bombing"
+          },
+          {
+            "title": "Love Under a Lens: Anna Karenina \u2013 UBC English Students' Association",
+            "url": "https://www.ubcenglish.com/love-under-a-lens-anna-karenina/"
+          },
+          {
+            "title": "The Tangled Web of Love, Marriage, and Morality in \u201cAnna Karenina\u201d | by Hana Liebman | Curious | Medium",
+            "url": "https://medium.com/curious/the-tangled-web-of-love-marriage-and-morality-in-anna-karenina-f449a1ce70eb"
+          },
+          {
+            "title": "Red flags: What is love bombing and why is it bad? | Respect Victoria",
+            "url": "https://www.respectvictoria.vic.gov.au/news/red-flags-what-love-bombing-and-why-it-bad"
+          },
+          {
+            "title": "Russian Literature: Was Anna Karenina really in love with Vronsky, or was she just longing for a different life? - Quora",
+            "url": "https://www.quora.com/Russian-Literature-Was-Anna-Karenina-really-in-love-with-Vronsky-or-was-she-just-longing-for-a-different-life"
+          },
+          {
+            "title": "Alexei Vronsky Character Analysis in Anna Karenina | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/anna/character/alexei-vronsky/"
+          },
+          {
+            "title": "Love and Loss: Anna Karenina \u2013 Vronsky\u2019s Story at the Russian Embassy | American University, Washington, DC",
+            "url": "https://www.american.edu/cas/carmel/news/love-and-loss.cfm"
+          },
+          {
+            "title": "Anna Karenina - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Anna_Karenina"
+          },
+          {
+            "title": "Anna Karenina - Plugged In",
+            "url": "https://www.pluggedin.com/book-reviews/anna-karenina/"
+          }
+        ]
+      },
+      "Based on my search results, I can provide insights into the toxic relationship patterns between Anna Karenina and Vronsky, though the search results don't explicitly frame their relationship using modern terms like \"love bombing\" and \"red flags.\" However, I can analyze their relationship dynamics through both a literary lens and modern psychological understanding.\n\n## Toxic Relationship Patterns in Anna and Vronsky's Romance\n\n### Initial Intensity and Pursuit\n\nWhen Vronsky first sees Anna, he is struck not by her beauty but by \"the sweet tenderness and bright vitality of her face\" and is drawn to \"the lovely liveliness that animates her movements and expressions.\"(no content)With Vronsky steadfastly pursuing her, Anna is drawn to him \"as a beggar is to food, or a freezing man to a fire.\"\n\nThis intense initial attraction shows characteristics similar to love bombing - an \"emotional manipulation technique that involves giving someone excessive compliments, attention, or affection to eventually control them.\"\n\n### Power Imbalance and Emotional Manipulation\n\nThe relationship demonstrates several red flags:\n\n1. **Unequal sacrifices**: Both characters had to give up a lot to be together. Anna abandoned her husband, burned bridges, and was forced to hide from society. She lost her son, integrity, and financial security, while Vronsky gave up his ambitious career to take care of Anna.\n\n2. **Social isolation**: When they go to Italy together, \"they have trouble making friends. When they return to Russia, Anna suffers shunning and isolation due to the relationship.\"\n\n3. **Dependency and control**: Anna faces condemnation while Vronsky moves freely in society. \"The burden of wrongdoing falls much more heavily on Anna, who has the added misfortune of being completely dependent on her male relations for her welfare and sustenance.\"\n\n### Deterioration and Paranoia\n\nVronsky's devotion appears to wane in later chapters, \"but much of this appearance stems from Anna's paranoid fears that he has fallen out of love with her.\" This pattern reflects what happens after love bombing - \"Love bombing often points to the beginning of an unhealthy, toxic, or abusive relationship.\"\n\n### The Love Bombing Cycle\n\nLove bombing \"is trying to force your trust and dependence, so the love bomber quickly becomes the most important person in your life. Later in the relationship, it's easier for them to devalue or discard you, or even make you feel like you're the one who has been doing something 'wrong'. You're more likely to bend to their will (by compromising your own boundaries).\"\n\nThis pattern is evident in Anna and Vronsky's relationship:\n- Anna discovers \"that Vronsky's passion has its limits\"\n- Vronsky \"accommodates her whims and endures her paranoid fits with patience\"\n- Anna \"succumbs to loneliness and a craving for love\" and feels \"the burden of her conscience and the twisting thorn of shame and regret\"\n\n### Warning Signs\n\nThe relationship exhibited multiple warning signs:\n- Anna was \"stifled by a political marriage\" and emotionally vulnerable\n- Vronsky was \"the 19th-century version of a player- he liked Kitty's attention but did not want to settle down himself\"\n- When partners must \"compromise your own values,\" one should ask \"are the highs worth the lows?\"\n\nThe tragic nature of Anna and Vronsky's relationship demonstrates how initial passionate intensity can mask deeper incompatibilities and toxic patterns. While Tolstoy wrote before modern psychological terminology existed, his portrayal captures many dynamics we now recognize as emotionally manipulative and harmful relationship patterns."
+    ],
+    "durationSeconds": 43.0534589829999
+  }
+}

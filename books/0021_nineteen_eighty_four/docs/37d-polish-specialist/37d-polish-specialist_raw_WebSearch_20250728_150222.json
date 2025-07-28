@@ -1,0 +1,63 @@
+{
+  "session_id": "b8c17c71-efc6-4c19-9b68-e101c36de9c9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b8c17c71-efc6-4c19-9b68-e101c36de9c9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Rok 1984\" Orwell vs Stanis\u0142aw Lem Jacek Dukaj polska fantastyka dystopia"
+  },
+  "tool_response": {
+    "query": "\"Rok 1984\" Orwell vs Stanis\u0142aw Lem Jacek Dukaj polska fantastyka dystopia",
+    "results": [
+      "I'll search for information about comparisons between Orwell's \"1984\" and Polish science fiction dystopias by Stanis\u0142aw Lem and Jacek Dukaj.",
+      {
+        "tool_use_id": "srvtoolu_014fqv17chgScbqT65SbVn6D",
+        "content": [
+          {
+            "title": "Rok 1984 - George Orwell | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5190929/rok-1984"
+          },
+          {
+            "title": "Przerazi\u0142 Ci si\u0119 \u201eRok 1984\u201d? Poznaj inne ksi\u0105\u017ckowe dystopie - blog Virtualo.pl",
+            "url": "https://virtualo.pl/blog/przerazil-ci-sie-rok-1984-poznaj-inne-ksiazkowe-dystopie-w313/"
+          },
+          {
+            "title": "George Orwell | Autor: Wszystkie ksi\u0105\u017cki, wywiady, artyku\u0142y | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/autor/10474/george-orwell"
+          },
+          {
+            "title": "Przeczytaj - Kiedy z\u0142o przybiera posta\u0107 utopii. George Orwell, Rok 1984 - zpe.gov.pl",
+            "url": "https://zpe.gov.pl/a/przeczytaj/D7HzGmpq5"
+          },
+          {
+            "title": "George Orwell, Rok 1984",
+            "url": "https://wolnelektury.pl/katalog/lektura/orwell-rok-1984.html"
+          },
+          {
+            "title": "Rok 1984 \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Rok_1984"
+          },
+          {
+            "title": "Rok 1984 George Orwell ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/rok-1984-george-orwell"
+          },
+          {
+            "title": "Rok 1984 - George Orwell (Nineteen eighty four)- Ksi\u0105\u017cka w ksi\u0119garni CapitalBook.pl",
+            "url": "https://capitalbook.com.pl/pl/p/Rok-1984-George-Orwell/5366"
+          },
+          {
+            "title": "George Orwell: ,,Rok 1984\u201d\u2013 pytania i odpowiedzi. - \u015aci\u0105gi, wypracowania, lektury - Bryk.pl",
+            "url": "https://www.bryk.pl/wypracowania/jezyk-polski/lektury/17556-george-orwell-rok-1984-pytania-i-odpowiedzi.html"
+          },
+          {
+            "title": "\"Rok 1984\", George Orwell, REBIS",
+            "url": "https://www.rebis.com.pl/pl/book-rok-1984-george-orwell,HCHB11102.html"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about comparisons between Orwell's \"1984\" and Polish science fiction dystopias by Stanis\u0142aw Lem and Jacek Dukaj:\n\nIn Polish literature, science fiction writers who created utopian works include Stanis\u0142aw Lem and Janusz Zajdel. The search results mention that the genre boundaries between utopia and dystopia are often fluid: both describe closed communities, with utopia presenting a positive and optimistic vision, while dystopia presents the opposite.\n\nOrwell's \"1984\" (original title: Nineteen Eighty-Four) is a futuristic dystopia with numerous political undertones, written by George Orwell and published in 1949. Dystopia is a polemic with human ideas about a perfect world: it presents an enslaved community, seized by totalitarianism, with individuals controlled at every step by the authorities, unified and objectified.\n\n\"1984\" is a famous futuristic anti-utopia describing a totalitarian world where love doesn't exist, thoughtcrime is punished by death, history is constantly rewritten, and language is stripped of meaning. \"1984\" is recognized as one of the first science fiction novels presenting an alternative future, a vision of a totalitarian state exercising total control over people, the past and language, waging war with other totalitarian states, defined as a dystopia.\n\nWhile the search results don't provide direct comparisons between Orwell's \"1984\" and specific works by Stanis\u0142aw Lem or Jacek Dukaj, they confirm that Polish science fiction literature includes dystopian works. In the 20th century, many dystopias were created, both literary and cinematic. Among the most famous are George Orwell's works, Animal Farm and 1984.\n\nThe search results don't contain specific information comparing Orwell's work directly with dystopian works by Lem or Dukaj, so I cannot provide more detailed comparative analysis based on these search results."
+    ],
+    "durationSeconds": 23.904155688999687
+  }
+}

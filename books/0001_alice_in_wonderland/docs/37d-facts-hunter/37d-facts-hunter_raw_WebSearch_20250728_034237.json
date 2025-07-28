@@ -1,0 +1,63 @@
+{
+  "session_id": "ac25dab5-19ee-43b4-8689-cf24d65d211d",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ac25dab5-19ee-43b4-8689-cf24d65d211d.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Alice's Adventures Under Ground\" manuscript 1864 Lewis Carroll handwritten illustrations"
+  },
+  "tool_response": {
+    "query": "\"Alice's Adventures Under Ground\" manuscript 1864 Lewis Carroll handwritten illustrations",
+    "results": [
+      "I'll search for information about the 1864 handwritten manuscript of \"Alice's Adventures Under Ground\" by Lewis Carroll with illustrations.",
+      {
+        "tool_use_id": "srvtoolu_01Cyf6mDVw2PVAoTyyu9ZZBw",
+        "content": [
+          {
+            "title": "Lewis Carroll\u2019s Illustrations for \u201cAlice\u2019s Adventures Under Ground\u201d (1864)",
+            "url": "https://publicdomainreview.org/collection/carroll-illustrations-for-alice-undergound/"
+          },
+          {
+            "title": "Behold Lewis Carroll's Original Handwritten & Illustrated Manuscript for Alice's Adventures in Wonderland (1864) | Open Culture",
+            "url": "https://www.openculture.com/2017/07/behold-lewis-carrolls-original-handwritten-illustrated-manuscript-for-alices-adventures-in-wonderland-1864.html"
+          },
+          {
+            "title": "Alice's Adventures in Wonderland - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Alice's_Adventures_in_Wonderland"
+          },
+          {
+            "title": "The Original Alice\u2019s Adventures In Wonderland Manuscript, Handwritten & Illustrated By Lewis Carroll (1864) | Open Culture",
+            "url": "https://www.openculture.com/2014/01/original-alice-in-wonderland-manuscript.html"
+          },
+          {
+            "title": "Alice's Adventures Under Ground: Original Handwritten Manuscript Of Alice In Wonderland: Carroll, Lewis: 9798588699662: Amazon.com: Books",
+            "url": "https://www.amazon.com/Alices-Adventures-Under-Ground-Handwritten/dp/B09CC4DSM6"
+          },
+          {
+            "title": "Amazon.com: Alice's Adventures Under Ground: Facsimile of the Original 1864 Author's Manuscript: 9781616407131: Carroll, Lewis: Books",
+            "url": "https://www.amazon.com/Alices-Adventures-Under-Ground-Manuscript/dp/1616407131"
+          },
+          {
+            "title": "The manuscript of Alice's Adventures Under Ground, by Lewis Carroll",
+            "url": "https://www.spbooks.com/83-alice-in-wonderland-manuscript-9791095457664.html"
+          },
+          {
+            "title": "Alice's Adventures Underground : A Facsimile of the Original Lewis Carroll Manuscript: Carroll, Lewis: Amazon.com: Books",
+            "url": "https://www.amazon.com/Alices-Adventures-Underground-Facsimile-Manuscript/dp/B0007EUTZU"
+          },
+          {
+            "title": "Alice's Adventures under Ground manuscript scans - Alice-in-Wonderland.net",
+            "url": "https://www.alice-in-wonderland.net/resources/pictures/alices-adventures-under-ground/"
+          },
+          {
+            "title": "Alice's Adventures Under Ground : Carroll, Lewis, 1832-1898 : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/AlicesAdventuresUnderGround1864"
+          }
+        ]
+      },
+      "Based on my search results, I can provide you with comprehensive information about the 1864 handwritten manuscript of \"Alice's Adventures Under Ground\" by Lewis Carroll:\n\n## The Original Manuscript\n\nThe original manuscript contains thirty-seven sepia-ink drawings by Carroll himself. Some sources mention 38 childlike drawings, though the exact count may vary due to how illustrations are counted.\n\n## Key Details About the Manuscript\n\n**Creation and Presentation:**\n- The story was conceived on July 4, 1862, when Carroll told the tale during a boat trip with the three Liddell sisters\n- Alice Liddell asked Carroll to write it down, and she received the manuscript more than two years later\n- Carroll presented the manuscript to Alice as an early Christmas present in 1864\n- The first page features \"a delicate floral box containing the title,\" and the second page reads \"A Christmas Gift to a Dear Child in Memory of a Summer Day\"\n\n**Carroll's Illustrations:**\n- Carroll's illustrations are \"slightly more reserved and less caricatured than John Tenniel's efforts\"\n- One notable illustration shows Alice's \"immense length of neck\" as \"a fuzzy tree trunk, capped with an almost Pre-Raphaelite face\"\n- On the final page, Carroll included a small photographic portrait of Alice Liddell and attempted a drawn portrait underneath, which he covered with the photograph\n- Carroll \"expertly intertwines his handwritten text with his pictures\" and created the famous mouse's tale shaped like an actual tail\n\n**Current Location and History:**\n- In 1928, Alice Liddell sold the manuscript at Sotheby's for \u00a315,400 to Philip Rosenbach, who later presented it to the British Library as appreciation for Britain's role in two World Wars\n- The manuscript is presently housed in the British Library, which has made it freely available online\n\n**Publication History:**\n- Macmillan & Co released the book in 1865 as \"Alice's Adventures in Wonderland,\" with two extra chapters featuring the Cheshire Cat and Mad Hatter's Tea Party\n- Though Carroll illustrated the original, he was advised to find a professional illustrator for publication, leading to John Tenniel's famous illustrations\n\nThe manuscript remains a treasured example of Victorian children's literature and shows Carroll's dual talents as both writer and illustrator. It represents just one of many \"original, funny, startling, and brilliant\" tales Carroll created for children, most of which were never transcribed."
+    ],
+    "durationSeconds": 33.19918865699999
+  }
+}

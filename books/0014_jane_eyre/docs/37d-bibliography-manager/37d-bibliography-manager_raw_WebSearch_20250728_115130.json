@@ -1,0 +1,63 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Jane Eyre scholarly criticism leading academics peer reviewed journals university press Gilbert Gubar postcolonial feminist"
+  },
+  "tool_response": {
+    "query": "Jane Eyre scholarly criticism leading academics peer reviewed journals university press Gilbert Gubar postcolonial feminist",
+    "results": [
+      "I'll search for scholarly criticism on Jane Eyre focusing on leading academics, peer-reviewed journals, and university press publications, particularly related to Gilbert and Gubar's work and postcolonial feminist perspectives.",
+      {
+        "tool_use_id": "srvtoolu_01SfTeG3LkqHYZwA6dj1JQZf",
+        "content": [
+          {
+            "title": "Analyzing Jane Eyre: Intersectionality and the 21st Century ...",
+            "url": "https://journalofsocialsciences.org/vol5no2/analyzing-jane-eyre--intersectionality-and-the-21st-century-adaptations/"
+          },
+          {
+            "title": "\u2018Odd and incorrect\u2019: Convention and Jane Eyre\u2019s Feminist Legacy: Bront\u00eb Studies: Vol 49, No 1-2",
+            "url": "https://www.tandfonline.com/doi/abs/10.1080/14748932.2024.2308841"
+          },
+          {
+            "title": "Racism, Ableism, Exceptionalism, and Imperialism: Jane Eyre as Antifeminist \u2013 The Garden Statuary",
+            "url": "https://thegardenstatuary.com/archives/3318"
+          },
+          {
+            "title": "\"Contradiction in Jane Eyre: Conversations of 19th Century Feminism\" by Audrey Clement - Marymount University",
+            "url": "https://marymount.edu/academics/college-of-sciences-and-humanities/school-of-interdisciplinary-studies/student-publications/magnificat-2022/contradiction-in-jane-eyre/"
+          },
+          {
+            "title": "Analysis of Jane Eyre with Contemporary Feminist Criticism",
+            "url": "https://www.rosiestamu.com/post/analysis-of-jane-eyre-with-contemporary-feminist-criticism"
+          },
+          {
+            "title": "Intersectionality in Jane Eyre and its Adaptations",
+            "url": "https://scholarworks.uark.edu/cgi/viewcontent.cgi?article=2104&context=etd"
+          },
+          {
+            "title": "Reflection on Feminism in Jane Eyre",
+            "url": "https://www.academypublication.com/issues/past/tpls/vol03/06/08.pdf"
+          },
+          {
+            "title": "Comments on Jane Eyre from the Perspective of Feminism",
+            "url": "https://www.sciedupress.com/journal/index.php/wjss/article/download/7499/4465"
+          },
+          {
+            "title": "Study of Jane Eyre's Rebellion Spirit from the Feminist Perspective",
+            "url": "https://drpress.org/ojs/index.php/ijeh/article/download/22177/21712/28259"
+          },
+          {
+            "title": "Exploring Feminism and Power Dynamics in Jane Eyre",
+            "url": "https://www.cliffsnotes.com/study-notes/22551945"
+          }
+        ]
+      },
+      "Based on the search results, I found several scholarly sources discussing Jane Eyre criticism from leading academics, particularly focusing on Gilbert and Gubar's influential work and postcolonial feminist perspectives. Here are the key findings:\n\n## Gilbert and Gubar's Influential Scholarship\n\nSandra M. Gilbert and Susan Gubar's 1979 work \"The Madwoman in the Attic: The Woman Writer and the Nineteenth-Century Literary Imagination\" published by Yale University Press is one of the most frequently cited scholarly works on Jane Eyre. Their central thesis interprets Jane Eyre as \"a feminist tract, an argument for the betterment of governesses and equal rights for women\".\n\nGilbert and Gubar theorize Bertha's character as Jane's anger and inner turmoil, proposing that Bertha represents \"not with her own sexuality but with her own imprisoned 'hunger, rebellion, and rage'\". This interpretation has been highly influential in feminist literary criticism.\n\n## Contemporary Scholarly Criticism and Postcolonial Perspectives\n\nRecent scholarship has challenged Gilbert and Gubar's reading, particularly from postcolonial and intersectional perspectives:\n\n1. **Intersectional Analysis**: Recent research incorporates theories from \"Gilbert and Gubar, Laura Mulvey, Kimberl\u00e9 Crenshaw, and Gayatri Spivak\" to examine the novel through intersectional lenses.\n\n2. **Postcolonial Critique**: Scholars now examine how Bertha's madness and race intersect, noting that \"She was kept in exclusion and was not allowed to exit the attic. Therefore, the attic was a way of not involving Bertha in English society. A Creole woman was not allowed to explore the beautiful fields of Thornfield, and the death of Bertha was the only way of uniting Rochester and Jane\".\n\n3. **Disability Studies**: Contemporary scholars argue that \"when madness is used as a metaphor for feminist rebellion, mental illness itself is erased\" and that \"The novel's depiction of Bertha's madness not only silences her but increases the stigma around mental illness\".\n\n## Academic Publishing Venues\n\nThe search results reference several peer-reviewed journals and university presses:\n\n- \"Literature and the Development of Feminist Theory\" edited by Robin Truth Goodman, published by Cambridge University Press\n- \"A Literature of Their Own: British Women Novelists from Bront\u00eb to Lessing\" by Elaine Showalter, published by Princeton University Press\n- Bront\u00eb Studies (Taylor & Francis journal)\n- Various university publications and scholarly journals\n\n## Current Debates\n\nContemporary scholars note that \"no one, since 1847, has known what to do with Jane Eyre\u2014especially when it comes to feminism\". Current criticism challenges earlier feminist readings by:\n\n1. Examining the novel's treatment of race and colonialism\n2. Questioning its representation of disability and mental illness\n3. Analyzing its limitations regarding cross-class solidarity among women\n4. Arguing that interpreting \"Bertha as a mere representation of Jane's imprisoned psyche... erases her humanity and dismisses the abuse she has experienced... at the hands of Rochester\"\n\nThis evolution in Jane Eyre criticism reflects broader changes in feminist theory, moving from second-wave feminist readings to more intersectional and postcolonial approaches that consider race, class, disability, and imperialism alongside gender."
+    ],
+    "durationSeconds": 34.67542824100005
+  }
+}

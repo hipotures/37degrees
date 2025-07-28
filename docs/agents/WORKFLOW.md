@@ -1,166 +1,236 @@
-# 37degrees Agent Workflow Guide
+# 37degrees Agent Workflow
 
-This document defines the standard workflow that all 37d research agents must follow.
+This document defines the imperative workflow for individual 37d research agents working on book research tasks.
 
-## Core Agent Identity
+<objective>
+Execute research tasks from assigned TODO file systematically.
+Generate comprehensive findings with proper citations and task tracking.
+</objective>
 
-All agents are "claude code agents" specializing in book research for the 37degrees project.
+<prerequisites>
+VERIFY these conditions before starting:
+1. Agent CWD is in book folder (books/NNNN_book_name/)
+2. FILE TODO exists at docs/todo/TODO_37d-[agent-name].md
+3. Agent has read access to book.yaml
+</prerequisites>
 
-## Standard Workflow Steps
+<workflow>
 
-### 1. Initialize Session
-- **READ** docs/STRUCTURE.md to understand project folder organization
-- **PARSE** the invocation context to extract:
-  - Book title
-  - Author name  
-  - Book folder path (e.g., books/0006_don_quixote/)
-- **VERIFY** the book folder exists before proceeding
+## STEP 1: Initialize Agent Session
 
-### 2. Access TODO List
-- **NAVIGATE** to: `books/NNNN_book_name/docs/todo/TODO_37d-[agent-name].md`
-- **READ** the TODO file completely
-- **IDENTIFY** all uncompleted tasks marked with `- [ ]`
-- **PRIORITIZE** tasks based on the TODO order
+<instructions>
+1.1. READ docs/agents/STRUCTURE-BOOK.md to understand folder structure
+1.2. PARSE agent identity from execution context (37d-facts-hunter, 37d-symbol-analyst, etc.)
+1.3. READ book.yaml to extract:
+     - Book title
+     - Author name
+     - Publication year
+1.4. CONFIRM FILE TODO exists at docs/todo/TODO_37d-[agent-name].md
+</instructions>
 
-### 3. Execute Tasks
-For each uncompleted task:
+<error-handling>
+IF FILE TODO missing:
+  REPORT: "ERROR: FILE TODO missing at docs/todo/TODO_37d-[agent-name].md - cannot proceed without task list"
+  EXIT workflow
 
-1. **PERFORM** research/analysis specific to your agent role
-2. **USE** appropriate tools:
-   - WebSearch for online research
-   - WebFetch for specific page analysis
-   - Edit/Write for saving findings
-3. **DOCUMENT** all findings with proper citations
-4. **UPDATE** TODO status immediately after task completion:
-   ```
-   # Use Edit tool to change:
-   - [ ] Task description
-   # To:
-   - [x] Task description ✓ (YYYY-MM-DD HH:MM)
-   ```
+IF book.yaml missing:
+  REPORT: "ERROR: book.yaml missing - cannot determine book metadata" 
+  EXIT workflow
+</error-handling>
 
-### 4. Save Findings
-- **WRITE** formatted findings to: `books/NNNN_book_name/docs/findings/37d-[agent-name]_findings.md`
-- **APPEND** to existing findings file (don't overwrite)
-- **MAINTAIN** consistent formatting throughout
+## STEP 2: Assess Current State
 
-## Standard Formats
+<instructions>
+2.1. READ FILE TODO at docs/todo/TODO_37d-[agent-name].md
+2.2. COUNT tasks by status:
+     - [ ] = Not started
+     - [R] = Running (in progress)  
+     - [x] = Completed with results
+     - [0] = Completed with no results
+2.3. CHECK if findings file exists at docs/findings/37d-[agent-name]_findings.md
+2.4. DETERMINE work mode based on assessment
+</instructions>
 
-### TODO Update Format
+## STEP 3: Execute Tasks Systematically
+
+<instructions>
+FOR EACH task marked [ ] or [R] in FILE TODO:
+
+3.1. MARK task as running:
+     CHANGE: "- [ ] Task description"
+     TO: "- [R] Task description (started YYYY-MM-DD HH:MM)"
+
+3.2. EXECUTE research specific to task:
+     - USE WebSearch for online research
+     - USE WebFetch for specific page analysis  
+     - GATHER information relevant to task objective
+     - REPEAT searches if initial results insufficient
+
+3.3. DOCUMENT findings:
+     - APPEND results to docs/findings/37d-[agent-name]_findings.md
+     - INCLUDE proper citations for all sources
+     - MAINTAIN consistent formatting
+     - USE quality rating scale (⭐⭐⭐⭐⭐ to ⭐)
+
+3.4. UPDATE task completion:
+     IF results found:
+       CHANGE: "- [R] Task description (started YYYY-MM-DD HH:MM)"
+       TO: "- [x] Task description ✓ (YYYY-MM-DD HH:MM)"
+     
+     IF no results found:
+       CHANGE: "- [R] Task description (started YYYY-MM-DD HH:MM)"  
+       TO: "- [0] Task description ✓ (YYYY-MM-DD HH:MM)"
+
+3.5. CONTINUE to next uncompleted task
+</instructions>
+
+<task-execution-guidelines>
+RESEARCH APPROACH:
+- START with specific queries including book title + author
+- BROADEN search terms if no results found
+- EXECUTE multiple searches per task if needed
+- CROSS-REFERENCE information from multiple sources
+- PRIORITIZE academic and primary sources
+
+SEARCH QUERY EXAMPLES:
+- ✅ GOOD: "Don Quixote" Cervantes 1605 first edition publication
+- ✅ GOOD: Aldous Huxley "Brave New World" 1932 historical context
+- ❌ BAD: don quixote facts
+- ❌ BAD: brave new world information
+
+CITATION REQUIREMENTS:
+- Books: Author Last, First. *Title*. Publisher, Year.
+- Articles: Author. "Title." *Journal*, Year.
+- Websites: "Page Title." *Site Name*. URL. Accessed: DD Month YYYY.
+- ALL major claims must have citations
+</task-execution-guidelines>
+
+## STEP 4: Final Verification
+
+<instructions>
+4.1. READ FILE TODO to verify completion status
+4.2. COUNT remaining [ ] or [R] tasks
+4.3. IF incomplete tasks remain:
+     CONTINUE to STEP 3 for remaining tasks
+4.4. IF all tasks completed ([x] or [0]):
+     PROCEED to completion
+4.5. VERIFY findings file completeness:
+     - Each [x] task has corresponding findings section
+     - Each [0] task may have empty section with explanation
+     - All findings include proper citations
+     - Quality ratings assigned to sources
+</instructions>
+
+## STEP 5: Complete Session
+
+<instructions>
+5.1. CONFIRM FILE TODO shows all tasks as [x] or [0] with timestamps  
+5.2. VERIFY findings file exists and contains research results
+5.3. REPORT completion status:
+     "Research completed successfully. All FILE TODO tasks marked complete."
+5.4. SUMMARIZE key findings discovered during research
+</instructions>
+
+</workflow>
+
+<context>
+
+## Agent Types and Specializations
+
+**37d-facts-hunter**: Historical facts, publication context, author background
+**37d-symbol-analyst**: Literary symbols, cultural interpretations, cross-cultural analysis  
+**37d-culture-impact**: Adaptations, modern influence, cultural presence
+**37d-polish-specialist**: Polish translations, education system, local reception
+**37d-youth-connector**: Gen Z connections, modern parallels, social media presence
+**37d-bibliography-manager**: Source compilation, citation management
+**37d-source-validator**: Quality assessment, verification, gap identification
+
+## TODO File Format
+
+Tasks in FILE TODO follow this progression:
 ```markdown
-# Before:
-- [ ] Research task description
-
-# After:  
-- [x] Research task description ✓ (2025-07-28 14:30)
+- [ ] Task description                           # Not started
+- [R] Task description (started YYYY-MM-DD HH:MM)   # In progress  
+- [x] Task description ✓ (YYYY-MM-DD HH:MM)        # Completed with results
+- [0] Task description ✓ (YYYY-MM-DD HH:MM)        # Completed with no results
 ```
 
-### Finding Entry Format
-```markdown
-## Task: [Task Name from TODO]
-Date: [YYYY-MM-DD HH:MM]
+## Findings File Structure
 
-### [Finding Category]
-[Detailed findings with citations]
+```markdown
+# 37d-[agent-name] Research Findings
+## "[Book Title]" by [Author] ([Year])
+
+### Research completed: YYYY-MM-DD HH:MM
+
+---
+
+## Task: [Task Name from TODO]
+Date: YYYY-MM-DD HH:MM
+
+### Finding 1: [Descriptive Title]
+- **Fact**: [Specific information found]
+- **Context**: [Why this is significant]
+- **Source**: [Citation]
+- **Quality**: ⭐⭐⭐⭐⭐
+- **Verification**: [How this was confirmed]
 
 ### Citations:
-[1] Author, "Title", Publisher, Year, p. X
-[2] "Article Title", Website Name, URL, Accessed: YYYY-MM-DD
+[1] Author, "Title", Publisher, Year
+[2] "Article Title", Website, URL, Accessed: YYYY-MM-DD
 ```
 
-### Citation Standards
-- Books: `Author Last, First. *Title*. Publisher, Year, p. X.`
-- Articles: `Author. "Title." *Journal*, vol. X, no. Y, Year, pp. XX-YY.`
-- Websites: `"Page Title." *Site Name*. URL. Accessed: DD Month YYYY.`
-- Social Media: `@username. "Post excerpt..." Platform. Date. URL.`
+## Hook Integration
 
-### Quality Rating Scale
-When rating source quality, use:
-- ⭐⭐⭐⭐⭐ - Primary sources, academic peer-reviewed
-- ⭐⭐⭐⭐ - Reputable publishers, verified archives  
-- ⭐⭐⭐ - Established media, fact-checked sources
-- ⭐⭐ - Popular but verified sources
-- ⭐ - Use with caution, needs verification
+The 37d-save-search.py hook automatically saves raw search data to:
+`docs/37d-[agent-name]/37d-[agent]_raw_WebSearch_[timestamp].json`
 
-## Research Best Practices
+Agents focus on formatted findings - raw data is preserved automatically.
 
-### Search Query Construction
-- **ALWAYS** include book title + author in searches
-- **USE** specific terms rather than generic ones
-- **COMBINE** multiple search strategies
+</context>
 
-Examples:
-- ✅ GOOD: `"Don Quixote" Cervantes 1605 first edition details`
-- ❌ BAD: `don quixote facts`
+<examples>
 
-### Source Verification
-- **CROSS-REFERENCE** claims with multiple sources
-- **PRIORITIZE** academic and primary sources
-- **DOCUMENT** when claims cannot be verified
-- **NOTE** contradictions between sources
+## Example 1: Successful Task Execution
+```
+Agent: 37d-facts-hunter executing task research historical context
+System: Reading FILE TODO...
+System: Task marked as [R] running...
+System: Executing WebSearch for "Brave New World" Huxley 1932 historical context...
+System: Found 5 relevant sources...
+System: Documenting findings with citations...
+System: Task marked as [x] completed with timestamp...
+System: Proceeding to next task...
+```
 
-### Polish Research Context
-For all books, regardless of agent role:
-- **CONSIDER** Polish translations and reception
-- **SEARCH** for Polish-specific content when relevant
-- **USE** Polish sources where available
+## Example 2: No Results Found
+```
+Agent: 37d-symbol-analyst executing task analyze obscure symbols
+System: Task marked as [R] running...
+System: Executing multiple searches with various approaches...
+System: No relevant results found after comprehensive search...
+System: Task marked as [0] completed with timestamp...
+System: Adding note about search attempts to findings...
+```
 
-## File Organization
+## Example 3: Error Condition
+```
+Agent: 37d-polish-specialist starting session
+System: Checking FILE TODO at docs/todo/TODO_37d-polish-specialist.md...
+System: ERROR: FILE TODO missing - cannot proceed without task list
+System: Exiting workflow
+```
 
-### Input Files
-- TODO lists: `books/NNNN/docs/todo/TODO_37d-[agent].md`
-- Book metadata: `books/NNNN/book.yaml`
+</examples>
 
-### Output Files  
-- Findings: `books/NNNN/docs/findings/37d-[agent]_findings.md`
-- Raw search data: Auto-saved by hooks to `books/NNNN/docs/37d-[agent]/`
+<important-notes>
 
-### Never Create
-- Do NOT create new book folders
-- Do NOT create files outside the book's docs/ folder
-- Do NOT modify book.yaml or other configuration files
+1. **Single Task Focus**: Execute ONE task at a time, update immediately
+2. **Complete All Tasks**: NO minimum completion requirements - ALL tasks must be attempted
+3. **Immediate Updates**: Update FILE TODO status during and after each task
+4. **Quality Over Quantity**: Focus on finding accurate, well-cited information
+5. **No Structure Management**: Agent does NOT create/verify folder structure
+6. **Relative Paths**: All file paths relative to book directory CWD
+7. **Task Extension**: Can ADD tasks to TODO if research reveals new areas, NEVER remove tasks
 
-## Error Handling
-
-### Book Not Found
-If the specified book folder doesn't exist:
-1. **STOP** workflow immediately
-2. **INFORM** user that the book needs to be created first
-3. **DO NOT** attempt to create the folder
-
-### TODO File Missing
-If TODO file doesn't exist:
-1. **CHECK** if you're in the correct folder
-2. **VERIFY** the book name and number
-3. **REPORT** the issue to the user
-
-### Research Failures
-When unable to find information:
-1. **DOCUMENT** what searches were attempted
-2. **NOTE** the gap in findings
-3. **SUGGEST** alternative research approaches
-4. **CONTINUE** with remaining tasks
-
-## Communication Style
-
-### With Users
-- Be concise and direct
-- Report progress on complex tasks
-- Ask for clarification when needed
-
-### In Findings
-- Use professional, academic tone
-- Be precise with facts and dates
-- Clearly distinguish confirmed facts from speculation
-
-### In TODOs
-- Update immediately after task completion
-- Include accurate timestamps
-- Maintain TODO list organization
-
-## Integration with Hooks
-
-Note: The 37d-save-search.py hook automatically saves WebSearch results to:
-`books/NNNN/docs/37d-[agent]/37d-[agent]_raw_WebSearch_[timestamp].json`
-
-You don't need to manually save raw search data - focus on formatted findings.
+</important-notes>

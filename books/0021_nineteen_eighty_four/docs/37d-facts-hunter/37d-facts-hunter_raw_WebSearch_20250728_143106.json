@@ -1,0 +1,63 @@
+{
+  "session_id": "b8c17c71-efc6-4c19-9b68-e101c36de9c9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b8c17c71-efc6-4c19-9b68-e101c36de9c9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"George Orwell\" \"1984\" writing process 1947 1948 health tuberculosis Jura island writing routine daily habit"
+  },
+  "tool_response": {
+    "query": "\"George Orwell\" \"1984\" writing process 1947 1948 health tuberculosis Jura island writing routine daily habit",
+    "results": [
+      "I'll search for information about George Orwell's writing process for \"1984\" during 1947-1948, focusing on his health issues with tuberculosis and his time on Jura island.",
+      {
+        "tool_use_id": "srvtoolu_017ZYUqVagLwaxaiQyPiwLiR",
+        "content": [
+          {
+            "title": "Nineteen Eighty-Four - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four"
+          },
+          {
+            "title": "George Orwell Wrote '1984' While Dying of Tuberculosis",
+            "url": "https://www.smithsonianmag.com/smart-news/george-orwell-wrote-1984-while-dying-tuberculosis-180962608/"
+          },
+          {
+            "title": "George Orwell - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/George_Orwell"
+          },
+          {
+            "title": "George Orwell, Outdoorsman | National Endowment for the Humanities",
+            "url": "https://www.neh.gov/article/george-orwell-outdoorsman"
+          },
+          {
+            "title": "1984 | Encyclopedia.com",
+            "url": "https://www.encyclopedia.com/arts/educational-magazines/1984"
+          },
+          {
+            "title": "Tuberculosis, Infertility May Have Influenced George Orwell's Writing | ScienceDaily",
+            "url": "https://www.sciencedaily.com/releases/2005/10/051020090008.htm"
+          },
+          {
+            "title": "George Orwell & the Isle of Jura - The Washington Post",
+            "url": "https://www.washingtonpost.com/archive/lifestyle/travel/1984/04/01/george-orwell-38/8853e7a3-2c14-4e7c-9a23-f60d39ed3168/"
+          },
+          {
+            "title": "Typewriter Orwell Grandfather Jura",
+            "url": "https://www.orwelltoday.com/orwelltypewriter.shtml"
+          },
+          {
+            "title": "Publication of George Orwell\u2019s Nineteen Eighty-Four | History Today",
+            "url": "https://www.historytoday.com/archive/months-past/publication-george-orwell%E2%80%99s-nineteen-eighty-four"
+          },
+          {
+            "title": "George Orwell - 1984, Books & Quotes",
+            "url": "https://www.biography.com/authors-writers/george-orwell"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with detailed information about George Orwell's writing process for \"1984\" during 1947-1948, including his health struggles with tuberculosis and his time on Jura island.\n\n## George Orwell's Writing Process for \"1984\" (1947-1948)\n\n### Location and Setting\n\nIn May 1946 Orwell arrived on the Scottish island of Jura.(no content)He had wanted to retreat to a Hebridean island for several years; David Astor recommended he should stay at Barnhill, a remote farmhouse on the island that his family owned, with no electricity or hot water.(no content)At a farm called Barnhill--nine miles beyond the road shown on highway maps, on the northeast tip of Jura--George Orwell wrote \"1984.\"\n\n### Writing Progress in 1947\n\nAfter spending the winter in London, Orwell returned to Jura; in May 1947 he reported to Warburg that despite progress being slow and difficult, he was roughly a third of the way through.(no content)On May 31, 1947, Orwell sent a letter to his publisher. \"I have made a fairly good start,\" he announced. \"I don't like talking about books before they are written, but I will tell you now that this is a novel about the future--that is, it is in a sense a fantasy, but in the form of a naturalistic novel.\"\n\n### Health Crisis and Writing Routine\n\nOrwell's health worsened further in September, and he was confined to his bed with inflammation of the lungs.(no content)He lost almost two stone (28 pounds or 12.7 kg) in weight and had recurring night sweats, but he decided not to see a doctor and continued writing. \n\nDespite his deteriorating health, On 7 November 1947 he completed the first draft in bed, and subsequently travelled to East Kilbride near Glasgow for medical treatment at Hairmyres Hospital, where a specialist confirmed a chronic and infectious case of tuberculosis.\n\n### Writing Methods and Daily Habits\n\nBecause Orwell was too sick to sit for long periods of time, he usually wrote and edited from bed, which he noted was awkward with a typewriter.(no content)People sitting in the kitchen below have reminisced that they seldom saw Orwell downstairs but only heard him typing away non-stop from above.(no content)Although the change of scenery was to take Orwell away from the distractions of London, he seemed to spend a lot of time on Jura away from his writing\u2014gardening, fishing, and exploring instead.\n\n### 1948: The Final Push\n\nOrwell was discharged in the summer of 1948, after which he returned to Jura and produced a full second draft of Nineteen Eighty-Four, which he finished in November.(no content)During the next three months, spending half the day in bed, working from notes he had made in the hospital, he scribbled revisions throughout the first draft's margins.(no content)Back in Jura after seven months, he typed the final version of the book while lying in bed, which was awkward to manage, or sitting on a kitchen chair in his room, smoking like a funnel despite the condition of his lungs.\n\n### The Final Manuscript\n\nHe asked Warburg to have someone come to Barnhill and retype the manuscript, which was so untidy that the task was only considered possible if Orwell were present, as only he could understand it.(no content)The previous volunteer had left the country and no other could be found at short notice, so an impatient Orwell retyped it himself at a rate of roughly 4,000 words a day during bouts of fever and bloody coughing fits.(no content)On 4 December 1948 Orwell sent the finished manuscript to Secker & Warburg and left Barnhill for good in January 1949.\n\n### Impact of Illness on the Novel\n\n\"Orwell himself told his friends that 1984 would have been less gloomy had he not been so ill\u2014it was a very dark, disturbing, and pessimistic work,\" Dr. Ross said.(no content)Orwell described his experience with collapse therapy in detail, and the treatment \"may have influenced the depiction of the tortures of Winston Smith in the Ministry of Love\" in 1984, according to Dr. Ross.(no content)Ross argues, though, that the experience of chronic illness made Orwell \"a better and more empathetic writer, in that his sense of suffering made his writing more universal.\"\n\n### Aftermath\n\nImmediately after mailing \"1984\" Orwell physically collapsed and wasn't capable of picking up a pen, let alone a typewriter. As soon as he was well enough to travel - just after Christmas 1948 - he left Jura for the last time and went immediately into a tuberculosis sanatorium in the hills near London.(no content)Orwell died of tuberculosis in a London hospital on January 21, 1950.\n\nThe writing of \"1984\" was thus a remarkable feat of determination, with Orwell literally sacrificing his health to complete what would become one of the most influential novels of the 20th century, typing the final manuscript himself while suffering from severe tuberculosis symptoms."
+    ],
+    "durationSeconds": 57.917168122
+  }
+}

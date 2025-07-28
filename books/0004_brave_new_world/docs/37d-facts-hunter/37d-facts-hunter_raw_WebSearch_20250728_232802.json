@@ -1,0 +1,62 @@
+{
+  "session_id": "9588e4fa-c119-4986-be3b-1d3af7769f8f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/9588e4fa-c119-4986-be3b-1d3af7769f8f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Brave New World\" soma drug pharmaceutical industry 1930s narcotics alcohol prohibition"
+  },
+  "tool_response": {
+    "query": "\"Brave New World\" soma drug pharmaceutical industry 1930s narcotics alcohol prohibition",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01GztmonBDMAjUr17wn7vzmu",
+        "content": [
+          {
+            "title": "Soma (Brave New World) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Soma_(Brave_New_World)"
+          },
+          {
+            "title": "Brave New World's Soma Explained (& Why London Really Needs The Drug)",
+            "url": "https://screenrant.com/brave-new-world-soma-drug-uses-purpose-explained/"
+          },
+          {
+            "title": "Examples Of Drug Abuse In Brave New World - 1387 Words | Bartleby",
+            "url": "https://www.bartleby.com/essay/Examples-Of-Drug-Abuse-In-Brave-New-FC9E3QJEU6"
+          },
+          {
+            "title": "Everything You Need to Know About Soma, the Fictional Drug in 'Brave New World'",
+            "url": "https://www.menshealth.com/entertainment/a33322972/what-is-soma-brave-new-world-peacock/"
+          },
+          {
+            "title": "How Is Soma Used In Brave New World - 539 Words | Bartleby",
+            "url": "https://www.bartleby.com/essay/How-Is-Soma-Used-In-Brave-New-6E5772EEF9218DA9"
+          },
+          {
+            "title": "Soma In Brave New World Essay - 1133 Words | Cram",
+            "url": "https://www.cram.com/essay/Addiction-Of-Drugs-In-Brave-New-World/PJALGQ6AT6"
+          },
+          {
+            "title": "What modern drug most resembles soma in Brave New World? - Quora",
+            "url": "https://www.quora.com/What-modern-drug-most-resembles-soma-in-Brave-New-World"
+          },
+          {
+            "title": "Everything You Need to Know About Soma, the Fictional Drug in 'Brave New World'",
+            "url": "https://www.yahoo.com/lifestyle/everything-know-soma-fictional-drug-172800837.html"
+          },
+          {
+            "title": "Soma in Brave New World by Aldous Huxley | Examples & Analysis - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/soma-in-brave-new-world-examples-analysis.html"
+          },
+          {
+            "title": "Brave New World - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World"
+          }
+        ]
+      },
+      "Based on my search, I found comprehensive information about soma in Brave New World and its connections to the pharmaceutical industry and substance issues of the 1930s. Here are the key findings:\n\n## Soma in Brave New World\n\nSoma is a fictional drug in Aldous Huxley's 1932 dystopian sci-fi novel Brave New World.(no content)In the novel, soma is an \"opiate of the masses\" that replaces religion and alcohol in a peaceful, but amoral, high-tech society far in the future.(no content)Soma, a narcotic tranquilizer in tablet and vapor form, is regularly taken by all members of society in order to produce feelings of euphoric happiness.\n\n## Historical Context and 1930s Drug Issues\n\nThe novel was written during a period of increasing substance abuse concerns. During the 1930s, substance abuse and addiction began to rise.(no content)Back in the early 20th century, America's prohibition of alcohol failed; it caused social and economic problems all over America.\n\n## Connections to Real Pharmaceutical Industry\n\nThe fictional soma has been compared to real pharmaceutical developments. \"[Pharmaceutical manufacturerer Hoffman-LaRoche] created the idea\u2014and doctors bought it\u2014 that you can have better living through chemistry,\" Hughes wrote.(no content)\"They have created what Aldous Huxley envisioned in Brave New World. They have given us soma, and it is called Valium.\"\n\n## Soma's Effects and Function\n\nIn Brave New World, the fictional soma was the product of six years of research by thousands of pharmacologists and biochemists, who sought to create the ideal intoxicant.(no content)It functions similarly to alcohol, but without the defects.(no content)Depending on the dose, soma can resemble alcohol, hard drugs, or mood regulators.\n\n## Government Control Through Drugs\n\nThe Controllers of the World-State encourage the use of soma for the benefit of the state, reducing unrest and subversive ideas by ensuring people are happy, and thereby preventing war.(no content)Government control is enforced through the use of soma, a hallucinogen that is known to sedate and distract individuals from realizing their enslavement, and this drug is exploited as a way to escape reality.\n\nThe search results show how Huxley's soma concept reflected both the emerging pharmaceutical industry of his era and the social issues surrounding alcohol prohibition and drug abuse that were prominent in the 1930s when he wrote the novel."
+    ],
+    "durationSeconds": 22.130059347999982
+  }
+}

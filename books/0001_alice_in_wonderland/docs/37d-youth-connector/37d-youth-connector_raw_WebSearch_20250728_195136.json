@@ -1,0 +1,63 @@
+{
+  "session_id": "da699f68-c845-42d0-95b0-1424cb01e40c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/da699f68-c845-42d0-95b0-1424cb01e40c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"we're all mad here\" alice wonderland meme internet slang usage"
+  },
+  "tool_response": {
+    "query": "\"we're all mad here\" alice wonderland meme internet slang usage",
+    "results": [
+      "I'll search for information about how the \"we're all mad here\" quote from Alice in Wonderland is used as a meme and in internet slang.",
+      {
+        "tool_use_id": "srvtoolu_01Lck7pZbUyE5jX6pweEyxvp",
+        "content": [
+          {
+            "title": "42 We're all mad here.... ideas - Pinterest",
+            "url": "https://www.pinterest.com/jlkirby78/were-all-mad-here/"
+          },
+          {
+            "title": "We're All Mad Here, I'm Mad You're Mad, PRINTABLE Wall Art, Alice's Adventures in Wonderland Quote, Cheshire Cat, Digital DOWNLOAD Print Jpg - Etsy",
+            "url": "https://www.etsy.com/listing/513799238/were-all-mad-here-im-mad-youre-mad"
+          },
+          {
+            "title": "350 Best We're All Mad Here ideas | alice in wonderland ...",
+            "url": "https://www.pinterest.com/thewhimsicalbat/were-all-mad-here/"
+          },
+          {
+            "title": "840 We're all mad here ideas | alice in wonderland ...",
+            "url": "https://www.pinterest.com/maddykat33/were-all-mad-here/"
+          },
+          {
+            "title": "Disney's Alice in Wonderland: \"We're all mad here\" never said?",
+            "url": "https://www.alternatememories.com/historical-events/movies/disneys-alice-in-wonderland-we-re-all-mad-here/"
+          },
+          {
+            "title": "Our Favourite Alice in Wonderland Quotes | Toppsta",
+            "url": "https://toppsta.com/blog/view/alice-in-wonderland-quotes"
+          },
+          {
+            "title": "We're All Mad Here (Alice in Wonderland) | The Dog and Dragon",
+            "url": "https://www.thedoganddragon.com/product/we-re-all-mad-here-alice-in-wonderand-/260"
+          },
+          {
+            "title": "Quotes - We're all mad here.",
+            "url": "https://www.shmoop.com/quotes/were-all-mad-here.html"
+          },
+          {
+            "title": "36 We're all mad here ideas | quotes, words, me quotes",
+            "url": "https://www.pinterest.com/cloudlessclouds/were-all-mad-here/"
+          },
+          {
+            "title": "Alice's Adventures in Wonderland -- Chapter VI",
+            "url": "https://www.cs.cmu.edu/~rgs/alice-VI.html"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about how the \"we're all mad here\" quote from Alice in Wonderland has become a popular meme and is used in internet culture:\n\n## Origin of the Quote\n\nThe original quote comes from Lewis Carroll's \"Alice's Adventures in Wonderland\" where the Cheshire Cat tells Alice: \"Oh, you can't help that,' said the Cat: 'we're all mad here. I'm mad. You're mad.'\"(no content)When Alice questions this, asking \"How do you know I'm mad?\" the Cat responds, \"You must be,\" said the Cat, or you wouldn't have come here.\"\n\n## Modern Internet Usage as a Meme\n\nThe phrase has become extremely popular in modern internet culture and is used in several ways:\n\n1. **As Merchandise and Wall Art**: The quote appears frequently on printable wall art, with Etsy shops selling \"We're All Mad Here, I'm Mad You're Mad\" prints featuring the Cheshire Cat illustration that appeal to Wonderland fans\n\n2. **Pinterest Collections**: Multiple Pinterest boards are dedicated to this theme, showing its popularity as a cultural reference that resonates with people who embrace their quirky or unconventional sides\n\n3. **Embracing Weirdness/Madness**: The quote has been adopted by people who identify as \"weird\" or different, with some creating acronyms like \"Wonderful Energetic Intelligent Random and Delightful\" to reclaim the term\n\n4. **Mental Health Context**: Some people use it in relation to mental health discussions, with one Pinterest user noting \"I've always wanted this tattooed on me!!! Sums up my family. 'but i'll tell you a secret... the best people are.'\"\n\n## Cultural Interpretation\n\nThe Cheshire Cat's comment is interpreted as a reminder that \"madness is simply a fact of life in Wonderland\" and that \"we often rationalise the things we do, making excuses for wild behaviour to make it sound normal\"(no content)The quote resonates with people who have \"ever felt like you're the only sane person in the room\" and makes them question their own perception of sanity\n\n## Mandela Effect Note\n\nInterestingly, there's a Mandela Effect associated with this quote in the Disney adaptation, where \"Many people remember the mysterious Cheshire Cat in the Disney version of Alice In Wonderland saying 'we're all mad here', but in fact watching the movie today shows him say 'most everyone is mad here'\"\n\nThe phrase has essentially become a shorthand in internet culture for embracing one's eccentricities, accepting the absurdity of life, and finding community among other \"mad\" people who don't fit conventional norms."
+    ],
+    "durationSeconds": 29.145871617999976
+  }
+}

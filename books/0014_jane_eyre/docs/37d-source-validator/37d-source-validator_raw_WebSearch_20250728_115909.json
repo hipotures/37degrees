@@ -1,0 +1,63 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Jane Eyre publication October 19 1847 Smith Elder Co six weeks manuscript acceptance"
+  },
+  "tool_response": {
+    "query": "Jane Eyre publication October 19 1847 Smith Elder Co six weeks manuscript acceptance",
+    "results": [
+      "I'll search for information about Jane Eyre's publication on October 19, 1847 by Smith, Elder & Co., and the six-week period between manuscript acceptance and publication.",
+      {
+        "tool_use_id": "srvtoolu_014VJzx5KWsZzU4UtpfC94Bu",
+        "content": [
+          {
+            "title": "Charlotte Bront\u00eb's \u201cJane Eyre\u201d is published in London | October 19, 1847 | HISTORY",
+            "url": "https://www.history.com/this-day-in-history/october-19/jane-eyre-is-published"
+          },
+          {
+            "title": "Scottish Publishers and English Literature: Smith, Elder & Co.",
+            "url": "https://victorianweb.org/history/scotland/12.html"
+          },
+          {
+            "title": "Jane Eyre - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Jane_Eyre"
+          },
+          {
+            "title": "The Publication Of Jane Eyre: Triumph Over Adversity \u2013 Anne Bront\u00eb",
+            "url": "http://www.annebronte.org/2024/10/20/the-publication-of-jane-eyre-triumph-over-adversity/"
+          },
+          {
+            "title": "How 'Jane Eyre' Was Published - The Story in Charlotte Bront\u00eb's Letters - leseriana",
+            "url": "https://leseriana.blog/2023/10/21/how-jane-eyre-was-published-the-story-in-charlotte-brontes-letters/"
+          },
+          {
+            "title": "Jane Eyre, by Charlotte Bronte (1847) - ZSR Library",
+            "url": "https://zsr.wfu.edu/2016/jane-eyre-by-charlotte-bronte-1847/"
+          },
+          {
+            "title": "Charlotte Bront\u00eb\u2019s Contract For Jane Eyre",
+            "url": "http://www.annebronte.org/2021/09/12/charlotte-brontes-contract-for-jane-eyre/"
+          },
+          {
+            "title": "Jane Eyre | Encyclopedia.com",
+            "url": "https://www.encyclopedia.com/arts/educational-magazines/jane-eyre"
+          },
+          {
+            "title": "COSGB: Smith, Elder & Co.",
+            "url": "http://cosgb.blogspot.com/2012/02/smith-elder-co.html"
+          },
+          {
+            "title": "Charlotte Bront\u00eb's The Professor | | The Morgan Library & Museum",
+            "url": "https://www.themorgan.org/collection/charlotte-bronte/81847"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about Jane Eyre's publication on October 19, 1847, by Smith, Elder & Co., and the six-week timeline between manuscript acceptance and publication.\n\n## Key Facts About Jane Eyre's Publication\n\nJane Eyre was published on October 19, 1847 by Smith, Elder & Co. of London under Charlotte Bront\u00eb's pen name \"Currer Bell\". On the same day the novel was published, October 19th, Currer Bell received six copies of it.\n\n## The Six-Week Timeline\n\nGeorge Smith succeeded in bringing the novel out in only six weeks, in time for the 1847 Christmas trade. The remarkably fast publication process worked as follows:\n\n1. **Manuscript Submission**: Charlotte's new manuscript was sent to Smith, Elder on 28th August 1847\n2. **Immediate Acceptance**: George Smith read it in one day, cancelling his dinner appointment, and was enthralled\n3. **Publication**: Less than two months later, on 16th October 1847, it was available to buy\n\n## George Smith's Reaction\n\nSmith spent one entire Sunday reading without being able to \"put the book down\". Smith began reading it in his stately London mansion on Sunday morning, cancelled his lunch, cancelled a meeting and read it all in one day.\n\n## Why Charlotte Chose Smith, Elder & Co.\n\nCharlotte submitted Jane Eyre to Smith, Elder & Co. because of the \"courteous\" and \"considerate\" rejection letter she had received for The Professor. Despite rejecting her first novel, the publisher had encouraged her to submit other work.\n\n## The Publishing Contract\n\nThe terms included the refusal of her two next works at the price of one hundred pounds each. Charlotte accepted these terms, trusting that if Jane Eyre proved successful, the publisher would increase future payments.\n\n## Success and Reception\n\nJane Eyre was published just three months later, in October, 1847. The novel became an almost instant commercial success. So high was demand for the book that the publisher issued a second edition within three months, followed by a third edition in April, 1848.\n\nThe rapid acceptance and publication of Jane Eyre in just six weeks was extraordinary even by 19th-century standards, demonstrating both the quality of Charlotte Bront\u00eb's manuscript and George Smith's exceptional editorial judgment."
+    ],
+    "durationSeconds": 29.865157459000127
+  }
+}

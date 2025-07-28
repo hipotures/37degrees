@@ -1,0 +1,63 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Animal Farm\" Polish translation Teresa Jele\u0144ska \"Folwark zwierz\u0119cy\" academic research"
+  },
+  "tool_response": {
+    "query": "\"Animal Farm\" Polish translation Teresa Jele\u0144ska \"Folwark zwierz\u0119cy\" academic research",
+    "results": [
+      "I'll search for academic research about Teresa Jele\u0144ska's Polish translation of \"Animal Farm\" (Folwark zwierz\u0119cy).",
+      {
+        "tool_use_id": "srvtoolu_014HJagb56nkZRYsAzjeuymp",
+        "content": [
+          {
+            "title": "Folwark zwierzecy. Przelozyla z angielskiego Teresa Jelenska. / Folwark zwierz\u0119cy. Prze\u0142o\u017cy\u0142a z angielskiego Teresa Jele\u0144ska. Animal Farm. Translated by Teresa Jele\u0144ska. | George Orwell |",
+            "url": "https://www.foldvaribooks.com/pages/books/899/george-orwell/folwark-zwierzecy-przelozyla-z-angielskiego-teresa-jelenska-folwark-zwierzecy-przelozyla-z"
+          },
+          {
+            "title": "Orwell in Translation - European studies blog",
+            "url": "https://blogs.bl.uk/european/2017/11/orwell-in-translation.html"
+          },
+          {
+            "title": "Masha Karp on the Ukrainian translation of Animal Farm",
+            "url": "https://orwellfoundation.substack.com/p/the-ukrainian-translation-of-animal-farm-excerpt-from-masha-karps-orwell-and-russia"
+          },
+          {
+            "title": "Trove",
+            "url": "https://trove.nla.gov.au/nbdid/3576752"
+          },
+          {
+            "title": "(PDF) Orwell and the Poles: The Case of 'Animal Farm' | Krystyna Wieszczek - Academia.edu",
+            "url": "https://www.academia.edu/38849855/Orwell_and_the_Poles_The_Case_of_Animal_Farm"
+          },
+          {
+            "title": "Folwark Zwierz\u0119cy -Animal Farm- Polish 1947 | Country House Library - Country House Library",
+            "url": "https://countryhouselibrary.co.uk/products/folwark-zwierzecy-george-orwells-animal-farm-polish-edition-1947"
+          },
+          {
+            "title": "Folwark zwierzecy (Polish Edition): Orwell, George: 9788377580288: Amazon.com: Books",
+            "url": "https://www.amazon.com/Folwark-Zwierzecy-Polska-wersja-jezykowa/dp/8377580284"
+          },
+          {
+            "title": "Orwell George - Animal Farm. Translated from the English by Teresa Jele\u0144ska. London 1974 Renewal - Online auction / Online bidding - Price - OneBid",
+            "url": "https://one.bid/en/ksiazki-i-starodruki-orwell-george-folwark-zwierzecy-przelozyla-z-ang-teresa-jelenska-londyn-1974-odnowa/1967591"
+          },
+          {
+            "title": "Animal Farm - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Animal_Farm"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy - Wielkopolska Digital Library",
+            "url": "https://www.wbc.poznan.pl/dlibra/publication/492230/edition/399795"
+          }
+        ]
+      },
+      "Based on my search results, I found some valuable information about Teresa Jele\u0144ska's Polish translation of \"Animal Farm\" (Folwark zwierz\u0119cy), though specific academic research papers focusing on this translation are limited in these results. Here's what I discovered:\n\n## Key Information about Teresa Jele\u0144ska's Translation:\n\nTeresa Jele\u0144ska was the wife of a Polish diplomat, and her translation was published at the turn of 1946 and 1947 in London by the League of Poles Abroad.(no content)She was described as a '\"grande dame\" in Italo-English literary circles'.(no content)5000 copies of her translation were published at the very end of 1946 by 'Swiatpol', the League of Poles Abroad based in London. This makes it the first translation of Animal Farm into any language.\n\n## Academic Research:\n\nThe most significant academic work I found is by **Krystyna Wieszczek**. Her paper explores the fascinating background to the publication of Orwell's famous novel behind the Iron Curtain. Importantly, this research draws on primary material, including Orwell's letters to Teresa Jele\u0144ska deemed lost by Orwell scholars, and discusses Orwell's attitude to Polish problems as well as aspects of Orwell's early Polish reception and relationships with Poles in Paris and London.\n\n## Historical Significance:\n\nJele\u0144ska corresponded with Orwell, elucidating some passages with his help, and was so fascinated by the fable that she tried to organise its translation into other languages as well.(no content)She was instrumental in facilitating the Ukrainian translation by putting Ihor Szewczenko in touch with Orwell.(no content)While the official publishing market in communist Poland would condemn Orwell to being an 'unperson' for almost forty years after his death, Orwell's outspoken political views, in particular his fierce opposition towards Stalin's politics and sympathy for Poland, turned him into one of the most appreciated representatives of the British left within Polish communities scattered around the globe.\n\n## Publishing History:\n\nThe translation had a complex publishing history, with multiple editions appearing in different contexts:\n- 1946/1947: First edition in London\n- 1974: Odnowa edition (London)\n- 1979: Samizdat edition by Niezale\u017cna Oficyna Wydawnicza\n\nThe Wieszczek paper on Academia.edu appears to be the most comprehensive academic treatment of this topic based on these search results. For more detailed academic research, you might want to access that paper directly or search academic databases for additional scholarly work on this translation."
+    ],
+    "durationSeconds": 31.618905430999586
+  }
+}

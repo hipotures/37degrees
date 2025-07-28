@@ -1,0 +1,63 @@
+{
+  "session_id": "e18f7f1c-5883-41e4-8ef9-15aee4aa266b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e18f7f1c-5883-41e4-8ef9-15aee4aa266b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Great Gatsby\" modern dating apps social media stalking relationship idealization Daisy Gatsby Gen Z dating"
+  },
+  "tool_response": {
+    "query": "\"Great Gatsby\" modern dating apps social media stalking relationship idealization Daisy Gatsby Gen Z dating",
+    "results": [
+      "I'll search for information about how The Great Gatsby relates to modern dating apps, social media stalking, and relationship idealization in Gen Z dating culture.",
+      {
+        "tool_use_id": "srvtoolu_01VEWJ7VpK8U9V3bH3Y5vmYL",
+        "content": [
+          {
+            "title": "The Modern Era of Great Gatsby: Social Media Version | by Yoamer | Medium",
+            "url": "https://medium.com/@yoamer/the-modern-era-of-great-gatsby-social-media-version-55349cbcbc1e"
+          },
+          {
+            "title": "What Is Gatsbying? The Dating Trend Has To Do With Social Media & It's So Relatable",
+            "url": "https://www.elitedaily.com/p/what-is-gatsbying-the-dating-trend-has-to-do-with-social-media-its-so-relatable-9575716"
+          },
+          {
+            "title": "Gatsbying: The new dating trend you\u2019re probably already doing \u2013 Metro US",
+            "url": "https://www.metro.us/gatsbying-the-new-dating-trend-youre-probably-already-doing/"
+          },
+          {
+            "title": "Best Analysis of Love and Relationships in The Great Gatsby",
+            "url": "https://blog.prepscholar.com/the-great-gatsby-theme-love-relationships"
+          },
+          {
+            "title": "What\u2019s Gatsbying and How Does It Work: Pros & Cons",
+            "url": "https://www.marriage.com/advice/relationship/what-is-gatsby/"
+          },
+          {
+            "title": "The Great Gatsby and the struggle for wealth, purity, and the ...",
+            "url": "https://scholarworks.calstate.edu/downloads/pr76f7594"
+          },
+          {
+            "title": "The Great Gatsby: Did Gatsby Really Love Daisy | Free Essay Example for Students",
+            "url": "https://aithor.com/essay-examples/the-great-gatsby-did-gatsby-really-love-daisy"
+          },
+          {
+            "title": "The Great Gatsby - Where's the Proof that Gatsby \"Did it all for Daisy?\" Showing 1-29 of 29",
+            "url": "https://www.goodreads.com/topic/show/1746528-where-s-the-proof-that-gatsby-did-it-all-for-daisy"
+          },
+          {
+            "title": "Dating Trend Alert: The Pros and Cons of \u201cGatsby-ing\u201d | Consumer-Rankings.com",
+            "url": "https://www.consumer-rankings.com/blog/dating-trend-alert-the-pros-and-cons-of-gatsby-ing/"
+          },
+          {
+            "title": "Gatsbying: The New Way We Seek Validation - SoulMatcher - Elite Dating Service",
+            "url": "https://soulmatcher.app/blog/gatsbying-the-instagram-trend-redefining-modern-flirting/"
+          }
+        ]
+      },
+      "Based on the search results, I can see fascinating connections between The Great Gatsby and modern dating behaviors, particularly through Gen Z's use of social media. Here's what I found:\n\n## The Great Gatsby and Modern Dating: Social Media Parallels\n\n### \"Gatsbying\" - A Modern Dating Phenomenon\n\nWell, think about what Jay Gatsby did in The Great Gatsby. Unfortunately, it was 1922, so he didn't have access to Instagram or Snapchat. Instead, he devoted all of his time and attention to throwing elaborate parties to get his longtime crush, Daisy, to (1) notice him and (2) like him back.(no content)Just as Jay Gatsby threw grand parties hoping his love, Daisy, would show up, \"Gatsbying\" in the digital age refers to the act of posting content on social media with the primary intent of catching a specific person's attention.\n\n### How Gen Z \"Gatsbys\" Through Social Media\n\nAs Australian model Matilda Dods writes for the lifestyle blog Tomboy, \"Why, instead of just sending a text to the boy that I like, am I throwing the equivalent of a champagne-soaked, chandelier-swinging, Charleston-dancing party on my Instagram story?\"\n\nKey platforms for modern Gatsbying include:\n- Instagram Stories: Users post ephemeral content, such as photos or videos, hoping that a specific person views their story. The allure lies in the temporary nature of the content and the ability to see exactly who has viewed it.\n- Snapchat offers a sense of immediacy with its temporary snaps and stories, ideal for fleeting attention-grabbing moments.\n\n### Relationship Idealization in Both Eras\n\nThe parallel between Gatsby's idealization of Daisy and modern social media behavior is striking:\n\nDaisy is a symbol for the idealized existence that was never really lived. Similar to this, people nowadays frequently pursue a carefully curated online persona in the hopes that success or attention on social media will translate into happiness.(no content)Gatsby's love was an illusion, created by an ideal that starkly contrasted with reality.\n\n### Social Media \"Stalking\" and Obsessive Behavior\n\nModern parallels to Gatsby's obsessive behavior include:\n- So, out of love or obsessiveness, Gatsby kept a scrapbook of memorabilia about Daisy. Stalkers do this, too.\n- \"20 minutes later you pull your phone out again, and immediately check to see if 'they've' seen it. You know who 'they' are.\" This, of course, is for the purpose of getting \"that ceaseless green light across the water\" \u2014 or the modern-day equivalent.\n\n### The Psychology Behind It\n\nAt its core, Gatsbying reflects our innate desire for validation and connection. Drawing from \"What's Gatsby\" in literature, where Jay Gatsby sought acknowledgment and love from Daisy, modern Gatsbying mirrors this need to be seen and appreciated, especially by those we value. The act of Gatsbying taps into the dopamine-driven reward systems of our brain, where likes, comments, and views become affirmations of our worth.\n\n### The Dark Side of Digital Idealization\n\nThis behavior is rooted in a psychological desire to connect with someone while minimizing the fear of direct rejection. Instead of openly reaching out, individuals create a carefully curated online presence, hoping to spark curiosity or elicit engagement from their person of interest.(no content)The easiest and most straightforward way to get what you want is to be direct. Here are a few reasons why Gatsby-ing is not the way to go: There's absolutely no guarantee that your crush will decode your Gatsby-ing ways.\n\nThe Great Gatsby's themes of unrequited love, obsessive idealization, and performative displays of wealth and status translate remarkably well to modern dating culture, where social media enables similar behaviors through curated posts, story views, and the endless pursuit of digital validation from romantic interests."
+    ],
+    "durationSeconds": 42.36986846499983
+  }
+}

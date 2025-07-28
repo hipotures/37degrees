@@ -3,13 +3,13 @@ Book: Alicja w Krainie Czarów (Alice in Wonderland) by Lewis Carroll (1865)
 Location: books/0001_alice_in_wonderland/
 
 ## Primary Tasks
-- [ ] Track major film adaptations from Disney (1951) to Tim Burton (2010) and beyond
-- [ ] Research video game appearances (American McGee's Alice, Kingdom Hearts, etc.)
-- [ ] Find TikTok trends, challenges, and memes referencing Alice
-- [ ] Document music references (Jefferson Airplane to K-pop)
-- [ ] Analyze fashion influence (Alice-inspired collections, cosplay)
-- [ ] Study psychological/philosophical references in modern media
-- [ ] Collect data on theme parks and immersive experiences
+- [x] Track major film adaptations from Disney (1951) to Tim Burton (2010) and beyond ✓ (2025-07-28 04:20)
+- [x] Research video game appearances (American McGee's Alice, Kingdom Hearts, etc.) ✓ (2025-07-28 04:20)
+- [x] Find TikTok trends, challenges, and memes referencing Alice ✓ (2025-07-28 04:20)
+- [x] Document music references (Jefferson Airplane to K-pop) ✓ (2025-07-28 16:14)
+- [x] Analyze fashion influence (Alice-inspired collections, cosplay) ✓ (2025-07-28 04:20)
+- [x] Study psychological/philosophical references in modern media ✓ (2025-07-28 16:45)
+- [x] Collect data on theme parks and immersive experiences ✓ (2025-07-28 16:14)
 
 ## Search Focus Areas
 1. **Film & TV**: All major adaptations, reimaginings, references

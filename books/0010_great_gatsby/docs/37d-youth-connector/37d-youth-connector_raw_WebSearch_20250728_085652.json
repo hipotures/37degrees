@@ -1,0 +1,177 @@
+{
+  "session_id": "e18f7f1c-5883-41e4-8ef9-15aee4aa266b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e18f7f1c-5883-41e4-8ef9-15aee4aa266b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "#gatsby TikTok BookTok \"Great Gatsby\" viral videos trends 2024 Gen Z reactions aesthetic"
+  },
+  "tool_response": {
+    "query": "#gatsby TikTok BookTok \"Great Gatsby\" viral videos trends 2024 Gen Z reactions aesthetic",
+    "results": [
+      "I'll search for information about The Great Gatsby's viral presence on TikTok and BookTok in 2024.",
+      {
+        "tool_use_id": "srvtoolu_01Lh8E1y9doupdSq9263eb3M",
+        "content": [
+          {
+            "title": "The Great Gatsby Chapters 4 6 Review",
+            "url": "https://www.tiktok.com/discover/the-great-gatsby-chapters-4-6-review"
+          },
+          {
+            "title": "Example of Gen Z Great Gatsby Project",
+            "url": "https://www.tiktok.com/discover/example-of-gen-z-great-gatsby-project"
+          },
+          {
+            "title": "Millennials and The Lost Generation Great Gatsby",
+            "url": "https://www.tiktok.com/discover/millennials-and-the-lost-generation-great-gatsby"
+          },
+          {
+            "title": "Great Gatsby",
+            "url": "https://www.tiktok.com/discover/great-gatsby?lang=en"
+          },
+          {
+            "title": "The Great Gatsby Edit",
+            "url": "https://www.tiktok.com/discover/the-great-gatsby-edit"
+          },
+          {
+            "title": "Essay about The Great Gatsby",
+            "url": "https://www.tiktok.com/discover/essay-about-the-great-gatsby"
+          },
+          {
+            "title": "The Great Gatsby",
+            "url": "https://www.tiktok.com/discover/the-great-gatsby?lang=en"
+          },
+          {
+            "title": "Art The Great Gatsby",
+            "url": "https://www.tiktok.com/discover/art-the-great-gatsby"
+          },
+          {
+            "title": "The Great Gatsby Musical",
+            "url": "https://www.tiktok.com/en/trending/detail/the-great-gatsby-musical"
+          },
+          {
+            "title": "Essay about The Great Gatsby Jay Gatsby",
+            "url": "https://www.tiktok.com/discover/essay-about-the-great-gatsby-jay-gatsby"
+          }
+        ]
+      },
+      "The search results are showing TikTok discovery pages but without detailed content. Let me try a more focused search to get better information about The Great Gatsby's viral trends and Gen Z engagement.",
+      {
+        "tool_use_id": "srvtoolu_01RcqSar15GbZcrgvo8dgMRp",
+        "content": [
+          {
+            "title": "BookTok\u2019s 21 Most Talked About Books of 2024",
+            "url": "https://www.rollingstone.com/culture/culture-lists/booktok-best-books-2024-1235090973/"
+          },
+          {
+            "title": "The Great Gatsby - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+          },
+          {
+            "title": "Understanding The Great Gatsby Through Gen Z Perspectives",
+            "url": "https://www.tiktok.com/@amber.mariee44/video/7471051320288464170"
+          },
+          {
+            "title": "Amazon.com: The Great Rizzler (Gen Z Great Gatsby Translation): 9798324134945: Fitzgerald, F. Scott, Ravenscroft, Antonius: Books",
+            "url": "https://www.amazon.com/Great-Rizzler-Gen-Gatsby-Translation/dp/B0D2VMMYVZ"
+          },
+          {
+            "title": "The Great Gatsby (Gen Z Edition): A Parody: Okerstrom, Gwyneth: 9798282984286: Amazon.com: Books",
+            "url": "https://www.amazon.com/Great-Gatsby-Gen-Parody/dp/B0F844WYSF"
+          },
+          {
+            "title": "Example of Gen Z Great Gatsby Project",
+            "url": "https://www.tiktok.com/discover/example-of-gen-z-great-gatsby-project"
+          },
+          {
+            "title": "Millennials and The Lost Generation Great Gatsby",
+            "url": "https://www.tiktok.com/discover/millennials-and-the-lost-generation-great-gatsby"
+          },
+          {
+            "title": "Amazon.com: The Great Rizzler (Gen Z Great Gatsby Translation) eBook : Fitzgerald, F. Scott, Ravenscroft, Antonius: Kindle Store",
+            "url": "https://www.amazon.com/Great-Rizzler-Gen-Gatsby-Translation-ebook/dp/B0D29MM4VP"
+          },
+          {
+            "title": "The Great Gatsby: The Only Authorized Edition: Fitzgerald, F. Scott: 9780743273565: Amazon.com: Books",
+            "url": "https://www.amazon.com/Great-Gatsby-F-Scott-Fitzgerald/dp/0743273567"
+          },
+          {
+            "title": "The Great Gatsby | Summary, Characters, Reception, & Analysis | Britannica",
+            "url": "https://www.britannica.com/topic/The-Great-Gatsby"
+          }
+        ]
+      },
+      "Let me search for more specific information about The Great Gatsby's viral trends on TikTok in 2024.",
+      {
+        "tool_use_id": "srvtoolu_01JVZ3TiFSrnjJfNkyZfsqzB",
+        "content": [
+          {
+            "title": "The Great Gatsby Aesthetic",
+            "url": "https://www.tiktok.com/discover/the-great-gatsby-aesthetic"
+          },
+          {
+            "title": "Great Gatsby Aesthetic",
+            "url": "https://www.tiktok.com/discover/great-gatsby-aesthetic"
+          },
+          {
+            "title": "The Great Gatsby Aesthetic Videos",
+            "url": "https://www.tiktok.com/discover/the-great-gatsby-aesthetic-videos"
+          },
+          {
+            "title": "The Great Gatsby Party Toronto 2024",
+            "url": "https://www.tiktok.com/discover/the-great-gatsby-party-toronto-2024"
+          },
+          {
+            "title": "2024 Aesthetic",
+            "url": "https://www.tiktok.com/discover/2024-aesthetic?lang=en"
+          },
+          {
+            "title": "7 Most Popular TikTok Aesthetics That Are Taking Over in 2024 | ULTIMA II",
+            "url": "https://www.ultimaii.com/en/read/life-style/7-Most-Popular-TikTok-Aesthetics-That-Are-Taking-Over-in-2024"
+          },
+          {
+            "title": "TikTok - Make Your Day",
+            "url": "https://www.tiktok.com/discover/The-Great-Gatsby-Aesthetic-Videos?lang=en"
+          },
+          {
+            "title": "Aesthetic Trends 2024",
+            "url": "https://www.tiktok.com/discover/aesthetic-trends-2024"
+          },
+          {
+            "title": "The Great Gatsby Chapters 4 6 Review",
+            "url": "https://www.tiktok.com/discover/the-great-gatsby-chapters-4-6-review"
+          },
+          {
+            "title": "Great Gatsby Decoration Ideas",
+            "url": "https://www.tiktok.com/discover/great-gatsby-decoration-ideas"
+          }
+        ]
+      },
+      "Let me search for more specific information about how Gen Z is engaging with The Great Gatsby on social media.",
+      {
+        "tool_use_id": "srvtoolu_01MdxNVkbuTCzmsrnBCKtGsy",
+        "content": [
+          {
+            "title": "How \"The Great Gatsby\" is Doing Social Media Right",
+            "url": "https://www.webimax.com/blog/social-media/how-the-great-gatsby-is-doing-social-media-right"
+          },
+          {
+            "title": "The Great Gatsby and What It Means For Gen Z \u2013 Classics, Culture, Christianity",
+            "url": "https://classicscultureandchristianity.blog/2024/05/24/gatsby-and-gen-z/"
+          },
+          {
+            "title": "Three Reasons Jay Gatsby Would Be Undone By Social Media | Social Media Today",
+            "url": "https://www.socialmediatoday.com/content/three-reasons-jay-gatsby-would-be-undone-social-media"
+          },
+          {
+            "title": "The Great Gatsby - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+          }
+        ]
+      },
+      "Based on my search results, I found some interesting information about The Great Gatsby's presence on TikTok and social media in 2024, though the specific viral trends you're looking for have limited direct documentation. Here's what I discovered:\n\n## The Great Gatsby's Gen Z Engagement in 2024\n\n### Gen Z Translations and Parodies\nTwo Gen Z parody translations of The Great Gatsby have emerged: \"The Great Rizzler\" (a fully translated edition into Gen Z and Gen Alpha slang, making the complete storyline accessible to a younger audience) and \"The Great Gatsby (Gen Z Edition): A Parody\" which gives the classic an \"unhinged\" and \"chaotic Gen Z glow-up\" described as \"less 'Roaring Twenties,' more 'Trauma Dumping in a Gatsbycore Mansion.'\"(no content)\"The Great Rizzler\" transforms Fitzgerald's opening line from the original to: \"In my lil' tenderoni days, my papi slapped me with some real chili p advice that's been swimmin' in my brain grease like a fly in the soup ever since, no cap.\"\n\n### Broadway Musical and Cultural Impact\nA new Great Gatsby musical adaptation premiered on Broadway in 2024, with previews beginning May 25 and officially opening June 5, before closing on August 3rd, 2024. This likely contributed to renewed interest on social media platforms.\n\n### Gen Z's Connection to Gatsby's Themes\nA 2024 analysis suggests Gen Z connects with The Great Gatsby as \"the story of a man trying to repeat the past\" - finding relevance in Gatsby's desperate search for meaning in a world that feels devoid of it, comparing his situation to \"the constant human struggle for meaning.\"\n\n### BookTok Context\nWhile The Great Gatsby wasn't specifically mentioned in Rolling Stone's list of \"BookTok's 21 Most Talked About Books of 2024,\" the article notes that BookTok titles \"don't have to be from a popular genre, a well-known author, or even published this year\" as \"TikTok's algorithm, and the push from BookTok creators, means that some books go from simply a fun read on the app to an industry staple.\"\n\n### Public Domain Impact\nSince entering the public domain in 2021, numerous Great Gatsby retellings have emerged, including queer retellings like \"The Chosen and the Beautiful\" by Nghi Vo and \"Self-Made Boys: A Great Gatsby Remix\" by Anna-Marie McLemore (longlisted for the National Book Award for Young People's Literature).\n\nWhile I found multiple TikTok discovery pages related to Great Gatsby aesthetics, videos, and Gen Z projects, the actual content wasn't accessible through the search results. The evidence suggests there is significant Gen Z engagement with The Great Gatsby on TikTok, particularly around aesthetic content, educational projects, and the novel's themes of yearning and disillusionment that resonate with younger audiences."
+    ],
+    "durationSeconds": 52.975789168999995
+  }
+}

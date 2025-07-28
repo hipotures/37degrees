@@ -1,0 +1,155 @@
+{
+  "session_id": "7ca65eb2-e5d0-4143-8931-90f15001b62e",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7ca65eb2-e5d0-4143-8931-90f15001b62e.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Anna Karenina YouTube BookTube reviews video essays educational content view counts"
+  },
+  "tool_response": {
+    "query": "Anna Karenina YouTube BookTube reviews video essays educational content view counts",
+    "results": [
+      "I'll search for information about Anna Karenina content on YouTube, focusing on BookTube reviews, video essays, and educational content with their view counts.",
+      {
+        "tool_use_id": "srvtoolu_01VJrsXrQoae8v47sG5PktQ4",
+        "content": [
+          {
+            "title": "Anna Karenina: Study Guide | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/anna/"
+          },
+          {
+            "title": "Anna Karenina - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Anna_Karenina"
+          },
+          {
+            "title": "Salem Press - Critical Insights: Anna Karenina",
+            "url": "https://salempress.com/critical-insights-anna-karenina"
+          },
+          {
+            "title": "Anna Karenina: Summary & Analysis | StudySmarter",
+            "url": "https://www.studysmarter.co.uk/explanations/english-literature/american-literature/anna-karenina/"
+          },
+          {
+            "title": "Anna Karenina: Video Review | Common Sense Media",
+            "url": "https://www.commonsensemedia.org/videos/anna-karenina-video-review"
+          },
+          {
+            "title": "Reviews of Anna Karenina \u2013 UNSUITABLE",
+            "url": "https://sites.duke.edu/unsuitable/reviews-of-anna-karenina/"
+          },
+          {
+            "title": "Anna Karenina by Leo Tolstoy | Goodreads",
+            "url": "https://www.goodreads.com/book/show/151.Anna_Karenina"
+          },
+          {
+            "title": "Anna Karenina Study Guide | Course Hero",
+            "url": "https://www.coursehero.com/lit/Anna-Karenina/"
+          },
+          {
+            "title": "Anna Karenina by Leo Tolstoy: Book Summary and Review - Melissa Delport",
+            "url": "https://melissadelport.com/book-reviews/anna-karenina-book-summary/"
+          },
+          {
+            "title": "Anna Karenina | Encyclopedia.com",
+            "url": "https://www.encyclopedia.com/arts/educational-magazines/anna-karenina"
+          }
+        ]
+      },
+      "I notice the search results don't contain specific information about YouTube BookTube reviews, video essays, or view counts for Anna Karenina content. Let me search more specifically for YouTube-related content.",
+      {
+        "tool_use_id": "srvtoolu_01HH4ygKn2mJQfUAwdRANmoD",
+        "content": [
+          {
+            "title": "The Top Booktubers & Book Youtube Channels - Book Scrolling",
+            "url": "https://www.bookscrolling.com/the-top-booktubers-book-youtube-channels/"
+          },
+          {
+            "title": "15 Fantastic YouTube Book Reviewers For Your Viewing Pleasure",
+            "url": "https://bookriot.com/youtube-book-reviews/"
+          },
+          {
+            "title": "100 Book Youtube Channels and Influencers For ...",
+            "url": "https://videos.feedspot.com/book_youtube_channels/"
+          },
+          {
+            "title": "Anna Karenina - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Anna_Karenina"
+          },
+          {
+            "title": "The YouTube Guide to Books: The 8 Best BookTube Channels - InsideHook",
+            "url": "https://www.insidehook.com/books/youtube-guide-books-best-booktube-channels"
+          },
+          {
+            "title": "Anna Karenina by Leo Tolstoy | Goodreads",
+            "url": "https://www.goodreads.com/book/show/151.Anna_Karenina"
+          },
+          {
+            "title": "Anna Karenina: Video Review | Common Sense Media",
+            "url": "https://www.commonsensemedia.org/videos/anna-karenina-video-review"
+          },
+          {
+            "title": "50 Book Review Youtube Channels To Follow in 2023",
+            "url": "https://videos.feedspot.com/book_review_youtube_channels/"
+          },
+          {
+            "title": "Anna Karenina (TV Mini Series 1977) \u2b50 7.8 | Drama, History, Romance",
+            "url": "https://www.imdb.com/title/tt0075476/"
+          },
+          {
+            "title": "ANNA KARENINA | Kirkus Reviews",
+            "url": "https://www.kirkusreviews.com/book-reviews/leo-tolstoy/anna-karenina/"
+          }
+        ]
+      },
+      "Let me search for more specific information about Anna Karenina YouTube video essays and their view counts.",
+      {
+        "tool_use_id": "srvtoolu_01PpaFRbRF8iG1dmxUdWbuyc",
+        "content": [
+          {
+            "title": "Anna Karenina by Leo Tolstoy | Summary, Characters & Analysis - Video | Study.com",
+            "url": "https://study.com/academy/lesson/video/anna-karenina-summary-flashcards.html"
+          },
+          {
+            "title": "Anna Karenina Essays & Research Papers - Edubirdie.com",
+            "url": "https://hub.edubirdie.com/examples/anna-karenina/"
+          },
+          {
+            "title": "Anna Karenina: Suggested Essay Topics | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/anna/essay-topics/"
+          },
+          {
+            "title": "Anna Karenina: Mini Essays | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/anna/mini-essays/"
+          },
+          {
+            "title": "Anna Karenina: Video Review | Common Sense Media",
+            "url": "https://www.commonsensemedia.org/videos/anna-karenina-video-review"
+          },
+          {
+            "title": "Anna Karenina Essays | 123 Help Me",
+            "url": "https://www.123helpme.com/topics/anna-karenina"
+          },
+          {
+            "title": "YouTube Video Statistics for Anna Karenina: The Classic Love Story Retold | Audiobook - Part 1 - NoxInfluencer",
+            "url": "https://www.noxinfluencer.com/youtube/video-analytics/qpRBEaZ67hg"
+          },
+          {
+            "title": "Salem Press - Critical Insights: Anna Karenina",
+            "url": "https://salempress.com/critical-insights-anna-karenina"
+          },
+          {
+            "title": "Anna Karenina Essay Examples | Free Samples for Students - GradesFixer",
+            "url": "https://gradesfixer.com/free-essay-examples/anna-karenina/"
+          },
+          {
+            "title": "Anna Karenina Essays | GradeSaver",
+            "url": "https://www.gradesaver.com/anna-karenina/essays"
+          }
+        ]
+      },
+      "Based on my searches, I haven't been able to find specific information about YouTube BookTube reviews, video essays, or view counts for Anna Karenina content. The search results primarily provided:\n\n1. Educational video content from Study.com that offers a 5-minute summary and analysis of Anna Karenina\n\n2. General information about top BookTubers and book YouTube channels, though without specific mentions of Anna Karenina content\n\n3. Lists of BookTube reviewers who create in-depth reviews and bookish content, but no specific Anna Karenina videos mentioned\n\n4. Information about BookTube as a community on YouTube where book lovers share reviews and recommendations across various genres\n\n5. One specific YouTube video about \"Anna Karenina: The Classic Love Story Retold | Audiobook - Part 1\", though without view count information\n\nThe searches did reveal that:\n- Common Sense Media has created a video review of Anna Karenina (dated November 30, 2012)\n- Some Goodreads users mention connecting through BookTube channels\n- There are book review YouTube channels ranked by popularity based on subscribers and video views\n\nUnfortunately, I was unable to find specific data about:\n- Popular BookTube reviews of Anna Karenina with view counts\n- Video essays specifically analyzing Anna Karenina on YouTube\n- Educational content about Anna Karenina with viewership statistics\n- Which BookTubers have covered Anna Karenina and how popular those videos were\n\nThe search results suggest that while BookTube is an active community and Anna Karenina remains a widely discussed classic, specific metrics about YouTube content covering this novel were not available in the search results."
+    ],
+    "durationSeconds": 36.73996721099992
+  }
+}

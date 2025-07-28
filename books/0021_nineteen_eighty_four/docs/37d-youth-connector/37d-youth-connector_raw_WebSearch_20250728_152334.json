@@ -1,0 +1,63 @@
+{
+  "session_id": "b8c17c71-efc6-4c19-9b68-e101c36de9c9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b8c17c71-efc6-4c19-9b68-e101c36de9c9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "TikTok 1984 Orwell trends dystopian memes surveillance Big Brother teenagers 2024"
+  },
+  "tool_response": {
+    "query": "TikTok 1984 Orwell trends dystopian memes surveillance Big Brother teenagers 2024",
+    "results": [
+      "I'll search for information about TikTok trends related to George Orwell's \"1984\" and dystopian themes among teenagers in 2024.",
+      {
+        "tool_use_id": "srvtoolu_01TkRTKSE4FtsLuSotDnX6Hm",
+        "content": [
+          {
+            "title": "What Is The 'Big Brother Is Watching You' Meme On TikTok? The Meaning Of The Viral '1984' Memes Explained",
+            "url": "https://knowyourmeme.com/editorials/guides/what-is-the-big-brother-is-watching-you-meme-on-tiktok-the-meaning-of-the-viral-1984-memes-explained"
+          },
+          {
+            "title": "How social media is pushing us toward 1984",
+            "url": "https://www.fastcompany.com/90545787/how-social-media-is-pushing-us-toward-1984"
+          },
+          {
+            "title": "1984 Big Brother Meme",
+            "url": "https://www.tiktok.com/discover/1984-big-brother-meme"
+          },
+          {
+            "title": "Big Brother in the 21st Century: How Orwell's '1984' ...",
+            "url": "https://braincuddle.medium.com/big-brother-in-the-21st-century-how-orwells-1984-mirrors-our-society-5f38cf8b618c"
+          },
+          {
+            "title": "The Social Dilemma: Is Orwell\u2019s 1984 Dystopia Already here? | by Priyanshi Porwal | Medium",
+            "url": "https://priyanshiporwal.medium.com/the-social-dilemma-is-orwell-s-1984-dystopia-already-here-9e79907645b"
+          },
+          {
+            "title": "Orwell: 1984 to 2024 - Surveillance States and Privacy Concerns",
+            "url": "https://editverse.com/george-orwell-dystopian-fiction-totalitarianism/"
+          },
+          {
+            "title": "Big brother is (still) watching: why the lessons of 1984 are more important than ever",
+            "url": "https://reporter.anu.edu.au/all-stories/big-brother-is-still-watching-why-the-lessons-of-1984-are-more-important-than-ever"
+          },
+          {
+            "title": "What Does George Orwell's '1984' Mean in 2024?",
+            "url": "https://www.smithsonianmag.com/history/what-does-george-orwells-1984-mean-in-2024-180984468/"
+          },
+          {
+            "title": "2024 Is The New 1984: Big Brother & The Rise Of The Security Industrial Complex | ZeroHedge",
+            "url": "https://www.zerohedge.com/political/2024-new-1984-big-brother-rise-security-industrial-complex"
+          },
+          {
+            "title": "Shocking Parallels between '1984' and Today's World - Stoic of the Day",
+            "url": "https://www.stoicoftheday.com/shocking-parallels-between-1984-and-todays-world/"
+          }
+        ]
+      },
+      "Based on the search results, there is indeed a significant trend on TikTok in 2024 where teenagers and young people are using George Orwell's \"1984\" as a framework to discuss modern surveillance and dystopian themes. Here are the key findings:\n\n## TikTok's \"Big Brother Is Watching You\" Meme Trend\n\nTikTokers are using a piece of artwork referencing George Orwell's _1984_ to point out egregious examples of the book's impact on society. This viral trend emerged in late 2024, with content creators drawing parallels between Orwell's dystopian vision and contemporary digital life.\n\n## Key Themes in the 2024 TikTok Trends\n\n### 1. **Surveillance State Comparisons**\nYoung people are highlighting how modern technology mirrors Orwell's concepts:\n- The recent TikTok controversies highlight our modern surveillance state \u2013 a platform suspected of harvesting personal data on millions of users worldwide.\n- Your device might be the telescreen Orwell imagined.\n\n### 2. **Social Media as Modern \"Telescreens\"**\nThe parallel between Orwell's surveillance devices and today's technology is a major theme:\n- Orwell's \"telescreens,\" which can't be switched off and which record every conversation and monitor every movement of his characters, bear striking resemblance to our smartphones.\n- And just as telescreens automatically push programs on their viewers, social media's algorithms today decide what we see and shape our vision of the world.\n\n### 3. **\"Two Minutes Hate\" and Social Media Outrage**\nTikTokers are drawing connections between social media dynamics and Orwell's concept of manufactured outrage:\n- With his concepts of Two Minutes Hate, a daily ritual of outrage orchestrated by the Party, and Newspeak, a deliberately ambiguous language that's designed to limit people's ability to communicate in nuanced ways, Orwell revealed how people's thoughts, emotions, and ultimately actions can be manipulated.\n- The horrible thing about the Two Minutes Hate was not that one was obliged to act a part, but that it was impossible to avoid joining in.\n\n## Cultural Impact and Relevance in 2024\n\n### Historical Context\nSeventy-five years after its publication on June 8, 1949, Orwell's novel has attained a level of prominence enjoyed by few other books across academic, political and popular culture. The book has seen renewed interest, particularly during politically charged moments.\n\n### Sales Surge\n\"There's a very good reason why Orwell's novel experienced a complete surge in sales in 2016, when Donald Trump was elected US president.\" Experts predict similar trends in 2024:\n- Sumner predicts that, like in 2016 when the novel had a sales boom, another boost in interest is on the way. Sumner expects another boost in 1984 sales is on the way.\n\n## Modern Surveillance Parallels\n\nThe trend highlights real-world surveillance concerns:\n- There are roughly one billion surveillance cameras worldwide and that number continues to grow, thanks to their wholehearted adoption by governments (especially law enforcement and military agencies), businesses, and individual consumers.\n- Smart home devices with always-on listening capabilities bring the surveillance state into our living rooms \u2013 voluntarily installed by citizens themselves.\n\n## Youth Perspective\n\nThe trend shows how teenagers are using \"1984\" as a lens to understand their digital reality:\n- They're creating memes about \"Big Brother\" surveillance\n- Drawing parallels between social media algorithms and thought control\n- Discussing privacy concerns with TikTok itself\n- Using Orwellian concepts like \"doublethink\" and \"newspeak\" to critique modern information manipulation\n\nToday, as \"1984\" completes 75 years since its publication, it's evident that Orwell's vision is not just a dystopian nightmare but a reflection of our modern reality. This TikTok trend represents how a new generation is grappling with surveillance capitalism, data privacy, and the power of technology companies through the framework of a 75-year-old novel."
+    ],
+    "durationSeconds": 41.880798652999566
+  }
+}

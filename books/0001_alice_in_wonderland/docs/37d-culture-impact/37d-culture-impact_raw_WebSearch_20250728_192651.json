@@ -1,0 +1,55 @@
+{
+  "session_id": "6545194c-1a01-4819-963f-db6995a69675",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/6545194c-1a01-4819-963f-db6995a69675.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Alicja w Krainie Czar\u00f3w\" polska m\u0142odzie\u017c TikTok Instagram 2024 2025 trendy"
+  },
+  "tool_response": {
+    "query": "\"Alicja w Krainie Czar\u00f3w\" polska m\u0142odzie\u017c TikTok Instagram 2024 2025 trendy",
+    "results": [
+      "I'll search for information about \"Alice in Wonderland\" trends among Polish youth on TikTok and Instagram in 2024-2025.",
+      {
+        "tool_use_id": "srvtoolu_01SfHw6qFBhtxchVaALF485B",
+        "content": [
+          {
+            "title": "Alicja w Krainie Czar\u00f3w - Ogr\u00f3d \u015awiate\u0142",
+            "url": "https://krakow.travel/37718-krakow-alicja-w-krainie-czarow-ogrod-swiatel"
+          },
+          {
+            "title": "Alicja w krainie czar\u00f3w - Piaskowa Magia | Bilety Online, Opis, Recenzje | 2025, 2026 - biletyna.pl",
+            "url": "https://biletyna.pl/spektakl/Alicja-w-krainie-czarow-Piaskowa-Magia"
+          },
+          {
+            "title": "\u201eAlicja w Krainie Czar\u00f3w\u201d \u2013 spektakl dla dzieci - Nowohuckie Centrum Kultury Krak\u00f3w",
+            "url": "https://nck.krakow.pl/alicja-w-krainie-czarow-spektakl-dla-dzieci/"
+          },
+          {
+            "title": "ALICJA W KRAINIE CZAR\u00d3W \u2013 Festiwal Teatr\u00f3w dla Dzieci 2024 | Bilety Online, Opis, Recenzje | 2025, 2026",
+            "url": "https://biletyna.pl/spektakl/ALICJA-W-KRAINIE-CZAROW-Festiwal-Teatrow-dla-Dzieci-2024/Krakow"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w | Bilety Online, Opis, Recenzje | 2025, 2026 - biletyna.pl",
+            "url": "https://biletyna.pl/spektakl/Alicja-w-Krainie-Czarow"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w 2024 - Ksi\u0105\u017cki \u2022 Naukowa.pl",
+            "url": "https://www.naukowa.pl/Ksiazki/alicja-w-krainie-czarow-2236901"
+          },
+          {
+            "title": "Spektakl: \u201cALICJA W KRAINIE CZAR\u00d3W\u201d",
+            "url": "https://www.pbwnowysacz.pl/aktualnosci/spektakl-alicja-w-krainie-czarow/"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w: Magiczna przygoda dla ca\u0142ej rodziny!",
+            "url": "https://koszalincity.pl/wydarzenia-w-koszalinie/alicja-w-krainie-czarow-w-koszalinie/"
+          }
+        ]
+      },
+      "Based on the search results, I found information about \"Alice in Wonderland\" (Alicja w Krainie Czar\u00f3w) in Poland, but the results primarily show theatrical performances, light shows, and cultural events rather than specific social media trends among Polish youth on TikTok and Instagram for 2024-2025.\n\nHere's what the search revealed:\n\n## Alice in Wonderland Events and Productions in Poland:\n\nThere's a multimedia light garden exhibition called \"Alicja w Krainie Czar\u00f3w - Ogr\u00f3d \u015awiate\u0142\" (Alice in Wonderland - Garden of Lights) featuring spectacular light installations where visitors can explore the Rabbit Hole, meet the Cheshire Cat, the Caterpillar, participate in the Mad Tea Party, and visit the Queen of Hearts. In the 2024 season, several new interactive devices were added to the exhibition.\n\nThere are theatrical performances of \"Alice in Wonderland\" described as a classic fairy tale loved by children, youth, and adults, featuring magic tricks and illusions that make viewers feel like they've entered Wonderland themselves.\n\nThere was a Children's Theatre Festival 2024 (Festiwal Teatr\u00f3w dla Dzieci 2024) that featured Alice in Wonderland performances, with performances in February 2024 at the Nowohuckie Centrum Kultury in Krak\u00f3w.\n\nThe theatrical productions received positive reviews, with audiences praising the shortened version adapted for young viewers, good interaction with the audience, catchy songs, and dynamic performances.\n\nHowever, the search results did not reveal specific information about:\n- TikTok or Instagram trends related to Alice in Wonderland among Polish youth\n- Social media content or viral trends for 2024-2025\n- How Polish young people are engaging with Alice in Wonderland content on these platforms\n\nThe results suggest that Alice in Wonderland remains popular in Poland through traditional cultural formats like theatre and interactive exhibitions, but there's no specific data about social media trends among Polish youth on TikTok and Instagram for this theme in 2024-2025."
+    ],
+    "durationSeconds": 23.96240410699998
+  }
+}

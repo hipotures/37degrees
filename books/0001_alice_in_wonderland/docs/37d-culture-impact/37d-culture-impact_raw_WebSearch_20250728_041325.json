@@ -1,0 +1,155 @@
+{
+  "session_id": "ac25dab5-19ee-43b4-8689-cf24d65d211d",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ac25dab5-19ee-43b4-8689-cf24d65d211d.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Alice in Wonderland YouTube BookTube reviews video essays analysis view count"
+  },
+  "tool_response": {
+    "query": "Alice in Wonderland YouTube BookTube reviews video essays analysis view count",
+    "results": [
+      "I'll search for information about Alice in Wonderland content on YouTube, specifically focusing on BookTube reviews and video essays with their view counts.",
+      {
+        "tool_use_id": "srvtoolu_016XRom6Tzbt4f7dKmLrtSYu",
+        "content": [
+          {
+            "title": "BookTube: Review \u2013 \u2018The Alice Behind Wonderland\u2019 by Simon Winchester | theliterarysisters",
+            "url": "https://theliterarysisters.wordpress.com/2014/08/13/booktube-review-the-alice-behind-wonderland-by-simon-winchester/"
+          },
+          {
+            "title": "An Analysis of Alice's Adventures in Wonderland - Alice-in-Wonderland.net",
+            "url": "https://www.alice-in-wonderland.net/resources/analysis/interpretive-essays/an-analysis-of-alices-adventures-in-wonderland/"
+          },
+          {
+            "title": "Alice's Adventures in Wonderland Study Guide | Literature Guide | LitCharts",
+            "url": "https://www.litcharts.com/lit/alice-s-adventures-in-wonderland"
+          },
+          {
+            "title": "Alice's Adventures in Wonderland - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Alice's_Adventures_in_Wonderland"
+          },
+          {
+            "title": "Alice's Adventures in Wonderland Book Review | Common Sense Media",
+            "url": "https://www.commonsensemedia.org/book-reviews/alices-adventures-in-wonderland"
+          },
+          {
+            "title": "Analysis - Alice-in-Wonderland.net",
+            "url": "https://www.alice-in-wonderland.net/resources/analysis/"
+          },
+          {
+            "title": "Alice in Wonderland Video | GradeSaver",
+            "url": "https://www.gradesaver.com/alice-in-wonderland/study-guide/video-alice-in-wonderland"
+          },
+          {
+            "title": "Book Review: Alice's Adventures in Wonderland | Pikes Peak Library District",
+            "url": "https://ppld.org/book-reviews/alices-adventures-wonderland-0"
+          },
+          {
+            "title": "Alice\u2019s Adventures in Wonderland | Summary, Characters, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/Alices-Adventures-in-Wonderland"
+          },
+          {
+            "title": "Review: Alice\u2019s Adventures in Wonderland by Lewis Carroll",
+            "url": "https://thebooksareeverywhere.com/2021/03/29/review-alices-adventures-in-wonderland-by-lewis-carroll/"
+          }
+        ]
+      },
+      "The search results provide some general information about Alice in Wonderland analysis and reviews, but I haven't found specific YouTube BookTube videos with view counts. Let me search more specifically for YouTube content.",
+      {
+        "tool_use_id": "srvtoolu_01DgBaKnRX4SdMUdStFpTXZD",
+        "content": [
+          {
+            "title": "BookTube - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/BookTube"
+          },
+          {
+            "title": "The Ultimate BookTube Reading List - YouTube Blog",
+            "url": "https://blog.youtube/culture-and-trends/booktube-list/"
+          },
+          {
+            "title": "The YouTube Guide to Books: The 8 Best BookTube Channels - InsideHook",
+            "url": "https://www.insidehook.com/books/youtube-guide-books-best-booktube-channels"
+          },
+          {
+            "title": "7 YouTubers to Subscribe to on BookTube | The Influence Agency",
+            "url": "https://theinfluenceagency.com/blog/youtubers-to-follow-on-booktube"
+          },
+          {
+            "title": "Watch Alice In Wonderland | Prime Video",
+            "url": "https://www.amazon.com/Alice-Wonderland-Kathryn-Beaumont/dp/B004IQ78HA"
+          },
+          {
+            "title": "Alice in Wonderland.net",
+            "url": "https://www.alice-in-wonderland.net/"
+          },
+          {
+            "title": "BookTube: Review \u2013 \u2018The Alice Behind Wonderland\u2019 by Simon Winchester | theliterarysisters",
+            "url": "https://theliterarysisters.wordpress.com/2014/08/13/booktube-review-the-alice-behind-wonderland-by-simon-winchester/"
+          },
+          {
+            "title": "Alice's Adventures in Wonderland - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Alice's_Adventures_in_Wonderland"
+          },
+          {
+            "title": "Watch Alice in Wonderland | Disney+",
+            "url": "https://www.disneyplus.com/browse/entity-072d2f34-c99e-4bf7-a342-a1b30a03b2e7"
+          },
+          {
+            "title": "Fushigi no Kuni de Alice to -Dive in Wonderland",
+            "url": "https://www.crunchyroll.com/news/latest/2025/7/10/fushigi-no-kuni-de-alice-to-dive-in-wonderland-anime-movie-special-music-video"
+          }
+        ]
+      },
+      "Let me search more specifically for Alice in Wonderland YouTube video essays with view information.",
+      {
+        "tool_use_id": "srvtoolu_0126fU2qtRKkQwrYUN6H2v37",
+        "content": [
+          {
+            "title": "Alice in Wonderland Video | GradeSaver",
+            "url": "https://www.gradesaver.com/alice-in-wonderland/study-guide/video-alice-in-wonderland"
+          },
+          {
+            "title": "Alice's Adventures in Wonderland | The Great American Read | PBS LearningMedia",
+            "url": "https://www.pbslearningmedia.org/resource/alice-tgar/alice-tgar/"
+          },
+          {
+            "title": "Alice's Adventures in Wonderland - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Alice's_Adventures_in_Wonderland"
+          },
+          {
+            "title": "Alice in Wonderland (1951 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Alice_in_Wonderland_(1951_film)"
+          },
+          {
+            "title": "Alice in Wonderland (1999 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Alice_in_Wonderland_(1999_film)"
+          },
+          {
+            "title": "A Very Merry Unessay on Alice in Wonderland",
+            "url": "https://www.manicpixiedust.com/unessay/"
+          },
+          {
+            "title": "How many music videos have been based on Alice in Wonderland? - Quora",
+            "url": "https://www.quora.com/How-many-music-videos-have-been-based-on-Alice-in-Wonderland"
+          },
+          {
+            "title": "Alice in Wonderland (2010 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Alice_in_Wonderland_(2010_film)"
+          },
+          {
+            "title": "Dive in Wonderland Anime Film Streams Special Music Video of Theme Song - News - Anime News Network",
+            "url": "https://www.animenewsnetwork.com/news/2025-07-10/dive-in-wonderland-anime-film-streams-special-music-video-of-theme-song/.226521"
+          },
+          {
+            "title": "Home - Alice's Adventures In Wonderland: History, Story Timeline, Chapter Summaries, Classroom Lesson Plans and Activities - Library Guides at DiPietro Library, Franklin Pierce University",
+            "url": "https://libguides.franklinpierce.edu/alicesadventuresinwonderland"
+          }
+        ]
+      },
+      "Based on my searches, I found some general information about Alice in Wonderland content on YouTube and BookTube, but I wasn't able to find specific videos with their view counts. Let me share what I discovered:\n\n## Alice in Wonderland on YouTube and BookTube\n\n### BookTube Community Overview\nBookTube is a subcommunity on YouTube that focuses on books and literature.(no content)The BookTube community has, to date, reached hundreds of thousands of viewers worldwide.(no content)In the first six months of 2024, there were more than 350 million views of videos with \"BookTube\" in the title on YouTube.\n\n### Popular BookTubers\nSome of the most subscribed BookTubers include:\n- Jesse (Jesse the Reader) with 398k subscribers\n- Hailey with over 309k subscribers\n- Jack Edwards, Isabella Lubrano (Ler Antes de Morrer), Tatiana Feltrin (tatianagfeltrin), Cindy Pham (withcindy), Hannah Azerang (A Clockwork Reader), Pam Gon\u00e7alves (PamGon\u00e7alves), Ariel Bissett (ArielBissett), Christine Riccio (PolandBananasBooks), Kat O'Keefe (katytastic), Clau R. (ClauReadsBooks), Dakota Warren (Dakota Warren), Carley Thorne (uncarley), Jesse George (Jesse the Reader), and Daniel Greene (Daniel Greene)\n\n### Alice in Wonderland Content\nWhile I couldn't find specific YouTube videos about Alice in Wonderland with their exact view counts, I did find:\n\n1. **Related BookTube Content**: A review of 'The Alice Behind Wonderland' by Simon Winchester was mentioned on a BookTube channel.\n\n2. **Video Essay**: A video essay and short film was created as A Very Merry Unessay on the topic of word and image interactions in Alice's Adventures in Wonderland by Lewis Carroll.\n\n3. **General Popularity**: Alice in Wonderland is one of the most famous and most familiar stories in the world. Next to the Bible and Shakespeare, Alice's Adventures in Wonderland and its sequel Through the Looking-Glass and What Alice Found There are said to be the most quoted works of English literature.\n\n### Film and Media Adaptations\nThe story has had numerous adaptations that have garnered significant viewership:\n- The original NBC airing averaged a 14.8 household rating and a 22 percent audience share and was watched by 25.34 million viewers for the 1999 TV film.\n- Alice in Wonderland grossed $334.1 million in North America and $691.2 million in other territories for a worldwide total of $1.025 billion against a budget of $200 million. Worldwide, it is the second-highest-grossing film of 2010.\n\nUnfortunately, I wasn't able to find specific YouTube BookTube reviews or video essays about Alice in Wonderland with their individual view counts. The search results focused more on general BookTube statistics, the book's analysis, and film adaptations rather than specific YouTube content metrics."
+    ],
+    "durationSeconds": 49.33057887699991
+  }
+}

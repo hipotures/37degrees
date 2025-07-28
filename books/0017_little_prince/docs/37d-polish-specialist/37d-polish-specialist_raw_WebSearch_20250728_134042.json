@@ -1,0 +1,63 @@
+{
+  "session_id": "bb5bd92f-2e06-46b2-9b84-f65c0578b080",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/bb5bd92f-2e06-46b2-9b84-f65c0578b080.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Ma\u0142y Ksi\u0105\u017c\u0119\" teatr polski adaptacje sceniczne Teatr Polskiego Radia"
+  },
+  "tool_response": {
+    "query": "\"Ma\u0142y Ksi\u0105\u017c\u0119\" teatr polski adaptacje sceniczne Teatr Polskiego Radia",
+    "results": [
+      "I'll search for information about stage adaptations of \"The Little Prince\" (Ma\u0142y Ksi\u0105\u017c\u0119) in Polish theater, including Polish Radio Theatre.",
+      {
+        "tool_use_id": "srvtoolu_01FqVQfTJZsss4Wp472xHRbu",
+        "content": [
+          {
+            "title": "Ma\u0142y Ksi\u0105\u017c\u0119 - Teatr Polski w Warszawie",
+            "url": "https://teatrpolski.waw.pl/spektakl/maly-ksiaze"
+          },
+          {
+            "title": "Ma\u0142y Ksi\u0105\u017c\u0119 ::: Sztuki ::: Encyklopedia teatru polskiego",
+            "url": "https://encyklopediateatru.pl/sztuki/1161/maly-ksiaze"
+          },
+          {
+            "title": "\"Ma\u0142y Ksi\u0105\u017c\u0119\". S\u0142uchowisko Antoin\u2019a de Saint-Exup\u00e9ry\u2019ego w przek\u0142adzie Jana Szwykowskiego, w adaptacji i re\u017cyserii Kamila Marii Ma\u0142anicza - Teatr Polskiego Radia",
+            "url": "https://www.polskieradio.pl/357/6991/Artykul/3146471,maly-ksiaze"
+          },
+          {
+            "title": "Ma\u0142y Ksi\u0105\u017c\u0119 - Teatr Polski we Wroc\u0142awiu",
+            "url": "https://www.teatrpolski.wroc.pl/maly-ksiaze/"
+          },
+          {
+            "title": "Ma\u0142y Ksi\u0105\u017c\u0119",
+            "url": "https://www.teatrroma.pl/en/spektakl/the-little-prince/"
+          },
+          {
+            "title": "Okiem Obserwatora: Ma\u0142y Ksi\u0105\u017c\u0119 | e-teatr.pl",
+            "url": "https://e-teatr.pl/okiem-obserwatora-maly-ksiaze-37468"
+          },
+          {
+            "title": "Ma\u0142y Ksi\u0105\u017c\u0119 - Teatr Polski im. Arnolda Szyfmana w Warszawie | e-teatr.pl",
+            "url": "https://e-teatr.pl/maly-ksiaze-s27903"
+          },
+          {
+            "title": "Ma\u0142y Ksi\u0105\u017c\u0119 ::: Przedstawienia ::: Encyklopedia teatru polskiego",
+            "url": "https://encyklopediateatru.pl/przedstawienie/75077/maly-ksiaze"
+          },
+          {
+            "title": "Ma\u0142y Ksi\u0105\u017c\u0119. Opowie\u015b\u0107 - Cz\u0119stochowa",
+            "url": "https://www.teatr-mickiewicza.pl/sp264,Maly-Ksiaze--Opowiesc"
+          },
+          {
+            "title": "Pilot i Ma\u0142y Ksi\u0105\u017c\u0119 \u2013 Musical",
+            "url": "https://www.pilotimalyksiaze.pl/"
+          }
+        ]
+      },
+      "Based on the search results, I found comprehensive information about Polish stage adaptations of \"The Little Prince\" (Ma\u0142y Ksi\u0105\u017c\u0119), including Polish Radio Theatre productions:\n\n## Polish Radio Theatre Adaptation\n\nThe Polish Radio Theatre (Teatr Polskiego Radia) presented \"Ma\u0142y Ksi\u0105\u017c\u0119\" with premiere on April 8, 2023, directed by Kamil Ma\u0142anicz. The radio play was created to commemorate the 80th anniversary of the book's publication on April 6, 1943, noting that the story has been translated into over 300 languages and dialects.\n\n## Major Polish Theatre Adaptations\n\nThe search results reveal extensive theatrical activity around \"The Little Prince\" in Poland:\n\n### Recent Productions (2023-2024)\n- Warsaw's Polski Theatre (Teatr Polski im. Arnolda Szyfmana) premiered on May 19, 2023, directed by Konrad Dworakowski\n- Teatr Nowy in Zabrze premiered on February 17, 2024, directed by Cezary Domaga\u0142a\n- Teatr Lalek Banialuka in Bielsko-Bia\u0142a premiered on April 14, 2024, directed by Filip Ja\u015bkiewicz\n- Teatr \"Pinokio\" in \u0141\u00f3d\u017a premiered on May 25, 2024, directed by Dorota Abbe\n\n### Historical Productions\nThe encyclopedia of Polish theatre documents numerous adaptations dating back to 1958:\n- The first television theatre adaptation premiered on May 26, 1958, directed by Jerzy Gruza\n- Teatr \u015al\u0105ski in Katowice premiered on April 4, 1959, directed by Zofia Truszkowska\n\n## Critical Reception\n\n\"The Little Prince\" is noted as one of the most frequently staged theatrical productions in the world, not only on professional stages. The book is reported to be translated into approximately 300 languages (with some sources citing up to 382 languages), making it one of the most translated books after the Bible.\n\nThe Warsaw Polski Theatre production received particular attention for its staging. \"The Little Prince\" at Polski Theatre retained the intellectual, humanistic content of the original and completely captivated with its fairy-tale atmosphere. The production was praised for maintaining the original text while proposing very interesting scenic and visual solutions.\n\n## Adaptations Across Poland\n\nThe search results show that \"The Little Prince\" has been adapted by virtually every type of theatre in Poland - from puppet theatres to dramatic theatres, from amateur to professional companies. Major Polish cities including Warsaw, Krak\u00f3w, Wroc\u0142aw, Pozna\u0144, \u0141\u00f3d\u017a, Katowice, and many others have hosted productions over the decades, demonstrating the enduring appeal of Saint-Exup\u00e9ry's work in Polish theatrical culture."
+    ],
+    "durationSeconds": 28.669012170000002
+  }
+}

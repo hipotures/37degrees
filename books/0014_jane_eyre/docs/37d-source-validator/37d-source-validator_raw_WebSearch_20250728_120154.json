@@ -1,0 +1,63 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Wide Sargasso Sea Jean Rhys 1966 WH Smith Literary Award BBC 100 influential novels"
+  },
+  "tool_response": {
+    "query": "Wide Sargasso Sea Jean Rhys 1966 WH Smith Literary Award BBC 100 influential novels",
+    "results": [
+      "I'll search for information about Wide Sargasso Sea by Jean Rhys, particularly focusing on the 1966 WH Smith Literary Award and its inclusion in the BBC 100 influential novels list.",
+      {
+        "tool_use_id": "srvtoolu_01TU8TkdaamxAn7aVNJ9i2dG",
+        "content": [
+          {
+            "title": "Wide Sargasso Sea - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Wide_Sargasso_Sea"
+          },
+          {
+            "title": "Wide Sargasso Sea by Jean Rhys | JoV's Book Pyramid",
+            "url": "https://bibliojunkie.wordpress.com/2012/10/04/wide-sargasso-sea-by-jean-rhys/"
+          },
+          {
+            "title": "Wide Sargasso Sea by Jean Rhys",
+            "url": "https://www.foyles.co.uk/book/9780241951552"
+          },
+          {
+            "title": "Jean Rhys - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Jean_Rhys"
+          },
+          {
+            "title": "Wide Sargasso Sea by Jean Rhys \u2014 Books2Door",
+            "url": "https://www.books2door.com/products/9780241951552"
+          },
+          {
+            "title": "Wide Sargasso Sea by Jean Rhys, First Edition - AbeBooks",
+            "url": "https://www.abebooks.com/servlet/SearchResults?fe=on&ds=5&sortby=1&tn=wide+sargasso+sea&an=jean+rhys&cm_sp=pan-_-srp-_-ptall"
+          },
+          {
+            "title": "Wide Sargasso Sea by Rhys, First Edition - AbeBooks",
+            "url": "https://www.abebooks.com/servlet/SearchResults?an=Rhys&bi=0&bx=off&ds=30&fe=on&pics=on&recentlyadded=all&sortby=17&tn=Wide+Sargasso+Sea&x=0&y=0"
+          },
+          {
+            "title": "Wide Sargasso Sea by Jean Rhys | EBSCO Research Starters",
+            "url": "https://www.ebsco.com/research-starters/literature-and-writing/wide-sargasso-sea-jean-rhys"
+          },
+          {
+            "title": "Wide Sargasso Sea (1966), by Jean Rhys | All-TIME 100 Novels | TIME.com",
+            "url": "https://entertainment.time.com/2005/10/16/all-time-100-novels/slide/wide-sargasso-sea-1966-by-jean-rhys/"
+          },
+          {
+            "title": "Wide Sargasso Sea: Jean Rhys and Wide Sargasso Sea Background | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/sargasso/context/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about Wide Sargasso Sea by Jean Rhys and its literary awards and recognition:\n\n## Wide Sargasso Sea (1966) by Jean Rhys\n\n### WH Smith Literary Award\nWide Sargasso Sea won the WH Smith Literary Award in 1967, which brought Rhys to public attention after decades of obscurity. This award was crucial in reviving interest in Rhys's work after she had been virtually forgotten by the literary world since her last publication in 1939.\n\n### BBC 100 Most Influential Novels\nOn 5 November 2019, BBC News listed Wide Sargasso Sea on its list of the 100 most influential novels. This recognition came over 50 years after the novel's publication, cementing its status as a significant work in English literature.\n\n### Other Notable Recognition\nThe novel also received several other important accolades:\n- Named by Time as one of the '100 best English-language novels since 1923'\n- Rated number 94 on the list of Modern Library's 100 Best Novels\n- Winner of Cheltenham Booker Prize 2006 for year 1966\n- Won the Royal Society of Literature Award\n- In 2022, it was included on the \"Big Jubilee Read\" list of 70 books by Commonwealth authors, selected to celebrate the Platinum Jubilee of Elizabeth II\n\n### About the Novel\nWide Sargasso Sea is a 1966 historical novel by Dominican-British author Jean Rhys. The novel is set in Jamaica between the 1830-40s and serves as a postcolonial and feminist prequel to Charlotte Bront\u00eb's novel Jane Eyre (1847), describing the background to Mr. Rochester's marriage from the point of view of his wife Antoinette Cosway, a Creole heiress.\n\n### Jean Rhys's Career Revival\nThe success of Wide Sargasso Sea marked a remarkable comeback for Rhys. This encouragement ultimately led to the publication in 1966 of her critically acclaimed novel Wide Sargasso Sea, after she had lived in obscurity for nearly three decades. Characteristically, she remained unimpressed by her belated ascent to literary fame, commenting, \"It has come too late.\"\n\nThe novel's enduring influence and critical acclaim have made it one of the most celebrated postcolonial and feminist texts of the 20th century, continuing to be studied and adapted across various media formats."
+    ],
+    "durationSeconds": 28.28760580299981
+  }
+}

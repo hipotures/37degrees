@@ -1,0 +1,63 @@
+{
+  "session_id": "e18f7f1c-5883-41e4-8ef9-15aee4aa266b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e18f7f1c-5883-41e4-8ef9-15aee4aa266b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Great Gatsby\" hip-hop references rap lyrics Jay-Z Drake wealth themes celebrity culture 2024"
+  },
+  "tool_response": {
+    "query": "\"Great Gatsby\" hip-hop references rap lyrics Jay-Z Drake wealth themes celebrity culture 2024",
+    "results": [
+      "I'll search for information about hip-hop references to \"The Great Gatsby\" and how rappers like Jay-Z and Drake have connected with its themes of wealth and celebrity culture.",
+      {
+        "tool_use_id": "srvtoolu_01PKHBviVyoXhKR9YJCjf1NT",
+        "content": [
+          {
+            "title": "The Great Gatsby: Music from Baz Luhrmann's Film - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Great_Gatsby:_Music_from_Baz_Luhrmann's_Film"
+          },
+          {
+            "title": "Fade to Black, Old Sport: How Hip Hop Amplifies Baz Luhrmann\u2019s The Great Gatsby | Sounding Out!",
+            "url": "https://soundstudiesblog.com/2013/10/21/fade-to-black-old-sport-how-hip-hop-amplifies-baz-luhrmanns-the-great-gatsby/"
+          },
+          {
+            "title": "Tracklist For \"The Great Gatsby\" Soundtrack Features New Music From Jay-Z, Beyonce, Andre 3000 & More [Update: Listen To Album Snippets]",
+            "url": "https://www.hotnewhiphop.com/9679-tracklist-for-the-great-gatsby-soundtrack-features-new-music-from-jay-z-beyonce-andre-3000-and-more-news"
+          },
+          {
+            "title": "Seven Tracks We Wish Jay-Z included in The Great Gatsby Soundtrack \u2014 Acclaim Magazine",
+            "url": "https://acclaimmag.com/culture/seven-tracks-we-wish-jay-z-included-in-the-great-gatsby/"
+          },
+          {
+            "title": "Jay-Z and Baz Luhrmann's 'Gatsby' Soundtrack is Superb ...",
+            "url": "https://atlanticmolly.wordpress.com/2013/05/13/jay-z-and-baz-luhrmanns-gatsby-soundtrack-is-superb-old-sport/"
+          },
+          {
+            "title": "'Great Gatsby' Soundtrack: Track-By-Track",
+            "url": "https://www.hollywoodreporter.com/movies/movie-news/great-gatsby-soundtrack-track-by-track-521092/"
+          },
+          {
+            "title": "Jay-Z shines through music in 'The Great Gatsby' - TheGrio",
+            "url": "https://thegrio.com/2013/05/10/jay-z-shines-through-music-in-the-great-gatsby/"
+          },
+          {
+            "title": "Top 10 Richest Rappers in 2025: Hip-Hop Billionaires",
+            "url": "https://www.ceotodaymagazine.com/2025/02/the-top-10-richest-rappers-in-2025/"
+          },
+          {
+            "title": "Jay-Z Producing Music for 'Great Gatsby'",
+            "url": "https://www.rollingstone.com/music/music-news/jay-z-producing-music-for-great-gatsby-181443/"
+          },
+          {
+            "title": "Why is there rap music in the 2013 remake of 'The Great Gatsby'? - Quora",
+            "url": "https://www.quora.com/Why-is-there-rap-music-in-the-2013-remake-of-The-Great-Gatsby"
+          }
+        ]
+      },
+      "Based on my search results, I found fascinating information about how hip-hop artists, particularly Jay-Z and Drake, have connected with \"The Great Gatsby\" and its themes of wealth and celebrity culture.\n\n## Jay-Z's Major Role in the 2013 Film\n\nJay-Z served as the executive producer for both the album and the film adaptation of \"The Great Gatsby\" directed by Baz Luhrmann. He worked with film director Baz Luhrmann for two years to transform the Jazz Age theme of F. Scott Fitzgerald's novel into the musical equivalents of blended hip-hop, traditional jazz and other contemporary genres.\n\nDirector Luhrmann explained the artistic choice: \"And in our age, the energy of jazz is caught in the energy of hip-hop\". This connection between jazz's role in the 1920s and hip-hop's cultural significance today became central to the film's approach.\n\n## Hip-Hop as Modern-Day Jazz\n\n\"Jazz in 1922 was being referred to as an African-American fad,\" Luhrmann told The New York Times. \"Why would Fitzgerald put such ephemeral stuff, actual song lyrics, in his book? Because it made it immediate and visceral and exciting for the reader. And when you think of an African-American street music today that's hip-hop\".\n\n## The Gatsby-Hip-Hop Connection\n\nOne scholar analyzed the deeper thematic connections: Jay-Z's status as a hip hop mogul \u2013 serving both as a creative talent and corporate backer \u2013 lends credence to thinking about hip hop as a space of entitlement and a site of struggle to attain that entitlement. It is from this perspective that I think of Gatsby as a hip hop figure/mogul: his working class background, hyper-performance of white privilege, materialistic pursuit of wealth for visibility, and desperate need for approval as \"authentic\".\n\nThe article notes that To borrow from rapper Drake, Gatsby \"just wanna be successful\", drawing a parallel between Gatsby's ambitions and modern hip-hop themes.\n\n## Soundtrack Highlights\n\nThe soundtrack featured several prominent hip-hop contributions:\n- Jay-Z raps about being remembered, the pitfalls of wealth, as well as comparing rich people from the 1920s and the 21st century\n- The tracklist features a fair share of representation from hip-hop, with brand new songs from Jay-Z, Beyonce & Andre 3000\n- Songs including some of his most popular singles like \"Izzo\" from his 2009 Blueprint album and his more recent release \"No Church in the Wild\" featuring Kanye West\n\n## Modern References and Cultural Impact\n\nThe first billionaire in hip-hop, Jay-Z continues to lead the pack as the richest rapper in the world. His empire extends beyond music into real estate, tech, fashion, and the spirits industry. As the founder of Roc-A-Fella Records, Jay-Z's influence shaped modern rap. His business acumen led to stakes in Tidal, Roc Nation, and the high-end cognac brand D'Uss\u00e9. Jay-Z's luxury lifestyle includes some of the world's most expensive cars, sprawling properties, and a penchant for art collecting. He and Beyonc\u00e9 are the quintessential power couple, cementing their legacy in music and business alike.\n\nSimilarly, Drake remains one of the most bankable stars in hip-hop. With countless chart-topping albums and record-breaking streams, he holds the record for most digital singles sold. Beyond music, Drake has diversified his portfolio with investments in tech, real estate, and his own whiskey brand, Virginia Black. A lucrative residency in Las Vegas and a long-term deal with Universal Music Group have contributed to his $250 million net worth. Known for being a pop culture trendsetter, Drake continues to shape the future of hip-hop.\n\nThe connection between \"The Great Gatsby\" and hip-hop culture continues to resonate, with both the novel's themes of wealth, aspiration, and the American Dream finding modern expression in hip-hop's celebration and critique of material success and social mobility."
+    ],
+    "durationSeconds": 47.1153717670003
+  }
+}

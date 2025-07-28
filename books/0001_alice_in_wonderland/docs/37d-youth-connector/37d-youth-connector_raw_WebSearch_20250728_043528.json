@@ -1,0 +1,63 @@
+{
+  "session_id": "ac25dab5-19ee-43b4-8689-cf24d65d211d",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ac25dab5-19ee-43b4-8689-cf24d65d211d.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Alice in Wonderland syndrome AIWS mental health youth teenagers experience"
+  },
+  "tool_response": {
+    "query": "Alice in Wonderland syndrome AIWS mental health youth teenagers experience",
+    "results": [
+      "I'll search for information about Alice in Wonderland syndrome (AIWS) in relation to mental health and experiences in youth and teenagers.",
+      {
+        "tool_use_id": "srvtoolu_01MDe2hiNETV3mnHrV55BNsj",
+        "content": [
+          {
+            "title": "Alice in Wonderland Syndrome (AIWS): Symptoms & Treatment",
+            "url": "https://my.clevelandclinic.org/health/diseases/24491-alice-in-wonderland-syndrome-aiws"
+          },
+          {
+            "title": "The Perplexing Mental Health Comorbidity of Alice in Wonderland Syndrome (AIWS): A Case Study",
+            "url": "https://www.mdpi.com/2673-5318/4/1/5"
+          },
+          {
+            "title": "Alice in Wonderland syndrome: A systematic review - PMC",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4909520/"
+          },
+          {
+            "title": "Complex Hallucinations and Panic Attacks in a 13-Year-Old with Migraines: The Alice in Wonderland Syndrome - PMC",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3579482/"
+          },
+          {
+            "title": "Alice in Wonderland syndrome - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Alice_in_Wonderland_syndrome"
+          },
+          {
+            "title": "Alice in Wonderland syndrome: A rare neurological manifestation with microscopy in a 6-year-old child - PMC",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4302569/"
+          },
+          {
+            "title": "Alice in Wonderland Syndrome: Causes, Symptoms, and Living with AIWS",
+            "url": "https://www.rupahealth.com/post/alice-in-wonderland-syndrome-causes-symptoms-and-living-with-aiws"
+          },
+          {
+            "title": "The mystery of Alice in Wonderland syndrome | The Transmission | University of Nebraska Medical Center",
+            "url": "https://www.unmc.edu/healthsecurity/transmission/2023/03/14/the-mystery-of-alice-in-wonderland-syndrome/"
+          },
+          {
+            "title": "The Mental Health Syndrome Known as Alice in Wonderland - A Case Report",
+            "url": "https://journalindj.com/index.php/INDJ/article/view/344"
+          },
+          {
+            "title": "Alice in Wonderland syndrome | Neurology Clinical Practice",
+            "url": "https://www.neurology.org/doi/10.1212/CPJ.0000000000000251"
+          }
+        ]
+      },
+      "Based on my search results, here's what I found about Alice in Wonderland syndrome (AIWS) in relation to mental health and experiences in youth and teenagers:\n\n## Prevalence in Youth and Teenagers\n\nResearch indicates that up to 30% of teenagers and adolescents experience brief episodes of AIWS symptoms, though these are often non-clinical in nature and don't require medical intervention.\n\n## Key Characteristics in Young People\n\nAmong the 166 documented cases with age information, the mean age was 15.5 years, with 132 patients being 18 years or younger (mean age of 9 years). AIWS is relatively common in children.\n\n## Mental Health Connections\n\nAIWS can be associated with various mental health conditions:\n\n1. **Primary Mental Health Associations**: Mental health conditions including schizophrenia, schizoaffective disorder, and depressive disorders can be associated with AIWS.\n\n2. **Secondary Mental Health Impact**: The syndrome can lead to significant psychological distress:\n   - Young patients may experience anticipatory anxiety between attacks, fear of going to school due to potential migraine attacks, worry about becoming an object of ridicule among friends, and concern about how their behavior impacts family members\n   - Individuals may become terrified, anxious and panic-stricken due to the distortions and hallucinations\n\n## Common Causes in Youth\n\nAmong youths, the most frequently described condition associated with AIWS was encephalitis (21.7% vs 1.2% among adults), with the Epstein-Barr virus being the most common pathogen (68.4% of all encephalitis cases). Epstein-Barr virus appears to be the most common cause in children, while for adults it is more commonly associated with migraines.\n\n## Experience and Symptoms\n\nYoung people with AIWS may experience:\n- Disruptions in how the brain processes perceptions of their own body or the world, making body parts feel or look smaller or larger than usual, and affecting how objects appear in size or location\n- Over 60 associated symptoms affecting vision, sensation, touch, hearing, and body image perception, along with migraines, nausea, dizziness, and agitation\n- Episodes typically last from a few minutes to an hour\n\n## Case Examples\n\nA 13-year-old girl experienced episodes of complex audiovisual hallucinations and panic attacks with intervals of complete recovery associated with migraine episodes. A 6-year-old boy presented with visual perceptions where objects appeared far away and smaller (microscopy), occurring especially in the evening for 15-20 minute periods.\n\n## Treatment and Prognosis\n\nMost cases of AIWS are temporary and short-lived, and while there's no complete understanding of the condition, it's often possible to treat or cure the underlying cause, making it usually a temporary concern. Reassurance that the symptoms themselves are not harmful seems to suffice in about 50% of cases.\n\nThe research shows that while AIWS is relatively common in youth and teenagers, it's often a temporary condition that can be managed effectively, though it may cause significant anxiety and distress during active episodes."
+    ],
+    "durationSeconds": 37.24439276599977
+  }
+}

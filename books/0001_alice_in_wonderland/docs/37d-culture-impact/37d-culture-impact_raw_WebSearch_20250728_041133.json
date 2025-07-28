@@ -1,0 +1,63 @@
+{
+  "session_id": "ac25dab5-19ee-43b4-8689-cf24d65d211d",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ac25dab5-19ee-43b4-8689-cf24d65d211d.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Alice in Wonderland 2010 Tim Burton box office worldwide earnings Rotten Tomatoes IMDb rating"
+  },
+  "tool_response": {
+    "query": "Alice in Wonderland 2010 Tim Burton box office worldwide earnings Rotten Tomatoes IMDb rating",
+    "results": [
+      "I'll search for information about Tim Burton's 2010 Alice in Wonderland film, including its box office performance and ratings.",
+      {
+        "tool_use_id": "srvtoolu_01H7KDva8uQAbDxZs7j9xKoo",
+        "content": [
+          {
+            "title": "Alice in Wonderland (2010 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Alice_in_Wonderland_(2010_film)"
+          },
+          {
+            "title": "Tim Burton\u2019s Alice in Wonderland Made $1 Billion but Critics Hated It",
+            "url": "https://movieweb.com/alice-in-wonderland-tim-burton-box-office-success-critical-flop/"
+          },
+          {
+            "title": "Alice in Wonderland | Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/m/1221547-alice_in_wonderland"
+          },
+          {
+            "title": "Why Tim Burton's Alice In Wonderland Is \"Rotten\" (Despite Making $1 Billion At The Box Office)",
+            "url": "https://screenrant.com/tim-burton-alice-in-wonderland-rotten-score-explained/"
+          },
+          {
+            "title": "Why Tim Burton's Alice In Wonderland Is \"Rotten\" (Despite Making $1 Billion At The Box Office) - IMDb",
+            "url": "https://www.imdb.com/news/ni64217004/"
+          },
+          {
+            "title": "8 Reasons Alice In Wonderland Is Still Tim Burton\u2019s Biggest Box Office Success, 14 Years Later",
+            "url": "https://screenrant.com/tim-burton-alice-wonderland-biggest-box-office-hit-reasons/"
+          },
+          {
+            "title": "Alice in Wonderland - Box Office Mojo",
+            "url": "https://www.boxofficemojo.com/release/rl3393226241/"
+          },
+          {
+            "title": "The Sequel To Tim Burton's $1 Billion Disney Blockbuster Was One Of The 2010s' Worst Fantasy Movies",
+            "url": "https://screenrant.com/alice-through-the-looking-glass-2010s-worst-fantasy-movie-explainer/"
+          },
+          {
+            "title": "The Movie That Started Disney\u2019s Trend Of Live-Action Remakes Still Holds Up 15 Years Later For 1 Big Reason",
+            "url": "https://screenrant.com/alice-in-wonderland-tim-burton-remake-disney-live-action-trend-success-op-ed/"
+          },
+          {
+            "title": "6 Reasons Tim Burton's Alice Sequel Was Such A Failure",
+            "url": "https://screenrant.com/tim-burton-alice-through-looking-glass-failed-bombed/"
+          }
+        ]
+      },
+      "Based on my search results, here's the comprehensive information about Tim Burton's 2010 Alice in Wonderland film:\n\n## Box Office Performance\n\nTim Burton's Alice in Wonderland was a huge box office success, earning over one billion globally off a budget of $200 million.(no content)In the USA alone, the film grossed $334 million at the box office.\n\nThe film had an impressive opening weekend performance:\n- The film opened on March 5, 2010, on approximately 7,400 screens at 3,728 theaters with $40.8 million during its first day, $3.9 million of which came from midnight showings, ranking number one and setting a new March opening-day record.\n- Alice earned $116.1 million on its opening weekend, breaking the record for the largest opening weekend in March (previously held by 300), the record for the largest opening weekend during springtime (previously held by Fast & Furious), the largest opening weekend for a non-sequel (previously held by Spider-Man) and the highest one for the non-holiday, non-summer period.(no content)It is also the second-highest-grossing film of 2010, behind Toy Story 3, the second-highest-grossing film starring Johnny Depp and the highest-grossing film directed by Tim Burton.\n\n## Critical Reception\n\nDespite its massive commercial success, the film received mixed to negative reviews:\n\n### Rotten Tomatoes\n- On the review aggregator Rotten Tomatoes, 50% of 276 critics have given the film a positive review, with an average rating of 5.7/10.\n- The website's consensus is: \"Tim Burton's Alice sacrifices the book's minimal narrative coherence\u2014and much of its heart\u2014but it's an undeniable visual treat.\"\n\n### IMDb Rating\n- The movie currently sits at 55% on the popcorn meter on RT, 6.4 out of ten on IMDB, and 3.1 on Letterboxd.\n\n## Key Reasons for the Mixed Reception\n\nDespite this promising premise and strong cast bringing Alice In Wonderland to financial success, it still didn't fare well critically, getting 51 percent on Rotten Tomatoes. Part of this was the heavy use of CGI, creating a sterile and lifeless look that clashed with the movie's premise and trippy plot.(no content)The plot also came in for criticism. Shoe-horning the absurdist aspects of Carroll's book, such as the Jabberwocky nonsense poem, into a conventional story made for a confusing but often flat script. Despite the gothic set-dressing, the movie became a straightforward slay-the-dragon quest.\n\nThe film's success was attributed to several factors including The star appeal and the movie's release at the height of the 3D craze helped push the film to such heights."
+    ],
+    "durationSeconds": 31.987597666000017
+  }
+}

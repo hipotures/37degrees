@@ -1,0 +1,63 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Animal Farm historical documents Orwell manuscripts archives British Library"
+  },
+  "tool_response": {
+    "query": "Animal Farm historical documents Orwell manuscripts archives British Library",
+    "results": [
+      "I'll search for information about Animal Farm historical documents, manuscripts, and archives at the British Library.",
+      {
+        "tool_use_id": "srvtoolu_01EkTSsQrvFp1vfZAGGccvbj",
+        "content": [
+          {
+            "title": "Animal Farm & The Orwell Files: Primary Sources - Powered by Portfolium",
+            "url": "http://portfolio.tacoma.uw.edu/entry/animal-farm-the-orwell-files"
+          },
+          {
+            "title": "Animal Farm : Orwell, George, 1903-1950 : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/animalfarm00orwe_0"
+          },
+          {
+            "title": "ANIMAL FARM - ENGLISH - GEORGE ORWELL : GEORGE ORWELL : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/AnimalFarm-English-GeorgeOrwell"
+          },
+          {
+            "title": "Animal Farm : George Orwell : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/animal-farm-by-george-orwell_202109"
+          },
+          {
+            "title": "Animal Farm, by George Orwell",
+            "url": "https://archive.org/download/AnimalFarmByGeorgeOrwell/Animal%20Farm%20by%20George%20Orwell.pdf"
+          },
+          {
+            "title": "Animal farm : Orwell, George, 1903-1950, author : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/animalfarm0000orwe_t7m8"
+          },
+          {
+            "title": "Animal Farm - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Animal_Farm"
+          },
+          {
+            "title": "Publisher's Archive of Correspondence Relating to Animal Farm by ORWELL, George - Jonkers Rare Books",
+            "url": "https://www.jonkers.co.uk/rare-book/10993/publisher-s-archive-of-correspondence-relating-to-animal-farm/george-orwell"
+          },
+          {
+            "title": "Animal Farm By George Orwell : George Orwell : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/AnimalFarmByGeorgeOrwell"
+          },
+          {
+            "title": "Animal Farm & The Orwell Files: Primary Sources | Portfolium",
+            "url": "https://portfolium.com/entry/animal-farm-the-orwell-files"
+          }
+        ]
+      },
+      "Based on the search results, I found some information about Animal Farm historical documents and manuscripts, though specific British Library holdings weren't prominently featured in these results. Here's what I found:\n\n## Key Historical Documents and Manuscripts\n\nThe British government spied on George Orwell for many years. Over the past decade, the British government has declassified many documents detailing their surveillance.(no content)These files can be found in the British National Archives, and some educators have curated these documents for educational purposes.\n\n## The Original Manuscript's Near Destruction\n\nIn June 1944, the manuscript was almost lost when a German V-1 flying bomb destroyed his London flat in Mortimer Crescent, Kilburn. Orwell spent hours sifting through the rubble to find the pages intact.(no content)Writing to T. S. Eliot at his publisher, Orwell noted that the enclosed manuscript had been \"'blitzed'\" and was in \"slightly crumpled condition, but it is not damaged in any way.\"\n\n## Publisher's Archive Materials\n\nOne archive contains 12 items, comprising one TLS and one copy of a letter from Orwell, two TLS, one ALS and six carbons. Including: typed letter signed from Orwell to Victor Gollancz offering him first refusal but warning him that the book is anti-Stalin. This archive documents the difficult publication history of Animal Farm, including:\n\n- Correspondence from Victor Gollancz to Leonard Moore seeking to establish that the three-book contract is still operative\n- An autograph letter signed from the publisher Jonathan Cape to Gollancz, dated 26 May 1944\n- A three-page letter drafted by Gollancz to The Bookseller, dated 15 February 1950\n\n## Publication History Context\n\nOrwell wrote the book between November 1943 and February 1944, and the manuscript was initially rejected by several British and American publishers, including one of Orwell's own, Victor Gollancz. By mid-July 1944, Orwell was on the verge of self-publishing the book, but the novel was at last taken up by Secker and Warburg, with terms agreed by October 1944, and was finally published in August 1945.\n\nWhile the search didn't return specific results about British Library holdings of Animal Farm manuscripts, the results indicate that important historical documents exist in the British National Archives (government surveillance files) and in various publisher archives (correspondence and draft materials). For more specific information about British Library holdings, you may need to search their catalog directly or contact their manuscript department."
+    ],
+    "durationSeconds": 27.934788727000356
+  }
+}

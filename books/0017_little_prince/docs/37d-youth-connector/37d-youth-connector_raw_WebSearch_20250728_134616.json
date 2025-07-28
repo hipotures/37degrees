@@ -1,0 +1,63 @@
+{
+  "session_id": "bb5bd92f-2e06-46b2-9b84-f65c0578b080",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/bb5bd92f-2e06-46b2-9b84-f65c0578b080.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "BookTok Poland Polish books young readers TikTok literature 2024"
+  },
+  "tool_response": {
+    "query": "BookTok Poland Polish books young readers TikTok literature 2024",
+    "results": [
+      "I'll search for information about BookTok in Poland, focusing on Polish books, young readers, and TikTok literature trends in 2024.",
+      {
+        "tool_use_id": "srvtoolu_01RpcxUbWWERBisLR9MP7Ydf",
+        "content": [
+          {
+            "title": "TikTok's trend of 'BookTok' affects viewers' choices - The Post",
+            "url": "https://www.thepostathens.com/article/2024/10/booktok-tiktok-influence-reading"
+          },
+          {
+            "title": "BookTok\u2019s 21 Most Talked About Books of 2024",
+            "url": "https://www.rollingstone.com/culture/culture-lists/booktok-best-books-2024-1235090973/"
+          },
+          {
+            "title": "The Most Popular TikTok Books #BookTok | Barnes & Noble\u00ae",
+            "url": "https://www.barnesandnoble.com/b/booktok/_/N-2vdn"
+          },
+          {
+            "title": "Here's your TikTok Book Awards shortlist - now it's time to vote! - Newsroom | TikTok",
+            "url": "https://newsroom.tiktok.com/en-gb/heres-your-tiktok-book-awards-shortlist"
+          },
+          {
+            "title": "Booktok Poland",
+            "url": "https://www.tiktok.com/discover/booktok-poland"
+          },
+          {
+            "title": "Tiktok #Booktok 2022-2024 (47 books)",
+            "url": "https://www.goodreads.com/list/show/179763.Tiktok_Booktok_2022_2024"
+          },
+          {
+            "title": "They're Everywhere! Polish Books for Kids in Translation | Article | Culture.pl",
+            "url": "https://culture.pl/en/article/polish-books-for-kids-in-translation"
+          },
+          {
+            "title": "The Influence of BookTok on Literary Criticisms and Diversity - Alysia De Melo, 2024",
+            "url": "https://journals.sagepub.com/doi/10.1177/20563051241286700"
+          },
+          {
+            "title": "BookTok - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/BookTok"
+          },
+          {
+            "title": "21 Popular BookTok Books And Why They Went Viral On TikTok",
+            "url": "https://www.today.com/popculture/books/booktok-tiktok-books-list-rcna70986"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with information about BookTok in Poland and its impact on Polish books, young readers, and TikTok literature in 2024:\n\n## BookTok's Global Impact in 2024\n\nThe BookTok hashtag is reported to have over 107 billion views globally, and by October 2024, it was reported that the #BookTok had been viewed over 309 billion times on TikTok with about 52 million posts. As of 2023, it is particularly popular with Generation Z users, people who were born between 1996 and 2010.\n\n## BookTok's Influence on Young Readers\n\nIts inclusive space has allowed content creators to share their favorite books through engaging formats with readers of all levels and ages. BookTok has created many great reading habits among young people. The BookTok creators are predominantly teenagers and young women, with a focus on young adult fiction, fantasy, and romance.\n\n## Polish Literature and Young Readers\n\nWhile the search results don't provide specific information about BookTok's impact in Poland, there is evidence of Polish children's literature gaining international recognition. They've gained international distinctions \u2013 and won over the hearts of young readers all the way from China and South Korea to the U.S., Mexico and Australia. Culture.pl presents the biggest Polish hits on the international children's book market.\n\n## BookTok's Publishing Industry Impact in 2024\n\nIn the past four years, BookTok, has gone from a scrappy, grassroots group that makes literature-centered content into a major and uncontrollable marketing driver of the publishing industry. BookTok has been personally responsible for millions of dollars of book sales and made authors household names in the process.\n\nBookstores such as Barnes and Noble have noticed BookTok's ability to drive sales, and have incorporated into their stores. Many Barnes and Noble stores have BookTok displays, featuring popular books on the app, and the company also has a section of their site dedicated to these books.\n\n## 2024 Book Trends\n\nThe search results indicate that \"Liz Moore's runaway summer hit\" has been \"a BookTok classic\" and \"The bestselling author had dominated book lists all year\" in 2024, showing the platform's continued influence on reading trends.\n\nWhile I found a reference to a TikTok page for \"Booktok Poland\" in the search results, the specific details about Polish BookTok's influence on local young readers and Polish literature in 2024 were not available in these results. The global trends suggest that BookTok continues to be a powerful force in promoting reading among young people worldwide, including potentially in Poland."
+    ],
+    "durationSeconds": 32.85124962199991
+  }
+}

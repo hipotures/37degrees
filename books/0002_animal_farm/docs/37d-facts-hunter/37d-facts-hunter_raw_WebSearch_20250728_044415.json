@@ -1,0 +1,63 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Animal Farm\" George Orwell Spanish Civil War experience Trotskyist POUM Barcelona"
+  },
+  "tool_response": {
+    "query": "\"Animal Farm\" George Orwell Spanish Civil War experience Trotskyist POUM Barcelona",
+    "results": [
+      "I'll search for information about George Orwell's experience with the POUM during the Spanish Civil War and its connection to Animal Farm.",
+      {
+        "tool_use_id": "srvtoolu_01XAuYSwQj1Byj8HDtPFugqS",
+        "content": [
+          {
+            "title": "Animal Farm - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Animal_Farm"
+          },
+          {
+            "title": "The War that Inspired Animal Farm: How George Orwell\u00e2",
+            "url": "https://scholarworks.wmich.edu/cgi/viewcontent.cgi?article=1034&context=hs_writing_2014"
+          },
+          {
+            "title": "Homage to Catalonia: The Book Orwell Had to Write | RealClearHistory",
+            "url": "https://www.realclearhistory.com/articles/2021/05/03/homage_to_catalonia_the_book_orwell_had_to_write_775506.html"
+          },
+          {
+            "title": "Animal Farm: George Orwell and Animal Farm Background | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/animalfarm/context/"
+          },
+          {
+            "title": "Orwell and Trotsky \u2013 The Orwell Society",
+            "url": "https://orwellsociety.com/orwell-and-trotsky/"
+          },
+          {
+            "title": "George Orwell and Barcelona: Unearthing History",
+            "url": "https://www.bcn.travel/george-orwell-barcelona-guide/"
+          },
+          {
+            "title": "George Orwell and the road to revolution",
+            "url": "https://www.newstatesman.com/long-reads/2020/12/george-orwell-and-road-revolution"
+          },
+          {
+            "title": "George Orwell - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/George_Orwell"
+          },
+          {
+            "title": "\"Homage to Catalonia\" - George Orwell and the Spanish Civil War",
+            "url": "https://expatmadrid.com/homage-to-catalonia/"
+          },
+          {
+            "title": "Reflections on the Spanish Civil War | News | The Harvard Crimson",
+            "url": "https://www.thecrimson.com/article/1952/5/23/reflections-on-the-spanish-civil-war/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide comprehensive information about George Orwell's Spanish Civil War experience with the POUM and its influence on Animal Farm:\n\n## Orwell's Experience with POUM in Barcelona\n\nOrwell, a democratic socialist, was a critic of Stalin and hostile to Moscow-directed Stalinism, an attitude that was critically shaped by his experiences during the Barcelona May Days conflicts between the POUM and Stalinist forces, during the Spanish Civil War.(no content)On Boxing Day, Dec. 26, 1936 Orwell and wife Eileen left for Spain, supposedly paying for the trip by hocking the family silver. His ILP contacts led him to join with a small radical, anarchist group with Trotskyist connections, POUM (Workers Party of Marxist Unification). Orwell spent five months with the POUM including 115 days at the front.(no content)Orwell arrived in Catalonia with his wife, Eileen, and through associates in the Independent Labour Party made contact with the far-left Partit Obrer d'Unificaci\u00f3 Marxista (the Workers' Party of Marxist Unification), or POUM. He received some rudimentary military training and then served with the Lenin division of the POUM militia on the Aragon front, on \"a quiet sector of a quiet front\" as he later wrote, where one morning he was shot by a sniper in the throat and almost died.\n\n## The Barcelona May Days and Persecution\n\nIn December 1936 Stalin, who wanted to control Spain after the Civil War, had denounced POUM as a Trotskyist militia and ordered the Communist leaders in Catalonia to destroy it. POUM's Secretary Andr\u00e9s Nin, once associated with Stalin's arch-enemy Trotsky and Stalin's most coveted prey in Spain, was arrested and murdered by the Stalinists in June 1937.(no content)Orwell was in Barcelona and took part in the fighting when the Communists attacked the POUM on the grounds that it was secretly supporting Franco, something he knew was a lie. The POUM was outlawed, its leaders rounded up and its spokesman Andres Nin, a man Orwell admired, was arrested, tortured and murdered by Russian agents.(no content)By the middle of June, the political situation in Barcelona had deteriorated and the POUM\u2014painted by the pro-Soviet Communists as a Trotskyist organisation\u2014was outlawed and under attack. In the first week of July 1937 Orwell arrived back at Wallington; on 13 July 1937 a deposition was presented to the Tribunal for Espionage and High Treason in Valencia, charging the Orwells with \"rabid Trotskyism\", and being agents of the POUM.(no content)While recovering from his wound, he was informed that he and his wife, who had worked as a secretary for POUM, were in danger of being arrested. Documents discovered in recent years indicated that they were to be shot. They fled Spain and returned to England in June 1937.\n\n## Impact on Orwell's Writing and Animal Farm\n\nOrwell's struggle to tell his story was the transforming event of his life, one that turned him into a bitter enemy of communism and especially its worshippers of Stalin.(no content)Orwell was inspired to write Animal Farm in part by his experiences in a Trotskyist group during the Spanish Civil War, and Snowball certainly receives a more sympathetic portrayal than Napoleon.(no content)He was profoundly disillusioned and yet, after his return to England, he would draw on his experiences in Catalonia and on a more general sense of political disenchantment to write the great counter-revolutionary novels, Animal Farm (1945) and Nineteen Eighty-Four (1949), that transformed his fortunes late in life (he died from tuberculosis aged 46 in January 1950) and by which he shall always be remembered.(no content)From his experience with totalitarianism behind Republican lines in Spain was born the Orwell who later wrote Animal Farm and Nineteen Eighty-Four, the books that made him famous.\n\n## The Trotsky Connection\n\nThe political ideas in Orwell's trilogy\u2014Homage to Catalonia, Animal Farm and Nineteen Eighty-Four\u2014were profoundly influenced by the theme of Leon Trotsky's book The Revolution Betrayed (1937).(no content)These and many other developments in Soviet history before 1945 have direct parallels in Animal Farm: Napoleon ousts Snowball from the farm and, after the windmill collapses, uses Snowball in his purges just as Stalin used Trotsky.\n\nThe search results clearly show that Orwell's firsthand experience of Stalinist persecution of the POUM in Barcelona during the Spanish Civil War profoundly shaped his political views and directly influenced the writing of Animal Farm. His witnessing of how the Communists turned on their supposed allies, using false accusations of \"Trotskyism\" to eliminate the POUM, provided him with a direct understanding of totalitarian methods that he would later dramatize in his famous allegory."
+    ],
+    "durationSeconds": 51.19981741900003
+  }
+}

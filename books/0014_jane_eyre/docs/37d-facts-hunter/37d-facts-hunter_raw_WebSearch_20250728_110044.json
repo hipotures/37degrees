@@ -1,0 +1,63 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Jane Eyre\" literary innovations first-person female narrative feminist themes Victorian society shocked"
+  },
+  "tool_response": {
+    "query": "\"Jane Eyre\" literary innovations first-person female narrative feminist themes Victorian society shocked",
+    "results": [
+      "I'll search for information about Jane Eyre's literary innovations, particularly focusing on its first-person female narrative, feminist themes, and how it shocked Victorian society.",
+      {
+        "tool_use_id": "srvtoolu_01JadRa7kZxeyDaYQ2N1G3eF",
+        "content": [
+          {
+            "title": "\"Contradiction in Jane Eyre: Conversations of 19th Century Feminism\" by Audrey Clement - Marymount University",
+            "url": "https://marymount.edu/academics/college-of-sciences-and-humanities/school-of-interdisciplinary-studies/student-publications/magnificat-2022/contradiction-in-jane-eyre/"
+          },
+          {
+            "title": "Intersectionality in Jane Eyre and its Adaptations",
+            "url": "https://scholarworks.uark.edu/cgi/viewcontent.cgi?article=2104&context=etd"
+          },
+          {
+            "title": "The Life Journey of A Young Feminist in \u201cJane Eyre\u201d by Charlotte Bronte (1847) | by Ovioctavia | Write Like a Girl | Medium",
+            "url": "https://medium.com/write-like-a-girl/the-life-journey-of-a-young-feminist-in-jane-eyre-by-charlotte-bronte-1847-c9167793074"
+          },
+          {
+            "title": "Analysis of Jane Eyre with Contemporary Feminist Criticism",
+            "url": "https://www.rosiestamu.com/post/analysis-of-jane-eyre-with-contemporary-feminist-criticism"
+          },
+          {
+            "title": "Jane Eyre - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Jane_Eyre"
+          },
+          {
+            "title": "Feminism and gender roles in Jane Eyre and Wuthering Heights | British Literature II Class Notes | Fiveable | Fiveable",
+            "url": "https://library.fiveable.me/british-literature-ii/unit-8/feminism-gender-roles-jane-eyre-wuthering-heights/study-guide/BW3I7QmH92WNFmtm"
+          },
+          {
+            "title": "FEMINISM AND IDENTITY IN VICTORIAN NOVELS OF ...",
+            "url": "https://scholar.stjohns.edu/cgi/viewcontent.cgi?article=1547&context=theses_dissertations"
+          },
+          {
+            "title": "Feminism & Gender Roles in Jane Eyre by Charlotte Bronte - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/feminism-gender-roles-in-jane-eyre.html"
+          },
+          {
+            "title": "Reflection on Feminism in Jane Eyre",
+            "url": "https://www.academypublication.com/issues/past/tpls/vol03/06/08.pdf"
+          },
+          {
+            "title": "Feminist Fridays: What\u2019s the Deal with Jane Eyre?",
+            "url": "https://theadroitjournal.org/2019/04/15/jane-eyre-feminism/"
+          }
+        ]
+      },
+      "Based on the search results, here's what I found about Jane Eyre's literary innovations, particularly its first-person female narrative, feminist themes, and how it shocked Victorian society:\n\n## Literary Innovations\n\nJane Eyre revolutionised prose fiction, being the first to focus on the moral and spiritual development of its protagonist through an intimate first-person narrative, where actions and events are coloured by a psychological intensity.(no content)Charlotte Bront\u00eb has been called the \"first historian of the private consciousness\" and the literary ancestor of writers such as Marcel Proust and James Joyce.(no content)Jane Eyre is a homodiegetic narrator, which allows her to exist both as a character and narrator in the story world, and her narration establishes an emotional connection and response for the reader.\n\n## First-Person Female Narrative\n\nThe novel's groundbreaking use of first-person female narration was particularly innovative for its time. In Charlotte Bronte's Jane Eyre, published in 1847, Jane Eyre experiences many obstacles and mistreatments through living with her abusive aunt, being both a student and teacher at Lowood Institute, and later becoming the governess at Rochester's Thornfield Hall. The novel exemplifies both characteristics of literature in the Victorian era \u2014 which featured tension between tradition and individualism \u2014 and characteristics of a feminist novel.\n\n## Feminist Themes\n\nR. B. Martin described Jane Eyre as the first major feminist novel, \"although there is not a hint in the book of any desire for political, legal, educational, or even intellectual equality between the sexes.\"(no content)Jane Eyre is widely considered to be one of the first feminist novels, though modern scholars debate this classification.\n\nKey feminist elements include:\n- Jane Eyre is considered a feminist work because it shows a heroine who is independent, from the working-class, and unmarried.\n- Jane is a feminist heroine because she leads an independent life, is willing to love and be loved by Rochester, and refuses to compromise her principles.\n- Jane Eyre desires the thrill and action that comes from being an active individual in society, and she refuses to allow the concept of gender and class to hinder her.\n\n## How It Shocked Victorian Society\n\nAlthough Jane Eyre bordered on radical at the time of its publication\u2014so radical that Bront\u00eb published it under a male name, indicating the controversial nature of the work.\n\nIt was 1847, and a female doing the things Jane did was thought to be completely radical.(no content)I am amazed by how modern Charlotte Bronte's idea was for a woman who lived in the Victorian era. Where a lot of female writers were afraid to write a story of a woman as the main character, where other female writers were afraid to express their ideas on how women react to an inequity world, and other female writers have followed the male style in writing, Charlotte Bronte was extremely bold to write a story about Jane Eyre.\n\nThe novel shocked Victorian society by:\n- Presenting a working-class woman as the protagonist\n- Depicting a woman who refuses to compromise her principles\n- Showing a female character who seeks independence and self-determination\n- The novel's setting is the English society of the early 19th century, and with that time setting come specific restrictions women encountered during that time, such as the law of coverture, the lack of rights, and the restricted expectations placed on women.\n\nThe combination of these innovative narrative techniques and radical themes made Jane Eyre a groundbreaking work that challenged Victorian social norms and expectations about women's roles in society."
+    ],
+    "durationSeconds": 37.12027280299994
+  }
+}

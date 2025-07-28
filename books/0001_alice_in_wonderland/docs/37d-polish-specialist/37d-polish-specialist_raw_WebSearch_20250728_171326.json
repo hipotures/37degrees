@@ -1,0 +1,63 @@
+{
+  "session_id": "e45997b0-1016-4783-9450-979f533f9cbc",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e45997b0-1016-4783-9450-979f533f9cbc.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "YouTube \"Alicja w Krainie Czar\u00f3w\" Polish BookTube channel recenzja"
+  },
+  "tool_response": {
+    "query": "YouTube \"Alicja w Krainie Czar\u00f3w\" Polish BookTube channel recenzja",
+    "results": [
+      "I'll search for information about the Polish BookTube channel \"Alicja w Krainie Czar\u00f3w\" and their book reviews.",
+      {
+        "tool_use_id": "srvtoolu_01RhMvGQ49GCTqVR5JKdYk7E",
+        "content": [
+          {
+            "title": "Amazon.com: Alicja w Krainie Czar\u00f3w (Polish Edition): 9788375179095: Carroll, Lewis: Books",
+            "url": "https://www.amazon.com/Alicja-w-Krainie-Czar%C3%B3w-Polish/dp/8375179094"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w - The book series in Polish - Storytel International",
+            "url": "https://www.storytel.com/tv/series/alicja-w-krainie-czar%C3%B3w-22420"
+          },
+          {
+            "title": "\"Alicja w Krainie Czar\u00f3w\" - Lewis Carroll - Recenzja ksi\u0105\u017cki - Eduarena",
+            "url": "https://eduarena.pl/alicja-w-krainie-czarow-lewis-carroll-recenzja-ksiazki/"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w (2010) - Filmweb",
+            "url": "https://www.filmweb.pl/film/Alicja+w+Krainie+Czar%C3%B3w-2010-465818"
+          },
+          {
+            "title": "Alicja w krainie czar\u00f3w (Polish Edition): Carroll, Lewis: 9788363035624: Amazon.com: Books",
+            "url": "https://www.amazon.com/Alicja-W-Krainie-Czar%C3%B3w-Polish/dp/8363035629"
+          },
+          {
+            "title": "Recenzja gry Alicja w Krainie Czar\u00f3w | M\u0141ODY GIERCOWNIK",
+            "url": "https://mlodygiercownik.pl/2023/11/19/recenzja-gry-alicja-w-krainie-czarow/"
+          },
+          {
+            "title": "\u201eAlicja w Krainie Czar\u00f3w\u201d \u2013 recenzja",
+            "url": "https://dlalejdis.pl/artykuly/alicja-w-krainie-czarow-recenzja"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w (1951) - Filmweb",
+            "url": "https://www.filmweb.pl/film/Alicja+w+Krainie+Czar%C3%B3w-1951-108102"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w - Lewis Carroll | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/4988571/alicja-w-krainie-czarow"
+          },
+          {
+            "title": "\u201eAlicji Kraina Czar\u00f3w\u201d \u2013 wyb\u00f3r recenzji - Teatr Narodowy \u2013 Aktualno\u015bci - Teatr Narodowy",
+            "url": "https://narodowy.pl/aktualnosci,1512,alicji_kraina_czarow_wybor_recenzji.html"
+          }
+        ]
+      },
+      "Based on my search results, I didn't find any specific Polish BookTube channel called \"Alicja w Krainie Czar\u00f3w\" on YouTube. The search results primarily returned information about the book \"Alice in Wonderland\" (Alicja w Krainie Czar\u00f3w) itself, including:\n\n- Book reviews of Lewis Carroll's \"Alice in Wonderland\" in Polish\n- Movie adaptations and reviews of Alice in Wonderland films\n- Board game reviews related to Alice in Wonderland\n- Theater production reviews of Alice in Wonderland\n\nThe search results show various Polish reviews and content about \"Alicja w Krainie Czar\u00f3w\" but not specifically a YouTube BookTube channel with that name. The results include:\n\n1. **Book reviews**: Educational website reviews discussing the literary journey and surrealistic imagery of Carroll's work\n2. **Film reviews**: Multiple reviews of various Alice in Wonderland movie adaptations\n3. **Cultural content**: Discussion of how the story originated in 1862 during a boat ride on the Thames and brought Carroll worldwide fame\n\nIf you're looking for a specific Polish BookTube channel about Alice in Wonderland, you might want to search directly on YouTube using more specific terms or provide additional details about the channel you're looking for."
+    ],
+    "durationSeconds": 14.145798905999982
+  }
+}

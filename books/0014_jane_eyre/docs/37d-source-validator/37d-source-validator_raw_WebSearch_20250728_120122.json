@@ -1,0 +1,63 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Jane Eyre Polish translation 1881 \"Janina\" Emilia Dobrza\u0144ska Teresa \u015awiderska 1930"
+  },
+  "tool_response": {
+    "query": "Jane Eyre Polish translation 1881 \"Janina\" Emilia Dobrza\u0144ska Teresa \u015awiderska 1930",
+    "results": [
+      "I'll search for information about Polish translations of Jane Eyre, specifically looking for the 1881 translation under the title \"Janina\" and the involvement of Emilia Dobrza\u0144ska and Teresa \u015awiderska in a 1930 translation.",
+      {
+        "tool_use_id": "srvtoolu_018cPrho1AiyLoohGuToxSZs",
+        "content": [
+          {
+            "title": "Teresa \u015awiderska \u2013 Prismatic Jane Eyre",
+            "url": "https://prismaticjaneeyre.org/teresa-swiderska/"
+          },
+          {
+            "title": "(PDF) A controversial translation justified by the context: \"Janina,\" the first Polish version of Charlotte Bront\u00eb\u2019s \"Jane Eyre\" | Dagmara Hadyna - Academia.edu",
+            "url": "https://www.academia.edu/4019388/A_controversial_translation_justified_by_the_context_Janina_the_first_Polish_version_of_Charlotte_Bront%C3%AB_s_Jane_Eyre_"
+          },
+          {
+            "title": "(PDF) The evolution of translation standards as illustrated by the history of Polish translations of Jane Eyre by Charlotte Bront\u00eb",
+            "url": "https://www.academia.edu/86777208/The_evolution_of_translation_standards_as_illustrated_by_the_history_of_Polish_translations_of_Jane_Eyre_by_Charlotte_Bront%C3%AB"
+          },
+          {
+            "title": "Emilia Dobrza\u0144ska, n\u00e9e Karczewska (1852-1925) \u2013 Prismatic Jane Eyre",
+            "url": "https://prismaticjaneeyre.org/emilia-dobrzanska-nee-karczewska-1852-1925/"
+          },
+          {
+            "title": "The evolution of translation standards as illustrated by the history of Polish translations of Jane Eyre by Charlotte Bront\u00eb",
+            "url": "https://czasopisma.filologia.uwb.edu.pl/index.php/c/article/view/683"
+          },
+          {
+            "title": "ResearchGate | Find and share research",
+            "url": "https://www.researchgate.net/publication/292210201_The_evolution_of_translation_standards_as_illustrated_by_the_history_of_Polish_translations_of_Jane_Eyre_by_Charlotte_Bronte"
+          },
+          {
+            "title": "Texts Quoted \u2013 Prismatic Jane Eyre",
+            "url": "https://prismaticjaneeyre.org/texts-quoted/"
+          },
+          {
+            "title": "A Relayed Translation. Looking for the Source Text of the First Polish Translation of Charlotte Bront\u00eb\u2019s Jane Eyre",
+            "url": "https://ejournals.eu/czasopismo/studia-litteraria-uic/artykul/a-relayed-translation-looking-for-the-source-text-of-the-first-polish-translation-of-charlotte-brontes-jane-eyre"
+          },
+          {
+            "title": "The Shape in Jane\u2019s Bedroom \u2013 Prismatic Jane Eyre",
+            "url": "https://prismaticjaneeyre.org/the-shape-in-janes-bedroom/"
+          },
+          {
+            "title": "A controversial translation justified by the context: Janina, the first Polish version of Charlotte Bront\u00eb\u2019s Jane Eyre",
+            "url": "https://ruj.uj.edu.pl/xmlui/handle/item/187541"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about the Polish translations of Jane Eyre, particularly focusing on the 1881 \"Janina\" translation and the 1930 translation by Teresa \u015awiderska:\n\n## The 1881 \"Janina\" Translation by Emilia Dobrza\u0144ska\n\nThe first Polish translation of Charlotte Bront\u00eb's Jane Eyre was published between 1880-1881, exactly 33 years after the original novel came out, under the title \"Janina.\"(no content)The full title was \"Janina. Powie\u015b\u0107 z angielskiego\" (\"Janina. A novel from English\") and it was published as a supplement to the weekly periodical Tydzie\u0144 (\"The Week\"), which was edited by her husband Miros\u0142aw Dobrza\u0144ski.\n\n### About Emilia Dobrza\u0144ska (1852-1925)\n\nEmilia Dobrza\u0144ska, n\u00e9e Karczewska (1852-1925), was a Polish noblewoman, translator from French and English, and educational activist.(no content)She was educated in a school for girls in Piotrk\u00f3w Trybunalski, then part of Congress Poland within the Russian Partition, and stayed on as a teacher of botany and French after her graduation.(no content)Besides translating French writers such as Henry Gr\u00e9ville, R\u00e9n\u00e9 de Pont-Jest, and Andr\u00e9 Vald\u00e9s, she also translated English works, most notably, Shakespeare's Venus and Adonis.\n\n### Characteristics of the \"Janina\" Translation\n\nThe translation has been described as controversial and problematic in several ways:\n\n1. **Extreme abridgment**: The translation is extremely abridged - less than a half of the original's length\n\n2. **Translation errors**: It is abundant with misinterpretations, mistranslations and errors, including the probable mistakes made by typesetters or editors\n\n3. **Genre transformation**: This ambitious, psychological and intellectual masterpiece was rendered into an overly sentimental, naive gothic romance\n\n4. **Relay translation**: Her translation of Jane Eyre was probably based on the French rendering by No\u00ebmi Lesbazeilles Souvestre from 1854, making it a relay translation rather than a direct translation from English.\n\n## The 1930 Translation by Teresa \u015awiderska\n\nTeresa \u015awiderska was a Polish translator from English and author of children's literature who produced a Jane Eyre translation in 1930.(no content)Her translation was titled \"Dziwne losy Jane Eyre\" (\"The Strange Fate of Jane Eyre\") and was published in Pozna\u0144 by Ksi\u0119garnia \u015bw. Wojciecha.\n\n## Evolution of Polish Translations\n\nThe evolution from Emilia Dobrza\u0144ska's version (1880-1881) to Teresa \u015awiderska's translation (1930) and later to Gabriela Jaworska's (2007) demonstrates a shift from free, subjective adaptation to more faithful translations, alongside a movement from domestication to foreignization, reflecting broader trends in translation theory.(no content)The earliest translation is more of an adaptation than a faithful rendering; it also makes frequent use of domestication (e.g. most proper names are translated into Polish).(no content)The other two translations apply foreignization more often, in particular the most recent one."
+    ],
+    "durationSeconds": 36.45269113999978
+  }
+}

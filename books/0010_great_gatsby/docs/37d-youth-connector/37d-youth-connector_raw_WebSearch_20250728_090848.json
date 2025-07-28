@@ -1,0 +1,164 @@
+{
+  "session_id": "e18f7f1c-5883-41e4-8ef9-15aee4aa266b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e18f7f1c-5883-41e4-8ef9-15aee4aa266b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Gen Z slang \"Great Gatsby\" memes viral formats TikTok language \"no cap\" \"fr fr\" wealth themes 2024"
+  },
+  "tool_response": {
+    "query": "Gen Z slang \"Great Gatsby\" memes viral formats TikTok language \"no cap\" \"fr fr\" wealth themes 2024",
+    "results": [
+      "I'll search for information about Gen Z slang and Great Gatsby memes on TikTok.",
+      {
+        "tool_use_id": "srvtoolu_01FbETDG3BNcLpN6fy4qaHcm",
+        "content": []
+      },
+      {
+        "tool_use_id": "srvtoolu_01Kz2ajg7fGXjNaWvub9DdxJ",
+        "content": [
+          {
+            "title": "Gen Z Memes | TikTok",
+            "url": "https://www.tiktok.com/channel/gen-z-memes?lang=en"
+          },
+          {
+            "title": "Gen Z Slang 2024",
+            "url": "https://www.tiktok.com/discover/gen-z-slang-2024?lang=en"
+          },
+          {
+            "title": "Great Gatsby Memes",
+            "url": "https://www.tiktok.com/discover/great-gatsby-memes?lang=en"
+          },
+          {
+            "title": "The Great Gatsby Related Memes",
+            "url": "https://www.tiktok.com/discover/the-great-gatsby-related-memes"
+          },
+          {
+            "title": "The Great Gatsby Memes",
+            "url": "https://www.tiktok.com/discover/the-great-gatsby-memes?lang=en"
+          },
+          {
+            "title": "TikTok - Make Your Day",
+            "url": "https://www.tiktok.com/discover/todays-the-day-gatsby-meme?lang=en"
+          },
+          {
+            "title": "The Great CATsby (pt. 1) #gatsby #meme #cats #catmemes #thebedtimebookworm #literature #thegreatgatsby #funny #lol #books #booktok #fyp  | TikTok",
+            "url": "https://www.tiktok.com/@thebedtimebookworm/video/7335222242441202990"
+          },
+          {
+            "title": "Example of Gen Z Great Gatsby Project",
+            "url": "https://www.tiktok.com/discover/example-of-gen-z-great-gatsby-project"
+          },
+          {
+            "title": "The Great Gatsby Meme",
+            "url": "https://www.tiktok.com/discover/the-great-gatsby-meme"
+          },
+          {
+            "title": "Understanding The Great Gatsby Through Gen Z Perspectives",
+            "url": "https://www.tiktok.com/@amber.mariee44/video/7471051320288464170"
+          }
+        ]
+      },
+      "Let me search for more specific information about Gen Z slang being used with Great Gatsby themes.",
+      {
+        "tool_use_id": "srvtoolu_01L7Ad2vZi4L9bNEPbwf9qZX",
+        "content": []
+      },
+      "Let me try a different search approach to find more relevant content about this trend.",
+      {
+        "tool_use_id": "srvtoolu_01MkXsZf2tjeRdFJxAEFP84t",
+        "content": [
+          {
+            "title": "Glossary of 2020s slang - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Glossary_of_Generation_Z_slang"
+          },
+          {
+            "title": "Top 60+ GenZ Slangs That You Should Know In 2024",
+            "url": "https://keyhole.co/blog/top-genz-slangs/"
+          },
+          {
+            "title": "2025 Teen Slang Dictionary: Decode Gen Z Lingo",
+            "url": "https://gabb.com/blog/teen-slang/"
+          },
+          {
+            "title": "Popular Gen Z Phrases In 2024: Your Complete Guide \ud83d\udd25 \u00bb Decode Internet Slang \u00bb SLANGINFO.com",
+            "url": "https://slanginfo.com/gen-z-phrases/"
+          },
+          {
+            "title": "Gen Z slang words and phrases of 2024 | European Youth Portal",
+            "url": "https://youth.europa.eu/get-involved/intercultural-understanding/gen-z-slang-words-and-phrases-of-2024_en"
+          },
+          {
+            "title": "Let Us Cook With This List Of Slang Trends That Explain 2024 | Dictionary.com",
+            "url": "https://www.dictionary.com/e/slang-trends-that-explain-2024/"
+          },
+          {
+            "title": "55 Gen Alpha Slang Words (With Meanings) - Parade",
+            "url": "https://parade.com/living/gen-alpha-slang"
+          },
+          {
+            "title": "20 Gen Z slang terms and what they mean",
+            "url": "https://www.englishpath.com/blog/20-gen-z-slang-terms-and-what-they-mean/"
+          },
+          {
+            "title": "2025 Teen Slang Meanings Every Parent Should Know | Bark",
+            "url": "https://www.bark.us/blog/teen-text-speak-codes-every-parent-should-know/"
+          },
+          {
+            "title": "50 Gen Z Slang Words, Lingo, Phrases and What They Mean - Parade",
+            "url": "https://parade.com/1293898/marynliles/gen-z-slang-words/"
+          }
+        ]
+      },
+      "Let me search for more specific information about Great Gatsby being reimagined with Gen Z slang.",
+      {
+        "tool_use_id": "srvtoolu_01SnGGpHi8MnBdQUshHNi1dB",
+        "content": [
+          {
+            "title": "Example of Gen Z Great Gatsby Project",
+            "url": "https://www.tiktok.com/discover/example-of-gen-z-great-gatsby-project"
+          },
+          {
+            "title": "Millennials and The Lost Generation Great Gatsby",
+            "url": "https://www.tiktok.com/discover/millennials-and-the-lost-generation-great-gatsby"
+          },
+          {
+            "title": "Understanding The Great Gatsby Through Gen Z Perspectives",
+            "url": "https://www.tiktok.com/@amber.mariee44/video/7471051320288464170"
+          },
+          {
+            "title": "Gen Z Abbreviation List Paragraph",
+            "url": "https://www.tiktok.com/discover/gen-z-abbreviation-list-paragraph"
+          },
+          {
+            "title": "TikTok - Make Your Day",
+            "url": "https://www.tiktok.com/music/The-Great-Gatsby-6728067636669712385?lang=en"
+          },
+          {
+            "title": "The Great Gatsby Edit",
+            "url": "https://www.tiktok.com/discover/the-great-gatsby-edit"
+          },
+          {
+            "title": "The Great Gatsby Rewrite",
+            "url": "https://www.tiktok.com/discover/the-great-gatsby-rewrite"
+          },
+          {
+            "title": "Amazon.com: The Great Rizzler (Gen Z Great Gatsby Translation): 9798324134945: Fitzgerald, F. Scott, Ravenscroft, Antonius: Books",
+            "url": "https://www.amazon.com/Great-Rizzler-Gen-Gatsby-Translation/dp/B0D2VMMYVZ"
+          },
+          {
+            "title": "Amazon.com: The Great Rizzler (Gen Z Great Gatsby Translation) eBook : Fitzgerald, F. Scott, Ravenscroft, Antonius: Kindle Store",
+            "url": "https://www.amazon.com/Great-Rizzler-Gen-Gatsby-Translation-ebook/dp/B0D29MM4VP"
+          },
+          {
+            "title": "The Great Gatsby",
+            "url": "https://www.tiktok.com/discover/the-great-gatsby?lang=en"
+          }
+        ]
+      },
+      "Based on my search results, here's what I found about Gen Z slang, Great Gatsby memes, and viral TikTok formats in 2024:\n\n## Gen Z Slang and Great Gatsby Trend\n\nThere's actually a published book called \"The Great Rizzler (Gen Z Great Gatsby Translation)\" that reimagines F. Scott Fitzgerald's classic novel using contemporary Gen Z slang. This appears to be part of a broader trend of making classic literature more accessible to younger audiences.\n\n### Example of the Translation:\n\nThe book provides this comparison:\n\n**Original Gatsby opening:** \"In my younger and more vulnerable years my father gave me some advice that I've been turning over in my mind ever since.\"\n\n**Gen Z Version:** \"In my lil' tenderoni days, my papi slapped me with some real chili p advice that's been swimmin' in my brain grease like a fly in the soup ever since, no cap.\"\n\n### Popular Gen Z Slang Terms in 2024:\n\nFrom \"no cap\" to \"rizz,\" these terms have become part of daily life for many young people online and IRL (in real life). Some key terms include:\n\n- **\"No cap\"** - meaning \"no lie\" or \"for real\"\n- **\"Fr fr\"** - \"FR\" is an abbreviation for \"For Real\" or \"For Real?\" and is commonly used to express sincerity, agreement or to emphasize a statement or opinion.\n- **\"Rizz\"** - Derived from the word 'charisma', rizz simply refers to being able to charm someone (aka to \"rizz them up\")\n\n### TikTok's Influence:\n\nA study done by Trinity College London found that \"80% of Gen Z students acquire a significant proportion of their language skills from watching social media platforms like TikTok and Instagram\". This explains why these slang terms spread so rapidly and why classic literature is being reimagined through this linguistic lens.\n\nWhile I found multiple TikTok pages related to Great Gatsby memes and Gen Z interpretations, the specific content wasn't accessible in the search results. However, the existence of \"The Great Rizzler\" book shows that this trend has moved beyond just social media memes to actual published translations, suggesting this is a significant cultural phenomenon where classic literature themes about wealth and social status are being reinterpreted through modern Gen Z language and perspectives."
+    ],
+    "durationSeconds": 46.71467538999999
+  }
+}

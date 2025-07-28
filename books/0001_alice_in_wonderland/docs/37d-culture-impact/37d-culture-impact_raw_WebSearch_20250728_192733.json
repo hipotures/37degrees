@@ -1,0 +1,63 @@
+{
+  "session_id": "6545194c-1a01-4819-963f-db6995a69675",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/6545194c-1a01-4819-963f-db6995a69675.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Polish TikTok trends 2024 2025 Gen Z m\u0142odzie\u017c popularne hashtagi"
+  },
+  "tool_response": {
+    "query": "Polish TikTok trends 2024 2025 Gen Z m\u0142odzie\u017c popularne hashtagi",
+    "results": [
+      "I'll search for information about Polish TikTok trends among Gen Z youth, including popular hashtags for 2024-2025.",
+      {
+        "tool_use_id": "srvtoolu_01K8qQ5AVEjDZr94jD4P22w6",
+        "content": [
+          {
+            "title": "Najpopularniejsze hasztagi na TikToku - Poradnik 2025",
+            "url": "https://polskielajki.pl/blog/najpopularniejsze-hasztagi-na-tiktoku/"
+          },
+          {
+            "title": "Current TikTok Trends To Try Right Now - July 2025",
+            "url": "https://napoleoncat.com/blog/tiktok-trends/"
+          },
+          {
+            "title": "Best #polska Hashtags for Instagram & TikTok - Top Trends 2025",
+            "url": "https://best-hashtags.com/hashtag/polska/"
+          },
+          {
+            "title": "Najpopularniejsze hasztagi na TikToku 2025 | naffy",
+            "url": "https://www.naffy.io/blog/jakie-hasztagi-na-tik-tok"
+          },
+          {
+            "title": "TikTok's biggest trends right now (2025) | Clipchamp Blog",
+            "url": "https://clipchamp.com/en/blog/tiktok-trends-challenges/"
+          },
+          {
+            "title": "#\ufe0f\u20e3Najpopularniejsze hasztagi Tiktok 2025 - TikTok Polska",
+            "url": "https://zdobywamyfanow.pl/najpopularniejsze-hasztagi-tiktok/"
+          },
+          {
+            "title": "Najpopularniejsze hashtagi na TikToku 2025 - Tears Of Joy",
+            "url": "https://tearsofjoy.pl/kopalnia-wiedzy/najpopularniejsze-hashtagi-na-tiktoku-2025"
+          },
+          {
+            "title": "TikTok - Make Your Day",
+            "url": "https://www.tiktok.com/discover/tiktok-trendy-polska"
+          },
+          {
+            "title": "Best Polska TikTok Hashtags | Boost Your Videos",
+            "url": "https://tiktokhashtags.com/hashtag/polska/"
+          },
+          {
+            "title": "Best #polskie Hashtags for Instagram & TikTok - Top Trends 2025",
+            "url": "https://best-hashtags.com/hashtag/polskie/"
+          }
+        ]
+      },
+      "Based on the search results, here's what I found about Polish TikTok trends for 2024-2025 among Gen Z youth:\n\n## Popular Polish TikTok Hashtags (2024-2025)\n\n### Most Used General Polish Hashtags:\n- #polskitiktok \u2013 podstawowy hashtag jednocz\u0105cy polsk\u0105 spo\u0142eczno\u015b\u0107\n- #dlaciebie \u2013 polski odpowiednik globalnego #foryou\n- #tiktokpolska\n- #smieszne\n- #polska\n- #polishgirl\n- #polishboy\n- #polskadziewczyna\n- #warszawa\n\n### Global Trending Hashtags Popular in Poland:\n- #FYP / #ForYou / #ForYouPage \u2013 najpot\u0119\u017cniejsze hashtagi zwi\u0119kszaj\u0105ce szanse na pojawienie si\u0119 w zak\u0142adce \"Dla Ciebie\"\n- #viral \u2013 sygnalizuje algorytmowi, \u017ce Tw\u00f3j content zas\u0142uguje na szeroki zasi\u0119g\n- #trending \u2013 dla tre\u015bci zgodnych z aktualnymi trendami\n\n## Current TikTok Trends (2024-2025):\n\n### Video Trends:\n1. **2024 Recap Videos** - Plenty of ready-made templates are circulating on TikTok, making it easy to create your 2024 recap video\n2. **\"We Listen and We Don't Judge\"** - The rules are simple: You share a secret with another person, and no matter how shocking it is, your friend or significant other can't get mad at you... After hearing the news, both of you must repeat the phrase, \"We listen and we don't judge,\" to show that you genuinely mean it\n3. **In and Out Lists** - Share your 2025 New year's resolutions by curating a highly personalized ins and out list. Following on from 2024, this trend gained steam on TikTok once again to stir up a conversation on the FYP\n\n### Music/Dance Trends:\n- \"Espresso\" by Sabrina Carpenter - This tune by Sabrina Carpenter is the song of summer! The catchy chorus comes with fun choreography, that's taken over TikTok\n- The Raygun dance moves from the 2024 Olympics breakdancing\n\n## Key Statistics:\n- ponad 15 milion\u00f3w aktywnych u\u017cytkownik\u00f3w miesi\u0119cznie tylko w Polsce!\n- Przeci\u0119tny u\u017cytkownik otwiera aplikacj\u0119 TikTok a\u017c 20 razy dziennie i sp\u0119dza w niej ponad 100 minut!\n\n## Best Practices for Polish TikTokers:\n- TikTok pozwala na dodanie maksymalnie 100 hashtag\u00f3w, ale zalecamy u\u017cywanie 3-5 najbardziej trafnych\n- \u0141\u0105cz popularne i niszowe hashtagi\n- Edukacyjny content zyska\u0142 ogromn\u0105 popularno\u015b\u0107 w 2025 roku - consider using #edutok\n\nThe search results show that Polish Gen Z on TikTok follows both global trends while maintaining a strong local community through Polish-specific hashtags. The platform remains highly popular among Polish youth, with educational content, dance challenges, and personal storytelling trends dominating the platform in 2024-2025."
+    ],
+    "durationSeconds": 37.23475948399992
+  }
+}

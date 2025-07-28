@@ -1,0 +1,63 @@
+{
+  "session_id": "7ca65eb2-e5d0-4143-8931-90f15001b62e",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7ca65eb2-e5d0-4143-8931-90f15001b62e.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Anna Karenina societal pressure cancel culture social media judgment perfectionism culture modern parallels"
+  },
+  "tool_response": {
+    "query": "Anna Karenina societal pressure cancel culture social media judgment perfectionism culture modern parallels",
+    "results": [
+      "I'll search for information about the parallels between Anna Karenina's themes of societal pressure and judgment with modern cancel culture and social media perfectionism.",
+      {
+        "tool_use_id": "srvtoolu_01YXQDVt9w6iB4XyRtbJDiHp",
+        "content": [
+          {
+            "title": "Perfectionism Is Increasing Over Time",
+            "url": "https://www.apa.org/pubs/journals/releases/bul-bul0000138.pdf"
+          },
+          {
+            "title": "Social class implications on individual happiness in Anna Karenina - Free Essay Example - Edubirdie",
+            "url": "https://hub.edubirdie.com/examples/anna-karenina-by-leo-tolstoy-implications-of-social-class-on-the-life-and-happiness-of-an-individual/"
+          },
+          {
+            "title": "Society and Class Theme in Anna Karenina | LitCharts",
+            "url": "https://www.litcharts.com/lit/anna-karenina/themes/society-and-class"
+          },
+          {
+            "title": "View of Society's Role in Tolstoy's Anna Karenina | Global Insight: A Journal of Critical Human Science and Culture",
+            "url": "https://globalinsight.journal.library.uta.edu/index.php/globalinsight/article/view/18/4"
+          },
+          {
+            "title": "Marriage and Modernity in Anna Karenina - VoegelinView",
+            "url": "https://voegelinview.com/marriage-modernity-anna-karenina/"
+          },
+          {
+            "title": "Anna Karenina: Themes | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/anna/themes/"
+          },
+          {
+            "title": "Leo Tolstoy\u2019s Anna Karenina: Feminist Triumph or Tragic Misogyny? | by Soufiane L | Medium",
+            "url": "https://medium.com/@soufiane.L/leo-tolstoys-anna-karenina-feminist-triumph-or-tragic-misogyny-c421bd9040c4"
+          },
+          {
+            "title": "Anna Karenina Revisited | The Illustrated Empathy Gap",
+            "url": "http://empathygap.uk/?p=3051"
+          },
+          {
+            "title": "How Social Media Amplifies Our Need to Live up To Cultural Models of Perfection | by Srinivas Rao | Mission.org | Medium",
+            "url": "https://medium.com/the-mission/how-social-media-amplifies-our-need-to-live-up-to-cultural-models-of-perfection-6504697880fe"
+          },
+          {
+            "title": "Anna Karenina By Leo Tolstoy \u2013 Book Club Questions For A Timeless Classic - Book Club Babble",
+            "url": "https://www.bookclubbabble.com/anna-karenina-by-leo-tolstoy-book-club-questions-for-a-timeless-classic/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide insights into the parallels between Anna Karenina's themes of societal pressure and judgment with modern cancel culture and social media perfectionism:\n\n## Key Parallels Between Anna Karenina and Modern Social Media Culture\n\n### Social Judgment and Public Shaming\n\nThings considered \"normal\" by society turn into a way of life, and those who do not accept these rules often find themselves lost, excluded, and even abandoned by their peers. This immense pressure can affect a person's thoughts and actions tremendously as they feel forced to act with the societal norms. Although the beauty and grace of Anna seem to place her above her detesting society, her peers' skewed judgments and sexist expectations influence nearly every aspect of her life, ultimately leading to the loss of her social standing and the demise of her affair with Vronsky.\n\nThis mirrors modern cancel culture, where the novel's discussions on societal judgment and ostracization align with the cancel culture prevalent in today's social media-driven society, similar to Anna's social exclusion.\n\n### The Opera Scene as Social Media\n\nAfter running off with Vronsky, Anna becomes a social outcast. It is not a condition which someone of her nature will tolerate with equanimity. She attempts to attend the opera, despite Vronsky's desperate appeal to her not to do so. The opera, you will understand, is not so much a performance by those on stage as a performance by those in the audience. It is a society event in which who is seen with whom, and who says what to whom, is of central importance. It is not a place for a social pariah. Punishment for the audacity of such a pariah in attending is inevitable.\n\nThe opera functions much like social media platforms today - a performative space where social status is displayed and judged publicly.\n\n### Perfectionism and Social Pressure\n\nWe're living in an age of perfectionism, and perfection is the ideal that kills. Whether it's social media or pressure to be the impossibly 'perfect' twenty-first century iterations of ourselves, or pressure to have the perfect body or pressure to be successful in our careers, or any other myriad ways in which we place overly high expectations on ourselves and other people, we're creating a psychological environment that's toxic. \u2014 Will Storr, Selfie: How We Became So Self Obsessed and What it's Doing to Us \u00b7 By creating a social hierarchy, it becomes easy to reinforce cultural models of perfection.\n\n### Social Reputation and Public Opinion\n\nThe assets and substance of her character do not seem to influence Anna's position in society as her peers are willing to alter their view of her when the opportunity presents itself (Roberts). Social Reputations are ?? ?? concepts that rely mainly on the way society views an individual rather than the personality and behavior of an individual.(no content)\"from the start, Anna and her brother Stiva Oblonsky are associated with a tendency to let the outer world mold them in a way which prohibits the inner life from flowing into consciousness and becoming their main motivator\" (Mefi). These two characters are greatly influenced by their societies. Instead of living for their own desires, their actions are primarily shaped by the people around them.\n\n### The Performative Nature of Social Life\n\nIn Anna Karenina, Tolstoy also exposes what he saw as the artifice and vanity of 19th century Russian aristocratic society. The urban world is full of scandal and deception, gossip and rumor. Events in the city are treated on the basis of their societal repercussions. For example, Anna's adultery is treated primarily as a social sin, not a religious one, and its repercussions are weighted in the matrix of how it will play out in society rather than the personal, individual ramifications.\n\n### Modern Relevance\n\nHow do the societal pressures faced by Anna and Levin mirror the contemporary expectations placed on individuals in relationships and careers? In what ways does the pursuit of personal happiness intersect with societal norms today, paralleling the struggles faced by Anna and Levin?\n\nThe novel's exploration of how societal judgment shapes individual choices remains deeply relevant in our digital age, where We live in a world where everybody's achievements are on public display. This parade of accomplishments amplifies our need to live up to a cultural model of perfection, leading to many toxic byproducts.\n\nThese parallels show how Tolstoy's 19th-century exploration of social pressure, public judgment, and the tyranny of reputation anticipated many of the psychological challenges we face in the age of social media and cancel culture."
+    ],
+    "durationSeconds": 50.06388123699976
+  }
+}

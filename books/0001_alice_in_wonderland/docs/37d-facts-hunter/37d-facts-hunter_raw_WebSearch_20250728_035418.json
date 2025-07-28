@@ -1,0 +1,63 @@
+{
+  "session_id": "ac25dab5-19ee-43b4-8689-cf24d65d211d",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ac25dab5-19ee-43b4-8689-cf24d65d211d.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Alice in Wonderland\" drug references opium psychedelic mushroom Victorian medicine laudanum"
+  },
+  "tool_response": {
+    "query": "\"Alice in Wonderland\" drug references opium psychedelic mushroom Victorian medicine laudanum",
+    "results": [
+      "I'll search for information about drug references in \"Alice in Wonderland\" and their connections to Victorian-era substances.",
+      {
+        "tool_use_id": "srvtoolu_01D85oTSfes4XgQPT69Q53Bq",
+        "content": [
+          {
+            "title": "Fact Or Fiction? The Links Between Alice In Wonderland And Psychedelics",
+            "url": "https://www.zamnesia.com/us/blog-is-alice-in-wonderland-inspired-by-psychedelics-n1538"
+          },
+          {
+            "title": "lewis carroll - Is Alice in Wonderland about drugs? - Literature Stack Exchange",
+            "url": "https://literature.stackexchange.com/questions/1069/is-alice-in-wonderland-about-drugs"
+          },
+          {
+            "title": "Psychedelic Interpretations",
+            "url": "https://www.carleton.edu/departments/ENGL/Alice/CritPsyched1.html"
+          },
+          {
+            "title": "Lewis Carroll Was Not on Drugs, and Other Surprising Facts About <i>Alice in Wonderland</i>",
+            "url": "https://www.huffpost.com/entry/lewis-carroll-was-not-on_b_7743846"
+          },
+          {
+            "title": "The Truth Behind Alice in Wonderland and Lewis Carroll",
+            "url": "https://fable.co/blog/the-truth-behind-alice-in-wonderland-and-lewis-carroll"
+          },
+          {
+            "title": "Drug influences in the books - Alice-in-Wonderland.net",
+            "url": "https://www.alice-in-wonderland.net/resources/analysis/interpretive-essays/drug-influences-in-the-books/"
+          },
+          {
+            "title": "Ter Horst: 'Alice in Wonderland': imaginitive or drug-induced?",
+            "url": "https://thelinfieldreview.com/4515/the-rest/alice-in-wonderland-imaginitive-or-drug-induced/"
+          },
+          {
+            "title": "Was Lewis Carroll On Drugs When He Wrote Alice In Wonderland? | Yestervid",
+            "url": "https://yestervid.com/was-lewis-carroll-on-drugs-when-he-wrote-alice-in-wonderland/"
+          },
+          {
+            "title": "Digication ePortfolio :: HON 103 Final- Devan Eager :: The Use of Drugs in Alice in Wonderland",
+            "url": "https://depaul.digication.com/hon_103_final_devan_eager/The_Use_of_Drugs_in_Alice_in_Wonderland"
+          },
+          {
+            "title": "Psychedelic Drugs: How much drug use was involved in the making of Alice in Wonderland? - Quora",
+            "url": "https://www.quora.com/Psychedelic-Drugs-How-much-drug-use-was-involved-in-the-making-of-Alice-in-Wonderland"
+          }
+        ]
+      },
+      "Based on the search results, here's what we know about drug references and connections to \"Alice in Wonderland\":\n\n## The Victorian Context\n\nIn the Victorian era there were no drug laws like we know them now. Opium, cocaine, and laudanum (a painkiller that contained opium) were used for medicinal purposes, and could be obtained from a pharmacist. Naturalists of the nineteenth century had in fact discovered the psychedelic properties of certain mushrooms and of course opium-use was at its greatest in England during the nineteenth century.\n\n## Lewis Carroll's Personal Drug Use\n\nThe evidence strongly suggests that Lewis Carroll (Charles Dodgson) was not under the influence of drugs when writing Alice in Wonderland:\n\n- There was no mention whatsoever of him using psychedelics, nor was there evidence that hallucinogens inspired any part of Alice's adventures\n- We know that he occasionally enjoyed a glass of sherry and may have taken opiate-infused drug Laudanum (which was readily available to everyone in the 1860s). Other than that, there's nothing connecting Alice and drugs\n- No evidence has ever been found that linked Carroll to recreational drug use. Even in his extensive diaries, Carroll has never made any reference to the use of drugs\n- Even after much searching, there really is no evidence that Carroll ever used hallucinogenic drugs\n\n## Drug-Related Elements in the Story\n\nDespite Carroll's personal sobriety, the story does contain elements that readers have interpreted as drug references:\n\n- There is however one part in the book that may describe the use of drugs: the hookah smoking Caterpillar who advises Alice to eat from the mushroom\n- The story has Alice eating 'magic' mushrooms and meeting hookah smoking caterpillars\n- The use of organic substances (mushrooms, drinks) to alter reality\n\n## The Psychedelic Interpretation\n\nThe drug interpretation of Alice in Wonderland largely emerged in the 1960s and 1970s:\n\n- Jefferson Airplane's \"White Rabbit.\" The lyrics, written by Grace Slick, include a lot of Alice imagery, as well as some not-so-subtle drug references, which nevertheless were subtle enough to make it past the radio censors in 1967. The song was enormously popular and inspired many other artists to explore the connection between Alice and recreational drug use, until Alice was essentially the mascot of '60s and '70s drug culture\n- The association of drugs with Alice is so established that alice is now a slang term for LSD\n- When Disney re-released the 1951 version of Alice in Wonderland in 1974, they embraced the psychedelic interpretation as a marketing strategy, encouraging viewers to \"Go Ask Alice\"\n\n## Important Notes on Anachronisms\n\nSeveral drugs commonly associated with the story weren't even available during Carroll's time:\n\n- The idea of Dodgson writing the book while on cocaine, however, is impossible because the drug was not established and used until the mid 1880's as a replacement for chloroform in surgeries\n- LSD, with some people suggesting Alice was on a drug-induced 'trip'.This is not the case because the compound now know was LSD was not found to produce hallucinations by Albert Hoffman until 1943, long after the book was published\n\n## Scholarly Consensus\n\nMost experts agree that while the tale is weird, it is simply excellent fanciful writing and there is no evidence to suggest Carroll was a drug user. Shortly before writing Alice in Wonderland he read a drug survey titled The Seven Sisters of Sleep that contains an excessively detailed description of the effects of Siberian fly agaric, or hallucinogenic mushrooms. This essential information confirms that he was not likely a drug user, but simply interested in the subject of mushrooms and their effects on the brain.\n\nThe drug interpretation of Alice in Wonderland appears to be a retrospective reading influenced by 1960s counterculture rather than an intentional theme by Carroll himself."
+    ],
+    "durationSeconds": 44.43542578300007
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "session_id": "da699f68-c845-42d0-95b0-1424cb01e40c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/da699f68-c845-42d0-95b0-1424cb01e40c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"mad hatter\" \"unbirthday\" internet slang meme tea party Gen Z 2024"
+  },
+  "tool_response": {
+    "query": "\"mad hatter\" \"unbirthday\" internet slang meme tea party Gen Z 2024",
+    "results": [
+      "I'll search for information about the \"mad hatter\" and \"unbirthday\" as internet slang, memes, and their connection to tea party culture among Gen Z in 2024.",
+      {
+        "tool_use_id": "srvtoolu_01G7UXCybKMLbQmAjPRDD31U",
+        "content": [
+          {
+            "title": "Unbirthday - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Unbirthday"
+          },
+          {
+            "title": "The Unbirthday Song | Disney Wiki | Fandom",
+            "url": "https://disney.fandom.com/wiki/The_Unbirthday_Song"
+          },
+          {
+            "title": "History of Disney\u2019s Mad Tea Party - DisDaily",
+            "url": "https://www.disdaily.com/history-of-disneys-mad-tea-party/"
+          },
+          {
+            "title": "Mad Hatter Unbirthday GIFs | Tenor",
+            "url": "https://tenor.com/search/mad-hatter-unbirthday-gifs"
+          },
+          {
+            "title": "Mad Hatter's Unbirthday Tea Party - Jolly & Happy",
+            "url": "https://jollyandhappy.com/mad-hatters-unbirthday-tea-party/"
+          },
+          {
+            "title": "Unbirthday | Wonderland Wiki | Fandom",
+            "url": "https://wonderland.fandom.com/wiki/Unbirthday"
+          },
+          {
+            "title": "9 SURPRISINGLY WISE MAD HATTER QUOTES \u2013 The Wonderful World of Animation",
+            "url": "https://www.thewonderfulworldofanimation.com/blogs/magical-memories-blog/9-surprisingly-wise-mad-hatter-quotes"
+          },
+          {
+            "title": "How To Throw Your Own Unbirthday Party: Tips and Activities - Frog Mom",
+            "url": "https://frogmom.com/unbirthday-party/"
+          },
+          {
+            "title": "Sacgeeks Unbirthday Party: A Mad Hatter Tea Party Tickets, Sat, Apr 12, 2025 at 5:00 PM | Eventbrite",
+            "url": "https://www.eventbrite.com/e/sacgeeks-unbirthday-party-a-mad-hatter-tea-party-tickets-1220207215629"
+          },
+          {
+            "title": "Alice in Wonderland Mad Hatter Tea Party Unbirthday Cake | InLiterature",
+            "url": "https://www.inliterature.net/by-book/alice-in-wonderland/2012/05/alice-in-wonderland-mad-hatter-tea-party-unbirthday-cake.html"
+          }
+        ]
+      },
+      "Based on my search results, I found limited information about \"mad hatter\" and \"unbirthday\" as internet slang or memes specifically related to Gen Z in 2024. The search results primarily show historical and cultural information about these concepts from Alice in Wonderland. Let me search for more recent internet culture references.",
+      {
+        "tool_use_id": "srvtoolu_012zxFPv3pf67YHGCot2CztT",
+        "content": [
+          {
+            "title": "Like: It\u2019s an unbirthday party and there is absolutely NO room for you at this entirely empty table. Mad Hatter is BRUTAL! \ud83e\udd2d\ud83c\udfa9\ud83d\udda4\ud83e\udee0\ud83d\udc30 #disneykids #millennialsoftiktok #theaterkidscheck #unbirthdayparty #fyp  | TikTok",
+            "url": "https://www.tiktok.com/@andimariere/video/7148417258480520494?lang=en"
+          },
+          {
+            "title": "Mad Hatter Unbirthday GIFs | Tenor",
+            "url": "https://tenor.com/search/mad-hatter-unbirthday-gifs"
+          },
+          {
+            "title": "Unbirthday Tea Party with the Mad Hatter  #disneyland #madhatter #teaparty #unbirthday  | TikTok",
+            "url": "https://www.tiktok.com/@adventureswithtulio/video/7400041202411703595"
+          },
+          {
+            "title": "Unbirthday - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Unbirthday"
+          },
+          {
+            "title": "A Very Merry Unbirthday to you! Unless it really is your birthday, in which case\u2026 \ud83e\udd73  | TikTok",
+            "url": "https://www.tiktok.com/@peculiarlyashley/video/7439718036875054379"
+          },
+          {
+            "title": "Gen Z Memes | TikTok",
+            "url": "https://www.tiktok.com/channel/gen-z-memes?lang=en"
+          },
+          {
+            "title": "Alice and the Mad Hatter sang us a duet of the Unbirthday Song \ud83e\udd70\ud83c\udfb6 #madhatter #themadhatter #alice #aliceinwonderland #disneyland #disneyparks #dlr #fantasyland #disneycharacters #distok  | TikTok",
+            "url": "https://www.tiktok.com/@happywith.hannah/video/7194924253098151211"
+          },
+          {
+            "title": "Every Meme of the year since Gen Z began\u2026 an update to an old recap fave! #Recap #GenZ #popculture #2024  | TikTok",
+            "url": "https://www.tiktok.com/@mrgrandeofficial/video/7425412484296756523"
+          },
+          {
+            "title": "TikTok - Make Your Day",
+            "url": "https://www.tiktok.com/tag/madhatter?lang=en"
+          },
+          {
+            "title": "a very happy unbirthday to you, to me? - Disney Mad Hatter - Meme Generator",
+            "url": "https://memegenerator.net/instance/51842231/disney-mad-hatter-a-very-happy-unbirthday-to-you-to-me"
+          }
+        ]
+      },
+      "Let me search for more specific internet slang usage.",
+      {
+        "tool_use_id": "srvtoolu_01JQrXEX2sejX1nPNWYAkLoi",
+        "content": [
+          {
+            "title": "Urban Dictionary: unbirthday",
+            "url": "https://www.urbandictionary.com/define.php?term=unbirthday"
+          },
+          {
+            "title": "unbirthday - Wiktionary, the free dictionary",
+            "url": "https://en.wiktionary.org/wiki/unbirthday"
+          },
+          {
+            "title": "UNBIRTHDAY Definition & Meaning | Dictionary.com",
+            "url": "https://www.dictionary.com/browse/unbirthday"
+          },
+          {
+            "title": "UNBIRTHDAY definition in American English | Collins English Dictionary",
+            "url": "https://www.collinsdictionary.com/us/dictionary/english/unbirthday"
+          },
+          {
+            "title": "Unbirthday - Etymology, Origin & Meaning",
+            "url": "https://www.etymonline.com/word/unbirthday"
+          },
+          {
+            "title": "UNBIRTHDAY - Definition & Meaning - Reverso English Dictionary",
+            "url": "https://dictionary.reverso.net/english-definition/unbirthday"
+          },
+          {
+            "title": "Unbirthday - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Unbirthday"
+          },
+          {
+            "title": "Unbirthday Meaning",
+            "url": "https://www.tiktok.com/discover/unbirthday-meaning"
+          },
+          {
+            "title": "Meaning of \"unbirthday\" in the English dictionary",
+            "url": "https://educalingo.com/en/dic-en/unbirthday"
+          },
+          {
+            "title": "What is the difference between 'happy unbirthday' and 'happy birthday'? - Quora",
+            "url": "https://www.quora.com/What-is-the-difference-between-happy-unbirthday-and-happy-birthday"
+          }
+        ]
+      },
+      "Based on my search results, I can provide information about \"mad hatter\" and \"unbirthday\" as they relate to internet culture, though I found limited evidence of these being specifically Gen Z slang or memes in 2024:\n\n## Mad Hatter and Unbirthday in Internet Culture\n\n### Origins\n\"Unbirthday\" is a neologism which first appeared in Lewis Carroll's 1871 novel Through the Looking-Glass.(no content)In the Disney animated film Alice in Wonderland, Alice stumbles upon the Mad Hatter, the March Hare and the Dormouse having an unbirthday party and singing \"The Unbirthday Song\".\n\n### Traditional Meaning\nAn unbirthday is an event celebrated on all days of the year which are not a person's birthday.(no content)Statistics prove that you have one birthday, just one birthday every year. But there are three hundred and sixty-four unbirthdays. And this is a reason to gather and cheer.\n\n### Modern Usage\nWhile I found references to unbirthday content on TikTok, with mad hatter having 945.6M views on the platform, the search results don't reveal specific Gen Z slang meanings or 2024 meme trends.\n\n### Current Applications\nAn unbirthday party is a fun excuse to celebrate Alice in Wonderland with a silly outdoor tea party, games, activities, and Mad Hatter hats.(no content)Can also be utilized for no damn reason except to celebrate.(no content)In modern usage, some people also use \"unbirthday\" to refer to getting gifts when it's someone else's birthday, and acknowledging the date of your birth but refusing to acknowledge that you have aged.\n\nThe search results show that while Mad Hatter and unbirthday content exists on platforms like TikTok with GIFs and videos, there's no clear evidence of these terms becoming specific Gen Z internet slang or memes in 2024. They appear to maintain their traditional Alice in Wonderland associations rather than evolving into new internet slang meanings."
+    ],
+    "durationSeconds": 37.023057426000015
+  }
+}

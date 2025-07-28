@@ -1,0 +1,63 @@
+{
+  "session_id": "7ca65eb2-e5d0-4143-8931-90f15001b62e",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7ca65eb2-e5d0-4143-8931-90f15001b62e.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Anna Karenina TikTok hashtag views viral trends BookTok challenge"
+  },
+  "tool_response": {
+    "query": "Anna Karenina TikTok hashtag views viral trends BookTok challenge",
+    "results": [
+      "I'll search for information about Anna Karenina TikTok trends and BookTok challenges.",
+      {
+        "tool_use_id": "srvtoolu_013x9S4Qr8vq71TEs23ARRkc",
+        "content": [
+          {
+            "title": "TikTok - Make Your Day",
+            "url": "https://www.tiktok.com/tag/BookTok"
+          },
+          {
+            "title": "Anna Karenina",
+            "url": "https://www.tiktok.com/discover/anna-karenina"
+          },
+          {
+            "title": "Booktok Challenge",
+            "url": "https://www.tiktok.com/discover/booktok-challenge?lang=en"
+          },
+          {
+            "title": "BookTok For Authors: Complete TikTok Guide For Literary Success",
+            "url": "https://www.learningrevolution.net/booktok-tiktok-for-authors/"
+          },
+          {
+            "title": "The Most Popular TikTok Books #BookTok | Barnes & Noble\u00ae",
+            "url": "https://www.barnesandnoble.com/b/booktok/_/N-2vdn"
+          },
+          {
+            "title": "Anna Karenina \u2728 #booktok #book #books #bookworm #reader #annakarenina #bookish #booker #booknerd #literature #fyp #tolstoy | TikTok",
+            "url": "https://www.tiktok.com/@alifeofliterature/video/6942946655503142149?lang=en"
+          },
+          {
+            "title": "Anna Karenina Review",
+            "url": "https://www.tiktok.com/discover/anna-karenina-review?lang=en"
+          },
+          {
+            "title": "21 Popular BookTok Books And Why They Went Viral On TikTok",
+            "url": "https://www.today.com/popculture/books/booktok-tiktok-books-list-rcna70986"
+          },
+          {
+            "title": "Top BookTok Accounts on TikTok - IZEA Worldwide, Inc",
+            "url": "https://izea.com/resources/booktok-accounts-tiktok/"
+          },
+          {
+            "title": "What Is BookTok? Meaning, Origin & Why It Matters in 2025",
+            "url": "https://www.socialpilot.co/social-media-terms/what-is-booktok"
+          }
+        ]
+      },
+      "Based on the search results, here's what I found about Anna Karenina and TikTok/BookTok trends:\n\n## BookTok Overview\n\nBookTok has garnered more than 200 billion views on TikTok, with the hashtag #booktok amassing over 112 billion views according to different sources. BookTok is a powerful force within the publishing industry with BookTok darlings tending to fly off the shelves.\n\n## Anna Karenina on TikTok\n\nWhile the search results show that Anna Karenina content exists on TikTok (with dedicated hashtags and videos), specific view counts for Anna Karenina hashtags weren't provided in the results. The search found evidence of Anna Karenina-related content, including a TikTok video from A Life of Literature about Anna Karenina using hashtags like #booktok, #annakarenina, #bookish, #literature, and #tolstoy.\n\n## BookTok Challenges and Trends\n\nSince TikTok's algorithm favors current trends, taking part in trending BookTok challenges or using viral audio can help enhance video discoverability. Common BookTok content includes:\n\n- Book recommendations and reviews\n- \"Sneak peeks and teasers\" from novels, with authors sharing glimpses of plots using trending sounds and relevant hashtags, which can go viral\n- Behind-the-scenes glimpses into the writing process, using trending sounds and the #booktok hashtag to reach the right audience\n- Lists like \"books that will make you sob\" or \"books I couldn't put down\"\n\n## Impact on Book Sales\n\nBookTok has been credited for helping authors sell over 20 million books in 2021, according to NPD BookScan data. The popularity of BookTok has led to an overall growth of 9% in the US print book market.\n\nWhile specific data about Anna Karenina's viral metrics wasn't available in these search results, the classic novel does have a presence on BookTok alongside contemporary titles that have gone viral on the platform."
+    ],
+    "durationSeconds": 24.146690057000146
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "session_id": "bb5bd92f-2e06-46b2-9b84-f65c0578b080",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/bb5bd92f-2e06-46b2-9b84-f65c0578b080.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Ma\u0142y Ksi\u0105\u017c\u0119 Polish cultural interpretation youth meaning Poland symbolism analysis"
+  },
+  "tool_response": {
+    "query": "Ma\u0142y Ksi\u0105\u017c\u0119 Polish cultural interpretation youth meaning Poland symbolism analysis",
+    "results": [
+      "I'll search for information about the cultural interpretation and symbolism of \"Ma\u0142y Ksi\u0105\u017c\u0119\" (The Little Prince) in Polish culture, particularly focusing on its meaning for youth in Poland.",
+      {
+        "tool_use_id": "srvtoolu_01B7jPzZR3UhVf7KRKpjXTYX",
+        "content": [
+          {
+            "title": "Being Poland: A New History of Polish Literature and Culture since 1918 9781442622517 - DOKUMEN.PUB",
+            "url": "https://dokumen.pub/being-poland-a-new-history-of-polish-literature-and-culture-since-1918-9781442622517.html"
+          },
+          {
+            "title": "Polish Cultural Development and Contributions \u2013 Polish Americans and Their Communities of Cleveland",
+            "url": "https://pressbooks.ulib.csuohio.edu/polish-americans-and-their-communities-of-cleveland/chapter/polish-cultural-development-and-contributions/"
+          },
+          {
+            "title": "Exploring The Symbolism And Meanings Of Polish Cultural Icons | ShunSpirit",
+            "url": "https://shunspirit.com/article/poland-symbols-and-meanings"
+          },
+          {
+            "title": "PWAA: Polish Traditions - FCSLA Life",
+            "url": "https://www.fcsla.com/fraternal-department/district-pages/pwaa-polish-traditions/"
+          },
+          {
+            "title": "Culture of Poland - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Culture_of_Poland"
+          },
+          {
+            "title": "Traditions and Symbols of Polish Culture",
+            "url": "https://polishculture-nyc.org/traditions-and-symbols-of-polish-culture/"
+          },
+          {
+            "title": "Young Poland - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Young_Poland"
+          },
+          {
+            "title": "Home - Polish History and Culture - Research Guides at UCLA Library",
+            "url": "https://guides.library.ucla.edu/c.php?g=1008536"
+          },
+          {
+            "title": "Being Poland: A New History of Polish Literature and Culture since 1918 on JSTOR",
+            "url": "https://www.jstor.org/stable/10.3138/j.ctv80cc4d"
+          },
+          {
+            "title": "National symbols of Poland - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/National_symbols_of_Poland"
+          }
+        ]
+      },
+      "Based on my search results, I found some interesting information about Polish cultural interpretation and symbolism, though I didn't find specific references to \"Ma\u0142y Ksi\u0105\u017c\u0119\" (The Little Prince) in Polish cultural context. Let me provide you with what I found about Polish cultural symbolism and youth-related themes:\n\n## Polish Cultural Symbolism and Youth\n\nPoland is a country rich in history and traditions, with a plethora of symbols that carry deep meanings and significance. From its national emblem of the White Eagle to its coat of arms and national flag, each symbol represents the resilience, pride, and unity of the Polish people. These symbols have been passed down through generations, serving as a reminder of Poland's vibrant culture and unwavering spirit.\n\n### Key Polish National Symbols\n\nA crowned white-tailed eagle on a red shield or background has been Poland's national symbol and coat of arms since the Middle Ages. Other unofficial symbols feature visual personifications, music of Chopin, polonaise and mazurka dances, animals such as the European bison or the white stork, apples, red poppy flowers and religious insignia of the Roman Catholic church.\n\n### Polish Literature and Cultural Identity\n\nPolish culture is more than a collection of modes of expression in the arts or folkways. It is a symbol of life and the self-expression of a nation which refused to die. An excellent place to search for clues into this national character is Polish literature which both reflected and influenced the life of the nation. Literature became a vehicle for dramatic change.\n\n### Youth and Cultural Celebration\n\nOther commemorative days include: Children's Day, June 1; Independence Day, July 22; a day to honor youth, November 10; student's day, November 17; railroad workers, September 11; and teachers, September 1. This shows that Poland has specific days dedicated to celebrating and honoring youth, indicating their important place in Polish society.\n\n### Polish Folklore and Values\n\nPolish folklore is more than just old stories and legends; it's a vital part of Poland's cultural heritage. It includes myths, folk tales, dances, songs, and rituals that tell us a lot about Poland's history, values, and community spirit. These elements of folklore are like a window into the cultural soul of Poland, showing us how past generations thought, felt, and lived. For example, Polish folk tales often feature themes of bravery and resilience, reflecting the nation's history of overcoming adversity.\n\n### Young Poland Movement\n\nYoung Poland promoted trends of decadence, neo-romanticism, symbolism, Impressionism. Polish literature of the period was based on two main concepts. The earlier was a typically modernist disillusionment with the bourgeoisie, its life style and its culture. Artists following this concept also believed in decadence, an end of all culture, conflict between humans and their civilization, and the concept of art as the highest value (art for art's sake).\n\nWhile I didn't find specific information about \"Ma\u0142y Ksi\u0105\u017c\u0119\" (The Little Prince) and its cultural interpretation in Poland, the search results reveal that Polish culture places great emphasis on symbolism, resilience, and the transmission of values through literature and folklore. The Polish literary tradition, with its focus on themes of bravery, resilience, and national identity, would likely provide an interesting lens through which to interpret The Little Prince's themes of innocence, wisdom, and the critique of adult society."
+    ],
+    "durationSeconds": 36.46100559000019
+  }
+}

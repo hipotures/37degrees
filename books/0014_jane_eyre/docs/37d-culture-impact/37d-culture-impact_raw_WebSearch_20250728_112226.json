@@ -1,0 +1,63 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Jane Eyre Broadway musical theater adaptations opera West End productions"
+  },
+  "tool_response": {
+    "query": "Jane Eyre Broadway musical theater adaptations opera West End productions",
+    "results": [
+      "I'll search for information about Jane Eyre adaptations in musical theater, opera, and stage productions.",
+      {
+        "tool_use_id": "srvtoolu_01GwjisPtYMsqtQPgfjD7HaR",
+        "content": [
+          {
+            "title": "Jane Eyre (musical) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Jane_Eyre_(musical)"
+          },
+          {
+            "title": "Adaptations of Jane Eyre - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Adaptations_of_Jane_Eyre"
+          },
+          {
+            "title": "Jane Eyre | Music Theatre International",
+            "url": "https://www.mtishows.com/jane-eyre"
+          },
+          {
+            "title": "Jane Eyre: The Musical , a CurtainUp BroadwayMusical review",
+            "url": "http://www.curtainup.com/janeeyreny.html"
+          },
+          {
+            "title": "Jane Eyre - 2017 West End Musical: Tickets & Info | Broadway World",
+            "url": "https://www.broadwayworld.com/shows/Jane-Eyre-332318.html"
+          },
+          {
+            "title": "Jane Eyre \u2013 Broadway Musical \u2013 Original | IBDB",
+            "url": "https://www.ibdb.com/broadway-production/jane-eyre-12568"
+          },
+          {
+            "title": "Jane Eyre - Theatrical Rights Worldwide",
+            "url": "https://www.theatricalrights.com/show/jane-eyre/"
+          },
+          {
+            "title": "Musical Theatre : 'Jane Eyre' adapted by Jay Richards",
+            "url": "https://shop.stagescripts.com/categories/musicals/musicals-fully-developed/drama-classic-or-costume/jane-eyre.html"
+          },
+          {
+            "title": "Jane Eyre (Broadway, Brooks Atkinson Theatre, 2000) | Playbill",
+            "url": "https://playbill.com/production/jane-eyre-brooks-atkinson-theatre-vault-0000007994"
+          },
+          {
+            "title": "Royal Academy of Music \u2013 Jane Eyre | Musical Theatre Review",
+            "url": "https://musicaltheatrereview.com/royal-academy-of-music-jane-eyre/"
+          }
+        ]
+      },
+      "Based on my search results, here's a comprehensive overview of Jane Eyre adaptations in musical theater, opera, and stage productions:\n\n## Broadway Musical (2000-2001)\n\nJane Eyre is a musical drama with music and lyrics by composer-lyricist Paul Gordon and a book by John Caird, based on the 1847 novel by Charlotte Bront\u00eb. The musical premiered on Broadway in 2000.(no content)The musical debuted on Broadway at the Brooks Atkinson Theatre on November 9, 2000, with an official opening on December 10, 2000 and closed on June 10, 2001 after 36 previews and 209 performances.(no content)Marla Schaffel, who played the title character, won a Drama Desk Award and the Outer Critics Circle Award (in a tie with Christine Ebersole) for her performance.(no content)Nominated for five Tony Awards, Jane Eyre explores religion, sexuality and protofeminism, all while enchanting audiences with a timeless love story.\n\n## Opera Adaptations\n\nSeveral opera versions have been created:\n\n1. Jane Eyre, an opera in three acts, Op. 134, was composed by John Joubert in 1987\u20131997 to a libretto by Kenneth Birkin after the novel.(no content)The world premiere of a revised version took place at Ruddock Performing Arts Centre in Birmingham (England) on 25 October 2016, with April Fredrick (soprano) as Jane and David Stout (baritone) as Rochester.\n\n2. Jane Eyre, an opera based on the novel, was written in 2000 by English composer Michael Berkeley, with a libretto by David Malouf. It was given its premiere by Music Theatre Wales at the Cheltenham Festival.\n\n## West End and UK Productions\n\nThe classic story of the trailblazing Jane is as inspiring as ever. This bold and dynamic production uncovers one woman's fight for freedom and fulfilment on her own terms. Jane Eyre's spirited heroine faces life's obstacles head-on, surviving poverty, injustice and the discovery of bitter betrayal before taking the ultimate decision to follow her heart. This production ran at the West End from September 26 to October 21, 2017.\n\nA new stage adaptation directed by Sally Cookson was devised by the company at the Bristol Old Vic as two-parts. The production opened as a one-part play in the Lyttleton Theatre at the National Theatre, London (in a co-production with Bristol Old Vic) in 2015 before touring to Bristol Old Vic, Nottingham Theatre Royal, Hong Kong Arts Festival and touring the rest of the UK in 2017, ending with another run at the National Theatre.\n\n## Other Notable Productions\n\n1. Jane Eyre, a drama in three acts and five scenes adapted by Huntington Hartford and performed at the Belasco Theatre on Broadway (1 May 1958 \u2013 14 Jun 1958), starring Eric Portman as Mr. Rochester.\n\n2. Years later in 2018, it was announced a new version of the musical would have its world premiere at Cleveland Musical Theatre, directed by Miles Sternfeld. The new production would feature a 10-person cast, instead of the original 21, as well as new songs written by Gordon.\n\n3. Charlotte Bront\u00eb's Jane Eyre, adapted by Polly Teale. Company - Shared Experience performed at the Trafalgar Studios. (2006)\n\n4. Jane Eyre was performed by the Royal Academy of Music's Musical Theatre Company at the Susie Sainsbury Theatre, London.\n\nThe story has proven to be enduringly popular for theatrical adaptation, with multiple versions created for different formats including traditional plays, musicals, operas, and ballet productions across both Broadway and the West End."
+    ],
+    "durationSeconds": 39.81598374499986
+  }
+}

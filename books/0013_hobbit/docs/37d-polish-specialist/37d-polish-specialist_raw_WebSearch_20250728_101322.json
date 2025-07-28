@@ -1,0 +1,63 @@
+{
+  "session_id": "fbc680e7-1eb0-4e03-89a6-2cdd410f922d",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/fbc680e7-1eb0-4e03-89a6-2cdd410f922d.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Hobbit\" Tolkien pierwsze wydanie polskie 1960 Iskry Maria Skibniewska wydawnictwa"
+  },
+  "tool_response": {
+    "query": "\"Hobbit\" Tolkien pierwsze wydanie polskie 1960 Iskry Maria Skibniewska wydawnictwa",
+    "results": [
+      "I'll search for information about the first Polish edition of \"The Hobbit\" by Tolkien, published by Iskry in 1960 with translation by Maria Skibniewska.",
+      {
+        "tool_use_id": "srvtoolu_01HRxvyzJgenFAxZZ9yMqCek",
+        "content": [
+          {
+            "title": "Maria Skibniewska - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Maria_Skibniewska"
+          },
+          {
+            "title": "TOLKIEN- HOBBIT wyd.1 OPRAWA | Antykwariat internetowy Sobieski",
+            "url": "https://antyksobieski.pl/tolkien-hobbit-i-wyd-oprawa-15066.html"
+          },
+          {
+            "title": "TOLKIEN- HOBBIT wyd.1 z 1960 OPRAWA | Antykwariat internetowy Sobieski",
+            "url": "https://antyksobieski.pl/tolkien-hobbit-i-wyd-1960-oprawa-12930.html"
+          },
+          {
+            "title": "Hobbit, czyli tam i z powrotem (TW) \u2013 Wydawnictwo Iskry Sp. z o.o.",
+            "url": "https://iskry.com.pl/produkt/hobbit-tw/"
+          },
+          {
+            "title": "Ksi\u0105\u017cka \u201eHobbit czyli tam i z powrotem\u201d J.R.R. Tolkien, 1960 r. Polska \u2013 Antykikormoran",
+            "url": "https://antykikormoran.pl/product/ksiazka-hobbit-czyli-tam-i-z-powrotem-j-r-r-tolkien-1960-r-polska/"
+          },
+          {
+            "title": "TOLKIEN J.R.R.: Hobbit czyli tam i z powrotem. Prze\u0142o\u017cy\u0142a Maria Skibniewska. Wyd. 1. Warszawa: Iskry, 1960... - Aukcja internetowa / Licytacja online - Cena - OneBid",
+            "url": "https://onebid.pl/pl/ksiazki-i-starodruki-tolkien-j-r-r-hobbit-czyli-tam-i-z-powrotem-przelozyla-maria-skibniewska-wyd-1-warszawa-iskry-1960/1469454"
+          },
+          {
+            "title": "TOLKIEN J.R.R. Hobbit czyli tam i z powrotem I wyd. 1960r",
+            "url": "https://blackbooks.pl/fantasy/51291-tolkien-jrr-hobbit-czyli-tam-i-z-powrotem-i-wyd-1960r.html"
+          },
+          {
+            "title": "J.R.R. Tolkien \u201eHobbit, czyli tam i z powrotem\u201d \u2013 Fahrenheit",
+            "url": "https://www.fahrenheit.net.pl/ksiazki/o-ksiazkach/fantastyka/j-r-r-tolkienhobbit-czyli-powrotem/"
+          },
+          {
+            "title": "\"Hobbit\" J.R.R. Tolkiena - klasyka w sk\u00f3rze. | Antykwariat Sobieski",
+            "url": "https://antyksobieski.pl/blog/hobbit-j-r-r-tolkiena-klasyka-w-skorze"
+          },
+          {
+            "title": "Wyprawa - 1961 Czytelnik | Polskie Tolkienarium Wiki | Fandom",
+            "url": "https://polskie-tolkienarium.fandom.com/pl/wiki/Wyprawa_-_1961_Czytelnik"
+          }
+        ]
+      },
+      "Based on my search results, I found comprehensive information about the first Polish edition of \"The Hobbit\" by J.R.R. Tolkien. Here are the key details:\n\n## First Polish Edition Details:\n\nThe first Polish edition of \"The Hobbit\" was published in 1960 by Iskry Publishers (Wydawnictwo Iskry) in Warsaw.\n\nThe translation was done by Maria Skibniewska, who created the Polish word \"krasnolud\" (dwarf) to distinguish Tolkien's dwarves from fairy tale characters.\n\nThe illustrations were created by Jan M\u0142odo\u017ceniec, one of Poland's most prominent graphic artists and co-creator of the Polish poster school.\n\n## Physical Details:\n- 374 pages, [2], with 2 foldout tables\n- Format: 13x20.5 cm\n- Paperback edition with dust jacket\n\n## Historical Significance:\nThis translation is considered canonical and classic. This was the third edition of The Hobbit in the world, following the original English edition and presumably one other translation.\n\nAfter translating The Hobbit, Skibniewska signed a contract in 1958 to translate The Lord of the Rings with Czytelnik publishers, and she consulted with Tolkien himself during the translation process.\n\nThe search results also show that this first edition has become a valuable collector's item, with several antiquarian bookshops offering copies, some in luxurious leather bindings."
+    ],
+    "durationSeconds": 22.443490923000034
+  }
+}

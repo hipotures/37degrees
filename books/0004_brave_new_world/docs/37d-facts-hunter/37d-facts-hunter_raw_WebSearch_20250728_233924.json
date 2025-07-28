@@ -1,0 +1,62 @@
+{
+  "session_id": "9588e4fa-c119-4986-be3b-1d3af7769f8f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/9588e4fa-c119-4986-be3b-1d3af7769f8f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "caste system history Brave New World Alpha Beta Gamma Delta Epsilon historical parallels Indian caste Hindu varna system social stratification"
+  },
+  "tool_response": {
+    "query": "caste system history Brave New World Alpha Beta Gamma Delta Epsilon historical parallels Indian caste Hindu varna system social stratification",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01DnGeooWcxp1bQxcQSfc8AB",
+        "content": [
+          {
+            "title": "Caste system in India - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Caste_system_in_India"
+          },
+          {
+            "title": "Caste System in Ancient India - World History Encyclopedia",
+            "url": "https://www.worldhistory.org/article/1152/caste-system-in-ancient-india/"
+          },
+          {
+            "title": "Brave New World/Castes - Wikibooks, open books for an open world",
+            "url": "https://en.wikibooks.org/wiki/Brave_New_World/Castes"
+          },
+          {
+            "title": "Understanding the Caste System and Its Maintenance: Brave New World\u2019s World State and Ambedkar\u2019s Stratified Hindu Society in Annihilation of Caste | Humanistic Management Journal",
+            "url": "https://link.springer.com/article/10.1007/s41463-024-00170-2"
+          },
+          {
+            "title": "Our Caste System - Brave New World",
+            "url": "https://bnw07.weebly.com/our-caste-system.html"
+          },
+          {
+            "title": "An introduction to the basic elements of the caste system of India - PMC",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10764522/"
+          },
+          {
+            "title": "Caste | Social Stratification & Inequality | Britannica",
+            "url": "https://www.britannica.com/topic/caste-social-differentiation"
+          },
+          {
+            "title": "Caste System In Brave New World - 974 Words | Bartleby",
+            "url": "https://www.bartleby.com/essay/Caste-System-In-Brave-New-World-D4708A4094ABB3FD"
+          },
+          {
+            "title": "Caste System In Brave New World - 1314 Words | Bartleby",
+            "url": "https://www.bartleby.com/essay/Caste-System-In-Brave-New-World-F015DA971DB1AF4C"
+          },
+          {
+            "title": "Brave New World By Aldous Huxley: Social Class Division | Free Essay Example for Students",
+            "url": "https://aithor.com/essay-examples/brave-new-world-by-aldous-huxley-social-class-division"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about the caste systems in both Brave New World and the historical Hindu varna system, as well as their parallels:\n\n## Brave New World's Caste System\n\nIn Huxley's text, there are Alphas, Betas, Gammas, Deltas and Epsilons. This system is structured as follows:\n\n- **Alphas**: At the top of the caste system, perform the more intellectual jobs. Unlike the lower castes, Alphas and Betas are not clones, allowing for more individual personalities. Alphas wear gray.\n\n- **Betas**: The second level of the caste system in the World State. They are also intelligent, but not quite on the level of the higher level Alphas. Betas wear mulberry.\n\n- **Gammas**: Wear green and are less intelligent than Alphas and Betas. When Gammas are in their embryonic stage, alcohol is inserted into their surrogates and cause them to be inferior physically and mentally.\n\n- **Deltas**: Wear khakis and are less intelligent than the Alphas, Betas, and Gammas. Their jobs are more simple mentally, but more physical.\n\n- **Epsilons**: The lowest ranking class in the caste system. They wear the color black, and they complete the more simple jobs in our society. Epsilons are illiterate and have a very low intelligence level.\n\n## Hindu Varna System\n\nVarna, meaning type, order, colour, or class are a framework for grouping people into classes, first used in Vedic Indian society. The traditional four varnas are:\n\n- **Brahmins**: The priests and teachers and were born from the head of Purusha\n- **Kshatriyas**: The warriors and rulers, were born from the shoulders\n- **Vaishyas**: Or traders and merchants, were born from the thighs\n- **Shudras**: Labourers and craftspeople, were born from the feet\n\n## Historical Parallels\n\nAldous Huxley's Brave New World contains and resembles a caste system found in Hindu society. Several key parallels exist:\n\n1. **Hierarchical Structure**: Both systems create rigid social hierarchies with clearly defined roles and positions.\n\n2. **Hereditary Nature**: By the end of the Rigvedic period, however, the hereditary principle of social rank had taken root in the Hindu system, while in Brave New World, people are genetically engineered into their castes.\n\n3. **Occupational Roles**: In the Varna Vyavastha, the Brahmins would have access to education, the Kshatriyas would be responsible for administrative duties and take part in warfare, the Vaishyas would execute agricultural tasks, and the Shudras would play the role of the servants.\n\n4. **Social Control**: The caste system, as seen in Brave New World, undermines individual reason and, with the fear of excommunication, absence of meaningful relationships, and love for one's social privilege, maintains a system of graded inequality.\n\nThe main difference is that while the Hindu varna system developed organically over centuries and had some theoretical flexibility, Huxley's dystopian system uses biotechnology and conditioning to create and maintain absolute social stratification from birth."
+    ],
+    "durationSeconds": 27.447926548999966
+  }
+}

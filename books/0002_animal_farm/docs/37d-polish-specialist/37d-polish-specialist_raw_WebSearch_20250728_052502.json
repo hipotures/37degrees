@@ -1,0 +1,67 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Animal Farm\" Orwell Poland \"first Polish translation\" Teresa Jele\u0144ska 1947 emigracja Londyn"
+  },
+  "tool_response": {
+    "query": "\"Animal Farm\" Orwell Poland \"first Polish translation\" Teresa Jele\u0144ska 1947 emigracja Londyn",
+    "results": [
+      "I'll search for information about the first Polish translation of George Orwell's \"Animal Farm\" by Teresa Jele\u0144ska in 1947, published by Polish \u00e9migr\u00e9s in London.",
+      {
+        "tool_use_id": "srvtoolu_014ysGxeEErsgEYv1VC8VwSp",
+        "content": []
+      },
+      {
+        "tool_use_id": "srvtoolu_01Efqor7S2d2YE1En1mmi3aS",
+        "content": [
+          {
+            "title": "Masha Karp on the Ukrainian translation of Animal Farm",
+            "url": "https://orwellfoundation.substack.com/p/the-ukrainian-translation-of-animal-farm-excerpt-from-masha-karps-orwell-and-russia"
+          },
+          {
+            "title": "Orwell in Translation - European studies blog",
+            "url": "https://blogs.bl.uk/european/2017/11/orwell-in-translation.html"
+          },
+          {
+            "title": "Folwark zwierzecy. Przelozyla z angielskiego Teresa Jelenska. / Folwark zwierz\u0119cy. Prze\u0142o\u017cy\u0142a z angielskiego Teresa Jele\u0144ska. Animal Farm. Translated by Teresa Jele\u0144ska. | George Orwell |",
+            "url": "https://www.foldvaribooks.com/pages/books/899/george-orwell/folwark-zwierzecy-przelozyla-z-angielskiego-teresa-jelenska-folwark-zwierzecy-przelozyla-z"
+          },
+          {
+            "title": "Exporting the Animals\u2019 Revolt: Kostamorov - Reymont - Orwell - European studies blog",
+            "url": "https://blogs.bl.uk/european/2018/02/exporting-the-animals-revolt.html"
+          },
+          {
+            "title": "(PDF) Orwell and the Poles: The Case of 'Animal Farm' | Krystyna Wieszczek - Academia.edu",
+            "url": "https://www.academia.edu/38849855/Orwell_and_the_Poles_The_Case_of_Animal_Farm"
+          },
+          {
+            "title": "Folwark Zwierz\u0119cy - George Orwell's Animal Farm - Polish Edition 1947",
+            "url": "https://countryhouselibrary.co.uk/products/folwark-zwierzecy-george-orwells-animal-farm-polish-edition-1947"
+          },
+          {
+            "title": "Animal Farm - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Animal_Farm"
+          },
+          {
+            "title": "An original Polish \u2018samizdat\u2019 of Orwell\u2019s Animal Farm",
+            "url": "https://bellacaledonia.org.uk/2012/11/05/animal-farm-samizdat/"
+          },
+          {
+            "title": "Orwell George - Animal Farm. Translated from the English by Teresa Jele\u0144ska. London 1974 Renewal - Online auction / Online bidding - Price - OneBid",
+            "url": "https://one.bid/en/ksiazki-i-starodruki-orwell-george-folwark-zwierzecy-przelozyla-z-ang-teresa-jelenska-londyn-1974-odnowa/1967591"
+          },
+          {
+            "title": "polish language - Is there any evidence that Orwell was familiar with the works of W\u0142adys\u0142aw Reymont? - Literature Stack Exchange",
+            "url": "https://literature.stackexchange.com/questions/28735/is-there-any-evidence-that-orwell-was-familiar-with-the-works-of-w%C5%82adys%C5%82aw-reymo"
+          }
+        ]
+      },
+      "Based on my search results, I found comprehensive information about the first Polish translation of George Orwell's \"Animal Farm\" by Teresa Jele\u0144ska in 1947. Here are the key findings:\n\n## The First Polish Translation\n\nIt was made by Teresa Jelenska, the wife of a Polish diplomat, and published at the turn of 1946 and 1947 in London by the League of Poles Abroad. This was notably the first translator of Animal Farm into any language, with Slavic languages (Polish, Ukrainian, Russian) being among the first.\n\nThe specific publication details indicate: The first Polish edition of \"Animal Farm\" was: London: \u015awiatpol, 1947, published under the Polish title \"Folwark Zwierz\u0119cy.\"\n\n## Teresa Jele\u0144ska - The Translator\n\nJele\u0144ska was an aristocratic socialite in pre-war Poland, moving in European literary and political circles, who found herself as a refugee in London in 1941.(no content)Working as a journalist she met Orwell and the two became friends.(no content)Teresa Jele\u0144ska became Orwell's friend while in exile in London after the war, and their friendship, or at least their working relationship, was close enough for Orwell to trust her with the typescript of Animal Farm before publication.(no content)They corresponded regularly until Orwell's death in 1950.\n\n## The Polish \u00c9migr\u00e9 Community and Publication\n\nThe translation was published by Polish \u00e9migr\u00e9s in London through \"\u015awiatpol\" publishing house in 1947. The publication was part of the efforts by Polish communities scattered around the globe by the Second World War and their country's subsequent Soviet occupation to make Orwell's anti-totalitarian work available to Polish readers.\n\n## Impact and Later Editions\n\nThe Jele\u0144ska translation had lasting importance:\n- A reprint was made by the CIA (Free Europe) around 1955 for the \"balloon war\" action \u2013 sending printed matter over Central and Eastern Europe via large balloons.\n- A reprint after the Polish edition published abroad: London: Odnowa, 1974.\n- Polish samizdat editions continued to use Jele\u0144ska's translation in underground publications during the communist era.\n\nThis first Polish translation was significant as it made Orwell's allegorical critique of Soviet totalitarianism available to Polish readers at a time when the official publishing market in communist Poland would condemn Orwell to being an 'unperson' for almost forty years after his death."
+    ],
+    "durationSeconds": 31.55819241200015
+  }
+}

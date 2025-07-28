@@ -1,0 +1,62 @@
+{
+  "session_id": "9588e4fa-c119-4986-be3b-1d3af7769f8f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/9588e4fa-c119-4986-be3b-1d3af7769f8f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "social engineering experiments 1920s 1930s behaviorism psychology John Watson conditioning human behavior"
+  },
+  "tool_response": {
+    "query": "social engineering experiments 1920s 1930s behaviorism psychology John Watson conditioning human behavior",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01VqbtNmGSfyir2nnxSfw2zm",
+        "content": [
+          {
+            "title": "John B. Watson: Contribution to Psychology",
+            "url": "https://www.simplypsychology.org/john-b-watson.html"
+          },
+          {
+            "title": "John B. Watson | Contributions, Theory, & Biography | Britannica",
+            "url": "https://www.britannica.com/biography/John-B-Watson"
+          },
+          {
+            "title": "1920s: Watson \u2013 Parenting and Family Diversity Issues",
+            "url": "https://iastate.pressbooks.pub/parentingfamilydiversity/chapter/watson/"
+          },
+          {
+            "title": "John B. Watson - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/John_B._Watson"
+          },
+          {
+            "title": "John Watson & Behaviorism | Theory & Contribution to Psychology - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/john-watson-and-behaviorism-theory-lesson-quiz.html"
+          },
+          {
+            "title": "Behaviorism In Psychology",
+            "url": "https://www.simplypsychology.org/behaviorism.html"
+          },
+          {
+            "title": "Behaviorism - Behaviorism (1910\u20131930) - Watson, Psychology, Mind, and Psychologist - JRank Articles",
+            "url": "https://science.jrank.org/pages/8447/Behaviorism-Behaviorism-1910-1930.html"
+          },
+          {
+            "title": "Little Albert experiment - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Little_Albert_experiment"
+          },
+          {
+            "title": "Did John B. Watson Really \u201cFound\u201d Behaviorism? - PMC",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4883453/"
+          },
+          {
+            "title": "Behaviorism (John B. Watson \u2013 1913)",
+            "url": "https://principlesoflearning.wordpress.com/dissertation/chapter-3-literature-review-2/the-behavioral-perspective/behaviorism-john-b-watson-1913/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about social engineering experiments in the 1920s and 1930s, particularly those related to behaviorism, psychology, John Watson, and conditioning of human behavior.\n\n## John B. Watson and Behaviorism in the 1920s-1930s\n\nWatsonian behaviorism was the dominant psychology in the United States during the 1920s and '30s. John B. Watson is widely recognized as the founder of behaviorism, a school of thought that revolutionized the field of psychology in the early 20th century.\n\nIn 1913 John B. Watson (1878\u20131958) systematically and provocatively set out the principles of behaviorism in a manifesto entitled \"Psychology As the Behaviorist Views It.\"(no content)Watson positioned behavioral psychology as \"a purely objective experimental branch of natural science\" with a \"theoretical goal\" of \"prediction and control of behavior\".\n\n## The Little Albert Experiment (1920)\n\nThe most famous and controversial social engineering experiment of this period was Watson's (1920) most famous experiment, conducted with Rosalie Rayner, involved conditioning a fear response in a young child known as \"Little Albert\". The results were first published in the February 1920 issue of the Journal of Experimental Psychology.\n\n### Experimental Procedure\n\nThe aim of Watson and Rayner was to condition a phobia in an emotionally stable child. For this study, they chose a nine-month-old infant from a hospital. The child was referred to as \"Albert\" for the experiment. \n\nWatson and Rayner made a loud sound behind Albert's back by striking a suspended steel bar with a hammer each time the baby touched the rat. After several such pairings of the two stimuli, Albert was presented with only the rat. Upon seeing the rat, Albert became very distressed, crying and crawling away.\n\n### Results and Generalization\n\nThe experiment demonstrated that emotional responses, specifically fear, could be learned through classical conditioning. In further experiments, Little Albert seemed to generalize his response to the white rat. He became distressed at the sight of several other furry objects, such as a rabbit, a furry dog, a seal-skin coat, and even a Santa Claus mask with white cotton balls in the beard.\n\n## Watson's Broader Social Engineering Vision\n\nWatson's evident success in training even such a deep-seated reaction as fear led him to believe that all of a person's behavior could be altered, any habit could be formed or broken, by the engineering of stimuli\u2014that is, by the control of the person's immediate environment. In his 1924 book Behaviorism Watson expressed this environmentalist view in its extreme terms.\n\nWatson argued that behavior is primarily shaped by experience and the environment, rather than innate factors like instincts. This emphasis on nurture over nature led him to believe that behavior could be modified through conditioning, paving the way for the development of behavioral therapies.\n\n## Applications and Influence\n\nHe taught at the New School for Social Research and conducted infant behavior experiments at Columbia University during the 1920s. At Johns Hopkins, Watson was associated with the psychiatrist Adolf Meyer, the head of the Phipps Clinic, where Watson applied behaviorist conditioning methods to children.\n\nFrom the 1920s to the mid-1950s, behaviorism was the dominant force in psychology, particularly in the United States. Its emphasis on observable behavior and controlled experiments helped establish psychology as a scientific discipline.\n\n## Ethical Concerns\n\nThe Little Albert experiment is now recognized as highly unethical. The Little Albert experiment was an unethical study that mid-20th century psychologists interpret as evidence of classical conditioning in humans. An ethical problem with the study was that Watson never reversed this conditioned response in Little Albert.\n\nThis period represents a significant chapter in the history of psychology and social engineering, where Watson's behaviorist principles were applied to human subjects with the goal of demonstrating environmental control over behavior."
+    ],
+    "durationSeconds": 28.844608001000015
+  }
+}

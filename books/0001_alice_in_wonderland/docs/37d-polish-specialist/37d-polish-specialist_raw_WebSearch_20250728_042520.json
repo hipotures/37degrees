@@ -1,0 +1,63 @@
+{
+  "session_id": "ac25dab5-19ee-43b4-8689-cf24d65d211d",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ac25dab5-19ee-43b4-8689-cf24d65d211d.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Alicja w Krainie Czar\u00f3w\" matura CKE arkusze egzamin \u00f3smoklasisty"
+  },
+  "tool_response": {
+    "query": "\"Alicja w Krainie Czar\u00f3w\" matura CKE arkusze egzamin \u00f3smoklasisty",
+    "results": [
+      "I'll search for information about \"Alicja w Krainie Czar\u00f3w\" (Alice in Wonderland) in the context of Polish matura exams, CKE (Central Examination Commission) exam papers, and eighth-grade exams.",
+      {
+        "tool_use_id": "srvtoolu_0111ex6u8pyvo7FvrrXQ7eVn",
+        "content": [
+          {
+            "title": "Alicja w Krainie Czar\u00f3w - Lewis Carroll | lektury szkolne z om\u00f3wieniem - Wydawnictwo Greg",
+            "url": "https://lekturyuzuoelniajace.greg.pl/lektury/8,365_Alicja-w-Krainie-Czarow.html"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w - Lewis Carroll | lektury szkolne z om\u00f3wieniem - Wydawnictwo Greg",
+            "url": "https://www.lektury.greg.pl/lektury/8,365_Alicja-w-Krainie-Czarow.html"
+          },
+          {
+            "title": "Test: Alicja w Krainie Czar\u00f3w -test znajomo\u015bci lektury / Memorizer",
+            "url": "https://www.memorizer.pl/test/18114/alicja-w-krainie-czarow--test-znajomosci-lektury/"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w: najwa\u017cniejsze informacje, cytaty, pytania i odpowiedzi",
+            "url": "https://eduzabawy.com/lektury/alicja-w-krainie-czarow/"
+          },
+          {
+            "title": "\"Alicja w Krainie Czar\u00f3w\" - test znajomo\u015bci lektury | QuizMe",
+            "url": "https://www.quizme.pl/q/lektury-szkolne/alicja-w-krainie-czarow-test"
+          },
+          {
+            "title": "\u201eAlicja w Krainie Czar\u00f3w\u201d - test 1 - Lektury uzupe\u0142niaj\u0105ce KLASA 4 - PisuPisu.pl",
+            "url": "https://pisupisu.pl/klasa4/alicja-w-krainie-czarow-test-1"
+          },
+          {
+            "title": "\u201eAlicja w Krainie Czar\u00f3w\u201d - test 2 - Lektury uzupe\u0142niaj\u0105ce KLASA 5 - PisuPisu.pl",
+            "url": "https://pisupisu.pl/klasa5/alicja-w-krainie-czarow-test-2"
+          },
+          {
+            "title": "Quiz: Alicja w Krainie Czar\u00f3w. Test z lektury. MiastoDzieci.pl",
+            "url": "https://miastodzieci.pl/quiz/alicja-w-krainie-czarow-quiz/"
+          },
+          {
+            "title": "\u201eAlicja w Krainie Czar\u00f3w\u201d - test 1 - Lektury uzupe\u0142niaj\u0105ce KLASA 5 - PisuPisu.pl",
+            "url": "https://pisupisu.pl/klasa5/alicja-w-krainie-czarow-test-1"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w - Szczeg\u00f3\u0142owe streszczenie, opracowanie",
+            "url": "https://eduzabawy.com/lektury/alicja-w-krainie-czarow/streszczenie-szczegolowe/"
+          }
+        ]
+      },
+      "Based on the search results, I found information about \"Alicja w Krainie Czar\u00f3w\" (Alice in Wonderland) in the context of Polish educational materials, though there isn't specific information about official CKE matura or eighth-grade exam papers in these results.\n\nHere's what I found:\n\n## Educational Resources for \"Alicja w Krainie Czar\u00f3w\":\n\n### Study Materials and Tests:\nThe book contains answers to textbook questions - \"certainty on the test\", which indicates topics that usually appear in questions about this reading in all knowledge tests, as well as in textbooks and class tests.\n\n### Available Online Tests:\n- Test of knowledge of the book Alice in Wonderland by Lewis Carroll (on Memorizer.pl)\n- Lewis Carroll, \"Alice in Wonderland\" - test of the reading, or what happened to Alice when she went in pursuit of the white rabbit? Test your knowledge (on QuizMe.pl)\n- Tests for different grade levels are available on PisuPisu.pl for class 4 and class 5\n\n### Educational Context:\n\"Alice in Wonderland\" has become a classic of children's literature and is appreciated by both children and adult readers. The book is included as recommended reading by methodologists and teachers.\n\n### Study Aids:\nFamiliarizing yourself with the detailed summary of \"Alice in Wonderland\" and its chapters is an important element of the educational process. It helps understand the depth of the plot, literary motifs and character characteristics, which is crucial in the context of exam preparation, tests and quizzes.\n\nWhile the search didn't return specific CKE (Central Examination Commission) official exam papers or eighth-grade exam materials, it shows that \"Alice in Wonderland\" is widely used in Polish education with many online tests and study resources available for students preparing for various assessments."
+    ],
+    "durationSeconds": 25.833463481999935
+  }
+}

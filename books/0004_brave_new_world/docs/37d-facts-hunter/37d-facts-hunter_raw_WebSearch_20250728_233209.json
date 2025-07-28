@@ -1,0 +1,159 @@
+{
+  "session_id": "9588e4fa-c119-4986-be3b-1d3af7769f8f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/9588e4fa-c119-4986-be3b-1d3af7769f8f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Brave New World\" Japanese Chinese Polish \"first translation\" publication dates international reception"
+  },
+  "tool_response": {
+    "query": "\"Brave New World\" Japanese Chinese Polish \"first translation\" publication dates international reception",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_017UR1MfUAir8LyX75bpmV6P",
+        "content": []
+      },
+      "I'll search for information about the first translations and international reception of \"Brave New World\" in Japanese, Chinese, and Polish.",
+      {
+        "tool_use_id": "srvtoolu_01UqiRU1BbRu33hm7HF4ehhx",
+        "content": [
+          {
+            "title": "Brave New World - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World"
+          },
+          {
+            "title": "Amazon.com: Brave New World (Chinese Edition): 9787544710787: Aldous Leonard Huxley: Books",
+            "url": "https://www.amazon.com/Brave-Chinese-Aldous-Leonard-Huxley/dp/7544710785"
+          },
+          {
+            "title": "Amazon.com: Brave New World (Chinese Edition): 9787532773404: Aldous Huxley: Books",
+            "url": "https://www.amazon.com/Brave-World-Chinese-Aldous-Huxley/dp/753277340X"
+          },
+          {
+            "title": "CEEOL - Book Detail",
+            "url": "https://www.ceeol.com/search/book-detail?id=832385"
+          },
+          {
+            "title": "Amazon.com: Brave New World (Japanese Edition): 9784061370012: Huxley, Aldous: Books",
+            "url": "https://www.amazon.com/Brave-World-Japanese-Aldous-Huxley/dp/4061370014"
+          },
+          {
+            "title": "Brave New World by Aldous Huxley",
+            "url": "https://www.biblio.com/brave-new-world-by-aldous-huxley/work/5640"
+          },
+          {
+            "title": "Brave New World (Chinese Edition) - Aldous Huxley: 9787532773404 - AbeBooks",
+            "url": "https://www.abebooks.com/9787532773404/Brave-New-World-Chinese-Edition-753277340X/plp"
+          },
+          {
+            "title": "When Was Brave New World Published? | Study.com",
+            "url": "https://study.com/academy/lesson/when-was-brave-new-world-published.html"
+          },
+          {
+            "title": "Amazon.com: Brave New World( with the English Version as Present)(Bilingual Translation Yili Library): 9787544754682: Aldous Leonard Huxley: Books",
+            "url": "https://www.amazon.com/English-Version-Present-Bilingual-Translation/dp/7544754685"
+          },
+          {
+            "title": "Captain America: Brave New World - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Captain_America:_Brave_New_World"
+          }
+        ]
+      },
+      "Let me search for more specific information about the early translations and their publication dates.",
+      {
+        "tool_use_id": "srvtoolu_011JyPquQG9AH67Mg1fy1qDn",
+        "content": [
+          {
+            "title": "Amazon.com: Brave New World (Japanese Edition): 9784061370012: Huxley, Aldous: Books",
+            "url": "https://www.amazon.com/Brave-World-Japanese-Aldous-Huxley/dp/4061370014"
+          },
+          {
+            "title": "Amazon.com: Brave New World (Japanese Edition): 9784334752729: 2013. editor: To\u00cc\u201ekyo\u00cc\u201e : Ko\u00cc\u201ebunsha: Books",
+            "url": "https://www.amazon.com/Brave-World-Japanese-editor-bunsha/dp/4334752721"
+          },
+          {
+            "title": "Brave New World - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World"
+          },
+          {
+            "title": "Brave New World | Summary, Context, & Reception | Britannica",
+            "url": "https://www.britannica.com/topic/Brave-New-World"
+          },
+          {
+            "title": "When Was Brave New World Published? | Study.com",
+            "url": "https://study.com/academy/lesson/when-was-brave-new-world-published.html"
+          },
+          {
+            "title": "BRAVE NEW WORLD - Japanese translation - Longman",
+            "url": "https://www.ldoceonline.com/dictionary/english-japanese/brave-new-world"
+          },
+          {
+            "title": "Brave New World by Aldous Huxley",
+            "url": "https://www.biblio.com/brave-new-world-by-aldous-huxley/work/5640"
+          },
+          {
+            "title": "Brave New World (Japanese Edition) - Huxley, Aldous: 9784061370012 - AbeBooks",
+            "url": "https://www.abebooks.com/9784061370012/Brave-New-World-Japanese-Edition-4061370014/plp"
+          },
+          {
+            "title": "brave new world - Translation into Japanese - examples English | Reverso Context",
+            "url": "https://context.reverso.net/translation/english-japanese/brave+new+world"
+          },
+          {
+            "title": "'Brave New World' at 75",
+            "url": "https://www.thenewatlantis.com/publications/brave-new-world-at-75"
+          }
+        ]
+      },
+      "Let me search specifically for Polish translation information and early publication history.",
+      {
+        "tool_use_id": "srvtoolu_01WEXdF3wKwQ31ZLFS8P3Keu",
+        "content": [
+          {
+            "title": "nowy wspania\u0142y \u015bwiat - Translation into English - examples Polish | Reverso Context",
+            "url": "https://context.reverso.net/translation/polish-english/nowy+wspania%C5%82y+%C5%9Bwiat"
+          },
+          {
+            "title": "Taco Hemingway - Nowy wspania\u0142y \u015bwiat (English translation)",
+            "url": "https://lyricstranslate.com/en/nowy-wspanialy-swiat-brave-new-world.html"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat; Nowy wspania\u0142y \u015bwiat poprawiony - Digital Library of the Jan Kochanowski University",
+            "url": "https://bibliotekacyfrowa.ujk.edu.pl/dlibra/publication/3267?language=en"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Nowy_wspania\u0142y_\u015bwiat"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat (Polish edition) | Board Game Version | BoardGameGeek",
+            "url": "https://boardgamegeek.com/boardgameversion/503210/polish-edition"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Aldous Huxley | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5043467/nowy-wspanialy-swiat"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Aldous Huxley - Polska Ksiegarnia w UK",
+            "url": "https://ksiegarniainternetowa.co.uk/en/nowy_wspanialy_swiat-9788374951043"
+          },
+          {
+            "title": "Nowy Wspania\u0142y \u015awiat \"charagma therion\" | innemedium.pl",
+            "url": "https://innemedium.pl/wiadomosc/nowy-wspanialy-swiat-charagma-therion"
+          },
+          {
+            "title": "LEKSYKON POLSKIEJ LITERATURY FANTASTYCZNONAUKOWEJ - Niewiadomski, Andrzej * Smuszkiewicz, Antoni Pozosta\u0142e - Antykwariat Internetowy NWS - ksi\u0105\u017cki u\u017cywane, Krak\u00f3w - Nowa Huta",
+            "url": "https://www.antykwariatnws.pl/oferta-192-66648-leksykon_polskiej_literatury_fantastycznonaukowej+niewiadomski_andrzej_*_smuszkiewicz_antoni.html"
+          },
+          {
+            "title": "\u201eNowy Wspania\u0142y \u015awiat\u201d",
+            "url": "http://www.comporecordeyros.cba.pl/lektury/HuxleyNWS.pdf"
+          }
+        ]
+      },
+      "Based on my search results, I can provide information about the first translations and international reception of \"Brave New World\" in Japanese, Chinese, and Polish:\n\n## Chinese Translation\n\nThe first Standard Chinese translation, done by novelist Lily Hsueh and Aaron Jen-wang Hsueh in 1974, is entitled \"\u7f8e\u9e97\u65b0\u4e16\u754c\" (Pinyin: M\u011bil\u00ec X\u012bn Sh\u00ecji\u00e8, literally \"Beautiful New World\").\n\n## Polish Translation and Reception\n\nThe novel was written by Aldous Huxley in 1931 and published in 1932, with the Polish title being \"Nowy wspania\u0142y \u015bwiat\".\n\nNotably, there were significant accusations of plagiarism from Polish authors. In 1982, Polish author Antoni Smuszkiewicz, in his analysis of Polish science-fiction Zaczarowana gra (\"The Magic Game\"), presented accusations of plagiarism against Huxley. Smuszkiewicz showed similarities between Brave New World and two science fiction novels written earlier by Polish author Mieczys\u0142aw Smolarski, namely Miasto \u015bwiat\u0142o\u015bci (\"The City of Light\", 1924) and Podr\u00f3\u017c po\u015blubna pana Hamiltona (\"Mr Hamilton's Honeymoon Trip\", 1928).\n\nThe book also describes the history of Polish translations of Huxley's works as well as their reception in Poland, paying particular attention to two Polish translations of Brave New World.\n\n## Japanese Translation\n\nWhile the search results show various Japanese editions available (including one from 2013), I did not find specific information about the first Japanese translation date or its early reception in my search results. The Japanese title appears to be \"\u3059\u3070\u3089\u3057\u3044\u65b0\u4e16\u754c\" based on the dictionary translation reference.\n\n## General International Reception\n\nUpon its publication, Rebecca West praised Brave New World as \"The most accomplished novel Huxley has yet written\", Joseph Needham lauded it as \"Mr Huxley's remarkable book\", and Bertrand Russell also praised it, stating, \"Mr Aldous Huxley has shown his usual masterly skill in Brave New World.\" However, Brave New World also received negative responses from other contemporary critics, although his work was later embraced.\n\nThe critical reception of Brave New World was largely chilly. Most reviewers were disgruntled or disgusted with what they saw as unjustified alarmism.\n\nThe search results provided detailed information about the Chinese and Polish translations, but more specific research would be needed to find the exact publication date of the first Japanese translation and more comprehensive details about early international reception in these specific countries."
+    ],
+    "durationSeconds": 32.02256614299991
+  }
+}

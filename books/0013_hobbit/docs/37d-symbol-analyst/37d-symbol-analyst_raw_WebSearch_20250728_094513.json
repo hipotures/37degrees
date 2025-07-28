@@ -1,0 +1,63 @@
+{
+  "session_id": "fbc680e7-1eb0-4e03-89a6-2cdd410f922d",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/fbc680e7-1eb0-4e03-89a6-2cdd410f922d.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"The Hobbit\" ring symbolism corruption power academic papers site:edu"
+  },
+  "tool_response": {
+    "query": "\"The Hobbit\" ring symbolism corruption power academic papers site:edu",
+    "results": [
+      "I'll search for academic papers about ring symbolism, corruption, and power in \"The Hobbit\" from educational institutions.",
+      {
+        "tool_use_id": "srvtoolu_01VgRvA51uuDvVyqxzQxTeji",
+        "content": [
+          {
+            "title": "(DOC) Symbolism of the One Ring and its function",
+            "url": "https://www.academia.edu/8424370/Symbolism_of_the_One_Ring_and_its_function"
+          },
+          {
+            "title": "(PDF) \"What have I got in my pocket?\" -Tolkien and the Tradition of the Rings of Power",
+            "url": "https://www.academia.edu/51008737/_What_have_I_got_in_my_pocket_Tolkien_and_the_Tradition_of_the_Rings_of_Power"
+          },
+          {
+            "title": "(PDF) The One Ring is Methamphetamine",
+            "url": "https://www.academia.edu/35443502/The_One_Ring_is_Methamphetamine"
+          },
+          {
+            "title": "(DOC) SYMBOLS AND FANTASY ELEMENTS IN THE LORD OF THE RINGS",
+            "url": "https://www.academia.edu/10306542/SYMBOLS_AND_FANTASY_ELEMENTS_IN_THE_LORD_OF_THE_RINGS"
+          },
+          {
+            "title": "(PDF) Three Rings for\u2014Whom Exactly? And Why?: Justifying the Disposition of the Three Elven Rings | Jason Fisher - Academia.edu",
+            "url": "https://www.academia.edu/2429634/Three_Rings_for_Whom_Exactly_And_Why_Justifying_the_Disposition_of_the_Three_Elven_Rings"
+          },
+          {
+            "title": "(PDF) Environmental Stewardship in the Works of J.R.R. Tolkien",
+            "url": "https://www.academia.edu/1825597/Environmental_Stewardship_in_the_Works_of_J_R_R_Tolkien"
+          },
+          {
+            "title": "(PDF) Reader's Guide to Fellowship of the Ring",
+            "url": "https://www.academia.edu/68618680/Readers_Guide_to_Fellowship_of_the_Ring"
+          },
+          {
+            "title": "(PDF) One metaphor to rule them all? \u2018Objects\u2019 as tests of character in The Lord of the Rings",
+            "url": "https://www.academia.edu/81737976/One_metaphor_to_rule_them_all_Objects_as_tests_of_character_in_The_Lord_of_the_Rings"
+          },
+          {
+            "title": "(PDF) The Hobbit, the Monster's Godfather",
+            "url": "https://www.academia.edu/31099875/The_Hobbit_the_Monsters_Godfather"
+          },
+          {
+            "title": "February 2019 \u2013 Medieval Studies Research Blog: Meet us at the Crossroads of Everything",
+            "url": "https://sites.nd.edu/manuscript-studies/2019/02/"
+          }
+        ]
+      },
+      "Based on my search results, I found several academic papers from educational institutions that discuss ring symbolism, corruption, and power in \"The Hobbit\" and related Tolkien works. Here are the key findings:\n\n## Academic Papers on Ring Symbolism in The Hobbit\n\n### 1. **\"Symbolism of the One Ring and its function\"** (Academia.edu, 2014)\nCentral to the plot of the trilogy is the theme of power that centers on the corrupting influence of the One Ring on its bearers. This paper uses the archetypal approach to analyze the One Ring's symbolism. The One Ring was identified as the Self archetype through its circle image. The Self archetype explains the circle image of the One Ring which symbolizes unity and wholeness.\n\n### 2. **\"What have I got in my pocket?\" - Tolkien and the Tradition of the Rings of Power** (Academia.edu, 2021)\nThis paper examines where Tolkien found his inspiration for the One Ring and notes that The One Ring's effects vary greatly among characters, suggesting it amplifies existing corrupt tendencies. The paper also discusses Historical and literary contexts provide insight into Tolkien's inspirations for the Rings of Power.\n\n### 3. **\"The One Ring is Methamphetamine\"** (Academia.edu, 2017)\nThis unique paper explores the effect on them can be likened to that of a highly potent and addictive drug. The speed of addiction, along with the signs and symptoms shown by the characters who hold the Ring are in direct correlation with those shown by abusers of a modern synthetic drug - specifically crystal methamphetamine.\n\n### 4. **Ring Symbolism and Augustinian Philosophy**\nMultiple papers reference the One Ring is understood as lust for power over men, lands, and knowledge through Augustinian philosophical frameworks. The papers analyze the symbol's three functions, proposed by Ricoeur: the cosmic, oneiric, and poetic functions.\n\n### 5. **\"Environmental Stewardship in the Works of J.R.R. Tolkien\"** (Academia.edu, 2012)\nWhile focused on environmental themes, this paper notes Tolkien did observe the negative results of industrialization in his time, resulting in distinct ideas about the reversal of this \"corruption\".\n\n### 6. **\"Dragonomics: Smaug and Pollution on Middle-Earth\"** (Notre Dame, 2019)\nThis paper links pollution in Tolkien's Hobbit is linked to both the literal destruction by the dragon, and the rampant greed that motivates Smaug and discusses \"dragon-sickness\" as a form of corruption related to hoarding wealth.\n\n### 7. **Power and Corruption Themes**\nSeveral papers discuss how evil suffers a steady decline from the cosmic to the petty over the course of \"the long defeat\" of Arda. In this paper I will use terms from Northrop Frye's The Great Code\u2014metaphoric, metonymic, demotic, and ricorso\u2014to examine the path of the Ring/power/naming complex through its long diminution as the Ring moves from metaphor, to magic, to degradation and destruction\n\nThese academic papers from .edu sites demonstrate that ring symbolism in \"The Hobbit\" and Tolkien's broader works is extensively studied in academia, with particular focus on themes of corruption, power, addiction, and the degradation of both individuals and societies through the pursuit of power."
+    ],
+    "durationSeconds": 41.541452685000024
+  }
+}

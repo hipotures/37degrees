@@ -1,0 +1,63 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Animal Farm\" symbolism academic analysis scholarly interpretation literary criticism character allegory"
+  },
+  "tool_response": {
+    "query": "\"Animal Farm\" symbolism academic analysis scholarly interpretation literary criticism character allegory",
+    "results": [
+      "I'll search for academic analyses of Animal Farm's symbolism and literary criticism.",
+      {
+        "tool_use_id": "srvtoolu_01LtFXFuMbHwg6Rz4PhQZBR7",
+        "content": [
+          {
+            "title": "Animal Farm - Study Guide and Literary Analysis",
+            "url": "https://literarydevices.net/animal-farm/"
+          },
+          {
+            "title": "Animal Farm Themes, Symbolism, Characters & Literary Devices",
+            "url": "https://www.gale.com/open-access/animal-farm"
+          },
+          {
+            "title": "Animal Farm - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Animal_Farm"
+          },
+          {
+            "title": "Symbolism in the Absurdity of Animal Farm",
+            "url": "https://francis-press.com/uploads/papers/jOBQQTpMPqvw46VjSsx398D6JUtic7VmjAzVtzns.pdf"
+          },
+          {
+            "title": "Animal Farm Symbolism, Imagery, Allegory | Shmoop",
+            "url": "https://www.shmoop.com/study-guides/literature/animal-farm/analysis/symbolism-imagery-allegory"
+          },
+          {
+            "title": "Symbolism in Animal Farm by George Orwell | Allegory & Examples - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/animal-farm-symbolism-symbols.html"
+          },
+          {
+            "title": "A Critique On Animal Farm By George Orwell Using Allegorical Theory - Free Essay Example - Edubirdie",
+            "url": "https://hub.edubirdie.com/examples/a-critique-on-animal-farm-by-george-orwell-using-allegorical-theory/"
+          },
+          {
+            "title": "Position 6 (Set 1) Analysis: Lit - Animal Farm Allegory Essay",
+            "url": "https://www.achievementfirst.org/wp-content/uploads/2018/09/Position-6-Set-1.pdf"
+          },
+          {
+            "title": "Animal Farm Themes and Symbolism - College Transitions",
+            "url": "https://www.collegetransitions.com/blog/animal-farm-theme-symbolism/"
+          },
+          {
+            "title": "Analysis of George Orwell\u2019s Animal Farm \u2013 Literary Theory and Criticism",
+            "url": "https://literariness.org/2025/05/22/analysis-of-george-orwells-animal-farm/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with a comprehensive overview of the academic analysis and literary criticism of Animal Farm's symbolism and allegory:\n\n## Overview of Animal Farm as Political Allegory\n\nAnimal Farm is a satirical allegorical novella by George Orwell that reflects events leading up to the Russian Revolution of 1917 and then on into the Stalinist era of the Soviet Union. The novel allegorizes the Russian Revolution of 1917, when the tsarist autocracy was pushed out and the Bolsheviks came into power, and the revolution's incremental betrayal of its supporters under dictator Joseph Stalin.\n\n## Key Character Symbolism\n\n### The Pigs as Soviet Leaders\nOld Major represents Karl Marx, while Snowball is the allusion of Leon Trotsky, the intellectual, who was chased out of the farm. Napoleon is an allegory of Joseph Stalin, while Snowball parallels Leon Trotsky, who is exiled from the farm and subsequently becomes an image of evil. Squealer serves as Napoleon's second-in-command and minister of propaganda, is a collective portrait of the Soviet nomenklatura and journalists.\n\n### Other Animals and Their Symbolic Meanings\nBoxer, in many ways, is an example of the perfect proletarian (worker). He never complains; he is extremely loyal; and he literally works himself to death. The common workers, symbolized by Clover the horse and Muriel the goat, end up working without seeing the benefits of their work.\n\n## Major Symbols and Their Interpretations\n\n### The Windmill\nThe divide between Stalin and Trotsky (Napoleon and Snowball) is represented by the argument over the windmill. The windmill, a project which is supposed to bring wealth and prosperity to the farm, becomes a symbol of the manipulation and exploitation of the public. Napoleon then takes credit for Snowball's plan to build a windmill \u2013 symbolic of Lenin's modernization plans.\n\n### The Barn and Commandments\nThe barn symbolizes the seat of power in Animal Farm. It begins as a place where all animals are equal, but the pigs slowly change the commandments on the wall and establish power for themselves. Squealer is employed to alter the commandments to account for this humanisation, an allusion to the Soviet government's revising of history to exercise control of the people's beliefs.\n\n### The Farm Itself\nManor farm, later Animal Farm after the revolution, stands for the Soviet Union. Animal Farm, the barn, the windmill, and the gun are symbols of different gadgets that the animals place value to show that they have brought a revolution.\n\n## Themes and Literary Analysis\n\n### Totalitarianism and Corruption\nCast in the form of an allegory, this beast fable is a harsh satire that condemns totalitarianism. In particular, Orwell targets the Soviet Union's brand of communism as nothing more than the ideology of a police state. In the context of its allegory, Orwell's novella suggests that totalitarianism and hypocrisy are natural outcomes of conspiratorial political movements.\n\n### Language and Propaganda\nThe most famous line in the book is \"All animals are equal, but some are more equal than others\", which tells us typical of Orwell's belief that those in power usually manipulate language to their own benefit. Orwell was committed to communicating straightforwardly, given the way that he felt words were commonly used in politics to deceive and confuse.\n\n### The Betrayal of Revolutionary Ideals\nRather than eliminating the capitalist class system it was intended to overthrow, the revolution merely replaced it with another hierarchy. The narrative cultivates considerable sympathy for the animal's thinly allegorized Marxian cause in the early stages of the revolution. However, the thrust of Orwell's allegorical critique lies in the hasty corruption of this cause in the revolution's aftermath.\n\n## Scholarly Reception and Criticism\n\nJohn Molyneux summed up Animal Farm as \"probably the most popular and influential piece of literary propaganda produced in English, perhaps in any language, this century\". Scholars such as Paul Kirschner have tried to reclaim the text as not only a political but also a literary work, reminding readers of Orwell's own declared intention \"to fuse political purpose and artistic purpose into one whole\".\n\n## Contemporary Relevance\n\nAnimal Farm deserves reassessment as a complex work of fiction rather than a simple history lesson on the U.S.S.R. While this article explains how Animal Farm allegorizes Soviet history, it also points to richer themes and symbolism that often escape attention for what they can tell us about revolutionary politics. Orwell's intention in using an allegory was to highlight not just the wrong doings during Russian Revolution but the perils of allowing leaders to become too powerful.\n\nThe academic consensus views Animal Farm as a masterful political allegory that uses animal characters and farm symbolism to critique totalitarian regimes, particularly Stalin's Soviet Union, while also offering universal warnings about the corruption of revolutionary ideals and the manipulation of language for political control."
+    ],
+    "durationSeconds": 53.39149411799991
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "session_id": "715f4a06-6795-4697-b7aa-4344b3e12664",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/715f4a06-6795-4697-b7aa-4344b3e12664.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Lalka 2026 new film adaptation casting director producer production details"
+  },
+  "tool_response": {
+    "query": "Lalka 2026 new film adaptation casting director producer production details",
+    "results": [
+      "I'll search for information about the Lalka 2026 film adaptation and its production details.",
+      {
+        "tool_use_id": "srvtoolu_01FAQMuaibpv4g33ahRSKDHD",
+        "content": [
+          {
+            "title": "Lalka (2026) pe\u0142na obsada - Filmweb",
+            "url": "https://www.filmweb.pl/film/Lalka-2026-10057628/cast/actors"
+          },
+          {
+            "title": "Lalka | Film | 2026",
+            "url": "https://www.filmweb.pl/film/Lalka-2026-10057628"
+          },
+          {
+            "title": "Powstaje nowa ekranizacja \u201eLalki\u201d Boles\u0142awa Prusa. Marcin Doroci\u0144ski zagra Stanis\u0142awa Wokulskiego",
+            "url": "https://www.vogue.pl/a/powstaje-nowa-ekranizacja-lalki-boleslawa-prusa-marcin-dorocinski-zagra-stanislawa-wokulskiego"
+          },
+          {
+            "title": "Marcin Doroci\u0144ski Takes On Iconic Role In New Lalka Adaptation - The Pinnacle Gazette",
+            "url": "https://evrimagaci.org/tpg/marcin-dorociski-takes-on-iconic-role-in-new-lalka-adaptation-305208"
+          },
+          {
+            "title": "Lalka (1968) - Full cast & crew - IMDb",
+            "url": "https://www.imdb.com/title/tt0064570/fullcredits/"
+          },
+          {
+            "title": "Lalka (TV Mini Series 1978\u20131981) - Full cast & crew - IMDb",
+            "url": "https://www.imdb.com/title/tt0127384/fullcredits/"
+          },
+          {
+            "title": "The Odyssey (2026 film) - Wikipedia",
+            "url": "https://en.m.wikipedia.org/wiki/The_Odyssey_(2026_film)"
+          },
+          {
+            "title": "Ramayana (2026) - Full cast & crew - IMDb",
+            "url": "https://www.imdb.com/title/tt27988879/fullcredits/"
+          },
+          {
+            "title": "Wuthering Heights (2026 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Wuthering_Heights_(2026_film)"
+          },
+          {
+            "title": "Adaptation. (2002) - Full cast & crew - IMDb",
+            "url": "https://www.imdb.com/title/tt0268126/fullcredits/"
+          }
+        ]
+      },
+      "Based on my search results, here are the production details for the Lalka 2026 film adaptation:\n\n## Lalka (2026) - Production Details\n\n### Director\nMaciej Kawalski (known for \"Niebezpieczni d\u017centelmeni\")\n\n### Producer\nRados\u0142aw Drabik\n\n### Cinematographer\nPiotr Soboci\u0144ski jr.\n\n### Main Cast\n- **Stanis\u0142aw Wokulski**: Marcin Doroci\u0144ski\n- **Izabela \u0141\u0119cka**: Kamila Urz\u0119dowska\n- **Ignacy Rzecki**: Marek Kondrat\n- **Prezesowa Zas\u0142awska**: Maja Komorowska\n- **Pani Meliton**: Agata Kulesza\n- **Tomasz \u0141\u0119cki**: Andrzej Seweryn\n- **Florentyna**: Karolina Gruszka\n- **Baron Dalski**: Cezary \u017bak\n\n### Production Timeline\n- Filming will begin in August 2025\n- Premiere expected at the end of 2026 or beginning of 2027\n\n### Format\nBoth a cinema film and a TV series will be produced, with the series being the full version of the production\n\n### Casting Director\nThe search results do not provide information about the specific casting director for this production.\n\n### Additional Notes\n- This is a collaboration between Telewizja Polska and Gigant Films\n- This is considered an important moment not only for Polish Television but for Polish cinematography as a whole\n- The producer Rados\u0142aw Drabik expressed confidence that this will be \"the greatest Wokulski in the history of Polish cinema and a career-defining role for Marcin\""
+    ],
+    "durationSeconds": 23.182145713000093
+  }
+}

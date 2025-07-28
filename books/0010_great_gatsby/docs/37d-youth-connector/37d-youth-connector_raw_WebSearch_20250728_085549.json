@@ -1,0 +1,63 @@
+{
+  "session_id": "e18f7f1c-5883-41e4-8ef9-15aee4aa266b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e18f7f1c-5883-41e4-8ef9-15aee4aa266b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Great Gatsby\" FOMO social comparison Instagram stories parties wealth display Gen Z psychology"
+  },
+  "tool_response": {
+    "query": "\"Great Gatsby\" FOMO social comparison Instagram stories parties wealth display Gen Z psychology",
+    "results": [
+      "I'll search for information about how \"The Great Gatsby\" relates to modern concepts like FOMO, social comparison on Instagram, and Gen Z psychology around wealth display and parties.",
+      {
+        "tool_use_id": "srvtoolu_01Xg52qoCZxYsnys5YjvpBWK",
+        "content": [
+          {
+            "title": "The Modern Era of Great Gatsby: Social Media Version | by Yoamer | Medium",
+            "url": "https://medium.com/@yoamer/the-modern-era-of-great-gatsby-social-media-version-55349cbcbc1e"
+          },
+          {
+            "title": "Gen Z & Investing: Social Media, Crypto, FOMO, & Family",
+            "url": "https://rpc.cfainstitute.org/research/reports/2023/gen-z-investing"
+          },
+          {
+            "title": "Exploring uses and gratifications and psychological outcomes of engagement with Instagram Stories - ScienceDirect",
+            "url": "https://www.sciencedirect.com/science/article/pii/S245195882200032X"
+          },
+          {
+            "title": "Social media and mental health: The impact on Gen Z | McKinsey",
+            "url": "https://www.mckinsey.com/mhi/our-insights/gen-z-mental-health-the-impact-of-tech-and-social-media"
+          },
+          {
+            "title": "The Great Gatsby - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+          },
+          {
+            "title": "Fading Into The 1500: Social Media and The Great Gatsby Party",
+            "url": "https://bambooandbananas.org/social-media-and-great-gatsby/"
+          },
+          {
+            "title": "The Great Gatsby, Then and Now - Stone Center on Socio-Economic Inequality",
+            "url": "https://stonecenter.gc.cuny.edu/the-great-gatsby-then-and-now/"
+          },
+          {
+            "title": "FOMO economy: Social media is driving Gen Z into debt - Salon.com",
+            "url": "https://www.salon.com/2025/06/01/in-the-fomo-economy-social-media-drives-gen-z-into-debt/"
+          },
+          {
+            "title": "The Great Gatsby: Themes | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/gatsby/themes/"
+          },
+          {
+            "title": "Social Media and FOMO | Social Media Victims Law Center",
+            "url": "https://socialmediavictims.org/mental-health/fomo/"
+          }
+        ]
+      },
+      "Based on the search results, I found fascinating connections between \"The Great Gatsby\" and modern social media behaviors, particularly around FOMO, wealth display, and social comparison among Gen Z. Here are the key insights:\n\n## The Great Gatsby as a Mirror for Social Media Culture\n\nThe parallels between Gatsby's parties and social media posting are striking - both serve as performative displays seeking validation and attention. Gatsby threw elaborate parties every week solely to attract attention from one person, his ex-lover Daisy Buchanan, with everything designed to impress her.\n\nJust as Gatsby created a wealthy, glamorous persona to attract Daisy, people today craft polished online personas to get noticed. This creates \"a well constructed persona, much to how people make their social media pages these days\".\n\n## FOMO and Social Comparison\n\nAmong Gen Z, a higher proportion of females reported that social media had negative impacts on FOMO (32% vs 22% for males), body image (32% vs 16%), and self-confidence (24% vs 13%). Respondents across generations said social media can lead to fear of missing out (FOMO) and poor body image, though it also helps with social connections.\n\nKey factors attracting Gen Z to invest include \"the fear of missing out (FOMO)\" alongside small investment amounts and family influence, showing how FOMO extends beyond social activities to financial decisions.\n\n## Wealth Display and the \"FOMO Economy\"\n\nResearch shows that 40% of Gen Zers regularly take on debt for impulsive purchases of items or experiences they saw on social media, with just as many saying these purchases are made partly to be shared on social media. Many Gen Zers who buy items specifically for social media posting end up regretting these purchases.\n\nYoung people are going into debt for concert tickets and photogenic vacations that, when focused on documenting for social media, don't provide the same mental health benefits as unplugged experiences.\n\n## The Illusion of Connection\n\nLike Jay Gatsby, whose funeral was barely attended despite his lavish parties, social media creates \"a superficial ploy to trick ourselves into thinking someone cared\" - \"a giant Gatsby party with no connections or experiences that matter in the light of day\".\n\nSocial media is \"changing the VIEW, not the reality\" of how many relationships we can maintain, creating the illusion we should have far more connections than is healthy for our cognitive well-being - \"the worst part is that the friendships don't actually exist\".\n\n## Psychological Impact\n\nAccording to Pew Research, 69% of adults regularly monitor their social media likes, rising to 88% among 18-29 year olds. Social media can increase feelings of loneliness and anxiety, especially when users don't receive expected likes or comments.\n\nFOMO drives constant notification checking, leading to problematic social media use and causing people to miss out on real-life relationships and meaningful activities.\n\nThe search results reveal that Fitzgerald's century-old novel eerily predicts modern social media behaviors - the performative wealth displays, the hollow pursuit of validation, the crafted personas, and ultimately the emptiness that comes from prioritizing appearance over authentic connection. Just as Gatsby's pursuit of Daisy through ostentatious displays ultimately led to his downfall, today's Gen Z faces mental health challenges and financial stress from their social media-driven pursuit of validation and fear of missing out."
+    ],
+    "durationSeconds": 39.34497561899992
+  }
+}

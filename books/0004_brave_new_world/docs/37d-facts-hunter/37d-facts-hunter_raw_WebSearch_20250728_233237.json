@@ -1,0 +1,62 @@
+{
+  "session_id": "9588e4fa-c119-4986-be3b-1d3af7769f8f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/9588e4fa-c119-4986-be3b-1d3af7769f8f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Brave New World\" Soviet Union ban censorship Eastern Europe reception Yugoslavia"
+  },
+  "tool_response": {
+    "query": "\"Brave New World\" Soviet Union ban censorship Eastern Europe reception Yugoslavia",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01FtkPTYchdtqhB7Cj5hxe3L",
+        "content": [
+          {
+            "title": "Brave New World - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World"
+          },
+          {
+            "title": "15 Things You Might Not Know About Brave New World",
+            "url": "https://www.mentalfloss.com/article/64046/15-things-you-might-not-know-about-brave-new-world"
+          },
+          {
+            "title": "People's Century | Brave New World | Full Program Description",
+            "url": "https://www.pbs.org/wgbh/peoplescentury/episodes/bravenewworld/description.html"
+          },
+          {
+            "title": "Brave New World | The Censorship Files",
+            "url": "https://thecensorshipfiles.wordpress.com/volume-1/issue-2/brave-new-world/"
+          },
+          {
+            "title": "Brave New World - PMC",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7164911/"
+          },
+          {
+            "title": "Brave New World As One Of The Most Banned Or Controversial Books Over The Years | Free Essay Example for Students",
+            "url": "https://aithor.com/essay-examples/brave-new-world-as-one-of-the-most-banned-or-controversial-books-over-the-years"
+          },
+          {
+            "title": "People's Century | Teacher's Guide | Brave New World",
+            "url": "https://www.pbs.org/wgbh/peoplescentury/teachers/tgbrave.html"
+          },
+          {
+            "title": "Banning of Brave New World by Aldous Huxley | Reasons & Irony - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/reason-brave-new-world-was-banned.html"
+          },
+          {
+            "title": "Brave New World Revisited: Further Thoughts on the Future",
+            "url": "https://www.cliffsnotes.com/literature/b/brave-new-world/critical-essays/brave-new-world-revisited-further-thoughts-on-the-future"
+          },
+          {
+            "title": "Introduction: The brave new world of the high-tech surveillance state - Bulletin of the Atomic Scientists",
+            "url": "https://thebulletin.org/premium/2022-09/introduction-the-brave-new-world-of-the-high-tech-surveillance-state/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about \"Brave New World\" and its censorship history in the Soviet Union and Eastern Europe:\n\n## Censorship of \"Brave New World\" in the Soviet Union and Eastern Europe\n\nBrave New World has frequently been banned and challenged since its original publication. It has landed on the American Library Association list of top 100 banned and challenged books of the decade since the association began the list in 1990.\n\n### Early International Censorship\n\nThe novel was banned in Ireland and Australia in 1932, with the latter maintaining its censorship for five years. The first of many instances of the novel's censorship occurred in Ireland in 1932, almost immediately after its publication. Ireland's action to censor the book became a trend in other countries. Quickly following afterwards, in the same year, Australia followed the trend.(no content)In 1967, India banned Brave New World, likening the work to pornography. Another pivotal moment came in 1965 when Brave New World was banned in India for its depiction of a dystopian society, which was deemed as a negative portrayal of the country.\n\n### Connection to Soviet Themes\n\nWhile the search results don't provide specific evidence of \"Brave New World\" being banned in the Soviet Union or Yugoslavia, there are interesting parallels between the book's themes and Soviet-era censorship practices:\n\nThis rigid control mirrors the characteristics of real-life totalitarian regimes, such as the Soviet Union and Nazi Germany, which Huxley likely drew inspiration from.(no content)In communist nations, Huxley points out, leaders used to control individuals with punishment, just as the representatives of Big Brother frighten and at times torture citizens into submission in Orwell's novel. But in the Soviet Union at least, the death of Stalin brought an end to the \"old-fashioned\" form of universal tyranny. By the late 1950s, in the Soviet bloc, governments attempted to control high-ranking individuals with rewards \u2014 just as in Brave New World. Meanwhile, the government continued to enforce conformity on the masses by fear of punishment. Communist totalitarianism, therefore, combined the Brave New World and 1984 styles of oppression.\n\n### Reasons for Censorship\n\nThe prevalence of casual sex in Brave New World has earned the wrath of many conservative governments.(no content)Notably, the depiction of promiscuity and drug use in the book sparked moral outrage and led to efforts to restrict its availability.(no content)The theme of governmental control and manipulation also contributed to the novel's contentious reception, particularly during the period of intense political and social scrutiny in the mid-20th century.\n\nThe search results suggest that while \"Brave New World\" was widely censured for its content regarding sexuality, drug use, and dystopian themes of governmental control, there isn't specific documentation of bans in the Soviet Union or Yugoslavia in these particular sources."
+    ],
+    "durationSeconds": 24.73123018199997
+  }
+}

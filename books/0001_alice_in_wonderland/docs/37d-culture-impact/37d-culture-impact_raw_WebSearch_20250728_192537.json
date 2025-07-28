@@ -1,0 +1,63 @@
+{
+  "session_id": "6545194c-1a01-4819-963f-db6995a69675",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/6545194c-1a01-4819-963f-db6995a69675.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Alice in Wonderland video game 2024 2025 new releases VR Steam Epic Games"
+  },
+  "tool_response": {
+    "query": "Alice in Wonderland video game 2024 2025 new releases VR Steam Epic Games",
+    "results": [
+      "I'll search for information about Alice in Wonderland video games releasing in 2024-2025, particularly focusing on VR titles and releases on Steam and Epic Games platforms.",
+      {
+        "tool_use_id": "srvtoolu_01DaZsCYDTAtdW8h8rnfyRkE",
+        "content": [
+          {
+            "title": "Save 92% on ALICE VR on Steam",
+            "url": "https://store.steampowered.com/app/513320/ALICE_VR/"
+          },
+          {
+            "title": "Disney Alice in Wonderland on Steam",
+            "url": "https://store.steampowered.com/app/316030/Disney_Alice_in_Wonderland/"
+          },
+          {
+            "title": "Alice In VR on Steam",
+            "url": "https://store.steampowered.com/app/829610/Alice_In_VR/"
+          },
+          {
+            "title": "Upcoming VR Games 2025: New Releases On Quest, PC, PS VR2 & More",
+            "url": "https://www.uploadvr.com/upcoming-vr-games/"
+          },
+          {
+            "title": "Alice VR Reviews - Metacritic",
+            "url": "https://www.metacritic.com/game/alice-vr/"
+          },
+          {
+            "title": "Upcoming Releases",
+            "url": "https://store.steampowered.com/explore/upcoming/"
+          },
+          {
+            "title": "This game inspired by Alice in Wonderland is FREE on Steam for a limited time!",
+            "url": "https://gg.deals/freebie/this-game-inspired-by-alice-in-wonderland-is-free-on-steam-for-a-limited-time/"
+          },
+          {
+            "title": "New games 2025: All the upcoming PC games you won't want to miss, from big hits to hidden gems",
+            "url": "https://www.pcgamer.com/games/new-games-2025-upcoming-pc-release-schedule/"
+          },
+          {
+            "title": "-92% Alice VR on GOG.com",
+            "url": "https://www.gog.com/en/game/alice_vr"
+          },
+          {
+            "title": "Alice VR \u2014 ARVI VR",
+            "url": "https://vr.arvilab.com/products/games/alice"
+          }
+        ]
+      },
+      "Based on my search results, here's what I found about Alice in Wonderland video games for 2024-2025:\n\n## Current VR Alice in Wonderland Games Available\n\n**Alice VR** - A sci-fi reimagining available on Steam that's \"a fresh take on the classic adventures of Alice in Wonderland\" and \"a single player story-driven exploration game with puzzles designed to be a unique VR experience.\"(no content)The game takes Lewis Carroll's characters and themes to a new science-fiction setting. This game is currently available with a 92% discount on Steam.\n\n**Alice In VR** - Another VR title on Steam where you \"Fall down the rabbit hole as Alice in Wonderland! Drink from the bottle and become tiny, eat the cake and become huge. Meet the cat, the rabbit and the caterpillar - all in VR!\"(no content)**Alice VR Escape Room** by ARVI VR - An escape room experience where you \"have to uncover the secrets of the Queen of Hearts, who has cast a spell on Wonderland's time.\"\n\n## Non-VR Alice Games\n\n**Disney Alice in Wonderland** - A non-VR game based on Tim Burton's film is available on Steam, where you \"journey down the rabbit hole and into a land beyond your wildest imaginings.\"\n\n## Recent Free Promotion\n\n**Down the Rabbit Hole Flattened** - \"a 2D reimagining of an award-winning VR game that takes place in Wonderland before Alice ever shows up\" was recently offered as a free limited-time promotion on Steam (as of June 2025).\n\n## 2024-2025 New Releases\n\nUnfortunately, I didn't find any specific information about brand new Alice in Wonderland VR games scheduled for release in 2024-2025 on Steam or Epic Games. The general VR games article mentions upcoming VR games for 2025, but doesn't specifically list any Alice in Wonderland titles.\n\nThe existing Alice VR games appear to be older releases (Alice VR was reviewed in 2016) that are still available for purchase, often at discounted prices. If you're looking for Alice in Wonderland VR experiences, the current options are the titles mentioned above, but there don't appear to be any major new releases in this category announced for 2024-2025 at this time."
+    ],
+    "durationSeconds": 24.851887293000008
+  }
+}

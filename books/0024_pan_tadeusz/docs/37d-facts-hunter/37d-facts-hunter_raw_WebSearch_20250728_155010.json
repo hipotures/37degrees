@@ -1,0 +1,47 @@
+{
+  "session_id": "c357bd2a-ff18-4f3e-ad1a-144b3d8d1e08",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/c357bd2a-ff18-4f3e-ad1a-144b3d8d1e08.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Pan Tadeusz\" modern relevance Polish education schools compulsory reading contemporary youth significance adaptations"
+  },
+  "tool_response": {
+    "query": "\"Pan Tadeusz\" modern relevance Polish education schools compulsory reading contemporary youth significance adaptations",
+    "results": [
+      "I'll search for information about Pan Tadeusz's modern relevance in Polish education, particularly regarding its status as compulsory reading and its significance for contemporary youth.",
+      {
+        "tool_use_id": "srvtoolu_01QM5GiKAdrRDGtLByRKsWLS",
+        "content": [
+          {
+            "title": "history of literature - How long has Pan Tadeusz been compulsory reading in Polish schools? - Literature Stack Exchange",
+            "url": "https://literature.stackexchange.com/questions/20231/how-long-has-pan-tadeusz-been-compulsory-reading-in-polish-schools"
+          },
+          {
+            "title": "Pan Tadeusz - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pan_Tadeusz"
+          },
+          {
+            "title": "Full text of \"Pan Tadeusz : or, The last foray in Lithuania, a story of life among Polish gentlefolk in the years 1811 and 1812, in twelve books\"",
+            "url": "https://archive.org/stream/pantadeuszorlast00mickuoft/pantadeuszorlast00mickuoft_djvu.txt"
+          },
+          {
+            "title": "Pan Tadeusz: a theatrical reading with music | Faculty of Modern and Medieval Languages and Linguistics",
+            "url": "https://www.mmll.cam.ac.uk/polish/pan-tadeusz"
+          },
+          {
+            "title": "Pan Tadeusz by Adam Mickiewicz: 9781939810007 | PenguinRandomHouse.com: Books",
+            "url": "https://www.penguinrandomhouse.com/books/577233/pan-tadeusz-by-adam-mickiewicz/"
+          },
+          {
+            "title": "The Incredible Story of \u201cPan Tadeusz\u201d | 4 Corners of the World",
+            "url": "https://blogs.loc.gov/international-collections/2018/11/the-incredible-story-of-pan-tadeusz/"
+          }
+        ]
+      },
+      "Based on the search results, here's what I found about Pan Tadeusz's modern relevance in Polish education and its significance for contemporary youth:\n\n## Status as Compulsory Reading\n\nPan Tadeusz, Poland's national epic, is compulsory reading in Polish schools and has been translated into 33 languages. Pan Tadeusz is required reading in Polish schools, and it is required reading in Polish schools, and well known to every Polish citizen.\n\nThe poem has been part of Polish education for a very long time. It's probably been for a hundred years, or more, at least in some schools. Currently, Pan Tadeusz as a whole is on current obligatory list for VII-VIII class (grades 7-8), while there are obligatory and supplementary reading lists for primary school also, which includes compulsory extracts from Pan Tadeusz, but not the whole work.\n\n## Modern Educational Context\n\nLooking across a range of conflicting sources it seems likely that the whole Polish education system was overhauled in 2017, but Pan Tadeusz maintained its place in the curriculum. The fact that it survived educational reforms demonstrates its enduring importance in Polish cultural education.\n\n## Contemporary Relevance and Adaptations\n\nSeveral initiatives show efforts to keep Pan Tadeusz relevant for modern audiences:\n\n1. **National Reading Day**: In 2012, during the first edition of the National Reading Day organized by the President of Poland Bronis\u0142aw Komorowski, Pan Tadeusz was read in numerous locations across the country as a way of promoting readership and popularizing Polish literature.\n\n2. **Film Adaptation**: A film version, directed by Andrzej Wajda, was released in 1999, making the epic more accessible to contemporary audiences through cinema.\n\n3. **Digital Recognition**: Google's Doodle for Poland, Lithuania, Belarus, Iceland, Ireland and UK on 28 June 2019 commemorated the poem.\n\n4. **Museum and Exhibition**: The original manuscript is on display in the Pan Tadeusz Museum in Wroc\u0142aw, which opened in 2016.\n\n5. **Contemporary Performances**: Universities and cultural institutions continue to organize theatrical readings and performances, such as dramatic theatrical reading of Adam Mickiewicz's epic poem Pan Tadeusz (1834) with live musical interludes.\n\n## Cultural and Historical Significance\n\nThe poem's continued relevance stems from its role in Polish national identity. While the country was not a political entity during those years, the Polish language and literature played a crucial role in maintaining a spirit of patriotism and keeping alive the hope for freedom. One of the most important and inspiring Polish literary works from that time is \"Pan Tadeusz\" by Adam Mickiewicz. Considered the national epic of Poland.\n\nEven during the Communist era, Good taste has counselled the current regime to declare this poem \"kosher\" even for Communism, showing how the work transcended political systems.\n\n## UNESCO Recognition\n\nIn recognition of its global cultural importance, In 2014 Pan Tadeusz was incorporated into Poland's list in the UNESCO Memory of the World Programme.\n\nThe search results suggest that while Pan Tadeusz remains firmly embedded in Polish education as compulsory reading, efforts continue to make it accessible and relevant to contemporary youth through various media adaptations, public reading events, museums, and digital commemorations. Its status as Poland's national epic ensures its continued prominence in education, despite the challenges of engaging modern students with a 19th-century verse epic."
+    ],
+    "durationSeconds": 36.792138339
+  }
+}

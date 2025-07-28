@@ -1,0 +1,62 @@
+{
+  "session_id": "ad0134af-ec8f-4d33-afa8-be303b4ad42f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ad0134af-ec8f-4d33-afa8-be303b4ad42f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Alice in Wonderland theme parks Disneyland attraction experiences immersive installations"
+  },
+  "tool_response": {
+    "query": "Alice in Wonderland theme parks Disneyland attraction experiences immersive installations",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01TMmVxuezybSrbFx64jqiKg",
+        "content": [
+          {
+            "title": "Alice in Wonderland | Rides & Attractions | Disneyland Park",
+            "url": "https://disneyland.disney.go.com/attractions/disneyland/alice-in-wonderland/"
+          },
+          {
+            "title": "Alice in Wonderland (Disneyland attraction) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Alice_in_Wonderland_(Disneyland_attraction)"
+          },
+          {
+            "title": "Disney Confirms Alice in Wonderland Attraction for 36-Year-Old Theme Park",
+            "url": "https://insidethemagic.net/2025/07/disney-confirms-alice-in-wonderland-attraction-for-36-year-old-theme-park-th1/"
+          },
+          {
+            "title": "Alice in Wonderland | Disneyland Park",
+            "url": "https://touringplans.com/disneyland/attractions/alice-in-wonderland"
+          },
+          {
+            "title": "The Many Phases of the Alice in Wonderland Disneyland Attraction \u2014 The Disney Classics",
+            "url": "https://www.thedisneyclassics.com/blog/alice-in-wonderland-attraction"
+          },
+          {
+            "title": "Immersive Debut: Alice in Wonderland Show at Disneyland Paris",
+            "url": "https://disneyparks.disney.go.com/blog/2024/05/immersive-alice-in-wonderland-show-debuts-at-disneyland-paris/"
+          },
+          {
+            "title": "Alice in Wonderland (attraction) | Disney Wiki | Fandom",
+            "url": "https://disney.fandom.com/wiki/Alice_in_Wonderland_(attraction)"
+          },
+          {
+            "title": "Confirmed: NEW Alice in Wonderland Attraction Coming to Disney World | Disney Dining",
+            "url": "https://www.disneydining.com/new-alice-in-wonderland-attraction-coming-to-disney-world-th1/"
+          },
+          {
+            "title": "A New Era For Hollywood Studios: Disney Unveils Major Attraction - Travel And Tour World",
+            "url": "https://www.travelandtourworld.com/news/article/a-new-era-for-hollywood-studios-disney-unveils-major-attraction/"
+          },
+          {
+            "title": "Alice In Wonderland: A Disney Parks Comparison \u2013 Disney Insights",
+            "url": "https://disneyinsights.com/disney-at-work/disneyland/alice-in-wonderland-a-disney-parks-comparison/"
+          }
+        ]
+      },
+      "Based on the search results, I found extensive information about Alice in Wonderland theme park attractions and immersive experiences at Disney parks worldwide. Here's what the search revealed:\n\n## Alice in Wonderland at Disneyland\n\nAlice in Wonderland is a dark ride in Fantasyland at Disneyland in Anaheim, California. Based on the 1951 animated Disney film of the same name, the attraction resides next to a second ride, the Mad Tea Party, based on a scene in that same adaptation.(no content)The ride opened in 1958; the present version opened in 1984, and was updated in 2014.\n\nThe attraction is unique in several ways:\n- The ride space was restricted to an oddly shaped extension built onto the rear of the complex housing Mr. Toad's Wild Ride and Peter Pan's Flight, an arrangement which resulted in Alice being the first dark ride at Disneyland to occupy two floors.\n- These vehicles, modeled to resemble the film's haughty, hookah-smoking caterpillar, were manufactured by Arrow Development and designed with three wheels instead of the usual four to facilitate navigation along the ride's sloping track. The iconic \"caterpillar cars\" have remained in use for the entire duration of the attraction's existence as of 2024.\n\n## Immersive Design Elements\n\nThe exterior didn't have the Renaissance fair look that the other dark rides did, but rather had an overgrown garden as it still is today. In some of the original plans for it, the ride was meant to have a \"rabbit hole\" exterior, giving the illusion that you really were going to fall into it like Alice.(no content)Instead, it featured a stylized, oversized garden of towering blades of grass, dandelions, and a tall mushroom that served as the attraction's ticket booth. The caterpillar ride vehicles moved gracefully along a winding path of massive leaves, helping create the illusion that guests had shrunk to a tiny size, thus imitating Alice's experiences in Wonderland.\n\n## New Alice in Wonderland Experiences\n\n### Disney's Hollywood Studios (Walt Disney World)\nNow, a new Alice in Wonderland attraction is headed for the Sunshine State. As part of The Magic of Disney Animation building, guests will be able to enjoy an indoor play area themed to the classic story by Mary Blair. \"Our youngest animators-to-be can explore the 'Drawn to Wonderland' playground filled with an oversized flower garden with musical instruments, a Mad Tea Party playset, and a Tulgey Wood exploration area, all inspired by the original Alice in Wonderland concept art from Disney Legend Mary Blair,\" Disney Parks Blog said in its announcement.\n\n### Disneyland Paris Immersive Show\nFeaturing a series of musical performances, aerial acrobatics and BMX stunts, this immersive theatrical adaptation at Walt Disney Studios Park offers a different twist on the final croquet game scene between Alice and the Queen of Hearts. Not only can you see the exciting face-off between these beloved characters, you may even influence the outcome of the show during the grand finale!(no content)The stage setting draws its creativity from the \"pop art\" movement with nods to many places Alice explores in the original world of \"Alice in Wonderland.\" These elements, inspired by pop and street art culture, bring a unique atmosphere with street murals, flashy colors and industrial elements to the resort's largest stage measuring over 220 feet long, 80 feet deep and 50 feet high! Featuring 13 screens framing the center of the stage, it's quite the immersive experience that puts you right into the action!\n\n## Global Presence\n\nDid you know there are only two Disney intellectual properties that can be found as an attraction in every Magic Kingdom style park around the world... But the other surprisingly is Alice in Wonderland. Five of the six parks have spinning cups but many of them have attractions that are beyond that.(no content)Along with a beautifully created tea cup attraction, Disneyland Paris introduced a maze based on Alice in Wonderland. It is beautiful and beautifully themed.\n\nThe search results show that Alice in Wonderland has a significant presence across Disney theme parks worldwide, with various immersive installations ranging from traditional dark rides to interactive playgrounds and theatrical shows, each offering unique interpretations of Lewis Carroll's classic story."
+    ],
+    "durationSeconds": 34.688344801000085
+  }
+}

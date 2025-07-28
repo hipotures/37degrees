@@ -1,0 +1,63 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Victorian governesses\" social position challenges 1840s Jane Eyre Charlotte Bront\u00eb experience"
+  },
+  "tool_response": {
+    "query": "\"Victorian governesses\" social position challenges 1840s Jane Eyre Charlotte Bront\u00eb experience",
+    "results": [
+      "I'll search for information about Victorian governesses, their social position, challenges in the 1840s, and connections to Jane Eyre and Charlotte Bront\u00eb's experiences.",
+      {
+        "tool_use_id": "srvtoolu_014XGP7iCzKUifPboEpBNw1q",
+        "content": [
+          {
+            "title": "Jane Eyre: Charlotte Bront\u00eb's Progressive Take On Victorian Social Hierarchy \u2014 Necessary Behavior",
+            "url": "https://necessarybehavior.com/charlotte-bronts-progressive-take-on-victorian-social-hierarchy"
+          },
+          {
+            "title": "FEMINISM AND IDENTITY IN VICTORIAN NOVELS OF ...",
+            "url": "https://scholar.stjohns.edu/cgi/viewcontent.cgi?article=1547&context=theses_dissertations"
+          },
+          {
+            "title": "Hey, Teacher, Leave Those Readers Alone! \u2014 Charlotte Bronte's Jane Eyre",
+            "url": "https://victorianweb.org/authors/bronte/cbronte/mayer1.html"
+          },
+          {
+            "title": "Jane Eyre Historical and Social Context - eNotes.com",
+            "url": "https://www.enotes.com/topics/jane-eyre/in-depth/historical-social-context"
+          },
+          {
+            "title": "Introducing Jane Eyre: An Unlikely Victorian Heroine | NEH-Edsitement",
+            "url": "https://edsitement.neh.gov/lesson-plans/introducing-jane-eyre-unlikely-victorian-heroine"
+          },
+          {
+            "title": "Jane Eyre by Charlotte Bront\u00eb | Time Period, Analysis & Quotes - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/jane-eyre-time-period-historical-context.html"
+          },
+          {
+            "title": "The figure of the governess | The British Library",
+            "url": "https://www.britishlibrary.cn/en/articles/the-figure-of-the-governess/"
+          },
+          {
+            "title": "The Governess in Jane Eyre | Victorians @ TTU",
+            "url": "https://victoriansttu.wordpress.com/the-governess/"
+          },
+          {
+            "title": "Ideals of Victorian Womanhood: Governess versus Lady",
+            "url": "https://dc.cod.edu/cgi/viewcontent.cgi?article=1213&context=essai"
+          },
+          {
+            "title": "Jane Eyre: Historical Context Essay: Victorian Perceptions of Women | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/janeeyre/context/historical/victorian-perceptions-of-women/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about Victorian governesses, their social position, challenges in the 1840s, and connections to Jane Eyre and Charlotte Bront\u00eb's experiences.\n\n## Social Position of Victorian Governesses\n\nThe position of governess was a common yet complex role in Victorian society, often filled by educated women from the middle and professional classes. While the role offered a respectable means of employment, it also placed women in a delicate social position, straddling the line between family member and servant.(no content)She is also a strange one: not part of the family, yet not quite an ordinary servant.(no content)Although the governess position was only available to middle class and upper class women, it was a daunting role to take on because it \"was known to involve long hours, little pay, the awkwardness of living in someone else's house, and banishment to a social limbo.\" A governess was viewed as an outsider because Victorians believed that they did not fit into a family or society since she was not truly a member of the family but not truly a servant either.(no content)Governesses occupied a liminal space in upper-class Victorian households because they were dependents with the education and manners of their superiors, embodying the role of neither master nor servant.\n\n## Challenges Faced by Governesses in the 1840s\n\n### Isolation and Loneliness\nThe governess often spent the evenings alone and she was sometimes expected to use the schoolroom as her sitting room. Life could feel very lonely: 19 year old Edith Gates, a governess in Reading in the 1870s, confides to her diary how homesick she feels. 30 years earlier Charlotte Bront\u00eb tried to avoid going into her employers' sitting room in the evenings because she found it awkward to make conversation with people she didn't know very well.\n\n### Economic Hardship\n1840s: An average English governess or school teacher earned between fifteen to thirty pounds annually. This was extremely low pay for the educational requirements and responsibilities of the position.\n\n### Limited Career Prospects\nWhile being a governess was considered respectable, opportunities for career advancement were limited.(no content)Getting married was one way that the governess might be able to leave her job. But it was hard for her to meet suitable men. Female employers often worried that the governess might try to marry one of the young gentlemen of the house. For that reason, advice books aimed at employers recommended employing a plain governess.\n\n### Employment Statistics\nBy 1851, around twenty-five thousand women were employed as governesses in Britain... The prevalence of this role is evident, with an estimated twenty-five thousand women working as governesses in England by the mid-1800s.\n\n## Charlotte Bront\u00eb's Personal Experience\n\nCharlotte Bront\u00eb rejected several offers of marriage, and she and her sisters attempted to support themselves at first as teachers and by serving as governesses.(no content)Charlotte and Anne Bront\u00eb, who both published novels with governess heroines, used their real-life experiences of the schoolroom.(no content)Bront\u00eb's determination to portray a plain yet passionate young woman who defied the stereotype of the docile and domestic Victorian feminine ideal most likely developed from her own dissatisfaction with domestic duties and a Victorian culture that discouraged women from having literary aspirations.\n\n## Jane Eyre's Representation of Governesses\n\nCharlotte Bront\u00eb's novel Jane Eyre both embraces and challenges the stereotype of a governess. The novel encompasses the stereotypical governess by how Victorians, both upper class and even governesses themselves, view governessing as a low, distasteful job. When Jane first starts off as a governess, even she expects to be treated poorly and embraces the ideologies of a stereotypical, poor governess. She truly believes that she is lesser than that of Mr. Rochester, and when she decides to marry him, the housekeeper reminds her that she is lower class and that a man like Rochester should not marry his governess. Blanche Ingram embodies the traditional, upper class Victorian views on governesses stating that \"half of them are detestable and the rest ridiculous.\"\n\n### Jane as an Unconventional Heroine\nSince the narrator's identity is that of a governess in Victorian society, this is a bold point of view indeed... The governess-narrator who offers so much of her own mind in the narrative would surely startle certain contemporary readers.(no content)Jane's insistence on her agency, acceptance of her strong emotions, and marriage outside her social class made her a scandalous heroine at publication.\n\n## Critical Reception and Social Commentary\n\nAccording to the Quarterly Review, Jane Eyre exemplified the \"tone of mind and thought which has overthrown authority and violated every code human and divine.\"... [because] the writer's mind contains nothing but hunger, rebellion and rage and therefore that is all she can, in fact, put in her book\"(no content)However, some contemporary reviewers found the novel \"immoral\" or even \"anti-Christian\" in the ways in which dramatic events seem to celebrate romance, including elements of mystical nature (such as in the scene with the character Bertha).\n\nThe novel served as both a reflection of the real challenges faced by Victorian governesses and a critique of the social system that placed educated women in such precarious positions. Through Jane Eyre, Charlotte Bront\u00eb illuminated the contradictions of a society that required women to be educated enough to teach but denied them full social recognition or economic security."
+    ],
+    "durationSeconds": 60.552723619
+  }
+}

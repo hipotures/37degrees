@@ -1,0 +1,63 @@
+{
+  "session_id": "fbc680e7-1eb0-4e03-89a6-2cdd410f922d",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/fbc680e7-1eb0-4e03-89a6-2cdd410f922d.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Hobbit Tolkien m\u0142odzie\u017c polska TikTok Instagram BookTok polscy influencerzy"
+  },
+  "tool_response": {
+    "query": "Hobbit Tolkien m\u0142odzie\u017c polska TikTok Instagram BookTok polscy influencerzy",
+    "results": [
+      "I'll search for information about Hobbit/Tolkien content among Polish youth on TikTok and Instagram, particularly in the BookTok community and Polish influencers.",
+      {
+        "tool_use_id": "srvtoolu_019MXizaF6NvpPtvv4rFpPeY",
+        "content": [
+          {
+            "title": "Najwi\u0119kszy ranking Polskich Influencer\u00f3w by DDOB - Instagram, TikTok, Youtube",
+            "url": "https://ddob.com/ranking"
+          },
+          {
+            "title": "Top 1000 Influencers on TikTok in Poland | HypeAuditor TikTok Ranking",
+            "url": "https://hypeauditor.com/top-tiktok-poland/"
+          },
+          {
+            "title": "TikTok i ksi\u0105\u017cki, czyli co to jest booktok? - CZYTAM - Empik Pasje",
+            "url": "https://www.empik.com/pasje/tiktok-i-ksiazki-czyli-co-to-jest-booktok,135027,a"
+          },
+          {
+            "title": "TOP 5 ksi\u0105\u017ckar, kt\u00f3re podbijaj\u0105 polski BookTok - Going. MORE - muzyka, kultura, lifestyle",
+            "url": "https://goingapp.pl/more/booktok-ksiazkary-tiktok/"
+          },
+          {
+            "title": "TikTok - Make Your Day",
+            "url": "https://www.tiktok.com/discover/booktok-poland"
+          },
+          {
+            "title": "Ranking Top 100 - TikTok 2025 w Polsce - sprawd\u017a!",
+            "url": "https://ddob.com/ranking/tik_tok"
+          },
+          {
+            "title": "Ranking influencer\u00f3w ogrodniczych \u2013 TikTok",
+            "url": "https://www.greendea.pl/ranking-influencerow-ogrodniczych-tiktok/"
+          },
+          {
+            "title": "Te ksi\u0105\u017cki zrobi\u0142y furor\u0119 na Tik Toku! Warte rozg\u0142osu? | Aktualno\u015bci | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/ksiazkowe-hity-tiktoka-masz-je-w-swojej-biblioteczce"
+          },
+          {
+            "title": "Booktok czyli ksi\u0105zki, kt\u00f3re zdoby\u0142y popularno\u015b\u0107 na TikToku. 5 pozycji idealnych na wakacje - ESKA.pl",
+            "url": "https://www.eska.pl/news/booktok-czyli-ksiazki-ktore-zdobyly-popularnosc-na-tiktoku-5-pozycji-idealnych-na-wakacje-aa-SQ8j-ih7n-oyQD.html"
+          },
+          {
+            "title": "Najwi\u0119ksi Polscy influencerzy. Poznaj 20 najpopularniejszych Polskich tw\u00f3rc\u00f3w. [2025] - Influently | Influencer Marketing | Agencja Influencer Marketingu",
+            "url": "https://influently.pl/najwieksi-polscy-influencerzy-poznaj-20-najpopularniejszych-polskich-tworcow-2025/"
+          }
+        ]
+      },
+      "Based on the search results, I found limited information specifically about Hobbit/Tolkien content among Polish youth on TikTok and Instagram. Here's what I discovered:\n\n## BookTok in Poland\n\nBookTok (the book-focused part of TikTok) has created a space for book readers to discuss literature and promote reading, particularly among teenagers and young people who eagerly reach for Young Adult literature. BookTok is a source of various reading inspirations and recommendations.\n\n## Polish BookTok Influencers\n\nThe search results highlight several popular Polish BookTokers:\n\n1. **@antek_czyta** - Creates content combining books with fashion outfits\n2. **@maremolly17** - Known for her hypnotizing voice when recommending books\n3. **@come.book** (Karolina) - The most active booktoker on Polish TikTok\n4. **@bookovicz** (Maks) - Known as the most queer-friendly booktok, recommending LGBTQ+ stories\n\n## Popular Books on BookTok\n\nThe most popular BookTok titles include series like \"A Court of Thorns and Roses\" by Sarah J. Maas, \"The Song of Achilles\" by Madeline Miller, \"The Cruel Prince\" by Holly Black, and the \"Six of Crows\" series by Leigh Bardugo.\n\nHowever, the search results did not reveal specific information about Hobbit or Tolkien content being popular among Polish youth on these platforms. The BookTok community in Poland appears to focus more on contemporary Young Adult and New Adult fiction rather than classic fantasy literature like Tolkien's works."
+    ],
+    "durationSeconds": 21.48334536800021
+  }
+}

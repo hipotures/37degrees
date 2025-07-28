@@ -1,0 +1,109 @@
+{
+  "session_id": "7ca65eb2-e5d0-4143-8931-90f15001b62e",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7ca65eb2-e5d0-4143-8931-90f15001b62e.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Anna Karenina 2012 Keira Knightley box office numbers worldwide earnings detailed"
+  },
+  "tool_response": {
+    "query": "Anna Karenina 2012 Keira Knightley box office numbers worldwide earnings detailed",
+    "results": [
+      "I'll search for detailed box office information about the 2012 Anna Karenina film starring Keira Knightley.",
+      {
+        "tool_use_id": "srvtoolu_01XjMydJhaqK28yWy44ynzki",
+        "content": [
+          {
+            "title": "Anna Karenina (2012 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Anna_Karenina_(2012_film)"
+          },
+          {
+            "title": "Anna Karenina (2012) | Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/m/anna_karenina_2012"
+          },
+          {
+            "title": "Anna Karenina (2012) \u2b50 6.6 | Drama, Romance",
+            "url": "https://www.imdb.com/title/tt1781769/"
+          },
+          {
+            "title": "The Joe Wright and Keira Knightley Team-Up That Deserves More Attention",
+            "url": "https://collider.com/joe-wright-keira-knightley-anna-karenina/"
+          },
+          {
+            "title": "Anna Karenina (2012) - Financial Information",
+            "url": "https://www.the-numbers.com/movie/Anna-Karenina-(2012)"
+          },
+          {
+            "title": "Anna Karenina (2012) - News - IMDb",
+            "url": "https://www.imdb.com/title/tt1781769/news/"
+          },
+          {
+            "title": "Specialty Box Office: 'Silver Linings' and 'Anna Karenina' Debut To Strong But Unspectacular Numbers",
+            "url": "https://www.indiewire.com/2012/11/specialty-box-office-silver-linings-and-anna-karenina-debut-to-strong-but-unspectacular-numbers-43323/"
+          },
+          {
+            "title": "Watch Anna Karenina | Netflix",
+            "url": "https://www.netflix.com/title/70243443"
+          },
+          {
+            "title": "Watch Anna Karenina | Prime Video",
+            "url": "https://www.amazon.com/Anna-Karenina-Keira-Knightley/dp/B00B2QA646"
+          },
+          {
+            "title": "Amazon.com: Anna Karenina [DVD] : Keira Knightley, Jude Law, Aaron Taylor-Johnson, Kelly Macdonald, Matthew Macfadyen, Domhnall Gleeson, Ruth Wilson, Alicia Vikander, Olivia Williams, Emily Watson, Tim Bevan, Eric Fellner, Paul Webster, Joe Wright: Movies & TV",
+            "url": "https://www.amazon.com/Anna-Karenina-Keira-Knightley/dp/B008220C38"
+          }
+        ]
+      },
+      "Let me search for more specific box office data with a different query to get more detailed earnings information.",
+      {
+        "tool_use_id": "srvtoolu_017nz8tr6rhYBqVY8NUaQQe3",
+        "content": [
+          {
+            "title": "Anna Karenina (2012 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Anna_Karenina_(2012_film)"
+          },
+          {
+            "title": "Anna Karenina (2012) - Financial Information",
+            "url": "https://www.the-numbers.com/movie/Anna-Karenina-(2012)"
+          },
+          {
+            "title": "Anna Karenina (2012) | Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/m/anna_karenina_2012"
+          },
+          {
+            "title": "Anna Karenina (2012) | Total Movies Wiki | Fandom",
+            "url": "https://total-movies.fandom.com/wiki/Anna_Karenina_(2012)"
+          },
+          {
+            "title": "Anna Karenina - Box Office Mojo",
+            "url": "https://www.boxofficemojo.com/release/rl742557185/"
+          },
+          {
+            "title": "Anna Karenina - U.S. Box Office - Funrahi",
+            "url": "https://www.funrahi.com/boxoffice/h/anna-karenina/"
+          },
+          {
+            "title": "Anna Karenina | Universal Studios Wiki | Fandom",
+            "url": "https://universalstudios.fandom.com/wiki/Anna_Karenina"
+          },
+          {
+            "title": "Anna Karenina (2012) \u2b50 6.6 | Drama, Romance",
+            "url": "https://www.imdb.com/title/tt1781769/"
+          },
+          {
+            "title": "Jude Law in 'Anna Karenina' does well at box office as 'Breaking Dawn' breaks records - CSMonitor.com",
+            "url": "https://www.csmonitor.com/The-Culture/2012/1126/Jude-Law-in-Anna-Karenina-does-well-at-box-office-as-Breaking-Dawn-breaks-records"
+          },
+          {
+            "title": "Box Office: Movie - Anna Karenina - 2012",
+            "url": "https://elcinema.com/en/work/2005032/boxoffice"
+          }
+        ]
+      },
+      "Based on my search results, I can provide you with detailed box office information for the 2012 film \"Anna Karenina\" starring Keira Knightley:\n\n## Box Office Performance\n\n### Worldwide Gross\nAnna Karenina earned a worldwide gross of approximately $69 million, mostly from its international run.\n\n### Box Office vs Budget\nThis film only made a $68.9 million box office gross worldwide against a $40.6 million budget, making it a modest commercial performer rather than a major box office success.\n\n### Opening Weekend Performance\nThe film had a limited release strategy:\n- Anna Karenina opened with an average of $20,043, playing in 16 theaters\n- It ended up grossing $315,395 for a very respectable $19,712 per-theater-average\n- Keira Knightley's period drama \"Anna Karenina\" also started well in limited release with $315,395 in 16 theaters, for an average of $19,712\n\n### Expansion Performance\n- Anna Karenina expanded from 16 theaters to 66 earning an average of $13,580\n\n### Commercial Assessment\nAnna Karenina earned a worldwide gross of approximately $69 million, mostly from its international run, which was considered a mediocre but decent commercial speciality success. The film's performance was characterized as good but not great for a limited release, especially given the competitive marketplace at the time.\n\n### Release Dates\n- It was released on 7 September 2012 in the United Kingdom and on 16 November 2012 in the United States\n\nThe film's box office performance was considered disappointing relative to director Joe Wright's previous collaborations with Keira Knightley, particularly when compared to \"Atonement,\" Wright's last teamup with Knightley averaged on 32 screens back in 2007 with a higher per-theater average of $24,504.\n\nWhile the film earned critical acclaim for its visual style and performances, particularly costume design (which won an Academy Award), its theatrical earnings were modest, with most of its revenue coming from international markets rather than domestic (U.S.) box office."
+    ],
+    "durationSeconds": 31.208293058000038
+  }
+}

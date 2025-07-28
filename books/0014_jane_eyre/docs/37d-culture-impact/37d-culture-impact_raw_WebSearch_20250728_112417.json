@@ -1,0 +1,63 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Jane Eyre modern retellings YA adaptations young adult novels graphic novels contemporary versions"
+  },
+  "tool_response": {
+    "query": "Jane Eyre modern retellings YA adaptations young adult novels graphic novels contemporary versions",
+    "results": [
+      "I'll search for information about modern Young Adult retellings and adaptations of Jane Eyre, including graphic novels and contemporary versions.",
+      {
+        "tool_use_id": "srvtoolu_015bgkBrhvkdygC7iDQkbuP4",
+        "content": [
+          {
+            "title": "16 JANE EYRE Retellings | Book Riot",
+            "url": "https://bookriot.com/jane-eyre-retellings/"
+          },
+          {
+            "title": "Adaptations of Jane Eyre - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Adaptations_of_Jane_Eyre"
+          },
+          {
+            "title": "11 Novels Inspired By 'Jane Eyre' To Pick Up Instead Of Re-Reading Charlotte Bronte's Classic For The Tenth Time",
+            "url": "https://www.bustle.com/p/11-novels-inspired-by-jane-eyre-to-pick-up-instead-of-re-reading-charlotte-brontes-classic-for-the-tenth-time-11951930"
+          },
+          {
+            "title": "Our Favorite Jane Eyre Retellings Across Genres and Formats - Quirk Books",
+            "url": "https://www.quirkbooks.com/our-favorite-jane-eyre-retellings-across-genres-and-formats/"
+          },
+          {
+            "title": "The Rise and Fall of Jane: A Selkie Romance - Kindle edition by Garrett, Corrie. Paranormal Romance Kindle eBooks @ Amazon.com.",
+            "url": "https://www.amazon.com/Rise-Fall-Jane-Modern-Retelling-ebook/dp/B078PBLDT7"
+          },
+          {
+            "title": "Anne, Emma, Jo, Lizzy, Jane, Alice: Contemporary Retellings of Classic Novels | The New York Public Library",
+            "url": "https://www.nypl.org/blog/2021/08/10/contemporary-retellings-classic-novels"
+          },
+          {
+            "title": "Sequels, Prequels, Spin-Offs, and Retellings of \"Jane Eyre\" - Owlcation",
+            "url": "https://owlcation.com/humanities/Jane-Eyre-Sequels-Prequels-Spin-Offs-and-Retellings"
+          },
+          {
+            "title": "Retelling 'Jane Eyre:' A Modern Y.A. Story | Newswise",
+            "url": "https://www.newswise.com/articles/retelling-jane-eyre-a-modern-y-a-story"
+          },
+          {
+            "title": "The Eyre Guide : Top 5 Jane Eyre Book Retellings",
+            "url": "https://eyreguide.com/post/175231257336/top-5-jane-eyre-book-retellings"
+          },
+          {
+            "title": "Modern Retellings of Jane Eyre | Readers Lane",
+            "url": "https://www.readerslane.com/top-ten-lists/8-modern-retellings-of-jane-eyre/"
+          }
+        ]
+      },
+      "Based on my search results, I've found extensive information about modern Young Adult (YA) retellings and adaptations of Jane Eyre, including graphic novels and contemporary versions. Here's a comprehensive overview:\n\n## Popular YA Retellings and Contemporary Adaptations:\n\n### Contemporary YA Novels:\n\n1. **\"Jane\" by April Lindner (2010)** - A contemporary YA retelling where Jane Moore becomes a nanny for rock star Nico Rathburn, updating the classic romance for modern teen readers.\n\n2. **\"Re Jane\" by Patricia Park (2015)** - Features a Korean-American protagonist, Jane Re, from Queens who becomes an au pair in Brooklyn, encountering a complicated situation with her employer Ed.\n\n3. **\"My Plain Jane\" by Cynthia Hand, Brodi Ashton, and Jodie Meadows (2018)** - A YA historical fantasy novel where Jane is recruited by a ghost-hunting agency.\n\n4. **\"Brightly Burning\" by Alexa Donne (2018)** - A YA romantic mystery retelling set in space.\n\n5. **\"Jane Steele\" by Lyndsay Faye (2016)** - A reimagining where Jane is a serial killer who still follows a similar path to the original story.\n\n6. A contemporary retelling featuring Janie, a surfer girl sent to live with the elite Rochester family in San Francisco, complete with mysterious noises from the attic.\n\n### Graphic Novel Adaptations:\n\n1. **\"Jane\" by Aline Brosh McKenna and Ramon K. Perez (2017)** - Published by Boom! Studios, this graphic novel sets the story in modern-day New York City, with Jane as an art student working as a nanny in Manhattan.\n\n2. **Manga Adaptation by Crystal S. Chan (2016)** - Published by Manga Classics Inc., with artwork by Sunneko Lee.\n\n3. A contemporary graphic novel retelling where Jane attends art school in New York City.\n\n### Other Notable Retellings:\n\n1. An Ethiopian-inspired fantasy novel featuring Andromeda as an exorcist hired by Rochester to cleanse his house of the Evil Eye.\n\n2. A YA retelling that portrays Rochester as the villain, featuring a queer romance between Jane and Bertha.\n\n3. **\"Ironskin\" by Tina Connolly** - A fantasy retelling mixing elements of Jane Eyre with Beauty and the Beast, steampunk, and fantasy, where Jane wears an iron mask to contain a fairy curse.\n\n4. **\"The Wife Upstairs\" by Rachel Hawkins** - A contemporary thriller set in Birmingham, Alabama, where Jane is a dog walker who meets Eddie Rochester.\n\n5. A board book version of Jane Eyre for young children with soft felt illustrations and simple words.\n\n### Fantasy and Paranormal Variations:\n\n1. **\"Jane Slayre\" by Sherri Browning Erwin (2010)** - Similar to Pride and Prejudice and Zombies, this features Jane battling vampires alongside the original story events.\n\n2. **\"Dark Companion\" by Marta Acosta** - A paranormal gothic romance for readers who wished Jane Eyre could be more like Twilight, featuring Jane Williams at Birch Grove Academy.\n\n3. **\"The Rise and Fall of Jane\" by Corrie Garrett** - A modern selkie romance retelling with fantastical elements where characters have connections to animals.\n\n### Collections and Related Works:\n\n1. **\"Reader, I Married Him\"** - A collection of twenty short stories inspired by Jane Eyre's famous line.\n\n2. **\"The Eyre Affair\" by Jasper Fforde** - Features literary detective Thursday Next who must jump into Jane Eyre when Jane goes missing from her own novel.\n\nThese retellings span multiple genres and formats, from straightforward contemporary adaptations to fantasy reimaginings, graphic novels, and even space-set versions. Many take creative liberties with the original story while maintaining its core themes, and some specifically address problematic elements of the original by reimagining Rochester as a villain or exploring different character perspectives."
+    ],
+    "durationSeconds": 45.4793668450003
+  }
+}

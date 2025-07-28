@@ -1,0 +1,63 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Rochester problematic boyfriend red flags Jane Eyre toxic relationship Gen Z dating modern relationships"
+  },
+  "tool_response": {
+    "query": "Rochester problematic boyfriend red flags Jane Eyre toxic relationship Gen Z dating modern relationships",
+    "results": [
+      "I'll search for information about Rochester's problematic behaviors in Jane Eyre and how they relate to modern relationship red flags and Gen Z dating perspectives.",
+      {
+        "tool_use_id": "srvtoolu_01Ky3KtJcobkaEAMXAEwaHgi",
+        "content": [
+          {
+            "title": "Sorry, but Jane Eyre Isn't the Romance You Want It to Be - JSTOR Daily",
+            "url": "https://daily.jstor.org/sorry-but-jane-eyre-isnt-the-perfect-romance-you-want-it-to-be/"
+          },
+          {
+            "title": "Jane Eyre - Rochester: Yay or Nay? Showing 551-600 of 602",
+            "url": "https://www.goodreads.com/topic/show/559124-rochester-yay-or-nay?page=12"
+          },
+          {
+            "title": "Why Does Jane Eyre Fall In Love with Mr. Rochester in the First Place? | by Brya Bromfield | Medium",
+            "url": "https://brya-bromfield.medium.com/why-does-jane-eyre-fall-in-love-with-mr-rochester-in-the-first-place-de8432f9d1fa"
+          },
+          {
+            "title": "Would I Date a 30-Year-Old? | the quiet voice",
+            "url": "https://thequietvoice18.wordpress.com/2013/08/16/would-i-date-a-30-year-old/"
+          },
+          {
+            "title": "in defense of Edward Rochester. \u2013 THE CAFFEINATED FANGIRL",
+            "url": "https://evaschon.wordpress.com/2022/01/01/in-defense-of-edward-rochester/"
+          },
+          {
+            "title": "Jane Eyre - Why didn't Mr Rochester defend Jane from Blanche Ingram's insults? Showing 51-68 of 68",
+            "url": "https://www.goodreads.com/topic/show/1488237-why-didn-t-mr-rochester-defend-jane-from-blanche-ingram-s-insults?page=2"
+          },
+          {
+            "title": "Gen Z and situationships: The new type of relationship everyone\u2019s doing, but no one wants.",
+            "url": "https://slate.com/life/2024/11/gen-z-situationship-relationship-dating-risk-ghosting-chappell-roan.html"
+          },
+          {
+            "title": "The Eyre Guide : Rochester, Bertha and Passion",
+            "url": "https://eyreguide.com/post/177016338475/rochester-bertha-and-passion"
+          },
+          {
+            "title": "Jane Eyre and Mr. Rochester \u2013 A Timeless Love Story #TBRChallenge #Bookchatter",
+            "url": "https://www.sin-plypretty.com/lifestyle/jane-eyre-and-mr-rochester-a-timeless-love-story-tbrchallenge-bookchatter/"
+          },
+          {
+            "title": "Modern Sensibilities in Jane Eyre \u2013 The Greene Street Review",
+            "url": "https://wp.nyu.edu/greenestreetreview/2022/12/20/modern-sensibilities-in-jane-eyre/"
+          }
+        ]
+      },
+      "Based on the search results, I can see fascinating discussions about how Rochester from Jane Eyre is viewed through modern relationship perspectives, particularly regarding toxic behaviors and red flags that resonate with Gen Z dating concerns.\n\n## Rochester's Problematic Behaviors as Modern Red Flags\n\nEven before he copped to his attic-bound madwoman of a wife, Rochester made it clear that he wanted to own Jane. As his wife, she would have been his concubine: a petted plaything, but not an equal. Several critics and readers identify numerous behaviors that would be considered major red flags in modern dating:\n\n**Deception and Manipulation**: This is where Rochester dresses up as a gypsy and tries to get information out of Jane about how she feels about him. He tries to make her jealous by telling her he will marry the rich Miss Ingram. Yeah, sounds like a real healthy relationship.\n\n**Power Imbalance**: Mrs. Fairfax says, \"Equality of position and fortune is often advisable in such cases; and there are twenty years of difference in your ages. He might almost be your father.\" This quote is interesting because significant age gaps were not as controversial back then as they are now. By having the elderly housekeeper mention the age difference between the two lovers, \"Jane Eyre\" is mindful of how those two are not on equal footing. Mr. Rochester is nearly 40 years old, while Jane is 19 years old throughout the plot\n\n**Control and Possessiveness**: Rochester was somewhat of a libertine with women, which would make us cringe today, but within that backwards Victorian patriarchal society in which women were viewed as second class citizens to men, there was little to no proper treatment or therapy for people with mental health issues, most people didn't fully understand what all the red flags of abuse were in relationships, men were allowed to get away with sexually harassing/seducing women\n\n## Modern Readers' Perspectives\n\nContemporary readers, especially younger ones, view Rochester's behavior quite critically. Rochester could be controlling, deceptive, delusional, entitled, manipulative, moody, and, at worst, engage in some behaviors with Jane that would be considered borderline sexual harassment/sexual coercion in the modern day era of #Me2(no content)Being older and looking deeper into the characters though, I finally see what a disaster this guy is. Why now? Probably because when I thought Rochester was a good guy, I was about Jane's age, which makes me wonder how their marriage panned out after the first few years once she turned 25. I hope Ferndean Manor doesn't have an attic.\n\n## Gen Z Dating Parallels\n\nThe search results reveal interesting parallels between Rochester's behavior and modern dating issues:\n\nNo generation has been this afraid to take risks in love. Situationships enable all manner of antisocial behavior. If someone was never really your girlfriend or boyfriend, many young people believe you don't owe them the satisfaction of a face-to-face conversation explaining why you don't want to see them anymore. Breaking up with a girlfriend of several months over text or ghosting is cruel. But in a situationship, the etiquette is much less defined.(no content)Maria Pattison, a 23-year-old recent college graduate, told me. \"People definitely now have this horrible habit of ironic distance, and not wanting to be the person to 'catch feelings' first, because that implies a level of vulnerability\"\n\n## The Debate Over Rochester's Redemption\n\nThere's significant debate about whether Rochester's eventual redemption makes the relationship acceptable:\n\n**Critics argue**: The book is a \"patriarchal love fantasy,\" writes the literary scholar Jean Wyatt in an essay tellingly named \"A Patriarch of One's Own.\" For Wyatt, Jane Eyre is an expression of \"defiant autonomy\" that nonetheless gives in to a damaging fusion with a damaging man. Jane's eventual marriage to her \"strong oak of a man\" dupes readers, Wyatt suggests: The apparently revolutionary nature of Jane's egalitarian marriage allows an old fantasy to get by the ideological censors of her readers\n\n**Defenders point out**: Those reels judge and condemn Rochester for his sins, while neglecting to acknowledge his remorse, repentance, and redemption. Rochester's repentance is not something he faked so that he could marry Jane. When he repented and began to turn to God, he had no hope of ever meeting Jane again. Rochester's repentance was true and heartfelt, his redemption brought about not by his own striving but by God's forgiveness and aid.\n\n## Modern Relationship Standards\n\nLooking at Jane Eyre with modern eyes has both its benefits and drawbacks. One benefit is that we are able to more clearly examine Rochester's toxic behavior, gaslighting, etc. and draw attention to how wrong those actions are. Bad behaviors that were perhaps more readily ignored in relationships back in the day are not as easily tolerated now. And that's a good thing!\n\nThe discussions reveal how Rochester embodies many behaviors that modern dating advice would flag as toxic: deception, manipulation, power imbalances, possessiveness, and emotional unavailability. These parallel contemporary concerns about \"situationships,\" fear of vulnerability, and unhealthy relationship dynamics that Gen Z particularly struggles with. While some readers defend Rochester's ultimate redemption, many modern readers find it difficult to overlook his problematic behaviors, viewing them through the lens of contemporary relationship standards and awareness of emotional abuse."
+    ],
+    "durationSeconds": 58.025585040000266
+  }
+}

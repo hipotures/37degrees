@@ -1,0 +1,63 @@
+{
+  "session_id": "b8c17c71-efc6-4c19-9b68-e101c36de9c9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b8c17c71-efc6-4c19-9b68-e101c36de9c9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "1984 sales spike Edward Snowden NSA revelations 2013 book sales increase surveillance"
+  },
+  "tool_response": {
+    "query": "1984 sales spike Edward Snowden NSA revelations 2013 book sales increase surveillance",
+    "results": [
+      "I'll search for information about the sales spike of George Orwell's \"1984\" following Edward Snowden's NSA revelations in 2013.",
+      {
+        "tool_use_id": "srvtoolu_01HK5Y3Wx2p32dKhuUgDNE1b",
+        "content": [
+          {
+            "title": "Sales of Orwell's '1984' spike after NSA leak",
+            "url": "https://money.cnn.com/2013/06/12/news/1984-nsa-snowden/"
+          },
+          {
+            "title": "Edward Snowden, the NSA, and Mass Surveillance",
+            "url": "https://teachdemocracy.org/images/pdf/gates/snowden_nsa.pdf"
+          },
+          {
+            "title": "NSA revelations trigger a spike in '1984' sales - CSMonitor.com",
+            "url": "https://www.csmonitor.com/Books/chapter-and-verse/2013/0611/NSA-revelations-trigger-a-spike-in-1984-sales"
+          },
+          {
+            "title": "The case of Edward Snowden - National Whistleblower Center",
+            "url": "https://www.whistleblowers.org/news/the-case-of-edward-snowden/"
+          },
+          {
+            "title": "'1984' book sales surge on NSA spy scandal - CSMonitor.com",
+            "url": "https://www.csmonitor.com/Books/Latest-News-Wires/2013/0613/1984-book-sales-surge-on-NSA-spy-scandal"
+          },
+          {
+            "title": "Book News: Sales Of Orwell's '1984' Spike After NSA Revelations : The Two-Way : NPR",
+            "url": "https://www.npr.org/sections/thetwo-way/2013/06/11/190615813/book-news-sales-of-orwell-s-1984-leap-after-nsa-revelations"
+          },
+          {
+            "title": "Edward Snowden - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Edward_Snowden"
+          },
+          {
+            "title": "Sales of Orwell\u2019s \u20181984\u2019 spike after NSA surveillance revelations - The Washington Post",
+            "url": "https://www.washingtonpost.com/news/federal-eye/wp/2013/06/12/sales-of-orwells-1984-spike-after-nsa-surveillance-revelations/?variant=bacbca59707f74b0"
+          },
+          {
+            "title": "House Intelligence Committee Review of Edward Snowden ...",
+            "url": "https://intelligence.house.gov/uploadedfiles/snowden_report_highlights.pdf"
+          },
+          {
+            "title": "Opinion: We\u2019re living \u20181984\u2019 today | CNN",
+            "url": "https://edition.cnn.com/2013/08/03/opinion/beale-1984-now/index.html"
+          }
+        ]
+      },
+      "The search results clearly show that George Orwell's \"1984\" experienced a dramatic sales spike following Edward Snowden's NSA revelations in 2013. Here are the key findings:\n\n## Sales Surge Details\n\nOne edition of \"1984\" saw sales jump by almost 10,000% on Amazon, making it the third hottest book on Amazon after the revelations. The edition with a foreword by Thomas Pynchon rose to rank 123 overall on the site, up from 11,855.\n\nAccording to NPR, Amazon sales of Orwell's \"1984\" surged 6,021 percent in just 24 hours following the NSA surveillance news. As of June 11, 2013, the book had jumped to No. 213 on Amazon's bestseller list.\n\n## Multiple Editions Affected\n\nThe sales surge wasn't limited to a single edition:\n- A later edition with new cover art rose to 181 on the site from 626\n- A bundled version that includes Orwell's \"Animal Farm\" jumped 191% to a sales rank of 225\n- Several editions of the book appeared on Amazon's \"Movers and Shakers\" list\n\n## Context and Timing\n\nThe sales spike occurred immediately after Snowden revealed the existence of previously classified mass intelligence-gathering surveillance programs run by the U.S. National Security Agency (NSA) in June 2013. Sales for dystopian classics such as George Orwell's \"1984\" and Aldous Huxley's \"Brave New World\" were strong after the news broke.\n\nNews coverage and social media chatter about the NSA's surveillance program was rife with terms like \"Big Brother\" and \"Orwellian\", drawing direct parallels between Orwell's dystopian surveillance state and the NSA's activities.\n\nThe phenomenon reflects how books have long mirrored the social and political affairs of the times, with readers turning to Orwell's cautionary tale about government surveillance when faced with real-world revelations about mass data collection."
+    ],
+    "durationSeconds": 24.590650224000214
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "session_id": "e18f7f1c-5883-41e4-8ef9-15aee4aa266b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e18f7f1c-5883-41e4-8ef9-15aee4aa266b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Gatsby party\" themed events 1920s fashion parties wedding themes luxury lifestyle trends"
+  },
+  "tool_response": {
+    "query": "\"Gatsby party\" themed events 1920s fashion parties wedding themes luxury lifestyle trends",
+    "results": [
+      "I'll search for information about Gatsby-themed parties, 1920s fashion parties, wedding themes, and luxury lifestyle trends.",
+      {
+        "tool_use_id": "srvtoolu_01PFNaE4AXBLfy4M2XSWf7qf",
+        "content": [
+          {
+            "title": "What are Gatsby Parties - We Crush Events",
+            "url": "https://wecrushevents.com/what-are-gatsby-parties/"
+          },
+          {
+            "title": "Gatsby Theme | 1920s Themed Venue Styling",
+            "url": "https://www.juliacharleseventmanagement.co.uk/themed-events/great-gatsby-theme/"
+          },
+          {
+            "title": "How to Throw a Legendary Great Gatsby Themed Party",
+            "url": "https://www.bandsforhire.net/blog/great-gatsby-party"
+          },
+          {
+            "title": "23 Great Gatsby Party Themes & Ideas That Will Take you Back in Time - PartySlate",
+            "url": "https://www.partyslate.com/best-of/great-gatsby-party-themes"
+          },
+          {
+            "title": "Must-Have Outfits For Your Great Gatsby Themed Party - Wardrobeshop \u2013 WardrobeShop",
+            "url": "https://www.wardrobeshop.com/blogs/flapper-era/must-have-outfits-for-your-great-gatsby-themed-party"
+          },
+          {
+            "title": "Great Gatsby Roaring Twenties Party Ideas | Paperless Post",
+            "url": "https://www.paperlesspost.com/blog/great-gatsby-roaring-twenties-party-ideas/"
+          },
+          {
+            "title": "What to Wear: 1920s Roaring Twenties Gatsby Themed Event",
+            "url": "https://vintagedancer.com/1920s/what-to-wear-roaring-twenties/"
+          },
+          {
+            "title": "Party like Gatsby",
+            "url": "https://www.partylikegatsby.eu/"
+          },
+          {
+            "title": "27 Glamorous Great Gatsby Themed Party Ideas for a Roarin' 2025",
+            "url": "https://www.classpop.com/magazine/great-gatsby-themed-party"
+          },
+          {
+            "title": "1920s Flapper Dresses | Great Gatsby Dresses | BABEYOND",
+            "url": "https://www.babeyond.com/collections/1920s-dresses"
+          }
+        ]
+      },
+      "Based on my search results, here's a comprehensive overview of Gatsby-themed parties, 1920s fashion events, wedding themes, and luxury lifestyle trends:\n\n## Gatsby-Themed Events and 1920s Parties\n\nA Gatsby party, also known as a \"Roaring Twenties\" or \"Great Gatsby\" party, is a themed event inspired by the glitz, glamour, and excess of the 1920s, as depicted in F. Scott Fitzgerald's classic novel \"The Great Gatsby.\"(no content)Gatsby parties have become popular for various occasions, including birthdays, weddings, and corporate events, offering a unique and immersive experience for attendees.\n\n### Key Elements of Gatsby Parties\n\n**Fashion and Attire**\n- Attendees typically dress in flapper dresses, fringe, and dapper suits, reflecting the iconic fashion trends of the 1920s.\n- Tuxedos, feathered headbands, and pearl accessories are common attire choices.\n- Masculine guests wear suits in light, bright colours and hues with a fedora or derby hat. Feminine guests might wear a flashy cocktail or flapper-inspired dress with a feathered or beaded headpiece.\n\n**Decor and Design**\n- The decor often features Art Deco elements, characterized by geometric shapes, bold colors, and luxurious materials. Gold and black are popular color schemes, and elaborate centerpieces and backdrops contribute to the overall ambiance.\n- The most popular colour scheme for 1920s-inspired parties is black, gold, and white.\n- The use of luxurious fabrics, vintage d\u00e9cor, and art deco elements creates an ambiance that is both nostalgic and irresistibly elegant.\n\n**Entertainment and Activities**\n- Jazz music or recordings from the 1920s add an authentic touch to the party.\n- Some Gatsby parties incorporate casino games like blackjack and roulette.\n- Photo booths with 1920s-themed props and backdrops provide a fun and memorable activity for guests to capture the essence of the party.\n\n## Venue and Setting Options\n\nYour best bet is to host it at a large estate or palatial event hall that evokes the Gold Coast aesthetic. If possible, choose a building in the Art Deco architectural style that was popular during Gatsby's heyday.(no content)Remember that Gatsby threw his legendary bashes outside in his garden. If your party is in the summertime, consider making it an authentic pool party. An in-ground swimming pool in a lovely natural setting will reflect the celebrations in the book and film.\n\n## Corporate and Wedding Applications\n\nA Gatsby themed party is suitable for all event types from Gala dinners to corporate Christmas celebrations.(no content)A 1920s theme party is a particularly popular choice for corporate Christmas parties. For the Glitz and Glamour, we find our 1920s theming especially popular for Gala Dinners!\n\n## Cocktails and Refreshments\n\nClassic drinks like the Old Fashioned, Gin Rickey, and Mint Julep are often served. Champagne towers and stylish cocktail bars add to the sophistication of the event.(no content)To lean into the speakeasy inspiration, place your bar in a separate room and require a password to enter.\n\n## Modern Luxury Lifestyle Trends\n\nThe Gatsby theme continues to resonate in modern luxury events because:\n- With the 1920s era being 100 years ago, the famous Great Gatsby Theme is making a glorious comeback through events and we couldn't be more excited about it!\n- Riding on the high wave of the post-war economic boom, Americans spared no expenses when it came to leading larger-than-life lifestyles. The Great Gatsby tells the story of one such man, in turn capturing the essence of the times. The fashion of the Roaring Twenties embodied this dynamism of the socio-cultural changes: it was unapologetic, lascivious, and oozed opulent glamor in as many ways as it was conceivable.\n\nThese themed events offer a perfect blend of nostalgia, luxury, and entertainment that appeals to modern partygoers seeking unique and immersive experiences. Whether for weddings, corporate events, or private celebrations, the Gatsby theme provides a sophisticated framework for creating memorable occasions that transport guests to an era of unbridled glamour and excitement."
+    ],
+    "durationSeconds": 47.759581753999925
+  }
+}

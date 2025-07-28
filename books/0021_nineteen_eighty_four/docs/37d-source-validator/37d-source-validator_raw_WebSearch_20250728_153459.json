@@ -1,0 +1,73 @@
+{
+  "session_id": "b8c17c71-efc6-4c19-9b68-e101c36de9c9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b8c17c71-efc6-4c19-9b68-e101c36de9c9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Polish translation \"Rok 1984\" Juliusz Mieroszewski 1953 Paris Instytut Literacki banned communist Poland"
+  },
+  "tool_response": {
+    "query": "Polish translation \"Rok 1984\" Juliusz Mieroszewski 1953 Paris Instytut Literacki banned communist Poland",
+    "results": [
+      "I'll search for information about the Polish translation of \"1984\" published by Juliusz Mieroszewski in 1953 by the Paris-based Instytut Literacki that was banned in communist Poland.",
+      {
+        "tool_use_id": "srvtoolu_01SYkvFDLeHD6SZEpCQRQrwu",
+        "content": [
+          {
+            "title": "Juliusz Mieroszewski (Translator of Rok 1984)",
+            "url": "https://www.goodreads.com/author/show/6316003.Juliusz_Mieroszewski"
+          }
+        ]
+      },
+      "Let me search for more specific information about this translation and its publication history.",
+      {
+        "tool_use_id": "srvtoolu_016v9D1ZN2FgHn63QrYvBSaH",
+        "content": [
+          {
+            "title": "Rok 1984 \u2013 encyklopediafantastyki.pl",
+            "url": "https://encyklopediafantastyki.pl/index.php?title=Rok_1984"
+          },
+          {
+            "title": "Rok 1984 \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Rok_1984"
+          },
+          {
+            "title": "ORWELL G. - Rok 1984. 1953. Pierwsze polskie wydanie. - Aukcja internetowa / Licytacja online - Cena - OneBid",
+            "url": "https://onebid.pl/pl/ksiazki-i-starodruki-orwell-g-rok-1984-1953-pierwsze-polskie-wydanie/1582982"
+          },
+          {
+            "title": "George Orwell, Rok 1984",
+            "url": "https://wolnelektury.pl/katalog/lektura/orwell-rok-1984/"
+          },
+          {
+            "title": "ORWELL- ROK 1984 wyd.1 | Antykwariat internetowy Sobieski",
+            "url": "https://antyksobieski.pl/orwell-rok-1984-wyd-1-18610.html"
+          },
+          {
+            "title": "ORWELL- ROK 1984 drugi obieg | Antykwariat internetowy Sobieski",
+            "url": "https://antyksobieski.pl/orwell-rok-1984-i-wyd-9396.html"
+          },
+          {
+            "title": "Rok 1984 \u2013 opracowanie \u2013 George Orwell \u2013 poezja.org",
+            "url": "https://poezja.org/wz/zbior/Rok_1984/"
+          },
+          {
+            "title": "\"Rok 1984\", czyli orwellowska przepowiednia - Historia - PR24.PL",
+            "url": "https://polskieradio24.pl/artykul/1144186,rok-1984-czyli-orwellowska-przepowiednia"
+          },
+          {
+            "title": "ORWELL G. - Rok 1984. 1953. Pierwsze polskie wydanie.",
+            "url": "https://one.bid/en/ksiazki-i-starodruki-orwell-g-rok-1984-1953-pierwsze-polskie-wydanie/1504474"
+          },
+          {
+            "title": "ORWELL- ROK 1984 wyd.1 - Online auction / Online bidding - Price - OneBid",
+            "url": "https://one.bid/en/ksiazki-i-starodruki-orwell-rok-1984-wyd-1/1294375"
+          }
+        ]
+      },
+      "Based on my search results, I found comprehensive information about the Polish translation of George Orwell's \"1984\" (\"Rok 1984\") by Juliusz Mieroszewski published in 1953 by the Paris-based Instytut Literacki:\n\n## Key findings:\n\n**Translation and Publication Details:**\n- The first Polish translation by Juliusz Mieroszewski was published in exile at the Instytut Literacki in Paris in 1953\n- The book was titled \"1984. Powie\u015b\u0107\" (1984. A Novel), translated from English by Juliusz Mieroszewski, published in Paris 1953 by Instytut Literacki\n- It was published as part of the \"Biblioteka 'Kultury'\" (Culture Library) series, volume 2\n\n**Censorship and Ban in Communist Poland:**\n- Until the fall of the communist system in Poland (1989), this novel was banned by censorship\n- In the People's Republic of Poland (PRL), \"1984\" was banned by censorship, and the first Polish translation by Juliusz Mieroszewski published in Paris in 1953\n- Since \"1984\" openly criticized the communist system, the book was banned in Poland until 1989\n\n**Underground Circulation:**\n- From 1980, however, it was published as reprints of the Paris edition in independent publishing houses - the so-called \"second circulation\"\n- Until that time, it functioned in the so-called \"second circulation\"\n\n**First Official Polish Edition:**\n- The first official edition (PIW) was in 1988\n- It was officially published for the first time only in 1988\n\n**Physical Description:**\n- The book was 16d format, 254 pages, [1]\n- On the pre-title page: \"Rok tysi\u0105c dziewi\u0119\u0107set osiemdziesi\u0105ty czwarty\" (The year one thousand nine hundred and eighty-four)\n\nThis translation was historically significant as the first Polish edition of Orwell's visionary book, and it played an important role in Polish intellectual resistance against communist censorship, circulating underground for decades before being officially published."
+    ],
+    "durationSeconds": 28.179375845000614
+  }
+}

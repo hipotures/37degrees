@@ -1,0 +1,63 @@
+{
+  "session_id": "ac25dab5-19ee-43b4-8689-cf24d65d211d",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ac25dab5-19ee-43b4-8689-cf24d65d211d.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Alicja w Krainie Czar\u00f3w\" polskie t\u0142umaczenia Maria Morawska Antoni Marianowicz Robert Stiller"
+  },
+  "tool_response": {
+    "query": "\"Alicja w Krainie Czar\u00f3w\" polskie t\u0142umaczenia Maria Morawska Antoni Marianowicz Robert Stiller",
+    "results": [
+      "I'll search for information about Polish translations of \"Alice in Wonderland\" by Maria Morawska, Antoni Marianowicz, and Robert Stiller.",
+      {
+        "tool_use_id": "srvtoolu_01HWDeprsCM3CZPdVzKpYkVA",
+        "content": [
+          {
+            "title": "Perypetie z przek\u0142adem Alicji | Publicystyka | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/publicystyka/6503/perypetie-z-przekladem-alicji"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w | wydawnictwowam.pl",
+            "url": "https://wydawnictwowam.pl/prod.alicja-w-krainie-czarow.31167.htm"
+          },
+          {
+            "title": "\u201eAlicja w Krainie Czar\u00f3w\u201d \u2013 lista polskich t\u0142umacze\u0144 | Through The Looking Glass....",
+            "url": "https://krainaczarow.wordpress.com/2010/07/25/alicja-w-krainie-czarow-lista-polskich-tlumaczen/"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Alicja_w_Krainie_Czar%C3%B3w"
+          },
+          {
+            "title": "Perypetie z przek\u0142adem Alicji - Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/aktualnosci/publicystyka/6503/perypetie-z-przekladem-alicji"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w - Wydawnictwo MG",
+            "url": "https://wydawnictwomg.pl/alicja-w-krainie-czarow-2/"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w \u2013 encyklopediafantastyki.pl",
+            "url": "https://encyklopediafantastyki.pl/index.php?title=Alicja_w_Krainie_Czar%C3%B3w"
+          },
+          {
+            "title": "Jake wydanie polecacie ,,Alicja w krainie czar\u00f3w. Po drugiej stronie lus... 16.03.2011 - Forum | GRYOnline.pl",
+            "url": "https://www.gry-online.pl/S043.asp?ID=11156414"
+          },
+          {
+            "title": "\u201eAlicja w Krainie Czar\u00f3w\u201d ma ju\u017c 150 lat | Mi\u0119dzy Kotem a Znikotem - Polityka.pl",
+            "url": "https://www.polityka.pl/tygodnikpolityka/kultura/1624087,1,alicja-w-krainie-czarow-ma-juz-150-lat.read"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w - Lewis Carroll | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/4988571/alicja-w-krainie-czarow"
+          }
+        ]
+      },
+      "Based on the search results, I found comprehensive information about Polish translations of \"Alice in Wonderland\" by Maria Morawska, Antoni Marianowicz, and Robert Stiller. Here's what I discovered:\n\n## Maria Morawska (1927)\n\nMaria Morawska created her translation in 1927, which was commissioned by publishers Gebethner and Wolff. The book was titled \"Ala w krainie czar\u00f3w\" (Ala in Wonderland). It was published three times before the war, then in 1947 and 1997.\n\nMorawska's text is generally not faithful to the original (the first edition's title page even stated \"wolny przek\u0142ad z angielskiego\" - free translation from English). The translator often replaces Carroll's text with her own, though the poems translated by Antoni Lange are noteworthy. Maria Morawska definitively changed the Land of Wonders (Kraina Cud\u00f3w) to the Land of Magic (Kraina Czar\u00f3w).\n\n## Antoni Marianowicz (1955)\n\nAntoni Marianowicz, dissatisfied with previous translations, especially the poems, aimed for his 1955 translation to be more directed at children and closer to Polish cultural realities. He replaced Victorian verse parodies with well-known Polish children's rhymes, like \"Pan Kotek by\u0142 chory\" (Mr. Cat was sick). This version was the most frequently reprinted.\n\nHowever, Marianowicz made many errors - starting from the first sentence, where he has Alice sitting on a bench, while in the original it's about a bank. Robert Stiller criticized this translation, stating: \"The work has been trivialized, dumbed down, stripped of the very form, style and thought that make it a masterpiece\". \"Presenting it as Carroll's work is almost profanation\".\n\n## Robert Stiller (1986)\n\nRobert Stiller's 1986 translation is considered by some experts as the best Polish translation. Stiller, convinced that none of the earlier translations captured the spirit and letter of the original, waited 10 years for S\u0142omczy\u0144ski to correct his \"shortcomings\" and \"lack of grace,\" before finally deciding on his own translation.\n\nHis was the first version to include footnotes, explaining nuances that would be missed without detailed knowledge of the Victorian era and the book's genesis. He used the experiences of all previous translations (except Adela S.) and Gardner's Annotated Alice. His translation is also popular, especially the bilingual edition of Alice, though it hasn't managed to surpass S\u0142omczy\u0144ski's translation and Marianowicz's more child-oriented version.\n\nEach translator took a different approach: Morawska created a free adaptation, Marianowicz aimed for a child-friendly version with Polish cultural references, and Stiller sought academic accuracy with extensive annotations to help readers understand the Victorian context and wordplay."
+    ],
+    "durationSeconds": 36.83136850999994
+  }
+}

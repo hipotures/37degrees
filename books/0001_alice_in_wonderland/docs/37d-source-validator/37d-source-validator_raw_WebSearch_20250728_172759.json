@@ -1,0 +1,67 @@
+{
+  "session_id": "e45997b0-1016-4783-9450-979f533f9cbc",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e45997b0-1016-4783-9450-979f533f9cbc.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"45% of young people ages 10-24\" mental health struggles \"past two years\" statistics 2024 2025 youth survey"
+  },
+  "tool_response": {
+    "query": "\"45% of young people ages 10-24\" mental health struggles \"past two years\" statistics 2024 2025 youth survey",
+    "results": [
+      "I'll search for information about mental health statistics for young people ages 10-24, focusing on recent data from 2024-2025.",
+      {
+        "tool_use_id": "srvtoolu_01HKiePdLPQBgVNKNtHxnjmu",
+        "content": []
+      },
+      {
+        "tool_use_id": "srvtoolu_01JnprUa4CDciZh6sdztiRRN",
+        "content": [
+          {
+            "title": "Youth Mental Health Trends in 2025 | JED",
+            "url": "https://jedfoundation.org/what-we-expect-in-2025-new-years-trends-in-youth-mental-health/"
+          },
+          {
+            "title": "Mental Health Statistics [2024] | USAHS",
+            "url": "https://www.usa.edu/blog/mental-health-statistics/"
+          },
+          {
+            "title": "Mental Health By the Numbers | National Alliance on Mental Illness (NAMI)",
+            "url": "https://www.nami.org/about-mental-illness/mental-health-by-the-numbers/"
+          },
+          {
+            "title": "Mental Health Statistics in 2025 | The Zebra",
+            "url": "https://www.thezebra.com/resources/research/mental-health-statistics/"
+          },
+          {
+            "title": "Data and Statistics on Children's Mental Health | Children\u2019s Mental Health | CDC",
+            "url": "https://www.cdc.gov/children-mental-health/data-research/index.html"
+          },
+          {
+            "title": "Children and young people: statistics | Mental Health Foundation",
+            "url": "https://www.mentalhealth.org.uk/explore-mental-health/statistics/children-young-people-statistics"
+          },
+          {
+            "title": "2024 U.S. National Survey on the Mental Health of LGBTQ+ Young People",
+            "url": "https://www.thetrevorproject.org/survey-2024/"
+          },
+          {
+            "title": "CDC Data Show Improvements in Youth Mental Health but Need for Safer and More Supportive Schools | CDC Newsroom",
+            "url": "https://www.cdc.gov/media/releases/2024/p0806-youth-mental-health.html"
+          },
+          {
+            "title": "Mental health statistics 2025 | SingleCare",
+            "url": "https://www.singlecare.com/blog/news/mental-health-statistics/"
+          },
+          {
+            "title": "Mental Health Statistics and Facts (2025)",
+            "url": "https://media.market.us/mental-health-statistics/"
+          }
+        ]
+      },
+      "Based on the search results, I found the specific statistic you were looking for. Here's what the data shows:\n\nIn 2024, 45% of young people ages 10 to 24 reported struggling with their mental health within the past two years, according to the Youth Mental Health Tracker (YMHT), a study released by Surgo Health. This survey also found that a quarter of young people ages 10 to 24 said they did not feel supported by family, and 29% had engaged in or considered self-harm.\n\nThe study reveals additional concerning findings about mental health care access among this age group. A majority of young people ages 10 to 24 who struggled with mental health within the previous two years did not receive the full care they needed \u2014 and a third didn't seek care at all.\n\nDespite these challenges, there are some positive indicators. The YMHT found that 95% of youth ages 10 to 24 believe there are people in their lives who really care about them, 76% feel a sense of belonging with a group such as their friends or school, and 83% express that they are optimistic about their future.\n\nThe research also shows that mental health disparities are particularly pronounced among certain populations. Young people from households experiencing financial difficulties consistently report poorer mental health statuses than their peers without such challenges. Additionally, LGBTQIA+ youth were three times more likely than non-LGBTQIA+ youth to say their mental health was not good over the past 30 days.\n\nThis data comes from recent 2024 research and provides current insight into youth mental health trends in the United States."
+    ],
+    "durationSeconds": 22.497179788999958
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "session_id": "b8c17c71-efc6-4c19-9b68-e101c36de9c9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b8c17c71-efc6-4c19-9b68-e101c36de9c9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "1984 banned book countries censorship political discourse usage totalitarian regimes"
+  },
+  "tool_response": {
+    "query": "1984 banned book countries censorship political discourse usage totalitarian regimes",
+    "results": [
+      "I'll search for information about the book \"1984\" being banned in various countries, its censorship, and its usage in political discourse, particularly in relation to totalitarian regimes.",
+      {
+        "tool_use_id": "srvtoolu_01VEugKjX9T5dng9AjMsQtdc",
+        "content": [
+          {
+            "title": "List of books banned by governments - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/List_of_books_banned_by_governments"
+          },
+          {
+            "title": "1984 | The Censorship Files",
+            "url": "https://thecensorshipfiles.wordpress.com/volume-1/issue-2/a-novel-that-threatened-a-nation/"
+          },
+          {
+            "title": "George Orwell and Recent Censorship - National English Honor Society",
+            "url": "https://nehs.us/nehsmuseletter/george-orwell-and-recent-censorship/"
+          },
+          {
+            "title": "Nineteen Eighty-Four - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four"
+          },
+          {
+            "title": "The Perplexing History of 13 Banned Books in America",
+            "url": "https://explorethearchive.com/history-of-banned-books"
+          },
+          {
+            "title": "[2023] When Was 1984 Banned? Unveiling the Controversy Surrounding George Orwell\u2019s Masterpiece - Book Summary Review",
+            "url": "https://www.booksummaryreview.com/when-was-1984-banned/"
+          },
+          {
+            "title": "Banned Book of the Month: 1984 \u2014 Charger Press",
+            "url": "https://www.chargerpress.com/home/dctgoaaoos28l8crtz7s033l6jrrt2"
+          },
+          {
+            "title": "Censorship | 1984",
+            "url": "https://1984bygeorgeorwell.wordpress.com/censorship/"
+          },
+          {
+            "title": "Banned Books Week 2025: Censorship Is So 1984 | the American Booksellers Association",
+            "url": "https://www.bookweb.org/news/banned-books-week-2025-censorship-so-1984-1631859"
+          },
+          {
+            "title": "Why is 1984 banned in many countries? - Books that influenced You - Quora",
+            "url": "https://booksthatinfluencedyou.quora.com/Why-is-1984-banned-in-many-countries"
+          }
+        ]
+      },
+      "Based on the search results, here's what I found about George Orwell's \"1984\" being banned in various countries, its censorship, and its usage in political discourse:\n\n## Banning and Censorship History\n\nThe Soviet Union banned \"1984\" as soon as it was published in 1949 due to Orwell's critique of authoritarianism and totalitarianism. Soviet citizens who secretly obtained copies found the book so accurate that they \"could hardly believe 'Orwell' was not a pseudonym of a Soviet dissident\" and felt that \"only a Russian could have written it\". For these individuals, even owning a copy of the book was seen as grounds for imprisonment.\n\nThe Soviet government found the novel's portrayal of a surveillance state and the suppression of independent thought to be highly objectionable. In the 1950s, the Soviet Union changed its approach and claimed through a newspaper called Return to Homeland that \"1984\" was not about Soviet oppression but rather depicted \"the day to day horrors of American life\" and that the subject of Orwell's satire was the Federal Bureau of Investigation.\n\n## Reasons for Banning\n\nThe book has been banned or challenged for various reasons:\n\n1. **Political themes**: 1984 is banned due to its satirical nature towards politics and leaders of government. 1984 can be deemed as almost predictive and philosophical, making many schools wary of allowing it in libraries.\n\n2. **Sexual content**: Its social and political themes were found to be too controversial, and its sexual content was deemed inappropriate. Along with the political nature of the book being frowned upon, 1984 has also been banned for some of the sexual nature of the relationship between Julia and Winston. Many schools find the scenes to be too risque for allowing in schools.\n\n3. **Pro-communist allegations**: In 1981, Jackson County, Florida challenged the book for being pro-communism. Considering large portions of the text are not only anti-communist but in fact anti-government all together, this challenge seems like a bit of a stretch. Furthermore, the book was based on the very real political climate of Nazi Germany and Stalinist Russia, warning against the totalitarianism that caused so much suffering in those countries.\n\n## Use in Political Discourse\n\nOrwell, a democratic socialist and an anti-Stalinist, modelled an authoritarian socialist Britain on the Soviet Union in the era of Stalinism and the practices of censorship and propaganda in Nazi Germany. More broadly, the novel examines the role of truth and facts within societies and the ways in which they can be manipulated.\n\nIt also popularised the term \"Orwellian\" as an adjective, with many terms used in the novel entering common usage, including \"Big Brother\", \"doublethink\", \"Thought Police\", \"thoughtcrime\", \"Newspeak\". Parallels have been drawn between the novel's subject-matter and real life instances of totalitarianism, mass surveillance, and violations of freedom of expression, among other themes.\n\nOrwell's 1984, as referenced in the meme above, has been repeatedly challenged and banned for its social and political themes, one of which being the dangers of media censorship. While Orwell's dystopian society seems theoretical to readers, its message against media censorship is quite real.\n\n## Current Status\n\nContrary to popular belief, 1984 was not officially banned in the United States. Although the novel faced scrutiny and occasional efforts to ban it in certain school districts, it has never been outlawed at the national level. Instead, \"1984\" is widely regarded as a classic work of literature and is included in many academic curricula.\n\nDespite the banning in certain regions, \"1984\" remains widely read and highly influential worldwide. The novel has been translated into numerous languages and continues to resonate with readers.\n\nCurrent efforts to ban books and information held in schools, libraries, archives, and bookstores are a truth close to fiction \u2014 namely, the depiction of extreme censorship by an oppressive regime in George Orwell's cautionary and prescient tale 1984. The Banned Books Week 2025 theme reminds us that the right to read belongs to all of us, that censorship has no place in contemporary society, and that we must defend our rights.\n\nThe irony of censoring \"1984\" is particularly notable, as 1984 depicts the censorship of literature and film found in Oceania, and how it has created a downfall of the book's society, which is what makes it so ironic that 1984 is being censored."
+    ],
+    "durationSeconds": 47.818062748000024
+  }
+}

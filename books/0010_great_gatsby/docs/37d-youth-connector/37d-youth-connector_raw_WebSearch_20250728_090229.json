@@ -1,0 +1,63 @@
+{
+  "session_id": "e18f7f1c-5883-41e4-8ef9-15aee4aa266b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e18f7f1c-5883-41e4-8ef9-15aee4aa266b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Great Gatsby\" American Dream Gen Z financial realities student debt wealth inequality 2024 economic anxiety"
+  },
+  "tool_response": {
+    "query": "\"Great Gatsby\" American Dream Gen Z financial realities student debt wealth inequality 2024 economic anxiety",
+    "results": [
+      "I'll search for information about how Gen Z relates to the American Dream concept from \"The Great Gatsby\" in the context of their financial realities in 2024.",
+      {
+        "tool_use_id": "srvtoolu_01U8QLuZbanDRMRywZaZjgHc",
+        "content": [
+          {
+            "title": "Jay Gatsby\u2019s American Dream: between inequality and social mobility",
+            "url": "https://www.caixabankresearch.com/en/economics-markets/labour-market-demographics/jay-gatsbys-american-dream-between-inequality-and"
+          },
+          {
+            "title": "The Great Gatsby, Then and Now - Stone Center on Socio-Economic Inequality",
+            "url": "https://stonecenter.gc.cuny.edu/the-great-gatsby-then-and-now/"
+          },
+          {
+            "title": "What is The Great Gatsby Curve? | whitehouse.gov",
+            "url": "https://obamawhitehouse.archives.gov/blog/2013/06/11/what-great-gatsby-curve"
+          },
+          {
+            "title": "What broke the American Dream for Millennials | CNN Business",
+            "url": "https://www.cnn.com/2024/01/19/economy/american-dream-millennials/index.html"
+          },
+          {
+            "title": "the great gatsby's economics of the american dream",
+            "url": "https://scholarworks.calstate.edu/downloads/vm40xv27r"
+          },
+          {
+            "title": "Sliding down the Great Gatsby curve in search of the Scandinavian dream - LSE Inequalities",
+            "url": "https://blogs.lse.ac.uk/inequalities/2024/10/09/sliding-down-the-great-gatsby-curve-in-search-of-the-scandinavian-dream/"
+          },
+          {
+            "title": "The Precarious Promise of Gen Z",
+            "url": "https://johnsoncenter.org/blog/financial-stress-and-philanthropic-influence-the-precarious-promise-of-generation-z/"
+          },
+          {
+            "title": "How to Slide Down the \u2018Great Gatsby Curve\u2019 - Center for American Progress",
+            "url": "https://www.americanprogress.org/article/how-to-slide-down-the-great-gatsby-curve/"
+          },
+          {
+            "title": "Gen Z is full of financial angst despite inheriting a golden labor market | CNN Business",
+            "url": "https://www.cnn.com/2024/04/10/business/gen-zs-financial-angst/index.html"
+          },
+          {
+            "title": "Why Gen Z Is Sinking Deeper Into Debt, Explained - Bloomberg",
+            "url": "https://www.bloomberg.com/news/features/2024-10-31/why-gen-z-is-sinking-deeper-into-debt-explained"
+          }
+        ]
+      },
+      "Based on the search results, I can see how the concept of the American Dream from \"The Great Gatsby\" connects to Gen Z's financial realities in 2024. Here's what the information reveals:\n\n## The Great Gatsby's American Dream vs. Gen Z's Financial Reality\n\n### The \"Great Gatsby Curve\" Connection\n\nThe Great Gatsby Curve illustrates the connection between concentration of wealth in one generation and the ability of those in the next generation to move up the economic ladder compared to their parents. This economic concept, named after F. Scott Fitzgerald's novel, has become increasingly relevant to understanding Gen Z's struggles.\n\nOn the eve of the Great Recession, income inequality in the U.S. was as sharp as it had been at any period since the time of \"The Great Gatsby.\" This parallel between the 1920s and today's economic landscape is particularly significant for Gen Z.\n\n### Gen Z's Financial Challenges in 2024\n\nNow, those aged 18 to 29 are carrying $1.12 trillion of debt, according to the Federal Reserve Bank of New York. While that only makes up 6.3% of the total $17.8 trillion in US consumer debt, it's still a huge burden to carry at an early point in their financial development.(no content)In pursuit of economic security, this generation has pursued higher education with student loan debt \u2014 they are more likely to have loans (36% of older Gen Zers versus 31% of millennials) and to hold higher balances (Gen Zer's median debt value is 14% higher than that of millennials).\n\n### Economic Anxiety and Mental Health Impact\n\nAccording to a 2023 survey from Bankrate, 52% of Gen Zers report that money worries negatively impact their mental health and that their most significant financial concern is being able to pay for everyday expenses.\n\nThe Deloitte Global 2022 Gen Z and Millennial Survey also shows that about one-third of Gen Z respondents worry about the cost of living above all other concerns, 46% live paycheck to paycheck, and over a quarter doubt they'll retire comfortably.\n\n### The \"American Dream is Dead\" Sentiment\n\nLater, he concludes: \"The American Dream is dead.\" This sentiment from a viral TikTok video with 5 million views captures the widespread disillusionment among Gen Z.\n\nWhile older generations passed on the message of the American Dream \u2014 follow your passions, follow your heart, and do whatever you are led to do \u2014 that message has not naturally aligned with their lived experienc[e].\n\n### Wealth Inequality's Impact on Mobility\n\nThe curve shows that children from poor families are less likely to improve their economic status as adults in countries where income inequality was higher \u2013 meaning wealth was concentrated in fewer hands \u2013 around the time those children were growing up.(no content)Higher income inequality leads to less economic mobility and fewer opportunities for future generations, according to new research on the Great Gatsby Curve.\n\n### The Millennial Experience as Context\n\nFor Millennials, hit with two world-altering economic downturns before their 40th birthdays, bad vibes come standard. This experience has shaped Gen Z's outlook, as they witness the struggles of the generation before them.\n\nThe culprits behind the bad vibes are obvious: high prices, an impenetrable housing market, persistent inequality, rising debt.\n\n### A Paradox: Strong Job Market but High Anxiety\n\nInterestingly, \"This is the best economy we've seen for younger workers that anybody can remember,\" Brendan Duke, senior director for economic policy at the Center for American Progress, tells me. Yet despite this, Gen Z continues to experience high levels of financial anxiety.\n\nLast year, the unemployment rate for 16-to-24-year-olds was 7.9% \u2014 the lowest it's been since 1953, showing that while job opportunities exist, other factors like high costs of living, student debt, and wealth inequality are undermining their financial security.\n\nThe search results reveal that Gen Z's relationship with the American Dream mirrors the themes in \"The Great Gatsby\" - the illusion of opportunity versus the reality of entrenched inequality. Just as Gatsby couldn't truly transcend his origins despite his wealth, Gen Z faces structural barriers that make upward mobility increasingly difficult, despite being told they live in a land of opportunity."
+    ],
+    "durationSeconds": 40.454793043999935
+  }
+}

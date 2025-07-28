@@ -1,0 +1,63 @@
+{
+  "session_id": "e18f7f1c-5883-41e4-8ef9-15aee4aa266b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e18f7f1c-5883-41e4-8ef9-15aee4aa266b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Great Gatsby Instagram influencer culture performative wealth social media parallels Gen Z 2024"
+  },
+  "tool_response": {
+    "query": "Great Gatsby Instagram influencer culture performative wealth social media parallels Gen Z 2024",
+    "results": [
+      "I'll search for information about the parallels between The Great Gatsby and modern Instagram influencer culture, particularly focusing on performative wealth and Gen Z perspectives in 2024.",
+      {
+        "tool_use_id": "srvtoolu_01E2frk5a32nMwhwqzGTzfv3",
+        "content": [
+          {
+            "title": "How The Great Gatsby Predicted Modern Society",
+            "url": "https://literaryfancy.substack.com/p/how-the-great-gatsby-predicted-modern"
+          },
+          {
+            "title": "Gatsby: Convert Followers into Subscribers",
+            "url": "https://gatsby.ai/"
+          },
+          {
+            "title": "D1A | The Rise of Performative Authenticity and How It's Affecting\u2026",
+            "url": "https://d1a.com/perspective/the-rise-of-performative-authenticity-how-influencers-and-brands-are-redefining-how-they-work-together"
+          },
+          {
+            "title": "We Are All Gatsby: Social Media Marketing and The Great Gatsby",
+            "url": "http://www.suttonintegrated.com/we-are-all-gatsby.html"
+          },
+          {
+            "title": "Gatsby: Convert Your Followers - Gatsby: Instagram Automations | Shopify App Store",
+            "url": "https://apps.shopify.com/gatsby"
+          },
+          {
+            "title": "Gatsby (@thinkgatsby) \u2022 Instagram photos and videos",
+            "url": "https://www.instagram.com/thinkgatsby/"
+          },
+          {
+            "title": "Generation Z, values, and media: from influencers to BeReal, between visibility and authenticity - PMC",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10809394/"
+          },
+          {
+            "title": "Creators and Media Educating, Activating and Organizing Gen Z in 2024 - Ms. Magazine",
+            "url": "https://msmagazine.com/2024/10/22/tiktok-instagram-news-influencers-gen-z/"
+          },
+          {
+            "title": "The Great Gatsby - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+          },
+          {
+            "title": "The 25 Most Influential Social Media Influencers and Creators of 2024",
+            "url": "https://www.rollingstone.com/culture/culture-lists/top-social-media-influencers-creators-2024-1235084589/rhett-and-link-1235084647"
+          }
+        ]
+      },
+      "Based on the search results, I found fascinating parallels between The Great Gatsby and modern Instagram influencer culture, particularly regarding performative wealth and how Gen Z engages with social media in 2024. Here are the key connections:\n\n## The Great Gatsby as a Prediction of Influencer Culture\n\nIn a world where we measure worth in likes, followers, and possessions, Gatsby's glittering pursuit of wealth and love feels eerily familiar. The novel's themes resonate deeply with today's social media landscape.\n\n### Jay Gatsby as the Original Influencer\n\nJay Gatsby: The OG Influencer Gatsby is the king of reinvention. Born poor, he reshapes himself into a millionaire with one goal: winning back Daisy, the love of his life. He throws extravagant parties, hoping she'll notice... But like many influencers, his wealth and charm are just a carefully crafted image.(no content)Today, Gatsby would be hosting livestreams, showing off his cars, and renting a private jet for photos.(no content)The first thing Gatsby did was get his brand on point. He changed his name from James Gatz to the ritzier Jay Gatsby... Create a unique brand based around the aesthetic your customers gravitate towards.\n\n### The Performative Authenticity Paradox\n\nA key parallel emerges in how both Gatsby and modern influencers engage in what's now called \"performative authenticity.\" By supplanting less posed photos with disposable snaps, influencers are now advertising authenticity. They're real and relatable, using the app like regular users who don't seem to care as much about adding a filter before posting it. The effort to appear real, ironically, has resulted in content that feels even more performative.\n\n### The Green Light as Social Media Goals\n\nOne of the most famous symbols in the book is the green light at the end of Daisy's dock, which Gatsby stares at night after night. For him, it represents his dream of being with Daisy\u2014a dream that always feels just out of reach. In today's world, the green light might be the perfect selfie, a dream vacation, or that \"blue checkmark\" on social media. No matter how much we achieve, there's always something more to chase.\n\n## Gen Z's Relationship with Influencer Culture in 2024\n\n### Trust in Influencers vs. Traditional Advertising\n\n97% of Gen Z consumers say they now use social media as their top source of shopping inspiration. It's also where most of Gen Z's attention is spent. Moreover, 92% of consumers trust influencers over brand advertising, which is huge.\n\n### The Rise of News Influencers\n\nGiven trends of misinformation and fear-mongering through traditional media outlets, younger generations are turning to TikTok and Instagram to keep up with current events. From on-the-ground coverage of international conflicts to local news stories and even the DNC, content creators have changed the game with how many people are receiving and consuming news and election information.\n\n### The Burden of Influence\n\nInterestingly, In the pandemic, the number of Gen Zers considering influencing as a viable career option skyrocketed in tandem with the rise of TikTok, ushering us into what New Yorker writer Chris Hayes has called \"The Era of Mass Fame.\" Many soon realized it wasn't as easy as purchasing a ring light on Amazon and learning a well-choreographed routine. See Chase Keith (4.8M on TikTok) admit to fans on a TikTok live that he would have preferred a 9-to-5 or \"an actual job\" as opposed to being an influencer.\n\n## The Universal Theme\n\nHow many tweets have been posted, Instagram pics uploaded, Facebook statuses updated, or snaps put into a story just in the hope that the one person will like, comment, or even see it? If we're being honest, the answer would be the majority of them. It's the same with what many companies are doing now with social media marketing. They're blogging, tweeting, instagramming, throwing up ads everywhere, and putting in so much time, money, and effort into growing their consumer base\u2014but are their efforts paying off?\n\nThe parallels between Gatsby's performative wealth and modern influencer culture reveal timeless themes about authenticity, aspiration, and the human desire for connection and validation. Just as Gatsby constructed an elaborate facade to win Daisy, today's influencers craft carefully curated personas to gain followers and influence. Both reflect society's ongoing tension between genuine self-expression and strategic self-presentation."
+    ],
+    "durationSeconds": 50.006387876000254
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "session_id": "bb5bd92f-2e06-46b2-9b84-f65c0578b080",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/bb5bd92f-2e06-46b2-9b84-f65c0578b080.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Little Prince\" quotes TikTok viral \"najwa\u017cniejsze jest niewidoczne dla oczu\" BookTok youth content"
+  },
+  "tool_response": {
+    "query": "\"Little Prince\" quotes TikTok viral \"najwa\u017cniejsze jest niewidoczne dla oczu\" BookTok youth content",
+    "results": [
+      "I'll search for information about \"The Little Prince\" quotes that have gone viral on TikTok, particularly the Polish version of the famous quote \"what is essential is invisible to the eye\" (\"najwa\u017cniejsze jest niewidoczne dla oczu\") and its popularity in BookTok youth content.",
+      {
+        "tool_use_id": "srvtoolu_012hzFEgYmbhoo5F6SprJkva",
+        "content": [
+          {
+            "title": "The Little Prince cytaty | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/cytaty/4953094/ksiazka/the-little-prince"
+          },
+          {
+            "title": "The Most Popular TikTok Books #BookTok | Barnes & Noble\u00ae",
+            "url": "https://www.barnesandnoble.com/b/booktok/_/N-2vdn"
+          },
+          {
+            "title": "why you should read the little prince  #booktok #bookrecommendations #booktok #books #classics #thelittleprince #childrensbook  | TikTok",
+            "url": "https://www.tiktok.com/@eve.j.15/video/7352228883791383850"
+          },
+          {
+            "title": "of Course Ill Hurt You Little Prince",
+            "url": "https://www.tiktok.com/discover/of-course-ill-hurt-you-little-prince?lang=en"
+          },
+          {
+            "title": "The Little Prince: A French Classic | Book Review",
+            "url": "https://www.tiktok.com/@frenchwithpatrick/video/7395621460062014752"
+          },
+          {
+            "title": "Maly Ksiaze / The Little Prince : Saint-Exupery, Antoine De: Amazon.co.uk: Books",
+            "url": "https://www.amazon.co.uk/Ksiaze-Little-Prince-Antoine-Saint-Exupery/dp/837495602X"
+          },
+          {
+            "title": "REVIEW: TikTok\u2019s #BookTok Lied and gave me trust issues",
+            "url": "https://thesunflower.com/58066/arts-and-culture/review-tiktoks-booktok-lied-and-gave-me-trust-issues/"
+          },
+          {
+            "title": "The Cruel Prince Quotes Pages",
+            "url": "https://www.tiktok.com/discover/the-cruel-prince-quotes-pages?lang=en"
+          },
+          {
+            "title": "\"I Wasted $19\" \u2014 People Are Sharing Viral BookTok Books They Think Are Basically Unreadable, And I Whispered \"So True\" About A Lot Of These",
+            "url": "https://www.buzzfeed.com/aglover/tiktok-viral-books-people-hated-in-real-life"
+          },
+          {
+            "title": "Meme Quotes | TikTok",
+            "url": "https://www.tiktok.com/channel/meme-quotes?lang=en"
+          }
+        ]
+      },
+      "Let me search for more specific information about The Little Prince's viral presence on TikTok and BookTok.",
+      {
+        "tool_use_id": "srvtoolu_013m79L3cFYgN7jmYQbrMgow",
+        "content": [
+          {
+            "title": "The Little Prince Quotes by Antoine de Saint-Exup\u00e9ry",
+            "url": "https://www.goodreads.com/work/quotes/2180358-le-petit-prince"
+          },
+          {
+            "title": "The 34 Best Little Prince Quotes",
+            "url": "https://bookroo.com/quotes/the-little-prince"
+          },
+          {
+            "title": "The Little Prince Truth Quotes Page 1 | Shmoop",
+            "url": "https://www.shmoop.com/study-guides/little-prince/truth-quotes.html"
+          },
+          {
+            "title": "The 69 Best The Little Prince Quotes",
+            "url": "https://www.readthistwice.com/quotes/book/the-little-prince"
+          },
+          {
+            "title": "12 Magical Quotes From The Little Prince, by Antoine de Saint-Exup\u00e9ry",
+            "url": "https://www.writersdigest.com/be-inspired/12-magical-quotes-from-the-little-prince-by-antoine-de-saint-exupery"
+          },
+          {
+            "title": "7 timeless life lessons from The Little Prince",
+            "url": "https://www.penguin.co.uk/discover/childrens-articles/7-timeless-life-lessons-from-the-little-prince"
+          },
+          {
+            "title": "63 The Little Prince Quotes about Love, Rose, Life, Friendship.",
+            "url": "https://quotewhattosay.com/the-little-prince-quotes/"
+          },
+          {
+            "title": "Top 150 Quotes From The Little Prince (With Meanings) - Explaining the Bible",
+            "url": "https://explainingthebible.com/quotes-from-the-little-prince/"
+          },
+          {
+            "title": "The Little Prince: A French Classic | Book Review",
+            "url": "https://www.tiktok.com/@frenchwithpatrick/video/7395621460062014752"
+          },
+          {
+            "title": "Top 4 Childhood Favorites | Ft. Favorite Quotes from \u00abThe Little Prince\u00bb!",
+            "url": "https://whimsypages.wordpress.com/2019/07/02/top-3-childhood-favorites-ft-favorite-quotes-from-the-little-prince/"
+          }
+        ]
+      },
+      "Based on my search results, I can provide information about \"The Little Prince\" quotes and their viral presence on TikTok and BookTok, particularly focusing on the Polish version of the famous quote you mentioned.\n\n## The Little Prince on TikTok and BookTok\n\nThe Polish quote \"Najwa\u017cniejsze jest niewidoczne dla oczu\" is indeed from \"The Little Prince\" (Ma\u0142y Ksi\u0105\u017c\u0119 in Polish), which translates to \"What is essential is invisible to the eye\" - one of the book's most famous quotes.\n\nThe original quote in context reads: \"And now here is my secret, a very simple secret: It is only with the heart that one can see rightly; what is essential is invisible to the eye.\" This quote comes from the fox character and is considered \"the heart of the book\".\n\n### BookTok's Influence\n\nBookTok is a hashtag used by creators who feature book recommendations, reviews and memes. While my search didn't find specific viral TikTok videos featuring the Polish version of this quote, there are TikTok creators discussing \"The Little Prince\" on BookTok, recommending it as a classic worth reading.\n\n### Why The Little Prince Resonates with Youth\n\nThe book's enduring appeal to young readers on platforms like TikTok stems from several factors:\n\n1. **Universal Themes**: The quotes are \"cherished for their simplicity and depth, capturing universal truths about life, love, and human connection\" and \"resonate with readers of all ages\"\n\n2. **Quotable Moments**: \"The Little Prince provides plenty of quotable moments\", making it perfect for social media sharing\n\n3. **Timeless Wisdom**: \"The messages in this enchanting fable are as important today as they ever were\" with \"messages of compassion and goodwill\"\n\n### Popular Quotes Beyond the Polish Version\n\nOther frequently shared quotes from the book include:\n- \"All grown-ups were once children... but only few of them remember it\"\n- \"You become responsible, forever, for what you have tamed\"\n- \"What makes the desert beautiful,' said the little prince, 'is that somewhere it hides a well...\"\n\n### Global Reach\n\n\"The Little Prince has become Antoine de Saint-Exup\u00e9ry's most successful book with more than 140 million copies sold worldwide and translated into more than 300 languages and dialects\", which explains why quotes like yours appear in various languages on social media platforms.\n\nThe Polish version of the quote you mentioned represents how \"The Little Prince\" continues to reach new generations through social media, with its philosophical messages about seeing with the heart rather than the eyes resonating particularly well with young audiences seeking meaningful content on platforms like TikTok and BookTok."
+    ],
+    "durationSeconds": 36.85805422600009
+  }
+}

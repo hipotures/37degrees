@@ -1,0 +1,63 @@
+{
+  "session_id": "ac25dab5-19ee-43b4-8689-cf24d65d211d",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ac25dab5-19ee-43b4-8689-cf24d65d211d.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Alice in Wonderland film adaptations complete list directors years box office"
+  },
+  "tool_response": {
+    "query": "Alice in Wonderland film adaptations complete list directors years box office",
+    "results": [
+      "I'll search for information about Alice in Wonderland film adaptations, including directors, years, and box office data.",
+      {
+        "tool_use_id": "srvtoolu_01CoRh19o28CCB4UUSae6dSj",
+        "content": [
+          {
+            "title": "Alice in Wonderland (2010 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Alice_in_Wonderland_(2010_film)"
+          },
+          {
+            "title": "Best Alice in Wonderland Movie Adaptations, Ranked",
+            "url": "https://movieweb.com/alice-in-wonderland-movie-adaptations/"
+          },
+          {
+            "title": "8 Reasons Alice In Wonderland Is Still Tim Burton\u2019s Biggest Box Office Success, 14 Years Later",
+            "url": "https://screenrant.com/tim-burton-alice-wonderland-biggest-box-office-hit-reasons/"
+          },
+          {
+            "title": "Film Adaptations",
+            "url": "https://www.carleton.edu/departments/engl/alice/Mediafilms.html"
+          },
+          {
+            "title": "Alice in Wonderland (1951 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Alice_in_Wonderland_(1951_film)"
+          },
+          {
+            "title": "Alice in Wonderland Adaptations",
+            "url": "https://www.imdb.com/list/ls031122833/"
+          },
+          {
+            "title": "Films and television programmes based on Alice in Wonderland - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Films_and_television_programmes_based_on_Alice_in_Wonderland"
+          },
+          {
+            "title": "Alice in Wonderland 150th anniversary: 8 very different film versions | BFI",
+            "url": "https://www.bfi.org.uk/lists/alice-wonderland-eight-very-different-film-versions"
+          },
+          {
+            "title": "Alice in Wonderland (the different versions)",
+            "url": "https://www.imdb.com/list/ls028393107/"
+          },
+          {
+            "title": "Alice in Wonderland Adaptations (TV & Movies) \u2013 Elley the Book Otter",
+            "url": "https://elleyotter.home.blog/2021/03/10/alice-in-wonderland-adaptations-tv-movies/"
+          }
+        ]
+      },
+      "Based on my search results, I can provide you with information about Alice in Wonderland film adaptations, including directors, years, and box office data:\n\n## Major Alice in Wonderland Film Adaptations\n\n### 1. **Alice in Wonderland (1903)**\n- Directors: Percy Stow and Cecil Hepworth\n- This was the longest and most ambitious picture yet produced in Britain\n- The story received its first adaptation as a silent film titled Alice in Wonderland\n\n### 2. **Alice in Wonderland (1933)**\n- Directors: Norman Z. McLeod, Hugh Harman, Rudolf Ising\n- At the time of its release, this iteration of Carroll's classic was considered a box office bomb and divided opinion among audiences and critics\n\n### 3. **Alice in Wonderland (1951) - Disney Animated**\n- Directors: Clyde Geronimi, Wilfred Jackson, Hamilton Luske (multiple directors involved)\n- It was initially considered a box-office bomb, grossing $2.4 million domestically\n- However, its 1974 re-release in theaters proved to be much more successful\n\n### 4. **Alice in Wonderland (1976) - X-Rated Musical**\n- Director: Bud Townsend\n- Three varyingly explicit versions were released, with 20th Century-Fox pairing the tamest in a double bill with George Lucas's Star Wars (1977)\n\n### 5. **Alice (1988) - Jan \u0160vankmajer**\n- Czech director Jan \u0160vankmajer's interpretation plays out like a twisted stop-motion nightmare\n- The dark atmosphere and unique animation certainly won over critics with it winning the feature film award at the 1989 Annecy International Animated Film Festival and scoring an impressive 95% on the review aggregator Rotten Tomatoes\n\n### 6. **Alice in Wonderland (2010) - Tim Burton**\n- Directed by Tim Burton from a screenplay written by Linda Woolverton\n- The film stars Mia Wasikowska in the title role, with Johnny Depp, Anne Hathaway, Matt Lucas, Helena Bonham Carter, and Crispin Glover\n- **Box Office:** The movie was incredibly successful, grossing over $1 billion\n- On May 26, 2010, its 85th day of release, it became the sixth film ever to surpass the $1 billion mark\n- On its first weekend, the film made $220.1 million worldwide\n- At the 83rd Academy Awards, it won Best Art Direction and Best Costume Design\n\n### 7. **Alice Through the Looking Glass (2016)**\n- A follow-up film, titled Alice Through the Looking Glass, was released on May 27, 2016\n- A sequel produced by Burton and directed by James Bobin\n\n### Other Notable Adaptations:\n- **Alice in Wonderland (1999)** - TV Movie\n  - Director: Nick Willing\n  - Stars: Tina Majorino, Whoopi Goldberg, Robbie Coltrane\n\n- **Alice (2009)** - SyFy Mini-series\n  - Stars: Caterina Scorsone, Andrew Lee Potts, Matt Frewer(no content)In terms of box office success, Tim Burton's 2010 Alice in Wonderland adaptation is untouchable when it comes to the world of Alice, making it the most commercially successful adaptation of the story to date."
+    ],
+    "durationSeconds": 35.02445928999991
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "session_id": "9588e4fa-c119-4986-be3b-1d3af7769f8f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/9588e4fa-c119-4986-be3b-1d3af7769f8f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Brave New World predictions validated historical events IVF test tube babies pharmaceutical industry antidepressants genetic engineering"
+  },
+  "tool_response": {
+    "query": "Brave New World predictions validated historical events IVF test tube babies pharmaceutical industry antidepressants genetic engineering",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01LExKo8vTRsMKgZkSrRiPp3",
+        "content": [
+          {
+            "title": "'Brave New World' of Embryos Grown Outside the Womb",
+            "url": "https://childrenshealthdefense.org/defender/embryos-grown-outside-womb-not-far-fetched/"
+          },
+          {
+            "title": "Baby-Making: The Fractured Fulfillment of Huxley's Brave New World, Part I | Dignitas Vol. 18, No. 1 (Spring 2011)",
+            "url": "https://www.cbhd.org/dignitas-articles/baby-making-the-fractured-fulfillment-of-huxleys-brave-new-world-part-i"
+          },
+          {
+            "title": "The Brave New World of Baby-Making",
+            "url": "https://www.vision.org/article-collection-brave-new-world-baby-making-9089"
+          },
+          {
+            "title": "Aldous Huxley : Brave New World",
+            "url": "https://www.huxley.net/"
+          },
+          {
+            "title": "Why Brave New World is No Longer the Terrifying Dystopia it Used to Be",
+            "url": "https://gizmodo.com/why-brave-new-world-is-no-longer-the-terrifying-dystopi-1731043972"
+          },
+          {
+            "title": "In retrospect: Brave New World | Nature",
+            "url": "https://www.nature.com/articles/503338a"
+          },
+          {
+            "title": "Brave new world? - PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4601914/"
+          },
+          {
+            "title": "The brave new world of making babies - The Lancet",
+            "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(99)90383-5/fulltext"
+          },
+          {
+            "title": "Brave New World - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World"
+          },
+          {
+            "title": "The Brave New World of Gene Editing and Molecular Medicine - PMC",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6913842/"
+          }
+        ]
+      },
+      "Based on my search results, I found several sources discussing how Aldous Huxley's \"Brave New World\" predictions have been validated by various historical and technological developments. Here's what the search revealed:\n\n## IVF and \"Test Tube Babies\"\n\nThis powerful assisted reproductive technique was was initially met with great trepidation, giving rise to the derisive term \"test tube babies.\" Today, it is a widely accepted process that produces millions of new lives each year.(no content)When in vitro fertilization first emerged in the late 1970s, the press called IVF embryos \"test-tube babies,\" though they are nothing of the sort.(no content)At present, one in 100-150 babies born in the western world is conceived with WF.\n\n## Pharmaceutical Industry and Antidepressants\n\nSeveral sources discuss how Huxley's fictional drug \"soma\" parallels modern antidepressants. Citizens in Huxley's New World are infantilized and rendered harmless through the regular intake of \"soma,\" a readily available pharmaceutical that alleviates depression and keeps people in a perpetual state of calm. Soma is described as being \"euphoric, narcotic, pleasantly hallucinant,\" while having all \"the advantages of Christianity and alcohol; none of their defects.\"(no content)Some commentators today complain that antidepressants are akin to Huxley's soma, but it's an accusation that's not entirely fair. Millions of people benefit from medicines like Paxil and Lexapro, which allows them to resume normal lives without losing any of their personality.(no content)In part this is because people worry they might become zombified addicts; and in part because they are unwilling to cast themselves as humble supplicants of the medical profession by taking state-rationed \"antidepressants\".\n\n## Genetic Engineering\n\nSet 600 years in the future, the novel anticipates a number of key advancements, including powerful reproductive technologies (such as in vitro fertilization, human engineering, and cloning), classical conditioning, neuropharmaceuticals, and psychological manipulation.(no content)Today's biotech bugbears include three-parent IVF, the advent of cheap and powerful genetic cut-and-paste tools, such as CRISPR, and the world's first genetically altered human embryo.(no content)What is new is the unprecedented degree of precision afforded by the latest gene editing technology. The goal of genome editing is not simply to supplement the genome with additional genetic material, it is to edit the existing genetic information to correct or inactivate a gene.\n\n## Artificial Wombs and Ectogenesis\n\nScience still has a way to go before fetus development and births outside of a uterus become a reality, but how far down this path should humanity go? Technologically, it is a matter of time before mammal embryos can be brought to term outside the body.(no content)Mouse embryos were grown in an artificial womb for 11 days, and organs had begun to develop.\n\n## Historical Context\n\nIt was through his brother that Aldous was introduced to the work of the controversial British biologist J. B. S. Haldane, who in his seminal 1923 work Daedalus; or, Science and the Future, presented his vision of a future world in which scientists would use biotechnology to reshape humanity. It was Haldane, and not Huxley, who first speculated about biologically engineered humans, clones, in vitro fertilization, and artificial wombs.\n\nThe search results show that many of Huxley's predictions about reproductive technology, pharmaceutical mood modification, and genetic engineering have indeed come to pass or are actively being developed, though often in more beneficial and regulated ways than the dystopian scenarios he envisioned."
+    ],
+    "durationSeconds": 31.125728573000057
+  }
+}

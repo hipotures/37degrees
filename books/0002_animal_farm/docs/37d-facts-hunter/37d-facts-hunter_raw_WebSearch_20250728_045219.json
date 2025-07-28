@@ -1,0 +1,63 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Animal Farm\" George Orwell banned UAE Kenya China Cuba modern censorship 2000s"
+  },
+  "tool_response": {
+    "query": "\"Animal Farm\" George Orwell banned UAE Kenya China Cuba modern censorship 2000s",
+    "results": [
+      "I'll search for information about the censorship and banning of George Orwell's \"Animal Farm\" in various countries during the modern era.",
+      {
+        "tool_use_id": "srvtoolu_01TS8fKYHc5H571bUkrAtKvc",
+        "content": [
+          {
+            "title": "Animal Farm - George Orwell | Censored - the books they didn't want us to read | Birmingham City Council",
+            "url": "https://www.birmingham.gov.uk/info/50138/leisure_and_learning/1435/censored_-_the_books_they_didnt_want_us_to_read/8"
+          },
+          {
+            "title": "All Are Equal: The History Behind George Orwell\u2019s Controversial Novel, Animal Farm\u2013by Hannah Huckins \u2013 The Ellen Reeder",
+            "url": "https://english.plymouthcreate.net/literature/banned-books/all-are-equal-the-history-behind-george-orwells-controversial-novel-animal-farm-by-hannah-huckins/"
+          },
+          {
+            "title": "The Censorship of George Orwell's 1984 and Animal Farm",
+            "url": "https://bookanalysis.com/george-orwell/censorship/"
+          },
+          {
+            "title": "Is George Orwell's Animal Farm banned in the People's Republic of China? - Quora",
+            "url": "https://www.quora.com/Is-George-Orwells-Animal-Farm-banned-in-the-Peoples-Republic-of-China"
+          },
+          {
+            "title": "10 Facts About George Orwell's Animal Farm",
+            "url": "https://www.mentalfloss.com/article/626689/animal-farm-book-facts"
+          },
+          {
+            "title": "Why Was Animal Farm Banned? - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/why-was-animal-farmed-banned.html"
+          },
+          {
+            "title": "george orwell - Why was the book Animal Farm banned in non-communist countries? - Literature Stack Exchange",
+            "url": "https://literature.stackexchange.com/questions/390/why-was-the-book-animal-farm-banned-in-non-communist-countries"
+          },
+          {
+            "title": "Why China Banned George Orwell\u2019s Animal Farm | by Grades fixer | Medium",
+            "url": "https://gradesfixer2019.medium.com/why-china-banned-george-orwells-animal-farm-455129199dbc"
+          },
+          {
+            "title": "Animal Farm - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Animal_Farm"
+          },
+          {
+            "title": "Controversial passages and reasons for the banning of Animal Farm - eNotes.com",
+            "url": "https://www.enotes.com/topics/animal-farm/questions/controversial-passages-and-reasons-for-the-3126807"
+          }
+        ]
+      },
+      "Based on the search results, here's what I found about the censorship and banning of George Orwell's \"Animal Farm\" in various countries during the modern era:\n\n## Countries Where Animal Farm Has Been Banned\n\n### **United Arab Emirates (UAE)**\nIn 2002, the novel was banned in schools in the United Arab Emirates.(no content)The novel was also banned by the United Arab Emirates in 2002 because of imagery they felt was against Islamic values. The specific reason was that \"it contained text or images that goes against Islamic values, most notably the occurrence of an anthropomorphic, talking pig.\"\n\n### **Kenya**\nToday Animal Farm is still banned in Cuba, Kenya, and the United Arab Emirates Additionally, in 1991, Kenya's government banned a Swahili-language play based on Animal Farm that attacked corruption.(no content)The novel was banned (actually, it was a play based upon the novel which was banned) in 1991 in Kenya. The reasoning behind this was the play's/novel's criticism of corrupt leaders.\n\n### **China**\nWhile the search results indicate that Animal Farm faces censorship in China, the situation is more nuanced. Orwell's books are de facto banned but not officially banned \u2014 this is the general handiwork of book banning in China.(no content)After its publication, the novel was immediately banned by the Soviet Union and continues to be banned in Cuba and China.\n\n### **Cuba**\nTo this day the book is still banned in Cuba and North Korea for its satiric depiction of communism.(no content)Beyond the Soviet Union, Animal Farm has also been banned at various times in countries like Cuba (where the book was set on fire by the government), North Korea, the United Arab Emirates, and countries in Africa.\n\n## Other Notable Censorship\n\nThe book has also faced challenges in other countries:\n- Vietnam has the book censored due to its involvement with communism.\n- In Malawi, government minister Albert Muwalo was charged with treason and hanged in 1977; one alleged piece of evidence was his ownership of Animal Farm, a banned book.\n\n## Main Reason for Banning\n\nUnlike other books which may be banned for several reasons, there's really only one main reason that Animal Farm has ever been banned: the critique of Communism. The book's satirical depiction of totalitarian regimes, particularly Stalin's Soviet Union, has made it controversial in communist and authoritarian countries.\n\nThe modern censorship of \"Animal Farm\" continues to reflect political sensitivities around its anti-totalitarian message, with bans persisting in several countries well into the 2000s and beyond."
+    ],
+    "durationSeconds": 30.433931955000038
+  }
+}

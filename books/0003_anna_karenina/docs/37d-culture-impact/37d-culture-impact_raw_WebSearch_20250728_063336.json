@@ -1,0 +1,109 @@
+{
+  "session_id": "7ca65eb2-e5d0-4143-8931-90f15001b62e",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7ca65eb2-e5d0-4143-8931-90f15001b62e.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Anna Karenina\" TikTok hashtag count views social media trends youth audience"
+  },
+  "tool_response": {
+    "query": "\"Anna Karenina\" TikTok hashtag count views social media trends youth audience",
+    "results": [
+      "I'll search for information about Anna Karenina's presence on TikTok, including hashtag counts, views, and trends among youth audiences.",
+      {
+        "tool_use_id": "srvtoolu_01NQypYYwAjR59QinrrZBYix",
+        "content": [
+          {
+            "title": "Anna Karenina",
+            "url": "https://www.tiktok.com/discover/anna-karenina"
+          },
+          {
+            "title": "Anna Karenina Review",
+            "url": "https://www.tiktok.com/discover/anna-karenina-review?lang=en"
+          },
+          {
+            "title": "100+ Trending TikTok Hashtags To Get Views | SocialBu Blog",
+            "url": "https://socialbu.com/blog/trending-tiktok-hashtags"
+          },
+          {
+            "title": "Trending TikTok Hashtags (July 2025) | Dash Social",
+            "url": "https://www.dashsocial.com/blog/tiktok-hashtags"
+          },
+          {
+            "title": "The Most Trending TikTok Hashtags: Updated July 2025",
+            "url": "https://podcastle.ai/blog/trending-tiktok-hashtags/"
+          },
+          {
+            "title": "250+ Trending TikTok Hashtags To Gain More Views in 2025",
+            "url": "https://www.socialpilot.co/tiktok-marketing/tiktok-hashtags"
+          },
+          {
+            "title": "TikTok - Make Your Day",
+            "url": "https://www.tiktok.com/tag/annakarenina?lang=en"
+          },
+          {
+            "title": "Go Viral on TikTok with 100 Popular Hashtags",
+            "url": "https://fourthwall.com/blog/go-viral-on-tiktok-with-100-popular-hashtags"
+          },
+          {
+            "title": "Anna Karenina \u2728 #booktok #book #books #bookworm #reader #annakarenina #bookish #booker #booknerd #literature #fyp #tolstoy | TikTok",
+            "url": "https://www.tiktok.com/@alifeofliterature/video/6942946655503142149?lang=en"
+          },
+          {
+            "title": "Anna Karenina Count Vronsky",
+            "url": "https://www.tiktok.com/discover/anna-karenina-count-vronsky"
+          }
+        ]
+      },
+      "Let me search for more specific information about Anna Karenina's hashtag statistics and youth engagement on TikTok.",
+      {
+        "tool_use_id": "srvtoolu_01G8Gvf5kmgjidTGf24PLeui",
+        "content": [
+          {
+            "title": "'BookTok' proves power of Gen Z | LinkedIn",
+            "url": "https://www.linkedin.com/news/story/booktok-proves-power-of-gen-z-6395706/"
+          },
+          {
+            "title": "The Impact of the BookTok Phenomenon on the Transformation of Generation Z's Reading Habits in the Digital Age in Indonesia | The Eastasouth Journal of Social Science and Humanities",
+            "url": "https://esj.eastasouth-institute.com/index.php/esssh/article/view/473"
+          },
+          {
+            "title": "The BookTok Generation: How social media is transforming Gen Z reading habits - Publishers Association",
+            "url": "https://www.publishers.org.uk/the-booktok-generation-how-social-media-is-transforming-gen-z-reading-habits/"
+          },
+          {
+            "title": "Anna Karenina - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Anna_Karenina"
+          },
+          {
+            "title": "Reaching Gen Z & Millennials on #BookTok | NoveList",
+            "url": "https://www.ebsco.com/blogs/novelist/reaching-gen-z-millennials-booktok"
+          },
+          {
+            "title": "How BookTok is transforming Gen-Z reading habits - Australia Reads",
+            "url": "https://australiareads.org.au/news/booktok-transforming-gen-z-reading-habits/"
+          },
+          {
+            "title": "BookTok: How book influencers shift Gen Z consumption | Appinio",
+            "url": "https://www.appinio.com/en/blog/insights/booktok-recommendations"
+          },
+          {
+            "title": "Gen Z, millennials are still big fans of books \u2013 even if they don\u2019t call themselves \u2018readers\u2019",
+            "url": "https://www.minnpost.com/community-voices/2024/05/gen-z-millennials-are-reading-books-bookstagram-booktok/"
+          },
+          {
+            "title": "10 Ways BookTok Is Revolutionizing Gen Z Reading and The Publishing Industry - The Queen Zone",
+            "url": "https://www.thequeenzone.com/10-ways-booktok-is-revolutionizing-gen-z-reading-and-the-publishing-industry/"
+          },
+          {
+            "title": "Did BookTok really get Gen Z into reading? | Dazed",
+            "url": "https://www.dazeddigital.com/science-tech/article/56046/1/has-booktok-really-got-gen-z-into-reading"
+          }
+        ]
+      },
+      "Based on my search results, I can provide you with information about Anna Karenina's presence on TikTok and social media trends, particularly among youth audiences, though specific hashtag counts and view numbers for Anna Karenina were not directly available in the search results.\n\n## Key Findings:\n\n### BookTok's Impact on Classic Literature\nAs of 2023, the BookTok hashtag is reported to have over 107 billion views globally, and is particularly popular with 'Gen-Z' users, born between 1996 and 2010. While I couldn't find specific hashtag counts for Anna Karenina, the novel appears to be part of the broader BookTok phenomenon that's transforming how young people engage with literature.\n\n### Youth Audience Engagement\nIn a recent report, 59% of 16 to 25 year olds said the trend helped them discover a passion for reading.(no content)Key findings of the report \u2013 which is based on a consumer research poll of 2,001 16\u201325 year olds in the UK \u2013 include: Almost two-thirds (59%) of 16-25 year olds say that BookTok or book influencers have helped them discover a passion for reading. Over half (55%) turn to BookTok for recommendations. 68% say that BookTok has inspired them to read a book that they would have never considered otherwise.\n\n### Classic Literature on TikTok\nAnd being a reader can be more than loving classic literature, though certain social media trends, such as \"Reading Like Rory\" \u2014 a BookTok phenomenon centered on the literary classics read by Rory Gilmore of \"Gilmore Girls\" \u2014 amounted to just that. This suggests that classics like Anna Karenina are finding new audiences through social media trends.\n\n### Demographics and Influence\n\"The demographic is almost exclusively teenage girls, but the power it has is huge,\" an industry insider told the Guardian.(no content)In the U.S. the majority are women - 60% according to TikTok's own data are female 60% are between the ages of 16-24 and 80% are between the ages 16-34\n\n### Publishing Industry Impact\n\"The impact of BookTok has been huge. At least half of our top 10 bestsellers each week for the last year have been BookTok-related titles. At one point this year, eight of our top 10 bestsellers were titles that were trending on TikTok.\"\n\n### Community Building\nNearly one in five (19%) say that following the BookTok hashtag helped them find a community and another 16% reported that they made new friends through BookTok.\n\nWhile I found evidence of Anna Karenina-related content on TikTok (including hashtags like #annakarenina used in BookTok videos), the search results didn't provide specific view counts or hashtag statistics for this particular novel. However, the broader trends show that classic literature is experiencing a renaissance among Gen Z audiences through TikTok, with young readers discovering and engaging with canonical works in new ways through the BookTok community."
+    ],
+    "durationSeconds": 39.796845360000155
+  }
+}

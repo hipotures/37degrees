@@ -1,0 +1,155 @@
+{
+  "session_id": "e18f7f1c-5883-41e4-8ef9-15aee4aa266b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e18f7f1c-5883-41e4-8ef9-15aee4aa266b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Great Gatsby\" aesthetic TikTok 2024 old money quiet luxury fashion BookTok viral clips"
+  },
+  "tool_response": {
+    "query": "\"Great Gatsby\" aesthetic TikTok 2024 old money quiet luxury fashion BookTok viral clips",
+    "results": [
+      "I'll search for information about the Great Gatsby aesthetic trend on TikTok in 2024, particularly focusing on old money, quiet luxury fashion, and viral BookTok content.",
+      {
+        "tool_use_id": "srvtoolu_01Mvc8zYRKwjcHkt4vK2y39o",
+        "content": [
+          {
+            "title": "'The Great Gatsby' Turns 100 Today. Its Fashion Influence Is Still Going Strong.",
+            "url": "https://www.harpersbazaar.com/fashion/designers/a64443792/great-gatsby-fashion/"
+          },
+          {
+            "title": "Old Money vs New Money: Contrasting Mindsets in Great Gatsby",
+            "url": "https://www.tiktok.com/@amoneymoves/video/7325891793030122798"
+          },
+          {
+            "title": "Great Gatsby Serving Dress",
+            "url": "https://www.tiktok.com/discover/great-gatsby-serving-dress"
+          },
+          {
+            "title": "The Great Gatsby Aesthetic",
+            "url": "https://www.tiktok.com/discover/the-great-gatsby-aesthetic"
+          },
+          {
+            "title": "They did the mash! The New Money Mash \ud83e\udd42 #bwaygatsby #themonstermash | TikTok",
+            "url": "https://www.tiktok.com/@bwaygatsby/video/7430843775213227306"
+          },
+          {
+            "title": "New Money Great Gatsby Meaning",
+            "url": "https://www.tiktok.com/discover/new-money-great-gatsby-meaning"
+          },
+          {
+            "title": "New Money Reprise Great Gatsby",
+            "url": "https://www.tiktok.com/discover/new-money-reprise-great-gatsby"
+          },
+          {
+            "title": "My attempt at the New Money dance  Choreo Credit: @domkelley #greatgatsby #musicaltheatre #bfamt #mtdance #musicaltheatredance #jeremyjordan @The Great Gatsby Musical  | TikTok",
+            "url": "https://www.tiktok.com/@tbail3/video/7388549131473669419"
+          },
+          {
+            "title": "Singing New Money Great Gatsby",
+            "url": "https://www.tiktok.com/discover/singing-new-money-great-gatsby"
+          },
+          {
+            "title": "The Great Gatsby New Money",
+            "url": "https://www.tiktok.com/discover/the-great-gatsby-new-money"
+          }
+        ]
+      },
+      "Let me search for more specific information about the BookTok and quiet luxury fashion trends related to The Great Gatsby.",
+      {
+        "tool_use_id": "srvtoolu_01KceKWs5ondqaet7T8zB7CB",
+        "content": [
+          {
+            "title": "Old Money Aesthetic Great Gatsby",
+            "url": "https://www.pinterest.com/ideas/old-money-aesthetic-great-gatsby/913515226960/"
+          },
+          {
+            "title": "What does Old Money vs. New Money mean in the Great Gatsby?",
+            "url": "https://ivypanda.com/q/what-does-old-money-vs-new-money-mean-in-the-great-gatsby/"
+          },
+          {
+            "title": "37 Books That Channel The Old Money Aesthetic",
+            "url": "https://www.sheknows.com/entertainment/slideshow/2870734/books-old-money-aesthetic/"
+          },
+          {
+            "title": "The Great Gatsby (musical) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Great_Gatsby_(musical)"
+          },
+          {
+            "title": "What YA' Reading: Great Gatsby Aesthetic - Topeka & Shawnee County Public Library",
+            "url": "https://tscpl.org/articles/what-ya-reading-great-gatsby-aesthetic"
+          },
+          {
+            "title": "Booktok Trends Come and Go: 6 Classic Novels You Should Read in 2025",
+            "url": "https://www.theteenmagazine.com/booktok-trends-come-and-go-6-classic-novels-you-should-read-in-2025"
+          },
+          {
+            "title": "BookTok\u2019s 21 Most Talked About Books of 2024",
+            "url": "https://www.rollingstone.com/culture/culture-lists/booktok-best-books-2024-1235090973/"
+          },
+          {
+            "title": "Gatsby (ART production) - West End 2024/25 | TheatreBoard",
+            "url": "https://theatreboard.co.uk/thread/12293/gatsby-art-production-west-2024"
+          },
+          {
+            "title": "Class (Old Money, New Money, No Money) Theme in The Great Gatsby | LitCharts",
+            "url": "https://www.litcharts.com/lit/the-great-gatsby/themes/class-old-money-new-money-no-money"
+          },
+          {
+            "title": "The Theme of Old and New Money in The Great Gatsby | Free Essay Example",
+            "url": "https://studycorgi.com/old-and-new-money-in-the-great-gatsby/"
+          }
+        ]
+      },
+      "Let me search for more specific information about quiet luxury fashion trends and TikTok viral clips related to The Great Gatsby.",
+      {
+        "tool_use_id": "srvtoolu_01S72dd7U51Hh6skpCxcbMVt",
+        "content": [
+          {
+            "title": "7 Tiktok Fashion Trends That Will Dominate | 2024",
+            "url": "https://theeverygirl.com/tiktok-fashion-trends/"
+          },
+          {
+            "title": "Fashion Trends 2024",
+            "url": "https://www.tiktok.com/discover/fashion-trends-2024?lang=en"
+          },
+          {
+            "title": "What\u2019s fashion\u2019s next big idea? | Vogue Business",
+            "url": "https://www.voguebusiness.com/story/fashion/whats-fashions-next-big-idea"
+          },
+          {
+            "title": "Fashion Is Abandoning Sofia Richie's Favorite Trend In Favor Of Something Much Louder",
+            "url": "https://www.bustle.com/style/loud-luxury-fashion-trend-2024"
+          },
+          {
+            "title": "Why Quiet Luxury Will Be The Defining Fashion Trend Of 2025 | Mojo London",
+            "url": "https://www.mojolondon.co.uk/why-quiet-luxury-will-be-the-defining-fashion-trend-of-2025/"
+          },
+          {
+            "title": "8 TikTok Fashion Trends Worth Buying Into This Summer",
+            "url": "https://www.whowhatwear.com/tiktok-fashion-trends-2025"
+          },
+          {
+            "title": "Quiet Luxury Outfits 2025",
+            "url": "https://www.tiktok.com/discover/quiet-luxury-outfits-2025"
+          },
+          {
+            "title": "Top 7 TikTok Fashion Trends To Watch in 2024 -",
+            "url": "https://reads.alibaba.com/top-7-tiktok-fashion-trends-to-watch/"
+          },
+          {
+            "title": "The Vogue Business TikTok Trend Tracker | Vogue Business",
+            "url": "https://www.voguebusiness.com/fashion/the-vogue-business-tiktok-trend-tracker"
+          },
+          {
+            "title": "Demure Fashion Is Just Quiet Luxury Rebranded For 2024",
+            "url": "https://www.refinery29.com/en-us/demure-outfits-quiet-luxury-fashion-trend"
+          }
+        ]
+      },
+      "Based on my searches, I can provide comprehensive information about the Great Gatsby aesthetic trend on TikTok in 2024, particularly its connection to old money, quiet luxury fashion, and BookTok viral content.\n\n## The Great Gatsby Aesthetic on TikTok in 2024\n\n### The Revival of 1920s Fashion\n\nA fashion historian and professor at the University of Las Vegas who specializes in Fitzgerald's life and influence, Clemente served as a consultant on Baz Luhrmann's 2013 adaptation of The Great Gatsby, guiding designer Catherine Martin through the uniquely American codes of preppy linen pants, swishy silk skirts, and slip-on loafers that defined both the moneyed American youth of 1924 and the Miu Miu runway models of 2024.(no content)Fendi has made a drop-waist beaded flapper frock for its Spring 2025 ad campaign; starlet and TikTok darling Sarah Hyland has stepped into the Daisy Buchanan role in the Broadway musical.\n\n### Old Money vs. New Money Theme\n\nThe Great Gatsby's central theme of old money versus new money has become particularly relevant to TikTok's fashion discourse:\n\n- Back then, \"old money\" were considered elite (Daisy's world). And \"new money\" was seen as less educated and elegant (Gatsby's world).\n- The Great Gatsby portrays three different social classes: \"old money\" (Tom and Daisy Buchanan); \"new money\" (Gatsby); and a class that might be called \"no money\" (George and Myrtle Wilson).\n\n### Quiet Luxury Fashion Connection\n\nThe Great Gatsby aesthetic has merged seamlessly with the quiet luxury trend that dominated 2024:\n\nThanks to fashion bloggers and Tik Tok, quiet luxury has gone viral. The attention is not on your bank account but on glowing skin, smooth hair, neat manicure and quality fabric.(no content)If you're an anti-trend kind of gal, then quiet luxury is the trend for you.\n\nKey elements of the trend include:\n- It's an aesthetic identified by high-quality, minimalist pieces that never go out of style. With a hard pass on vibrant colors and uber-trendy items, channel this trend-that-isn't-really-a-trend by grabbing for neutral, classic styles. Fashion pieces often associated with the aesthetic include trousers, leather accessories, blazers, and button-down shirts.\n\n### BookTok's Influence\n\nBooks that embody old money aesthetic: 'American Royals,' 'The Great Gatsby,' 'We Were Liars,' 'The Family Game' and many more.(no content)Some books just have a memorable aesthetic. The Great Gatsby is one of them.\n\nThe novel has experienced renewed popularity on BookTok as part of the broader old money aesthetic trend, with readers drawn to its themes of wealth, glamour, and tragedy.\n\n### The Broadway Musical's Impact\n\nThe new Great Gatsby Broadway musical has further fueled the trend:\n- The show started its Broadway previews on March 29, 2024, at the Broadway Theatre and officially opened on April 25, 2024.\n- Sarah Hyland replaced Noblezada in February of that same year.\n\n### Fashion Evolution\n\nInterestingly, the fashion focus has shifted from traditional interpretations:\n\"Jordan Baker is really emerging as the style icon of the story now,\" Clemente told me. \"She wears loose, wide-legged pants with camisoles and makes her own money. Gen Z would much rather embody her.\"\n\n### The Trend's Lifecycle\n\nBy 2024, quiet luxury began to face competition from louder styles:\nLuxury is getting loud.(no content)The hashtag #mobwife already has over 224 million views on TikTok. Influencer and self-proclaimed \"Mob Wife Aesthetic CEO\" Sarah Arcuri has become a resource for those looking to embrace a more flamboyant style sensibility. \"I never could get behind 'quiet luxury.' I just don't think it's in my nature,\" says Arcuri.\n\nHowever, Quiet luxury has emerged as the fashion industry's most significant trend in 2024 and this will continue into 2025 as it's so interlinked with the seismic shifts in consumer attitudes to increased sustainability concerns.\n\nThe Great Gatsby aesthetic on TikTok has successfully merged classic literary themes with contemporary fashion movements, creating a unique blend of old money sophistication, quiet luxury minimalism, and BookTok virality that continues to influence fashion choices into 2025."
+    ],
+    "durationSeconds": 61.096742928999944
+  }
+}

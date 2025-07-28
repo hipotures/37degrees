@@ -1,0 +1,173 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Folwark zwierz\u0119cy\" cenzura PRL samizdat drugi obieg \"Teresa Jele\u0144ska\" 1989"
+  },
+  "tool_response": {
+    "query": "\"Folwark zwierz\u0119cy\" cenzura PRL samizdat drugi obieg \"Teresa Jele\u0144ska\" 1989",
+    "results": [
+      "I'll search for information about the censorship and samizdat circulation of \"Folwark zwierz\u0119cy\" (Animal Farm) in communist Poland, including Teresa Jele\u0144ska's role in 1989.",
+      {
+        "tool_use_id": "srvtoolu_01F1Wc5276wkphteQK6V73tz",
+        "content": [
+          {
+            "title": "Folwark zwierzecy. Przelozyla z angielskiego Teresa Jelenska. / Folwark zwierz\u0119cy. Prze\u0142o\u017cy\u0142a z angielskiego Teresa Jele\u0144ska. Animal Farm. Translated by Teresa Jele\u0144ska. | George Orwell |",
+            "url": "https://www.foldvaribooks.com/pages/books/899/george-orwell/folwark-zwierzecy-przelozyla-z-angielskiego-teresa-jelenska-folwark-zwierzecy-przelozyla-z"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy / George Orwell ; [prze\u0142o\u017cy\u0142a Teresa Jele\u0144ska] ; ilustrowa\u0142 Jan Lebenstein. | Queens Library",
+            "url": "http://www.queenslibrary.org/es/item/folwark-zwierz%C4%99cy-0"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy Semper Publishers",
+            "url": "https://semper.istore.pl/pl/p/Folwark-zwierzecy-/23076515"
+          }
+        ]
+      },
+      "The search results show some information about Teresa Jele\u0144ska's translation of \"Animal Farm\" in Polish samizdat, but I need more specific information about censorship in PRL and the 1989 context. Let me search for more details.",
+      {
+        "tool_use_id": "srvtoolu_01X6GrcnKtBE3mmJZTVJi3py",
+        "content": [
+          {
+            "title": "Folwark zwierzecy. Przelozyla z angielskiego Teresa Jelenska. / Folwark zwierz\u0119cy. Prze\u0142o\u017cy\u0142a z angielskiego Teresa Jele\u0144ska. Animal Farm. Translated by Teresa Jele\u0144ska. | George Orwell |",
+            "url": "https://www.foldvaribooks.com/pages/books/899/george-orwell/folwark-zwierzecy-przelozyla-z-angielskiego-teresa-jelenska-folwark-zwierzecy-przelozyla-z"
+          },
+          {
+            "title": "Teresa Jele\u0144ska \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.m.wikipedia.org/wiki/Teresa_Jele%C5%84ska"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Folwark_zwierz%C4%99cy"
+          },
+          {
+            "title": "Masha Karp on the Ukrainian translation of Animal Farm",
+            "url": "https://orwellfoundation.substack.com/p/the-ukrainian-translation-of-animal-farm-excerpt-from-masha-karps-orwell-and-russia"
+          },
+          {
+            "title": "Orwell in Translation - European studies blog",
+            "url": "https://blogs.bl.uk/european/2017/11/orwell-in-translation.html"
+          },
+          {
+            "title": "Orwell George - Animal Farm. Translated from the English by Teresa Jele\u0144ska. London 1974 Renewal - Online auction / Online bidding - Price - OneBid",
+            "url": "https://one.bid/en/ksiazki-i-starodruki-orwell-george-folwark-zwierzecy-przelozyla-z-ang-teresa-jelenska-londyn-1974-odnowa/1967591"
+          },
+          {
+            "title": "Exporting the Animals\u2019 Revolt: Kostamorov - Reymont - Orwell - European studies blog",
+            "url": "https://blogs.bl.uk/european/2018/02/exporting-the-animals-revolt.html"
+          },
+          {
+            "title": "Jele\u0144ska Teresa (Rena) z domu Skar\u017cy\u0144ska - TEI",
+            "url": "https://tei.nplp.pl/entities/485"
+          },
+          {
+            "title": "Przyja\u017a\u0144 i roz\u0142\u0105czenie | Tygodnik Powszechny",
+            "url": "https://www.tygodnikpowszechny.pl/przyjazn-i-rozlaczenie-135436"
+          },
+          {
+            "title": "Magia, parodia, cenzura. Poniedzia\u0142ek zaczyna si\u0119 w sobot\u0119 Arkadija i Borisa Strugackich \u2013 przek\u0142ady polskie wobec orygina\u0142u",
+            "url": "https://journals.openedition.org/napis/1400"
+          }
+        ]
+      },
+      "Let me search for more specific information about Animal Farm in Poland during 1989 and the end of communism.",
+      {
+        "tool_use_id": "srvtoolu_01Yb9HGRnC9U6MKrPDFkiP1e",
+        "content": [
+          {
+            "title": "Folwark zwierz\u0119cy - Wielkopolska Biblioteka Cyfrowa",
+            "url": "https://www.wbc.poznan.pl/dlibra/publication/492230/edition/399795?language=pl"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Folwark_zwierz%C4%99cy"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy - Wydawnictwo MG",
+            "url": "https://wydawnictwomg.pl/folwark-zwierzecy/"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy \u2013 encyklopediafantastyki.pl",
+            "url": "https://encyklopediafantastyki.pl/index.php?title=Folwark_zwierz%C4%99cy"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy : komiks wg Orwella - Biblioteka Cyfrowa Uniwersytetu Jana Kochanowskiego",
+            "url": "https://bibliotekacyfrowa.ujk.edu.pl/dlibra/publication/2954/edition/2616?language=pl"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy. Dziennik z folwarku",
+            "url": "https://rynek-ksiazki.pl/aktualnosci/folwark-zwierzecy-dziennik-z-folwarku/"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy - George Orwell | lektury szkolne z om\u00f3wieniem - Wydawnictwo Greg",
+            "url": "https://www.greg.pl/lektury/103,1187_Folwark-zwierzecy.html"
+          },
+          {
+            "title": "FOLWARK ZWIERZ\u0118CY, George ORWELL [po prostu bis - Krak\u00f3w (luty) 1981] - 15426696001 - oficjalne archiwum Allegro",
+            "url": "https://archiwum.allegro.pl/oferta/folwark-zwierzecy-george-orwell-po-prostu-bis-krakow-luty-1981-i15426696001.html"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy | Wydawnictwo Olesiejuk",
+            "url": "https://www.wydawnictwoolesiejuk.pl/ksiazki/folwark-zwierzecy-9788383505244/"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy George Orwell ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/folwark-zwierzecy-george-orwell"
+          }
+        ]
+      },
+      "Let me search for more information about samizdat and underground publishing in Poland for Animal Farm during the communist period.",
+      {
+        "tool_use_id": "srvtoolu_01GZA1NM5VdRQQuVZFk1nD4m",
+        "content": [
+          {
+            "title": "Folwark zwierz\u0119cy \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Folwark_zwierz%C4%99cy"
+          },
+          {
+            "title": "drugi obieg wydawniczy, Encyklopedia PWN: \u017ar\u00f3d\u0142o wiarygodnej i rzetelnej wiedzy",
+            "url": "https://encyklopedia.pwn.pl/haslo/drugi-obieg-wydawniczy;3894406.html"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy \u2013 encyklopediafantastyki.pl",
+            "url": "https://encyklopediafantastyki.pl/index.php?title=Folwark_zwierz%C4%99cy"
+          },
+          {
+            "title": "DRUGI OBIEG WYDA WNICZY",
+            "url": "https://przystanekhistoria.pl/download/166/73060/Drugiobiegwydawniczyt1.pdf"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy - George Orwell - Streszczenie szczeg\u00f3\u0142owe",
+            "url": "https://dyktanda.pl/ksiazki/folwark-zwierzecy/streszczenie-szczegolowe/"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy (G. Orwell) - Opracowania, lektury, fiszki, testy - Opracowania.pl",
+            "url": "https://opracowania.pl/opracowania/jezyk-polski/folwark-zwierzecy-g-orwell,oid,519,problematyka"
+          },
+          {
+            "title": "Folwark zwierzecy. Przelozyla z angielskiego Teresa Jelenska. / Folwark zwierz\u0119cy. Prze\u0142o\u017cy\u0142a z angielskiego Teresa Jele\u0144ska. Animal Farm. Translated by Teresa Jele\u0144ska. | George Orwell |",
+            "url": "https://www.foldvaribooks.com/pages/books/899/george-orwell/folwark-zwierzecy-przelozyla-z-angielskiego-teresa-jelenska-folwark-zwierzecy-przelozyla-z"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy - Streszczenie szczeg\u00f3\u0142owe - George Orwell - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/george-orwell/folwark-zwierzecy.streszczenie-szczegolowe"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy George Orwell ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/folwark-zwierzecy-george-orwell"
+          },
+          {
+            "title": "Drugi obieg, czyli bibu\u0142a | Tygodnik Powszechny",
+            "url": "https://www.tygodnikpowszechny.pl/drugi-obieg-czyli-bibula-21176"
+          }
+        ]
+      },
+      "Based on my search results, I can provide comprehensive information about \"Folwark zwierz\u0119cy\" (Animal Farm), censorship in communist Poland (PRL), samizdat/second circulation publishing, and Teresa Jele\u0144ska's role:\n\n## Teresa Jele\u0144ska and Her Translation\n\nTeresa \"Rena\" Jele\u0144ska (n\u00e9e Skar\u017cy\u0144ska, born March 22, 1890 in Jedwabne, died 1969 in Dijon) was a literature translator and journalist.(no content)She met George Orwell while working at the London-based \"Dziennik Polski,\" which led to her becoming the translator of his works. In 1945, \"Folwark zwierz\u0119cy\" was published in London in Jele\u0144ska's translation.(no content)Teresa Jele\u0144ska's translation was published at the turn of 1946 and 1947 in London by the League of Poles Abroad.(no content)This was the first translation of Animal Farm into a Slavic language \u2013 in fact, into any language!\n\n## Censorship and Underground Publishing in Communist Poland\n\nUntil the fall of the communist system in Poland in 1989, this was a novel banned by censorship \u2013 its first official domestic edition appeared only in 1988.(no content)From 1979, however, it was published multiple times as reprints from emigre editions by independent publishers \u2013 the so-called \"second circulation.\"\n\n### Key Underground Publishers\n\nThe book was published by Niezale\u017cna Oficyna Wydawnicza (Independent Publishing House); Zapis and Puls in Warsaw in 1979.(no content)This was a samizdat edition.(no content)The book was also published by \"po prostu bis\" publishing house (in cooperation with the Constitution of May 3rd Publishing House - a second circulation publisher from the sixteen months of Solidarity period - a reprint from the \"ODNOWA\" London 1974 edition), Krak\u00f3w (February) 1981.\n\n## The Second Circulation (Drugi Obieg)\n\nSecond circulation publishing operated in Poland from 1976-90, initially by emerging independent organizations (e.g., KSS \"KOR,\" KPN), and from 1977 also by independent publishers (e.g., NOWA, Kr\u0105g) and environmental groups (student, workplace, professional).(no content)It is estimated that in Poland from December 13, 1981 to the end of 1988, approximately 4,500 titles of books and brochures and about 2,000 press titles were published in the second circulation.(no content)An important event was the establishment in 1977 of the first professional publishing house operating outside the reach of censorship, the Independent Publishing Office (NOWa).\n\n## 1989 and the End of Communist Censorship\n\nThe year 1989 marked the end of communist rule in Poland. The novel was banned by censorship almost until the fall of the communist system in Poland in 1989 \u2013 its first official domestic edition appeared only in 1988.\n\nThe underground publishing of \"Folwark zwierz\u0119cy\" in Poland served as both a literary achievement and a form of political resistance, with Teresa Jele\u0144ska's translation becoming the standard version used in samizdat editions throughout the communist period."
+    ],
+    "durationSeconds": 53.47089758899994
+  }
+}

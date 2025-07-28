@@ -1,199 +1,165 @@
-# Polish Specialist Research: Jane Eyre by Charlotte Brontë
+# 37d-polish-specialist Findings: Jane Eyre
 
-Date: 2025-07-27
-Research completed by: 37d-polish-specialist
-Target audience: Polish teenagers (10-20 years old) on TikTok
+**Agent**: 37d-polish-specialist  
+**Book**: Jane Eyre by Charlotte Brontë (1847)  
+**Date**: 2025-07-28 14:30
 
-## Executive Summary
+---
 
-This comprehensive research examines the Polish reception, translations, and cultural significance of Charlotte Brontë's "Jane Eyre" (1847) in Poland. The findings reveal a rich history of Polish engagement with the novel, from early translations through contemporary readership, providing critical insights for targeting Polish audiences on TikTok.
+## Task: Research Polish translation history - first translator, different versions, cultural adaptations, title changes
+Date: 2025-07-28 14:30
 
-## 1. Polish Translation History
+### Polish Translation History
 
-### First Polish Translation (1880-1881)
+#### First Translation - "Janina" (1881)
+- **Year**: 1881 [1]
 - **Translator**: Emilia Dobrzańska
-- **Title**: "Janina. Powieść z angielskiego" (Janina. A novel from English)
-- **Publisher**: Published as supplement to weekly periodical "Tydzień" (The Week)
-- **Characteristics**: Heavily abridged (less than half original length), numerous mistranslations, domesticated names
-- **Historical significance**: Published 33 years after original, representing early Polish literary reception
+- **Publisher**: Supplement to "Tydzień" periodical, Piotrków Trybunalski  
+- **Title**: "Janina"
+- **Notes**: Published during Russian partition of Poland; Dobrzańska was a student at Krzywicki sisters' boarding school
 
-### Subsequent Major Translations
-1. **Zofia Sawicka (1921)** - Polish novelist and translator of children's literature
-2. **Teresa Świderska (1930)** - Polish translator and children's author; this translation forms basis of current Polish editions
-3. **Gabriela Jaworska (2007)** - Most recent major translation
+#### Second Translation - "Dziwne losy Jane Eyre" (1930)
+- **Year**: 1930 [2]
+- **Translator**: Teresa Świderska
+- **Publisher**: Various editions between 1930-1976
+- **Title**: "Dziwne losy Jane Eyre" (The Strange Fates of Jane Eyre)
+- **Notes**: This translation became the standard Polish version, still used today
 
-### Translation Evolution
-Academic research demonstrates clear evolution from:
-- Free, subjective adaptation → faithful translations
-- Domestication → foreignization
-- Reflects broader trends in Polish translation theory
+#### Translation Characteristics
+1. **1881 "Janina" Edition**:
+   - Heavily adapted and shortened
+   - Published as supplement to serious periodical competing with Warsaw publications
+   - Featured numerous paraphrases, cuts, and omissions
+   - Language significantly simplified and infused with sentimentalism
+   - Targeted readers of sentimental romances and sensational novels
 
-## 2. Educational Status in Poland
+2. **1930 Teresa Świderska Edition**:
+   - Shortened by 37% of original length [3]
+   - Cuts and summaries mainly in first and final parts (Reed family years and Lowood school, Moore House stay)
+   - Incredible amount of paraphrases, cuts and omissions
+   - Content sometimes reorganized
+   - Language simplified and permeated with sentimentalism
+   - Added exclamations, question marks, and dramatic ellipses
 
-### Current Curriculum Status
-**CRITICAL FINDING**: Jane Eyre is **NOT** listed as required reading (lektura obowiązkowa) in current Polish school curricula:
-- **Elementary schools** (szkoła podstawowa): Not included
-- **High schools** (liceum): Not included  
-- **Matura 2025**: Not on official CKE (Central Examination Commission) list
+#### Current Edition
+- **Publisher**: Multiple publishers including Wydawnictwo Świat Książki, Znak
+- **Translator**: Teresa Świderska (1930 translation still in use)
+- **ISBN**: Various editions available
+- **Availability**: Wolne Lektury (Free Readings), major bookstores, libraries
 
-### Educational Context
-- Available on Wolne Lektury (Free Readings) platform
-- Appears in some "school readings" sections for high school/technical school
-- Some readers report reading it "in high school" but not as required text
-- 29 positions on current matura reading list; Jane Eyre absent
+### Educational Status
 
-### Implications for TikTok Content
-- Polish teens likely NOT familiar with Jane Eyre from mandatory reading
-- Opportunity to introduce "hidden gem" classic to young Polish audience
-- Can position as "book your English friends know but you should discover"
+#### Curriculum Presence
+- **Status**: Not confirmed as mandatory reading ("lektura obowiązkowa") [4]
+- **Grade Levels**: Used in high schools (liceum) as supplementary reading
+- **Study Focus**: Available on educational platforms like Wolne Lektury
+- **English Language Learning**: Simplified B1 level versions available for language education
 
-## 3. Polish Adaptations and Media Presence
+#### Educational Resources
+- **Teaching Materials**: Available as e-book, PDF, and audiobook formats
+- **Literary Analysis**: Recognized for deep character evolution analysis
+- **Academic Value**: Harmoniously combines melodramatic plot with insightful psychological observation and atmosphere of mystery and horror
 
-### Theatre Adaptations
-- **National Theatre Live**: British National Theatre adaptation broadcast to Polish cinemas
-- **Venues**: Praha and Atlantic cinemas (Warsaw), Nowe Horyzonty (Wrocław)
-- **Extended reach**: Later showings in Limanowa, Żywiec, Ciechanów, Konin
+### Polish Literary Criticism & Analysis
 
-### Film and Television
-- Polish audiences familiar with numerous international adaptations
-- BBC serials (1973, 1983, 1997, 2006) well-received by Polish viewers
-- 2011 film adaptation discussed in Polish media
-- Historical context: 12 film adaptations between 1910-1926 established story's popularity
+#### Major Academic Recognition
+- **Status**: "Arcydzieło Charlotte Brontë zostało uznane za pierwszą powieść feministyczną w historii" [5]
+- **Literary Significance**: Novel's literary analysis became basis for many academic articles and scientific papers
+- **Genre Classification**: Peak achievement of Victorian literary era
 
-### Polish Media Coverage
-- Regular coverage of new adaptations in Polish entertainment media
-- Polish Radio 24 featured historical programs about Charlotte Brontë
-- Cultural commentary on story's enduring relevance
+#### Feminist Perspective
+1. **Character Analysis**: Jane Eyre presented as groundbreaking female protagonist
+   - "dumną, pewną siebie i niezależną przedstawicielkę płci żeńskiej"
+   - Active resistance to injustice rather than passive acceptance
+   - "Stworzona przez nią sierota jest i biedna, i prześladowana, ale nie godzi się pokornie na swój los"
 
-## 4. Contemporary Polish Readership Analysis
+2. **Polish Feminist Context**: 
+   - Connection to Polish 19th-century feminist writers like Maria Konopnicka and Eliza Orzeszkowa [6]
+   - Both Polish writers addressed women's emancipation within Polish patriotic context
+   - Their approach differed from Western feminism, maintaining traditional values while advocating education and professional opportunities
 
-### Lubimyczytac.pl Statistics
-- **Overall rating**: 7.9/10
-- **Review count**: 2,280 ratings
-- **Reader engagement**: High level of Polish reader participation
+#### Literary Themes
+- **Universal Appeal**: "Powieść uniwersalna i ponadczasowa"
+- **Multiple Interpretations**: Touches many areas of life, difficult to provide single interpretation
+- **Psychological Depth**: Insightful portrayal of both "world of culture" (British society analysis) and "world of nature" (stylistically refined nature descriptions)
 
-### Common Reader Themes
-- **Feminist narrative**: Praised as powerful women's empowerment story
-- **Social class critique**: Polish readers appreciate exploration of social hierarchies
-- **Complex romance**: Psychological depth of Jane-Rochester relationship
-- **Moral choices**: Resonates with Polish Catholic values regarding personal integrity
-- **Timeless relevance**: Described as "ponadczasowa" (timeless) by reviewers
+### Reader Reception
 
-### Popular Polish Reader Quotes
-- "My conscience turned out to be a despot, grabbing love by the throat"
-- Readers emphasize moral strength and independence themes
-- Modern Polish women identify with Jane's self-determination
+#### Lubimyczytać.pl Statistics [7]
+- **Average Rating**: 7.4/10 from multiple ratings
+- **Reader Comments**: Generally positive reception
+- **Popular Themes**: Emotional impact, literary quality, character strength
 
-### Age Demographics
-- Readers span various ages from young adults to older readers
-- Particular appeal to women readers interested in feminist literature
+#### Review Sentiment Analysis
+- **Positive Themes**: 
+  - Emotional depth and lasting impact on readers
+  - Strong, independent female protagonist
+  - Excellent literary craftsmanship and atmospheric writing
+  - Timeless themes of love and independence
 
-## 5. Polish Literary Criticism and Academic Reception
+- **Criticisms**: 
+  - 1930 translation now seems dated
+  - Some find it challenging or uninteresting initially
+  - Plot elements may seem outdated to modern readers
 
-### Recent Academic Renaissance
-- Polish scholars now have access to complete Brontë corpus
-- Publications: "Shirley" (2011), "Profesor" (2012), Anne Brontë works
-- Academic analysis by Eryk Ostrowski: "Charlotte Brontë i jej siostrach śpiących"
+- **Generational Response**: 
+  - Appreciated across generations
+  - Referenced in contemporary Polish literature (Małgorzata Musierowicz's works)
+  - Continues to find resonance with Polish readers
 
-### Scholarly Approach
-- **Editorial apparatus**: Scholarly annotations by Paulina Choromańska, Danuta Pustówka, Elżbieta Sekuła
-- **Critical themes**: Gender relations, women's equality, religious faith vs. hypocrisy
-- **Feminist recognition**: Acknowledged as "first feminist novel in history" in Polish literary discourse
+### Polish Cultural Impact
 
-### Academic Publications
-- Multiple scholarly papers on Polish translation evolution
-- Comparative studies with European feminist literature
-- Research on autobiographical elements in Brontë's work
+#### Literary Influence
+- **Academic Studies**: Basis for numerous academic articles and scientific papers
+- **Educational Impact**: Widely used in Polish educational system
+- **Translation Legacy**: Teresa Świderska's 1930 translation shaped generations of Polish readers
 
-## 6. Connections to Polish Literature
+#### Cultural Presence
+- **Availability**: Free access through Wolne Lektury platform
+- **Publishers**: Multiple Polish publishers maintain editions
+- **Media**: Available in audiobook format with Polish narration by Joanna Niemirska
 
-### Feminist Literature Context
-- **Eliza Orzeszkowa**: Polish positivist advocated women's education and employment (contemporary period)
-- **Gabriela Zapolska**: Feminist readings of "Mrs. Dulska" show parallel themes
-- **Maria Konopnicka**: Women's rights advocacy in Polish positivist movement
+### Polish Adaptations
 
-### Historical Parallels
-- Jane Eyre (1847) contemporary with Polish positivist movement
-- Both addressing women's independence and social reform
-- Limited direct evidence of influence but thematic similarities clear
+#### Radio [8]
+- **Teatr Polskiego Radia**: "Dziwne losy Jane Eyre (odcinek 1)" premiered April 10, 1989
 
-### Polish Feminist Tradition
-- Jane Eyre fits into Polish tradition of strong female literary characters
-- Resonates with Polish Catholic emphasis on moral conscience
-- Connects to Polish historical experience of overcoming oppression
+#### International Adaptations in Poland
+- **National Theatre Live**: British adaptation shown in Polish cinemas December 8, 2015
+  - Directed by Sally Cookson
+  - Screened at Praha Cinema and Atlantic Cinema (Warsaw), Nowe Horyzonty (Wrocław)
+  - Original language with Polish subtitles
+  - Duration: approximately 210 minutes
 
-## 7. Polish BookTube and BookTok Presence
+#### Publishing Industry
+- **Multiple Editions**: Available from various Polish publishers
+- **Educational Market**: Specifically marketed for school use
+- **Digital Availability**: E-book, PDF, and audiobook formats
 
-### BookTube Community
-- **Major channels**: "Zaksiążkowane", "Wielki Buk" (Olga Kowalska), Marcin Okoniewski
-- **Content style**: Reviews, analyses, literary discussions
-- **Jane Eyre coverage**: Limited specific content found, opportunity for new content
+### Modern Polish Context
 
-### BookTok Landscape
-- **Popular Polish BookTokers**: Karolina (@come.book) - most active Polish booktoker
-- **Content preferences**: Young Adult and New Adult genres dominate
-- **Jane Eyre presence**: Minimal current coverage, significant opportunity
+#### BookTok and Social Media Presence
+- **Limited Presence**: Jane Eyre not prominent in Polish BookTok trends [9]
+- **Youth Preferences**: Polish BookTok focuses more on Young Adult and New Adult fiction
+- **Classic Literature**: Traditional classics less popular among TikTok book community
+- **Demographics**: Polish BookTok users primarily adults 20-35 years old
 
-### Polish Book Review Ecosystem
-- **Literary blogs**: "Przeczytana.com", "Opetaniczytaniem.pl", "Kanapka Literacka"
-- **Review quality**: Thoughtful, detailed analysis of character development and themes
-- **Accessibility**: Free availability on Wolne Lektury increases discussability
+#### Contemporary Relevance
+- **Feminist Readings**: Continues to be recognized as pioneering feminist novel
+- **Educational Value**: Still used in Polish high schools
+- **Academic Interest**: Ongoing subject of literary analysis and research
 
-### TikTok Opportunity Analysis
-- **Gap identified**: Limited Polish TikTok content about classic literature
-- **Teen appeal**: Jane's rebellion and independence resonate with young audiences
-- **Modern relevance**: Feminist themes highly relevant to Gen Z Polish women
+### Key Insights for Polish Youth
 
-## 8. Strategic Recommendations for Polish TikTok Audience
+Jane Eyre's reception in Poland demonstrates the enduring power of feminist literature to transcend cultural and temporal boundaries. While the 1930 translation by Teresa Świderska shaped Polish understanding of the novel for nearly a century, the work's themes of independence, resistance to oppression, and personal agency continue to resonate with Polish readers. The novel's recognition as the first feminist novel in history positions it as particularly relevant in contemporary discussions about women's rights and equality. However, its limited presence in modern social media book communities suggests that while academically and educationally significant, it faces competition from contemporary Young Adult literature for the attention of Polish teenagers.
 
-### Content Positioning
-1. **"Hidden Classic"**: Present as secret gem Polish teens haven't discovered
-2. **Feminist Icon**: Highlight Jane as original "strong female character"
-3. **Gothic Romance**: Emphasize mysterious, dramatic elements for engagement
-4. **Moral Strength**: Connect to Polish values of standing up for principles
-
-### Cultural Connections
-- Compare Jane's independence to Polish historical heroines
-- Contrast with typical "damsel in distress" narratives
-- Emphasize themes of overcoming difficult circumstances (resonates with Polish history)
-
-### Modern Relevance Hooks
-- **#SelfRespect**: Jane leaving Rochester when discovering his secret
-- **#GirlBoss**: Victorian woman refusing to be dependent
-- **#MoralStrength**: Choosing principles over passion
-- **#GothicVibes**: Mysterious mansion, dark secrets, atmospheric settings
-
-### Language and Tone
-- Use contemporary Polish slang: "Queen of self-respect", "Chemistry 100%"
-- Reference modern concepts: "red flags", "toxic relationships", "setting boundaries"
-- Emphasize Jane's relatability to modern Polish teens
-
-## 9. Citations and Sources
-
-1. Hadyna, D. "A controversial translation justified by the context: Janina, the first Polish version of Charlotte Brontë's Jane Eyre"
-2. Roszkowska, M. "The evolution of translation standards as illustrated by the history of Polish translations of Jane Eyre"
-3. Lubimyczytac.pl reader reviews and ratings (2,280 reviews, 7.9/10 rating)
-4. Polish Radio 24 cultural programming on Charlotte Brontë
-5. Wolne Lektury platform availability and readership data
-6. Polish BookTube and BookTok community analysis
-7. CKE (Central Examination Commission) official reading lists 2024-2025
-8. Polish feminist literature scholarship (Orzeszkowa, Zapolska studies)
-
-## 10. Key Insights for @37stopni TikTok Strategy
-
-### Primary Opportunities
-1. **Educational gap**: Polish teens unfamiliar through school → fresh discovery experience
-2. **Feminist appeal**: Strong resonance with modern Polish young women
-3. **Gothic aesthetic**: Perfect for visually engaging TikTok content
-4. **Moral themes**: Align with Polish cultural values while being progressive
-
-### Content Hooks That Will Work
-- "The Victorian woman who invented #selfrespect"
-- "Why this 1847 novel predicted toxic relationships"
-- "Polish girls need to meet Jane Eyre"
-- "Before Hermione Granger, there was Jane Eyre"
-
-### Cultural Positioning
-Position Jane Eyre as the original strong female character that influenced all others, emphasizing themes that resonate specifically with Polish young women: independence, moral strength, overcoming adversity, and refusing to compromise personal values for love.
-
-This research provides comprehensive foundation for creating culturally relevant, engaging TikTok content about Jane Eyre that will resonate specifically with Polish teenage audiences.
+### Citations:
+[1] "ANGLOFILIA #3: Jane, Żanetka czy Janina?" Rozkminy Hadyny, http://rozkminyhadyny.blogspot.com/2016/04/jane-zanetka-czy-janina-historyja.html
+[2] "Dziwne losy Jane Eyre," Wolne Lektury, https://wolnelektury.pl/katalog/lektura/bronte-dziwne-losy-jane-eyre/
+[3] "Between sentimentality and feminism in Teresa Świderska's and Gabriela Jaworska's Polish translations," Jagiellonian University Repository
+[4] Various Polish educational resources and curriculum materials
+[5] "Dziwne losy Jane Eyre," Wydawnictwo Świat Książki
+[6] "Orzeszkowa i Konopnicka. Pisarki i emancypantki," Histmag.org
+[7] "Dziwne losy Jane Eyre," Lubimyczytać.pl, https://lubimyczytac.pl/ksiazka/4968674/dziwne-losy-jane-eyre
+[8] "Dziwne losy Jane Eyre (odcinek 1)," Encyklopedia teatru polskiego
+[9] Various Polish BookTok and TikTok sources, 2024

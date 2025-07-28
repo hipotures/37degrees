@@ -1,0 +1,63 @@
+{
+  "session_id": "b8c17c71-efc6-4c19-9b68-e101c36de9c9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b8c17c71-efc6-4c19-9b68-e101c36de9c9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "teenagers self-censorship social media performative behavior Instagram TikTok public private personas 2024"
+  },
+  "tool_response": {
+    "query": "teenagers self-censorship social media performative behavior Instagram TikTok public private personas 2024",
+    "results": [
+      "I'll search for information about teenagers' self-censorship and performative behavior on social media platforms like Instagram and TikTok in 2024.",
+      {
+        "tool_use_id": "srvtoolu_01PMCc7VjLrKwouvgApakncE",
+        "content": [
+          {
+            "title": "Teens, Social Media, and Privacy | Pew Research Center",
+            "url": "https://www.pewresearch.org/internet/2013/05/21/teens-social-media-and-privacy/"
+          },
+          {
+            "title": "Teens, Social Media and Technology 2024 | Pew Research Center",
+            "url": "https://www.pewresearch.org/internet/2024/12/12/teens-social-media-and-technology-2024/"
+          },
+          {
+            "title": "Social Media Impact: How Social Media Sites Affect Society | American Public University",
+            "url": "https://www.apu.apus.edu/area-of-study/business-and-management/resources/how-social-media-sites-affect-society/"
+          },
+          {
+            "title": "Social media use among US teens, by demographic traits | Pew Research Center",
+            "url": "https://www.pewresearch.org/internet/fact-sheet/teens-and-social-media-fact-sheet/"
+          },
+          {
+            "title": "The Link Between Social Media and Body Image Issues Among Youth in the United States - Ballard Brief",
+            "url": "https://ballardbrief.byu.edu/issue-briefs/the-link-between-social-media-and-body-image-issues-among-youth-in-the-united-states"
+          },
+          {
+            "title": "Social Media Effects on Teens | Impact of Social Media on Self-Esteem",
+            "url": "https://childmind.org/article/how-using-social-media-affects-teenagers/"
+          },
+          {
+            "title": "How Social Media Affects Your Teen\u2019s Mental Health: A Parent\u2019s Guide > News > Yale Medicine",
+            "url": "https://www.yalemedicine.org/news/social-media-teen-mental-health-a-parents-guide"
+          },
+          {
+            "title": "(PDF) The Influence of Social Media Platforms on Self-Identity In the New Media Environment: The Case of TikTok and Instagram",
+            "url": "https://www.researchgate.net/publication/370492914_The_Influence_of_Social_Media_Platforms_on_Self-Identity_In_the_New_Media_Environment_The_Case_of_TikTok_and_Instagram"
+          },
+          {
+            "title": "Teens and social media use: What's the impact? - Mayo Clinic",
+            "url": "https://www.mayoclinic.org/healthy-lifestyle/tween-and-teen-health/in-depth/teens-and-social-media-use/art-20474437"
+          },
+          {
+            "title": "(PDF) The Influence of TikTok Media Exposure on Body Image and Self-Esteem in Adolescents",
+            "url": "https://www.researchgate.net/publication/392914204_The_Influence_of_TikTok_Media_Exposure_on_Body_Image_and_Self-Esteem_in_Adolescents"
+          }
+        ]
+      },
+      "Based on the search results, I can provide insights into teenagers' self-censorship and performative behavior on social media platforms like Instagram and TikTok in 2024:\n\n## Key Findings on Teen Social Media Behavior in 2024\n\n### Platform Usage Statistics\nRoughly six-in-ten teens say they use TikTok and Instagram, and 55% say the same for Snapchat.(no content)Instagram and TikTok are used more widely by teen girls than teen boys. For example, 66% of girls say they use TikTok, compared with 59% of boys. Instagram use follows a similar pattern (66% vs. 56%).\n\n### Self-Censorship and Curated Online Identities\nPeer acceptance is a big thing for adolescents, and many of them care about their image as much as a politician running for office, and to them it can feel as serious. Add to that the fact that kids today are getting actual polling data on how much people like them or their appearance via things like \"likes.\" It's enough to turn anyone's head. Who wouldn't want to make themselves look cooler if they could? So kids can spend hours pruning their online identities, trying to project an idealized image.(no content)Teenage girls sort through hundreds of photos, agonizing over which ones to post online.(no content)Boys compete for attention by trying to out-gross one other, pushing the envelope as much as they can in the already disinhibited atmosphere online.\n\n### Performative Behavior and Multiple Personas\nAccording to Chen (2023), adolescents who utilize social media platforms to establish digital personas have also been observed to cultivate online personas that diverge from their offline personalities. Teenagers may experience a lack of authenticity in their social interactions and have several identities because of this.(no content)Some adolescents use social media platforms, such as Instagram, for sexualized self-presentation, which includes posting images in which someone is scarcely dressed, has a sexy gaze or in which sexual willingness is suggested. These behaviors could be a first step towards sexting.\n\n### Impact on Mental Health and Self-Image\nForty percent of teens reported that content on social media caused them to worry about their image.(no content)Social media affects teenagers' mental health negatively by limiting direct contact with peers and encouraging constant comparison online, which can lead to low self-esteem, anxiety, and depression.(no content)TikTok often promotes unrealistic beauty standards, encouraging constant comparison with idealized figures, which can result in body dissatisfaction and reduced self-confidence, particularly among teenage girls. The platform's filter effects, which alter physical appearance, normalize unattainable beauty ideals and may cause users who do not match these ideals to feel inferior.\n\n### Daily Usage Patterns\nAbout six-in-ten visit TikTok daily. This includes 16% who report being on it almost constantly.(no content)Roughly half of teens say they go on Instagram or Snapchat every day, including about one-in-ten who say they're on each of these platforms almost constantly. The share of teens who say they use Instagram almost constantly has increased slightly, from 8% in 2023 to 12% today.\n\nThese findings suggest that in 2024, teenagers continue to engage in significant self-censorship and performative behavior on social media platforms, carefully curating their online personas to gain peer acceptance and manage their digital reputation. This behavior is driven by the constant feedback loop of likes and engagement metrics, leading many teens to present idealized versions of themselves that may differ substantially from their offline identities."
+    ],
+    "durationSeconds": 41.355467129999774
+  }
+}

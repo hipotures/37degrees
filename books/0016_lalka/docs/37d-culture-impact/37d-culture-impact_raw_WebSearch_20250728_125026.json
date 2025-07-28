@@ -1,0 +1,109 @@
+{
+  "session_id": "715f4a06-6795-4697-b7aa-4344b3e12664",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/715f4a06-6795-4697-b7aa-4344b3e12664.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Lalka Wokulski fanfiction Archive of Our Own AO3 Wattpad fan fiction Polish literature"
+  },
+  "tool_response": {
+    "query": "Lalka Wokulski fanfiction Archive of Our Own AO3 Wattpad fan fiction Polish literature",
+    "results": [
+      "I'll search for information about Lalka/Wokulski fanfiction on platforms like Archive of Our Own (AO3) and Wattpad.",
+      {
+        "tool_use_id": "srvtoolu_01EQPVn1cMBJaCqKp2UUdzun",
+        "content": [
+          {
+            "title": "Stanis\u0142aw Wokulski - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Stanis\u0142aw Wokulski/works"
+          },
+          {
+            "title": "Julian Ochocki/Stanis\u0142aw Wokulski - Bookmarks | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Julian Ochocki*s*Stanis\u0142aw Wokulski/bookmarks"
+          },
+          {
+            "title": "Julian Ochocki/Stanis\u0142aw Wokulski - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Julian Ochocki*s*Stanis\u0142aw Wokulski/works"
+          },
+          {
+            "title": "Home | Archive of Our Own",
+            "url": "https://archiveofourown.org"
+          },
+          {
+            "title": "Latest Works | Archive of Our Own",
+            "url": "https://archive.transformativeworks.org/works"
+          },
+          {
+            "title": "Search Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/works/search"
+          },
+          {
+            "title": "Original Work - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Original%20Work/works"
+          },
+          {
+            "title": "Fandoms | Archive of Our Own",
+            "url": "https://archiveofourown.org/media"
+          },
+          {
+            "title": "Archive of Our Own - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Archive_of_Our_Own"
+          },
+          {
+            "title": "Platform / Archive of Our Own - TV Tropes",
+            "url": "https://tvtropes.org/pmwiki/pmwiki.php/Platform/ArchiveOfOurOwn"
+          }
+        ]
+      },
+      "Let me search for more information about Lalka fanfiction on Wattpad and other platforms.",
+      {
+        "tool_use_id": "srvtoolu_01QkijG88VzZZASZEEEBAtUj",
+        "content": [
+          {
+            "title": "Lalka - Boles\u0142aw Prus",
+            "url": "https://wolnelektury.pl/katalog/lektura/lalka/"
+          },
+          {
+            "title": "W ksi\u0105\u017ckowym \u015bwiecie - Boles\u0142aw Prus ,,Lalka\" - Wattpad",
+            "url": "https://www.wattpad.com/948073405-w-ksi%C4%85%C5%BCkowym-%C5%9Bwiecie-boles%C5%82aw-prus-lalka"
+          },
+          {
+            "title": "Lalka (Polish Edition) by Boles\u0142aw Prus | Goodreads",
+            "url": "https://www.goodreads.com/book/show/55775637"
+          },
+          {
+            "title": "Najm\u0142odszy Napoleonek - Andzia267 - Lalka | The Doll - Boles\u0142aw Prus [Archive of Our Own]",
+            "url": "https://archiveofourown.org/works/31592930"
+          },
+          {
+            "title": "Lot balonem - Lunitar - Lalka | The Doll - Boles\u0142aw Prus [Archive of Our Own]",
+            "url": "https://archiveofourown.org/works/11958792"
+          },
+          {
+            "title": "Boles\u0142aw Prus - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Boles%C5%82aw_Prus"
+          },
+          {
+            "title": "Polska Stories - Wattpad",
+            "url": "https://www.wattpad.com/stories/polska"
+          },
+          {
+            "title": "Read Bilingual Book The Doll (Lalka) in Polish with translation | AnyLang",
+            "url": "https://anylang.net/en/books/pl/doll"
+          },
+          {
+            "title": "Poland Stories - Wattpad",
+            "url": "https://www.wattpad.com/stories/poland/hot"
+          },
+          {
+            "title": "Boleslaw Prus - New World Encyclopedia",
+            "url": "https://www.newworldencyclopedia.org/entry/Boleslaw_Prus"
+          }
+        ]
+      },
+      "Based on my search results, I found interesting information about Lalka/Wokulski fanfiction on various platforms, particularly Archive of Our Own (AO3). Here's what I discovered:\n\n## Lalka Fanfiction on Archive of Our Own (AO3)\n\nThere is an active collection of Lalka fanfiction on AO3, with multiple stories featuring Stanis\u0142aw Wokulski and other characters from Boles\u0142aw Prus's novel. The fanfiction includes various pairings and interpretations:\n\n### Popular Pairings and Themes:\n1. **Stanis\u0142aw Wokulski/Ignacy Rzecki** - Stories exploring a romantic relationship between Wokulski and his longtime friend Rzecki, including Christmas-themed stories\n\n2. **Julian Ochocki/Stanis\u0142aw Wokulski** - Multiple works exploring the relationship between these characters, including stories about their time in Paris and laboratory experiments\n\n3. **Alternative storylines** - Some stories explore what would happen if Wokulski had given up his illusions about Izabela earlier and focused his emotions on someone else from the same family\n\n### Story Examples:\n- \"Lot balonem\" (Balloon Flight) - A story where Wokulski realizes he's falling in love with Ochocki after spending months together in Paris\n- \"Najm\u0142odszy Napoleonek\" - A humorous parody about Rzecki's Bonapartism\n- Stories involving Kazia W\u0105sowska helping Wokulski and Izabela with their communication problems, and Christmas celebrations at the Wokulskis\n\n## Polish Literature Fanfiction Context\n\nPolish fanfiction writers on AO3 sometimes struggle with whether to use English or Polish tags for their Polish-language fanfiction, showing the international nature of the platform while maintaining Polish literary traditions.\n\n## About Lalka and Boles\u0142aw Prus\n\nLalka is the most famous novel by Boles\u0142aw Prus, originally published in installments in \"Kurier Codzienny\" and first published as a book in 1890. The main character is Stanis\u0142aw Wokulski, a wealthy Warsaw merchant and philanthropist, unhappily in love with an aristocrat.\n\nThe novel tells the story of middle-aged Wokulski, successful in business, being destroyed by his obsessive love for a frigid society doll, Izabela, with embattled aristocrats, financiers, tradesmen, and the urban poor all coming vividly to life.\n\n## Wattpad\n\nWhile I found general references to Polish stories on Wattpad, there is at least one review/discussion of Lalka on Wattpad by user FannyBrawne99 (Katarzyna Lisowska), though this appears to be more of a book review than fanfiction.\n\nThe fanfiction community around Lalka appears to be most active on Archive of Our Own, where writers explore various romantic pairings, alternative storylines, and modern interpretations of Prus's classic characters, demonstrating how this 19th-century Polish novel continues to inspire creative reinterpretations in the digital age."
+    ],
+    "durationSeconds": 41.23579434300028
+  }
+}

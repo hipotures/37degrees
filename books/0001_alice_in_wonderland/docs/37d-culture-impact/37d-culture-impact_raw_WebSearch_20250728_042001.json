@@ -1,0 +1,63 @@
+{
+  "session_id": "ac25dab5-19ee-43b4-8689-cf24d65d211d",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ac25dab5-19ee-43b4-8689-cf24d65d211d.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Alicja w Krainie Czar\u00f3w polska m\u0142odzie\u017c TikTok Instagram memy popkultura"
+  },
+  "tool_response": {
+    "query": "Alicja w Krainie Czar\u00f3w polska m\u0142odzie\u017c TikTok Instagram memy popkultura",
+    "results": [
+      "I'll search for information about Alice in Wonderland's influence on Polish youth culture, particularly on TikTok and Instagram, including memes and pop culture references.",
+      {
+        "tool_use_id": "srvtoolu_0145yMhourz9YrpARDh8daJp",
+        "content": [
+          {
+            "title": "Alicja w Krainie Czar\u00f3w - Ministerstwo \u015bmiesznych obrazk\u00f3w - KWEJK.pl",
+            "url": "https://kwejk.pl/obrazek/1005194/alicja-w-krainie-czarow.html"
+          },
+          {
+            "title": "TikTok - Make Your Day",
+            "url": "https://www.tiktok.com/music/Alicja-w-krainie-czar%C3%B3w-sound-6942797083267189509"
+          },
+          {
+            "title": "\u017byjemy w Krainie Czar\u00f3w. Czyli jak popkultura sta\u0142a si\u0119 kr\u00f3licz\u0105 nor\u0105, do kt\u00f3rej wpad\u0142a Alicja?",
+            "url": "https://naekranie.pl/artykuly/zyjemy-w-krainie-czarow-czyli-jak-popkultura-stala-sie-krolicza-nora-do-ktorej-wpadla-alicja"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w - Jeja.pl",
+            "url": "https://memy.jeja.pl/54880,alicja-w-krainie-czarow.html"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w Zdj\u0119cia Memy, \u015bmieszne Gify, zabawne Demotywatory. I pe\u0142ne humoru Zdj\u0119cia i \u017carty",
+            "url": "https://lupal.pl/alicja-w-krainie-czarow/"
+          },
+          {
+            "title": "ALicja w krainie czar\u00f3w - przed i po CGI - Ministerstwo \u015bmiesznych obrazk\u00f3w - KWEJK.pl",
+            "url": "https://kwejk.pl/obrazek/2594639/alicja-w-krainie-czarow-przed-i-po-cgi.html"
+          },
+          {
+            "title": "Blizniaki Alicja W Krainie Czarow",
+            "url": "https://www.tiktok.com/discover/blizniaki-alicja-w-krainie-czarow"
+          },
+          {
+            "title": "Bia\u0142a Kr\u00f3lowa z Alicji w Krainie Czar\u00f3w skrywa sekret #tiktokawardspolska #tiktokawards #aliceinwonderland #disney #annehathaway #ciekawostka #ciekawostki #film #filmy | TikTok",
+            "url": "https://www.tiktok.com/@popculture_dreamer/video/7439054268557954326"
+          },
+          {
+            "title": "Alicja W Krainie Czarow Blizniacy",
+            "url": "https://www.tiktok.com/discover/alicja-w-krainie-czarow-blizniacy"
+          },
+          {
+            "title": "\u0141ukasz Lewandowski - Alicja W Krainie Czar\u00f3w, Alicja W Krainie Sn\u00f3w | TikTok",
+            "url": "https://www.tiktok.com/music/Alicja-W-Krainie-Czar%C3%B3w-Alicja-W-Krainie-Sn%C3%B3w-7099126533373724674?lang=pl-PL"
+          }
+        ]
+      },
+      "Based on the search results, I found information about Alice in Wonderland's presence in Polish pop culture, particularly in relation to memes and social media:\n\n## Alice in Wonderland in Polish Youth Culture and Social Media\n\nThe search results show that \"Alicja sta\u0142a si\u0119 popkulturowym fenomenem\" (Alice has become a pop culture phenomenon). The story continues to have significant cultural impact in Poland across various media platforms.\n\n### Memes and Internet Culture\n\nAlice in Wonderland appears on Polish meme sites like Jeja.pl and KWEJK.pl, which is described as delivering the biggest dose of humor on the internet with memes, funny videos, and gifs on viral topics from current events. These platforms feature various Alice in Wonderland-related content, including CGI comparisons from the film adaptations.\n\n### TikTok Presence\n\nThe search results indicate active Alice in Wonderland content on TikTok:\n- There's a song \"Alicja W Krainie Czar\u00f3w, Alicja W Krainie Sn\u00f3w\" by \u0141ukasz Lewandowski being used in TikTok videos\n- Content creators like PopCulture_Dreamer share trivia about the films, such as secrets about the White Queen character\n\n### Pop Culture Interpretations\n\nThe story has been recognized as ideal for reinterpretation and finds reflection in reality. In Polish culture specifically:\n- Andrzej Sapkowski (author of The Witcher) created a parody called \"Z\u0142ote popo\u0142udnie\" featuring a cat character who must save Alice\n- The story has been adapted into video games, often emphasizing horror and dark themes\n\nThe story's themes continue to resonate with Polish youth, appearing across multiple digital platforms and inspiring various creative interpretations in memes, social media content, and broader pop culture references."
+    ],
+    "durationSeconds": 22.725258876000066
+  }
+}

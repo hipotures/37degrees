@@ -1,0 +1,201 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Animal Farm TikTok hashtag #AnimalFarm #Orwell #AllAnimalsAreEqual viral videos trends"
+  },
+  "tool_response": {
+    "query": "Animal Farm TikTok hashtag #AnimalFarm #Orwell #AllAnimalsAreEqual viral videos trends",
+    "results": [
+      "I'll search for information about Animal Farm TikTok trends and viral videos related to Orwell's classic novel.",
+      {
+        "tool_use_id": "srvtoolu_01WwtDT19raYYxvuY1mT5njW",
+        "content": [
+          {
+            "title": "Best #animals Hashtags for Instagram & TikTok - Top Trends 2025",
+            "url": "https://best-hashtags.com/hashtag/animals/"
+          },
+          {
+            "title": "Farm animal videos on TikTok | TikTok Browse",
+            "url": "https://www.tiktok.com/browse/farm-animals/all/?hashtag=trending&amp%3Blang=en-us"
+          },
+          {
+            "title": "TikTok - Make Your Day",
+            "url": "https://www.tiktok.com/discover/trending-hashtags-for-animal-2024"
+          },
+          {
+            "title": "Farming TikTok Videos",
+            "url": "https://www.tiktok.com/discover/farming-tiktok-videos?lang=en"
+          },
+          {
+            "title": "Best #animal Hashtags for Instagram & TikTok - Top Trends 2025",
+            "url": "https://best-hashtags.com/hashtag/animal/"
+          },
+          {
+            "title": "Go Viral on TikTok with 100 Popular Hashtags",
+            "url": "https://fourthwall.com/blog/go-viral-on-tiktok-with-100-popular-hashtags"
+          },
+          {
+            "title": "Most Popular TikTok Animal Videos",
+            "url": "https://www.tiktok.com/discover/most-popular-tiktok-animal-videos?lang=en"
+          },
+          {
+            "title": "Best TikTok Hashtags to Go Virals in 2025",
+            "url": "https://litcommerce.com/blog/best-tiktok-hashtags/"
+          },
+          {
+            "title": "Best Farmers Hashtags for TikTok | Boost Your Videos",
+            "url": "https://tiktokhashtags.com/hashtag/farmers/"
+          },
+          {
+            "title": "Animal videos on TikTok | TikTok Browse",
+            "url": "https://www.tiktok.com/browse/animals/all/?lang=en-us"
+          }
+        ]
+      },
+      "Let me search more specifically for Animal Farm (the George Orwell novel) related TikTok content.",
+      {
+        "tool_use_id": "srvtoolu_01PZGQU8rRSC79M8vWrC1xxR",
+        "content": [
+          {
+            "title": "Animal Farm - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Animal_Farm"
+          },
+          {
+            "title": "Animal Farm Quotes",
+            "url": "https://www.tiktok.com/discover/animal-farm-quotes"
+          },
+          {
+            "title": "Andy Serkis\u2019 Animal Farm is coming next year, and I couldn\u2019t be excited. Animal Farm has somehow only been adapted once in film, all the way back in 1954. That film completely changed the point of the story, and was funded by the CIA. My hope is that Serkis can capture George Orwell\u2019s intended message, and deliver the story as it should be told. #animalfarm #georgeorwell #1984 #booktok #movies #movietok #film #filmtok #books  | TikTok",
+            "url": "https://www.tiktok.com/@reel.takes/video/7430479498925165867"
+          },
+          {
+            "title": "Animal Farm by George Orwell - 1 Minute Summary #1Min1Book #BookSummary #AnimalFarm #GeorgeOrwell #ClassicLit #Literature #Reading #BookTok #InstaBook #BestSellers #BookLovers #BookClub #Bookworm #Booknerd  | TikTok",
+            "url": "https://www.tiktok.com/@1min1book/video/7222736786576067886"
+          },
+          {
+            "title": "TikTok - Make Your Day",
+            "url": "https://www.tiktok.com/discover/how-to-read-mr-a\u2019s-farm"
+          },
+          {
+            "title": "Quotes - All animals are equal, but some animals are more equal than others.",
+            "url": "https://www.shmoop.com/quotes/all-animals-are-equal.html"
+          },
+          {
+            "title": "'All Animals Are Equal In George Orwell's Animal Farm' | ipl.org",
+            "url": "https://www.ipl.org/essay/All-Animals-Are-Equal-In-George-Orwells-2CB0B368295BE634"
+          },
+          {
+            "title": "The Animal Farm George Orwell",
+            "url": "https://www.tiktok.com/discover/the-animal-farm-george-orwell"
+          },
+          {
+            "title": "All animals are equal, but some are more equal than others\u2019. How far is this idea important in Animal Farm? - Study Mind",
+            "url": "https://studymind.co.uk/questions/all-animals-are-equal-but-some-are-more-equal-than-others-how-far-is-this-idea-important-in-animal-farm/"
+          },
+          {
+            "title": "Animal Farm Full Song Beasts of England George Orwell",
+            "url": "https://www.tiktok.com/discover/animal-farm-full-song-beasts-of-england-george-orwell"
+          }
+        ]
+      },
+      "Let me search for more specific information about Animal Farm TikTok trends and viral content.",
+      {
+        "tool_use_id": "srvtoolu_019vg68rxPtnsJnfHVj9Ntcn",
+        "content": [
+          {
+            "title": "Animal Farm 2025 Film",
+            "url": "https://www.tiktok.com/discover/animal-farm-2025-film"
+          },
+          {
+            "title": "Animal Farm",
+            "url": "https://www.tiktok.com/discover/animal-farm?lang=en"
+          },
+          {
+            "title": "Animal Farm (2025 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Animal_Farm_(2025_film)"
+          },
+          {
+            "title": "Animal Farm 2025 Film Trailer",
+            "url": "https://www.tiktok.com/discover/animal-farm-2025-film-trailer"
+          },
+          {
+            "title": "Animal Farm Movie 2025",
+            "url": "https://www.tiktok.com/discover/animal-farm-movie-2025"
+          },
+          {
+            "title": "Animal Farm Movie Clip 2025",
+            "url": "https://www.tiktok.com/discover/animal-farm-movie-clip-2025"
+          },
+          {
+            "title": "Mr Everything English Animal Farm Predictions 2025",
+            "url": "https://www.tiktok.com/discover/mr-everything-english-animal-farm-predictions-2025"
+          },
+          {
+            "title": "Animal Farm Edit",
+            "url": "https://www.tiktok.com/discover/animal-farm-edit"
+          },
+          {
+            "title": "Animal Farm Edits",
+            "url": "https://www.tiktok.com/discover/animal-farm-edits"
+          },
+          {
+            "title": "Animal Farm Project 2025",
+            "url": "https://www.tiktok.com/discover/animal-farm-project-2025"
+          }
+        ]
+      },
+      "Let me search for more information about how Animal Farm content is trending on social media platforms.",
+      {
+        "tool_use_id": "srvtoolu_014ChxT5sovQyQMcCjq3a37h",
+        "content": [
+          {
+            "title": "The Booktok Farmer Who Just Landed A Book",
+            "url": "https://www.tiktok.com/en/trending/detail/the-booktok-farmer-who-just-landed-a-book"
+          },
+          {
+            "title": "TikTok - Make Your Day",
+            "url": "https://www.tiktok.com/discover/ban-effect-on-booktok"
+          },
+          {
+            "title": "Why Is Animal Farm on The Book Ban List",
+            "url": "https://www.tiktok.com/discover/why-is-animal-farm-on-the-book-ban-list"
+          },
+          {
+            "title": "Animal Farm - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Animal_Farm"
+          },
+          {
+            "title": "21 Popular BookTok Books And Why They Went Viral On TikTok",
+            "url": "https://www.today.com/popculture/books/booktok-tiktok-books-list-rcna70986"
+          },
+          {
+            "title": "Animal Farm Review: Orwell's Timeless Political Allegory Decoded",
+            "url": "https://scatteredbooks.com/book-reviews/adult-fiction/animal-farm-george-orwell-book-review/"
+          },
+          {
+            "title": "Animal Farm | Political Satire, Allegory & Fable | Britannica",
+            "url": "https://www.britannica.com/topic/Animal-Farm"
+          },
+          {
+            "title": "The most popular BookTok books trending on TikTok right now - Reviewed",
+            "url": "https://www.reviewed.com/lifestyle/features/booktok-books-trending"
+          },
+          {
+            "title": "BookTok's Latest Fight Is Over Trump, Politics",
+            "url": "https://www.rollingstone.com/culture/culture-features/booktok-trump-election-publishing-tiktok-1235210189/"
+          },
+          {
+            "title": "\u201cAnimal Farm: A Timeless Critique of Political Power and Abuse\u201d | by binilbparakkal | Medium",
+            "url": "https://binilbparakkal.medium.com/animal-farm-a-timeless-critique-of-political-power-and-abuse-191c6f8a87f2"
+          }
+        ]
+      },
+      "Based on my search results, I can provide you with information about Animal Farm-related content on TikTok, though the specific hashtags you mentioned (#AnimalFarm #Orwell #AllAnimalsAreEqual) didn't return direct TikTok results. Here's what I found:\n\n## Animal Farm on TikTok\n\n### Current Trends:\n\n1. **2025 Film Adaptation**: There's significant buzz around Andy Serkis' upcoming animated Animal Farm film coming in 2025, starring Seth Rogen, Gaten Matarazzo, Woody Harrelson, Steve Buscemi, Glenn Close and Kieran Culkin. TikTok creators are expressing excitement about this being only the second film adaptation (after the 1954 CIA-funded version).\n\n2. **BookTok Community**: Popular fictional books with clear political allegories or messaging like The Lord of the Rings or The Hunger Games are being discussed, and Animal Farm fits into this category as a masterpiece of political satire that uses the setting of a farm and its animals to allegorically represent the events leading up to the Russian Revolution of 1917.\n\n3. **Political Discussions**: Following the results of the 2024 presidential election, one of the trending topics on BookTok wasn't a discussion of a new release, but Donald Trump's win over Vice President Kamala Harris \u2014 and how its presence in every corner of the community is making people pick sides. This has created an environment where political allegories like Animal Farm are particularly relevant.\n\n### Key Themes Resonating on Social Media:\n\n1. **\"All Animals Are Equal\" Quote**: The famous quote \"All animals are equal, but some animals are more equal than others\" continues to be used when people are pointing out essential hypocrisies in the government or the Powers-That-Be.\n\n2. **Educational Content**: TikTok creators like \"1 Min 1 Book\" are creating one-minute summaries of Animal Farm, making the classic accessible to new audiences.\n\n3. **Contemporary Relevance**: The book's greatest strength lies in its timelessness \u2013 while it was written as a specific critique of Stalinism, its themes of power, corruption, and propaganda remain relevant in any political context.\n\n### BookTok Impact:\n\nThe #booktok hashtag has amassed over 112 billion views and is a powerful force within the publishing industry, helping authors sell over 20 million books in 2021. While Animal Farm isn't among the current romance-heavy BookTok bestsellers, it remains relevant in political and educational discussions on the platform.\n\nThe search results suggest that while there may not be viral dance trends specifically using Animal Farm hashtags, the book maintains a presence on TikTok through educational content, political discussions, and anticipation for the 2025 film adaptation."
+    ],
+    "durationSeconds": 50.54970176100032
+  }
+}

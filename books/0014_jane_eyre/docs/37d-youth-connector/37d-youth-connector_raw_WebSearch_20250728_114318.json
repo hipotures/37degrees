@@ -1,0 +1,47 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Jane Eyre\" mental health themes trauma \"red room\" Bertha Mason Gen Z mental health awareness 2024"
+  },
+  "tool_response": {
+    "query": "\"Jane Eyre\" mental health themes trauma \"red room\" Bertha Mason Gen Z mental health awareness 2024",
+    "results": [
+      "I'll search for information about mental health themes in Jane Eyre, particularly focusing on trauma, the red room, Bertha Mason, and how Gen Z relates to these themes in 2024.",
+      {
+        "tool_use_id": "srvtoolu_01Q4j1ootzhaEhTaL9pTtmoH",
+        "content": [
+          {
+            "title": "Mental Illness In Jane Eyre - 919 Words | Cram",
+            "url": "https://www.cram.com/essay/Mental-Illness-In-Jane-Eyre/PCJSPX9B5LT"
+          },
+          {
+            "title": "Mental Illness Behind The Jane Eyre Novel | Melissa's Blog",
+            "url": "http://melissahager.com/mental-illness-behind-the-jane-eyre-novel/"
+          },
+          {
+            "title": "The Red Room Episode in Charlotte Bront\u00eb's \"Jane Eyre\"",
+            "url": "https://owlcation.com/humanities/Brief-Analysis-of-the-Red-Room-Episode-in-Charlotte-Brontes-Jane-Eyre"
+          },
+          {
+            "title": "Jane Eyre Red Room Analysis - 1234 Words | Cram",
+            "url": "https://www.cram.com/essay/Jane-Eyre-Red-Room-Analysis/PCYXYUFGV"
+          },
+          {
+            "title": "Trapped in the Red Room: A Look into the Mind of the... | Bartleby",
+            "url": "https://www.bartleby.com/essay/Trapped-in-the-Red-Room-A-Look-P379ARAVJ"
+          },
+          {
+            "title": "All the Monsters in Jane Eyre \u2039 CrimeReads",
+            "url": "https://crimereads.com/all-the-monsters-in-jane-eyre/"
+          }
+        ]
+      },
+      "Based on the search results, I found some interesting connections between Jane Eyre's mental health themes and contemporary discussions, though the results don't specifically address Gen Z's 2024 perspective as directly as hoped. Here's what I found:\n\n## Mental Health Themes in Jane Eyre\n\n### The Red Room as Trauma\nThe traumatic event of losing both of Jane's parents clearly caused part of the outbursts that she experiences at a young age, however the lack of love and bullying that is dolled out at Gateshead worsens the mental state of an already unstable child. All of the anger Jane encapsulates in herself throughout her life begins in one place, the red room.(no content)Jane's inferiority and insecurities stem from the emotional trauma she experiences from Mrs. Reed's punishing her by locking her up alone in the red-room. Mrs. Reed's punishment of locking up Jane in the red-room is so traumatizing that it causes Jane to become insecure and feel inferior.(no content)The abusive situation with the Reed's son, the traumatic experience of getting locked up in the red room, and being excluded from all the activities in the house taught Jane how to be alone but it also instilled long-lasting psychological effects. From her experiences with the red-room and the Reed's, Jane continues to remember the red-room whenever she feels ashamed. Jane is later reminded of the red-room every time she feels humiliated and inferior because of the red-room and stops her from being happy.\n\n### Bertha Mason and Mental Illness Representation\nCharlotte Bronte's accurate yet insensitive portrayal of how mental illness was viewed in the Victorian Era is shown through the depiction of the character Bertha Mason in the novel Jane Eyre.(no content)Bertha Mason, the first wife of Mr. Rochester, was of Creole descent and had a family history of madness. Due to the insanity and animalistic behavior of his wife, Mr. Rochester opted to imprison his wife in the attic under the care of a nurse.(no content)Due to the popularity of Jane Eyre, some experts and academics even studied and compared the condition of Bertha Mason to an individual diagnosed with Huntington's disease (HD). Similar to Huntington's tenets, Bertha Mason depicted a disorder with a strong family history, which is suggestive of an autosomal dominant inherited condition with adult onset and culminating in suicide.\n\n### Modern Relevance and Contemporary Mental Health Awareness\nThe 'madness of Bertha' has influenced society's perception and awareness of mental illness. The novel explores themes that remain relevant today:\n\nThe doppelganger takes on the novel may not be too far-fetched since Jane Eyre is even imprisoned by the red room as a child and has an abstract sense of confinement as a woman of low social class.(no content)After all, the feelings of entrapment of Jane Eyre and Bertha Mason might still be the same confines we face today.(no content)Thankfully, the rigid social level, the limitations of women, and the stigma of mental illness are improving and far better as compared before; however, the issues remain despite countless efforts from advocacy groups and the healthcare sector.\n\n### The \"Madwoman in the Attic\" Trope\nFemale writers became adept at doubletalk\u2014and at the creation of deranged doubles who act out the author's own camouflaged guilt and rage. The authors call this double 'the madwoman in the attic.' They have named this archetype after Bertha, Mr. Rochester's \"mad\" wife, whom he keeps locked in a tower in Thornfield Hall, and who later burns down the whole edifice.(no content)Gilbert and Gubar highlight one of the most important elements of the 19th century Gothic genre, which is that the most furious, dangerous creature might live within the heroine. Jane Eyre becomes not a story about a woman threatened by her dark and spooky surroundings, as much as a story about a woman who destroys the unsatisfactory world she is cursed to live in, and builds a new one for herself where she has control and power.\n\nWhile the search results don't specifically address Gen Z's 2024 perspective on these themes, they do highlight how Jane Eyre's exploration of trauma, mental illness, and women's confinement continues to resonate with contemporary discussions about mental health awareness and gender equality. The novel's depiction of childhood trauma (the red room), institutionalized responses to mental illness (Bertha's imprisonment), and the psychological effects of social oppression remain relevant to modern mental health discourse."
+    ],
+    "durationSeconds": 45.55370334499981
+  }
+}

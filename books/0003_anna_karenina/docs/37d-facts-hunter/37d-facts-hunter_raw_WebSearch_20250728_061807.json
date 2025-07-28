@@ -1,0 +1,63 @@
+{
+  "session_id": "7ca65eb2-e5d0-4143-8931-90f15001b62e",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7ca65eb2-e5d0-4143-8931-90f15001b62e.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Maria Hartung\" Tolstoy \"Anna Karenina\" inspiration Pushkin daughter Alexander Pushkin real person"
+  },
+  "tool_response": {
+    "query": "\"Maria Hartung\" Tolstoy \"Anna Karenina\" inspiration Pushkin daughter Alexander Pushkin real person",
+    "results": [
+      "I'll search for information about Maria Hartung's connection to Tolstoy's \"Anna Karenina\" and her relationship to Alexander Pushkin.",
+      {
+        "tool_use_id": "srvtoolu_013iRbGeLzKJ3483bmGk3F8a",
+        "content": [
+          {
+            "title": "4 intriguing secrets in Leo Tolstoy's 'Anna Karenina' - GW2RU",
+            "url": "https://www.gw2ru.com/articles/3157-secrets-tolstoy-anna-karenina"
+          },
+          {
+            "title": "Anna Karenina Things You Didnt Know | Course Hero",
+            "url": "https://www.coursehero.com/lit/Anna-Karenina/things-you-didnt-know/"
+          },
+          {
+            "title": "Anna Karenina - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Anna_Karenina"
+          },
+          {
+            "title": "4 intriguing secrets in Leo Tolstoy's 'Anna Karenina'",
+            "url": "https://www.rbth.com/arts/334855-secrets-tolstoy-anna-karenina"
+          },
+          {
+            "title": "Maria Pushkina-Hartung. The eldest daughter of the poet and prototype Anna Karenina",
+            "url": "https://mpradist.ru/en/mariya-pushkina-gartung-starshaya-doch-poeta-i-prototip-anny.html"
+          },
+          {
+            "title": "Anna Karenina by Leo Tolstoy",
+            "url": "https://www.audible.com/blog/review-anna-karenina-audible-essentials"
+          },
+          {
+            "title": "Anna Karenina",
+            "url": "https://archive.thedailystar.net/campus/2007/02/01/classic.htm"
+          },
+          {
+            "title": "Anna Karenina: Leo Tolstoy: 9787506814638: Amazon.com: Books",
+            "url": "https://www.amazon.com/Anna-Karenina-Leo-Tolstoy/dp/7506814633"
+          },
+          {
+            "title": "Maria McKenzie: The Real Anna Karenina",
+            "url": "https://readandwriteromance.blogspot.com/2012/12/the-real-anna-karenina.html"
+          },
+          {
+            "title": "Anna Karenina by Leo Tolstoy \ud83d\udcdd\u270f\ufe0f \u2014 Steemit",
+            "url": "https://steemit.com/books/@zazazum/anna-karenina-by-leo-tolstoy"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about Maria Hartung (also spelled Gartung) and her connection to Tolstoy's \"Anna Karenina\":\n\n## Maria Hartung and Anna Karenina\n\nBy the way, the image of Karenina was inspired by Pushkin's eldest daughter, the beautiful fine lady Maria Gartung, who Tolstoy once met and was very impressed by.(no content)Tolstoy met Maria Hartung at a ball and was immediately struck by her beauty.\n\n### The Meeting Between Tolstoy and Maria Hartung\n\nAt the beginning of 1868, Maria Alexandrovna met Leo Tolstoy in the house of General A. Tulubiev in Tula. The meeting was particularly memorable and was described in detail by Tolstoy's sister-in-law:\n\n\"The door from the front opened, and an unknown lady came in in a black lace dress. Her easy walk easily carried her rather full, but straight and graceful figure.\"(no content)I saw him staring at her intently. - Who is it? he asked, coming up to me. - Mme Hartung, daughter of the poet Pushkin.(no content)When he was told who she was, he said admiringly, \"Yes, now I understand where she gets her pedigree, those curls at the back!\" (A reference to Pushkin's African ancestry.)\n\n### Maria's Influence on Anna Karenina's Character\n\nHe reportedly based many of Anna Karenina's external features on Maria.(no content)When Lev Nikolaevich began working on the novel \"Anna Karenina,\" he imagined it was Maria Pushkin. The writer wanted his heroine to look the same as the heiress of Alexander Sergeyevich.(no content)Apparently Tolstoy was transfixed by Maria, instantly taken with her beauty and intelligence, as well as her\u2026elbows. Soon after meeting her, Tolstoy returned home and, out of curiosity, began reading some of Alexander Pushkin's writings. While reading he slipped into a daydream, in which he saw a fleeting image of \"a bare exquisite aristocratic elbow.\"\n\n### Maria Hartung's Background\n\nNo, not an accidental namesake, but the native daughter of the great poet. The eldest daughter of the \"sun of Russian poetry\" was born on May 19, 1832 in the glorious city of Petersburg.(no content)The character of Anna was likely inspired, in part, by Maria Hartung (18321919), the elder daughter of the Russian poet Alexander Pushkin.\n\n### Their Conversation and Connection\n\nThey talked animatedly all evening. At Tolstoy's request, Maria told him about her father (probably from her mother's words, since he died when she was five) and shared her impressions of literature and art. Tolstoy genuinely admired the subtlety of her taste, her uniqueness, and the boldness of her opinion.(no content)Meeting the young woman at a ball, Tolstoy was struck by her beauty and, after engaging in a conversation, also by her bold opinions on literature and art.\n\n### Literary Inspiration\n\nIn March 1873 Tolstoy was suddenly inspired by an opening line in a book of stories by the Russian author Alexander Pushkin: \"The guests were getting ready to leave for the country house.\" That's the way for us to write! That night he began writing Anna Karenina.(no content)He later said that Maria not only resembled her father externally, but was probably similar to him internally as well. The poet's daughter so struck Tolstoy's imagination, that she became the inspiration of his famous heroine, Anna Karenina.\n\nYes, Maria Hartung was indeed a real person - she was Alexander Pushkin's eldest daughter, and her meeting with Tolstoy in 1868 served as direct inspiration for the character of Anna Karenina, particularly in terms of Anna's physical appearance and aristocratic bearing."
+    ],
+    "durationSeconds": 47.439126229000045
+  }
+}

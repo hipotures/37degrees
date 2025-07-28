@@ -1,0 +1,63 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Jane Eyre film adaptations 1944 1973 1996 2011 complete list major productions"
+  },
+  "tool_response": {
+    "query": "Jane Eyre film adaptations 1944 1973 1996 2011 complete list major productions",
+    "results": [
+      "I'll search for information about Jane Eyre film adaptations, focusing on the major productions from 1944, 1973, 1996, and 2011, as well as a complete list.",
+      {
+        "tool_use_id": "srvtoolu_01BeTxB9aWM61yyyjiNaEhzA",
+        "content": [
+          {
+            "title": "Adaptations of Jane Eyre - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Adaptations_of_Jane_Eyre"
+          },
+          {
+            "title": "15 Best Jane Eyre Film Adaptations, Ranked",
+            "url": "https://screenrant.com/best-jane-eyre-film-adaptations-ranked/"
+          },
+          {
+            "title": "Comprehensive Guide to \"Jane Eyre\" Adaptations",
+            "url": "https://discover.hubpages.com/literature/Comprehensive-Guide-to-Jane-Eyre-Adaptations"
+          },
+          {
+            "title": "The Eyre Guide : Reviews of Jane Eyre Adaptations",
+            "url": "https://eyreguide.com/post/617213314896936960/reviews-of-jane-eyre-adaptations"
+          },
+          {
+            "title": "Comprehensive Guide to \"Jane Eyre\" Adaptations - ReelRundown",
+            "url": "https://reelrundown.com/misc/Comprehensive-Guide-to-Jane-Eyre-Adaptations"
+          },
+          {
+            "title": "Jane Eyre: Movie Adaptations | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/janeeyre/movie-adaptations/"
+          },
+          {
+            "title": "Jane Eyre, 1943 | Adaptations Wiki | Fandom",
+            "url": "https://adaptations.fandom.com/wiki/Jane_Eyre,_1943"
+          },
+          {
+            "title": "Jane Eyre adaptations",
+            "url": "https://www.imdb.com/list/ls066126514/"
+          },
+          {
+            "title": "Jane Eyre | film by Stevenson [1943] | Britannica",
+            "url": "https://www.britannica.com/topic/Jane-Eyre-film-by-Stevenson"
+          },
+          {
+            "title": "The Enthusiast's Guide to Jane Eyre",
+            "url": "http://eyreguide.awardspace.co.uk/adaptations.html"
+          }
+        ]
+      },
+      "Based on my search results, I can provide you with information about Jane Eyre film adaptations, including the major productions from 1944, 1973, 1996, and 2011, as well as a more complete list of adaptations.\n\n## Major Jane Eyre Film Adaptations\n\n### 1944 Version\nJane Eyre is an American film adaptation of Charlotte Bront\u00eb's 1847 novel of the same name, released by 20th Century Fox on Christmas Eve 1943. Directed by Robert Stevenson, the film stars Orson Welles and Joan Fontaine as the leading characters of Rochester and Jane, with Elizabeth Taylor making a short appearance as Helen. (Note: Though released in 1943, this is commonly referred to as the 1944 version.) One of the best-known film versions, this adaptation was influenced by the Mercury Theatre on the Air radio adaptation of the novel, which Welles collaborated on. The film omits the St. John plotline, and instead has Jane return to Gateshead after the halted wedding, where she stays until Mrs. Reed's death.\n\n### 1973 Version\n1973: Jane Eyre, a BBC series starring Sorcha Cusack (Jane), Michael Jayston (Rochester), Juliet Waley (Young Jane), and Tina Heath (Helen Burns); much of the dialogue is taken directly from the original novel(no content)This five-part miniseries created for the BBC maintained great fidelity to the book.\n\n### 1996 Version\n1996: Jane Eyre, directed by Franco Zeffirelli, starring William Hurt (Rochester), Charlotte Gainsbourg (Jane), Elle Macpherson (Blanche Ingram), Joan Plowright (Mrs. Fairfax), Anna Paquin (Young Jane), Fiona Shaw (Mrs. Reed), and Geraldine Chaplin (Miss Scatcherd)(no content)The 1996 Jane Eyre was the first major theatrical adaptation since the 1944 version. Directed by Franco Zeffirelli, its complete title is Charlotte Bront\u00eb's Jane Eyre.(no content)This adaptation tones down the Gothic elements of the story to focus on the love between Jane and Rochester. In service of this goal, the film rushes through Jane's childhood, cutting many plot threads before she arrives at Thornfield.\n\n### 2011 Version\n2011: Jane Eyre, directed by Cary Fukunaga, starring Mia Wasikowska (Jane), Michael Fassbender (Rochester), and Judi Dench (Mrs. Fairfax)(no content)Unlike the novel, this adaptation tells Jane's story through a series of flashbacks. Fukunaga has stated that he wanted to play up the Gothic elements of the novel, which he felt other films overlooked.(no content)The film received positive reviews, with critics praising Wasikowska for her portrayal of Jane.\n\n## Complete List of Major Productions\n\nBeyond the four versions you mentioned, here are other significant adaptations:\n\n**Early Silent Films:**\n- The 1910 film adaptation of Jane Eyre is thought to be the first. It was produced less than 70 years after the debut of the novel.\n- Various silent versions from the 1910s and 1920s\n\n**Sound Film Era:**\n- The 1934 version was the first \"talkie\" adaptation.\n- Jane Eyre (1949) Director: Franklin Schaffner Notable Cast: Charlton Heston, Mary Sinclair \u00b7 This television adaptation was part of the Studio One television series that showed hour-long dramas throughout the 1940s and 1950s.\n\n**Television Adaptations:**\n- 1970: TV movie with George C. Scott and Susannah York\n- Jane Eyre (1983) Director: Julian Amyes Notable Cast: Zelah Clarke, Timothy Dalton \u00b7 This BBC miniseries consists of 11 half-hour episodes and remains largely faithful to the book.\n- 1997: Jane Eyre, directed by Robert Young, starring Ciar\u00e1n Hinds and Samantha Morton\n- 2006: BBC miniseries starring Ruth Wilson and Toby Stephens\n\nThe novel has been adapted numerous times for film, television, radio, and stage, making it one of the most frequently adapted classic novels in English literature."
+    ],
+    "durationSeconds": 40.26353986399993
+  }
+}

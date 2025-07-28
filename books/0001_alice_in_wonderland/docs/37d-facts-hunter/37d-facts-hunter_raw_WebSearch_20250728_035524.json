@@ -1,0 +1,63 @@
+{
+  "session_id": "ac25dab5-19ee-43b4-8689-cf24d65d211d",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ac25dab5-19ee-43b4-8689-cf24d65d211d.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Alice in Wonderland\" translations 174 languages international impact sales records adaptations"
+  },
+  "tool_response": {
+    "query": "\"Alice in Wonderland\" translations 174 languages international impact sales records adaptations",
+    "results": [
+      "I'll search for information about Alice in Wonderland's translations, international impact, sales records, and adaptations.",
+      {
+        "tool_use_id": "srvtoolu_01PWApGqR9mCg6QF2LgNPF5v",
+        "content": [
+          {
+            "title": "Alice's Adventures in Wonderland - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Alice's_Adventures_in_Wonderland"
+          },
+          {
+            "title": "Atlas Translation - Novels in Translation: Alice in Wonderland",
+            "url": "https://www.atlas-translations.co.uk/blog/alice-wonderland/"
+          },
+          {
+            "title": "The Mad Challenge of Translating \"Alice's Adventures in Wonderland\"",
+            "url": "https://www.smithsonianmag.com/arts-culture/mad-challenge-translating-alices-adventures-wonderland-180956017/"
+          },
+          {
+            "title": "Translations of Alice's Adventures in Wonderland - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Translations_of_Alice's_Adventures_in_Wonderland"
+          },
+          {
+            "title": "Alice in Japanese Wonderlands: Translation, Adaptation, Mediation \u2013 UH Press",
+            "url": "https://uhpress.hawaii.edu/title/alice-in-japanese-wonderlands-translation-adaptation-mediation/"
+          },
+          {
+            "title": "Alice's Adventures in Wonderland | Encyclopedia.com",
+            "url": "https://www.encyclopedia.com/arts/educational-magazines/alices-adventures-wonderland"
+          },
+          {
+            "title": "Alice in Wonderland translations | Cotsen Children\u2019s Library",
+            "url": "https://blogs.princeton.edu/cotsen/tag/alice-in-wonderland-translations/"
+          },
+          {
+            "title": "Alice in a World of Wonderlands: The Translations of Lewis Carroll's Masterpiece - Alice-in-Wonderland.net shop",
+            "url": "https://www.alice-in-wonderland.net/product/alice-in-a-world-of-wonderlands-the-translations-of-lewis-carrolls-masterpiece/"
+          },
+          {
+            "title": "Alice in Wonderland books in many languages",
+            "url": "https://www.omniglot.com/books/fiction/alice.htm"
+          },
+          {
+            "title": "Translating Alice. : languagehat.com",
+            "url": "https://languagehat.com/translating-alice/"
+          }
+        ]
+      },
+      "Based on my search results, here's comprehensive information about Alice in Wonderland's translations, international impact, sales records, and adaptations:\n\n## Translations\n\nAlice's Adventures in Wonderland has been translated into 174-175 languages, making it one of the most translated works in literary history. This includes every major language, a number of minor ones, some languages that are extinct and at least one that is invented. From Japanese, Korean, Arabic, to Emoji\u2014yes, a 27,500-word novel has been translated into a text of 25,000+ emojis and formatted on to a super-sized emoji poster.\n\nThe language with the most editions of the Alice in Wonderland novels in translation is Japanese, with 1,271 editions. The books have been translated into Japanese more than 500 times, resulting in more editions of these works in Japanese than any other language except English.\n\n## International Impact\n\nThe book has never been out of print. Alice was a publishing sensation, beloved by children and adults alike. Oscar Wilde was a fan; Queen Victoria was also an avid reader of the book.\n\nThe international impact is particularly significant in Japan, where since the first translations appeared in 1899, Alice has found her way into nearly every facet of Japanese life and popular culture. Generations of Japanese children learned English from textbooks containing Alice excerpts. Japan's internationally famous fashion vogue, Lolita, merges Alice with French Rococo style. In Japan Alice is everywhere\u2014in manga, literature, fine art, live-action film and television shows, anime, video games, clothing, restaurants, and household goods consumed by people of all ages and genders.\n\n## Sales Records\n\nCarroll's own copy of Alice, one of only six surviving copies of the 1865 first edition, is sold at an auction for US$1.54 million to an anonymous American buyer, becoming the most expensive children's book (this was in 1998).\n\nThe manuscript of Alice's Adventures Under Ground written and illustrated by Carroll, which he had given to Alice Liddell, was sold at Sotheby's in London on 3 April 1928. It was sold to Philip Rosenbach of Philadelphia for \u00a315,400, a world record for the sale of a manuscript at the time.\n\n## Adaptations\n\nIts legacy includes adaptations to screen, radio, visual art, ballet, opera, and musical theatre, as well as theme parks, board games and video games.\n\n### Film and Television\n- Released in 1903, the British silent film Alice in Wonderland was the first screen adaptation of the book\n- Alice has inspired several screen adaptations, from Disney's well-known 1951 animated feature to more \"adult\" versions by contemporary Czech surrealist Jan Svankmajer and Playboy\n- The book has inspired numerous film and television adaptations, which have multiplied, as the original work is now in the public domain in all jurisdictions\n\n### Stage Adaptations\n- The first full major production was Alice in Wonderland, a musical play in London's West End by Henry Savile Clarke and Walter Slaughter, which premiered at the Prince of Wales Theatre in 1886\n- It has been adapted for the stage several times, has served as the basis for countless spin-offs in the realm of fiction\n\n### Music\n- Musical works inspired by Alice include the Beatles's song \"Lucy in the Sky with Diamonds\", with songwriter John Lennon attributing the song's fantastical imagery to his reading of Carroll's books\n- has inspired at least one well-known pop song (Jefferson Airplane's 1967 hit \"White Rabbit\")\n\n### Cultural Products\nSince the first publication of Alice's Adventures in Wonderland 150 years ago, Lewis Carroll's work has spawned a whole industry, from films and theme park rides to products such as a \"cute and sassy\" Alice costume.\n\nThe book's enduring popularity and cultural impact is evidenced by the fact that a massive work called \"Alice in a World of Wonderlands\" devotes three volumes to exploring its translations, with essays by 251 writers analyzing the beloved children's book in 174 languages."
+    ],
+    "durationSeconds": 48.84678431600006
+  }
+}

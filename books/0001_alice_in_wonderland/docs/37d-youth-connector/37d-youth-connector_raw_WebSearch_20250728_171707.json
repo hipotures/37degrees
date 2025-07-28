@@ -1,0 +1,201 @@
+{
+  "session_id": "e45997b0-1016-4783-9450-979f533f9cbc",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e45997b0-1016-4783-9450-979f533f9cbc.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Alicja w Krainie Czar\u00f3w\" Polish youth Gen Z TikTok memes Polska m\u0142odzie\u017c 2024 2025"
+  },
+  "tool_response": {
+    "query": "\"Alicja w Krainie Czar\u00f3w\" Polish youth Gen Z TikTok memes Polska m\u0142odzie\u017c 2024 2025",
+    "results": [
+      "I'll search for information about \"Alicja w Krainie Czar\u00f3w\" (Alice in Wonderland) Polish youth Gen Z TikTok memes from 2024-2025.",
+      {
+        "tool_use_id": "srvtoolu_01DJq17g7ZbyGXT2uPXkv4Gv",
+        "content": [
+          {
+            "title": "Alicja w krainie czar\u00f3w - Piaskowa Magia | Bilety Online, Opis, Recenzje | 2025, 2026 - biletyna.pl",
+            "url": "https://biletyna.pl/spektakl/Alicja-w-krainie-czarow-Piaskowa-Magia"
+          },
+          {
+            "title": "ALICJA W KRAINIE CZAR\u00d3W \u2013 Festiwal Teatr\u00f3w dla Dzieci 2024 | Bilety Online, Opis, Recenzje | 2025, 2026",
+            "url": "https://biletyna.pl/spektakl/ALICJA-W-KRAINIE-CZAROW-Festiwal-Teatrow-dla-Dzieci-2024/Krakow"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w | Bilety Online, Opis, Recenzje | 2025, 2026 - biletyna.pl",
+            "url": "https://biletyna.pl/spektakl/Alicja-w-Krainie-Czarow"
+          },
+          {
+            "title": "Spektakl: \u201cALICJA W KRAINIE CZAR\u00d3W\u201d",
+            "url": "https://www.pbwnowysacz.pl/aktualnosci/spektakl-alicja-w-krainie-czarow/"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w - Ogr\u00f3d \u015awiate\u0142",
+            "url": "https://krakow.travel/37718-krakow-alicja-w-krainie-czarow-ogrod-swiatel"
+          },
+          {
+            "title": "Kolekcja Alicja w Krainie Czar\u00f3w | Swarovski",
+            "url": "https://www.swarovski.com/pl-PL/c-swa-root/Kategorie/f/collection/collection-alice-in-wonderland/"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w: Magiczna przygoda dla ca\u0142ej rodziny!",
+            "url": "https://koszalincity.pl/wydarzenia-w-koszalinie/alicja-w-krainie-czarow-w-koszalinie/"
+          },
+          {
+            "title": "Amazon.com: Alicja w Krainie Czar\u00f3w (Polish Edition): 9788375179095: Carroll, Lewis: Books",
+            "url": "https://www.amazon.com/Alicja-w-Krainie-Czar%C3%B3w-Polish/dp/8375179094"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w (2010) - WP Film - Wirtualna Polska",
+            "url": "https://film.wp.pl/alicja-w-krainie-czarow-6029515731415681a"
+          },
+          {
+            "title": "ALICJA W KRAINIE CZAR\u00d3W GRANNA - sklep internetowy - gry planszowe i edukacyjne",
+            "url": "https://sklep.granna.pl/pl/p/ALICJA-W-KRAINIE-CZAROW/374"
+          }
+        ]
+      },
+      "Based on the search results, I found information about \"Alicja w Krainie Czar\u00f3w\" (Alice in Wonderland) content in Poland from 2024-2025, but the results don't specifically show TikTok memes or Gen Z content. The search results primarily show theatrical performances, light exhibitions, and commercial products. Let me search more specifically for TikTok and meme content.",
+      {
+        "tool_use_id": "srvtoolu_013XcYgYZ6iU2jSB1P3LpW52",
+        "content": [
+          {
+            "title": "Alice in Wonderland Gen Z",
+            "url": "https://www.tiktok.com/discover/alice-in-wonderland-gen-z"
+          },
+          {
+            "title": "Polish Memes 2024",
+            "url": "https://www.tiktok.com/discover/polish-memes-2024"
+          },
+          {
+            "title": "If We\u2019re Alice, TikTok is Wonderland | by Christina Garnett | Stronger Content | Medium",
+            "url": "https://medium.com/stronger-content/if-were-alice-tiktok-is-wonderland-5a0b6b8d5ad1"
+          },
+          {
+            "title": "Gen Z Memes | TikTok",
+            "url": "https://www.tiktok.com/channel/gen-z-memes?lang=en"
+          },
+          {
+            "title": "Gen Z keeps up with 2024 election on TikTok, Twitch, X, Instagram",
+            "url": "https://www.bostonglobe.com/2024/10/29/business/gen-z-voters-election-2024-social-media-tiktok-twitch-x-instagram-memes/"
+          },
+          {
+            "title": "Alice in Wonderland Meme",
+            "url": "https://www.tiktok.com/discover/alice-in-wonderland-meme?lang=en"
+          },
+          {
+            "title": "Alice in Wonderland Memes",
+            "url": "https://www.sideshow.com/blog/alice-in-wonderland-memes"
+          },
+          {
+            "title": "Take a Trip into a Gen Z Alice in Wonderland for Piri & Tommy's Surreal Music Video | LBBOnline",
+            "url": "https://lbbonline.com/news/take-a-trip-into-a-gen-z-alice-in-wonderland-for-piri-tommys-surreal-music-video"
+          },
+          {
+            "title": "Alice and Wonderland Meme",
+            "url": "https://www.tiktok.com/discover/alice-and-wonderland-meme"
+          },
+          {
+            "title": "How Gen Z fell for Poland's memes - UnHerd",
+            "url": "https://unherd.com/2024/11/how-gen-z-fell-for-polands-memes/?us"
+          }
+        ]
+      },
+      "Let me search more specifically for Polish youth and Alice in Wonderland related content on TikTok from 2024-2025.",
+      {
+        "tool_use_id": "srvtoolu_01TRSkK9LjADSqyG3XAv7P5z",
+        "content": [
+          {
+            "title": "Alice in Wonderland 3 2024",
+            "url": "https://www.tiktok.com/discover/alice-in-wonderland-3-2024"
+          },
+          {
+            "title": "Primark Alice in Wonderland 2024",
+            "url": "https://www.tiktok.com/discover/primark-alice-in-wonderland-2024"
+          },
+          {
+            "title": "TikTok - Make Your Day",
+            "url": "https://www.tiktok.com/discover/polski-viral"
+          },
+          {
+            "title": "Alice in Wonderland Garden Exhibit 2024",
+            "url": "https://www.tiktok.com/discover/alice-in-wonderland-garden-exhibit-2024"
+          },
+          {
+            "title": "Alice in Wonderland Swarovski",
+            "url": "https://www.tiktok.com/discover/alice-in-wonderland-swarovski"
+          },
+          {
+            "title": "Wonderland System 2024",
+            "url": "https://www.tiktok.com/discover/wonderland-system-2024"
+          },
+          {
+            "title": "2024 Prom Theme Ideas Alice in Wonderland",
+            "url": "https://www.tiktok.com/discover/2024-prom-theme-ideas-alice-in-wonderland"
+          },
+          {
+            "title": "Wonderland Is Now On TikTok!",
+            "url": "https://www.wonderlandmagazine.com/2024/05/24/wonderland-tiktok/"
+          },
+          {
+            "title": "Alice in Wonderland Restaurant Nyc 2024",
+            "url": "https://www.tiktok.com/discover/alice-in-wonderland-restaurant-nyc-2024"
+          },
+          {
+            "title": "Replying to @Eirini New  Swarovski Alice in Wonderland figurine\u2728#swarovski #aliceinwonderland #figurine #aliciaenelpaisdelasmaravillas #swarovskicrystals #madhatter  | TikTok",
+            "url": "https://www.tiktok.com/@swarovski.fashionvalley/video/7351823684031499562"
+          }
+        ]
+      },
+      "Let me try a different approach and search for recent Polish social media trends and Gen Z content specifically.",
+      {
+        "tool_use_id": "srvtoolu_01MC8CcpjDg92QYY7ombQpQc",
+        "content": [
+          {
+            "title": "Alicja w krainie czar\u00f3w - Memy.pl",
+            "url": "https://memy.pl/mem/81139/Alicja_w_krainie_czarow"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w - Jeja.pl",
+            "url": "https://memy.jeja.pl/54880,alicja-w-krainie-czarow.html"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w, 2024 (ksi\u0105\u017cka) - Profinfo.pl",
+            "url": "https://www.profinfo.pl/sklep/alicja-w-krainie-czarow,546351.html"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w - Ministerstwo \u015bmiesznych obrazk\u00f3w - KWEJK.pl",
+            "url": "https://kwejk.pl/obrazek/1005194/alicja-w-krainie-czarow.html"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w Zdj\u0119cia Memy, \u015bmieszne Gify, zabawne Demotywatory. I pe\u0142ne humoru Zdj\u0119cia i \u017carty",
+            "url": "https://lupal.pl/alicja-w-krainie-czarow/"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w / Cz\u0119stochowa / 2024-02-26, 17:30 (\ud83c\udfad) WYBIERZ MIEJSCE",
+            "url": "https://www.kupbilecik.pl/imprezy/107643/Cz\u0119stochowa/Alicja+w+Krainie+Czar\u00f3w/"
+          },
+          {
+            "title": "ALICJA W KRAINIE CZAR\u00d3W \u2013 Festiwal Teatr\u00f3w dla Dzieci 2024 | Bilety Online, Opis, Recenzje | 2025, 2026",
+            "url": "https://biletyna.pl/spektakl/ALICJA-W-KRAINIE-CZAROW-Festiwal-Teatrow-dla-Dzieci-2024/Krakow"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w (2010) - Filmweb",
+            "url": "https://www.filmweb.pl/film/Alicja+w+Krainie+Czar%C3%B3w-2010-465818"
+          },
+          {
+            "title": "Urodziny Alicji w Krainie Czar\u00f3w - rp.pl",
+            "url": "https://www.rp.pl/kultura/art4437461-urodziny-alicji-w-krainie-czarow"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w (film 2010) \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.m.wikipedia.org/wiki/Alicja_w_Krainie_Czar%C3%B3w_(film_2010)"
+          }
+        ]
+      },
+      "Based on my search results, I can provide you with information about \"Alicja w Krainie Czar\u00f3w\" (Alice in Wonderland) content in Poland from 2024-2025, though the results don't show specific TikTok memes or Gen Z viral content. Here's what I found:\n\n## Current \"Alicja w Krainie Czar\u00f3w\" Activity in Poland (2024-2025)\n\n### Theater Productions and Cultural Events\nPolish theater productions of \"Alicja w Krainie Czar\u00f3w\" are popular with children, youth, and adults, with multiple theatrical performances scheduled throughout 2024 and continuing into 2025. These performances are specifically targeted at families with children aged 4 and up, lasting approximately 60 minutes.\n\n### Light and Interactive Exhibitions\nThere's a multimedia \"Alice in Wonderland - Garden of Lights\" exhibition in Krakow featuring light installations where visitors can follow illuminated paths and encounter characters like the Cheshire Cat, Caterpillar, Mad Hatter, and Queen of Hearts. The 2024 season introduced new interactive devices including \"Color Mixing\" and \"Mixed Images\" installations.\n\n### Commercial Products and Publications\nSwarovski has released an Alice in Wonderland collection in Poland, featuring crystal figurines and jewelry inspired by Lewis Carroll's characters. A new illustrated edition of the book was published in 2024, marketed as supplementary reading for fifth-grade students.\n\n### Polish Meme Culture Context\nWhile I didn't find specific Alice in Wonderland TikTok memes from Polish Gen Z, Poland has gained significant online influence through memes, particularly the \"Kurwa b\u00f3br!\" (beaver) meme that gained 30 million views on TikTok in 2023 and helped popularize Polish internet culture among international audiences. Poland has secured a new online audience among Gen Z, whose memes have spread widely and had tangible effects in the offline world.\n\n### General TikTok Alice Content\nThere have been Gen Z interpretations of Alice in Wonderland in other contexts, such as music videos described as \"gen-z Alice in Wonderland\" featuring psychedelic and surreal elements.\n\nUnfortunately, the search didn't reveal specific Polish youth TikTok memes about \"Alicja w Krainie Czar\u00f3w\" from 2024-2025. The content appears to be more focused on traditional cultural productions (theater, exhibitions) rather than social media viral content. Polish Gen Z seems to be creating other types of viral content that have gained international attention, but Alice in Wonderland-specific memes weren't prominently featured in the results."
+    ],
+    "durationSeconds": 39.36940252100001
+  }
+}

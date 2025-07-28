@@ -1,0 +1,63 @@
+{
+  "session_id": "715f4a06-6795-4697-b7aa-4344b3e12664",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/715f4a06-6795-4697-b7aa-4344b3e12664.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Lalka Prus TikTok BookTok social media youth modern interpretation memes"
+  },
+  "tool_response": {
+    "query": "Lalka Prus TikTok BookTok social media youth modern interpretation memes",
+    "results": [
+      "I'll search for information about how Boles\u0142aw Prus's novel \"Lalka\" (The Doll) is being interpreted and shared on TikTok and BookTok by young people through memes and modern interpretations.",
+      {
+        "tool_use_id": "srvtoolu_01LAu5YfxoSiM47Gjbibd92B",
+        "content": [
+          {
+            "title": "D\u00e9couvre les vid\u00e9os populaires de lalka prus aesthetic | TikTok",
+            "url": "https://www.tiktok.com/discover/lalka-prus-aesthetic?lang=fr"
+          },
+          {
+            "title": "The Influence of BookTok on Literary Criticisms and Diversity - Alysia De Melo, 2024",
+            "url": "https://journals.sagepub.com/doi/10.1177/20563051241286700"
+          },
+          {
+            "title": "The Rise of BookTok: How TikTok Transformed Publishing and Digital Marketing - BlueTickSocial",
+            "url": "https://www.blueticksocial.com/blog/the-rise-of-booktok-how-tiktok-transformed-publishing-and-digital-marketing"
+          },
+          {
+            "title": "The Most Popular TikTok Books #BookTok | Barnes & Noble\u00ae",
+            "url": "https://www.barnesandnoble.com/b/booktok/_/N-2vdn"
+          },
+          {
+            "title": "(PDF) BookTok: A Narrative Review of Current Literature and Directions for Future Research",
+            "url": "https://www.researchgate.net/publication/386042404_BookTok_A_Narrative_Review_of_Current_Literature_and_Directions_for_Future_Research"
+          },
+          {
+            "title": "Introduction to the Special Issue of \u201cTikTok and Social Movements\u201d - Jin Lee, Crystal Abidin, 2023",
+            "url": "https://journals.sagepub.com/doi/full/10.1177/20563051231157452"
+          },
+          {
+            "title": "What Is BookTok? Meaning, Origin & Why It Matters in 2025",
+            "url": "https://www.socialpilot.co/social-media-terms/what-is-booktok"
+          },
+          {
+            "title": "TikTok's trend of 'BookTok' affects viewers' choices - The Post",
+            "url": "https://www.thepostathens.com/article/2024/10/booktok-tiktok-influence-reading"
+          },
+          {
+            "title": "TikTok - Make Your Day",
+            "url": "https://www.tiktok.com/discover/booktok-teksty"
+          },
+          {
+            "title": "BookTok is Good, Actually: On the Undersung Joys of a Vast and Multifarious Platform \u2039 Literary Hub",
+            "url": "https://lithub.com/booktok-is-good-actually-on-the-undersung-joys-of-a-vast-and-multifarious-platform/"
+          }
+        ]
+      },
+      "Based on the search results, I can see that while there's significant content about BookTok in general, there's limited specific information about how Boles\u0142aw Prus's \"Lalka\" (The Doll) is being interpreted on TikTok. However, I found some interesting evidence of Polish youth engaging with this classic novel on the platform. Let me provide you with what I discovered:\n\n## \"Lalka\" on TikTok and BookTok\n\nThe search results reveal that Polish youth are actively creating content about Boles\u0142aw Prus's \"Lalka\" on TikTok, using hashtags like #lalka, #booktok, #booktokpolska, and #boleslawprus. This represents an interesting intersection of classic Polish literature with modern social media trends.\n\n### Modern Interpretations and Memes\n\nTikTok users are creating \"Modern interpretation of Prus' 'Lalka'\" content, tagged with #art, #modern, #book, and #mysterious. This suggests young creators are reimagining the 19th-century novel through contemporary artistic lenses.\n\nThe content includes various creative formats:\n- Videos about crying over the book, with captions like \"I'll never cry over a book\" followed by \"what a lie\"\n- Videos discussing \"A lot of life morals in 1 book\" and creating aesthetic content around the novel\n- Character edits, particularly of Izabela \u0141\u0119cka, using 70s aesthetics\n\n### Character Engagement\n\nYoung readers are particularly engaged with the novel's characters:\n- Content about Stanis\u0142aw Wokulski describes him as \"really rich, is good at shooting, has interesting, philosophical and romantic personality, is lowkey fine asf, impulsive & charismatic, smart\"\n- Some users have created accounts like \"Wokulski supremacy\" showing character devotion\n- Users identify as \"team wokulski\" and discuss the tragic romance elements\n\n### BookTok Context\n\nThe broader BookTok phenomenon helps explain this engagement. Most BookTok creators are teenagers and young women, and BookTok is a niche community on TikTok where readers review and theorize about their favorite books. BookTok uses hashtags where creators feature book recommendations, reviews and memes.\n\nThe engagement with \"Lalka\" on TikTok represents how teenagers experience BookTok community beyond the platform\u2014such as at school, where they discuss BookTok titles with friends or classmates. This suggests that classic Polish literature is finding new life through social media, with young people creating memes, aesthetic videos, and emotional content that makes 19th-century literature relevant to their contemporary experiences."
+    ],
+    "durationSeconds": 31.958077973000005
+  }
+}

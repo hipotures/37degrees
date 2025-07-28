@@ -1,0 +1,63 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"I am no bird and no net ensnares me\" Jane Eyre exact quote chapter"
+  },
+  "tool_response": {
+    "query": "\"I am no bird and no net ensnares me\" Jane Eyre exact quote chapter",
+    "results": [
+      "I'll search for that exact quote from Jane Eyre to help you find the chapter information.",
+      {
+        "tool_use_id": "srvtoolu_01XHMyPZMLY6woHkTBSugZFE",
+        "content": [
+          {
+            "title": "\u201cI am no bird and no net ensnares me: I am a free human being with an independent will which I - 600 Words | Bartleby",
+            "url": "https://www.bartleby.com/essay/I-am-no-bird-and-no-net-PKGLVD5FN47W"
+          },
+          {
+            "title": "Wednesday Wisdom: I am no bird and no net ensnares me Jane Eyre",
+            "url": "https://six0sixdesign.com/wednesday-wisdom/"
+          },
+          {
+            "title": "Jane Eyre: I am no bird and no net ensnares me \u2013 the WANDERLUST",
+            "url": "https://the-wanderlust.com/2016/07/jane-eyre-i-am-no-bird-and-no-net-ensnares-me/"
+          },
+          {
+            "title": "Amazon.com: I Am No Bird and No Net Ensnares Me Print Charlotte Bronte Quote/Jane Eyre : Handmade Products",
+            "url": "https://www.amazon.com/Ensnares-Print-Charlotte-Bronte-Quote/dp/B07GZW6JHH"
+          },
+          {
+            "title": "I am no bird and no net ensnares me.",
+            "url": "https://elevatesociety.com/i-am-no-bird-and-2/"
+          },
+          {
+            "title": "'I am no bird and no net ensnares me.' \ud83e\udd7a Jane Eyre is ...",
+            "url": "https://www.facebook.com/nationaltheatre/posts/i-am-no-bird-and-no-net-ensnares-me-jane-eyre-is-available-to-watch-on-national-/910587464439343/"
+          },
+          {
+            "title": "Amazon.com: Jane Eyre\"I Am No Bird And No Net Ensnares Me\" Quote - Unframed Print : Home & Kitchen",
+            "url": "https://www.amazon.com/Jane-Eyre-Bird-Ensnares-Quote/dp/B07CW2CYXD"
+          },
+          {
+            "title": "I am no bird and no net ensnares me / Jane Eyre ...",
+            "url": "https://www.etsy.com/listing/1216035338/i-am-no-bird-and-no-net-ensnares-me-jane"
+          },
+          {
+            "title": "'I am no bird and no net ensnares me.' - \ud83d\udc94 - Still ... - X",
+            "url": "https://x.com/NationalTheatre/status/1249978197359222789"
+          },
+          {
+            "title": "Jane Eyre \"I Am No Bird And No Net Ensnares Me\" Framed Book Print \u2014 Bookishly",
+            "url": "https://www.bookishly.co.uk/products/jane-eyre-i-am-no-bird-inspirational-quote-on-vintage-book-page"
+          }
+        ]
+      },
+      "The famous quote \"I am no bird; and no net ensnares me: I am a free human being with an independent will; which I now exert to leave you\" appears in Charlotte Bront\u00eb's *Jane Eyre*. Based on the search results, this quote includes a page reference that indicates it appears on pages 257-258 of one edition.\n\nThe quote represents one of the most powerful moments in the novel, where Jane, believing that Mr. Rochester is to marry another, finally loses her cool and rages against his seeming indifference, letting her feelings be known. This scene showcases Jane finally releasing years of being treated like a thing, an object without feeling, and declaring her independence and fierceness of character.\n\nWhile the search results don't provide the specific chapter number, they do indicate this quote comes from \"one of the most powerful scenes\" in the novel, when Jane confronts Mr. Rochester about his apparent plans to marry someone else. The complete quote demonstrates Jane's assertion of her autonomy and refusal to be controlled or confined by anyone."
+    ],
+    "durationSeconds": 15.7192623619996
+  }
+}

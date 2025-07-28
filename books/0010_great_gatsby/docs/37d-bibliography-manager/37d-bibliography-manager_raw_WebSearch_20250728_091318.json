@@ -1,0 +1,63 @@
+{
+  "session_id": "e18f7f1c-5883-41e4-8ef9-15aee4aa266b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e18f7f1c-5883-41e4-8ef9-15aee4aa266b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"The Great Gatsby\" first edition 1925 Scribner original publication manuscript Princeton Fitzgerald archives"
+  },
+  "tool_response": {
+    "query": "\"The Great Gatsby\" first edition 1925 Scribner original publication manuscript Princeton Fitzgerald archives",
+    "results": [
+      "I'll search for information about The Great Gatsby's first edition and manuscript archives at Princeton.",
+      {
+        "tool_use_id": "srvtoolu_01HCgnk1i8R6DKaNoqGzAHkM",
+        "content": [
+          {
+            "title": "The manuscript of The Great Gatsby by F. Scott Fitzgerald",
+            "url": "https://www.spbooks.com/67-the-great-gatsby-9791095457428.html"
+          },
+          {
+            "title": "'The Great Gatsby' manuscript and galleys now online through Princeton University Digital Library",
+            "url": "https://www.princeton.edu/news/2013/05/24/great-gatsby-manuscript-and-galleys-now-online-through-princeton-university-digital"
+          },
+          {
+            "title": "Digitization of The Great Gatsby Autograph Manuscript and Galleys | PUL Manuscripts News",
+            "url": "https://blogs.princeton.edu/manuscripts/2013/05/24/538/"
+          },
+          {
+            "title": "The Great Gatsby \u2013 Corrected First Edition, 1925 May - Finding Aids",
+            "url": "https://findingaids.princeton.edu/catalog/C0187_c00020"
+          },
+          {
+            "title": "The Great Gatsby \u2013 Autograph Manuscript, circa 1924-1925 - Finding Aids",
+            "url": "https://findingaids.princeton.edu/catalog/C0187_c00019"
+          },
+          {
+            "title": "The Great Gatsby | F. Scott Fitzgerald | First Edition, Second Printing",
+            "url": "https://www.burnsiderarebooks.com/pages/books/140945687/f-scott-fitzgerald/the-great-gatsby"
+          },
+          {
+            "title": "F. Scott Fitzgerald. The Great Gatsby. New York: Charles Scribner's | Lot #45039 | Heritage Auctions",
+            "url": "https://historical.ha.com/itm/books/literature-1900-up/f-scott-fitzgerald-the-great-gatsby-new-york-charles-scribner-s-sons-1925-first-edition-first/a/6186-45039.s"
+          },
+          {
+            "title": "The Great Gatsby - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+          },
+          {
+            "title": "Great Gatsby First Edition F. Scott Fitzgerald Rare",
+            "url": "https://www.raptisrarebooks.com/product/the-great-gatsby-f-scott-fitzgerald-first-edition-1925-inscribed/"
+          },
+          {
+            "title": "The Great Gatsby : Fitzgerald, F. Scott (Francis Scott), 1896-1940 : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/greatgatsby00fitz_1"
+          }
+        ]
+      },
+      "Based on my search results, here's what I found about The Great Gatsby's first edition and manuscript archives at Princeton:\n\n## First Edition (1925)\n\nThe Great Gatsby was published on April 10, 1925 by Charles Scribner's Sons. The first edition had distinctive features:\n\n- First state copies can be identified by specific textual errors including \"chatter\" on p.60, \"northern\" on p.119, \"sick in tired\" on p.205, and \"Union Street station\" on p.211\n- The second printing consisted of 3,000 copies with all six textual errors from the first printing corrected\n- The books were bound in \"dark bluish-green textured cloth, spine lettered in gilt, front board lettered in blind\"\n- The famous dust jacket artwork, known as \"Celestial Eyes,\" was created by Francis Cugat and is \"among the most celebrated in American literature\"\n\n## Manuscript at Princeton\n\nThe autograph manuscript and corrected galleys of The Great Gatsby were donated to Princeton University Library in 1950 by Fitzgerald's daughter Scottie Fitzgerald Lanahan. The manuscript collection includes:\n\n1. **The Original Manuscript**: The manuscript is kept at the Department of Rare Books and Special Collections at Princeton University, where F. Scott Fitzgerald studied in 1917. Most of the autograph manuscript was completed in France, where Fitzgerald and his wife Zelda were living, with a manuscript draft of just over 250 pages completed by September 1924.\n\n2. **Additional Materials**:\n   - An 18,000 word draft, which no longer exists except for two pages attached to a letter sent to novelist Willa Cather, referred to by scholars as the \"Ur-Gatsby\"\n   - A document titled \"Trimalchio,\" the novel's working title when Scribner had the proofs made in 1924\n   - Corrected galleys of \"Trimalchio,\" which were much reworked by the author early in 1925\n\n3. **Digital Access**: The Library has put digital images online in the Princeton University Digital Library (PUDL), making the historical items easily accessible to researchers, Fitzgerald fans and the general public. The direct link to the Gatsby materials is: http://pudl.princeton.edu/results.php?f1=kw&v1=gatsby.\n\n4. **Physical Features**: The manuscript shows Fitzgerald's extensive revision process with \"corrections (from entire passages and paragraphs to crossouts with interlinear replacements of a word or phrase); erasures (some decipherable, others not, leaving gaps in the text); instructions (with arrows); handwritten additions\".\n\nFacsimile editions of The Great Gatsby holograph have been published by Microcard Editions Books (1973) and Editions des Saints P\u00e8res (2017), making the manuscript more widely accessible to scholars and the public."
+    ],
+    "durationSeconds": 36.589249830999414
+  }
+}

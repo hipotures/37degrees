@@ -1,0 +1,22 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Jane Eyre\" TikTok BookTok \"Jane Eyre energy\" Gen Z social media dark academia aesthetic 2024 2025"
+  },
+  "tool_response": {
+    "query": "\"Jane Eyre\" TikTok BookTok \"Jane Eyre energy\" Gen Z social media dark academia aesthetic 2024 2025",
+    "results": [
+      "I'll search for information about Jane Eyre's popularity on TikTok and BookTok, particularly focusing on the \"Jane Eyre energy\" trend, Gen Z engagement, and its connection to the dark academia aesthetic in 2024-2025.",
+      {
+        "tool_use_id": "srvtoolu_0195pQEnQW8SwvW9d52MMwJH",
+        "content": []
+      },
+      "Based on the search results, here's what I found about Jane Eyre's presence on TikTok and social media:\n\n## Jane Eyre on BookTok and Social Media\n\nThe novel has indeed gained significant traction on TikTok's BookTok community, with the hashtag #JaneEyre garnering over 75 million views. This resurgence is particularly notable among Gen Z readers who are discovering and celebrating Charlotte Bront\u00eb's 1847 classic.\n\n### The \"Jane Eyre Energy\" Phenomenon\n\nThe concept of \"Jane Eyre energy\" has emerged as a popular trend, representing empowerment, independence, and resilience. Young readers on social media platforms are embracing Jane as a feminist icon who challenges societal norms and stands up for herself.\n\n### Dark Academia Connection\n\nJane Eyre has become a cornerstone text within the dark academia aesthetic movement on social media. The novel's Gothic elements, its setting in a mysterious boarding school and manor house, and themes of forbidden romance align perfectly with dark academia's fascination with classical literature, moody atmospheres, and intellectual pursuits.\n\n### 2024-2025 Trends\n\nIn 2024, BookTok has continued to drive renewed interest in classic literature, with Jane Eyre being one of the most discussed Victorian novels on the platform. Content creators are producing videos analyzing the novel's themes, creating aesthetic mood boards, and discussing how Jane's character relates to modern feminism and self-empowerment.\n\nThe trend has also sparked discussions about \"romanticizing your life\" through a Jane Eyre lens, encouraging young women to embrace their independence and intellectual pursuits. This has led to viral videos featuring quotes from the novel, dark academia-inspired outfits, and discussions about finding one's own \"Rochester\" or choosing self-love instead.\n\nThe search results indicate that Jane Eyre has found new life on social media platforms, particularly among Gen Z users who connect with the protagonist's fierce independence and the novel's atmospheric Gothic elements that align with current aesthetic trends."
+    ],
+    "durationSeconds": 20.52802322500013
+  }
+}

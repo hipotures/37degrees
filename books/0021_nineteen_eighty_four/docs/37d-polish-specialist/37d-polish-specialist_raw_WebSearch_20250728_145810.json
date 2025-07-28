@@ -1,0 +1,63 @@
+{
+  "session_id": "b8c17c71-efc6-4c19-9b68-e101c36de9c9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b8c17c71-efc6-4c19-9b68-e101c36de9c9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Rok 1984\" Orwell cenzura PRL underground samizdat bibu\u0142a"
+  },
+  "tool_response": {
+    "query": "\"Rok 1984\" Orwell cenzura PRL underground samizdat bibu\u0142a",
+    "results": [
+      "I'll search for information about George Orwell's \"1984\" in the context of censorship in communist Poland (PRL) and underground publishing (samizdat/bibu\u0142a).",
+      {
+        "tool_use_id": "srvtoolu_01163kwioAUk6ESFWKt8dqbG",
+        "content": [
+          {
+            "title": "Rok 1984 \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Rok_1984"
+          },
+          {
+            "title": "George Orwell, Rok 1984",
+            "url": "https://wolnelektury.pl/katalog/lektura/orwell-rok-1984/"
+          },
+          {
+            "title": "George Orwell \u2013 ciekawostki \u2013 Blog Wydawnictwa GREG",
+            "url": "https://www.greg.pl/blog/george-orwell/"
+          },
+          {
+            "title": "Rok 1984 - Streszczenie szczeg\u00f3\u0142owe - George Orwell - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/george-orwell/rok-1984.streszczenie-szczegolowe"
+          },
+          {
+            "title": "Podcast literacki: odc. #83 Rok 1984, George Orwell",
+            "url": "https://namilybook.pl/podcast/83-rok-1984-george-orwell/"
+          },
+          {
+            "title": "Rok 1984 - streszczenie | Akademia Humanistyczno-Ekonomiczna w \u0141odzi",
+            "url": "https://www.ahe.lodz.pl/strefa-wiedzy/rok-1984-streszczenie"
+          },
+          {
+            "title": "Rok 1984 George'a Orwella w t\u0142umaczeniach - Skrivanek",
+            "url": "https://skrivanek.pl/rok-1984-georgea-orwella-w-tlumaczeniach/"
+          },
+          {
+            "title": "Orwell Rok 1984 I Folwark Zwierz\u0119cy | PDF",
+            "url": "https://www.scribd.com/document/657926367/Orwell-Rok-1984-i-Folwark-Zwierz%C4%99cy"
+          },
+          {
+            "title": "1984 - George Orwell | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5131218/1984"
+          },
+          {
+            "title": "Rok 1984 - George Orwell | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5190929/rok-1984"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with information about George Orwell's \"1984\" in the context of censorship in communist Poland (PRL) and underground publishing:\n\n## \"1984\" and Censorship in Communist Poland\n\nIn PRL, Orwell's novel was banned by censorship, with the first official edition (PIW) published in 1988. However, from 1980 it was published in the form of reprints from the Paris edition in independent publishing houses - the so-called underground press.\n\nIn Poland during the PRL period, it was subject to censorship. Therefore, in Polish translation, it appeared in official circulation only in 1988.\n\n## Underground Publishing (Samizdat/Bibu\u0142a)\n\nThe PRL censorship did not intend to allow the circulation of a book that dealt directly with the totalitarian system and its harmful impact on citizens' lives. So the first official Polish edition dates back to 1988 (40 years after the British premiere), but from 1980 the book was published in the form of reprints in independent publishing houses - the so-called \"second circulation\".\n\nIn PRL, George Orwell's novel was banned. Readers bypassed official distribution channels to obtain their copies. They used, among other things, reprints of the Paris edition.\n\n## First Polish Translation\n\nThe first Polish translation - by Juliusz Mieroszewski - was published in exile at the Literary Institute in Paris in 1953.\n\n## Significance and Impact\n\nFor the generation born and raised in PRL, the ruling Polish communists considered this novel so dangerous that they banned its printing until 1988, when its first official edition appeared, when the system was already shaking in its foundations.\n\nThe novel became an important text for Polish readers who saw parallels between Orwell's dystopian vision and their own reality under communist rule. The underground circulation of \"1984\" through samizdat (bibu\u0142a) demonstrates how Polish citizens resisted censorship and sought access to forbidden literature that critiqued totalitarian systems."
+    ],
+    "durationSeconds": 25.314403137000046
+  }
+}

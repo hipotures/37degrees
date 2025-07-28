@@ -46,6 +46,24 @@ touch tmp/${book_folder_name}-${agent_name}.lock
 # Execute agent
 Task "Use ${agent_name} to research..."
 
+# Check agent result for errors and auto-repair
+If agent output starts with "ERROR: FILE TODO missing", then:
+  - CREATE missing TODO file for that agent (follow TODO GENERATION section)
+  - RE-EXECUTE the same agent with proper TODO now available
+  - Continue with verification below
+
+# Verify agent's FILE TODO completion before marking as done
+CHECK books/${book_folder_name}/docs/todo/TODO_${agent_name}.md:
+- If any tasks are still marked "[ ]" (uncompleted), then:
+  - RE-EXECUTE agent with message: "FILE TODO incomplete - check if you completed all tasks and mark them [x] with timestamps"
+  - Repeat verification until all tasks are marked "[x]" or "[0]"
+
+# Update TODO_master.md to mark agent as complete (only after full verification)
+Edit books/${book_folder_name}/docs/todo/TODO_master.md to change:
+"- [ ] ${agent_name} - Description" 
+to:
+"- [x] ${agent_name} - Description ✓ (YYYY-MM-DD HH:MM)"
+
 # Remove lock file (ALWAYS, even if agent fails)
 rm -f tmp/${book_folder_name}-${agent_name}.lock
 ```
@@ -96,7 +114,11 @@ For each agent, create in docs/todo/:
 - TODO_37d-youth-connector.md
 - TODO_37d-bibliography-manager.md
 
-Also create docs/todo/TODO_master.md for overall workflow tracking.
+TODO_master.md MANAGEMENT:
+1. **CREATE** `books/NNNN_book_name/docs/todo/TODO_master.md` for overall workflow tracking
+2. **INCLUDE** all 7 agents listed as `[ ]` uncompleted initially
+3. **UPDATE** after each agent completion by changing specific line from `[ ]` to `[x]` with timestamp
+4. **VERIFY** final state shows all agents marked complete before ending workflow
 
 Each agent will:
 - Read their TODO from docs/todo/TODO_37d-[agent].md

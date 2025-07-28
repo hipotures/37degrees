@@ -1,0 +1,63 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Animal Farm\" George Orwell banned censored countries CIA Soviet Union propaganda"
+  },
+  "tool_response": {
+    "query": "\"Animal Farm\" George Orwell banned censored countries CIA Soviet Union propaganda",
+    "results": [
+      "I'll search for information about Animal Farm by George Orwell and its history of being banned or censored, particularly in relation to the CIA, Soviet Union, and propaganda.",
+      {
+        "tool_use_id": "srvtoolu_01HGPL6fGXJwrcQCE2NGzDJN",
+        "content": [
+          {
+            "title": "Animal Farm: Banned by the Soviets, Promoted by the CIA - PEN America",
+            "url": "https://pen.org/animal-farm-banned-by-the-soviets-promoted-by-the-cia/"
+          },
+          {
+            "title": "Animal Farm - George Orwell | Censored - the books they didn't want us to read | Birmingham City Council",
+            "url": "https://www.birmingham.gov.uk/info/50138/leisure_and_learning/1435/censored_-_the_books_they_didnt_want_us_to_read/8"
+          },
+          {
+            "title": "Banned Books Week: Animal Farm | CMU Libraries",
+            "url": "https://www.library.cmu.edu/about/news/2021-09/banned-books-week-animal-farm"
+          },
+          {
+            "title": "Orwell Subverted: The CIA and the Filming of Animal Farm By Daniel J. Leab",
+            "url": "https://www.psupress.org/books/titles/978-0-271-02978-8.html"
+          },
+          {
+            "title": "Animal Farm - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Animal_Farm"
+          },
+          {
+            "title": "Animal Farm: The Movie That Helped CIA Spies Win the Cold War",
+            "url": "https://spyscape.com/article/how-cia-spies-used-george-orwell-to-help-win-the-cold-war"
+          },
+          {
+            "title": "Animal Farm by George Orwell | Audible.com",
+            "url": "https://www.audible.com/blog/summary-animal-farm-by-george-orwell"
+          },
+          {
+            "title": "Animal Farm | The Censorship Files",
+            "url": "https://thecensorshipfiles.wordpress.com/volume-1/issue-2/animal-farm/"
+          },
+          {
+            "title": "Orwell Subverted: The CIA and the Filming of Animal Farm on JSTOR",
+            "url": "https://www.jstor.org/stable/10.5325/jj.22361594"
+          },
+          {
+            "title": "Animal Farm: How the CIA Turned Orwell's Literary Classic Into a PsyOps Mission",
+            "url": "https://spyscape.com/article/spy-tricks-the-cia-mission-to-turn-orwells-animal-farm-into-cold-war-weapon"
+          }
+        ]
+      },
+      "Based on the search results, here's what I found about Animal Farm by George Orwell and its history of censorship, banning, and propaganda use:\n\n## Censorship and Banning\n\nThere are many places in the world where George Orwell's satire Animal Farm has been banned. In 2002, the novel was banned in schools in the United Arab Emirates.(no content)The Soviet Union banned Animal Farm until the Cold War was almost over, however. In 1988, the government newspaper Izvestia finally published two chapters of the novel.(no content)Animal Farm has also faced an array of challenges in school settings around the US. The John Birch Society in Wisconsin challenged the reading of Animal Farm in 1965 because of its reference to the masses revolting. New York State English Council's Committee on Defense Against Censorship found that in 1968, Animal Farm had been widely deemed a \"problem book\".\n\n## Initial Publishing Difficulties\n\nUnlike most of other banned political satires, Animal Farm is unique because it was censored due to the war-time relationship between the UK and the Soviet Union. In his proposed preface of Animal Farm, \"The Freedom of the Press,\" Orwell shows that despite the amount of published books in U.K. was quite low due to the war while people were yearning for more books, his book was still rejected by publishers.(no content)Orwell's essay criticised British self-censorship by the press, specifically the suppression of unflattering descriptions of Stalin and the Soviet government.\n\n## CIA Involvement and Propaganda Use\n\nIn the 1950s, the CIA funded an animated film version to be distributed throughout the world; if we are looking for a definition of the opposite of a banned book, a book that has received financial support from the CIA seems like a good candidate.(no content)In 1974, E. Howard Hunt revealed that he had been sent by the CIA's Psychological Warfare department to obtain the film rights from Orwell's widow, and the resulting 1954 animation was funded by the agency.(no content)During the Cold War, the CIA secretly funded a cartoon adaptation of the book as anti-Communist propaganda.(no content)In a colorful display of deceit and cunning, the CIA launched hot air balloons from West Germany in the 1950s and sent them drifting across the Iron Curtain to deliver their prized cargo - George Orwell's novel Animal Farm (1945). Balloons that dodged enemy fire in Poland, Hungary, and Czechoslovakia wafted into hostile territory like silent grenades. Operation AeDinosaur - as the literary spy mission was known - undermined Soviet censorship and used literature as a secret weapon to stir up intellectual debate about communism.(no content)In the CIA-funded movie, however, there is no mention of humans. Only the pigs are totally corrupt. This was a significant change from Orwell's original ending.\n\n## Other Propaganda Activities\n\nThe Information Research Department, a secret Cold War propaganda agency of the British government, translated the book into various languages such as Arabic.(no content)UK spies also found a way to take advantage of Animal Farm, funding a newspaper comic strip in the early 1950s which ran in Brazil, Burma, Eritrea, India, Mexico, Thailand, and Venezuela.\n\n## Contrasting Reception\n\nTo say that the United States is not one of these places is an understatement. Published in 1945 as the Second World War ended and the Cold War began, Animal Farm was made a selection of the Book of the Month Club and thus inducted into the mainstream of the mainstream of American culture. Since then, it has become a book that many of us are forced to read in high school.\n\nAnimal Farm presents a unique case in censorship history - while it was banned in Soviet-controlled territories and faced challenges in various countries, it was simultaneously promoted as anti-communist propaganda by Western intelligence agencies, particularly the CIA, who saw it as a powerful weapon in the Cold War cultural battle."
+    ],
+    "durationSeconds": 45.41826098900003
+  }
+}

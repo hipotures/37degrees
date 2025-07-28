@@ -1,0 +1,63 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Animal Farm\" George Orwell manuscript \"flying bomb\" V-1 London flat Mortimer Crescent 1944 destroyed"
+  },
+  "tool_response": {
+    "query": "\"Animal Farm\" George Orwell manuscript \"flying bomb\" V-1 London flat Mortimer Crescent 1944 destroyed",
+    "results": [
+      "I'll search for information about George Orwell's \"Animal Farm\" manuscript and the V-1 flying bomb incident at his London flat in 1944.",
+      {
+        "tool_use_id": "srvtoolu_01X12vXcm3sWZc3R9wnmE85J",
+        "content": [
+          {
+            "title": "Animal Farm - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Animal_Farm"
+          },
+          {
+            "title": "Orwell Plaque | London Historians' Blog",
+            "url": "https://londonhistorians.wordpress.com/2012/09/18/orwell-plaque/"
+          },
+          {
+            "title": "Orwell \u2013 London Historians' Blog",
+            "url": "https://londonhistorians.wordpress.com/tag/orwell/"
+          },
+          {
+            "title": "George Orwell and Mortimer Crescent",
+            "url": "http://edfordham.com/index.php/historic-kilburn/88-george-orwell-and-mortimer-crescent"
+          },
+          {
+            "title": "orwell-george-collected-essays-journalism-letters-vol-4- ...",
+            "url": "https://orwelllibrary.files.wordpress.com/2014/08/orwell-george-collected-essays-journalism-letters-vol-4-1945-1950-secker-warburg-19681.pdf"
+          },
+          {
+            "title": "George Orwell's House - London",
+            "url": "http://www.shadyoldlady.com/location/2826"
+          },
+          {
+            "title": "George Orwell and Kilburn",
+            "url": "http://kilburnwesthampstead.blogspot.com/2020/01/george-orwell-and-kilburn.html"
+          },
+          {
+            "title": "George Orwell - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/George_Orwell"
+          },
+          {
+            "title": "The Lost Manuscript \u2013 The Orwell Society",
+            "url": "https://orwellsociety.com/the-lost-manuscript/"
+          },
+          {
+            "title": "10 (more) fictional character addresses in London \u2013 5. 27b Canonbury Square\u2026",
+            "url": "https://exploring-london.com/2017/03/01/10-more-fictional-character-addresses-in-london-5-27b-canonbury-square/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with detailed information about the incident involving George Orwell's \"Animal Farm\" manuscript and the V-1 flying bomb attack on his London flat.\n\n## The V-1 Attack on Orwell's Home\n\nIn June 1944, the manuscript was almost lost when a German V-1 flying bomb destroyed his London flat in Mortimer Crescent, Kilburn.(no content)At the end of June 1944 a V1 doodlebug exploded in the garden of North Hall, the large house opposite, and caused considerable damage to many of the houses.\n\nThe Orwell family residence was at 10a Mortimer Crescent, NW6, where the Orwells moved to a larger flat, 10a Mortimer Crescent in Maida Vale/Kilburn in 1942. Fortunately, the family was not at home.\n\n## The Damage and Casualties\n\nThe flying bomb came in from the East early in the morning and passed over Kilburn before making a left turn and completing a circle, to drop in the back of North Hall.(no content)Fourteen people were taken to hospital, and another 20 were slightly injured.(no content)the Orwells were out, but returned to find the ceilings of the flat had collapsed, and it was damaged beyond repair.\n\n## Rescuing the Manuscript\n\nOrwell spent hours sifting through the rubble to find the pages intact.(no content)Armed with a wheelbarrow and a shovel Orwell returned to the bomb site to dig his manuscript out of the ruins.(no content)He thought he had lost the only manuscript for Animal Farm, but after a search he discovered it in the rubble, 'crumpled' but still readable.\n\n## Orwell's Letter to T.S. Eliot\n\nIn June 1944 George Orwell sent the manuscript of Animal Farm to T.S.Eliot at the publishers Faber and Faber with a covering letter which read in part \"This MS. has been blitzed which accounts for my delay in delivering it & its slightly crumpled condition, but it is not damaged in any way.\"(no content)This MS has been blitzed which accounts for my delay in delivering it and its slightly crumpled condition, but it is not damaged in any way.\n\n## Historical Context\n\nBy April 1944 Animal Farm was ready for publication. The novel had been written between November 1943 and February 1944, during which time he was also writing the novel 'Animal Farm' and in November 1943 he became literary editor for Tribune which gave him more time for his novel.\n\n## Aftermath\n\nAfter the bombing, Orwell (real name Eric Arthur Blair) moved to the property at 27b Canonbury Square with his wife Eileen and their young adopted son Richard in 1944 after their flat in Mortimer Crescent, Kilburn, was hit by a V-1 flying bomb.(no content)Number 10 Mortimer Crescent and some of the other V1 damaged houses were replaced by Kington House in 1955.\n\n## Commemoration\n\nOn Tuesday 11th of September a green plaque was unveiled by Richard Blair himself, Orwell's adopted son. The sign was commissioned by The Historic Kilburn Plaque Scheme \u2013 led by local historian Ed Fordham. This occurred in 2012, a green plaque was unveiled on Kington House to commemorate Orwell's time in Kilburn.\n\nThe incident has become a significant part of literary history, demonstrating both the dangers faced by London residents during the V-1 attacks and Orwell's determination to preserve his work, which would become one of the most influential political allegories of the 20th century."
+    ],
+    "durationSeconds": 41.20325400199997
+  }
+}

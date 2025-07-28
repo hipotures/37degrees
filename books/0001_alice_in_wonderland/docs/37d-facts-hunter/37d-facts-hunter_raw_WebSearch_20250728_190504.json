@@ -1,0 +1,63 @@
+{
+  "session_id": "1e352845-1e0f-4095-af1b-a84d83b7849f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/1e352845-1e0f-4095-af1b-a84d83b7849f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Alice in Wonderland\" Disney 1951 impact animation history cultural influence"
+  },
+  "tool_response": {
+    "query": "\"Alice in Wonderland\" Disney 1951 impact animation history cultural influence",
+    "results": [
+      "I'll search for information about the 1951 Disney Alice in Wonderland film's impact on animation history and cultural influence.",
+      {
+        "tool_use_id": "srvtoolu_01EAdz8u9vw71P1zLxRMxA5c",
+        "content": [
+          {
+            "title": "(PDF) Disney\u2019s Alice in Wonderland (1951) Film Analysis: A Narrative of Cultural and Psychological Encounter",
+            "url": "https://www.academia.edu/14062557/Disney_s_Alice_in_Wonderland_1951_Film_Analysis_A_Narrative_of_Cultural_and_Psychological_Encounter"
+          },
+          {
+            "title": "Alice in Wonderland (1951 film) | Disney Wiki | Fandom",
+            "url": "https://disney.fandom.com/wiki/Alice_in_Wonderland_(1951_film)"
+          },
+          {
+            "title": "Alice in Wonderland (1951 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Alice_in_Wonderland_(1951_film)"
+          },
+          {
+            "title": "Disney's 1951 \"Alice in Wonderland\" cartoon movie - Alice-in-Wonderland.net",
+            "url": "https://www.alice-in-wonderland.net/resources/background/disneys-cartoon-movie/"
+          },
+          {
+            "title": "Animation Analysis - Alice in Wonderland (1951) | Mariam Alkhulaifi",
+            "url": "https://sites.northwestern.edu/mariamalkhulaifi/animation-analysis-alice-in-wonderland-1951/"
+          },
+          {
+            "title": "Alice in Wonderland | Disney Animation, Fantasy Adventure, Animated Musical | Britannica",
+            "url": "https://www.britannica.com/topic/Alice-in-Wonderland-film-1951"
+          },
+          {
+            "title": "Alice In Wonderland: The Film with Deep Disney History",
+            "url": "https://storyforanotherday.substack.com/p/alice-in-wonderland-the-film-with"
+          },
+          {
+            "title": "Alice in Wonderland (1951) | Alice in Wonderland Wiki | Fandom",
+            "url": "https://aliceinwonderland.fandom.com/wiki/Alice_in_Wonderland_(1951)"
+          },
+          {
+            "title": "Go Ask Alice - The Enduring Impact of Alice in Wonderland - Culture Honey",
+            "url": "https://www.culturehoney.com/go-ask-alice-the-enduring-impact-of-alice-in-wonderland/"
+          },
+          {
+            "title": "Today in Disney History, 1951: Alice in Wonderland Premiered in the U.K. - WDW Magazine",
+            "url": "https://www.wdw-magazine.com/disney-history-alice-in-wonderland-premiere/"
+          }
+        ]
+      },
+      "Based on my search results, here's a comprehensive overview of Disney's 1951 Alice in Wonderland's impact on animation history and cultural influence:\n\n## Animation History Impact\n\nDisney's 1951 Alice in Wonderland film and its animation are often regarded as some of the finest work in Disney studio history, despite initially receiving poor reviews. The film made several significant contributions to animation:\n\n### Technical and Artistic Innovations\n- Mary Blair is considered to have greatly influenced the film's style and color palette\n- The film featured \"elaborate backgrounds and visual styling (by Mary Blair), as well as Salvador Dali influenced animation sequences\"\n- Alice in Wonderland is the first Disney movie to include ending credits and was the first Disney animated feature in which the voice talent is credited on-screen with the characters they each play\n\n### Production Approach\n- A live action was done to inspire the artists and filmed as reference for them when they begin animating. Kathryn Levine played in it who was also the voice of Alice. The film's production took five years to finish costing around 3$ million. This was due to the full-length live action film that was shot\n\n## Cultural Influence\n\n### Initial Reception and Later Revival\nThe film had a fascinating journey from initial failure to cultural phenomenon:\n- It was initially considered a box-office bomb, grossing $2.4 million domestically and received generally negative reviews from critics\n- It gained popularity in the 1970s due to the \"drug\" culture fandom at the time, it was released in 1974, and then again in 1981. Almost two decades after its original release, after the North American success of George Dunning's animated film Yellow Submarine, Disney's version of Alice in Wonderland suddenly found itself in vogue with the times. In fact, because of Mary Blair's art direction and the long-standing association of Carroll's Alice in Wonderland with the drug culture, the feature was re-discovered as something of a \"head film\" (along with Fantasia and The Three Caballeros) among the college-aged and was shown in various college towns across the country\n\n### Music and Popular Culture\n- \"The only success brought about by the movie was the music. 'I'm Late' and 'The Unbirthday Song' were two songs that became quite popular with the public\"\n- The title song, composed by Sammy Fain, has become a jazz standard, adapted by jazz pianist Dave Brubeck in 1952 and included on his 1957 Columbia album Dave Digs Disney\n- In 1967, in the midst of the psychedelic and reportedly drug-fueled \"Flower Power\" movement, a San Francisco band called Jefferson Airplane recorded \"White Rabbit\", a song based on Alice in Wonderland that shot to #8 on the Billboard Hot 100 charts\n\n### Long-term Legacy\n- Its 1974 re-release in theaters proved to be much more successful, leading to subsequent re-releases, merchandising and home video releases; it has been more positively reviewed over the years, being regarded as one of Disney's best animated films\n- Today, Disney's Alice in Wonderland extends far beyond its initial film release into several other areas of popular culture. The film and its characters have been the inspiration for songs and multiple retellings over the years, and it's a major part of Disney theme parks. Both the Disneyland Resort and Walt Disney World Resort have featured Alice and other characters from the film in everything from parades and fireworks shows to merchandise, and character meet and greets. The Mad Tea Party attraction in Disneyland and the Magic Kingdom along with Disneyland's Alice in Wonderland dark ride make up some of the most beloved Fantasyland experiences for Guests on both coasts\n\n### Influence on Contemporary Art\n- This article explores the character of Alice in Garcia's Wonderland and investigates the impact of Walt Disney's 1951 animated film on her illustrative styling. The Disney metapicture is an important lens here as the uncanny resemblance to the 1951 Alice looms in Garcia's depiction of Carroll's protagonist. Overall, Garcia's version of Alice stems from the haunting presence of Disney's 1951 animated dreamchild\n\nThe 1951 Alice in Wonderland represents a fascinating case study in how a film initially deemed a failure can become a cultural touchstone, influencing everything from counterculture movements to contemporary art and theme park design."
+    ],
+    "durationSeconds": 47.15510520200001
+  }
+}

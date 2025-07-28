@@ -1,0 +1,63 @@
+{
+  "session_id": "ac25dab5-19ee-43b4-8689-cf24d65d211d",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ac25dab5-19ee-43b4-8689-cf24d65d211d.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Alice in Wonderland\" therapy youth teenagers bibliotherapy counseling mental health"
+  },
+  "tool_response": {
+    "query": "\"Alice in Wonderland\" therapy youth teenagers bibliotherapy counseling mental health",
+    "results": [
+      "I'll search for information about using \"Alice in Wonderland\" in therapy and counseling for youth and teenagers, particularly in bibliotherapy for mental health.",
+      {
+        "tool_use_id": "srvtoolu_01Wkx7ApanTKVsbiVYuym6yJ",
+        "content": [
+          {
+            "title": "Alice in Wonderland: A Journey Through Mental Health",
+            "url": "https://neurolaunch.com/alice-in-wonderland-mental-illness/"
+          },
+          {
+            "title": "Bibliotherapy | ALA",
+            "url": "https://www.ala.org/tools/atoz/bibliotherapy"
+          },
+          {
+            "title": "Alice In Therapy",
+            "url": "https://www.theodysseyonline.com/alice-in-therapy"
+          },
+          {
+            "title": "Seeing Myself in Wonderland: Mental Health in American McGee's Alice - WWAC %",
+            "url": "https://womenwriteaboutcomics.com/2017/05/mental-health-american-mcgees-alice/"
+          },
+          {
+            "title": "Bibliotherapy | Psychology Today",
+            "url": "https://www.psychologytoday.com/us/therapy-types/bibliotherapy"
+          },
+          {
+            "title": "Bibliotherapy for Teens: Helpful Tips and Recommended Fiction | School Library Journal",
+            "url": "https://www.slj.com/story/bibliotherapy-for-teens-helpful-tips-and-recommended-fiction"
+          },
+          {
+            "title": "The Psychological & Neurological Disorders Experienced by Characters in Alice in Wonderland: A Neuroscience Reading of Lewis Carroll's Classic Tale | Open Culture",
+            "url": "https://www.openculture.com/2018/01/the-psychological-neurological-disorders-experienced-by-characters-in-alice-in-wonderland.html"
+          },
+          {
+            "title": "Seeing Myself in Wonderland: Mental Health in American McGee\u2019s Alice - Part Two - WWAC %",
+            "url": "https://womenwriteaboutcomics.com/2017/06/mental-health-american-mcgees-alice-2/"
+          },
+          {
+            "title": "Alice in Wonderland Syndrome: Exploring the Curious World of Perception",
+            "url": "https://www.linkedin.com/pulse/alice-wonderland-syndrome-exploring-curious-world-perception-rane"
+          },
+          {
+            "title": "Bibliotherapy: Finding Comfort Through Reading in Times of Grief \u2013 Mesa County Libraries",
+            "url": "https://mesacountylibraries.org/2017/12/bibliotherapy-finding-comfort-through-reading-in-times-of-grief/"
+          }
+        ]
+      },
+      "Based on my search results, I found several interesting connections between \"Alice in Wonderland\" and its use in therapy, counseling, and bibliotherapy for youth and teenagers dealing with mental health issues:\n\n## Key Findings:\n\n### Therapeutic Applications\n\nThe narrative has found its way into therapeutic settings. Art therapists have used Alice's journey as a framework for exploring patients' inner worlds. The vivid imagery and symbolic characters provide a rich vocabulary for expressing complex emotional states that might otherwise be difficult to articulate.(no content)Bibliotherapy is a therapeutic approach employing books and other forms of literature, typically alongside more traditional therapy modalities, to support a patient's mental health. Though the books recommended by therapists can encompass any genre or theme\u2014from philosophy to memoir to self-help\u2014bibliotherapists typically make use of fiction. Reading specific pieces of literature and talking about them with a therapist (or in a group therapy setting) is thought to help patients understand perspectives other than their own, make sense of a difficult past or upsetting symptoms, or experience feelings of hope, contentment, and empathy.\n\n### Mental Health Themes in Alice in Wonderland\n\nScholars, therapists, and readers alike have begun to see the story as a profound allegory for various mental health conditions. The story contains several psychological elements that resonate with mental health experiences:\n\n- One of the most striking parallels is with dissociative identity disorder. Alice's constant changes in size and her questioning of her own identity (\"Who in the world am I?\") reflect the fragmented sense of self often experienced by those with this condition.\n\n- Anxiety and panic attacks are also vividly portrayed throughout the story. Alice's fear and confusion as she navigates unfamiliar situations and encounters bizarre characters mirror the overwhelming sensations many people with anxiety disorders face daily.\n\n### Bibliotherapy for Teenagers\n\nBibliotherapy can serve as an unobtrusive, non-threatening medium to help adolescents relieve their stress and increase their coping skills, according to research published in the Child and Adolescent Social Work Journal.\n\nAccording to the National Institute of Mental Health (NIMH; 2012 data), approximately 2.2 million, or 9.1 percent, of U.S. adolescents ages 12 to 17 had at least one major depressive episode in the past year. Millions more endure other conditions.\n\n### Personal Impact Stories\n\nThe search revealed powerful personal accounts of how Alice in Wonderland has helped individuals dealing with mental health challenges:\n\n- I saw myself reflected in Alice's character and the situation she was in. I wasn't on a bloody crusade to free Wonderland from the Red Queen, but I was waging my own war against my unique set of circumstances. My parents had divorced, I had severe depression, and to top it all off, I was in high school.\n\n- I had tears streaming down my face as the Red Queen taunted Alice in the cut scene before the final battle. It's that experience that comes to mind every time the conversation comes around that video games have the potential to be more than games. Video games can change people's lives, and it's important to put as much careful thought and love into them as any other media.\n\n### Impact on Mental Health Awareness\n\nThe impact of Alice in Wonderland on mental health awareness cannot be overstated. By couching complex psychological concepts in the guise of a children's story, Carroll created a work that has helped destigmatize mental illness.\n\n### Professional Resources\n\nBibliotherapy Education Project \u00a9 website, housed at Central Michigan University. Has resources and links to assist with evaluating materials for bibliotherapy work with children and adolescents, finding evaluated books for certain age groups and issues, and learning more about the use of books in therapy.\n\nThe search results demonstrate that \"Alice in Wonderland\" serves as a valuable tool in bibliotherapy and mental health treatment for youth and teenagers, providing a non-threatening way to explore complex emotional states and psychological experiences through its rich symbolism and relatable protagonist."
+    ],
+    "durationSeconds": 43.681100959000176
+  }
+}

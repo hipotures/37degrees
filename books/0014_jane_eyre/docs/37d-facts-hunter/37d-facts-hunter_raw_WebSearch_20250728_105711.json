@@ -1,0 +1,63 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Jane Eyre\" 1847 publication challenges initial reception Victorian scandals contemporary reviews"
+  },
+  "tool_response": {
+    "query": "\"Jane Eyre\" 1847 publication challenges initial reception Victorian scandals contemporary reviews",
+    "results": [
+      "I'll search for information about the publication challenges, initial reception, and Victorian scandals surrounding Jane Eyre's 1847 release.",
+      {
+        "tool_use_id": "srvtoolu_011YNrcekyyoz48ZbsSzSavZ",
+        "content": [
+          {
+            "title": "Critical Reception of Jane Eyre \u2013 UNSUITABLE",
+            "url": "https://sites.duke.edu/unsuitable/critical-reception-of-jane-eyre/"
+          },
+          {
+            "title": "Jane Eyre's Quest for Truth and Identity",
+            "url": "https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=1006&context=tor"
+          },
+          {
+            "title": "Hey, Teacher, Leave Those Readers Alone! \u2014 Charlotte Bronte's Jane Eyre",
+            "url": "https://victorianweb.org/authors/bronte/cbronte/mayer1.html"
+          },
+          {
+            "title": "The Publication and Initial Reception of Jane Eyre and Wuthering Heights: Victorian Gender Norms and Intertextual Modern Interpretation",
+            "url": "https://scholarworks.umass.edu/masters_theses_2/611/"
+          },
+          {
+            "title": "Jane Eyre | Summary, Characters, Analysis, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/Jane-Eyre-novel-by-Bronte"
+          },
+          {
+            "title": "Essay on Jane Eyre - Challenging Victorian Beliefs | Bartleby",
+            "url": "https://www.bartleby.com/essay/Jane-Eyre-Challenging-Victorian-Beliefs-P3JMH85YVC"
+          },
+          {
+            "title": "About Jane Eyre",
+            "url": "https://www.cliffsnotes.com/literature/j/jane-eyre/about-jane-eyre"
+          },
+          {
+            "title": "Jane Eyre, Past and Present",
+            "url": "https://journals.openedition.org/lisa/1741?lang=en"
+          },
+          {
+            "title": "Introducing Jane Eyre: An Unlikely Victorian Heroine | NEH-Edsitement",
+            "url": "https://edsitement.neh.gov/lesson-plans/introducing-jane-eyre-unlikely-victorian-heroine"
+          },
+          {
+            "title": "Jane Eyre - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Jane_Eyre"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about Jane Eyre's 1847 publication challenges, initial reception, Victorian scandals, and contemporary reviews.\n\n## Publication Details\n\nCharlotte Bront\u00eb's Jane Eyre was first published on October 16th of 1847 by Smith, Elder and Co. as an autobiography under her pseudonym, Currer Bell.(no content)The book was originally published in three volumes as Jane Eyre: An Autobiography, with Currer Bell listed as the editor.\n\n## Initial Reception: A Mixed Response\n\nThe novel received both praise and harsh criticism upon its release:\n\n### Positive Reviews\n\nWhen Jane Eyre was first published in 1847, it was an immediate popular and critical success. Positive reviewers praised several aspects:\n\n- **Originality and Realism**: Reviewers praised Jane Eyre for its originality, freedom of thought and expression, realism, accuracy, and character composition. Author and critic George Henry Lewes wrote a positive review for Jane Eyre, citing its realism, well-developed characters, and descriptive writing.\n\n- **Moral Soundness**: An anonymous review in The Era from November of 1847 was similarly positive, praising the originality and morality of the novel. The review recommended the novel and highlighted its brilliant originality. The reviewer believed that the novel is morally sound.\n\n- **Character Development**: Similar to Lewes, this review believes the characters are lifelike, truthful, and well-fashioned.\n\n### Negative Reviews and Victorian Scandals\n\nThe novel faced significant criticism for challenging Victorian norms:\n\n- **Anti-Christian and Anti-Authoritarian**: Reviewers criticized Jane Eyre for its unconventionalism, immorality, passionate exchanges, anti-authoritative and anti-Christian tendencies, and improbabilities within the storyline. An anonymous review published in The Mirror of Literature, Amusement and Instruction in December of 1847 had a critical and negative reaction, citing anti-Christian and anti-authoritative sentiments.\n\n- **Shocking Content**: Why did so many contemporary critics think Charlotte Bront\u00eb's Jane Eyre (1847) a shocking book?(no content)One remembers that at the time of its publication, Charlotte Bront\u00eb's Jane Eyre shocked its contemporaries.\n\n- **Violation of Social Order**: According to the Quarterly Review, Jane Eyre exemplified the \"tone of mind and thought which has overthrown authority and violated every code human and divine.\"\n\n- **Threat to Young Women**: The Westminster Review expressed a desire to stop \"the daughters direct of Miss Jane Eyre.\"\n\n- **Matthew Arnold's Harsh Critique**: Matthew Arnold wrote, \"Miss Bront\u00eb has written a hideous, undelightful, convulsed, constricted novel . . . one of the most utterly disagreeable books I've ever read . . . [because] the writer's mind contains nothing but hunger, rebellion and rage and therefore that is all she can, in fact, put in her book\"\n\n## Why the Novel Was Considered Scandalous\n\nSeveral factors contributed to the novel's controversial reception:\n\n### 1. **Unconventional Narrator**\nOrienting the point of view so closely to a governess was a remarkable strategy in its time. It was even considered shocking because it contrasted with the normal connotations and status of a governess in that period. Giving a governess \u2014 even a fictitious one \u2014 such a strong voice ran against common views of the proper role of such a woman.\n\n### 2. **Challenge to Gender Norms**\nCharlotte Bront\u00eb challenges the view that men are emotionally, socially and intellectually superior to women. Bront\u00eb denounces the persecution that women suffered at the hands of a society that placed faith in a belief that men were emotionally, socially and intellectually superior to Victorian women.\n\n### 3. **Anti-Catholic Sentiment**\nThough some complained that it was anti-Catholic, the work was an immediate success.\n\n### 4. **Jane's Unconventional Character**\nJane is an unconventional heroine, an independent and self-reliant woman who overcomes both adversity and societal norms.(no content)Readers learn early in the story that Jane Eyre does not fit contemporary society's idea of a proper woman. As a child, Jane stands up to her aunt, Mrs. Reed, on more than one recorded occasion when Jane feels she has been treated unjustly (Bront\u00eb 28, 37). At one point, Jane bluntly tells her aunt, \"I declare, I do not love you: I dislike you the worst of anybody in the world except John Reed [Jane's cousin]\"\n\n### 5. **First-Person Narrative Innovation**\nJane Eyre's appeal was partly due to the fact that it was written in the first person and often addressed the reader, creating great immediacy.(no content)The novel revolutionised prose fiction, being the first to focus on the moral and spiritual development of its protagonist through an intimate first-person narrative, where actions and events are coloured by a psychological intensity.\n\n## Long-term Impact\n\nDespite the initial controversy, The book contains elements of social criticism with a strong sense of Christian morality at its core, and it is considered by many to be ahead of its time because of Jane's individualistic character and how the novel approaches the topics of class, sexuality, religion and feminism.\n\nThe novel's challenges to Victorian conventions regarding gender roles, class status, and women's independence made it both scandalous and groundbreaking for its time, establishing Charlotte Bront\u00eb as a pioneering voice in Victorian literature."
+    ],
+    "durationSeconds": 55.23288813199999
+  }
+}

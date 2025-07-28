@@ -1,0 +1,63 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Jane Eyre\" feminist interpretation cross-cultural global readings women's independence universal themes"
+  },
+  "tool_response": {
+    "query": "\"Jane Eyre\" feminist interpretation cross-cultural global readings women's independence universal themes",
+    "results": [
+      "I'll search for information about feminist interpretations and cross-cultural readings of \"Jane Eyre\" that focus on women's independence and universal themes.",
+      {
+        "tool_use_id": "srvtoolu_01PfHdVLb277mZExoQ7voDuJ",
+        "content": [
+          {
+            "title": "\"Contradiction in Jane Eyre: Conversations of 19th Century Feminism\" by Audrey Clement - Marymount University",
+            "url": "https://marymount.edu/academics/college-of-sciences-and-humanities/school-of-interdisciplinary-studies/student-publications/magnificat-2022/contradiction-in-jane-eyre/"
+          },
+          {
+            "title": "Intersectionality in Jane Eyre and its Adaptations",
+            "url": "https://scholarworks.uark.edu/cgi/viewcontent.cgi?article=2104&context=etd"
+          },
+          {
+            "title": "Analysis of Jane Eyre with Contemporary Feminist Criticism",
+            "url": "https://www.rosiestamu.com/post/analysis-of-jane-eyre-with-contemporary-feminist-criticism"
+          },
+          {
+            "title": "Feminism & Gender Roles in Jane Eyre by Charlotte Bronte - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/feminism-gender-roles-in-jane-eyre.html"
+          },
+          {
+            "title": "Reflection on Feminism in Jane Eyre",
+            "url": "https://www.academypublication.com/issues/past/tpls/vol03/06/08.pdf"
+          },
+          {
+            "title": "The Life Journey of A Young Feminist in \u201cJane Eyre\u201d by Charlotte Bronte (1847) | by Ovioctavia | Write Like a Girl | Medium",
+            "url": "https://medium.com/write-like-a-girl/the-life-journey-of-a-young-feminist-in-jane-eyre-by-charlotte-bronte-1847-c9167793074"
+          },
+          {
+            "title": "Analysis of Feminist Consciousness in the Jane Eyre",
+            "url": "https://saudijournals.com/media/articles/SIJLL_49_288-291.pdf"
+          },
+          {
+            "title": "Feminist Fridays: What\u2019s the Deal with Jane Eyre?",
+            "url": "https://theadroitjournal.org/2019/04/15/jane-eyre-feminism/"
+          },
+          {
+            "title": "Jane Eyre's Quest for Truth and Identity",
+            "url": "https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=1006&context=tor"
+          },
+          {
+            "title": "Jane Eyre: Themes | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/janeeyre/themes/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about feminist interpretations and cross-cultural readings of \"Jane Eyre\" that focus on women's independence and universal themes.\n\n## Feminist Interpretations of Jane Eyre\n\n### Jane as a Feminist Heroine\n\nJane Eyre is considered a feminist work because it shows a heroine who is independent, from the working-class, and unmarried. The novel presents Jane as a complex character who embodies feminist ideals through several key aspects:\n\n1. **Independence**: Jane exemplifies a feminist heroine by leading an independent life... As an adult, Jane is unmarried, childless, and works to support herself. She pursues education and employment as a governess, maintaining financial independence throughout most of the novel.\n\n2. **Self-determination**: Jane's famous declaration represents her feminist stance: \"I am no bird; and no net ensnares me; I am a free human being, with an independent will; which I now exert to leave you.\" This quote emphasizes her refusal to be trapped or controlled by societal expectations.\n\n3. **Moral integrity**: Even after Rochester's legal wife is revealed and Jane is asked by Rochester to become his mistress, Jane decides she would rather stay independent than become a mistress.\n\n### Contemporary Feminist Critiques\n\nModern feminist scholars have identified both progressive and problematic elements in the novel:\n\n**Contradictions in Jane's Feminism**: It seems Jane is a feminist for herself, but struggles when it comes to advocating for others or defining herself outside of male approval... However positive and inspiring Jane's moments of clarity may be, her dismissal of the suffering of other women significantly limits the novel's ability to serve as a feminist work.\n\n**Class and Intersectionality Issues**: Jane is only open to sisterhood with specific types of women\u2014granted, it is unlikely that Ms. Ingram would be open to sisterhood with Jane, but the author's choice to draw that socio-economic boundary with such rigidity says something about the quality of woman Bront\u00eb believes is deserving of total liberation. Indeed, the women Jane does bond with are all eerily like her, both in their socio-economic standing and philosophy\n\n### Cross-Cultural and Universal Themes\n\n#### Women's Independence as a Universal Theme\n\nThe issues of feminine independence and women's rights portrayed in Jane Eyre still resonate with modern-day readers, as equality is still a work in progress. The novel's exploration of women's autonomy transcends its Victorian context and speaks to universal struggles for gender equality.\n\n#### Social Class and Gender Intersection\n\nJane Eyre is critical of Victorian England's strict social hierarchy. Bront\u00eb's exploration of the complicated social position of governesses is perhaps the novel's most important treatment of this theme... Yet, as paid employees, they were more or less treated as servants; thus, Jane remains penniless and powerless while at Thornfield.\n\n### Historical Context and Contemporary Relevance\n\n**Victorian Era Reception**: Many Victorian critics felt that there was a dangerous undertone in the novel's messages, which was due to their discouragement of Jane's independence and her 'unrestrained' character. In 1848, one reviewer, Elizabeth Rigby, who was composing a piece for the Quarterly Review, a conservative periodical, wrote that 'the tone of mind and thought which has overthrown authority and violated every code human and divine \u2026 is the same which has also written Jane Eyre'\n\n**Modern Perspectives**: I do believe, though, that within the context of Victorian England, Jane Eyre could be considered feminist, but only to an extent. This is the crux of the problem, though\u2014society has (thankfully) grown enough in the past couple hundred of years that what may have seemed incredibly feminist in the nineteenth century is antithetical to twenty-first century feminism.\n\n### Universal Themes of Love and Belonging\n\nJane Eyre is very much the story of a quest to be loved. Jane searches, not just for romantic love, but also for a sense of being valued, of belonging. This quest for love and acceptance while maintaining independence represents a universal human struggle that transcends cultural boundaries.\n\nThe novel's enduring relevance lies in its exploration of these tensions between independence and connection, individual agency and social constraints, making it a rich text for cross-cultural and feminist readings that continue to resonate with global audiences today."
+    ],
+    "durationSeconds": 43.25393115599989
+  }
+}

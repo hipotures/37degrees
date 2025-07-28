@@ -1,0 +1,63 @@
+{
+  "session_id": "e18f7f1c-5883-41e4-8ef9-15aee4aa266b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e18f7f1c-5883-41e4-8ef9-15aee4aa266b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Prohibition era 1920s bootlegging operations speakeasies Jazz Age American society 1925"
+  },
+  "tool_response": {
+    "query": "Prohibition era 1920s bootlegging operations speakeasies Jazz Age American society 1925",
+    "results": [
+      "I'll search for information about Prohibition era bootlegging operations, speakeasies, and Jazz Age society around 1925.",
+      {
+        "tool_use_id": "srvtoolu_01RM2JNxgcTFkx7nsTp3JEZS",
+        "content": [
+          {
+            "title": "The Speakeasies of the 1920s - Prohibition: An Interactive History",
+            "url": "https://prohibition.themobmuseum.org/the-history/the-prohibition-underworld/the-speakeasies-of-the-1920s/"
+          },
+          {
+            "title": "Bootleggers & Speakeasies: The Underworld of the Prohibition Era | TheCollector",
+            "url": "https://www.thecollector.com/prohibition-era-bootleggers-speakeasies/"
+          },
+          {
+            "title": "Prohibition in the United States - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Prohibition_in_the_United_States"
+          },
+          {
+            "title": "Alcohol, Jazz & Prohibition \u2014 How Speakeasies & Shebeens in the 1920s & 1940s Fuelled The Rise Of Independent Music In The US & UK | by MERYANA & the team @ RADIOSPARX Music for Business | AudioSparx and RadioSparx | Medium",
+            "url": "https://medium.com/radiosparx/alcohol-jazz-prohibition-how-speakeasies-shebeens-in-the-1920s-1940s-fuelled-the-rise-of-18b7ccdd0b53"
+          },
+          {
+            "title": "Prohibition Era Jazz: The Rise of Speakeasies and Jazz Culture | Jazz Aspen Snowmass",
+            "url": "https://jazzaspensnowmass.org/history-of-prohibition-jazz-the-speakeasy/"
+          },
+          {
+            "title": "Speakeasies, Flappers & Red Hot Jazz: Music of the Prohibition",
+            "url": "https://riverwalkjazz.stanford.edu/program/speakeasies-flappers-red-hot-jazz-music-prohibition"
+          },
+          {
+            "title": "Prohibition: Speakeasies, Loopholes And Politics : NPR",
+            "url": "https://www.npr.org/2011/06/10/137077599/prohibition-speakeasies-loopholes-and-politics"
+          },
+          {
+            "title": "Prohibition | Definition, History, Eighteenth Amendment, & Repeal | Britannica",
+            "url": "https://www.britannica.com/event/Prohibition-United-States-history-1920-1933"
+          },
+          {
+            "title": "Prohibition: Years, Amendment and Definition - HISTORY",
+            "url": "https://www.history.com/topics/1920s/prohibition"
+          },
+          {
+            "title": "Roaring Twenties: Flappers, Prohibition & Jazz Age - HISTORY",
+            "url": "https://www.history.com/articles/roaring-twenties-history"
+          }
+        ]
+      },
+      "Based on the search results, here's what I found about Prohibition era bootlegging operations, speakeasies, and Jazz Age American society around 1925:\n\n## Speakeasies and Their Scale\n\nBy 1925, there were anywhere from 30,000 to 100,000 speakeasy clubs in New York City alone, with 32,000 speakeasies operating at the height of Prohibition in the late 1920s. These illicit bars were nicknamed \"speakeasies\" for how low you had to speak the \"password\" to gain entry so as not to be overheard by law enforcement.\n\nThey ranged from fancy clubs with jazz bands and ballroom dance floors to dingy backrooms, basements and rooms inside apartments. The most famous of them included former bootlegger Sherman Billingsley's fashionable Stork Club on West 58th Street, the Puncheon Club on West 49th favored by celebrity writers such as Dorothy Parker and Robert Benchley, and Harlem's Cotton Club, owned by mobster Owney Madden, on 142nd Street.\n\n## Bootlegging Operations and Organized Crime\n\nOrganized crime in America exploded because of bootlegging. Al Capone, leader of the Chicago Outfit, made an estimated $60 million a year supplying illegal beer and hard liquor to thousands of speakeasies he controlled in the late 1920s. The American Mafia crime syndicate arose out of the coordinated activities of Italian bootleggers and other gangsters in New York City in the late 1920s and early '30s.\n\nGeorge Cassidy was a famous bootlegger who sold alcohol to members of Congress, even working out of the Senate Office Building itself from 1925 to 1930. Physicians wrote an estimated 11 million prescriptions a year throughout the 1920s for \"medicinal\" alcohol, which became another avenue for bootlegging operations.\n\n## Impact on Jazz and Society\n\nWhile jazz music predated Prohibition, the new federal law restricting liquor advanced the future of jazz by creating a nationwide underground nightclub culture in the 1920s. The already-popular jazz music, and the dances it inspired in speakeasies and clubs, fit into the era's raucous, party mood.\n\nThe result of Prohibition was a major and permanent shift in American social life. No longer segregated from drinking together, men and women reveled in speakeasies and another Prohibition-created venue, the house party. Six months after Prohibition became law, women got the right to vote. Suffragettes were on the front line of this landmark battle, but flappers became the most visible heroines of the Jazz Age. The only grown women sporting short skirts and bobbed hair, flappers were easy to spot. They hung out in speakeasies and nightclubs where they danced the Tango, the Black Bottom and the biggest craze of all \u2013 the Charleston \u2013 with bare arms and legs flying.\n\n## Social and Economic Impact\n\nThe nation's total wealth more than doubled between 1920 and 1929, and gross national product (GNP) expanded by 40 percent from 1922 to 1929. With thousands of underground clubs, and the prevalence of jazz bands, liquor-infused partying grew during the \"Roaring Twenties,\" when the term \"dating\" \u2013 young singles meeting without parental supervision \u2014 was first introduced.\n\nThe highest homicide rate in the United States in the first half of the 20th century occurred during the years of prohibition, decreasing immediately after prohibition ended, highlighting the violent nature of the bootlegging trade and its impact on American society."
+    ],
+    "durationSeconds": 43.05109846400004
+  }
+}

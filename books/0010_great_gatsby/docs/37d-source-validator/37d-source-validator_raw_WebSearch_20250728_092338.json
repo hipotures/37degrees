@@ -1,0 +1,63 @@
+{
+  "session_id": "e18f7f1c-5883-41e4-8ef9-15aee4aa266b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e18f7f1c-5883-41e4-8ef9-15aee4aa266b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Gatsbying\" social media term dating behavior posting to catch attention"
+  },
+  "tool_response": {
+    "query": "\"Gatsbying\" social media term dating behavior posting to catch attention",
+    "results": [
+      "I'll search for information about the term \"Gatsbying\" in relation to social media and dating behavior.",
+      {
+        "tool_use_id": "srvtoolu_01SfEuA6KYHYHqZXAEkcXf8N",
+        "content": [
+          {
+            "title": "What Is Gatsbying? The Dating Trend Has To Do With Social Media & It's So Relatable",
+            "url": "https://www.elitedaily.com/p/what-is-gatsbying-the-dating-trend-has-to-do-with-social-media-its-so-relatable-9575716"
+          },
+          {
+            "title": "'Gatsbying' Is a New Dangerous Dating Trend You May Already Be Doing | Catholic Dating Online - Find Your Match Today!",
+            "url": "https://www.catholicsingles.com/blog/gatsbying-dating-trends/"
+          },
+          {
+            "title": "The Psychology Behind Gatsbying, According To A Dating Expert",
+            "url": "https://www.elitedaily.com/p/the-psychology-behind-gatsbying-according-to-a-dating-expert-17030752"
+          },
+          {
+            "title": "Does Gatsbying, aka Using Social Media To Flirt, Work? This Dating Trend Has Actually Been Around Forever",
+            "url": "https://www.bustle.com/p/does-gatsbying-aka-using-social-media-to-flirt-work-this-dating-trend-has-actually-been-around-forever-53825"
+          },
+          {
+            "title": "What Is Gatsbying? (5 Signs You Are Guilty Of It) - Her Norm",
+            "url": "https://hernorm.com/gatsbying/"
+          },
+          {
+            "title": "What\u2019s Gatsbying and How Does It Work: Pros & Cons",
+            "url": "https://www.marriage.com/advice/relationship/what-is-gatsby/"
+          },
+          {
+            "title": "Gatsbying: The New Dating Trend You're Going To Absolutely Hate",
+            "url": "https://www.readunwritten.com/2018/07/06/gatsbying-new-dating-trend-hate/"
+          },
+          {
+            "title": "Gatsbying: The New Way We Seek Validation - SoulMatcher - Elite Dating Service",
+            "url": "https://soulmatcher.app/blog/gatsbying-the-instagram-trend-redefining-modern-flirting/"
+          },
+          {
+            "title": "The Psychology of Gatsbying: Why Do People Do It and Does It Work? - Unabashed Emotions",
+            "url": "https://unabashedemotions.com/the-psychology-of-gatsbying-why-do-people-do-it-and-does-it-work/"
+          },
+          {
+            "title": "Gatsbying: The new dating trend you\u2019re probably already doing \u2013 Metro US",
+            "url": "https://www.metro.us/gatsbying-the-new-dating-trend-youre-probably-already-doing/"
+          }
+        ]
+      },
+      "Based on my search results, I can provide you with comprehensive information about \"Gatsbying\" as a social media dating behavior term.\n\n## What is Gatsbying?\n\nGatsbying is the act of posting a story on social media to capture your crush's attention. The term comes from Jay Gatsby in The Great Gatsby, who devoted all of his time and attention to throwing elaborate parties to get his longtime crush, Daisy, to (1) notice him and (2) like him back.\n\n## Key Characteristics of Gatsbying:\n\n1. **Targeted Approach**: When you Gatsby, the goal is to get the attention of one particular person you're interested in. Unlike setting a thirst trap, Gatsbying is a targeted attempt to win over one specific individual.\n\n2. **Social Media Focus**: Gatsbying is equivalent to posting a picture specifically to catch the love interest of a particular man or woman. It simply means you fancy the person, so you get through to them via your social media.\n\n3. **Calculated Effort**: The pose, the filters, the caption, and the timing are all tailored for the attention of a single person.\n\n## How It Works:\n\nGatsbying is all about posting \"a video, picture or selfie to public social media purely for a love interest to see it\". \"Why, instead of just sending a text to the boy that I like, am I throwing the equivalent of a champagne-soaked, chandelier-swinging, Charleston-dancing party on my Instagram story?\" as described by Matilda Dods, the Australian model who wrote about the trend.\n\n## Psychology Behind Gatsbying:\n\nAccording to online dating expert Julie Spira, it's typically because there's less risk involved. This approach offers a \"passive way of getting their attention and gauging their interest without the fear of instant rejection\".\n\nEssentially, Gatsbying is a form of impression management where individuals curate and highlight aspects of their lives to make a positive and memorable impression on someone they are interested in romantically.\n\n## Gatsbying vs. Thirst Traps:\n\nThe New York Post urges us to think of Gatsbying \"as a high-brow version of the 'thirst trap.'\" Basically, the main difference here is that Gatsbying focuses on quality while thirst traps focus on quantity.\n\n## Potential Drawbacks:\n\n1. **False Hope**: \"Liking and commenting may give you a false sense that someone is interested in you,\" says Spira.\n\n2. **Misinterpretation**: Just as someone's like or comment doesn't guarantee that they're into you, someone's lack of response doesn't mean they aren't. If you put in a lot of effort to catch your crush's eye, and they don't respond, that could potentially backfire and fuel some unnecessary insecurities about their feelings.\n\n3. **Inauthenticity**: \"Another potential pitfall of Gatsbying is creating a false persona that you (mistakenly) believe is better than the real you\".\n\n## The Bottom Line:\n\nGatsbying is just the newest slang for something humans have been doing forever. There's no wrong or right way to flirt with your crush, but don't get stuck in an online-only loop of dead-end flirting. \"Today, the problem is that Gatsbying can go on indefinitely. A lot of the time it just goes nowhere\".\n\nThe term has become a widely recognized way to describe this modern dating behavior where people strategically post on social media hoping to catch the attention of someone they're romantically interested in, rather than directly communicating their feelings."
+    ],
+    "durationSeconds": 41.67224107299931
+  }
+}

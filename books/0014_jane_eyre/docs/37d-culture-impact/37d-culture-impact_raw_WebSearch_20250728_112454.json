@@ -1,0 +1,63 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Jane Eyre TikTok BookTok viral videos hashtag #JaneEyre social media interpretations"
+  },
+  "tool_response": {
+    "query": "Jane Eyre TikTok BookTok viral videos hashtag #JaneEyre social media interpretations",
+    "results": [
+      "I'll search for information about Jane Eyre's presence on TikTok and BookTok, including viral videos and social media interpretations.",
+      {
+        "tool_use_id": "srvtoolu_01XA3JjR6CodFszgp565FSAm",
+        "content": [
+          {
+            "title": "no thoughts, only jane eyre #booktok #studytok #vlog | TikTok",
+            "url": "https://www.tiktok.com/@thesecrethistoryofhallie/video/7072718140228029697?lang=en"
+          },
+          {
+            "title": "Jane Eyre Book",
+            "url": "https://www.tiktok.com/discover/jane-eyre-book"
+          },
+          {
+            "title": "Reading Jane Eyre",
+            "url": "https://www.tiktok.com/discover/reading-jane-eyre"
+          },
+          {
+            "title": "Jane Eyre",
+            "url": "https://www.tiktok.com/discover/jane-eyre"
+          },
+          {
+            "title": "Please give Jane Eyre another try with this reading!!! (edition mentioned is Norton Critical Edition from @W. W. Norton & Company !!) #janeeyre #classicbooks #literaryhistory #charlottebronte #wutheringheights #literaturetiktok #videoessay  | TikTok",
+            "url": "https://www.tiktok.com/@authormmcmahon/video/7504736933713808686"
+          },
+          {
+            "title": "Reply to @samanthaisswagg what\u2019s your favourite classic? #janeeyre #classicbooks #booktok #bookreview #literature #fyp | TikTok",
+            "url": "https://www.tiktok.com/@loverofpages/video/7047498946041744646"
+          },
+          {
+            "title": "#janeeyre hashtag on Instagram \u2022 Photos and videos",
+            "url": "https://www.instagram.com/explore/tags/janeeyre/"
+          },
+          {
+            "title": "Jane Eyre Quote",
+            "url": "https://www.tiktok.com/discover/jane-eyre-quote"
+          },
+          {
+            "title": "persuasion jane eyre\uff5cTikTok Search",
+            "url": "https://www.tiktok.com/discover/persuasion-jane-eyre?lang=en"
+          },
+          {
+            "title": "BookTok For Authors: Complete TikTok Guide For Literary Success",
+            "url": "https://www.learningrevolution.net/booktok-tiktok-for-authors/"
+          }
+        ]
+      },
+      "Based on the search results, I can see that Jane Eyre has a significant presence on TikTok and BookTok, though the search results provide limited specific details about viral videos and social media interpretations. Here's what I found:\n\n## Jane Eyre on TikTok and BookTok\n\nTikTok users like hallie (@thesecrethistoryofhallie) have created content with captions like \"no thoughts, only jane eyre\", suggesting the novel has an enthusiastic following on the platform.\n\nMadison McMahon (@authormmcmahon) has created content encouraging viewers to \"Please give Jane Eyre another try\", indicating that some BookTok creators are promoting the classic novel and discussing different editions, specifically mentioning the Norton Critical Edition.\n\nCreator l\u00e9a (@loverofpages) has posted content asking \"what's your favourite classic?\" while discussing Jane Eyre, showing how the novel is part of broader conversations about classic literature on BookTok.\n\n## Hashtags and Social Media Presence\n\nThe search results confirm that #janeeyre is an active hashtag used across multiple posts, often combined with other relevant hashtags like:\n- #booktok\n- #classicbooks\n- #literature\n- #charlottebronte\n- #literaryhistory\n- #literaturetiktok\n\nSome users compare Jane Eyre to other classics, with one TikToker noting that Persuasion \"has officially knocked Jane Eyre down to third place\" in their personal rankings, showing how the novel is part of ongoing discussions and comparisons within the BookTok community.\n\nThere are also creative adaptations and reinterpretations being discussed, with mentions of \"adaptations of Jane Eyre and Persuasion\" in the context of modern retellings.\n\nWhile the search results don't provide extensive details about specific viral videos or detailed social media interpretations, they do confirm that Jane Eyre maintains an active presence on TikTok's BookTok community, with creators discussing the novel through various lenses including book reviews, classic literature discussions, and comparisons with other works."
+    ],
+    "durationSeconds": 23.32477971199993
+  }
+}

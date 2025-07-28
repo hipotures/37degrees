@@ -1,0 +1,93 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Jane Eyre\" polska m\u0142odzie\u017c TikTok BookTok nastolatki 2024"
+  },
+  "tool_response": {
+    "query": "\"Jane Eyre\" polska m\u0142odzie\u017c TikTok BookTok nastolatki 2024",
+    "results": [
+      "I'll search for information about Jane Eyre's popularity among Polish youth on TikTok and BookTok in 2024.",
+      {
+        "tool_use_id": "srvtoolu_01MyRZrXsuPbanuFrepjFFtv",
+        "content": [
+          {
+            "title": "Jane Eyre Book",
+            "url": "https://www.tiktok.com/discover/jane-eyre-book"
+          },
+          {
+            "title": "Jane Eyre po angielsku wersja uproszczona B1 dla m\u0142odzie\u017cy +audio",
+            "url": "https://www.ettoi.pl/jane-eyre-audio-mp3-9788853607935-p-2500.html"
+          },
+          {
+            "title": "Jane Eyre Gcse Predictions 2024",
+            "url": "https://www.tiktok.com/discover/jane-eyre-gcse-predictions-2024"
+          },
+          {
+            "title": "STAFF OPINION: How BookTok stunts the joys of literature - The Beacon",
+            "url": "https://www.upbeacon.com/article/2024/11/staff-opinion-how-booktok-stunts-the-joys-of-literature"
+          },
+          {
+            "title": "SOWA OPAC : Miejsko-Powiatowa Biblioteka Publicznaim. J\u00f3zefa Lompy w Lubli\u0144cu",
+            "url": "https://www.lubliniec-mpbp.sowa.pl/index.php?KatID=0&typ=repl&plnk=q__*&fsubject=Chorzy+psychicznie&sort=byscore&a=s"
+          },
+          {
+            "title": "SOWA OPAC : Miejska i Powiatowa Biblioteka Publiczna im. J\u00f3zefa Ignacego Kraszewskiego w Be\u0142chatowie",
+            "url": "https://www.belchatow-mipbp.sowa.pl/index.php?KatID=0&typ=repl&plnk=q__%2A&fsubject=Epoka+wiktoria%C5%84ska&sort=byscore&a="
+          }
+        ]
+      },
+      "The search results show limited information about Jane Eyre's popularity among Polish youth on TikTok/BookTok in 2024. Let me search for more specific information about BookTok trends in Poland.",
+      {
+        "tool_use_id": "srvtoolu_016xMeM6qTqPSwCDwfyvr4Rw",
+        "content": [
+          {
+            "title": "TOP 5 ksi\u0105\u017ckar, kt\u00f3re podbijaj\u0105 polski BookTok - Going. MORE - muzyka, kultura, lifestyle",
+            "url": "https://goingapp.pl/more/booktok-ksiazkary-tiktok/"
+          },
+          {
+            "title": "TikTok i ksi\u0105\u017cki, czyli co to jest booktok? - CZYTAM - Empik Pasje",
+            "url": "https://www.empik.com/pasje/tiktok-i-ksiazki-czyli-co-to-jest-booktok,135027,a"
+          },
+          {
+            "title": "Odkryj popularne filmy ze s\u0142owami kluczowymi booktok poland",
+            "url": "https://www.tiktok.com/discover/booktok-poland?lang=pl-PL"
+          },
+          {
+            "title": "Ksi\u0105\u017cki - BookTok | Ksi\u0119garnia Internetowa Gandalf",
+            "url": "https://www.gandalf.com.pl/k/booktok/"
+          },
+          {
+            "title": "BookTok \u2013 nowy trend na TikToku - NaCzytniku.pl",
+            "url": "https://www.naczytniku.pl/booktok-nowy-trend-na-tiktoku/"
+          },
+          {
+            "title": "Tak si\u0119 promuje teraz ksi\u0105\u017cki! TikTok, a w\u0142a\u015bciwie BookTok, czyli o nowym fenomenie w promocji czytelnictwa | G\u0142os Wielkopolski",
+            "url": "https://gloswielkopolski.pl/tak-sie-promuje-teraz-ksiazki-tiktok-a-wlasciwie-booktok-czyli-o-nowym-fenomenie-w-promocji-czytelnictwa/ar/c13-18371465"
+          },
+          {
+            "title": "Magdalena Adamus: BookTok w\u0142a\u015bciwie narzuca trendy na ca\u0142ym rynku ksi\u0105\u017ckowym - RMF 24",
+            "url": "https://www.rmf24.pl/fakty/swiat/news-magdalena-adamus-booktok-wlasciwie-narzuca-trendy-na-calym-r,nId,7488563"
+          },
+          {
+            "title": "Trendy 2024 roku \u2013 Rynek ksi\u0105\u017cki",
+            "url": "https://rynek-ksiazki.pl/czasopisma/trendy-2024-roku/"
+          },
+          {
+            "title": "Podsumowanie roku 2024 na BookTok Polska",
+            "url": "https://www.tiktok.com/@agatandbooks/video/7456061347521072386"
+          },
+          {
+            "title": "What exactly is BookTok, anyway? - SentiOne Blog",
+            "url": "https://sentione.com/blog/what-exactly-is-booktok-anyway"
+          }
+        ]
+      },
+      "Based on my search results, I found limited specific information about Jane Eyre's popularity among Polish youth on TikTok/BookTok in 2024. However, I can provide some context about BookTok trends in Poland:\n\n## BookTok in Poland - General Trends\n\nCo druga osoba korzystaj\u0105ca z TikToka w Polsce przyznaje, \u017ce kupi\u0142a ksi\u0105\u017ck\u0119, o kt\u00f3rej dowiedzia\u0142a si\u0119 dzi\u0119ki aplikacji.(no content)BookTok, czyli spo\u0142eczno\u015b\u0107 mi\u0142o\u015bnik\u00f3w ksi\u0105\u017cek na TikToku, zach\u0119ca do czytania i promuje ksi\u0105\u017cki.\n\n### Popular Content on Polish BookTok\n\nBooktok jest trendsetterem w \u015bwiecie literatury, ale te\u017c promuje czytelnictwo, cz\u0119sto w\u015br\u00f3d nastolatk\u00f3w czy m\u0142odzie\u017cy, kt\u00f3rzy bardzo ch\u0119tnie si\u0119gaj\u0105 po literatur\u0119 Young Adult.\n\nThe most popular genres on Polish BookTok include:\n- Na ksi\u0105\u017ckowym Tik-Toku najwi\u0119ksz\u0105 popularno\u015bci\u0105 ciesz\u0105 si\u0119 ksi\u0105\u017cki przeznaczone dla m\u0142odzie\u017cy oraz tytu\u0142y z kategorii Young i New Adult. Szczeg\u00f3lnie ksi\u0105\u017cki o mi\u0142o\u015bci, pierwszych zwi\u0105zkach i szkolnych problemach.\n- Dlatego ogromne triumfy na BookToku \u015bwi\u0119c\u0105 takie autorki jak Colleen Hoover, Alice Oseman czy Jenny Han.\n\n### Demographics\n\nWi\u0119kszo\u015b\u0107 u\u017cytkownik\u00f3w na BookToku to doro\u015bli mi\u0119dzy 20 a 35 rokiem \u017cycia. Though the platform started with younger users, Rzeczywi\u015bcie przed kilkoma laty mogli\u015bmy m\u00f3wi\u0107 o tym, \u017ce dominuj\u0105c\u0105 grup\u0105 odbiorc\u00f3w s\u0105 ludzie m\u0142odzi - tak dzisiaj ci ludzie m\u0142odzi s\u0105 zwykle ju\u017c grupo ponad pe\u0142noletni.\n\n### Jane Eyre in Poland\n\nWhile I couldn't find specific 2024 data about Jane Eyre's popularity on Polish BookTok, the search results show that:\n- Dziwne losy Jane Eyre po angielsku dla m\u0142odzie\u017cy i doros\u0142ych - adaptacja do nauki j\u0119zyka angielskiego - poziomowana pod wzgl\u0119dem trudno\u015bci j\u0119zykowej ilustrowana lektura z nagraniem audio na poziom \u015brednio zaawansowany (B1 - 1000 s\u0142\u00f3w)\n- The book is available in Polish libraries and bookstores, often marketed as \"Dziwne losy Jane Eyre\" ukaza\u0142y si\u0119 po raz pierwszy w 1847 roku i sta\u0142y si\u0119 wielkim sukcesem wydawniczym. Powie\u015b\u0107, zaliczana do szczytowych osi\u0105gni\u0119\u0107 literackich epoki wiktoria\u0144skiej, harmonijnie \u0142\u0105czy melodramatyczn\u0105 fabu\u0142\u0119 z wnikliw\u0105 obserwacj\u0105 psychologiczn\u0105 oraz nastrojem tajemnicy i grozy.\n\nThe search results suggest that while classic literature like Jane Eyre is available and marketed in Poland, the BookTok community there tends to focus more on contemporary Young Adult and New Adult fiction, particularly romance novels and series that are trending internationally."
+    ],
+    "durationSeconds": 37.78583673800016
+  }
+}

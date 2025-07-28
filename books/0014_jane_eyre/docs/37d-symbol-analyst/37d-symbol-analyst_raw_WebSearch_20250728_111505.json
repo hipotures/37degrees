@@ -1,0 +1,63 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Jane Eyre\" Polish translations reception cultural differences European interpretations"
+  },
+  "tool_response": {
+    "query": "\"Jane Eyre\" Polish translations reception cultural differences European interpretations",
+    "results": [
+      "I'll search for information about Polish translations of \"Jane Eyre\" and how cultural differences affect its reception and interpretation in Europe.",
+      {
+        "tool_use_id": "srvtoolu_0192rPygKg4LgF9K3ouH8n7F",
+        "content": [
+          {
+            "title": "Mapping translation \u2013 on the trail of Jane Eyre | Creative Multilingualism",
+            "url": "https://www.creativeml.ox.ac.uk/blog/exploring-multilingualism/mapping-translation-trail-jane-eyre/"
+          },
+          {
+            "title": "(PDF) A controversial translation justified by the context: \"Janina,\" the first Polish version of Charlotte Bront\u00eb\u2019s \"Jane Eyre\" | Dagmara Hadyna - Academia.edu",
+            "url": "https://www.academia.edu/4019388/A_controversial_translation_justified_by_the_context_Janina_the_first_Polish_version_of_Charlotte_Bront%C3%AB_s_Jane_Eyre_"
+          },
+          {
+            "title": "Prismatic Jane Eyre - Lives of Some Translators",
+            "url": "https://books.openbookpublishers.com/10.11647/obp.0319/translators.xhtml"
+          },
+          {
+            "title": "Translation \u2013 Prismatic Jane Eyre",
+            "url": "https://prismaticjaneeyre.org/concepts-2/translation/"
+          },
+          {
+            "title": "Mapping and Reading a World of Translations: Prismatic Jane Eyre | Modern Languages Open",
+            "url": "https://modernlanguagesopen.org/articles/10.3828/mlo.v0i0.375"
+          },
+          {
+            "title": "(PDF) The evolution of translation standards as illustrated by the history of Polish translations of Jane Eyre by Charlotte Bront\u00eb | Monika Roszkowska - Academia.edu",
+            "url": "https://www.academia.edu/67437591/The_evolution_of_translation_standards_as_illustrated_by_the_history_of_Polish_translations_of_Jane_Eyre_by_Charlotte_Bront%C3%AB"
+          },
+          {
+            "title": "Jane Eyre translated: 57 languages show how different cultures interpret Charlotte Bront\u00eb\u2019s classic novel",
+            "url": "https://theconversation.com/jane-eyre-translated-57-languages-show-how-different-cultures-interpret-charlotte-brontes-classic-novel-124128"
+          },
+          {
+            "title": "(PDF) The evolution of translation standards as illustrated by the history of Polish translations of Jane Eyre by Charlotte Bront\u00eb",
+            "url": "https://www.academia.edu/86777208/The_evolution_of_translation_standards_as_illustrated_by_the_history_of_Polish_translations_of_Jane_Eyre_by_Charlotte_Bront%C3%AB"
+          },
+          {
+            "title": "Prismatic Jane Eyre - 4. Translating the French in the French Translations of Jane Eyre",
+            "url": "https://books.openbookpublishers.com/10.11647/obp.0319/ch4.xhtml"
+          },
+          {
+            "title": "Intersectionality in Jane Eyre and its Adaptations",
+            "url": "https://scholarworks.uark.edu/cgi/viewcontent.cgi?article=2104&context=etd"
+          }
+        ]
+      },
+      "Based on my search results, I've found valuable information about Polish translations of \"Jane Eyre\" and how cultural differences have affected its reception and interpretation across Europe. Here's what I've discovered:\n\n## Polish Translations of Jane Eyre\n\n### Early Polish Translation History\n\nThe first Polish translation appeared in 1880-1881 as an abridged version, which was relatively late compared to other European translations. Earlier translations appeared in German (1848), Russian (1849), Danish (1850), Swedish (c.1850), and French (1854).\n\nThe first Polish translation was controversial. Published between 1880-1881, exactly 33 years after the original novel came out, it was titled \"Janina. Powie\u015b\u0107 z\" (the full title appears to be cut off in the source). This translation was significantly altered from the original:\n\nThe translation resulted from omitting cultural and literary allusions, vocabulary impoverishment and simplification, excessive infantilisation and focusing on the dramatic and the romantic. Moreover, the main characters of Janina seem to be more extreme versions of their originals.\n\n### Translation Standards Evolution\n\nPolish readers had to be satisfied with an abridged version, less than half the length of the original novel until 1930, while there were at least six translations into Russian within the same time period. This disparity suggests different cultural priorities and publishing practices.\n\nThe evolution of translation standards through three Polish translations shows a shift: Emilia Dobrza\u0144ska's version (1880-1881), Teresa \u015awiderska's translation (1930), and Gabriela Jaworska's (2007). Analysis reveals a shift from free, subjective adaptation to more faithful translations, alongside a movement from domestication to foreignization, reflecting broader trends in translation theory.\n\n## Cultural Differences and European Interpretations\n\n### Translation as Cultural Adaptation\n\nThe historical, personal, political, ideological, cultural, social, normative and marketing context of the translation was taken into consideration when analyzing the controversial first Polish translation. This highlights how translations are deeply influenced by their cultural contexts.\n\n### Different Cultural Emphases\n\nThe translations reveal how different cultures interpret the novel:\n\n1. **Title Variations**: In Japanese in 1896 it became Riso Kaijin (An Ideal Lady), in Portuguese in 1941 it was A Paix\u00e3o de Jane Eyre (The Passion of Jane Eyre). In Italian in 1958 it became La porta chiusa (The Shut Door) and in Turkish in 2010 it was rendered as Y\u0131llar Sonra Gelen Mutluluk (Happiness Comes After Many Years).\n\n2. **Key Phrases**: The famous line \"Reader, I married him\" is translated differently across cultures. In Slovenian it becomes the equivalent of \"Reader, we got married\", while all the Persian translations give the equivalent of: \"Reader, he married me\", showing how cultural attitudes toward women's agency affect translation choices.\n\n### French Translation Challenges\n\nFrench translations often fail to convey the moral or cultural clich\u00e9s that the British, and Charlotte Bront\u00eb in particular, tend to attach to the French and that are reflected in the author's use of the French language. Jane Eyre's French translators thus tend to privilege a linguistic take over socio-cultural and ideological approaches to translation.\n\n### Global Reception Patterns\n\nIn the 1980s there were eight new translations into Korean but none into French or German; between 2010 and 2020 there were twenty-four into Persian and again none into French. This shows how translation activity has shifted from Western Europe to other regions over time.\n\nWhat was a thoroughly English book \u2013 anchored to Yorkshire and published in 1847 \u2013 becomes a multilingual, ever-changing global text, continually putting down roots in different cultures.\n\nThe research reveals that Polish translations of \"Jane Eyre\" underwent significant transformations influenced by cultural, political, and social contexts, evolving from heavily adapted versions to more faithful translations over time. This pattern reflects broader European and global trends in how different cultures have interpreted and reimagined Charlotte Bront\u00eb's classic novel."
+    ],
+    "durationSeconds": 45.1207485450001
+  }
+}

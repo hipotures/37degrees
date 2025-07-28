@@ -1,0 +1,201 @@
+{
+  "session_id": "ac25dab5-19ee-43b4-8689-cf24d65d211d",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ac25dab5-19ee-43b4-8689-cf24d65d211d.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Alice in Wonderland fan art DeviantArt Instagram Pinterest count statistics"
+  },
+  "tool_response": {
+    "query": "Alice in Wonderland fan art DeviantArt Instagram Pinterest count statistics",
+    "results": [
+      "I'll search for statistics about Alice in Wonderland fan art across those platforms.",
+      {
+        "tool_use_id": "srvtoolu_01JqTrMnjgXPZzEajGAs4yG4",
+        "content": [
+          {
+            "title": "Explore the Best Alicewonderland Art | DeviantArt",
+            "url": "https://www.deviantart.com/tag/alicewonderland"
+          },
+          {
+            "title": "Explore the Best Wonderland Art | DeviantArt",
+            "url": "https://www.deviantart.com/tag/wonderland"
+          },
+          {
+            "title": "Alice in Wonderland (fan-art) by Alinastiyap on DeviantArt",
+            "url": "https://www.deviantart.com/alinastiyap/art/Alice-in-Wonderland-fan-art-980717567"
+          },
+          {
+            "title": "Disney fan art - Alice in Wonderland by nheydon01 on DeviantArt",
+            "url": "https://www.deviantart.com/nheydon01/art/Disney-fanart-Alice-in-Wonderland-1088214345"
+          },
+          {
+            "title": "Explore the Best Aliceinwonderlandfanart Art | DeviantArt",
+            "url": "https://www.deviantart.com/tag/aliceinwonderlandfanart"
+          },
+          {
+            "title": "36 Alice in Wonderland fanart ideas",
+            "url": "https://www.pinterest.com/fantabio/alice-in-wonderland-fanart/"
+          },
+          {
+            "title": "Alice in Wonderland Fanart by Sophingers on DeviantArt",
+            "url": "https://www.deviantart.com/sophingers/art/Alice-in-Wonderland-Fanart-447071669"
+          },
+          {
+            "title": "Explore the Best Alice_in_wonderland Art | DeviantArt",
+            "url": "https://www.deviantart.com/tag/alice_in_wonderland"
+          },
+          {
+            "title": "250 Alice in Wonderland fan art ideas",
+            "url": "https://www.pinterest.com/aimeesmith6477/alice-in-wonderland-fan-art/"
+          },
+          {
+            "title": "Pinterest",
+            "url": "https://www.pinterest.com/pin/alice--835699274627919408/"
+          }
+        ]
+      },
+      "Let me search for more specific statistics about the count of Alice in Wonderland fan art across these platforms.",
+      {
+        "tool_use_id": "srvtoolu_01PyoNHcr2HaZQY8gBnsy928",
+        "content": [
+          {
+            "title": "Alice In Wonderland: 10 Pieces Of Fan Art The White Queen Would Adore",
+            "url": "https://screenrant.com/alice-wonderland-pieces-fan-art-white-queen-adore/"
+          },
+          {
+            "title": "760 Fan Art: Alice ideas in 2025",
+            "url": "https://www.pinterest.com/missypaperdolls/fan-art-alice/"
+          },
+          {
+            "title": "Alice in Wonderland | Movie fanart | fanart.tv",
+            "url": "https://fanart.tv/movie/12092/alice-in-wonderland/"
+          },
+          {
+            "title": "Alice in Wonderland Fan Art",
+            "url": "https://www.tiktok.com/discover/alice-in-wonderland-fan-art"
+          },
+          {
+            "title": "36 Alice in Wonderland fanart ideas",
+            "url": "https://www.pinterest.com/fantabio/alice-in-wonderland-fanart/"
+          },
+          {
+            "title": "250 Alice in Wonderland fan art ideas",
+            "url": "https://www.pinterest.com/aimeesmith6477/alice-in-wonderland-fan-art/"
+          },
+          {
+            "title": "Exploring the Magical Art of Alice in Wonderland \u2013 Andy okay",
+            "url": "https://andyokay.com/blogs/the-gallerist/exploring-the-magical-art-of-alice-in-wonderland"
+          },
+          {
+            "title": "The Best Illustrations from 150 Years of Alice in Wonderland \u2013 The Marginalian",
+            "url": "https://www.themarginalian.org/2014/07/07/best-illustrations-alice-in-wonderland/"
+          },
+          {
+            "title": "Fan Art | Malice In Wonderland - and all things Alice Wiki | Fandom",
+            "url": "https://malice-in-wonderland-and-all-things-alice.fandom.com/wiki/Fan_Art"
+          },
+          {
+            "title": "Alice in Wonderland \u2013 Disney Fine Art",
+            "url": "https://disneyfineart.com/collections/alice-in-wonderland"
+          }
+        ]
+      },
+      "Let me search for more specific numerical data about Alice in Wonderland fan art counts.",
+      {
+        "tool_use_id": "srvtoolu_01GpmMGtzNqtu2VCxyMGmdZZ",
+        "content": [
+          {
+            "title": "Alice in Wonderland Results by GabrielleBrickey on DeviantArt",
+            "url": "https://www.deviantart.com/gabriellebrickey/journal/Alice-in-Wonderland-Results-227518734"
+          },
+          {
+            "title": "Alice in Wonderland Deviantart",
+            "url": "https://www.pinterest.com/ideas/alice-in-wonderland-deviantart/941972058444/"
+          },
+          {
+            "title": "Alice in wonderland by princessmh on DeviantArt",
+            "url": "https://www.pinterest.com/pin/alice-in-wonderland-by-princessmh-on-deviantart--364228688621049992/"
+          },
+          {
+            "title": "Alice In Wonderland by cippow25 on DeviantArt",
+            "url": "https://www.pinterest.com/pin/alice-in-wonderland-by-cippow25-on-deviantart--473863192055473173/"
+          },
+          {
+            "title": "Alice In Wonderland by BlueUndine on DeviantArt",
+            "url": "https://www.pinterest.com/pin/first-prize-alice-in-wonderland-by-blueundine-on-deviantart--334181234827882135/"
+          },
+          {
+            "title": "#aliceinwonderland | Explore aliceinwonderland on DeviantArt",
+            "url": "https://www.deviantart.com/tag/aliceinwonderland?offset=100"
+          },
+          {
+            "title": "Alice All Over \u2013 21888test3",
+            "url": "https://21888test3.commons.gc.cuny.edu/module-7-overview/alice-all-over/"
+          },
+          {
+            "title": "Lewis Carroll: Alice In Wonderland by techgnotic on DeviantArt",
+            "url": "https://www.deviantart.com/techgnotic/journal/Lewis-Carroll-Alice-In-Wonderland-510032183"
+          },
+          {
+            "title": "Ionixis - Digital Artist | DeviantArt",
+            "url": "https://www.pinterest.com/pin/alice--835699274627919408/"
+          },
+          {
+            "title": "Alice in Wonderland by AverageJoeArtwork on DeviantArt",
+            "url": "https://www.deviantart.com/averagejoeartwork/art/Alice-in-Wonderland-648066278"
+          }
+        ]
+      },
+      "Let me search for Instagram hashtag statistics for Alice in Wonderland fan art.",
+      {
+        "tool_use_id": "srvtoolu_016Np7feYi4VJXPfpww3EP16",
+        "content": [
+          {
+            "title": "Best #aliceinwonderland Hashtags for Instagram & TikTok - Top Trends 2025",
+            "url": "https://best-hashtags.com/hashtag/aliceinwonderland/"
+          },
+          {
+            "title": "Tag #aliceinwonderland - and related hashtags on Instagram - TagsFinder.com",
+            "url": "https://www.tagsfinder.com/en-us/related/aliceinwonderland/"
+          },
+          {
+            "title": "#aliceinwonderland hashtag on Instagram \u2022 Photos and Videos",
+            "url": "https://www.instagram.com/explore/tags/aliceinwonderland/"
+          },
+          {
+            "title": "Display Purposes - Best #aliceinwonderland hashtags for Instagram, TikTok, YouTube in 2024",
+            "url": "https://displaypurposes.com/hashtags/hashtag/aliceinwonderland"
+          },
+          {
+            "title": "Best Instagram hashtags for #aliceinwonderland | Flick: Social Media Marketing Platform",
+            "url": "https://www.flick.social/learn/hashtags/aliceinwonderland"
+          },
+          {
+            "title": "Hashtag Counter \u2013 Count hashtags before you post!",
+            "url": "https://www.hashtagcounter.com/"
+          },
+          {
+            "title": "Best #aliceinwonderland Hashtags for Instagram & TikTok (2025)",
+            "url": "https://top-hashtags.com/hashtag/aliceinwonderland/"
+          },
+          {
+            "title": "Best #aliceinwonderland hashtags for Instagram, TikTok, YouTube [2024]",
+            "url": "https://iqhashtags.com/hashtags/hashtag/aliceinwonderland"
+          },
+          {
+            "title": "Tag #alice - and related hashtags on Instagram - TagsFinder.com",
+            "url": "https://www.tagsfinder.com/en-us/related/alice/"
+          },
+          {
+            "title": "Alison Wonderland (@alisonwonderland) \u2022 Instagram photos and videos",
+            "url": "https://www.instagram.com/alisonwonderland/"
+          }
+        ]
+      },
+      "Based on my search results, I can provide you with information about Alice in Wonderland fan art across DeviantArt, Instagram, and Pinterest, though specific numerical statistics are not readily available in the search results.\n\n## DeviantArt\n\nDeviantArt hosts a significant collection of Alice in Wonderland artwork, with dedicated tags and categories for this theme. The platform features multiple variations of search tags including:\n- #alicewonderland\n- #aliceinwonderlandfanart \n- #alice_in_wonderland(no content)There is a lot of fan art for Alice in Wonderland on the platform, with artists creating various interpretations ranging from traditional Disney-inspired artwork to darker reimaginings like Alice Madness Returns-inspired pieces.\n\n## Instagram\n\n#aliceinwonderland is among the popular hashtags on Instagram, often paired with related tags such as:\n- #alice\n- #disney\n- #madhatter\n- #wonderland\n- #cheshirecat\n- #whiterabbit\n\nThe top 10 related hashtags in the country USA used with hashtag aliceinwonderland are aliceinwonderland disney alice epcot disneyworld wonderland disneyland waltdisneyworld centralpark and madhatter.\n\n## Pinterest\n\nPinterest features numerous Alice in Wonderland fan art collections:\n- One board titled \"36 Alice in Wonderland fanart ideas\"\n- Another collection shows \"250 Alice in Wonderland fan art ideas\"\n- A larger collection displays \"760 Fan Art: Alice ideas in 2025\"\n\n## Cultural Impact\n\nAlice In Wonderland has inspired so much art from fans of the original book to the films. Through the years, the story has been visually interpreted in countless ways. Today, Alice in Wonderland art can be found in a variety of mediums, from paintings and sculptures to tattoos and clothing. Its influence can be seen in everything from fashion to film.\n\nWhile exact count statistics for fan art across these platforms weren't available in the search results, it's clear that Alice in Wonderland remains one of the most popular subjects for fan art across all major social media and art-sharing platforms, with thousands of pieces being created and shared regularly."
+    ],
+    "durationSeconds": 40.79614719599998
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Animal Farm film adaptations complete list 1954 1999 director cast box office"
+  },
+  "tool_response": {
+    "query": "Animal Farm film adaptations complete list 1954 1999 director cast box office",
+    "results": [
+      "I'll search for information about Animal Farm film adaptations, including details about the 1954 and 1999 versions with their directors, cast, and box office performance.",
+      {
+        "tool_use_id": "srvtoolu_01LZ5FsBSf71rssdVpbXZQuh",
+        "content": [
+          {
+            "title": "Animal Farm (1954 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Animal_Farm_(1954_film)"
+          },
+          {
+            "title": "Animal Farm: Movie Adaptations | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/animalfarm/movie-adaptations/"
+          },
+          {
+            "title": "George Orwell's Animal Farm was adapted to film in 1954 and 1999, and in both movies the ending was changed. In your opinion, do the films still do the book justice? - Quora",
+            "url": "https://www.quora.com/George-Orwells-Animal-Farm-was-adapted-to-film-in-1954-and-1999-and-in-both-movies-the-ending-was-changed-In-your-opinion-do-the-films-still-do-the-book-justice"
+          },
+          {
+            "title": "Animal Farm (1999 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Animal_Farm_(1999_film)"
+          },
+          {
+            "title": "Animal Farm (1954 film) | JH Movie Collection Wiki | Fandom",
+            "url": "https://jhmoviecollection.fandom.com/wiki/Animal_Farm_(1954_film)"
+          },
+          {
+            "title": "Animal Farm Movie 1954 & 1999 | Overview & Differences - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/animal-farm-movie-versions-summary-analysis.html"
+          },
+          {
+            "title": "Animal Farm (TV Movie 1999) \u2b50 6.0 | Comedy, Drama, Family",
+            "url": "https://www.imdb.com/title/tt0204824/"
+          },
+          {
+            "title": "Animal Farm (2025 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Animal_Farm_(2025_film)"
+          },
+          {
+            "title": "Animal Farm (1954) | Astro Boy Productions Wiki | Fandom",
+            "url": "https://astro-boy-productions.fandom.com/wiki/Animal_Farm_(1954)"
+          },
+          {
+            "title": "Animal Farm (1954, 1999) - Lozier Institute",
+            "url": "https://lozierinstitute.org/movie-reviews/animal-farm-1954-1999/"
+          }
+        ]
+      },
+      "Based on my search results, I can provide you with a comprehensive list of Animal Farm film adaptations, focusing on the 1954 and 1999 versions with their directors, cast, and box office information:\n\n## Animal Farm Film Adaptations\n\n### 1. **Animal Farm (1954)**\n- **Type**: Animated drama film\n- **Directors**: John Halas and Joy Batchelor\n- **Cast**: \n  - Gordon Heath (narrator)\n  - Maurice Denham (provided all animal voices)\n- **Production Notes**: \n  - Funded in part by the CIA\n  - First British animated feature\n  - Completed in April 1954\n  - Employed about 80 animators\n- **Box Office**: Initially a box office flop, taking fifteen years to generate a profit\n\n### 2. **Animal Farm (1999)**\n- **Type**: Political comedy-drama television film\n- **Director**: John Stephenson\n- **Writer**: Alan Janes\n- **Cast**: Kelsey Grammer, Ian Holm, Julia Louis-Dreyfus, Patrick Stewart, Julia Ormond, Paul Scofield, Charles Dale, Pete Postlethwaite, Alan Stanford and Peter Ustinov\n- **Production Notes**: \n  - Jim Henson's Creature Shop provided the film's animatronic animals\n  - Runtime: 1h 31m, rated PG\n- **Box Office**: No box office information was found in the search results (likely because it was a TV movie)\n- **Release**: Released on VHS and DVD on January 18, 2000 by Artisan Home Entertainment\n\n### 3. **Animal Farm (2025)** - Upcoming\n- **Type**: Animated adventure comedy film\n- **Director**: Andy Serkis\n- **Writer**: Nicholas Stoller\n- **Cast**: Seth Rogen, Gaten Matarazzo, Woody Harrelson, Steve Buscemi, Glenn Close and Kieran Culkin\n- **Note**: Third adaptation of the George Orwell novella\n\n### Key Differences Between Adaptations:\n- The 1954 version was animated like a children's film despite its serious political themes\n- The 1999 version used flashback techniques and featured live-action with animatronics\n- Both films made changes to the novel's plot and ending\n\nUnfortunately, specific box office figures for either the 1954 or 1999 versions were not available in the search results, though the 1954 version is noted as being initially a box office flop before eventually becoming profitable and a staple film shown in classrooms."
+    ],
+    "durationSeconds": 30.373625073000323
+  }
+}

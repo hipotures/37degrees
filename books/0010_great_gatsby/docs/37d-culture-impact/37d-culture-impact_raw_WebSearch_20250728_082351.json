@@ -1,0 +1,63 @@
+{
+  "session_id": "e18f7f1c-5883-41e4-8ef9-15aee4aa266b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e18f7f1c-5883-41e4-8ef9-15aee4aa266b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Great Gatsby\" film adaptations 1974 Robert Redford 2013 Leonardo DiCaprio box office cultural impact"
+  },
+  "tool_response": {
+    "query": "\"Great Gatsby\" film adaptations 1974 Robert Redford 2013 Leonardo DiCaprio box office cultural impact",
+    "results": [
+      "I'll search for information about the Great Gatsby film adaptations from 1974 and 2013, focusing on their box office performance and cultural impact.",
+      {
+        "tool_use_id": "srvtoolu_01A53Pa1xPKwS6RYgXpiP92P",
+        "content": [
+          {
+            "title": "The Great Gatsby (2013 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Great_Gatsby_(2013_film)"
+          },
+          {
+            "title": "Every Great Gatsby Movie, Compared: 2013, 1974, 1949 \u00b7 PrepScholar",
+            "url": "https://blog.prepscholar.com/the-great-gatsby-movies"
+          },
+          {
+            "title": "The Great Gatsby (1974 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Great_Gatsby_(1974_film)"
+          },
+          {
+            "title": "The Great Gatsby movie comparison \u2013 1974 vs 2013",
+            "url": "https://classicsconsidered.com/2021/12/15/the-great-gatsby-movie-comparison-1974-vs-2013/"
+          },
+          {
+            "title": "The Great Gatsby: Now (And Then) A Major Motion Picture",
+            "url": "https://americanfilm.afi.com/issue/2013/5/cover-story"
+          },
+          {
+            "title": "We've Had a Century of 'Great Gatsby' Movies, and None of Them Have Aged Well",
+            "url": "https://movieweb.com/the-great-gatsby-movies-aged-poorly/"
+          },
+          {
+            "title": "The Great Gatsby (2013) \u2b50 7.2 | Drama, Romance",
+            "url": "https://www.imdb.com/title/tt1343092/"
+          },
+          {
+            "title": "The Great Gatsby (2013) | Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/m/the_great_gatsby_2013"
+          },
+          {
+            "title": "Why Baz Luhrmann's 'The Great Gatsby' Is A Modern Classic",
+            "url": "https://www.indiewire.com/features/general/baz-luhrmann-the-great-gatsby-underrated-leonardo-dicaprio-carey-mulligan-1201799900/"
+          },
+          {
+            "title": "The Great Gatsby (2013 film) | Warner Bros. Entertainment Wiki | Fandom",
+            "url": "https://warnerbros.fandom.com/wiki/The_Great_Gatsby_(2013_film)"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about the Great Gatsby film adaptations from 1974 and 2013, including their box office performance and cultural impact.\n\n## Box Office Performance\n\n**1974 Film (Robert Redford)**\n- Despite a mixed reception by critics, the 1974 film grossed over $26 million against a $7 million budget.\n- Despite these criticisms, however, the 1974 Gatsby performed respectably at the box-office.\n\n**2013 Film (Leonardo DiCaprio)**\n- It went on to finish in second place, behind Iron Man 3, during its opening weekend, with US$51.1 million. This was the sixth-largest opening weekend for a film that did not debut in first place, the second largest opening weekend for a film starring Leonardo DiCaprio behind Inception, and Luhrmann's highest-grossing movie.\n- Filming took place from September to December 2011 in Australia, with a $105 million net production budget.\n- Warner Bros. leveraged the actor's unparalleled box office appeal to make \"The Great Gatsby\" an unlikely hit\n\n## Cultural Impact\n\n**1974 Film**\n- Mia Farrow's portrayal of Daisy has become our culture's image of this character, despite her blonde hair and waifish figure.\n- The film's costumes did have a vivid, if short-lived, impact on the fashion world as bell-bottom trousers and love beads gave way to \"The Gatsby Look\" among hipsters for a time.\n- The December 1973 issue of Vogue magazine went so far as to claim that THE GREAT GATSBY remake had \"caused the greatest pre-production excitement since GONE WITH THE WIND.\n\n**2013 Film**\n- A still image from the film showing Leonardo DiCaprio as Gatsby lifting his glass in a toast gesture became a popular image macro internet meme.\n- A polarizing film among critics, The Great Gatsby received both praise and criticism for its visual style, direction, screenplay, performances, soundtrack, and interpretation of the source material. Audiences responded more positively, and Fitzgerald's granddaughter praised the film, stating \"Scott would have been proud.\"\n\n## Critical Reception and Comparisons\n\n**1974 Film**\n- New York Times reviewer Vincent Canby found this latest Gatsby to be \"lifeless without being much fun,\" while Jay Cocks in Time magazine noted that it is \"faithful to the letter of F. Scott Fitzgerald's novel but entirely misses the point.\"\n- Especially compared to the more raucous 2013 version, this is probably the closest movie we have to a page-to-screen adaptation of Gatsby.\n\n**2013 Film**\n- On review aggregation website Rotten Tomatoes the film has an approval rating of 48% based on 264 reviews, with an average rating of 5.8/10. The site's critical consensus reads, \"While certainly ambitious\u2014and every bit as visually dazzling as one might expect\u2014Baz Luhrmann's The Great Gatsby emphasizes visual splendor at the expense of its source material's vibrant heart.\" Metacritic gives the film a score of 55 out of 100, based on 45 critics, indicating \"mixed or average reviews\".\n\n## Key Differences in Approach\n\nBy comparison, the 1974 movie is more refined, still glamorous but not raunchy. It's just\u2026 poorly paced and boring in parts, especially the first half.(no content)Directed by Baz Luhrmann, this Gatsby has the eye-popping visuals, dancing scenes, high energy and big production values his movies are known for. In other words, this 2013 adaptation has all of the energy and enthusiasm the previous two adaptations were lacking.(no content)DiCaprio plays Gatsby as intensely insecure and slightly deranged, whereas in the 1974 movie, Redford plays the character as a gentle savior, playing to type.\n\nBoth films have left lasting impacts on popular culture, with the 1974 version establishing visual conventions for the characters (particularly Mia Farrow's Daisy) and the 2013 version creating modern meme culture and reaching a new generation with its contemporary soundtrack and visual style."
+    ],
+    "durationSeconds": 41.378109218999974
+  }
+}

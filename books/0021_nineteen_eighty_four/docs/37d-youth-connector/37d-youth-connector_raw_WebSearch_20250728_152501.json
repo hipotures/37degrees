@@ -1,0 +1,63 @@
+{
+  "session_id": "b8c17c71-efc6-4c19-9b68-e101c36de9c9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b8c17c71-efc6-4c19-9b68-e101c36de9c9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "1984 George Orwell study guide exam questions essay tips memory tricks teenagers SparkNotes CliffsNotes"
+  },
+  "tool_response": {
+    "query": "1984 George Orwell study guide exam questions essay tips memory tricks teenagers SparkNotes CliffsNotes",
+    "results": [
+      "I'll search for study resources about George Orwell's \"1984\" that include exam questions, essay tips, and memory tricks for teenagers, including resources from SparkNotes and CliffsNotes.",
+      {
+        "tool_use_id": "srvtoolu_015XAEHwjkPhYii3t9AbM4RP",
+        "content": [
+          {
+            "title": "Essay Questions",
+            "url": "https://www.cliffsnotes.com/literature/n/1984/study-help/essay-questions"
+          },
+          {
+            "title": "1984 Study Guide | GradeSaver",
+            "url": "https://www.gradesaver.com/1984"
+          },
+          {
+            "title": "1984 Activities | SuperSummary",
+            "url": "https://www.supersummary.com/1984/activities/"
+          },
+          {
+            "title": "1984 Questions (1) (pdf) - CliffsNotes",
+            "url": "https://www.cliffsnotes.com/study-notes/3593674"
+          },
+          {
+            "title": "1984: Study Guide | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/1984/"
+          },
+          {
+            "title": "1984 Reading Questions Answer Key | SuperSummary",
+            "url": "https://www.supersummary.com/1984/reading-questions-answer-key/"
+          },
+          {
+            "title": "1984 Study Guide | Literature Guide | LitCharts",
+            "url": "https://www.litcharts.com/lit/1984"
+          },
+          {
+            "title": "1984 Summary and Study Guide | SuperSummary",
+            "url": "https://www.supersummary.com/1984/summary/"
+          },
+          {
+            "title": "Study Guide: 1984 by George Orwell (SuperSummary): SuperSummary: 9798677001284: Amazon.com: Books",
+            "url": "https://www.amazon.com/Study-Guide-George-Orwell-SuperSummary/dp/B08GBHCH68"
+          },
+          {
+            "title": "1984 Part One Study Guide - Questions for George Orwell's 1984 Part One: Chapter One What was the - Studocu",
+            "url": "https://www.studocu.com/en-us/document/pope-high-school/american-literature/1984-part-one-study-guide/67790382"
+          }
+        ]
+      },
+      "Based on the search results, I found comprehensive study resources for George Orwell's \"1984\" that include exam questions, essay tips, and guides from major study platforms like SparkNotes and CliffsNotes. Here's what I found:\n\n## Essay Questions and Topics\n\nCliffsNotes provides essay questions that explore key themes, such as confirming the existence of Big Brother and the Brotherhood, and explaining Orwell's warnings about political climates during his time. The study guide also suggests comparing Julia and Winston's behavior, motivation, and goals.\n\nCliffsNotes recommends creating a two-column chart to track examples of doublethink and irony throughout the novel - this could be a helpful memory technique for teenagers studying the book.\n\n## Study Guide Resources\n\nSparkNotes offers comprehensive study materials including chapter summaries, explanations of famous quotes, and resources to help students ace quizzes, tests, and essays. LitCharts, created by the original SparkNotes team, claims to provide \"the best study guide to 1984 on the planet\" with summaries, analysis, and quotes.\n\nGradeSaver's study guide contains a biography of George Orwell, literature essays, quiz questions, major themes, characters, and full summary and analysis. SuperSummary positions itself as \"a modern alternative to SparkNotes and CliffsNotes\" offering high-quality study guides with detailed chapter summaries and analysis.\n\n## Exam Questions and Reading Comprehension\n\nCliffsNotes provides specific reading questions such as identifying Winston Smith as the main character and describing his rebellious personality. Study guides include detailed questions about Party uniforms and surveillance devices.\n\nSuperSummary's answer key includes comprehension questions about telescreens (two-way audiovisual transmitters that cannot be turned off) and Winston's diary writing being punishable by death.\n\n## Study Tips and Activities\n\nSuperSummary suggests engaging activities like creating slideshows comparing totalitarianism in 1984 with modern authoritarian states. Their study guides include chapter-by-chapter summaries, literary analysis, character examinations, and discussion of themes and symbols.\n\n## Key Themes to Remember\n\nSparkNotes summarizes the novel as following Winston Smith's rebellion against the oppressive Party led by Big Brother in a surveillance-laden totalitarian state of Oceania, including his forbidden love affair. Important concepts like \"Big Brother\" and \"Newspeak\" have become part of global vocabulary.\n\nThese resources provide comprehensive support for teenagers studying \"1984,\" offering various approaches from traditional essay questions to modern interactive activities, all designed to help students understand and remember the novel's complex themes and details."
+    ],
+    "durationSeconds": 32.67057378399978
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "session_id": "9588e4fa-c119-4986-be3b-1d3af7769f8f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/9588e4fa-c119-4986-be3b-1d3af7769f8f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Brave New World\" educational curriculum school reading list banned \"high school\" \"college\" required reading"
+  },
+  "tool_response": {
+    "query": "\"Brave New World\" educational curriculum school reading list banned \"high school\" \"college\" required reading",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01SgcGgzDkwFmU9BaQDZ83h7",
+        "content": [
+          {
+            "title": "Brave New World | huffenglish.com",
+            "url": "https://www.huffenglish.com/brave-new-world/"
+          },
+          {
+            "title": "'Brave New World' gets brand new criticism | Cape Gazette",
+            "url": "https://www.capegazette.com/node/63111"
+          },
+          {
+            "title": "Brave New World Book Ban. Emily Carmean | by Ecarmean | Medium",
+            "url": "https://medium.com/@ecarmean/brave-new-world-book-ban-ae3f1fca16a8"
+          },
+          {
+            "title": "1984 - 1984 vs Brave New World? Showing 1-39 of 39",
+            "url": "https://www.goodreads.com/topic/show/769871-1984-vs-brave-new-world"
+          },
+          {
+            "title": "Brave New World by Aldous Huxley \u2013 Classics of Science Fiction",
+            "url": "https://classicsofsciencefiction.com/2020/01/11/brave-new-world-by-aldous-huxley/"
+          },
+          {
+            "title": "4 Lessons from a Brave New World - From The Mixed Up Files",
+            "url": "https://fromthemixedupfiles.com/lessons-brave-world/"
+          },
+          {
+            "title": "Brave New World - Aldous Huxley - Banned Books Week Review",
+            "url": "https://islamcketta.com/brave-new-world-aldous-huxley/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about \"Brave New World\" in educational curricula, including its use in schools and instances of it being banned or challenged:\n\n## Educational Use and Curriculum Placement\n\n\"Brave New World\" is commonly taught in high school English curricula, particularly in 11th grade honors classes. The book is defended as \"required reading material for any student seeking a college education\". It appears that \"most schools read 1984 or Brave New World\", often as part of dystopian literature studies.\n\nBoth high school and college students today are expected to have the education and cultural knowledge to better understand Huxley's complex satire compared to earlier generations. The book is considered appropriate for \"high school and college level courses\" focused on literary analysis or critical thinking.\n\n## Banning and Challenges\n\n\"Brave New World\" has faced multiple censorship challenges both historically and recently:\n\n### Historical Bans\nThe book \"was banned in Australia and Ireland in 1932 for language that was believed to go against familial and religious values, and in 1967 it was banned in India for its sexual content\".\n\n### Recent Challenges\nThe book has drawn \"sharp criticism from Cape Henlopen School District parents who say the book is too sexual\". Parents expressed concerns about students in Advanced Placement classes reading the book, with one parent stating \"I don't think it's appropriate for 16- and 17-year-old kids\".\n\n\"Brave New World\" was \"banned in Florida, America and other countries as well due to its sexual context and negative ideologies\".\n\n### Reasons for Challenges\nThe book \"has been considered problematic by varying groups across the world. Some believe it glorifies the use of drugs and sexual promiscuity\". Others cite \"the racist depiction of Native Americans and the emphasis on an atheistic society as being harmful\".\n\n## Educational Defense and Support\n\nDespite challenges, many educators and parents defend the book's educational value. Some parents argue that \"Huxley's novel should remain required reading\" and advocate to \"Leave this very good book as part of the high school curriculum\". Supporters emphasize that \"the point of the book is to show a dystopic society\" and \"It is a book that has a message people need to get\".\n\nThe book continues to be valued for its literary merit and relevance to contemporary discussions about technology, society, and individual freedom in educational settings."
+    ],
+    "durationSeconds": 24.53076575699996
+  }
+}

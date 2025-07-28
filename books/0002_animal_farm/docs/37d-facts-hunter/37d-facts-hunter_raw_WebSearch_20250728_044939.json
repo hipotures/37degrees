@@ -1,0 +1,63 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Animal Farm\" George Orwell publisher rejection stories Frederic Warburg wife threatening to leave him"
+  },
+  "tool_response": {
+    "query": "\"Animal Farm\" George Orwell publisher rejection stories Frederic Warburg wife threatening to leave him",
+    "results": [
+      "I'll search for information about the publisher rejection stories for George Orwell's \"Animal Farm\" and the specific story about Frederic Warburg's wife threatening to leave him.",
+      {
+        "tool_use_id": "srvtoolu_012rJuuREwPeLbeu3nZGTbow",
+        "content": [
+          {
+            "title": "Animal Farm - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Animal_Farm"
+          },
+          {
+            "title": "All Are Equal: The History Behind George Orwell\u2019s Controversial Novel, Animal Farm\u2013by Hannah Huckins \u2013 The Ellen Reeder",
+            "url": "https://english.plymouthcreate.net/literature/banned-books/all-are-equal-the-history-behind-george-orwells-controversial-novel-animal-farm-by-hannah-huckins/"
+          },
+          {
+            "title": "Animal Farm by George Orwell | Summary, Impact & Publication - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/animal-farm-publisher-struggles.html"
+          },
+          {
+            "title": "Warburg and the Making of George Orwell \u2013 The Orwell Society",
+            "url": "https://orwellsociety.com/warburg-and-the-making-of-george-orwell/"
+          },
+          {
+            "title": "George Orwell: An exhibition from the Daniel J. Leab Collection, Brown University Library",
+            "url": "https://library.brown.edu/exhibits/archive/orwell/leab.html"
+          },
+          {
+            "title": "George Orwell - Animal Farm, 1984, Author | Britannica",
+            "url": "https://www.britannica.com/biography/George-Orwell/Animal-Farm-and-Nineteen-Eighty-four"
+          },
+          {
+            "title": "Today in Literary History \u2013 August 17, 1945 \u2013 George Orwell\u2019s Animal Farm is published",
+            "url": "https://booknormblog.wordpress.com/2018/08/17/today-in-literary-history-august-17-1945-george-orwells-animal-farm-is-published/"
+          },
+          {
+            "title": "The Freedom of the Press - by The Orwell Foundation",
+            "url": "https://orwellfoundation.substack.com/p/the-freedom-of-the-press"
+          },
+          {
+            "title": "Animal Farm by George Orwell - Suntup Editions",
+            "url": "https://suntup.press/animal-farm/"
+          },
+          {
+            "title": "10 Facts About George Orwell's Animal Farm",
+            "url": "https://www.mentalfloss.com/article/626689/animal-farm-book-facts"
+          }
+        ]
+      },
+      "Based on the search results, I found information about the rejection stories for \"Animal Farm\" by George Orwell, but I could not find the specific story about Frederic Warburg's wife threatening to leave him over the publication of the book.\n\nHere's what I did find about the publication history of \"Animal Farm\":\n\n## Publisher Rejections\n\nOrwell initially encountered difficulty getting the manuscript published, largely due to fears that the book might upset the alliance between Britain, the United States, and the Soviet Union. Four publishers refused to publish Animal Farm, yet one had initially accepted the work but declined it after consulting the Ministry of Information.\n\nThe main publishers who rejected the book included:\n\n1. **Victor Gollancz** - Gollancz by contract had the right of first refusal on Orwell's fiction. Orwell warned him that the book was \"anti-Stalin.\" Gollancz read the manuscript, and then informed the author's agent \"I could not possibly publish...a general attack of this nature.\"\n\n2. **T.S. Eliot at Faber & Faber** - Eliot wrote back to Orwell praising the book's \"good writing\" and \"fundamental integrity\", but declared that they would only accept it for publication if they had some sympathy for the viewpoint \"which I take to be generally Trotskyite\".(no content)At Faber, T. S. Eliot (who in 1931 rejected Down and Out in London and Paris) objects, somewhat obtusely, to the representation of the animals: 'What was needed was not more communism but more public-spirited pigs.'\n\n3. **Jonathan Cape** - Cape's interest ended when \"an important official in the Ministry of Information\" reacted negatively.(no content)One publisher openly admitted to Orwell that they had been warned off the book by an official in the Ministry of Information (it later transpired that this particular rejection had been encouraged by a Soviet spy.)\n\n4. **Other publishers** - After rejection letters arrive from publishers William Collins and Andr\u00e9 Deutsch, Orwell turns to his friend Paul Potts who runs the Whitman Press, a small anarchist imprint.\n\n## Frederic Warburg's Role\n\nEventually, Secker and Warburg published the first edition in 1945.(no content)But then Warburg agrees to publish in March 1945 and the Introduction is ditched.(no content)As biographer Gordon Bowker comments: 'Warburg wrote later that as soon as he read the book he realised that he had a major work on his hands. Orwell was less certain and quite apprehensive about how his old enemies the Stalinists would react to it.'\n\nWhile the search results show that Frederic Warburg did publish \"Animal Farm\" when others wouldn't, and that he recognized it as \"a major work,\" I could not find any information about his wife threatening to leave him over this decision. This specific anecdote doesn't appear in any of the sources retrieved.\n\nThe publication was indeed controversial and risky during wartime when the Soviet Union was Britain's ally, but the search results don't provide the particular story you're looking for about Warburg's personal domestic situation."
+    ],
+    "durationSeconds": 37.290561982000014
+  }
+}

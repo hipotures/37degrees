@@ -1,0 +1,63 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Jane Eyre global cultural reception international translations different cultures colonial postcolonial readings modern interpretations"
+  },
+  "tool_response": {
+    "query": "Jane Eyre global cultural reception international translations different cultures colonial postcolonial readings modern interpretations",
+    "results": [
+      "I'll search for information about Jane Eyre's global cultural reception, international translations, and various cultural interpretations.",
+      {
+        "tool_use_id": "srvtoolu_01Q8DiDQKDU1T4cbS7SzxNCm",
+        "content": [
+          {
+            "title": "(PDF) Mapping and Reading a World of Translations: Prismatic Jane Eyre",
+            "url": "https://www.researchgate.net/publication/357130943_Mapping_and_Reading_a_World_of_Translations_Prismatic_Jane_Eyre"
+          },
+          {
+            "title": "Jane Eyre: A Post-Colonial (Re)-Reading",
+            "url": "https://www.the-criterion.com/V6/n2/056.pdf"
+          },
+          {
+            "title": "Jane Eyre and its Heteroglossia, Colonialism, Class ...",
+            "url": "https://ijels.com/upload_document/issue_files/38IJELS-102202019-JaneEyre.pdf"
+          },
+          {
+            "title": "Prismatic Jane Eyre - II. The World Work in Language(s)",
+            "url": "https://books.openbookpublishers.com/10.11647/obp.0319/chII.xhtml"
+          },
+          {
+            "title": "Jane Eyre translated: 57 languages show how different cultures interpret Charlotte Bront\u00eb\u2019s classic novel",
+            "url": "https://theconversation.com/jane-eyre-translated-57-languages-show-how-different-cultures-interpret-charlotte-brontes-classic-novel-124128"
+          },
+          {
+            "title": "A Postcolonial Approach to the Novel",
+            "url": "https://www.cliffsnotes.com/literature/j/jane-eyre/critical-essays/a-postcolonial-approach-to-the-novel"
+          },
+          {
+            "title": "Jane Eyre translated: 57 languages show how different cultures interpret Charlotte Bront\u00eb\u2019s classic novel | Mona Baker",
+            "url": "https://www.monabaker.org/2019/12/04/jane-eyre-translated-57-languages-show-how-different-cultures-interpret-charlotte-brontes-classic-novel/"
+          },
+          {
+            "title": "Jane Eyre translated: 57 languages show how different cultures interpret Charlotte Bront\u00eb\u2019s classic novel | TORCH | The Oxford Research Centre in the Humanities",
+            "url": "https://www.torch.ox.ac.uk/article/jane-eyre-translated-57-languages-show-how-different-cultures-interpret-charlotte-brontes-cl"
+          },
+          {
+            "title": "Mapping and Reading a World of Translations: Prismatic Jane Eyre | Modern Languages Open",
+            "url": "https://modernlanguagesopen.org/articles/10.3828/mlo.v0i0.375"
+          },
+          {
+            "title": "(PDF) Realism and translation: Charlotte Bront\u00eb\u2019s Jane Eyre for an Austro-Hungarian minority and beyond",
+            "url": "https://www.academia.edu/39786276/Realism_and_translation_Charlotte_Bront%C3%AB_s_Jane_Eyre_for_an_Austro_Hungarian_minority_and_beyond"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about Jane Eyre's global cultural reception, international translations, and various cultural interpretations:\n\n## Global Reach and Translation Statistics\n\nJane Eyre has been translated into at least 57 languages and at least 593 times since its publication in 1847. According to the Prismatic Jane Eyre project, the novel has been translated more than five hundred times into over sixty languages.\n\n## The Prismatic Jane Eyre Project\n\nThe Prismatic Jane Eyre project argues that these translations should be seen not as simple replications but as \"a release of its multiple interpretative possibilities\" - like a prism that refracts the text across cultures, spanning \"many times and places, from Cuba in 1850 to 21st-century China; from Calcutta to Bologna, Argentina to Iran\". This research involved 43 co-researchers in many different countries.\n\n## Cultural Variations in Translation\n\n### Title Transformations\nDifferent cultures have reimagined the title in revealing ways: in Japanese (1896) it became \"Riso Kaijin\" (An Ideal Lady), in Portuguese (1941) \"A Paix\u00e3o de Jane Eyre\" (The Passion of Jane Eyre), in Italian (1958) \"La porta chiusa\" (The Shut Door), and in Turkish (2010) \"Y\u0131llar Sonra Gelen Mutluluk\" (Happiness Comes After Many Years).\n\n### The Famous \"Reader, I married him\"\nThis pivotal sentence reveals cultural attitudes toward gender and agency: in Slovenian it becomes \"Reader, we got married,\" while Persian translations render it as \"Reader, he married me,\" squashing Jane's self-assertion.\n\n### Language-Specific Challenges\nMost languages lack a single word equivalent to Bront\u00eb's \"passion,\" leading translators to separate elements of love, desire, anger and excitement - often dividing the angry young Jane from her mature self and connecting her to Bertha Mason.\n\n## Regional Reception Patterns\n\n### Geographic Distribution\nIran has had 29 translations since 1980, and when Korean is taught in Vietnamese schools, a Korean translation of Jane Eyre appears on the syllabus as Korean literature.\n\nTranslation activity has shifted geographically over time: in the 1980s there were eight new Korean translations but none in French or German; between 2010-2020 there were 24 Persian translations; and from 1990-2020, Chinese led globally with 113 translations.\n\n## Postcolonial and Colonial Readings\n\n### British Identity Construction\nPostcolonial critics argue the novel creates a prototype of the \"proper English woman\" - someone \"frank, sincere, and lacking in personal vanity\" - by contrasting Jane with foreign women in the text.\n\n### The Bertha Mason Question\nBertha Mason, as \"an insane Creole woman,\" represents British fears of both foreigners and women, with her \"virile force\" and refusal to be controlled. Post-colonial critics argue she is sacrificed so British Jane can achieve self-identity.\n\n### Dual Colonial Position\nJane occupies a conflicted position: as a woman she is colonized, but as a British woman she is also a colonizer, shown when she offers to become a missionary \"preaching liberty to women enslaved in harems\".\n\n## Modern Interpretations and Continued Relevance\n\n### Feminist Readings\nThe novel's feminist charge has made it popular globally, with translators and readers throughout Europe in the 19th century and East Asia in the 20th century being both \"thrilled\" and \"shocked\".\n\n### Contemporary Translation Activity\nEven today, Jane Eyre retains radical power and continues to generate new translations.\n\n### Cultural Adaptation\nModern translations represent \"not a passive act of reception but an active engagement,\" with each culture adapting the materials of Jane Eyre to \"distinctive cultural purposes\".\n\n## Multilingual Contexts\n\nA striking example is a 2011 edition published in Chengdu, Tibet, featuring parallel Chinese and Tibetan texts, catering to readers with varying competence in either or both languages.\n\nThe search results demonstrate that Jane Eyre has become what researchers call a \"world-work\" - transforming from \"a thoroughly English book\" into \"a multilingual, ever-changing global text continually putting down roots in different cultures\". Each translation represents not merely linguistic transfer but cultural interpretation, revealing as much about the receiving culture as about the original text."
+    ],
+    "durationSeconds": 55.78659300100012
+  }
+}

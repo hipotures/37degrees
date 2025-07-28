@@ -1,0 +1,63 @@
+{
+  "session_id": "b8c17c71-efc6-4c19-9b68-e101c36de9c9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b8c17c71-efc6-4c19-9b68-e101c36de9c9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Gen Z TikTok data collection concerns surveillance Polish youth 2024 2025"
+  },
+  "tool_response": {
+    "query": "Gen Z TikTok data collection concerns surveillance Polish youth 2024 2025",
+    "results": [
+      "I'll search for information about Gen Z TikTok data collection concerns and surveillance issues related to Polish youth in 2024-2025.",
+      {
+        "tool_use_id": "srvtoolu_01VUjhxTaVfRwzRo9vUdfMf8",
+        "content": [
+          {
+            "title": "A new dimension of luxury: Are TikTok and Gen Z responsible for the boom in the European market? | Euronews",
+            "url": "https://www.euronews.com/business/2025/07/20/a-new-dimension-of-luxury-are-tiktok-and-gen-z-responsible-for-the-boom-in-the-european-ma"
+          },
+          {
+            "title": "65+ Gen Z Social Media Usage Statistics [2025] That Can\u2019t Ignore",
+            "url": "https://cropink.com/gen-z-social-media-usage-statistics"
+          },
+          {
+            "title": "More Americans are regularly getting news on TikTok, especially young adults | Pew Research Center",
+            "url": "https://www.pewresearch.org/short-reads/2024/09/17/more-americans-regularly-get-news-on-tiktok-especially-young-adults/"
+          },
+          {
+            "title": "TikTok and the GenZ problem: Government races to ban app most favored by young adults \u2022 Washington State Standard",
+            "url": "https://washingtonstatestandard.com/2024/05/24/tiktok-and-the-genz-problem-government-races-to-ban-app-most-favored-by-young-adults/"
+          },
+          {
+            "title": "TikTok dominates media outlets as news source for Gen Z",
+            "url": "https://www.axios.com/2024/02/16/tiktok-news-gen-z-social-media"
+          },
+          {
+            "title": "TikTok Usage Plateaus Among US Gen Z Teens",
+            "url": "https://www.forrester.com/blogs/tiktok-usage-plateaus-among-us-gen-z-teens/"
+          },
+          {
+            "title": "Factors driving Gen Z's news engagement on TikTok: A hybrid analysis through CB-SEM and PLS-SEM - ScienceDirect",
+            "url": "https://www.sciencedirect.com/science/article/pii/S2451958825000600"
+          },
+          {
+            "title": "28 TikTok statistics marketers need to know in 2025 | Sprout Social",
+            "url": "https://sproutsocial.com/insights/tiktok-stats/"
+          },
+          {
+            "title": "Are 40% of Gen Z shunning Google for TikTok? Not exactly",
+            "url": "https://econsultancy.com/gen-z-google-tiktok-search/"
+          },
+          {
+            "title": "U.S. Gen Z users of selected social platforms 2025 | Statista",
+            "url": "https://www.statista.com/statistics/1276021/instagram-snapchat-tiktok-gen-z-users/"
+          }
+        ]
+      },
+      "Based on the search results, I found information about Gen Z's use of TikTok and data collection concerns, though specific information about Polish youth surveillance concerns in 2024-2025 is limited. Here's what the search revealed:\n\n## TikTok Usage Among Gen Z\n\nThe share of adults who say they regularly get news from TikTok has grown about fivefold since 2020, from 3% to 17% in 2024. According to the 2025 Sprout Social Index\u2122, 58% of consumers have profiles on TikTok, and 82% of Gen Z are mostly likely to have TikTok profiles.\n\nIn 2024, 35% of Gen Zers spend over four hours a day on social media, down slightly from 38% in 2023. Half of Gen Z spends at least 4 hours daily on social media, making them the most engaged generation online.\n\n## Data Collection and Privacy Concerns\n\nPersonalization beats privacy concerns, with 88% of Gen Z willingly sharing personal data with social media companies for better recommendations. However, According to a February 2024 executive summary by Digital Forensic Research Lab, the data TikTok collects on Americans, while on the higher end of the spectrum, is within common data collection practices of social media platforms, including those headquartered in the United States.\n\n## TikTok's Role in Information Discovery\n\nSocial media is replacing search engines, with 46% of Gen Z preferring platforms like TikTok and Instagram for finding information. TikTok remains their top discovery platform, especially for shopping (77%) and news (63%).\n\n## Polish Youth Context\n\nThe search results do show some information about Polish brands and TikTok usage in Poland. In contrast, 60% of Polish TikTok users admit that they have been influenced into purchases through content on the platform. The article mentions Polish cosmetics brand Inglot gaining international recognition through TikTok, but specific surveillance concerns regarding Polish youth were not found in these results.\n\n## Platform Growth and Concerns\n\nTikTok's popularity has skyrocketed in recent years. According to the Digital 2024 Global Overview Report, which pulls data from ByteDance's monthly advertising reports, TikTok has a global audience of 1.56 billion people, roughly 170 million of whom reside in the United States. That puts TikTok as the fifth most popular social media platform in the U.S., and the fastest growing, with a 12% increase in users since 2021.\n\nWhile the search results don't specifically address surveillance concerns for Polish youth in 2024-2025, they do indicate that Gen Z globally is heavily engaged with TikTok despite potential privacy concerns, with the platform becoming a primary source for news, product discovery, and social interaction."
+    ],
+    "durationSeconds": 31.35883198300004
+  }
+}

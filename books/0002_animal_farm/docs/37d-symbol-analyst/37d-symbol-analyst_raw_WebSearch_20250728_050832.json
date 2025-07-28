@@ -1,0 +1,155 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"all animals are equal but some animals are more equal\" meme politics contemporary youth Gen Z interpretation"
+  },
+  "tool_response": {
+    "query": "\"all animals are equal but some animals are more equal\" meme politics contemporary youth Gen Z interpretation",
+    "results": [
+      "I'll search for information about how Gen Z interprets the famous \"all animals are equal but some animals are more equal\" quote from Orwell's Animal Farm in contemporary political meme culture.",
+      {
+        "tool_use_id": "srvtoolu_01HbswLF9No7tYChxgdyGiEZ",
+        "content": [
+          {
+            "title": "All animals are equal, but some animals are more equal than others | /r/Politica... | Know Your Meme",
+            "url": "https://knowyourmeme.com/photos/2459381-political-compass"
+          },
+          {
+            "title": "The Origin and Meaning of \u2018All Animals Are Equal but Some Animals Are More Equal Than Others\u2019",
+            "url": "https://interestingliterature.com/2021/05/orwell-all-animals-are-equal-but-some-more-equal-than-others-meaning-analysis/"
+          },
+          {
+            "title": "'All animals are equal, but some animals are more equal than others.' Where did I hear this? I know George Orwell said this, but I heard this somewhere else in a movie or a TV show. - Quora",
+            "url": "https://www.quora.com/All-animals-are-equal-but-some-animals-are-more-equal-than-others-Where-did-I-hear-this-I-know-George-Orwell-said-this-but-I-heard-this-somewhere-else-in-a-movie-or-a-TV-show"
+          },
+          {
+            "title": "Some animals are more equal than others. - Imgflip",
+            "url": "https://imgflip.com/i/41305p"
+          },
+          {
+            "title": "George Orwell (author), said, 'All animals are equal, but some animals are more equal than others.' What does that mean? - Quora",
+            "url": "https://www.quora.com/George-Orwell-author-said-All-animals-are-equal-but-some-animals-are-more-equal-than-others-What-does-that-mean"
+          },
+          {
+            "title": "All animals are equal, but some are more equal than others\u2019. How far is this idea important in Animal Farm? - Study Mind",
+            "url": "https://studymind.co.uk/questions/all-animals-are-equal-but-some-are-more-equal-than-others-how-far-is-this-idea-important-in-animal-farm/"
+          },
+          {
+            "title": "'All animals are equal, but some animals are more equal ...",
+            "url": "https://www.operaballet.nl/en/articles/all-animals-are-equal-some-animals-are-more-equal-others"
+          },
+          {
+            "title": "Animal Farm - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Animal_Farm"
+          },
+          {
+            "title": "All Animals Are Equal But Some Animals Are More Equal Than Others \u00ab Historically Speaking",
+            "url": "https://idiomation.wordpress.com/2011/03/21/all-animals-are-equal-but-some-animals-are-more-equal-than-others/"
+          },
+          {
+            "title": "All animals are equal but some animals are more equal than others - Imgflip",
+            "url": "https://imgflip.com/i/52bfuv"
+          }
+        ]
+      },
+      "Let me search for more specific information about Gen Z's interpretation and use of this quote in contemporary political discourse.",
+      {
+        "tool_use_id": "srvtoolu_01CD429tKCKriCpNR6Pe5Ynw",
+        "content": [
+          {
+            "title": "Animal Farm Memes",
+            "url": "https://www.tiktok.com/discover/animal-farm-memes?lang=en"
+          },
+          {
+            "title": "animal farm Memes & GIFs - Imgflip",
+            "url": "https://imgflip.com/tag/animal+farm"
+          },
+          {
+            "title": "How Gen Z uses social media and what that means for brands",
+            "url": "https://sproutsocial.com/insights/gen-z-social-media/"
+          },
+          {
+            "title": "TikTok - Make Your Day",
+            "url": "https://www.tiktok.com/discover/all-animals-are-equal-but-some-animals-are-more-equal-than-others"
+          },
+          {
+            "title": "Animal Farm Book Memes",
+            "url": "https://www.tiktok.com/discover/animal-farm-book-memes"
+          },
+          {
+            "title": "Gen Z Memes: How Tiktok Memes Are Changing Social Media | Bark",
+            "url": "https://www.bark.us/blog/tiktok-memes-gen-z/"
+          },
+          {
+            "title": "65+ Gen Z Social Media Usage Statistics [2025] That Can\u2019t Ignore",
+            "url": "https://cropink.com/gen-z-social-media-usage-statistics"
+          },
+          {
+            "title": "Gen Z has replaced traditional job searching with TikTok\u201470% are finding career advice on social media | Fortune",
+            "url": "https://fortune.com/2025/07/19/gen-z-tiktok-influencer-instagram-career/"
+          },
+          {
+            "title": "This \"Gen Z Stare\" Phenomenon Is Taking Over Social Media And It's Very, Very Real",
+            "url": "https://www.buzzfeed.com/mjs538/gen-z-stare"
+          },
+          {
+            "title": "What Gen Z and Millennials Want on Instagram vs. TikTok | Master of Management, Marketing Analytics",
+            "url": "https://ma.poole.ncsu.edu/blog/2022/09/22/what-gen-z-and-millennials-want-on-instagram-vs-tiktok/"
+          }
+        ]
+      },
+      "Let me search for more specific information about how this quote is being used in contemporary political discourse and memes.",
+      {
+        "tool_use_id": "srvtoolu_01PpkMq6nDPgcRDMd68ZC1qP",
+        "content": [
+          {
+            "title": "Some animals are more equal than others. - Imgflip",
+            "url": "https://imgflip.com/i/41305p"
+          },
+          {
+            "title": "All animals are equal, but some are more equal than others\u2019. How far is this idea important in Animal Farm? - Study Mind",
+            "url": "https://studymind.co.uk/questions/all-animals-are-equal-but-some-are-more-equal-than-others-how-far-is-this-idea-important-in-animal-farm/"
+          },
+          {
+            "title": "The Origin and Meaning of \u2018All Animals Are Equal but Some Animals Are More Equal Than Others\u2019",
+            "url": "https://interestingliterature.com/2021/05/orwell-all-animals-are-equal-but-some-more-equal-than-others-meaning-analysis/"
+          },
+          {
+            "title": "All animals are equal, but some animals are more equal than others | /r/Politica... | Know Your Meme",
+            "url": "https://knowyourmeme.com/photos/2459381-political-compass"
+          },
+          {
+            "title": "\u2018All Animals Are Equal but Some Animals Are More Equal Than Others\u2019 \u2013 discussions around pay and gender inequality need to change their directions.",
+            "url": "https://www.linkedin.com/pulse/all-animals-equal-some-more-than-others-discussions-around-seb-york"
+          },
+          {
+            "title": "\u201cAll Animals Are Equal, But Some Animals Are More Equal Than Others\u201d \u2014 A Modern Lens on Power, Inequality, and Hypocrisy | by Iram Ahmed | May, 2025 | Medium",
+            "url": "https://medium.com/@iram.ahmed1997/all-animals-are-equal-but-some-animals-are-more-equal-than-others-a-modern-lens-on-power-0e6aba4a3174"
+          },
+          {
+            "title": "\u2018All animals are equal, but some animals are more equal than others\u2019 | Nationale Opera & Ballet",
+            "url": "https://www.operaballet.nl/en/articles/all-animals-are-equal-some-animals-are-more-equal-others"
+          },
+          {
+            "title": "George Orwell (author), said, 'All animals are equal, but some animals are more equal than others.' What does that mean? - Quora",
+            "url": "https://www.quora.com/George-Orwell-author-said-All-animals-are-equal-but-some-animals-are-more-equal-than-others-What-does-that-mean"
+          },
+          {
+            "title": "'All animals are equal, but some animals are more equal than others.' Where did I hear this? I know George Orwell said this, but I heard this somewhere else in a movie or a TV show. - Quora",
+            "url": "https://www.quora.com/All-animals-are-equal-but-some-animals-are-more-equal-than-others-Where-did-I-hear-this-I-know-George-Orwell-said-this-but-I-heard-this-somewhere-else-in-a-movie-or-a-TV-show"
+          },
+          {
+            "title": "Pinterest",
+            "url": "https://www.pinterest.com/pin/all-animals-are-equal-but-some-animals-are-more-equal-than-others-george-orwell-animal-farm-in-2024--311874342960621232/"
+          }
+        ]
+      },
+      "Based on my search results, I can provide insights into how Gen Z is interpreting and using the famous Orwell quote \"all animals are equal but some animals are more equal than others\" in contemporary political meme culture:\n\n## Contemporary Relevance and Usage\n\nThe famous quote from George Orwell's Animal Farm (1945) shows \"no signs of abating\" in relevance as political satire. This quote remains \"one of George Orwell's most enduring critiques of dictatorship and the corrosion of idealism\" with \"continued relevance\" today.\n\n## Political Meme Applications\n\nThe quote has been adapted into various political memes:\n\n1. **Partisan Political Memes**: Memes tag the quote with \"george orwell,1984,animal farm,democrats,corruption,democratic socialism\", showing how it's used to criticize various political ideologies.\n\n2. **Modern Political Parallels**: Contemporary usage connects the quote to \"alternative facts\" discourse, referencing how \"Trump was incensed and spoke of 'fake news'\" and his spokesperson's claim about \"alternative facts\".\n\n## Gen Z's Social Media Context\n\nWhile I couldn't find specific examples of Gen Z's unique interpretation of this particular quote, the search results reveal important context about how Gen Z engages with political content:\n\n1. **Platform Usage**: 89% of Gen Z social media users are on Instagram, 84% are on YouTube and 82% are on TikTok, where political memes frequently circulate.\n\n2. **Content Preferences**: There's a misconception that \"engaging with online trends and memes is a silver bullet\" for reaching Gen Z, but \"chasing culture rarely works\".\n\n3. **Social Media as Information Source**: 46% of Gen Z prefer platforms like TikTok and Instagram for finding information, replacing traditional search engines.\n\n## Contemporary Applications of the Quote\n\nThe quote is being used to discuss various modern inequalities:\n\n1. **Gender and Pay Inequality**: The quote has \"for years, been used to tackle the issue of double standards in equality, politics, management, or healthcare\".\n\n2. **Institutional Hypocrisy**: The quote captures how institutions \"co-opt the language of equality and justice\" and \"distort that language to create a hierarchy,\" evident in \"governments that defend monitoring in the name of security\".\n\n3. **Social Media Bubbles**: In contemporary discourse, \"people stay within their social-media bubbles where they hear only a certain version of events\".\n\n## Youth Interpretation Themes\n\nThe idea remains relevant to \"many forms of political inequality, including class, race, and gender\" and highlights how \"those in power can use rhetoric and ideology to maintain their dominance\".\n\nThe quote continues to resonate because it exposes the fundamental hypocrisy of systems that claim equality while practicing inequality - a theme that Gen Z, known for their political awareness and skepticism of institutional power, finds particularly relevant in discussing contemporary issues from wealth inequality to social justice movements."
+    ],
+    "durationSeconds": 43.95191077399999
+  }
+}

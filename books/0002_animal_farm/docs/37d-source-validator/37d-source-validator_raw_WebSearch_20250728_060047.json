@@ -1,0 +1,63 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "George Orwell Animal Farm 11 million copies sold worldwide publishing statistics verification"
+  },
+  "tool_response": {
+    "query": "George Orwell Animal Farm 11 million copies sold worldwide publishing statistics verification",
+    "results": [
+      "I'll search for information about George Orwell's Animal Farm sales figures and publishing statistics to verify the 11 million copies claim.",
+      {
+        "tool_use_id": "srvtoolu_01VEN3ytbRQmnEhJbFxGbLcw",
+        "content": [
+          {
+            "title": "George Orwell Statistics \u2013 WordsRated",
+            "url": "https://wordsrated.com/george-orwell-statistics/"
+          },
+          {
+            "title": "All Are Equal: The History Behind George Orwell\u2019s Controversial Novel, Animal Farm\u2013by Hannah Huckins \u2013 The Ellen Reeder",
+            "url": "https://english.plymouthcreate.net/literature/banned-books/all-are-equal-the-history-behind-george-orwells-controversial-novel-animal-farm-by-hannah-huckins/"
+          },
+          {
+            "title": "George Orwell - Animal Farm, 1984, Author | Britannica",
+            "url": "https://www.britannica.com/biography/George-Orwell/Animal-Farm-and-Nineteen-Eighty-four"
+          },
+          {
+            "title": "Animal Farm - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Animal_Farm"
+          },
+          {
+            "title": "Animal Farm by George Orwell",
+            "url": "https://www.biblio.com/animal-farm-by-orwell-george/work/3687"
+          },
+          {
+            "title": "Orwell's ideas remain relevant 75 years after 'Animal Farm' was published",
+            "url": "https://clas.wayne.edu/news/orwells-ideas-remain-relevant-75-years-after-animal-farm-was-published-56300"
+          },
+          {
+            "title": "Animal Farm: George Orwell Biography 2 | CliffsNotes",
+            "url": "https://www.cliffsnotes.com/literature/a/animal-farm/george-orwell-biography-2"
+          },
+          {
+            "title": "10 Facts About George Orwell's Animal Farm",
+            "url": "https://www.mentalfloss.com/article/626689/animal-farm-book-facts"
+          },
+          {
+            "title": "Animal Farm by George Orwell, Paperback | Barnes & Noble\u00ae",
+            "url": "https://www.barnesandnoble.com/w/animal-farm-george-orwell/1100608828"
+          },
+          {
+            "title": "Animal Farm Audiobook by George Orwell",
+            "url": "https://www.audible.com/pd/Animal-Farm-Audiobook/B002V5H6F4"
+          }
+        ]
+      },
+      "Based on my search results, I can verify information about George Orwell's Animal Farm sales figures:\n\n## Verification of Animal Farm's 11 Million Copies Claim\n\nLatest figures suggest Animal Farm has now sold over 11 million copies worldwide. This information comes from WordsRated, a research organization focused on books and literature statistics.\n\n### Additional Publishing Statistics Found:\n\n1. **Initial Sales Success**: It was a huge success, with over a half-million copies sold in its first year. when published in the United States in August 1946.\n\n2. **First Edition Sales**: Animal Farm was finally published on August 17, 1945, sold more than 250,000 copies, and received tremendously flattering reviews.\n\n3. **Sales by 1973**: Nine million copies were sold by 1973 and Warburg gained popularity from his connection to Animal Farm\n\n4. **Comparison to 1984**: Recent figures suggest that Orwell's most successful novel, 1984, has sold over 30 million copies worldwide.\n\n5. **Initial Print Run**: With a print run of just 4,000 copies, the first edition is bound in green cloth and states \"First Published May 1945\" on the copyright page.\n\nThe claim that Animal Farm has sold 11 million copies worldwide appears to be accurate based on the latest available statistics. The book's sales progression from 250,000 copies in its first year (1945), to 9 million by 1973, and now over 11 million copies worldwide shows its enduring popularity and continued sales over nearly 80 years since publication."
+    ],
+    "durationSeconds": 21.317636988999322
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Animal Farm\" viral memes TikTok social media \"all animals are equal\" political discourse 2020s"
+  },
+  "tool_response": {
+    "query": "\"Animal Farm\" viral memes TikTok social media \"all animals are equal\" political discourse 2020s",
+    "results": [
+      "I'll search for information about Animal Farm memes on TikTok and social media, particularly focusing on the \"all animals are equal\" quote and its use in political discourse during the 2020s.",
+      {
+        "tool_use_id": "srvtoolu_01HhDkrkb9bFx1TUVHt89XpK",
+        "content": [
+          {
+            "title": "'All Animals Are Equal': Animal Farm in the Anthropocene",
+            "url": "https://www.animalsandsociety.org/research/sloth/sloth-volume-6-no-1-winter-2020/all-animals-are-equal-animal-farm-in-the-anthropocene/"
+          },
+          {
+            "title": "An Ode to Cynicism: The Rep's Animal Farm in the Age of Trump | Milwaukee Independent",
+            "url": "https://www.milwaukeeindependent.com/articles/ode-cynicism-reps-animal-farm-age-trump/"
+          },
+          {
+            "title": "My Quotation Meme - Animal Farm | \"All animals are equal, bu\u2026 | Flickr",
+            "url": "https://www.flickr.com/photos/venus_oak/3400978449"
+          },
+          {
+            "title": "(PDF) The Propaganda Machinery in George Orwell's Animal Farm: an explication of political tyranny and the failure of revolutions",
+            "url": "https://www.researchgate.net/publication/343162127_The_Propaganda_Machinery_in_George_Orwell's_Animal_Farm_an_explication_of_political_tyranny_and_the_failure_of_revolutions"
+          },
+          {
+            "title": "Animal Farm Fanart",
+            "url": "https://www.pinterest.com/pin/543598617499975153/"
+          }
+        ]
+      },
+      "The search results don't show much specific information about viral TikTok memes using Animal Farm quotes in the 2020s political discourse. Let me do a more targeted search focusing on TikTok and social media trends.",
+      {
+        "tool_use_id": "srvtoolu_01QDgGMczyQhjfiLoDBVKdif",
+        "content": [
+          {
+            "title": "Animal Farm Book Memes",
+            "url": "https://www.tiktok.com/discover/animal-farm-book-memes"
+          },
+          {
+            "title": "Animal Farm Memes",
+            "url": "https://www.tiktok.com/discover/animal-farm-memes?lang=en"
+          },
+          {
+            "title": "Animal Farm Memes Compilation",
+            "url": "https://www.tiktok.com/@aguynamedsteve_14/video/7203916074998353194"
+          },
+          {
+            "title": "TikTok - Make Your Day",
+            "url": "https://www.tiktok.com/discover/2025-farm-troubles-like-the-80s"
+          },
+          {
+            "title": "\u201cAnimal Farm: A Timeless Critique of Political Power and Abuse\u201d | by binilbparakkal | Medium",
+            "url": "https://binilbparakkal.medium.com/animal-farm-a-timeless-critique-of-political-power-and-abuse-191c6f8a87f2"
+          },
+          {
+            "title": "Animal Farm Communism",
+            "url": "https://www.tiktok.com/discover/animal-farm-communism"
+          },
+          {
+            "title": "Understanding George Orwell's Animal Farm Characters",
+            "url": "https://www.tiktok.com/@artmeowster/video/7444393600122653983"
+          },
+          {
+            "title": "Description of Squealer from Animal Farm",
+            "url": "https://www.tiktok.com/discover/description-of-squealer-from-animal-farm"
+          },
+          {
+            "title": "How are Instagram and TikTok used to promote veganism?: Beyond Meat and Memes | Leeds Beckett University",
+            "url": "https://www.leedsbeckett.ac.uk/blogs/school-of-humanities-and-social-sciences/2024/05/beyond-meat-and-memes/"
+          },
+          {
+            "title": "Animal Farm Pigs Meme",
+            "url": "https://www.tiktok.com/discover/animal-farm-pigs-meme"
+          }
+        ]
+      },
+      "Let me search more specifically for the use of \"all animals are equal\" in recent social media and political discourse.",
+      {
+        "tool_use_id": "srvtoolu_01Y4hQPpGY5qWyMMp2jPXKmV",
+        "content": [
+          {
+            "title": "All animals are equal, but some animals are more equal than others | /r/Politica... | Know Your Meme",
+            "url": "https://knowyourmeme.com/photos/2459381-political-compass"
+          },
+          {
+            "title": "napoleon all animals are equal, but some are more equal them others - Angry Obama Meme Generator",
+            "url": "https://makeameme.org/meme/napoleon-all-animals-0df265584e"
+          },
+          {
+            "title": "All Animals Are Equal But Some Animals Are More ...",
+            "url": "https://www.tiktok.com/discover/all-animals-are-equal-but-some-animals-are-more-equal-than-others"
+          },
+          {
+            "title": "All animals are equal but some animals are more equal than others - Imgflip",
+            "url": "https://imgflip.com/i/52bfuv"
+          },
+          {
+            "title": "\ud83c\udfa4 \u201cAll animals are equal, but some animals are more equal ...",
+            "url": "https://www.facebook.com/halasbatchelor/videos/-all-animals-are-equal-but-some-animals-are-more-equal-than-othersthis-famous-qu/543467025221092/"
+          },
+          {
+            "title": "'All Animals Are Equal': Animal Farm in the Anthropocene",
+            "url": "https://www.animalsandsociety.org/research/sloth/sloth-volume-6-no-1-winter-2020/all-animals-are-equal-animal-farm-in-the-anthropocene/"
+          },
+          {
+            "title": "The Origin and Meaning of 'All Animals Are Equal but ...",
+            "url": "https://interestingliterature.com/2021/05/orwell-all-animals-are-equal-but-some-more-equal-than-others-meaning-analysis/"
+          },
+          {
+            "title": "All Animals Are Equal But Some Are More Equal",
+            "url": "https://www.tiktok.com/discover/all-animals-are-equal-but-some-are-more-equal"
+          },
+          {
+            "title": "'All animals are equal, but some animals are more equal than others.' Where did I hear this? I know George Orwell said this, but I heard this somewhere else in a movie or a TV show. - Quora",
+            "url": "https://www.quora.com/All-animals-are-equal-but-some-animals-are-more-equal-than-others-Where-did-I-hear-this-I-know-George-Orwell-said-this-but-I-heard-this-somewhere-else-in-a-movie-or-a-TV-show"
+          },
+          {
+            "title": "? - Imgflip",
+            "url": "https://imgflip.com/i/9ejirk"
+          }
+        ]
+      },
+      "Let me search for more recent uses of Animal Farm in political discourse and social media.",
+      {
+        "tool_use_id": "srvtoolu_01QuFCmtCqgw6Dck817y8T3w",
+        "content": [
+          {
+            "title": "33 Animal Farm Quotes About Power And Propaganda",
+            "url": "https://alonewithbooks.com/animal-farm-quotes/"
+          },
+          {
+            "title": "Benjamin the Donkey from Animal Farm, and the limits of political commentary",
+            "url": "https://davidallengreen.com/2020/12/the-strengths-and-weaknesses-of-benjamin-the-donkey-from-animal-farm-as-a-political-commentator/"
+          },
+          {
+            "title": "Animal Farm by George Orwell | Important Quotes & Analysis - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/important-quotes-from-animal-farm.html"
+          },
+          {
+            "title": "Some Interpretations are More Equal Than Others: Misinterpreting George Orwell\u2019s Animal Farm \u2013 PIT Journal",
+            "url": "https://pitjournal.unc.edu/2023/01/05/some-interpretations-are-more-equal-than-others-misinterpreting-george-orwells-animal-farm/"
+          },
+          {
+            "title": "Animal Farm Quotes by George Orwell",
+            "url": "https://www.goodreads.com/work/quotes/2207778-animal-farm-a-fairy-story"
+          },
+          {
+            "title": "If Animal Farm Characters Had Twitter | The SparkNotes Blog",
+            "url": "https://www.sparknotes.com/blog/if-animal-farm-characters-had-twitter/"
+          },
+          {
+            "title": "Quotes (Animal Farm) - GCSE English Literature Revision",
+            "url": "https://revisionworld.com/a2-level-level-revision/english-literature-gcse-level/animal-farm-george-orwell/quotes-animal-farm"
+          },
+          {
+            "title": "Famous Quotes from Animal Farm with Examples and Analysis",
+            "url": "https://literarydevices.net/animal-farm-quotes/"
+          },
+          {
+            "title": "George Orwell, Animal Farm",
+            "url": "https://www.pinterest.com/pin/all-animals-are-equal-but-some-animals-are-more-equal-than-others-george-orwell-animal-farm-in-2024--311874342960621232/"
+          },
+          {
+            "title": "Animal Farm Quotes",
+            "url": "https://climber.uml.edu.ni/fetch.php/Resources/Me1i07/AnimalFarmQuotes.pdf"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with information about how Animal Farm quotes, particularly \"all animals are equal,\" have been used in political discourse and social media, though the results don't show specific viral TikTok memes from the 2020s.\n\n## Key Findings:\n\n### The Famous Quote and Its Usage\nThe most famous quote from Animal Farm is \"All animals are equal, but some animals are more equal than others.\" This paradoxical statement has become a cultural touchstone for discussing inequality and hypocrisy in political systems.\n\n### Political Commentary Applications\nAnimal Farm has become \"a cultural touchstone around which misinformation has dominated\" and \"has grown far past its original context to take on new meanings and interpretations.\"(no content)Parallels have been drawn between the novel and various political issues, \"from Obamacare to the 1%.\"\n\n### Modern Political Discourse\n\"All animals are equal, but some animals are more equal than others\" is \"often cited as the novella's core message\" and \"highlights the insidious nature of inequality and the slippery slope toward tyranny.\" In contemporary contexts, \"the quote speaks to issues of class disparity, political corruption, and the erosion of democratic ideals.\"\n\n### Social Media Presence\nWhile the search results show that Animal Farm memes exist on platforms like:\n- Know Your Meme featured the quote in Political Compass memes\n- Flickr users created quotation memes with the \"all animals are equal\" quote\n- Multiple TikTok pages exist for Animal Farm memes (though specific content wasn't accessible in the search results)\n\n### Educational and Cultural Impact\nMany students receive \"flawed information about the novel and the author's intention\" in classrooms, and \"this narrative around Animal Farm has extended to its use in the political arena.\"\n\n### Vulnerability to Appropriation\nAnimal Farm has been \"misused by many political movements,\" including \"western propagandists from the Cold-War era, neoconservatives from the 1960s who were opposed to communist ideals, and the modern left who support elements of democratic socialism.\" The novel is \"vulnerable to this kind of appropriation because it is an allegory, a form that is predisposed to misinterpretation.\"\n\nWhile the search didn't yield specific examples of viral TikTok memes using the \"all animals are equal\" quote in 2020s political discourse, it's clear that Animal Farm continues to be a widely referenced work in political commentary across social media platforms, with its quotes being adapted to critique various forms of inequality and political hypocrisy in contemporary society."
+    ],
+    "durationSeconds": 45.309705499999694
+  }
+}

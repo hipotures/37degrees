@@ -1,0 +1,210 @@
+{
+  "session_id": "ad0134af-ec8f-4d33-afa8-be303b4ad42f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ad0134af-ec8f-4d33-afa8-be303b4ad42f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Alice in Wonderland\" TikTok POV trends viral videos \"main character\" rabbit hole 2024 2025"
+  },
+  "tool_response": {
+    "query": "\"Alice in Wonderland\" TikTok POV trends viral videos \"main character\" rabbit hole 2024 2025",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01KfTbVZMtJWM3xttGbawWij",
+        "content": [
+          {
+            "title": "White Rabbit - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/White_Rabbit"
+          }
+        ]
+      },
+      "The search results didn't return information about TikTok trends. Let me search more specifically for TikTok Alice in Wonderland trends.",
+      {
+        "tool_use_id": "srvtoolu_016vpLbE6ZRTY6hUtC7EkEt2",
+        "content": [
+          {
+            "title": "Alice in Wonderland 3 2024",
+            "url": "https://www.tiktok.com/discover/alice-in-wonderland-3-2024"
+          },
+          {
+            "title": "Alice in Wonderland Disorder Pov",
+            "url": "https://www.tiktok.com/discover/alice-in-wonderland-disorder-pov"
+          },
+          {
+            "title": "Alice in Wonderland Horror Movie 2024",
+            "url": "https://www.tiktok.com/discover/alice-in-wonderland-horror-movie-2024"
+          },
+          {
+            "title": "Ramdam - Tiktok Trends - December 2024",
+            "url": "https://www.ramd.am/blog/trends-tiktok-december-2024"
+          },
+          {
+            "title": "Wonderland System 2024",
+            "url": "https://www.tiktok.com/discover/wonderland-system-2024"
+          },
+          {
+            "title": "Pov Trends on TikTok",
+            "url": "https://www.tiktok.com/discover/pov-trends-on-tiktok?lang=en"
+          },
+          {
+            "title": "Alice in Wonderland Tik Tok",
+            "url": "https://www.tiktok.com/discover/alice-in-wonderland-tik-tok"
+          },
+          {
+            "title": "Alice in Wonderland Garden Exhibit 2024",
+            "url": "https://www.tiktok.com/discover/alice-in-wonderland-garden-exhibit-2024"
+          },
+          {
+            "title": "Primark Alice in Wonderland 2024",
+            "url": "https://www.tiktok.com/discover/primark-alice-in-wonderland-2024"
+          },
+          {
+            "title": "2024 Prom Theme Ideas Alice in Wonderland",
+            "url": "https://www.tiktok.com/discover/2024-prom-theme-ideas-alice-in-wonderland"
+          }
+        ]
+      },
+      "Let me try searching for TikTok main character and rabbit hole trends specifically.",
+      {
+        "tool_use_id": "srvtoolu_014yGuCdjpWdHpW2NaaYwSQ5",
+        "content": [
+          {
+            "title": "The NPC trend: Tiktok trends and fall of society",
+            "url": "https://www.nedaaria.info/post/the-npc-trend-tiktok-trends-and-fall-of-society"
+          },
+          {
+            "title": "\u201cMain character syndrome\u201d is trending on TikTok for Gen Z and Millennials. - YPulse",
+            "url": "https://www.ypulse.com/newsfeed/2021/04/20/main-character-syndrome-is-trending-on-tiktok-for-gen-z-and-millennials/"
+          },
+          {
+            "title": "TikTok's biggest trends right now (2025) | Clipchamp Blog",
+            "url": "https://clipchamp.com/en/blog/tiktok-trends-challenges/"
+          },
+          {
+            "title": "So... I Spent The Whole Night In a Weird TikTok Rabbit Hole \ud83d\udc40",
+            "url": "https://fattkay.com/p/some-fun-theories"
+          },
+          {
+            "title": "Main Character Syndrome: What It Is and How It Differs from Ordinary Life \u2013 Gay in the CLE",
+            "url": "https://gayinthecle.com/2024/09/16/main-character-syndrome/"
+          },
+          {
+            "title": "How TikTok's Main Character Syndrome Is American Individualism 2.0",
+            "url": "https://paradoxpolitics.com/2021/07/tiktoks-main-character-syndrome-american-individualism-in-the-age-of-black-mirror/"
+          },
+          {
+            "title": "What Is The Main Character Meme? TikTok Trend Explained",
+            "url": "https://www.refinery29.com/en-us/2021/06/10458682/main-character-tiktok-meme"
+          },
+          {
+            "title": "Rabbit Hole TikTok 2024 Nephilam",
+            "url": "https://www.tiktok.com/discover/rabbit-hole-tiktok-2024-nephilam"
+          },
+          {
+            "title": "Main Character Syndrome",
+            "url": "https://www.tiktok.com/discover/main-character-syndrome"
+          },
+          {
+            "title": "Ramdam - Tiktok Trends - July 2025",
+            "url": "https://www.ramd.am/blog/trends-tiktok"
+          }
+        ]
+      },
+      "Let me search more specifically for recent Alice in Wonderland themed TikTok content.",
+      {
+        "tool_use_id": "srvtoolu_01XVMaHxT72MHs2NCbWhwcW5",
+        "content": [
+          {
+            "title": "How fast does TikTok send users down the antisemitic rabbit hole? \u2013 The Forward",
+            "url": "https://forward.com/culture/577326/tiktok-antisemitic-hate-speech-rabbit-hole-experiment/"
+          },
+          {
+            "title": "Down The Rabbit Hole (@dtrh_fest) Official",
+            "url": "https://www.tiktok.com/@dtrh_fest"
+          },
+          {
+            "title": "go down the rabbit hole | TikTok Search",
+            "url": "https://www.tiktok.com/discover/go-down-the-rabbit-hole?lang=en"
+          },
+          {
+            "title": "Down the Rabbit Hole: My Experience Going Viral on TikTok | by Kate Ringland | Medium",
+            "url": "https://kateringland.medium.com/down-the-rabbit-hole-my-experience-going-viral-on-tiktok-e5e97bf720df"
+          },
+          {
+            "title": "I Went Down The Rabbit Hole",
+            "url": "https://www.tiktok.com/discover/i-went-down-the-rabbit-hole"
+          },
+          {
+            "title": "going down the rabbit hole\uff5cTikTok Search",
+            "url": "https://www.tiktok.com/discover/going-down-the-rabbit-hole"
+          },
+          {
+            "title": "We All Go Down The Rabbit Hole Together",
+            "url": "https://www.tiktok.com/discover/we-all-go-down-the-rabbit-hole-together"
+          },
+          {
+            "title": "down the rabbit hole",
+            "url": "https://www.tiktok.com/discover/down-the-rabbit-hole?lang=en"
+          },
+          {
+            "title": "I Nearly Went Down The Rabbit Hole",
+            "url": "https://www.tiktok.com/discover/i-nearly-went-down-the-rabbit-hole"
+          },
+          {
+            "title": "Lainey Wilson Admits She 'Went Down the Rabbit Hole' After Her Butt Went Viral",
+            "url": "https://tasteofcountry.com/lainey-wilson-viral-butt-tik-tok-reaction-insecurity/"
+          }
+        ]
+      },
+      "Let me search for more current TikTok POV trends specifically.",
+      {
+        "tool_use_id": "srvtoolu_01CgDFXVzYbrmKeKD5oUoaZq",
+        "content": [
+          {
+            "title": "Top TikTok Trends to Try This Week: Updated Regularly in 2025",
+            "url": "https://later.com/blog/tiktok-trends/"
+          },
+          {
+            "title": "What's Trending? TikTok Trends Right Now (Updated July 2025)",
+            "url": "https://slayingsocial.com/tiktok-trends-right-now/"
+          },
+          {
+            "title": "TikTok's biggest trends right now (2025) | Clipchamp Blog",
+            "url": "https://clipchamp.com/en/blog/tiktok-trends-challenges/"
+          },
+          {
+            "title": "Ramdam - Tiktok Trends - July 2025",
+            "url": "https://www.ramd.am/blog/trends-tiktok"
+          },
+          {
+            "title": "What Does POV Mean? Learn All About TikTok's Viral First-Person Video Trend",
+            "url": "https://loaddd.com/blog/15509/what-does-pov-mean"
+          },
+          {
+            "title": "Pov Trends on TikTok",
+            "url": "https://www.tiktok.com/discover/pov-trends-on-tiktok?lang=en"
+          },
+          {
+            "title": "Top TikTok Trends in 2025: 18 Ideas To Go Viral - Shopify",
+            "url": "https://www.shopify.com/blog/tiktok-trends"
+          },
+          {
+            "title": "TikTok Trends 2025: The Most Important Trends To Watch",
+            "url": "https://www.searchenginejournal.com/tiktok-trends/473584/"
+          },
+          {
+            "title": "TikTok trends 2025: tracking the latest TikTok trends as they emerge",
+            "url": "https://www.home.shooglebox.com/tiktok-trends-2025"
+          },
+          {
+            "title": "TikTok trends April 2025\u2014What\u2019s trending on TikTok this week?",
+            "url": "https://elements.envato.com/learn/tiktok-trends"
+          }
+        ]
+      },
+      "Based on my search results, I found information about TikTok trends, POV videos, \"main character\" content, and \"rabbit hole\" references, though not specifically Alice in Wonderland-themed POV trends. Here's what I found:\n\n## Current TikTok Trends (2024-2025)\n\n### Alice in Wonderland Audio Trend\nOne specific Alice in Wonderland trend from December 2024 uses an audio clip from Alice in Wonderland (2010). The dialogue between Alice and Lady Ascot is the perfect foundation for calling out outdated, confusing, or downright baffling statements. In the clip, Lady Ascot complains about gardeners planting white roses instead of red, and Alice offers a whimsical solution: \"You could always paint the roses red.\" Lady Ascot indignantly replies, \"What an odd thing to say.\" The humor of the trend lies in the absurdity of responses, making it a versatile format for highlighting frustrating societal norms, workplace struggles, or illogical advice.\n\n### POV Trends on TikTok\nPOV-style videos have become massively popular on TikTok over the last couple of years. The hashtag #POV has over 128 billion views on TikTok as of January 2023, showing just how common this format has become.\n\nPopular POV trends include:\n- \"You're the main character\" movie/TV POVs\n- Videos told from the perspective of a particular character or situation. For example, you might post a video from the POV of your strict parent, a nervous backseat driver, or a dog on a walk. POV videos are usually humorous takes and can be adapted to any situation\n\n### Main Character Syndrome Trends\n\"Main character syndrome\" is trending on TikTok for Gen Z and Millennials. Spend just a few minutes on TikTok and you're likely to come across the #maincharacter trend. Often coupled with Lana Del Ray's \"Mariners Apartment Complex\" audio, TikTokers are romanticising the everyday by pretending they're the main character of their own movie or story. The hashtag currently has more than 5 billion views\n\n### \"Rabbit Hole\" References\nThe term \"rabbit hole\" appears frequently in TikTok contexts, referring to falling into a rabbit hole, except this rabbit hole is filled with videos, each one more entertaining than the last. The algorithm is so damn good that it knows exactly what you want to see before you even know it yourself\n\n### Current 2025 POV Trends\nRecent POV trends include:\n- Quickly flipping your camera to selfie mode, revealing a surprise POV (dramatic string music definitely required)\n- After a few seconds, the camera \"accidentally\" flips, exposing the person who's sharing their POV. Inevitably, it's someone with a clear agenda \u2013 so they act flustered. To heighten the drama, a sad violin song plays in the background\n\nWhile I didn't find specific Alice in Wonderland POV trends combining all the elements you mentioned, the search shows that POV content, main character themes, and rabbit hole metaphors are all very popular on TikTok, with creators often combining literary references with current social media formats."
+    ],
+    "durationSeconds": 45.21701769799995
+  }
+}

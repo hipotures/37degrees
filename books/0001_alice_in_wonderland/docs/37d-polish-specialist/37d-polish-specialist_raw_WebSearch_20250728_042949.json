@@ -1,0 +1,63 @@
+{
+  "session_id": "ac25dab5-19ee-43b4-8689-cf24d65d211d",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ac25dab5-19ee-43b4-8689-cf24d65d211d.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Alicja w Krainie Czar\u00f3w\" Teatr Polskiego Radia s\u0142uchowisko polska adaptacja audiodrama"
+  },
+  "tool_response": {
+    "query": "\"Alicja w Krainie Czar\u00f3w\" Teatr Polskiego Radia s\u0142uchowisko polska adaptacja audiodrama",
+    "results": [
+      "I'll search for information about the Polish Radio Theatre's audio drama adaptation of \"Alice in Wonderland\" (Alicja w Krainie Czar\u00f3w).",
+      {
+        "tool_use_id": "srvtoolu_014X4fYs3ENThQdTYoANCR7U",
+        "content": [
+          {
+            "title": "Alicja w Krainie Czar\u00f3w - Teatr Muzyczny ...",
+            "url": "https://www.teatrroma.pl/en/spektakl/alice-in-wonderland/"
+          },
+          {
+            "title": "Teatr Polskiego Radia ::: Encyklopedia teatru polskiego",
+            "url": "https://encyklopediateatru.pl/teatr-polskiego-radia"
+          },
+          {
+            "title": "Alicja w krainie czar\u00f3w (cz\u0119\u015b\u0107 2) ::: Przedstawienia ::: Encyklopedia teatru polskiego",
+            "url": "https://encyklopediateatru.pl/przedstawienie/70257/alicja-w-krainie-czarow-czesc-2"
+          },
+          {
+            "title": "ALICJA W KRAINIE CZAR\u00d3W. REMIX - Teatr Nowy w Poznaniu",
+            "url": "https://teatrnowy.pl/spektakle/alicja-w-krainie-czarow-remix/"
+          },
+          {
+            "title": "Alicja w krainie czar\u00f3w (cz\u0119\u015b\u0107 3) ::: Przedstawienia ::: Encyklopedia teatru polskiego",
+            "url": "https://encyklopediateatru.pl/przedstawienie/70258/alicja-w-krainie-czarow-czesc-3"
+          },
+          {
+            "title": "Alicja w krainie czar\u00f3w (cz\u0119\u015b\u0107 3) ::: Przedstawienia ::: Encyklopedia teatru polskiego",
+            "url": "http://www.encyklopediateatru.pl/przedstawienie/70258/alicja-w-krainie-czarow"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w ::: Sztuki ::: Encyklopedia teatru polskiego",
+            "url": "https://encyklopediateatru.pl/sztuki/2909/alicja-w-krainie-czarow"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w - Nowy Teatr im. Witkacego w S\u0142upsku",
+            "url": "https://nowyteatr.pl/spektakle/alicja-w-krainie-czarow/"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w - audiobook - e-muzyka | Audioteka",
+            "url": "https://audioteka.com/pl/audiobook/alicja-w-krainie-czarow-pn/"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w ::: Przedstawienia ::: Encyklopedia teatru polskiego",
+            "url": "https://encyklopediateatru.pl/przedstawienie/80150/alicja-w-krainie-czarow"
+          }
+        ]
+      },
+      "Based on the search results, I found information about Polish Radio Theatre's (Teatr Polskiego Radia) adaptation of \"Alice in Wonderland\" (Alicja w Krainie Czar\u00f3w) as an audio drama:\n\n## Polish Radio Theatre's \"Alicja w Krainie Czar\u00f3w\" Audio Drama\n\nThe audio drama was produced by Teatr Polskiego Radia (Polish Radio Theatre) with the premiere on December 26, 1987 for part 2 of the adaptation. The complete radio play was broadcast in four parts:\n\n- Part 1: premiered on December 25, 1987\n- Part 2: premiered on December 26, 1987\n- Part 3: premiered on December 27, 1987\n- Part 4: premiered on January 1, 1988\n\n### Production Details:\n\n**Creative Team:**\n- Translation: Robert Stiller\n- Adaptation and Direction: Maciej Leszczy\u0144ski\n- Acoustic Realization: Andrzej Brzoska\n- Music: Marcin B\u0142a\u017cewicz\n\n**Cast included notable Polish actors:**\n- Julia Korejwo as Alicja (Alice)\n- Marian Opania as Kapelusznik (Mad Hatter)\n- Magdalena Zawadzka as Kr\u00f3lowa (Queen)\n- Piotr Fronczewski as Hojny-Bojdy (Humpty Dumpty)\n- Henryk Talar as Kr\u00f3lik (Rabbit)(no content)The Polish Radio Theatre, established in 1925, is a theater of spoken and sung word that uses radio broadcasting technology, enriched with music and acoustic effects. During the interwar period, it was called the \"theater of imagination\".\n\nThere's also a separate musical adaptation mentioned in the search results: \"Alicja w Krainie Czar\u00f3w\" adapted by Antoni Marianowicz is a recording now considered a classic, featuring actors like Magda Zawadzka, Piotr Fronczewski, Marian Kociniak, and Janusz Zakrze\u0144ski."
+    ],
+    "durationSeconds": 25.979304880000186
+  }
+}

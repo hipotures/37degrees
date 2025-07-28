@@ -1,0 +1,154 @@
+{
+  "session_id": "ad0134af-ec8f-4d33-afa8-be303b4ad42f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ad0134af-ec8f-4d33-afa8-be303b4ad42f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Alice in Wonderland\" food symbolism psychoanalytic Freudian eating control modern Gen Z TikTok interpretation"
+  },
+  "tool_response": {
+    "query": "\"Alice in Wonderland\" food symbolism psychoanalytic Freudian eating control modern Gen Z TikTok interpretation",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01FRPLn5MR3EKMZk6ya28D3s",
+        "content": [
+          {
+            "title": "Navigating Childhood: A Psychoanalytic Interpretation of Alice in Wonderland | by Kathleen M. Pedraza | Medium",
+            "url": "https://kathleenmpedraza.medium.com/navigating-childhood-a-psychoanalytic-interpretation-of-alice-in-wonderland-d736de3c7f11"
+          },
+          {
+            "title": "Deeper, Hidden Meanings and Themes in \"Alice's Adventures in Wonderland\" - Owlcation",
+            "url": "https://owlcation.com/humanities/Alice-in-Wonderland-What-Intriguing-Message-Does-it-really-Hold"
+          },
+          {
+            "title": "How little girls are like serpents, or, food and power in Lewis Carroll's Alice books - Alice-in-Wonderland.net",
+            "url": "https://www.alice-in-wonderland.net/resources/analysis/interpretive-essays/how-little-girls-are-like-serpents-or-food-and-power-in-lewis-carrolls-alice-books/"
+          },
+          {
+            "title": "Eating and Drinking, Growing and Shrinking Symbol in Alice's Adventures in Wonderland | LitCharts",
+            "url": "https://www.litcharts.com/lit/alice-s-adventures-in-wonderland/symbols/eating-and-drinking-growing-and-shrinking"
+          },
+          {
+            "title": "PSYCHOANALYSIS OF LEWIS CARROLL\u2019S ALICE IN WONDERLAND | by Yotasha | Medium",
+            "url": "https://medium.com/@yotasha2001/psychoanalysis-of-lewis-carrolls-alice-in-wonderland-f27c56bfbbdf"
+          },
+          {
+            "title": "Alice in Wonderland and Scott Pilgrim: What They Eat, Their Choices, and Defining the Self - ReelRundown",
+            "url": "https://reelrundown.com/misc/Alice-in-Wonderland-and-Scott-Pilgrim-What-they-Eat-Their-Choices-and-Defining-Self"
+          },
+          {
+            "title": "Analyzing the Psychological Aspects of Alice in Wonderland | by The Psychology Of Everything | Medium",
+            "url": "https://medium.com/@thepsy.of.everything/analyzing-the-psychological-aspects-of-alice-in-wonderland-837cb643b048"
+          },
+          {
+            "title": "(DOC) Psychoanalysis of Alice in Wonderland",
+            "url": "https://www.academia.edu/110664906/Psychoanalysis_of_Alice_in_Wonderland"
+          },
+          {
+            "title": "Eat Me Cake | Alice in Wonderland Wiki | Fandom",
+            "url": "https://aliceinwonderland.fandom.com/wiki/Eat_Me_Cake"
+          },
+          {
+            "title": "Freudian Psychoanalysis of Alice in Wonderland | Honors English: The Idea of Man",
+            "url": "https://emmeehan19.wordpress.com/2015/09/30/freudian-psychoanalysis-of-alice-in-wonderland/"
+          }
+        ]
+      },
+      "I found some relevant academic sources on psychoanalytic interpretations of Alice in Wonderland that discuss food symbolism, but I need to search specifically for modern interpretations, particularly those relating to TikTok and Gen Z perspectives on eating disorders and food control, as the current results primarily focus on traditional literary analysis.",
+      {
+        "tool_use_id": "srvtoolu_01Ge7KJpwLNttA3NTqav1sZD",
+        "content": [
+          {
+            "title": "The use of TikTok among children and adolescents with Eating Disorders: experience in a third-level public Italian center during the SARS-CoV-2 pandemic | Italian Journal of Pediatrics | Full Text",
+            "url": "https://ijponline.biomedcentral.com/articles/10.1186/s13052-022-01308-4"
+          },
+          {
+            "title": "Is Social Media Giving Gen Z Eating Disorders? | Evie Magazine",
+            "url": "https://www.eviemagazine.com/post/is-social-media-giving-gen-z-eating-disorders"
+          },
+          {
+            "title": "The use of TikTok among children and adolescents with Eating Disorders: experience in a third-level public Italian center during the SARS-CoV-2 pandemic - PMC",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9338669/"
+          },
+          {
+            "title": "Karissaeats Eating All The Food from Alice in Wonderland",
+            "url": "https://www.tiktok.com/discover/karissaeats-eating-all-the-food-from-alice-in-wonderland"
+          },
+          {
+            "title": "Does TikTok contribute to eating disorders? A comparison of the TikTok algorithms belonging to individuals with eating disorders versus healthy controls - ScienceDirect",
+            "url": "https://www.sciencedirect.com/science/article/pii/S1740144524001293"
+          },
+          {
+            "title": "How little girls are like serpents, or, food and power in Lewis Carroll's Alice books - Alice-in-Wonderland.net",
+            "url": "https://www.alice-in-wonderland.net/resources/analysis/interpretive-essays/how-little-girls-are-like-serpents-or-food-and-power-in-lewis-carrolls-alice-books/"
+          },
+          {
+            "title": "Is TikTok Pushing Eating Disorder Content to Teens? - thewaveclinic.com",
+            "url": "https://thewaveclinic.com/blog/is-tiktok-pushing-eating-disorder-content-to-teens/"
+          },
+          {
+            "title": "Alice in Wonderland Eating Scene",
+            "url": "https://www.tiktok.com/discover/alice-in-wonderland-eating-scene"
+          },
+          {
+            "title": "Alice in Wonderland Gen Z",
+            "url": "https://www.tiktok.com/discover/alice-in-wonderland-gen-z"
+          },
+          {
+            "title": "The Influence of TikTok And Social Media On Body ...",
+            "url": "https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=1654&context=senior_theses"
+          }
+        ]
+      },
+      "Let me search for more specific information about modern interpretations connecting Alice in Wonderland's food themes to contemporary discussions about eating disorders and control.",
+      {
+        "tool_use_id": "srvtoolu_01GMFANzRZ9DWj4fA7YznYYx",
+        "content": [
+          {
+            "title": "Alice's Adventures in Wonderland - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Alice's_Adventures_in_Wonderland"
+          },
+          {
+            "title": "Alice in Wonderland syndrome - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Alice_in_Wonderland_syndrome"
+          },
+          {
+            "title": "Works based on Alice in Wonderland - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Works_based_on_Alice_in_Wonderland"
+          },
+          {
+            "title": "Hidden Psychology and Symbols in Alice in Wonderland | by Rupsha Bose | Medium",
+            "url": "https://medium.com/@rupshabose/hidden-psychology-and-symbols-in-alice-in-wonderland-dfd05232d88a"
+          },
+          {
+            "title": "\u201cAlice in Wonderland\u201d \u2014 Meaning, Themes, and Symbols",
+            "url": "https://www.culturefrontier.com/symbolism-in-alice-in-wonderland/"
+          },
+          {
+            "title": "How little girls are like serpents, or, food and power in Lewis Carroll's Alice books - Alice-in-Wonderland.net",
+            "url": "https://www.alice-in-wonderland.net/resources/analysis/interpretive-essays/how-little-girls-are-like-serpents-or-food-and-power-in-lewis-carrolls-alice-books/"
+          },
+          {
+            "title": "Exploring the Magical Art of Alice in Wonderland \u2013 Andy okay",
+            "url": "https://andyokay.com/blogs/the-gallerist/exploring-the-magical-art-of-alice-in-wonderland"
+          },
+          {
+            "title": "Deeper, Hidden Meanings and Themes in \"Alice's Adventures in Wonderland\" - Owlcation",
+            "url": "https://owlcation.com/humanities/Alice-in-Wonderland-What-Intriguing-Message-Does-it-really-Hold"
+          },
+          {
+            "title": "The Truth Behind Alice in Wonderland and Lewis Carroll",
+            "url": "https://fable.co/blog/the-truth-behind-alice-in-wonderland-and-lewis-carroll"
+          },
+          {
+            "title": "'Alice in Wonderland' and the World Around It | Geeks",
+            "url": "https://vocal.media/geeks/alice-in-wonderland-and-the-world-around-it"
+          }
+        ]
+      },
+      "Based on my search results, I can provide you with comprehensive insights about the psychoanalytic and food symbolism interpretations of Alice in Wonderland, including both traditional Freudian analysis and its connection to modern Gen Z perspectives on eating and control.\n\n## Traditional Psychoanalytic Food Symbolism in Alice in Wonderland\n\nAlice's Adventures in Wonderland and Through the Looking-Glass set up the dichotomy between the upper and lower classes through opposing representations of language and eating, centering social identity symbolically around the mouth. Just as the type of language characters speak serves as an identifying marker of their class, so the types of food they eat or the food available to them classify them to their fellow characters and to the reader as upper- or lower-class figures.(no content)Alice's changes in size as a result of eating and drinking represent her own experience of the symbolic connections between food, class, and identity. Chapter II, 'The Pool of Tears', begins with Alice growing bigger and bigger as a result of eating a \"very small cake, on which the words 'EAT ME' were beautifully marked in currants\". Eating, in this case, has transformed Alice's body into a succinct illustration of the Victorian social spectrum as a whole, her head representative of the upper class and her feet of the lower.\n\n## Freudian Interpretations of Control and Growing Up\n\nLater psychoanalysts have focused more on Alice's experiences in Wonderland functioning as an allegory for the developing ego, or, in other words, for growing up. For, despite having been written by a middle-aged man, many critics have found it worthwhile to study the character of Alice as an example of the child-mind dealing with learning to understand the world and itself.(no content)Alice is on the verge of growing up and, in Wonderland, she experiences many bizarre physical changes. Being in Wonderland is unpredictable and disturbing at times, much like transforming from a child into an adult. This endless uncertainty is a visual way that Carroll plots Alice's spiritual journey as she comes to terms with both the physical and psychological changes that are part of growing up.\n\n## Food as Temptation and Control\n\nFood appears over and over again in Wonderland, often playing a significant role in the plot. Throughout the story, Alice is constantly being offered food and drinks that have strange and unexpected effects on her body and mind. Many people view food in Alice's Adventures in Wonderland as a metaphor for temptation. Alice is frequently tempted by the various foods and drinks that are offered to her, and the consequences of indulging in these temptations are often unpredictable.(no content)The animals of Wonderland are of particular interest, for Alice's relation to them shifts constantly because, as Lovell-Smith states, Alice's changes in size continually reposition her in the food chain, serving as a way to make her acutely aware of the 'eat or be eaten' attitude that permeates Wonderland.\n\n## Modern Gen Z and TikTok Connections to Eating Disorders\n\nWhile the search results don't reveal extensive modern TikTok interpretations specifically connecting Alice in Wonderland to eating disorders, there is relevant research on how social media platforms like TikTok affect Gen Z's relationship with food and body image:\n\nRecent research has documented the potential associations existing between the use of social media (SM) and the occurrence/development and treatment of Eating Disorders (ED). However, the literature directly addressing the use of SM TikTok among children and adolescents with ED is still scarce.(no content)Significantly, 64% of the patients in our sample declared that they found pro-Ana materials on TikTok's bulletin board without actively searching.(no content)Hazel said, \"When you are so unhappy you don't know how to accomplish anything, then to have control over your body becomes an extreme accomplishment. You make of your body your very own kingdom where you are the tyrant, the absolute dictator.\"\n\n## Contemporary Relevance\n\nThe themes of control, body transformation, and the psychological significance of eating in Alice in Wonderland resonate strongly with modern discussions about eating disorders and body image among Gen Z. Carina Garland notes how the world is \"expressed via representations of food and appetite\", naming Alice's frequent desire for consumption (of both food and words), her 'Curious Appetites'. Often, the idea of eating coincides to make gruesome images.\n\nThe psychological framework established by Carroll's work - where eating represents transformation, control, and identity formation - provides a lens through which modern interpretations can examine how social media platforms influence young people's relationships with food and their bodies, though specific TikTok analyses connecting these themes appear to be an emerging area of study rather than well-documented scholarship."
+    ],
+    "durationSeconds": 59.262140486000106
+  }
+}

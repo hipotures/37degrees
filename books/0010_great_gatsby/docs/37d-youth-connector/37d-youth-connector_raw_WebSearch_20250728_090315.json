@@ -1,0 +1,63 @@
+{
+  "session_id": "e18f7f1c-5883-41e4-8ef9-15aee4aa266b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e18f7f1c-5883-41e4-8ef9-15aee4aa266b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Gen Z hustle culture get-rich-quick schemes social media wealth inequality awareness 2024"
+  },
+  "tool_response": {
+    "query": "Gen Z hustle culture get-rich-quick schemes social media wealth inequality awareness 2024",
+    "results": [
+      "I'll search for information about Gen Z's relationship with hustle culture, get-rich-quick schemes, and wealth inequality awareness on social media in 2024.",
+      {
+        "tool_use_id": "srvtoolu_01BspK4eBmRvcXejci8pr5vk",
+        "content": [
+          {
+            "title": "Why is Gen Z rejecting hustle culture and redefining the meaning of work? | Show Types | Al Jazeera",
+            "url": "https://www.aljazeera.com/amp/video/the-stream/2024/1/12/why-is-gen-z-rejecting-hustle-culture-and-redefining-the-meaning-of-work"
+          },
+          {
+            "title": "Hustle Culture Is Screwing The Millennials And Generation Z In Ways You Can Never Imagine | by Vivek Naskar | Age of Awareness | Medium",
+            "url": "https://medium.com/age-of-awareness/hustle-culture-is-screwing-the-millennials-and-generation-z-in-ways-you-can-never-imagine-ea250665d2e7"
+          },
+          {
+            "title": "Gen Alpha side hustles: How kids are earning big online before they can even drive - Fast Company",
+            "url": "https://www.fastcompany.com/91350872/gen-alpha-side-hustles-how-kids-are-earning-big-online-before-they-can-even-drive"
+          },
+          {
+            "title": "Is 2024 the End of Hustle Culture? See Why Gen Z Isn't So Sure",
+            "url": "https://www.fool.com/the-ascent/personal-finance/articles/is-2024-the-end-of-hustle-culture-see-why-gen-z-isnt-so-sure/"
+          },
+          {
+            "title": "Why Gen Z can't stop talking about money on TikTok",
+            "url": "https://www.fastcompany.com/90935162/why-gen-z-cant-stop-talking-about-money-on-tiktok-according-to-vivian-tu/"
+          },
+          {
+            "title": "Deceptive TikTok trends that shape Gen Z\u2019s financial culture - BestBrokers.com",
+            "url": "https://www.bestbrokers.com/2024/05/21/deceptive-tiktok-trends-that-shape-gen-zs-financial-culture/"
+          },
+          {
+            "title": "TikTok is Shaping Gen Z\u2019s Perception of Class and Wealth | by Paige Browne | Digital Diplomacy | Medium",
+            "url": "https://medium.com/digital-diplomacy/tiktok-is-shaping-gen-zs-perception-of-class-and-wealth-2f972b17a5ce"
+          },
+          {
+            "title": "Trendy Nonsense About Gen Z - The American Prospect",
+            "url": "https://prospect.org/economy/2024-05-14-trendy-nonsense-gen-z/"
+          },
+          {
+            "title": "Gen Z's wealth effect will shape the economy over time \u2014 here's who will benefit",
+            "url": "https://www.cnbc.com/2025/03/08/gen-zs-wealth-effect-will-shape-the-economy-over-time-heres-who-will-benefit.html"
+          },
+          {
+            "title": "The Side Hustle Generation: Gen Z and Millennials Redefine Financial Success - Intuit Blog",
+            "url": "https://www.intuit.com/blog/innovative-thinking/the-side-hustle-generation/"
+          }
+        ]
+      },
+      "Based on the search results, here's what I found about Gen Z's relationship with hustle culture, get-rich-quick schemes, and wealth inequality awareness on social media in 2024:\n\n## Gen Z's Shifting Perspective on Hustle Culture\n\nGen Z is redefining what we know today about the workplace as this generation has been rejecting hustle culture. According to a KeyBank 2024 Financial Mobility Survey, a whopping 72% of Americans define success as having a \"soft-life culture,\" with a focus on happiness and personal fulfillment, while only 28% of Americans say that they identify with \"hustle culture\" -- focused on career achievement, wealth, and status.\n\nHowever, this rejection isn't universal among Gen Z. If you're young, ambitious, and feeling overburdened by expenses (and underpaid at your job), it's understandable why you might want to choose hustle culture to guide your career efforts.\n\n## Get-Rich-Quick Schemes on Social Media\n\nThere's a significant prevalence of deceptive financial content targeting Gen Z on platforms like TikTok:\n\n- A recent study by the Forbes Advisor found that 80% of young people get financial advice from social media.\n- The side hustle ideas are presented in videos as \"lazy ways to get rich\" or \"do nothing and earn money\" concepts. Promising schemes for quick earnings, a large portion of the videos offer online trading, selling, or marketing jobs with supposedly easy income of $100-$3,000 a day.\n- The reality, however, is backed up with little or no evidence for any certain income, with most videos concealing the actual details of the money-making process or the additional initial capital required.\n\nThe most concerning trend is that more than 50% of TikTok users sought financial advice on the platform, but only 41% fact-checked the information they received.\n\n## Wealth Inequality Awareness\n\nGen Z demonstrates unprecedented awareness of class and wealth disparities:\n\n- While TikTok may seem like a platform for mindless videos, its content creators have sparked a growing conversation about class awareness\n- When someone sees people of all races, home situations, and economic statuses on their \"For You\" page every single day, it is much harder to distance oneself from the reality that many political leaders are far better off than the everyday people they claim to represent.\n- Gen Z has a clear moral line about \"punching up\" when it comes to economic status: it is okay to lightheartedly make fun of people who are wealthier than you, hence the \"you've got rich people lighting\" joke, and it is always okay to criticize corporations and billionaires.\n\n## The Reality of Gen Z's Economic Situation\n\nDespite some claims of Gen Z prosperity, many face significant financial challenges:\n\n- Each succeeding age cohort has had more student debt than the previous one. The average member of the class of 2022 had debt of $37,570, up from $35,210 in the class of 2019.\n- The result is negative net worth\u2014negative $31,571 for the typical member of the class of 2022, up from negative $17,347 for the class of 2019.\n\n## The Side Hustle Reality\n\nWhile get-rich-quick schemes proliferate, legitimate side hustles are common:\n\n- Nearly two-thirds of 18-35-year-olds have started or plan to start a side hustle as an addition to another form of income.\n- 44% of side hustlers citing a lack of hours in the day as their top obstacle.\n\nThe convergence of these trends shows Gen Z navigating a complex financial landscape where they're both increasingly aware of wealth inequality and vulnerable to misleading financial advice on social media, while simultaneously seeking alternatives to traditional hustle culture and exploring legitimate entrepreneurial opportunities."
+    ],
+    "durationSeconds": 43.21624180800002
+  }
+}

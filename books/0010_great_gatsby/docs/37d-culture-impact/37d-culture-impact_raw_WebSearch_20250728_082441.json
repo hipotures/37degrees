@@ -1,0 +1,63 @@
+{
+  "session_id": "e18f7f1c-5883-41e4-8ef9-15aee4aa266b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e18f7f1c-5883-41e4-8ef9-15aee4aa266b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Great Gatsby\" film adaptations complete list 1926 1949 2000 TV movie cultural reception"
+  },
+  "tool_response": {
+    "query": "\"Great Gatsby\" film adaptations complete list 1926 1949 2000 TV movie cultural reception",
+    "results": [
+      "I'll search for information about all the film adaptations of \"The Great Gatsby\" including the specific years you mentioned and their cultural reception.",
+      {
+        "tool_use_id": "srvtoolu_0198TP1zFUBMzx3mLUxugU82",
+        "content": [
+          {
+            "title": "The Six On-Screen Adaptations of \u201cThe Great Gatsby\u201d and What They Say About the Time and Place They Were Released In. | by Dain\u00e9al MacLean | Medium",
+            "url": "https://dainealmaclean.medium.com/the-six-on-screen-adaptations-of-the-great-gatsby-and-what-they-say-about-the-time-and-place-da0ddd2049fd"
+          },
+          {
+            "title": "Every Great Gatsby Movie, Compared: 2013, 1974, 1949 \u00b7 PrepScholar",
+            "url": "https://blog.prepscholar.com/the-great-gatsby-movies"
+          },
+          {
+            "title": "The Great Gatsby - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+          },
+          {
+            "title": "The Great Gatsby (1926 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Great_Gatsby_(1926_film)"
+          },
+          {
+            "title": "The Great Gatsby (Film) - TV Tropes",
+            "url": "https://tvtropes.org/pmwiki/pmwiki.php/Film/TheGreatGatsby"
+          },
+          {
+            "title": "The Great Gatsby (2013 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Great_Gatsby_(2013_film)"
+          },
+          {
+            "title": "Adaptations of The Great Gatsby - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Adaptations_of_The_Great_Gatsby"
+          },
+          {
+            "title": "Adaptations and portrayals of F. Scott Fitzgerald - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Adaptations_and_portrayals_of_F._Scott_Fitzgerald"
+          },
+          {
+            "title": "The Great Gatsby: Now (And Then) A Major Motion Picture",
+            "url": "https://americanfilm.afi.com/issue/2013/5/cover-story"
+          },
+          {
+            "title": "The Great Gatsby: Movie Adaptations | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/gatsby/movie-adaptations/"
+          }
+        ]
+      },
+      "Based on my search results, here's a comprehensive overview of \"The Great Gatsby\" film adaptations, including the specific years you mentioned and their cultural reception:\n\n## Complete List of Film Adaptations\n\nThe novel The Great Gatsby has been adapted to the screen six times since it was published in 1925:\n\n### 1. **1926 Silent Film**\n- Director: Herbert Brenon\n- Stars: Warner Baxter portrayed Jay Gatsby, Lois Wilson portrayed Daisy Buchanan and Neil Hamilton portarayed Nick Carraway\n- Status: The Great Gatsby is now considered lost. A vintage movie trailer displaying short clips of the film still exists\n- Cultural Reception: Although the film received generally positive reviews from critics, the reception by writer F. Scott Fitzgerald and his wife Zelda proved more ambivalent. Zelda held the film in low regard. While living in a Los Angeles bungalow with his wife Zelda Sayre in early 1927, the couple viewed the film at a nearby theater and walked out midway through the screening. \"It's ROTTEN and awful and terrible and we left.\"\n- Notable Changes: Daisy renounces Gatsby when she learns he is a bootlegger as opposed to when he demands she declare that she never loved Tom\n\n### 2. **1949 Film**\n- The second adapted film was made in 1949, titled the same as the first adaptation The Great Gatsby, directed by Elliot Nugent\n- Stars: Alan Ladd as Gatsby\n- Cultural Reception: The most curious film version of \"The Great Gatsby\" is the 1949 remake starring Alan Ladd. It takes great liberties with the novel, trading Fitzgerald's lyricism and ambiguity for lurid melodrama and \"nail-on-the-head\" plotting\n\n### 3. **1974 Film**\n- The third adapted film was released in 1974, again titled The Great Gatsby, directed by Jack Clayton\n- Starring Robert Redford as Jay Gatsby, Sam Waterston as Nick Carraway and Mia Farrow as Daisy Buchanan\n- Cultural Reception: Contemporary critics praised the film for these attributes, as well as for Redford's acting and Coppola's writing, they also criticized the film for its lack of emotional resonance. As New York Times film critic Vincent Canby put it: \"The sets and costumes and most of the performances are exceptionally good, but the movie itself is as lifeless as a body that's been too long at the bottom of a swimming pool.\"\n\n### 4. **2000 TV Movie**\n- Next was the made-for-TV film The Great Gatsby released in 2000, directed by Robert Markowitz\n- The Great Gatsby was directed by Robert Markowitz and starred Toby Stephens as Gatsby, Mira Sorvino as Daisy, and Paul Rudd as Nick\n- This was adapted as an A&E movie in 2000\n\n### 5. **2002 Film \"G\"**\n- Shortly afterwards the fifth adaptation was released in 2002, titled G, directed by Christopher Scott Cherot\n- This was a modern reimagining/appropriation of the story\n\n### 6. **2013 Film**\n- Starring Leonardo DiCaprio as Jay Gatsby, Tobey Maguire as Nick Carraway and Carey Mulligan as Daisy Buchanan\n- Director: Baz Luhrmann\n- Cultural Reception: A polarizing film among critics, The Great Gatsby received both praise and criticism for its visual style, direction, screenplay, performances, soundtrack, and interpretation of the source material\n\n## Television Adaptations\n\nTelevision adaptations have included episodes on NBC's Robert Montgomery Presents in 1955 and CBS's Playhouse 90 in 1958:\n\n- The first was in 1955 as an NBC episode for Robert Montgomery Presents starring Robert Montgomery, Phyllis Kirk, and Lee Bowman\n- In 1958, CBS filmed another adaptation as an episode of Playhouse 90, also titled The Great Gatsby, which was directed by Franklin J. Schaffner and starred Robert Ryan, Jeanne Crain and Rod Taylor\n\n## Cultural Impact and Reception\n\nDuring World War II, the novel experienced an abrupt surge in popularity when the Council on Books in Wartime distributed free copies to American soldiers serving overseas. This new-found popularity launched a critical and scholarly re-examination, leading to numerous adaptations.\n\nSome elements of the film adaptations have strongly influenced people's vision and understanding of the novel, but there isn't one \"best\" Great Gatsby movie or one best Great Gatsby cast, or even one movie that has fully captured the spirit of the novel.\n\nThe adaptations reflect the cultural contexts of their times - from the 1926 silent film made during Prohibition, to the lavish 1974 version that influenced fashion trends, to the modern, high-energy 2013 Baz Luhrmann interpretation."
+    ],
+    "durationSeconds": 47.12756602900009
+  }
+}

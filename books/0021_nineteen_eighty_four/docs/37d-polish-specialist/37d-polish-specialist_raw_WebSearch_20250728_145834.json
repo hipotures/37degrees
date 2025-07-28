@@ -1,0 +1,63 @@
+{
+  "session_id": "b8c17c71-efc6-4c19-9b68-e101c36de9c9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b8c17c71-efc6-4c19-9b68-e101c36de9c9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Rok 1984\" lektura szkolna obowi\u0105zkowa MEN podstawa programowa"
+  },
+  "tool_response": {
+    "query": "\"Rok 1984\" lektura szkolna obowi\u0105zkowa MEN podstawa programowa",
+    "results": [
+      "I'll search for information about \"Rok 1984\" (the novel \"1984\") as a required school reading in Poland's Ministry of Education curriculum.",
+      {
+        "tool_use_id": "srvtoolu_01H33LtcNe3Kf7x3hyEzySGy",
+        "content": [
+          {
+            "title": "Rok 1984 Lektura z opracowaniem Klasa 1-4 Liceum | George Orwell, George Orwell (Ksi\u0105\u017cka) - Ksi\u0119garnia znak.com.pl",
+            "url": "https://www.znak.com.pl/p/rok-1984-lektura-z-opracowaniem-klasa-1-4-liceum-george-orwell-george-orwell-172529"
+          },
+          {
+            "title": "George Orwell - Rok 1984 - Lista lektur dla szko\u0142y \u015bredniej. Fot. materia\u0142y prasowe - Zdj\u0119cia, fotki",
+            "url": "https://maturzysta.dlastudenta.pl/fotoalbum/1453819,11771,128996,1.html"
+          },
+          {
+            "title": "Rok 1984 - George Orwell | lektury szkolne z om\u00f3wieniem - Wydawnictwo Greg",
+            "url": "https://www.greg.pl/lektury/8,1175_Rok-1984.html"
+          },
+          {
+            "title": "Rok 1984. Lektura z opracowaniem - Ceny i opinie",
+            "url": "https://www.ceneo.pl/101528418"
+          },
+          {
+            "title": "Rok 1984 (lektura z opracowaniem) (Ibis) w ksi\u0119garni Tuliszk\u00f3w",
+            "url": "https://ksiegarnia-tuliszkow.pl/rok-1984-lektura-z-opracowaniem"
+          },
+          {
+            "title": "Rok 1984 - Streszczenie szczeg\u00f3\u0142owe - George Orwell - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/george-orwell/rok-1984.streszczenie-szczegolowe"
+          },
+          {
+            "title": "George Orwell, Rok 1984",
+            "url": "https://wolnelektury.pl/katalog/lektura/orwell-rok-1984/"
+          },
+          {
+            "title": "Rok 1984 - George Orwell | lektury szkolne z om\u00f3wieniem",
+            "url": "https://www.greg.pl/lektury/103,1178_Rok-1984.html"
+          },
+          {
+            "title": "Lista lektur \u2013 stara podstawa programowa (IV technikum po gimnazjum) | Zesp\u00f3\u0142 Szk\u00f3\u0142 Agro-Ekonomicznych im. Bronis\u0142awa Zamojdzina w Karolewie",
+            "url": "https://zsae-karolewo.home.pl/?page_id=8514"
+          },
+          {
+            "title": "George Orwell, \u201cRok 1984\u201d - streszczenie lektury - Mjakmama24.pl",
+            "url": "https://www.mjakmama24.pl/edukacja/lektury-prace/george-orwell-rok-1984-aa-gNv3-gN9V-qU17.html"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with information about \"Rok 1984\" (Nineteen Eighty-Four) by George Orwell as a required school reading in Poland:\n\n## Status as Required Reading\n\n\"Rok 1984\" is an obligatory reading at the basic level in Polish schools. George Orwell's \"Rok 1984\" is a required reading in upper secondary schools (szko\u0142a ponadpodstawowa).\n\n\"Rok 1984\" written by English writer George Orwell is a high school reading that is on the list of obligatory literary texts for both basic and extended profiles.\n\n## Historical Context in Poland\n\nThe novel has an interesting history in Poland:\n- In communist Poland (PRL), \"Rok 1984\" was banned by censorship, and the first Polish translation by Juliusz Mieroszewski was published in Paris in 1953\n- Readers in Poland had to wait 35 years for a domestic edition\n- For many years it was a forbidden novel in Poland due to its critique of the totalitarian system, which was interpreted as criticism of the communist regime in Poland. It was first officially published in Polish in the 1980s\n- A few years later it was added to the list of school readings\n\n## Educational Resources\n\nThe novel is widely available in educational editions with study guides and interpretations, as indicated by several search results showing publishers offering the book specifically formatted for school use with commentary and analysis tools for students and teachers.\n\nThe book appears to be part of the current curriculum framework (podstawa programowa) set by the Ministry of National Education (MEN) for Polish literature classes at the high school level."
+    ],
+    "durationSeconds": 20.904799656999995
+  }
+}

@@ -1,0 +1,377 @@
+# 37degrees Agent Workflow Guide
+
+This document defines the standard workflow that all 37d research agents must follow.
+
+## Core Agent Identity
+
+All agents are "claude code agents" specializing in book research for the 37degrees project.
+
+## Standard Workflow Steps
+
+### 1. Initialize Session
+- **READ** docs/STRUCTURE.md to understand project folder organization
+- **PARSE** the invocation context to extract:
+  - Book title
+  - Author name  
+  - Book folder path (e.g., books/0006_don_quixote/)
+- **VERIFY** the book folder exists before proceeding
+
+### 2. Assessment Phase (CRITICAL)
+Before starting any work, assess current state:
+
+**IMPORTANT**: This document refers to two types of TODO systems:
+- **FILE TODO**: Physical markdown files at `books/NNNN_book_name/docs/todo/TODO_37d-[agent-name].md`
+- **SYSTEM TODO**: Claude Code internal task tracking (TodoWrite tool)
+
+When we say "TODO" in this workflow, we mean **FILE TODO** unless explicitly stated otherwise.
+
+#### 2.1 Check FILE TODO Status
+- **CHECK** if FILE TODO exists at: `books/NNNN_book_name/docs/todo/TODO_37d-[agent-name].md`
+- If FILE TODO missing: **REPORT** "ERROR: FILE TODO missing at [path] - cannot proceed without task list" and **EXIT**
+- If FILE TODO exists: **READ** and analyze completion status
+
+#### 2.2 Check Findings Status
+- **CHECK** if findings file exists at: `books/NNNN_book_name/docs/findings/37d-[agent-name]_findings.md`
+- If findings exist: **READ** and assess content completeness
+- **VERIFY** findings match expected research tasks
+
+#### 2.3 Check Search Data
+- **LIST** files in: `books/NNNN_book_name/docs/37d-[agent-name]/`
+- **COUNT** JSON search files and index entries
+- **ASSESS** if search coverage seems adequate
+
+### 3. Determine Work Mode
+Based on assessment, choose appropriate mode:
+
+#### Mode A: FULL EXECUTION (Nothing exists)
+- No FILE TODO OR empty FILE TODO
+- No findings file OR empty findings
+- **ACTION**: Create FILE TODO from scratch, execute all tasks
+
+#### Mode B: REPAIR MODE (Partial work exists)
+- FILE TODO exists but incomplete
+- OR findings exist but FILE TODO missing/outdated
+- OR mismatch between FILE TODO and findings
+- **ACTION**: Reconcile state, complete missing work
+
+#### Mode C: VERIFICATION MODE (Work appears complete)
+- FILE TODO fully marked complete (all tasks are [x] or [0])
+- Findings file exists with content
+- **ACTION**: Verify quality and completeness
+- **CRITICAL**: Do NOT create new tasks. Work ONLY with tasks defined in FILE TODO.
+
+### 4. Execute Based on Mode
+
+#### 4.1 For FULL EXECUTION:
+1. **CREATE** FILE TODO with all research tasks
+2. **EXECUTE** each task systematically
+3. **UPDATE** FILE TODO after each task
+4. **SAVE** findings progressively
+
+#### 4.2 For REPAIR MODE:
+1. **RECONSTRUCT** FILE TODO if missing:
+   - Analyze existing findings to identify completed work
+   - Create FILE TODO marking completed items with `[x]` and timestamp
+   - Add any missing standard tasks as `[ ]`
+2. **IDENTIFY** gaps:
+   - Compare FILE TODO tasks with findings content
+   - List missing or incomplete research areas
+3. **COMPLETE** missing work:
+   - Execute uncompleted tasks
+   - Update existing findings (append, don't overwrite)
+   - Mark FILE TODO items complete
+
+#### 4.3 For VERIFICATION MODE:
+1. **CHECK** FILE TODO - are ALL tasks marked [x] or [0]?
+2. IF YES:
+   - **REPORT** "All tasks from FILE TODO completed successfully"
+   - **EXIT** immediately
+3. IF NO (some tasks still [ ] or [R]):
+   - **SWITCH** to REPAIR MODE
+   - **COMPLETE** the unfinished tasks
+4. **CRITICAL**: Do NOT create new tasks beyond FILE TODO
+
+### 5. Execute Tasks
+For each uncompleted task:
+
+1. **PERFORM** research/analysis specific to your agent role
+2. **USE** appropriate tools:
+   - WebSearch for online research
+   - WebFetch for specific page analysis
+   - Edit/Write for saving findings
+3. **DOCUMENT** all findings with proper citations
+4. **UPDATE** TODO status during and after task execution:
+   ```
+   # When starting a task (use Edit tool):
+   - [ ] Task description
+   # To:
+   - [R] Task description (started YYYY-MM-DD HH:MM)
+   
+   # When completing with results:
+   - [R] Task description (started YYYY-MM-DD HH:MM)
+   # To:
+   - [x] Task description ✓ (YYYY-MM-DD HH:MM)
+   
+   # When completing with no results:
+   - [R] Task description (started YYYY-MM-DD HH:MM)
+   # To:
+   - [0] Task description ✓ (YYYY-MM-DD HH:MM)
+   ```
+
+### 6. Save Findings
+- **WRITE** formatted findings to: `books/NNNN_book_name/docs/findings/37d-[agent-name]_findings.md`
+- **APPEND** to existing findings file (don't overwrite)
+- **MAINTAIN** consistent formatting throughout
+
+### 7. Final Verification (MANDATORY)
+Before completing session:
+
+1. **ENSURE** FILE TODO reflects actual work done:
+   - Completed tasks with results marked `[x]` with timestamp in FILE TODO
+   - Completed tasks with no results marked `[0]` with timestamp in FILE TODO
+   - No false completions (task marked done in FILE TODO without findings)
+   - No unmarked `[ ]` tasks remaining
+   
+2. **VERIFY** findings completeness:
+   - Each FILE TODO task has corresponding section in findings
+   - `[x]` tasks have proper citations, `[0]` tasks can have empty sections
+   - Polish context included where relevant
+   - No unexplained empty sections
+   
+3. **CHECK** consistency:
+   - Number of search files matches research intensity
+   - Findings quality matches source quality
+   - No orphaned data (findings without FILE TODO or vice versa)
+   
+4. **HANDLE** empty results properly:
+   - Mark task as `[0]` in FILE TODO if no results found
+   - Can leave findings section empty for `[0]` tasks
+
+### 8. MANDATORY FILE TODO VERIFICATION
+**CRITICAL**: Before ending your research session, you MUST:
+
+1. **READ** your specific FILE TODO at: `books/NNNN_book_name/docs/todo/TODO_37d-[agent-name].md`
+2. **VERIFY** every task is marked `[x]`, `[0]`, or `[R]` with timestamp
+3. **CONFIRM** each `[x]` task has corresponding content in findings file, `[0]` tasks can have empty sections
+4. **UPDATE** FILE TODO to ensure all tasks progress from `[ ]` → `[R]` → `[x]`/`[0]`
+5. **NEVER** report research as "complete" if FILE TODO contains unmarked `[ ]` tasks or in-progress `[R]` tasks
+
+**Example of proper FILE TODO completion:**
+```markdown
+- [x] Research fascinating historical facts ✓ (2025-07-28 16:30)
+- [x] Document translation history ✓ (2025-07-28 16:35)
+- [x] Find Polish cultural reception ✓ (2025-07-28 16:40)
+- [0] Find strange things ✓ (2025-07-28 16:45)
+```
+
+**Example of FILE TODO in progress:**
+```markdown
+- [x] Research fascinating historical facts ✓ (2025-07-28 16:30)
+- [R] Document translation history (started 2025-07-28 16:35)
+- [ ] Find Polish cultural reception
+- [ ] Find strange things
+```
+
+**Note**: Status meanings:
+- `[ ]` = Not started
+- `[R]` = Running (currently in progress)
+- `[x]` = Completed with results found
+- `[0]` = Completed with no results found
+
+**FILE TODO LOCATION**: Always in `books/NNNN_book_name/docs/todo/TODO_37d-[your-agent-name].md`
+
+## Content Verification Guidelines
+
+### Verifying Findings Completeness
+Don't just check if file exists - verify content:
+
+1. **For 37d-facts-hunter**: Must include creation story, author background, publication history
+2. **For 37d-symbol-analyst**: Must have symbol identification, cultural interpretations, visual maps
+3. **For 37d-culture-impact**: Must cover adaptations, modern influence, social media presence
+4. **For 37d-polish-specialist**: MUST have Polish translations, education system use, local reception
+5. **For 37d-youth-connector**: Must bridge to Gen Z culture, memes, mental health parallels
+6. **For 37d-bibliography-manager**: Must compile all sources with proper citations
+7. **For 37d-source-validator**: Must rate source quality and identify gaps
+
+### Reconstructing FILE TODO from Findings
+When FILE TODO is missing but findings exist:
+
+```markdown
+# Example: Reconstructing 37d-facts-hunter FILE TODO at:
+# books/NNNN_book_name/docs/todo/TODO_37d-facts-hunter.md
+
+## After analyzing findings, create FILE TODO like:
+- [x] Research fascinating historical facts about book creation ✓ (2025-07-28 15:00)
+- [x] Investigate author's inspiration and writing process ✓ (2025-07-28 15:00)
+- [ ] Find interesting translation facts (GAP IDENTIFIED)
+- [x] Document awards and recognition ✓ (2025-07-28 15:00)
+- [R] Research modern cultural impact (started 2025-07-28 15:30)
+
+Note: Used findings timestamp or current time for reconstruction
+```
+
+## Standard Formats
+
+### FILE TODO Update Format
+```markdown
+# Before (in FILE TODO):
+- [ ] Research task description
+
+# After (in FILE TODO):  
+- [x] Research task description ✓ (2025-07-28 14:30)
+```
+
+**REMEMBER**: This is about FILE TODO at `books/NNNN_book_name/docs/todo/TODO_37d-[agent].md`, NOT SYSTEM TODO
+
+### Finding Entry Format
+```markdown
+## Task: [Task Name from FILE TODO]
+Date: [YYYY-MM-DD HH:MM]
+
+### [Finding Category]
+[Detailed findings with citations]
+
+### Citations:
+[1] Author, "Title", Publisher, Year, p. X
+[2] "Article Title", Website Name, URL, Accessed: YYYY-MM-DD
+```
+
+### Citation Standards
+- Books: `Author Last, First. *Title*. Publisher, Year, p. X.`
+- Articles: `Author. "Title." *Journal*, vol. X, no. Y, Year, pp. XX-YY.`
+- Websites: `"Page Title." *Site Name*. URL. Accessed: DD Month YYYY.`
+- Social Media: `@username. "Post excerpt..." Platform. Date. URL.`
+
+### Quality Rating Scale
+When rating source quality, use:
+- ⭐⭐⭐⭐⭐ - Primary sources, academic peer-reviewed
+- ⭐⭐⭐⭐ - Reputable publishers, verified archives  
+- ⭐⭐⭐ - Established media, fact-checked sources
+- ⭐⭐ - Popular but verified sources
+- ⭐ - Use with caution, needs verification
+
+## Research Best Practices
+
+### Search Query Construction
+- **ALWAYS** include book title + author in searches
+- **USE** specific terms rather than generic ones
+- **COMBINE** multiple search strategies
+
+Examples:
+- ✅ GOOD: `"Don Quixote" Cervantes 1605 first edition details`
+- ❌ BAD: `don quixote facts`
+
+### Handling Empty Search Results
+When WebSearch returns no results:
+
+1. **FIRST ATTEMPT**: Remove most specific constraints (year, country, specific names)
+   - Original: `"Alice in Wonderland" Lewis Carroll 1865 first edition John Tenniel illustrations`
+   - Simplified: `"Alice in Wonderland" Lewis Carroll first edition illustrations`
+
+2. **SECOND ATTEMPT**: Further simplify to core concepts
+   - Further simplified: `"Alice in Wonderland" first edition publication history`
+
+3. **FINAL ATTEMPT**: Use only essential terms
+   - Minimal: `Alice in Wonderland publication history`
+
+4. **NO RESULTS FOUND**: Mark task as `[0]` in FILE TODO  
+   - Can leave findings section empty for `[0]` tasks
+   - **NEVER** leave `[x]` tasks with empty findings sections
+
+### Source Verification
+- **CROSS-REFERENCE** claims with multiple sources
+- **PRIORITIZE** academic and primary sources
+- **DOCUMENT** when claims cannot be verified
+- **NOTE** contradictions between sources
+
+### Polish Research Context
+For all books, regardless of agent role:
+- **CONSIDER** Polish translations and reception
+- **SEARCH** for Polish-specific content when relevant
+- **USE** Polish sources where available
+
+## File Organization
+
+### Input Files
+- TODO lists: `books/NNNN/docs/todo/TODO_37d-[agent].md`
+- Book metadata: `books/NNNN/book.yaml`
+
+### Output Files  
+- Findings: `books/NNNN/docs/findings/37d-[agent]_findings.md`
+- Raw search data: Auto-saved by hooks to `books/NNNN/docs/37d-[agent]/`
+
+### Never Create
+- Do NOT create new book folders
+- Do NOT create files outside the book's docs/ folder
+- Do NOT modify book.yaml or other configuration files
+
+## Minimum Completion Requirements
+
+Each agent must ensure these minimums before marking work complete:
+
+### Research Quantity Minimums
+- **37d-facts-hunter**: At least 5 major historical facts with dates
+- **37d-symbol-analyst**: At least 3 key symbols analyzed across cultures  
+- **37d-culture-impact**: At least 5 adaptations/influences documented
+- **37d-polish-specialist**: At least 3 Polish-specific findings (translations, education, reception)
+- **37d-youth-connector**: At least 5 Gen Z connections with examples
+- **37d-bibliography-manager**: At least 15 quality sources compiled
+- **37d-source-validator**: Quality assessment of all major claims
+
+### Search Coverage Minimums
+- At least 10 unique search queries executed
+- Mix of general and specific searches
+- Both English and Polish language searches (where applicable)
+- Verification searches for controversial claims
+
+### Finding Quality Requirements
+- Every major claim must have a citation
+- Include mix of source types (academic, media, primary)
+- Date all time-sensitive information
+- Note contradictions between sources
+- Rate source quality using star system
+
+## Error Handling
+
+### Book Not Found
+If the specified book folder doesn't exist:
+1. **STOP** workflow immediately
+2. **INFORM** user that the book needs to be created first
+3. **DO NOT** attempt to create the folder
+
+### TODO File Missing
+If TODO file doesn't exist:
+1. **CHECK** if you're in the correct folder
+2. **VERIFY** the book name and number
+3. **REPORT** the issue to the user
+
+### Research Failures
+When unable to find information:
+1. **DOCUMENT** what searches were attempted
+2. **NOTE** the gap in findings
+3. **SUGGEST** alternative research approaches
+4. **CONTINUE** with remaining tasks
+
+## Communication Style
+
+### With Users
+- Be concise and direct
+- Report progress on complex tasks
+- Ask for clarification when needed
+
+### In Findings
+- Use professional, academic tone
+- Be precise with facts and dates
+- Clearly distinguish confirmed facts from speculation
+
+### In TODOs
+- Update immediately after task completion
+- Include accurate timestamps
+- Maintain TODO list organization
+
+## Integration with Hooks
+
+Note: The 37d-save-search.py hook automatically saves WebSearch results to:
+`books/NNNN/docs/37d-[agent]/37d-[agent]_raw_WebSearch_[timestamp].json`
+
+You don't need to manually save raw search data - focus on formatted findings.

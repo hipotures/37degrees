@@ -1,0 +1,63 @@
+{
+  "session_id": "e18f7f1c-5883-41e4-8ef9-15aee4aa266b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e18f7f1c-5883-41e4-8ef9-15aee4aa266b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Gen Z climate anxiety fast fashion materialism performative activism social media 2024 environmental consciousness"
+  },
+  "tool_response": {
+    "query": "Gen Z climate anxiety fast fashion materialism performative activism social media 2024 environmental consciousness",
+    "results": [
+      "I'll search for information about Gen Z's relationship with climate anxiety, fast fashion, materialism, performative activism, and environmental consciousness in 2024.",
+      {
+        "tool_use_id": "srvtoolu_011YGT9HFNpst4vUfoA7X3DB",
+        "content": [
+          {
+            "title": "Gen Z, Millennials Stand Out for Climate Change Activism, Social Media Engagement With Issue | Pew Research Center",
+            "url": "https://www.pewresearch.org/science/2021/05/26/gen-z-millennials-stand-out-for-climate-change-activism-social-media-engagement-with-issue/"
+          },
+          {
+            "title": "Gen Z supports sustainability \u2013 and fuels ultra-fast fashion. How does that work?",
+            "url": "https://theconversation.com/gen-z-supports-sustainability-and-fuels-ultra-fast-fashion-how-does-that-work-238874"
+          },
+          {
+            "title": "The Gen Z dilemma: eco-conscious but addicted to fast fashion",
+            "url": "https://fashionunited.uk/news/background/the-gen-z-dilemma-eco-conscious-but-addicted-to-fast-fashion/2024110878495"
+          },
+          {
+            "title": "Gen Z and Climate Change: Millennials, Generation Z Tackle the Climate Anxiety Dilemma \u2014 Generation ZALPHA",
+            "url": "https://www.generationzalpha.com/blog/gen-z-and-climate-change"
+          },
+          {
+            "title": "(PDF) Gen Z\u2019s Motivations towards Sustainable Fashion and Eco-Friendly Brand Attributes: The Case of Vinted",
+            "url": "https://www.researchgate.net/publication/371155621_Gen_Z's_Motivations_towards_Sustainable_Fashion_and_Eco-Friendly_Brand_Attributes_The_Case_of_Vinted"
+          },
+          {
+            "title": "The Gen Z Activism Survey - United Way NCA",
+            "url": "https://unitedwaynca.org/blog/gen-z-activism-survey/"
+          },
+          {
+            "title": "What is Gen Z? | McKinsey",
+            "url": "https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-gen-z"
+          },
+          {
+            "title": "Does Gen Z care about sustainability? Stats & facts in 2023",
+            "url": "https://goodmakertales.com/does-gen-z-care-about-sustainability/"
+          },
+          {
+            "title": "The Motivation of Generation Z to Adopt Sustainable Fashion Practices, Including the Purchase of Secondhand Items | Environmental Science & Sustainable Development",
+            "url": "https://press.ierek.com/index.php/ESSD/article/view/1155"
+          },
+          {
+            "title": "Gen Z Loves Fast Fashion. So...How Exactly Is That Sustainable? | Indyx",
+            "url": "https://www.myindyx.com/blog/genz-sustainability"
+          }
+        ]
+      },
+      "Based on the web search results, here's what I found about Gen Z's relationship with climate anxiety, fast fashion, materialism, performative activism, and environmental consciousness in 2024:\n\n## Climate Anxiety and Environmental Consciousness\n\nNearly seven-in-ten Gen Zers (69%) say they felt anxious about the future the most recent time they saw content about addressing climate change, making them the generation most affected by climate anxiety. Many Gen Zers report that they think about the fate of the planet on a daily basis, and 71% of Gen Z find their future to be worrisome or frightening.\n\nGen Z identity has been shaped by the digital age, climate anxiety, a shifting financial landscape, and COVID-19. This generation demonstrates high levels of environmental awareness, with 64% prioritizing climate change initiatives as a major concern.\n\n## The Fast Fashion Paradox\n\nDespite their environmental concerns, Gen Z shows contradictory behavior when it comes to fast fashion:\n\nDespite climate change being a major stressor for Gen Z, the attitude\u2013behaviour gap continues to exist when it comes to hunting for a new outfit. Being bombarded with persuasive tactics from brands and influencers, the ease of access to new items at the click of a button, and the allure of affordable pricing amid a cost-of-living crisis makes it very difficult for even the most committed Gen Z consumer to buy ethically.\n\nA 2020 study found that more than half of Gen Z in the study bought clothing from fast fashion brands, and 44% of Brits between 16 and 19 admitted to owning clothes they had never worn, 70% claimed that sustainability is an important factor in their consumer decision making.\n\n## Social Media and Performative Activism\n\nYounger Americans \u2013 Millennials and adults in Generation Z \u2013 stand out in a new Pew Research Center survey particularly for their high levels of engagement with the issue of climate change on social media platforms. However, Gen Z are Shein shoppers, haul lovers, micro-trend followers, and repeat outfit shamers. This stands starkly against their eco-conscious values.\n\nThe pressure of social media plays a significant role: Young people are under pressure to look fashionable, especially given the dynamic nature of online platforms - think 'outfit of the day' on Instagram or TikTok trends.\n\n## Materialism and Consumer Behavior\n\nWhile Gen Z buys secondhand clothing in unprecedented numbers, they also buy every kind of clothing in \"hauls\". They completely disregard their most sustainable option - their wardrobes - for newer and trendier options, in bulk.\n\nGen Z consumers recognize and appreciate the eco-friendly attributes of Vinted, although other types of brand attributes are the ones that mostly mobilize their behavior.\n\n## Solutions and Transparency\n\nResearch suggests that transparency could help bridge the gap: After reading negative information about Shein's environmental impact, participants developed a more negative attitude towards the company and felt 'betrayed', which reduced purchase intention. Put more simply, young people are less likely to buy clothes from Shein if they know how badly the brand operates. This suggests that transparency and making reliable information about the impact of fast fashion available are crucial to helping young people make more conscious choices.\n\n88% of Gen-Z shoppers do not trust companies' sustainability claims, indicating skepticism about corporate environmental initiatives that may be perceived as performative.\n\nThe search results reveal a complex picture of Gen Z as a generation genuinely concerned about climate change and sustainability, but struggling with contradictory consumer behaviors driven by social media pressure, economic constraints, and the convenience of fast fashion. This tension between values and actions represents a significant challenge for both the generation itself and for efforts to promote sustainable consumption."
+    ],
+    "durationSeconds": 39.49079051600024
+  }
+}

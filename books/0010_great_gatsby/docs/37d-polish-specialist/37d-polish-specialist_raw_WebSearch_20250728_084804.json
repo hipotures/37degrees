@@ -1,0 +1,63 @@
+{
+  "session_id": "e18f7f1c-5883-41e4-8ef9-15aee4aa266b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e18f7f1c-5883-41e4-8ef9-15aee4aa266b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Wielki Gatsby\" BookTok Polska TikTok polscy m\u0142odzi czytelnicy influencerzy ksi\u0105\u017ckowi"
+  },
+  "tool_response": {
+    "query": "\"Wielki Gatsby\" BookTok Polska TikTok polscy m\u0142odzi czytelnicy influencerzy ksi\u0105\u017ckowi",
+    "results": [
+      "I'll search for information about \"The Great Gatsby\" (Wielki Gatsby) on BookTok in Poland, focusing on Polish young readers and book influencers on TikTok.",
+      {
+        "tool_use_id": "srvtoolu_011EStghPrewyAMYqD4EBWHL",
+        "content": [
+          {
+            "title": "TikTok i ksi\u0105\u017cki, czyli co to jest booktok? - CZYTAM - Empik Pasje",
+            "url": "https://www.empik.com/pasje/tiktok-i-ksiazki-czyli-co-to-jest-booktok,135027,a"
+          },
+          {
+            "title": "Ksi\u0105\u017cki - BookTok | Ksi\u0119garnia Internetowa Gandalf",
+            "url": "https://www.gandalf.com.pl/k/booktok/"
+          },
+          {
+            "title": "Te ksi\u0105\u017cki zrobi\u0142y furor\u0119 na Tik Toku! Warte rozg\u0142osu? | Aktualno\u015bci | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/ksiazkowe-hity-tiktoka-masz-je-w-swojej-biblioteczce"
+          },
+          {
+            "title": "Najlepsi influencerzy ksi\u0105\u017ckowi 2023 r.",
+            "url": "https://www.granice.pl/news/influencerzy-ksiazkowi-2023-najlepsi-blogerzy-ksiazkowi/22949"
+          },
+          {
+            "title": "What exactly is BookTok, anyway? - SentiOne Blog",
+            "url": "https://sentione.com/blog/what-exactly-is-booktok-anyway"
+          },
+          {
+            "title": "TOP 5 ksi\u0105\u017ckar, kt\u00f3re podbijaj\u0105 polski BookTok - Going. MORE - muzyka, kultura, lifestyle",
+            "url": "https://goingapp.pl/more/booktok-ksiazkary-tiktok/"
+          },
+          {
+            "title": "Pokolenie BookToka wybiera czytniki! M\u0142odzi czytelnicy nakr\u0119caj\u0105 sprzeda\u017c Kindle w Stanach | \u015awiat Czytnik\u00f3w",
+            "url": "https://swiatczytnikow.pl/pokolenie-booktoka-wybiera-czytniki-mlodzi-czytelnicy-nakrecaja-sprzedaz-kindle-w-stanach/"
+          },
+          {
+            "title": "TikTok wraz z polskimi pisarzami zach\u0119ca do czytania w ramach akcji BookTok z okazji \u015awiatowego Dnia Ksi\u0105\u017cki - Marketing przy Kawie",
+            "url": "https://marketingprzykawie.pl/espresso/tiktok-wraz-polskimi-pisarzami-zacheca-czytania-ramach-akcji-booktok-okazji-swiatowego-ksiazki/"
+          },
+          {
+            "title": "Te ksi\u0105\u017cki otrzymaj\u0105 adaptacje. Kojarzycie je z TikToka",
+            "url": "https://naekranie.pl/aktualnosci/ksiazki-tiktok-booktok-adaptacja-film-serial-lista-1749215970"
+          },
+          {
+            "title": "Influencerzy ksi\u0105\u017ckowi 2023 wybrani \u2013 Rynek ksi\u0105\u017cki",
+            "url": "https://rynek-ksiazki.pl/aktualnosci/influencerzy-ksiazkowi-2023-wybrani/"
+          }
+        ]
+      },
+      "Based on the search results, I found some information about \"The Great Gatsby\" (Wielki Gatsby) on BookTok in Poland, though the specific novel doesn't appear prominently in the Polish BookTok discussions. Here's what I found:\n\n## BookTok in Poland\n\nBookTok is a space on TikTok where book readers create content to discuss books and promote reading, particularly among teenagers and young adults who frequently reach for Young Adult literature. BookTok is a combination of the name TikTok with the word 'book', and this type of TikTok content involves many trends that are gaining increasing popularity, along with the books.\n\n## Popular Books on Polish BookTok\n\nWhile \"The Great Gatsby\" wasn't specifically mentioned in the search results about Polish BookTok, the platform predominantly features:\n\nBooks like \"The Love Hypothesis\" by Ali Hazelwood, which became extremely popular on BookTok including its Polish-language section, with materials about the book being viewed millions of times and the novel being nominated for Empik Bestsellers 2022.\n\nOther titles that have triumphed on BookTok include the \"A Court of Thorns and Roses\" series by Sarah J. Maas, \"The Song of Achilles\" by Madeline Miller, \"Malibu Rising\" by Taylor Jenkins Reid, \"The Cruel Prince\" by Holly Black, and the \"Six of Crows\" series by Leigh Bardugo.\n\n## Polish Book Influencers\n\nMadzia, who runs the by.bookaholic account on TikTok, actively operates on Polish BookTok, promoting popular young adult novels, romances, and fantasy literature books. Her account is followed by nearly 50,000 TikTok users, and her videos have collectively gathered over 2 million likes.\n\nThe most active booktoker on Polish TikTok is Karolina (@come.book), who constantly provides new content on her profile, including both popular trends using books and book recommendations.\n\nAnother popular profile is bookxvs, run by Kinga since March of last year, with nearly 27,000 followers on Instagram where she presents not only young adult novels but also romances, contemporary fiction, and fantasy.\n\n## BookTok's Impact in Poland\n\nBookTok Challenge with the participation of well-known Polish authors aims to encourage young people to reach for books and discover a passion for reading. This is the first project of its kind, which is part of the TikTok Creator Learning Fund initiated in Poland.\n\nOn book TikTok, books intended for youth and titles from the Young and New Adult categories enjoy the greatest popularity. That's why authors like Colleen Hoover, Alice Oseman, and Jenny Han celebrate huge triumphs on BookTok.\n\nUnfortunately, the search results didn't reveal specific information about \"The Great Gatsby\" being discussed or promoted by Polish BookTok influencers, suggesting it may not be among the most trending titles on the Polish BookTok community, which tends to focus more on contemporary YA and romance novels."
+    ],
+    "durationSeconds": 33.2132207940002
+  }
+}

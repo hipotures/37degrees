@@ -1,0 +1,63 @@
+{
+  "session_id": "e18f7f1c-5883-41e4-8ef9-15aee4aa266b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e18f7f1c-5883-41e4-8ef9-15aee4aa266b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Wielki Gatsby\" polskie wydawnictwa PIW Czytelnik Rebis Pr\u00f3szy\u0144ski historia wyda\u0144"
+  },
+  "tool_response": {
+    "query": "\"Wielki Gatsby\" polskie wydawnictwa PIW Czytelnik Rebis Pr\u00f3szy\u0144ski historia wyda\u0144",
+    "results": [
+      "I'll search for information about Polish editions of \"The Great Gatsby\" (Wielki Gatsby) by various Polish publishers including PIW, Czytelnik, Rebis, and Pr\u00f3szy\u0144ski.",
+      {
+        "tool_use_id": "srvtoolu_01RWKsA5hukHWbAALXGT6YfA",
+        "content": [
+          {
+            "title": "Wielki gatsby w: Ksi\u0105\u017cki - Empik",
+            "url": "https://www.empik.com/ksiazki,31,s?q=wielki+gatsby"
+          },
+          {
+            "title": "PIW - Ksi\u0119garnia Orientalna",
+            "url": "https://ksiegarniaorientalna.pl/pl/producer/PIW/26"
+          },
+          {
+            "title": "Wielki Gatsby \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Wielki_Gatsby"
+          },
+          {
+            "title": "Pa\u0144stwowy Instytut Wydawniczy \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Pa%C5%84stwowy_Instytut_Wydawniczy"
+          },
+          {
+            "title": "REBIS",
+            "url": "https://www.rebis.com.pl/pl/ksiazki/,k"
+          },
+          {
+            "title": "Ksi\u0119garnia internetowa REBIS - Kup ksi\u0105\u017ck\u0119 online!",
+            "url": "https://www.rebis.com.pl/"
+          },
+          {
+            "title": "Wielki Gatsby - nowa i u\u017cywana - SkupSzop.pl",
+            "url": "https://skupszop.pl/wielki-gatsby-francis-scott-fitzgerald-fitzgerald-scott-f-9788378184140?id=6461642"
+          },
+          {
+            "title": "Wielki Gatsby - Ca\u0142a Polska Czyta Dzieciom",
+            "url": "https://calapolskaczytadzieciom.pl/ksiazka/wielki-gatsby/"
+          },
+          {
+            "title": "KSI\u0104\u017bKI :: PIW, Wydawnictwo Literackie, Wydawnictwo UJ :: Antykwariat ATHANOR Krak\u00f3w",
+            "url": "https://antykwariat-athanor.net/k11,ksiazki.html?p%5B%5D=47&p%5B%5D=3&p%5B%5D=5"
+          },
+          {
+            "title": "Zapowiedzi w Ksi\u0119garni Internetowej PWN - Ksi\u0119garnia PWN",
+            "url": "https://ksiegarnia.pwn.pl/zapowiedzi-pwn"
+          }
+        ]
+      },
+      "Based on the search results, I found some information about Polish editions of \"The Great Gatsby\" (Wielki Gatsby):\n\n## Polish Editions of \"Wielki Gatsby\"\n\nThe book was first published in Poland in 1965 by Pa\u0144stwowy Instytut Wydawniczy (PIW) with a translation by Ariadna Demkowska-Bohdziewicz.\n\nPIW (Pa\u0144stwowy Instytut Wydawniczy) is a Polish publishing house founded in 1946 in Warsaw, and until 1989, PIW was one of the three most important Polish publishers of fiction, alongside Sp\u00f3\u0142dzielnia Wydawnicza \"Czytelnik\" and Wydawnictwo Literackie.\n\nThe search results also mention that various publishers have released editions of the book, including: Rebis, \u015awiat Ksi\u0105\u017cki, Penguin Books, and Dom Wydawniczy Rebis.\n\nHowever, the search results don't provide a comprehensive history of all Polish editions by different publishers like Czytelnik, Rebis, and Pr\u00f3szy\u0144ski. The information is limited to confirming that PIW published the first Polish edition in 1965 and that other publishers like Rebis have also released editions of the book.\n\nF. Scott Fitzgerald's most famous novel continues to fascinate readers and has been adapted to film multiple times (1926, 1949, 1974, 2000, and 2013)."
+    ],
+    "durationSeconds": 18.176830642000308
+  }
+}

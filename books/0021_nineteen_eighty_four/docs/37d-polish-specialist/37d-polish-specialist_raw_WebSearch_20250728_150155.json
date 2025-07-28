@@ -1,0 +1,63 @@
+{
+  "session_id": "b8c17c71-efc6-4c19-9b68-e101c36de9c9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b8c17c71-efc6-4c19-9b68-e101c36de9c9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Rok 1984\" Orwell Polska surveillance inwigilacja RODO prywatno\u015b\u0107 cyfrowa"
+  },
+  "tool_response": {
+    "query": "\"Rok 1984\" Orwell Polska surveillance inwigilacja RODO prywatno\u015b\u0107 cyfrowa",
+    "results": [
+      "I'll search for information about Orwell's \"1984\" in the context of Poland, surveillance, GDPR, and digital privacy.",
+      {
+        "tool_use_id": "srvtoolu_0168iRsQB64WpExbaffmXY7a",
+        "content": [
+          {
+            "title": "Orwell przewidzia\u0142 technologi\u0119 kontroli. Ale nie to, \u017ce sami si\u0119 jej poddamy - Libert\u00e9!",
+            "url": "https://liberte.pl/orwell-przewidzial-technologie-kontroli-1984/"
+          },
+          {
+            "title": "Co ma wsp\u00f3lnego \u015bwiat opisany przez Orwella w \"Roku 1984\" z dzisiejszym? - Bryk.pl",
+            "url": "https://www.bryk.pl/artykul/orwellowska-przepowiednia-spelnia-sie"
+          },
+          {
+            "title": "\u015awiat wed\u0142ug Orwella - BioSys.pl",
+            "url": "https://biosys.pl/blog/swiat-wedlug-orwella/"
+          },
+          {
+            "title": "Rok 1984 - Streszczenie i opracowanie, George Orwell - Skrotowo",
+            "url": "https://skrotowo.pl/rok-1984-streszczenie-szczegolowe/"
+          },
+          {
+            "title": "Rok 1984 - Streszczenie szczeg\u00f3\u0142owe - George Orwell - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/george-orwell/rok-1984.streszczenie-szczegolowe"
+          },
+          {
+            "title": "\"Rok 1984\", czyli orwellowska przepowiednia - Historia - PR24.PL",
+            "url": "https://polskieradio24.pl/artykul/1144186,rok-1984-czyli-orwellowska-przepowiednia"
+          },
+          {
+            "title": "George Orwell: ,,Rok 1984\u201d\u2013 pytania i odpowiedzi. - \u015aci\u0105gi, wypracowania, lektury - Bryk.pl",
+            "url": "https://www.bryk.pl/wypracowania/jezyk-polski/lektury/17556-george-orwell-rok-1984-pytania-i-odpowiedzi.html"
+          },
+          {
+            "title": "ROK 1984, George Orwell | matura 2025 - opracowanie i pytania jawne",
+            "url": "https://www.otouczelnie.pl/news/2224/Rok-1984-matura-2025"
+          },
+          {
+            "title": "Rok 1984 - streszczenie | Akademia Humanistyczno-Ekonomiczna w \u0141odzi",
+            "url": "https://www.ahe.lodz.pl/strefa-wiedzy/rok-1984-streszczenie"
+          },
+          {
+            "title": "Policja My\u015bli \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Policja_My%C5%9Bli"
+          }
+        ]
+      },
+      "Based on the search results, I found relevant information about George Orwell's \"1984\" (titled \"Rok 1984\" in Polish) in the context of Poland, surveillance, GDPR (RODO in Polish), and digital privacy. Here are the key findings:\n\n## Orwell's Vision and Contemporary Relevance\n\nPostprawda, propaganda, technologiczna kontrola obywateli \u2013 to wszystko sprawia, \u017ce powie\u015b\u0107 \u201eRok 1984\" George'a Orwella staje si\u0119 ponownie aktualna, by\u0107 mo\u017ce znacznie bardziej, ni\u017c ni\u017c gdy powstawa\u0142a \u2013 w czasach istnienia w Europie komunistycznego totalitaryzmu. The novel has gained renewed relevance in the modern digital age.\n\nStopie\u0144, w kt\u00f3rym technologia stopi\u0142a si\u0119 w jedno z naszym codziennym \u017cyciem, i nasza otwarto\u015b\u0107 na to z pewno\u015bci\u0105 zaskoczy\u0142yby jednak pisarza. Dzi\u015b oddajemy swoj\u0105 niezale\u017cno\u015b\u0107 korporacjom technologicznym z w\u0142asnego wyboru.\n\n## Surveillance and Privacy Concerns\n\n### Modern Surveillance Parallels\nNa ka\u017cdym kroku ludzie s\u0105 obserwowani, a nawet inwigilowani. Dzi\u015b inwigilacja i kontrola s\u0105 na porz\u0105dku dziennym.(no content)W powie\u015bci Orwella w ka\u017cdym domu i miejscu publicznym znajdowa\u0142y si\u0119 teleekrany. Ich g\u0142\u00f3wnym celem by\u0142o monitorowanie obywateli. Czy nie przypomina ci to kamer monitoringu, kt\u00f3re nagrywaj\u0105 24 godziny na dob\u0119?\n\n### Digital Privacy Issues\nRzeczywi\u015bcie w dobie internetu prywatno\u015b\u0107 jest trudniejsza do zachowania, a dane wykorzystywane s\u0105 m.in. do dobierania reklam.(no content)Taka kontrola my\u015bli przypomina dzi\u015b personalizowane reklamy. Wystarczy jedno s\u0142owo, by algorytm dobra\u0142 reklam\u0119 do tego, czego w danym momencie mo\u017cesz potrzebowa\u0107. Ile razy zdarzy\u0142o ci si\u0119, \u017ce po rozmowie z kim\u015b zacz\u0119\u0142y pojawia\u0107 si\u0119 reklamy przedmiot\u00f3w, kt\u00f3rych dotyczy\u0142a rozmowa?\n\n## Polish Context and Historical Significance\n\nW swoich tekstach krytykowa\u0142 system totalitarny, z tego powodu w PRL-u jego utwor\u00f3w nie mo\u017cna by\u0142o oficjalnie publikowa\u0107 i czyta\u0107. This shows the particular resonance of Orwell's work in Poland's communist past.\n\nMiejsca publiczne s\u0105 ca\u0142y czas pod okiem kamer, dane z telefon\u00f3w kom\u00f3rkowych pozwalaj\u0105 na pe\u0142n\u0105 kontrol\u0119 tego, gdzie w ci\u0105gu dnia jeste\u015bmy.\n\n## Key Concepts from \"1984\" Relevant to Modern Poland\n\n### Loss of Privacy\nZanik prywatno\u015bci: W \u015bwiecie \u201eRok 1984\", prywatno\u015b\u0107 jest niemal ca\u0142kowicie zlikwidowana. Nadz\u00f3r i inwigilacja sprawiaj\u0105, \u017ce indywidualne \u017cycie podlega ci\u0105g\u0142ej kontroli. Teleekrany i Policja My\u015bli s\u0105 narz\u0119dziami, kt\u00f3re zapewniaj\u0105, \u017ce nawet najbardziej intymne aspekty \u017cycia jednostki s\u0105 monitorowane.\n\n### Language Manipulation\nJ\u0119zyk Nowomowa, zaprojektowany przez Parti\u0119, ma na celu ograniczenie zakresu my\u015blenia poprzez redukcj\u0119 s\u0142ownictwa, co ma uniemo\u017cliwi\u0107 formu\u0142owanie herezji politycznych.\n\n### Historical Manipulation\nPartia manipuluje przesz\u0142o\u015bci\u0105, systematycznie zmieniaj\u0105c zapisy historyczne, aby zawsze zgadza\u0142y si\u0119 z jej obecn\u0105 lini\u0105 polityczn\u0105, wprowadzaj\u0105c spo\u0142ecze\u0144stwo w stan, w kt\u00f3rym prawda jest tym, co w danym momencie zostaje og\u0142oszone przez Parti\u0119. Taki stan rzeczy sprawia, \u017ce obywatele nie s\u0105 w stanie rozpozna\u0107 manipulacji ani kwestionowa\u0107 rzeczywisto\u015bci, w kt\u00f3rej \u017cyj\u0105.\n\n## Contemporary Applications\n\nWszechobecne kamery, za pomoc\u0105 kt\u00f3rych monitorowane s\u0105 ca\u0142e miasta. Inteligentne budynki, do kt\u00f3rych wej\u015b\u0107 mo\u017cna tylko za pomoc\u0105 specjalnego kodu. Kontrola czasu pracy, dzi\u0119ki profesjonalnym urz\u0105dzeniom oraz wst\u0119p do pomieszcze\u0144 przy u\u017cyciu czytnika linii papilarnych lub skanu t\u0119cz\u00f3wki oka.\n\nThe search results demonstrate that Orwell's \"1984\" remains highly relevant in Poland's contemporary discourse about surveillance, digital privacy, and data protection (RODO/GDPR). The novel serves as a cultural touchstone for discussions about the balance between security and privacy in the digital age, with particular resonance given Poland's historical experience with totalitarian surveillance."
+    ],
+    "durationSeconds": 45.603453438999594
+  }
+}

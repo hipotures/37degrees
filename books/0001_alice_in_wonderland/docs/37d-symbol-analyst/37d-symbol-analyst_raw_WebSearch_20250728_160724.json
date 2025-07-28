@@ -1,0 +1,62 @@
+{
+  "session_id": "ad0134af-ec8f-4d33-afa8-be303b4ad42f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ad0134af-ec8f-4d33-afa8-be303b4ad42f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Alice in Wonderland\" \"Eat Me\" \"Drink Me\" symbolism literary analysis academic"
+  },
+  "tool_response": {
+    "query": "\"Alice in Wonderland\" \"Eat Me\" \"Drink Me\" symbolism literary analysis academic",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_012rKYrWaETybxfU3ysUvGhS",
+        "content": [
+          {
+            "title": "The Symbolism of Alice in Wonderland: Exploring the Hidden Meanings - NoNovel",
+            "url": "https://nonovel.io/articles/alice's-adventures-in-wonderland/symbolism"
+          },
+          {
+            "title": "Alice in Wonderland Symbols | Course Hero",
+            "url": "https://www.coursehero.com/lit/Alice-in-Wonderland/symbols/"
+          },
+          {
+            "title": "Dr Ian Ellis-Jones ... Living Mindfully Now: ALICE IN WONDERLAND: THE ANCIENT WISDOM",
+            "url": "http://ianellis-jones.blogspot.com/2012/06/alice-in-wonderland-ancient-wisdom.html"
+          },
+          {
+            "title": "Eat Me Cake | Alice in Wonderland Wiki | Fandom",
+            "url": "https://aliceinwonderland.fandom.com/wiki/Eat_Me_Cake"
+          },
+          {
+            "title": "Eat Me. Drink Me Alice In Wonderland Art Print by Leia Bell, Ed. of 100, 2009 | eBay",
+            "url": "https://www.ebay.com/itm/313476475545"
+          },
+          {
+            "title": "Drink Me Bottle | Disney Wiki | Fandom",
+            "url": "https://disney.fandom.com/wiki/Drink_Me_Bottle"
+          },
+          {
+            "title": "Alice in Wonderland Tags, Eat Me, Drink Me, Printable ...",
+            "url": "https://www.etsy.com/uk/listing/507971413/alice-in-wonderland-tags-eat-me-drink-me"
+          },
+          {
+            "title": "Alice in Wonderland Eat Me Cookies | InLiterature",
+            "url": "https://www.inliterature.net/by-book/alice-in-wonderland/2015/07/alice-wonderland-eat-me-cookies.html"
+          },
+          {
+            "title": "Alice's Adventures in Wonderland | Alice in Wonderland Wiki | Fandom",
+            "url": "https://aliceinwonderland.fandom.com/wiki/Alice's_Adventures_in_Wonderland"
+          },
+          {
+            "title": "Alice in Wonderland summary - Alice-in-Wonderland.net",
+            "url": "https://www.alice-in-wonderland.net/resources/chapters-script/summaries/alice-in-wonderland-summary/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with several academic perspectives on the symbolism of \"Eat Me\" and \"Drink Me\" in Alice in Wonderland:\n\n## Academic Literary Analysis of \"Eat Me\" and \"Drink Me\" Symbolism\n\n### Transformation and Self-Discovery\n\nThe \"Drink Me\" bottle and \"Eat Me\" cake are symbols of self-discovery and transformation. The bottle and cake represent the temptation to change oneself in order to fit societal expectations. Through Alice's consumption of these items, she undergoes physical changes that reflect her changing identity and her attempts to mold herself into what is expected of her. However, these transformations ultimately prove to be temporary and unsatisfying, teaching Alice the importance of staying true to oneself.\n\n### Obedience and Victorian Society\n\nScholars have analyzed these symbols through the lens of Victorian social expectations. Wonderland demands that Alice perform actions before she discovers the consequences. For instance, Alice is repeatedly told to consume something without being told what it is, such as the \"Drink Me\" bottle and \"Eat Me\" cake in Chapter 1.(no content)Some scholars have suggested that this is because Alice typifies the obedient Victorian female obeying the rules of a patriarchal society.\n\n### Growing Up and Maturation\n\nThe size changes triggered by consuming these items have been interpreted as metaphors for the challenges of growing up. Alice undergoes 12 size changes in Wonderland, almost always as a result of something she eats or drinks. Repeatedly, she's the wrong size for whatever she's trying to do\u2014too big to get into the garden, too small to reach the key that would help her get in, and so on. Until the Caterpillar gives Alice the mushroom, she can't control how big or small she gets.(no content)Children can't control their growing in real life, and children at the age of puberty are famously awkward; they feel too small for some things and too big for others. The growing and shrinking in the book are clearly signs for growing up\u2014for reaching maturity. As Carroll depicts it, growing up is a painful and confusing process, and it doesn't necessarily have positive results.\n\n### Esoteric and Spiritual Interpretations\n\nSome academic perspectives interpret these symbols through esoteric and spiritual lenses. The many calls to 'Drink me' and 'Eat me' are seen as part of Alice's initiation journey, where Alice finally masters the underworld ('Wonderland' or the 'Looking-glass world') and becomes an 'initiate.' She awakens to her true 'be-ing' and full potential as a human being.\n\n### Psychological Journey\n\nFrom a psychological perspective, Alice's journey is not only geographical but also psychological and emotional. In tandem with her journey through Wonderland, Alice progresses toward adulthood, learning to question the orders she receives and to rely on herself.\n\nThe \"Eat Me\" and \"Drink Me\" elements thus function as powerful literary devices that operate on multiple symbolic levels - representing the challenges of adolescence, the pressures of social conformity, the process of self-discovery, and the often uncomfortable journey toward maturity and independence."
+    ],
+    "durationSeconds": 27.196866890000063
+  }
+}

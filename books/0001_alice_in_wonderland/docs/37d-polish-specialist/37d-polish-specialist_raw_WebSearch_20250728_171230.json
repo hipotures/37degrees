@@ -1,0 +1,62 @@
+{
+  "session_id": "e45997b0-1016-4783-9450-979f533f9cbc",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e45997b0-1016-4783-9450-979f533f9cbc.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Lubimyczyta\u0107.pl \"Alicja w Krainie Czar\u00f3w\" statystyki recenzje oceny 2024"
+  },
+  "tool_response": {
+    "query": "Lubimyczyta\u0107.pl \"Alicja w Krainie Czar\u00f3w\" statystyki recenzje oceny 2024",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01WTTmPbuw39p8wAVSFLRHji",
+        "content": [
+          {
+            "title": "Alicja w Krainie Czar\u00f3w - Lewis Carroll | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/4988571/alicja-w-krainie-czarow"
+          },
+          {
+            "title": "Ksi\u0105\u017cki z tagiem Alicja w Krainie Czar\u00f3w | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/ksiazki/t/Alicja w Krainie Czar\u00f3w"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w cytaty | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/cytaty/111271/ksiazka/alicja-w-krainie-czarow"
+          },
+          {
+            "title": "Alicja w krainie czar\u00f3w. Czytamy w oryginale - Lewis Carroll | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5058985/alicja-w-krainie-czarow-czytamy-w-oryginale"
+          },
+          {
+            "title": "Ksi\u0105\u017cki z serii Alicja w Krainie Czar\u00f3w | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/seria/3297/alicja-w-krainie-czarow"
+          },
+          {
+            "title": "Przygody Alicji w Krainie Czar\u00f3w - Lewis Carroll | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/170851/przygody-alicji-w-krainie-czarow"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w - Lewis Carroll, Milena Molenda | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5161915/alicja-w-krainie-czarow"
+          },
+          {
+            "title": "Przygody Alicji w Krainie Czar\u00f3w. Po Tamtej Stronie Lustra i co Alicja tam znalaz\u0142a - Lewis Carroll | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/71652/przygody-alicji-w-krainie-czarow-po-tamtej-stronie-lustra-i-co-alicja-tam-znalazla"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w - Lewis Carroll, Robert Ingpen | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/168464/alicja-w-krainie-czarow"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w - Katarzyna Najman | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/4947175/alicja-w-krainie-czarow"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with information about \"Alicja w Krainie Czar\u00f3w\" (Alice in Wonderland) from Lubimyczyta\u0107.pl:\n\n## Statystyki i oceny:\n\nOcena 8,0 - to jest podstawowa ocena widoczna dla g\u0142\u00f3wnego wydania ksi\u0105\u017cki na stronie.\n\nOcena 8,0 Czytamy w oryginale oraz Ocena 9,1 Przygody Alicji w Krainie Dziw\u00f3w - r\u00f3\u017cne wydania maj\u0105 r\u00f3\u017cne oceny.\n\n## Recenzje i opinie:\n\nStrona Lubimyczyta\u0107.pl zawiera liczne opinie czytelnik\u00f3w. Przyk\u0142adowe fragmenty opinii pokazuj\u0105 r\u00f3\u017cnorodne podej\u015bcia do ksi\u0105\u017cki:\n\nJa jednak postanowi\u0142am podej\u015b\u0107 do \"Przyg\u00f3d Alicji w Krainie Czar\u00f3w\" jak do ksi\u0105\u017cki dla dzieci... Po pierwsze musz\u0119 przyzna\u0107, \u017ce lektura \"Przyg\u00f3d Alicji i Krainie Czar\u00f3w\" by\u0142a ciekaw\u0105 przygod\u0105.(no content)Mimo up\u0142ywu czasu ksi\u0105\u017ck\u0119 wci\u0105\u017c czyta si\u0119 z zaciekawieniem, a momentami i z fascynacj\u0105... Mimo up\u0142ywu czasu ksi\u0105\u017ck\u0119 wci\u0105\u017c czyta si\u0119 z zaciekawieniem, a momentami i z fascynacj\u0105.(no content)Nie spodziewa\u0142am si\u0119 tak du\u017cej dozy absurdu w\u0142o\u017conej w ten oniryczny \u015bwiat. Pojawia si\u0119 du\u017co gier s\u0142ownych, jednak tre\u015bciowo by\u0142o to dla mnie ci\u0119\u017ckie do ugryzienia.\n\n## Dost\u0119pne wydania:\n\nNa stronie wida\u0107 r\u00f3\u017cne wydania ksi\u0105\u017cki od r\u00f3\u017cnych wydawnictw, w tym:\n- Wydawnictwo MG\n- Wydawnictwo: Wilga \n- Wydawnictwo: Buchmann\n\nKsi\u0105\u017cka jest dost\u0119pna w r\u00f3\u017cnych formatach i z r\u00f3\u017cnymi ilustracjami, co wp\u0142ywa na r\u00f3\u017cnorodno\u015b\u0107 ocen poszczeg\u00f3lnych wyda\u0144."
+    ],
+    "durationSeconds": 17.590802953999955
+  }
+}

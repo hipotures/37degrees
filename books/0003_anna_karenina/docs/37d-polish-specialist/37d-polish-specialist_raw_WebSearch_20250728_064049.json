@@ -1,0 +1,63 @@
+{
+  "session_id": "7ca65eb2-e5d0-4143-8931-90f15001b62e",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7ca65eb2-e5d0-4143-8931-90f15001b62e.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Anna Karenina pierwsze wydanie polskie t\u0142umaczenie historia wyda\u0144 polskich"
+  },
+  "tool_response": {
+    "query": "Anna Karenina pierwsze wydanie polskie t\u0142umaczenie historia wyda\u0144 polskich",
+    "results": [
+      "I'll search for information about the first Polish edition and translation history of Anna Karenina.",
+      {
+        "tool_use_id": "srvtoolu_01VYwgXgREkSSK5qFMLJzG38",
+        "content": [
+          {
+            "title": "\u201eAnna Karenina\u201d w t\u0142umaczeniu Jana Cichockiego",
+            "url": "https://rynek-ksiazki.pl/aktualnosci/anna-karenina-w-tlumaczeniu-jana-cichockiego/"
+          },
+          {
+            "title": "\u201eAnna Karenina\u201d przet\u0142umaczona na nowo - Warszawa i Krak\u00f3w | Lingualab",
+            "url": "https://lingualab.pl/blog/anna-karenina-przetlumaczona-na-nowo/"
+          },
+          {
+            "title": "Anna Karenina (To\u0142stoj, 1898) - Wiki\u017ar\u00f3d\u0142a, wolna biblioteka",
+            "url": "https://pl.wikisource.org/wiki/Anna_Karenina_(To%C5%82stoj,_1898)"
+          },
+          {
+            "title": "Anna Karenina - Wydawnictwo SBM",
+            "url": "https://www.wydawnictwosbm.pl/ksiazka/anna-karenina/"
+          },
+          {
+            "title": "Anna Karenina (To\u0142stoj, 1898)/ca\u0142o\u015b\u0107 - Wiki\u017ar\u00f3d\u0142a, wolna biblioteka",
+            "url": "https://pl.wikisource.org/wiki/Anna_Karenina_(To\u0142stoj,_1898)/ca\u0142o\u015b\u0107"
+          },
+          {
+            "title": "Anna Karenina",
+            "url": "https://www.wydawnictwoznak.pl/ksiazka/Anna-Karenina/3502"
+          },
+          {
+            "title": "Anna Karenina (To\u0142stoj, 1898)/Tom III - Wiki\u017ar\u00f3d\u0142a, wolna biblioteka",
+            "url": "https://pl.wikisource.org/wiki/Anna_Karenina_(To%C5%82stoj,_1898)/Tom_III"
+          },
+          {
+            "title": "Anna Karenina - Lew To\u0142stoj | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5043957/anna-karenina"
+          },
+          {
+            "title": "Anna Karenina. Wydanie filmowe",
+            "url": "https://www.taniaksiazka.pl/ksiazka/anna-karenina"
+          },
+          {
+            "title": "Anna Karenina - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Anna_Karenina"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with information about the first Polish edition and translation history of Anna Karenina:\n\n## Historia polskich wyda\u0144 \"Anny Kareniny\"\n\n### Pierwsze polskie t\u0142umaczenie\n\nW Polsce d\u0142ugo wystarcza\u0142 przek\u0142ad Jana Wo\u0142owskiego z ko\u0144ca XIX wieku.(no content)Nie najwybitniejszy, za to wierny, dokonany z rosyjskiego, bez po\u015brednictwa francuszczyzny. To t\u0142umaczenie by\u0142o pierwszym polskim przek\u0142adem powie\u015bci To\u0142stoja.\n\n### Najwa\u017cniejsze t\u0142umaczenie - Kazimiera I\u0142\u0142akowicz\u00f3wna\n\nDopiero w 1952 roku nak\u0142adem Pa\u0144stwowego Instytutu Wydawniczego wysz\u0142a \u201eAnna Karenina\" w znakomitym t\u0142umaczeniu Kazimiery I\u0142\u0142akowicz\u00f3wny.(no content)O powodzeniu tej edycji \u015bwiadczy cho\u0107by to, \u017ce w ci\u0105gu dwu lat ukaza\u0142y si\u0119 trzy wydania, ka\u017cde w nak\u0142adzie licz\u0105cym dziesi\u0105tki tysi\u0119cy egzemplarzy.(no content)P\u00f3\u017aniej tak\u017ce by\u0142o wielokrotnie wznawiane. Ostatnio przez wydawnictwo Znak z okazji kolejnej ekranizacji powie\u015bci.(no content)Wi\u0119kszo\u015b\u0107 czytelnik\u00f3w zna t\u0119 znakomit\u0105 rosyjsk\u0105 powie\u015b\u0107 dzi\u0119ki t\u0142umaczeniu poetki Kazimiery I\u0142\u0142akowicz\u00f3wny.\n\n### Najnowsze t\u0142umaczenie - Jan Cichocki\n\nTeraz \u015awiat Ksi\u0105\u017cki wyda\u0142 Ann\u0119 Karenin\u0119 w nowym t\u0142umaczeniu \u2013 autorstwa Jana Cichockiego. To t\u0142umaczenie zosta\u0142o opublikowane w 2022 roku.\n\n### Inne wydania\n\nW wynikach wyszukiwania pojawiaj\u0105 si\u0119 tak\u017ce informacje o:\n- Wydaniu z 1898 roku dost\u0119pnym w Wiki\u017ar\u00f3d\u0142ach (prawdopodobnie w t\u0142umaczeniu Wo\u0142owskiego)\n- Wsp\u00f3\u0142czesnych wydaniach r\u00f3\u017cnych wydawnictw (Znak, SBM) wykorzystuj\u0105cych istniej\u0105ce t\u0142umaczenia\n\nPodsumowuj\u0105c: pierwsze polskie t\u0142umaczenie \"Anny Kareniny\" autorstwa Jana Wo\u0142owskiego pochodzi z ko\u0144ca XIX wieku. Najwa\u017cniejszym i najpopularniejszym t\u0142umaczeniem pozostaje przek\u0142ad Kazimiery I\u0142\u0142akowicz\u00f3wny z 1952 roku, kt\u00f3ry by\u0142 wielokrotnie wznawiany. Najnowsze t\u0142umaczenie Jana Cichockiego ukaza\u0142o si\u0119 w 2022 roku nak\u0142adem wydawnictwa \u015awiat Ksi\u0105\u017cki."
+    ],
+    "durationSeconds": 26.177106623
+  }
+}

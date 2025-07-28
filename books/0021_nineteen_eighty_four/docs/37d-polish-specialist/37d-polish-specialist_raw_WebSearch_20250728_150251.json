@@ -1,0 +1,63 @@
+{
+  "session_id": "b8c17c71-efc6-4c19-9b68-e101c36de9c9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b8c17c71-efc6-4c19-9b68-e101c36de9c9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "lubimyczyta\u0107.pl \"Rok 1984\" Orwell oceny recenzje statystyki polscy czytelnicy"
+  },
+  "tool_response": {
+    "query": "lubimyczyta\u0107.pl \"Rok 1984\" Orwell oceny recenzje statystyki polscy czytelnicy",
+    "results": [
+      "I'll search for information about Polish readers' reviews, ratings, and statistics for George Orwell's \"1984\" on lubimyczyta\u0107.pl.",
+      {
+        "tool_use_id": "srvtoolu_01ATHM6n9qPHn1mfqafbbQVt",
+        "content": [
+          {
+            "title": "Recenzja - Rok 1984 George Orwell | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/pod-okiem-wielkiego-brata"
+          },
+          {
+            "title": "Rok 1984 - George Orwell | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5190929/rok-1984"
+          },
+          {
+            "title": "1984 - George Orwell | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5131218/1984"
+          },
+          {
+            "title": "Rok 1984 - Oceny, opinie, ceny - George Orwell - Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/ksiazka/190622/rok-1984"
+          },
+          {
+            "title": "Ksi\u0105\u017cki z tagiem rok 1984 | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/ksiazki/t/rok%201984"
+          },
+          {
+            "title": "Rok 1984. Powie\u015b\u0107 graficzna - Fido Nesti, George Orwell | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/4933603/rok-1984-powiesc-graficzna"
+          },
+          {
+            "title": "Recenzja: Rok 1984. Komiks - George Orwell - granice.pl",
+            "url": "https://www.granice.pl/recenzja/rok-1984-komiks/37864"
+          },
+          {
+            "title": "[57] \u201eRok 1984\u201d George Orwell \u2013 recenzja",
+            "url": "https://libridisimone.wordpress.com/2022/03/20/57-rok-1984-george-orwell-recenzja/"
+          },
+          {
+            "title": "Rok 1984 lektura z opracowaniem - George Orwell | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5156514/rok-1984-lektura-z-opracowaniem"
+          },
+          {
+            "title": "Rok 1984 George'a Orwella - Ilona Kulik | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/3958473/rok-1984-george-a-orwella"
+          }
+        ]
+      },
+      "Based on the search results from lubimyczyta\u0107.pl, here's what I found about Polish readers' reviews, ratings, and statistics for George Orwell's \"1984\" (Polish title: \"Rok 1984\"):\n\n## Ratings and Statistics\n\nThe book has an average rating of 8.4/10 based on 5,705 ratings on lubimyczyta\u0107.pl. It has been read by 9,862 readers and has 462 written opinions on the platform.\n\n## Polish Readers' Reception\n\nThe phenomenon of George Orwell's \"1984\" lies in the fact that after more than seventy years, the book remains just as relevant \u2013 if not more so. Polish readers appreciate its continued relevance and timeless themes.\n\nThe book is described as a famous futuristic dystopia depicting a totalitarian world where love doesn't exist, thoughtcrime is punishable by death, history is constantly rewritten, and language is stripped of meaning.\n\n## Reviews and Critical Reception\n\nPolish readers and reviewers note several key aspects:\n\n1. **Timeless Relevance**: This cult dystopia shows readers themes that remain deeply relevant to contemporary society.\n\n2. **Educational Value**: Orwell's 1984 was ahead of its time, showing an in-depth picture of how a totalitarian system functions as an organized, destructive machine of power. Its author exposed the mechanisms of enslavement and control of the individual in order to form their \"proper\" attitude and complete, passive subordination of man to the party. In this novel, the state stands above all law, and its despotic force suppresses every manifestation of insubordination and free thought.\n\n3. **Literary Status**: The book is recognized as one of the most famous novels of the 20th century and has become part of the Polish school curriculum.\n\n## Different Editions\n\nThere are multiple Polish editions available on the platform, including:\n- A graphic novel adaptation from 2020\n- Various translations and publisher editions\n- Educational editions with study guides for students\n\nThe book continues to be widely read and discussed by Polish readers, maintaining its status as essential reading for understanding totalitarianism and its mechanisms."
+    ],
+    "durationSeconds": 25.54182427099999
+  }
+}

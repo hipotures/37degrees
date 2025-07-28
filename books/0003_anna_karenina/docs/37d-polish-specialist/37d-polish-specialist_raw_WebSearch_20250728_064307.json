@@ -1,0 +1,63 @@
+{
+  "session_id": "7ca65eb2-e5d0-4143-8931-90f15001b62e",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7ca65eb2-e5d0-4143-8931-90f15001b62e.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Anna Karenina wp\u0142yw polskich pisarzy literatura kultura Polska referencje"
+  },
+  "tool_response": {
+    "query": "Anna Karenina wp\u0142yw polskich pisarzy literatura kultura Polska referencje",
+    "results": [
+      "I'll search for information about Anna Karenina's influence on Polish writers and references in Polish literature and culture.",
+      {
+        "tool_use_id": "srvtoolu_012W5NoWDRYrTfjTFtKgXFKk",
+        "content": [
+          {
+            "title": "Dlaczego powie\u015b\u0107 To\u0142stoja \u201eAnna Karenina\u201d z 1877 roku wci\u0105\u017c rozbrzmiewa dzisiaj?",
+            "url": "https://www.greelane.com/pl/humanistyka/literatura/anna-karenina-study-guide-4151999/"
+          },
+          {
+            "title": "Anna Karenina (2012) \u2013 Edukacja Filmowa",
+            "url": "https://edukacjafilmowa.pl/anna-karenina-2012/"
+          },
+          {
+            "title": "Anna Karenina - opracowanie (geneza, czas i miejsce akcji, bohaterowie)",
+            "url": "https://eszkola.pl/jezyk-polski/opracowanie-1668.html"
+          },
+          {
+            "title": "Anna Karenina T.1 Lew To\u0142stoj ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/anna-karenina-t-1-lew-tolstoj"
+          },
+          {
+            "title": "Anna Karenina \u2013 opracowanie, problematyka, bohaterowie - streszczenie, opracowanie na wypracowania.pl",
+            "url": "https://wypracowania.pl/lektury/anna-karenina-opracowanie-problematyka-bohaterowie"
+          },
+          {
+            "title": "Anna Karenina - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Anna_Karenina"
+          },
+          {
+            "title": "Miesi\u0119cznik Tw\u00f3rczo\u015b\u0107 \u00bb Anna Karenina to ja",
+            "url": "https://tworczosc.com.pl/artykul/anna-karenina-to-ja/"
+          },
+          {
+            "title": "recenzje - Anna Karenina {To\u0142stoj Lew} \u00bb BiblioNETka",
+            "url": "https://www.biblionetka.pl/reviewsDisplay.aspx?type=Review&id=2324"
+          },
+          {
+            "title": "Anna Karenina - Lew To\u0142stoj | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5043957/anna-karenina"
+          },
+          {
+            "title": "Zdrada tragiczna albo groteskowa. \u201eAnna Karenina\u201d jako powie\u015b\u0107 wsp\u00f3\u0142czesna - Wi\u0119\u017a",
+            "url": "https://wiez.pl/2019/01/04/tragiczna-albo-groteskowa/"
+          }
+        ]
+      },
+      "Based on the search results, I found information about Anna Karenina's influence on Polish writers and references in Polish literature and culture:\n\n## Anna Karenina's Impact on Polish Literature and Culture\n\nIn Polish film studies, there are three complementary approaches to defining film adaptations of literature. For Maryla Hopfinger, adaptation is an intersemiotic translation with a high coefficient of interpretation. Alicja Helman states that film adaptation and literary original are TWO DIFFERENT works on the same topic. In turn, Tadeusz Lubelski believes that the essence of adaptation arises from the tension between the time of the novel's creation (here: 1873-1877) and the time of film production (2012).\n\n### Polish Film Education and Analysis\n\nJoe Wright's \"Anna Karenina\" is an excellent opportunity to discuss this special case of the relationship between literature and film, which is film adaptation. A brief overview of types of literary adaptations will allow for more competent reception of this radical version of \"Anna Karenina.\" The condition, of course, is reading at least several larger fragments of the novel indicated by the teacher.\n\n### Cultural References in Polish Educational Materials\n\nThe novel is widely studied in Polish schools and universities. Maria Cie\u015bla-Korytowska wrote about Tolstoy's \"Anna Karenina\" in her book \"Te ksi\u0105\u017cki zb\u00f3jeckie\" (These Bandit Books), Krak\u00f3w 2011, pp.169-201.\n\n### Polish Translations and Literary Reception\n\nTolstoy's books were translated into many languages, including Polish by translators such as Jadwiga Dmochowska, Czes\u0142aw Jastrz\u0119biec-Koz\u0142owski, Kazimierz Truchanowski, and also Kazimiera I\u0142\u0142akowicz\u00f3wna.\n\n### Contemporary Polish Literary Discourse\n\nPolish literary criticism and educational platforms extensively analyze the novel. \"I will repay, says the Lord\" - the motto taken from the Letter to the Romans (12:19), with which Tolstoy prefaced the novel, was the subject of many interpretations and disputes. What did the writer really have in mind when placing it in his brilliant novel? Vikenty Veresaev, a Russian writer and doctor, noted in his \"Memoirs\": \"In the spring of 1907, I was returning from abroad and from Warsaw I traveled in one compartment with a gentleman who turned out to be M. S. Sukhotin, Tolstoy's son-in-law. We talked a lot about Tolstoy, of course. [...] Among other things, I told Sukhotin how I understand the meaning of the epigraph to 'Anna Karenina' 'I will repay, says the Lord'\".\n\nThe search results show that Anna Karenina has had a significant impact on Polish culture through translations, film adaptations, literary criticism, and educational materials. The novel continues to be studied and referenced in Polish academic and cultural discourse, particularly in discussions about adaptation theory and the relationship between literature and film."
+    ],
+    "durationSeconds": 29.77677228799998
+  }
+}

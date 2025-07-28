@@ -1,0 +1,63 @@
+{
+  "session_id": "7ca65eb2-e5d0-4143-8931-90f15001b62e",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7ca65eb2-e5d0-4143-8931-90f15001b62e.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Anna Karenina fanfiction AO3 Archive Our Own popular ships headcanons modern AU"
+  },
+  "tool_response": {
+    "query": "Anna Karenina fanfiction AO3 Archive Our Own popular ships headcanons modern AU",
+    "results": [
+      "I'll search for information about Anna Karenina fanfiction on Archive of Our Own (AO3).",
+      {
+        "tool_use_id": "srvtoolu_016SAEduKSnQvqrNxJxm8m74",
+        "content": [
+          {
+            "title": "Anna Karenina - Leo Tolstoy - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Anna Karenina - Leo Tolstoy/works"
+          },
+          {
+            "title": "Anna Karenina (2012) - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Anna%20Karenina%20(2012)/works"
+          },
+          {
+            "title": "Latest Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/works/"
+          },
+          {
+            "title": "Original Work - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Original%20Work/works"
+          },
+          {
+            "title": "Archive of Our Own - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Archive_of_Our_Own"
+          },
+          {
+            "title": "Home | Archive of Our Own",
+            "url": "https://archiveofourown.org"
+          },
+          {
+            "title": "AO3 Ship Stats - Fanlore",
+            "url": "https://fanlore.org/wiki/AO3_Ship_Stats"
+          },
+          {
+            "title": "Fandoms | Archive of Our Own",
+            "url": "https://archiveofourown.org/media"
+          },
+          {
+            "title": "Fanfiction - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Fanfiction/works"
+          },
+          {
+            "title": "Search Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/works/search"
+          }
+        ]
+      },
+      "Based on my search, I found information about Anna Karenina fanfiction on Archive of Our Own (AO3). Here's what I discovered:\n\n## Anna Karenina Fanfiction on AO3\n\nThe AO3 hosts various Anna Karenina fanfictions, including crossovers where Anna Karenina meets other literary characters like Edna Pontellier, exploring alternatives to their tragic endings.\n\n### Popular Themes and AUs\n\nThere are Anna Karenina AU (Alternative Universe) fanfictions on the platform, including modern adaptations. Some stories reimagine the famous opening line \"All happy families are alike; each unhappy family is unhappy in its own way\" in contemporary settings with characters trapped in difficult marriages.\n\n### Ships and Characters\n\nThe search results show that characters like Alexei Vronsky appear in various fanfictions, including crossover tournament-style stories. While I couldn't find specific statistics about the most popular Anna Karenina ships in these results, AO3 statistics show that about 14% of fics on the site in 2016 took place in alternative universes (AUs).\n\n### AO3 Platform Context\n\nArchive of Our Own (AO3) is a nonprofit, open source repository for fanfiction that hosts over 15,000,000 works in over 71,720 fandoms as of May 2025. The site uses a comprehensive tagging system including Rating Tags, Archive Warnings, Fandom Tags, and additional tags for categorizing content by audiences, characters, and relationship pairings.\n\nTo find more specific information about popular Anna Karenina ships, headcanons, and modern AUs, you would need to visit the [Anna Karenina tag page on AO3](https://archiveofourown.org/tags/Anna%20Karenina%20-%20Leo%20Tolstoy/works) directly and use their filtering options to sort by kudos, bookmarks, or specific tags like \"Modern AU\" or character relationships."
+    ],
+    "durationSeconds": 23.790182545999997
+  }
+}

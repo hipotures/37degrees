@@ -1,0 +1,63 @@
+{
+  "session_id": "715f4a06-6795-4697-b7aa-4344b3e12664",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/715f4a06-6795-4697-b7aa-4344b3e12664.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Lalka Prus lektura szkolna mandatory reading Polish education matura exam curriculum"
+  },
+  "tool_response": {
+    "query": "Lalka Prus lektura szkolna mandatory reading Polish education matura exam curriculum",
+    "results": [
+      "I'll search for information about Stanis\u0142aw Prus's novel \"Lalka\" (The Doll) as a mandatory reading in Polish education and its role in the matura exam curriculum.",
+      {
+        "tool_use_id": "srvtoolu_01Fz2KKAEXWtc5GxqKLUgd6A",
+        "content": [
+          {
+            "title": "lektura szkolna - Polish to English translation on #KudoZ Term Help Network.",
+            "url": "https://www.proz.com/kudoz/polish-to-english/education-pedagogy/5141773-lektura-szkolna.html"
+          },
+          {
+            "title": "LALKA Boles\u0142awa Prusa | matura 2025 - opracowanie i pytania jawne",
+            "url": "https://www.otouczelnie.pl/news/1399/Lalka-matura-2023"
+          },
+          {
+            "title": "Polish Reading: Polish Texts for Beginners",
+            "url": "https://lingua.com/polish/reading/"
+          },
+          {
+            "title": "Matura ustna \u2013 zagadnienia z \u201eLalki\u201d z om\u00f3wieniem \u2013 pytania jawne na 2025 i 2026-2028 - Baba od polskiego",
+            "url": "https://babaodpolskiego.pl/matura-ustna-lalka/"
+          },
+          {
+            "title": "'Lalka'- streszczenie. Szybka powt\u00f3rka lektury przed matur\u0105",
+            "url": "https://www.edziecko.pl/Junior/7,160035,25695102,lalka-streszczenie-szybka-powtorka-lektury-przed-matura.html"
+          },
+          {
+            "title": "Lalka Boles\u0142awa Prusa \u2013 matura | AleKlasa",
+            "url": "https://aleklasa.pl/matura/c406-nauka-o-jezyku-2/lalka-prusa-na-maturze"
+          },
+          {
+            "title": "Lalka Opracowanie i interpretacja do matury! | Boles\u0142aw Prus",
+            "url": "https://jpmatura.pl/lektury/lalka/"
+          },
+          {
+            "title": "Lalka streszczenie - Opracowanie do matury - Zdaj na +90%",
+            "url": "https://studniowkamaturalna.pl/lalka-streszczenie-opracowanie-do-matury/"
+          },
+          {
+            "title": "Matura 2025: Lista lektur obowi\u0105zkowych z j\u0119zyka polskiego. Poziom podstawowy i rozszerzony - rp.pl",
+            "url": "https://edukacja.rp.pl/matura-i-egzamin-osmoklasisty/art41578691-lista-lektur-obowiazkowych-na-mature-2025-poziom-podstawowy-i-rozszerzony"
+          },
+          {
+            "title": "Polish A | MATURA MI\u0118DZYNARODOWA",
+            "url": "https://mickiewiczibkatowice.wordpress.com/subjects-2/subjects/polish-a/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide comprehensive information about \"Lalka\" by Boles\u0142aw Prus as a mandatory reading in Polish education and its role in the matura exam curriculum:\n\n## \"Lalka\" in Polish Education System\n\n\"Lalka\" (The Doll) is a mandatory reading for the Polish matura exam in its entirety. It is one of the most important required readings, so students must know it thoroughly for the matura.\n\n### Key Information for 2025 Matura:\n\nFor the oral matura exam in Polish language in 2025, there are 7 public questions concerning \"Lalka\" by Boles\u0142aw Prus.\n\n### Historical Presence in Matura Exams:\n\n\"Lalka\" appeared on the matura exam in 2021, as one of the essay topics that students could choose. Students expected \"Lalka\" to appear, as it was the most frequently discussed reading on student forums, and they were very satisfied when it appeared on the exam.\n\n### Publication and Literary Significance:\n\nThe novel was published in installments between 1887-1889 in \"Kurier Codzienny\" and was issued as a book in 1890 in Warsaw. \"Lalka\" is considered one of the most outstanding works of Polish realism.\n\n### Educational Importance:\n\n\"Lalka\" is a key matura reading that constantly appears in matura exam papers. This positivist novel presenting the social realities of 19th-century Warsaw frequently appears in matura exams.\n\n### Potential Exam Topics:\n\nThe search results reveal numerous essay topics related to \"Lalka\" that have appeared or may appear on matura exams, including:\n- The role of wealth and social origin in interpersonal relations\n- The confrontation of dreams with reality\n- Character traits that help people achieve their goals\n- The city as a friendly or hostile space for humans\n- Love as a destructive or motivating force\n- Work as human passion\n\n### Avoiding Cardinal Errors:\n\nSince the reading is required in its entirety, a serious factual error demonstrating ignorance of the work's content may be considered a cardinal error.\n\nThe novel presents a rich picture of 19th-century Warsaw, describing social realities, explaining complicated relationships between social classes, and providing interesting topographical details. This comprehensive nature makes it an essential text for understanding Polish literature and society of the positivist period, which explains its continued prominence in the Polish educational curriculum and matura examination system."
+    ],
+    "durationSeconds": 30.837060537000188
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "session_id": "9588e4fa-c119-4986-be3b-1d3af7769f8f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/9588e4fa-c119-4986-be3b-1d3af7769f8f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "1932 world events Hitler rise to power Stalin Soviet Union Great Depression unemployment"
+  },
+  "tool_response": {
+    "query": "1932 world events Hitler rise to power Stalin Soviet Union Great Depression unemployment",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01T67zU1j6qR1sLhQuDHRURF",
+        "content": [
+          {
+            "title": "Great Depression | Holocaust Encyclopedia",
+            "url": "https://encyclopedia.ushmm.org/content/en/article/the-great-depression"
+          },
+          {
+            "title": "12.3 The Great Depression - World History Volume 2, from 1400 | OpenStax",
+            "url": "https://openstax.org/books/world-history-volume-2/pages/12-3-the-great-depression"
+          },
+          {
+            "title": "Overview | Great Depression and World War II, 1929-1945 | U.S. History Primary Source Timeline | Classroom Materials at the Library of Congress | Library of Congress",
+            "url": "https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/great-depression-and-world-war-ii-1929-1945/overview/"
+          },
+          {
+            "title": "Adolf Hitler and the Nazi Rise to Power, 1918\u20131933",
+            "url": "https://encyclopedia.ushmm.org/content/en/article/the-nazi-rise-to-power"
+          },
+          {
+            "title": "How Did Adolf Hitler Happen? | The National WWII Museum | New Orleans",
+            "url": "https://www.nationalww2museum.org/war/articles/how-did-adolf-hitler-happen"
+          },
+          {
+            "title": "Great Depression - Social Impact, Unemployment, Poverty | Britannica",
+            "url": "https://www.britannica.com/event/Great-Depression/Political-movements-and-social-change"
+          },
+          {
+            "title": "Unemployment during the great depression - Economics Help",
+            "url": "https://www.economicshelp.org/blog/162985/economics/unemployment-during-the-great-depression/"
+          },
+          {
+            "title": "The History Place - Rise of Hitler: Great Depression Begins",
+            "url": "http://www.historyplace.com/worldwar2/riseofhitler/begins.htm"
+          },
+          {
+            "title": "READ: Global Great Depression (article)",
+            "url": "https://www.khanacademy.org/humanities/whp-1750/xcabef9ed3fc7da7b:unit-7-interwar-and-world-war-ii/xcabef9ed3fc7da7b:7-1-totalitarianism-or-liberal-internationalism/a/read-global-great-depression-beta1"
+          },
+          {
+            "title": "Great Depression - Wikipedia",
+            "url": "https://en.m.wikipedia.org/wiki/Great_Depression"
+          }
+        ]
+      },
+      "Based on the search results, here are the key world events related to your query about 1932, Hitler's rise to power, Stalin's Soviet Union, the Great Depression, and unemployment:\n\n## The Great Depression and Global Unemployment\n\nThe Great Depression began in the United States in 1929 with the stock market crash, and was a severe global economic downturn from 1929 to 1939. By 1933, approximately 15 million people (more than 20 percent of the U.S. population at the time) were unemployed. During the Great Depression, US unemployment rate rose from virtually 0% in 1929 to a peak of 25.6% in May 1933.\n\n## Hitler's Rise to Power in 1932\n\nThe golden age of the Weimar Republic ended in late 1929, when the Great Depression hit Germany. The unemployment rate reached nearly 30% in 1932 in Germany, and unemployment rose quickly. Many Germans felt that the government was unable to manage the crisis. In these circumstances, the Nazi Party started to win more votes.\n\nIn 1932, there were five major elections in Germany. From late February through November, political rallies, demonstrations, and marches dominated German life. In the presidential elections of 1932, Nazi propagandists appealed to Germans left unemployed and destitute by the Great Depression with an offer of a savior. By 1932, the Nazis were the largest political party in the Reichstag.\n\nThe worldwide economic depression and the rising power of labor unions and communists convinced increasing numbers of Germans to turn to the Nazi Party. The Nazis fed on bank failures and unemployment\u2014proof, Hitler said, of the ineffectiveness of democratic government.\n\n## The Soviet Union Under Stalin\n\nNew Zealand had a rate of 15% unemployment, though unofficial measures suggest nearly double, while the Soviet Union claimed 0% unemployment. Soviet model of Communism was more insulated from global capitalism. Totalitarian regimes in the Soviet Union and Italy predated the depression.\n\nDuring the worst years of the Great Depression, between 1930 and 1935, engagement often took the form of an attraction to Marxism, the Soviet Union, and the American Communist Party among some intellectuals and writers.\n\n## Global Political Impact\n\nThe economic troubles of the 1930s were worldwide in scope and effect. Economic instability led to political instability in many parts of the world. Political chaos, in turn, gave rise to dictatorial regimes such as Adolf Hitler's in Germany and the military's in Japan.\n\nThe Great Depression was thus a crucial factor in reshaping the global political landscape of 1932, contributing directly to Hitler's rise and creating conditions that would eventually lead to World War II."
+    ],
+    "durationSeconds": 22.208641869999962
+  }
+}

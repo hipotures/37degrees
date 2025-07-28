@@ -1,0 +1,63 @@
+{
+  "session_id": "b8c17c71-efc6-4c19-9b68-e101c36de9c9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b8c17c71-efc6-4c19-9b68-e101c36de9c9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Rok 1984\" matura arkusze CKE przyk\u0142adowe zadania"
+  },
+  "tool_response": {
+    "query": "\"Rok 1984\" matura arkusze CKE przyk\u0142adowe zadania",
+    "results": [
+      "I'll search for practice exam materials related to \"Rok 1984\" (the novel \"1984\" by George Orwell) from CKE (Central Examination Commission in Poland) for the matura exam.",
+      {
+        "tool_use_id": "srvtoolu_01B2dq72boRWT4VbxECwRqG7",
+        "content": [
+          {
+            "title": "Matura ustna \u2013 zagadnienia z \u201eRoku 1984\u201d z om\u00f3wieniem \u2013 pytania jawne na 2025 i 2026-2028 - Baba od polskiego",
+            "url": "https://babaodpolskiego.pl/matura-ustna-rok-1984/"
+          },
+          {
+            "title": "ROK 1984, George Orwell | matura 2025 - opracowanie i pytania jawne",
+            "url": "https://www.otouczelnie.pl/news/2224/Rok-1984-matura-2025"
+          },
+          {
+            "title": "Na podstawie powie\u015bci \u201eRok 1984\u201d George\u2019a - Zadanie 16.2 - strona 19 - Matura z j\u0119zyka polskiego. Formu\u0142a 2023. Poziom podstawowy. 2023 - Skul",
+            "url": "https://skul.pl/jezyk-polski/zadanie,16-2,zid,424420"
+          },
+          {
+            "title": "Rok 1984 - opracowanie do matury (J\u0119zyk polski) jako PDF - Knowunity",
+            "url": "https://knowunity.pl/knows/jzyk-polski-rok-1984-d3b85626-cad1-4277-841a-26314650b2e7"
+          },
+          {
+            "title": "Arkusze maturalne - CKE, Operon, Nowa Era - zadania i odpowiedzi",
+            "url": "https://wielkapowtorkamaturalna.pl/arkusze-maturalne/"
+          },
+          {
+            "title": "Rok 1984 - jawne pytania na matur\u0119 ustn\u0105 z j\u0119zyka polskiego 2025 - klp.pl",
+            "url": "https://klp.pl/pytania-maturalne/ser-1047.html"
+          },
+          {
+            "title": "Matura 2015 - J\u0118ZYK POLSKI - przyk\u0142adowe ZADANIA - nowe zasady - ARKUSZ CKE | Gazeta Wroc\u0142awska",
+            "url": "https://gazetawroclawska.pl/matura-2015-jezyk-polski-przykladowe-zadania-nowe-zasady-arkusz-cke/ar/3840773"
+          },
+          {
+            "title": "Rok-1984-opracowanie-lektury - SPRAWDZIAN NA POCZ\u0104TEK Spis tre\u015bci 1. Sprawdzian na pocz\u0105tek Czy znam - Studocu",
+            "url": "https://www.studocu.com/pl/document/technikum-w-rzemieniu/jezyk-polski/rok-1984-opracowanie-lektury/116083317"
+          },
+          {
+            "title": "Kartkowka 1984 \u2014 kopia - Kartk\u00f3wka - Kartk\u00f3wka z lektury \u201cRok 1984\u201d George\u2019a Orwella Cz\u0119\u015b\u0107 I \u2013 - Studocu",
+            "url": "https://www.studocu.com/pl/document/i-liceum-ogolnoksztalcace-im-mikolaja-kopernika-w-radomiu/jezyk-polski-zakres-podstawowy/kartkowka-1984-kopia-kartkowka/116567629"
+          },
+          {
+            "title": "ustna matura rok 1984",
+            "url": "https://klubnauczyciela.stentor.pl/files/produkty/pliki/matura-ustna-2023-rok-1984-opracowanie-zagadnien-ebook-baba-od-polskiego.pdf"
+          }
+        ]
+      },
+      "Based on the search results, I found several relevant resources about \"Rok 1984\" (the novel \"1984\" by George Orwell) and CKE matura exam materials. Here's what I discovered:\n\n## Key Findings:\n\n### 1. Oral Matura Questions for \"Rok 1984\" (2025-2028)\n\nThere are 4 official questions about George Orwell's novel in the pool of open questions for the oral matura exam in 2025 and for 2026-2028:\n\n1. Interpersonal relationships in the reality of a totalitarian state. Discuss the topic based on George Orwell's novel 1984. Include a selected context in your answer.\n\n2. How to preserve freedom in a totalitarian state? Discuss the topic based on George Orwell's novel 1984. Include a selected context in your answer.\n\n3. The significance of propaganda in a totalitarian state. Discuss the topic based on George Orwell's novel 1984. Include a selected context in your answer.\n\n4. Newspeak as a way to limit human freedom. Discuss the topic based on George Orwell's novel 1984. Include a selected context in your answer.\n\n### 2. Written Matura Example Question\n\nThere's an example question from the CKE written matura exam: \"What was the purpose of creating Newspeak in George Orwell's novel '1984'? Answer based on the content of the entire book.\"\n\n### 3. Study Materials and Practice Exams\n\nYou can download matura exam papers from previous years. All official papers published by CKE are available along with answer sheets.(no content)In the last 10 years, 1984 has not appeared on the matura exam. If you have access to matura exam papers from specific years, you can independently check if this work appeared there.\n\n### 4. Additional Study Resources\n\nThe search results show various study materials available:\n- Study guides for oral matura questions about \"1984\" for 2025 and 2026-2028\n- Study materials including notes, presentations, exam preparation materials, and flashcards\n- Sample tasks and solutions for both oral and written matura exams\n\n### 5. Key Themes for Study\n\nThe interpretation of 1984 focuses on the mechanisms of totalitarian power and analysis of political propaganda.(no content)Newspeak is a specially constructed language of the totalitarian system, serving to falsify reality.\n\nThe search results indicate that while \"Rok 1984\" is an important text for the matura exam with specific oral exam questions prepared by CKE, students should focus on understanding themes like totalitarianism, propaganda, newspeak, and individual freedom when preparing for their exams."
+    ],
+    "durationSeconds": 30.919164504999994
+  }
+}

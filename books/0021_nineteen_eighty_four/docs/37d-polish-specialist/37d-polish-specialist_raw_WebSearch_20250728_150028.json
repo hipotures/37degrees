@@ -1,0 +1,63 @@
+{
+  "session_id": "b8c17c71-efc6-4c19-9b68-e101c36de9c9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b8c17c71-efc6-4c19-9b68-e101c36de9c9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Rok 1984\" Orwell Polska komunizm PRL Solidarno\u015b\u0107 stan wojenny 1981"
+  },
+  "tool_response": {
+    "query": "\"Rok 1984\" Orwell Polska komunizm PRL Solidarno\u015b\u0107 stan wojenny 1981",
+    "results": [
+      "I'll search for information about Orwell's \"1984\" in the context of Poland, communism, PRL (Polish People's Republic), Solidarity movement, and martial law in 1981.",
+      {
+        "tool_use_id": "srvtoolu_01K7ZtuTNPuJqb3DRpJKwbHF",
+        "content": [
+          {
+            "title": "Rok 1984 \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Rok_1984"
+          },
+          {
+            "title": "\"Rok 1984\" - spe\u0142nione proroctwo Orwella - rp.pl",
+            "url": "https://www.rp.pl/plus-minus/art19075831-rok-1984-spelnione-proroctwo-orwella"
+          },
+          {
+            "title": "Rok 1984 - Problematyka - George Orwell - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/george-orwell/rok-1984.problematyka"
+          },
+          {
+            "title": "Rok 1984 - problematyka - George Orwell",
+            "url": "https://poezja.org/wz/interpretacja/5043/Rok_1984_problematyka"
+          },
+          {
+            "title": "Rok 1984 - Streszczenie szczeg\u00f3\u0142owe - George Orwell - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/george-orwell/rok-1984.streszczenie-szczegolowe"
+          },
+          {
+            "title": "\u201eRok 1984\u201d George\u2019a Orwella: fikcja przera\u017caj\u0105co bliska prawdy | Portal historyczny Histmag.org - historia dla ka\u017cdego!",
+            "url": "https://histmag.org/Rok-1984-Georgea-Orwella-fikcja-przerazajaco-bliska-prawdy-18869"
+          },
+          {
+            "title": "George Orwell Rok 1984 - Lektura i Streszczenie dla M\u0142odych Czytelnik\u00f3w (J\u0119zyk polski) - Knowunity",
+            "url": "https://knowunity.pl/knows/jzyk-polski-rok-1984-george-orwell-2a59e010-bf66-4fc1-a604-2354f8a7f0b0"
+          },
+          {
+            "title": "Rok 1984",
+            "url": "https://www.greg.pl/ksiazki/_www/l84/20/"
+          },
+          {
+            "title": "\"Rok 1984\" - krytyka totalitaryzmu - PR24.PL",
+            "url": "https://polskieradio24.pl/artykul/2322377,rok-1984-krytyka-totalitaryzmu"
+          },
+          {
+            "title": "Rok 1984 \u2013 encyklopediafantastyki.pl",
+            "url": "https://encyklopediafantastyki.pl/index.php?title=Rok_1984"
+          }
+        ]
+      },
+      "Based on the search results, I found extensive information about George Orwell's \"1984\" (titled \"Rok 1984\" in Polish) and its connections to Poland, communism, PRL (Polish People's Republic), Solidarity movement, and martial law in 1981. Here are the key findings:\n\n## Historical Context and Polish Connection\n\nThe first Polish translation of \"1984\" was published in exile by the Literary Institute in Paris in 1953, translated by Juliusz Mieroszewski. In the PRL (Polish People's Republic), Orwell's novel was banned by censorship, and the first official edition wasn't published until 1988 (by PIW), though from 1980 it was published in independent underground publications.\n\n## Orwell's Inspiration and Communist Experience\n\nOrwell wrote \"1984\" under the influence of his contact with the practical side of the Stalinist system, which he first encountered in Spain in 1936 during the civil war, where he went as a journalist and supporter of the republican side. As a sympathizer of the anti-Stalinist POUM party, he was forced to flee from persecution and execution organized by INO NKWD.\n\n## The Novel as Anti-Communist Critique\n\nThe work is described as an anti-utopia and pamphlet against communism. Orwell wanted to draw attention to the danger posed by the totalitarian regimes of his time: communism and fascism. The novel is often considered a description of a totalitarian state modeled on the Soviet regime, even though Orwell never visited Russia and set the action in London, not Moscow.\n\n## Polish Cultural Reception\n\nAccording to translator Bart\u0142omiej Zborski, it's not entirely accurate to assume that Orwell portrayed communism behind the Iron Curtain - it's an image of a world created by Western intellectuals, with \"EngSoc\" (English Socialism) being the most fully portrayed utopian system. Orwell had contact with J\u00f3zef Czapski, who provided him with details about life behind the Iron Curtain, including information about labor camps in the Soviet Union.\n\n## Relevance to Polish History\n\nThe search results show that \"1984\" became particularly relevant to Polish readers during the communist era, especially:\n- During the period of censorship in PRL\n- From 1980 onwards when it began circulating in underground publications (coinciding with the Solidarity movement)\n- The timing is significant as 1980-1981 was the period of Solidarity's rise and the subsequent imposition of martial law on December 13, 1981\n\nThe term \"Orwellian\" is used to describe situations threatening individual or societal freedom, and phrases like \"Big Brother is watching\" have permanently entered the language."
+    ],
+    "durationSeconds": 34.74828694500029
+  }
+}

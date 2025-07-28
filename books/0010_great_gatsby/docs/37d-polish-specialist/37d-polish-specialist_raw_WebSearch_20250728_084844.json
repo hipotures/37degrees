@@ -1,0 +1,63 @@
+{
+  "session_id": "e18f7f1c-5883-41e4-8ef9-15aee4aa266b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e18f7f1c-5883-41e4-8ef9-15aee4aa266b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Wielki Gatsby\" lata 20 Polska dwudziestolecie mi\u0119dzywojenne arystokracja nowa arystokracja bogactwo"
+  },
+  "tool_response": {
+    "query": "\"Wielki Gatsby\" lata 20 Polska dwudziestolecie mi\u0119dzywojenne arystokracja nowa arystokracja bogactwo",
+    "results": [
+      "I'll search for information about \"The Great Gatsby\" in the context of 1920s Poland, the interwar period, and the aristocracy.",
+      {
+        "tool_use_id": "srvtoolu_01ReRBU2uE9VSMnMkPrtqtpv",
+        "content": [
+          {
+            "title": "Wielki Gatsby \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Wielki_Gatsby"
+          },
+          {
+            "title": "Wielki Gatsby - Ca\u0142a Polska Czyta Dzieciom",
+            "url": "https://calapolskaczytadzieciom.pl/ksiazka/wielki-gatsby/"
+          },
+          {
+            "title": "Wielki Gatsby Francis Scott Fitzgerald ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/wielki-gatsby-francis-scott-fitzgerald"
+          },
+          {
+            "title": "Francis Scott Fitzgerald: Jak autor powie\u015bci \u201eWielki Gatsby\u201d sta\u0142 si\u0119 g\u0142osem straconego pokolenia | Portal historyczny Histmag.org - historia dla ka\u017cdego!",
+            "url": "https://histmag.org/francis-scott-fitzgerald-jak-autor-powiesci-wielki-gatsby-stal-sie-glosem-straconego-pokolenia-13843"
+          },
+          {
+            "title": "Lata 20. i moda m\u0119ska, czyli Wielki Gatsby na imprezie| blog lancerto.com",
+            "url": "https://www.lancerto.com/pl/blog/impreza-w-stylu-lat-20"
+          },
+          {
+            "title": "Wielki Gatsby - problematyka",
+            "url": "https://eszkola.pl/jezyk-polski/wielki-gatsby-problematyka-9781.html"
+          },
+          {
+            "title": "Stylizacje w stylu \u201eWielkiego Gatsby\u2019ego\u201d - Allegro.pl",
+            "url": "https://allegro.pl/artykul/stylizacje-w-stylu-wielkiego-gatsbyego-71581"
+          },
+          {
+            "title": "Wielki Gatsby - opracowanie (czas i miejsce akcji, narrator, motywy)",
+            "url": "https://eszkola.pl/jezyk-polski/wielki-gatsby-opracowanie-9780.html"
+          },
+          {
+            "title": "Wielki Gatsby (2013) - Filmweb",
+            "url": "https://www.filmweb.pl/film/Wielki+Gatsby-2013-506934"
+          },
+          {
+            "title": "Wielki Gatsby. Kiedy ubranie mia\u0142o znaczenie",
+            "url": "https://www.szarmant.pl/wielki-gatsby"
+          }
+        ]
+      },
+      "Based on the search results, I found information about \"The Great Gatsby\" (Wielki Gatsby) and its connections to the 1920s, wealth, and aristocracy, though the results are primarily about the American context rather than specifically Polish interwar period aristocracy. Here's what I found:\n\n## \"Wielki Gatsby\" i lata 20. - g\u0142\u00f3wne informacje\n\nWielki Gatsby to powie\u015b\u0107 ameryka\u0144skiego pisarza Francisa Scotta Fitzgeralda z 1925 roku, kt\u00f3rej historia toczy si\u0119 na pocz\u0105tku lat 20.(no content)By\u0142 to okres dobrobytu gospodarczego, prohibicji, rozwoju zorganizowanej przest\u0119pczo\u015bci i upadku moralno\u015bci.\n\n## Tematyka bogactwa i arystokracji\n\nPowie\u015b\u0107 opowiada histori\u0119 tajemniczego Jaya Gatsby'ego, kt\u00f3rego bogactwo i otaczaj\u0105cy go przepych osza\u0142amia Nowy Jork.(no content)Ksi\u0105\u017cka przedstawia \u015bwiat gdzie kr\u00f3lowa\u0142o \"przepych, bogactwo i jeszcze raz przepych\" w\u015br\u00f3d arystokrat\u00f3w lubuj\u0105cych si\u0119 w wystawnych przyj\u0119ciach.(no content)Fitzgerald w \"Wielkim Gatsbym\" rozprawi\u0142 si\u0119 z fa\u0142szem swojej epoki \u2013 przedstawia elity jako zdeprawowane, znudzone \u017cyciem, pozbawione warto\u015bci.(no content)Bogactwo jest wyr\u00f3\u017cnikiem pozycji spo\u0142ecznej, przyczyn\u0105 szacunku i sympatii, jednak nawet posiadanie maj\u0105tku nie daje gwarancji pozycji - dobre urodzenie jest wci\u0105\u017c najwi\u0119ksz\u0105 zalet\u0105.\n\n## Dwudziestolecie mi\u0119dzywojenne\n\nDwudziestolecie mi\u0119dzywojenne to by\u0142 \u0142ab\u0119dzi \u015bpiew starego porz\u0105dku.(no content)Ksi\u0105\u017cka opisuje pokolenie ludzi, kt\u00f3rzy prze\u017cyli I wojn\u0119 \u015bwiatow\u0105 - wojna przerwa\u0142a ich beztrosk\u0105 m\u0142odo\u015b\u0107 i mocno wp\u0142yn\u0119\u0142a na ich dalsze \u017cycie.(no content)Ziemianie jeszcze wtedy sp\u0119dzali dzie\u0144 na rozrywkach sportowych i ucztowaniu, prac\u0105 si\u0119 przecie\u017c nie parali, zajmowali si\u0119 sztuk\u0105 i przebieraniem si\u0119 po kilka razy dziennie.\n\n## Styl \u017cycia lat 20.\n\n\"Wielki Gatsby\" przedstawia szalony Nowy Jork lat dwudziestych i dekadencki styl cr\u00e8me de la cr\u00e8me ameryka\u0144skiej elity.(no content)Ksi\u0105\u017cka ukazuje czytelnikowi mroczny \u015bwiat dwudziestolecia mi\u0119dzywojennego za granic\u0105 ukryty za fasad\u0105 pi\u0119knych dom\u00f3w, stroj\u00f3w i wymy\u015blnych makija\u017cy.\n\nWyniki wyszukiwania skupiaj\u0105 si\u0119 g\u0142\u00f3wnie na ameryka\u0144skim kontek\u015bcie powie\u015bci, cho\u0107 zawieraj\u0105 odniesienia do dwudziestolecia mi\u0119dzywojennego jako okresu historycznego. Nie znalaz\u0142em bezpo\u015brednich informacji o polskiej arystokracji lat 20. w kontek\u015bcie \"Wielkiego Gatsby'ego\"."
+    ],
+    "durationSeconds": 30.947817652999888
+  }
+}

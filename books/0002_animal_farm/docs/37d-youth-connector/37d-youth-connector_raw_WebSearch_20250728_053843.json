@@ -1,0 +1,63 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Belarus protests Poland solidarity Animal Farm themes authoritarianism youth activism 2020 2021 2024"
+  },
+  "tool_response": {
+    "query": "Belarus protests Poland solidarity Animal Farm themes authoritarianism youth activism 2020 2021 2024",
+    "results": [
+      "I'll search for information about Belarus protests, Poland's solidarity, Animal Farm themes, authoritarianism, youth activism, and developments from 2020-2024.",
+      {
+        "tool_use_id": "srvtoolu_01UgR5yvLzjweQg9jvX1idvg",
+        "content": [
+          {
+            "title": "2020\u20132021 Belarusian protests - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/2020\u20132021_Belarusian_protests"
+          },
+          {
+            "title": "The protest movement in Belarus: resistance and repression",
+            "url": "https://www.iiss.org/publications/strategic-comments/2021/protest-movement-in-belarus/"
+          },
+          {
+            "title": "BTI 2024 Belarus Country Report: BTI 2024",
+            "url": "https://bti-project.org/en/reports/country-report/BLR"
+          },
+          {
+            "title": "Belarus\u2019 new political nation? 2020 anti-authoritarian protests as identity building - Aliaksei Kazharski, 2021",
+            "url": "https://journals.sagepub.com/doi/10.1177/2336825X20984340"
+          },
+          {
+            "title": "Belarus: Freedom on the Net 2024 Country Report | Freedom House",
+            "url": "https://freedomhouse.org/country/belarus/freedom-net/2024"
+          },
+          {
+            "title": "Belarus Three Years After Protest | Wilson Center",
+            "url": "https://www.wilsoncenter.org/audio/belarus-three-years-after-protest"
+          },
+          {
+            "title": "Tens of thousands defy crackdown and years of authoritarianism to protest Belarus dictator",
+            "url": "https://www.nbcnews.com/news/world/tens-thousands-defy-crackdown-years-authoritarianism-protest-belarus-dictator-n1236796"
+          },
+          {
+            "title": "Belarusian Professional Protesters in the Structure of Democracy Promotion in: Conflict and Society Volume 6 Issue 1 (2020)",
+            "url": "https://www.berghahnjournals.com/view/journals/conflict-and-society/6/1/arcs060113.xml"
+          },
+          {
+            "title": "Strategies of Protests from Belarus - Public Seminar",
+            "url": "https://publicseminar.org/essays/strategies-of-protests-from-belarus/"
+          },
+          {
+            "title": "BELARUS | DemTech",
+            "url": "https://demtech.oii.ox.ac.uk/wp-content/uploads/sites/12/2021/01/Cyber-Troop-Belarus-2020.pdf"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about the Belarus protests, Poland's solidarity, Animal Farm themes, authoritarianism, youth activism from 2020-2024:\n\n## Belarus Protests (2020-2021 and Beyond)\n\nThe 2020\u20132021 Belarusian protests were a series of mass political demonstrations and protests against the Belarusian government and President Alexander Lukashenko.(no content)The largest anti-government protests in the history of Belarus, the demonstrations began in the lead-up to and during the 2020 presidential election.\n\nAlexander Lukashenko has been the head of state of Belarus since 1994, and did not have a serious challenger in the previous five elections, resulting in being referred to as \"Europe's last dictator\" by media outlets. Under his authoritarian rule, the government has frequently repressed the opposition.\n\n### Protest Nicknames and Symbolism\n\nThe protests, nicknamed the Slipper Revolution and the Anti-Cockroach Revolution, were initiated by businessman and blogger Sergei Tikhanovsky when he made a reference to the children's poem The Monster Cockroach (Russian: \u0422\u0430\u0440\u0430\u043a\u0430\u043d\u0438\u0449\u0435, romanized: Tarakanishche) by Korney Chukovsky. This literary reference connects to Animal Farm themes of using allegory to critique authoritarianism.\n\n## Poland's Solidarity and Support\n\n### Belarus Solidarity Foundation\nOn 14 August 2020, the Belarus Solidarity Foundation (BYSOL) was established. Its main aims are to support courtyard initiatives, emergency relocation, support for the families of political prisoners and helping those fired for political reasons. In 2020, BYSOL raised \u20ac2.9 million to support those fired for political reasons, striking factories, and people forced to relocate.(no content)Solidarity foundations that emerged after 2020 (such as BYSOL, BYPOL, medical and sports solidarity foundations, and the Belarusian Rada of Culture) have adapted their activities to the new conditions and continued to help their audiences \u2013 despite facing criminal cases filed against them on the pretext of \"financing of activities of an extremist formation.\"\n\n### International Support\nThey were joined by thousands of female protesters forming \"solidarity chains\" and many wearing white T-shirts, ribbons and bracelets, to represent peace, although others featured a red stripe, echoing the old Belarusian flag.\n\n## Authoritarianism and Repression (2020-2024)\n\n### Evolution to Totalitarianism\nWell, in a few words, it is a classic reaction phase of the authoritarian and increasingly totalitarian regime. So there are multiple features of the classic totalitarianism that we observe now in Belarusian domestic politics.(no content)\"The 2020 post-election crisis and its coaggression in the Russian-Ukrainian war have marked a tectonic shift in Belarus' political and socioeconomic model, as well as its international standing.\"\n\n### Scale of Repression\nSince then, security forces have violently assaulted and arbitrarily detained journalists, activists, and ordinary citizens who challenge the regime. Tens of thousands of people have been arrested, and as many as 500,000 Belarusians, including most of the country's independent media and civil society workers, have emigrated since the crackdown began.(no content)Six political prisoners have died since 2020, four of whom had been imprisoned for their online activities\n\n## Youth Activism and Grassroots Movements\n\n### Neighborhood Activism\nDespite these efforts, the networks of neighborhood activism continue to grow and spread. Hundreds of local chats, big and small, are active across Minsk and the whole of Belarus. City streets and squares are being mobilized by the activists through the organization of spontaneous concerts and art performances. Buildings, walls, and fences are being reclaimed by the protesters who use them for rebroadcasting their anti-government message.\n\n### Digital Activism\nWith the onset of the Russian-Ukrainian war in February 2022, horizontal protest structures in Belarus gradually resumed their activities.(no content)Additionally, following Russia's invasion of Ukraine, the protest movement acquired an anti-war character. Despite being significantly weakened by repression, the movement contributed to monitoring the military activities of Russian and Belarusian troops and carried out partisan sabotage, specifically targeting railways, to impede the movement of Russian troops through Belarusian territory.\n\n## Civil Society Destruction (2021-2024)\n\nIn 2021, Lukashenka launched a \"clean-up\" of \"bandit\" and \"foreign agent\" NGOs in Belarus, including media, think tank, and human rights organizations (see B6). Between 2021 and 2022, the government shut down more than 750 NGOs; another 400 decided to cease their operations due to official pressure.14 In 2023, another 336 NGOs ceased their operations or were shut down by the government.15 The closure of at least 1,665 independent groups between September 2020 and May 202416\u2014about half of all NGOs in Belarus17\u2014also resulted in the loss of their news, information, research, analytical, and cultural websites and other online publications.\n\n## Hope and Resilience\n\nThis means that, even in a repressed and atomized society like Belarus, the basic human desire for solidarity and trust can overcome authoritarian power structures. The emergence of grassroots solidarity and mutual support networks, the restoration of dignity and trust have already happened. The power of democracy that is performed and (re)enacted cannot be broken. This means that, even in a repressed and atomized society like Belarus, the basic human desire for solidarity and trust can overcome authoritarian power structures.\n\nThe search results reveal a complex story of democratic resistance against authoritarianism, with clear parallels to Orwell's Animal Farm in the use of allegory and symbolism (the \"Cockroach Revolution\"). The protests evolved from mass demonstrations in 2020-2021 to underground resistance movements by 2024, with Poland and other nations providing solidarity through various foundations despite severe repression that has transformed Belarus from an authoritarian to increasingly totalitarian state."
+    ],
+    "durationSeconds": 61.50712101499969
+  }
+}

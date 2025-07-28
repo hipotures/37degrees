@@ -1,0 +1,63 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Jane Eyre\" religious symbolism Biblical references St. John Rivers Christian imagery moral compass"
+  },
+  "tool_response": {
+    "query": "\"Jane Eyre\" religious symbolism Biblical references St. John Rivers Christian imagery moral compass",
+    "results": [
+      "I'll search for information about religious symbolism and Biblical references in Jane Eyre, particularly focusing on St. John Rivers and Christian imagery.",
+      {
+        "tool_use_id": "srvtoolu_01AGDxrcE6q4jy6vzmUgy67R",
+        "content": [
+          {
+            "title": "Jane Eyre: Themes | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/janeeyre/themes/"
+          },
+          {
+            "title": "Evangelical Christianity in Jane Eyre \u2013 Tebok Kai",
+            "url": "https://tebokkai.com/2024/09/16/evangelical-christianity-in-jane-eyre/"
+          },
+          {
+            "title": "Prismatic Jane Eyre - 14. Biblical Intertextuality in the French Jane Eyre",
+            "url": "https://books.openbookpublishers.com/10.11647/obp.0319/ch14.xhtml"
+          },
+          {
+            "title": "Religious Imagery in Charlotte Bronte's Jane Eyre",
+            "url": "https://victorianweb.org/authors/bronte/cbronte/61brnt1.html"
+          },
+          {
+            "title": "The Faces of Christianity in Jane Eyre: St John Rivers \u2013 A Day of Small Things",
+            "url": "https://nicolefu.co.uk/2020/12/07/the-faces-of-christianity-in-jane-eyre-st-john-rivers/"
+          },
+          {
+            "title": "St. John Rivers in Jane Eyre by C. Bronte | Analysis & Quotes - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/st-john-rivers-in-jane-eyre-character-analysis-quotes.html"
+          },
+          {
+            "title": "Discuss the theme of religion in Jane Eyre in relation to the character St John Rivers.",
+            "url": "https://www.mytutor.co.uk/answers/56854/A-Level/English-Literature/Discuss-the-theme-of-religion-in-Jane-Eyre-in-relation-to-the-character-St-John-Rivers/"
+          },
+          {
+            "title": "Jane Eyre Themes: Christianity and Morality - eNotes.com",
+            "url": "https://www.enotes.com/topics/jane-eyre/themes/christianity-and-morality"
+          },
+          {
+            "title": "Jane Eyre's Religious Themes and Contexts",
+            "url": "https://victorianweb.org/authors/bronte/cbronte/religionov.html"
+          },
+          {
+            "title": "Religion Theme in Jane Eyre | LitCharts",
+            "url": "https://www.litcharts.com/lit/jane-eyre/themes/religion"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about religious symbolism and Biblical references in Jane Eyre, particularly focusing on St. John Rivers and Christian imagery as a moral compass.\n\n## Religious Symbolism and Biblical References in Jane Eyre\n\n### Central Religious Themes\n\nThroughout the novel, Jane struggles to find the right balance between moral duty and earthly pleasure, between obligation to her spirit and attention to her body.(no content)She encounters three main religious figures: Mr. Brocklehurst, Helen Burns, and St. John Rivers. Each represents a model of religion that Jane ultimately rejects as she forms her own ideas about faith and principle, and their practical consequences.\n\n### Biblical Intertextuality\n\nFrom the interactions with Brocklehurst and Helen Burns, to the tumultuous and conflicting relationships with Rochester and St John; in the evolution from the passionate, rebellious child to the tempered, collected woman; in all stages of her life from the pupil to the teacher, the character of Jane Eyre is made to reflect on the teaching of the Christian Bible and its incarnation in her own life. She talks to God and quotes from the King James Version.(no content)In the mid-nineteenth century, English novelists tended to expect from their readership an extended knowledge of the Biblical texts, and Charlotte Bront\u00eb certainly did not depart from this principle. She was born in a parsonage as the daughter of a clergyman, and her upbringing in an Evangelical Anglican household profoundly influenced her own reading and writing. Biblical intertextuality is paramount to the understanding of Jane Eyre.\n\n### St. John Rivers as Religious Symbol\n\nMany chapters later, St. John Rivers provides another model of Christian behavior. His is a Christianity of ambition, glory, and extreme self-importance. St. John urges Jane to sacrifice her emotional deeds for the fulfillment of her moral duty, offering her a way of life that would require her to be disloyal to her own self.(no content)He symbolically represents the restrictive and spiritually oppressively aspects of religion and morality during the Victorian Era. He has devoted himself to being a servant of God and is an aspiring missionary. While this would normally be seen in a positive light, St. John takes his purpose to a severe place and Jane sees him as trampling over her and others in his pursuit of moral superiority.(no content)St John embraces this form of devout and zealous Christianity, and devotes his life to God through denying any feelings he has of love or passion, and instead uses ambition and the strive for glory to provide him with a purpose. We can see this in his refusal to enact on his feelings for Rosamond Oliver, who he shows deep affection for, and his decision to marry Jane instead because she is better suited to become a 'missionary's wife' and will aid him in his duty rather than deter him from his mission.\n\n### Religious Imagery and Symbolism\n\nront\u00eb's description of Jane's realization that she must run away from Rochester abounds with religious images: \"I was experiencing an ordeal: a hand of fiery iron grasped my vitals. Not a human being that ever lived could wish to be loved better than I was loved, and him who thus loved me I absolutely worshipped: and I must renounce love and idol. One dread word comprised my intolerable duty \u2014 \"Depart!\" First, we are told of the \"hand of fiery iron\" wreaking havoc within Jane.(no content)Jane speaks of Rochester as one whom she \"worshipped\", as one might worship a god, or perhaps a false god. Finally Jane declares that she must \"renounce\" an \"idol\". These words present the reader with strong biblical images, those of the Israelites doing wrong by God by worshipping the golden calf.(no content)For instance, the recurring imagery of fire and ice reinforces the contrast between Mr. Rochester and St. John Rivers. Mr. Rochester is often associated with warmth and fiery passion, symbolizing emotional intensity and love. In contrast, St. John Rivers embodies emotional coldness, prioritizing duty over passion. This contrast highlights Jane's tension between following her heart and holding onto her moral principles.\n\n### The Bible as Moral Compass\n\nBiblicism, emphasizing the Bible as a guide for faith and moral decisions, plays an important role in Jane's life. The Bible is frequently referenced as Jane navigates difficult decisions, serving as her moral compass.(no content)Looking at biblicism, one of the four beliefs of Evangelical Christianity, Jane often turns to the Bible and her religious beliefs for guidance when making difficult decisions. In times of uncertainty, she relies on her moral compass to guide her toward what she believes is the right choice. Despite her affection for him, she decides to leave, recognizing that continuing the relationship would be morally wrong according to her values. Her decision shows her commitment to moral principles, even when it leads to personal suffering.\n\n### Jane's Personal Christian Journey\n\nAlthough Jane ends up rejecting all three models of religion, she does not abandon morality, spiritualism, or a belief in a Christian God. When her wedding is interrupted, she prays to God for solace (Chapter 26). As she wanders the heath, poor and starving, she puts her survival in the hands of God (Chapter 28).(no content)Charlotte Bronte masterfully used St. John Rivers to highlight the novel's overall exploration of Christian morality vs. an individual's spiritual integrity and personal moral compass.(no content)Ultimately, Jane finds that her own spiritual path lies somewhere between St. John's uncompromising and cold Christianity and Mr. Rochester's passionate irreverence.\n\nThe religious symbolism in Jane Eyre thus serves as a complex exploration of different forms of Christianity and moral guidance, with Jane ultimately developing her own balanced approach that honors both spiritual duty and human emotion."
+    ],
+    "durationSeconds": 63.05774974599993
+  }
+}

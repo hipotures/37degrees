@@ -1,0 +1,117 @@
+{
+  "session_id": "b8c17c71-efc6-4c19-9b68-e101c36de9c9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b8c17c71-efc6-4c19-9b68-e101c36de9c9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"school surveillance\" teenagers monitoring software proctoring education privacy 2024 \"remote proctoring\""
+  },
+  "tool_response": {
+    "query": "\"school surveillance\" teenagers monitoring software proctoring education privacy 2024 \"remote proctoring\"",
+    "results": [
+      "I'll search for information about school surveillance, monitoring software, and remote proctoring related to teenagers' education and privacy concerns in 2024.",
+      {
+        "tool_use_id": "srvtoolu_01YZyKCF35t7LZ9CR9juuG1f",
+        "content": [
+          {
+            "title": "Courts Recognize Constitutional Harms from Invasive School Surveillance - Center for Democracy and Technology",
+            "url": "https://cdt.org/insights/courts-recognize-constitutional-harms-from-invasive-school-surveillance/"
+          }
+        ]
+      },
+      {
+        "tool_use_id": "srvtoolu_018HSVE6ZTGvAtbCDCaNbDZB",
+        "content": [
+          {
+            "title": "Implications of New School Surveillance Methods on Student Data Privacy, National Security, Electronic Surveillance, and the Fourth Amendment | Student Journal of Information Privacy Law",
+            "url": "https://sjipl.mainelaw.maine.edu/2023/04/14/implications-of-new-school-surveillance-methods-on-student-data-privacy-national-security-electronic-surveillance-and-the-fourth-amendment/"
+          },
+          {
+            "title": "What to Know About Student Data Privacy in 2024",
+            "url": "https://ewa.org/educated-reporter/what-to-know-about-student-data-privacy-in-2024"
+          },
+          {
+            "title": "Freeing Students From Online Surveillance | The Regulatory Review",
+            "url": "https://www.theregreview.org/2024/10/15/huang-freeing-students-from-online-surveillance/"
+          },
+          {
+            "title": "School Video Surveillance Policy & Guidelines (2025)",
+            "url": "https://getsafeandsound.com/blog/school-video-surveillance-policy/"
+          },
+          {
+            "title": "Home | Protecting Student Privacy",
+            "url": "https://studentprivacy.ed.gov/"
+          },
+          {
+            "title": "Guidance | Protecting Student Privacy",
+            "url": "https://studentprivacy.ed.gov/guidance"
+          },
+          {
+            "title": "Frequently Asked Questions | Protecting Student Privacy",
+            "url": "https://studentprivacy.ed.gov/frequently-asked-questions"
+          },
+          {
+            "title": "Student Privacy",
+            "url": "https://epic.org/issues/data-protection/student-privacy/"
+          },
+          {
+            "title": "School Monitoring Software Sacrifices Student Privacy for Unproven Promises of Safety | Electronic Frontier Foundation",
+            "url": "https://www.eff.org/deeplinks/2024/09/school-monitoring-software-sacrifices-student-privacy-unproven-promises-safety"
+          },
+          {
+            "title": "School Surveillance: The Consequences for Equity and Privacy",
+            "url": "https://www.nasbe.org/school-surveillance-the-consequences-for-equity-and-privacy/"
+          }
+        ]
+      },
+      {
+        "tool_use_id": "srvtoolu_01Hbi5gKDk3KkgyHrtA57CD5",
+        "content": [
+          {
+            "title": "Students Are Pushing Back Against Proctoring Surveillance Apps | Electronic Frontier Foundation",
+            "url": "https://www.eff.org/deeplinks/2020/09/students-are-pushing-back-against-proctoring-surveillance-apps"
+          },
+          {
+            "title": "Privacy Concerns with Online Exam Proctoring: Safeguarding Student Rights.",
+            "url": "https://blog.talview.com/en/privacy-concerns-with-online-exam-proctoring"
+          },
+          {
+            "title": "Challenges of Remote Proctoring: Privacy Concerns and Technical Issues",
+            "url": "https://cyberpanel.net/blog/challenges-of-remote-proctoring-privacy-concerns-and-technical-issues"
+          },
+          {
+            "title": "Internet\u2010Based Proctored Assessment: Security and Fairness Issues - PMC",
+            "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7404853/"
+          },
+          {
+            "title": "Remote education is rife with threats to student privacy",
+            "url": "https://theconversation.com/remote-education-is-rife-with-threats-to-student-privacy-148955"
+          },
+          {
+            "title": "Online proctoring concerns: Protecting test taker data & privacy | PSI",
+            "url": "https://www.psiexams.com/knowledge-hub/privacy-concerns-with-online-proctoring-and-how-to-address-them/"
+          },
+          {
+            "title": "Remote Proctoring Solution in 2024 | Think Exam",
+            "url": "https://thinkexam.com/blog/how-to-choose-the-best-remote-proctoring-solution-in-2024/"
+          },
+          {
+            "title": "Laird: Remote Proctoring of Exams Is an Invasive Tool Without Clear Security Protections. States & Districts Should Avoid Rushing In \u2013 The 74",
+            "url": "https://www.the74million.org/article/laird-remote-proctoring-of-exams-is-an-invasive-tool-without-clear-security-protections-states-districts-should-avoid-rushing-in/"
+          },
+          {
+            "title": "State and Federal Developments in Minors\u2019 Privacy in 2024 | Inside Privacy",
+            "url": "https://www.insideprivacy.com/childrens-privacy/state-and-federal-developments-in-minors-privacy-in-2024/"
+          },
+          {
+            "title": "Senators Express Privacy Concerns Over Proctoring Apps | Electronic Frontier Foundation",
+            "url": "https://www.eff.org/deeplinks/2020/12/senators-express-privacy-concerns-over-proctoring-apps"
+          }
+        ]
+      },
+      "Based on my web searches, I've found comprehensive information about school surveillance, teenagers, monitoring software, remote proctoring, and education privacy concerns in 2024. Here's a summary of the key findings:\n\n## School Surveillance and Privacy Concerns in 2024\n\n### Key Developments and Concerns:\n\n1. **Court Recognition of Privacy Rights**\n   - A federal trial court in Ohio ruled that certain uses of remote proctoring violate students' right to be free from unreasonable searches under the Fourth Amendment\n   - The court recognized that some aspects of remote proctoring technology intrude on the \"core places\" where society recognizes \"reasonable and legitimate privacy interests\u2014namely, the home\"\n\n2. **Extensive School Monitoring Systems**\n   - Schools have increasingly contracted with private companies to scan students' messages, emails, and documents, and record their browsing histories, both on devices provided by the school and on students' personal devices\n   - AI-powered monitoring software such as Gaggle and GoGuardian on students' school-issued machines and accounts monitors search terms, keystrokes, private chats and photographs\n\n3. **Remote Proctoring Privacy Issues**\n   - Students may have to provide a room scan to an unknown and unseen proctor, effectively being required to share footage of their bedrooms, homes, or personal space in exchange for their education\n   - Students often feel uncomfortable with the level of surveillance required during exams, which can involve webcam monitoring, microphone activation, and even tracking of eye movements\n   - In July 2020, online proctoring service ProctorU suffered a cyberbreach in which sensitive personal information for 444,000 students \u2013 including their names, email address, home addresses, phone numbers and passwords \u2013 was leaked\n\n4. **Impact on Students**\n   - Students cannot thrive when they know they are on constant watch\n   - Students tend to censor their activities to avoid attracting suspicion or disciplinary action\n   - This software flags and blocks websites for spurious reasons and often disproportionately targets disadvantaged, minority and LGBTQ youth\n\n5. **2024 Policy and Legislative Updates**\n   - The session took place at the 2024 SXSW EDU Conference & Festival in Austin, Texas last March, where reporters and researchers discussed the state of student data privacy\n   - A security lapse at Raptor Technologies, a leading school safety company, exposed 4 million school records, including the districts' active-shooter response plans, students' medical records and court documents about child abuse\n   - The Biden Administration's AI Bill of Rights states that \"continuous surveillance and monitoring should not be used in education\"\n\n6. **Legal Framework and Guidance**\n   - The guidance documents issued by SPPO address requirements of the Family Educational Rights and Privacy Act (FERPA), the Protection of Pupil Rights Amendment (PPRA), and the Armed Forces Recruiter Access to Students and Student Recruiting Information provisions under Section 8528 of the Elementary and Secondary Education Act\n   - A comprehensive school video surveillance policy ensures the safety of students and school property while maintaining privacy and compliance with federal and state regulations\n\n7. **Concerns About AI and Discrimination**\n   - These privacy-invasive proctoring tools rely on artificial intelligence, which affect certain groups more adversely. For instance, these programs may flag body-focused repetitive behaviors such as trichotillomania, chronic tic disorder and other health disorders, as cheating\n   - Some software couldn't identify test-takers' faces because of their skin color; children with disabilities were flagged for anomalous movements while taking exams\n\nThe search results show that in 2024, there are significant ongoing concerns about school surveillance systems, remote proctoring software, and their impact on student privacy and well-being. Courts, advocacy groups, and policymakers are increasingly recognizing these issues and working toward better protections for students' privacy rights."
+    ],
+    "durationSeconds": 53.449167067000175
+  }
+}

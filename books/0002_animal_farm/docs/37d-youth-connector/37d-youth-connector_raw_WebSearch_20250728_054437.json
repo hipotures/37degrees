@@ -1,0 +1,63 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Poland \"Animal Farm\" study guide exam questions SparkNotes CliffsNotes Polish literature high school"
+  },
+  "tool_response": {
+    "query": "Poland \"Animal Farm\" study guide exam questions SparkNotes CliffsNotes Polish literature high school",
+    "results": [
+      "I'll search for study guide materials about \"Animal Farm\" specifically related to Poland, Polish literature, and high school exam questions.",
+      {
+        "tool_use_id": "srvtoolu_01KU5z1RjKHvJvFqfmqhV2uV",
+        "content": [
+          {
+            "title": "Animal Farm: Essay Questions | Study Help | CliffsNotes",
+            "url": "https://www.cliffsnotes.com/literature/a/animal-farm/study-help/essay-questions"
+          },
+          {
+            "title": "Animal Farm: Study Guide | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/animalfarm/"
+          },
+          {
+            "title": "Animal Farm: Full Book Quiz: Quick Quiz | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/animalfarm/quiz/"
+          },
+          {
+            "title": "Animal Farm",
+            "url": "https://www.oxac.org/Downloads/Animal%20Farm%20Packet.pdf"
+          },
+          {
+            "title": "Copy of Animal Farm Socratic Seminar Questions (pdf) - CliffsNotes",
+            "url": "https://www.cliffsnotes.com/study-notes/20210880"
+          },
+          {
+            "title": "Animal Farm Study Guide | Literature Guide | LitCharts",
+            "url": "https://www.litcharts.com/lit/animal-farm"
+          },
+          {
+            "title": "Animal Farm Exam Answer Key | SuperSummary",
+            "url": "https://www.supersummary.com/animal-farm/exam-answer-key/"
+          },
+          {
+            "title": "Animal Farm: Book Summary | CliffsNotes",
+            "url": "https://www.cliffsnotes.com/literature/a/animal-farm/book-summary"
+          },
+          {
+            "title": "Animal Farm: Chapter 7 Summary & Analysis | CliffsNotes",
+            "url": "https://www.cliffsnotes.com/literature/a/animal-farm/summary-and-analysis/chapter-7"
+          },
+          {
+            "title": "Animal Farm Study Guide Questions Chapters 1-4 - The answers will be released on Wednesday. Context: - Studocu",
+            "url": "https://www.studocu.com/en-us/document/ridge-point-h-s/english-language-arts/animal-farm-study-guide-questions-chapters-1-4/92026704"
+          }
+        ]
+      },
+      "Based on the search results, I found several study resources for \"Animal Farm\" from major study guide providers, though the results don't show specific content related to Poland or Polish literature contexts. Here's what I found:\n\n## Major Study Guide Resources for \"Animal Farm\":\n\n### CliffsNotes offers free homework help on George Orwell's Animal Farm including book summary, chapter summary and analysis, quotes, essays, and character analysis. Their essay questions section includes:\n\n- Examining old Major's speech to the animals in Chapter 1 and discussing the ways in which he uses language to persuade his listeners\n- Explaining how one of the novel's minor characters (such as Mollie or Moses) illuminates Orwell's major themes and issues\n- Examining Orwell's tone when describing the way the animals think of themselves under Napoleon's rule\n- Explaining how the human characters contribute to the novel's themes and issues\n\n### SparkNotes Animal Farm Study Guide has everything you need to ace quizzes, tests, and essays, including:\n- General summaries\n- Chapter summaries\n- Explanations of famous quotes\n- A full book quiz for test preparation\n\n### LitCharts offers what they call \"the best study guide to Animal Farm on the planet\", featuring:\n- Historical and literary context\n- Quick-reference summary on a single page\n- In-depth summary and analysis of every chapter\n- Analysis and visualizations of themes\n- Important quotes sortable by theme, character, or chapter\n\n### SuperSummary offers Study Guides with detailed chapter summaries and analysis of major themes, characters, and more, as well as Teaching Guides with discussion and quiz questions.\n\nThe search results also show a reference to \"Animal Farm Socratic Seminar Questions\" from Dublin High School, suggesting the novel is used in high school curricula.\n\nHowever, the search didn't return specific results about:\n- Polish translations or editions of \"Animal Farm\"\n- How the novel is taught in Polish high schools\n- Polish literary criticism or context for the novel\n- Poland-specific study materials or exam questions\n\nThis could be because such materials might be primarily in Polish rather than English, or they may not be widely available in the indexed web content."
+    ],
+    "durationSeconds": 26.64614728000015
+  }
+}

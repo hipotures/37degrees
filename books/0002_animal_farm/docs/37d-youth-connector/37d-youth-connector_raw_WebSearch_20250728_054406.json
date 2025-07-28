@@ -1,0 +1,63 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Animal Farm\" Reddit memes \"all animals are equal\" \"some animals are more equal\" TikTok 2024"
+  },
+  "tool_response": {
+    "query": "\"Animal Farm\" Reddit memes \"all animals are equal\" \"some animals are more equal\" TikTok 2024",
+    "results": [
+      "I'll search for Animal Farm memes related to the famous quote \"all animals are equal, but some animals are more equal than others\" on Reddit and TikTok from 2024.",
+      {
+        "tool_use_id": "srvtoolu_01BMJJgFqZiwf62ZWgcsHg1C",
+        "content": [
+          {
+            "title": "\"All animals are equal, but some animals are more equal than others.\"  George Orwell,\u00a0Animal Farm #currentevents #usnews  | TikTok",
+            "url": "https://www.tiktok.com/@genxplorer/video/7321626455576775982"
+          },
+          {
+            "title": "George Orwell, Animal Farm",
+            "url": "https://www.pinterest.com/pin/all-animals-are-equal-but-some-animals-are-more-equal-than-others-george-orwell-animal-farm-in-2024--311874342960621232/"
+          },
+          {
+            "title": "My Quotation Meme - Animal Farm | \"All animals are equal, bu\u2026 | Flickr",
+            "url": "https://www.flickr.com/photos/venus_oak/3400978449"
+          },
+          {
+            "title": "\u00ab\u00a0All animals are equal, but some animals are more equal than others.\u00a0\u00bb Animal Farm, George Orwell #frenchriot  | TikTok",
+            "url": "https://www.tiktok.com/@santasolina/video/7261710645345766683"
+          },
+          {
+            "title": "George Orwell (author), said, 'All animals are equal, but some animals are more equal than others.' What does that mean? - Quora",
+            "url": "https://www.quora.com/George-Orwell-author-said-All-animals-are-equal-but-some-animals-are-more-equal-than-others-What-does-that-mean"
+          },
+          {
+            "title": "'All animals are equal, but some animals are more equal ...",
+            "url": "https://www.operaballet.nl/en/articles/all-animals-are-equal-some-animals-are-more-equal-others"
+          },
+          {
+            "title": "Animal Farm Fanart",
+            "url": "https://www.pinterest.com/pin/543598617499975153/"
+          },
+          {
+            "title": "The Origin and Meaning of \u2018All Animals Are Equal but Some Animals Are More Equal Than Others\u2019",
+            "url": "https://interestingliterature.com/2021/05/orwell-all-animals-are-equal-but-some-more-equal-than-others-meaning-analysis/"
+          },
+          {
+            "title": "All animals are equal, but some animals are more equal than others, George Orwell Animal Farm quote page number",
+            "url": "https://www.age-of-the-sage.org/george-orwell/quotes/all-animals-are-equal-than-others.html"
+          },
+          {
+            "title": "Animal Farm Quotes by George Orwell",
+            "url": "https://www.goodreads.com/work/quotes/2207778-animal-farm-a-fairy-story"
+          }
+        ]
+      },
+      "Based on the search results, I found several references to Animal Farm memes and content using the famous quote \"all animals are equal, but some animals are more equal than others\" on social media platforms in 2024:\n\n## TikTok Content\n\nTikTok videos have been created featuring the Animal Farm quote, including one from GenXplorer (@genxplorer) that uses the quote in relation to current events and US news. Another TikTok from santa Solina (@santasolina) also features the same quote with a #frenchriot hashtag.\n\n## Visual Content and Memes\n\nA Pinterest post from January 25, 2024 features a pig poster with the full quote \"All animals are equal, but some animals are more equal than others. ~ George Orwell, Animal Farm\".\n\nThere's also a Flickr meme compilation that uses the quote \"All animals are equal, but some animals are more equal than others\" from Animal Farm by George Orwell, though this appears to be from April 2025.\n\n## Cultural Impact\n\nThe search results show that the quote \"all animals are equal, but some animals are more equal than others\" remains one of the two most well-known quotations from Animal Farm (along with \"four legs good, two legs bad\"), known even by people who've never read the book.\n\nThe continued use of this quote in 2024 social media content, particularly on TikTok where it's being applied to current events and political situations, demonstrates the enduring relevance of Orwell's satirical critique of power and inequality. The meme culture around Animal Farm continues to use these quotes to comment on contemporary social and political issues."
+    ],
+    "durationSeconds": 18.930492523999884
+  }
+}

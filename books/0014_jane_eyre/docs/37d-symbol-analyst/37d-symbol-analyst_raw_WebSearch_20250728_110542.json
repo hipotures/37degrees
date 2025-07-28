@@ -1,0 +1,63 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Jane Eyre Charlotte Bront\u00eb Gothic symbolism fire red room Thornfield Hall academic analysis"
+  },
+  "tool_response": {
+    "query": "Jane Eyre Charlotte Bront\u00eb Gothic symbolism fire red room Thornfield Hall academic analysis",
+    "results": [
+      "I'll search for academic analysis of Gothic symbolism in Jane Eyre, specifically focusing on fire, the red room, and Thornfield Hall.",
+      {
+        "tool_use_id": "srvtoolu_01X5k8FaNkkBuuMiCvPcLKot",
+        "content": [
+          {
+            "title": "Symbols in Jane Eyre by Charlotte Bronte | Examples & Meaning - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/symbols-symbolism-in-jane-eyre.html"
+          },
+          {
+            "title": "The natural element fire: its symbolism and function in Charlotte Bronte's \"Jane Eyre\" - GRIN | Grin",
+            "url": "https://www.grin.com/document/82254?lang=en"
+          },
+          {
+            "title": "Decoding Symbolism in \u2018Jane Eyre\u2019: A Literary Analysis",
+            "url": "https://ficklesorts.com/decoding-symbolism-in-jane-eyre-a-literary-analysis/"
+          },
+          {
+            "title": "Jane Eyre Style, Form, and Literary Elements - eNotes.com",
+            "url": "https://www.enotes.com/topics/jane-eyre/in-depth/style-form-literary-elements"
+          },
+          {
+            "title": "Jane Eyre - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Jane_Eyre"
+          },
+          {
+            "title": "Jane Eyre by Charlotte Bront\u00eb | Audible.com",
+            "url": "https://www.audible.com/blog/summary-jane-eyre-by-charlotte-bronte"
+          },
+          {
+            "title": "Jane Eyre: Themes | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/janeeyre/themes/"
+          },
+          {
+            "title": "Inhabiting the Gothic in Jane Eyre - Hartford Stage",
+            "url": "https://www.hartfordstage.org/jane-eyre/stagenotes/inhabiting-the-gothic-in-jane-eyre/"
+          },
+          {
+            "title": "The Symbolic Significance of Thornfield Hall in Jane Eyre",
+            "url": "https://www.tometailor.com/articles/thornfield-hall-symbolism-jane-eyre"
+          },
+          {
+            "title": "Jane Eyre: Symbols | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/janeeyre/symbols/"
+          }
+        ]
+      },
+      "Based on the search results, I've found comprehensive academic analysis of Gothic symbolism in Jane Eyre, particularly focusing on fire, the red room, and Thornfield Hall. Here's a synthesis of the key findings:\n\n## Gothic Symbolism in Jane Eyre\n\n### The Red Room\n\nThe red room symbolizes the terrifying sense of Jane's internal nature, and her feeling of being imprisoned.(no content)The novel also utilizes symbolism, such as the red-room representing Jane's suffering and isolation.(no content)As a young child, Jane receives the punishment of being locked into what was known as \"the red room\" at Gateshead Hall. As Madeleine Wood writes in Enclosing Fantasies, \"[Her] gothicized episode in the red room [\u2026] represents an enclosure within patriarchy.\"(no content)The red-room's importance as a symbol continues throughout the novel. It reappears as a memory whenever Jane makes a connection between her current situation and that first feeling of being ridiculed. Thus she recalls the room when she is humiliated at Lowood.\n\n### Fire Symbolism\n\nThe symbolic representation of fire in relation to Jane Eyre's emotional journey. The multifaceted nature of fire symbolism: comfort, passion, destruction, and religious connotations.(no content)Bront\u00eb masterfully employs fire and ice as recurring symbols throughout Jane Eyre. Fire symbolizes warmth, passion, and sometimes destruction. Jane's spirited nature is often linked to fire, such as when she describes herself as having a \"strange fire\" within her. In contrast, ice represents emotional suppression and cruelty, embodied by characters like St. John Rivers, whose cold, logical demeanor contrasts sharply with Jane's fiery independence. The balance between these elements highlights Jane's journey toward self-discovery and emotional equilibrium.(no content)Throughout the novel, Jane describes her inner spirit as fiery, her inner landscape as a \"ridge of lighted heath\" (Chapter 4). Bertha seems to be the outward manifestation of Jane's interior fire.\n\n### Thornfield Hall\n\nThornfield Hall is a complex symbol in the novel, representing both a prison and a sanctuary for Jane. In Jane Eyre, Thornfield Hall is a powerful symbol that embodies the complexity of the human psyche, as well as the societal constraints imposed upon the characters. It represents both a prison and a sanctuary, reflecting the internal struggles and desires of Jane and Mr. Rochester. Through its Gothic atmosphere, mysterious secrets, and eventual destruction, Thornfield Hall serves as an integral facet of the novel that underscores the themes of love, independence, and self-discovery.(no content)With its hidden secrets and mysterious occurrences, Thornfield embodies the Gothic elements of the novel.(no content)This is vividly illustrated through the eerie presence of Thornfield Hall and its mysterious third-floor resident, alongside Jane's uncanny telepathic experiences and the dramatic interventions of nature, all of which contribute to the novel's haunting atmosphere.(no content)The Gothic manor of Thornfield Hall was probably inspired by North Lees Hall, near Hathersage in the Peak District in Derbyshire. This was visited by Charlotte Bront\u00eb and her friend Ellen Nussey in the summer of 1845, and is described by the latter in a letter dated 22 July 1845. It was the residence of the Eyre family, and its first owner, Agnes Ashurst, was reputedly confined as a lunatic in a padded second floor room.\n\n### The Destruction of Thornfield\n\nMoreover, fire serves as a transformative force. The fire that destroys Thornfield Hall, set by Bertha Mason, marks a pivotal moment of destruction and rebirth.(no content)Jane finds the house in ruins and learns that Bertha set it on fire months ago, and died jumping off the roof.(no content)And, when Thornfield comes to represent a state of servitude and submission for Jane, Bertha burns it to the ground.(no content)The fire that ultimately engulfs Thornfield Hall is a physical manifestation of the burning intensity of Rochester's emotions, as well as the destruction of his past. As the flames consume the estate, they also free Jane and Rochester from the confines of their previous lives, allowing them to forge a path together based on their love and mutual understanding.\n\n### Gothic Literary Tradition\n\nThroughout Jane Eyre, Charlotte Bronte uses symbols to infuse the novel with Gothic elements. Throughout the novel, symbols are used to infuse the novel with Gothic elements.(no content)Bront\u00eb's love romance incorporates elements of both the gothic novel and Elizabethan drama, and \"demonstrate[s] the flexibility of the romance novel form.\" The Gothic genre uses a combination of supernatural features, intense emotions, and a blend of reality and fantasy to create a dark, mysterious atmosphere and experience for characters and readers. Jane Eyre is a homodiegetic narrator, which allows her to exist both as a character and narrator in the story world, and her narration establishes an emotional connection and response for the reader. This intentional, narrative technique works in tandem with Gothic features and conventions.(no content)The protagonist of Charlotte Bront\u00eb's Jane Eyre inhabits, as the author herself did, a world that is Victorian yet deeply imbued by the Gothic. Jane's \"autobiography\" concerns itself both with Victorian morality and Gothic horror. Jane contemplates Victorian society's mores while considering what is and is not truly moral. She finds herself surrounded by Gothic horror: the mysteries she faces may be supernatural or based in a sinister reality.\n\nThis academic analysis reveals how Bront\u00eb uses Gothic symbolism to explore themes of imprisonment, passion, transformation, and female agency within the constraints of Victorian society."
+    ],
+    "durationSeconds": 60.996594931000025
+  }
+}

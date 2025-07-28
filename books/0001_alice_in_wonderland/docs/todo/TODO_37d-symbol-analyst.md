@@ -3,13 +3,14 @@ Book: Alicja w Krainie Czarów (Alice in Wonderland) by Lewis Carroll (1865)
 Location: books/0001_alice_in_wonderland/
 
 ## Primary Tasks
-- [ ] Analyze the rabbit hole as a symbol of transformation and puberty
-- [ ] Interpret size changes as metaphors for growing up and identity
-- [ ] Decode the Cheshire Cat's philosophical meanings across cultures
-- [ ] Examine the Mad Tea Party as social commentary
-- [ ] Research the Queen of Hearts as authority figure symbolism
-- [ ] Study playing cards as symbols of social hierarchy
-- [ ] Analyze food/drink symbols (Eat Me, Drink Me) and control
+- [x] Analyze the rabbit hole as a symbol of transformation and puberty ✓ (2025-07-28 14:00)
+- [x] Interpret size changes as metaphors for growing up and identity ✓ (2025-07-28 14:00)
+- [x] Decode the Cheshire Cat's philosophical meanings across cultures ✓ (2025-07-28 14:00)
+- [x] Examine the Mad Tea Party as social commentary ✓ (2025-07-28 14:00)
+- [x] Research the Queen of Hearts as authority figure symbolism ✓ (2025-07-28 14:00)
+- [x] Study playing cards as symbols of social hierarchy ✓ (2025-07-28 14:00)
+- [x] Analyze food/drink symbols (Eat Me, Drink Me) and control ✓ (2025-07-28 16:10)
+- [x] Research contemporary 2020-2025 feminist and postcolonial interpretations ✓ (2025-07-28 17:30)
 
 ## Search Focus Areas
 1. **Psychoanalytic Interpretations**: Freudian/Jungian analyses, coming-of-age symbols

@@ -1,0 +1,63 @@
+{
+  "session_id": "e18f7f1c-5883-41e4-8ef9-15aee4aa266b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e18f7f1c-5883-41e4-8ef9-15aee4aa266b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Great Gatsby\" film adaptations 1926 1949 1974 2013 documentary sources multimedia bibliography"
+  },
+  "tool_response": {
+    "query": "\"Great Gatsby\" film adaptations 1926 1949 1974 2013 documentary sources multimedia bibliography",
+    "results": [
+      "I'll search for information about the various film adaptations of \"The Great Gatsby\" from 1926, 1949, 1974, and 2013, along with documentary sources and multimedia bibliography.",
+      {
+        "tool_use_id": "srvtoolu_01MQP1So9j1WuEYHVHfoKsqd",
+        "content": [
+          {
+            "title": "Every Great Gatsby Movie, Compared: 2013, 1974, 1949 \u00b7 PrepScholar",
+            "url": "https://blog.prepscholar.com/the-great-gatsby-movies"
+          },
+          {
+            "title": "The Great Gatsby (2013 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Great_Gatsby_(2013_film)"
+          },
+          {
+            "title": "The Great Gatsby - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+          },
+          {
+            "title": "The Great Gatsby (1974 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Great_Gatsby_(1974_film)"
+          },
+          {
+            "title": "Adaptations of The Great Gatsby - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Adaptations_of_The_Great_Gatsby"
+          },
+          {
+            "title": "The Great Gatsby (1926 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Great_Gatsby_(1926_film)"
+          },
+          {
+            "title": "The Great Gatsby (1949) \u2b50 6.5 | Drama, Mystery, Romance",
+            "url": "https://www.imdb.com/title/tt0041428/"
+          },
+          {
+            "title": "The Great Gatsby (1949 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Great_Gatsby_(1949_film)"
+          },
+          {
+            "title": "The Great Gatsby: Now (And Then) A Major Motion Picture",
+            "url": "https://americanfilm.afi.com/issue/2013/5/cover-story"
+          },
+          {
+            "title": "Category:Films based on The Great Gatsby - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Category:Films_based_on_The_Great_Gatsby"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about the film adaptations of \"The Great Gatsby\" from 1926, 1949, 1974, and 2013, along with documentary sources and multimedia bibliography.\n\n## Film Adaptations of The Great Gatsby\n\n### 1926 Silent Film\nThe Great Gatsby is a 1926 American silent drama film directed by Herbert Brenon. It was the first film adaptation of the 1925 novel of the same name by F. Scott Fitzgerald. Warner Baxter portrayed Jay Gatsby, Lois Wilson portrayed Daisy Buchanan and Neil Hamilton portarayed Nick Carraway. The film was produced by Famous Players\u2013Lasky, and distributed by Paramount Pictures.(no content)The Great Gatsby is now considered lost. However, A vintage movie trailer displaying short clips of the film still exists. A trailer survives and is one of the 50 films in the three-disc, boxed DVD set More Treasures from American Film Archives, 1894-1931 (2004), compiled by the National Film Preservation Foundation from five American film archives. The trailer is preserved by the Library of Congress (AFI/Jack Tillmany collection) and has a running time of one minute.\n\n### 1949 Film\nThe Great Gatsby is a 1949 American historical romance drama film directed by Elliott Nugent, and produced by Richard Maibaum, from a screenplay by Richard Maibaum and Cyril Hume. The film stars Alan Ladd, Betty Field, Macdonald Carey, Ruth Hussey, and Barry Sullivan, and features Shelley Winters and Howard Da Silva, the latter of whom returned in the 1974 version. It is based on the 1925 novel The Great Gatsby by F. Scott Fitzgerald.(no content)In 2012, Alan K. Rode of the Film Noir Foundation, which searches for rare or missing prints in the hopes of preserving films for future generations, contacted Universal Pictures and urged them to create a new print. After locating the film in their archives, Universal struck a new print, which premiered at the Noir City Festival in San Francisco and at Grauman's Egyptian Theatre in Hollywood in 2012.\n\n### 1974 Film\nThe Great Gatsby was preceded by 1926 and 1949 films of the same name. Despite a mixed reception by critics, the 1974 film grossed over $26 million against a $7 million budget.(no content)It was directed by Jack Clayton and starred Robert Redford as Gatsby, Mia Farrow as Daisy, and Sam Waterston as Nick Carraway.(no content)Truman Capote was the original screenwriter but he was replaced by Francis Ford Coppola. Coppola had just finished directing The Godfather, but was unsure of its commercial reception and he needed the money.(no content)The film won two Academy Awards, for Best Costume Design (Theoni V. Aldredge) and Best Music (Nelson Riddle). It also won three BAFTA Awards for Best Art Direction (John Box), Best Cinematography (Douglas Slocombe), and Best Costume Design (Theoni V. Aldredge).\n\n### 2013 Film\nThe Great Gatsby is a 2013 historical romantic drama film based on the 1925 novel by F. Scott Fitzgerald. The film was co-written and directed by Baz Luhrmann and stars an ensemble cast consisting of Leonardo DiCaprio, Tobey Maguire, Carey Mulligan, Joel Edgerton, Isla Fisher, Jason Clarke, and Elizabeth Debicki.(no content)Filming took place from September to December 2011 in Australia, with a $105 million net production budget.(no content)A polarizing film among critics, The Great Gatsby received both praise and criticism for its visual style, direction, screenplay, performances, soundtrack, and interpretation of the source material.\n\n## Other Adaptations\n\n### Television Adaptations\nTelevision adaptations have included episodes on NBC's Robert Montgomery Presents in 1955 and CBS's Playhouse 90 in 1958, as well as a low-budget 2000 interpretation.(no content)Gatsby has been recast multiple times as a short-form television movie. The first was in 1955 as an NBC episode for Robert Montgomery Presents starring Robert Montgomery, Phyllis Kirk, and Lee Bowman.\n\n### Stage Adaptations\nThe play opened at the Ambassador Theatre on Broadway on February 2, 1926, directed by future motion picture auteur George Cukor and starring James Rennie as Jay Gatsby, Florence Eldridge as Daisy Buchanan, and Ned Wever as Nick Carraway. The production delighted audiences and garnered rave reviews. Paused when its lead actor James Rennie traveled to the United Kingdom to visit an ailing family member, the run was extended past the originally scheduled closing date, finally ending on May 22, after 112 performances.\n\n### Multimedia and Other Adaptations\nThe novel has also inspired ballets and operas, with a notable performance by the New York Metropolitan Opera.(no content)In 2010, Oberon Media released a casual hidden object game called Classic Adventures: The Great Gatsby. In 2011, developer Charlie Hoey and editor Pete Smith created an 8-bit-style online game of The Great Gatsby called The Great Gatsby for NES. In 2022, after the Adobe Flash end of life, they adapted this game to an actual NES ROM file, which can also be played on their website. In 2013, Slate released a short symbolic adaptation called The Great Gatsby: The Video Game.\n\n## Documentary and Archival Sources\n\nThe search results mention several important archival and documentary sources:\n\n1. More Treasures from American Film Archives, 1894-1931 (2004) - A three-disc DVD set that includes the surviving trailer of the 1926 film.\n\n2. The trailer was featured on the Blu-ray released by Warner Home Video of director Baz Luhrmann's 2013 adaptation of The Great Gatsby as a special feature.\n\n3. The novel's entry into the public domain in 2021 sparked renewed interest in the material, leading to adaptations in new mediums such as graphic novels and video games.\n\nThe various film adaptations have taken different approaches to Fitzgerald's novel, with the 1949 movie emphasizes Gatsby's criminal enterprises and can almost read like a morality tale, while the later versions focused more on the visual spectacle and period details of the Jazz Age setting."
+    ],
+    "durationSeconds": 60.135577812999486
+  }
+}

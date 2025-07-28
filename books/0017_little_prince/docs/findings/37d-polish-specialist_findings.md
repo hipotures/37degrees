@@ -1,157 +1,138 @@
-# 37d-polish-specialist Research Findings: Mały Książę
-Date: 2025-07-27 12:30
+## Task: Research Polish Reception of "Mały Książę" by Antoine de Saint-Exupéry
+Date: 2025-07-28 14:30
 
-## Book Overview
-- **Title**: Mały Książę (The Little Prince)
-- **Author**: Antoine de Saint-Exupéry
-- **Original Year**: 1943
-- **Polish Context**: Philosophical fairy tale with deep cultural resonance in Poland
+### Polish Translation History
 
----
-
-## 1. Polish Translation History
-
-### Marta Malicka - Pionierka (1947)
-- **First Polish Translation**: Marta Malicka, 1947
+#### First Translation
+- **Year**: 1947 [1]
+- **Translator**: Marta Malicka
 - **Publisher**: Spółdzielnia Wydawnicza "Płomienie", Warsaw
-- **Historical Significance**: Polish was the FIRST language worldwide to translate "The Little Prince" (excluding English, published days before French edition)
-- **Post-War Context**: Published just two years after WWII ended, making it available to Polish readers during reconstruction period
+- **Title**: "Mały Książę"
+- **Notes**: Remarkably, this was the second translation of The Little Prince in the world (after English), making Polish one of the first languages to receive the book just two years after WWII ended
 
-### Jan Szwykowski - Dominująca Wersja
-- **Most Popular Translation**: Jan Szwykowski's version has over 50 editions (as of 2024)
-- **First Szwykowski Edition**: 1958, Instytut Wydawniczy PAX
-- **Cultural Impact**: His version contains the quotes most frequently repeated by Poles
-- **Publishing Success**: Multiple editions through PAX: 1967, 1968, 1969, 1970, 1971, 1972, 1976, 1981, 1985 with print runs of 20,000-80,000 copies
+#### Subsequent Translations
+1. 1958 - Jan Szwykowski - Pax Publishing Institute [2]
+   - Changes: Opening line "Gdy miałem sześć lat, widziałem pewnego razu wspaniały obrazek..."
+   - Reception: Became the most popular and widely used Polish translation
+2. 1967 - Jan Szwykowski (revised) - Pax Publishing Institute [3]
+   - Changes: Minor revision changing "widziałem" to "zobaczyłem" in opening line
+   - Reception: Continued as standard Polish version through at least 13 editions by 1990
 
-### Contemporary Translations
-- **Total Polish Translations**: Over 20 versions, including regional dialects
-- **Recent Addition**: Agata Kozak's translation for Wolne Lektury (online library)
-- **Translation Diversity**: Multiple translators including Marta Cywińska, Halina Kozioł, Barbara Przybyłowska, Piotr Drzymała, Wiera and Zbigniew Bieńkowscy
+#### Translation Legacy
+- **Total Translators**: Over 20 translators have worked on Polish versions [4]
+- **Most Popular**: Jan Szwykowski's version with over 50 editions as of 2024
+- **Regional Variations**: Translated into Kashubian (2018), Lemko, Prussian, and Poznań dialect
+- **Current Standard**: Szwykowski's translation remains the most recognized
 
----
+### Educational Status
 
-## 2. Reception in Communist Poland (PRL)
+#### Curriculum Presence
+- **Status**: Lektura obowiązkowa (mandatory reading) [5]
+- **Grade Levels**: Classes 7-8 of primary school (ages 13-15)
+- **Since**: Long-standing presence in Polish curriculum
+- **Study Focus**: Love, friendship, responsibility, philosophical themes about human nature
 
-### PAX Publishing - Unique Position
-- **Publisher**: Instytut Wydawniczy PAX (Catholic-oriented, communist-collaborating)
-- **Strategic Importance**: PAX had nearly monopolistic rights for Catholic publications in PRL
-- **Cultural Bridge**: Allowed philosophical/spiritual literature to reach Polish readers during heavy censorship
-- **1976 Edition**: Significant PAX publication demonstrating book's acceptance by authorities
+#### Educational Value
+- Universal story about love, friendship, trust, and care for others
+- Teaches respect for people, animals, plants, and nature
+- Encourages reflection on important life themes
+- Ideal for classroom discussion of values and relationships
 
-### Historical Context
-- **Pre-Translation Availability**: Full text published in "Kierunki" magazine (August 12, 1956) before Szwykowski's translation
-- **Censorship Tolerance**: Book's philosophical nature made it acceptable to communist censors
-- **Educational Value**: Promoted as children's literature with moral teachings
+### Polish Exam History
 
----
+#### Egzamin Ósmoklasisty Appearances
+- **2025**: Students could reference the book when discussing friendship themes [6]
+- **2020**: Fragment of the book was quoted with comprehension questions
+- **2019**: Appeared in exam with questions about character relationships [7]
 
-## 3. Polish Educational Context
+#### Sample Questions
+- "Referring to the entire work, write why the Little Prince decided to leave the Rose"
+- "Which character from required reading other than The Little Prince turned out to be a true friend?"
+- True/False: "The Pilot and the Little Prince decided to search for a well because they ran out of water"
 
-### Mandatory Reading Status
-- **Current Curriculum**: Listed as mandatory reading (podstawa programowa) for elementary schools
-- **Grade Level**: Grades VII-VIII (ages 13-15)
-- **Implementation**: Part of updated curriculum effective from 2021/2022 school year
-- **Educational Positioning**: First mandatory reading on some school lists
+#### CKE Materials
+- March 2020: CKE prepared revision sets with 2 texts and 12 tasks for "Mały Książę" [8]
+- Educational worksheets with 13 original exam-style tasks available
 
-### Academic Reception
-- **Literary Classification**: Recognized as "filozoficzna baśń" (philosophical fairy tale)
-- **Educational Values**: Teaches respect for people, animals, nature; promotes reflection on life's meaning
-- **Universal Themes**: Love, friendship, trust, care for others
+### Polish Critical Reception
 
----
+#### Academic Perspective
+- **Literary Status**: Recognized as both children's literature and philosophical work for adults
+- **Universal Appeal**: Praised for revealing philosophical truths in child-accessible language
+- **Themes**: Love, friendship, responsibility - considered particularly relevant in modern materialistic society
+- **Critical Assessment**: Valued for its timeless message about human connections over material pursuits
 
-## 4. Polish Cultural Connections & Artistic Interpretations
+#### Reader Engagement
+- Multi-generational appeal - children see magical adventure, adults see philosophical depth
+- Considered essential reading that "stays with the reader longer, doesn't let itself be forgotten"
+- Readers often return to the book multiple times throughout life, discovering new meanings
 
-### Theater Adaptations
-- **Teatr Polski, Warsaw**: Directed by Konrad Dworakowski, featuring innovative set design and film projections
-- **Cyber Musical "Pilot i Mały Książę"**: First Polish-Broadway collaboration in musical theater
-- **Cast**: "Cream of Polish musical artists" including Rafał Szatan, Kaja Mianowana, Marta Florek
-- **Visual Effects**: Platige Image (25+ years experience in Polish VFX)
+### Reader Reception
 
-### Regional Productions
-- **Teatr Polski, Wrocław**: Adaptation by Marzena Sadocha
-- **Teatr Mickiewicz, Częstochowa**: Translation and direction by Agnieszka Baranowska
-- **Teatr Nowy, Zabrze**: Directed by Cezary Domagała
-- **Teatr Piasku**: Unique sand art interpretation by Tetiany Galitsyna
+#### Lubimyczytać.pl Statistics [9]
+- **Ratings**: Various editions range from 8.0 to 10.0 average ratings
+- **Popular Tags**: Philosophy, fairy tale, friendship, responsibility
+- **Reader Comments**: "Everyone - regardless of age - should read it. It prompts reflection"
 
----
+#### Review Sentiment Analysis
+- **Positive Themes**: Universal wisdom, beautiful illustrations, philosophical depth
+- **Educational Value**: "This book will teach you more about life than many philosophy textbooks"
+- **Emotional Impact**: Readers express regret at not reading it earlier in life
 
-## 5. Contemporary Polish Youth & Social Media
+### Polish Cultural Impact
 
-### BookTok Poland
-- **Growing Community**: #booktokpolska has 420+ million views on TikTok
-- **Youth Engagement**: Actively promotes reading among Polish teenagers
-- **Key Influencers**: Karolina (@come.book), @bookovicz, Emilka (@mrukbooki)
-- **Cultural Impact**: Emotional connection over formal reviews, positive reading environment
+#### Literary Influence
+- **Translation Significance**: First major language to receive translation after English/French [10]
+- **Cultural Presence**: Quotes widely used on posters, clothing, social media
+- **Life Philosophy**: Many Poles adopt quotes as personal mottos
 
-### Digital Reading Culture
-- **Modern Approach**: Polish youth engage with literature through TikTok/Instagram
-- **Book Recommendations**: Part of broader international BookTok trends
-- **Reading Lifestyle**: Bookhauls, rankings, shelf arrangements shared online
+#### Cultural Presence
+- **Common Phrases**: "Najważniejsze jest niewidoczne dla oczu" (What is essential is invisible to the eyes)
+- **Responsibility Quote**: "Jesteś odpowiedzialny za to, co oswoiłeś" (You are responsible for what you have tamed)
+- **Educational Impact**: Fundamental part of Polish literary education for generations
 
----
+### Polish Adaptations
 
-## 6. Polish Language & Cultural Nuances
+#### Theater [11]
+- **Major Productions**:
+  - 2023 - Teatr Polski Warsaw - Director: Konrad Dworakowski (May 19 premiere)
+  - 2024 - Teatr Nowy Zabrze - Director: Cezary Domagała (February 17 premiere)
+  - 2024 - Teatr Lalek Banialuka - Director: Filip Jaśkiewicz (April 14 premiere)
+- **Historical**: First TV adaptation 1958 directed by Jerzy Gruza
+- **Widespread**: Adapted by virtually every type of Polish theater over decades
 
-### Iconic Polish Quotes (Szwykowski Translation)
-- **Core Philosophy**: "Dobrze widzi się tylko sercem, najważniejsze jest niewidoczne dla oczu"
-- **About Friendship**: "Ludzie mają zbyt mało czasu, aby cokolwiek poznać. Kupują w sklepach rzeczy gotowe. A ponieważ nie ma magazynów z przyjaciółmi, więc ludzie nie mają przyjaciół"
-- **Responsibility**: "Na zawsze ponosisz odpowiedzialność za to, co oswoiłeś"
-- **Perception**: "Lecz oczy są ślepe. Szukać należy sercem"
+#### Other Media
+- **Radio**: Teatr Polskiego Radia adaptation premiered April 8, 2023 (80th anniversary)
+- **Film**: Educational materials for 2015 animated film available through Polish platforms
+- **Cultural Events**: Regular theatrical productions across major Polish cities
 
-### Cultural Interpretation
-- **Polish Philosophical Resonance**: Emphasis on emotional intelligence over material pursuits
-- **Post-War Context**: Themes of rebuilding relationships and values
-- **Modern Relevance**: Counter-narrative to consumer culture and rush of modern life
+### Youth Engagement
 
----
+#### Educational Materials [12]
+- **Bryk.pl**: Comprehensive study guides and literary analysis available
+- **Edudu.pl**: Educational films and teaching materials for various school levels
+- **ZPE.gov.pl**: Government platform offers free educational materials
+- **Popular Topics**: Symbolism, adult perspectives, philosophical themes
 
-## 7. Publishing Success & Commercial Impact
+#### Study Resources
+- **Analysis Focus**: Character relationships, philosophical themes, symbolism
+- **Student Essays**: Common topics include responsibility, friendship, critique of adult world
+- **Exam Preparation**: Regular appearance in 8th-grade exams requires thorough preparation
 
-### Sales & Distribution
-- **Global Context**: 140+ million copies sold worldwide, translated into 270+ languages
-- **Polish Market**: Regular bestseller status in Polish bookstores
-- **Multiple Editions**: Available from various Polish publishers (Ibis, SBM, others)
-- **Market Position**: Part of 4 billion PLN annual book market in Poland
+### Key Insights for Polish Youth
 
-### Publisher Diversity
-- **Historical**: PAX (communist era)
-- **Contemporary**: Multiple publishers offering different editions
-- **Digital Access**: Available through Wolne Lektury (free online library)
-- **Educational**: Special editions with study guides for schools
+"Mały Książę" holds unique significance for Polish teenagers as both a nostalgic childhood memory and a profound philosophical text they encounter in their educational journey. The book's presence in Polish culture spans nearly 80 years, making it a shared cultural reference point across generations. For Polish youth engaging with @37stopni content, the book represents a bridge between childhood wonder and adult wisdom - themes that resonate strongly in TikTok's format of quick, meaningful insights. The emphasis on seeing with the heart rather than eyes, taking responsibility for relationships, and questioning adult priorities aligns perfectly with young people's search for authenticity and meaning in an increasingly digital world.
 
----
-
-## Unique Polish Perspectives
-
-### Historical Significance
-- **Translation Pioneer**: Poland among first countries to translate the work
-- **Survival Through Regimes**: Maintained popularity from post-war through communist to democratic Poland
-- **Cultural Continuity**: Bridge between generations of Polish readers
-
-### Contemporary Relevance for Polish Youth
-- **TikTok Generation**: Finding new audiences through social media
-- **Educational Integration**: Mandatory status ensures continued exposure
-- **Theater Innovation**: Modern adaptations keep story relevant
-- **Philosophical Appeal**: Resonates with Polish intellectual traditions
-
-### Polish Cultural Values Alignment
-- **Community Over Individualism**: Fox's lessons about friendship and responsibility
-- **Spiritual Over Material**: Traditional Polish Catholic values reflected
-- **Generational Wisdom**: Respect for deeper truths beyond surface appearances
-- **Emotional Intelligence**: "Seeing with heart" resonates with Polish romantic tradition
-
----
-
-## Conclusion for Polish Audience
-
-"Mały Książę" holds unique significance in Polish culture as one of the world's first translations, maintaining relevance across political systems from post-war reconstruction through communist era to modern democracy. Its presence in mandatory school curriculum, vibrant theater scene, and emerging BookTok culture demonstrates its continued evolution in Polish cultural consciousness.
-
-For Polish youth (10-20 years), the book offers:
-- Philosophical depth without pretension
-- Quotable wisdom perfect for social media
-- Cultural connection to Polish intellectual traditions
-- Universal themes relevant to modern challenges
-- Bridge between academic requirements and personal discovery
-
-The work's journey from Marta Malicka's pioneering 1947 translation through Jan Szwykowski's dominant version to contemporary digital platforms illustrates its enduring Polish cultural impact and continued relevance for new generations.
+### Citations:
+[1] Antykwariat Sobieski, "SAINT-EXUPERY - MAŁY KSIĄŻĘ wyd.1, 1947r.", https://antyksobieski.pl/de-saint-exupery-maly-ksiaze-wyd-i-1947r-18128.html
+[2] Malyksiaze.net, "Tłumaczenie według Jana Szwykowskiego", https://malyksiaze.net/pl/o-ksiazce/ciekawostki-z-polskich-wydan/tlumaczenie-wedlug-jana-szwykowskiego
+[3] Wikipedia, "Mały Książę", https://pl.wikipedia.org/wiki/Mały_Książę
+[4] Antykwariat Sobieski blog, "Mały książę rządzi", https://antyksobieski.pl/blog/maly-ksiaze-rzadzi
+[5] Empik Pasje, "Lektury obowiązkowe 2024/2025", https://www.empik.com/pasje/lektury-obowiazkowe-2024-2025-lista-tytulow,134892,a
+[6] Gazeta Krakowska, "Egzamin ósmoklasisty POLSKI", https://gazetakrakowska.pl/egzamin-osmoklasisty-polski-arkusze-odpowiedzi-zadania-maly-ksiaze-na-egzaminie-osmoklasisty-z-jezyka-polskiego-18042019-r/ar/c5-14050717
+[7] Dziennik Zachodni, "Egzamin ósmoklasisty 2019", https://dziennikzachodni.pl/egzamin-osmoklasisty-2019-jezyk-polski-arkusze-cke-odpowiedzi-maly-ksiaze-i-poczatki-kina-16-04-2019/ar/c5-14047473
+[8] Dlaucznia.info, "Zadanie 1 / Powtórka z polskiego", https://testy.dlaucznia.info/s/5026/81093-jezyk-polski-zadania/4990408-Powtorka-z-polskiego-Maly-Ksiaze-Antoinea-de-Saint-Exuperyego-oraz-Maly-Ksiaze-odnaleziony-Jean.htm
+[9] Lubimyczytać.pl, "Mały Książę - Antoine de Saint-Exupéry", https://lubimyczytac.pl/ksiazka/5171240/maly-ksiaze
+[10] Cultural analysis based on multiple sources
+[11] E-teatr.pl and Encyklopedia teatru polskiego, various theater production listings
+[12] Bryk.pl, Edudu.pl, ZPE.gov.pl educational materials

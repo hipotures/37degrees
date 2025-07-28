@@ -1,0 +1,109 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Teresa \u015awiderska \"Jane Eyre\" t\u0142umaczka 1930 biografia wydanie pierwsze Polski"
+  },
+  "tool_response": {
+    "query": "Teresa \u015awiderska \"Jane Eyre\" t\u0142umaczka 1930 biografia wydanie pierwsze Polski",
+    "results": [
+      "I'll search for information about Teresa \u015awiderska, the Polish translator of \"Jane Eyre\" from 1930.",
+      {
+        "tool_use_id": "srvtoolu_017ppcM3XPh8XJgzuFcfWHtn",
+        "content": [
+          {
+            "title": "Teresa \u015awiderska \u2013 Prismatic Jane Eyre",
+            "url": "https://prismaticjaneeyre.org/teresa-swiderska/"
+          },
+          {
+            "title": "Teresa \u015awiderska (t\u0142umaczka ksi\u0105\u017cki \"Waverley\") - nakanapie.pl",
+            "url": "https://nakanapie.pl/autorzy/swiderska-teresa"
+          },
+          {
+            "title": "ANGLOFILIA #3: Jane, \u017banetka czy Janina? Historyja pierwszego t\u0142umaczenia najs\u0142ynnejszej powie\u015bci Charlotty Bront\u00eb ~ Rozkminy Hadyny",
+            "url": "http://rozkminyhadyny.blogspot.com/2016/04/jane-zanetka-czy-janina-historyja.html"
+          },
+          {
+            "title": "Autor:Teresa \u015awiderska - Wiki\u017ar\u00f3d\u0142a, wolna biblioteka",
+            "url": "https://pl.wikisource.org/wiki/Autor:Teresa_%C5%9Awiderska"
+          },
+          {
+            "title": "Teresa \u015awiderska t\u0142umacz | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/tlumacz/12836/teresa-swiderska"
+          },
+          {
+            "title": "Znajd\u017a wymarzon\u0105 ksi\u0105\u017ck\u0119: Dziwne losy Jane Eyre - Charlotte Bront\u00eb [Nowe wydanie]",
+            "url": "http://wymarzona-ksiazka.blogspot.com/2018/05/dziwne-losy-jane-eyre-charlotte-bronte.html"
+          },
+          {
+            "title": "Teresa \u015awiderska \u2013 Esensjopedia",
+            "url": "https://esensja.pl/esensjopedia/obiekt.html?rodzaj_obiektu=11&idobiektu=29752"
+          },
+          {
+            "title": "Jane Eyre - t\u0142umaczenia &bull forum czytelnik\u00f3w ksi\u0105\u017cek &raquo; BiblioNETka.pl",
+            "url": "https://www.biblionetka.pl/art.aspx?id=502603"
+          },
+          {
+            "title": "Between sentimentality and feminism in Teresa \u015awiderska\u2019s and Gabriela Jaworska\u2019s Polish translations of Charlotte Bront\u00eb\u2019s Jane Eyre",
+            "url": "https://ruj.uj.edu.pl/xmlui/handle/item/216737"
+          },
+          {
+            "title": "S\u0301widerska, Teresa [WorldCat Identities]",
+            "url": "http://worldcat.org/identities/viaf-101833587/"
+          }
+        ]
+      },
+      "Let me search for more specific information about the first Polish edition and publisher details.",
+      {
+        "tool_use_id": "srvtoolu_016eYka3m5ZFiJfjQib5RwbL",
+        "content": [
+          {
+            "title": "Dziwne losy Jane Eyre - Charlotte Bront\u00eb | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/4968674/dziwne-losy-jane-eyre"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre",
+            "url": "https://wolnelektury.pl/katalog/lektura/bronte-dziwne-losy-jane-eyre/"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Dziwne_losy_Jane_Eyre"
+          },
+          {
+            "title": "\u201eDziwne losy Jane Eyre\u201d Charlotte Bront\u00eb na Wolnych Lekturach",
+            "url": "https://fundacja.wolnelektury.pl/2023/09/28/dziwne-losy-jane-eyre-charlotte-bronte-na-wolnych-lekturach/"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre - Charlotte Bront\u00eb",
+            "url": "https://wolnelektury.pl/katalog/lektura/bronte-dziwne-losy-jane-eyre.html"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre | Wydawnictwo \u015awiat Ksi\u0105\u017cki",
+            "url": "https://wydawnictwoswiatksiazki.pl/tytul/dziwne-losy-jane-eyre/"
+          },
+          {
+            "title": "Jane Eyre. Autobiografia - sztukater.pl",
+            "url": "https://sztukater.pl/ksiazki/jane-eyre.html"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre",
+            "url": "https://www.empik.com/dziwne-losy-jane-eyre-bronte-charlotte,p1267172260,ksiazka-p"
+          },
+          {
+            "title": "ANGLOFILIA #3: Jane, \u017banetka czy Janina? Historyja pierwszego t\u0142umaczenia najs\u0142ynnejszej powie\u015bci Charlotty Bront\u00eb ~ Rozkminy Hadyny",
+            "url": "http://rozkminyhadyny.blogspot.com/2016/04/jane-zanetka-czy-janina-historyja.html"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre - Charlotte Bronte - ebook - Legimi online",
+            "url": "https://www.legimi.pl/ebook-dziwne-losy-jane-eyre-bronte-charlotte,b657886.html"
+          }
+        ]
+      },
+      "Based on my search results, I've found comprehensive information about Teresa \u015awiderska and her Polish translation of \"Jane Eyre\" from 1930. Here's what I discovered:\n\n## Teresa \u015awiderska - Biography and Work\n\nTeresa \u015awiderska was a Polish translator from English and author of children's literature. Her Jane Eyre translation was published in 1930, under the title \"Dziwne losy Jane Eyre\" (The Strange Fates of Jane Eyre).\n\n### Other Translations\nBesides Jane Eyre, her other translations include Walter Scott's Waverley, Rob Roy, and The Bride of...(no content)Waverley was published in Polish between 1953 and 2021, though the original translation appears to be from 1929.\n\n### The 1930 Polish Edition\nThe basis for modern publications is the Polish translation by Teresa \u015awiderska from 1930. This translation has an interesting history:\n\n1. **Translation Characteristics**: The translation now seems decidedly dated, as it was created in 1930. The translation was not a direct, complete rendering of the original:\n   - The Jane Eyre hiding under the familiar name Janina is very, very shortened. More precisely, by 37% of the original's length\n   - Cuts and summaries appear mainly in the first and final parts of the novel, specifically the years of the heroine's youth spent with the Reed family and at school in Lowood, as well as the stay at Moore House\n\n2. **Stylistic Changes**: The most important features of this translation include an incredible amount of paraphrases, cuts and omissions, especially in descriptions and places where the sophistication of the text went beyond the poetics of naive Gothic romance. At times the content is reorganized, and the language, in addition to significant simplification, is permeated with sentimentalism. This mainly involves a huge amount of added exclamations and question marks, not to mention dramatic ellipses.\n\n### Publication History\nAccording to WorldCat, \"Dziwne losy Jane Eyre: powie\u015b\u0107 by Charlotte Bront\u00eb\" had 3 editions published between 1930 and 1976 in Polish. The translation has been used in various modern editions, including those by Wolne Lektury (Free Readings) foundation.\n\n### Earlier Translation - \"Janina\" (1881)\nInterestingly, Teresa \u015awiderska's 1930 translation was not the first Polish translation of Jane Eyre. There was an earlier translation by Emilia Dobrza\u0144ska from 1881, titled simply \"Janina\", which was even more heavily adapted than \u015awiderska's version.\n\n### Legacy\nBoth Ida Borejko (a character from Ma\u0142gorzata Musierowicz's novel) and Musierowicz herself likely read the same version of this Victorian classic from 1847 in Teresa \u015awiderska's translation, showing its lasting influence on Polish readers across generations.\n\nThe translation remains in use today, though its dated language and significant adaptations have led to discussions about the need for newer, more faithful translations of this classic work."
+    ],
+    "durationSeconds": 40.89926559699979
+  }
+}

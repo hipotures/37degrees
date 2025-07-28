@@ -1,0 +1,63 @@
+{
+  "session_id": "bb5bd92f-2e06-46b2-9b84-f65c0578b080",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/bb5bd92f-2e06-46b2-9b84-f65c0578b080.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Little Prince\" video games apps VR experiences interactive media digital adaptations"
+  },
+  "tool_response": {
+    "query": "\"Little Prince\" video games apps VR experiences interactive media digital adaptations",
+    "results": [
+      "I'll search for information about \"Little Prince\" digital adaptations including video games, apps, VR experiences, and interactive media.",
+      {
+        "tool_use_id": "srvtoolu_0157RMe5pv8B134Zr3qmvkxE",
+        "content": [
+          {
+            "title": "The Little Prince VR on Steam",
+            "url": "https://store.steampowered.com/app/707310/The_Little_Prince_VR/"
+          },
+          {
+            "title": "Steam Community :: The Little Prince VR",
+            "url": "https://steamcommunity.com/app/707310"
+          },
+          {
+            "title": "Penrose Studio's Rosebud Takes Mobile VR to Next Level",
+            "url": "https://variety.com/2015/digital/news/penrose-studios-rosebud-gear-vr-1201652819/"
+          },
+          {
+            "title": "The Little Prince - mk2 VR Pod",
+            "url": "https://mk2vrpod.com/vrcontent/the-little-prince/"
+          },
+          {
+            "title": "Stargaze Is A New VR Game Inspired By The Little Prince, Demo Available Now",
+            "url": "https://www.uploadvr.com/stargaze-vr-little-prince-demo/"
+          },
+          {
+            "title": "The Little Prince VR - Kotaku",
+            "url": "https://kotaku.com/games/the-little-prince-vr"
+          },
+          {
+            "title": "List of The Little Prince adaptations - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/List_of_The_Little_Prince_adaptations"
+          },
+          {
+            "title": "THE LITTLE PRINCE - mk2 Films",
+            "url": "https://mk2films.com/en/film/le-petit-prince/"
+          },
+          {
+            "title": "The Little Prince VR General Discussions :: Steam Community",
+            "url": "https://steamcommunity.com/app/707310/discussions/"
+          },
+          {
+            "title": "Little Princess on Meta Quest | Quest VR Games | Meta Store",
+            "url": "https://www.meta.com/experiences/little-princess/9165802886813712/"
+          }
+        ]
+      },
+      "Based on the search results, here are the key digital adaptations and interactive media versions of \"The Little Prince\":\n\n## VR Experiences\n\nThe Little Prince VR is an interactive adventure available on Steam that follows the events of Antoine de Saint-Exup\u00e9ry's masterpiece, allowing players to immerse into the world through Virtual Reality and interact with characters like never before. Players escort the Little Prince on his discovery journey from planet to planet, with each episode centering on a planet and a key character from the book, helping them solve problems while learning about human nature.\n\n\"Rosebud\" and \"The Rose and I\" are essentially virtual reality adaptations of \"The Little Prince,\" allowing users to observe the bond between a rose and its caretaker on a small asteroid floating through space. Penrose Studios released \"Rosebud\" through a dedicated app called \"Rose\" on the Gear VR's Oculus store.\n\nStargaze is a new VR adventure game inspired by The Little Prince, set on an observatory planet where players can zoom into different angles of planets and galaxies using a telescope to uncover their secrets. Stargaze was set to launch in Q4 2020 for PC VR, supporting Valve Index, HTC Vive, Oculus Rift and Windows MR headsets.\n\n## Key Details\n\nSince its first publication in 1943, the novella sold over 140 million copies, making it the #4 best selling book ever published, and Red Accent Studios was granted the exclusive license to make the first VR adaptation.\n\nDue to the story's wide appeal, the novella has been adapted into various media over the decades, including audio recordings, graphic novel, movie musicals, movie screen, animated series, live stage theatre, ballet and opera.\n\nThe search results show that \"The Little Prince\" has been successfully adapted into several VR experiences, with the main adaptation being \"The Little Prince VR\" on Steam, as well as mobile VR experiences like \"Rosebud\" from Penrose Studios. These adaptations allow players to interact with the beloved story in immersive new ways, maintaining the philosophical and emotional core of the original work while leveraging the unique capabilities of virtual reality technology."
+    ],
+    "durationSeconds": 26.63066601999989
+  }
+}

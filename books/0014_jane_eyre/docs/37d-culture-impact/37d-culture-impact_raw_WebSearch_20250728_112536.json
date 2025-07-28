@@ -1,0 +1,63 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Jane Eyre\" Instagram Gothic aesthetic \"dark academia\" feminist discussions online fashion inspiration"
+  },
+  "tool_response": {
+    "query": "\"Jane Eyre\" Instagram Gothic aesthetic \"dark academia\" feminist discussions online fashion inspiration",
+    "results": [
+      "I'll search for information about how Jane Eyre connects to Instagram's Gothic aesthetic, dark academia, and feminist discussions in online fashion inspiration.",
+      {
+        "tool_use_id": "srvtoolu_01DtMpK3NFYmQiMJ7TAFcS18",
+        "content": [
+          {
+            "title": "From Literature to Fashion: The Dark Academia Aesthetic Explained \u2013 Craft Society",
+            "url": "https://craftsociety.eu/blogs/blog/from-literature-to-fashion-the-dark-academia-aesthetic-explained"
+          },
+          {
+            "title": "Looks from Books: Fashion Inspired by Jane Eyre - College Fashion",
+            "url": "https://www.collegefashion.net/inspiration/looks-from-books-fashion-inspired-by-jane-eyre/"
+          },
+          {
+            "title": "Jane Eyre Aesthetic Merch & Gifts for Sale | Redbubble",
+            "url": "https://www.redbubble.com/shop/jane+eyre+aesthetic"
+          },
+          {
+            "title": "Is It Dark Academia? \u2013 A History of Crows",
+            "url": "https://ahistoryofcrows.wordpress.com/2022/05/17/is-it-dark-academia/"
+          },
+          {
+            "title": "Jane Eyre Clothing - Etsy",
+            "url": "https://www.etsy.com/market/jane_eyre_clothing/"
+          },
+          {
+            "title": "Intersectionality in Jane Eyre and its Adaptations",
+            "url": "https://scholarworks.uark.edu/cgi/viewcontent.cgi?article=2104&context=etd"
+          },
+          {
+            "title": "Light Academia Is Here To Replace Its Darker Counterpart - Glam",
+            "url": "https://www.glam.com/1208983/light-academia-is-here-to-replace-its-darker-counterpart-heres-how/"
+          },
+          {
+            "title": "Jane Eyre Dress \u2013 Favorite Child",
+            "url": "https://favoritechildcollective.com/products/jean-aire-dress"
+          },
+          {
+            "title": "Jane Eyre: Gothic Feminism & The Moon \u2013 Modern Classic",
+            "url": "https://modernclassic.home.blog/2020/09/26/jane-eyre-gothic-feminism-the-moon/"
+          },
+          {
+            "title": "Jane Eyre | The Female Gothic",
+            "url": "https://blogs.charleston.edu/the-female-gothic/novels/jane-eyre/"
+          }
+        ]
+      },
+      "Based on my search results, I can provide you with comprehensive information about how Jane Eyre intersects with Instagram's Gothic aesthetic, dark academia, feminist discussions, and online fashion inspiration.\n\n## Jane Eyre's Influence on Dark Academia and Gothic Fashion\n\nJane Eyre by Charlotte Bront\u00eb is considered a novel that combines romanticism with gothic elements and is frequently cited as a key text in Dark Academia aesthetics. Social media platforms like Instagram and Tumblr have popularized Dark Academia by showcasing outfits, literature, and home decor, creating a community of enthusiasts.\n\n### Fashion and Aesthetic Elements\n\nDark Academia fashion perfectly blends timeless elegance with a scholarly vibe, featuring tweed blazers, wool skirts, cozy turtlenecks, and classic oxford shoes in muted colors like shades of brown, black, forest green, and burgundy.\n\nModern runway trends that could work in a Gothic feminist heroine's wardrobe include androgynous silhouettes and understated feminine influences, as well as dour menswear-inspired suits. The aesthetic involves mixing masculine and feminine styles - pairing full skirts, mary-jane platforms, and jewel-embellished accessories with men's cut oxford shirts, peacoats, vests, and bowler hats.\n\n### Online Fashion Products and Merchandising\n\nVictorian-inspired fashion pieces like \"The Jane Eyre Dress\" are being marketed as dark academia masterpieces, featuring silhouettes reminiscent of classic Victorian styles with Gothic romance aesthetics. High quality Jane Eyre aesthetic-inspired merchandise including t-shirts, posters, stickers, and home decor are being designed and sold by independent artists worldwide.\n\n### Feminist Discussions and Gothic Elements\n\nJane Eyre is described as \"a feminist favorite that made a hero of every plain-faced, witty girl in English class\". The novel has been hailed as a work of Victorian Feminism, though some contemporaries criticized its 'radical' content representing an 'unfeminine' view of womanhood - Jane's unfettered inner voice and brutal honesty make it a uniquely radical piece of feminist literature.\n\nFeminist interpretations of the novel discuss how religion provided women with a sense of independence and power, particularly through Evangelical religion. The novel includes analogies comparing women's positions to Eastern slavery, implying women's inferior position to men and reflecting 19th-century European beliefs about Western superiority.\n\n### Instagram and Social Media Aesthetic Tags\n\nPopular Instagram tags associated with Jane Eyre aesthetics include combinations of \"jane eyre,\" \"charlotte bronte,\" \"classic literature,\" \"feminist quote,\" \"bibliophile,\" \"bookish quote,\" \"gothic literature,\" \"dark academia,\" \"dark aesthetic,\" and \"victorian\".\n\n### Light Academia Alternative\n\nLight academia has emerged as a softer alternative to dark academia, with Jane Eyre remaining a popular text for the aesthetic but interpreted through brighter, more jubilant energy rather than gothic and gloomy vibes.\n\nThe search results demonstrate that Jane Eyre has become deeply embedded in Instagram's visual culture, serving as both literary inspiration and aesthetic touchstone for fashion, feminist discourse, and the broader dark academia movement online. The novel's gothic elements, feminist themes, and Victorian setting make it particularly appealing for contemporary social media aesthetics that blend intellectual pursuits with distinctive fashion choices."
+    ],
+    "durationSeconds": 38.50724510699976
+  }
+}

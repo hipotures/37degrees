@@ -1,0 +1,63 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Jane Eyre\" modern adaptations gothic romance BookTok recommendations similar characters contemporary YA books"
+  },
+  "tool_response": {
+    "query": "\"Jane Eyre\" modern adaptations gothic romance BookTok recommendations similar characters contemporary YA books",
+    "results": [
+      "I'll search for modern adaptations and contemporary books similar to Jane Eyre that are popular on BookTok.",
+      {
+        "tool_use_id": "srvtoolu_01P5JSx7v39gaMkZshvgiyeF",
+        "content": [
+          {
+            "title": "50 Remarkable Books for Fans of Jane Eyre to Read",
+            "url": "https://www.silverpetticoatreview.com/ten-novels-for-fans-of-jane-eyre/"
+          },
+          {
+            "title": "11 Novels Inspired By 'Jane Eyre' To Pick Up Instead Of Re-Reading Charlotte Bronte's Classic For The Tenth Time",
+            "url": "https://www.bustle.com/p/11-novels-inspired-by-jane-eyre-to-pick-up-instead-of-re-reading-charlotte-brontes-classic-for-the-tenth-time-11951930"
+          },
+          {
+            "title": "10 Gothic Romance Novels That Aren't 'Jane Eyre' Or ' ...",
+            "url": "https://www.bustle.com/p/10-gothic-romance-novels-that-arent-jane-eyre-wuthering-heights-9746383"
+          },
+          {
+            "title": "15 Best Books Like Jane Eyre: Classic Gothic & Romantic Novels - ReadingAndThinking.com",
+            "url": "https://www.readingandthinking.com/2025/05/books-like-jane-eyre.html"
+          },
+          {
+            "title": "6 Books to Read if you love Jane Eyre \u2013 greenish bookshelf",
+            "url": "https://greenishbookshelf.com/2019/06/01/6-books-to-read-if-you-love-jane-eyre/"
+          },
+          {
+            "title": "Jane Eyre, by Charlotte Bront\u00eb \u2014 The Ultimate Gothic Romance",
+            "url": "https://austenprose.com/2024/04/05/jane-eyre-by-charlotte-bronte-the-ultimate-gothic-romance/"
+          },
+          {
+            "title": "16 JANE EYRE Retellings | Book Riot",
+            "url": "https://bookriot.com/jane-eyre-retellings/"
+          },
+          {
+            "title": "What to Read When You Love Jane Eyre \u2013 A Literary Princess",
+            "url": "https://aliteraryprincess.com/2020/09/02/what-to-read-when-you-love-jane-eyre/"
+          },
+          {
+            "title": "The Rise and Fall of Jane: A Selkie Romance - Kindle edition by Garrett, Corrie. Paranormal Romance Kindle eBooks @ Amazon.com.",
+            "url": "https://www.amazon.com/Rise-Fall-Jane-Modern-Retelling-ebook/dp/B078PBLDT7"
+          },
+          {
+            "title": "If Jane Eyre is my absolute favourite book, what other books would I love? - Quora",
+            "url": "https://www.quora.com/If-Jane-Eyre-is-my-absolute-favourite-book-what-other-books-would-I-love"
+          }
+        ]
+      },
+      "Based on my search results, here are some excellent modern adaptations and contemporary books similar to Jane Eyre that are popular on BookTok and feature gothic romance elements with similar characters:\n\n## Modern Jane Eyre Retellings & Adaptations:\n\n### YA/Contemporary Retellings:\n- **Brightly Burning by Alexa Donne** - A clever YA/Sci-fi retelling of Jane Eyre\n- **Jane & Edward by Melodie Edwards** - A contemporary take on Jane Eyre\n- **My Plain Jane** - A wonderfully twisted take where Jane can see ghosts and teams up with Charlotte Bront\u00eb and supernatural investigator Alexander Blackwood\n- **Re Jane by Patricia Park** - Korean American teenager Jane Re works as an au pair in Brooklyn, introducing elite neighborhoods and a complicated relationship with Ed, the father of her charge\n- **Jane by Aline Brosh McKenna** - A contemporary graphic novel retelling with Jane attending art school in New York City\n\n### Gothic/Paranormal Romance Adaptations:\n- **Within These Wicked Walls by Lauren Blackwood** - An Ethiopian-inspired fantasy retelling where Andromeda is an exorcist hired by Rochester\n- **So Many Beginnings by Bethany C. Morrow** - A queer YA retelling focusing on Jane and Bertha's romance as they try to escape Rochester\n- **The Rise and Fall of Jane by Corrie Garrett** - A paranormal romance combining Jane Eyre with Scottish mythology, featuring selkies and ocean conservation\n\n## Books Similar to Jane Eyre Popular with Gothic Romance Fans:\n\n### Classic Gothic Romance:\n- **Mexican Gothic by Silvia Moreno-Garcia** - A gothic novel influenced by Jane Eyre\n- **Rebecca by Daphne du Maurier** - Features a nameless young woman marrying a mysterious wealthy man and arriving at Manderly, haunted by his first wife\n- **Wide Sargasso Sea by Jean Rhys** - A modern classic exploring Jane Eyre from the perspective of the \"madwoman,\" Antoinette Cosway\n\n### Contemporary Gothic Romance:\n- **The Madwoman Upstairs by Catherine Lowell** - A contemporary romantic mystery with a modern twist on the Bront\u00eb legacy following Samantha Whipple\n- **The Thirteenth Tale by Diane Setterfield** - Features ghosts, governesses, and fires with direct references to Jane Eyre, following Margaret Lea writing Vida Winter's biography\n- **Affinity by Sarah Waters** - A Victorian Gothic novel featuring Margaret Prior visiting a women's prison and meeting medium Selina Dawes\n\n### BookTok Favorites with Similar Themes:\n- **The Duke I Tempted by Scarlett Peckham** - Romance between Rochester (a wealthy duke) and Mari, the new governess for his twins\n- **Jane Steele by Lyndsay Faye** - Features Jane as a fugitive who takes matters into her own hands, leaving corpses in her wake\n- **The Bront\u00eb Plot by Katherine Reay** - Contemporary Christian fiction following Lucy, a former rare books saleswoman, on a trip to England culminating at Haworth\n\nThese books offer the gothic atmosphere, strong heroines, complex romances, and emotional depth that Jane Eyre fans love, while bringing fresh perspectives and modern sensibilities to the classic story elements."
+    ],
+    "durationSeconds": 38.90188214799995
+  }
+}

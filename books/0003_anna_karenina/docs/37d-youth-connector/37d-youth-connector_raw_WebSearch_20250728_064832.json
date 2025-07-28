@@ -1,0 +1,201 @@
+{
+  "session_id": "7ca65eb2-e5d0-4143-8931-90f15001b62e",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7ca65eb2-e5d0-4143-8931-90f15001b62e.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Anna Karenina Gen Z youth depression anxiety mental health TikTok BookTok"
+  },
+  "tool_response": {
+    "query": "Anna Karenina Gen Z youth depression anxiety mental health TikTok BookTok",
+    "results": [
+      "I'll search for information about Anna Karenina's connection to Gen Z mental health discussions on social media platforms like TikTok and BookTok.",
+      {
+        "tool_use_id": "srvtoolu_01WgcThnkxDG7sW2QFs9nbVr",
+        "content": [
+          {
+            "title": "Anna Karenina \u2728 #booktok #book #books #bookworm #reader #annakarenina #bookish #booker #booknerd #literature #fyp #tolstoy | TikTok",
+            "url": "https://www.tiktok.com/@alifeofliterature/video/6942946655503142149?lang=en"
+          },
+          {
+            "title": "Anna Karenina",
+            "url": "https://www.tiktok.com/discover/anna-karenina"
+          },
+          {
+            "title": "Anna Karenina Book Review",
+            "url": "https://www.tiktok.com/discover/anna-karenina-book-review"
+          },
+          {
+            "title": "Adolescent Anxiety and TikTok: An Exploratory Study - PMC",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9840731/"
+          },
+          {
+            "title": "To those who have read Anna Karenina, what psychological disorder does Anna Karenina seem to suffer from and why? - Quora",
+            "url": "https://www.quora.com/To-those-who-have-read-Anna-Karenina-what-psychological-disorder-does-Anna-Karenina-seem-to-suffer-from-and-why"
+          },
+          {
+            "title": "Why experts worry TikTok could add to mental health crisis among US teens | CNN Business",
+            "url": "https://www.cnn.com/2023/01/11/tech/tiktok-teen-mental-health/index.html"
+          },
+          {
+            "title": "Adolescent Anxiety and TikTok: An Exploratory Study - PMC",
+            "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9840731/"
+          },
+          {
+            "title": "Anna Karenina Review",
+            "url": "https://www.tiktok.com/discover/anna-karenina-review?lang=en"
+          },
+          {
+            "title": "Anna Karenina Book Annotating",
+            "url": "https://www.tiktok.com/discover/anna-karenina-book-annotating"
+          },
+          {
+            "title": "The Anxious Generation: How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness: Haidt, Jonathan: 9780593655030: Amazon.com: Books",
+            "url": "https://www.amazon.com/Anxious-Generation-Rewiring-Childhood-Epidemic/dp/0593655036"
+          }
+        ]
+      },
+      "The search results show limited direct connections between Anna Karenina and Gen Z mental health discussions on TikTok/BookTok. Let me search for more specific information about how young people are discussing classic literature in relation to mental health themes.",
+      {
+        "tool_use_id": "srvtoolu_01DzzsNtHP7CjC6MhfAZmsEh",
+        "content": [
+          {
+            "title": "Does Generation Z Read? Here\u2019s What They Think",
+            "url": "https://thesciencesurvey.com/features/2024/04/18/does-generation-z-read-heres-what-they-think/"
+          },
+          {
+            "title": "Why Gen Z are the new bookworms | GoHenry",
+            "url": "https://www.gohenry.com/uk/blog/bread/why-gen-z-are-the-new-bookworms"
+          },
+          {
+            "title": "Gen Z is bringing back reading | The Week",
+            "url": "https://theweek.com/culture-life/books/gen-z-reading-book-club-booktok"
+          },
+          {
+            "title": "The BookTok Generation: How social media is transforming Gen Z reading habits - Publishers Association",
+            "url": "https://www.publishers.org.uk/the-booktok-generation-how-social-media-is-transforming-gen-z-reading-habits/"
+          },
+          {
+            "title": "Gen Z, millennials are still big fans of books \u2013 even if they don\u2019t call themselves \u2018readers\u2019",
+            "url": "https://www.minnpost.com/community-voices/2024/05/gen-z-millennials-are-reading-books-bookstagram-booktok/"
+          },
+          {
+            "title": "The Anxious Generation: How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness: Haidt, Jonathan: 9780593655030: Amazon.com: Books",
+            "url": "https://www.amazon.com/Anxious-Generation-Rewiring-Childhood-Epidemic/dp/0593655036"
+          },
+          {
+            "title": "10 Ways BookTok Is Revolutionizing Gen Z Reading and The Publishing Industry - The Queen Zone",
+            "url": "https://www.thequeenzone.com/10-ways-booktok-is-revolutionizing-gen-z-reading-and-the-publishing-industry/"
+          },
+          {
+            "title": "How BookTok Is Redefining Reading Among Gen Z\u2014And Book Design Along With It - Design & Paper",
+            "url": "https://www.designandpaper.com/how-booktok-is-redefining-reading-among-gen-z-and-book-design-along-with-it/"
+          },
+          {
+            "title": "How BookTok is transforming Gen-Z reading habits - Australia Reads",
+            "url": "https://australiareads.org.au/news/booktok-transforming-gen-z-reading-habits/"
+          },
+          {
+            "title": "Gen-Z and millennials love reading books. But being a \u2018reader\u2019 means something more - Fast Company",
+            "url": "https://www.fastcompany.com/91115916/gen-z-and-millennials-love-reading-books-but-being-a-reader-means-something-more"
+          }
+        ]
+      },
+      "Based on the search results, I can see that while there's extensive information about BookTok's influence on Gen Z reading habits and mental health themes in literature, there isn't much specific information connecting Anna Karenina to Gen Z mental health discussions on TikTok. Let me search more specifically for this connection.",
+      {
+        "tool_use_id": "srvtoolu_017iw2AMJR1Aa7hCSKxmyMfJ",
+        "content": [
+          {
+            "title": "To those who have read Anna Karenina, what psychological disorder does Anna Karenina seem to suffer from and why? - Quora",
+            "url": "https://www.quora.com/To-those-who-have-read-Anna-Karenina-what-psychological-disorder-does-Anna-Karenina-seem-to-suffer-from-and-why"
+          },
+          {
+            "title": "Anna Karenina - Anna's psychosis caused by pregnancy-related depression or illness? Showing 1-13 of 13",
+            "url": "https://www.goodreads.com/topic/show/1606768-anna-s-psychosis-caused-by-pregnancy-related-depression-or-illness"
+          },
+          {
+            "title": "Anna Karenina",
+            "url": "https://www.tiktok.com/discover/anna-karenina"
+          },
+          {
+            "title": "Anna Karenina: A Study in Character | Psychology Today",
+            "url": "https://www.psychologytoday.com/us/blog/inside-the-criminal-mind/201109/anna-karenina-study-in-character"
+          },
+          {
+            "title": "Anna Karenina Syndrome: Understanding Uncontrolled Love - Terapia Online Presencial Madrid | Mentes Abiertas",
+            "url": "https://www.mentesabiertaspsicologia.com/blog-psicologia/anna-karenina-syndrome-understanding-uncontrolled-love"
+          },
+          {
+            "title": "Was Anna Bi-polar or depressed? In the end... \u2014 Anna Karenina Q&A",
+            "url": "https://www.goodreads.com/questions/904820-was-anna-bi-polar-or-depressed-in-the-end"
+          },
+          {
+            "title": "Anna Karenina Review",
+            "url": "https://www.tiktok.com/discover/anna-karenina-review?lang=en"
+          },
+          {
+            "title": "Anna Karenina Reddit",
+            "url": "https://www.tiktok.com/discover/anna-karenina-reddit"
+          },
+          {
+            "title": "There's Not Always a Pill for That: In Defense of Conflict - The Millions",
+            "url": "https://themillions.com/2016/02/theres-not-always-a-pill-for-that-in-defense-of-conflict.html"
+          },
+          {
+            "title": "The Mental conflict and Social structure in Anna Karenina",
+            "url": "https://www.ijnrd.org/papers/IJNRDB001005.pdf"
+          }
+        ]
+      },
+      "The search results show psychological discussions about Anna Karenina's character but limited direct connections to Gen Z TikTok discussions. Let me search for more recent BookTok content about classics and mental health themes.",
+      {
+        "tool_use_id": "srvtoolu_01VP7gt1EVzc5CAbLid2iPE8",
+        "content": [
+          {
+            "title": "New ADAA Member Books: Spring 2024 | Anxiety and Depression Association of America, ADAA",
+            "url": "https://adaa.org/learn-from-us/from-the-experts/blog-posts/consumer-professional/new-adaa-member-books-spring-2024"
+          },
+          {
+            "title": "The best BookTok books to read in 2025 - Pan Macmillan",
+            "url": "https://www.panmacmillan.com/blogs/general/best-booktok-books"
+          },
+          {
+            "title": "9 Teen Books about Depression and Anxiety - Three Heads",
+            "url": "https://threeheads.works/2024/04/22/teen-books-about-depression/"
+          },
+          {
+            "title": "BookTok\u2019s 21 Most Talked About Books of 2024",
+            "url": "https://www.rollingstone.com/culture/culture-lists/booktok-best-books-2024-1235090973/"
+          },
+          {
+            "title": "5 Best Books for Dealing with Anxiety and Depression",
+            "url": "https://markmanson.net/5-books-for-dealing-with-anxiety-and-depression"
+          },
+          {
+            "title": "Depression and Anxiety: Vol 2024, No 1",
+            "url": "https://onlinelibrary.wiley.com/toc/da/2024"
+          },
+          {
+            "title": "The 15 Best Books About Depression",
+            "url": "https://www.healthline.com/health/depression/best-books-depression"
+          },
+          {
+            "title": "25 best mental health books to read in 2025 - Pan Macmillan",
+            "url": "https://www.panmacmillan.com/blogs/lifestyle-wellbeing/best-mental-health-books"
+          },
+          {
+            "title": "ADAA Self-Help Books \u2013 Bookstore/Reading List | Anxiety and Depression Association of America, ADAA",
+            "url": "https://adaa.org/books"
+          },
+          {
+            "title": "12 Books About Anxiety To Help Calm Your Mind",
+            "url": "https://www.theflowspace.com/lists/books-about-anxiety/"
+          }
+        ]
+      },
+      "Based on my search results, I can provide you with information about the relationship between Anna Karenina, Gen Z youth, and mental health discussions on social media, though the specific connection appears to be limited in the search results.\n\n## Key Findings:\n\n### BookTok's Influence on Gen Z Reading Habits\n\nBookTok, the social media trend focusing on books and literature, is playing a key role in getting Gen-Z reading again, with almost two-thirds (59%) of 16-25 year olds saying that BookTok or book influencers have helped them discover a passion for reading.(no content)Almost two-thirds (59%) of 16-25-year-olds say that BookTok or book influencers have helped them discover a passion for reading.(no content)On the classic front, we're seeing the resurgence of Jane Austen and Agatha Christie's books, with winners of TikTok Book Awards 2023 including classics like Never Let Me Go, Orwell's 1984, Noughts and Crosses and One Day, winning alongside new reads.\n\n### Mental Health Themes and Gen Z\n\nAuthors are increasingly attuned to the platform, with many writing with a BookTok audience in mind, emphasizing emotional intensity, complex relationships, and themes like mental health, identity, and resilience that resonate deeply with the platform's largely Gen Z audience.(no content)While social media usage has been linked to mental health issues such as anxiety and depression in the long run, social media can be very satisfying to use in the short term. Our brains release dopamine when partaking in activities considered pleasurable, including social media use, and this dopamine prompts us to continue the activity and seek out more pleasure, creating a destructive cycle.\n\n### Anna Karenina and Mental Health\n\nWhile the search results don't show extensive BookTok discussions specifically about Anna Karenina in relation to Gen Z mental health, there are psychological analyses of the character:\n\nConsider it in light of descriptions of \"borderline personality disorder.\" Anna Karenina\u2014does she meet the criteria?(no content)Anna Karenina syndrome is a psychological phenomenon that involves uncontrolled and obsessive love that leads to a series of negative consequences in the lives of those who experience it. This term is derived from the novel by Russian author Leo Tolstoy, \"Anna Karenina\", where the main character, Anna, is trapped in a forbidden love that consumes her and leads her to a tragic end. Through this literary work, you can explore in depth how excessive love can affect a person's mental and emotional health.\n\n### The Gap in Direct Connection\n\nThe search results show that while:\n1. BookTok is hugely influential in promoting classic literature to Gen Z\n2. Gen Z readers are drawn to books with mental health themes\n3. Anna Karenina has been analyzed through psychological/mental health lenses\n\nThere appears to be limited direct evidence of Anna Karenina specifically being discussed on TikTok/BookTok in relation to Gen Z mental health issues like depression and anxiety. The connection seems to be more indirect - classic literature is experiencing a revival on BookTok, and mental health themes resonate with young readers, but specific viral discussions about Anna Karenina's mental health themes on these platforms weren't evident in the search results."
+    ],
+    "durationSeconds": 53.55112444700021
+  }
+}

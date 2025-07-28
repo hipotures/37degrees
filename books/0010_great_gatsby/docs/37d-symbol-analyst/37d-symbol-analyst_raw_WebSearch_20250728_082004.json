@@ -1,0 +1,155 @@
+{
+  "session_id": "e18f7f1c-5883-41e4-8ef9-15aee4aa266b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e18f7f1c-5883-41e4-8ef9-15aee4aa266b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Great Gatsby\" TikTok youth culture social media interpretation symbols modern relevance"
+  },
+  "tool_response": {
+    "query": "\"Great Gatsby\" TikTok youth culture social media interpretation symbols modern relevance",
+    "results": [
+      "I'll search for information about how The Great Gatsby is being interpreted and discussed on TikTok and social media by young people, including modern relevance and symbolism.",
+      {
+        "tool_use_id": "srvtoolu_01VeJA7ckHXJVGaPLDKP5B2D",
+        "content": [
+          {
+            "title": "The Modern Era of Great Gatsby: Social Media Version | by Yoamer | Medium",
+            "url": "https://medium.com/@yoamer/the-modern-era-of-great-gatsby-social-media-version-55349cbcbc1e"
+          },
+          {
+            "title": "The Use of Symbolism and Imagery in The Great Gatsby | Free Essay Example for Students",
+            "url": "https://aithor.com/essay-examples/the-use-of-symbolism-and-imagery-in-the-great-gatsby"
+          },
+          {
+            "title": "Modern American Cover Art: The Great Gatsby Through Time",
+            "url": "https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=1242&context=senior_theses"
+          },
+          {
+            "title": "The Great Gatsby Themes, Symbols, Characters & Literary Devices",
+            "url": "https://www.gale.com/open-access/great-gatsby"
+          },
+          {
+            "title": "Essay about The Great Gatsby",
+            "url": "https://www.tiktok.com/discover/essay-about-the-great-gatsby"
+          },
+          {
+            "title": "Essay about The Great Gatsby with Modernism and ...",
+            "url": "https://www.tiktok.com/discover/essay-about-the-great-gatsby-with-modernism-and-romanticism"
+          },
+          {
+            "title": "Great Gatsby Essay Topics",
+            "url": "https://www.tiktok.com/discover/great-gatsby-essay-topics"
+          },
+          {
+            "title": "The Great Gatsby - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+          },
+          {
+            "title": "Great Gatsby Main Theme Essay",
+            "url": "https://www.tiktok.com/discover/great-gatsby-main-theme-essay"
+          },
+          {
+            "title": "Essay about The Great Gatsby Jay Gatsby",
+            "url": "https://www.tiktok.com/discover/essay-about-the-great-gatsby-jay-gatsby"
+          }
+        ]
+      },
+      "Based on the search results, I can see there's rich information about how The Great Gatsby relates to modern social media culture and youth interpretation. Let me search for more specific information about TikTok trends and youth engagement with the novel.",
+      {
+        "tool_use_id": "srvtoolu_01A1HHyYtNqxmJv5EtjNcDN1",
+        "content": [
+          {
+            "title": "Understanding The Great Gatsby Through Gen Z Perspectives",
+            "url": "https://www.tiktok.com/@amber.mariee44/video/7471051320288464170"
+          },
+          {
+            "title": "Example of Gen Z Great Gatsby Project",
+            "url": "https://www.tiktok.com/discover/example-of-gen-z-great-gatsby-project"
+          },
+          {
+            "title": "Millennials and The Lost Generation Great Gatsby",
+            "url": "https://www.tiktok.com/discover/millennials-and-the-lost-generation-great-gatsby"
+          },
+          {
+            "title": "Great Gatsby",
+            "url": "https://www.tiktok.com/discover/great-gatsby?lang=en"
+          },
+          {
+            "title": "TikTok - Make Your Day",
+            "url": "https://www.tiktok.com/discover/new-money-crisp-money-straight-from-the-mint-money-young-money-fresh-money-push-against-the-tide"
+          },
+          {
+            "title": "Gen Z Trends",
+            "url": "https://www.tiktok.com/discover/gen-z-trends?lang=en"
+          },
+          {
+            "title": "TikTok trends 2025: what Gen Z wants and how brands can win",
+            "url": "https://www.contentgrip.com/tiktok-trends-gen-z-marketing-guide/"
+          },
+          {
+            "title": "New Money Great Gatsby Meaning",
+            "url": "https://www.tiktok.com/discover/new-money-great-gatsby-meaning"
+          },
+          {
+            "title": "Hook for Great Gatsby Essay",
+            "url": "https://www.tiktok.com/discover/hook-for-great-gatsby-essay"
+          },
+          {
+            "title": "Essay about The Great Gatsby",
+            "url": "https://www.tiktok.com/discover/essay-about-the-great-gatsby"
+          }
+        ]
+      },
+      "Let me search for more specific content about how young people are interpreting The Great Gatsby's themes in contemporary contexts.",
+      {
+        "tool_use_id": "srvtoolu_011pgg8oNHq4mSfQj3ZK3J8X",
+        "content": [
+          {
+            "title": "The Great Gatsby - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+          },
+          {
+            "title": "How The Great Gatsby Predicted Modern Society",
+            "url": "https://literaryfancy.substack.com/p/how-the-great-gatsby-predicted-modern"
+          },
+          {
+            "title": "The Lessons of the Great Gatsby in the Digital Age | by Ray N. | Medium",
+            "url": "https://medium.com/@ray123689/the-lessons-of-the-great-gatsby-in-the-digital-age-5195d5b5344d"
+          },
+          {
+            "title": "Harmonies of Class: Exploring Social Stratification in *The Great Gatsby* and Its Modern Parallels",
+            "url": "https://www.theinternet.io/articles/ask-ai/harmonies-of-class-exploring-social-stratification-in-the-great-gatsby-and-its-modern-parallels/"
+          },
+          {
+            "title": "The Modern Era of Great Gatsby: Social Media Version | by Yoamer | Medium",
+            "url": "https://medium.com/@yoamer/the-modern-era-of-great-gatsby-social-media-version-55349cbcbc1e"
+          },
+          {
+            "title": "Is the Great Gatsby still relevant? | Wyzant Ask An Expert",
+            "url": "https://www.wyzant.com/resources/answers/12163/is_the_great_gatsby_still_relevant"
+          },
+          {
+            "title": "Teens, Social Media and Technology 2024 | Pew Research Center",
+            "url": "https://www.pewresearch.org/internet/2024/12/12/teens-social-media-and-technology-2024/"
+          },
+          {
+            "title": "The Great Gatsby: An Analysis of Cultural Representations in Literature and Film",
+            "url": "https://clausiuspress.com/article/13631.html"
+          },
+          {
+            "title": "The Great Gatsby | Summary, Characters, Reception, & Analysis | Britannica",
+            "url": "https://www.britannica.com/topic/The-Great-Gatsby"
+          },
+          {
+            "title": "THE ENDURING INFLUENCE OF THE GREAT GATSBY | The Journal of the Gilded Age and Progressive Era | Cambridge Core",
+            "url": "https://www.cambridge.org/core/journals/journal-of-the-gilded-age-and-progressive-era/article/abs/enduring-influence-of-the-great-gatsby/4D6C02C9EA9751A3CED50737B96AC90F"
+          }
+        ]
+      },
+      "Based on the search results, here's a comprehensive overview of how \"The Great Gatsby\" is being interpreted by youth culture on social media, particularly TikTok, and its modern relevance:\n\n## The Great Gatsby's Modern Social Media Parallels\n\n### Social Media as Modern-Day Gatsby Parties\n\nInstead of throwing a huge and fancy party, people nowadays use social media to show off their lives. Instagram, TikTok, and Facebook are the new stages where people try to get attention. The parallel between Gatsby's lavish parties and today's social media presence is particularly striking to young audiences.\n\nJust as Gatsby created a rich, glamorous image to attract Daisy, people today create polished online personas to get noticed. Gatsby built his entire life around getting Daisy's approval. He changed everything about himself, thinking that wealth and status would make him worthy of her love. Just as Gatsby, people today change their online profiles hoping that social media fame will make them feel important.\n\n### Key Themes Resonating with Youth\n\n#### 1. **The Pursuit of Validation**\nAccording to a Pew Research Center research, 69% of adults regularly track the amount of likes their postings receive on social media; among those in the 18- to 29-year-old groupings, this percentage rises to 88%. This constant monitoring for outside approval turns into an addiction, much like Gatsby's obsessive demand for Daisy to notice and acknowledge him.\n\n#### 2. **Curated Personas and Authenticity**\na well constructed persona, much to how people make their social media pages these days. Gatsby is portrayed as someone who is attempting to change their life in order to win over someone else, someone who is driven by a need for attention or outside validation to define who they are.\n\nYoung people particularly connect with how Jay Gatsby steals the identity of someone else and reinvents himself as someone he believes others will admire. Everything about his life is fabricated other than his very real desire to be accepted into a certain social class. Think about Jay in the age of social media, where in a handful of posts, videos or tweets, you can become someone completely different. How many \"Gatsby's\" do you know who have made themselves famous by digitally altering their images, creating imaginary wealth, or constructing a fictional life through Instagram, Facebook, or Twitter?\n\n### Modern Symbolism Interpretations\n\n#### The Green Light as Digital Goals\n\"One of the most famous symbols in the book is the green light at the end of Daisy's dock, which Gatsby stares at night after night. For him, it represents his dream of being with Daisy\u2014a dream that always feels just out of reach. In today's world, the green light might be the perfect selfie, a dream vacation, or that \"blue checkmark\" on social media. No matter how much we achieve, there's always something more to chase.\"\n\n#### Gatsby as the \"OG Influencer\"\n\"\ud83d\udcf8 Jay Gatsby: The OG Influencer Gatsby is the king of reinvention. Born poor, he reshapes himself into a millionaire with one goal: winning back Daisy, the love of his life. He throws extravagant parties, hoping she'll notice. Sound familiar? Today, Gatsby would be hosting livestreams, showing off his cars, and renting a private jet for photos. But like many influencers, his wealth and charm are just a carefully crafted image.\"\n\n### Youth Culture Trends\n\n#### \"Gatsbying\" as a Verb\n\"Gatsby\" has been turned into a verb in informal English in the past few years. That's another reason the story is still relevant. To Gatsby is to make a gesture so grand that it catches the attention of a certain person, often a romantic interest. In the book, Jay Gastby throws lavish parties that eventually attracts the woman he has loved and lost. The new trend usually involves social media.\n\n### Contemporary Relevance\n\nBecause of such themes, The Great Gatsby captures the perennial American experience as it is a story about change and those who resist it\u2014whether such change comes in the form of a new wave of immigrants, the nouveau riche, or successful minorities. Since Americans living in the 1920s to the present are largely defined by their fluctuating socio-economic circumstances and must navigate a society with entrenched racial and ethnic prejudices, Fitzgerald's depiction of resultant status anxieties and social conflict has been highlighted by scholars as still enduringly relevant nearly a hundred years after the novel's publication.\n\n### Modern Parallels in Social Issues\n\nSocial media, like instagram, tends to draw us in a \"death\" spiral of trying to look perfect \u00b7 But why? Why do we chase after a farce? Why do we not allow ourselves to try to confirm reality before chasing after a perception?\n\nThe novel's exploration of \"The more fundamental problem is that Gatsby's pursuit is doomed from the start because his desire is unrealistic. Daisy is a symbol for the idealized existence that was never really lived. Similar to this, people nowadays frequently pursue a carefully curated online persona in the hopes that success or attention on social media will translate into hap[piness]\"\n\n### Educational Impact\n\nThis new-found popularity launched a critical and scholarly re-examination, and the work soon became a core part of most American high school curricula and a part of American popular culture. The novel continues to be taught widely, with young people finding new ways to relate its themes to their digital experiences.\n\nThe search results indicate that while specific TikTok content was not directly accessible, the broader cultural conversation shows that young people are actively drawing parallels between Gatsby's world and modern social media culture, particularly around themes of authenticity, validation-seeking, and the construction of online personas."
+    ],
+    "durationSeconds": 75.06974860699987
+  }
+}

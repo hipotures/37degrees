@@ -1,0 +1,62 @@
+{
+  "session_id": "e45997b0-1016-4783-9450-979f533f9cbc",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e45997b0-1016-4783-9450-979f533f9cbc.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Alice in Wonderland psychological philosophical references modern media psychology literature analysis"
+  },
+  "tool_response": {
+    "query": "Alice in Wonderland psychological philosophical references modern media psychology literature analysis",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01LnS6AiUn4jsbvFkFHr8Yx1",
+        "content": [
+          {
+            "title": "Analyzing the Psychological Aspects of Alice in Wonderland | by The Psychology Of Everything | Medium",
+            "url": "https://medium.com/@thepsy.of.everything/analyzing-the-psychological-aspects-of-alice-in-wonderland-837cb643b048"
+          },
+          {
+            "title": "(PDF) In Wonderland: a Phenomenological, Developmental and Self Psychological Analysis of a Child's Playful Encounter with a New Reality",
+            "url": "https://www.researchgate.net/publication/232429160_In_Wonderland_a_Phenomenological_Developmental_and_Self_Psychological_Analysis_of_a_Child's_Playful_Encounter_with_a_New_Reality"
+          },
+          {
+            "title": "(PDF) ALICE'S WONDERLAND: A PSYCHOLOGICAL ANALYSIS THROUGH BEHAVIOURISM",
+            "url": "https://www.researchgate.net/publication/377383243_ALICE'S_WONDERLAND_A_PSYCHOLOGICAL_ANALYSIS_THROUGH_BEHAVIOURISM"
+          },
+          {
+            "title": "(PDF) Disney\u2019s Alice in Wonderland (1951) Film Analysis: A Narrative of Cultural and Psychological Encounter",
+            "url": "https://www.academia.edu/14062557/Disney_s_Alice_in_Wonderland_1951_Film_Analysis_A_Narrative_of_Cultural_and_Psychological_Encounter"
+          },
+          {
+            "title": "Hidden Psychology and Symbols in Alice in Wonderland | by Rupsha Bose | Medium",
+            "url": "https://medium.com/@rupshabose/hidden-psychology-and-symbols-in-alice-in-wonderland-dfd05232d88a"
+          },
+          {
+            "title": "The Psychological Study of Alice in Wonderland (Introduction) \u2013 Cherry Corner",
+            "url": "https://blogscornerblog.wordpress.com/2018/07/05/the-psychological-study-of-alice-in-wonderland-introduction/"
+          },
+          {
+            "title": "The Philosophy of Alice in Wonderland \u2013 The Marginalian",
+            "url": "https://www.themarginalian.org/2012/04/03/alice-in-wonderland-and-philosophy/"
+          },
+          {
+            "title": "Navigating Childhood: A Psychoanalytic Interpretation of Alice in Wonderland | by Kathleen M. Pedraza | Medium",
+            "url": "https://kathleenmpedraza.medium.com/navigating-childhood-a-psychoanalytic-interpretation-of-alice-in-wonderland-d736de3c7f11"
+          },
+          {
+            "title": "Analysis - Alice-in-Wonderland.net",
+            "url": "https://www.alice-in-wonderland.net/resources/analysis/"
+          },
+          {
+            "title": "Psychological Analysis Of Alice In Wonderland 1812 words [Essay Example]",
+            "url": "https://gradesfixer.com/free-essay-examples/psychological-analysis-of-alice-in-wonderland/"
+          }
+        ]
+      },
+      "Based on my search results, I can provide you with comprehensive information about the psychological and philosophical references in Alice in Wonderland and their analysis in modern media and literature.\n\n## Psychological Interpretations\n\nAlice in Wonderland has been extensively analyzed through various psychological lenses in modern scholarship:\n\n### Psychoanalytic Analysis\nContemporary researchers view the story as \"a multifaceted exploration of deep psychological, sociological, and philosophical themes\" that \"offers us a unique prism through which we can examine and understand the complex layers of the human mind.\"(no content)The story is interpreted as fundamentally psychoanalytic, with \"the fantasies of all these divergent episodes happening in Alice's mind\" representing \"the structure of her mind and how she dreams of such a world that exists in only her mind.\"\n\n### Identity and Self-Perception\nOne central theme is \"Alice's struggle with her identity and the notion of self\" as \"she frequently questions her own identity as she encounters various transformations, changes in size, and interactions with peculiar characters,\" which \"mirrors Carroll's interest in the field of psychology.\"(no content)These experiences serve as \"symbolic representations of the challenges individuals face in understanding their own identities and navigating the complexities of self-perception\" while inviting readers \"to reflect on the fluid nature of identity.\"\n\n### Behavioral Psychology Analysis\nRecent studies have applied DSM-5 criteria to Alice's behaviors, with some researchers suggesting her \"abnormal behaviors align with a diagnosis of paranoid schizophrenia\" while using \"behavioral psychology, particularly behaviorism\" to analyze her responses.\n\n### Developmental Psychology\nScholars have examined the story through \"humanistic phenomenology and theories of self-experience and playfulness,\" using \"Alice's strenuous adventure underground to reflect on real-life children as innately active, creative and curious survivors\" and exploring \"the role of playfulness in exploration of new realities.\"\n\n## Philosophical References\n\n### Reality and Perception\nThe story serves as \"a perfect metaphor for philosophical questions about reality\" with its \"dreamlike quality and the fluidity of its logic\" that \"provoke thoughts about what is real and what is illusion,\" drawing \"parallels to the philosophical musings of Ren\u00e9 Descartes, who famously questioned the very nature of existence and reality.\"\n\n### Epistemology and Logic\nAlice's dialogues throughout her adventures \"often revolve around logic, reasoning, and the nature of knowledge \u2014 key elements in the field of Epistemology,\" reflecting \"the philosophical pursuit of understanding the foundations of knowledge, belief, and truth.\"(no content)As a mathematician and logician, Carroll \"infuses Alice in Wonderland with elements of logical puzzles and paradoxes\" where \"the nonsensical situations and wordplay\" reflect his \"fascination with logic and reasoning,\" challenging \"conventional thinking\" and inviting readers \"to question the limitations of logical reasoning.\"\n\n## Modern Media and Literature Analysis\n\n### Contemporary Academic Perspectives\nModern philosophical analysis is exemplified in works like \"Alice in Wonderland and Philosophy: Curiouser and Curiouser,\" which asks \"seventeen contemporary thinkers to examine the Lewis Carroll classic through the lens of philosophy, exploring subjects as diverse as drugs, dreams, logic, gender, perception, escapism.\"\n\n### Cultural Impact and Adaptation\nThe story's psychological aspects deserve central attention because it is \"the most widely quoted book in Western society together with the Bible and Shakespeare's works\" and addresses \"timeless, existential challenge for adults as well as children; how to playfully keep exploring new realities in a world that pressures for conformity.\"\n\n### Dream Analysis and the Unconscious\nModern interpretations often focus on the story as \"a dream-like narrative\" where \"dreams have long been a subject of fascination in psychology,\" with Alice's encounters representing \"manifestations of her unconscious thoughts and emotions\" that \"can symbolize hidden desires, fears, and conflicts.\"\n\n### Victorian Context and Modern Relevance\nThe story represented \"a novel representation of childhood\" that \"emerged as fun, illogical, and non-didactic,\" with its \"innovative representation of childhood as fun and non-didactic\" explaining \"the story's popularity in modern popular culture.\"\n\nThe psychological and philosophical analysis of Alice in Wonderland continues to evolve in modern scholarship, with researchers applying contemporary psychological theories, philosophical frameworks, and literary criticism to uncover new layers of meaning in Carroll's enduring work."
+    ],
+    "durationSeconds": 39.84833650700003
+  }
+}

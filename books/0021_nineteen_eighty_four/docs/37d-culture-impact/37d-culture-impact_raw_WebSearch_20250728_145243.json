@@ -1,0 +1,63 @@
+{
+  "session_id": "b8c17c71-efc6-4c19-9b68-e101c36de9c9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b8c17c71-efc6-4c19-9b68-e101c36de9c9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "TikTok creators discussing 1984 George Orwell surveillance privacy social media YouTube essays dystopia analysis"
+  },
+  "tool_response": {
+    "query": "TikTok creators discussing 1984 George Orwell surveillance privacy social media YouTube essays dystopia analysis",
+    "results": [
+      "I'll search for content about TikTok creators discussing George Orwell's 1984 in relation to surveillance, privacy, and social media.",
+      {
+        "tool_use_id": "srvtoolu_01ExETbZUiR12oWB5ghnVFZJ",
+        "content": [
+          {
+            "title": "The Social Dilemma: Is Orwell\u2019s 1984 Dystopia Already here? | by Priyanshi Porwal | Medium",
+            "url": "https://priyanshiporwal.medium.com/the-social-dilemma-is-orwell-s-1984-dystopia-already-here-9e79907645b"
+          },
+          {
+            "title": "Orwell: 1984 to 2024 - Surveillance States and Privacy Concerns",
+            "url": "https://editverse.com/george-orwell-dystopian-fiction-totalitarianism/"
+          },
+          {
+            "title": "How social media is pushing us toward 1984",
+            "url": "https://www.fastcompany.com/90545787/how-social-media-is-pushing-us-toward-1984"
+          },
+          {
+            "title": "1984 George Orwell: A Deep Dive into Dystopia",
+            "url": "https://bibliolifestyle.com/1984-george-orwell/"
+          },
+          {
+            "title": "What Orwell's '1984' Missed: Free Social Media Apps",
+            "url": "https://www.bankinfosecurity.com/blogs/totok-shows-power-mass-self-surveillance-p-2847"
+          },
+          {
+            "title": "Lesson Plan: 1984 by George Orwell - The digital classroom, transforming the way we learn",
+            "url": "https://annmichaelsen.com/2025/02/10/lesson-plan-1984-by-george-orwell/"
+          },
+          {
+            "title": "Shocking Parallels between '1984' and Today's World - Stoic of the Day",
+            "url": "https://www.stoicoftheday.com/shocking-parallels-between-1984-and-todays-world/"
+          },
+          {
+            "title": "Living the Orwellian Nightmare: New Media and Digital Dystopia - Greg Diglin, 2014",
+            "url": "https://journals.sagepub.com/doi/10.2304/elea.2014.11.6.608"
+          },
+          {
+            "title": "Government Surveillance in 1984 by George Orwell: Bogus Security [Essay Example] by GradesFixer",
+            "url": "https://gradesfixer.com/free-essay-examples/government-surveillance-in-george-orwells-1984-bogus-security/"
+          },
+          {
+            "title": "Surveillance in 1984 By George Orwell | Free Essay Example for Students",
+            "url": "https://aithor.com/essay-examples/surveillance-in-1984-by-george-orwell"
+          }
+        ]
+      },
+      "Based on the search results, I found several relevant discussions about TikTok creators and content related to George Orwell's 1984, surveillance, privacy, and social media dystopia:\n\n## Key Findings:\n\n### Direct TikTok References:\n\nThe recent TikTok controversies highlight our modern surveillance state \u2013 a platform suspected of harvesting personal data on millions of users worldwide. This shows how TikTok itself has become part of the surveillance discussion that parallels Orwell's dystopian vision.\n\nEducational content discusses \"The influence of TikTok, Twitter, and Facebook in political elections\" and \"The spread of disinformation through social media (e.g., COVID-19 conspiracies)\", indicating that TikTok is being analyzed alongside other platforms in discussions of Orwellian themes.\n\n### YouTube Essays and Analysis:\n\nWhile the search didn't return specific YouTube video essays, several articles discuss how content creators are analyzing these themes:\n\nOne analysis mentions watching \"the Social Dilemma (and also the Great hack)\" and notes that \"Orwell's clever neologisms like newspeak, doublethink and thoughtcrime adequately describe the ubiquitous surveillance technology infiltrating our life\".\n\n### Modern Parallels to 1984:\n\nArticles note that \"Social media platforms are manipulating users and distorting our sense of reality\u2014just as George Orwell predicted\" and that \"social media's algorithms today decide what we see and shape our vision of the world\".\n\nContemporary analyses highlight that \"The novel's depiction of a dystopian surveillance state is becoming increasingly relevant in the modern world\" with \"Emerging technologies, such as facial recognition and AI-powered surveillance\".\n\n### Educational Content:\n\nEducators are creating content asking \"How does Orwell's warning about Big Brother relate to influencers, targeted ads, and online behavior tracking?\", showing how the themes are being discussed in academic settings.\n\n### Surveillance and Social Media:\n\nOne article notes that \"smartphones act as both our window to the world and the means through which a handful of private data companies keep a tab on our every action\" and that \"our world surpasses Orwell's imagination in which every device from our smartwatch to our refrigerator is connected to the internet\".\n\nThe search results indicate that TikTok creators and other content producers are actively discussing Orwell's 1984 in relation to modern surveillance, privacy concerns, and social media's role in creating a dystopian reality. The discussions focus on how platforms like TikTok exemplify the surveillance capitalism and manipulation techniques that Orwell warned about, though presented through our voluntary participation rather than forced compliance."
+    ],
+    "durationSeconds": 31.89899176699994
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "session_id": "b8c17c71-efc6-4c19-9b68-e101c36de9c9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b8c17c71-efc6-4c19-9b68-e101c36de9c9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Rok 1984\" recepcja krytyczna Polska krytycy literaccy Polityka Tygodnik Powszechny"
+  },
+  "tool_response": {
+    "query": "\"Rok 1984\" recepcja krytyczna Polska krytycy literaccy Polityka Tygodnik Powszechny",
+    "results": [
+      "I'll search for information about the critical reception of \"1984\" in Poland, focusing on literary critics and reviews from publications like Polityka and Tygodnik Powszechny.",
+      {
+        "tool_use_id": "srvtoolu_01XHK67Wo3K9UMbadrndtQke",
+        "content": [
+          {
+            "title": "Rok 1984 \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Rok_1984"
+          },
+          {
+            "title": "Rok 1984 - \u015aci\u0105gi, wypracowania, lektury - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/george-orwell/rok-1984.problematyka"
+          },
+          {
+            "title": "\"Rok 1984\" - krytyka totalitaryzmu - PR24.PL",
+            "url": "https://polskieradio24.pl/artykul/2322377,rok-1984-krytyka-totalitaryzmu"
+          },
+          {
+            "title": "\"Rok 1984\" - krytyka totalitaryzmu - Polskie Radio 24 - polskieradio24.pl",
+            "url": "https://polskieradio24.pl/130/5563/Artykul/2322377,Rok-1984-krytyka-totalitaryzmu"
+          },
+          {
+            "title": "Rok 1984 \u2013 encyklopediafantastyki.pl",
+            "url": "https://encyklopediafantastyki.pl/index.php?title=Rok_1984"
+          },
+          {
+            "title": "George Orwell, Rok 1984",
+            "url": "https://wolnelektury.pl/katalog/lektura/orwell-rok-1984/"
+          },
+          {
+            "title": "Rok 1984 - opracowanie (geneza, bohaterowie, problematyka)",
+            "url": "https://eszkola.pl/jezyk-polski/opracowanie-2828.html"
+          },
+          {
+            "title": "Podstawowa problematyka w \u201eRoku 1984\u201d - \u015aci\u0105gi, wypracowania, lektury - Bryk.pl",
+            "url": "https://www.bryk.pl/wypracowania/jezyk-polski/lektury/21275-podstawowa-problematyka-w-roku-1984.html"
+          },
+          {
+            "title": "Rok 1984",
+            "url": "https://muza.com.pl/pl/products/rok-1984-8156.html"
+          },
+          {
+            "title": "Rok 1984 - Streszczenie szczeg\u00f3\u0142owe - George Orwell - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/george-orwell/rok-1984.streszczenie-szczegolowe"
+          }
+        ]
+      },
+      "Based on the search results, I found limited information about the critical reception of \"1984\" in Poland specifically from literary critics in publications like Polityka and Tygodnik Powszechny. However, I can provide some relevant information about the novel's reception in Poland:\n\n## Reception of \"1984\" in Poland\n\nIn the People's Republic of Poland (PRL), \"1984\" was banned by censorship, and the first Polish translation by Juliusz Mieroszewski was published in Paris in 1953. Polish readers had to wait 35 years for a domestic edition.\n\nAfter 1988, translations were published by Tomasz Mirkowicz, Bart\u0142omiej Zborski, Dorota Konorocka-Sawa, Robert Sud\u00f3\u0142, and Ma\u0142gorzata Kaczorowska.\n\nThe novel has had a significant impact on Polish culture and is now required reading in Polish high schools.\n\n## General Critical Context\n\nThe 20th century produced many anti-totalitarian utopias depicting increasingly sophisticated forms of human enslavement and social control, with George Orwell's \"1984\" being one of the most famous examples of such dystopia, premiered 70 years ago.\n\n\"1984\" had a significant impact on contemporary culture, especially popular culture - expressions like \"Big Brother\" and \"Newspeak\" have permanently entered everyday language.\n\nUnfortunately, the search results did not provide specific information about critical reviews from Polish literary critics or publications like Polityka and Tygodnik Powszechny. To find more detailed information about the critical reception in these specific Polish publications, a more targeted search would be needed."
+    ],
+    "durationSeconds": 20.791536158999893
+  }
+}

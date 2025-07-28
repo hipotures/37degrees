@@ -1,0 +1,62 @@
+{
+  "session_id": "ad0134af-ec8f-4d33-afa8-be303b4ad42f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ad0134af-ec8f-4d33-afa8-be303b4ad42f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Alice in Wonderland academic pressure school anxiety \"down the rabbit hole\" education system Gen Z"
+  },
+  "tool_response": {
+    "query": "Alice in Wonderland academic pressure school anxiety \"down the rabbit hole\" education system Gen Z",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01YYe7XaCVqkjjRMGyhaYF5b",
+        "content": [
+          {
+            "title": "Home - Alice's Adventures In Wonderland: History, Story Timeline, Chapter Summaries, Classroom Lesson Plans and Activities - Library Guides at DiPietro Library, Franklin Pierce University",
+            "url": "https://libguides.franklinpierce.edu/alicesadventuresinwonderland"
+          },
+          {
+            "title": "The Nostalgia of Childhood in \u201cAlice\u2019s Adventures in Wonderland\u201d | SIUE Young Adult Literature",
+            "url": "https://siueyalit.wordpress.com/2019/06/06/the-nostalgia-of-childhood-in-alices-adventures-in-wonderland/"
+          },
+          {
+            "title": "Down the rabbit hole: Creating a transformative learning environment | Request PDF",
+            "url": "https://www.researchgate.net/publication/349308070_Down_the_rabbit_hole_Creating_a_transformative_learning_environment"
+          },
+          {
+            "title": "The Hidden Side of Alice\u2019s Adventures in Wonderland by Lewis Carroll | by Inabookhole | Medium",
+            "url": "https://medium.com/@inabookhole/the-hidden-side-of-alices-adventures-in-wonderland-by-lewis-carroll-9d9e35501df2"
+          },
+          {
+            "title": "What are the rabbit holes and Alice falling down the rabbit hole a metaphor for? - Quora",
+            "url": "https://www.quora.com/What-are-the-rabbit-holes-and-Alice-falling-down-the-rabbit-hole-a-metaphor-for"
+          },
+          {
+            "title": "What \"Alice\u2019s Adventures in Wonderland\" Taught Me About Womanhood \u2014 Her Culture",
+            "url": "https://www.herculture.org/blog/2019/8/12/what-alices-adventures-in-wonderland-taught-me-about-womanhood"
+          },
+          {
+            "title": "Alice\u2019s Adventures in Wonderland \u2013 Analysis: The beginning Loss of Childhood Innocence - The Artsy Reader",
+            "url": "https://theartsyreader.com/alices-adventures-in-wonderland-the-beginning-loss-of-childhood-innocence/"
+          },
+          {
+            "title": "Falling Down the Rabbit Hole: World Building in YA Literature",
+            "url": "https://dc.etsu.edu/cgi/viewcontent.cgi?article=1968&context=honors"
+          },
+          {
+            "title": "Alice's Adventures in Wonderland (Literature) - TV Tropes",
+            "url": "https://tvtropes.org/pmwiki/pmwiki.php/Literature/AlicesAdventuresInWonderland"
+          },
+          {
+            "title": "A Very Merry Unessay on Alice in Wonderland",
+            "url": "https://www.manicpixiedust.com/unessay/"
+          }
+        ]
+      },
+      "I found several relevant results from your search query about Alice in Wonderland in relation to academic pressure, school anxiety, and generational experiences. Here's what the search revealed:\n\n## Alice in Wonderland as a Metaphor for Modern Educational and Social Pressures\n\nThe search uncovered some fascinating connections between Carroll's classic tale and contemporary discussions about academic pressure and anxiety, particularly for Gen Z:\n\n### Educational Applications and Transformative Learning\n\nThis paper explores the transformative learning potential of an experiential, theatre-based workshop titled, Down the Rabbit Hole. Lewis Carroll's story, Alice's Adventures in Wonderland, is a tale in which Alice goes down a rabbit hole and embarks upon a fantastical and transformative journey of self with others. Loosely based on this story, in this workshop we encourage learners to take an embodied journey down the rabbit hole by tuning into the personal call for adventure, identifying active stories, and initiating a journey of discovery through theatre-based activities.\n\n### Growing Up Under Pressure\n\nSeveral sources discuss how the \"rabbit hole\" serves as a metaphor for navigating challenging transitions and pressures:\n\nWhen Alice falls down the rabbit hole in Lewis Carroll's classic children's book, she enters a world of constant criticism, confusion, and wonder. Alice moved through Wonderland under a microscope with her every move critiqued by its inhabitants, and I progressed through puberty with my baggy clothes, inflamed acne-prone skin, and lack of social skills fully attuned to the negative remarks peers and adults were making about me, sometimes to my face, sometimes just within ear shot. Similarly to Alice, my entering womanhood, especially my experiences in middle school, brought an onslaught of criticism from parents, teachers, and peers.\n\n### Identity Crisis and Academic Pressure\n\nThe story resonates with modern experiences of identity uncertainty under pressure:\n\nWhen the Caterpillar asks, \"Who are you?\" Alice cannot answer because she feels she's changed too much too quickly to even know who she is. She was open-minded enough about her identity to say she didn't know, but she wasn't insecure enough to put on the labels other people supplied for her. I dealt with social anxiety that left me feeling like Alice trying to explain to the Caterpillar who I really was even though I had no idea myself.\n\n### Loss of Childhood Innocence in Educational Settings\n\nThe loss of childhood innocence, so to speak, is shown in the absurd physical changes Alice undergoes by eating and drinking what Wonderland offers her. Alice is upset during these changes, however, and finds them to be saddening and uncomfortable, much like a child during puberty does. Her changes in body-size and the accompanying feelings of sadness, anger and the feeling of being uncomfortable in her body show how she will feel once she has to let loose of her childhood innocence once she fully matures.\n\n### Psychological Interpretations\n\nAlice's descent into the rabbit hole has been interpreted as a metaphor for the subconscious, a journey into a world where the rules of rational thought are suspended, and repressed impulses and desires can manifest freely. Sigmund Freud and Carl Jung would have certainly found intriguing material in exploring the book's symbols: the rabbit hole as a portal to the unconscious, the unstable nature of reality as a reflection of the evolving human psyche, and the ever-changing creatures as representations of archetypes and ancestral fears.\n\nThe search reveals that modern educators and scholars are increasingly using Alice's journey \"down the rabbit hole\" as a framework for understanding the pressures and anxieties that young people, particularly Gen Z, face in educational systems. The metaphor captures feelings of disorientation, constant scrutiny, and identity confusion that many students experience in academic environments."
+    ],
+    "durationSeconds": 32.52851668299991
+  }
+}

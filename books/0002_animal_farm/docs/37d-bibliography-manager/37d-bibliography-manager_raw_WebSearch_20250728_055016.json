@@ -1,0 +1,63 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Animal Farm George Orwell academic papers scholarly articles peer reviewed journal"
+  },
+  "tool_response": {
+    "query": "Animal Farm George Orwell academic papers scholarly articles peer reviewed journal",
+    "results": [
+      "I'll search for academic papers and scholarly articles about George Orwell's \"Animal Farm\" for you.",
+      {
+        "tool_use_id": "srvtoolu_01FAkZUUBVg4QBHd1djYve5q",
+        "content": [
+          {
+            "title": "George Orwell's Animal Farm: An Outcry Against False Revolutionary Leaders by Omar Jabak :: SSRN",
+            "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3463542"
+          },
+          {
+            "title": "Orwell, Animal Farm, and the Politics of Critical Reception | Department of English | University of Washington",
+            "url": "https://english.washington.edu/research/publications/orwell-animal-farm-and-politics-critical-reception"
+          },
+          {
+            "title": "(PDF) An Analysis of George Orwell 's Animal Farm with Discourse Coherence Theory",
+            "url": "https://www.researchgate.net/publication/380209052_An_Analysis_of_George_Orwell_'s_Animal_Farm_with_Discourse_Coherence_Theory"
+          },
+          {
+            "title": "(PDF) Abuse Practice of Power in Orwell's Animal Farm: A Historical Approach",
+            "url": "https://www.researchgate.net/publication/342247204_Abuse_Practice_of_Power_in_Orwell's_Animal_Farm_A_Historical_Approach"
+          },
+          {
+            "title": "George Orwell\u2019s Animal Farm : A Political Satire on Totalitarianism",
+            "url": "https://www.jetir.org/view?paper=JETIR1701214"
+          },
+          {
+            "title": "(PDF) George Orwell's Animal Farm and Nineteen Eighty Four as Timeless Scenarios: A Political Perspective",
+            "url": "https://www.researchgate.net/publication/339439337_George_Orwell's_Animal_Farm_and_Nineteen_Eighty_Four_as_Timeless_Scenarios_A_Political_Perspective"
+          },
+          {
+            "title": "Animal Farm Orwell Research Papers - Academia.edu",
+            "url": "https://www.academia.edu/Documents/in/Animal_Farm_Orwell"
+          },
+          {
+            "title": "(PDF) The nature of Revolution in George Orwell's \"Animal Farm\" .",
+            "url": "https://www.researchgate.net/publication/344886480_The_nature_of_Revolution_in_George_Orwell's_Animal_Farm"
+          },
+          {
+            "title": "(PDF) George Orwell \"Animal Farm\"",
+            "url": "https://www.academia.edu/9816662/George_Orwell_Animal_Farm_"
+          },
+          {
+            "title": "(DOC) Analysis Animal Farm by George Orwell",
+            "url": "https://www.academia.edu/33273317/Analysis_Animal_Farm_by_George_Orwell"
+          }
+        ]
+      },
+      "I found several academic papers and scholarly articles about George Orwell's \"Animal Farm.\" Here are the key findings:\n\n## Recent Academic Papers on Animal Farm:\n\n### 1. Political and Revolutionary Themes\n\nOmar Jabak's paper \"George Orwell's Animal Farm: An Outcry Against False Revolutionary Leaders\" (October 2019) published in English Literature and Language Review examines how Napoleon's transformation from revolutionary to dictator demonstrates Orwell's critique of false revolutionary leaders who become worse than those they replace.\n\nD.A. Ali's 2020 paper \"The nature of Revolution in George Orwell's 'Animal Farm'\" analyzes how Orwell critiques the Russian Revolution and explores the impact of revolution on the animals in Manor Farm.\n\n### 2. Totalitarianism and Power\n\nDr. Awadhesh Kumar Mishra's paper \"George Orwell's Animal Farm: A Political Satire on Totalitarianism\" (2016) in the International Journal of Emerging Technologies and Innovative Research examines Orwell as a satirist who aimed at exposing social and political problems, particularly class distinction, oppression, and poverty.\n\nA 2020 paper \"Abuse Practice of Power in Orwell's Animal Farm: A Historical Approach\" analyzes how Orwell exposed the horrors of totalitarianism, communism, and revolution through his allegorical narrative.\n\n### 3. Discourse and Literary Analysis\n\nA 2024 ResearchGate publication \"An Analysis of George Orwell's Animal Farm with Discourse Coherence Theory\" provides a systematic and comprehensive analysis of the text using discourse coherence methodology.\n\nThis paper references Mark Hollingsworth's \"Orwell, the CIA, and the Politics of Animal Farm\" published in The British Journal of Politics and International Relations (2020).\n\n### 4. Contemporary Relevance\n\nAlbloly and Alhusami's paper \"George Orwell's Animal Farm and Nineteen Eighty Four as Timeless Scenarios: A Political Perspective\" (2019) argues that Orwell's political imagery remains relevant, as these scenarios continue to repeat in 20th and 21st century politics.\n\n### 5. Critical Reception Studies\n\nThe University of Washington's Department of English published research on \"Orwell, Animal Farm, and the Politics of Critical Reception,\" examining how the novel's initial rejection during WWII due to its critique of the Soviet Union later became the reason for its massive success during the Cold War.\n\n### 6. Utopia to Dystopia Analysis\n\nResearch titled \"'Four Legs Good, Two Legs Better': The Change of Utopia to Dystopia in George Orwell's Animal Farm\" analyzes the allegorical plot and anthropomorphism in depicting the transformation from a peaceful farm to a tyrannical state, serving as a warning about paths that lead societies toward dystopia.\n\nThese academic papers demonstrate ongoing scholarly interest in Animal Farm across various analytical approaches including political science, literary criticism, discourse analysis, and contemporary applications. The research spans from 2016 to 2024, showing the novel's continued relevance in academic discourse."
+    ],
+    "durationSeconds": 32.79661109199934
+  }
+}

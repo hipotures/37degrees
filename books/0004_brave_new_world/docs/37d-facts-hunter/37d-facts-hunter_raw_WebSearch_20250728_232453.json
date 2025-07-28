@@ -1,0 +1,62 @@
+{
+  "session_id": "9588e4fa-c119-4986-be3b-1d3af7769f8f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/9588e4fa-c119-4986-be3b-1d3af7769f8f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Brave New World\" banned censorship history Ireland schools library challenges controversial"
+  },
+  "tool_response": {
+    "query": "\"Brave New World\" banned censorship history Ireland schools library challenges controversial",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01CXFdCLc91zKKL5eW9ny5Z3",
+        "content": [
+          {
+            "title": "Aldous Huxley, \u201cBrave New World\u201d \u2013 The Banned Books Project",
+            "url": "https://bannedbooks.library.cmu.edu/aldous-huxley-brave-new-world/"
+          },
+          {
+            "title": "Brave New World | The Censorship Files",
+            "url": "https://thecensorshipfiles.wordpress.com/volume-1/issue-2/brave-new-world/"
+          },
+          {
+            "title": "Banning of Brave New World by Aldous Huxley | Reasons & Irony - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/reason-brave-new-world-was-banned.html"
+          },
+          {
+            "title": "True Book Addict...Books, Cats, and More: Banned Books Week 2023 - Huxley's Brave New World",
+            "url": "http://www.truebookaddict.com/2023/10/banned-books-week-2023-huxleys-brave.html"
+          },
+          {
+            "title": "Brave New World As One Of The Most Banned Or Controversial Books Over The Years | Free Essay Example for Students",
+            "url": "https://aithor.com/essay-examples/brave-new-world-as-one-of-the-most-banned-or-controversial-books-over-the-years"
+          },
+          {
+            "title": "Brave New World: Dystopian Procreation and Censorship | Literature and Transgression",
+            "url": "https://transgresslit.wordpress.com/2014/04/27/brave-new-world-dystopian-procreation-and-censorship/"
+          },
+          {
+            "title": "Brave New World - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World"
+          },
+          {
+            "title": "Banned Books in Review: Brave New World \u00bb Sandpoint Reader",
+            "url": "https://sandpointreader.com/banned-books-in-review-brave-new-world/"
+          },
+          {
+            "title": "Banned Books Awareness: \u201cBrave New World\u201d \u2013 Banned Books Awareness",
+            "url": "https://bbark.deepforestproductions.com/column/2011/10/16/banned-books-awareness-brave-world/"
+          },
+          {
+            "title": "15 Things You Might Not Know About Brave New World",
+            "url": "https://www.mentalfloss.com/article/64046/15-things-you-might-not-know-about-brave-new-world"
+          }
+        ]
+      },
+      "Based on the search results, here's a comprehensive overview of \"Brave New World's\" history of censorship and banning, with particular focus on Ireland and school library challenges:\n\n## Ireland Ban (1932)\n\nThe novel was first banned in Ireland in 1932 for anti-religion, anti-family, and blasphemous content. One of the earliest instances of censorship occurred in 1932 when Ireland banned the novel on the grounds that it was deemed \"blasphemous\" and \"indecent\". This ban occurred almost immediately after the book's publication and set the stage for a pattern of censorship that would continue to surround the work and became a trend in other countries.\n\n## International Censorship History\n\nAustralia quickly followed by censoring the book in the same year as Ireland. The novel was banned in Ireland and Australia in 1932, with the latter maintaining its censorship for five years. In 1967, India banned Brave New World, with Huxley accused of being a \"pornographer\".\n\n## U.S. School and Library Challenges\n\nIn the United States, there were eight separate accounts of censorship in states including Maryland, Missouri, Oklahoma, California, Alabama, Texas, Indiana, and Delaware, all of which occurred in US public schools.\n\n### Specific U.S. Cases:\n- Schools in Miller, Mo., banned \"Brave New World\" in 1980 because of its characters' acceptance of promiscuous sex\n- The book was challenged as required reading in the Corona-Norco, Calif., Unified School District in 1993 because it \"centered around negative activity\"\n- A challenge in Mercedes, Texas, on the basis of adult content, resulted in the school board's ruling that school principals must offer alternate reading selections if parents challenge a book on a reading list\n- In one recent instance in 2010, a Seattle school challenged the novel for its negative depictions and racist terminology used regarding Native Americans\n\n## American Library Association Rankings\n\nBrave New World was rated #3 on the American Library Association's 2010 list of most challenged books. It landed on the list of the top ten most challenged books in 2010 (3) and 2011 (7). The book also secured a spot on the association's list of the top one hundred challenged books for 1990\u20131999 (54), 2000\u20132009 (36), and 2010\u20132019 (26).\n\n## Reasons for Censorship\n\nAccording to American Library Association, Brave New World has frequently been banned and challenged in the United States due to insensitivity, offensive language, nudity, racism, drug use, conflict with a religious viewpoint, and being sexually explicit.\n\nThe book's controversial themes include sexual promiscuity and drug use. In Brave New World, children are encouraged to welcome sexual advances through erotic play with other children, and societal leaders promote polygamous relations instead of single partners. The use of the drug soma was also a reason for many to encourage banning the book.\n\n## \"Stealth Censorship\"\n\nThe search results also reveal concerns about \"stealth censorship,\" where \"sometimes a parent, community member or even a librarian fearing controversy will quietly remove the book from the shelf\" which makes it nearly impossible to \"document and quantify this form of 'stealth censorship'\".\n\nThe novel continues to face challenges today, demonstrating its enduring controversial status in educational settings worldwide."
+    ],
+    "durationSeconds": 28.82765282000002
+  }
+}

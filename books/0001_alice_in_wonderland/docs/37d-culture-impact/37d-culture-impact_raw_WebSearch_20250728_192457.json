@@ -1,0 +1,63 @@
+{
+  "session_id": "6545194c-1a01-4819-963f-db6995a69675",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/6545194c-1a01-4819-963f-db6995a69675.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Alice in Wonderland\" psychological analysis video essay 2024 mental health interpretation"
+  },
+  "tool_response": {
+    "query": "\"Alice in Wonderland\" psychological analysis video essay 2024 mental health interpretation",
+    "results": [
+      "I'll search for recent video essays analyzing Alice in Wonderland from a psychological and mental health perspective.",
+      {
+        "tool_use_id": "srvtoolu_018nhzAiDF6iQzoGK3MQx5iA",
+        "content": [
+          {
+            "title": "(PDF) ALICE'S WONDERLAND: A PSYCHOLOGICAL ANALYSIS THROUGH BEHAVIOURISM",
+            "url": "https://www.researchgate.net/publication/377383243_ALICE'S_WONDERLAND_A_PSYCHOLOGICAL_ANALYSIS_THROUGH_BEHAVIOURISM"
+          },
+          {
+            "title": "The Psychological & Neurological Disorders Experienced by Characters in Alice in Wonderland: A Neuroscience Reading of Lewis Carroll's Classic Tale | Open Culture",
+            "url": "https://www.openculture.com/2018/01/the-psychological-neurological-disorders-experienced-by-characters-in-alice-in-wonderland.html"
+          },
+          {
+            "title": "Alice In Wonderland Psychological Analysis - 1560 Words | Cram",
+            "url": "https://www.cram.com/essay/Alice-In-Wonderland-Psychological-Analysis/P3VPWB9GR4EX"
+          },
+          {
+            "title": "Analyzing the Psychological Aspects of Alice in Wonderland | by The Psychology Of Everything | Medium",
+            "url": "https://medium.com/@thepsy.of.everything/analyzing-the-psychological-aspects-of-alice-in-wonderland-837cb643b048"
+          },
+          {
+            "title": "Alice in Wonderland and Mental Illness: Exploring the Psychological Themes in Carroll's Classic",
+            "url": "https://neurolaunch.com/alice-in-wonderland-mental-illness/"
+          },
+          {
+            "title": "The Psychology Within Alice In Wonderland | The Odyssey Online",
+            "url": "https://www.theodysseyonline.com/psychology-within-alice-wonderland"
+          },
+          {
+            "title": "Psychoanalysis and Alice In Wonderland | by Rama Khazem | Medium",
+            "url": "https://medium.com/@ramakhazemm1/psychoanalysis-and-alice-in-wonderland-9b0e45d1c0f4"
+          },
+          {
+            "title": "\u201cAlice in Wonderland\u201d: The Book, The Syndrome, and the Neuroscience of Perception - Psi Chi, The International Honor Society in Psychology",
+            "url": "https://www.psichi.org/blogpost/987366/499920/Alice-in-Wonderland--The-Book-The-Syndrome-and-the-Neuroscience-of-Perception"
+          },
+          {
+            "title": "Psychological Analysis Of Alice In Wonderland 1812 words [Essay Example]",
+            "url": "https://gradesfixer.com/free-essay-examples/psychological-analysis-of-alice-in-wonderland/"
+          },
+          {
+            "title": "(PDF) In Wonderland: a Phenomenological, Developmental and Self Psychological Analysis of a Child's Playful Encounter with a New Reality",
+            "url": "https://www.researchgate.net/publication/232429160_In_Wonderland_a_Phenomenological_Developmental_and_Self_Psychological_Analysis_of_a_Child's_Playful_Encounter_with_a_New_Reality"
+          }
+        ]
+      },
+      "Based on my search results, I found several recent analyses of Alice in Wonderland from a psychological and mental health perspective, though I didn't find specific video essays from 2024. Here's what the search revealed:\n\n## Recent Psychological Analyses of Alice in Wonderland\n\n### Academic Research (2023-2024)\nA 2023 ResearchGate study conducts a psychological analysis examining Alice through behaviorism, exploring how the disorder affects her perceptions and decision-making, and investigates literature's potential to reflect societal stigmas around mental health. Utilizing DSM-5 criteria, Alice's abnormal behaviors align with a diagnosis of paranoid schizophrenia.\n\n### Mental Health Themes Identified\n\n**Character-Specific Interpretations:**\n- **Alice**: Characterized as potentially experiencing Schizophrenia, Nightmare Disorder (Dream Anxiety Disorder), and Psychosis, with recurring dreams of falling down the rabbit hole into a backwards world\n- **Mad Hatter**: Depicted with bipolar disorder tendencies, showing both gloomy depression and manic episodes, talking rapidly and jumping between topics\n- **The Queen of Hearts**: Interpreted as representing authoritarian aspects of the superego, imposing arbitrary punishments and rules\n\n### 2024-2025 Content\nA February 2025 NeuroLaunch article explores how beneath the tea parties and talking animals lies a complex narrative that many believe mirrors the experience of mental illness, noting growing interest in psychological interpretations of Alice's adventures\n\n### Psychological Themes Explored\n1. **Identity and Adolescent Development**: Alice's physical transformations serve as powerful metaphors for the tumultuous period of adolescence, marked by profound changes and uncertainties\n\n2. **Eating Disorders**: The \"Eat Me\" and \"Drink Me\" episodes are interpreted as allegory for distorted body image and control issues central to conditions like anorexia and bulimia\n\n3. **Depression and Isolation**: The sense of isolation Alice feels echoes the loneliness and disconnection often associated with depression, with certain parts of Wonderland serving as metaphors for the emotional landscape of depression\n\n4. **Author's Psychology**: Lewis Carroll's own migraines may have influenced the vivid imagery, with some suggesting he experienced synesthesia, explaining the highly sensory nature of Wonderland\n\n### Contemporary Perspectives\nModern interpretations suggest that directors and writers have inadvertently shed light on multiple mental disorders through main characters, beautifying mental illnesses and portraying them in lovely ways that aren't immediately obvious\n\nWhile I didn't find specific video essays from 2024, these recent academic and online analyses show continuing interest in examining Alice in Wonderland through a mental health lens, with interpretations ranging from scholarly research to popular culture perspectives."
+    ],
+    "durationSeconds": 32.190032952999985
+  }
+}

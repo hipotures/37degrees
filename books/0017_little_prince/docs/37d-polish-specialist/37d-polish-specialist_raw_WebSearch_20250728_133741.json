@@ -1,0 +1,63 @@
+{
+  "session_id": "bb5bd92f-2e06-46b2-9b84-f65c0578b080",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/bb5bd92f-2e06-46b2-9b84-f65c0578b080.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Ma\u0142y Ksi\u0105\u017c\u0119 pierwszy t\u0142umacz polskie wydanie Saint-Exup\u00e9ry"
+  },
+  "tool_response": {
+    "query": "Ma\u0142y Ksi\u0105\u017c\u0119 pierwszy t\u0142umacz polskie wydanie Saint-Exup\u00e9ry",
+    "results": [
+      "I'll search for information about the first Polish translator and edition of \"The Little Prince\" by Saint-Exup\u00e9ry.",
+      {
+        "tool_use_id": "srvtoolu_01Jia3aLEceGM4XB4aJmWfD9",
+        "content": [
+          {
+            "title": "Antoine de Saint-Exup\u00e9ry, Ma\u0142y Ksi\u0105\u017c\u0119",
+            "url": "https://wolnelektury.pl/katalog/lektura/saint-exupery-maly-ksiaze/"
+          },
+          {
+            "title": "SAINT- EXUPERY - MA\u0141Y KSI\u0104\u017b\u0118 wyd.1, 1947r. | Antykwariat internetowy Sobieski",
+            "url": "https://antyksobieski.pl/de-saint-exupery-maly-ksiaze-wyd-i-1947r-18128.html"
+          },
+          {
+            "title": "Ma\u0142y Ksi\u0105\u017c\u0119 \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Ma\u0142y_Ksi\u0105\u017c\u0119"
+          },
+          {
+            "title": "Ma\u0142y Ksi\u0105\u017c\u0119 - Antoine de Saint-Exup\u00e9ry | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5171240/maly-ksiaze"
+          },
+          {
+            "title": "saint-exupery-maly-ksiaze.pdf",
+            "url": "https://wolnelektury.pl/media/book/pdf/saint-exupery-maly-ksiaze.pdf"
+          },
+          {
+            "title": "Ma\u0142y Ksi\u0105\u017c\u0119 - Streszczenie kr\u00f3tkie - Antoine de Saint-Exup\u00e9ry - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/antoine-de-saint-exupery/maly-ksiaze.streszczenie-krotkie"
+          },
+          {
+            "title": "Ma\u0142y Ksi\u0105\u017c\u0119 - Antoine de Saint-Exup\u00e9ry - Ksi\u0105\u017cka w ksi\u0119garni CapitalBook.pl",
+            "url": "https://capitalbook.com.pl/pl/p/Maly-Ksiaze-Antoine-de-Saint-Exupery/3733"
+          },
+          {
+            "title": "Ma\u0142y Ksi\u0105\u017c\u0119. Wydanie ekskluzywne - Antoine de Saint-Exup\u00e9ry | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/4973956/maly-ksiaze-wydanie-ekskluzywne"
+          },
+          {
+            "title": "Ma\u0142y Ksi\u0105\u017c\u0119 Antoine de Saint-Exup\u00e9ry | 59,99 z\u0142 | GWFoksal.pl",
+            "url": "https://www.gwfoksal.pl/maly-ksiaze-649630.html"
+          },
+          {
+            "title": "Ma\u0142y Ksi\u0105\u017c\u0119 - de Saint-Exupery Antoine",
+            "url": "https://www.empik.com/maly-ksiaze-de-saint-exupery-antoine,prod6880051,ksiazka-p"
+          }
+        ]
+      },
+      "Based on my search results, I found important information about the first Polish translator and edition of \"The Little Prince\" (Ma\u0142y Ksi\u0105\u017c\u0119) by Antoine de Saint-Exup\u00e9ry:\n\nThe first Polish edition was translated by Marta Malicka and published in 1947 by the publishing cooperative \"P\u0142omienie\" in Warsaw.\n\nThis translation was notably the second translation of The Little Prince in the world. The original first edition appeared in English, followed by the French edition.\n\nPolish was the first language in the world into which The Little Prince was translated (not counting English, in which the book appeared a few days before the French edition). The book appeared from the publishing house Sp\u00f3\u0142dzielnia Wydawnicza P\u0142omienie in Marta Malicka's translation just two years after the end of the war (Warsaw, 1947).\n\nThe next translations into German and Italian had to wait another two years. This highlights how quickly and enthusiastically Polish readers embraced this work.\n\nThe Little Prince aroused exceptional interest among Polish readers. Evidence of this is not only the fact that more than 20 translators have undertaken to translate the text from French into Polish. The version translated by Jan Szwykowski has the most editions - over 50 (as of 2024).\n\nIn summary, the first Polish translator was **Marta Malicka**, and the first Polish edition was published in **1947 in Warsaw by Sp\u00f3\u0142dzielnia Wydawnicza \"P\u0142omienie\"**, making it remarkably the second translation of the book in the world after English."
+    ],
+    "durationSeconds": 22.855927666000092
+  }
+}

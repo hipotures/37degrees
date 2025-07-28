@@ -1,0 +1,63 @@
+{
+  "session_id": "b8c17c71-efc6-4c19-9b68-e101c36de9c9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b8c17c71-efc6-4c19-9b68-e101c36de9c9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "1984 film adaptations complete list BBC 1956 Michael Radford 1984 television movie versions"
+  },
+  "tool_response": {
+    "query": "1984 film adaptations complete list BBC 1956 Michael Radford 1984 television movie versions",
+    "results": [
+      "I'll search for information about film adaptations of George Orwell's \"1984\" including the BBC 1956 version, Michael Radford's 1984 film, and television movie versions.",
+      {
+        "tool_use_id": "srvtoolu_01Qaq15dKTnpjWLp1rq5mENn",
+        "content": [
+          {
+            "title": "1984: Movie Adaptations | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/1984/movie-adaptations/"
+          },
+          {
+            "title": "Adaptations of Nineteen Eighty-Four - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Adaptations_of_Nineteen_Eighty-Four"
+          },
+          {
+            "title": "Nineteen Eighty-Four (1984 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four_(1984_film)"
+          },
+          {
+            "title": "1984 (1956 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/1984_(1956_film)"
+          },
+          {
+            "title": "Other Oceanias: a short history of Nineteen Eighty-Four adaptations | BFI",
+            "url": "https://www.bfi.org.uk/features/nineteen-eighty-four-adaptations"
+          },
+          {
+            "title": "1984 (1984) \u2b50 7.0 | Drama, Sci-Fi",
+            "url": "https://www.imdb.com/title/tt0087803/"
+          },
+          {
+            "title": "Michael Radford's adaptation of George Orwell's 1984 (1984) | Cagey Films",
+            "url": "https://www.cageyfilms.com/2019/11/michael-radfords-adaptation-of-george-orwells-1984-1984/"
+          },
+          {
+            "title": "Orwell's 1984 in Three Films (1954, 1956 & 1984) | Movie Review | MissLiberty.com",
+            "url": "https://missliberty.com/orwells-1984-in-three-films-1954-1956-1984-movie-review/"
+          },
+          {
+            "title": "1984 (1956) - Moria",
+            "url": "https://www.moriareviews.com/sciencefiction/1984-1956.htm"
+          },
+          {
+            "title": "\u200e1984 (1956) directed by Michael Anderson \u2022 Reviews, film + cast \u2022 Letterboxd",
+            "url": "https://letterboxd.com/film/1984/"
+          }
+        ]
+      },
+      "Based on the search results, here's a comprehensive list of film adaptations of George Orwell's \"1984\":\n\n## Complete List of 1984 Film Adaptations\n\n### Television Adaptations:\n\n1. **Studio One (1953)** - US TV\n   - 60 minute episode of the US tv series Studio One (1948-58) starring Eddie Albert as Winston and Lorne Greene as O'Brien\n\n2. **BBC Television Play (1954)**\n   - Celebrated tv play broadcast live on the BBC written by Nigel Kneale and starring Peter Cushing as Winston Smith and Andr\u00e9 Morell as O'Brien\n   - The impact of the BBC's 1954 television adaption soon became of interest to broadcasters\n\n3. **The World of George Orwell: 1984 (1965)** - British TV\n   - An episode of Theatre 625 starring David Buck as Winston and Jane Merrow as Julia\n\n4. **BBC Radio 4 (2013)**\n   - BBC Radio 4 broadcast a two-part adaptation starring Christopher Eccleston as Smith, Pippa Nixon as Julia and Tim Pigott-Smith as O'Brien\n\n### Feature Films:\n\n1. **1984 (1956)** - Directed by Michael Anderson\n   - Directed by Michael Anderson and starring Edmond O'Brien, Jan Sterling, Michael Redgrave, and Donald Pleasence\n   - The characters of O'Brien and Goldstein are renamed O'Conner and Calidor\n   - Secretly funded by the Central Intelligence Agency. The film received a 100,000 dollar subsidy from the U.S. Information Agency\n\n2. **Nineteen Eighty-Four (1984)** - Directed by Michael Radford\n   - Directed by Michael Radford and starring John Hurt, Richard Burton, and Suzanna Hamilton\n   - Nineteen Eighty-Four was Burton's last screen appearance; it was released two months after his death\n   - Shot during the actual dates mentioned in the novel\n\n3. **1984 (2023)** - Finnish production\n   - In November 2022 it was announced that the feature-length adaptation by Finnish director Diana Ringo was filmed and will be released in 2023\n   - Shot in Russia\n\n### In Development:\n\n- **Hollywood Reboot** \n  - In March 2012 it was announced that a consortium of Hollywood production companies including Imagine Entertainment was set to reboot... In November 2015, Paul Greengrass was attached to direct\n  - In 2017, Graham began a rewrite of the film... In 2020, Graham confirmed that the project had been postponed\n\n### Radio Adaptations:\n\n1. **NBC University Theater (1949)**\n   - NBC University Theater's \"disturbing broadcast\" for radio featured future James Bond actor David Niven\n\n2. **Australian Radio (1955)**\n   - Producers went all-out for the 1955 \"radio event of the year\", and recruited horror icon Vincent Price to play Smith\n\n3. **BBC Radio 4 (1984)**\n   - BBC Radio 4 broadcast an abridged reading by Kenneth Haigh of the novel in fifteen parts\n\n4. **BBC Radio 2 (2005)**\n   - BBC Radio 2 broadcast an abridged reading by Corin Redgrave of the novel in eight weekly parts\n\n5. **Audible (2024)**\n   - Audible released an audiobook adaptation... starring Andrew Garfield as Smith, Tom Hardy as Big Brother, Cynthia Erivo as Julia\n\n### Other Adaptations:\n\n- **Opera (2005)**\n  - The opera 1984 was composed by Lorin Maazel and directed by Robert Lepage... The opera premiered on 3 May 2005 at the Royal Opera House\n\nThe most significant film adaptations remain the 1956 version directed by Michael Anderson and the 1984 version directed by Michael Radford, with the latter generally considered the definitive cinematic interpretation."
+    ],
+    "durationSeconds": 44.26264362900006
+  }
+}

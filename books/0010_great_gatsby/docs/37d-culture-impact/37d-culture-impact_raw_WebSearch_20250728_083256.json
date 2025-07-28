@@ -1,0 +1,63 @@
+{
+  "session_id": "e18f7f1c-5883-41e4-8ef9-15aee4aa266b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e18f7f1c-5883-41e4-8ef9-15aee4aa266b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Great Gatsby\" references modern songs pop music theater musical adaptations Broadway immersive theater"
+  },
+  "tool_response": {
+    "query": "\"Great Gatsby\" references modern songs pop music theater musical adaptations Broadway immersive theater",
+    "results": [
+      "I'll search for information about The Great Gatsby's influence on modern music and theater adaptations.",
+      {
+        "tool_use_id": "srvtoolu_016Mymrh1rUkNT1djnPU9Fy6",
+        "content": [
+          {
+            "title": "The Great Gatsby (musical) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Great_Gatsby_(musical)"
+          },
+          {
+            "title": "All the adaptations of 'The Great Gatsby' on Broadway and beyond | New York Theatre Guide",
+            "url": "https://www.newyorktheatreguide.com/theatre-news/news/all-the-adaptations-of-the-great-gatsby-on-broadway-and-beyond"
+          },
+          {
+            "title": "THE GREAT GATSBY | Official Broadway Site | GET TICKETS",
+            "url": "https://broadwaygatsby.com/everything-you-need-to-know"
+          },
+          {
+            "title": "The Great Gatsby Broadway Review \u2013 New York Theater",
+            "url": "https://newyorktheater.me/2024/04/26/the-great-gatsby-broadway-review/"
+          },
+          {
+            "title": "The Great Gatsby Tickets | New York | TodayTix",
+            "url": "https://www.todaytix.com/nyc/shows/38749-the-great-gatsby-on-broadway"
+          },
+          {
+            "title": "The Great Gatsby Broadway Tickets | The Official NY Theatre Guide",
+            "url": "https://www.newyorktheatreguide.com/show/38749-the-great-gatsby-on-broadway"
+          },
+          {
+            "title": "Everything you need to know about 'The Great Gatsby' on Broadway | New York Theatre Guide",
+            "url": "https://www.newyorktheatreguide.com/theatre-news/news/everything-you-need-to-know-about-the-great-gatsby-on-broadway"
+          },
+          {
+            "title": "The Great Gatsby on Broadway Tickets | Broadway.com",
+            "url": "https://www.broadway.com/shows/the-great-gatsby/"
+          },
+          {
+            "title": "'The Great Gatsby' Review: Broadway Musical Has Glamour, No Grit",
+            "url": "https://variety.com/2024/legit/reviews/the-great-gatsby-review-broadway-musical-jeremy-jordan-1235981841/"
+          },
+          {
+            "title": "GATSBY | Official Site",
+            "url": "https://gatsbybway.com/"
+          }
+        ]
+      },
+      "Based on my search results, I can provide you with comprehensive information about The Great Gatsby's adaptations and references in modern music and theater:\n\n## Broadway Musical Adaptations\n\n### The Great Gatsby (2023-2024)\nThe Great Gatsby is a 2023 stage musical with music and lyrics by Jason Howland and Nathan Tysen, and a book by Kait Kerrigan. The show started its Broadway previews on March 29, 2024, at the Broadway Theatre and officially opened on April 25, 2024.(no content)The show made its European debut at the London Coliseum for a limited run from April 11, 2025 until September 7, 2025.\n\nThe musical's score is particularly notable for blending period jazz and contemporary pop sounds, and some song titles borrow from famous phrases in the book, like \"My Green Light\" and \"Beautiful Little Fool.\"(no content)Jason Howland and Nathan Tysen's original score infuses the jazzy music style of the '20s with a contemporary flair, creating a unique musical experience that bridges past and present.\n\n### Gatsby: An American Myth\nF. Scott Fitzgerald's legendary novel The Great Gatsby comes to new life in this world premiere musical with a score by international rock star Florence Welch (Florence + The Machine) and Oscar\u00ae and Grammy\u00ae Award nominee Thomas Bartlett (Doveman), and a book by Pulitzer Prize winner Martyna Majok (Cost of Living). GATSBY is staged by Tony Award\u00ae-winning director Rachel Chavkin (Hadestown; Natasha, Pierre & The Great Comet of 1812; Moby-Dick), with choreography by Tony Award\u00ae winner Sonya Tayeh (Moulin Rouge!).(no content)This Great Gatsby musical is one of two in the works right now: Another one titled Gatsby: An American Myth is premiering in Cambridge, Massachusetts this spring.\n\n## Immersive Theater Experiences\n\n### The Great Gatsby: The Immersive Show\nThe Great Gatsby: The Immersive Show ran off Broadway from June to August 2023, offering audiences a chance to experience Gatsby's world firsthand. British theatremakers Alexander Wright and Brian Hook co-conceived the show in a London pub in 2015, and it went on to play various London venues for seven total years, making The Great Gatsby the city's longest-running immersive show of all time.(no content)The show has since played in Belgium, South Korea, Wales, Ireland, and, most recently, New York.\n\n## Other Notable Adaptations\n\n### Gatz\nCreated by the experimental theatre company Elevator Repair Service, it's a 6.5-hour, word-for-word staging of Fitzgerald's entire novel. Gatz (so titled because Jay Gatsby's legal name is James Gatz) begins with a businessman finding a copy of the book on his cluttered desk, which he begins to read \u2014 and soon becomes engrossed, bringing the characters to life.\n\n## Historical Context\n\nIn 2021, The Great Gatsby book entered the public domain, kicking off a wave of new adaptations. This explains the recent surge in theatrical productions based on the novel.\n\n## Critical Reception\n\nThe Broadway musical has received mixed reviews, with critics noting both its spectacular visuals and some substantive concerns. 'The Guardian described the original Broadway performance as an 'underwhelming transfer to stage in a bombastic yet misfiring new production' criticizing the play's comedic direction, while The New York Times stated that 'This musical adaptation, now on Broadway, is a lot of Jazz Age fun. But it forgot that Fitzgerald's 1925 novel endures because it is a tragedy.'\n\nThe choreography for the Broadway musical is noteworthy, as Choreographer Dominique Kelley is a two-time Henry Award and two-time Broadway World Award winner who's worked with pop stars like Beyonc\u00e9, Janet Jackson, Mariah Carey, Usher, Ariana Grande, Jennifer Hudson, and P!nk.\n\nThese adaptations demonstrate how The Great Gatsby continues to inspire modern artists across different theatrical formats, from traditional Broadway musicals to immersive experiences, each bringing their own interpretation to Fitzgerald's timeless story while incorporating contemporary musical influences."
+    ],
+    "durationSeconds": 41.699555115999885
+  }
+}

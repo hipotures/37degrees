@@ -1,0 +1,62 @@
+{
+  "session_id": "ad0134af-ec8f-4d33-afa8-be303b4ad42f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ad0134af-ec8f-4d33-afa8-be303b4ad42f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Alice in Wonderland\" gaming simulation theory alternate reality glitch aesthetic indie games Gen Z"
+  },
+  "tool_response": {
+    "query": "\"Alice in Wonderland\" gaming simulation theory alternate reality glitch aesthetic indie games Gen Z",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01JdMtPHM7vTek5v29X1SQ8Z",
+        "content": [
+          {
+            "title": "Best Games Inspired By Alice in Wonderland",
+            "url": "https://gamerant.com/best-games-inspired-by-alice-in-wonderland/"
+          },
+          {
+            "title": "10 Video Games Inspired By Alice In Wonderland",
+            "url": "https://www.thegamer.com/video-games-alice-in-wonderland-inspired/"
+          },
+          {
+            "title": "10 Best Alice In Wonderland Inspired Games",
+            "url": "https://screenrant.com/alice-in-wonderland-best-video-games/"
+          },
+          {
+            "title": "GAF Reminisces: \"Alice in Wonderland\" inspired games | NeoGAF",
+            "url": "https://www.neogaf.com/threads/gaf-reminisces-alice-in-wonderland-inspired-games.389344/"
+          },
+          {
+            "title": "Alice in Wonderland",
+            "url": "https://store.steampowered.com/search/?term=Alice+in+Wonderland"
+          },
+          {
+            "title": "JUSTIN HACKNEY | \"ALICE IN WONDERLAND - THE SIMULATION PARADOX\" | Mad Cow Films",
+            "url": "https://www.madcowfilms.co.uk/news/view/justin-hackney-alice-in-wonderland-the-simulation-paradox"
+          },
+          {
+            "title": "Wonderland; An Idea for a Game - Works In Progress - Choice of Games Forum",
+            "url": "https://forum.choiceofgames.com/t/wonderland-an-idea-for-a-game/16484"
+          },
+          {
+            "title": "How Alternate Reality Games Are Changing The Real World: Big Brains podcast | University of Chicago News",
+            "url": "https://news.uchicago.edu/big-brains-podcast-how-alternate-reality-games-are-changing-real-world"
+          },
+          {
+            "title": "Alice: Madness Returns - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Alice:_Madness_Returns"
+          },
+          {
+            "title": "Why videogames love Alice in Wonderland - Kill Screen - Previously",
+            "url": "https://killscreen.com/previously/articles/why-videogames-love-alice-in-wonderland/"
+          }
+        ]
+      },
+      "Based on the search results, I found information about various Alice in Wonderland-inspired games that touch on themes of simulation theory, alternate reality, glitch aesthetics, and appeal to Gen Z audiences. Here's what I discovered:\n\n## Alice in Wonderland-Inspired Games with Modern Themes\n\nAlice in Wonderland has served as inspiration for many video games, with developers drawing from its themes of altered reality and psychological depth in various ways.\n\n### Games with Simulation/Alternate Reality Elements\n\n**American McGee's Alice Series**: Alice: Madness Returns follows Alice Liddell, a young woman suffering from trauma caused by the death of her family in a fire. Alice was discharged from a psychiatric clinic and now lives in an orphanage for mentally traumatized orphans under the care of Dr. Angus Bumby. To get rid of the trauma and learn the truth about her past, she once again falls into Wonderland, where a new evil force has corrupted it.(no content)Alice: Madness Returns, over time has stayed consistent as an 'underrated masterpiece' within internet culture since its initial release with a cult following.\n\n**Psychological Horror Games**: Decarnation is a psychological horror game that follows Grace, a cabaret dancer approaching her 30s and grappling with the fading spark of her career... the opportunity quickly turns into a nightmare when she is kidnapped and thrust into a harrowing descent where the lines between dream and reality begin to blur beyond recognition.\n\n### Glitch Aesthetic and Reality-Bending Games\n\nThe psychological horror of Fran Bow takes the story of Alice in another direction but still shows its influences in the aesthetic choices and character development. It is not unusual for those familiar with the Alice stories to take insanity as one of the key themes of the plot.\n\n**VR and Modern Interpretations**: VR is a realm of endless promises, and one of the things it promises is to give us a new breed of Alice game... seems to follow NaissanceE by invoking them not only as a reference point but as a kind of template for the entire genre... Things are weird, and you can't quite discern why from your limited, small perspective; the laws of reality are subject to sudden abrogation.\n\n### Simulation Theory Connection\n\nOne particularly interesting connection emerged from the search: The concept of simulation theory has intrigued me since childhood, a cherished memory of mine involves my grandmother\u2014a woman profoundly in tune with nature, yet also a passionate gamer... She paused, looked at me, and whispered, \"One day, these virtual worlds will be as real as our own.\" This quote comes from a fan-made project called \"Alice in Wonderland - The Simulation Theory.\"\n\n### Alternate Reality Games (ARGs)\n\nSo the rabbit hole really comes from Alice in Wonderland... The rabbit holes are what you call the first introduction or way into the game that a character can find.(no content)And there's actually a term for this: It's called the, \"this is not a game\" aesthetic.\n\n### Why Games Love Alice\n\nWhy do videogames love Alice's Adventures in Wonderland (1865)? Again and again they return to it as a reference point, regardless of genre, regardless of style.(no content)Games like Madness Returns and Far Cry invoke Alice to reach for a marketable tone, casting themselves into a higher plane of mordant cynicism, while others use it for its \"highbrow baggage\" and avant-garde associations.\n\nThe search reveals that Alice in Wonderland continues to inspire indie game developers who are creating experiences that blur the lines between reality and simulation, often featuring glitch aesthetics and psychological themes that resonate with modern audiences, particularly Gen Z players who are drawn to these reality-questioning narratives."
+    ],
+    "durationSeconds": 27.40366758999997
+  }
+}

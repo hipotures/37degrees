@@ -1,0 +1,63 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Jane Eyre\" social class symbols clothing architecture governess position inheritance money power"
+  },
+  "tool_response": {
+    "query": "\"Jane Eyre\" social class symbols clothing architecture governess position inheritance money power",
+    "results": [
+      "I'll search for information about social class symbols in Jane Eyre, focusing on clothing, architecture, the governess position, inheritance, money, and power.",
+      {
+        "tool_use_id": "srvtoolu_012DVEccF5AztM8PC4sqhEEB",
+        "content": [
+          {
+            "title": "Social Class and Social Rules Theme in Jane Eyre | LitCharts",
+            "url": "https://www.litcharts.com/lit/jane-eyre/themes/social-class-and-social-rules"
+          },
+          {
+            "title": "Jane Eyre Themes: Social Class - eNotes.com",
+            "url": "https://www.enotes.com/topics/jane-eyre/themes/social-class"
+          },
+          {
+            "title": "Feminism & Gender Roles in Jane Eyre by Charlotte Bronte - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/feminism-gender-roles-in-jane-eyre.html"
+          },
+          {
+            "title": "Jane Eyre: Themes | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/janeeyre/themes/"
+          },
+          {
+            "title": "Social Class in Jane Eyre by Charlotte Bront\u00eb | UKEssays.com",
+            "url": "https://www.ukessays.com/essays/english-literature/social-class-in-jane-eyre-by-charlotte-bronte.php"
+          },
+          {
+            "title": "Jane Eyre - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Jane_Eyre"
+          },
+          {
+            "title": "How does the theme of social class manifest in 'Jane Eyre'? - Quora",
+            "url": "https://www.quora.com/How-does-the-theme-of-social-class-manifest-in-Jane-Eyre"
+          },
+          {
+            "title": "Class Attitudes in The Westminster Review and Jane Eyre",
+            "url": "https://victorianweb.org/authors/bronte/cbronte/73cbclass.html"
+          },
+          {
+            "title": "Jane Eyre (character) | Classic Literature Wikia | Fandom",
+            "url": "https://classic-literature.fandom.com/wiki/Jane_Eyre_(character)"
+          },
+          {
+            "title": "Styling the Self: Exploring Identity Formation Through Clothing in Charlotte Bront\u00eb\u2019s Jane Eyre | Wilkie Collins Society",
+            "url": "https://wilkiecollinssociety.org/styling-the-self-exploring-identity-formation-through-clothing-in-charlotte-brontes-jane-eyre/"
+          }
+        ]
+      },
+      "Based on my search results, I can provide comprehensive information about social class symbols in Jane Eyre, particularly focusing on clothing, architecture, the governess position, inheritance, money, and power.\n\n## Social Class Symbols in Jane Eyre\n\n### The Governess Position as a Class Symbol\n\nBoth as an orphan at Gateshead and as a governess at Thornfield, Jane holds a position that is between classes, and interacts with people of every level, from working-class servants to aristocrats.(no content)Bront\u00eb's exploration of the complicated social position of governesses is perhaps the novel's most important treatment of this theme. Like Heathcliff in Wuthering Heights, Jane is a figure of ambiguous class standing and, consequently, a source of extreme tension for the characters around her. Jane's manners, sophistication, and education are those of an aristocrat, because Victorian governesses, who tutored children in etiquette as well as academics, were expected to possess the \"culture\" of the aristocracy. Yet, as paid employees, they were more or less treated as servants; thus, Jane remains penniless and powerless while at Thornfield.(no content)Jane's role as a governess highlights the precarious position of women who were \"a little better than poor,\" with limited prospects for upward mobility. This liminal position creates constant tension throughout the novel.\n\n### Clothing as Social Class Marker\n\nWhen she unknowingly meets Mr Rochester for the first time, Jane describes how \"He stopped, ran his eye over my dress, which, as usual, was quite simple: a black merino cloak, a black beaver bonnet; neither of them half fine enough for a lady's-maid. He seemed puzzled to decide what I was; I helped him\". In this instance not only does Jane draw attention to the difference between herself and other women, but she is able to rebuff Rochester's sweeping male gaze, as he cannot immediate identify her social position. His inability to promptly infer her social identity creates a momentary hesitation, which gives Jane the opportunity to speak for herself. In the tangled \"contact zone\" between Jane's body and her simple black garments, she is able (through her socially powered, self-fashioned plainness) to identify herself.(no content)Beaujot proposes that particularly for Victorian middle-class women like Jane, their interaction with clothing and accessories \"reveal[ed] a rich cultural nexus\", wherein \"femininity is an identity constructed through a series of gestures and movements that come to represent 'womanhood\". In response, women like Jane emphasized their internal moral strength through external plainness, simplicity and neatness, which highlighted traditional values \"such as work ethic, self-restraint, and modesty\".(no content)From Miss Temple's sensible, kind authority to Blanche Ingram's haughty, magnificent beauty, the personality, morality and social place of every woman in the text is filtered through Jane's first-person narrative perspective and becomes inextricably linked to what they wear \u2013 herself included. Each female character she encounters is accounted for in her narrative in terms of the frivolity of their clothing. Following Boehm's assertion that nineteenth-century clothing had the power to blur the boundaries between subject and object \u2013 I would like to suggest that in Bront\u00eb's text the garments worn by women are read by Jane as an integral facet of that character's personal morality.\n\n### Architecture and Physical Spaces\n\nThe Gothic manor of Thornfield Hall was probably inspired by North Lees Hall, near Hathersage in the Peak District in Derbyshire. It was the residence of the Eyre family, and its first owner, Agnes Ashurst, was reputedly confined as a lunatic in a padded second floor room.\n\nThe novel uses different architectural spaces to represent social class:\n- Gateshead Hall: The Reed family's wealthy estate where Jane is treated as an inferior dependent\n- Lowood School: The charity institution with poor conditions reflecting the treatment of lower-class children\n- Thornfield Hall: The grand Gothic manor representing Rochester's aristocratic status\n- Moor House: The modest home of the Rivers family\n- Ferndean Manor: Rochester's retreat after Thornfield burns\n\n### Inheritance and Money as Power\n\nSt John learns Jane's true identity and astounds her by telling her that her uncle, John Eyre, has died and left her his entire fortune of 20,000 pounds (equivalent to US $2.24 million in 2022).(no content)Jane's inheritance is crucial as it grants her financial independence, allowing her to marry Rochester as an equal partner. Previously, she was a pauper, reliant on others, which made her uncomfortable, especially in earlier marriage plans with Rochester. Her 20,000 pounds inheritance, shared with her cousins, ensures she is no longer dependent, enabling a relationship based on mutual interdependence rather than the traditional male-dominated hierarchy of the era.(no content)Ultimately, Jane is only able to marry Rochester as his equal because she has almost magically come into her own inheritance from her uncle.(no content)Jane gains money and power by the end of the novel, which allows her to enter marriage on her terms on equal standing with Rochester.\n\n### Class Prejudice and Social Rules\n\nYou have no business to take our books; you are a dependant, mama says; you have no money; your father left you none; you ought to beg, and not to live here with gentlemen's children like us. This quote from John Reed demonstrates how class differences are used to justify cruel treatment.\n\n\"You have no business to take our books; you are a dependant, mama says; you have no money; your father left you none; you ought to beg, and not to live here with gentlemen's like us, and eat the same meals we do, and wear clothes at our mamma's expense.\" (Bront\u00eb 5) John Reed judges Jane because she comes from a poor family. Jane is an orphan with no money, she lives with the rich Reed family but they treat her as less than human. Jane develops an understanding that poor people are less than human they don't have good clothes or food and they beg on the streets. She learns that poor people are \"dependent\" and they can't read the same books as rich people because they are lower in the social class rank.\n\n### Social Mobility and Class Boundaries\n\nLife in 19th-century Britain was governed by social class, and people typically stayed in the class into which they were born.(no content)Jane shifts from lower to middle, to upper class throughout the novel, and is judged by other characters for her class status, the same way she judges them.(no content)The theme of social class in Jane Eyre highlights the rigid class structure of Victorian England and the challenges faced by individuals in transcending these boundaries. Through the protagonist, Jane Eyre, Charlotte Bront\u00eb critiques the social hierarchy and emphasizes the importance of individual worth over societal status. The novel explores the limitations imposed by class and gender, and Bront\u00eb's portrayal of Jane's journey reflects her own progressive views on social mobility and equality.\n\nThe novel ultimately argues that personal virtues are better indicators of character than class. However, it's important to note that What becomes apparent towards the end of the novel is that Jane herself endorses the social caste system. The tone of her words reveals this contradiction."
+    ],
+    "durationSeconds": 63.47147127599991
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Jane Eyre\" postcolonial interpretation Bertha Mason Wide Sargasso Sea racism colonial critique"
+  },
+  "tool_response": {
+    "query": "\"Jane Eyre\" postcolonial interpretation Bertha Mason Wide Sargasso Sea racism colonial critique",
+    "results": [
+      "I'll search for information about postcolonial interpretations of \"Jane Eyre,\" particularly focusing on Bertha Mason, \"Wide Sargasso Sea,\" and colonial critique.",
+      {
+        "tool_use_id": "srvtoolu_01BECPwvyXCrLd9rFHf5Uwo2",
+        "content": [
+          {
+            "title": "A Postcolonial Analysis of Jane Eyre and Wide Sargasso Sea",
+            "url": "https://www.ijmra.us/project%20doc/2016/IJRSS_AUGUST2016/IJRSSAug16NK.pdf"
+          },
+          {
+            "title": "a Study of Wide Sargasso Sea as a Response to Jane Eyre",
+            "url": "https://digitalcommons.colby.edu/cgi/viewcontent.cgi?article=1283&context=honorstheses"
+          },
+          {
+            "title": "\"Wide Sargasso Sea\" by Jean Rhys as a postcolonial response to \"Jane Eyre\" by Charlotte Bronte - GRIN | Grin",
+            "url": "https://www.grin.com/document/170690"
+          },
+          {
+            "title": "Loss of Cultural Identity of Bertha Mason in Jane Eyre and ...",
+            "url": "https://www.jetir.org/papers/JETIR1701A57.pdf"
+          },
+          {
+            "title": "Jean Rhys's Wide Sargasso Sea: A Postcolonial Response to Jane Eyre | Algor Cards",
+            "url": "https://cards.algoreducation.com/en/content/3qqu0TZp/wide-sargasso-sea-postcolonial-perspective"
+          },
+          {
+            "title": "Contextualizing Racialized Interpretations of Bertha Mason's Character",
+            "url": "https://victorianweb.org/authors/bronte/cbronte/cho10.html"
+          },
+          {
+            "title": "The Postcolonial Rewriting of Colonial Stories: Jane Eyre and Wide Sargasso Sea - GRIN | Grin",
+            "url": "https://www.grin.com/document/181105"
+          },
+          {
+            "title": "Intertextuality in Wide Sargasso Sea - Free Essay Example - Edubirdie",
+            "url": "https://hub.edubirdie.com/examples/intertextuality-features-in-the-book-wide-sargasso-sea/"
+          },
+          {
+            "title": "Comparative Analysis between Wide Sargasso Sea and Jane Eyre | by Akshintadas | Medium",
+            "url": "https://akshintadas2001.medium.com/comparative-analysis-between-wide-sargasso-sea-and-jane-eyre-418b0ba5af1e"
+          },
+          {
+            "title": "A Postcolonial Approach to the Novel",
+            "url": "https://www.cliffsnotes.com/literature/j/jane-eyre/critical-essays/a-postcolonial-approach-to-the-novel"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about postcolonial interpretations of \"Jane Eyre,\" particularly focusing on Bertha Mason, \"Wide Sargasso Sea,\" and colonial critique:\n\n## Postcolonial Analysis of Jane Eyre and Wide Sargasso Sea\n\nWide Sargasso Sea serves as a significant postcolonial response to Jane Eyre, highlighting Jean Rhys's deconstruction of Charlotte Bront\u00eb's narrative. Published in 1966, Rhys's novel reimagines the life of Bertha Mason, the \"madwoman in the attic,\" as Antoinette Cosway, a Creole heiress from Jamaica.\n\n### Key Postcolonial Themes\n\n**1. Giving Voice to the Marginalized**\nRhys's effort to give Bertha Mason a voice, identity, and a believable past contrasts sharply with Bront\u00eb's stereotypical depiction. After the publication of Wide Sargasso Sea, Bertha Mason's ambiguous racial background became the subject of various postcolonial debates, as Rhys' work \"retells\" portions of Bront\u00eb's story through the voice of the oppressed Bertha, whose imprisonment in Thornfield's attic arguably represented the oppression of a racial inferior, a half-Jamaican Creole.\n\n**2. Critique of Colonialism and Racism**\nBy foregrounding issues of race and cultural identity, Rhys interrogates the colonial underpinnings of Bront\u00eb's narrative. Wide Sargasso Sea delves into the profound effects of oppression and alienation, examining how colonial and patriarchal systems dehumanize individuals and strip them of their autonomy, exposing the simplistic notions of \"madness\" and the exoticization of the Caribbean.\n\n**3. Identity and Cultural Displacement**\nAntoinette's struggle with her Creole identity is emblematic of the broader colonial tensions that define her world. This cultural hybridity is a site of both conflict and potential, reflecting the complexities of postcolonial identity formation. Rhys's depiction of Antoinette's fractured identity challenges the monolithic representations of race and culture in \"Jane Eyre\".\n\n### Critical Perspectives\n\n**Gayatri Chakravorty Spivak's Analysis**\nThe analysis incorporates Gayatri Chakravorty Spivak's perspective to provide a critical lens through which to analyze both Wide Sargasso Sea and Jane Eyre, furthering the exploration of postcolonial themes and power dynamics.\n\n**The \"Madwoman\" Reinterpreted**\nIn \"Jane Eyre\", Bertha's madness is depicted as innate and destructive, serving as a plot device to facilitate Jane's eventual triumph. However, in Wide Sargasso Sea, Rhys transforms Bertha Mason from a gothic plot device into Antoinette Cosway, a fully realized character whose life is marked by a series of losses and betrayals that contribute to her psychological distress, challenging the reader to see Antoinette as a victim of colonial and patriarchal oppression.\n\n### Colonial Violence and Sacrifice\nPost-colonial critics argue that Bertha, the foreign woman, is sacrificed so that British Jane can achieve self-identity. The representation of Bertha presents native peoples in the colonies as coarse, lascivious, and ignorant, thus justifying missionary roles and perpetuating a belief in British, Christian-based moral and spiritual superiority.\n\n### Intertextuality and Resistance\nWide Sargasso Sea serves as a literary critique to texts which carry racial or colonial undertones, written as a postcolonial prequel to Jane Eyre that describes from the perspective of the formerly colonized. Through its intertextual connections, \"Wide Sargasso Sea\" reshapes the reader's understanding of \"Jane Eyre\", challenging dominant narratives and providing a voice to the previously silenced character of Bertha, utilizing these elements to critique and expand upon the themes of race, gender, and power established in \"Jane Eyre\".\n\n### Conclusion\nWide Sargasso Sea serves as a potent example of intertextuality in literature, reshaping and expanding the narrative of Jane Eyre through its exploration of race, gender, and mental health, not only critiquing the colonial and patriarchal structures of the 19th century but also offering a voice to the marginalized character of Bertha.\n\nThe postcolonial reading of these texts reveals how colonial ideologies shaped Victorian literature and how contemporary writers like Rhys have worked to deconstruct and challenge these narratives, giving agency and humanity to previously silenced voices."
+    ],
+    "durationSeconds": 43.54838750299998
+  }
+}

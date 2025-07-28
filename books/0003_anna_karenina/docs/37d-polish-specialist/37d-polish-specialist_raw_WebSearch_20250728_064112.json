@@ -1,0 +1,63 @@
+{
+  "session_id": "7ca65eb2-e5d0-4143-8931-90f15001b62e",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7ca65eb2-e5d0-4143-8931-90f15001b62e.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Anna Karenina To\u0142stoj lektura szkolna obowi\u0105zkowa MEN podstawa programowa"
+  },
+  "tool_response": {
+    "query": "Anna Karenina To\u0142stoj lektura szkolna obowi\u0105zkowa MEN podstawa programowa",
+    "results": [
+      "I'll search for information about Anna Karenina by Tolstoy as required reading in Polish schools according to the Ministry of Education curriculum.",
+      {
+        "tool_use_id": "srvtoolu_01Rzc1ycaWsB4tMGHCu8wS43",
+        "content": [
+          {
+            "title": "Verifying...",
+            "url": "https://opus.us.edu.pl/docstore/download/USLb32b5b8427b44377a624d4fc50ea59a2/Jedrych_Lektury_w_programach_dla_szkoly_podstawowej.pdf?entityType=article"
+          },
+          {
+            "title": "Anna Karenina (To\u0142stoj, 1898)/ca\u0142o\u015b\u0107 - Wiki\u017ar\u00f3d\u0142a, wolna biblioteka",
+            "url": "https://pl.wikisource.org/wiki/Anna_Karenina_(To\u0142stoj,_1898)/ca\u0142o\u015b\u0107"
+          },
+          {
+            "title": "Anna Karenina \u2013 opracowanie, problematyka, bohaterowie - streszczenie, opracowanie na wypracowania.pl",
+            "url": "https://wypracowania.pl/lektury/anna-karenina-opracowanie-problematyka-bohaterowie"
+          },
+          {
+            "title": "Anna Karenina - Lew To\u0142stoj | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5043957/anna-karenina"
+          },
+          {
+            "title": "Lektura szkolna \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Lektura_szkolna"
+          },
+          {
+            "title": "To\u0142stoj Lew - Anna Karenina | PDF",
+            "url": "https://www.scribd.com/doc/119761147/To%C5%82stoj-Lew-Anna-Karenina"
+          },
+          {
+            "title": "To\u0142stoj Lew - Anna Karenina - PDFCOFFEE.COM",
+            "url": "https://pdfcoffee.com/tostoj-lew-anna-karenina-pdf-free.html"
+          },
+          {
+            "title": "Lista lektur \u2013 nowa podstawa programowa (od 2024 roku) | Zesp\u00f3\u0142 Szk\u00f3\u0142 Agro-Ekonomicznych im. Bronis\u0142awa Zamojdzina w Karolewie",
+            "url": "https://zsae-karolewo.home.pl/?page_id=8511"
+          },
+          {
+            "title": "Anna Karenina | Lew To\u0142stoj (Ksi\u0105\u017cka) - Ksi\u0119garnia znak.com.pl",
+            "url": "https://www.znak.com.pl/ksiazka/anna-karenina-lew-tolstoj-3502"
+          },
+          {
+            "title": "Ore",
+            "url": "https://ore.edu.pl/wp-content/uploads/2021/09/znowelizowana-lista-lektur-w-podstawie-programowej-sp-1.pdf"
+          }
+        ]
+      },
+      "Based on my search results, I found that in Poland, required school readings are contained in the current regulation of the Minister of National Education. However, the search results do not provide specific information about whether \"Anna Karenina\" by Leo Tolstoy is currently included as a required reading in the Polish school curriculum according to the Ministry of Education's core curriculum.\n\nThe search results show that:\n\n1. The novel \"Anna Karenina\" by Leo Tolstoy was written between 1873-1877\n\n2. It is listed as \"Reading for secondary schools\" on some book publisher websites\n\n3. Various regulations from the Ministry of National Education from 1999, 2001, and 2002 established lists of required and supplementary readings for different school levels\n\n4. The search found a list of required readings from a school website dated 2024, but it doesn't mention Anna Karenina in the visible excerpt\n\nUnfortunately, the search results don't provide a definitive answer about whether \"Anna Karenina\" is currently on the official list of required readings (lektury obowi\u0105zkowe) in the Polish educational system according to the latest Ministry of Education curriculum guidelines. To get this specific information, you would need to check the most recent official regulation from the Ministry of Education regarding the core curriculum and required reading list."
+    ],
+    "durationSeconds": 19.23503265099996
+  }
+}

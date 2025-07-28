@@ -1,0 +1,63 @@
+{
+  "session_id": "ac25dab5-19ee-43b4-8689-cf24d65d211d",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ac25dab5-19ee-43b4-8689-cf24d65d211d.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Alice in Wonderland theater musical adaptations Broadway West End plays productions list"
+  },
+  "tool_response": {
+    "query": "Alice in Wonderland theater musical adaptations Broadway West End plays productions list",
+    "results": [
+      "I'll search for information about Alice in Wonderland theatrical musical adaptations on Broadway and the West End.",
+      {
+        "tool_use_id": "srvtoolu_01XMRosSfRLWfo318ejCypqs",
+        "content": [
+          {
+            "title": "Alice in Wonderland (musical) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Alice_in_Wonderland_(musical)"
+          },
+          {
+            "title": "Alice in Wonderland - Theatrical Rights Worldwide",
+            "url": "https://www.theatricalrights.com/show/alice-in-wonderland/"
+          },
+          {
+            "title": "Wonderland (musical) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Wonderland_(musical)"
+          },
+          {
+            "title": "Alice in Wonderland at Marylebone Theatre",
+            "url": "https://www.marylebonetheatre.com/productions/alice-in-wonderland"
+          },
+          {
+            "title": "Alice in Wonderland Through the Years | Children's Theatre Company",
+            "url": "https://childrenstheatre.org/2024/03/01/alice-in-wonderland-through-the-years/"
+          },
+          {
+            "title": "Wonderland (Broadway, Marquis Theatre, 2011) | Playbill",
+            "url": "https://playbill.com/production/wonderland-marquis-theatre-vault-0000013731"
+          },
+          {
+            "title": "Alice@Wonderland-The Musical",
+            "url": "https://www.pioneerdrama.com/searchdetail.asp?pc=ALICEMUSIC"
+          },
+          {
+            "title": "Alice in Wonderland \u2013 Broadway Play \u2013 Original | IBDB",
+            "url": "https://www.ibdb.com/broadway-production/alice-in-wonderland-11693"
+          },
+          {
+            "title": "The 8 Best Alice In Wonderland Musical And Other Adaptations",
+            "url": "https://icytales.com/8-alice-in-wonderland-musical-and-other-adaptations/"
+          },
+          {
+            "title": "Broadway Musical Home - Wonderland: Alice's New Musical Adventure",
+            "url": "https://broadwaymusicalhome.com/shows/wonderland.htm"
+          }
+        ]
+      },
+      "Based on my search results, I can provide you with a comprehensive list of Alice in Wonderland theatrical musical adaptations that have appeared on Broadway and the West End:\n\n## Historic Productions\n\n### Original 1886 West End Musical\nAlice in Wonderland is a musical by Henry Savile Clarke (book and lyrics) and Walter Slaughter (music), based on Lewis Carroll's books Alice's Adventures in Wonderland (1865) and Through the Looking-Glass (1871). It debuted at the Prince of Wales's Theatre in the West End on 23 December 1886.(no content)Aubrey Hopwood (lyrics) and Walter Slaughter (music) wrote additional songs which were first used for the 1900 revival.(no content)The musical was frequently revived during West End Christmas seasons during the four decades after its premiere. London productions were mounted at the Globe Theatre in 1888, with Isa Bowman as Alice; the Opera Comique in 1898; the Vaudeville Theatre in 1900, with some new lyrics by Aubrey Hopwood and music by Slaughter; the Metropole Theatre, Camberwell in 1902; the Prince of Wales's Theatre (1906); the Royal Court Theatre in 1909; the Savoy Theatre in 1910; the Comedy Theatre in 1913; the Savoy in 1914; the Duke of York's Theatre in 1915; the Savoy in 1916; and the Garrick Theatre in 1921.\n\n### 1932 Broadway Production\nAlice in Wonderland (Original, Play, Fantasy, Play with music, Broadway) opened in New York City Dec 12, 1932 and played through Dec 1933.(no content)Famed actress/writers Eva Le Gallienne and Florida Friebus collaborated on a highly-successful theatrical version of Alice in Wonderland, which premiered off-Broadway at the Civic Repertory Theatre on December 12, 1932 before transferring to the New Amsterdam Theatre on Broadway.\n\n## Modern Productions\n\n### Wonderland (2011 Broadway)\nWonderland, formerly called Wonderland: Alice's New Musical Adventure or Wonderland: A New Alice, is a musical play with a book by Jack Murphy and Gregory Boyd, lyrics by Murphy, and music by Frank Wildhorn. The story, a contemporary version of the novels Alice's Adventures in Wonderland (1865) and Through the Looking-Glass (1871) by Lewis Carroll, is set in New York City and focuses on writer Alice Cornwinkle and her 10-year-old daughter Chloe.(no content)After various workshops and productions of the musical in Tampa, Florida and Houston, Texas, the show premiered on Broadway on April 17, 2011, closing a month later, on May 15, 2011.(no content)After negative reviews the production closed on May 15, 2011, after 31 previews and 33 performances.(no content)The musical had its European premiere at the Edinburgh Playhouse in January 2017, which marked the start of a UK tour. The production was directed by Lotte Wakeman with a revised book written by Ava Eldred The production starred Kerry Ellis as Alice, Wendi Peters as the Queen of Hearts, Natalie McQueen as the Mad Hatter and Dave Willetts as the White Rabbit.\n\n## Contemporary Adaptations\n\n### Alice@Wonderland - The Musical\nThe folly of the 21st century collides with the madness of Wonderland in this rockin' musical adaptation that remains fairly faithful to Lewis Carroll's original tale. With all of the characters you know and love including the Mad Hatter, the White Rabbit, and the Queen of Hearts, this musical imagines a present-day Alice encountering the Wonderland so many of us treasure.\n\n### Upcoming Productions\nAlice in Wonderland at Marylebone Theatre from Jul 12, 2025 to Aug 31, 2025.(no content)This internationally celebrated production brings Lewis Carroll's delightful chaos to life with extraordinary puppets, exquisite costumes and an original score that will captivate audiences of all ages. With creative stagecraft that will leave you spellbound, this visually breathtaking experience is a \"must-see\" for families seeking an enchanting escape.\n\nThese productions represent the major theatrical musical adaptations of Alice in Wonderland that have appeared on Broadway and in the West End, ranging from the original 1886 production to contemporary retellings that bring Alice's story into modern settings."
+    ],
+    "durationSeconds": 42.897602558999786
+  }
+}

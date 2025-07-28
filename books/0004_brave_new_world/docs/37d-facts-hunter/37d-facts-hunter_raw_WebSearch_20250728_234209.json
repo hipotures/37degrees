@@ -1,0 +1,63 @@
+{
+  "session_id": "9588e4fa-c119-4986-be3b-1d3af7769f8f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/9588e4fa-c119-4986-be3b-1d3af7769f8f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Cambodia Khmer Rouge Pol Pot 1975 social engineering totalitarian regime after Brave New World publication"
+  },
+  "tool_response": {
+    "query": "Cambodia Khmer Rouge Pol Pot 1975 social engineering totalitarian regime after Brave New World publication",
+    "results": [
+      "I'll perform a web search for information about the Cambodian Khmer Rouge regime under Pol Pot in 1975, focusing on its social engineering and totalitarian aspects in relation to when Brave New World was published.",
+      {
+        "tool_use_id": "srvtoolu_01BpjZzNvcTRbPYKR6LqUJac",
+        "content": [
+          {
+            "title": "Khmer Rouge - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Khmer_Rouge"
+          },
+          {
+            "title": "Cambodia | Holocaust and Genocide Studies | College of Liberal Arts",
+            "url": "https://cla.umn.edu/chgs/holocaust-genocide-education/resource-guides/cambodia"
+          },
+          {
+            "title": "Khmer Rouge ideology - Holocaust Memorial Day Trust",
+            "url": "https://hmd.org.uk/learn-about-the-holocaust-and-genocides/cambodia/khmer-rouge-ideology/"
+          },
+          {
+            "title": "Pol Pot | Biography, Regime, Genocide, Death, & Facts | Britannica",
+            "url": "https://www.britannica.com/biography/Pol-Pot"
+          },
+          {
+            "title": "Cambodian genocide - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Cambodian_genocide"
+          },
+          {
+            "title": "The Rise and Fall of the Khmer Rouge Regime | Asia Pacific Curriculum",
+            "url": "https://asiapacificcurriculum.ca/learning-module/rise-and-fall-khmer-rouge-regime"
+          },
+          {
+            "title": "Khmer Rouge | Facts, Leadership, Genocide, & Death Toll | Britannica",
+            "url": "https://www.britannica.com/topic/Khmer-Rouge"
+          },
+          {
+            "title": "Khmer Rouge - Genocide, Regime & Definition | HISTORY",
+            "url": "https://www.history.com/articles/the-khmer-rouge"
+          },
+          {
+            "title": "Khmer Rouge History | Cambodia Tribunal Monitor",
+            "url": "https://cambodiatribunal.org/history/cambodian-history/khmer-rouge-history/"
+          },
+          {
+            "title": "Pol Pot - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pol_Pot"
+          }
+        ]
+      },
+      "Based on the search results, I can provide comprehensive information about the Cambodian Khmer Rouge regime under Pol Pot and its social engineering aspects that occurred after the publication of Brave New World (which was published by Aldous Huxley in 1932).\n\n## The Khmer Rouge Regime (1975-1979): Social Engineering and Totalitarian Control\n\nThe Khmer Rouge regime under Pol Pot represents one of history's most extreme examples of totalitarian social engineering that occurred decades after Brave New World's publication in 1932.\n\n### Rise to Power and Timeline\n\nThe Khmer Rouge won the Cambodian Civil War when they captured the Cambodian capital and overthrew the Khmer Republic in 1975, taking control of Cambodia on April 17, 1975, and creating the state of Democratic Kampuchea in 1976, ruling the country until January 1979.\n\n### Radical Social Engineering Policies\n\nThe regime implemented extreme social engineering measures that paralleled dystopian fiction:\n\n**\"Year Zero\" Concept:** The Khmer Rouge claimed that they were creating 'Year Zero' through their extreme reconstruction methods, where Pol Pot believed that all cultures and traditions must be completely destroyed and a new revolutionary culture must replace it starting from scratch, announced on April 17, 1975, where everything before that date must be purged.\n\n**Forced Urban Evacuation:** Following their victory, the Khmer Rouge immediately set about forcibly evacuating the country's major cities, forcing the removal of city dwellers into the countryside, where they would be forced to work as farmers, digging canals and tending to crops.(no content)This evacuation entailed moving over 2.5 million people out of the city with very little preparation, and an estimated 20,000 people died along the route.\n\n### Totalitarian Control Mechanisms\n\n**Complete Social Control:** Money was abolished and all aspects of life were subject to regulation - people were not allowed to choose their own marriage partners, could not leave their given place of work or even select the clothes that they would wear.(no content)Pursuing complete egalitarianism, money, religion, and private property were abolished and all citizens were forced to wear the same black clothing.\n\n**Family and Social Structure Destruction:** In order to enforce loyalty to the state, the Khmer Rouge broke peoples' ties to religion and family, and from January 1977, all children from the age of eight were separated from their parents and placed in labour camps, which taught them that the state was their 'true' parents.\n\n**Elimination of Education and Professions:** Factories, hospitals, schools and universities were shut down, and lawyers, doctors, teachers, engineers and qualified professionals in all fields were thought to be a threat to the new regime.\n\n### Ideological Foundation\n\nThey believed that Cambodia should be returned to an alleged 'golden age' when the land was cultivated by peasants and the country would be ruled for and by the poorest amongst society.(no content)Khmer Rouge theory developed the concept that the nation should take \"agriculture as the basic factor and use the fruits of agriculture to build industry,\" with Pol Pot's belief that the collectivisation of agriculture was capable of \"creating a complete communist society without wasting time on the intermediate steps.\"\n\n### Devastating Human Cost\n\nThe Cambodian genocide led to the deaths of 1.5 to 2 million people, around 25% of Cambodia's population.(no content)Pol Pot's attempts to create a Cambodian \"master race\" through social engineering ultimately led to the deaths of more than 2 million people in the Southeast Asian country.\n\n### Totalitarian Classification\n\nThe Khmer Rouge regime was highly autocratic, totalitarian, and repressive.(no content)While the Khmer Rouge was in power, they set up policies that disregarded human life and produced repression and massacres on a massive scale, turning the country into a huge detention center, which later became a graveyard for nearly two million people.\n\nThis regime's extreme social engineering occurred over four decades after Brave New World's publication, representing a real-world manifestation of totalitarian control that surpassed even dystopian fiction in its brutality and scope."
+    ],
+    "durationSeconds": 31.973702108999948
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "session_id": "e18f7f1c-5883-41e4-8ef9-15aee4aa266b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e18f7f1c-5883-41e4-8ef9-15aee4aa266b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Wielki Gatsby\" matura lektura szkolna polska szko\u0142a podstawowa gimnazjum liceum"
+  },
+  "tool_response": {
+    "query": "\"Wielki Gatsby\" matura lektura szkolna polska szko\u0142a podstawowa gimnazjum liceum",
+    "results": [
+      "I'll search for information about \"Wielki Gatsby\" (The Great Gatsby) as required reading in Polish schools.",
+      {
+        "tool_use_id": "srvtoolu_018YwhMDiTEtBK4kFSpx83NJ",
+        "content": [
+          {
+            "title": "Wielki Gatsby Francis Scott Fitzgerald ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/wielki-gatsby-francis-scott-fitzgerald"
+          },
+          {
+            "title": "Wielki Gatsby - Ca\u0142a Polska Czyta Dzieciom",
+            "url": "https://calapolskaczytadzieciom.pl/ksiazka/wielki-gatsby/"
+          },
+          {
+            "title": "Lista lektur",
+            "url": "http://www.ekola.edu.pl/gimnazjum/2018-2019/lista-lektur"
+          },
+          {
+            "title": "Wielki Gatsby \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Wielki_Gatsby"
+          },
+          {
+            "title": "Wielki Gatsby",
+            "url": "https://www.empik.com/wielki-gatsby-fitzgerald-f-scott,p1068970735,ksiazka-p"
+          },
+          {
+            "title": "Wielki Gatsby - Quizy | QuizMe",
+            "url": "https://www.quizme.pl/dzial/wielki-gatsby"
+          },
+          {
+            "title": "eBook Wielki Gatsby mobi epub | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ebook/wielki-gatsby-francis-scott-fitzgerald"
+          },
+          {
+            "title": "Ksi\u0105\u017cka Wielki Gatsby. Francis Scott Fitzgerald - ksi\u0119garnia internetowa - Booktime",
+            "url": "https://booktime.pl/wielki-gatsby,id177175.html"
+          },
+          {
+            "title": "Wielki Gatsby \u2013 streszczenie skr\u00f3towe, problematyka - streszczenie, opracowanie na wypracowania.pl",
+            "url": "https://wypracowania.pl/lektury/wielki-gatsby-streszczenie-skrotowe-problematyka"
+          },
+          {
+            "title": "Wielki Gatsby \u2022 Fitzgerald Francis Scott (Fitzgerald F. Scott) \u2022 ksi\u0105\u017cka - recenzje, opisy, opinie \u00bb BiblioNETka.pl",
+            "url": "https://www.biblionetka.pl/book.aspx?id=12519"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about \"Wielki Gatsby\" (The Great Gatsby) as a school reading in Poland:\n\n## \"Wielki Gatsby\" jako lektura szkolna w Polsce\n\nThe Great Gatsby) \u2013 powie\u015b\u0107 ameryka\u0144skiego pisarza Francisa Scotta Fitzgeralda z 1925 roku.(no content)Powie\u015b\u0107 spo\u0142eczno-obyczajowa ameryka\u0144skiego pisarza Francisa Scotta Fitzgeralda Wielki Gatsby nale\u017cy do kanonu literatury \u015bwiatowej.\n\n### Status lektury w polskich szko\u0142ach\n\nZ wynik\u00f3w wyszukiwania wynika, \u017ce \"Wielki Gatsby\" jest obecny w polskim systemie edukacji:\n\n1. **Gimnazjum**: F. Scott Fitzgerald, Wielki Gatsby - ksi\u0105\u017cka znajduje si\u0119 na li\u015bcie lektur gimnazjalnych (wed\u0142ug informacji ze szko\u0142y EKOLA).\n\n2. **Liceum i technikum**: Ksi\u0105\u017cka jest dost\u0119pna w kategoriach Lektury szkolne - liceum i technikum w ksi\u0119garniach internetowych, co sugeruje jej wykorzystanie na tym poziomie edukacji.\n\n3. **Popularno\u015b\u0107 w edukacji**: Obecnie cz\u0119sto omawiana jest w ameryka\u0144skich liceach. Podobnie ksi\u0105\u017cka zyska\u0142a popularno\u015b\u0107 w polskich szko\u0142ach jako przyk\u0142ad klasyki literatury \u015bwiatowej.\n\n### Dost\u0119pno\u015b\u0107\n\nPowie\u015b\u0107 jest szeroko dost\u0119pna w polskich ksi\u0119garniach internetowych w r\u00f3\u017cnych formatach:\n- Wydania papierowe\n- E-booki\n- Materia\u0142y pomocnicze do nauki (quizy, testy)\n\n\"Wielki Gatsby\" funkcjonuje jako lektura uzupe\u0142niaj\u0105ca w polskich szko\u0142ach, szczeg\u00f3lnie na poziomie gimnazjum i liceum, cho\u0107 nie jest lektur\u0105 obowi\u0105zkow\u0105 na maturze. Jest wykorzystywana jako przyk\u0142ad dzie\u0142 wybitnych i wa\u017cnych w kontek\u015bcie nauczania literatury \u015bwiatowej."
+    ],
+    "durationSeconds": 20.50760446000006
+  }
+}

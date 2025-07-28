@@ -1,0 +1,22 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Folwark zwierz\u0119cy\" \"Bart\u0142omiej Zborski\" t\u0142umaczenie \"PIW\" wydanie krajowe 1988 1989"
+  },
+  "tool_response": {
+    "query": "\"Folwark zwierz\u0119cy\" \"Bart\u0142omiej Zborski\" t\u0142umaczenie \"PIW\" wydanie krajowe 1988 1989",
+    "results": [
+      "I'll search for information about the Polish translation of \"Animal Farm\" (Folwark zwierz\u0119cy) by Bart\u0142omiej Zborski, published by PIW (Pa\u0144stwowy Instytut Wydawniczy) in 1988-1989.",
+      {
+        "tool_use_id": "srvtoolu_018FnnLVyhSHv97Mmax4dABS",
+        "content": []
+      },
+      "Based on the search results, I found information about the Polish translation of George Orwell's \"Animal Farm\" (Folwark zwierz\u0119cy) by Bart\u0142omiej Zborski:\n\nThe translation by Bart\u0142omiej Zborski was published by Pa\u0144stwowy Instytut Wydawniczy (PIW) in 1988 as the first official domestic edition in Poland. This was a domestic edition (\"wydanie krajowe\"), which was significant because it marked the end of censorship restrictions on this work in Poland.\n\nPrior to this, \"Folwark zwierz\u0119cy\" had been banned in the Polish People's Republic and could only circulate in underground publications or \u00e9migr\u00e9 editions. The 1988 PIW edition represented a breakthrough in Polish publishing during the political changes of the late 1980s.\n\nThe book was published in Warsaw by PIW in 1988 with 267 pages. This translation by Zborski became one of the standard Polish versions of Orwell's classic allegory about totalitarianism.\n\nThe publication of this book in 1988 by a state publishing house was part of the broader liberalization happening in Poland as the communist system was weakening, allowing previously censored works to be officially published for the first time."
+    ],
+    "durationSeconds": 15.57434331699973
+  }
+}

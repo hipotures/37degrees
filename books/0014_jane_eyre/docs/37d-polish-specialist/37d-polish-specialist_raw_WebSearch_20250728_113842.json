@@ -1,0 +1,63 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Jane Eyre\" teatr polski spektakl \"Dziwne losy\" adaptacja sceniczna"
+  },
+  "tool_response": {
+    "query": "\"Jane Eyre\" teatr polski spektakl \"Dziwne losy\" adaptacja sceniczna",
+    "results": [
+      "I'll search for information about the theatrical adaptation of \"Jane Eyre\" at Teatr Polski, specifically the production titled \"Dziwne losy\" (Strange Fates).",
+      {
+        "tool_use_id": "srvtoolu_012x6gjpzjmyg2z89xDQRE58",
+        "content": [
+          {
+            "title": "Dziwne losy Jane Eyre (odcinek 1) ::: Przedstawienia ::: Encyklopedia teatru polskiego",
+            "url": "https://encyklopediateatru.pl/przedstawienie/66226/dziwne-losy-jane-eyrne"
+          },
+          {
+            "title": "Adaptacja \"Dziwnych los\u00f3w Jane Eyre\" w ramach cyklu National Theatre Live!",
+            "url": "https://booklips.pl/adaptacje/teatr/adaptacja-dziwnych-losow-jane-eyre-w-ramach-cyklu-national-theatre-live/"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Dziwne_losy_Jane_Eyre"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre",
+            "url": "https://wolnelektury.pl/katalog/lektura/bronte-dziwne-losy-jane-eyre/"
+          },
+          {
+            "title": "g\u00f3rowianka: Charlotte Bront\u00eb \"Dziwne losy Jane Eyre\"",
+            "url": "http://annasikorska.blogspot.com/2018/01/charlotte-bronte-dziwne-losy-jane-eyre.html"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre - Charlotte Bront\u00eb | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/4968674/dziwne-losy-jane-eyre"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre - Charlotte Bront\u00eb",
+            "url": "https://wolnelektury.pl/katalog/lektura/bronte-dziwne-losy-jane-eyre.html"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre: Streszczenie, Przegl\u0105d i Analiza",
+            "url": "https://someremedy.com/jane-eyre-plot-summary/"
+          },
+          {
+            "title": "Dziwne losy Jane Eyre - Kultowy.pl",
+            "url": "https://kultowy.pl/dziwne-losy-jane-eyre"
+          },
+          {
+            "title": "\u201eDziwne losy Jane Eyre\u201d Charlotte Bront\u00eb na Wolnych Lekturach",
+            "url": "https://fundacja.wolnelektury.pl/2023/09/28/dziwne-losy-jane-eyre-charlotte-bronte-na-wolnych-lekturach/"
+          }
+        ]
+      },
+      "Based on the search results, I found some information about theatrical adaptations of \"Jane Eyre\" in Polish theaters, though the specific production you're looking for at Teatr Polski with the title \"Dziwne losy\" appears to have limited information available.\n\nHere's what I found:\n\n## Radio Theater Adaptation\n\nThere was a radio theater production titled \"Dziwne losy Jane Eyre (odcinek 1)\" at Teatr Polskiego Radia, which premiered on April 10, 1989. However, the search results incorrectly attribute the authorship to Emily Bront\u00eb, when \"Jane Eyre\" was actually written by Charlotte Bront\u00eb.\n\n## National Theatre Live Production\n\nThe British National Theatre prepared a stage adaptation of \"Jane Eyre\" as part of their National Theatre Live project, which was shown in selected Polish cinemas on December 8, 2015. The production was directed by Sally Cookson and adapted for the National Theatre stage.\n\nThe live transmission from London was scheduled for December 8, 2015, and could be seen in only three locations in Poland on the premiere day: Praha Cinema and Atlantic Cinema in Warsaw, and Nowe Horyzonty in Wroc\u0142aw. The performance lasted about 210 minutes and was shown in the original language version with Polish subtitles.\n\n## About the Novel\n\n\"Dziwne losy Jane Eyre\" is a novel written by Charlotte Bront\u00eb that was first published in October 1847 in three volumes and became a great publishing success. The story of Jane Eyre has received numerous film adaptations as well as many translations into different languages.\n\nUnfortunately, I couldn't find specific information about a production titled \"Dziwne losy\" as a theatrical adaptation at Teatr Polski. The search results mainly provide information about the novel itself, its Polish translations, and the National Theatre Live screening in Polish cinemas."
+    ],
+    "durationSeconds": 24.14683863000013
+  }
+}

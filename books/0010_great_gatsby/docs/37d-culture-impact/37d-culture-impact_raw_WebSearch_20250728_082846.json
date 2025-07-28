@@ -1,0 +1,73 @@
+{
+  "session_id": "e18f7f1c-5883-41e4-8ef9-15aee4aa266b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e18f7f1c-5883-41e4-8ef9-15aee4aa266b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Great Gatsby\" aesthetic TikTok trend \"old money\" style dark academia fashion 2023 2024"
+  },
+  "tool_response": {
+    "query": "\"Great Gatsby\" aesthetic TikTok trend \"old money\" style dark academia fashion 2023 2024",
+    "results": [
+      "I'll search for information about the Great Gatsby aesthetic TikTok trend and its connection to old money style and dark academia fashion in 2023-2024.",
+      {
+        "tool_use_id": "srvtoolu_01TVNWMFa2LLwQ6n6d1X67qJ",
+        "content": []
+      },
+      "I'll search for information about the Great Gatsby aesthetic TikTok trend and its connection to old money style and dark academia fashion in 2023-2024.",
+      {
+        "tool_use_id": "srvtoolu_015PAvp783FMBbGuRcGKcUsA",
+        "content": []
+      },
+      "I'll perform the web search for the Great Gatsby aesthetic TikTok trend and its connection to old money style and dark academia fashion.",
+      {
+        "tool_use_id": "srvtoolu_011oNgii9WXaBFtdDviXssKr",
+        "content": [
+          {
+            "title": "Dark Academia: Aesthetics and Belonging in an Age of Social Media | Arts | The Harvard Crimson",
+            "url": "https://www.thecrimson.com/article/2024/2/13/dark-academia-universities-trend-aesthetic-history-social-media/"
+          },
+          {
+            "title": "A guide to 'dark academia,' the TikTok-popular aesthetic ...",
+            "url": "https://www.cnn.com/style/article/dark-academia-tiktok-aesthetic-cec/index.html"
+          },
+          {
+            "title": "Old Money Aesthetic Vs Dark Academia",
+            "url": "https://www.tiktok.com/discover/old-money-aesthetic-vs-dark-academia"
+          },
+          {
+            "title": "Meet Dark Academia, The Bookish Fashion Trend That's All Over TikTok",
+            "url": "https://www.refinery29.com/en-us/2020/10/10079305/dark-academia-aesthetic-tiktok-trend"
+          },
+          {
+            "title": "Dark Academia Vs Old Money",
+            "url": "https://www.tiktok.com/discover/dark-academia-vs-old-money"
+          },
+          {
+            "title": "Contemporary Dark Academia",
+            "url": "https://www.tiktok.com/discover/contemporary-dark-academia"
+          },
+          {
+            "title": "What is dark academia? Everything you need to know about this moody TikTok aesthetic",
+            "url": "https://www.dailydot.com/pop-culture/what-is-dark-academia/"
+          },
+          {
+            "title": "Dark Academia",
+            "url": "https://www.tiktok.com/discover/dark-academia?lang=en"
+          },
+          {
+            "title": "Mixing Dark Academia With Old Money Fashion | The Other Aesthetic",
+            "url": "https://www.theotheraesthetic.com/blog/mixing-dark-academia-with-old-money-fashion/"
+          },
+          {
+            "title": "The Great Gatsby New Money",
+            "url": "https://www.tiktok.com/discover/the-great-gatsby-new-money"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about the intersection of the Great Gatsby aesthetic, old money style, and dark academia fashion trends on TikTok in 2023-2024:\n\n## The Great Gatsby Aesthetic and Dark Academia Connection\n\nWhen the pandemic began, one business owner started selling candles inspired by characters from classic literature \u2013 including \"amber and vanilla for Jay Gatsby \u2013 complete with a handwritten love letter, wax-sealed, from the character.\"(no content)When she discovered the dark academia hashtag on TikTok, she knew she found her customer base.\n\n## Dark Academia Fashion Characteristics\n\nThe dark academia aesthetic includes \"stacks of books piled high; longing for a New England university campus you'll never visit; the corduroy, plaids and tweeds of academic autumnal fashion.\"(no content)It has become a fashion statement and a lifestyle, with an emphasis on reading the classics and donning sweater vests.(no content)All you need is a tweed jacket and an undercurrent of melancholy. The aesthetic creates \"a kind of nostalgia for a life which is yet to be lived \u2013 dreams of being an art history student at Oxbridge or studying classical literature at Harvard.\"\n\n## Popularity Timeline and Social Media Presence\n\nDark academia grew in popularity during the pandemic, when young people were romanticizing schooling while stuck at home. The trend has evolved significantly, with an April 2023 article for Ekklesia Magazine discussing how the aesthetic often embraces aspects of scholastic life that literary works like \"The Secret History\" aim to critique.(no content)TikTok videos riffing on the aesthetic often stress the importance of diversifying it by supporting representation of non-white, non-straight people in academic settings.\n\n## Old Money Style Connection\n\nWhile the search results don't provide extensive detail on the specific connection between Great Gatsby and old money style in 2023-2024 TikTok trends, the aesthetic includes \"straight-cut clothing and haughty mannerisms\" that showcase \"the dangerous allure of pretentious and exclusive academic circles.\"\n\n## Critical Perspectives\n\nThe trend has faced criticism for its problematic elements. A UK YouTuber noted in a 2021 video that \"the elitism and emphasis on White authors and artists baked into dark academia can be limiting and harmful.\"(no content)Like cottagecore, \"dark academia has been criticised for its elitism and Eurocentrism, which is to be expected when an entire subculture dedicates itself to the historically white aesthetic of the Western literary canon.\"\n\nHowever, the trend is \"being reclaimed by people who have been rejected from traditional colonial institutions,\" noting that while \"just 22% of the University of Oxford's undergraduate intake were from BAME (Black, Asian and minority ethnic) backgrounds,\" in the online world, \"people of colour are claiming the academic ethos and aesthetic for themselves.\"\n\nThe aesthetic continues to evolve on TikTok, mixing elements of literary classics like The Great Gatsby with academic fashion and old money style, though specific 2024 trends would require additional searching for more recent updates."
+    ],
+    "durationSeconds": 46.04236954099988
+  }
+}

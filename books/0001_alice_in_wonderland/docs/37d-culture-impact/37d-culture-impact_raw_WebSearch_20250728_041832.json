@@ -1,0 +1,63 @@
+{
+  "session_id": "ac25dab5-19ee-43b4-8689-cf24d65d211d",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ac25dab5-19ee-43b4-8689-cf24d65d211d.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Alice in Wonderland Etsy handmade crafts fan products count listings"
+  },
+  "tool_response": {
+    "query": "Alice in Wonderland Etsy handmade crafts fan products count listings",
+    "results": [
+      "I'll search for information about Alice in Wonderland handmade crafts on Etsy to find details about fan products and listing counts.",
+      {
+        "tool_use_id": "srvtoolu_01VvxSQAHShHJPDM5hCDEPT4",
+        "content": [
+          {
+            "title": "Alice in Wonderland - Etsy",
+            "url": "https://www.etsy.com/market/alice_in_wonderland"
+          },
+          {
+            "title": "Alice in Wonderland Crafts",
+            "url": "https://www.etsy.com/market/alice_in_wonderland_crafts"
+          },
+          {
+            "title": "Alice in Wonderland Paper Craft - Etsy",
+            "url": "https://www.etsy.com/market/alice_in_wonderland_paper_craft"
+          },
+          {
+            "title": "Alice in Wonderland Decorations - Etsy",
+            "url": "https://www.etsy.com/market/alice_in_wonderland_decorations"
+          },
+          {
+            "title": "Alice Wonderland Fan - Etsy",
+            "url": "https://www.etsy.com/market/alice_wonderland_fan"
+          },
+          {
+            "title": "Wonderland Crafts - Etsy",
+            "url": "https://www.etsy.com/market/wonderland_crafts"
+          },
+          {
+            "title": "15 Amazing Alice in Wonderland Crafts | Mad Hatter Craft",
+            "url": "https://artsycraftsymom.com/alice-in-wonderland-crafts/"
+          },
+          {
+            "title": "Wonderland Tea Party Paper Pack, Alice in Wonderland, Printable Alice, Mad Hatter, Wonderland Craft Papers, Printable Paper Pack - 002501 - Etsy",
+            "url": "https://www.etsy.com/listing/1205982456/wonderland-tea-party-paper-pack-alice-in"
+          },
+          {
+            "title": "Alice in Wonderland Papers - Etsy",
+            "url": "https://www.etsy.com/market/alice_in_wonderland_papers"
+          },
+          {
+            "title": "Alice in Wonderland Postcards - Etsy",
+            "url": "https://www.etsy.com/market/alice_in_wonderland_postcards"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with information about Alice in Wonderland handmade crafts and fan products on Etsy, though specific listing count numbers are not provided in the search results.\n\n## Alice in Wonderland on Etsy - Handmade Crafts and Fan Products\n\nEtsy offers a wide selection of Alice in Wonderland items, with \"the very best in unique or custom, handmade pieces from our party & gifting shops.\" The marketplace features various types of Alice in Wonderland products:\n\n### Types of Products Available:\n\n1. **Paper Crafts & Digital Items**\n   - Alice in Wonderland Paper Pack Alice Digital Paper Pack Watercolor Mad Hatter Scrapbook Tea Party Background Fairytale Baby Shower Seamless\n   - Alice in wonderland paper craft items available in \"unique or custom, handmade pieces from our digital prints shops\"\n   - Alice In Wonderland Paper Pack, Printable Paper Pack, Digital Paper Pack, Mad Hatter Paper, Cheshire Cat, White Rabbit, DIY Paper\n\n2. **Party Decorations & Supplies**\n   - Alice in wonderland decorations available as \"unique or custom, handmade pieces from our party & gifting shops\"\n   - Wonderland Cutter Set of 10 - Alice in Wonderland - 3D Printed Cookie Cutter\n\n3. **Fan Products**\n   - Alice wonderland fan items available as \"unique or custom, handmade pieces from our hand fans shops\"\n   - We're All Mad Here Cheshire Cat Wonderland Neon Blacklight Large Folding Fan For Raves Festivals Hand Fan UV\n\n4. **Jewelry & Accessories**\n   - Statement whimsical wooden necklace \"THAT SMILE\" cheshire cat mouth teeth vintage jewelry pendant teeth alice wonderland we're all mad here\n   - Alice in Wonderland Bulk Old Rare Skeleton Keys Vintage Antique Wind Chimes Charms Jewelry Steampunk Wedding Pendant Craft Costume Cosplay\n\n5. **Storage & Decorative Items**\n   - Book box Alice in Wonderland Wooden box Mother's day BFF Box for jewelry Storage box Gift Christmas decor Organizer box Fantastic Box\n   - Alice in Wonderland Baby Oysters/ Anime Action Figures Doll Toys Kawaii Cute Statue For Gift\n\n### Product Features:\n- From handmade pieces to vintage treasures ready to be loved again, Etsy is the global marketplace for unique and creative goods. It's also home to a whole host of one-of-a-kind items made with love and extraordinary care. While many of the items on Etsy are handmade, you'll also find craft supplies, digital items, and more.\n- Many sellers on Etsy offer personalized, made-to-order items\n- Many of the alice in wonderland, sold by the shops on Etsy, qualify for included shipping\n\nUnfortunately, the search results do not provide specific numbers for total listings or counts of Alice in Wonderland products on Etsy. The platform appears to have a substantial collection across multiple categories, but exact listing counts would require accessing Etsy's internal data or performing a more specific search on the platform itself."
+    ],
+    "durationSeconds": 33.90203825700004
+  }
+}

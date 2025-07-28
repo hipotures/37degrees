@@ -15,8 +15,18 @@ The project has been reorganized to better support multimedia content for each b
 │       ├── book.yaml          # Book metadata and slides
 │       ├── docs/              # Documentation and research
 │       │   ├── findings/      # All *findings.md files
+│       │   │   ├── 37d-facts-hunter_findings.md
+│       │   │   ├── 37d-symbol-analyst_findings.md
+│       │   │   └── ...
 │       │   ├── todo/          # All TODO_*.md files (agent TODOs and master TODO)
+│       │   │   ├── TODO_master.md
+│       │   │   ├── TODO_37d-facts-hunter.md
+│       │   │   ├── TODO_37d-symbol-analyst.md
+│       │   │   └── ...
 │       │   ├── 37d-facts-hunter/      # JSON files and index for facts-hunter agent
+│       │   │   ├── 37d-facts-hunter_raw_WebSearch_20250728_143025.json
+│       │   │   ├── 37d-facts-hunter_raw_WebFetch_20250728_143142.json
+│       │   │   └── 37d-facts-hunter_searches_index.txt
 │       │   ├── 37d-symbol-analyst/    # JSON files and index for symbol-analyst agent
 │       │   ├── 37d-culture-impact/    # JSON files and index for culture-impact agent
 │       │   ├── 37d-polish-specialist/ # JSON files and index for polish-specialist agent

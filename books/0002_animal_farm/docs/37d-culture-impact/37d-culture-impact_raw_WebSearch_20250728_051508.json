@@ -1,0 +1,63 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Animal Farm 1999 TV movie ratings viewership audience reception Rotten Tomatoes IMDb Metacritic"
+  },
+  "tool_response": {
+    "query": "Animal Farm 1999 TV movie ratings viewership audience reception Rotten Tomatoes IMDb Metacritic",
+    "results": [
+      "I'll search for information about the 1999 TV movie adaptation of Animal Farm, including its ratings, viewership, and audience reception across various platforms.",
+      {
+        "tool_use_id": "srvtoolu_01ASTyi7ZbGapqWMmEAEcdra",
+        "content": [
+          {
+            "title": "Animal Farm | Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/m/1092004-animal_farm"
+          },
+          {
+            "title": "Animal Farm (TV Movie 1999) - User reviews - IMDb",
+            "url": "https://www.imdb.com/title/tt0204824/reviews/"
+          },
+          {
+            "title": "Animal Farm (TV Movie 1999) - Ratings - IMDb",
+            "url": "https://www.imdb.com/title/tt0204824/ratings/"
+          },
+          {
+            "title": "Animal Farm (TV Movie 1999) \u2b50 6.0 | Comedy, Drama, Family",
+            "url": "https://www.imdb.com/title/tt0204824/"
+          },
+          {
+            "title": "Animal Farm (TV Movie 1999) - External reviews - IMDb",
+            "url": "https://www.imdb.com/title/tt0204824/externalreviews/"
+          },
+          {
+            "title": "Animal Farm - Movie Reviews | Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/m/animal_farm/reviews"
+          },
+          {
+            "title": "Animal Farm Movie Review | Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/animal-farm"
+          },
+          {
+            "title": "Animal Farm (TV Movie 1999) - Metacritic reviews - IMDb",
+            "url": "https://www.imdb.com/title/tt0204824/criticreviews/"
+          },
+          {
+            "title": "Animal Farm (1999) - Rotten Tomatoes",
+            "url": "https://rtv2-production-2-6.rottentomatoes.com/m/1092004_animal_farm"
+          },
+          {
+            "title": "Review of \u201cAnimal Farm\u201d (1954 & 1999 Films)",
+            "url": "https://redphoenixnews.com/2012/07/26/review-of-animal-farm-1954-1999-films/"
+          }
+        ]
+      },
+      "Based on the search results, here's what I found about the 1999 TV movie adaptation of Animal Farm:\n\n## Ratings and Reception\n\n### IMDb Rating\nThe 1999 TV movie has a 6.0 star rating on IMDb.\n\n### Rotten Tomatoes\nWhile the search results mention Rotten Tomatoes pages for the film, they don't provide specific critic or audience scores.\n\n### Metacritic\nAccording to IMDb's Metacritic reviews page, there don't appear to be any Metacritic reviews for this title.\n\n## Cast and Production\nThe film featured a notable cast with voice performances by:\n- Kelsey Grammer, Ian Holm, Julia Louis-Dreyfus, Julia Ormond\n- Peter Postlethwaite as Mr. Jones\n- Peter Ustinov as Old Major, Patrick Stewart as Napoleon(no content)The film was directed by John Stephenson and employed real animals alongside digitally manipulated creatures and lifelike beasts crafted by Jim Henson's Creature Shop.\n\n## Audience Reception\nThe audience reception appears to be mixed:\n- Some viewers expressed preference for the animated version, feeling that \"anything with animals would be better off animated\"\n- The film was described as \"satisfactory and updated enough for today's audiences\"\n- Some critics felt it \"completely fails to convey the fundamental message of Animal Farm\"\n\n## Technical Details\n- Runtime: 1 hour 31 minutes, rated PG\n- Released: October 3, 1999\n\nUnfortunately, the search didn't yield specific viewership numbers or detailed audience scores from Rotten Tomatoes. The film appears to have received a moderate reception with a 6.0/10 on IMDb, though some viewers had mixed feelings about the live-action/CGI approach compared to the earlier animated version."
+    ],
+    "durationSeconds": 22.088305288999805
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "session_id": "b8c17c71-efc6-4c19-9b68-e101c36de9c9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b8c17c71-efc6-4c19-9b68-e101c36de9c9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Rok 1984\" Orwell adaptacje polskie teatr radio YouTube Teatr Polski"
+  },
+  "tool_response": {
+    "query": "\"Rok 1984\" Orwell adaptacje polskie teatr radio YouTube Teatr Polski",
+    "results": [
+      "I'll search for information about Polish theatrical and radio adaptations of Orwell's \"1984\" (Rok 1984 in Polish).",
+      {
+        "tool_use_id": "srvtoolu_016bia7s1UWEcNvDktsYKKLk",
+        "content": [
+          {
+            "title": "1984 | Teatr Powszechny im. Zygmunta H\u00fcbnera w Warszawie",
+            "url": "https://www.powszechny.com/pl/spektakle/1984"
+          },
+          {
+            "title": "1984 - Teatr Powszechny",
+            "url": "https://www.powszechny.com/spektakle/1984,s1480.html?ref_page=controller,index,action,index"
+          },
+          {
+            "title": "1984 | Tragedia | Dramat | bilety do teatru eBilet.pl",
+            "url": "https://www.ebilet.pl/teatr/tragedia-dramat/1984"
+          },
+          {
+            "title": "\u201dRok 1984 - Rockowy Teatr\u201d na Scenie Monopolis: Urz\u0105d Miasta \u0141odzi",
+            "url": "https://uml.lodz.pl/lato-w-lodzi/kultura-i-sztuka/wydarzenie/rok-1984-rockowy-teatr-w-monopolis-1-1-1-id99579/2025/02/24/"
+          },
+          {
+            "title": "\"Rok 1984 - Rockowy Teatr\", czyli mi\u0142o\u015b\u0107, bunt i walka o wolno\u015b\u0107. \"To ma ogromny zwi\u0105zek z tym co si\u0119 dzieje we wsp\u00f3\u0142czesno\u015bci\" - \u0141\u00f3d\u017a, ESKA.pl",
+            "url": "https://lodz.eska.pl/rok-1984-rockowy-teatr-czyli-milosc-bunt-i-walka-o-wolnosc-aa-NGHB-Q7kB-ZrD4.html"
+          },
+          {
+            "title": "ROK 1984 - Rockowy Teatr- Scena Monopolis",
+            "url": "https://scenamonopolis.pl/wydarzenia/rok-1984-rockowy-teatr/"
+          },
+          {
+            "title": "1984 | Bilety",
+            "url": "https://kicket.com/wydarzenia/1984-9082"
+          },
+          {
+            "title": "\"Rok 1984\" - orwellowska przepowiednia - Polskie Radio",
+            "url": "https://polskieradio.pl/39/156/artykul/1144186,rok-1984-orwellowska-przepowiednia"
+          },
+          {
+            "title": "Rok 1984 \u2013 Rockowy Teatr \u2013 spektakl | Centrum Kultury Teatr w Grudzi\u0105dzu",
+            "url": "https://teatr.grudziadz.pl/wydarzenie/rok-1984-rockowy-teatr-spektakl/"
+          },
+          {
+            "title": "\"Rok 1984\", czyli orwellowska przepowiednia - Historia - PR24.PL",
+            "url": "https://www.polskieradio.pl/39/156/artykul/1144186,rok-1984-czyli-orwellowska-przepowiednia"
+          }
+        ]
+      },
+      "Based on the search results, I found information about Polish theatrical adaptations of Orwell's \"1984\" (Rok 1984). Here's what I discovered:\n\n## Theater Productions:\n\n### 1. Teatr Powszechny in Warsaw\nSpektakl jest adaptacj\u0105 jednej z najwa\u017cniejszych i najbardziej znanych ksi\u0105\u017cek XX wieku autorstwa George'a Orwella \u2013 \u201eRok 1984\". This production at Teatr Powszechny is directed by Barbara Wysocka. Inscenizacja wiernie oddaje tre\u015b\u0107 powie\u015bci.(no content)Adaptacja jest bardzo wierna, nieuwsp\u00f3\u0142cze\u015bniona. Critics noted that Wysocka w\u0142a\u015bciwie nic poza fina\u0142em do ksi\u0105\u017cki nie dopisuje, zmienia co najwy\u017cej par\u0119 termin\u00f3w technicznych, unowocze\u015bnia realia, a i tak publiczno\u015b\u0107 Powszechnego wie, \u017ce to przedstawienie jest bardzo o Polsce, troch\u0119 o Europie i \u015bwiecie.\n\n### 2. \"Rok 1984 - Rockowy Teatr\" (Rock Theater)\n\u201eRok 1984 - Rockowy Teatr\" in pariete G. Orwell to kolejny, po \u201e\u0141ajzie\" i \u201eMistrzu i Ma\u0142gorzacie\", spektakl braci Pachulskich o unikalnej konstrukcji, \u0142\u0105cz\u0105cej r\u00f3\u017cnorodne formy artystycznego wyrazu.\n\nThis rock theater adaptation by the Pachulski brothers premiered on 22 wrze\u015bnia na scenie Monopolis in \u0141\u00f3d\u017a. The production combines dramatic theater with live rock music. Natomiast 22 wrze\u015bnia w Monopolis zadebiutuje \"Rok 1984 - Rockowy Teatr\" in pariete G. Orwell.(no content)Arkadiuszem Pachulskim, kt\u00f3ry odpowiedzialny jest za adaptacj\u0119 i teksty piosenek. The adaptation was created by Arkadiusz Pachulski (text and lyrics) and Piotr Pachulski (music).\n\n## Radio Adaptations:\n\nWhile the search results mention Polish Radio content about \"1984\", I didn't find specific information about Polish radio theatrical adaptations. G\u0142\u00f3wny bohater powie\u015bci George'a Orwella by\u0142 pod pe\u0142n\u0105 kontrol\u0105 Wielkiego Brata. Ostatecznie pogodzi\u0142 si\u0119 z tym i przesta\u0142 postrzega\u0107 to jako problem. Czy\u017cby wizja \u015bwiata z \"Roku 1984\" realizowa\u0142a si\u0119 dzi\u015b wok\u00f3\u0142 nas? This appears to be from a Polish Radio discussion program about the novel rather than a radio play adaptation.\n\n## Historical Context:\n\nPierwszego polskiego t\u0142umaczenia \"Roku 1984\" dokona\u0142 Juliusz Mieroszewski, a ksi\u0105\u017cka zosta\u0142a wydana na emigracji w Instytucie Literackim w Pary\u017cu w roku 1953. Jako \u017ce \"Rok 1984\" jawnie krytykowa\u0142 system komunistyczny, ksi\u0105\u017cka by\u0142a do 1989 roku w Polsce zakazana.\n\nThe search results didn't reveal any specific YouTube or Teatr Polski productions, though the theatrical adaptations mentioned above may have video recordings available online."
+    ],
+    "durationSeconds": 34.479893914999906
+  }
+}

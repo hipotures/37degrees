@@ -1,0 +1,159 @@
+{
+  "session_id": "ac25dab5-19ee-43b4-8689-cf24d65d211d",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ac25dab5-19ee-43b4-8689-cf24d65d211d.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "#AliceInWonderland TikTok trend \"Alice syndrome\" \"Cheshire Cat\" BookTok symbolism"
+  },
+  "tool_response": {
+    "query": "#AliceInWonderland TikTok trend \"Alice syndrome\" \"Cheshire Cat\" BookTok symbolism",
+    "results": [
+      "I'll search for information about the Alice in Wonderland TikTok trend, particularly focusing on Alice syndrome, Cheshire Cat symbolism, and BookTok discussions.",
+      {
+        "tool_use_id": "srvtoolu_015a3qYbBXLAnVLAxZjysaNp",
+        "content": []
+      },
+      {
+        "tool_use_id": "srvtoolu_0133754xiyYZHbDxgN4rHLRF",
+        "content": [
+          {
+            "title": "The Most Popular TikTok Books #BookTok | Barnes & Noble\u00ae",
+            "url": "https://www.barnesandnoble.com/b/booktok/_/N-2vdn"
+          },
+          {
+            "title": "BookTok\u2019s 21 Most Talked About Books of 2024",
+            "url": "https://www.rollingstone.com/culture/culture-lists/booktok-best-books-2024-1235090973/"
+          },
+          {
+            "title": "TikTok's trend of 'BookTok' affects viewers' choices - The Post",
+            "url": "https://www.thepostathens.com/article/2024/10/booktok-tiktok-influence-reading"
+          },
+          {
+            "title": "The Best BookTok Books Of 2024 To Read ASAP (If You Haven\u2019t Already)",
+            "url": "https://www.hercampus.com/culture/10-best-books-2024-booktok/"
+          },
+          {
+            "title": "BookTok Recommendations 2024: What's Hot and What's Not?",
+            "url": "https://sociallypowerful.com/post/booktok-recommendations-2024"
+          },
+          {
+            "title": "Tiktok #Booktok 2022-2024 (47 books)",
+            "url": "https://www.goodreads.com/list/show/179763.Tiktok_Booktok_2022_2024"
+          },
+          {
+            "title": "Year on TikTok 2024: A little creativity sparks a lot of impact - Newsroom | TikTok",
+            "url": "https://newsroom.tiktok.com/en-us/year-on-tiktok-2024/"
+          },
+          {
+            "title": "Trending On Booktok | Indigo",
+            "url": "https://www.indigo.ca/en-ca/books/trending-on-booktok/"
+          },
+          {
+            "title": "Booktok Recommends 2024",
+            "url": "https://www.tiktok.com/discover/booktok-recommends-2024"
+          },
+          {
+            "title": "BookTok made me buy it: How TikTok is driving a book-buying renaissance - Retail Gazette",
+            "url": "https://www.retailgazette.co.uk/blog/2024/05/books-tiktok-booktok/"
+          }
+        ]
+      },
+      "Let me search for more specific information about Alice in Wonderland symbolism and Alice syndrome on TikTok.",
+      {
+        "tool_use_id": "srvtoolu_01KDU3VrVkqHkRS537xFeLFx",
+        "content": [
+          {
+            "title": "TikTok - Make Your Day",
+            "url": "https://www.tiktok.com/discover/alice-im-wunderland-syndrom"
+          },
+          {
+            "title": "Alice in Wonderland Trend",
+            "url": "https://www.tiktok.com/discover/alice-in-wonderland-trend"
+          },
+          {
+            "title": "Alice in Wonderland Syndrome simulation - made by someone with the condition. #aliceinwonderlandsyndrome #mentalhealth #simulation #interesting #mentalhealth #foryou #fyp #foryoupage | TikTok",
+            "url": "https://www.tiktok.com/@truecrimeandweirdstuff/video/7088372984578149638"
+          },
+          {
+            "title": "Alice in Wonderland Syndrome Is Hard",
+            "url": "https://www.tiktok.com/discover/alice-in-wonderland-syndrome-is-hard"
+          },
+          {
+            "title": "Alice in Wonderland Syndrome is this little known condition where people (often kids) perceive things very weirdly #science #aliceinwonderland #neurology #perception #brain #sciencevs #sciencepodcast  | TikTok",
+            "url": "https://www.tiktok.com/@wendyzukerman/video/7299005050993610002"
+          },
+          {
+            "title": "Alice in Wonderland Trend Camila Pudim",
+            "url": "https://www.tiktok.com/discover/alice-in-wonderland-trend-camila-pudim"
+          },
+          {
+            "title": "Alice in Wonderland Disorder",
+            "url": "https://www.tiktok.com/discover/alice-in-wonderland-disorder?lang=en"
+          },
+          {
+            "title": "my thoughts on alice in wonderland syndrome (in my PJs) | TikTok",
+            "url": "https://www.tiktok.com/@miadimilano/video/7395333258126347562"
+          },
+          {
+            "title": "Alice in Wonderland Syndrome Animation",
+            "url": "https://www.tiktok.com/discover/alice-in-wonderland-syndrome-animation"
+          },
+          {
+            "title": "Have you heard of Alice in Wonderland Syndrome? #fyp  | TikTok",
+            "url": "https://www.tiktok.com/@blonde.girlyy/video/7427698068558023979"
+          }
+        ]
+      },
+      "Let me search for more specific information about BookTok's Alice in Wonderland content and symbolism discussions.",
+      {
+        "tool_use_id": "srvtoolu_01BPsV7BkrszHLqsae6yD3w3",
+        "content": [
+          {
+            "title": "The Cheshire Cat Character Analysis in Alice's Adventures in Wonderland | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/alice/character/the-cheshire-cat/"
+          },
+          {
+            "title": "What does the Cheshire Cat represent in the book 'Alice in Wonderland'? - Quora",
+            "url": "https://www.quora.com/What-does-the-Cheshire-Cat-represent-in-the-book-Alice-in-Wonderland"
+          },
+          {
+            "title": "Cheshire Cat - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Cheshire_Cat"
+          },
+          {
+            "title": "Cheshire Cat - Alice-in-Wonderland.net",
+            "url": "https://www.alice-in-wonderland.net/resources/analysis/character-descriptions/cheshire-cat/"
+          },
+          {
+            "title": "Cheshire Cat | Alice in Wonderland, Grin, Feline | Britannica",
+            "url": "https://www.britannica.com/topic/Cheshire-Cat"
+          },
+          {
+            "title": "Footnotes: The Cheshire Cat",
+            "url": "https://www.carleton.edu/departments/engl/alice/FootCCat.html"
+          },
+          {
+            "title": "\u201cAlice in Wonderland\u201d \u2014 Meaning, Themes, and Symbols",
+            "url": "https://www.culturefrontier.com/symbolism-in-alice-in-wonderland/"
+          },
+          {
+            "title": "Symbolism in Alice in Wonderland: Mad Hatter to Cheshire Cat | TheCollector",
+            "url": "https://www.thecollector.com/what-are-the-most-important-symbols-in-alice-in-wonderland/"
+          },
+          {
+            "title": "Lessons from the Cheshire Cat | Fiction",
+            "url": "https://vocal.media/fiction/lessons-from-the-cheshire-cat"
+          },
+          {
+            "title": "The Cheshire Cat | Alice in Wonderland Wiki | Fandom",
+            "url": "https://aliceinwonderland.fandom.com/wiki/The_Cheshire_Cat"
+          }
+        ]
+      },
+      "Based on my searches, I found limited specific information about a current TikTok trend specifically combining Alice in Wonderland with Alice syndrome, Cheshire Cat symbolism, and BookTok discussions. However, I can provide context about these elements:\n\n## BookTok and Alice in Wonderland\n\nBookTok, the thriving community of book lovers, continues to reshape the literary landscape with over 1.2 million posts created in the first 10 months of 2024. While Alice in Wonderland itself wasn't mentioned among the top trending BookTok books of 2024, the platform has been influential in driving book sales and creating literary trends.\n\n## Alice in Wonderland Syndrome on TikTok\n\nWhile I found references to TikTok content about Alice in Wonderland Syndrome (a neurological condition where people perceive things differently, often experiencing size distortions), the search results only provided video titles without detailed content about how this is being discussed as a trend.\n\n## Cheshire Cat Symbolism\n\nThe Cheshire Cat carries rich symbolism in Alice in Wonderland:\n\n- The Cheshire Cat has insight into the workings of Wonderland as a whole. Its calm explanation to Alice that to be in Wonderland is to be \"mad\" reveals a number of points that do not occur to Alice on her own\n\n- The Cheshire Cat is sometimes interpreted as a guiding spirit for Alice, as it is he who directs her toward the March Hare's house and the mad tea party, which eventually leads her to her final destination, the garden. The Cat also seems to have some sort of privileged knowledge of the workings of Wonderland\n\n- The Cheshire Cat, who can disappear and reappear at will, is one of the most sensible creatures in Wonderland, although his wisdom is hidden in jokes and riddles. The fact that he can disappear and leave only his grin behind represents the elusive nature of truth and the unknowable mysteries of the universe\n\n- One of the most prominent symbols is that of the Cheshire Cat, which serves as a representation of wisdom and guidance\n\n## Literary Themes and Mental Health Interpretations\n\nCharacters like the Mad Hatter and the Cheshire Cat may be seen as representations of mental disorders such as bipolar disorder and schizophrenia. You might also interpret the Red Queen as having narcissistic personality disorder, although such diagnoses weren't known in Carroll's time\n\nWhile I couldn't find specific information about a current viral TikTok trend combining all these elements (Alice syndrome, Cheshire Cat symbolism, and BookTok discussions), it's possible such content exists on the platform but hasn't been extensively documented in web articles yet. TikTok trends often emerge and evolve rapidly, and the platform's content about Alice in Wonderland appears to span various interpretations including psychological analyses, symbolic discussions, and literary appreciation."
+    ],
+    "durationSeconds": 45.60935009600013
+  }
+}

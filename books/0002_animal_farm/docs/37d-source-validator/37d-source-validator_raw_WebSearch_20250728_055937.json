@@ -1,0 +1,17 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "CIA Operation Aedinosaur Animal Farm balloons Poland Hungary Czechoslovakia 1952-1957 declassified documents verification"
+  },
+  "tool_response": {
+    "query": "CIA Operation Aedinosaur Animal Farm balloons Poland Hungary Czechoslovakia 1952-1957 declassified documents verification",
+    "results": [
+      "API Error: Claude Code is unable to respond to this request, which appears to violate our Usage Policy (https://www.anthropic.com/legal/aup). Please double press esc to edit your last message or start a new session for Claude Code to assist with a different task."
+    ],
+    "durationSeconds": 3.075002069000155
+  }
+}

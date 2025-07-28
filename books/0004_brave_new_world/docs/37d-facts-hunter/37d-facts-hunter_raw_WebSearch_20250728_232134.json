@@ -1,0 +1,62 @@
+{
+  "session_id": "9588e4fa-c119-4986-be3b-1d3af7769f8f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/9588e4fa-c119-4986-be3b-1d3af7769f8f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Brave New World\" Aldous Huxley 1932 historical context world events Great Depression"
+  },
+  "tool_response": {
+    "query": "\"Brave New World\" Aldous Huxley 1932 historical context world events Great Depression",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01H35G1AjefzKQudFXHYMkaV",
+        "content": [
+          {
+            "title": "Historical Context of Brave New World - Aldous Huxley",
+            "url": "https://bookanalysis.com/aldous-huxley/brave-new-world/historical-context/"
+          },
+          {
+            "title": "ALDOUS HUXLEY: BRAVE NEW WORLD (1932)[1] \u2013 Comments on Culture",
+            "url": "https://bookerhorror.com/aldous-huxley-brave-new-world-19321/"
+          },
+          {
+            "title": "Brave New World Aldous Huxley 1932",
+            "url": "https://www.encyclopedia.com/arts/educational-magazines/brave-new-world"
+          },
+          {
+            "title": "Brave New World - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World"
+          },
+          {
+            "title": "Brave New World | Summary, Context, & Reception | Britannica",
+            "url": "https://www.britannica.com/topic/Brave-New-World"
+          },
+          {
+            "title": "Brave New World Revisited (1958) by Aldous Huxley",
+            "url": "https://www.huxley.net/bnw-revisited/"
+          },
+          {
+            "title": "When Was Brave New World Published? | Study.com",
+            "url": "https://study.com/academy/lesson/when-was-brave-new-world-published.html"
+          },
+          {
+            "title": "The Perfect World In The Brave New World By Aldous Huxley | Cram",
+            "url": "https://www.cram.com/essay/The-Perfect-World-In-The-Brave-New/PKPQJC5F2M5YW"
+          },
+          {
+            "title": "Aldous Huxley's Brave New World - Still a Chilling Vision ...",
+            "url": "https://repository.law.umich.edu/mlr/vol108/iss6/2/"
+          },
+          {
+            "title": "History In Aldous Huxley's Brave New World | ipl.org",
+            "url": "https://www.ipl.org/essay/History-In-Aldous-Huxleys-Brave-New-World-FJKBR4UYT"
+          }
+        ]
+      },
+      "Based on the search results, I can provide comprehensive information about the historical context of Aldous Huxley's \"Brave New World\" (1932) and its relationship to world events, particularly the Great Depression.\n\n## Historical Context of \"Brave New World\"\n\nAldous Huxley wrote \"Brave New World\" in France in 1931 and published it in 1932, during a period of significant global upheaval between the two World Wars.\n\n### Major World Events Influencing the Novel\n\n**The Great Depression and Economic Turmoil:**\nHuxley's novel was influenced by the historical realities of the time: at the end of WW1, the Soviet Union was formed, and was then ruled by Stalin's authoritarian regime; capitalism and mass production followed technological advancements and rapid industrialization; and the economic boom of the twenties was followed by the Great Depression.\n\nThe Stock Market Crash of 1929 had ushered in the decade-long Great Depression, which had profound effects on society. By this time, of course, with the memory of the horrors of world war still vivid, the excesses of emergent consumer capitalism in 1920s had led to depression at the beginning of the 1930s, so Huxley certainly had plenty to react to. We also learn that this war, traumatic enough in itself, was followed by \"the great Economic Collapse\".\n\n**Post-World War I Changes:**\nThe First World War had ended a decade ago, with a carnage of its kind never being seen. Russia had seen a bloody revolution, which led to the creation of the communist Soviet Union, and was ruled by Stalin. World War I had also changed many aspects of British life, including new and improved technologies, changing gender roles, and increased social equality. The Great Depression beginning in 1929 also took its toll. Both the British people and the British government struggled to get a handle on the economic upheaval.\n\n**The Roaring Twenties and Consumerism:**\nThe Roaring Twenties had just ended, which saw unprecedented economic growth matched by a rise in consumer culture. Consumerism became a dominant feature of the economic boom. With the surplus wealth created came the hedonism of the Roaring Twenties. Standardized entertainment was developed to cater to the masses coming into abundance.\n\n**Technological and Industrial Revolution:**\nThe Second Industrial Revolution, or the Technological Revolution, led to rapid industrialization, scientific discoveries, mass production, and standardization. Techno-optimism and scientific futurism were ideas that followed the rapid scientific discoveries, technological growth, and industrialization of the early 20th century.\n\n### Social and Political Context\n\nRadical political movements spread throughout Europe, from the far left to the far right. In 1932, Europe encountered a huge chaos due to the Great Depression originated from America. Homeless people were everywhere and middle classes were facing bankruptcy. Governments' power were declining; therefore, people sought for a more competent government.\n\n### Huxley's Response to His Times\n\nInspired by the tumultuous sociopolitical events of the early 20th century, Aldous Huxley explored future political orders in his influential dystopian fiction. In it, the author questions the values of 1931 London, using satire and irony to portray a futuristic world in which many of the contemporary trends in British and American society have been taken to extremes.\n\nThe Roaring Twenties, the rise of socialism as a political, and the Great Depression were influences for Huxley's dystopia. The novel serves as a reaction to the rapid changes and uncertainties of the era, extrapolating current trends into a dystopian future as a warning about the potential consequences of unchecked technological progress, consumerism, and social control."
+    ],
+    "durationSeconds": 32.10439301500001
+  }
+}

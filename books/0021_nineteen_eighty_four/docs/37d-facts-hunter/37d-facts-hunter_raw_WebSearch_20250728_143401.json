@@ -1,0 +1,63 @@
+{
+  "session_id": "b8c17c71-efc6-4c19-9b68-e101c36de9c9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b8c17c71-efc6-4c19-9b68-e101c36de9c9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"George Orwell\" \"1984\" predictions came true modern surveillance society social media monitoring thought policing"
+  },
+  "tool_response": {
+    "query": "\"George Orwell\" \"1984\" predictions came true modern surveillance society social media monitoring thought policing",
+    "results": [
+      "I'll search for information about George Orwell's \"1984\" predictions that have come true in modern surveillance society, social media monitoring, and thought policing.",
+      {
+        "tool_use_id": "srvtoolu_01Dn6C6BZMqEcUENypf8HmDP",
+        "content": [
+          {
+            "title": "The Surveillance Threat Is Not What George Orwell Imagined | TIME",
+            "url": "https://time.com/5602363/george-orwell-1984-anniversary-surveillance-capitalism/"
+          },
+          {
+            "title": "Orwell: 1984 to 2024 - Surveillance States and Privacy Concerns",
+            "url": "https://editverse.com/george-orwell-dystopian-fiction-totalitarianism/"
+          },
+          {
+            "title": "What Orwell's '1984' tells us about today's world, 70 years ...",
+            "url": "https://theconversation.com/what-orwells-1984-tells-us-about-todays-world-70-years-after-it-was-published-116940"
+          },
+          {
+            "title": "Government Surveillance and Academic Thought Policing Are Taking Us to 1984",
+            "url": "https://fee.org/articles/government-surveillance-and-academic-thought-policing-are-taking-us-to-1984/"
+          },
+          {
+            "title": "Shocking Parallels between '1984' and Today's World - Stoic of the Day",
+            "url": "https://www.stoicoftheday.com/shocking-parallels-between-1984-and-todays-world/"
+          },
+          {
+            "title": "'1984' In 2019: Did George Orwell's Classic Get It Right? | On Point",
+            "url": "https://www.wbur.org/onpoint/2019/06/06/george-orwell-1984-technology-government-surveillance"
+          },
+          {
+            "title": "(PDF) Propaganda and Surveillance in George Orwell\u2019s Nineteen Eighty-Four: Two Sides of the Same Coin",
+            "url": "https://www.researchgate.net/publication/49596464_Propaganda_and_Surveillance_in_George_Orwell's_Nineteen_Eighty-Four_Two_Sides_of_the_Same_Coin"
+          },
+          {
+            "title": "Surveillance and Control in George Orwell's \u201c1984\u201d",
+            "url": "https://ijels.com/upload_document/issue_files/30IJELS-101202541-Surveillance.pdf"
+          },
+          {
+            "title": "Surveillance in 1984 By George Orwell | Free Essay Example for Students",
+            "url": "https://aithor.com/essay-examples/surveillance-in-1984-by-george-orwell"
+          },
+          {
+            "title": "Unraveling the Depths of George Orwell's 1984: An In-Depth Analysis, Author Insights, and Modern-Day Relevance - English Plus Podcast",
+            "url": "https://englishpluspodcast.com/unraveling-the-depths-of-george-orwells-1984-an-in-depth-analysis-author-insights-and-modern-day-relevance/"
+          }
+        ]
+      },
+      "Based on the search results, there are numerous striking parallels between George Orwell's \"1984\" predictions and our modern surveillance society. Here's what the research reveals:\n\n## Surveillance Technology Predictions That Came True\n\nIn \"1984\", telescreens watched citizens constantly. Today? Look at your smartphone, smart speaker, or security camera.(no content)The recent TikTok controversies highlight our modern surveillance state \u2013 a platform suspected of harvesting personal data on millions of users worldwide.(no content)For 19 years, private companies practicing an unprecedented economic logic that I call surveillance capitalism have hijacked the Internet and its digital technologies. Invented at Google beginning in 2000, this new economics covertly claims private human experience as free raw material for translation into behavioral data.\n\n## Social Media as Modern Thought Police\n\nIn 2019, it is a small cadre of private companies in Silicon Valley and their executives that wield absolute power over what we are permitted to see and say online.(no content)In 2019, there are just a few social media empires to which most of the world's netizens belong. In 1984, it was the state that conducted surveillance and censored speech. In 2019, social media companies deploy vast armies of human and algorithmic monitors.\n\nThought Police: A secret police force monitoring and punishing thoughtcrime, paralleling modern concerns about digital privacy.\n\n## Truth Manipulation and \"Alternative Facts\"\n\nThe concept of \"alternative facts\" and \"fake news\" in our own media landscape shows how truth becomes malleable in the hands of authority.(no content)That last one, \"Truth isn't truth,\" that's from the President Trump's personal attorney, Rudy Giuliani. So it's real, and recent.\n\n## Real-World Examples of Orwellian Control\n\nNorth Korea's intensified isolation and recent missile tests demonstrate a society where dissent is dangerous. Citizens face punishment not just for actions, but for thoughts \u2013 a real-world \"thoughtcrime\" system.(no content)Iran's internet shutdowns during protests show how governments can control not just information, but the very ability to communicate. This mirrors Orwell's world where connection between citizens was strictly monitored and controlled.\n\n## Academic Thought Policing\n\nWe live in an ever-growing surveillance state and higher education is fast becoming a place where students expect not to be faced with or to contend with controversial ideas but to be protected from them.(no content)The subtle change from \"these ideas are incorrect as matters of logic and evidence\" to \"it is immoral to even subject these ideas to rigorous inquiry\" threatens to subject the liberal arts and sciences to a thought police.\n\n## The Voluntary Surveillance State\n\nThe expansion of surveillance powers during the COVID-19 pandemic showed how quickly monitoring can become normalized. Smart home devices with always-on listening capabilities bring the surveillance state into our living rooms \u2013 voluntarily installed by citizens themselves. Would Orwell's characters have believed we'd willingly bug our own homes?\n\n## Expert Analysis\n\nIn the words of Italian essayist Umberto Eco, \"at least three-quarters of what Orwell narrates is not negative utopia, but history.\"(no content)It turns out Orwell's predictions were frighteningly accurate.(no content)The book serves not just as a warning, but as a mirror reflecting our acceptance of creeping control. A world without freedom isn't just fiction anymore \u2013 it's a potential future we're actively choosing or refusing every day through our actions, awareness, and willingness to speak up.\n\nThe search results demonstrate that Orwell's vision has materialized in ways he couldn't have fully imagined - not through totalitarian state control alone, but through a combination of government surveillance, corporate data harvesting, social media monitoring, and most disturbingly, our voluntary participation in these systems."
+    ],
+    "durationSeconds": 45.512099298000045
+  }
+}

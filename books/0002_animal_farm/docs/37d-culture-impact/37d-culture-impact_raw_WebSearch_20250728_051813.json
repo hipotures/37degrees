@@ -1,0 +1,63 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Animal Farm YouTube BookTube reviews video essays educational content millions views"
+  },
+  "tool_response": {
+    "query": "Animal Farm YouTube BookTube reviews video essays educational content millions views",
+    "results": [
+      "I'll search for Animal Farm content on YouTube, specifically looking for BookTube reviews, video essays, and educational content with high view counts.",
+      {
+        "tool_use_id": "srvtoolu_01VecHAWj4Xc6r4ZKfpDSE3k",
+        "content": [
+          {
+            "title": "Animal Farm Book Review | Common Sense Media",
+            "url": "https://www.commonsensemedia.org/book-reviews/animal-farm"
+          },
+          {
+            "title": "Animal Farm Video | GradeSaver",
+            "url": "https://www.gradesaver.com/animal-farm/study-guide/video-animal-farm"
+          },
+          {
+            "title": "7 Things I Learned From Animal Farm - Learn in Color",
+            "url": "https://learnincolor.com/7-things-i-learned-from-animal-farm.html"
+          },
+          {
+            "title": "Animal Farm - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Animal_Farm"
+          },
+          {
+            "title": "Animal Farm Video Study Guide | Complete Playlist | SchoolTube",
+            "url": "https://www.schooltube.com/animal-farm-video-study-guide-complete-playlist/"
+          },
+          {
+            "title": "Parent reviews for Animal Farm | Common Sense Media",
+            "url": "https://www.commonsensemedia.org/book-reviews/animal-farm/user-reviews/adult"
+          },
+          {
+            "title": "Animal Farm | Lisa's Study Guides",
+            "url": "https://www.vcestudyguides.com/blog/animal-farm"
+          },
+          {
+            "title": "Orwell's Animal Farm Review for Teachers | Common Sense Education",
+            "url": "https://www.commonsense.org/education/reviews/orwells-animal-farm"
+          },
+          {
+            "title": "Amazon.com: Animal Farm and Related Readings: 9780395796771: George Orwell, Michael Kort, Osip Mandelstam, Ariel Dorfman, Margaret Atwood, Kurt Vonnegut Jr., Daphne du Maurier, Houghton Mifflin Company: Books",
+            "url": "https://www.amazon.com/Animal-Related-Readings-George-Orwell/dp/0395796776"
+          },
+          {
+            "title": "BookTube - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/BookTube"
+          }
+        ]
+      },
+      "Based on my search results, I found some information about Animal Farm educational content on YouTube and related platforms, though the search didn't return specific YouTube videos with millions of views. Here's what I found:\n\n## Animal Farm Educational Content on YouTube and Online Platforms\n\n### Educational Video Content\n\nIn this playlist of 19 videos, George Orwell's novel Animal Farm is summarized and analyzed chapter by chapter with additional discussions at the end. This content is available on SchoolTube, an educational video platform that is viewed by teachers and student communities in over 90% of US schools!\n\n### BookTube Community\n\nWhile I didn't find specific Animal Farm BookTube videos with millions of views in these results, I did find information about the BookTube community itself:\n\n- BookTube is a subcommunity on YouTube that focuses on books and literature. The BookTube community has, to date, reached hundreds of thousands of viewers worldwide.\n- Today, many channels have thousands (and sometimes hundreds of thousands) of subscribers.\n- BookTubers often create videos reviewing and discussing young adult literature, but other genres, such as classics, science fiction, fantasy, Superhero, Horror, Supernatural, Paranormal Romance, literary fiction, children's literature, comics, romance, and non-fiction, are also represented.\n\n### Popular BookTubers\n\nSome of the most subscribed BookTubers mentioned include: Jack Edwards (Jack Edwards), Isabella Lubrano (Ler Antes de Morrer), Tatiana Feltrin (tatianagfeltrin), Cindy Pham (withcindy), Hannah Azerang (A Clockwork Reader), Pam Gon\u00e7alves (PamGon\u00e7alves), Ariel Bissett (ArielBissett), Christine Riccio (PolandBananasBooks), Kat O'Keefe (katytastic), Clau R. (ClauReadsBooks), Dakota Warren (Dakota Warren), Carley Thorne (uncarley), Jesse George (Jesse the Reader), and Daniel Greene (Daniel Greene).\n\n### Animal Farm's Enduring Popularity\n\nThe search results confirm Animal Farm's continued relevance in educational settings:\n\n- Time magazine chose Animal Farm as one of the 100 best English-language novels (1923 to 2005); it also featured at number 31 on the Modern Library List of Best 20th-Century Novels.\n- Popular reading in schools, Animal Farm was ranked the UK's favourite book from school in a 2016 poll.\n\nWhile this search didn't return specific YouTube videos with millions of views about Animal Farm, it's clear that the book remains a popular subject for educational content across various platforms, including YouTube's BookTube community and educational video platforms like SchoolTube."
+    ],
+    "durationSeconds": 24.80856301400019
+  }
+}

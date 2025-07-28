@@ -1,0 +1,134 @@
+{
+  "session_id": "e18f7f1c-5883-41e4-8ef9-15aee4aa266b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e18f7f1c-5883-41e4-8ef9-15aee4aa266b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Great Gatsby\" cryptocurrency NFT wealth \"new money\" social media influencers 2020s cultural commentary"
+  },
+  "tool_response": {
+    "query": "\"Great Gatsby\" cryptocurrency NFT wealth \"new money\" social media influencers 2020s cultural commentary",
+    "results": [
+      "I'll search for information about how cryptocurrency, NFTs, and social media influencers relate to \"The Great Gatsby\" themes of new money and wealth in 2020s cultural commentary.",
+      {
+        "tool_use_id": "srvtoolu_01CFB7qXJ4GJ5aQqH7GjrDUT",
+        "content": [
+          {
+            "title": "Class (Old Money, New Money, No Money) Theme in The Great Gatsby | LitCharts",
+            "url": "https://www.litcharts.com/lit/the-great-gatsby/themes/class-old-money-new-money-no-money"
+          },
+          {
+            "title": "How Money and Wealth Depicted in the Fitzgerald's \"Great Gatsby\" | Free Essay Example",
+            "url": "https://studycorgi.com/how-money-and-wealth-depicted-in-the-fitzgeralds-great-gatsby/"
+          },
+          {
+            "title": "8 Ways 'The Great Gatsby' Captured the Roaring Twenties\u2014and Its Dark Side | HISTORY",
+            "url": "https://www.history.com/articles/great-gatsby-roaring-twenties-fitzgerald-dark-side"
+          },
+          {
+            "title": "The Great Gatsby | Lisa's Study Guides",
+            "url": "https://www.vcestudyguides.com/blog/the-great-gatsby"
+          }
+        ]
+      },
+      "I need to search for more specific information about cryptocurrency, NFTs, and social media influencers in relation to Great Gatsby themes in the 2020s, as the current results are primarily about the original novel and its themes rather than contemporary cultural commentary.",
+      {
+        "tool_use_id": "srvtoolu_016grALCxApKcrdjDqmhPBQw",
+        "content": []
+      },
+      {
+        "tool_use_id": "srvtoolu_014UvYLXoJxNJYjLrjhGiNoX",
+        "content": [
+          {
+            "title": "Class (Old Money, New Money, No Money) Theme in The Great Gatsby | LitCharts",
+            "url": "https://www.litcharts.com/lit/the-great-gatsby/themes/class-old-money-new-money-no-money"
+          },
+          {
+            "title": "New Money In The Great Gatsby Analysis - 1171 Words | Cram",
+            "url": "https://www.cram.com/essay/New-Money-In-The-Great-Gatsby-Analysis/F39JCJS9GR445"
+          },
+          {
+            "title": "Best Analysis: Money and Materialism in The Great Gatsby \u00b7 PrepScholar",
+            "url": "https://blog.prepscholar.com/the-great-gatsby-theme-materialism-money"
+          },
+          {
+            "title": "New Money vs. Old Money \u2014 Does This Make a Difference for Rich People?",
+            "url": "https://finance.yahoo.com/news/money-vs-old-money-does-180010617.html"
+          },
+          {
+            "title": "(PDF) Old Money versus New Money snobbery and the illusion of the American Dream in S Scott Fitzgerald\u2019s \u201cThe Great Gatsby\u201d",
+            "url": "https://www.researchgate.net/publication/349063114_Old_Money_versus_New_Money_snobbery_and_the_illusion_of_the_American_Dream_in_S_Scott_Fitzgerald's_The_Great_Gatsby"
+          },
+          {
+            "title": "(PDF) The Power of Money in FS. Fitzgerald\u2019s The Great Gatsby",
+            "url": "https://www.researchgate.net/publication/286476856_The_Power_of_Money_in_FS_Fitzgerald's_The_Great_Gatsby"
+          },
+          {
+            "title": "The Theme of Old and New Money in The Great Gatsby | Free Essay Example",
+            "url": "https://studycorgi.com/old-and-new-money-in-the-great-gatsby/"
+          },
+          {
+            "title": "How Crypto \u2018Bro\u2019 Culture Around Finance Is the New Toxic Masculinity | The Swaddle",
+            "url": "https://www.theswaddle.com/how-crypto-bro-culture-around-finance-is-the-new-toxic-masculinity"
+          },
+          {
+            "title": "Culture In The Great Gatsby - 1436 Words | Cram",
+            "url": "https://www.cram.com/essay/New-Money-And-Old-Money-In-The/F3HL9TP2MXZQ"
+          },
+          {
+            "title": "Theme of New Money in The Great Gatsby: [Essay Example], 683 words",
+            "url": "https://gradesfixer.com/free-essay-examples/theme-of-new-money-in-the-great-gatsby/"
+          }
+        ]
+      },
+      {
+        "tool_use_id": "srvtoolu_01NvZD8b6y1Rrh49PwpHFwQi",
+        "content": [
+          {
+            "title": "The 30 NFT Influencers to Watch on Twitter, YouTube, and Instagram in 2024 | by ChainPeak | Medium",
+            "url": "https://medium.com/@chainpeak/the-30-nft-influencers-to-watch-on-twitter-youtube-and-instagram-in-2024-760f6dae7089"
+          },
+          {
+            "title": "Top 30 NFT Influencers on Twitter, Youtube, Instagram to Follow in 2025",
+            "url": "https://ninjapromo.io/top-nft-influencers"
+          },
+          {
+            "title": "TOP NFT Influencers: You know the important voices in the NFT market",
+            "url": "https://nftmetria.com/nft-influencers/top-nft-influencers/"
+          },
+          {
+            "title": "Top 27 NFT Influencers to Follow Today",
+            "url": "https://influencermarketinghub.com/nft-influencers/"
+          },
+          {
+            "title": "15 NFT Influencers to Watch - IZEA",
+            "url": "https://izea.com/resources/nft-influencers/"
+          },
+          {
+            "title": "Top NFT Influencers You Should Know (2025 List) | Coinbound",
+            "url": "https://coinbound.io/top-nft-influencers/"
+          },
+          {
+            "title": "Top NFT Influencers to Follow in 2022 | FLOLiO",
+            "url": "https://flolio.com/resources/nft-influencers"
+          },
+          {
+            "title": "Top 10 NFT influencers to follow",
+            "url": "https://www.stargazer.co/blog/top-10-nft-influencers-to-follow"
+          },
+          {
+            "title": "Top 50 NFT Influencers in 2025",
+            "url": "https://x.feedspot.com/nft_twitter_influencers/"
+          },
+          {
+            "title": "Crypto Influencers List - All Blockchain & NFT Influencers Ranked",
+            "url": "https://coinlaunch.space/influencers/"
+          }
+        ]
+      },
+      "Based on my search results, I can provide insights into how cryptocurrency, NFTs, and social media influencers relate to \"The Great Gatsby\" themes of new money and wealth in 2020s cultural commentary.\n\n## The Modern \"New Money\" Phenomenon\n\nThe Great Gatsby portrays three different social classes: \"old money\" (Tom and Daisy Buchanan); \"new money\" (Gatsby); and a class that might be called \"no money\" (George and Myrtle Wilson). The \"new money\" class made their fortunes in the 1920s boom and therefore have no social connections and tend to overcompensate for this lack with lavish displays of wealth.\n\nThe parallels between Gatsby's era and today's cryptocurrency/NFT wealth are striking. Today, in the world outside the one inhabited by the uncles, we find ourselves confronted with \"finance bros\" \u2013 people, usually young men, who feel the need to assert their dominance by touting their purported knowledge of the shiny new objects in finance. \"'You have no idea what you're doing with your money if you're not investing in crypto,' is an actual thing said to me by a finance bro once.\"\n\n## Social Media Influencers as Modern Gatsbys\n\nThe growth of non-fungible tokens (NFTs) has been remarkable. In September 2022, OpenSea, the world's largest digital marketplace, recorded 1.85 million transactions, with a total trading volume of 350,000 ETH. Moreover, the NFT market is projected to exceed $80 billion by 2025.\n\nThe NFT and crypto influencer space has created its own version of Gatsby's lavish parties and displays of wealth. Mike Winkelmann, also known as Beeple, is a digital artist, animator, and graphic designer best known for creating and selling non-fungible assets. His most famous asset created is \"Everydays: The First 5000 Days,\" a collage of digital pictures of successive 5000 days from 2007. His art was sold for $69.4 million.\n\n## The \"Crypto Bro\" Culture and Toxic Masculinity\n\nEconomist and author Shrayana Bhattacharya points out that despite the fact that some of the most prominent people in banking and finance are now women, the everyday cultural conversations around finance remain excessively clique-y, bro-y, and insider-y. It has to do with the fact that money is power, is masculinity, and the very many tools and instruments concocted to deal in it are undeniably inaccessible for those who aren't traditionally considered proprietors of money.(no content)This makes the continuum apparent: most people having conversations about investing in new financial instruments like crypto are privileged, cis-het men in IT, startups, or even, as Akira, 27, puts it, \"unemployed people with the requisite IT education.\" But it is a club for those who are enthralled by the prospect of risk-taking; by extension, it is only the most socially, financially comfortable who can afford to take risks. The broad-sweep profiles of the bros in question indicate that they are (usually) men with security already.\n\n## Old Money vs New Money Dynamics Persist\n\nFolks with new money like Gatsby try using their wealth to get into elite circles but face pushback from those who've had it for generations. Tom Buchanan, an emblem of old money, sees new-money people as second-rate since they lack fancy upbringing and cultural polish. Tom's sneer about Gatsby's education and choice of clothes points out biases against new money folks. Even with all his lavish riches, Gatsby can't shake off the stain on his social standing among old-money types.\n\n## Cultural Commentary on Wealth Display\n\nThe ostentatious display of wealth through NFTs and cryptocurrency mirrors Gatsby's parties. By the age of 45, Gary Vee (Gary Vaynerchuk), the son of immigrants from Belarus, managed to open about 20 businesses. He started an NFT project called VeeFriends in May 2021, and hosted the first VeeCon on the world of Web3 and non-fungible tokens. The purpose of the project is to provide other people with a blueprint for successfully launching an project.(no content)More than any other author, F. Scott Fitzgerald can be said to have captured the rollicking, tumultuous decade known as the Roaring Twenties, from its wild parties, dancing and illegal drinking to its post-war prosperity and its new freedoms for women. But amid that decade of newfound prosperity and economic growth, Fitzgerald\u2014like other writers of the so-called \"Lost Generation\"\u2014wondered if America had lost its moral compass in the rush to embrace post-war materialism and consumer culture.\n\nThe same questions about moral compass and materialism apply to today's crypto wealth culture, where social media influencers flaunt their digital riches and NFT collections much like Gatsby threw his legendary parties, seeking validation and acceptance through displays of newfound wealth."
+    ],
+    "durationSeconds": 71.63536851900024
+  }
+}

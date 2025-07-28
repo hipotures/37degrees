@@ -1,0 +1,63 @@
+{
+  "session_id": "bb5bd92f-2e06-46b2-9b84-f65c0578b080",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/bb5bd92f-2e06-46b2-9b84-f65c0578b080.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Ma\u0142y Ksi\u0105\u017c\u0119\" polscy celebryci znani Polacy cytaty nawi\u0105zania kultura"
+  },
+  "tool_response": {
+    "query": "\"Ma\u0142y Ksi\u0105\u017c\u0119\" polscy celebryci znani Polacy cytaty nawi\u0105zania kultura",
+    "results": [
+      "I'll search for information about \"The Little Prince\" (Ma\u0142y Ksi\u0105\u017c\u0119) references and quotes from Polish celebrities and famous Polish people in culture.",
+      {
+        "tool_use_id": "srvtoolu_0121X9gcxssNpDEKjARcpxEZ",
+        "content": [
+          {
+            "title": "Lektura szkolna, przepi\u0119kna opowie\u015b\u0107, a przede wszystkim pe\u0142na mora\u0142\u00f3w ksi\u0105\u017cka \u2013 tak pokr\u00f3tce przedstawiany jest \u201eMa\u0142y Ksi\u0105\u017c\u0119\u201d. Cytaty o mi\u0142o\u015bci czy przyja\u017ani podbi\u0142y serca milion\u00f3w czytelnik\u00f3w na ca\u0142ym \u015bwiecie, a z\u0142ote my\u015bli dotycz\u0105ce uczu\u0107 pokazuj\u0105, co tak naprawd\u0119 w ludzkim \u017cyciu jest najwa\u017cniejsze. Poznaj sentencje, kt\u00f3re warto przemy\u015ble\u0107 i zapami\u0119ta\u0107 na ca\u0142e \u017cycie.",
+            "url": "https://zwierciadlo.pl/kultura/538324,1,maly-ksiaze--popularne-cytaty-z-kultowej-powiesci.read"
+          },
+          {
+            "title": "Najlepsze cytaty z ksi\u0105\u017cki \"Ma\u0142y Ksi\u0105\u017ce\". Id\u0119 o zak\u0142ad, \u017ce kochacie je wszystkie",
+            "url": "https://joannapachla.com/literatura/55-cytatow-z-malego-ksiecia-ide-o-zaklad-ze-kochasz-je-wszystkie/"
+          },
+          {
+            "title": "Ma\u0142y Ksi\u0105\u017c\u0119 - cytaty i najlepsze z\u0142otemy\u015bli z \u201eMa\u0142ego Ksi\u0119cia\u201d do zapami\u0119tania!",
+            "url": "https://twojstyl.pl/artykul/cytaty-z-malego-ksiecia-te-zlote-mysli-przypominaja-co-w-zyciu-jest-naprawde-wazne-wzruszycie-sie,aid,5862"
+          },
+          {
+            "title": "Cytaty z \u201eMa\u0142ego Ksi\u0119cia\u201d \u2013 sentencje do dedykacji! - CZYTAM - Empik Pasje",
+            "url": "https://www.empik.com/pasje/cytaty-z-malego-ksiecia-sentencje-do-dedykacji,132517,a"
+          },
+          {
+            "title": "Ma\u0142y Ksi\u0105\u017c\u0119 cytaty - Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/cytaty/20946/ksiazka/maly-ksiaze"
+          },
+          {
+            "title": "Najpi\u0119kniejsze cytaty z Ma\u0142ego Ksi\u0119cia - Szko\u0142a j\u0119zykowa Skrivanek",
+            "url": "https://szkolajezyk.pl/najpiekniejsze-cytaty-z-malego-ksiecia/"
+          },
+          {
+            "title": "Ma\u0142y Ksi\u0105\u017c\u0119 \u2013 Wikicytaty",
+            "url": "https://pl.wikiquote.org/wiki/Ma\u0142y_Ksi\u0105\u017c\u0119"
+          },
+          {
+            "title": "Najpi\u0119kniejsze cytaty z Ma\u0142ego Ksi\u0119cia - Blog Moi-Mili.pl",
+            "url": "https://moi-mili.pl/cytaty-z-malego-ksiecia/"
+          },
+          {
+            "title": "Cytaty z Ma\u0142ego Ksi\u0119cia \u2013 4kidspoint.pl",
+            "url": "https://4kidspoint.pl/blogs/news/cytaty-z-malego-ksiecia"
+          },
+          {
+            "title": "Najwa\u017cniejsze cytaty z Ma\u0142ego Ksi\u0119cia i kto je powiedzia\u0142",
+            "url": "https://lemowisko.pl/najwazniejsze-cytaty-z-malego-ksiecia-i-kto-je-powiedzial-wyjasniamy-kontekst"
+          }
+        ]
+      },
+      "Based on my search, I found information about \"The Little Prince\" (\"Ma\u0142y Ksi\u0105\u017c\u0119\") and its cultural impact in Poland, particularly regarding quotes and references by Polish celebrities and notable figures. Here's what I discovered:\n\n## \"Ma\u0142y Ksi\u0105\u017c\u0119\" in Polish Culture\n\nThe book \"Ma\u0142y Ksi\u0105\u017c\u0119\" is described as a school reading, a beautiful story, and above all a book full of morals. Quotes about love and friendship have won the hearts of millions of readers around the world, and golden thoughts about feelings show what is truly most important in human life.\n\n### Polish Translations and Cultural Impact\n\nThe Little Prince has been translated from French into Polish 18 times. Interestingly, Polish was one of the first languages in which the translation appeared (the book was published slightly earlier in English). The first edition with a translation by Marta Malicka appeared in Poland in 1947, published by Sp\u00f3\u0142dzielnia Wydawnicza P\u0142omienie.(no content)The version by Jan Szwykowski is considered the most popular.(no content)The Little Prince has also appeared in Poland in other language versions - Lemko (\u041c\u0430\u043b\u0438\u0439 \u041f\u0440\u0456\u043d\u0446), Prussian (L\u012bkuts Princis), and in the Pozna\u0144 dialect as \"Ksi\u0105\u017c\u0119 szaranek\". In 2018, the book received a translation into Kashubian (M\u00f4\u0142i princ).\n\n### Cultural References and Popular Quotes\n\nQuotes from The Little Prince have entered pop culture. They are eagerly placed on posters and clothing. They inspire and teach.\n\nWhile the search results don't specifically mention Polish celebrities or famous Poles quoting \"The Little Prince,\" the book clearly has a significant cultural presence in Poland. The reflections presented in a fairy-tale manner mean that the book enjoys enormous interest among both adults and older children, and quotes from \"The Little Prince\" have become life mottos for many people.\n\nThe most popular quotes that resonate in Polish culture include themes of:\n- Love and friendship\n- Responsibility (\"You are forever responsible for what you have tamed\")\n- The famous quote about seeing with the heart: \"Here is my secret. It is very simple: one sees clearly only with the heart. What is essential is invisible to the eyes.\"\n- The relationship between adults and children\n\nThe book continues to be widely read and quoted in Poland, serving as a source of wisdom and reflection for generations of Polish readers, though specific references by Polish celebrities were not found in these search results."
+    ],
+    "durationSeconds": 30.1604866899997
+  }
+}

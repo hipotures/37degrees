@@ -1,0 +1,63 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Animal Farm\" George Orwell Stalin real events Moscow Trials purges allegory historical parallels"
+  },
+  "tool_response": {
+    "query": "\"Animal Farm\" George Orwell Stalin real events Moscow Trials purges allegory historical parallels",
+    "results": [
+      "I'll search for information about the historical parallels between George Orwell's \"Animal Farm\" and real events under Stalin, including the Moscow Trials and purges.",
+      {
+        "tool_use_id": "srvtoolu_016ssqM9Dt4EMmpheALMkT6N",
+        "content": [
+          {
+            "title": "Animal Farm: The Russian Revolution | Critical Essays | CliffsNotes",
+            "url": "https://www.cliffsnotes.com/literature/a/animal-farm/critical-essays/the-russian-revolution"
+          },
+          {
+            "title": "Animal Farm - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Animal_Farm"
+          },
+          {
+            "title": "Historical Context (Animal Farm) | Revision World",
+            "url": "https://revisionworld.com/level-revision/english-literature-gcse-level/animal-farm-george-orwell/historical-context-animal"
+          },
+          {
+            "title": "The Russian Revolution & Animal Farm | Parallels & Comparisons - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/how-animal-farm-parallels-the-russian-revolution.html"
+          },
+          {
+            "title": "Animal Farm: George Orwell and Animal Farm Background | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/animalfarm/context/"
+          },
+          {
+            "title": "Animal Farm | Political Satire, Allegory & Fable | Britannica",
+            "url": "https://www.britannica.com/topic/Animal-Farm"
+          },
+          {
+            "title": "Animal Farm by George Orwell | Audible.com",
+            "url": "https://www.audible.com/blog/summary-animal-farm-by-george-orwell"
+          },
+          {
+            "title": "Animal Farm and the Russian Revolution | VCE Media, Victorian Curriculum, Media Arts, digital literacy, media education, filmmaking",
+            "url": "https://lessonbucket.com/english/year-9-english/animal-farm/animal-farm-and-the-russian-revolution/"
+          },
+          {
+            "title": "Teach the Meaning and Message of Animal Farm Before Its Netflix Release",
+            "url": "https://blog.gale.com/teach-the-meaning-and-message-of-animal-farm-before-its-netflix-release/"
+          },
+          {
+            "title": "The Russian Revolution & Animal Farm | Parallels & ...",
+            "url": "https://study.com/academy/lesson/video/how-animal-farm-parallels-the-russian-revolution.html"
+          }
+        ]
+      },
+      "Based on the search results, I found comprehensive information about the historical parallels between George Orwell's \"Animal Farm\" and real events under Stalin, particularly the Moscow Trials and purges. Here's what the sources reveal:\n\n## Key Historical Parallels\n\n### The Moscow Trials and Stalin's Purges\n\nThe confessions and executions of the animals reflect the various purges and \"show trials\" that Stalin conducted to rid himself of any possible threat of dissention.(no content)In chapter seven, when the animals confess their non-existent crimes and are killed, Orwell directly alludes to the purges, confessions and show trials of the late 1930s.(no content)The Moscow Trials of 1938 involved the trial and execution of Stalin's high profile political opponents. After threats and torture, many of these people confessed to crimes such as treason.(no content)In 1934, Stalin's ally Serge Kirov was assassinated in Leningrad, prompting Stalin to commence his infamous purges of the Communist Party. Holding \"show trials\"\u2014trials whose outcomes he and his allies had already decided\u2014Stalin had his opponents officially denounced as participants in Trotskyist or anti-Stalinist conspiracies and therefore as \"enemies of the people,\" an appellation that guaranteed their immediate execution.\n\n### The Great Purge\n\nIn the 1930s, Stalin orchestrated the Great Purge, during which millions of people were executed or sent to labour camps.(no content)The Great Purge of 1937 and 1938 saw up to 1.2 million people killed.(no content)Additionally, the vast majority of \"old\" Bolsheviks were sentenced during the Moscow Show Trials and an estimated 750,000 people were executed.\n\n### Napoleon's Executions Mirror Stalin's Show Trials\n\nIn Animal Farm, Napoleon's public executions of animals who confess to working with Snowball reflect Stalin's show trials, where people were forced to confess to crimes they did not commit. The parallel is particularly striking in how both Stalin and Napoleon used forced confessions and public executions to eliminate perceived threats and consolidate power.\n\n### Main Character Parallels\n\nEventually, Trotsky was exiled from the U.S.S.R. and killed by the agents of Joseph Stalin (1979-1953), as Snowball is chased off of the farm by Napoleon \u2014 Orwell's stand-in for Stalin.(no content)Three of the pigs (Old Major, Snowball, and Napoleon) represent Vladimir Lenin, Leon Trotsky, and Josef Stalin, respectively.\n\n### Stalin's Methods of Control\n\nNapoleon's dogs are like Stalin's KGB, his secret police that he used to eliminate all opposition.(no content)The puppies controlled by Napoleon parallel the nurture of the secret police in the Stalinist structure, and the pigs' treatment of the other animals on the farm recalls the internal terror faced by the populace in the 1930s.\n\n### Historical Context and Orwell's Motivation\n\nAccording to Orwell, Animal Farm reflects events leading up to the Russian Revolution of 1917 and then on into the Stalinist era of the Soviet Union, a period when Russia lived under the Marxist\u2013Leninist ideology of Joseph Stalin.(no content)In the preface of a 1947 Ukrainian edition of Animal Farm, he explained how escaping the communist purges in Spain taught him \"how easily totalitarian propaganda can control the opinion of enlightened people in democratic countries\".(no content)Homage to Catalonia sold poorly; after seeing Arthur Koestler's best-selling Darkness at Noon about the Moscow Trials, Orwell decided that fiction would be the best way to describe totalitarianism.\n\nThe search results clearly demonstrate that Orwell deliberately crafted \"Animal Farm\" as an allegory of Stalin's Soviet Union, with specific events in the novel directly mirroring historical events like the Moscow Trials, the Great Purge, and Stalin's systematic elimination of political opponents through show trials and executions."
+    ],
+    "durationSeconds": 39.30678769700002
+  }
+}

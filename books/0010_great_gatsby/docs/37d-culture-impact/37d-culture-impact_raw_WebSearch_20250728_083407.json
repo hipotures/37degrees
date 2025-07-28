@@ -1,0 +1,109 @@
+{
+  "session_id": "e18f7f1c-5883-41e4-8ef9-15aee4aa266b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e18f7f1c-5883-41e4-8ef9-15aee4aa266b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Great Gatsby\" high school curriculum college syllabus AP English literature teaching methods"
+  },
+  "tool_response": {
+    "query": "\"Great Gatsby\" high school curriculum college syllabus AP English literature teaching methods",
+    "results": [
+      "I'll search for information about teaching \"The Great Gatsby\" in high school and college settings.",
+      {
+        "tool_use_id": "srvtoolu_01GogLFCW7jL1Q78XDRAPTGf",
+        "content": [
+          {
+            "title": "Importance Of Curriculum In The Great Gatsby - 1109 Words | Cram",
+            "url": "https://www.cram.com/essay/Importance-Of-Curriculum-In-The-Great-Gatsby/FKTNXHFNBXZW"
+          },
+          {
+            "title": "The Great Gatsby Novel Study is Ideal for Fostering Reading Comprehension Skills in 11th Grade",
+            "url": "https://www.commonlit.org/blog/the-great-gatsby-novel-study-is-ideal-for-fostering-reading-comprehension-skills-in-11th-grade/"
+          },
+          {
+            "title": "Honors/AP: The Great Gatsby",
+            "url": "https://app.oncoursesystems.com/curriculum/12684/4155208/unit/7741466"
+          },
+          {
+            "title": "Great gatsby ap english | TPT",
+            "url": "https://www.teacherspayteachers.com/browse?search=great%20gatsby%20ap%20english"
+          },
+          {
+            "title": "The Great Gatsby Curriculum Guide",
+            "url": "https://appliedpractice.com/product/the-great-gatsby-curriculum-guide/"
+          },
+          {
+            "title": "The great gatsby ap english | TPT",
+            "url": "https://www.teacherspayteachers.com/browse?search=the+great+gatsby+ap+english"
+          },
+          {
+            "title": "Great Gatsby, The - AP Teaching Unit | Prestwick House | Prestwick House",
+            "url": "https://www.prestwickhouse.com/book/id-301714/great_gatsby_the_-_ap_teaching_unit"
+          },
+          {
+            "title": "Curricular Unit Plan, The Great Gatsby \u2013 ROOT AND BLOOM",
+            "url": "https://takerootandbloom.net/curricular-unit-plan-the-great-gatsby/"
+          },
+          {
+            "title": "Teaching The Great Gatsby: Chapters 1-3 - Write on With Miss G",
+            "url": "https://writeonwithmissg.com/2019/06/28/teaching-the-great-gatsby-chapters-1-3/"
+          },
+          {
+            "title": "Great Gatsby, The - Downloadable AP Unit | Prestwick House | Prestwick House",
+            "url": "https://www.prestwickhouse.com/pdf/id-301900/great_gatsby_the_-_downloadable_ap_teaching_unit"
+          }
+        ]
+      },
+      "Let me search for more specific information about college syllabus and teaching methods.",
+      {
+        "tool_use_id": "srvtoolu_011L5gk1ktu1C3X6GpHyZzKn",
+        "content": [
+          {
+            "title": "Teaching The Great Gatsby: Challenging Canonicity",
+            "url": "https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?article=1235&context=honorsprojects"
+          },
+          {
+            "title": "THE GREAT GATSBY Unit: Lessons & Materials - TeachNovels.com",
+            "url": "https://teachnovels.com/great-gatsby-lesson-plans-unit-teaching-guide-grade-novel-study-resources/"
+          },
+          {
+            "title": "How to Teach The Great Gatsby | Albert Literature Resources",
+            "url": "https://www.albert.io/blog/how-to-teach-the-great-gatsby/"
+          },
+          {
+            "title": "Teaching The Great Gatsby: How I Plan My Unit - Write on With Miss G",
+            "url": "https://writeonwithmissg.com/2019/05/29/teaching-the-great-gatsby-how-i-plan-my-unit/"
+          },
+          {
+            "title": "How to Teach The Great Gatsby | Prestwick House",
+            "url": "https://www.prestwickhouse.com/blog/post/2020/12/how-to-teach-the-great-gatsby"
+          },
+          {
+            "title": "Why is 'The Great Gatsby (1925)' still in the reading lists of high schools and colleges in the USA today? - Quora",
+            "url": "https://www.quora.com/Why-is-The-Great-Gatsby-1925-still-in-the-reading-lists-of-high-schools-and-colleges-in-the-USA-today"
+          },
+          {
+            "title": "How To teach a Gatsby Unit Your Students Will Remember | Gil Teach",
+            "url": "https://gilteach.com/2018/07/16/how-to-teach-a-gatsby-unit-your-students-will-remember/"
+          },
+          {
+            "title": "Teaching The Great Gatsby: A Teacher's Guide to Close Reading \u2014 Mud and Ink Teaching",
+            "url": "https://www.mudandinkteaching.org/news/teachinggatsbyclosereadingguide"
+          },
+          {
+            "title": "Why the Great Gatsby Needs to be Read in Schools \u2013 Dons Press",
+            "url": "https://elcidonline.com/columns-2/opinions/2023/03/09/why-the-great-gatsby-needs-to-be-read-in-schools/"
+          },
+          {
+            "title": "Meaningful & Fun Activities for Teaching The Great Gatsby - Building Book Love",
+            "url": "https://buildingbooklove.com/meaningful-fun-activities-for-teaching-the-great-gatsby/"
+          }
+        ]
+      },
+      "Based on my search results, I can provide comprehensive information about teaching \"The Great Gatsby\" in high school and college settings, including curriculum approaches, AP English literature considerations, and teaching methods.\n\n## High School Curriculum\n\nThe Great Gatsby is \"taught in nearly every high school in the country\" and these skills from studying it \"will help students thrive in 11th grade.\"(no content)The novel is typically taught in \"11th grade (likely an Honors course)-post-secondary, depending on audience.\"\n\n### AP English Literature Context\n\nThe Great Gatsby \"should be on the Advanced Placement Curriculum for high school juniors\" and teachers often ask \"Is this novel truly AP Level?\"(no content)Teachers use the novel with \"AP Language juniors\" and design materials \"to get the students ready for AP multiple choice type questions,\" with many resources having \"AP Language students in mind.\"(no content)Teaching materials include prompts \"inspired by AP Literature Q3 open-ended response essay\" with \"Questions are analytical and directly tied to AP and IB analysis strategies\" and \"50 multiple-choice questions based off common AP Literature and ACT question stems.\"\n\n## Teaching Methods and Approaches\n\n### Close Reading Strategies\n\nClose reading strategies are \"invaluable in unlocking the novel's complexities and fostering deeper student engagement\" as it is \"a student-centered, teacher-directed approach that hones analytical skills and cultivates a deeper understanding of complex texts\" which \"fosters substantial growth in students' reading and writing abilities.\"\n\n### Unit Planning and Structure\n\nA comprehensive unit plan \"takes students from pre-reading through the final project with lesson plans addressing characterization, historical context, Modernism, symbolic elements, theme development, point of view, structural effects, and style\" and \"provides a helpful structure for teaching The Great Gatsby.\"\n\n### Key Teaching Focus Areas\n\n1. **Literary Devices**: In AP classes, \"students learn a lot about literary devices and how it affects a piece of literature,\" with Fitzgerald using \"a number of literary devices in The Great Gatsby including metaphors, similes, and imagery.\"\n\n2. **Historical Context**: Teaching includes exploring \"the larger movement of Modernism\" as \"a break with the past and a period of experimentation associated with the period after World War I\" where \"Modernists felt a growing alienation from Victorian morality, optimism, and convention.\"\n\n3. **Thematic Analysis**: The primary theme is \"the Pursuit of the American Dream, particularly during the lavish 1920s\" where students explore how \"Fitzgerald uses Gatsby's devastating rejection to criticize our perception of the American Dream as simply the 'culmination of wealth'.\"\n\n### Innovative Teaching Activities\n\nTeachers help students \"experience the historical context\" by getting \"classes to experience the music, art, and film from the period first hand\" so students will \"recall the time they listened to an old version of 'The Sheik of Araby' in class.\"(no content)Many teachers pair \"The Great Gatsby with The Harlem Renaissance\" to \"sample diverse American Dream voices, create a richer reading experience.\"\n\n### Assessment Methods\n\nTeachers use \"a variety of formal and informal assessments and checkpoints throughout my unit, including bell-ringers, quizzes, group work, an escape room, a blame chart, writing tasks\" with \"a Socratic Seminar\" being \"a great way to empower students.\"(no content)By the end of units, students write book reviews answering whether \"The Great Gatsby truly great?\" which \"allows students to express their personal evaluation of the novel while grounding their argument in literary analysis.\"\n\n## College-Level Approaches\n\nAt the college level, teachers emphasize \"interdisciplinary teaching and learning that weaves together multiple strands of thought and fields of inquiry\" and \"complement our reading of The Great Gatsby with historical events and insights and cultural criticism\" using a \"holistic approach to literature.\"\n\n### Student Engagement Strategies\n\nTo enhance engagement, teachers \"Add diverse voices to the discussion\" by including works like \"'Let America Be America Again' by Langston Hughes\" or \"'We Wear the Mask' by Paul Laurence Dunbar\" to \"help students to come at the essential questions of the novel from multiple viewpoints.\"(no content)\"The Great Gatsby details a fascinating fast-paced story outlining life in the 20s, but it also teaches students about societal standards that are still present today\" where \"Each character represents a common identity that everyone can connect with,\" making it \"an essential novel in high school curriculum.\"\n\nThe search results show that \"The Great Gatsby\" remains a cornerstone text in both high school and college curricula, with teaching methods emphasizing close reading, historical context, thematic analysis, and diverse perspectives to help students engage with this classic American novel."
+    ],
+    "durationSeconds": 62.01821213099989
+  }
+}

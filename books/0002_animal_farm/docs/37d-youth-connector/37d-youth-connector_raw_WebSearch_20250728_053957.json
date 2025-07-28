@@ -1,0 +1,112 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"social media revolution\" \"Arab Spring\" \"Gen Z protests\" Animal Farm revolution betrayal themes youth activism"
+  },
+  "tool_response": {
+    "query": "\"social media revolution\" \"Arab Spring\" \"Gen Z protests\" Animal Farm revolution betrayal themes youth activism",
+    "results": [
+      "I'll search for information about how themes from Animal Farm relate to modern youth activism and social movements.",
+      {
+        "tool_use_id": "srvtoolu_015ZGYDVce36SMPhBvLdBirt",
+        "content": []
+      },
+      {
+        "tool_use_id": "srvtoolu_01NDNx4WKN5vXxMFbfXm1hFB",
+        "content": [
+          {
+            "title": "Social Media and the Arab Spring: Politics Comes First",
+            "url": "https://journals.sagepub.com/doi/pdf/10.1177/1940161212471716"
+          },
+          {
+            "title": "Social Media and the Arab Spring",
+            "url": "https://mals.camden.rutgers.edu/files/Social-Media-and-the-Arab-Spring.pdf"
+          },
+          {
+            "title": "The social media myth about the Arab Spring | Arab Spring: 10 years on | Al Jazeera",
+            "url": "https://www.aljazeera.com/opinions/2021/1/27/the-social-media-myth-about-the-arab-spring"
+          },
+          {
+            "title": "Sourcing the Arab Spring: A Case Study of Andy Carvin's Sources on Twitter during the Tunisian and Egyptian Revolutions* | Journal of Computer-Mediated Communication | Oxford Academic",
+            "url": "https://academic.oup.com/jcmc/article/19/3/479/4067573"
+          },
+          {
+            "title": "New study quantifies use of social media in Arab Spring | UW News",
+            "url": "https://www.washington.edu/news/2011/09/12/new-study-quantifies-use-of-social-media-in-arab-spring/"
+          },
+          {
+            "title": "Social media's role in the Arab Spring - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Social_media's_role_in_the_Arab_Spring"
+          },
+          {
+            "title": "The Arab Spring| Social Media in the Egyptian Revolution: Reconsidering Resource Mobilization Theory | Eltantawy | International Journal of Communication",
+            "url": "https://ijoc.org/index.php/ijoc/article/view/1242"
+          },
+          {
+            "title": "THE ROLE OF SOCIAL MEDIA IN THE ARAB SPRING | Pangaea Journal",
+            "url": "https://sites.stedwards.edu/pangaea/the-role-of-social-media-in-the-arab-spring/"
+          },
+          {
+            "title": "Animal Farm Historical and Social Context - eNotes.com",
+            "url": "https://www.enotes.com/topics/animal-farm/in-depth/historical-social-context"
+          },
+          {
+            "title": "(Social) Media and Politics and the Arab Spring Moment : IEMed",
+            "url": "https://www.iemed.org/publication/social-media-and-politics-and-the-arab-spring-moment/"
+          }
+        ]
+      },
+      {
+        "tool_use_id": "srvtoolu_01CFnRVn8o9MuBdysQ8K5imJ",
+        "content": [
+          {
+            "title": "The Role of Social Media in Transnational Youth Activism \u2022 Eyes on Europe",
+            "url": "https://www.eyes-on-europe.eu/the-role-of-social-media-in-transnational-youth-activism/"
+          },
+          {
+            "title": "Kenya protests: Gen Z shows the power of digital activism - driving change from screens to the streets",
+            "url": "https://theconversation.com/kenya-protests-gen-z-shows-the-power-of-digital-activism-driving-change-from-screens-to-the-streets-233065"
+          },
+          {
+            "title": "Gen Z, Millennials Stand Out for Climate Change Activism, Social Media Engagement With Issue | Pew Research Center",
+            "url": "https://www.pewresearch.org/science/2021/05/26/gen-z-millennials-stand-out-for-climate-change-activism-social-media-engagement-with-issue/"
+          },
+          {
+            "title": "Gen Z are not the future. They are a formidable force in the present - Africa at LSE",
+            "url": "https://blogs.lse.ac.uk/africaatlse/2024/08/14/gen-z-are-not-the-future-they-are-a-formidable-force-in-the-present/"
+          },
+          {
+            "title": "Gen Z\u2019s Next Challenge: Transforming Activism Into Lasting Change | NAACP",
+            "url": "https://naacp.org/articles/gen-zs-next-challenge-transforming-activism-lasting-change"
+          },
+          {
+            "title": "The Gen Z Activism Survey - United Way NCA",
+            "url": "https://unitedwaynca.org/blog/gen-z-activism-survey/"
+          },
+          {
+            "title": "Kenya\u2019s Gen Z protests and the power of digital activism | Democracy in Africa",
+            "url": "https://democracyinafrica.org/kenyas-gen-z-protests-and-the-power-of-digital-activism/"
+          },
+          {
+            "title": "Digital activism in Africa and the Gen Z protests: the youth are leading the way - Hivos",
+            "url": "https://hivos.org/opinion/digital-activism-in-africa-and-the-gen-z-protests-the-youth-are-leading-the-way/"
+          },
+          {
+            "title": "Meet Iran\u2019s Gen Z: the Driving Force Behind the Protests",
+            "url": "https://foreignpolicy.com/2022/11/01/iran-protests-gen-z-mahsa-amini-social-media/"
+          },
+          {
+            "title": "Kenya\u2019s Historic Gen-Z led Protests: The Issues \u2013 ACCORD",
+            "url": "https://www.accord.org.za/analysis/kenyas-historic-gen-z-led-protests-the-issues/"
+          }
+        ]
+      },
+      "Based on my searches, I can provide insights into how themes from George Orwell's Animal Farm relate to modern youth activism, social media revolutions, and movements like the Arab Spring and Gen Z protests.\n\n## The Arab Spring and Social Media's Complex Role\n\nSocial media networks did not trigger the Arab revolutions, but they did contribute to the counter-revolutions. Far from a revolutionary or even a democracy tool, social media in the Arab world has now become a powerful and dangerous political medium. This echoes Animal Farm's themes of revolution being co-opted and betrayed.\n\nSocial scientists have repeatedly busted this myth and have offered critical readings of the role these tech companies have played in the political unrest in Tunisia, Egypt, and other Arab countries. In 2011, Lisa Anderson, who at that time was the president of the American University in Cairo, noted that \"Egyptian Facebook campaigners are the modern incarnation of [early] Arab nationalist networks\", and that the \"important story\" about the Arab Spring is not the use of social media technology, but how revolutionary aspirations resonated across the Arab world. In a 2012 academic article, media scholars William Youmans and Jillian York argued that the policies of social media companies actually limited collective action in some ways and inhibited political activism.(no content)As Ekaterina Stepanova argues in her study concerning the role of information and communications technologies in the Arab Spring, social networks largely contributed to political and social mobilisation, but didn't play a decisive or independent role in it. Instead, social media acted as a catalyst for revolution, as in the case of Egypt, where the existing gap between the ruling elite and the rest of the population, would eventually have resulted in some kind of unrest.\n\n## Animal Farm's Themes of Betrayal and Power Corruption\n\nThe story illustrates how power corrupts and the dangers of propaganda, emphasizing the need for vigilance against tyrannical leaders. It highlights societal issues like hierarchy, unjust laws, and the betrayal of the working class. The story illustrates how power corrupts and the dangers of propaganda, emphasizing the need for vigilance against tyrannical leaders. It highlights societal issues like hierarchy, unjust laws, and the betrayal of the working class. The novella serves as a cautionary tale, reminding readers to question authority and maintain awareness of political manipulation.(no content)The animals attempt to build a new society by overthrowing Farmer Jones, initially experiencing a sense of equality and self-governance. However, this society quickly deteriorates as the pigs, especially Napoleon, seize power, creating a hierarchy that mirrors human oppression. The pigs exploit resources, enforce control through violence, and gradually adopt human behaviors, leading to a totalitarian regime. This mirrors the failures of revolutions like the Russian and French, where new ruling classes replace old ones.\n\n## Gen Z's Revolutionary Approach to Activism\n\nActivism has traditionally been intertwined with youth culture. From May 1968 in France, to the Occupy movement and the Arab Spring, young people have been the propellers of social change. Today, \"Gen Z\", distinguishes itself by communicating, mobilising, and garnering support differently than its predecessors did.(no content)Their political activism is characterised by a blend of online and offline efforts underpinned by strong moral convictions and the value of personal experiences. Gen Z's approach to activism is highly inclusive and intersectional, which enables them to build coalitions across different movements. This amplifies their impact and fosters a holistic approach to social change. They have redefined what it means to be an activist in the modern world.\n\n### Kenya's Gen Z Protests: A Case Study\n\nIndeed, it is hard to imagine how such leaderless and \"bottom-up\" the protests could have happened in the absence of platforms such as Facebook, Twitter, TikTok and WhatsApp. The Gen Z protests in Kenya demonstrate the power of digital activism in mobilizing citizens and effecting change. By combining moral outrage with strategic use of social media, Kenyan youth have shown that they are far from apathetic.(no content)Historically, Kenyan politics has been divided along ethnic and tribal lines, with voting blocs often rallying behind leaders from their communities. The Gen Z movement, however, has broken this mold. Young activists have shifted the focus from ethnic loyalty to broader issues like equality, social justice, and government accountability. Under the \"tribeless, leaderless, party-less\" tagline, the #RejectFinanceBill protests shunned traditional political affiliations and adopted a spontaneous, decentralized model.\n\n## The Parallel with Animal Farm\n\nThe modern youth movements show striking parallels to Animal Farm's themes:\n\n1. **Initial Revolutionary Idealism**: Like the animals' initial hopes for equality, young activists begin with genuine aspirations for democratic change.\n\n2. **Co-option of Technology**: Ten years after the onset of the Arab revolutions, Facebook, Twitter, and Google have turned into powerful enablers of vast disinformation campaigns, harassment, censorship, and incitement of violence against activists, journalists, human rights defenders and any dissenting voice. And despite repeated complaints and calls for action from Arab activists and civil organisations, none of the Big Tech companies behind these social media platforms has made any major efforts to stem these abuses and change their policies.\n\n3. **The Challenge of Sustained Change**: In line with historical experiences elsewhere, the euphoria that accompanied the revolutions of the Arab Spring 2010/11 gradually disappeared, slowly deflating the high expectations. Much academic euphoria has also shifted into a more modest mode.\n\n4. **New Forms of Control**: Just as the pigs in Animal Farm manipulated language and information, modern authoritarian regimes have learned to use the very tools of revolution against activists.\n\nThe enduring relevance of Animal Farm lies in its warning about how revolutionary movements can be betrayed from within and how power structures tend to reproduce themselves even after apparent transformations. Modern youth activists face similar challenges as they work to create lasting change rather than merely replacing one set of rulers with another."
+    ],
+    "durationSeconds": 69.89380011799977
+  }
+}

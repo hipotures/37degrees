@@ -1,0 +1,63 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Wide Sargasso Sea\" Jean Rhys Jane Eyre postcolonial response cultural impact literary influence"
+  },
+  "tool_response": {
+    "query": "\"Wide Sargasso Sea\" Jean Rhys Jane Eyre postcolonial response cultural impact literary influence",
+    "results": [
+      "I'll search for information about \"Wide Sargasso Sea\" by Jean Rhys and its relationship to Jane Eyre as a postcolonial response, along with its cultural impact and literary influence.",
+      {
+        "tool_use_id": "srvtoolu_01Wviixy4Ed9KHi2g4skioDM",
+        "content": [
+          {
+            "title": "Wide Sargasso Sea: Jean Rhys and Wide Sargasso Sea Background | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/sargasso/context/"
+          },
+          {
+            "title": "\"Wide Sargasso Sea\" by Jean Rhys as a postcolonial response to \"Jane Eyre\" by Charlotte Bronte - GRIN | Grin",
+            "url": "https://www.grin.com/document/170690"
+          },
+          {
+            "title": "Wide Sargasso Sea - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Wide_Sargasso_Sea"
+          },
+          {
+            "title": "a Study of Wide Sargasso Sea as a Response to Jane Eyre",
+            "url": "https://digitalcommons.colby.edu/cgi/viewcontent.cgi?article=1283&context=honorstheses"
+          },
+          {
+            "title": "\"Wide Sargasso Sea\" by Jean Rhys as a postcolonial response to \"Jane Eyre\" by Charlotte Bronte: Swietlik, Malgorzata: 9783640896202: Amazon.com: Books",
+            "url": "https://www.amazon.com/Sargasso-postcolonial-response-Charlotte-Bronte/dp/3640896203"
+          },
+          {
+            "title": "Jean Rhys's Wide Sargasso Sea: A Postcolonial Response to Jane Eyre | Algor Cards",
+            "url": "https://cards.algoreducation.com/en/content/3qqu0TZp/wide-sargasso-sea-postcolonial-perspective"
+          },
+          {
+            "title": "Wide Sargasso Sea and Jane Eyre \u2014 LitReaderNotes",
+            "url": "https://www.litreadernotes.com/home/2023/6/9/wide-sargasso-sea-and-jane-eyre"
+          },
+          {
+            "title": "\"Wide Sargasso Sea\" by Jean Rhys as a postcolonial response to \"Jane Eyre\" by Charlotte Bronte by Malgorzata Swietlik | Goodreads",
+            "url": "https://www.goodreads.com/book/show/18940796-wide-sargasso-sea-by-jean-rhys-as-a-postcolonial-response-to-jane-eyr"
+          },
+          {
+            "title": "Identity in Wide Sargasso Sea: Postcolonial and Ecofeminist Perspectives - Free Essay Example - Edubirdie",
+            "url": "https://hub.edubirdie.com/examples/the-postcolonial-and-ecofeminist-lenses-as-the-factors-for-identity-in-wide-sargasso-sea/"
+          },
+          {
+            "title": "Wide Sargasso Sea by Jean Rhys | EBSCO Research Starters",
+            "url": "https://www.ebsco.com/research-starters/literature-and-writing/wide-sargasso-sea-jean-rhys"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about \"Wide Sargasso Sea\" by Jean Rhys as a postcolonial response to \"Jane Eyre\" and its cultural impact and literary influence.\n\n## Overview\n\n\"Wide Sargasso Sea\" is a 1966 historical novel by Dominican-British author Jean Rhys that serves as a postcolonial and feminist prequel to Charlotte Bront\u00eb's novel Jane Eyre (1847), describing the background to Mr. Rochester's marriage from the point of view of his wife Antoinette Cosway, a Creole heiress.\n\n## As a Postcolonial Response\n\nAs a postcolonial work, the novel indicts England's exploitative colonial empire, aligning its sympathies with the plight of the Black Caribbeans.(no content)Wide Sargasso Sea is one of the best-known literary postcolonial replies to the writing of Charlotte Bronte and a brilliant deconstruction of what is known as the author's \"worlding\" in Jane Eyre.(no content)When Rhys read Charlotte Bront\u00eb's Jane Eyre as a young girl, she began to imagine the Caribbean upbringing of the character Rochester's infamous Creole wife, Bertha Mason. Years later, Rhys recalled, \"I thought I'd try to write her a life.\" The result is one of literature's most famous prequels, a novel that seeks to humanize the racially pejorative characterization of a West Indian madwoman.(no content)Since the late 20th century, critics have considered Wide Sargasso Sea as a postcolonial response to Jane Eyre. Rhys makes a postcolonial argument when she ties Antoinette's husband's eventual rejection of Antoinette to her Creole heritage (a rejection shown to be critical to Antoinette's descent into madness).\n\n## Literary Techniques and Innovation\n\nIf Rhys's novel breaks thematic conventions by foregrounding the story of Antoinette / Bertha, it also innovates stylistically, adopting narrative, temporal, and aesthetic schemes that reflect a cultural and racial pluralism. The tripartite structure of the novel, with its shifts in narrative voice and jumps through time and space, affords the book a complex, porous surface that differs markedly from the linear progression found in its nineteenth-century counterpart.(no content)Rhys uses multiple voices (Antoinette's, her husband's, and Grace Poole's) to tell the story, and intertwines her novel's plot with that of Jane Eyre.\n\n## Cultural Impact and Recognition\n\nWide Sargasso Sea won the WH Smith Literary Award in 1967, which brought Rhys to public attention after decades of obscurity. It was named by Time as one of the '100 best English-language novels since 1923' and rated number 94 on the list of Modern Library's 100 Best Novels.(no content)On 5 November 2019, BBC News listed Wide Sargasso Sea on its list of the 100 most influential novels.(no content)Rhys lived in obscurity after her previous work, Good Morning, Midnight, was published in 1939. Wide Sargasso Sea caused a revival of interest in Rhys and her work and was her most commercially successful novel.\n\n## Literary Influence and Critical Reception\n\nWide Sargasso Sea has generated heated debate among literary critics, resisting easy categorization within the context of twentieth-century fiction. For this reason, the character is a touchstone for feminist theorists. That Wide Sargasso Sea is a rewriting of Jane Eyre\u2014a text long upheld as a triumph of feminist liberalism\u2014complicates the feminist debate.(no content)Championed by postcolonial, feminist, and modernist critics alike, Wide Sargasso Sea struggles against dominant tr[aditions].(no content)While Rhys did not consider herself to be a feminist, the novel is considered a feminist work in its exploration of gender politics and dynamics. Rhys expands on Bront\u00eb's portrayal of Antoinette as the \"mad woman in the attic\" and provides her with a more complex story and individuality beyond her association with Rochester.\n\n## Themes and Analysis\n\nWide Sargasso Sea explores the power of relationships between men and women and discusses the themes of race, Caribbean history, and assimilation as Antoinette is caught in a white, patriarchal society in which she fully belongs neither to Europe nor to Jamaica.(no content)Wide Sargasso Sea influences the common reading and understanding of the matrix novel, as it rewrites crucial parts of Jane Eyre. The heroine in Jean Rhys's Wide Sargasso Sea, Antoinette Cosway, is created out of demonic and bestialic Bertha Mason from Jane Eyre. Rhys's great achievement in her re-writing of the Bronte's text is her creation of a double to the madwoman from Jane Eyre.(no content)The novel provides a voice to a character who is marginalized and silenced in Bront\u00eb's work, offering a critical examination of the destructive impact of European colonialism and patriarchal power structures.(no content)Rather, it unpacks some of the problematic colonialism at the heart of Mr. Rochester's story in Jane Eyre. Wide Sargasso Sea highlights trauma and generational suffering, as well as the intricacy of identity and belonging in the multifaceted culture of the colonial West Indies. Out of the fissures in Jane Eyre comes a postcolonial, feminist novel that will leave readers rethinking, perhaps, their thoughts on Jane's beloved Rochester and the complex cultures present in colonial Caribbean islands.\n\nThe novel's enduring influence lies in its successful challenge to the canonical text of \"Jane Eyre,\" offering a counter-narrative that humanizes a marginalized character while critiquing colonialism, racism, and patriarchy. Its innovative narrative structure and postcolonial perspective have made it a cornerstone text in postcolonial and feminist literary studies."
+    ],
+    "durationSeconds": 59.16669343500002
+  }
+}

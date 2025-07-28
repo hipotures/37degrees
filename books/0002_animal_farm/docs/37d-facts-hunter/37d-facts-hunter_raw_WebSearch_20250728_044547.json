@@ -1,0 +1,63 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Animal Farm\" George Orwell sales figures copies sold impact statistics translations"
+  },
+  "tool_response": {
+    "query": "\"Animal Farm\" George Orwell sales figures copies sold impact statistics translations",
+    "results": [
+      "I'll search for information about Animal Farm's sales figures, copies sold, impact statistics, and translations.",
+      {
+        "tool_use_id": "srvtoolu_01CPDhuCxAGZbF8vaBQzPdX3",
+        "content": [
+          {
+            "title": "George Orwell Statistics \u2013 WordsRated",
+            "url": "https://wordsrated.com/george-orwell-statistics/"
+          },
+          {
+            "title": "Animal Farm - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Animal_Farm"
+          },
+          {
+            "title": "Animal Farm: George Orwell Biography 2 | CliffsNotes",
+            "url": "https://www.cliffsnotes.com/literature/a/animal-farm/george-orwell-biography-2"
+          },
+          {
+            "title": "Orwell's ideas remain relevant 75 years after 'Animal Farm' was published",
+            "url": "https://clas.wayne.edu/news/orwells-ideas-remain-relevant-75-years-after-animal-farm-was-published-56300"
+          },
+          {
+            "title": "Animal Farm by George Orwell | Summary, Impact & Publication - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/animal-farm-publisher-struggles.html"
+          },
+          {
+            "title": "Some Interpretations are More Equal Than Others: Misinterpreting George Orwell\u2019s Animal Farm \u2013 PIT Journal",
+            "url": "https://pitjournal.unc.edu/2023/01/05/some-interpretations-are-more-equal-than-others-misinterpreting-george-orwells-animal-farm/"
+          },
+          {
+            "title": "George Orwell - Animal Farm, 1984, Author | Britannica",
+            "url": "https://www.britannica.com/biography/George-Orwell/Animal-Farm-and-Nineteen-Eighty-four"
+          },
+          {
+            "title": "Orwell\u2019s ideas remain relevant 75 years after \"Animal Farm\" was published | Salon.com",
+            "url": "https://www.salon.com/2021/08/28/orwells-ideas-remain-relevant-75-years-after-animal-farm-was-published_partner/"
+          },
+          {
+            "title": "Animal Farm by George Orwell",
+            "url": "https://www.biblio.com/animal-farm-by-orwell-george/work/3687"
+          },
+          {
+            "title": "Animal Farm | Encyclopedia.com",
+            "url": "https://www.encyclopedia.com/arts/educational-magazines/animal-farm"
+          }
+        ]
+      },
+      "Based on the search results, here's a comprehensive overview of Animal Farm's sales figures, impact, and translations:\n\n## Sales Figures and Copies Sold\n\nLatest figures suggest Animal Farm has now sold over 11 million copies worldwide. When it was first published, Animal Farm sold 250,000 copies when it was published in 1945. \n\nThe book was an immediate commercial success. It was a huge success, with over a half-million copies sold in its first year. More specifically, the first edition sold out in a month, nine foreign editions had appeared by the next year, and the American Book-of-the-Month Club edition sold more than a half-million copies.\n\nTogether with Nineteen Eighty-Four, George Orwell is estimated to have sold in excess of 41 million copies from just two novels, Nineteen Eighty-Four and Animal Farm.\n\n## Impact and Recognition\n\nAnimal Farm has had an extraordinary cultural impact:\n\n- Time magazine chose Animal Farm as one of the 100 best English-language novels (1923 to 2005); it also featured at number 31 on the Modern Library List of Best 20th-Century Novels.\n- It won a Retrospective Hugo Award in 1996 and is included in the Great Books of the Western World selection.\n- Popular reading in schools, Animal Farm was ranked the UK's favourite book from school in a 2016 poll.\n- Animal Farm has never been out of print since it was first published and continues to sell well year after year.\n\nThe book has maintained contemporary relevance, with Sales of \"Animal Farm\" and \"Nineteen Eighty-Four\" jumped in 2013 after the whistleblower Edward Snowden leaked confidential National Security Agency documents. And \"Nineteen Eighty-Four\" rose to the top of Amazon's best-sellers list after Donald Trump's Presidential Inauguration in 2017.\n\n## Translations and International Distribution\n\nThe book has been extensively translated and distributed worldwide:\n\n- American publishers dropped the subtitle when it was published in 1946, and only one of the translations, during Orwell's lifetime, the Telugu version, kept it.\n- A translation in Ukrainian, which was produced in Germany, was confiscated in large part by the American wartime authorities and handed over to the Soviet repatriation commission.\n- According to Rubin, the CIA smuggled the novel into the Soviet Union and provided funding to translate the book into a host of languages including Farsi, Telugu, Malaysian, Greek, Vietnamese, and Arabic.\n- The Information Research Department, a secret Cold War propaganda agency of the British government, translated the book into various languages such as Arabic.\n\n## Cold War Propaganda Use\n\nThe book was notably used as propaganda during the Cold War:\n\n- Between 1952 and 1957, the CIA, in an operation codenamed Aedinosaur, sent millions of balloons carrying copies of the novel into Poland, Hungary, and Czechoslovakia, whose air forces tried to shoot the balloons down.\n- CIA operative Everette Howard Hunt obtained the film rights to the book. Using copies of the book and a film adaption that simplified and intensified the anti-communist message, western intelligence agencies turned Orwell's story into a kind of war propaganda and disseminated it both in the west and abroad.\n\nAnimal Farm's impact extends far beyond its initial publication, becoming a cultural touchstone that continues to be relevant in political discourse and education worldwide, with millions of copies sold and translations in numerous languages."
+    ],
+    "durationSeconds": 37.48378650300001
+  }
+}

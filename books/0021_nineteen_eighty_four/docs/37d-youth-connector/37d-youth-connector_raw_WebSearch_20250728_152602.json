@@ -1,0 +1,118 @@
+{
+  "session_id": "b8c17c71-efc6-4c19-9b68-e101c36de9c9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b8c17c71-efc6-4c19-9b68-e101c36de9c9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "1984 audiobook YouTube summaries speed reading tips teenagers \"10 minute summary\" study hacks"
+  },
+  "tool_response": {
+    "query": "1984 audiobook YouTube summaries speed reading tips teenagers \"10 minute summary\" study hacks",
+    "results": [
+      "I'll search for information about 1984 audiobook summaries, speed reading tips for teenagers, and study hacks related to quick summaries on YouTube.",
+      {
+        "tool_use_id": "srvtoolu_01NCpipaH3GdazfkovVuwsoT",
+        "content": []
+      },
+      {
+        "tool_use_id": "srvtoolu_01GH3mCy3BfDwX9AEbk6Qsb2",
+        "content": []
+      },
+      "I apologize for the technical issue. Let me try a more focused search:",
+      {
+        "tool_use_id": "srvtoolu_014Bo7tmmvt7aptoAedBcxcJ",
+        "content": [
+          {
+            "title": "1984 Book One: Chapter I Summary & Analysis | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/1984/section1/"
+          },
+          {
+            "title": "Nineteen Eighty-Four - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four"
+          },
+          {
+            "title": "George Orwell\u2019s 1984 Audiobook by George Orwell, Joe White - adaptation",
+            "url": "https://www.audible.com/pd/George-Orwells-1984-Audiobook/B0CRRP4WW7"
+          },
+          {
+            "title": "1984 or Nineteen Eighty-Four, audiobook",
+            "url": "https://www.spreaker.com/podcast/1984-or-nineteen-eighty-four-audiobook--5744607"
+          },
+          {
+            "title": "1984 by George Orwell (Full Audiobook) : All Intellect : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/youtube-gwqmT1D-MbU"
+          },
+          {
+            "title": "George Orwell - 1984 - Part 1, Chapter 1",
+            "url": "https://www.george-orwell.org/1984/0.html"
+          },
+          {
+            "title": "Orwell-1949 1984.pdf",
+            "url": "https://rauterberg.employee.id.tue.nl/lecturenotes/DDM110%20CAS/Orwell-1949%201984.pdf"
+          },
+          {
+            "title": "1984: Study Guide | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/1984/"
+          },
+          {
+            "title": "1984: 2 Audiobook Files - Learning through the Looking Glass",
+            "url": "https://sites.google.com/a/davisonschools.org/belprezonline/english-12/george-orwells-1984/1984-audiobook-files?pli=1"
+          },
+          {
+            "title": "Study Guide: 1984 by George Orwell Audiobook by SuperSummary",
+            "url": "https://www.audible.com/pd/Study-Guide-1984-by-George-Orwell-Audiobook/B08R7QGNH3"
+          }
+        ]
+      },
+      "Let me search for more specific information about speed reading tips and study hacks for teenagers:",
+      {
+        "tool_use_id": "srvtoolu_015z5d6YZWkqddkrcT7epxtv",
+        "content": [
+          {
+            "title": "10 Days to Faster Reading Summary of Key Ideas and Review | The Princeton Language Institute and Abby Marks Beale - Blinkist",
+            "url": "https://www.blinkist.com/en/books/10-days-to-faster-reading-en"
+          },
+          {
+            "title": "Read A Book In 1 Hour. Speed Reading: Learn to Read a 200+\u2026 | by James Ebringer | Medium",
+            "url": "https://jamesebringer.medium.com/read-a-book-in-1-hour-faa4b91352e0"
+          },
+          {
+            "title": "10 Days to Faster Reading Summary and Analysis",
+            "url": "https://www.getstoryshots.com/books/10-days-to-faster-reading-summary/"
+          },
+          {
+            "title": "10 Days to Faster Reading (Abby Marks-Beale) | Book Summary",
+            "url": "https://fourminutebooks.com/10-days-to-faster-reading-summary/"
+          },
+          {
+            "title": "Speed Reading: Learn to Read a 200+ Page Book in 1 Hour by Kam Knight, Paperback | Barnes & Noble\u00ae",
+            "url": "https://www.barnesandnoble.com/w/speed-reading-kam-knight/1138668495"
+          },
+          {
+            "title": "Scientific Speed Reading: How to Read 300% Faster in 20 Minutes | by Tim Ferriss | Medium",
+            "url": "https://medium.com/@timferriss/scientific-speed-reading-how-to-read-300-faster-in-20-minutes-55f36e4c2cbd"
+          },
+          {
+            "title": "How You can Learn to Read Faster in Just 10 Minutes \u2014 Hugh Culver - Author, Speaker, Coach",
+            "url": "https://www.hughculver.com/blog/how-you-can-learn-to-read-faster-in-just-10-minutes"
+          },
+          {
+            "title": "Speed Reading: Learn to Read a 200+ Page Book in 1 Hour: Knight, Kam: 9781090264473: Amazon.com: Books",
+            "url": "https://www.amazon.com/Speed-Reading-Learn-Read-Page/dp/109026447X"
+          },
+          {
+            "title": "Speed Reading Summary of Key Ideas and Review | Kam Knight - Blinkist",
+            "url": "https://www.blinkist.com/en/books/speed-reading-en"
+          },
+          {
+            "title": "How to Speed Read. Double your reading speed in 5 minutes | by Justin Kerby | Medium",
+            "url": "https://justinkerby.medium.com/how-to-speed-read-f609a4946e5c"
+          }
+        ]
+      },
+      "Based on my search results, I found comprehensive information about 1984 audiobook resources, speed reading techniques, and study tips for teenagers. Here's what I discovered:\n\n## 1984 Audiobook Resources\n\nThe most notable recent audiobook adaptation of 1984 features an all-star cast including Andrew Garfield, Cynthia Erivo, Andrew Scott, and Tom Hardy, with an original score by Muse's Matthew Bellamy and Ilan Eshkeri, recorded at Abbey Road Studios. This production is available on Audible.\n\nThere are also free audiobook versions available on Internet Archive, including a full audiobook with chapters clearly marked. Another version narrated by Anna Butterworth is available on Spreaker in an easy-to-listen-to style.\n\n## Study Resources for 1984\n\nSparkNotes offers comprehensive study guides with chapter summaries and explanations of famous quotes. SuperSummary provides audio study guides that include detailed chapter summaries and analysis of symbols, motifs, and themes such as surveillance and totalitarianism.\n\nThe novel's main goals are to depict frightening totalitarian control techniques and illustrate the extent of government control, following protagonist Winston Smith who has developed ideas of rebellion and freedom.\n\n## Speed Reading Tips for Teenagers\n\n10 Days to Faster Reading sets out to help readers get through their must-read pile of books. Key techniques include:\n\n1. **Preview First**: Preview all nonfiction material before reading - summaries give you an idea of what the book is about. Previewing can give you up to 40% of the information.\n\n2. **Eliminate Subvocalization**: The brain can process approximately 400 words per minute, but subvocalizing limits us to talking speed of about 150 words per minute. When we speak, it's really slow (approximately 200 words per minute), but eliminating subvocalization allows faster reading.\n\n3. **Use Visual Techniques**: Space reading directs you to look at the spaces between words rather than the words themselves. Using a pen as a tracker to underline each line helps guide fixation efficiency and eliminate regression.\n\n4. **Expand Peripheral Vision**: Strengthen peripheral vision by drawing two vertical lines down a page and keeping your eye focus within them to reduce scanning.\n\n## 10-Minute Summary Study Hacks\n\nSpeed reading techniques can double to triple reading speed with simple shifts - no skimming or scanning, but reading every word with higher speed. Students can double to triple reading speed in minutes while understanding and processing more information in shorter time.\n\nThe average person reads at 200-250 words per minute, but with practice can double speed while maintaining 75% comprehension. To reach target speeds, practice at 3x your ultimate goal - if targeting 900 wpm, practice at 1,800 wpm.\n\nFor quick studying:\n- Read the table of contents first for flow, then for each chapter read the first paragraph, sub-heads, and last paragraph\n- Have a clear purpose by asking \"Why am I reading this?\" and \"Why do I need this information?\"\n- Approaching reading with a specific goal activates your brain's goal-seeking mechanism, sharpening focus and enhancing comprehension\n\nThese techniques are particularly useful for teenagers studying literature like 1984, allowing them to quickly grasp key themes while improving overall reading efficiency."
+    ],
+    "durationSeconds": 57.554648765000046
+  }
+}

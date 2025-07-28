@@ -1,0 +1,101 @@
+{
+  "session_id": "e18f7f1c-5883-41e4-8ef9-15aee4aa266b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e18f7f1c-5883-41e4-8ef9-15aee4aa266b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Wielki Gatsby\" Teatr Polskiego Radia s\u0142uchowisko adaptacja radiowa"
+  },
+  "tool_response": {
+    "query": "\"Wielki Gatsby\" Teatr Polskiego Radia s\u0142uchowisko adaptacja radiowa",
+    "results": [
+      "I'll search for information about \"Wielki Gatsby\" (The Great Gatsby) radio drama adaptation by Teatr Polskiego Radia.",
+      {
+        "tool_use_id": "srvtoolu_01CgLRYDC5ZXo8AKSiJMzrUR",
+        "content": [
+          {
+            "title": "Wielki Gatsby - Ma\u0142opolski Ogr\u00f3d Sztuki | e-teatr.pl",
+            "url": "https://e-teatr.pl/wielki-gatsby-s28885"
+          },
+          {
+            "title": "Wielki Gatsby - Teatr Polski im. Hieronima Konieczki | e-teatr.pl",
+            "url": "https://e-teatr.pl/wielki-gatsby-r4866"
+          },
+          {
+            "title": "Teatr w Krakowie im. J. S\u0142owackiego - Wielki Gatsby",
+            "url": "https://teatrwkrakowie.pl/spektakl/wielki-gatsby"
+          },
+          {
+            "title": "Wielki Gatsby | e-teatr.pl",
+            "url": "https://e-teatr.pl/wielki-gatsby-51264"
+          },
+          {
+            "title": "\u201eWielki Gatsby\u201d na scenie MOS Teatru im. S\u0142owackiego",
+            "url": "https://www.radiokrakow.pl/aktualnosci/krakow/wielki-gatsby-na-scenie-mos-teatru-im-slowackiego"
+          },
+          {
+            "title": "Wielki Gatsby w Teatrze im. J. S\u0142owackiego w Krakowie | Radio1.7 - najlepsze studenckie radio w Krakowie",
+            "url": "https://radio17.pl/news/wielki-gatsby-w-teatrze-im-j-slowackiego-w-krakowie"
+          },
+          {
+            "title": "Wielki Gatsby - Karnet Krak\u00f3w",
+            "url": "https://karnet.krakowculture.pl/53358-krakow-wielki-gatsby"
+          },
+          {
+            "title": "Wielka mi\u0142o\u015b\u0107 i wielkie rozczarowanie, a w tle jazz. \"Wielki Gatsby\" na scenie Teatru S\u0142owackiego | Gazeta Krakowska",
+            "url": "https://gazetakrakowska.pl/wielka-milosc-i-wielkie-rozczarowanie-a-w-tle-jazz-wielki-gatsby-na-scenie-teatru-slowackiego/ar/c13-18462179"
+          }
+        ]
+      },
+      "Based on the search results, I found information about theatrical adaptations of \"The Great Gatsby\" in Polish theaters, but I didn't find specific information about a radio drama adaptation by Teatr Polskiego Radia. Let me search more specifically for this radio adaptation.",
+      {
+        "tool_use_id": "srvtoolu_01LjXu5vqrjN6fPvvHs6PBV4",
+        "content": [
+          {
+            "title": "Strona g\u0142\u00f3wna - Teatr Polskiego Radia",
+            "url": "https://www.polskieradio.pl/357,teatr-polskiego-radia"
+          },
+          {
+            "title": "S\u0142uchowiska - Teatr",
+            "url": "https://www.polskieradio.pl/17,teatr/81,sluchowiska"
+          },
+          {
+            "title": "Teatr w Krakowie im. J. S\u0142owackiego - Wielki Gatsby",
+            "url": "https://teatrwkrakowie.pl/spektakl/wielki-gatsby"
+          },
+          {
+            "title": "Teatr Polskiego Radia | e-teatr.pl",
+            "url": "https://e-teatr.pl/teatr-polskiego-radia-t1142"
+          },
+          {
+            "title": "Teatr Polskiego Radia: Komedia - podcast Polskiego Radia",
+            "url": "https://podcasty.polskieradio.pl/podcast/teatr-polskiego-radia-komedia,470"
+          },
+          {
+            "title": "\"Kaprysy \u0141azarza\". S\u0142uchowisko Stanis\u0142awa Grochowiaka w adaptacji i re\u017cyserii Janusza Zaorskiego - Teatr Polskiego Radia",
+            "url": "https://www.polskieradio.pl/357/6991/Artykul/1837407,kaprysy-lazarza-sluchowisko-stanislawa-grochowiaka-w-adaptacji-i-rezyserii-janusza-zaorskiego"
+          },
+          {
+            "title": "Teatr Polskiego Radia \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Teatr_Polskiego_Radia"
+          },
+          {
+            "title": "S\u0142uchowisko \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/S%C5%82uchowisko"
+          },
+          {
+            "title": "S\u0142uchowiska radiowe",
+            "url": "http://www.sluchowiska.ugu.pl/index.php?c=aktorzy&id=120"
+          },
+          {
+            "title": "Wielki Gatsby - Teatr Polski im. Hieronima Konieczki | e-teatr.pl",
+            "url": "https://e-teatr.pl/wielki-gatsby-r4866"
+          }
+        ]
+      },
+      "I haven't found specific information about a radio drama adaptation of \"The Great Gatsby\" (Wielki Gatsby) by Teatr Polskiego Radia in the search results. The results show:\n\n1. Multiple references to a theatrical stage production of \"Wielki Gatsby\" directed by Jakub Roszkowski at Teatr im. Juliusza S\u0142owackiego in Krak\u00f3w, which premiered on April 20, 2024.\n\n2. General information about Teatr Polskiego Radia (Polish Radio Theatre) and its main website, but no specific mention of a \"Wielki Gatsby\" radio adaptation.\n\n3. Information about the history of Teatr Polskiego Radia, which has been producing radio dramas since November 29, 1925, when they premiered their first radio drama \"Warszawianka\" by Stanis\u0142aw Wyspia\u0144ski.\n\nThe search results primarily discuss the stage production in Krak\u00f3w rather than a radio drama adaptation. While Teatr Polskiego Radia is an active institution that produces radio dramas (s\u0142uchowiska), I could not find specific information about their adaptation of \"The Great Gatsby\" in these search results."
+    ],
+    "durationSeconds": 25.321779533999973
+  }
+}

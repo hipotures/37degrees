@@ -1,0 +1,63 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Animal Farm CIA 1954 animated film funding verification Halas Batchelor production"
+  },
+  "tool_response": {
+    "query": "Animal Farm CIA 1954 animated film funding verification Halas Batchelor production",
+    "results": [
+      "I'll search for information about the CIA's funding of the 1954 animated film adaptation of Animal Farm produced by Halas and Batchelor.",
+      {
+        "tool_use_id": "srvtoolu_011yeY1cv3WbFNenF5QHywoi",
+        "content": [
+          {
+            "title": "Animal Farm (1954 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Animal_Farm_(1954_film)"
+          },
+          {
+            "title": "Squealers & Spies: Cocktails, Galas & Secrets of the CIA-Backed Film Animal Farm",
+            "url": "https://spyscape.com/article/squealers-spies-behind-the-scenes-of-the-cia-backed-movie-animal-farm"
+          },
+          {
+            "title": "Orwell Subverted: The CIA and the Filming of Animal Farm By Daniel J. Leab",
+            "url": "https://www.psupress.org/books/titles/978-0-271-02978-8.html"
+          },
+          {
+            "title": "Animal Farm (1954 film) (The Democrat Reagan) | Alternative History | Fandom",
+            "url": "https://althistory.fandom.com/wiki/Animal_Farm_(1954_film)_(The_Democrat_Reagan)"
+          },
+          {
+            "title": "Classic Film Review: 1954\u2019s CIA-backed \u201cAnimal Farm\u201d | Movie Nation",
+            "url": "https://rogersmovienation.com/2020/06/27/classic-film-review-animal-farm/"
+          },
+          {
+            "title": "Animal Farm (1954 film) | JH Movie Collection Wiki | Fandom",
+            "url": "https://jhmoviecollection.fandom.com/wiki/Animal_Farm_(1954_film)"
+          },
+          {
+            "title": "First Thoughts on Animal Farm (1954) \u2013 Feeling Animated",
+            "url": "https://feelinganimatedblog.wordpress.com/2020/06/28/first-thoughts-on-animal-farm-1954/"
+          },
+          {
+            "title": "How The CIA Tricked Orwell and Produced The Animated Film of Animal Farm, 1955 - Flashbak",
+            "url": "https://flashbak.com/how-the-cia-tricked-orwell-and-produced-the-animated-film-of-animal-farm-1955-464631/"
+          },
+          {
+            "title": "Animal Farm (1954) production documents | Spy Culture",
+            "url": "https://www.spyculture.com/animal-farm-1954-production-documents/"
+          },
+          {
+            "title": "The 'Animal Farm' adaptation that was funded by the CIA",
+            "url": "https://faroutmagazine.co.uk/the-animal-farm-adaptation-that-was-funded-by-the-cia/"
+          }
+        ]
+      },
+      "Based on the search results, I can confirm that the CIA did fund the 1954 animated film adaptation of Animal Farm produced by Halas and Batchelor. Here are the key verified facts:\n\n## CIA Funding Confirmed\n\nThe 1954 animated film Animal Farm was directed and produced by John Halas and Joy Batchelor and funded in part by the Central Intelligence Agency (CIA), who also made changes to the original script.(no content)The rights for a film adaptation were purchased from Orwell's widow Sonia after she was approached by agents working for the Office of Policy Coordination, a branch of the CIA that dealt with the use of culture to combat communism.\n\n## Production Details\n\nHalas and Batchelor were awarded the contract to produce the feature in November 1951, and it was completed in April 1954.(no content)The project employed a staff of around eighty animators.\n\n## Key Points About CIA Involvement\n\n1. **Secrecy**: Despite their background, Halas, Batchellor and the animation crew were kept unaware that the film had been initiated and funded by the CIA.(no content)They knew they were working for the US government during the making of Animal Farm but didn't know the CIA was involved until the 1960s or even later.\n\n2. **Script Changes**: During production, De Rochemont, acting on behalf of the CIA, had the film rewritten from the original novel's plot by Philip Strapp and Lothar Wolf to end with the other animals successfully revolting against the pigs.\n\n3. **Producer**: The 1954 animated version of Animal Farm was financed by the CIA via Hollywood producer Louis De Rochemont.\n\n4. **Discovery**: Four decades after the release of Animal Farm, Cold War historian Tony Shaw discovered, through looking at archives of the film, that the CIA, who secretly purchased the rights to the film, altered the ending of the film so that the pigs, who represent communists, were overthrown by the other animals on the farm.\n\n## Cultural Context\n\nThe CIA also distrusted American animators and illustrators due to the Red Scare and the Hollywood blacklist. This explains why they chose British animators Halas and Batchelor for the project.\n\nThe verification is well-documented through multiple sources, including academic works such as Daniel Leab's book \"Orwell Subverted: The CIA and the Filming of Animal Farm,\" which provides an authoritative and well-documented account of the CIA's powerful influence on the film."
+    ],
+    "durationSeconds": 26.503162361999973
+  }
+}

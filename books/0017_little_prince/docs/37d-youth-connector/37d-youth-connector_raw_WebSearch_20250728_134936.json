@@ -1,0 +1,63 @@
+{
+  "session_id": "bb5bd92f-2e06-46b2-9b84-f65c0578b080",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/bb5bd92f-2e06-46b2-9b84-f65c0578b080.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Ma\u0142y Ksi\u0105\u017c\u0119\" study guide Polish students exam questions essays secondary school"
+  },
+  "tool_response": {
+    "query": "\"Ma\u0142y Ksi\u0105\u017c\u0119\" study guide Polish students exam questions essays secondary school",
+    "results": [
+      "I'll search for study guides, exam questions, and essays about \"Ma\u0142y Ksi\u0105\u017c\u0119\" (The Little Prince) for Polish secondary school students.",
+      {
+        "tool_use_id": "srvtoolu_01AvgcP4n6kaJQtECF9pe4FG",
+        "content": [
+          {
+            "title": "\"Ma\u0142y Ksi\u0105\u017c\u0119\" - quiz z j\u0119zyka polskiego dla klasy si\u00f3dmej szko\u0142y podstawowej",
+            "url": "https://www.eduelo.pl/quizy/poziom-vii/jezyk-polski/lektury/maly-ksiaze/"
+          },
+          {
+            "title": "Ma\u0142y Ksi\u0105\u017c\u0119 \u2013 test",
+            "url": "https://aniakubica.com/lektury/maly-ksiaze/maly-ksiaze-test/"
+          },
+          {
+            "title": "Test: Ma\u0142y ksi\u0105\u017c\u0119 - test znajomo\u015bci lektury / Memorizer",
+            "url": "https://www.memorizer.pl/test/13887/maly-ksiaze/"
+          },
+          {
+            "title": "Test z Lektury \"Ma\u0142y Ksi\u0105\u017c\u0119\" - Poziom Trudny",
+            "url": "https://www.quizme.pl/q/lektury-szkolne/test-z-lektury-maly-ksiaze"
+          },
+          {
+            "title": "Zadanie 1 / Powt\u00f3rka z polskiego - Ma\u0142y Ksi\u0105\u017c\u0119 Antoine\u2019a de Saint-Exup\u00e9ry\u2019ego oraz Ma\u0142y Ksi\u0105\u017c\u0119 odnaleziony Jean-Pierre\u2019a Davidtsa - Zadania i testy z j\u0119zyka polskiego na egzamin \u00f3smoklasisty - J\u0119zyk polski - egzamin online, testy i zadania z rozwi\u0105zaniami - dlaucznia.info",
+            "url": "https://testy.dlaucznia.info/s/5026/81093-jezyk-polski-zadania/4990408-Powtorka-z-polskiego-Maly-Ksiaze-Antoinea-de-Saint-Exuperyego-oraz-Maly-Ksiaze-odnaleziony-Jean.htm"
+          },
+          {
+            "title": "Ma\u0142y Ksi\u0105\u017c\u0119 - Trudny Test z Odpowiedziami PDF i WSIP (J\u0119zyk polski) jako PDF - Knowunity",
+            "url": "https://knowunity.pl/knows/jzyk-polski-may-ksi-antoine-de-saint-exupery-642ab112-15ab-4969-bdfc-10f4490e159c"
+          },
+          {
+            "title": "\"Ma\u0142y Ksi\u0105\u017c\u0119\" - Test z Lektury",
+            "url": "https://www.quizme.pl/q/lektury-szkolne/maly-ksiaze-test"
+          },
+          {
+            "title": "Quiz / test z lektury Ma\u0142y Ksi\u0105\u017c\u0119 dla uczni\u00f3w klasy 7 i 8",
+            "url": "https://eduzabawy.com/cwiczenia-online/jezyk_polski/lektury-obowiazkowe-7-8/maly-ksiaze/"
+          },
+          {
+            "title": "Sp37",
+            "url": "https://sp37.info.pl/wp-content/uploads/2020/03/test_KSI\u0104\u017b\u0118.pdf"
+          },
+          {
+            "title": "Test z lektury \"Ma\u0142y Ksi\u0105\u017c\u0119\": PDF do druku dla uczni\u00f3w, nauczycieli",
+            "url": "https://eduzabawy.com/testy/jpolski/test-z-lektury-maly-ksiaze/"
+          }
+        ]
+      },
+      "Based on my search results, I found several valuable resources for Polish secondary school students studying \"Ma\u0142y Ksi\u0105\u017c\u0119\" (The Little Prince). Here's what I discovered:\n\n## Study Resources for \"Ma\u0142y Ksi\u0105\u017c\u0119\"\n\n### Online Quizzes and Tests\n\nQuiz z j\u0119zyka polskiego dla klasy si\u00f3dmej szko\u0142y podstawowej z tematu \"Lektury\" - \"Ma\u0142y Ksi\u0105\u017c\u0119\" is available on Eduelo.pl, which zawiera kilkadziesi\u0105t tysi\u0119cy zada\u0144 i film\u00f3w edukacyjnych dla uczni\u00f3w szk\u00f3\u0142 podstawowych.\n\nSeveral websites offer comprehensive tests:\n- Test z lektury Ma\u0142y Ksi\u0105\u017c\u0119 autorstwa Antoine de Saint-Exupery on Memorizer.pl\n- Antoine de Saint-Exup\u00e9ry, \"Ma\u0142y Ksi\u0105\u017c\u0119\" - test z lektury na poziomie trudnym, w kt\u00f3rym pojawi\u0105 si\u0119 pytania m.in. o: - Ile kolc\u00f3w mia\u0142a r\u00f3\u017ca do obrony przed \u015bwiatem? - Ile trwa dzie\u0144 na planecie Latarnika? - Do czego r\u00f3\u017ca odczuwa\u0142a wstr\u0119t? Sprawd\u017a, czy znasz t\u0119 filozoficzn\u0105 powiastk\u0119 wystarczaj\u0105co dobrze, aby odpowiedzie\u0107 na te 12 pyta\u0144!\n\n### Sample Exam Questions\n\nCommon test questions include:\n- Co przestawia rysunek w\u0119\u017ca boa otwartego wykonany przez narratora? Z czym doro\u015bli mylili rysunek w\u0119\u017ca boa zamkni\u0119tego? Jaki zaw\u00f3d wykonuje narrator? W jaki spos\u00f3b narrator znalaz\u0142 si\u0119 na pustyni?\n- -O co poprosi\u0142 narratora Ma\u0142y Ksi\u0105\u017c\u0119? - Co Ma\u0142y Ksi\u0105\u017c\u0119 codziennie rano robi\u0142 na swojej planecie? - Przeliczaniem czego zajmowa\u0142 si\u0119 Bankier? - Kim z zawodu by\u0142 narrator opowie\u015bci?\n- \"Dobrze widzi si\u0119 tylko sercem. Najwa\u017cniejsze jest niewidoczne dla oczu\" \u2013 kto powiedzia\u0142 te s\u0142owa? Czego szukali narrator i Ma\u0142y Ksi\u0105\u017c\u0119, gdy sko\u0144czy\u0142a im si\u0119 woda i poczuli pragnienie? Kto pom\u00f3g\u0142 Ma\u0142emu Ksi\u0119ciu wr\u00f3ci\u0107 na swoj\u0105 planet\u0119? Dlaczego Ma\u0142y Ksi\u0105\u017c\u0119 chcia\u0142 wr\u00f3ci\u0107 na swoj\u0105 planet\u0119?\n\n### Study Materials Available\n\nMa\u0142y Ksi\u0105\u017c\u0119 - test trudny ze znajomo\u015bci lektury. Znajdziesz tutaj test z odpowiedziami WSIP wersja B, PDF, Nowa Era, GWO i inne. Idealny na sprawdzian klasa 7. 20 pytania do lektury Ma\u0142y Ksi\u0105\u017c\u0119.(no content)Quiz / zadanie z lektury Ma\u0142y Ksi\u0105\u017c\u0119 dla uczni\u00f3w klasy 7 i 8 szko\u0142y podstawowej. Test podsumowuj\u0105cy z odpowiedziami i raportem PDF is available on Eduzabawy.com.\n\n### Essay Topics and Themes\n\nThe tests often focus on philosophical themes:\n- \"Ma\u0142y Ksi\u0105\u017c\u0119\" to opowie\u015b\u0107 ukazuj\u0105ca g\u0142\u0119bok\u0105 refleksj\u0119 nad istot\u0105 prawdziwej mi\u0142o\u015bci, nierozerwalnej przyja\u017ani i odpowiedzialno\u015bci za drugiego cz\u0142owieka. Ta pozornie prosta i dziecinna opowiastka stawia wiele g\u0142\u0119bokich pyta\u0144 o sens wi\u0119zi pomi\u0119dzy lud\u017ami, a tak\u017ce hierarchi\u0119 warto\u015bci.\n\nKey characters and themes explored include:\n- Ma\u0142y Ksi\u0105\u017c\u0119 wyruszy\u0142 w podr\u00f3\u017c ze swojej asteroidy B-612, aby pozna\u0107 siebie i \u015bwiat. Odwiedzi\u0142 6 planet, z kt\u00f3rych ka\u017cda by\u0142a zamieszkana przez jednego, irracjonalnego doros\u0142ego. Ka\u017cda z tych znajomo\u015bci mia\u0142a za zadanie pokaza\u0107 absurdy spo\u0142ecze\u0144stwa.\n\n### Additional Resources\n\nPrzypomnij sobie wiadomo\u015bci o lekturze: Ma\u0142y Ksi\u0105\u017c\u0119 - opracowanie, Ma\u0142y Ksi\u0105\u017c\u0119 - dok\u0142adne streszczenie - Students can find detailed chapter summaries and analyses on aniakubica.com.\n\n2 teksty, 12 zada\u0144 z odpowiedziami i wyja\u015bnieniami. CKE - zestawy zada\u0144 powt\u00f3rkowych, 20 marca 2020 (dzie\u0144 5). - Official CKE (Central Examination Commission) practice materials are available.\n\nThese resources provide comprehensive preparation materials including quizzes, practice tests with answers, essay topics, and study guides specifically designed for Polish secondary school students studying this philosophical tale."
+    ],
+    "durationSeconds": 46.32282578099985
+  }
+}

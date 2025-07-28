@@ -1,0 +1,63 @@
+{
+  "session_id": "b8c17c71-efc6-4c19-9b68-e101c36de9c9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b8c17c71-efc6-4c19-9b68-e101c36de9c9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Polish teenagers surveillance anxiety privacy social media monitoring 2024 GDPR awareness"
+  },
+  "tool_response": {
+    "query": "Polish teenagers surveillance anxiety privacy social media monitoring 2024 GDPR awareness",
+    "results": [
+      "I'll search for information about Polish teenagers' concerns regarding surveillance, privacy, and social media monitoring in 2024, including their awareness of GDPR.",
+      {
+        "tool_use_id": "srvtoolu_0151Q8pHBCojhwxe7S7ax8zq",
+        "content": [
+          {
+            "title": "CEELM Comparative Legal Guide: Data Protection in Poland 2024",
+            "url": "https://ceelegalmatters.com/data-protection-2024/poland-data-protection-2024"
+          },
+          {
+            "title": "From social netizens to data citizens: Variations of GDPR awareness in 28 European countries - ScienceDirect",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S0267364921000583"
+          },
+          {
+            "title": "Privacy in Adolescence | SpringerLink",
+            "url": "https://link.springer.com/chapter/10.1007/978-3-030-82786-1_14"
+          },
+          {
+            "title": "FTC Staff Report Finds Large Social Media and Video Streaming Companies Have Engaged in Vast Surveillance of Users with Lax Privacy Controls and Inadequate Safeguards for Kids and Teens | Federal Trade Commission",
+            "url": "https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-staff-report-finds-large-social-media-video-streaming-companies-have-engaged-vast-surveillance"
+          },
+          {
+            "title": "Enhancing the privacy risk awareness of teenagers in online social networks through soft-paternalism mechanisms - ScienceDirect",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S1071581918302118"
+          },
+          {
+            "title": "Data protection digest 5-19 Jul 2024: LLMs and personal data, social media monitoring, differential privacy - TechGDPR",
+            "url": "https://techgdpr.com/blog/data-protection-digest-22072024-llms-and-personal-data-social-media-monitoring-differential-privacy/"
+          },
+          {
+            "title": "Teens, Social Media, and Privacy | Pew Research Center",
+            "url": "https://www.pewresearch.org/internet/2013/05/21/teens-social-media-and-privacy/"
+          },
+          {
+            "title": "Poland: digital privacy concerns 2023 | Statista",
+            "url": "https://www.statista.com/statistics/1102196/poland-digital-privacy-concerns/"
+          },
+          {
+            "title": "Privacy in 2025: Experts\u2019 Predictions | Pew Research Center",
+            "url": "https://www.pewresearch.org/internet/feature/future-of-privacy/"
+          },
+          {
+            "title": "Digital 2024: Poland \u2014 DataReportal \u2013 Global Digital Insights",
+            "url": "https://datareportal.com/reports/digital-2024-poland"
+          }
+        ]
+      },
+      "Based on the search results, I found some relevant information about privacy concerns, surveillance anxiety, and GDPR awareness among teenagers and internet users in Poland and Europe in 2024. Here's what the search revealed:\n\n## Key Findings:\n\n### GDPR Implementation and Awareness in Poland\n\nPoland has implemented several national acts to ensure GDPR application, including the Act of 10 May 2018 on Personal Data Protection and the Act of 21 February 2019 amending certain laws to ensure GDPR implementation. The 2019 GDPR Implementation Act amended Polish sectoral laws including labor, consumer protection, insurance, banking, and telecommunication laws, amending 162 different acts in total.\n\n### Digital Privacy Concerns Among Polish Internet Users\n\nOne third of internet users in Poland declined cookies on websites at least some of the time in 2023. The search results indicate that there is data available about the share of internet users concerned about aspects of their digital privacy and online well-being in Poland in 2023, though the specific statistics weren't provided in the search results.\n\n### European Youth and GDPR Awareness Patterns\n\nA significant finding from research on GDPR awareness across Europe reveals that young generations are evenly divided between the rather carefree social netizens and the strongly invested data citizens. The \"social netizens\" cluster has remarkably high social network use, below average online shopping experiences, and low GDPR awareness.\n\nYounger generations are divided between two contrasting configurations: the GDPR-aware data citizens, and the digitally involved, yet GDPR-disinterested social netizens.\n\n### Teen Privacy Awareness and Surveillance Concerns\n\nResearch shows that the assumption that teens are at extreme risk online because of their poor information disclosure decisions is prevalent in the literature and suggests that teens' lack of privacy awareness leads to serious harms, ranging from inappropriate consumer data collection to online sexual predation.\n\nHowever, when teens make online disclosures that lead to risky online interactions and increased privacy concerns, this also leads to increased privacy-preserving behaviors as well as remedy/corrective risk-coping behaviors.\n\n### Social Media Surveillance in 2024\n\nA recent FTC staff report from September 2024 found that major social media and video streaming services engaged in vast surveillance of consumers, highlighting ongoing concerns about social media monitoring practices.\n\n### Recommendations for Teen Privacy Education\n\nExperts recommend that we should refrain from fear-based and paternalistic privacy narratives about adolescents, their digital privacy, and their online safety, as decisions based on fear and protectionism lead to stronger and more authoritarian stances than rational and evidence-based approaches.\n\nTo achieve the full potential of the GDPR in changing surveillance practices while fostering consumer trust and responsible use of Big Data, policymakers should more effectively engage the digitally connected social netizens in the public debate over data use and protection.\n\nWhile the search results provide valuable context about privacy concerns and GDPR awareness in Poland and Europe, they don't specifically address Polish teenagers' surveillance anxiety in 2024. The findings suggest that privacy awareness varies significantly among young people, with some being highly aware \"data citizens\" while others remain \"social netizens\" with low GDPR awareness despite heavy social media use."
+    ],
+    "durationSeconds": 38.5941635060003
+  }
+}

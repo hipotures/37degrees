@@ -1,0 +1,62 @@
+{
+  "session_id": "ad0134af-ec8f-4d33-afa8-be303b4ad42f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ad0134af-ec8f-4d33-afa8-be303b4ad42f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Alice in Wonderland music references songs Jefferson Airplane White Rabbit K-pop LOONA Wonderland Taylor Swift"
+  },
+  "tool_response": {
+    "query": "Alice in Wonderland music references songs Jefferson Airplane White Rabbit K-pop LOONA Wonderland Taylor Swift",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01EFHsXCuSqpk7uhdX7ZzWfq",
+        "content": [
+          {
+            "title": "Why Jefferson Airplane's \"White Rabbit\" is the Ultimate Piece of Alice in Wonderland Content | Frank Beddor",
+            "url": "https://frankbeddor.com/why-jefferson-airplanes-white-rabbit-is-the-ultimate-piece-of-alice-in-wonderland-content/"
+          },
+          {
+            "title": "Down The Rabbit Hole | Years ago, I made an Alice in Wonderland playlist,...",
+            "url": "https://castleofhearts.tumblr.com/post/637435967035375616/years-ago-i-made-an-alice-in-wonderland-playlist"
+          },
+          {
+            "title": "Literature In Lyrics: Alice In Wonderland : Song Writing",
+            "url": "https://www.songfacts.com/blog/writing/literature-in-lyrics-alice-in-wonderland"
+          },
+          {
+            "title": "Ballad Breakdown: Jefferson Airplane's 'White Rabbit' Draws ...",
+            "url": "https://www.afterglowatx.com/blog/2023/3/15/ballad-breakdown-jefferson-airplanes-white-rabbit-draws-literary-inspiration-to-create-a-sonic-acid-trip"
+          },
+          {
+            "title": "Alice in Wonderland themed songs? | General Discussion | Flight Rising",
+            "url": "https://www1.flightrising.com/forums/gend/2399790"
+          },
+          {
+            "title": "White Rabbit (song) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/White_Rabbit_(song)"
+          },
+          {
+            "title": "\"Alice\" in Music: Popular Music",
+            "url": "https://www.carleton.edu/departments/engl/alice/mediaMusicPop.html"
+          },
+          {
+            "title": "Songfacts - Songs inspired by Alice In Wonderland and Through the Looking Glass",
+            "url": "https://www.songfacts.com/category/songs-inspired-by-alice-in-wonderland-and-through-the-looking-glass"
+          },
+          {
+            "title": "Alice, Jefferson Airplane and \u201cWhite Rabbit\u201d",
+            "url": "https://jukeboxtimemachine.com/2017/01/30/alice-white-rabbit-and-jefferson-airplane/"
+          },
+          {
+            "title": "White Rabbit (Jefferson Airplane song) | Malice In Wonderland - and all things Alice Wiki | Fandom",
+            "url": "https://malice-in-wonderland-and-all-things-alice.fandom.com/wiki/White_Rabbit_(Jefferson_Airplane_song)"
+          }
+        ]
+      },
+      "Based on my search results, I can provide you with information about Alice in Wonderland music references across various artists and genres, including Jefferson Airplane's \"White Rabbit,\" K-pop group LOONA's \"Wonderland,\" and Taylor Swift's \"Wonderland.\"\n\n## Jefferson Airplane's \"White Rabbit\"\n\n\"White Rabbit\" is a song written by Grace Slick and recorded by the American rock band Jefferson Airplane for their 1967 album Surrealistic Pillow. It draws on imagery from Lewis Carroll's 1865 book Alice's Adventures in Wonderland and its 1871 sequel Through the Looking-Glass.(no content)It was released as a single and became the band's second top-10 success, peaking at number eight on the Billboard Hot 100.(no content)With references to the White Rabbit, the Blue Caterpillar, Eat Me and Drink Me, The White Knight, and of course the Red Queen, it's easy to see how this is a quintessential piece of Alice media.(no content)With its enigmatic lyrics, \"White Rabbit\" became one of the first songs to sneak drug references in, bypassing censorship on the radio.(no content)The pop-rock band drew inspiration from Lewis Carroll's \"Alice's Adventures in Wonderland,\" with recurring themes of the freethinking movement, love, peace, drugs, and even education \u2013 each are cleverly displayed in the riddle-like lyricism.\n\n## Taylor Swift's \"Wonderland\"\n\nTaylor Swift alludes to the scene in her 2014 song \"Wonderland,\" where she compares falling in love to tumbling down the rabbit hole and finding Wonderland.(no content)Swifties concluded the green-eyed guy with the Cheshire Cat smile is Taylor's ex-boyfriend Harry Styles.\n\n## Other Alice-Inspired Songs\n\nThe search results reveal numerous other artists who have drawn inspiration from Alice in Wonderland:\n\n- **Anna Nalick's \"Drink Me\"** - For her 2005 song \"Drink Me,\" Anna Nalick took inspiration from an Alice In Wonderland reference in John Steinbeck's novel East of Eden.\n\n- **Avril Lavigne's \"Alice\"** - Avril Lavigne (1984-present) is a Canadian singer-songwriter whose song \"Alice\" was written for and featured in Tim Burton's 2010 film version of Alice in Wonderland (2010). The song emphasizes the importance of perseverance through adversity in several lines of the chorus \"I'll get by,\" \"I'll survive,\" and \"I won't cry.\"\n\n- **Multiple artists** have created Alice-themed songs, including Caravan Palace with \"Wonderland,\" CHVRCHES with \"Wonderland,\" Melanie Martinez with \"Mad Hatter,\" and many others.\n\nUnfortunately, the search results did not contain specific information about LOONA's \"Wonderland\" song in relation to Alice in Wonderland themes. The results show that Alice in Wonderland has been a persistent source of inspiration across multiple genres and decades, from 1960s psychedelic rock to modern pop music, with artists drawing from its imagery of transformation, curiosity, and fantastical journeys."
+    ],
+    "durationSeconds": 25.804786486000054
+  }
+}

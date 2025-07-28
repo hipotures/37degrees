@@ -1,0 +1,63 @@
+{
+  "session_id": "7ca65eb2-e5d0-4143-8931-90f15001b62e",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7ca65eb2-e5d0-4143-8931-90f15001b62e.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Anna Karenina film adaptations complete list directors cast box office critical reception"
+  },
+  "tool_response": {
+    "query": "Anna Karenina film adaptations complete list directors cast box office critical reception",
+    "results": [
+      "I'll search for information about Anna Karenina film adaptations, including directors, cast, box office performance, and critical reception.",
+      {
+        "tool_use_id": "srvtoolu_01XYx7LhXkFMCGYMZGmCZRWh",
+        "content": [
+          {
+            "title": "Adaptations of Anna Karenina - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Adaptations_of_Anna_Karenina"
+          },
+          {
+            "title": "Anna Karenina (2012 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Anna_Karenina_(2012_film)"
+          },
+          {
+            "title": "Anna Karenina: The Movie. If the Book Is So Great, Why Do We Need Adaptations? | The Common",
+            "url": "https://www.thecommononline.org/anna-karenina-the-movie-if-the-book-is-so-great-why-do-we-need-adaptations/"
+          },
+          {
+            "title": "These are the only Anna Karenina adaptations you actually need to know about. \u2039 Literary Hub",
+            "url": "https://lithub.com/these-are-the-only-anna-karenina-adaptations-you-actually-need-to-know-about/"
+          },
+          {
+            "title": "Anna Karenina (2012) \u2b50 6.6 | Drama, Romance",
+            "url": "https://www.imdb.com/title/tt1781769/"
+          },
+          {
+            "title": "Film adaptations of Anna Karenina",
+            "url": "https://en.granma.cu/cultura/2017-11-13/film-adaptations-of-anna-karenina"
+          },
+          {
+            "title": "Anna Karenina (2012) | Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/m/anna_karenina_2012"
+          },
+          {
+            "title": "Anna Karenina (1935 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Anna_Karenina_(1935_film)"
+          },
+          {
+            "title": "Discovering Russian Literature - FILM, TV, THEATRE: Anna Karenina Movie Versions - Which is the BEST? Showing 1-39 of 39",
+            "url": "https://www.goodreads.com/topic/show/556705-anna-karenina-movie-versions---which-is-the-best"
+          },
+          {
+            "title": "Anna Karenina at the movies, Garbo & Rathbone (1935) to Leigh & Richardson (1948); a Virginia Woolf column \u2013 Ellen And Jim Have A Blog, Two",
+            "url": "https://ellenandjim.wordpress.com/2018/01/23/anna-kareninaatthemoviesgarborathbonetoleighrichardson/"
+          }
+        ]
+      },
+      "Based on my search results, I can provide you with a comprehensive overview of Anna Karenina film adaptations, including directors, cast, box office performance, and critical reception.\n\n## Major Film Adaptations of Anna Karenina\n\n### Early Silent Film Era\n- **1911**: Anna Karenina - French/Russian adaptation directed by Maurice Andr\u00e9 Ma\u00eetre\n- **1914**: Anna Karenina - Russian adaptation directed by Vladimir Gardin\n- **1915**: Anna Karenina - American version starring Danish actress Betty Nansen\n- **1920**: Anna Karenina - German silent film directed by Frederic Zelnik, starring Lya Mara and Johannes Riemann\n- **1927**: Love - American version starring Greta Garbo, directed by Edmund Goulding\n\n### Classic Era\n- **1935**: Anna Karenina - American version starring Greta Garbo and Fredric March, directed by Clarence Brown\n  - This became \"the most famous and critically-acclaimed of all the Annas Karenina\"\n  - Holds a 93% approval rating on Rotten Tomatoes, based on 14 reviews\n  - Greta Garbo's \"anguished performance became the yardstick\" for future screen Annas\n\n- **1948**: Anna Karenina - Starring Vivien Leigh and Ralph Richardson, directed by Julien Duvivier\n\n### Soviet/Russian Versions\n- **1953**: Anna Karenina - Russian version directed by Tatyana Lukashevich\n- **1967**: Anna Karenina - Russian version directed by Alexander Zarkhi with music by Rodion Shchedrin\n  - IMDB rating: 7.2/10\n  - Featured Tatyana Samoylova in the lead role\n\n### Modern Era\n- **1985**: Anna Karenina - U.S. TV movie starring Jacqueline Bisset and Christopher Reeve, directed by Simon Langton\n\n- **1997**: Anna Karenina - First American version filmed entirely in Russia, directed by Bernard Rose, starring Sophie Marceau and Sean Bean\n  - IMDB rating: 6.4/10\n\n- **2000**: Anna Karenina - Four-part British Channel 4 adaptation directed by David Blair, starring Helen McCrory\n  - IMDB rating: 7.4/10\n\n### 2012 Joe Wright Version\n- **2012**: Anna Karenina - British version directed by Joe Wright, starring Keira Knightley\n\n**Cast**: \n- Keira Knightley as Anna, Jude Law as Karenin, Aaron Taylor-Johnson as Vronsky\n- Matthew Macfadyen, Kelly Macdonald, Domhnall Gleeson, and Alicia Vikander in supporting roles\n\n**Box Office**: \n- Earned approximately $69 million worldwide\n\n**Critical Reception**:\n- Metacritic score: 63/100 based on 41 critics\n- IMDB rating: 6.6/10\n- Critics praised the cast but were divided on Wright's heavily stylized adaptation\n- Wright shot most of the film on a single soundstage representing a dilapidated theatre\n- Audiences were \"a little cold\" on the theatrical scaffolding and emphasis on style over substance\n\n### Television Adaptations\n- **1961**: BBC adaptation directed by Rudolph Cartier, starring Claire Bloom and Sean Connery\n- **1977**: Ten-episode BBC series directed by Basil Coleman, starring Nicola Pagett\n\n### Statistics\n- IMDB lists twenty-seven movie and TV versions dating back to 1907\n- There have been \"fifteen movies, six television series, four ballets, four operas, two musicals\"\n\nThe adaptations have varied widely in their approach, from faithful period pieces to highly stylized interpretations, with the 1935 Greta Garbo version remaining the most critically acclaimed overall."
+    ],
+    "durationSeconds": 39.56252374899993
+  }
+}

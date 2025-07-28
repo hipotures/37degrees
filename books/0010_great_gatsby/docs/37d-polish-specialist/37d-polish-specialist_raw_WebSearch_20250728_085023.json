@@ -1,0 +1,63 @@
+{
+  "session_id": "e18f7f1c-5883-41e4-8ef9-15aee4aa266b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e18f7f1c-5883-41e4-8ef9-15aee4aa266b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Wielki Gatsby\" teatr polska adaptacja teatralna spektakl telewizja film radio"
+  },
+  "tool_response": {
+    "query": "\"Wielki Gatsby\" teatr polska adaptacja teatralna spektakl telewizja film radio",
+    "results": [
+      "I'll search for information about \"Wielki Gatsby\" (The Great Gatsby) theatrical adaptations, stage performances, television, film, and radio productions in Poland.",
+      {
+        "tool_use_id": "srvtoolu_011ZipbUeqsLq5TY1VwKQ3NG",
+        "content": [
+          {
+            "title": "Teatr w Krakowie im. J. S\u0142owackiego - Wielki Gatsby",
+            "url": "https://teatrwkrakowie.pl/spektakl/wielki-gatsby"
+          },
+          {
+            "title": "Wielki Gatsby | e-teatr.pl",
+            "url": "https://e-teatr.pl/wielki-gatsby-51264"
+          },
+          {
+            "title": "Wielki Gatsby - Teatr Polski im. Hieronima Konieczki | e-teatr.pl",
+            "url": "https://e-teatr.pl/wielki-gatsby-s11372"
+          },
+          {
+            "title": "Wielki Gatsby w Teatrze im. J. S\u0142owackiego w Krakowie | Radio1.7 - najlepsze studenckie radio w Krakowie",
+            "url": "https://radio17.pl/news/wielki-gatsby-w-teatrze-im-j-slowackiego-w-krakowie"
+          },
+          {
+            "title": "\u201eWielki Gatsby\u201d w re\u017c. Micha\u0142a Zadary / Teatr / dwutygodnik.com",
+            "url": "https://www.dwutygodnik.com/artykul/2339-wielki-gatsby-w-rez-michala-zadary.html"
+          },
+          {
+            "title": "JAROS\u0141AW CISZEK KULTURALNY KONFERANSJER",
+            "url": "https://kulturalnykonferansjer.pl/blog/teatr-im-j-slowackiego-w-krakowie,7"
+          },
+          {
+            "title": "Teatralna Kicia \u2014 \u201cWielki Gatsby\u201d Teatr: Teatr w Krakowie - im....",
+            "url": "https://teatralna-kicia.tumblr.com/post/761631434312237056/wielki-gatsby-teatr-teatr-w-krakowie-im"
+          },
+          {
+            "title": "Wielki Gatsby - Ma\u0142opolski Ogr\u00f3d Sztuki | e-teatr.pl",
+            "url": "https://e-teatr.pl/wielki-gatsby-s28885"
+          },
+          {
+            "title": "\u201eWielki Gatsby\u201d na scenie MOS Teatru im. S\u0142owackiego",
+            "url": "https://www.radiokrakow.pl/aktualnosci/krakow/wielki-gatsby-na-scenie-mos-teatru-im-slowackiego"
+          },
+          {
+            "title": "Wielki Gatsby - recenzje teatralne - JAROS\u0141AW CISZEK",
+            "url": "https://kulturalnykonferansjer.pl/blog/teatr-im-j-slowackiego-w-krakowie,7/wielki-gatsby,60"
+          }
+        ]
+      },
+      "Based on my search results, I found information about Polish theatrical adaptations of \"The Great Gatsby\" (Wielki Gatsby). Here's a comprehensive overview:\n\n## Current Production (2024)\n\nThe most recent theatrical adaptation is at Teatr im. J. S\u0142owackiego (Juliusz S\u0142owacki Theatre) in Krakow, which premiered on April 20, 2024. This production is directed by Jakub Roszkowski.\n\n### Production Details:\n- Direction, translation, and adaptation: Jakub Roszkowski; scenography, costumes, lighting, video: Mirek Kaczmarek; music: Antonis Skolias; vocal preparation: Zuzanna Skolias-Paku\u0142a; choreography: Urszula Parol; puppetry consultation: Agata Kuci\u0144ska\n- The performance takes place at the MOS (Ma\u0142opolski Ogr\u00f3d Sztuki) stage of the S\u0142owacki Theatre\n\n### Artistic Approach:\nRoszkowski stays fairly close to the source material while taking creative freedom in shifting accents and bringing forward themes somewhat overlooked in the book or film adaptations. Aesthetically, the production is anchored in kitsch aesthetics and revue style, with the jazz revue aesthetic having strong grounding in the text itself and the 1920s period.\n\nThe director explores the relationship between the poor and the rich, with actors playing servants wearing humanoid puppets and having to walk on their knees, automatically making them smaller than actors playing \"full-fledged people,\" i.e., the wealthy.\n\n### Musical Elements:\nThe production features excellent jazz and swing music performed by a live band, with standout vocal performances by Dominika Feiglewicz, Zuzanna Skolias-Paku\u0142a, and Wanda Skorny.\n\n## Previous Polish Production (2011)\n\nThere was an earlier theatrical adaptation directed by Micha\u0142 Zadara at Teatr Polski in Bydgoszcz, which premiered on June 4, 2011. This production was also based on Francis Scott Fitzgerald's novel.\n\n### Critical Reception:\nThe 2011 production emphasized the simulacral nature of Gatsby's world, with the ending having an actress come to the proscenium saying \"you were in the theater, there were no real emotions here and no one really died\".\n\n## Reception of Current Production:\n\nReviews have been mixed but generally positive:\n- One reviewer called it \"strange\" but noted that the story was very engaging, thought-provoking, somewhat moving, and somewhat amusing\n- Another reviewer compared it favorably to the film adaptation with Leonardo DiCaprio, noting they would remember the staging, especially the music, more than the content\n\nThe search results don't show any specific television, film, or radio adaptations of \"The Great Gatsby\" produced in Poland, only these theatrical productions."
+    ],
+    "durationSeconds": 34.88350227699988
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "session_id": "b8c17c71-efc6-4c19-9b68-e101c36de9c9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/b8c17c71-efc6-4c19-9b68-e101c36de9c9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "group pressure peer influence teenagers social media following trends conformity 2024 FOMO"
+  },
+  "tool_response": {
+    "query": "group pressure peer influence teenagers social media following trends conformity 2024 FOMO",
+    "results": [
+      "I'll search for information about group pressure, peer influence, and social media's impact on teenage conformity and FOMO in 2024.",
+      {
+        "tool_use_id": "srvtoolu_01MZY2dy3TWePEyvhPFwbjcz",
+        "content": [
+          {
+            "title": "The Impact of Social Media on Peer Pressure in Adolescents \u2013 Youth Medical Journal",
+            "url": "https://youthmedicaljournal.com/2022/01/12/the-impact-of-social-media-on-peer-pressure-in-adolescents/"
+          },
+          {
+            "title": "Transformation of Adolescent Peer Relations in the Social Media Context: Part 2\u2014Application to Peer Group Processes and Future Directions for Research - PMC",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6402323/"
+          },
+          {
+            "title": "Study: Peer Pressure Susceptibility Lasts into Adulthood - News Center | The University of Texas at Dallas",
+            "url": "https://news.utdallas.edu/health-medicine/peer-pressure-adulthood-2024/"
+          },
+          {
+            "title": "Peer pressure and adolescent mobile social media addiction: Moderation analysis of self-esteem and self-concept clarity - PMC",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10126400/"
+          },
+          {
+            "title": "Full article: Social influence in adolescence: Behavioral and neural responses to peer and expert opinion",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/17470919.2024.2323745"
+          },
+          {
+            "title": "Toward understanding the functions of peer influence: A summary and synthesis of recent empirical research - PMC",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8630732/"
+          },
+          {
+            "title": "Teen Peer Pressure in the Age of Social Media - Drug Free Clubs of America",
+            "url": "https://drugfreeclubs.com/2025/01/01/teen-peer-pressure-in-the-age-of-social-media/"
+          },
+          {
+            "title": "Social Media and Youth Mental Health",
+            "url": "https://www.hhs.gov/sites/default/files/sg-youth-mental-health-social-media-advisory.pdf"
+          },
+          {
+            "title": "Perspective Chapter: The Impact of Social Media on the Fear of Missing Out (FOMO) among Teenagers Aged between 18 and 25 | IntechOpen",
+            "url": "https://www.intechopen.com/chapters/1191071"
+          },
+          {
+            "title": "Adolescent Conformity and Groupthink on Social Media - See Beyond Magazine - An avant-garde motivational literary magazine for teens and young-at-heart adults",
+            "url": "https://www.seebeyondmag.com/adolescent-conformity-and-groupthink-on-social-media/"
+          }
+        ]
+      },
+      "Based on the search results, here's a comprehensive overview of group pressure, peer influence, and social media's impact on teenage conformity and FOMO in 2024:\n\n## Key Findings on Teenage Peer Pressure and Social Media in 2024\n\n### The Amplification of Peer Pressure Through Social Media\n\nSocial media introduces an aspect of permanence, pushing teens to conform with societal norms to avoid rejection. It normalizes risky behaviour, and also creates FOMO, reinforcing the pressure to recreate socially desirable behaviour.(no content)Peer pressure has always existed, but social media has amplified it. In addition to seeing and hearing about people using drugs and alcohol, teens can experience direct pressures online. There could be group chats, comments, or DMs that may encourage teens to try alcohol and drugs. The anonymity and indirectness of social media often set the stage for peers to push boundaries or bully others into trying things they normally wouldn't do in person.\n\n### FOMO (Fear of Missing Out) and Social Media\n\nFOMO and Social Media Usage: Research indicates that social media platforms amplify feelings of FOMO among users. This is particularly evident among teenagers aged 18 to 25, who are highly active on social media. Adventures, family outings, and party invitations shared online are common triggers for FOMO. These triggers lead individuals to check social media more frequently to stay updated on their peers' activities, exacerbating FOMO.(no content)A separate psychological phenomenon known as \"fear of missing out\" (\"FOMO\") suggests that adolescents feel socially isolated if they fail to take part in group activities. As noted in the Journal of Technological Forecasting, FOMO only became prevalent on a national scale with the birth of modern social media platforms, and this phenomenon increases an online user's propensity to assimilate with social trends.\n\n### Neural and Behavioral Responses\n\nSherman's study (2016) reported that the chances of adolescents \"liking\" a certain post was much higher if it had a greater number of likes by peers, regardless of how risky the behaviour in the post was.(no content)According to a study by the Association for Psychological Science, users are more likely to 'like' posts with a greater number of likes. Therefore, users tend to agree with ideas that are already accepted and less-conformist posts will typically receive less validation. The 'like' button has also been shown to generate increased stimulation in neural regions in the brain associated with reward-processing.\n\n### Conformity Patterns Across Age Groups\n\nWhen applied to youth, it became clear that conformity responses increased across childhood, peaked during early adolescence, and declined thereafter. A recent study replicated the inverted U\u2010shaped developmental trend found with perceptual conformity tasks; again, the greatest response shift occurred in early adolescence.\n\nHowever, a 2024 study found that the influence of peer pressure continues into early adulthood, while middle-aged and older adults are better at controlling their desires. While older people generally regulate emotions more effectively, indicating greater self-control and resistance to conformity pressures, Seaman said they also face a new set of priorities that might make it more difficult to resist such influences, especially as they observe their peers partaking.\n\n### Impact on Authenticity and Individual Expression\n\nAccording to a 2015 study by the Pew Research Center, 40% of teenagers said that they \"only post content that will make [them] look good,\" which leads to a proportional decrease in authenticity. Indeed, conformity \"suppresses healthy dissent and individual opinion\" since adolescents feel peer-pressured into aligning with group norms even at the expense of their own personal beliefs.\n\n### The Cycle of Social Media and FOMO\n\nThe growth of social media usage has been proportional to the increase in FOMO among users. This trend is concerning as it suggests a cyclical relationship where social media usage feeds FOMO, which in turn drives further social media engagement. Teenagers, in particular, are vulnerable to this cycle, as they are in a developmental stage where peer approval and social belonging are paramount.\n\n### Normalization of Risky Behaviors\n\nBeyond this, social media also normalizes risky behaviour. Through social media platforms, adolescents are exposed to behaviours like drug usage on a much more regular basis than in the past. Consistently interacting with disturbing and provocative posts can normalize such behaviours among teenagers, and they may stop realizing the potential risks involved.\n\n### Positive Aspects and Solutions\n\nWhile there is more negative peer pressure on social media, the good news is that positive peer pressure also exists!(no content)Preventing social media use entirely might not always be an option, so encouraging teens to follow influencers and peers who are promoting drug and alcohol-free lifestyles can help them build confidence in resisting peer pressure and making responsible decisions.\n\nThe research indicates that social media has significantly intensified peer pressure and conformity among teenagers in 2024, creating a complex environment where FOMO, social validation, and the permanence of digital footprints combine to create unprecedented pressures on adolescent behavior and identity formation."
+    ],
+    "durationSeconds": 53.84395073400019
+  }
+}

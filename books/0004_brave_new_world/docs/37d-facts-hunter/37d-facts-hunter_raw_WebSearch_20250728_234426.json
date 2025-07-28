@@ -1,0 +1,62 @@
+{
+  "session_id": "9588e4fa-c119-4986-be3b-1d3af7769f8f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/9588e4fa-c119-4986-be3b-1d3af7769f8f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "environmental movements Brave New World themes sustainability anti-technology movements Luddites modern resistance artificial intelligence"
+  },
+  "tool_response": {
+    "query": "environmental movements Brave New World themes sustainability anti-technology movements Luddites modern resistance artificial intelligence",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01De9imDnKD8PGSrTrCuUfa6",
+        "content": [
+          {
+            "title": "Who Are the Modern Luddites? Understanding the New Wave of Tech Resistance",
+            "url": "https://www.thebusybeck.com/who-are-the-modern-luddites-understanding-the-new-wave-of-tech-resistance/"
+          },
+          {
+            "title": "AI and the Neo-Luddites?. With the rapid rise of AI technologies\u2026 | by Sunil Manghani | Electronic Life | Medium",
+            "url": "https://medium.com/electronic-life/ai-and-the-neo-luddites-6e154260da28"
+          },
+          {
+            "title": "Neo-Luddism - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Neo-Luddism"
+          },
+          {
+            "title": "Technology and Control Theme in Brave New World | LitCharts",
+            "url": "https://www.litcharts.com/lit/brave-new-world/themes/technology-and-control"
+          },
+          {
+            "title": "Against Technology: From the Luddites to Neo-Luddism ...",
+            "url": "https://law.unimelb.edu.au/__data/assets/pdf_file/0011/3397664/Jones-2006-Against-Technology.pdf"
+          },
+          {
+            "title": "Brave New World - Wikipedia",
+            "url": "https://en.m.wikipedia.org/wiki/Brave_New_World"
+          },
+          {
+            "title": "We should all be Luddites now - by Dave Karpf",
+            "url": "https://davekarpf.substack.com/p/we-should-all-be-luddites-now"
+          },
+          {
+            "title": "Modern Luddites",
+            "url": "https://www.theindy.org/article/3051"
+          },
+          {
+            "title": "How the Luddite Movement Lives on With Neo-Luddites | Shortform Books",
+            "url": "https://www.shortform.com/blog/the-luddite-movement/"
+          },
+          {
+            "title": "In defense of the Luddites \u2014 Insider Union",
+            "url": "https://www.insiderunion.org/business-outsider/history-of-luddites-labor-artificial-intelligence"
+          }
+        ]
+      },
+      "Based on your search query, I've found comprehensive information connecting environmental movements, Brave New World themes, sustainability concerns, anti-technology movements, Luddites, and modern resistance to artificial intelligence. Here's what the research reveals:\n\n## Modern Technology Resistance and Environmental Concerns\n\nModern Luddites are driven by concerns over privacy, job security, environmental sustainability, and ethical use of technology. They're worried about climate change, resource depletion, and the overall sustainability of our planet, pushing back against tech that harms the environment.\n\nThe modern neo-Luddite movement has connections with the anti-globalization movement, anarcho-primitivism, radical environmentalism, and deep ecology. Neo-Luddism is based on the concern of the technological impact on individuals, their communities, and/or the environment.\n\n## Environmental Impact of Technology\n\nThe development and deployment of smart technologies could have significant environmental impacts, particularly in terms of energy consumption and resource depletion. This could lead to resistance from environmental groups who are concerned about the sustainability of these technologies and their impact on the planet.\n\nUndoubtedly, one of the biggest challenges technology poses to the world is its environmental consequences. Creating and maintaining the technologies that are pervasive in our lives takes enormous amounts of energy, which means burning fossil fuels. Some neo-Luddites argue that we need to \"decomputerize\" the world to avoid a climate crisis.\n\n## Brave New World and Technology Control\n\nBecause technology is limited in this way, the World State must control its advancement. When Mustapha Mond explains to the Savage that even technological and scientific advances are suppressed for social reasons, he says, \"Every change is a menace to stability.\" In other words, technological changes risk undoing the World State's carefully conditioned stability and making people recognize and resist their enslavement.\n\nLargely set in a futuristic World State, whose citizens are environmentally engineered into an intelligence-based social hierarchy, the novel anticipates huge scientific advancements in reproductive technology, sleep-learning, psychological manipulation and classical conditioning that are combined to make a dystopian society which is challenged by the story's protagonist.\n\n## AI and Neo-Luddite Resistance\n\nWith the rapid rise of AI technologies, is a Neo-Luddite movement inevitable? The question is, then, as artificial intelligence becomes increasingly prevalent, are we likely to witness a new form of Luddism? While the original Luddites were concerned about the loss of manual labor jobs, today's Neo-Luddites are worried about the impact of AI on a range of industries, from manufacturing to finance to healthcare.\n\nThese contemporary critics, sometimes referred to as modern critics rather than modern Luddites, focus on various issues, including data privacy, social media addiction, and the ethical implications of artificial intelligence.\n\n## Neo-Luddite Philosophy and Principles\n\nNeo-Luddism or new Luddism is a philosophy opposing many forms of modern technology. While the original Luddites were mostly concerned with the economic implications of improving technology in regard to industrialization, neo-Luddites tend to have a broader and more holistic distrust of technological improvement.\n\nThis document outlines some of the principles of the movement, including: Technology is only good insofar as it benefits us, and is only bad insofar as it harms us. Technologies that encourage a mechanistic, hyper-rational, and materialistic worldview are destructive to people and communities. All technologies can be used as political tools that serve to uphold oppressive structures and systems of exploitation. Too much emphasis on our personal enjoyment of technologies without consideration of the larger, long-term effects they have on the world is dangerous and shortsighted.\n\nThe search results reveal a complex intersection between environmental sustainability concerns, dystopian literary themes from Brave New World, and modern resistance movements that question technological progress\u2014particularly artificial intelligence\u2014on ethical, environmental, and social grounds."
+    ],
+    "durationSeconds": 28.00170711499988
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Jane Eyre effect\" romance literature popular culture references modern feminism contemporary discussions"
+  },
+  "tool_response": {
+    "query": "\"Jane Eyre effect\" romance literature popular culture references modern feminism contemporary discussions",
+    "results": [
+      "I'll search for information about the \"Jane Eyre effect\" in romance literature and its connections to popular culture, modern feminism, and contemporary discussions.",
+      {
+        "tool_use_id": "srvtoolu_019saQrL6dsNrvAEJAC1meje",
+        "content": [
+          {
+            "title": "Intersectionality in Jane Eyre and its Adaptations",
+            "url": "https://scholarworks.uark.edu/cgi/viewcontent.cgi?article=2104&context=etd"
+          },
+          {
+            "title": "Analysis of Jane Eyre with Contemporary Feminist Criticism",
+            "url": "https://www.rosiestamu.com/post/analysis-of-jane-eyre-with-contemporary-feminist-criticism"
+          },
+          {
+            "title": "\"Contradiction in Jane Eyre: Conversations of 19th Century Feminism\" by Audrey Clement - Marymount University",
+            "url": "https://marymount.edu/academics/college-of-sciences-and-humanities/school-of-interdisciplinary-studies/student-publications/magnificat-2022/contradiction-in-jane-eyre/"
+          },
+          {
+            "title": "\u2018Odd and incorrect\u2019: Convention and Jane Eyre\u2019s Feminist Legacy: Bront\u00eb Studies: Vol 49, No 1-2",
+            "url": "https://www.tandfonline.com/doi/abs/10.1080/14748932.2024.2308841"
+          },
+          {
+            "title": "Feminist Fridays: What\u2019s the Deal with Jane Eyre?",
+            "url": "https://theadroitjournal.org/2019/04/15/jane-eyre-feminism/"
+          },
+          {
+            "title": "Reflection on Feminism in Jane Eyre",
+            "url": "https://www.academypublication.com/issues/past/tpls/vol03/06/08.pdf"
+          },
+          {
+            "title": "Analyzing Jane Eyre: Intersectionality and the 21st Century ...",
+            "url": "https://journalofsocialsciences.org/vol5no2/analyzing-jane-eyre--intersectionality-and-the-21st-century-adaptations/"
+          },
+          {
+            "title": "Feminist Themes Through Bird Symbolism in Jane Eyre",
+            "url": "https://rex.libraries.wsu.edu/esploro/outputs/essay/Mounted-Aloft-Feminist-Themes-Through-Bird/99900720968501842"
+          },
+          {
+            "title": "A closer reading of gender and character action in Jane Eyre ...",
+            "url": "https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1203&context=englishfacpubs"
+          },
+          {
+            "title": "Feminism & Gender Roles in Jane Eyre by Charlotte Bronte - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/feminism-gender-roles-in-jane-eyre.html"
+          }
+        ]
+      },
+      "Based on my search results, I can provide you with information about the \"Jane Eyre effect\" in romance literature and its connections to popular culture, modern feminism, and contemporary discussions.\n\n## The \"Jane Eyre Effect\" in Contemporary Literary and Feminist Discourse\n\nWhile the search results don't explicitly define a term called \"Jane Eyre effect,\" they reveal extensive discussion about Jane Eyre's lasting impact on romance literature, feminism, and popular culture. Here's what the contemporary discourse reveals:\n\n### Complex Feminist Legacy\n\nCharlotte Bront\u00eb's book, Jane Eyre, has been a well-known piece of literature since it was released in the 19th century. During its popular reign throughout history, it has received a wide variety of feedback. The novel's feminist credentials are heavily debated in contemporary discussions:\n\n1. **Historical vs. Contemporary Feminism**: Within the context of Victorian England, Jane Eyre could be considered feminist, but only to an extent. This is the crux of the problem, though\u2014society has (thankfully) grown enough in the past couple hundred of years that what may have seemed incredibly feminist in the nineteenth century is antithetical to twenty-first century feminism.\n\n2. **Contradictory Feminist Elements**: Jane, is a delightfully complex heroine who exemplifies the successes and limitations of 19th century feminist philosophy. At times, Jane is a stellar example of the independent Victorian woman struggling against a hostile patriarchal society. Other times, she is an active participant in patriarchal society, directing hostility towards other women and prioritizing male comfort and desires.\n\n### Modern Critical Perspectives\n\nContemporary feminist criticism identifies several problematic aspects:\n\n1. **Intersectionality Issues**: hooks says that \"[w]omen are divided by sexist attitudes, racism, class privilege, and a host of other prejudices\u2026 unless\u2026 barriers separating women can be eliminated\u2026 we cannot hope to change and transform society as a whole\" (44). Through Jane, Bront\u00eb strengthens established societal boundaries by eliminating the possibility for women of different social classes to bond, revealing the limitation of her feminist thought.\n\n2. **Male Gaze and Misogynistic Elements**: In the moments when Jane is characterizing the moon, it is in a seemingly, deep-rooted misogynistic fashion. Though there are a multitude of nuances that the moon may exemplify within the book, such as mystery, the way in which Bront\u00eb uses it to emphasize Jane's femininity is now seen as problematic.\n\n### Impact on Popular Culture and Adaptations\n\nThe novel's influence extends to modern media adaptations:\n\n1. **21st Century Adaptations**: The adaptations of the twenty-first century seem to digest its viewers with a modern and accessible version of Jane. The Victorian era is re-visioned in a contemporary manner. The characters, places, and scenes are retold in an accessible way.\n\n2. **Post-Feminist Interpretations**: While some called the 2006 mini BBC series a post-feminist text, others explored the adaptation merely as a romantic series only.\n\n### Contemporary Relevance\n\nDespite criticisms, Jane Eyre maintains significance:\n\n1. **Historical Importance**: Although Jane Eyre is not an accurate portrayal of modern feminism, it still can be noted that its previous impact was influential to the ideals of today. To continue the teaching of Jane Eyre today, it is imperative to also accentuate the fact that Jane Eyre is a historical marker in terms of literature and feminism, rather than a representation of the current, progressive perspective of citizens today.\n\n2. **Ongoing Feminist Debates**: The feminist criticism of literature isn't about playing the \"Feminist or Not Feminist?\" game. Frankly, it doesn't matter whether or not we can bang a gavel and definitively call a piece of literature feminist.\n\nThe \"Jane Eyre effect\" appears to refer to the novel's enduring but complicated influence on discussions of feminism, romance, and female agency in literature. It represents both a groundbreaking work for its time and a text that contemporary feminists find problematic in its reinforcement of certain patriarchal structures, class divisions, and limited intersectional awareness."
+    ],
+    "durationSeconds": 44.43980359600019
+  }
+}

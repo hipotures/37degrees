@@ -1,0 +1,62 @@
+{
+  "session_id": "ad0134af-ec8f-4d33-afa8-be303b4ad42f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ad0134af-ec8f-4d33-afa8-be303b4ad42f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "polskie ilustracje \"Alicja w Krainie Czar\u00f3w\" polscy ilustratorzy ksi\u0105\u017cek dzieci\u0119cych"
+  },
+  "tool_response": {
+    "query": "polskie ilustracje \"Alicja w Krainie Czar\u00f3w\" polscy ilustratorzy ksi\u0105\u017cek dzieci\u0119cych",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01LmVQNV7jR5if7Gyqfm2vyo",
+        "content": [
+          {
+            "title": "\u201cAlicja w Krainie Czar\u00f3w\u201d w fantazji ilustrator\u00f3w \u2013 Wydawca",
+            "url": "https://wydawca.com.pl/2020/05/04/alicja-w-krainie-czarow-ilustracje/"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Alicja_w_Krainie_Czar%C3%B3w"
+          },
+          {
+            "title": "CARROLL - ALICJA W KRAINIE CZAR\u00d3W ilustr. Mackiewicza. Pierwsze polskie wydanie!",
+            "url": "https://antyksobieski.pl/carroll-ala-w-krainie-czarow-2-wyd-ilustr-mackiewicza-14101.html"
+          },
+          {
+            "title": "138 970 Darmowe obrazy Alicja W Krainie Czar\u00f3w",
+            "url": "https://pixabay.com/images/search/alice%20in%20wonderland/"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w Ilustracje - Niska cena na ...",
+            "url": "https://allegro.pl/listing?string=alicja+w+krainie+czar%C3%B3w+ilustracje"
+          },
+          {
+            "title": "Gara\u017c ilustracji ksi\u0105\u017ckowych: Alicja w Krainie Czar\u00f3w - odrobina czeskiej grozy",
+            "url": "http://garazilustracji.blogspot.com/2010/12/alicja-w-krainie-czarow-odrobina.html"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w Ksi\u0119garnia Wydawnictwa Nowa Ba\u015b\u0144",
+            "url": "https://ksiegarnianowabasn.com/pl/p/Alicja-w-Krainie-Czarow/562"
+          },
+          {
+            "title": "Ksi\u0105\u017cka Alicja w Krainie Czar\u00f3w - Ceny i opinie",
+            "url": "https://www.ceneo.pl/176643518"
+          },
+          {
+            "title": "ALICJA W KRAINIE CZAR\u00d3W ilustracje du\u017ca czcionka ...",
+            "url": "https://allegro.pl/oferta/alicja-w-krainie-czarow-ilustracje-duza-czcionka-8474330508"
+          },
+          {
+            "title": "1 800+ zbior\u00f3w zdj\u0119\u0107, fotografii i beztantiemowych obraz\u00f3w z kategorii Alicja W Krainie Czar\u00f3w Ilustracje - iStock",
+            "url": "https://www.istockphoto.com/pl/obrazy/alicja-w-krainie-czar%C3%B3w-ilustracje"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about Polish illustrations of \"Alice in Wonderland\" and Polish children's book illustrators:\n\n## Polish Editions and Illustrators of \"Alice in Wonderland\"\n\n### Historical Polish Editions\n\nThe first Polish translation, by Adela S. (surname unknown) appeared in 1910 published by M. Arct Publishing House in Warsaw.(no content)Its title was quite strange for us - \"Adventures of Alinka in Wonderland,\" with \"wonders\" instead of \"magic\" on the title page, and additional information stating that the 90th English edition was used for the translation.(no content)In total, 11 Polish translations have been published to date.\n\n### Notable Polish Illustrators\n\n**Kamil Mackiewicz** - Illustrations by Kamil Mackiewicz were featured in what appears to be an early Polish edition titled \"Ala w krainie czar\u00f3w,\" as the original Polish title reads.(no content)This is a 1927 publication, and early Polish editions of this work are considered true rarities.\n\n### International Context\n\nOver 155 years, the book has been illustrated by probably several hundred creators.(no content)In 1907, Tenniel's exclusive rights expired and 12 different illustrators published their versions.\n\n### Contemporary Polish Connections\n\nTomasz Sikora created in 1978-1979 together with Marcin Mroszczak a series of photographs inspired by Carroll's book \"Alice in Wonderland.\"\n\n### Czech-Polish Publishing Connection\n\nA new Polish edition of \"Alice in Wonderland,\" prepared by ALFA Publishing, was based on \"Alica v krajine z\u00e1zrakov\" by Mlad\u00e9 let\u00e1 Publishing in Bratislava from 1981. The Slovak edition won Grand Prix at the Biennial of Illustration Bratislava - 1983, Gold Medal at Internationale Buch Ausstellung - Leipzig - 1983, Gold Medal at the illustration biennial in Barcelona (1984).\n\nThe search reveals that while there were Polish illustrators who worked on \"Alice in Wonderland,\" detailed information about specifically Polish illustrators of children's books working on this classic is limited in the available sources. The most notable Polish illustrator mentioned is Kamil Mackiewicz from the 1927 edition."
+    ],
+    "durationSeconds": 23.67117981300014
+  }
+}

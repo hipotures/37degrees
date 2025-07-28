@@ -1,0 +1,63 @@
+{
+  "session_id": "715f4a06-6795-4697-b7aa-4344b3e12664",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/715f4a06-6795-4697-b7aa-4344b3e12664.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Lalka Boles\u0142aw Prus lektura obowi\u0105zkowa MEN podstawa programowa 2025"
+  },
+  "tool_response": {
+    "query": "Lalka Boles\u0142aw Prus lektura obowi\u0105zkowa MEN podstawa programowa 2025",
+    "results": [
+      "I'll search for information about \"Lalka\" by Boles\u0142aw Prus as a required reading in the 2025 curriculum.",
+      {
+        "tool_use_id": "srvtoolu_01Kxnb43z98CpRNqW2cWQyMq",
+        "content": [
+          {
+            "title": "Lalka - Boles\u0142aw Prus | lektury szkolne z om\u00f3wieniem - Wydawnictwo Greg",
+            "url": "https://www.greg.pl/lektury/8,312_Lalka.html"
+          },
+          {
+            "title": "Lalka - Boles\u0142aw Prus",
+            "url": "https://wolnelektury.pl/katalog/lektura/lalka/"
+          },
+          {
+            "title": "Lalka - Streszczenie szczeg\u00f3\u0142owe - Boles\u0142aw Prus - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/boleslaw-prus/lalka.streszczenie-szczegolowe"
+          },
+          {
+            "title": "Nowa lista lektur obowi\u0105zkowych \u2013 matura 2025 \u2013 j\u0119zyk polski \u2013 zmiana podstawy programowej - Baba od polskiego",
+            "url": "https://babaodpolskiego.pl/nowa-lista-lektur-obowiazkowych-matura-2025-jezyk-polski-zmiana-podstawy-programowej/"
+          },
+          {
+            "title": "Lalka - Streszczenie kr\u00f3tkie - Boles\u0142aw Prus - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/boleslaw-prus/lalka.streszczenie-krotkie"
+          },
+          {
+            "title": "Boles\u0142aw Prus: Lalka",
+            "url": "https://literat.ug.edu.pl/lalka/index.htm"
+          },
+          {
+            "title": "lalka.pdf",
+            "url": "https://wolnelektury.pl/media/book/pdf/lalka.pdf"
+          },
+          {
+            "title": "Nowa lista lektur 2024/2025. Kt\u00f3re lektury s\u0105 obowi\u0105zkowe dla szk\u00f3\u0142 podstawowych, a kt\u00f3re w liceum? | Strefa Edukacji",
+            "url": "https://strefaedukacji.pl/nowa-lista-lektur-obowiazujaca-od-1-wrzesnia-2024-r-jakie-zmiany-w-lekturach-wprowadzono/ar/c5-18308625"
+          },
+          {
+            "title": "BOLES\u0141AW PRUS",
+            "url": "https://liceum7.edu.pl/wp-content/uploads/2018/08/Boleslaw-Prus-Lalka.pdf"
+          },
+          {
+            "title": "Lalka Opracowanie i interpretacja do matury! | Boles\u0142aw Prus",
+            "url": "https://jpmatura.pl/lektury/lalka/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with information about \"Lalka\" by Boles\u0142aw Prus as a required reading in the 2025 curriculum:\n\n## Status of \"Lalka\" in the 2025 Curriculum\n\n\"Lalka\" by Boles\u0142aw Prus remains on the list of required readings for the 2025 matura (high school graduation exam). According to the search results from May 2025, the novel is still included in the core curriculum despite recent changes to reduce the reading list.\n\n## Recent Changes to the Curriculum\n\nThe Ministry of National Education signed a regulation reducing the core curriculum. From the 2024/2025 school year, a reduced core curriculum is in effect.\n\n### What Changed:\n- In elementary school, \"Quo vadis\" and \"Pan Tadeusz\" are now only required in fragments\n- \"Katarynka\" by Boles\u0142aw Prus was removed from the required reading list\n- High school students no longer read \"Z legend dawnego Egiptu\" by Boles\u0142aw Prus, and \"Potop\" by Henryk Sienkiewicz is now read only in fragments\n\n### What Remained:\nThe list of major works that remain required for high school includes: Boles\u0142aw Prus's \"Lalka\", Fiodor Dostojewski's \"Zbrodnia i kara\", Stanis\u0142aw Wyspia\u0144ski's \"Wesele\", Stefan \u017beromski's \"Przedwio\u015bnie\", Hanna Krall's \"Zd\u0105\u017cy\u0107 przed Panem Bogiem\", Albert Camus's \"D\u017cuma\", George Orwell's \"Rok 1984\", and S\u0142awomir Mro\u017cek's \"Tango\".\n\n## About \"Lalka\"\n\n\"Lalka\" is Boles\u0142aw Prus's most famous novel, originally published in installments in \"Kurier Codzienny\" and first published as a book in 1890. The main character is Stanis\u0142aw Wokulski, a wealthy Warsaw merchant and philanthropist, unhappily in love with an aristocrat, Izabela \u0141\u0119cka.\n\nThe novel is considered one of the masterpieces of Polish positivist literature and continues to be an essential part of Polish literary education at the high school level."
+    ],
+    "durationSeconds": 24.26333130099997
+  }
+}

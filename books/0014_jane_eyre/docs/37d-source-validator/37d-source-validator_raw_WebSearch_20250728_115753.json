@@ -1,0 +1,63 @@
+{
+  "session_id": "8e805751-7ed1-426e-875a-fb36a84c1caa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8e805751-7ed1-426e-875a-fb36a84c1caa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Charlotte Bront\u00eb birth death dates family biography Patrick Bront\u00eb Maria Branwell"
+  },
+  "tool_response": {
+    "query": "Charlotte Bront\u00eb birth death dates family biography Patrick Bront\u00eb Maria Branwell",
+    "results": [
+      "I'll search for information about Charlotte Bront\u00eb's birth and death dates, family, and biography, including details about her parents Patrick Bront\u00eb and Maria Branwell.",
+      {
+        "tool_use_id": "srvtoolu_01PiFZtqkiSYxK2wfTRS4q89",
+        "content": [
+          {
+            "title": "Charlotte Bront\u00eb - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Charlotte_Bront%C3%AB"
+          },
+          {
+            "title": "Bront\u00eb family - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Bront%C3%AB_family"
+          },
+          {
+            "title": "The lives of the Bront\u00ebs | The Bront\u00eb Parsonage Museum",
+            "url": "https://www.bronte.org.uk/about-the-brontes/the-lives-of-the-brontes"
+          },
+          {
+            "title": "Charlotte Bront\u00eb: A Brief Biography",
+            "url": "https://victorianweb.org/authors/bronte/cbronte/brontbio.html"
+          },
+          {
+            "title": "Charlotte Bronte | Biography, Books, Novels, Jane Eyre, & Facts | Britannica",
+            "url": "https://www.britannica.com/biography/Charlotte-Bronte"
+          },
+          {
+            "title": "Charlotte Bront\u00eb | EBSCO Research Starters",
+            "url": "https://www.ebsco.com/research-starters/history/charlotte-bronte"
+          },
+          {
+            "title": "Charlotte Bront\u00eb - Biography - IMDb",
+            "url": "https://www.imdb.com/name/nm0111576/bio/"
+          },
+          {
+            "title": "Charlotte Bront\u00eb | Writer",
+            "url": "https://m.imdb.com/name/nm0111576/"
+          },
+          {
+            "title": "Charlotte Bront\u00eb | The Poetry Foundation",
+            "url": "https://www.poetryfoundation.org/poets/charlotte-bronte"
+          },
+          {
+            "title": "Charlotte Bront\u00eb | Classic Literature Wikia | Fandom",
+            "url": "https://classic-literature.fandom.com/wiki/Charlotte_Bront%C3%AB"
+          }
+        ]
+      },
+      "Based on the search results, here's comprehensive information about Charlotte Bront\u00eb's birth and death dates, family, and biography:\n\n## Charlotte Bront\u00eb - Key Biographical Information\n\n### Birth and Death Dates\n- **Birth:** Charlotte Bront\u00eb was born on April 21, 1816, in Thornton, Yorkshire, England\n- **Death:** Charlotte died in 1855 at age 38, believed to be the result of pregnancy complications\n\n### Parents\n- **Father:** Patrick Bront\u00eb (1777-1861), an Anglican clergyman who was Irish-born and had changed his name from the more commonplace Brunty\n- **Mother:** Maria Branwell Bront\u00eb (15 April 1783 \u2013 15 September 1821), born in Penzance, Cornwall, from a comfortably well-off, middle-class family\n\n### Siblings\nCharlotte had five siblings:\n1. Maria (1814\u20131825) - died young from disease\n2. Elizabeth (1815\u20131825) - died young from disease\n3. Patrick Branwell (1817\u20131848) - brother who was a writer and artist\n4. Emily (1818-1848) - sister and novelist\n5. Anne (1820-1849) - sister and novelist\n\n### Key Family Events\n- In 1820, the Bront\u00ebs moved to the village of Haworth, where Patrick had been offered the position of perpetual curate\n- Maria Bront\u00eb died on September 15th, 1821, when Charlotte was only five years old\n- After Maria's death, her sister Elizabeth Branwell (known as Aunt Branwell) moved from Cornwall to help care for the children\n\n### Marriage and Later Life\n- In 1854, Charlotte married her father's curate, the Reverend Arthur Bell Nicholls\n- She died the following year in 1855, believed to be from pregnancy complications\n\n### Family Tragedies\nThe Bront\u00eb family was marked by tragedy:\n- Maria and Elizabeth died in 1825 after falling gravely ill at school\n- Tuberculosis afflicted Maria and Elizabeth in 1825, and also caused the deaths of Branwell in September 1848, Emily in December 1848, and Anne in May 1849\n- Patrick Bront\u00eb survived his entire family, dying in 1861 at age 84\n\n### Literary Career\n- The sisters published under the pseudonyms Currer, Ellis and Acton Bell to avoid gender discrimination\n- In 1847 Charlotte published her most famous book, \"Jane Eyre\", under the pseudonym Currer Bell\n\nThe Bront\u00eb family story is one of remarkable literary achievement despite profound personal tragedy, with Charlotte emerging as one of the most important Victorian novelists."
+    ],
+    "durationSeconds": 29.93831003900012
+  }
+}

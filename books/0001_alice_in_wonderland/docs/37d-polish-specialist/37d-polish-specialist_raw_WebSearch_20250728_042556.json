@@ -1,0 +1,63 @@
+{
+  "session_id": "ac25dab5-19ee-43b4-8689-cf24d65d211d",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ac25dab5-19ee-43b4-8689-cf24d65d211d.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "CKE arkusze maturalne literatura angielska \"Alice in Wonderland\" Carroll"
+  },
+  "tool_response": {
+    "query": "CKE arkusze maturalne literatura angielska \"Alice in Wonderland\" Carroll",
+    "results": [
+      "I'll search for CKE (Central Examination Commission in Poland) exam sheets related to English literature and \"Alice in Wonderland\" by Carroll.",
+      {
+        "tool_use_id": "srvtoolu_01UwKR47JiCJEkbWy5arh3UC",
+        "content": [
+          {
+            "title": "Angielski. Alice in Wonderland/ Alicja w Krainie Czar\u00f3w. Adaptacja klasyki z \u0107wiczeniami - Lewis Carroll | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5061675/angielski-alice-in-wonderland-alicja-w-krainie-czarow-adaptacja-klasyki-z-cwiczeniami"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Alicja_w_Krainie_Czar%C3%B3w"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w. Alice in Wonderland. Angielski z \u0107wiczeniami | Lewis Carroll (Ksi\u0105\u017cka) - Ksi\u0119garnia matras.pl",
+            "url": "https://www.matras.pl/p/alicja-w-krainie-czarow-alice-in-wonderland-angielski-z-cwiczeniami-lewis-carroll-207244"
+          },
+          {
+            "title": "Alice in Wonderland - adaptacja klasyki do nauki j\u0119zyka angielskiego | Ksi\u0105\u017cka w oryginale do nauki angielskiego",
+            "url": "https://www.jezykiobce.pl/angielski/2537-alice-in-wonderland-alicja-w-krainie-czarow-lewis-carrol-adaptacja-klasyki-z-cwiczeniami-jezyk-angielski-9788367215718.html"
+          },
+          {
+            "title": "Alice in Wonderland Lewis Carroll w sklepie TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/alice-in-wonderland-lewis-carroll"
+          },
+          {
+            "title": "Alice in Wonderland. Alicja w Krainie Czar\u00f3w w wersji do nauki angielskiego Lewis Carroll | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/alice-in-wonderland-alicja-w-krainie-czarow-w-wersji-do-nauki-angielskiego-lewis-carroll-p-1654832.html"
+          },
+          {
+            "title": "Alice's Adventures in Wonderland Study Guide | Literature Guide | LitCharts",
+            "url": "https://www.litcharts.com/lit/alice-s-adventures-in-wonderland"
+          },
+          {
+            "title": "Alice's Adventures in Wonderland - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Alice's_Adventures_in_Wonderland"
+          },
+          {
+            "title": "Alice in Wonderland. Alicja w Krainie Czar\u00f3w. Angielski z \u0107wiczeniami. Poziom B1-B2 Lewis Carroll | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/alice-in-wonderland-alicja-w-krainie-czarow-angielski-z-cwiczeniami-poziom-b1-b2-lewis-carroll-p-1618730.html"
+          },
+          {
+            "title": "Alicja w Krainie Czar\u00f3w. Alice in Wonderland. Angielski z \u0107wiczeniami | Lewis Carroll (Ksi\u0105\u017cka) - Ksi\u0119garnia znak.com.pl",
+            "url": "https://www.znak.com.pl/p/alicja-w-krainie-czarow-alice-in-wonderland-angielski-z-cwiczeniami-lewis-carroll-207244"
+          }
+        ]
+      },
+      "Based on the search results, I found information about \"Alice in Wonderland\" by Lewis Carroll in the context of Polish educational materials and English learning resources, though I didn't find specific CKE (Central Examination Commission) exam sheets for this work.\n\nHere's what the search revealed:\n\n## Educational Materials Found:\n\nThe book \"Alice's Adventures in Wonderland\" was published in 1865 by Charles Lutwidge Dodgson under the pseudonym Lewis Carroll. It is an English children's novel by Lewis Carroll, a mathematics don at the University of Oxford.\n\n### Polish Educational Adaptations:\n\nSeveral Polish publishers offer adaptations of \"Alice in Wonderland\" specifically designed for English language learning:\n\n1. **English Learning Editions**: There are adaptations of Alice in Wonderland with vocabulary and exercises adjusted to different proficiency levels. These include versions for B1-B2 English levels with exercises.\n\n2. **Polish Translations**: The first Polish translations used titles like \"Przygody Alinki w krainie cud\u00f3w\" (Adventures of Alinka in the Land of Wonders), translating \"Wonderland\" as \"Kraina Czar\u00f3w\" (Land of Magic), though the book doesn't actually contain magic.\n\n### Literary Significance:\n\nThe work is considered an example of the literary nonsense genre. The book showcases the absurd logic of dreams and is full of satirical allusions to Dodgson's friends and enemies, parodies of school poems that British children learned in the 19th century, and contains linguistic and mathematical references.\n\nIt is now one of the best-known works of Victorian literature with widespread influence on popular culture and literature, especially in the fantasy genre. It is credited with helping end an era of didacticism in children's literature, inaugurating an era in which writing aimed to \"delight or entertain.\" The tale plays with logic, giving it lasting popularity with both adults and children.\n\n### Study Resources:\n\nLitCharts offers a comprehensive study guide for \"Alice's Adventures in Wonderland\" created by the team behind SparkNotes, which includes summaries, analysis, and quotes.\n\nUnfortunately, the search didn't return specific CKE matura exam sheets for \"Alice in Wonderland.\" To find official CKE materials, you might need to visit the CKE website directly or search for specific exam years when this work might have been included in the English literature matura exam."
+    ],
+    "durationSeconds": 31.149142735000233
+  }
+}

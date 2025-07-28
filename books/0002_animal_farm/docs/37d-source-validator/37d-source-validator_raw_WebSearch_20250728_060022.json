@@ -1,0 +1,63 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "CIA balloon propaganda operations Animal Farm Eastern Europe Cold War 1950s historical documents"
+  },
+  "tool_response": {
+    "query": "CIA balloon propaganda operations Animal Farm Eastern Europe Cold War 1950s historical documents",
+    "results": [
+      "I'll search for information about CIA balloon propaganda operations involving Animal Farm in Eastern Europe during the Cold War era.",
+      {
+        "tool_use_id": "srvtoolu_01DtVDBpt9fXkcyBFH7qLrxM",
+        "content": [
+          {
+            "title": "Animal Farm: The Movie That Helped CIA Spies Win the Cold War",
+            "url": "https://spyscape.com/article/how-cia-spies-used-george-orwell-to-help-win-the-cold-war"
+          },
+          {
+            "title": "The CIA Slipped 'Animal Farm' Over The Iron Curtain Via Balloon | Cracked.com",
+            "url": "https://www.cracked.com/article_32329_the-cia-slipped-animal-farm-over-the-iron-curtain-via-balloon.html"
+          },
+          {
+            "title": "Animal Farm: How the CIA Turned Orwell's Literary Classic Into a PsyOps Mission",
+            "url": "https://spyscape.com/article/spy-tricks-the-cia-mission-to-turn-orwells-animal-farm-into-cold-war-weapon"
+          },
+          {
+            "title": "Animal Farm - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Animal_Farm"
+          },
+          {
+            "title": "The Cold War\u2019s War of Words | Cold War",
+            "url": "https://coldwarstudies.com/2019/10/15/the-cold-wars-war-of-words/"
+          },
+          {
+            "title": "Squealers & Spies: Cocktails, Galas & Secrets of the CIA-Backed Film Animal Farm",
+            "url": "https://spyscape.com/article/squealers-spies-behind-the-scenes-of-the-cia-backed-movie-animal-farm"
+          },
+          {
+            "title": "Orwell Subverted: The CIA and the Filming of Animal Farm By Daniel J. Leab",
+            "url": "https://www.psupress.org/books/titles/978-0-271-02978-8.html"
+          },
+          {
+            "title": "The Strange History of Animal Farm | by Fox in the snow | Medium",
+            "url": "https://medium.com/@ifox_/the-strange-history-of-animal-farm-320bd8e092f8"
+          },
+          {
+            "title": "Cold War atmosphere: Distorted information and facts in the case of Free Europe balloons - Georgiev - 2019 - Centaurus - Wiley Online Library",
+            "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/1600-0498.12225"
+          },
+          {
+            "title": "Cold War propaganda",
+            "url": "https://alphahistory.com/coldwar/cold-war-propaganda/"
+          }
+        ]
+      },
+      "Based on my search results, I found extensive information about the CIA's balloon propaganda operations involving Animal Farm during the Cold War. Here are the key historical findings:\n\n## Operation Aedinosaur: The CIA's Balloon Campaign\n\nIn a colorful display of deceit and cunning, the CIA launched hot air balloons from West Germany in the 1950s and sent them drifting across the Iron Curtain to deliver their prized cargo - George Orwell's novel Animal Farm (1945).(no content)Between 1952 and 1957, the CIA, in an operation codenamed Aedinosaur, sent millions of balloons carrying copies of the novel into Poland, Hungary, and Czechoslovakia, whose air forces tried to shoot the balloons down.(no content)From 1952 to 1957, West German sites tied millions of copies of Animal Farm to 10-foot balloons and released them into nearby communist countries.(no content)Between February and May 1955, a group secretly funded by the Central Intelligence Agency inflated ten-foot balloons and armed them each with thirty CIA made copies of George Orwell's Animal Farm. The balloons were scheduled to drop their contents in Poland, deep behind the Iron Curtain.\n\n## The Strategic Context\n\nOperation AeDinosaur - as the literary spy mission was known - undermined Soviet censorship and used literature as a secret weapon to stir up intellectual debate about communism. The operation was part of a broader CIA psychological warfare campaign during the Cold War.\n\nE. Howard Hunt - later jailed as one of President Richard Nixon's Watergate 'plumbers' - ran the CIA's Psychological Warfare Workshop in the 1950s. He had a wide remit that included propaganda, economic warfare, sabotage, and subversion.\n\n## Military Response from Communist Countries\n\nBalloons that dodged enemy fire in Poland, Hungary, and Czechoslovakia wafted into hostile territory like silent grenades.(no content)The military in those countries eventually caught on and had orders to fire on the balloons\u2014when they spotted them, but they couldn't spot them all.\n\n## Broader CIA Cultural Warfare\n\nThe balloon operations were part of a larger CIA cultural offensive that included:\n\n- In 1974, E. Howard Hunt revealed that he had been sent by the CIA's Psychological Warfare department to obtain the film rights from Orwell's widow, and the resulting 1954 animation was funded by the agency.\n- The animated movie Animal Farm (1954) was part of a larger CIA culture war that extended to sponsoring Abstract Expressionist art exhibitions, musical concerts, magazines, and Hollywood movies to push the anti-communist agenda.\n\n## Impact and Effectiveness\n\nThe CIA people saw Animal Farm as a detailed, powerful, convincing \"allegory of corruption, betrayal, and tyranny in Communist Russia\"\u2014one that would serve well and effectively as a \"propaganda weapon.\" The film version was but one aspect of the American government's cultural offensive in the heyday of the Cold War, an offensive integral to a number of U.S. policies and strategies.(no content)It was used by the CIA to spread anti-Communist propaganda and illegally smuggled and copied into the Soviet Bloc where the punishment for reading it was imprisonment.\n\nThis historical operation demonstrates how the CIA utilized unconventional methods to penetrate the Iron Curtain with Western literature and ideas, using Orwell's allegorical novel as a tool for psychological warfare against Soviet communism during the height of the Cold War tensions in the 1950s."
+    ],
+    "durationSeconds": 40.52493374999985
+  }
+}

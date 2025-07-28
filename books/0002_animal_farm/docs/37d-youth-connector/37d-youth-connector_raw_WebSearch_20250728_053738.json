@@ -1,0 +1,67 @@
+{
+  "session_id": "22be9547-0aee-43e8-8e31-2ddecec4a52c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/22be9547-0aee-43e8-8e31-2ddecec4a52c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Animal Farm\" modern parallels politics \"social media influencers\" \"tech companies\" power concentration 2024"
+  },
+  "tool_response": {
+    "query": "\"Animal Farm\" modern parallels politics \"social media influencers\" \"tech companies\" power concentration 2024",
+    "results": [
+      "I'll search for information about modern parallels between Animal Farm and contemporary politics, particularly focusing on social media influencers and tech companies.",
+      {
+        "tool_use_id": "srvtoolu_01L5SdFu77jDUtQ1tEU3iTP3",
+        "content": []
+      },
+      {
+        "tool_use_id": "srvtoolu_01LTydF3PXCiFjPCrwXJvkVW",
+        "content": [
+          {
+            "title": "The Parable of Orwell\u2019s 2024 Silicon Valley Animal Farm - LewRockwell",
+            "url": "https://www.lewrockwell.com/2024/07/wayne-lusvardi/the-parable-of-orwells-2024-silicon-valley-animal-farm/"
+          },
+          {
+            "title": "Propaganda in \u201cAnimal Farm\u201d by George Orwell Report | Free Essay Example for Students",
+            "url": "https://aithor.com/essay-examples/propaganda-in-animal-farm-by-george-orwell-report"
+          },
+          {
+            "title": "The Rise In Social Media In George Orwell's Animal Farm | ipl.org",
+            "url": "https://www.ipl.org/essay/The-Rise-In-Social-Media-In-George-PJ76BABYVG"
+          },
+          {
+            "title": "The relevance of George Orwell\u2019s Animal Farm to modern politics - Vanguard News",
+            "url": "https://www.vanguardngr.com/2017/12/relevance-george-orwells-animal-farm-modern-politics/"
+          },
+          {
+            "title": "Modern day Leadership and George Orwell's Animal Farm",
+            "url": "https://www.linkedin.com/pulse/modern-day-leadership-george-orwells-animal-farm-jamiu-o-busari"
+          },
+          {
+            "title": "The warning of 'Animal Farm' remains relevant today",
+            "url": "https://www.deccanherald.com/opinion/in-perspective/the-warning-of-animal-farm-remains-relevant-today-874553.html"
+          },
+          {
+            "title": "\u201cAnimal Farm: A Timeless Critique of Political Power and Abuse\u201d | by binilbparakkal | Medium",
+            "url": "https://binilbparakkal.medium.com/animal-farm-a-timeless-critique-of-political-power-and-abuse-191c6f8a87f2"
+          },
+          {
+            "title": "Propaganda & Animal Farm | OER Commons",
+            "url": "https://oercommons.org/courseware/lesson/81250/overview"
+          },
+          {
+            "title": "The Power of Influence: How Social Media Influencers Are Shaping the 2024 USA Election | by Franky Arriola | Medium",
+            "url": "https://medium.com/@gettingfrankpodcast/the-power-of-influence-how-social-media-influencers-are-shaping-the-2024-usa-election-7f1ae05e338c"
+          },
+          {
+            "title": "Propaganda in the Animal Farm | Roles, Imagery & Examples - Lesson | Study.com",
+            "url": "https://study.com/learn/lesson/propaganda-animal-farm-role-imagery-examples.html"
+          }
+        ]
+      },
+      "Based on the search results, I can provide insights into modern parallels between George Orwell's \"Animal Farm\" and contemporary politics, particularly regarding social media influencers and tech companies.\n\n## Modern Parallels Between Animal Farm and 2024 Politics\n\n### Tech Companies and Power Concentration\n\n25 high tech Silicon Valley corporations that financed BLM and Antifa to destroy small business districts that competed for customer base of the Oligarchs. This example from a 2024 article draws a direct parallel between modern tech oligarchs and the power-hungry pigs in Animal Farm, suggesting that tech companies concentrate power by eliminating competition.\n\nhis legion of pigs was going to be slaughtered by government policy and replaced by artificial pork meat grown by high tech Artificial Intelligence (AI), creating a metaphor where traditional systems are replaced by tech-driven alternatives, similar to how the pigs in Animal Farm gradually replaced the original revolutionary ideals.\n\n### Social Media Influencers as Modern Propagandists\n\nthe Democratic National Committee (DNC) made a groundbreaking move in 2024 by granting press passes to social media influencers for the first time. This development shows how influencers are not just content creators \u2014 they are key players in modern political communication, paralleling how Squealer the pig served as Napoleon's propaganda minister in Animal Farm.\n\nSocial media influencers \u2014 those who command large followings on platforms like Instagram, TikTok, Twitter, and YouTube \u2014 are playing an increasingly significant role in shaping public opinion and, potentially, the election outcome. This mirrors the propaganda techniques used in Animal Farm where Propaganda is a method of communication that is intended to shape people's beliefs, attitudes, or actions.\n\n### The Corruption of Revolutionary Ideals\n\nWhat is interesting about the Animal Farm is the striking parallel with what is currently happening in different societies in Europe, Africa, North America. How over time, we have lost sight of our ideals, forgotten previous promises and seen how our leaders have changed. Like the pigs in the Animal Farm, they all became more like human beings over time.\n\nGeorge Orwell's Animal Farm is a powerful political allegory and satire that highlights the dangers of totalitarianism and the corrupting influence of power. Through its use of animals as characters and its exploration of themes such as propaganda, language, and leadership, the novel remains a relevant and important work of literature today.\n\n### Media Manipulation and Information Control\n\nAs a result of the rise in social media since the 20th century, fake news has become more and more popular, echoing the manipulation of truth in Animal Farm. \"News media may not be successful in telling people what to think, but they are stunning successful in telling them what to think about\".\n\nThese parallels suggest that Orwell's warnings about propaganda, power concentration, and the corruption of ideals remain highly relevant in 2024, with tech companies and social media influencers playing roles similar to the ruling pigs in Animal Farm."
+    ],
+    "durationSeconds": 35.250227159999774
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "session_id": "bb5bd92f-2e06-46b2-9b84-f65c0578b080",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/bb5bd92f-2e06-46b2-9b84-f65c0578b080.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Poland \"Ma\u0142y Ksi\u0105\u017c\u0119\" first translation 1947 \"Marta Malicka\" \"second translation in world after English\""
+  },
+  "tool_response": {
+    "query": "Poland \"Ma\u0142y Ksi\u0105\u017c\u0119\" first translation 1947 \"Marta Malicka\" \"second translation in world after English\"",
+    "results": [
+      "I'll search for information about the Polish translation of \"The Little Prince\" (Ma\u0142y Ksi\u0105\u017c\u0119) with the specific details you mentioned.",
+      {
+        "tool_use_id": "srvtoolu_01EnuXbdYp4Fas6UgettFVy1",
+        "content": []
+      },
+      "Based on the search results, I can provide you with information about the Polish translation of \"The Little Prince\":\n\nThe first Polish translation of \"The Little Prince\" was indeed made by Marta Malicka and published in 1947.(no content)It was titled \"Ma\u0142y Ksi\u0105\u017c\u0119\" and was published by the Wac\u0142aw Czarski publishing house in Warsaw.\n\nHowever, while this Polish translation from 1947 was one of the earliest translations in the world, it wasn't the second after English.(no content)The book was originally written in French in 1943, and several translations appeared before the Polish one, including Spanish (1946) and Portuguese (1946).(no content)Marta Malicka's translation became a classic and was reprinted many times, maintaining its popularity for decades.(no content)Interestingly, a new Polish translation by Anna Gosty\u0144ska was published in 2018, after more than 70 years of the Malicka version being the standard.\n\nThe Polish translation holds a special place in the history of \"The Little Prince\" translations as one of the earliest versions to appear after World War II, helping to spread Saint-Exup\u00e9ry's beloved work across Eastern Europe."
+    ],
+    "durationSeconds": 14.918358880999964
+  }
+}
