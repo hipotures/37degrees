@@ -1,0 +1,63 @@
+{
+  "session_id": "abba3f5a-b5aa-49e3-9bda-f1f6b93e098c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/abba3f5a-b5aa-49e3-9bda-f1f6b93e098c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "teenagers gaming culture power corruption leaders Napoleon Animal Farm among us minecraft discord moderators 2024"
+  },
+  "tool_response": {
+    "query": "teenagers gaming culture power corruption leaders Napoleon Animal Farm among us minecraft discord moderators 2024",
+    "results": [
+      "I'll perform a web search with the query you specified.",
+      {
+        "tool_use_id": "srvtoolu_014iVoxYGd9EXv6bAKNafVeF",
+        "content": [
+          {
+            "title": "Top 10 Minecraft Discord Servers for 2024",
+            "url": "https://www.orangewebsite.com/articles/minecraft-discord-servers/"
+          },
+          {
+            "title": "Playing with Hate: How Far-Right Extremists Use Minecraft to Gamify Radicalisation \u2013 GNET",
+            "url": "https://gnet-research.org/2025/07/02/playing-with-hate-how-far-right-extremists-use-minecraft-to-gamify-radicalisation/"
+          },
+          {
+            "title": "Discord Comes Under Fire for Alleged Moderator Abuse and Furry Corruption - Newsweek",
+            "url": "https://www.newsweek.com/discord-furries-terms-service-community-guidelines-1323099"
+          },
+          {
+            "title": "Wpmucdn",
+            "url": "https://bpb-us-w2.wpmucdn.com/u.osu.edu/dist/6/123362/files/2024/03/LEGVol4-2fd62e4995a943cb.pdf"
+          },
+          {
+            "title": "Anonymous (hacker group) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Anonymous_(hacker_group)"
+          },
+          {
+            "title": "Minecraft YouTuber Gerg responds to allegations of being racially abusive on Discord",
+            "url": "https://www.sportskeeda.com/us/streamers/news-minecraft-youtuber-gerg-responds-allegations-racially-abusive-discord"
+          },
+          {
+            "title": "Giant Bomb Discord Moderators' Top Games of 2024 - Giant Bomb",
+            "url": "https://www.giantbomb.com/articles/giant-bomb-discord-moderators-top-games-of-2024/1100-6465/"
+          },
+          {
+            "title": "Revolution and Corruption Theme in Animal Farm | LitCharts",
+            "url": "https://www.litcharts.com/lit/animal-farm/themes/revolution-and-corruption"
+          },
+          {
+            "title": "Libcom",
+            "url": "https://files.libcom.org/files/Woodcock_Crystal_Spirit.pdf"
+          },
+          {
+            "title": "Animal Farm: Absolute Power Corrupts Absolutely - Free Essay Example - 1179 Words | PapersOwl.com",
+            "url": "https://papersowl.com/examples/absolute-power-in-george-orwells-animal-farm/"
+          }
+        ]
+      },
+      "The search results provide fascinating insights connecting gaming culture, power dynamics, corruption, and youth communities in 2024. Here are the key findings:\n\n## Gaming Culture and Power Dynamics\n\nFar-right extremist networks have turned Minecraft, one of the world's most popular online games, into a tool for ideological grooming and radicalisation by creating immersive, gamified spaces that embed hateful narratives into familiar gameplay mechanics, turning gaming culture into recruitment infrastructure.\n\n## Discord Moderation and Power Corruption\n\nDiscord has seen an internal scandal involving site moderators who fail to enforce platform rules due to personal bias, specifically among moderators and community members who identify as Furries, with a #ChangeDiscord movement emerging when users learned that some moderators selectively banned communities in violation of their own code of conduct.\n\n## Minecraft's Vulnerability to Abuse\n\nAs of 2024, 43% of Minecraft's player base are aged 15\u201321, making it particularly concerning for youth exposure to problematic content. Minecraft is particularly vulnerable to abuse due to its unique blend of accessibility, community-driven content, and low moderation thresholds, with the Java edition having a more open ecosystem allowing users to share custom content via third-party launchers with minimal moderation for extremist material.\n\n## Animal Farm Parallels in Gaming Communities\n\nThe search results reveal striking parallels between Orwell's Animal Farm themes and modern gaming communities. The most corrupt behavior involves modifying rules to legalize whatever leaders want to do, which most don't notice while those who do are either cowed into silence or punished, with this combination of fear and unthinking trust being crucial elements that allow corruption to flourish.\n\n## Community Dynamics and Power\n\nSome Minecraft Discord communities are well-moderated by admins and moderators, being among the few without toxicity or trolling members, showing that proper leadership can prevent the corruption seen elsewhere.\n\nThe search reveals how gaming platforms in 2024 mirror classic themes of power corruption, with young users particularly vulnerable to manipulation by those in positions of authority - whether Discord moderators, server admins, or extremist groups exploiting gaming culture for recruitment."
+    ],
+    "durationSeconds": 19.918088517000026
+  }
+}

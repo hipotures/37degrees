@@ -1,0 +1,62 @@
+{
+  "session_id": "43e12ea9-84a2-4345-8d62-d857a85435cd",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/43e12ea9-84a2-4345-8d62-d857a85435cd.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Emma Woodhouse\" relationship red flags dating advice modern lessons toxic behavior"
+  },
+  "tool_response": {
+    "query": "\"Emma Woodhouse\" relationship red flags dating advice modern lessons toxic behavior",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01AwNLYefrAUxFQ6m7sFeFm6",
+        "content": [
+          {
+            "title": "Red Flags in a Relationship: 16 Signs You Shouldn't Ignore",
+            "url": "https://www.betterup.com/blog/red-flags-in-a-relationship"
+          },
+          {
+            "title": "Emma | Jane Austen, Summary, Characters, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/Emma-novel-by-Austen"
+          },
+          {
+            "title": "Why do so many people hate Emma Woodhouse? - Quora",
+            "url": "https://www.quora.com/Why-do-so-many-people-hate-Emma-Woodhouse"
+          },
+          {
+            "title": "Emma Woodhouse Character Analysis in Emma | LitCharts",
+            "url": "https://www.litcharts.com/lit/emma/characters/emma-woodhouse"
+          },
+          {
+            "title": "Emma Woodhouse in Emma by Jane Austen | Traits, Analysis & Quotes | Study.com",
+            "url": "https://study.com/academy/lesson/emma-woodhouse-jane-austen-summary-analysis-quotes.html"
+          },
+          {
+            "title": "I'm a match to Emma Woodhouse from Emma",
+            "url": "https://www.charactour.com/hub/characters/view/Emma-Woodhouse.Emma"
+          },
+          {
+            "title": "Life advice from 'Emma' - The Princetonian",
+            "url": "https://www.dailyprincetonian.com/article/2023/03/princeton-emma-woodhouse-book-review-womens-history-month-2023"
+          },
+          {
+            "title": "10 Red Flags in Teen Relationships | CASWA",
+            "url": "https://www.caswa.org.uk/blog/10-red-flags-in-teen-relationships"
+          },
+          {
+            "title": "Emma Woodhouse: Poverty, Marriage & Pedestals! \u2013 Austenprose",
+            "url": "https://austenprose.com/2009/01/24/emma-woodhouse-poverty-marriage-pedestals/"
+          },
+          {
+            "title": "Emma Woodhouse - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Emma_Woodhouse"
+          }
+        ]
+      },
+      "Based on the search results, I can provide insights into how Emma Woodhouse's character exhibits behaviors that modern dating advice would identify as red flags, along with the lessons we can learn from her character:\n\n## Emma Woodhouse's Problematic Behaviors\n\nEmma is spoiled, meddlesome, and self-deluded, with her major flaws being a combination of vanity and pride - she thinks too highly of herself and believes herself possessed of great discernment in matchmaking. These traits manifest in several concerning ways:\n\n### Controlling and Manipulative Behavior\nEmma feels entitled to meddle in her friend's affairs, likes Harriet in part because she is relatively easy to control, and treats the people around her like dolls that she can arrange for her own amusement. This aligns with modern red flags about overly controlling behavior, where people try to control your movements, decisions, or beliefs and are more concerned about what they want than what is best for you.\n\n### Lack of Genuine Respect and Class-Based Prejudice\nEmma meddles in the love life of young Harriet Smith, who Emma believes should marry up in class instead of down. Her class consciousness and tendency to look down on others demonstrates a lack of genuine respect for people's autonomy and choices.\n\n### Self-Centered Worldview\nAt the start, Emma is supremely self-confident, believing she knows best, and nothing has happened in her life that has caused her to suffer, with her actions never having had serious consequences. This mirrors the red flag of narcissism and aggression in relationships.\n\n## Modern Dating Red Flags Emma Exhibits\n\n- **Controlling behavior**: Attempting to manipulate others' romantic choices\n- **Lack of empathy**: Prioritizing her own amusement over others' wellbeing\n- **Entitlement**: Feeling she has the right to interfere in others' lives\n- **Superficial judgments**: Making decisions based on class rather than character\n\n## Positive Lessons and Character Growth\n\nHowever, Emma's character arc provides valuable lessons. Despite these flaws, Emma's understanding and good nature allow her to learn from her mistakes and cultivate kindness and humility.(no content)Emma is a dynamic character who changes over the course of the book as she learns more about her friends and recognizes her mistakes.\n\nThe modern takeaway is that while Emma initially exhibits toxic behaviors, her ability to grow and change demonstrates that people can overcome these problematic patterns through self-reflection and genuine remorse for their actions. Emma's character helps readers acknowledge their own self-worth and the importance of self-care, showing that conventional \"niceness\" and decorum are not the only ways to express care for yourself or those around you.\n\nEmma's story serves as both a cautionary tale about toxic relationship behaviors and a hopeful example of personal growth and redemption."
+    ],
+    "durationSeconds": 22.115724971000105
+  }
+}

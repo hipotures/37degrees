@@ -1,0 +1,62 @@
+{
+  "session_id": "7a96e064-9293-467f-8eb2-013e49aed0d1",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7a96e064-9293-467f-8eb2-013e49aed0d1.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "polski romantyzm kobiety literatura Anna Karenina por\u00f3wnanie XIX wiek"
+  },
+  "tool_response": {
+    "query": "polski romantyzm kobiety literatura Anna Karenina por\u00f3wnanie XIX wiek",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01QWj3BfNiL68ohRR4cCfcVZ",
+        "content": [
+          {
+            "title": "Lew To\u0142stoj \u2013 \"Anna Karenina\" | Subiektywnie o ksi\u0105\u017ckach",
+            "url": "https://www.subiektywnieoksiazkach.pl/2014/01/lew-tostoj-anna-karenina.html"
+          },
+          {
+            "title": "Miesi\u0119cznik Tw\u00f3rczo\u015b\u0107 \u00bb Anna Karenina to ja",
+            "url": "https://tworczosc.com.pl/artykul/anna-karenina-to-ja/"
+          },
+          {
+            "title": "Anna Karenina - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Anna_Karenina"
+          },
+          {
+            "title": "Dlaczego powie\u015b\u0107 To\u0142stoja \u201eAnna Karenina\u201d z 1877 roku wci\u0105\u017c rozbrzmiewa dzisiaj?",
+            "url": "https://www.greelane.com/pl/humanistyka/literatura/anna-karenina-study-guide-4151999/"
+          },
+          {
+            "title": "Anna Karenina - opracowanie (geneza, czas i miejsce akcji, bohaterowie)",
+            "url": "https://eszkola.pl/jezyk-polski/opracowanie-1668.html"
+          },
+          {
+            "title": "Kobieta i wiek XIX \u2013 zbli\u017cenia",
+            "url": "https://repozytorium.umk.pl/bitstream/handle/item/4532/LC.2017.034,Abriszewska,Radowska-Lisak.pdf?sequence=1"
+          },
+          {
+            "title": "Moralno\u015b\u0107 czy szwindel? \u2013 Nowa Orgia My\u015bli",
+            "url": "http://nowaorgiamysli.pl/index.php/2018/12/24/moralnosc-czy-szwindel/"
+          },
+          {
+            "title": "Anna Karenina - Lew To\u0142stoj | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5043957/anna-karenina"
+          },
+          {
+            "title": "\u201cAnna Karenina\u201d Lwa To\u0142stoja | Literatura saut\u00e9e",
+            "url": "https://www.literaturasautee.pl/lew-tolstoj-anna-karenina/"
+          },
+          {
+            "title": "Zdrada tragiczna albo groteskowa. \u201eAnna Karenina\u201d jako powie\u015b\u0107 wsp\u00f3\u0142czesna - Wi\u0119\u017a",
+            "url": "https://wiez.pl/2019/01/04/tragiczna-albo-groteskowa/"
+          }
+        ]
+      },
+      "Wyszukiwanie zosta\u0142o wykonane pomy\u015blnie. Oto wyniki dla zapytania \"polski romantyzm kobiety literatura Anna Karenina por\u00f3wnanie XIX wiek\":\n\n## Wyniki wyszukiwania\n\nWyszukiwanie zwr\u00f3ci\u0142o interesuj\u0105ce materia\u0142y dotycz\u0105ce \"Anny Kareniny\" Lwa To\u0142stoja w kontek\u015bcie literatury XIX wieku i postaci kobiecych. Oto kluczowe informacje:\n\n### Podstawowe informacje o powie\u015bci\n\nPowie\u015b\u0107 \"Anna Karenina\" powstawa\u0142a w latach 1873-1877 i \"Anna Karenina\" to swoista panorama \u017cycia arystokracji rosyjskiej w XIX wieku.\n\n### Kontekst literatury XIX wieku\n\nXIX wiek, w kt\u00f3rym otwarto kobietom dost\u0119p do tworzenia literatury, dot\u0105d zdominowanej przez m\u0119\u017cczyzn, faworyzowa\u0142 takie gesty. Nowe pr\u0105dy my\u015blowe pozytywizmu (g\u0142\u00f3wnie emancypacja kobiet) skutkowa\u0142y jeszcze cz\u0119stszym opisywania tego typu problem\u00f3w.\n\n### Por\u00f3wnania literackie\n\nAnn\u0119 Karenin\u0119 cz\u0119sto por\u00f3wnywano z Emm\u0105 Bovary: obie zdradzaj\u0105 m\u0119\u017c\u00f3w, kt\u00f3rych nie kochaj\u0105, obie ko\u0144cz\u0105 samob\u00f3jstwem. \n\n### Znaczenie postaci Anny Kareniny\n\nNiezaprzeczalnie sama Anna Karenina jest jedn\u0105 z najbardziej rozpoznawalnych kobiet wyst\u0119puj\u0105cych w literaturze \u015bwiatowej. Anna Karenina jest jedn\u0105 z najbardziej rozpoznawalnych bohaterek literatury realistycznej XIX wieku i pozostaje ona jedn\u0105 z najbardziej zmistyfikowanych bohaterek w historii literatury.\n\n### Kwestie spo\u0142eczne i emancypacyjne\n\nBohaterka staje si\u0119 ofiar\u0105 panuj\u0105cych w\u00f3wczas zasad i przekroczenia wyznaczonych granic, wykluczona z towarzystwa, ukazuje hipokryzj\u0119 elit i rosn\u0105cy problem emancypacji kobiet. Sam To\u0142stoj by\u0142 przeciwnikiem zr\u00f3wnania praw kobiet i m\u0119\u017cczyzn.\n\nRzecz w tym, \u017ce ani Prus, ani To\u0142stoj nie byli przekonani do emancypacji kobiet. Kobiety \u2014 reprezentowane przez Ann\u0119 Karenin\u0119 i Izabel\u0119 \u0141\u0119ck\u0105 \u2014 by\u0142y skr\u0119powane konwenansami epoki, a ich rzeczywiste pragnienia nigdy nie by\u0142y przez nie do ko\u0144ca sprecyzowane i wyartyku\u0142owane.\n\nWyszukiwanie pokazuje bogaty materia\u0142 analityczny dotycz\u0105cy miejsca \"Anny Kareniny\" w kontek\u015bcie literatury XIX wieku, szczeg\u00f3lnie w odniesieniu do przedstawienia kobiet i kwestii emancypacyjnych."
+    ],
+    "durationSeconds": 25.152405248000285
+  }
+}

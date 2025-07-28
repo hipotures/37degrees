@@ -1,0 +1,62 @@
+{
+  "session_id": "7bfa3f26-bffe-44f4-87bb-f54ec853c72a",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7bfa3f26-bffe-44f4-87bb-f54ec853c72a.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Ch\u0142opi modern references Polish TikTok social media contemporary culture"
+  },
+  "tool_response": {
+    "query": "Ch\u0142opi modern references Polish TikTok social media contemporary culture",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01QDtgnAucxyevt8fQcLSGMT",
+        "content": [
+          {
+            "title": "Urban Dictionary Milkshake: What It Is and How It Influences Culture - SlangSphere.com",
+            "url": "https://www.slangsphere.com/urban-dictionary-milkshake-what-it-is-and-how-it-influences-culture/"
+          },
+          {
+            "title": "TikTok - Make Your Day",
+            "url": "https://tiktok.com/tag/ch\u0142opi"
+          },
+          {
+            "title": "Top 19 TikTok Influencers in Poland: Find Polish TikTokers",
+            "url": "https://www.modash.io/find-influencers/tiktok/poland"
+          },
+          {
+            "title": "This movie deserves an oscar #ch\u0142opi #thepeasants #peasants #polish #p... | TikTok",
+            "url": "https://www.tiktok.com/@semper_78/video/7294642175801822496"
+          },
+          {
+            "title": "| THE PEASANTS | CH\u0141OPI | Polish movie based on a novel written by pol... | MovieTok | TikTok",
+            "url": "https://www.tiktok.com/@plndfolk/video/7276578334136454433"
+          },
+          {
+            "title": "(PDF) Word-Of-Mouth in Social Media. The Case of Polish Tourist Industry",
+            "url": "https://www.researchgate.net/publication/322337339_Word-Of-Mouth_in_Social_Media_The_Case_of_Polish_Tourist_Industry"
+          },
+          {
+            "title": "(PDF) Nowe media spo\u0142eczno\u015bciowe, a komunikacja na przyk\u0142adzie TikToka. New Social Media and Communication as Seen on Tiktok.",
+            "url": "https://www.researchgate.net/publication/379544154_Nowe_media_spolecznosciowe_a_komunikacja_na_przykladzie_TikToka_New_Social_Media_and_Communication_as_Seen_on_Tiktok"
+          },
+          {
+            "title": "Marketing on Polish TikTok - the most interesting examples | All 4 Comms",
+            "url": "https://all4comms.com/marketing-on-polish-tiktok-the-most-interesting-examples/"
+          },
+          {
+            "title": "Polish elections: TikTok overpromotes hard right content | Global Witness",
+            "url": "https://globalwitness.org/en/campaigns/digital-threats/tiktok-algorithm-recommends-twice-as-much-hard-right-content-to-users-ahead-of-polish-election/"
+          },
+          {
+            "title": "Opp Meaning Slang: Understanding the Term in Modern Culture - SlangSphere.com",
+            "url": "https://www.slangsphere.com/opp-meaning-slang-understanding-the-term-in-modern-culture/"
+          }
+        ]
+      },
+      "Based on the search results, I found some interesting content about \"Ch\u0142opi\" (The Peasants) in contemporary Polish culture and social media, particularly on TikTok. Here's what I discovered:\n\n## Ch\u0142opi in Modern Polish Social Media Culture\n\nThe search revealed that \"Ch\u0142opi\" (The Peasants) is actively discussed on Polish TikTok, particularly in relation to the acclaimed Polish film adaptation. The movie is based on a novel written by Polish author W\u0142adys\u0142aw Reymont, and has generated significant engagement on the platform.\n\n### TikTok Presence and Cultural Impact\n\nTikTok users are creating content about the film with hashtags like #ch\u0142opi #thepeasants #peasants #polish #poland #ch\u0142opiedit #w\u0142adys\u0142awrejmont, showing how this classic Polish literature is being reimagined for contemporary audiences. One particular TikTok video about the film received 15.7K likes and featured hashtags connecting it to Polish culture, literature, cinema, and cinematography.\n\nThe engagement suggests that \"Ch\u0142opi\" has found new relevance among younger Polish audiences through social media platforms, bridging traditional Polish literature with modern digital culture. Some users are even advocating for the film's recognition, with comments like \"This movie deserves an oscar\".\n\n### Broader Context of Polish Social Media\n\nThe search also revealed that there are nearly 915,000 Polish TikTok influencers with up to 500k followers, indicating a vibrant Polish social media ecosystem where cultural content like \"Ch\u0142opi\" can gain traction and reach contemporary audiences.\n\nThis shows how classic Polish literature and its modern adaptations are being rediscovered and celebrated by new generations through social media platforms, creating a bridge between traditional Polish cultural heritage and contemporary digital culture."
+    ],
+    "durationSeconds": 17.05280486199999
+  }
+}

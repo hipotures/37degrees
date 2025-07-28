@@ -1,0 +1,50 @@
+{
+  "session_id": "7bfa3f26-bffe-44f4-87bb-f54ec853c72a",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7bfa3f26-bffe-44f4-87bb-f54ec853c72a.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "polski uczniowie \"Nowy wspania\u0142y \u015bwiat\" soma antydepresanty social media uzale\u017cnienie"
+  },
+  "tool_response": {
+    "query": "polski uczniowie \"Nowy wspania\u0142y \u015bwiat\" soma antydepresanty social media uzale\u017cnienie",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01UjMqVfT91boembaCfA5X3d",
+        "content": [
+          {
+            "title": "Nadu\u017cywanie portali spo\u0142eczno\u015bciowych - Uzale\u017cnienia Behawioralne",
+            "url": "https://uzaleznieniabehawioralne.pl/siecioholizm/naduzywanie-portali-spolecznosciowych/"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Streszczenie szczeg\u00f3\u0142owe - Aldous Huxley - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/aldous-huxley/nowy-wspanialy-swiat.streszczenie-szczegolowe"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Aldous Huxley | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5043467/nowy-wspanialy-swiat"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Nowy_wspania\u0142y_\u015bwiat"
+          },
+          {
+            "title": "Natasza Szutta: \u201eNowy wspania\u0142y \u015bwiat\u201d i transhumanizm - Filozofuj!",
+            "url": "https://filozofuj.eu/natasza-szutta-nowy-wspanialy-swiat-transhumanizm/"
+          },
+          {
+            "title": "\"Nowy wspania\u0142y \u015bwiat\" - Aldous Huxley | Prawo do bycia nieszcz\u0119\u015bliwym [opracowanie]",
+            "url": "https://www.kulturonieznawczyni.com/post/nowy-wspania\u0142y-\u015bwiat-aldous-huxley-prawo-do-bycia-nieszcz\u0119\u015bliwym-opracowanie"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat (Serial TV 2020-2020) - Filmweb",
+            "url": "https://www.filmweb.pl/serial/Nowy+wspania\u0142y+\u015bwiat-2020-833866"
+          }
+        ]
+      },
+      "The search revealed several Polish sources discussing Aldous Huxley's \"Brave New World\" (Nowy wspania\u0142y \u015bwiat) and its relevance to modern topics including soma, social media addiction, and depression among Polish students. Here's what the search found:\n\nYoung people are particularly affected by social media phenomena, having the ability to function between two worlds, often considering the virtual one closer to them. This connects to the themes in Huxley's work where soma serves as a symbol of dystopia - a drug taken to avoid suffering, thinking, or awakening emotions.\n\nThe search results show Polish discussions about internet addiction and social media dependency that mirror the soma addiction described in Huxley's novel. Increasingly frequent user activity can lead to dangerous internet abuse and ultimately addiction, with time spent online becoming so time-consuming that users begin to neglect other spheres of their previous life.\n\nPolish sources also analyze how internet surfing is treated as an antidote to poor well-being, and contacts with virtual friends as medicine for loneliness, which parallels the function of soma in Huxley's dystopian society.\n\nThe relevance to Polish students is evident in discussions about how in this world, soma and sensory films replace authentic emotions, and laboratories create people devoid of free will, which on one hand tempts with the promise of painless happiness, but on the other raises questions about the price of such utopia.\n\nContemporary Polish analyses suggest that Brave New World can be treated as a hyperbole of transhumanist projects, making it particularly relevant for discussions about modern pharmaceutical interventions for mental health and social media's role in society."
+    ],
+    "durationSeconds": 17.12694525300013
+  }
+}

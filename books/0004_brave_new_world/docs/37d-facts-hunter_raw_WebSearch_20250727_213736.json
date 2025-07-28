@@ -1,0 +1,62 @@
+{
+  "session_id": "7bfa3f26-bffe-44f4-87bb-f54ec853c72a",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7bfa3f26-bffe-44f4-87bb-f54ec853c72a.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Brave New World 1932 initial reception controversy censorship banned countries reviews"
+  },
+  "tool_response": {
+    "query": "Brave New World 1932 initial reception controversy censorship banned countries reviews",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_018gcGHB1NhTdLrkaEStCFjs",
+        "content": [
+          {
+            "title": "Brave New World As One Of The Most Banned Or Controversial Books Over The Years | Free Essay Example for Students",
+            "url": "https://aithor.com/essay-examples/brave-new-world-as-one-of-the-most-banned-or-controversial-books-over-the-years"
+          },
+          {
+            "title": "Brave New World - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World"
+          },
+          {
+            "title": "Banned Books in Review: Brave New World \u00bb Sandpoint Reader",
+            "url": "https://sandpointreader.com/banned-books-in-review-brave-new-world/"
+          },
+          {
+            "title": "Banning of Brave New World by Aldous Huxley | Reasons & Irony - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/reason-brave-new-world-was-banned.html"
+          },
+          {
+            "title": "Brave New World | The Censorship Files",
+            "url": "https://thecensorshipfiles.wordpress.com/volume-1/issue-2/brave-new-world/"
+          },
+          {
+            "title": "15 Things You Might Not Know About Brave New World",
+            "url": "https://www.mentalfloss.com/article/64046/15-things-you-might-not-know-about-brave-new-world"
+          },
+          {
+            "title": "Aldous Huxley, \u201cBrave New World\u201d \u2013 The Banned Books Project",
+            "url": "https://bannedbooks.library.cmu.edu/aldous-huxley-brave-new-world/"
+          },
+          {
+            "title": "Brave New World | Summary, Context, & Reception | Britannica",
+            "url": "https://www.britannica.com/topic/Brave-New-World"
+          },
+          {
+            "title": "Brave New World: Dystopian Procreation and Censorship | Literature and Transgression",
+            "url": "https://transgresslit.wordpress.com/2014/04/27/brave-new-world-dystopian-procreation-and-censorship/"
+          },
+          {
+            "title": "DLS Reviews - Brave New World (1932)",
+            "url": "https://www.dlsreviews.com/brave-new-world.php"
+          }
+        ]
+      },
+      "The search results provide comprehensive information about \"Brave New World's\" initial reception and censorship history. Here's what the information reveals:\n\n## Initial Reception and Early Censorship (1932)\n\nThe reception of Brave New World at its publication was primarily negative. Many were offended by the nature of Huxley's future, and very few understood the novel's philosophical implications.(no content)In 1932, the book was banned in Ireland for its language, and for supposedly being anti-family and anti-religion.(no content)In 1932 it was banned in Australia and Ireland for language that was believed to go against familial and religious values, with the latter maintaining its censorship for five years.\n\n## Global Censorship Pattern\n\nOne of the earliest instances of censorship occurred in 1932 when Ireland banned the novel on the grounds that it was deemed \"blasphemous\" and \"indecent.\" This initial act set the stage for a pattern of censorship and controversy that would continue to surround the work.(no content)Ireland's action to censor the book became a trend in other countries. Quickly following afterwards, in the same year, Australia followed the trend.\n\n## Additional International Bans\n\nThe book was banned in India in 1967, with Huxley accused of being a \"pornographer\". Other sources note Another pivotal moment came in 1965 when Brave New World was banned in India for its depiction of a dystopian society, which was deemed as a negative portrayal of the country.\n\n## United States Censorship\n\nThe novel faced further challenges in the United States, where it was banned in several states for its alleged subversive and objectionable content.(no content)In the United States, there were eight separate accounts of censorship in states including Maryland, Missouri, Oklahoma, California, Alabama, Texas, Indiana, and Delaware, all of which occurred in US public schools.\n\n## Initial Commercial Success Despite Controversy\n\nInterestingly, despite the negative critical reception and bans, its first year sales in Britain alone reached 23,000 copies.\n\n## Reasons for Banning\n\nParents and teachers argue that the novel's themes of promiscuity, self-harm, and overall negativity are not suitable for children.(no content)Topics of sexuality, atheism, drug use, and racism are some of the most common issues that book banners raise when deeming Brave New World to be inappropriate and offensive.\n\nThe novel has maintained its controversial status, with It has landed on the American Library Association list of top 100 banned and challenged books of the decade since the association began the list in 1990."
+    ],
+    "durationSeconds": 22.519415906999726
+  }
+}

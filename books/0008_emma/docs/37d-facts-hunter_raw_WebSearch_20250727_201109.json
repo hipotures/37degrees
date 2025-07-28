@@ -1,0 +1,62 @@
+{
+  "session_id": "43e12ea9-84a2-4345-8d62-d857a85435cd",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/43e12ea9-84a2-4345-8d62-d857a85435cd.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Emma Jane Austen feminist reading mean girl archetype modern interpretations social media parallels"
+  },
+  "tool_response": {
+    "query": "Emma Jane Austen feminist reading mean girl archetype modern interpretations social media parallels",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01K5W22YQsgCTQea5VecmYFU",
+        "content": [
+          {
+            "title": "How Jane Austen's Works Impacted the Role of Women in ...",
+            "url": "https://encompass.eku.edu/cgi/viewcontent.cgi?article=1625&context=honors_theses"
+          },
+          {
+            "title": "Genderlessness in Jane Austen\u2019s \u201cEmma,\u201d a Guest Post from Lelia Eye",
+            "url": "https://reginajeffers.blog/2021/04/23/genderlessness-in-jane-austens-emma-a-guest-post-from-lelia-eye/"
+          },
+          {
+            "title": "Femininity, Pinterest, and the Appropriation of Jane Austen",
+            "url": "https://dc.etsu.edu/cgi/viewcontent.cgi?article=3729&context=etd"
+          },
+          {
+            "title": "Jane Austen's critique of patriarchal society in Pride and ...",
+            "url": "https://commons.emich.edu/cgi/viewcontent.cgi?article=2523&context=theses"
+          },
+          {
+            "title": "Between the lines: is a non-feminist approach to Jane Austen possible? \u2022 Adamah Media",
+            "url": "https://adamah.media/between-the-lines-is-a-non-feminist-approach-to-jane-austen-possible/"
+          },
+          {
+            "title": "Emma | Jane Austen, Summary, Characters, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/Emma-novel-by-Austen"
+          },
+          {
+            "title": "Emma (novel) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Emma_(novel)"
+          },
+          {
+            "title": "How does Emma Woodhouse by Jane Austen display multidimensional feminism? - Quora",
+            "url": "https://www.quora.com/How-does-Emma-Woodhouse-by-Jane-Austen-display-multidimensional-feminism"
+          },
+          {
+            "title": "Jane Austen Shows her Feminist Side in \"Emma\" - Owlcation",
+            "url": "https://owlcation.com/humanities/Jane-Austen-Shows-her-Feminist-Side-in-Emma"
+          },
+          {
+            "title": "(DOC) Jane Austen\u2019s \"Emma\" as a feminist novel",
+            "url": "https://www.academia.edu/110059182/Jane_Austen_s_Emma_as_a_feminist_novel"
+          }
+        ]
+      },
+      "The search results provide substantial scholarly discussion about Emma Woodhouse as a character, feminist interpretations of the novel, and some connections to modern perspectives. Here's what the search revealed:\n\n## Feminist Readings of Emma\n\nFeminist critics have identified her as an archetype of the modern woman, whose prospects and future happiness do not depend on marriage.(no content)Emma Woodhouse serves as a direct reflection of Jane Austen's feminist characterization of female heroines, in terms of both female individuality and independence (romantically, financially, etc.).\n\n## Emma as a \"Mean Girl\" Archetype\n\nThe search results reveal Emma's problematic behaviors that align with modern \"mean girl\" characteristics. She is also spoiled, meddlesome, and self-deluded.(no content)She wishes to maintain her masculine power, controlling her father and attempting \"to arrange everybody's destiny\" in Highbury. \n\nEmma's treatment of social hierarchy reflects mean girl dynamics: Through Emma, Austen subtly satirizes her society's obsession with social distinctions. At the beginning of the novel, Austen's heroine is confident she knows who \"the chosen and the best\" are in Highbury and who constitutes the \"second set.\"\n\n## Modern Interpretations and Social Media Parallels\n\nTV and film adaptations of Jane Austen novels either descend into rom-coms or recreate her characters as modern feminist icons. Some of the more recent spin-offs of Austen's fictional world have \"Lizzie\" Bennet as a graduate student and young professional still living at her parents' home, and Emma Woodhouse as a company-owning lifestyle coach and matchmaker. Both shows feature Austen's heroines as comically outspoken and tenacious \u2013 in a word, exaggerated 21st-century versions of the originals.\n\n## Complex Feminist Character\n\nThe scholarship reveals Emma as a complex figure who embodies contradictions typical of feminist readings: Emma begins with what might appear to be feminist leanings, for Emma picks and chooses qualities evinced by others to embrace and reject. Above all, she wishes to maintain her masculine power. However, one can find in Emma a feminist discontent bubbling below the surface. Austen seems to be less endorsing the workings of her society than expressing frustration at the plight of women.\n\nThe search results provide rich academic analysis of Emma as both a proto-feminist character and someone who exhibits controlling, manipulative behaviors that could be seen as precursors to modern \"mean girl\" archetypes, while also showing how contemporary adaptations have reimagined her for digital-age audiences."
+    ],
+    "durationSeconds": 21.087138287000357
+  }
+}

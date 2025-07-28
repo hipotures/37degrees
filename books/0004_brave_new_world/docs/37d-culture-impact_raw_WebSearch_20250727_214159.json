@@ -1,0 +1,63 @@
+{
+  "session_id": "7bfa3f26-bffe-44f4-87bb-f54ec853c72a",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7bfa3f26-bffe-44f4-87bb-f54ec853c72a.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Gen Z achievement culture academic pressure consumer pressure body image climate anxiety political apathy 2024 2025"
+  },
+  "tool_response": {
+    "query": "Gen Z achievement culture academic pressure consumer pressure body image climate anxiety political apathy 2024 2025",
+    "results": [
+      "I'll perform a web search using your specified query to find information about Gen Z and the various pressures and cultural factors you mentioned.",
+      {
+        "tool_use_id": "srvtoolu_01L2G3UqoveGY66ot74UaNM3",
+        "content": [
+          {
+            "title": "Gen Z and Climate Anxiety: Why the Youngest Generation Feels the Most Impacted by Climate Change",
+            "url": "https://globescan.com/2025/05/21/insight-of-the-week-gen-z-climate-impact/"
+          },
+          {
+            "title": "Australia\u2019s university Generation Z and its concerns about climate change | Sustainable Earth Reviews | Full Text",
+            "url": "https://sustainableearthreviews.biomedcentral.com/articles/10.1186/s42055-024-00075-w"
+          },
+          {
+            "title": "Climate change stokes anxiety in Gen Z. Especially in these states | Fortune",
+            "url": "https://fortune.com/2024/10/21/gen-z-climate-change-anxiety-states-future/"
+          },
+          {
+            "title": "12 Characteristics of Gen Z in 2025 | GWI",
+            "url": "https://www.gwi.com/blog/generation-z-characteristics"
+          },
+          {
+            "title": "The Deloitte Global 2024 Gen Z and Millennial Survey",
+            "url": "https://www.deloitte.com/global/en/issues/work/content/genz-millennialsurvey.html"
+          },
+          {
+            "title": "For Gen Z, Climate Change Is a Heavy Emotional Burden - Yale E360",
+            "url": "https://e360.yale.edu/features/for-gen-z-climate-change-is-a-heavy-emotional-burden"
+          },
+          {
+            "title": "Gen Z, Millennials Stand Out for Climate Change Activism, Social Media Engagement With Issue | Pew Research Center",
+            "url": "https://www.pewresearch.org/science/2021/05/26/gen-z-millennials-stand-out-for-climate-change-activism-social-media-engagement-with-issue/"
+          },
+          {
+            "title": "Deloitte\u2019s 2024 Gen Z and Millennial Survey | Deloitte Global",
+            "url": "https://www.deloitte.com/global/en/about/press-room/deloitte-2024-gen-z-and-millennial-survey.html"
+          },
+          {
+            "title": "What is Gen Z? | McKinsey",
+            "url": "https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-gen-z"
+          },
+          {
+            "title": "The Eco-Anxiety Epidemic: How Gen Z Activists are Channeling Fear into Solutions - Earth Day",
+            "url": "https://www.earthday.org/the-eco-anxiety-epidemic-how-gen-z-acitivists-are-channeling-fear-into-action/"
+          }
+        ]
+      },
+      "Based on my search, I found comprehensive information about Gen Z and the various pressures and challenges you mentioned. Here's what the research reveals:\n\n## Climate Anxiety and Environmental Concerns\n\nGen Z feels especially impacted by climate change according to global research across 31 markets. The research shows growing disengagement among Gen Z, with young people feeling much more personally affected by climate change than older generations, yet many are pulling back from sustainable behaviors. This represents a generational crisis of confidence, with the emotional toll being high, the complexity feeling overwhelming, and the perceived lack of leadership fueling apathy and withdrawal.(no content)A representative survey of 446 Australian university students revealed that climate change is the top environmental concern for Gen Z with 81% being significantly concerned. More than half of young people (50% in Australia and 56% globally) think that humanity is doomed.(no content)Gen Z is feeling climate anxiety the most. Being heavily engaged with Instagram, TikTok, Twitter, and other social platforms means climate disasters are \"way more in their face.\" There's a big decrease in climate anxiety as we go up to Gen X and boomers.\n\n## Academic and Achievement Pressures\n\nMental health is a significant issue for Gen Z. They're the most likely generation to say they're prone to anxiety (28% say this) and to report that social media stresses them out (18% say this). Since 2020, there's been a 25% rise in Gen Z reporting a mental health condition.(no content)Many Gen Z individuals are not achieving the work/life balance they seek. Around a third of respondents who regularly feel anxious or stressed say their job and work/life balance contribute significantly to their stress levels, fueled by long working hours (51% of both generations) and a lack of control over how or where they work (44%).\n\n## Consumer Pressures and Financial Concerns\n\nThree in 10 Gen Z say they do not feel financially secure, and roughly six in 10 live paycheck to paycheck. The cost of living remains their top concern by a wide margin compared to their other leading concerns, which include climate change, unemployment, mental health, and crime/personal safety.(no content)Contrary to stereotypes of financial recklessness, Gen Zs are smart with money. 59% of Gen Z making a New Year's resolution for 2025 plan to save more money, outpacing other generations.\n\n## Body Image and Social Media Impact\n\nY2K fashion might have made a comeback, but diet culture isn't making a return with Gen Z. Their approach to food is shifting toward health and practicality. In Europe, improving fitness overtook weight loss as the main motivator for dietary choices between Q3 2022 and Q3 2024.\n\n## Political Engagement vs. Apathy\n\nThere is some uncertainty about the social and political outlook, with only about a quarter of respondents believing it will improve in their country over the next year.(no content)Around half of Gen Zs (54%) say they and their colleagues are putting pressure on their employers to take action on climate change, a trend that has increased steadily in recent years. Two in 10 Gen Zs (20%) have already changed jobs or industry due to environmental concerns, with another quarter planning to in the future.\n\n## Overall Impact and Coping Mechanisms\n\nGen Z identity has been shaped by the digital age, climate anxiety, a shifting financial landscape, and COVID-19. Young people today have come of age in the shadow of climate doom, pandemic lockdowns, and fears of economic collapse. This pessimism is fueled by growing global unrest, wars and disruptions, financial crises, and educational interruptions. Feelings of \"climate anxiety\" are widely reported: many Gen Zers report that they think about the fate of the planet on a daily basis.(no content)Rather than letting eco-anxiety immobilize them, many Gen Zers are turning their despair into determination. This urgency is central to events like ZCON, a groundbreaking conference that transforms Gen Z values into tangible action by harnessing the power of social media and influencer-activist collaboration.\n\nThe research shows that Gen Z faces multiple interconnected pressures in 2024-2025, with climate anxiety being particularly prominent alongside financial stress, mental health challenges, and the unique pressures of being digital natives constantly exposed to global crises through social media."
+    ],
+    "durationSeconds": 31.751967097000218
+  }
+}

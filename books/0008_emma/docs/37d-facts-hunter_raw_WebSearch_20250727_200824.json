@@ -1,0 +1,62 @@
+{
+  "session_id": "43e12ea9-84a2-4345-8d62-d857a85435cd",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/43e12ea9-84a2-4345-8d62-d857a85435cd.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Emma Jane Austen polskie t\u0142umaczenia wydania polscy wydawcy historia"
+  },
+  "tool_response": {
+    "query": "Emma Jane Austen polskie t\u0142umaczenia wydania polscy wydawcy historia",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01CW7vLrNosVB9KFCHdcvMn1",
+        "content": [
+          {
+            "title": "Emma - Jane Austen | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5075511/emma"
+          },
+          {
+            "title": "Emma | Jane Austen (Ksi\u0105\u017cka) - Ksi\u0119garnia chodnikliteracki.pl",
+            "url": "https://chodnikliteracki.pl/p/emma-jane-austen-184028"
+          },
+          {
+            "title": "Jane Austen | Autorka: Wszystkie ksi\u0105\u017cki, wywiady, artyku\u0142y | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/autor/11485/jane-austen"
+          },
+          {
+            "title": "Emma Jane Austen ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/emma-jane-austen"
+          },
+          {
+            "title": "Jane Austen - ksi\u0105\u017cki, e-booki, audiobooki",
+            "url": "https://www.swiatksiazki.pl/autor/jane-austen"
+          },
+          {
+            "title": "\"Emma\" - Jane Austen - Kultowy.pl",
+            "url": "https://kultowy.pl/emma"
+          },
+          {
+            "title": "Czytam to i owo...: \"Emma\" Jane Austen - 1815-2015 - dwusetna rocznica wydania",
+            "url": "http://czytamtoiowo.blogspot.com/p/emma-200-lat.html"
+          },
+          {
+            "title": "Jane Austen - ksi\u0105\u017cki, audiobooki, ebooki - Empik",
+            "url": "https://www.empik.com/autor/jane-austen"
+          },
+          {
+            "title": "Emma Jane Austen. Ebook - Ksi\u0119garnia psychologiczna Sensus",
+            "url": "https://sensus.pl/ksiazki/emma-jane-austen,e_0p2h.htm"
+          },
+          {
+            "title": "Emma (pocket) (Jane Austen) ksi\u0105\u017cka w ksi\u0119garni TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/emma-pocket-jane-austen-p-1392714.html"
+          }
+        ]
+      },
+      "Based on the search results, I found information about Polish translations and editions of Jane Austen's \"Emma\". Here's what I discovered:\n\n## Polish Translations and Editions of Jane Austen's \"Emma\"\n\n\"Emma\" was originally published on December 23, 1815, with an advertisement appearing in The Morning Chronicle announcing the publication by John Murray of the three-volume novel titled \"Emma\" by the author of \"Pride and Prejudice\".(no content)Contemporary Polish translations of \"Emma\" are quite accessible, and even if you need to concentrate a bit, the story is truly engaging.\n\nThe search revealed several Polish publishers and editions of \"Emma\":\n\n### Polish Publishers and Editions:\n- Pr\u00f3szy\u0144ski i S-ka, Warsaw 1996 (mentioned in relation to a translation by Jadwiga Dmochowska)\n- Various contemporary Polish publishers offer the book through online bookstores like Lubimyczytac.pl, TaniaKsiazka.pl, and others\n\n### Translation History:\nThere's mention of a blog post titled \"Celebrating! Austen with a Polish voice, or about Polish translations of Emma\", suggesting there has been scholarly discussion about the Polish translation history of this work.\n\nJane Austen's collected works, including \"Emma,\" are available in new Polish translations as part of comprehensive editions by one of the greatest writers of all time.\n\n### Publication Details:\nThe novel was published in 1815, and like Austen's other novels, it describes the dilemmas of a distinguished woman living in England during the Regency period.\n\nThe search results indicate that \"Emma\" has been translated into Polish multiple times over the years, with contemporary editions being more accessible to modern Polish readers. The work continues to be published by various Polish publishers and is available in different formats including traditional books and e-books."
+    ],
+    "durationSeconds": 19.573308820998296
+  }
+}

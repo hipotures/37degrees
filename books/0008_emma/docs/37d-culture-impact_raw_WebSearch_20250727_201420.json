@@ -1,0 +1,21 @@
+{
+  "session_id": "43e12ea9-84a2-4345-8d62-d857a85435cd",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/43e12ea9-84a2-4345-8d62-d857a85435cd.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Emma Jane Austen\" digital archives \"Project Gutenberg\" \"Internet Archive\" \"Jane Austen's House\" online manuscripts"
+  },
+  "tool_response": {
+    "query": "\"Emma Jane Austen\" digital archives \"Project Gutenberg\" \"Internet Archive\" \"Jane Austen's House\" online manuscripts",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01WqWzwMxuiwnuwJrhkaNAPF",
+        "content": []
+      },
+      "Based on the search results, here are the key digital archives and resources for Jane Austen's \"Emma\" and related manuscripts:\n\n**Project Gutenberg** offers free digital copies of Jane Austen's works including \"Emma\", making her novels accessible to readers worldwide in various formats.\n\n**The Internet Archive** provides extensive digital collections of Jane Austen materials, including multiple editions of \"Emma\" and related scholarly resources. The platform hosts both historical editions and modern digitized versions.\n\n**Jane Austen's House Museum** maintains digital archives that include manuscript materials and historical documents. Their online collection features digitized letters, manuscript fragments, and other primary source materials related to Austen's life and works.\n\nSeveral academic institutions also maintain digital Austen collections, including manuscript digitization projects. These resources often include critical editions, annotations, and scholarly commentary alongside the original texts.\n\nFor researchers interested in Jane Austen's \"Emma,\" these digital archives provide comprehensive access to both published works and manuscript materials, supporting both casual reading and serious academic research."
+    ],
+    "durationSeconds": 12.55170620799996
+  }
+}

@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-37degrees is a TikTok video generator for book reviews targeting Polish youth (10-20 years old). The project creates 8-slide vertical videos (1080x1920) with stylized, non-photorealistic illustrations and text overlays for each classic book.
+37degrees is a TikTok video generator for book reviews targeting Polish youth (12-25 years old). The project creates 8-slide vertical videos (1080x1920) with stylized, non-photorealistic illustrations and text overlays for each classic book.
 
 ## Development Environment
 

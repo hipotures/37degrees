@@ -1,0 +1,62 @@
+{
+  "session_id": "43e12ea9-84a2-4345-8d62-d857a85435cd",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/43e12ea9-84a2-4345-8d62-d857a85435cd.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Emma Woodhouse\" narcissist psychology mental health character analysis modern interpretations"
+  },
+  "tool_response": {
+    "query": "\"Emma Woodhouse\" narcissist psychology mental health character analysis modern interpretations",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_018DcsGejUf8ro4GX53teCNJ",
+        "content": [
+          {
+            "title": "Emma Woodhouse Character Analysis in Emma | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/emma/character/emma-woodhouse/"
+          },
+          {
+            "title": "Emma Woodhouse Character Analysis in Emma | LitCharts",
+            "url": "https://www.litcharts.com/lit/emma/characters/emma-woodhouse"
+          },
+          {
+            "title": "The Character Development of Emma Woodhouse | Free Essay Example for Students",
+            "url": "https://aithor.com/essay-examples/the-character-development-of-emma-woodhouse"
+          },
+          {
+            "title": "Emma Bovary: victim of circumstance or classic narcissist? | Pillow Fort",
+            "url": "https://pillowfortreaders.wordpress.com/2019/01/17/emma-bovary-victim-of-circumstance-or-classic-narcissist/"
+          },
+          {
+            "title": "Mr. Woodhouse Character Analysis in Emma | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/emma/character/mr-woodhouse/"
+          },
+          {
+            "title": "Emma by Jane Austen: An In-Depth Literary Analysis \u2013 Literature Deep Dive",
+            "url": "https://litdeepdive.wordpress.com/2025/03/06/emma-by-jane-austen-an-in-depth-literary-analysis/"
+          },
+          {
+            "title": "Character Deep Dive: Emma Woodhouse - Lady Geeks Media",
+            "url": "https://ladygeeksmedia.com/2022/02/18/character-deep-dive-emma-woodhouse/"
+          },
+          {
+            "title": "Emma Woodhouse in Emma by Jane Austen | Traits, Analysis & Quotes | Study.com",
+            "url": "https://study.com/academy/lesson/emma-woodhouse-jane-austen-summary-analysis-quotes.html"
+          },
+          {
+            "title": "Narcissistic personality disorder - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Narcissistic_personality_disorder"
+          },
+          {
+            "title": "Mr. Woodhouse and What Matters in the End | Sarah Emsley",
+            "url": "https://sarahemsley.com/2016/02/05/mr-woodhouse-and-what-matters-in-the-end/"
+          }
+        ]
+      },
+      "Based on my search, I've found extensive information about Emma Woodhouse from psychological, character analysis, and modern interpretative perspectives. Here's what the search revealed:\n\n## Emma Woodhouse: Psychology and Character Analysis\n\n### Psychological Interpretations\n\nModern scholars have turned to psychoanalytic interpretations of Emma, analyzing Emma Woodhouse's psychology\u2014her apparent lack of a mother, her powerful position in her small world, and how these shape her behavior. Academic analysis by Marshall Brown titled \"Emma's Depression\" alludes to mental health in Emma as a character and the village of Highbury, questioning whether readers would like to live in Highbury to suggest that melancholy within the town is a prominent theme.\n\nBrown implies that though mental illness was relatively new in the 19th-century, Emma is one of the first characters examined through this lens, noting that \"While her lows are often followed by highs, the highs, sometimes more self-conscious, are just as often followed by lows,\" suggesting that actions people often regard as careless are due to depression more than ill intent.\n\n### Character Traits and Flaws\n\nAt the start of the novel, Emma's major flaw is a combination of vanity and pride: she thinks a little too highly of herself and believes herself possessed of great discernment in matchmaking. Emma is supremely self-confident, believes she knows best, feels entitled to meddle in her friend's affairs, likes Harriet because she is relatively easy to control, and treats people around her like dolls she can arrange for her own amusement.\n\nEmma has formed an egocentric character since childhood, and in her narrow environment \"she is not only obsessed with self-love, but now others are beings without soul; others are just her background quilt\".\n\n### Narcissistic Comparisons\n\nInterestingly, the search results included analysis of Emma Bovary (from Flaubert's novel) that provides insight into narcissistic character traits in literature. The analysis describes characteristics resembling classic narcissism: being emotionally manipulative, alternately showering with love then withholding it to serve purposes, being overly concerned with status, and exhibiting lack of empathy.\n\n### Psychological Development Factors\n\nEmma's father is not her intellectual equal and cannot provide the challenge her mind requires. He believes Emma can do no wrong and never questions her judgment, meaning Emma is essentially without a strong parental figure who can recognize her faults. His constant coddling and praising only further enable her to make frivolous and poor decisions.\n\nAcademic analysis points out that her father and Miss Bates heavily influence Emma's character development, while her mother died when she was young, and she was spoilt by her governess.\n\n### Modern Character Analysis\n\nEmma is described as \"a complex, multifaceted character who can be a tough pill to swallow for some,\" though \"her complexity, intentions, and growth make her likable where perhaps definition is concerned\". She \"can be unkind, brash, and incredibly selfish at times, but she is the type of woman who cares deeply for those around her\".\n\nDespite her flaws, \"Emma's understanding and good nature allow her to learn from her mistakes and cultivate kindness and humility\", showing character growth throughout the novel.\n\nThe search reveals that modern interpretations view Emma through psychological lenses including potential depression, narcissistic traits, and the impact of her upbringing on her character development, while acknowledging her complexity and capacity for growth."
+    ],
+    "durationSeconds": 32.48554356199875
+  }
+}

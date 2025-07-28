@@ -1,0 +1,62 @@
+{
+  "session_id": "abba3f5a-b5aa-49e3-9bda-f1f6b93e098c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/abba3f5a-b5aa-49e3-9bda-f1f6b93e098c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Animal Farm publication rejections censorship Soviet spy Peter Smollett Ministry Information details"
+  },
+  "tool_response": {
+    "query": "Animal Farm publication rejections censorship Soviet spy Peter Smollett Ministry Information details",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01Mf9MN3nkajXdVWHiCWiPzm",
+        "content": [
+          {
+            "title": "Peter Smollett - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Peter_Smollett"
+          },
+          {
+            "title": "Something About a Pig: Why Animal Farm was criticised when it was released",
+            "url": "https://www.listening-books.org.uk/something-about-a-pig-why-animal-farm-was-criticised-when-it-was-released"
+          },
+          {
+            "title": "Animal Farm - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Animal_Farm"
+          },
+          {
+            "title": "Orwell Subverted: The CIA and the Filming of Animal Farm By Daniel J. Leab",
+            "url": "https://www.psupress.org/books/titles/978-0-271-02978-8.html"
+          },
+          {
+            "title": "Animal Farm | The Censorship Files",
+            "url": "https://thecensorshipfiles.wordpress.com/volume-1/issue-2/animal-farm/"
+          },
+          {
+            "title": "The Struggle To Publish Animal Farm | The Liberty Conservative",
+            "url": "https://libertyconservative.com/struggle-publish-animal-farm/"
+          },
+          {
+            "title": "Smollett: the spy who got away",
+            "url": "https://medium.com/@usefulstooges/smollett-the-spy-who-got-away-dd4d5deea9f1"
+          },
+          {
+            "title": "Animal Farm: Banned by the Soviets, Promoted by the CIA - PEN America",
+            "url": "https://pen.org/animal-farm-banned-by-the-soviets-promoted-by-the-cia/"
+          },
+          {
+            "title": "Animal Farm by George Orwell | Summary, Impact & Publication - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/animal-farm-publisher-struggles.html"
+          },
+          {
+            "title": "Animal Farm. The History of Censorship | by Rolens carry | Medium",
+            "url": "https://rolens.medium.com/animal-farm-bba7faa73526"
+          }
+        ]
+      },
+      "Based on the search results, I found detailed information about the publication struggles of George Orwell's \"Animal Farm\" and the involvement of Soviet spy Peter Smollett. Here's what the search revealed:\n\n## Animal Farm Publication Rejections and Peter Smollett's Role\n\nAnimal Farm was rejected by four different publishers, with the publication struggles occurring during a politically sensitive time when Britain and the Soviet Union were wartime allies.\n\n### Peter Smollett - The Soviet Spy at the Ministry of Information\n\nPeter Smollett (born Hans Peter Smolka in 1912) was a journalist who became head of the Russian section at Britain's Ministry of Information during WWII, responsible for organizing pro-Soviet propaganda. He was later identified as a Soviet agent, operating under the NKVD codename \"ABO\" after coming to Britain in 1933.\n\n### The Jonathan Cape Rejection\n\nThe publisher Jonathan Cape, who had initially accepted Animal Farm, subsequently rejected the book after an official at the British Ministry of Information warned him off. Jonathan Cape initially agreed to publish the book but later rejected it at the behest of an official at the British Ministry of Information - now thought to be Peter Smollett, a man later found to be a Soviet spy.\n\nThe respected publisher Jonathan Cape bowed out after consulting an \"important official\" at the Ministry of Information who advised against publication. The official is presumed to be Peter Smollett, who during the war headed the ministry's Russian section.\n\n### Smollett's Background and Activities\n\nBorn Hans Peter Smolka in Vienna in 1912, he wrote pro-Soviet travel journalism for various UK outlets during the 1930s, became a naturalized British subject in 1938, changed his name, and after the war's outbreak joined the Ministry of Information, where he energetically organized pro-Soviet propaganda and suppressed \"unfavorable comment\" on Stalinist Russia.\n\nAfter his death in 1980, Smollett was revealed to have been an agent of the NKVD. The Mitrokhin Archive records that Smollett was recruited as a spy in 1939 by double agent Kim Philby and that his NKVD cover name was ABO.\n\n### The Broader Context of Censorship\n\nOrwell's essay criticized British self-censorship by the press, specifically the suppression of unflattering descriptions of Stalin and the Soviet government. Because Great Britain, the United States, and the Soviet Union were allies during World War II, British publishers were reluctant to publish such a scathing criticism of the Soviet Union. They feared the depiction of the ruling class as pigs would be offensive, particularly to the Soviets.\n\n### Final Publication\n\nIn late July 1944, Secker & Warburg agreed to bring out Animal Farm, and eventually published the first edition in 1945. With the Cold War quickly setting on after World War II, attitudes began to change and Secker and Warburg agreed to publish the title.\n\nThe case demonstrates how wartime political considerations and actual Soviet espionage activities combined to create significant obstacles for the publication of Orwell's anti-totalitarian allegory."
+    ],
+    "durationSeconds": 24.44970774599997
+  }
+}

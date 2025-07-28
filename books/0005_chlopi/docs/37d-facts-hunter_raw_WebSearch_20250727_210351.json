@@ -1,0 +1,63 @@
+{
+  "session_id": "7bfa3f26-bffe-44f4-87bb-f54ec853c72a",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7bfa3f26-bffe-44f4-87bb-f54ec853c72a.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Ch\u0142opi Reymont program nauczania szko\u0142a \u015brednia licealna interpretacja uczniowie"
+  },
+  "tool_response": {
+    "query": "Ch\u0142opi Reymont program nauczania szko\u0142a \u015brednia licealna interpretacja uczniowie",
+    "results": [
+      "I'll perform a web search for information about \"Ch\u0142opi\" by Reymont in the context of high school curriculum and student interpretation.",
+      {
+        "tool_use_id": "srvtoolu_01QrLDjFXakVzj2AzTRvozBP",
+        "content": [
+          {
+            "title": "CH\u0141OPI / W\u0142adys\u0142aw Stanis\u0142aw Reymont \u2013 Pedagogiczna Biblioteka Wojew\u00f3dzka w Opolu",
+            "url": "https://pedagogiczna.pl/chlopi-wladyslaw-stanislaw-reymont/"
+          },
+          {
+            "title": "Ch\u0142opi. Tom 1. Streszczenie. Analiza. Interpretacja W\u0142adys\u0142aw Reymont - sklep Bee.pl",
+            "url": "https://www.bee.pl/chlopi-tom-1-streszczenie-analiza-interpretacja-wladyslaw-reymont_p1783707.html"
+          },
+          {
+            "title": "Przys\u0142owia ludowe Scenariusz zaj\u0119\u0107 \u2013 Ch\u0142opi \u2013 Biblioteka w Szkole nr 06/2011",
+            "url": "https://biblioteka.pl/artykul/Przyslowia-ludowe/3178"
+          },
+          {
+            "title": "Scenariusze lekcji dla nauczycieli: \u201eCh\u0142opi\u201d Reymonta. Kompleksowe materia\u0142y dydaktyczne do pobrania bezp\u0142atnie | Strefa Edukacji",
+            "url": "https://strefaedukacji.pl/gotowe-scenariusze-lekcji-chlopi-wladyslawa-reymonta-prowadz-inspirujace-zajecia-z-mlodzieza-o-slynnej-lekturze/ar/c5-18000599"
+          },
+          {
+            "title": "Chlopi cykl scenariuszy 3 - Katarzyna Tomaszek W\u0142adys\u0142aw Stanis\u0142aw Reymont, Ch\u0142opi \u2013 cykl zaj\u0119\u0107 Jak - Studocu",
+            "url": "https://www.studocu.com/pl/document/liceum-ogolnoksztalcace-nr-iii-im-juliusza-slowackiego/jezyk-polski-zakres-podstawowy/chlopi-cykl-scenariuszy-3/87859857"
+          },
+          {
+            "title": "Ch\u0142opi Reymonta na maturze | AleKlasa",
+            "url": "https://aleklasa.pl/matura/c406-nauka-o-jezyku-2/chlopi-na-maturze"
+          },
+          {
+            "title": "\u201eCh\u0142opi\u201d, W\u0142adys\u0142aw Stanis\u0142aw Reymont \u2014 streszczenie i opracowanie",
+            "url": "https://babaodpolskiego.pl/wladyslaw-stanislaw-reymont-chlopi-streszczenie-i-opracowanie/"
+          },
+          {
+            "title": "Ch\u0142opi t. 1 - Problematyka - W\u0142adys\u0142aw Stanis\u0142aw Reymont - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/wladyslaw-stanislaw-reymont/chlopi-t-i.problematyka"
+          },
+          {
+            "title": "Ch\u0142opi (W. S. Reymont) - Streszczenie (Tom I - Jesie\u0144) - J\u0119zyk polski - Opracowania.pl",
+            "url": "https://opracowania.pl/opracowania/jezyk-polski/chlopi-w-s-reymont,oid,454,streszczenie-tom-i-jesien"
+          },
+          {
+            "title": "Ch\u0142opi (1973) \u2013 Edukacja Filmowa",
+            "url": "https://edukacjafilmowa.pl/chlopi-2/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide comprehensive information about \"Ch\u0142opi\" by W\u0142adys\u0142aw Stanis\u0142aw Reymont in the context of high school curriculum and student interpretation.\n\n## \"Ch\u0142opi\" Reymonta w programie nauczania szko\u0142y \u015bredniej\n\nNowe Horyzonty Edukacji Filmowej przygotowa\u0142y scenariusze lekcji dostosowane do uczni\u00f3w w szko\u0142ach ponadpodstawowych. \"Ch\u0142opi\" W\u0142adys\u0142awa Stanis\u0142awa Reymonta to lektura szkolna, kt\u00f3r\u0105 omawia si\u0119 w szkole \u015bredniej.\n\n### Materia\u0142y dydaktyczne i scenariusze zaj\u0119\u0107\n\nScenariusz zaj\u0119\u0107 dla uczni\u00f3w szko\u0142y ponadgimnazjalnej jest dost\u0119pny w bibliotekach pedagogicznych. Scenariusz zaj\u0119\u0107 na podstawie Ch\u0142op\u00f3w W\u0142adys\u0142awa Stanis\u0142awa Reymonta. Lekcja zosta\u0142a przeprowadzona w bibliotece szkolnej (SCI), uczestniczyli w niej uczniowie liceum i technikum.\n\nTematyka lekcji \u2013 zgodnie z programem nauczania \u2013 odpowiada\u0142a potrzebom uczni\u00f3w klas maturalnych. Zosta\u0142y one przygotowane dla uczni\u00f3w szk\u00f3\u0142 ponadpodstawowych. Nasze materia\u0142y przeznaczone s\u0105 g\u0142\u00f3wnie dla uczni\u00f3w szk\u00f3\u0142 \u015brednich, poniewa\u017c zar\u00f3wno powie\u015b\u0107, jak i film wymagaj\u0105 pewnej dojrza\u0142o\u015bci odbiorczej.\n\n### Pomoce szkolne i interpretacja\n\nDost\u0119pne s\u0105 r\u00f3\u017cnorodne opracowania dla uczni\u00f3w:\n- Szczeg\u00f3\u0142owe i obszerne streszczenie, dok\u0142adna analiza, charakterystyka bohater\u00f3w, wa\u017cne poj\u0119cia niezb\u0119dne przy omawianiu lektury, testy sprawdzaj\u0105ce z kluczem, krzy\u017c\u00f3wki\n- Doskona\u0142a pomoc w przygotowaniu do lekcji, test\u00f3w sprawdzaj\u0105cych, prac klasowych i matury\n\n### Tematy zaj\u0119\u0107 z \"Ch\u0142opami\"\n\nPrzyk\u0142adowe scenariusze obejmuj\u0105:\n- Obraz natury w \u201eCh\u0142opach\" W\u0142adys\u0142awa Stanis\u0142awa Reymonta i w animowanej filmowej adaptacji powie\u015bci\n- Sytuacja polskich ch\u0142op\u00f3w na prze\u0142omie XIX i XX wieku. Kontekst historyczny powie\u015bci \u201eCh\u0142opi\"\n- Zasady \u017cycia we wsp\u00f3lnocie. Refleksje po filmie \u201eCh\u0142opi\" (2023)\n\n### Wyzwania interpretacyjne dla uczni\u00f3w\n\nNauczyciel prosi uczni\u00f3w o swobodne wypowiedzi na temat tego, jak czyta\u0142o im si\u0119 powie\u015b\u0107 Reymonta \u2013 co stanowi\u0142o dla nich najwi\u0119ksze wyzwanie, co ich zadziwi\u0142o, co zainteresowa\u0142o, a co znudzi\u0142o. Mo\u017cna odnie\u015b\u0107 si\u0119 do s\u0142\u00f3w Czes\u0142awa Mi\u0142osza, kt\u00f3ry w Prywatnych obowi\u0105zkach napisa\u0142: \u201eStyl Ch\u0142op\u00f3w Reymonta jest horrorem\".\n\n### Znaczenie maturalne\n\nNiebezzasadnym b\u0119dzie nawi\u0105zanie do faktu uhonorowania pisarz Nagrod\u0105 Nobla. Aby otrzyma\u0107 t\u0119 nagrod\u0119, tw\u00f3rczo\u015b\u0107 musi by\u0107 uniwersalna, dotyczy\u0107 spraw og\u00f3lnoludzkich, podejmowa\u0107 temat ponadnarodowy, omawia\u0107 warto\u015bci ponadczasowe. I ten warunek dzie\u0142o Reymonta, zwane epopej\u0105 ch\u0142opsk\u0105, spe\u0142nia.\n\nPowie\u015b\u0107 podejmuje problematyk\u0119 spo\u0142eczno\u015bci ch\u0142opskiej, prezentuje ca\u0142okszta\u0142t uniwersalnej, zawieszonej w czasie wsi, obrazuje mentalno\u015b\u0107 ch\u0142opa \u2013 nie tylko polskiego. Obraz ten jest wielobarwny, wielostronny i prawdziwy.\n\nMateria\u0142y wskazuj\u0105, \u017ce \"Ch\u0142opi\" s\u0105 jedn\u0105 z kluczowych lektur w programie szko\u0142y \u015bredniej, wymagaj\u0105c\u0105 od uczni\u00f3w dojrza\u0142o\u015bci interpretacyjnej i oferuj\u0105c\u0105 bogate mo\u017cliwo\u015bci analizy literackiej oraz kontekstu historyczno-spo\u0142ecznego."
+    ],
+    "durationSeconds": 33.56964677699999
+  }
+}

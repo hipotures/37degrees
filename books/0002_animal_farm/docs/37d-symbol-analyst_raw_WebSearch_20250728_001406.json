@@ -1,0 +1,62 @@
+{
+  "session_id": "abba3f5a-b5aa-49e3-9bda-f1f6b93e098c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/abba3f5a-b5aa-49e3-9bda-f1f6b93e098c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Folwark zwierz\u0119cy\" wsp\u00f3\u0142czesna Polska polityka PiS Tusk odwo\u0142ania cytowania"
+  },
+  "tool_response": {
+    "query": "\"Folwark zwierz\u0119cy\" wsp\u00f3\u0142czesna Polska polityka PiS Tusk odwo\u0142ania cytowania",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01HCDMDeYUdekbCT4P9qvKwx",
+        "content": [
+          {
+            "title": "Mariusz Cie\u015blik: Folwark zwierz\u0119cy - rp.pl",
+            "url": "https://www.rp.pl/opinie-polityczno-spoleczne/art18972451-mariusz-cieslik-folwark-zwierzecy"
+          },
+          {
+            "title": "\"Folwark zwierz\u0119cy po polsku\". Donald Tusk o konferencji B\u0142aszczaka i Kami\u0144skiego - Polsat News",
+            "url": "https://www.polsatnews.pl/wiadomosc/2021-09-30/folwark-zwierzecy-po-polsku-donald-tusk-o-konferencji-blaszczaka-i-kaminskiego/"
+          },
+          {
+            "title": "\u201eDwa wieprze na rozkaz kaczora...\u201d. Donald Tusk w ostrym wpisie o \u201eFolwarku zwierz\u0119cym po polsku\u201d",
+            "url": "https://www.wprost.pl/polityka/10499308/donald-tusk-w-ostrym-wpisie-o-folwarku-zwierzecym-po-polsku-dwa-wieprze-na-rozkaz-kaczora.html"
+          },
+          {
+            "title": "Tusk komentuje afer\u0119 wok\u00f3\u0142 Morawieckiego. \"Folwark zwierz\u0119cy po polsku\"",
+            "url": "https://wiadomosci.wp.pl/tusk-komentuje-afere-wokol-morawieckiego-folwark-zwierzecy-po-polsku-6688722575014528a"
+          },
+          {
+            "title": "Tusk o \u201cFolwarku zwierz\u0119cym po polsku\u201d: Dwa wieprze na rozkaz kaczora\u2026 - Dziennik.pl",
+            "url": "https://wiadomosci.dziennik.pl/polityka/artykuly/8259556,donald-tusk-folwark-zwierzecy-polska.html"
+          },
+          {
+            "title": "Donald Tusk: Nie uciekn\u0119 od politycznej roli w przysz\u0142o\u015bci - rp.pl",
+            "url": "https://www.rp.pl/polityka/art324981-donald-tusk-nie-uciekne-od-politycznej-roli-w-przyszlosci"
+          },
+          {
+            "title": "\u201eDwa wieprze na rozkaz kaczora...\u201d. Tusk w ostrym wpisie o \u201efolwarku zwierz\u0119cym po polsku\u201d - wPunkt",
+            "url": "https://wpunkt.online/polska/dwa-wieprze-na-rozkaz-kaczora-tusk-w-ostrym-wpisie-o-folwarku-zwierzecym-po-polsku/"
+          },
+          {
+            "title": "Tusk ca\u0142kowicie straci\u0142 cierpliwo\u015b\u0107: \"Dwa wieprze na rozkaz kaczora\"",
+            "url": "https://propolski.pl/tusk-calkowicie-stracil-cierpliwosc-dwa-wieprze-na-rozkaz-kaczora/"
+          },
+          {
+            "title": "Fenomen internetowego zoo | Folw@rk zwierz\u0119cy - Polityka.pl",
+            "url": "https://www.polityka.pl/tygodnikpolityka/ludzieistyle/1614053,1,fenomen-internetowego-zoo.read"
+          },
+          {
+            "title": "\u201eDwa wieprze na rozkaz kaczora\u2026\u201d. Zaskakuj\u0105cy wpis Tuska",
+            "url": "https://www.tysol.pl/a72425-Dwa-wieprze-na-rozkaz-kaczora-Zaskakujacy-wpis-Tuska"
+          }
+        ]
+      },
+      "I found several relevant search results about Donald Tusk's controversial tweet referencing \"Folwark zwierz\u0119cy\" (Animal Farm) in the context of Polish politics. Here's what the search revealed:\n\n## Donald Tusk's \"Animal Farm\" Reference in Polish Politics\n\nDonald Tusk posted a controversial tweet in September 2021 that read: \"Folwark zwierz\u0119cy po polsku, czyli jak dwa wieprze na rozkaz kaczora mia\u0142y przy pomocy jednej krowy odwr\u00f3ci\u0107 uwag\u0119 od stada t\u0142ustych kot\u00f3w\" (Animal Farm in Polish: how two pigs on the order of a drake were supposed to use one cow to divert attention from a herd of fat cats).\n\n### Context and Reactions\n\nThe tweet was Tusk's response to a controversial press conference by ministers Mariusz B\u0142aszczak and Mariusz Kami\u0144ski, during which they presented controversial photos allegedly found on migrants' phones. According to OKO.press, one of the photos showing a man with an animal was actually a screenshot from an old internet video featuring a mare, not a cow.\n\nTusk concluded his tweet with the disclaimer: \"Wszelkie podobie\u0144stwo do prawdziwych postaci jest przypadkowe\" (Any resemblance to real persons is coincidental).\n\n### Political Responses\n\nThe tweet sparked strong reactions across the political spectrum:\n\nPawe\u0142 Szrot, head of the president's cabinet, criticized the post, calling it \"dehumanization of the opponent\" and comparing it to Joseph Goebbels' tactics, stating that \"publicly calling people pigs is simply vile\".\n\nPiS Secretary General Krzysztof Sobolewski posted a screenshot comparing Tusk's tweet with an identical post from a Twitter account called SokzBuraka, writing \"Find the difference - Troll from Brussels vs. sokzburaka set the program for the party of shame\".\n\n### Literary Analysis\n\nOne commentator noted that Orwell probably wouldn't be pleased with this temporary popularity in Poland, as his book was an allegory of the Bolshevik revolution. The same writer reflected on how political discourse has changed, noting that while political happenings used to be amusing, with age comes a demand for seriousness and solutions from leaders.\n\nThe incident highlights the ongoing polarization in Polish politics and the use of literary references as political weapons in contemporary discourse between PiS (Law and Justice) and opposition parties led by Tusk."
+    ],
+    "durationSeconds": 23.45036929200002
+  }
+}

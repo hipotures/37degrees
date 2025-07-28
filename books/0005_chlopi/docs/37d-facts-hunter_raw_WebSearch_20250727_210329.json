@@ -1,0 +1,62 @@
+{
+  "session_id": "7bfa3f26-bffe-44f4-87bb-f54ec853c72a",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7bfa3f26-bffe-44f4-87bb-f54ec853c72a.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "W\u0142adys\u0142aw Reymont \"Ch\u0142opi\" academic research scholarly articles university dissertations"
+  },
+  "tool_response": {
+    "query": "W\u0142adys\u0142aw Reymont \"Ch\u0142opi\" academic research scholarly articles university dissertations",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01BQgGK7e6ntjByU52Ssffga",
+        "content": [
+          {
+            "title": "W\u0142adys\u0142aw Reymont, \"Ch\u0142opi\" | #literatura | Culture.pl",
+            "url": "https://culture.pl/pl/dzielo/wladyslaw-reymont-chlopi"
+          },
+          {
+            "title": "Ch\u0142opi (W\u0142adys\u0142aw Reymont) | PDF",
+            "url": "https://scribd.com/document/734360793/Ch\u0142opi-W\u0142adys\u0142aw-Reymont"
+          },
+          {
+            "title": "Ch\u0142opi, Reymont, W\u0142adys\u0142aw S..., [2013]",
+            "url": "https://polona.pl/preview/faedc40e-0f72-4e42-b879-86f4ed705397"
+          },
+          {
+            "title": "Ch\u0142opska natura i ch\u0142opski los. Ch\u0142opi W\u0142adys\u0142awa Stanis\u0142awa Reymonta - zpe.gov.pl",
+            "url": "https://zpe.gov.pl/b/chlopska-natura-i-chlopski-los-chlopi-wladyslawa-stanislawa-reymonta/P19Mv6izh"
+          },
+          {
+            "title": "Ch\u0142opi : Reymont, W\u0142adys\u0142aw Stanis\u0142aw, 1867-1925 : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/chopi00reym"
+          },
+          {
+            "title": "Ch\u0142opi - Reymont W\u0142adys\u0142aw Stanis\u0142aw | Ksi\u0105\u017cka w Empik",
+            "url": "https://www.empik.com/chlopi-reymont-wladyslaw-stanislaw,p1227470883,ksiazka-p"
+          },
+          {
+            "title": "CH\u0141OPI / W\u0142adys\u0142aw Stanis\u0142aw Reymont \u2013 Pedagogiczna Biblioteka Wojew\u00f3dzka w Opolu",
+            "url": "https://pedagogiczna.pl/chlopi-wladyslaw-stanislaw-reymont/"
+          },
+          {
+            "title": "Ch\u0142opi W\u0142adys\u0142aw Reymont Wydanie - Niska cena na Allegro",
+            "url": "https://allegro.pl/listing?string=ch%C5%82opi+w%C5%82adys%C5%82aw+reymont+wydanie"
+          },
+          {
+            "title": "W\u0142adys\u0142aw Reymont - Poland.pl",
+            "url": "https://poland.pl/experience-poland/famous-poles/wladyslaw-reymont/"
+          },
+          {
+            "title": "Forum | PolishOrigins :: View topic - Wladyslaw Reymont, Chlopi / The Peasants",
+            "url": "https://forum.polishorigins.com/viewtopic.php?t=268"
+          }
+        ]
+      },
+      "Based on the search results, I found some academic and scholarly materials related to W\u0142adys\u0142aw Reymont's \"Ch\u0142opi\" (The Peasants). Let me provide you with the key findings:\n\n## Academic and Scholarly Resources on \"Ch\u0142opi\" by W\u0142adys\u0142aw Reymont\n\nW\u0142adys\u0142aw Reymont was a Polish writer and laureate of the Nobel Prize for Literature for his four-volume novel 'Ch\u0142opi' (The Peasants), which he received in 1924 for this novel published in 1904-09, showing the life of the inhabitants of the Lipce village during the year's four seasons.\n\n### Academic Publications and Dissertations:\n\n**University Research:**\n- \"Cz\u0142owiek \u2013 kultura \u2013 sacrum : o 'Ch\u0142opach' Reymonta\" by Les\u0142aw Tatarowski, published by Wydawnictwo Uniwersytetu Wroc\u0142awskiego, 2002, 182 pages\n\n**Scholarly Articles:**\n- \"Antroposakrologiczna interpretacja 'Ch\u0142op\u00f3w' W. Reymonta\" by Anna Brzozowska-Krajka in Literatura Ludowa, 2005, nr 4/5, pages 109-113\n- \"Barwy cia\u0142a ludzkiego w 'Ch\u0142opach' W\u0142adys\u0142awa Stanis\u0142awa Reymonta\" by Kamila Gendera in Prace Filologiczne, vol. 50 (2005), pages 19-33\n- \"'Stary uderzy\u0142 go oczami' : emocjonalna przestrze\u0144 gniewu w Ch\u0142opach W\u0142adys\u0142awa Stanis\u0142awa Reymonta i ilustracjach Apoloniusza K\u0119dzierskiego\" by Aneta Grodecka in \"M\u00f3zg, j\u0119zyk, komunikacja,\" published by Wydawnictwo Rys, 2017, pages 189-205\n\n**Educational Materials:**\n- \"Obraz Boga w 'Ch\u0142opach' W\u0142adys\u0142awa Stanis\u0142awa Reymonta\" by Bogus\u0142awa Wo\u017anica, published by Wydawnictwo Diecezjalne i Drukarnia w Sandomierzu, 2009\n\n**Analysis and Commentary:**\n- \"'Ch\u0142opi' W\u0142adys\u0142awa Stanis\u0142awa Reymonta\" by Stefan Licha\u0144ski, 3rd edition, published by Pa\u0144stwowe Zak\u0142ady Wydawnictw Szkolnych, 1987, 124 pages with illustrations\n\nThe search revealed various scholarly approaches to studying Reymont's work, including anthropological, religious, linguistic, and cultural analyses. The novel continues to be a subject of academic interest due to its anthropological sensitivity combined with universal themes: conflict between individual and group, and between tradition's demands and the right to self-determination."
+    ],
+    "durationSeconds": 21.993186249999997
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "session_id": "43e12ea9-84a2-4345-8d62-d857a85435cd",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/43e12ea9-84a2-4345-8d62-d857a85435cd.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Emma Jane Austen film adaptations 1996 Gwyneth Paltrow 2020 Anya Taylor-Joy cultural impact comparison"
+  },
+  "tool_response": {
+    "query": "Emma Jane Austen film adaptations 1996 Gwyneth Paltrow 2020 Anya Taylor-Joy cultural impact comparison",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_016PVvjtFKudG7wK4HAyes5o",
+        "content": [
+          {
+            "title": "Celebrating the Fauxscars: Why the 2020 Emma Outshines the 1996 Adaptation | Literary Traveler",
+            "url": "https://www.literarytraveler.com/articles/celebrating-the-fauxscars-why-the-2020-emma-outshines-the-1996-adaptation/"
+          },
+          {
+            "title": "Every Emma Movie Adaptation Ranked From Worst To Best (Including Clueless)",
+            "url": "https://screenrant.com/emma-movies-adaptations-ranked-worst-best/"
+          },
+          {
+            "title": "Emma Adaptation News, Cast, Premiere Date - Anya Taylor Joy to Star in New Adaptation of Emma",
+            "url": "https://www.townandcountrymag.com/leisure/arts-and-culture/a24236067/emma-adaptation-anya-taylor-joy/"
+          },
+          {
+            "title": "Comparing the Casts of Emma From All the Takes on Jane Austen's Classic Novel",
+            "url": "https://www.eonline.com/news/1124645/comparing-the-casts-of-emma-from-all-the-takes-on-jane-austen-s-classic-novel"
+          },
+          {
+            "title": "Emma (2020 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Emma_(2020_film)"
+          },
+          {
+            "title": "Screen Time: A definitive subjective ranking of \u201cEmma\u201d adaptations - The Pitt News",
+            "url": "https://pittnews.com/article/155759/blogs/screen-time-a-definitive-subjective-ranking-of-emma-adaptations/"
+          },
+          {
+            "title": "Emma movie vs. book: How the new adaptation departs from Jane Austen\u2019s novel.",
+            "url": "https://slate.com/culture/2020/02/emma-2020-movie-vs-book-jane-austen-novel.html"
+          },
+          {
+            "title": "'Persuasion,' 'Emma' and More Movies Adapted From Jane Austen Novels | Academy",
+            "url": "https://newsletter-stg.oscars.org/news/post/persuasion-emma-and-more-movies-adapted-from-jane-austen-novels"
+          },
+          {
+            "title": "Emma | Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/m/1073316-emma"
+          },
+          {
+            "title": "Emma: 7 Reasons The 2020 Movie Is Better Than The Gwyneth Paltrow Version (& 3 Paltrow&#039;s Is Better)",
+            "url": "https://screenrant.com/emma-best-version-2020-gwyneth-paltrow/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with a comprehensive comparison of the cultural impact of the 1996 Emma starring Gwyneth Paltrow and the 2020 Emma starring Anya Taylor-Joy:\n\n## Cultural Context and Timing\n\nThe 1996 adaptation emerged during \"Austenmania\" in the '90s, a period when multiple Jane Austen adaptations dominated screens. The 2020 version arrives during what appears to be a similar cultural moment, with period dramas like Bridgerton and The Great dominating streaming services, and Netflix's Bridgerton becoming their biggest series ever.\n\n## Character Portrayal and Cultural Reception\n\n### 1996 Version (Gwyneth Paltrow)\nPaltrow's Emma is portrayed as \"beautiful and likeable even when she becomes blinded by her selfish conceit,\" appearing as \"a sincere yet humanly flawed person whose transgressions can easily be forgiven\". With \"rosebud cheeks and smug self-assurance,\" Paltrow delivers a \"saccharine, bubbly Emma\" who is \"wholly aware and perfectly delighted with her egotistical influence\".\n\n### 2020 Version (Anya Taylor-Joy)\nTaylor-Joy's Emma \"comes across as much more brazen and self-centered, particularly at the beginning of the film\". Critics noted she \"plays her as a somewhat chillier, more aloof heroine than Gwyneth Paltrow did in 1996,\" making \"it all the more moving to see Emma's porcelain-like facade crack\".\n\n## Progressive Themes and Modern Relevance\n\nThe 2020 adaptation features \"excellent script adaptation from Eleanor Catton\" that \"revitalizes\" the period drama \"with more progressive themes like women's empowerment\". The film \"delivers on progressive themes like female empowerment and challenges the sexist laws and social hierarchies of Austen's time\" by \"shifting sex politics and rotating gender power dynamics\".\n\nTaylor-Joy's Emma \"feels much more modernized and less stale than the portrayal from Paltrow\", and provides \"an acerbic wit that seems to have a modern eye for millennial smugness\".\n\n## Visual and Stylistic Impact\n\n### 1996 Version\nThe 1996 film is described as \"visual eye candy and one of the most romanticized and syrupy versions,\" with \"idyllic setting, detailed set design, and sumptuous visuals\".\n\n### 2020 Version\nThe 2020 adaptation is \"colorful and stylized, an homage to Sofia Coppola's 'Marie Antoinette,'\" with \"costume and set design [that] is sumptuous, dripping in jewel tones\". The film was \"Oscar-nominated for both Best Costume Design and Best Makeup and Hairstyling\".\n\n## Critical and Audience Reception\n\nThe 2020 film holds an 86% approval rating on Rotten Tomatoes, with critics noting that while \"other adaptations may do a better job of consistently capturing the spirit of the classic source material,\" Austen fans should \"still find a solid match\".\n\nCritics argued that Taylor-Joy's more dramatic characterization \"pays off with a much more dramatic\u2013and more satisfying\u2013character arc than in the 1996 film\".\n\n## Cultural Legacy\n\nThe 2020 version \"stands on its own\" where \"you don't need to read or like the book to really enjoy the movie,\" with supporting cast that \"modernizes the film with droll humor and an excellent sense of physical comedy\".\n\nBoth adaptations reflect their respective cultural moments: the 1996 version embodying the romantic idealism of '90s period dramas, while the 2020 adaptation offers a more psychologically complex and visually bold interpretation that speaks to contemporary audiences seeking more progressive and modernized takes on classic literature."
+    ],
+    "durationSeconds": 29.081763714000584
+  }
+}

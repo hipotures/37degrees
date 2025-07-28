@@ -1,0 +1,62 @@
+{
+  "session_id": "8fbf2dc3-ee57-446f-bc57-5f2a49079daa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8fbf2dc3-ee57-446f-bc57-5f2a49079daa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Don Kichot polska krytyka literacka badania naukowe akademia wsp\u00f3\u0142czesne interpretacje"
+  },
+  "tool_response": {
+    "query": "Don Kichot polska krytyka literacka badania naukowe akademia wsp\u00f3\u0142czesne interpretacje",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01KEpfp32ELnn3Q4vdLrCjhs",
+        "content": [
+          {
+            "title": "Don Kichot jako intertekst w poematach dygresyjnych ...",
+            "url": "https://journals.pan.pl/Content/127065?format_id=1"
+          },
+          {
+            "title": "\"Don Kichot\" - Miguel de Cervantes - Recenzja ksi\u0105\u017cki - Eduarena",
+            "url": "https://eduarena.pl/don-kichot-miguel-de-cervantes-recenzja-ksiazki/"
+          },
+          {
+            "title": "B\u0141\u0104D |Don Kichota | Literatura | Dwutygodnik",
+            "url": "https://www.dwutygodnik.com/artykul/2165-blad-don-kichota.html"
+          },
+          {
+            "title": "Don Kichot - interpretacja",
+            "url": "https://eszkola.pl/jezyk-polski/interpretacja-773.html"
+          },
+          {
+            "title": "Don Kichot \u2013 Pedagogiczna Biblioteka Wojew\u00f3dzka w Opolu",
+            "url": "https://pedagogiczna.pl/don-kichot/"
+          },
+          {
+            "title": "\u201eDon Kichot\u201d wiecznie \u017cywy? Wsp\u00f3\u0142czesna popkultura to potwierdza - GazetaPrawna.pl",
+            "url": "https://kultura.gazetaprawna.pl/artykuly/1483878,don-kichot-w-popkulturze.html"
+          },
+          {
+            "title": "Don Kichot (powie\u015b\u0107) \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Don_Kichot_(powie\u015b\u0107)"
+          },
+          {
+            "title": "Don Kichot \u2013 smutny u\u015bmiech czy groteskowy grymas? - cejsh",
+            "url": "https://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.ojs-issn-0035-9602-year-2022-issue-6-article-bwmeta1_element_oai-journals-pan-pl-127078/c/articles-28763305.pdf.pdf"
+          },
+          {
+            "title": "Cervantes \u201eDon Kichot\u201d - opracowanie (geneza, czas i miejsce akcji)",
+            "url": "https://eszkola.pl/jezyk-polski/opracowanie-767.html"
+          },
+          {
+            "title": "Don Kichot (fragmenty) (M. Cervantes) - Opracowania, lektury, fiszki, testy - Opracowania.pl",
+            "url": "https://opracowania.pl/opracowania/jezyk-polski/don-kichot-fragmenty-m-cervantes,oid,10,problematyka"
+          }
+        ]
+      },
+      "Based on the search results, I found substantial information about Polish literary criticism and academic studies of Don Quixote. Here's what the search revealed:\n\n## Polish Academic Research and Literary Criticism on Don Quixote\n\nThe search results reveal significant academic engagement with Don Quixote in Polish scholarship and contemporary interpretations:\n\n### Academic Publications and Research\n\nPolish universities have produced substantial academic work on Don Quixote, including publications from Nicolaus Copernicus University in Toru\u0144 and Adam Mickiewicz University in Pozna\u0144. Notable academic contributions include:\n\n- A comprehensive study \"Don Kichote w krainie filozof\u00f3w : o kichotyzmie pokolenia '98 jako poszukiwaniu nowoczesnej formu\u0142y podmiotowo\u015bci\" by Iwona Krupecka, published by Nicolaus Copernicus University\n\n- A collection of essays titled \"Wieczna krucjata : szkice o 'Don Kichocie'\" edited by Wojciech Charchalis and Arkadiusz \u017bychli\u0144ski, published by Adam Mickiewicz University\n\n### Reception Studies\n\nKazimierz Sabik has studied \"'Don Kichot' w Polsce w XVIII i XIX wieku : recepcja krytyczna\" (Don Quixote in Poland in the 18th and 19th centuries: critical reception), indicating deep historical engagement with the work in Polish literary culture.\n\n### Contemporary Interpretations\n\nPolish literary criticism has developed sophisticated contemporary readings:\n\nContemporary Polish analysis emphasizes how \"Don Kichot\" resonates with modern readers, offering rich interpretations and reflections on human nature, particularly in an era dominated by themes like fake news and fighting systems.\n\nPolish scholars recognize that \"through four centuries, the adventures of the Knight of the Woeful Countenance have accumulated such a thick layer of interpretations that it's impossible to read this book as its first readers did,\" noting the paradox that while everyone believes they understand it, each understands something different.\n\n### Critical Perspectives\n\nPolish criticism includes challenging reinterpretations, such as Vladimir Nabokov's analysis (available in Polish translation) which discovered that \"Don Quixote\" is a \"bloody and cruel book,\" challenging romantic interpretations of Quixotism as \"touching idealism\".\n\nContemporary Polish studies examine the Don Quixote motif in modern novels, including works by Polish authors like Witold Gombrowicz's \"Ferdydurke\" and Tadeusz Konwicki's \"Ma\u0142a apokalipsa\".\n\nThe Polish Academy of Sciences has also contributed to this scholarship, with academic journals publishing research on Don Quixote as an intertext in Polish literature."
+    ],
+    "durationSeconds": 22.097017527997494
+  }
+}

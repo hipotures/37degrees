@@ -1,0 +1,63 @@
+{
+  "session_id": "abba3f5a-b5aa-49e3-9bda-f1f6b93e098c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/abba3f5a-b5aa-49e3-9bda-f1f6b93e098c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Animal Farm George Orwell film adaptations movies television theater productions 2024 2025"
+  },
+  "tool_response": {
+    "query": "Animal Farm George Orwell film adaptations movies television theater productions 2024 2025",
+    "results": [
+      "I'll search for information about Animal Farm adaptations across different media from 2024-2025.",
+      {
+        "tool_use_id": "srvtoolu_018r1tUjvWofLUJqmWX6qUBk",
+        "content": [
+          {
+            "title": "Animal Farm (2025 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Animal_Farm_(2025_film)"
+          },
+          {
+            "title": "'Animal Farm' Review: Andy Serkis' Messy Animated Adaptation",
+            "url": "https://variety.com/2025/film/reviews/animal-farm-review-andy-serkis-1236423877/"
+          },
+          {
+            "title": "Animal Farm (2025) \u2b50 7.1 | Animation, Adventure, Comedy",
+            "url": "https://www.imdb.com/title/tt2467700/"
+          },
+          {
+            "title": "First Look: Andy Serkis\u2019 15-Year Passion Project \u2018Animal Farm\u2019 Is Finally Ready, Premiering at Annecy \u2014 World of Reel",
+            "url": "https://www.worldofreel.com/blog/2025/6/2/animal-farm"
+          },
+          {
+            "title": "A Movie Based On George Orwell's Animal Farm is Coming to Netflix",
+            "url": "https://www.lofficielbaltic.com/en/art/a-movie-based-on-george-orwell-s-animal-farm-is-coming-to-netflix"
+          },
+          {
+            "title": "Andy Serkis on Reimagining George Orwell\u2019s \u2018Animal Farm\u2019 for a New Era",
+            "url": "https://www.hollywoodreporter.com/movies/movie-news/andy-serkis-animal-farm-interview-annecy-2025-reimagining-1236262392/"
+          },
+          {
+            "title": "'Animal Farm' Review: Andy Serkis Directs Orwell's Animated Allegory",
+            "url": "https://deadline.com/2025/06/animal-farm-review-andy-serkis-seth-rogen-all-star-cast-1236427870/"
+          },
+          {
+            "title": "Andy Serkis 'Animal Farm' Animated Film Casts Seth Rogen, Glenn Close",
+            "url": "https://variety.com/2025/film/news/andy-serkis-animal-farm-animated-film-seth-rogen-glenn-close-woody-harrelson-1236375419/"
+          },
+          {
+            "title": "Animal Farm (1999 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Animal_Farm_(1999_film)"
+          },
+          {
+            "title": "Animal Farm (1954 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Animal_Farm_(1954_film)"
+          }
+        ]
+      },
+      "Based on my search results, here's what I found about Animal Farm adaptations in 2024-2025:\n\n## Major 2025 Film Release\n\nThe most significant Animal Farm adaptation in this timeframe is a 2025 animated adventure comedy film produced and directed by Andy Serkis, with a script written by Nicholas Stoller. This film stars Seth Rogen, Gaten Matarazzo, Woody Harrelson, Steve Buscemi, Glenn Close and Kieran Culkin.\n\n### Production Timeline and History\n\nThis adaptation has been a long-time passion project for Serkis. It's taken over a decade, but Andy Serkis has finally brought his long-gestating adaptation of George Orwell's Animal Farm to the screen, with the project experiencing \"many twists and turns along the way\".\n\nThe production process included several key milestones:\n- In August 2018, Netflix purchased distribution rights to the film\n- By April 2022, it was announced that production had commenced as an animated film at Cinesite Studios\n- Deadline Hollywood reported in May 2024 that Animal Farm finished production\n- Netflix initially purchased distribution rights in 2018, but subsequently dropped them\n\n### Recent Premiere and Reception\n\nAnimal Farm had its world premiere on 9 June 2025, at the Annecy International Animation Film Festival. The film has received mixed reviews from critics, with Peter Debruge of Variety noting that Serkis' 21st-century update dilutes Orwell's political allegory in favor of what passes for something more \"audience friendly\".\n\n### Cast and Creative Team\n\nThe film features an impressive voice cast including Seth Rogen, Gaten Matarazzo, Steve Buscemi, Glenn Close, Laverne Cox, Kieran Culkin, Woody Harrelson, Jim Parsons, Kathleen Turner, and Iman Vellani, with Serkis also lending his vocal talents.\n\n### Adaptation Approach\n\nThis version introduces new elements to Orwell's story, including new characters such as a piglet named Lucky, who serves as the audience surrogate. The core story \u2014 Lucky's journey \u2014 was always there. That was my invention. I thought if we put kids in the driver's seat of the moral conundrum, it would land more powerfully.\n\n## Historical Context\n\nIt is the third adaptation of the George Orwell novella, following the 1954 animated film and the 1999 live action film. The previous adaptations were a 1954 animated drama film directed and produced by John Halas and Joy Batchelor and funded in part by the Central Intelligence Agency (CIA) and a 1999 political comedy-drama television film directed by John Stephenson.\n\nThe 2025 film represents the first major theatrical adaptation of Animal Farm in over two decades, bringing Orwell's political allegory to a new generation through modern animation techniques."
+    ],
+    "durationSeconds": 25.106348182999994
+  }
+}

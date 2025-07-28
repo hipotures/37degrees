@@ -1,0 +1,62 @@
+{
+  "session_id": "eefb55a0-c8d5-41bc-8dcc-6acbd6e5a3ba",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/eefb55a0-c8d5-41bc-8dcc-6acbd6e5a3ba.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Great Gatsby tourism Long Island Gold Coast Mansion locations tours museum exhibitions"
+  },
+  "tool_response": {
+    "query": "Great Gatsby tourism Long Island Gold Coast Mansion locations tours museum exhibitions",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01YPdxwdKo6YHN5yQ51zfeB7",
+        "content": [
+          {
+            "title": "Gatsby's Gold Coast Mansions | Discover Long Island",
+            "url": "https://www.discoverlongisland.com/plan-your-trip/famous-long-island/gatsbys-gold-coast-mansions/"
+          },
+          {
+            "title": "Gold Coast Mansions of Gatsby\u2019s Long Island - Google Arts & Culture",
+            "url": "https://artsandculture.google.com/story/gold-coast-mansions-of-gatsby%E2%80%99s-long-island-wnet-new-york-public-media/ZAVR0rEER9jBfQ?hl=en"
+          },
+          {
+            "title": "Architecture Day Trip: Visit the Mansions of Gatsby's \"Gold Coast\" | 6sqft",
+            "url": "https://www.6sqft.com/architecture-day-trip-visit-the-mansions-of-gatsbys-gold-coast/"
+          },
+          {
+            "title": "- The Great Gatsby was set on the Gold Coast of Long Island, NY State",
+            "url": "https://www.bon-voyage.co.uk/activities/the_great_gatsby"
+          },
+          {
+            "title": "Long Island\u2019s Gold Coast: Gatsby & Sands Point - Nassau County Long Island",
+            "url": "https://nassaucountytourism.com/get-inspired/itinerary/spirit-of-gatsby-sands-point/"
+          },
+          {
+            "title": "Long Island's Historic Gold Coast | Mansion Tours & Events",
+            "url": "https://www.discoverlongisland.com/plan-your-trip/trip-ideas/the-luxurious-and-historical-gold-coast/"
+          },
+          {
+            "title": "Long Island\u2019s Gold Coast: Gatsby & Nassau County Museum of Art",
+            "url": "https://nassaucountytourism.com/get-inspired/arts-culture/long-island-gold-coast-spirit-of-gatsby-nassau-county-museum-of-art/"
+          },
+          {
+            "title": "In search of The Great Gatsby in New York State - Wanderlust",
+            "url": "https://www.wanderlustmagazine.com/inspiration/the-great-gatsby-new-york-state/"
+          },
+          {
+            "title": "10 Gold Coast Mansions of Long Island - Untapped New York",
+            "url": "https://www.untappedcities.com/gold-coast-mansions-long-island-2/"
+          },
+          {
+            "title": "The Great Gatsby on Long Island",
+            "url": "https://www.luckytolivehererealty.com/blog/the-great-gatsby-on-long-island"
+          }
+        ]
+      },
+      "Based on my search, I can provide you with comprehensive information about Great Gatsby tourism on Long Island's Gold Coast, including mansion locations, tours, and museum exhibitions.\n\n## Key Mansion Locations for Great Gatsby Tourism\n\nOHEKA Castle is a classic example of the remaining original Gold Coast Mansions built during the 1920s on Long Island's north shore. The term \"Gold Coast\" is a nickname given to the area because of the many wealthy families who built elaborate mansions there. Most agree that Oheka Castle, the home of philanthropist Otto Kahn, was the main inspiration for Gatsby's mansion in the book. Today the castle is a luxury hotel and wedding spot.\n\n**Major mansion tour locations include:**\n\n### Sands Point Preserve (Guggenheim Estate)\nSands Point is the equivalent of \"East Egg\" in the novel, where Kings Point was \"West Egg\". The Sands Point Preserve is actually two mansions and a stable owned by the Guggenheim family in the '20s, dominated by castles and Norman-style architecture. The preserve includes:\n- **Hempstead House**: Tours on Wednesdays at 12 p.m. and 2 p.m. and Sundays at 12 p.m. and 2 p.m.\n- **Falaise**: Late May \u2013 November on Thursdays to Sundays at noon, 1, 2 and 3 p.m.\n\n### Old Westbury Gardens\nThe Old Westbury Gardens matches the description best of all, and served as the inspiration for the Buchanan place in the 2013 The Great Gatsby film. You can visit the house and gardens any day except Tuesdays from the last week of April until the end of October.\n\n### Vanderbilt Museum (Eagle's Nest)\nEagle's Nest, the estate's mansion, includes the Vanderbilt's living quarters in full Jazz Age grandeur. Today, his estate is a museum full of pieces that he collected.\n\n## Museum Exhibitions\n\n### Nassau County Museum of Art\nAt the heart of the museum lies a magnificent Georgian mansion, a timeless symbol of the area's opulent architectural heritage. This elegant structure, once the estate of industrialist Henry Clay Frick, exemplifies the grandeur of the Gilded Age. A neo-Georgian mansion houses the Nassau County Museum of Art, including ten galleries of world-class exhibitions.\n\n## Curated Great Gatsby Tours\n\nNassau County has mapped four different Great Gatsby tours through Nassau County \u2013 home to East Egg (Sands Point) and West Egg (Great Neck). These curated itineraries take visitors from the artistic sanctuaries of the Nassau County Museum of Art to the storied halls of the Planting Fields Arboretum.\n\n## Historical Context\n\nIn The Great Gatsby, the fictionalized towns of \"West Egg\" and \"East Egg\" are based on real areas of the North Shore, where F. Scott Fitzgerald lived from 1922-1924. Often the backdrop for Hollywood productions, the Gold Coast mansions also served as inspiration for The Great Gatsby.\n\nEven today, the novel is still a key driver of tourism to this mansion-stitched region, offering visitors the chance to experience the opulent lifestyle that inspired one of America's greatest literary works."
+    ],
+    "durationSeconds": 26.873146159000694
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "session_id": "7bfa3f26-bffe-44f4-87bb-f54ec853c72a",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7bfa3f26-bffe-44f4-87bb-f54ec853c72a.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Brave New World Aldous Huxley accurate predictions genetic engineering pharmaceuticals modern technology"
+  },
+  "tool_response": {
+    "query": "Brave New World Aldous Huxley accurate predictions genetic engineering pharmaceuticals modern technology",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_0112ayLwb4xAqbjSBaN7hDSX",
+        "content": [
+          {
+            "title": "Genetic Engineering In Aldous Huxley's Brave New World | Cram",
+            "url": "https://www.cram.com/essay/Theme-Of-Inequality-In-Brave-New-World/FCTTQNAEF6"
+          },
+          {
+            "title": "Do We Live in a Brave New World? \u2013 Aldous Huxley\u2019s Warning to the World",
+            "url": "https://academyofideas.com/2021/06/do-we-live-in-a-brave-new-world-aldous-huxleys-warning-to-the-world/"
+          },
+          {
+            "title": "'Brave New World' predicted today's world better than any other novel - Big Think",
+            "url": "https://bigthink.com/high-culture/brave-new-world-prediction-novel/"
+          },
+          {
+            "title": "Aldous Huxley And His Disturbing Predictions | by azizhajeri | Medium",
+            "url": "https://medium.com/@azizhajeri/aldous-huxley-and-his-disturbing-predictions-eb93240995f8"
+          },
+          {
+            "title": "Brave New World - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World"
+          },
+          {
+            "title": "Brave New World Revisited (1958) by Aldous Huxley",
+            "url": "https://www.huxley.net/bnw-revisited/"
+          },
+          {
+            "title": "Brave New World and Brave New World Revisited by Aldous Huxley, Paperback | Barnes & Noble\u00ae",
+            "url": "https://www.barnesandnoble.com/w/brave-new-world-and-brave-new-world-revisited-aldous-huxley/1100552382"
+          },
+          {
+            "title": "Amazon.com: Brave New World: 9780060850524: Huxley, Aldous: Books",
+            "url": "https://www.amazon.com/Brave-New-World-Aldous-Huxley/dp/0060850523"
+          },
+          {
+            "title": "Genetic Engineering In Aldous Huxley's Brave New World | ipl.org",
+            "url": "https://www.ipl.org/essay/Genetic-Engineering-In-Aldous-Huxleys-Brave-New-PJE63JBUYT"
+          },
+          {
+            "title": "Aldous Huxley : Brave New World",
+            "url": "https://www.huxley.net/"
+          }
+        ]
+      },
+      "Based on the search results, here's what I found about Aldous Huxley's \"Brave New World\" and its accurate predictions regarding genetic engineering, pharmaceuticals, and modern technology:\n\n## Accurate Predictions from Brave New World\n\nAldous Huxley's Brave New World was a prediction of a nightmare he thought we would be safe from for at least a few hundred years when he wrote it in 1931. By 1958 he realized he had been very optimistic.(no content)Although the author had developed this world multiple decades ago, many of his implied predictions to the future are surprisingly accurate in today's world. Huxley's Brave New World may seem far fetched from today's society, but the reality of various Huxley predictions is very real.\n\n### Genetic Engineering and In Vitro Fertilization\n\nOne of Huxley's most prescient predictions was regarding genetic manipulation. Every citizen of the World State is created and conditioned through genetic engineering. The shocking part occurs when we realize that Huxley's method of conceiving is similar to the In Vitro fertilization that was first tested by Louise Brown in 1978.(no content)When I discovered that Brave New World was written in 1932, I was surprised considering that the idea of artificial cloning had already been discussed within the novel. This is particularly remarkable since artificial cloning was a scientific discovery that was publicly introduced in 1935 by German embryologist, Hans Spemann. As for the first successful experiment on a living being, it occurred in 1952.\n\n### Modern Pharmaceutical and Technological Parallels\n\nThe similarities between the world of today and the world of the book are many, even if our technology hasn't quite caught up yet. The novel depicted a nightmare society where everybody is perfectly happy all the time. This is assured through destroying the free will of most of the population using genetic engineering and Pavlovian conditioning, keeping everybody entertained continuously with endless distractions, and offering a plentiful supply of the wonder drug Soma to keep people happy if all else fails.(no content)Written in the shadow of the rise of fascism during the 1930s, Brave New World likewise speaks to a 21st-century world dominated by mass-entertainment, technology, medicine and pharmaceuticals, the arts of persuasion, and the hidden influence of elites.\n\n### Technology and Social Control\n\nHuxley also predicted technological methods of social control. Huxley also predicted that in the future certain forms of technology would be used to increase the suggestibility and obedience of a population, so that everyone can \"be depended upon to behave almost as predictably as machines\". In Brave New World, the technology used for this purpose was called hypnopaedia, or \"sleep-teaching\", which Huxley called \"the greatest moralizing and socializing force of all time\".\n\n### Contemporary Genetic Engineering\n\nThe search results show that modern genetic engineering developments continue to reflect Huxley's vision. While the human assembly line described in the first part of the story is still a far-off fantasy, the basic concepts that make it work are already here. Today, people make choices to influence the genetic makeup of their children regularly. Pre-natal screening has created the ability for many parents to decide if they wish to carry a disabled fetus to term or not.(no content)Aldous Huxley was a visionary. His novel continues to serve as both a warning and a surprisingly accurate prediction of how scientific advances in genetics, pharmaceuticals, and technology could be used to shape society and human behavior."
+    ],
+    "durationSeconds": 30.8137398959999
+  }
+}

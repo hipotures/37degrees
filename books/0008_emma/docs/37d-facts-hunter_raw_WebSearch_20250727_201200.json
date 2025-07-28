@@ -1,0 +1,62 @@
+{
+  "session_id": "43e12ea9-84a2-4345-8d62-d857a85435cd",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/43e12ea9-84a2-4345-8d62-d857a85435cd.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Emma Jane Austen names symbolism places significance religious moral symbolism economic themes"
+  },
+  "tool_response": {
+    "query": "Emma Jane Austen names symbolism places significance religious moral symbolism economic themes",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01NXKjsnTfwc7cPqMNe6g1Ci",
+        "content": [
+          {
+            "title": "Emma: Symbols | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/emma/symbols/"
+          },
+          {
+            "title": "Styles and themes of Jane Austen - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Styles_and_themes_of_Jane_Austen"
+          },
+          {
+            "title": "Emma Symbols - Course Hero",
+            "url": "https://www.coursehero.com/lit/Emma/symbols/"
+          },
+          {
+            "title": "Emma Symbols | LitCharts",
+            "url": "https://www.litcharts.com/lit/emma/symbols"
+          },
+          {
+            "title": "The Sympathetic Impulse: Duty and Morality in Emma and North and South",
+            "url": "https://www.jasna.org/publications-2/persuasions-online/vol38no1/harbers/"
+          },
+          {
+            "title": "Emma | Jane Austen, Summary, Characters, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/Emma-novel-by-Austen"
+          },
+          {
+            "title": "Emma: Themes and Symbols by Courtney Herron on Prezi",
+            "url": "https://prezi.com/0jz82phswv2j/emma-themes-and-symbols/"
+          },
+          {
+            "title": "Emma: Jane Austen, Summary and Themes | Vaia",
+            "url": "https://www.vaia.com/en-us/explanations/english-literature/novelists/emma/"
+          },
+          {
+            "title": "Emma: Analysis of Setting | EBSCO Research Starters",
+            "url": "https://www.ebsco.com/research-starters/literature-and-writing/emma-analysis-setting"
+          },
+          {
+            "title": "Emma (novel) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Emma_(novel)"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with information about the symbolism, themes, and significance of names, places, religious elements, moral symbolism, and economic themes in Jane Austen's *Emma*.\n\n## Symbolism and Names in Emma\n\nA number of objects in the novel take on symbolic significance as tokens of affection. Mr. Elton frames Emma's portrait of Harriet as a symbol of affection for her, though Emma misunderstands it as a symbol of affection for Harriet.(no content)Charades and word puzzles, common parlor games in the Regency era, are used in Emma to symbolize misunderstandings, both deliberate and unintended, among the characters. For example, Mr. Elton writes a riddle for Emma, which is a love poem. She mistakenly believes that he intends it for Harriet.(no content)Word games function as a metaphor for the partial understandings and misunderstandings that exist among Emma, Frank, Jane, and Mr. Knightley. As Mr. Knightley looks on, Frank uses child's blocks to create words for the ladies to decode, though these words mean different things to each of them. Frank makes the word \"blunder,\" which Jane understands as referring to a mistake he has just made, but whose meaning is opaque to Emma and Knightley.\n\n## Place Significance\n\nThe primary setting is the fictional village of Highbury, located sixteen miles southwest of London, characterized as a small yet populated area where the protagonist, Emma Woodhouse, navigates her social environment. Key locations within Highbury include local shops, a church, and the nearby Donwell Abbey, home to Mr. Knightley, which symbolizes Emma's eventual growth and understanding of her community.(no content)The novel tells of Emma's growth into adulthood. The isolated and restricted village in which she lives reflects her own initial isolation. For the first twelve chapters, she never strays far from home, which she shares with her unmarried father.(no content)Parties and social gatherings are symbols of community members coming together. Several parties in Emma allow people to meet and check out possible marriage partners. For Frank Churchill, a party is a sort of official \"baptism,\" through which he will be accepted as a member of local society.\n\n## Religious and Moral Symbolism\n\nWhile Austen steers clear of the formal moralizing common in early-19th-century literature, morality\u2014characterized by manners, duty to society and religious seriousness\u2014is a central theme of her works.(no content)According to one important interpretation, Austen can be considered a \"conservative Christian moralist\" whose view of society was \"ultimately founded in religious principle\". However, Austen's works are unique among her contemporaries in containing few, if any, references to the Bible. Instead, she often refers to works by moral poets such as William Cowper.(no content)Her plots are fundamentally about education; her heroines come to see themselves and their conduct more clearly, and become better, more moral people.\n\n## Economic Themes\n\nAusten's novels raise and explore a variety of issues relating to money and property and the power they convey. For example, in Pride and Prejudice, the plot revolves around the problems caused by primogeniture, as the Bennet property is entailed away from the Bennet daughters.(no content)As Copeland explains, \"from the focus of Sense and Sensibility, Pride and Prejudice, and Northanger Abbey, where the single most significant economic problem for women is the lack of a fortune, Austen's works steadily engage women in more and more complex relationships to the economy. Mansfield Park, Emma, and Persuasion, each in turn, move through an examination of the economy as measure of social morality, as agent of social disruption, [and] as source of national identity\".(no content)Austen feared that economic considerations would overcome moral considerations in human conduct; her most amoral characters\u2014Wickham, Mary Crawford, Mr. Elliot\u2014are the most economically motivated.(no content)Austen highlights gender inequality frequently in Emma. For example, Jane, who is well-educated but without any finances, would have had to work as a governess unless she managed to find a husband. In contrast, both educated and uneducated men of this era could choose from a variety of occupations.(no content)Marriage and social status are the two foci of Emma. Most of the drama in Austen's novel revolves around who loves whom and what that means, given their social station. Social status in 19th-century England was determined by a confluence of factors, including, but not limited to, family name, sex, birthright, reputation, and wealth, and it dictated much about the course of a person's life."
+    ],
+    "durationSeconds": 36.65032774000056
+  }
+}

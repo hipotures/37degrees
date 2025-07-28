@@ -1,0 +1,62 @@
+{
+  "session_id": "abba3f5a-b5aa-49e3-9bda-f1f6b93e098c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/abba3f5a-b5aa-49e3-9bda-f1f6b93e098c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Animal Farm character symbolism Napoleon Snowball Old Major historical figures Stalin Trotsky Lenin"
+  },
+  "tool_response": {
+    "query": "Animal Farm character symbolism Napoleon Snowball Old Major historical figures Stalin Trotsky Lenin",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01CmcjFckJmPg5MHTjdBNg9y",
+        "content": [
+          {
+            "title": "In the allegory animal farm, if old major is Lenin, Napoleon is Stalin, and snowball is Trotsky, who is boxer? - Quora",
+            "url": "https://www.quora.com/In-the-allegory-animal-farm-if-old-major-is-Lenin-Napoleon-is-Stalin-and-snowball-is-Trotsky-who-is-boxer"
+          },
+          {
+            "title": "Animal Farm: The Russian Revolution | Critical Essays | CliffsNotes",
+            "url": "https://www.cliffsnotes.com/literature/a/animal-farm/critical-essays/the-russian-revolution"
+          },
+          {
+            "title": "The Russian Revolution & Animal Farm | Parallels & Comparisons - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/how-animal-farm-parallels-the-russian-revolution.html"
+          },
+          {
+            "title": "Animal Farm: Analysis of Major Characters | EBSCO Research Starters",
+            "url": "https://www.ebsco.com/research-starters/literature-and-writing/animal-farm-analysis-major-characters"
+          },
+          {
+            "title": "Animal Farm - Comparison of characters to the Russian ...",
+            "url": "https://www.murrieta.k12.ca.us/cms/lib5/CA01000508/Centricity/Domain/1814/animal%20farm%20communism%20comparison.pdf"
+          },
+          {
+            "title": "Snowball (Animal Farm) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Snowball_(Animal_Farm)"
+          },
+          {
+            "title": "Animal Farm - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Animal_Farm"
+          },
+          {
+            "title": "Historical figures represented by characters in Animal Farm - eNotes.com",
+            "url": "https://www.enotes.com/topics/animal-farm/questions/historical-figures-represented-by-characters-in-3126705"
+          },
+          {
+            "title": "The Soviet Union Theme in Animal Farm | LitCharts",
+            "url": "https://www.litcharts.com/lit/animal-farm/themes/the-soviet-union"
+          },
+          {
+            "title": "Historical Context (Animal Farm) | Revision World",
+            "url": "https://revisionworld.com/level-revision/english-literature-gcse-level/animal-farm-george-orwell/historical-context-animal"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about the character symbolism in Animal Farm and their connections to historical figures:\n\n## Character Symbolism in Animal Farm\n\n**Old Major** represents Vladimir Lenin, the revolutionary leader who inspired the Russian Revolution. Old Major is a combination of Karl Marx and Vladimir Lenin, due to his inspiring ideas that he never saw come to fruition due to his death. Modeled on Vladimir Ilich Lenin, Old Major is highly respected in the barnyard, a capable orator, and an uncompromising ideologue for the Animalist cause.\n\n**Napoleon** symbolizes Joseph Stalin. Like Napoleon, Stalin was unconcerned with debates and ideas. Instead, he valued power for its own sake and by 1927 had assumed complete control of the Communist Party through acts of terror and brutality. Napoleon corresponds to Joseph Stalin, who ousted Trotsky after the death of Lenin and who then led bloody purges against possible and imagined dissenters.\n\n**Snowball** represents Leon Trotsky. His counterpart in Animal Farm is Snowball, who, like Trotsky, felt that a worldwide series of rebellions was necessary to achieve the revolution's ultimate aims. Snowball is modeled on Leon Trotsky and so represents intelligence and organizational ability rather than brute force. Eventually, Trotsky was exiled from the U.S.S.R. and killed by the agents of Joseph Stalin (1979-1953), as Snowball is chased off of the farm by Napoleon.\n\n## Key Parallels Between Characters and Historical Events\n\nThe power struggle between Napoleon and Snowball mirrors the two rival and quasi-Messianic beliefs that seemed pitted against one another: Trotskyism, with its faith in the revolutionary vocation of the proletariat of the West; and Stalinism with its glorification of Russia's socialist destiny.\n\nNapoleon's dogs are like Stalin's KGB, his secret police that he used to eliminate all opposition. The confessions and executions of the animals reflect the various purges and \"show trials\" that Stalin conducted to rid himself of any possible threat of dissention.\n\nOne of Orwell's goals in writing Animal Farm was to portray the Russian (or Bolshevik) Revolution of 1917 as one that resulted in a government more oppressive, totalitarian, and deadly than the one it overthrew.\n\nThe novel serves as an allegory or a fable that uses symbolism to offer a veiled critique of the Russian Revolution, with Manor Farm is a model of Russia, and old Major, Snowball, and Napoleon represent the dominant figures of the Russian Revolution."
+    ],
+    "durationSeconds": 27.713313352000025
+  }
+}

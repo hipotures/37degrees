@@ -1,0 +1,62 @@
+{
+  "session_id": "eefb55a0-c8d5-41bc-8dcc-6acbd6e5a3ba",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/eefb55a0-c8d5-41bc-8dcc-6acbd6e5a3ba.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Wielki Gatsby\" polska kultura adaptacje polskie American Dream Poland reception Polish youth literature"
+  },
+  "tool_response": {
+    "query": "\"Wielki Gatsby\" polska kultura adaptacje polskie American Dream Poland reception Polish youth literature",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01TarWS6fsmKSkeUH1bH15hA",
+        "content": [
+          {
+            "title": "(PDF) Selected cultural elements and allusions in five Polish translations of F. Scott Fitzgerald\u2019s 'The Great Gatsby'",
+            "url": "https://www.researchgate.net/publication/378252335_Selected_cultural_elements_and_allusions_in_five_Polish_translations_of_F_Scott_Fitzgerald's_'The_Great_Gatsby'"
+          },
+          {
+            "title": "Representation of culture-specific elements in two Polish translations of The Great Gatsby by Francis Scott Fitzgerald",
+            "url": "https://ruj.uj.edu.pl/entities/publication/29668e8c-8ab8-4a9a-94be-3681a99bf593"
+          },
+          {
+            "title": "Wielki Gatsby \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Wielki_Gatsby"
+          },
+          {
+            "title": "Wielki Gatsby - wydawnictwo-jaguar.pl",
+            "url": "https://wydawnictwo-jaguar.pl/sklep/produkt/882/wielki-gatsby"
+          },
+          {
+            "title": "Wielki Gatsby - Ca\u0142a Polska Czyta Dzieciom",
+            "url": "https://calapolskaczytadzieciom.pl/ksiazka/wielki-gatsby/"
+          },
+          {
+            "title": "Wielki Gatsby (1974) - Filmweb",
+            "url": "https://www.filmweb.pl/film/Wielki+Gatsby-1974-1095"
+          },
+          {
+            "title": "First Polish Edition the Great Gatsby (wielki Gatsby) by F. Scott Fitzgerald Ksiazka Wiedza, 1982 Vintage Paperback Book - Etsy",
+            "url": "https://www.etsy.com/listing/1382509225/first-polish-edition-the-great-gatsby"
+          },
+          {
+            "title": "Wielki Gatsby",
+            "url": "https://www.empik.com/wielki-gatsby-fitzgerald-f-scott,p1069457833,ksiazka-p"
+          },
+          {
+            "title": "Teatr w Krakowie im. J. S\u0142owackiego - Wielki Gatsby",
+            "url": "https://teatrwkrakowie.pl/spektakl/wielki-gatsby"
+          },
+          {
+            "title": "Wielki Gatsby - Wydawnictwo SBM",
+            "url": "https://www.wydawnictwosbm.pl/ksiazka/wielki-gatsby/"
+          }
+        ]
+      },
+      "I've performed the web search for \"Wielki Gatsby\" polska kultura adaptacje polskie American Dream Poland reception Polish youth literature. The search results provide detailed information about various aspects of how \"The Great Gatsby\" has been received, translated, and adapted in Polish culture.\n\nHere are the key findings from the search:\n\n## Polish Translations and Cultural Reception\n\nThe first Polish translation of \"The Great Gatsby\" was published in 1962, and currently, readers in Poland can choose from among six translations of this iconic work, with three of them added in 2021 and 2022, probably as a result of the entry of the book into the public domain in 2021.(no content)The work presents a socio-cultural narrative that invites reflection on how Polish translators dealt with the cultural elements and allusions pervasive in The Great Gatsby, with academic research examining selected cultural elements and allusions within the context of the five Polish translations.\n\n## Academic Research on Polish Translations\n\nAcademic studies have compared and analyzed Polish translations of Francis Scott Fitzgerald's \"Wielki Gatsby\" with special attention to translators' approaches to cultural elements.(no content)This research examines the theoretical framework of issues related to translating cultural elements, discussing relationships between culture, language, and translation, and presenting classifications of cultural elements as well as possible solutions during their translation.\n\n## Cultural Adaptations in Poland\n\nThe search reveals several types of Polish adaptations:\n\n1. **Comic Book Adaptation**: The first-ever comic book adaptation of the timeless novel by beloved American classic F.S. Fitzgerald has been created, showing Polish interest in modernizing the work for contemporary audiences.\n\n2. **Theatrical Productions**: Francis Scott Fitzgerald's \"Wielki Gatsby\" - one of the most important novels of the 20th century - is being performed at the S\u0142owacki Theatre, described as a story about great dreams, great love, great disappointment and great emptiness.\n\n## Cultural Context and Reception\n\nThe book initially did not gain popularity, with no more than 25 thousand copies sold during Fitzgerald's lifetime. It began to gain interest only after republication in 1953. Currently it is often discussed in American high schools.\n\nThe search results indicate that \"Wielki Gatsby\" has found a significant place in Polish literary culture through multiple translations, academic study of cultural translation challenges, and various contemporary adaptations including comics and theater, demonstrating its enduring relevance to Polish audiences exploring themes of the American Dream."
+    ],
+    "durationSeconds": 21.34523456399888
+  }
+}

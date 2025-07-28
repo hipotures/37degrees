@@ -1,0 +1,62 @@
+{
+  "session_id": "abba3f5a-b5aa-49e3-9bda-f1f6b93e098c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/abba3f5a-b5aa-49e3-9bda-f1f6b93e098c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "T.S. Eliot rejected Animal Farm Faber \"generally Trotskyite\" pigs best to run farm letter"
+  },
+  "tool_response": {
+    "query": "T.S. Eliot rejected Animal Farm Faber \"generally Trotskyite\" pigs best to run farm letter",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01WfYEQgN1WjhVms2DgExRwv",
+        "content": [
+          {
+            "title": "The Paris Review - When T. S. Eliot Rejected \u201cAnimal Farm\u201d",
+            "url": "https://www.theparisreview.org/blog/2016/05/27/more-public-spirited-pigs-and-other-news/"
+          },
+          {
+            "title": "British Library Digitizes T.S. Eliot's Animal Farm Rejection ...",
+            "url": "https://www.poetryfoundation.org/harriet-books/2016/05/british-library-digitizes-ts-eliots-animal-farm-rejection-letter"
+          },
+          {
+            "title": "British Library Digitizes T.S. Eliot's Animal Farm Rejection Letter",
+            "url": "https://www.poetryfoundation.org/poetry-news/75098/british-library-digitizes-ts-eliots-animal-farm-rejection-letter"
+          },
+          {
+            "title": "T.S. Eliot rejected Orwell`s `Trotskyite` Animal Farm: letter - DAWN.COM",
+            "url": "https://www.dawn.com/news/921045"
+          },
+          {
+            "title": "TS Eliot\u2019s snort of rejection for Animal Farm",
+            "url": "https://www.historynewsnetwork.org/article/ts-eliots-snort-of-rejection-for-animal-farm"
+          },
+          {
+            "title": "Animal Farm - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Animal_Farm"
+          },
+          {
+            "title": "T.S. Eliot's rejection letter to George Orwell (Animal Farm)",
+            "url": "https://brianjohnspencer.tumblr.com/post/91451869998/ts-eliots-rejection-letter-to-george-orwell"
+          },
+          {
+            "title": "The Other \u2013 Animal Farm \u2013 FOLLOWING FILM",
+            "url": "https://blog.filmmuseum.at/the-other-animal-farm/"
+          },
+          {
+            "title": "Some Interpretations are More Equal Than Others: Misinterpreting George Orwell\u2019s Animal Farm \u2013 PIT Journal",
+            "url": "https://pitjournal.unc.edu/2023/01/05/some-interpretations-are-more-equal-than-others-misinterpreting-george-orwells-animal-farm/"
+          },
+          {
+            "title": "T.S. Eliot Rejects George Orwell - The American Spectator | USA News and Politics",
+            "url": "https://spectator.org/18331_ts-eliot-rejects-george-orwell/"
+          }
+        ]
+      },
+      "The search results confirm this historical literary event. As an editor at Faber & Faber, T. S. Eliot had the chance to publish Animal Farm. He declined.(no content)And he had sound porcine reasons for doing so, according to a newly digitized letter he wrote Orwell in 1944: \"The positive point of view, which I take to be generally Trotskyite, is not convincing \u2026 After all, your pigs are far more intelligent than the other animals, and therefore the best qualified to run the farm\u2014in fact, there couldn't have been an Animal Farm at all without them: so that what was needed (someone might argue), was not more communism but more public-spirited pigs.\"\n\nThe letter from T.S. Eliot to George Orwell was dated July 13, 1944, and contained his famous critique that became known as one of \"the literary snub of the 20th century.\"(no content)Animal Farm, a beast fable that satirised Stalinism and depicted Stalin as a traitor, was rejected by at least four publishers, with many, like Eliot, feeling it was too controversial at a time when Britain was allied with the Soviet Union against Germany.\n\nThe key quotes from Eliot's rejection letter include his criticism that \"the positive point of view, which I take to be generally Trotskyite, is not convincing,\" and his controversial assertion that \"your pigs are far more intelligent than the other animals, and therefore the best qualified to run the farm \u2013 in fact, there couldn't have been an Animal Farm at all without them: so that what was needed (someone might argue), was not more communism but more public-spirited pigs.\"(no content)Animal Farm went on to be published by Secker & Warburg in August 1945."
+    ],
+    "durationSeconds": 14.749113904000026
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "session_id": "64c02781-35b5-4610-af34-374bc1820cc1",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/64c02781-35b5-4610-af34-374bc1820cc1.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Alice's Adventures Under Ground\" original manuscript 1864 \"British Library\" handwritten illustrations Carroll"
+  },
+  "tool_response": {
+    "query": "\"Alice's Adventures Under Ground\" original manuscript 1864 \"British Library\" handwritten illustrations Carroll",
+    "results": [
+      "I'll search for information about the original 1864 manuscript of \"Alice's Adventures Under Ground\" at the British Library, focusing on Carroll's handwritten work and illustrations.",
+      {
+        "tool_use_id": "srvtoolu_017vn7kbYhffTJSQcdPPhxFh",
+        "content": [
+          {
+            "title": "Alice's Adventures Under Ground: The Original Manuscript: Carroll, Lewis: 9780712356008: Amazon.com: Books",
+            "url": "https://www.amazon.com/Alices-Adventures-Under-Ground-Manuscript/dp/0712356002"
+          },
+          {
+            "title": "Alice's Adventures Under Ground : Carroll, Lewis, 1832-1898 : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/AlicesAdventuresUnderGround1864"
+          },
+          {
+            "title": "Alice's Adventures Under Ground: Original Handwritten Manuscript Of Alice In Wonderland: Carroll, Lewis: 9798588699662: Amazon.com: Books",
+            "url": "https://www.amazon.com/Alices-Adventures-Under-Ground-Handwritten/dp/B09CC4DSM6"
+          },
+          {
+            "title": "Alice's Adventures in Wonderland - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Alice's_Adventures_in_Wonderland"
+          },
+          {
+            "title": "Alice's Adventures Under Ground: The Original Manuscript: Amazon.co.uk: Carroll, Lewis: 9780712356008: Books",
+            "url": "https://www.amazon.co.uk/Alices-Adventures-Under-Ground-Manuscript/dp/0712356002"
+          },
+          {
+            "title": "Amazon.com: Alice's Adventures Under Ground: The Original Manuscript: 9780198831006: Carroll, Lewis: Books",
+            "url": "https://www.amazon.com/Alices-Adventures-Under-Ground-Manuscript/dp/0712352430"
+          },
+          {
+            "title": "Alice's adventures under ground: After Lewis Carroll's original manuscript which later became Alice in Wonderland : The original manuscript of ... original manuscript is in the British Museum: Carroll, Lewis: Amazon.com: Books",
+            "url": "https://www.amazon.com/Alices-adventures-under-ground-manuscript/dp/B0006EVYWI"
+          },
+          {
+            "title": "Alice's Adventures Under Ground - The Original Manuscript by Lewis Carroll",
+            "url": "https://50wattsbooks.com/products/alices-adventures-under-ground-the-original-manuscript"
+          },
+          {
+            "title": "Lewis Carroll's Alice's Adventures in Wonderland | The British Library",
+            "url": "https://www.britishlibrary.cn/en/works/alice-in-wonderland/"
+          },
+          {
+            "title": "Alice's adventures under ground : after Lewis Carroll's original manuscript which later became Alice in Wonderland : The original manuscript of \"Alice's adventures underground,\" upon which \"Alice in Wonderland\" was based, was written and illustrated by Lewis Carroll at the request of Alice Liddell, a friend's daughter ... At present the original manuscript is in the British Museum. | Printed Books | The Morgan Library & Museum",
+            "url": "https://www.themorgan.org/printed-books/342888"
+          }
+        ]
+      },
+      "Based on my search results, I can provide you with comprehensive information about the original 1864 manuscript of \"Alice's Adventures Under Ground\" held at the British Library, including details about Carroll's handwritten text and illustrations.\n\n## The Original Manuscript\n\nThe manuscript was presented to Alice as an early Christmas present on 26 November 1864, fulfilling a promise Carroll had made to Alice Liddell. The tale that would become Alice in Wonderland was first told by Charles Dodgson, aka Lewis Carroll, to Alice Liddell and her sisters on a summer's day in 1862... The ten-year-old Alice was so entranced that she begged him to write it down for her.\n\n## Physical Description\n\nThe manuscript is written in sepia-coloured ink and including 37 pen-and-ink illustrations (and a coloured title page). It took him until February 1863 to write out the whole text, taking great pains to write in neat 'manuscript print', designed for the young Alice to read.\n\nThe manuscript was illustrated by Carroll, who added 37 illustrations\u2014printed in a facsimile edition in 1887. The manuscript represents Carroll's original vision before it was expanded and professionally illustrated for publication.\n\n## British Library Collection\n\nThis manuscript is one of the British Library's best-loved treasures. In this superb facsimile of Dodgson's manuscript\u2014now one of the British Library's most treasured possessions\u2014modern readers can enjoy the expressive script and vibrant illustrations of the original.\n\n## History of the Manuscript\n\nThe manuscript of Alice's Adventures Under Ground written and illustrated by Carroll, which he had given to Alice Liddell, was sold at Sotheby's in London on 3 April... It was sold to Philip Rosenbach of Philadelphia for \u00a315,400, a world record for the sale of a manuscript at the time; the buyer later presented it to the British Library (where the manuscript remains) as an appreciation for Britain's part in two World Wars.\n\n## Differences from Published Version\n\nThe original manuscript differs significantly from the published \"Alice's Adventures in Wonderland.\" When Dodgson was encouraged by friends to publish his manuscript, he made some changes to the story, removing some of the family references included for the amusement of the Liddell children and creating two additional chapters. These new chapters introduced characters that many readers most associate with Wonderland \u2013 the Duchess, the Cheshire Cat, the Hatter and the March Hare.\n\n## Carroll's Illustrations\n\nAlthough Dodgson had illustrated 'Alice's Adventures Under Ground' himself he was not satisfied with his illustrations and he decided to look for a professional illustrator instead... Tenniel created 42 illustrations for Alice \u2013 five more than Dodgson had drawn in his manuscript.\n\n## Availability\n\nThe manuscript can be viewed digitally through the British Library's collection. Low def facsimile of the original manuscript, maid from British Library's Virtual books Add. MS 46700 (see at http://www.bl.uk/collection-items/alices-adventures-under-ground-the-original-manuscript-version-of-alices-adventures-in-wonderland).\n\nSeveral facsimile editions have been published, allowing readers to experience Carroll's original handwritten work and illustrations. Beautiful book of the original Alice story, with lots of background information to the original Alice. Wonderfully illustrated by Carroll. Saw it in the British Library, where they were selling it for \u00a320.\n\nThe manuscript remains a remarkable testament to the creative process behind one of the most beloved children's stories ever written, showcasing Carroll's own artistic talents alongside his literary genius."
+    ],
+    "durationSeconds": 39.864985728
+  }
+}

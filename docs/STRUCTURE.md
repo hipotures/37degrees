@@ -14,10 +14,18 @@ The project has been reorganized to better support multimedia content for each b
 │   └── NNNN_[book_name]/      # Individual book directory (e.g., 0017_little_prince)
 │       ├── book.yaml          # Book metadata and slides
 │       ├── docs/              # Documentation and research
+│       │   ├── findings/      # All *findings.md files
+│       │   ├── todo/          # All TODO_*.md files (agent TODOs and master TODO)
+│       │   ├── 37d-facts-hunter/      # JSON files and index for facts-hunter agent
+│       │   ├── 37d-symbol-analyst/    # JSON files and index for symbol-analyst agent
+│       │   ├── 37d-culture-impact/    # JSON files and index for culture-impact agent
+│       │   ├── 37d-polish-specialist/ # JSON files and index for polish-specialist agent
+│       │   ├── 37d-youth-connector/   # JSON files and index for youth-connector agent
+│       │   ├── 37d-bibliography-manager/ # JSON files and index for bibliography-manager agent
+│       │   ├── 37d-source-validator/  # JSON files and index for source-validator agent
 │       │   ├── review.md      # Fascinating facts and discoveries
 │       │   ├── book_page.html # Interactive HTML presentation
-│       │   ├── README.md      # Documentation guide
-│       │   └── research/      # AI-generated research
+│       │   └── README.md      # Documentation guide
 │       ├── generated/         # AI-generated images
 │       ├── prompts/           # Generated AI prompts
 │       │   ├── scenes/        # Scene descriptions (v2.0+)

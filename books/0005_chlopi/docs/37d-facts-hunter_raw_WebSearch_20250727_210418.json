@@ -1,0 +1,62 @@
+{
+  "session_id": "7bfa3f26-bffe-44f4-87bb-f54ec853c72a",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7bfa3f26-bffe-44f4-87bb-f54ec853c72a.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Ch\u0142opi theater theatrical adaptations Polish drama stage"
+  },
+  "tool_response": {
+    "query": "Ch\u0142opi theater theatrical adaptations Polish drama stage",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01Wqm1HDvQkFy5pJEU4jMdg9",
+        "content": [
+          {
+            "title": "Ch\u0142opi",
+            "url": "https://boskakomedia.pl/en/spektakle/peasants"
+          },
+          {
+            "title": "Competition performance: \u201cCh\u0142opi\u201d, dir. Krzysztof Garbaczewski - Festival Interpretacje",
+            "url": "http://festiwal-interpretacje.pl/en/competition-performance-chlopi-dir-krzysztof-garbaczewski/"
+          },
+          {
+            "title": "Theatre of Poland - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Theatre_of_Poland"
+          },
+          {
+            "title": "Nineteenth-Century Theatrical Adaptations of ...",
+            "url": "https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=2505&context=etd"
+          },
+          {
+            "title": "Poland - Theatre, Motion Pictures, Culture | Britannica",
+            "url": "https://www.britannica.com/place/Poland/Theatre-and-motion-pictures"
+          },
+          {
+            "title": "Dziady - Non Fiction | Inverted Theater online | Dramox",
+            "url": "https://www.dramox.tv/theatres/240-inverted-theater/417-dziady-non-fiction"
+          },
+          {
+            "title": "Polish Theatre - Jerzy Grzegorzewski Stage",
+            "url": "https://visitwroclaw.eu/en/place/polish-theatre-jerzy-grzegorzewski-stage"
+          },
+          {
+            "title": "Ch\u0142opi",
+            "url": "https://muzyczny.org/en/shows/6-chlopi.html"
+          },
+          {
+            "title": "Juliusz S\u0142owacki Theatre - Wikipedia",
+            "url": "https://en.m.wikipedia.org/wiki/Juliusz_S%C5%82owacki_Theatre"
+          },
+          {
+            "title": "A Foreigner\u2019s Guide to Polish Theatre | Article | Culture.pl",
+            "url": "https://culture.pl/en/article/a-foreigners-guide-to-polish-theatre"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about theatrical adaptations of \"Ch\u0142opi\" (The Peasants) by W\u0142adys\u0142aw Reymont in Polish drama and stage productions:\n\n## Theatrical Adaptations of \"Ch\u0142opi\"\n\nRecognized with Nobel Prize in 1924, the novel depicts the life of a fictional village Lipce in the late 19th century. Several notable theatrical adaptations of W\u0142adys\u0142aw Reymont's masterpiece have been created for the Polish stage:\n\n### Recent Stage Productions\n\n**Powszechny Theatre in Warsaw** - Based on the novel \"Ch\u0142opi\" by W\u0142adys\u0142aw Reymont Adaptation and direction: Krzysztof Garbaczewski This adaptation has received critical acclaim, with one review noting that \"One of the two jewels in this theatrical crown is the spectacular combination of apparently conflicting features: the faithfulness to the Young Poland novel and the strong update on the novel's themes. The other jewel are the actors of the Powszechny Theatre, who give a remarkable show of talent and team work on stage.\"\n\n**Ludowy Theatre** - Director Remigiusz Brzyk remarked that his adaptation of W\u0142adys\u0142awa Reymont's classic and epic novel could be called \"peasant women\" rather than \"peasant men\", as the title is often construed.(no content)Brzyk is right, for his production's limelight is on the incessantly oppressed women remarkably delivered by the actresses of the Ludowy Theatre: Justyna Litwic, Weronika Kowalska, Katarzyna Tla\u0142ka, Beata Schimscheiner, and Ma\u0142gorzata Kochan.\n\n### Musical Adaptation\n\nMagnificent polish musical directed by Wojciech Ko\u015bcielniak has premiered in 2013.(no content)\"Peasants\", a novel by W\u0142adys\u0142aw Reymont, shows community life over a period of four seasons of the year. The story focuses on the conflict of generations, inevitability of change and the impact of a group on the individual\n\n### Theatrical Themes and Interpretations\n\nModern adaptations have focused on contemporary relevance. From the monumental novel by W\u0142adys\u0142aw Reymont, Krzysztof Garbaczewski picks out ecological and emancipatory themes; he tracks human links with the natural world and defines the need to work and the sense of work in his own way.(no content)Represented by Garbaczewski, the world of \"Ch\u0142opi\" is also the stage of performative action, where dramas of the community life based on violence against women and exclusion unfold.\n\nThe adaptations demonstrate how Usually read as an ethnographic record of the past, it reveals its own myth-making capacity and the creative power of language. These theatrical interpretations successfully bridge the gap between classical Polish literature and contemporary stage performance, making Reymont's rural epic accessible to modern audiences while preserving its essential themes of social conflict, gender oppression, and the relationship between humans and nature."
+    ],
+    "durationSeconds": 25.553342339000025
+  }
+}

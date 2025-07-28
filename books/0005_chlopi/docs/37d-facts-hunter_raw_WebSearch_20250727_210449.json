@@ -1,0 +1,62 @@
+{
+  "session_id": "7bfa3f26-bffe-44f4-87bb-f54ec853c72a",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7bfa3f26-bffe-44f4-87bb-f54ec853c72a.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Ch\u0142opi Reymont Polish schools curriculum literature education"
+  },
+  "tool_response": {
+    "query": "Ch\u0142opi Reymont Polish schools curriculum literature education",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01Gw3tWiKryt1GE9Zvc3qWMG",
+        "content": [
+          {
+            "title": "Discover 8 Classics from Poland\u2019s Required Reading Curriculum | Article | Culture.pl",
+            "url": "https://culture.pl/en/article/discover-8-classics-from-polands-required-reading-curriculum"
+          },
+          {
+            "title": "Education",
+            "url": "https://education.org.pl/wp-content/uploads/2018/08/the-system_2014_www.pdf"
+          },
+          {
+            "title": "Education in Poland - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Education_in_Poland"
+          },
+          {
+            "title": "W\u0142adys\u0142aw Reymont (May 7, 1867 \u2014 December 5, 1925), Polish novelist | World Biographical Encyclopedia",
+            "url": "https://prabook.com/web/w_adys_aw.reymont/722521"
+          },
+          {
+            "title": "W\u0142adys\u0142aw Reymont - Students | Britannica Kids | Homework Help",
+            "url": "https://kids.britannica.com/students/article/W%C5%82adys%C5%82aw-Reymont/334469"
+          },
+          {
+            "title": "Teaching and learning in general upper secondary education",
+            "url": "https://eurydice.eacea.ec.europa.eu/national-education-systems/poland/teaching-and-learning-general-upper-secondary-education"
+          },
+          {
+            "title": "Poland - History Background - Schools, Education, School, and Polish - StateUniversity.com",
+            "url": "https://education.stateuniversity.com/pages/1209/Poland-HISTORY-BACKGROUND.html"
+          },
+          {
+            "title": "W\u0142adys\u0142aw Reymont - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/W\u0142adys\u0142aw_Reymont"
+          },
+          {
+            "title": "The Polish Curriculum in Primary and Secondary Schools \u2013 TIMSS 2015 Encyclopedia",
+            "url": "https://timssandpirls.bc.edu/timss2015/encyclopedia/countries/poland/the-polish-curriculum-in-primary-and-secondary-schools/"
+          },
+          {
+            "title": "Ch\u0142opi by Wladys\u0142aw Reymont- Hardcover Novel | TK-98 \u2013 Luxahaus Beyond",
+            "url": "https://www.luxahausbeyond.com/products/chlopi-by-wladyslaw-reymont-hardcover-novel-tk-98"
+          }
+        ]
+      },
+      "Based on the search results, I found information about W\u0142adys\u0142aw Reymont's \"Ch\u0142opi\" (The Peasants) and its place in Polish education and literature curriculum:\n\n## W\u0142adys\u0142aw Reymont and \"Ch\u0142opi\" in Polish Education\n\nIn Poland, there's an official list of works recommended for high-school students, which includes about 150 varied titles. While the search results don't explicitly confirm that \"Ch\u0142opi\" is on this official reading list, the novel's significance in Polish literature suggests it would be a strong candidate for inclusion.\n\n### About \"Ch\u0142opi\" (The Peasants)\n\nW\u0142adys\u0142aw Stanis\u0142aw Reymont was a Polish novelist and the 1924 laureate of the Nobel Prize in Literature. His best-known work is the award-winning four-volume novel Ch\u0142opi (The Peasants).(no content)The Polish writer W\u0142adys\u0142aw Reymont is remembered especially for his epic novel Ch\u0142opi (The Peasants), a blend of naturalism and realism written almost entirely in rural dialect. It has been translated into many languages and won for Reymont the Nobel prize for literature in 1924.(no content)The four-volume novel The Peasants (1904\u201309) is a chronicle of peasant life during the four seasons of a year.(no content)A classic of Polish and world literature in a careful edition with footnotes and illustrations - it is a book worth having in your home library and worth returning to.\n\n### Polish Literature Education Structure\n\nThe Polish education system includes literature as part of the core curriculum. The subjects taught were: Polish language, history, civic education, two foreign languages, mathematics, physics and astronomy, chemistry, biology, geography, fine arts/music, technology, information technology, physical education and religion or ethics.(no content)The subjects taught at the advanced level that are included in the core curriculum for general education should be allocated the following number of teaching / class hours (in addition to the hours taught at the basic level) in the 4-year education cycle: Polish language, Civic Education, History of Music, History of Art, Latin and Ancient Culture, and Philosophy: 8 hours per week for each\n\nGiven Reymont's status as a Nobel Prize winner and \"Ch\u0142opi\" being considered a classic of Polish literature, it would likely be included in Polish schools' literature curriculum, though the specific confirmation of its inclusion in the official reading list wasn't found in these search results."
+    ],
+    "durationSeconds": 18.513821195999974
+  }
+}

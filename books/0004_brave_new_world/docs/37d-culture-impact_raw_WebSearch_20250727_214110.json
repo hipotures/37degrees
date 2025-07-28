@@ -1,0 +1,62 @@
+{
+  "session_id": "7bfa3f26-bffe-44f4-87bb-f54ec853c72a",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7bfa3f26-bffe-44f4-87bb-f54ec853c72a.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Brave New World international perspectives global translations censorship foreign scholars comparative literature studies"
+  },
+  "tool_response": {
+    "query": "Brave New World international perspectives global translations censorship foreign scholars comparative literature studies",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01LeknjMBHHkvQd1R2CUGc3Z",
+        "content": [
+          {
+            "title": "Full article: Perspectives on translation and world literature",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/0907676X.2022.2132062"
+          },
+          {
+            "title": "Brave New World: A Literature Review of Emerging Donors and the Changing Nature of Foreign Assistance",
+            "url": "https://www.researchgate.net/publication/228259798_Brave_New_World_A_Literature_Review_of_Emerging_Donors_and_the_Changing_Nature_of_Foreign_Assistance"
+          },
+          {
+            "title": "Brave New World Study Guide | Literature Guide | LitCharts",
+            "url": "https://www.litcharts.com/lit/brave-new-world"
+          },
+          {
+            "title": "Aldous Huxley\u2019s Brave New World: A Cautionary Tale of Totalitarian Ideology by Shahin Hossain",
+            "url": "https://minnesotaenglishjournalonline.org/2020/05/05/aldous-huxleys-brave-new-world-a-cautionary-tale-of-totalitarian-ideology-by-shahin-hossain/"
+          },
+          {
+            "title": "Brave New World - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World"
+          },
+          {
+            "title": "Brave New World: A Literature Review of Emerging Donors and the Changing Nature of Foreign Assistance - Working Paper 273 | Center For Global Development",
+            "url": "https://www.cgdev.org/publication/brave-new-world-literature-review-emerging-donors-and-changing-nature-foreign-assistance"
+          },
+          {
+            "title": "Brave New World Research Papers - Academia.edu",
+            "url": "https://www.academia.edu/Documents/in/Brave_New_World"
+          },
+          {
+            "title": "Brave New Globalized World? Translation Studies and English as a Lingua Franca | Cairn.info",
+            "url": "https://shs.cairn.info/revue-francaise-de-linguistique-appliquee-2009-1-page-109?lang=en"
+          },
+          {
+            "title": "Brave New World: Dystopian Procreation and Censorship | Literature and Transgression",
+            "url": "https://transgresslit.wordpress.com/2014/04/27/brave-new-world-dystopian-procreation-and-censorship/"
+          },
+          {
+            "title": "Workplace issues in the context of Aldous Huxley\u2019s Brave New World: Mental health problems, cannabis and the division of labour - ScienceDirect",
+            "url": "https://www.sciencedirect.com/science/article/pii/S192520992400113X"
+          }
+        ]
+      },
+      "Based on the search results, I found several relevant sources discussing international perspectives on Brave New World, including translation studies, comparative literature, and global scholarly analysis. Here are the key findings:\n\n## Translation and International Perspectives\n\nTranslations of Brave New World reflect cultural adaptation across different languages and contexts. The French edition is entitled \"Le Meilleur des mondes\" (The Best of All Worlds), alluding to Leibniz's philosophical expression satirized in Voltaire's Candide. The first Standard Chinese translation, done by novelist Lily Hsueh and Aaron Jen-wang Hsueh in 1974, is entitled \"\u7f8e\u9e97\u65b0\u4e16\u754c\" (literally \"Beautiful New World\").\n\n## Comparative Literature and Global Scholarship\n\nTranslation studies scholars have examined world literature through comparative approaches, with articles analyzing literary translation in China, Latin America, Europe and India, focusing on topics such as the role of translators as initiators of the translation process.\n\nChinese scholars have become major players in translation studies, with well-established authors such as Xuanmin Luo, Ning Wang, Yifeng Sun, Leo Chan and Nam Fung Chang contributing greatly to the expansion and consolidation of translation studies in the exploration of comparative literature and translation theories in China.\n\n## Censorship and Global Academic Perspectives\n\nThe novel's themes of censorship resonate globally, as scholars analyze how \"The World State not only restricts scientific research but also regulates art and literature. It neither allows its citizens to conduct individualized research projects nor permits them to read Shakespeare\".\n\nContemporary scholarship examines literary censorship through international lenses, including exploration of censorship patterns in the United States targeted toward specific groups, drawing comparisons between Brave New World and historical patterns of censorship that continue today.\n\n## International Literary Influence and Reception\n\nThe novel's international literary connections include debates about influences from Russian author Yevgeny Zamyatin's \"We,\" and Polish author Antoni Smuszkiewicz's accusations of plagiarism, showing similarities between Brave New World and earlier Polish science fiction novels by Mieczys\u0142aw Smolarski.\n\nModern dystopian literature including Brave New World is read internationally \"as a warning and a political criticism towards the modern notions of politics and technology\".\n\nThe search reveals that Brave New World has generated significant international scholarly attention across multiple disciplines, with particular focus on translation studies, comparative literature approaches, and cross-cultural analysis of its themes of censorship and social control."
+    ],
+    "durationSeconds": 23.533919832000045
+  }
+}

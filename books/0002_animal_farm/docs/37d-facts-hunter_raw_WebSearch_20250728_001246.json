@@ -1,0 +1,62 @@
+{
+  "session_id": "abba3f5a-b5aa-49e3-9bda-f1f6b93e098c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/abba3f5a-b5aa-49e3-9bda-f1f6b93e098c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Animal Farm international success cultural impact breakthrough after publication 1945"
+  },
+  "tool_response": {
+    "query": "Animal Farm international success cultural impact breakthrough after publication 1945",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_014pJaAwcyyFjyNVRKvVtsiF",
+        "content": [
+          {
+            "title": "Animal Farm by George Orwell | Summary, Impact & Publication - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/animal-farm-publisher-struggles.html"
+          },
+          {
+            "title": "Animal Farm - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Animal_Farm"
+          },
+          {
+            "title": "Animal Farm | Encyclopedia.com",
+            "url": "https://www.encyclopedia.com/arts/educational-magazines/animal-farm"
+          },
+          {
+            "title": "Orwell's ideas remain relevant 75 years after 'Animal Farm' was published",
+            "url": "https://clas.wayne.edu/news/orwells-ideas-remain-relevant-75-years-after-animal-farm-was-published-56300"
+          },
+          {
+            "title": "Animal Farm 75th Anniversary: Relevance in 2020 | TIME",
+            "url": "https://time.com/5880178/george-orwell-animal-farm-still-relevant/"
+          },
+          {
+            "title": "Animal Farm by George Orwell | Audible.com",
+            "url": "https://www.audible.com/blog/summary-animal-farm-by-george-orwell"
+          },
+          {
+            "title": "Orwell, Animal Farm, and the Politics of Critical Reception | Department of English | University of Washington",
+            "url": "https://english.washington.edu/research/publications/orwell-animal-farm-and-politics-critical-reception"
+          },
+          {
+            "title": "Animal Farm Themes, Symbolism, Characters & Literary Devices",
+            "url": "https://www.gale.com/open-access/animal-farm"
+          },
+          {
+            "title": "Animal Farm | Political Satire, Allegory & Fable | Britannica",
+            "url": "https://www.britannica.com/topic/Animal-Farm"
+          },
+          {
+            "title": "Animal Farm by George Orwell",
+            "url": "https://www.dentonisd.org/cms/lib/TX21000245/Centricity/Domain/490/Animal%20Farm%20Historical%20Context.pdf"
+          }
+        ]
+      },
+      "Based on the search results, here's what I found about Animal Farm's international success and cultural impact after its 1945 publication:\n\n## Immediate Success After Publication\n\nAnimal Farm achieved immediate success when published in 1945 - the first edition sold out in a month, nine foreign editions had appeared by the next year, and the American Book-of-the-Month Club edition sold more than a half-million copies.(no content)In the United States, it was published in August 1946 and was a huge success, with over a half-million copies sold in its first year.\n\n## Publishing Challenges and Breakthrough\n\nDespite its eventual success, Orwell initially encountered difficulty getting the manuscript published, largely due to fears that the book might upset the alliance between Britain, the United States, and the Soviet Union. Four publishers refused to publish Animal Farm, yet one had initially accepted the work but declined it after consulting the Ministry of Information.(no content)Eventually, Secker and Warburg published the first edition in 1945, and when it was finally released, the novel was a runaway success.\n\n## Critical Reception and Cultural Impact\n\nEarly reviews were positive - The Guardian called Animal Farm \"a delightfully humorous and caustic satire on the rule of the many by the few,\" while Tribune called it \"a gentle satire on a certain State and on the illusions of an age.\"(no content)From the start, reviewers made favorable comparisons between Orwell's book and the work of great satirists of the past, with influential New Yorker critic Edmund Wilson noting that Animal Farm \"even seems very creditable if we compare it with Voltaire and [Jonathan] Swift.\"\n\n## Long-term Cultural Significance\n\nAnimal Farm became one of the most influential political satires of the 20th century. Though initially rejected by several publishers due to its anti-Soviet stance, it went on to become a critical and commercial success, with its themes of power, corruption, and the manipulation of language for political ends continuing to resonate with readers today.(no content)In the years since publication, Orwell's writing has left an indelible mark on American thought and culture. Sales of \"Animal Farm\" and \"Nineteen Eighty-Four\" jumped in 2013 after Edward Snowden's NSA revelations, and \"Nineteen Eighty-Four\" rose to the top of Amazon's best-sellers list after Donald Trump's Presidential Inauguration in 2017.\n\nThe breakthrough came largely because the novel's success was helped by the dissolution of wartime alliances and the first rumblings of the Cold War, making its anti-totalitarian message more politically acceptable and relevant to contemporary audiences."
+    ],
+    "durationSeconds": 20.687107216999983
+  }
+}

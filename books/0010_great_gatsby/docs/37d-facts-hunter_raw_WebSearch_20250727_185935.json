@@ -1,0 +1,62 @@
+{
+  "session_id": "eefb55a0-c8d5-41bc-8dcc-6acbd6e5a3ba",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/eefb55a0-c8d5-41bc-8dcc-6acbd6e5a3ba.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Poland social class divisions wealth inequality modern Polish society youth culture"
+  },
+  "tool_response": {
+    "query": "Poland social class divisions wealth inequality modern Polish society youth culture",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_0129kEVZdbdTABqtntQqLbtz",
+        "content": [
+          {
+            "title": "Poland social briefing: Changes in Poland\u2019s social strata in the past 30 years \u2013 China-CEE Institute",
+            "url": "https://china-cee.eu/2021/02/26/poland-social-briefing-changes-in-polands-social-strata-in-the-past-30-years/"
+          },
+          {
+            "title": "Are there social classes in Poland? If so, what are they? I\u2019m going to Poland this summer with a group and I\u2019m supposed to give an informal report regarding social structure. - Quora",
+            "url": "https://www.quora.com/Are-there-social-classes-in-Poland-If-so-what-are-they-I-m-going-to-Poland-this-summer-with-a-group-and-I-m-supposed-to-give-an-informal-report-regarding-social-structure"
+          },
+          {
+            "title": "Six myths about inequality in Poland | Notes From Poland",
+            "url": "https://notesfrompoland.com/2024/01/24/six-myths-about-inequality-in-poland/"
+          },
+          {
+            "title": "Examining the Determinants of Poland\u2019s Middle Class Life Satisfaction | Social Indicators Research",
+            "url": "https://link.springer.com/article/10.1007/s11205-023-03291-7"
+          },
+          {
+            "title": "Within a single generation, Poland has gone from one of the most egalitarian countries in Europe to one of the most unequal | EUROPP",
+            "url": "https://blogs.lse.ac.uk/europpblog/2019/12/02/within-a-single-generation-poland-has-gone-from-one-of-the-most-egalitarian-countries-in-europe-to-one-of-the-most-unequal/"
+          },
+          {
+            "title": "Poland Social Life and Customs \u2022 FamilySearch",
+            "url": "https://www.familysearch.org/en/wiki/Poland_Social_Life_and_Customs"
+          },
+          {
+            "title": "Poland: social and economic class distribution 2019 | Statista",
+            "url": "https://www.statista.com/statistics/1051917/poland-social-and-economic-class-distribution/"
+          },
+          {
+            "title": "Finance & Development, March 2001 - Poland: Inequality, Transfers, and Growth in Transition",
+            "url": "https://www.imf.org/external/pubs/ft/fandd/2001/03/keane.htm"
+          },
+          {
+            "title": "Wealth Inequality in Interwar Poland",
+            "url": "https://wid.world/document/wealth-inequality-in-interwar-poland/"
+          },
+          {
+            "title": "The Social, Economic, and Political History of Poland \u2013 Polish Americans and Their Communities of Cleveland",
+            "url": "https://pressbooks.ulib.csuohio.edu/polish-americans-and-their-communities-of-cleveland/chapter/chapter-1/"
+          }
+        ]
+      },
+      "I found comprehensive information about Poland's social class divisions, wealth inequality, and aspects of modern Polish society. Here's what the search revealed:\n\n## Social Class Structure and Wealth Distribution\n\nAbout half of the Polish population belonged to the middle class in April 2019. Nearly a third were lower-class, and the minority were upper-class. However, the middle class in Poland is quite fragmented. The divisions between the richest and poorest are pretty stark for an EU country and the so-called middle class does not constitute more than 1 million citizens.\n\n## Wealth Inequality Trends\n\nPoland has experienced dramatic changes in inequality over the past generation. Within one generation, Poland has moved from being one of the most egalitarian to one of the most unequal countries in Europe.(no content)There was a substantial and steady rise in inequality after the fall of communism, which was driven by a sharp increase in the income shares of the top groups.(no content)Over the whole period 1989-2015, the top 1% has captured almost twice as large a portion of total income growth than the bottom 50% (24% versus 13%).(no content)The rich in Poland today are mostly business owners and this group is one of the main beneficiaries of the robust economic growth since 2000.\n\n## Modern Social Stratification\n\nCurrent Polish society shows distinct characteristics:\n\nOne of the distinguishing features of Polish society in 21 century is the economic weakness of the lower middle-class, and the difference between the lifestyle of the establishment (2-3% of population), who live in isolation and does not have to deal with most social problems.(no content)Many middle-class people, on the other hand, feed on the illusion that they can afford an elite standard of living. A large part of them are called precarious workers who have so far benefited from the period of prosperity, but in practice are working on civil law contracts that do not guarantee them any financial security.\n\n## Economic Context and Life Satisfaction\n\nDespite growing inequality, there have been positive developments. Due to the increase in average wages, the growing share of the Polish population identifies with the middle class group. The rise from 59% in 2004 to 76% in 2019 in self-identification as a middle class member was observed in Poland.(no content)Based on the SWLS results, relatively low diversity in middle-income class life satisfaction was identified. However, Future of Polish society isn't glowing \u2013 a serious problem is the rapid aging of the society, low demographic growth, low income and small savings.\n\nThe search results provide extensive data on social stratification and inequality but don't specifically address youth culture aspects. The information shows Poland's transition from a highly egalitarian communist society to one with significant wealth disparities, driven primarily by business ownership and capital income concentration among the top earners."
+    ],
+    "durationSeconds": 24.618691335000097
+  }
+}

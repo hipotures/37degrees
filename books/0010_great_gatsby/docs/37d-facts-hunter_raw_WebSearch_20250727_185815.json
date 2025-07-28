@@ -1,0 +1,42 @@
+{
+  "session_id": "eefb55a0-c8d5-41bc-8dcc-6acbd6e5a3ba",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/eefb55a0-c8d5-41bc-8dcc-6acbd6e5a3ba.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"flexing culture\" social media wealth display conspicuous consumption TikTok Instagram 2025"
+  },
+  "tool_response": {
+    "query": "\"flexing culture\" social media wealth display conspicuous consumption TikTok Instagram 2025",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_012CVsYbTVfrxT5iLhQtT1J9",
+        "content": [
+          {
+            "title": "(PDF) Flexing culture in the age of social media: From social recognition to self-satisfaction",
+            "url": "https://www.researchgate.net/publication/375826936_Flexing_culture_in_the_age_of_social_media_From_social_recognition_to_self-satisfaction"
+          },
+          {
+            "title": "Flexing culture in the age of social media: From social recognition to self-satisfaction | Rosida | Simulacra",
+            "url": "https://journal.trunojoyo.ac.id/simulacra/article/view/20716"
+          },
+          {
+            "title": "Flexing culture: A form of self-expression or conspicuous consumption? - ANTARA News",
+            "url": "https://en.antaranews.com/news/233741/flexing-culture-a-form-of-self-expression-or-conspicuous-consumption"
+          },
+          {
+            "title": "@tasyiiathasyia displayed wealth in her TikTok account by shopping for... | Download Scientific Diagram",
+            "url": "https://www.researchgate.net/figure/tasyiiathasyia-displayed-wealth-in-her-TikTok-account-by-shopping-for-branded-goods-and_fig3_375826936"
+          },
+          {
+            "title": "Flexing Culture: A Form of Self-Expression or Conspicuous Consumption? \u2013 IIUM Today",
+            "url": "https://news.iium.edu.my/?p=166227"
+          }
+        ]
+      },
+      "The search results provide comprehensive information about flexing culture on social media platforms, particularly regarding wealth display and conspicuous consumption on TikTok and Instagram. Here's what the research reveals:\n\n## Definition and Scope\n\nFlexing culture has become a virtual tradition in which people display their possessions and express their conspicuous consumption behaviors on social media. This practice is common on social media, including YouTube, Instagram, and TikTok.\n\n## Motivations and Meanings\n\nThe commodities attached to their bodies and the services they post indicate multiple meanings such as gaining social recognition, building body image, negotiating self-branding, finding self-pleasure and self-satisfaction, demonstrating self-actualization, and gaining more financial benefits.\n\n## Platform-Specific Examples\n\nThe research documents specific examples of flexing culture across platforms:\n\n- **TikTok**: Athasyia (@tasyiiathasyia) is an Indonesian content creator who is active on TikTok to upload video content with the theme of shopping, particularly branded goods with 1.5M followers. In her video post themed 'How Much I Spend in a Day', she exposes groceries and branded goods such as Louis Vuitton, Gucci, and Zara along with the total price. It got 9.8M viewers and 817.4K likes.\n\n- **Instagram**: The research shows examples of luxury car displays and branded goods showcased on Instagram accounts.\n\n## Debate: Self-Expression vs. Conspicuous Consumption\n\nThere's an ongoing debate about whether flexing culture represents legitimate self-expression or problematic consumption:\n\n**Self-Expression Perspective**: Many young people today oppose the culture of flexing as a negative thing because for them if they are happy with what they are wearing or doing, and content if what they are wearing or doing can be seen and validated by people, then it is legitimate. In addition, they argue that buying luxury goods or going on vacations is a form of self-reward.\n\n**Conspicuous Consumption Perspective**: Some people contend that the flexing culture is merely a form of conspicuous consumption, which means that consumption is only aimed at displaying wealth and showing one's social status.\n\n## Assessment Criteria\n\nTo answer the question, the answer must be seen from the intention and ability of a person to buy these luxury items and show them on social media. There is an interesting saying that goes \"if you can't afford to buy something twice then you can't afford it\". This means that a person must have twice the money to buy the item in order to really afford buying it.\n\nThe research indicates that flexing culture on social media platforms like TikTok and Instagram in 2025 continues to be a significant phenomenon that bridges personal expression, social validation, and economic display, with ongoing debates about its social implications."
+    ],
+    "durationSeconds": 21.944625142998994
+  }
+}

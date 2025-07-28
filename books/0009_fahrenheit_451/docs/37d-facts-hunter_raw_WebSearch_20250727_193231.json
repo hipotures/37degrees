@@ -1,0 +1,62 @@
+{
+  "session_id": "50a1a9ee-e5bd-4af5-b1be-889513e755a8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/50a1a9ee-e5bd-4af5-b1be-889513e755a8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "climate anxiety youth teenagers future concerns environmental activism Fahrenheit 451 dystopian warnings 2024 2025"
+  },
+  "tool_response": {
+    "query": "climate anxiety youth teenagers future concerns environmental activism Fahrenheit 451 dystopian warnings 2024 2025",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_015zbSRyCjJrYXBs3nraYMHr",
+        "content": [
+          {
+            "title": "Overwhelming Majority of US Youth Worried About Climate Change",
+            "url": "https://earth.org/climate-change-distress-running-high-among-us-youth-across-the-political-spectrum-survey-finds/"
+          },
+          {
+            "title": "Fahrenheit 451 - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Fahrenheit_451"
+          },
+          {
+            "title": "5 New Climate Books to Empower Teens and Help Turn Anxiety into Action | Audubon",
+            "url": "https://www.audubon.org/magazine/5-new-climate-books-empower-teens-and-help-turn-anxiety-action"
+          },
+          {
+            "title": "Climate change anxiety and mental health: Environmental activism as buffer | Current Psychology",
+            "url": "https://link.springer.com/article/10.1007/s12144-022-02735-6"
+          },
+          {
+            "title": "Climate anxiety in young people: a call to action - The Lancet Planetary Health",
+            "url": "https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(20)30223-0/fulltext"
+          },
+          {
+            "title": "Fahrenheit 451 - ClimateCultures - creative conversations for the Anthropocene",
+            "url": "https://climatecultures.net/museum-of-the-anthropocene/material-culture-inside-the-museum/fahrenheit-451/"
+          },
+          {
+            "title": "Climate change anxiety and mental health: Environmental activism as buffer - PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35250241/"
+          },
+          {
+            "title": "Climate change anxiety and mental health: Environmental activism as buffer - PMC",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8883014/"
+          },
+          {
+            "title": "Climate change: 75% of young people say \u2018the future is frightening\u2019",
+            "url": "https://www.medicalnewstoday.com/articles/eco-anxiety-75-of-young-people-say-the-future-is-frightening"
+          },
+          {
+            "title": "HBO Has A New Take On Ray Bradbury's Dystopian Masterpiece. Here's Why 'Fahrenheit 451' Still Matters | Cognoscenti",
+            "url": "https://www.wbur.org/cognoscenti/2018/05/18/fahrenheit-451-steve-almond"
+          }
+        ]
+      },
+      "Based on your search, here are the key findings about climate anxiety among youth, environmental activism, and connections to dystopian warnings like those in Fahrenheit 451:\n\n## Climate Anxiety Among Youth\n\n61% of the world population felt anxious about climate change, and 67% reported feeling afraid, according to 2022 data from the National Institute for Health Care Management. The research shows that more and more people, especially young people, are at risk of climate anxiety, depression, and other related mental health issues.\n\nRecent studies reveal alarming levels of distress among teenagers and young adults. Young people are worried and feel betrayed over governments' insufficient response to the threat of climate change, with 48% of survey respondents reporting feeling dismissed or ignored when they tried to talk to others about climate change.\n\n## Environmental Activism as Response\n\nResearch suggests that environmental activism can serve as a buffer against climate anxiety. Climate change anxiety (CCA) is defined broadly as negative cognitive, emotional, and behavioral responses associated with concerns about climate change, but activism provides an outlet for action.\n\nYoung people are demonstrating remarkable engagement through climate activism. Global youth-led climate strikes, federal lawsuits demanding government action to reduce greenhouse gas emissions, and advocacy by young climate activists such as Greta Thunberg and Isra Hirsi show that youth are anxious about their collective futures. In 2019, in March alone, an estimated 1\u00b76 million school-aged protestors in 125 countries demanded action be taken to combat climate change.\n\n## Dystopian Connections and 2024-2025 Context\n\nThe search reveals ongoing relevance of dystopian warnings in 2024-2025. Fahrenheit 451 is a 1953 dystopian novel by American writer Ray Bradbury that presents a future American society where books have been outlawed and \"firemen\" burn any that are found. Scholars are drawing connections between Bradbury's warnings and current climate concerns, with Fahrenheit 451's spectre of book burning reminding us how knowledge & identities can be destroyed.\n\nThe relevance continues into 2025, as one composition on the instrumental concept album The Ray Bradbury Chronicles was based on the book in 2025, showing continued cultural engagement with these themes.\n\n## Coping and Future Outlook\n\nDespite the challenges, there are positive developments. Young climate activists are described as \"incredibly politically savvy\" and adults are encouraged to join them rather than trying to control their activism. The research emphasizes that stress, sadness, anger, and grief are a normal part of encountering serious problems, but for the good of our ecosystems and ourselves, it's important to confront those feelings and learn to cope."
+    ],
+    "durationSeconds": 22.654432043999435
+  }
+}

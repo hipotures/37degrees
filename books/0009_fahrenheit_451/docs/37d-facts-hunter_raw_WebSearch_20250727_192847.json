@@ -1,0 +1,62 @@
+{
+  "session_id": "50a1a9ee-e5bd-4af5-b1be-889513e755a8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/50a1a9ee-e5bd-4af5-b1be-889513e755a8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Fahrenheit 451 scholarly articles academic literary criticism JSTOR Project MUSE"
+  },
+  "tool_response": {
+    "query": "Fahrenheit 451 scholarly articles academic literary criticism JSTOR Project MUSE",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01QEjVu8h8rtfpFqVtcHMGQ8",
+        "content": [
+          {
+            "title": "The Paradoxical World of Fahrenheit 451",
+            "url": "https://digitalcommons.salve.edu/cgi/viewcontent.cgi?article=1055&context=pell_theses"
+          },
+          {
+            "title": "Fahrenheit 451 Redux: Free Thinking in the Present? - The University of Chicago Divinity School",
+            "url": "https://divinity.uchicago.edu/sightings/articles/fahrenheit-451-redux-free-thinking-present"
+          },
+          {
+            "title": "Library Resources - Fahrenheit 451 (1953) - LibGuides at Anne Arundel Community College",
+            "url": "https://libguides.aacc.edu/fahrenheit451"
+          },
+          {
+            "title": "Fahrenheit 451: The Burning of American Culture",
+            "url": "https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1018&context=histsp"
+          },
+          {
+            "title": "Reflections on Fahrenheit 451",
+            "url": "https://repository.law.umich.edu/cgi/viewcontent.cgi?article=1333&context=mlr"
+          },
+          {
+            "title": "Oppression and Identity in Bradbury's Fahrenheit 451",
+            "url": "https://ejournal.upi.edu/index.php/psg/article/download/21183/pdf"
+          },
+          {
+            "title": "Fahrenheit 451 - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Fahrenheit_451"
+          },
+          {
+            "title": "Databases - Focus on Fahrenheit 451 - LibGuides at Tulsa Community College",
+            "url": "https://guides.library.tulsacc.edu/c.php?g=118428&p=770347"
+          },
+          {
+            "title": "Articles - ENG 112: Fahrenheit 451 - Research Guides at Pitt Community College",
+            "url": "https://libguides.pittcc.edu/eng112/fahrenheit451/articles"
+          },
+          {
+            "title": "On Literary Censorship: Fahrenheit 451 | by Katelyn | Medium",
+            "url": "https://katelynwrites.medium.com/on-literary-censorship-fahrenheit-451-6ebcd60cc2f7"
+          }
+        ]
+      },
+      "Based on the search results, I found several academic resources and library guides that reference scholarly articles and literary criticism about Fahrenheit 451, particularly through platforms like JSTOR and other academic databases. Here's what the search revealed:\n\n## Academic Database Access\n\nJSTOR - Includes 4 databases with full-text scholarly journal articles and images covering a wide range of topics, including humanities, sciences, social sciences, and more. This confirms that JSTOR contains academic articles about Fahrenheit 451.\n\nGale Literature - Provides an integrated search across Gale literary databases including Gale Virtual Reference Library eBooks (GVRL), Literature Criticism (Online) or LCO, Literature Resource Center, and LitFinder to find full text of literary works, journal articles, literature criticism and analysis, reviews, author biographies, and a collection of expertly written work overviews.\n\n## Academic Papers and Theses\n\nSeveral academic institutions have published scholarly work on Fahrenheit 451:\n\n- **Salve Regina University**: Digital Commons @ Salve Regina is the home of the collected scholarship and creative works of Salve Regina University faculty, staff and students - and of their collaborators. These open collections, organized and made accessible by the McKillop Library, demonstrate Salve's commitment to the idea that sharing information and academic collaboration in our global community.\n\n- **Cal Poly**: Features \"Fahrenheit 451: The Burning of American Culture\" \n\n- **University of Michigan Law School**: Contains \"Reflections on Fahrenheit 451\"\n\n## Research Guidance\n\nContemporary Literary Criticism [vols. 10, 42, 98] - Contains passages from literary criticism originally published in books and journals; look for Fahrenheit 451 in the Cumulative Title Index, a separate paperback index that accompanies this multi-volume work\n\nFor searching strategies, When searching the library catalog or one of TCC's literary databases, try search for your topic keyword(s) along with \"Fahrenheit 451\" or \"Bradbury\" first. For example: (\"censorship\" AND \"Fahrenheit 451\") or (\"literacy\" AND \"Bradbury\").\n\nThe search confirms that both JSTOR and Project MUSE, along with other academic databases, contain scholarly articles and literary criticism about Fahrenheit 451, accessible through various university library systems and academic platforms."
+    ],
+    "durationSeconds": 19.793371007001028
+  }
+}

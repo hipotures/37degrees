@@ -1,0 +1,63 @@
+{
+  "session_id": "43e12ea9-84a2-4345-8d62-d857a85435cd",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/43e12ea9-84a2-4345-8d62-d857a85435cd.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Emma Jane Austen\" stage adaptations theatrical productions West End Broadway"
+  },
+  "tool_response": {
+    "query": "\"Emma Jane Austen\" stage adaptations theatrical productions West End Broadway",
+    "results": [
+      "I'll search for information about stage adaptations and theatrical productions of Emma and Jane Austen's works on West End and Broadway.",
+      {
+        "tool_use_id": "srvtoolu_01CJFZLcdB7XSNWibyGQuBvg",
+        "content": [
+          {
+            "title": "New stage adaptation of Jane Austen\u2019s Emma to tour in 2025 | West End Theatre",
+            "url": "https://www.westendtheatre.com/292989/news/new-stage-adaptation-of-jane-austens-emma-to-tour-in-2025/"
+          },
+          {
+            "title": "Jane Austen\u2019s EMMA, The Musical (2018) | Chance Theater",
+            "url": "https://chancetheater.com/production/emma/"
+          },
+          {
+            "title": "Emma | Music Theatre International",
+            "url": "https://www.mtishows.com/emma"
+          },
+          {
+            "title": "Play: Jane Austen's Emma - ETC at the New Vic",
+            "url": "https://etcsb.org/production/jane-austens-emma/"
+          },
+          {
+            "title": "Jane Austen in popular culture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Jane_Austen_in_popular_culture"
+          },
+          {
+            "title": "Stage to Screen | Jane Austen's House",
+            "url": "https://janeaustens.house/online-exhibition/the-making-of-pride-and-prejudice/the-making-of-pride-and-prejudice-8/"
+          },
+          {
+            "title": "Emma takes to the West End stage \u2013 Book Collecting World",
+            "url": "https://bookcollectingheaven.com/2021/04/23/emma-takes-to-the-west-end-stage/"
+          },
+          {
+            "title": "Jane Austen\u2019s Emma, The Musical | Chance Theater",
+            "url": "https://www.chancetheater.com/production/emma2024/"
+          },
+          {
+            "title": "Austentatious \u2013 An Improvised Jane Austen Novel Tickets | West End Theatre",
+            "url": "https://www.westendtheatre.com/150014/shows/austentatious-an-improvised-jane-austen-novel-tickets/"
+          },
+          {
+            "title": "Jane Austen's Books & Adaptations - Adaptations - under construction: Emma Adaptations Showing 1-11 of 11",
+            "url": "https://www.goodreads.com/topic/show/21869698-emma-adaptations"
+          }
+        ]
+      },
+      "Based on my search results, I can provide you with comprehensive information about stage adaptations and theatrical productions of Jane Austen's Emma on West End and Broadway:\n\n## Musical Adaptations\n\nJane Austen's Emma has been adapted into a musical by composer and lyricist Paul Gordon, who was nominated for a 2001 Tony Award for composing the music and lyrics to the musical Jane Eyre. His critically acclaimed musical, Emma, was released worldwide in 2018 on StreamingMusicals.com.\n\nWith the option of setting the show either in the Regency Era or mid-century modern, Emma is truly a timeless tale of love, making mistakes, and holding yourself accountable. With flexible casting and minimal design requirements, this show is perfect wheither on a full proscenium stage or in an intimate black box theatre.\n\n## Recent West End and UK Productions\n\nA new stage adaptation of Jane Austen's classic novel Emma is heading out on tour this year. Based on Austen's novel, Emma is adapted by Ryan Craig (What We Did To Weinstein, Filthy Business), and directed by founder of English Touring Theatre and former Rose Theatre head Stephen Unwin (Farm Hall). The tour starts at Theatre Royal Bath from 11 to 20 September 2025, and then visits Guildford, Birmingham, Sheffield, Malvern, and Oxford, with further tour dates to be announced.\n\n## West End Jane Austen Connection\n\nHer novels\u2014continuously reimagined and the inspiration for numerous shows (including current West End productions Clueless The Musical & Austenland), her novels\u2014including Pride and Prejudice, Sense and Sensibility, and Emma\u2014continue to enthral audiences worldwide.\n\n## Historical Stage Adaptations\n\nThe first full dramatic version of Emma to be published was Romances by Emma by DeWitt Bodeen in 1938, which was first performed in Pasadena, California. This was followed by Emma by Marion Morse MacKaye; the play was written in 1937 but the author died before its first publication by Macmillan and first performance at the North.\n\nThe first big-budget theatrical version of Pride and Prejudice was Helen Jerome's sparky adaptation, which enjoyed successful runs on Broadway in 1935 and in London's West End the following year before going on tour. It is estimated to have been seen by a million people worldwide and was described in the publicity for MGM's 1940 film of Pride and Prejudice (which it directly influenced) as 'One of the most famous plays'. Jerome's adaptation was highly influential, putting more focus on Mr Darcy than the original novel and previous adaptations had done, and turning him into the sexy heartthrob we know today.\n\n## Off-Broadway Productions\n\nOFF-BROADWAY MUSICAL This production, recorded Off-Broadway at the Westside Theatre in early 2018, is available for streaming (by rental or purchase) at https://www.streamingmusicals.com. Paul Gordon's critically acclaimed stage adaptation re-imagines the Austen's classic in mid-century modern yet keeps the language intact.\n\nThe search results show that while Emma has had various theatrical adaptations, the most prominent recent developments include Paul Gordon's musical version and upcoming UK touring productions, though specific major West End or Broadway runs of Emma appear to be less documented compared to other Austen works like Pride and Prejudice."
+    ],
+    "durationSeconds": 30.047417462000624
+  }
+}

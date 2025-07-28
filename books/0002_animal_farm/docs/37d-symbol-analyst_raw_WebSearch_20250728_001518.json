@@ -1,0 +1,62 @@
+{
+  "session_id": "abba3f5a-b5aa-49e3-9bda-f1f6b93e098c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/abba3f5a-b5aa-49e3-9bda-f1f6b93e098c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Animal Farm Polish translation history \"Folwark zwierz\u0119cy\" first Polish edition when published"
+  },
+  "tool_response": {
+    "query": "Animal Farm Polish translation history \"Folwark zwierz\u0119cy\" first Polish edition when published",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01Gvcm4kSEMGvZnE6kYuEZZA",
+        "content": [
+          {
+            "title": "Folwark zwierz\u0119cy Folwark zwierz\u0119cy, Komiks wg Orwella. Animal Farm. Comics After Orwell. | First edition, first issue with price 120 zloty printed on rear cover . Oblong, format A5. Text in Polish",
+            "url": "https://www.foldvaribooks.com/pages/books/749/folwark-zwierzecy-komiks-wg-orwella-animal-farm-comics-after-orwell"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Folwark_zwierz%C4%99cy"
+          },
+          {
+            "title": "Animal Farm / Folwark zwierz\u0119cy: Tranzlaty English Polsku (Polish Edition): Orwell, George, Tranzlaty: 9781835661673: Amazon.com: Books",
+            "url": "https://www.amazon.com/Animal-Farm-Folwark-zwierz%C4%99cy-Tranzlaty/dp/183566167X"
+          },
+          {
+            "title": "Folwark Zwierz\u0119cy - George Orwell's Animal Farm - Polish Edition 1947",
+            "url": "https://countryhouselibrary.co.uk/products/folwark-zwierzecy-george-orwells-animal-farm-polish-edition-1947"
+          },
+          {
+            "title": "Animal Farm / Folwark zwierz\u0119cy: Tranzlaty English Polsku (Polish Edition) - Orwell, George: 9781835661673 - AbeBooks",
+            "url": "https://www.abebooks.com/9781835661673/Animal-Farm-Folwark-zwierzcy-Tranzlaty-183566167X/plp"
+          },
+          {
+            "title": "Editions of Animal Farm by George Orwell",
+            "url": "https://www.goodreads.com/work/editions/2207778-animal-farm-a-fairy-story"
+          },
+          {
+            "title": "Bartek Zborski (Translator of Folwark Zwierz\u0119cy)",
+            "url": "https://www.goodreads.com/author/show/6996388.Bartek_Zborski"
+          },
+          {
+            "title": "Ksi\u0105\u017cka Folwark zwierz\u0119cy (Animal Farm) po angielsku",
+            "url": "https://anylang.net/en/books/en/animal-farm"
+          },
+          {
+            "title": "Hazel O'Connor - Animal Farm (Polish translation)",
+            "url": "https://lyricstranslate.com/en/animal-farm-folwark-zwierz%C4%99cy.html"
+          },
+          {
+            "title": "Animal Farm / Folwark zwierz\u0119cy: Tranzlaty English Polsku - Orwell, George, Tranzlaty | 9781835661673 | Amazon.com.au | Books",
+            "url": "https://www.amazon.com.au/Animal-Farm-Folwark-zwierz%C4%99cy-Tranzlaty/dp/183566167X"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with information about the Polish translation history of George Orwell's \"Animal Farm\":\n\nThe first Polish edition of Animal Farm was published in London in 1947 under the title \"Zwierz\u0119cy folwark,\" translated by Teresa Jele\u0144ska. This was an \u00e9migr\u00e9 publication, meaning it was published by Polish exiles outside of Poland.\n\nThe search results also reveal some interesting details about the publication history in Poland itself:\n\nThe original novel was banned in Communist countries, but in 1985 two comics versions were published underground in Poland. One of these underground publications was published in Warsaw by Gilosz & Azyl S\u0142owo in 1985, representing a form of samizdat (underground publishing) during the Communist era.\n\nThe title \"Folwark zwierz\u0119cy\" appears to be the standard Polish title that became widely used, though the first \u00e9migr\u00e9 edition in 1947 was titled \"Zwierz\u0119cy folwark\". The book is an allegorical representation of Stalinism and a warning against totalitarianism.\n\nSo to directly answer your question: The first Polish edition was published in 1947 in London as an \u00e9migr\u00e9 publication, though the novel remained banned in Communist Poland until underground editions began appearing in the 1980s."
+    ],
+    "durationSeconds": 13.366264859999937
+  }
+}

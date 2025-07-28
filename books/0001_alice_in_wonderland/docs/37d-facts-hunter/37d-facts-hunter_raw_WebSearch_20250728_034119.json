@@ -1,0 +1,63 @@
+{
+  "session_id": "ac25dab5-19ee-43b4-8689-cf24d65d211d",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/ac25dab5-19ee-43b4-8689-cf24d65d211d.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Alice's Adventures in Wonderland\" \"Lewis Carroll\" first edition 1865 history creation story"
+  },
+  "tool_response": {
+    "query": "\"Alice's Adventures in Wonderland\" \"Lewis Carroll\" first edition 1865 history creation story",
+    "results": [
+      "I'll search for information about the first edition of Alice's Adventures in Wonderland and its creation story.",
+      {
+        "tool_use_id": "srvtoolu_01SvibN5KoRF7J6BqtJcoHMV",
+        "content": [
+          {
+            "title": "Alice's Adventures in Wonderland - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Alice's_Adventures_in_Wonderland"
+          },
+          {
+            "title": "Alice\u2019s Adventures in Wonderland | Summary, Characters, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/Alices-Adventures-in-Wonderland"
+          },
+          {
+            "title": "Alice's Adventures in Wonderland - History of the Book - UCLA",
+            "url": "https://hob.gseis.ucla.edu/Spotlights/whalen.html"
+          },
+          {
+            "title": "Lewis Carroll Books First Editions Rare, Signed, Illustrated & Finely Bound Editions",
+            "url": "https://www.peterharrington.co.uk/authors/c/lewis-carroll"
+          },
+          {
+            "title": "Alice Adventures in Wonderland by Lewis Carroll, First Edition - AbeBooks",
+            "url": "https://www.abebooks.com/servlet/SearchResults?an=lewis+carroll&bi=0&bx=off&ds=30&fe=on&sortby=1&sts=t&tn=alice+adventures+in+wonderland&x=65&y=15"
+          },
+          {
+            "title": "Alice's Adventures in Wonderland by Lewis Carroll | Project Gutenberg",
+            "url": "https://www.gutenberg.org/ebooks/11"
+          },
+          {
+            "title": "Lewis Carroll First Edition Books - Rare & Antique Books",
+            "url": "https://rareandantiquebooks.com/product-category/lewis-carroll-first-editions/"
+          },
+          {
+            "title": "Alice's Adventures in Wonderland by Lewis Carroll, First Edition, appleton - AbeBooks",
+            "url": "https://www.abebooks.com/book-search/title/alice's-adventures-in-wonderland/author/lewis-carroll/publisher/appleton/first-edition/"
+          },
+          {
+            "title": "Alice's Adventures in Wonderland",
+            "url": "https://www.rct.uk/resources/alices-adventures-in-wonderland"
+          },
+          {
+            "title": "Alice's Adventures in Wonderland: The original edition of 1865: Carroll, Lewis, Tenniel, John: 9783959401036: Amazon.com: Books",
+            "url": "https://www.amazon.com/Alices-Adventures-Wonderland-original-1865/dp/3959401035"
+          }
+        ]
+      },
+      "Based on the search results, here's what I found about the first edition of Alice's Adventures in Wonderland and its creation story:\n\n## Creation Story\n\nAlice's Adventures in Wonderland was conceived on 4 July 1862, when Lewis Carroll and the Reverend Robinson Duckworth rowed up the river Isis with the three young daughters of Carroll's friend Henry Liddell: Lorina Charlotte (aged 13; \"Prima\" in the book's prefatory verse); Alice Pleasance (aged 10; \"Secunda\" in the verse); and Edith Mary (aged 8; \"Tertia\" in the verse).(no content)The journey began at Folly Bridge, Oxford, and ended 5 miles (8 km) upstream at Godstow, Oxfordshire.(no content)The story was originally told by Carroll to Lorina, Alice, and Edith Liddell (the daughters of Henry George Liddell, dean of Christ Church, Oxford, where the author had studied and held a fellowship) on a picnic in July 1862. Alice asked Carroll to write out the stories for her, and in response he produced a hand-lettered collection entitled Alice's Adventures Under Ground.(no content)A visitor to the Liddell home saw the storybook and thought it should be published, so Carroll revised and expanded it.\n\n## First Edition History\n\nAlice's Adventures in Wonderland (also known as Alice in Wonderland) is an 1865 English children's novel by Lewis Carroll, a mathematics don at the University of Oxford.(no content)The artist John Tenniel provided 42 wood-engraved illustrations for the book.\n\n### Publication Details\n\nCarroll first met Alexander Macmillan, a high-powered London publisher, on 19 October 1863. His firm, Macmillan Publishers, agreed to publish Alice's Adventures in Wonderland by sometime in 1864.(no content)Carroll financed the initial print run, possibly because it gave him more editorial authority than other financing methods.\n\n### The Suppressed First Printing\n\nCarroll saw a specimen copy in May 1865. 2,000 copies were printed by July, but Tenniel objected to their quality, and Carroll instructed Macmillan to halt publication so they could be reprinted.(no content)The book was originally printed in 1865 but Carroll soon heard that the book's illustrator John Tenniel was unhappy with the quality of the printing and so the whole edition was suppressed.(no content)In August, he engaged Richard Clay as an alternative printer for a new run of 2,000. The reprint cost \u00a3600, paid entirely by Carroll.\n\n### The Appleton Edition\n\nThe text blocks of the original edition were removed from the binding and sold with Carroll's permission to the New York publishing house of D. Appleton & Company. The binding for the Appleton Alice was identical to the 1866 Macmillan Alice, except for the publisher's name at the foot of the spine. The title page of the Appleton Alice was an insert cancelling the original Macmillan title page of 1865 and bearing the New York publisher's imprint and the date 1866.(no content)Alice's Adventures in Wonderland was first published in 1865 by Macmillan and Co, but after only a few of the two thousand copies were fully published, the edition was suppressed when John Tenniel complained about the poor paper quality and their effect on the printings of his illustrations. Macmillan sold the remaining sheets to the American publisher Appleton, which they used to make this edition and which definitively precedes the second edition, printed in the UK by Macmillan in 1866.\n\n## Success and Legacy\n\nThe entire print run sold out quickly. Alice was a publishing sensation, beloved by children and adults alike.(no content)The book has never been out of print. Alice's Adventures in Wonderland has been translated into 174 languages.(no content)Appearing at a time when children's literature generally was intended to teach moral lessons, the book at first baffled critics, who failed to appreciate the nonsense that so captivated its young readers. But Carroll understood how children's minds worked, and the way he turned logic on its head appealed to their sense of the ridiculous.(no content)1998: Carroll's own copy of Alice, one of only six surviving copies of the 1865 first edition, is sold at an auction for US$1.54 million to an anonymous American buyer, becoming the most expensive children's book (or 19th-century work of literature) ever sold to that point."
+    ],
+    "durationSeconds": 46.65124982500001
+  }
+}

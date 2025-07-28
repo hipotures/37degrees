@@ -1,0 +1,62 @@
+{
+  "session_id": "50a1a9ee-e5bd-4af5-b1be-889513e755a8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/50a1a9ee-e5bd-4af5-b1be-889513e755a8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Ray Bradbury Fahrenheit 451 original title \"The Fireman\" McCarthyism inspiration 1950s"
+  },
+  "tool_response": {
+    "query": "Ray Bradbury Fahrenheit 451 original title \"The Fireman\" McCarthyism inspiration 1950s",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_011AAXqPTwRdMKYhbAxg46yQ",
+        "content": [
+          {
+            "title": "Fahrenheit 451 - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Fahrenheit_451"
+          },
+          {
+            "title": "Ray Bradbury - Fahrenheit 451 | American Writers Museum Exhibits",
+            "url": "https://exhibits.americanwritersmuseum.org/exhibits/ray-bradbury-inextinguishable/fahrenheit-451/"
+          },
+          {
+            "title": "A Short Analysis of Ray Bradbury\u2019s Fahrenheit 451",
+            "url": "https://interestingliterature.com/2013/07/a-short-analysis-of-ray-bradbury-fahrenheit-451/"
+          },
+          {
+            "title": "The Story Behind Fahrenheit 451 | Galaxy Press",
+            "url": "https://galaxypress.com/story-behind-fahrenheit-451/"
+          },
+          {
+            "title": "16 Surprising Facts About Ray Bradbury's Fahrenheit 451",
+            "url": "https://www.mentalfloss.com/article/527650/16-surprising-facts-about-ray-bradburys-fahrenheit-451"
+          },
+          {
+            "title": "Fahrenheit 451 by Ray Bradbury | Overview & Critical Analysis | Study.com",
+            "url": "https://study.com/academy/lesson/who-wrote-fahrenheit-451.html"
+          },
+          {
+            "title": "Fahrenheit 451 | Plot, Themes, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/Fahrenheit-451-novel-by-Bradbury"
+          },
+          {
+            "title": "Ray Bradbury, \u201cFahrenheit 451\u201d \u2013 The Banned Books Project",
+            "url": "https://bannedbooks.library.cmu.edu/ray-bradburys-fahrenheit-451/"
+          },
+          {
+            "title": "Fahrenheit 451 | Encyclopedia.com",
+            "url": "https://www.encyclopedia.com/arts/educational-magazines/fahrenheit-451"
+          },
+          {
+            "title": "Ray Bradbury\u2019s Fahrenheit 451 and the Dystopian Tradition, by Paul Brians | Common Errors in English Usage and More | Washington State University",
+            "url": "https://brians.wsu.edu/2016/10/12/ray-bradburys-fahrenheit-451-and-the-dystopian-tradition/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide comprehensive information about Ray Bradbury's Fahrenheit 451, its original title \"The Fireman,\" and its connection to McCarthyism and 1950s political climate:\n\n## Original Title and Development\n\nFahrenheit 451 was originally titled \"The Fireman\" and was published as a novella in Galaxy Science Fiction magazine in 1951. Bradbury wrote this original version in just 9 days, spending $9.80 on typewriter rentals in the basement of UCLA's library. Bradbury was later urged by Stanley Kauffmann, an editor at Ballantine Books, to expand \"The Fireman\" into a full novel.\n\n## McCarthyism and 1950s Political Context\n\nFahrenheit 451 was written during the Second Red Scare and the McCarthy era, inspired by book burnings in Nazi Germany and ideological repression in the Soviet Union. The rise of Senator Joseph McCarthy's McCarthyism persecution of accused communists, beginning in 1950, deepened Bradbury's contempt for government overreach.\n\nThe House Un-American Activities Committee (HUAC), formed in 1938 to investigate American citizens and organizations suspected of having communist ties, held hearings in 1947 to investigate alleged communist influence in Hollywood movie-making. The government's interference in the affairs of artists and creative types infuriated Bradbury.\n\nFahrenheit 451 was published on October 19, 1953 in the midst of the Second Red Scare, an era characterized by political and cultural paranoia. Many Americans feared Communist infiltration of their values and communities. Some critics have interpreted Montag's story as a challenge to the censorship and conformity that U.S. Senator Joseph McCarthy's witch hunt sparked.\n\n## Bradbury's Personal Inspiration\n\nIn a 1956 interview, Bradbury said: \"I wrote this book at a time when I was worried about the way things were going in this country four years ago [1952]. Too many people were afraid of their shadows; there was a threat of book burning. Many of the books were being taken off the shelves at that time\".\n\nBradbury explained: \"When I heard about Hitler burning the books in the streets of Berlin, it bothered me terribly. I was 15 when that happened, I was thoroughly in love with libraries and he [Hitler] was burning me when he did that.... The reason why I wrote Fahrenheit is that I am a library person and I am in danger of someday writing something that people might not like and they might burn\".\n\n## Connection to Earlier Works\n\nA late 1949 nighttime encounter with an overzealous police officer would inspire Bradbury to write \"The Pedestrian,\" a short story which would go on to become \"The Fireman\" and then Fahrenheit 451. Elements of both \"Bright Phoenix\" (written 1947-1948) and \"The Pedestrian\" would be combined into The Fireman.\n\nIt is noted that the McCarthy witch hunts inspired the book, similar to how Arthur Miller's play The Crucible used the Salem witch trials as an allegory for the anti-Communist 'witch hunts' of the 1950s.\n\nThe search results clearly show how Fahrenheit 451 emerged from the political climate of McCarthyism and the broader context of 1950s censorship fears, evolving from earlier short stories into the dystopian masterpiece we know today."
+    ],
+    "durationSeconds": 30.004876015000047
+  }
+}

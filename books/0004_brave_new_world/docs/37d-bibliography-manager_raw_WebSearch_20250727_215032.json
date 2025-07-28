@@ -1,0 +1,62 @@
+{
+  "session_id": "7bfa3f26-bffe-44f4-87bb-f54ec853c72a",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7bfa3f26-bffe-44f4-87bb-f54ec853c72a.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Louise Brown first IVF baby 1978 Huxley Brave New World 1932 artificial conception prediction"
+  },
+  "tool_response": {
+    "query": "Louise Brown first IVF baby 1978 Huxley Brave New World 1932 artificial conception prediction",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01DXjuuR6X8ajGrcyRfVvS1j",
+        "content": [
+          {
+            "title": "Assisted Reproductive Technology after the Birth of Louise Brown - PMC",
+            "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3799275/"
+          },
+          {
+            "title": "Louise Brown - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Louise_Brown"
+          },
+          {
+            "title": "Louise Brown, The World's First Test-Tube Baby: Revisit Our Cover Story 40 Years Later - Newsweek",
+            "url": "https://www.newsweek.com/test-tube-baby-louise-brown-40-years-vitro-fertilization-1037431"
+          },
+          {
+            "title": "Louise Brown: World's First IVF Baby",
+            "url": "https://www.louisejoybrown.co.uk/"
+          },
+          {
+            "title": "Louise Brown at 40: Growing Up as the First 'Test-Tube Baby' | TIME",
+            "url": "https://time.com/5344145/louise-brown-test-tube-baby/"
+          },
+          {
+            "title": "Louise Brown | Biography & Facts | Britannica",
+            "url": "https://www.britannica.com/biography/Louise-Brown"
+          },
+          {
+            "title": "First baby conceived via IVF in 1978 - Louise Brown",
+            "url": "https://tfp-fertility.com/en-nl/general-information/first-ivf-baby-louise-brown"
+          },
+          {
+            "title": "40 years after the first IVF baby, a look back at the birth of a new era | Science News",
+            "url": "https://www.sciencenews.org/blog/growth-curve/40-years-ivf-baby-louise-brown"
+          },
+          {
+            "title": "World\u2019s first \"test tube\" baby born | July 25, 1978 | HISTORY",
+            "url": "https://www.history.com/this-day-in-history/july-25/worlds-first-test-tube-baby-born"
+          },
+          {
+            "title": "Louise Brown: The First test tube baby in the world",
+            "url": "https://birlafertility.com/blogs/louise-brown-the-first-test-tube-baby-in-the-world/"
+          }
+        ]
+      },
+      "The search results provide excellent information connecting Louise Brown's birth in 1978 as the first IVF baby to Aldous Huxley's earlier predictions in \"Brave New World.\" Here's what the search revealed:\n\n## Louise Brown and the First IVF Baby (1978)\n\nLouise Joy Brown (born 25 July 1978) is an English woman noted as the first human born following conception by in vitro fertilisation (IVF).(no content)At 11.47 PM on July 25th 1978, Louise Brown was delivered by an elective caesarean section at Oldham hospital by the registrar John Webster at gestational age of 38 weeks and 5 days due to coincidence of maternal pre-eclampsia.\n\n## Huxley's Prescient Prediction in \"Brave New World\" (1932)\n\nThe search results reveal a fascinating connection between Louise Brown's birth and earlier science fiction predictions. In 1932, Aldous Huxley described the technique of IVF in his science fiction novel \"Brave New World\". This novel was published 46 years before Louise Brown's actual birth.\n\n## Contemporary Reactions and Comparisons\n\nWhen Louise Brown was born, many people immediately drew connections to Huxley's novel. Newspapers and readers made regular comparisons to Aldous Huxley's 1934 novel Brave New World, in which natural sexual reproduction is banned and humans are grown in labs through a process similar to what happened before the embryo was placed inside Lesley's womb.(no content)It also touched off fevered speculation and ethical debate over wonders to come: the possibilities of surrogate mothers, the creation of superbeings and an Aldous Huxley vision of embryos nurtured to birth in artificial wombs.\n\n## The Medical Breakthrough\n\nHer birth, following a procedure pioneered in Britain, has been lauded among \"the most remarkable medical breakthroughs of the 20th century\". The procedure was developed by Patrick Steptoe, Robert Edwards, and Jean Purdy.(no content)Edwards was awarded the 2010 Nobel Prize in Medicine for this work.\n\n## Legacy and Impact\n\nSince then, IVF has become a common procedure with a record of more than 5 million births worldwide. More recent data shows that over 12 million babies have been born through IVF and other Assisted Reproductive Technologies (ARTs), making parenthood possible for millions worldwide, including same-sex couples and single individuals.\n\nThe connection between Huxley's 1932 fictional prediction and the 1978 reality of Louise Brown's birth demonstrates how science fiction can sometimes anticipate real scientific advances, though the actual implementation of IVF was far more benevolent than Huxley's dystopian vision suggested."
+    ],
+    "durationSeconds": 20.858005643999668
+  }
+}

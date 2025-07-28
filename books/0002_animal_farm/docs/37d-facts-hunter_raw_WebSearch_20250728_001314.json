@@ -1,0 +1,62 @@
+{
+  "session_id": "abba3f5a-b5aa-49e3-9bda-f1f6b93e098c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/abba3f5a-b5aa-49e3-9bda-f1f6b93e098c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Animal Farm censorship history banned books worldwide Soviet Union China schools"
+  },
+  "tool_response": {
+    "query": "Animal Farm censorship history banned books worldwide Soviet Union China schools",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_016hv9evAjArvLS5fTw5MCfz",
+        "content": [
+          {
+            "title": "Animal Farm: Banned by the Soviets, Promoted by the CIA - PEN America",
+            "url": "https://pen.org/animal-farm-banned-by-the-soviets-promoted-by-the-cia/"
+          },
+          {
+            "title": "Book censorship in China - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Book_censorship_in_China"
+          },
+          {
+            "title": "Animal Farm - George Orwell | Censored - the books they didn't want us to read | Birmingham City Council",
+            "url": "https://www.birmingham.gov.uk/info/50138/leisure_and_learning/1435/censored_-_the_books_they_didnt_want_us_to_read/8"
+          },
+          {
+            "title": "Banned Books Week: Animal Farm | CMU Libraries",
+            "url": "https://www.library.cmu.edu/about/news/2021-09/banned-books-week-animal-farm"
+          },
+          {
+            "title": "Animal Farm | The Censorship Files",
+            "url": "https://thecensorshipfiles.wordpress.com/volume-1/issue-2/animal-farm/"
+          },
+          {
+            "title": "Five books that are banned around the world \u2013 The Shield",
+            "url": "https://usishield.com/40634/features/five-books-that-are-banned-around-the-world/"
+          },
+          {
+            "title": "Forbidden Pages: Books Banned or Challenged Across the Globe | Library | High Point University",
+            "url": "https://www.highpoint.edu/library/2023/10/04/forbidden-pages-books-banned-or-challenged-across-the-globe/"
+          },
+          {
+            "title": "All Are Equal: The History Behind George Orwell\u2019s Controversial Novel, Animal Farm\u2013by Hannah Huckins \u2013 The Ellen Reeder",
+            "url": "https://english.plymouthcreate.net/literature/banned-books/all-are-equal-the-history-behind-george-orwells-controversial-novel-animal-farm-by-hannah-huckins/"
+          },
+          {
+            "title": "List of books banned by governments - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/List_of_books_banned_by_governments"
+          },
+          {
+            "title": "Why Was Animal Farm Banned? - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/why-was-animal-farmed-banned.html"
+          }
+        ]
+      },
+      "Based on my web search, I found comprehensive information about Animal Farm's censorship history across various countries and contexts. Here's a summary of the key findings:\n\n## Animal Farm's Censorship History Worldwide\n\n**Soviet Union/Russia:**\nAnimal Farm was forbidden to circulate in the Soviet Union after it was first published in 1945, and the ban continued until the late 1980s, when the Soviet Union collapsed.(no content)Because of its illegality, many in Soviet-controlled territory first read it in pirated, 'samizdat' form.\n\n**China:**\nThe book versions of Animal Farm and Nineteen Eighty-Four are available in mainland China, but added that all references to Mao Zedong have been removed from Nineteen Eighty-Four.(no content)Only a censored version is read in China and the book was banned in Russia from 1945 until the 1980's.\n\n**Other Countries:**\nAnimal Farm has been banned in the Soviet Union, Cuba, North Korea, the United Arab Emirates and many African countries.(no content)Both 1984 and Animal Farm were banned in the Soviet Union, and Animal Farm is still banned in Cuba today.(no content)In 2002, the novel was banned in schools in the United Arab Emirates.(no content)Today Animal Farm is still banned in Cuba, Kenya, and the United Arab Emirates.\n\n**Schools and Educational Settings:**\nIn 1963-68 in Wisconsin the book was challenged because it of phrases in it like, \"masses will revolt\".(no content)More schools at that time in New York did not want to teach a book that they thought was written by a communist.\n\n**Publishing Challenges:**\nAnimal Farm was denied four times by different publishers. One publisher agreed to publish the book at first but later changed his decision after the Ministry of Information suggested that they shouldn't infuriate Britain's ally. This was due to the UK's wartime alliance with the Soviet Union during World War II.\n\n**Reasons for Censorship:**\nIts challenging of communism and communist attitudes, insubordinate nature, and comically so, talking pigs, led to its ban in many countries.(no content)The novel was also banned by the United Arab Emirates in 2002 because of imagery they felt was against Islamic values.\n\n**Historical Context:**\nUnlike most of other banned political satires, Animal Farm is unique because it was censored due to the war-time relationship between the UK and the Soviet Union. The book's allegorical criticism of Soviet communism and Stalin's regime made it particularly sensitive during the Cold War era and continues to face restrictions in authoritarian countries today."
+    ],
+    "durationSeconds": 20.732974255999956
+  }
+}

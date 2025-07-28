@@ -1,0 +1,62 @@
+{
+  "session_id": "7bfa3f26-bffe-44f4-87bb-f54ec853c72a",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7bfa3f26-bffe-44f4-87bb-f54ec853c72a.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Brave New World film adaptations TV series 1980 1998 2020 Peacock reception reviews"
+  },
+  "tool_response": {
+    "query": "Brave New World film adaptations TV series 1980 1998 2020 Peacock reception reviews",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01ALtzwmSEgmyXvoNqWyphbL",
+        "content": [
+          {
+            "title": "TV REVIEW: Brave New World (Peacock, 2020) | by Shaun Watson | Medium",
+            "url": "https://swatson7856.medium.com/tv-review-brave-new-world-peacock-2020-4925f8c9e186"
+          },
+          {
+            "title": "Brave New World (TV series) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World_(TV_series)"
+          },
+          {
+            "title": "Brave New World: Season 1 | Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/tv/brave_new_world/s01"
+          },
+          {
+            "title": "Brave New World: Movie Adaptations | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/bravenew/movie-adaptations/"
+          },
+          {
+            "title": "Brave New World | Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/tv/brave_new_world"
+          },
+          {
+            "title": "Why Is It So Hard to Adapt 'Brave New World'?",
+            "url": "https://www.theringer.com/movies/2020/7/15/21324794/brave-new-world-adaptations-aldous-huxley-nbc-peacock"
+          },
+          {
+            "title": "Brave New World (1998 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World_(1998_film)"
+          },
+          {
+            "title": "Brave New World reviews hail Peacock original series ...",
+            "url": "https://www.syfy.com/syfy-wire/brave-new-world-peacock-reviews"
+          },
+          {
+            "title": "'Brave New World' Review: Series Is All Dressed Up With No Place to Go",
+            "url": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/brave-new-world-peacock-review-1027166/"
+          },
+          {
+            "title": "Brave New World (TV Movie 1980) \u2b50 6.5 | Drama, Sci-Fi",
+            "url": "https://www.imdb.com/title/tt0080468/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about Brave New World adaptations and their reception across three different productions:\n\n## Brave New World Adaptations\n\n### 1980 BBC/NBC TV Movie\nThere were two TV adaptations made for television, one in 1980 for the BBC, and after pulling it from its schedule several times, NBC finally aired it in March 1980. A version of it, anyway\u2014the miniseries had shrunk from six, to four, then finally three hours and been reduced to a TV movie.(no content)As has been noted by others there are two versions of this movie. The uncut version was presented in a two-part mini-series on the BBC. In America, NBC cut the mini-series down to fit into one movie.\n\n**Reception:** Many viewers find it far superior to the 1998 version of Brave New World. As others have said, this 1980 version of \"Brave New World\" is far superior to the 1998 version.(no content)If you haven't read the book, this 1980 made-for-TV rendition will do quite nicely. It strikes the right balance between humour and futuristic melodrama to hold interest but always remain credible.\n\n### 1998 NBC TV Movie\nBrave New World is a 1998 television movie loosely based on Aldous Huxley's 1932 novel of the same name. The film stars Peter Gallagher and Leonard Nimoy. The film aired on NBC on April 19, 1998.(no content)The network returned to Huxley's World State again in 1998, with a TV movie starring Peter Gallagher and Leonard Nimoy.\n\n**Reception:** The 1998 version received mixed to negative reviews. The New York Times' Caryn James said: \"The film fails to deal coherently with what is frightening about modern life and why\".(no content)Radio Times's David Parkinson said: \"the over-simplification of the premise...will disappoint admirers of the novel\".\n\n### 2020 Peacock TV Series\nBrave New World is an American science fiction drama television series loosely based on the classic 1932 novel of the same name by Aldous Huxley. It premiered on the day NBCUniversal streaming service Peacock launched, July 15, 2020.(no content)The narrative is now a mini-series divided over 9 episodes.\n\n**Reception:** On Rotten Tomatoes, the series holds an approval rating of 46% based on 56 reviews, with an average rating of 5.70/10.\n\nThe reviews were mixed. Positive aspects included Peacock's Brave New World being \"sexy, gorgeous, and exciting, a feast of visual and sensory delights that's often purposely empty in its portrayal of purposely empty people.\" However, critics noted it completely misses the point of Huxley's book.(no content)Peacock's 'Brave New World,' based on Aldous Huxley's dystopian novel, has pretty packaging but a hollow center.\n\n**Cancellation:** On October 28, 2020, Peacock cancelled the series after one season. It marked the first major TV series cancellation for the streaming service.\n\nThe adaptations show a progression from faithful but low-budget TV movies to a more expensive but critically questioned series that prioritized visual spectacle over the source material's deeper themes."
+    ],
+    "durationSeconds": 24.77710802299995
+  }
+}

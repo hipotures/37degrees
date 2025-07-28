@@ -1,0 +1,62 @@
+{
+  "session_id": "7bfa3f26-bffe-44f4-87bb-f54ec853c72a",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7bfa3f26-bffe-44f4-87bb-f54ec853c72a.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Brave New World Aldous Huxley academic papers peer-reviewed literary criticism dystopian fiction scholarly analysis"
+  },
+  "tool_response": {
+    "query": "Brave New World Aldous Huxley academic papers peer-reviewed literary criticism dystopian fiction scholarly analysis",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01Ji9vg275fhMq7tteMjNMyF",
+        "content": [
+          {
+            "title": "Analysis of Aldous Huxley\u2019s Brave New World. \u2013 Literary Theory and Criticism",
+            "url": "https://literariness.org/2025/05/23/analysis-of-aldous-huxleys-brave-new-world/"
+          },
+          {
+            "title": "Aldous Huxley\u2019s Brave New World: A Cautionary Tale of Totalitarian Ideology by Shahin Hossain",
+            "url": "https://minnesotaenglishjournalonline.org/2020/05/05/aldous-huxleys-brave-new-world-a-cautionary-tale-of-totalitarian-ideology-by-shahin-hossain/"
+          },
+          {
+            "title": "The Future is Now and it\u2019s Our Fault: A Review of Brave New World by Aldous Huxley | by Christopher Willard | Medium",
+            "url": "https://christopherwillardauthor.medium.com/fordism-and-freudism-a-review-of-brave-new-world-by-aldous-huxley-a6bfdaa9e440"
+          },
+          {
+            "title": "Brave New World - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World"
+          },
+          {
+            "title": "Aldous Huxley : Brave New World",
+            "url": "https://www.huxley.net/"
+          },
+          {
+            "title": "Brave New World | Summary, Context, & Reception | Britannica",
+            "url": "https://www.britannica.com/topic/Brave-New-World"
+          },
+          {
+            "title": "The Brave New World Dystopia by Aldous Huxley - 1232 Words | Essay Example",
+            "url": "https://ivypanda.com/essays/the-brave-new-world-dystopia-by-aldous-huxley/"
+          },
+          {
+            "title": "Brave New World Revisited (1958) by Aldous Huxley",
+            "url": "https://www.huxley.net/bnw-revisited/"
+          },
+          {
+            "title": "Brave New World By Aldous Leonard Huxley",
+            "url": "https://www.plato-philosophy.org/wp-content/uploads/2016/05/BraveNewWorld-1.pdf"
+          },
+          {
+            "title": "Brave New World Aldous Huxley 1932",
+            "url": "https://www.encyclopedia.com/arts/educational-magazines/brave-new-world"
+          }
+        ]
+      },
+      "Based on the search results, I found several academic papers and scholarly analyses of Aldous Huxley's \"Brave New World\" from various literary criticism and academic sources. Here's what the search revealed:\n\n## Peer-Reviewed Academic Sources:\n\nSeveral peer-reviewed scholarly articles were identified, including works published in academic journals such as \"English Studies in Canada,\" \"Journal for Cultural Research,\" \"Modern Fiction Studies,\" and \"Twentieth Century Literature.\"\n\n### Key Academic Papers Found:\n\n1. **Brad Congdon** - \"'Community, Identity, Stability': The Scientific Society and the Future of Religion in Aldous Huxley's Brave New World.\" English Studies in Canada, vol. 37, no. 3\u20134, Sept. 2011, pp. 83\u2013105.\n\n2. **Bulent Diken** - \"Huxley's Brave New World \u2013 and Ours.\" Journal for Cultural Research, vol. 15, 2, Apr. 2011, pp. 153\u2013172.\n\n3. **Peter E. Firchow** - \"The Satire of Huxley's Brave New World.\" Modern Fiction Studies, vol. 12, 1966, p. 451- 460.\n\n4. **Laura Frost** - \"Huxley's Feelies: The Cinema of Sensation in Brave New World.\" Twentieth Century Literature, vol. 52, no. 4, 2006, pp. 443-473.\n\n5. **Joanne Woiak** - \"Designing a Brave New World: Eugenics, Politics, and Fiction.\" The Public Historian, vol. 29, no. 3, 2007, pp. 105\u2013129.\n\n## Scholarly Analysis Themes:\n\nThe academic sources cover several critical areas of dystopian fiction analysis:\n\n- Analysis of totalitarian ideology and the dehumanized community in the World State\n- Examination of genetic engineering and unchecked scientific development\n- Comparative studies with other dystopian works like \"Nineteen Eighty-Four,\" focusing on \"enslavement through pleasure\" versus \"brutal oppression\"\n- Analysis of technological advancement fears and tech-skepticism in early 20th century literature\n\n## Literary Criticism Focus:\n\nContemporary critics generally agree that while Huxley was not particularly innovative as a writer, his ideas were provocative and fresh, and he was appreciated for his analysis of post-World War I English life and promotion of humanistic values through literature.\n\nThe search revealed a robust body of peer-reviewed academic literature analyzing \"Brave New World\" from multiple scholarly perspectives, including literary criticism, political science, sociology, and science studies approaches to dystopian fiction."
+    ],
+    "durationSeconds": 22.144372446000112
+  }
+}

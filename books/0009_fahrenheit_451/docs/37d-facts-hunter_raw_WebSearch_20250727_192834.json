@@ -1,0 +1,62 @@
+{
+  "session_id": "50a1a9ee-e5bd-4af5-b1be-889513e755a8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/50a1a9ee-e5bd-4af5-b1be-889513e755a8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Ray Bradbury Fahrenheit 451 UCLA library basement typing $9.80 inspiration creation story"
+  },
+  "tool_response": {
+    "query": "Ray Bradbury Fahrenheit 451 UCLA library basement typing $9.80 inspiration creation story",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01N8oXebJHgeMdHJvXoUrQdb",
+        "content": [
+          {
+            "title": "Fahrenheit 451 Revisited | UCLA",
+            "url": "https://newsroom.ucla.edu/magazine/fahrenheit-451-revisited-ray-bradbury"
+          },
+          {
+            "title": "Ray Bradbury on Writing Fahrenheit 451 in a Library",
+            "url": "https://laughingsquid.com/ray-bradbury-on-writing-fahrenheit-451-in-a-library/"
+          },
+          {
+            "title": "Ray Bradbury - Fahrenheit 451 | American Writers Museum Exhibits",
+            "url": "https://exhibits.americanwritersmuseum.org/exhibits/ray-bradbury-inextinguishable/fahrenheit-451/"
+          },
+          {
+            "title": "From Dimes to Fahrenheit 451 | UCLA",
+            "url": "https://newsroom.ucla.edu/magazine/ray-bradbury-fahrenheit-451-powell-library"
+          },
+          {
+            "title": "Where Ray Bradbury Wrote When He Couldn\u2019t Afford an Office, and Where He Got the Title Idea for His Iconic Novel | Screenwriting from Iowa",
+            "url": "https://screenwritingfromiowa.wordpress.com/2019/10/21/ray-bradbury-the-library-book-susan-orlean-fahrenheit-451/"
+          },
+          {
+            "title": "Fahrenheit 451 - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Fahrenheit_451"
+          },
+          {
+            "title": "Ray Bradbury Wrote the First Draft of Fahrenheit 451 on Coin-Operated Typewriters, for a Total of $9.80 | Open Culture",
+            "url": "https://www.openculture.com/2020/11/ray-bradbury-wrote-fahrenheit-451-on-coin-operated-typewriters-for-a-total-of-9-80.html"
+          },
+          {
+            "title": "A Short Analysis of Ray Bradbury\u2019s Fahrenheit 451",
+            "url": "https://interestingliterature.com/2013/07/a-short-analysis-of-ray-bradbury-fahrenheit-451/"
+          },
+          {
+            "title": "Ray Bradbury - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ray_Bradbury"
+          },
+          {
+            "title": "The Story Behind Fahrenheit 451 | Galaxy Press",
+            "url": "https://galaxypress.com/story-behind-fahrenheit-451/"
+          }
+        ]
+      },
+      "The search results provide fascinating details about Ray Bradbury's creation of Fahrenheit 451 and the story behind the famous $9.80 basement typing experience at UCLA's Powell Library. Here's what I found:\n\n## Ray Bradbury's Fahrenheit 451 Creation Story\n\nRay Bradbury wrote the first draft of Fahrenheit 451 in the basement of UCLA's Powell Library after discovering a room with 12 typewriters that could be rented for 10 cents per half-hour. He spent $9.80 over nine days to write what he called \"a dime novel.\"\n\n### The Inspiration and Context\n\nBradbury's inspiration came from his concerns about book burning throughout history, including the destruction of the Alexandrian libraries, Hitler's book burnings in Berlin streets, and Stalin's library purges. As someone who educated himself in Los Angeles libraries, these events deeply concerned him.(no content)The practical need for a writing space arose because his house was too noisy with his newborn child, and he couldn't afford an office. While wandering around UCLA, he heard typing from the basement of Powell Library.\n\n### The Writing Process\n\nThe library setting was perfect for his book about book burning - he could run up and down the stairs, grabbing books off shelves and discovering quotes to insert into his novel, originally titled \"The Fireman.\"(no content)The first draft took 9 days and cost exactly $9.80 (49 hours at 10 cents per hour), and his original inspiration came from a previous short story called \"The Pedestrian,\" about a future where walking is illegal.\n\n### The Famous Title\n\nBradbury got the title by calling the Los Angeles Fire Department. When he asked the fire chief about the temperature at which book paper catches fire, the chief replied \"451 Fahrenheit,\" which became the novel's iconic title.\n\nThis creation story perfectly captures the serendipitous nature of literary inspiration - a cash-strapped writer with a crying baby at home, discovering coin-operated typewriters in a library basement, and creating one of the most enduring dystopian novels about the very institution that sheltered his creative process."
+    ],
+    "durationSeconds": 21.409780743999406
+  }
+}

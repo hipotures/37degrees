@@ -1,0 +1,62 @@
+{
+  "session_id": "abba3f5a-b5aa-49e3-9bda-f1f6b93e098c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/abba3f5a-b5aa-49e3-9bda-f1f6b93e098c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"All animals are equal\" meme TikTok Twitter social media Orwell quotes viral"
+  },
+  "tool_response": {
+    "query": "\"All animals are equal\" meme TikTok Twitter social media Orwell quotes viral",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01BgcJ2uA5f22M6QB1yoys6y",
+        "content": [
+          {
+            "title": "\"All animals are equal, but some animals are more equal than others.\"  George Orwell,\u00a0Animal Farm #currentevents #usnews  | TikTok",
+            "url": "https://www.tiktok.com/@genxplorer/video/7321626455576775982"
+          },
+          {
+            "title": "All Animals Are Equal But Some Animals Are More ...",
+            "url": "https://www.tiktok.com/discover/all-animals-are-equal-but-some-animals-are-more-equal-than-others"
+          },
+          {
+            "title": "George Orwell (author), said, 'All animals are equal, but some animals are more equal than others.' What does that mean? - Quora",
+            "url": "https://www.quora.com/George-Orwell-author-said-All-animals-are-equal-but-some-animals-are-more-equal-than-others-What-does-that-mean"
+          },
+          {
+            "title": "'All animals are equal, but some animals are more equal than others.' Where did I hear this? I know George Orwell said this, but I heard this somewhere else in a movie or a TV show. - Quora",
+            "url": "https://www.quora.com/All-animals-are-equal-but-some-animals-are-more-equal-than-others-Where-did-I-hear-this-I-know-George-Orwell-said-this-but-I-heard-this-somewhere-else-in-a-movie-or-a-TV-show"
+          },
+          {
+            "title": "All animals are equal, but some animals are more equal than others, George Orwell Animal Farm quote page number",
+            "url": "https://www.age-of-the-sage.org/george-orwell/quotes/all-animals-are-equal-than-others.html"
+          },
+          {
+            "title": "All Animals Are Equal But Some Are More Equal",
+            "url": "https://www.tiktok.com/discover/all-animals-are-equal-but-some-are-more-equal"
+          },
+          {
+            "title": "The Origin and Meaning of 'All Animals Are Equal but ...",
+            "url": "https://interestingliterature.com/2021/05/orwell-all-animals-are-equal-but-some-more-equal-than-others-meaning-analysis/"
+          },
+          {
+            "title": "\u2018All animals are equal, but some animals are more equal than others\u2019 - George Orwell #animalfarm #georgeorwell #orwellian #dystopian #dystopianbooks #bookrecs #booksarepower #readingisresistance @Penguin Classics  | TikTok",
+            "url": "https://www.tiktok.com/@periarrowsmith/video/7435699884453301536"
+          },
+          {
+            "title": "'All animals are equal, but some animals are more equal ...",
+            "url": "https://www.operaballet.nl/en/articles/all-animals-are-equal-some-animals-are-more-equal-others"
+          },
+          {
+            "title": "Quote by George Orwell: \u201cAll animals are equal, but some animals are mor...\u201d",
+            "url": "https://www.goodreads.com/quotes/6466-all-animals-are-equal-but-some-animals-are-more-equal"
+          }
+        ]
+      },
+      "Based on the search results, I can see that \"All animals are equal, but some animals are more equal than others\" is one of the most famous quotes from George Orwell's short novel, Animal Farm. The search reveals several ways this quote has appeared in viral content on social media platforms:\n\n**TikTok Presence:**\nThe quote appears in TikTok videos from users like GenXplorer and peri (@periarrowsmith), who use it to discuss current events and promote dystopian literature. There are TikTok discovery pages dedicated to variations of this quote, indicating its viral nature on the platform.\n\n**Cultural Context and Meme Usage:**\nThe cleverness of Orwell's writing lies in the political doublethink that is involved to make sense of the paradox: how can some animals be more equal than others? This paradoxical nature makes it particularly memeable in social media contexts.\n\nThe way the rhetorically gifted pig Squealer is able to convince the farm animals of his 'alternative facts' is highly topical, with references to political figures like Donald Trump and Kellyanne Conway's \"alternative facts.\" The machinations of politicians and their spin doctors often seem to have been taken straight from Animal Farm.\n\n**Modern Relevance:**\nWhile Stalin's totalitarian reign of terror may have ended, the mechanisms exposed in Animal Farm are as relevant today as they were in 1945, with democratic processes increasingly under pressure and people staying within their social-media bubbles.\n\nThe quote has become a viral meme format used to critique perceived hypocrisy in politics, social movements, and institutions, making it particularly popular for commentary on current events across social media platforms like TikTok and Twitter."
+    ],
+    "durationSeconds": 15.218872274000024
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "session_id": "50a1a9ee-e5bd-4af5-b1be-889513e755a8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/50a1a9ee-e5bd-4af5-b1be-889513e755a8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "youth teens censorship online content restrictions social media platform bans cancel culture 2024 2025"
+  },
+  "tool_response": {
+    "query": "youth teens censorship online content restrictions social media platform bans cancel culture 2024 2025",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01KmNcjjN4Twk1qTXPEv8bpm",
+        "content": [
+          {
+            "title": "Social Media and Children 2024 Legislation",
+            "url": "https://www.ncsl.org/technology-and-communication/social-media-and-children-2024-legislation"
+          },
+          {
+            "title": "Unplugging the Youth: Is a Social Media Ban the Answer? \u2014 Divided We Fall",
+            "url": "https://dividedwefall.org/youth-social-media-ban/"
+          },
+          {
+            "title": "Global Social Media Censorship Trends (2024\u20132025) - Views4You",
+            "url": "https://views4you.com/blog/social-media-censorship/"
+          },
+          {
+            "title": "Governments are banning kids from social media: will that protect them from harm?",
+            "url": "https://www.nature.com/articles/d41586-024-03955-5"
+          },
+          {
+            "title": "Senators unveil bipartisan legislation to ban kids under 13 from joining social media platforms | CNN Business",
+            "url": "https://www.cnn.com/2023/04/26/tech/senators-social-media-kids-wellness/index.html"
+          },
+          {
+            "title": "The fragmentation of online child safety regulations | Brookings",
+            "url": "https://www.brookings.edu/articles/patchwork-protection-of-minors/"
+          },
+          {
+            "title": "Social Media Bans: Balancing the Rights of Youth, Parents, and Governments \u2014 Columbia Undergraduate Law Review",
+            "url": "https://www.culawreview.org/current-events-2/social-media-bans-balancing-the-rights-of-youth-parents-and-governments"
+          },
+          {
+            "title": "Global Censorship: Banned Social Media & Internet Restrictions",
+            "url": "https://blog.safedns.com/understanding-censorship-exploring-banned-social-media-content-filtering-and-internet-access-restrictions-worldwide/"
+          },
+          {
+            "title": "Kids Off Social Media Act | U.S. Senator Brian Schatz of Hawaii",
+            "url": "https://www.schatz.senate.gov/kosma"
+          },
+          {
+            "title": "Social Media Use in Adolescents: Bans, Benefits, and Emotion Regulation Behaviors - PMC",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11554337/"
+          }
+        ]
+      },
+      "Based on the search results, here's what I found regarding youth, teens, censorship, and online content restrictions in 2024-2025:\n\n## Recent Legislative Developments\n\nState legislators are introducing measures to protect children while using the internet and internet-based forms of communication, including social media, as concerns grow about mental health impacts.\n\nA new federal bill unveiled Wednesday would establish a national minimum age for social media use and require tech companies to get parents' consent before creating accounts for teens, reflecting broader government efforts to restrict platform engagement with young users.\n\n## Key Policy Proposals\n\nSeveral significant legislative initiatives have emerged:\n\n**The Protecting Kids on Social Media Act**: Social media platforms would be barred from letting kids below the age of 13 create accounts or interact with other users, though children would still be permitted to view content without logging into an account.\n\n**Kids Off Social Media Act**: Prohibit social media platforms from allowing children under the age of 13 to create or maintain social media accounts, consistent with the current practices of major social media companies; Prohibit social media companies from recommending content using algorithms to users under the age of 17.\n\n## Global Censorship Trends\n\nGovernments worldwide intensified online censorship in 2024 and early 2025 through internet shutdowns, platform bans, legal takedown demands, and arrests for social media activity. It was a record year for internet shutdowns: 296 shutdowns across 54 countries in 2024, a sharp increase from 283 shutdowns in 39 countries the year before.\n\n## Youth and Civil Rights Perspectives\n\nThere's significant debate about these restrictions. A 15-year-old said, a social media ban \"would lead to people being uninformed about things, and it would start an era of censorship on the Internet, and by looking at the past, censorship is never good.\"(no content)The tech industry and digital rights advocates have said Utah's legislation requiring age verification and parental consent would infringe on the First Amendment rights of young Americans to access information and chill the speech rights of all Americans.\n\n## Mental Health Concerns\n\nSocial media is a leading driver of poor youth mental health. Numerous studies show that the more children and teens use social media, the higher their risk of being depressed.\n\nHowever, no definitive research has proven that social media overall negatively impacts youth. The American Psychological Association reported in 2023 that \"using social media is not inherently beneficial or harmful to young people.\"\n\n## Alternative Approaches\n\nSome experts suggest middle-ground solutions: Regulation could be used to incentivize social media companies to create separate teen-friendly platforms that reinforce the many benefits while removing the most nefarious design features that cause harm.\n\nThe search reveals a complex landscape where governments are implementing increasingly restrictive measures while youth advocates and civil liberties groups raise concerns about censorship and constitutional rights."
+    ],
+    "durationSeconds": 23.73093257000111
+  }
+}

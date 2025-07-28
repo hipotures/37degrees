@@ -1,0 +1,21 @@
+{
+  "session_id": "abba3f5a-b5aa-49e3-9bda-f1f6b93e098c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/abba3f5a-b5aa-49e3-9bda-f1f6b93e098c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Teresa Jele\u0144ska\" \"Zwierz\u0119cy folwark\" Polish translation Animal Farm London 1947"
+  },
+  "tool_response": {
+    "query": "\"Teresa Jele\u0144ska\" \"Zwierz\u0119cy folwark\" Polish translation Animal Farm London 1947",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01VmPeR7VzuAZjbHboQuiunm",
+        "content": []
+      },
+      "I performed a web search for the query you specified: \"Teresa Jele\u0144ska\" \"Zwierz\u0119cy folwark\" Polish translation Animal Farm London 1947. However, the search didn't return any results that I can display to you.\n\nThis could be due to several reasons:\n- The specific combination of terms may be too narrow\n- The information might not be widely available online\n- There might be variations in spelling or formatting that affect the search results\n\nIf you're researching the Polish translation of George Orwell's \"Animal Farm\" by Teresa Jele\u0144ska, you might want to try broader search terms or check specialized academic databases, library catalogs, or Polish literary archives that might have more detailed information about this specific translation."
+    ],
+    "durationSeconds": 7.278083992999979
+  }
+}

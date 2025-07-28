@@ -1,0 +1,62 @@
+{
+  "session_id": "abba3f5a-b5aa-49e3-9bda-f1f6b93e098c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/abba3f5a-b5aa-49e3-9bda-f1f6b93e098c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Folwark zwierz\u0119cy\" George Orwell Polish translation sources academic Poland"
+  },
+  "tool_response": {
+    "query": "\"Folwark zwierz\u0119cy\" George Orwell Polish translation sources academic Poland",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01FYgytTeK8u1wRZnCiAikuS",
+        "content": [
+          {
+            "title": "Orwell'a \"Folwark zwierz\u0119cy - Translation into English - examples Polish | Reverso Context",
+            "url": "https://context.reverso.net/translation/polish-english/Orwell'a+\"Folwark+zwierz\u0119cy"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy Folwark zwierz\u0119cy, Komiks wg Orwella. Animal Farm. Comics After Orwell. | First edition, first issue with price 120 zloty printed on rear cover . Oblong, format A5. Text in Polish",
+            "url": "https://www.foldvaribooks.com/pages/books/749/folwark-zwierzecy-komiks-wg-orwella-animal-farm-comics-after-orwell"
+          },
+          {
+            "title": "Animal Farm / Folwark zwierz\u0119cy: Tranzlaty English Polsku (Polish Edition): Orwell, George, Tranzlaty: 9781835661673: Amazon.com: Books",
+            "url": "https://www.amazon.com/Animal-Farm-Folwark-zwierz%C4%99cy-Tranzlaty/dp/183566167X"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy - George Orwell - Streszczenie szczeg\u00f3\u0142owe",
+            "url": "https://dyktanda.pl/ksiazki/folwark-zwierzecy/streszczenie-szczegolowe/"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy - George Orwell - Polska Ksiegarnia w UK",
+            "url": "https://ksiegarniainternetowa.co.uk/en/folwark_zwierzecy-9788377580288"
+          },
+          {
+            "title": "folwark zwierz\u0119cy - Translation into English - examples Polish | Reverso Context",
+            "url": "https://context.reverso.net/translation/polish-english/folwark+zwierz%C4%99cy"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy - Streszczenie szczeg\u00f3\u0142owe - George Orwell - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/george-orwell/folwark-zwierzecy.streszczenie-szczegolowe"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Folwark_zwierz%C4%99cy"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy - George Orwell | lektury szkolne z om\u00f3wieniem - Wydawnictwo Greg",
+            "url": "https://www.greg.pl/lektury/103,1187_Folwark-zwierzecy.html"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy - Ca\u0142a Polska Czyta Dzieciom",
+            "url": "https://calapolskaczytadzieciom.pl/ksiazka/folwark-zwierzecy/"
+          }
+        ]
+      },
+      "Your search for \"Folwark zwierz\u0119cy\" George Orwell Polish translation sources academic Poland has returned valuable information about the Polish translations and academic reception of Orwell's Animal Farm in Poland. Here are the key findings:\n\n## Polish Translation History\n\nThe first Polish edition was published in exile in London in 1947 under the title \"Zwierz\u0119cy folwark,\" translated by Teresa Jele\u0144ska. This early translation preceded the more commonly known \"Folwark zwierz\u0119cy\" title.\n\n## Academic and Translation Details\n\nThe search reveals several important academic sources and translation information:\n\n- One translation was done by Bart\u0142omiej Zborski, as mentioned in what appears to be a bibliographic citation.\n\n- An academic citation shows \"George Orwell: Folwark zwierz\u0119cy. Warszawa: Warszawskie Wydawnictwo Literackie Muza SA, 2008, s. 128\", indicating a 2008 Warsaw publication by Muza publishing house.\n\n## Underground Publication During Communist Era\n\nThe work was published as underground samizdat comics in Poland, with the original novel being banned in Communist countries, but in 1985 two comics versions were published underground in Poland. One version was published by \"Gilosz & Azyl\" in Warsaw in 1985.\n\n## Academic Context and Reception\n\nIn communist countries, reading the book was forbidden, which explains why it circulated through underground channels and emigrant publications.\n\nThe search results show that \"Folwark zwierz\u0119cy\" has been extensively studied in Polish academic contexts, with multiple publishers, translations, and scholarly works referencing it. The work's reception in Poland was particularly significant given its political themes and the country's communist period.\n\nWould you like me to search for more specific academic sources or particular aspects of the Polish translation history?"
+    ],
+    "durationSeconds": 15.60089146700001
+  }
+}

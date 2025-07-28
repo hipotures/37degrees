@@ -1,0 +1,63 @@
+{
+  "session_id": "8fbf2dc3-ee57-446f-bc57-5f2a49079daa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8fbf2dc3-ee57-446f-bc57-5f2a49079daa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "TikTok main character syndrome Don Quixote delusion youth mental health 2024"
+  },
+  "tool_response": {
+    "query": "TikTok main character syndrome Don Quixote delusion youth mental health 2024",
+    "results": [
+      "I'll search for information about TikTok, main character syndrome, Don Quixote delusion, and youth mental health in 2024.",
+      {
+        "tool_use_id": "srvtoolu_01HLFcEZ7cwD7H184ZM7iFgH",
+        "content": [
+          {
+            "title": "A Perspective on TikTok\u2019s Mental Health Epidemic \u2013 Confluence",
+            "url": "https://confluence.gallatin.nyu.edu/context/independent-project/a-perspective-on-tiktoks-mental-health-epidemic"
+          },
+          {
+            "title": "TikTok and Youth Mental Health: Weighing the Pros and Cons - Depression and Bipolar Support Alliance",
+            "url": "https://www.dbsalliance.org/education/newsletters/tiktok-and-youth-mental-health/"
+          },
+          {
+            "title": "Don Quixote - PMC",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2072031/"
+          },
+          {
+            "title": "Medical Classics: Don Quixote - PMC",
+            "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2072031/"
+          },
+          {
+            "title": "A Psychological Assessment of Don Quixote | Prized Writing",
+            "url": "https://prizedwriting.ucdavis.edu/psychological-assessment-don-quixote"
+          },
+          {
+            "title": "Exploring Problematic TikTok Use and Mental Health Issues: A Systematic Review of Empirical Studies - PMC",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11924099/"
+          },
+          {
+            "title": "Competing with TikTok: How To Help Guide Youth Through the Social Media Mental Health Diagnosis Maze | Current Pediatrics Reports",
+            "url": "https://link.springer.com/article/10.1007/s40124-025-00350-0"
+          },
+          {
+            "title": "Main Character Syndrome",
+            "url": "https://www.tiktok.com/discover/main-character-syndrome"
+          },
+          {
+            "title": "Inside TikTok's Mental Health Communities | Think Global Health",
+            "url": "https://www.thinkglobalhealth.org/article/inside-tiktoks-mental-health-communities"
+          },
+          {
+            "title": "Tics, TikTok and the teen mental health crisis \u2014 Philosophy for Life",
+            "url": "https://www.philosophyforlife.org/blog/tics-tiktok-and-the-teen-mental-health-crisis"
+          }
+        ]
+      },
+      "Based on my search results, I found some interesting connections between TikTok, youth mental health concerns, and concepts related to delusion and \"main character syndrome\" in 2024. Here's what the research reveals:\n\n## TikTok and Youth Mental Health in 2024\n\nThe pooled prevalence of TikTok use was estimated at 80.19%, with the highest rates observed among people aged 18 to 29 years, where it reached 85.4%. Frequent use of TikTok was closely linked with an increase in symptoms of anxiety and depression, especially in users aged under 24 years.\n\n## Main Character Syndrome and Self-Diagnosis Trends\n\nAdolescents have been increasingly utilizing the internet and social media for self-diagnosis of mental and relational distress. Using a representative case, this article highlights the specific challenges of youth self-diagnosis as well as considerations for clinicians working with those youth and their families as they navigate toward proper strategies and resources.(no content)Has TikTok made it fashionable to self-diagnose as suffering from a mental disorder? Is this Munchausen syndrome on a global scale? It's possible that this is also 'mass Munchausen syndrome' \u2014 TikTok is leading teens (both girls and boys) to self-diagnose based on vibey videos, and to imitate or fake the symptoms of mental illness because it's a trend, and it gets you attention, sympathy and likes online.\n\n## Don Quixote-Like Delusions and Reality Distortion\n\nThe connection to Don Quixote's delusions is particularly relevant. Different schools over the years have diagnosed various conditions from paranoia, persistent delusional disorder, and folie \u00e0 deux to a \"healthy reaction to a mad world.\" In terms of factors that led to the illness Cervantes is clear: because Don Quixote read so many chivalry novels, \"his brain dried up and this way he came to lose his sanity,\" which he only recovers at the end of his life.\n\nSimilarly, modern youth may be experiencing reality distortion through excessive consumption of mental health content on TikTok, much like Don Quixote's excessive reading of chivalric romances led to his delusions.\n\n## The Problem of Misinformation and Identity Formation\n\nSince the outset of the Covid-19 pandemic, there has been an outpouring of videos focused on mental health or neurodivergence on TikTok, created mostly by laypeople and non-licensed \"mental health advocates.\" I argue that although these widespread videos and online discussions may appear beneficial for the destigmatization of mental illness, they are actually laced with misinformation, detrimental to the public's understanding of(no content)To me, you are just children whose lives have become deeply entwined with a community that rides on the concept of solidarity in shared illness. That being said, don't purposely define yourself by that one aspect of mind or brain even if it means finding a like-minded community.\n\n## Professional Response and Concerns\n\nThe popularity of these online communities, however, points to a larger problem that should be tackled first: A growing number of people are struggling with mental illness and lack clinical resources to support them. However, not everyone is equally likely to participate in those communities: Online groups disproportionately attract vulnerable populations, such as youth, people who identify as LGBTQ+, and those without access to adequate mental health resources.\n\nThe research suggests that TikTok's algorithm-driven content delivery, combined with youth's developmental vulnerability and desire for identity formation, may be creating a modern parallel to Don Quixote's reality-distorting immersion in fictional narratives\u2014except instead of chivalric romances, it's mental health content that may be leading to problematic self-diagnosis and identity formation around illness."
+    ],
+    "durationSeconds": 27.522622009001672
+  }
+}

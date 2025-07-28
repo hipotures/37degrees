@@ -1,0 +1,62 @@
+{
+  "session_id": "50a1a9ee-e5bd-4af5-b1be-889513e755a8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/50a1a9ee-e5bd-4af5-b1be-889513e755a8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Fahrenheit 451\" polska m\u0142odzie\u017c TikTok BookTube Lubimyczyta\u0107 opinie recenzje"
+  },
+  "tool_response": {
+    "query": "\"Fahrenheit 451\" polska m\u0142odzie\u017c TikTok BookTube Lubimyczyta\u0107 opinie recenzje",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_016W12ddyfnfEmdYDF5zvu3u",
+        "content": [
+          {
+            "title": "A Pleasure to Burn. Fahrenheit 451 Stories. - Ray Bradbury | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/251265/a-pleasure-to-burn-fahrenheit-451-stories"
+          },
+          {
+            "title": "Fahrenheit 451 cytaty | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/cytaty/72763/ksiazka/fahrenheit-451"
+          },
+          {
+            "title": "Lubimyczytac",
+            "url": "https://lubimyczytac.pl/ksiazka/wydania/3949964/fahrenheit-451"
+          },
+          {
+            "title": "451 stopni Fahrenheita - Ray Bradbury, Tim Hamilton | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5194751/451-stopni-fahrenheita"
+          },
+          {
+            "title": "Recenzja serialu: \u201eFahrenheit 451\u201d, re\u017c. Ramin Bahrani | Ksi\u0105\u017cki wci\u0105\u017c p\u0142on\u0105 - Polityka.pl",
+            "url": "https://www.polityka.pl/tygodnikpolityka/kultura/film/1748400,1,recenzja-serialu-fahrenheit-451-rez-ramin-bahrani.read"
+          },
+          {
+            "title": "Efekt Motyla: Fahrenheit 451 \u2013 Szko\u0142a Otwarta i Tolerancyjna",
+            "url": "https://otwarta.bydgoszcz.pl/fahrenheit-451-2/"
+          },
+          {
+            "title": "Fahrenheit 451",
+            "url": "https://www.empik.com/fahrenheit-451-bradbury-ray,prod3960410,ksiazka-p"
+          },
+          {
+            "title": "451 Fahrenheita - nowa i u\u017cywana - SkupSzop.pl",
+            "url": "https://skupszop.pl/ksiazka/451-fahrenheita"
+          },
+          {
+            "title": "451 stopni Fahrenheita \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/451_stopni_Fahrenheita"
+          },
+          {
+            "title": "Fahrenheit 451 > Gallimard",
+            "url": "https://ksiegarniaedukator.pl/Fahrenheit-451-p2687"
+          }
+        ]
+      },
+      "The search results show information about Fahrenheit 451 and its reception in Poland, particularly on the Lubimyczyta\u0107 platform. Here's what I found:\n\n**Polish Reception of Fahrenheit 451:**\n\nThe book has a strong presence on Lubimyczyta\u0107, Poland's major book review platform, with multiple editions and reader discussions available. Ray Bradbury's novel was first published in 1953 and contains criticism of totalitarianism and television as a means to dull people's minds.\n\n**Reader Reviews and Opinions:**\n\nPolish readers on platforms like Lubimyczyta\u0107 have engaged deeply with the book. One reviewer noted: \"I've read 'Fahrenheit 451' many times and each time it takes my breath away. It's not just a book I love; it's a book that shaped me\". The reviewer also mentioned it made them question their own habits, choices, and role in society that often seems remarkably close to Bradbury's vision.\n\n**Educational Context:**\n\nThere's discussion about how young people have lost interest in words in favor of rapidly changing images: films, music videos, series, social media, memes, gaming streams, pranks, video blogs, and internet portals. Texts had to be maximally shortened and simplified to gain attractiveness, making literature almost exclusive entertainment.\n\n**Critical Analysis:**\n\nThe book was intended not so much as a critique of totalitarianism, but against television as a tool of mass indoctrination, with Bradbury claiming the novel's content was primarily about \"how television destroys interest in reading literature\" and \"turns people into morons\".\n\nThe search didn't return specific information about TikTok or BookTube discussions among Polish youth, but it shows that Fahrenheit 451 remains a significant and actively discussed work in Polish literary circles, particularly on platforms like Lubimyczyta\u0107 where readers engage with its themes of censorship, technology's impact on society, and the importance of critical thinking."
+    ],
+    "durationSeconds": 17.125871825998647
+  }
+}

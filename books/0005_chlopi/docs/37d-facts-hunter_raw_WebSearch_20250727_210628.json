@@ -1,0 +1,63 @@
+{
+  "session_id": "7bfa3f26-bffe-44f4-87bb-f54ec853c72a",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7bfa3f26-bffe-44f4-87bb-f54ec853c72a.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Reymont j\u0119zyk dialekt \"Ch\u0142opi\" gwara ludowa stylizacja j\u0119zykowa"
+  },
+  "tool_response": {
+    "query": "Reymont j\u0119zyk dialekt \"Ch\u0142opi\" gwara ludowa stylizacja j\u0119zykowa",
+    "results": [
+      "I'll perform a web search for that query about Reymont's language and dialect use in \"Ch\u0142opi\".",
+      {
+        "tool_use_id": "srvtoolu_01SbW83kFPnaYULFqtVdJQFt",
+        "content": [
+          {
+            "title": "Artyzm w Ch\u0142opach W\u0142adys\u0142awa Reymonta \u2013 Ch\u0142opi \u2013 W\u0142adys\u0142aw Reymont \u2013 poezja.org",
+            "url": "https://poezja.org/wz/interpretacja/5072/Artyzm_w_Chlopach_Wladyslawa_Reymonta"
+          },
+          {
+            "title": "J\u0119zyk \u201eCh\u0142op\u00f3w\u201d - klp.pl",
+            "url": "https://klp.pl/chlopi/a-5536.html"
+          },
+          {
+            "title": "Stylizacja j\u0119zykowa i jej odmiany - \u015aci\u0105gi, wypracowania, lektury - Bryk.pl",
+            "url": "https://www.bryk.pl/wypracowania/jezyk-polski/materialy-do-matury/25519-stylizacja-jezykowa-i-jej-odmiany.html"
+          },
+          {
+            "title": "Stylizacja j\u0119zykowa w \u201eCh\u0142opach\u201d Reymonta - 2l.pl",
+            "url": "https://2l.pl/artykul-31614.html"
+          },
+          {
+            "title": "Ch\u0142opi - cykl lekcji",
+            "url": "https://view.genially.com/6194d7bb86026f0de9d37aff/guide-chlopi-cykl-lekcji"
+          },
+          {
+            "title": "Obyczaje ludowe w powie\u015bci \u201eCh\u0142opi\u201d Reymonta - Sciaga.pl",
+            "url": "https://sciaga.pl/tekst/149708-150-obyczaje-ludowe-w-powiesci-chlopi-reymonta"
+          },
+          {
+            "title": "Ch\u0142opi - W\u0142adys\u0142aw Reymont - notatki - CH\u0141OPI 1 ch\u0142opska \u2756 Bohater zbiorowy- ch\u0142opi, wiejska - Studocu",
+            "url": "https://www.studocu.com/pl/document/szkola-srednia-polska/jezyk-polski-rozszerzony/chlopi-wladyslaw-reymont-notatki/11062506"
+          },
+          {
+            "title": "Przedstaw r\u00f3\u017cne typy stylizacji j\u0119zykowej w literaturze polskiej - Sciaga.pl",
+            "url": "https://sciaga.pl/tekst/37665-38-przedstaw_rozne_typy_stylizacji_jezykowej_w_literaturze_polskiej"
+          },
+          {
+            "title": "\"Ch\u0142opi\" W\u0142adys\u0142aw Reymont - Sciaga.pl",
+            "url": "https://sciaga.pl/tekst/128291-129-chlopi-wladyslaw-reymont"
+          },
+          {
+            "title": "Stylizacja i jej typy - Kultura i \u017cycie - zpe.gov.pl",
+            "url": "https://zpe.gov.pl/a/stylizacja-i-jej-typy/D1325LH7n"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about Reymont's language and dialect use in \"Ch\u0142opi\" (The Peasants), particularly focusing on folk speech and linguistic stylization.\n\n## Stylizacja j\u0119zykowa w \"Ch\u0142opach\" Reymonta\n\nReymont porusza\u0142 zar\u00f3wno wa\u017cne, jak i b\u0142ahe sprawy, a stylizacja j\u0119zykowa nadaje rozmowom bohater\u00f3w autentyczno\u015bci. Chocia\u017c akcja powie\u015bci prawdopodobnie toczy si\u0119 pod koniec XIX/na pocz\u0105tku XX wieku, nie mamy problemu ze zrozumieniem postaci, chocia\u017c Reymont pos\u0142u\u017cy\u0142 si\u0119 stylizacj\u0105 gwarow\u0105.\n\n### Charakter dialektyzacji\n\nW\u0142adys\u0142aw Reymont w powie\u015bci \u201eCh\u0142opi\" pos\u0142u\u017cy\u0142 si\u0119 szczeg\u00f3lnym j\u0119zykiem, co od razu zwr\u00f3ci\u0142o uwag\u0119 \u00f3wczesnych krytyk\u00f3w i wywo\u0142a\u0142o ich entuzjazm. By\u0142 to j\u0119zyk stworzony specjalnie dla tej powie\u015bci i stylizowany na gwar\u0119.(no content)Ten nies\u0142ychanie wa\u017cki tw\u00f3r, nie jest odpowiednikiem \u017cadnej ze znanych gwar, powsta\u0142 na potrzeby w\u0142a\u015bnie tej powie\u015bci. Po bli\u017cszym przyjrzeniu si\u0119 j\u0119zykoznawcy jednak orzekli, \u017ce u\u017cyty przez Reymonta j\u0119zyk sk\u0142ada si\u0119 z r\u00f3\u017cnych element\u00f3w zaczerpni\u0119tych z gwar centralnej Polski.\n\n### Poziomy stylizacji gwarowej\n\nStylizacja gwarowa jest obecna na kilku poziomach. Po pierwsze mamy do czynienia ze zmianami fonetycznymi (hale zamiast ale, p\u00f3d\u0119, \u017adziebko, pedzie\u0107 zamiast powiedzie\u0107). Pojawiaj\u0105 si\u0119 r\u00f3wnie\u017c modyfikacje morfologiczne (ludzkie kochane, ociec m\u00f3wili, cho\u0107ta).(no content)Jak podaje Franciszek Ziejka dialektyzacja obejmuje w \u201eCh\u0142opach\" wszystkie warstwy j\u0119zykowe, w\u015br\u00f3d nich najcz\u0119stsze s\u0105: 1) w zakresie fonetyki: przydech (np. hale zamiast ale) mieszanie \u201ech\" i \u201ek\" (np. chto i kto) liczne \u015bci\u0105gni\u0119cia (np. p\u00f3d\u0119, pedzie\u0107, trza, \u017adziebko)\n\n### R\u00f3\u017cnorodno\u015b\u0107 dialekt\u00f3w\n\nJ\u0119zyk powie\u015bci wykorzystuje wi\u0119c przede wszystkim gwar\u0119 \u0142owick\u0105, pojawiaj\u0105 si\u0119 r\u00f3wnie\u017c elementy kaszubskie, mazurskie i podhala\u0144skie. Gwara wykorzystana w \"Ch\u0142opach\" to zlepek r\u00f3\u017cnych dialekt\u00f3w.(no content)Do przedstawienia zwyczaj\u00f3w wiejskich i stworzenia odpowiedniego klimatu w powie\u015bci, Reymont zastosowa\u0142 materia\u0142 gwarowy z r\u00f3\u017cnych dialekt\u00f3w z okolic \u0141owicza, \u0141odzi, Piotrkowa, \u0141\u0119czycy a\u017c po Wielu\u0144 i Cz\u0119stochow\u0119. Nie wprowadzi\u0142 on jednego dialektu, poniewa\u017c chodzi\u0142o nie o odtworzenie konkretnej gwary, ale o stworzenie jakiej\u015b mowy og\u00f3lnopolskiej.\n\n### Unikatowy j\u0119zyk powie\u015bci\n\nKapitalnym pomys\u0142em Reymonta w \u201eCh\u0142opach\" jest stworzenie sobie udzielnego j\u0119zyka, zastosowanego do przedmiotu. Ch\u0142opi m\u00f3wi\u0105 z ch\u0142opska, a nawet narzeczem mazursko-\u0142owickim. Autor jednak przemawia od siebie nie zwyk\u0142\u0105, g\u00f3rn\u0105 polszczyzn\u0105, lecz mow\u0105 u\u0142o\u017con\u0105 ad hoc, wzorowan\u0105 na mowie w\u0142o\u015bcian, niesko\u0144czenie tylko obfitsz\u0105, wzbogacon\u0105 zwrotami z innych stron kraju, nawet archaizmami, z trafnym smakiem wznowionymi.\n\n### Wykorzystanie dialektyzacji\n\nS\u0142ownictwo gwarowe dominuje oczywi\u015bcie w partiach dialogowych, natomiast w ograniczonej formie wyst\u0119puje w cz\u0119\u015bciach narracyjno-opisowych. Pisarz u\u017cywa tego j\u0119zyka przede wszystkim w partiach dialogowych, co jest uzasadnione wiejskim pochodzeniem jego bohater\u00f3w.(no content)W powie\u015bci nie brakuje te\u017c sentencji i porzekade\u0142, kt\u00f3re by\u0142y wa\u017cn\u0105 cz\u0119\u015bci\u0105 lokalnej kultury (dobra \u017cona g\u0142owy m\u0119\u017cowej korona, pokorne ciel\u0119 dwie matki ssie, u wdowca to kiej mi\u0119dzy wilkami owca). Niekt\u00f3rzy bohaterowie maj\u0105 te\u017c swoje charakterystyczne powiedzenia, jak na przyk\u0142ad w\u00f3jt (Ja, w\u00f3jt wam to m\u00f3wi\u0119!). Charakterystyczny j\u0119zyk sprawia, \u017ce postaci s\u0105 bardziej wyraziste, maj\u0105 w\u0142asn\u0105 osobowo\u015b\u0107, kt\u00f3ra zapada czytelnikowi w pami\u0119\u0107.(no content)Reymontowska stylizacja jest zatem pomys\u0142em oryginalnym, do dzi\u015b b\u0119d\u0105cym przedmiotem wielu bada\u0144 j\u0119zykowych."
+    ],
+    "durationSeconds": 40.468388363
+  }
+}

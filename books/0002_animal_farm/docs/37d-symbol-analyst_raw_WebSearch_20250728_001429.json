@@ -1,0 +1,62 @@
+{
+  "session_id": "abba3f5a-b5aa-49e3-9bda-f1f6b93e098c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/abba3f5a-b5aa-49e3-9bda-f1f6b93e098c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Folwark zwierz\u0119cy\" Stanis\u0142aw Lem Czes\u0142aw Mi\u0142osz polscy pisarze wp\u0142yw recepcja"
+  },
+  "tool_response": {
+    "query": "\"Folwark zwierz\u0119cy\" Stanis\u0142aw Lem Czes\u0142aw Mi\u0142osz polscy pisarze wp\u0142yw recepcja",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01UWZinMDfAKddT77p9TTdco",
+        "content": [
+          {
+            "title": "Folwark zwierz\u0119cy Streszczenie",
+            "url": "https://zanotowane.pl/230/5219/"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy - Wydawnictwo MG",
+            "url": "https://wydawnictwomg.pl/folwark-zwierzecy/"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy (G. Orwell) - Opracowania, lektury, fiszki, testy - Opracowania.pl",
+            "url": "https://opracowania.pl/opracowania/jezyk-polski/folwark-zwierzecy-g-orwell,oid,519,problematyka"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy - klp.pl",
+            "url": "https://klp.pl/folwark-zwierzecy/"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Folwark_zwierz%C4%99cy"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy - George Orwell - Streszczenie szczeg\u00f3\u0142owe",
+            "url": "https://dyktanda.pl/ksiazki/folwark-zwierzecy/streszczenie-szczegolowe/"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy streszczenie i opracowanie",
+            "url": "https://streszczenia.pl/lektura/folwark-zwierzecy/"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy - Streszczenie szczeg\u00f3\u0142owe - George Orwell - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/george-orwell/folwark-zwierzecy.streszczenie-szczegolowe"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy \u2013 streszczenie \u2013 George Orwell \u2013 poezja.org",
+            "url": "https://poezja.org/wz/interpretacja/8048/Folwark_zwierzecy_streszczenie"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy \u2013 encyklopediafantastyki.pl",
+            "url": "https://encyklopediafantastyki.pl/index.php?title=Folwark_zwierz%C4%99cy"
+          }
+        ]
+      },
+      "Based on my search results, I can provide you with information about \"Folwark zwierz\u0119cy\" (Animal Farm) and its context in Polish literature, though I didn't find specific direct connections to Stanis\u0142aw Lem and Czes\u0142aw Mi\u0142osz in the search results.\n\n## \"Folwark zwierz\u0119cy\" - Overview\n\n\"Folwark zwierz\u0119cy\" is a novel by English journalist and writer George Orwell, depicting farm animals that expelled humans and began ruling the farm themselves. It is an allegorical representation of Stalinism and a warning against any totalitarianism.\n\n## Publication History in Poland\n\n\"The first Polish edition, translated by Teresa Jele\u0144ska, was published in exile in London in 1947 under the title 'Zwierz\u0119cy folwark.'\"(no content)\"Almost until the fall of the communist system in Poland in 1989, this was a novel banned by censorship \u2013 its first official domestic edition was published only in 1988.\"\n\n## Literary Context and Polish Writers\n\nWhile the search results mention \"Polish writers who undoubtedly deserved this title: Bruno Schulz, Stanis\u0142aw Ignacy Witkiewicz, Eliza Orzeszkowa, W\u0142adys\u0142aw Reymont\" in the context of notable authors, and reference \"Czes\u0142aw Mi\u0142osz\" appearing in educational materials alongside other literary works, the search didn't yield specific information about the direct influence or reception of \"Folwark zwierz\u0119cy\" on or by Stanis\u0142aw Lem and Czes\u0142aw Mi\u0142osz specifically.\n\n## Literary Significance\n\n\"Orwell constructs an extended, prosaic, satirical and parabolic fable... The key and power of parable and fable lies in the fact that when we laugh at or despise Orwell's four-legged heroes - we laugh at ourselves and despise our own human race... The story about animals created by Orwell wonderfully illustrates certain historical patterns and truths about human nature.\"\n\nThe search results show that \"Folwark zwierz\u0119cy\" is recognized as an important work in Polish literary discourse, though specific scholarly analysis of its influence on or reception by the mentioned Polish writers would require more specialized academic sources."
+    ],
+    "durationSeconds": 19.17059890099999
+  }
+}

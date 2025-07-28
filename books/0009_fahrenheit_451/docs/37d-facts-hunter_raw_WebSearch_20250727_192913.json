@@ -1,0 +1,63 @@
+{
+  "session_id": "50a1a9ee-e5bd-4af5-b1be-889513e755a8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/50a1a9ee-e5bd-4af5-b1be-889513e755a8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Fahrenheit 451 film adaptations Fran\u00e7ois Truffaut 1966 HBO 2018 theater versions"
+  },
+  "tool_response": {
+    "query": "Fahrenheit 451 film adaptations Fran\u00e7ois Truffaut 1966 HBO 2018 theater versions",
+    "results": [
+      "I'll search for information about Fahrenheit 451 film adaptations, including the Fran\u00e7ois Truffaut 1966 version, HBO 2018 version, and theater adaptations.",
+      {
+        "tool_use_id": "srvtoolu_01DUv6kCEEzWMHuathzTaViN",
+        "content": [
+          {
+            "title": "When Fran\u00e7ois Truffaut Made a Film Adaptation of Ray Bradbury's Fahrenheit 451 (1966) | Open Culture",
+            "url": "https://www.openculture.com/2024/03/when-francois-truffaut-made-a-film-adaptation-of-ray-bradburys-fahrenheit-451-1966.html"
+          },
+          {
+            "title": "Fahrenheit 451 (1966 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Fahrenheit_451_(1966_film)"
+          },
+          {
+            "title": "Fahrenheit 451 - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Fahrenheit_451"
+          },
+          {
+            "title": "Fahrenheit 451: Movie Adaptations | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/451/movie-adaptations/"
+          },
+          {
+            "title": "Fahrenheit 451 movie review & film summary (2018) | Roger Ebert",
+            "url": "https://www.rogerebert.com/reviews/fahrenheit-451-2018"
+          },
+          {
+            "title": "Fahrenheit 451 | Science Fiction, Dystopia, Adaptation | Britannica",
+            "url": "https://www.britannica.com/topic/Fahrenheit-451-film-by-Truffaut"
+          },
+          {
+            "title": "Analyzing the Fahrenheit 451 Films by Truffaut and Bahrani \u2013 UBC English Students' Association",
+            "url": "https://www.ubcenglish.com/analyzing-the-fahrenheit-451-films-by-truffaut-and-bahrani/"
+          },
+          {
+            "title": "Fahrenheit 451: Screening of 1966 Film - Oct. 13 at Page Hall | University at Albany",
+            "url": "https://www.albany.edu/pac/news/2023-fahrenheit-451-screening-1966-film-oct-13-page-hall"
+          },
+          {
+            "title": "Fahrenheit 451 (1966) \u2b50 7.2 | Drama, Sci-Fi",
+            "url": "https://www.imdb.com/title/tt0060390/"
+          },
+          {
+            "title": "\u200eFahrenheit 451 (1966) directed by Fran\u00e7ois Truffaut \u2022 Reviews, film + cast \u2022 Letterboxd",
+            "url": "https://letterboxd.com/film/fahrenheit-451/"
+          }
+        ]
+      },
+      "Based on the search results, I found comprehensive information about Fahrenheit 451 film adaptations, including the Fran\u00e7ois Truffaut 1966 version, HBO 2018 version, and theater adaptations. Here's what I discovered:\n\n## Film Adaptations\n\n### 1966 Fran\u00e7ois Truffaut Version\nFahrenheit 451 is a 1966 British dystopian drama film directed by Fran\u00e7ois Truffaut and starring Julie Christie, Oskar Werner, and Cyril Cusack. Based on the 1953 novel of the same name by Ray Bradbury, the film takes place in a controlled society in an oppressive future, in which the government sends out firemen to destroy all literature to prevent revolution and thinking. This was Truffaut's first colour film and his only non French-language film.(no content)Truffaut's adaptation differed from the novel by portraying Montag and Clarisse falling in love. Another notable aspect of the film is that Julie Christie plays two characters, Clarisse and Montag's wife Mildred, whose name was changed to Linda in the adaptation.\n\nThe film faced production challenges: In this diary, he called Fahrenheit 451 his \"saddest and most difficult\" film-making experience, mainly because of intense conflicts between Werner and himself.(no content)Truffaut expressed disappointment with the often stilted and unnatural English-language dialogue. He was much happier with the version that was dubbed into French.\n\n### 2018 HBO Version\nA film adaptation directed by Ramin Bahrani and starring Michael B. Jordan, Michael Shannon, Sofia Boutella, and Lilly Singh was released in 2018 for HBO.(no content)This version changes Bradbury's older, unhappily married protagonist into a much younger and virile Michael B. Jordan and adds language far saltier than the \"damns\" and \"hells\" that once got the novel in trouble with censors.\n\n### Critical Reception\nFilm adaptations of the novel include a 1966 film directed by Fran\u00e7ois Truffaut starring Oskar Werner as Guy Montag and a 2018 television film directed by Ramin Bahrani starring Michael B. Jordan as Montag, both of which received a mixed critical reception.\n\nFor the 1966 version: Contemporary critics gave the film mixed reviews, finding fault in Truffaut's direction and Christie's acting. However, the film has garnered increased acclaim in the decades since its initial release, with more recent critics praising Truffaut's use of dark humor.\n\n## Theater Adaptations\n\nIn the late 1970s Bradbury adapted his book into a play. At least part of it was performed at the Colony Theatre in Los Angeles in 1979, but it was not in print until 1986 and the official world premiere was only in November 1988 by the Fort Wayne, Indiana Civic Theatre.(no content)The stage adaptation diverges considerably from the book and seems influenced by Truffaut's movie. For example, fire chief Beatty's character is fleshed out and is the wordiest role in the play. As in the movie, Clarisse does not simply disappear but in the finale meets up with Montag as a book character (she as Robert Louis Stevenson, he as Edgar Allan Poe).\n\n## Notable Production Details\n\nThe 1966 film had an interesting feature: The film's opening credits are spoken rather than displayed in type, which might be the director's hint of what life would be like in an illiterate culture.\n\nBoth film adaptations have been part of academic discussions and screenings, with the works continuing to be studied for their interpretations of Bradbury's dystopian themes about censorship and the importance of literature."
+    ],
+    "durationSeconds": 29.4949540910013
+  }
+}

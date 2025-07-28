@@ -1,0 +1,62 @@
+{
+  "session_id": "7a96e064-9293-467f-8eb2-013e49aed0d1",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7a96e064-9293-467f-8eb2-013e49aed0d1.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Anna Karenina film adaptations Greta Garbo 1935 Vivien Leigh 1948 Keira Knightley 2012 box office reception"
+  },
+  "tool_response": {
+    "query": "Anna Karenina film adaptations Greta Garbo 1935 Vivien Leigh 1948 Keira Knightley 2012 box office reception",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_013wNtatX37LcD96eZ7rfPze",
+        "content": [
+          {
+            "title": "Anna Karenina at the movies, Garbo & Rathbone (1935) to Leigh & Richardson (1948); a Virginia Woolf column \u2013 Ellen And Jim Have A Blog, Two",
+            "url": "https://ellenandjim.wordpress.com/2018/01/23/anna-kareninaatthemoviesgarborathbonetoleighrichardson/"
+          },
+          {
+            "title": "Anna Karenina (1935 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Anna_Karenina_(1935_film)"
+          },
+          {
+            "title": "A Look At Two Versions Of Anna Karenina (1935 and 1948) \u2013 Silver Screen Classics",
+            "url": "https://silverscreenclassicsblog.wordpress.com/2020/04/03/a-look-at-two-versions-of-anna-karenina-1935-and-1948/"
+          },
+          {
+            "title": "'Anna Karenina' Through the Film Ages",
+            "url": "https://www.indiewire.com/2012/08/anna-karenina-through-the-film-ages-240291/"
+          },
+          {
+            "title": "Anna Karenina (2012 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Anna_Karenina_(2012_film)"
+          },
+          {
+            "title": "ANNA KARENINA BY LEO TOLSTOY",
+            "url": "https://www.imdb.com/list/ls051229455/"
+          },
+          {
+            "title": "Anna Karenina (1935) \u2b50 7.0 | Drama, Romance",
+            "url": "https://www.imdb.com/title/tt0026071/"
+          },
+          {
+            "title": "Film adaptations of Anna Karenina",
+            "url": "https://en.granma.cu/cultura/2017-11-13/film-adaptations-of-anna-karenina"
+          },
+          {
+            "title": "Anna Karenina | Romantic Drama, Leo Tolstoy, Greta Garbo | Britannica",
+            "url": "https://www.britannica.com/topic/Anna-Karenina-film"
+          },
+          {
+            "title": "Anna Karenina (1948) \u2b50 6.6 | Drama, Romance",
+            "url": "https://www.imdb.com/title/tt0040098/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about the box office reception of the three major Anna Karenina film adaptations you mentioned:\n\n## 1935 Greta Garbo Version\nThe film earned $2,304,000 at the box office and was a significant commercial success. Directed by Garbo's favourite director, Clarence Brown, with cinematography by William Daniels, Garbo's favourite photographer, \"Anna Karenina\" emerged a financial and critical success.(no content)The film's budget is estimated just shy of $500K, and made back twice that amount domestically, with a $731K international haul. A juggernaut hit.\n\nThe film also received significant critical acclaim. Greta Garbo received a New York Film Critics Circle Award for Best Actress for her role as Anna.(no content)For her efforts, Garbo won the New York Film Critics Circle Award as Best Actress; the film itself was named one of the top ten films of 1935 by the National Board of Review, USA.\n\n## 1948 Vivien Leigh Version\nExpensive and well-appointed, Leigh's \"Anna Karenina\" was ultimately unsuccessful, both commercially and critically. The film faced harsh reviews, particularly in the United States. British reviewers were a little kinder to the film; opening in the United States in April 1947, its American print shortened by twenty minutes, the movie prompted New York Times critic Bosley Crowther to comment in his review \"With all due respect for an actress who would willingly undertake a role that has twice been rendered immortal by Greta Garbo within the past twenty years, it must be confessed by this observer that the 'Anna Karenina' of Vivien Leigh is a pretty sad disappointment, by comparison or not.\"\n\n## 2012 Keira Knightley Version\nThe search results don't provide specific box office figures for the 2012 version, but they do show it received mixed critical reception. Leslie Felperin of Variety was more reserved in her praise for the film, observing that although Wright \"knows how to get the best from Knightley\" and noting that the film was technically \"glorious\", it was also \"unmistakably chilly\" in the storytelling. The Daily Mirror singled out Knightley as \"excellent\" and lauded Wright for \"offer[ing] a fresh vision of the Tolstoy classic\", concluding the picture to be \"with its beautiful cinematography and costumes... a real success\".\n\nHowever, Others were less impressed with the film and Wright's take on such a classic text. Stella Papamichael of Digital Spy also awarded the picture only two stars out of five, commenting that \"the third time isn't such a charm for director Joe Wright and muse Keira Knightley\".\n\nThe 2012 version did receive significant awards recognition: It earned four nominations at the 85th Academy Awards and six nominations at the 66th British Academy Film Awards, winning Jacqueline Durran both the Academy Award and the BAFTA Award for Best Costume Design.\n\nIn summary, the 1935 Garbo version was both a commercial and critical triumph, the 1948 Leigh version was a commercial and critical disappointment, while the 2012 Knightley version received mixed reviews but significant awards attention for its technical achievements."
+    ],
+    "durationSeconds": 28.290051831999794
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "session_id": "eefb55a0-c8d5-41bc-8dcc-6acbd6e5a3ba",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/eefb55a0-c8d5-41bc-8dcc-6acbd6e5a3ba.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "polska literatura spo\u0142eczny awans nowi bogaci Stefan \u017beromski Lalka Boles\u0142aw Prus Wokulski"
+  },
+  "tool_response": {
+    "query": "polska literatura spo\u0142eczny awans nowi bogaci Stefan \u017beromski Lalka Boles\u0142aw Prus Wokulski",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01PtuhRJSnhoVEaePncsNdAn",
+        "content": [
+          {
+            "title": "Wokulski (\u201eLalka\u201d, Boles\u0142aw Prus), Judym (\u201eLudzie bezdomni\u201d Stefan \u017beromski), Ziembiewicz (\u201eGranica\u201d Zofia Na\u0142kowska) - bohaterowie z awansu - \u015aci\u0105gi, wypracowania, lektury - Bryk.pl",
+            "url": "https://www.bryk.pl/wypracowania/jezyk-polski/prace-przekrojowe/2723-wokulski-lalka-boleslaw-prus-judym-ludzie-bezdomni-stefan-zeromski-ziembiewicz-granica-zofia-nalkowska-bohaterowie-z-awansu.html"
+          },
+          {
+            "title": "Boles\u0142aw Prus: Lalka i Stefan \u017beromski: Przedwio\u015bnie \u2013 miejsce wynalazcy i wynalazku w \u015bwiecie. - \u015aci\u0105gi, wypracowania, lektury - Bryk.pl",
+            "url": "https://www.bryk.pl/wypracowania/jezyk-polski/prace-przekrojowe/17444-boleslaw-prus-lalka-i-stefan-zeromski-przedwiosnie-miejsce-wynalazcy-i-wynalazku-w-swiecie.html"
+          },
+          {
+            "title": "Wokulski (\u201eLalka\u201d, Boles\u0142aw Prus), Judym (\u201eLudzie bezdomni\u201d Stefan \u017beromski), Ziembiewicz (\u201eGranica\u201d Zofia Na\u0142kowska) - bohaterowie z awansu - Wypracowania, konspekty, streszczenia i pomoc szkolna.",
+            "url": "https://wkuwam.pl/wokulski-lalka-boleslaw-prus-judym-ludzie-bezdomni-stefan-zeromski-ziembiewicz-granica-zofia-nalkowska-bohaterowie-z-awansu/"
+          },
+          {
+            "title": "Stefan \u017beromski - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Stefan_%C5%BBeromski"
+          },
+          {
+            "title": "Lalka - Boles\u0142aw Prus",
+            "url": "https://wolnelektury.pl/katalog/lektura/lalka/"
+          },
+          {
+            "title": "Lalka",
+            "url": "https://matura.greg.pl/polski,lalka-boleslaw-prus-streszczenie"
+          },
+          {
+            "title": "Lalka Opracowanie i interpretacja do matury! | Boles\u0142aw Prus",
+            "url": "https://jpmatura.pl/lektury/lalka/"
+          },
+          {
+            "title": "Lalka (B. Prus) - Opracowania, lektury, fiszki, testy - Opracowania.pl",
+            "url": "https://opracowania.pl/opracowania/jezyk-polski/lalka-b-prus,oid,434,problematyka"
+          },
+          {
+            "title": "Boles\u0142aw Prus: \"Lalka\" \u2013 opis, opracowanie, streszczenie, analiza, om\u00f3wienie",
+            "url": "https://www.klasykaliteraturyifilmu.pl/2020/12/08/boleslaw-prus-lalka-opis-opracowanie-streszczenie-analiza-omowienie/"
+          },
+          {
+            "title": "Kariery polityczne i awanse spo\u0142eczne w uj\u0119ciu pozytywnym i negatywnym. - Sciaga.pl",
+            "url": "https://sciaga.pl/tekst/11956-12-kariery_polityczne_i_awanse_spoleczne_w_ujeciu_pozytywnym_i_negatywnym"
+          }
+        ]
+      },
+      "Based on the search results, I can provide insights into the topic of social advancement and the \"new rich\" in Polish literature, particularly focusing on Stefan \u017beromski and Boles\u0142aw Prus's work \"Lalka\" (The Doll) and the character Wokulski.\n\n## Social Advancement and the \"New Rich\" in Polish Literature\n\nThe search reveals important themes related to social mobility and the emergence of new wealthy classes in Polish literature, particularly during the Positivist period (1848-1939).\n\n### The Character of Wokulski as a Representative of Social Advancement\n\nStanis\u0142aw Wokulski from Prus's \"Lalka\" exemplifies social advancement understood as obligation rather than privilege, as he invests and helps the poor. His social alienation resulted from transitioning to another class - he no longer belongs to the working class but isn't accepted as an aristocrat, often being reminded that he's a parvenu despite being received in salons.\n\n### The Phenomenon of Social Mobility in the Period\n\nDuring this period, social differences gradually blurred, class divisions weren't as clear and rigid, and possibilities for social advancement existed. However, social advancement, necessary for realizing a character's goals, also became a source of suffering and failures.\n\n### The Paradox of Social Advancement\n\nBreaking out of one class doesn't guarantee acceptance into another. Social advancement is therefore a kind of homelessness. Rising from the lower social strata requires determination and exceptional abilities, but doesn't guarantee either success or happiness.\n\n### Literary Treatment by \u017beromski and Prus\n\nBoth \u017beromski and Prus created heroes combining romantic and positivist characteristics. This gave birth to characters who were individualist-social activists, positivists torn by romantic feelings.\n\n### Wokulski's Character Profile\n\nWokulski is the main character of the novel - a wealthy Warsaw merchant, philanthropist, and unhappily in love with aristocrat Izabela \u0141\u0119cka. From Rzecki's diary we learn that Wokulski participated in the January Uprising and was exiled to Siberia, and after returning to his homeland worked diligently, wanting to contribute to the country's development through his knowledge and scientific interests.\n\nThis literary exploration reveals how Polish writers of the period grappled with themes of social mobility, the challenges faced by the emerging bourgeoisie, and the complex psychology of individuals caught between social classes."
+    ],
+    "durationSeconds": 27.335180211000143
+  }
+}

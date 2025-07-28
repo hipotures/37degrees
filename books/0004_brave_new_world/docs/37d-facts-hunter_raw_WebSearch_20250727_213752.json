@@ -1,0 +1,62 @@
+{
+  "session_id": "7bfa3f26-bffe-44f4-87bb-f54ec853c72a",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7bfa3f26-bffe-44f4-87bb-f54ec853c72a.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Nowy wspania\u0142y \u015bwiat\" lektura szkolna program nauczania j\u0119zyk polski liceum"
+  },
+  "tool_response": {
+    "query": "\"Nowy wspania\u0142y \u015bwiat\" lektura szkolna program nauczania j\u0119zyk polski liceum",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_014FbYFFYH93Nr6ptGFtzKm9",
+        "content": [
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Streszczenie szczeg\u00f3\u0142owe - Aldous Huxley - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/aldous-huxley/nowy-wspanialy-swiat.streszczenie-szczegolowe"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - \u015aci\u0105gi, wypracowania, lektury - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/aldous-huxley/nowy-wspanialy-swiat.problematyka"
+          },
+          {
+            "title": "Nowy Wspania\u0142y \u015awiat - ksi\u0105\u017cka - Empik",
+            "url": "https://www.empik.com/ksiazki/nowy-wspanialy-swiat"
+          },
+          {
+            "title": "\u201eNowy Wspania\u0142y \u015awiat\u201d",
+            "url": "http://www.comporecordeyros.cba.pl/lektury/HuxleyNWS.pdf"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat",
+            "url": "https://www.empik.com/nowy-wspanialy-swiat-huxley-aldous,p1293067189,ksiazka-p"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Aldous Huxley | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5043467/nowy-wspanialy-swiat"
+          },
+          {
+            "title": "LISTA LEKTUR szkolnych dla liceum i technikum - Dziennik.pl",
+            "url": "https://edukacja.dziennik.pl/aktualnosci/artykuly/548567,lista-lektur-w-liceum-aktualna-kompletny-wykaz.html"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - streszczenie - Aldous Huxley",
+            "url": "https://eszkola.pl/jezyk-polski/nowy-wspanialy-swiat-3079.html"
+          },
+          {
+            "title": "Aldous Huxley \u201eNowy wspania\u0142y \u015bwiat\u201d - Renesans - Klasa 1 - Ponad s\u0142owami - J\u0119zyk polski - Reforma 2017 Szko\u0142y ponadpodstawowe - Zasoby - strona 1 - dlanauczyciela.pl",
+            "url": "https://dlanauczyciela.pl/pliki/zasoby,reforma-2017-szkoly-ponadpodstawowe,jezyk-polski,ponad-slowami?path=klasa-1,renesans,aldous-huxley-nowy-wspanialy-swiat"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat Aldous Huxley ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/nowy-wspanialy-swiat-aldous-huxley"
+          }
+        ]
+      },
+      "Based on the search results, I found comprehensive information about \"Nowy wspania\u0142y \u015bwiat\" (Brave New World) by Aldous Huxley as it relates to the Polish secondary school curriculum. Here's what I found:\n\n## \"Nowy wspania\u0142y \u015bwiat\" jako lektura szkolna w polskim programie nauczania\n\n\u201eNowy wspania\u0142y \u015bwiat\" Aldousa Huxleya znajduje si\u0119 na oficjalnej li\u015bcie lektur uzupe\u0142niaj\u0105cych dla lice\u00f3w i technik\u00f3w w zakresie rozszerzonym wprowadzonej w roku szkolnym 2021/2022.\n\n### Charakterystyka utworu:\n\n\"Nowy wspania\u0142y \u015bwiat\" Aldousa Huxleya to antyutopia, a wi\u0119c gatunek powie\u015bci prezentuj\u0105cy \u015bwiat pe\u0142en niesprawiedliwo\u015bci, nier\u00f3wno\u015bci, poni\u017cania s\u0142abszych. W tej powie\u015bci ca\u0142a niesprawiedliwo\u015b\u0107 wyt\u0142umaczona jest konieczno\u015bci\u0105 utrzymania stabilizacji i podzia\u0142u kastowego.\n\nPowie\u015b\u0107 toczy si\u0119 w przysz\u0142o\u015bci - w roku 2541, czyli 632 rok po Fordzie, kt\u00f3ry ustanowi\u0142 now\u0105 rzeczywisto\u015b\u0107. Wydarzenia rozgrywaj\u0105 si\u0119 na terenie Republiki \u015awiata, kt\u00f3rej has\u0142em jest \u201eWsp\u00f3lno\u015b\u0107, Identyczno\u015b\u0107, Stabilno\u015b\u0107\".\n\n### Problematyka utworu:\n\n\"Nowy wspania\u0142y \u015bwiat\" to obrona indywidualizmu, wolno\u015bci i uczu\u0107 cz\u0142owieka, stanowi\u0105cych o jego wyj\u0105tkowo\u015bci. Huxley dobitnie podkre\u015bla tak\u017ce to, \u017ce nawet w pe\u0142ni kontrolowanym \u015bwiecie nie da si\u0119 zabi\u0107 pragnienia mi\u0142o\u015bci, pi\u0119kna czy dobra.\n\nPowie\u015b\u0107 interpretowana jest jako przepowiednia i przestroga przed pozorn\u0105 utopi\u0105, kt\u00f3ra oferuje post\u0119p technologiczny, pe\u0142ni\u0119 szcz\u0119\u015bcia, luksus i komfort \u017cycia, lecz jednocze\u015bnie jest obrazem zepsucia moralnego i upadku wa\u017cnych idei. W przes\u0142aniu Huxleya mo\u017cna si\u0119 r\u00f3wnie\u017c dopatrzy\u0107 krytyki cywilizacji przemys\u0142owej.\n\n### Znaczenie w edukacji:\n\nNowy wspania\u0142y \u015bwiat to jedna z najs\u0142ynniejszych antyutopii w literaturze XX wieku. Przedstawiona w powie\u015bci Huxleya wizja przysz\u0142ego spo\u0142ecze\u0144stwa, kt\u00f3re osi\u0105gn\u0119\u0142o stan ca\u0142kowitego zorganizowania i zrealizowa\u0142o idea\u0142 powszechnej szcz\u0119\u015bliwo\u015bci, jest wizj\u0105 przera\u017caj\u0105c\u0105.\n\nLektura ta jest zalecana w ramach programu nauczania j\u0119zyka polskiego na poziomie liceum jako przyk\u0142ad literatury dystopijnej i pozycja umo\u017cliwiaj\u0105ca uczniom refleksj\u0119 nad wsp\u00f3\u0142czesnym \u015bwiatem, technologi\u0105 i spo\u0142ecze\u0144stwem."
+    ],
+    "durationSeconds": 25.96893330400018
+  }
+}

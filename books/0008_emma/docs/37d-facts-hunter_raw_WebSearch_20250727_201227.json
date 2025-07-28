@@ -1,0 +1,62 @@
+{
+  "session_id": "43e12ea9-84a2-4345-8d62-d857a85435cd",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/43e12ea9-84a2-4345-8d62-d857a85435cd.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Emma Jane Austen polskie konteksty kulturowe system spo\u0142eczny swatanie polskie obyczaje randkowe"
+  },
+  "tool_response": {
+    "query": "Emma Jane Austen polskie konteksty kulturowe system spo\u0142eczny swatanie polskie obyczaje randkowe",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01THfeVPt8Vky5d1gV6hkL4R",
+        "content": [
+          {
+            "title": "Emma | Jane Austen (Ksi\u0105\u017cka) - Ksi\u0119garnia chodnikliteracki.pl",
+            "url": "https://chodnikliteracki.pl/p/emma-jane-austen-184028"
+          },
+          {
+            "title": "Emma Jane Austen ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/emma-jane-austen"
+          },
+          {
+            "title": "Emma - Jane Austen - ksi\u0105\u017cka, recenzja, streszczenie",
+            "url": "https://www.granice.pl/ksiazka/emma/169712"
+          },
+          {
+            "title": "Emma - Jane Austen | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5075511/emma"
+          },
+          {
+            "title": "Jane Austen | wszystkie ksi\u0105\u017cki w TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/autor/jane-austen"
+          },
+          {
+            "title": "\"Emma\" - Jane Austen - Kultowy.pl",
+            "url": "https://kultowy.pl/emma"
+          },
+          {
+            "title": "\u201eEmma\u201d Jane Austen",
+            "url": "https://wielkibuk.com/2014/09/15/emma-jane-austen/"
+          },
+          {
+            "title": "Emma - Jane Austen - ebook - Legimi online",
+            "url": "https://www.legimi.pl/ebook-emma-jane-austen,b1057617.html"
+          },
+          {
+            "title": "Zak\u0105tek Moniki: Jane Austen \"Emma\"",
+            "url": "http://jastulatka.blogspot.com/2015/04/jane-austen-emma.html"
+          },
+          {
+            "title": "Czytam to i owo...: \"Emma\" Jane Austen - 1815-2015 - dwusetna rocznica wydania",
+            "url": "http://czytamtoiowo.blogspot.com/p/emma-200-lat.html"
+          }
+        ]
+      },
+      "Based on the search results, I found several Polish sources discussing Jane Austen's \"Emma\" in the context of cultural and social systems. Here's what I found about \"Emma\" in Polish cultural contexts:\n\n## Emma w polskich kontekstach kulturowych i spo\u0142ecznych\n\nPowie\u015b\u0107 \"Emma\" jest uznawana za komedi\u0119 obyczajow\u0105, kt\u00f3ra bada relacje spo\u0142eczne i romantyczne epoki, szczeg\u00f3lnie w kontek\u015bcie XIX-wiecznej Anglii. Polscy krytycy literaccy zwracaj\u0105 uwag\u0119 na kilka kluczowych aspekt\u00f3w spo\u0142ecznych tej powie\u015bci:\n\n### System spo\u0142eczny i pozycja spo\u0142eczna\n\nEmma jako jedyna g\u0142\u00f3wna bohaterka Austen ma ponad pozosta\u0142ymi przewag\u0119 w postaci wysokiego statusu spo\u0142ecznego. Jej status spo\u0142eczny wymaga\u0142 od niej funkcji reprezentacyjnej, a co za tym idzie -- nie musia\u0142a si\u0119 martwi\u0107 o swoj\u0105 przysz\u0142o\u015b\u0107, nie musia\u0142a pracowa\u0107.\n\nJane Austen z precyzj\u0105 analizuje konwenanse spo\u0142eczne, ukazuj\u0105c, \u017ce pozycja spo\u0142eczna nie definiuje warto\u015bci cz\u0142owieka. To w\u0142a\u015bnie relacje mi\u0119dzyludzkie, szlachetno\u015b\u0107 charakteru i empatia decyduj\u0105 o prawdziwym bogactwie.\n\n### Swatanie i obyczaje randkowe\n\nPomimo przekonania, i\u017c sama nigdy nie wyjdzie za m\u0105\u017c, dostrzega w sobie talent do swatania par. Po \u015blubie w\u0142asnej guwernantki i miejscowego wdowca, pana Westona, doprowadzenie do kt\u00f3rego traktuje jako sw\u00f3j osobisty sukces, postanawia znale\u017a\u0107 godnego m\u0119\u017ca dla swojej nowej przyjaci\u00f3\u0142ki, Harriet Smith.\n\nZ nud\u00f3w wymy\u015bli\u0142a sobie, \u017ce zajmie si\u0119 swataniem ludzi, przy czym sama stroni\u0142a od instytucji ma\u0142\u017ce\u0144stwa. Ta decyzja zaowocowa\u0142a seri\u0105 pomy\u0142ek i sta\u0142a si\u0119 g\u0142\u00f3wn\u0105 osi\u0105 powie\u015bci.\n\n### Obyczajowo\u015b\u0107 i spo\u0142ecze\u0144stwo\n\nKa\u017cdy wie tutaj wszystko o bli\u017cszych i dalszych s\u0105siadach, a spotkania towarzyskie, to przede wszystkim wnikliwa obserwacja, tworzenie si\u0119 grupek wzajemnej adoracji, plotkowanie, plotkowanie i jeszcze raz plotkowanie.\n\nJedynym plusem powie\u015bci jest w\u0142a\u015bnie jej warto\u015b\u0107 poznawcza w zakresie spo\u0142eczno-obyczajowym pocz\u0105tku XIX wieku w Anglii.\n\n### Uniwersalno\u015b\u0107 temat\u00f3w\n\nZ tego powodu mo\u017cna pokusi\u0107 si\u0119 o stwierdzenie, \u017ce \"Emma\" to powie\u015b\u0107 uniwersalna. Uchwycone w niej zachowania bez problemu mo\u017cna znale\u017a\u0107 w otaczaj\u0105cym nas \u015bwiecie. Mimo \u017ce min\u0119\u0142o ponad 200 lat od wydania \u201eEmmy\", Jane Austen pisa\u0142a o emocjach, kt\u00f3re s\u0105 uniwersalne \u2013 mi\u0142o\u015bci, zazdro\u015bci, ambicjach i potrzebie akceptacji. To wszystko jest nadal aktualne.\n\nPolscy czytelnicy szczeg\u00f3lnie doceniaj\u0105 spos\u00f3b, w jaki Austen przedstawia fascynuj\u0105cy obraz stosunk\u00f3w spo\u0142ecznych w \u015bwiecie ulegaj\u0105cym wp\u0142ywom nowoczesno\u015bci i jednocze\u015bnie ho\u0142duj\u0105cym dawnym obyczajom."
+    ],
+    "durationSeconds": 28.083831167999655
+  }
+}

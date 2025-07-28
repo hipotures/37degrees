@@ -1,0 +1,62 @@
+{
+  "session_id": "abba3f5a-b5aa-49e3-9bda-f1f6b93e098c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/abba3f5a-b5aa-49e3-9bda-f1f6b93e098c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Animal Farm George Orwell publication rejections censorship wartime T.S. Eliot Ministry Information"
+  },
+  "tool_response": {
+    "query": "Animal Farm George Orwell publication rejections censorship wartime T.S. Eliot Ministry Information",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_015vNbogQfB5qchwiDuXTZE3",
+        "content": [
+          {
+            "title": "Animal Farm - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Animal_Farm"
+          },
+          {
+            "title": "Animal Farm by George Orwell | Summary, Impact & Publication - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/animal-farm-publisher-struggles.html"
+          },
+          {
+            "title": "The Freedom of the Press - by The Orwell Foundation",
+            "url": "https://orwellfoundation.substack.com/p/the-freedom-of-the-press"
+          },
+          {
+            "title": "T.S. Eliot, as Faber & Faber Editor, Rejects George Orwell's \"Trotskyite\" Novel Animal Farm (1944) | Open Culture",
+            "url": "https://www.openculture.com/2013/11/t-s-eliot-rejects-george-orwells-animal-farm.html"
+          },
+          {
+            "title": "George Orwell: The Freedom of the Press",
+            "url": "https://www.orwell.ru/library/novels/Animal_Farm/english/efp_go"
+          },
+          {
+            "title": "Orwell's Proposed Preface to 'Animal Farm'",
+            "url": "https://www.marxists.org/archive/orwell/1945/preface.htm"
+          },
+          {
+            "title": "Today in Literary History \u2013 August 17, 1945 \u2013 George Orwell\u2019s Animal Farm is published",
+            "url": "https://booknormblog.wordpress.com/2018/08/17/today-in-literary-history-august-17-1945-george-orwells-animal-farm-is-published/"
+          },
+          {
+            "title": "The Struggle To Publish Animal Farm | The Liberty Conservative",
+            "url": "https://libertyconservative.com/struggle-publish-animal-farm/"
+          },
+          {
+            "title": "Animal Farm by George Orwell | Audible.com",
+            "url": "https://www.audible.com/blog/summary-animal-farm-by-george-orwell"
+          },
+          {
+            "title": "10 Facts About George Orwell's Animal Farm",
+            "url": "https://www.mentalfloss.com/article/626689/animal-farm-book-facts"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about George Orwell's \"Animal Farm\" and its publication challenges, particularly regarding rejections, censorship, wartime politics, T.S. Eliot, and the Ministry of Information.\n\n## Publication Rejections and Censorship\n\nAnimal Farm was initially rejected by several British and American publishers, including one of Orwell's own, Victor Gollancz, which delayed its publication.(no content)Four publishers refused to publish Animal Farm, yet one had initially accepted the work but declined it after consulting the Ministry of Information.(no content)Orwell initially encountered difficulty getting the manuscript published, largely due to fears that the book might upset the alliance between Britain, the United States, and the Soviet Union.(no content)Orwell wrote the book between November 1943 and February 1944, when the United Kingdom was in its wartime alliance with the Soviet Union against Nazi Germany and the British intelligentsia held Stalin in high esteem, which Orwell hated.\n\n## T.S. Eliot's Rejection\n\nHe also submitted the manuscript to Faber and Faber, where the poet T. S. Eliot (who was a director of the firm) rejected it; Eliot wrote back to Orwell praising the book's \"good writing\" and \"fundamental integrity\", but declared that they would only accept it for publication if they had some sympathy for the viewpoint \"which I take to be generally Trotskyite\".(no content)Eliot's rejection letter stated that the Faber and Faber executives didn't think Animal Farm was \"the right point of view from which to criticize the political situation at the present time\".(no content)Eliot said he found the view \"not convincing\", and contended that the pigs were made out to be the best to run the farm; he posited that someone might argue \"what was needed ... was not more communism but more public-spirited pigs\".\n\n## Ministry of Information Involvement\n\nHowever, Cape changed his mind when an official of the British Ministry of Information told him that it would be a bad idea.(no content)One publisher actually started by accepting the book, but after making the preliminary arrangements he decided to consult the Ministry of Information, who appear to have warned him, or at any rate strongly advised him, against publishing it.(no content)One publisher openly admitted to Orwell that they had been warned off the book by an official in the Ministry of Information (it later transpired that this particular rejection had been encouraged by a Soviet spy.)(no content)One publisher who expressed interest in the book was warned away from it by a Soviet mole named Peter Smollett, who worked in the Ministry of Information.\n\n## Wartime Context and Self-Censorship\n\nIn his London Letter on 17 April 1944 for Partisan Review, Orwell wrote that it was \"now next door to impossible to get anything overtly anti-Russian printed. Anti-Russian books do appear, but mostly from Catholic publishing firms and always from a religious or frankly reactionary angle\".(no content)In his preface, Orwell claimed that his book had been censored by the publishing community for holding opinions contrary to public sentiment. He warned that censorship by private companies due to fear of public opinion was equally as dangerous as government censorship.(no content)If publishers and editors exert themselves to keep certain topics out of print, it is not because they are frightened of prosecution but because they are frightened of public opinion. In this country intellectual cowardice is the worst enemy a writer or journalist has to face, and that fact does not seem to me to have had the discussion it deserves.\n\n## Final Publication\n\nEventually, Secker and Warburg published the first edition in 1945.(no content)As a publishing house, Secker and Warburg was known for taking an anti-fascist and anti-communist stance, both of which went against the cultural sentiment at the time in Great Britain.\n\nThe story of Animal Farm's publication struggles illustrates the complex interplay between wartime politics, self-censorship, and government influence on publishing during World War II, when criticism of the Soviet Union was considered politically unwise despite the book's literary merit."
+    ],
+    "durationSeconds": 31.265830680000015
+  }
+}

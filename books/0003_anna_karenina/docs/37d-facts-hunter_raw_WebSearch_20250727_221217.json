@@ -1,0 +1,62 @@
+{
+  "session_id": "7a96e064-9293-467f-8eb2-013e49aed0d1",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7a96e064-9293-467f-8eb2-013e49aed0d1.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Anna Karenina feminist literature impact women's rights discourse literary criticism feminist analysis autonomy marriage"
+  },
+  "tool_response": {
+    "query": "Anna Karenina feminist literature impact women's rights discourse literary criticism feminist analysis autonomy marriage",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01Y444nrydZv5shT1ZuiqmM1",
+        "content": [
+          {
+            "title": "Leo Tolstoy\u2019s Anna Karenina: Feminist Triumph or Tragic Misogyny? | by Soufiane L | Medium",
+            "url": "https://medium.com/@soufiane.L/leo-tolstoys-anna-karenina-feminist-triumph-or-tragic-misogyny-c421bd9040c4"
+          },
+          {
+            "title": "Final Thesis - Feminist Analysis of Gender Inequality in Anna Karenina - Studocu",
+            "url": "https://www.studocu.com/row/document/university-of-the-punjab/english-literature/final-thesis-analysis-of-anna-karenina/106088634"
+          },
+          {
+            "title": "(PDF) Liberal feminist values as reflected in Leo Tolstoy\u2019s Anna Karenina",
+            "url": "https://www.researchgate.net/publication/349152712_Liberal_feminist_values_as_reflected_in_Leo_Tolstoy's_Anna_Karenina"
+          },
+          {
+            "title": "A Reexamination of Tolstoy's Complex Female Protagonist",
+            "url": "https://scholarworks.harding.edu/cgi/viewcontent.cgi?article=1032&context=honors-theses"
+          },
+          {
+            "title": "Becoming Anna Karenina in the Era of Modern Feminism | A Women\u2019s Thing",
+            "url": "https://awomensthing.org/blog/anna-karenina-modern-feminism/"
+          },
+          {
+            "title": "The portrayal of women in society as depicted in \"Anna Karenina\" by Leo Tolstoy | Free Essay Example for Students",
+            "url": "https://aithor.com/essay-examples/the-portrayal-of-women-in-society-as-depicted-in-anna-karenina-by-leo-tolstoy"
+          },
+          {
+            "title": "Unmasking the Alternative Micro Feminist Narratives in Anna",
+            "url": "https://www.humapub.com/admin/alljournals/gssr/papers/8rSNot2A6k.pdf"
+          },
+          {
+            "title": "Feminist Analysis of Anna Karenina by Leo Tolstoy | 123 Help Me",
+            "url": "https://www.123helpme.com/essay/Feminist-Analysis-of-Anna-Karenina-by-Leo-242745"
+          },
+          {
+            "title": "(PDF) Unmasking the Alternative Micro Feminist Narratives in Anna Karenina: A Postmodernist-Deconstructive Perspective",
+            "url": "https://www.researchgate.net/publication/345388826_Unmasking_the_Alternative_Micro_Feminist_Narratives_in_Anna_Karenina_A_Postmodernist-Deconstructive_Perspective"
+          },
+          {
+            "title": "Anna Karenina: Themes | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/anna/themes/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide comprehensive information about Anna Karenina's impact on feminist literature and women's rights discourse:\n\n## Anna Karenina's Impact on Feminist Literature and Women's Rights Discourse\n\nAnna Karenina has become a significant text in feminist literary criticism, with the narrative unfolding \"as a dynamic exploration of gender roles, societal expectations, and the agency of female characters\" when analyzed through feminist lenses.\n\n### Feminist Literary Analysis and Critique\n\nThe novel reveals \"Tolstoy's critique of the oppressive structures that restrict women's autonomy and perpetuate gender inequality\" through Anna's defiance of societal expectations and the harsh consequences she faces. Modern feminist interpretations view Anna Karenina \"as a powerful critique of the limited roles available to women and the societal mechanisms that enforce their subordination.\"\n\n### Liberal Feminist Perspectives\n\nThrough Anna Karenina's character, the novel shows how \"she fought for her rights to express her opinion to her husband\" and demonstrates her struggle to voice her opinions publicly. From a liberal feminism perspective, the main character shows \"direct resistance with maintains her opinion and ignore opinion from her husband.\"\n\n### Gender Inequality and Double Standards\n\nThe narrative presents \"a stark contrast between the moral and social repercussions of male and female infidelities, illustrating the double standards inherent in patriarchal norms.\"(no content)By comparing society's reaction to Anna's affair versus Stephen Arkadyevich's infidelity, the study reveals \"the moral double standards of the time.\"\n\n### Marriage, Autonomy, and Women's Rights\n\nAnna questions \"her role within the society, and whether she has any say or rights with regards to her own relationship\" and \"wonders if she has any rights to be happy and maybe break out of her unhappy and socially inappropriate marriage.\"(no content)The research highlights \"the significance of Tolstoy's portrayal of marriage and divorce, which reflects the strict legal and social limits placed on women.\"\n\n### Contemporary Relevance\n\nTolstoy's classic continues to have relevance today, as it \"sheds light on current issues related to gender and politics.\"(no content)The novel's enduring relevance in contemporary discourse emphasizes \"the novel's role in shaping ongoing conversations about gender, feminism, and literary representation.\"\n\n### Ongoing Scholarly Discourse\n\nAnna Karenina has become \"a focal point in feminist discourse, sparking discussions on gender dynamics within classic literature.\"(no content)The novel raises questions about women's rights that were clearly \"a hot topic of the day\" showing Western social progress influence on Russia, though \"Dolly and Anna suffer in their marriages\" which \"does not bode well for the future of feminism in the world of the novel.\"\n\nThe novel continues to be analyzed through various feminist theoretical frameworks, contributing to ongoing discussions about women's autonomy, marriage, gender inequality, and the critique of patriarchal structures in literature and society."
+    ],
+    "durationSeconds": 23.199850723000242
+  }
+}

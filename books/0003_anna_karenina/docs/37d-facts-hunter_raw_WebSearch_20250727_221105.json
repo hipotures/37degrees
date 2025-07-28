@@ -1,0 +1,62 @@
+{
+  "session_id": "7a96e064-9293-467f-8eb2-013e49aed0d1",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7a96e064-9293-467f-8eb2-013e49aed0d1.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Anna Karenina television series miniseries BBC adaptations modern TV versions 2000s"
+  },
+  "tool_response": {
+    "query": "Anna Karenina television series miniseries BBC adaptations modern TV versions 2000s",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01HfqeLr58uiVHZK2tjxD8gh",
+        "content": [
+          {
+            "title": "Anna Karenina (TV Mini Series 2000) \u2b50 7.2 | Drama",
+            "url": "https://www.imdb.com/title/tt0246353/"
+          },
+          {
+            "title": "Anna Karenina (TV Mini Series 1977) \u2b50 7.8 | Drama, History, Romance",
+            "url": "https://www.imdb.com/title/tt0075476/"
+          },
+          {
+            "title": "Anna Karenina (2000 TV series) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Anna_Karenina_(2000_TV_series)"
+          },
+          {
+            "title": "Anna Karenina (TV Mini Series 2000) - User reviews - IMDb",
+            "url": "https://m.imdb.com/title/tt0246353/reviews/"
+          },
+          {
+            "title": "Anna Karenina (TV Series 1977-1977) \u2014 The Movie Database (TMDB)",
+            "url": "https://www.themoviedb.org/tv/25552-anna-karenina?language=en-US"
+          },
+          {
+            "title": "Adaptations of Anna Karenina - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Adaptations_of_Anna_Karenina"
+          },
+          {
+            "title": "Amazon.com: Anna Karenina (1977) - The Complete Miniseries [DVD] : *: Movies & TV",
+            "url": "https://www.amazon.com/Anna-Karenina-Complete-Miniseries/dp/B0000A5A17"
+          },
+          {
+            "title": "Anna Karenina (1977 TV serial) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Anna_Karenina_(1977_TV_serial)"
+          },
+          {
+            "title": "Watch Anna Karenina - Series 1 | Prime Video",
+            "url": "https://www.amazon.com/Anna-Karenina-Series-1/dp/B07D4552MG"
+          },
+          {
+            "title": "The Beautiful Lie: a radical recalibration of Leo Tolstoy\u2019s Anna Karenina",
+            "url": "https://theconversation.com/the-beautiful-lie-a-radical-recalibration-of-leo-tolstoys-anna-karenina-49886"
+          }
+        ]
+      },
+      "Based on my search results, here's what I found about Anna Karenina television series, miniseries, and BBC adaptations, particularly modern TV versions from the 2000s:\n\n## Major Television Adaptations\n\n### BBC 1977 Version\nAnna Karenina is a 1977 BBC television adaptation of Leo Tolstoy's 1877 novel of the same name. It stars Nicola Pagett as Anna, Eric Porter as Karenin, Stuart Wilson as Vronsky, Davyd Harries as Stiva, Robert Swann as Levin, and Caroline Langrishe as Kitty. It consisted of ten 50-minute episodes, and so was able to include more of the original plot than some adaptations.(no content)It was mostly favourably received by critics.\n\n### 2000 Channel 4/Masterpiece Theatre Version\nAnna Karenina is a four-part British television adaptation of Leo Tolstoy's 1877 novel of the same name. It was directed by David Blair and aired in the United Kingdom on Channel 4 from 9 to 30 May 2000 and in America on PBS Masterpiece Theatre in 2001. This adaptation starred Helen McCrory as Anna, Stephen Dillane as Karenin, and Kevin McKidd as Vronsky.\n\nThis new adaption of Anna Karenina was first shown on British TV in May 2000 as a four week mini series.Since the production is over four hours long,it is able to explore the main characters in detail.\n\n## Critical Reception Comparisons\n\nThe 2000 version received mixed reviews compared to the 1977 BBC adaptation. Anna Karenina is my all-time favorite book, and having watched a number of Russian and English-language adaptations, including the 2012 Joe Wright film with Keira Knightly, I consider this 2000 Masterpiece Theater version the most faithful and watchable of them all. However, others disagreed: In my opinion, this version fares very poorly compared with the other TV miniseries, that of 1977 starring Nicola Pagett (Anna), Eric Porter (Karenin) and Stuart Wilson (Vronsky).\n\n## Other Modern Adaptations\n\n2013: Anna KareNina, a Filipino drama series directed by Gina Alajar \u00b7 2013: Anna Karenina, an Italian version for the Rai 1 network, directed by Christian Duguay and starring Vittoria Puccini \u00b7 2015: The Beautiful Lie, an Australian mini-series aired on the ABC.\n\nThe Beautiful Lie (2015) was particularly notable as the latest screen adaptation of Leo Tolstoy's Anna Karenina (1877), as good as the book. In short, the answer is yes.\n\nThe search results show that while there have been numerous film adaptations, the major television miniseries versions are primarily the 1977 BBC ten-episode version and the 2000 Channel 4/Masterpiece Theatre four-part adaptation, with the latter being the most prominent modern TV version from the 2000s era."
+    ],
+    "durationSeconds": 23.406140673000365
+  }
+}

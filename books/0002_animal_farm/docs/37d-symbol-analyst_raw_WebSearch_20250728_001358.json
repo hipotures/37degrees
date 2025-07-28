@@ -1,0 +1,62 @@
+{
+  "session_id": "abba3f5a-b5aa-49e3-9bda-f1f6b93e098c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/abba3f5a-b5aa-49e3-9bda-f1f6b93e098c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Animal Farm anime parallels Attack on Titan power corruption Death Note teenagers pop culture 2024"
+  },
+  "tool_response": {
+    "query": "Animal Farm anime parallels Attack on Titan power corruption Death Note teenagers pop culture 2024",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_0182uCAyPWVvDKRzZxFHcTAf",
+        "content": [
+          {
+            "title": "15 Shows To Watch If You Love 'Attack on Titan'",
+            "url": "https://collider.com/anime-shows-like-attack-on-titan/"
+          },
+          {
+            "title": "Anime May Not Be For Everyone, But Everyone Should Watch These 10 Series At Least Once In Their Lifetime",
+            "url": "https://screenrant.com/anime-everyone-should-watch-at-least-once/"
+          },
+          {
+            "title": "Attack on Titan - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Attack_on_Titan"
+          },
+          {
+            "title": "Attack on Titan (TV Series 2013\u20132023) \u2b50 9.1 | Animation, Action, Adventure",
+            "url": "https://www.imdb.com/title/tt2560140/"
+          },
+          {
+            "title": "The Top 10 Anime of 2024 - Anime News Network",
+            "url": "https://www.animenewsnetwork.com/feature/2024-12-30/the-top-10-anime-of-2024/.219016"
+          },
+          {
+            "title": "Why Attack on Titan Is the Alt-Right\u2019s Favorite Manga | The New Republic",
+            "url": "https://newrepublic.com/article/160193/attack-titan-alt-rights-favorite-manga"
+          },
+          {
+            "title": "Top Dystopian Anime to Watch in 2024 - Howik",
+            "url": "https://howik.com/top-dystopian-anime-to-watch-in-2024"
+          },
+          {
+            "title": "Anime India brings global anime icons, behind 'Death Note,' 'Attack on Titan,' 'Black Clover' and 'Gachiakuta' to interact with fans in India",
+            "url": "https://animationxpress.com/latest-news/anime-india-brings-global-anime-icons-behind-death-note-attack-on-titan-black-clover-and-gachiakuta-to-interact-with-fans-in-india/"
+          },
+          {
+            "title": "Attack on Titan Historical Parallels | Real-life References \u2014 Poggers",
+            "url": "https://poggers.com/blogs/anime/attack-on-titan-historical-parallels-real-life-references-in-aot"
+          },
+          {
+            "title": "Attack on Titan, an endless cycle of hatred",
+            "url": "https://www.pointnthink.fr/en/attack-on-titan-an-endless-cycle-of-hatred/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide insights about the parallels between anime series like Attack on Titan and Death Note with themes of power corruption, and their relevance to teenage audiences and pop culture in 2024.\n\n## Anime Parallels with Power Corruption Themes\n\nDeath Note features a masterful exploration of justice, power, and corruption, challenging viewers to reconsider the line between heroism and villainy. The series shows how Light then takes it upon himself to rid the world of corruption and criminals, though it's not too long before intelligent detective L is on the case, illustrating the corruption that comes with absolute power.\n\nSimilarly, Attack on Titan deals extensively with themes of power and corruption. Akame ga Kill! focuses on restoring balance to a corrupt government or society, which is a similar theme that Attack on Titan focuses on. The series explores The city's populace, stratified into castes and controlled by a repressive military regime, believe they are humanity's last survivors. At the start of the series, the military is divided into a corrupt, self-serving police force, a garrison that often drinks on the job.\n\n## Connection to George Orwell's Animal Farm\n\nWhile the search didn't yield direct comparisons to Animal Farm, Attack on Titan shares similar themes of political manipulation and power corruption. This is no longer a post-apocalyptic struggle against monstrous beings, but a profound reflection on the cycle of hatred and violence that has plagued the entire history of mankind. Isayama's work draws clear parallels with the history of our world, much like how Animal Farm uses allegory to critique political systems.\n\n## Appeal to Teenagers and Pop Culture in 2024\n\nThese anime continue to resonate with younger audiences because they feature a group of teenagers who pilot giant mechs to fight against mysterious creatures and deal with coming-of-age themes. Dead Dead Demon's Dededede Destruction is the coming-of-age story of Kadode, a girl about to graduate high school with no idea what to do with her life. The thing most viewers pick up on almost immediately is that the secret sauce that keeps people clamoring for more helpings of DAN DA DAN week after week is not its ridiculously wacky aliens-vs-yokai-vs-goofy-teenagers premise.\n\nThe relevance of these themes in 2024 is evident as the themes of power and corruption are as relevant today as they were when the anime first came out. They explore themes like survival, humanity, and the struggle against oppression. These themes resonate with us because, let's face it, the real world can be pretty tough too.\n\n## Contemporary Cultural Impact\n\nBoth series maintain strong cultural relevance, with Anime India aims to be the ultimate celebration of Japanese pop culture, fostering a vibrant community and providing a platform for fans to connect with their favourite series and creators, showing how these stories continue to engage global audiences and spark discussions about power, morality, and corruption that mirror real-world concerns."
+    ],
+    "durationSeconds": 23.04549960600003
+  }
+}

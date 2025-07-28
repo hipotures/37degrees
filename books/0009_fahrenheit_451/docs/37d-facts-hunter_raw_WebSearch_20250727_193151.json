@@ -1,0 +1,62 @@
+{
+  "session_id": "50a1a9ee-e5bd-4af5-b1be-889513e755a8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/50a1a9ee-e5bd-4af5-b1be-889513e755a8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "youth reading habits digital books vs physical books statistics teenagers 2024 2025 e-readers audiobooks"
+  },
+  "tool_response": {
+    "query": "youth reading habits digital books vs physical books statistics teenagers 2024 2025 e-readers audiobooks",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01SYtgqMyj6wdmXcPxXky2Qe",
+        "content": [
+          {
+            "title": "Printed Books vs eBooks Statistics, Trends and Facts [2024] - Toner Buzz",
+            "url": "https://www.tonerbuzz.com/blog/paper-books-vs-ebooks-statistics/"
+          },
+          {
+            "title": "Three-in-ten Americans now read e-books | Pew Research Center",
+            "url": "https://www.pewresearch.org/short-reads/2022/01/06/three-in-ten-americans-now-read-e-books/"
+          },
+          {
+            "title": "Reading Statistics",
+            "url": "https://www.magnetaba.com/blog/reading-statistics"
+          },
+          {
+            "title": "Teens today spend more time on digital media, less ...",
+            "url": "https://www.apa.org/news/press/releases/2018/08/teenagers-read-book"
+          },
+          {
+            "title": "More Americans are reading e-books than ever before | World Economic Forum",
+            "url": "https://www.weforum.org/stories/2022/01/americans-us-read-e-books-digital-education/"
+          },
+          {
+            "title": "The Impact of E-Book Reading on Young Children\u2019s Emergent Literacy Skills: An Analytical Review - PMC",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8296384/"
+          },
+          {
+            "title": "Who are the top readers for 2024? And where did they get their books? - The Washington Post",
+            "url": "https://www.washingtonpost.com/business/2025/01/17/who-are-top-readers-2024-where-did-they-get-their-books/"
+          },
+          {
+            "title": "How digital devices transform literary reading: The impact of e-books, audiobooks and online life on reading habits - Kari Spjeldn\u00e6s, Faltin Karlsen, 2024",
+            "url": "https://journals.sagepub.com/doi/10.1177/14614448221126168"
+          },
+          {
+            "title": "The Case for Paper: Books vs. E-Readers | Psychology Today",
+            "url": "https://www.psychologytoday.com/us/blog/well-read/202402/the-case-for-paper-books-vs-e-readers"
+          },
+          {
+            "title": "Reading Statistics",
+            "url": "https://www.sparxservices.org/blog/reading-statistics"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive statistics about youth reading habits regarding digital books vs physical books, with data from 2024-2025:\n\n## Key Statistics on Youth Reading Habits (2024-2025)\n\n### Digital vs Physical Book Preferences Among Young Readers\n\nDespite the rise of digital technology, Gen Z readers still have a strong affinity for physical print books. According to Book Riot, only 14% of book sales within the Gen Z age group were ebooks last year. This indicates that physical books remain the dominant preference among young readers.\n\nApproximately 57% of readers still opt for physical books over digital versions. That said, e-books hold a substantial share of the market, accounting for 25% of all book sales.\n\n### Declining Reading Frequency Among Teenagers\n\nThe generational decline in reading for fun is particularly pronounced among teenagers, with only 15% of 15-17-year-olds reading frequently. This represents a significant concern for overall reading engagement.\n\nOnly 14% of 13-year-olds reported reading for fun almost every day in 2023, a drop from 27% in 2012.\n\n### Youth Reading Engagement Despite Challenges\n\nNotably, 91% of Americans aged 18-29 engage with books, but their overall reading frequency indicates a decline compared to previous years.(no content)According to a survey conducted by Book Riot, 55% of Gen Z respondents reported reading once a week or more, and an impressive 40% read every day. This data highlights the active participation of Gen Z in reading activities, indicating a genuine interest in literature.\n\n### E-book and Digital Reading Trends\n\nThere has been an uptick in the share of Americans who report reading e-books, from 25% to 30%, despite print book and audiobook consumers staying the same.(no content)Projected e-book sales in 2025 = $7.78 billion (up from $5.91 billion in 2019) Projected e-reader sales in 2025 = $98.95 million (up from $77.94 million in 2019)\n\n### Mixed Reading Format Usage\n\nSome 33% of Americans read in these digital formats and also read print books, while 32% say they read only print books. Just 9% of Americans say they only read books in digital formats and have not read any print books in the past 12 months.\n\n### Audiobook and Digital Trends\n\nThis trend corresponds with findings from a 2024 national survey, which highlighted that preferences among younger adults are shifting toward digital entertainment rather than traditional reading.(no content)The rising popularity of audiobooks, now increasingly embraced, further reflects changing preferences in how literature is consumed today.\n\n### Digital Reading Behaviors\n\nReaders adapt reading mode to the situation, and experienced readers have developed strategies to maximise the ultimate combination of title, format and reading conditions. Digital reading favours lighter texts. This dimension is more substantial for audiobooks, relating to the wide choice of combining audiobooks with other activities.\n\n### Comprehension and Format Preferences\n\nResearch suggests that comprehension is six to eight times better with physical books than e-readers. Physical books help readers absorb and recall content more effectively.\n\nThe data reveals a complex picture where physical books maintain dominance among young readers, but digital formats are steadily growing. While overall reading frequency among teenagers has declined significantly, those who do read show strong engagement across multiple formats."
+    ],
+    "durationSeconds": 26.68517171499878
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "session_id": "7a96e064-9293-467f-8eb2-013e49aed0d1",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7a96e064-9293-467f-8eb2-013e49aed0d1.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "kontakty literackie polsko-rosyjskie XIX wiek To\u0142stoj Polska recepcja"
+  },
+  "tool_response": {
+    "query": "kontakty literackie polsko-rosyjskie XIX wiek To\u0142stoj Polska recepcja",
+    "results": [
+      "I'll perform a web search for your query about Polish-Russian literary contacts in the 19th century, focusing on Tolstoy and Polish reception.",
+      {
+        "tool_use_id": "srvtoolu_01Q7yhrKS9J4QvfquCDYPsqT",
+        "content": [
+          {
+            "title": "Zwi\u0105zki literackie polsko-rosyjskie - Uniwersytet Warszawski",
+            "url": "https://informatorects.uw.edu.pl/pl/courses/view?prz_kod=3202-S2WZL11o"
+          },
+          {
+            "title": "Literatura rosyjska. Jak si\u0119 rozwija\u0142a i kt\u00f3re ksi\u0105\u017cki warto przeczyta\u0107? - SkupSzop.pl",
+            "url": "https://skupszop.pl/blog/literatura-rosyjska-jak-sie-rozwijala-i-ktore-ksiazki-warto-przeczytac"
+          },
+          {
+            "title": "POLSKA I POLACY W LITERATURZE ROSYJSKIEJ",
+            "url": "https://bwu.mostyeuropy.pl/pliki/literatura_przedmiotu.htm"
+          },
+          {
+            "title": "Literatura rosyjska XIX i przelomu XIX i XX wiek\u00f3w - Uniwersytet im. Adama Mickiewicza w Poznaniu",
+            "url": "https://usosweb.amu.edu.pl/kontroler.php?_action=actionx:katalog2/przedmioty/pokazPrzedmiot(kod:09-LRPW-22)"
+          },
+          {
+            "title": "Literatura rosyjska \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Literatura_rosyjska"
+          },
+          {
+            "title": "Ksi\u0105\u017cki z serii Arcydzie\u0142a Literatury Rosyjskiej | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/seria/7659/arcydziela-literatury-rosyjskiej"
+          },
+          {
+            "title": "Kolekcja rosyjskich pisarzy XX w. | 15 arcydzie\u0142 - Polityka.pl",
+            "url": "https://www.polityka.pl/tygodnikpolityka/kultura/1510154,1,kolekcja-rosyjskich-pisarzy-xx-w.read"
+          },
+          {
+            "title": "Literatura rosyjska XIX i przelomu XIX i XX wiek\u00f3w - Uniwersytet im Adama Mickiewicza w Poznaniu",
+            "url": "https://ects.amu.edu.pl/switch_language?lang=pl&next=%2Fen%2Fcourses%2Fview%3Fprz_kod%3D09-LRPW-22"
+          },
+          {
+            "title": "Russian bookstore - books in Russian, Russian literature, Russian culture, knigs, knizka, \u043a\u043d\u0438\u0433\u0438 \u043d\u0430 \u0440\u0443\u0441\u0441\u043a\u043e\u043c \u0432 \u043f\u043e\u043b\u044c\u0448\u0435",
+            "url": "https://www.ksiegarniarosyjska.pl/en/"
+          },
+          {
+            "title": "Polsko-w\u0142oskie kontakty filmowe. Topika, koprodukcje, recepcja",
+            "url": "https://ksiegarnia.filmschool.lodz.pl/film/131-polsko-w%C5%82oskie-kontakty-filmowe-topika-koprodukcje-recepcja.html"
+          }
+        ]
+      },
+      "Based on the search results, I found valuable information about Polish-Russian literary contacts in the 19th century, particularly regarding Tolstoy and Polish reception. Here are the key findings:\n\n## Polish-Russian Literary Contacts in the 19th Century - Tolstoy and Polish Reception\n\nThe search results reveal extensive academic research on Polish-Russian literary relationships during the 19th century, with particular attention to Tolstoy's portrayal of Poles and their reception in Polish literature.\n\n### Key Academic Sources and Studies\n\nThe University of Warsaw offers courses on \"Polish-Russian Literary Relations\" that cover the history of mutual Polish-Russian and Russian-Polish literary connections. The curriculum specifically includes \"The Image of Poles in L. Tolstoy's Work\" as a dedicated topic of study.\n\n### Tolstoy's Portrayal of Poles\n\nTolstoy's work \"Za co?\" (What For?) is mentioned among the primary sources for studying Polish themes in Russian literature. Research by Bia\u0142okozowicz examines \"Polish threads and elements in Resurrection and Hadji Murad\", indicating Tolstoy's inclusion of Polish motifs in his major works.\n\n### Historical Context and Research\n\nBia\u0142okozowicz's work \"From the History of Mutual Polish-Russian Literary Relations in the 19th Century\" specifically addresses \"19th-century Russian prose classics in interwar Poland\". The January Uprising appears prominently in Russian literature, with Russian writers' reactions to the outbreak and course of the January Uprising being documented.\n\n### Stereotypes and Cultural Perceptions\n\nThe stereotype of Poles in Russian literature is a significant research area, with comprehensive studies examining negative stereotypes of Poles and Russians from 1800-1917. Research documents \"unfavorable and prejudice-filled opinions of Russians about Poles during the Romantic era\".\n\n### Academic Bibliography\n\nThe research includes extensive bibliographic sources, with works such as:\n- Studies on Polish-Russian literary relations in the 19th century\n- Analysis of Polish motifs in Russian writers' works\n- Examination of the reception of Russian literature in Poland\n- Documentation of mutual cultural influences and stereotypes\n\nThe 19th century is often called the \"golden age\" of Russian literature, during which major authors including Tolstoy, Dostoyevsky, and Pushkin created their works, making this period particularly significant for studying cross-cultural literary influences between Poland and Russia."
+    ],
+    "durationSeconds": 23.156624663999303
+  }
+}

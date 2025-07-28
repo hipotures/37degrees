@@ -1,0 +1,62 @@
+{
+  "session_id": "7a96e064-9293-467f-8eb2-013e49aed0d1",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7a96e064-9293-467f-8eb2-013e49aed0d1.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Anna Karenina adaptations 40 films worldwide most adapted novel"
+  },
+  "tool_response": {
+    "query": "Anna Karenina adaptations 40 films worldwide most adapted novel",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_014PgWVce8baGjUr4HA2baR7",
+        "content": [
+          {
+            "title": "Adaptations of Anna Karenina - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Adaptations_of_Anna_Karenina"
+          },
+          {
+            "title": "These are the only Anna Karenina adaptations you actually need to know about. \u2039 Literary Hub",
+            "url": "https://lithub.com/these-are-the-only-anna-karenina-adaptations-you-actually-need-to-know-about/"
+          },
+          {
+            "title": "Discovering Russian Literature - FILM, TV, THEATRE: Anna Karenina Movie Versions - Which is the BEST? Showing 1-39 of 39",
+            "url": "https://www.goodreads.com/topic/show/556705-anna-karenina-movie-versions---which-is-the-best"
+          },
+          {
+            "title": "Most Adapted Novel to Films",
+            "url": "https://www.imdb.com/list/ls081501512/"
+          },
+          {
+            "title": "Film adaptations of Anna Karenina",
+            "url": "https://en.granma.cu/cultura/2017-11-13/film-adaptations-of-anna-karenina"
+          },
+          {
+            "title": "Anna Karenina film adaptations worldwide - Beauty will save",
+            "url": "https://viola.bz/anna-karenina-film-adaptations/"
+          },
+          {
+            "title": "Anna Karenina: The Movie. If the Book Is So Great, Why Do We Need Adaptations? | The Common",
+            "url": "https://www.thecommononline.org/anna-karenina-the-movie-if-the-book-is-so-great-why-do-we-need-adaptations/"
+          },
+          {
+            "title": "Anna Karenina at the movies, Garbo & Rathbone (1935) to Leigh & Richardson (1948); a Virginia Woolf column \u2013 Ellen And Jim Have A Blog, Two",
+            "url": "https://ellenandjim.wordpress.com/2018/01/23/anna-kareninaatthemoviesgarborathbonetoleighrichardson/"
+          },
+          {
+            "title": "Anna Karenina (2012 film) - Wikipedia",
+            "url": "https://en.m.wikipedia.org/wiki/Anna_Karenina_(2012_film)"
+          },
+          {
+            "title": "Candid about the Camera: Tolstoy Scholars on Adapting Anna Karenina - Blog - Jordan Russia Center",
+            "url": "https://jordanrussiacenter.org/blog/candid-camera-tolstoy-scholars-adapting-anna-karenina"
+          }
+        ]
+      },
+      "Based on the search results, I found comprehensive information about Anna Karenina adaptations and their status as one of the most adapted novels. Here's what the search revealed:\n\nAnna Karenina has approximately 40 film adaptations worldwide, making it the most filmed work of Leo Tolstoy's 1873 masterpiece, and not only in Russia, but also worldwide.\n\nThe novel has been extensively adapted across multiple media formats. According to the search results, there have been fifteen movies, six television series, four ballets, four operas, two musicals, one lonely play, and even a steampunk mash-up novel based on the 800-page opus. Another source mentions twenty-seven movie and TV versions of Anna K, going back to 1907. The 700-page book has also been made into at least four ballets and ten operas.\n\nAmong the most notable film adaptations are:\n- The first screen adaptation in 1911 by French director Maurice Andr\u00e9 Maitre, in the silent film era\n- The 1935 Hollywood version directed by Clarence Brown starring Greta Garbo, which is considered the most famous and critically-acclaimed of all the Anna Karenina adaptations\n- The 1948 film starring Vivien Leigh, Ralph Richardson and directed by Julien Duvivier\n- The 1967 Soviet version directed by Aleksandr Zarkhi, which is considered by some critics to be the best adaptation\n- The 2012 adaptation directed by Joe Wright starring Keira Knightley\n\nThe novel's enduring appeal to filmmakers stems from an image born in the mind of a writer that has become an obsession, inspiration and muse for many film directors. The complex fate of Anna has been portrayed by many divas of European and Hollywood cinema, such as Greta Garbo, Vivien Leigh, Marlene Dietrich, Ingrid Bergman, Sophie Marceau, and Keira Knightley.\n\nWhile the search results don't definitively claim Anna Karenina as the single most adapted novel of all time, they do indicate it ranks among the most frequently adapted literary works, with its 40+ film adaptations placing it in competition with other highly adapted novels like those by Charles Dickens."
+    ],
+    "durationSeconds": 21.059696031000467
+  }
+}

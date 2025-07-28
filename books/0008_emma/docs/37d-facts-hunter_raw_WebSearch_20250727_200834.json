@@ -1,0 +1,62 @@
+{
+  "session_id": "43e12ea9-84a2-4345-8d62-d857a85435cd",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/43e12ea9-84a2-4345-8d62-d857a85435cd.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Emma Jane Austen cultural influence romantic comedy genre literary canon impact"
+  },
+  "tool_response": {
+    "query": "Emma Jane Austen cultural influence romantic comedy genre literary canon impact",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01U3p2NHSmsw3rSmaaWoLYHP",
+        "content": [
+          {
+            "title": "Emma | Jane Austen, Summary, Characters, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/Emma-novel-by-Austen"
+          },
+          {
+            "title": "Stanford literary scholars reflect on Jane Austen\u2019s legacy | Stanford Report",
+            "url": "https://news.stanford.edu/stories/2017/07/stanford-literary-scholars-reflect-jane-austens-legacy"
+          },
+          {
+            "title": "Emma (novel) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Emma_(novel)"
+          },
+          {
+            "title": "Emma: Jane Austen and Emma Background | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/emma/context/"
+          },
+          {
+            "title": "Emma by Jane Austen: An In-Depth Literary Analysis \u2013 Literature Deep Dive",
+            "url": "https://litdeepdive.wordpress.com/2025/03/06/emma-by-jane-austen-an-in-depth-literary-analysis/"
+          },
+          {
+            "title": "Jane Austen Books: 6 Themes in Jane Austen\u2019s Writing - 2025 - MasterClass",
+            "url": "https://www.masterclass.com/articles/jane-austen-book-guide"
+          },
+          {
+            "title": "Emma: Jane Austen, Summary and Themes | Vaia",
+            "url": "https://www.vaia.com/en-us/explanations/english-literature/novelists/emma/"
+          },
+          {
+            "title": "Every Emma Movie Adaptation Ranked From Worst To Best (Including Clueless)",
+            "url": "https://screenrant.com/emma-movies-adaptations-ranked-worst-best/"
+          },
+          {
+            "title": "Overthinking: Adaptations of Jane Austen\u2019s Emma",
+            "url": "https://charlotteforstall.com/2024/03/15/overthinking-adaptations-of-jane-austens-emma/"
+          },
+          {
+            "title": "Jane Austen | Databases Explored | Gale",
+            "url": "https://www.gale.com/intl/databases-explored/literature/jane-austen"
+          }
+        ]
+      },
+      "I found comprehensive information about Emma's cultural influence and impact on the romantic comedy genre and literary canon. Here's what the search revealed:\n\n## Emma's Cultural Influence on the Romantic Comedy Genre\n\nAusten's influence can be found in the modern \"romantic comedy\" genre in film and books: whenever a rom-com features a well-meaning schemer whose plans go awry until true love surprises them, one can hear a distant echo of Emma.(no content)The novel's plot archetype\u2014a meddler in others' romances who must realize her own heart\u2014has become a beloved trope in storytelling. We see echoes of Emma Woodhouse in later characters who learn that playing Cupid can lead to chaos (for example, in some of Oscar Wilde's plays, or George Bernard Shaw's Pygmalion).(no content)Most of Jane's writing is a blend of romance and comedy, with many of her stories\u2014like Mansfield Park and Emma\u2014ending in engagements or an assumption that the romantic leads get married and live happily ever after.(no content)Amy Heckerling's 1995 cult-classic Clueless is a brilliant contemporary adaptation of Emma that reignites the novel's cultural relevance by giving the story and heroine a 20th-century makeover \u2014 exposing a new generation to Austen's literary work. Although more than 25-years-old, Clueless remains the best, most creative version of Austen's Emma.\n\n## Impact on Literary Canon\n\nMany of Jane Austen's works are part of the Western literary canon. Her novels are often included in school syllabi from middle school into college because of their importance to literary history.(no content)She is canonical in a way that she probably would not have anticipated. Many scholars see Emma, where Austen's unique narration style reaches full force, as her greatest novel.(no content)Some consider Emma Austen's best and most representative novel. It is also her longest novel, and by many accounts, her most difficult.(no content)Emma is a canonical novel that combines early literary realism with elements of satire, comedy, and romance.\n\n## Literary Innovation and Influence\n\nLiterary scholars point to Austen's subtle, innovative use of free indirect discourse as a style of third-person narrative. This style, in which a character's perspective and thoughts intertwine with the narrator of the story, is now widespread in modern fiction, but was just taking shape in the late 18th and early 19th century.(no content)Emma's keen satiric eye on social interaction inspired later authors who wrote about provincial or domestic society with humor and gravity\u2014from Anthony Trollope in the 19th century to contemporary authors of Regency-set historical fiction. The novel's influence extends as well to literary criticism and education: Emma is a staple of English literature curricula around the world.\n\n## Cultural Legacy and Adaptations\n\nIt is perhaps in the arena of adaptation that Emma's cultural legacy is most visibly alive today. The character of Emma herself has become an archetype of the flawed but lovable heroine who must learn and grow\u2014we see her DNA in protagonists of many a romantic comedy or drama.(no content)Although Austen published only six novels during her literary career, all of them have received reverent adaptations, and Emma remains one of her most beloved and adapted works. The novel has been adapted multiple times, including the 1995 film Clueless, the 1996 film with Gwyneth Paltrow, and the 2020 adaptation starring Anya Taylor-Joy."
+    ],
+    "durationSeconds": 35.39283108800091
+  }
+}

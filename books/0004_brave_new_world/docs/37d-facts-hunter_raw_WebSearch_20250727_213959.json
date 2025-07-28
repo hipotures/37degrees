@@ -1,0 +1,62 @@
+{
+  "session_id": "7bfa3f26-bffe-44f4-87bb-f54ec853c72a",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7bfa3f26-bffe-44f4-87bb-f54ec853c72a.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "polscy pisarze krytycy \"Nowy wspania\u0142y \u015bwiat\" Huxley opinie analizy recenzje"
+  },
+  "tool_response": {
+    "query": "polscy pisarze krytycy \"Nowy wspania\u0142y \u015bwiat\" Huxley opinie analizy recenzje",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_019pHh8YUkeGMkkTwLqrPTjs",
+        "content": [
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Aldous Huxley | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5043467/nowy-wspanialy-swiat"
+          },
+          {
+            "title": "recenzje - Nowy wspania\u0142y \u015bwiat {Huxley Aldous} \u00bb BiblioNETka",
+            "url": "https://www.biblionetka.pl/reviewsDisplay.aspx?type=Review&id=1754"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - om\u00f3wienie",
+            "url": "https://3telnia.pl/nowy-wspanialy-swiat-omowienie/"
+          },
+          {
+            "title": "Recenzja ksi\u0105\u017cki Nowy wspania\u0142y \u015bwiat \u2022 Huxley Aldous \u2022 opinie, oceny \u00bb BiblioNETka.pl",
+            "url": "https://www.biblionetka.pl/art.aspx?id=656068"
+          },
+          {
+            "title": "Recenzja ksi\u0105\u017cki - Nowy wspania\u0142y \u015bwiat 30 lat p\u00f3\u017aniej. Raport rozbie\u017cno\u015bci, Aldous Huxley , Muza 2018",
+            "url": "https://opetaniczytaniem.pl/recenzje/nowy-wspanialy-swiat-30-lat-pozniej-aldous-huxley-muza-2018.html"
+          },
+          {
+            "title": "Aldous Huxley: Nowy wspania\u0142y \u015bwiat. 30 lat p\u00f3\u017aniej. Raport rozbie\u017cno\u015bci \u2013 Instytut Spraw Obywatelskich",
+            "url": "https://instytutsprawobywatelskich.pl/aldous-huxley-nowy-wspanialy-swiat-30-lat-pozniej-raport-rozbieznosci/"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat Aldous Huxley ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/nowy-wspanialy-swiat-aldous-huxley"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Huxley Aldous",
+            "url": "https://www.empik.com/nowy-wspanialy-swiat-huxley-aldous,p1293067189,ksiazka-p"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Recenzja ksi\u0105\u017cki Nowy wspania\u0142y \u015bwiat - nakanapie.pl",
+            "url": "https://nakanapie.pl/recenzje/nowy-wspanialy-swiat-nowy-wspanialy-swiat"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Nowy_wspania\u0142y_\u015bwiat"
+          }
+        ]
+      },
+      "Oto wyniki wyszukiwania na temat polskich pisarzy, krytyk\u00f3w i analiz \"Nowego wspania\u0142ego \u015bwiata\" Aldousa Huxleya:\n\n## Polskie opinie i analizy dzie\u0142a Huxleya\n\nWed\u0142ug wsp\u00f3\u0142czesnych polskich krytyk\u00f3w, \"cho\u0107 powie\u015b\u0107 ma status kultowej, z perspektywy XXI wieku jest to dzie\u0142o w wielu miejscach naiwne, przesi\u0105kni\u0119te elitaryzmem i oparte na bardzo w\u0105tpliwych fundamentach. Huxley nie tyle krytykuje totalitaryzm, co lamentuje nad upadkiem 'wysokiej kultury'. Jego przera\u017cenie budzi \u015bwiat, w kt\u00f3rym ludzie wol\u0105 proste, sensoryczne rozrywki od Szekspira.\"(no content)Polska krytyka wskazuje r\u00f3wnie\u017c, \u017ce \"mo\u017cna odnie\u015b\u0107 wra\u017cenie, \u017ce problemem dla Huxleya nie jest sam system kontroli, ale fakt, \u017ce kontroluje si\u0119 ludzi w spos\u00f3b wulgarny i pozbawiony gustu. To dzie\u0142o napisane przez intelektualist\u0119, kt\u00f3ry boi si\u0119, \u017ce \u015bwiatem zaw\u0142adn\u0105 prostacy. Przedstawiona opowie\u015b\u0107 to nie tyle g\u0142\u0119boka analiza filozoficzna, co reakcyjny lament za 'starymi, dobrymi czasami', kt\u00f3rych nigdy nie by\u0142o.\"\n\n## Recepcja w Polsce\n\nPowie\u015b\u0107 \"z 1932 roku wywo\u0142a\u0142a wiele kontrowersji. Czytelnicy i krytycy mieli r\u00f3\u017cne opinie. Krytyka chwali\u0142a Huxleya za zrozumienie sytuacji spo\u0142ecznej i przewidywanie skutk\u00f3w post\u0119pu technologicznego. Powie\u015b\u0107 zyska\u0142a popularno\u015b\u0107 dzi\u0119ki ciekawej fabule i alarmuj\u0105cym wizjom przysz\u0142o\u015bci.\"(no content)W analizie polskiej recepcji wskazuje si\u0119, \u017ce dzie\u0142o \"napisany wcze\u015bniej ni\u017c Rok 1984 oraz Folwark zwierz\u0119cy George'a Orwella, zosta\u0142 chyba jednak przez nie przy\u0107miony, przynajmniej w Polsce. By\u0107 mo\u017ce to zas\u0142uga naszego poprzedniego ustroju, w kt\u00f3rym rzeczywisto\u015b\u0107 bardziej przypomina\u0142a opresyjne realia \u017cycia Winstona Smitha ni\u017c 'szcz\u0119\u015bliwe niewolnictwo' w \u015bwiecie Dzikusa.\"\n\n## Polskie kontrowersje autorskie\n\nIstnieje r\u00f3wnie\u017c polska kontrowersja zwi\u0105zana z dzie\u0142em: \"Nowy wspania\u0142y \u015bwiat wykazuje pewne podobie\u0144stwa do dw\u00f3ch polskich powie\u015bci - Miasto \u015bwiat\u0142o\u015bci (1924) i Podr\u00f3\u017c po\u015blubna pana Hamiltona (1928), kt\u00f3re napisa\u0142 Mieczys\u0142aw Smolarski. Polak zarzuca\u0142 Huxleyowi plagiat, jednak ten nigdy mu nie odpowiedzia\u0142.\"\n\n## Wsp\u00f3\u0142czesne polskie analizy\n\nPolscy analitycy podkre\u015blaj\u0105, \u017ce \"Huxley baduje, jak technologia i konsumpcjonizm mog\u0105 zniszczy\u0107 emocje i duchowo\u015b\u0107. W tej antyutopii, ludzie s\u0105 poddawani warunkowaniu psychologicznemu, kt\u00f3re ma na celu zniwelowanie buntu. Motywy jak d\u0105\u017cenie do wolno\u015bci czy poszukiwanie prawdziwej to\u017csamo\u015bci w zmechanizowanym \u015bwiecie pokazuj\u0105 frustracj\u0119 Huxleya wobec wsp\u00f3\u0142czesno\u015bci.\"(no content)Wsp\u00f3\u0142czesne polskie recenzje wskazuj\u0105 na aktualno\u015b\u0107 dzie\u0142a: \"Czy nasz \u015bwiat nie zbli\u017ca niebezpiecznie szybko w tamtym kierunku? Ksi\u0105\u017cka zosta\u0142a wydana w XX wieku, jednak\u017ce zupe\u0142nie trafnie opisuje tendencje rozwoju technologii i spo\u0142ecze\u0144stwa. Mog\u0142oby si\u0119 wydawa\u0107 i\u017c nas samych czeka w przysz\u0142o\u015bci wizja \u015bwiata bez b\u00f3lu, staro\u015bci, cierpienia czy smutku.\""
+    ],
+    "durationSeconds": 31.541854544000234
+  }
+}

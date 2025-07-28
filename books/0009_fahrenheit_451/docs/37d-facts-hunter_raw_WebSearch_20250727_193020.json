@@ -1,0 +1,62 @@
+{
+  "session_id": "50a1a9ee-e5bd-4af5-b1be-889513e755a8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/50a1a9ee-e5bd-4af5-b1be-889513e755a8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "1950s book banning censorship United States real events libraries schools Communism investigation"
+  },
+  "tool_response": {
+    "query": "1950s book banning censorship United States real events libraries schools Communism investigation",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01XpzP1mTecRXdfxKNDkC2PM",
+        "content": [
+          {
+            "title": "Book censorship in the United States - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Book_censorship_in_the_United_States"
+          },
+          {
+            "title": "The history of book bans in the United States | National Geographic",
+            "url": "https://www.nationalgeographic.com/culture/article/history-of-book-bans-in-the-united-states"
+          },
+          {
+            "title": "Manuscripts Don\u2019t Burn: a Timeline of Literary Censorship, Destruction, and Liberation - PEN America",
+            "url": "https://pen.org/censorship-history-book-bans/"
+          },
+          {
+            "title": "A History of Censorship in the United States | Steele | Journal of Intellectual Freedom & Privacy",
+            "url": "https://journals.ala.org/index.php/jifp/article/view/7208/10293"
+          },
+          {
+            "title": "McCarthyism and Libraries: Intellectual Freedom Under ...",
+            "url": "https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=2218&context=bb_pubs"
+          },
+          {
+            "title": "A Brief History of Curriculum Censorship | Facing History & Ourselves",
+            "url": "https://www.facinghistory.org/ideas-week/brief-history-curriculum-censorship"
+          },
+          {
+            "title": "What You Need to Know About the Book Bans Sweeping the U.S.",
+            "url": "https://www.tc.columbia.edu/articles/2023/september/what-you-need-to-know-about-the-book-bans-sweeping-the-us/"
+          },
+          {
+            "title": "Nazi Book Burnings: Recurring Symbol | Holocaust Encyclopedia",
+            "url": "https://encyclopedia.ushmm.org/content/en/article/nazi-book-burnings-recurring-symbol"
+          },
+          {
+            "title": "List of books banned by governments - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/List_of_books_banned_by_governments"
+          },
+          {
+            "title": "Books Behind Bars | American Experience | Official Site | PBS",
+            "url": "https://www.pbs.org/wgbh/americanexperience/features/books-behind-bars/"
+          }
+        ]
+      },
+      "Your search has returned extensive information about book banning and censorship in the United States during the 1950s, particularly focusing on Communist-related investigations and their impact on libraries and schools. Here's what the search revealed:\n\n## 1950s McCarthyism and Book Censorship\n\nPublic libraries in the 1950s faced pressure to censor materials believed to be spreading Communist ideas and beliefs. Wisconsin senator Joseph McCarthy capitalized on America's Cold War fears about the Soviet Union and the Communist movement. He accused multiple civic agencies and institutions, including libraries, of spreading Communist ideas.\n\n## Impact on Libraries and Librarians\n\nMany librarians at this time proceeded to withdraw controversial materials from their libraries whether it was because they believed in McCarthy's message, or they simply wanted to save their jobs. However, some librarians did resist McCarthy and his message.\n\nA notable example of resistance occurred when the Boston Herald attacked the Boston Public Library for stocking books it claimed promoted Communism, a local Catholic newspaper in Boston as well as numerous citizens joined the librarians in a successful protest.\n\n## Specific Books Targeted\n\nThe Communist Manifesto by Karl Marx and Friedrich Engels was frequently challenged and widely restricted in libraries because of its communist ideas, especially during the Red Scare in the 1950s.\n\nThey responded to a rash of challenges against books McCarthy-era censors felt encouraged Communism or socialism during the 1950s and fought attempted bans on books like Huckleberry Finn, The Catcher in the Rye, To Kill a Mockingbird and even The Canterbury Tales.\n\n## Historical Context and Comparison\n\nAnother significant moment in the history of curriculum censorship in the US occurred following World War II. In the late 1940s and 1950s, a coalition of activists around the country grew concerned that young people might be exposed to communist ideas or foreign influences in schools.\n\nAs we face the worst spate of book bans since the Red Scare of the 1950s, PEN America has compiled a timeline of the most notorious acts of censorship, showing how this period serves as a historical parallel to current censorship efforts.\n\nFor example, in the 1950s\u2014during a period of widespread book banning in US schools and public libraries\u2014the New York Times editorialized that the suppression of books was a \"species of book burning,\" conflicting with basic American ideas of free thought.\n\nThe search results provide substantial documentation of how the 1950s Red Scare and McCarthyism led to systematic attempts to censor books and materials in libraries and schools across the United States, with particular focus on works perceived as promoting Communist or socialist ideas."
+    ],
+    "durationSeconds": 22.613605833999813
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "session_id": "eefb55a0-c8d5-41bc-8dcc-6acbd6e5a3ba",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/eefb55a0-c8d5-41bc-8dcc-6acbd6e5a3ba.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "polska m\u0142odzie\u017c social media lifestyle flex influencerzy TikTok Instagram bogactwo aspiracje"
+  },
+  "tool_response": {
+    "query": "polska m\u0142odzie\u017c social media lifestyle flex influencerzy TikTok Instagram bogactwo aspiracje",
+    "results": [
+      "I'll perform a web search for that query about Polish youth, social media lifestyle, influencers, and wealth aspirations.",
+      {
+        "tool_use_id": "srvtoolu_01VYYyDgAcJ9cTZeGVqaL55M",
+        "content": [
+          {
+            "title": "Najwi\u0119kszy ranking Polskich Influencer\u00f3w by DDOB - Instagram, TikTok, Youtube",
+            "url": "https://ddob.com/ranking"
+          },
+          {
+            "title": "Nastoletni influencerzy i ich psychologiczny wp\u0142yw na dzieci",
+            "url": "https://pieknoumyslu.com/nastoletni-influencerzy-i-ich-psychologiczny-wplyw-na-dzieci/"
+          },
+          {
+            "title": "Influencer idolem dzieci i m\u0142odzie\u017cy. Nie chc\u0105 ju\u017c by\u0107 stra\u017cakami | interaktywnie.com",
+            "url": "https://interaktywnie.com/influencer-idolem-dzieci-i-mlodziezy-nie-chca-juz-byc-strazakami/"
+          },
+          {
+            "title": "Nastolatki chc\u0105 by\u0107 youtuberkami, instagramerkami i tiktokerkami",
+            "url": "https://www.wirtualnemedia.pl/artykul/nastolatki-marza-o-karierze-internetowych-influecenrek"
+          },
+          {
+            "title": "TikTok - Make Your Day",
+            "url": "https://www.tiktok.com/discover/beauty-influencer-polska"
+          },
+          {
+            "title": "Ranking influencer\u00f3w ogrodniczych \u2013 TikTok",
+            "url": "https://www.greendea.pl/ranking-influencerow-ogrodniczych-tiktok/"
+          },
+          {
+            "title": "Najwi\u0119ksi Polscy influencerzy. Poznaj 20 najpopularniejszych Polskich tw\u00f3rc\u00f3w. [2025] - Influently | Influencer Marketing | Agencja Influencer Marketingu",
+            "url": "https://influently.pl/najwieksi-polscy-influencerzy-poznaj-20-najpopularniejszych-polskich-tworcow-2025/"
+          },
+          {
+            "title": "Top 20 Influencers in Poland in 2025 - Favikon",
+            "url": "https://www.favikon.com/blog/top-influencers-poland"
+          },
+          {
+            "title": "Top 19 TikTok Influencers in Poland: Find Polish TikTokers",
+            "url": "https://www.modash.io/find-influencers/tiktok/poland"
+          },
+          {
+            "title": "Oto najpopularniejsi influencerzy w Polsce. Jest nowy ranking - Bankier.pl",
+            "url": "https://www.bankier.pl/wiadomosc/Oto-najpopularniejsi-influencerzy-w-Polsce-Jest-nowy-ranking-8905395.html"
+          }
+        ]
+      },
+      "Based on the search results about Polish youth, social media lifestyle, and influencers, here are the key findings:\n\n## Career Aspirations and Influencer Culture Among Polish Youth\n\nAccording to a 2021 IQS study on \"Aspirations of Girls in Poland,\" 48% of girls aged 10-15 consider running a channel on YouTube, Instagram, or TikTok as an attractive career option. Today's children want to be influencers because \"Gen Z wants to be famous, they want to be influential\".\n\n## Social Media Platform Preferences\n\nResearch shows that teenagers aged 13-17 primarily choose YouTube (95%), TikTok (67%), Instagram (62%), and Snapchat (59%). This generation \"no longer watches television, doesn't even visit news portals to learn about the world, because they get their worldview from YouTube, TikTok, Instagram or Telegram\".\n\n## Psychological Impact and Wealth Aspirations\n\nYoung influencers \"are attractive, rich and seem to have perfect lives. Moreover, these young influential people are true references for children and youth, to the point that they want to be like them\". Teenage influencers \"motivate their fan communities, give them ideas and promote a specific lifestyle\".\n\nInfluencers attract youth because \"they combine the features of popular actors, TV presenters, singers. They release music albums and books. They attract crowds to meetings, and the most expensive tickets cost thousands of zloty\".\n\n## Popular Polish Influencers\n\nThe most popular influencer in Poland is \u0141atwogang with 3.4 million followers, followed by Mili0nerka, Prawo Marcina, and Wersow on the podium. Julia Kostera is highlighted as \"a young influencer and TikTok star who gained popularity through short lifestyle and fashion videos\".\n\n## Concerns About Social Media Influence\n\nChildren and youth develop \"a kind of progressive social conformism. They hardly question anything they see daily and give full credibility to their guru\". There are concerns about social media addiction, with 33 US states accusing Meta of \"deliberately addicting children to social media\" using \"powerful and unprecedented technologies to tempt, engage, and ultimately ensnare youth and teenagers\".\n\nThe search reveals a significant shift in Polish youth aspirations toward social media careers, driven by the perceived glamorous lifestyle and wealth of influencers, particularly on platforms like TikTok and Instagram."
+    ],
+    "durationSeconds": 22.614607795000076
+  }
+}

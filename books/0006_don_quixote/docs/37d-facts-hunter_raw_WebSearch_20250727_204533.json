@@ -1,0 +1,62 @@
+{
+  "session_id": "8fbf2dc3-ee57-446f-bc57-5f2a49079daa",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/8fbf2dc3-ee57-446f-bc57-5f2a49079daa.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Don Kichot\" teatr polska adaptacje filmowe kultura edukacja szkolna lektury"
+  },
+  "tool_response": {
+    "query": "\"Don Kichot\" teatr polska adaptacje filmowe kultura edukacja szkolna lektury",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01KbCk46xXURFw3rt3pdeZZp",
+        "content": [
+          {
+            "title": "Don Kichot rzewne pie\u015bni kobiety popularne seriale i rycerze",
+            "url": "https://ludowy.pl/pl/spectacle/don-kichot"
+          },
+          {
+            "title": "Adaptacje filmowe, teatralne i telewizyjne lektur",
+            "url": "https://www.cku2.waw.pl/dokumenty/biblioteka/adaptacje_filmowe,_teatralne_i_telewizyjne_lektur.pdf"
+          },
+          {
+            "title": "Teatr Polska - Don Kichot",
+            "url": "https://teatrpolska.pl/spektakle/203-Don-Kichot/"
+          },
+          {
+            "title": "Don Kichot - Teatr Lalka",
+            "url": "https://teatrlalka.pl/pl/spektakle/don-kichot"
+          },
+          {
+            "title": "FilmPolski.pl - DON KICHOT",
+            "url": "https://filmpolski.pl/fp/index.php/521218"
+          },
+          {
+            "title": "Scholaris - Mi\u0119dzy snem a jaw\u0105. \u015awiat Don Kichota M. Cervantesa",
+            "url": "https://scholaris.pl/zasob/58097"
+          },
+          {
+            "title": "Lektury w teatrze \ud83d\udcd6 Zobacz 28 propozycji - kicket blog",
+            "url": "https://kicket.com/poradnik/lektury-w-teatrze/"
+          },
+          {
+            "title": "Oto 7 ekranizacji lektur szkolnych, kt\u00f3re warto zaplanowa\u0107 na lekcje j\u0119zyka polskiego | Strefa Edukacji",
+            "url": "https://strefaedukacji.pl/edukacja-filmowa-oto-7-ekranizacji-lektur-szkolnych-ktore-warto-zaplanowac-na-lekcje-jezyka-polskiego/ar/c5-17914647"
+          },
+          {
+            "title": "Don Kichot - Teatr \u015al\u0105ski im. St. Wyspia\u0144skiego w Katowicach",
+            "url": "https://teatrslaski.art.pl/en/repertuar/don-quixote/"
+          },
+          {
+            "title": "TEATR HoM (POLSKA) - DON KICHOT",
+            "url": "https://teatrlomza.pl/events/teatr-hom-polska-don-kichot/"
+          }
+        ]
+      },
+      "I've performed a web search for your query about \"Don Kichot\" in Polish theater, film adaptations, culture, and education. Here are the key findings:\n\n## Polish Theater Adaptations of Don Quixote\n\nThe search reveals several notable Polish theatrical productions of Don Quixote:\n\n### Contemporary Theater Productions\n\nA modern adaptation at Teatr Ludowy in Krakow presents an authoritative interpretation of Cervantes' text, written and directed by Micha\u0142 Siegoczy\u0144ski, incorporating elements from the film \"Dzie\u0144 \u015awira,\" Szajna's theater style, Nowa Huta housing estates, PRL-era parties, clerical hypocrisy, and contemporary social media.\n\nThe 2018 production titled \"Don Kichot 2018\" was prepared by two institutions: Teatr Pinokio in \u0141\u00f3d\u017a and Grupa Coincidentia, with plans for annual dating of future productions.\n\nTeatr Lalka presents an adaptation by Adam Walny that interprets Cervantes' novel as a story about the need for metaphysics, sanctity, and hope in the contemporary world, exploring the place of an alienated, tragicomic hero and questions about fulfilling wild dreams.\n\n### Educational Context\n\nIn educational settings, Don Quixote is used in Polish language classes where students work with biographical materials about Cervantes and interpret the work through various activities. Students also analyze contemporary songs like \"Mi\u0119dzy jaw\u0105 a snem\" by OlsenFu to understand how the phrase relates to Cervantes' character.\n\n### Theater and Literary Education\n\nTheater adaptations of literary works can remarkably capture the spirit of books, with some productions creating particularly atmospheric and engaging experiences for audiences. Film and theater adaptations serve as valuable supplements to reading, with educators recommending planning time to watch adaptations with students at least once per semester.\n\n### Puppet Theater Interpretations\n\nThe puppet theater version features roughly carved wooden figures that reveal the beauty of roadside saints, given a touch of madness and deformation by the artist, offering a unique artistic interpretation of the classic work.\n\nThe search results show that Don Quixote remains an active part of Polish cultural and educational life, with various theatrical interpretations that blend traditional elements with contemporary themes and educational applications."
+    ],
+    "durationSeconds": 20.55789213300124
+  }
+}

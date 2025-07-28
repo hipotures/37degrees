@@ -1,0 +1,63 @@
+{
+  "session_id": "50a1a9ee-e5bd-4af5-b1be-889513e755a8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/50a1a9ee-e5bd-4af5-b1be-889513e755a8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Fahrenheit 451 polskie t\u0142umaczenie historia pierwsze wydanie t\u0142umacz"
+  },
+  "tool_response": {
+    "query": "Fahrenheit 451 polskie t\u0142umaczenie historia pierwsze wydanie t\u0142umacz",
+    "results": [
+      "I'll search for information about the Polish translation history of Fahrenheit 451, including details about the first edition and translator.",
+      {
+        "tool_use_id": "srvtoolu_01UrnqiYK5u5Grp4mEyGHGpY",
+        "content": [
+          {
+            "title": "Wielog\u0142osem o...: \"451\u00b0 Fahrenheita\" - G\u0142os Kultury",
+            "url": "https://www.gloskultury.pl/wieloglosem-o-451-fahrenheita/"
+          },
+          {
+            "title": "BRADBURY- 451\u00b0 FAHRENHEITA . wyd. 1, 1960 | Antykwariat internetowy Sobieski",
+            "url": "https://antyksobieski.pl/bradbury-451-fahrenheita-wyd-1-1960-18415.html"
+          },
+          {
+            "title": "451\u00b0 Fahrenheita (2018) - Filmweb",
+            "url": "https://www.filmweb.pl/film/451%C2%B0+Fahrenheita-2018-112697"
+          },
+          {
+            "title": "451 stopni Fahrenheita | Ray Bradbury (Ksi\u0105\u017cka) - Ksi\u0119garnia matras.pl",
+            "url": "https://www.matras.pl/p/451-stopni-fahrenheita-ray-bradbury-241221"
+          },
+          {
+            "title": "Bradbury-Ray-451-Fahrenheita.pdf - Magda Lipiec",
+            "url": "http://magdalipiec.pl/wp-content/uploads/2012/12/Bradbury-Ray-451-Fahrenheita.pdf"
+          },
+          {
+            "title": "451 Fahrenheita - Ksi\u0105\u017cki - POLTERGEIST",
+            "url": "https://polter.pl/ksiazki/451-Fahrenheita-n14664"
+          },
+          {
+            "title": "Fahrenheit 451",
+            "url": "https://www.empik.com/fahrenheit-451-bradbury-ray,prod3960410,ksiazka-p"
+          },
+          {
+            "title": "451\u00b0 Fahrenheita - Ray Bradbury | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/4724047/451-fahrenheita"
+          },
+          {
+            "title": "451 stopni Fahrenheita \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/451_stopni_Fahrenheita"
+          },
+          {
+            "title": "Fahrenheit 451 - Translation into Polish - examples English | Reverso Context",
+            "url": "https://context.reverso.net/translation/english-polish/Fahrenheit+451"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about the Polish translation history of Fahrenheit 451:\n\n## First Polish Edition and Translator\n\nThe first Polish edition of Fahrenheit 451 was published in 1960 by \"Czytelnik\" publishing house in Warsaw, translated by Adam Kaska. This was indeed the first Polish edition of the book, appearing just seven years after the original 1953 English publication.\n\n## Translation History\n\nThe novel has had multiple Polish translations over the years:\n\n1. **First translation (1960)**: Adam Kaska's classic translation from the 1960 edition\n\n2. **Second translation**: Iwona Micha\u0142owska's translation, published by Solaris in Stawiguda on May 21, 2008\n\n3. **Third translation (2018)**: Wojciech Szypu\u0142a's translation, prepared specifically for a new edition published by Wydawnictwo MAG in Warsaw in 2018\n\n## Publishing Details\n\nAccording to one source, there have been six editions of Fahrenheit 451 published in Poland, though this likely includes reprints and different publishers rather than entirely new translations.\n\nThe original Polish title has been consistently rendered as \"451 stopni Fahrenheita\" across editions.\n\n## Recent Editions\n\nThe most recent notable edition was published by Wydawnictwo Mag as part of their \"Artefakty\" series, featuring a hardcover binding with atmospheric cover art by Dark Crayon and Szypu\u0142a's new translation.\n\nThe book remains popular in Poland, with the dystopian novel from 1953 continuing to resonate with readers due to its themes about a world where reading books and critical thinking are forbidden."
+    ],
+    "durationSeconds": 20.15508429500088
+  }
+}

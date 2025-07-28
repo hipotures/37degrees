@@ -1,0 +1,62 @@
+{
+  "session_id": "eefb55a0-c8d5-41bc-8dcc-6acbd6e5a3ba",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/eefb55a0-c8d5-41bc-8dcc-6acbd6e5a3ba.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Great Gatsby 2013 Leonardo DiCaprio box office worldwide gross earnings"
+  },
+  "tool_response": {
+    "query": "Great Gatsby 2013 Leonardo DiCaprio box office worldwide gross earnings",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_013jwLNDpDB2sE7bjY5M6sE2",
+        "content": [
+          {
+            "title": "The Great Gatsby (2013 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Great_Gatsby_(2013_film)"
+          },
+          {
+            "title": "The Great Gatsby box office for US - Accessreel.com",
+            "url": "https://accessreel.com/article/the-great-gatsby-box-office-for-us/"
+          },
+          {
+            "title": "The Great Gatsby (2013) - Financial Information",
+            "url": "https://www.the-numbers.com/movie/Great-Gatsby-The-(2011)"
+          },
+          {
+            "title": "Box Office Report: 'Great Gatsby' Dazzles With $51.1 Million Opening",
+            "url": "https://www.hollywoodreporter.com/movies/movie-news/box-office-report-great-gatsby-521399/"
+          },
+          {
+            "title": "The Highest-Grossing Leonardo DiCaprio Movies (And His Gigantic Paychecks), Ranked",
+            "url": "https://www.therichest.com/leonardo-dicaprio-movies-salary/"
+          },
+          {
+            "title": "The Great Gatsby (2013) | GreatestMovies Wiki | Fandom",
+            "url": "https://greatestmovies.fandom.com/wiki/The_Great_Gatsby_(2013)"
+          },
+          {
+            "title": "The Great Gatsby (2013 film) | Warner Bros. Entertainment Wiki | Fandom",
+            "url": "https://warnerbros.fandom.com/wiki/The_Great_Gatsby_(2013_film)"
+          },
+          {
+            "title": "Box Office Gold: Leonardo DiCaprio's Top Ten Highest Grossing Films",
+            "url": "https://boomhowdy.com/filmtv/leonardo-dicaprios-top-ten-highest-grossing-films/"
+          },
+          {
+            "title": "Box Office Report: 'Great Gatsby' Scores Strong $3.3 ...",
+            "url": "https://www.hollywoodreporter.com/movies/movie-news/box-office-report-great-gatsby-520700/"
+          },
+          {
+            "title": "Leonardo DiCaprio's 10 Highest-Grossing Movies, Ranked According To Box Office Mojo",
+            "url": "https://screenrant.com/leonardo-dicaprio-highest-grossing-movies-ranked-box-office-mojo/"
+          }
+        ]
+      },
+      "Based on the search results, I found comprehensive information about The Great Gatsby (2013) starring Leonardo DiCaprio and its worldwide box office performance. Here are the key findings:\n\n## Box Office Performance\n\nThe Great Gatsby grossed $144.8 million in North America, and $208.8 million in other countries, for a worldwide total of $353.6 million.\n\n### Opening Weekend Performance\nIt went on to finish in second place, behind Iron Man 3, during its opening weekend, with US$51.1 million.(no content)This was the sixth-largest opening weekend for a film that did not debut in first place, the second largest opening weekend for a film starring Leonardo DiCaprio behind Inception, and Luhrmann's highest-grossing movie.\n\n### Additional Box Office Details\n- In North America, The Great Gatsby earned US$19.4 million on its opening Friday, including US$3.25 million from Thursday night and midnight shows.\n- Calculating in all expenses, Deadline Hollywood estimate that the film made a profit of $58.6 million.\n- Filming took place from September to December 2011 in Australia, with a $105 million net production budget.\n\n### Leonardo DiCaprio's Compensation\nFor this iconic adaptation of F. Scott Fitzgerald's The Great Gatsby, as the titular and tragic main character Jay Gatsby, Leonardo DiCaprio received $20 million.\n\n### Historical Context\nAs of 2023, it is Luhrmann's highest-grossing film, grossing over $353 million worldwide. The film was directed by Baz Luhrmann and also starred Tobey Maguire, Carey Mulligan, Joel Edgerton, and other notable actors."
+    ],
+    "durationSeconds": 20.707997938999906
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "session_id": "abba3f5a-b5aa-49e3-9bda-f1f6b93e098c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/abba3f5a-b5aa-49e3-9bda-f1f6b93e098c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Polish teenagers Animal Farm George Orwell modern interpretation TikTok memes 2024 2025"
+  },
+  "tool_response": {
+    "query": "Polish teenagers Animal Farm George Orwell modern interpretation TikTok memes 2024 2025",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01VtCgtRuhNWJcPKXrFeTgs6",
+        "content": [
+          {
+            "title": "Analysis of George Orwell\u2019s Animal Farm",
+            "url": "https://literariness.org/2025/05/22/analysis-of-george-orwells-animal-farm/"
+          },
+          {
+            "title": "Andy Serkis\u2019 Animal Farm is coming next year, and I couldn\u2019t be excited. Animal Farm has somehow only been adapted once in film, all the way back in 1954. That film completely changed the point of the story, and was funded by the CIA. My hope is that Serkis can capture George Orwell\u2019s intended message, and deliver the story as it should be told. #animalfarm #georgeorwell #1984 #booktok #movies #movietok #film #filmtok #books  | TikTok",
+            "url": "https://www.tiktok.com/@reel.takes/video/7430479498925165867"
+          },
+          {
+            "title": "Memebase - george orwell - All Your Memes In Our Base - Funny Memes - Cheezburger",
+            "url": "https://memebase.cheezburger.com/tag/george-orwell"
+          },
+          {
+            "title": "Some Interpretations are More Equal Than Others: Misinterpreting George Orwell\u2019s Animal Farm \u2013 PIT Journal",
+            "url": "https://pitjournal.unc.edu/2023/01/05/some-interpretations-are-more-equal-than-others-misinterpreting-george-orwells-animal-farm/"
+          },
+          {
+            "title": "2025 or 1984",
+            "url": "https://teepee12.com/2024/09/15/2025-or-1984/"
+          },
+          {
+            "title": "The best George Orwell quotes from 1984, Animal Farm and more - Pan Macmillan",
+            "url": "https://www.panmacmillan.com/blogs/literary/george-orwell-quotes-1984-animal-farm"
+          },
+          {
+            "title": "Animal Farm (2025 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Animal_Farm_(2025_film)"
+          },
+          {
+            "title": "TikTok - Make Your Day",
+            "url": "https://www.tiktok.com/discover/how-to-read-mr-a\u2019s-farm"
+          },
+          {
+            "title": "Teaser of Andy Serkis' Animal Farm goes light on Orwell, heavy on Seth Rogen",
+            "url": "https://www.avclub.com/animal-farm-first-look-andy-serkis-seth-rogen"
+          },
+          {
+            "title": "Animal Farm - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Animal_Farm"
+          }
+        ]
+      },
+      "Based on the search results, I found some relevant information about George Orwell's Animal Farm and its modern interpretations, though the results don't specifically mention Polish teenagers creating TikTok memes. Here's what I found:\n\n## Modern Interpretations of Animal Farm in 2024-2025\n\nThe novel has grown far past its original context to take on new meanings and interpretations. Beginning in the classroom, many students are given flawed information about the novel and the author's intention.\n\n## TikTok and Social Media Presence\n\nThere is evidence of Animal Farm content on TikTok, including discussion about Andy Serkis' upcoming Animal Farm adaptation and references to the work in the context of #booktok hashtags. However, the search didn't return specific examples of Polish teenagers creating Animal Farm memes on TikTok.\n\n## New 2025 Film Adaptation\n\nAnimal Farm is a 2025 animated adventure comedy film produced and directed by Andy Serkis. It is the third adaptation of the George Orwell novella, following the 1954 animated film and the 1999 live action film. Loosely following the plot of the novella, it reflects contemporary political issues of the 21st century and introduces new characters such as a piglet named Lucky, who serves as the audience surrogate.(no content)Animal Farm had its world premiere on 9 June 2025, at the Annecy International Animation Film Festival.\n\n## Contemporary Political Relevance\n\nSome readers see parallels in what is happening today, with references to how dystopian literature warned about totalitarian governments that could potentially take power in various contexts.\n\nWhile the search results show that Animal Farm continues to be relevant and adapted for modern audiences, including through social media platforms like TikTok, I didn't find specific information about Polish teenagers creating Animal Farm memes on TikTok in 2024-2025. The content suggests the work remains culturally significant and continues to inspire new interpretations, particularly with the recent 2025 film adaptation generating discussion online."
+    ],
+    "durationSeconds": 18.219403842
+  }
+}

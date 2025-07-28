@@ -1,0 +1,19 @@
+{
+  "session_id": "5612910e-03e4-4632-8ce4-176f2a25d163",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/5612910e-03e4-4632-8ce4-176f2a25d163.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebFetch",
+  "tool_input": {
+    "url": "https://github.com/wshobson/agents/blob/main/prompt-engineer.md",
+    "prompt": "Show the structure and how the agent's tasks are defined. Focus on command format and workflow organization."
+  },
+  "tool_response": {
+    "bytes": 194260,
+    "code": 200,
+    "codeText": "OK",
+    "result": "Based on the prompt-engineer.md file, here's the agent's structure and task definition:\n\nAgent Definition:\n- Name: Prompt Engineer\n- Description: \"Optimizes prompts for LLMs and AI systems. Use when building AI features, improving agent performance, or crafting system prompts.\"\n\nKey Structural Elements:\n1. Expertise Areas\n   - Prompt Optimization techniques\n   - Techniques Arsenal\n   - Model-Specific Optimization strategies\n\n2. Optimization Process (6-step workflow)\n   - Analyze use case\n   - Identify requirements\n   - Select prompting techniques\n   - Create structured prompt\n   - Test and iterate\n   - Document patterns\n\n3. Deliverables\n   - Optimized prompt templates\n   - Prompt testing frameworks\n   - Performance benchmarks\n   - Usage guidelines\n   - Error handling strategies\n\nUnique Characteristics:\n- Focuses on crafting effective AI system prompts\n- Emphasizes iterative improvement\n- Adapts techniques to specific AI models\n\nThe agent is designed as a systematic approach to developing and refining prompts for AI language models, with a structured methodology for optimization and delivery.",
+    "durationMs": 8398,
+    "url": "https://github.com/wshobson/agents/blob/main/prompt-engineer.md"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "session_id": "7bfa3f26-bffe-44f4-87bb-f54ec853c72a",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7bfa3f26-bffe-44f4-87bb-f54ec853c72a.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "teaching Ch\u0142opi Polish literature creative methods youth engagement innovative approaches classroom"
+  },
+  "tool_response": {
+    "query": "teaching Ch\u0142opi Polish literature creative methods youth engagement innovative approaches classroom",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01Y41vCEmHXWSSbkQXNWcKJW",
+        "content": [
+          {
+            "title": "(PDF) Creative teaching of creativity teachers: Polish perspective",
+            "url": "https://www.academia.edu/5168877/Creative_teaching_of_creativity_teachers_Polish_perspective"
+          },
+          {
+            "title": "Full article: Pedagogy as a political action \u2013 discussing controversial issues in Polish schools",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/13540602.2024.2447794?af=R"
+          },
+          {
+            "title": "Traditional Teaching\u2013Learning Process in the Class of Polish School Through Lens of UDL Approach | SpringerLink",
+            "url": "https://link.springer.com/chapter/10.1007/978-3-030-80658-3_4"
+          },
+          {
+            "title": "(PDF) Innovative approaches to teaching literature in the world language classroom",
+            "url": "https://www.researchgate.net/publication/303541603_Innovative_approaches_to_teaching_literature_in_the_world_language_classroom"
+          },
+          {
+            "title": "Full article: Teacher education in Poland (1970\u20132024): policy development, legislation, and period-specific challenges",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/02607476.2024.2413457"
+          },
+          {
+            "title": "20 Innovative Teaching Methods With Examples",
+            "url": "https://piogroup.net/blog/20-innovative-teaching-methods-with-examples-how-to-implement-in-education-process"
+          },
+          {
+            "title": "Teachers\u2019 Engagement With New Literacies: Support for Implementing Technology in the English/Language Arts Classroom \u2013 CITE Journal",
+            "url": "https://citejournal.org/volume-17/issue-1-17/english-language-arts/teachers-engagement-with-new-literacies-support-for-implementing-technology-in-the-englishlanguage-arts-classroom/"
+          },
+          {
+            "title": "Translanguaging practices in the EFL classroom - the Polish context - ScienceDirect",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S0898589822000092"
+          },
+          {
+            "title": "Firstliteracy",
+            "url": "https://firstliteracy.org/wp-content/uploads/2015/07/How-Learning-Works.pdf"
+          },
+          {
+            "title": "Classroom Management and Facilitation Approaches That Promote School Connectedness - PMC",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10935603/"
+          }
+        ]
+      },
+      "I've found several relevant resources on innovative teaching approaches and creative methods for engaging youth in literature education, particularly in Polish contexts. Here's what the search revealed:\n\n## Creative Teaching Approaches in Poland\n\nPoland has specialized teacher education programs in creativity, with the Warsaw Academy of Special Education offering psycho-pedagogy of creativity as a major in pedagogy studies, aimed at educating specialists who are open, sensitive and well prepared in identifying and developing children's and youth's creative potential.\n\n## Contemporary Challenges in Polish Literature Education\n\nResearch on Polish language instruction during senior secondary education reveals how teachers navigate controversial topics in literature, particularly as teachers face challenges in addressing complex discussions about literary texts and their connections to contemporary socio-political themes.\n\n## Innovative Classroom Approaches \n\nThe Universal Design for Learning (UDL) approach has been found to be an excellent way to make a difference in the learning process and take a step towards inclusive education, providing opportunities to organize high-quality, inclusive education that meets diverse student needs.(no content)Modern teaching methods prioritize students, emphasizing classroom engagement and interaction, with innovative strategies encouraging proactive participation and collaboration among students and the teacher.\n\n## Literature Teaching Innovations\n\nEnglish Literature as a discipline requires discussion, innovation and enquiry, therefore teaching and learning Literature requires an environment that facilitates engaging pedagogies as opposed to classrooms which exercise authority.(no content)Translanguaging is emerging as a pedagogical approach that challenges traditional monolingual teaching practices and emphasizes utilizing multiple languages as a resource for teaching and learning.\n\nThe search reveals that Polish education is experiencing significant transformations, with educators exploring creative methods that move beyond traditional approaches to better engage youth in literature learning, though they face challenges balancing innovation with institutional constraints."
+    ],
+    "durationSeconds": 18.21118061499996
+  }
+}

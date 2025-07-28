@@ -1,0 +1,62 @@
+{
+  "session_id": "eefb55a0-c8d5-41bc-8dcc-6acbd6e5a3ba",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/eefb55a0-c8d5-41bc-8dcc-6acbd6e5a3ba.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "F. Scott Fitzgerald relationship with wealth money parties personal struggles Zelda Fitzgerald lifestyle"
+  },
+  "tool_response": {
+    "query": "F. Scott Fitzgerald relationship with wealth money parties personal struggles Zelda Fitzgerald lifestyle",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_0198nTbKUZqbrhRRrb1dkmJR",
+        "content": [
+          {
+            "title": "F. Scott Fitzgerald - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/F._Scott_Fitzgerald"
+          },
+          {
+            "title": "F. Scott Fitzgerald | Biography, Books, Zelda, Education, The Great Gatsby, & Facts | Britannica",
+            "url": "https://www.britannica.com/biography/F-Scott-Fitzgerald"
+          },
+          {
+            "title": "Scott & Zelda - The Estate of F. Scott Fitzgerald",
+            "url": "https://www.scottandzelda.com/scott-zelda/"
+          },
+          {
+            "title": "Zelda Fitzgerald \u2013 F. Scott Fitzgerald Society",
+            "url": "https://fscottfitzgeraldsociety.org/about-us-2/biography-zelda-fitzgerald/"
+          },
+          {
+            "title": "Zelda Fitzgerald: The Writer Plagiarized by Her Husband F. Scott Fitzgerald | Blog | Domestika",
+            "url": "https://www.domestika.org/en/blog/7192-zelda-fitzgerald-the-writer-plagiarized-by-her-husband-f-scott-fitzgerald"
+          },
+          {
+            "title": "Zelda Fitzgerald | Biography, Book, Death, & Facts | Britannica",
+            "url": "https://www.britannica.com/biography/Zelda-Fitzgerald"
+          },
+          {
+            "title": "A Brief Life of F. Scott Fitzgerald",
+            "url": "https://sc.edu/about/offices_and_divisions/university_libraries/browse/irvin_dept_special_collections/collections/matthew_arlyn_bruccoli_collection_of_f_scott_fitzgerald/life_of_fitzgerald/index.php"
+          },
+          {
+            "title": "Behind the Myths of Scott and Zelda\u2019s Epic Romance",
+            "url": "https://lithub.com/behind-the-myths-of-scott-and-zeldas-epic-romance/"
+          },
+          {
+            "title": "Zelda Fitzgerald - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Zelda_Fitzgerald"
+          },
+          {
+            "title": "F. Scott Fitzgerald \u2013 F. Scott Fitzgerald Society",
+            "url": "https://fscottfitzgeraldsociety.org/about-us-2/biography/"
+          }
+        ]
+      },
+      "I found comprehensive information about F. Scott Fitzgerald's relationship with wealth, money, parties, personal struggles, and his dynamic with Zelda Fitzgerald. Here's what the search revealed:\n\n## F. Scott Fitzgerald's Complex Relationship with Wealth and Money\n\nF. Scott Fitzgerald had a deeply ambivalent relationship with wealth and the wealthy. Despite enjoying the Long Island milieu, he disapproved of the extravagant parties, and the wealthy people he encountered often disappointed him. While admiring the wealth and striving to emulate the lifestyles of the rich, he simultaneously found their privileged behavior morally disquieting, and possessed \"the smoldering resentment of a peasant\" towards them.(no content)This conflict became central to his literary work. \"The whole idea of Gatsby,\" he later explained, \"is the unfairness of a poor young man not being able to marry a girl with money. This theme comes up again and again because I lived it.\"\n\n## Financial Reality vs. Public Perception\n\nDespite public perception of affluence, Fitzgerald's actual financial situation was more modest. His peak story fee of $4,000 from The Saturday Evening Post may have had in 1929 the purchasing power of $40,000 in present-day dollars. Nonetheless, the general view of his affluence is distorted. Fitzgerald was not among the highest-paid writers of his time; his novels earned comparatively little, and most of his income came from 160 magazine stories. During the 1920s his income from all sources averaged under $25,000 a year, good money at a time when a schoolteacher's average annual salary was $1,299, but not a fortune.(no content)Scott and Zelda Fitzgerald did spend money faster than he earned it; the author who wrote so eloquently about the effects of money on character was unable to manage his own finances.\n\n## The Extravagant Lifestyle and Parties\n\nAfter the success of his first novel, the couple became overnight celebrities. They indulged in an extravagant lifestyle, spending lavishly on travel, parties, and liquor, and Zelda became an emblem of the 1920s liberated woman. They both indulged in an extravagant lifestyle, spending beyond their means on travel, parties, and liquor.(no content)The first years of their marriage were marked by excess: specifically, lots of parties and lots of alcohol. The birth of their daughter did not put a stop to this. Instead, they employed servants and nannies in order to be able to continue maintaining their unsustainable lifestyles.\n\n## Personal Struggles and Mental Health\n\nThe couple had a tumultuous relationship, characterized by excessive drinking, partying, and fighting.(no content)The over-the-top parties carried them into a period marked by infidelity, money issues, and arguments, often caused by Scott's jealousy.(no content)Fitzgerald began to drink too much, and Zelda suddenly, ominously, began to practice ballet dancing (a hobby from her youth) night and day. In 1930 she had a mental breakdown and in 1932 another, from which she never fully recovered.(no content)With the failure of Tender Is the Night and his despair over Zelda, Fitzgerald became self-destructive and his struggle with alcoholism became severe.\n\n## Zelda's Background and Influence\n\nZelda came from wealth herself - Fitzgerald met Zelda Sayre, a 17-year-old Southern belle and the affluent granddaughter of a Confederate senator whose extended family owned the first White House of the Confederacy.(no content)During her youth, Zelda Sayre's wealthy Southern family employed half-a-dozen domestic servants, many of whom were African-American. Consequently, she was unaccustomed to menial labor or responsibilities of any kind.(no content)Despite Scott's claim that he was on the verge of literary fame, Zelda doubted his financial prospects and entertained several other suitors, much to the chagrin of the aspiring author, who continued to press for an engagement.\n\n## Financial Pressures and Literary Work\n\nBy this time, however, the Fitzgeralds were greatly in debt, Scott was struggling with alcoholism, and Zelda was in and out of health clinics.(no content)He regretted that F. Scott Fitzgerald could not write novels, as he had to write magazine stories to pay for Zelda's psychiatric treatment.\n\nThe search results reveal that Fitzgerald's relationship with wealth was deeply personal and paradoxical - he was both attracted to and repelled by the wealthy elite, lived beyond his means despite earning good money for the time, and this tension became a defining theme in his greatest literary works."
+    ],
+    "durationSeconds": 35.93962325800024
+  }
+}

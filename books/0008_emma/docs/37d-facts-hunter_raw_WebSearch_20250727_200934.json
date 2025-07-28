@@ -1,0 +1,63 @@
+{
+  "session_id": "43e12ea9-84a2-4345-8d62-d857a85435cd",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/43e12ea9-84a2-4345-8d62-d857a85435cd.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Emma Jane Austen 1815 publication facts first edition reviews John Murray publisher Prince Regent dedication"
+  },
+  "tool_response": {
+    "query": "Emma Jane Austen 1815 publication facts first edition reviews John Murray publisher Prince Regent dedication",
+    "results": [
+      "I'll search for information about Emma by Jane Austen, focusing on its 1815 publication details, first edition, reviews, and connection to John Murray as publisher and the Prince Regent dedication.",
+      {
+        "tool_use_id": "srvtoolu_01StxcV3UoKEEg3JSGXASMrL",
+        "content": [
+          {
+            "title": "Emma",
+            "url": "https://jasna.org/austen/works/emma/"
+          },
+          {
+            "title": "Emma (novel) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Emma_(novel)"
+          },
+          {
+            "title": "The Publishing History of Jane Austen\u2019s Emma",
+            "url": "https://janeausteninvermont.blog/2015/12/16/the-publishing-history-of-jane-austens-emma/"
+          },
+          {
+            "title": "First edition: Emma | Jane Austen's House",
+            "url": "https://janeaustens.house/object/emma-first-edition/"
+          },
+          {
+            "title": "Regency Bicentennial: First Publication of Emma | The Regency Redingote",
+            "url": "https://regencyredingote.wordpress.com/2015/12/18/regency-bicentennial-first-publication-of-emma/"
+          },
+          {
+            "title": "Emma | Jane Austen, Summary, Characters, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/Emma-novel-by-Austen"
+          },
+          {
+            "title": "Jane Austen - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Jane_Austen"
+          },
+          {
+            "title": "Austen\u2019s Dedication to the Prince Regent | Digital Austen",
+            "url": "https://digitalausten.org/node/16"
+          },
+          {
+            "title": "\u201cTo his Royal Highness the Prince Regent\u201d \u2013 John Murray in 1816",
+            "url": "https://johnmurrayin1816.wordpress.com/2016/11/15/to-his-royal-highness-the-prince-regent/"
+          },
+          {
+            "title": "John Murray \u2013 Jane Austen in Vermont",
+            "url": "https://janeausteninvermont.blog/tag/john-murray/"
+          }
+        ]
+      },
+      "Based on the search results, here are the key publication facts about Jane Austen's *Emma* from 1815:\n\n## Publication Details\n\n*Emma* was first published on December 23, 1815, though the title page bore the date 1816. The novel was published in three volumes and had a first edition print run of 2,000 copies\u2014Jane Austen's largest first edition print run to date.\n\n## Publisher and Business Arrangement\n\nThe novel was submitted to London publisher John Murray II in autumn 1815. Murray initially offered Austen \u00a3450 for *Emma* plus the copyrights of *Mansfield Park* and *Sense and Sensibility*, which she refused. Instead, Austen negotiated with Murray to publish *Emma* on a commission basis, where she paid for printing and advertising the books, and Murray received a commission for distributing and selling them.\n\n## Prince Regent Dedication\n\nUnlike Jane Austen's other works, *Emma* included a dedication to the Prince of Wales (Prince Regent). While visiting her brother Henry in London in fall 1815, Austen's identity became known to the Prince and his librarian, James Stanier-Clarke, and she was invited to tour Carlton House. Stanier-Clarke wrote that she \"was at liberty to dedicate any future work\" to the Regent\u2014a subtle royal request that she decided could not be ignored. The dedication read: \"To His Royal Highness, The Prince Regent. This work is, by his Royal Highness's permission, most respectfully dedicated by His Royal Highness's dutiful and obedient humble servant, The Author\".\n\n## Contemporary Reviews\n\nEarly reviews of *Emma* were generally favourable, and were more numerous than those of any other of Austen's novels. One important review was written by Sir Walter Scott and appeared anonymously in March 1816 in the *Quarterly Review*, although it was requested by John Murray prior to publication. Prior to publishing, John Murray's reader, William Gifford, who was also the editor of the *Quarterly Review*, said of the novel \"Of Emma I have nothing but good to say\".\n\n## Sales Performance\n\nJohn Murray's ledgers show that by October 1816 only 1,248 copies of *Emma* had been sold\u2014slightly less than two-thirds of the initial print run. By February 1817, only around 1,500 copies had sold and Jane had earned only \u00a338.18 in profit, after losses were deducted from the second edition of *Mansfield Park*."
+    ],
+    "durationSeconds": 24.197324728999288
+  }
+}

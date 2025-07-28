@@ -1,0 +1,21 @@
+{
+  "session_id": "43e12ea9-84a2-4345-8d62-d857a85435cd",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/43e12ea9-84a2-4345-8d62-d857a85435cd.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Emma\" Jane Austen t\u0142umaczenie Dmochowska Pr\u00f3szy\u0144ski \"polskie t\u0142umaczenia\" historia"
+  },
+  "tool_response": {
+    "query": "\"Emma\" Jane Austen t\u0142umaczenie Dmochowska Pr\u00f3szy\u0144ski \"polskie t\u0142umaczenia\" historia",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01563dzvHNSDYxAvTGbpKCr7",
+        "content": []
+      },
+      "I performed the web search with your exact query about Emma by Jane Austen, Polish translations by Dmochowska, and Pr\u00f3szy\u0144ski publishing house. However, the search didn't return any results. This could be because:\n\n1. The specific combination of search terms might be too narrow\n2. There might be limited online information about this particular Polish translation\n3. The search terms might need to be adjusted\n\nWould you like me to try a modified search with different terms, such as searching for \"Emma Jane Austen polskie t\u0142umaczenia\" or \"Dmochowska t\u0142umaczenia Jane Austen\" to find more information about Polish translations of Jane Austen's works?"
+    ],
+    "durationSeconds": 8.794983059000224
+  }
+}

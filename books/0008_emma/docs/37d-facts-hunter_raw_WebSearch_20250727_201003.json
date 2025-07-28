@@ -1,0 +1,62 @@
+{
+  "session_id": "43e12ea9-84a2-4345-8d62-d857a85435cd",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/43e12ea9-84a2-4345-8d62-d857a85435cd.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Emma Jane Austen irony literary devices self-discovery social criticism gossip"
+  },
+  "tool_response": {
+    "query": "Emma Jane Austen irony literary devices self-discovery social criticism gossip",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01FetTnKdCDwGtS9cw89XFUJ",
+        "content": [
+          {
+            "title": "Emma Literary Devices | LitCharts",
+            "url": "https://www.litcharts.com/lit/emma/literary-devices/irony"
+          },
+          {
+            "title": "Jane Austen\u2019s Use of Irony in the Novel 'Emma' - Free Essay Example - Edubirdie",
+            "url": "https://hub.edubirdie.com/examples/jane-austens-use-of-irony-in-the-novel-emma/"
+          },
+          {
+            "title": "Emma by Jane Austen: An In-Depth Literary Analysis \u2013 Literature Deep Dive",
+            "url": "https://litdeepdive.wordpress.com/2025/03/06/emma-by-jane-austen-an-in-depth-literary-analysis/"
+          },
+          {
+            "title": "Reception history of Jane Austen - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Reception_history_of_Jane_Austen"
+          },
+          {
+            "title": "(PDF) Irony in Jane Austen: A Cognitive- Narratological Approach: Cognitive and Diachronic Perspectives",
+            "url": "https://www.researchgate.net/publication/321169284_Irony_in_Jane_Austen_A_Cognitive-_Narratological_Approach_Cognitive_and_Diachronic_Perspectives"
+          },
+          {
+            "title": "Jane Austen: Irony as Defense and Discovery on JSTOR",
+            "url": "https://www.jstor.org/stable/jj.9561403"
+          },
+          {
+            "title": "Irony in Jane Austen\u2019s 'Emma' - GRIN | Grin",
+            "url": "https://www.grin.com/document/189300"
+          },
+          {
+            "title": "Irony and criticism in Jane Austen's Emma through characterisation - eNotes.com",
+            "url": "https://www.enotes.com/topics/emma/questions/irony-and-criticism-in-jane-austen-s-emma-through-3123056"
+          },
+          {
+            "title": "Critical Analysis of Jane Austen\u2019s Emma",
+            "url": "https://literariness.org/2021/02/20/critical-analysis-of-jane-austens-emma/"
+          },
+          {
+            "title": "Satire And Situational Irony In Jane Austen's Emma - 437 Words | Bartleby",
+            "url": "https://www.bartleby.com/essay/Satire-And-Situational-Irony-In-Jane-Austens-D103B6669402359C"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about Jane Austen's use of irony, literary devices, self-discovery, social criticism, and gossip in her novel *Emma*.\n\n## Irony as the Central Literary Device\n\nIrony is, as we have seen, the key to Austen's art. In *Emma*, Austen employs multiple forms of irony to achieve literary and social effects:\n\n### Types of Irony Used\n\n**Verbal Irony**: Verbal irony, which often involves either sarcasm or a verbal pun, can be seen when Emma alludes to how dull Miss Bates is. Miss Bates says, \"I shall be sure to say three dull things as soon as ever I open my mouth, shan't I?\"\n\n**Dramatic Irony**: The irony is heightened by the fact that Emma has speculated and gossiped about Knightley's potential feelings for both Jane and Harriet and, though she does not consider them good matches, is not (consciously, at least) aware of her feelings for him.\n\n**Situational Irony**: Like Jane Austen's other social satires, Emma counts closely on situational irony. Emma is being satirized by viewing herself as a good matchmaker with skills in observation. However, she is too innocent and thickheaded to be in others' personal relationships. In every instance- including her own love life- Emma tries to assert her opinions on whom someone should or should not marry, it backfires terribly.\n\n## Self-Discovery and Character Development\n\nMajor themes of Emma include the rigid social class structure of its time, the heroine's journey of self-discovery and moral growth, the follies of meddling in others' affairs, and the constraints of gender roles in Regency society. \n\nEmma's journey involves learning from her mistakes: Rather than behaving reactively, however, Emma takes steps to hear Frank out and to apologize to Jane, showing how she has matured over the course of the novel and let go of her pride.\n\n## Social Criticism Through Character Representation\n\nAusten uses irony to critique social norms and class structures. \"The real evils indeed of Emma's situation were the power of having rather too much her own way and a disposition to think a little too well of herself\", sets the stage for the rest of the novel. It serves as a foreshadow to the upcoming events as well as a dramatic irony because the readers are aware of this comfortable character who dwells in self-deception and ignorance.(no content)In Emma, Jane Austen uses irony and criticism through characterisation to highlight societal flaws. Emma Woodhouse's misguided matchmaking and overconfidence serve as ironic critiques of social class and romantic idealism. Characters like Mr. Knightley provide a counterpoint, offering sensible perspectives that underscore Emma's errors and personal growth, ultimately criticizing the rigid social structures and the folly of self-deception.\n\n## Gossip as a Literary Device\n\nInstead, Emma gives us quotidian events (visiting neighbors, attending dances, gossiping over tea) elevated to art by Austen's nuanced storytelling. Gossip serves multiple narrative functions in the novel, including character development and plot advancement.\n\nIn this instance, they serve as a chorus, as representatives of local gossip and opinion relating to Frank Churchill and his long anticipated, long awaited rumored visit to Highbury upon his father's marriage.\n\n## Literary Techniques and Style\n\nBoth novels showcase Austen's trademark irony and social observation, but Emma's irony is more subtle, entwined with the very voice of the heroine through free indirect discourse, while Pride and Prejudice often uses a more direct ironic narrator.(no content)More typical of the post-1945 scholarship is Marvin Mudrick's 1952 book Jane Austen: Irony as Defense and Discovery, where he argued that Austen used irony as a way of deflating conventions and to gently challenge the reader's beliefs.\n\nThe novel demonstrates Austen's mastery in combining entertainment with social commentary, using irony not merely for humor but as a sophisticated tool for exposing human folly and social criticism while guiding readers toward moral truths."
+    ],
+    "durationSeconds": 33.33737375799939
+  }
+}

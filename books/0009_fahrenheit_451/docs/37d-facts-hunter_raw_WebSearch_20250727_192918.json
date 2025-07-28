@@ -1,0 +1,62 @@
+{
+  "session_id": "50a1a9ee-e5bd-4af5-b1be-889513e755a8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/50a1a9ee-e5bd-4af5-b1be-889513e755a8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Adam Kaska\" Fahrenheit 451 t\u0142umacz Czytelnik 1960 polska edycja"
+  },
+  "tool_response": {
+    "query": "\"Adam Kaska\" Fahrenheit 451 t\u0142umacz Czytelnik 1960 polska edycja",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01Wq3us1aWeRfxBvztAWCyU6",
+        "content": [
+          {
+            "title": "BRADBURY- 451\u00b0 FAHRENHEITA . wyd. 1, 1960 | Antykwariat internetowy Sobieski",
+            "url": "https://antyksobieski.pl/bradbury-451-fahrenheita-wyd-1-1960-18415.html"
+          },
+          {
+            "title": "451\u00b0 Fahrenheita - Ray Bradbury | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/102858/451-fahrenheita"
+          },
+          {
+            "title": "BRADBURY- 451\u00b0 FAHRENHEITA . wyd. 1, 1960 sk\u00f3ra | Antykwariat internetowy Sobieski",
+            "url": "https://antyksobieski.pl/bradbury-451-fahrenheita-wyd-1-1960-18602.html"
+          },
+          {
+            "title": "Adam Kaska (Translator of 451\u00b0 Fahrenheita)",
+            "url": "https://www.goodreads.com/author/show/3111281.Adam_Kaska"
+          },
+          {
+            "title": "Books by Adam Kaska (Author of Nadwi\u015bla\u0144skie Reduty)",
+            "url": "https://www.goodreads.com/author/list/3111281.Adam_Kaska"
+          },
+          {
+            "title": "451 stopni Fahrenheita \u2013 Wikicytaty",
+            "url": "https://pl.wikiquote.org/wiki/451_stopni_Fahrenheita"
+          },
+          {
+            "title": "Adam Kaska \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Adam_Kaska"
+          },
+          {
+            "title": "451 Fahrenheita \u2013 encyklopediafantastyki.pl",
+            "url": "http://www.encyklopediafantastyki.pl/index.php/451_Fahrenheita"
+          },
+          {
+            "title": "Adam Kaska",
+            "url": "https://virtualo.pl/adam-kaska-t1816/"
+          },
+          {
+            "title": "Adam Kaska (95027) - Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/autor/95027/adam-kaska"
+          }
+        ]
+      },
+      "Based on the search results, I found comprehensive information about Adam Kaska and his translation of Fahrenheit 451 for the Polish edition published by Czytelnik in 1960.\n\n## Key Information:\n\nAdam Kaska (ur. 2 maja 1922 w Postoliskach, zm. 6 wrze\u015bnia 1986 w Warszawie) \u2013 polski pisarz, dziennikarz i t\u0142umacz.(no content)The first Polish edition of \"451\u00b0 Fahrenheita\" was published in 1960 by Wydawnictwo \"Czytelnik\" in Warsaw, translated by Adam Kaska, with 181 pages in 13x20.5 cm format.(no content)This was described as \"Pierwsze polskie wydanie!\" (First Polish edition!).\n\n## About the Translator:\n\nAdam Kaska worked as an editor at \"Czytelnik\" publishing house from 1955, and later at the Ministry of National Defense Publishing House. He was primarily a translator of English and German literature, including classic novels like The Great Gatsby, The Guns of Navarone, The Martian Chronicles, and 451 degrees Fahrenheit.\n\n## Publication Details:\n\nThe book was published on January 1, 1960, with 181 pages, in Polish, translated by Adam Kaska and published by Czytelnik.(no content)The Polish title \"451 stopni Fahrenheita\" is based on the 1953 American dystopian novel by Ray Bradbury, translated by Adam Kaska and published in Polish in 1960.\n\nThis was indeed the first Polish translation of Ray Bradbury's famous dystopian novel, making it a significant publication in Polish science fiction literature."
+    ],
+    "durationSeconds": 18.175798276001586
+  }
+}

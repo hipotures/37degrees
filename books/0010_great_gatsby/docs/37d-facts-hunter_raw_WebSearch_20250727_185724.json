@@ -1,0 +1,62 @@
+{
+  "session_id": "eefb55a0-c8d5-41bc-8dcc-6acbd6e5a3ba",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/eefb55a0-c8d5-41bc-8dcc-6acbd6e5a3ba.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "The Great Gatsby F. Scott Fitzgerald scholarly articles academic sources 2020-2025"
+  },
+  "tool_response": {
+    "query": "The Great Gatsby F. Scott Fitzgerald scholarly articles academic sources 2020-2025",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_012fuYb5sXVrjR4WEpVWEkTg",
+        "content": [
+          {
+            "title": "The Great Gatsby (Annotated): Includes MLA Style Citations for Scholarly Secondary Sources, Peer-Reviewed Journal Articles and Critical Essays (Squid Ink Classics): Fitzgerald, F. Scott: 9798588630559: Amazon.com: Books",
+            "url": "https://www.amazon.com/Great-Gatsby-Annotated-Citations-Peer-Reviewed/dp/B08RYLFZWH"
+          },
+          {
+            "title": "Scott Fitzgerald The Great Gatsby Research Papers - Academia.edu",
+            "url": "https://www.academia.edu/Documents/in/Scott_Fitzgerald_The_Great_Gatsby"
+          },
+          {
+            "title": "The Great Gatsby | Summary, Characters, Reception, & Analysis | Britannica",
+            "url": "https://www.britannica.com/topic/The-Great-Gatsby"
+          },
+          {
+            "title": "F. Scott Fitzgerald - The Great Gatsby - LibGuides at Watchung Hills Regional High School",
+            "url": "https://whrhs.libguides.com/c.php?g=589810&p=4077374"
+          },
+          {
+            "title": "The Great Gatsby - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+          },
+          {
+            "title": "Scott Fitzgerald's The Great Gatsby: Critical reception and ...",
+            "url": "https://fount.aucegypt.edu/cgi/viewcontent.cgi?article=1046&context=etds"
+          },
+          {
+            "title": "F. Scott Fitzgerald: The Great Gatsby | Columbia University Press",
+            "url": "https://cup.columbia.edu/book/f-scott-fitzgerald-the-great-gatsby/9780231115353/"
+          },
+          {
+            "title": "The Great Gatsby by F. Scott Fitzgerald | DPLA",
+            "url": "https://dp.la/primary-source-sets/the-great-gatsby-by-f-scott-fitzgerald"
+          },
+          {
+            "title": "F. Scott Fitzgerald | Biography, Books, Zelda, Education, The Great Gatsby, & Facts | Britannica",
+            "url": "https://www.britannica.com/biography/F-Scott-Fitzgerald"
+          },
+          {
+            "title": "Today In History: F. Scott Fitzgerald Publishes The Great Gatsby | April | 2025 | Blog | Gottesman Libraries | Teachers College, Columbia University",
+            "url": "https://library.tc.columbia.edu/blog/content/2025/april/today-in-history-f-scott-fitzgerald-publishes-the-great-gatsby.php"
+          }
+        ]
+      },
+      "Based on the web search results, I found several relevant sources and academic databases that contain scholarly articles about The Great Gatsby by F. Scott Fitzgerald from the 2020-2025 timeframe. Here's what the search revealed:\n\n## Academic Databases and Sources:\n\nAcademia.edu contains research papers on Scott Fitzgerald's The Great Gatsby, with various scholarly analyses including topics such as:\n\n- \"Her voice is full of money': Mechanical Reproduction and a Metaphysics of Substance in F. Scott Fitzgerald's The Great Gatsby\" from English Studies 99.8 (2018)\n- Psychoanalytic views comparing Charles Dickens' Great Expectations and F. Scott Fitzgerald's The Great Gatsby, covering topics of ego, id, super id, libido, and repression\n- Essays examining themes of alterity and tragic sensation in Shakespeare's Macbeth and Fitzgerald's The Great Gatsby, offering parallel studies of the works with emphasis on the heroes' struggles with time\n\n## Recent Academic Interest:\n\nMore critical writing exists on The Great Gatsby than on any other work of American fiction, and Columbia Critical Guide introduces key critical debates surrounding Fitzgerald's novel, reflecting The Great Gatsby's place as one of the first American novels to make significant use of modernist techniques and exploring its influence on later American writings, offering readers an invaluable resource on this complex rendering of American history.\n\n## Specific Research Areas Found:\n\n- Alienation as a major theme in modernist literature, examining the socio-historical reasons and psychological implications for the focus on alienation in Fitzgerald's The Great Gatsby\n- F. Scott Fitzgerald in the Twenty-First Century studies from University of Alabama Press\n\n## Library Resources:\n\nGale Literature Resource Center provides full-text articles from scholarly journals and literary magazines combined with critical essays, work and topic overviews, covering all genres, disciplines, time periods and parts of the world.\n\nThe search results indicate that there is substantial ongoing scholarly work on The Great Gatsby, with academic databases like Academia.edu, Literature Resource Center, and university presses continuing to publish new research and critical analyses during the 2020-2025 period you specified."
+    ],
+    "durationSeconds": 21.1029157069996
+  }
+}

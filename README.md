@@ -2,7 +2,7 @@
 
 🔥 **37 stopni - gorączka czytania!** 
 
-Automated video generator for creating engaging TikTok book reviews targeting Polish youth (10-20 years old). Creates 8-slide vertical videos with AI-generated illustrations and text overlays for classic literature.
+Automated video generator for creating engaging TikTok book reviews targeting Polish youth (12-25 years old). Creates 8-slide vertical videos with AI-generated illustrations and text overlays for classic literature.
 
 **Version 2.0.0** - Now with plugin architecture, AI research integration, static site generation, and extensible systems!
 

@@ -1,0 +1,62 @@
+{
+  "session_id": "50a1a9ee-e5bd-4af5-b1be-889513e755a8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/50a1a9ee-e5bd-4af5-b1be-889513e755a8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Fahrenheit 451\" Polish translation \"451 stopni Fahrenheita\" polskie wydania recenzje"
+  },
+  "tool_response": {
+    "query": "\"Fahrenheit 451\" Polish translation \"451 stopni Fahrenheita\" polskie wydania recenzje",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01P2CN22WmiznDJ8qxcaAZWo",
+        "content": [
+          {
+            "title": "Wielog\u0142osem o...: \"451\u00b0 Fahrenheita\" - G\u0142os Kultury",
+            "url": "https://www.gloskultury.pl/wieloglosem-o-451-fahrenheita/"
+          },
+          {
+            "title": "451 stopni Fahrenheita \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/451_stopni_Fahrenheita"
+          },
+          {
+            "title": "Amazon.com: 451 stopni Fahrenheita (Polish Edition): 9788374809221: Bradbury, Ray: Books",
+            "url": "https://www.amazon.com/451-stopni-Fahrenheita-Polish-Bradbury/dp/8374809221"
+          },
+          {
+            "title": "451 stopni Fahrenheita | Ray Bradbury (Ksi\u0105\u017cka) - Ksi\u0119garnia znak.com.pl",
+            "url": "https://www.znak.com.pl/p/451-stopni-fahrenheita-ray-bradbury-241221"
+          },
+          {
+            "title": "BRADBURY- 451\u00b0 FAHRENHEITA . wyd. 1, 1960 | Antykwariat internetowy Sobieski",
+            "url": "https://antyksobieski.pl/bradbury-451-fahrenheita-wyd-1-1960-18415.html"
+          },
+          {
+            "title": "Fahrenheit 451 > Gallimard",
+            "url": "https://ksiegarniaedukator.pl/Fahrenheit-451-p2687"
+          },
+          {
+            "title": "Zadanie dla pomys\u0142owych: - 451 stopni Fahrenheita - Forum - Filmweb",
+            "url": "https://www.filmweb.pl/film/451+stopni+Fahrenheita-1966-1494/discussion/Zadanie+dla+pomys%C5%82owych:,1191434"
+          },
+          {
+            "title": "451 stopni Fahrenheita | Ray Bradbury (Ksi\u0105\u017cka) - Ksi\u0119garnia matras.pl",
+            "url": "https://www.matras.pl/p/451-stopni-fahrenheita-ray-bradbury-241221"
+          },
+          {
+            "title": "451 STOPNI FAHRENHEITA (Fahrenheit 451) \u2013 Polonia Bookstore Chicago",
+            "url": "https://polonia.com/product/451-stopni-fahrenheita-fahrenheit-451/"
+          },
+          {
+            "title": "\"451 stopni Fahrenheita\", Ray Bradbury, Tim Hamilton, REBIS",
+            "url": "https://www.rebis.com.pl/pl/book-451-fahrenheita-ray-bradbury-tim-hamilton,HCHB13106.html"
+          }
+        ]
+      },
+      "I found extensive information about the Polish translation of \"Fahrenheit 451\" titled \"451 stopni Fahrenheita.\" Here are the key findings:\n\n## Polish Translations and Editions\n\nThe first Polish edition was published in 1960, and there have been at least three Polish translations of this novel, with the most recent translation prepared by Wojciech Szypu\u0142a specifically for a new edition. Previously, there was a classic translation by Adam Kaska from a 1960 edition.\n\n## Recent Polish Editions\n\nWydawnictwo Mag recently added \"451\u00b0 Fahrenheita\" by Ray Bradbury to their Artefakty series. There's also a 2023 hardcover edition published by MAG in Warsaw with 176 pages (ISBN: 978-83-6779-312-4).\n\nREBIS publishing house released a graphic novel adaptation in 2025, translated by Adam Kaska, which represents \"absolute classic of SF literature and one of the best dystopias in its history... now in graphic novel form!\"\n\n## Polish Reviews and Reception\n\nAccording to reviewers, \"451\u00b0 Fahrenheita\" is written in such a way that \"almost every sentence is a separate gem\" with \"perfect construction and stylistics\". The new translation by Wojciech Szypu\u0142a received positive feedback, with reviewers noting that \"Bradbury's sentences read excellently in his translation\".\n\nPolish readers found the language \"very accessible\" and noted that \"after a few pages the reader simply flows along the stream of Bradbury's thoughts\".\n\nHowever, there was also criticism: Polish science fiction writer Stanis\u0142aw Lem believed that while \"451 stopni Fahrenheita\" achieved publishing success in the West, this was due to the book's \"infantility\".\n\n## Availability and Publishers\n\nThe novel is available through various Polish publishers and bookstores, including Znak, REBIS, and MAG publishing houses, with both traditional and graphic novel editions currently in circulation."
+    ],
+    "durationSeconds": 19.501779450001195
+  }
+}

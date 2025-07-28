@@ -1,0 +1,62 @@
+{
+  "session_id": "7bfa3f26-bffe-44f4-87bb-f54ec853c72a",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7bfa3f26-bffe-44f4-87bb-f54ec853c72a.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Brave New World soma social media addiction parallels Gen Z teens 2024 2025"
+  },
+  "tool_response": {
+    "query": "Brave New World soma social media addiction parallels Gen Z teens 2024 2025",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01JnWmg7hjatE8LDvHUFXaFa",
+        "content": [
+          {
+            "title": "Brave New World, Soma, and Social Media: The Hidden Dangers of a Pleasure-Driven Society | by Mico Talks | Medium",
+            "url": "https://medium.com/@micotalks/brave-new-world-soma-and-social-media-the-hidden-dangers-of-a-pleasure-driven-society-03d9ee861623"
+          },
+          {
+            "title": "Brave New World: the pill-popping, social media obsessed dystopia we live in - Interalia Magazine",
+            "url": "https://www.interaliamag.org/articles/tony-d-sampson-brave-new-world-the-pill-popping-social-media-obsessed-dystopia-we-live-in/"
+          },
+          {
+            "title": "Social Media Addiction Statistics 2025 (Trends & Facts)",
+            "url": "https://www.demandsage.com/social-media-addiction-statistics/"
+          },
+          {
+            "title": "Has it turned out that pop culture and social media have become the 'soma' that Huxley foretold of in Brave New World and the cell phone its delivery system? - Quora",
+            "url": "https://www.quora.com/Has-it-turned-out-that-pop-culture-and-social-media-have-become-the-soma-that-Huxley-foretold-of-in-Brave-New-World-and-the-cell-phone-its-delivery-system"
+          },
+          {
+            "title": "Brave New World: the pill-popping, social media obsessed dystopia we live in",
+            "url": "https://theconversation.com/brave-new-world-the-pill-popping-social-media-obsessed-dystopia-we-live-in-72511"
+          },
+          {
+            "title": "Social Media Addiction Statistics - Risks, Warnings & Safety (2025)",
+            "url": "https://www.addictionhelp.com/social-media-addiction/statistics/"
+          },
+          {
+            "title": "Brave New World of Social Media - ERIC KIM \u20bf",
+            "url": "https://erickimphotography.com/blog/2018/09/29/brave-new-world-of-social-media/"
+          },
+          {
+            "title": "Teens, Social Media and Technology 2024 | Pew Research Center",
+            "url": "https://www.pewresearch.org/internet/2024/12/12/teens-social-media-and-technology-2024/"
+          },
+          {
+            "title": "21+ Eye-Opening Social Media Addiction Statistics in 2025",
+            "url": "https://www.cloudwards.net/social-media-addiction-statistics/"
+          },
+          {
+            "title": "Frontiers | Examination of social media usage habits of generation Z",
+            "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1370823/full"
+          }
+        ]
+      },
+      "I found several relevant results exploring the parallels between Aldous Huxley's \"soma\" from *Brave New World* and modern social media addiction, particularly as it affects Generation Z teens. Here are the key findings:\n\n## The Soma-Social Media Parallel\n\nSocial media functions as a modern-day soma, not a drug in the traditional sense, but performing a similar societal function by distracting us from thinking too deeply and engulfing our free time through constant scrolling that provides an escape from reality.(no content)We already have soma in the form of devices that fit in our front pockets - our phones serve as the dispenser and social media as the drug.(no content)When users get a 'like' on social media, they receive a shot of dopamine, and through reinforced learning, behavior is modified to keep hunting for more likes.\n\n## Generation Z Social Media Addiction Statistics (2024-2025)\n\nThe data reveals alarming patterns among Gen Z teens:\n\n82% of Gen Z adults acknowledge their dependency on platforms like Instagram, TikTok, and Twitter, believing they are addicted to social media.(no content)A significant 36% of teens acknowledge spending excessive time and being addicted to social media.(no content)Of these teens, 41% of girls feel they spend too much time on social media, compared to 31% of boys.(no content)Nearly half of U.S. teens (46%) say they're on the internet almost constantly.(no content)This represents a big leap considering 24% of teens said the same thing ten years prior to the 2024 survey.(no content)Among American internet users aged 18 to 22 years old, a shocking 40% report they have social media addiction.\n\n## Mental Health Impacts\n\nThe parallels to soma's numbing effects are evident in the mental health consequences:\n\n36% of teenagers report excessive social media use, often linked to negative mental health outcomes such as anxiety, stress, and depression.(no content)Research from San Diego State University revealed that 7 in 10 teens who use social media for over 5 hours are at higher risk of committing suicide.(no content)Social media addiction can disrupt the way the brain manages dopamine, and for younger internet users, this dopamine disruption can wreak havoc on their still-developing brains, leading to impulsive, addictive behaviors and poor mental health.\n\n## The Control Mechanism\n\nThe society of Brave New World combines two central modes of control: the widespread use of the joy-inducing pharmaceutical soma, and a hypnotic media propaganda machine that works less on reason than through \"feely\" encounters.(no content)Comparisons can be made between Huxley's College of Emotional Engineering and contemporary social media.\n\nThe parallels are striking - both soma and social media serve as mechanisms of control through pleasure and distraction, keeping users pacified and preventing deeper critical thinking about their circumstances."
+    ],
+    "durationSeconds": 26.234099431000185
+  }
+}

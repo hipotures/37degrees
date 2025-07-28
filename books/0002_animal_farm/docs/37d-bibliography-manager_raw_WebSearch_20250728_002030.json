@@ -1,0 +1,62 @@
+{
+  "session_id": "abba3f5a-b5aa-49e3-9bda-f1f6b93e098c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/abba3f5a-b5aa-49e3-9bda-f1f6b93e098c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Orwell Spanish Civil War \"Homage to Catalonia\" Soviet suppression allies Barcelona"
+  },
+  "tool_response": {
+    "query": "Orwell Spanish Civil War \"Homage to Catalonia\" Soviet suppression allies Barcelona",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01YHvCFWpq833nJnVj5bSaU1",
+        "content": [
+          {
+            "title": "Homage to Catalonia - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Homage_to_Catalonia"
+          },
+          {
+            "title": "Homage to Catalonia by George Orwell | EBSCO Research Starters",
+            "url": "https://www.ebsco.com/research-starters/history/homage-catalonia-george-orwell"
+          },
+          {
+            "title": "Homage to Catalonia by George Orwell",
+            "url": "https://www.barcelona-life.com/barcelona/homage-to-catalonia"
+          },
+          {
+            "title": "How Spain\u2019s Civil War defined George Orwell politically",
+            "url": "https://www.realinstitutoelcano.org/en/commentaries/how-spains-civil-war-defined-george-orwell-politically/"
+          },
+          {
+            "title": "George Orwell and the Spanish Civil War: Homage to Catalonia | Medium",
+            "url": "https://medium.com/@edmatic/george-orwell-the-rebel-with-a-cause-who-was-funnier-than-you-think-part-2-4341a829ff2a"
+          },
+          {
+            "title": "Homage to Catalonia: George Orwell (Penguin Modern Classics): Amazon.co.uk: George Orwell, Julian Symons: 9780141183053: Books",
+            "url": "https://www.amazon.co.uk/Homage-Catalonia-Penguin-Modern-Classics/dp/0141183055"
+          },
+          {
+            "title": "\"Homage to Catalonia\" - George Orwell and the Spanish Civil War",
+            "url": "https://expatmadrid.com/homage-to-catalonia/"
+          },
+          {
+            "title": "George Orwell: 'Homage to Catalonia'",
+            "url": "https://orwell.ru/library/novels/Homage_to_Catalonia/english/e_htc"
+          },
+          {
+            "title": "Homage to Catalonia | Spanish Civil War, Barcelona, Memoir | Britannica",
+            "url": "https://www.britannica.com/topic/Homage-to-Catalonia"
+          },
+          {
+            "title": "Homage to Catalonia",
+            "url": "https://www.marxists.org/archive/orwell/1938/homage-catalonia.htm"
+          }
+        ]
+      },
+      "I've performed the web search you requested on Orwell's Spanish Civil War experiences and \"Homage to Catalonia\" with focus on Soviet suppression of allies in Barcelona. Here are the key findings from the search:\n\n## George Orwell and Soviet Suppression in Barcelona\n\nHomage to Catalonia is a memoir by George Orwell published in 1938, in which he accounts his personal experiences and observations while fighting in the Spanish Civil War. Covering the period between December 1936 and June 1937, Orwell recounts Catalonia's revolutionary fervor during his training in Barcelona, his boredom on the front lines in Aragon, his involvement in the interfactional May Days conflict back in Barcelona on leave, his getting shot in the throat back on the front lines, and his escape to France after the POUM was declared an illegal organization.\n\n### Soviet Suppression of Republican Allies\n\nThe Soviet Union, the main supplier of arms to the beleaguered Republic, prioritised winning the war over revolution, while the POUM and anarchists felt that victory without revolution was impossible.(no content)In particular the Communist Party, with Soviet Russia behind it, had thrown its whole weight against the revolution.(no content)Andreas Nin, the leader of the 'Trotskyist-fascists' of the POUM, was arrested and subsequently killed after being savagely tortured. The POUM was outlawed and most of the 40 members of the executive committee arrested and jailed including Georges Kopp, Orwell's commander, who was interrogated, tortured and moved between prisons and detention camps in and around Barcelona for 18 months.\n\n### Orwell's Personal Experience of Soviet Persecution\n\nThe room of Orwell and his wife Eileen, who had joined him, was raided and plainclothes policemen spent two hours examining Orwell's papers and books. A warrant was subsequently issued for their arrest as 'pronounced Trotskyists' conspiring with dissidents in Moscow.(no content)The Communist-controlled Unified Socialist Party of Catalonia newspapers declare POUM to be a disguised Fascist organisation\u2014\"No one who was in Barcelona then, or for months later, will forget the horrible atmosphere produced by fear, suspicion, hatred, censored newspapers, crammed jails, enormous food queues, and prowling gangs of armed men.\"\n\n### Impact on Orwell's Political Development\n\nAll these events produced within Orwell a visceral and lasting hatred of Stalin's Soviet Union. It was there in Spain and in the immediate aftermath that the idea for Animal Farm \u2014 his brilliant allegory of a workers revolution betrayed \u2014 began to form.(no content)The book's sharp criticism of the Spanish Communist Party, and implicitly of the Soviet Union, offended British and American liberal intellectuals, many of whom regarded Stalin as a defender of freedom against Fascist aggression.\n\nThe search reveals how Orwell's firsthand experience of Soviet suppression of Republican allies in Barcelona during the Spanish Civil War profoundly shaped his understanding of totalitarianism and influenced his later masterworks."
+    ],
+    "durationSeconds": 23.865765810000013
+  }
+}

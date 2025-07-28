@@ -1,0 +1,62 @@
+{
+  "session_id": "50a1a9ee-e5bd-4af5-b1be-889513e755a8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/50a1a9ee-e5bd-4af5-b1be-889513e755a8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Fahrenheit 451 awards Hugo Award National Book Award critical recognition anniversary editions"
+  },
+  "tool_response": {
+    "query": "Fahrenheit 451 awards Hugo Award National Book Award critical recognition anniversary editions",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01CBv93vUCyXrAYGoAngMQDv",
+        "content": [
+          {
+            "title": "Fahrenheit 451 - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Fahrenheit_451"
+          },
+          {
+            "title": "Announcing: Fahrenheit 451 by Ray Bradbury - Suntup Editions",
+            "url": "https://suntup.press/fahrenheit-451/"
+          },
+          {
+            "title": "Fahrenheit 451 (1966) - Awards - IMDb",
+            "url": "https://www.imdb.com/title/tt0060390/awards/"
+          },
+          {
+            "title": "Fahrenheit 451 by Ray Bradbury - Artist Gift Edition \u2013 Suntup Editions",
+            "url": "https://shop.suntup.press/products/fahrenheit-451-by-ray-bradbury-artist-gift-edition"
+          },
+          {
+            "title": "sfadb : Ray Bradbury Awards",
+            "url": "https://www.sfadb.com/Ray_Bradbury"
+          },
+          {
+            "title": "Fahrenheit 451, the 50th Anniversary Edition: Bradbury, Ray: 9780345342966: Amazon.com: Books",
+            "url": "https://www.amazon.com/Fahrenheit-451-50th-Anniversary-Bradbury/dp/B004TLVDKW"
+          },
+          {
+            "title": "Fahrenheit 451 by Ray Bradbury - Numbered Edition \u2013 Suntup Editions",
+            "url": "https://shop.suntup.press/products/fahrenheit-451-by-ray-bradbury-numbered-edition"
+          },
+          {
+            "title": "Lot Detail - Ray Bradbury's Hugo Award for ''Fahrenheit 451'' -- The Most Prestigious Award in Science Fiction",
+            "url": "https://natedsanders.com/ray_bradbury_s_hugo_award_for___fahrenheit_451____-lot31626.aspx"
+          },
+          {
+            "title": "1954 Retro-Hugo Awards | The Hugo Award",
+            "url": "https://www.thehugoawards.org/hugo-history/1954-retro-hugo-awards/"
+          },
+          {
+            "title": "Fahrenheit 451 National Book Award | Ray Bradbury | 1st Edition",
+            "url": "https://www.blacksbookshop.com/pages/books/17677/ray-bradbury/fahrenheit-451-national-book-award"
+          }
+        ]
+      },
+      "Based on the web search results, here is what I found about Fahrenheit 451's awards, critical recognition, and anniversary editions:\n\n## Awards and Recognition\n\nIn 1954, Fahrenheit 451 won the American Academy of Arts and Letters Award in Literature and the Commonwealth Club of California Gold Medal.(no content)It later won the Prometheus \"Hall of Fame\" Award in 1984, and a \"Retro\" Hugo Award in 2004, one of only seven Best Novel \"Retro\" Hugo Awards ever given.\n\nThe novel also received broader recognition for Ray Bradbury's literary achievements: He was the recipient of the 2000 National Book Foundation's Medal for Distinguished Contribution to American Letters, the 2007 Pulitzer Prize Special Citation, and numerous other honors.\n\n## Critical Recognition\n\nUpon its release, Fahrenheit 451 was a critical success, albeit with notable dissenters; the novel's subject matter led to its censorship in apartheid South Africa and various schools in the United States.(no content)Highly regarded as Ray Bradbury's masterpiece, Fahrenheit 451 has maintained its literary significance over the decades.\n\n## Anniversary Editions\n\nSeveral special anniversary editions have been published:\n\n- **50th Anniversary Edition**: Fahrenheit 451, the 50th Anniversary Edition was published and is available on Amazon.\n\n- **60th Anniversary Edition**: The sixtieth-anniversary edition commemorates Ray Bradbury's masterpiece with a new introduction by Neil Gaiman; personal essays on the genesis of the novel by the author; a wealth of critical essays and reviews by Nelson Algren, Harold Bloom, Margaret Atwood, and others; rare manuscript pages and sketches from Ray Bradbury's personal archive\n\n- **Centennial Limited Edition**: This year marks the Centennial of Ray Bradbury's birth, and to celebrate the life and work of this beloved and visionary author, Suntup Editions is delighted to announce a fine press limited edition of Fahrenheit 451.(no content)This edition of Fahrenheit 451 by Ray Bradbury is presented in three states: Lettered, Numbered and Artist Gift editions... The editions measure 6\" x 9\" and feature six full color illustrations by Julia Griffin, as well as an introduction by New York Times bestselling author Neil Gaiman, which originally appeared in the 50th Anniversary edition.\n\nThe novel has been recognized as one of the most important works in science fiction literature, with multiple awards and continuing critical acclaim reflected in numerous commemorative editions."
+    ],
+    "durationSeconds": 23.46283215600066
+  }
+}

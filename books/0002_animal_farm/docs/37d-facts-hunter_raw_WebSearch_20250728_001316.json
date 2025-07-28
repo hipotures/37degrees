@@ -1,0 +1,62 @@
+{
+  "session_id": "abba3f5a-b5aa-49e3-9bda-f1f6b93e098c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/abba3f5a-b5aa-49e3-9bda-f1f6b93e098c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Animal Farm\" publication history reception censorship banned countries academic sources"
+  },
+  "tool_response": {
+    "query": "\"Animal Farm\" publication history reception censorship banned countries academic sources",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01Rm8uFka16ox1xKLYnPHy9k",
+        "content": [
+          {
+            "title": "Animal Farm | The Censorship Files",
+            "url": "https://thecensorshipfiles.wordpress.com/volume-1/issue-2/animal-farm/"
+          },
+          {
+            "title": "Banned Books Week: Animal Farm | CMU Libraries",
+            "url": "https://www.library.cmu.edu/about/news/2021-09/banned-books-week-animal-farm"
+          },
+          {
+            "title": "Animal Farm - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Animal_Farm"
+          },
+          {
+            "title": "All Are Equal: The History Behind George Orwell\u2019s Controversial Novel, Animal Farm\u2013by Hannah Huckins \u2013 The Ellen Reeder",
+            "url": "https://english.plymouthcreate.net/literature/banned-books/all-are-equal-the-history-behind-george-orwells-controversial-novel-animal-farm-by-hannah-huckins/"
+          },
+          {
+            "title": "Censorship History of Animal Farm - Banned Books",
+            "url": "https://censorshipofanimalfarmpage.weebly.com/censorship-history-of-animal-farm.html"
+          },
+          {
+            "title": "Animal Farm. The History of Censorship | by Rolens carry | Medium",
+            "url": "https://rolens.medium.com/animal-farm-bba7faa73526"
+          },
+          {
+            "title": "Banned Books: Animal Farm Revisited \u2013 Books We Read",
+            "url": "https://sites.rutgers.edu/books-we-read/animal-farm/"
+          },
+          {
+            "title": "Animal Farm: Banned by the Soviets, Promoted by the CIA - PEN America",
+            "url": "https://pen.org/animal-farm-banned-by-the-soviets-promoted-by-the-cia/"
+          },
+          {
+            "title": "Animal Farm - George Orwell | Censored - the books they didn't want us to read | Birmingham City Council",
+            "url": "https://www.birmingham.gov.uk/info/50138/leisure_and_learning/1435/censored_-_the_books_they_didnt_want_us_to_read/8"
+          },
+          {
+            "title": "Why Was Animal Farm Banned? - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/why-was-animal-farmed-banned.html"
+          }
+        ]
+      },
+      "I've conducted a comprehensive web search on the publication history, reception, censorship, and academic sources related to George Orwell's \"Animal Farm.\" Here's what I found:\n\n## Publication History\n\nAnimal Farm was first published in England on 17 August 1945, though Animal Farm was denied four times by different publishers. One publisher agreed to publish the book at first but later changed his decision after the Ministry of Information suggested that they shouldn't infuriate Britain's ally. The publication process was significantly hindered by rejection by at least five English publishers and fifteen others in the US. The rejection of publication was due to fear of giving \"offense to our Russian allies\". It was then published in the United States one year later by the Harcourt Brace & Company.\n\n## Censorship and Bans\n\n### Soviet Union and Communist Countries\nThe book was forbidden to circulate in the Soviet Union after it was first published in 1945, and the ban continued until the late 1980s, when the Soviet Union collapsed. The book was immediately banned in the Soviet Union, Cuba, and China, which are all communist countries that didn't want their government to be criticized. Because of its illegality, many in Soviet-controlled territory first read it in pirated, 'samizdat' form.\n\n### United States\nWhile not banned nationally, the book faced numerous challenges in American schools. A censorship survey conducted in DeKalb County, Georgia, relating to the years 1979\u20131982, revealed that many schools had attempted to limit access to Animal Farm due to its \"political theories\". A superintendent in Bay County, Florida, banned Animal Farm at the middle school and high school levels in 1987. The Board quickly brought back the book, however, after receiving complaints of the ban as \"unconstitutional\". Additionally, In 1963-68 in Wisconsin the book was challenged because it of phrases in it like, \"masses will revolt\". More schools at that time in New York did not want to teach a book that they thought was written by a communist.\n\n### Other Countries\nALA also mentions the way that the book was prevented from being featured at the International Book Fair in Moscow, Russia, in 1977 and banned from schools in the United Arab Emirates for references to practices or actions that defy Arab or Islamic beliefs, such as pigs or alcohol. Today Animal Farm is still banned in Cuba, Kenya, and the United Arab Emirates.\n\n## Reception and Academic Analysis\n\n### Initial Reception\nSome book reviews said the book was written poorly and that was why it didn't deserve to get published and that its bad reception was not necessarily due to its focus on totalitarian regimes. For example, an article published in 1946 written by George Soule said that \"The thoughtful reader must be further disturbed by the lack of clarity in the main intention of the author\". However, other people said that Orwell's writing gave the book more authenticity with his knowledge of animals and farm life and understood his allegories.\n\n### Academic Recognition\nIn his famous Encyclopedia of Censorship, Jonathon Green described Orwell as \"a staunch believer in human freedom and social justice\". Green states that Animal Farm was \"subject to censorship challenges,\" because it \"protested totalitarianism\". An allegorical fairy tale on the dangers of authoritarianism and how \"absolute power corrupts absolutely,\" Orwell uses the setting of an animal uprising against their human masters on an English farm as an indirect representation of the 1917 Russian Revolution and the totalitarian Stalinist era to follow. The work explores and comments on the dangers of authoritarian control and the cult of personality inherent within it.\n\n## Academic Sources Referenced\n\nThe search revealed several academic sources and scholarly works:\n\n- Green, J., & Karolides, N. J. (2005). The encyclopedia of censorship. Facts On File\n- Karolides, N. J. (1998). Literature suppressed on political grounds. Facts on File\n- Karolides, N. J., Bald, M., & Sova, D. B. (2011). 120 banned books: censorship histories of world literature (2nd ed.). Facts on File, Inc.\n- Animal Farm: Pastoralism and Politics: A Student's Companion to the Novel Smyer, Richard I. (1988) \"Analyzes Orwell's famous satire, describes its background and themes, and looks at its cultural reception.\"\n\nThe search results demonstrate that Animal Farm has had a complex publication and reception history, marked by initial publication difficulties, widespread censorship in communist countries, ongoing challenges in educational settings, and significant academic study as both a literary work and a historical allegory."
+    ],
+    "durationSeconds": 36.91004743099998
+  }
+}

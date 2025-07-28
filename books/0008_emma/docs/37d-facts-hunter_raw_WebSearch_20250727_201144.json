@@ -1,0 +1,63 @@
+{
+  "session_id": "43e12ea9-84a2-4345-8d62-d857a85435cd",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/43e12ea9-84a2-4345-8d62-d857a85435cd.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Emma Jane Austen polska m\u0142odzie\u017c TikTok BookTok pokolenie Z opinie"
+  },
+  "tool_response": {
+    "query": "Emma Jane Austen polska m\u0142odzie\u017c TikTok BookTok pokolenie Z opinie",
+    "results": [
+      "I'll perform a web search for that query about Emma Jane Austen, Polish youth, TikTok, BookTok, Generation Z, and opinions.",
+      {
+        "tool_use_id": "srvtoolu_01SyYTk9viHttV7QcoyujXSk",
+        "content": [
+          {
+            "title": "\u201eEmma\u201d Jane Austen",
+            "url": "https://wielkibuk.com/2014/09/15/emma-jane-austen/"
+          },
+          {
+            "title": "Emma - Jane Austen | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5075511/emma"
+          },
+          {
+            "title": "In a world of BookTok, meet the young women obsessed with Jane Austen",
+            "url": "https://www.cosmopolitan.com/uk/entertainment/a63633376/jane-austen-gen-z-fans/"
+          },
+          {
+            "title": "Emma - Oceny, opinie, ceny - Jane Austen - Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/ksiazka/4917323/emma"
+          },
+          {
+            "title": "Emma Jane Austen ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/emma-jane-austen"
+          },
+          {
+            "title": "TikTok i ksi\u0105\u017cki, czyli co to jest booktok? - CZYTAM - Empik Pasje",
+            "url": "https://www.empik.com/pasje/tiktok-i-ksiazki-czyli-co-to-jest-booktok,135027,a"
+          },
+          {
+            "title": "TikTok wraz z polskimi pisarzami zach\u0119ca do czytania w ramach akcji BookTok z okazji \u015awiatowego Dnia Ksi\u0105\u017cki - Marketing przy Kawie",
+            "url": "https://marketingprzykawie.pl/espresso/tiktok-wraz-polskimi-pisarzami-zacheca-czytania-ramach-akcji-booktok-okazji-swiatowego-ksiazki/"
+          },
+          {
+            "title": "TOP 5 ksi\u0105\u017ckar, kt\u00f3re podbijaj\u0105 polski BookTok - Going. MORE - muzyka, kultura, lifestyle",
+            "url": "https://goingapp.pl/more/booktok-ksiazkary-tiktok/"
+          },
+          {
+            "title": "Pokolenie BookToka \u2013 Rynek ksi\u0105\u017cki",
+            "url": "https://rynek-ksiazki.pl/czasopisma/pokolenie-booktoka/"
+          },
+          {
+            "title": "\u201eBookTok kaza\u0142 mi to przeczyta\u0107\u201d",
+            "url": "https://krytykapolityczna.pl/kultura/czytaj-dalej/magdalena-adamus-booktok-co-czytaja-nastolatki/"
+          }
+        ]
+      },
+      "I found search results about Jane Austen's \"Emma\" and its reception among Polish youth on BookTok and Generation Z. Here's what the search revealed:\n\n## Jane Austen's \"Emma\" and Polish Youth on BookTok\n\nThe search results show several interesting connections between Jane Austen's \"Emma\" and contemporary Polish BookTok culture:\n\n### Modern Comparisons and Relevance\n\nEmma has been described as \"a bit like an influencer of her times - confident, talkative, somewhat conceited, but at the same time extremely charismatic\" and that \"although the book was written in the 19th century, its heroine could easily start an Instagram account and chronicle the social life of her town.\"(no content)The novel contains \"many romantic threads - from mismatched couples, through hidden feelings, to gossip and intrigue that could happen in today's high school or on TikTok.\"\n\n### Jane Austen's Appeal to Generation Z\n\nThe search found significant evidence of Jane Austen's popularity among young readers globally:\n\nFan edits of Austen adaptations, particularly the 2005 Pride and Prejudice movie, are \"everywhere on TikTok,\" and \"Fable, a book app favoured by Gen-Z, is filled with Jane Austen book clubs.\"(no content)Young Austen fans \"gravitate towards the subtlety found within her romance plots, something that is arguably missing from the BookTok romcom genre of today,\" with one fan noting that Austen's style is \"a lot more elegant and classic\" compared to modern BookTok romance novels.\n\n### Polish BookTok Scene\n\nResearch shows that BookTok significantly influences Generation Z's reading habits, with 59% of respondents aged 16-25 saying BookTok helped them discover a passion for reading, and 55% seeking book recommendations on the platform.(no content)Polish BookTok focuses on \"various reading inspirations and recommendations,\" with the most popular genres being \"Young Adult and New Adult.\"\n\n### Literary Appreciation Across Generations\n\nJane Austen's works are noted for their universal appeal, as \"their audience expands and grows, and admiration and appreciation pass from generation to generation,\" being \"beloved among Western readers worldwide.\"\n\nThe search results suggest that while classic literature like Jane Austen's \"Emma\" may not be the primary focus of Polish BookTok (which tends toward contemporary Young Adult fiction), there is growing appreciation for Austen's timeless themes and characters among younger readers who find her work surprisingly relevant to modern social media culture."
+    ],
+    "durationSeconds": 21.885010168001056
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "session_id": "eefb55a0-c8d5-41bc-8dcc-6acbd6e5a3ba",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/eefb55a0-c8d5-41bc-8dcc-6acbd6e5a3ba.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "nowi bogaci Polska transformacja ustrojowa biznes ostentacja kasa flex kultura"
+  },
+  "tool_response": {
+    "query": "nowi bogaci Polska transformacja ustrojowa biznes ostentacja kasa flex kultura",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01FuHe9BBaGw1ywKZ4MFfKRj",
+        "content": [
+          {
+            "title": "Transformacja ustrojowa i jej przebieg",
+            "url": "https://zpe.gov.pl/pdf/PAsQrvL0D"
+          },
+          {
+            "title": "Transformacja gospodarcza i ustrojowa. Pocz\u0105tki III RP - wa\u017cn@historia - zpe.gov.pl",
+            "url": "https://zpe.gov.pl/a/transformacja-gospodarcza-i-ustrojowa-poczatki-iii-rp/DjFjr3TZK"
+          },
+          {
+            "title": "Transformacja systemowa w Polsce \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Transformacja_systemowa_w_Polsce"
+          },
+          {
+            "title": "Transformacja ustrojowa \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Transformacja_ustrojowa"
+          },
+          {
+            "title": "KULTURA BIZNESU",
+            "url": "https://www.parp.gov.pl/storage/publications/pdf/2014_kultura_biznesu.pdf"
+          },
+          {
+            "title": "Kultura biznesu - PARP - Centrum Rozwoju M\u015aP",
+            "url": "https://www.parp.gov.pl/publikacje/publication/kultura-biznesu"
+          },
+          {
+            "title": "Transformacja systemowa w Polsce - Uniwersytet Wroc\u0142awski",
+            "url": "https://www.repozytorium.uni.wroc.pl/Content/34839/012.pdf"
+          },
+          {
+            "title": "kultura w biznesie. Kreatywno\u015b\u0107 w kulturze",
+            "url": "https://economicus.ue.katowice.pl/docstore/download/@UEKTf8784d20af2c4c62b15bd3dba3e0dd83/Kwiecien_Nocon_tekst.pdf"
+          },
+          {
+            "title": "100 najbogatszych Polak\u00f3w \"Forbesa\". Zmiana na podium, w\u0142a\u015bciciel Dino wiceliderem",
+            "url": "https://www.money.pl/gospodarka/100-najbogatszych-polakow-forbesa-zmiana-na-podium-wlasciciel-dino-wiceliderem-6869654941964928a.html"
+          },
+          {
+            "title": "Wfr",
+            "url": "https://www.wfr.org.pl/wp-content/uploads/2020/02/Etykieta-biznesu-w-kontaktach-mi%C4%99dzynarodowych.pdf"
+          }
+        ]
+      },
+      "The search results provide information about Poland's post-1989 systemic transformation, but they are in Polish and don't directly address some of the specific cultural aspects mentioned in the query like \"ostentacja\" (ostentation), \"flex\" culture, or the phenomenon of \"nowi bogaci\" (nouveau riche). Let me search for more specific information about the nouveau riche culture in post-transformation Poland.",
+      {
+        "tool_use_id": "srvtoolu_017zAZWSXfskwvtF5c2DypFB",
+        "content": [
+          {
+            "title": "Polska kultura: Odkryj jej bogactwo i r\u00f3\u017cnorodno\u015b\u0107 \u2013 historiekryminalne.pl",
+            "url": "https://historiekryminalne.pl/polska-kultura-odkryj-jej-bogactwo-i-roznorodnosc/"
+          },
+          {
+            "title": "(Nie)dyskretny urok lat 90. | Uciecha z obciachu i urok nostalgii - Polityka.pl",
+            "url": "https://www.polityka.pl/tygodnikpolityka/kultura/ksiazki/1508632,1,niedyskretny-urok-lat-90.read"
+          },
+          {
+            "title": "Polska sztuka krytyczna lat 90. - Polska sztuka krytyczna lat 90. - zpe.gov.pl",
+            "url": "https://zpe.gov.pl/a/polska-sztuka-krytyczna-lat-90/DTwbnjTYE"
+          },
+          {
+            "title": "Lata 90. XX wieku \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Lata_90._XX_wieku"
+          },
+          {
+            "title": "Zmiany kulturowe i spo\u0142eczne po II wojnie \u015bwiatowej - wa\u017cn@historia - zpe.gov.pl",
+            "url": "https://zpe.gov.pl/a/zmiany-kulturowe-i-spoleczne-po-ii-wojnie-swiatowej/DixH7J2oo"
+          },
+          {
+            "title": "Kultura i sztuka 1945-1989 - Polska w XX wieku | dzieje.pl - Historia Polski",
+            "url": "https://dzieje.pl/content/wprowadzenie-27"
+          },
+          {
+            "title": "Lata 90. XX wieku | Pismo Folkowe",
+            "url": "https://pismofolkowe.pl/artykul/lata-90-xx-wieku-5408"
+          },
+          {
+            "title": "Nawet bardzo bogaci Polacy nie s\u0105 rozrzutni. - rp.pl",
+            "url": "https://www.rp.pl/plus-minus/art6358871-nawet-bardzo-bogaci-polacy-nie-sa-rozrzutni"
+          },
+          {
+            "title": "Najbogatsi ludzie PRL-u. Jak zdoby\u0107 maj\u0105tek w Polsce Ludowej?",
+            "url": "https://hrabiatytus.pl/2018/07/12/najbogatsi-ludzie-prl-u-jak-zdobyc-majatek-w-polsce-ludowej/"
+          },
+          {
+            "title": "Najbogatsi Polacy przed 40. Na li\u015bcie najm\u0142odszych milioner\u00f3w w Polsce m.in. Lewandowscy, Iga \u015awi\u0105tek i Friz | Glamour",
+            "url": "https://www.glamour.pl/news/najbogatsi-polacy-przed-40-na-liscie-najmlodszych-milionerow-w-polsce-m-in-lewandowscy-iga-swiatek-i-friz-221208091206/"
+          }
+        ]
+      },
+      "The search results provide helpful information about Polish culture and the transformation period, but I need to search for more specific information about the \"nouveau riche\" (nowi bogaci) phenomenon and ostentation culture in post-transformation Poland.",
+      {
+        "tool_use_id": "srvtoolu_01AmddDWEQF3fj8FHqLYcVRa",
+        "content": []
+      },
+      "Based on the search results I've gathered, I can provide you with information about the topics covered in your search query related to Poland's post-1989 transformation, the nouveau riche phenomenon, business culture, and ostentation:\n\n## Polish Systemic Transformation and Business Culture\n\nThe systemic transformation in Poland refers to the comprehensive changes initiated in Poland in the 1980s and 1990s, which were aimed at building a free market, creating civil society, and democratization. The rebuilding of the state encompassed almost all spheres of social life, which is why researchers distinguish the following subcategories of transformation: constitutional transformation (implementing democratic institutions and procedures), economic transformation (creating a free market based on private property), and social transformation (changing social mentality, accepting new values).\n\n## Economic Transformation and New Business Opportunities\n\nThe changes that took place in Poland after 1989 occurred in various spheres of human activity. The political-economic, economic and socio-cultural system underwent transformation. Along with the breaking of the \"iron curtain\" and the beginning of the functioning of the free market, new products began to flow into the country: goods, services, and along with them ideas.\n\nThese changes not only aroused the need to possess in a society fascinated by novelty, but also influenced the change of prevailing patterns, behaviors and moral principles. Fulfilling their persuasive functions, they created in the consciousness of recipients the need for a new appearance. Citizens gained full freedom of consumption on every level of life.\n\n## Cultural and Social Changes in the 1990s\n\nUntil recently, the 1990s seemed ugly and unfashionable. Today the perspective is changing - as always in culture. A generation that treats that decade as an idyllic childhood memory has entered adulthood, and phenomena associated with it will return, in accordance with the sacred principle of the 20-year cycle of culture.\n\nThis principle states that about 20 years is enough for what seemed tacky to turn into an attractive cultural offer. This was the case with the 1960s returning during the 1980s decade, the recreation of the 1970s in the 1990s, and so on.\n\n## Wealth and Ostentation in Modern Poland\n\nAs we mature, certain values become increasingly important, and ostentation in publicly showing money is perceived as something in exceptionally bad taste. However, there are people with very fresh money who carry photos of their dozen or so cars in their wallets close to their hearts and eagerly show them to everyone.\n\nPoland has its own specificity. Even in the capital, there is no street like New York's 5th Avenue, where the richest like to show off and shop.\n\n## Wealthy Poles and Business Development\n\nContemporary lists show that raising the threshold for getting on the list of the richest is evidence of the great entrepreneurship of Polish business. \"Despite the weak environment, new players keep appearing who can build quite large businesses\".\n\nThe search results provide context about Poland's transformation period, cultural changes in the 1990s, and attitudes toward wealth display, though they don't extensively cover the specific \"flex culture\" terminology or detailed analysis of nouveau riche ostentation during the immediate post-transformation period. The materials suggest that while wealth accumulation increased significantly after 1989, Polish culture tends to be more reserved about ostentatious displays of wealth compared to some other cultures."
+    ],
+    "durationSeconds": 38.52233978700079
+  }
+}

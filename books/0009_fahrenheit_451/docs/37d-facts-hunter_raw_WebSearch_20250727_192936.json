@@ -1,0 +1,205 @@
+{
+  "session_id": "50a1a9ee-e5bd-4af5-b1be-889513e755a8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/50a1a9ee-e5bd-4af5-b1be-889513e755a8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Polish teenagers social media screen time statistics 2024 2025 reading habits books"
+  },
+  "tool_response": {
+    "query": "Polish teenagers social media screen time statistics 2024 2025 reading habits books",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01X1weSCVnu6aR4arh4ujZU5",
+        "content": [
+          {
+            "title": "Teens, Social Media and Technology 2024 | Pew Research Center",
+            "url": "https://www.pewresearch.org/internet/2024/12/12/teens-social-media-and-technology-2024/"
+          },
+          {
+            "title": "Teens are spending nearly 5 hours daily on social media. ...",
+            "url": "https://www.apa.org/monitor/2024/04/teen-social-use-mental-health"
+          },
+          {
+            "title": "Revealing Average Screen Time Statistics for 2025",
+            "url": "https://backlinko.com/screen-time-statistics"
+          },
+          {
+            "title": "Teens, Social Media and Technology 2022 | Pew Research Center",
+            "url": "https://www.pewresearch.org/internet/2022/08/10/teens-social-media-and-technology-2022/"
+          },
+          {
+            "title": "Teens and social media: Key findings from Pew Research Center surveys | Pew Research Center",
+            "url": "https://www.pewresearch.org/short-reads/2023/04/24/teens-and-social-media-key-findings-from-pew-research-center-surveys/"
+          },
+          {
+            "title": "Average Screen Time Statistics 2025 [Global Data]",
+            "url": "https://www.demandsage.com/screen-time-statistics/"
+          },
+          {
+            "title": "Full article: Exploring teen well-being and social media use during the pandemic summer of 2020",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/02673843.2024.2447464"
+          },
+          {
+            "title": "Teens Spend Average of 4.8 Hours on Social Media Per Day",
+            "url": "https://news.gallup.com/poll/512576/teens-spend-average-hours-social-media-per-day.aspx"
+          },
+          {
+            "title": "Social Media and Teens",
+            "url": "https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Social-Media-and-Teens-100.aspx"
+          },
+          {
+            "title": "Teens today spend more time on digital media, less ...",
+            "url": "https://www.apa.org/news/press/releases/2018/08/teenagers-read-book"
+          }
+        ]
+      },
+      "I found some general teen social media statistics but nothing specifically about Polish teenagers. Let me search more specifically for Polish youth digital habits and reading statistics.",
+      {
+        "tool_use_id": "srvtoolu_01WyKLAmpSZrFU4omPW28zuV",
+        "content": [
+          {
+            "title": "Teens today spend more time on digital media, less ...",
+            "url": "https://www.apa.org/news/press/releases/2018/08/teenagers-read-book"
+          },
+          {
+            "title": "Revealing Average Screen Time Statistics for 2025",
+            "url": "https://backlinko.com/screen-time-statistics"
+          },
+          {
+            "title": "Digital 2024: Poland \u2014 DataReportal \u2013 Global Digital Insights",
+            "url": "https://datareportal.com/reports/digital-2024-poland"
+          },
+          {
+            "title": "Apa",
+            "url": "https://www.apa.org/monitor/2024/04/teen-social-use-mental-health"
+          },
+          {
+            "title": "Screen Time Statistics: Average Screen Time by Country",
+            "url": "https://www.comparitech.com/tv-streaming/screen-time-statistics/"
+          },
+          {
+            "title": "Average Screen Time Statistics 2025 [Global Data]",
+            "url": "https://www.demandsage.com/screen-time-statistics/"
+          },
+          {
+            "title": "30+ Average Screen Time Statistics for 2024 | SlickText",
+            "url": "https://www.slicktext.com/blog/2023/01/30-key-screen-time-statistics-for-2022-2023/"
+          },
+          {
+            "title": "13 Reading Statistics to Know [June 2025 Update]",
+            "url": "https://scottmax.com/reading-statistics/"
+          },
+          {
+            "title": "Average Screen Time Statistics & Facts (Usage) - Kutest Kids",
+            "url": "https://www.kutestkids.com/blog/average-screen-time-statistics-facts-usage"
+          },
+          {
+            "title": "Screen time: US teens' and parents' experiences, approaches | Pew Research Center",
+            "url": "https://www.pewresearch.org/internet/2024/03/11/how-teens-and-parents-approach-screen-time/"
+          }
+        ]
+      },
+      "Let me search more specifically for Polish youth reading habits and literacy statistics:",
+      {
+        "tool_use_id": "srvtoolu_01KdouEaPeynsULM5EyvMiMk",
+        "content": [
+          {
+            "title": "Poland: reading rates by age 2018 | Statista",
+            "url": "https://www.statista.com/statistics/1060909/poland-reading-rates-by-age/"
+          },
+          {
+            "title": "Apa",
+            "url": "https://www.apa.org/news/press/releases/2018/08/teenagers-read-book"
+          },
+          {
+            "title": "Teenagers: frequency of reading books Germany 2024 | Statista",
+            "url": "https://www.statista.com/statistics/381324/teenagers-frequency-of-reading-books-by-age-group-germany/"
+          },
+          {
+            "title": "Federal Data on Reading for Pleasure: All Signs Show a Slump | National Endowment for the Arts",
+            "url": "https://www.arts.gov/stories/blog/2024/federal-data-reading-pleasure-all-signs-show-slump"
+          },
+          {
+            "title": "Children and Young People's Reading Research Report 2023 | National Literacy Trust | National Literacy Trust",
+            "url": "https://literacytrust.org.uk/research-services/research-reports/children-and-young-peoples-reading-in-2023/"
+          },
+          {
+            "title": "Reading Statistics and Facts You Should Know - Kutest Kids",
+            "url": "https://www.kutestkids.com/blog/reading-statistics-and-facts-you-should-know-8be48"
+          },
+          {
+            "title": "Children and young people's reading in 2024",
+            "url": "https://literacytrust.org.uk/research-services/research-reports/children-and-young-peoples-reading-in-2024/"
+          },
+          {
+            "title": "Among many U.S. children, reading for fun has become less common | Pew Research Center",
+            "url": "https://www.pewresearch.org/short-reads/2021/11/12/among-many-u-s-children-reading-for-fun-has-become-less-common-federal-data-shows/"
+          },
+          {
+            "title": "Poland: 'Best Year in a Decade' in Reading Rates",
+            "url": "https://publishingperspectives.com/2024/09/poland-survey-cites-best-year-in-a-decade-reading-rates/"
+          },
+          {
+            "title": "Poland: number of books read 2021 | Statista",
+            "url": "https://www.statista.com/statistics/1276234/poland-number-of-books-read/"
+          }
+        ]
+      },
+      "Let me search for more recent Polish youth social media and screen time data:",
+      {
+        "tool_use_id": "srvtoolu_01959zGTdmWSjoEQmBvAttVX",
+        "content": [
+          {
+            "title": "Poland: social media users by age 2024 | Statista",
+            "url": "https://www.statista.com/statistics/1044429/poland-social-media-users-by-age/"
+          },
+          {
+            "title": "Social media in Poland \u2013 marketing statistics to know in 2024 | All 4 Comms",
+            "url": "https://all4comms.com/social-media-in-poland-marketing-statistics-to-know-in-2024/"
+          },
+          {
+            "title": "Digital 2024: Poland \u2014 DataReportal \u2013 Global Digital Insights",
+            "url": "https://datareportal.com/reports/digital-2024-poland"
+          },
+          {
+            "title": "Social Media users in Poland - 2024",
+            "url": "https://napoleoncat.com/stats/social-media-users-in-poland/2024/"
+          },
+          {
+            "title": "Digital in Poland \u2014 DataReportal \u2013 Global Digital Insights",
+            "url": "https://datareportal.com/digital-in-poland"
+          },
+          {
+            "title": "Teens, Social Media and Technology 2024 | Pew Research Center",
+            "url": "https://www.pewresearch.org/internet/2024/12/12/teens-social-media-and-technology-2024/"
+          },
+          {
+            "title": "Social Media Stats Poland | Statcounter Global Stats",
+            "url": "https://gs.statcounter.com/social-media-stats/all/poland"
+          },
+          {
+            "title": "Social Media in Poland - 2023 Stats & Platform Trends - OOSGA",
+            "url": "https://oosga.com/social-media/pol/"
+          },
+          {
+            "title": "Poland: leading social media for computers 2024 | Statista",
+            "url": "https://www.statista.com/statistics/1086219/poland-leading-social-media-for-computers/"
+          },
+          {
+            "title": "Poland: social media market share 2024 | Statista",
+            "url": "https://www.statista.com/statistics/979859/poland-social-media-market-share/"
+          }
+        ]
+      },
+      "Let me search for more specific information about Polish teenagers and screen time hours:",
+      {
+        "tool_use_id": "srvtoolu_017t2cmEfUJYpnd3p8egsGGQ",
+        "content": []
+      },
+      "Based on my search results, I can provide you with information about Polish teenagers' social media, screen time, and reading habits for 2024-2025. However, I found limited data specifically about Polish teenagers, so I'll include the most relevant Polish data along with broader global and European context.\n\n## Polish Social Media Usage (2024)\n\nYoung adults between 18 and 24 years old were the most likely to be registered on social media platforms in Poland in 2024, with 100 percent of respondents.(no content)Poland was home to 27.90 million social media users in January 2024, equating to 68.8 percent of the total population.(no content)According to the latest report from Santander Consumer Bank titled 'Polak\u00f3w Portfel W\u0142asny: Polacy w sieci' (Polish People's Wallet: Poles on the internet), 75% of Poles spend between 3 to 4 hours online daily.\n\nPlatform preferences in Poland:\n- For years, Facebook has remained the most popular social media platform in Poland. Currently, there are 17.10 million Facebook users in Poland.\n- Over the last 12 months, TikTok has seen enormous increases in advertising reach. The potential reach increased by 2.2 million (+23.2%) between October 2023 and January 2024.\n\n## Global Teen Screen Time Statistics (2024-2025)\n\nSince specific Polish teen data is limited, here are relevant global statistics that likely reflect Polish teens' patterns:\n\nThis use amounts to 4.8 hours per day for the average U.S. teen across seven social media platforms tested in the survey.(no content)Across age groups, the average time spent on social media ranges from as low as 4.1 hours per day for 13-year-olds to as high as 5.8 hours per day for 17-year-olds. Girls spend nearly an hour more on social media than boys (5.3 vs. 4.4 hours, respectively).(no content)Nearly half (41%) of American teenagers (13-18) have a screen time of more than 8 hours per day.(no content)This increase reflects a growing trend over the past decade, particularly alarming among teenagers, where 41% report spending more than 8 hours in front of screens.(no content)Nearly half of U.S. teens (46%) say they're on the internet almost constantly.\n\n## Reading Habits in Poland\n\nIn a positive development for Poland's publishing industry, an estimated 43 percent of Poles who were surveyed said they'd read at least one book in 2023, up 9 percent compared with responses reported in 2022. Collected by the country's state-run Polish National Library for its annual report, this data indicates that Poland in 2023 fielded its strongest book-reading level among respondents in some 10 years. \"In 2023,\" text from the National Library report reads, \"43 percent of respondents said that they had read at least one book in the 12 months preceding the survey.(no content)15- to 24-year-olds were most likely to have read a book during the year - most likely because of school obligations. However, this data is from 2018, and People aged 25 to 39 buy books slightly more often [than the average reader], while those from older generations and teenagers buy them less often.\n\n## Global Context for Teen Reading Decline\n\nThe global trend shows concerning patterns that likely affect Polish teens:\n\nIn a surprising twist, recent statistics reveal that a staggering one in three teenagers hasn't cracked open a book purely for enjoyment in an entire year.(no content)Just 2 in 5 (43.4%) children and young people aged 8 to 18 said they enjoyed reading in their free time in 2023. This is the lowest level since we first asked the question in 2005. The 2024 data is even more concerning: Just 1 in 3 (34.6%) children and young people aged 8 to 18 said that they enjoyed reading in their free time in 2024. Reading enjoyment levels have decreased by 8.8 percentage points over the past year alone.\n\n## Key Findings Summary\n\nWhile specific data for Polish teenagers is limited, the available evidence suggests that Polish teens likely follow global patterns:\n- High social media engagement (4-6 hours daily)\n- Universal platform adoption among 18-24 age group\n- Declining reading for pleasure\n- Increasing screen time overall\n- Poland shows some positive reading trends compared to global averages, but teenagers specifically appear less engaged with books than young adults\n\nThe lack of comprehensive Polish teen-specific data represents a research gap that would benefit from targeted studies."
+    ],
+    "durationSeconds": 57.415778737999496
+  }
+}

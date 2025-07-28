@@ -1,0 +1,62 @@
+{
+  "session_id": "abba3f5a-b5aa-49e3-9bda-f1f6b93e098c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/abba3f5a-b5aa-49e3-9bda-f1f6b93e098c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "CIA Animal Farm balloons Iron Curtain \"Aedinosaur\" operation 1952-1957 Poland"
+  },
+  "tool_response": {
+    "query": "CIA Animal Farm balloons Iron Curtain \"Aedinosaur\" operation 1952-1957 Poland",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01QC578CpQKJBssCAoQ1wr4g",
+        "content": [
+          {
+            "title": "Animal Farm: The Movie That Helped CIA Spies Win the Cold War",
+            "url": "https://spyscape.com/article/how-cia-spies-used-george-orwell-to-help-win-the-cold-war"
+          },
+          {
+            "title": "The CIA Slipped 'Animal Farm' Over The Iron Curtain Via Balloon | Cracked.com",
+            "url": "https://www.cracked.com/article_32329_the-cia-slipped-animal-farm-over-the-iron-curtain-via-balloon.html"
+          },
+          {
+            "title": "Animal Farm - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Animal_Farm"
+          },
+          {
+            "title": "Novel explosives of the Cold War | The Spectator",
+            "url": "https://www.spectator.co.uk/article/novel-explosives-of-the-cold-war/"
+          },
+          {
+            "title": "10 Facts About George Orwell's Animal Farm",
+            "url": "https://www.mentalfloss.com/article/626689/animal-farm-book-facts"
+          },
+          {
+            "title": "Animal Farm - Own a Spy History Icon",
+            "url": "https://spyscape.com/animalfarm"
+          },
+          {
+            "title": "Animal Farm \u2013 Laura Langston",
+            "url": "https://lauralangston.com/animal-farm/"
+          },
+          {
+            "title": "Animal Farm and a CIA Propaganda Operation | #118",
+            "url": "https://iwtkquiz.substack.com/p/animal-farm-and-a-cia-propaganda"
+          },
+          {
+            "title": "On Orwell",
+            "url": "https://redsails.org/on-orwell/"
+          },
+          {
+            "title": "Operation Aedinosaur: The CIA's Mission to Undermine Soviet Censorship During the Cold War - Sideprojects",
+            "url": "https://sideprojects.site/military/operation-aedinosaur-the-cias-mission-to-undermine-soviet-censorship-during-the-cold-war/"
+          }
+        ]
+      },
+      "Based on the web search results, I found detailed information about the CIA operation you queried. Here's what the search revealed:\n\nOperation Aedinosaur was a CIA literary propaganda mission that operated from 1952 to 1957. The operation involved launching hot air balloons from West Germany and sending them drifting across the Iron Curtain to deliver copies of George Orwell's novel \"Animal Farm.\"\n\nFrom three sites in West Germany, the CIA launched millions of ten-foot balloons carrying copies of Animal Farm into Poland, Hungary, and Czechoslovakia. The mission undermined Soviet censorship and used literature as a secret weapon to stir up intellectual debate about communism.\n\nThe communist countries attempted to counter this operation: The military in those countries eventually caught on and had orders to fire on the balloons when they spotted them, but they couldn't spot them all. The airforces were ordered to shoot the balloons down.\n\nDespite these countermeasures, many thousands of copies successfully infiltrated the Iron Curtain and found their way into the hands of Soviet intelligentsia, spreading from person to person and causing those exposed to question their rulers and ideology.\n\nThe operation was part of a broader CIA cultural warfare strategy during the Cold War, where books were considered 'the most important weapon of strategic (long-term) propaganda' and were lobbed into enemy territory like grenades."
+    ],
+    "durationSeconds": 15.552581790999975
+  }
+}

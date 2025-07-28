@@ -1,0 +1,62 @@
+{
+  "session_id": "50a1a9ee-e5bd-4af5-b1be-889513e755a8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/50a1a9ee-e5bd-4af5-b1be-889513e755a8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "polscy autorzy dystopia science fiction inspirowani Bradbury Lem Dukaj Ziemia\u0144ski"
+  },
+  "tool_response": {
+    "query": "polscy autorzy dystopia science fiction inspirowani Bradbury Lem Dukaj Ziemia\u0144ski",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01Dv13psDxnygYQvfYnXBswb",
+        "content": [
+          {
+            "title": "Polska fantastyka. Najlepsi polscy pisarze ksi\u0105\u017cek fantasy | Gandalf Blog",
+            "url": "https://www.gandalf.com.pl/blog/polska-fantastyka-najlepsi-polscy-pisarze-fantasy/"
+          },
+          {
+            "title": "5 najlepszych ksi\u0105\u017cek o dystopiach - Warsaw Enterprise Institute",
+            "url": "https://wei.org.pl/2023/aktualnosci/pstaciwa/5-najlepszych-ksiazek-o-dystopiach/"
+          },
+          {
+            "title": "Powie\u015b\u0107 dystopijna i historia alternatywna. 13 najlepszych ksi\u0105\u017cek na lato i wakacje 2022 | naTemat.pl",
+            "url": "https://natemat.pl/blogi/marcinnowak/351621,powiesc-dystopijna-i-historia-alternatywna-co-warto-przeczytac-w-wakacje-2021"
+          },
+          {
+            "title": "Najlepsi polscy pisarze fantasy \u2013 ranking - Blog Tantis.pl",
+            "url": "https://tantis.pl/blog/najlepsi-polscy-pisarze-fantasy-ranking/"
+          },
+          {
+            "title": "Najlepsza polska fantastyka \u2013 TOP autor\u00f3w, kt\u00f3rych warto pozna\u0107 - CZYTAM - Empik Pasje",
+            "url": "https://www.empik.com/pasje/najlepsza-polska-fantastyka-top-autorow-ktorych-warto-poznac,133128,a"
+          },
+          {
+            "title": "Jacek Dukaj - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Jacek_Dukaj"
+          },
+          {
+            "title": "Nie tylko Lem, czyli co w polskiej SF piszczy - Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/nie-tylko-lem-czyli-co-w-polskiej-sf-piszczy"
+          },
+          {
+            "title": "Droga do science fiction. Od Heinleina do dzisiaj | Poul Anderson, Isaac Asimov, J.G. Ballard, Alfred Bester, Ray Bradbury, John Brunner, Hal Clement, Samuel R. Delany, Philip K. Dick, Gordon R. Dickson, Harlan Ellison, Philip Jos\u00e9 Farmer, Joe Haldeman, Harry Harrison, Robert A. Heinlein, Ursula K. Le Guin, Fritz Leiber, Larry Niven, Frederik Pohl, Robert Sheckley, Robert Silverberg, Clifford D. Simak, Cordwainer Smith, Norman Spinrad, Theodore Sturgeon, William Tenn, Kurt Vonnegut, Roger Zelazny",
+            "url": "https://lubimyczytac.pl/ksiazka/60100/droga-do-science-fiction-od-heinleina-do-dzisiaj"
+          },
+          {
+            "title": "Nie tylko Lem, czyli co w polskiej SF piszczy | Aktualno\u015bci | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/aktualnosci/16075/nie-tylko-lem-czyli-co-w-polskiej-sf-piszczy"
+          },
+          {
+            "title": "Polscy tw\u00f3rcy science-fiction, kt\u00f3rych warto zna\u0107 - Allegro.pl",
+            "url": "https://allegro.pl/artykul/polscy-tworcy-science-fiction-ktorych-warto-znac-103771"
+          }
+        ]
+      },
+      "Based on the search results, I've found comprehensive information about Polish dystopian science fiction authors inspired by Bradbury, Lem, Dukaj, and Ziemia\u0144ski. Here's what the search revealed:\n\n## Polish Dystopian Science Fiction Authors\n\nThe search confirms that Polish science fiction features well-known authors like Lem, Sapkowski, Dukaj and others, with Stanis\u0142aw Lem, Janusz Zajdel and Jacek Dukaj being authors whose names are spoken with respect.\n\n### Key Authors Mentioned:\n\n**Jacek Dukaj** is particularly prominent in Polish dystopian science fiction. His novel \"Czarne oceany\" (Black Oceans) was written in 2001 and fits into the hard science fiction genre, describing Earth at the end of the 21st century facing technological singularity. The realism in presenting the boundaries of human understanding might be inspired by the works of Stanis\u0142aw Lem, and the secret relationship between science and power is explored in Dukaj's works, most notably in Black Oceans (2001), which is reminiscent of Lem's His Master's Voice (1968).\n\n**Andrzej Ziemia\u0144ski** is also mentioned as one of the authors of the best Polish fantasy with his cycle about Achaja and his works are published by Fabryka S\u0142\u00f3w.\n\n### Connections to Bradbury:\n\nThe search results show that Bradbury's dystopian world is one without books, where reading is forbidden and books are systematically burned, establishing him as a key influence in the dystopian genre.\n\n### Polish Science Fiction Heritage:\n\nPolish science fiction can boast such outstanding authors as Janusz A. Zajdel, Marek S. Huberath and Jacek Dukaj. Not only Stanis\u0142aw Lem's outstanding work made Polish science fiction literature famous worldwide, as there are other writers whose imagination and talent combine scientific issues with futurology and fiction in an extraordinary way.\n\nThe search results indicate that Polish dystopian science fiction has developed a rich tradition building on the foundations laid by Lem, with contemporary authors like Dukaj creating sophisticated works that explore themes of technological dystopia, alternative history, and social control - themes that clearly show influences from both Lem's philosophical approach and Bradbury's cautionary tales about technology and society."
+    ],
+    "durationSeconds": 20.807226517999545
+  }
+}

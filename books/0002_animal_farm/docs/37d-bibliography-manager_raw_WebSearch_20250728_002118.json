@@ -1,0 +1,38 @@
+{
+  "session_id": "abba3f5a-b5aa-49e3-9bda-f1f6b93e098c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/abba3f5a-b5aa-49e3-9bda-f1f6b93e098c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Animal Farm first Polish translation 1947 London exile Teresa Jele\u0144ska \"Zwierz\u0119cy folwark\""
+  },
+  "tool_response": {
+    "query": "Animal Farm first Polish translation 1947 London exile Teresa Jele\u0144ska \"Zwierz\u0119cy folwark\"",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01YPtQd3nKJX7o3ZmVQ3UA1v",
+        "content": [
+          {
+            "title": "Folwark zwierz\u0119cy \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Folwark_zwierz%C4%99cy"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy Folwark zwierz\u0119cy, Komiks wg Orwella. Animal Farm. Comics After Orwell. | First edition, first issue with price 120 zloty printed on rear cover . Oblong, format A5. Text in Polish",
+            "url": "https://www.foldvaribooks.com/pages/books/749/folwark-zwierzecy-komiks-wg-orwella-animal-farm-comics-after-orwell"
+          },
+          {
+            "title": "ANIMAL FARM in Polish Translation",
+            "url": "https://tr-ex.me/translation/english-polish/animal+farm"
+          },
+          {
+            "title": "Folwark zwierz\u0119cy \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.m.wikipedia.org/wiki/Folwark_zwierz%C4%99cy"
+          }
+        ]
+      },
+      "Based on the search results, I found specific information about the first Polish translation of Animal Farm. Here are the key details:\n\nThe first Polish edition, translated by Teresa Jele\u0144ska, was published in exile in London in 1947 under the title \"Zwierz\u0119cy folwark\". This information confirms all the elements mentioned in your search query - it was indeed the first Polish translation, it was done by Teresa Jele\u0144ska, it was published in 1947 in London by Polish exiles, and the Polish title was \"Zwierz\u0119cy folwark.\"\n\nThe search results also provide additional context about the work itself, noting that Animal Farm presents farm animals that expelled humans and began ruling the farm themselves, and that it is an allegorical representation of Stalinism and a warning against all totalitarianism.\n\nThe translation appeared just two years after the original English version was published in 1945, making it one of the early international translations of Orwell's work."
+    ],
+    "durationSeconds": 11.063911576999933
+  }
+}

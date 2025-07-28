@@ -1,0 +1,62 @@
+{
+  "session_id": "abba3f5a-b5aa-49e3-9bda-f1f6b93e098c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/abba3f5a-b5aa-49e3-9bda-f1f6b93e098c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Animal Farm study guide exam tips essay questions students matura Polish high school literature 2024"
+  },
+  "tool_response": {
+    "query": "Animal Farm study guide exam tips essay questions students matura Polish high school literature 2024",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01UB2kfSPfjy62NJwUQnYN1D",
+        "content": [
+          {
+            "title": "Animal Farm - AQA GCSE English Literature Revision Notes",
+            "url": "https://www.savemyexams.com/gcse/english-literature/aqa/17/revision-notes/3-modern-texts/animal-farm/animal-farm-overview/"
+          },
+          {
+            "title": "Animal Farm: Essay Questions | Study Help | CliffsNotes",
+            "url": "https://www.cliffsnotes.com/literature/a/animal-farm/study-help/essay-questions"
+          },
+          {
+            "title": "George Orwell's FARM A STUDY GUIDE Student's Book",
+            "url": "http://curriculumproject.org/wp-content/uploads/AF_SB_DRAFT_Aug2012-web.pdf"
+          },
+          {
+            "title": "Animal Farm Essay Questions | GradeSaver",
+            "url": "https://www.gradesaver.com/animal-farm/study-guide/essay-questions"
+          },
+          {
+            "title": "Animal Farm",
+            "url": "https://www.oxac.org/Downloads/Animal%20Farm%20Packet.pdf"
+          },
+          {
+            "title": "Literature Study Guide for Animal Farm - 7sistershomeschool.com",
+            "url": "https://www.7sistershomeschool.com/product/animal-farm-study-guide-2/"
+          },
+          {
+            "title": "Animal Farm Study Guide Questions Chapters 1-4 - The answers will be released on Wednesday. Context: - Studocu",
+            "url": "https://www.studocu.com/en-us/document/ridge-point-h-s/english-language-arts/animal-farm-study-guide-questions-chapters-1-4/92026704"
+          },
+          {
+            "title": "George Orwell's FARM A STUDY GUIDE Student's Book",
+            "url": "https://www.clearbrook-gonvick.k12.mn.us/vimages/shared/vnews/stories/59d263d084f79/Animal%20Farm%20Review.pdf"
+          },
+          {
+            "title": "Animal Farm | Lisa's Study Guides",
+            "url": "https://www.vcestudyguides.com/blog/animal-farm"
+          },
+          {
+            "title": "Animal Farm - Revision guide for GCSE English Literature",
+            "url": "https://www.teachtutti.co.uk/blog/animal-farm-gcse/"
+          }
+        ]
+      },
+      "Based on the search results, I found comprehensive study guide resources and exam tips for Animal Farm by George Orwell that would be relevant for Polish high school students preparing for their matura exam. Here's what I found:\n\n## Study Guide Resources for Animal Farm\n\n### Key Exam Tips\n\nOne of the best pieces of exam advice for any text at GCSE is to know your text back-to-front.(no content)This is because to get the highest mark on your exam, you need to take what examiners call a \"conceptualised approach\": a detailed and perceptive exploration of, in this case, Orwell's ideas and intentions.(no content)You won't have the novel with you during the exam. Make sure to memorise key quotations, including those that represent significant characters, elements of the plot and themes.\n\n### Essay Question Types\n\nThe search revealed several types of essay questions commonly asked about Animal Farm:\n\n**Character Analysis Questions:**\n- Closely examine old Major's speech to the animals in Chapter 1 and discuss the ways in which he uses language to persuade his listeners.\n- Explain how one of the novel's minor characters (such as Mollie or Moses) illuminates Orwell's major themes and issues.\n- Boxer is the only animal with redeeming qualities. Do you agree?\n\n**Theme-Based Questions:**\n- Examine the Seven Commandments and the way they change during the course of the novel from Old Major's death to the banquet Napoleon holds with the farmers.\n- Explain how the human characters contribute to the novel's themes and issues.\n\n**Literary Analysis Questions:**\n- Elucidate the symbolism inherent in the characters' names.\n- Literacy is a source of power and a vehicle for propaganda. Some examples to consider are the Seven Commandments, \"Beasts of England,\" the child's book, the manuals, the magazines, and the horse-slaughterer's van.\n\n### Key Exam Strategies\n\n**Structure and Organization:**\nMake sure to use a clear and organised structure when writing your essay: ... Introduce the main points you will explore. Keep it brief and don't go into detail. Mention the key themes or characters you will discuss and how they're relevant to the essay question.\n\n**Evidence and Quotations:**\nUse evidence - Use quotations and examples from the novel to support your arguments. It will also show your knowledge of the material.\n\n**Practice and Preparation:**\nPractice essays - Go through as many practice essays as you can get your hands on. Use a variety of questions and get used to the format and exam time limit.\n\n### Major Themes to Study\n\nLook at the major themes, including propaganda and social inequality. Understand how each theme is developed and link it to the historical context when the book was written.(no content)Power and corruption - People who rise to power often become oppressors themselves.\n\nThe resources indicate that successful preparation requires thorough knowledge of the text, understanding of Orwell's allegorical method, and the ability to connect the novel's themes to historical contexts like the Russian Revolution."
+    ],
+    "durationSeconds": 23.19340903000004
+  }
+}

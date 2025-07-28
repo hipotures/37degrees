@@ -1,0 +1,26 @@
+{
+  "session_id": "7bfa3f26-bffe-44f4-87bb-f54ec853c72a",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7bfa3f26-bffe-44f4-87bb-f54ec853c72a.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Gen Z social media addiction statistics 82% 46% teens \"almost constantly online\" dopamine"
+  },
+  "tool_response": {
+    "query": "Gen Z social media addiction statistics 82% 46% teens \"almost constantly online\" dopamine",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01MxAf5iYbNhQFo3wWyXdhHW",
+        "content": [
+          {
+            "title": "Teens, Social Media and Technology 2022 | Pew Research Center",
+            "url": "https://www.pewresearch.org/internet/2022/08/10/teens-social-media-and-technology-2022/"
+          }
+        ]
+      },
+      "Based on the search results, I found relevant statistics about Gen Z and teen social media usage patterns. Here are the key findings:\n\nThe share of teens who say they are online \"almost constantly\" has roughly doubled since 2014-15, rising from 24% to 46%. This matches one of the specific statistics mentioned in your search query.\n\nSome additional relevant statistics from the research:\n\n- 35% of teens say they are using at least one social media platform \"almost constantly\"\n- About a third of teens (36%) say they spend too much time on social media\n- 54% of teens say it would be at least somewhat hard to give up social media, while 46% say it would be at least somewhat easy\n\nThe research also shows demographic differences in usage patterns:\n- 56% of Black teens and 55% of Hispanic teens say they are online almost constantly, compared with 37% of White teens\n- 52% of 15- to 17-year-olds say they use the internet almost constantly, while 36% of 13- to 14-year-olds say the same(no content)Teens who are almost constantly online also stand out for saying they spend too much time on social media: 51% say they are on social media too much.\n\nThis data comes from a Pew Research Center survey of 1,316 teens conducted in 2022, providing authoritative statistics on teen internet and social media usage patterns."
+    ],
+    "durationSeconds": 11.468542690000032
+  }
+}

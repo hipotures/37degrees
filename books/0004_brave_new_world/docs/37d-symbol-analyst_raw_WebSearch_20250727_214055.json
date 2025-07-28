@@ -1,0 +1,62 @@
+{
+  "session_id": "7bfa3f26-bffe-44f4-87bb-f54ec853c72a",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7bfa3f26-bffe-44f4-87bb-f54ec853c72a.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Brave New World\" international reception translations censorship banned countries global cultural impact"
+  },
+  "tool_response": {
+    "query": "\"Brave New World\" international reception translations censorship banned countries global cultural impact",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01CiadNgN4B6758Js5cQjoeL",
+        "content": [
+          {
+            "title": "Banning of Brave New World by Aldous Huxley | Reasons & Irony - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/reason-brave-new-world-was-banned.html"
+          },
+          {
+            "title": "Brave New World As One Of The Most Banned Or Controversial Books Over The Years | Free Essay Example for Students",
+            "url": "https://aithor.com/essay-examples/brave-new-world-as-one-of-the-most-banned-or-controversial-books-over-the-years"
+          },
+          {
+            "title": "15 Things You Might Not Know About Brave New World",
+            "url": "https://www.mentalfloss.com/article/64046/15-things-you-might-not-know-about-brave-new-world"
+          },
+          {
+            "title": "Banned Books in Review: Brave New World \u00bb Sandpoint Reader",
+            "url": "https://sandpointreader.com/banned-books-in-review-brave-new-world/"
+          },
+          {
+            "title": "Aldous Huxley, \u201cBrave New World\u201d \u2013 The Banned Books Project",
+            "url": "https://bannedbooks.library.cmu.edu/aldous-huxley-brave-new-world/"
+          },
+          {
+            "title": "Brave New World - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World"
+          },
+          {
+            "title": "Brave New World | Summary, Context, & Reception | Britannica",
+            "url": "https://www.britannica.com/topic/Brave-New-World"
+          },
+          {
+            "title": "The impact of media censorship in China: 1984 or Brave New World?",
+            "url": "https://voxdev.org/topic/institutions-political-economy/impact-media-censorship-china-1984-or-brave-new-world"
+          },
+          {
+            "title": "Brave New World | The Censorship Files",
+            "url": "https://thecensorshipfiles.wordpress.com/volume-1/issue-2/brave-new-world/"
+          },
+          {
+            "title": "Brave New World: Dystopian Procreation and Censorship | Literature and Transgression",
+            "url": "https://transgresslit.wordpress.com/2014/04/27/brave-new-world-dystopian-procreation-and-censorship/"
+          }
+        ]
+      },
+      "Based on my search results, I can provide comprehensive information about the international reception, translations, censorship, and global cultural impact of Aldous Huxley's \"Brave New World.\"\n\n## International Reception and Censorship\n\nBrave New World has been banned in many countries across the world for its content. When it was first published it was banned in Ireland and Australia, and later in India. The novel has faced censorship and controversy since its initial publication in 1932.\n\n### Specific Countries and Banning Timeline\n\n**Early Bans (1932):**\n- In 1932 it was banned in Australia and Ireland for language that was believed to go against familial and religious values\n- One of the earliest instances of censorship occurred in 1932 when Ireland banned the novel on the grounds that it was deemed \"blasphemous\" and \"indecent.\"\n- The novel was banned in Ireland and Australia in 1932, with the latter maintaining its censorship for five years.\n\n**Later International Bans:**\n- in 1967 it was banned in India for its sexual content, with sources noting India banned Brave New World, likening the work to pornography.\n- Another pivotal moment came in 1965 when Brave New World was banned in India for its depiction of a dystopian society, which was deemed as a negative portrayal of the country.\n\n**United States:**\nIt has also been banned in many U.S. states since its release and is still highly controversial in the discourse of book censorship. In the United States, it has been pulled from many libraries and schools.(no content)In the United States, there were eight separate accounts of censorship in states including Maryland, Missouri, Oklahoma, California, Alabama, Texas, Indiana, and Delaware, all of which occurred in US public schools.\n\n## Reasons for Censorship\n\nThe primary reasons for banning include:\n\n- Some believe it glorifies the use of drugs and sexual promiscuity. Others point out the racist depiction of Native Americans and the emphasis on an atheistic society as being harmful.\n- Brave New World has been banned in numerous countries for a variety of reasons, most notably because its themes clashed with familial and religious values, as well as addressing sexual promiscuity and drug use.\n- Parents and teachers argue that the novel's themes of promiscuity, self-harm, and overall negativity are not suitable for children.\n\n## Global Cultural Impact and Reception\n\n### Initial Reception\nThe reception of Brave New World at its publication was primarily negative. Many were offended by the nature of Huxley's future, and very few understood the novel's philosophical implications.\n\n### Continued Controversy\nMany schools and libraries all over the world banned the novel, and even today it remains on lists of censored books.(no content)It has landed on the American Library Association list of top 100 banned and challenged books of the decade since the association began the list in 1990.(no content)Brave New World was rated #3 on the American Library Association's 2010 list of most challenged books, and It ranks 52nd on the American Library Association's 'The Hundred Most Frequently Challenged Books of 1990\u20132000,'\n\n### Literary Significance\nUsually falling in the top three on the lists of most banned books of all time, Brave New World is one of those novels you should read whether or not you consider yourself a fan of science fiction. Along with George Orwell's 1984 and Ray Bradbury's Fahrenheit 451, Brave New World shows a vision of what might happen when individual thought and expression are bred out of the human race\n\n## Translations and International Titles\n\nTranslations of the title often allude to similar expressions used in domestic works of literature: the French edition of the work is entitled Le Meilleur des mondes (The Best of All Worlds)\n\n## Irony of Censorship\n\nThere's a noted irony in the book's censorship: There is irony in these ongoing attempts to ban a novel that centers around a society in which anything unpleasant is erased from human history. By censoring the novel, people are doing what Huxley warned of in the book.\n\nThe novel continues to provoke discussion about censorship, freedom of expression, and the dangers of authoritarian control, making its international reception a complex reflection of the very themes it explores."
+    ],
+    "durationSeconds": 34.0739467819999
+  }
+}

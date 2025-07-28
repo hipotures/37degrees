@@ -1,0 +1,62 @@
+{
+  "session_id": "7a96e064-9293-467f-8eb2-013e49aed0d1",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7a96e064-9293-467f-8eb2-013e49aed0d1.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Anna Karenina global reception different cultures Soviet era censorship international interpretations"
+  },
+  "tool_response": {
+    "query": "Anna Karenina global reception different cultures Soviet era censorship international interpretations",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_017TiqEAthMBhkEDmC1B5e5D",
+        "content": [
+          {
+            "title": "Anna Karenina - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Anna_Karenina"
+          },
+          {
+            "title": "Anna Karenina: How America\u2019s Gilded Age Social Customs Mirrored Russia\u2019s | Driehaus Museum",
+            "url": "https://driehausmuseum.org/blog/view/anna-karenina-how-americas-gilded-age-social-customs-mirrored-russias"
+          },
+          {
+            "title": "View of Society's Role in Tolstoy's Anna Karenina | Global Insight: A Journal of Critical Human Science and Culture",
+            "url": "https://globalinsight.journal.library.uta.edu/index.php/globalinsight/article/view/18/4"
+          },
+          {
+            "title": "(PDF) The Art of Literary Adaptation and English-Language Film Interpretations of Russian Literature (\u2018Anna Karenina\u2019)",
+            "url": "https://www.academia.edu/97912896/The_Art_of_Literary_Adaptation_and_English_Language_Film_Interpretations_of_Russian_Literature_Anna_Karenina_"
+          },
+          {
+            "title": "Anna Karenina | Encyclopedia.com",
+            "url": "https://www.encyclopedia.com/arts/educational-magazines/anna-karenina"
+          },
+          {
+            "title": "Review: Anna Karenina | Counterfire",
+            "url": "https://www.counterfire.org/article/review-anna-karenina/"
+          },
+          {
+            "title": "Anna Karenina | Russian literature, 19th century, tragedy | Britannica",
+            "url": "https://www.britannica.com/topic/Anna-Karenina-novel"
+          },
+          {
+            "title": "\u201cThe Tragedy of a Russian Woman\u201d: Anna Karenina in the Moscow Art Theater, 1937 - ScienceDirect",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0304347909000295"
+          },
+          {
+            "title": "The Art of Literary Adaptation and English-Language Film Interpretations of Russian Literature (\u2018Anna Karenina\u2019) - ScienceDirect",
+            "url": "https://www.sciencedirect.com/science/article/pii/S1877042814055578"
+          },
+          {
+            "title": "Anna Karenina: Leo Tolstoy and Anna Karenina Background | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/anna/context/"
+          }
+        ]
+      },
+      "I've performed a web search on Anna Karenina's global reception, cultural interpretations, Soviet-era censorship, and international adaptations. The search results provide valuable insights into how Tolstoy's classic novel has been received and interpreted across different cultures and political contexts.\n\nBased on the search results, here's what I found about Anna Karenina's global reception and cultural interpretations:\n\n## Cross-Cultural Adaptations and Interpretations\n\nThe central challenge of translating Anna Karenina across cultures lies in how successfully a literary work can be embedded into a different culture. Recent English-language adaptations, including Bernard Rose's 1997 version with Sophie Marceau and Joe Wright's 2012 version starring Keira Knightley, have featured French and British actresses interpreting the Russian literary heroine through modern feminist readings.\n\nInternational scholars have examined how political and economic circumstances, from shifting Soviet political landscapes to perceived demands of American and European markets, have played crucial roles in dictating how filmmakers adapt the novel, exploring the role of ideological, political, and cultural pressures in transforming literary narratives into cinematic offerings.\n\n## Soviet-Era Context and Reception\n\nA particularly significant interpretation occurred during the Stalinist era, when Anna Karenina was staged at the Moscow Art Theater in 1937 at a peak of Stalinist terror and aggressively promoted by the state. This production represented an unusual cultural and ideological event, with its \"disturbing lack of obvious political or emotional relevance to the socialist experience\" prompting conflicted critical construction of the play's Soviet meaning.\n\nThe novel's revolutionary potential was recognized even after Tolstoy's death in 1910, when students rallied and workers in Moscow and St Petersburg went on strike in his memory. Revolutionary Leon Trotsky wrote that while \"Tolstoy did not know or show the way out of the hell of bourgeois culture,\" he \"posed the question that only scientific socialism can answer\".\n\n## Cultural Parallels and Universal Themes\n\nThe portrait of Russian society in the novel showed remarkable similarities to America's Gilded Age, as both cultures mirrored Western European social customs. During the late 19th century, both countries experienced massive social and industrial change, sharing drawing room receptions, elaborate dinners, fondness for opera and French wines, and Parisian fashions.\n\nThe novel's exploration of gender roles has found resonance across cultures, with scholars comparing Anna Karenina to other works like Madame Bovary and examining how social conditions and cultural norms influence the depiction of female characters in different literary traditions.\n\nThe search results reveal that Anna Karenina has maintained its relevance across cultures precisely because of its exploration of universal themes - marriage, social constraints, and individual rebellion against societal norms - while also showing how different political and cultural contexts have shaped its interpretation and adaptation over time."
+    ],
+    "durationSeconds": 24.57949708699994
+  }
+}

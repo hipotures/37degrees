@@ -1,0 +1,108 @@
+{
+  "session_id": "50a1a9ee-e5bd-4af5-b1be-889513e755a8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/50a1a9ee-e5bd-4af5-b1be-889513e755a8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Ray Bradbury biography authoritative sources correspondence archives McCarthyism book burning 1950s"
+  },
+  "tool_response": {
+    "query": "Ray Bradbury biography authoritative sources correspondence archives McCarthyism book burning 1950s",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01NXcEsq1gvrYj6jCrQ9nSuj",
+        "content": [
+          {
+            "title": "Fahrenheit 451 - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Fahrenheit_451"
+          },
+          {
+            "title": "Ray Bradbury - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ray_Bradbury"
+          },
+          {
+            "title": "Was Ray Bradbury a Threat?. By the 1950s, there is no question that\u2026 | by Nic Poe | Medium",
+            "url": "https://medium.com/@nicpoe/is-ray-bradbury-a-threat-3d3b62ad1d59"
+          },
+          {
+            "title": "Ray Bradbury | Biography, Books, Fahrenheit 451, & Facts | Britannica",
+            "url": "https://www.britannica.com/biography/Ray-Bradbury"
+          },
+          {
+            "title": "Ray Bradbury - Books, Short Stories & Quotes",
+            "url": "https://www.biography.com/authors-writers/ray-bradbury"
+          },
+          {
+            "title": "Ray Bradbury\u2019s First 33 Years ~ The Imaginative Conservative",
+            "url": "https://theimaginativeconservative.org/2023/03/ray-bradbury-first-33-years-bradley-birzer.html"
+          },
+          {
+            "title": "Fahrenheit 451 and 1950s America | Albert Resources",
+            "url": "https://www.albert.io/blog/fahrenheit-451-and-1950s-america/"
+          },
+          {
+            "title": "Censoring Ray Bradbury | Cato at Liberty Blog",
+            "url": "https://www.cato.org/blog/censoring-ray-bradbury"
+          },
+          {
+            "title": "Ray Bradbury: Biography and Writing Style | Albert Resources",
+            "url": "https://www.albert.io/blog/ray-bradbury-biography-and-writing-style/"
+          },
+          {
+            "title": "Ray Bradbury: Biography, Books, Short Stories & Facts",
+            "url": "https://www.studysmarter.us/explanations/english-literature/american-literature/ray-bradbury/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about Ray Bradbury's biography, his connection to McCarthyism and book burning in the 1950s, and authoritative sources and archives:\n\n## Ray Bradbury Biography and McCarthyism Connection\n\nRay Bradbury was born on August 22, 1920, in Waukegan, Illinois, to Esther (n\u00e9e Moberg) Bradbury (1888\u20131966), a Swedish immigrant, and Leonard Spaulding Bradbury (1890\u20131957), a power and telephone lineman of English ancestry. He died June 5, 2012, in Los Angeles, California.\n\n### Impact of McCarthyism on Bradbury\n\nThe rise of Senator Joseph McCarthy's McCarthyism persecution of accused communists, beginning in 1950, deepened Bradbury's contempt for government overreach. Bradbury himself was investigated by the FBI beginning in 1950, and Bradbury himself was investigated for Communist ties throughout the 1950s.\n\nThough a Stevenson Democrat in 1952, Bradbury found himself, again, disillusioned with the presidential candidate, especially after Stevenson refused to address directly either the Korean War or Joseph McCarthy's scandalous witch hunts. Famously (or infamously, depending on one's point of view), Bradbury took out a large ad in Variety, \"To the Republican Party,\" challenging them to disown McCarthyism as well as refrain from claiming that anyone in the Democratic Party was a Communist.\n\n### Book Burning and Fahrenheit 451\n\nBradbury's best-known work, Fahrenheit 451, published in 1953, became an instant classic in the era of McCarthyism for its exploration of themes of censorship and conformity. The story's themes about government censorship and control tapped into society's fears during the peak of McCarthyism in the United States",
+      {
+        "tool_use_id": "srvtoolu_01WyKVeSigMveeeEZgEKnSzH",
+        "content": [
+          {
+            "title": "Fahrenheit 451 - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Fahrenheit_451"
+          },
+          {
+            "title": "Ray Bradbury - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ray_Bradbury"
+          },
+          {
+            "title": "Was Ray Bradbury a Threat?. By the 1950s, there is no question that\u2026 | by Nic Poe | Medium",
+            "url": "https://medium.com/@nicpoe/is-ray-bradbury-a-threat-3d3b62ad1d59"
+          },
+          {
+            "title": "Ray Bradbury | Biography, Books, Fahrenheit 451, & Facts | Britannica",
+            "url": "https://www.britannica.com/biography/Ray-Bradbury"
+          },
+          {
+            "title": "Ray Bradbury - Books, Short Stories & Quotes",
+            "url": "https://www.biography.com/authors-writers/ray-bradbury"
+          },
+          {
+            "title": "Ray Bradbury\u2019s First 33 Years ~ The Imaginative Conservative",
+            "url": "https://theimaginativeconservative.org/2023/03/ray-bradbury-first-33-years-bradley-birzer.html"
+          },
+          {
+            "title": "Fahrenheit 451 and 1950s America | Albert Resources",
+            "url": "https://www.albert.io/blog/fahrenheit-451-and-1950s-america/"
+          },
+          {
+            "title": "Censoring Ray Bradbury | Cato at Liberty Blog",
+            "url": "https://www.cato.org/blog/censoring-ray-bradbury"
+          },
+          {
+            "title": "Ray Bradbury: Biography and Writing Style | Albert Resources",
+            "url": "https://www.albert.io/blog/ray-bradbury-biography-and-writing-style/"
+          },
+          {
+            "title": "Ray Bradbury: Biography, Books, Short Stories & Facts",
+            "url": "https://www.studysmarter.us/explanations/english-literature/american-literature/ray-bradbury/"
+          }
+        ]
+      },
+      "Based on my search results, I can provide information about Ray Bradbury in relation to the topics you specified - biography, authoritative sources, correspondence archives, McCarthyism, book burning, and the 1950s.\n\n## Ray Bradbury and McCarthyism\n\nBradbury himself was investigated by the FBI beginning in 1950.(no content)The rise of Senator Joseph McCarthy's McCarthyism persecution of accused communists, beginning in 1950, deepened Bradbury's contempt for government overreach.(no content)The story's themes about government censorship and control tapped into society's fears during the peak of McCarthyism in the United States. Bradbury himself was investigated for Communist ties throughout the 1950s.\n\nBradbury took a public stance against McCarthyism. Famously (or infamously, depending on one's point of view), Bradbury took out a large ad in Variety, \"To the Republican Party,\" challenging them to disown McCarthyism as well as refrain from claiming that anyone in the Democratic Party was a Communist.\n\n## *Fahrenheit 451* and Book Burning\n\nBradbury's best-known work, Fahrenheit 451, published in 1953, became an instant classic in the era of McCarthyism for its exploration of themes of censorship and conformity. The novel's themes directly reflected concerns about book burning and censorship in the 1950s.\n\nThis practice, known as McCarthyism, is paralleled in Fahrenheit 451 through the government's strict laws against books, paranoia over secret groups hiding books, and the swift action of the Firemen to burn down homes suspected of housing secret caches of books.\n\n## Authoritative Biographical Sources\n\nThe search reveals several authoritative sources for Bradbury biography and correspondence:\n\nIn the first volume of his three-volume biography, \"Becoming Ray Bradbury,\" Jonathan R. Eller draws upon his friendship with Bradbury as well as upon a myriad of primary sources to write one of the best biographies of the famous author that I've yet encountered.(no content)Eller draws upon his friendship with Bradbury as well as upon a myriad of primary sources\u2014from Bradbury's personal correspondence, unfinished ideas and personal notes, and recollections of allies and friends\u2014to write one of the best biographies I've yet encountered in my own fifty-five years.(no content)Volume I, Becoming Ray Bradbury, came out in 2011. Volume II, Ray Bradbury Unbound, came out in 2014. And, the final volume, volume III, Bradbury: Beyond Apollo, came out in 2020.(no content)Most recently, Eller edited the two-volume Library of America edition of Ray Bradbury's works, and he has a forthcoming compilation of Bradbury letters coming out.\n\n## Personal Background and 1950s Context\n\nBradbury was born on August 22, 1920, in Waukegan, Illinois, to Esther (n\u00e9e Moberg) Bradbury (1888\u20131966), a Swedish immigrant, and Leonard Spaulding Bradbury (1890\u20131957), a power and telephone lineman of English ancestry.(no content)Ruled ineligible for military service by his local draft board because of his vision problems, Bradbury became a full-time writer by early 1943.\n\nThe 1950s were a crucial period for Bradbury's career and political awareness. Later that year, Bradbury's masterfully anti-consumerist but deeply libertarian novel, Fahrenheit 451, appeared, perhaps solidifying the author's anti-authoritarian reputation.\n\nThe Jonathan R. Eller biography trilogy appears to be the most comprehensive and authoritative source for accessing Bradbury's correspondence and personal archives, drawing extensively from primary source materials including personal letters and notes."
+    ],
+    "durationSeconds": 44.57359787599928
+  }
+}

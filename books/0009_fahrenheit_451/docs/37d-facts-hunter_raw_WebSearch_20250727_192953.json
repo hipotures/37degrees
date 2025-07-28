@@ -1,0 +1,62 @@
+{
+  "session_id": "50a1a9ee-e5bd-4af5-b1be-889513e755a8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/50a1a9ee-e5bd-4af5-b1be-889513e755a8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Nazi book burning 1933 Berlin McCarthyism 1950s censorship book banning historical events Bradbury inspiration"
+  },
+  "tool_response": {
+    "query": "Nazi book burning 1933 Berlin McCarthyism 1950s censorship book banning historical events Bradbury inspiration",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_014YUWZnXHLs4hKh1ACLSwfD",
+        "content": [
+          {
+            "title": "Nazi Book Burnings: Recurring Symbol | Holocaust Encyclopedia",
+            "url": "https://encyclopedia.ushmm.org/content/en/article/nazi-book-burnings-recurring-symbol"
+          },
+          {
+            "title": "Book Burning | Holocaust Encyclopedia",
+            "url": "https://encyclopedia.ushmm.org/content/en/article/book-burning"
+          },
+          {
+            "title": "The Burning of the Books in Nazi Germany, 1933",
+            "url": "https://www.museumoftolerance.com/education/archives-and-reference-library/online-resources/simon-wiesenthal-center-annual-volume-2/annual-2-chapter-5.html"
+          },
+          {
+            "title": "Nazi book burnings - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Nazi_book_burnings"
+          },
+          {
+            "title": "Historical Context of Fahrenheit 451 | Book Analysis",
+            "url": "https://bookanalysis.com/ray-bradbury/fahrenheit-451/historical-context/"
+          },
+          {
+            "title": "Fahrenheit 451 by Ray Bradbury | Historical Context & Publication - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/when-was-fahrenheit-451-written-historical-context.html"
+          },
+          {
+            "title": "Fahrenheit 451 - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Fahrenheit_451"
+          },
+          {
+            "title": "Book Burnings in Germany, 1933 | American Experience | Official Site | PBS",
+            "url": "https://www.pbs.org/wgbh/americanexperience/features/goebbels-burnings/"
+          },
+          {
+            "title": "Book Burning and Censorship in Nazi Germany - presented by the US Holocaust Memorial Museum - Holocaust Documentation and Education Center",
+            "url": "https://hdec.org/book-burning-and-censorship-in-nazi-germany-presented-by-the-us-holocaust-memorial-museum/"
+          },
+          {
+            "title": "Fahrenheit 451 Was a Warning\u2014We Didn\u2019t Listen",
+            "url": "https://www.bondandgrace.com/lit-talk/fahrenheit-451-was-a-warning--we-didnt-listen"
+          }
+        ]
+      },
+      "I've performed the web search on the topic of Nazi book burning, McCarthyism, censorship, and their connection to Ray Bradbury's inspiration. Here's what I found:\n\n## Nazi Book Burnings of 1933\n\nThe Nazi book burnings were a systematic campaign that began on May 10, 1933, when university students burned upwards of 25,000 volumes of \"un-German\" books in 34 university towns across Germany. Nazi-dominated student groups carried out public burnings of books they claimed were \"un-German,\" with works of prominent Jewish, liberal, and leftist writers ending up in the bonfires.\n\nIn Berlin, some 40,000 persons gathered in the Opernplatz to hear Joseph Goebbels deliver a fiery address, and the book burnings stood as a powerful symbol of Nazi intolerance and censorship.\n\n## McCarthyism and 1950s Censorship\n\nThe symbolism of the Nazi book burnings resurfaced during Wisconsin Senator Joseph McCarthy's charges of subversion within government. McCarthy used the Senate Permanent Subcommittee on Investigations to expose the presence of Communists in the US government. In 1953, he dispatched his aides, Roy Cohn and David Schine, to search US Information Service Libraries in Europe and Asia for \"subversive\" books.\n\nLibraries in Sydney, Tokyo, and Singapore burned a few suspect books, giving cartoonists rich material to compare McCarthy-inspired censorship with the bonfires of 1933. In the 1950s\u2014during a period of widespread book banning in US schools and public libraries\u2014the New York Times editorialized that the suppression of books was a \"species of book burning\".\n\n## Ray Bradbury's Inspiration\n\nRay Bradbury wrote \"Fahrenheit 451\" in 1953, and Bradbury draws a parallel between the actions of the Nazi regime's book burning in the 1930s and the book burnings conducted by the firemen in his fictional society. The Nazis sought to purge \"un-German\" and \"anti-Aryan\" literature from libraries and institutions.\n\nThe Second Red Scare (late 1940s to early 1950s), often associated with McCarthyism, also inspired Bradbury. Senator Joseph McCarthy launched an unfounded anti-communist campaign in the US. Senator McCarthy's baseless accusations of communist infiltration into various sectors of American life, including government and entertainment, started a witchhunt where individuals suspected of communist sympathies were blacklisted.\n\nBradbury focused on past events, such as Nazi book burnings, the Atomic bombs, and McCarthyism to draw inspiration for his famed novel. Bradbury took inspiration for his novel from real-life horrors such as Nazi book burnings, the atomic bombs, and McCarthyism to predict how he thought the future would go.\n\n## Historical Parallels and Legacy\n\nThe symbolism of the 1933 book burnings has entered into the American culture of politics, film, and even television as a powerful metaphor of demagoguery, censorship, and suppression. Americans who depend upon free access to information have often focused on the Nazi book burnings as a historical analogy to past and present-day events.\n\nInspired by Nazi Germany and born in the frenzy of the Red Scare, Ray Bradbury's Fahrenheit 451 is a powerful reminder of the necessity of independent thought, and how crucial books are to cultivating and sustaining it.\n\nThe search results reveal a clear historical thread connecting the Nazi book burnings of 1933, the McCarthyist censorship of the 1950s, and Ray Bradbury's creative inspiration for \"Fahrenheit 451,\" demonstrating how these events of censorship and intellectual suppression influenced one of the most important dystopian novels in American literature."
+    ],
+    "durationSeconds": 27.97320562000014
+  }
+}

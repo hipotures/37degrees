@@ -1,0 +1,22 @@
+{
+  "session_id": "7bfa3f26-bffe-44f4-87bb-f54ec853c72a",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7bfa3f26-bffe-44f4-87bb-f54ec853c72a.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Nowy wspania\u0142y \u015bwiat\" \"Bogdan Baran\" Muza 1988 PRL cenzura \"drugi obieg\" Mieczys\u0142aw Smolarski plagiat"
+  },
+  "tool_response": {
+    "query": "\"Nowy wspania\u0142y \u015bwiat\" \"Bogdan Baran\" Muza 1988 PRL cenzura \"drugi obieg\" Mieczys\u0142aw Smolarski plagiat",
+    "results": [
+      "I'll perform a web search for the specific query you provided about \"Nowy wspania\u0142y \u015bwiat\" and related terms.",
+      {
+        "tool_use_id": "srvtoolu_01Apnkrwe5JQXr8BY2vJPdYk",
+        "content": []
+      },
+      "I performed the web search with your specific query about \"Nowy wspania\u0142y \u015bwiat\" (Brave New World), Bogdan Baran, the Muza publishing house from 1988, PRL censorship, \"drugi obieg\" (second circulation), Mieczys\u0142aw Smolarski, and plagiarism. However, the search didn't return any results for this very specific combination of terms.\n\nThis could indicate that:\n1. The specific controversy or issue you're researching may not be well-documented online\n2. The information might be in Polish sources that aren't widely indexed\n3. The particular combination of all these terms together may be too specific\n\nWould you like me to try searching for some of these terms separately to find more information about any specific aspect of this query, such as:\n- The 1988 Muza publication of \"Nowy wspania\u0142y \u015bwiat\"\n- Bogdan Baran's translation work\n- Issues with censorship in PRL publishing\n- The \"drugi obieg\" (underground/independent publishing) in Poland"
+    ],
+    "durationSeconds": 13.857664191000163
+  }
+}

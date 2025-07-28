@@ -1,0 +1,62 @@
+{
+  "session_id": "7bfa3f26-bffe-44f4-87bb-f54ec853c72a",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7bfa3f26-bffe-44f4-87bb-f54ec853c72a.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Brave New World 1932 contemporary reviews reactions initial publication critical reception first edition"
+  },
+  "tool_response": {
+    "query": "Brave New World 1932 contemporary reviews reactions initial publication critical reception first edition",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_013B8XcC8fSuQPzNVqkhHXXj",
+        "content": [
+          {
+            "title": "Brave New World - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World"
+          },
+          {
+            "title": "'Brave New World' at 75",
+            "url": "https://www.thenewatlantis.com/publications/brave-new-world-at-75"
+          },
+          {
+            "title": "REVIEW: Brave New World (1932) \u2013 r. w. thorne",
+            "url": "https://rwthorneblog.wordpress.com/2022/12/31/review-brave-new-world-1932/"
+          },
+          {
+            "title": "ALDOUS HUXLEY: BRAVE NEW WORLD (1932)[1] \u2013 Comments on Culture",
+            "url": "https://bookerhorror.com/aldous-huxley-brave-new-world-19321/"
+          },
+          {
+            "title": "Brave New World Aldous Huxley 1932",
+            "url": "https://www.encyclopedia.com/arts/educational-magazines/brave-new-world"
+          },
+          {
+            "title": "Brave New World | Summary, Context, & Reception | Britannica",
+            "url": "https://www.britannica.com/topic/Brave-New-World"
+          },
+          {
+            "title": "Aldous Huxley BRAVE NEW WORLD 1932 Doubleday, Doran & Co., NY First Edition [Hardcover] unknown: Unknown: Amazon.com: Books",
+            "url": "https://www.amazon.com/Aldous-Huxley-BRAVE-WORLD-Doubleday/dp/B088H9TCH6"
+          },
+          {
+            "title": "Review: Brave New World \u2013 Aspects of Me",
+            "url": "https://aspectsof.me/2022/02/17/review-brave-new-world/"
+          },
+          {
+            "title": "Aldous Huxley \u201cBrave New World\u201d \u2013 book review",
+            "url": "https://litcritpop.com/2020/03/24/aldous-huxley-brave-new-world-book-review/"
+          },
+          {
+            "title": "Brave New World As One Of The Most Banned Or Controversial Books Over The Years | Free Essay Example for Students",
+            "url": "https://aithor.com/essay-examples/brave-new-world-as-one-of-the-most-banned-or-controversial-books-over-the-years"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about the contemporary reviews and critical reception of Aldous Huxley's \"Brave New World\" when it was first published in 1932.\n\n## Contemporary Reviews and Critical Reception\n\n### Positive Reception\nUpon its publication, several prominent literary figures praised the novel. Rebecca West praised Brave New World as \"The most accomplished novel Huxley has yet written\", Joseph Needham lauded it as \"Mr Huxley's remarkable book\", and Bertrand Russell also praised it, stating, \"Mr Aldous Huxley has shown his usual masterly skill in Brave New World.\"\n\n### Negative and Mixed Reception\nHowever, the critical reception of Brave New World was largely chilly, with most reviewers being disgruntled or disgusted with what they saw as unjustified alarmism.\n\nBrave New World also received negative responses from other contemporary critics, although his work was later embraced. The reception of Brave New World at its publication was primarily negative. Many were offended by the nature of Huxley's future, and very few understood the novel's philosophical implications.\n\n### Specific Critical Reactions\n\nSeveral notable literary figures expressed strong disapproval:\n\n- H. G. Wells was downright offended, stating \"A writer of the standing of Aldous Huxley has no right to betray the future as he did in that book\"\n- Gerald Bullett dismissed it as prophecy, calling it \"merely fantastic\"\n- Wyndham Lewis called it \"an unforgivable offense to Progress\"\n- Marxist literary critic Granville Hicks began his review by asking, \"With war in Asia, bankruptcy in Europe and starvation everywhere, what do you suppose Aldous Huxley is now worrying about?\" and ended it with several personal attacks\n\n### Commercial Success Despite Mixed Reviews\nWhen Brave New World was published in 1932 it sold well in England and modestly in the United States, but it eventually brought Huxley international fame on both sides of the Atlantic.\n\n### Critical Assessment of Literary Merit\nIt was clear to critics that Huxley had written a novel of ideas, in which the characters and plot were not as well-developed as the book's themes. A review upon the book's release from the New Statesman and Nation pointed out that Huxley himself never really seemed interested in the story of the novel but only in the ideas of it. At the time, that was meant as a harsh criticism and as part of an overall negative review.\n\n### Early Censorship\nThe novel faced immediate censorship challenges. In 1932, the book was banned in Ireland for its language, and for supposedly being anti-family and anti-religion. One of the earliest instances of censorship occurred in 1932 when Ireland banned the novel on the grounds that it was deemed \"blasphemous\" and \"indecent\".\n\nThe contemporary reception reveals a divided critical response, with some recognizing Huxley's literary skill and prescient vision, while others dismissed it as alarmist fantasy or were offended by its satirical portrayal of technological utopia."
+    ],
+    "durationSeconds": 26.301188306000082
+  }
+}

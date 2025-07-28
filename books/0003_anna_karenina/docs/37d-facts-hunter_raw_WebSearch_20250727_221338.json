@@ -1,0 +1,62 @@
+{
+  "session_id": "7a96e064-9293-467f-8eb2-013e49aed0d1",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7a96e064-9293-467f-8eb2-013e49aed0d1.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Anna Karenina\" szko\u0142a Polska lektura program nauczania literatura rosyjska"
+  },
+  "tool_response": {
+    "query": "\"Anna Karenina\" szko\u0142a Polska lektura program nauczania literatura rosyjska",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01R93BAV3CV5G3rqeojtiDhm",
+        "content": [
+          {
+            "title": "Rosyjskie arcydzie\u0142a literackie \u2013 \u201eAnna Karenina\u201d - CDN",
+            "url": "https://cdn.ug.edu.pl/74512/rosyjskie-arcydziela-literackie-anna-karenina/"
+          },
+          {
+            "title": "Literatura rosyjska. Jak si\u0119 rozwija\u0142a i kt\u00f3re ksi\u0105\u017cki warto przeczyta\u0107? - SkupSzop.pl",
+            "url": "https://skupszop.pl/blog/literatura-rosyjska-jak-sie-rozwijala-i-ktore-ksiazki-warto-przeczytac"
+          },
+          {
+            "title": "Dlaczego powie\u015b\u0107 To\u0142stoja \u201eAnna Karenina\u201d z 1877 roku wci\u0105\u017c rozbrzmiewa dzisiaj?",
+            "url": "https://www.greelane.com/pl/humanistyka/literatura/anna-karenina-study-guide-4151999/"
+          },
+          {
+            "title": "Anna Karenina (po rosyjsku) knizka.pl",
+            "url": "https://www.knizka.pl/pl/p/Anna-Karenina-po-rosyjsku/530"
+          },
+          {
+            "title": "Literatura rosyjskoj\u0119zycznego obszaru j\u0119zykowego (B) - poz.2 - Uniwersytet Warszawski",
+            "url": "https://informatorects.uw.edu.pl/pl/courses/view?prz_kod=3200-L2-0LBR2"
+          },
+          {
+            "title": "Anna Karenina \u2013 opracowanie, problematyka, bohaterowie - streszczenie, opracowanie na wypracowania.pl",
+            "url": "https://wypracowania.pl/lektury/anna-karenina-opracowanie-problematyka-bohaterowie"
+          },
+          {
+            "title": "Anna Karenina - Lew To\u0142stoj | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/152298/anna-karenina"
+          },
+          {
+            "title": "Anna Karenina Lew To\u0142stoj ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/anna-karenina-lew-tolstoj"
+          },
+          {
+            "title": "Anna Karenina - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Anna_Karenina"
+          },
+          {
+            "title": "Anna Karenina - Lew To\u0142stoj - epub \u2013 Ibuk.pl",
+            "url": "https://www.ibuk.pl/fiszka/239830/anna-karenina.html"
+          }
+        ]
+      },
+      "Based on the search results, I found comprehensive information about \"Anna Karenina\" in the context of Polish schools and Russian literature curriculum. Here's what the search revealed:\n\n## \"Anna Karenina\" w programie nauczania polskich szk\u00f3\u0142\n\n\u201eAnna Karenina\" jest wymieniana jako jedno z kluczowych dzie\u0142 w sylabusie uniwersyteckiego kursu literatury rosyjskiej na Uniwersytecie Warszawskim, obok innych utwor\u00f3w To\u0142stoja jak \"Wojna i Pok\u00f3j\" oraz ma\u0142a proza ostatnich lat.\n\n## Znaczenie w literaturze rosyjskiej\n\n\"Anna Karenina\", powszechnie uwa\u017cana za najlepsz\u0105 powie\u015b\u0107 To\u0142stoja, wci\u0105ga czytelnik\u00f3w w sie\u0107 romans\u00f3w i rodzinnych dramat\u00f3w w XIX-wiecznej Rosji. W klasycznej literaturze rosyjskiej XIX wieku znajduj\u0105 si\u0119 takie wydania jak \"Eugeniusz Oniegin\" Aleksandra Puszkina, \"Martwe dusze\" Niko\u0142aja Gogola, \"Wojna i pok\u00f3j\" oraz \"Anna Karenina\" Lwa To\u0142stoja.\n\n## Kontekst edukacyjny\n\nPodstawowym celem nauczania literatury rosyjskiej jest zapoznanie student\u00f3w z elementami literatury rosyjskiej oraz teorii literatury, poetyki i krytyki literackiej. Jednym z wa\u017cniejszych zagadnie\u0144 kursu jest powstawanie modelu mentalno\u015bci Rosjanina na p\u0142aszczy\u017anie literackiej.\n\n## Charakterystyka utworu\n\n\"Anna Karenina\" to wielka powie\u015b\u0107, kt\u00f3rej problematyka znacznie wykracza poza ramy romansu zam\u0119\u017cnej arystokratki i m\u0142odego oficera. Ksi\u0105\u017cka ta jest bowiem przede wszystkim panoram\u0105 epoki i rosyjskiego spo\u0142ecze\u0144stwa.\n\n\"Anna Karenina\" Lwa To\u0142stoja pozostaje \u017cyw\u0105 powie\u015bci\u0105, kt\u00f3ra przemawia do obecnych czytelnik\u00f3w ze wzgl\u0119du na nowoczesn\u0105 technik\u0119 literack\u0105 i ponadczasowe tematy.\n\nWyszukiwanie pokazuje, \u017ce \"Anna Karenina\" odgrywa wa\u017cn\u0105 rol\u0119 w polskim systemie edukacyjnym jako przyk\u0142ad klasycznej literatury rosyjskiej, szczeg\u00f3lnie na poziomie uniwersyteckim w ramach studi\u00f3w nad literatur\u0105 rosyjskoj\u0119zycznego obszaru j\u0119zykowego."
+    ],
+    "durationSeconds": 21.87837799900025
+  }
+}

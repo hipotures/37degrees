@@ -1,0 +1,189 @@
+{
+  "session_id": "abba3f5a-b5aa-49e3-9bda-f1f6b93e098c",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/abba3f5a-b5aa-49e3-9bda-f1f6b93e098c.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Animal Farm TikTok booktok memes \"all animals are equal\" viral social media trends 2024"
+  },
+  "tool_response": {
+    "query": "Animal Farm TikTok booktok memes \"all animals are equal\" viral social media trends 2024",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01T83AusKi8rxFREKVk4kGdW",
+        "content": []
+      },
+      "I'll search for information about Animal Farm-related TikTok and BookTok memes, particularly those involving the famous quote \"all animals are equal\" and viral social media trends from 2024.",
+      {
+        "tool_use_id": "srvtoolu_01AcbWTFSxwVc5bsqUwRRjJo",
+        "content": [
+          {
+            "title": "Viral Pet Trends 2024",
+            "url": "https://www.tiktok.com/discover/viral-pet-trends-2024?lang=en"
+          },
+          {
+            "title": "Animal Farm Book Memes",
+            "url": "https://www.tiktok.com/discover/animal-farm-book-memes"
+          },
+          {
+            "title": "Trending Now on TikTok Animals",
+            "url": "https://www.tiktok.com/discover/trending-now-on-tiktok-animals?lang=en"
+          },
+          {
+            "title": "Animal Farm Memes Compilation",
+            "url": "https://www.tiktok.com/@aguynamedsteve_14/video/7203916074998353194"
+          },
+          {
+            "title": "The cutest animal videos of 2024 all in one place! \ud83e\udd79\ud83d\udc96\ud83e\udd70 #DogsOfTikTok #CatsOfTikTok #Horses #Birds #BabyAnimals #Cute #AdorableAnimals | TikTok",
+            "url": "https://www.tiktok.com/@thepetcollective/video/7446469251319303454"
+          },
+          {
+            "title": "animal farm Memes & GIFs - Imgflip",
+            "url": "https://imgflip.com/tag/animal+farm"
+          },
+          {
+            "title": "13 Biggest TikTok Trends of 2024 \u2014 and What to Learn From Them",
+            "url": "https://www.kapwing.com/resources/13-biggest-tiktok-trends-of-2024-and-what-to-learn-from-them/"
+          },
+          {
+            "title": "Animal Farm Memes",
+            "url": "https://www.tiktok.com/discover/animal-farm-memes?lang=en"
+          },
+          {
+            "title": "Year on TikTok 2024: A little creativity sparks a lot of impact - Newsroom | TikTok",
+            "url": "https://newsroom.tiktok.com/en-us/year-on-tiktok-2024/"
+          },
+          {
+            "title": "900+ Funny Animal Farm ideas in 2024",
+            "url": "https://www.pinterest.com/jsian12/funny-animal-farm/"
+          }
+        ]
+      },
+      "The initial search didn't provide detailed information about specific Animal Farm memes or viral trends. Let me search more specifically for BookTok content related to Animal Farm and its famous quotes.",
+      {
+        "tool_use_id": "srvtoolu_01APuACopeaZcig9HAMyw3TV",
+        "content": [
+          {
+            "title": "Animal Farm Quotes by George Orwell",
+            "url": "https://www.goodreads.com/work/quotes/2207778-animal-farm-a-fairy-story"
+          },
+          {
+            "title": "The best George Orwell quotes from 1984, Animal Farm and more - Pan Macmillan",
+            "url": "https://www.panmacmillan.com/blogs/literary/george-orwell-quotes-1984-animal-farm"
+          },
+          {
+            "title": "33 Animal Farm Quotes About Power And Propaganda",
+            "url": "https://alonewithbooks.com/animal-farm-quotes/"
+          },
+          {
+            "title": "Animal Farm by George Orwell | Important Quotes & Analysis - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/important-quotes-from-animal-farm.html"
+          },
+          {
+            "title": "10 Equal Quotes From Animal Farm, by George Orwell - Writer's Digest",
+            "url": "https://www.writersdigest.com/be-inspired/quotes-from-animal-farm-by-george-orwell"
+          },
+          {
+            "title": "Quotes (Animal Farm) - GCSE English Literature Revision",
+            "url": "https://revisionworld.com/a2-level-level-revision/english-literature-gcse-level/animal-farm-george-orwell/quotes-animal-farm"
+          },
+          {
+            "title": "Animal Farm by George Orwell | Important Quotes & Analysis ...",
+            "url": "https://study.com/academy/lesson/video/important-quotes-from-animal-farm.html"
+          },
+          {
+            "title": "The 26 Best Animal Farm Quotes",
+            "url": "https://bookroo.com/quotes/animal-farm"
+          },
+          {
+            "title": "Animal Farm Quotes | Explanations with Page Numbers | LitCharts",
+            "url": "https://www.litcharts.com/lit/animal-farm/quotes"
+          },
+          {
+            "title": "Animal Farm Quotes",
+            "url": "https://www.softschools.com/literature/summary/animal_farm/animal_farm_quotes/"
+          }
+        ]
+      },
+      "Now let me search more specifically for recent TikTok and social media trends related to Animal Farm quotes to see if there were any viral moments in 2024.",
+      {
+        "tool_use_id": "srvtoolu_015Rav51CjHFdujKVfSJDDrk",
+        "content": [
+          {
+            "title": "\u2018All animals are equal, but some animals are more equal than others\u2019 - George Orwell #animalfarm #georgeorwell #orwellian #dystopian #dystopianbooks #bookrecs #booksarepower #readingisresistance @Penguin Classics  | TikTok",
+            "url": "https://www.tiktok.com/@periarrowsmith/video/7435699884453301536"
+          },
+          {
+            "title": "All Animals Are Equal But Some More Than Others",
+            "url": "https://www.tiktok.com/discover/all-animals-are-equal-but-some-more-than-others"
+          },
+          {
+            "title": "All Animals Are Equal",
+            "url": "https://www.tiktok.com/discover/all-animals-are-equal"
+          },
+          {
+            "title": "\u00ab\u00a0All animals are equal, but some animals are more equal than others.\u00a0\u00bb Animal Farm, George Orwell #frenchriot  | TikTok",
+            "url": "https://www.tiktok.com/@santasolina/video/7261710645345766683"
+          },
+          {
+            "title": "\"All animals are equal, but some animals are more equal than ...",
+            "url": "https://www.tiktok.com/@saily.mar/video/7339982573231181099?lang=en"
+          },
+          {
+            "title": "All Animals Are Equal But Some Are More Equal",
+            "url": "https://www.tiktok.com/discover/all-animals-are-equal-but-some-are-more-equal"
+          }
+        ]
+      },
+      "Let me search for more specific information about BookTok trends and literature content on social media in 2024.",
+      {
+        "tool_use_id": "srvtoolu_0146hhsstkVxjKbAGWJVBDSX",
+        "content": [
+          {
+            "title": "BookTok\u2019s 21 Most Talked About Books of 2024",
+            "url": "https://www.rollingstone.com/culture/culture-lists/booktok-best-books-2024-1235090973/"
+          },
+          {
+            "title": "BookTok: Trends and community - The Johns Hopkins News-Letter",
+            "url": "https://www.jhunewsletter.com/article/2024/04/booktok-trends-and-community"
+          },
+          {
+            "title": "The viral publishing sensation that may be BookTok\u2019s last | Pursuit by the University of Melbourne",
+            "url": "https://pursuit.unimelb.edu.au/articles/the-viral-publishing-sensation-that-may-be-booktoks-last"
+          },
+          {
+            "title": "The Influence of BookTok on Literary Criticisms and Diversity - Alysia De Melo, 2024",
+            "url": "https://journals.sagepub.com/doi/10.1177/20563051241286700"
+          },
+          {
+            "title": "The Most Popular TikTok Books #BookTok | Barnes & Noble\u00ae",
+            "url": "https://www.barnesandnoble.com/b/booktok/_/N-2vdn"
+          },
+          {
+            "title": "The BookTok Trends Inspiring Minds For World Book Day 2024",
+            "url": "https://sociallypowerful.com/post/the-power-of-booktok"
+          },
+          {
+            "title": "Book Tok Trend 2025: How TikTok Is Reshaping Literary Discovery",
+            "url": "https://www.accio.com/business/book_tok_trend"
+          },
+          {
+            "title": "Exploring BookTok\u2019s impact on literature",
+            "url": "https://miscellanynews.org/2025/02/19/opinions/exploring-booktoks-impact-on-literature/"
+          },
+          {
+            "title": "2025 Book Publishing Trends: 21 Booktok and Bookstagram Influencers\u2019 Predictions",
+            "url": "https://www.elle.com/culture/books/a63445166/2025-book-publishing-trends-influencer-predictions-explained/"
+          },
+          {
+            "title": "BookTok Recommendations 2024: What's Hot and What's Not?",
+            "url": "https://sociallypowerful.com/post/booktok-recommendations-2024"
+          }
+        ]
+      },
+      "Based on my search results, I can provide you with information about Animal Farm TikTok and BookTok memes, particularly regarding the famous quote \"all animals are equal\" and viral social media trends in 2024.\n\n## Animal Farm on TikTok and BookTok in 2024\n\nThe search results show that Animal Farm content has indeed been present on TikTok and BookTok platforms in 2024, though it doesn't appear to have achieved the same viral status as some contemporary novels.\n\n### Notable Findings:\n\n**Classic Literature on BookTok**: In 2023 the inaugural TikTok Book Awards UK and Ireland included a 'Revival' category, allowing BookTokers to vote on their favourite 'classic' novel. From a shortlist including Kazuo Ishiguro's Never Let Me Go (2005) and George Orwell's 1984 (1949), Jane Austen's Pride and Prejudice (1813) emerged victorious, suggesting there is interest in Orwell's work within the BookTok community.\n\n**BookTok's Influence**: BookTok is a corner of TikTok where creators share books they've recently read, offering reviews and recommendations to their audience. With over 42 million posts under the #BookTok hashtag, it has become a major influencer, sparking viral trends and driving book sales. As a result, BookTok continues to shape the literary landscape and generate buzz for new and classic reads alike.\n\n**Specific Animal Farm Content**: The search revealed specific TikTok videos featuring the famous quote, including content by creators like @periarrowsmith who posted about \"All animals are equal, but some animals are more equal than others\" - George Orwell #animalfarm #georgeorwell #orwellian #dystopian #dystopianbooks #bookrecs.\n\n**Classic Literature Trends**: Classic and contemporary works alike have been newly popularized by the \"dark academia\" aesthetic, which romanticizes higher education, art and literature. Donna Tartt's The Secret History is credited with contributing greatly to the dark academia subculture. Alternatively, a dark academia post related to classic literature might include references to Wuthering Heights or any number of Virginia Woolf novels.\n\n### Context of 2024 BookTok Trends:\n\nBookTok originally grew in popularity during the COVID-19 pandemic and by October 2024 the hashtag #booktok had over 38 million posts with more than 309 billion views. That's the equivalent of every person on the planet viewing it 38 times. With these numbers in mind, it's not hard to see why BookTok is now the single biggest influence on reading trends worldwide.\n\nWhile Animal Farm content exists on TikTok and BookTok, it appears to be part of the broader trend of classic literature finding new audiences through social media rather than being a specific viral phenomenon in 2024. The platform tends to favor contemporary genres like \"romantasy\" and YA fiction, though there is definitely space for classic works to find new readers through the platform."
+    ],
+    "durationSeconds": 39.13906442499999
+  }
+}
