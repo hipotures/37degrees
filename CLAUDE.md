@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-37degrees is a TikTok video generator for book reviews targeting Polish youth (12-25 years old). The project creates 8-slide vertical videos (1080x1920) with stylized, non-photorealistic illustrations and text overlays for each classic book.
+37degrees is a TikTok video generator for book reviews targeting Polish youth (12-25 years old). The project generates 25 scenic AI illustrations per book with stylized, non-photorealistic style for creating engaging TikTok content about classic literature.
 
 ## Development Environment
 
@@ -147,7 +147,7 @@ python src/prompt_builder.py books/NNNN_book_name/book.yaml
    - **Two-step process**: Scene descriptions → Style application
    - **Generator types**: narrative, flexible, podcast, atmospheric, emotional
    - **Scene files**: `books/*/prompts/scenes/[type]/scene_XX.json`
-   - **Style library**: 37 graphic styles in `config/prompt/graphics-styles/`
+   - **Style library**: 34 graphic styles in `config/prompt/graphics-styles/`
    - **Templates**: Scene generators in `config/prompt/scene-generator/`
 
 3. **Configuration System** (`src/config.py`)
@@ -161,25 +161,31 @@ python src/prompt_builder.py books/NNNN_book_name/book.yaml
    - Commands use click framework with shared context
    - Batch operations support via collection system
 
-5. **Video Generation Pipeline**
+5. **Collections System** (`collections/`)
+   - `classics.yaml` contains 37 books in "Klasyka Światowa" collection
+   - Each book has order, path, and thematic tags
+   - Series metadata with hashtags, target audience, description
+   - Batch operations: `python main.py ai classics`, `python main.py video classics`
+
+6. **Video Generation Pipeline**
    - `OptimizedVideoGenerator` for parallel frame rendering
    - `SlideRenderer` handles Ken Burns effects and transitions
    - `TextAnimator` provides entrance/exit animations
    - Multiple text overlay methods (outline, shadow, box, etc.)
    - FFmpeg with NVENC GPU acceleration
 
-6. **Research Integration** (`src/research/`)
+7. **Research Integration** (`src/research/`)
    - Provider pattern for extensibility
    - Perplexity AI and Google Search implementations
    - Automatic Polish review.md generation
    - Response caching to minimize API calls
 
-7. **Static Site Generation** (`src/site_generator/`)
+8. **Static Site Generation** (`src/site_generator/`)
    - Generates interactive HTML for book exploration
    - Timeline visualizations and collection organization
    - Templates in `shared_assets/templates/`
 
-8. **37d Intelligent Agent System** (`.claude/agents/`)
+9. **37d Intelligent Agent System** (`.claude/agents/`)
    - **8 specialized research agents** working in coordinated sequence
    - **Dynamic agent discovery** - extensible architecture via file-based configuration
    - **Task quantity control** - configurable min/max tasks per agent type
@@ -213,11 +219,11 @@ book/docs/findings/ ← Quality Control ← Bibliography ← Research Results
 - Target audience: Polish teenagers on TikTok
 - Account name: @37stopni (37 degrees - "fever of reading")
 - Series focus: World Classics adapted for young readers
-- Each video: ~28 seconds, 8 slides, vertical format
+- Format: 25 scenes per book, vertical 1080x1920, various video lengths
 - Emphasis on emotional, direct messaging with contemporary references
 - Safe zone compliance for TikTok UI elements
 - Art style: Non-photorealistic, childlike illustrations
-- Final video: 1080x1920 at 30fps
+- Technical specs: 1080x1920 at 30fps, SDXL optimal at 832x1248
 
 ### 37d Agent System Context
 - **Extensible architecture**: New agents auto-discovered from `.claude/agents/37d-*.md`
