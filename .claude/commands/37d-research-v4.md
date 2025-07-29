@@ -54,10 +54,10 @@ IF book folder not found:
 ## STEP 2: Discover Available Agents
 
 <instructions>
-2.1. EXECUTE exactly this Bash command: ls ../../.claude/agents/37d-*.md | sort
+2.1. EXECUTE exactly this Bash command: ls ../../.claude/agents/37d-*.md
 2.2. PARSE list to extract agent names (remove path and .md extension)
 2.3. CREATE agent_list array with discovered agents in alphabetical order
-2.4. SORT agents by recommended execution order (if order metadata exists)
+2.4. SORT agents by execution_order field from agent profile headers
 2.5. FOR EACH agent in agent_list:
      - EXECUTE exactly this Bash command: mkdir -p docs/${agent_name}
 2.6. EXECUTE exactly this Bash command: find . -maxdepth 1 -name "*-37d-*.lock" -type f -delete
@@ -115,7 +115,7 @@ Location: books/[book_folder_name]/
 3. **[Category 3]**: [Polish/youth specific focus]
 
 ## Output Requirements
-- Save findings to: docs/findings/[agent-name]_findings.md
+- Search results are automatically saved by 37d-save-search.py hook
 - Follow format specified in agent profile
 - [Additional requirements from agent documentation]
 
@@ -194,9 +194,9 @@ FOR EACH agent in discovered agent_list:
 <instructions>
 1. EXECUTE agent using Task tool with prompt:
    "Use ${agent_name} to research '${book_title}' by ${author} (${year}) 
-    YOUR TASKS ARE IN: docs/todo/TODO_${agent_name}.md
-    ONLY complete tasks from this FILE TODO. Do NOT create new tasks.
-    Mark each completed task with [x] and timestamp."
+    COMPLETE ONLY THE FIRST [ ] TASK from: docs/todo/TODO_${agent_name}.md
+    Mark it as [x] with timestamp when done, [0] if no results found.
+    Do ONE task only, then exit."
     
 2. CAPTURE agent output for analysis
 </instructions>
@@ -242,7 +242,7 @@ IF agent output contains other errors:
 
 ## Dynamic Agent System
 - Agents are discovered at runtime from ../../.claude/agents/37d-*.md
-- Agents are executed in alphabetical order by name
+- Agents are executed by execution_order field from agent profile headers (YAML frontmatter)
 - Symlink created: books/NNNN/docs/agents → documentation only (not agent profiles)
 
 ## Lock File Management

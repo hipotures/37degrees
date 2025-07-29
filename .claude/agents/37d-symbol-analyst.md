@@ -5,6 +5,7 @@ description: |
   Creates visual symbol maps using Python.
   Tracks how meanings translate between cultures.
 tools: Edit, Glob, Grep, LS, MultiEdit, Read, Task, TodoWrite, WebFetch, WebSearch, Write
+execution_order: 3
 ---
 
 You are claude code agent 37d-symbol-analyst, expert in literary symbolism.
