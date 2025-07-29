@@ -1,0 +1,62 @@
+{
+  "session_id": "100c9686-088c-4e35-9a25-3b12acbb258b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/100c9686-088c-4e35-9a25-3b12acbb258b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0005_chlopi",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Ch\u0142opi Reymont audiobook graficzna powie\u015b\u0107 Youtube streszczenie fanfiction"
+  },
+  "tool_response": {
+    "query": "Ch\u0142opi Reymont audiobook graficzna powie\u015b\u0107 Youtube streszczenie fanfiction",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01Sqxa7iHLmDbPZsWEQX6CKF",
+        "content": [
+          {
+            "title": "All books by author W\u0142adys\u0142aw Reymont - Storytel International",
+            "url": "https://www.storytel.com/tv/authors/w%C5%82adys%C5%82aw-reymont-39181"
+          },
+          {
+            "title": "W\u0142adys\u0142aw Stanis\u0142aw Reymont, Ch\u0142opi",
+            "url": "https://wolnelektury.pl/katalog/lektura/chlopi/"
+          },
+          {
+            "title": "Ch\u0142opi - Audiobook - W\u0142adys\u0142aw Stanis\u0142aw Reymont - Biblios | Audioteka",
+            "url": "https://audioteka.com/pl/audiobook/chlopi-sedrowski/"
+          },
+          {
+            "title": "Ch\u0142opi \u2013 W\u0142adys\u0142aw Reymont | Audiobook w MP3 | ksi\u0119garnia internetowa Woblink",
+            "url": "https://woblink.com/audiobook/chlopi-wladyslaw-reymont-241857"
+          },
+          {
+            "title": "Ch\u0142opi, Cz\u0119\u015b\u0107 pierwsza - Jesie\u0144",
+            "url": "https://wolnelektury.pl/katalog/lektura/chlopi-czesc-pierwsza-jesien/"
+          },
+          {
+            "title": "\u201eCh\u0142opi\u201d, W\u0142adys\u0142aw Stanis\u0142aw Reymont \u2014 streszczenie i opracowanie",
+            "url": "https://babaodpolskiego.pl/wladyslaw-stanislaw-reymont-chlopi-streszczenie-i-opracowanie/"
+          },
+          {
+            "title": "Ch\u0142opi (Streszczenie lektury szkolnej) - Audiobook - W\u0142adys\u0142aw Reymont - ISBN 9788394463939 - Storytel International",
+            "url": "https://www.storytel.com/tv/books/ch%C5%82opi-streszczenie-lektury-szkolnej-106228"
+          },
+          {
+            "title": "W\u0142adys\u0142aw Stanis\u0142aw Reymont \u201eCh\u0142opi\u201d \u2013 streszczenie szczeg\u00f3\u0142owe | Akademia Humanistyczno-Ekonomiczna w \u0141odzi",
+            "url": "https://www.ahe.lodz.pl/strefa-wiedzy/wladyslaw-stanislaw-reymont-chlopi-streszczenie-szczegolowe"
+          },
+          {
+            "title": "Ch\u0142opi Audiobook W\u0142adys\u0142aw Reymont - Niska cena na Allegro",
+            "url": "https://allegro.pl/listing?string=ch%C5%82opi+audiobook+w%C5%82adys%C5%82aw+reymont"
+          },
+          {
+            "title": "Ch\u0142opi - Audiobook - W\u0142adys\u0142aw Stanis\u0142aw Reymont - ZNiW | Audioteka",
+            "url": "https://audioteka.com/pl/audiobook/chlopi-jasienski/"
+          }
+        ]
+      },
+      "Based on the search results, I found extensive information about \"Ch\u0142opi\" by W\u0142adys\u0142aw Stanis\u0142aw Reymont across different formats and platforms. Here's what I discovered:\n\n## Audiobook Availability\n\nAudiobook Ch\u0142opi autorstwa W\u0142adys\u0142aw Stanis\u0142aw Reymont od Biblios s\u0142uchaj w Audiotece. The audiobook is available on multiple platforms including Audioteka, with Liczba godzin: 43 of content. There's also another version with 44 godziny of listening time.\n\nNotable narrators include:\n- Interpretacja p. S\u0119drowskiego, kt\u00f3rego notabene bardzo ceni\u0119 jako aktora teatralnego, po prostu mistrzowska.\n- Mistrzowska interpretacja Marka Walczaka\n- Jesie\u0144 czyta Joanna Doma\u0144ska (for the first part)\n- Ksawery Jasie\u0144ski - nikt tak nie czyta jak pan Ksawery!\n\n## About the Novel\n\nPowie\u015b\u0107 W\u0142adys\u0142awa Reymonta, za kt\u00f3r\u0105 otrzyma\u0142 Nagrod\u0119 Nobla w 1924 roku, publikowana w tomach mi\u0119dzy 1904 a 1909 rokiem.(no content)To utw\u00f3r przedstawiaj\u0105cy losy spo\u0142eczno\u015bci zamieszka\u0142ej we wsi Lipce. Fabu\u0142a powie\u015bci obejmuje 10 miesi\u0119cy i opisuje losy Macieja Boryny, jego rodziny i innych mieszka\u0144c\u00f3w Lipiec.\n\n## Summaries (Streszczenie)\n\nOpracowanie powie\u015bci \u201eCh\u0142opi\" W\u0142adys\u0142awa Reymonta, a w nim: streszczenie, opracowanie, informacje o bohaterach, motywach, symbolach, kontekstach. Multiple sources offer detailed summaries and analyses of the work, including educational materials for students.\n\n## Graphic Novel/Visual Adaptations\n\nWhile the search didn't reveal specific information about a graphic novel (\"graficzna powie\u015b\u0107\") adaptation, Nie dziwi\u0119 si\u0119 wi\u0119c, \u017ce najnowsza daptacja ksi\u0105\u017cki nawi\u0105zuje do malarstwa. This suggests there have been visual adaptations that reference painting techniques.\n\n## YouTube Content\n\nThe search didn't return specific YouTube videos, but the availability of audiobooks and educational summaries suggests there may be related content on the platform for educational purposes.\n\n## Fanfiction\n\nNo specific fanfiction content was found in the search results, though this doesn't mean it doesn't exist on various platforms.\n\nThe novel remains highly regarded, with Ch\u0142opi od razu wzbudzili entuzjazm krytyk\u00f3w i powie\u015b\u0107 szybko zosta\u0142a przet\u0142umaczona na j\u0119zyk ukrai\u0144ski i rosyjski."
+    ],
+    "durationSeconds": 23.809069186000155
+  }
+}

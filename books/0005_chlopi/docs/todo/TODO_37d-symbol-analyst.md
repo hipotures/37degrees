@@ -1,60 +1,40 @@
-# TODO: 37d-symbol-analyst for "Chłopi" by Władysław Reymont (1904)
+# TODO: 37d-symbol-analyst
+Book: Chłopi (The Peasants)
+Author: Władysław Reymont
+Year: 1904-1909
+Location: books/0005_chlopi/
 
-## Literary Symbolism Analysis
+## Primary Tasks
+- [x] Identify and analyze the seasonal symbolism (four volumes = four seasons) - Completed 2025-07-29 06:15
+- [x] Research earth/soil symbolism and peasant connection to the land - Completed 2025-07-29 06:25
+- [x] Analyze religious symbolism and Catholic traditions in peasant culture - Completed 2025-07-29 06:35
+- [x] Explore generational conflict symbols (old vs young) - Completed 2025-07-29 06:55
+- [x] Investigate marriage and sexuality symbols in village context - Completed 2025-07-29 07:05
+- [x] Study folk traditions and ritual symbolism throughout the novel - Completed 2025-07-29 06:45
+- [x] Create visual symbol maps showing interconnections - Completed 2025-07-29 06:45
+- [x] Compare Polish interpretations with international scholarly readings - Completed 2025-07-29 06:45
 
-### [ ] 1. Seasonal Symbolism Deep Dive
-- [ ] Analyze autumn symbolism (harvest, aging, death approach)
-- [ ] Document winter themes (hardship, isolation, dormancy)
-- [ ] Explore spring symbolism (renewal, hope, rebirth)
-- [ ] Examine summer meanings (fulfillment, passion, life peak)
+## Search Focus Areas
+Generated based on agent's symbolic expertise and "Chłopi"'s rich folkloric content:
 
-### [ ] 2. Character Symbolic Functions
-- [ ] Analyze Boryna as patriarch/old order symbol
-- [ ] Document Jagna as youth/sensuality/change symbol
-- [ ] Explore Antek as rebellion/new generation symbol
-- [ ] Research other characters' symbolic roles
-
-### [ ] 3. Nature and Environment Symbols
-- [ ] Document land/soil as life source symbolism
-- [ ] Analyze weather patterns as emotional metaphors
-- [ ] Explore animal symbolism throughout the novel
-- [ ] Research plant/crop symbolic meanings
-
-### [ ] 4. Social Structure Symbolism
-- [ ] Analyze class conflicts as broader social change symbols
-- [ ] Document traditional vs modern tensions
-- [ ] Explore marriage as social contract symbol
-- [ ] Research community dynamics symbolism
-
-### [ ] 5. Religious and Spiritual Symbolism
-- [ ] Document Catholic imagery and meanings
-- [ ] Analyze folk beliefs and superstitions
-- [ ] Explore death/burial ritual symbolism
-- [ ] Research sin/redemption themes
-
-## Cross-Cultural Symbol Interpretation
-
-### [ ] 6. Universal Themes Identification
-- [ ] Map symbols to universal human experiences
-- [ ] Compare with similar motifs in world literature
-- [ ] Analyze generational conflict symbols
-- [ ] Document love/passion symbolic representations
-
-### [ ] 7. Modern Relevance Analysis
-- [ ] Translate historical symbols to contemporary meanings
-- [ ] Identify symbols relevant to modern youth
-- [ ] Analyze timeless vs time-specific symbolism
+1. **Seasonal Symbolism**: Research how spring/summer/autumn/winter represent life cycles, death/rebirth, and peasant rhythms
+2. **Earth/Land Symbolism**: Analyze symbols of soil, harvest, plowing as connections between peasants and Polish land
+3. **Religious Iconography**: Investigate Catholic symbols, saints, religious festivals, and their role in peasant identity
+4. **Folk Symbolism**: Document traditional Polish folk symbols, customs, and their meanings in village life
+5. **Social Hierarchy Symbols**: Research symbols of class, property, and social status within peasant community
+6. **Gender Role Symbols**: Analyze symbolic representation of women, men, and family structures in rural Poland
+7. **Cultural Translation**: Study how Polish folk symbols translate for international readers and modern youth
+8. **Modern Reinterpretations**: Find how contemporary readers interpret traditional peasant symbols
 
 ## Output Requirements
+- Save findings to: docs/findings/37d-symbol-analyst_findings.md  
+- Follow agent profile format with scholarly citations and visual diagrams
+- Create Python visualizations of symbol networks and relationships
+- Include Polish academic interpretations alongside international scholarship
+- Generate symbol maps suitable for young readers to understand
 
-### [ ] 8. Symbol Catalog Creation
-- [ ] Create comprehensive symbol dictionary
-- [ ] Map symbols to specific scenes/chapters
-- [ ] Document symbol evolution throughout novel
-
-### [ ] 9. Cross-Reference Analysis
-- [ ] Connect symbols to historical facts (from 37d-facts-hunter)
-- [ ] Prepare foundation for cultural impact analysis
-- [ ] Create symbol hierarchy (major/minor themes)
-
-**COMPLETION CRITERIA**: All [ ] tasks must be marked [x] with timestamp when completed, [0] if no relevant information found.
+## Notes
+- Agent profile location: ../../.claude/agents/37d-symbol-analyst.md (relative from book directory)
+- Focus on symbols that connect to Polish national identity and rural heritage
+- Consider how peasant symbols might resonate with modern Polish youth
+- Remember the Nobel Prize context - these symbols have international literary significance

@@ -1,0 +1,63 @@
+{
+  "session_id": "100c9686-088c-4e35-9a25-3b12acbb258b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/100c9686-088c-4e35-9a25-3b12acbb258b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0005_chlopi",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Ch\u0142opi parody modern reinterpretation contemporary Polish culture memes satire adaptations"
+  },
+  "tool_response": {
+    "query": "Ch\u0142opi parody modern reinterpretation contemporary Polish culture memes satire adaptations",
+    "results": [
+      "I'll search for information about Ch\u0142opi parody and modern reinterpretations in contemporary Polish culture.",
+      {
+        "tool_use_id": "srvtoolu_016ssMTZVpbu3YpbhgStA6Bn",
+        "content": [
+          {
+            "title": "Polish political memes as an example of uncreative writing",
+            "url": "https://www.sas.rochester.edu/psc/CPCES/newsletter/2017/article4.html"
+          },
+          {
+            "title": "Polish joke - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Polish_joke"
+          },
+          {
+            "title": "Sophisticated humor against COVID-19: the Polish case",
+            "url": "https://www.degruyterbrill.com/document/doi/10.1515/humor-2021-0015/html"
+          },
+          {
+            "title": "30 Funny Memes That Showcase Poland\u2019s Unique Sense Of Humor | Bored Panda",
+            "url": "https://www.boredpanda.com/funny-polish-memes/"
+          },
+          {
+            "title": "Televised Political Satire in Poland: Historical Roots and Social Implications of Stereotypical Representations of Politicians and Politics | SpringerLink",
+            "url": "https://link.springer.com/chapter/10.1007/978-981-97-0726-3_8"
+          },
+          {
+            "title": "Parody, Satire, and Modern Adaptation",
+            "url": "https://www.storyboardthat.com/articles/e/parody-satire-modern-adaptation"
+          },
+          {
+            "title": "Competition performance: \u201cCh\u0142opi\u201d, dir. Krzysztof Garbaczewski - Festival Interpretacje",
+            "url": "http://festiwal-interpretacje.pl/en/competition-performance-chlopi-dir-krzysztof-garbaczewski/"
+          },
+          {
+            "title": "SZPILKI - POLISH MAGAZINE - DESA Unicum",
+            "url": "https://desa.pl/en/stories/szpilki-polish-magazine/"
+          },
+          {
+            "title": "Decoding Chinese Memes: A Comprehensive Guide to Internet Culture in China - 2025",
+            "url": "https://carmi.illinois.gov/decoding-chinese-memes-a-comprehensive-guide-to-internet-culture-in-china/"
+          },
+          {
+            "title": "Category:Polish satire - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Category:Polish_satire"
+          }
+        ]
+      },
+      "Based on the search results, I found some relevant information about modern Polish cultural adaptations and contemporary interpretations, though the specific connection to \"Ch\u0142opi\" parodies isn't as extensively documented. Here's what I found:\n\n## Contemporary Polish Cultural Adaptations and Satirical Reinterpretations\n\n### Modern Theatrical Adaptation of \"Ch\u0142opi\"\nThe most significant contemporary reinterpretation appears to be Krzysztof Garbaczewski's theatrical adaptation of W\u0142adys\u0142aw Reymont's \"Ch\u0142opi\" at the Powszechny Theatre in Warsaw. From the monumental novel, Garbaczewski picks out ecological and emancipatory themes and juxtaposes the writer's and modern ideas, putting the great Young Poland prose within the context of contemporary social-feminist-ecological discourse.(no content)The production features \"energetic, ironic and parodistic acting\" and has been described as \"the most humorous performance\" in Garbaczewski's career.(no content)The adaptation creates a world of creatures who are partly humans, animals and robots looking for meaning in their lives, while also addressing dramas of community life based on violence against women and exclusion.\n\n### Polish Meme Culture and Satirical Tradition\nContemporary Polish satirical culture thrives in digital spaces through fanpages like \"Pi\u0119kni ch\u0142opcy prawicy\" (Pretty rightist boys) or \"Nowoczesny maoizm\" (Modern Maoism), which have built their popularity on political satire, sharing memes that exploit well-known public figures and their flaws in the manner of sketch-comedy shows or satirical texts.(no content)Polish humor tradition, which has printed literature and oral and audio-visual media in the forefront, possesses cultural resources necessary for sophisticated humor to thrive. Political humor was crucial in early Poland as well as in the 19th century and the interwar period, with special emphasis on humor under socialism (1945\u20131989).\n\n### Sophisticated Polish Humor and Cultural References\nContemporary Polish memes often draw on culture-specific references, embracing memories of socialist times and calling on references to comic films and easily recognized characters to bring out the absurdity of current situations.(no content)This material demonstrates sophistication through intertextuality and complexity of references, featuring intertextual and metatextual elements, multiple levels and shifts in points of view.\n\n### Historical Context of Polish Satirical Publications\nPoland has a rich tradition of satirical publications, exemplified by \"Szpilki\" magazine, which was relaunched after the war in 1945 and actively participated in state matters while maintaining its satirical character, with many of its cartoonists going down in the history of satire.\n\nThe search results suggest that while there may be contemporary parodies and memes related to \"Ch\u0142opi,\" the most documented modern reinterpretation is the theatrical adaptation that uses ironic and parodistic approaches to recontextualize the classic work within contemporary social discourse."
+    ],
+    "durationSeconds": 25.60589896500006
+  }
+}

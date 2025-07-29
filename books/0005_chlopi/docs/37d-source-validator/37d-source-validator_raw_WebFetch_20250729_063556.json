@@ -1,0 +1,19 @@
+{
+  "session_id": "100c9686-088c-4e35-9a25-3b12acbb258b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/100c9686-088c-4e35-9a25-3b12acbb258b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0005_chlopi",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebFetch",
+  "tool_input": {
+    "url": "https://lubimyczytac.pl/ksiazka/4997/chlopi",
+    "prompt": "Extract the rating statistics for this book including average rating, number of ratings, number of readers, and number of reviews"
+  },
+  "tool_response": {
+    "bytes": 352151,
+    "code": 200,
+    "codeText": "OK",
+    "result": "Based on the web page content, here are the rating statistics for \"Bezg\u0142o\u015bna Klinga\":\n\n- Average Rating: 6.3 out of 10\n- Total Number of Ratings: 38\n- Rating Breakdown:\n  - 10/10: 1 rating\n  - 9/10: 1 rating\n  - 8/10: 6 ratings\n  - 7/10: 14 ratings\n  - 6/10: 6 ratings\n  - 5/10: 8 ratings\n  - 4/10: 1 rating\n  - 3/10: 3 ratings\n  - 2/10: 0 ratings\n  - 1/10: 0 ratings\n\nThe book has received mixed reviews, with the majority of ratings clustering around 7/10.",
+    "durationMs": 8567,
+    "url": "https://lubimyczytac.pl/ksiazka/4997/chlopi"
+  }
+}

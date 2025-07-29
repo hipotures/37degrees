@@ -1,0 +1,62 @@
+{
+  "session_id": "100c9686-088c-4e35-9a25-3b12acbb258b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/100c9686-088c-4e35-9a25-3b12acbb258b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0005_chlopi",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"The Peasants\" 2023 Poland Oscar submission international distribution"
+  },
+  "tool_response": {
+    "query": "\"The Peasants\" 2023 Poland Oscar submission international distribution",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_014qgMEzafQQorvuMhidB2YT",
+        "content": [
+          {
+            "title": "Oscars: Poland Submits 'The Peasants' For Best International Feature Film",
+            "url": "https://deadline.com/2023/09/oscar-poland-submission-best-international-feature-film-96h-academy-awards-1235555261/"
+          },
+          {
+            "title": "Poland's Oscar Entry 'The Peasants' Debuts International Trailer",
+            "url": "https://variety.com/2023/film/global/the-peasants-international-trailer-1235746138/"
+          },
+          {
+            "title": "Poland picks 'The Peasants' as Oscar submission",
+            "url": "https://www.screendaily.com/news/poland-picks-the-peasants-as-oscar-submission/5186230.article"
+          },
+          {
+            "title": "Sony Pictures Classics Nabs Poland Oscar Submission \u2018The Peasants\u2019 - IMDb",
+            "url": "https://m.imdb.com/news/ni64259863/"
+          },
+          {
+            "title": "The Peasants (2023 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Peasants_(2023_film)"
+          },
+          {
+            "title": "Poland picks 'The Peasants' as Oscar submission",
+            "url": "https://www.imdb.com/news/ni64253272/"
+          },
+          {
+            "title": "Sony Classics takes Polish Oscar submission \u2018The Peasants\u2019 for the Americas | News | Screen",
+            "url": "https://www.screendaily.com/news/sony-classics-takes-polish-oscar-submission-the-peasants-for-the-americas/5186427.article"
+          },
+          {
+            "title": "Welchmans' 'The Peasants' Submitted as Poland's Official Entry in Intl. Feature Oscar Race | Animation Magazine",
+            "url": "https://www.animationmagazine.net/2023/09/welchmans-the-peasants-submitted-as-polands-official-entry-in-intl-feature-oscar-race/"
+          },
+          {
+            "title": "Sony Pictures Classics Nabs 'The Peasants' Poland Oscar Submission",
+            "url": "https://www.hollywoodreporter.com/movies/movie-news/sony-pictures-classics-acquires-the-peasants-1235604520/"
+          },
+          {
+            "title": "The Peasants is the most successful Polish film of 2023 - Cineuropa",
+            "url": "https://cineuropa.org/en/newsdetail/453295/"
+          }
+        ]
+      },
+      "Based on the search results, here's information about \"The Peasants\" (2023), Poland's Oscar submission, and its international distribution:\n\n## Film Overview\n\"The Peasants\" is an animated feature drama that Poland submitted for Best International Feature Film at the 96th Academy Awards. The film is directed and written by DK Welchman and Hugh Welchman, and is an adaptation of W\u0142adys\u0142aw Reymont's novel of the same name, produced using the painted animation technique similar to their previous film, \"Loving Vincent\".\n\n## Oscar Submission Details\nPoland's Oscar entry choice was made by a selection committee overseen by the Polish Film Institute. The decision was made on the basis of four votes in favor and two against, with the committee choosing \"The Peasants\" for the way the co-directors had further pushed the boundaries of animation. The picture will also compete in the Oscar Best Animation category.\n\n## International Distribution\nThe film has achieved extensive international distribution:\n\n**Sales Territories**: New Europe Film Sales has sold rights to \"The Peasants\" to more than 70 countries, including German-speaking Europe (Plaion), France (The Jokers), Benelux (Paradiso), South Korea (First Run), China (JL Film), Scandinavia (Another World Entertainment) and Spain (Karma), as well as North America, Latin America, the Middle East and Australia/New Zealand (Sony Pictures Classics).\n\n**North American Distribution**: In September 2023, Sony Pictures Classics acquired distribution rights to the film for North and Latin America, the Middle East, Australia and New Zealand. In United States, it was released for a one-week awards-qualifying run beginning 8 December 2023 in New York City and Los Angeles, followed by a limited theatrical release starting on 26 January 2024.\n\n## Festival Circuit and Reception\nThe film premiered as a Special Presentation at Toronto Film Festival, and has since played at the Polish Film Festival in Gdynia, where it won the Special Jury Prize and Audience Award, and is headed to the London Film Festival, where its sessions October 11-12 have already sold out. The film will also play at the Hamptons and Busan festivals.\n\n## Box Office Performance\nWith over 141,000 admissions \"The Peasants\" recorded the biggest opening weekend for a Polish film in 2023, and by 30 October 2023 the number of recorded admissions rose to above 750,000 making the movie the most popular Polish release of 2023."
+    ],
+    "durationSeconds": 23.394480874999893
+  }
+}

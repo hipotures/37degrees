@@ -1,0 +1,62 @@
+{
+  "session_id": "100c9686-088c-4e35-9a25-3b12acbb258b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/100c9686-088c-4e35-9a25-3b12acbb258b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0005_chlopi",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Ch\u0142opi Reymont matura analiza psychologiczna depresja samob\u00f3jstwo Jagna trauma"
+  },
+  "tool_response": {
+    "query": "Ch\u0142opi Reymont matura analiza psychologiczna depresja samob\u00f3jstwo Jagna trauma",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01CNP6aEBwMiBrn7i36A1xvz",
+        "content": [
+          {
+            "title": "Ch\u0142opi - Matura z j\u0119zyka polskiego 2020 | Akademia Nauk Stosowanych w Elbl\u0105gu",
+            "url": "https://ans-elblag.pl/chlopi-matura-z-jezyka-polskiego-2020.html"
+          },
+          {
+            "title": "Matura - j\u0119zyk polski, egzamin pisemny. Materia\u0142y do ksi\u0105\u017cki - Wydawnictwo GREG",
+            "url": "https://matura.greg.pl/polski,chlopi-wladyslaw-stanislaw-reymont-opracowanie"
+          },
+          {
+            "title": "Ch\u0142opi - opracowanie - W\u0142adys\u0142aw Reymont",
+            "url": "https://poezja.org/wz/zbior/Chlopi/"
+          },
+          {
+            "title": "CH\u0141OPI, W\u0142adys\u0142aw Reymont | matura 2025",
+            "url": "https://www.otouczelnie.pl/news/1451/"
+          },
+          {
+            "title": "Ch\u0142opi tom 1 Streszczenie i Bohaterowie - W\u0142adys\u0142aw Stanis\u0142aw Reymont (J\u0119zyk polski) jako PDF - Knowunity",
+            "url": "https://knowunity.pl/knows/jzyk-polski-chopi-tom-1-wadysaw-stanisaw-reymont-93043e98-a708-445c-b02d-4d6be0726b43"
+          },
+          {
+            "title": "Ch\u0142opi Reymonta na maturze | AleKlasa",
+            "url": "https://aleklasa.pl/matura/c406-nauka-o-jezyku-2/chlopi-na-maturze"
+          },
+          {
+            "title": "Ch\u0142opi t. 1 - Problematyka - W\u0142adys\u0142aw Stanis\u0142aw Reymont - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/wladyslaw-stanislaw-reymont/chlopi-t-i.problematyka"
+          },
+          {
+            "title": "Ch\u0142opi (W. S. Reymont) - Opracowania, lektury, fiszki, testy - Opracowania.pl",
+            "url": "https://opracowania.pl/opracowania/jezyk-polski/chlopi-w-s-reymont,oid,454,problematyka"
+          },
+          {
+            "title": "Ch\u0142opi na maturze reymont - Ch\u0142opi na maturze Tego si\u0119 naucz! \uf0b7 Powiniene\u015b wiedzie\u0107, kto jest kim w - Studocu",
+            "url": "https://www.studocu.com/pl/document/uniwersytet-wroclawski/descriptive-grammar-for-french/chlopi-na-maturze-reymont/26499428"
+          },
+          {
+            "title": "Lektury do matury \u2013 W\u0142adys\u0142aw Stanis\u0142aw Reymont, Ch\u0142opi, t.1, Jesie\u0144",
+            "url": "https://bibliozsgpoznan.home.blog/2020/04/07/lektury-do-matury-wladyslaw-stanislaw-reymont-chlopi-t-1-jesien/"
+          }
+        ]
+      },
+      "I've performed the web search for your query about psychological analysis of \"Ch\u0142opi\" by Reymont, focusing on depression, suicide, Jagna's trauma, and the psychological aspects relevant for \"matura\" (Polish high school final exam). The search returned several educational resources and study materials about this classic Polish novel.\n\nBased on the search results, here are the key psychological analysis points about Jagna and other characters in \"Ch\u0142opi\":\n\n## Jagna's Psychological Profile and Trauma\n\nJagna is described as a beautiful village girl who is decidedly different from other women in Lipce. She lives in a world of dreams and fantasies, possesses artistic abilities - she makes paper cutouts, beautiful Easter eggs; she likes music, stories about the world, fairy tales.(no content)Jagna is a person who does not control her passions. Reymont constantly emphasizes the biological aspect of her life. It is precisely the sexual drive that influences her romances with Antek, the village head, and the young priest Ja\u015b.(no content)Jagna's tragedy is her separateness, her otherness. She violates the moral norms binding the community and receives cruel punishment for it - vigilante justice and being driven out of the village on a manure cart.\n\n## Psychological Transformation of Characters\n\nHanka's personality changes dramatically during the course of the novel (dynamic character). Initially she is a calm, quiet, perpetually overworked, frightened woman. When the situation demands it, Hanka changes, becomes an independent, resourceful, energetic housewife.(no content)Hatred for Jagna passes when Hanka begins to understand that Jagna is a deeply unhappy person. Before setting off on pilgrimage to Jasna G\u00f3ra, Hanka asks Jagna and her mother for forgiveness and to forget about past quarrels and disputes.\n\n## Key Themes for Matura Analysis\n\nThe novel is not only a summary of village life, but also a deep psychological analysis of characters and community.(no content)The sexual instinct is most fully embodied by Jagna, whose love is treated as an untamed biological urge.\n\nThe search results provide comprehensive material for understanding the psychological aspects of Reymont's characters, particularly focusing on Jagna's psychological complexity and trauma within the village community structure."
+    ],
+    "durationSeconds": 20.63694185000006
+  }
+}

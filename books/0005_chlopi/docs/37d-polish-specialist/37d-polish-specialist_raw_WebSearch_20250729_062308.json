@@ -1,0 +1,62 @@
+{
+  "session_id": "100c9686-088c-4e35-9a25-3b12acbb258b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/100c9686-088c-4e35-9a25-3b12acbb258b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0005_chlopi",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Ch\u0142opi Reymont adaptacje polski teatr film Teatr Polskiego Radia telewizja"
+  },
+  "tool_response": {
+    "query": "Ch\u0142opi Reymont adaptacje polski teatr film Teatr Polskiego Radia telewizja",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01NvdzoskkTFRQHYuUpNBi67",
+        "content": [
+          {
+            "title": "Ch\u0142opi ::: Przedstawienia ::: Encyklopedia teatru polskiego",
+            "url": "https://encyklopediateatru.pl/przedstawienie/2469/chlopi"
+          },
+          {
+            "title": "Film \u201eCh\u0142opi\u201d. Ekranizacja powie\u015bci W\u0142adys\u0142awa Reymonta w TVP VOD",
+            "url": "https://www.tvp.pl/81957455/film-chlopi-ekranizacja-powiesci-wladyslawa-reymonta-w-tvp-vod"
+          },
+          {
+            "title": "Ch\u0142opi - serial telewizyjny, Ogl\u0105daj na TVP VOD",
+            "url": "https://vod.tvp.pl/seriale,18/chlopi-odcinki,312882"
+          },
+          {
+            "title": "Ch\u0142opi (odcinek 1) ::: Przedstawienia ::: Encyklopedia teatru polskiego",
+            "url": "https://encyklopediateatru.pl/przedstawienie/59520/chlopi"
+          },
+          {
+            "title": "Ch\u0142opi",
+            "url": "https://boskakomedia.pl/en/spektakle/peasants"
+          },
+          {
+            "title": "W\u0142adys\u0142aw Reymont",
+            "url": "https://www.zs.strzegom.pl/reymont/dziela.html"
+          },
+          {
+            "title": "Ch\u0142opi tom I: Jesie\u0144 - W\u0142adys\u0142aw Stanis\u0142aw Reymont - podcast Polskiego Radia",
+            "url": "https://podcasty.polskieradio.pl/podcast/chlopi-tom-i-jesien-wladyslaw-stanislaw-reymont,602"
+          },
+          {
+            "title": "Muzhp",
+            "url": "https://bazhum.muzhp.pl/media//files/Slupskie_Prace_Filologiczne_Seria_Filologia_Polska/Slupskie_Prace_Filologiczne_Seria_Filologia_Polska-r2002-t1/Slupskie_Prace_Filologiczne_Seria_Filologia_Polska-r2002-t1-s173-186/Slupskie_Prace_Filologiczne_Seria_Filologia_Polska-r2002-t1-s173-186.pdf"
+          },
+          {
+            "title": "FilmPolski.pl - CH\u0141OPI",
+            "url": "https://www.filmpolski.pl/fp/index.php?film=1236613"
+          },
+          {
+            "title": "W\u0142adys\u0142aw Stanis\u0142aw Reymont \u2013 Ch\u0142opi. Felieton - KornFanHead",
+            "url": "https://www.kornfanhead.pl/wladyslaw-stanislaw-reymont-chlopi-felieton/"
+          }
+        ]
+      },
+      "Based on the search results, I found information about various adaptations of W\u0142adys\u0142aw Reymont's novel \"Ch\u0142opi\" (The Peasants) across different Polish media formats. Here's what I discovered:\n\n## Teatr Telewizji (Television Theater)\nThe novel was adapted for Teatr Telewizji with its premiere on November 22, 1970, directed by Aleksander Strokowski with TV production by Mieczys\u0142aw Ma\u0142ysz.\n\n## Teatr Polskiego Radia (Polish Radio Theater)\nThere was a radio adaptation premiered at Teatr Polskiego Radia on November 28, 1976, with adaptation by Barbara Pruska and direction by Andrzej Zakrzewski. The cast included notable actors like Jan \u015awiderski as Boryna, Stanis\u0142awa Celi\u0144ska as Jagna, and Jan Englert as Antek Boryna.\n\n## Television Serial\nA Polish television serial directed by Jan Rybkowski was created in 1972 based on Reymont's novel. The series was filmed in the villages of Lipce Reymontowskie (where the novel's action is set) and Pszczon\u00f3w, with both professional actors and local villagers participating. In 1973, a cinema version of the serial was created.\n\n## Film Adaptations\nThere was an early film adaptation from 1922 directed by Eugeniusz Modzelewski, made with the participation of Reymont himself, though this film has not survived to the present day.\n\nA recent animated film adaptation has been created using innovative animation techniques, allowing viewers to immerse themselves in the world of Polish village life and the atmosphere of Young Poland.\n\n## Theater Adaptations\nThere's a musical adaptation by Wojciech Ko\u015bcielniak that successfully transferred the difficult literary text to the theater stage at the Teatr Muzyczny in Gdynia.\n\nDirector Remigiusz Brzyk created a theater adaptation that focuses on the female characters, which could be called \"peasant women\" rather than \"peasant men\".\n\n## Radio Audiobook\nPolish Radio released an audiobook version of \"Ch\u0142opi\" in 2018 as part of the Radiobook series, featuring classic literature performed by outstanding Polish voices.\n\nThe novel has clearly been extensively adapted across multiple Polish media formats - radio theater, television theater, television serials, films, stage theater, and audiobooks - demonstrating its enduring importance in Polish culture."
+    ],
+    "durationSeconds": 22.442469509999967
+  }
+}

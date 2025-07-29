@@ -1,0 +1,63 @@
+{
+  "session_id": "100c9686-088c-4e35-9a25-3b12acbb258b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/100c9686-088c-4e35-9a25-3b12acbb258b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0005_chlopi",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Ch\u0142opi\" Reymont ekonomiczne problemy m\u0142odzie\u017c studia praca mieszkanie"
+  },
+  "tool_response": {
+    "query": "\"Ch\u0142opi\" Reymont ekonomiczne problemy m\u0142odzie\u017c studia praca mieszkanie",
+    "results": [
+      "I'll perform a web search for that query about \"Ch\u0142opi\" by Reymont and economic problems facing youth regarding studies, work, and housing.",
+      {
+        "tool_use_id": "srvtoolu_01Ji7d2u2BHmBwkbUMb3p9ga",
+        "content": [
+          {
+            "title": "\"Ch\u0142opi\" W\u0142adys\u0142awa Reymonta jako powie\u015b\u0107 o pracy.",
+            "url": "https://www.mdk.webd.pl/_bin/docs/mloda/mloda139.html"
+          },
+          {
+            "title": "CH\u0141OPI, W\u0142adys\u0142aw Reymont | matura 2025",
+            "url": "https://www.otouczelnie.pl/news/1451/"
+          },
+          {
+            "title": "Ch\u0142opi t. 1 - Problematyka - W\u0142adys\u0142aw Stanis\u0142aw Reymont - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/wladyslaw-stanislaw-reymont/chlopi-t-i.problematyka"
+          },
+          {
+            "title": "Ch\u0142opi - Problematyka",
+            "url": "https://streszczenia.pl/lektura/chlopi/opracowanie/problematyka/"
+          },
+          {
+            "title": "Rola pracy w \u017cyciu mieszka\u0144c\u00f3w Lipiec (na podstawie \"Ch\u0142op\u00f3w\" Reymonta). - M\u0142oda Polska - Bryk.pl",
+            "url": "https://www.bryk.pl/wypracowania/jezyk-polski/mloda-polska/2067-rola-pracy-w-zyciu-mieszkancow-lipiec-na-podstawie-chlopow-reymonta.html"
+          },
+          {
+            "title": "\"Ch\u0142opi\" Reymonta - rola pracy w \u017cyciu mieszka\u0144c\u00f3w Lipiec. - Sciaga.pl",
+            "url": "https://sciaga.pl/tekst/10300-11-chlopi_reymonta_rola_pracy_w_zyciu_mieszkancow_lipiec"
+          },
+          {
+            "title": "Ch\u0142opi Reymonta na maturze | AleKlasa",
+            "url": "https://aleklasa.pl/matura/c406-nauka-o-jezyku-2/chlopi-na-maturze"
+          },
+          {
+            "title": "\u201eCh\u0142opi\u201d \u2013 najwa\u017cniejsze aspekty powie\u015bci W\u0142adys\u0142awa Reymonta. - \u015aci\u0105gi, wypracowania, lektury - Bryk.pl",
+            "url": "https://www.bryk.pl/wypracowania/jezyk-polski/mloda-polska/5434-chlopi-najwazniejsze-aspekty-powiesci-wladyslawa-reymonta.html"
+          },
+          {
+            "title": "\"Chlopi\" - praca - Sciaga.pl",
+            "url": "https://sciaga.pl/tekst/64165-65-chlopi_praca"
+          },
+          {
+            "title": "Ch\u0142opi W\u0142adys\u0142awa Reymonta jako ksi\u0119ga ch\u0142op\u00f3w polskich, powie\u015b\u0107 spo\u0142eczna i narodowa oraz studium psychologiczne. | AleKlasa",
+            "url": "https://aleklasa.pl/liceum/praca-domowa-w-liceum/wypracowania-z-literatury-xx-wieku-c234-praca-domowa-w-liceum/chlopi-jako-powiesc-spoleczna"
+          }
+        ]
+      },
+      "Based on the search results, I found comprehensive information about \"Ch\u0142opi\" by W\u0142adys\u0142aw Reymont and the economic problems facing youth regarding studies, work, and housing. Here's what the search revealed:\n\n## \"Ch\u0142opi\" Reymonta - Problemy ekonomiczne m\u0142odzie\u017cy dotycz\u0105ce studi\u00f3w, pracy i mieszkania\n\n### Problemy ekonomiczne w powie\u015bci \"Ch\u0142opi\"\n\nProblemy ekonomiczne spowodowane s\u0105 brakiem ziemi, jak wspomina stary Bylica: przed laty w Lipcach by\u0142o 15 gospodarzy, teraz ta sama ilo\u015b\u0107 ziemi musi wy\u017cywi\u0107 czterdziestu.(no content)Reymont opisuje te\u017c wyzysk parobk\u00f3w i najemnik\u00f3w, pracuj\u0105cych ci\u0119\u017cko za symboliczn\u0105 zap\u0142at\u0119.\n\n### Konflikt mi\u0119dzy m\u0142odymi a starymi dotycz\u0105cy pracy i ziemi\n\nWalka m\u0142odych ze starymi \u2013 nieustanny konflikt dotycz\u0105cy w\u0142asno\u015bci gospodarstw. M\u0142odzi chc\u0105 by ojcowie przepisali im ziemi\u0119. Maj\u0105 racj\u0119, bo ci\u0119\u017cko pracuj\u0105 i s\u0105 traktowani jak parobcy (na przyk\u0142ad Antek).(no content)To przyk\u0142ad Antka, kt\u00f3ry marzy o tym, aby zaj\u0105\u0107 miejsce Macieja, rywalizuje z nim (a w dalszych cz\u0119\u015bciach powie\u015bci staje si\u0119 autorytetem dla gromady), na d\u0142ugo odchodzi z gospodarstwa, kt\u00f3re ostatecznie (z pomoc\u0105 \u017cony) przejmuje z r\u0105k Jagny. Szczeg\u00f3lnie w\u0142a\u015bnie w pierwszym tomie powie\u015bci wida\u0107, jak bardzo trudny jest to temat, jak ogromne frustracje w m\u0142odych gospodarzach powoduje, jak niesprawiedliwie traktowani si\u0119 oni czuj\u0105.\n\n### R\u00f3\u017cnice maj\u0105tkowe i hierarchia spo\u0142eczna\n\nJedn\u0105 z najwa\u017cniejszych cech charakterystycznych struktury Lipiec jako pewnego zamkni\u0119tego \u015bwiata jest jej hierarchiczno\u015b\u0107. Reymont bardzo konsekwentnie obna\u017ca mit r\u00f3wno\u015bci ch\u0142opskiej, braterstwa i wsp\u00f3lnej pracy na rzecz uprawy roli. Na przyk\u0142adzie \u201eCh\u0142op\u00f3w\" bardzo wyra\u017anie wida\u0107, jak silna i mocna jest tutaj hierarchia.(no content)Cho\u0107 gromada traktowana jest jako jedna spo\u0142eczno\u015b\u0107, to jednak pozostaj\u0105 r\u00f3\u017cnice, od najbogatszego ch\u0142opa po biednego \u017cebraka. Obok ch\u0142op\u00f3w najbogatszych i \u015bredniozamo\u017cnych spotykamy w Lipcach biedot\u0119 wiejsk\u0105 i parobk\u00f3w, pozbawionych nie tylko ziemi, ale r\u00f3wnie\u017c w\u0142asnych chat.\n\n### Praca jako podstawa egzystencji\n\nPraca przez ch\u0142op\u00f3w jest postrzegana jako podstawowy ich obowi\u0105zek i aktywno\u015b\u0107. Jest podstaw\u0105 egzystencji, nadaje jej sens, a jednocze\u015bnie pozwala wy\u017cywi\u0107 siebie i swoj\u0105 rodzin\u0119. Wszyscy d\u0105\u017c\u0105 do tego, aby mie\u0107 jak najwi\u0119cej ziemi, a w zwi\u0105zku tym jak najwi\u0119cej pracy, poniewa\u017c to ona stanowi sens i zasad\u0119 \u017cycia na wsi.\n\n### Warunki mieszkaniowe\n\nBoryna posiada parobk\u00f3w, \u015bpi\u0105 oni w stajni, jedz\u0105, jednak im si\u0119 nie p\u0142aci, co \u015bwiadczy o tym, \u017ce bogaci gospodarze wyzyskuj\u0105 ch\u0142opa. This shows poor housing conditions for the working youth who had to sleep in stables.\n\n### Kontekst edukacyjny - lektura na maturze\n\nTo w\u0142a\u015bnie od jej wyniku zale\u017cy, czy dana osoba dostanie si\u0119 na wymarzone studia lub upragnion\u0105 uczelni\u0119. Przygotowania do matury warto zacz\u0105\u0107 ju\u017c wiele miesi\u0119cy przed samym egzaminem dojrza\u0142o\u015bci \u2013 tylko wtedy b\u0119dzie mo\u017cna zrobi\u0107 to rzetelnie, powtarzaj\u0105c wszystkie niezb\u0119dne wiadomo\u015bci.\n\nPowie\u015b\u0107 \"Ch\u0142opi\" Reymonta przedstawia wi\u0119c kompleksowy obraz problem\u00f3w ekonomicznych m\u0142odzie\u017cy wiejskiej, kt\u00f3re obejmuj\u0105 brak w\u0142asno\u015bci ziemi, trudno\u015bci w uzyskaniu samodzielno\u015bci ekonomicznej, z\u0142e warunki mieszkaniowe oraz konflikt pokoleniowy dotycz\u0105cy prawa do maj\u0105tku i pracy."
+    ],
+    "durationSeconds": 38.78804963800032
+  }
+}

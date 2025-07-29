@@ -1,0 +1,62 @@
+{
+  "session_id": "100c9686-088c-4e35-9a25-3b12acbb258b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/100c9686-088c-4e35-9a25-3b12acbb258b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0005_chlopi",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Ch\u0142opi Reymont lektura obowi\u0105zkowa liceum gimnazjum MEN podstawa programowa"
+  },
+  "tool_response": {
+    "query": "Ch\u0142opi Reymont lektura obowi\u0105zkowa liceum gimnazjum MEN podstawa programowa",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01VaTVMSJod4SkgfmVScDRiC",
+        "content": [
+          {
+            "title": "Zmiana wykazu lektur szkolnych \u2013 Aktualna podstawa programowa",
+            "url": "https://podstawaprogramowa.pl/aktualnosci/zmiana-wykazu-lektur-szkolnych"
+          },
+          {
+            "title": "LISTA LEKTUR szkolnych dla liceum i technikum - Dziennik.pl",
+            "url": "https://edukacja.dziennik.pl/aktualnosci/artykuly/548567,lista-lektur-w-liceum-aktualna-kompletny-wykaz.html"
+          },
+          {
+            "title": "Lektury w liceum i technikum 2023/2024 - lista MEN - Co Przeczyta\u0107",
+            "url": "https://coprzeczytac.pl/lektury-liceum-technikum-ostateczna-lista-men/"
+          },
+          {
+            "title": "Lista lektur LICEUM i TECHNIKUM \u2013 poziom podstawowy \u2013 2025/2026 \u2013 Lista lektur szkolnych 2025/2026",
+            "url": "https://www.listalektur.pl/lista-lektur-liceum-klasy-1-2-3-poziom-podstawowy/"
+          },
+          {
+            "title": "Lista lektur \u2013 nowa podstawa programowa (od 2024 roku) | Zesp\u00f3\u0142 Szk\u00f3\u0142 Agro-Ekonomicznych im. Bronis\u0142awa Zamojdzina w Karolewie",
+            "url": "https://zsae-karolewo.home.pl/?page_id=8511"
+          },
+          {
+            "title": "Lektura szkolna \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Lektura_szkolna"
+          },
+          {
+            "title": "W\u0142adys\u0142aw Stanis\u0142aw Reymont, Ch\u0142opi",
+            "url": "https://wolnelektury.pl/katalog/lektura/chlopi/"
+          },
+          {
+            "title": "Jakie lektury obowi\u0105zkowe dla liceum i technikum? Na li\u015bcie MEN m.in. Nowakowski, Dukaj, Stasiuk i Tokarczuk - Portal Ksi\u0119garski",
+            "url": "https://ksiazka.net.pl/jakie-lektury-obowiazkowe-dla-liceum-i-technikum-na-liscie-men-min-nowakowski-dukaj-stasiuk-i-tokarczuk"
+          },
+          {
+            "title": "Ch\u0142opi - W\u0142adys\u0142aw Stanis\u0142aw Reymont | lektury szkolne z om\u00f3wieniem - Wydawnictwo Greg",
+            "url": "https://www.greg.pl/lektury/8,269_Chlopi.html"
+          },
+          {
+            "title": "W\u0142adys\u0142aw Stanis\u0142aw Reymont - Ch\u0142opi - Lista lektur dla szko\u0142y \u015bredniej. Fot. materia\u0142y prasowe - Zdj\u0119cia, fotki",
+            "url": "https://maturzysta.dlastudenta.pl/fotoalbum/1453838,11771,128996,1.html"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about \"Ch\u0142opi\" by W\u0142adys\u0142aw Stanis\u0142aw Reymont as a mandatory reading (lektura obowi\u0105zkowa) for Polish high schools (liceum) and technical schools (technikum) according to the curriculum standards (podstawa programowa) from the Ministry of Education (MEN):\n\n## Status as Mandatory Reading\n\nW\u0142adys\u0142aw Stanis\u0142aw Reymont's \"Ch\u0142opi\" is included as a mandatory reading for high schools and technical schools. Specifically, \"Ch\u0142opi\" is a mandatory reading at the basic level, and in classes only the first volume titled \"Jesie\u0144\" (Autumn) is discussed.\n\n## Current Curriculum Requirements\n\nFrom the 2021/2022 school year, a new canon of school readings has been in effect in general education high schools and technical schools, with the amendment to the curriculum regulation coming into force on September 1st.\n\nThe work appears in different forms across the curriculum:\n\n1. **Basic Level**: W\u0142adys\u0142aw Stanis\u0142aw Reymont, \"Ch\u0142opi\" (fragments)\n\n2. **Extended Level**: For supplementary readings at the extended level, \"Ch\u0142opi\" (tom II \u2013 Zima) / \"Ch\u0142opi\" (volume II - Winter) is included\n\n## About the Work\n\n\"Ch\u0142opi\" is a novel by W\u0142adys\u0142aw Reymont for which he received the Nobel Prize in 1924, published in volumes between 1904 and 1909. In 1924, as the second Pole, he received the Nobel Prize for the novel \"Ch\u0142opi\" which he wrote for over seven years.\n\nThe search confirms that \"Ch\u0142opi\" remains an important part of the Polish secondary education curriculum, appearing both as mandatory reading at the basic level (typically volume I - Jesie\u0144/Autumn) and as supplementary reading at the extended level (volume II - Zima/Winter)."
+    ],
+    "durationSeconds": 21.017612843000098
+  }
+}

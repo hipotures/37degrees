@@ -1,0 +1,62 @@
+{
+  "session_id": "100c9686-088c-4e35-9a25-3b12acbb258b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/100c9686-088c-4e35-9a25-3b12acbb258b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0005_chlopi",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Ch\u0142opi merchandise Polish literature souvenirs Reymont book editions collectibles"
+  },
+  "tool_response": {
+    "query": "Ch\u0142opi merchandise Polish literature souvenirs Reymont book editions collectibles",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01Rd1YMmLuDLkhw9pPna8PT3",
+        "content": [
+          {
+            "title": "Amazon.com: Chlopi (Polish Edition): 9788373272248: Reymont, Wladyslaw Stanislaw: Books",
+            "url": "https://www.amazon.com/Chlopi-Polish-Wladyslaw-Stanislaw-Reymont/dp/8373272240"
+          },
+          {
+            "title": "Ch\u0142opi by Wladys\u0142aw Reymont- Hardcover Novel | TK-98 \u2013 Luxahaus Beyond",
+            "url": "https://www.luxahausbeyond.com/products/chlopi-by-wladyslaw-reymont-hardcover-novel-tk-98"
+          },
+          {
+            "title": "Ch\u0142opi : Reymont, W\u0142adys\u0142aw Stanis\u0142aw: Amazon.co.uk: Books",
+            "url": "https://www.amazon.co.uk/Chlopi-Wladyslaw-Stanislaw-Reymont/dp/8373272240"
+          },
+          {
+            "title": "Ch\u0142opi - W\u0142adys\u0142aw Stanis\u0142aw Reymont - The Polish Bookstore - Polish Books USA & Canada",
+            "url": "https://thepolishbookstore.com/en/p/530359/chlopi"
+          },
+          {
+            "title": "Ch\u0142opi. Wydanie kolekcjonerskie - Reymont W\u0142adys\u0142aw Stanis\u0142aw - POLSKA... | eBay",
+            "url": "https://www.ebay.com/itm/285516122270"
+          },
+          {
+            "title": "Ch\u0142opi. Wydanie kolekcjonerskie - W\u0142adys\u0142aw Reymont (Ksi\u0105\u017cka) - Ksi\u0119garnia PWN",
+            "url": "https://ksiegarnia.pwn.pl/Chlopi.-Wydanie-kolekcjonerskie,1026914536,p.html"
+          },
+          {
+            "title": "Amazon.com: Chlopi (Polish Edition): 9788375179132: Reymont, Wladyslaw Stanislaw: Books",
+            "url": "https://www.amazon.com/Chlopi-Polish-Wladyslaw-Stanislaw-Reymont/dp/8375179132"
+          },
+          {
+            "title": "Ch\u0142opi. Wydanie kolekcjonerskie W\u0142adys\u0142aw Reymont ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/chlopi-wydanie-kolekcjonerskie-wladyslaw-reymont-p-1885571.html"
+          },
+          {
+            "title": "Amazon.com: Ch\u0142opi: 9788373271739: Reymont, W\u0142adys\u0142aw Stanis\u0142aw: Books",
+            "url": "https://www.amazon.com/Chlopi-Wladyslaw-Stanislaw-Reymont/dp/8373271732"
+          },
+          {
+            "title": "The Peasants - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Peasants"
+          }
+        ]
+      },
+      "Based on the search results, I found information about various merchandise and collectible editions of \"Ch\u0142opi\" (The Peasants) by W\u0142adys\u0142aw Stanis\u0142aw Reymont, the Nobel Prize-winning Polish novel. Here's what's available:\n\n## Book Editions and Collectibles\n\n**Collector's Editions:**\n- Exclusive collector's editions of the Nobel Prize-winning work are available, with new editions accompanying the animated film \"Ch\u0142opi\" directed by DK Welchman and Hugh Welchman, created using painted animation technique similar to \"Loving Vincent\"\n- Special collector's editions include seven special inserts with colorful illustrations representing film frames from the movie based on the novel\n\n**Available Formats and Sources:**\n- Classic editions with footnotes and illustrations available for home libraries\n- School editions with valuable footnotes explaining 19th-century peasant Polish terms, with all 4 volumes in one tome\n- Polish language editions priced around $31.16\n- International shipping available, with prices around $48.18\n\n**Where to Purchase:**\n- Amazon (various international stores)\n- eBay for collector's editions\n- The Polish Bookstore (specializing in Polish literature)\n- Luxahaus Beyond\n- Polish bookstores like PWN and TaniaKsiazka.pl\n\n**Notable Features:**\n- The work won W\u0142adys\u0142aw Reymont the 1924 Nobel Prize in Literature\n- The novel has been translated into at least 27 languages\n- Multiple editions available, from standard school versions to luxury collector's editions with special artwork\n\nThe search shows there's significant interest in collectible editions of this classic Polish literature work, with various publishers offering special illustrated and annotated versions for both collectors and students."
+    ],
+    "durationSeconds": 16.269423268000015
+  }
+}

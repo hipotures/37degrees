@@ -1,0 +1,62 @@
+{
+  "session_id": "100c9686-088c-4e35-9a25-3b12acbb258b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/100c9686-088c-4e35-9a25-3b12acbb258b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0005_chlopi",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Ch\u0142opi W\u0142adys\u0142aw Reymont pierwsze wydanie 1904 historia publikacji polskie wydania"
+  },
+  "tool_response": {
+    "query": "Ch\u0142opi W\u0142adys\u0142aw Reymont pierwsze wydanie 1904 historia publikacji polskie wydania",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_016mtVxAQuCXdqGi2KNQp894",
+        "content": [
+          {
+            "title": "Ch\u0142opi (powie\u015b\u0107) \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Ch\u0142opi_(powie\u015b\u0107)"
+          },
+          {
+            "title": "REYMONT - CH\u0141OPI t.1-4 [komplet w 4 wol.] wyd.1; 1904-1906-1909 | Antykwariat internetowy Sobieski",
+            "url": "https://antyksobieski.pl/reymont-chlopi-t-1-4-komplet-w-4-wol-wyd-1-1904-1906-1909.html"
+          },
+          {
+            "title": "W\u0142adys\u0142aw Stanis\u0142aw Reymont, Ch\u0142opi",
+            "url": "https://wolnelektury.pl/katalog/lektura/chlopi/"
+          },
+          {
+            "title": "\u201eCh\u0142opi\u201d, W\u0142adys\u0142aw Stanis\u0142aw Reymont \u2014 streszczenie i opracowanie",
+            "url": "https://babaodpolskiego.pl/wladyslaw-stanislaw-reymont-chlopi-streszczenie-i-opracowanie/"
+          },
+          {
+            "title": "120 lat temu ukaza\u0142 si\u0119 pierwszy odcinek powie\u015bci \u201eCh\u0142opi\u201d",
+            "url": "https://instytutksiazki.pl/aktualnosci,2,120-lat-temu-ukazal-sie-pierwszy-odcinek-powiesci-%E2%80%9Echlopi%E2%80%9D,7162.html"
+          },
+          {
+            "title": "REYMONT W\u0142adys\u0142aw - CH\u0141OPI Tom I-IV, 1904-1906-1909 Wydanie I WIELKA RZADKO\u015a\u0106 - Aukcja internetowa / Licytacja online - Cena - OneBid",
+            "url": "https://onebid.pl/pl/ksiazki-i-starodruki-reymont-wladyslaw-chlopi-tom-i-iv-1904-1906-1909-wydanie-i-wielka-rzadkosc/1401403"
+          },
+          {
+            "title": "Ch\u0142opi W\u0142adys\u0142aw Reymont ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/chlopi-wladyslaw-reymont"
+          },
+          {
+            "title": "Ch\u0142opi W\u0142adys\u0142aw Reymont Wydanie - Niska cena na Allegro",
+            "url": "https://allegro.pl/listing?string=ch%C5%82opi+w%C5%82adys%C5%82aw+reymont+wydanie"
+          },
+          {
+            "title": "Ch\u0142opi. Tom 1 i 2 | W\u0142adys\u0142aw Reymont (Ksi\u0105\u017cka) - Ksi\u0119garnia znak.com.pl",
+            "url": "https://www.znak.com.pl/p/chlopi-tom-1-i-2-wladyslaw-reymont-166175"
+          },
+          {
+            "title": "Czytaj po polsku. T. 16: W\u0142adys\u0142aw Stanis\u0142aw Reymont: \u201eCh\u0142opi\". Cz. 1: \u201eJesie\u0144\". Materia\u0142y pomocnicze do nauki j\u0119zyka polskiego jako obcego. Edycja dla \u015brednio zaawansowanych (poziom B1 / B2) | Wydawnictwo Uniwersytetu \u015al\u0105skiego",
+            "url": "https://monograph.us.edu.pl/index.php/wydawnictwo/catalog/book/PS.232"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with detailed information about the publication history of \"Ch\u0142opi\" by W\u0142adys\u0142aw Reymont and its first edition from 1904:\n\n## Historia publikacji \"Ch\u0142op\u00f3w\" W\u0142adys\u0142awa Reymonta\n\n### Pierwsze wydanie i publikacja w odcinkach:\n\nPowie\u015b\u0107 po raz pierwszy ukazywa\u0142a si\u0119 w druku w odcinkach w \u201eTygodniku Ilustrowanym\" od 18 stycznia 1902 do 26 grudnia 1908 z dedykacj\u0105 dla Zenona Przesmyckiego.(no content)120 lat temu, 18 stycznia 1902 roku, w \u201eTygodniku Ilustrowanym\" opublikowano pierwszy odcinek powie\u015bci \u201eCh\u0142opi\" W\u0142adys\u0142awa Reymonta.\n\n### Wydanie ksi\u0105\u017ckowe z 1904 roku:\n\nPowie\u015b\u0107 spo\u0142eczno-obyczajowa W\u0142adys\u0142awa Reymonta publikowana w odcinkach w latach 1902\u20131908 w \u201eTygodniku Ilustrowanym\", wydana w latach 1904\u20131909 w Warszawie w wydawnictwie \u201eGebethner i Wolff\". W formie ksi\u0105\u017ckowej utw\u00f3r ukazywa\u0142 si\u0119 partiami \u2013 pierwsze dwa tomy zosta\u0142y wydane w 1904 roku, tom trzeci \u2013 w 1906, natomiast czwarty \u2013 w 1909.(no content)Pierwsze wydanie zawiera\u0142o podtytu\u0142 Powie\u015b\u0107 wsp\u00f3\u0142czesna.\n\n### Szczeg\u00f3\u0142y wydania pierwszego:\n\nW formie ksi\u0105\u017ckowej utw\u00f3r ukazywa\u0142 si\u0119 cz\u0119\u015bciami: I i II tom ukaza\u0142 si\u0119 w 1904 r., III tom w 1906 r., tom IV za\u015b w 1909 r.(no content)W formie ksi\u0105\u017ckowej utw\u00f3r ukazywa\u0142 si\u0119 partiami - pierwsze dwa tomy zosta\u0142y wydane w 1904 r., tom trzeci w 1906 r., natomiast czwarty - w 1909 r.\n\n### Znaczenie i nagrody:\n\nPisarz otrzyma\u0142 za ten utw\u00f3r literack\u0105 Nagrod\u0119 Nobla w 1924.(no content)Powie\u015b\u0107 zosta\u0142a doceniona \u2013 w 1917 r. Reymont otrzyma\u0142 za ni\u0105 nagrod\u0119 literack\u0105 Polskiej Akademii Umiej\u0119tno\u015bci, a w 1924 r. \u2013 literack\u0105 Nagrod\u0119 Nobla.\n\nPierwsze wydanie \"Ch\u0142op\u00f3w\" z 1904 roku obejmowa\u0142o wi\u0119c pierwsze dwa tomy powie\u015bci wydane przez warszawskie wydawnictwo \"Gebethner i Wolff\", z podtytu\u0142em \"Powie\u015b\u0107 wsp\u00f3\u0142czesna\". By\u0142o to pierwsze ksi\u0105\u017ckowe wydanie dzie\u0142a, kt\u00f3re wcze\u015bniej ukazywa\u0142o si\u0119 w odcinkach przez sze\u015b\u0107 lat w \"Tygodniku Ilustrowanym\"."
+    ],
+    "durationSeconds": 18.909063326000002
+  }
+}

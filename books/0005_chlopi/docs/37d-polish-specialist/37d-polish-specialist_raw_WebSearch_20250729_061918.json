@@ -1,0 +1,63 @@
+{
+  "session_id": "100c9686-088c-4e35-9a25-3b12acbb258b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/100c9686-088c-4e35-9a25-3b12acbb258b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0005_chlopi",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Ch\u0142opi Reymont wydania PWN Znak Czytelnik historia wydawnictw polskich"
+  },
+  "tool_response": {
+    "query": "Ch\u0142opi Reymont wydania PWN Znak Czytelnik historia wydawnictw polskich",
+    "results": [
+      "I'll perform a web search for information about \"Ch\u0142opi\" by Reymont and its publishing history with PWN, Znak, and Czytelnik publishers.",
+      {
+        "tool_use_id": "srvtoolu_01M91qcsYCEkiHwy1HmTBrW4",
+        "content": [
+          {
+            "title": "Ch\u0142opi - Reymont W\u0142adys\u0142aw Stanis\u0142aw (Ksi\u0105\u017cka) - Ksi\u0119garnia PWN",
+            "url": "https://ksiegarnia.pwn.pl/Chlopi,68606253,p.html"
+          },
+          {
+            "title": "Ch\u0142opi. Wydanie kolekcjonerskie (W\u0142adys\u0142aw Reymont) - ksi\u0105\u017cka - ksi\u0119garnia tantis.pl",
+            "url": "https://tantis.pl/chlopi-wydanie-kolekcjonerskie-okladka-filmowa-p3417747"
+          },
+          {
+            "title": "Ch\u0142opi - W\u0142adys\u0142aw Stanis\u0142aw Reymont | lektury szkolne z om\u00f3wieniem - Wydawnictwo Greg",
+            "url": "https://www.greg.pl/lektury/103,1092_Chlopi.html"
+          },
+          {
+            "title": "Ch\u0142opi. Wydanie kolekcjonerskie - W\u0142adys\u0142aw Reymont (Ksi\u0105\u017cka) - Ksi\u0119garnia PWN",
+            "url": "https://ksiegarnia.pwn.pl/Chlopi.-Wydanie-kolekcjonerskie,1026914536,p.html"
+          },
+          {
+            "title": "Ch\u0142opi | Reymont Stanis\u0142aw W\u0142adys\u0142aw (ksi\u0105\u017cka) - Ksi\u0119garnia znak.com.pl",
+            "url": "https://www.znak.com.pl/ksiazka/chlopi-reymont-wladyslaw-stanislaw-146346"
+          },
+          {
+            "title": "Ch\u0142opi. Wydanie kolekcjonerskie | W\u0142adys\u0142aw Reymont (Ksi\u0105\u017cka) - Ksi\u0119garnia znak.com.pl",
+            "url": "https://www.znak.com.pl/p/chlopi-wydanie-kolekcjonerskie-wladyslaw-reymont-187512"
+          },
+          {
+            "title": "Ch\u0142opi (powie\u015b\u0107) \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Ch\u0142opi_(powie\u015b\u0107)"
+          },
+          {
+            "title": "Ch\u0142opi. Tom 1 i 2 | W\u0142adys\u0142aw Reymont (Ksi\u0105\u017cka) - Ksi\u0119garnia znak.com.pl",
+            "url": "https://www.znak.com.pl/ksiazka/chlopi-tom-1-i-2-wladyslaw-reymont-232054"
+          },
+          {
+            "title": "120 lat temu ukaza\u0142 si\u0119 pierwszy odcinek powie\u015bci \u201eCh\u0142opi\u201d",
+            "url": "https://instytutksiazki.pl/aktualnosci,2,120-lat-temu-ukazal-sie-pierwszy-odcinek-powiesci-\u201echlopi\u201d,7162.html"
+          },
+          {
+            "title": "W\u0142adys\u0142aw Stanis\u0142aw Reymont, Ch\u0142opi",
+            "url": "https://wolnelektury.pl/katalog/lektura/chlopi/"
+          }
+        ]
+      },
+      "Based on the search results, I found comprehensive information about \"Ch\u0142opi\" by W\u0142adys\u0142aw Reymont and its publishing history with various Polish publishers including PWN, Znak, and information about other publishers.\n\nHere's what I found about the publishing history of \"Ch\u0142opi\" by Reymont:\n\n## Original Publication History\n\nCh\u0142opi \u2013 powie\u015b\u0107 spo\u0142eczno-obyczajowa W\u0142adys\u0142awa Reymonta publikowana w odcinkach w latach 1902\u20131908 w \u201eTygodniku Ilustrowanym\", wydana w latach 1904\u20131909 w Warszawie w wydawnictwie \u201eGebethner i Wolff\".(no content)120 lat temu, 18 stycznia 1902 roku, w \u201eTygodniku Ilustrowanym\" opublikowano pierwszy odcinek powie\u015bci \u201eCh\u0142opi\" W\u0142adys\u0142awa Reymonta. To najwybitniejsze dzie\u0142o w dorobku pisarza ukazywa\u0142o si\u0119 w odcinkach przez sze\u015b\u0107 lat, do 26 stycznia 1908 roku.(no content)Powie\u015b\u0107 po raz pierwszy zosta\u0142a opublikowana w odcinkach w \"Tygodniku Ilustrowanym\" (od 18 stycznia 1902 r. do grudnia 1908 r.) W formie ksi\u0105\u017ckowej utw\u00f3r ukazywa\u0142 si\u0119 partiami - pierwsze dwa tomy zosta\u0142y wydane w 1904 r., tom trzeci w 1906 r., natomiast czwarty - w 1909 r.\n\n## Current Publishers\n\n### PWN (Pa\u0144stwowe Wydawnictwo Naukowe)\nKsi\u0105\u017cka Ch\u0142opi autorstwa Reymont W\u0142adys\u0142aw Stanis\u0142aw \u2714\ufe0f Zam\u00f3w online w Ksi\u0119garni Internetowej PWN - PWN oferuje standardowe wydanie powie\u015bci.\n\nEkskluzywne wydanie nagrodzonego Noblem dzie\u0142a W\u0142adys\u0142awa Stanis\u0142awa Reymonta \u017bycie zgodne ze zmieniaj\u0105cymi si\u0119 porami roku, kultem ziemi i sezonowymi pracami w polu. Na tle tego unikatowego mikro\u015bwiata wiejskiej wsp\u00f3lnoty rozgrywaj\u0105 si\u0119 losy Macieja Boryny, jego dzieci, a tak\u017ce pi\u0119knej, m\u0142odej i tajemniczej Jagny. \"Ch\u0142opi\" to nie tylko obraz wiejskiej codzienno\u015bci i malownicze opisy przyrody, lecz przede wszystkim historia tragicznej mi\u0142o\u015bci i po\u017c\u0105dania, ukazuj\u0105ca regu\u0142y \u017cycia w ma\u0142ej spo\u0142eczno\u015bci, w kt\u00f3rej ka\u017cdy zajmuje okre\u015blone miejsce, a wyj\u015bcie poza ramy hierarchii grozi upokorzeniem i odrzuceniem. - PWN wydaje r\u00f3wnie\u017c wydanie kolekcjonerskie.\n\n### Znak\nCh\u0142opi w serii Kolorowa Klasyka to najpi\u0119kniejsze kolorowe wydanie tej powie\u015bci na rynku! Ksi\u0105\u017cka zawiera wspania\u0142e, barwne ilustracje, jej atutem jest du\u017ca, u\u0142atwiaj\u0105ca szybkie czytanie czcionka. Edycja na szlachetnym papierze, bardzo trwa\u0142a i estetyczna.\n\nZnak oferuje r\u00f3wnie\u017c inne wydania, w tym wydanie kolekcjonerskie zwi\u0105zane z filmem Nowe wydanie najs\u0142ynniejszego dzie\u0142a Reymonta towarzyszy filmowi \"Ch\u0142opi\" w re\u017cyserii DK Welchman i Hugh Welchmana, zrealizowanemu w technice animacji malarskiej podobnie jak poprzednia produkcja studia BreakThru Films, okrzykni\u0119ty arcydzie\u0142em \"Tw\u00f3j Vincent\".\n\n### Wydawnictwo Greg\nWydanie tego ponadczasowego utworu w serii Kolorowa Klasyka jest niezwykle dopracowane graficznie, uzupe\u0142nione doskona\u0142ymi ilustracjami oddaj\u0105cymi atmosfer\u0119 powie\u015bci, a twarda oprawa jest wyj\u0105tkowo trwa\u0142a i estetyczna.(no content)Powie\u015b\u0107, za kt\u00f3r\u0105 pisarz otrzyma\u0142 w 1924 Nagrod\u0119 Nobla niedawno pojawi\u0142a si\u0119 w zapowiedziach wydawnictwa Greg i magnetyzuje czytelnika nie tylko ponadczasow\u0105 tre\u015bci\u0105, ale r\u00f3wnie\u017c fantastycznymi akwarelowymi ilustracjami nie\u017cyj\u0105cego ju\u017c polskiego artysty Apoloniusza K\u0119dzierskiego (1861-1939).\n\n## Significance\nPisarz otrzyma\u0142 za ten utw\u00f3r literack\u0105 Nagrod\u0119 Nobla w 1924.(no content)Powie\u015b\u0107 W\u0142adys\u0142awa Reymonta, za kt\u00f3r\u0105 otrzyma\u0142 Nagrod\u0119 Nobla w 1924 roku, publikowana w tomach mi\u0119dzy 1904 a 1909 rokiem.\n\nThe novel remains one of the most important works in Polish literature and continues to be published by major Polish publishers with various special editions, including illustrated versions and collector's editions."
+    ],
+    "durationSeconds": 38.60821707200003
+  }
+}

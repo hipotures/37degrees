@@ -1,0 +1,62 @@
+{
+  "session_id": "100c9686-088c-4e35-9a25-3b12acbb258b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/100c9686-088c-4e35-9a25-3b12acbb258b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0005_chlopi",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Ch\u0142opi\" spektakl teatralny adaptacja sceniczna Polska teatr repertuar"
+  },
+  "tool_response": {
+    "query": "\"Ch\u0142opi\" spektakl teatralny adaptacja sceniczna Polska teatr repertuar",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_014pPBDsTUjnaXzyeukJjD5b",
+        "content": [
+          {
+            "title": "ch\u0142opi - Gdynia",
+            "url": "https://muzyczny.org/pl/spektakle/6-chlopi.html"
+          },
+          {
+            "title": "Ch\u0142opi",
+            "url": "https://www.ludowy.pl/pl/spectacle/chlopi"
+          },
+          {
+            "title": "Ch\u0142opi | Teatr Powszechny im. Zygmunta H\u00fcbnera w Warszawie",
+            "url": "https://www.powszechny.com/pl/spektakle/chlopi"
+          },
+          {
+            "title": "CH\u0141OPI | Musicale | bilety do teatru eBilet.pl",
+            "url": "https://www.ebilet.pl/teatr/musicale/chlopi"
+          },
+          {
+            "title": "Ch\u0142opi - Teatr Powszechny w Warszawie | Postdramat | bilety do teatru eBilet.pl",
+            "url": "https://www.ebilet.pl/teatr/postdramat/chlopi"
+          },
+          {
+            "title": "Ch\u0142opi",
+            "url": "https://boskakomedia.pl/en/spektakle/peasants"
+          },
+          {
+            "title": "Ch\u0142opi ::: Przedstawienia ::: Encyklopedia teatru polskiego",
+            "url": "https://encyklopediateatru.pl/przedstawienie/68800/chlopi"
+          },
+          {
+            "title": "CH\u0141OPI wg W\u0142adys\u0142awa Stanis\u0142awa Reymonta re\u017c. Krzysztof Garbaczewski | Teatr Polski w Poznaniu",
+            "url": "https://teatr-polski.pl/chlopi-wg-wladyslawa-stanislawa-reymonta-rez-krzysztof-garbaczewski/"
+          },
+          {
+            "title": "Ch\u0142opi 20 - 22 marca 2025, godz. 19:00 - obsada, re\u017cyseria, aktorzy - GDA\u0143SK, GDYNIA, SOPOT - trojmiasto.pl",
+            "url": "https://www.trojmiasto.pl/kultura/Chlopi-s1768.html"
+          },
+          {
+            "title": "Teatr przez wielkie T - \"Ch\u0142opi\" w Teatrze Muzycznym w Gdyni [RECENZJA] - SZOK - Szymon o kulturze",
+            "url": "https://szymonokulturze.pl/chlopi-recenzja/"
+          }
+        ]
+      },
+      "Based on the search results, I found comprehensive information about theatrical adaptations of \"Ch\u0142opi\" (Peasants) by W\u0142adys\u0142aw Reymont in Polish theatres. Here's what I found:\n\n## Multiple Theatrical Adaptations of \"Ch\u0142opi\" in Polish Repertoire\n\nThe search reveals several significant theatrical adaptations of W\u0142adys\u0142aw Reymont's Nobel Prize-winning novel \"Ch\u0142opi\" currently in Polish theatre repertoires:\n\n### Musical Adaptations\n\nThe most prominent is a musical adaptation of the Nobel Prize-winning novel by W\u0142adys\u0142aw Reymont from the early 20th century at the **Teatr Muzyczny in Gdynia**, directed by Wojciech Ko\u015bcielniak. The production features Bernard Szyc, a flagship figure of the Musical Theatre in Gdynia, as Maciej Boryna, and Karolina Tr\u0119bacz and Renia Gos\u0142awska in two completely different interpretations of Jagna.\n\nThe musical includes breathtaking collective dance scenes involving up to 60 artists simultaneously, with a display of diverse human characters surrounded by colorful costumes from \u0141owicz and music.\n\n### Dramatic Adaptations\n\n**Teatr Ludowy in Krak\u00f3w** presents another adaptation directed by Remigiusz Brzyk. The performance is a reconstruction of Reymont's novel, taking the form of an \"investigation\" reported from the perspective of a collective witness to a community lynching. This production won several awards at the 2025 Kaliskie Spotkania Teatralne (Kalisz Theatre Meetings), including the Main Prize for Weronika Kowalska for her role as Hanka.\n\n**Teatr Powszechny in Warsaw** features a version directed by Krzysztof Garbaczewski. From Reymont's monumental novel, Garbaczewski extracts ecological and emancipatory content, creating a multi-layered staging that confronts the writer's ideas with contemporary ones, creating a world of beings that are part human, animals, and robots searching for the purpose of their existence.\n\n### Critical Reception and Themes\n\nKo\u015bcielniak's \"Ch\u0142opi\" is described as a story about \"us here and now,\" as each of us contains a part of this small community that guards its values, customs, and traditions while simultaneously sinking into schizophrenic deception.\n\nThe 1924 Nobel Prize-winning novel depicts life in the fictional village of Lipce from the late 19th century, and while usually read as an ethnographic record of the past, today it reveals its myth-making power and creative language force.\n\nThese adaptations demonstrate the enduring relevance of Reymont's work, with each theatre offering a unique interpretation that connects the historical rural narrative to contemporary Polish society and universal human experiences."
+    ],
+    "durationSeconds": 28.33572937700001
+  }
+}

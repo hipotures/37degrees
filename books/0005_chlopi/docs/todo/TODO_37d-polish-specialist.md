@@ -1,81 +1,40 @@
-# TODO: 37d-polish-specialist for "Chłopi" by Władysław Reymont (1904)
+# TODO: 37d-polish-specialist
+Book: Chłopi (The Peasants)
+Author: Władysław Reymont
+Year: 1904-1909  
+Location: books/0005_chlopi/
 
-## Polish Reception and Education Analysis
+## Primary Tasks
+- [x] Research complete Polish publication history from 1904 to present [2025-07-29 18:45]
+- [x] Investigate current educational status in Polish schools (lektura) [2025-07-29 18:45]
+- [x] Track Matura exam appearances and specific question types [2025-07-29 18:45]
+- [x] Analyze Polish critical reception from initial publication to today [2025-07-29 18:45]
+- [x] Document reader reception on Polish platforms (Lubimyczytać.pl, etc.) [2025-07-29 18:45]
+- [x] Explore Polish cultural impact and literary influence on other writers [2025-07-29 18:45]
+- [x] Find Polish theater, film, and radio adaptations specifically [2025-07-29 18:45]
+- [x] Monitor Polish youth engagement and contemporary discussion [2025-07-29 18:45]
 
-### [ ] 1. Polish Literary Canon Status
-- [ ] Research "Chłopi" position in Polish literary hierarchy
-- [ ] Document critical reception in Poland over decades
-- [ ] Analyze Nobel Prize impact on Polish perception
-- [ ] Research Polish literary criticism evolution
+## Search Focus Areas
+Generated based on agent's Polish expertise and "Chłopi" as foundational Polish literature:
 
-### [ ] 2. Educational System Integration
-- [ ] Document how "Chłopi" is taught in Polish schools
-- [ ] Research curriculum placement (which grades/levels)
-- [ ] Analyze required vs optional reading status
-- [ ] Document teacher training materials and approaches
-
-### [ ] 3. Polish Cultural Identity Connection
-- [ ] Research novel's role in Polish national identity
-- [ ] Document connection to Polish rural heritage
-- [ ] Analyze peasant culture preservation aspects
-- [ ] Research folk tradition documentation value
-
-### [ ] 4. Language and Dialect Analysis
-- [ ] Research Reymont's use of Polish peasant dialects
-- [ ] Document regional language variations in text
-- [ ] Analyze translation challenges for international editions
-- [ ] Research linguistic historical value
-
-### [ ] 5. Polish Social Issues Reflection
-- [ ] Analyze class structure depictions relevance
-- [ ] Document land ownership themes in Polish context
-- [ ] Research agricultural transformation parallels
-- [ ] Analyze family structure evolution themes
-
-## Contemporary Polish Context
-
-### [ ] 6. Modern Polish Rural Life Comparison
-- [ ] Research current Polish village conditions
-- [ ] Document agricultural modernization impact
-- [ ] Analyze urban migration patterns from villages
-- [ ] Compare traditional vs modern Polish family structures
-
-### [ ] 7. Polish Youth Engagement Research
-- [ ] Research how Polish teenagers view the novel
-- [ ] Document social media discussions in Polish
-- [ ] Analyze generation gap themes relevance today
-- [ ] Research Polish youth connection to rural heritage
-
-### [ ] 8. Regional Variations Analysis
-- [ ] Research reception differences across Polish regions
-- [ ] Document urban vs rural reader perspectives
-- [ ] Analyze regional pride/identity connections
-- [ ] Research local adaptations and interpretations
-
-## Polish Cultural Bridge Building
-
-### [ ] 9. Traditional vs Modern Poland Themes
-- [ ] Document how novel bridges historical and contemporary Poland
-- [ ] Research cultural continuity themes
-- [ ] Analyze preservation vs progress tensions
-- [ ] Document Polish identity evolution reflections
-
-### [ ] 10. Educational Innovation Opportunities
-- [ ] Research modern teaching approaches for "Chłopi"
-- [ ] Document digital learning integration possibilities
-- [ ] Analyze multimedia educational resources
-- [ ] Research cross-curricular connections (history, geography, sociology)
+1. **Educational Mandates**: Research when "Chłopi" became required reading and in which grades (gimnazjum, liceum)
+2. **Matura History**: Find all Matura exam questions about "Chłopi" with special focus on recent years
+3. **Polish Literary Canon**: Investigate "Chłopi"'s place in Polish literary hierarchy and Nobel Prize prestige
+4. **Regional Significance**: Research how the novel is received in different Polish regions, especially rural areas
+5. **Communist Era Reception**: Document how "Chłopi" was interpreted under communist Poland (peasant themes)
+6. **Modern Polish Criticism**: Find contemporary Polish literary scholars' analysis and reinterpretations
+7. **Polish Language Evolution**: Track how dialect and peasant language in "Chłopi" is understood by modern Polish readers
+8. **Cultural Memory**: Research "Chłopi" in Polish collective memory, national identity, and cultural references
 
 ## Output Requirements
+- Save findings to: docs/findings/37d-polish-specialist_findings.md
+- Follow agent profile format with Polish-language sources prioritized
+- Include exact Lubimyczytać.pl statistics and ratings
+- Cite MEN curriculum documents and CKE exam archives
+- Focus on Polish youth perspectives and educational impact
 
-### [ ] 11. Polish Context Report
-- [ ] Compile comprehensive Polish reception analysis
-- [ ] Create educational integration recommendations
-- [ ] Document cultural significance for Polish identity
-
-### [ ] 12. Youth Engagement Strategy
-- [ ] Prepare foundation for youth connector analysis
-- [ ] Document Polish-specific cultural bridges
-- [ ] Create relevance mapping for modern Polish teens
-
-**COMPLETION CRITERIA**: All [ ] tasks must be marked [x] with timestamp when completed, [0] if no relevant information found.
+## Notes
+- Agent profile location: ../../.claude/agents/37d-polish-specialist.md (relative from book directory)
+- This agent is CRITICAL for "Chłopi" research as it's fundamentally Polish literature
+- Nobel Prize significance should be emphasized in Polish context
+- Pay special attention to peasant/rural themes in Polish cultural identity

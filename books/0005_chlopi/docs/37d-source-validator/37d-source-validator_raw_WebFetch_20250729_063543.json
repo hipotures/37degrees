@@ -1,0 +1,19 @@
+{
+  "session_id": "100c9686-088c-4e35-9a25-3b12acbb258b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/100c9686-088c-4e35-9a25-3b12acbb258b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0005_chlopi",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebFetch",
+  "tool_input": {
+    "url": "https://lubimyczytac.pl/ksiazka/4872648/chlopi",
+    "prompt": "Extract the rating statistics for this book including average rating, number of ratings, number of readers, and number of reviews"
+  },
+  "tool_response": {
+    "bytes": 243662,
+    "code": 200,
+    "codeText": "OK",
+    "result": "Based on the webpage content, here are the rating statistics for \"Infectious Greed: How Deceit and Risk Corrupted the Financial Markets\":\n\n- Average Rating: 8.0 / 10\n- Number of Ratings: 1\n- Number of Reviews: 1\n- Number of Readers: Not explicitly stated, but appears to be low given the limited number of ratings and reviews\n\nThe single review gave the book an 8/10 rating and was added on 16.12.2018 by a user named \"michal_frikucak\".",
+    "durationMs": 8749,
+    "url": "https://lubimyczytac.pl/ksiazka/4872648/chlopi"
+  }
+}

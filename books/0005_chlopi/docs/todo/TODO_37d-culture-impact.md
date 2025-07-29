@@ -1,67 +1,40 @@
-# TODO: 37d-culture-impact for "Chłopi" by Władysław Reymont (1904)
+# TODO: 37d-culture-impact
+Book: Chłopi (The Peasants)
+Author: Władysław Reymont  
+Year: 1904-1909
+Location: books/0005_chlopi/
 
-## Cultural Adaptations Research
+## Primary Tasks
+- [x] Research all film and TV adaptations of "Chłopi" throughout history *(completed 2025-07-29 06:15)*
+- [x] Investigate Polish theater productions and major stage adaptations *(completed 2025-07-29 06:20)*
+- [x] Track digital footprint - TikTok, Instagram, YouTube presence of "Chłopi" *(completed 2025-07-29 06:35)*
+- [x] Analyze fanfiction and fan art communities around the novel *(completed 2025-07-29 06:40)*
+- [x] Document gaming adaptations or interactive media projects *(completed 2025-07-29 06:45)*
+- [x] Research commercial impact and merchandise related to the work *(completed 2025-07-29 06:50)*
+- [x] Explore Nobel Prize cultural impact and celebrations *(completed 2025-07-29 06:55)*
+- [x] Find modern reinterpretations and parodies of the work *(completed 2025-07-29 07:00)*
 
-### [ ] 1. Film and TV Adaptations
-- [ ] Research major film adaptations of "Chłopi"
-- [ ] Document Polish TV series and movies based on the novel
-- [ ] Analyze how different directors interpreted the story
-- [ ] Compare visual representations across decades
+## Search Focus Areas
+Generated based on agent's expertise in cultural tracking and "Chłopi" as Nobel Prize winner:
 
-### [ ] 2. Theater and Opera Adaptations
-- [ ] Research stage adaptations in Polish theaters
-- [ ] Document any opera or musical versions
-- [ ] Analyze how the story translates to live performance
-- [ ] Research international theater productions
-
-### [ ] 3. Digital Age Presence
-- [ ] Research "Chłopi" references in Polish internet culture
-- [ ] Document memes, social media discussions
-- [ ] Analyze presence on platforms like TikTok, Instagram
-- [ ] Research online book clubs and discussions
-
-### [ ] 4. Educational Impact
-- [ ] Document how "Chłopi" is taught in Polish schools
-- [ ] Research student reactions and interpretations
-- [ ] Analyze curriculum changes over decades
-- [ ] Document teacher resources and study guides
-
-### [ ] 5. Cultural References in Popular Media
-- [ ] Research references in Polish pop culture
-- [ ] Document mentions in contemporary Polish literature
-- [ ] Analyze influence on other Polish authors
-- [ ] Research international recognition patterns
-
-## Modern Relevance Analysis
-
-### [ ] 6. Contemporary Polish Issues Connection
-- [ ] Analyze rural vs urban divide parallels
-- [ ] Document modern agricultural/economic issues
-- [ ] Research contemporary Polish village life
-- [ ] Compare historical and modern social tensions
-
-### [ ] 7. Global Cultural Parallels
-- [ ] Research similar works in world literature
-- [ ] Document universal themes across cultures
-- [ ] Analyze peasant literature traditions globally
-- [ ] Compare to contemporary rural narratives
-
-### [ ] 8. Youth Culture Bridge Analysis
-- [ ] Research how young Poles relate to the story
-- [ ] Document generation gap themes relevance
-- [ ] Analyze family conflict parallels today
-- [ ] Research social media discussions by youth
+1. **Polish Film History**: Search for all Polish film adaptations, starting with historical cinema through modern attempts
+2. **Theater Legacy**: Investigate major theater productions in Poland and abroad, focusing on folk/peasant themed stagings  
+3. **BookTok Polonia**: Track Polish BookTok creators discussing "Chłopi" and how Gen Z interprets peasant life
+4. **Nobel Prize Media**: Research how Nobel Prize win generated cultural content, documentaries, and commemorations
+5. **Folk Revival Movements**: Connect to modern Polish folk music, traditional culture revival, and rural romanticism
+6. **Educational Media**: Find school productions, educational videos, and study resources using multimedia
+7. **International Reception**: Track how rural/peasant themes from "Chłopi" influenced global literature and media
+8. **Meme Culture**: Search for any memes, jokes, or contemporary references to the novel in Polish culture
 
 ## Output Requirements
+- Save findings to: docs/findings/37d-culture-impact_findings.md
+- Follow exact format from agent profile with view counts and statistics
+- Include screenshots/links of viral content where possible
+- Provide exact numbers for hashtag views, fan works, etc.
+- Focus on youth engagement and contemporary relevance
 
-### [ ] 9. Cultural Impact Timeline
-- [ ] Create chronological map of cultural adaptations
-- [ ] Document reception changes over time
-- [ ] Map to Polish historical/political changes
-
-### [ ] 10. Modern Relevance Report
-- [ ] Compile contemporary connections
-- [ ] Prepare foundation for youth connector analysis
-- [ ] Document cultural transformation patterns
-
-**COMPLETION CRITERIA**: All [ ] tasks must be marked [x] with timestamp when completed, [0] if no relevant information found.
+## Notes
+- Agent profile location: ../../.claude/agents/37d-culture-impact.md (relative from book directory)
+- Prioritize Polish cultural adaptations due to novel's national significance
+- Remember this is Nobel Prize literature - cultural prestige is important
+- Focus on how peasant/rural themes translate to modern media

@@ -1,0 +1,58 @@
+{
+  "session_id": "100c9686-088c-4e35-9a25-3b12acbb258b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/100c9686-088c-4e35-9a25-3b12acbb258b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0005_chlopi",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Anna Zaranko\" \"Found in Translation Award\" 2023 \"Ch\u0142opi\" \"The Peasants\""
+  },
+  "tool_response": {
+    "query": "\"Anna Zaranko\" \"Found in Translation Award\" 2023 \"Ch\u0142opi\" \"The Peasants\"",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01DtAmutcC2wUXsZSziie427",
+        "content": [
+          {
+            "title": "Anna Zaranko received the Found in Translation Award 2023",
+            "url": "https://instytutksiazki.pl/en/news,2,anna-zaranko-received-the-found-in-translation-award-2023,10262.html"
+          },
+          {
+            "title": "Reymont translation wins Found In Translation award \u2013 The First News",
+            "url": "https://www.thefirstnews.com/article/reymont-translation-wins-prestigious-found-in-translation-award-38445"
+          },
+          {
+            "title": "Anna Zaranko | Culture.pl",
+            "url": "https://culture.pl/en/author/anna-zaranko"
+          },
+          {
+            "title": "Anna Zaranko receives the Found in Translation Award \u2013 interview and laudation",
+            "url": "https://instytutksiazki.pl/en/news,2,anna-zaranko-receives-the-found-in-translation-award-%E2%80%93-interview-and-laudation,5912.html"
+          },
+          {
+            "title": "Tag: Anna Zaranko",
+            "url": "https://instytutksiazki.pl/en/news,2.html?tag=Anna+Zaranko"
+          },
+          {
+            "title": "Anna Zaranko receives Found in Translation Award",
+            "url": "https://instytutksiazki.pl/en/news,2,anna-zaranko-receives-found-in-translation-award,4900.html"
+          },
+          {
+            "title": "The Peasants - W\u0142adys\u0142aw Stanis\u0142aw Reymont | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5069425/the-peasants"
+          },
+          {
+            "title": "Anna Zaranko receives Found in Translation Award | Instytut Polski w Londynie",
+            "url": "https://instytutpolski.pl/london/2020/03/31/anna-zaranko-receives-found-in-translation-award/"
+          },
+          {
+            "title": "T\u0142umaczka polskiego pochodzenia z nagrod\u0105 za przek\u0142ad \u201eCh\u0142op\u00f3w\u201d | Aktualno\u015bci | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/tlumaczka-polskiego-pochodzenia-z-nagroda-za-przeklad-chlopow"
+          }
+        ]
+      },
+      "Based on the search results, here's what I found about Anna Zaranko receiving the Found in Translation Award 2023 for her translation of \"Ch\u0142opi\" (\"The Peasants\"):\n\nAnna Zaranko received the Found in Translation Award 2023 for her English translation of \"Ch\u0142opi\" (\"The Peasants\") by W\u0142adys\u0142aw Reymont, published by Penguin Classics. The award was presented by the Ambassador of the Republic of Poland, Professor Piotr Wilczek, together with the Director of the Polish Cultural Institute in London, Bartosz Wisniewski.\n\nThis marks Zaranko's second Found in Translation Award, as she previously received the award in 2020 for her translation of \"The Memoir of an Anti-hero\" by Kornel Filipowicz. Anna Zaranko is a British-Polish translator who was born in the UK to Polish parents.\n\n\"The Peasants\" was first published in four volumes between 1904 and 1909, and earned Reymont the 1924 Nobel Prize for Literature. The translation was praised for its handling of Reymont's unique literary style. The novel features a distinctive \"peasant-speak\" language created by the author that doesn't reflect any actual dialect spoken in rural Poland, and Zaranko was praised for approaching this language \"with a light touch, utilising colourful informal speech that avoids any reliance on British dialects\".\n\nThe Found in Translation Award, established in 2008, is organized by the Polish Book Institute, W.A.B publishers, and the Polish Cultural Institutes in London and New York, and is regarded as Poland's most prestigious award for translators of Polish literature abroad."
+    ],
+    "durationSeconds": 15.775881578000263
+  }
+}

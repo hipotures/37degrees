@@ -1,0 +1,154 @@
+{
+  "session_id": "100c9686-088c-4e35-9a25-3b12acbb258b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/100c9686-088c-4e35-9a25-3b12acbb258b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0005_chlopi",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Ch\u0142opi Reymont TikTok BookTok polski matura lektury studenci"
+  },
+  "tool_response": {
+    "query": "Ch\u0142opi Reymont TikTok BookTok polski matura lektury studenci",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01HXHCjbhTK8ojNcvitrtpWq",
+        "content": [
+          {
+            "title": "CH\u0141OPI, W\u0142adys\u0142aw Reymont | matura 2025",
+            "url": "https://www.otouczelnie.pl/news/1451/"
+          },
+          {
+            "title": "Lektury do matury \u2013 W\u0142adys\u0142aw Stanis\u0142aw Reymont, Ch\u0142opi, t.1, Jesie\u0144",
+            "url": "https://bibliozsgpoznan.home.blog/2020/04/07/lektury-do-matury-wladyslaw-stanislaw-reymont-chlopi-t-1-jesien/"
+          },
+          {
+            "title": "W\u0142adys\u0142aw Stanis\u0142aw Reymont, Ch\u0142opi",
+            "url": "https://wolnelektury.pl/katalog/lektura/chlopi/"
+          },
+          {
+            "title": "Ch\u0142opi - Matura z j\u0119zyka polskiego 2020 | Akademia Nauk Stosowanych w Elbl\u0105gu",
+            "url": "https://ans-elblag.pl/chlopi-matura-z-jezyka-polskiego-2020.html"
+          },
+          {
+            "title": "Ch\u0142opi Reymonta na maturze | AleKlasa",
+            "url": "https://aleklasa.pl/matura/c406-nauka-o-jezyku-2/chlopi-na-maturze"
+          },
+          {
+            "title": "Ch\u0142opi (W. S. Reymont) - Opracowania, lektury, fiszki, testy - Opracowania.pl",
+            "url": "https://opracowania.pl/opracowania/jezyk-polski/chlopi-w-s-reymont,oid,454"
+          },
+          {
+            "title": "W\u0142adys\u0142aw Stanis\u0142aw Reymont - Ch\u0142opi - Lista lektur dla szko\u0142y \u015bredniej. Fot. materia\u0142y prasowe - Zdj\u0119cia, fotki",
+            "url": "https://maturzysta.dlastudenta.pl/fotoalbum/1453838,11771,128996,1.html"
+          },
+          {
+            "title": "Dokument 45 - notatki z ch\u0142op\u00f3w do matury - Ch\u0142opi, W\u0142adys\u0142aw Reymont Autor: W\u0142adys\u0142aw Stanis\u0142aw - Studocu",
+            "url": "https://www.studocu.com/pl/document/akademickie-liceum-ogolnoksztalcace/jezyk-polski/dokument-45-notatki-z-chlopow-do-matury/49340405"
+          },
+          {
+            "title": "\u201eCh\u0142opi\u201d \u2013 najwa\u017cniejsze aspekty powie\u015bci W\u0142adys\u0142awa Reymonta. - \u015aci\u0105gi, wypracowania, lektury - Bryk.pl",
+            "url": "https://www.bryk.pl/wypracowania/jezyk-polski/mloda-polska/5434-chlopi-najwazniejsze-aspekty-powiesci-wladyslawa-reymonta.html"
+          },
+          {
+            "title": "Wolnelektury",
+            "url": "https://wolnelektury.pl/media/book/pdf/chlopi.pdf"
+          }
+        ]
+      },
+      "Based on the search results, I can see information about \"Ch\u0142opi\" by W\u0142adys\u0142aw Reymont in relation to Polish education, particularly its role in the matura (Polish high school graduation exam). However, I don't see any specific information about TikTok or BookTok in these results. Let me search more specifically for information about this book's presence on social media platforms.",
+      {
+        "tool_use_id": "srvtoolu_011Dzn4wiAAGSzDHy55L3m38",
+        "content": [
+          {
+            "title": "TikTok i ksi\u0105\u017cki, czyli co to jest booktok? - CZYTAM - Empik Pasje",
+            "url": "https://www.empik.com/pasje/tiktok-i-ksiazki-czyli-co-to-jest-booktok,135027,a"
+          },
+          {
+            "title": "TikTok macht mit BookTok das Lesen wieder cool: Revolution im Buchmarkt?",
+            "url": "https://www.24books.de/aktuelles/tiktok-booktok-branche-buchmarkt-digital-social-media-millionen-bestseller-buchverkauf-trends-93836553.html"
+          },
+          {
+            "title": "Eresy21: I will create a tiktok video to help you promote your book on booktok for $20 on fiverr.com",
+            "url": "https://www.fiverr.com/eresy21/create-a-tiktok-video-to-help-you-promote-your-book-on-booktok"
+          },
+          {
+            "title": "What is a BookTok Girl? - Social Media Terms By SocialEZ",
+            "url": "https://www.socialez.com/social-media-terms/booktok/"
+          },
+          {
+            "title": "What Is BookTok? Meaning, Origin & Why It Matters in 2025",
+            "url": "https://www.socialpilot.co/social-media-terms/what-is-booktok"
+          },
+          {
+            "title": "Booktok Made Me Buy It: Why We Buy Books On Social Media",
+            "url": "https://fantasygirlwrites.com/booktok-made-me-buy-it/"
+          },
+          {
+            "title": "TikTok - Make Your Day",
+            "url": "https://www.tiktok.com/discover/booktok-teksty"
+          },
+          {
+            "title": "BookTok, romantasy and follower counts: are future bestselling authors all going to be TikTok stars?",
+            "url": "https://www.thebookseller.com/news/booktok-romantasy-and-follower-counts-are-future-bestselling-authors-all-going-to-be-tiktok-stars"
+          },
+          {
+            "title": "Breaking down BookTok: What brands can learn from this social-literary phenomenon",
+            "url": "https://sproutsocial.com/insights/booktok/"
+          },
+          {
+            "title": "What\u2019s Wrong With BookTok \u2013 FEM Newsmagazine",
+            "url": "https://femmagazine.com/whats-wrong-with-booktok/"
+          }
+        ]
+      },
+      "Now let me search more specifically for Polish BookTok content and information about Ch\u0142opi specifically:",
+      {
+        "tool_use_id": "srvtoolu_013n8t738kaEaQdfmdKEJVAE",
+        "content": [
+          {
+            "title": "TOP 5 ksi\u0105\u017ckar, kt\u00f3re podbijaj\u0105 polski BookTok - Going. MORE - muzyka, kultura, lifestyle",
+            "url": "https://goingapp.pl/more/booktok-ksiazkary-tiktok/"
+          },
+          {
+            "title": "TikTok i ksi\u0105\u017cki, czyli co to jest booktok? - CZYTAM - Empik Pasje",
+            "url": "https://www.empik.com/pasje/tiktok-i-ksiazki-czyli-co-to-jest-booktok,135027,a"
+          },
+          {
+            "title": "Ksi\u0105\u017cki - BookTok | Ksi\u0119garnia Internetowa Gandalf",
+            "url": "https://www.gandalf.com.pl/k/booktok/"
+          },
+          {
+            "title": "#BookTok. Empik i TikTok \u0142\u0105cz\u0105 si\u0142y",
+            "url": "https://news.empik.com/174228-booktok-empik-i-tiktok-lacza-sily"
+          },
+          {
+            "title": "Tak si\u0119 promuje teraz ksi\u0105\u017cki! TikTok, a w\u0142a\u015bciwie BookTok, czyli o nowym fenomenie w promocji czytelnictwa | G\u0142os Wielkopolski",
+            "url": "https://gloswielkopolski.pl/tak-sie-promuje-teraz-ksiazki-tiktok-a-wlasciwie-booktok-czyli-o-nowym-fenomenie-w-promocji-czytelnictwa/ar/c13-18371465"
+          },
+          {
+            "title": "Te ksi\u0105\u017cki zrobi\u0142y furor\u0119 na Tik Toku! Warte rozg\u0142osu? | Aktualno\u015bci | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/ksiazkowe-hity-tiktoka-masz-je-w-swojej-biblioteczce"
+          },
+          {
+            "title": "#BookTok: TikTok wraz z polskimi pisarzami zach\u0119ca do czytania | TikTok Newsroom",
+            "url": "https://newsroom.tiktok.com/pl-pl/tiktok-together-with-polish-writers-encourages-to-read"
+          },
+          {
+            "title": "Booktok czyli ksi\u0105zki, kt\u00f3re zdoby\u0142y popularno\u015b\u0107 na TikToku. 5 pozycji idealnych na wakacje - ESKA.pl",
+            "url": "https://www.eska.pl/news/booktok-czyli-ksiazki-ktore-zdobyly-popularnosc-na-tiktoku-5-pozycji-idealnych-na-wakacje-aa-SQ8j-ih7n-oyQD.html"
+          },
+          {
+            "title": "S\u0142abe czytelnictwo? Nie w sieci! Jak dzia\u0142aj\u0105 Bookstagram i BookTok",
+            "url": "https://www.polityka.pl/tygodnikpolityka/kultura/2224142,1,slabe-czytelnictwo-nie-w-sieci-jak-dzialaja-bookstagram-i-booktok.read"
+          },
+          {
+            "title": "BookTok \u2013 nowy trend na TikToku - NaCzytniku.pl",
+            "url": "https://www.naczytniku.pl/booktok-nowy-trend-na-tiktoku/"
+          }
+        ]
+      },
+      "Based on my search results, I can provide you with comprehensive information about the topic of \"Ch\u0142opi\" by Reymont in relation to TikTok, BookTok, Polish students, and the matura examination.\n\n## Search Results Summary:\n\n### About \"Ch\u0142opi\" and Polish Education\n\nThe novel \"Ch\u0142opi\" by W\u0142adys\u0142aw Reymont is an important part of Polish literature education, with specific questions appearing on the matura (Polish high school graduation exam) in 2025. \"Ch\u0142opi\" is a mandatory reading at the basic level, with only the first volume titled \"Autumn\" being discussed in classes.\n\nReymont received the Nobel Prize in 1924, as the second Pole to receive this honor, for his novel \"Ch\u0142opi\" which he wrote over seven years. The novel is described as \"an insightful study of peasant reality, a panoramic novel that realizes the assumptions of naturalism and realism\".\n\n### BookTok in Poland\n\nBookTok is a part of TikTok where we can see videos related to literature, allowing people to discover new, interesting readings, with the most popular genres being Young Adult and New Adult. On the TikTok platform, you can find over 29 million videos related to literature marked as #BookTok.\n\nEvery second person using TikTok in Poland admits that they bought a book they learned about through the app. BookTok, the community of book lovers on TikTok, encourages reading and promotes books.\n\n### Polish BookTok Content and Education\n\nEmpik and TikTok began a long-term cooperation aimed at promoting reading and supporting culture in Poland, with the platform taking patronage over the Empik Discovery Award 2021. As part of the cooperation, dedicated shelves marked with the TikTok logo appeared in 50 selected Empik stores, featuring selected book titles recommended by platform creators and users, with QR codes allowing immediate access to video reviews.\n\nA #BookTok challenge involving well-known Polish authors was created to encourage young people to reach for books and discover a passion for reading, as part of the TikTok Creator Learning Fund initiated in Poland.\n\n### BookTok Characteristics and Impact\n\nBookTok is the \"TikTok\" response to the popular Bookstagram on Instagram, but this time featuring videos instead of photos where users talk about books. BookTok is a trendsetter in the world of literature and also promotes reading, often among teenagers and youth who readily reach for Young Adult literature.\n\nIn Poland, literature-related content on TikTok is also created by creators like Magdalena Adamus (@catusgeekus) who reviews bestsellers and novels, and others focusing on different genres. Due to the large number of creators active on the app, BookTok allows discovery of new genres and authors.\n\n### Traditional vs. Digital Literature Promotion\n\nThere's a notable contrast where students easily consume 500 pages of romance or 800 pages of fantasy, but struggle with 45 pages of school reading, as illustrated by a 16-year-old TikTok user Pola who shares her book passion with over 100,000 followers and has nearly 4 million likes on her posts.\n\nHowever, I did not find specific information about \"Ch\u0142opi\" by Reymont being discussed or promoted on Polish BookTok or TikTok. The search results show that BookTok in Poland primarily focuses on contemporary literature, particularly Young Adult and romance genres, rather than classical Polish literature required for the matura exam."
+    ],
+    "durationSeconds": 41.16502972299978
+  }
+}

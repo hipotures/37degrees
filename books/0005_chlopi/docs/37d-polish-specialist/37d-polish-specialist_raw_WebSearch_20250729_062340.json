@@ -1,0 +1,62 @@
+{
+  "session_id": "100c9686-088c-4e35-9a25-3b12acbb258b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/100c9686-088c-4e35-9a25-3b12acbb258b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0005_chlopi",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Ch\u0142opi Reymont BookTok polska TikTok BookTube m\u0142odzie\u017c opinie uczniowie"
+  },
+  "tool_response": {
+    "query": "Ch\u0142opi Reymont BookTok polska TikTok BookTube m\u0142odzie\u017c opinie uczniowie",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01LmA7ofRyXbnDBc7dVZSgNE",
+        "content": [
+          {
+            "title": "\u201eBookTok kaza\u0142 mi to przeczyta\u0107\u201d",
+            "url": "https://krytykapolityczna.pl/kultura/czytaj-dalej/magdalena-adamus-booktok-co-czytaja-nastolatki/"
+          },
+          {
+            "title": "TikTok i ksi\u0105\u017cki, czyli co to jest booktok? - CZYTAM - Empik Pasje",
+            "url": "https://www.empik.com/pasje/tiktok-i-ksiazki-czyli-co-to-jest-booktok,135027,a"
+          },
+          {
+            "title": "TOP 5 ksi\u0105\u017ckar, kt\u00f3re podbijaj\u0105 polski BookTok - Going. MORE - muzyka, kultura, lifestyle",
+            "url": "https://goingapp.pl/more/booktok-ksiazkary-tiktok/"
+          },
+          {
+            "title": ",,Ch\u0142opi\u201d W.Reymonta \u2013 moodboard, Xi\u0119garnia i monta\u017c asocjacyjny w innowacyjnej interpretacji klas drugich liceum \u2013 Pierwsze Prywatne Liceum Og\u00f3lnokszta\u0142c\u0105ce Leonarda Piwoni",
+            "url": "https://liceum.piwoni.pl/chlopi-w-reymonta-moodboard-xiegarnia-i-montaz-asocjacyjny-w-innowacyjnej-interpretacji-klas-drugich-liceum/"
+          },
+          {
+            "title": "Te ksi\u0105\u017cki zrobi\u0142y furor\u0119 na Tik Toku! Warte rozg\u0142osu? | Aktualno\u015bci | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/ksiazkowe-hity-tiktoka-masz-je-w-swojej-biblioteczce"
+          },
+          {
+            "title": "Wolnelektury",
+            "url": "https://wolnelektury.pl/media/book/pdf/chlopi.pdf"
+          },
+          {
+            "title": "W\u0142adys\u0142aw Stanis\u0142aw Reymont, Ch\u0142opi",
+            "url": "https://wolnelektury.pl/katalog/lektura/chlopi/"
+          },
+          {
+            "title": "Ksi\u0105\u017cki - BookTok | Ksi\u0119garnia Internetowa Gandalf",
+            "url": "https://www.gandalf.com.pl/k/booktok/"
+          },
+          {
+            "title": "W\u0142adys\u0142aw Reymont, \"Ch\u0142opi\" | #literatura | Culture.pl",
+            "url": "https://culture.pl/pl/dzielo/wladyslaw-reymont-chlopi"
+          },
+          {
+            "title": "Ch\u0142opi - W\u0142adys\u0142aw Stanis\u0142aw Reymont | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5084698/chlopi"
+          }
+        ]
+      },
+      "Based on the search results, I found information about BookTok in Poland and its impact on young people's reading habits, though specific mentions of \"Ch\u0142opi\" by Reymont in the context of BookTok are limited. Here's what the search revealed:\n\n## BookTok w Polsce - wp\u0142yw na m\u0142odzie\u017c\n\nPolski BookTok nie jest jeszcze tak rozwini\u0119ty jak jego ameryka\u0144ski odpowiednik (hasztag #booktokpolska ma na TikToku ponad 420 milion\u00f3w wy\u015bwietle\u0144), ale szybko goni starszego brata.(no content)Literatura m\u0142odzie\u017cowa stanowi trzon BookToka, z kt\u00f3rego korzystaj\u0105 g\u0142\u00f3wnie nastolatki i m\u0142odzi doro\u015bli.(no content)Booktok jest trendsetterem w \u015bwiecie literatury, ale te\u017c promuje czytelnictwo, cz\u0119sto w\u015br\u00f3d nastolatk\u00f3w czy m\u0142odzie\u017cy, kt\u00f3rzy bardzo ch\u0119tnie si\u0119gaj\u0105 po literatur\u0119 Young Adult.\n\n## Popularne gatunki na polskim BookToku\n\nNajpopularniejsze gatunki to oczywi\u015bcie Young Adult i New Adult \u2013 to w\u0142a\u015bnie o nich tocz\u0105 si\u0119 gor\u0105ce dyskusje w komentarzach.(no content)Zdecydowanie dominuj\u0105 tutaj powie\u015bci m\u0142odzie\u017cowe, obyczajowe, romanse i fantastyka, czyli wszystko to, o czym nie przeczytamy raczej w kolejnym numerze magazynu \u201eKsi\u0105\u017cki\".\n\n## \"Ch\u0142opi\" Reymonta a m\u0142odzie\u017c\n\nCho\u0107 bezpo\u015brednie po\u0142\u0105czenia mi\u0119dzy \"Ch\u0142opami\" a BookTokiem nie zosta\u0142y znalezione w wynikach wyszukiwania, znalaz\u0142em jedn\u0105 interesuj\u0105c\u0105 wzmiank\u0119 o innowacyjnych metodach nauczania tej lektury:\n\nM\u0142odzie\u017c odczarowa\u0142a lektur\u0119, kt\u00f3ra generalnie nie cieszy si\u0119 powodzeniem. Reymont na pewno by\u0142by pod wra\u017ceniem.(no content)Ot\u00f3\u017c mog\u0105 [zainteresowa\u0107 m\u0142odego cz\u0142owieka], zw\u0142aszcza gdy zamiast tradycyjnego sprawdzianu poprosi si\u0119 uczni\u00f3w o przygotowanie collage'u. W\u00f3wczas wida\u0107, kto zg\u0142\u0119bi\u0142 powie\u015b\u0107 noblisty.\n\n## Charakterystyka spo\u0142eczno\u015bci BookTok\n\nTutejszej spo\u0142eczno\u015bci zale\u017cy na utrzymaniu wizerunku pozytywnego, bezpiecznego miejsca w internecie, gdzie nikt nie oceni ci\u0119 za to, co czytasz.(no content)Tym samym staje ona w opozycji do snobistycznego \u015bwiata literatury wysokiej, w kt\u00f3rym doro\u015bli klepi\u0105 si\u0119 po pleckach za czytanie laureat\u00f3w \u201eNike\" czy literackiego Nobla, a na tak zwan\u0105 literatur\u0119 popularn\u0105 patrz\u0105 z g\u00f3ry.\n\nWyniki pokazuj\u0105, \u017ce BookTok w Polsce rozwija si\u0119 dynamicznie i skutecznie promuje czytelnictwo w\u015br\u00f3d m\u0142odzie\u017cy, cho\u0107 koncentruje si\u0119 g\u0142\u00f3wnie na literaturze m\u0142odzie\u017cowej i popularnej, co mo\u017ce t\u0142umaczy\u0107 brak bezpo\u015brednich odniesie\u0144 do klasyki polskiej literatury jak \"Ch\u0142opi\" Reymonta w tym kontek\u015bcie."
+    ],
+    "durationSeconds": 27.865199827000033
+  }
+}

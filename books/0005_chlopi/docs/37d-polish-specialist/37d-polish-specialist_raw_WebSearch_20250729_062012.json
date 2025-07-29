@@ -1,0 +1,63 @@
+{
+  "session_id": "100c9686-088c-4e35-9a25-3b12acbb258b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/100c9686-088c-4e35-9a25-3b12acbb258b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0005_chlopi",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Ch\u0142opi Reymont matura egzamin CKE arkusze pytania 2020 2021 2022 2023 2024"
+  },
+  "tool_response": {
+    "query": "Ch\u0142opi Reymont matura egzamin CKE arkusze pytania 2020 2021 2022 2023 2024",
+    "results": [
+      "I'll perform a web search for information about \"Ch\u0142opi\" by Reymont and matura exam materials from the Polish Central Examination Commission (CKE) for the years 2020-2024.",
+      {
+        "tool_use_id": "srvtoolu_01Gvp7VLsiuF34XyACTmgaGd",
+        "content": [
+          {
+            "title": "CH\u0141OPI, W\u0142adys\u0142aw Reymont | matura 2025",
+            "url": "https://www.otouczelnie.pl/news/1451/Chlopi-matura-2023"
+          },
+          {
+            "title": "Matura z matematyki: Arkusze 2024, 2023 i 2022. CKE: Te zadania sprawi\u0142y problem",
+            "url": "https://edukacja.rp.pl/matura-i-egzamin-osmoklasisty/art42204331-matura-z-matematyki-arkusze-2024-2023-i-2022-cke-te-zadania-sprawily-problem"
+          },
+          {
+            "title": "Matura ustna \u2013 zagadnienia z \u201eCh\u0142op\u00f3w\u201d z om\u00f3wieniem \u2013 pytania jawne na 2025 i 2026-2028 - Baba od polskiego",
+            "url": "https://babaodpolskiego.pl/matura-ustna-chlopi/"
+          },
+          {
+            "title": "Lista pyta\u0144 jawnych w cz\u0119\u015bci ustnej egzaminu maturalnego z j\u0119zyka polskiego 2023 - Maturita - Kursy on-line, przygotowanie do matury i egzaminu \u00f3smoklasisty. Matura 2026, matura 2027, egzamin \u00f3smoklasisty 2026.",
+            "url": "https://www.maturita.pl/news/lista-pytan-jawnych-w-czesci-ustnej-egzaminu-maturalnego-z-jezyka-polskiego-2023.html"
+          },
+          {
+            "title": "Cke",
+            "url": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/komunikaty/2024/20230321_Lista_jawnych_zadan_JEZYK_POLSKI_2024_Aneks_1.pdf"
+          },
+          {
+            "title": "Pytania jawne matura 2025 \u2013 lista CKE i odpowiedzi (aktualizacja 20.08.2024) \u2013 Matura z j\u0119zyka polskiego \u2013 poezja.org",
+            "url": "https://poezja.org/wz/a/Matura_ustna_2025/"
+          },
+          {
+            "title": "Matematyka - matura poziom podstawowy - Arkusze CKE, Operon, Nowa Era - matura, egzamin \u00f3smoklasisty, egzamin zawodowy",
+            "url": "https://arkusze.pl/matematyka-matura-poziom-podstawowy/"
+          },
+          {
+            "title": "Informator maturalny j\u0119zyk polski - Arkusze CKE, Operon, Nowa Era - matura, egzamin \u00f3smoklasisty, egzamin zawodowy",
+            "url": "https://arkusze.pl/informator-maturalny-jezyk-polski/"
+          },
+          {
+            "title": "Ch\u0142opi t. 1 - Pytania i odpowiedzi - W\u0142adys\u0142aw Stanis\u0142aw Reymont - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/wladyslaw-stanislaw-reymont/chlopi-t-i.pytania-i-odpowiedzi"
+          },
+          {
+            "title": "Materia\u0142y i arkusze maturalne z biologii | BiologHelp",
+            "url": "https://biologhelp.pl/arkusze-maturalne-biologia"
+          }
+        ]
+      },
+      "Based on the search results, I found comprehensive information about \"Ch\u0142opi\" by Reymont and its presence in Polish matura exams (CKE materials) from 2020-2024. Here's what I found:\n\n## \"Ch\u0142opi\" by Reymont on Matura Exams (2020-2024)\n\n### Key Information About the Work in Matura Context:\n\nThe reading \"Ch\u0142opi\" appeared on the matura exam in 2006, but it continues to be part of the curriculum and exam materials.\n\nFortunately, on the matura only knowledge of fragments of the work is required. Until 2024, students needed to know the entire first volume (\"Autumn\"), while from 2025 students should know selected fragments (though it's not specified from which volume).\n\n### Main Matura Topics and Questions for \"Ch\u0142opi\":\n\nThe search revealed several key thematic areas that appear on matura exams:\n\n**For Oral Exams (2023-2025):**\nRole of nature in the life of individuals and communities. Discuss the issue based on \"Ch\u0142opi\" (Volume I - Autumn) by W\u0142adys\u0142aw Stanis\u0142aw Reymont. Include selected context in your answer.\n\nCustom and tradition in social life. Discuss the issue based on \"Ch\u0142opi\" (Volume I - Autumn) by W\u0142adys\u0142aw Stanis\u0142aw Reymont. Include selected context in your answer.\n\nLiterary creation of peasant character. Discuss the issue based on \"Ch\u0142opi\" (Volume I - Autumn) by W\u0142adys\u0142aw Stanis\u0142aw Reymont. Include selected context in your answer.\n\n**Additional Topics Include:**\n- Generational conflict\n- Moral principles of village inhabitants\n- Order of the world and causes of its destruction\n- The femme fatale motif\n\n### Key Study Areas:\n\nThe most important issues that may appear on the 2024 Polish language matura from \"Ch\u0142opi\" by W\u0142adys\u0142aw Reymont include: Circumstances of the creation of \"Ch\u0142opi\", Elements typical of epic, Why \"Ch\u0142opi\" is classified as a realist novel, What elements of naturalism can be found in \"Ch\u0142opi\".\n\n### Archival Materials Available:\n\nArchival matura papers are made available on the website by, among others, the Central Examination Commission, and complete sets of archival papers can be found on the Central Examination Commission website. The materials include complete scoring guidelines for solving tasks.\n\nThe search shows that \"Ch\u0142opi\" remains an active part of Polish matura examinations, with specific focus on thematic analysis, literary techniques, and contextual understanding required for both written and oral portions of the exam."
+    ],
+    "durationSeconds": 24.929319348999996
+  }
+}

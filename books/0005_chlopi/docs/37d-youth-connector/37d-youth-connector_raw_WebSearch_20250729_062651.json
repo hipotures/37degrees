@@ -1,0 +1,62 @@
+{
+  "session_id": "100c9686-088c-4e35-9a25-3b12acbb258b",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/100c9686-088c-4e35-9a25-3b12acbb258b.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0005_chlopi",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Ch\u0142opi\" Reymont Jagna Antek Boryna psychologia postaci analiza literacka"
+  },
+  "tool_response": {
+    "query": "\"Ch\u0142opi\" Reymont Jagna Antek Boryna psychologia postaci analiza literacka",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01Wd9LF7ZPvf6VMBfCmnya3z",
+        "content": [
+          {
+            "title": "Ch\u0142opi (powie\u015b\u0107) \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Ch\u0142opi_(powie\u015b\u0107)"
+          },
+          {
+            "title": "Ch\u0142opi - opracowanie - W\u0142adys\u0142aw Reymont",
+            "url": "https://poezja.org/wz/zbior/Chlopi/"
+          },
+          {
+            "title": "Antek Boryna - charakterystyka \u2013 Ch\u0142opi \u2013 W\u0142adys\u0142aw Reymont \u2013 poezja.org",
+            "url": "https://poezja.org/wz/interpretacja/4894/Antek_Boryna_charakterystyka"
+          },
+          {
+            "title": "Ch\u0142opi (W. S. Reymont) - Opracowania, lektury, fiszki, testy - Opracowania.pl",
+            "url": "https://opracowania.pl/opracowania/jezyk-polski/chlopi-w-s-reymont,oid,454"
+          },
+          {
+            "title": "Ch\u0142opi - \u015aci\u0105gi, wypracowania, lektury - Bryk.pl",
+            "url": "https://www.bryk.pl/wypracowania/jezyk-polski/lektury/1012360-chlopi.html"
+          },
+          {
+            "title": "Ch\u0142opi tom 1 Streszczenie i Bohaterowie - W\u0142adys\u0142aw Stanis\u0142aw Reymont (J\u0119zyk polski) jako PDF - Knowunity",
+            "url": "https://knowunity.pl/knows/jzyk-polski-chopi-tom-1-wadysaw-stanisaw-reymont-93043e98-a708-445c-b02d-4d6be0726b43"
+          },
+          {
+            "title": "Ch\u0142opi \u2013 bohaterowie \u2013 W\u0142adys\u0142aw Reymont \u2013 poezja.org",
+            "url": "https://poezja.org/wz/interpretacja/5007/Chlopi_bohaterowie"
+          },
+          {
+            "title": "Ch\u0142opi \u2013 cykl zaj\u0119\u0107",
+            "url": "https://gwo.pl/chlopi-cykl-scenariuszy-3/"
+          },
+          {
+            "title": "\"Ch\u0142opi Tom I - Jesie\u0144: Analiza i Streszczenie Lektury\"",
+            "url": "https://dyktanda.pl/lektury/chlopi-tom-i-jesien/"
+          },
+          {
+            "title": "Ch\u0142opi - charakterystyka bohater\u00f3w - 3telnia",
+            "url": "https://3telnia.pl/chlopi-charakterystyka-bohaterow/"
+          }
+        ]
+      },
+      "I performed a web search for \"Ch\u0142opi\" Reymont Jagna Antek Boryna psychologia postaci analiza literacka and found comprehensive results about the psychological analysis of these characters from W\u0142adys\u0142aw Reymont's Nobel Prize-winning novel \"Ch\u0142opi\" (The Peasants).\n\n## G\u0142\u00f3wne bohaterowie i ich psychologia:\n\n### Jagna Paczesi\u00f3wna\nJagna to osiemnastoletnia c\u00f3rka Dominikowej, urodziwa i utalentowana plastycznie. Osoba o dobrym sercu, wzrusza j\u0105 muzyka i opowie\u015bci Rocha. Ma du\u017ce powodzenie u m\u0119\u017cczyzn i wdaje si\u0119 w liczne romanse.(no content)Nie pasowa\u0142a do gromady, poniewa\u017c by\u0142a wra\u017cliw\u0105, artystyczn\u0105 dusz\u0105. Ucieka\u0142a od samotno\u015bci w romanse: z Mateuszem Go\u0142\u0119biem, Antkiem czy w\u00f3jtem, przez co sprowadzi\u0142a na siebie gniew mieszka\u0144c\u00f3w wsi.(no content)Sprawia wra\u017cenie dziewczyny naiwnej, kt\u00f3r\u0105 \u0142atwo wykorzysta\u0107 (w\u00f3jt j\u0105 opi\u0142 i wykorzysta\u0142 seksualnie). Zmuszona przez matk\u0119 wychodzi dla maj\u0105tku za Boryn\u0119, ale nie kocha go, dlatego te\u017c zdradza z Antkiem i innymi.(no content)Ostatecznie zostaje poha\u0144biona i wygnana ze wsi przez spo\u0142eczno\u015b\u0107.\n\n### Antek Boryna\nAntek Boryna to jeden z najbardziej niejednoznacznych bohater\u00f3w powie\u015bci Stanis\u0142awa Reymonta \u201eCh\u0142opi\". Ze wzgl\u0119du na swoj\u0105 agresj\u0119 (nawet wobec w\u0142asnego ojca) oraz skandaliczny romans z Jagn\u0105, niejednokrotnie wzbudza\u0142 niech\u0119\u0107.(no content)Chocia\u017c Antek by\u0142 g\u0142ow\u0105 rodziny, cz\u0119sto brakowa\u0142o mu odpowiedzialno\u015bci. Kierowa\u0142 si\u0119 uczuciami i nami\u0119tno\u015bci\u0105, nie my\u015bl\u0105c o konsekwencjach. Darzy\u0142 ojca nienawi\u015bci\u0105, poniewa\u017c ten nie chcia\u0142 przekaza\u0107 mu gospodarstwa.(no content)Mo\u017cna odnie\u015b\u0107 wra\u017cenie, \u017ce Jagna naprawd\u0119 kocha\u0142a Antka, a on kieruj\u0105c si\u0119 nami\u0119tno\u015bci\u0105, wykorzystywa\u0142 jej uczucie. Chocia\u017c Hanka by\u0142a oddana swojemu m\u0119\u017cowi, Antek nie traktowa\u0142 jej z szacunkiem. Bardzo cz\u0119sto mo\u017cna wr\u0119cz odnie\u015b\u0107 wra\u017cenie, \u017ce czu\u0142 do niej niech\u0119\u0107, a nawet nienawi\u015b\u0107.\n\n### Maciej Boryna\nMaciej Boryna - \u201epierwszy we wsi gospodarz\", zamo\u017cny wdowiec, cz\u0142owiek uczciwy, pracowity, stanowczy, ziemia jest dla niego najwi\u0119ksz\u0105 warto\u015bci\u0105.(no content)\u015amier\u0107 Macieja mia\u0142a znaczenie symboliczne - po raz ostatni ubra\u0142 si\u0119 i w gor\u0105czce zacz\u0105\u0142 siewy na swoim polu. Ch\u0142op, dla kt\u00f3rego ziemia by\u0142a najwa\u017cniejsz\u0105 warto\u015bci\u0105, umar\u0142 na w\u0142asnym gruncie.\n\n## Analiza psychologiczna relacji:\n\nW rzeczywisto\u015bci, istniej\u0105ca mi\u0119dzy ojcem a synem niech\u0119\u0107 prawdopodobnie wynika\u0142a z faktu, \u017ce byli do siebie bardzo podobni. Charakterny Maciej nie chcia\u0142 odda\u0107 gospodarstwa synowi, a ten nie m\u00f3g\u0142 pogodzi\u0107 si\u0119 z zale\u017cno\u015bci\u0105 od ojca, co prowadzi\u0142o do powa\u017cnych konflikt\u00f3w, a nawet r\u0119koczyn\u00f3w.(no content)Konflikt mi\u0119dzy m\u0119\u017cczyznami jeszcze bardziej zaostrzy\u0142 si\u0119, kiedy Maciej postanowi\u0142 o\u017ceni\u0107 si\u0119 z Jagn\u0105, kochank\u0105 Antka. Mog\u0142oby si\u0119 wydawa\u0107, \u017ce m\u0142ody Boryna wreszcie zako\u0144czy romans, aby unikn\u0105\u0107 skandalu. Tak si\u0119 jednak nie sta\u0142o, Antek wci\u0105\u017c romansowa\u0142 z macoch\u0105, nawet specjalnie si\u0119 z tym kryj\u0105c.\n\nPowie\u015b\u0107 przedstawia z\u0142o\u017cone psychologiczne portrety bohater\u00f3w, ukazuj\u0105c ich wewn\u0119trzne konflikty mi\u0119dzy pragnieniami indywidualnymi a normami spo\u0142ecznymi, co czyni j\u0105 nie tylko obrazem \u017cycia ch\u0142opskiego, ale tak\u017ce uniwersaln\u0105 opowie\u015bci\u0105 o ludzkich nami\u0119tno\u015bciach i spo\u0142ecznych ograniczeniach."
+    ],
+    "durationSeconds": 37.561653849999885
+  }
+}
