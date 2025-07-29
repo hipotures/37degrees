@@ -1,7 +1,5 @@
 # 37degrees - TikTok Video Generator for Book Reviews
 
-🔥 **37 stopni - gorączka czytania!** 
-
 Automated video generator for creating engaging TikTok book reviews targeting Polish youth (12-25 years old). Creates 8-slide vertical videos with AI-generated illustrations and text overlays for classic literature.
 
 **Version 2.1.0** - Now with 37d intelligent agent system, plugin architecture, AI research integration, static site generation, and extensible systems!
