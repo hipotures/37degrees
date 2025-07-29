@@ -10,13 +10,13 @@
 
 ## 🎯 Cel Projektu
 
-37degrees (@37stopni - "gorączka czytania") to zaawansowany system generowania pionowych filmów TikTok (1080x1920) promujących klasyczną literaturę wśród polskiej młodzieży w wieku 12-25 lat. Każdy film składa się z 8 slajdów z niefotorealistycznymi ilustracjami i tekstem, trwa ~28 sekund i przedstawia klasyczne dzieła w sposób angażujący dla pokolenia Z.
+37degrees (@37stopni - "gorączka czytania") to zaawansowany system generowania pionowych filmów TikTok (1080x1920) promujących klasyczną literaturę wśród polskiej młodzieży w wieku 12-25 lat. System generuje 25 scenicznych ilustracji AI dla każdej książki, które można wykorzystać do tworzenia angażujących materiałów wizualnych przedstawiających klasyczne dzieła dla pokolenia Z.
 
 ## ✨ Kluczowe Funkcjonalności
 
 ### 🎨 Generowanie Treści
 - **Kompleksowy pipeline video**: Od konfiguracji książki → AI scene → AI images → montaż wideo
-- **8 specjalizowanych slajdów**: Hook, intro, fabuła, bohater, temat, cytat, dlaczego czytać, CTA
+- **25 scenicznych ilustracji**: System generuje sceny w 3 aktach (ekspozycja 1-8, rozwój 9-18, finał 19-25)
 - **Niefotorealistyczny styl**: Dziecięce ilustracje zoptymalizowane pod kąt TikToka
 
 ### 🤖 Inteligentny System Agentów (37d)
@@ -260,7 +260,7 @@ books/docs/findings/ ← Kontrola Jakości ← Bibliografia ← Wyniki Badań
 - **Grupa docelowa**: Polska młodzież na TikToku (12-25 lat)
 - **Nazwa konta**: @37stopni (37 stopni - "gorączka czytania")
 - **Focus serii**: Klasyka światowa adaptowana dla młodych czytelników
-- **Format video**: ~28 sekund, 8 slajdów, format pionowy
+- **Format video**: Format pionowy 1080x1920, 25 scen na książkę
 - **Styl artystyczny**: Niefotorealistyczne, dziecięce ilustracje
 - **Rozdzielczość finalna**: 1080x1920 przy 30fps
 
