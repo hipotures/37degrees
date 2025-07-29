@@ -4,7 +4,7 @@
 
 Automated video generator for creating engaging TikTok book reviews targeting Polish youth (12-25 years old). Creates 8-slide vertical videos with AI-generated illustrations and text overlays for classic literature.
 
-**Version 2.0.0** - Now with plugin architecture, AI research integration, static site generation, and extensible systems!
+**Version 2.1.0** - Now with 37d intelligent agent system, plugin architecture, AI research integration, static site generation, and extensible systems!
 
 ## 📖 Overview
 
@@ -13,6 +13,7 @@ Automated video generator for creating engaging TikTok book reviews targeting Po
 - **AI-generated illustrations** in a childlike, non-photorealistic style
 - **Text overlays** with multiple visibility methods
 - **Automated video creation** with Ken Burns effects and transitions
+- **37d intelligent agent system** for comprehensive book research
 - **AI-powered research** for generating fascinating book facts
 - **Static HTML site** with interactive book exploration
 - **Plugin architecture** for extensible image generators
@@ -58,6 +59,10 @@ python main.py prompts little_prince
 # Generate AI-powered research content
 python main.py research 17 --provider perplexity
 python main.py research classics --provider mock
+
+# Run 37d intelligent agent research (requires Claude Code)
+# See .claude/agents/ for agent system documentation
+/37d-research "Book Title"
 
 # Generate static HTML site
 python main.py site              # Complete site
@@ -110,10 +115,45 @@ python main.py site classics     # Collection pages
 │   └── ...
 ├── shared_assets/      # Fonts, backgrounds, templates
 │   └── templates/      # HTML page templates
+├── .claude/           # Claude Code integration
+│   ├── agents/        # 37d intelligent research agents
+│   │   ├── 37d-facts-hunter.md     # Historical facts and trivia
+│   │   ├── 37d-culture-impact.md   # Cultural adaptations tracking
+│   │   ├── 37d-symbol-analyst.md   # Literary symbolism analysis
+│   │   ├── 37d-polish-specialist.md # Polish reception research
+│   │   ├── 37d-youth-connector.md  # Gen Z relevance bridge
+│   │   ├── 37d-source-validator.md # Research integrity guardian
+│   │   ├── 37d-bibliography-manager.md # Citations compiler
+│   │   └── 37d-deep-research.md    # Gap analysis specialist
+│   ├── commands/      # Slash commands for Claude Code
+│   │   └── 37d-research.md         # Main research workflow
+│   └── hooks/         # Search result automation
+│       ├── 37d-save-search.py      # Auto-save search results
+│       └── 37d-save-search.sh      # Shell hook wrapper
 └── docs/              # Project documentation
 ```
 
 ## ⚡ Features
+
+### 37d Intelligent Agent System
+- **8 Specialized Research Agents** working in coordinated sequence
+- **Dynamic Agent Discovery** - Extensible architecture for adding new agents
+- **Task Quantity Control** - Configurable min/max tasks per agent type
+- **Conditional Workflow** - Agents adapt based on configuration and book context
+- **Gap Analysis** - Advanced deep-research agent fills information gaps
+- **Quality Control** - Source validation and bibliography management
+- **Claude Code Integration** - Uses Claude Code subagents with slash commands
+- **Export System** - `scripts/export-37d-system.sh` for easy sharing
+
+#### Agent Specializations:
+- **37d-facts-hunter** (8-14 tasks): Historical facts, biographical details, trivia
+- **37d-culture-impact** (6-10 tasks): Films, adaptations, TikTok trends, memes
+- **37d-symbol-analyst** (4-8 tasks): Literary symbolism, cross-cultural interpretations
+- **37d-polish-specialist** (7-12 tasks): Polish translations, education, cultural reception
+- **37d-youth-connector** (4-8 tasks): Gen Z relevance, study hacks, modern connections
+- **37d-source-validator** (0-0 tasks): Research integrity, fact verification
+- **37d-bibliography-manager** (0-0 tasks): Citation compilation, academic formatting
+- **37d-deep-research** (0-5 tasks): Gap analysis, contradiction resolution
 
 ### AI Image Generation
 - **Plugin Architecture**: Easily add new image generators
@@ -179,6 +219,7 @@ slides:
 
 ## 🔧 Requirements
 
+### Core System
 - Python 3.8+
 - One of the following image generators:
   - InvokeAI running on http://localhost:9090 (recommended)
@@ -186,6 +227,12 @@ slides:
   - No generator needed for mock/testing mode
 - NVIDIA GPU with NVENC support (optional, for video encoding)
 - FFmpeg with NVENC (for GPU encoding)
+
+### 37d Agent System (Optional)
+- **Claude Code** - Install from https://claude.ai/code
+- Agents automatically discovered from `.claude/agents/37d-*.md`
+- Research workflow activated via `/37d-research "Book Title"` slash command
+- Hooks configuration for automatic search result saving
 
 ## 📦 Installation
 
@@ -203,6 +250,12 @@ pip install -r requirements.txt
 # Copy and configure environment variables
 cp .env.example .env
 # Edit .env with your settings (optional)
+
+# Optional: Set up 37d Agent System
+# 1. Install Claude Code from https://claude.ai/code
+# 2. Agents are already in .claude/agents/ directory
+# 3. Use /37d-research "Book Title" in Claude Code
+# 4. Export agent system: ./scripts/export-37d-system.sh
 ```
 
 ## 🎬 Workflow
@@ -219,6 +272,23 @@ cp .env.example .env
 3. **Generate AI images**: `python main.py ai classics`
 4. **Create videos**: `python main.py video classics`
 5. **Find videos in**: `output/` (named as `book_NNNN_YYYYMMDD_HHMMSS.mp4`)
+
+### 37d Agent Research (Optional)
+1. **Install Claude Code**: Download from https://claude.ai/code
+2. **Navigate to project**: Open 37degrees directory in Claude Code
+3. **Run research**: `/37d-research "Book Title"`
+4. **Monitor progress**: Check `books/NNNN_book/docs/findings/` for results
+5. **Export system**: `./scripts/export-37d-system.sh` to backup agents
+
+The 37d agent system generates comprehensive research including:
+- Historical facts and biographical details
+- Cultural impact analysis (films, adaptations, social media)
+- Literary symbolism and cross-cultural interpretations
+- Polish reception and educational context
+- Gen Z relevance and modern connections
+- Source validation and bibliography compilation
+
+Results are saved in `books/NNNN_book/docs/findings/` with one file per agent.
 
 ### Additional Options
 - **Only render video** (skip image generation): `python main.py video 17 --only-render`
@@ -243,6 +313,12 @@ books/NNNN_book_name/           # Book folder (e.g., 0017_little_prince)
     └── book_page.html         # Interactive presentation
 
 ## 📚 Documentation
+
+### 37d Agent System
+- [Agent System Overview](.claude/agents/) - Complete documentation of research agents
+- [Export System](scripts/export-37d-system.sh) - Backup and share agent system
+- [Workflow Documentation](docs/agents/WORKFLOW.md) - Agent execution patterns
+- [Book Structure](docs/agents/STRUCTURE-BOOK.md) - Directory organization for research
 
 ### Configuration
 - [Configuration System](docs/CONFIGURATION.md) - Settings, environment variables, and overrides
