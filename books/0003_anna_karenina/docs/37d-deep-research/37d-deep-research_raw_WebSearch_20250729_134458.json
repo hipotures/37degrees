@@ -1,0 +1,62 @@
+{
+  "session_id": "90f9ee1d-c985-437d-988c-4e156d1050be",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/90f9ee1d-c985-437d-988c-4e156d1050be.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0003_anna_karenina",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Anna Karenina\" poci\u0105g symbolika op\u00f3r industrializacja polska krytyka literacka akademicka symbolism train resistance"
+  },
+  "tool_response": {
+    "query": "\"Anna Karenina\" poci\u0105g symbolika op\u00f3r industrializacja polska krytyka literacka akademicka symbolism train resistance",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01QuVqP6vZJ7DqeP76ixnq1s",
+        "content": [
+          {
+            "title": "Dlaczego powie\u015b\u0107 To\u0142stoja \u201eAnna Karenina\u201d z 1877 roku wci\u0105\u017c rozbrzmiewa dzisiaj?",
+            "url": "https://www.greelane.com/pl/humanistyka/literatura/anna-karenina-study-guide-4151999/"
+          },
+          {
+            "title": "Symbolism of Trains in Novel Anna Karenina by Leo Tolstoy | UKEssays.com",
+            "url": "https://www.ukessays.com/essays/english-literature/symbolism-trains-novel-anna-karenina-leo-2667.php"
+          },
+          {
+            "title": "Anna Karenina - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Anna_Karenina"
+          },
+          {
+            "title": "Moralno\u015b\u0107 czy szwindel? \u2013 Nowa Orgia My\u015bli",
+            "url": "http://nowaorgiamysli.pl/index.php/2018/12/24/moralnosc-czy-szwindel/"
+          },
+          {
+            "title": "Recenzja - Anna Karenina Lew To\u0142stoj | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/oficjalne-recenzje-ksiazek/2090/pociag-do-milosci"
+          },
+          {
+            "title": "Anna Karenina - Symbolika utworu",
+            "url": "https://anna-karenina.streszczenia.pl/opracowanie/symbolika-utworu/"
+          },
+          {
+            "title": "Zdrada tragiczna albo groteskowa. \u201eAnna Karenina\u201d jako powie\u015b\u0107 wsp\u00f3\u0142czesna - Wi\u0119\u017a",
+            "url": "https://wiez.pl/2019/01/04/tragiczna-albo-groteskowa/"
+          },
+          {
+            "title": "Miesi\u0119cznik Tw\u00f3rczo\u015b\u0107 \u00bb Anna Karenina to ja",
+            "url": "https://tworczosc.com.pl/artykul/anna-karenina-to-ja/"
+          },
+          {
+            "title": "Anna Karenina: g\u0142\u0119boki realizm w rosyjskiej literaturze XIX wieku - DeerWith.it",
+            "url": "https://www.deerwith.it/literatura/anna-karenina-gleboki-realizm-w-rosyjskiej-literaturze-xix-wieku/"
+          },
+          {
+            "title": "Anna Karenina (2012) \u2013 Edukacja Filmowa",
+            "url": "https://edukacjafilmowa.pl/anna-karenina-2012/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with information about the symbolism of trains in Anna Karenina, particularly regarding themes of resistance to industrialization, as discussed in Polish academic literary criticism.\n\n## Train Symbolism in Anna Karenina\n\nThe train motif in Tolstoy's Anna Karenina carries profound symbolic meaning, particularly in relation to industrialization and resistance to modernity:\n\n### Symbol of Technological Progress and Cultural Loss\n\nThe train symbolizes technological progress and the expansion of Western culture, which simultaneously leads to the loss of native traditions, making it something negative. The negative meaning is also caused by events connected to the railway - Anna and Vronsky's meeting at the station, the death of a railway worker under the train wheels, and ultimately Anna's suicide.\n\n### Metaphor for Uncontrolled Passion and Death\n\nThe speeding train in this novel is a symbol of passion slipping out of control, extreme vitality that disregards everything, and at the same time a symbol of its extreme opposite - death.\n\n### Industrial Modernity as Destructive Force\n\nIn Anna Karenina, the train motif serves several symbolic functions: Modernity - Trains are a symbol of modernity and technological progress that introduces changes in 19th century Russian society. Fate - Trains are also an instrument of fate that affects the lives of characters.\n\n### Literary Analysis Context\n\nThe symbolism has been extensively analyzed in Polish academic criticism. Anna many times in the novel finds herself on the brink of madness - first trying to avoid the seducer, then succumbing to him, and subsequently becoming pregnant by him, falling seriously ill and reconciling with her husband, then leaving her husband and beloved son for her lover, finally experiencing the tortures of burned-out passion, until finally hysterically throwing herself under a train.\n\n### Resistance to Industrial Progress\n\nThe train represents not just technological advancement but also the destructive nature of rapid modernization on traditional Russian society. Trains are presented as a symbol of modernity, but also as an instrument of fate that affects the lives of characters, especially Anna Karenina. An example is the tragic meeting of Anna Karenina with Vronsky at the railway station, which begins their romance.\n\nThe symbolism extends beyond mere plot device to represent broader themes of how industrial progress can destroy traditional values and personal relationships, making the train a complex symbol of both progress and destruction in Tolstoy's critique of modernizing Russian society."
+    ],
+    "durationSeconds": 20.83847663400002
+  }
+}
