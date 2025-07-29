@@ -16,7 +16,7 @@
 
 ### 🎨 Generowanie Treści
 - **Kompleksowy pipeline video**: Od konfiguracji książki → AI scene → AI images → montaż wideo
-- **25 scenicznych ilustracji**: System generuje sceny w 3 aktach (ekspozycja 1-8, rozwój 9-18, finał 19-25)
+- **25 scenicznych ilustracji**: Różne struktury w zależności od typu generatora (narrative, flexible, podcast, atmospheric, emotional)
 - **Niefotorealistyczny styl**: Dziecięce ilustracje zoptymalizowane pod kąt TikToka
 
 ### 🤖 Inteligentny System Agentów (37d)
@@ -200,8 +200,13 @@ books/docs/findings/ ← Kontrola Jakości ← Bibliografia ← Wyniki Badań
 - **Generatory**: InvokeAI (główny), ComfyUI, Mock (testowanie)
 
 #### 2. System Generowania Scen (v2.0+)
-- **Proces dwustopniowy**: Opisy scen → Aplikacja stylu
-- **Typy generatorów**: narrative, flexible, podcast, atmospheric, emotional
+- **Proces dwustopniowy**: Opisy scen → Aplikacja stylu  
+- **5 typów generatorów** z różnymi strukturami narracyjnymi:
+  - `narrative`: 3 akty (ekspozycja 1-8, rozwój 9-18, finał 19-25)
+  - `flexible`: 5 sekcji (opening 1-3, wprowadzenie 4-8, rozwój 9-15, kulminacja 16-20, zakończenie 21-25)
+  - `podcast`: podział funkcjonalny (20% atmosfera, 32% postacie, 28% fabuła, 20% symbolika)
+  - `atmospheric`: fokus na nastroju i klimacie
+  - `emotional`: podróż emocjonalna bohaterów
 - **Pliki scen**: `books/*/prompts/scenes/[type]/scene_XX.json`
 - **Biblioteka stylów**: 34 profesjonalne style graficzne w `config/prompt/graphics-styles/`
 
