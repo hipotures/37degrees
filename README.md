@@ -266,12 +266,14 @@ books/docs/findings/ ← Kontrola Jakości ← Bibliografia ← Wyniki Badań
 
 ```
 37degrees/
-├── books/                      # Katalog książek (0001_nazwa/ format)
+├── books/                      # Katalog książek (NNNN_nazwa/ format)
 │   └── 0017_little_prince/
 │       ├── book.yaml          # Konfiguracja książki
 │       ├── docs/              # Dokumentacja i badania
-│       ├── generated/         # Wygenerowane obrazy AI
+│       ├── generated/         # Wygenerowane obrazy AI (25 scen)
 │       └── prompts/           # Prompty dla scen
+├── collections/               # System kolekcji książek
+│   └── classics.yaml         # Kolekcja "Klasyka Światowa" (37 książek)
 ├── config/                    # Główna konfiguracja systemu
 │   ├── settings.yaml         # Centralne ustawienia
 │   └── prompt/               # Szablony promptów i stylów
@@ -280,10 +282,69 @@ books/docs/findings/ ← Kontrola Jakości ← Bibliografia ← Wyniki Badań
 │   ├── generators/          # Generatory obrazów AI
 │   ├── research/            # System badawczy
 │   └── site_generator/      # Generator strony statycznej
-├── collections/             # Definicje kolekcji
 ├── output/                  # Wygenerowane filmy
 ├── site/                    # Wygenerowana strona HTML
 └── main.py                  # Główny punkt wejścia
+```
+
+## 📚 System Kolekcji
+
+**Kolekcje** to tematyczne grupowania książek z metadanymi i konfiguracją serii.
+
+### Struktura Kolekcji (`collections/classics.yaml`)
+
+```yaml
+books:
+- order: 1                                    # Kolejność w serii
+  path: books/0017_little_prince/book.yaml   # Ścieżka do konfiguracji książki
+  tags:                                      # Tagi tematyczne
+  - filozofia
+  - baśń 
+  - klasyka XX wieku
+
+series:                                      # Metadane serii
+  name: "Klasyka Światowa"                   # Nazwa kolekcji
+  description: "Najważniejsze dzieła literatury światowej w formie angażujących TikToków"
+  target_audience: "10-20 lat"              # Grupa docelowa
+  language: "pl"                             # Język
+  hashtags:                                  # Hashtagi TikTok
+  - '#37stopni'
+  - '#klasyka' 
+  - '#booktok'
+```
+
+### Główna Kolekcja: "Klasyka Światowa"
+
+**37 najważniejszych dzieł literatury światowej** pogrupowanych tematycznie:
+
+**Fantasy i Baśnie:**
+- Mały Książę, Władca Pierścieni, Harry Potter, Hobbit, Alicja w Krainie Czarów, Narnia
+
+**Dystopie i Science Fiction:**  
+- 1984, Brave New World, Fahrenheit 451, Duna, Solaris
+
+**Klasyka Polska:**
+- Lalka, Pan Tadeusz, Quo Vadis, Chłopi, Solaris
+
+**Literatura Młodzieżowa:**
+- Harry Potter, Hobbit, Tom Sawyer, Wyspa Skarbów
+
+**Każda książka zawiera:**
+- **Tagi tematyczne** - dla łatwego filtrowania i grupowania
+- **Kolejność serii** - dla systematycznego publikowania
+- **Ścieżka do konfiguracji** - łączenie z systemem książek
+
+### Operacje na Kolekcjach
+
+```bash
+# Przeglądanie kolekcji
+python main.py collections                  # Lista wszystkich kolekcji
+python main.py list classics               # Książki w kolekcji "classics"
+
+# Przetwarzanie całej kolekcji
+python main.py ai classics                 # Generuj AI dla wszystkich książek
+python main.py video classics              # Twórz filmy dla całej kolekcji
+python main.py research classics           # Badania dla całej serii
 ```
 
 ## 🎨 Wzorce Projektowe
