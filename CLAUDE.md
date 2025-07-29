@@ -90,6 +90,25 @@ python main.py --set development.debug=true --no-banner ai 17
 python main.py --config production.yaml video 17
 ```
 
+### 37d Intelligent Agent System
+```bash
+# Main research workflow using 8 specialized agents
+/37d-research "Book Title"
+
+# Export complete agent system for sharing/backup
+./scripts/export-37d-system.sh
+
+# Agent specializations (auto-discovered from .claude/agents/):
+# - 37d-facts-hunter: Historical facts, biographical details (8-14 tasks)
+# - 37d-culture-impact: Cultural adaptations, films, TikTok trends (6-10 tasks)  
+# - 37d-symbol-analyst: Literary symbolism analysis (4-8 tasks)
+# - 37d-polish-specialist: Polish translations, education context (7-12 tasks)
+# - 37d-youth-connector: Gen Z relevance, study hacks (4-8 tasks)
+# - 37d-source-validator: Research integrity verification (0-0 tasks)
+# - 37d-bibliography-manager: Citation compilation (0-0 tasks)
+# - 37d-deep-research: Gap analysis, contradiction resolution (0-5 tasks)
+```
+
 ### Advanced Scene Generation (37degrees Commands)
 ```bash
 # Generate new scene descriptions using custom commands
@@ -160,11 +179,25 @@ python src/prompt_builder.py books/NNNN_book_name/book.yaml
    - Timeline visualizations and collection organization
    - Templates in `shared_assets/templates/`
 
+8. **37d Intelligent Agent System** (`.claude/agents/`)
+   - **8 specialized research agents** working in coordinated sequence
+   - **Dynamic agent discovery** - extensible architecture via file-based configuration
+   - **Task quantity control** - configurable min/max tasks per agent type
+   - **Multi-stage workflow**: TODO generation → Agent execution → Quality control
+   - **Gap analysis system** - deep-research agent fills information gaps
+   - **Hook integration** - automatic search result saving via 37d-save-search.py
+   - **Export system** - complete agent system backup/sharing capability
+
 ### Data Flow
 ```
 book.yaml → Scene Generator → JSON scenes → Style Application → AI Prompts
                                                                      ↓
 HTML Site ← Video File ← Frame Rendering ← AI Images ← AI Generator
+
+# 37d Agent Research Flow (Optional):
+/37d-research → Agent Discovery → TODO Generation → Sequential Execution
+                                                             ↓
+book/docs/findings/ ← Quality Control ← Bibliography ← Research Results
 ```
 
 ### Key Design Patterns
@@ -176,6 +209,7 @@ HTML Site ← Video File ← Frame Rendering ← AI Images ← AI Generator
 
 ## Important Context
 
+### Core Project Context
 - Target audience: Polish teenagers on TikTok
 - Account name: @37stopni (37 degrees - "fever of reading")
 - Series focus: World Classics adapted for young readers
@@ -183,5 +217,37 @@ HTML Site ← Video File ← Frame Rendering ← AI Images ← AI Generator
 - Emphasis on emotional, direct messaging with contemporary references
 - Safe zone compliance for TikTok UI elements
 - Art style: Non-photorealistic, childlike illustrations
-- SDXL optimal resolution: 832x1248 (avoid artifacts)
 - Final video: 1080x1920 at 30fps
+
+### 37d Agent System Context
+- **Extensible architecture**: New agents auto-discovered from `.claude/agents/37d-*.md`
+- **YAML frontmatter configuration**: `todo_list`, `min_tasks`, `max_tasks`, `execution_order`
+- **Agent workflow**: Agents with `todo_list: False` create tasks dynamically
+- **Sequential execution**: Agents run in `execution_order` sequence (1-10)
+- **Research output**: All findings saved to `books/NNNN_book/docs/findings/`
+- **Quality control**: Source validation and bibliography compilation built-in
+- **Hook integration**: Search results automatically saved via Claude Code hooks
+
+### Development Integration
+- **Dual architecture**: Core Python CLI + Optional Claude Code agent system
+- **No formal test suite**: Use `--generator mock` for testing without GPU
+- **Book numbering**: Books follow `NNNN_book_name` pattern (e.g., `0017_little_prince`)
+- **Configuration hierarchy**: `settings.yaml` → `.env` → `--set` overrides
+
+## Important Development Guidelines
+
+### Code Creation Principles
+- Do what has been asked; nothing more, nothing less
+- NEVER create files unless they're absolutely necessary for achieving your goal
+- ALWAYS prefer editing an existing file to creating a new one
+- NEVER proactively create documentation files (*.md) or README files unless explicitly requested
+
+### Polish Project Specifics
+- Always use Polish language for Polish-specific content and research
+- Use 24-hour time format for all timestamps  
+- Never commit real user data, logins, URLs, or personal information - use examples like userexample001, www.example001.com
+- When working with dates/SQL, always consider UTC vs. local time - ask or test if unclear
+- Before implementing plans, check for uncommitted changes and ask about committing to GitHub
+- For console data presentation (tables, etc.), use the `rich` library
+- When adding GitHub integration, use SSH instead of HTTPS (GitHub defaults to `main` branch)
+- NEVER run code with the `textual` library as mouse handling breaks terminal in Claude Code
