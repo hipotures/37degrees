@@ -159,10 +159,7 @@ python main.py site classics     # Collection pages
   - InvokeAI (primary) - Local SDXL models
   - ComfyUI - Workflow-based generation
   - Mock - Testing without GPU
-- Optimized resolution (832x1248) to avoid artifacts
-- Style presets: Illustration, Sketch, etc.
-- Automatic retry with exponential backoff
-- Automatic upscaling to 1080x1920 for video
+- **37 Visual Styles**: Rich collection of artistic styles including childlike illustrations, sketches, watercolors, minimalist designs, storybook art, vintage posters, modern graphics, and specialized thematic styles for different book genres
 
 ### Text Overlay Methods
 - **Outline**: Black border around white text (default)
@@ -177,12 +174,6 @@ python main.py site classics     # Collection pages
 - TikTok Safe Zone compliance
 - GPU-accelerated encoding (NVENC)
 - Rich progress bars and status updates
-
-### Configuration System
-- Centralized configuration in `config/settings.yaml`
-- Environment variable support with `.env` files
-- CLI overrides: `--set video.fps=60`
-- Custom config files: `--config my_settings.yaml`
 
 ### Interactive HTML Pages
 - Professional book presentations with Charts.js visualizations
