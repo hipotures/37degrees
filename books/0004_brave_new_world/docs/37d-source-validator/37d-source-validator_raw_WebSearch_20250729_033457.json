@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Aldous Huxley eyesight blindness eye disease teenager vision loss affected writing"
+  },
+  "tool_response": {
+    "query": "Aldous Huxley eyesight blindness eye disease teenager vision loss affected writing",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_014CVzA6LAwoQ14BNZ93VnTw",
+        "content": [
+          {
+            "title": "Aldous Huxley - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Aldous_Huxley"
+          },
+          {
+            "title": "The Art of Seeing - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Art_of_Seeing"
+          },
+          {
+            "title": "10 Fascinating Facts about Aldous Huxley",
+            "url": "https://www.mentalfloss.com/article/83243/10-dystopian-facts-about-aldous-huxley"
+          },
+          {
+            "title": "How Does Blindness And Vision Affect Huxley's Writing - 598 Words | Cram",
+            "url": "https://www.cram.com/essay/How-Does-Blindness-And-Vision-Affect-Huxleys/53C59B64A3F2D75C"
+          },
+          {
+            "title": "The Art of Seeing by Aldous Huxley | Goodreads",
+            "url": "https://www.goodreads.com/book/show/5133.The_Art_of_Seeing"
+          },
+          {
+            "title": "Aldous Huxley - Oral Cancer Foundation | Information and Resources about Oral Head and Neck Cancer",
+            "url": "https://oralcancerfoundation.org/people/arts-entertainment/aldous-huxley/"
+          },
+          {
+            "title": "Aldous Huxley: Seeing in the dark | by Ruth Smith | London Literary Review | Medium",
+            "url": "https://medium.com/london-literary-review/aldous-huxley-seeing-in-the-dark-a8e36fa1e1dc"
+          },
+          {
+            "title": "The Art of Seeing (The Collected Works of Aldous Huxley): Huxley, Aldous: 9781635619249: Amazon.com: Books",
+            "url": "https://www.amazon.com/Seeing-Collected-Works-Aldous-Huxley/dp/1635619246"
+          },
+          {
+            "title": "Bates method - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Bates_method"
+          },
+          {
+            "title": "The Enduring Legacy of Aldous Huxley: A Guiding Light for Aspiring Writers | by Evan Swensen | Medium",
+            "url": "https://evanswensen.medium.com/the-enduring-legacy-of-aldous-huxley-a-guiding-light-for-aspiring-writers-2452c5e1b925"
+          }
+        ]
+      },
+      "Based on the search results, I found comprehensive information about Aldous Huxley's eyesight problems and how they affected his writing career. Here's what the search revealed:\n\n## Aldous Huxley's Vision Loss and Its Impact on His Writing\n\nHuxley contracted the eye disease keratitis punctata in 1911; this \"left [him] practically blind for two to three years\" and \"ended his early dreams of becoming a doctor\". This occurred when he was a teenager - at the age of sixteen, he had a violent attack of keratitis punctata which made him almost totally blind for eighteen months, and left him thereafter with severely impaired sight.\n\n### The Condition and Its Severity\n\nHuxley suffered inflammation of the cornea, probably due to getting infected dust in both eyes when his immune system was compromised after a bout of flu. He was at school at Eton and by the time the condition was taken seriously, it was too late. He temporarily lost almost all his sight and had to teach himself to read Braille in order to continue with his studies.(no content)At the age of 16, Huxley had an attack of keratitis, which, after an 18-month period of near-blindness, left him with one eye just capable of light perception and the other with an unaided Snellen fraction of 10/200. This was mainly due to opacities in both corneas, complicated by hyperopia and astigmatism. He was able to read only if he wore thick glasses and dilated his better pupil with atropine, to allow that eye to see around an opacity in the center of the cornea.\n\n### Impact on His Writing Career\n\nThe vision loss actually redirected Huxley toward writing. In an interview with The Paris Review, Huxley explained that he was almost completely blind for a few years in his late teens: \"I started writing when I was 17, during a period when I was almost totally blind and could hardly do anything else. I typed out a novel by the touch system; I couldn't even read it,\" he said.(no content)His brother Julian wrote: I believe his blindness was a blessing in disguise. For one thing, it put paid to his idea of taking up medicine as a career ... His uniqueness lay in his universalism. He was able to take all knowledge for his province.\n\n### Lifelong Impact\n\nAlthough his eyesight did eventually improve somewhat, he had limited vision throughout his life and no night vision at all.(no content)He volunteered for the British Army in January 1916 amidst the First World War; however, he was rejected on health grounds, being half-blind in one eye. His eyesight later partly recovered.\n\n### Attempt at Vision Recovery\n\nLater in life, Huxley tried alternative treatments and wrote about his experience in \"The Art of Seeing.\" In 1939, at the age of 45 and with eyesight that continued to deteriorate, he happened to hear of the Bates method and sought the help of Margaret Corbett, who gave him regular lessons. Three years later, he wrote The Art of Seeing, in which he related: \"Within a couple of months, I was reading without spectacles, and what was better still, without strain and fatigue....\"\n\nHowever, medical professionals remained skeptical about his claimed improvement, and he had not regained anything close to normal vision, and in fact never claimed that he had.\n\nThe search results show that Huxley's teenage vision loss from keratitis punctata was a pivotal moment that redirected him from medicine to writing, ultimately shaping one of the 20th century's most influential literary careers."
+    ],
+    "durationSeconds": 28.39872260899935
+  }
+}

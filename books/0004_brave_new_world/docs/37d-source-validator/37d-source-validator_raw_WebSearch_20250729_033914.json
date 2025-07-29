@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "IVF in vitro fertilization history 1878 rabbits guinea pigs 1978 first human baby Louise Brown"
+  },
+  "tool_response": {
+    "query": "IVF in vitro fertilization history 1878 rabbits guinea pigs 1978 first human baby Louise Brown",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01EVfXEqAfukiEZGLgmHm77K",
+        "content": [
+          {
+            "title": "History of in vitro fertilisation - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_in_vitro_fertilisation"
+          },
+          {
+            "title": "Assisted Reproductive Technology after the Birth of Louise Brown - PMC",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3799275/"
+          },
+          {
+            "title": "World\u2019s first \"test tube\" baby born | July 25, 1978 | HISTORY",
+            "url": "https://www.history.com/this-day-in-history/july-25/worlds-first-test-tube-baby-born"
+          },
+          {
+            "title": "The US' First Test Tube Baby | American Experience | Official Site | PBS",
+            "url": "https://www.pbs.org/wgbh/americanexperience/features/babies-americas-first/"
+          },
+          {
+            "title": "40 years after the first IVF baby, a look back at the birth of a new era | Science News",
+            "url": "https://www.sciencenews.org/blog/growth-curve/40-years-ivf-baby-louise-brown"
+          },
+          {
+            "title": "History of IVF: Origin and Developments of the 20th Century | PFCLA",
+            "url": "https://www.pfcla.com/blog/history-of-ivf"
+          },
+          {
+            "title": "Louise Brown - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Louise_Brown"
+          },
+          {
+            "title": "Louise Brown | Biography & Facts | Britannica",
+            "url": "https://www.britannica.com/biography/Louise-Brown"
+          },
+          {
+            "title": "The History of IVF: From Folklore to Technological Marvel | Empowered Women's Health",
+            "url": "https://www.volusonclub.net/empowered-womens-health/the-history-of-ivf-from-folklore-to-technological-marvel/"
+          },
+          {
+            "title": "A History of Developments to Improve in vitro Fertilization - PMC",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6140213/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with a comprehensive overview of the history of IVF (in vitro fertilization), including the key dates and developments you mentioned:\n\n## Early Animal Research (1878-1890s)\n\nResearch by Samuel Leopold Schenk in 1878 was the first experiment in the history of IVF conducted on mammals, using rabbits and guinea pigs. His most important discovery was that cell division could occur outside the body. This represents the earliest work with the animals you specifically mentioned.\n\nThe history of IVF dates back as early as the 1890's when Walter Heape, a professor at the University of Cambridge, UK, reported the first known case of embryo transplantation in rabbits.\n\n## Mid-20th Century Developments\n\nAs early as 1934, Gregory Goodwin Pincus and Ernst Vincenz Enzmann tried to perform IVF in rabbits. Although the pregnancy was successful, it was later determined that the fertilisation occurred in vivo (in the body).(no content)However, it was not until 1959 that Min Chueh Chang, a young Chinese reproductive investigator, obtained indubitable evidence of in vitro fertilization by achieving live births for the first time from a white rabbit by using eggs and sperm from black ones.\n\n## First Human IVF Success (1978)\n\nIn 1977, Steptoe and Edwards successfully carried out a pioneering conception which resulted in the birth of the world's first baby to be conceived by IVF, Louise Brown, on 25 July 1978 in Oldham General Hospital, Greater Manchester, UK.(no content)On July 25, 1978, Louise Joy Brown, the world's first baby to be conceived via in-vitro fertilization (IVF) is born at Oldham and District General Hospital in Manchester, England, to parents Lesley and Peter Brown. The healthy baby was delivered shortly before midnight by caesarean section and weighed in at five pounds, 12 ounces.\n\nThe search results confirm the timeline you mentioned: early animal experiments with rabbits and guinea pigs in 1878, followed by the historic birth of Louise Brown as the first human IVF baby in 1978 - exactly 100 years later. Robert Edwards was awarded the 2010 Nobel Prize in Physiology or Medicine \"for the development of in vitro fertilization\"."
+    ],
+    "durationSeconds": 21.098769160999918
+  }
+}

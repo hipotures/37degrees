@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Aldous Huxley grandfather Thomas Henry Huxley Darwin bulldog family background scientific"
+  },
+  "tool_response": {
+    "query": "Aldous Huxley grandfather Thomas Henry Huxley Darwin bulldog family background scientific",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_0141QPNSoG6grPHBRKCu1CGH",
+        "content": [
+          {
+            "title": "Thomas Henry Huxley (1825-1895) | Embryo Project Encyclopedia",
+            "url": "https://embryo.asu.edu/pages/thomas-henry-huxley-1825-1895"
+          },
+          {
+            "title": "Thomas Henry Huxley - Darwin's Bulldog, Evolutionary Biology, Naturalist | Britannica",
+            "url": "https://www.britannica.com/biography/Thomas-Henry-Huxley/Darwins-bulldog"
+          },
+          {
+            "title": "Celebrating the life of Thomas Henry Huxley | ZSL",
+            "url": "https://www.zsl.org/news-and-events/feature/celebrating-life-darwins-bulldog-thomas-henry-huxley"
+          },
+          {
+            "title": "Thomas Henry Huxley (1825-1895)",
+            "url": "https://ucmp.berkeley.edu/history/thuxley.html"
+          },
+          {
+            "title": "Thomas Henry Huxley - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Thomas_Henry_Huxley"
+          },
+          {
+            "title": "Family tree of Aldous HUXLEY - Geneastar",
+            "url": "https://en.geneastar.org/genealogy/huxleya"
+          },
+          {
+            "title": "Thomas Henry Huxley - Hektoen International",
+            "url": "https://hekint.org/2020/09/18/thomas-henry-huxley/"
+          },
+          {
+            "title": "Huxley family - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Huxley_family"
+          },
+          {
+            "title": "Thomas Henry Huxley | Darwin Correspondence Project",
+            "url": "https://www.darwinproject.ac.uk/thomas-henry-huxley"
+          },
+          {
+            "title": "The lives of Thomas Henry Huxley, Aldous Huxley and Sir. Julian Huxley",
+            "url": "https://www.creationworldview.org/the-lives-of-thomas-henry-huxley-aldous-huxley-and-sir-julian-huxley"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about the family background and scientific relationships between Thomas Henry Huxley, known as \"Darwin's Bulldog,\" and his famous grandson Aldous Huxley.\n\n## Thomas Henry Huxley: \"Darwin's Bulldog\"\n\nThomas Henry Huxley (1825-1895) was an English biologist and anthropologist who specialized in comparative anatomy and became known as \"Darwin's Bulldog\" for his advocacy of Charles Darwin's theory of evolution.(no content)In nineteenth century Great Britain, Thomas Henry Huxley proposed connections between the development of organisms and their evolutionary histories, critiqued previously held concepts of homology, and promoted Charles Darwin's theory of evolution. Many called him Darwin's Bulldog.(no content)Huxley's advocacy garnered him the epithet Darwin's Bulldog, as he was a passionate defender of Darwin's theory.(no content)Thomas Henry Huxley was one of the first adherents to Darwin's theory of evolution by natural selection, and did more than anyone else to advance its acceptance among scientists and the public alike.\n\n## Family Background and Education\n\nHuxley was born to Rachel Withers and George Huxley, a senior assistant public schoolmaster, on 4 May 1825 in Ealing, England. Huxley was the second youngest of eight children in a middle-class family.(no content)Huxley's family experienced economic hardship when the school at which his father taught closed, so Huxley attended school from ages eight to ten.(no content)Mostly a self-educated man, he had an extraordinary influence on the British educated public. Despite his limited formal education, Huxley was self-taught, hungrily reading science, history, philosophy, and German.\n\n## Connection to Aldous Huxley\n\nHuxley and Heathorn had eight children over the next decade, and later they became grandparents to evolutionary biologist Julian Huxley and writer Aldous Huxley. More specifically, Aldous was the grandson of Thomas Henry Huxley, the zoologist, agnostic and controversialist (\"Darwin's Bulldog\").(no content)Leonard Huxley, (1860\u20131933) author, father of Julian, Aldous and Andrew Huxley.(no content)He was the third son of the writer and schoolmaster Leonard Huxley and his first wife, Julia Arnold, who founded Prior's Field School.\n\n## The Huxley Scientific Dynasty\n\nHis son Leonard was a biographer and teacher at Charterhouse School, through whom Thomas had three famous grandchildren: Sir Julian Huxley FRS, the embryologist and evolutionary biologist; Aldous Huxley, author of Brave New World and Eyeless in Gaza; and their half-brother Sir Andrew Huxley FRS, physiologist and joint Nobel prize winner.(no content)Sir Julian Huxley FRS was the first Director of UNESCO and a notable evolutionary biologist and humanist. Aldous Huxley was a famous author (Brave New World 1932, Eyeless in Gaza 1936, The Doors of Perception 1954). Sir Andrew Huxley OM PRS won the Nobel Prize in Physiology or Medicine in 1963.\n\nThe Huxley family represents one of the most influential scientific and literary dynasties in British history, with Thomas Henry Huxley's advocacy for evolution and scientific education creating a foundation that influenced generations of his descendants in both scientific and literary pursuits."
+    ],
+    "durationSeconds": 27.04814969799947
+  }
+}

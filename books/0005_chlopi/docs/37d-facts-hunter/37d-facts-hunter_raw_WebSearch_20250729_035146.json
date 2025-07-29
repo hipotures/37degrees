@@ -1,0 +1,62 @@
+{
+  "session_id": "c308d96d-e774-4ea1-8f9b-9eaa2527b24f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/c308d96d-e774-4ea1-8f9b-9eaa2527b24f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0005_chlopi",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Polish peasants\" 1904 1905 living conditions rural life Poland partitions"
+  },
+  "tool_response": {
+    "query": "\"Polish peasants\" 1904 1905 living conditions rural life Poland partitions",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01VB7xbMzPB2dGh2daJsXypo",
+        "content": [
+          {
+            "title": "Revolution in the Kingdom of Poland (1905\u20131907) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Revolution_in_the_Kingdom_of_Poland_(1905\u20131907)"
+          },
+          {
+            "title": "Village Life in Poland, 1919 | TOTA",
+            "url": "https://www.tota.world/article/773/"
+          },
+          {
+            "title": "Agricultural life, Polish peasants - NYPL Digital Collections",
+            "url": "https://digitalcollections.nypl.org/items/510d47e1-17eb-a3d9-e040-e00a18064a99"
+          },
+          {
+            "title": "Village Without Solidarity: Polish Peasants in Years of Crisis on JSTOR",
+            "url": "https://www.jstor.org/stable/j.ctt2250wcp"
+          },
+          {
+            "title": "(PDF) Love in the fields. Relationships and marriage in rural Poland in the early modern age: social imagery and personal experience. Warsaw: Tadeusz Manteuffel Institute of History, Polish Academy of Sciences 2018",
+            "url": "https://www.academia.edu/37642945/Love_in_the_fields_Relationships_and_marriage_in_rural_Poland_in_the_early_modern_age_social_imagery_and_personal_experience_Warsaw_Tadeusz_Manteuffel_Institute_of_History_Polish_Academy_of_Sciences_2018"
+          },
+          {
+            "title": "Polish Peasants in 1913 | TOTA",
+            "url": "https://www.tota.world/article/770/"
+          },
+          {
+            "title": "Rural poverty in Poland between the wars | Rural History | Cambridge Core",
+            "url": "https://www.cambridge.org/core/journals/rural-history/article/abs/rural-poverty-in-poland-between-the-wars/AC9946A75B7EBB4E90D7ABF2849A9E5C"
+          },
+          {
+            "title": "1937 peasant strike in Poland - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/1937_peasant_strike_in_Poland"
+          },
+          {
+            "title": "Polish Victims | Holocaust Encyclopedia",
+            "url": "https://encyclopedia.ushmm.org/content/en/article/polish-victims"
+          },
+          {
+            "title": "Lecture 5b. Poland 1795-1864. (Revised Jan. 2004).",
+            "url": "https://acienciala.ku.edu/hist557/lect5b.htm"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about Polish peasants' living conditions during 1904-1905, particularly in the context of the partitioned Poland:\n\n## Polish Peasants' Living Conditions in 1904-1905\n\nDuring 1904-1905, Polish peasants were living under challenging conditions across the partitioned territories of Poland. Throughout that period, many smaller demonstrations and armed struggles between the peasants and workers on one side and the government on the other took place.(no content)The demands of the demonstrators included the improvement of the workers' living conditions, as well as political freedoms, particularly related to increased autonomy for Poland.\n\n### Revolutionary Period (1904-1907)\n\nThe years 1904-1905 marked a critical period for Polish peasants, as particularly in 1905, Poland was at the verge of a new uprising, revolution or civil war.(no content)Pi\u0142sudski's Combat Organization of the Polish Socialist Party, founded in 1904, contributed to some escalation of the hostilities and became more active during the over few years.\n\nThe revolutionary movement gained massive participation: In 1905 to 1906, close to 7,000 strikes and other work stoppages occurred, involving 1.3 million Poles.(no content)Protesters demanded improved conditions for workers and more political freedom for the Poles.\n\n### Social and Political Changes\n\nA significant development during this period was the growing political consciousness among the rural population. National consciousness had risen among the Polish peasants. This marked a departure from earlier periods when The Polish peasant was scarcely conscious of his nationality even as late as the Insurrection of 1863 in which he took merely a passive part.\n\n### Living Conditions and Social Structure\n\nThe peasants' situation was complicated by their historical status. The Polish peasant in the past was a very humble member of the Polish community\u2014in fact he scarcely belonged to it at all. He had for 350 years no civic rights whatever. He was the serf of his master. However, Since the emancipation of the serfs, an enormous revolution has taken place.\n\nBy this period, The Polish peasant is almost always a landed proprietor. There is no communal ownership of land in the Polish village, as in Russia; so that the villages are not so compact, and often consist of a number of scattered farms.\n\nThe 1904-1905 period represented a turning point where Polish peasants became increasingly involved in the national struggle for independence and better living conditions, transitioning from their historically marginalized position to becoming active participants in Poland's political life."
+    ],
+    "durationSeconds": 22.953934593
+  }
+}

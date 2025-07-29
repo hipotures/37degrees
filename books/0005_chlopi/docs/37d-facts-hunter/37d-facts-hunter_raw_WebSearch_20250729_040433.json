@@ -1,0 +1,21 @@
+{
+  "session_id": "605d52fa-bff1-4a34-8e0a-6c32a26f3616",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/605d52fa-bff1-4a34-8e0a-6c32a26f3616.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0005_chlopi",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Polish agriculture\" 1904 \"seasonal work\" peasant farming practices \"village life\" Poland early 20th century"
+  },
+  "tool_response": {
+    "query": "\"Polish agriculture\" 1904 \"seasonal work\" peasant farming practices \"village life\" Poland early 20th century",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_012vnKxNY9yY8GB6ag5idxic",
+        "content": []
+      },
+      "I performed a web search for your query about Polish agriculture in 1904, focusing on seasonal work, peasant farming practices, and village life in early 20th century Poland. However, the search didn't return any results with that specific combination of terms.\n\nWould you like me to try a modified search approach? I could search for:\n- Polish peasant farming practices early 1900s\n- Polish agriculture 1904 seasonal work\n- Polish village life early 20th century\n\nThis might help find more relevant historical information about Polish agricultural practices and rural life during that specific time period."
+    ],
+    "durationSeconds": 8.729034489999991
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Brave New World Polish translations Stanis\u0142awa Kuszelewska 1933 Bogdan Baran 1988"
+  },
+  "tool_response": {
+    "query": "Brave New World Polish translations Stanis\u0142awa Kuszelewska 1933 Bogdan Baran 1988",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_015ovd8V9XYX5wGWPJUSbcR3",
+        "content": [
+          {
+            "title": "Retranslations of Aldous Huxley\u2019s Brave New World in Poland",
+            "url": "https://czasopisma.filologia.uwb.edu.pl/index.php/c/article/view/2405"
+          },
+          {
+            "title": "Retranslations of Aldous Huxley\u2019s Brave New World in Poland",
+            "url": "https://www.researchgate.net/publication/388943464_Retranslations_of_Aldous_Huxley's_Brave_New_World_in_Poland"
+          },
+          {
+            "title": "Repozytorium Uniwersytetu w Bia\u0142ymstoku: Retranslations of Aldous Huxley\u2019s Brave New World in Poland",
+            "url": "https://repozytorium.uwb.edu.pl/jspui/handle/11320/17950"
+          },
+          {
+            "title": "Brave New World - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World"
+          },
+          {
+            "title": "A new wonderful world / Aldous Huxley 1st edition - Online auction / Online bidding - Price - OneBid",
+            "url": "https://one.bid/en/ksiazki-i-starodruki-nowy-wspanialy-swiat-aldous-huxley-wydanie-1/2267961"
+          },
+          {
+            "title": "brave new world - Translation into Polish - examples English | Reverso Context",
+            "url": "https://context.reverso.net/translation/english-polish/brave+new+world"
+          },
+          {
+            "title": "CEEOL - Book Detail",
+            "url": "https://www.ceeol.com/search/book-detail?id=832385"
+          },
+          {
+            "title": "Bogdan Baran (Author of Postnietzsche)",
+            "url": "https://www.goodreads.com/author/show/1380370.Bogdan_Baran"
+          },
+          {
+            "title": "Amazon.com: Brave New World O divnyy novyy mir: 9785170628230: Huxley Aldous: Books",
+            "url": "https://www.amazon.com/Brave-New-World-divnyy-novyy/dp/5170628234"
+          },
+          {
+            "title": "Brave New World - Polish Culture",
+            "url": "http://www.dos486.com/civ5/bnw7/"
+          }
+        ]
+      },
+      "Based on the search results, I found information about Polish translations of Aldous Huxley's \"Brave New World.\" Here's what the search revealed:\n\nThe first Polish translation was done by Stanis\u0142awa Kuszelewska and published by R\u00f3j in 1933. There was also a 1935 edition translated by Stanis\u0142awa Kuszelewska and published by R\u00f3j, and another edition by Kuszelewska published by Oficyna Libera\u0142\u00f3w in 1985.\n\nRegarding Bogdan Baran's translation, it was published in 1988 by Wydawnictwo Literackie in Krak\u00f3w. This translation by Bogdan Baran was indeed published by Wydawnictwo Literackie.\n\nThe search results indicate that these translations by Stanis\u0142awa Kuszelewska and Bogdan Baran have been subjects of academic analysis and criticism, particularly in the context of retranslation studies. Academic papers have analyzed selected aspects of the retranslations of Huxley's \"Brave New World\" in Poland.\n\nThe Polish title for \"Brave New World\" appears as \"Nowy wspania\u0142y \u015bwiat\" in various editions."
+    ],
+    "durationSeconds": 16.06988156200014
+  }
+}

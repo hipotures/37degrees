@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Hawthorne Studies Western Electric Chicago 1924-1932 Elton Mayo worker productivity Hawthorne Effect"
+  },
+  "tool_response": {
+    "query": "Hawthorne Studies Western Electric Chicago 1924-1932 Elton Mayo worker productivity Hawthorne Effect",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01Cmm5JiXEebRYcXsWVjCE4X",
+        "content": [
+          {
+            "title": "Hawthorne effect - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Hawthorne_effect"
+          },
+          {
+            "title": "Elton Mayo's Hawthorne Experiment and It's Contributions to Management",
+            "url": "https://www.mbaknol.com/management-principles/elton-mayos-hawthorne-experiment-and-its-contributions-to-management/"
+          },
+          {
+            "title": "Hawthorne Effect In Psychology: Experimental Studies",
+            "url": "https://www.simplypsychology.org/hawthorne-effect.html"
+          },
+          {
+            "title": "Shining a Light on Productivity: The Impact of the Hawthorne Studies by Elton Mayo",
+            "url": "https://achology.com/general-interest/the-impact-of-the-hawthorne-studies-on-workplace-dynamics/"
+          },
+          {
+            "title": "Reading: The Hawthorne Studies | Introduction to Business",
+            "url": "https://courses.lumenlearning.com/wmintrobusiness/chapter/reading-the-hawthorne-studies/"
+          },
+          {
+            "title": "The Hawthorne Studies | Introduction to Business",
+            "url": "https://courses.lumenlearning.com/wm-introductiontobusiness/chapter/the-hawthorne-studies/"
+          },
+          {
+            "title": "The Hawthorne Effect : What is it, How Does it Work, & Is It Real?",
+            "url": "https://unikavaev.com/blog/the-hawthorne-effect/"
+          },
+          {
+            "title": "Rethinking the Hawthorne Studies: The Western Electric research in its social, political and historical context - John S Hassard, 2012",
+            "url": "https://journals.sagepub.com/doi/full/10.1177/0018726712452168"
+          },
+          {
+            "title": "[FREE] In the Hawthorne studies, Elton Mayo and his team discovered that productivity increased regardless of the - brainly.com",
+            "url": "https://brainly.com/question/48401028"
+          },
+          {
+            "title": "Introduction \u2013 The Human Relations Movement \u2013 Baker Library | Bloomberg Center, Historical Collections",
+            "url": "https://www.library.hbs.edu/hc/hawthorne/intro.html"
+          }
+        ]
+      },
+      "Based on the search results, I can provide comprehensive information about the Hawthorne Studies:\n\n## The Hawthorne Studies Overview\n\nThe Hawthorne Studies were conducted from 1924 to 1932 at the Western Electric Company's Hawthorne Works plant in Cicero, Illinois (near Chicago), and were led primarily by Harvard Business School professor Elton Mayo. These studies are considered \"the largest, best known and most influential investigations in the history of organizational research\".\n\n## Timeline and Key Experiments\n\nThe studies consisted of several phases:\n\n1. **Illumination Experiments (1924-1927)**: The first experiment was conducted from 1924 to 1927, sponsored by the National Research Council. The purpose was to determine the effect of light variations on worker productivity, with the hypothesis that increased light levels would increase productivity. However, researchers found that productivity improved in both the experiment and control rooms regardless of whether light was increased or decreased.\n\n2. **Relay Assembly Test Room (1927-1932)**: A separate study conducted between 1927 and 1932 observed six women working together to assemble telephone relays over the course of five years. The women experienced various changes including different break lengths, food provision, and workday lengths, with most changes accompanied by increased productivity.\n\n3. **Mass Interviewing Program (1928-1930)**: This program involved 20,000 interviews conducted from 1928 to 1930.\n\n4. **Bank Wiring Observation Room (1931-1932)**: This study was conducted by Elton Mayo and W. Lloyd Warner between 1931 and 1932 on a group of fourteen men who assembled telephone switching equipment. Surprisingly, productivity decreased as workers became suspicious that increased productivity might lead to lower base rates or job losses.\n\n## Key Findings and the Hawthorne Effect\n\nThe term \"Hawthorne effect\" was coined in 1953 by John R. P. French after the studies were conducted. The Hawthorne effect describes \"a type of human behavior reactivity in which individuals modify an aspect of their behavior in response to their awareness of being observed\".\n\nKey discoveries included:\n\n- Productivity was not solely a function of physical conditions and wages, but also influenced by socio-psychological factors such as feeling important, recognition, attention, participation, cohesive work groups, and non-directive supervision\n- Workers were highly responsive to additional attention from managers and the feeling that managers cared about their work, with social factors being equally important as financial incentives\n- Workers were more influenced by the social force of their peer groups than by incentives from superiors\n\n## Impact on Management Theory\n\nThe Hawthorne studies are credited with focusing managerial strategy on the socio-psychological aspects of human behavior in organizations. The experiments fundamentally influenced management theories by highlighting the importance of psychological and social factors in workplace productivity, leading to a more human-centric approach in management practices.\n\nThe studies marked a significant shift from previous approaches that viewed workers mechanistically to understanding the complex social and psychological factors that influence workplace productivity."
+    ],
+    "durationSeconds": 27.819327991999685
+  }
+}

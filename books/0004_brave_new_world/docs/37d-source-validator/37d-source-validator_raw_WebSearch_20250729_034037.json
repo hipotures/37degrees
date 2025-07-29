@@ -1,0 +1,63 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Polish education Nowy wspania\u0142y \u015bwiat lektura uzupe\u0142niaj\u0105ca curriculum MEN 2021 2022 school reading list"
+  },
+  "tool_response": {
+    "query": "Polish education Nowy wspania\u0142y \u015bwiat lektura uzupe\u0142niaj\u0105ca curriculum MEN 2021 2022 school reading list",
+    "results": [
+      "I'll perform a web search for information about \"Nowy wspania\u0142y \u015bwiat\" (Brave New World) as supplementary reading in Polish education curriculum for 2021-2022.",
+      {
+        "tool_use_id": "srvtoolu_01AdPWXUuCp1cB8j9ojuz65x",
+        "content": [
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Streszczenie szczeg\u00f3\u0142owe - Aldous Huxley - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/aldous-huxley/nowy-wspanialy-swiat.streszczenie-szczegolowe"
+          },
+          {
+            "title": "Education in Poland - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Education_in_Poland"
+          },
+          {
+            "title": "J\u0119zyk polski",
+            "url": "https://www.nowaera.pl/szkola-podstawowa/podreczniki-szkolne/jezyk-polski"
+          },
+          {
+            "title": "dlanauczyciela.pl",
+            "url": "https://dlanauczyciela.nowaera.pl/"
+          },
+          {
+            "title": "J\u0119zyk polski - Szko\u0142a ponadpodstawowa",
+            "url": "https://www.nowaera.pl/szkola-ponadpodstawowa/podreczniki-szkolne/jezyk-polski"
+          },
+          {
+            "title": "Nowa Era - pomys\u0142 na przyjazn\u0105 i skuteczn\u0105 edukacj\u0119",
+            "url": "https://www.nowaera.pl/"
+          },
+          {
+            "title": "Lista lektur szkolnych do nowego liceum \u2013 kt\u00f3re przeczytamy na czytniku? | \u015awiat Czytnik\u00f3w",
+            "url": "https://swiatczytnikow.pl/lista-lektur-szkolnych-do-nowego-liceum-ktore-przeczytamy-na-czytniku/"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat streszczenie i opracowanie",
+            "url": "https://streszczenia.pl/lektura/nowy-wspanialy-swiat/"
+          },
+          {
+            "title": "Poland \u2022 NCEE",
+            "url": "https://ncee.org/country/poland/"
+          },
+          {
+            "title": "Reading List - Polish | Department of Slavic, German, and Eurasian Studies",
+            "url": "https://sges.ku.edu/reading-list-polish"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about \"Nowy wspania\u0142y \u015bwiat\" (Brave New World) in Polish education, though I didn't find specific details about the 2021-2022 MEN (Ministry of National Education) curriculum or reading lists.\n\nHere's what I found:\n\n\"Nowy wspania\u0142y \u015bwiat\" is indeed studied as a school reading in Polish education, with educational resources available that include detailed summaries and analysis for students. The novel is classified as a dystopian/anti-utopian work that presents a world full of injustice and inequality, with all injustices explained by the necessity of maintaining stabilization and caste divisions.\n\nThere is a possibility for teachers to choose different titles and process them as supplementary reading (\"lektury uzupe\u0142niaj\u0105cej\"), which suggests that \"Nowy wspania\u0142y \u015bwiat\" could potentially be used in this capacity.\n\nThe search results indicate that Polish reading lists have remained relatively stable over time, with many works being the same as those taught 15-40 years ago. For secondary schools, reading assignments are designed to illustrate successive literary epochs and are discussed as part of literary history while developing a common cultural foundation.\n\nHowever, I wasn't able to find specific information about the official MEN reading list for 2021-2022 or confirmation that \"Nowy wspania\u0142y \u015bwiat\" was specifically included as supplementary reading during that academic year. Poland consolidated its education ministries into a single Ministry of Education and Science in 2021, which may have affected curriculum documentation from that period.\n\nWould you like me to search for more specific information about the 2021-2022 Polish school curriculum or reading lists?"
+    ],
+    "durationSeconds": 17.650047863999383
+  }
+}

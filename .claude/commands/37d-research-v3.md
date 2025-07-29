@@ -28,15 +28,11 @@ VARIABLES used in this workflow:
 
 <instructions>
 1.1. PARSE book title from user input
-1.2  EXECUTE Bash command: ln -s ../../../docs/agents books/${book_folder_path}/docs/agents
-1.2. EXECUTE Bash command: cd ${book_folder_path}
-1.3. EXECUTE Bash command: pwd (verify you are in book directory)
-1.4. READ book.yaml to confirm book metadata
-1.5. CREATE missing directories if needed:
-     - docs/
-     - docs/findings/
-     - docs/todo/
-     - docs/37d-[agent]/ (for each agent)
+1.2. EXECUTE Bash command: ln -sf ../../../docs/agents books/${book_folder_path}/docs/agents
+1.3. EXECUTE Bash command: cd ${book_folder_path}
+1.4. EXECUTE Bash command: pwd (verify you are in book directory)
+1.5. READ book.yaml to confirm book metadata
+1.6. EXECUTE Bash command: mkdir -p docs/ docs/findings/ docs/todo/ docs/37d-facts-hunter docs/37d-symbol-analyst docs/37d-culture-impact docs/37d-polish-specialist docs/37d-youth-connector docs/37d-bibliography-manager docs/37d-source-validator
 </instructions>
 
 <note>
@@ -53,7 +49,7 @@ IF book folder not found:
 ## STEP 2: Prepare Lock File System
 
 <instructions>
-2.1. CLEAN all existing 37d lock files: find . -maxdepth 1 -name "*-37d-*.lock" -type f -delete
+2.1. EXECUTE Bash command: find . -maxdepth 1 -name "*-37d-*.lock" -type f -delete
 </instructions>
 
 ## STEP 3: Generate TODO Files
@@ -78,7 +74,7 @@ IF book folder not found:
 2. 37d-symbol-analyst - Literary symbolism and cross-cultural interpretations
 3. 37d-culture-impact - Cultural adaptations from films to TikTok
 4. 37d-polish-specialist - Polish reception and education focus (CRITICAL)
-5. 37d-youth-connector - Gen Z culture bridge  
+5. 37d-youth-connector - Gen Z culture bridge
 6. 37d-bibliography-manager - Master of citations and references
 7. 37d-source-validator - Guardian of research integrity
 </agent-sequence>
@@ -124,12 +120,12 @@ IF agent output starts with any other "ERROR:":
 ### Phase 4: TODO Verification Loop
 <instructions>
 1. READ docs/todo/TODO_${agent_name}.md (relative path from book directory)
-2. COUNT tasks marked as [ ] (incomplete) or [R] (running)
-3. IF incomplete or running tasks found:
+2. COUNT tasks marked as [ ] (incomplete)
+3. IF incomplete tasks found:
    - RE-EXECUTE agent with message:
-     "FILE TODO incomplete - verify all completed tasks are marked [x] or [0] with timestamps.
-      Tasks marked [ ] or [R] need to be completed. Use [R] when starting, [x] when done with results, [0] when done with no results."
-   - RETURN to step 1 (maximum 3 attempts)
+     "FILE TODO incomplete - complete the first [ ] task only.
+      Mark as [x] when done with results, [0] when done with no results."
+   - RETURN to step 1
 </instructions>
 
 ### Phase 5: Finalization

@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "American Library Association Brave New World most challenged books 2010 list #3 ranking"
+  },
+  "tool_response": {
+    "query": "American Library Association Brave New World most challenged books 2010 list #3 ranking",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01SsPJKgsPZDARuMe7XtfvTy",
+        "content": [
+          {
+            "title": "List of most commonly challenged books in the United States - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/List_of_most_commonly_challenged_books_in_the_United_States"
+          },
+          {
+            "title": "Aldous Huxley, \u201cBrave New World\u201d \u2013 The Banned Books Project",
+            "url": "https://bannedbooks.library.cmu.edu/aldous-huxley-brave-new-world/"
+          },
+          {
+            "title": "Brave New World - Wikipedia",
+            "url": "https://en.m.wikipedia.org/wiki/Brave_New_World"
+          },
+          {
+            "title": "100 most frequently challenged books by decade | Banned Books",
+            "url": "https://www.ala.org/bbooks/frequentlychallengedbooks/top100"
+          },
+          {
+            "title": "Top 10 Most Challenged Books of 2024 | Banned Books",
+            "url": "https://www.ala.org/bbooks/frequentlychallengedbooks/top10"
+          },
+          {
+            "title": "Here are the 100 most banned and challenged books of the decade | Blog | American Masters | PBS",
+            "url": "https://www.pbs.org/wnet/americanmasters/blog/here-are-the-100-most-banned-and-challenged-books-of-the-decade/"
+          },
+          {
+            "title": "Top 10 and Frequently Challenged Books Archive | Banned Books",
+            "url": "https://www.ala.org/bbooks/frequentlychallengedbooks/top10/archive"
+          },
+          {
+            "title": "American Library Association kicks off National Library Week with the Top 10 Most Challenged Books of 2024 and the State of America\u2019s Libraries Report | ALA",
+            "url": "https://www.ala.org/news/2025/04/american-library-association-kicks-national-library-week-top-10-most-challenged-books"
+          },
+          {
+            "title": "Top 100 Most Frequently Challenged Books: 2010-2019 | Banned Books",
+            "url": "https://www.ala.org/bbooks/frequentlychallengedbooks/decade2019"
+          },
+          {
+            "title": "'All Boys Aren't Blue' tops the ALA's list of most challenged books",
+            "url": "https://www.npr.org/2025/04/07/nx-s1-5354808/banned-books-library-most-challenged"
+          }
+        ]
+      },
+      "Based on the search results, I found confirmation that Brave New World by Aldous Huxley was ranked #3 on the American Library Association's 2010 list of most challenged books. \n\nThe search results provide clear documentation that it landed on the list of the top ten most challenged books in 2010 (3) and 2011 (7). This information appears consistently across multiple sources, including both Carnegie Mellon University's Banned Books Project and Wikipedia's entry on Brave New World.\n\nAccording to the American Library Association, Brave New World has frequently been banned and challenged in the United States due to insensitivity, offensive language, nudity, racism, drug use, conflict with a religious viewpoint, and being sexually explicit.\n\nThe novel has had a long history of censorship challenges, and the book also secured a spot on the association's list of the top one hundred challenged books for 1990\u20131999 (54), 2000\u20132009 (36), and 2010\u20132019 (26)."
+    ],
+    "durationSeconds": 11.630304041000084
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Brave New World Ireland banned 1932 Australia banned anti-religion anti-family blasphemous censorship"
+  },
+  "tool_response": {
+    "query": "Brave New World Ireland banned 1932 Australia banned anti-religion anti-family blasphemous censorship",
+    "results": [
+      "I'll search for information about the banning of \"Brave New World\" in Ireland and Australia in 1932, focusing on the censorship reasons you mentioned.",
+      {
+        "tool_use_id": "srvtoolu_01S7u9q8YVP1ipikXM7qqS1A",
+        "content": [
+          {
+            "title": "Aldous Huxley, \u201cBrave New World\u201d \u2013 The Banned Books Project",
+            "url": "https://bannedbooks.library.cmu.edu/aldous-huxley-brave-new-world/"
+          },
+          {
+            "title": "Brave New World | The Censorship Files",
+            "url": "https://thecensorshipfiles.wordpress.com/volume-1/issue-2/brave-new-world/"
+          },
+          {
+            "title": "Banning of Brave New World by Aldous Huxley | Reasons & Irony - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/reason-brave-new-world-was-banned.html"
+          },
+          {
+            "title": "Brave New World (Megan Lloyd) | CMLIT 130: Banned Books",
+            "url": "https://sites.psu.edu/bannedbookscmlit130/2016/02/18/brave-new-world/"
+          },
+          {
+            "title": "Brave New World - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World"
+          },
+          {
+            "title": "Brave New World: Dystopian Procreation and Censorship | Literature and Transgression",
+            "url": "https://transgresslit.wordpress.com/2014/04/27/brave-new-world-dystopian-procreation-and-censorship/"
+          },
+          {
+            "title": "15 Things You Might Not Know About Brave New World",
+            "url": "https://www.mentalfloss.com/article/64046/15-things-you-might-not-know-about-brave-new-world"
+          },
+          {
+            "title": "Brave New World As One Of The Most Banned Or Controversial Books Over The Years | Free Essay Example for Students",
+            "url": "https://aithor.com/essay-examples/brave-new-world-as-one-of-the-most-banned-or-controversial-books-over-the-years"
+          },
+          {
+            "title": "Banned Books Awareness: \u201cBrave New World\u201d \u2013 Banned Books Awareness",
+            "url": "https://bbark.deepforestproductions.com/column/2011/10/16/banned-books-awareness-brave-world/"
+          },
+          {
+            "title": "Banned Books: Brave New World. | johnrlovett",
+            "url": "https://johnrlovett.wordpress.com/2014/09/25/banned-books-brave-new-world/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about the banning of \"Brave New World\" in Ireland and Australia in 1932:\n\n## Ireland (1932)\nThe novel was first banned in Ireland in 1932 for anti-religion, anti-family, and blasphemous content. Multiple sources confirm that the first instance of censorship occurred in Ireland in 1932, almost immediately after its publication, when the novel was banned on the grounds that it was deemed \"blasphemous\" and \"indecent\".\n\n## Australia (1932)\nAustralia quickly followed by censoring the book in the same year. More specifically, Australia banned this book in 1932 as well, due to being anti-religious, anti-family and \"extremely blasphemous\" but it was removed from the list in 1937. Another source confirms that the novel was banned in Ireland and Australia in 1932, with the latter maintaining its censorship for five years.\n\n## Broader Context\nIn 1932 it was banned in Australia and Ireland for language that was believed to go against familial and religious values, and most notably, the novel was first banned in Ireland when it was first published for what the country considered to be anti-family and anti-religious content.\n\nThe censorship reasons you mentioned in your query - anti-religion, anti-family, and blasphemous content - are accurately reflected in the historical record. Both Ireland and Australia acted quickly to ban the book in 1932, the same year it was published, primarily citing these moral and religious concerns."
+    ],
+    "durationSeconds": 14.833178935000673
+  }
+}

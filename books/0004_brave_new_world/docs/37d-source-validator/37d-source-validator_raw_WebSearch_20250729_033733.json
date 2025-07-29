@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "John B. Watson Little Albert experiment 1920 conditioned fear response nine month old white rat"
+  },
+  "tool_response": {
+    "query": "John B. Watson Little Albert experiment 1920 conditioned fear response nine month old white rat",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01K57eEtEefwz1B9JmECGfZk",
+        "content": [
+          {
+            "title": "Little Albert Experiment (Watson & Rayner)",
+            "url": "https://www.simplypsychology.org/little-albert.html"
+          },
+          {
+            "title": "Little Albert experiment - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Little_Albert_experiment"
+          },
+          {
+            "title": "John Watson's Little Albert Experiment | Summary & Criticism - Lesson | Study.com",
+            "url": "https://study.com/learn/lesson/little-albert-experiment-summary.html"
+          },
+          {
+            "title": "Classics in the History of Psychology -- Watson & Rayner (1920)",
+            "url": "https://psychclassics.yorku.ca/Watson/emotion.htm"
+          },
+          {
+            "title": "Conditioning Fear: Insights from The Ethically Dubious Little Albert Experiment",
+            "url": "https://achology.com/general-interest/conditioning-fear-insights-from-the-little-albert-experiment/"
+          },
+          {
+            "title": "Little Albert study | EBSCO Research Starters",
+            "url": "https://www.ebsco.com/research-starters/psychology/little-albert-study"
+          },
+          {
+            "title": "[FREE] In the Little Albert experiment conducted by John B. Watson, the white rat, prior to conditioning, served - brainly.com",
+            "url": "https://brainly.com/question/38382891"
+          },
+          {
+            "title": "Little Albert Experiment - GoodTherapy.org Therapy Blog",
+            "url": "https://www.goodtherapy.org/blog/psychpedia/little-albert-experiment"
+          },
+          {
+            "title": "The Little Albert Experiment: When Two Psychologists Terrorized A Baby In The Name Of Science",
+            "url": "https://allthatsinteresting.com/little-albert-experiment"
+          },
+          {
+            "title": "In Watson and Rayner's experiments, Little Albert was ... - Vaia",
+            "url": "https://www.vaia.com/en-us/textbooks/psychology/psychology-openstax-1-edition/chapter-6/problem-6-in-watson-and-rayners-experiments-little-albert-wa/"
+          }
+        ]
+      },
+      "The search has returned comprehensive information about the Little Albert experiment conducted by John B. Watson and Rosalie Rayner in 1920. Here's what the search revealed:\n\n## The Little Albert Experiment (1920)\n\nThe Little Albert experiment was carried out by John B. Watson and his graduate student, Rosalie Rayner, at Johns Hopkins University. The results were first published in the February 1920 issue of the Journal of Experimental Psychology.\n\n### The Subject\nThe study involved a nine-month-old boy named \"Little Albert\" (his real name was Albert Barger) \u2013 a remarkably fearless child, scared only by loud noises. For this study, they chose a nine-month-old infant from a hospital.(no content)This infant was reared almost from birth in a hospital environment; his mother was a wet nurse in the Harriet Lane Home for Invalid Children. Albert's life was normal: he was healthy from birth and one of the best developed youngsters ever brought to the hospital, weighing twenty-one pounds at nine months of age.\n\n### The Experimental Process\nAlbert was reportedly unafraid of any of the stimuli he was shown, which consisted of \"a white rat, a rabbit, a dog, a monkey, with [sic] masks with and without hair, cotton wool, burning newspapers, etc.\"(no content)A white laboratory rat was placed near Albert and he was allowed to play with it. At this point, Watson and Rayner made a loud sound behind Albert's back by striking a suspended steel bar with a hammer each time the baby touched the rat.\n\n### The Conditioned Fear Response\nAlbert responded to the noise by crying and showing fear. After several such pairings of the two stimuli, Albert was presented with only the rat. Upon seeing the rat, Albert became very distressed, crying and crawling away.(no content)The instant the rat was shown the baby began to cry. Almost instantly he turned sharply to the left, fell over on left side, raised himself on all fours and began to crawl away so rapidly that he was caught with difficulty before reaching the edge of the table. This was as convincing a case of a completely conditioned fear response as could have been theoretically pictured.\n\n### Generalization of Fear\nIn further experiments, Little Albert seemed to generalize his response to the white rat. He became distressed at the sight of several other furry objects, such as a rabbit, a furry dog, a seal-skin coat, and even a Santa Claus mask with white cotton balls in the beard.\n\n### Ethical Concerns and Aftermath\nUnfortunately, Albert's mother withdrew him from the experiment the day the last tests were made, and Watson and Rayner were unable to conduct further experiments to reverse the condition response. Though Watson had discussed what might be done to remove Albert's conditioned fears, he chose not to attempt such desensitization with Albert, and it is thought likely that the infant's fear of furry things continued postexperimentally.\n\n### Modern Criticism\nCritical reading of Watson and Rayner's (1920) report reveals little evidence either that Albert developed a rat phobia or even that animals consistently evoked his fear (or anxiety) during Watson and Rayner's experiment.(no content)It is difficult to be certain exactly what happened during the Little Albert experiment since concrete evidence and scientific records are lacking. Various sources give contradicting accounts of events that took place, and they raise questions about exactly what stimuli were used, which stimuli the baby came to fear, and what happened to the child after the experiment.\n\nThe experiment remains significant as an early demonstration of classical conditioning in humans, though it would be considered highly unethical by today's standards."
+    ],
+    "durationSeconds": 30.27949499799963
+  }
+}

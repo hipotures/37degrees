@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Brave New World 2020 Netflix series Peacock NBCUniversal Alden Ehrenreich Jessica Brown Findlay cancelled"
+  },
+  "tool_response": {
+    "query": "Brave New World 2020 Netflix series Peacock NBCUniversal Alden Ehrenreich Jessica Brown Findlay cancelled",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01ByGN5U3QVbTa6mwhik23NL",
+        "content": [
+          {
+            "title": "Brave New World Cancelled by Peacock After One Season",
+            "url": "https://collider.com/brave-new-world-cancelled-peacock-season-2/"
+          },
+          {
+            "title": "'Brave New World' Canceled By Peacock After One Season",
+            "url": "https://deadline.com/2020/10/brave-new-world-canceled-peacock-one-season-1234603893/"
+          },
+          {
+            "title": "Alden Ehrenreich\u2019s Brave New World Canceled After One Season",
+            "url": "https://screenrant.com/brave-new-world-show-canceled-alden-ehrenreich/"
+          },
+          {
+            "title": "Brave New World (TV series) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World_(TV_series)"
+          },
+          {
+            "title": "'Brave New World' Cancelled \u2014 No Season 2 for Peacock Sci-Fi Drama",
+            "url": "https://tvline.com/2020/10/28/brave-new-world-cancelled-season-2-peacock/"
+          },
+          {
+            "title": "Sci-Fi Drama Brave New World Cancelled at Peacock After One Season",
+            "url": "https://www.comingsoon.net/tv/news/1153470-brave-new-world-cancelled"
+          },
+          {
+            "title": "Fate of Downton Abbey star's TV series Brave New World confirmed",
+            "url": "https://www.digitalspy.com/tv/ustv/a34542442/jessica-brown-findlay-brave-new-world-fate/"
+          },
+          {
+            "title": "'Brave New World' Canceled After One Season at Peacock",
+            "url": "https://variety.com/2020/tv/news/brave-new-world-canceled-peacock-1234818455/"
+          },
+          {
+            "title": "'Brave New World' Canceled at Peacock",
+            "url": "https://www.hollywoodreporter.com/tv/tv-news/brave-new-world-canceled-at-peacock-4084450/"
+          },
+          {
+            "title": "\u2018Brave New World\u2019 Canceled By Peacock After One Season",
+            "url": "https://deadline.com/2020/10/brave-new-world-canceled-peacock-one-season-1234603893/amp/"
+          }
+        ]
+      },
+      "Based on the search results, here's what I found about the \"Brave New World\" series:\n\nThe Peacock sci-fi series \"Brave New World,\" starring Alden Ehrenreich and Jessica Brown Findlay, was cancelled after one season in October 2020.(no content)The series premiered on July 15, 2020, coinciding with the launch of NBCUniversal's streaming service Peacock.\n\nKey details about the series and its cancellation:\n\n**Cast and Characters:**\nThe series featured Jessica Brown Findlay as Lenina Crowne and Alden Ehrenreich as John the Savage, along with Harry Lloyd as Bernard Marx.(no content)The supporting cast included Kylie Bunbury, Hannah John-Kamen, Sen Mitsuji, Joseph Morgan, and Nina Sosanya, with Demi Moore in a recurring role.\n\n**Development History:**\nThe series had a long development journey, originally being developed by NBCUniversal's Syfy and Amblin TV in 2015.(no content)It was then moved to the USA Network before ultimately being selected as one of Peacock's original series.\n\n**Cancellation and Future:**\nPeacock cancelled the series on October 28, 2020, after one season, marking the first major TV series cancellation for the streaming service.(no content)UCP, the studio behind the series, planned to shop it to other outlets.(no content)The cancellation capped the series' run at nine episodes total.\n\n**Reception:**\nOn Rotten Tomatoes, the series holds an approval rating of 46% based on 56 reviews.(no content)The series earned subpar reviews despite some critics praising its visuals and performances by actors such as Ehrenreich and Brown Findlay.\n\nNote that while your search query mentioned Netflix, the series was actually a Peacock original series, not a Netflix production."
+    ],
+    "durationSeconds": 20.642501010000707
+  }
+}

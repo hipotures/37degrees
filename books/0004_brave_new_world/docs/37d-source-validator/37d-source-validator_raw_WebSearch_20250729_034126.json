@@ -1,0 +1,63 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "H.G. Wells reaction Brave New World 1932 skeptical curious response science fiction author"
+  },
+  "tool_response": {
+    "query": "H.G. Wells reaction Brave New World 1932 skeptical curious response science fiction author",
+    "results": [
+      "I'll search for information about H.G. Wells' reaction to Brave New World from 1932.",
+      {
+        "tool_use_id": "srvtoolu_012v9594dUHUeMiy84SJ3Px3",
+        "content": [
+          {
+            "title": "Brave New World - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World"
+          },
+          {
+            "title": "Huxley's Brave New World Forecasts Technological Totalitarianism | EBSCO Research Starters",
+            "url": "https://www.ebsco.com/research-starters/history/huxleys-brave-new-world-forecasts-technological-totalitarianism"
+          },
+          {
+            "title": "H. G. Wells - Wikiquote",
+            "url": "https://en.wikiquote.org/wiki/H._G._Wells"
+          },
+          {
+            "title": "'Brave New World' at 75",
+            "url": "https://www.thenewatlantis.com/publications/brave-new-world-at-75"
+          },
+          {
+            "title": "Aldous Huxley and Our Brave New World, Part II - The Nonconformist Magazine",
+            "url": "https://nonconformist-mag.com/aldous-huxley-and-our-brave-new-world-part-ii/"
+          },
+          {
+            "title": "An Uneven Classic: Aldous Huxley\u2019s Brave New World | Evolution News and Science Today",
+            "url": "https://evolutionnews.org/2013/11/an_uneven_class/"
+          },
+          {
+            "title": "In retrospect: Brave New World | Nature",
+            "url": "https://www.nature.com/articles/503338a"
+          },
+          {
+            "title": "The New World Order (Wells book) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_New_World_Order_(Wells_book)"
+          },
+          {
+            "title": "Brave New World | Summary, Context, & Reception | Britannica",
+            "url": "https://www.britannica.com/topic/Brave-New-World"
+          },
+          {
+            "title": "H.G. Wells | Biography, Books, & Facts | Britannica",
+            "url": "https://www.britannica.com/biography/H-G-Wells"
+          }
+        ]
+      },
+      "Based on the search results, I found information about H.G. Wells' reaction to Brave New World, though it appears to be somewhat different from what the query suggested. Here's what the evidence shows:\n\nWells believed that Brave New World was intended as a satiric response to his book, Men Like Gods.(no content)Wells felt offended and accused Huxley of misunderstanding his utopian vision.(no content)Wells \"felt personally offended\" at Brave New World's dystopian vision, saying, \"A writer of the standing of Aldous Huxley has no right to betray the future as he did in that book.\"(no content)H.G. Wells is referenced in Brave New World as \"Dr. Wells\", described as a British writer and utopian socialist, whose book Men Like Gods was a motivation for Brave New World. Huxley wrote \"All's well that ends Wells\" in his letters, criticizing Wells for anthropological assumptions Huxley found unrealistic.(no content)Although Huxley was heavily influenced by the adventure and utopian writer, H. G. Wells, he never cared for the man, labeling him as a \"vulgar little man.\"(no content)Huxley both understood and rejected Wells' idealized embrace of a future where scientific knowledge is a guiding principle. In letters Huxley wrote during the early 1930s, he stated explicitly that his aim was to expose the \"horror of the Wellsian Utopia\"\n\nRather than being skeptical but curious as the query suggested, Wells' reaction appears to have been quite negative and offended. He saw Brave New World as a personal attack on his optimistic vision of the future and felt betrayed by Huxley's dystopian portrayal of scientific progress."
+    ],
+    "durationSeconds": 17.806991956000218
+  }
+}
