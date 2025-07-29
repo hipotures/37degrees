@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Brave New World\" genetic engineering CRISPR modern biotechnology human enhancement parallels"
+  },
+  "tool_response": {
+    "query": "\"Brave New World\" genetic engineering CRISPR modern biotechnology human enhancement parallels",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01TCUP6fYGLnzc8GcjJh2jm9",
+        "content": [
+          {
+            "title": "The Use and Misuse of Brave New World in the CRISPR Debate - PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31599683/"
+          },
+          {
+            "title": "The Use and Misuse of Brave New World in the CRISPR Debate | The CRISPR Journal",
+            "url": "https://www.liebertpub.com/doi/abs/10.1089/crispr.2019.0046?doi=10.1089/crispr.2019.0046"
+          },
+          {
+            "title": "a brave new world? how genetic technology could change us",
+            "url": "https://journals.sagepub.com/doi/pdf/10.1525/ctx.2003.2.2.20"
+          },
+          {
+            "title": "The Brave New World of Gene Editing and Molecular Medicine - PMC",
+            "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6913842/"
+          },
+          {
+            "title": "A Brave New World of Genetic Engineering \u2013 Communications of the ACM",
+            "url": "https://cacm.acm.org/news/a-brave-new-world-of-genetic-engineering/"
+          },
+          {
+            "title": "'Brave New World' of human genetic modification already happening - Genetic Literacy Project",
+            "url": "https://geneticliteracyproject.org/2016/03/01/brave-new-world-human-genetic-modification-already-happening/"
+          },
+          {
+            "title": "The Huxleyan Prophecy and CRISPR-Cas9: Is Society Doomed? - INKspire",
+            "url": "https://inkspire.org/post/the-huxleyan-prophecy-and-crispr-cas9-is-society-doomed/"
+          },
+          {
+            "title": "Genetic Engineering In Aldous Huxley's Brave New World | Cram",
+            "url": "https://www.cram.com/essay/Theme-Of-Inequality-In-Brave-New-World/FCTTQNAEF6"
+          },
+          {
+            "title": "Brave new world? CRISPR gene editing controversy - 3M Inside Angle",
+            "url": "https://insideangle.3m.com/his/blog-post/brave-new-world-crispr-gene-editing-controversy/"
+          },
+          {
+            "title": "Genetic Engineering In Brave New World - 849 Words | Bartleby",
+            "url": "https://www.bartleby.com/essay/Genetic-Engineering-In-Brave-New-World-PJFGUB2LR6"
+          }
+        ]
+      },
+      "I found extensive information about the parallels between Brave New World and modern genetic engineering technologies like CRISPR. Here's what the search revealed:\n\n## Key Parallels Between Brave New World and Modern Genetic Engineering\n\nAldous Huxley's 1932 dystopia Brave New World is by far the most frequently referenced novel in debates about CRISPR and genetic engineering technologies.(no content)When writing about CRISPR and similar technologies, many bioethicists use science-fiction references to help readers picture the ramifications of germline gene editing.\n\n### The CRISPR Connection\n\nWhat is new is the unprecedented degree of precision afforded by the latest gene editing technology.(no content)CRISPR is a genome editing technology that enables gene editing in an extensive array of organisms, coming as a cheaper, simpler and faster alternative to preexisting genome editing technologies.\n\n### Eugenics and \"Designer Babies\" Concerns\n\nA large concern associated with CRISPR is its application for eugenics, which was the main concern raised in Huxley's Brave New World, bringing up the issue of \"designer babies\" - the implementation of eugenics to manipulate embryos and change specific characteristics in babies.(no content)The use of CRISPR for eugenics could provide an unfair advantage to certain humans, creating large inequities in many aspects of life, including sports, academia and healthcare, thus fulfilling the Huxleyan prophecy.\n\n### Current Reality and Ethical Concerns\n\nThe topic of human gene editing biotechnology ignites the fear of Huxley's Brave New World society, with fears of \"designer babies\" amplified in November 2018 after scientists disclosed the use of CRISPR to genetically alter human embryos, claiming that twin girls had been brought to term successfully.(no content)For germline genomic editing, the genie is out of the bottle, despite the ethically fraught implication of eugenics, and the human genome is ultimately the heritage of our species.\n\n### Limitations of the Comparison\n\nInterestingly, despite its iconic status and effectiveness at communicating specific ethical issues, Brave New World provides relatively poor examples of interventions such as gene therapy or enhancement.(no content)The eugenic tropes that Huxley promotes in much of his work make Brave New World an uncomfortable choice for authors who oppose the use of CRISPR for illiberal purposes.\n\nThe search revealed that while Brave New World remains the dominant literary reference point for discussing genetic engineering ethics, modern CRISPR technology presents both unprecedented opportunities for treating genetic diseases and significant ethical challenges around human enhancement that mirror many of Huxley's dystopian warnings."
+    ],
+    "durationSeconds": 21.94463493099995
+  }
+}

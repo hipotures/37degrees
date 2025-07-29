@@ -1,0 +1,71 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Brave New World\" video games inspirations Bioshock System Shock cyberpunk games references"
+  },
+  "tool_response": {
+    "query": "\"Brave New World\" video games inspirations Bioshock System Shock cyberpunk games references",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01Q8QC7ihrANAKGsST5jvXjX",
+        "content": [
+          {
+            "title": "10 Books Like The 'Bioshock' Games | TheReviewGeek Recommends",
+            "url": "https://www.thereviewgeek.com/10books-bioshock/"
+          }
+        ]
+      },
+      {
+        "tool_use_id": "srvtoolu_01YRsaFGyHXY4yqVyMomGyki",
+        "content": [
+          {
+            "title": "System Shock 2 - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/System_Shock_2"
+          },
+          {
+            "title": "System Shock 2 - The Exceptional Cyberpunk Precursor To BioShock \u2014 CyberPunks.com",
+            "url": "https://www.cyberpunks.com/system-shock-2/"
+          },
+          {
+            "title": "System Shock - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/System_Shock"
+          },
+          {
+            "title": "BioShock Cultural References | BioShock Wiki | Fandom",
+            "url": "https://bioshock.fandom.com/wiki/BioShock_Cultural_References"
+          },
+          {
+            "title": "'System Shock,' the Cyberpunk Predecessor to 'BioShock,' Gets Remastered",
+            "url": "https://www.vice.com/en/article/system-shock-the-cyberpunk-predecessor-to-bioshock-gets-remastered/"
+          },
+          {
+            "title": "Why is Bioshock TOTALY stolen from this game? :: System Shock\u00ae 2 (1999) General Discussions",
+            "url": "https://steamcommunity.com/app/238210/discussions/0/523897023728025614/"
+          },
+          {
+            "title": "How System Shock is Already 'BioShock in Space'",
+            "url": "https://gamerant.com/bioshock-in-space-system-shock/"
+          },
+          {
+            "title": "BioShock - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/BioShock"
+          },
+          {
+            "title": "System Shock Could Be Far Darker Than BioShock",
+            "url": "https://gamerant.com/system-shock-bioshock-darker-images-themes-horror-influence/"
+          },
+          {
+            "title": "How exactly is this series a spiritual successor to System Shock series? - BioShock 2",
+            "url": "https://gamefaqs.gamespot.com/boards/945380-bioshock-2/62356901"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about how Aldous Huxley's \"Brave New World\" influenced video games, particularly in relation to BioShock, System Shock, and cyberpunk gaming references.\n\n## Brave New World's Influence on Video Games\n\n### BioShock Series Connections\n\nJust as Bioshock explores a utopian dream turned nightmare, Aldous Huxley's Brave New World presents a future society that, on the surface, appears perfect.(no content)Huxley's world mirrors the game's exploration of scientific progress, as it presents a society dominated by genetic engineering and mind control. The parallels to Bioshock are striking, as Brave New World not only presents a society that has lost its humanity in pursuit of perfection but also explores the individual's struggle against the system.\n\n### System Shock as the Foundation\n\nIn 2007, Irrational Games\u2014briefly known as 2K Boston/2K Australia\u2014released a spiritual successor to the System Shock series, entitled BioShock. The System Shock series established many themes that would later be refined in BioShock:\n\n- The game takes place on board a starship in a cyberpunk depiction of 2114.\n- The game is set aboard a space station in a cyberpunk vision of the year 2072. Assuming the role of a nameless security hacker, the player attempts to hinder the plans of a malevolent artificial intelligence called SHODAN.\n\n### Cyberpunk to \"Biopunk\" Evolution\n\nBioShock is known as the spiritual successor to the System Shock game series. Instead of the Cyberpunk theme presented in System Shock, BioShock utilizes a \"Biopunk\" (alongside a \"Dieselpunk\") theme, hence the title.\n\n### Shared Thematic Elements\n\nThe games share several key themes with Brave New World:\n\n1. **Utopian societies turned dystopian**: BioShock takes place in Rapture, an underwater city built in the 1940s by business magnate Andrew Ryan, who wanted to create a utopia for society's elite to flourish outside of government control.\n\n2. **Scientific progress and genetic modification**: BioShock's concept was developed by Irrational's creative lead, Ken Levine, and incorporates ideas by 20th century dystopian and utopian thinkers such as Ayn Rand, George Orwell, and Aldous Huxley, as well as historical figures such as John D. Rockefeller Jr. and Walt Disney.\n\n3. **Loss of humanity through technology**: While both games dealt with issues of corporate greed and human progress gone wrong, System Shock took a much darker tone by tapping into transhumanism.\n\n### Gameplay Connections\n\nThe influence extends to gameplay mechanics as well:\n\n- The overall gameplay model of BioShock is identical to that of System Shock 2, where the player can hack vending machines and security systems, upgrade weapons and skills, gather background information from audio logs, and utilize different types of ammo and \"magic spells\" in the form of Psi powers/Plasmids.\n\n- BioShock's Plasmids (and later Vigors) giving the player inhuman powers through genetic modification draws its inspiration from the original premise of System Shock and its neural interface that could be upgraded and augmented throughout the game.\n\n### Ken Levine's Role\n\nDeveloper Ken Levine has commented that the \"spirit of System Shock is player-powered gameplay: the spirit of letting the player drive the game, not the game designer\", and at Irrational Games \"... that's always the game we ideally want to make\". System Shock was one of the key inspirations behind Irrational's BioShock.\n\nThe connection between Brave New World and these games represents a clear lineage of dystopian themes flowing from literature into interactive media, with System Shock serving as the cyberpunk foundation that BioShock transformed into a \"biopunk\" exploration of similar themes about perfect societies, scientific overreach, and the loss of human agency."
+    ],
+    "durationSeconds": 32.465124537999976
+  }
+}

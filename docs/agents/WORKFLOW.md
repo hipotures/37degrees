@@ -9,9 +9,8 @@ Generate comprehensive findings with proper citations and task tracking.
 
 <prerequisites>
 VERIFY these conditions before starting:
-1. Agent CWD is in book folder (books/NNNN_book_name/)
-2. FILE TODO exists at docs/todo/TODO_37d-[agent-name].md
-3. Agent has read access to book.yaml
+1. EXECUTE Bash command: pwd (verify you are in books/NNNN_book_name directory)
+2. VERIFY FILE TODO exists at docs/todo/TODO_37d-[agent-name].md
 </prerequisites>
 
 <workflow>
@@ -135,15 +134,6 @@ CITATION REQUIREMENTS:
 
 <context>
 
-## Agent Types and Specializations
-
-**37d-facts-hunter**: Historical facts, publication context, author background
-**37d-symbol-analyst**: Literary symbols, cultural interpretations, cross-cultural analysis  
-**37d-culture-impact**: Adaptations, modern influence, cultural presence
-**37d-polish-specialist**: Polish translations, education system, local reception
-**37d-youth-connector**: Gen Z connections, modern parallels, social media presence
-**37d-bibliography-manager**: Source compilation, citation management
-**37d-source-validator**: Quality assessment, verification, gap identification
 
 ## TODO File Format
 
@@ -180,12 +170,6 @@ Date: YYYY-MM-DD HH:MM
 [2] "Article Title", Website, URL, Accessed: YYYY-MM-DD
 ```
 
-## Hook Integration
-
-The 37d-save-search.py hook automatically saves raw search data to:
-`docs/37d-[agent-name]/37d-[agent]_raw_WebSearch_[timestamp].json`
-
-Agents focus on formatted findings - raw data is preserved automatically.
 
 </context>
 
@@ -225,12 +209,6 @@ System: Exiting workflow
 
 <important-notes>
 
-1. **Single Task Focus**: Execute ONE task at a time, update immediately
-2. **Complete All Tasks**: NO minimum completion requirements - ALL tasks must be attempted
-3. **Immediate Updates**: Update FILE TODO status during and after each task
-4. **Quality Over Quantity**: Focus on finding accurate, well-cited information
-5. **No Structure Management**: Agent does NOT create/verify folder structure
-6. **Relative Paths**: All file paths relative to book directory CWD
-7. **Task Extension**: Can ADD tasks to TODO if research reveals new areas, NEVER remove tasks
+1. **Task Extension**: Can ADD new tasks to TODO if research reveals important gaps, but NEVER remove existing tasks
 
 </important-notes>

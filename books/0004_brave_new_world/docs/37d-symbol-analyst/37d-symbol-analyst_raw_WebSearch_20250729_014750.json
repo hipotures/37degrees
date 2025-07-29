@@ -1,0 +1,43 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Brave New World\" hypnopaedia examples quotes \"sixty-two thousand four hundred repetitions\" moral education"
+  },
+  "tool_response": {
+    "query": "\"Brave New World\" hypnopaedia examples quotes \"sixty-two thousand four hundred repetitions\" moral education",
+    "results": [
+      "I'll search for information about hypnopaedia examples and quotes from \"Brave New World\" with the specific phrase you mentioned.",
+      {
+        "tool_use_id": "srvtoolu_01Q4dZkmeSh351ELLnuQnTDe",
+        "content": [
+          {
+            "title": "Hypnopaedia in Brave World: Quotes & Analysis - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/hyponopaedia-in-brave-world-quotes-analysis.html"
+          },
+          {
+            "title": "Brave New World Quotes: The 50 Best & Most Important Lines From Aldous Huxley's Masterpiece",
+            "url": "https://fourminutebooks.com/brave-new-world-quotes/"
+          },
+          {
+            "title": "Brave New World - Wikiquote",
+            "url": "https://en.wikiquote.org/wiki/Brave_New_World"
+          },
+          {
+            "title": "\u201cBrave New World,\u201d \u201cHiroshima,\u201d and the Art of the Section Break",
+            "url": "https://mgerardmingo.com/2018/09/07/brave-new-world-hiroshima-and-the-art-of-the-section-break/"
+          },
+          {
+            "title": "An Archetypal Perspective of Brave New World \u2013 Ali's Blog",
+            "url": "https://ali420144798.wordpress.com/2018/07/09/an-archetypal-perspective-of-brave-new-world/"
+          }
+        ]
+      },
+      "Based on the search results, I found excellent information about hypnopaedia in \"Brave New World\" and the specific quote you mentioned. Here's what I discovered:\n\n## Hypnopaedia and the \"Sixty-Two Thousand Four Hundred Repetitions\" Quote\n\nIn Brave New World, hypnopaedia is used to teach lessons of moral consequence while children are sleeping and is best defined as sleep learning, playing a significant role in making the society of Brave New World possible.\n\nThe specific quote you referenced appears in the context of Bernard Marx, who is ironically a specialist on hypnop\u00e6dia. The full quote is:\n\n\"'Everyone belongs to everyone else, after all.' One hundred repetitions three nights a week for four years, thought Bernard Marx, who was a specialist on hypnop\u00e6dia. Sixty-two thousand four hundred repetitions make one truth.\"(no content)Idiots!\n\n## How Hypnopaedia Works\n\nSpecific lines are recited at predetermined intervals at various points of a child's conditioning. The search results reveal examples of the moral education content, including recordings that children hear while sleeping about the caste system and social hierarchies.\n\nThey'll have that repeated forty or fifty times more before they wake; then again on Thursday, and again on Saturday. A hundred and twenty times three times a week for thirty months.\n\n## Moral vs. Scientific Education\n\nThe Director explains why hypnopaedia works for moral conditioning: \"Moral education, which ought never, in any circumstances, to be rational.\"(no content)Brave New World alludes to a time when it was used to teach factual information. In the flashback, the boy has been hypnopaedically taught various facts about the Nile River. However, scientific hypnopaedia was found to be ineffective.\n\nThe \"sixty-two thousand four hundred repetitions\" quote demonstrates how the World State uses repetitive conditioning to establish its version of \"truth\" and social values, particularly around promiscuity and communal ownership."
+    ],
+    "durationSeconds": 19.823533925999886
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Brave New World nursery rhymes hypnopaedia sleep teaching cultural programming conditioning Huxley"
+  },
+  "tool_response": {
+    "query": "Brave New World nursery rhymes hypnopaedia sleep teaching cultural programming conditioning Huxley",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01XzhkSQUhR74PzJDH6GBare",
+        "content": [
+          {
+            "title": "Summary and Analysis Chapter 2 - Brave New World",
+            "url": "https://www.cliffsnotes.com/literature/b/brave-new-world/summary-and-analysis/chapter-2"
+          },
+          {
+            "title": "Hypnopaedia in Brave New World",
+            "url": "https://www.enotes.com/homework-help/what-hypnopaedia-teaching-brave-new-world-71323"
+          },
+          {
+            "title": "Hypnopaedia in Brave World: Quotes & Analysis - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/hyponopaedia-in-brave-world-quotes-analysis.html"
+          },
+          {
+            "title": "Brave New World Conditioning: Huxley's Chilling Vision of Social Control",
+            "url": "https://neurolaunch.com/brave-new-world-conditioning/"
+          },
+          {
+            "title": "Brave New World Chapter 2 Summary & Analysis | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/bravenew/section2/"
+          },
+          {
+            "title": "Brave New World by Aldous Huxley : chapter two",
+            "url": "https://www.huxley.net/bnw/two.html"
+          },
+          {
+            "title": "(PDF) Language Control in Aldous Huxley\u2019s Brave New World",
+            "url": "https://www.researchgate.net/publication/375634174_Language_Control_in_Aldous_Huxley's_Brave_New_World"
+          },
+          {
+            "title": "Hypnopaedia in Brave New World - eNotes.com",
+            "url": "https://www.enotes.com/topics/brave-new-world/questions/what-is-hypnopaedia-teaching-in-brave-new-world-71323"
+          },
+          {
+            "title": "What is hypnopaedia teaching in Brave New World?",
+            "url": "https://www.enotes.com/homework-help/what-is-hypnopaedia-teaching-in-brave-new-world-71323"
+          },
+          {
+            "title": "Hypnopaedia or Sleep Teaching in Aidous Huxley\u2019s \"Brave New World\" Free Essay Example",
+            "url": "https://studymoose.com/hypnopaedia-or-sleep-teaching-in-aidous-huxley-s-brave-new-world-essay"
+          }
+        ]
+      },
+      "Based on the web search results, I can provide you with comprehensive information about nursery rhymes, hypnopaedia, sleep teaching, cultural programming, and conditioning in Aldous Huxley's \"Brave New World.\"\n\n## Hypnopaedia: Sleep Teaching and Cultural Programming\n\nHypnopaedia is best defined as sleep learning, and plays a significant role in making the society of Brave New World possible.(no content)Hypnopaedia, Huxley makes clear, uses words at the vulnerable time during sleep to produce unquestioning loyalty or aversion in people.\n\n## The Nursery Rhyme System\n\nThe most striking example of hypnopaedia's cultural programming is found in the nursery rhyme-like chants repeated to sleeping children. Night after night, as children slumber in their dormitories, they are bombarded with repetitive messages that shape their worldview and reinforce their place in society. \"Alpha children wear grey. They work much harder than we do, because they're so frightfully clever. I'm really awfully glad I'm a Beta, because I don't work so hard. And then we are much better than the Gammas and Deltas. Gammas are stupid. They all wear green, and Delta children wear khaki. Oh no, I don't want to play with Delta children. And Epsilons are still worse. They're too stupid to be able to read or write. Besides, they wear black, which is such a beastly color. I'm so glad I'm a Beta.\" This chilling nursery rhyme, repeated ad nauseam during sleep-learning sessions, exemplifies the insidious nature of psychological conditioning in Brave New World.\n\n## Technical Implementation\n\nIn Brave New World, hypnopaedia is used to teach lessons of moral consequence while children are sleeping. We learn that there's actually a pretty precise science to this. Specific lines are recited at predetermined intervals at various points of a child's conditioning.(no content)The Director explains that the lesson will be repeated one hundred and twenty times, three times a week, for thirty months.\n\nBernard Marx, who works in hypnopaedia, reveals the mathematical precision: 'One hundred repetitions three nights a week for four years,' he says. 'Sixty-two thousand four hundred repetitions make one truth.'\n\n## Purpose and Function\n\nHypnopaedia, the Director concludes, is \"the greatest moralizing and socializing force of all time.\"(no content)As such, hypnopaedia is only used to teach moral or ethical lessons. For example, it's used to instill consumerism and sexual freedom within the population, but no vocational information can be transmitted for any use.\n\nThe Director explains the reasoning: 'Moral education, which ought never, in any circumstances, to be rational.'\n\n## Effects on Society and Individual Psychology\n\nThroughout the novel, characters spout the sentiments of their hynopaedic training almost unconsciously and behave according to the precepts of the sleep-teaching.(no content)They listen to these ideas repeated so often that they grow up brainwashed or conditioned into thinking that these ideas are the truth, not merely opinions. The adults also appear to think these are their own ideas and opinions, or at least don't question them or where they come from.\n\n## Broader Control System\n\nIn order to pursue happiness and stability, the controllers use a series of instruments like ectogenesis, neo-Pavlovian conditioning and hypnopaedia to control human beings.(no content)Language plays a critical and irreplaceable role in the new world as a form of controlling.\n\nThe hypnopaedic system represents Huxley's warning about how seemingly benign methods like sleep learning could be weaponized for total social control, turning nursery rhyme-like repetitions into instruments of psychological conditioning that eliminate individual choice and critical thinking."
+    ],
+    "durationSeconds": 30.251289207999942
+  }
+}

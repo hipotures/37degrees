@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Nowy wspania\u0142y \u015bwiat\" Huxley rezerwat dzikiej symbolizm interpretacja polska"
+  },
+  "tool_response": {
+    "query": "\"Nowy wspania\u0142y \u015bwiat\" Huxley rezerwat dzikiej symbolizm interpretacja polska",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_013y5EW24RtidNeWCnzBFiN1",
+        "content": [
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Nowy_wspania\u0142y_\u015bwiat"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Streszczenie szczeg\u00f3\u0142owe - Aldous Huxley - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/aldous-huxley/nowy-wspanialy-swiat.streszczenie-szczegolowe"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Aldous Huxley | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5043467/nowy-wspanialy-swiat"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2013 problematyka \u2013 Aldous Huxley \u2013 poezja.org",
+            "url": "https://poezja.org/wz/interpretacja/7687/Nowy_wspanialy_swiat_problematyka"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2013 streszczenie, interpretacja - streszczenie, opracowanie na wypracowania.pl",
+            "url": "https://wypracowania.pl/lektury/nowy-wspanialy-swiat-streszczenie-interpretacja"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Problematyka - Aldous Huxley - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/aldous-huxley/nowy-wspanialy-swiat.problematyka"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2013 opracowanie (geneza, problematyka, bohaterowie)",
+            "url": "https://eszkola.pl/jezyk-polski/opracowanie-3080.html"
+          },
+          {
+            "title": "\"Nowy wspania\u0142y \u015bwiat\" - Aldous Huxley | Prawo do bycia nieszcz\u0119\u015bliwym [opracowanie]",
+            "url": "https://www.kulturonieznawczyni.com/post/nowy-wspania\u0142y-\u015bwiat-aldous-huxley-prawo-do-bycia-nieszcz\u0119\u015bliwym-opracowanie"
+          },
+          {
+            "title": "Aldous Huxley \u201eNowy wspania\u0142y \u015bwiat\u201d - opracowanie utworu",
+            "url": "https://wypracowania24.pl/jezyk-polski/884/aldous-huxley-nowy-wspanialy"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2013 bohaterowie \u2013 Aldous Huxley \u2013 poezja.org",
+            "url": "https://poezja.org/wz/interpretacja/7502/Nowy_wspanialy_swiat_bohaterowie"
+          }
+        ]
+      },
+      "Wyszukiwanie zosta\u0142o przeprowadzone dla zapytania o \"Nowy wspania\u0142y \u015bwiat\" Huxleya, rezerwat dzikich, symbolizm i interpretacj\u0119 polsk\u0105. Oto kluczowe informacje:\n\n## Rezerwat Dzikich - Symbolizm i interpretacja\n\nNa obrze\u017cach Nowego \u015awiata znajdowa\u0142 si\u0119 Rezerwat, w kt\u00f3rym ludzie \u017cyli wed\u0142ug starych, \u201enaturalnych\" zasad, nie przyjmuj\u0105c nowego porz\u0105dku. Jeden z bohater\u00f3w, John (Dzikus), wychowuj\u0105c si\u0119 tam pozna\u0142 ide\u0119 Boga, potrzeb\u0119 indywidualno\u015bci, prawo do prze\u017cywania cierpienia i smak wolno\u015bci my\u015bli.(no content)Wi\u0119kszo\u015b\u0107 akcji toczy si\u0119 w Londynie, natomiast rezerwat Indian znajduje si\u0119 w Nowym Meksyku.\n\n### Symboliczne znaczenie rezerwatu\n\nNa obrze\u017cach wspania\u0142ego \u015bwiata istnieje rezerwat \u2013 miejsce, w kt\u00f3rym ludzie \u017cyj\u0105 w my\u015bl starych zasad. To w\u0142a\u015bnie tam jeden z bohater\u00f3w \u2013 Bernard \u2013 zabra\u0142 Lenin\u0119, by zwr\u00f3ci\u0107 na siebie jej uwag\u0119. W krainie \u201eludzi dzikich\" tury\u015bci znajduj\u0105 Lind\u0119 i Johna \u2013 mieszka\u0144c\u00f3w wspania\u0142ego \u015bwiata, kt\u00f3rzy niegdy\u015b zagin\u0119li w tych niecywilizowanych ost\u0119pach.\n\nRezerwat symbolizuje:\n- **Alternatyw\u0119 dla spo\u0142ecze\u0144stwa totalitarnego** - miejsce, gdzie zachowano naturalne ludzkie warto\u015bci\n- **Pami\u0119\u0107 przesz\u0142o\u015bci** - Tutaj pozna\u0142 nie tylko wspania\u0142y \u015bwiat (z opowie\u015bci matki), ale tak\u017ce sztuki Szekspira (zakazane na obszarze nowej cywilizacji) i rytua\u0142y religijne\n- **Przestrze\u0144 wolno\u015bci my\u015bli** - w przeciwie\u0144stwie do sterowanego spo\u0142ecze\u0144stwa Nowego \u015awiata\n\n### Problematyka w polskiej interpretacji\n\nUkazanie \u015bcierania si\u0119 dw\u00f3ch odmiennych pogl\u0105d\u00f3w na rol\u0119 jednostki w spo\u0142ecze\u0144stwie, takich jak indywidualizm i konformizm jest istotnym problemem w powie\u015bci Huxleya.(no content)Huxley w powie\u015bci zaprezentowa\u0142 w\u0142asn\u0105 wizj\u0119 zagro\u017ce\u0144, jakie mog\u0105 p\u0142yn\u0105\u0107 z pr\u00f3b realizowania utopijnych projekt\u00f3w politycznych. Antyutopijny charakter \u201eNowego wspania\u0142ego \u015bwiata\" polega na wykreowaniu pozornie idealnego \u015bwiata, kt\u00f3ry ostatecznie zawiera mn\u00f3stwo mechanizm\u00f3w spo\u0142ecznej kontroli i opresji.\n\n### Kontekst polski\n\nNowy wspania\u0142y \u015bwiat wykazuje pewne podobie\u0144stwa do dw\u00f3ch polskich powie\u015bci - Miasto \u015bwiat\u0142o\u015bci (1924) i Podr\u00f3\u017c po\u015blubna pana Hamiltona (1928), kt\u00f3re napisa\u0142 Mieczys\u0142aw Smolarski. Polak zarzuca\u0142 Huxleyowi plagiat, jednak ten nigdy mu nie odpowiedzia\u0142.\n\nW polskich interpretacjach podkre\u015bla si\u0119 znaczenie rezerwatu jako symbolu oporu przeciwko totalitaryzmowi i miejsca zachowania autentycznych warto\u015bci ludzkich w obliczu technologicznej dehumanizacji."
+    ],
+    "durationSeconds": 25.682331913000002
+  }
+}

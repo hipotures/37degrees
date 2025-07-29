@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Brave New World\" TikTok hashtag viral videos dystopian social media conditioning"
+  },
+  "tool_response": {
+    "query": "\"Brave New World\" TikTok hashtag viral videos dystopian social media conditioning",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01HLaDcAUDsudeCeFyBYsWfj",
+        "content": [
+          {
+            "title": "TikTok wants us to enter a brave new world. Should we? - The Media Leader",
+            "url": "https://uk.themedialeader.com/tiktok-wants-us-to-enter-a-brave-new-world-should-we/"
+          },
+          {
+            "title": "Brave New World: the pill-popping, social media obsessed dystopia we live in",
+            "url": "https://theconversation.com/brave-new-world-the-pill-popping-social-media-obsessed-dystopia-we-live-in-72511"
+          },
+          {
+            "title": "Dystopian Social Media \u2014 Damn It, I Love America!",
+            "url": "https://www.damnitiloveamerica.com/articles/dystopian-media"
+          },
+          {
+            "title": "A Digital Brave New World: Are We Entertaining Ourselves to Death on TikTok? \u2039 Literary Hub",
+            "url": "https://lithub.com/a-digital-brave-new-world-are-we-entertaining-ourselves-to-death-on-tiktok/"
+          },
+          {
+            "title": "Aldous Huxley's Brave New World \u2014 How Algorithms & AI are Tipping The World Towards It",
+            "url": "https://gauravkrishnan.substack.com/p/aldous-huxley-brave-new-world-ai-algorithms-comparison"
+          },
+          {
+            "title": "Brave New World: the pill-popping, social media obsessed dystopia we live in - Interalia Magazine",
+            "url": "https://www.interaliamag.org/articles/tony-d-sampson-brave-new-world-the-pill-popping-social-media-obsessed-dystopia-we-live-in/"
+          },
+          {
+            "title": "Dystopian Society in Brave New World | Characteristics & Analysis | Study.com",
+            "url": "https://study.com/academy/lesson/brave-new-world-as-a-dystopia-themes-examples.html"
+          },
+          {
+            "title": "A Brave New World",
+            "url": "https://www.tiktok.com/discover/A-Brave-New-World"
+          },
+          {
+            "title": "Brave New World",
+            "url": "https://www.tiktok.com/discover/brave-new-world?lang=en"
+          },
+          {
+            "title": "#readingrecommendations #bookrecommendations #readingrecs #bookrecs #bookreview #bookreviews #bookreviewer #booktok #fiction #fictionbook Brave New World by Aldous Huxley | TikTok",
+            "url": "https://www.tiktok.com/@davidkadavy/video/7276836291705113862"
+          }
+        ]
+      },
+      "Based on my search results, I found relevant information about how \"Brave New World\" relates to TikTok and social media conditioning. Here's what I discovered:\n\nThe search reveals a significant discourse connecting Aldous Huxley's \"Brave New World\" to modern social media platforms, particularly TikTok, as examples of dystopian conditioning. In Brave New World, Huxley describes a world in which citizens are kept peaceful and tranquil through constantly consuming a drug called \"soma,\" which produces lots of dopamine and oxytocin, making people care less about personal freedoms because they're so happy all the time.\n\nSeveral analysts draw direct parallels between this fictional conditioning and social media algorithms. AI, in its insatiable hunger for efficiency, has taken on the role of Huxley's \"World Controllers\", but instead of the hypnopaedic sleep-conditioning as envisioned in his book, we get recommendation engines that shape our worldview, telling us what to watch, read, and believe.(no content)Instagram, TikTok, YouTube, Facebook, Twitter and Netflix, powered by AI, know us better than we know ourselves, serving up precisely the content that will keep us scrolling, consuming, and disengaging from the real world.\n\nThe concern specifically around TikTok centers on how the TikTok algorithm curates content on their #ForYou feature based on three main factors: user interaction, video information and metadata, and the settings on a device/account. It's not an entirely foreign concept but is rather a robust cookie algorithm specifically designed to keep users on the platform.\n\nCritics argue that Huxley's appeal to emotional conditioning most significantly resonates with today's dystopian neurocultures. He noted the clear advantages of sidestepping intellectual engagement and instead appealing to emotional suggestibility to guide intentions and subdue nonconformity.\n\nThe dystopian comparison suggests that Huxley envisioned a world where people wouldn't need to be oppressed because they would be too distracted, too comfortable, and too entertained to care. This mirrors concerns about how social media platforms, including TikTok, may be creating similar conditions of willing docility through entertainment and algorithmic manipulation."
+    ],
+    "durationSeconds": 18.617819535999793
+  }
+}

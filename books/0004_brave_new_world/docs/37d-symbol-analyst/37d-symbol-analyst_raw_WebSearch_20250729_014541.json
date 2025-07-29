@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Brave New World sexual promiscuity symbol emotional suppression love control Huxley analysis"
+  },
+  "tool_response": {
+    "query": "Brave New World sexual promiscuity symbol emotional suppression love control Huxley analysis",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_019XygQk3hV3UxAXwGC1BGKH",
+        "content": [
+          {
+            "title": "Brave New World Sexual Promiscuity Analysis | ipl.org",
+            "url": "https://www.ipl.org/essay/Brave-New-World-Sexual-Promiscuity-Analysis-PCLFYTUZV"
+          },
+          {
+            "title": "Social Promiscuity In Brave New World By Aldous Huxley | Cram",
+            "url": "https://www.cram.com/essay/Brave-New-World-Promiscuity-Analysis/PJJCD7Q6ST6"
+          },
+          {
+            "title": "Sexual Promiscuity In Aldous Huxley's Brave New World - 1142 Words | Bartleby",
+            "url": "https://www.bartleby.com/essay/Sexual-Promiscuity-In-Aldous-Huxleys-Brave-New-69E5B8F8D23675CE"
+          },
+          {
+            "title": "Sexual Freedom In Aldous Huxley's A Brave New World - 1208 Words | Cram",
+            "url": "https://www.cram.com/essay/Promiscuity-In-A-Brave-New-World-Analysis/PJF35QKJXG"
+          },
+          {
+            "title": "Brave New World Promiscuity Analysis - 938 Words | Bartleby",
+            "url": "https://www.bartleby.com/essay/Brave-New-World-Promiscuity-Analysis-P3F5JX8RGA6"
+          },
+          {
+            "title": "review \u2013 The Sexual Politics of Huxley's 'Brave New World' ...",
+            "url": "https://wapercyfoundation.org/?page_id=499"
+          },
+          {
+            "title": "Sexual Promiscuity In Aldous Huxley's Brave New World - 940 Words | Cram",
+            "url": "https://www.cram.com/essay/Sexual-Promiscuity-In-Aldous-Huxleys-Brave-New/FCT7Q2S4FR"
+          },
+          {
+            "title": "Brave New World: the importance of thinking freely - spiked",
+            "url": "https://www.spiked-online.com/2020/07/13/brave-new-world-the-importance-of-thinking-freely/"
+          },
+          {
+            "title": "Sexual Liberation as a Characteristic of Utopia \u2013 Confluence",
+            "url": "https://confluence.gallatin.nyu.edu/sections/research/sexual-liberation-as-a-characteristic-of-utopia"
+          },
+          {
+            "title": "Brave New World Analysis - 854 Words | Internet Public Library",
+            "url": "https://www.ipl.org/essay/Brave-New-World-Analysis-PKB8JCHHESCP6"
+          }
+        ]
+      },
+      "I've successfully performed the web search for your query about Brave New World's sexual promiscuity as a symbol of emotional suppression, love control, and Huxley's analysis. The search returned comprehensive academic and literary analysis materials that examine these themes in detail.\n\nHere are the key findings from the search results:\n\n## Sexual Promiscuity as a Control Mechanism\n\nIn the novel Brave New World, author Aldous Huxley links sexual promiscuity and happiness by utilizing diction and imagery, proving that the only link sexual promiscuity has towards happiness is that it promotes a false sense of happiness.(no content)Emotions are also controlled, as well as death, disease, vocation, social class, and appearance. With something such as emotions controlled, specifically for everyone to be happy and everything done as a recreational activity to promote happiness, this makes the happiness artificial.\n\n## The \"Everyone Belongs to Everyone Else\" Philosophy\n\nEarly on, Huxley introduces the idea of promiscuity to reader through this quote. Said by one of the world controllers, Mustapha Mond, to a group of students, this moment is a major understanding point of licentiousness in their society.(no content)Imagine a world where \"everyone belongs to everybody else.\" If everyone belongs to everyone then there's no need for relationships.\n\n## Suppression of Love and Emotional Intimacy\n\nIn Aldous Huxley's Brave New World, sexual interaction is no longer an act of love and passion; sex is instead, viewed as a recreational activity no more passionate than a game of cards.(no content)But the promiscuity of the New World citizens is empty. Sex has been reduced to the temporary satiation of physical impulses. This is why even children in Brave New World have to engage in 'erotic play'.\n\n## Control Through Conditioning\n\nSexual promiscuity is concept that is completely accepted and even encouraged in the World State. Children are conditioned at a young age to become comfortable with each other's bodies and to accept the idea of promiscuity.(no content)The world leaders use horrifying repetitive conditioning to shape individuals into acquiescent, infantilized citizens, stupefied into an artificial sense of happiness. The majority of citizens willingly follow the tide that infinitely crashed over them with wave after wave of parties, casual sexual relations, and the perfectly engineered drug, soma.\n\n## Loss of Meaningful Relationships\n\nWords which once described familial bonds \u2013 'mother', 'father', 'birth' \u2013 are all remembered as expletives, spoken by previous generations of humans. When our protagonist Bernard Marx sees a 'savage' breastfeeding a child, he is 'surprised by the intimacy' of the relationship. It is this intimacy that has been done away with in the New World, along with the terms that once described intimate relationships.\n\n## Huxley's Commentary on Society\n\nIn the iconic 1932 novel Brave New World, author Aldous Huxley characterizes pleasure as a facet of a dystopia. Huxley describes sexual pleasure as being used to manipulate and distract people from the real pleasure of freedom.(no content)He wrote that a 'sordid and ignoble realism offers no resistance to the sexual impulse, which now spends itself purposelessly, without producing love, or even, in the long-run, amusement'.\n\nThe search results provide extensive analysis showing how Huxley uses sexual promiscuity as a powerful symbol of emotional suppression and societal control, demonstrating how the elimination of deep emotional connections serves the state's goal of maintaining power over its citizens."
+    ],
+    "durationSeconds": 27.792647725999938
+  }
+}

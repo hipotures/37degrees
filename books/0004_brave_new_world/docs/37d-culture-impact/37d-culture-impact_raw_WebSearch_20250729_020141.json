@@ -1,0 +1,63 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Brave New World\" academic papers research conferences scholarly analysis bioethics technology"
+  },
+  "tool_response": {
+    "query": "\"Brave New World\" academic papers research conferences scholarly analysis bioethics technology",
+    "results": [
+      "I'll search for academic papers and scholarly analysis on \"Brave New World\" focusing on bioethics and technology research.",
+      {
+        "tool_use_id": "srvtoolu_01TnHekMz3ezjN8LeaS3tm4W",
+        "content": [
+          {
+            "title": "In retrospect: Brave New World | Nature",
+            "url": "https://www.nature.com/articles/503338a"
+          },
+          {
+            "title": "Brave New World versus Island \u2014 Utopian and Dystopian Views on Psychopharmacology - PMC",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2779438/"
+          },
+          {
+            "title": "(PDF) Bioethics and Brave New World: Science Fiction and Public Articulation of Bioethics | John Lynch - Academia.edu",
+            "url": "https://www.academia.edu/41022283/Bioethics_and_Brave_New_World_Science_Fiction_and_Public_Articulation_of_Bioethics"
+          },
+          {
+            "title": "Brave New World Research Papers - Academia.edu",
+            "url": "https://www.academia.edu/Documents/in/Brave_New_World"
+          },
+          {
+            "title": "Brave New World? Human Welfare and Paternalistic AI by Cass R. Sunstein, Harvard Public Law RPS Submitter :: SSRN",
+            "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4908836"
+          },
+          {
+            "title": "A Foucauldian Reading of Huxley's Brave New World",
+            "url": "https://www.academypublication.com/issues2/tpls/vol07/01/02.pdf"
+          },
+          {
+            "title": "Brave New World Research Paper Topics - iResearchNet",
+            "url": "https://www.iresearchnet.com/research-paper-topics/literature-research-paper-topics/brave-new-world-topics/"
+          },
+          {
+            "title": "(PDF) Brave New World of Biotechnology: Ethics, Science, Politics, and Regulation",
+            "url": "https://www.researchgate.net/publication/366753469_Brave_New_World_of_Biotechnology_Ethics_Science_Politics_and_Regulation"
+          },
+          {
+            "title": "Biology's brave new world | Science",
+            "url": "https://www.science.org/doi/10.1126/science.abe1950"
+          },
+          {
+            "title": "Brave New World: Analysis of Setting | EBSCO Research Starters",
+            "url": "https://www.ebsco.com/research-starters/literature-and-writing/brave-new-world-analysis-setting"
+          }
+        ]
+      },
+      "Based on the search results, I've found extensive academic research and scholarly analysis on \"Brave New World\" with a focus on bioethics and technology. Here are the key findings:\n\n## Academic Research and Scholarly Analysis\n\nThe search reveals substantial academic engagement with Huxley's \"Brave New World\" in bioethics and technology contexts:\n\nAldous Huxley's Brave New World is a famous dystopia, frequently called upon in public discussions about new biotechnology.(no content)In many serious works on enhancement or the ethics of psychopharmacology, Brave New World figures in the bibliography and is used (often merely rhetorically) to set the stage for the discussion on possible dangers of these developments.\n\n## Key Research Areas\n\n### Bioethics and Psychopharmacology\nScholarly papers discuss both novels focussing especially on the role of psychopharmacological substances, examining what can be learned from Huxley's novels about psychopharmacology and how that relates to the discussion in the ethical and philosophical literature.(no content)The President's Council on Bioethics references \"soma\", the drug in Aldous Huxley's fictional Brave New World, illustrating \"the debased value of a spurious, drug-induced contentment.\"\n\n### Rhetorical Analysis in Bioethics Debates\nOne scholarly paper examines how Huxley's Brave New World is unique in that both proponents and opponents of research treated references to the novel as a legitimate rhetorical strategy, using debates from 1998 to 2003 over embryonic stem cell research and cloning.\n\n### Contemporary Applications\nRecent research explores digital dependency through the lens of Brave New World, examining how Huxley presents a society that relies on drug soma to escape reality, mirroring our modern reliance on smartphones and digital technology.\n\n## Academic Resources Available\n\nThe search results show several academic platforms hosting research papers:\n- Academia.edu hosts numerous Brave New World research papers\n- ResearchGate contains publications on \"Brave New World of Biotechnology: Ethics, Science, Politics, and Regulation\"\n- PMC (PubMed Central) hosts peer-reviewed articles on the topic\n\n## Research Themes\nThe academic literature addresses multiple intersecting themes:\n- Genetic engineering and biotechnology ethics\n- Psychopharmacology and human enhancement\n- Technology dependence and digital society\n- Bioethics policy and regulation\n- Social control through technology\n- Evaluation and governance of enhancing psychopharmacological substances in democratic, pluralistic societies\n\nThis demonstrates that \"Brave New World\" continues to be a significant reference point in contemporary academic discussions about bioethics, technology, and their societal implications."
+    ],
+    "durationSeconds": 22.69329269699985
+  }
+}

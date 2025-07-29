@@ -1,0 +1,200 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Brave New World\" BookTok YouTube book reviews viral memes social media posts"
+  },
+  "tool_response": {
+    "query": "\"Brave New World\" BookTok YouTube book reviews viral memes social media posts",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01P4szBcgfmnE3atdaFRtcek",
+        "content": [
+          {
+            "title": "Brave New World Book Review | Common Sense Media",
+            "url": "https://www.commonsensemedia.org/book-reviews/brave-new-world"
+          },
+          {
+            "title": "Parent reviews for Brave New World | Common Sense Media",
+            "url": "https://www.commonsensemedia.org/book-reviews/brave-new-world/user-reviews/adult"
+          },
+          {
+            "title": "REVIEW: Brave New World (1932) - Arcadia Pod",
+            "url": "https://arcadiapod.com/2023/01/17/review-brave-new-world-1932/"
+          },
+          {
+            "title": "What do you think about the book 'Brave New World' by Aldous Huxley? - Quora",
+            "url": "https://www.quora.com/What-do-you-think-about-the-book-Brave-New-World-by-Aldous-Huxley"
+          },
+          {
+            "title": "Brave New World Meme",
+            "url": "https://www.tiktok.com/discover/brave-new-world-meme?lang=en"
+          },
+          {
+            "title": "Kid reviews for Brave New World | Common Sense Media",
+            "url": "https://www.commonsensemedia.org/book-reviews/brave-new-world/user-reviews/child"
+          },
+          {
+            "title": "Would you recommend that I read the book 'Brave New World'? Why, or why not? - Quora",
+            "url": "https://www.quora.com/Would-you-recommend-that-I-read-the-book-Brave-New-World-Why-or-why-not"
+          },
+          {
+            "title": "Review: Brave New World by Aldous Huxley \u2013 Ruminations",
+            "url": "https://ruminations.blog/2025/03/03/review-brave-new-world-by-aldous-huxley/"
+          },
+          {
+            "title": "Book Review: Brave New World | Pikes Peak Library District",
+            "url": "https://ppld.org/book-reviews/brave-new-world-2"
+          },
+          {
+            "title": "Book Review For Teens: Aldous Huxley's Brave New World",
+            "url": "https://yourteenmag.com/stuff-we-love/books/book-review-brave-new-world"
+          }
+        ]
+      },
+      "The search results show some references to social media and memes related to \"Brave New World,\" but don't provide much specific information about BookTok or YouTube reviews. Let me search more specifically for BookTok content about this book.",
+      {
+        "tool_use_id": "srvtoolu_01VFfSc4oT5WytztKYV4r6QX",
+        "content": [
+          {
+            "title": "The Most Popular TikTok Books #BookTok | Barnes & Noble\u00ae",
+            "url": "https://www.barnesandnoble.com/b/booktok/_/N-2vdn"
+          },
+          {
+            "title": "Brave New World by Aldous Huxley - 1 Minute Summary #1Min1Book #BookSummary #BraveNewWorld #AldousHuxley #Reading #BookTok #BestSellers #DystopianFiction #ClassicLiterature #BookReview #BookRecommendation #MustRead #BookLovers #BookNerds #Bookstagram #ReadersOfInstagram #YouTubeBookClub #TikTokBooks | TikTok",
+            "url": "https://www.tiktok.com/@1min1book/video/7217159439776795946"
+          },
+          {
+            "title": "Would you recommend that I read the book 'Brave New World'? Why, or why not? - Quora",
+            "url": "https://www.quora.com/Would-you-recommend-that-I-read-the-book-Brave-New-World-Why-or-why-not"
+          },
+          {
+            "title": "Brave New World Book Review | Common Sense Media",
+            "url": "https://www.commonsensemedia.org/book-reviews/brave-new-world"
+          },
+          {
+            "title": "Book Review For Teens: Aldous Huxley's Brave New World",
+            "url": "https://yourteenmag.com/stuff-we-love/books/book-review-brave-new-world"
+          },
+          {
+            "title": "What Is BookTok? A Guide to TikTok\u2019s Book-Loving Community",
+            "url": "https://blueroseone.com/publish/booktok/"
+          },
+          {
+            "title": "21 Best BookTok Recommendations Worth the Hype",
+            "url": "https://camillestyles.com/wellness/tiktok-books/"
+          },
+          {
+            "title": "BookTok | The best books on Tiktok | #Booktok",
+            "url": "https://www.easons.com/Books/booktok-best-books-on-tiktok"
+          },
+          {
+            "title": "Parent reviews for Brave New World | Common Sense Media",
+            "url": "https://www.commonsensemedia.org/book-reviews/brave-new-world/user-reviews/adult"
+          },
+          {
+            "title": "brave new world book summary\uff5cTikTok Search",
+            "url": "https://www.tiktok.com/discover/brave-new-world-book-summary"
+          }
+        ]
+      },
+      "Let me search for more specific information about YouTube book reviews of Brave New World.",
+      {
+        "tool_use_id": "srvtoolu_016cHrJUVc81zKMKVNHrJH3U",
+        "content": [
+          {
+            "title": "Brave New World Book Review | Common Sense Media",
+            "url": "https://www.commonsensemedia.org/book-reviews/brave-new-world"
+          },
+          {
+            "title": "Parent reviews for Brave New World | Common Sense Media",
+            "url": "https://www.commonsensemedia.org/book-reviews/brave-new-world/user-reviews/adult"
+          },
+          {
+            "title": "Book Review: Brave New World | Pikes Peak Library District",
+            "url": "https://ppld.org/book-reviews/brave-new-world-2"
+          },
+          {
+            "title": "Here's the Brave New World Book Report I Should've Written in 11th Grade | Phoenix New Times",
+            "url": "https://www.phoenixnewtimes.com/arts/heres-the-brave-new-world-book-report-i-shouldve-written-in-11th-grade-8231561"
+          },
+          {
+            "title": "Amazon.com: Brave New World: 9780060850524: Huxley, Aldous: Books",
+            "url": "https://www.amazon.com/Brave-New-World-Aldous-Huxley/dp/0060850523"
+          },
+          {
+            "title": "Brave New World by Aldous Huxley | Goodreads",
+            "url": "https://www.goodreads.com/book/show/5129.Brave_New_World"
+          },
+          {
+            "title": "Book Review: Brave New World - Aldous Huxley - ReviewsFeed",
+            "url": "https://reviewsfeed.net/book-review-brave-new-world-aldous-huxley"
+          },
+          {
+            "title": "Brave New World (TV Series 2020) \u2b50 7.0 | Drama, Sci-Fi, Thriller",
+            "url": "https://www.imdb.com/title/tt9814116/"
+          },
+          {
+            "title": "Brave New World \u2013 Read Fine Books",
+            "url": "https://readfinebooks.com/2022/03/01/brave-new-world/"
+          },
+          {
+            "title": "Kid reviews for Brave New World | Common Sense Media",
+            "url": "https://www.commonsensemedia.org/book-reviews/brave-new-world/user-reviews/child"
+          }
+        ]
+      },
+      "Let me search more specifically for viral memes about Brave New World.",
+      {
+        "tool_use_id": "srvtoolu_012vCqVGWQNF7Ltf49gMCxxz",
+        "content": [
+          {
+            "title": "REVIEW: Brave New World (1932) - Arcadia Pod",
+            "url": "https://arcadiapod.com/2023/01/17/review-brave-new-world-1932/"
+          },
+          {
+            "title": "Elon Musk misunderstands fictional dystopias (and his role in our real dystopia). \u2039 Literary Hub",
+            "url": "https://lithub.com/elon-musk-misunderstands-fictional-dystopias-and-his-role-in-our-real-dystopia/"
+          },
+          {
+            "title": "50+ Elon Musk Memes That Are Going Viral On Social Media",
+            "url": "https://dontgetserious.com/elon-musk-memes/"
+          },
+          {
+            "title": "Not really fiction anymore | Venn Diagram Parodies | Know Your Meme",
+            "url": "https://knowyourmeme.com/photos/1503157-venn-diagram-parodies"
+          },
+          {
+            "title": "2020 We Are Here | Venn Diagram Parodies | Know Your Meme",
+            "url": "https://knowyourmeme.com/photos/1944845-venn-diagram-parodies"
+          },
+          {
+            "title": "Does this Venn Diagram make sense to you guys? - Reddit",
+            "url": "https://lr.mint.lgbt/r/facepalm/comments/102qxq1/does_this_venn_diagram_make_sense_to_you_guys/"
+          },
+          {
+            "title": "Elon Musk, Who Has Ties to Both Epstein and Diddy, Criticizes People With Ties to Epstein and Diddy",
+            "url": "https://futurism.com/elon-musk-epstein-diddy"
+          },
+          {
+            "title": "Know Your Meme: Internet Meme Database",
+            "url": "https://trending.knowyourmeme.com/trending"
+          },
+          {
+            "title": "Elon Musk: Memelord or Meme lifter?",
+            "url": "https://www.deccanherald.com/amp/story/business/elon-musk-memelord-or-meme-lifter-983678.html"
+          },
+          {
+            "title": "A guide to Elon Musk\u2019s memes as DOGE sweeps Washington - The Washington Post",
+            "url": "https://www.washingtonpost.com/technology/2025/02/09/elon-musk-doge-memes/"
+          }
+        ]
+      },
+      "Based on my search results, I can provide a comprehensive overview of \"Brave New World\" in relation to BookTok, YouTube book reviews, viral memes, and social media posts:\n\n## BookTok and Social Media Presence\n\nTikTok video from 1 Min 1 Book \ud83d\udcda (@1min1book) shows that \"Brave New World\" does have a presence on BookTok with book summary content. The search results indicate that BookTok is a hashtag used by creators who feature book recommendations, reviews and memes, and BookTok isn't just a trend, it's a full-blown revolution in how we discover, share, and experience books. It's turned everyday readers into influencers, backlist books into bestsellers, and solitary reading into a shared emotional rollercoaster.\n\nHowever, \"Brave New World\" doesn't appear to be among the most popular BookTok titles. The platform tends to favor Romance and fantasy are top performers, especially with emotional or steamy storylines, while Brave New World is a classic dystopian novel that may not align with typical BookTok preferences.\n\n## TikTok Content and Reviews\n\nThere is some TikTok content about the book, with creators posting Book review of Brave New World by Aldous Huxley. For y'all to put Brave New World on a list of \"obscene\" books is something beyond irony. The book criticizes modern society! Huxley agreed with y'all!!! Read books. Read them critically. Some TikTok users express mixed feelings about the book, with one noting I wish you luck if you read this, your going to need it. Its relevant but that doesn't equal good.\n\n## Viral Memes and Social Media Impact\n\nThe most significant viral social media moment involving \"Brave New World\" came from a meme posted by non other than everyone's least favorite multi-billionaire, Elon Musk, was going around causing quite the stir. Featured in the image was a venn diagram with three large circles intersecting in the center. That spot in the center was marked \"you are here\", showing that whatever Musk felt the larger circles were about, they were playing into the zeitgeist of 2023. The three circles were, of course, labeled \"1984\", \"Fahrenheit 451\", and \"Brave New World\".\n\nThis meme sparked significant discussion, with critics noting that these dystopias DO NOT OVERLAP and that We're probably closest to Brave New World's vision of a docile populace in constant need of dopamine distraction, and though we certainly rely an awful lot on actual pills to keep us diverted from reality, we also have our own self-generated Soma supply via social media and, to a lesser extent, the endless streaming of everything.\n\n## Critical Reception and Analysis\n\nThe book continues to generate discussion about its relevance to modern society. Short of The Bible or Shakespeare, you will be hard pressed to find three other books so rarely read and yet somehow so frequently commented on as this trio (referring to 1984, Fahrenheit 451, and Brave New World).\n\nCritics of the viral meme phenomenon note that half of the Elon-aficionados in the comments had obviously never read any of the books, nor had Elon considering the irony of a man of his stature posting it, and It's funny to see how others like Mr. Musk make use of this book to back up their own twisted worldviews when the book can be taken from pretty much any viewpoint to mean 100 different things to 100 different people.\n\n## Contemporary Relevance\n\nDespite being published in 1932, The conversations prompted by this novel are no less relevant today than when the book was first published 83 years ago, and at 90 years after publication, it's scary how close to true some of the predictions were.\n\nWhile \"Brave New World\" has a presence on social media platforms and continues to generate discussion through memes and reviews, it doesn't appear to have achieved the same viral BookTok status as contemporary romance and fantasy novels. Its impact on social media is more often through critical analysis and political commentary rather than enthusiastic book recommendations."
+    ],
+    "durationSeconds": 47.51752799199987
+  }
+}

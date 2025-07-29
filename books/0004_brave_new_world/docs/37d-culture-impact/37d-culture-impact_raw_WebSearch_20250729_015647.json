@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Brave New World 1998 TV movie Peter Gallagher Leonard Nimoy cast reviews reception Showtime"
+  },
+  "tool_response": {
+    "query": "Brave New World 1998 TV movie Peter Gallagher Leonard Nimoy cast reviews reception Showtime",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01N66B5F5PXYY5GCTR2DnVzK",
+        "content": [
+          {
+            "title": "Brave New World (TV Movie 1998) \u2b50 5.2 | Drama, Sci-Fi",
+            "url": "https://www.imdb.com/title/tt0145600/"
+          },
+          {
+            "title": "Brave New World | Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/m/brave-new-world"
+          },
+          {
+            "title": "Brave New World (1998 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World_(1998_film)"
+          },
+          {
+            "title": "Amazon.com: Brave New World : Peter Gallagher, Leonard Nimoy, Tim Guinee, Rya Kihlstedt, Sally Kirkland, Jacob Chase, Michael S O'Donnell, Patrick Dancy, Wendy Benson, Patrick J Dancy, Steven Flynn, Wendy Benson-Landes, Steven Schub, Miguel Ferrer, Daniel Dae Kim, Jacob Chacko, Katie Belgrave, Tasha Goldthwait, Jody Rennick, Lilliana Cabal, Kevin LaRosa, Mirron E. Willis, Deanne Carlin, Marlene Bush, Heather Morgan, Aron Eisenberg, Attallah Shabazz, Elizabeth Sandifer, Lea Llovio, Kelly Demartino, Angela Oh",
+            "url": "https://www.amazon.com/Brave-New-World-Leonard-Nimoy/dp/B00A44GNTE"
+          },
+          {
+            "title": "Brave New World (TV Movie 1998) - User reviews - IMDb",
+            "url": "https://www.imdb.com/title/tt0145600/reviews/"
+          },
+          {
+            "title": "Brave New World movie review",
+            "url": "http://www.ram.org/ramblings/movies/brave_new_world.html"
+          },
+          {
+            "title": "Brave New World (TV Movie 1998) - Full cast & crew - IMDb",
+            "url": "https://m.imdb.com/title/tt0145600/fullcredits/cast"
+          },
+          {
+            "title": "Brave New World (1998) - Plex",
+            "url": "https://watch.plex.tv/movie/brave-new-world"
+          },
+          {
+            "title": "\u200eBrave New World (1998) directed by Leslie Libman, Larry Williams \u2022 Reviews, film + cast \u2022 Letterboxd",
+            "url": "https://letterboxd.com/film/brave-new-world-1998/"
+          },
+          {
+            "title": "Brave New World (TV) (1998) - FilmAffinity",
+            "url": "https://www.filmaffinity.com/en/film294860.html"
+          }
+        ]
+      },
+      "Based on the search results, I found comprehensive information about the 1998 TV movie adaptation of \"Brave New World.\" Here's what I found about the cast, reviews, and reception:\n\n## Basic Information\nBrave New World is a 1998 television movie loosely based on Aldous Huxley's 1932 novel of the same name. The film stars Peter Gallagher and Leonard Nimoy. The film aired on NBC on April 19, 1998.\n\n## Cast\nThe main cast included:\n- Peter Gallagher as Bernard Marx\n- Leonard Nimoy as Mustapha Mond\n- Tim Guinee as John Cooper\n- Rya Kihlstedt as Lenina Crowne\n- Sally Kirkland as Linda\n- Miguel Ferrer as Director of Hatcheries and Conditioning\n\n## Critical Reception\nThe film received mixed to negative reviews:\n\n**IMDb Rating**: The film has a 5.2 rating on IMDb\n\n**Professional Reviews**: \nA New York Magazine/Vulture review noted: \"With its nap-time whispers, theme-park slogans, virtual-reality 'feelies,' pervasive scent and community sings, this brave new cloud chamber could have been fabricated from the Spam in our e-mail.\"\n\n**Negative Reviews**:\n- One reviewer called it \"one of the worst if not the worst adaptations of a book I have ever seen. This film is garbage in every direction. Horrid acting, worse direction, bad storytelling, awful visuals\"\n- Critics noted that \"the acting and directing are poor, and the sets are cheesy\"\n- Peter Gallagher was criticized as being \"pretty bland and didn't really do anything for me in the lead\"\n\n**Positive Reviews**:\n- Some viewers praised that \"The acting performances are good and Nimoy is, as always, excellent\"\n- Leonard Nimoy specifically received praise: \"Leonard Nimoy did an excellent job in his hypocritical role!\"\n- One Amazon reviewer called it an \"Excellent rendition of the book as a movie! There was a bit added at the end, but the book was adeptly translated into a movie, and well worth watching\"\n\n## Overall Assessment\nThe adaptation was criticized because \"it departs in a number of ways from the book, various fans of the book have argued that this movie hardly does the book justice\", though some noted that \"Leonard Nimoy definitely fit the role he had in this movie well and actually helped make the film somewhat watchable. It's definitely more watchable than a lot of other made-for-TV movies.\"\n\nThe film appears to have been a typical made-for-TV production with mixed reception - praised by some for its performances (particularly Leonard Nimoy's) but criticized by others for poor production values and significant departures from Huxley's source material."
+    ],
+    "durationSeconds": 23.662978005000156
+  }
+}

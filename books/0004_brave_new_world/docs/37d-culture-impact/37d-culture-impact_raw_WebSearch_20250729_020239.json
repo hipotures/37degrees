@@ -1,0 +1,63 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Brave New World\" study guides educational resources SparkNotes CliffsNotes media literacy"
+  },
+  "tool_response": {
+    "query": "\"Brave New World\" study guides educational resources SparkNotes CliffsNotes media literacy",
+    "results": [
+      "I'll perform a web search for study guides and educational resources related to \"Brave New World\" including SparkNotes, CliffsNotes, and media literacy materials.",
+      {
+        "tool_use_id": "srvtoolu_01NYruu88cHLSdVRBS9sU6F6",
+        "content": [
+          {
+            "title": "Brave New World Study Guide | Literature Guide | LitCharts",
+            "url": "https://www.litcharts.com/lit/brave-new-world"
+          },
+          {
+            "title": "Brave New World: Study Guide | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/bravenew/"
+          },
+          {
+            "title": "Brave New World",
+            "url": "https://www.cliffsnotes.com/literature/b/brave-new-world/book-summary"
+          },
+          {
+            "title": "Brave New World Revisited Summary and Study Guide | SuperSummary",
+            "url": "https://www.supersummary.com/brave-new-world-revisited/summary/"
+          },
+          {
+            "title": "CliffsNotes on Huxley's Brave New World (Cliffsnotes Literature Guides): Higgins, Regina, Higgins, Charles: 9780764585838: Amazon.com: Books",
+            "url": "https://www.amazon.com/CliffsNotes-Huxleys-Cliffsnotes-Literature-Guides/dp/0764585835"
+          },
+          {
+            "title": "Brave New World Summary and Study Guide | SuperSummary",
+            "url": "https://www.supersummary.com/brave-new-world/summary/"
+          },
+          {
+            "title": "\"Brave New World\" (SparkNotes): Amazon.co.uk: Huxley, Aldous: 9781586633660: Books",
+            "url": "https://www.amazon.co.uk/Brave-New-World-SparkNotes/dp/158663366X"
+          },
+          {
+            "title": "Free Teaching Guide: Brave New World",
+            "url": "https://www.prestwickhouse.com/blog/post/2019/06/how-to-teach-brave-new-world"
+          },
+          {
+            "title": "Study Help Practice Projects - Brave New World",
+            "url": "https://www.cliffsnotes.com/literature/b/brave-new-world/study-help/practice-projects"
+          },
+          {
+            "title": "Unit 5: Brave New World Unit - Miss Thomson's English Class",
+            "url": "http://missthomsonsenglishclass.weebly.com/unit-5-brave-new-world-unit.html"
+          }
+        ]
+      },
+      "Based on the search results, I found several valuable educational resources for studying \"Brave New World\" by Aldous Huxley:\n\n## Major Study Guide Platforms\n\nFrom a general summary to chapter summaries to explanations of famous quotes, the SparkNotes Brave New World Study Guide has everything you need to ace quizzes, tests, and essays.(no content)The best study guide to Brave New World on the planet, from the creators of SparkNotes. The LitCharts platform offers comprehensive resources including in-depth summary and analysis of every chapter of Brave New World and explanations, analysis, and visualizations of Brave New World's themes along with important quotes, sortable by theme, character, or chapter.(no content)The new world in CliffsNotes on Brave New World is not a good place to be. Readers have used the word \"dystopia,\" meaning \"bad place,\" to describe Huxley's fictional world. But your experience studying this novel won't be bad at all when you rely on this study guide for help.\n\n## Alternative Study Resources\n\nA modern alternative to SparkNotes and CliffsNotes, SuperSummary offers high-quality Study Guides with detailed chapter summaries and analysis of major themes, characters, and more. For select classroom titles, we also provide Teaching Guides with discussion and quiz questions to prompt student engagement.\n\n## Educational Context and Themes\n\nThe novel is particularly relevant for media literacy education as Aldous Huxley's Brave New World, published in 1932, is a dystopian novel that envisions a future world where technology, conditioning, and a rigid caste system control every aspect of human life and explores themes of individuality, freedom, and the dehumanizing effects of a highly controlled and pleasure-driven culture while providing a stark critique of the potential consequences of unchecked technological and societal advancements.\n\n## Teaching Resources\n\nAldous Huxley's Brave New World has become an essential part of many high school curriculums, thanks to its satirical exploration of a dystopian society. The search revealed various teaching guides and classroom resources available from multiple educational platforms.\n\nThese resources collectively provide comprehensive support for studying \"Brave New World,\" covering everything from basic plot summaries to deep thematic analysis, making them valuable for both students and educators working with this classic dystopian novel."
+    ],
+    "durationSeconds": 23.501874445999974
+  }
+}

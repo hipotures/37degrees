@@ -1,0 +1,63 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Brave New World\" music references songs albums band names rock metal electronic"
+  },
+  "tool_response": {
+    "query": "\"Brave New World\" music references songs albums band names rock metal electronic",
+    "results": [
+      "I'll search for information about \"Brave New World\" references in music, including songs, albums, and band names across rock, metal, and electronic genres.",
+      {
+        "tool_use_id": "srvtoolu_01Q6HphKsAsRbNwv7VxJfgYf",
+        "content": [
+          {
+            "title": "Brave New World (Iron Maiden album) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World_(Iron_Maiden_album)"
+          },
+          {
+            "title": "Brave New World by Iron Maiden - Songfacts",
+            "url": "https://www.songfacts.com/facts/iron-maiden/brave-new-world"
+          },
+          {
+            "title": "BRAVE NEW WORLD discography and reviews",
+            "url": "https://www.progarchives.com/artist.asp?id=2620"
+          },
+          {
+            "title": "Brave New World | Metal Wiki | Fandom",
+            "url": "https://metal.fandom.com/wiki/Brave_New_World"
+          },
+          {
+            "title": "Brave New World (Styx album) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World_(Styx_album)"
+          },
+          {
+            "title": "Brave New World (Steve Miller Band album) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World_(Steve_Miller_Band_album)"
+          },
+          {
+            "title": "Brave New World (song) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World_(song)"
+          },
+          {
+            "title": "Brave New World Albums: songs, discography, biography, and listening guide - Rate Your Music",
+            "url": "https://rateyourmusic.com/artist/brave-new-world-2"
+          },
+          {
+            "title": "Iron Maiden's Prog-Soaked \"Brave New World\" Still Invincible 20 Years On",
+            "url": "https://www.invisibleoranges.com/iron-maiden-brave-new-world-20-year/"
+          },
+          {
+            "title": "25 Years Ago: Iron Maiden Release 'Brave New World'",
+            "url": "https://loudwire.com/iron-maiden-brave-new-world-anniversary/"
+          }
+        ]
+      },
+      "Based on my search results, I found several significant musical references to \"Brave New World\" across various genres. Here are the key findings:\n\n## Major Album Releases\n\n**Iron Maiden - Brave New World (2000)**\nIron Maiden's twelfth studio album, released on May 29, 2000, with both the album artwork and title song being references to Aldous Huxley's novel. This was a significant reunion album featuring the return of Bruce Dickinson and Adrian Smith.\n\n**Styx - Brave New World (1999)**\nStyx released their thirteenth studio album titled \"Brave New World\" in 1999, featuring drummer Todd Sucherman and being the last album with Dennis DeYoung.\n\n**Steve Miller Band - Brave New World (1969)**\nThe Steve Miller Band's third studio album from June 1969, which reached number 22 on the Billboard 200.\n\n## Progressive/Electronic Artists\n\n**Brave New World (German Krautrock Band)**\nA German Krautrock/Progressive Rock artist whose formation was specifically to create an instrumental interpretation of Aldous Huxley's novel, combining folk, psychedelic rock and electronics. Their unique sound featured wind instruments, peculiar percussion patterns, flute, saxophones and a stylophone giving their music a special otherworldly sound.\n\n## Individual Songs\n\n**Toyah - \"Brave New World\" (1982)**\nA song by English new wave band Toyah, released as a single in 1982, which reached the Top 40 in the UK, peaking at number 21.\n\n## Cultural Impact\n\nThe Iron Maiden song is based on Huxley's 1932 novel about a futuristic, totalitarian world, and Bruce Dickinson chose the title because he thought \"Brave New World\" was a cool title that sets up an enigma, then wrote the song about the book after rereading it.\n\nThe \"Brave New World\" title has clearly resonated across multiple genres - from heavy metal and progressive rock to new wave and Krautrock - demonstrating the lasting cultural impact of Huxley's dystopian vision on musical artists seeking to explore themes of technology, control, and the future of humanity."
+    ],
+    "durationSeconds": 20.854541598999873
+  }
+}

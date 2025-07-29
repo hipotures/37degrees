@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Brave New World\" visual interpretation design futuristic aesthetics 1980 1998 2020 comparison"
+  },
+  "tool_response": {
+    "query": "\"Brave New World\" visual interpretation design futuristic aesthetics 1980 1998 2020 comparison",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_018bSV9ZVCUJoQKCELLyJpeh",
+        "content": [
+          {
+            "title": "Designing Brave New World\u2019s futuristic dystopia meant going back to the \u201830s | SYFY WIRE",
+            "url": "https://www.syfy.com/syfy-wire/brave-new-world-dystopia-design"
+          },
+          {
+            "title": "Brave New World (1980 film) - Wikipedia",
+            "url": "https://en.m.wikipedia.org/wiki/Brave_New_World_(1980_film)"
+          },
+          {
+            "title": "Brave New World - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World"
+          },
+          {
+            "title": "Brave New World (TV Movie 1980) - User reviews - IMDb",
+            "url": "https://www.imdb.com/title/tt0080468/reviews/"
+          },
+          {
+            "title": "Brave New World: 10 Differences Between The Novel And The 1998 Movie",
+            "url": "https://screenrant.com/brave-new-world-differences-between-novel-and-1998-movie/"
+          },
+          {
+            "title": "Brave New World (Series) - TV Tropes",
+            "url": "https://tvtropes.org/pmwiki/pmwiki.php/Series/BraveNewWorld"
+          },
+          {
+            "title": "Brave New World (1998 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World_(1998_film)"
+          },
+          {
+            "title": "Brave New World (1980)\u2026finally a film which is more related with the book | Utopias & Dystopias",
+            "url": "https://openlab.citytech.cuny.edu/belli-sp2014-eng2000/2014/05/14/brave-new-world-1980-finally-a-film-which-is-more-related-with-the-book/"
+          },
+          {
+            "title": "Brave New World Aesthetic",
+            "url": "https://www.pinterest.com/ideas/brave-new-world-aesthetic/947119878512/"
+          },
+          {
+            "title": "A Search for a Brave New World Aesthetic \u2013 Artists & Climate Change",
+            "url": "https://artistsandclimatechange.com/2017/05/01/a-search-for-a-brave-new-world-aesthetic/"
+          }
+        ]
+      },
+      "Based on my search results, I found information about visual interpretations and design aesthetics of \"Brave New World\" across different adaptations from the years you mentioned. Here's what I discovered:\n\n## Visual Design Comparison Across Adaptations\n\n### 1980 Television Adaptation\nThe 1980 version was a television film directed by Burt Brinckerhoff for Universal Television and first shown on NBC on 7 March 1980.(no content)The production value is what you would expect from a made for television movie of the era, however, it's considered fairly good for a television production from this era.(no content)The film looks dated and would be boring for some.\n\n### 1998 Television Movie\nThe 1998 version was a television movie loosely based on Aldous Huxley's 1932 novel, starring Peter Gallagher and Leonard Nimoy, and aired on NBC on April 19, 1998.(no content)Reviewers noted that the 1980 version was \"far superior to the 1998 version.\"\n\n### 2020 Peacock Series - Design Philosophy\nThe 2020 adaptation took a distinctively different visual approach:\n\n\"We quite quickly agreed that it's not a sci-fi, Bladerunner, Matrix environment we were trying to convey,\" Production Designer David Lee tells SYFY WIRE. \"It's utopia.\"(no content)It quickly became apparent that Modernism \u2014 a clean and minimalistic architectural style which, it so happens, was becoming prominent in the 1930s when Huxley's book first came out \u2014 would be the main source of inspiration for New London.(no content)Lee cites famed architect Oscar Niemeyer's planned city of Bras\u00edlia, perhaps the closest real-life thing we have to New London on an aesthetic level, as their starting point.(no content)Lee says they also looked at Soviet monumental architecture, and \"tried to synthesize that into sculptural, sympathetic utopia.\" Modernism, Lee says, has a \"curvaceous, elegant quality that humans respond to.\" It feels at once both futuristic and, somehow, timeless.(no content)New London has a \"Crystal Spires and Togas\" aesthetic. All the buildings have sleek, futuristic looks and people dress in flowing garments while not at work.\n\n### Design Evolution and Aesthetic Philosophy\nThe 2020 version represents \"a 2020 imagining of the future based on a vision from the '30s.\" Lee says the design has nods to the \"retro\" nature of the source material, while costume designer Susie Coulthard bridged the gap between these two versions of the future, separated by nearly a century.\n\nThe search results show a clear evolution in visual interpretation: the 1980 and 1998 versions were constrained by television budgets and production limitations of their respective eras, while the 2020 adaptation consciously rejected typical sci-fi dystopian aesthetics in favor of a utopian modernist design philosophy that paradoxically referenced the 1930s when Huxley wrote the original novel."
+    ],
+    "durationSeconds": 24.519162916000003
+  }
+}

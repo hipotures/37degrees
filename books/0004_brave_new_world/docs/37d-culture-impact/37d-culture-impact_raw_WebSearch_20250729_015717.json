@@ -1,0 +1,154 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Brave New World\" film adaptations planned upcoming 2024 2025 Hollywood movie"
+  },
+  "tool_response": {
+    "query": "\"Brave New World\" film adaptations planned upcoming 2024 2025 Hollywood movie",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_0152fbGS6j93UZJVNHcjBuWb",
+        "content": [
+          {
+            "title": "Captain America: Brave New World - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Captain_America:_Brave_New_World"
+          },
+          {
+            "title": "Captain America: Brave New World (2025) | Cast, Release Date, Characters | Marvel",
+            "url": "https://www.marvel.com/movies/captain-america-brave-new-world"
+          },
+          {
+            "title": "Captain America: Brave New World | Marvel Cinematic Universe Wiki | Fandom",
+            "url": "https://marvelcinematicuniverse.fandom.com/wiki/Captain_America:_Brave_New_World"
+          },
+          {
+            "title": "Captain America: Brave New World (2025) \u2b50 5.6 | Action, Adventure, Sci-Fi",
+            "url": "https://www.imdb.com/title/tt14513804/"
+          },
+          {
+            "title": "Brave New World: Movie Adaptations | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/bravenew/movie-adaptations/"
+          },
+          {
+            "title": "All Major Film Release Dates for 2025, 2026, and Beyond",
+            "url": "https://discussingfilm.net/2024/05/16/all-major-film-release-dates-for-2025-2026-and-beyond"
+          },
+          {
+            "title": "Captain America: Brave New World Leads Fandango's Top 10 Most Anticipated Movies of 2025",
+            "url": "https://www.cbr.com/captain-america-brave-new-world-fandango-2025/"
+          },
+          {
+            "title": "Captain America: Brave New World (2025) Movie Information & Trailers | KinoCheck",
+            "url": "https://kinocheck.com/movie/l95/captain-america-brave-new-world-2025"
+          },
+          {
+            "title": "The Most-Anticipated Movies of 2025",
+            "url": "https://variety.com/lists/most-anticipated-movies-2025/captain-america-brave-new-world-feb-14"
+          },
+          {
+            "title": "2025 Movies: Release Dates For Most Anticipated Films",
+            "url": "https://deadline.com/lists/2025-movies/"
+          }
+        ]
+      },
+      "I notice that the search results are showing information about \"Captain America: Brave New World,\" which is not related to Aldous Huxley's novel \"Brave New World.\" Let me search specifically for Aldous Huxley's \"Brave New World\" film adaptations:",
+      {
+        "tool_use_id": "srvtoolu_01SCEbTazZCTUNCbUj6J6QWy",
+        "content": [
+          {
+            "title": "Brave New World (1998 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World_(1998_film)"
+          },
+          {
+            "title": "Brave New World (TV Movie 1998) \u2b50 5.2 | Drama, Sci-Fi",
+            "url": "https://www.imdb.com/title/tt0145600/"
+          },
+          {
+            "title": "Brave New World: Movie Adaptations | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/bravenew/movie-adaptations/"
+          },
+          {
+            "title": "Aldous Huxley and the Brave New World - Where to Watch and Stream - TV Guide",
+            "url": "https://www.tvguide.com/movies/aldous-huxley-and-the-brave-new-world/2060131918/"
+          },
+          {
+            "title": "Why Is It So Hard to Adapt 'Brave New World'?",
+            "url": "https://www.theringer.com/2020/07/15/movies/brave-new-world-adaptations-aldous-huxley-nbc-peacock"
+          },
+          {
+            "title": "Aldous Huxley - News - IMDb",
+            "url": "https://www.imdb.com/name/nm0404717/news/"
+          },
+          {
+            "title": "Brave New World (2023) | Sci-Fi",
+            "url": "https://www.imdb.com/title/tt28624375/"
+          },
+          {
+            "title": "'Brave New World' Drama Based On Aldous Huxley Novel Moves From Syfy To USA With Series Order",
+            "url": "https://deadline.com/2019/02/brave-new-world-aldous-huxley-novel-straight-to-series-order-usa-network-1202556071/"
+          },
+          {
+            "title": "Brave New World (TV Movie 1980) \u2b50 6.5 | Drama, Sci-Fi",
+            "url": "https://www.imdb.com/title/tt0080468/"
+          },
+          {
+            "title": "Brave New World (1980 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World_(1980_film)"
+          }
+        ]
+      },
+      "Let me search for any recent or upcoming film projects based on Aldous Huxley's novel:",
+      {
+        "tool_use_id": "srvtoolu_012X8XzXAhqa3QK5NXBxmNmq",
+        "content": [
+          {
+            "title": "Aldous Huxley - News - IMDb",
+            "url": "https://www.imdb.com/name/nm0404717/news/"
+          },
+          {
+            "title": "Aldous Huxley and the Brave New World - Where to Watch and Stream - TV Guide",
+            "url": "https://www.tvguide.com/movies/aldous-huxley-and-the-brave-new-world/2060131918/"
+          },
+          {
+            "title": "Captain America: Brave New World - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Captain_America:_Brave_New_World"
+          },
+          {
+            "title": "Aldous Huxley and the Brave New World streaming",
+            "url": "https://www.justwatch.com/us/movie/aldous-huxley-and-the-brave-new-world"
+          },
+          {
+            "title": "Brave New World (TV Movie 1998) \u2b50 5.2 | Drama, Sci-Fi",
+            "url": "https://www.imdb.com/title/tt0145600/"
+          },
+          {
+            "title": "Brave New World (1998 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World_(1998_film)"
+          },
+          {
+            "title": "'Brave New World' Drama Based On Aldous Huxley Novel Moves From Syfy To USA With Series Order",
+            "url": "https://deadline.com/2019/02/brave-new-world-aldous-huxley-novel-straight-to-series-order-usa-network-1202556071/"
+          },
+          {
+            "title": "Captain America: Brave New World (2025) | Cast, Release Date, Characters | Marvel",
+            "url": "https://www.marvel.com/movies/captain-america-brave-new-world"
+          },
+          {
+            "title": "Amazon.com: Aldous Huxley And The Brave New World : Chris M. Harvey: Movies & TV",
+            "url": "https://www.amazon.com/Aldous-Huxley-Brave-New-World/dp/B085KBSW4J"
+          },
+          {
+            "title": "Brave New World (TV series) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World_(TV_series)"
+          }
+        ]
+      },
+      "Based on my web search results, I can provide you with information about Aldous Huxley's \"Brave New World\" film adaptations for 2024-2025:\n\n## Search Results for \"Brave New World\" Film Adaptations (2024-2025)\n\nBased on my search, there are **no new Hollywood film adaptations** of Aldous Huxley's classic 1932 novel \"Brave New World\" planned or released in 2024-2025.\n\n### Past Adaptations:\n\nThe most recent film adaptation was a 1998 television movie that aired on NBC on April 19, 1998, starring Peter Gallagher and Leonard Nimoy. It received poor reviews when it was broadcast.\n\nThere was also an American television film first shown in 1980 that was an adaptation of the 1932 novel by Aldous Huxley.\n\n### Recent TV Series:\n\nThere was an American science fiction drama television series loosely based on the novel that premiered on July 15, 2020, on NBCUniversal's streaming service Peacock. However, the series was cancelled after one season in October 2020.\n\n### Development History:\n\nIn the late 2000s, Brave New World seemed likely to become a feature film starring Leonardo DiCaprio and directed by Ridley Scott, but this project never materialized.\n\n### Note on Title Confusion:\n\nThe search results show many references to \"Captain America: Brave New World,\" which is a Marvel superhero film that was released in the United States on February 14, 2025. This film is not related to Aldous Huxley's novel, despite sharing the \"Brave New World\" title.\n\n**Conclusion:** There are currently no confirmed Hollywood film adaptations of Aldous Huxley's \"Brave New World\" in development for 2024-2025."
+    ],
+    "durationSeconds": 25.3115879230001
+  }
+}

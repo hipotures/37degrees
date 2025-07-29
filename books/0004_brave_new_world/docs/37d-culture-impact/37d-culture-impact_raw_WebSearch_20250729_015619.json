@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Brave New World 1980 TV movie adaptation Bud Cort cast reception reviews"
+  },
+  "tool_response": {
+    "query": "Brave New World 1980 TV movie adaptation Bud Cort cast reception reviews",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_011zgT2TvDBm3UJ8r9pNTPBJ",
+        "content": [
+          {
+            "title": "Brave New World (TV Movie 1980) \u2b50 6.5 | Drama, Sci-Fi",
+            "url": "https://www.imdb.com/title/tt0080468/"
+          },
+          {
+            "title": "Brave New World (1980 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World_(1980_film)"
+          },
+          {
+            "title": "\u200eBrave New World (1980) directed by Burt Brinckerhoff \u2022 Reviews, film + cast \u2022 Letterboxd",
+            "url": "https://letterboxd.com/film/brave-new-world/"
+          },
+          {
+            "title": "Brave New World: Movie Adaptations | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/bravenew/movie-adaptations/"
+          },
+          {
+            "title": "Brave New World (TV) (1980) - FilmAffinity",
+            "url": "https://www.filmaffinity.com/us/film313539.html"
+          },
+          {
+            "title": "Brave New World | Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/m/brave-new-world-ravaged-planet"
+          },
+          {
+            "title": "Brave New World (TV Movie 1980) - User reviews - IMDb",
+            "url": "https://www.imdb.com/title/tt0080468/reviews/"
+          },
+          {
+            "title": "Brave New World (1980) - Turner Classic Movies",
+            "url": "https://www.tcm.com/tcmdb/title/71171/brave-new-world"
+          },
+          {
+            "title": "Brave New World (TV Movie 1998) \u2b50 5.2 | Drama, Sci-Fi",
+            "url": "https://www.imdb.com/title/tt0145600/"
+          },
+          {
+            "title": "Reviews: Brave New World - IMDb",
+            "url": "https://m.imdb.com/title/tt0080468/reviews"
+          }
+        ]
+      },
+      "Based on the search results, here's what I found about the 1980 TV movie adaptation of \"Brave New World\" with information about Bud Cort and its cast and reception:\n\n## Basic Information\nThe 1980 TV adaptation of \"Brave New World\" was directed by Burt Brinckerhoff for Universal Television and first shown on NBC on March 7, 1980.(no content)The screen adaptation was written by Doran William Cannon.(no content)Originally 4 hours long, it was cut down to three hours before being televised.\n\n## Cast\nThe notable cast included Kristoffer Tabori, Bud Cort, and Marcia Strassman.(no content)Other cast members included Julie Cobb, Keir Dullea, Ron O'Neal, Dick Anthony Williams, Jonelle Allen, Jeannetta Arnette, Valerie Curtin, and Tricia O'Neil.\n\n### Bud Cort's Performance\nBud Cort played the role of quirky malcontent Bernard Marx. Several reviews specifically praised his performance:\n\n- One reviewer noted that \"The one highlight of finally getting to see this movie for me was seeing a young Bud Cort.\"\n- Another reviewer commented: \"The one highlight of finally getting to see this movie for me was seeing a young Bud Cort. His portrayal of a shy and tortured Alpha Plus Bernard Marx was quirky and fascinating to watch.\"\n- One critic mentioned it was \"a T.V. movie to be sure, with a crappy low-budget and production value of a modern Youtube video, and yet, with Bud Cort, you have to check it out...\"\n\n## Reception and Reviews\nThe adaptation received mixed reviews:\n\n### Positive Aspects:\n- This adaptation received mixed reviews when it was broadcast and is now somewhat dated. However, it is quite faithful to Huxley's story and makes some intelligent additions to the world Huxley imagined.\n- One reviewer praised it as \"the closest that any movie gets to the heart of what Aldous Huxley was trying to communicate.\"\n- Another reviewer called it a \"Pretty solid adaptation. Has a cheapness to it but it followed the book relatively closely and for a made for tv movie the acting was pretty decent.\"\n\n### Critical Reception:\n- TCM found the film ambitious but tedious, confusing and ultimately unsuccessful.\n- TCM described it as \"An ambitious but confusing and unsuccessful attempt to translate the satirical Aldous Huxley novel of a futuristic society.\"\n- Despite criticisms of \"wobbly sets,\" \"Buck Rogers style acting,\" and the \"made for television feel,\" some viewers still found it \"an awesome movie.\"\n\n## Production Quality\nThe low budget was frequently mentioned:\n- Reviewers noted it was \"naturally a low-budget TV version, but it's long enough to go into the themes of the book in some depth, and follows the plot and dialogue accurately enough.\"\n- Some viewers appreciated that \"It felt more like a stage adaptation than film, and once you embrace that you can really appreciate the performances.\"\n\nThe 1980 adaptation appears to be remembered as a faithful but low-budget attempt that succeeded in capturing Huxley's themes despite its technical limitations, with Bud Cort's performance being particularly noted by viewers."
+    ],
+    "durationSeconds": 27.136827622999903
+  }
+}

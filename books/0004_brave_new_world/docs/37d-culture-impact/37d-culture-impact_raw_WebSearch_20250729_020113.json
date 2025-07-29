@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Brave New World\" school curriculum high school college literature curriculum education"
+  },
+  "tool_response": {
+    "query": "\"Brave New World\" school curriculum high school college literature curriculum education",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01PQWaKDhM7KyfQ2jToLbKxP",
+        "content": [
+          {
+            "title": "How to Teach Brave New World | Prestwick House",
+            "url": "https://www.prestwickhouse.com/blog/post/2019/06/how-to-teach-brave-new-world"
+          },
+          {
+            "title": "The Novel Unit - Brave New World | OER Commons",
+            "url": "https://oercommons.org/courseware/lesson/84238/overview"
+          },
+          {
+            "title": "BRAVE NEW WORLD Unit Plan and Lessons - TeachNovels.com",
+            "url": "https://teachnovels.com/brave-new-world-unit-plan-high-school-pdf-common-core-lesson/"
+          },
+          {
+            "title": "Brave New World Curriculum Guide | Literary Focus",
+            "url": "https://www.literaryfocus.org/product-page/brave-new-world-curriculum-guide"
+          },
+          {
+            "title": "Brave New World Unit Study - Prairie & Pine Curriculum",
+            "url": "https://prairieandpinecurriculum.com/products/brave-new-world-unit-study-proceed-with-caution-high-school-1st-edition-clearance"
+          },
+          {
+            "title": "Informational Texts & Poems to Pair with Brave New World by Aldous Huxley| CommonLit",
+            "url": "https://www.commonlit.org/blog/curated-lesson-plans-to-bravely-support-students-analysis-of-aldous-huxleys-brave-new-world/"
+          },
+          {
+            "title": "\"brave new world\" | TPT",
+            "url": "https://www.teacherspayteachers.com/browse?search=%22brave+new+world%22"
+          },
+          {
+            "title": "Brave new world unit | TPT",
+            "url": "https://www.teacherspayteachers.com/browse?search=brave+new+world+unit"
+          },
+          {
+            "title": "Brave New World",
+            "url": "https://rivercity.wusd.k12.ca.us/subsites/Brandon-Duff/documents/Expository-Reading-and-Writing-Course/Modules/Brave-New-World/Student%20Version.pdf"
+          },
+          {
+            "title": "A Brave New World Requires Courage: New Directions for Literacy Research and Teaching | ncte.org",
+            "url": "https://publicationsncte.org/content/journals/10.58680/rte202332608?crawler=true"
+          }
+        ]
+      },
+      "Based on my search results, here's what I found about \"Brave New World\" in educational curricula:\n\n## Usage in High School and College Literature Curricula\n\n\"Brave New World\" has become an essential part of many high school curriculums, thanks to its satirical exploration of a dystopian society. The novel is widely taught across different educational levels:\n\n### High School Implementation\n\"Brave New World\" is an excellent text for AP Literature, general, or honors students. Many educational resources are specifically designed for high school students, with detailed unit studies that offer critical analysis, engaging activities, and thought-provoking questions that challenge readers to explore themes of technology, control, and individuality.\n\n### Educational Approaches and Resources\nThe novel is taught through various comprehensive approaches:\n\n- **Unit Studies**: Lessons align to the Common Core standards for reading literature, reading informational texts, speaking and listening, and writing.\n\n- **Cross-Curricular Learning**: Whether as an established part of ELA curriculum or taught for the first time, educational programs support students' engagement and reading comprehension, providing multiple texts to build student knowledge around dystopian literature and psychological understandings of herd behavior.\n\n- **Comparative Literature**: Students are invited to explore the genre further with dystopian literature text sets or more dystopian novel pairings like 1984 and Fahrenheit 451.\n\n### Contemporary Relevance\nFirst published over 90 years ago, Huxley's novel still provides a mirror for contemporary society, inviting readers to consider large themes such as unity, freedom, and identity.(no content)High school ELA students are fascinated by the connections they can make between the novel and our own society.\n\nThe search results show that \"Brave New World\" is extensively integrated into both high school and college literature curricula, with numerous educational publishers, curriculum developers, and teachers creating comprehensive teaching materials and unit studies specifically designed around this classic dystopian novel."
+    ],
+    "durationSeconds": 19.054889221999794
+  }
+}

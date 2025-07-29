@@ -13,10 +13,13 @@ Generate complete research documentation for the specified book.
 </objective>
 
 <prerequisites>
-VERIFY these conditions before starting:
-1. Working directory contains "books" folder
-2. Book folder exists in books/NNNN_book_name format
-3. User has permission to create/modify files
+VARIABLES used in this workflow:
+- ${book_folder_path} = books/NNNN_book_name (e.g., books/0004_brave_new_world)
+- ${book_folder_name} = NNNN_book_name (e.g., 0004_brave_new_world)  
+- ${agent_name} = 37d-agent-type (e.g., 37d-facts-hunter, 37d-symbol-analyst)
+- ${book_title} = extracted from book.yaml
+- ${author} = extracted from book.yaml
+- ${year} = extracted from book.yaml
 </prerequisites>
 
 <workflow>
@@ -25,6 +28,7 @@ VERIFY these conditions before starting:
 
 <instructions>
 1.1. PARSE book title from user input
+1.2  EXECUTE Bash command: ln -s ../../../docs/agents books/${book_folder_path}/docs/agents
 1.2. EXECUTE Bash command: cd ${book_folder_path}
 1.3. EXECUTE Bash command: pwd (verify you are in book directory)
 1.4. READ book.yaml to confirm book metadata

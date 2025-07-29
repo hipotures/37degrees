@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Peacock \"Brave New World\" TV series 2020 cancelled visual aesthetics production design reviews"
+  },
+  "tool_response": {
+    "query": "Peacock \"Brave New World\" TV series 2020 cancelled visual aesthetics production design reviews",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_018yXLGWBZsr2NaGRiTxKbua",
+        "content": [
+          {
+            "title": "TV REVIEW: Brave New World (Peacock, 2020) | by Shaun Watson | Medium",
+            "url": "https://swatson7856.medium.com/tv-review-brave-new-world-peacock-2020-4925f8c9e186"
+          },
+          {
+            "title": "Brave New World Review: The Weirdest, Coolest, and Most Timely Show of the Summer - ComicBook.com",
+            "url": "https://comicbook.com/tv-shows/news/brave-new-world-tv-show-spoilers-review-peacock/"
+          },
+          {
+            "title": "Brave New World: Season 1 | Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/tv/brave_new_world/s01"
+          },
+          {
+            "title": "'Brave New World' Canceled By Peacock After One Season",
+            "url": "https://deadline.com/2020/10/brave-new-world-canceled-peacock-one-season-1234603893/"
+          },
+          {
+            "title": "Brave New World (TV Series 2020) \u2b50 7.0 | Drama, Sci-Fi, Thriller",
+            "url": "https://www.imdb.com/title/tt9814116/"
+          },
+          {
+            "title": "Brave New World reviews hail Peacock original series' take on dystopia",
+            "url": "https://www.syfy.com/syfy-wire/brave-new-world-peacock-reviews"
+          },
+          {
+            "title": "Brave New World (TV Series 2020) - User reviews - IMDb",
+            "url": "https://www.imdb.com/title/tt9814116/reviews/"
+          },
+          {
+            "title": "Brave New World Canceled at Peacock, Shopping New Home",
+            "url": "https://www.cbr.com/brave-new-world-canceled-at-peacock/"
+          },
+          {
+            "title": "Peacock Kills A \"Brave New World\" - IMDb",
+            "url": "https://www.imdb.com/news/ni63075420/"
+          },
+          {
+            "title": "Brave New World Review: Peacock's Sci-Fi Adaptation Strips the Meaning From a Classic Novel - TV Guide",
+            "url": "https://www.tvguide.com/news/brave-new-world-review-peacock-nbc-streaming/"
+          }
+        ]
+      },
+      "Based on my search results, here's what I found about Peacock's \"Brave New World\" TV series from 2020, including information about its cancellation and reviews of its visual aesthetics and production design:\n\n## Cancellation\n\nPeacock officially opted not to proceed with a second season of Brave New World, with the announcement made in October 2020. UCP, the studio behind the sci-fi drama series, decided to shop it to other outlets, though the series has yet to find a new home.\n\nBrave New World was part of Peacock's inaugural original slate and the only homegrown scripted series available at launch in July, but the big-budget drama did not generate a lot of buzz among critics and fans.\n\n## Visual Aesthetics and Production Design Reviews\n\nThe series received notably positive praise for its visual elements:\n\n### Positive Visual Reviews\nThe costumes and fashion are arguably one of the biggest strengths of the series, giving the bland, pastel-hued world of New London an envy-inducing sartorial flair. The series' cinematography and set design also play off of this brilliantly, with certain sequences being bathed in truly striking primary colors.\n\nPractical effects were amazing \u2014 costume design, lighting and set design were great, though some of the CG was dodgy.\n\nThe understated yet striking aesthetic is reminiscent of Gattaca, and critics noted that it is engaging and provoking thanks to its rich source material, lively performances, and smart decisions about plotting, world-building, and art direction.\n\nThe dialogue, the acting, the camera work, the visual effects, the soundtrack, the sets and costumes, the seamless editing... Great production design, sound, music make this a terrific viewing experience.\n\n### Mixed Critical Reception\nTo the likely dismay of Huxley purists, Peacock's Brave New World is sexy, gorgeous, and exciting, a feast of visual and sensory delights.\n\nHowever, some critics found the aesthetics less impressive: The Aesthetic and set design is somewhat unimaginative visually.\n\n## Production Details\nThe series, whose Season 1 budget is said to be close to $100 million, and the series was shot at the Llanharan's Dragon Film Studios in Wales, in addition to certain other real world locations serving as exteriors, both for New London and Savageland edited in such a way as to be futuristic.\n\nOverall, while the show was cancelled after one season, it received considerable praise for its visual production values, costume design, and cinematography, even from critics who had other issues with the adaptation."
+    ],
+    "durationSeconds": 23.607829639999895
+  }
+}
