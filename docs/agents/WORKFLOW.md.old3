@@ -73,26 +73,21 @@ WHILE FILE TODO contains tasks marked [ ]:
 </instructions>
 
 <search-strategy>
-SINGLE SEARCH APPROACH:
-- Craft ONE well-constructed query per task
-- Include: book title + author + specific aspect from task
+INITIAL SEARCH:
+- Include book title + author + specific aspect
 - Use quotes for exact phrases
 - Add year if historically relevant
 
-WHEN TO DO SECOND SEARCH (exceptional cases):
-Do second search ONLY when:
-1. First search returned ≤2 sources total
-   OR
-2. Search results contain only generic/Wikipedia pages with no specific information
+REFINEMENT STRATEGIES:
+- Add synonyms or related terms
+- Try different language if applicable (e.g., Polish terms)
+- Search for academic sources specifically
+- Look for primary sources or first-hand accounts
 
-IF doing second search:
-- Completely rephrase the query
-- Try different keywords or approach
-- Maximum 2 searches total per task
-
-DEFAULT BEHAVIOR:
-- If search returns 3+ relevant sources → mark [x] and move on
-- If no useful results after max 2 attempts → mark [0]
+WHEN TO STOP:
+- After 3-4 search attempts with variations
+- When diminishing returns on new information
+- When query becomes too broad or speculative
 </search-strategy>
 
 NOTE: The 37d-save-search.py hook automatically saves all WebSearch/WebFetch 

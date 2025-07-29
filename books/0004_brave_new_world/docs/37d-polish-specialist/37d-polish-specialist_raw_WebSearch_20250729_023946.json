@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Nowy wspania\u0142y \u015bwiat\" forum dyskusja Lubimyczyta\u0107 polscy czytelnicy opinie"
+  },
+  "tool_response": {
+    "query": "\"Nowy wspania\u0142y \u015bwiat\" forum dyskusja Lubimyczyta\u0107 polscy czytelnicy opinie",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_015npNf63NVfJTVNrG5gZjNP",
+        "content": [
+          {
+            "title": "Kr\u00f3tka recenzja + r\u00f3\u017cnice pomi\u0119dzy serialem a ksi\u0105\u017ck\u0105. - Nowy wspania\u0142y \u015bwiat - Forum - Filmweb",
+            "url": "https://www.filmweb.pl/serial/Nowy+wspania%C5%82y+%C5%9Bwiat-2020-833866/discussion/Kr%C3%B3tka+recenzja+++r%C3%B3%C5%BCnice+pomi%C4%99dzy+serialem+a+ksi%C4%85%C5%BCk%C4%85.,3181983"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Aldous Huxley | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5043467/nowy-wspanialy-swiat"
+          },
+          {
+            "title": "Cytaty z tagiem nowy wspania\u0142y \u015bwiat - Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/cytaty/t/nowy wspania\u0142y \u015bwiat"
+          },
+          {
+            "title": "Dyskusje o ksi\u0105\u017cce Nowy wspania\u0142y \u015bwiat | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/ksiazka/48445/nowy-wspanialy-swiat/dyskusje"
+          },
+          {
+            "title": "Film Nowy wspania\u0142y \u015bwiat - Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/ekranizacja/2468/nowy-wspanialy-swiat"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat 30 lat p\u00f3\u017aniej. Raport rozbie\u017cno\u015bci - Aldous Huxley | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/4848863/nowy-wspanialy-swiat-30-lat-pozniej-raport-rozbieznosci"
+          },
+          {
+            "title": "Ksi\u0105\u017cka Nowy wspania\u0142y \u015bwiat - Ceny i opinie - Ceneo.pl",
+            "url": "https://www.ceneo.pl/7641288"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat Aldous Huxley ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/nowy-wspanialy-swiat-aldous-huxley"
+          },
+          {
+            "title": "Forum, dyskusje, opinie - Sezon serial - Nowy wspania\u0142y \u015bwiat (2020) - Filmweb",
+            "url": "https://www.filmweb.pl/serial/Nowy+wspania%C5%82y+%C5%9Bwiat-2020-833866/season/1/discussion"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - om\u00f3wienie",
+            "url": "https://3telnia.pl/nowy-wspanialy-swiat-omowienie/"
+          }
+        ]
+      },
+      "Oto wyniki wyszukiwania dla zapytania dotycz\u0105cego dyskusji o \"Nowym wspania\u0142ym \u015bwiecie\" na polskich forach i w opinach czytelnik\u00f3w:\n\n## G\u0142\u00f3wne \u017ar\u00f3d\u0142a dyskusji polskich czytelnik\u00f3w\n\n**Lubimyczyta\u0107.pl** - g\u0142\u00f3wna polska platforma dla mi\u0142o\u015bnik\u00f3w ksi\u0105\u017cek, gdzie \"Nowy wspania\u0142y \u015bwiat\" to jedna z najs\u0142ynniejszych antyutopii w literaturze XX wieku, a przedstawiona wizja przysz\u0142ego spo\u0142ecze\u0144stwa jest opisywana jako przera\u017caj\u0105ca.(no content)Na portalu Lubimyczyta\u0107.pl dost\u0119pna jest dedykowana sekcja dyskusji o ksi\u0105\u017cce \"Nowy wspania\u0142y \u015bwiat\", gdzie czytelnicy mog\u0105 wymienia\u0107 si\u0119 opiniami.\n\n## Opinie polskich czytelnik\u00f3w\n\n### Pozytywne oceny:\nJeden z czytelnik\u00f3w opisuje \"Nowy wspania\u0142y \u015bwiat\" jako swoj\u0105 ulubion\u0105 ksi\u0105\u017ck\u0119, kt\u00f3ra \"zdecydowanie zmieni\u0142a spojrzenie na niekt\u00f3re sprawy i ka\u017cdy z talentem do autorefleksji powinien po ni\u0105 si\u0119gn\u0105\u0107\".(no content)Inna czytelniczka zauwa\u017ca: \"To jest jedna z tych ksi\u0105\u017cek, kt\u00f3re daj\u0105 do my\u015blenia. O, wspania\u0142y \u015bwiecie.... Czy ten \u015bwiat nie jest idealny? Mo\u017ce na pierwszy rzut oka tak, ale czy \u015bwiat bez wolno\u015bci, bez uczu\u0107 i przywi\u0105zania jest warty prze\u017cycia?\"\n\n### Krytyczne spojrzenie:\nJeden z czytelnik\u00f3w wyrazi\u0142 rozczarowanie autorem: \"Aldous Huxley bardzo zmala\u0142 w moich oczach, po tym jak przeczyta\u0142em t\u0119 pozycj\u0119. Wcze\u015bniej uwa\u017ca\u0142em go za wizjonera i geniusza humanizmu\", por\u00f3wnuj\u0105c go do \"Korwina humanizmu\".\n\n### Oceny statystyczne:\nKsi\u0105\u017cka otrzyma\u0142a \u015bredni\u0105 ocen\u0119 7.7 na 10 i ponad 23 tysi\u0105ce recenzji, co pokazuje jak popularna jest powie\u015b\u0107, kt\u00f3ra nadal inspiruje do my\u015blenia o \u017cyciu i przysz\u0142o\u015bci.\n\n## Dyskusje o adaptacjach\n\nNa Filmweb.pl polscy widzowie dyskutuj\u0105 r\u00f3wnie\u017c o serialowej adaptacji - jeden z u\u017cytkownik\u00f3w napisa\u0142: \"Na serial czeka\u0142em z du\u017c\u0105 nadziej\u0105. Lubi\u0119 dzie\u0142a Huxleya... serial spe\u0142ni\u0142 moje oczekiwania\" i pocz\u0105tkowo da\u0142 serialowi ocen\u0119 8, ale ko\u0144c\u00f3wka mu si\u0119 szczeg\u00f3lnie spodoba\u0142a.(no content)Inni czytelnicy s\u0105 bardziej sceptyczni wobec ekranizacji: \"Ksi\u0105\u017cka mi si\u0119 podoba\u0142a, natomiast filmy z tego co widz\u0119 s\u0105 dwa i maj\u0105 fatalne oceny... Jest te\u017c chyba serial, kt\u00f3ry nawet nie zosta\u0142 doko\u0144czony... Poczekam na lepsz\u0105 adaptacj\u0119 filmow\u0105\".\n\nPolscy czytelnicy aktywnie dyskutuj\u0105 o tej klasycznej antyutopii, doceniaj\u0105c jej aktualno\u015b\u0107 i wp\u0142yw na my\u015blenie o wsp\u00f3\u0142czesnym \u015bwiecie, cho\u0107 opinie s\u0105 podzielone co do niekt\u00f3rych aspekt\u00f3w dzie\u0142a i jego adaptacji."
+    ],
+    "durationSeconds": 27.13546823099954
+  }
+}

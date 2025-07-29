@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "American Library Association \"Brave New World\" challenged books 2010 ranking #3"
+  },
+  "tool_response": {
+    "query": "American Library Association \"Brave New World\" challenged books 2010 ranking #3",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_011mk5BNCW1q1DsYGokMemBr",
+        "content": [
+          {
+            "title": "Aldous Huxley, \u201cBrave New World\u201d \u2013 The Banned Books Project",
+            "url": "https://bannedbooks.library.cmu.edu/aldous-huxley-brave-new-world/"
+          },
+          {
+            "title": "Brave New World - Wikipedia",
+            "url": "https://en.m.wikipedia.org/wiki/Brave_New_World"
+          },
+          {
+            "title": "Top 10 and Frequently Challenged Books Archive | Banned Books",
+            "url": "https://www.ala.org/bbooks/frequentlychallengedbooks/top10/archive"
+          },
+          {
+            "title": "Frequently Challenged Young Adult Books | Banned Books",
+            "url": "https://www.ala.org/bbooks/frequentlychallengedbooks/YAbooks"
+          },
+          {
+            "title": "ALA | Banned and/or Challenged Books from the Radcliffe Publishing Course Top 100 Novels of the 20th Century",
+            "url": "https://www.ala.org/Template.cfm?Section=bbwlinks&Template+?ContentManagement/ContentDisplay..cfm=&ContentID=136590"
+          },
+          {
+            "title": "Intro - Brave New World - LibGuides at COM Library",
+            "url": "https://libguides.com.edu/BraveNew"
+          },
+          {
+            "title": "Banned Books 2015 - Brave New World - Marshall Libraries",
+            "url": "https://www.marshall.edu/library/bannedbooks/brave-new-world/"
+          },
+          {
+            "title": "American Library Association Releases Preliminary Data on 2023 Book Challenges | ALA",
+            "url": "https://www.ala.org/news/2016/09/american-library-association-releases-preliminary-data-2023-book-challenges"
+          },
+          {
+            "title": "Brave New World by Aldous Huxley \u2013 Classics of Science Fiction",
+            "url": "https://classicsofsciencefiction.com/2020/01/11/brave-new-world-by-aldous-huxley/"
+          },
+          {
+            "title": "2012 State of America\u2019s Library Report shows free access to information in jeopardy | ALA",
+            "url": "https://www.ala.org/news/2012/04/2012-state-americas-library-report-shows-free-access-information-jeopardy"
+          }
+        ]
+      },
+      "Based on my search results, I can confirm that Brave New World by Aldous Huxley was indeed ranked #3 on the American Library Association's 2010 list of most challenged books.\n\nThe search results provide comprehensive information about this ranking and the reasons for challenges:\n\n**2010 Ranking**: Brave New World landed on the list of the top ten most challenged books in 2010 at position #3 and also in 2011 at position #7.\n\n**Reasons for Challenges**: According to the American Library Association, Brave New World has frequently been banned and challenged in the United States due to insensitivity, offensive language, nudity, racism, drug use, conflict with a religious viewpoint, and being sexually explicit.\n\n**Historical Context**: The book also secured a spot on the association's list of the top one hundred challenged books for 1990\u20131999 (54), 2000\u20132009 (36), and 2010\u20132019 (26), showing its consistent presence on challenged books lists across multiple decades.\n\nThe novel continues to face challenges in schools and libraries across the United States, with various communities citing concerns about its content related to sexuality, drug use, and anti-religious themes."
+    ],
+    "durationSeconds": 13.319161883999593
+  }
+}

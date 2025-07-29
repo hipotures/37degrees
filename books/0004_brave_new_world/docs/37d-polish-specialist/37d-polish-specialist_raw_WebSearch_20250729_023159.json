@@ -1,0 +1,122 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Nowy wspania\u0142y \u015bwiat\" polska rodzina katolicka warto\u015bci rodzinne kontrast"
+  },
+  "tool_response": {
+    "query": "\"Nowy wspania\u0142y \u015bwiat\" polska rodzina katolicka warto\u015bci rodzinne kontrast",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01527QtkAp6iV7S2jFRC7qRF",
+        "content": [
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat\u2026?, prof. \u0141ukasz Gacek - GrubyTom.pl",
+            "url": "https://www.grubytom.pl/naukowe/geopolityka/nowy-wspanialy-swiat"
+          },
+          {
+            "title": "Polska | Scenariusze w Civilization V Nowy Wspania\u0142y \u015awiat - Sid Meier's Civilization V: Nowy Wspania\u0142y \u015awiat - poradnik do gry | GRYOnline.pl",
+            "url": "https://www.gry-online.pl/poradniki/sid-meiers-civilization-v-nowy-wspanialy-swiat/polska/z5f7a7"
+          }
+        ]
+      },
+      "The search results I found don't seem to be directly related to the specific query about \"Nowy wspania\u0142y \u015bwiat\" (Brave New World) in the context of Polish Catholic families and family values. The results are about geopolitics and a video game guide. Let me search more specifically for content about Aldous Huxley's \"Brave New World\" and Polish Catholic family values.",
+      {
+        "tool_use_id": "srvtoolu_01DffifRsN7v2uDqDszvDyr9",
+        "content": [
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Nowy_wspania\u0142y_\u015bwiat"
+          },
+          {
+            "title": "Brave New World - Aldous Huxley | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/305456/brave-new-world"
+          },
+          {
+            "title": "Brave New World - Huxley Aldous",
+            "url": "https://www.empik.com/brave-new-world-huxley-aldous,304910,ksiazka-p"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat | Aldous Huxley (Ksi\u0105\u017cka) - Ksi\u0119garnia znak.com.pl",
+            "url": "https://www.znak.com.pl/p/nowy-wspanialy-swiat-aldous-huxley-104052"
+          },
+          {
+            "title": "Brave New World Aldous Huxley | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/brave-new-world-aldous-huxley"
+          },
+          {
+            "title": "Ksi\u0105\u017cka - BRAVE NEW WORLD Aldous Huxley - ksi\u0119garnia Black Woolf",
+            "url": "https://www.blackwoolf.eu/oferta/brave-new-world-revisited-aldous-huxley/"
+          },
+          {
+            "title": "Brave New World: Huxley Aldous : Huxley, Aldous: Amazon.pl: Ksi\u0105\u017cki",
+            "url": "https://www.amazon.pl/Brave-New-World-Huxley-Aldous/dp/0099477467"
+          },
+          {
+            "title": "Aldous Huxley. Tw\u00f3rca \"Nowego wspania\u0142ego \u015bwiata\" - Historia - PR24.PL",
+            "url": "https://polskieradio24.pl/artykul/3074331,aldous-huxley-tworca-nowego-wspanialego-swiata"
+          },
+          {
+            "title": "Aldous Huxley - ksi\u0105\u017cki, audiobooki, ebooki - Empik.com",
+            "url": "https://www.empik.com/autor/aldous-huxley"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat 30 lat p\u00f3\u017aniej Raport rozbie\u017cno\u015bci | Aldous Huxley (Ksi\u0105\u017cka) - Ksi\u0119garnia znak.com.pl",
+            "url": "https://www.znak.com.pl/ksiazka/nowy-wspanialy-swiat-30-lat-pozniej-raport-rozbieznosci-aldous-huxley-116176"
+          }
+        ]
+      },
+      "Let me search more specifically for content about Polish Catholic family values and their contrast with the dystopian world described in Huxley's \"Brave New World\".",
+      {
+        "tool_use_id": "srvtoolu_01PM8cWXN6QzGs3ptzSUdcxD",
+        "content": [
+          {
+            "title": "Alexander Sosnovsky: The dystopia of \"September 3, 2025\" - Pravda USA",
+            "url": "https://usa.news-pravda.com/world/2025/07/23/389597.html"
+          },
+          {
+            "title": "Polska rodzina katolicka a rozw\u00f3j spo\u0142ecze\u0144stwa obywatelskiego. Uwagi na marginesie raportu Rodzina bogactwem (dobrem) dla spo\u0142ecze\u0144stwa. | Pryba | Teologia i Moralno\u015b\u0107",
+            "url": "https://pressto.amu.edu.pl/index.php/tim/article/view/2252"
+          },
+          {
+            "title": "Polska rodzina katolicka a rozw\u00f3j spo\u0142ecze\u0144stwa ... - cejsh",
+            "url": "http://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.ojs-doi-10_14746_tim_2014_15_1_2/c/2252-2239.pdf"
+          },
+          {
+            "title": "Osoba Magdaleny Og\u00f3rek, czyli tradycyjne warto\u015bci rodzinne \u2022 NIENAWI\u015a\u0106.PL",
+            "url": "http://www.nienawisc.pl/magdalena-ogorek-czyli-tradycyjne-wartosci-rodzinne/"
+          },
+          {
+            "title": "Polska rodzina katolicka a rozw\u00f3j ...",
+            "url": "https://pressto.amu.edu.pl/index.php/tim/article/download/2252/2239/4187"
+          },
+          {
+            "title": "Ksi\u0119garnia Rodzinna Familis | Wa\u0142brzych | Facebook",
+            "url": "https://www.facebook.com/Ksiegarnia.Rodzinna.Familis/"
+          },
+          {
+            "title": "Realizm i adekwatno\u015b\u0107 katolickiego modelu ma\u0142\u017ce\u0144stwa i rodziny | Niedziela.pl",
+            "url": "https://m.czestochowa.niedziela.pl/artykul/7342/Realizm-i-adekwatnosc-katolickiego-modelu"
+          },
+          {
+            "title": "Rodzina i warto\u015bci chrze\u015bcija\u0144skie jako elementy ...",
+            "url": "https://czasopisma.marszalek.com.pl/images/pliki/cip/15/cip1510.pdf"
+          },
+          {
+            "title": "Ma\u0142\u017ce\u0144stwo rodzina wychowanie - Dystrybucja Katolicka",
+            "url": "https://dystrybucjakatolicka.pl/857-malzenstwo-rodzina-wychowanie"
+          },
+          {
+            "title": "Melonowska i Terlikowska: Rodzinnie, tradycyjnie i po katolicku \u2014 Magazyn Kontakt",
+            "url": "https://magazynkontakt.pl/klotnie-rodzinne/"
+          }
+        ]
+      },
+      "Based on the search results, I found information about Aldous Huxley's \"Brave New World\" (\"Nowy wspania\u0142y \u015bwiat\") and Polish Catholic family values. Let me provide you with a comprehensive analysis of the search results.\n\nThe search results reveal several important aspects about \"Brave New World\" by Aldous Huxley, written in 1931 and published in 1932, which is a dystopia in the science-fiction genre. \n\nIn Huxley's dystopian vision, concepts such as family, freedom, love, and culture are considered grotesque. The world he depicts is a world without values, family, culture, focused exclusively on oneself, personal pleasures and consumption. The ideas of utopia are contained in three guiding words of the Republic: Community \u2013 expressed by the principle \"everyone is for everyone\".\n\nThis stands in stark contrast to Polish Catholic family values, which are documented in the search results. Polish Catholic families have awareness that they are wealth (good) for society. The Catholic vision of marriage and family is realistic and universal by referring to the ontology and anthropology of these realities.\n\nThe contrast is particularly evident in several areas:\n\n**Family Structure**: While Huxley's dystopia features reproduction controlled through genetic engineering, and people bred into a rigid class system, Polish Catholic tradition emphasizes marriage as an exclusive and indissoluble union of man and woman, striving to be a deep community of life and love.\n\n**Values and Purpose**: In the \"Brave New World,\" lives are devoted to the pursuit of pleasure through sex, recreational sports, the getting and having of material possessions, and taking a drug called Soma. In contrast, the Catholic family \"constitutes the cradle and the most effective tool for humanization and personalization of society\".\n\n**Social Role**: The dystopian society creates perfect consumers with stabilized needs, while Polish Catholic families are viewed as fundamental good and value for every person and all societies.\n\nContemporary scholars note that Huxley is a prophet of global capitalism and consumerism, focused on arranging people's lives as a continuous stream of entertainment, which contrasts sharply with traditional Catholic values that emphasize spiritual development, family bonds, and moral responsibility."
+    ],
+    "durationSeconds": 31.99340907899989
+  }
+}

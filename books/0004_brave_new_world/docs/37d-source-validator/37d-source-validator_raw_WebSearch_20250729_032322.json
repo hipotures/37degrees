@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Brave New World published 1932 Chatto Windus first edition verification"
+  },
+  "tool_response": {
+    "query": "Brave New World published 1932 Chatto Windus first edition verification",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_011nSZXUQq4EZJccyWqAkwzu",
+        "content": [
+          {
+            "title": "Brave New World by Huxley, Chatto - AbeBooks",
+            "url": "https://www.abebooks.com/servlet/SearchResults?an=Huxley&bi=0&bx=off&ds=30&pn=Chatto&recentlyadded=all&sortby=1&tn=Brave+New+World&x=0&y=0&yrh=1932&yrl=1932"
+          },
+          {
+            "title": "Brave New World - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World"
+          },
+          {
+            "title": "Brave New World by Aldous Huxley, First Edition - AbeBooks",
+            "url": "https://www.abebooks.com/servlet/SearchResults?yrh=1932&fe=on&yrl=1932&bi=0&ds=30&bx=off&pics=on&sortby=1&tn=Brave+New+World&dj=on&an=Aldous+Huxley&recentlyadded=all&cm_sp=pan-_-srp-_-ptall"
+          },
+          {
+            "title": "Brave New World. First Edition (1932) - Ulysses Rare Books",
+            "url": "https://www.rarebooks.ie/books/english-and-american-literature/brave-new-world-first-edition-1932-3/"
+          },
+          {
+            "title": "Brave New World by Aldous Huxley",
+            "url": "https://www.biblio.com/brave-new-world-by-aldous-huxley/work/5640"
+          },
+          {
+            "title": "Brave New World, First Edition - AbeBooks",
+            "url": "https://www.abebooks.com/servlet/SearchResults?yrh=1932&x=0&fe=on&y=0&bi=0&ds=30&sts=t&bx=on&sortby=1&tn=Brave+New+World&recentlyadded=all"
+          },
+          {
+            "title": "Brave New World by Huxley, Aldous | | 1932 | Chatto & Windus | BIBLIO",
+            "url": "https://www.biblio.com/book/brave-new-world-huxley-aldous/d/1439039921"
+          },
+          {
+            "title": "Aldous Huxley - Brave New World - Chatto & Windus, 1932, First Edition [7195]",
+            "url": "https://books.hyraxia.com/7195-aldous-huxley-brave-new-world-chatto-windus-1932-first-edition"
+          },
+          {
+            "title": "Brave New World | Aldous Huxley | First Edition, First Printing",
+            "url": "https://www.mostlydystopianbooks.com/pages/books/10206/aldous-huxley/brave-new-world"
+          },
+          {
+            "title": "Aldous Huxley - Brave New World - First UK Edition 1932 + Advert",
+            "url": "https://johnatkinsonbooks.co.uk/book/aldous-huxley-brave-new-world-first-uk-edition-1932/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide verification information about the first edition of \"Brave New World\" published by Chatto & Windus in 1932:\n\n## Verified Publication Details\n\nBrave New World is a dystopian novel by English author Aldous Huxley, written in 1931, and published in 1932.(no content)The first edition was published in London in 1932 by Chatto & Windus in blue cloth with the top edge stained blue and an iconic blue and white illustrated jacket.\n\n## Key Verification Points for First Edition Identification:\n\n**Physical Characteristics:**\n- Original blue boards with slight fading of the blue colouring to the spine\n- Gilt titling and decoration remain vibrant\n- Blue covers, bright gilt lettering to the spine, slight lean or spine curve, secure binding, blue top edge, bottom edge of pages untrimmed\n- 306 pages\n\n**Dust Jacket Details:**\n- It is correctly priced at '7s. 6d.net' to the front tower flap\n- The dust jacket should be unclipped to be authentic\n\n**Limited Edition Information:**\nIn Great Britain, before the general trade edition, Chatto & Windus offered a signed, numbered run of 324 copies, 314 of which were released for general sale. These limited editions were publisher's lightly bevelled yellow buckram with blue morocco title label to spine, gilt, untrimmed paper, t.e.g.\n\n**Comparative Rarity:**\nThe first US edition was published in the same year by Doubleday Doran and Co in maroon cloth with gilt lettering and a red, gold and green jacket. The US edition is reportedly less common than the UK edition.\n\nThe search results confirm that Chatto & Windus did indeed publish the first edition of \"Brave New World\" in 1932, and multiple reputable book dealers and auction houses are currently selling authenticated copies with consistent descriptions of the physical characteristics."
+    ],
+    "durationSeconds": 18.447998418999838
+  }
+}

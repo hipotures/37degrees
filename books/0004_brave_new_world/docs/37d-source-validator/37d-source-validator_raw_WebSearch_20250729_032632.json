@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Nowy wspania\u0142y \u015bwiat\" Polish translation Stanis\u0142awa Kuszelewska 1933 first verification"
+  },
+  "tool_response": {
+    "query": "\"Nowy wspania\u0142y \u015bwiat\" Polish translation Stanis\u0142awa Kuszelewska 1933 first verification",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01WMrCkqwM3wkgH7Ums6tLSk",
+        "content": [
+          {
+            "title": "NOWY WSPANIA\u0141Y \u015aWIAT | Dobra Cena | Sklep Online | Warszawa - Antykwariat Kwadryga",
+            "url": "https://kwadryga.com/produkt/nowy-wspanialy-swiat-2/"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat; Nowy wspania\u0142y \u015bwiat poprawiony - Digital Library of the Jan Kochanowski University",
+            "url": "https://bibliotekacyfrowa.ujk.edu.pl/dlibra/publication/3267?language=en"
+          },
+          {
+            "title": "\"Czy ty okrad\u0142e\u015b Huxleya, czy Huxley ciebie?\", czyli \"Nowy wspania\u0142y \u015bwiat\" jako rzekomy plagiat | Artyku\u0142 | Culture.pl",
+            "url": "https://culture.pl/pl/artykul/czy-ty-okradles-huxleya-czy-huxley-ciebie-czyli-nowy-wspanialy-swiat-jako-rzekomy-plagiat"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat; Nowy wspania\u0142y \u015bwiat poprawiony - Biblioteka Cyfrowa Uniwersytetu Jana Kochanowskiego",
+            "url": "https://bibliotekacyfrowa.ujk.edu.pl/dlibra/publication/3267/edition/2924?language=pl"
+          },
+          {
+            "title": "Retranslations of Aldous Huxley\u2019s Brave New World in Poland",
+            "url": "https://czasopisma.filologia.uwb.edu.pl/index.php/c/article/view/2405"
+          },
+          {
+            "title": "Taco Hemingway - Nowy wspania\u0142y \u015bwiat (English translation)",
+            "url": "https://lyricstranslate.com/en/nowy-wspanialy-swiat-brave-new-world.html"
+          },
+          {
+            "title": "nowy wspania\u0142y \u015bwiat - Translation into English - examples Polish | Reverso Context",
+            "url": "https://context.reverso.net/translation/polish-english/nowy+wspania%C5%82y+%C5%9Bwiat"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Nowy_wspania\u0142y_\u015bwiat"
+          },
+          {
+            "title": "K. Hejwowski, G. Moroz: Nowe wspania\u0142e \u015bwiaty Aldousa Huxleya \u2013 Instytut Spraw Obywatelskich",
+            "url": "https://instytutsprawobywatelskich.pl/k-hejwowski-g-moroz-nowe-wspaniale-swiaty-aldousa-huxleya/"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Aldous Huxley | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5043467/nowy-wspanialy-swiat"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about the Polish translation of \"Brave New World\" (Nowy wspania\u0142y \u015bwiat) by Stanis\u0142awa Kuszelewska in 1933.\n\nThe first Polish translation of Aldous Huxley's \"Brave New World\" was indeed translated by Stanis\u0142awa Kuszelewska and published by R\u00f3j in 1933. The search results confirm this as the first Polish translation of the work.\n\nStanis\u0142awa Kuszelewska (1894-1966) was the translator, and there was also a second edition of her translation published by R\u00f3j in 1935.\n\nThis translation by Stanis\u0142awa Kuszelewska (1933) is referenced alongside Bogdan Baran's translation (1988) as the two main Polish translations of \"Brave New World\". The Kuszelewska translation is described as \"completely outdated pre-war translation\" (zupe\u0142nie ju\u017c nieaktualny przedwojenny przek\u0142ad Kuszelewskiej), while Baran's translation from the 1980s has been reprinted multiple times.\n\nKuszelewska's translation was later republished by Oficyna Libera\u0142\u00f3w in 1985, showing its continued use even decades after the original publication.\n\nThe search results indicate that this was indeed the first verification/publication of a Polish translation of Huxley's dystopian novel, making it historically significant in Polish literary translation history."
+    ],
+    "durationSeconds": 14.835357746000401
+  }
+}

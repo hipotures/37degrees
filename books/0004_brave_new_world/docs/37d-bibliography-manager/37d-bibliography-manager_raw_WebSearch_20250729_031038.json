@@ -1,0 +1,178 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Brave New World\" scholarly books academic analysis \"Cambridge University Press\" \"Oxford University Press\" literary criticism monographs"
+  },
+  "tool_response": {
+    "query": "\"Brave New World\" scholarly books academic analysis \"Cambridge University Press\" \"Oxford University Press\" literary criticism monographs",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01NRPXpYd5sHhqBenbMtXndp",
+        "content": [
+          {
+            "title": "The brave new world of open-access book publishing - Research Professional News",
+            "url": "https://www.researchprofessionalnews.com/rr-news-europe-careers-2024-10-the-brave-new-world-of-open-access-book-publishing/"
+          },
+          {
+            "title": "Bibliography for Brave New Worlds: Evolution and its Discontents | Oxford Brookes Reading Lists",
+            "url": "https://brookes.rl.talis.com/lists/D97C986E-5172-0F16-E95B-BA68FA8800C5/bibliography.html"
+          }
+        ]
+      },
+      "The search results didn't return specific scholarly books about Aldous Huxley's \"Brave New World\" from Cambridge or Oxford University Press. Let me try a more focused search specifically for academic books about the novel.",
+      {
+        "tool_use_id": "srvtoolu_01Nz1YbQCWk3ctD9RPqhuSaN",
+        "content": [
+          {
+            "title": "Aldous Huxley: Brave New World",
+            "url": "https://global.oup.com/us/companion.websites/9780199773527/student/part1/selfquiz/huxley/"
+          },
+          {
+            "title": "Amazon.com: Brave New World: 9780060850524: Huxley, Aldous: Books",
+            "url": "https://www.amazon.com/Brave-New-World-Aldous-Huxley/dp/0060850523"
+          },
+          {
+            "title": "(PDF) On Aldous Huxley\u2019s Brave New World",
+            "url": "https://www.academia.edu/82707850/On_Aldous_Huxley_s_Brave_New_World"
+          },
+          {
+            "title": "Brave New World : Aldous Huxley : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/ost-english-brave_new_world_aldous_huxley"
+          },
+          {
+            "title": "Amazon.com: Brave New World: 9780792753216: Huxley, Aldous, York, Michael: Books",
+            "url": "https://www.amazon.com/Brave-New-World-Aldous-Huxley/dp/0792753216"
+          },
+          {
+            "title": "Brave New World By Aldous Leonard Huxley",
+            "url": "https://www.plato-philosophy.org/wp-content/uploads/2016/05/BraveNewWorld-1.pdf"
+          },
+          {
+            "title": "(PDF) Aldous Huxley's 'Roll of Honour': (Dis)Engagement with England",
+            "url": "https://www.researchgate.net/publication/352780488_Aldous_Huxley's_'Roll_of_Honour'_DisEngagement_with_England"
+          },
+          {
+            "title": "Bibliographies: 'Brave new world (Huxley, Aldous)' \u2013 Grafiati",
+            "url": "https://www.grafiati.com/en/literature-selections/brave-new-world-huxley-aldous/"
+          },
+          {
+            "title": "Brave New World by Aldous Huxley | Goodreads",
+            "url": "https://www.goodreads.com/book/show/5129.Brave_New_World"
+          },
+          {
+            "title": "Brave New World - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World"
+          }
+        ]
+      },
+      "Let me search more specifically for scholarly monographs and books published by Cambridge and Oxford University Press about Brave New World.",
+      {
+        "tool_use_id": "srvtoolu_01Qnex5WhS4rTcLikPDkZUJb",
+        "content": [
+          {
+            "title": "The Cambridge Companion to the City in Literature 9781107609150, 9781107028036, 2014002492 - DOKUMEN.PUB",
+            "url": "https://dokumen.pub/the-cambridge-companion-to-the-city-in-literature-9781107609150-9781107028036-2014002492.html"
+          }
+        ]
+      },
+      "Let me try a more direct search for academic books about Huxley and Brave New World from these specific publishers.",
+      {
+        "tool_use_id": "srvtoolu_01EuboN55nHSdVXFWLyCVYKc",
+        "content": [
+          {
+            "title": "Aldous Huxley - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Aldous_Huxley"
+          },
+          {
+            "title": "M. N. Huxley Area, lattice points and exponential sums (London Mathematical Society Monographs New Series No. 13, Clarendon Press, Oxford, 1996), xii + 494 pp., 0 19 853466 3, (hardback) \u00a385. | Proceedings of the Edinburgh Mathematical Society | Cambridge Core",
+            "url": "https://www.cambridge.org/core/journals/proceedings-of-the-edinburgh-mathematical-society/article/m-n-huxley-area-lattice-points-and-exponential-sums-london-mathematical-society-monographs-new-series-no-13-clarendon-press-oxford-1996-xii-494-pp-0-19-853466-3-hardback-85/448608EAC56D35B5D6BF3666BDCD2C44"
+          },
+          {
+            "title": "The Life of Aldous Huxley, Author of \u201cBrave New World\u201d | TheCollector",
+            "url": "https://www.thecollector.com/aldous-huxley-life/"
+          },
+          {
+            "title": "(PDF) Aldous Huxley's 'Roll of Honour': (Dis)Engagement with England",
+            "url": "https://www.researchgate.net/publication/352780488_Aldous_Huxley's_'Roll_of_Honour'_DisEngagement_with_England"
+          },
+          {
+            "title": "Aldous Huxley | Biography, Books, & Facts | Britannica",
+            "url": "https://www.britannica.com/biography/Aldous-Huxley"
+          },
+          {
+            "title": "Brave New World - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World"
+          },
+          {
+            "title": "Brave New World by Aldous Huxley : Monarch Notes",
+            "url": "https://www.huxley.net/studyaid/index.html"
+          },
+          {
+            "title": "Brave New World - Oxford Reference",
+            "url": "https://www.oxfordreference.com/display/10.1093/oi/authority.20110803095525181"
+          },
+          {
+            "title": "Brave New World By Aldous Leonard Huxley",
+            "url": "https://www.plato-philosophy.org/wp-content/uploads/2016/05/BraveNewWorld-1.pdf"
+          },
+          {
+            "title": "(PDF) Epistemology of Feelies. Aldous Huxley\u2019s Brave New World and the Dream of Smell Media",
+            "url": "https://www.researchgate.net/publication/374127018_Epistemology_of_Feelies_Aldous_Huxley's_Brave_New_World_and_the_Dream_of_Smell_Media"
+          }
+        ]
+      },
+      "Let me try a more targeted search for specific academic titles from Cambridge and Oxford University Press about Brave New World.",
+      {
+        "tool_use_id": "srvtoolu_01G25ZtS7nPUdns7Ct6quyWi",
+        "content": [
+          {
+            "title": "Aldous Huxley (Chapter 9) - The British Novel of Ideas",
+            "url": "https://www.cambridge.org/core/books/abs/british-novel-of-ideas/aldous-huxley/9C12694867A11B4E4BE377842008C6FF"
+          },
+          {
+            "title": "The British Novel of Ideas",
+            "url": "https://www.cambridge.org/core/books/british-novel-of-ideas/67A063B2FB6193CAEFC3DB81F7FA1691"
+          },
+          {
+            "title": "Introduction: The British Novel of Ideas \u2014 University of East Anglia",
+            "url": "https://research-portal.uea.ac.uk/en/publications/introduction-the-british-novel-of-ideas"
+          },
+          {
+            "title": "Index - The British Novel of Ideas",
+            "url": "https://www.cambridge.org/core/books/abs/british-novel-of-ideas/index/2C60707A0F7FA1D094CE2BD1A684A090"
+          },
+          {
+            "title": "(PDF) Theories of the Mind and Psychotherapy in the Works of Aldous Huxley",
+            "url": "https://www.academia.edu/29518721/Theories_of_the_Mind_and_Psychotherapy_in_the_Works_of_Aldous_Huxley"
+          },
+          {
+            "title": "E. M. Forster (Chapter 8) - The British Novel of Ideas",
+            "url": "https://www.cambridge.org/core/books/abs/british-novel-of-ideas/e-m-forster/0E7E8AF426DBBF7FF43DDD3E61CBDDDF"
+          },
+          {
+            "title": "The British Novel of Ideas (Introduction) - The British Novel of Ideas",
+            "url": "https://www.cambridge.org/core/books/abs/british-novel-of-ideas/british-novel-of-ideas/5959375CC2BDA50B929B02F02A171F37"
+          },
+          {
+            "title": "The British Novel of Ideas - The British Novel of Ideas",
+            "url": "https://www.cambridge.org/core/books/abs/british-novel-of-ideas/british-novel-of-ideas/3118D12DFF35DD7A457E4E63151C6A84"
+          },
+          {
+            "title": "G. K. Chesterton (Chapter 7) - The British Novel of Ideas",
+            "url": "https://www.cambridge.org/core/books/abs/british-novel-of-ideas/g-k-chesterton/AA4ACE46F9137AFB619ADC7CEA0553D5"
+          },
+          {
+            "title": "1900\u20131945 (Part II) - The British Novel of Ideas",
+            "url": "https://www.cambridge.org/core/books/abs/british-novel-of-ideas/19001945/CAF688A28E82D6AE55D529D9EAEA390F"
+          }
+        ]
+      },
+      "Based on my search results, I found several relevant scholarly sources and books about Aldous Huxley's \"Brave New World\" published by Cambridge University Press and Oxford University Press. Here are the key findings:\n\n## Cambridge University Press Publications\n\nThe most notable recent publication is **\"The British Novel of Ideas: George Eliot to Zadie Smith\"** edited by Rachel Potter and Matthew Taunton, published by Cambridge University Press in 2024. This academic collection includes a chapter specifically examining \"the tension between mysticism and science in Aldous Huxley's novels of ideas\" and deploys \"new critical terminology\" to analyze Huxley's work.\n\nThe collection analyzes Huxley's novels within their framework of the \"novel of ideas,\" examining works like **Those Barren Leaves** (1925) as an example of the 'comic novel of ideas' and **Point Counter Point** (1928) as exemplifying the 'serious novel of ideas'.\n\nAdditionally, **\"The Cambridge Companion to Utopian Literature\"** edited by Gregory Claeys, published by Cambridge University Press, contains scholarly analysis relevant to *Brave New World* as a dystopian text.\n\n## Oxford University Press Resources\n\nOxford University Press has published scholarly works relating to Huxley, and **\"Reconstructing Modernism\"** published by Oxford University Press in 2020 includes a chapter by Ashley Maher titled \"Aldous Huxley and the 'Brave New World' of Architectural Modernism,\" which analyzes Huxley's architectural criticism and argues that he \"evaluated political concepts\u2014individualism, liberalism, uniformity\u2014through analyzing the creations and rhetoric of the modern movement\".\n\n## Academic Articles and Monographs\n\nThe search revealed several academic papers and scholarly analyses:\n\n- Multiple academic studies published through university presses and scholarly journals, including work examining Huxley's criticism of civilization\n- Research analyzing \"Brave New World\" in the context of the Depression and eugenics movement, interpreting the novel \"as a serious design for social reform, as well as a commentary about the social uses of scientific knowledge\"\n- Scholarly articles exploring \"Aldous Huxley's engaged relationship to the problem of England\" and arguing that \"Brave New World enacts this problem as a failed standoff between global capitalism and insularity\"\n\nThe search confirms that both Cambridge and Oxford University Press have published significant scholarly monographs and academic collections that include substantial analysis of Huxley's *Brave New World*, particularly focusing on its place within the tradition of the novel of ideas, its dystopian elements, and its relationship to modernist literature and social criticism."
+    ],
+    "durationSeconds": 39.85212816300057
+  }
+}

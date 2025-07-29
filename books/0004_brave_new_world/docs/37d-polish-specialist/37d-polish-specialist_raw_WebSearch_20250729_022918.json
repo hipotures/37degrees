@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Aldous Huxley recepcja w Polsce krytyka literacka czasopisma"
+  },
+  "tool_response": {
+    "query": "Aldous Huxley recepcja w Polsce krytyka literacka czasopisma",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01KKGikDzDEcY3CMQEN1P9Co",
+        "content": [
+          {
+            "title": "(PDF) Aldous Huxley a krytyka radziecka okresu stalinizmu | Filip \u015awierczy\u0144ski - Academia.edu",
+            "url": "https://www.academia.edu/45664219/Aldous_Huxley_a_krytyka_radziecka_okresu_stalinizmu"
+          },
+          {
+            "title": "(PDF) Aldous Huxley a krytyka radziecka okresu stalinizmu [Aldous Huxley and Soviet Literary Criticism in the Stalin Era]",
+            "url": "https://www.researchgate.net/publication/359442942_Aldous_Huxley_a_krytyka_radziecka_okresu_stalinizmu_Aldous_Huxley_and_Soviet_Literary_Criticism_in_the_Stalin_Era"
+          },
+          {
+            "title": "Aldous Huxley | Autor: Wszystkie ksi\u0105\u017cki, wywiady, artyku\u0142y | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/autor/30455/aldous-huxley"
+          },
+          {
+            "title": "Aldous Huxley - ksi\u0105\u017cki, audiobooki, ebooki - Empik.com",
+            "url": "https://www.empik.com/autor/aldous-huxley"
+          },
+          {
+            "title": "Strona 2 - Aldous Huxley | Autor: Wszystkie ksi\u0105\u017cki, wywiady, artyku\u0142y | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/autor/30455/aldous-huxley?page=2"
+          },
+          {
+            "title": "Huxley albo tam i z powrotem - Notatnik Literacki",
+            "url": "https://notatnikliteracki.pl/teoria/huxley-albo-tam-i-z-powrotem/"
+          },
+          {
+            "title": "Aldous Huxley - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Aldous_Huxley"
+          },
+          {
+            "title": "Aldous Huxley \u2013 biografia, wiersze, utwory \u2013 poezja.org",
+            "url": "https://poezja.org/wz/Aldous_Huxley/"
+          },
+          {
+            "title": "Nowe wspania\u0142e \u015bwiaty Aldousa Huxleya i ich recepcja w Polsce \u2013 EBOOK MOBI | Humanities \\ Foreign philologies \\ English philology Humanities \\ Literary | - Ksi\u0119garnia Wydawnictw Uniwersytetu Warszawskiego",
+            "url": "https://www.wuw.pl/product-eng-12104-Nowe-wspaniale-swiaty-Aldousa-Huxleya-i-ich-recepcja-w-Polsce-EBOOK.html"
+          },
+          {
+            "title": "Aldous Huxley, ciekawostki o autorze \u201eNowego wspania\u0142ego \u015bwiata\u201d - Czytaj PL",
+            "url": "https://czytajpl.pl/2019/07/26/aldous-huxley-ciekawostki-o-autorze-nowego-wspanialego-swiata/"
+          }
+        ]
+      },
+      "Based on my search, I found information about Aldous Huxley's reception in Poland and related literary criticism. Here are the key findings:\n\n## Research on Huxley's Reception in Poland\n\nThe main focus of research on Huxley's reception appears to be through Soviet literary criticism during the Stalin era, though this work also examines echoes of these critiques that could be heard in Poland.\n\nThere is a scholarly work titled \"Nowe wspania\u0142e \u015bwiaty Aldousa Huxleya i ich recepcja w Polsce\" (Aldous Huxley's Brave New Worlds and Their Reception in Poland) published in Warsaw in 2019. This appears to be the first Polish presentation of Huxley's complete literary output, discussing his novels and non-fiction while considering recent publications by both Polish and English-speaking literary scholars, and describing the history of Polish translations of Huxley's works and their reception in Poland.\n\n## Literary Magazines and Criticism\n\nAfter World War I, Huxley worked for the literary magazine \"The Athenaeum\", and later became a theater critic for \"Westminster Gazette\".\n\nThere are mentions of Soviet literary magazines such as \"\u0418\u043d\u0442\u0435\u0440\u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u0430\u044f \u043b\u0438\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u0430\" (International Literature) in relation to Huxley's work.\n\n## Polish Translation History\n\nOn Polish publishing grounds, early translations included \"Dwie albo trzy Gracje\" (Two or Three Graces, 1926) published in 1931. Other Polish translations include \"W cudacznym korowodzie\" (Antic Hay) from 1923, translated into Polish in 1959, and \"Jak suche li\u015bcie\" (Those Barren Leaves) from 1925, as well as \"Dwie albo trzy gracje\" from 1926, translated in 1964.\n\n## Academic Research\n\nThe research highlights errors and oversights that Polish literary scholars and translators had consistently made when discussing Huxley's reception in the USSR, and aims to provide new starting points for further and deeper research into the somewhat forgotten figure of Aldous Huxley in Poland.\n\nRecent years have seen what could be called \"a Huxley festival\" with six out of eleven novels published, several essayistic books, and recently a biography.\n\nThe search reveals that while there has been scholarly interest in Huxley's reception in Poland, much of the research focuses on comparative analysis with Soviet criticism and translation history rather than extensive coverage in Polish literary magazines of his era."
+    ],
+    "durationSeconds": 22.103201494999695
+  }
+}

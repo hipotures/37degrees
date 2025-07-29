@@ -1,0 +1,210 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Nowy wspania\u0142y \u015bwiat\" Polish intellectuals communist era interpretation censorship PRL dystopia comparison"
+  },
+  "tool_response": {
+    "query": "\"Nowy wspania\u0142y \u015bwiat\" Polish intellectuals communist era interpretation censorship PRL dystopia comparison",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01A68YneBMpKyypPhkMnvzSq",
+        "content": [
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Nowy_wspania\u0142y_\u015bwiat"
+          }
+        ]
+      },
+      "Let me search for more specific information about Polish intellectual reception and communist era interpretation.",
+      {
+        "tool_use_id": "srvtoolu_01XkmWv8JLFKgoJk4o4eBdwg",
+        "content": [
+          {
+            "title": "Brave New World: Dystopian Procreation and Censorship | Literature and Transgression",
+            "url": "https://transgresslit.wordpress.com/2014/04/27/brave-new-world-dystopian-procreation-and-censorship/"
+          },
+          {
+            "title": "Censorship in Communist Poland - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Censorship_in_Communist_Poland"
+          },
+          {
+            "title": "The Huxleyan Conundrum: Brave New World as Anti-Utopia | Dystopia: A Natural History | Oxford Academic",
+            "url": "https://academic.oup.com/book/6186/chapter/149807747"
+          },
+          {
+            "title": "Brave New World Revisited (1958) by Aldous Huxley",
+            "url": "https://www.huxley.net/bnw-revisited/"
+          },
+          {
+            "title": "Brave New World - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World"
+          },
+          {
+            "title": "Dystopian Society in Brave New World | Characteristics & Analysis | Study.com",
+            "url": "https://study.com/academy/lesson/brave-new-world-as-a-dystopia-themes-examples.html"
+          },
+          {
+            "title": "Polish People's Republic - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Polish_People's_Republic"
+          },
+          {
+            "title": "Brave New World",
+            "url": "https://adamcadre.ac/calendar/14/14432.html"
+          },
+          {
+            "title": "If You Like: The Communist Manifesto, 1984, Brave New World, Ayn Rand, futuristic dystopias... Read This: \"We\" \u2013 The Phillipian",
+            "url": "https://phillipian.net/2008/10/30/if-you-like-the-communist-manifesto-1984-brave-new-world-ayn-rand-futuristic-dystopias-read-this-we/"
+          },
+          {
+            "title": "Examples Of Censorship In Brave New World | ipl.org",
+            "url": "https://www.ipl.org/essay/Examples-Of-Censorship-In-Brave-New-World-P3JBMT74SJPR"
+          }
+        ]
+      },
+      "Let me search more specifically for Polish reception and interpretation during the communist era.",
+      {
+        "tool_use_id": "srvtoolu_01W8TULfFcPAv2GEDhVuj3gU",
+        "content": [
+          {
+            "title": "Aldous Huxley - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Aldous_Huxley"
+          },
+          {
+            "title": "Leszek Ko\u0142akowski - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Leszek_Ko%C5%82akowski"
+          },
+          {
+            "title": "Aldous Huxley \u2013 Modernism Lab",
+            "url": "https://campuspress.yale.edu/modernismlab/aldous-huxley/"
+          },
+          {
+            "title": "Polish People's Republic - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Polish_People's_Republic"
+          },
+          {
+            "title": "Brief History of Poland - Institute of National Remembrance",
+            "url": "https://ipn.gov.pl/en/brief-history-of-poland"
+          },
+          {
+            "title": "The writing of the ''political'' history of Communism in Poland",
+            "url": "https://shs.hal.science/halshs-01021644/document"
+          },
+          {
+            "title": "Poland - Communism, Solidarity, Warsaw Pact | Britannica",
+            "url": "https://www.britannica.com/place/Poland/Communist-Poland"
+          },
+          {
+            "title": "History of Poland (1945\u20131989) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_Poland_(1945\u20131989)"
+          },
+          {
+            "title": "The Communist Regime in Poland in 10 Astonishing Pictures | Article | Culture.pl",
+            "url": "https://culture.pl/en/article/the-communist-regime-in-poland-in-10-astonishing-pictures"
+          },
+          {
+            "title": "Visit - Muzeum \u017bycia w PRL",
+            "url": "https://mzprl.pl/wizyta/?lang=en"
+          }
+        ]
+      },
+      "Let me search more specifically for dystopian literature reception in communist Poland.",
+      {
+        "tool_use_id": "srvtoolu_01JD8qMtfjtx6unK4J1ziqQS",
+        "content": [
+          {
+            "title": "George Orwell and Communist Poland: \u00c9migr\u00e9, Official and Clandestine Receptions",
+            "url": "https://www.routledge.com/George-Orwell-and-Communist-Poland-Emigre-Official-and-Clandestine-Receptions/Wieszczek/p/book/9781032409535"
+          },
+          {
+            "title": "Amazon.com: George Orwell and Communist Poland (Routledge Studies in Twentieth-Century Literature): 9781032409535: Wieszczek, Krystyna: Books",
+            "url": "https://www.amazon.com/George-Orwell-Communist-Poland-Twentieth-Century/dp/1032409533"
+          },
+          {
+            "title": "Nineteen Eighty-Four - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four"
+          },
+          {
+            "title": "Yevgeny Zamyatin - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Yevgeny_Zamyatin"
+          },
+          {
+            "title": "George Orwell - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/George_Orwell"
+          },
+          {
+            "title": "The origins of dystopia: Wells, Huxley and Orwell (Chapter 5) - The Cambridge Companion to Utopian Literature",
+            "url": "https://www.cambridge.org/core/books/abs/cambridge-companion-to-utopian-literature/origins-of-dystopia-wells-huxley-and-orwell/42BDA41241F2A5E3D2ADDAC565FBE122"
+          },
+          {
+            "title": "Project MUSE -",
+            "url": "https://muse.jhu.edu/pub/6/article/762899"
+          },
+          {
+            "title": "The Prevention of Literature | The Orwell Foundation",
+            "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/the-prevention-of-literature/"
+          },
+          {
+            "title": "(PDF) Perspective of Dystopian Society based on George Orwell's 1984",
+            "url": "https://www.researchgate.net/publication/387600959_Perspective_of_Dystopian_Society_based_on_George_Orwell's_1984"
+          },
+          {
+            "title": "Amazon.com: Best Dystopian Fiction Ever Written: Surreal Stories of Social Control, Dehumanization, Censorship & Totalitarianism (Including Brave New World, 1984, The Time Machine) (Grapevine Books) eBook : Aldous Huxley, George Orwell, H.G. Wells, Jack London, Mary Shelley, Yevgeny Zamyati, Grapevine Books: Kindle Store",
+            "url": "https://www.amazon.com/Best-Dystopian-Fiction-Ever-Written-ebook/dp/B0BBRKM3YD"
+          }
+        ]
+      },
+      "Let me search for more specific information about Polish intellectual interpretation and comparison of dystopian works.",
+      {
+        "tool_use_id": "srvtoolu_016PDmHVqyJJ5wHuqPbtjTFH",
+        "content": [
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat i Rok 1984 \u2013 por\u00f3wnanie \u2013 George Orwell \u2013 poezja.org",
+            "url": "https://poezja.org/wz/interpretacja/7701/Nowy_wspanialy_swiat_i_Rok_1984_porownanie"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - George Orwell|Ksi\u0105\u017cnica.pl-ksi\u0119garnia internetowa",
+            "url": "https://ksiaznica.pl/nowy-wspanialy-swiat-p-55882.html"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Aldous Huxley | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5043467/nowy-wspanialy-swiat"
+          },
+          {
+            "title": "George Orwell vs Aldous Huxley - \"Rok 1984\" czy \"Nowy wspania\u0142y \u015bwiat\"? :: Wykop.pl",
+            "url": "https://wykop.pl/link/5804603/george-orwell-vs-aldous-huxley-rok-1984-czy-nowy-wspanialy-swiat"
+          },
+          {
+            "title": "\u015awiat zniewolony - rzeczywisto\u015b\u0107 wed\u0142ug George'a Orwella i Aldousa Huxleya",
+            "url": "https://paradoks.net.pl/read/44197-swiat-zniewolony-rzeczywistosc-wedlug-georgea-orwella-i-aldousa-huxleya"
+          },
+          {
+            "title": "Aldous Huxley i George Orwell jako wizjonerzy zgubnej i pozbawionej indywidualizmu przysz\u0142o\u015bci. - \u015aci\u0105gi, wypracowania, lektury - Bryk.pl",
+            "url": "https://www.bryk.pl/wypracowania/jezyk-polski/wspolczesnosc/3517-aldous-huxley-i-george-orwell-jako-wizjonerzy-zgubnej-i-pozbawionej-indywidualizmu-przyszlosci.html"
+          },
+          {
+            "title": "ROK 1984 + NOWY WSPANIA\u0141Y \u015aWIAT ORWELL, HUXLEY",
+            "url": "https://unikatksiazki.pl/baza/1078997880-rok-1984-nowy-wspanialy-swiat-orwell-huxley.html"
+          },
+          {
+            "title": "Huxley do Orwella: \"1984\" poprzedza \"Nowy Wspania\u0142y \u015awiat\"",
+            "url": "http://booklips.pl/newsy/huxley-do-orwella-1984-poprzedza-nowy-wspanialy-swiat/"
+          },
+          {
+            "title": "Aldous Huxley: Nowy wspania\u0142y \u015bwiat. 30 lat p\u00f3\u017aniej. Raport rozbie\u017cno\u015bci \u2013 Instytut Spraw Obywatelskich",
+            "url": "https://instytutsprawobywatelskich.pl/aldous-huxley-nowy-wspanialy-swiat-30-lat-pozniej-raport-rozbieznosci/"
+          },
+          {
+            "title": "NOWY WSPANIA\u0141Y \u015aWIAT + ROK 1984 - ORWELL HUXLEY - 7179177011 - oficjalne archiwum Allegro",
+            "url": "https://archiwum.allegro.pl/oferta/nowy-wspanialy-swiat-rok-1984-orwell-huxley-i7179177011.html"
+          }
+        ]
+      },
+      "Based on my search results, I've gathered comprehensive information about the query regarding \"Nowy wspania\u0142y \u015bwiat\" (Brave New World) and its interpretation by Polish intellectuals during the communist era, censorship in the Polish People's Republic (PRL), and comparisons with dystopian literature. Here's what I found:\n\n## Search Results Summary\n\nThe search revealed several key findings about dystopian literature reception during the communist era in Poland, particularly focusing on Aldous Huxley's \"Brave New World\" and its comparison with George Orwell's works:\n\n### Polish Reception and Intellectual Interpretation\n\nGeorge Orwell and Communist Poland shows how Orwell, the epitome of a censored writer in the Soviet bloc, enjoyed a fulsome reception both outside and within communist Poland, developing three modes of response to state-imposed censorship: \u00e9migr\u00e9, official and clandestine.(no content)Both among Polish \u00e9migr\u00e9 circles and in communist Poland, Orwell's works were very popular, and the subversive novels: Animal Farm or Nineteen Eighty-Four were read strictly according to an anti-communist key.\n\n### Censorship in Communist Poland (PRL)\n\nCensorship in Communist Poland was primarily performed by the Polish Main Office of Control of Press, Publications and Shows, created in 1946 with Stalin's approval and backing, and renamed in 1981 as the GUKPiW. The bureau was liquidated after the fall of communism in Poland, in April 1990.(no content)What distinguished Poland from other Communist-controlled countries was the mass scale of the uncensored media. The independent Polish press \"employed\" thousands of authors, printers, and distributors and had an estimated 200,000 readers prior to 1980.\n\n### Dystopian Literature and Comparisons\n\n\"Nowy wspania\u0142y \u015bwiat\" Aldousa Huxleya i \"Rok 1984\" George'a Orwella s\u0105 powie\u015bciami, kt\u00f3re w swoim wyd\u017awi\u0119ku sprzeciwiaj\u0105 si\u0119 totalitaryzmowi. The Polish analysis distinguishes between Huxley's anti-utopia and Orwell's dystopia: Huxley's novel is an anti-utopia presenting a negative image of utopia, while Orwell's work is a dystopia that speculates about reality and criticizes known mechanisms of control.\n\n### Intellectual Underground and Samizdat\n\nReception was subjected to supervision by institutional censorship, emigration reception and illegal reception (samizdat). The book examines passionate clandestine responses to Orwell's writing and myth in diaries and letters from as early as under Stalinism and explores Orwell's popularity among underground publishing networks.(no content)After his death, Zamyatin's writings were circulated in samizdat and continued to inspire multiple generations of Soviet dissidents.\n\n### Contemporary Polish Analysis\n\nPolish literary analysis shows sophisticated understanding of dystopian themes: Huxley focuses on controlling individuals by offering them comforts and pleasures, while Orwell concentrates on compulsion and brutal repression. Themes such as individualism and freedom are central in both works, but presented differently: Huxley through analysis of the loss of authenticity in consumer society, Orwell through the image of an oppressive system that eliminates all manifestations of freedom and opposition.\n\nThe search reveals that Polish intellectuals during the communist era had access to dystopian literature through underground channels and interpreted these works as critiques of totalitarian systems, with particular relevance to their own political situation under the PRL."
+    ],
+    "durationSeconds": 46.62034787499998
+  }
+}

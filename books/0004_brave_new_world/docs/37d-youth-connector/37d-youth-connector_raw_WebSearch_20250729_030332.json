@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Polish education system pressure university entrance exams matura stress 2024"
+  },
+  "tool_response": {
+    "query": "Polish education system pressure university entrance exams matura stress 2024",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01HgNoGCK8BtiQ9fMEpkZgYe",
+        "content": [
+          {
+            "title": "Matura in Poland, Maturita Exam in Poland, Polish Matura",
+            "url": "https://www.polandeducation.info/tests/polish-matura.html"
+          },
+          {
+            "title": "Admissions for 2024/2025 | University of Warsaw",
+            "url": "https://en.uw.edu.pl/admissions-for-2024-2025/"
+          },
+          {
+            "title": "Matura - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Matura"
+          },
+          {
+            "title": "The intermediate exam in Polish will be taken into account during the Matura Exam - Media EFHR.EU",
+            "url": "https://media.efhr.eu/2024/04/16/the-intermediate-exam-in-polish-will-be-taken-into-account-during-the-matura-exam/"
+          },
+          {
+            "title": "How does the Polish education system treat average or low grades/marks scoring students? Are they put through a lot of extra classes and pressure? - Quora",
+            "url": "https://www.quora.com/How-does-the-Polish-education-system-treat-average-or-low-grades-marks-scoring-students-Are-they-put-through-a-lot-of-extra-classes-and-pressure"
+          },
+          {
+            "title": "Polish Students Confront Matura Mathematics Exam Today - The Pinnacle Gazette",
+            "url": "https://evrimagaci.org/tpg/polish-students-confront-matura-mathematics-exam-today-344060"
+          },
+          {
+            "title": "Poland secondary schools are preparing for the matura exams",
+            "url": "https://www.aacrao.org/edge/emergent-news/poland-secondary-schools-are-preparing-for-the-matura-exams"
+          },
+          {
+            "title": "National reforms in school education",
+            "url": "https://eurydice.eacea.ec.europa.eu/eurypedia/poland/national-reforms-school-education"
+          },
+          {
+            "title": "Preparing for the Polish Matura Exam: Key Dates and Procedures",
+            "url": "https://polanddaily24.com/preparing-for-the-polish-matura-exam-key-dates-and-procedures/news/41303"
+          },
+          {
+            "title": "Poland \u2022 NCEE",
+            "url": "https://ncee.org/poland/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with information about the Polish education system pressure related to university entrance exams (Matura) and stress in 2024:\n\n## Polish Matura Exam System and Pressure\n\nIn Poland, the matura exam is taken by students at the end of high school education to apply for higher education studies at Poland universities.(no content)The exam is not compulsory, although Polish students must pass it in order to be able to apply for higher education courses in Poland and elsewhere.\n\n## High-Stakes Nature and Stress\n\nThe Matura exam creates significant pressure for students due to its critical role in university admissions. Results of the matura examination are crucial in the admission to the first-cycle and long-cycle studies, and Higher education institutions use matura exam results for admissions and do not have separate entrance examinations.(no content)For many students, mathematics is often viewed as the most challenging subject, leading to a significant amount of stress and preparation in the weeks leading up to the exam.(no content)Failure to pass any of these subjects means that students cannot graduate, which adds to the pressure surrounding the mathematics exam.\n\n## 2024 Performance Statistics Highlighting Pressure\n\nThe 2024 exam results reveal the challenging nature of the Matura, particularly in mathematics:\n\nIn 2024, the pass rate for the mathematics exam was just 91.4%, with an average score of 63% for those who did pass.(no content)In comparison, the pass rates for the other two compulsory subjects\u2014Polish and foreign languages\u2014were significantly higher at 96.1% and 96.4%, respectively. This disparity underscores the challenges many students face when tackling mathematics.\n\n## Exam Requirements and Pressure Points\n\nTo pass the matura it is necessary to score at least 30% in each of the three compulsory exams. The compulsory subjects include Polish, mathematics, and a foreign language, along with two oral exams in Polish and a foreign language.(no content)With the stakes high and the pressure palpable, it is a defining moment that shapes their future educational paths. Students have been intensely practicing with previous years' exam papers to boost their confidence and skills.\n\nThe search results indicate that the Polish Matura system creates substantial academic pressure for students, particularly due to its role as the sole gateway to higher education and the challenging nature of certain subjects, especially mathematics."
+    ],
+    "durationSeconds": 19.83238346999977
+  }
+}

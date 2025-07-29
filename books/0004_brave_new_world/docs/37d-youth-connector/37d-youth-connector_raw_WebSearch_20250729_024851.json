@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "antidepressants pharmaceuticals soma dependency mental health medication Gen Z 2024"
+  },
+  "tool_response": {
+    "query": "antidepressants pharmaceuticals soma dependency mental health medication Gen Z 2024",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01RYtqURsBvhJC2EpGKMGTCN",
+        "content": [
+          {
+            "title": "2025 New Antidepressant Medications - Lifestance Health",
+            "url": "https://lifestance.com/blog/2025-new-antidepressant-medications/"
+          },
+          {
+            "title": "State of Gen Z Mental Health 2025 - Harmony Healthcare IT",
+            "url": "https://www.harmonyhit.com/state-of-gen-z-mental-health/"
+          },
+          {
+            "title": "Gen Z\u2019s View on Therapy and Mental Health | Pacific Oaks",
+            "url": "https://www.pacificoaks.edu/voices/blog/gen-z-view-on-mental-health/"
+          },
+          {
+            "title": "American mental health concerns. Insights from a 2024 survey.",
+            "url": "https://www.singlecare.com/press/mental-health-survey"
+          },
+          {
+            "title": "Home | SAMHSA - Substance Abuse and Mental Health Services Administration",
+            "url": "https://www.samhsa.gov/"
+          },
+          {
+            "title": "Carisoprodol - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Carisoprodol"
+          },
+          {
+            "title": "Products - Data Briefs - Number 377 - September 2020",
+            "url": "https://www.cdc.gov/nchs/products/databriefs/db377.htm"
+          },
+          {
+            "title": "Soma (Carisoprodol): Side Effects, Uses, Dosage, Interactions, Warnings",
+            "url": "https://www.rxlist.com/soma-drug.htm"
+          },
+          {
+            "title": "Soma: What is it, side effects, and interactions",
+            "url": "https://www.medicalnewstoday.com/articles/what-is-soma"
+          },
+          {
+            "title": "Overview of Psychiatric Medications in the Pipeline in Phase III Trials as of June 1, 2024: A Systematic Review - PMC",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11424068/"
+          }
+        ]
+      },
+      "Based on my search, I found relevant information about antidepressants, pharmaceutical trends, Soma (carisoprodol) dependency issues, and Gen Z mental health in 2024. Here's what the search revealed:\n\n## Antidepressant and Mental Health Trends in 2024\n\nSingleCare reported a 42% increase in antidepressant medication fills when comparing January-March 2024 to the same period in 2023, indicating a significant rise in antidepressant usage. According to their survey, 62% of U.S. respondents said they are concerned about their mental health.\n\nFor mental health treatment, nearly half (42%) are currently receiving mental health treatment via talk therapy with a psychiatrist or psychologist. Research also shows that since the COVID-19 outbreak in March 2020, the dispensing rate for antidepressants increased nearly 64% faster than normal for those between the ages of 12-25.\n\n## Gen Z Mental Health in 2024\n\nOver half of Gen Z (53%) report changing sleep patterns tied to their mental health, while 49% struggle to concentrate and 45% even skip social events. It's no surprise that anxiety is a top diagnosis for Gen Z \u2013 many of them are concerned about how they will function in adult society.\n\n## Soma (Carisoprodol) and Dependency Issues\n\nCarisoprodol, sold under the brand name Soma among others, is an oral medication used for musculoskeletal pain. However, there are significant dependency concerns: Serious side effects may include addiction, allergic reactions, and seizures.\n\nIn the post-marketing experience with SOMA, cases of dependence, withdrawal, and abuse have been reported with prolonged use. Post-marketing experience cases of carisoprodol abuse and dependence have been reported in patients with prolonged use and a history of drug abuse.\n\nDue to these concerns, in December 2011, the Drug Enforcement Administration (DEA) issued the final ruling placing carisoprodol on Schedule IV of the Controlled Substances Act (CSA), effective in January 2012.\n\n## New Pharmaceutical Developments\n\nThe year 2024 marked a pivotal moment in the treatment of Major Depressive Disorder (MDD), as significant FDA-approved medications entered the market. Among the highlights was Exxua (Gepirone), a groundbreaking medication approved in September 2023.\n\nIn 2025, Zuranolone (Zurzuvae) is emerging as a key player in depression treatment, particularly for postpartum depression. Approved in 2024, Zurzuvae represents a breakthrough as the first oral medication specifically designed for postpartum depression.\n\nThe data shows significant increases in antidepressant usage, particular concerns about Gen Z mental health, ongoing dependency issues with Soma, and promising new pharmaceutical developments in mental health treatment."
+    ],
+    "durationSeconds": 22.72340009699948
+  }
+}

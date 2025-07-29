@@ -1,0 +1,21 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Brave New World\" polska biblioteka cyfrowa rozprawy doktorskie BazHum CEJSH"
+  },
+  "tool_response": {
+    "query": "\"Brave New World\" polska biblioteka cyfrowa rozprawy doktorskie BazHum CEJSH",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_015oJPYTyt13tnmkmzBL5cFv",
+        "content": []
+      },
+      "I performed the web search for the query you requested: **\"Brave New World\" polska biblioteka cyfrowa rozprawy doktorskie BazHum CEJSH**\n\nUnfortunately, the search didn't return any results. This could be because:\n\n1. There may not be any doctoral dissertations about \"Brave New World\" specifically indexed in the Polish digital library systems (Polska Biblioteka Cyfrowa), BazHum, or CEJSH databases\n2. The search terms might need to be adjusted or searched separately\n3. The content might exist but not be indexed in a way that matches this exact query\n\nWould you like me to try searching with different combinations of these terms, or search for specific Polish academic databases that might contain dissertations about Aldous Huxley's \"Brave New World\"?"
+    ],
+    "durationSeconds": 7.775242216000334
+  }
+}

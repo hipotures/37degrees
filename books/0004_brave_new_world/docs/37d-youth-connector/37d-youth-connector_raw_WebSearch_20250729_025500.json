@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Gen Z metaphors explaining classic literature dystopian concepts BookTok language memes"
+  },
+  "tool_response": {
+    "query": "Gen Z metaphors explaining classic literature dystopian concepts BookTok language memes",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01Gn22qLsp3GYVJgNFghiHo9",
+        "content": [
+          {
+            "title": "Why memes are the ultimate Gen-Z literary agent | The Business Standard",
+            "url": "https://www.tbsnews.net/thoughts/why-memes-are-ultimate-gen-z-literary-agent-1061876"
+          },
+          {
+            "title": "BookTok: A Narrative Review of Current Literature and Directions for Future Research - Dera - 2024 - Literature Compass - Wiley Online Library",
+            "url": "https://compass.onlinelibrary.wiley.com/doi/full/10.1111/lic3.70012"
+          },
+          {
+            "title": "Gen Z was raised on dystopian stories: here\u2019s what that means | by Loran Vanden Bosch | Medium",
+            "url": "https://medium.com/@loranvandenbosch/gen-z-was-raised-on-dystopian-stories-heres-what-that-means-c60e2dec233"
+          },
+          {
+            "title": "The 'TikTok-ification' of Literature: Exploring Online Anti-Intellectualism Discourse",
+            "url": "https://www.thelance.ca/2022/11/17/the-tiktok-ification-of-literature-exploring-online-anti-intellectualism-discourse/"
+          },
+          {
+            "title": "Booktok? A Gen-Z guide to literature",
+            "url": "https://epigram.org.uk/2021/02/25/booktok-a-gen-z-guide-to-literature/"
+          },
+          {
+            "title": "Is BookTok ruining literature?. Witless pseudo-intellectualism or an\u2026 | by Eva Marsden | Medium",
+            "url": "https://medium.com/@evamarsden07/is-booktok-ruining-literature-713c33eaf713"
+          },
+          {
+            "title": "Booktok: how TikTok and Gen Z re-invented the book club",
+            "url": "https://www.pulsarplatform.com/blog/2021/booktok-how-tiktok-and-gen-z-re-invented-the-book-club"
+          },
+          {
+            "title": "Exploring the Relationship between Dystopian Literature and the Activism of Generation Z Young Adults",
+            "url": "https://www.researchgate.net/publication/339949322_Exploring_the_Relationship_between_Dystopian_Literature_and_the_Activism_of_Generation_Z_Young_Adults"
+          },
+          {
+            "title": "Gen-Z\u2019s readers hold the key to a world of knowledge | The Soapbox | dailycal.org",
+            "url": "https://www.dailycal.org/opinion/the_soapbox/gen-z-s-readers-hold-the-key-to-a-world-of-knowledge/article_58bbd781-c51f-4de0-9b1d-e16b4d4ade35.html"
+          },
+          {
+            "title": "Dystopian Books to Get Lost in Right Now | Tertulia",
+            "url": "https://tertulia.com/editorial-list/dystopian-books-read-now"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about how Gen Z uses metaphors, BookTok language, and memes to explain classic literature and dystopian concepts:\n\n## Gen Z's BookTok Culture and Literary Engagement\n\nGen Z communicates through the visual language of comedy, sarcasm, and common experiences. And so, memes are Gen Z's preferred medium for communication. This approach has extended into how they discuss literature on platforms like TikTok.\n\n### BookTok's Unique Communication Style\n\nBookTok creators give popular memes a bookish edge, creating literature-inspired takes on popular TikTok memes and sounds. This represents a fundamental shift in how literary content is communicated, with the time restriction imposed by the app forcing users to be more creative; they have a limited amount of time to convey their personality and discuss and promote whatever book or series has caught their eye.\n\n### Dystopian Literature's Influence on Gen Z\n\nResearch indicates that Gen Z was raised on dystopian stories, which has shaped their worldview and communication patterns. Novels like \"Uncle Tom's Cabin\" by Harriet Beecher Stowe and \"1984\" by George Orwell once inspired generations to take action and now allow us to look back and learn from our past or brace ourselves for our potential future.\n\n### The BookTok Phenomenon\n\nThe hashtag #BookTok on TikTok is currently having a global impact on the production, distribution and reception of literature. The platform has created an entirely new community among Gen Z and is dubbed the 'last wholesome corner of the web'.\n\n### Modern Literary Engagement Through Memes\n\n#BookTok has changed the way many people read and analyze literature, though not always in ways that encourage deep critical thinking. #BookTok places a very heavy emphasis on reading as much as possible. Users post 'what I read this week' videos to update their followers on their current reads, and it's not uncommon for these to include upwards of five books.\n\nThe search results show that while Gen Z has created innovative ways to discuss literature through memes and social media language, there's ongoing debate about whether this approach enhances or diminishes deep literary engagement. Some obscure classics are sparking cultural moments on BookTok, with comparisons to The Handmaid's Tale for a new generation, suggesting that meme culture can help revive interest in classic dystopian works."
+    ],
+    "durationSeconds": 20.589613940999843
+  }
+}

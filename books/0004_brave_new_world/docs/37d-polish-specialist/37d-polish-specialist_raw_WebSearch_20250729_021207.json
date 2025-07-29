@@ -1,0 +1,21 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Nowy wspania\u0142y \u015bwiat\" matura arkusze CKE egzamin j\u0119zyk polski przyk\u0142ady pyta\u0144"
+  },
+  "tool_response": {
+    "query": "\"Nowy wspania\u0142y \u015bwiat\" matura arkusze CKE egzamin j\u0119zyk polski przyk\u0142ady pyta\u0144",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_014GD4LaDM8W1CzqL5s3ESZ5",
+        "content": []
+      },
+      "I searched for materials related to \"Nowy wspania\u0142y \u015bwiat\" (Brave New World) exam questions from CKE (Central Examination Commission) for Polish language matura exams, but unfortunately the search didn't return any results. This could be because:\n\n1. The specific combination of terms might be too narrow\n2. Such materials might not be widely available online\n3. The content might be behind paywalls or on restricted educational platforms\n\nIf you're looking for matura exam materials related to \"Nowy wspania\u0142y \u015bwiat\" by Aldous Huxley, you might want to try:\n- Visiting the official CKE website directly\n- Checking educational platforms like Scholaris or other Polish educational resources\n- Looking for broader terms like \"matura polski Huxley\" or \"arkusze maturalne literatura\"\n\nWould you like me to try a different search approach or search for related materials?"
+    ],
+    "durationSeconds": 9.810607758000028
+  }
+}

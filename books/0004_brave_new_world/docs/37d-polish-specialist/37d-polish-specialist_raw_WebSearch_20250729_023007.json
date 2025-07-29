@@ -1,0 +1,22 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Nowy wspania\u0142y \u015bwiat\" por\u00f3wnanie Stanis\u0142aw Lem \"Futurologiczny kongres\" dystopia polska"
+  },
+  "tool_response": {
+    "query": "\"Nowy wspania\u0142y \u015bwiat\" por\u00f3wnanie Stanis\u0142aw Lem \"Futurologiczny kongres\" dystopia polska",
+    "results": [
+      "I'll perform a web search for your query comparing \"Brave New World\" with Stanis\u0142aw Lem's \"The Futurological Congress\" in the context of Polish dystopian literature.",
+      {
+        "tool_use_id": "srvtoolu_01SqTig8YaccTAELPCFL1hAz",
+        "content": []
+      },
+      "Based on the search results, I can provide some insights about the comparison between \"Brave New World\" (Nowy wspania\u0142y \u015bwiat) and Stanis\u0142aw Lem's \"The Futurological Congress\" (Futurologiczny kongres) in the context of Polish dystopian literature:\n\nBoth works explore dystopian themes, but with different approaches - Huxley's \"Brave New World\" presents a society controlled through pleasure and conditioning, while Lem's \"The Futurological Congress\" uses psychoactive drugs and virtual reality to create illusions of reality.(no content)Lem's work is particularly notable in Polish science fiction as it combines philosophical depth with satirical elements, examining how technology can be used to manipulate perception and consciousness.(no content)The novel reflects Polish experiences with authoritarianism while offering a more complex, layered approach to dystopian storytelling than many Western counterparts.(no content)Both authors question the nature of reality and human agency, but Lem's approach is more epistemologically focused, asking fundamental questions about what we can truly know about our world.(no content)The \"Futurological Congress\" stands out in Polish dystopian literature for its unique blend of dark humor and serious philosophical inquiry.\n\nThe comparison reveals how Polish dystopian literature, exemplified by Lem's work, often incorporates more philosophical complexity and absurdist elements compared to the more straightforward social criticism found in Western dystopian novels like Huxley's \"Brave New World.\""
+    ],
+    "durationSeconds": 13.33173056200007
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Aldous Huxley \"Brave New World\" polskie warto\u015bci rodzinne tradycyjne spo\u0142ecze\u0144stwo kontrast"
+  },
+  "tool_response": {
+    "query": "Aldous Huxley \"Brave New World\" polskie warto\u015bci rodzinne tradycyjne spo\u0142ecze\u0144stwo kontrast",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_016FULHFopxRFy7uXDYYpnZq",
+        "content": [
+          {
+            "title": "Brave New World - Aldous Huxley | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/305456/brave-new-world"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Nowy_wspania\u0142y_\u015bwiat"
+          },
+          {
+            "title": "Brave New World Aldous Huxley | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/brave-new-world-aldous-huxley"
+          },
+          {
+            "title": "Aldous Huxley. Tw\u00f3rca \"Nowego wspania\u0142ego \u015bwiata\" - Historia - PR24.PL",
+            "url": "https://polskieradio24.pl/artykul/3074331,aldous-huxley-tworca-nowego-wspanialego-swiata"
+          },
+          {
+            "title": "Brave New World - Huxley Aldous",
+            "url": "https://www.empik.com/brave-new-world-huxley-aldous,304910,ksiazka-p"
+          },
+          {
+            "title": "Brave New World - Oceny, opinie, ceny - Aldous Huxley - Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/ksiazka/4847174/brave-new-world"
+          },
+          {
+            "title": "Brave New World Revisited - Huxley Aldous",
+            "url": "https://www.empik.com/brave-new-world-revisited-huxley-aldous,628251,ksiazka-p"
+          },
+          {
+            "title": "Brave New World - Ceny i opinie - Ceneo.pl",
+            "url": "https://www.ceneo.pl/1966484"
+          },
+          {
+            "title": "Nowe wspania\u0142e \u015bwiaty Aldousa Huxleya i ich recepcja w Polsce \u2013 EBOOK PDF | Humanities \\ Foreign philologies \\ English philology Humanities \\ Literary | - Ksi\u0119garnia Wydawnictw Uniwersytetu Warszawskiego",
+            "url": "https://www.wuw.pl/product-eng-12103-Nowe-wspaniale-swiaty-Aldousa-Huxleya-i-ich-recepcja-w-Polsce-EBOOK.html"
+          },
+          {
+            "title": "Un Mundo Feliz / Nowy wspania\u0142y \u015bwiat - Aldous Huxley",
+            "url": "https://book1.pl/un-mundo-feliz-nowy-wspanialy-swiat-1"
+          }
+        ]
+      },
+      "Based on the search results, I found substantial information about Aldous Huxley's \"Brave New World\" and its themes related to traditional family values and society. The search returned Polish sources discussing these themes. Here's what I found:\n\nThe novel presents a society where concepts such as family, freedom, love, and culture are considered grotesque, creating a world without values, family, or culture, focused exclusively on personal pleasures and consumption.(no content)Huxley used the science fiction genre as a tool to confront ideas of freedom with order, pragmatism with fantasy, and individualism with mass society culture.(no content)Huxley created a prophetic and warning novel that attempts to warn humanity against a utopia that prioritizes lasting happiness and comfort over the ups and downs of an emotionally rich world. He criticized values he saw at the foundation of the industrial era, creating a Republic where he developed and exaggerated them to show their mechanistic nature.(no content)This vision presents a terrifying manipulation where social and genetic manipulation allows for the creation of a caste society focused exclusively on its own pleasures - a society of ideal workers and ideal consumers with stabilized needs.(no content)A literary historian emphasized that Huxley, in his terrifying vision, presented a democratic Western society, not a totalitarian state.(no content)The only threat to system stability are human emotions, which is why all great passions and virtues like love, hate, heroism, courage, or sacrifice are unnecessary, ridiculed, mocked, and shameful, with their sporadic appearances suppressed at the source.(no content)The Republic shows aversion to all manifestations of old age, including old literature, everyday objects, ideas, and religion. Broken things were not repaired as it would be antisocial behavior. For the same reasons, games and sports that didn't require complicated equipment were also disapproved of.\n\nThe contrast with traditional Polish family values becomes evident when considering that the novel defines human happiness as people who are unaware of better and greater possibilities, living in their own worlds appropriately tailored to their predispositions - a world without values, family, culture, focused exclusively on oneself, personal pleasures and consumption."
+    ],
+    "durationSeconds": 22.20026611199975
+  }
+}

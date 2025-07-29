@@ -1,0 +1,63 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Polish plagiarism Mieczys\u0142aw Smolarski \"Miasto \u015bwiat\u0142o\u015bci\" 1924 Huxley accusations 1982"
+  },
+  "tool_response": {
+    "query": "Polish plagiarism Mieczys\u0142aw Smolarski \"Miasto \u015bwiat\u0142o\u015bci\" 1924 Huxley accusations 1982",
+    "results": [
+      "I'll search for information about the Polish plagiarism case involving Mieczys\u0142aw Smolarski's \"Miasto \u015bwiat\u0142o\u015bci\" from 1924 and the Huxley accusations from 1982.",
+      {
+        "tool_use_id": "srvtoolu_01R9tY4soW6CJAu82ST14i7h",
+        "content": [
+          {
+            "title": "Mieczys\u0142aw Smolarski - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Mieczys%C5%82aw_Smolarski"
+          },
+          {
+            "title": "QUERY: Huxley plagiarism | H-Net",
+            "url": "https://networks.h-net.org/node/14473/discussions/131619/query-huxley-plagiarism"
+          },
+          {
+            "title": "Miasto \u015awiat\u0142o\u015bci - gdzie ten plagiat - Zalewski o ksi\u0105\u017ckach",
+            "url": "https://www.speculatio.pl/miasto-swiatlosci-plagiat/"
+          },
+          {
+            "title": "The City of Light (novel) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_City_of_Light_(novel)"
+          },
+          {
+            "title": "Brave New World, Intertextuality and Mieczys\u0142aw Smolarski",
+            "url": "https://czasopisma.filologia.uwb.edu.pl/index.php/c/article/view/603"
+          },
+          {
+            "title": "Miasto \u015bwiat\u0142o\u015bci by Mieczys\u0142aw Smolarski | Goodreads",
+            "url": "https://www.goodreads.com/en/book/show/12296113"
+          },
+          {
+            "title": "Brave New World, Intertextuality and Mieczys\u0142aw Smolarski",
+            "url": "https://www.ceeol.com/search/article-detail?id=701038"
+          },
+          {
+            "title": "Brave New World, Intertextuality and Mieczys\u0142aw Smolarski - Crossroads. A Journal of English Studies - Volume 18 (2017) - CEJSH - Yadda",
+            "url": "http://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.hdl_11320_6709"
+          },
+          {
+            "title": "All Content | H-Net",
+            "url": "https://networks.h-net.org/group/14473/all-content?page=40"
+          },
+          {
+            "title": "huxley | H-Net",
+            "url": "https://networks.h-net.org/tags/huxley"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about this fascinating literary controversy involving plagiarism accusations against Aldous Huxley.\n\n## The Plagiarism Allegations\n\nMieczys\u0142aw Smolarski, a Polish writer and poet, authored two books - \"Miasto \u015bwiat\u0142o\u015bci\" (The City of Light, 1924) and \"Podr\u00f3\u017c po\u015blubna pana Hamiltona\" (The Honeymoon Trip of Mr. Hamilton, 1928) - which were allegedly plagiarized by Aldous Huxley in \"Brave New World,\" published in 1932.\n\n## Smolarski's Claims and Actions\n\nIn 1948, Mieczys\u0142aw Smolarski wrote an open letter to Aldous Huxley in which he accused Huxley of plagiarising, in his famous novel Brave New World (1932), two novels which Smolarski himself had written in the 1920s.(no content)According to Smolarski, \"Brave New World\" written seven years after he wrote \"City of Light\" contained an \"imposing catalog of ideological, plot and structural convergences.\"\n\n## Investigation and Response\n\nThe assertions of plagiarism were considered by the PEN Club, but there was no resolution.(no content)Antoni Smuszkiewicz wrote in the 1988 edition of \"City of Light\" that Smolarski's letter was translated into English and delivered to the British consulate, and the matter went to the PEN Club, but Huxley never responded at all.\n\n## The 1982 Connection\n\nIn 1982, claims of plagiarism against Huxley were supported by Polish literary historian Antoni Smuszkiewicz. This appears to be the reference to \"1982 accusations\" in your query - it was when the literary historian Antoni Smuszkiewicz provided scholarly support for the plagiarism claims.\n\n## Scholarly Analysis\n\nModern academic analysis suggests that even if Huxley had read these two novels (which is very unlikely), Brave New World would not have been altered in any considerable way, and that in 1931, the year in which he wrote Brave New World, Huxley was already a distinguished novelist and a profound thinker capable of writing a masterpiece without resorting to plagiarism.\n\nThe controversy remains unresolved, with Smolarski's books having been translated to English (as well as to Russian, Spanish, Italian and German), meaning Huxley could theoretically have had access to them, though no definitive evidence of plagiarism has been established."
+    ],
+    "durationSeconds": 26.481631769000554
+  }
+}

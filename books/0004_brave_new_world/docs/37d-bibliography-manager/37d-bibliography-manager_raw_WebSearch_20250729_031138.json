@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Brave New World\" film adaptation television series 2020 Peacock cast director producer complete credits filmography"
+  },
+  "tool_response": {
+    "query": "\"Brave New World\" film adaptation television series 2020 Peacock cast director producer complete credits filmography",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01W8NF1WCsKi6ApXZrFXboWe",
+        "content": [
+          {
+            "title": "Who's Who in Peacock's Brave New World - PRIMETIMER",
+            "url": "https://www.primetimer.com/quickhits/brave-new-world-whos-who-on-peacocks-orwell-adaptation"
+          },
+          {
+            "title": "Brave New World (TV Series 2020) - Full cast & crew - IMDb",
+            "url": "https://www.imdb.com/title/tt9814116/fullcredits/"
+          },
+          {
+            "title": "Brave New World (TV Series 2020) \u2b50 7.0 | Drama, Sci-Fi, Thriller",
+            "url": "https://www.imdb.com/title/tt9814116/"
+          },
+          {
+            "title": "Brave New World (TV series) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World_(TV_series)"
+          },
+          {
+            "title": "Brave New World: Season 1 | Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/tv/brave_new_world/s01"
+          },
+          {
+            "title": "'Brave New World' Canceled By Peacock After One Season",
+            "url": "https://deadline.com/2020/10/brave-new-world-canceled-peacock-one-season-1234603893/"
+          },
+          {
+            "title": "Brave New World (TV Series 2020) - \u201cCast\u201d credits - IMDb",
+            "url": "https://m.imdb.com/title/tt9814116/fullcredits/cast"
+          },
+          {
+            "title": "Captain America: Brave New World - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Captain_America:_Brave_New_World"
+          },
+          {
+            "title": "Brave New World | Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/tv/brave_new_world"
+          },
+          {
+            "title": "Brave New World - Full Cast & Crew - TV Guide",
+            "url": "https://www.tvguide.com/tvshows/brave-new-world/cast/1000757207/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about the \"Brave New World\" television series adaptation that premiered on Peacock in 2020:\n\n## Basic Information\nBrave New World is an American science fiction drama television series loosely based on the classic 1932 novel of the same name by Aldous Huxley. It premiered on the day NBCUniversal streaming service Peacock launched, July 15, 2020.(no content)In October 2020, the series was cancelled after one season.\n\n## Creators and Executive Producers\nThe series was created by Grant Morrison, Brian Taylor, and David Wiener.(no content)David Weiner served as executive producer (previously known for Homecoming and The Killing), and Morrison also executive produced along with Darryl Frank and Justin Falvey, co-presidents of Amblin Television. Wiener also serves as showrunner.\n\n## Director\nOwen Harris directed the pilot, and Owen Harris directed the first two episodes and executive produces the series.\n\n## Main Cast\nThe series featured an ensemble cast including:\n\n- Alden Ehrenreich as John the Savage\n- Jessica Brown Findlay as Lenina Crowne, a hatchery (read: baby-birthing) worker in the futuristic city of New London who begins to question her place within her conformist society\n- Harry Lloyd as Bernard Marx\n- Nina Sosanya as Mustafa Mond, a World Controller in charge of New London's adherence to the social structure and utopian design\n- Hannah John-Kamen as Helm, a woman, an artist, and a hedonist. She's also described as \"New London's premier maker of Feelies,\" which are a futuristic version of movies which transmit physical sensations to their audiences\n- Kylie Bunbury as Frannie, Lenina's best friend and a fan of the social conditioning of the new order\n- Joseph Morgan, and Sen Mitsuji\n- Demi Moore set to appear in a recurring role\n\n## Production Background\nIn 2015, Syfy announced the development of the series, with Darryl Frank and Justin Falvey producing. In 2016, writers Les Bohem, Grant Morrison, and Brian Taylor were attached to the project.(no content)On February 13, 2019, the series was moved to the USA Network, with David Wiener replacing Bohem as a writer and Owen Harris directing the pilot.(no content)On September 17, 2019, NBCUniversal announced that the series would be moved to Peacock.\n\n## Production Details\n- The series' Season 1 budget is said to be close to $100 million\n- The series was shot at the Llanharan's Dragon Film Studios in Wales, in addition to certain other real world locations serving as exteriors, both for New London and Savageland\n- The series was produced by UCP, in association with Amblin Television\n\n## Reception and Cancellation\nOn Rotten Tomatoes, the series holds an approval rating of 46% based on 56 reviews, with an average rating of 5.70/10. The website's critical consensus reads: \"Brave New World is sleek and seductive, but not very daring, only skimming the surface of Aldous Huxley's dystopian epic without plumbing its philosophical depths.\"(no content)Peacock opted not to proceed with a second season of Brave New World. UCP, the studio behind the sci-fi drama series, based on Aldous Huxley's groundbreaking novel, will shop it to other outlets."
+    ],
+    "durationSeconds": 29.442599371000192
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Brave New World first edition 1932 Chatto Windus publication details ISBN original publisher bibliographic information"
+  },
+  "tool_response": {
+    "query": "Brave New World first edition 1932 Chatto Windus publication details ISBN original publisher bibliographic information",
+    "results": [
+      "I'll search for information about the first edition of Brave New World published by Chatto & Windus in 1932.",
+      {
+        "tool_use_id": "srvtoolu_01DHL9Sqf6Sa7mNiqTTfbz25",
+        "content": [
+          {
+            "title": "Brave New World by Aldous Huxley",
+            "url": "https://www.biblio.com/brave-new-world-by-aldous-huxley/work/5640"
+          },
+          {
+            "title": "Brave New World - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World"
+          },
+          {
+            "title": "Collecting Brave New World by Huxley, Aldous - First edition ...",
+            "url": "https://www.biblio.com/brave-new-world-by-aldous-huxley/work/67159"
+          },
+          {
+            "title": "Brave New World by Aldous Huxley, First Edition, chatto - AbeBooks",
+            "url": "https://www.abebooks.com/book-search/title/brave-new-world/author/aldous-huxley/publisher/chatto/first-edition/"
+          },
+          {
+            "title": "Brave New World by Huxley, Chatto - AbeBooks",
+            "url": "https://www.abebooks.com/servlet/SearchResults?an=Huxley&bi=0&bx=off&ds=30&pn=Chatto&recentlyadded=all&sortby=1&tn=Brave+New+World&x=0&y=0&yrh=1932&yrl=1932"
+          },
+          {
+            "title": "Brave New World by Aldous Huxley, First Edition - AbeBooks",
+            "url": "https://www.abebooks.com/servlet/SearchResults?an=Aldous+Huxley&bi=0&bx=off&dj=on&ds=30&fe=on&pics=on&recentlyadded=all&sortby=1&tn=Brave+New+World&yrh=1932&yrl=1932&cm_sp=pan-_-srp-_-pics"
+          },
+          {
+            "title": "BRAVE NEW WORLD BY ALDOUS HUXLEY 1932 FIRST EDITION | eBay",
+            "url": "https://www.ebay.com/itm/314478553641"
+          },
+          {
+            "title": "Brave New World. by Huxley, Aldous: (1932) | Raptis Rare Books",
+            "url": "https://www.abebooks.com/first-edition/Brave-New-World-Huxley-Aldous-Chatto/31146110348/bd"
+          },
+          {
+            "title": "Brave New World by Huxley, Aldous | | 1932 | Chatto & Windus | BIBLIO",
+            "url": "https://www.biblio.com/book/brave-new-world-huxley-aldous/d/1439039921"
+          },
+          {
+            "title": "Brave New World, First Edition - AbeBooks",
+            "url": "https://www.abebooks.com/servlet/SearchResults?yrh=1932&x=0&fe=on&y=0&bi=0&ds=30&sts=t&bx=on&sortby=1&tn=Brave+New+World&recentlyadded=all"
+          }
+        ]
+      },
+      "Based on the search results, here are the key bibliographic details for the first edition of Brave New World published by Chatto & Windus in 1932:\n\n## Publication Details\n\nBrave New World was published in 1932 by Chatto & Windus in London. The novel was written in 1931 and published in 1932.\n\n## Physical Description\n\nThe first edition was published in blue cloth with the top edge stained blue and featured an iconic blue and white illustrated jacket. The book contains 306 pages and is in octavo format.\n\nThe original binding features blue boards with gilt titling and decoration. The book has a blue top edge with the bottom edge of pages untrimmed.\n\n## Limited Edition\n\nBefore the general trade edition, Chatto & Windus offered a signed, numbered run of 324 copies, with 314 released for general sale. These signed, limited deluxe first edition copies were numbered and signed by Aldous Huxley.\n\n## Pricing\n\nThe dust jacket was correctly priced at '7s. 6d.net' on the front lower flap.\n\n## ISBN Information\n\nNote that ISBNs were not introduced until 1967, so the 1932 first edition would not have had an ISBN. Books from this era are identified by publisher, year, and other bibliographic details rather than ISBN numbers.\n\n## Publisher Information\n\n**Publisher:** Chatto & Windus  \n**Location:** London  \n**Year:** 1932  \n**Format:** Octavo  \n**Pages:** 306  \n**Binding:** Blue cloth with gilt lettering  \n**Dust Jacket:** Blue and white illustrated design  \n\nThis first edition is highly collectible, with signed limited edition copies often commanding above $7,000 and regular first editions in good condition ranging up to several thousand dollars."
+    ],
+    "durationSeconds": 19.565765961000697
+  }
+}

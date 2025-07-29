@@ -1,0 +1,21 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Aldous Huxley \"Tw\u00f3rczo\u015b\u0107\" \"Literatura na \u015awiecie\" \"Kultura\" polskie czasopisma literackie"
+  },
+  "tool_response": {
+    "query": "Aldous Huxley \"Tw\u00f3rczo\u015b\u0107\" \"Literatura na \u015awiecie\" \"Kultura\" polskie czasopisma literackie",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01Qow1r6a7orLcVPQrYG5cPH",
+        "content": []
+      },
+      "I performed the web search for the query about Aldous Huxley and Polish literary magazines including \"Tw\u00f3rczo\u015b\u0107,\" \"Literatura na \u015awiecie,\" and \"Kultura.\" However, it appears the search didn't return any results. This could be because:\n\n1. The specific combination of Aldous Huxley and these particular Polish literary magazines may not have much documented online content\n2. The search terms might be too specific or niche\n3. The content might exist primarily in Polish-language sources that aren't well-indexed\n\nWould you like me to try a broader search, perhaps focusing on Aldous Huxley's reception in Polish literature, or search for information about these specific Polish literary magazines separately?"
+    ],
+    "durationSeconds": 7.720262404999696
+  }
+}

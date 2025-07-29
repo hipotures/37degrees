@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Nowy wspania\u0142y \u015bwiat\" lektura szkolna obowi\u0105zkowa liceum podstawa programowa MEN"
+  },
+  "tool_response": {
+    "query": "\"Nowy wspania\u0142y \u015bwiat\" lektura szkolna obowi\u0105zkowa liceum podstawa programowa MEN",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_018BowYMfxZaFXE4GQB82Tet",
+        "content": [
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Streszczenie szczeg\u00f3\u0142owe - Aldous Huxley - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/aldous-huxley/nowy-wspanialy-swiat.streszczenie-szczegolowe"
+          },
+          {
+            "title": "Nowy Wspania\u0142y \u015awiat - ksi\u0105\u017cka - Empik",
+            "url": "https://www.empik.com/ksiazki/nowy-wspanialy-swiat"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Aldous Huxley | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5043467/nowy-wspanialy-swiat"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat",
+            "url": "https://www.empik.com/nowy-wspanialy-swiat-huxley-aldous,p1293067189,ksiazka-p"
+          },
+          {
+            "title": "Jakie lektury obowi\u0105zkowe dla liceum i technikum? Na li\u015bcie MEN m.in. Nowakowski, Dukaj, Stasiuk i Tokarczuk - Portal Ksi\u0119garski",
+            "url": "https://ksiazka.net.pl/jakie-lektury-obowiazkowe-dla-liceum-i-technikum-na-liscie-men-min-nowakowski-dukaj-stasiuk-i-tokarczuk"
+          },
+          {
+            "title": "LISTA LEKTUR szkolnych dla liceum i technikum - Dziennik.pl",
+            "url": "https://edukacja.dziennik.pl/aktualnosci/artykuly/548567,lista-lektur-w-liceum-aktualna-kompletny-wykaz.html"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2013 Instytut Spraw Obywatelskich",
+            "url": "https://instytutsprawobywatelskich.pl/nowy-wspanialy-swiat/"
+          },
+          {
+            "title": "\u201eNowy Wspania\u0142y \u015awiat\u201d",
+            "url": "http://www.comporecordeyros.cba.pl/lektury/HuxleyNWS.pdf"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat\u2026?, prof. \u0141ukasz Gacek - GrubyTom.pl",
+            "url": "https://www.grubytom.pl/naukowe/geopolityka/nowy-wspanialy-swiat"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat Aldous Huxley ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/nowy-wspanialy-swiat-aldous-huxley"
+          }
+        ]
+      },
+      "Based on my search results, I can provide you with information about \"Nowy wspania\u0142y \u015bwiat\" (Brave New World) by Aldous Huxley as a mandatory reading in Polish high schools according to the educational curriculum (podstawa programowa MEN).\n\n## Status as Mandatory Reading\n\n\"Nowy wspania\u0142y \u015bwiat\" Aldousa Huxleya znajduje si\u0119 na li\u015bcie lektur uzupe\u0142niaj\u0105cych dla poziomu rozszerzonego w polskich liceach i technikach. Z tej listy w ka\u017cdej klasie obowi\u0105zkowe b\u0119d\u0105 dwie wybrane ksi\u0105\u017cki w ca\u0142o\u015bci lub we fragmentach. \n\nLista lektur uzupe\u0142niaj\u0105cych dla lice\u00f3w i technik\u00f3w w zakresie rozszerzonym po wprowadzeniu zmian zawiera \"Nowy wspania\u0142y \u015bwiat\" Aldousa Huxleya. Od roku szkolnego 2021/2022 w liceach og\u00f3lnokszta\u0142c\u0105cych i technikach obowi\u0105zuje nowy kanon lektur szkolnych zgodnie z nowelizacj\u0105 rozporz\u0105dzenia w sprawie podstawy programowej.\n\n## About the Novel\n\n\"Nowy wspania\u0142y \u015bwiat\" to antyutopijna powie\u015b\u0107 z gatunku science-fiction autorstwa angielskiego powie\u015bciopisarza Aldousa Huxleya, wydana w 1932 roku, za\u015b akcja utworu zosta\u0142a osadzona w dalekiej przysz\u0142o\u015bci w roku 2540, czyli w 632 roku nowej \u201eery Forda\".\n\nNowy wspania\u0142y \u015bwiat to jedna z najs\u0142ynniejszych antyutopii w literaturze XX wieku. \"Nowy wspania\u0142y\" \u015bwiat Aldousa Huxleya stanowi klasyczny przyk\u0142ad antyutopii, a wi\u0119c prezentuje \u015bwiat, kt\u00f3ry tylko z pozoru wydaje si\u0119 idealny, ale pod jego fasad\u0105 dalej kryj\u0105 si\u0119 fundamentalne problemy ludzko\u015bci.\n\n## Educational Significance\n\nTo lektura obowi\u0105zkowa i jedna z najwa\u017cniejszych ksi\u0105\u017cek XX wieku. To pozycja nie tylko godna polecenia, ale wr\u0119cz obowi\u0105zkowa dla ka\u017cdego.\n\nThe novel is part of the supplementary reading list for advanced level studies in Polish high schools, where students must read two selected books from this list in each grade, either in full or in excerpts, according to the current curriculum guidelines from the Ministry of Education."
+    ],
+    "durationSeconds": 18.977381048999728
+  }
+}

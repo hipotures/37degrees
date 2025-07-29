@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Witkiewicz \"Nienasycenie\" dystopia polska przedwojenna literatura"
+  },
+  "tool_response": {
+    "query": "Witkiewicz \"Nienasycenie\" dystopia polska przedwojenna literatura",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01XDhg8Ns32LkAPimFuM4SrW",
+        "content": [
+          {
+            "title": "WITKIEWICZ- NIENASYCENIE cz.1-2 [komplet] | Antykwariat internetowy Sobieski",
+            "url": "https://antyksobieski.pl/witkiewicz-nienasycenie-cz-1-2-komplet-20122.html"
+          },
+          {
+            "title": "Nienasycenie",
+            "url": "https://wolnelektury.pl/katalog/lektura/witkacy-nienasycenie/"
+          },
+          {
+            "title": "Nienasycenie (Polish Edition) by Stanis\u0142aw Ignacy Witkiewicz | Goodreads",
+            "url": "https://www.goodreads.com/pl/book/show/48562570"
+          },
+          {
+            "title": "Nienasycenie cz.1 Przebudzenie Stanis\u0142aw Ignacy Witkiewicz ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/nienasycenie-cz-1-przebudzenie-stanislaw-ignacy-witkiewicz-p-1308091.html"
+          },
+          {
+            "title": "Nienasycenie \u2013 Stanis\u0142aw Ignacy Witkiewicz (Witkacy) | Ebook w epub, mobi | ksi\u0119garnia internetowa Woblink",
+            "url": "https://woblink.com/ebook/nienasycenie-stanislaw-ignacy-witkiewicz-witkacy-30854u"
+          },
+          {
+            "title": "Jaki naprawd\u0119 by\u0142 Witkacy? Chodz\u0105ce nienasycenie. Bada\u0142 na sobie, gdzie jest dno",
+            "url": "https://www.polityka.pl/tygodnikpolityka/kultura/2292031,1,jaki-naprawde-byl-witkacy-chodzace-nienasycenie-badal-na-sobie-gdzie-jest-dno.read"
+          },
+          {
+            "title": "Nienasycenie - Stanislaw Ignacy Witkiewicz (eBook) - Ksi\u0119garnia PWN",
+            "url": "https://ksiegarnia.pwn.pl/Nienasycenie,804682005,p.html"
+          },
+          {
+            "title": "Nienasycenie | Stanis\u0142aw Ignacy Witkiewicz (ksi\u0105\u017cka) - Ksi\u0119garnia znak.com.pl",
+            "url": "https://www.znak.com.pl/ksiazka/nienasycenie-stanislaw-ignacy-witkiewicz-149918"
+          },
+          {
+            "title": "WITKIEWICZ- NIENASYCENIE cz.1-2 [komplet]",
+            "url": "https://antyksobieski.pl/en/19210.html"
+          },
+          {
+            "title": "Nienasycenie - Stanis\u0142aw Ignacy Witkiewicz \u2014 Ridero",
+            "url": "https://ridero.eu/pl/books/wl_witkacy_nienasycenie/freeText"
+          }
+        ]
+      },
+      "Based on the web search results, I can provide information about Stanis\u0142aw Ignacy Witkiewicz's \"Nienasycenie\" (Insatiability) as a dystopian work in pre-war Polish literature:\n\n\"Nienasycenie\" is considered Witkiewicz's best novel and represents a significant dystopian work in Polish pre-war literature. The novel's action is set at the end of the 20th century, which from Witkiewicz's perspective was the distant future.\n\nThe dystopian vision presents Poland plunged into chaos, surrounded by Bolshevik republics, with whites having initially triumphed in Russia only to succumb to the power of soulless Chinese. The world depicted is a perverse vision of communism's victory, which only Poland resists - and only due to all-encompassing lethargy.\n\nWitkiewicz wrote this brilliant novel in the 1920s, anticipating the philosophical essence of 20th-century totalitarianisms before communism - the most dangerous of them - revealed its then-imperceptible mechanisms to the world. The novel features the career of a Malaysian prophet named Murti-Bing, who preaches a new faith that represents the quintessence of overpowering human essence. The basic element of spreading this faith is a small pill distributed by fanatical preachers, which when swallowed changes one's worldview and allows for painless, even enthusiastic acceptance of any crime and madness presented as justice and wisdom.\n\nThe atmosphere is one of crushing decline (collapse in various forms and directions affects everyone and everything), in general tormenting insatiability, where the demonic, enigmatic Providential Man - the bow-legged General-Quartermaster Kocmo\u0142uchowicz gains influence.\n\nThe catastrophic condition of artistry doesn't mean social tragedy - it seems that for Witkacy, the happier the masses, the worse the condition of culture. Society voluntarily submits to dumbing commercialization processes of culture, rejecting \"inconvenient\" metaphysical feelings. The price paid by intellectual and artistic elites is high: isolation within society, but also the role of circus clowns - art as fairground entertainment, the artist as a buffoon.\n\nThis work stands as one of the most prescient dystopian novels in Polish literature, written during the interwar period and anticipating many features of 20th-century totalitarian systems."
+    ],
+    "durationSeconds": 23.212731397999917
+  }
+}

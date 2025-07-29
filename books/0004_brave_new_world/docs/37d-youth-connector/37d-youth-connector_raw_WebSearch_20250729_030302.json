@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Poland youth mental health depression anxiety social pressure conformity 2024 Polish"
+  },
+  "tool_response": {
+    "query": "Poland youth mental health depression anxiety social pressure conformity 2024 Polish",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01VVanDS4xLjpo3t4nYjYAkH",
+        "content": [
+          {
+            "title": "The mental functioning of school-age children in Poland since the outbreak of war in Ukraine and during the subsequent refugee crisis - ScienceDirect",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S014521342300488X"
+          },
+          {
+            "title": "\u201cGiving mental health the attention it deserves\u201d \u2013 Poland adopts WHO tool to boost efforts to address mental health needs",
+            "url": "https://www.who.int/europe/news/item/10-10-2023-giving-mental-health-the-attention-it-deserves----poland-adopts-who-tool-to-boost-efforts-to-address-mental-health-needs"
+          },
+          {
+            "title": "Frontiers | Selected determinants of anxiety and depression symptoms in adolescents aged 11\u201315 in relation to the pandemic COVID-19 and the war in Ukraine",
+            "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1480416/full"
+          },
+          {
+            "title": "The mental condition of Polish adolescents during the COVID-19 pandemic and war in Ukraine - PMC",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10617677/"
+          },
+          {
+            "title": "7.5 Mental health",
+            "url": "https://national-policies.eacea.ec.europa.eu/youthwiki/chapters/poland/75-mental-health"
+          },
+          {
+            "title": "Frontiers | The mental condition of Polish adolescents during the COVID-19 pandemic and war in Ukraine",
+            "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2023.1257384/full"
+          },
+          {
+            "title": "Depression Can Affect Anyone: Report on Three Waves of National Representative Survey in Poland Measured With PHQ\u20108 - Toczyski - 2024 - Depression and Anxiety - Wiley Online Library",
+            "url": "https://onlinelibrary.wiley.com/doi/full/10.1155/2024/2241722"
+          },
+          {
+            "title": "Mental Health Poland",
+            "url": "https://www.ilo.org/media/309541/download"
+          },
+          {
+            "title": "The prevalence of depression in children and adolescents under 18 years of age treated for mental disorders in Poland between 2005 and 2016 - PMC",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10074298/"
+          },
+          {
+            "title": "(PDF) Modern crisis of youth mental health \u2013 the perspective of Poland",
+            "url": "https://www.researchgate.net/publication/379843096_Modern_crisis_of_youth_mental_health_-_the_perspective_of_Poland"
+          }
+        ]
+      },
+      "Based on the search results, I found comprehensive information about youth mental health in Poland during 2024, particularly related to depression, anxiety, and social pressures. Here's what the research reveals:\n\n## Recent Statistics on Polish Youth Mental Health\n\nPolish children currently have one of the lowest rates of mental well-being and one of the highest rates of attempted suicides in Europe. In 2022, police investigated 2031 suicide attempts by those under the age of 18, an increase of 148% since 2020.\n\n## Depression and Anxiety Prevalence\n\nRecent studies conducted on Polish adolescents show concerning mental health patterns:\n\nAmong Polish participants, 29% met the cut-off criteria for depression, 36.5% for anxiety, and 57.2% for post-traumatic stress symptoms.(no content)Major depression prevalence among children and adolescents treated in mental health facilities increased from 0.8% in 2005 to 4.3% in 2016, with rates of young patients with mood disorders increasing from 3.1% in 2005 to 7.0% in 2016.\n\n## Impact of Social Stressors and Conformity Pressures\n\nThe research indicates that Polish youth face multiple social stressors affecting their mental health:\n\n### COVID-19 and War-Related Stress\nStudies in Poland on the pandemic's impact on adolescent mental health showed that Polish teenagers experienced higher levels of anxiety and depression compared to their Chinese counterparts.(no content)In Poland, apart from the pandemic, there is an ongoing threat of an armed conflict just across the border, which can constitute direct and indirect threats to physical and mental health. Each of these situations is unusual and difficult. It is also in sharp contrast to the developmental needs of children and adolescents. It especially violates the principal need of this developmental period, which is to grow up in a predictable as well as physically and emotionally safe environment.\n\n### Contemporary Risk Factors\nRisk factors strongly connected with increases in depression and suicide rates include spending more time on new media screen-based activities and less time on non-screen activities, obesity, the impact of social media, and peer-stress. Those factors were more often observed in Poland between 1995 and 2011.\n\n## Research Findings from 2024 Studies\n\nA recent study included 945 adolescents aged 11\u201315 years (M = 13.10; SD = 1.11), representing a sample of youth from 14 regions of Poland.(no content)The results show that adolescents have a medium level of intensity of neuroticism, with the highest levels occurring in adolescents aged 14. Moreover, the adolescents manifest relatively lower symptoms of anxiety and depression as well as concern about the pandemic and the war in Ukraine than expected.\n\n## Healthcare System Challenges\n\nPoland faces significant structural challenges in addressing youth mental health:\n\n60% of patients who have reported needing mental health support say they do not seek help due to stigma. There are just 9 psychiatrists per 100,000 population in the country and waiting times are long. 3.7% of the Polish national health budget is spent on mental health care, which is low compared to some other European countries.\n\n## Government Response\n\nPoland has launched the WHO Mental Health Gap Action Programme (mhGAP) under its National Health Programme. Recognizing the need for urgent change, the Polish Government is taking urgent steps to reform the mental health protection system, including for children and adolescents.\n\nThe research indicates that Polish youth are experiencing significant mental health challenges, with social pressures from pandemic impacts, war-related stress, social media influence, and peer pressure contributing to rising rates of depression and anxiety among this vulnerable population."
+    ],
+    "durationSeconds": 26.809378615000284
+  }
+}

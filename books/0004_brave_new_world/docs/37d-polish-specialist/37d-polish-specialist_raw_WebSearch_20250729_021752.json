@@ -1,0 +1,21 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Nowy wspania\u0142y \u015bwiat\" t\u0142umaczenie \"soma\" \"feelies\" \"poleruje\" polskie terminy Huxley"
+  },
+  "tool_response": {
+    "query": "\"Nowy wspania\u0142y \u015bwiat\" t\u0142umaczenie \"soma\" \"feelies\" \"poleruje\" polskie terminy Huxley",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01WBtQti1GPEYhmCDw5t9gVU",
+        "content": []
+      },
+      "I searched for information about Polish translations of Aldous Huxley's \"Brave New World\" (Nowy wspania\u0142y \u015bwiat) and the specific Polish terms used for concepts like \"soma,\" \"feelies,\" and \"to polish\" in the Polish versions.\n\nUnfortunately, the search didn't return specific results about the Polish translation terminology for these concepts from Huxley's novel. The search may have been too specific or the information about these particular translation choices might not be readily available online.\n\nWould you like me to try a different search approach, perhaps looking more broadly for Polish translations of \"Brave New World\" or searching for specific translation studies of Huxley's work in Polish?"
+    ],
+    "durationSeconds": 7.766790132000111
+  }
+}

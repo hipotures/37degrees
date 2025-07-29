@@ -1,0 +1,63 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Grzegorz Moroz \"Nowe wspania\u0142e \u015bwiaty Aldousa Huxleya i ich recepcja w Polsce\" Polish intellectuals interpretation"
+  },
+  "tool_response": {
+    "query": "Grzegorz Moroz \"Nowe wspania\u0142e \u015bwiaty Aldousa Huxleya i ich recepcja w Polsce\" Polish intellectuals interpretation",
+    "results": [
+      "I'll perform a web search for that query about Grzegorz Moroz's work on Aldous Huxley's \"Brave New World\" and its reception in Poland.",
+      {
+        "tool_use_id": "srvtoolu_01RimwCdsjGe9dtqEdfX1Tbf",
+        "content": [
+          {
+            "title": "Nowe wspania\u0142e \u015bwiaty Aldousa Huxleya i ich recepcja w Polsce | Hejwowski Krzysztof, Moroz Grzegorz (ksi\u0105\u017cka) - Ksi\u0119garnia znak.com.pl",
+            "url": "https://www.znak.com.pl/ksiazka/nowe-wspaniale-swiaty-aldousa-huxleya-i-ich-recepcja-w-polsce-hejwowski-krzysztof-moroz-grzegorz-144359"
+          },
+          {
+            "title": "Nowe wspania\u0142e \u015bwiaty Aldousa Huxleya i ich recepcja w Polsce",
+            "url": "https://www.empik.com/nowe-wspaniale-swiaty-aldousa-huxleya-i-ich-recepcja-w-polsce-hejwowski-krzysztof-moroz-grzegorz,p1226565713,ksiazka-p"
+          },
+          {
+            "title": "Nowe wspania\u0142e \u015bwiaty Aldousa Huxleya i ich recepcja w Polsce | Humanities \\ Foreign philologies \\ English philology Humanities \\ Literary | - Ksi\u0119garnia Wydawnictw Uniwersytetu Warszawskiego",
+            "url": "https://www.wuw.pl/product-eng-10365-Nowe-wspaniale-swiaty-Aldousa-Huxleya-i-ich-recepcja-w-Polsce.html"
+          },
+          {
+            "title": "K. Hejwowski, G. Moroz: Nowe wspania\u0142e \u015bwiaty Aldousa Huxleya \u2013 Instytut Spraw Obywatelskich",
+            "url": "https://instytutsprawobywatelskich.pl/k-hejwowski-g-moroz-nowe-wspaniale-swiaty-aldousa-huxleya/"
+          },
+          {
+            "title": "\u201eNowy wspania\u0142y \u015bwiat\u201d \u2013 90. rocznica",
+            "url": "https://instytutsprawobywatelskich.pl/nowy-wspanialy-swiat-90-rocznica/"
+          },
+          {
+            "title": "Nowe wspania\u0142e \u015bwiaty Aldousa Huxleya i ich recepcja w Polsce - Krzysztof Hejwowski, Grzegorz Moroz (eBook) - Ksi\u0119garnia PWN",
+            "url": "https://ksiegarnia.pwn.pl/Nowe-wspaniale-swiaty-Aldousa-Huxleya-i-ich-recepcja-w-Polsce,825670475,p.html"
+          },
+          {
+            "title": "Nowe wspania\u0142e \u015bwiaty Aldousa Huxleya i ich recepcja w Polsce \u2013 EBOOK PDF | Humanities \\ Foreign philologies \\ English philology Humanities \\ Literary | - Ksi\u0119garnia Wydawnictw Uniwersytetu Warszawskiego",
+            "url": "https://www.wuw.pl/product-eng-12103-Nowe-wspaniale-swiaty-Aldousa-Huxleya-i-ich-recepcja-w-Polsce-EBOOK.html"
+          },
+          {
+            "title": "Nowe wspania\u0142e \u015bwiaty Aldousa Huxleya i ich recepcja w Polsce - ebook epub",
+            "url": "https://www.empik.com/nowe-wspaniale-swiaty-aldousa-huxleya-i-ich-recepcja-w-polsce-hejwowski-krzysztof-moroz-grzegorz,p1247789619,ebooki-i-mp3-p"
+          },
+          {
+            "title": "Nowe wspania\u0142e \u015bwiaty Aldousa Huxleya i ich recepcja w Polsce - Grzegorz Moroz, Krzysztof Hejwowski (eBook) - Ksi\u0119garnia Medyczna PZWL",
+            "url": "https://pzwl.pl/Nowe-wspaniale-swiaty-Aldousa-Huxleya-i-ich-recepcja-w-Polsce,118156456,p.html"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2013 Instytut Spraw Obywatelskich",
+            "url": "https://instytutsprawobywatelskich.pl/nowy-wspanialy-swiat/"
+          }
+        ]
+      },
+      "Based on my web search, I found information about Grzegorz Moroz's work \"Nowe wspania\u0142e \u015bwiaty Aldousa Huxleya i ich recepcja w Polsce\" (Aldous Huxley's Brave New Worlds and Their Reception in Poland). Here's what I discovered:\n\n## Overview of the Work\n\nThe book \"Nowe wspania\u0142e \u015bwiaty Aldousa Huxleya i ich recepcja w Polsce\" is the first Polish publication to comprehensively discuss the work of Aldous Huxley (1894-1963), the outstanding British novelist and essayist, author of \"Brave New World\" (1932) \u2013 a dystopia considered one of the masterpieces of the 20th century.\n\n## Authors and Scope\n\nThe book was co-authored by Grzegorz Moroz, an English studies professor at the University of Bia\u0142ystok whose main research interests include English and Polish travel writing and the work of Aldous Huxley, and Krzysztof Hejwowski, a translation studies scholar.\n\nThe authors discuss Huxley's novels and non-fiction, taking into consideration the most recent publications of both Polish and English-speaking literary scholars. The book also describes the history of Polish translations of Huxley's works as well as their reception in Poland, paying particular attention to two Polish translations of Brave New World.\n\n## Key Interpretative Approach\n\nThe basic interpretative method adopted in the book is an attempt to evaluate Huxley's work and translations of his works into Polish from the perspective of contemporary literary and translation studies knowledge; however, this work will also be shown in the context of the era, i.e., in the perspective of the development of British and universal literature in the first six decades of the twentieth century, and against the background of historical, artistic and social events and their influence on Huxley's metamorphosis from a declared skeptic, supporter of radical Pyrrhonism into an equally strongly declared pacifist and perennial philosopher.\n\n## Polish Reception Analysis\n\nThe book examines two different Polish translations of \"Brave New World\" - one by Stanis\u0142awa Kuszelewska (1933) and another by Bogdan Baran (1988). The authors note problematic aspects in Polish translation titles, such as Jerzy Horzelski's translation of \"Brave New World Revisited\" as \"Nowy wspania\u0142y \u015bwiat poprawiony\" (1962), and Rados\u0142aw Madejski's 2018 translation titled \"Nowy wspania\u0142y \u015bwiat 30 lat p\u00f3\u017aniej\" (Brave New World 30 Years Later).\n\n## Huxley's Contemporary Relevance\n\nThe book examines how Huxley anticipated that \"in the next generation, those ruling the world will discover that infant conditioning and narco-hypnosis as tools of government control are more effective than clubs and chains, and by instilling in their subjects a love of control, they will be able to satisfy their lust for power as effectively as by forcing them into obedience through violence. In other words, I sense that the nightmare of 1984 will take a form more similar to what I presented in Brave New World.\"\n\nThe work provides both historical context and contemporary analysis of Huxley's enduring influence on Polish intellectual discourse about dystopian literature and social criticism."
+    ],
+    "durationSeconds": 23.848814637000206
+  }
+}

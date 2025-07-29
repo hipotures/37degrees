@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Aldous Huxley Brave New World 1932 first edition publication details Chatto Windus bibliographic information ISBN dust jacket"
+  },
+  "tool_response": {
+    "query": "Aldous Huxley Brave New World 1932 first edition publication details Chatto Windus bibliographic information ISBN dust jacket",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01AkJvnXhD5DVSoPLjNTcbaa",
+        "content": [
+          {
+            "title": "Brave New World by Huxley, Chatto - AbeBooks",
+            "url": "https://www.abebooks.com/servlet/SearchResults?an=Huxley&bi=0&bx=off&ds=30&pn=Chatto&recentlyadded=all&sortby=1&tn=Brave+New+World&x=0&y=0&yrh=1932&yrl=1932"
+          },
+          {
+            "title": "Brave New World by Aldous Huxley, First Edition - AbeBooks",
+            "url": "https://www.abebooks.com/servlet/SearchResults?an=Aldous+Huxley&bi=0&bx=off&dj=on&ds=30&fe=on&pics=on&recentlyadded=all&sortby=1&tn=Brave+New+World&yrh=1932&yrl=1932&cm_sp=pan-_-srp-_-pics"
+          },
+          {
+            "title": "Brave New World by Aldous Huxley, First Edition, chatto - AbeBooks",
+            "url": "https://www.abebooks.co.uk/book-search/title/brave-new-world/author/aldous-huxley/publisher/chatto/first-edition/"
+          },
+          {
+            "title": "Brave New World by Huxley, First Edition - AbeBooks",
+            "url": "https://www.abebooks.com/servlet/SearchResults?an=Huxley&bi=0&bx=on&ds=30&fe=on&recentlyadded=all&sortby=1&sts=t&tn=Brave+New+World&x=0&y=0&yrh=1932"
+          },
+          {
+            "title": "Brave New World by Huxley, Aldous | | 1932 | Chatto & Windus | BIBLIO",
+            "url": "https://www.biblio.com/book/brave-new-world-huxley-aldous/d/1439039921"
+          },
+          {
+            "title": "Collecting Brave New World by Huxley, Aldous - First edition ...",
+            "url": "https://www.biblio.com/brave-new-world-by-aldous-huxley/work/67159"
+          },
+          {
+            "title": "Brave New World - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World"
+          },
+          {
+            "title": "Brave New World | Aldous Huxley | First edition",
+            "url": "https://www.whitmorerarebooks.com/pages/books/1946/aldous-huxley/brave-new-world?soldItem=true"
+          },
+          {
+            "title": "Brave New World by Aldous Huxley",
+            "url": "https://www.biblio.com/brave-new-world-by-aldous-huxley/work/5640"
+          },
+          {
+            "title": "Brave New World by Aldous Huxley, Signed - AbeBooks",
+            "url": "https://www.abebooks.com/book-search/title/brave-new-world/author/aldous-huxley/signed/"
+          }
+        ]
+      },
+      "Based on the search results, I found comprehensive bibliographic information about the first edition of Aldous Huxley's \"Brave New World\" published by Chatto & Windus in 1932. Here are the key details:\n\n## Publication Details\n\nThe first edition was published by Chatto and Windus in London in 1932. The novel was written in 1931 and published in 1932.\n\n## Physical Description\n\nThe book has 306 pages and is bound in blue cloth with gilt lettering. The top edge is stained blue. The book was \"Printed in Great Britain by T. and A. Constable LTD. At the University Press Edinburgh\".\n\n## Dust Jacket\n\nThe first edition featured \"an iconic blue and white illustrated jacket\". The original price was 7s. 6d. (seven shillings and sixpence) as shown on the front flap of the dust jacket.\n\n## Special Limited Edition\n\nA limited edition of 324 numbered copies was also produced, signed by Aldous Huxley. These were bound in yellow buckram with a blue morocco title label to the spine and had gilt top edges.\n\n## ISBN Information\n\nIt's important to note that ISBN numbers were not introduced until the 1960s, so the 1932 first edition of \"Brave New World\" would not have had an ISBN. ISBNs were first used in 1967, making this publication about 35 years too early for that cataloging system.\n\n## Collectible Value\n\nThe first edition is highly collectible, with good condition signed copies ranging up to several thousand dollars, and the limited edition signed copies often commanding above $7,000.\n\nThe search results provide extensive details about various copies available through rare book dealers, confirming the bibliographic details and showing the enduring collectible value of this important dystopian novel."
+    ],
+    "durationSeconds": 20.416972733999604
+  }
+}

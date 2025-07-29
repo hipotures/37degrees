@@ -1,0 +1,21 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Teksty Drugie\" \"Pami\u0119tnik Literacki\" Aldous Huxley \"Nowy wspania\u0142y \u015bwiat\""
+  },
+  "tool_response": {
+    "query": "\"Teksty Drugie\" \"Pami\u0119tnik Literacki\" Aldous Huxley \"Nowy wspania\u0142y \u015bwiat\"",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01AexUA8rdJmSeEnRuMTJu3V",
+        "content": []
+      },
+      "The search didn't return any results. This query appears to be looking for Polish literary journals (\"Teksty Drugie\" and \"Pami\u0119tnik Literacki\") in relation to Aldous Huxley's \"Brave New World\" (\"Nowy wspania\u0142y \u015bwiat\" is the Polish translation). \n\nThe lack of results could be because:\n- This specific combination of terms may not appear together in online content\n- The content might be in academic databases not easily searchable\n- There might be limited online availability of these Polish literary journals' archives\n\nWould you like me to try a modified search approach, perhaps searching for these journals separately or looking for Polish academic discussions of Huxley's work?"
+    ],
+    "durationSeconds": 8.980390068999958
+  }
+}

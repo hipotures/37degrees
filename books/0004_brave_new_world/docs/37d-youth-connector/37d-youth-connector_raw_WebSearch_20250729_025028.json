@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Gen Z climate anxiety eco grief environmental despair Brave New World artificial nature 2024"
+  },
+  "tool_response": {
+    "query": "Gen Z climate anxiety eco grief environmental despair Brave New World artificial nature 2024",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01TjMEziuf3rsNHB1m8rpqR6",
+        "content": [
+          {
+            "title": "The climate crisis stokes Gen Z anxiety | Forestry and Environmental Resources",
+            "url": "https://cnr.ncsu.edu/fer/news/2024/04/climate-crisis-stokes-gen-z-anxiety/"
+          },
+          {
+            "title": "Gen Z, Millennials Stand Out for Climate Change Activism, Social Media Engagement With Issue | Pew Research Center",
+            "url": "https://www.pewresearch.org/science/2021/05/26/gen-z-millennials-stand-out-for-climate-change-activism-social-media-engagement-with-issue/"
+          },
+          {
+            "title": "Climate change: Generation Z's climate anxiety is making them powerful activists | Fortune",
+            "url": "https://fortune.com/2020/08/19/generation-z-climate-change-activism/"
+          },
+          {
+            "title": "For Gen Z, Climate Change Is a Heavy Emotional Burden - Yale E360",
+            "url": "https://e360.yale.edu/features/for-gen-z-climate-change-is-a-heavy-emotional-burden"
+          },
+          {
+            "title": "The Eco-Anxiety Epidemic: How Gen Z Activists are Channeling Fear into Solutions - Earth Day",
+            "url": "https://www.earthday.org/the-eco-anxiety-epidemic-how-gen-z-acitivists-are-channeling-fear-into-action/"
+          },
+          {
+            "title": "Generation Z Worries, Suffers and Acts against Climate Crisis\u2014The Potential of Sensing Children\u2019s and Young People\u2019s Eco-Anxiety: A Critical Analysis Based on an Integrative Review",
+            "url": "https://www.mdpi.com/2225-1154/11/8/171"
+          },
+          {
+            "title": "Gen Z's climate anxiety is real and needs action -- for everyone's wellbeing | ScienceDaily",
+            "url": "https://www.sciencedaily.com/releases/2024/03/240305134319.htm"
+          },
+          {
+            "title": "How Gen Z are taking on eco-anxiety - The Global Climate and Health Alliance",
+            "url": "https://climateandhealthalliance.org/article/how-gen-z-are-taking-on-eco-anxiety/"
+          },
+          {
+            "title": "Gen Z and Climate Anxiety: Why the Youngest Generation Feels the Most Impacted by Climate Change",
+            "url": "https://globescan.com/2025/05/21/insight-of-the-week-gen-z-climate-impact/"
+          },
+          {
+            "title": "Gen Z and Climate Change: Millennials, Generation Z Tackle the Climate Anxiety Dilemma \u2014 Generation ZALPHA",
+            "url": "https://www.generationzalpha.com/blog/gen-z-and-climate-change"
+          }
+        ]
+      },
+      "Based on the search results, I found extensive research and information about Gen Z's climate anxiety, eco-grief, and environmental despair in 2024, though the search didn't return specific results connecting these themes to \"Brave New World\" or \"artificial nature.\" Here's what the research reveals:\n\n## Gen Z Climate Anxiety and Environmental Mental Health in 2024\n\n### Prevalence and Statistics\n\nIn a study by the \"British Broadcasting Corporation\" (BBC), 75% of young adults from the ages 16 to 25 reported themselves to have intense worry or fear about the future due to climate change. More recent research shows even higher rates: Among social media users, nearly seven-in-ten Gen Zers (69%) say they felt anxious about the future the most recent time they saw content about addressing climate change.(no content)More than half of the 16- to 25-year-olds in the Lancet survey said they believe humanity is doomed. Additionally, In 2021, a global study further emphasized that 45% of Gen Z reported that climate anxiety affected them daily \u2014 a figure that will likely increase in 2025 as environmental uncertainty rises.\n\n### Manifestations of Eco-Grief and Environmental Despair\n\nThe research identifies several specific terms for climate-related emotional distress:\n\n**Eco-anxiety**: Eco-anxiety can be described as negative feelings experienced as a consequence of the ecological crisis.(no content)Climate anxiety sees concern about climate change manifest as disturbing thoughts, overwhelming distress about future climate disasters and the continuing fate of humanity and the world. It can also translate into feelings of fear, insecurity, anger, exhaustion, powerlessness and sadness.\n\n**Solastalgia**: \"Solastalgia\" is a relevant concept that expresses mourning for the transformation or destruction of the physical world.(no content)It describes the pain experienced by the loss or lack of the loved home environment due to environmental degradation, which can be experienced as an attack on the sense of place and endemic place identity.\n\n**Environmental Melancholia**: Lertzman defines environmental melancholia as \"a condition in which even those who care deeply about the well-being of ecosystems and future generations are paralyzed to translate such concern into action\".\n\n### Impact on Life Decisions\n\nThe climate crisis is affecting fundamental life choices for Gen Z. \"As much as I think I may want to have kids, I'm worried about bringing children into a world where the planet's health is decreasing and being neglected. I'm worried about the kind of life they would have and the conditions they would have to deal with.\"\n\n### Channeling Anxiety into Action\n\nDespite the overwhelming despair, many Gen Z individuals are transforming their anxiety into activism: As Gen Z faces mounting climate anxiety, their response is clear: Channel fear into action. Through activism, education, and sustainable consumer choices, young people are proving that the fight for a livable planet is far from over \u2014 despite the inaction of older generations.\n\nThe search didn't return specific results connecting these themes to Aldous Huxley's \"Brave New World\" or concepts of \"artificial nature,\" which might represent a more niche academic or literary analysis that would require additional targeted searches to explore those specific connections."
+    ],
+    "durationSeconds": 24.485899559999815
+  }
+}

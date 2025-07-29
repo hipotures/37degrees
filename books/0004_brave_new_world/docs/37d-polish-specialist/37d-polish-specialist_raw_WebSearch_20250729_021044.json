@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Nowy wspania\u0142y \u015bwiat\" Huxley 1935 pierwsza polska edycja t\u0142umacz Roj wydawnictwo"
+  },
+  "tool_response": {
+    "query": "\"Nowy wspania\u0142y \u015bwiat\" Huxley 1935 pierwsza polska edycja t\u0142umacz Roj wydawnictwo",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01GLrN14Lcf4GU8CDsBh5nBC",
+        "content": [
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Aldous Huxley | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5043467/nowy-wspanialy-swiat"
+          },
+          {
+            "title": "HUXLEY- NOWY WSPANIA\u0141Y \u015aWIAT wyd. R\u00f3j 1933r. I wyd. [futuryzm]",
+            "url": "https://antyksobieski.pl/huxley-nowy-wspanialy-swiat-wyd-roj-1933r-i-wyd-futuryzm.html"
+          },
+          {
+            "title": "HUXLEY ALDOUS - Nowy wspania\u0142y \u015bwiat [wydanie drugie] | Antique Concept store",
+            "url": "https://www.antiqueconceptstore.com/aldous-huxley-nowy-wspanialy-swiat-roj-1935"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Nowy_wspania\u0142y_\u015bwiat"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - wydawnictwo-jaguar.pl",
+            "url": "https://wydawnictwo-jaguar.pl/sklep/produkt/973/nowy-wspanialy-swiat"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Huxley Aldous",
+            "url": "https://www.empik.com/nowy-wspanialy-swiat-huxley-aldous,p1293067189,ksiazka-p"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat | Aldous Huxley (Ksi\u0105\u017cka) - Ksi\u0119garnia znak.com.pl",
+            "url": "https://www.znak.com.pl/p/nowy-wspanialy-swiat-aldous-huxley-104052"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat 30 lat p\u00f3\u017aniej. Raport rozbie\u017cno\u015bci - Aldous Huxley - epub, mobi \u2013 Ibuk.pl",
+            "url": "https://www.ibuk.pl/fiszka/193596/nowy-wspanialy-swiat-30-lat-pozniej-raport-rozbieznosci.html"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat 30 lat p\u00f3\u017aniej - Aldous Huxley Ksi\u0105\u017cka - Cena i Opinie - Ksi\u0119gi Barneja",
+            "url": "https://ksiegibarneja.pl/nowy-wspanialy-swiat-30-lat-pozniej-aldous-huxley"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Aldous Huxley - audiobook \u2013 Ibuk.pl",
+            "url": "https://www.ibuk.pl/fiszka/246432/nowy-wspanialy-swiat.html"
+          }
+        ]
+      },
+      "Based on the search results, I found valuable information about the first Polish edition of Aldous Huxley's \"Brave New World\" (\"Nowy wspania\u0142y \u015bwiat\"):\n\nThe first Polish edition was published by Wydawnictwo R\u00f3j in 1933, not 1935 as mentioned in your query. There was also a second edition published later.\n\nThe search results show that \"Nowy wspania\u0142y \u015bwiat\" was published by Wydawnictwo R\u00f3j in 1933 as the first edition. However, the search results don't provide specific information about the translator \"Roj\" that you mentioned - it appears \"Roj\" refers to the publishing house (Wydawnictwo R\u00f3j) rather than the translator's name.\n\nThe original English edition was written by Aldous Huxley in 1931 and published in 1932, making the Polish translation quite prompt, appearing just one year after the original publication.\n\nUnfortunately, the search results don't contain specific information about the actual translator of the first Polish edition, so I cannot confirm who translated this seminal dystopian novel into Polish for the 1933 Roj edition."
+    ],
+    "durationSeconds": 11.200839756999631
+  }
+}

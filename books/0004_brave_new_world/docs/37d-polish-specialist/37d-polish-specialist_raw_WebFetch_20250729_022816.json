@@ -1,0 +1,19 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebFetch",
+  "tool_input": {
+    "url": "https://repozytorium.uni.wroc.pl/dlibra/publication/81193/edition/78780?language=pl",
+    "prompt": "Extract detailed information about this Polish academic publication on education in Brave New World by Aldous Huxley, including author, abstract, research methodology, and key findings."
+  },
+  "tool_response": {
+    "bytes": 206712,
+    "code": 200,
+    "codeText": "",
+    "result": "Here's a summary of the academic publication:\n\nTitle: \"Images of Education in a Dystopian 'Brave New World' by Aldous Huxley\"\n\nAuthor: Arleta Suwalska\n\nKey Themes:\n- Dystopian education system in Huxley's novel\n- State manipulation of consciousness\n- Ideological control through education\n\nAbstract Highlights:\n- \"Universal happiness\" achieved by prohibiting learning about history, art, and science\n- State-controlled education system that:\n  - Conditions citizens\n  - Assigns social class from childhood\n  - Uses \"sleep-teaching\" (hipnopedia)\n  - Subordinates educational goals to maintaining power\n\nKey Concepts:\n- Monstrous manipulation of human consciousness\n- Cloning and conditioning of citizens\n- State-created slavery system\n- Predetermined social fate\n\nPublication Details:\n- Published in: \"Utopia and Education, Vol. 1\"\n- Year: 2016\n- Institution: Institute of Pedagogy, University of Wroc\u0142aw\n- Pages: 95-105\n\nThe article critically examines how Huxley's dystopian society uses education as a tool for social control and maintaining a predetermined social order.",
+    "durationMs": 12371,
+    "url": "https://repozytorium.uni.wroc.pl/dlibra/publication/81193/edition/78780?language=pl"
+  }
+}

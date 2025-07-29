@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Nowy wspania\u0142y \u015bwiat Aldous Huxley pierwsze wydanie t\u0142umaczenie polskie translator"
+  },
+  "tool_response": {
+    "query": "Nowy wspania\u0142y \u015bwiat Aldous Huxley pierwsze wydanie t\u0142umaczenie polskie translator",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01NJMbhSVvsRFhpWfyeQMZnE",
+        "content": [
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Aldous Huxley | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5043467/nowy-wspanialy-swiat"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat Aldous Huxley ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/nowy-wspanialy-swiat-aldous-huxley"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Aldous Huxley Ksi\u0119garnia internetowa Dedalus.pl",
+            "url": "https://dedalus.pl/proza/nowy-wspanialy-swiat-aldous-huxley"
+          },
+          {
+            "title": "HUXLEY ALDOUS - Nowy wspania\u0142y \u015bwiat [wydanie drugie] | Antique Concept store",
+            "url": "https://www.antiqueconceptstore.com/aldous-huxley-nowy-wspanialy-swiat-roj-1935"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Huxley Aldous",
+            "url": "https://www.empik.com/nowy-wspanialy-swiat-huxley-aldous,p1293067189,ksiazka-p"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2022 Huxley Aldous \u2022 ksi\u0105\u017cka - recenzje, opisy, opinie \u00bb BiblioNETka.pl",
+            "url": "https://www.biblionetka.pl/book.aspx?id=1754"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Nowy_wspania\u0142y_\u015bwiat"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat | Aldous Huxley (Ksi\u0105\u017cka) - Ksi\u0119garnia znak.com.pl",
+            "url": "https://www.znak.com.pl/p/nowy-wspanialy-swiat-aldous-huxley-104052"
+          },
+          {
+            "title": "Rok 2541 | Aldous Huxley, Nowy wspania\u0142y \u015bwiat - Zupe\u0142nie Inna Opowie\u015b\u0107",
+            "url": "https://zupelnieinnaopowiesc.com/2018/05/23/rok-2541-aldous-huxley-nowy-wspanialy-swiat/"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Aldous Huxley - Ksi\u0105\u017cka w ksi\u0119garni CapitalBook.pl",
+            "url": "https://capitalbook.com.pl/pl/p/Nowy-wspanialy-swiat-Aldous-Huxley/4536"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with information about the Polish translation of Aldous Huxley's \"Brave New World\" (Nowy wspania\u0142y \u015bwiat):\n\n## About the Polish Translation\n\nThe current Polish translation is by Bogdan Baran, published by Muza (Warszawskie Wydawnictwo Literackie MUZA). The original novel was written in 1931 and published in 1932.\n\nHowever, this wasn't the first Polish edition. There was an earlier Polish edition published in 1997, and based on one search result, there appears to have been a second edition as early as 1935, suggesting the first Polish translation may have been even earlier.\n\n## Publication History\n\n- The first English edition was published in 1932\n- When the novel \"Brave New World\" appeared in 1932, its shocking analysis of technocratic dictatorship was considered a distant vision\n- The novel has had multiple Polish editions and reprints over the decades\n\n## About the Work\n\nBrave New World is one of the most famous dystopias in 20th-century literature. It is a dystopia in the science fiction genre, where Huxley used the science fiction canon as a tool to confront ideas of freedom with order, pragmatism with fantasy, individualism with mass society culture.\n\nThe search results show various editions and publishers of the Polish translation, but unfortunately don't provide definitive information about who did the very first Polish translation or its exact publication date."
+    ],
+    "durationSeconds": 15.011796229999979
+  }
+}

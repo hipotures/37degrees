@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "mental health awareness Gen Z therapy antidepressants stigma Brave New World emotional suppression 2024"
+  },
+  "tool_response": {
+    "query": "mental health awareness Gen Z therapy antidepressants stigma Brave New World emotional suppression 2024",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_0181GoxKTHcXahMyVY9isrK8",
+        "content": [
+          {
+            "title": "Gen Z\u2019s View on Therapy and Mental Health | Pacific Oaks",
+            "url": "https://www.pacificoaks.edu/voices/blog/gen-z-view-on-mental-health/"
+          },
+          {
+            "title": "How Gen Z is Changing the Conversation on Mental Health | St. Bonaventure University Online",
+            "url": "https://online.sbu.edu/news/gen-z-mental-health"
+          },
+          {
+            "title": "How Gen Z is shaping a new era of mental-health care - MSU Denver RED",
+            "url": "https://red.msudenver.edu/2024/how-gen-z-is-shaping-a-new-era-of-mental-health-care/"
+          },
+          {
+            "title": "Generation Z\u2019s Mental Health Issues - The Annie E. Casey Foundation",
+            "url": "https://www.aecf.org/blog/generation-z-and-mental-health"
+          },
+          {
+            "title": "Roadblocks to Gen Z's Mental Health Care | Think Global Health",
+            "url": "https://www.thinkglobalhealth.org/article/roadblocks-gen-zs-mental-health-care"
+          },
+          {
+            "title": "Digital Methods for the Spiritual and Mental Health of Generation Z: Scoping Review - PMC",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10879969/"
+          },
+          {
+            "title": "TikTok Therapy: How the Gen Z Trend Is Reshaping Mental Health | Psychology Today",
+            "url": "https://www.psychologytoday.com/us/blog/the-human-algorithm/202503/tiktok-therapy-how-gen-zs-trend-is-reshaping-mental-health"
+          },
+          {
+            "title": "Gen Z\u2019s Mental Health, Economic Stress and Technology | St. Louis Fed",
+            "url": "https://www.stlouisfed.org/open-vault/2024/may/gen-z-mental-health-economic-distress-and-technology"
+          },
+          {
+            "title": "Best Practices for Mental Health in 2024",
+            "url": "https://www.mentalhealthcenters.org/best-practices-for-mental-health-in-2024/"
+          },
+          {
+            "title": "The Generational Gap in Perspectives on Mental Health - Child and Family Solutions Center",
+            "url": "https://www.childandfamilysolutionscenter.com/the-generational-gap-in-perspectives-on-mental-healt/"
+          }
+        ]
+      },
+      "The search results provide comprehensive information about Gen Z's approach to mental health, with several key themes emerging from 2024 research:\n\n## Mental Health Stigma Reduction\n\nThere has been a negative stigma around therapy and receiving mental health help. It is only now being challenged by Gen Z.(no content)Even though stigma continues to be a common barrier to mental health treatment, many experts credit Gen Z for helping to reduce stigma around mental health. One study estimated that members of Generation Z are 20% more willing to talk about their mental health than older generations.\n\n## Therapy Engagement and Openness\n\nTwo of every five Gen Zers regularly attend therapy, and 53% have sought professional mental-health services at some point, according to Harmony Healthcare IT. In fact, 87% report feeling comfortable discussing mental health, and over 60% feel comfortable sharing their struggles. This represents a significant shift from previous generations.\n\n## Mental Health Statistics and Challenges\n\nThe Harmon Healthcare's study also shows that anxiety levels in Gen Z are at a concerning 61% receiving a medical diagnosis for anxiety. Research by the Walton Family Foundation states that 42% of Gen Z struggle with depression and feelings of hopelessness, which is nearly twice the rate of people over the age of 25, at 23%.\n\n## Social Justice Integration\n\nUnlike previous generations, which often took an individualistic approach to mental health, focusing on the patient in isolation, Gen Z's approach is deeply intertwined with social justice. \"This generation focuses on collective well-being rather than just the individual,\" said Rogers. \"Issues like power, privilege and oppression are central to how they approach therapy.\"\n\n## Digital Mental Health and Risks\n\nStudies show that over 83% of TikTok's mental health advice is misleading (White, 2024), yet many users treat it as gospel. This is especially concerning given Gen Z's limited access to affordable mental health care. However, For some, TikTok is the first step toward seeking professional help. The challenge lies in ensuring that this initial awareness leads to accurate information and appropriate care.\n\n## Economic Factors\n\nIn the past 20 years or so, median rents have increased over 20% while median income has risen just 2%. Of the young adults who were household heads, 61% were cost burdened (spending more than 30% of their income on housing and utilities) in 2022. These economic pressures contribute to mental health challenges.\n\nThe search didn't return specific connections to \"Brave New World\" and emotional suppression themes, but the results show how Gen Z is actively working to reduce mental health stigma, increase therapy access, and integrate social justice perspectives into mental health care - a stark contrast to the emotional suppression depicted in Huxley's dystopian novel."
+    ],
+    "durationSeconds": 24.538514312000014
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Nowy wspania\u0142y \u015bwiat\" kasty spo\u0142eczne Alpha Beta Gamma Delta Epsilon polski"
+  },
+  "tool_response": {
+    "query": "\"Nowy wspania\u0142y \u015bwiat\" kasty spo\u0142eczne Alpha Beta Gamma Delta Epsilon polski",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_016tPhFKCym8VfyTS6Db6Abp",
+        "content": [
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - streszczenie - Aldous Huxley",
+            "url": "https://eszkola.pl/jezyk-polski/nowy-wspanialy-swiat-3079.html"
+          },
+          {
+            "title": "Natasza Szutta: \u201eNowy wspania\u0142y \u015bwiat\u201d i transhumanizm - Filozofuj!",
+            "url": "https://filozofuj.eu/natasza-szutta-nowy-wspanialy-swiat-transhumanizm/"
+          },
+          {
+            "title": "Fordyzm (Nowy Wspania\u0142y \u015awiat) \u2013 Polcompball Wiki Polska",
+            "url": "https://polcompballpl.miraheze.org/wiki/Fordyzm_(Nowy_Wspania%C5%82y_%C5%9Awiat)"
+          },
+          {
+            "title": "\"Nowy wspania\u0142y \u015bwiat\" \u2013 upiorna wizja realizacji ludzkich marze\u0144 - Historia - PR24.PL",
+            "url": "http://www.polskieradio.pl/39/156/Artykul/1575666,Nowy-wspanialy-swiat-\u2013-upiorna-wizja-realizacji-ludzkich-marzen"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2013 streszczenie, interpretacja - streszczenie, opracowanie na wypracowania.pl",
+            "url": "https://wypracowania.pl/lektury/nowy-wspanialy-swiat-streszczenie-interpretacja"
+          },
+          {
+            "title": "\u201eNowy wspania\u0142y \u015bwiat\u201d Aldous Huxley \u2013 Szuflada.net",
+            "url": "http://szuflada.net/nowy-wspanialy-swiat-aldous-huxley/"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Streszczenie szczeg\u00f3\u0142owe - Aldous Huxley - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/aldous-huxley/nowy-wspanialy-swiat.streszczenie-szczegolowe"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Charakterystyka bohater\u00f3w - Aldous Huxley - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/aldous-huxley/nowy-wspanialy-swiat.charakterystyka-bohaterow"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat streszczenie i opracowanie - strona 3",
+            "url": "https://nowy-wspanialy-swiat.streszczenia.pl/?strona=3"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Geneza i gatunek utworu - Aldous Huxley - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/aldous-huxley/nowy-wspanialy-swiat.geneza-i-gatunek-utworu"
+          }
+        ]
+      },
+      "Based on the search results, I found comprehensive information about the social caste system in \"Nowy wspania\u0142y \u015bwiat\" (Brave New World) by Aldous Huxley and its Polish analysis. Here's what the search revealed:\n\nThe search results provide detailed information about the social caste system in \"Nowy wspania\u0142y \u015bwiat\" (Brave New World), which divides society into five distinct castes named after Greek letters: Alpha, Beta, Gamma, Delta, and Epsilon.\n\n**The Caste Hierarchy:**\n\nThe caste system is described as follows: Delta \u2013 feeling disgust towards books and nature, Epsilon \u2013 illiterate, Gamma \u2013 work ox, Beta \u2013 primitive individual, Alpha \u2013 intelligent person. More detailed descriptions show that Alpha individuals are the smartest, wearing gray (later white) clothing, followed by Beta and Gamma classes in green clothing, Delta in khaki, and the lowest Epsilons dressed in black, representing the social margin.\n\n**Biological and Social Engineering:**\n\nThe division into castes occurs already at the fertilization stage, with fertilized eggs of lower classes being subjected to the Bokanovsky Process, which allows multiplying and dividing them into additional individuals \u2013 up to 96 identical twins. Embryos are subjected to appropriate conditioning based on their destined caste, profession, and even place of residence, with their biological development being manipulated, for example through limiting oxygen supplies, which leads to impairment of certain brain functions in individuals of the lowest castes.\n\n**Social Conditioning:**\n\nOne of the most important methods is hypnopedia \u2013 learning through sleep, where children are taught basic principles of social coexistence \u2013 moral and hygienic as well as class consciousness. Children are taught that the place they occupy in society is best for them \u2013 that it's not worth aspiring to a higher caste because its representatives work harder and their intellectual potential is much higher and impossible to match.\n\n**The Purpose of the System:**\n\nTo reconcile universal happiness with the necessity of differentiating performed work, the rulers decided to divide society into five fundamentally different castes of people, named by the author with Greek letters alpha, beta, gamma, delta and epsilon. The goal and meaning of conditioning is for every member of society to like what they must do. Satisfaction with one's destiny is the basic condition of happiness.\n\nThe Polish sources analyze this as a dystopian vision where you become an Alpha, Beta, Gamma, Delta or Epsilon without having any influence on it and without aspiring to anything higher, representing an exaggerated embodiment of the idea of transhumanism that was quite relevant to discussions in Polish academic circles."
+    ],
+    "durationSeconds": 22.039630500999746
+  }
+}

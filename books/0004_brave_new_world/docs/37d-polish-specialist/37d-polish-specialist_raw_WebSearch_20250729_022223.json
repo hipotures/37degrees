@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Nowy wspania\u0142y \u015bwiat\" totalitaryzm PRL komunizm polska interpretacja por\u00f3wnanie"
+  },
+  "tool_response": {
+    "query": "\"Nowy wspania\u0142y \u015bwiat\" totalitaryzm PRL komunizm polska interpretacja por\u00f3wnanie",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01Gdy5todiy3GaHxjpUaVzWW",
+        "content": [
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2013 problematyka \u2013 Aldous Huxley \u2013 poezja.org",
+            "url": "https://poezja.org/wz/interpretacja/7687/Nowy_wspanialy_swiat_problematyka"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat i Rok 1984 \u2013 por\u00f3wnanie \u2013 George Orwell \u2013 poezja.org",
+            "url": "https://poezja.org/wz/interpretacja/7701/Nowy_wspanialy_swiat_i_Rok_1984_porownanie"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2013 interpretacja tytu\u0142u \u2013 Aldous Huxley \u2013 poezja.org",
+            "url": "https://poezja.org/wz/interpretacja/7515/Nowy_wspanialy_swiat_interpretacja_tytulu"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Nowy_wspania\u0142y_\u015bwiat"
+          },
+          {
+            "title": "Li\u00adte\u00adrac\u00adka re\u00adflek\u00adsja nad kon\u00addy\u00adcj\u0105 \u015bwia\u00adta i jego przy\u00adsz\u0142o\u00ad\u015bci\u0105. Om\u00f3w za\u00adgad\u00adnie\u00adnie na pod\u00adsta\u00adwie po\u00adwie\u00ad\u015bci Rok 1984 Geo\u00adr\u00adge\u00ad\u2019a Or\u00adwel\u00adla. W swo\u00adjej od\u00adpo\u00adwie\u00addzi uwzgl\u0119d\u00adnij r\u00f3w\u00adnie\u017c wy\u00adbra\u00adny kon\u00adtekst. - Nowy wspania\u0142y \u015bwiat - George Orwell",
+            "url": "https://poezja.org/wz/interpretacja/4844/Literacka_refleksja_nad_kondycja_swiata_i_jego_przyszloscia_Omow_zagadnienie_na_"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - \u015aci\u0105gi, wypracowania, lektury - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/aldous-huxley/nowy-wspanialy-swiat.problematyka"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2013 streszczenie, interpretacja - streszczenie, opracowanie na wypracowania.pl",
+            "url": "https://wypracowania.pl/lektury/nowy-wspanialy-swiat-streszczenie-interpretacja"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2013 opracowanie (geneza, problematyka, bohaterowie)",
+            "url": "https://eszkola.pl/jezyk-polski/opracowanie-3080.html"
+          },
+          {
+            "title": "Proroctwo po trzech dekadach | Aldous Huxley, Nowy wspania\u0142y \u015bwiat 30 lat p\u00f3\u017aniej. Raport rozbie\u017cno\u015bci - Zupe\u0142nie Inna Opowie\u015b\u0107",
+            "url": "https://zupelnieinnaopowiesc.com/2018/11/22/proroctwo-po-trzech-dekadach-aldous-huxley-nowy-wspanialy-swiat-30-lat-pozniej-raport-rozbieznosci-1/"
+          },
+          {
+            "title": "Jak zachowa\u0107 wolno\u015b\u0107 w pa\u0144stwie totalitarnym? Om\u00f3w zagadnienie na podstawie powie\u015bci Rok 1984 George\u2019a Orwella. W swojej odpowiedzi uwzgl\u0119dnij r\u00f3wnie\u017c wybrany kontekst. \u2013 Inny \u015bwiat \u2013 George Orwell \u2013 poezja.org",
+            "url": "https://poezja.org/wz/interpretacja/6249/Jak_zachowac_wolnosc_w_panstwie_totalitarnym_Omow_zagadnienie_na_podstawie_powie"
+          }
+        ]
+      },
+      "Based on your search query, I found several relevant sources discussing \"Nowy wspania\u0142y \u015bwiat\" (Brave New World) by Aldous Huxley in the context of totalitarianism, communism, and Polish interpretations. Here are the key findings:\n\n## Totalitaryzm w \"Nowym wspania\u0142ym \u015bwiecie\"\n\nTotalitaryzm w powie\u015bci objawia si\u0119 poprzez subtelne formy kontroli i manipulacji, a nie przez brutalne represje. Spo\u0142ecze\u0144stwo, kt\u00f3re uchodzi za utopi\u0119, w rzeczywisto\u015bci jest miejscem, gdzie indywidualno\u015b\u0107 jest t\u0142umiona, a jednostki s\u0105 zmuszone do przestrzegania rygorystycznych norm spo\u0142ecznych, kt\u00f3re zapewniaj\u0105 tylko pozorny spok\u00f3j i szcz\u0119\u015bcie.(no content)\u015awiat pokazywany przez Huxleya to jeszcze jedno oblicze totalitaryzmu, w kt\u00f3rym jednostka nie ma nic do powiedzenia.(no content)Masowa rozrywka, seksualna rozwi\u0105z\u0142o\u015b\u0107 i narkotyki dost\u0119pne w ka\u017cdej ilo\u015bci s\u0105 jedynie fasad\u0105, za kt\u00f3r\u0105 skrywa si\u0119 ponure oblicze totalitaryzmu.\n\n## Por\u00f3wnania z komunizmem i systemami totalitarnymi\n\n\u201eNowy wspania\u0142y \u015bwiat\" Aldousa Huxleya i \u201eRok 1984\" George'a Orwella s\u0105 powie\u015bciami, kt\u00f3re w swoim wyd\u017awi\u0119ku sprzeciwiaj\u0105 si\u0119 totalitaryzmowi. Interesuj\u0105ce jest por\u00f3wnanie r\u00f3\u017cnych metod kontroli:\n\nW \u201eNowym wspania\u0142ym \u015bwiecie\", Huxley przedstawia pozorn\u0105 utopi\u0119 opart\u0105 na kontroli poprzez hedonizm i konsumpcjonizm. Spo\u0142ecze\u0144stwo jest zorganizowane w spos\u00f3b, kt\u00f3ry ma na celu zapewnienie jednostkom powierzchownego szcz\u0119\u015bcia i materialnego dobrobytu.(no content)System przedstawiony w powie\u015bci oparty jest na idei hedonizmu, kt\u00f3ry ma odwraca\u0107 uwag\u0119 obywateli od realnych problem\u00f3w i skupia\u0107 ich wok\u00f3\u0142 przyjemno\u015bci i konsumpcji, zamiast rewolucji.\n\n## Polska interpretacja i kontekst\n\nGeorge Orwell stworzy\u0142 Rok 1984 jako przestrog\u0119 przed tym, czego zasmakowa\u0142 jeszcze podczas hiszpa\u0144skiej wojny domowej. Stalinizm odcisn\u0105\u0142 na nim swoje pi\u0119tno, chocia\u017c nie mo\u017cna nazwa\u0107 pisarza jego ofiar\u0105.(no content)Orwell widzia\u0142 \u015bwiat przysz\u0142o\u015bci w\u0142a\u015bnie tak, poniewa\u017c ba\u0142 si\u0119 stalinizmu i tego, co mo\u017ce stanowi\u0107 jego ewolucyjne nast\u0119pstwo. Komunizm wywar\u0142 na nim negatywne wra\u017cenie (a by\u0142 on socjalist\u0105 z przekonania), tak wi\u0119c negatywnie ocenia\u0142 jego skutki.\n\n## Problematyka kontroli spo\u0142ecznej\n\nG\u0142\u00f3wnymi problemami przedstawionymi w powie\u015bci Huxleya s\u0105 kontrola spo\u0142eczna i manipulacja. W \u015bwiecie powie\u015bci, spo\u0142ecze\u0144stwo jest \u015bci\u015ble nadzorowane przez nowoczesne technologie i in\u017cynieri\u0119 genetyczn\u0105, kt\u00f3re kszta\u0142tuj\u0105 jednostki od chwili ich narodzin.(no content)Edukacja w \u201eNowym Wspania\u0142ym \u015awiecie\" jest narz\u0119dziem manipulacji i socjalizacji. Hipnopedia, czyli metoda nauki w trakcie snu jest u\u017cywana do zaimplementowania dzieciom od najm\u0142odszych lat norm spo\u0142ecznych. Edukacja nie ma na celu rozwijania intelektu, lecz wzmocnienie spo\u0142ecznej kontroli i zapewnienie, \u017ce jednostki b\u0119d\u0105 przestrzega\u0142y panuj\u0105cych norm.\n\nThe search results show that Polish literary analysis extensively examines Huxley's work as a critique of totalitarian systems, often drawing parallels with both fascist and communist regimes, while highlighting the novel's prophetic warnings about technological control and social manipulation."
+    ],
+    "durationSeconds": 28.54050728699984
+  }
+}

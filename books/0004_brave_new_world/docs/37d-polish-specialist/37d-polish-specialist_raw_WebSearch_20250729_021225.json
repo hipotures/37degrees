@@ -1,0 +1,63 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Huxley \"Nowy wspania\u0142y \u015bwiat\" matura polski arkusze 2020 2021 2022 2023 2024"
+  },
+  "tool_response": {
+    "query": "Huxley \"Nowy wspania\u0142y \u015bwiat\" matura polski arkusze 2020 2021 2022 2023 2024",
+    "results": [
+      "I'll perform a web search for that query about Huxley's \"Brave New World\" (Polish title \"Nowy wspania\u0142y \u015bwiat\") and Polish high school exam materials.",
+      {
+        "tool_use_id": "srvtoolu_01VbTAQmwvfDfHwFgTnesMy6",
+        "content": [
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat (Serial TV 2020-2020) - Filmweb",
+            "url": "https://www.filmweb.pl/serial/Nowy+wspania\u0142y+\u015bwiat-2020-833866"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat | Aldous Huxley (Ksi\u0105\u017cka) - Ksi\u0119garnia chodnikliteracki.pl",
+            "url": "https://chodnikliteracki.pl/p/nowy-wspanialy-swiat-aldous-huxley-157862"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Aldous Huxley | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5043467/nowy-wspanialy-swiat"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2013 problematyka \u2013 Aldous Huxley \u2013 poezja.org",
+            "url": "https://poezja.org/wz/interpretacja/7687/Nowy_wspanialy_swiat_problematyka"
+          },
+          {
+            "title": "Nowy Wspania\u0142y \u015awiat Aldous Huxley - oferty 2022 - Ceneo.pl",
+            "url": "https://www.ceneo.pl/oferty/nowy-wspanialy-swiat-aldous-huxley"
+          },
+          {
+            "title": "Rok 2541 | Aldous Huxley, Nowy wspania\u0142y \u015bwiat - Zupe\u0142nie Inna Opowie\u015b\u0107",
+            "url": "https://zupelnieinnaopowiesc.com/2018/05/23/rok-2541-aldous-huxley-nowy-wspanialy-swiat/"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Huxley Aldous",
+            "url": "https://www.empik.com/nowy-wspanialy-swiat-huxley-aldous,p1293067189,ksiazka-p"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Streszczenie szczeg\u00f3\u0142owe - Aldous Huxley - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/aldous-huxley/nowy-wspanialy-swiat.streszczenie-szczegolowe"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat 30 lat p\u00f3\u017aniej. Raport rozbie\u017cno\u015bci - Aldous Huxley | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5043464/nowy-wspanialy-swiat-30-lat-pozniej-raport-rozbieznosci"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat 30 lat p\u00f3\u017aniej Raport rozbie\u017cno\u015bci | Aldous Huxley (Ksi\u0105\u017cka) - Ksi\u0119garnia matras.pl",
+            "url": "https://www.matras.pl/p/nowy-wspanialy-swiat-30-lat-pozniej-raport-rozbieznosci-aldous-huxley-89201"
+          }
+        ]
+      },
+      "The search results show information about Aldous Huxley's \"Nowy wspania\u0142y \u015bwiat\" (Brave New World) but don't specifically contain Polish high school exam materials (arkusze maturalne) from the years 2020-2024. The results include book descriptions, reviews, and general literary analysis, but I don't see any specific exam materials or matura exam sheets that would contain this work.\n\nBased on the search results, I can tell you that:\n\n\"Nowy wspania\u0142y \u015bwiat\" is described as \"one of the most famous dystopias in 20th-century literature\" and it's an anti-utopian novel that addresses issues including the attitude of individuals toward the system.\n\nThe search results show various Polish bookstores and literary analysis sites discussing the work, but unfortunately, they don't contain the specific Polish matura exam materials (arkusze) from 2020-2024 that you were looking for. You might need to search more specifically for official Polish education ministry materials or exam preparation resources to find the actual matura exam sheets that featured this work during those years."
+    ],
+    "durationSeconds": 13.107937334000132
+  }
+}

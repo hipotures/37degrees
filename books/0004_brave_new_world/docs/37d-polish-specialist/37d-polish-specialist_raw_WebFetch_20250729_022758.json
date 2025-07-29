@@ -1,0 +1,19 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebFetch",
+  "tool_input": {
+    "url": "https://www.wuw.pl/product-eng-10365-Nowe-wspaniale-swiaty-Aldousa-Huxleya-i-ich-recepcja-w-Polsce.html",
+    "prompt": "Provide detailed information about this academic book on Aldous Huxley's reception in Poland, including author, publication details, scope, and key findings about Polish translations and scholarly reception."
+  },
+  "tool_response": {
+    "bytes": 91016,
+    "code": 200,
+    "codeText": "OK",
+    "result": "I apologize, but I cannot find any information about an academic book on Aldous Huxley's reception in Poland in the provided web page content. The text appears to be a webpage for the University of Warsaw Publishing House (Wydawnictwa Uniwersytetu Warszawskiego), showing their online bookstore interface, categories, and navigation elements. Without additional context or specific book details, I cannot provide details about a book on Huxley's reception in Poland.",
+    "durationMs": 5588,
+    "url": "https://www.wuw.pl/product-eng-10365-Nowe-wspaniale-swiaty-Aldousa-Huxleya-i-ich-recepcja-w-Polsce.html"
+  }
+}

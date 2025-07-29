@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "translate Brave New World concepts Gen Z language soma conditioning feelies modern metaphors"
+  },
+  "tool_response": {
+    "query": "translate Brave New World concepts Gen Z language soma conditioning feelies modern metaphors",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_012WWtVcUzW3PVgMZAjyos8L",
+        "content": [
+          {
+            "title": "Brave New World: Themes | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/bravenew/themes/"
+          },
+          {
+            "title": "Brave New World: Chapter Summaries and Key Concepts Explained (Englisch) - Knowunity",
+            "url": "https://knowunity.de/knows/englisch-brave-new-world-4f05393c-ebb9-45ce-b472-b86b49f161b9"
+          },
+          {
+            "title": "Feelies in Brave New World by Aldous Huxley | Overview & Metaphor - Lesson | Study.com",
+            "url": "https://study.com/academy/lesson/feelies-in-brave-new-world.html"
+          },
+          {
+            "title": "Appendix D: Brave New World Casebook \u2013 English 102 Book with English 105 supplemental",
+            "url": "https://openwa.pressbooks.pub/octavianog/back-matter/brave-new-world-casebook/"
+          },
+          {
+            "title": "Brave New World: Metaphors and Similes | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/bravenew/metaphors-and-similes/"
+          },
+          {
+            "title": "Brave New World by Aldous Huxley : Barron's Notes",
+            "url": "https://www.huxley.net/studyaid/bnwbarron.html"
+          },
+          {
+            "title": "Brave New World - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World"
+          },
+          {
+            "title": "Brave New World: Metaphors 5 key examples",
+            "url": "https://www.litcharts.com/lit/brave-new-world/literary-devices/metaphor"
+          },
+          {
+            "title": "Literary Devices In Brave New World \u270d\ufe0f",
+            "url": "https://litdevices.com/literature/brave-new-world/"
+          },
+          {
+            "title": "Notes on Objects & Places from Brave New World | BookRags.com",
+            "url": "https://www.bookrags.com/notes/bnw/obj.html"
+          }
+        ]
+      },
+      "Based on the search results, I can help you understand how Brave New World's key concepts translate into modern Gen Z language and contemporary metaphors. Here's how the major dystopian elements would resonate today:\n\n## Soma \u2192 \"Coping Mechanisms\" & Social Media Algorithms\n\nSoma represents the almost universal use of the drug that clouds the realities of the present and replaces them with happy hallucinations, serving as a tool for promoting social stability. In Gen Z terms, soma is like:\n- **\"Dopamine hits\"** from endless scrolling\n- **\"Dissociation station\"** - checking out from reality\n- **\"Emotional numbing\"** through binge-watching or gaming\n- The algorithm as your **\"digital dealer\"** - always serving up content to keep you distracted\n\n## Conditioning \u2192 \"Programming\" & Echo Chambers\n\nThe government uses hypnopaedia (sleep-learning) to indoctrinate citizens with social values and class consciousness from birth, while Neo-Pavlovian conditioning shapes behavior through positive and negative reinforcement. Modern equivalents include:\n- **\"Brainwashing by the algorithm\"** - how social media shapes beliefs\n- **\"Echo chamber conditioning\"** - only hearing what confirms your views\n- **\"Trauma bonding with capitalism\"** - being conditioned to find identity through consumption\n- **\"Toxic positivity culture\"** - being programmed to suppress negative emotions\n\n## Feelies \u2192 \"Immersive Tech\" & Virtual Experiences\n\nThe feelies are an advanced form of technology like a movie theater, but with smell and touch added through vents and metal knobs that allow viewers to feel exactly what's happening on screen. Today's parallels:\n- **\"VR but make it dystopian\"** \n- **\"Hyper-reality addiction\"** - preferring digital experiences over real ones\n- **\"Parasocial relationship simulator\"** \n- **\"Touch-grass resistance\"** - the opposite of going outside and experiencing real life\n\n## Modern Metaphor Translations\n\n**The Caste System** \u2192 **\"Class warfare but with extra steps\"**\n- Alphas = \"Main characters\" or \"that girl/boy energy\" \n- Betas = \"Supporting cast vibes\"\n- Epsilons = \"NPCs\" (non-player characters)\n\n**Hypnopaedic Slogans** \u2192 **\"Affirmations turned toxic\"**\n- \"Hypnopaedic\" slogans encourage citizens to think of themselves as part of a whole rather than as separate individuals.\n- Like toxic hustle culture mantras: \"Sleep is for the weak,\" \"Grind never stops\"\n\n**Instant Gratification Culture** \u2192 **\"Amazon Prime but for emotions\"**\n- Happiness refers to the immediate gratification of every citizen's desire for food, sex, drugs, nice clothes, and other consumer items.\n\nThe genius of Huxley's dystopia is that these pieces of technology blur the line between what is real and what feels real, which was exactly what Huxley wanted to shed light on and warn against with regards to technology. In Gen Z language, Brave New World is essentially about a society that's been **\"gaslit into thinking convenience equals happiness\"** while being **\"algorithmically optimized for compliance.\"**"
+    ],
+    "durationSeconds": 23.88481394100003
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Brave New World academic books scholarly analysis Jerome Meckier David Bradshaw critical studies monographs"
+  },
+  "tool_response": {
+    "query": "Brave New World academic books scholarly analysis Jerome Meckier David Bradshaw critical studies monographs",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01EV3N3K1hY7B1xhhRF9Re3B",
+        "content": [
+          {
+            "title": "Jerome Meckier, Review: Prepping for Brave New World: Aldous Huxley's Essays of the 1920s - PhilPapers",
+            "url": "https://philpapers.org/rec/MECRPF"
+          },
+          {
+            "title": "Brave New World: Suggestions for Further Reading | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/bravenew/bibliography/"
+          },
+          {
+            "title": "(PDF) Brave New World Literary Analysis",
+            "url": "https://www.academia.edu/30384139/Brave_New_World_Literary_Analysis"
+          },
+          {
+            "title": "Brave New World Study Guide | Literature Guide | LitCharts",
+            "url": "https://www.litcharts.com/lit/brave-new-world"
+          },
+          {
+            "title": "'Brave New World': Contexts and Legacies | SpringerLink",
+            "url": "https://link.springer.com/book/10.1057/978-1-137-44541-4"
+          },
+          {
+            "title": "(PDF) A Critical Narrative Analysis of Brave New World",
+            "url": "https://www.academia.edu/38085831/A_Critical_Narrative_Analysis_of_Brave_New_World"
+          },
+          {
+            "title": "Brave New World Essays and Criticism - eNotes.com",
+            "url": "https://www.enotes.com/topics/brave-new-world/critical-essays/essays-criticism"
+          },
+          {
+            "title": "Critical Articles - Brave New World - Research Guides at South Florida State College",
+            "url": "https://libguides.southflorida.edu/literature/novels/brave/articles"
+          },
+          {
+            "title": "In retrospect: Brave New World | Nature",
+            "url": "https://www.nature.com/articles/503338a"
+          },
+          {
+            "title": "Brave New World: Huxley, Aldous Introduction by David Bradshaw: 9780099458166: Amazon.com: Books",
+            "url": "https://www.amazon.com/Brave-Aldous-Introduction-Bradshaw-Huxley/dp/0099458160"
+          }
+        ]
+      },
+      "Based on the search results, I found several relevant academic and scholarly resources about Brave New World, including works by Jerome Meckier and David Bradshaw. Here are the key findings:\n\n## Jerome Meckier's Scholarly Contributions\n\nJerome Meckier authored \"Critical Essays on Aldous Huxley\" (Boston: G. K. Hall & Company, 1996), which contains original critical essays and historical reviews on Huxley's works. Additionally, Meckier co-edited \"Aldous Huxley Annual 6\" with Bernfried Nugel.\n\nJerome Meckier provides critical analysis characterizing the novel's themes, noting that \"the rational is raised to an irrational power until, for example, the goal of sanitation reform in the nineteenth century, namely cleanliness, replaces godliness\" in his examination of over-engineering and excessive rationality in Brave New World.\n\n## David Bradshaw's Academic Work\n\nDavid Bradshaw co-authored \"Aldous Huxley's Hearst Essays\" with James Sexton (Utopian Studies 7(2):196-212, 1996). Additionally, David Bradshaw wrote an introduction to a Brave New World edition published by Huxley.\n\n## Academic Collections and Monographs\n\nA significant scholarly collection titled \"'Brave New World': Contexts and Legacies\" provides \"new readings of Huxley's classic dystopian satire\" with \"leading international scholars consider[ing] from new angles the historical contexts in which the book was written and the cultural legacies\".\n\nAlessandro Maurini published \"Aldous Huxley: The Political Thought of a Man of Letters\" (Lexington Books, 2016), representing another significant monograph in Huxley studies.\n\nThe search results also revealed various academic articles in journals like Utopian Studies and other scholarly publications examining different aspects of Brave New World from critical and theoretical perspectives."
+    ],
+    "durationSeconds": 17.94748205500003
+  }
+}

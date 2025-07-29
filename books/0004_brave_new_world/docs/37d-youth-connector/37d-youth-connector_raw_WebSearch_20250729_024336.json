@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Brave New World Instagram TikTok instant gratification Gen Z social media addiction 2024 2025"
+  },
+  "tool_response": {
+    "query": "Brave New World Instagram TikTok instant gratification Gen Z social media addiction 2024 2025",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01PEMGTPZGGdZ9GKq61U3bVp",
+        "content": [
+          {
+            "title": "YouTube vs. TikTok vs. Instagram: What Gen Z really watches in 2025 - Digiday",
+            "url": "https://digiday.com/future-of-tv/youtube-vs-tiktok-vs-instagram-what-gen-z-really-watches-in-2025/"
+          },
+          {
+            "title": "Gen-Z and Its Addiction to Instant Gratification - Trill Mag",
+            "url": "https://www.trillmag.com/life/social-media/gen-z-and-its-addiction-to-instant-gratification/"
+          },
+          {
+            "title": "Gen Z isn't 'Googling.' They use Instagram, TikTok as search engines | Fortune",
+            "url": "https://fortune.com/2024/09/10/gen-z-google-verb-social-media-instagram-tiktok-search-engine/"
+          },
+          {
+            "title": "What Gen Z and Millennials Want on Instagram vs. TikTok | Poole Thought Leadership",
+            "url": "https://poole.ncsu.edu/thought-leadership/article/what-gen-z-and-millennials-want-on-instagram-vs-tiktok/"
+          },
+          {
+            "title": "How Gen Z uses social media and what that means for brands",
+            "url": "https://sproutsocial.com/insights/gen-z-social-media/"
+          },
+          {
+            "title": "What Makes TikTok so Addictive?: An Analysis of the Mechanisms Underlying the World\u2019s Latest Social Media Craze",
+            "url": "https://sites.brown.edu/publichealthjournal/2021/12/13/tiktok/"
+          },
+          {
+            "title": "Gen Z\u2019s New Search Engine: TikTok and Instagram Are Taking Over Google - AMA Boston",
+            "url": "https://amaboston.org/gen-zs-new-search-engine-tiktok-and-instagram-are-taking-over-google/"
+          },
+          {
+            "title": "How to raise money savvy kids in a world of instant gratification",
+            "url": "https://www.cnbc.com/2025/06/28/how-to-raise-money-savvy-kids-in-a-world-of-instant-gratification.html"
+          },
+          {
+            "title": "28 TikTok statistics marketers need to know in 2025 | Sprout Social",
+            "url": "https://sproutsocial.com/insights/tiktok-stats/"
+          },
+          {
+            "title": "U.S. Gen Z users of selected social platforms 2025 | Statista",
+            "url": "https://www.statista.com/statistics/1276021/instagram-snapchat-tiktok-gen-z-users/"
+          }
+        ]
+      },
+      "Based on my web search for \"Brave New World Instagram TikTok instant gratification Gen Z social media addiction 2024 2025,\" I found several relevant articles discussing these themes. Here are the key findings:\n\n## Gen Z's Relationship with Social Media Platforms\n\nAccording to The 2025 Sprout Social Index\u2122, 89% of Gen Z social media users are on Instagram, 84% are on YouTube and another 82% are on TikTok, making these platforms the most popular for Zoomers.(no content)According to the 2025 Sprout Social Index\u2122, 58% of consumers have profiles on TikTok, and 82% of Gen Z are mostly likely to have TikTok profiles.\n\n## Instant Gratification and Social Media Addiction\n\nThe search revealed significant research on Gen Z's addiction to instant gratification through social media:\n\nGeneration Z's perspective shows how social media apps influence them toward addiction to instant gratification and pleasure.(no content)The presence of the like button allows instant gratification, which drives habitual use and addiction through positive reinforcement.(no content)A study utilizing a functional MRI paradigm demonstrated increased neural activity in regions traditionally associated with reward, namely the nucleus accumbens, with dopamine release being a key part of the positive feedback loop that drives reward-based learning.\n\n## Social Media as Search Engine Alternative\n\n45% of Gen Z are more likely to use \"social searching\" on sites like TikTok and Instagram instead of Google, according to an April 2024 survey. Gen Z is redefining search by turning to TikTok and Instagram for quick, visual content in a world driven by instant information.\n\n## Gen Z's Recognition of Social Media Issues\n\nInterestingly, despite heavy usage, many in this generation are burnt out and suffering from the unhealthy impacts of social media, with 57% of Gen Z taking a detox in 2023 and 63% planning to in 2024\u2014the highest of any generation.\n\n## Economic Impact and Shopping Behavior\n\nForty-eight percent of Gen Z consumers plan to make more purchases through social media in 2025 compared to 2024, with they're most likely to make purchases through TikTok Shop, followed by Instagram Shops and Facebook Shops.(no content)Almost half like to make purchases on social media platforms like TikTok Shop, Facebook Marketplace and Instagram.\n\nThe search results show a complex relationship between Gen Z and social media platforms, with themes reminiscent of Aldous Huxley's \"Brave New World\" regarding instant gratification, social conditioning, and the pursuit of immediate pleasure through technology."
+    ],
+    "durationSeconds": 20.64917177500017
+  }
+}

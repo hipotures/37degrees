@@ -1,0 +1,150 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Nowy wspania\u0142y \u015bwiat\" wsp\u00f3\u0142czesna Polska m\u0142odzie\u017c TikTok social media interpretacja"
+  },
+  "tool_response": {
+    "query": "\"Nowy wspania\u0142y \u015bwiat\" wsp\u00f3\u0142czesna Polska m\u0142odzie\u017c TikTok social media interpretacja",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_013UuFm57hpTdjR4P9qR7NVm",
+        "content": [
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2013 interpretacja tytu\u0142u \u2013 Aldous Huxley \u2013 poezja.org",
+            "url": "https://poezja.org/wz/interpretacja/7515/Nowy_wspanialy_swiat_interpretacja_tytulu"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Nowy_wspania\u0142y_\u015bwiat"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - \u015aci\u0105gi, wypracowania, lektury - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/aldous-huxley/nowy-wspanialy-swiat.problematyka"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat (po rosyjsku) knizka.pl",
+            "url": "https://www.knizka.pl/pl/p/Nowy-wspanialy-swiat-po-rosyjsku/1911"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2013 streszczenie \u2013 Aldous Huxley \u2013 poezja.org",
+            "url": "https://poezja.org/wz/interpretacja/7544/Nowy_wspanialy_swiat_streszczenie"
+          },
+          {
+            "title": "Wsp\u00f3\u0142czesna dystopia : nowy wspania\u0142y \u015bwiat?",
+            "url": "https://ruj.uj.edu.pl/xmlui/handle/item/43726"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2013 streszczenie, interpretacja - streszczenie, opracowanie na wypracowania.pl",
+            "url": "https://wypracowania.pl/lektury/nowy-wspanialy-swiat-streszczenie-interpretacja"
+          },
+          {
+            "title": "\"Nowy wspania\u0142y \u015bwiat\" \u2013 upiorna wizja realizacji ludzkich marze\u0144 - Historia - PR24.PL",
+            "url": "http://www.polskieradio.pl/39/156/Artykul/1575666,Nowy-wspanialy-swiat-\u2013-upiorna-wizja-realizacji-ludzkich-marzen"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Problematyka",
+            "url": "https://streszczenia.pl/lektura/nowy-wspanialy-swiat/opracowanie/problematyka/"
+          }
+        ]
+      },
+      "Based on my search results, I can see that the query returned information about \"Nowy wspania\u0142y \u015bwiat\" (Brave New World) by Aldous Huxley, but it didn't find specific content about contemporary Polish youth, TikTok, or social media interpretations of this work. Let me try a more targeted search to find content specifically about how modern Polish youth or social media users interpret this classic dystopian novel.",
+      {
+        "tool_use_id": "srvtoolu_01SyhEfWZ48PmFhaxNJNqK6o",
+        "content": [
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Aldous Huxley | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5043467/nowy-wspanialy-swiat"
+          },
+          {
+            "title": "Huxley. Nowoczesno\u015b\u0107 jako dystopia [TPCT 399]",
+            "url": "https://teologiapolityczna.pl/tpct-399"
+          },
+          {
+            "title": "Uwb",
+            "url": "https://repozytorium.uwb.edu.pl/jspui/bitstream/11320/10350/1/K_M_Maj_Swiaty_w%C5%82adcow_logosu.pdf"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Nowy_wspania\u0142y_\u015bwiat"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Geneza i gatunek utworu - Aldous Huxley - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/aldous-huxley/nowy-wspanialy-swiat.geneza-i-gatunek-utworu"
+          },
+          {
+            "title": "\"Nowy wspania\u0142y \u015bwiat\" - Aldous Huxley | Prawo do bycia nieszcz\u0119\u015bliwym [opracowanie]",
+            "url": "https://www.kulturonieznawczyni.com/post/nowy-wspania\u0142y-\u015bwiat-aldous-huxley-prawo-do-bycia-nieszcz\u0119\u015bliwym-opracowanie"
+          },
+          {
+            "title": "Dystopia \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Antyutopia"
+          },
+          {
+            "title": "Czym si\u0119 r\u00f3\u017cni dystopia od antyutopii? - Papierowe Motyle",
+            "url": "https://www.papierowemotyle.pl/zapiski/czym-sie-rozni-dystopia-od-antyutopii/"
+          },
+          {
+            "title": "TikTok - nowa przestrze\u0144 komunikacji nastolatk\u00f3w",
+            "url": "https://rozprawyspoleczne.edu.pl/TikTok-nowa-przestrzen-komunikacji-nastolatkow,140024,0,1.html"
+          },
+          {
+            "title": "Czy \u201eNowy wspania\u0142y \u015bwiat\u201d to antyutopia?",
+            "url": "https://wypracowania24.pl/jezyk-polski/892/czy-nowy-wspanialy-swiat"
+          }
+        ]
+      },
+      "Let me try a more specific search to find content about contemporary interpretations of Huxley's work in the context of social media and modern youth culture.",
+      {
+        "tool_use_id": "srvtoolu_01DDHaEB6VoHmrecS2HnRTGD",
+        "content": [
+          {
+            "title": "\u201eJeste\u015bmy ca\u0142kowicie pozbawieni os\u0142ony\u201d - badania wp\u0142ywu medi\u00f3w spo\u0142eczno\u015bciowych na m\u0142odych ludzi - Amnesty International - Bronimy praw cz\u0142owieka",
+            "url": "https://www.amnesty.org.pl/badania-wplywu-mediow-spolecznosciowych-na-mlodych-ludzi/"
+          },
+          {
+            "title": "Cyberprofilaktyka NASK",
+            "url": "https://cyberprofilaktyka.pl/blog/jaki-wplyw-na-samopoczucie-nastolatkow-moga-miec-media-spolecznosciowe_i36.html"
+          },
+          {
+            "title": "Wsiz",
+            "url": "https://wsiz.edu.pl/wp-content/uploads/2024/11/rozprawa-6.pdf"
+          },
+          {
+            "title": "Social media toksyczne dla m\u0142odzie\u017cy w okre\u015blonym wieku - Fundusz Zdolni",
+            "url": "https://fundusz.org/blog/social-media-toksyczne-dla-mlodziezy-w-okreslonym-wieku/"
+          },
+          {
+            "title": "Przewodnik po dystopiach - Opinieouczelniach.pl",
+            "url": "https://opinieouczelniach.pl/artykul/przewodnik-po-dystopiach/"
+          },
+          {
+            "title": "M\u0142odzie\u017c a wirtualna osobowo\u015b\u0107 naszych czas\u00f3w \u2013 nowy wymiar \u201estawania si\u0119\u201d czy destrukcja to\u017csamo\u015bci? Refleksja na kanwie wybranych \u017ar\u00f3de\u0142 - Dydaktyka informatyki - Volume 16 (2021) - CEJSH - Yadda",
+            "url": "http://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.desklight-17c1ed78-5461-467b-be05-8886508b7b88"
+          },
+          {
+            "title": "M\u0142odzi w social mediach \u2013 wybrane aspekty funkcjonowania ...",
+            "url": "https://depot.ceon.pl/bitstream/handle/123456789/18850/m\u0142odzi w social mediach.pdf?sequence=1&isAllowed=y"
+          },
+          {
+            "title": "(PDF) Komunikowanie si\u0119 ludzi m\u0142odych we wsp\u00f3\u0142czesnym \u015bwiecie",
+            "url": "https://www.researchgate.net/publication/283509526_Komunikowanie_sie_ludzi_mlodych_we_wspolczesnym_swiecie"
+          },
+          {
+            "title": "Co nam zrobi\u0142y media spo\u0142eczno\u015bciowe? Jaka pi\u0119kna i wielka katastrofa",
+            "url": "https://mlodytechnik.pl/technika/31465-co-nam-zrobily-media-spolecznosciowe-jaka-piekna-i-wielka-katastrofa"
+          },
+          {
+            "title": "(PDF) Autoidentyfikacje wsp\u00f3\u0142czesnej m\u0142odzie\u017cy \u2013 przyczynek do dyskusji na temat: M\u0142odzie\u017c, czyli kto?",
+            "url": "https://www.researchgate.net/publication/321879368_Autoidentyfikacje_wspolczesnej_mlodziezy_-_przyczynek_do_dyskusji_na_temat_Mlodziez_czyli_kto"
+          }
+        ]
+      },
+      "Based on my search results, I found information about \"Nowy wspania\u0142y \u015bwiat\" (Brave New World) by Aldous Huxley, as well as content about contemporary Polish youth and their relationship with social media, but no specific materials that directly connect Huxley's dystopian novel with contemporary Polish youth interpretations on TikTok or social media platforms.\n\nHere's what I found from the searches:\n\n## About \"Nowy wspania\u0142y \u015bwiat\" (Brave New World)\n\n\u201eNowy wspania\u0142y \u015bwiat\" Aldousa Huxleya to dystopijna powie\u015b\u0107 opublikowana w 1932 roku, kt\u00f3ra przedstawia futurystyczne spo\u0142ecze\u0144stwo totalitarne, zorganizowane wok\u00f3\u0142 technologii, konsumpcji i kontroli umys\u0142\u00f3w. Jest to antyutopia, w konwencji science-fiction.(no content)Huxley u\u017cywa tego cytatu ironicznie, poniewa\u017c \u015bwiat, kt\u00f3ry przedstawia w swojej powie\u015bci, w rzeczywisto\u015bci jest dystopi\u0105 \u2013 miejscem, gdzie ludzka wolno\u015b\u0107, indywidualno\u015b\u0107 i duchowo\u015b\u0107 zosta\u0142y zniszczone w imi\u0119 stabilno\u015bci spo\u0142ecznej i pozornego szcz\u0119\u015bcia. Zamiast \u201ewspania\u0142ego\" \u015bwiata pe\u0142nego mo\u017cliwo\u015bci i odkry\u0107, mamy do czynienia z opresyjnym re\u017cimem, gdzie ludzie s\u0105 kontrolowani i zmanipulowani od chwili narodzin a\u017c po \u015bmier\u0107.\n\n## Contemporary Relevance and Modern Interpretations\n\nIdee Huxleya uderzaj\u0105 w dzisiejsze dzwony. Por\u00f3wnuj\u0105c go z George'em Orwellem, mo\u017cna stwierdzi\u0107, \u017ce Huxley nie tyle by\u0142 lepszym pisarzem, co lepszym prorokiem. W \u015bwiecie, gdzie rzeczywisto\u015b\u0107 przewy\u017csza czasem naj\u015bmielsze wyobra\u017cenia, mi\u0119kka wizja technologicznego przymusu Huxleya staje si\u0119 bardziej namacalna ni\u017c parszywa polityczna brutalno\u015b\u0107 \u201eRoku 1984\".(no content)Z drugiej strony, Huxley trafi\u0142 w sedno, je\u015bli chodzi o przysz\u0142o\u015b\u0107, kt\u00f3ra mo\u017ce rodzi\u0107 w\u0105tpliwo\u015bci o wolno\u015bci jednostki w spo\u0142ecze\u0144stwie, kt\u00f3re zbyt mocno pod\u0105\u017ca za komfortem i prostymi przyjemno\u015bciami. I to mo\u017ce by\u0107 co\u015b, co wci\u0105\u017c rezonuje w ko\u0144cu pytanie o to, co robimy z nasz\u0105 wolno\u015bci\u0105 i jak j\u0105 wykorzystujemy, jest bardzo aktualne.\n\n## Polish Youth and Social Media\n\nThe search results revealed extensive research about Polish youth and social media:\n\nCzas sp\u0119dzany przez m\u0142odych ludzi w mediach spo\u0142eczno\u015bciowych nieustannie wzrasta. A\u017c 74% respondent\u00f3w przyznaje, \u017ce sprawdza swoje konta w mediach spo\u0142eczno\u015bciowych cz\u0119\u015bciej ni\u017c by chcia\u0142o. Respondenci narzekaj\u0105 na \u201euzale\u017cniaj\u0105c\u0105\" pokus\u0119 ci\u0105g\u0142ej aktualizacji podpowiadanych przez algorytmy serwis\u00f3w tre\u015bci, co cz\u0119sto wi\u0105\u017ce si\u0119 z poczuciem \u201enadmiernej stymulacji\" i \u201eprzebod\u017acowania\".(no content)Pokolenie Z to osoby urodzone po 1995 roku, kt\u00f3re nie znaj\u0105 \u017cycia bez dost\u0119pu do internetu i medi\u00f3w spo\u0142eczno\u015bciowych. W przeciwie\u0144stwie do starszego pokolenia u\u017cytkownik\u00f3w sieci, dla m\u0142odszych os\u00f3b - nie ma granicy mi\u0119dzy \u015bwiatem realnym a wirtualnym.\n\n## Potential Connections\n\nWhile I didn't find specific content about Polish youth interpreting Huxley's work on TikTok, the search results suggest several thematic connections:\n\nNieustanny os\u0105d, rywalizacja, cyberbullying, mobbing. Tego rodzaju zachowania w szko\u0142ach, grupach m\u0142odzie\u017cowych wyst\u0119powa\u0142y zawsze, ale nigdy nie przenosi\u0142y si\u0119 do \u201ew medi\u00f3w\", do platform publicznych, na widok tysi\u0119cy innych. Social media, jak wszystko wskazuje, dezorientuj\u0105 a jednocze\u015bnie s\u0105 wielkim polem bitwy czy, jak kto woli, obszarem rywalizacji rynkowej, gdzie walczy si\u0119 bezwzgl\u0119dnie o nasz\u0105 uwag\u0119 i zainteresowanie.\n\nThe search query you requested appears to be looking for specific content about how contemporary Polish youth interpret Huxley's dystopian vision through the lens of modern social media platforms like TikTok, but such specific academic or cultural analysis wasn't found in the search results. The materials I found discuss these topics separately rather than as connected phenomena."
+    ],
+    "durationSeconds": 43.876276819999795
+  }
+}

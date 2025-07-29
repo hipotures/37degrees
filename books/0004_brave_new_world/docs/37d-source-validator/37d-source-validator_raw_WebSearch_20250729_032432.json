@@ -1,0 +1,55 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Brave New World\" banned Ireland 1932 \"anti-religion\" Australia verification"
+  },
+  "tool_response": {
+    "query": "\"Brave New World\" banned Ireland 1932 \"anti-religion\" Australia verification",
+    "results": [
+      "I'll search for information about \"Brave New World\" being banned in Ireland in 1932 for anti-religious content and any verification of this claim from Australia.",
+      {
+        "tool_use_id": "srvtoolu_01RKhghxi6nmjs3cAhpq9rko",
+        "content": [
+          {
+            "title": "Aldous Huxley, \u201cBrave New World\u201d \u2013 The Banned Books Project",
+            "url": "https://bannedbooks.library.cmu.edu/aldous-huxley-brave-new-world/"
+          },
+          {
+            "title": "Brave New World - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World"
+          },
+          {
+            "title": "Banned Books Awareness: \u201cBrave New World\u201d \u2013 Banned Books Awareness",
+            "url": "https://bbark.deepforestproductions.com/column/2011/10/16/banned-books-awareness-brave-world/"
+          },
+          {
+            "title": "Brave New World | Banned",
+            "url": "http://blog.naa.gov.au/banned/2013/07/02/brave-new-world/"
+          },
+          {
+            "title": "Banned Books: Brave New World, Aldous Huxley \u2013 The Looking Glass World of Aradhana Mathews",
+            "url": "https://aradhanamathews.com/banned-books-brave-new-world-aldous-huxley/"
+          },
+          {
+            "title": "Why is brave new world banned? \u2013 Book Vea",
+            "url": "https://bookvea.com/why-is-brave-new-world-banned/"
+          },
+          {
+            "title": "Why Is A Brave New World Banned - WhatisAny",
+            "url": "http://via.youramys.com/why-is-a-brave-new-world-banned/"
+          },
+          {
+            "title": "Why is a brave new world banned?",
+            "url": "https://askinglot.com/why-is-a-brave-new-world-banned"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about \"Brave New World\" being banned in Ireland in 1932 and verification from Australian sources:\n\n## Ireland Ban in 1932\n\nThe book was banned in Ireland in 1932 for its language, and for supposedly being anti-family and anti-religion. Multiple sources confirm this, with some providing additional details that the novel was first banned in Ireland in 1932 for anti-religion, anti-family, and blasphemous content.\n\n## Australia Verification and Ban\n\nThe search results provide verification from Australian sources, specifically from the National Archives of Australia. Brave New World was published in 1932 by Chatto and Windus, London and was named a prohibited import on 12 October of that year. Only one other nation also banned Brave New World; Ireland missed the irony central to the novel to label it anti-religion, anti-family, and extremely blasphemous.\n\nThis Australian government source confirms that:\n- Australia also banned the book in 1932 (on October 12th specifically)\n- Ireland was the only other nation to ban it at that time\n- The Australian perspective acknowledges that Ireland \"missed the irony central to the novel\"\n\nAdditional sources confirm that Australia quickly followed by censoring the book in the same year and that the novel was banned in Ireland and Australia in 1932, with the latter maintaining its censorship for five years.\n\nThe Australian National Archives source appears to be an official verification of both the Irish ban and Australia's own censorship of the book, supporting the claim about Ireland's 1932 ban for anti-religious content."
+    ],
+    "durationSeconds": 13.659296796999872
+  }
+}

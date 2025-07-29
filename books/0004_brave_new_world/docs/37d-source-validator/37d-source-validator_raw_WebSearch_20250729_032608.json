@@ -1,0 +1,67 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"First in vitro fertilization\" 1978 Louise Brown \"Brave New World\" prediction verification"
+  },
+  "tool_response": {
+    "query": "\"First in vitro fertilization\" 1978 Louise Brown \"Brave New World\" prediction verification",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01CLYrRkFTsjQhdJiq94k3By",
+        "content": []
+      },
+      "I need to perform the web search with a shorter, more focused query since the original query was too long. Let me search for the key elements:",
+      {
+        "tool_use_id": "srvtoolu_01WrZXgHL6C6szwQvqgfSfjh",
+        "content": [
+          {
+            "title": "Louise Brown at 40: Growing Up as the First 'Test-Tube Baby' | TIME",
+            "url": "https://time.com/5344145/louise-brown-test-tube-baby/"
+          },
+          {
+            "title": "Louise Brown - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Louise_Brown"
+          },
+          {
+            "title": "Louise Brown, The World's First Test-Tube Baby: Revisit Our Cover Story 40 Years Later - Newsweek",
+            "url": "https://www.newsweek.com/test-tube-baby-louise-brown-40-years-vitro-fertilization-1037431"
+          },
+          {
+            "title": "Louise Brown | Biography & Facts | Britannica",
+            "url": "https://www.britannica.com/biography/Louise-Brown"
+          },
+          {
+            "title": "Louise Brown: World's First IVF Baby",
+            "url": "https://www.louisejoybrown.co.uk/"
+          },
+          {
+            "title": "Louise Brown: The First test tube baby in the world",
+            "url": "https://birlafertility.com/blogs/louise-brown-the-first-test-tube-baby-in-the-world/"
+          },
+          {
+            "title": "Assisted Reproductive Technology after the Birth of Louise Brown - PMC",
+            "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3799275/"
+          },
+          {
+            "title": "World\u2019s first \"test tube\" baby born | July 25, 1978 | HISTORY",
+            "url": "https://www.history.com/this-day-in-history/july-25/worlds-first-test-tube-baby-born"
+          },
+          {
+            "title": "The US' First Test Tube Baby | American Experience | Official Site | PBS",
+            "url": "https://www.pbs.org/wgbh/americanexperience/features/babies-americas-first/"
+          },
+          {
+            "title": "Louise Brown, what about the first baby born by IVF?",
+            "url": "https://www.ingenes.com/en/assisted-reproduction/louise-brown-what-about-the-first-baby-born-by-ivf/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide comprehensive information about Louise Brown, the first in vitro fertilization baby born in 1978, and the connection to Aldous Huxley's \"Brave New World\" predictions.\n\n## Louise Brown: The First IVF Baby (1978)\n\nLouise Joy Brown was born on July 25, 1978, and is noted as the first human born following conception by in vitro fertilisation (IVF). The healthy baby was delivered shortly before midnight by caesarean section and weighed in at five pounds, 12 ounces at Oldham and District General Hospital in Manchester, England.\n\n### The Medical Breakthrough\n\nOn 10 November 1977, Lesley underwent the procedure that later became known as in vitro fertilisation (IVF), developed by Patrick Steptoe, Robert Edwards, and Jean Purdy. Brown's parents, Lesley and John Brown, had been trying to conceive naturally for nine years but Lesley faced complications from blocked fallopian tubes.\n\nAfter numerous attempts to impregnate her mother, Lesley Brown, medical researcher Robert Edwards and gynecologist Patrick Steptoe fertilized her eggs in a Petri dish before implanting the embryo. Although the media would refer to Brown as a \"test tube baby\", her conception actually took place in a Petri dish.\n\n### Connection to \"Brave New World\"\n\nThe search results reveal a fascinating connection to Aldous Huxley's predictive fiction:\n\nIn 1932, Aldous Huxley described the technique of IVF in his science fiction novel \"Brave New World\" - this was 46 years before Louise Brown's actual birth.\n\nNewspapers and readers made regular comparisons to Aldous Huxley's 1934 novel Brave New World, in which natural sexual reproduction is banned and humans are grown in labs through a process similar to what happened before the embryo was placed inside Lesley's womb.\n\nShe was born at 11:47 p.m. with a lusty yell, and it was a cry heard round the brave new world - this phrase from a 1978 Newsweek article directly references Huxley's novel title.\n\n### Public Reaction and Ethical Concerns\n\nThe birth generated significant controversy and debate:\n\nReligious groups were opposed to the idea of \"playing God\" with reproduction, and to a process in the course of which many embryos often died. But even secular society found the idea alarming.\n\nHer birth last week in a dowdy British mill town was in its way a first\u2014variously hailed as a medical miracle, an ethical mistake and the beginning of a new age of genetic manipulation.\n\n### Legacy and Impact\n\nEdwards was awarded the 2010 Nobel Prize in Medicine for this work. Since then, IVF has become a common procedure with a record of more than 5 million births worldwide, and over the next four decades IVF and other assisted reproductive technologies (ARTs) produced more than eight million babies globally.\n\nThe verification shows that Huxley's 1932 \"Brave New World\" remarkably anticipated IVF technology decades before it became reality, though the novel portrayed it in a dystopian context rather than as the medical breakthrough it became for treating infertility."
+    ],
+    "durationSeconds": 32.43047813399974
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "soma \"Nowy wspania\u0142y \u015bwiat\" Huxley polski przek\u0142ad narkotyk"
+  },
+  "tool_response": {
+    "query": "soma \"Nowy wspania\u0142y \u015bwiat\" Huxley polski przek\u0142ad narkotyk",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01JRAXs4zQx4twuCtgE4p9cE",
+        "content": [
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Nowy_wspania\u0142y_\u015bwiat"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Aldous Huxley | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5043467/nowy-wspanialy-swiat"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat | Aldous Huxley (Ksi\u0105\u017cka) - Ksi\u0119garnia znak.com.pl",
+            "url": "https://www.znak.com.pl/ksiazka/nowy-wspanialy-swiat-aldous-huxley-137179"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Streszczenie szczeg\u00f3\u0142owe - Aldous Huxley - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/aldous-huxley/nowy-wspanialy-swiat.streszczenie-szczegolowe"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat Aldous Huxley ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/nowy-wspanialy-swiat-aldous-huxley"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Geneza i gatunek utworu - Aldous Huxley - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/aldous-huxley/nowy-wspanialy-swiat.geneza-i-gatunek-utworu"
+          },
+          {
+            "title": "\"Nowy wspania\u0142y \u015bwiat\" - Aldous Huxley | Prawo do bycia nieszcz\u0119\u015bliwym [opracowanie]",
+            "url": "https://www.kulturonieznawczyni.com/post/nowy-wspania\u0142y-\u015bwiat-aldous-huxley-prawo-do-bycia-nieszcz\u0119\u015bliwym-opracowanie"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2013 problematyka \u2013 Aldous Huxley \u2013 poezja.org",
+            "url": "https://poezja.org/wz/interpretacja/7687/Nowy_wspanialy_swiat_problematyka"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Huxley Aldous",
+            "url": "https://www.empik.com/nowy-wspanialy-swiat-huxley-aldous,p1293067189,ksiazka-p"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Problematyka - Aldous Huxley - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/aldous-huxley/nowy-wspanialy-swiat.problematyka"
+          }
+        ]
+      },
+      "Based on the search results, I found comprehensive information about soma in the Polish translation of Aldous Huxley's \"Brave New World\" (titled \"Nowy wspania\u0142y \u015bwiat\" in Polish). Here's what the search revealed:\n\n## Soma w \"Nowym wspania\u0142ym \u015bwiecie\" - polskie przek\u0142ady i interpretacje\n\n**Soma jako kluczowy element dystopii Huxleya:**\n\nSoma to narkotyk u\u017cywany w ksi\u0105\u017cce, kt\u00f3rego kolejne dawki u\u015bmiercaj\u0105 ewentualne niepokoje, zgodnie z maksym\u0105: \u201eGdy jednostka czuje, wsp\u00f3lnota szwankuje\".\n\n**Funkcja somy w polskim przek\u0142adzie:**\n\nSymbolem dystopii jest soma \u2013 narkotyk, kt\u00f3ry za\u017cywa si\u0119, aby nie cierpie\u0107, nie my\u015ble\u0107, nie rozbudza\u0107 w sobie emocji. Pojawi\u0142 si\u0119 lek-narkotyk dla tych, kt\u00f3rzy z obecnym stanem nie mog\u0105 si\u0119 pogodzi\u0107. Nazwano go soma.\n\n**Rola somy w spo\u0142ecze\u0144stwie powie\u015bci:**\n\nW tym \u201ewspania\u0142ym \u015bwiecie\" dominuje seks, prymitywne rozrywki, narkotyk soma. Wszyscy obywatele s\u0105 szcz\u0119\u015bliwi dzi\u0119ki specjalnemu narkotykowi soma, kt\u00f3rego przyjmowanie jest obowi\u0105zkowe.\n\n\u015arodek farmaceutyczny zwany som\u0105 jest u\u017cywany do eliminowania wszelkich negatywnych emocji i dyskomfortu, co ma na celu utrzymanie pozornej harmonii i spokoju w spo\u0142ecze\u0144stwie.\n\n**Wsp\u00f3\u0142czesne nawi\u0105zania kulturowe:**\n\nInteresuj\u0105ce jest r\u00f3wnie\u017c wsp\u00f3\u0142czesne nawi\u0105zanie do somy w polskiej kulturze: Fragmenty powie\u015bci mo\u017cna znale\u017a\u0107 w utworach \u201eIntro\" i \u201eOutro\" z albumu Soma 0,5 mg duetu Taconafide. Dekadencka wymowa ca\u0142ego albumu silnie nawi\u0105zuje do dzie\u0142a Aldousa Huxleya. Sama nazwa p\u0142yty zaczerpni\u0119ta jest od nazwy narkotyku u\u017cywanego w ksi\u0105\u017cce.\n\n**Interpretacja somy w kontek\u015bcie kontroli spo\u0142ecznej:**\n\nSpo\u0142ecze\u0144stwo kieruje si\u0119 hedonizmem, unikaj\u0105c cierpienia i emocji dzi\u0119ki narkotykowi zwanemu som\u0105. Ludzie pozornie nie potrzebuj\u0105 wolno\u015bci, bo maj\u0105 narkotyk zapewniaj\u0105cy im szcz\u0119\u015bcie.\n\nSoma w polskim przek\u0142adzie \"Nowego wspania\u0142ego \u015bwiata\" zachowuje swoje pierwotne znaczenie jako symbol kontroli spo\u0142ecznej poprzez sztuczne szcz\u0119\u015bcie i eliminacj\u0119 autentycznych emocji ludzkich."
+    ],
+    "durationSeconds": 22.68682334800018
+  }
+}

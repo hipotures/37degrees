@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "social media campaigns classic literature BookTok successful strategies viral content 2024"
+  },
+  "tool_response": {
+    "query": "social media campaigns classic literature BookTok successful strategies viral content 2024",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_018cf8vAPCMQeEDA52zbhcNQ",
+        "content": [
+          {
+            "title": "The BookTok Era: When Literature Meets Social Media",
+            "url": "https://www.clarkinfluence.com/en/post/the-booktok-era-when-literature-meets-social-media"
+          },
+          {
+            "title": "BookTok\u2019s 21 Most Talked About Books of 2024",
+            "url": "https://www.rollingstone.com/culture/culture-lists/booktok-best-books-2024-1235090973/"
+          },
+          {
+            "title": "The Influence of BookTok on Literary Criticisms and Diversity - Alysia De Melo, 2024",
+            "url": "https://journals.sagepub.com/doi/10.1177/20563051241286700"
+          },
+          {
+            "title": "What is BookTok: 4 TikTok Strategies for Authors",
+            "url": "https://blog.bookbaby.com/how-to-promote-your-book/online-book-marketing/what-is-booktok"
+          },
+          {
+            "title": "Book Tok Trend 2025: How TikTok Is Reshaping Literary Discovery",
+            "url": "https://www.accio.com/business/book_tok_trend"
+          },
+          {
+            "title": "#Booktok: Social Media's Influence on Literature",
+            "url": "https://scholarship.richmond.edu/cgi/viewcontent.cgi?article=2716&context=honors-theses"
+          },
+          {
+            "title": "BookTok: Trends and community - The Johns Hopkins News-Letter",
+            "url": "https://www.jhunewsletter.com/article/2024/04/booktok-trends-and-community"
+          },
+          {
+            "title": "Social media is influencing how authors promote their books. Here's how",
+            "url": "https://www.npr.org/2025/05/21/g-s1-67581/books-social-media-booktok-bookstagram"
+          },
+          {
+            "title": "2025 Book Publishing Trends: 21 Booktok and Bookstagram Influencers\u2019 Predictions",
+            "url": "https://www.elle.com/culture/books/a63445166/2025-book-publishing-trends-influencer-predictions-explained/"
+          },
+          {
+            "title": "BookTok For Authors: Complete TikTok Guide For Literary Success",
+            "url": "https://www.learningrevolution.net/booktok-tiktok-for-authors/"
+          }
+        ]
+      },
+      "Based on my search results, here's what I found about social media campaigns for classic literature on BookTok and successful strategies for viral content in 2024:\n\n## BookTok's Impact on Literature Sales\n\nBookTok has garnered over 211 billion views worldwide as of 2024, transforming from a grassroots community into a major marketing driver that has been responsible for millions of dollars in book sales. A notable example is \"The Song of Achilles\" by Madeline Miller, which sold around 10,000 copies by 2020 but skyrocketed to over 500,000 copies sold in 2021 after a viral TikTok video.\n\n## Successful BookTok Strategies for 2024\n\n### Key Content Strategies\nTo create viral BookTok content, authors need to identify and engage their target audience, as every genre has passionate readers and BookTokers, and understanding what these communities are looking for can significantly impact reach.\n\nAuthenticity is magnetic in the highlight reel world of social media, and combined with using hashtags and trends, it draws audiences and potential readers. Successful content includes:\n\n- Creating authentic and relatable content, sharing behind-the-scenes views of the writing process, character insights, or the author's journey\n- Participating in trends like silent book reviews where people act their feelings and reactions towards books\n- Using duet and reaction features to engage with other BookTok creators, particularly when discussing themes relevant to your own story\n\n### Classic Literature on BookTok\nClassic and contemporary works have been popularized through the \"dark academia\" aesthetic, which romanticizes higher education, art and literature, with books like Donna Tartt's \"The Secret History,\" \"Wuthering Heights,\" and Virginia Woolf novels gaining traction.\n\n## 2024 Trends and Marketing Insights\n\nOver 52 million BookTok creations and 370 billion views by 2025 have revitalized backlist titles and launched debut authors into bestseller status, with hybrid genres like \"romance-thrillers\" and \"cozy crime\" gaining traction due to TikTok's emotional engagement.\n\nTop BookTok creators with substantial followings amplify sales through reviews and challenges, and collaborating with micro-influencers (10K\u2013100K followers) and leveraging hashtags like #bookish and #booktok helps tap into viral trends.\n\n### Marketing Predictions for 2024-2025\nExperts forecast a 20\u201330% year-over-year increase in YA and genre-blended fiction sales through 2026, fueled by BookTok's algorithmic reach. TikTok has dramatically reshaped nearly every aspect of the book business, with viral content capable of bumping books several rungs up the bestseller ladder.\n\nThe search results show that BookTok continues to be a powerful force in 2024, with successful campaigns focusing on authentic engagement, trend participation, and strategic use of hashtags and collaborations with influencers."
+    ],
+    "durationSeconds": 24.534851412999444
+  }
+}

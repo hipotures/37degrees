@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Polish youth Gen Z concerns social media trends education pressure Poland 2024"
+  },
+  "tool_response": {
+    "query": "Polish youth Gen Z concerns social media trends education pressure Poland 2024",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01CwZ4HWPdRoR4Sk6RVabxTa",
+        "content": [
+          {
+            "title": "Digital 2024: Poland \u2014 DataReportal \u2013 Global Digital Insights",
+            "url": "https://datareportal.com/reports/digital-2024-poland"
+          },
+          {
+            "title": "Social Media in Poland in 2024: Key Trends and Data for International Marketing - LemonMedia Agency",
+            "url": "https://lemon-media.pl/en/social-media-in-poland-in-2024-key-trends-and-data-for-international-marketing/"
+          },
+          {
+            "title": "Poland: Social media use in the morning by Generation Z 2022 | Statista",
+            "url": "https://www.statista.com/statistics/1347629/poland-social-media-use-in-the-morning-by-generation-z/"
+          },
+          {
+            "title": "Social media in Poland \u2013 marketing statistics to know in 2024 | All 4 Comms",
+            "url": "https://all4comms.com/social-media-in-poland-marketing-statistics-to-know-in-2024/"
+          },
+          {
+            "title": "Understanding generation Z: Reaching young Poles | All 4 Comms",
+            "url": "https://all4comms.com/understanding-generation-z-reaching-young-poles/"
+          },
+          {
+            "title": "Next Generation Poland | British Council",
+            "url": "https://www.britishcouncil.org/research-insight/next-generation-poland"
+          },
+          {
+            "title": "Poland: Social media use in the Prime Time by Generation Z 2022 | Statista",
+            "url": "https://www.statista.com/statistics/1347678/poland-social-media-use-in-the-prime-time-by-generation-z/"
+          },
+          {
+            "title": "Social Media Trends in Poland, France, and the United States",
+            "url": "https://www.translatorsfamily.com/comparative-analysis-of-social-media-usage-in-poland-france-and-the-united-states/"
+          },
+          {
+            "title": "Social Media Stats Poland | Statcounter Global Stats",
+            "url": "https://gs.statcounter.com/social-media-stats/all/poland"
+          },
+          {
+            "title": "Poland: social media users by age 2024 | Statista",
+            "url": "https://www.statista.com/statistics/1044429/poland-social-media-users-by-age/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide insights about Polish youth Gen Z concerns regarding social media trends, education pressure, and general issues in Poland for 2024:\n\n## Social Media Usage Among Polish Gen Z\n\nGen Z (15\u201324 years) \u2013 TikTok, Instagram, and Snapchat dominate, with average usage of 3\u20134 hours per day.(no content)Young adults between 18 and 24 years old were the most likely to be registered on social media platforms in Poland in 2024, with 100 percent of respondents.(no content)The youngest individuals are most often online between 5 and 6 hours a day (40%). This heavy digital consumption indicates significant social media engagement among Polish youth.\n\n## Social Media Trends and Concerns\n\nOver the last 12 months, TikTok has seen enormous increases in advertising reach. The potential reach increased by 2.2 million (+23.2%) between October 2023 and January 2024.\n\nRegarding influencer culture, there are concerning attitudes: the income level of influencers arouses negative emotions among Poles. 69% of respondents stated that influencers earn too much. However, 80% of Poles under 20 years old declare that they occasionally buy products recommended on social media.\n\n## Mental Health and Digital Isolation\n\nSuch isolation from the real world is associated with an increase in mental health disorders or psychological conditions. Generation Z in Poland is also the first generation to openly discuss psychotherapy and struggles with depression.\n\n## Education Pressure and Preparedness\n\nThe British Council's research reveals significant concerns about educational preparedness: But they feel unprepared by their education for the demands of working life and the unique pressures their generation will face in adulthood.\n\n## Generation Z Characteristics in Poland\n\nGeneration Z is the first generation in history that does not experience a generation gap conflict. About 70% of young Poles claim to have good relationships with their parents and prefer communication over youthful rebellion.(no content)When communicating with Polish Generation Z, it's essential to recognise that they are the first generation to openly set boundaries and express dissatisfaction.\n\n## Technology and Social Attitudes\n\n84% of Polish Generation Z members claim to comfortably use technological advancements. They also have a positive attitude toward technological changes in the job market.\n\nThe search results indicate that Polish Gen Z faces unique challenges around heavy social media usage, mental health awareness, educational preparedness concerns, and complex relationships with digital influence culture, while maintaining generally positive family relationships and technological optimism."
+    ],
+    "durationSeconds": 21.428237099000253
+  }
+}

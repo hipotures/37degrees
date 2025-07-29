@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Nowy wspania\u0142y \u015bwiat\" t\u0142umacz \"Bogdan Baran\" wydania polskie"
+  },
+  "tool_response": {
+    "query": "\"Nowy wspania\u0142y \u015bwiat\" t\u0142umacz \"Bogdan Baran\" wydania polskie",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01JtQYUkLgvEkswzCmBkohrc",
+        "content": [
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Aldous Huxley, Bogdan Baran",
+            "url": "https://bonito.pl/produkt/nowy-wspanialy-swiat-2"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Aldous Huxley | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5043467/nowy-wspanialy-swiat"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat (Aldous Huxley) - tantis.pl",
+            "url": "https://tantis.pl/nowy-wspanialy-swiat-p855644"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Aldous Huxley - inne wydania | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/ksiazka/wydania/107429/nowy-wspanialy-swiat"
+          },
+          {
+            "title": "Lubimyczytac",
+            "url": "https://lubimyczytac.pl/ksiazka/wydania/112971/nowy-wspanialy-swiat-audiobook"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Aldous Huxley, Bogdan Baran",
+            "url": "https://bookmaster.com.pl/ksiazka-2456046-nowy-wspanialy-swiat-aldous-huxley-bogdan-baran"
+          },
+          {
+            "title": "Ksi\u0105\u017cka Nowy Wspania\u0142y \u015awiat, Aldous Huxley, Bogdan Baran - Ceny i opinie - Ceneo.pl",
+            "url": "https://www.ceneo.pl/95354187"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat, Huxley Aldous, Bogdan Baran (2019) - Ksi\u0119garnia internetowa Rzesz\u00f3w LIBRA.pl - ksi\u0105\u017cki",
+            "url": "https://www.libra.pl/produkt/nowy-wspanialy-swiat,292409.html"
+          },
+          {
+            "title": "Bogdan Baran ebooki, ksi\u0105\u017cki i audiobooki | ksi\u0119garnia internetowa Woblink",
+            "url": "https://woblink.com/autor/bogdan-baran-18528"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat (Aldous Huxley) - ksi\u0105\u017cka - ksi\u0119garnia tantis.pl",
+            "url": "https://tantis.pl/nowy-wspanialy-swiat-aldous-huxley"
+          }
+        ]
+      },
+      "Based on the search results, I found extensive information about Polish editions of \"Brave New World\" (\"Nowy wspania\u0142y \u015bwiat\") translated by Bogdan Baran. Here's what I discovered:\n\n## Polish Editions of \"Nowy wspania\u0142y \u015bwiat\" with Bogdan Baran Translation\n\nBogdan Baran is listed as the translator of \"Nowy wspania\u0142y \u015bwiat\" by Aldous Huxley. The search results show multiple Polish editions published over the years:\n\n### Recent Editions:\n- 2022 edition published by Muza\n- 2019 edition published by Muza SA\n- 2011 edition published by Muza\n- 2010 audiobook edition\n\n### Publication Details:\nThe book has 256 pages and includes ISBN 9788328726161. The 2011 edition has dimensions of 190 x 125 x 16 mm with a soft cover.\n\n### Availability:\nThe book is widely available in Polish bookstores, both online and physical, including:\n- Bonito.pl\n- Lubimyczytac.pl  \n- Tantis.pl\n- Ceneo.pl\n- Bookmaster.com.pl\n- Libra.pl\n- Woblink.com (ebook format)\n\nThis legendary dystopia by one of the most outstanding writers of the century, published in 1932, strikes with unparalleled freshness, and it remains one of the most famous dystopias in 20th-century literature.\n\nThe Bogdan Baran translation appears to be the standard Polish translation used across multiple publishers and editions of this classic work."
+    ],
+    "durationSeconds": 15.46910705600027
+  }
+}

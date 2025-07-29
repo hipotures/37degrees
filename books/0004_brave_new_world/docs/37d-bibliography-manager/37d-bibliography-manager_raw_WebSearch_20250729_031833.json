@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Brave New World PhD dissertations thesis comparative literature studies university research database"
+  },
+  "tool_response": {
+    "query": "Brave New World PhD dissertations thesis comparative literature studies university research database",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01KeaDkCBjNBb7qXAwhXpjoM",
+        "content": [
+          {
+            "title": "ProQuest Dissertations & Theses Global",
+            "url": "https://about.proquest.com/en/products-services/pqdtglobal/"
+          },
+          {
+            "title": "OATD \u2013 Open Access Theses and Dissertations",
+            "url": "https://oatd.org/"
+          },
+          {
+            "title": "Dissertations and Theses - Main Reading Room Databases and Research - Research Guides at Library of Congress",
+            "url": "https://guides.loc.gov/c.php?g=1428775&p=10607107"
+          },
+          {
+            "title": "Brown Digital Repository | Theses and Dissertations",
+            "url": "https://repository.library.brown.edu/studio/collections/dissertation/"
+          },
+          {
+            "title": "Comparative Literature Theses and Dissertations | Comparative Literature, Program of | University of South Carolina",
+            "url": "https://scholarcommons.sc.edu/cplt_etd/"
+          },
+          {
+            "title": "Dissertations in Comparative Literature | Department of Comparative Literature",
+            "url": "https://complit.yale.edu/graduate/recent-dissertations-comparative-literature"
+          },
+          {
+            "title": "Worldwide theses - Theses - Subject guides at University of Manchester",
+            "url": "https://subjects.library.manchester.ac.uk/c.php?g=539861&p=3700426"
+          },
+          {
+            "title": "Dissertations",
+            "url": "https://about.proquest.com/en/dissertations/"
+          },
+          {
+            "title": "EBSCO Open Dissertations | EBSCO",
+            "url": "https://www.ebsco.com/products/research-databases/ebsco-open-dissertations"
+          },
+          {
+            "title": "Dissertations and theses - How to find resources by format - Research Guides at University of Minnesota Minneapolis",
+            "url": "https://libguides.umn.edu/FindResourcesbyFormat/dissertations"
+          }
+        ]
+      },
+      "Based on the search results, I found several comprehensive databases and resources for locating PhD dissertations and theses in comparative literature studies. Here are the key university research databases and resources:\n\n## Major Dissertation and Thesis Databases\n\n**ProQuest Dissertations & Theses Global (PQDT)** is the world's most comprehensive curated collection of multi-disciplinary dissertations and theses from around the world, offering over 6 million citations and 4 million full-text works from thousands of universities. Index of doctoral dissertations and master's theses, with coverage from 1861 to the present. Those published from 1980 to present include abstracts, and many of those published since the 1990's are available in full text (PDF digital format) along with 24 page previews.\n\n**OATD (Open Access Theses and Dissertations)** aims to be the best possible resource for finding open access graduate theses and dissertations published around the world. OATD currently indexes 7,464,811 theses and dissertations.\n\n**EBSCO Open Dissertations** makes electronic theses and dissertations (ETDs) more accessible to researchers worldwide. The free portal is designed to benefit universities and their students and make ETDs more discoverable.\n\n## Literature-Specific Resources\n\n**MLA International Bibliography** offers a detailed bibliography of journal articles, books and dissertations on literature, language, linguistics, and folklore, including film studies.\n\n## Comparative Literature Examples\n\nThe University of South Carolina has Comparative Literature Theses and Dissertations covering topics like \"Emerson and Nietzsche,\" Soviet women's narratives, Chinese science fiction, and various cross-cultural literary studies.\n\nYale's Department of Comparative Literature notes that Dissertations in Comparative Literature have taken on vast number of topics and ranged across various languages, literatures, historical periods and theoretical perspectives. The department seeks to help each student craft a unique project and find the resources across the university to support and enrich her chosen field of study.\n\n## Additional Resources\n\nFor searching physical collections, the Library of Congress provides guidance on early dissertations and those from the University of Chicago through June 2009 are found in paper copies throughout the Library's General Collections and can be searched by title or author in the Library's online catalog.\n\nThese databases would be the best starting points for finding PhD dissertations and theses specifically related to Brave New World and comparative literature studies."
+    ],
+    "durationSeconds": 21.552194985999726
+  }
+}

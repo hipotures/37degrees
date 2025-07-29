@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Great Depression 1929 unemployment rates Germany 30% United States 20% 1932 statistics verification"
+  },
+  "tool_response": {
+    "query": "Great Depression 1929 unemployment rates Germany 30% United States 20% 1932 statistics verification",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01G6W5Two24vgN4axzg6c5Nx",
+        "content": [
+          {
+            "title": "Great Depression - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Great_Depression"
+          },
+          {
+            "title": "The Great Depression in Germany",
+            "url": "https://alphahistory.com/weimarrepublic/great-depression/"
+          },
+          {
+            "title": "Unemployment in the Great Depression: United States, United Kingdom, and Germany \u2013 Explaining History Podcast",
+            "url": "https://explaininghistory.org/2025/06/12/unemployment-in-the-great-depression-united-states-united-kingdom-and-germany/"
+          },
+          {
+            "title": "Unemployment in Nazi Germany",
+            "url": "https://spartacus-educational.com/GERunemployment.htm"
+          },
+          {
+            "title": "443 Unemployment 1928-1938",
+            "url": "https://pages.uoregon.edu/dluebke/NaziGermany443/410Unemployment1928-1938.html"
+          },
+          {
+            "title": "Germany in Great Depression: Effects, Unemployment, Causes",
+            "url": "https://www.vaia.com/en-us/explanations/history/democracy-and-dictatorship-in-germany/germany-in-great-depression/"
+          },
+          {
+            "title": "Great Depression | Holocaust Encyclopedia",
+            "url": "https://encyclopedia.ushmm.org/content/en/article/the-great-depression"
+          },
+          {
+            "title": "Employment and Unemployment in the 1930s - FRASER",
+            "url": "https://fraser.stlouisfed.org/files/docs/meltzer/maremp93.pdf"
+          },
+          {
+            "title": "Great Depression | Definition, History, Dates, Causes, Effects, & Facts | Britannica",
+            "url": "https://www.britannica.com/event/Great-Depression"
+          },
+          {
+            "title": "Great Depression in Germany",
+            "url": "https://alphahistory.com/nazigermany/the-great-depression/"
+          }
+        ]
+      },
+      "Based on the search results, I can verify some of the statistics you mentioned regarding unemployment rates during the Great Depression:\n\n## United States Unemployment Statistics\n\nIn the United States, unemployment reached more than 20 percent between 1929 and 1933. More specifically, by 1933, approximately 15 million people (more than 20 percent of the U.S. population at the time) were unemployed. Some sources indicate even higher peaks, with by 1932, more than 12 million Americans \u2013 or 24 per cent of workers \u2013 were out of a job.\n\n## Germany Unemployment Statistics\n\nThe German unemployment situation was indeed severe:\n\n- Unemployment rose from about 1.3\u20131.8 million unemployed in 1929 to around 5 to 6 million by late 1932, with the official unemployment rate in Germany standing near 30%\u201334% of the workforce by early 1933\n- In 1932, at the height of the Depression, the unemployment rate in Germany skyrocketed to an unprecedented 29.9%\n- By early 1933 a staggering 6 million (26 per cent) were out of work\n\n## Verification Summary\n\nYour statistics are largely accurate:\n\n- **Germany**: The ~30% unemployment rate in 1932 is confirmed by multiple sources\n- **United States**: The ~20% unemployment rate is verified, with some sources indicating it peaked around 24-25% in 1932-1933\n\nGermany's unemployment rate around 30%\u201334% was one of the highest unemployment rates in the world at that time, even exceeding the U.S. The economic devastation was particularly severe in Germany due to its dependence on American loans and investment, which dried up after the 1929 Wall Street Crash."
+    ],
+    "durationSeconds": 16.485212255000135
+  }
+}

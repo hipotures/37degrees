@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Nowy wspania\u0142y \u015bwiat\" nauczanie szkole polskiej metodyka analiza literacka"
+  },
+  "tool_response": {
+    "query": "\"Nowy wspania\u0142y \u015bwiat\" nauczanie szkole polskiej metodyka analiza literacka",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01WmbfN4k1jb1K3Pcaw7kDFt",
+        "content": [
+          {
+            "title": "Analiza lektury Nowy wspania\u0142y \u015bwiat - Sciaga.pl",
+            "url": "https://sciaga.pl/tag/analiza-lektury-nowy-wspanialy-swiat"
+          },
+          {
+            "title": "(PDF) Arleta Suwalska Obrazy edukacji w dystopii \"Nowy wspania\u0142y \u015bwiat\" Aldousa Huxleya",
+            "url": "https://www.researchgate.net/publication/369437309_Arleta_Suwalska_Obrazy_edukacji_w_dystopii_Nowy_wspanialy_swiat_Aldousa_Huxleya"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2013 opracowanie (geneza, problematyka, bohaterowie)",
+            "url": "https://eszkola.pl/jezyk-polski/opracowanie-3080.html"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat, Aldous Huxley: podsumowanie, analiza i postacie z ksi\u0105\u017cki",
+            "url": "https://nairaquest.com/pl/topics/2204-brave-new-world-by-aldous-huxley-summary-analysis-and-cha"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2013 streszczenie, interpretacja - streszczenie, opracowanie na wypracowania.pl",
+            "url": "https://wypracowania.pl/lektury/nowy-wspanialy-swiat-streszczenie-interpretacja"
+          },
+          {
+            "title": "\u201eNowy Wspania\u0142y \u015awiat\u201d, Aldous Huxley | Laboratorium My\u015bli",
+            "url": "https://laboratoriummysli.wordpress.com/2011/06/24/nowy-wspanialy-swiat-a-huxley/"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat 30 lat p\u00f3\u017aniej. Raport rozbie\u017cno\u015bci Aldous Huxley ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/nowy-wspanialy-swiat-30-lat-pozniej-raport-rozbieznosci-aldous-huxley"
+          },
+          {
+            "title": "Aldous Huxley - Nowy \u015bwiat, ale czy wspania\u0142y? - Sciaga.pl",
+            "url": "https://sciaga.pl/tekst/54166-55-aldous_huxley_nowy_swiat_ale_czy_wspanialy"
+          },
+          {
+            "title": "NOWY WSPANIA\u0141Y \u015aWIAT \u2013 ALDOUS HUXLEY | U\u015bwiadom To Sobie",
+            "url": "https://uswiadomtosobie.pl/nowy-wspanialy-swiat-aldous-huxley/"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat | Aldous Huxley (Ksi\u0105\u017cka) - Ksi\u0119garnia znak.com.pl",
+            "url": "https://www.znak.com.pl/ksiazka/nowy-wspanialy-swiat-aldous-huxley-137179"
+          }
+        ]
+      },
+      "Based on the search results, I found comprehensive information about \"Nowy wspania\u0142y \u015bwiat\" (Brave New World) by Aldous Huxley in relation to its teaching in Polish schools and literary analysis methodology. Here's what I found:\n\n## Metodyka nauczania \"Nowego wspania\u0142ego \u015bwiata\" w szkole polskiej\n\nPowie\u015b\u0107 \"Nowy wspania\u0142y \u015bwiat\" Aldousa Huxley'a zosta\u0142a opublikowana w 1932 roku, w Wielkiej Brytanii i \"Nowy wspania\u0142y \u015bwiat\" to dzie\u0142o, kt\u00f3rego przynale\u017cno\u015b\u0107 gatunkow\u0105 najlepiej okre\u015bla termin antyutopia.\n\n### G\u0142\u00f3wne problemy analityczne w nauczaniu:\n\n1. **Interpretacja gatunkowa**: \"Nowy wspania\u0142y \u015bwiat\" Aldousa Huxleya to antyutopijna powie\u015b\u0107, kt\u00f3ra przedstawia mroczn\u0105 wizj\u0119 przysz\u0142o\u015bci. Sam tytu\u0142 ma wyd\u017awi\u0119k ironiczny \u2013 nowy porz\u0105dek \u015bwiata trudno bowiem okre\u015bli\u0107 jako wspania\u0142y.\n\n2. **Analiza problemowa**: Pisarz konstruuje tu wizj\u0119 \u015bwiata, z kt\u00f3rego wykluczono wszelkie ludzkie uczucia, zar\u00f3wno negatywne, jak i pozytywne, a tak\u017ce wszystko, co mog\u0142oby je pobudza\u0107, a wi\u0119c sztuk\u0119, filozofi\u0119 i religi\u0119. Mamy do czynienia z wizj\u0105 ludzko\u015bci w pe\u0142ni zunifikowanej i zaprogramowanej do wykonywania okre\u015blonych r\u00f3l.\n\n### Kluczowe aspekty edukacyjne w dziele:\n\nPrzedmiotem analizy w tym artykule s\u0105 futurystyczne obrazy edukacji w spo\u0142ecze\u0144stwie, w kt\u00f3rym panuj\u0105ce normy zosta\u0142y znieprawione, tre\u015bci kszta\u0142cenia przekazywane w ramach hipnopedii, za\u015b cele kszta\u0142cenia i oczekiwania wobec edukacji podporz\u0105dkowane ideologii, kt\u00f3ra s\u0142u\u017cy jedynie podtrzymywaniu w\u0142adzy.\n\n### Metodyczne podej\u015bcie do analizy:\n\n1. **Kontekst historyczny**: By\u0142a ona owocem zainteresowa\u0144 pisarza eugenik\u0105, a tak\u017ce przemy\u015ble\u0144 na temat rodz\u0105cej si\u0119 na jego oczach kultury masowej.\n\n2. **Analiza spo\u0142eczna**: W Nowym wspania\u0142ym \u015bwiecie wychowaniem dzieci zajmowa\u0142o si\u0119 pa\u0144stwo, kt\u00f3re od najm\u0142odszych lat wpaja\u0142o im przynale\u017cno\u015b\u0107 do okre\u015blonej klasy spo\u0142ecznej i nieuchronno\u015b\u0107 losu.\n\n3. **Krytyka systemu edukacyjnego**: Celem nauczania sta\u0142o si\u0119 wi\u0119c przystosowanie ludzi do sprzecznego z rozumem porz\u0105dku spo\u0142ecznego, w kt\u00f3rym panuj\u0105ce normy s\u0105 znieprawione, tre\u015bci kszta\u0142cenia ograniczone i przekazywane w ramach hipnopedii, a metody nauczania nienaturalne.\n\n### Znaczenie wsp\u00f3\u0142czesne:\n\nNowy Wspania\u0142y \u015awiat \u2013 powie\u015b\u0107 napisana w 1931 roku jest ci\u0105gle aktualna. To rozprawa dotycz\u0105ca wolno\u015bci, co czyni j\u0105 szczeg\u00f3lnie warto\u015bciow\u0105 lektur\u0105 w kontek\u015bcie edukacyjnym."
+    ],
+    "durationSeconds": 24.14868528200034
+  }
+}

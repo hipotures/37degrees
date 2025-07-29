@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Nowy wspania\u0142y \u015bwiat\" wydawnictwo szkolne lektury obowi\u0105zkowe wydanie Muza Baran"
+  },
+  "tool_response": {
+    "query": "\"Nowy wspania\u0142y \u015bwiat\" wydawnictwo szkolne lektury obowi\u0105zkowe wydanie Muza Baran",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_0124wKsyoyCJN2ajKaKipXQk",
+        "content": [
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Aldous Huxley, Bogdan Baran",
+            "url": "https://bonito.pl/produkt/nowy-wspanialy-swiat-2"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat",
+            "url": "https://muza.com.pl/pl/products/nowy-wspanialy-swiat-8153.html"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat Aldous Huxley ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/nowy-wspanialy-swiat-aldous-huxley"
+          },
+          {
+            "title": "Ksi\u0105\u017cka Nowy Wspania\u0142y \u015awiat, Aldous Huxley, Bogdan Baran - Ceny i opinie - Ceneo.pl",
+            "url": "https://www.ceneo.pl/95354187"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat (ebook)",
+            "url": "https://muza.com.pl/pl/products/nowy-wspanialy-swiat-ebook-5124.html"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Aldous Huxley | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5043467/nowy-wspanialy-swiat"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat (Aldous Huxley) - ksi\u0105\u017cka - ksi\u0119garnia tantis.pl",
+            "url": "https://tantis.pl/nowy-wspanialy-swiat-aldous-huxley"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Aldous Huxley, Bogdan Baran",
+            "url": "https://bookmaster.com.pl/ksiazka-2456046-nowy-wspanialy-swiat-aldous-huxley-bogdan-baran"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat Aldous Huxley - ebook (ePub, mobi), audiobook (mp3), ksi\u0105\u017cka online - ksi\u0119garnia Ebookpoint.",
+            "url": "https://ebookpoint.pl/ksiazki/nowy-wspanialy-swiat-aldous-huxley,e_11lj.htm"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat. Wydawnictwo Muza - Eduarena",
+            "url": "https://eduarena.pl/nowy-wspanialy-swiat-wydawnictwo-muza"
+          }
+        ]
+      },
+      "Based on the search results, I found information about \"Nowy wspania\u0142y \u015bwiat\" (Brave New World) by Aldous Huxley, specifically related to the Muza publishing house and editions with Bogdan Baran involved.\n\nHere's what I found:\n\n**Publishing Details:**\nAldous Huxley, Bogdan Baran, rok wydania 2019, wydawnictwo: Muza SA. There are also newer editions, with Data premiery: 2022-02-02 for a more recent publication.\n\n**Book Information:**\nNowy wspania\u0142y \u015bwiat to jedna z najs\u0142ynniejszych antyutopii w literaturze XX wieku. The book is available from Wydawnictwo Muza and appears to be part of school reading lists, as evidenced by Ta ksi\u0105\u017ck\u0119 trzeba zna\u0107, obowi\u0105zkowa lektura zaraz obok Orwella.\n\n**Physical Details:**\nliczba stron: 256, Ok\u0142adka: mi\u0119kka, and Wymiary: 191 x 126.\n\n**Availability:**\nThe book is widely available through various Polish bookstores and online retailers, with Nowy Wspania\u0142y \u015awiat, Aldous Huxley, Bogdan Baran Ksi\u0105\u017cka ju\u017c od 17,99 z\u0142 being offered in multiple shops.\n\nThe search confirms that this is indeed a school reading edition published by Muza, with Bogdan Baran credited (likely as translator), and it's recognized as mandatory reading material in Polish schools."
+    ],
+    "durationSeconds": 14.893252008999697
+  }
+}

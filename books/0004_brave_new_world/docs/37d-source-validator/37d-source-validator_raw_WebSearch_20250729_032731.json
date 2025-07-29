@@ -1,0 +1,73 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"average screen time\" \"seven hours daily\" 2025 statistics verification"
+  },
+  "tool_response": {
+    "query": "\"average screen time\" \"seven hours daily\" 2025 statistics verification",
+    "results": [
+      "I'll search for information about average screen time statistics and the claim of seven hours daily usage in 2025.",
+      {
+        "tool_use_id": "srvtoolu_01HHpHGGra2mn1h6e1BoQEt1",
+        "content": [
+          {
+            "title": "Understanding Average Screen Time Stats",
+            "url": "https://www.goldstarrehab.com/parent-resources/average-screen-time-statistics"
+          }
+        ]
+      },
+      "Let me search for more specific and recent 2025 screen time statistics to verify the seven hours daily claim.",
+      {
+        "tool_use_id": "srvtoolu_018Wo9hfLXdMdyjXgvrCYyiF",
+        "content": [
+          {
+            "title": "Revealing Average Screen Time Statistics for 2025",
+            "url": "https://backlinko.com/screen-time-statistics"
+          },
+          {
+            "title": "Average Screen Time Statistics 2025 [Global Data]",
+            "url": "https://www.demandsage.com/screen-time-statistics/"
+          },
+          {
+            "title": "Average Screen Time Statistics For 2025 | Priori Data",
+            "url": "https://prioridata.com/data/screen-time-statistics/"
+          },
+          {
+            "title": "30+ Average Screen Time Statistics for 2024 | SlickText",
+            "url": "https://www.slicktext.com/blog/2023/01/30-key-screen-time-statistics-for-2022-2023/"
+          },
+          {
+            "title": "Average Screen Time Statistics 2025 [Updated Data]",
+            "url": "https://evoca.tv/screen-time-statistics/"
+          },
+          {
+            "title": "Average Screen Time Statistics",
+            "url": "https://www.mastermindbehavior.com/post/average-screen-time-statistics"
+          },
+          {
+            "title": "30+ Average Screen Time Statistics: Adults & Teens In 2025",
+            "url": "https://joingenius.com/statistics/average-screen-time-statistics/"
+          },
+          {
+            "title": "Average Screen Time Statistics",
+            "url": "https://www.magnetaba.com/blog/average-screen-time-statistics"
+          },
+          {
+            "title": "NEW Screen Time Statistics [2025]: How Much Time We Spend on Screens?",
+            "url": "https://cropink.com/screen-time-statistics"
+          },
+          {
+            "title": "Average Screen Time Statistics",
+            "url": "https://www.yellowbusaba.com/post/average-screen-time-statistics"
+          }
+        ]
+      },
+      "Based on my search results, I can provide you with verification information about average screen time statistics and the \"seven hours daily\" claim for 2025:\n\n## Current Screen Time Statistics (2025)\n\nThe search results show varied but consistent findings about average daily screen time:\n\n### Global Averages\nPeople worldwide spend an average of 6 hours and 38-40 minutes per day on screens. More specifically:\n- Worldwide, people spend an average of 6 hours and 38 minutes per day on screens\n- As of 2025, the average person spends 6 hours and 40 minutes on their screen daily\n\n### United States Averages\nIn the US, average screen time per day is around 6 hours and 40 minutes to 7 hours and 3 minutes:\n- In the US, average screen time per day hit 6 hours and 40 minutes\n- The average time spent on screens in the United States is 7 hours and 3 minutes\n\n### Verification of \"Seven Hours Daily\" Claim\n\nThe \"seven hours daily\" claim appears to be **partially accurate** but depends on the specific demographic and context:\n\n1. **For US Adults**: The average American spends approximately 7 hours and 3-4 minutes per day looking at screens\n\n2. **For Younger Demographics**: The seven-hour figure is actually **lower** than reality for many young people:\n   - The average Gen Z individual spends around 7 hours 18 minutes per day on screens\n   - Teens lead with over 8 hours a day, and Gen Z averages 7 hours\n   - Gen Z spends an average of around 9 hours daily in front of screens\n\n3. **Global Context**: The global average daily screen time is around 7 hours, with higher usage among younger demographics\n\n### Recent Trends\nScreen time has actually declined by 20 minutes since 2021, with US screen time decreasing from 7 hours 4 minutes in 2021 to 6 hours 40 minutes in 2024.\n\n**Conclusion**: The \"seven hours daily\" statistic is reasonably accurate for US adults and aligns with some global estimates, though it varies significantly by age group, with younger people often exceeding this amount and older adults typically using screens for less time."
+    ],
+    "durationSeconds": 24.108250682000072
+  }
+}

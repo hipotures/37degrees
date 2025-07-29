@@ -1,0 +1,231 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Nowy wspania\u0142y \u015bwiat\" recepcja PRL komunizm cenzura Polska 1945-1989 krytyka literacka"
+  },
+  "tool_response": {
+    "query": "\"Nowy wspania\u0142y \u015bwiat\" recepcja PRL komunizm cenzura Polska 1945-1989 krytyka literacka",
+    "results": [
+      "I'll perform a web search for your query about the reception of \"Brave New World\" in Communist Poland.",
+      {
+        "tool_use_id": "srvtoolu_01MrhpRcEK35KqZhWsGTqtuR",
+        "content": [
+          {
+            "title": "Krytyka Polityczna 19 | Nowy Wspania\u0142y \u015awiat",
+            "url": "https://wydawnictwo.krytykapolityczna.pl/nowy-wspanialy-swiat-279"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.m.wikipedia.org/wiki/Nowy_wspania%C5%82y_%C5%9Bwiat"
+          },
+          {
+            "title": "Li\u00adte\u00adrac\u00adka re\u00adflek\u00adsja nad kon\u00addy\u00adcj\u0105 \u015bwia\u00adta i jego przy\u00adsz\u0142o\u00ad\u015bci\u0105. Om\u00f3w za\u00adgad\u00adnie\u00adnie na pod\u00adsta\u00adwie po\u00adwie\u00ad\u015bci Rok 1984 Geo\u00adr\u00adge\u00ad\u2019a Or\u00adwel\u00adla. W swo\u00adjej od\u00adpo\u00adwie\u00addzi uwzgl\u0119d\u00adnij r\u00f3w\u00adnie\u017c wy\u00adbra\u00adny kon\u00adtekst. - Nowy wspania\u0142y \u015bwiat - George Orwell",
+            "url": "https://poezja.org/wz/interpretacja/4844/Literacka_refleksja_nad_kondycja_swiata_i_jego_przyszloscia_Omow_zagadnienie_na_"
+          },
+          {
+            "title": "Komunizm: System - Ludzie - Dokumentacja | Komunizm: System - Ludzie - Dokumentacja",
+            "url": "https://czasopisma.ipn.gov.pl/index.php/k/article/view/2625"
+          },
+          {
+            "title": "Nowy Wspania\u0142y \u015awiat",
+            "url": "https://krytykapolityczna.pl/multimedia/nowy-wspanialy-swiat/"
+          },
+          {
+            "title": "Halo, czy to Nowy Wspania\u0142y \u015awiat?",
+            "url": "https://krytykapolityczna.pl/kraj/miasto/halo-czy-to-nowy-wspanialy-swiat/"
+          }
+        ]
+      },
+      "The search results provide some information about \"Brave New World\" (Nowy wspania\u0142y \u015bwiat) in Polish context, but I need to search more specifically for information about its reception in Communist Poland. Let me search for more specific information about censorship and literary criticism during the PRL period.",
+      {
+        "tool_use_id": "srvtoolu_019uvWwWvQMaoASKAtYZCAgn",
+        "content": [
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Aldous Huxley | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5043467/nowy-wspanialy-swiat"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Nowy_wspania\u0142y_\u015bwiat"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat Aldous Huxley ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/nowy-wspanialy-swiat-aldous-huxley"
+          },
+          {
+            "title": "Aldous Huxley: Nowy wspania\u0142y \u015bwiat. 30 lat p\u00f3\u017aniej. Raport rozbie\u017cno\u015bci \u2013 Instytut Spraw Obywatelskich",
+            "url": "https://instytutsprawobywatelskich.pl/aldous-huxley-nowy-wspanialy-swiat-30-lat-pozniej-raport-rozbieznosci/"
+          },
+          {
+            "title": "Aldous Huxley Nowy Wspania\u0142y \u015awiat : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/AldousHuxleyNowyWspaniaywiat"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2013 problematyka \u2013 Aldous Huxley \u2013 poezja.org",
+            "url": "https://poezja.org/wz/interpretacja/7687/Nowy_wspanialy_swiat_problematyka"
+          },
+          {
+            "title": "\u201eNowy wspania\u0142y \u015bwiat\u201d Aldous Huxley | Eloblog",
+            "url": "https://eloblog.pl/nowy-wspanialy-swiat-aldous-huxley/"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Aldous Huxley - inne wydania | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/ksiazka/wydania/258001/nowy-wspanialy-swiat"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Huxley Aldous",
+            "url": "https://www.empik.com/nowy-wspanialy-swiat-huxley-aldous,p1293067189,ksiazka-p"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat | Aldous Huxley (Ksi\u0105\u017cka) - Ksi\u0119garnia znak.com.pl",
+            "url": "https://www.znak.com.pl/p/nowy-wspanialy-swiat-aldous-huxley-104052"
+          }
+        ]
+      },
+      "Let me search more specifically for information about the book's reception and censorship during the Communist period in Poland.",
+      {
+        "tool_use_id": "srvtoolu_01AV6xAZD3jxMgWEtpz3y4FU",
+        "content": [
+          {
+            "title": "Brave New World (disambiguation) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World_(disambiguation)"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Nowy_wspania\u0142y_\u015bwiat"
+          },
+          {
+            "title": "Brave New World - Ceny i opinie - Ceneo.pl",
+            "url": "https://www.ceneo.pl/1966484"
+          },
+          {
+            "title": "Brave New World wer. angielska | Aldous Huxley (Ksi\u0105\u017cka) - Ksi\u0119garnia znak.com.pl",
+            "url": "https://www.znak.com.pl/p/brave-new-world-wer-angielska-aldous-huxley-226609"
+          },
+          {
+            "title": "Brave New World - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World"
+          },
+          {
+            "title": "Brave New World - Aldous Huxley - inne wydania | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/ksiazka/wydania/234216/brave-new-world"
+          },
+          {
+            "title": "Brave New World - Aldous Huxley - Polska Ksiegarnia w UK",
+            "url": "https://ksiegarniainternetowa.co.uk/en/brave_new_world-9780099477464"
+          },
+          {
+            "title": "Watch Brave New World | Netflix",
+            "url": "https://www.netflix.com/title/80991826"
+          },
+          {
+            "title": "Brave New World - Aldous Huxley | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/305456/brave-new-world"
+          },
+          {
+            "title": "Ksi\u0105\u017cka - BRAVE NEW WORLD Aldous Huxley - ksi\u0119garnia Black Woolf",
+            "url": "https://www.blackwoolf.eu/oferta/brave-new-world-revisited-aldous-huxley/"
+          }
+        ]
+      },
+      "Let me search for more specific information about Polish publishing history and literary criticism of dystopian novels in Communist Poland.",
+      {
+        "tool_use_id": "srvtoolu_019a4gDA5D1ZhxVn2AHQrZvH",
+        "content": [
+          {
+            "title": "Dystopia \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Antyutopia"
+          },
+          {
+            "title": "Dystopie i antyutopie, czyli nie tylko Orwell i Huxley \u2013 cz\u0119\u015b\u0107 1",
+            "url": "https://www.kajmanzzaokladki.pl/2020/10/01/antyutopie-i-dystopie-1/"
+          },
+          {
+            "title": "Utopia \u2013 dystopia. Huxley, Zamiatin, Orwell, 1997 - Wojtek Sede\u0144ko - blog - wie\u015bci ze \u015bwiata SF",
+            "url": "http://www.sedenko.pl/2011/01/25/utopia-dystopia-huxley-zamiatin-orwell-1997/"
+          },
+          {
+            "title": "Rok 1984 jako antyutopia \u2013 George Orwell \u2013 poezja.org",
+            "url": "https://poezja.org/wz/interpretacja/5030/Rok_1984_jako_antyutopia"
+          },
+          {
+            "title": "Rok 1984 \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Rok_1984"
+          },
+          {
+            "title": "Utopia, antyutopia (dystopia). - PISZEMY.PL - Portal literacki i edukacyjny",
+            "url": "https://piszemy.pl/viewtopic.php?t=3925"
+          },
+          {
+            "title": "\u201eRok 1984\u201d George Orwell. Czym jest antyutopia? Streszczenie i najwa\u017cniejsze informacje o lekturze | Strefa Edukacji",
+            "url": "https://strefaedukacji.pl/rok-1984-george-orwell-czym-jest-antyutopia-streszczenie-i-najwazniejsze-informacje-o-lekturze/ar/c5-17097091"
+          },
+          {
+            "title": "Utopia \u2013 dystopia. Huxley, Zamiatin, Orwell, 1997 \u2013 Wojtek Sede\u0144ko \u2013 wie\u015bci ze \u015bwiata SF",
+            "url": "https://www.sedenko.pl/2011/01/25/utopia-dystopia-huxley-zamiatin-orwell-1997/comment-page-1/"
+          },
+          {
+            "title": "George Orwell - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/George_Orwell"
+          },
+          {
+            "title": "Rok 1984 jako antyutopia - klp.pl",
+            "url": "https://klp.pl/rok-1984/a-7168.html"
+          }
+        ]
+      },
+      "I found very important information about Orwell's \"1984\" being censored in Communist Poland. Let me search for more specific information about literary criticism and reception of both dystopian novels during the PRL period.",
+      {
+        "tool_use_id": "srvtoolu_01QasViFuceH6bzXnbMZrYKP",
+        "content": [
+          {
+            "title": "Drugi obieg wydawniczy w PRL i samizdat w pa\u0144stwach bloku sowieckiego | dzieje.pl - Historia Polski",
+            "url": "https://dzieje.pl/aktualnosci/drugi-obieg-wydawniczy-w-prl-i-samizdat-w-panstwach-bloku-sowieckiego"
+          },
+          {
+            "title": "Drugi obieg wydawniczy \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.m.wikipedia.org/wiki/Wydawnictwo_podziemne"
+          },
+          {
+            "title": "Papierowa rewolucja, czyli drugi obieg wydawniczy w PRL \u2013 Region Gda\u0144ski NSZZ \u201eSolidarno\u015b\u0107\u201d",
+            "url": "https://solidarnosc.gda.pl/aktualnosci/papierowa-rewolucja-czyli-drugi-obieg-wydawniczy-w-prl/"
+          },
+          {
+            "title": "Drugi obieg w PRL na tle samizdatu w pa\u0144stwach bloku sowieckiego po 1956 roku - Ksi\u0105\u017cki Instytut Pami\u0119ci Narodowej",
+            "url": "https://ipn.gov.pl/pl/publikacje/ksiazki/36019,Drugi-obieg-w-PRL-na-tle-samizdatu-w-panstwach-bloku-sowieckiego-po-1956-roku.html"
+          },
+          {
+            "title": "Podziemne strony historii: Drugi obieg wydawniczy w czasach PRL - Nowodworski.info",
+            "url": "https://nowodworski.info/podziemne-strony-historii-drugi-obieg-wydawniczy-w-czasach-prl"
+          },
+          {
+            "title": "drugi obieg wydawniczy, Encyklopedia PWN: \u017ar\u00f3d\u0142o wiarygodnej i rzetelnej wiedzy",
+            "url": "https://encyklopedia.pwn.pl/haslo/drugi-obieg-wydawniczy;3894406.html"
+          },
+          {
+            "title": "Stara-Szuflada > Drugi obieg w PRL na tle samizdatu w pa\u0144stwach bloku sowieckiego po 1956 roku",
+            "url": "https://stara-szuflada.pl/Drugi-obieg-w-PRL-na-tle-samizdatu-w-panstwach-bloku-sowieckiego-po-1956-roku-p12786"
+          },
+          {
+            "title": "Drugi obieg, czyli bibu\u0142a | Tygodnik Powszechny",
+            "url": "https://www.tygodnikpowszechny.pl/drugi-obieg-czyli-bibula-21176"
+          },
+          {
+            "title": "Geneza, si\u0142a i znaczenie drugiego obiegu wydawniczego",
+            "url": "https://trojka.polskieradio.pl/artykul/2638892,geneza-sila-i-znaczenie-drugiego-obiegu-wydawniczego"
+          },
+          {
+            "title": "Drugi obieg wydawniczy w PRL ksi\u0105\u017cka w ksi\u0119garni TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/drugi-obieg-wydawniczy-w-prl-p-781752.html"
+          }
+        ]
+      },
+      "Based on the search results I've gathered, I can now provide a comprehensive response about the reception of \"Brave New World\" in Communist Poland and its relationship to censorship and literary criticism during the PRL period.\n\nBased on my web search, I found important information about the reception of dystopian literature, including \"Brave New World\" (\"Nowy wspania\u0142y \u015bwiat\"), in Communist Poland (PRL) between 1945-1989. Here are the key findings:\n\n## Censorship Context in Communist Poland\n\nIn Communist Poland, George Orwell's \"1984\" was banned by censorship, with the first official edition published by PIW only in 1988; however, from 1980 onwards it was published as reprints of the Paris edition by independent publishers in the so-called \"second circulation.\" This provides important context for how dystopian literature was treated during this period.\n\n## The \"Second Circulation\" (Drugi Obieg)\n\nThe so-called second circulation publishing in the PRL, like the Soviet samizdat, had informational and literary character, but the reach of Polish independent publishers was greater, among other things due to support from opposition structures. People who created it didn't speak of \"second circulation,\" but of independent, uncensored press or uncensored publishers. It emerged in 1976-1977, within the broadly understood activities of KOR and other opposition groups. It was primarily uncensored press published at their own expense, initially in typescripts, then on duplicators, informational, gradually publicistic, then books, literature.(no content)The second circulation publishing (also independent circulation or samizdat) existed in Poland from the mid-1970s as a circuit of uncensored publications. These were publications without official approval, meaning without permission for distribution from the appropriate office (in Poland until 1989 this was the Main Office for Control of Publications and Performances), often outside copyright law.\n\n## Literary Criticism and Reception\n\nThe subject of consideration is the analysis of literature as a tool for studying perceptions of the reality of Poland in the seventies and eighties, using the example of the current defined as political fiction or social fiction (soc-fiction). One of the interpretive codes of this literature is its allusiveness to the contemporary reality.(no content)There are references to \"1984\" and \"Brave New World\" - reading traps (and not only) in literature and culture of the declining PRL, edited by K. Budrowska, W. Gardecki, E. Jurkowa, Warsaw 2015.\n\n## Context of Dystopian Literature in PRL\n\nAs a literary term, dystopia began to gain popularity only in the 20th century thanks to writers such as George Orwell, Aldous Huxley, James Graham Ballard, and Philip K.(no content)In contrast to utopia, it showed a negative image of social order, and the best example here is Aldous Huxley's \"Brave New World,\" which arose from opposition to Wells, particularly to his utopia \"Men Like Gods.\" Huxley's \"Brave New World\" entered permanently into the canon of world literature, although even before the war, Polish writer Mieczys\u0142aw Smolarski publicly accused Huxley of plagiarism.\n\n## Publishing Statistics\n\nIt's estimated that in Poland from December 13, 1981 to the end of 1988, approximately 4,500 book and brochure titles and about 2,000 press titles appeared in the second circulation; it's estimated that about 100,000 people had regular contact with these publications, and 200-250,000 had sporadic contact.\n\nThe search results show that while \"Brave New World\" was part of the broader literary discourse about dystopian literature in Communist Poland, specific information about its direct censorship or official publication history during the PRL period wasn't found in these particular search results. However, the extensive documentation of the \"second circulation\" publishing network suggests that Western dystopian works like Huxley's novel would have likely circulated through these underground channels, similar to how Orwell's \"1984\" was distributed before its official publication in 1988."
+    ],
+    "durationSeconds": 48.910206017000135
+  }
+}

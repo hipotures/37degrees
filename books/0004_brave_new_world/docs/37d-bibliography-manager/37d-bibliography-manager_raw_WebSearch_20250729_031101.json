@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Brave New World\" PhD dissertation academic journal articles JSTOR Project MUSE scholarly research 2020 2021 2022 2023 2024"
+  },
+  "tool_response": {
+    "query": "\"Brave New World\" PhD dissertation academic journal articles JSTOR Project MUSE scholarly research 2020 2021 2022 2023 2024",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01VGxSa1GcbC3pJjg3fMnytx",
+        "content": [
+          {
+            "title": "An Interpretation of Brave New World from Foucault\u2019s Theory of Power and Discourse | Francis Academic Press",
+            "url": "https://francis-press.com/papers/9780"
+          },
+          {
+            "title": "(PDF) Brave new world: exploring the non-academic career pathways of women astronomy PhD graduates",
+            "url": "https://www.academia.edu/73066630/Brave_new_world_exploring_the_non_academic_career_pathways_of_women_astronomy_PhD_graduates"
+          },
+          {
+            "title": "Thesis Brave New World",
+            "url": "https://issuu.com/jenniferharrismilwaukee/docs/thesis_brave_new_world"
+          },
+          {
+            "title": "Brave new world: Annals of Leisure Research: Vol 26 , No 1 - Get Access",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/11745398.2020.1825973"
+          },
+          {
+            "title": "Brave New World Research Papers - Academia.edu",
+            "url": "https://www.academia.edu/Documents/in/Brave_New_World"
+          },
+          {
+            "title": "In retrospect: Brave New World | Nature",
+            "url": "https://www.nature.com/articles/503338a"
+          },
+          {
+            "title": "The Culture Industry and Loss of Individuality in Aldous Huxley\u2019s Brave New World | Advances in Social Sciences Research Journal",
+            "url": "https://journals.scholarpublishing.org/index.php/ASSRJ/article/view/13603"
+          },
+          {
+            "title": "Brave New World Research Paper Topics - iResearchNet",
+            "url": "https://www.iresearchnet.com/research-paper-topics/literature-research-paper-topics/brave-new-world-topics/"
+          },
+          {
+            "title": "Brave New World Essay & Research Paper - Edubirdie.com",
+            "url": "https://hub.edubirdie.com/examples/brave-new-world/"
+          },
+          {
+            "title": "Dissertations / Theses: 'Brave new world' \u2013 Grafiati",
+            "url": "https://www.grafiati.com/en/literature-selections/brave-new-world/dissertation/"
+          }
+        ]
+      },
+      "Based on the search results, I found several academic publications and research related to \"Brave New World\" from the timeframe you specified (2020-2024). Here are the key findings:\n\n## Recent Academic Publications on Brave New World (2020-2024)\n\n### Journal Articles:\n\n**\"An Interpretation of Brave New World from Foucault's Theory of Power and Discourse\"** was published in the Academic Journal of Humanities & Social Sciences in 2023, exploring how power operates in Huxley's dystopian novel through Foucault's theoretical framework.\n\n**\"The Culture Industry and Loss of Individuality in Aldous Huxley's Brave New World\"** was published in Advances in Social Sciences Research Journal in 2022, examining the novel through the lens of Frankfurt School theory.\n\n### Recent Dissertations and Academic Research:\n\nThe search results reference a dissertation from 2021 titled \"Interpretation of Huxley's Brave New World from the Perspective of Foucault's Power Discourse Theory\" from Shenyang Normal University.\n\n### Contemporary Academic Analysis:\n\nRecent scholarly work analyzes the novel's psychological conditioning mechanisms, drawing parallels between the fictional drug SOMA and modern social media platforms like TikTok and Instagram, which use \"intermittent rewards to condition user behavior\".\n\nThere has been 2024 discussion examining \"utopian and dystopian fiction as counterparts of marxist communism and capitalism,\" analyzing the duality between utopian dreams and dystopian nightmares in literature.\n\n### Database Resources:\n\nThe Grafiati database lists multiple dissertations and theses on \"Brave New World\" with \"scholarly publications with full text pdf download\", though specific JSTOR and Project MUSE results weren't directly accessible through this search.\n\nThe research shows continued academic interest in Huxley's work, particularly focusing on themes of power, control, technology, and social conditioning - topics that remain highly relevant in contemporary discourse about digital surveillance and social media influence."
+    ],
+    "durationSeconds": 16.28426253299974
+  }
+}

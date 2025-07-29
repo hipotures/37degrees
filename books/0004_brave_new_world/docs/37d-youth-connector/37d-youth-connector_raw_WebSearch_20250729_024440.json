@@ -1,0 +1,63 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "dating apps casual sex Brave New World Tinder Bumble Gen Z hookup culture 2024"
+  },
+  "tool_response": {
+    "query": "dating apps casual sex Brave New World Tinder Bumble Gen Z hookup culture 2024",
+    "results": [
+      "I'll perform a web search using your specified query about dating apps, casual sex, and hookup culture in 2024.",
+      {
+        "tool_use_id": "srvtoolu_01GUCoz2C8j5tYAWwTttFM4a",
+        "content": [
+          {
+            "title": "Dating Apps Are Losing Gen Z Fast\u2014Here\u2019s What\u2019s Replacing Them | WATCH | EURweb | Black News, Culture, Entertainment & More",
+            "url": "https://eurweb.com/2025/why-dating-apps-are-declining-among-gen-z-in-2025"
+          },
+          {
+            "title": "Is Gen Z Killing the Dating App? - Newsweek",
+            "url": "https://www.newsweek.com/gen-z-dating-app-usage-decline-evolution-hinge-tinder-feeld-bumble-2092939"
+          },
+          {
+            "title": "What does dating look like for young people in 2024? | Dazed",
+            "url": "https://www.dazeddigital.com/life-culture/article/61695/1/dating-apps-relationships-young-people-gen-z-love-2024"
+          },
+          {
+            "title": "Dating Apps Really Have Gotten Worse. They're Trying To Change.",
+            "url": "https://www.bustle.com/wellness/dating-apps-have-gotten-worse-hinge-tinder-bumble-gen-z-millennials"
+          },
+          {
+            "title": "Dating apps in 2024: A look at the state of Tinder, Bumble, Hinge and Match | CNN Business",
+            "url": "https://www.cnn.com/2024/02/14/business/dating-apps-2024-hinge-tinder-dg/index.html"
+          },
+          {
+            "title": "Dating apps are doomed because Gen Z is locked in on meet-cutes, former Hinge content lead says: They want to vibe their way through meeting people | Fortune",
+            "url": "https://fortune.com/2025/07/07/dating-apps-ilana-dunn-seeing-other-people-podcast-dating-advice-gen-z-millennial/"
+          },
+          {
+            "title": "The dating app exodus: 4 reasons Gen Z and millennials are rebelling against Hinge, Tinder, and Bumble | Fortune",
+            "url": "https://fortune.com/article/are-dating-apps-worth-it-gen-z-millennials-bumble-tinder-hinge/"
+          },
+          {
+            "title": "Boysobriety and Bumble ads: Gen Z\u2019s rejection of modern hookup culture \u2013 The Arbiter",
+            "url": "https://arbiteronline.com/2024/08/24/rejecting-hookup-culture/"
+          },
+          {
+            "title": "Gen Z Dating: What's Really Happening in the World of Romance",
+            "url": "https://essaypro.com/blog/gen-z-dating-trends"
+          },
+          {
+            "title": "8 Dating Apps for Young People (2024)",
+            "url": "https://www.datingnews.com/industry-trends/dating-apps-for-young-people/"
+          }
+        ]
+      },
+      "The search results reveal a significant shift in how Gen Z approaches dating apps and hookup culture in 2024, showing a notable departure from the \"Brave New World\" of casual connectivity that characterized earlier dating app usage.\n\n## Key Findings on Gen Z and Dating Apps in 2024:\n\n### Declining App Usage\nPopular dating apps like Tinder, Bumble, and Hinge are seeing major drops in user numbers. A 2024 Ofcom report showed a 16% decline in UK users across these platforms. Tinder alone lost nearly 600,000 users, with Bumble and Hinge also suffering big losses.(no content)In the U.S., a 2023 study found that nearly 80% of college students are skipping dating apps entirely.\n\n### Rejection of Hookup Culture\nDrinking and casual hookups are also down, according to recent surveys and experts. \"This generation of Gen Z, 18 to 28 \u2013 it's not a hookup generation.(no content)When it comes to sexual behavior, Gen Z is surprisingly more conservative. Only 24% participate in casual romantic interactions, a significant drop from previous generations.\n\n### App Burnout and Authenticity Issues\nForbes found in a 2024 survey that more than 75% of Gen Zers feel burnt out using dating apps like Hinge, Tinder, and Bumble because they don't feel as if they can find a genuine connection with someone despite how much time they spend on the apps.(no content)Rae Weiss, a Gen Z dating coach, said that this generation is moving away from dating apps because swiping feels \"transactional, laborious and scripted.\" \"The burnout from choice overload has left us craving authenticity and meaningful interaction, so we're seeking out organic ways to meet people offline,\" Weiss told Newsweek.\n\n### Industry Response and Rebranding\nTinder \u2014 initially known as the casual sex app \u2014 is now reinventing itself for hookup-adverse Gen Z by pivoting to a focus on love.(no content)Tinder\u2014long associated with \"hookup culture\"\u2014specifically is undergoing a rebrand to appeal more to Gen Z.\n\n### Alternative Trends\nYoung people, particularly women, have even gone so far as to bring back celibacy and repopularize it in the form of \"boysobriety\". As of July 2024, #boysober has been used in over 20.1 million posts on TikTok.(no content)Recent reports from Ofcom show that dating apps like Tinder and Bumble are losing popularity among younger people, with many turning to in-person meetings instead. A study by YouGov and Smirnoff further reveals that nearly 47% of single Gen Zers prefer meeting potential partners in everyday places, like grocery stores, rather than online.\n\nThe data suggests that rather than embracing a \"Brave New World\" of casual digital connectivity, Gen Z is actually moving toward more intentional, authentic relationship-seeking behaviors and rejecting the hookup-oriented culture that dating apps initially promoted."
+    ],
+    "durationSeconds": 24.582453878999686
+  }
+}

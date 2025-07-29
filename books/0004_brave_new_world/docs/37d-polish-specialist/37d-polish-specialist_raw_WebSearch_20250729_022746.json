@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Aldous Huxley dystopia literatura angielska polskie badania naukowe uniwersytet"
+  },
+  "tool_response": {
+    "query": "Aldous Huxley dystopia literatura angielska polskie badania naukowe uniwersytet",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01WcxDM91M7VcxpQjRq1n7Zd",
+        "content": [
+          {
+            "title": "Aldous Huxley - ksi\u0105\u017cki, audiobooki, ebooki - Empik.com",
+            "url": "https://www.empik.com/autor/aldous-huxley"
+          },
+          {
+            "title": "Nowy wspania\u0142y rok i \u015bwiat: Aldous Huxley - Muzeum Pana Tadeusza",
+            "url": "https://muzeumpanatadeusza.ossolineum.pl/nowy-wspanialy-huxley/"
+          },
+          {
+            "title": "Aldous Huxley \u2013 biografia, wiersze, utwory \u2013 poezja.org",
+            "url": "https://poezja.org/wz/Aldous_Huxley/"
+          },
+          {
+            "title": "Aldous Huxley - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Aldous_Huxley"
+          },
+          {
+            "title": "Nowe wspania\u0142e \u015bwiaty Aldousa Huxleya i ich recepcja w Polsce | Humanities \\ Foreign philologies \\ English philology Humanities \\ Literary | - Ksi\u0119garnia Wydawnictw Uniwersytetu Warszawskiego",
+            "url": "https://www.wuw.pl/product-eng-10365-Nowe-wspaniale-swiaty-Aldousa-Huxleya-i-ich-recepcja-w-Polsce.html"
+          },
+          {
+            "title": "50 lat temu zmar\u0142 Aldous Huxley, autor \"Nowego wspania\u0142ego \u015bwiata\" | dzieje.pl - Historia Polski",
+            "url": "https://dzieje.pl/kultura-i-sztuka/50-lat-temu-zmarl-aldous-huxley-autor-nowego-wspanialego-swiata"
+          },
+          {
+            "title": "Aldous Huxley. Tw\u00f3rca \"Nowego wspania\u0142ego \u015bwiata\" - Historia - PR24.PL",
+            "url": "https://polskieradio24.pl/artykul/3074331,aldous-huxley-tworca-nowego-wspanialego-swiata"
+          },
+          {
+            "title": "Obrazy edukacji w dystopii \u201eNowy wspania\u0142y \u015bwiat\u201d Aldousa Huxleya - Repozytorium Uniwersytetu Wroc\u0142awskiego",
+            "url": "https://repozytorium.uni.wroc.pl/dlibra/publication/81193/edition/78780?language=pl"
+          },
+          {
+            "title": "Nowe wspania\u0142e \u015bwiaty Aldousa Huxleya i ich recepcja w Polsce \u2013 EBOOK PDF | Humanities \\ Foreign philologies \\ English philology Humanities \\ Literary | - Ksi\u0119garnia Wydawnictw Uniwersytetu Warszawskiego",
+            "url": "https://www.wuw.pl/product-eng-12103-Nowe-wspaniale-swiaty-Aldousa-Huxleya-i-ich-recepcja-w-Polsce-EBOOK.html"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Aldous Huxley | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5043467/nowy-wspanialy-swiat"
+          }
+        ]
+      },
+      "The search results provide extensive information about Aldous Huxley, his dystopian literature, and Polish academic research on his works. Here's a summary of the findings:\n\n## Polish Academic Research on Aldous Huxley\n\nThe search revealed a significant Polish academic publication: \"Nowe wspania\u0142e \u015bwiaty Aldousa Huxleya i ich recepcja w Polsce\" (Aldous Huxley's Brave New Worlds and Their Reception in Poland) - described as \"The first Polish presentation of the whole literary output of Aldous Huxley (1894-1963), outstanding British novelist and essayist, the author of Brave New World (1932) \u2013 a dystopia considered to be one of the most important books of 20th century.\"(no content)This Polish academic work \"discusses Huxley's novels and non-fiction, taking into consideration the most recent publications of both Polish and English-speaking literary scholars\" and \"describes the history of Polish translations of Huxley's works as well as their reception in Poland, paying particular attention to two Polish translations of Brave New World.\"\n\n## University Research\n\nAdditional Polish university research was found at the University of Wroc\u0142aw, with a publication titled \"Obrazy edukacji w dystopii 'Nowy wspania\u0142y \u015bwiat' Aldousa Huxleya\" (Images of Education in the Dystopia \"Brave New World\" by Aldous Huxley).\n\n## Huxley's Dystopian Literature\n\n\"Nowy wspania\u0142y \u015bwiat\" (Brave New World) is described as \"Fantastyczna, dystopijna opowie\u015b\u0107 rozgrywaj\u0105ca si\u0119 w dalekiej przysz\u0142o\u015bci, kiedy to post\u0119p nauki umo\u017cliwi ogromny rozw\u00f3j in\u017cynierii spo\u0142ecznej, jest do dzi\u015b uwa\u017cana za proroctwo i przestrog\u0119\" (A fantastic, dystopian story set in the distant future, when scientific progress will enable enormous development of social engineering, is still considered a prophecy and warning today).(no content)The work was compared to George Orwell's \"1984,\" and \"the author himself later compared his own vision to that of Orwell in his letters.\"\n\n## Huxley's Background in English Literature\n\nHuxley \"studied English literature at Oxford\" after attending Eton College.(no content)He \"studied at Oxford, at Balliol College, obtaining a bachelor's degree in English literature.\"\n\nThe search results show substantial Polish academic interest in Huxley's dystopian works, with comprehensive studies examining both his literary output and its reception in Poland, published by university presses and academic institutions."
+    ],
+    "durationSeconds": 20.926178921999874
+  }
+}

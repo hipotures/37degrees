@@ -1,0 +1,21 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Witkacy\" \"Nienasycenie\" dystopia polska literatura \"Nowy wspania\u0142y \u015bwiat\" por\u00f3wnanie"
+  },
+  "tool_response": {
+    "query": "\"Witkacy\" \"Nienasycenie\" dystopia polska literatura \"Nowy wspania\u0142y \u015bwiat\" por\u00f3wnanie",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_0149e49qXcdcPfBpS1NoARbQ",
+        "content": []
+      },
+      "I searched for the query you provided: \"Witkacy\" \"Nienasycenie\" dystopia polska literatura \"Nowy wspania\u0142y \u015bwiat\" por\u00f3wnanie\n\nHowever, the search didn't return any results. This could be because:\n\n1. The specific combination of quoted terms might be too restrictive\n2. There may be limited online content comparing these specific works\n3. The content might be in Polish and not widely indexed in English search results\n\nWould you like me to try a modified search approach, such as:\n- Searching for broader terms about Witkacy and dystopian literature\n- Searching for \"Nienasycenie\" and \"Brave New World\" comparison separately\n- Using different combinations of these terms\n\nLet me know how you'd like me to proceed with the search."
+    ],
+    "durationSeconds": 7.841777271999978
+  }
+}

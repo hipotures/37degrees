@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Brave New World peer-reviewed journal articles academic research 2020-2024 PMID DOI citations"
+  },
+  "tool_response": {
+    "query": "Brave New World peer-reviewed journal articles academic research 2020-2024 PMID DOI citations",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01NxZm3oraZQ3nGZSP1bJiaK",
+        "content": [
+          {
+            "title": "Search by DOI or PMID - Database, Journal, & Article Searching - LibGuides at Molloy University",
+            "url": "https://molloy.libguides.com/searching/doipmid"
+          },
+          {
+            "title": "Brave new world: Annals of Leisure Research: Vol 26 , No 1 - Get Access",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/11745398.2020.1825973"
+          },
+          {
+            "title": "How-to Topics for PMID, PMCID, or DOI Citation - PMID2cite",
+            "url": "https://www.pmid2cite.com/how-to"
+          },
+          {
+            "title": "Cite Brave new world | EasyBib",
+            "url": "https://www.easybib.com/guides/citation-guides/books/brave-new-world"
+          },
+          {
+            "title": "In retrospect: Brave New World | Nature",
+            "url": "https://www.nature.com/articles/503338a"
+          },
+          {
+            "title": "PubMed Identifiers & How to Use Them - PubMed - Research Guides at Stevens Institute of Technology",
+            "url": "https://library.stevens.edu/c.php?g=442331&p=6577176"
+          },
+          {
+            "title": "What do the abbreviations DOI or PMID mean in my citation? - How Do I?",
+            "url": "https://redlands.libanswers.com/faq/111164"
+          },
+          {
+            "title": "PubMed - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/PubMed"
+          },
+          {
+            "title": "Find an Article Using a DOI or PMID - How do I find articles? - Library Guides at UChicago",
+            "url": "https://guides.lib.uchicago.edu/c.php?g=958643&p=6921201"
+          },
+          {
+            "title": "Brave New World Research Paper Topics - iResearchNet",
+            "url": "https://www.iresearchnet.com/research-paper-topics/literature-research-paper-topics/brave-new-world-topics/"
+          }
+        ]
+      },
+      "I performed a web search for your query about \"Brave New World peer-reviewed journal articles academic research 2020-2024 PMID DOI citations.\" Here's what the search revealed:\n\nThe search results primarily contained information about citation tools and databases rather than specific recent academic research on Brave New World from 2020-2024. Here are the key findings:\n\n## Academic Research Found:\n\nA scholarly article titled \"Brave new world\" was published in Annals of Leisure Research (Vol. 26, No. 1, 2023), though the full content and specific research focus aren't detailed in the search results.\n\nThere's a Nature article \"In retrospect: Brave New World\" by Ball, P. published in Nature 503, 338\u2013339 (2013) with DOI: https://doi.org/10.1038/503338a, though this predates your 2020-2024 timeframe.\n\n## About PMIDs and DOIs:\n\nThe search results provide extensive information about these citation identifiers:\n\n- DOI (\"Digital Object Identifier\") and PMID (\"PubMed IDentifier\") are unique identifiers, with PMIDs being strings of numbers created by the PubMed database run by the US National Library of Medicine\n\n- PMIDs are \"1- to 8-digit accession numbers with no leading zeros\" assigned sequentially to every new citation added to PubMed, including research articles as well as letters to the editor and opinion pieces\n\n- The assignment of a PMID or PMCID to a publication tells the reader nothing about the type or quality of the content, as PMIDs are assigned to various types of content including peer-reviewed papers\n\nThe search didn't return many specific recent peer-reviewed academic articles about Brave New World from the 2020-2024 period. You might want to try more targeted searches in academic databases like PubMed, Google Scholar, or literature-specific databases for more comprehensive results about recent scholarly research on Huxley's work."
+    ],
+    "durationSeconds": 21.292301634000616
+  }
+}

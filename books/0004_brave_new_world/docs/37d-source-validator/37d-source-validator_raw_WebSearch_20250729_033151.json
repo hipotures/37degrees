@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Brave New World Aldous Huxley 1932 publication date Chatto Windus first edition details"
+  },
+  "tool_response": {
+    "query": "Brave New World Aldous Huxley 1932 publication date Chatto Windus first edition details",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01GXz3Y3zdiBVPyNswRYnXRT",
+        "content": [
+          {
+            "title": "Brave New World by Huxley, Chatto - AbeBooks",
+            "url": "https://www.abebooks.com/servlet/SearchResults?an=Huxley&bi=0&bx=off&ds=30&pn=Chatto&recentlyadded=all&sortby=1&tn=Brave+New+World&x=0&y=0&yrh=1932&yrl=1932"
+          },
+          {
+            "title": "Brave New World by Aldous Huxley, First Edition - AbeBooks",
+            "url": "https://www.abebooks.com/servlet/SearchResults?yrh=1932&fe=on&yrl=1932&bi=0&ds=30&bx=off&pics=on&sortby=1&tn=Brave+New+World&dj=on&an=Aldous+Huxley&recentlyadded=all&cm_sp=pan-_-srp-_-ptall"
+          },
+          {
+            "title": "Brave New World - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Brave_New_World"
+          },
+          {
+            "title": "Brave New World | Aldous Huxley | First Edition, First Printing",
+            "url": "https://www.mostlydystopianbooks.com/pages/books/10206/aldous-huxley/brave-new-world"
+          },
+          {
+            "title": "Brave New World by Huxley, Aldous | | 1932 | Chatto & Windus | BIBLIO",
+            "url": "https://www.biblio.com/book/brave-new-world-huxley-aldous/d/1439039921"
+          },
+          {
+            "title": "Brave New World by Aldous Huxley",
+            "url": "https://www.biblio.com/brave-new-world-by-aldous-huxley/work/5640"
+          },
+          {
+            "title": "SIGNED/Limited Edition Aldous Huxley Brave New World Chatto & Windus 1932 | eBay",
+            "url": "https://www.ebay.com/itm/204558804215"
+          },
+          {
+            "title": "Brave New World by Aldous Huxley - AbeBooks",
+            "url": "https://www.abebooks.com/book-search/title/brave-new-world/author/aldous-huxley/pub-min/1932/pub-max/1932/pics/sortby/1/page-2/"
+          },
+          {
+            "title": "Aldous Huxley - Brave New World - First UK Edition 1932 + Advert",
+            "url": "https://johnatkinsonbooks.co.uk/book/aldous-huxley-brave-new-world-first-uk-edition-1932/"
+          },
+          {
+            "title": "BRAVE NEW WORLD by ALDOUS HUXLEY: Near Fine Hardcover (1932) 1st Edition | Meier And Sons Rare Books",
+            "url": "https://www.abebooks.com/first-edition/BRAVE-NEW-WORLD-ALDOUS-HUXLEY-Chatto/31269690621/bd"
+          }
+        ]
+      },
+      "Based on the search results, I found comprehensive information about the first edition publication details of Aldous Huxley's \"Brave New World\" published by Chatto & Windus in 1932:\n\n## Publication Details\n\nBrave New World is a dystopian novel by English author Aldous Huxley, written in 1931, and published in 1932. The first edition was published by Chatto & Windus in London in 1932.\n\n## Physical Description\n\nThe first edition was published in London in 1932 by Chatto & Windus in blue cloth with the top edge stained blue and an iconic blue and white illustrated jacket. More specific details include:\n\n- Octavo format, 306 pages\n- Bound in original blue cloth with gilt lettering on the spine\n- Pages not guillotined at bottom edge, top edge stained blue\n- Original dust jacket price was 7s. 6d.net\n\n## Limited Edition\n\nThere was also a special limited edition: Signed, limited deluxe first edition, no.135 of 324 copies produced, with publisher's lightly bevelled yellow buckram with blue morocco title label to spine, gilt, untrimmed paper, t.e.g.\n\n## Publication Significance\n\nIn 1998 and 1999, the Modern Library ranked Brave New World at number 5 on its list of the 100 Best Novels in English of the 20th century. The book has become one of the defining novels of the twentieth century, a dystopian vision which distils the fears arising from scientific advance.\n\nThe first edition is highly sought after by collectors, with the first edition published by Chatto & Windus increasingly difficult to find in collectible condition."
+    ],
+    "durationSeconds": 18.214276387999767
+  }
+}

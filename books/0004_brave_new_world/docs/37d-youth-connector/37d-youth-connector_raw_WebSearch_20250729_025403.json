@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Gen Z slang 2024 2025 current terminology social media language TikTok Twitter"
+  },
+  "tool_response": {
+    "query": "Gen Z slang 2024 2025 current terminology social media language TikTok Twitter",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01TLqLhQQw1FywV9My7JtHHG",
+        "content": [
+          {
+            "title": "2025 Teen Slang Dictionary: Decode Gen Z Lingo",
+            "url": "https://gabb.com/blog/teen-slang/"
+          },
+          {
+            "title": "Glossary of 2020s slang - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Glossary_of_Generation_Z_slang"
+          },
+          {
+            "title": "Top 60+ GenZ Slangs That You Should Know In 2024",
+            "url": "https://keyhole.co/blog/top-genz-slangs/"
+          },
+          {
+            "title": "Top 6 Gen Z TikTok Slang Words in 2025",
+            "url": "https://www.clevguard.com/tips/tiktok-slang-words/"
+          },
+          {
+            "title": "The Ultimate Glossary of TikTok Slang (2025 Update) | UBIQUITOUS",
+            "url": "https://www.ubiquitousinfluence.com/post/tiktok-slang"
+          },
+          {
+            "title": "TikTok Slang: The Exclusive Language of Gen Z (Study)",
+            "url": "https://www.highervisibility.com/ppc/learn/tiktok-slang/"
+          },
+          {
+            "title": "Keeping up With Trends: Understanding TikTok Slang in 2025",
+            "url": "https://www.redsocial.com/blog/understanding-tiktok-slang/"
+          },
+          {
+            "title": "2025 Teen Slang Meanings Every Parent Should Know | Bark",
+            "url": "https://www.bark.us/blog/teen-text-speak-codes-every-parent-should-know/"
+          },
+          {
+            "title": "50 Gen Z Slang Words, Lingo, Phrases and What They Mean - Parade",
+            "url": "https://parade.com/1293898/marynliles/gen-z-slang-words/"
+          },
+          {
+            "title": "A guide to 2024 Gen Z slang \u2013 Deseret News",
+            "url": "https://www.deseret.com/lifestyle/2024/07/01/gen-z-slang-tik-tok/"
+          }
+        ]
+      },
+      "Based on my web search, here are the current Gen Z slang terms and social media language trends for 2024-2025:\n\n## 2024-2025 Gen Z Slang Highlights\n\n### Oxford's Word of the Year 2024\n\"Brain rot\" was coined Oxford's Word of the Year 2024, describing the deterioration of one's mental state after consuming low-quality content online.(no content)It refers to that zoned-out feeling you get after bingeing on bizarre videos, silly memes, petty online drama, and pointless quizzes.\n\n### Popular Current Terms\n\n**Crashing Out**: To make a reckless or regrettable decision after a bout of rage or upset. Originated in the African-American community, specifically in Louisiana with usage by rappers like NBA YoungBoy, but became popular on TikTok in 2024.(no content)On TikTok, \"crashing out\" is frequently used to dramatize emotions, such as after the 2024 U.S. presidential election when users mimicked scenes of anger or crying.\n\n**Brat**: The title of pop singer Charli XCX's studio album, \"brat\" isn't just a noun or adjective: It's a cultural phenomenon. Term based on singer Charli XCX's 2024 album \"Brat\" released in the summer of 2024, referring to an aesthetic trend defined by heavy partying, cool-girl style, and lime green design.\n\n**Fuhuhluhtoogan**: Someone who is good in bed. The word is credited to Baltimore rapper, Richard Webster (rap name Bippleyipsnipp), and became popular on TikTok in late 2023.\n\n### Abbreviations & Acronyms\n\n- **ICL**: Abbreviation of \"I can't lie\"\n- **TS**: An abbreviation for \"this shit\", or just \"this\"\n- **IYKYK**: An abbreviation for \"If You Know, You Know,\" frequently used on Instagram, Twitter, and TikTok\n- **FW**: An acronym for, \"F**k With,\" that is used to express that someone really likes something or someone\n\n### TikTok-Specific Terms\n\n**Clock it**: Quickly notice, recognize, or point out something, often in a sharp or observant way. It is commonly used when someone picks up on something obvious, unexpected, or subtle that others might miss.\n\n**Ate**: A popular slang term commonly used on Instagram and TikTok to express admiration or praise for someone who has excelled at something. It is frequently used in the realms of fashion, music, or performance.\n\n**Era**: Commonly used to describe someone's current interests or priorities. It has become popular on platforms like TikTok, where users use the phrase \"in your [blank] era\" both seriously and humorously.\n\n### Classic Gen Z Terms Still Popular\n\n- **Rizz**: Oxford Dictionary's word of the year in 2023, short for \"charisma.\" Someone with rizz is very good at flirting\n- **Mid**: Translates into \"middle,\" \"lukewarm,\" \"bleh,\" \"meh\" \u2014 anything that's not that great but not terribly bad\n- **Slay**: Doing something extremely well\n- **Extra**: Used to characterize someone or something that displays exaggerated, excessive, or dramatic behavior, appearance, or actions\n\n### Important Notes\n\nMany of these words and phrases stem from the roots of African American Vernacular English (AAVE), and slang has always been a big part of youth culture, circulating through social media platforms like TikTok and Instagram, passing from student to student and from friend to friend."
+    ],
+    "durationSeconds": 28.53060380099993
+  }
+}

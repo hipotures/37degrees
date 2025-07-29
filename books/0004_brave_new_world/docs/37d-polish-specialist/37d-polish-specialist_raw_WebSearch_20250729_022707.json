@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Aldous Huxley \"Nowy wspania\u0142y \u015bwiat\" polskie rozprawy doktorskie akademickie"
+  },
+  "tool_response": {
+    "query": "Aldous Huxley \"Nowy wspania\u0142y \u015bwiat\" polskie rozprawy doktorskie akademickie",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_019hwCSxcXk7FY7REV1yfELy",
+        "content": [
+          {
+            "title": "Aldous Huxley Nowy Wspania\u0142y \u015awiat : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/AldousHuxleyNowyWspaniaywiat"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat Aldous Huxley ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/nowy-wspanialy-swiat-aldous-huxley"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2013 problematyka \u2013 Aldous Huxley \u2013 poezja.org",
+            "url": "https://poezja.org/wz/interpretacja/7687/Nowy_wspanialy_swiat_problematyka"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Nowy_wspania\u0142y_\u015bwiat"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Aldous Huxley | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5043467/nowy-wspanialy-swiat"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Huxley Aldous",
+            "url": "https://www.empik.com/nowy-wspanialy-swiat-huxley-aldous,p1293067189,ksiazka-p"
+          },
+          {
+            "title": "Aldous Huxley: Nowy wspania\u0142y \u015bwiat. 30 lat p\u00f3\u017aniej. Raport rozbie\u017cno\u015bci \u2013 Instytut Spraw Obywatelskich",
+            "url": "https://instytutsprawobywatelskich.pl/aldous-huxley-nowy-wspanialy-swiat-30-lat-pozniej-raport-rozbieznosci/"
+          },
+          {
+            "title": "Rok 2541 | Aldous Huxley, Nowy wspania\u0142y \u015bwiat - Zupe\u0142nie Inna Opowie\u015b\u0107",
+            "url": "https://zupelnieinnaopowiesc.com/2018/05/23/rok-2541-aldous-huxley-nowy-wspanialy-swiat/"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Streszczenie szczeg\u00f3\u0142owe - Aldous Huxley - Bryk.pl",
+            "url": "https://www.bryk.pl/lektury/aldous-huxley/nowy-wspanialy-swiat.streszczenie-szczegolowe"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat 30 lat p\u00f3\u017aniej. Raport rozbie\u017cno\u015bci - Aldous Huxley - epub, mobi \u2013 Ibuk.pl",
+            "url": "https://www.ibuk.pl/fiszka/193596/nowy-wspanialy-swiat-30-lat-pozniej-raport-rozbieznosci.html"
+          }
+        ]
+      },
+      "Based on my search, I found limited results specifically about Polish doctoral dissertations on Aldous Huxley's \"Nowy wspania\u0142y \u015bwiat\" (Brave New World). The search returned mostly general information about the novel itself, its Polish translations, literary analyses, and academic discussions of the work in Polish, but not specific academic doctoral dissertations.\n\nThe search results show:\n\nThe novel \"Brave New World\" was written by Aldous Huxley in 1931 and published in 1932, and it is a dystopia in the science-fiction genre. It's one of the most famous dystopias in 20th century literature.\n\nThere is evidence of academic interest in the work in Polish scholarly contexts, as indicated by references to academic analyses and interpretations. There appears to be a book titled \"Nowe wspania\u0142e \u015bwiaty Aldousa Huxleya i ich recepcja w Polsce\" (New Brave Worlds of Aldous Huxley and their reception in Poland), which suggests scholarly engagement with Huxley's work in Polish academia.\n\nHowever, the search did not return specific results about Polish doctoral dissertations (\"polskie rozprawy doktorskie akademickie\") focused on this novel. The results primarily included:\n\n- Literary analyses and interpretations of the novel\n- Polish translations and editions\n- General academic discussions\n- Book reviews and summaries\n\nTo find specific Polish doctoral dissertations on this topic, you might need to search academic databases like the Polish National Library's repository, university dissertation databases, or specialized academic search engines that focus on Polish academic works."
+    ],
+    "durationSeconds": 13.85485791799985
+  }
+}

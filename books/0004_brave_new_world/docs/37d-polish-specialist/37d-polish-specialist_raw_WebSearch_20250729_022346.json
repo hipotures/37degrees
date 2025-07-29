@@ -1,0 +1,63 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Nowy wspania\u0142y \u015bwiat\" wsp\u00f3\u0142czesna Polska spo\u0142ecze\u0144stwo polityka konsumpcjonizm analiza"
+  },
+  "tool_response": {
+    "query": "\"Nowy wspania\u0142y \u015bwiat\" wsp\u00f3\u0142czesna Polska spo\u0142ecze\u0144stwo polityka konsumpcjonizm analiza",
+    "results": [
+      "I'll perform a web search for your query about \"Nowy wspania\u0142y \u015bwiat\" (Brave New World) in relation to contemporary Polish society, politics, and consumerism analysis.",
+      {
+        "tool_use_id": "srvtoolu_01YCAxf72Xi5tQEHcRDbPjmJ",
+        "content": [
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2013 problematyka \u2013 Aldous Huxley \u2013 poezja.org",
+            "url": "https://poezja.org/wz/interpretacja/7687/Nowy_wspanialy_swiat_problematyka"
+          },
+          {
+            "title": "\"Nowy wspania\u0142y \u015bwiat\" \u2013 upiorna wizja realizacji ludzkich marze\u0144 - Historia - PR24.PL",
+            "url": "http://www.polskieradio.pl/39/156/Artykul/1575666,Nowy-wspanialy-swiat-\u2013-upiorna-wizja-realizacji-ludzkich-marzen"
+          },
+          {
+            "title": "IMPRESJE: NOWY WSPANIA\u0141Y \u015aWIAT",
+            "url": "http://impressje.blogspot.com/2010/03/nowy-wspaniay-swiat.html"
+          },
+          {
+            "title": "Un Mundo Feliz / Nowy wspania\u0142y \u015bwiat - Aldous Huxley",
+            "url": "https://book1.pl/un-mundo-feliz-nowy-wspanialy-swiat-1"
+          },
+          {
+            "title": "Obrazy edukacji w dystopii \u201eNowy wspania\u0142y \u015bwiat\u201d Aldousa ...",
+            "url": "https://dspace.uni.lodz.pl/xmlui/bitstream/handle/11089/23323/Arleta_Suwalska_Utopia_a_edukacja_tom_I_O_wyobrazeniach.pdf.pdf?sequence=2&isAllowed=y"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2013 g\u0142\u00f3wne w\u0105tki \u2013 Aldous Huxley \u2013 poezja.org",
+            "url": "https://poezja.org/wz/interpretacja/7510/Nowy_wspanialy_swiat_glowne_watki"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - om\u00f3wienie",
+            "url": "https://3telnia.pl/nowy-wspanialy-swiat-omowienie/"
+          },
+          {
+            "title": "Co si\u0119 dzieje w Nowy wspania\u0142y \u015bwiat? Pe\u0142ne streszczenie fabu\u0142y",
+            "url": "https://polis.org.pl/co-sie-dzieje-w-nowy-wspanialy-swiat-pelne-streszczenie-fabuly"
+          },
+          {
+            "title": "Konsumpcjonizm w\u015br\u00f3d m\u0142odzie\u017cy akademickiej \u2013 zagro\u017cenie dla idei zr\u00f3wnowa\u017conego rozwoju w warunkach polskich? | Podstawy Edukacji",
+            "url": "https://czasopisma.ujd.edu.pl/index.php/PE/article/view/668"
+          },
+          {
+            "title": "\"NOWY WSPANIA\u0141Y \u015aWIAT?\" Moda, konsumpcja i rozrywka jako nowe style \u017cycia - Wojciech Muszy\u0144ski (249510) - Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/ksiazka/249510/quot-nowy-wspanialy-swiat-quot-moda-konsumpcja-i-rozrywka-jako-nowe-style-zycia"
+          }
+        ]
+      },
+      "Based on the search results, I found several Polish sources that analyze \"Nowy wspania\u0142y \u015bwiat\" (Brave New World) by Aldous Huxley in relation to contemporary Polish society, politics, and consumerism. Here's what the search revealed:\n\n## Analysis of \"Brave New World\" in Contemporary Polish Context\n\nThe search results show that Polish scholars and critics are actively analyzing Huxley's dystopian vision in relation to modern Polish society, particularly focusing on several key themes:\n\n### Consumerism and Consumer Society\n\nPolish analyses emphasize how the novel explores consumerism and the loss of authenticity, where social values are concentrated on continuous buying and using goods, with consumption being the central aspect of daily life, and materialism and superficial pleasure being more valued than deep interpersonal relationships and personal fulfillment.(no content)Contemporary Polish commentators note that Huxley successfully predicted advancing consumerism, where masses produce newer products for masses, and people are discouraged from childhood from engaging in activities that don't require purchasing special accessories.\n\n### Political and Social Control\n\nThe analysis shows that Huxley presented his own vision of threats that may come from attempts to implement utopian political projects, with the anti-utopian character of \"Brave New World\" lying in creating a seemingly ideal world that ultimately contains many mechanisms of social control and oppression.(no content)In Huxley's modern world, the government controls every sphere of citizens' lives from birth to death, people are bred in laboratories, divided into castes, and their behaviors are conditioned through \"hypnopaedia\" (learning through sleep), with the social motto \"everyone belongs to everyone else\" reflecting the lack of individuality and privacy.\n\n### Technology and Dehumanization\n\nPolish analyses highlight how technological development's influence on the social system is important for understanding the novel's themes, where technology in Huxley's world serves not only to improve living conditions but also as a tool for controlling and manipulating society, and while technology provides material comfort and apparent happiness, it leads to dehumanization and loss of true freedom.\n\n### Contemporary Relevance to Poland\n\nPolish commentators describe this as \"a thoroughly consumer society, whose prophet and universally revered bard is Henry Ford, inventor of assembly line production principles and specialized mass production, which became the idol of the new world.\"(no content)Recent Polish academic research indicates that \"a key threat to the idea of sustainable development is axiological changes, adopting a consumer lifestyle - consumerist attitudes,\" with studies attempting to determine whether the intensity of this attitude among young Poles may pose a threat to implementing sustainable development ideas in the country.(no content)Polish literary analysis notes that the narrative \"is a commentary on totalitarianism and consumerism from the 1930s,\" making it particularly relevant for understanding contemporary Polish social and political dynamics.\n\nThe search results demonstrate that Polish intellectuals and academics are actively engaging with Huxley's work as a lens for examining contemporary Polish society's relationship with consumerism, political control, and technological advancement."
+    ],
+    "durationSeconds": 24.960819057999643
+  }
+}

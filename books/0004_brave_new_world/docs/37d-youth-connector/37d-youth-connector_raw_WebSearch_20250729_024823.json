@@ -1,0 +1,62 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "AI machine learning social engineering algorithms Brave New World conditioning behavior modification 2024"
+  },
+  "tool_response": {
+    "query": "AI machine learning social engineering algorithms Brave New World conditioning behavior modification 2024",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_016Z1TkLdxvQuqw85oX4S4jb",
+        "content": [
+          {
+            "title": "Social engineering in the era of generative AI: Predictions for 2024 | IBM",
+            "url": "https://securityintelligence.com/articles/social-engineering-generative-ai-2024-predictions/"
+          },
+          {
+            "title": "How is AI changing Social Engineering attacks?",
+            "url": "https://insights.integrity360.com/how-is-ai-changing-social-engineering-attacks"
+          },
+          {
+            "title": "AI-Powered Social Engineering Attacks | CrowdStrike",
+            "url": "https://www.crowdstrike.com/en-us/cybersecurity-101/social-engineering/ai-social-engineering/"
+          },
+          {
+            "title": "Social Engineering, Urban Alienation and the Rise of the Machine Age: Perseverance of the Human Condition in Brave New World and We",
+            "url": "https://www.academia.edu/4686887/Social_Engineering_Urban_Alienation_and_the_Rise_of_the_Machine_Age_Perseverance_of_the_Human_Condition_in_Brave_New_World_and_We"
+          },
+          {
+            "title": "Generative AI Makes Social Engineering More Dangerous\u2014and Harder to Detect | IBM",
+            "url": "https://www.ibm.com/think/insights/generative-ai-social-engineering"
+          },
+          {
+            "title": "AI\u2014The good, the bad, and the scary | Engineering | Virginia Tech",
+            "url": "https://eng.vt.edu/magazine/stories/fall-2023/ai.html"
+          },
+          {
+            "title": "Brave New World? On AI and the Management of Customer Relationships - ScienceDirect",
+            "url": "https://www.sciencedirect.com/science/article/pii/S1094996820300839"
+          },
+          {
+            "title": "Digital deception: generative artificial intelligence in social engineering and phishing | Artificial Intelligence Review",
+            "url": "https://link.springer.com/article/10.1007/s10462-024-10973-2"
+          },
+          {
+            "title": "New machine learning algorithm promises advances in computing | ScienceDaily",
+            "url": "https://www.sciencedaily.com/releases/2024/05/240509155536.htm"
+          },
+          {
+            "title": "(PDF) A Brave New World: AI as a Nascent Regime? [Peer-reviewed journal]",
+            "url": "https://www.researchgate.net/publication/377585903_A_Brave_New_World_AI_as_a_Nascent_Regime_Peer-reviewed_journal"
+          }
+        ]
+      },
+      "I've performed the web search for your query on AI machine learning social engineering algorithms, Brave New World conditioning and behavior modification in 2024. The search returned several relevant results that explore the intersection of these topics. Here's what I found:\n\n## AI-Powered Social Engineering in 2024\n\nBreakthroughs in large language models (LLMs) are driving an arms race between cybersecurity and social engineering scammers, with this trend playing out significantly in 2024.(no content)In a time when fakery is the new normal, cybercriminals are using AI to create alarmingly convincing social engineering attacks or generate misinformation at scale.\n\n### Notable Examples and Trends\n\nIn February 2024, in a first of its kind AI heist, a finance worker from a multinational firm was tricked into paying out $25 million to fraudsters.(no content)The attackers used deepfake technology to pose as the company's chief financial officer in a video conference call, and saw the worker duped into attending a video call with what he thought were several other members of staff, but all of whom were in fact deepfake recreations.(no content)In 2024 alone, Americans lost USD 12.5 billion to phishing attacks and other fraud. That number might rise as more scammers use generative AI to create more convincing phishing messages, in more languages, in less time.\n\n### AI's Enhancement of Traditional Attacks\n\nAttackers are increasingly using AI to collect data, mimic behavior, and even perfectly translate into many languages, making attacks more personalized and persuasive than before.(no content)AI algorithms, especially those based on machine learning, evolve through interaction with data. This continuous learning process means that AI-driven attacks can become more refined and less detectable over time.\n\n## Connection to Brave New World's Conditioning Themes\n\nThe search revealed interesting academic analysis connecting AI to Huxley's dystopian vision:\n\nAldous Huxley's seminal dystopian novel Brave New World (1931) imagines a totalitarian future where human individuality, deemed incompatible with social stability, is controlled by science and technology.(no content)The crux of this paper is to trace the affinity between Huxley's Brave New World and the contemporary world that has seen various forms of advancements in technology and behavioral modulations and has undergone numerous changes. Our journey towards Brave New World doesn't seem like a far cry.\n\n### Modern AI as Behavioral Conditioning\n\nAI algorithms have the potential to dictate career paths, social interactions, and even ethical decisions. The rise of AI-driven technologies like deep learning and predictive analytics illustrates this concern. For instance, AI algorithms in recruitment software can predetermine an individual's career trajectory, eerily reminiscent of Huxley's categorization of individuals into Alphas or Epsilons.(no content)Take recommendation algorithms for streaming services: the types of shows you see are influenced by the shows recommended to you by an artificial agent. More generally, today's AI systems influence human decision making at multiple levels: from viewing habits to purchasing decisions, from political opinions to social values.\n\n## Technical Advances in AI-Driven Social Engineering\n\nA systematic review identified three pillars where Generative AI amplifies the impact of SE attacks: Realistic Content Creation, Advanced Targeting and Personalization, and Automated Attack Infrastructure.(no content)Recent advancements in machine learning and neural networks significantly improved their quality. Even those with a keen eye are finding it increasingly difficult to distinguish a deepfake from genuine content.\n\nThe search results reveal a concerning trend where AI technologies originally designed for beneficial purposes are being weaponized for social engineering attacks, while simultaneously drawing parallels to the behavioral conditioning themes explored in dystopian literature like Brave New World."
+    ],
+    "durationSeconds": 28.161150045000017
+  }
+}

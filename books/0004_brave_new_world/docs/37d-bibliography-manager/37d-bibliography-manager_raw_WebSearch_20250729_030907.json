@@ -1,0 +1,63 @@
+{
+  "session_id": "683fbfff-7494-4f98-973c-484bb761df94",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/683fbfff-7494-4f98-973c-484bb761df94.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0004_brave_new_world",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Aldous Huxley Polish translations \"Nowy wspania\u0142y \u015bwiat\" Stanis\u0142awa Kuszelewska Bogdan Baran bibliographic details publishing history"
+  },
+  "tool_response": {
+    "query": "Aldous Huxley Polish translations \"Nowy wspania\u0142y \u015bwiat\" Stanis\u0142awa Kuszelewska Bogdan Baran bibliographic details publishing history",
+    "results": [
+      "I'll search for information about Polish translations of Aldous Huxley's work, specifically \"Nowy wspania\u0142y \u015bwiat\" and the translators you mentioned.",
+      {
+        "tool_use_id": "srvtoolu_015CwGYsPdi9P7D4ze19GSMV",
+        "content": [
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat; Nowy wspania\u0142y \u015bwiat poprawiony - Digital Library of the Jan Kochanowski University",
+            "url": "https://bibliotekacyfrowa.ujk.edu.pl/dlibra/publication/3267/edition/2924?language=en"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Nowy_wspania\u0142y_\u015bwiat"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat \u2013 encyklopediafantastyki.pl",
+            "url": "https://encyklopediafantastyki.pl/index.php?title=Nowy_wspania%C5%82y_%C5%9Bwiat"
+          },
+          {
+            "title": "Aldous Huxley Nowy Wspania\u0142y \u015awiat : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/AldousHuxleyNowyWspaniaywiat"
+          },
+          {
+            "title": "Retranslations of Aldous Huxley\u2019s Brave New World in Poland",
+            "url": "https://czasopisma.filologia.uwb.edu.pl/index.php/c/article/view/2405"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Aldous Huxley, Bogdan Baran",
+            "url": "https://bonito.pl/produkt/nowy-wspanialy-swiat-2"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat Aldous Huxley ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/nowy-wspanialy-swiat-aldous-huxley"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - Aldous Huxley | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5043467/nowy-wspanialy-swiat"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat 30 lat p\u00f3\u017aniej - Aldous Huxley Ksi\u0105\u017cka - Cena i Opinie - Ksi\u0119gi Barneja",
+            "url": "https://ksiegibarneja.pl/nowy-wspanialy-swiat-30-lat-pozniej-aldous-huxley"
+          },
+          {
+            "title": "Nowy wspania\u0142y \u015bwiat - katalog g\u0142\u00f3wny - Biblioteka G\u0142\u00f3wna",
+            "url": "https://sslkatalog.bg.szczecin.pl/cgi-bin/koha/opac-detail.pl?bib=425636"
+          }
+        ]
+      },
+      "Based on the search results, I found comprehensive information about the Polish translations of Aldous Huxley's \"Brave New World\" (\"Nowy wspania\u0142y \u015bwiat\"). Here are the key bibliographic details and publishing history:\n\n## Polish Translations of \"Brave New World\"\n\nThe novel has been translated into Polish by two main translators: Stanis\u0142awa Kuszelewska (1894-1966) and Jerzy Horzelski, with the first work translated by Stanis\u0142awa Kuszelewska.\n\n### Stanis\u0142awa Kuszelewska Translation\nThe translation by Stanis\u0142awa Kuszelewska was published by Oficyna Libera\u0142\u00f3w in 1985. This translation appeared in various editions, including one published in 1935.\n\n### Bogdan Baran Translation\nBogdan Baran's translation was published by Wydawnictwo Literackie in 1988. This translation has been republished multiple times, appearing in the Biblioteka Kultury series by Instytut Literacki in 1960, and later editions in the 1980s and 1990s.\n\n### Publishing History Timeline\nThe novel has had an extensive publishing history in Poland, with editions appearing in:\n- 1935 (early edition)\n- 1960 (Instytut Literacki, Biblioteka Kultury series)\n- 1985 (Oficyna Libera\u0142\u00f3w)\n- 1988 (Wydawnictwo Literackie, Fantastyka i Groza series)\n- 1990 (Muza)\n- 1997 (Biblioteka Bestseller\u00f3w series)\n- 2002 (Porozumienie Wydawc\u00f3w, Kanon na Koniec Wieku series)\n- 2009, 2010, 2012, 2019, 2022, 2023 (various publishers)\n\n### Academic Analysis\nRecent academic work has analyzed the retranslations of Huxley's \"Brave New World\" in Poland, including a comparison with an unpublished new translation by Krzysztof Hejwowski. Research has examined the intertextuality and polyphony in Huxley's novel and how translation choices, particularly Bogdan Baran's decision to independently translate Shakespeare fragments, affected the Polish versions.\n\nThe search reveals that both Stanis\u0142awa Kuszelewska and Bogdan Baran have made significant contributions to making Huxley's dystopian masterpiece accessible to Polish readers, with their translations forming the basis for multiple republications over several decades."
+    ],
+    "durationSeconds": 20.54928152800072
+  }
+}
