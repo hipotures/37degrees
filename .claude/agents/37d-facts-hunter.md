@@ -13,8 +13,9 @@ max_tasks: 14
 
 You are claude code agent 37d-facts-hunter, specializing in uncovering verified facts about books.
 
-## COMMON WORKFLOW
-Refer to docs/agents/WORKFLOW.md for standard workflow steps.
+## WORKFLOW EXECUTION PRIORITY
+
+**FIRST PRIORITY**: Execute ALL steps from docs/agents/WORKFLOW.md
 
 ## SPECIFIC INSTRUCTIONS
 

@@ -1,0 +1,62 @@
+{
+  "session_id": "e317a9ce-3bc9-4ad9-821f-7140f784bc8f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/e317a9ce-3bc9-4ad9-821f-7140f784bc8f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0008_emma",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Emma\" \"Jane Austen\" first edition 1815 publication history unusual circumstances"
+  },
+  "tool_response": {
+    "query": "\"Emma\" \"Jane Austen\" first edition 1815 publication history unusual circumstances",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_014Rj4BtU22N7RqG4zWesSN7",
+        "content": [
+          {
+            "title": "Emma",
+            "url": "https://jasna.org/austen/works/emma/"
+          },
+          {
+            "title": "The Publishing History of Jane Austen\u2019s Emma",
+            "url": "https://janeausteninvermont.blog/2015/12/16/the-publishing-history-of-jane-austens-emma/"
+          },
+          {
+            "title": "Emma (novel) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Emma_(novel)"
+          },
+          {
+            "title": "First edition: Emma | Jane Austen's House",
+            "url": "https://janeaustens.house/object/emma-first-edition/"
+          },
+          {
+            "title": "Emma: 1815 Edition: Austen, Jane: 9798713802226: Amazon.com: Books",
+            "url": "https://www.amazon.com/Emma-1815-Jane-Austen/dp/B08XLLDX28"
+          },
+          {
+            "title": "Jane Austen - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Jane_Austen"
+          },
+          {
+            "title": "\u201c\u2026a something ready for publication\u2026\u201d ~ The Publishing Journey of Jane Austen\u2019s \u2018Persuasion\u2019",
+            "url": "https://janeausteninvermont.blog/2018/04/06/a-something-ready-for-publication-the-publishing-journey-of-jane-austens-persuasion/"
+          },
+          {
+            "title": "The Publishing History of Jane Austen\u2019s Emma | Sarah Emsley",
+            "url": "https://sarahemsley.com/2015/12/16/the-publishing-history-of-jane-austens-emma/"
+          },
+          {
+            "title": "Today in Literary History \u2013 December 23, 1815 \u2013 Jane Austen\u2019s Emma is published",
+            "url": "https://booknormblog.wordpress.com/2017/12/23/today-in-literary-history-december-23-1815-jane-austens-emma-is-published/"
+          },
+          {
+            "title": "Emma | Jane Austen, Summary, Characters, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/Emma-novel-by-Austen"
+          }
+        ]
+      },
+      "Based on the search results, I found extensive information about the unusual circumstances surrounding the first edition publication of Jane Austen's *Emma* in 1815. Here are the key findings:\n\n## Publication History and Unusual Circumstances\n\nJane Austen started writing Emma on January 21, 1814, and finished on March 29, 1815.(no content)She offered Emma to John Murray, the prominent London publisher, either because Thomas Egerton was unwilling to print a second edition of Mansfield Park or because she hoped to get a more lucrative copyright agreement for Emma (or both).\n\n### Financial Negotiations and Publishing Terms\n\nMurray offered Austen \u00a3450 for Emma plus the copyrights of Mansfield Park and Sense and Sensibility, which she refused.(no content)Upon receiving his offer, Austen called Murray a \"Rogue\" and resolved to retain the copyright herself.(no content)Instead, she published two thousand copies of the novel at her own expense, retaining the copyright and paying a 10% commission to Murray.\n\n### Publication Date Anomaly\n\nEmma was first available for sale on December 23, 1815, although, since the release was so close to the end of the year, the date on the title page is 1816. This creates the unusual circumstance where Emma was published in late December 1815, though the title page states 1816, and hence why there are celebrations both this year and next.\n\n### Royal Dedication - Most Unusual Circumstance\n\nThe most unusual aspect of Emma's publication was its dedication to the Prince Regent. Unlike Jane Austen's other works, it also included a dedication to the Prince of Wales.(no content)Although she disliked the Prince Regent, he admired her novels and had copies in each of his residences. While she was visiting her brother Henry in London in the fall of 1815, Austen's identity became known to the Prince and his librarian, James Stanier-Clarke, and she was invited to tour Carlton House.(no content)In November 1815, the Prince Regent's librarian James Stanier Clarke invited Austen to visit the Prince's London residence and hinted Austen should dedicate the forthcoming Emma to the Prince. Though Austen disapproved of the Prince Regent, she could scarcely refuse the request.\n\n### Print Run and Sales Performance\n\nBecause the first editions of each of her previous novels had sold out, the decision was made to print 2,000 copies of Emma\u2014Jane Austen's largest first edition print run to date. However, the sales were disappointing: John Murray's ledgers show that by October 1816 only 1,248 copies of Emma had been sold\u2014slightly less than two-thirds of the initial print run.\n\n### Financial Impact\n\nShe had to reimburse Murray for costs associated with producing the second edition of Mansfield Park, which did not sell well. As a result, it wasn't until February 1817 that she finally received \u00a338.18 in profit from Emma, with about a quarter of the print run still unsold.\n\nThe most unusual circumstances were the reluctant royal dedication despite Austen's personal disapproval of the Prince Regent, the publication date confusion, and the financial arrangement where Austen retained copyright while paying publishing costs herself - which was uncommon for the era."
+    ],
+    "durationSeconds": 27.525330557000125
+  }
+}

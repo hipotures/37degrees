@@ -1,9 +1,9 @@
 # 37degrees Agent Workflow
 
-This document defines the one-task-only workflow for individual 37d research agents.
+This document defines the complete workflow for individual 37d research agents.
 
 <objective>
-Execute one research tasks from FILE TODO
+Execute ALL research tasks marked [ ] from FILE TODO
 </objective>
 
 <prerequisites>
@@ -17,18 +17,18 @@ VERIFY these conditions before starting:
 ## STEP 1: Initialize Agent Session
 
 <instructions>
-1.0. PARSE Agent context JSON from prompt:
-     - EXTRACT JSON block marked as "Agent context:" from the prompt
+1.0. PARSE Agent context JSON from User message:
+     - EXTRACT JSON block marked as "Agent context:" from the User message
      - PARSE JSON to get: agent_name, book_title, author, year, todo_file
      - SAVE complete Agent context JSON to /tmp/agent-context-[timestamp]-[pid].txt for debugging
      - USE parsed values for subsequent workflow steps
 
-1.1. DETERMINE agent name from parsed agent_name field (or fallback to FILE TODO filename)
+1.1. DETERMINE agent name from parsed agent_name field
 1.2. READ book.yaml to extract book metadata (verify against parsed context):
      - title (should match book_title from context)
      - author (should match author from context) 
      - year (should match year from context)
-1.3. VERIFY search_history/ directory exists (created by prepare-book-folders.sh)
+1.3. VERIFY search_history/ directory exists
 </instructions>
 
 <error-handling>
@@ -74,7 +74,11 @@ IF FILE TODO contains tasks marked [ ]:
        CHANGE: "- [ ] Task description"  
        TO: "- [0] Task description (no results YYYY-MM-DD HH:MM)"
 
-2.6. End task
+2.6. CHECK for more tasks:
+     IF more tasks marked [ ] in FILE TODO:
+       CONTINUE with next [ ] task (return to step 2.1)
+     ELSE:
+       END session - all tasks completed
 </instructions>
 
 <search-strategy>
@@ -123,14 +127,16 @@ Note: No [R] running status - tasks go directly from [ ] to [x] or [0]
 
 <examples>
 
-## Example 1: Task Execution
+## Example 1: Multiple Task Execution
 ```
 Agent: Reading FILE TODO...
 Agent: Found task "Research Polish translations and translators"
 Agent: Searching: "Brave New World" "Nowy wspaniały świat" Polish translation history
 Agent: Found relevant results about Huxley translations
 Agent: Task marked [x] with timestamp
-Agent: Moving to next task...
+Agent: Checking for more [ ] tasks...
+Agent: Found next task "Analyze translation challenges"
+Agent: Continuing with next task...
 ```
 
 ## Example 2: Multiple Search Attempts
