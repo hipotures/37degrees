@@ -31,8 +31,8 @@ mkdir -p "$BOOK_PATH/search_history"
 # Create symlink to agents documentation if it doesn't exist
 AGENTS_SYMLINK="$BOOK_PATH/docs/agents"
 if [ ! -L "$AGENTS_SYMLINK" ]; then
-    ln -sf ../../../docs/agents "$AGENTS_SYMLINK"
-    echo "Created symlink: $AGENTS_SYMLINK -> ../../../docs/agents"
+    ln -sf ../../../config/prompt/agents "$AGENTS_SYMLINK"
+    echo "Created symlink: $AGENTS_SYMLINK -> ../../../config/prompt/agents"
 else
     echo "Symlink exists: $AGENTS_SYMLINK"
 fi
@@ -49,7 +49,7 @@ echo "Created structure:"
 echo "  $BOOK_PATH/docs/"
 echo "  $BOOK_PATH/docs/findings/"
 echo "  $BOOK_PATH/docs/todo/"
-echo "  $BOOK_PATH/docs/agents -> ../../../docs/agents"
+echo "  $BOOK_PATH/docs/agents -> ../../../config/prompt/agents"
 echo "  $BOOK_PATH/search_history/"
 echo "  $BOOK_PATH/assets/"
 echo "  $BOOK_PATH/audio/"
