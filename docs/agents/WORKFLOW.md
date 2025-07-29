@@ -1,16 +1,17 @@
 # 37degrees Agent Workflow
 
-This document defines the imperative workflow for individual 37d research agents working on book research tasks.
+This document defines the task-by-task workflow for individual 37d research agents.
 
 <objective>
-Execute research tasks from assigned TODO file systematically.
-Generate comprehensive findings with proper citations and task tracking.
+Execute research tasks from FILE TODO sequentially.
+Generate comprehensive research report from collected data.
 </objective>
 
 <prerequisites>
 VERIFY these conditions before starting:
 1. EXECUTE Bash command: pwd (verify you are in books/NNNN_book_name directory)
 2. VERIFY FILE TODO exists at docs/todo/TODO_37d-[agent-name].md
+3. VERIFY docs/agents/research-report-prompt.md is accessible via symbolic link
 </prerequisites>
 
 <workflow>
@@ -18,197 +19,179 @@ VERIFY these conditions before starting:
 ## STEP 1: Initialize Agent Session
 
 <instructions>
-1.1. READ docs/agents/STRUCTURE-BOOK.md to understand folder structure
-1.2. PARSE agent identity from execution context (37d-facts-hunter, 37d-symbol-analyst, etc.)
-1.3. READ book.yaml to extract:
-     - Book title
-     - Author name
-     - Publication year
-1.4. CONFIRM FILE TODO exists at docs/todo/TODO_37d-[agent-name].md
+1.1. DETERMINE agent name from FILE TODO filename
+1.2. READ book.yaml to extract book metadata:
+     - title
+     - author  
+     - year
+1.3. CREATE search data directory if missing: docs/37d-[agent-name]/
 </instructions>
 
 <error-handling>
 IF FILE TODO missing:
-  REPORT: "ERROR: FILE TODO missing at docs/todo/TODO_37d-[agent-name].md - cannot proceed without task list"
+  REPORT: "ERROR: FILE TODO missing at docs/todo/TODO_37d-[agent-name].md"
   EXIT workflow
 
 IF book.yaml missing:
-  REPORT: "ERROR: book.yaml missing - cannot determine book metadata" 
+  REPORT: "ERROR: book.yaml missing - cannot determine book metadata"
   EXIT workflow
 </error-handling>
 
-## STEP 2: Assess Current State
+## STEP 2: Task Execution Loop
 
 <instructions>
-2.1. READ FILE TODO at docs/todo/TODO_37d-[agent-name].md
-2.2. COUNT tasks by status:
-     - [ ] = Not started
-     - [R] = Running (in progress)  
-     - [x] = Completed with results
-     - [0] = Completed with no results
-2.3. CHECK if findings file exists at docs/findings/37d-[agent-name]_findings.md
-2.4. DETERMINE work mode based on assessment
-</instructions>
+WHILE FILE TODO contains tasks marked [ ]:
 
-## STEP 3: Execute Tasks Systematically
-
-<instructions>
-FOR EACH task marked [ ] or [R] in FILE TODO:
-
-3.1. MARK task as running:
-     CHANGE: "- [ ] Task description"
-     TO: "- [R] Task description (started YYYY-MM-DD HH:MM)"
-
-3.2. EXECUTE research specific to task:
-     - USE WebSearch for online research
-     - USE WebFetch for specific page analysis  
-     - GATHER information relevant to task objective
-     - REPEAT searches if initial results insufficient
-
-3.3. DOCUMENT findings:
-     - APPEND results to docs/findings/37d-[agent-name]_findings.md
-     - INCLUDE proper citations for all sources
-     - MAINTAIN consistent formatting
-     - USE quality rating scale (⭐⭐⭐⭐⭐ to ⭐)
-
-3.4. UPDATE task completion:
-     IF results found:
-       CHANGE: "- [R] Task description (started YYYY-MM-DD HH:MM)"
-       TO: "- [x] Task description ✓ (YYYY-MM-DD HH:MM)"
+2.1. READ FILE TODO and FIND first task marked [ ]
      
-     IF no results found:
-       CHANGE: "- [R] Task description (started YYYY-MM-DD HH:MM)"  
-       TO: "- [0] Task description ✓ (YYYY-MM-DD HH:MM)"
+2.2. CONSTRUCT search query based on:
+     - Task description
+     - Book title and author
+     - Specific aspect mentioned in task
+     
+2.3. EXECUTE WebSearch with constructed query
+     Example: "Brave New World" Huxley 1932 "Polish translation" history
 
-3.5. CONTINUE to next uncompleted task
+2.4. EVALUATE search results:
+     IF results insufficient or too general:
+       REFINE query with more specific terms
+       EXECUTE additional WebSearch
+       
+2.5. UPDATE task status in FILE TODO:
+     IF valuable results found:
+       CHANGE: "- [ ] Task description"
+       TO: "- [x] Task description (completed YYYY-MM-DD HH:MM)"
+       
+     IF no results after multiple attempts:
+       CHANGE: "- [ ] Task description"  
+       TO: "- [0] Task description (no results YYYY-MM-DD HH:MM)"
+
+2.6. CONTINUE to next [ ] task
 </instructions>
 
-<task-execution-guidelines>
-RESEARCH APPROACH:
-- START with specific queries including book title + author
-- BROADEN search terms if no results found
-- EXECUTE multiple searches per task if needed
-- CROSS-REFERENCE information from multiple sources
-- PRIORITIZE academic and primary sources
+<search-strategy>
+INITIAL SEARCH:
+- Include book title + author + specific aspect
+- Use quotes for exact phrases
+- Add year if historically relevant
 
-SEARCH QUERY EXAMPLES:
-- ✅ GOOD: "Don Quixote" Cervantes 1605 first edition publication
-- ✅ GOOD: Aldous Huxley "Brave New World" 1932 historical context
-- ❌ BAD: don quixote facts
-- ❌ BAD: brave new world information
+REFINEMENT STRATEGIES:
+- Add synonyms or related terms
+- Try different language if applicable (e.g., Polish terms)
+- Search for academic sources specifically
+- Look for primary sources or first-hand accounts
 
-CITATION REQUIREMENTS:
-- Books: Author Last, First. *Title*. Publisher, Year.
-- Articles: Author. "Title." *Journal*, Year.
-- Websites: "Page Title." *Site Name*. URL. Accessed: DD Month YYYY.
-- ALL major claims must have citations
-</task-execution-guidelines>
+WHEN TO STOP:
+- After 3-4 search attempts with variations
+- When diminishing returns on new information
+- When query becomes too broad or speculative
+</search-strategy>
 
-## STEP 4: Final Verification
+NOTE: The 37d-save-search.py hook automatically saves all WebSearch/WebFetch 
+results to docs/37d-[agent-name]/ as timestamped JSON files.
+
+## STEP 3: Generate Research Report
 
 <instructions>
-4.1. READ FILE TODO to verify completion status
-4.2. COUNT remaining [ ] or [R] tasks
-4.3. IF incomplete tasks remain:
-     CONTINUE to STEP 3 for remaining tasks
-4.4. IF all tasks completed ([x] or [0]):
-     PROCEED to completion
-4.5. VERIFY findings file completeness:
-     - Each [x] task has corresponding findings section
-     - Each [0] task may have empty section with explanation
-     - All findings include proper citations
-     - Quality ratings assigned to sources
+AFTER all tasks marked [x] or [0]:
+
+3.1. VERIFY all tasks completed:
+     COUNT remaining [ ] tasks
+     IF any [ ] remain: RETURN to STEP 2
+     
+3.2. LOCATE all JSON files:
+     PATH: docs/37d-[agent-name]/37d-[agent-name]_raw_*.json
+     
+3.3. READ research-report-prompt.md for synthesis instructions
+
+3.4. PROCESS all JSON files to extract:
+     - Search queries (tool_input.query)  
+     - Search results (tool_response.results)
+     - Connections between searches
+     
+3.5. SYNTHESIZE findings following research-report-prompt.md structure:
+     - Group by themes (not by task order)
+     - Create narrative flow
+     - Include all sources and citations
+     
+3.6. WRITE comprehensive report to:
+     docs/findings/37d-[agent-name]_findings.md
 </instructions>
 
-## STEP 5: Complete Session
+## STEP 4: Finalize
 
 <instructions>
-5.1. CONFIRM FILE TODO shows all tasks as [x] or [0] with timestamps  
-5.2. VERIFY findings file exists and contains research results
-5.3. REPORT completion status:
-     "Research completed successfully. All FILE TODO tasks marked complete."
-5.4. SUMMARIZE key findings discovered during research
+4.1. VERIFY deliverables exist:
+     - All tasks in FILE TODO marked [x] or [0]
+     - JSON files in docs/37d-[agent-name]/
+     - Research report in docs/findings/
+
+4.2. REPORT completion:
+     "Research completed. [X] tasks successful, [Y] tasks with no results.
+      Research report generated at docs/findings/37d-[agent-name]_findings.md"
 </instructions>
 
 </workflow>
 
 <context>
 
-
-## TODO File Format
-
-Tasks in FILE TODO follow this progression:
-```markdown
-- [ ] Task description                           # Not started
-- [R] Task description (started YYYY-MM-DD HH:MM)   # In progress  
-- [x] Task description ✓ (YYYY-MM-DD HH:MM)        # Completed with results
-- [0] Task description ✓ (YYYY-MM-DD HH:MM)        # Completed with no results
+## Task Status Progression
+```
+- [ ] Task description                    # Not started
+- [x] Task description (completed DATE)   # Completed with results
+- [0] Task description (no results DATE)  # Completed without results
 ```
 
-## Findings File Structure
+Note: No [R] running status - tasks go directly from [ ] to [x] or [0]
 
-```markdown
-# 37d-[agent-name] Research Findings
-## "[Book Title]" by [Author] ([Year])
-
-### Research completed: YYYY-MM-DD HH:MM
-
----
-
-## Task: [Task Name from TODO]
-Date: YYYY-MM-DD HH:MM
-
-### Finding 1: [Descriptive Title]
-- **Fact**: [Specific information found]
-- **Context**: [Why this is significant]
-- **Source**: [Citation]
-- **Quality**: ⭐⭐⭐⭐⭐
-- **Verification**: [How this was confirmed]
-
-### Citations:
-[1] Author, "Title", Publisher, Year
-[2] "Article Title", Website, URL, Accessed: YYYY-MM-DD
-```
-
+## File Locations
+- Input: docs/todo/TODO_37d-[agent-name].md
+- Search data: docs/37d-[agent-name]/*.json (auto-saved by hook)
+- Output: docs/findings/37d-[agent-name]_findings.md
+- Synthesis guide: docs/agents/research-report-prompt.md
 
 </context>
 
 <examples>
 
-## Example 1: Successful Task Execution
+## Example 1: Task Execution
 ```
-Agent: 37d-facts-hunter executing task research historical context
-System: Reading FILE TODO...
-System: Task marked as [R] running...
-System: Executing WebSearch for "Brave New World" Huxley 1932 historical context...
-System: Found 5 relevant sources...
-System: Documenting findings with citations...
-System: Task marked as [x] completed with timestamp...
-System: Proceeding to next task...
+Agent: Reading FILE TODO...
+Agent: Found task "Research Polish translations and translators"
+Agent: Searching: "Brave New World" "Nowy wspaniały świat" Polish translation history
+Agent: Found relevant results about Huxley translations
+Agent: Task marked [x] with timestamp
+Agent: Moving to next task...
 ```
 
-## Example 2: No Results Found
+## Example 2: Multiple Search Attempts
 ```
-Agent: 37d-symbol-analyst executing task analyze obscure symbols
-System: Task marked as [R] running...
-System: Executing multiple searches with various approaches...
-System: No relevant results found after comprehensive search...
-System: Task marked as [0] completed with timestamp...
-System: Adding note about search attempts to findings...
+Agent: Found task "Analyze key concepts translation to Polish"
+Agent: Searching: "Brave New World" Polish translation "soma" "feelies" terminology
+Agent: Limited results, refining search...
+Agent: Searching: "Nowy wspaniały świat" Huxley Polish "soma" translation choices
+Agent: Found detailed analysis of translation decisions
+Agent: Task marked [x] with timestamp
 ```
 
-## Example 3: Error Condition
+## Example 3: No Results
 ```
-Agent: 37d-polish-specialist starting session
-System: Checking FILE TODO at docs/todo/TODO_37d-polish-specialist.md...
-System: ERROR: FILE TODO missing - cannot proceed without task list
-System: Exiting workflow
+Agent: Found task "Find unpublished Polish dissertations"
+Agent: Searching: "Brave New World" Polish unpublished dissertation manuscript
+Agent: No results found, trying broader search...
+Agent: Searching: Huxley Polish academic thesis unpublished  
+Agent: Still no relevant results after 3 attempts
+Agent: Task marked [0] with timestamp
 ```
 
 </examples>
 
 <important-notes>
 
-1. **Task Extension**: Can ADD new tasks to TODO if research reveals important gaps, but NEVER remove existing tasks
+1. **Simple Status**: Only [ ] → [x] or [ ] → [0], no intermediate states
+2. **Multiple Searches**: Can search multiple times per task for better results
+3. **Automatic Saving**: All searches auto-saved as JSON by system hook
+4. **Final Synthesis**: Report generation happens AFTER all tasks complete
+5. **Follow Synthesis Guide**: Use research-report-prompt.md for report structure
 
 </important-notes>
