@@ -18,7 +18,7 @@
 
 ## Workflow Notes
 
-Sequential execution for reliable results. Each agent follows common workflow from docs/agents/WORKFLOW.md:
+Parallel execution within groups based on execution_order. Each agent follows common workflow from docs/agents/WORKFLOW.md:
 
 1. Read agent-specific TODO from docs/todo/TODO_37d-[agent].md
 2. Execute imperative research commands from agent file
@@ -27,12 +27,11 @@ Sequential execution for reliable results. Each agent follows common workflow fr
 5. Search index auto-maintained in docs/37d-[agent]/37d-[agent]_searches_index.txt
 6. Mark tasks complete with timestamp
 
-## Lock File Management
+## Agent Context Management
 
-- Lock format: tmp/0010_great_gatsby-37d-[agent].lock
-- Created before each agent execution
-- Removed after completion (even if agent fails)
-- Used by 37d-save-search.py hook for JSON data routing
+- Agent context passed via JSON by 37d-research.md
+- Search results auto-saved by 37d-save-search.py hook
+- Agent identification via JSON context, not lock files
 
 ## Completion Status
 

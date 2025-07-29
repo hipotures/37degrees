@@ -10,7 +10,7 @@
 ## Research Workflow Status
 Created: 2025-07-28 15:42:59
 
-### Sequential Agent Execution Order
+### Parallel Group Agent Execution Order
 
 1. [ ] **37d-facts-hunter** - Historical facts and context expert
 2. [ ] **37d-symbol-analyst** - Literary symbolism and cross-cultural interpretations  
@@ -26,7 +26,7 @@ Created: 2025-07-28 15:42:59
 - [ ] Research workflow complete
 
 ### Notes
-- Lock files managed in tmp/ directory
+- Agent context passed via JSON by 37d-research.md
 - Each agent saves findings to docs/findings/
 - JSON search data auto-saved to agent-specific folders
 - Search indexes auto-maintained

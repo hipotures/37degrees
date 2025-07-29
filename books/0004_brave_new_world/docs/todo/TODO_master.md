@@ -12,11 +12,10 @@
 
 ## Execution Rules
 
-- Agents must be executed in sequential order
+- Agents are executed in parallel groups based on execution_order
 - Mark as [R] when agent starts execution
 - Mark as [x] when agent completes successfully with timestamp
 - Each agent's TODO file must be fully completed before marking as complete
-- Lock files are created during execution and removed upon completion
 
 ## Research Completion Criteria
 

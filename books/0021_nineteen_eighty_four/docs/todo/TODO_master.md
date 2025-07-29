@@ -7,7 +7,7 @@
 ## Research Overview
 Complete multi-agent analysis of George Orwell's "1984" for Polish youth audience (12-25 years) on TikTok platform @37stopni.
 
-## Sequential Agent Execution Plan
+## Parallel Group Agent Execution Plan
 
 ### Phase 1: Foundation Research
 1. **37d-facts-hunter** (45-60 min)
@@ -57,8 +57,8 @@ Complete multi-agent analysis of George Orwell's "1984" for Polish youth audienc
 - [ ] Research integrity maintained throughout
 
 ## Critical Requirements
-- **Sequential execution** - no parallel processing
-- **Lock file management** for each agent
+- **Parallel group execution** - agents grouped by execution_order
+- **Agent context via JSON** from 37d-research.md
 - **Polish focus** especially important for target audience
 - **Youth relevance** for 12-25 age group
 - **Surveillance/privacy themes** highly relevant to modern context

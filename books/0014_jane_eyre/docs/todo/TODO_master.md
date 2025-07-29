@@ -4,7 +4,7 @@
 **Location**: books/0014_jane_eyre/  
 **Start**: 2025-07-28 10:48:50  
 
-## Sequential Agent Execution Plan
+## Parallel Group Agent Execution Plan
 
 ### Phase 1: Core Research
 - [ ] **37d-facts-hunter** - Historical facts and creation story
@@ -21,11 +21,11 @@
 - [ ] **37d-bibliography-manager** - Master of citations and references
 - [ ] **37d-source-validator** - Guardian of research integrity
 
-## Lock Management
-All agents use lock files in tmp/ directory:
-- Format: `0014_jane_eyre-37d-[agent-name].lock`
-- Created before agent execution
-- Removed after completion (even on failure)
+## Agent Context Management
+All agents receive context via JSON from 37d-research.md:
+- Agent identification via JSON context
+- Search results auto-saved by 37d-save-search.py hook
+- Agents grouped by execution_order for parallel execution
 
 ## Output Structure
 - Findings: `docs/findings/37d-[agent]_findings.md`

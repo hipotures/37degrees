@@ -33,6 +33,13 @@ cwd = data.get('cwd', '')
 tool_input = data.get('tool_input', {})
 search_query = tool_input.get('query', '') or tool_input.get('prompt', '')
 
+# Get agent context from JSON (provided by 37d-research.md)
+agent_context = data.get('agent_context', {})
+agent_name = agent_context.get('agent_name', '')
+book_title = agent_context.get('book_title', '')
+author = agent_context.get('author', '')
+year = agent_context.get('year', '')
+
 debug_log(f"tool_name: {tool_name}")
 debug_log(f"cwd: {cwd}")
 debug_log(f"search_query: {search_query[:100] if search_query else 'None'}")
@@ -44,44 +51,13 @@ if tool_name not in ['WebSearch', 'WebFetch']:
 
 debug_log(f"Processing {tool_name}")
 
-# Look for lock file in tmp directory
-tmp_dir = Path(cwd)
-debug_log(f"Looking for tmp_dir: {tmp_dir}")
-
-if not tmp_dir.exists():
-    debug_log(f"ERROR: No tmp directory found at {tmp_dir}")
-    print(f"[37d-hook] No tmp directory found", file=sys.stderr)
+# Get agent name from JSON context
+if not agent_name:
+    debug_log("ERROR: No agent_name in JSON context")
+    print(f"[37d-hook] ERROR: No agent_name provided in context", file=sys.stderr)
     sys.exit(0)
 
-debug_log(f"tmp_dir exists: {tmp_dir}")
-
-# Find lock files (only 37d agent locks)
-lock_files = list(tmp_dir.glob('*-37d-*.lock'))
-debug_log(f"Found {len(lock_files)} lock files")
-
-if len(lock_files) == 0:
-    debug_log(f"ERROR: No lock file found in {tmp_dir}")
-    print(f"[37d-hook] No lock file found - no active agent", file=sys.stderr)
-    sys.exit(0)
-
-if len(lock_files) > 1:
-    debug_log(f"Multiple lock files found: {[f.name for f in lock_files]} - using first one")
-    print(f"[37d-hook] Multiple agents running - using first lock file: {lock_files[0].name}", file=sys.stderr)
-
-debug_log(f"Using lock file: {lock_files[0].name}")
-
-# Parse the lock file (first one if multiple exist)
-lock_file = lock_files[0]
-lock_name = lock_file.stem  # e.g., "0001_alice_in_wonderland-37d-facts-hunter"
-
-# Split to find the -37d- pattern
-if '-37d-' not in lock_name:
-    print(f"[37d-hook] ERROR: Invalid lock file format (missing -37d-): {lock_name}", file=sys.stderr)
-    sys.exit(0)
-
-# Split by -37d- to separate book and agent
-book_dir, agent_suffix = lock_name.split('-37d-', 1)
-agent_name = f"37d-{agent_suffix}"  # "37d-facts-hunter"
+debug_log(f"Using agent from JSON context: {agent_name}")
 
 # DEBUG: Save complete data with agent name
 debug_timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
@@ -94,7 +70,6 @@ debug_log(f"Saved debug data to {debug_filename}")
 docs_folder = Path(cwd) / 'docs'
 
 debug_log(f"docs_folder: {docs_folder}")
-debug_log(f"book_dir: {book_dir}")
 
 if not docs_folder.exists():
     debug_log(f"ERROR: Docs folder not found: {docs_folder}")
@@ -107,10 +82,14 @@ debug_log(f"Docs folder exists: {docs_folder}")
 timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
 json_filename = f'{agent_name}_raw_{tool_name}_{timestamp}.json'
 
-# Create agent-specific subdirectory
+# Use agent-specific subdirectory (should exist from prepare-book-folders.sh)
 agent_dir = docs_folder / agent_name
 debug_log(f"Agent folder: {agent_dir}")
-agent_dir.mkdir(parents=True, exist_ok=True)
+
+if not agent_dir.exists():
+    debug_log(f"ERROR: Agent folder not found: {agent_dir}")
+    print(f"[37d-hook] ERROR: Agent folder not found: {agent_dir} - run prepare-book-folders.sh first", file=sys.stderr)
+    sys.exit(0)
 
 # Save complete raw JSON to agent-specific folder
 json_filepath = agent_dir / json_filename

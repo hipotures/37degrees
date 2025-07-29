@@ -7,7 +7,7 @@
 **Genre**: Fantasy  
 **Folder**: books/0013_hobbit/
 
-## Research Agents Workflow - Sequential Execution
+## Research Agents Workflow - Parallel Group Execution
 
 ### Status: INITIALIZED
 **Started**: 2025-07-28 09:32:27  
@@ -22,10 +22,10 @@
 6. [ ] 37d-bibliography-manager - Master of citations and references
 7. [ ] 37d-source-validator - Guardian of research integrity
 
-### Lock File Management
-- Location: tmp/0013_hobbit-37d-{agent}.lock
-- Created before each agent execution
-- Removed after completion (success or failure)
+### Agent Context Management
+- Agent context passed via JSON by 37d-research.md
+- Search results auto-saved by 37d-save-search.py hook
+- Agents grouped by execution_order for parallel execution
 
 ### Output Structure
 - **Findings**: docs/findings/37d-{agent}_findings.md
@@ -34,5 +34,5 @@
 
 ### Notes
 - All agents must refer to docs/agents/WORKFLOW.md for standard steps
-- Sequential execution for reliability
+- Parallel execution within groups based on execution_order
 - Polish specialist is CRITICAL for target audience

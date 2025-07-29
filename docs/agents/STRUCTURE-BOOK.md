@@ -14,7 +14,6 @@ When an agent is executed, they are positioned in the specific book folder (e.g.
 . (Current Working Directory - book folder)
 ├── book.yaml                   # Book metadata and slide configuration
 ├── book.db                     # Internal database (DO NOT MODIFY)
-├── NNNN_book_name-37d-*.lock  # Lock files (managed by supervisor)
 ├── assets/                     # Generated images and media
 ├── audio/                      # Generated audio files
 ├── prompts/                    # Generated AI prompts
@@ -58,7 +57,6 @@ When an agent is executed, they are positioned in the specific book folder (e.g.
 
 ### Auto-Generated Files (DO NOT TOUCH)
 - `docs/37d-[agent-name]/` - Raw search data saved by hooks
-- `*.lock` files - Process management
 - `book.db` - Internal database
 
 ## Key Principles
@@ -109,9 +107,6 @@ The `37d-save-search.py` hook automatically saves search results to:
 - `docs/37d-[agent-name]/37d-[agent]_searches_index.txt`
 
 Agents don't need to manage this data - focus on findings.
-
-### Lock File System
-Lock files (`NNNN_book_name-37d-[agent].lock`) are managed by the supervisor process. Agents should ignore them.
 
 ## Example Agent Perspective
 

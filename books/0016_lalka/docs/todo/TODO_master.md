@@ -6,7 +6,7 @@
 
 ## Research Workflow Status
 
-### Sequential Agent Execution Order:
+### Parallel Group Agent Execution Order:
 
 1. [ ] 37d-facts-hunter - Historical facts and context expert
 2. [ ] 37d-symbol-analyst - Literary symbolism and cross-cultural interpretations  
@@ -21,7 +21,7 @@
 - All agents follow workflow from docs/agents/WORKFLOW.md
 - Findings saved to docs/findings/37d-[agent]_findings.md
 - JSON search data auto-saved to docs/37d-[agent]/ by hook
-- Lock files managed in tmp/ directory
+- Agent context passed via JSON by 37d-research.md
 
 ## Completion Log
 

@@ -25,24 +25,37 @@ VARIABLES used in this workflow:
 
 <workflow>
 
-## STEP 1: Initialize Research Environment
+## STEP 1: Discover Available Agents
 
 <instructions>
-1.1. PARSE book title from user input
-1.2. FIND book folder matching the title in books/ directory
-1.3. EXECUTE exactly this Bash command: ln -sf ../../../docs/agents books/${book_folder_path}/docs/agents
-1.4. EXECUTE exactly this Bash command: cd ${book_folder_path}
-1.5. EXECUTE exactly this Bash command: pwd (verify you are in book directory)
-1.6. READ book.yaml to confirm book metadata
-1.7. EXECUTE exactly this Bash command: mkdir -p docs/ docs/findings/ docs/todo/
+1.1. EXECUTE exactly this Bash command: python scripts/list-agents.yaml.py
+</instructions>
+
+<agent-discovery>
+The system will automatically discover all agents and params agents
+Script outputs YAML with agents, agent_list, grouped_agents structures ready to use.
+Groups execute sequentially by execution_order value in ascending order - any numeric values sorted ascending, agents within each group execute in parallel.
+</agent-discovery>
+
+## STEP 2: Initialize Research Environment
+
+<instructions>
+2.1. PARSE book title from user input and MAP VARIABLES:
+     - Extract book title from input
+     - FIND matching book folder in books/ directory  
+     - SET ${book_folder_path} = books/NNNN_book_name
+     - SET ${book_folder_name} = NNNN_book_name
+2.2. EXECUTE exactly this Bash command: cd ${book_folder_path}
+2.3. EXECUTE exactly this Bash command: pwd (verify you are in book directory)
+2.4. READ book.yaml to confirm book metadata and SET remaining VARIABLES:
+     - SET ${book_title} = from book.yaml
+     - SET ${author} = from book.yaml  
+     - SET ${year} = from book.yaml
 </instructions>
 
 <note>
-IMPORTANT: After step 1.4, all subsequent file operations use paths RELATIVE to book directory.
+IMPORTANT: After step 2.2, all subsequent file operations use paths RELATIVE to book directory.
 Working directory is now: /path/to/37degrees/books/NNNN_book_name/
-
-The symlink in step 1.3 creates link to documentation (docs/agents → ../../../docs/agents).
-Agent profiles are accessed directly from ../../.claude/agents/ directory.
 </note>
 
 <error-handling>
@@ -51,27 +64,10 @@ IF book folder not found:
   EXIT workflow
 </error-handling>
 
-## STEP 2: Discover Available Agents
-
-<instructions>
-2.1. EXECUTE exactly this Bash command: ls ../../.claude/agents/37d-*.md
-2.2. PARSE list to extract agent names (remove path and .md extension)
-2.3. CREATE agent_list array with discovered agents in alphabetical order
-2.4. GROUP agents by execution_order field, then sort groups in ascending order
-2.5. FOR EACH agent in agent_list:
-     - EXECUTE exactly this Bash command: mkdir -p docs/${agent_name}
-2.6. EXECUTE exactly this Bash command: find . -maxdepth 1 -name "*-37d-*.lock" -type f -delete
-</instructions>
-
-<agent-discovery>
-The system will automatically discover all agents matching pattern: 37d-*.md
-No hardcoded agent list is maintained - new agents are automatically included.
-</agent-discovery>
-
 ## STEP 3: Generate TODO Files
 
 <instructions>
-3.1. FOR EACH discovered agent:
+3.1. FOR EACH agent in agent_list:
      a. READ agent profile from ../../.claude/agents/${agent_name}.md
      b. CHECK if agent has "todo_list: False" in YAML frontmatter
      c. IF todo_list is False:
@@ -129,7 +125,6 @@ Location: books/[book_folder_name]/
 - [Additional requirements from agent documentation]
 
 ## Notes
-- Agent profile location: ../../.claude/agents/[agent-name].md (relative from book directory)
 - The 37d-save-search.py hook will automatically save search results
 - Check agent profile for specific workflow instructions
 ```
@@ -197,8 +192,24 @@ FOR EACH agent in current execution_order_group:
 1. UPDATE TODO_master.md to mark agent as running:
    - CHANGE: "- [ ] ${agent_name}"
    - TO: "- [R] ${agent_name} (started YYYY-MM-DD HH:MM)"
-2. CREATE lock file: touch ${book_folder_name}-${agent_name}.lock
-3. PREPARE agent context with book metadata and TODO location
+2. PREPARE agent context JSON:
+   - CHECK if agent has todo_list: False in profile
+   - IF agent has TODO file (todo_list is not False):
+     {
+       "agent_name": "${agent_name}",
+       "book_title": "${book_title}",  
+       "author": "${author}",
+       "year": "${year}",
+       "todo_file": "docs/todo/TODO_${agent_name}.md"
+     }
+   - IF agent has no TODO file (todo_list: False):
+     {
+       "agent_name": "${agent_name}",
+       "book_title": "${book_title}",  
+       "author": "${author}",
+       "year": "${year}",
+       "todo_file": null
+     }
 </instructions>
 
 ### Phase 2: Agent Execution (Parallel)
@@ -210,20 +221,9 @@ IF execution_order_group has multiple agents:
    Execute ALL agents in group PARALLEL using multiple Task calls in single response:
    
    FOR EACH agent in current execution_order_group:
-   1. CHECK if agent has todo_list: False in profile
-   2. IF agent has TODO file (todo_list is not False):
-      PREPARE Task call with prompt:
-      "Use ${agent_name} to research '${book_title}' by ${author} (${year}) 
-       YOUR TASKS ARE IN: docs/todo/TODO_${agent_name}.md
-       Complete ALL tasks from this TODO file systematically.
-       Mark each task as [x] with timestamp when done, [0] if no results found.
-       After completing all tasks, generate comprehensive findings file."
-
-   3. IF agent has no TODO file (todo_list: False):
-      PREPARE Task call with prompt:
-      "Use ${agent_name} to research '${book_title}' by ${author} (${year})
-       Follow your agent profile instructions to complete your research.
-       Generate comprehensive findings file when complete."
+   1. PREPARE Task call with prompt:
+      "Use ${agent_name} to research '${book_title}' by ${author} (${year})"
+   2. ATTACH prepared agent context JSON to Task call
 
    EXECUTE all prepared Task calls simultaneously in single response
    CAPTURE all agent outputs for analysis
@@ -268,7 +268,6 @@ FOR EACH agent in current execution_order_group:
 3. UPDATE TODO_master.md:
    - CHANGE: "- [R] ${agent_name} (started YYYY-MM-DD HH:MM)"
    - TO: "- [x] ${agent_name} ✓ (completed YYYY-MM-DD HH:MM)"
-4. REMOVE lock file: rm -f ${book_folder_name}-${agent_name}.lock
 
 PROCEED to next execution_order_group
 </instructions>
@@ -283,13 +282,7 @@ PROCEED to next execution_order_group
 - Agents are grouped by execution_order field, then executed in parallel within groups
 - Groups are processed sequentially in execution_order ascending order
 - Agent TODO generation controlled by todo_list field (default: True)
-- Symlink created: books/NNNN/docs/agents → documentation only (not agent profiles)
 
-## Lock File Management
-Lock files prevent concurrent execution:
-- Pattern: NNNN_book_name-37d-agent-name.lock
-- Created before agent execution
-- Removed after completion (success or failure)
 
 ## TODO Generation Intelligence
 The system reads each agent's profile to understand:
