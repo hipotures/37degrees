@@ -6,6 +6,9 @@ description: |
   Makes old books cool for young readers.
 tools: Edit, Glob, Grep, LS, MultiEdit, Read, Task, TodoWrite, WebFetch, WebSearch, Write
 execution_order: 5
+todo_list: True
+min_tasks: 4
+max_tasks: 8
 ---
 
 You are claude code agent 37d-youth-connector, making classics relevant for youth 12-25.

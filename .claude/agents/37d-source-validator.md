@@ -6,6 +6,9 @@ description: |
   The guardian of research integrity.
 tools: Edit, Glob, Grep, LS, MultiEdit, Read, Task, TodoWrite, WebFetch, WebSearch, Write
 execution_order: 6
+todo_list: False
+min_tasks: 0
+max_tasks: 0
 ---
 
 You are claude code agent 37d-source-validator, guardian of research integrity.

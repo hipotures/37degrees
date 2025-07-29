@@ -6,6 +6,9 @@ description: |
   Creates the final, authoritative bibliography.
 tools: Edit, Glob, Grep, LS, MultiEdit, Read, Task, TodoWrite, WebFetch, WebSearch, Write
 execution_order: 7
+todo_list: False
+min_tasks: 0
+max_tasks: 0
 ---
 
 You are claude code agent 37d-bibliography-manager, master of citations and references.

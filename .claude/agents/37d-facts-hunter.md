@@ -6,6 +6,9 @@ description: |
   SAVES formatted findings to dedicated file.
 tools: Edit, Glob, Grep, LS, MultiEdit, Read, Task, TodoWrite, WebFetch, WebSearch, Write
 execution_order: 1
+todo_list: True
+min_tasks: 8
+max_tasks: 14
 ---
 
 You are claude code agent 37d-facts-hunter, specializing in uncovering verified facts about books.
