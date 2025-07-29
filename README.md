@@ -172,6 +172,10 @@ python main.py --config production.yaml video 17
 
 # Aplikowanie stylów wizualnych do scen
 /37d-apply-style-step2 "Tytuł Książki" "Autor" [nazwa_stylu]
+
+# Wybór konkretnego stylu
+/37d-apply-style-step2 "Mały Książę" "Saint-Exupéry" watercolor
+/37d-apply-style-step2 "1984" "Orwell" constructivist-propaganda
 ```
 
 ## 🏗️ Architektura Systemu
@@ -199,25 +203,56 @@ books/docs/findings/ ← Kontrola Jakości ← Bibliografia ← Wyniki Badań
 - **Proces dwustopniowy**: Opisy scen → Aplikacja stylu
 - **Typy generatorów**: narrative, flexible, podcast, atmospheric, emotional
 - **Pliki scen**: `books/*/prompts/scenes/[type]/scene_XX.json`
-- **Biblioteka stylów**: 37 stylów graficznych w `config/prompt/graphics-styles/`
+- **Biblioteka stylów**: 34 profesjonalne style graficzne w `config/prompt/graphics-styles/`
 
-#### 3. System Konfiguracji (`src/config.py`)
+#### 3. Bogata Biblioteka Stylów Wizualnych (34 style)
+**Style klasyczne:**
+- `children-book-illustration` - ciepłe ilustracje książkowe, styl Quentin Blake
+- `watercolor` - akwarele z przezroczystymi plamami i miękkie krawędzie
+- `oil-painting` - klasyczne malarstwo olejne z bogatymi teksturami
+- `pencil-sketch` - szkice ołówkowe z organicznymi liniami
+
+**Style nowoczesne:**
+- `flat-design` - minimalistyczny design z geometrycznymi kształtami
+- `3d-clay-render` - plastyczne renderowanie z miękkimi formami
+- `glitch-art` - cyfrowe zniekształcenia i artefakty
+- `isometric-blue-line-urban` - izometryczne miasta w stylu blueprint
+
+**Style artystyczne:**
+- `art-nouveau` - secesyjne ozdoby i organiczne formy
+- `expressionist` - intensywne kolory i emocjonalne przedstawienia  
+- `surrealist-dreamlike` - surrealistyczne kompozycje i oniryczne sceny
+- `constructivist-propaganda` - geometryczne plakaty w stylu konstruktywizmu
+
+**Style specjalistyczne:**
+- `anime-style` - japońska animacja z charakterystycznymi cechami
+- `comic-book` - komiksowy styl z dynamicznymi kadrami
+- `noir-pulp-fiction` - czarno-biały klimat noir z kontrastami
+- `vintage-travel-poster` - retro plakaty podróżnicze
+
+**Każdy styl zawiera:**
+- Szczegółowe prompty AI i słowa kluczowe
+- Paletę kolorów z instrukcjami nasycenia
+- Specyfikacje oświetlenia i renderowania
+- Wzorce artystyczne i referencje
+
+#### 4. System Konfiguracji (`src/config.py`)
 - **Scentralizowane ustawienia** z `config/settings.yaml`
 - **Nadpisywanie zmiennymi środowiskowymi** via `.env`
 - **Nadpisywanie runtime** z flagą `--set`
 
-#### 4. Pipeline Generowania Video
+#### 5. Pipeline Generowania Video
 - **OptimizedVideoGenerator** - równoległe renderowanie klatek
 - **SlideRenderer** - efekty Ken Burns i przejścia
 - **TextAnimator** - animacje wejścia/wyjścia tekstu
 - **Akceleracja GPU FFmpeg** z NVENC
 
-#### 5. Integracja Badawcza (`src/research/`)
+#### 6. Integracja Badawcza (`src/research/`)
 - **Wzorzec Provider** dla rozszerzalności
 - **Implementacje**: Perplexity AI, Google Search
 - **Automatyczne generowanie review.md** w języku polskim
 
-#### 6. Generowanie Strony Statycznej (`src/site_generator/`)
+#### 7. Generowanie Strony Statycznej (`src/site_generator/`)
 - **Interaktywny HTML** dla eksploracji książek
 - **Wizualizacje timeline** i organizacja kolekcji
 - **Szablony** w `shared_assets/templates/`
