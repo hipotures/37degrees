@@ -46,7 +46,7 @@ Groups execute sequentially by execution_order value in ascending order - any nu
      - SET ${book_folder_path} = books/NNNN_book_name
      - SET ${book_folder_name} = NNNN_book_name
 2.2. EXECUTE exactly this Bash command: cd ${book_folder_path}
-2.3. EXECUTE exactly this Bash command: pwd (verify you are in book directory)
+2.3. EXECUTE exactly this Bash command: pwd && tree -d
 2.4. READ book.yaml to confirm book metadata and SET remaining VARIABLES:
      - SET ${book_title} = from book.yaml
      - SET ${author} = from book.yaml  

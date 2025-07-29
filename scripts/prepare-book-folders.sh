@@ -26,30 +26,7 @@ echo "Preparing folders for book: $BOOK_FOLDER"
 mkdir -p "$BOOK_PATH/docs"
 mkdir -p "$BOOK_PATH/docs/findings"
 mkdir -p "$BOOK_PATH/docs/todo"
-
-# Discover all 37d agents
-AGENTS_DIR=".claude/agents"
-if [ ! -d "$AGENTS_DIR" ]; then
-    echo "Error: Agents directory '$AGENTS_DIR' not found"
-    exit 1
-fi
-
-# Create agent-specific folders
-echo "Creating agent-specific folders..."
-for agent_file in "$AGENTS_DIR"/37d-*.md; do
-    if [ -f "$agent_file" ]; then
-        # Extract agent name from filename (remove path and .md extension)
-        agent_name=$(basename "$agent_file" .md)
-        agent_folder="$BOOK_PATH/docs/$agent_name"
-        
-        if [ ! -d "$agent_folder" ]; then
-            mkdir -p "$agent_folder"
-            echo "  Created: $agent_folder"
-        else
-            echo "  Exists: $agent_folder"
-        fi
-    fi
-done
+mkdir -p "$BOOK_PATH/search_history"
 
 # Create symlink to agents documentation if it doesn't exist
 AGENTS_SYMLINK="$BOOK_PATH/docs/agents"
@@ -73,12 +50,7 @@ echo "  $BOOK_PATH/docs/"
 echo "  $BOOK_PATH/docs/findings/"
 echo "  $BOOK_PATH/docs/todo/"
 echo "  $BOOK_PATH/docs/agents -> ../../../docs/agents"
-for agent_file in "$AGENTS_DIR"/37d-*.md; do
-    if [ -f "$agent_file" ]; then
-        agent_name=$(basename "$agent_file" .md)
-        echo "  $BOOK_PATH/docs/$agent_name/"
-    fi
-done
+echo "  $BOOK_PATH/search_history/"
 echo "  $BOOK_PATH/assets/"
 echo "  $BOOK_PATH/audio/"
 echo "  $BOOK_PATH/generated/"
