@@ -1,0 +1,21 @@
+{
+  "session_id": "7529e71f-d379-4299-9734-0e831fc05ee8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7529e71f-d379-4299-9734-0e831fc05ee8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "University Warsaw Poland literature \"science fiction\" \"Frank Herbert\" \"popular culture\" course syllabus English Department"
+  },
+  "tool_response": {
+    "query": "University Warsaw Poland literature \"science fiction\" \"Frank Herbert\" \"popular culture\" course syllabus English Department",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01NGRt611JvwimvAQGwXcb8i",
+        "content": []
+      },
+      "I searched for information about University of Warsaw literature courses related to science fiction, Frank Herbert, and popular culture in the English Department, but the search didn't return any specific results. This could be because:\n\n1. Such specific course syllabi may not be publicly available online\n2. The courses might be offered under different terminology\n3. The information might be housed in internal university systems not accessible through web search\n4. The course may not currently exist or may have been offered in previous semesters\n\nIf you're looking for this specific type of course at the University of Warsaw, I'd recommend:\n- Contacting the English Department directly\n- Checking the university's official course catalog\n- Looking at the Institute of English Studies' current offerings\n- Reaching out to faculty members who specialize in science fiction or popular culture studies\n\nWould you like me to search for more general information about science fiction literature courses at Polish universities or the University of Warsaw's English Department offerings?"
+    ],
+    "durationSeconds": 9.529156218999997
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "session_id": "7529e71f-d379-4299-9734-0e831fc05ee8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7529e71f-d379-4299-9734-0e831fc05ee8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "polska fantastyka naukowa spo\u0142eczno\u015b\u0107 \"Diuna\" fundament gatunku"
+  },
+  "tool_response": {
+    "query": "polska fantastyka naukowa spo\u0142eczno\u015b\u0107 \"Diuna\" fundament gatunku",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01UshBoqzjR1qRSjNotHTVae",
+        "content": [
+          {
+            "title": "Diuna (powie\u015b\u0107) \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Diuna_(powie\u015b\u0107)"
+          },
+          {
+            "title": "Fantastyka naukowa \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Fantastyka_naukowa"
+          },
+          {
+            "title": "Science fiction - Ksi\u0105\u017cki | Ksi\u0119garnia internetowa Gandalf",
+            "url": "https://www.gandalf.com.pl/k/fantastyka-naukowa-fantastyka/"
+          },
+          {
+            "title": "Fantastyka naukowa - Unionpedia, sie\u0107 semantyczna",
+            "url": "https://pl.unionpedia.org/Fantastyka_naukowa"
+          },
+          {
+            "title": "Seria ksi\u0105\u017cek Diuna | Gandalf.com.pl",
+            "url": "https://www.gandalf.com.pl/seria/diuna/"
+          },
+          {
+            "title": "Diuna - Frank Herbert | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/4942534/diuna"
+          },
+          {
+            "title": "Diuna \u2013 co warto wiedzie\u0107 i w jakiej kolejno\u015bci czyta\u0107? - blog Virtualo.pl",
+            "url": "https://virtualo.pl/blog/diuna-co-warto-wiedziec-i-w-jakiej-kolejnosci-czytac-w409/"
+          },
+          {
+            "title": "Dlaczego DIUNA Villenueve\u2019a to rozczarowuj\u0105ce science fiction",
+            "url": "https://film.org.pl/kmf/dlaczego-diuna-villenuevea-to-rozczarowujace-science-fiction"
+          },
+          {
+            "title": "\u201eKroniki Diuny\u201d \u2013 ksi\u0105\u017cki, filmy, seriale. Sprawd\u017a, co musisz wiedzie\u0107 o uniwersum Diuny!",
+            "url": "https://www.swiatksiazki.pl/blog/post/wszystko-co-musisz-wiedziec-o-uniwersum-diuny/"
+          },
+          {
+            "title": "Najlepsze ksi\u0105\u017cki science fiction wszech czas\u00f3w. Ranking ostateczny: Diuna wyprzedzona, jest Polak",
+            "url": "https://naekranie.pl/aktualnosci/ksiazki-science-fiction-ranking-najlepsze-diuna-polak-1741789247"
+          }
+        ]
+      },
+      "Based on my search results, I can provide information about Polish science fiction community's perception of \"Dune\" as a foundational work of the genre:\n\n\"Dune\" by Frank Herbert has been recognized in prestigious rankings of the best science fiction books, though it was defeated in at least one major ranking.\n\nThe Polish science fiction community regards \"Dune\" as fundamentally important to the genre:\n\nThe novel was honored with the first Nebula Award in 1965 and the Hugo Award in 1966. In 1987, in a reader poll by Locus magazine for the best science fiction novel of all time, it took 1st place.\n\n\"Dune\" by Frank Herbert is described as \"an epic tale of politics, religion and ecology on a desert planet, which draws the reader into a complex world full of intrigue and mysticism\". The Dune series by Frank Herbert is considered \"one of the most magnificent epics in the history of fantasy literature\" and \"was a response to The Lord of the Rings, but from the science fiction genre\".\n\nThese books are considered \"the best science fiction saga in the world\". Dune is classified as a classic of the science fiction genre.\n\nThe work has had significant cultural impact: The Dune books had a huge impact on culture, inspiring many creators of novels, music, films, television programs and series, games and comics. We owe the existence of Star Wars to this series.\n\nThere is probably no person in the world who would not associate the title \"Dune\". It can be safely said that Frank Herbert's work has long since gained cult status, and successive generations of readers reach for the novel published in 1965."
+    ],
+    "durationSeconds": 20.34699024000007
+  }
+}

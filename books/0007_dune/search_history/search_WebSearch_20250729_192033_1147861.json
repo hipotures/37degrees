@@ -1,0 +1,62 @@
+{
+  "session_id": "7529e71f-d379-4299-9734-0e831fc05ee8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7529e71f-d379-4299-9734-0e831fc05ee8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Dune\" first international translations publication rights foreign editions 1960s Herbert"
+  },
+  "tool_response": {
+    "query": "\"Dune\" first international translations publication rights foreign editions 1960s Herbert",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01YcBdyHHLk66giEj1UqP8Vd",
+        "content": [
+          {
+            "title": "Dune (novel) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dune_(novel)"
+          },
+          {
+            "title": "Dune Novels \u2013 The Official Dune Website",
+            "url": "https://dunenovels.com/"
+          },
+          {
+            "title": "Dune (novel) | Frank Herbert, Summary, Films, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/Dune-by-Herbert"
+          },
+          {
+            "title": "Dune (franchise) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dune_(franchise)"
+          },
+          {
+            "title": "First Edition Criteria and Points to identify Dune by Frank Herbert",
+            "url": "https://www.fedpo.com/BookDetail.php/Dune"
+          },
+          {
+            "title": "Dune by Frank Herbert, First Edition - AbeBooks",
+            "url": "https://www.abebooks.com/servlet/SearchResults?an=frank+herbert&bi=0&bx=off&ds=50&fe=on&recentlyadded=all&sortby=1&sts=t&tn=Dune&x=63&y=18&yrh=1965&yrl=1965"
+          },
+          {
+            "title": "(PDF) De-orientalizing Dune: Storyworld-Building Between Frank Herbert\u2019s Novel and Denis Villeneuve\u2019s Film",
+            "url": "https://www.researchgate.net/publication/366653898_De-orientalizing_Dune_Storyworld-Building_Between_Frank_Herbert's_Novel_and_Denis_Villeneuve's_Film"
+          },
+          {
+            "title": "Dune by Frank Herbert, First Edition, chilton - AbeBooks",
+            "url": "https://www.abebooks.com/book-search/title/dune/author/frank-herbert/publisher/chilton/first-edition/"
+          },
+          {
+            "title": "Amazon.com: Dune - tome 1 (1): 9782266233200: Herbert, Frank, Demuth, Michel: Books",
+            "url": "https://www.amazon.com/Dune-French-Edition/dp/2266233203"
+          },
+          {
+            "title": "Amazon.com: Dune: 0074748335380: Herbert, Frank: Books",
+            "url": "https://www.amazon.com/Dune-Frank-Herbert/dp/0441172717"
+          }
+        ]
+      },
+      "Based on the web search results, I can provide information about Dune's early international translations and publication rights, though specific details about the 1960s international editions are limited in these sources.\n\n## Dune's Original Publication and Early International Success\n\nDune was originally published in 1965 by Frank Herbert, after being serialized in Analog magazine from 1963-1965. The novel was finally accepted and published in August 1965 by Chilton Books, a printing house better known for publishing auto repair manuals, after the serialized version was expanded, reworked, and submitted to more than twenty publishers, each of whom rejected it.\n\n## International Translation Information\n\nDune has been translated into more than 20 languages and has sold almost 20 million copies. Dune has been regularly cited as one of the world's best-selling science fiction novels.\n\nDune became a popular novel among young people in the late 1960s and '70s, which would have coincided with the period when international translation rights were likely being negotiated and foreign editions were being published.\n\n## Recent Translation Activity\n\nThe search results show that translation deals continue to be active. Translation deals for Brian and Kevin's Dune-series novels have recently been made for Italian, Bulgarian, Polish, Portuguese, Spanish, Russian, Romanian, German, and Slovak.\n\n## Translation Challenges\n\nOne academic source discusses the complexity of translating Dune's unique linguistic elements: Frank Herbert's novel, Dune (1965), is special in the science fiction field; the originality of this novel lives not only in its content, but also in its form as the author uses some stylistic effects to make his point, and especially foreign languages. Arabic is greatly represented in the novel and takes on a particular meaning.\n\nUnfortunately, the search results don't contain specific information about which countries first acquired translation rights in the 1960s, the names of early foreign publishers, or details about the first international editions. For more detailed information about the specific international publication history and foreign rights deals from the 1960s, you might need to consult specialized publishing archives or Frank Herbert biographies."
+    ],
+    "durationSeconds": 20.331639471000003
+  }
+}

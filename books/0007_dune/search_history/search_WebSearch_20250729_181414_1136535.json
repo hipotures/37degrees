@@ -1,0 +1,62 @@
+{
+  "session_id": "0487d7f4-1250-4bb6-867a-a71d253cfc4f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0487d7f4-1250-4bb6-867a-a71d253cfc4f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Diuna Frank Herbert pierwsze wydanie polskie t\u0142umaczenie rok wydawca"
+  },
+  "tool_response": {
+    "query": "Diuna Frank Herbert pierwsze wydanie polskie t\u0142umaczenie rok wydawca",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01RkatL3V9xDFxVeuReRBUNA",
+        "content": [
+          {
+            "title": "Diuna - Frank Herbert | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/4942534/diuna"
+          },
+          {
+            "title": "Diuna (powie\u015b\u0107) \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Diuna_(powie\u015b\u0107)"
+          },
+          {
+            "title": "Diuna ksi\u0105\u017cka | Frank Herbert | seria Kroniki Diuny",
+            "url": "https://www.swiatksiazki.pl/seria/diuna"
+          },
+          {
+            "title": "O czym jest Diuna? Ciekawostki o ksi\u0105\u017cce i filmie | Woblink blog",
+            "url": "https://woblink.com/blog/czego-jeszcze-nie-wiesz-o-diunie-a-powinienes/"
+          },
+          {
+            "title": "Diuna. Kroniki Diuny. Tom 1 Frank Herbert ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/diuna-kroniki-diuny-tom-1-frank-herbert"
+          },
+          {
+            "title": "Diuna, Mesjasz Diuny - Frank Herbert. Powr\u00f3t na Arrakis (recenzja) - Ksi\u0105\u017cki - POLTERGEIST",
+            "url": "https://polter.pl/ksiazki/Diuna-Mesjasz-Diuny-Frank-Herbert-c10770"
+          },
+          {
+            "title": "\"Diuna\", Frank Herbert, REBIS",
+            "url": "https://www.rebis.com.pl/pl/book-diuna-frank-herbert,SCHB02842.html"
+          },
+          {
+            "title": "Seria Diuna | ksi\u0119garnia TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/seria/diuna"
+          },
+          {
+            "title": "Diuna \u2013 powie\u015b\u0107 Franka Herberta - Agencja Skrivanek",
+            "url": "https://skrivanek.pl/diuna-powiesc-franka-herberta/"
+          },
+          {
+            "title": "Diuna. Kroniki Diuny. Tom 1 - Frank Herbert - Empik.com",
+            "url": "https://www.empik.com/diuna-tom-1-herbert-frank,p1240289314,ksiazka-p"
+          }
+        ]
+      },
+      "Based on the search results, here's what I found about the first Polish edition of \"Dune\" by Frank Herbert:\n\n**First Polish Edition Details:**\n- The novel was first published in Poland in 1985 by Wydawnictwo Iskry (Iskra Publishing House) in the translation by Marek Marsza\u0142\n- The translator of the first Polish translation of \"Duna\" from 1985 was Marek Marsza\u0142\n- The first translation was made by Marek Marsza\u0142 in 1986, more than 20 years after the publication of the original (Note: There's a slight discrepancy in dates between sources - some mention 1985, others 1986)\n\n**Additional Context:**\n- The original novel was published in 1965 by Chilton publishing house under the title \"Dune\"\n- Polish readers had to wait quite a long time for the first Polish translation, until 1986, and it was authored by Marek Marsza\u0142 and was considered the best Polish translation until then\n\n**Later Editions:**\n- In 2007, Dom Wydawniczy Rebis republished Dune with a corrected translation by Marek Marsza\u0142\n- Dune by Herbert appeared in Poland in two translation versions - the first translation was done by Marek Marsza\u0142, and the second translation was done by Jerzy \u0141ozi\u0144ski\n\nSo to summarize: The first Polish edition of \"Dune\" was published in 1985 (or 1986 according to some sources) by **Wydawnictwo Iskry**, translated by **Marek Marsza\u0142**."
+    ],
+    "durationSeconds": 18.642241244999983
+  }
+}

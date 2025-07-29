@@ -64,33 +64,58 @@ IF book folder not found:
   EXIT workflow
 </error-handling>
 
-## STEP 3: Generate TODO Files
+## STEP 3: Validate and Generate TODO Files (Parallel)
 
 <instructions>
-3.1. FOR EACH agent in agent_list:
-     a. READ agent profile from ../../.claude/agents/${agent_name}.md
-     b. CHECK if agent has "todo_list: False" in YAML frontmatter
-     c. IF todo_list is False:
-        - SKIP TODO generation for this agent
-        - AGENT will create tasks dynamically during execution
-     d. IF todo_list is not False (default True):
-        - EXTRACT key information:
-          - Agent description and role
-          - Tools available to agent
-          - Task limits: min_tasks and max_tasks values
-          - Specific instructions section
-          - Output format requirements
-          - Special focus areas
-          - Any example tasks or priorities
-        - GENERATE contextual TODO file based on:
-          - Agent's expertise and role
-          - Agent's task limits (min_tasks to max_tasks range)
-          - Book metadata (title, author, year, genre)
-          - Polish educational context
-          - Youth engagement requirements (12-25 age group)
-        - SAVE TODO to: docs/todo/TODO_${agent_name}.md
+3.1. GROUP agents by todo_list requirement:
+     - Group A: Agents with todo_list: False (skip TODO validation/generation)
+     - Group B: Agents with todo_list: True/unspecified (need TODO validation/generation)
 
-3.2. CREATE docs/todo/TODO_master.md listing all discovered agents as [ ] uncompleted
+3.2. FOR Group B agents, EXECUTE ALL TODO validation/generation in PARALLEL using multiple Task calls:
+     
+     FOR EACH agent in Group B:
+     a. PREPARE Task call with subagent_type: "general-purpose"
+     b. CONSTRUCT detailed prompt:
+        "Validate or generate TODO file for agent ${agent_name} researching '${book_title}' by ${author} (${year}).
+         
+         STEP 1: Check if docs/todo/TODO_${agent_name}.md exists
+         
+         STEP 2: IF TODO file exists:
+         - Read agent profile from ../../.claude/agents/${agent_name}.md
+         - Extract min_tasks and max_tasks limits
+         - Count tasks in existing TODO file (lines starting with '- [ ]', '- [x]', '- [0]')
+         - Validate: task_count >= min_tasks AND task_count <= max_tasks
+         - IF validation PASSES:
+           * LOG: 'TODO_${agent_name}.md validated successfully (X tasks)'
+           * STOP - use existing TODO file
+         - IF validation FAILS:
+           * LOG: 'TODO_${agent_name}.md validation failed (X tasks, expected min_tasks-max_tasks)'
+           * PROCEED to regeneration
+         
+         STEP 3: IF TODO file missing OR validation failed:
+         - Read agent profile from ../../.claude/agents/${agent_name}.md and extract:
+           * Agent description and role
+           * Tools available to agent  
+           * Task limits: min_tasks and max_tasks values
+           * Specific instructions section
+           * Output format requirements
+           * Special focus areas
+           * Any example tasks or priorities
+         - Generate contextual TODO file based on agent's expertise + book context:
+           * Agent's role applied to this specific book
+           * Task limits (min_tasks to max_tasks range)
+           * Book metadata: ${book_title}, ${author}, ${year}
+           * Polish educational context
+           * Youth engagement (12-25 age group)
+         - Save to: docs/todo/TODO_${agent_name}.md
+         - Use exact format from todo-generation-rules section below"
+     
+     EXECUTE all prepared Task calls simultaneously in single response
+     WAIT for all TODO validations/generations to complete
+
+3.3. VALIDATE or CREATE docs/todo/TODO_master.md:
+     - IF TODO_master.md exists: VERIFY it lists all discovered agents
+     - IF missing or incomplete: CREATE new TODO_master.md listing all agents as [ ] uncompleted
 </instructions>
 
 <todo-generation-rules>

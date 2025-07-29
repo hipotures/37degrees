@@ -1,0 +1,47 @@
+{
+  "session_id": "0487d7f4-1250-4bb6-867a-a71d253cfc4f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0487d7f4-1250-4bb6-867a-a71d253cfc4f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Diuna\" \"Marek Marsza\u0142\" \"Jerzy \u0141ozi\u0144ski\" polskie t\u0142umaczenia wydawnictwa historia"
+  },
+  "tool_response": {
+    "query": "\"Diuna\" \"Marek Marsza\u0142\" \"Jerzy \u0141ozi\u0144ski\" polskie t\u0142umaczenia wydawnictwa historia",
+    "results": [
+      "I'll perform a web search for information about Polish translations of Dune by Marek Marsza\u0142 and Jerzy \u0141ozi\u0144ski, including publishing history.",
+      {
+        "tool_use_id": "srvtoolu_012jnBcMvB27Myga36snqQ7j",
+        "content": [
+          {
+            "title": "Ciekawostki o Diunie - Diuna Group",
+            "url": "https://diuna.biz/ciekawostki-o-diunie/"
+          },
+          {
+            "title": "Czy przek\u0142ad ksi\u0105\u017cki to akt tw\u00f3rczy? | HISTORIA.org.pl - historia, kultura, muzea, matura, rekonstrukcje i recenzje historyczne",
+            "url": "https://historia.org.pl/2020/11/05/czy-przeklad-ksiazki-to-akt-tworczy/"
+          },
+          {
+            "title": "Diuna \u2013 encyklopediafantastyki.pl",
+            "url": "https://encyklopediafantastyki.pl/index.php?title=Diuna"
+          },
+          {
+            "title": "Diuna \u2013 powie\u015b\u0107 Franka Herberta - Agencja Skrivanek",
+            "url": "https://skrivanek.pl/diuna-powiesc-franka-herberta/"
+          },
+          {
+            "title": "Diuna ksi\u0105\u017cka | Frank Herbert | seria Kroniki Diuny",
+            "url": "https://www.swiatksiazki.pl/seria/diuna"
+          },
+          {
+            "title": "Diuna, Mesjasz Diuny - Frank Herbert. Powr\u00f3t na Arrakis (recenzja) - Ksi\u0105\u017cki - POLTERGEIST",
+            "url": "https://polter.pl/ksiazki/Diuna-Mesjasz-Diuny-Frank-Herbert-c10770"
+          }
+        ]
+      },
+      "Based on the search results, I found detailed information about the Polish translations of \"Dune\" by both Marek Marsza\u0142 and Jerzy \u0141ozi\u0144ski, along with publishing history. Here's what I discovered:\n\n## Polish Translations of Dune\n\n### Marek Marsza\u0142's Translation\nMarek Marsza\u0142 created the most popular Polish translation of Dune, first published in 1986 (though some sources mention 1985). His translation has received greater recognition from genre fans and continues to enjoy the highest acclaim and popularity among series fans.\n\n### Jerzy \u0141ozi\u0144ski's Translation\nJerzy \u0141ozi\u0144ski also created his own translation, published by Zysk i S-ka in 1997, and in a corrected version he used his pseudonym \u0141adys\u0142aw Jerzy\u0144ski. \u0141ozi\u0144ski is known for his liberal approach to translation, and his style doesn't appeal to many readers, with the term \"\u0142ozizm\" even being used to describe translations that deviate significantly from the original.\n\n### Translation Differences\nThe translations differ significantly in terminology:\n\nIn \u0141ozi\u0144ski's translation, instead of desert worms we encounter \"piaskale\" (sand beings), and we know the Fremen as \"Wolanie\".\n\nFor example, the characteristic worms living in the sands of Arrakis (originally \"sandworms\") were called \"czerwie pustyni\" (desert worms) by Marsza\u0142, while \u0141ozi\u0144ski translated them as \"piaskale\".\n\nIn \u0141ozi\u0144ski's first version, the Fremen were \"Wolanie,\" the sandworm was \"piaskal,\" and the Emperor was \"Cesarz\".\n\n### Publishing History\nThe book had its premiere in book form in 1965, and Polish readers had to wait another 20 years for it.\n\nPublishing timeline shows: Marsza\u0142's translation was published by Phantom Press in 1992 in the Fantasy & SF series, then in 1993 and 1997, while \u0141ozi\u0144ski's translation was published by Zysk i S-ka in 1997, with later editions in 2002 under the pseudonym \u0141adys\u0142aw Jerzy\u0144ski, and subsequent editions by Rebis in 2007, 2020, 2021, 2022, and 2024.\n\nFortunately, Rebis publishing house reached for Marek Marsza\u0142's translation, which was thoroughly corrected and freed from most translator errors and linguistic awkwardnesses that could be found in earlier editions.\n\nThe search reveals that both translators have contributed significantly to bringing Frank Herbert's masterpiece to Polish readers, though Marsza\u0142's version remains more popular among fans due to its closer adherence to the original text and terminology."
+    ],
+    "durationSeconds": 21.422852855000006
+  }
+}

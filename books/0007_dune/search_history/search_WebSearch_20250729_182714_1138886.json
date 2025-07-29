@@ -1,0 +1,21 @@
+{
+  "session_id": "0487d7f4-1250-4bb6-867a-a71d253cfc4f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0487d7f4-1250-4bb6-867a-a71d253cfc4f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Dune \"rejected by 20 publishers\" Chilton Books Sterling Lanier automotive manual publishing"
+  },
+  "tool_response": {
+    "query": "Dune \"rejected by 20 publishers\" Chilton Books Sterling Lanier automotive manual publishing",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01W1EofEvSG8fFVnWRb6T4yW",
+        "content": []
+      },
+      "I can see the search results related to the publication history of Frank Herbert's *Dune*. Frank Herbert's *Dune* was rejected by more than 20 publishers before being accepted by Chilton Books, which was primarily known for automotive manuals.\n\nSterling Lanier, an editor at Chilton Books, was the one who championed the novel and convinced the company to publish it. This was quite remarkable given that Chilton was famous for publishing automotive repair manuals rather than science fiction novels.\n\nThe decision to publish *Dune* was considered risky for Chilton, as it was completely outside their usual publishing domain. However, Sterling Lanier recognized the quality and potential of Herbert's work, and his advocacy ultimately led to one of the most successful science fiction novels ever being published.\n\nThe irony of this publishing story is often cited as an example of how even acclaimed works can face initial rejection, and how sometimes it takes just one person at the right publisher to recognize a masterpiece."
+    ],
+    "durationSeconds": 11.986448162000045
+  }
+}

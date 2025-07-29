@@ -1,0 +1,62 @@
+{
+  "session_id": "7529e71f-d379-4299-9734-0e831fc05ee8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7529e71f-d379-4299-9734-0e831fc05ee8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Diuna\" Frank Herbert wydawnictwo Iskry 1985 1986 Marek Marsza\u0142 t\u0142umaczenie"
+  },
+  "tool_response": {
+    "query": "\"Diuna\" Frank Herbert wydawnictwo Iskry 1985 1986 Marek Marsza\u0142 t\u0142umaczenie",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_013mJY9pefSU4vaLKTnsbzYP",
+        "content": [
+          {
+            "title": "Diuna (powie\u015b\u0107) \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Diuna_(powie\u015b\u0107)"
+          },
+          {
+            "title": "Pinterest",
+            "url": "https://www.pinterest.com/pin/553309504190888288/"
+          },
+          {
+            "title": "Marek Marsza\u0142 \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Marek_Marsza%C5%82"
+          },
+          {
+            "title": "T\u0142umaczenia \u201eDiuny\" Franka Herberta - Baba od polskiego",
+            "url": "https://babaodpolskiego.pl/jezyki-diuny-franka-herberta-2/"
+          },
+          {
+            "title": "Diuna, Mesjasz Diuny - Frank Herbert. Powr\u00f3t na Arrakis (recenzja) - Ksi\u0105\u017cki - POLTERGEIST",
+            "url": "https://polter.pl/ksiazki/Diuna-Mesjasz-Diuny-Frank-Herbert-c10770"
+          },
+          {
+            "title": "Diuna ksi\u0105\u017cka | Frank Herbert | seria Kroniki Diuny",
+            "url": "https://www.swiatksiazki.pl/seria/diuna"
+          },
+          {
+            "title": "Diuna | Frank Herbert (Ksi\u0105\u017cka) - Ksi\u0119garnia matras.pl",
+            "url": "https://www.matras.pl/ksiazka/diuna-frank-herbert-14208"
+          },
+          {
+            "title": "\u201eDiuna\u201d Frank Herbert - w.bibliotece.pl",
+            "url": "https://w.bibliotece.pl/686279/Diuna"
+          },
+          {
+            "title": "\"Diuna\", Frank Herbert, REBIS",
+            "url": "https://www.rebis.com.pl/pl/book-diuna-frank-herbert,SCHB02842.html"
+          },
+          {
+            "title": "O czym jest Diuna? Ciekawostki o ksi\u0105\u017cce i filmie | Woblink blog",
+            "url": "https://woblink.com/blog/czego-jeszcze-nie-wiesz-o-diunie-a-powinienes/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with information about the Polish edition of \"Diuna\" (Dune) by Frank Herbert published by Wydawnictwo Iskry:\n\nThe novel \"Diuna\" was first published in Poland in 1985 by Wydawnictwo Iskry (Iskry Publishing House) in translation by Marek Marsza\u0142. \n\nThe book was part of the \"Fantastyka Przygoda\" (Fantasy Adventure) series and featured a cover by Kazimierz Ha\u0142ajkiewicz. Marek Marsza\u0142's translation of the first Polish version of \"Diuna\" from 1985 continues to enjoy the greatest recognition and popularity among fans of the series.\n\nThe first Polish translation appeared in 1986 (note: other sources consistently say 1985), and it was done by Marek Marsza\u0142 and was considered the best Polish translation until then. \n\nThere are two main Polish translations known: one by Marek Marsza\u0142 and another by Jerzy \u0141ozi\u0144ski (writing under the pseudonym \u0141adys\u0142aw Jerzy\u0144ski). Marsza\u0142's translation is considered more faithful to the original and closer to genre fans.\n\nThe search results confirm that this 1985/1986 edition by Wydawnictwo Iskry with Marek Marsza\u0142's translation was indeed the first Polish publication of Frank Herbert's \"Diuna\" and remains highly regarded among Polish science fiction readers."
+    ],
+    "durationSeconds": 13.86136303799998
+  }
+}

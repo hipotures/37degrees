@@ -1,0 +1,58 @@
+{
+  "session_id": "0487d7f4-1250-4bb6-867a-a71d253cfc4f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0487d7f4-1250-4bb6-867a-a71d253cfc4f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Dune\" \"environmental movement\" climate fiction ecology influence \"Frank Herbert\" activism"
+  },
+  "tool_response": {
+    "query": "\"Dune\" \"environmental movement\" climate fiction ecology influence \"Frank Herbert\" activism",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_013RnNxcAnc28vJzUrSU5DSU",
+        "content": [
+          {
+            "title": "How 'Dune' Imagined Climate Disaster\u2014and Inspired Environmental Activism | HISTORY",
+            "url": "https://www.history.com/articles/dune-science-fiction-novel-climate-environment"
+          },
+          {
+            "title": "How 'Dune' became a beacon for the fledgling environmental movement \u2212 and a rallying cry for the new science of ecology",
+            "url": "https://dornsife.usc.edu/news/stories/how-dune-became-beacon-for-environmental-movement/"
+          },
+          {
+            "title": "Climate Fiction and Dune: Lost in Adaptation | Sierra Club",
+            "url": "https://www.sierraclub.org/sierra/2024-1-spring/books/climate-fiction-and-dune-lost-adaptation"
+          },
+          {
+            "title": "How \u2018Dune\u2019 became a beacon for the fledgling environmental movement \u2212 and a rallying cry for the new science of ecology",
+            "url": "https://theconversation.com/how-dune-became-a-beacon-for-the-fledgling-environmental-movement-and-a-rallying-cry-for-the-new-science-of-ecology-225156"
+          },
+          {
+            "title": "How \u2018Dune\u2019 became a beacon for the fledgling environmental movement \u2212 and a rallying cry for the new science of ecology",
+            "url": "https://www.downtoearth.org.in/blog/environment/how-dune-became-a-beacon-for-the-fledgling-environmental-movement-and-a-rallying-cry-for-the-new-science-of-ecology-95065"
+          },
+          {
+            "title": "'Dune' at 50: Why the Groundbreaking Eco-Conscious ...",
+            "url": "https://www.flavorwire.com/535249/dune-at-50-why-the-groundbreaking-eco-conscious-novel-is-more-relevant-than-ever"
+          },
+          {
+            "title": "How \u2018Dune\u2019 became a beacon for the fledgling environmental movement \u2212 and a rallying cry for the new science of ecology - Sustainability",
+            "url": "https://sustainability.usc.edu/2024/04/23/how-dune-became-a-beacon-for-the-fledgling-environmental-movement-%E2%88%92-and-a-rallying-cry-for-the-new-science-of-ecology/"
+          },
+          {
+            "title": "How \u2018Dune\u2019 became a beacon for the fledgeling environmental movement and the new science of ecology",
+            "url": "https://scroll.in/article/1065504/how-dune-became-a-beacon-for-the-fledgeling-environmental-movement-and-the-new-science-of-ecology"
+          },
+          {
+            "title": "How 'Dune' Imagined Climate Disaster\u2014and Inspired Environmental Activism | HISTORY",
+            "url": "https://www-history-com.translate.goog/news/dune-science-fiction-novel-climate-environment?_x_tr_sl=en&_x_tr_tl=tr&_x_tr_hl=tr&_x_tr_pto=tc"
+          }
+        ]
+      },
+      "Based on the search results, here's what I found about Frank Herbert's \"Dune\" and its influence on the environmental movement:\n\n## Dune as Environmental Literature\n\nFrank Herbert's 1965 novel \"Dune\" is widely considered one of the best sci-fi books ever written and is considered one of the first works of what critics call climate fiction, or cli-fi.(no content)In addition to changing the science fiction genre, Herbert's novel became a touchstone for the burgeoning environmental movement of the late 1960s and 70s.\n\n## Herbert's Environmental Intent\n\nWhen Frank Herbert sat down in 1963 to start writing 'Dune,' he wasn't thinking about how to leave Earth behind. He was thinking about how to save it.(no content)The book, which Herbert calls an \"effort at prediction,\" honors \"dry-land ecologists, wherever they may be, in whatever time they work.\" The note also serves as a tip-off, the author's attempt to establish his environmental intent from the jump and make sure readers don't miss it.\n\n## Environmental Activism Connection\n\nHerbert spoke at Philadelphia's first Earth Day in 1970, and in the first edition of the Whole Earth Catalog \u2013 a famous DIY manual and bulletin for environmental activists \u2013 Dune was advertised with the tagline: \"The metaphor is ecology. The theme revolution.\"\n\n## Ecological Influences on Herbert\n\nWhile studying Dune for a book I'm writing on the history of ecology, I was surprised to learn that Herbert didn't learn about ecology as a student or as a journalist. Instead, he was inspired to explore ecology by the conservation practices of the tribes of the Pacific Northwest.(no content)In 1957, Herbert visited Florence, Oregon, where the U.S. Department of Agriculture was attempting to stabilize the area's sand dunes\u2014and therefore prevent them from damaging roads and buildings\u2014by planting European beachgrass and other fast-growing foliage. \"For Herbert, this was inspirational,\" says Veronika Kratz, a literary scholar at Queen's University in Canada.(no content)The author later claimed to have read over 200 books as background for Dune and was particularly influenced by the ecologist Paul Sears. \"He used Sears' language almost directly in certain portions of Dune,\" says Katherine Buse, an assistant professor of cinema and media studies at the University of Chicago.\n\n## Oil Industry Critique\n\nMany environmentalists interpreted Dune as a critique of the oil industry, with Herbert's friend Willis E. McNelly writing that the empire's reliance on spice can \"be construed as a thinly veiled allegory of our world's insatiable appetite for oil and other petroleum products.\"\n\n## Environmental Themes in Context\n\nThe environmental movement at the time of Dune's release was miniscule compared to today, making Herbert's ecological focus particularly groundbreaking. As Gerry Canavan notes: \"It's really calling attention to the need to think ecologically. Prior to that moment, people just weren't thinking in that way.\"\n\nThe novel's influence extended beyond literature, inspiring environmental activists and scientists while establishing important precedents for climate fiction as a genre that addresses ecological catastrophe through speculative scenarios."
+    ],
+    "durationSeconds": 19.40160792900005
+  }
+}

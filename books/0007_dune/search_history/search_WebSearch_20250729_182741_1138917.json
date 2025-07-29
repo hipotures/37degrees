@@ -1,0 +1,62 @@
+{
+  "session_id": "0487d7f4-1250-4bb6-867a-a71d253cfc4f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0487d7f4-1250-4bb6-867a-a71d253cfc4f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Frank Herbert Dune publishing history Chilton Company 20 rejections 2200 copies first year sales"
+  },
+  "tool_response": {
+    "query": "Frank Herbert Dune publishing history Chilton Company 20 rejections 2200 copies first year sales",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01Y7DiZ3ppRpJNNNPEguMHDd",
+        "content": [
+          {
+            "title": "How to Fix Your Ornithopter: The Unlikely Publishing History of Dune - SFWA - The Science Fiction & Fantasy Writers Association",
+            "url": "https://www.sfwa.org/2024/02/27/how-to-fix-your-ornithopter-the-unlikely-publishing-history-of-dune/"
+          },
+          {
+            "title": "Dune by Frank Herbert, First Edition, chilton - AbeBooks",
+            "url": "https://www.abebooks.com/book-search/title/dune/author/frank-herbert/publisher/chilton/first-edition/"
+          },
+          {
+            "title": "Herbert, Frank (1965-1976) 'Dune' trilogy, US signed first editions - First and Fine",
+            "url": "https://www.firstandfine.com/product/herbert-frank-1965-dune-us-signed-first-edition-in-fine-condition/"
+          },
+          {
+            "title": "Dune (novel) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dune_(novel)"
+          },
+          {
+            "title": "The Epic Journey of Frank Herbert\u2019s Dune: From Rejection to Literary Triumph | by Andy McNally | Medium",
+            "url": "https://andymcnally.medium.com/the-epic-journey-of-frank-herberts-dune-from-rejection-to-literary-triumph-5589238b5e43"
+          },
+          {
+            "title": "Herbert, Frank (1965) 'Dune', US first edition, review copy in outstanding condition and handcrafted clamshell case - First and Fine",
+            "url": "https://www.firstandfine.com/product/herbert-frank-1965-dune-us-first-edition-review-copy-in-outstanding-condition-and-handcrafted-clamshell-case/"
+          },
+          {
+            "title": "Dune (novel) | Frank Herbert, Summary, Films, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/Dune-by-Herbert"
+          },
+          {
+            "title": "Dune by Frank Herbert",
+            "url": "https://www.biblio.com/dune-by-herbert-frank/work/3104"
+          },
+          {
+            "title": "Dune by Frank Herbert, First Edition - AbeBooks",
+            "url": "https://www.abebooks.com/servlet/SearchResults?an=frank+herbert&fe=on&sortby=1&tn=dune"
+          },
+          {
+            "title": "Dune (franchise) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dune_(franchise)"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with information about Frank Herbert's Dune publishing history, including details about the rejections, Chilton Company publication, and first-year sales:\n\n## Publishing History and Rejections\n\nAfter 23 rejections by established publishers, Chilton Company published Dune in October 1965. Sources consistently report that Herbert was rejected twenty different times from the traditional fiction markets, though some sources specify 23 rejections and others mention more than 20 publishing houses. The serialized version was expanded, reworked, and submitted to more than twenty publishers, each of whom rejected it.\n\n## Chilton Company Publication\n\nSterling E. Lanier was an editor for Chilton Books, a nonfiction publishing house known for their manuals on auto-repair. The novel, Dune, was finally accepted and published in August 1965 by Chilton Books, a printing house better known for publishing auto repair manuals. Sterling Lanier, an editor at Chilton, had seen Herbert's manuscript and had urged his company to take a risk in publishing the book.\n\n## First Year Sales and Performance\n\nThe first edition had disappointing sales. Chilton printed a mere 2,200 copies for the first edition. Chilton priced the 412-page novel at a whopping $5.95, which is over $56 today. Sales were so bad that Sterling Lanier was dismissed from Chilton after the first year of publication.\n\n## Later Success\n\nDespite the poor initial sales, the book eventually found success. By the early 1970s, Chilton sold 6,500 hardbacks, and Ace would make a bestseller out of Dune in paperback. Regardless of Chilton's lackluster production, Dune went on to win the Nebula and the Hugo awards.\n\nThe search results confirm most of the details in your query, with the 20+ rejections, Chilton Company as publisher, and the 2,200 copies printed for the first edition being well-documented facts about Dune's publication history."
+    ],
+    "durationSeconds": 22.49318511900003
+  }
+}

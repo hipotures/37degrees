@@ -1,0 +1,38 @@
+{
+  "session_id": "7529e71f-d379-4299-9734-0e831fc05ee8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7529e71f-d379-4299-9734-0e831fc05ee8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Diuna\" matura CKE arkusze egzaminacyjne literatura fantastyczno-naukowa"
+  },
+  "tool_response": {
+    "query": "\"Diuna\" matura CKE arkusze egzaminacyjne literatura fantastyczno-naukowa",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01KqQjfr3dYyoRytYGUmNPx4",
+        "content": [
+          {
+            "title": "Seria Matura Arkusze Egzaminacyjne | ksi\u0119garnia TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/seria/matura-arkusze-egzaminacyjne"
+          },
+          {
+            "title": "Historia. Zakres rozszerzony. Arkusze maturalne | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/historia-zakres-rozszerzony-arkusze-maturalne-lukasz-skupny-p-1868999.html"
+          },
+          {
+            "title": "Arkusze maturalne. Matematyka. Matura. Poziom podstawowy | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/arkusze-maturalne-matematyka-matura-poziom-podstawowy-p-446949.html"
+          },
+          {
+            "title": "J\u0119zyk polski. Arkusze maturalne | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/jezyk-polski-arkusze-maturalne-sylwia-stolarczyk"
+          }
+        ]
+      },
+      "Based on the search results, I found information about matura exam preparation materials from CKE (Centralna Komisja Egzaminacyjna - Central Examination Board), including references to \"Diuna\" (Dune) in the context of science fiction literature. Here's what I found:\n\nThe search results show that \"Diuna\" is mentioned in the popular book categories alongside other popular series like Harry Potter, Wied\u017amin (The Witcher), and Twilight Saga.\n\nRegarding matura exam preparation materials:\n\nMatura arkusze egzaminacyjne (matura exam papers) are described as \"an excellent way for independent learning, effective home study and perfect preparation for the graduation exam\".\n\nThere are example examination papers in Polish language at the basic level, prepared by methodologists and teachers according to CKE guidelines. These materials feature \"compliance with the curriculum and CKE guidelines\" and include \"example examination papers with answers\".\n\nThe exam papers are described as \"exact reproductions of CKE papers (complete with answer spaces and draft sections)\", and they are noted to be \"very similar to CKE criteria\".\n\nThe search results indicate that various publishers offer matura preparation materials that comply with CKE standards, covering subjects like Polish language, mathematics, history, and English. While \"Diuna\" appears in the fantasy/science fiction category listings on these educational book sites, I didn't find specific exam materials focused exclusively on Dune as science fiction literature for the matura exam."
+    ],
+    "durationSeconds": 14.416435058000031
+  }
+}

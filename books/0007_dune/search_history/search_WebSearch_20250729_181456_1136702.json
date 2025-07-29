@@ -1,0 +1,62 @@
+{
+  "session_id": "0487d7f4-1250-4bb6-867a-a71d253cfc4f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0487d7f4-1250-4bb6-867a-a71d253cfc4f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Frank Herbert\" \"Dune\" 8 years writing process research methodology 1957-1965 development"
+  },
+  "tool_response": {
+    "query": "\"Frank Herbert\" \"Dune\" 8 years writing process research methodology 1957-1965 development",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_015vx88HrZvHRWb6yCi53sab",
+        "content": [
+          {
+            "title": "Dune (novel) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dune_(novel)"
+          },
+          {
+            "title": "Frank Herbert - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Frank_Herbert"
+          },
+          {
+            "title": "Articles - Frank Herbert's Dune - A guide for further study - LibGuides at California State University, Fullerton",
+            "url": "https://libraryguides.fullerton.edu/c.php?g=389150&p=2640435"
+          },
+          {
+            "title": "Dune (franchise) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dune_(franchise)"
+          },
+          {
+            "title": "How an Oregon battle between human and nature inspired Frank Herbert\u2019s \u2018Dune\u2019 - OPB",
+            "url": "https://www.opb.org/article/2021/10/23/florence-oregon-movies-dune-frank-herbert-science-fiction-novels/"
+          },
+          {
+            "title": "Home - Frank Herbert's Dune - A guide for further study - LibGuides at California State University, Fullerton",
+            "url": "https://libraryguides.fullerton.edu/HerbertDune"
+          },
+          {
+            "title": "Dune (novel) | Dune Wiki | Fandom",
+            "url": "https://dune.fandom.com/wiki/Dune_(novel)"
+          },
+          {
+            "title": "DUNE: How the Heck Did It Ever Work? | by C Johnson | Medium",
+            "url": "https://medium.com/@CCyranoj2265/dune-how-the-heck-did-it-ever-work-f4c8ed787094"
+          },
+          {
+            "title": "Dune (novel) | Frank Herbert, Summary, Films, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/Dune-by-Herbert"
+          },
+          {
+            "title": "Frank Herbert | EBSCO Research Starters",
+            "url": "https://www.ebsco.com/research-starters/history/frank-herbert"
+          }
+        ]
+      },
+      "Based on the search results, I found detailed information about Frank Herbert's extensive research and writing process for Dune that spanned approximately 8 years from 1957-1965. Here's what the research reveals:\n\n## Frank Herbert's 8-Year Development Process for Dune (1957-1965)\n\n### Initial Research Phase (1957)\nHerbert's interest in the desert setting of Dune began in 1957 when he came to Florence, Oregon, planning to write an article about a United States Department of Agriculture experiment using poverty grass to stabilize damaging sand dunes that could \"swallow whole cities, lakes, rivers, and highways.\"(no content)He later told Willis E. McNelly that the novel originated when he was assigned to write a magazine article about sand dunes in the Oregon Dunes near Florence, Oregon. He got overinvolved and ended up with far more raw material than needed for an article; while the article was never written, it planted in Herbert the seed that would become Dune.\n\n### Extended Research and Writing Period (1957-1965)\nDune took six years of research and writing to complete, and was much longer than other commercial science fiction of the time. However, other sources indicate the process was even longer: Herbert spent the next five years researching, writing, and revising what would eventually become the novel Dune, which was initially serialized in Analog magazine as two shorter works, Dune World (1963) and The Prophet of Dune (1965).\n\n### Research Methodology\nHerbert took a comprehensive approach to his research: \"Like you can tell from his books, he was interested in everything,\" says Meg Spencer, District Director of the Siuslaw Public Library District. \"He took a flight over the dunes, he took multiple photographs, he walked out onto them.\" Herbert finished his article on Florence, but it was never published. Instead, he began to dig deeper into desert ecosystems and human interactions with nature.(no content)In 1957 Herbert visited Florence, Oregon, to write a story about how the U.S. Department of Agriculture stopped the advance of sand dunes by introducing European beach grass. He was further inspired to study the ecology of deserts and began thinking about how religions, particularly Islam, had arisen in a desert background.\n\n### Publication Timeline\nThe research and writing process culminated in serialization and publication:\n- He published a three-part serial Dune World in the monthly Analog, from December 1963 to February 1964. After an interval of a year, he published the much slower-paced five-part The Prophet of Dune in the January\u2013May 1965 issues.\n- The novel, Dune, was finally accepted and published in August 1965 by Chilton Books, a printing house better known for publishing auto repair manuals.\n\n### Research Impact on the Work\nHerbert's environmental work in Oregon formed the basis of the speculative ecological work of the Fremen, which parallels real-world efforts and tactics of sand dune management.(no content)The experience here seeing the dunes \u2014 and the interaction between the people here and the environment they were living \u2014 that really did become the center of Dune and Arrakis.\n\nThis extensive 8-year development process from 1957-1965 demonstrates Herbert's meticulous research methodology, combining field observation, ecological study, and deep cultural research to create one of science fiction's most enduring works."
+    ],
+    "durationSeconds": 27.857125692
+  }
+}

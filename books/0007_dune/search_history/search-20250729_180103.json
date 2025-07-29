@@ -1,0 +1,26 @@
+{
+  "session_id": "7b55c4df-37c7-40ba-a24e-add57974ae65",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7b55c4df-37c7-40ba-a24e-add57974ae65.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Dune\" \"Frank Herbert\" \"20 publishers\" rejected \"Chilton Books\" publication history 1965"
+  },
+  "tool_response": {
+    "query": "\"Dune\" \"Frank Herbert\" \"20 publishers\" rejected \"Chilton Books\" publication history 1965",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01E12Jiw7gW3JgDsPVS7tX7B",
+        "content": [
+          {
+            "title": "Dune (franchise) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dune_(franchise)"
+          }
+        ]
+      },
+      "Based on the search results, I found the key information about Dune's publication history. The serialized version was expanded and reworked\u2014and rejected by more than 20 publishers\u2014before being published by Chilton Books, a printing house best known for its auto repair manuals, in 1965.\n\nThe search confirms the publication story you were looking for:\n\n- Frank Herbert's Dune was initially serialized in Analog magazine as two shorter works, \"Dune World\" (1963) and \"The Prophet of Dune\" (1965), then expanded and reworked\n- The manuscript was rejected by more than 20 publishers\n- It was finally published by Chilton Books in 1965, which was notably \"a printing house best known for its auto repair manuals\"\n- The novel went on to win the inaugural Nebula Award for Best Novel in 1966, and the 1966 Hugo Award\n\nThis is one of the most famous rejection stories in science fiction publishing history, where what would become one of the best-selling science fiction novels of all time was turned down by numerous mainstream publishers before finding a home at an unlikely publisher known for automotive manuals."
+    ],
+    "durationSeconds": 11.044217209000024
+  }
+}

@@ -5,13 +5,14 @@ import os
 from datetime import datetime
 from pathlib import Path
 import glob
+import fcntl
 
 # Debug mode
 DEBUG = True
 
 def debug_log(msg):
     if DEBUG:
-        with open('/tmp/debug.log', 'a', encoding='utf-8') as f:
+        with open('/tmp/37d-web-hook-debug.log', 'a', encoding='utf-8') as f:
             f.write(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] {msg}\n")
 
 debug_log("=== 37d-save-search.py STARTED ===")
@@ -33,12 +34,7 @@ cwd = data.get('cwd', '')
 tool_input = data.get('tool_input', {})
 search_query = tool_input.get('query', '') or tool_input.get('prompt', '')
 
-# Get agent context from JSON (provided by 37d-research.md)
-agent_context = data.get('agent_context', {})
-agent_name = agent_context.get('agent_name', '')
-book_title = agent_context.get('book_title', '')
-author = agent_context.get('author', '')
-year = agent_context.get('year', '')
+# Skip agent context - not available for Task-based agents
 
 debug_log(f"tool_name: {tool_name}")
 debug_log(f"cwd: {cwd}")
@@ -51,58 +47,44 @@ if tool_name not in ['WebSearch', 'WebFetch']:
 
 debug_log(f"Processing {tool_name}")
 
-# Get agent name from JSON context
-if not agent_name:
-    debug_log("ERROR: No agent_name in JSON context")
-    print(f"[37d-hook] ERROR: No agent_name provided in context", file=sys.stderr)
-    sys.exit(0)
-
-debug_log(f"Using agent from JSON context: {agent_name}")
-
-# DEBUG: Save complete data with agent name
+# DEBUG: Save complete data
 debug_timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
-debug_filename = f'/tmp/agent-{agent_name}-{debug_timestamp}.json'
+debug_filename = f'/tmp/search-{debug_timestamp}.json'
 with open(debug_filename, 'w', encoding='utf-8') as debug_f:
     json.dump(data, debug_f, indent=2)
 debug_log(f"Saved debug data to {debug_filename}")
 
-# Find the docs folder
-docs_folder = Path(cwd) / 'docs'
+# Find the search_history folder
+search_history_folder = Path(cwd) / 'search_history'
 
-debug_log(f"docs_folder: {docs_folder}")
+debug_log(f"search_history_folder: {search_history_folder}")
 
-if not docs_folder.exists():
-    debug_log(f"ERROR: Docs folder not found: {docs_folder}")
-    print(f"[37d-hook] ERROR: Docs folder not found: {docs_folder}", file=sys.stderr)
+if not search_history_folder.exists():
+    debug_log(f"ERROR: Search history folder not found: {search_history_folder}")
+    print(f"[37d-hook] ERROR: Search history folder not found: {search_history_folder}", file=sys.stderr)
     sys.exit(0)
 
-debug_log(f"Docs folder exists: {docs_folder}")
+debug_log(f"Search history folder exists: {search_history_folder}")
 
-# Generate filename with timestamp
+# Generate filename with timestamp and PID (without agent name)
 timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
-json_filename = f'{agent_name}_raw_{tool_name}_{timestamp}.json'
+pid = os.getpid()
+json_filename = f'search_{tool_name}_{timestamp}_{pid}.json'
 
-# Use agent-specific subdirectory (should exist from prepare-book-folders.sh)
-agent_dir = docs_folder / agent_name
-debug_log(f"Agent folder: {agent_dir}")
-
-if not agent_dir.exists():
-    debug_log(f"ERROR: Agent folder not found: {agent_dir}")
-    print(f"[37d-hook] ERROR: Agent folder not found: {agent_dir} - run prepare-book-folders.sh first", file=sys.stderr)
-    sys.exit(0)
-
-# Save complete raw JSON to agent-specific folder
-json_filepath = agent_dir / json_filename
+# Save complete raw JSON to search_history folder
+json_filepath = search_history_folder / json_filename
 with open(json_filepath, 'w', encoding='utf-8') as f:
     json.dump(data, f, indent=2)
 
-# Update index file in agent-specific folder
-index_file = agent_dir / f'{agent_name}_searches_index.txt'
+# Update unified index file in search_history folder (with file locking)
+index_file = search_history_folder / 'searches_index.txt'
 with open(index_file, 'a', encoding='utf-8') as f:
+    fcntl.flock(f.fileno(), fcntl.LOCK_EX)  # Exclusive lock
     f.write(f"{datetime.now().strftime('%Y-%m-%d %H:%M:%S')} | {tool_name} | {session_id} | {json_filename} | {search_query[:100]}\n")
+    # Lock automatically released when file closes
 
 # Log success
-print(f"[37d-hook] Saved {agent_name} search to: {json_filepath}")
+print(f"[37d-hook] Saved search to: {json_filepath}")
 debug_log(f"SUCCESS: Saved to {json_filepath}")
 debug_log("=== 37d-save-search.py FINISHED ===")
 

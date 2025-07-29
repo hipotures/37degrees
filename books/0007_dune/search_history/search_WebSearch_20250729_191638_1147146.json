@@ -1,0 +1,62 @@
+{
+  "session_id": "7529e71f-d379-4299-9734-0e831fc05ee8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7529e71f-d379-4299-9734-0e831fc05ee8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Diuna\" Rebis wydawnictwo \"Zysk i S-ka\" aktualne wydania polskie"
+  },
+  "tool_response": {
+    "query": "\"Diuna\" Rebis wydawnictwo \"Zysk i S-ka\" aktualne wydania polskie",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_018oEfgejkhjGZUswwrgPBxX",
+        "content": [
+          {
+            "title": "Wydawnictwo Zysk i S-ka | ksi\u0119garnia TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/wydawnictwo/zysk-i-s-ka"
+          },
+          {
+            "title": "Diuna (powie\u015b\u0107) \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Diuna_(powie\u015b\u0107)"
+          },
+          {
+            "title": "Diuna - Wydawnictwo ZYSK I S-KA",
+            "url": "https://sklep.zysk.com.pl/diuna.html"
+          },
+          {
+            "title": "Diuna. Mesjasz Diuny. - Wydawnictwo ZYSK I S-KA",
+            "url": "https://sklep.zysk.com.pl/diuna-mesjasz-diuny.html"
+          },
+          {
+            "title": "Dom Wydawniczy Rebis sp. z o.o., Dressler Dublin sp. z o.o., Grupa Wydawnicza Media Rodzina sp. z o.o., Muza S.A. , Pr\u00f3szy\u0144ski Media sp. z o.o., PUBLICAT S.A., Spo\u0142eczny Instytut Wydawniczy ZNAK sp. z o.o., Wydawnictwo \u201eNasza Ksi\u0119garnia\u201d sp. z o.o., ZYSK I S-KA Wydawnictwo Tadeusz Zysk, Aldona Zysk sp. j.",
+            "url": "https://uokik.gov.pl/bip/Dom-Wydawniczy-Rebis-Dressler-Dublin-Grupa-Wydawnicza-Media-Rodzina-Muza-Proszynski-Media-PUBLICAT-Spoleczny-Instytut-Wydawniczy-ZNAK-Wydawnictwo-Nasza-Ksiegarnia-ZYSK-I-S-KA-Wydawnictwo-Tadeusz-Zysk-Aldona-Zysk"
+          },
+          {
+            "title": "Wydawnictwo Zysk i S-ka | ksi\u0119garnia TaniaKsiazka.pl - strona 59",
+            "url": "https://www.taniaksiazka.pl/wydawnictwo/zysk-i-s-ka/page-59"
+          },
+          {
+            "title": "Zysk i S-ka : Booklips.pl",
+            "url": "https://booklips.pl/wydawcy/zysk-i-s-ka/"
+          },
+          {
+            "title": "Wydawnictwo Zysk i S-ka | Ksi\u0119garnia internetowa Poczytaj.pl",
+            "url": "https://www.poczytaj.pl/w/zysk-i-s-ka"
+          },
+          {
+            "title": "Wydawnictwo Zysk I S-Ka | Ksi\u0119garnia Internetowa Gandalf.com.pl",
+            "url": "https://www.gandalf.com.pl/w/zysk-i-s-ka/"
+          },
+          {
+            "title": "Cykl: \"Diuna\" - Wydawnictwo ZYSK I S-KA",
+            "url": "https://sklep.zysk.com.pl/category/beletrystyka-fantastyka-i-groza-science-fiction-fantastyka-naukowa-cykl-diuna"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with information about the current Polish editions of \"Diuna\" (Dune) from Rebis and Zysk i S-ka publishers:\n\n## Wydawnictwo Zysk i S-ka\n\nW latach 1997\u20132001 wznowi\u0142o j\u0105 Wydawnictwo Zysk i S-ka (w nowym, wzbudzaj\u0105cym wiele kontrowersji przek\u0142adzie Jerzego \u0141ozi\u0144skiego pisz\u0105cego pod pseudonimem \u0141adys\u0142aw Jerzy\u0144ski). However, the current status shows that NAK\u0141AD WYCZERPANY. NIE MA MO\u017bLIWO\u015aCI ZAKUPU KSI\u0104\u017bKI for the main \"Diuna\" title from their catalog.\n\nThe publisher also released ekskluzywne wydanie pierwszych dw\u00f3ch tom\u00f3w s\u0142ynnego cyklu \"Diuna\" w 2002 roku w twardej oprawie z obwolut\u0105, but this edition is also NAK\u0141AD WYCZERPANY. NIE MA MO\u017bLIWO\u015aCI ZAKUPU KSI\u0104\u017bKI.\n\n## Dom Wydawniczy Rebis\n\nW 2007 roku Dom Wydawniczy Rebis wznowi\u0142 Diun\u0119 (poprawiony przek\u0142ad Marka Marsza\u0142a), w maju 2007 Mesjasza Diuny (nowy przek\u0142ad Marka Marsza\u0142a).\n\n## Historical Context\n\nWydawnictwo Zysk i S-ka, obecnie jedno z najwi\u0119kszych wydawnictw w Polsce, powsta\u0142o w kwietniu 1994 roku, w konsekwencji odej\u015bcia Tadeusza Zyska i Aleksandra Szabli\u0144skiego z wydawnictwa Rebis. Oficyna publikowa\u0142a tak\u017ce sag\u0119 Diuna Franka Herberta.\n\n## Current Market Status\n\nBased on the search results, it appears that the Zysk i S-ka editions of Diuna are currently out of print and unavailable for purchase. For current Polish editions, readers would need to look at the Rebis editions from 2007 or check for newer reprints from either publisher."
+    ],
+    "durationSeconds": 19.73775438099995
+  }
+}

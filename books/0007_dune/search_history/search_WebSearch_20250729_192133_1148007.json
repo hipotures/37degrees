@@ -1,0 +1,62 @@
+{
+  "session_id": "7529e71f-d379-4299-9734-0e831fc05ee8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7529e71f-d379-4299-9734-0e831fc05ee8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Dune\" initial commercial failure sales figures 1965 1966 publishing history"
+  },
+  "tool_response": {
+    "query": "\"Dune\" initial commercial failure sales figures 1965 1966 publishing history",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01GVS4crgo8g7iPqE7f3ZS33",
+        "content": [
+          {
+            "title": "Dune (franchise) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dune_(franchise)"
+          },
+          {
+            "title": "How to Fix Your Ornithopter: The Unlikely Publishing History of Dune - SFWA - The Science Fiction & Fantasy Writers Association",
+            "url": "https://www.sfwa.org/2024/02/27/how-to-fix-your-ornithopter-the-unlikely-publishing-history-of-dune/"
+          },
+          {
+            "title": "Dune (novel) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dune_(novel)"
+          },
+          {
+            "title": "Dune by Frank Herbert, First Edition - AbeBooks",
+            "url": "https://www.abebooks.com/servlet/SearchResults?an=frank+herbert&bi=0&bx=off&ds=50&fe=on&recentlyadded=all&sortby=1&sts=t&tn=Dune&x=63&y=18&yrh=1965&yrl=1965"
+          },
+          {
+            "title": "Dune (novel) | Frank Herbert, Summary, Films, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/Dune-by-Herbert"
+          },
+          {
+            "title": "Dune (novel) | Dune Wiki | Fandom",
+            "url": "https://dune.fandom.com/wiki/Dune_(novel)"
+          },
+          {
+            "title": "Dune (2021 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dune_(2021_film)"
+          },
+          {
+            "title": "So You Want to Read 'Dune.' Here's How to Tackle the Series in Order.",
+            "url": "https://www.esquire.com/entertainment/books/g38012512/dune-books-in-order/"
+          },
+          {
+            "title": "Dune, First Edition - AbeBooks",
+            "url": "https://www.abebooks.com/servlet/SearchResults?yrh=1965&x=87&fe=on&yrl=1965&y=5&bi=0&ds=30&bx=off&sortby=1&tn=Dune&recentlyadded=all"
+          },
+          {
+            "title": "Dune (1984 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dune_(1984_film)"
+          }
+        ]
+      },
+      "Based on the search results, I found detailed information about Dune's initial commercial performance and publishing history from 1965-1966. Here's what the search revealed:\n\n## Dune's Initial Commercial Failure (1965-1966)\n\nDune was rejected by more than 20 publishers before being published by Chilton Books in 1965, a nonfiction publishing house known for their manuals on auto-repair.\n\n### Specific Sales Figures and Performance\n\nChilton priced the 412-page novel at a whopping $5.95 (over $56 today) and printed a mere 2,200 copies for the first edition. Despite a publishing contract, Dune's initial success was slow, and sales were so bad that Sterling Lanier was dismissed from Chilton after the first year of publication.\n\nThe print run was very low and about half of the initial run had to be discarded, with very few copies surviving in decent condition. Early sales of Dune were poor, and Lanier was fired.\n\n### Publishing History Timeline\n\n- **1963-1965**: The story was first published as serials in Analog magazine - \"Dune World\" from December 1963 to February 1964, followed by \"The Prophet of Dune\" from January to May 1965\n- **August 1965**: The novel was finally accepted and published in August 1965 by Chilton Books\n- **1966**: The book tied with Roger Zelazny's This Immortal for the Hugo Award for Best Novel and won the inaugural Nebula Award for Best Novel in 1966\n\n### Key Context\n\nSterling E. Lanier, an editor at Chilton Books and science fiction fan, reached out to Herbert's agent with an offer to publish the book even before the serial was completed, and the offer was accepted. Despite the initial commercial failure, Dune received critical acclaim and became popular among young people in the late 1960s and '70s, eventually becoming one of the best-selling science fiction novels, having sold almost 20 million copies."
+    ],
+    "durationSeconds": 22.409559519000002
+  }
+}

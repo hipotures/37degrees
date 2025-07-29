@@ -1,0 +1,63 @@
+{
+  "session_id": "0487d7f4-1250-4bb6-867a-a71d253cfc4f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0487d7f4-1250-4bb6-867a-a71d253cfc4f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Diuna\" \"Frank Herbert\" lektura szkolna podstawa programowa MEN matura"
+  },
+  "tool_response": {
+    "query": "\"Diuna\" \"Frank Herbert\" lektura szkolna podstawa programowa MEN matura",
+    "results": [
+      "I'll perform a web search using your exact query about \"Diuna\" (Dune) by Frank Herbert in relation to Polish school curriculum.",
+      {
+        "tool_use_id": "srvtoolu_01KNXhM24hXjjWjK6xvCNZ7k",
+        "content": [
+          {
+            "title": "Diuna - Frank Herbert | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/4942534/diuna"
+          },
+          {
+            "title": "Diuna ksi\u0105\u017cka | Frank Herbert | seria Kroniki Diuny",
+            "url": "https://www.swiatksiazki.pl/seria/diuna"
+          },
+          {
+            "title": "Diuna. Kroniki Diuny. Tom 1 Frank Herbert ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/diuna-kroniki-diuny-tom-1-frank-herbert"
+          },
+          {
+            "title": "Diuna | Frank Herbert (Ksi\u0105\u017cka) - Ksi\u0119garnia matras.pl",
+            "url": "https://www.matras.pl/p/diuna-frank-herbert-156924"
+          },
+          {
+            "title": "Diuna. Kroniki Diuny. Tom 1 - Frank Herbert - Empik.com",
+            "url": "https://www.empik.com/diuna-tom-1-herbert-frank,p1240289314,ksiazka-p"
+          },
+          {
+            "title": "\"Diuna\", Frank Herbert, REBIS",
+            "url": "https://www.rebis.com.pl/pl/book-diuna-frank-herbert,SCHB02842.html"
+          },
+          {
+            "title": "Diuna \u2013 kolejno\u015b\u0107 czytania ksi\u0105\u017cek Franka Herberta",
+            "url": "https://www.taniaksiazka.pl/diuna-kolejnosc-czytania-ksiazek-franka-herberta-a-1465.html"
+          },
+          {
+            "title": "Frank Herbert | wszystkie ksi\u0105\u017cki w TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/autor/herbert-frank"
+          },
+          {
+            "title": "Pakiet Kroniki Diuny. Tomy 1-6 Frank Herbert ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/pakiet-kroniki-diuny-tomy-1-6-frank-herbert"
+          },
+          {
+            "title": "Frank Herbert - Tom 1. Diuna | PDF",
+            "url": "https://www.scribd.com/document/692229484/Frank-Herbert-Tom-1-Diuna"
+          }
+        ]
+      },
+      "Based on your search query about \"Diuna\" by Frank Herbert in relation to Polish school curriculum, I found several relevant results about the book in Polish educational contexts, though none specifically mention it being part of the official MEN (Ministry of National Education) curriculum or matura exam requirements.\n\nHere's what the search revealed:\n\nFrank Herbert's \"Diuna\" (Dune) is widely recognized as a cult classic in science fiction literature, with the first book published in 1965 becoming a global reading phenomenon that has sold over 20 million copies worldwide. The novel has received the two most prestigious science fiction awards: the Nebula and Hugo awards.\n\nThe search results show that \"Diuna\" appears in Polish bookstore categories alongside \"Lektury i pomoce szkolne\" (School readings and educational aids), suggesting it may be used in educational contexts, though this doesn't necessarily indicate official curriculum inclusion.\n\nThe most popular Polish translation was done by Marek Marsza\u0142 in 1985 and remains the most recognized version among fans of the series. The current Polish edition by REBIS publishing house features Marek Marsza\u0142's translation with artwork by Wojciech Siudmak.\n\nHowever, the search results do not provide specific information about \"Diuna\" being officially included in the Polish school curriculum (podstawa programowa) by the Ministry of National Education (MEN) or being a required reading for the matura exam. The book appears to be available through educational book retailers, but this alone doesn't confirm its status as mandatory school reading.\n\nTo get more specific information about its official educational status, you might want to check directly with MEN's official curriculum documents or educational resources."
+    ],
+    "durationSeconds": 19.250224965
+  }
+}

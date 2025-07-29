@@ -1,0 +1,21 @@
+{
+  "session_id": "7529e71f-d379-4299-9734-0e831fc05ee8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7529e71f-d379-4299-9734-0e831fc05ee8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Dune video games complete history 1992 \"Dune II\" \"Emperor Battle for Dune\" \"Dune Spice Wars\" 2022"
+  },
+  "tool_response": {
+    "query": "Dune video games complete history 1992 \"Dune II\" \"Emperor Battle for Dune\" \"Dune Spice Wars\" 2022",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01TtLtM6KqQ1KtZ7ErWs9Kau",
+        "content": []
+      },
+      "The search results show information about the history of Dune video games spanning from 1992 to 2022. Here are the key highlights:\n\nThe Dune video game franchise began in 1992 with the release of \"Dune\" by Cryo Interactive, followed by the more famous \"Dune II: The Building of a Dynasty\" by Westwood Studios that same year. Dune II is particularly significant as it established many conventions of the real-time strategy (RTS) genre.\n\nThe franchise continued with several notable entries:\n\n- \"Dune 2000\" (1998) was a remake of Dune II with updated graphics and gameplay\n- \"Emperor: Battle for Dune\" (2001) served as the final game in Westwood's Dune trilogy\n- After a long hiatus, \"Dune: Spice Wars\" was released in early access in 2022 by Shiro Games(no content)The series has been praised for its strategic gameplay and faithful adaptation of Frank Herbert's Dune universe, though there have been various licensing and development challenges over the years. The recent revival with Spice Wars coincides with renewed interest in the Dune franchise following Denis Villeneuve's film adaptations.\n\nThe search covers the complete timeline you requested, from the foundational 1992 releases through the modern 2022 entry, highlighting the most significant titles in the Dune gaming franchise."
+    ],
+    "durationSeconds": 15.008934272999992
+  }
+}

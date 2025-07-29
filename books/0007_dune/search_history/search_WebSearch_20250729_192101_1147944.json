@@ -1,0 +1,62 @@
+{
+  "session_id": "7529e71f-d379-4299-9734-0e831fc05ee8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7529e71f-d379-4299-9734-0e831fc05ee8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Dune AO3 Archive of Our Own fanfiction statistics Paul Chani Duncan Paul ships modern AU"
+  },
+  "tool_response": {
+    "query": "Dune AO3 Archive of Our Own fanfiction statistics Paul Chani Duncan Paul ships modern AU",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_016wYkUqGd3E2UFpAkudQB1b",
+        "content": [
+          {
+            "title": "Dune FanFiction Archive | FanFiction",
+            "url": "https://www.fanfiction.net/book/Dune/"
+          },
+          {
+            "title": "Paul Atreides/Duncan Idaho - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Paul%20Atreides*s*Duncan%20Idaho/works"
+          },
+          {
+            "title": "Paul Atreides - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Paul%20Atreides/works"
+          },
+          {
+            "title": "Irulan Corrino - Works | Archive of Our Own",
+            "url": "https://archive.transformativeworks.org/tags/Irulan%20Corrino/works"
+          },
+          {
+            "title": "Dune (2021) - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Dune (2021)/works"
+          },
+          {
+            "title": "Dune - Works | Archive of Our Own",
+            "url": "https://archive.transformativeworks.org/collections/Paul_Duncan/works"
+          },
+          {
+            "title": "Paul Atreides/Irulan Corrino - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Paul%20Atreides*s*Irulan%20Corrino/works"
+          },
+          {
+            "title": "Alia Atreides - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Alia%20Atreides/works"
+          },
+          {
+            "title": "Paul Atreides/Feyd-Rautha Harkonnen - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Paul%20Atreides*s*Feyd-Rautha%20Harkonnen/works"
+          },
+          {
+            "title": "Dune (Movies - Villeneuve) - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Dune (Movies - Villeneuve)/works"
+          }
+        ]
+      },
+      "Based on the search results from Archive of Our Own (AO3), I can provide you with insights about Dune fanfiction statistics and popular ships involving Paul, Chani, and Duncan Idaho:\n\n## Popular Dune Ships on AO3\n\nThe search results reveal several active shipping communities in the Dune fandom:\n\n**Paul Atreides Ships:**\n- Paul/Duncan Idaho has its own dedicated tag on AO3, indicating it's a popular pairing\n- Paul/Irulan Corrino is another major ship with substantial content\n- Paul/Feyd-Rautha Harkonnen is also well-represented\n- Paul/Chani appears to be the canonical pairing with significant fanfiction content\n\n**Fanfiction Trends:**\n- Modern AUs are popular, with authors writing bookshop AUs and other contemporary settings\n- AUs where Paul never moves to Arrakis are common\n- Modern AU settings include contemporary scenarios like Paul as a Juilliard piano student from New York meeting Feyd-Rautha in the South\n\n**Character Focus:**\n- Paul Atreides has his own character tag with substantial works\n- Paul/Chani stories often explore their relationship dynamics, including scenarios where they reflect on past, present and future\n- Paul/Duncan content includes intimate scenarios and alternative universe explorations\n\n**Content Variety:**\nThe fanfiction spans various genres including:\n- Alternative universe scenarios\n- Canon-divergent stories\n- Modern AUs\n- Family dynamics and relationship exploration\n- Political intrigue and empire-building themes\n\nThe search results suggest that while Paul/Chani is the canonical relationship, Paul/Duncan, Paul/Irulan, and Paul/Feyd-Rautha are all popular non-canonical ships with active fanfiction communities on AO3. Modern AUs appear to be particularly popular for exploring these relationships in contemporary settings."
+    ],
+    "durationSeconds": 18.879960411000067
+  }
+}

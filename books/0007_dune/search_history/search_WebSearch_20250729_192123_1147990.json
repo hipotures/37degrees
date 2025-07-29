@@ -1,0 +1,200 @@
+{
+  "session_id": "7529e71f-d379-4299-9734-0e831fc05ee8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7529e71f-d379-4299-9734-0e831fc05ee8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Diuna\" Frank Herbert praca magisterska doktorska uniwersytet literatura polonistyka"
+  },
+  "tool_response": {
+    "query": "\"Diuna\" Frank Herbert praca magisterska doktorska uniwersytet literatura polonistyka",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01JLSGExp3r1YawioGP6U2yW",
+        "content": [
+          {
+            "title": "Diuna - Frank Herbert | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/4942534/diuna"
+          },
+          {
+            "title": "Frank Herbert | Autor: Wszystkie ksi\u0105\u017cki, wywiady, artyku\u0142y | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/autor/3481/frank-herbert"
+          },
+          {
+            "title": "Diuna ksi\u0105\u017cka | Frank Herbert | seria Kroniki Diuny",
+            "url": "https://www.swiatksiazki.pl/seria/diuna"
+          },
+          {
+            "title": "Diuna. Kroniki Diuny. Tom 1 Frank Herbert ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/diuna-kroniki-diuny-tom-1-frank-herbert"
+          },
+          {
+            "title": "Diuna (powie\u015b\u0107) \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Diuna_(powie\u015b\u0107)"
+          },
+          {
+            "title": "Frank Herbert - Diuna tom 1 - PDF Free Download",
+            "url": "https://docer.tips/frank-herbert-diuna-tom-1.html"
+          },
+          {
+            "title": "Diuna. Kroniki Diuny. Tom 1 - Frank Herbert - Empik.com",
+            "url": "https://www.empik.com/diuna-tom-1-herbert-frank,p1240289314,ksiazka-p"
+          },
+          {
+            "title": "Diuna \u2013 powie\u015b\u0107 Franka Herberta - Agencja Skrivanek",
+            "url": "https://skrivanek.pl/diuna-powiesc-franka-herberta/"
+          },
+          {
+            "title": "O czym jest Diuna? Ciekawostki o ksi\u0105\u017cce i filmie | Woblink blog",
+            "url": "https://woblink.com/blog/czego-jeszcze-nie-wiesz-o-diunie-a-powinienes/"
+          },
+          {
+            "title": "Herbert, Frank - literatura.gildia.pl - ksi\u0105\u017cki, recenzje, artyku\u0142y, nowo\u015bci",
+            "url": "https://www.literatura.gildia.pl/tworcy/frank_herbert"
+          }
+        ]
+      },
+      "Based on my search, I found information about \"Diuna\" (Dune) by Frank Herbert, but the results don't specifically mention university master's or doctoral theses about the work in Polish literary studies. Let me search for more specific academic content:",
+      {
+        "tool_use_id": "srvtoolu_01E3HK7iZSwqXn2gQnMq2KkQ",
+        "content": [
+          {
+            "title": "Frank Herbert | Autor: Wszystkie ksi\u0105\u017cki, wywiady, artyku\u0142y | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/autor/3481/frank-herbert"
+          },
+          {
+            "title": "Frank Herbert | wszystkie ksi\u0105\u017cki w TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/autor/herbert-frank"
+          },
+          {
+            "title": "Diuna ksi\u0105\u017cka | Frank Herbert | seria Kroniki Diuny",
+            "url": "https://www.swiatksiazki.pl/seria/diuna"
+          },
+          {
+            "title": "Herbert, Frank - literatura.gildia.pl - ksi\u0105\u017cki, recenzje, artyku\u0142y, nowo\u015bci",
+            "url": "https://www.literatura.gildia.pl/tworcy/frank_herbert"
+          },
+          {
+            "title": "Diuna. Kroniki Diuny. Tom 1 Frank Herbert ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/diuna-kroniki-diuny-tom-1-frank-herbert"
+          },
+          {
+            "title": "Frank Herbert \u2013 encyklopediafantastyki.pl",
+            "url": "https://www.encyklopediafantastyki.pl/index.php?title=Frank_Herbert"
+          },
+          {
+            "title": "Diuna - Frank Herbert | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/4942534/diuna"
+          },
+          {
+            "title": "Diuna \u2013 powie\u015b\u0107 Franka Herberta - Agencja Skrivanek",
+            "url": "https://skrivanek.pl/diuna-powiesc-franka-herberta/"
+          },
+          {
+            "title": "Frank Herbert - Diuna tom 1 - PDF Free Download",
+            "url": "https://docer.tips/frank-herbert-diuna-tom-1.html"
+          },
+          {
+            "title": "Frank Herbert - ksi\u0105\u017cki, audiobooki, ebooki - Empik",
+            "url": "https://www.empik.com/autor/frank-herbert"
+          }
+        ]
+      },
+      "Let me search for more specific academic resources and thesis repositories:",
+      {
+        "tool_use_id": "srvtoolu_018b3ypEMfuPqYfz6aQ87QNq",
+        "content": [
+          {
+            "title": "Strona g\u0142\u00f3wna repozytorium",
+            "url": "https://depot.ceon.pl/?locale-attribute=pl"
+          },
+          {
+            "title": "ICM i Otwarta Nauka \u2013 Forum Akademickie - portal \u015brodowiska akademickiego i naukowego",
+            "url": "https://miesiecznik.forumakademickie.pl/czasopisma/fa-3-2021/icm-i-otwarta-nauka/"
+          },
+          {
+            "title": "Diuna - Frank Herbert | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/4942534/diuna"
+          },
+          {
+            "title": "Browsing Doktoraty Instytutu Prawa Cywilnego (Archiwum) by Title",
+            "url": "https://depotuw.ceon.pl/handle/item/64/browse?type=title"
+          },
+          {
+            "title": "Browsing Doktoraty Instytutu Nauk Prawno-Administracyjnych (Archiwum) by Title",
+            "url": "https://depotuw.ceon.pl/handle/item/62/browse?type=title"
+          },
+          {
+            "title": "Rozprawy doktorskie i prace magisterskie",
+            "url": "https://biblioteka.akademiapolicji.edu.pl/zasoby-m/prace-magisterskie-m"
+          },
+          {
+            "title": "Browsing Doktoraty Wydzia\u0142u Zarz\u0105dzania (Archiwum) by Title",
+            "url": "https://depotuw.ceon.pl/handle/item/38/browse?type=title"
+          },
+          {
+            "title": "Frank Herbert | Autor: Wszystkie ksi\u0105\u017cki, wywiady, artyku\u0142y | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/autor/3481/frank-herbert"
+          },
+          {
+            "title": "Komitet Bada\u0144 Naukowych",
+            "url": "http://kbn.icm.edu.pl/pub/kbninfo/archiwum/n_prm_99.html"
+          },
+          {
+            "title": "Biblioteka Uniwersytecka w Warszawie - archiwalna",
+            "url": "http://archiwalna.buw.uw.edu.pl/index.php?option=com_content&task=view&id=1561&Itemid=241"
+          }
+        ]
+      },
+      "Let me search for more specific academic databases and repositories that might contain thesis information about Dune:",
+      {
+        "tool_use_id": "srvtoolu_016pCSRrAUGwcZAgziRpxUgk",
+        "content": [
+          {
+            "title": "Articles - Frank Herbert's Dune - A guide for further study - LibGuides at California State University, Fullerton",
+            "url": "https://libraryguides.fullerton.edu/c.php?g=389150&p=2640435"
+          },
+          {
+            "title": "Frank Herbert\u2019s Dune and the Dune Series - American Literature - Oxford Bibliographies",
+            "url": "https://www.oxfordbibliographies.com/display/document/obo-9780199827251/obo-9780199827251-0201.xml"
+          },
+          {
+            "title": "Digging Through the Frank Herbert Archives & Dune Display at CSUF Library - Fullerton Observer",
+            "url": "https://fullertonobserver.com/2024/07/03/digging-through-the-frank-herbert-archives-dune-display-at-csuf-library/"
+          },
+          {
+            "title": "Home - Frank Herbert's Dune - A guide for further study - LibGuides at California State University, Fullerton",
+            "url": "https://libraryguides.fullerton.edu/HerbertDune"
+          },
+          {
+            "title": "Books - Frank Herbert's Dune - A guide for further study - LibGuides at California State University, Fullerton",
+            "url": "https://libraryguides.fullerton.edu/c.php?g=389150&p=2640432"
+          },
+          {
+            "title": "Pollak Library Houses Frank Herbert\u2019s Original Manuscript for 'Dune' | CSUF News",
+            "url": "https://news.fullerton.edu/spotlight/pollak-library-houses-frank-herberts-original-manuscript-for-dune/"
+          },
+          {
+            "title": "(PDF) The Orientalist Semiotics of Dune: Religious and Historical References within Frank Herbert\u2019s Universe",
+            "url": "https://www.researchgate.net/publication/358609664_The_Orientalist_Semiotics_of_Dune_Religious_and_Historical_References_within_Frank_Herbert's_Universe"
+          },
+          {
+            "title": "Dune (novel) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dune_(novel)"
+          },
+          {
+            "title": "Dune (Frank Herbert) Research Papers - Academia.edu",
+            "url": "https://www.academia.edu/Documents/in/Dune_Frank_Herbert_"
+          },
+          {
+            "title": "Dune Scholar - Accessible, research-based analysis of Frank Herbert's science fiction series",
+            "url": "https://dunescholar.com/"
+          }
+        ]
+      },
+      "Based on my web searches, I found extensive information about Frank Herbert's \"Diuna\" (Dune) but I couldn't locate specific master's or doctoral theses about the work from Polish universities or in Polish literary studies. However, let me provide you with what I discovered from the search:\n\n## Search Results Summary\n\nThe search revealed that \"Diuna\" is Frank Herbert's science fiction novel published in 1965, which received both the Nebula Award (1965) and Hugo Award (1966), the most prestigious awards in the SF genre. The novel was extremely successful commercially, selling over 20 million copies worldwide, and Herbert's work has long held cult status with successive generations of readers reaching for the novel published in 1965.\n\n### Polish Academic Context\n\nIn Poland, Herbert's \"Diuna\" was published in two translation versions - the first translation was done by Marek Marsza\u0142 in 1986, over 20 years after the original publication. The second translation was done by Jerzy \u0141ozi\u0144ski, with Marsza\u0142's translation receiving greater recognition from genre fans.\n\nThe first part of the cycle titled \"Diuna\" was published in Poland for the first time in 1985 by Iskry Publishing House in Marek Marsza\u0142's translation.\n\n### Academic Resources Found\n\nWhile I couldn't find specific Polish master's or doctoral theses, the search revealed several academic repositories and resources:\n\n1. **Repository Systems**: The CEON Repository (Center for Open Science) addresses the entire Polish scientific community and provides access to various scientific materials such as articles, books, conference materials, reports, and doctoral dissertations.\n\n2. **International Academic Research**: There is significant international academic interest in Herbert's work, with research papers available on platforms like ResearchGate and Academia.edu focusing on various aspects of the Dune universe.\n\n3. **University Archives**: The Herbert papers came to Cal State Fullerton through Willis E. McNelly, a professor emeritus of English who was well known as a scholar of science fiction and was instrumental in having science fiction recognized as literature.\n\n### Literary Significance\n\nHerbert's work received the two most prestigious SF awards: Nebula and Hugo. \"Dune\" was published in 1965 and is considered the first ecological science fiction novel, written at a time when ecology was an emerging field of study, with Frank Herbert helping to popularize the term ecology and conveying a sense of planetary awareness for Earth itself.\n\nUnfortunately, despite searching through Polish academic repositories and databases, I could not locate specific master's or doctoral theses specifically analyzing Frank Herbert's \"Diuna\" within Polish literary studies or comparative literature programs. The search terms used included various combinations of Polish academic terminology, but no specific academic theses were found in the results."
+    ],
+    "durationSeconds": 39.61985384
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "session_id": "7529e71f-d379-4299-9734-0e831fc05ee8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7529e71f-d379-4299-9734-0e831fc05ee8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Dune neurodivergent headcanons autism ADHD Paul Atreides Duncan Idaho fan interpretations"
+  },
+  "tool_response": {
+    "query": "Dune neurodivergent headcanons autism ADHD Paul Atreides Duncan Idaho fan interpretations",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01RF6UQPntRebbQYpjFigCH1",
+        "content": [
+          {
+            "title": "Paul Atreides | Dune Wiki | Fandom",
+            "url": "https://dune.fandom.com/wiki/Paul_Atreides"
+          },
+          {
+            "title": "Paul Atreides/Duncan Idaho - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Paul%20Atreides*s*Duncan%20Idaho/works"
+          },
+          {
+            "title": "spicy. \u2014 House Atreides names be like:",
+            "url": "https://god-emperor-leto-ii.tumblr.com/post/634130747603779584/house-atreides-names-be-like"
+          },
+          {
+            "title": "Paul Atreides from the new movie version of Dune...",
+            "url": "https://autisticheadcanons.tumblr.com/post/740042352598630400/paul-atreides-from-the-new-movie-version-of-dune"
+          },
+          {
+            "title": "The Dune Ethos",
+            "url": "https://www.thomastthomas.com/Dune_Ethos_103011.htm"
+          },
+          {
+            "title": "Paul Is Literally Neurodivergent and a Minor | Dune (Film Series) | Know Your Meme",
+            "url": "https://knowyourmeme.com/photos/2233659-dune-2021"
+          },
+          {
+            "title": "Some thoughts about Dune that are not really thoughts about Dune, except for the ones that are of course about Dune",
+            "url": "https://world.hey.com/horses/some-thoughts-about-dune-that-are-not-really-thoughts-about-dune-except-for-the-ones-that-are-of-c9c831bb"
+          },
+          {
+            "title": "Post by @euphorial-docx \u00b7 3 images",
+            "url": "https://www.tumblr.com/euphorial-docx/693072586504110080/reasons-why-timothee-chalamet-characters-are"
+          },
+          {
+            "title": "Paul Atreides - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Paul%20Atreides/works"
+          },
+          {
+            "title": "The Show Must Go On \u2014 Duncan Idaho Headcanons",
+            "url": "https://imaginingmarvelandeverything.tumblr.com/post/666660789377286144/duncan-idaho-headcanons"
+          }
+        ]
+      },
+      "Based on the search results, I found some relevant information about neurodivergent fan interpretations of Dune characters, particularly Paul Atreides. Here's what I discovered:\n\n## Autistic Headcanons for Paul Atreides\n\nPaul Atreides from the new movie version of Dune is Autistic. This comes from a dedicated autistic headcanons blog on Tumblr that focuses specifically on neurodivergent interpretations of fictional characters.\n\nFirst up is paul atreides because he is the most obvious: soft spoken. Another Tumblr user analyzing Timoth\u00e9e Chalamet's characters noted specific traits they associate with autism in Paul's portrayal, particularly highlighting his quiet demeanor.\n\n## Fan Community Discussions\n\nThe search results show there's an active fan community creating content around these interpretations. Paul Is Literally Neurodivergent and a Minor appears as a meme title, suggesting this interpretation has gained some traction in online fan spaces.\n\n## Character Analysis Context\n\nWhile not explicitly about neurodivergent headcanons, the search results provide context for why fans might interpret these characters this way. Though he lacked companions his own age, he received tutelage from his teachers \u2014 men like Thufir Hawat, Duncan Idaho, Gurney Halleck and Dr. Wellington Yueh \u2014 as well as deep education in Bene Gesserit methods and techniques from his mother. Shortly after his fifteenth birthday in the year 10191 A.G., Paul's father revealed to him that his training, through his teachers, had been geared toward turning Paul into a mentat.\n\nThe search results indicate there's active fan engagement with neurodivergent interpretations of Dune characters, particularly Paul Atreides, with fans creating headcanons based on character traits they observe in both the books and recent film adaptations. However, the specific content about ADHD interpretations or detailed analysis of Duncan Idaho's neurodivergent characteristics wasn't prominently featured in these particular results."
+    ],
+    "durationSeconds": 17.557255981000022
+  }
+}

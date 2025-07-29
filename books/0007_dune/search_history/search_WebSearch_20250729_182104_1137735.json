@@ -1,0 +1,62 @@
+{
+  "session_id": "0487d7f4-1250-4bb6-867a-a71d253cfc4f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0487d7f4-1250-4bb6-867a-a71d253cfc4f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Dune influence Game of Thrones GRRM George R.R. Martin political intrigue houses feudalism"
+  },
+  "tool_response": {
+    "query": "Dune influence Game of Thrones GRRM George R.R. Martin political intrigue houses feudalism",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_014T5rXzUFr4daAPYaAv9f36",
+        "content": [
+          {
+            "title": "Everything Game Of Thrones Borrowed From Dune",
+            "url": "https://screenrant.com/dune-game-thrones-borrow-elements-plot-everything/"
+          },
+          {
+            "title": "5 Books That Influenced How George R. R. Martin Wrote Game of Thrones",
+            "url": "https://time.com/4769331/game-of-thrones-books-george-rr-martin/"
+          },
+          {
+            "title": "From \u2018House of the Dragon\u2019 to \u2018Game of Thrones\u2019: 10 Times George R. R. Martin Was Inspired By Historical Events",
+            "url": "https://collider.com/house-of-the-dragon-game-of-thrones-historical-inspiration/"
+          },
+          {
+            "title": "George R. R. Martin - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/George_R._R._Martin"
+          },
+          {
+            "title": "A Game of Thrones - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/A_Game_of_Thrones"
+          },
+          {
+            "title": "Why is Dune by Frank Herbert not considered to be as good as Game of Thrones by George R.R. Martin? - Quora",
+            "url": "https://www.quora.com/Why-is-Dune-by-Frank-Herbert-not-considered-to-be-as-good-as-Game-of-Thrones-by-George-R-R-Martin"
+          },
+          {
+            "title": "The Inspirations for George R.R Martin\u2019s Game of Thrones | by Michael McComb | Medium",
+            "url": "https://medium.com/@michael.mccomb/the-inspirations-for-george-r-r-martins-game-of-thrones-b3451c66b2b2"
+          },
+          {
+            "title": "What If George R.R. Martin Wrote \"Dune\"? - The Hugh Hewitt Show",
+            "url": "https://hughhewitt.com/what-if-george-r-r-martin-wrote-dune"
+          },
+          {
+            "title": "George R. R. Martin says the later Dune books failed to impress him - Wiki of Thrones",
+            "url": "https://wikiofthrones.com/george-r-r-martin-discusses-dune-frank-herbert"
+          },
+          {
+            "title": "\"I Think He Was a Little Bothered That All They Wanted Was Dune\": George R.R. Martin Discusses 'Dune' and Frank Herbert",
+            "url": "https://collider.com/george-rr-martin-dune-frank-herbert/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide insights into how Frank Herbert's *Dune* influenced George R.R. Martin's *Game of Thrones*, particularly in terms of political intrigue, feudal houses, and societal structures.\n\n## Similarities Between Dune and Game of Thrones\n\nThough Game of Thrones seemed wholly original when it aired, the series has several similarities to Dune. In Game of Thrones, the central conflict comes from Great Houses going to war, which also happens in Dune.(no content)They're qualitatively different epics although both share certain qualities, namely that both take place in a feudal setting.\n\n## George R.R. Martin's Influences and Approach\n\nThe author makes a point of grounding his work on a foundation of historical fiction, which he channels to evoke important social and political elements of primarily the European medieval era that differ markedly from elements of modern times, including the multigenerational, rigid, and often brutally consequential nature of the hierarchical class system of feudal societies that is in many cases overlooked in fantasy writing.(no content)His epic fantasy series, A Song of Ice and Fire, was inspired by the Wars of the Roses, The Accursed Kings and Ivanhoe.\n\n## Martin's Recognition of Herbert's Work\n\nRecently, George R. R. Martin lauded fellow author Frank Herbert's \"magnum opus,\" Dune. This demonstrates Martin's respect for Herbert's work and suggests the influence may have been conscious.\n\n## Political Intrigue and Feudalism\n\nThe novel received positive reviews from critics, with reviewers praising the novel's characters and commending the political intrigue.(no content)Priscila L. Walton says the series' likeness to the Middle Ages is superficial, but A Game of Thrones' feudalist society bears the closest similarity of any volume in the series.\n\nThe search results show that both works share a fascination with feudal power structures, warring noble houses, and complex political maneuvering. While Martin drew primarily from historical sources like the Wars of the Roses, The Villeneuve films are entirely a story of political power and how to gain it, more reminiscent of \"Game of Thrones\" than Herbert's work - suggesting that the political themes resonate across both franchises.\n\nBoth authors created intricate worlds where \"great houses\" compete for power through political intrigue, military conflict, and strategic alliances, making the influence clear even if not explicitly acknowledged by Martin as a primary inspiration."
+    ],
+    "durationSeconds": 20.274944368000025
+  }
+}

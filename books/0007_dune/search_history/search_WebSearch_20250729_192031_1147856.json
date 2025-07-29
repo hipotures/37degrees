@@ -1,0 +1,62 @@
+{
+  "session_id": "7529e71f-d379-4299-9734-0e831fc05ee8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7529e71f-d379-4299-9734-0e831fc05ee8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Dune quotes TikTok memes \"fear is the mind killer\" viral social media Paul Atreides"
+  },
+  "tool_response": {
+    "query": "Dune quotes TikTok memes \"fear is the mind killer\" viral social media Paul Atreides",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01JaTCx6NhbA5T4CS5YNahNc",
+        "content": [
+          {
+            "title": "Fear Is The Mind Killer | TikTok",
+            "url": "https://www.tiktok.com/channel/fear-is-the-mind-killer"
+          },
+          {
+            "title": "Fear is the mind killer. Dune (2021) what a gorgeous movie #fyp #dunemovie #rebeccaferguson #scifi #films  | TikTok",
+            "url": "https://www.tiktok.com/@calderdune/video/7177804469738982698"
+          },
+          {
+            "title": "Litany Against Fear | Dune Wiki | Fandom",
+            "url": "https://dune.fandom.com/wiki/Litany_Against_Fear"
+          },
+          {
+            "title": "Fear Is The Mind Killer: Spiritual Insights from Dune \u2013 The Spiritual Naturalist Society",
+            "url": "https://www.snsociety.org/fear-is-the-mind-killer-spiritual-insights-from-dune/"
+          },
+          {
+            "title": "What Does \"Fear Is The Mind Killer\" Means In The Dune Trailer",
+            "url": "https://screenrant.com/dune-2020-remake-fear-mind-killer-meaning/"
+          },
+          {
+            "title": "Fear is the Mind Killer: Bene Gesserit Litany against Fear",
+            "url": "https://www.tiktok.com/@chrisnaturallyrp/video/7345486920740359456"
+          },
+          {
+            "title": "Amazon.com: Dune Fear Is the Mind Killer Quote Lady Jessica Paul Atreides Black Official Merchandise 2021 Movie Merch Denis Villeneuve Film Frank Herbert Book Series Cool Wall Art Print Poster 12x18: Posters & Prints",
+            "url": "https://www.amazon.com/Atreides-Official-Merchandise-Villeneuve-Poster/dp/B09L2DV5FG"
+          },
+          {
+            "title": "Amazon.com: Dune Fear Is the Mind Killer Quote Lady Jessica Paul Atreides White Official Merchandise 2021 Movie Merch Denis Villeneuve Film Frank Herbert Book Series Cool Wall Art Print Poster 24x36: Posters & Prints",
+            "url": "https://www.amazon.com/Atreides-Official-Merchandise-Villeneuve-Poster/dp/B09L9NYH5W"
+          },
+          {
+            "title": "Dune (TV Mini Series 2000) - Alec Newman as Muad'Dib, Paul Atreides - IMDb",
+            "url": "https://www.imdb.com/title/tt0142032/characters/nm0627995/"
+          },
+          {
+            "title": "The 20 Best Dune Quotes",
+            "url": "https://bookroo.com/quotes/dune"
+          }
+        ]
+      },
+      "Based on your search query about Dune quotes, TikTok memes, and \"fear is the mind killer\" on social media, I found several relevant results showing how this famous quote has gained viral popularity on social platforms.\n\n## TikTok Viral Presence\n\nThe \"fear is the mind killer\" quote has gained significant traction on TikTok with 2.2M posts related to it. Popular hashtags and content themes include \"Fear Is The Mindkiller Quote,\" \"Fear Is The Mindkiller Tattoo,\" and \"Dune Fear Is The Mindkiller Quote\".\n\nThe quote appears in various TikTok content formats, from aesthetic edits featuring Paul Atreides and Timoth\u00e9e Chalamet to spiritual and motivational content. Content creators are using the quote in different contexts beyond just Dune references.\n\n## Original Context and Meaning\n\nThe \"fear is the mind killer\" line comes from the Litany Against Fear, spoken by highly educated people who faced danger during their everyday lives to help focus their minds in times of peril. Paul Atreides uses the Litany when tested by Reverend Mother Mohiam, helping him withstand excruciating pain.\n\nThe complete litany reads: \"Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past, I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain.\"\n\n## Social Media Impact\n\n\"Fear is the mind-killer\" is described as one of the most iconic lines from Dune, with Paul whispering this line in the first Dune trailer. The quote's philosophical depth has resonated with audiences beyond science fiction fans.\n\nThe litany has also appeared in various forms of media and music, including Australian artist Zheani Sparkes' 2018 EP and Jesse Welles' 2024 album, showing its broader cultural influence.\n\nThe viral nature of this quote on platforms like TikTok demonstrates how classic science fiction literature continues to find new audiences and interpretations in the digital age, with users applying its wisdom about overcoming fear to contemporary challenges and personal growth content."
+    ],
+    "durationSeconds": 20.810699826000025
+  }
+}

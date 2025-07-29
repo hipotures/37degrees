@@ -1,0 +1,21 @@
+{
+  "session_id": "0487d7f4-1250-4bb6-867a-a71d253cfc4f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0487d7f4-1250-4bb6-867a-a71d253cfc4f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Dune\" \"mental health\" \"Gen Z\" \"young readers\" \"anxiety\" therapy"
+  },
+  "tool_response": {
+    "query": "\"Dune\" \"mental health\" \"Gen Z\" \"young readers\" \"anxiety\" therapy",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01N6mRoawCHtkmB43vwxvZ5q",
+        "content": []
+      },
+      "I completed the web search for your query about Dune, mental health, Gen Z, young readers, anxiety, and therapy. However, the search didn't return any visible results to show you. This could be because:\n\n1. The combination of terms in quotes was too specific and didn't match any published content exactly\n2. There may not be widely available articles that specifically discuss all these topics together\n3. The search may have encountered technical issues\n\nWould you like me to try a broader search approach, such as searching for \"Dune mental health Gen Z\" without all the quoted terms, or would you prefer to modify the search query in some other way?"
+    ],
+    "durationSeconds": 8.223873120000004
+  }
+}

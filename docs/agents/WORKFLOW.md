@@ -17,12 +17,18 @@ VERIFY these conditions before starting:
 ## STEP 1: Initialize Agent Session
 
 <instructions>
-1.1. DETERMINE agent name from FILE TODO filename
-1.2. READ book.yaml to extract book metadata:
-     - title
-     - author  
-     - year
-1.3. CREATE search data directory if missing: docs/37d-[agent-name]/
+1.0. PARSE Agent context JSON from prompt:
+     - EXTRACT JSON block marked as "Agent context:" from the prompt
+     - PARSE JSON to get: agent_name, book_title, author, year, todo_file
+     - SAVE complete Agent context JSON to /tmp/agent-context-[timestamp]-[pid].txt for debugging
+     - USE parsed values for subsequent workflow steps
+
+1.1. DETERMINE agent name from parsed agent_name field (or fallback to FILE TODO filename)
+1.2. READ book.yaml to extract book metadata (verify against parsed context):
+     - title (should match book_title from context)
+     - author (should match author from context) 
+     - year (should match year from context)
+1.3. VERIFY search_history/ directory exists (created by prepare-book-folders.sh)
 </instructions>
 
 <error-handling>
@@ -95,7 +101,7 @@ DEFAULT BEHAVIOR:
 </search-strategy>
 
 NOTE: The 37d-save-search.py hook automatically saves all WebSearch/WebFetch 
-results to docs/37d-[agent-name]/ as timestamped JSON files.
+results to search_history/ as timestamped JSON files.
 
 </workflow>
 

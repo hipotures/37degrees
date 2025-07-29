@@ -1,0 +1,62 @@
+{
+  "session_id": "7529e71f-d379-4299-9734-0e831fc05ee8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7529e71f-d379-4299-9734-0e831fc05ee8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Diuna\" lektura szkolna obowi\u0105zkowa MEN podstawa programowa"
+  },
+  "tool_response": {
+    "query": "\"Diuna\" lektura szkolna obowi\u0105zkowa MEN podstawa programowa",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01MTDovX7HXcEUht9qrnEZj8",
+        "content": [
+          {
+            "title": "Diuna \u2013 powie\u015b\u0107 Franka Herberta - Agencja Skrivanek",
+            "url": "https://skrivanek.pl/diuna-powiesc-franka-herberta/"
+          },
+          {
+            "title": "Diuna \u2013 co warto wiedzie\u0107 i w jakiej kolejno\u015bci czyta\u0107? - blog Virtualo.pl",
+            "url": "https://virtualo.pl/blog/diuna-co-warto-wiedziec-i-w-jakiej-kolejnosci-czytac-w409/"
+          },
+          {
+            "title": "Seria Diuna | ksi\u0119garnia TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/seria/diuna"
+          },
+          {
+            "title": "Lista lektur szkolnych jakie fantasy, sci-fi czy krymina\u0142y mog\u0142yby si\u0119 tam znale\u017a\u0107?",
+            "url": "https://rozrywka.spidersweb.pl/lektury-szkolne-polska-alternatywna-lista-fantasy-science-fiction-kryminal"
+          },
+          {
+            "title": "Diuna: Przewodnik | Sigvatr's Blog",
+            "url": "https://sigvatrblog.wordpress.com/2013/05/06/diuna-przewodnik/"
+          },
+          {
+            "title": "Lektury szkolne - Klasa 4, 5, 6, 7, 8 - Szko\u0142a podstawowa | ksi\u0119garnia internetowa TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/lektury-szkolne-klasa-4-5-6-7-8-szkola-podstawowa-c-13783_13784_13786.html"
+          },
+          {
+            "title": "\"Diuna\" - w jakiej kolejno\u015bci czyta\u0107 i ogl\u0105da\u0107? Blog Gandalf.com.pl",
+            "url": "https://www.gandalf.com.pl/blog/w-jakiej-kolejnosci-czytac-diune-franka-herberta-i-jej-kontynuacje/"
+          },
+          {
+            "title": "Ile klasy w klasyku: \u201eDiuna\u201d | Aktualno\u015bci | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/aktualnosci/16161/ile-klasy-w-klasyku-diuna"
+          },
+          {
+            "title": "O czym jest Diuna? Ciekawostki o ksi\u0105\u017cce i filmie | Woblink blog",
+            "url": "https://woblink.com/blog/czego-jeszcze-nie-wiesz-o-diunie-a-powinienes/"
+          },
+          {
+            "title": "Diuna \u2013 jaka jest kolejno\u015b\u0107 czytania? | Smyk.com",
+            "url": "https://www.smyk.com/porady/diuna-jaka-jest-kolejnosc-czytania-ile-jest-ksiazek,14053.html"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about \"Diuna\" (Dune) as school reading in Poland according to the MEN (Ministry of National Education) curriculum guidelines:\n\nThe search results show that \"Diuna\" Franka Herberta is suggested as an ideal sci-fi reading for teenagers, with the main character being a young hero that teenagers can easily identify with, functioning in a complex and fascinating world that's close enough to ours to tell us something interesting about our future. Frank Herbert was a specialist in topics like religious fanaticism, abuse of natural resources, and development of technologies supporting human development - issues that are definitely topical today.\n\nHowever, the search results do not contain specific information about \"Diuna\" being officially included as mandatory reading (lektura obowi\u0105zkowa) in the current MEN curriculum framework (podstawa programowa). The search results show various school reading lists and discussions about school literature, but none specifically confirm \"Diuna\" as an official mandatory reading in the Polish educational system.\n\n\"Diuna\" is described as \"mandatory reading for every SF fan\", but this appears to be a recommendation for genre enthusiasts rather than an official school curriculum requirement.  \n\n\"Diuna\" is referred to as \"mandatory reading for every self-respecting geek or nerd\", again emphasizing its importance for fans of the genre rather than as official school curriculum.\n\nThe search results primarily discuss \"Diuna\" as a classic work of science fiction literature, its publication history in Poland, reading order for the series, and its cultural significance, but do not provide evidence of its inclusion in the official MEN podstawa programowa as mandatory school reading."
+    ],
+    "durationSeconds": 18.39040707700001
+  }
+}

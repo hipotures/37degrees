@@ -1,0 +1,62 @@
+{
+  "session_id": "7529e71f-d379-4299-9734-0e831fc05ee8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7529e71f-d379-4299-9734-0e831fc05ee8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Dune merchandise 2021 2024 action figures board games fashion collaborations collector items official licensed"
+  },
+  "tool_response": {
+    "query": "Dune merchandise 2021 2024 action figures board games fashion collaborations collector items official licensed",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_013tjbY1fTRMi49NBM2J8JKq",
+        "content": [
+          {
+            "title": "Best Dune Merch Online 2024: Toys, Collectibles, Find ...",
+            "url": "https://variety.com/2024/shopping/news/best-dune-merch-toys-games-1235928906/"
+          },
+          {
+            "title": "Legendary Entertainment Reveal 'Dune ...",
+            "url": "https://www.licenseglobal.com/entertainment/legendary-entertainment-reveal-dune-consumer-product-partners"
+          },
+          {
+            "title": "Amazon.com: Dune Merchandise",
+            "url": "https://www.amazon.com/dune-merchandise/s?k=dune+merchandise"
+          },
+          {
+            "title": "Dune 2021 - Collectors of Dune",
+            "url": "https://duneinfo.com/collectors-of-dune/dune-2021"
+          },
+          {
+            "title": "Dune Merchandise and Gifts - Officially licensed - Merchoid",
+            "url": "https://www.merchoid.com/brand/dune/"
+          },
+          {
+            "title": "Dune Action Figures, Statues, Collectibles, and More!",
+            "url": "https://www.bigbadtoystore.com/Search?Brand=18175"
+          },
+          {
+            "title": "Elevate Your Dune Collection With These 12 Best Merch Ideas",
+            "url": "https://gamerant.com/elevate-your-dune-collection-with-the-12-best-merch-ideas/"
+          },
+          {
+            "title": "AUGTOYS - 1/6 Dune Action Figures (Licensed) | Collector Freaks Collectibles Forum",
+            "url": "https://www.collectorfreaks.com/threads/augtoys-1-6-dune-action-figures-licensed.243811/"
+          },
+          {
+            "title": "Movies - Dune - McFarlane Toys Store",
+            "url": "https://mcfarlanetoysstore.com/movies/dune/"
+          },
+          {
+            "title": "Dune",
+            "url": "https://shop.legendary.com/pages/dune"
+          }
+        ]
+      },
+      "Based on my search, here's what I found about Dune merchandise between 2021-2024, covering action figures, board games, fashion collaborations, and collector items:\n\n## Action Figures & Collectibles\n\nAUGTOYS announced today that they have the licence to produce 1/6 figures for Dune.(no content)AUG TOYS has created a 31cm tall doll with more than 30 movable joints based on the shape and proportions of Paul Atreides in the Dune movie, which perfectly reproduces Paul's body shape. Meanwhile, the AUG TOYS production team restores the formal dress of Paul Atreides in House Atreides in 1:6 scale according to the texture, material, and line proportion of the movie costume.(no content)Prime 1 Studio proudly presents this stunning 21-inch tall statue in splendid collaboration with Blitzway! Paul Atreides stands in the open desert, looking towards his uncertain future in this new world. McFarlane Toys also produces Dune figures through their official store.\n\n## Board Games & Gaming\n\nGale Force Nine, partnering with Genuine Entertainment and various publishers, is offering several \"Dune\" tabletop games.(no content)The Dune: Adventures in the Imperium roleplaying game projects the player into an unexpectedly fantastic world. Each participant can build a House or rebuild an ancient lineage and fight for the throne.\n\n## Fashion Collaborations\n\nHigh-end casual couture brand Demobaza has lent its signature minimalist and futuristic styling to a capsule collection of looks inspired by the film. APL's exclusive line of athletic footwear takes design and color inspiration from the different factions highlighted in \"Dune\" \u2013 House Atreides, House Harkonnen and the Fremen. Eyewear brand Illesteva is launching a similarly inspired line of sunglasses handmade in Italy and France, while avant-garde accessories designer Chris Habana has crafted a collection of \"Dune\"-inspired jewelry items that are both high-fashion and wearable.\n\n## Official Licensed Merchandise\n\nCategories of \"Dune\" merchandise include video games, fashion collaborations, toys and collectibles, publishing and more.(no content)Mad Engine is creating a wide range of products for mass retailers and ecommerce, while Redbubble will enable fans to put their own interpretation of Dune designs into the marketplace with fan-driven merchandise.(no content)This premium-quality replica features fold-out, flappable wings, deployable landing gear and an opening cockpit. The set also includes 8 iconic characters from the film: Paul Atreides, Lady Jessica, Gurney Halleck, Chani, Leto Atreides, Liet Kynes, Duncan Idaho and Baron Harkonnen in his long robe.\n\n## Notable Collector Items\n\nThe viral \"Dune\" popcorn bucket is only available at AMC Theaters but savvy sellers have made it available to buy online. It's available on eBay from $59 and on Etsy for over $100 so it's not cheap, but think of it as a collectible that you can talk about for years.(no content)Dark Horse Direct, in partnership with Legendary Entertainment, is proud to present the Dune: Sandworm Bookends! Based on the giant sandworms from the highly anticipated new film of the iconic science fiction epic, Dune, these bookends will have you watching your walking pattern over the sands of Arrakis.\n\nThe merchandise spans from high-end collectibles like Prime 1 Studio statues to mass-market items, with official licensing partnerships ensuring authentic products across multiple categories."
+    ],
+    "durationSeconds": 32.88595795100008
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "session_id": "7529e71f-d379-4299-9734-0e831fc05ee8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7529e71f-d379-4299-9734-0e831fc05ee8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Dune fan communities Reddit r/dune Discord servers conventions cosplay trends fan meetups"
+  },
+  "tool_response": {
+    "query": "Dune fan communities Reddit r/dune Discord servers conventions cosplay trends fan meetups",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01NGrFdZ9iS69WF8NUSGiZNf",
+        "content": [
+          {
+            "title": "Community - Dune: Awakening Community Wiki",
+            "url": "https://awakening.wiki/Community"
+          },
+          {
+            "title": "Dune Awakening RP | DISBOARD: Discord Server List",
+            "url": "https://disboard.org/server/1345589026270220289"
+          },
+          {
+            "title": "Discord servers tagged with dune | DISBOARD",
+            "url": "https://disboard.org/servers/tag/dune"
+          },
+          {
+            "title": "Dune \u2013 Discord.Do",
+            "url": "https://discord.do/dune/"
+          },
+          {
+            "title": "Join the Dune Discord Server!",
+            "url": "https://discord.com/invite/dune"
+          },
+          {
+            "title": "Join the Dune: Awakening Discord Server!",
+            "url": "https://discord.com/invite/duneawakening"
+          },
+          {
+            "title": "Communinet Signal #4 \u00bb Dune: Awakening",
+            "url": "https://duneawakening.com/news/communinet-signal-4/"
+          },
+          {
+            "title": "Dune Discord Servers | The #1 Discord Server List",
+            "url": "https://top.gg/discord/servers/tag/dune"
+          },
+          {
+            "title": "Dune: Awakening",
+            "url": "https://duneawakening.com/"
+          },
+          {
+            "title": "Dune. It's a game i wish to play - General Discussion - Funcom Forums",
+            "url": "https://forums.funcom.com/t/dune-its-a-game-i-wish-to-play/252192"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with information about Dune fan communities across various platforms:\n\n## Reddit Communities\n\nThe main Dune Discord server has official connections with the r/dune and r/dunememes subreddits, indicating active Reddit communities for Dune fans. Additionally, r/duneawakening is managed by fans, in communication with Funcom staff for the upcoming game.\n\n## Discord Servers\n\nThe Dune fan community has several active Discord servers:\n\n**Main Dune Discord**: Dune Discord attempts to be the perfect Discord community for every Dune fan. They are the largest fan-run Dune community on Discord, with 12,367 members. The server is friendly and open to all who are interested in the world of Frank Herbert's Dune, whether that be the books, movies, games, or any other related media.\n\n**Dune: Awakening Official**: The official Discord server for Dune: Awakening, a multiplayer survival game set on an open world Arrakis with 251,701 members.\n\n**Specialized Communities**: There are also multilingual Discord servers and roleplay-focused servers like Dune Awakening RP with 1,275 total members.\n\n## Conventions and Events\n\nThe Dune: Awakening team attended Dreamhack Stockholm, with Magnus (Senior PR and Events Manager), Ignasi (Community Manager) and Tomek (Senior Influencer Manager) meeting with fans, industry friends and content creators.\n\n## Cosplay Community\n\nThe search reveals an active cosplay community around Dune:\n\n- The cosplay community is described as very welcoming, with cosplayers meeting hundreds of incredible friends all over the world\n- Cosplayer Yuji joined events at Gamescom 2024 and Dreamhack Stockholm, showing off her stillsuit and taking pictures with fans\n- Professional cosplayer Anhyra won the best armor award at Blizzcon 21, which helped start her career as a professional costume maker\n\n## Fan Content and Engagement\n\nFans are encouraged to share fanart on the official Discord server under the #fanart channel, or use the #CommuninetSignal tag, and featured artists get access to the Dune: Awakening Closed Beta.\n\nThe Dune fan community appears to be thriving across multiple platforms, with particularly strong Discord communities, active Reddit participation, convention presence, and a welcoming cosplay scene."
+    ],
+    "durationSeconds": 17.815261793999934
+  }
+}

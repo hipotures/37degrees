@@ -1,0 +1,62 @@
+{
+  "session_id": "7529e71f-d379-4299-9734-0e831fc05ee8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7529e71f-d379-4299-9734-0e831fc05ee8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Lubimyczyta\u0107.pl\" \"Diuna\" Frank Herbert oceny recenzje statystyki"
+  },
+  "tool_response": {
+    "query": "\"Lubimyczyta\u0107.pl\" \"Diuna\" Frank Herbert oceny recenzje statystyki",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01QUDPmC8KCcFCZoK5AoZFaq",
+        "content": [
+          {
+            "title": "Diuna - Frank Herbert | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/4942534/diuna"
+          },
+          {
+            "title": "Seria Diuna | ksi\u0119garnia TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/seria/diuna"
+          },
+          {
+            "title": "Mesjasz Diuny - Frank Herbert | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/5114513/mesjasz-diuny"
+          },
+          {
+            "title": "Dune - Frank Herbert | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/4915954/dune"
+          },
+          {
+            "title": "Diuna. Mesjasz Diuny - Frank Herbert | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/100190/diuna-mesjasz-diuny"
+          },
+          {
+            "title": "Diuna. Kroniki Diuny. Tom 1 - Frank Herbert - Empik.com",
+            "url": "https://www.empik.com/diuna-tom-1-herbert-frank,p1240289314,ksiazka-p"
+          },
+          {
+            "title": "Frank Herbert \u201eDiuna\u201d \u2013 recenzja ksi\u0105\u017cki - Filmozercy.com",
+            "url": "https://filmozercy.com/wpis/frank-herbert-diuna-recenzja-ksiazki"
+          },
+          {
+            "title": "Recenzja ksi\u0105\u017cki Diuna \u2022 Herbert Frank \u2022 opinie, oceny \u00bb BiblioNETka.pl",
+            "url": "https://www.biblionetka.pl/art.aspx?id=524278"
+          },
+          {
+            "title": "Diuna - Ceny i opinie - Ceneo.pl",
+            "url": "https://www.ceneo.pl/528076"
+          },
+          {
+            "title": "Frank Herbert | Autor: Wszystkie ksi\u0105\u017cki, wywiady, artyku\u0142y | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/autor/3481/frank-herbert"
+          }
+        ]
+      },
+      "Based on the search results from Lubimyczyta\u0107.pl regarding \"Diuna\" by Frank Herbert, here are the key ratings, reviews, and statistics:\n\n## Oceny (Ratings) na Lubimyczyta\u0107.pl:\n\n\u015arednie oceny r\u00f3\u017cnych wyda\u0144 \"Diuny\" na portalu wahaj\u0105 si\u0119 od 7,5 do 8,3, z czego:\n- Powie\u015b\u0107 graficzna \"Diuna. Ksi\u0105\u017cka do kolorowania\" otrzyma\u0142a ocen\u0119 8,3\n- Powie\u015b\u0107 graficzna \"Diuna. Ksi\u0119ga 3. Prorok\" ma ocen\u0119 7,5\n\n## Opinie i recenzje czytelnik\u00f3w:\n\n### Pozytywne aspekty:\n- \"Diuna\" Franka Herberta jest uznawana za powie\u015b\u0107 prze\u0142omow\u0105 i nadano jej miano arcydzie\u0142a literatury sci-fi. W 100% rozumiem zachwyt nad t\u0105 ksi\u0105\u017ck\u0105 i jej fenomen\n- Cudowna, chocia\u017c ma swoje mankamenty. Ale \u015bwiat jest genialny. Doskona\u0142e sprawy polityczne i religijne\n- \u015amia\u0142o mo\u017cna stwierdzi\u0107, i\u017c dzie\u0142o Franka Herberta dawno zyska\u0142o ju\u017c status kultowego, a po wydan\u0105 w 1965 roku powie\u015b\u0107 si\u0119gaj\u0105 kolejne pokolenia czytelnik\u00f3w\n\n### Krytyczne uwagi:\n- Bardziej to o \u015bwiecie ni\u017c o bohaterach\n- Diuna niestety nie przypad\u0142a mi do gustu. Mo\u017cliwe, \u017ce to wina tego, \u017ce nie mia\u0142am czasu na czytanie, przez co d\u0142ugo si\u0119 z ni\u0105 m\u0119czy\u0142am\n\n## Statystyki dotycz\u0105ce serii:\n\nWydawnictwo: Rebis, Cykl: Kroniki Diuny (tom 1), Ekranizacje: Diuna (1984) Diuna cz\u0119\u015b\u0107 1 (2021) Diuna cz\u0119\u015b\u0107 2 (2024)(no content)Pocz\u0105tkowo drukowana w czasopi\u015bmie \"Analog Science Fact and Fiction\" w latach 1963-1965, wydania ksi\u0105\u017ckowego doczeka\u0142a si\u0119 w 1965 roku, zdobywaj\u0105c uznanie czytelnik\u00f3w i krytyk\u00f3w, kt\u00f3rzy uhonorowali j\u0105 nagrodami Hugo i Nebula\n\n## Sequel - \"Mesjasz Diuny\":\nChocia\u017c \"Mesjasz Diuny\" jest co najmniej dobr\u0105 po\u0142ow\u0119 kr\u00f3tszy ni\u017c poprzedni tom i brakuje mu tej epicko\u015bci \"Diuny\", to ja bym powiedzia\u0142a \u017ce niemal dor\u00f3wnuje mu \u015bwietno\u015bci\u0105\n\nPortal Lubimyczyta\u0107.pl prezentuje \"Diun\u0119\" jako kultowe dzie\u0142o science fiction z solidnymi ocenami, chocia\u017c opinie czytelnik\u00f3w s\u0105 podzielone - od pe\u0142nego zachwytu po bardziej krytyczne podej\u015bcie do tempa narracji i skupienia na worldbuildingu kosztem rozwoju postaci."
+    ],
+    "durationSeconds": 27.154884623999997
+  }
+}

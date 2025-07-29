@@ -1,0 +1,62 @@
+{
+  "session_id": "7b55c4df-37c7-40ba-a24e-add57974ae65",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7b55c4df-37c7-40ba-a24e-add57974ae65.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Dune 1984 David Lynch film box office total critical reception Rotten Tomatoes IMDb"
+  },
+  "tool_response": {
+    "query": "Dune 1984 David Lynch film box office total critical reception Rotten Tomatoes IMDb",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01JoGt55zw3oM6j1BJhaK5MU",
+        "content": [
+          {
+            "title": "Dune (1984 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dune_(1984_film)"
+          },
+          {
+            "title": "Dune (1984) | Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/m/dune_1984"
+          },
+          {
+            "title": "Dune (1984 film)",
+            "url": "https://dune.fandom.com/wiki/Dune_(1984_film)"
+          },
+          {
+            "title": "All David Lynch Movies and Series, Ranked by Tomatometer | Rotten Tomatoes",
+            "url": "https://editorial.rottentomatoes.com/guide/david-lynch/"
+          },
+          {
+            "title": "Dune | Reviews | Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/m/dune_1984/reviews"
+          },
+          {
+            "title": "\"Rotten Tomatoes Is Wrong\" About... Dune (Both of Them)",
+            "url": "https://editorial.rottentomatoes.com/article/rotten-tomatoes-is-wrong-about-dune-both-of-them/"
+          },
+          {
+            "title": "Dune (1984) \u2b50 6.3 | Action, Adventure, Sci-Fi",
+            "url": "https://www.imdb.com/title/tt0087182/"
+          },
+          {
+            "title": "Dune (2021) | Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/m/dune_2021"
+          },
+          {
+            "title": "David Lynch's 1984 Dune Movie Is Controversial - Here's Why it Failed to Impress",
+            "url": "https://www.cbr.com/dune-1984-controversial-david-lynch/"
+          },
+          {
+            "title": "Dune (2021 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dune_(2021_film)"
+          }
+        ]
+      },
+      "Based on the search results, here's the information about David Lynch's 1984 Dune film regarding box office performance and critical reception:\n\n## Box Office Performance\n\nDune (1984) had a total domestic gross of $27.4 million, while its estimated budget was $42 million.(no content)The film grossed only $6,025,091 (USD) in its opening weekend and was pulled from theaters after only five weeks.(no content)Despite a respectable box office gross in Europe and Japan, the film was considered a financial failure.\n\n## Critical Reception\n\n### Rotten Tomatoes\nOn review aggregator Rotten Tomatoes, Dune has an approval rating of 36% based on 117 reviews, with an average score of 5.6/10.(no content)The site's critical consensus reads, \"This truncated adaptation of Frank Herbert's sci-fi masterwork is too dry to work as grand entertainment, but David Lynch's flair for the surreal gives it some spice.\"\n\n### Metacritic\nOn Metacritic, the film has a weighted average score of 41 out of 100 based on 20 critic reviews, indicating \"mixed or average\" reviews.\n\n### IMDb\nThe film has a 6.3/10 rating on IMDb and is categorized as Action, Adventure, Sci-Fi.\n\n## Critical Commentary\nDavid Lynch's 1984 version of Dune opened to scathing reviews and anemic box office.(no content)Critic Roger Ebert wrote \"This movie is a real mess, an incomprehensible, ugly, unstructured, pointless excursion into the murkier realms of one of th[e most challenging science fiction novels].\"\n\nHowever, the film's reputation has improved over the years, and it has earned a cult following thanks to its striking visuals and strong ensemble.(no content)As a result of its poor commercial and critical reception, all initial plans for Dune sequels were canceled.\n\nThe film was noted for its production difficulties, with Lynch ultimately denied the final cut of the film, and his four-hour version was reduced to two hours for the theatrical release, which had a huge impact on the film itself, starting with the massive loss of information that comes with such drastic cuts."
+    ],
+    "durationSeconds": 19.35071976899996
+  }
+}

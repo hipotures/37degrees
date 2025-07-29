@@ -1,0 +1,62 @@
+{
+  "session_id": "7529e71f-d379-4299-9734-0e831fc05ee8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7529e71f-d379-4299-9734-0e831fc05ee8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Dune trigger warnings violence drug use spice addiction religious extremism jihad content warnings young readers"
+  },
+  "tool_response": {
+    "query": "Dune trigger warnings violence drug use spice addiction religious extremism jihad content warnings young readers",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_0123iXM326K8d31fhu4TQTtj",
+        "content": [
+          {
+            "title": "\u201cDune: Part Two\u201d Should Be a Warning Against Extremism \u2014 Not a Violent Spectacle | Truthout",
+            "url": "https://truthout.org/articles/dune-part-two-should-be-a-warning-against-extremism-not-a-violent-spectacle/"
+          },
+          {
+            "title": "Reviews with content warning for Sexual assault - Dune | The StoryGraph",
+            "url": "https://app.thestorygraph.com/book_reviews/02b8f696-0f97-4ab7-bb40-bdc41df2a83b/content_warning/44"
+          },
+          {
+            "title": "Review of \"Dune\" - Good Books for Catholic Kids",
+            "url": "https://goodbooksforcatholickids.com/2020/04/27/review-of-dune/"
+          },
+          {
+            "title": "Content Warnings - Dune | The StoryGraph",
+            "url": "https://app.thestorygraph.com/books/b54c9caf-bc50-402e-a497-dbf5421f099f/content_warnings"
+          },
+          {
+            "title": "Reviews with content warning for Child abuse - Dune | The StoryGraph",
+            "url": "https://app.thestorygraph.com/book_reviews/9f2034e6-973a-4b56-be22-867c50fae736/content_warning/12"
+          },
+          {
+            "title": "Reviews with content warning for Sexual harassment - Dune | The StoryGraph",
+            "url": "https://app.thestorygraph.com/book_reviews/c2f11d58-ee0a-40c7-95e4-89aa774415df/content_warning/89"
+          },
+          {
+            "title": "Dune by Frank Herbert - Book Trigger Warnings",
+            "url": "https://booktriggerwarnings.com/Dune_by_Frank_Herbert"
+          },
+          {
+            "title": "Dune | Book Glug",
+            "url": "https://fanexpohq.com/the-fhq/book-glug-dune/"
+          },
+          {
+            "title": "Dune Movie Review | Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/dune"
+          },
+          {
+            "title": "Dune: The Butlerian Jihad - Wikipedia",
+            "url": "https://en.m.wikipedia.org/wiki/Dune:_The_Butlerian_Jihad"
+          }
+        ]
+      },
+      "Based on my search, here's what I found regarding trigger warnings and content warnings for Dune:\n\n## Content Warnings for Dune\n\n**Primary Content Warnings:**\n\nViolence, Death, War, Murder, Drug use, Addiction, Drug abuse are the most frequently cited content warnings for Dune.\n\n**Spice/Drug Content:**\nThe entire planetary system in the world of Dune is addicted to Spice, their drug of choice. Many are well aware of this fact, but choose addiction because they want the heightened senses and visions the Spice brings.(no content)Paul drinks the psychedelic Water of Life, a drug that grants him prescience.\n\n**Violence and Religious Extremism:**\nVisions of galactic jihad terrify, and in the third book, the Fremen people's revolution grows into a galactic holy war that kills 61 billion people and sterilizes whole planets.(no content)The warning against fanaticism at Dune: Part Two's core \u2014 about how lies can become a source of power and a just struggle can transform into bloodthirsty slaughter is a central theme.\n\n**Comprehensive Content Warning List:**\nViolence (137), Death (122), War (114), Death of parent (106), Murder (72), Colonisation (47), Drug use (47), Fatphobia (37), Child death (25), Grief (24), Addiction (24), Misogyny (23), Pedophilia (22), Genocide (21), Slavery (19), Sexism (19), Blood (18), Pregnancy (17), Torture (16), Classism (14)\n\n**Age Appropriateness:**\nDune is considered readable for ages 12+. The book includes heavy themes such as violence, death, sex, and physical assault\n\n**Parental Concerns:**\nAs a parent, I found several concerning aspects with this book on multiple levels. One reviewer noted Content Warnings: Implied S/A and pedophilia. Violence, but compared to some other things I've read, it's not SUPER graphic\n\nThe search results indicate that Dune contains significant content that may require warnings for violence, drug use/addiction (spice), religious extremism, and themes of jihad, making it important for readers to be aware of these elements before reading."
+    ],
+    "durationSeconds": 24.43936443800002
+  }
+}

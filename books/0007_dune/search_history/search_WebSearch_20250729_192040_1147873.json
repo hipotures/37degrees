@@ -1,0 +1,131 @@
+{
+  "session_id": "7529e71f-d379-4299-9734-0e831fc05ee8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7529e71f-d379-4299-9734-0e831fc05ee8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Diuna\" BookTube polski TikTok BookTok m\u0142odzie\u017c studenci"
+  },
+  "tool_response": {
+    "query": "\"Diuna\" BookTube polski TikTok BookTok m\u0142odzie\u017c studenci",
+    "results": [
+      "I'll perform a web search for that query about \"Diuna\" (Dune) in Polish BookTube and BookTok content related to youth and students.",
+      {
+        "tool_use_id": "srvtoolu_01Kko4GoPkUuu8CNT2PGYVFd",
+        "content": [
+          {
+            "title": "Seria Diuna | ksi\u0119garnia TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/seria/diuna"
+          },
+          {
+            "title": "Diuna - Audiobook - Frank Herbert - Dom Wydawniczy REBIS Sp. z o.o. | Audioteka",
+            "url": "https://audioteka.com/pl/audiobook/diuna/"
+          },
+          {
+            "title": "Diuna - Frank Herbert | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/4942534/diuna"
+          },
+          {
+            "title": "Kroniki Diuny. Diuna - Frank Herbert - ebook + audiobook - Legimi online",
+            "url": "https://www.legimi.pl/ebook-kroniki-diuny-diuna-frank-herbert,b620057.html"
+          }
+        ]
+      },
+      "Based on the search results, I can see information about \"Diuna\" (Dune) in Polish, but the results don't specifically mention BookTube, TikTok/BookTok content or young adult/student engagement with the series. Let me search more specifically for Polish BookTok and BookTube content about Dune.",
+      {
+        "tool_use_id": "srvtoolu_01KxwrJLvnVbHs4auNeY58E6",
+        "content": [
+          {
+            "title": "TikTok i ksi\u0105\u017cki, czyli co to jest booktok? - CZYTAM - Empik Pasje",
+            "url": "https://www.empik.com/pasje/tiktok-i-ksiazki-czyli-co-to-jest-booktok,135027,a"
+          },
+          {
+            "title": "TOP 5 ksi\u0105\u017ckar, kt\u00f3re podbijaj\u0105 polski BookTok - Going. MORE - muzyka, kultura, lifestyle",
+            "url": "https://goingapp.pl/more/booktok-ksiazkary-tiktok/"
+          },
+          {
+            "title": "Ksi\u0105\u017cki - BookTok | Ksi\u0119garnia Internetowa Gandalf",
+            "url": "https://www.gandalf.com.pl/k/booktok/"
+          },
+          {
+            "title": "Tak si\u0119 promuje teraz ksi\u0105\u017cki! TikTok, a w\u0142a\u015bciwie BookTok, czyli o nowym fenomenie w promocji czytelnictwa | G\u0142os Wielkopolski",
+            "url": "https://gloswielkopolski.pl/tak-sie-promuje-teraz-ksiazki-tiktok-a-wlasciwie-booktok-czyli-o-nowym-fenomenie-w-promocji-czytelnictwa/ar/c13-18371465"
+          },
+          {
+            "title": "diuna book\uff5cTikTok Search",
+            "url": "https://www.tiktok.com/discover/diuna-book"
+          },
+          {
+            "title": "BookTok \u2013 ksi\u0105\u017ckowy sza\u0142 z TikToka. Te tytu\u0142y wybuch\u0142y dzi\u0119ki trendom!",
+            "url": "https://audioteka.com/pl/blog/booktok-ksiazkowy-szal-z-tiktoka-te-tytuly-wybuchly-dzieki-trendom"
+          },
+          {
+            "title": "Te ksi\u0105\u017cki zrobi\u0142y furor\u0119 na Tik Toku! Warte rozg\u0142osu? | Aktualno\u015bci | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/ksiazkowe-hity-tiktoka-masz-je-w-swojej-biblioteczce"
+          },
+          {
+            "title": "\u201eBookTok kaza\u0142 mi to przeczyta\u0107\u201d",
+            "url": "https://krytykapolityczna.pl/kultura/czytaj-dalej/magdalena-adamus-booktok-co-czytaja-nastolatki/"
+          },
+          {
+            "title": "TikTok - Make Your Day",
+            "url": "https://www.tiktok.com/tag/ksi\u0105\u017cki"
+          },
+          {
+            "title": "Te ksi\u0105\u017cki otrzymaj\u0105 adaptacje. Kojarzycie je z TikToka",
+            "url": "https://naekranie.pl/aktualnosci/ksiazki-tiktok-booktok-adaptacja-film-serial-lista-1749215970"
+          }
+        ]
+      },
+      "Let me search more specifically for Polish BookTube content about Dune:",
+      {
+        "tool_use_id": "srvtoolu_01PJsoX6DULuGCEppyxWmcW7",
+        "content": [
+          {
+            "title": "BookTube, czyli o ksi\u0105\u017ckach na Youtube - nakanapie.pl",
+            "url": "https://nakanapie.pl/a/booktube-czyli-o-ksiazkach-na-youtube"
+          },
+          {
+            "title": "Polski BookTube, czyli 11 kana\u0142\u00f3w YT dla mi\u0142o\u015bnik\u00f3w ksi\u0105\u017cek - Telekamery 2024",
+            "url": "https://telekamery.pl/polski-booktube-czyli-11-kanalow-yt-dla-milosnikow-ksiazek/"
+          },
+          {
+            "title": "Kana\u0142y o ksi\u0105\u017ckach na Youtube. 10 najciekawszych [LISTA]",
+            "url": "https://natemat.pl/338083,kanaly-o-ksiazkach-na-youtube-lista"
+          },
+          {
+            "title": "Ulubione kana\u0142y na polskim BookTube",
+            "url": "http://lazybookday.cba.pl/2018/12/14/ulubione-kanaly-na-polskim-booktube/"
+          },
+          {
+            "title": "Diuna - Frank Herbert | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/4942534/diuna"
+          },
+          {
+            "title": "TOP 5: Booktubers, czyli recenzje w formie video | Z\u0142odziejka Ksi\u0105\u017cek",
+            "url": "http://zlodziejka-ksiazek.blogspot.com/2015/01/top-5-booktubers-czyli-recenzje-w.html"
+          },
+          {
+            "title": "polski booktube \u2013 Wielki Buk",
+            "url": "https://wielkibuk.com/tag/polski-booktube/"
+          },
+          {
+            "title": "Diuna - Audiobook - Frank Herbert - Dom Wydawniczy REBIS Sp. z o.o. | Audioteka",
+            "url": "https://audioteka.com/pl/audiobook/diuna/"
+          },
+          {
+            "title": "Klasyka science-fiction - Recenzja ksi\u0105\u017cki Diuna - nakanapie.pl",
+            "url": "https://nakanapie.pl/recenzje/klasyka-science-fiction-diuna"
+          },
+          {
+            "title": "Diuna (2021). Premiera, recenzje, obsada i zwiastuny \u2013 Geex",
+            "url": "https://geex.x-kom.pl/lifestyle/diuna-film-denis-villeneuve-premiera-recenzje-obsada/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with information about the query you searched for. Here's what I found:\n\n## BookTok (TikTok) and Dune in Poland\n\nThe Polish BookTok community exists on TikTok as a space where book readers create content to discuss books and promote reading. While the search didn't reveal specific BookTok content exclusively about \"Diuna\" (Dune) targeting young people and students, there are some relevant findings:\n\n### Polish BookTok Content About Dune\n\nFrom TikTok search results, there is evidence of Polish BookTok content featuring Dune:\n- Polish BookTokers have created content about Dune, with posts showing hashtags like #booktokpoland, #booktokpolska, and mentions of falling in love with the book\n- Polish users discuss Dune on BookTok, with some calling it \"a higher level\" and praising both the book and film\n\n### Polish BookTok Characteristics\n\nBookTok promotes reading often among teenagers and youth, who eagerly reach for Young Adult literature. The most popular genres on Polish BookTok are Young Adult and New Adult, which generate heated discussions in comments.\n\nResearch shows that every second person using TikTok in Poland admits to buying a book they learned about through the app. The Polish BookTok hashtag #booktokpolska has over 420 million views on TikTok.\n\n### Polish BookTube Scene\n\nRegarding BookTube (YouTube book content), there is a well-developed Polish BookTube community with various channels covering different types of literature. However, the search didn't reveal specific BookTube content about Dune targeting students and youth.\n\nPopular Polish BookTube channels mentioned include:\n- Wielki Buk, run by literature scholar Olga Kowalska since 2012\n- GetBooky (Zaksi\u0105\u017ckowane), run by two sisters who comment on publishing series and review books\n- Various other channels covering different literary genres and audiences\n\nWhile Dune is clearly popular in Poland and there is evidence of Polish BookTok engagement with the series, the search didn't uncover extensive specific content targeting young people and students exclusively about Dune on these platforms."
+    ],
+    "durationSeconds": 34.758317095
+  }
+}

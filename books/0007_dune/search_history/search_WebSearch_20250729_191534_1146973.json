@@ -1,0 +1,62 @@
+{
+  "session_id": "7529e71f-d379-4299-9734-0e831fc05ee8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7529e71f-d379-4299-9734-0e831fc05ee8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Dune film adaptations complete list Lynch 1984 Villeneuve 2021 2024 box office critical reception"
+  },
+  "tool_response": {
+    "query": "Dune film adaptations complete list Lynch 1984 Villeneuve 2021 2024 box office critical reception",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01KfVNu3xCQtBacg3WgSFthW",
+        "content": [
+          {
+            "title": "Ranking All The Dune Adaptations",
+            "url": "https://screenrant.com/dune-all-movie-versions-ranked-imdb/"
+          },
+          {
+            "title": "Dune (2021 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dune_(2021_film)"
+          },
+          {
+            "title": "How Dune 2021 Compares to David Lynch's 1984 Film",
+            "url": "https://www.cbr.com/dune-2021-1984-comparison/"
+          },
+          {
+            "title": "Dune: 15 Biggest Differences Between The David Lynch & Denis Velleneuve Versions",
+            "url": "https://screenrant.com/dune-biggest-differences-denis-villeneuve-david-lynch-versions/"
+          },
+          {
+            "title": "The Entire History of Dune's Adaptation From Books to Movies",
+            "url": "https://bookswithmovies.com/adaptations/dune-adaptation-from-book-to-movie/"
+          },
+          {
+            "title": "The Biggest Differences Between The 1984 And 2021 Versions Of Dune",
+            "url": "https://www.thegamer.com/dune-1984-2021-movies-differences/"
+          },
+          {
+            "title": "David Lynch's 1984 Dune Movie Is Controversial - Here's Why it Failed to Impress",
+            "url": "https://www.cbr.com/dune-1984-controversial-david-lynch/"
+          },
+          {
+            "title": "Dune | film by Lynch [1984] | Britannica",
+            "url": "https://www.britannica.com/topic/Dune-film"
+          },
+          {
+            "title": "Why the 1984 Adaptation of Dune Bombed at the Box Office",
+            "url": "https://movieweb.com/dune-1984-box-office-bomb-why/"
+          },
+          {
+            "title": "'Dune': Why Hollywood keeps retelling the story and why ...",
+            "url": "https://www.cnn.com/2021/10/21/entertainment/dune-adaptations-history-lynch-villeneuve-cec/index.html"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with a comprehensive overview of Dune film adaptations, their box office performance, and critical reception:\n\n## Complete List of Major Dune Film Adaptations\n\n### 1. David Lynch's Dune (1984)\nThis was the first major theatrical adaptation of Frank Herbert's novel, directed by David Lynch and starring Kyle MacLachlan. The film was intended as a three-hour film but was cut to 137 minutes and was poorly received, with Lynch himself eventually disowning it.\n\n**Box Office Performance:**\nLynch's \"Dune\" was a commercial and critical disaster, making just $30.9 million at the domestic box office on a budget of $40 million. Throughout its domestic theatrical run, Lynch's film grossed approximately $30.9 million and never played in more than 975 theaters, in contrast to the 2021 adaptation which opened domestically in 4,125 theaters and grossed nearly $435 million worldwide.\n\n**Critical Reception:**\nThe Lynch version holds a rating of 45 percent on Rotten Tomatoes, and reviews at the time of its release were mostly far worse. It failed to recoup its production costs at the box office and was labeled a major cinematic disaster, so much so that Lynch reportedly refuses to discuss it in interviews. However, over time, Lynch's adaptation has developed a following who praise what it accomplished and cite the impressive visuals and unique tone as reasons to celebrate it.\n\n### 2. Frank Herbert's Dune (2000 TV Miniseries)\nFrank Herbert's Dune, a live-action miniseries produced by Richard P. Rubinstein and directed by John Harrison, aired on the Sci Fi Channel in 2000; it was a ratings hit and was generally better received than Lynch's film. A television miniseries aired in 2000, followed by another miniseries (2003), which covered the events in the second and third Dune books.\n\n### 3. Denis Villeneuve's Dune (2021)\nDune (titled onscreen as Dune: Part One) is a 2021 American epic space opera film directed and co-produced by Denis Villeneuve, who co-wrote the screenplay with Jon Spaihts and Eric Roth. It is the first of a two-part adaptation of the 1965 novel by Frank Herbert.\n\n**Box Office Performance:**\nDenis Villeneuve's new version of Dune has arrived to strong critical acclaim and robust box office. The film was a box office success.\n\n**Critical Reception:**\nThe new version currently holds an 83 percent rating on Rotten Tomatoes, with high praise for its ambition and visual scope. Denis Villeneuve's 2021 Dune adaptation is praised for successfully capturing the essence of Herbert's work with epic visuals and faithful storytelling.\n\n### 4. Dune: Part Two (2024)\nThe 2024 sequel to Denis Villeneuve's adaptation, Dune: Part Two, has soared beyond its sky-high expectations, quickly becoming a landmark in science fiction cinema. The epic saga continued with \"Dune: Part Two,\" released on March 1, 2024. Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family. Facing a choice between love and the fate of the universe, Paul must prevent a terrible future he alone can foresee.\n\n**Box Office Performance:**\nThe sequel grossed over $714 million globally, including a notable domestic opening weekend of $82.5 million.\n\n## Key Differences Between Adaptations\n\nThe biggest difference between the two adaptations is how much of the book each of them chose to adapt. To give the characters time to develop, and give you time to understand the complicated world, Villeneuve decided to slow things down and only adapt the first half of the book. Because of this, the structure of the story changed, with the climax placed much earlier, the emotional beats drawn out, and the ending unresolved.\n\nThe most basic flaw of Lynch's film is related to its basic construction, in terms of the illogical decision to try to fit the entirety of the Dune novel into a 137-minute theatrical cut. In comparison, Denis Villeneuve's first adaptation, which encompasses approximately half of the book, has a running time of 155 minutes, while Dune: Part Two has a running time of 165 minutes.\n\nThe search reveals that Villeneuve's approach of splitting the story across multiple films has proven more successful both critically and commercially compared to Lynch's attempt to compress the entire novel into a single film."
+    ],
+    "durationSeconds": 31.570719771999983
+  }
+}

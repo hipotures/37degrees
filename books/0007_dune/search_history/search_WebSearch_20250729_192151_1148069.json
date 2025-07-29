@@ -1,0 +1,18 @@
+{
+  "session_id": "7529e71f-d379-4299-9734-0e831fc05ee8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7529e71f-d379-4299-9734-0e831fc05ee8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Marek Marsza\u0142\" vs \"Jerzy \u0141ozi\u0144ski\" \"\u0141adys\u0142aw Jerzy\u0144ski\" t\u0142umaczenie Diuna por\u00f3wnanie"
+  },
+  "tool_response": {
+    "query": "\"Marek Marsza\u0142\" vs \"Jerzy \u0141ozi\u0144ski\" \"\u0141adys\u0142aw Jerzy\u0144ski\" t\u0142umaczenie Diuna por\u00f3wnanie",
+    "results": [
+      "Web search error: unavailable",
+      "I apologize, but the web search tool is currently unavailable. I'm unable to perform the search you requested for comparing the Polish translations of Dune by Marek Marsza\u0142 versus Jerzy \u0141ozi\u0144ski and \u0141adys\u0142aw Jerzy\u0144ski.\n\nIf you're interested in information about these different Polish translations of Frank Herbert's Dune, you might want to try searching directly on Polish literary websites, book forums, or databases that specialize in translation studies. You could also check Polish bookstores' websites or literary review sites that might have discussions comparing these different translation approaches.\n\nIs there anything else I can help you with that doesn't require a web search?"
+    ],
+    "durationSeconds": 12.273458333000075
+  }
+}

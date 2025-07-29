@@ -1,0 +1,62 @@
+{
+  "session_id": "7529e71f-d379-4299-9734-0e831fc05ee8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7529e71f-d379-4299-9734-0e831fc05ee8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Dune\" Hugo Award Nebula Award 1966 winners Frank Herbert science fiction awards"
+  },
+  "tool_response": {
+    "query": "\"Dune\" Hugo Award Nebula Award 1966 winners Frank Herbert science fiction awards",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_013ZMQCGwjTgtSYm39wSgrF8",
+        "content": [
+          {
+            "title": "1966 Hugo Awards | The Hugo Award",
+            "url": "https://www.thehugoawards.org/hugo-history/1966-hugo-awards/"
+          },
+          {
+            "title": "Awards | Dune Wiki | Fandom",
+            "url": "https://dune.fandom.com/wiki/Awards"
+          },
+          {
+            "title": "sfadb : Frank Herbert Awards",
+            "url": "https://www.sfadb.com/Frank_Herbert"
+          },
+          {
+            "title": "Nebula Award Winners",
+            "url": "https://www.biblio.com/awards/nebula-award/8"
+          },
+          {
+            "title": "Dune (novel) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dune_(novel)"
+          },
+          {
+            "title": "Nebula Award | Science Fiction, Fantasy, Literature | Britannica",
+            "url": "https://www.britannica.com/art/Nebula-Award"
+          },
+          {
+            "title": "24 Novels That Won Both the Hugo and Nebula Awards",
+            "url": "https://www.mentalfloss.com/posts/books-won-hugo-and-nebula-awards"
+          },
+          {
+            "title": "Dune - The Nebula Awards\u00ae",
+            "url": "https://nebulas.sfwa.org/nominated-work/dune/"
+          },
+          {
+            "title": "Hugo Award for Best Novel - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Hugo_Award_for_Best_Novel"
+          },
+          {
+            "title": "Frank Herbert - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Frank_Herbert"
+          }
+        ]
+      },
+      "Based on the search results, I can provide comprehensive information about Frank Herbert's \"Dune\" and its prestigious science fiction award victories in 1966:\n\n## Dune's Award Victories in 1966\n\nFrank Herbert's \"Dune\" tied with Roger Zelazny's \"This Immortal\" for the Hugo Award for Best Novel and won the inaugural Nebula Award for Best Novel in 1966.\n\n### Hugo Award Details\nThe 1966 Hugo Awards were presented at Tricon in Cleveland (September 1-5, 1966), where \"Dune\" by Frank Herbert won Best Novel in a tie with \"...And Call Me Conrad\" (also titled \"This Immortal\") by Roger Zelazny.\n\n### Nebula Award Details\n\"Dune\" was the winner of the first Nebula Award, and it formed the basis of what is undoubtedly the grandest epic in science fiction.(no content)It won the Nebula Award for Best Novel in 1965 and shared the Hugo Award in 1966.\n\n### Historical Significance\n\"Dune\" was the winner of the first Nebula Award, and shared the Hugo with Roger Zelazny's \"...And Call Me Conrad.\" This makes it particularly significant as only a handful of titles have earned both awards in a single year.\n\n### About the Novel\n\"Dune\" is a 1965 epic science fiction novel by American author Frank Herbert, originally published as two separate serials (1963\u201364 novel \"Dune World\" and 1965 novel \"Prophet of Dune\") in Analog magazine.(no content)The novel is frequently considered one of the best science fiction novels ever, if not the best, and is the best-selling science fiction novel of all time."
+    ],
+    "durationSeconds": 14.683901382999961
+  }
+}

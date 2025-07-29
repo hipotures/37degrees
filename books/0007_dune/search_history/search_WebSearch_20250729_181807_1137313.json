@@ -1,0 +1,164 @@
+{
+  "session_id": "0487d7f4-1250-4bb6-867a-a71d253cfc4f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0487d7f4-1250-4bb6-867a-a71d253cfc4f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Dune study guide pronunciation guide House relationships \"exam questions\" essay"
+  },
+  "tool_response": {
+    "query": "Dune study guide pronunciation guide House relationships \"exam questions\" essay",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01V98e3RNozME4HF5vGzXRcP",
+        "content": [
+          {
+            "title": "Dune Cumulative Exam Questions | SuperSummary",
+            "url": "https://www.supersummary.com/dune/cumulative-exam-questions/"
+          }
+        ]
+      },
+      "Let me search for more specific Dune study resources that include pronunciation guides and house relationship information.",
+      {
+        "tool_use_id": "srvtoolu_0127N8S6bgfZV2GJF9iq5ywJ",
+        "content": [
+          {
+            "title": "Where can one find the pronunciation of special names in Dune? - Science Fiction & Fantasy Stack Exchange",
+            "url": "https://scifi.stackexchange.com/questions/16191/where-can-one-find-the-pronunciation-of-special-names-in-dune"
+          },
+          {
+            "title": "In Dune how is Atreides pronounced? - Quora",
+            "url": "https://www.quora.com/In-Dune-how-is-Atreides-pronounced"
+          },
+          {
+            "title": "Sounds",
+            "url": "https://usul.net/books/sounds.htm"
+          },
+          {
+            "title": "Dune pronunciation question | The Trek BBS",
+            "url": "https://www.trekbbs.com/threads/dune-pronunciation-question.79149/"
+          },
+          {
+            "title": "Dune pronunciations - official guide - Duniverse - FED2k Discussion",
+            "url": "https://forum.dune2k.com/topic/20777-dune-pronunciations-official-guide/"
+          },
+          {
+            "title": "How to Pronounce Everything in DUNE - Nerdist",
+            "url": "https://nerdist.com/article/dune-how-to-pronounce/"
+          },
+          {
+            "title": "Dune Pronunciation - J\u1d00\u1d04\u1d1c\u0280\u1d1c\u1d1b\u1d1c - T\u029c\u1d07 C\u1d00s\u1d1b O\u1d1c\u1d1b",
+            "url": "https://www.jacurutu.com/viewtopic.php?t=590"
+          },
+          {
+            "title": "Is it possible to make sense of the classical words and pronunciation in Dune, by Frank Herbert? - Latin Language Stack Exchange",
+            "url": "https://latin.stackexchange.com/questions/16953/is-it-possible-to-make-sense-of-the-classical-words-and-pronunciation-in-dune-b"
+          },
+          {
+            "title": "'Dune' (2021) glossary: 14 sci-fi words you need to know, according to an expert",
+            "url": "https://www.inverse.com/entertainment/dune-2021-glossary"
+          },
+          {
+            "title": "Pronunciation of names in Dune series",
+            "url": "https://www.facebook.com/groups/2204512110/posts/10160173254627111/"
+          }
+        ]
+      },
+      "Now let me search for specific information about House relationships in Dune.",
+      {
+        "tool_use_id": "srvtoolu_01EjK7ZA3KeEebeo4yp6oG9U",
+        "content": [
+          {
+            "title": "House Harkonnen | Dune Wiki | Fandom",
+            "url": "https://dune.fandom.com/wiki/House_Harkonnen"
+          },
+          {
+            "title": "House Corrino | Dune Wiki | Fandom",
+            "url": "https://dune.fandom.com/wiki/House_Corrino"
+          },
+          {
+            "title": "All 6 Houses & Factions In Dune: Prophecy Explained",
+            "url": "https://screenrant.com/dune-prophecy-houses-factions-explained/"
+          },
+          {
+            "title": "The Atreides/Harkonnen Family Tree Explained",
+            "url": "https://screenrant.com/dune-house-atreides-harkonnen-family-tree/"
+          },
+          {
+            "title": "House Atreides | Dune Wiki | Fandom",
+            "url": "https://dune.fandom.com/wiki/House_Atreides"
+          },
+          {
+            "title": "Dune: House Atreides | Dune Wiki | Fandom",
+            "url": "https://dune.fandom.com/wiki/Dune:_House_Atreides"
+          },
+          {
+            "title": "Every House & Faction In Dune Explained",
+            "url": "https://screenrant.com/dune-2-houses-factions-explained/"
+          },
+          {
+            "title": "Origins of the Dune houses/communities - Duniverse - FED2k Discussion",
+            "url": "https://forum.dune2k.com/topic/17199-origins-of-the-dune-housescommunities/"
+          },
+          {
+            "title": "The Dune and Dune 2 Characters: Family Trees of the Houses",
+            "url": "https://treemily.com/blog/dune-family-tree/"
+          },
+          {
+            "title": "House | Dune Wiki | Fandom",
+            "url": "https://dune.fandom.com/wiki/House"
+          }
+        ]
+      },
+      "Now let me search for more specific Dune essay and exam questions resources.",
+      {
+        "tool_use_id": "srvtoolu_01NZxwAR5rdakFbg2uCsXGzd",
+        "content": [
+          {
+            "title": "Dune Summary",
+            "url": "https://www.bookrags.com/studyguide-dune-frank-herbert/free-quiz.html"
+          },
+          {
+            "title": "Dune Essay Topics | SuperSummary",
+            "url": "https://www.supersummary.com/dune/essay-topics/"
+          },
+          {
+            "title": "Frank Herbert's 'Dune' Saga: An Analysis",
+            "url": "https://thesciencesurvey.com/arts-entertainment/2023/03/07/frank-herberts-dune-saga-an-analysis/"
+          },
+          {
+            "title": "Dune Essay Questions | GradeSaver",
+            "url": "https://www.gradesaver.com/dune/study-guide/essay-questions"
+          },
+          {
+            "title": "Book Club Questions: Dune by Frank Herbert | World's Smallest Book Club",
+            "url": "https://worldssmallestbookclub.com/2023/02/15/anewchapter-dune-by-frank-herbert/"
+          },
+          {
+            "title": "Dune (novel) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dune_(novel)"
+          },
+          {
+            "title": "Dune Essay Topics & Writing Assignments",
+            "url": "https://www.bookrags.com/lessonplan/dune-frank-herbert/essaytopics.html"
+          },
+          {
+            "title": "Dune Themes | GradeSaver",
+            "url": "https://www.gradesaver.com/dune/study-guide/themes"
+          },
+          {
+            "title": "Dune Themes and Analysis | Book Analysis",
+            "url": "https://bookanalysis.com/frank-herbert/dune/themes-analysis/"
+          },
+          {
+            "title": "Dune Themes | LitCharts",
+            "url": "https://www.litcharts.com/lit/dune/themes"
+          }
+        ]
+      },
+      "Based on my search results, I've found comprehensive information on Dune study resources including pronunciation guides, House relationships, and exam questions. Here's what I found:\n\n## Pronunciation Guide\n\nThe pronunciation guide comes from excerpts of Frank Herbert himself reading parts of Dune. The most authoritative pronunciations are:\n\n- **Atreides**: Pronounced \"ah-TR\u0100Y-deez\" (three syllables) with emphasis on the middle syllable\n- **Harkonnen**: Pronounced \"Hark-un-in\" rather than \"Hark-cone-in\"\n- **Bene Gesserit**: Pronounced \"Ben-ay Jes-er-rit\" with a hard \"g\" sound, not soft like \"j\"\n- **Chani**: Pronounced \"Chany\" rather than \"Chun-eye\"\n- **Leto**: Pronounced \"Lee-toe\" rather than \"Lay-toe\"(no content)Many of the words in Dune appear to come from Arabic root words, but Herbert anglicized much of it, perhaps intentionally or from his own misunderstanding of Arabic.\n\n## House Relationships\n\n### The Great Houses and Their Connections:\n\n**House Atreides**: Claimed descent from King Agamemnon, a son of Atreus, in Greek mythology. Ruled the planetary fief of Caladan for twenty generations. Had perfected a form of government that resulted in a well-organized society and kept Caladan a lush, prosperous paradise.\n\n**House Harkonnen**: A Great House whose capital resided on Giedi Prime, historical enemies of House Atreides since the Battle of Corrin, earning a notorious reputation for underhanded and sinister political tactics. The Harkonnen name was believed to originate from northern Europe on ancient Earth, likely from Finland as H\u00e4rk\u00f6nen is a 20th-century Finnish name.\n\n**House Corrino**: Once the grandest and deadliest House Major within the Known Universe, and for ten-thousand years the ruling family of the Imperium with their official residence on planet Kaitain. Maintained arguably the most powerful army in the known universe - the Sardaukar.\n\n### Key Relationships:\n- The Corrinos supplied Sardaukar to the Harkonnen to deal with the Atreides, devising a plan to dispose of House Atreides by ordering them to take over Arrakis, then disposing of them through House Harkonnen\n- Paul Atreides being the grandson of Vladimir Harkonnen through the Bene Gesserit breeding programs\n- Shaddam Corrino IV is usurped by Paul Atreides who marries his eldest daughter Princess Irulan\n\n## Exam Questions and Essay Topics\n\n### Major Themes for Analysis:\n1. **Power and Leadership**: \"Beware of heroes. Much better to rely on your own judgment, and your own mistakes.\" Herbert wrote that \"Dune was aimed at this whole idea of the infallible leader\"\n\n2. **Ecology and Environment**: Dune has been called the \"first planetary ecology novel on a grand scale\" and Herbert hoped it would be seen as an \"environmental awareness handbook\"\n\n3. **Religion and Prophecy**: Questions about the extent to which prophecies are real and whether their authenticity matters\n\n### Sample Essay Questions:\n- How does Herbert's emphasis on scarcity and excess inform the reader's view of certain characters' \"goodness\" or \"badness\"?\n- How do the events of the novel change Paul Atreides?\n- What parallels do you see between the world of Dune and our own world facing climate change? Think not just about climate change itself but also why it's happening, who it affects the most, and who is doing something about it\n- The planets in Dune are controlled by a Feudal system. What is a feudal system? When and why were feudal systems popular? What was the structure? Who does it benefit?\n\n### Additional Study Resources:\n- SuperSummary offers detailed chapter summaries and analysis of major themes, characters, and more\n- BookRags provides detailed study guides with chapter summaries, important themes, significant quotes, and 25 multiple choice questions to test knowledge"
+    ],
+    "durationSeconds": 53.52860814099998
+  }
+}

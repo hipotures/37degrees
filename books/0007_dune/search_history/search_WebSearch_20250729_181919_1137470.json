@@ -1,0 +1,66 @@
+{
+  "session_id": "0487d7f4-1250-4bb6-867a-a71d253cfc4f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0487d7f4-1250-4bb6-867a-a71d253cfc4f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Dune\" \"commercial failure\" \"initial sales\" \"first edition\" 2200 copies \"Sterling Lanier\" dismissed Chilton"
+  },
+  "tool_response": {
+    "query": "\"Dune\" \"commercial failure\" \"initial sales\" \"first edition\" 2200 copies \"Sterling Lanier\" dismissed Chilton",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01GgpaWKAhQTsSP5ArLu73cK",
+        "content": []
+      },
+      {
+        "tool_use_id": "srvtoolu_012BbXxZPLm9oSWkTuXvFWUv",
+        "content": [
+          {
+            "title": "Sterling E. Lanier - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Sterling_E._Lanier"
+          },
+          {
+            "title": "How to Fix Your Ornithopter: The Unlikely Publishing History of Dune - SFWA - The Science Fiction & Fantasy Writers Association",
+            "url": "https://www.sfwa.org/2024/02/27/how-to-fix-your-ornithopter-the-unlikely-publishing-history-of-dune/"
+          },
+          {
+            "title": "Nobody Wanted To Publish Dune Except A Car Repair Manual Company - Jalopnik",
+            "url": "https://www.jalopnik.com/dune-was-originally-published-by-a-car-repair-manual-co-1847940372/"
+          },
+          {
+            "title": "Dune by Frank Herbert, First Edition, chilton - AbeBooks",
+            "url": "https://www.abebooks.com/book-search/title/dune/author/frank-herbert/publisher/chilton/first-edition/"
+          },
+          {
+            "title": "A Sterling Character - Wonder Book",
+            "url": "https://www.wonderbk.com/family-friends/a-sterling-character/"
+          },
+          {
+            "title": "Dune (novel) - Wikipedia",
+            "url": "https://en.m.wikipedia.org/wiki/Dune_(novel)"
+          },
+          {
+            "title": "\u00bb Frank Herbert\u2013 First Edition Books: Identification Guide | Golden Age Children's Book Illustrations",
+            "url": "https://www.nocloo.com/frank-herbert-first-edition-books-identification-points/"
+          },
+          {
+            "title": "Dune (novel) | Frank Herbert, Summary, Films, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/Dune-by-Herbert"
+          },
+          {
+            "title": "Dune Fan? Thank Philadelphia",
+            "url": "https://thephiladelphiacitizen.org/dune-fan-thank-philadelphia/"
+          },
+          {
+            "title": "A Spicy Offering: The First Edition of Dune, Owned and Annotated By the Editor Who \u2018Forced\u2019 Its...",
+            "url": "https://historical.ha.com/heritage-auctions-press-releases-and-news/a-spicy-offering-the-first-edition-of-dune-owned-and-annotated-by-the-editor-who-forced-its-publication.s?releaseId=3975"
+          }
+        ]
+      },
+      "Based on the search results, I can provide comprehensive information about the publishing history of Dune that relates to your search query:\n\n## Dune's Initial Commercial Failure and Sterling Lanier's Role\n\nChilton printed a mere 2,200 copies for the first edition of Dune when it was published in 1965. The book's initial commercial performance was indeed poor, with sales being so bad that Sterling Lanier was dismissed from Chilton after the first year of publication.\n\n## Sterling Lanier's Championing and Subsequent Dismissal\n\nSterling Lanier was with Chilton in 1965, when he was instrumental in persuading the firm to publish Frank Herbert's Dune. Having read Dune World in Analog magazine, he was responsible for tracking down the author and conveying Chilton's offer. More than twenty other publishing companies had already turned the book down.\n\nDespite his prescient recognition of the book's value, Lanier was dismissed from Chilton a year later because of high publication costs and poor initial book sales. Multiple sources confirm this pattern: Dune sold slowly \u2014 so slowly, in fact, that Chilton editor Sterling Lanier was fired over the decision to publish it.\n\n## Publishing Context and Pricing Issues\n\nThe book's commercial struggles were compounded by Chilton's pricing strategy. Chilton was charging $5.95 per copy, which translates to nearly $60 today. This high price point likely contributed to the poor initial sales that led to Lanier's dismissal.\n\n## Long-term Vindication\n\nDespite the initial failure, by the early 1970s, Chilton sold 6,500 hardbacks, and Ace would make a bestseller out of Dune in paperback. The book went on to receive the first Nebula Award for best novel and shared the Hugo Award with Roger Zelazny's This Immortal, and Dune became a popular novel among young people in the late 1960s and '70s.\n\nThe search results confirm all the key elements you mentioned: the 2,200 copy first edition print run, the initial commercial failure, Sterling Lanier's role in championing the book, and his subsequent dismissal from Chilton due to the poor sales performance."
+    ],
+    "durationSeconds": 21.994870458999998
+  }
+}

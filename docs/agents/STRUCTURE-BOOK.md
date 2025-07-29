@@ -39,10 +39,10 @@ When an agent is executed, they are positioned in the specific book folder (e.g.
     │   ├── TODO_37d-bibliography-manager.md
     │   ├── TODO_37d-source-validator.md
     │   └── TODO_master.md              # Supervisor tracking
-    └── 37d-[agent-name]/                # RAW SEARCH DATA (auto-saved)
-        ├── 37d-[agent]_raw_WebSearch_YYYYMMDD_HHMMSS.json
-        ├── 37d-[agent]_raw_WebFetch_YYYYMMDD_HHMMSS.json
-        └── 37d-[agent]_searches_index.txt
+├── search_history/                   # RAW SEARCH DATA (auto-saved)
+│   ├── search_WebSearch_YYYYMMDD_HHMMSS_PID.json
+│   ├── search_WebFetch_YYYYMMDD_HHMMSS_PID.json
+│   └── searches_index.txt
 ```
 
 ## File Access Patterns
@@ -56,7 +56,7 @@ When an agent is executed, they are positioned in the specific book folder (e.g.
 - `docs/todo/TODO_37d-[agent-name].md` - Task status updates
 
 ### Auto-Generated Files (DO NOT TOUCH)
-- `docs/37d-[agent-name]/` - Raw search data saved by hooks
+- `search_history/` - Raw search data saved by hooks
 - `book.db` - Internal database
 
 ## Key Principles
@@ -103,8 +103,9 @@ If critical files exist but are empty/corrupted:
 
 ### Search Data Hook
 The `37d-save-search.py` hook automatically saves search results to:
-- `docs/37d-[agent-name]/37d-[agent]_raw_WebSearch_[timestamp].json`
-- `docs/37d-[agent-name]/37d-[agent]_searches_index.txt`
+- `search_history/search_WebSearch_[timestamp]_[pid].json`
+- `search_history/search_WebFetch_[timestamp]_[pid].json`
+- `search_history/searches_index.txt`
 
 Agents don't need to manage this data - focus on findings.
 

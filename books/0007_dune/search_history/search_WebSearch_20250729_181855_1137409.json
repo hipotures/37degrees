@@ -1,0 +1,62 @@
+{
+  "session_id": "0487d7f4-1250-4bb6-867a-a71d253cfc4f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0487d7f4-1250-4bb6-867a-a71d253cfc4f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Dune AO3 fanfiction statistics \"Paul Atreides\" ships modern AU popular tags"
+  },
+  "tool_response": {
+    "query": "Dune AO3 fanfiction statistics \"Paul Atreides\" ships modern AU popular tags",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01YYL4LPFN6gVuVuJUAVyiGf",
+        "content": [
+          {
+            "title": "Paul Atreides/Reader - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Paul%20Atreides*s*Reader/works"
+          },
+          {
+            "title": "Paul Atreides - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Paul%20Atreides/works"
+          },
+          {
+            "title": "Paul Atreides/Feyd-Rautha Harkonnen - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Paul%20Atreides*s*Feyd-Rautha%20Harkonnen/works"
+          },
+          {
+            "title": "Paul Atreides/Irulan Corrino - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Paul%20Atreides*s*Irulan%20Corrino/works"
+          },
+          {
+            "title": "Dune FanFiction Archive | FanFiction",
+            "url": "https://www.fanfiction.net/book/Dune/"
+          },
+          {
+            "title": "Leto Atreides I & Paul Atreides - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Leto Atreides I *a* Paul Atreides/works"
+          },
+          {
+            "title": "Paul Atreides & Duncan Idaho - Works | Archive of Our Own",
+            "url": "https://www.archiveofourown.org/tags/Paul Atreides *a* Duncan Idaho/works"
+          },
+          {
+            "title": "Irulan Corrino - Works | Archive of Our Own",
+            "url": "https://archive.transformativeworks.org/tags/Irulan%20Corrino/works"
+          },
+          {
+            "title": "Paul Atreides/Feyd-Rautha Harkonnen - Bookmarks | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Paul%20Atreides*s*Feyd-Rautha%20Harkonnen/bookmarks"
+          },
+          {
+            "title": "Dune (Movies - Villeneuve) - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Dune (Movies - Villeneuve)/works"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about Dune fanfiction statistics and popular elements on Archive of Our Own (AO3) related to Paul Atreides:\n\n## Paul Atreides Ship Statistics and Popular Pairings\n\nThe search reveals several prominent ships involving Paul Atreides in Dune fanfiction:\n\n**Most Popular Ships:**\n1. **Paul Atreides/Feyd-Rautha Harkonnen** - This appears to be one of the most popular ships, with many works featuring omegaverse AU elements where \"alpha Feyd kidnaps omega Paul with the intention of making him his husband\"\n\n2. **Paul Atreides/Reader** - A significant category of romantic one-shots and longer works\n\n3. **Paul Atreides/Irulan Corrino** - Including \"fail marriage AU\" scenarios\n\n4. **Paul Atreides & Duncan Idaho** - Both platonic and romantic interpretations\n\n5. **Paul Atreides & Leto Atreides I** - Father-son relationship dynamics\n\n## Popular Tags and Themes\n\n**Modern AU Elements:**\n- High school/secondary school settings, such as \"Dune Secondary\" with modern social dynamics\n- Contemporary settings where \"omega child prodigy with an overprotective alpha mother\" meets family members\n\n**Popular Tropes:**\n- **Omegaverse AU** - Extremely popular, especially for Paul/Feyd pairings\n- **Time Travel AU** - Stories where characters \"awake on Caladan after the events of Dune\"\n- **Arranged Marriage/Kidnapping scenarios** - \"Paul Atreides was stolen away from Caladan\" and forced marriage plots\n- **Hurt/Comfort** - Emotional recovery and relationship dynamics\n\n**Statistical Context:**\nFanFiction.Net shows \"over 310 stories\" in the Dune archive, though AO3 likely has significantly more given its popularity for this fandom. The search results suggest that Paul-centric fics dominate the fandom, with romantic pairings being particularly popular among readers and writers.\n\nThe fanfiction community appears especially drawn to exploring alternative relationship dynamics, power exchanges, and reimagining the characters in different settings while maintaining the core political intrigue elements of the source material."
+    ],
+    "durationSeconds": 21.75399850300001
+  }
+}

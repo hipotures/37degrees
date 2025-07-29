@@ -1,0 +1,22 @@
+{
+  "session_id": "7529e71f-d379-4299-9734-0e831fc05ee8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7529e71f-d379-4299-9734-0e831fc05ee8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "site:culture.pl \"Diuna\" Frank Herbert fantastyka naukowa"
+  },
+  "tool_response": {
+    "query": "site:culture.pl \"Diuna\" Frank Herbert fantastyka naukowa",
+    "results": [
+      "I'll perform a web search for that query about \"Diuna\" (Dune) by Frank Herbert on the culture.pl site.",
+      {
+        "tool_use_id": "srvtoolu_018vSTG3D2mL5pJN4WCpJ4TW",
+        "content": []
+      },
+      "I apologize, but the search didn't return any results for that specific query on the culture.pl website. This could mean that:\n\n1. The culture.pl site doesn't have content specifically matching those exact terms\n2. The content might exist but use different terminology or phrasing\n3. The site might not be indexed with that exact combination of keywords\n\nIf you're looking for Polish content about Frank Herbert's \"Diuna\" (Dune) and science fiction on culture.pl, you might want to try a broader search or check the site directly. Would you like me to try a different search approach or search for related terms?"
+    ],
+    "durationSeconds": 7.7544797739999485
+  }
+}

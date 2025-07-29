@@ -1,0 +1,62 @@
+{
+  "session_id": "0487d7f4-1250-4bb6-867a-a71d253cfc4f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0487d7f4-1250-4bb6-867a-a71d253cfc4f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Dune 1984 David Lynch film box office budget production details"
+  },
+  "tool_response": {
+    "query": "Dune 1984 David Lynch film box office budget production details",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_014k4LsKsmxp1PkALRjxT576",
+        "content": [
+          {
+            "title": "Dune (1984 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dune_(1984_film)"
+          },
+          {
+            "title": "Dune (1984 film)",
+            "url": "https://dune.fandom.com/wiki/Dune_(1984_film)"
+          },
+          {
+            "title": "Dune (1984) \u2b50 6.3 | Action, Adventure, Sci-Fi",
+            "url": "https://www.imdb.com/title/tt0087182/"
+          },
+          {
+            "title": "Dune (2021 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dune_(2021_film)"
+          },
+          {
+            "title": "Dune (1984) - Financial Information",
+            "url": "https://www.the-numbers.com/movie/Dune"
+          },
+          {
+            "title": "Dune - Box Office Mojo",
+            "url": "https://www.boxofficemojo.com/title/tt0087182/credits/"
+          },
+          {
+            "title": "AFI|Catalog",
+            "url": "https://catalog.afi.com/Catalog/moviedetails/67647"
+          },
+          {
+            "title": "Why the 1984 Adaptation of Dune Bombed at the Box Office",
+            "url": "https://movieweb.com/dune-1984-box-office-bomb-why/"
+          },
+          {
+            "title": "Dune (1984): 10 Behind-The-Scenes Facts About David Lynch's Adaptation",
+            "url": "https://screenrant.com/dune-1984-david-lynch-movie-facts-trivia/"
+          },
+          {
+            "title": "Watch an Extended Preview from David Lynch's 1984 Dune Movie",
+            "url": "https://www.syfy.com/syfy-wire/watch-extended-preview-from-dune-1984-david-lynch-film-adaptation"
+          }
+        ]
+      },
+      "Based on the search results, here are the key box office, budget, and production details for David Lynch's 1984 adaptation of Dune:\n\n## Box Office Performance\n\nThe film's total domestic gross was $27.4 million, while its estimated budget was $42 million. Other sources report slightly different figures, with the movie grossing just $30 million worldwide against a budget of $40 million and earning $31 million at most while garnering middling critical reviews.(no content)Dune was not the blockbuster science fiction film the filmmakers had hoped; it grossed only $6,025,091 (USD) in its opening weekend and was pulled from theaters after only five weeks.(no content)Throughout its domestic theatrical run, Lynch's film grossed approximately $30.9 million, and never played in more than 975 theaters.\n\n## Budget and Production Scale\n\nWith a budget of over 40 million dollars, Dune required 80 sets built upon 16 sound stages and a total crew of 1700. However, there were reports of budget overruns, as the budget was officially reported at $40 million, but insiders told DV that the cost might have reached $60 million.\n\n## Production Details\n\nIt was filmed at the Churubusco Studios in Mexico City with shooting starting on March 30, 1983.(no content)A 23 Sep 1983 DV article announced that filming had ended after twenty-three weeks; however, the production was finished six months ahead of schedule.(no content)In order to cut costs, the film was shot in various locations throughout Mexico. Roughly 1,700 crew members were on hand for the use of 80 film sets built on 16 different sound stages.\n\n## Marketing and Release\n\nThe picture's two-year marketing campaign marked one of the largest promotional drives in film history.(no content)The film was released worldwide on December 14, 1984, with its simultaneous opening in U.S. and foreign markets being unusual at the time.\n\n## Financial Outcome\n\nDespite a respectable box office gross in Europe and Japan, the film was considered a financial failure.(no content)Once Dune became a financial failure on opening weekend, earning just $6 million against its $40 million budget, Universal scrapped all plans for the two announced sequels."
+    ],
+    "durationSeconds": 19.081857749999994
+  }
+}

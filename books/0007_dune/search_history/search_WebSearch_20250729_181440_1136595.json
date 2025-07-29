@@ -1,0 +1,62 @@
+{
+  "session_id": "0487d7f4-1250-4bb6-867a-a71d253cfc4f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0487d7f4-1250-4bb6-867a-a71d253cfc4f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Dune 2021 Denis Villeneuve box office worldwide gross budget critical reception Rotten Tomatoes"
+  },
+  "tool_response": {
+    "query": "Dune 2021 Denis Villeneuve box office worldwide gross budget critical reception Rotten Tomatoes",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01UQYT4Xz73jYQj6Xi4u7p18",
+        "content": [
+          {
+            "title": "Dune (2021) | Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/m/dune_2021"
+          },
+          {
+            "title": "'Dune' Crosses $300M At Global Box Office",
+            "url": "https://deadline.com/2021/11/dune-crosses-300-million-global-box-office-1234866440/"
+          },
+          {
+            "title": "Weekend Box Office Results: Dune Debuts at $40 Million, but Is It Enough to Secure Part Two? | Rotten Tomatoes",
+            "url": "https://editorial.rottentomatoes.com/article/weekend-box-office-results-dune-debuts-at-40-million-but-is-it-enough-to-secure-part-two/"
+          },
+          {
+            "title": "Dune (2021 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dune_(2021_film)"
+          },
+          {
+            "title": "Dune: Part Two - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dune:_Part_Two"
+          },
+          {
+            "title": "Why Dune 2's Rotten Tomatoes Score Is So Much Higher Than The First Movie",
+            "url": "https://screenrant.com/dune-2-rotten-tomatoes-score-higher-dune-2021/"
+          },
+          {
+            "title": "Weekend Box Office Results: Dune: Part Two Scores Spicy $82.5 Million Debut | Rotten Tomatoes",
+            "url": "https://editorial.rottentomatoes.com/article/weekend-box-office-results-dune-part-two-scores-spicy-82-5-million-debut/"
+          },
+          {
+            "title": "'Dune': Denis Villeneuve Movie Crosses $100M At Domestic Box Office",
+            "url": "https://deadline.com/2021/11/dune-denis-villeneuve-movie-100m-domestic-box-office-1234880845/"
+          },
+          {
+            "title": "All Denis Villeneuve Movies Ranked by Tomatometer | Rotten Tomatoes",
+            "url": "https://editorial.rottentomatoes.com/guide/all-denis-villeneuve-movies-ranked-by-tomatometer/"
+          },
+          {
+            "title": "Dune: Part One (2021) \u2b50 8.0 | Action, Adventure, Drama",
+            "url": "https://www.imdb.com/title/tt1160419/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about Dune (2021) directed by Denis Villeneuve:\n\n## Box Office Performance\n\nDune was ultimately a box office success despite its delay due to the COVID-19 pandemic, having grossed over $430 million against a $165 budget. More specifically:\n\n- **Domestic Box Office**: Warner Bros./Legendary's feature adaptation of Frank Herbert's Dune has clocked past $100 million at the domestic box office, with Dune making $400K on Thanksgiving yesterday sending its domestic total to $100.1M.\n\n- **Worldwide Gross**: This brings the global running total to north of $370M; the ultimate exclamation point here for the Denis Villeneuve directed movie being $400M WW.(no content)Warner Bros/Legendary's sci-fi epic 'Dune' is poised to cross the $300 million mark at the global box office on Tuesday.\n\n- **Opening Weekend**: Dune: Part One likely would have indeed grossed more than the estimated $40.1 million it did this weekend.\n\n## Budget\n\nVilleneuve's $165 million-budgeted film has grossed another $160 million internationally to date, confirming the production budget was $165 million.\n\n## Critical Reception\n\n### Rotten Tomatoes Scores\nOn the review aggregator website Rotten Tomatoes, 83% of 514 critics' reviews are positive, with an average rating of 7.7/10.(no content)The website's consensus reads: \"Dune occasionally struggles with its unwieldy source material, but those issues are largely overshadowed by the scope and ambition of this visually thrilling adaptation.\"\n\n### Other Critical Scores\n- **Metacritic**: Metacritic gave the film a weighted average score of 74 out of 100, based on 68 critics, indicating \"generally favorable\" reviews.\n- **CinemaScore**: Audiences polled by CinemaScore gave the film an average grade of \"A\u2212\" on an A+ to F scale\n- **PostTrak**: those at PostTrak gave it an 84% positive score (with an average rating of 4.5 out of 5 stars) and 66% saying they would definitely recommend it.\n\n### Critical Consensus\nThese terrific numbers, coupled with A- CinemaScore and a Certified Fresh rating on Rotten Tomatoes, show the film delivers and that audiences are going back for multiple viewings.\n\nThe film received praise for its visual spectacle, world-building, and Denis Villeneuve's direction, though some critics noted pacing issues and felt it served primarily as setup for the sequel. The success of the first film led to the greenlight of Dune: Part Two, which was released in 2024 and received even higher critical acclaim with a 92% Rotten Tomatoes score."
+    ],
+    "durationSeconds": 22.08170829000001
+  }
+}

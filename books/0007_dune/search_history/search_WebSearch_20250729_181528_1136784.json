@@ -1,0 +1,62 @@
+{
+  "session_id": "0487d7f4-1250-4bb6-867a-a71d253cfc4f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0487d7f4-1250-4bb6-867a-a71d253cfc4f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Diuna\" fantastyka naukowa literatura analiza uniwersytet studia polonistyczne"
+  },
+  "tool_response": {
+    "query": "\"Diuna\" fantastyka naukowa literatura analiza uniwersytet studia polonistyczne",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01V5pCkDSu2ZJBYvUbNqGsJu",
+        "content": [
+          {
+            "title": "Fantastyka naukowa \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Fantastyka_naukowa"
+          },
+          {
+            "title": "O czym jest Diuna? Ciekawostki o ksi\u0105\u017cce i filmie | Woblink blog",
+            "url": "https://woblink.com/blog/czego-jeszcze-nie-wiesz-o-diunie-a-powinienes/"
+          },
+          {
+            "title": "Literatura i kultura popularna: wprowadzenie do bada\u0144 - Uniwersytet Warszawski",
+            "url": "https://informatorects.uw.edu.pl/pl/courses/view?prz_kod=3007-LKB-OG"
+          },
+          {
+            "title": "Diuna (powie\u015b\u0107) \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Diuna_(powie\u015b\u0107)"
+          },
+          {
+            "title": "Science fiction - Ksi\u0105\u017cki | Ksi\u0119garnia internetowa Gandalf",
+            "url": "https://www.gandalf.com.pl/k/fantastyka-naukowa-fantastyka/"
+          },
+          {
+            "title": "\u201eDiuna\u201d \u2013 jak czyta\u0107 t\u0119 seri\u0119? Ile ksi\u0105\u017cek nale\u017cy do Uniwersum? | Czytam.pl",
+            "url": "https://czytam.pl/blog/diuna-jak-czytac-te-serie-ile-ksiazek-nalezy-do-uniwersum-105"
+          },
+          {
+            "title": "\u201eKroniki Diuny\u201d \u2013 ksi\u0105\u017cki, filmy, seriale. Sprawd\u017a, co musisz wiedzie\u0107 o uniwersum Diuny!",
+            "url": "https://www.swiatksiazki.pl/blog/post/wszystko-co-musisz-wiedziec-o-uniwersum-diuny/"
+          },
+          {
+            "title": "Seria Diuna | ksi\u0119garnia TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/seria/diuna"
+          },
+          {
+            "title": "Diuna ksi\u0105\u017cka | Frank Herbert | seria Kroniki Diuny",
+            "url": "https://www.swiatksiazki.pl/seria/diuna"
+          },
+          {
+            "title": "Diuna - Frank Herbert | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/4942534/diuna"
+          }
+        ]
+      },
+      "Based on the search results, I found relevant information about \"Diuna\" (Dune) in the context of science fiction literature analysis and Polish literary studies. Here's what the search revealed:\n\n## Academic Context and Literary Analysis\n\nThe University of Warsaw offers courses on popular literature and culture that include science fiction (fantastyka) and its varieties, with specific coverage of science fiction definitions, terminology, authors, works, and conventions. \"Diuna\" by Frank Herbert (translated by M. Marsza\u0142, Warsaw 1985) is included in the required reading list for this academic course.\n\n## Literary Significance of Dune\n\n\"Diuna\" is a science fiction novel written by Frank Herbert, honored with the first Nebula Award in 1965 and the Hugo Award in 1966. The novel achieved enormous commercial success, selling over 20 million copies worldwide, and in 1987, in a readers' poll by Locus magazine for the best science fiction novel of all time, it took first place.\n\n## Polish Academic Literature on Science Fiction\n\nThe search results show several Polish academic works relevant to science fiction analysis:\n\n- Smuszkiewicz A., \"Stereotyp fabularny fantastyki naukowej\" (Plot Stereotype of Science Fiction), Wroc\u0142aw 1980\n- Zgorzelski A., \"Fantastyka, utopia, science fiction: ze studi\u00f3w nad rozwojem gatunk\u00f3w\" (Fantasy, Utopia, Science Fiction: Studies on Genre Development), Warsaw 1980\n\n## Science Fiction in Polish Literary Context\n\nScience fiction is studied not only by literary history and literary criticism, but also by sociology, psychology, and futurology, with visions of future worlds being interesting from a political science perspective.\n\n## Polish Publishing History\n\nThe first part of the cycle titled \"Diuna\" was published in Poland for the first time in 1985 by Iskra Publishing House in Marek Marsza\u0142's translation. Later, in 1992-1993, Phantom Press published the entire \"Chronicles of Dune\" saga in translations by Marsza\u0142 and other translators.\n\nThe search results indicate that \"Diuna\" is indeed studied in Polish universities as part of science fiction literature courses and is considered a foundational work in the genre, with significant academic attention paid to its literary and cultural significance."
+    ],
+    "durationSeconds": 23.150588535999997
+  }
+}

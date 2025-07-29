@@ -1,0 +1,62 @@
+{
+  "session_id": "0487d7f4-1250-4bb6-867a-a71d253cfc4f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0487d7f4-1250-4bb6-867a-a71d253cfc4f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Marek Marsza\u0142\" \"Diuna\" Polish translation 1985 Wydawnictwo Iskry first Polish edition"
+  },
+  "tool_response": {
+    "query": "\"Marek Marsza\u0142\" \"Diuna\" Polish translation 1985 Wydawnictwo Iskry first Polish edition",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01Q98XiHkXk1Pv2kYxsDx9Lh",
+        "content": [
+          {
+            "title": "Pinterest",
+            "url": "https://www.pinterest.com/pin/553309504190888288/"
+          },
+          {
+            "title": "Diuna ksi\u0105\u017cka | Frank Herbert | seria Kroniki Diuny",
+            "url": "https://www.swiatksiazki.pl/seria/diuna"
+          },
+          {
+            "title": "Amazon.com: Kroniki Diuny. Diuna: 9788381884471: Frank Herbert, Marek Marsza\u0142, Wojciech Siudmak: Books",
+            "url": "https://www.amazon.com/Kroniki-Diuny-Diuna-Frank-Herbert/dp/8381884470"
+          },
+          {
+            "title": "Marek Marsza\u0142 (Translator of Diuna)",
+            "url": "https://www.goodreads.com/author/show/2890509.Marek_Marsza_"
+          },
+          {
+            "title": "Amazon.com: Diuna, wydanie 33: 9788381880572: Frank Herbert, Marek Marsza\u0142: Books",
+            "url": "https://www.amazon.com/Diuna-Frank-Herbert/dp/8381880572"
+          },
+          {
+            "title": "Diuna / Frank Herbert ; prze\u0142. Marek Marsza\u0142",
+            "url": "https://katalog.ans.edu.pl/cgi-bin/koha/opac-detail.pl?biblionumber=23834"
+          },
+          {
+            "title": "Books by Marek Marsza\u0142 (Author of Diuna)",
+            "url": "https://www.goodreads.com/author/list/2890509.Marek_Marsza_"
+          },
+          {
+            "title": "Marek Marsza\u0142 \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Marek_Marsza%C5%82"
+          },
+          {
+            "title": "\"Diuna\" Frank Herbert Translated by Marek Marsza\u0142 Cover by Kazimierz Ha\u0142ajkiewicz Book series Fantastyka Przygoda Published by Wyd\u2026 | Book design, Book cover, Books",
+            "url": "https://pl.pinterest.com/pin/532972937121889381/"
+          },
+          {
+            "title": "Frank Herbert - Diuna tom 1 - PDF Free Download",
+            "url": "https://docer.tips/frank-herbert-diuna-tom-1.html"
+          }
+        ]
+      },
+      "Based on the search results, I found comprehensive information about Marek Marsza\u0142's Polish translation of \"Diuna\" (Dune) published by Wydawnictwo Iskry in 1985. Here's what the search revealed:\n\nThe first Polish edition of \"Diuna\" (Dune) by Frank Herbert was translated by Marek Marsza\u0142, with cover art by Kazimierz Ha\u0142ajkiewicz, and published by Wydawnictwo Iskry in 1985. Marek Marsza\u0142 was the first Polish translator of Frank Herbert's Dune in 1985.\n\nMarsza\u0142 was the translator of the first Polish translation of \"Dune\" from 1985, and his translation continues to enjoy the greatest recognition and popularity among fans of the series. The book was part of the \"Fantastyka Przygoda\" series.\n\nMarek Marsza\u0142 (born December 25, 1944, died August 7, 2020) was a Polish translator of science fiction literature. After more than two decades, Marsza\u0142 returned to the Dune cycle and translated \"Dune Messiah\" in 2007 and \"Children of Dune\" in 2008 (together with Andrzej Jankowski).\n\nThe detailed publication information from the search shows that the 1985 first Polish edition included graphic design by Kazimierz Ha\u0142ajkiewicz and was edited by \u017bona Uhrynowska, with ISBN 83-207-0772-2."
+    ],
+    "durationSeconds": 14.136606816999963
+  }
+}

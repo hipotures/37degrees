@@ -1,0 +1,62 @@
+{
+  "session_id": "7529e71f-d379-4299-9734-0e831fc05ee8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7529e71f-d379-4299-9734-0e831fc05ee8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Dune 2021 box office total worldwide earnings $434 million Rotten Tomatoes score"
+  },
+  "tool_response": {
+    "query": "Dune 2021 box office total worldwide earnings $434 million Rotten Tomatoes score",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01AbYsmGDDFVRCNKG6Jx4h9D",
+        "content": [
+          {
+            "title": "Weekend Box Office Results: Dune Debuts at $40 Million, but Is It Enough to Secure Part Two? | Rotten Tomatoes",
+            "url": "https://editorial.rottentomatoes.com/article/weekend-box-office-results-dune-debuts-at-40-million-but-is-it-enough-to-secure-part-two/"
+          },
+          {
+            "title": "Dune (2021) | Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/m/dune_2021"
+          },
+          {
+            "title": "'Dune' Crosses $300M At Global Box Office",
+            "url": "https://deadline.com/2021/11/dune-crosses-300-million-global-box-office-1234866440/"
+          },
+          {
+            "title": "'Dune' Counts Over $8M In First Two Days At International Box Office",
+            "url": "https://deadline.com/2021/09/dune-opening-weekend-warner-bros-international-box-office-1234838181/"
+          },
+          {
+            "title": "Dune Surpasses $100 Million at Global Box Office - Dune News Net",
+            "url": "https://dunenewsnet.com/2021/10/dune-movie-100-million-overseas-box-office/"
+          },
+          {
+            "title": "Weekend Box Office Results: Dune: Part Two Scores Spicy $82.5 Million Debut | Rotten Tomatoes",
+            "url": "https://editorial.rottentomatoes.com/article/weekend-box-office-results-dune-part-two-scores-spicy-82-5-million-debut/"
+          },
+          {
+            "title": "'Dune' Harvests the International Spice and Crosses $100 Million at the Box Office",
+            "url": "https://collider.com/dune-international-box-office-100-million/"
+          },
+          {
+            "title": "'Dune' Opens to $40 Million at the Box Office",
+            "url": "https://variety.com/2021/film/box-office/dune-box-office-opening-weekend-timothee-chalamet-1235096320/"
+          },
+          {
+            "title": "\u2018Dune\u2019 Reaps A Heap With $37M From Early Offshore Debut; \u2018Shang-Chi\u2019 Tops $320M WW \u2013 International Box Office",
+            "url": "https://deadline.com/2021/09/dune-opening-weekend-shang-chi-global-international-box-office-1234839288/"
+          },
+          {
+            "title": "Dune (2021) - Financial Information",
+            "url": "https://www.the-numbers.com/movie/Dune-(2020)"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with information about Dune (2021)'s box office performance and Rotten Tomatoes score:\n\n## Box Office Performance\n\nDune opened to $40 million at the North American box office during its opening weekend in October 2021. The film crossed $300 million at the global box office by early November 2021, though I don't see the specific $434 million figure mentioned in these results.\n\nThe film had a strong international performance before its U.S. release:\n- It earned over $100 million at the international box office before hitting American theaters\n- Warner Bros/Legendary's Dune harvested $36.8M at the international box office from just 24 markets in early release\n\n## Rotten Tomatoes Score\n\nCritics have been very favorable to it with an 83% on the Tomatometer, and it has an 83% on Rotten Tomatoes and notched an \"A-\" CinemaScore. Another source mentions Dune is now 90% Fresh on Rotten Tomatoes.\n\nThe film was well-received critically and performed solidly at the box office despite the challenging pandemic conditions and its simultaneous release on HBO Max. The film earned a Certified Fresh rating on Rotten Tomatoes and was successful enough to greenlight the sequel, Dune: Part Two."
+    ],
+    "durationSeconds": 12.849242385999998
+  }
+}

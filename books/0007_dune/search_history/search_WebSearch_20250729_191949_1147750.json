@@ -1,0 +1,62 @@
+{
+  "session_id": "7529e71f-d379-4299-9734-0e831fc05ee8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7529e71f-d379-4299-9734-0e831fc05ee8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Wattpad Dune fanfiction statistics total stories Frank Herbert Paul Atreides"
+  },
+  "tool_response": {
+    "query": "Wattpad Dune fanfiction statistics total stories Frank Herbert Paul Atreides",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01K2srpuYr656dMiGd26KeWa",
+        "content": [
+          {
+            "title": "Dune Stories - Wattpad",
+            "url": "https://www.wattpad.com/stories/dune"
+          },
+          {
+            "title": "Dune FanFiction Archive | FanFiction",
+            "url": "https://www.fanfiction.net/book/Dune/"
+          },
+          {
+            "title": "Paulatreides Stories - Wattpad",
+            "url": "https://www.wattpad.com/stories/paulatreides/hot?locale=en_US"
+          },
+          {
+            "title": "DUNE\ud83e\udd0e - NovaFoxxx - Wattpad",
+            "url": "https://www.wattpad.com/list/1287522169-dune"
+          },
+          {
+            "title": "Paul Atreides | Dune Wiki | Fandom",
+            "url": "https://dune.fandom.com/wiki/Paul_Atreides"
+          },
+          {
+            "title": "Paul Atreides/Reader - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Paul%20Atreides*s*Reader/works"
+          },
+          {
+            "title": "Paul Atreides - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Paul%20Atreides/works"
+          },
+          {
+            "title": "back to you | paul atreides - thirty five - Wattpad",
+            "url": "https://www.wattpad.com/1171544969-back-to-you-paul-atreides-thirty-five"
+          },
+          {
+            "title": "Dune Series - Frank Herbert - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Dune%20Series%20-%20Frank%20Herbert/works"
+          },
+          {
+            "title": "Dune2021 Stories - Wattpad",
+            "url": "https://www.wattpad.com/stories/dune2021"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about Dune fanfiction statistics on Wattpad related to Frank Herbert's works and Paul Atreides. Here's what I found:\n\n## Wattpad Dune Fanfiction Overview\n\nRead the most popular dune stories on Wattpad, the world's largest social storytelling platform. The search results show that there is a substantial collection of Dune fanfiction on Wattpad, though specific total story counts weren't provided in the results.\n\n## Popular Content and Themes\n\nThe Wattpad Dune fanfiction community focuses heavily on:\n\n- **Paul Atreides content**: Read the most popular paulatreides stories on Wattpad, the world's largest social storytelling platform. There are dedicated sections for Paul Atreides fanfiction specifically.\n\n- **Character relationships**: Many stories feature Paul Atreides in romantic pairings, including paul atreides x fem! reader insert stories.\n\n- **Crossover content**: The platform includes various interpretations, from crossover of the two sci-fi franchises, George Lucas' Star Wars and Frank Herbert's Dune to modern AU adaptations.\n\n## Comparison with Other Platforms\n\nFor comparison, Books: Dune fanfiction archive with over 310 stories on FanFiction.Net, suggesting Wattpad likely has a comparable or larger collection given its broader user base.\n\nArchive of Our Own also hosts significant Dune content, with dedicated sections for Paul Atreides stories and various character pairings.\n\nWhile the search didn't return exact total story counts for Wattpad's Dune section, the results indicate a thriving fanfiction community centered around Frank Herbert's universe, with Paul Atreides being a particularly popular character for fan-created content across multiple platforms."
+    ],
+    "durationSeconds": 16.55395251100004
+  }
+}

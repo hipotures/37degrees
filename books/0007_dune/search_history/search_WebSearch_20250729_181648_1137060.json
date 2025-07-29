@@ -1,0 +1,50 @@
+{
+  "session_id": "0487d7f4-1250-4bb6-867a-a71d253cfc4f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0487d7f4-1250-4bb6-867a-a71d253cfc4f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Dune\" \"Hugo Award\" \"Nebula Award\" 1966 \"tied\" \"This Immortal\" Roger Zelazny first novel awards"
+  },
+  "tool_response": {
+    "query": "\"Dune\" \"Hugo Award\" \"Nebula Award\" 1966 \"tied\" \"This Immortal\" Roger Zelazny first novel awards",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_0158ZAYnPjJeeVCb3zL8Ho7o",
+        "content": [
+          {
+            "title": "Roger Zelazny - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Roger_Zelazny"
+          },
+          {
+            "title": "Dune (novel) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dune_(novel)"
+          },
+          {
+            "title": "Remembering Roger Zelazny. His First Three Novels | by Digital Quixote | Medium",
+            "url": "https://medium.com/@DigitalQuixote/remembering-roger-zelazny-04b2fd845fdf"
+          },
+          {
+            "title": "This Immortal by Roger Zelazny | Goodreads",
+            "url": "https://www.goodreads.com/book/show/13827.This_Immortal"
+          },
+          {
+            "title": "Dune \u2013 Frank Herbert (1965) | 1960s: Days of Rage",
+            "url": "https://1960sdaysofrage.wordpress.com/2017/10/02/dune-frank-herbert-1965/"
+          },
+          {
+            "title": "Power & Light (The Collected Stories of Roger Zelazny, \u2026",
+            "url": "https://www.goodreads.com/book/show/6342004-power-light"
+          },
+          {
+            "title": "Dune (novel) - Wikiwand",
+            "url": "https://www.wikiwand.com/en/Dune_(novel)"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with detailed information about the 1966 Hugo Award tie between \"Dune\" and \"This Immortal\":\n\nRoger Zelazny's \"...And Call Me Conrad\" (published in book form as \"This Immortal\") won the 1966 Hugo Award for Best Novel in a tie with Frank Herbert's \"Dune\". This was a historic tie for one of science fiction's most prestigious awards.\n\n\"Dune\" tied with Roger Zelazny's \"This Immortal\" for the Hugo Award for Best Novel and won the inaugural Nebula Award for Best Novel in 1966. The tie for the Hugo Award was confirmed by multiple sources.\n\nSome additional context about these works:\n\n- Zelazny won two Hugo Awards for novels during his career: the serialized novel \"...And Call Me Conrad\" (1965), subsequently published under the title \"This Immortal\" (1966), and the novel \"Lord of Light\" (1967)\n\n- Zelazny's \"...And Call Me Conrad\" (the original title of \"This Immortal\") won the Hugo Award for Best Novel of 1966 tied with Frank Herbert's \"Dune\"\n\n- The novel \"almost won\" the Hugo for best novel in 1966 but tied with Frank Herbert's \"Dune,\" with one reviewer noting that \"tied with Dune for best novel\" is perhaps an even more impressive credential\n\nThis was particularly significant as it was Zelazny's first novel, making it quite successful for a debut work, competing against what many consider to be one of the greatest science fiction novels ever written."
+    ],
+    "durationSeconds": 13.882480854000024
+  }
+}

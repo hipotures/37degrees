@@ -1,0 +1,62 @@
+{
+  "session_id": "7529e71f-d379-4299-9734-0e831fc05ee8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7529e71f-d379-4299-9734-0e831fc05ee8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Marek Marsza\u0142 t\u0142umacz science fiction fantastyka naukowa biografia"
+  },
+  "tool_response": {
+    "query": "Marek Marsza\u0142 t\u0142umacz science fiction fantastyka naukowa biografia",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01M9dqysbbpUWEaxErgiS2K9",
+        "content": [
+          {
+            "title": "Marek Marsza\u0142 \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Marek_Marsza%C5%82"
+          },
+          {
+            "title": "Marek Marsza\u0142 [ t\u0142umacz ]",
+            "url": "http://baza.fantasta.pl/tlumacz.php?id=172"
+          },
+          {
+            "title": "Zmar\u0142 Marek Marsza\u0142, znakomity t\u0142umacz literatury science ...",
+            "url": "https://www.facebook.com/NowaFantastyka/posts/zmar\u0142-marek-marsza\u0142-znakomity-t\u0142umacz-literatury-science-fiction-kt\u00f3remu-zawdzi\u0119/10158790935244948/"
+          },
+          {
+            "title": "Marek Marsza\u0142 | T\u0142umaczka: Wszystkie ksi\u0105\u017cki, wywiady, artyku\u0142y | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/tlumacz/11946/marek-marszal"
+          },
+          {
+            "title": "Marek Marsza\u0142 ebooki, ksi\u0105\u017cki i audiobooki | ksi\u0119garnia internetowa Woblink",
+            "url": "https://woblink.com/autor/marek-marszal-18507"
+          },
+          {
+            "title": "Marek Marsza\u0142 (autor ksi\u0105\u017cek \"Diuna\" i \"Mesjasz Diuny\") - nakanapie.pl",
+            "url": "https://nakanapie.pl/autorzy/marszal-marek/ksiazki"
+          },
+          {
+            "title": "Jacek Dukaj - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Jacek_Dukaj"
+          },
+          {
+            "title": "Kroniki Diuny T.1 Diuna - Frank Herbert, Marek Marsza\u0142 - Matfel.pl",
+            "url": "https://matfel.pl/product-pol-1290511-Kroniki-Diuny-T-1-Diuna-Frank-Herbert.html"
+          },
+          {
+            "title": "Marek Marsza\u0142",
+            "url": "https://virtualo.pl/marek-marszal-t961/"
+          },
+          {
+            "title": "Najlepsze polskie ksi\u0105\u017cki science fiction \u2013 odkryj fascynuj\u0105ce tytu\u0142y",
+            "url": "https://www.taniaksiazka.pl/blog/najlepsze-polskie-ksiazki-science-fiction-odkryj-fascynujace-tytuly/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about Marek Marsza\u0142, a Polish translator specializing in science fiction literature:\n\n## Biografia Marka Marsza\u0142a\n\nMarek Marsza\u0142 (ur. 25 grudnia 1944, zm. 7 sierpnia 2020) \u2013 polski t\u0142umacz literatury fantastyczno-naukowej.\n\n## G\u0142\u00f3wne osi\u0105gni\u0119cia translatorskie\n\nBy\u0142 pierwszym polskim t\u0142umaczem Diuny Franka Herberta (1985). To by\u0142o jego najs\u0142ynniejsze i najbardziej znacz\u0105ce t\u0142umaczenie.\n\n## Inne wa\u017cne t\u0142umaczenia\n\nW\u015br\u00f3d jego t\u0142umacze\u0144 s\u0105 tak\u017ce Cieplarnia (1983), Wiosna Helikonii (1989), Lato Helikonii (1992) oraz cz\u0119\u015b\u0107 opowiada\u0144 (w tym tytu\u0142owe) ze zbioru Kto zast\u0105pi cz\u0142owieka? (1985) Briana Aldissa, a tak\u017ce powie\u015bci Wyprawa do gwiazd (1981) A.E. van Vogta, Cz\u0142owiek plus (1986) Frederika Pohla, S\u0142uchacze (1987) Jamesa Gunna, Z kwiecia powstaniesz (1995) Clifforda D. Simaka, tom opowiada\u0144 Miecze i ciemne si\u0142y Fritza Leibera (1993) oraz trzy z czterech opowiada\u0144 Rudyarda Kiplinga w tomie Zagubiony legion (1987), pojedyncze opowiadania Raya Bradbury'ego w tomie K jak Kosmos (1978) oraz opowiadanie Harlana Elisona Nie mam ust, a musz\u0119 krzycze\u0107 w antologii Droga do science fiction (tom 3.\n\nMarek Marsza\u0142 by\u0142 uznanym t\u0142umaczem literatury science fiction, kt\u00f3rego prace przybli\u017cy\u0142y polskim czytelnikom wiele klasycznych dzie\u0142 \u015bwiatowej fantastyki naukowej. Jego t\u0142umaczenie \"Diuny\" pozostaje szczeg\u00f3lnie znacz\u0105ce jako pierwsze polskie wydanie tego kultowego dzie\u0142a Franka Herberta."
+    ],
+    "durationSeconds": 20.884765805000004
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "session_id": "7529e71f-d379-4299-9734-0e831fc05ee8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7529e71f-d379-4299-9734-0e831fc05ee8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "best Dune YouTube summary explained audiobook narrator Scott Brick study playlist timestamps"
+  },
+  "tool_response": {
+    "query": "best Dune YouTube summary explained audiobook narrator Scott Brick study playlist timestamps",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_012CfbggHd1BLwXZqz3aW9hB",
+        "content": [
+          {
+            "title": "Dune Audiobook by Frank Herbert",
+            "url": "https://www.audible.com/pd/Dune-Audiobook/B002V1OF70"
+          },
+          {
+            "title": "Dune Saga | Scott Brick",
+            "url": "https://scottbrick.com/audiobook-series/dune-saga"
+          },
+          {
+            "title": "DUNE by Frank Herbert Read by Scott Brick Orlagh Cassidy Euan Morton Simon Vance and Cast | Audiobook Review | AudioFile Magazine",
+            "url": "https://www.audiofilemagazine.com/reviews/read/30903/dune-by-frank-herbert-read-by-scott-brick-orlagh-cassidy/"
+          },
+          {
+            "title": "Audiobooks narrated by Scott Brick | Audible.com",
+            "url": "https://www.audible.com/search?searchNarrator=Scott+Brick"
+          },
+          {
+            "title": "Audiobook Portfolio | Scott Brick",
+            "url": "https://scottbrick.com/audiobooks"
+          },
+          {
+            "title": "Browse Audiobooks Scott Brick - Sort by Bestselling this Month - Page 1 | Audiobooks.com",
+            "url": "https://www.audiobooks.com/browse/narrator/1115/scott-brick"
+          },
+          {
+            "title": "Exclusive: Dune audiobook narrator Scott Brick talks all things Arrakis",
+            "url": "https://winteriscoming.net/posts/exclusive-dune-audiobook-narrator-scott-brick-talks-all-things-arrakis-01hs1jn90te5"
+          },
+          {
+            "title": "DUNE by Frank Herbert Read by Scott Brick | Audiobook Review | AudioFile Magazine",
+            "url": "https://www.audiofilemagazine.com/reviews/read/13563/dune-by-frank-herbert-read-by-scott-brick/"
+          },
+          {
+            "title": "Dune Audiobooks - Macmillan",
+            "url": "https://read.macmillan.com/dune-series-audiobooks/"
+          },
+          {
+            "title": "Audiobooks narrated by Scott Brick | LoveReading",
+            "url": "https://www.lovereading.co.uk/audiobooks/narrator/scott-brick"
+          }
+        ]
+      },
+      "Based on the search results, I found information about Scott Brick's work as a narrator for Dune audiobooks, but I didn't find specific YouTube summaries or playlists with timestamps. Let me search more specifically for YouTube content related to Dune summaries and explanations.",
+      {
+        "tool_use_id": "srvtoolu_01XUbLDtqa2M1AE6bwLw3g5g",
+        "content": [
+          {
+            "title": "Dune Summary and Study Guide | SuperSummary",
+            "url": "https://www.supersummary.com/dune/summary/"
+          },
+          {
+            "title": "Dune Study Guide | Literature Guide | LitCharts",
+            "url": "https://www.litcharts.com/lit/dune"
+          },
+          {
+            "title": "Dune: Study Guide | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/dune/"
+          },
+          {
+            "title": "Dune Summary & Study Guide",
+            "url": "https://www.bookrags.com/studyguide-dune-frank-herbert/"
+          },
+          {
+            "title": "Dune \u2014 Study Guide \u2014 CliffsNotes",
+            "url": "https://www.cliffsnotes.com/literature/dune"
+          },
+          {
+            "title": "Dune Frank Herbert Chapter Summaries - Studypool",
+            "url": "https://www.studypool.com/studyGuides/Dune/Chapter_Summaries"
+          },
+          {
+            "title": "'Dune: Part One' Explained: A Guide Recap Before 'Part Two'",
+            "url": "https://www.indiewire.com/features/general/dune-part-one-explained-guide-1234956229/"
+          },
+          {
+            "title": "Dune Messiah Summary and Study Guide | SuperSummary",
+            "url": "https://www.supersummary.com/dune-messiah/summary/"
+          },
+          {
+            "title": "God Emperor of Dune Summary and Study Guide | SuperSummary",
+            "url": "https://www.supersummary.com/god-emperor-of-dune/summary/"
+          },
+          {
+            "title": "Dune Section Summaries | Course Hero",
+            "url": "https://www.coursehero.com/lit/Dune/summaries/"
+          }
+        ]
+      },
+      "Let me search more specifically for YouTube content about Dune explanations and timestamps.",
+      {
+        "tool_use_id": "srvtoolu_01LHdR1sVzR3kQaLqZ32wFmN",
+        "content": [
+          {
+            "title": "YouTube Chapter Generator - AI-Powered Video Timestamps",
+            "url": "https://timestampcreator.com/"
+          },
+          {
+            "title": "YouTube Chapters/ Timestamps How and Why You should use them | by Andrew Kan | Medium",
+            "url": "https://medium.com/@AndrewKanFilm/youtube-chapters-timestamps-how-and-why-you-should-use-them-eec5ffaf6751"
+          },
+          {
+            "title": "Video Chapters Definition - YouTube Explained",
+            "url": "https://www.tella.com/definition/video-chapters"
+          },
+          {
+            "title": "Timeline (Expanded Dune) | Dune Wiki | Fandom",
+            "url": "https://dune.fandom.com/wiki/Timeline_(Expanded_Dune)"
+          },
+          {
+            "title": "Timeline (Original Dune) | Dune Wiki | Fandom",
+            "url": "https://dune.fandom.com/wiki/Timeline_(Original_Dune)"
+          },
+          {
+            "title": "How to Add Chapters to Your Videos Using Timestamps - YouTube Help",
+            "url": "https://support.google.com/youtube/video/13604742?hl=en"
+          },
+          {
+            "title": "Dune (franchise) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dune_(franchise)"
+          },
+          {
+            "title": "Dune (2021 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dune_(2021_film)"
+          },
+          {
+            "title": "YouTube Guide: How to Add Chapters (Timestamps)",
+            "url": "https://sendshort.ai/guides/youtube-chapters/"
+          },
+          {
+            "title": "Dune: Part Two - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dune:_Part_Two"
+          }
+        ]
+      },
+      "I found some information about Dune audiobooks and study guides, but not specific YouTube playlists with timestamps. Let me search for actual YouTube videos about Dune summaries.",
+      {
+        "tool_use_id": "srvtoolu_014jdfukqwfYSmyqV9FpL1Rn",
+        "content": []
+      },
+      "Based on my web search results, I found information about Scott Brick's work with Dune audiobooks and general information about Dune study guides, but I wasn't able to find specific YouTube playlists with timestamps for Dune summaries. Here's what I discovered:\n\n## Scott Brick as Dune Narrator\n\nScott Brick has been narrating Dune audiobooks for over 20 years, working on the ground floor of Arrakis-related content. He narrated Herbert's original Dune novel back in the early 2000s, along with dozens of other Dune stories by Frank Herbert, Brian Herbert and Kevin J. Anderson. He estimates having narrated at least 25 Dune books, possibly 26.\n\n## Dune Audiobook Details\n\nThe Dune audiobook features multiple narrators including Scott Brick, Orlagh Cassidy, Euan Morton, Simon Vance, Ilyana Kadushin, Byron Jennings, David R. Gordon, Jason Culp, Kent Broadhurst, Oliver Wyman, Patricia Kilgarriff, and Scott Sowers. This full-cast performance is augmented by sound effects and music, with Simon Vance serving as the stalwart anchor narrator and Scott Brick contributing to the engrossing presentation.\n\nScott Brick delivers a masterful performance of this science fiction classic, and he narrates like a historian of the planet Dune, expressing a passion for the peoples and cultures he describes.\n\n## Study Resources\n\nWhile I didn't find specific YouTube playlists with timestamps, there are several comprehensive study guides available:\n\n- SuperSummary offers high-quality Study Guides with detailed chapter summaries and analysis of major themes, characters, and more\n- LitCharts provides study guides created by the original team behind SparkNotes\n- SparkNotes offers analysis of Dune as a complex and multi-layered work that explores themes around cultural and historical development, religion, ecology, and human nature\n\n## YouTube Chapters Information\n\nI found general information about how YouTube timestamps and chapters work: To add YouTube chapters, you start with 00:00 and a chapter title, and the chapter titles are important since they can show up in search results. Chapters need to be a minimum of 10 seconds long, there needs to be at least 3 of them to function, and they need to be in ascending order.\n\nUnfortunately, I wasn't able to find specific YouTube playlists or videos with detailed timestamps for Dune summaries or explanations that would serve as a study guide. You might want to search YouTube directly for \"Dune summary\" or \"Dune explained\" to find current video content with timestamps."
+    ],
+    "durationSeconds": 38.40981056999997
+  }
+}

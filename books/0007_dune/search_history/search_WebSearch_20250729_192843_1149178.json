@@ -1,0 +1,21 @@
+{
+  "session_id": "7529e71f-d379-4299-9734-0e831fc05ee8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7529e71f-d379-4299-9734-0e831fc05ee8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"University of Warsaw\" \"Dune\" \"Literature and Popular Culture\" course curriculum \"Frank Herbert\" Polish university syllabus"
+  },
+  "tool_response": {
+    "query": "\"University of Warsaw\" \"Dune\" \"Literature and Popular Culture\" course curriculum \"Frank Herbert\" Polish university syllabus",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_011rR8KnUCYcgbHLjHKKvsSg",
+        "content": []
+      },
+      "I searched for information about a University of Warsaw course on \"Literature and Popular Culture\" that includes Dune and Frank Herbert in the curriculum, but the search didn't return any specific results. This could be because:\n\n1. The specific course details might not be publicly available online\n2. The course syllabus might be in Polish and not indexed in English search results\n3. The course might be very specialized or from a specific department that doesn't have extensive online presence\n\nWould you like me to try a different search approach, such as:\n- Searching for University of Warsaw literature courses more broadly\n- Looking for Polish university courses that include science fiction literature\n- Searching for academic courses that study Frank Herbert's Dune in an international context\n\nOr if you have additional context about this course (such as the specific department, professor name, or academic year), that might help narrow down the search."
+    ],
+    "durationSeconds": 9.91558164800005
+  }
+}

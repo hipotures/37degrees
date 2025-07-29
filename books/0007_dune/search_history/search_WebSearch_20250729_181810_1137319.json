@@ -1,0 +1,85 @@
+{
+  "session_id": "0487d7f4-1250-4bb6-867a-a71d253cfc4f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0487d7f4-1250-4bb6-867a-a71d253cfc4f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Diuna\" teatr spektakl adaptacja \"Teatr Polskiego Radia\" audiobook polska"
+  },
+  "tool_response": {
+    "query": "\"Diuna\" teatr spektakl adaptacja \"Teatr Polskiego Radia\" audiobook polska",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01Vk241bHpaW6M5FvPv6BwCB",
+        "content": [
+          {
+            "title": "Audiobook Teatr Polskiego Radia Przedstawia. Matysiakowie CD | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/audiobook-teatr-polskiego-radia-przedstawia-matysiakowie-cd-p-267608.html"
+          },
+          {
+            "title": "Teatr Polskiego Radia | wszystkie ksi\u0105\u017cki w TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/autor/teatr-polskiego-radia"
+          },
+          {
+            "title": "Seria Teatr Polskiego Radia | ksi\u0119garnia TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/seria/teatr-polskiego-radia"
+          }
+        ]
+      },
+      "The search results show information about the Polish Radio Theatre (Teatr Polskiego Radia) and their audiobook productions, but I don't see specific information about a \"Diuna\" (Dune) theatrical adaptation or audiobook by them. Let me search more specifically for this.",
+      {
+        "tool_use_id": "srvtoolu_01NwZYFUXSW2sGifqZn5Mu1v",
+        "content": [
+          {
+            "title": "Diuna \u2013 powie\u015b\u0107 Franka Herberta - Agencja Skrivanek",
+            "url": "https://skrivanek.pl/diuna-powiesc-franka-herberta/"
+          },
+          {
+            "title": "Diuna - Audiobook - Frank Herbert - Dom Wydawniczy REBIS Sp. z o.o. | Audioteka",
+            "url": "https://audioteka.com/pl/audiobook/diuna/"
+          },
+          {
+            "title": "Diuna ksi\u0105\u017cka | Frank Herbert | seria Kroniki Diuny",
+            "url": "https://www.swiatksiazki.pl/seria/diuna"
+          },
+          {
+            "title": "Diuna - Frank Herbert | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/4942534/diuna"
+          },
+          {
+            "title": "Seria Diuna | ksi\u0119garnia TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/seria/diuna"
+          },
+          {
+            "title": "Diuna (powie\u015b\u0107) \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Diuna_(powie\u015b\u0107)"
+          },
+          {
+            "title": "Diuna - Herbert Frank (Audiobook) - Ceny i opinie - Ceneo.pl",
+            "url": "https://www.ceneo.pl/19737363"
+          },
+          {
+            "title": "Diuna \u2013 Frank Herbert | Audiobook w MP3 | ksi\u0119garnia internetowa Woblink",
+            "url": "https://woblink.com/audiobook/diuna-frank-herbert-24265"
+          },
+          {
+            "title": "Polskie Radio online",
+            "url": "https://podcasty.polskieradio.pl/podcast/scena-teatralna-trojki,230"
+          },
+          {
+            "title": "T\u0142umaczenia \u201eDiuny\" Franka Herberta - Baba od polskiego",
+            "url": "https://babaodpolskiego.pl/jezyki-diuny-franka-herberta-2/"
+          }
+        ]
+      },
+      "Based on the search results, I can see information about Dune (Diuna) audiobooks and the Polish Radio Theatre (Teatr Polskiego Radia), but I don't see specific information about a theatrical adaptation of Dune by the Polish Radio Theatre. Let me search more specifically for this combination.",
+      {
+        "tool_use_id": "srvtoolu_01GPGBkRt3esM2PbJjmSZCtV",
+        "content": []
+      },
+      "Based on my search results, I found information about Dune (Diuna) audiobooks and the Polish Radio Theatre (Teatr Polskiego Radia), but I did not find any specific evidence of a theatrical adaptation or radio play (s\u0142uchowisko) of Frank Herbert's \"Dune\" produced by the Polish Radio Theatre.\n\nHere's what the search revealed:\n\n**Available Polish Dune Audiobooks:**\nThere is a Polish audiobook of \"Dune\" narrated by Krzysztof Goszty\u0142a, described as a \"masterful interpretation\" that \"adds new life to this epic story, making it a true spectacle for the senses.\"(no content)This audiobook is described as \"a true feast for the senses\" with \"perfectly realized recording providing rich sound layers and high-quality narration\" lasting \"almost thirty hours of story filled with emotions, tension and a struggle for the fate of the universe.\"\n\n**Polish Radio Theatre Productions:**\nThe Polish Radio Theatre in Warsaw produces audio adaptations of various works, including fairy tales and children's literature, \"in ingenious arrangements by \u0141ukasz Lewandowski and audio staging performed by the Polish Radio Theatre in Warsaw, with the participation of the most outstanding Polish actors.\"(no content)The Polish Radio Theatre has a series called \"Golden Hundred of the Polish Radio Theatre\" that includes excellent works specifically written for the Polish Radio Theatre, with radio plays recorded and broadcast since 1958.\n\nHowever, despite searching specifically for a combination of \"Teatr Polskiego Radia\" and \"Diuna,\" I could not find any evidence of the Polish Radio Theatre having produced a theatrical adaptation or radio play version of Frank Herbert's \"Dune.\" The available audiobook appears to be a standard narrated version rather than a dramatic adaptation by the Polish Radio Theatre."
+    ],
+    "durationSeconds": 28.40589808200003
+  }
+}

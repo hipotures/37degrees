@@ -1,0 +1,21 @@
+{
+  "session_id": "0487d7f4-1250-4bb6-867a-a71d253cfc4f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0487d7f4-1250-4bb6-867a-a71d253cfc4f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Dune YouTube summary \"best audiobook\" study resources SparkNotes \"10 minute\" guide"
+  },
+  "tool_response": {
+    "query": "Dune YouTube summary \"best audiobook\" study resources SparkNotes \"10 minute\" guide",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01M866LLC5vh5NJJG9pnfxC7",
+        "content": []
+      },
+      "I found several resources related to Dune study materials and audiobook summaries:\n\nSparkNotes provides comprehensive study guides for Frank Herbert's Dune, including plot summaries, character analysis, and themes. YouTube offers multiple quick summary videos, with some channels providing \"10-minute\" overviews of the entire Dune storyline.\n\nFor audiobook options, several reviewers recommend the unabridged Dune audiobook narrated by various performers as among the best science fiction audiobook experiences. The audiobook runs approximately 21 hours and covers Herbert's complete original novel.\n\nStudy resources include:\n- SparkNotes' detailed chapter-by-chapter breakdowns and analysis\n- YouTube channels offering condensed plot summaries and character explanations\n- Online study guides that focus on key themes like ecology, politics, and religion in Dune\n\nThese resources can help whether you're preparing for discussions, assignments, or simply want to understand the complex world Herbert created before or after reading/listening to the full novel."
+    ],
+    "durationSeconds": 12.156830493999994
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "session_id": "7529e71f-d379-4299-9734-0e831fc05ee8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7529e71f-d379-4299-9734-0e831fc05ee8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebFetch",
+  "tool_input": {
+    "url": "https://www.cracked.com/article_31566_dunes-original-publisher-otherwise-just-printed-repair-manuals.html",
+    "prompt": "Extract specific details about the 23 rejections of Dune manuscript, Chilton Company's background as a repair manual publisher, and any details about why other publishers rejected the book. Include specific numbers, dates, or editorial comments if mentioned."
+  },
+  "tool_response": {
+    "bytes": 144211,
+    "code": 200,
+    "codeText": "OK",
+    "result": "Here are the key details about Dune's publication history:\n\nManuscript Rejections:\n- 23 different publishers rejected the manuscript\n- Reason for rejection: Publishers believed \"sci-fi readers like their stories short\"\n- The manuscript was approximately 200,000 words long\n\nPublisher Background:\n- Chilton Company was primarily a trade publication publisher\n- They mainly published magazines like \"Iron Age\" and auto repair manuals\n- They were not a traditional book publishing company\n- After publishing Dune, they published a few more novels but did not fully enter fiction publishing\n\nAdditional Context:\n- Frank Herbert originally serialized shorter versions of the story in \"Analog Science Fact & Fiction\" magazine\n- The novel combined two previously published short novels: \"Dune World\" and \"The Prophet of Dune\"\n- Publishers viewed it as a sci-fi novel, though Herbert's story had many fantasy elements like \"royalty and messiahs\"\n\nInteresting Outcome:\n- Despite initial rejections, Dune went on to see significant success\n- Chilton Company was eventually sold for half a billion dollars",
+    "durationMs": 10534,
+    "url": "https://www.cracked.com/article_31566_dunes-original-publisher-otherwise-just-printed-repair-manuals.html"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "session_id": "0487d7f4-1250-4bb6-867a-a71d253cfc4f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0487d7f4-1250-4bb6-867a-a71d253cfc4f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Diuna\" \"Frank Herbert\" recenzja \"Culture.pl\" Polityka krytyka literacka polska"
+  },
+  "tool_response": {
+    "query": "\"Diuna\" \"Frank Herbert\" recenzja \"Culture.pl\" Polityka krytyka literacka polska",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01BkiWkez6AgSK6hVfJwD93F",
+        "content": []
+      },
+      "I searched for Polish literary criticism and reviews of Frank Herbert's \"Dune\" (Diuna in Polish) from Culture.pl and Polityka, but unfortunately the search didn't return any results. This could be because:\n\n1. There may not be specific reviews matching all these exact terms together\n2. The content might not be indexed by search engines in this particular combination\n3. The reviews might exist but use different terminology or publication formats\n\nWould you like me to try a modified search with fewer specific terms, such as searching for \"Diuna Frank Herbert recenzja polska\" or \"Dune Polish literary criticism\" to find broader coverage of Polish reviews of Herbert's work?"
+    ],
+    "durationSeconds": 9.35292134
+  }
+}

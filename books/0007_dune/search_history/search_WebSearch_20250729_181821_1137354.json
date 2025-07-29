@@ -1,0 +1,21 @@
+{
+  "session_id": "0487d7f4-1250-4bb6-867a-a71d253cfc4f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0487d7f4-1250-4bb6-867a-a71d253cfc4f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Dune video games complete list timeline \"Emperor Battle for Dune\" \"Dune Spice Wars\" 2022 mobile games"
+  },
+  "tool_response": {
+    "query": "Dune video games complete list timeline \"Emperor Battle for Dune\" \"Dune Spice Wars\" 2022 mobile games",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01ApL871LT369qVWxn7hFZLC",
+        "content": []
+      },
+      "Based on the search results, here's information about Dune video games including the timeline and specific titles you mentioned:\n\nThe Dune video game franchise spans several decades, with various games released across different platforms and genres. Here are some key titles from the timeline:\n\n**Classic Era:**\n- Dune (1992) - The original adventure/strategy game by Cryo Interactive\n- Dune II: The Building of a Dynasty (1992) - Westwood Studios' influential real-time strategy game\n- Dune 2000 (1998) - A remake/sequel to Dune II by Westwood Studios\n\n**Early 2000s:**\n- Emperor: Battle for Dune (2001) - The final RTS in Westwood's Dune series, which was one of the titles you specifically asked about\n\n**Recent Era:**\n- Dune: Spice Wars (2022) - A 4X real-time strategy game by Shiro Games, which matches your query about the 2022 title\n\n**Mobile Games:**\nSeveral Dune mobile games have been released, including browser-based and mobile strategy games, though the search results don't provide a complete list of all 2022 mobile releases.\n\nThe franchise has seen renewed interest following the success of Denis Villeneuve's Dune films, leading to new game developments and re-releases of classic titles. The games span multiple genres including real-time strategy, 4X strategy, adventure, and mobile gaming."
+    ],
+    "durationSeconds": 15.284570831999998
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "session_id": "7529e71f-d379-4299-9734-0e831fc05ee8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7529e71f-d379-4299-9734-0e831fc05ee8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Frank Herbert\" correspondence scientists ecologists botanists consultants \"Dune\" research letters"
+  },
+  "tool_response": {
+    "query": "\"Frank Herbert\" correspondence scientists ecologists botanists consultants \"Dune\" research letters",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_017kQoaARA167kPgsJVSAsRr",
+        "content": [
+          {
+            "title": "Frank Herbert - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Frank_Herbert"
+          },
+          {
+            "title": "Frank Herbert's Ecology and the Science of Soil Conservation",
+            "url": "https://niche-canada.org/2020/04/24/frank-herberts-ecology-and-the-science-of-soil-conservation/"
+          },
+          {
+            "title": "Pollak Library Houses Frank Herbert\u2019s Original Manuscript for 'Dune' | CSUF News",
+            "url": "https://news.fullerton.edu/spotlight/pollak-library-houses-frank-herberts-original-manuscript-for-dune/"
+          },
+          {
+            "title": "The Worm and the Ecologist: Experiencing Planetarity with Frank Herbert\u2019s Dune",
+            "url": "https://journals.openedition.org/transatlantica/22124?lang=en"
+          },
+          {
+            "title": "The Ecological Prescience of Dune - JSTOR Daily",
+            "url": "https://daily.jstor.org/the-ecological-prescience-of-dune/"
+          },
+          {
+            "title": "The Quileute Dune: Frank Herbert, Indigeneity, and Empire | Journal of American Studies | Cambridge Core",
+            "url": "https://www.cambridge.org/core/journals/journal-of-american-studies/article/abs/quileute-dune-frank-herbert-indigeneity-and-empire/83A9B64760B9B9F495D5039B2CD3F20F"
+          },
+          {
+            "title": "Dune Scholar - Accessible, research-based analysis of Frank Herbert's science fiction series",
+            "url": "https://dunescholar.com/"
+          },
+          {
+            "title": "Climate Fiction and Dune: Lost in Adaptation | Sierra Club",
+            "url": "https://www.sierraclub.org/sierra/2024-1-spring/books/climate-fiction-and-dune-lost-adaptation"
+          },
+          {
+            "title": "Frank Herbert\u2019s Dune and the Discourse of Apocalyptic Ecologism in the United States | SpringerLink",
+            "url": "https://link.springer.com/chapter/10.1007/978-1-349-20815-9_8"
+          },
+          {
+            "title": "\"Dune,\" climate fiction pioneer: The ecological lessons of Frank Herbert's sci-fi masterpiece were ahead of its time | Salon.com",
+            "url": "https://www.salon.com/2015/08/13/dune_climate_fiction_pioneer_the_ecological_lessons_of_frank_herberts_sci_fi_masterpiece_were_ahead_of_its_time/"
+          }
+        ]
+      },
+      "I've found information about Frank Herbert's correspondence and research for Dune. Let me search for more specific details about his scientific consultations:",
+      {
+        "tool_use_id": "srvtoolu_017XqTGwsgMZ9Ghore3i7VtT",
+        "content": [
+          {
+            "title": "Collection: Willis E. McNelly Science Fiction Collection: Frank Herbert papers (Collection) | CSUF UA&SC and LDCOPH Finding Aids",
+            "url": "http://archives.fullerton.edu/repositories/5/resources/56"
+          },
+          {
+            "title": "Pollak Library Houses Frank Herbert\u2019s Original Manuscript for 'Dune' | CSUF News",
+            "url": "https://news.fullerton.edu/spotlight/pollak-library-houses-frank-herberts-original-manuscript-for-dune/"
+          },
+          {
+            "title": "Willis McNelly interview, correspondence on donation of Herbert papers, Dune merchandising, David Lynch script, interview transcript | CSUF UA&SC and LDCOPH Finding Aids",
+            "url": "http://archives.fullerton.edu/repositories/5/archival_objects/5294"
+          },
+          {
+            "title": "Frank Herbert\u2019s Dune and the Dune Series - American Literature - Oxford Bibliographies",
+            "url": "https://www.oxfordbibliographies.com/display/document/obo-9780199827251/obo-9780199827251-0201.xml"
+          },
+          {
+            "title": "Dune Encyclopedia : Willis E. McNelly (compiler) | Berkley Books : Free Download, Borrow, and Streaming : Internet Archive",
+            "url": "https://archive.org/details/dune-encyclopedia"
+          },
+          {
+            "title": "Digging Through the Frank Herbert Archives & Dune Display at CSUF Library - Fullerton Observer",
+            "url": "https://fullertonobserver.com/2024/07/03/digging-through-the-frank-herbert-archives-dune-display-at-csuf-library/"
+          },
+          {
+            "title": "Willis E. McNelly Science Fiction Collection: Frank Herbert papers",
+            "url": "https://oac.cdlib.org/findaid/ark:/13030/c89z99ht/"
+          },
+          {
+            "title": "The Dune Encyclopedia | Dune Wiki | Fandom",
+            "url": "https://dune.fandom.com/wiki/The_Dune_Encyclopedia"
+          },
+          {
+            "title": "Primary Sources - Frank Herbert's Dune - A guide for further study - LibGuides at California State University, Fullerton",
+            "url": "https://libraryguides.fullerton.edu/c.php?g=389150&p=2640438"
+          },
+          {
+            "title": "Explore 'Dune' Author Frank Herbert's Notes at Cal State ...",
+            "url": "https://news.fullerton.edu/press-release/explore-dune-author-frank-herberts-notes-at-cal-state-fullerton/"
+          }
+        ]
+      },
+      "Based on my search results, I found extensive information about Frank Herbert's correspondence, research, and consultation with scientists and ecologists for his novel \"Dune.\" Here's what I discovered:\n\n## Frank Herbert's Scientific Correspondence and Research for Dune\n\nHerbert began researching Dune in 1959, with the novel taking six years of research and writing to complete. His research was extensive and involved correspondence with various experts and extensive archival materials that are now housed at California State University, Fullerton.\n\n### The Willis E. McNelly Archive\n\nThe Willis E. McNelly Science Fiction Collection: Frank Herbert papers (1950-1986) consists of 91 boxes of materials documenting the life and work of science fiction author Frank Herbert, who was also a journalist, photographer, and educator whose interests in ecology, politics, and human adaptation to environmental challenges deeply influenced his fiction. This comprehensive collection contains manuscripts and working papers for his short stories, novels, and articles; extensive research files; correspondence.\n\nThe Research Files series is particularly extensive, comprising 13 cartons of materials organized alphabetically and spanning topics from architecture to Vietnam. Herbert's papers include manuscripts of his various novels, short stories and articles, as well as correspondence, research files and much more. The research files are fascinating, and contain Herbert's notes, writings and source materials on such topics as religion, ecology and world building \u2014 all of which figured in \"Dune.\"\n\n### Scientific and Ecological Research\n\nHerbert's ecological research was foundational to Dune. Herbert's environmental work in Oregon formed the basis of the speculative ecological work of the Fremen, which parallels real-world efforts and tactics of sand dune management. The author, who was also a journalist, went to Oregon to write a piece on the sand dune stabilization programs that were being run by the Soil Conservation Service (SCS). His planned article was titled, quite dramatically, \"They Stopped the Moving Sands,\" but was never published and never finished.\n\nAmong the research materials is a large file of notes (from the late 1950s) for an article on the \"Shifting Sand Dunes\" in Oregon, which inspired the landscape of the planet Arrakis. The ecologists who worked with the SCS split their time between working in the dunes and on local farms for soil conservation planning.\n\n### Dedication to Scientists\n\nHerbert's dedication in Dune reveals his respect for scientific consultants. On the dedication page for the 1965 sci-fi epic novel Dune, author Frank Herbert writes that this is for \"the people whose labors go beyond ideas into the realm of 'real materials'\u2014to the dry-land ecologists, wherever they may be, in whatever time they work, this effort at prediction is dedicated in humility and admiration.\"\n\n### Correspondence and Collaboration with Willis McNelly\n\nThe Herbert papers came to Cal State Fullerton through the efforts of the late Willis E. McNelly, professor emeritus of English. McNelly was well known as a scholar of science fiction and was instrumental in having science fiction recognized as literature. He developed a friendship with Herbert, and with several other science fiction writers, and was the driving force behind Cal State Fullerton's vast science fiction collection which now bears his name. McNelly's working relationship with Herbert was especially close.\n\nI flew to Port Townsend to spend a long weekend with FH discussing the various problems which we both forsaw. I taped about eight hours of our conversations, and they now form part of the Herbert Archives at the Special Collections Library, Cal State Fullerton.\n\n### Professional Background Supporting Research\n\nHe also wrote short stories and worked as a newspaper journalist, photographer, book reviewer, ecological consultant, and lecturer. He worked in Vietnam and Pakistan as a social and ecological consultant in 1972, which provided him with practical experience in ecological consulting that informed his fiction.\n\nIn his 1980 essay, \"Dune Genesis,\" Herbert (who had a background in journalism) explains: \"I had already written several pieces about ecological matters, but my superhero concept filled me with a concern that ecology might be the next banner for demagogues and would-be heroes\u2026I could begin to see the shape of a global problem, no part of it separated from any other\u2014social ecology, political ecology, economic ecology.\"\n\nThe archival materials at Cal State Fullerton contain extensive correspondence and research files that document Herbert's scientific consultations, though specific names of individual botanists or ecologists he corresponded with are not detailed in the search results."
+    ],
+    "durationSeconds": 41.613974659
+  }
+}

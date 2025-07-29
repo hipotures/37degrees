@@ -1,0 +1,62 @@
+{
+  "session_id": "7b55c4df-37c7-40ba-a24e-add57974ae65",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7b55c4df-37c7-40ba-a24e-add57974ae65.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Dune 2000 miniseries Frank Herbert's Dune SciFi Channel ratings viewership Emmy awards"
+  },
+  "tool_response": {
+    "query": "Dune 2000 miniseries Frank Herbert's Dune SciFi Channel ratings viewership Emmy awards",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01ES3L2KNyYsoHEivLCRrLrf",
+        "content": [
+          {
+            "title": "Frank Herbert's Dune - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Frank_Herbert's_Dune"
+          },
+          {
+            "title": "Frank Herbert\u2019s Dune (2000): Review - Loud And Clear Reviews",
+            "url": "https://loudandclearreviews.com/frank-herbert-dune-2000-review/"
+          },
+          {
+            "title": "Dune (TV Mini Series 2000) \u2b50 6.9 | Adventure, Drama, Sci-Fi",
+            "url": "https://www.imdb.com/title/tt0142032/"
+          },
+          {
+            "title": "Dune (TV Mini Series 2000) - User reviews - IMDb",
+            "url": "https://www.imdb.com/title/tt0142032/reviews/"
+          },
+          {
+            "title": "Watch: DUNE (2000): 4.5 Hour TV Mini-series: Syfy's Adaptation of Frank Herbert Science Fiction Novel | FilmBook",
+            "url": "https://film-book.com/watch-dune-2000-4-5-hour-tv-mini-series-syfys-adaptation-of-frank-herbert-science-fiction-novel-syfy/"
+          },
+          {
+            "title": "Frank Herbert\u2019s Dune (2000) SciFi Channel Miniseries \u2013 The Science Fiction Review",
+            "url": "https://www.scifi-review.net/frank-herberts-dune-2000-scifi-channel-miniseries.html"
+          },
+          {
+            "title": "Frank Herbert's Dune | Dune Wiki | Fandom",
+            "url": "https://dune.fandom.com/wiki/Frank_Herbert's_Dune"
+          },
+          {
+            "title": "Frank Herbert's Children of Dune - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Frank_Herbert's_Children_of_Dune"
+          },
+          {
+            "title": "Dune (franchise) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dune_(franchise)"
+          },
+          {
+            "title": "The Other Dune Sequel You May Have Forgotten: SYFY's 2003 Miniseries, Children of Dune",
+            "url": "https://www.syfy.com/syfy-wire/remembering-syfys-children-of-dune-miniseries"
+          }
+        ]
+      },
+      "Based on the search results, here's comprehensive information about the 2000 miniseries \"Frank Herbert's Dune\" on the Sci-Fi Channel:\n\n## Ratings and Viewership\n\nThe first installment achieved a 4.6 rating with 3 million homes, and the miniseries averaged a 4.4/2.9 million households over all three nights.(no content)This doubled all viewership records for Sci Fi, placing Dune among the top ten of basic cable's original miniseries in the five years previous.(no content)Two of the three installments also rated among the year's top 10 original cable movies.(no content)As of 2007, the 2000 Dune miniseries and its 2003 sequel were two of the three highest-rated programs ever to be broadcast on the Sci Fi Channel.(no content)The miniseries was a groundbreaking television event, shattering viewership records and were among the highest-rated programs on the network at the time.\n\n## Emmy Awards\n\nThe series was nominated for three Primetime Emmy Awards and won two, for Primetime Emmy Award for Outstanding Cinematography for a Limited Series or Movie and Primetime Emmy Award for Outstanding Special Visual Effects.(no content)Frank Herbert's Dune won two Emmy Awards in 2001 for Outstanding Cinematography and Outstanding Special Visual Effects in a miniseries or movie, and was nominated for a third Emmy for Outstanding Sound Editing.\n\n## Production Details\n\nThe series was first broadcast in three installments, beginning on December 3, 2000.(no content)Written for the screen, directed by John Harrison and filmed at Barrandov Studios in the Czech Republic on a $20 million budget, Frank Herbert's Dune premiered on the Sci Fi Channel in December 2000.\n\nThe miniseries was praised for being more faithful to Frank Herbert's original novel compared to David Lynch's 1984 film adaptation, though it faced some criticism for production values and acting quality given its television budget constraints."
+    ],
+    "durationSeconds": 20.51054912400001
+  }
+}

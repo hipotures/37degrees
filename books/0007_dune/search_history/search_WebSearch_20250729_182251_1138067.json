@@ -1,0 +1,62 @@
+{
+  "session_id": "0487d7f4-1250-4bb6-867a-a71d253cfc4f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0487d7f4-1250-4bb6-867a-a71d253cfc4f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Reddit r/dune community members subscribers discussions Discord servers"
+  },
+  "tool_response": {
+    "query": "Reddit r/dune community members subscribers discussions Discord servers",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01TE7jCRL8mHQWwY18zpnQzv",
+        "content": [
+          {
+            "title": "Community - Dune: Awakening Community Wiki",
+            "url": "https://awakening.wiki/Community"
+          },
+          {
+            "title": "Discord servers tagged with dune | DISBOARD",
+            "url": "https://disboard.org/servers/tag/dune"
+          },
+          {
+            "title": "Dune \u2013 Discord.Do",
+            "url": "https://discord.do/dune/"
+          },
+          {
+            "title": "Dune Awakening RP | DISBOARD: Discord Server List",
+            "url": "https://disboard.org/server/1345589026270220289"
+          },
+          {
+            "title": "Join the Dune Discord Server!",
+            "url": "https://discord.com/invite/dune"
+          },
+          {
+            "title": "World Discord Servers? :: Dune: Awakening General Discussions",
+            "url": "https://steamcommunity.com/app/1172710/discussions/0/501704624676401769/"
+          },
+          {
+            "title": "Roleplay Servers WHERE? :: Dune: Awakening General Discussions",
+            "url": "https://steamcommunity.com/app/1172710/discussions/0/595150868109596446/"
+          },
+          {
+            "title": "Join the Dune: Awakening Discord Server!",
+            "url": "https://discord.com/invite/duneawakening"
+          },
+          {
+            "title": "Subreddit for Private Server listings. :: Dune: Awakening General Discussions",
+            "url": "https://steamcommunity.com/app/1172710/discussions/0/595150786260904806/"
+          },
+          {
+            "title": "Discord is not the place to do important server announcements :: Dune: Awakening General Discussions",
+            "url": "https://steamcommunity.com/app/1172710/discussions/0/595151065797646643/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with information about the Reddit r/dune community, their Discord servers, and related community discussions:\n\n## Main Dune Discord Community\n\nThe largest fan-run Dune community on Discord has official connections with the r/dune and r/dunememes subreddits and the Dune Wiki.(no content)This main Dune Discord server has 12,367 members and serves as a discussion hub for fans of Frank Herbert's Dune series and all related media.\n\n## Dune: Awakening Official Discord\n\nFor the game Dune: Awakening specifically, there's an official Discord server with 251,701 members that serves as the official Discord server for Dune: Awakening, a multiplayer survival game set on an open world Arrakis.\n\n## Community Structure and Connections\n\nThe server is friendly and open to all who are interested in the world of Frank Herbert's Dune, whether that be the books, movies, games, or any other related media.(no content)They also have a great community of people who just like to hang out and chat about various other non-Dune topics, ranging from books and films to memes and everything else in between.\n\n## Related Subreddits\n\nThe search results mention several relevant subreddits:\n- r/dune and r/dunememes (connected to the main Discord)\n- r/duneawakening - managed by fans, in communication with Funcom staff\n- r/DuneServers - a subreddit for private server listings\n\n## Multiple Language Communities\n\nDune: Awakening has already gathered a large community following since it's announcement, including multilingual Discord servers, Subreddits, Twitch/Youtube Content Creators and Fansites. The search results show various language-specific Discord communities including Brazilian Portuguese, German, Spanish, French, Italian, Lithuanian, Norwegian, and Oceanic communities.\n\n## Specialized Discord Servers\n\nThere are numerous specialized Discord servers for different aspects of the Dune community, including:\n- Dune: Awakening RP - a hub discord community for roleplayers and roleplaying guilds\n- Dune: Awakening Building - a fan-made Discord community focused on base building and creative design in Dune: Awakening\n- Various private server communities and guild-specific servers\n\nThe community appears to be very active and well-organized across multiple platforms, with strong connections between Reddit and Discord communities for both the broader Dune franchise and the specific game Dune: Awakening."
+    ],
+    "durationSeconds": 22.82991744999995
+  }
+}

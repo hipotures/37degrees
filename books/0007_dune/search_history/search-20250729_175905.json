@@ -1,0 +1,62 @@
+{
+  "session_id": "7b55c4df-37c7-40ba-a24e-add57974ae65",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7b55c4df-37c7-40ba-a24e-add57974ae65.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Diuna Frank Herbert pierwsze wydanie t\u0142umaczenie polskie"
+  },
+  "tool_response": {
+    "query": "Diuna Frank Herbert pierwsze wydanie t\u0142umaczenie polskie",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_012Po2B7NGkPvTPbUcFTJFyA",
+        "content": [
+          {
+            "title": "Diuna (powie\u015b\u0107) \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Diuna_(powie\u015b\u0107)"
+          },
+          {
+            "title": "Diuna ksi\u0105\u017cka | Frank Herbert | seria Kroniki Diuny",
+            "url": "https://www.swiatksiazki.pl/seria/diuna"
+          },
+          {
+            "title": "Diuna \u2013 powie\u015b\u0107 Franka Herberta - Agencja Skrivanek",
+            "url": "https://skrivanek.pl/diuna-powiesc-franka-herberta/"
+          },
+          {
+            "title": "Diuna. Kroniki Diuny. Tom 1 Frank Herbert ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/diuna-kroniki-diuny-tom-1-frank-herbert"
+          },
+          {
+            "title": "O czym jest Diuna? Ciekawostki o ksi\u0105\u017cce i filmie | Woblink blog",
+            "url": "https://woblink.com/blog/czego-jeszcze-nie-wiesz-o-diunie-a-powinienes/"
+          },
+          {
+            "title": "Diuna, Mesjasz Diuny - Frank Herbert. Powr\u00f3t na Arrakis (recenzja) - Ksi\u0105\u017cki - POLTERGEIST",
+            "url": "https://polter.pl/ksiazki/Diuna-Mesjasz-Diuny-Frank-Herbert-c10770"
+          },
+          {
+            "title": "Diuna. Kroniki Diuny. Tom 1 - Frank Herbert - Empik.com",
+            "url": "https://www.empik.com/diuna-tom-1-herbert-frank,p1240289314,ksiazka-p"
+          },
+          {
+            "title": "Diuna - Frank Herbert | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/4942534/diuna"
+          },
+          {
+            "title": "\"Diuna\", Frank Herbert, REBIS",
+            "url": "https://www.rebis.com.pl/pl/book-diuna-frank-herbert,SCHB02842.html"
+          },
+          {
+            "title": "T\u0142umaczenia \u201eDiuny\" Franka Herberta - Baba od polskiego",
+            "url": "https://babaodpolskiego.pl/jezyki-diuny-franka-herberta-2/"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with information about the Polish translations of Frank Herbert's \"Dune\" (Diuna).\n\n## Polish Translations of \"Dune\" by Frank Herbert\n\nThe first Polish edition of \"Dune\" was published in 1985, and \"The book was published by Iskry Publishing House\".\n\nThe translator of the first Polish translation of \"Dune\" from 1985 was Marek Marsza\u0142.\n\n### Two Main Polish Translations\n\nThere are two translations of \"Dune\" available on the Polish market: one by Marek Marsza\u0142, and another by Jerzy \u0141ozi\u0144ski (improved editions under the pseudonym \u0141adys\u0142aw Jerzy\u0144ski), which results in certain differences in terminology.\n\nThe most well-known are two translations: by Marek Marsza\u0142 and Jerzy \u0141ozi\u0144ski (writing under the pseudonym \u0141adys\u0142aw Jerzy\u0144ski). Marek Marsza\u0142's translation is considered more faithful to the original and closer to genre fans.\n\n### Differences Between Translations\n\nThe translations show significant differences in terminology. In \u0141ozi\u0144ski's first version of translation, the Fremen were called \"Wolanie,\" the desert worm was \"piaskal,\" the Emperor was \"Cesarz,\" the stillsuit was \"hermetyk,\" the lasgun was \"laserobin,\" and the hunter-seeker was \"skrytob\u00f3jka\".\n\n\u0141ozi\u0144ski introduced significant changes in proper names, translating them into Polish, while Marsza\u0142 uses linguistic calques and neologisms, which captures Herbert's rich language.\n\nThe original novel was first published in 1965, so the Polish translation came 20 years after the original publication."
+    ],
+    "durationSeconds": 18.205702959999964
+  }
+}

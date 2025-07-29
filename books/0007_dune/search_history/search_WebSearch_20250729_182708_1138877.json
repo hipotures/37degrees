@@ -1,0 +1,30 @@
+{
+  "session_id": "0487d7f4-1250-4bb6-867a-a71d253cfc4f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0487d7f4-1250-4bb6-867a-a71d253cfc4f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Dune\" Arabic translation \"Mohamed Salama El-Masry\" \"Nader Osama\" 2018 2021 delay first Arabic edition"
+  },
+  "tool_response": {
+    "query": "\"Dune\" Arabic translation \"Mohamed Salama El-Masry\" \"Nader Osama\" 2018 2021 delay first Arabic edition",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_016kiuH2KLLjDiuKLuQK5BRj",
+        "content": [
+          {
+            "title": "Dune in 2024: A World Beyond Saving - The Markaz Review",
+            "url": "https://themarkaz.org/dune-in-2024-a-world-beyond-saving/"
+          },
+          {
+            "title": "Dune in 2024: A World Beyond Saving \u2013 Ahmed Naji",
+            "url": "https://ahmednaji.net/2024/07/17/dune-in-2024-a-world-beyond-saving/"
+          }
+        ]
+      },
+      "Based on the search results, I found information about the Arabic translations of Dune by the translators you mentioned. Here's what I discovered:\n\nTwo Arabic translations of Dune were released in recent years: one translated by Nader Osama and published in 2021 by Kalemat Publishing, and another translated by Mohamed Salama El-Masry and published by Makhatot in 2018.(no content)El-Masry's 2018 translation is available only online, accessible on Amazon Kindle and for free through the Internet Archive and several other online forums.(no content)According to the translator himself, he was paid for his translation by Makhtot Publishing House, which bought the digital rights from Herbert's estate, and for years it was sold on Amazon Kindle for $2.\n\nHowever, El-Masry wasn't satisfied with the publisher's decision to cut some of his footnotes and annexes, so he published a full, uncut edition online for free, followed by an annex detailing how other translations had copied his work.\n\nThe search results also reveal some controversy between the translators, as El-Masry expressed concerns about other Dune translations, accusing them of using terms borrowed from his translation without mentioning him.\n\nWhile the search results don't specifically mention delays in publication, they do confirm the timeline you referenced - El-Masry's translation was published in 2018, and Nader Osama's translation came out in 2021, representing the first widely available Arabic editions of this classic science fiction novel."
+    ],
+    "durationSeconds": 10.894752193000052
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "session_id": "7529e71f-d379-4299-9734-0e831fc05ee8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7529e71f-d379-4299-9734-0e831fc05ee8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Archive of Our Own\" AO3 Dune fanfiction statistics total works Frank Herbert Paul Atreides"
+  },
+  "tool_response": {
+    "query": "\"Archive of Our Own\" AO3 Dune fanfiction statistics total works Frank Herbert Paul Atreides",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01CpkHrgqAu5vPnnUsa4aNje",
+        "content": [
+          {
+            "title": "Paul Atreides - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Paul%20Atreides/works"
+          },
+          {
+            "title": "Dune Series - Frank Herbert - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Dune%20Series%20-%20Frank%20Herbert/works"
+          },
+          {
+            "title": "Paul Atreides/Reader - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Paul%20Atreides*s*Reader/works"
+          },
+          {
+            "title": "Dune (2021) - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Dune (2021)/works"
+          },
+          {
+            "title": "Inspired by Dune Series - Frank Herbert - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Inspired by Dune Series - Frank Herbert/works"
+          },
+          {
+            "title": "Paul Atreides/Feyd-Rautha Harkonnen - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Paul%20Atreides*s*Feyd-Rautha%20Harkonnen/works"
+          },
+          {
+            "title": "Irulan Corrino - Works | Archive of Our Own",
+            "url": "https://archive.transformativeworks.org/tags/Irulan%20Corrino/works"
+          },
+          {
+            "title": "Dune | Archive of Our Own",
+            "url": "https://archive.transformativeworks.org/collections/Du_ne"
+          },
+          {
+            "title": "Dune (Movies - Villeneuve) - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Dune (Movies - Villeneuve)/works"
+          },
+          {
+            "title": "Paul Atreides/Irulan Corrino - Works | Archive of Our Own",
+            "url": "https://archiveofourown.org/tags/Paul%20Atreides*s*Irulan%20Corrino/works"
+          }
+        ]
+      },
+      "I've searched for information about Dune fanfiction statistics on Archive of Our Own (AO3). Based on the search results, I can provide you with some information about the Dune fanfiction landscape on AO3:\n\n## Dune Fanfiction on Archive of Our Own\n\nThe search results show several different Dune-related tags and sections on AO3:\n\n### Main Dune Categories:\n- **Dune Series - Frank Herbert** - This appears to be the main tag for works based on Frank Herbert's original book series\n- **Dune (2021)** - For works based on Denis Villeneuve's 2021 film adaptation\n- **Dune (Movies - Villeneuve)** - Another tag for Villeneuve's film adaptations\n\n### Popular Character Tags:\n- **Paul Atreides** - Works featuring the main protagonist\n- **Paul Atreides/Feyd-Rautha Harkonnen** - A popular romantic pairing\n- **Paul Atreides/Reader** - Reader-insert fanfiction\n- **Paul Atreides/Irulan Corrino** - Another romantic pairing\n- **Irulan Corrino** - Works featuring the princess character\n\n### Story Themes and Content:\nThe fanfiction appears to cover a wide range of themes including:\n- Alternate universe scenarios\n- Romantic relationships between various characters\n- Omegaverse AU stories\n- Reader-insert fiction\n- Political intrigue and power dynamics\n\nUnfortunately, the search results don't provide specific numerical statistics about the total number of works in each category. To get exact numbers, you would need to visit the individual tag pages on AO3 directly, as those pages typically display the work count for each tag at the top of the results."
+    ],
+    "durationSeconds": 15.470368340999993
+  }
+}

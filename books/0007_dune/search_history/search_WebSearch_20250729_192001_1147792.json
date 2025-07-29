@@ -1,0 +1,62 @@
+{
+  "session_id": "7529e71f-d379-4299-9734-0e831fc05ee8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7529e71f-d379-4299-9734-0e831fc05ee8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Diuna\" polski audiobook adaptacja teatr radio Polskie Radio"
+  },
+  "tool_response": {
+    "query": "\"Diuna\" polski audiobook adaptacja teatr radio Polskie Radio",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01PU5wQyPYnz7zwEQ44zc1zR",
+        "content": [
+          {
+            "title": "Polskie Radio online",
+            "url": "https://podcasty.polskieradio.pl/podcasty/audiobooki"
+          },
+          {
+            "title": "Diuna - Audiobook - Frank Herbert - Dom Wydawniczy REBIS Sp. z o.o. | Audioteka",
+            "url": "https://audioteka.com/pl/audiobook/diuna/"
+          },
+          {
+            "title": "Audiobook w PolskieRadio.pl",
+            "url": "https://www.polskieradio.pl/audiobook/tag184135"
+          },
+          {
+            "title": "S\u0142uchowiska i Teatr Polskiego Radia - Polskie Radio",
+            "url": "https://podcasty.polskieradio.pl/podcasty/sluchowiska"
+          },
+          {
+            "title": "Audiobook Teatr Polskiego Radia Przedstawia. Matysiakowie CD | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/audiobook-teatr-polskiego-radia-przedstawia-matysiakowie-cd-p-267608.html"
+          },
+          {
+            "title": "Audiobooki & s\u0142uchowiska online | Audioteka",
+            "url": "https://audioteka.com/pl/"
+          },
+          {
+            "title": "Teatr Polskiego Radia - AUDIOBOOKI - Pulaneczka - Chomikuj.pl",
+            "url": "https://chomikuj.pl/Pulaneczka/AUDIOBOOKI/Teatr+Polskiego+Radia"
+          },
+          {
+            "title": "Teatr Polskiego Radia - ebooki, audiobooki i ksi\u0105\u017cki - Legimi online",
+            "url": "https://www.legimi.pl/autor/teatr-polskiego-radia,ad209787/"
+          },
+          {
+            "title": "S\u0142uchowiska - Teatr - Polskie Radio",
+            "url": "https://www.polskieradio.pl/17,teatr/81,sluchowiska"
+          },
+          {
+            "title": "Audiobooki czytane przez Teatr Polskiego Radia w Warszawie | Audioteka",
+            "url": "https://audioteka.com/pl/lektor/teatr-polskiego-radia-w-warszawie/"
+          }
+        ]
+      },
+      "Based on the search results, I found information about Polish audiobook adaptations and Polskie Radio productions, including a reference to \"Diuna\" (Dune). Here's what I found:\n\n## Audiobook \"Diuna\" - Polski audiobook\n\nThe audiobook \"Diuna\" by Frank Herbert is available in Polish with \"mistrzowska interpretacja Krzysztofa Goszty\u0142y\" (masterful interpretation by Krzysztof Goszty\u0142a). This is described as \"prawdziwa uczta dla zmys\u0142\u00f3w\" with \"perfekcyjnie zrealizowane nagranie\" providing \"bogat\u0105 warstw\u0119 d\u017awi\u0119kow\u0105 i wysokiej jako\u015bci narracj\u0119\" and nearly thirty hours of content.\n\n## Polskie Radio - Teatr i Audiobooki\n\nPolskie Radio offers podcasts and audiobooks, including \"powie\u015bci i lektury szkolne czytane przez znanych i lubianych polskich aktor\u00f3w\" and content from \"Teatru Polskiego Radia\".\n\nThe platform provides \"s\u0142uchowiska Polskiego Radia,\" \"oryginalne nagrania Teatru Polskiego Radia,\" and \"adaptacje dramat\u00f3w scenicznych\".\n\n## Krzysztof Goszty\u0142a - Lektor\n\nKrzysztof Goszty\u0142a, who narrates the Polish \"Diuna\" audiobook, has extensive experience in film, theater, and voice work, and his voice can be heard in popular titles including \"Diunie,\" \"Metro 2033,\" and Sherlock Holmes adaptations.\n\nThe search results show that while there is a high-quality Polish audiobook version of \"Diuna\" available, I didn't find specific information about a radio theater adaptation produced by Polskie Radio. The results mainly reference the commercial audiobook version narrated by Krzysztof Goszty\u0142a, as well as general information about Polskie Radio's theater and audiobook productions."
+    ],
+    "durationSeconds": 19.103372840999974
+  }
+}

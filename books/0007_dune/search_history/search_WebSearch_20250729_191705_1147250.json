@@ -1,0 +1,62 @@
+{
+  "session_id": "7529e71f-d379-4299-9734-0e831fc05ee8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7529e71f-d379-4299-9734-0e831fc05ee8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Jodorowsky Dune unmade film documentary \"Jodorowsky's Dune\" 2013 Alejandro Jodorowsky planned adaptation"
+  },
+  "tool_response": {
+    "query": "Jodorowsky Dune unmade film documentary \"Jodorowsky's Dune\" 2013 Alejandro Jodorowsky planned adaptation",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01MgARXRes3XNDPDonAbKTam",
+        "content": [
+          {
+            "title": "Jodorowsky's Dune (2013) \u2b50 8.0 | Documentary",
+            "url": "https://www.imdb.com/title/tt1935156/"
+          },
+          {
+            "title": "Dune (unreleased film) | Dune Wiki | Fandom",
+            "url": "https://dune.fandom.com/wiki/Dune_(unreleased_film)"
+          },
+          {
+            "title": "Jodorowsky's Dune - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Jodorowsky's_Dune"
+          },
+          {
+            "title": "Jodorowsky's Dune",
+            "url": "https://www.jodorowskysdune.com/"
+          },
+          {
+            "title": "Jodorowsky's Dune | Dune Wiki | Fandom",
+            "url": "https://dune.fandom.com/wiki/Jodorowsky's_Dune"
+          },
+          {
+            "title": "Dune Documentary: Jodorowsky's Unrealized Sci-Fi Masterpiece | Film History",
+            "url": "https://www.factualamerica.com/documentary-digest/jodorowskys-dune-the-mind-bending-sci-fi-epic-that-almost-changed-cinema-forever"
+          },
+          {
+            "title": "10 Coolest Facts About Alejandro Jodorowsky's Unmade Dune Film",
+            "url": "https://screenrant.com/facts-info-trivia-about-alejandro-jodorowsky-unmade-dune-film-adaptation/"
+          },
+          {
+            "title": "Jodorowsky's Dune (2013) - User reviews - IMDb",
+            "url": "https://www.imdb.com/title/tt1935156/reviews/"
+          },
+          {
+            "title": "Why 'Dune' fans should be thankful Jodorowsky\u2019s version was never made",
+            "url": "https://www.inverse.com/entertainment/dune-jodorowsky-villeneuve"
+          },
+          {
+            "title": "Watch Jodorowsky's Dune | Prime Video",
+            "url": "https://www.amazon.com/Jodorowskys-Dune-Chris-Foss/dp/B00KRIYI3K"
+          }
+        ]
+      },
+      "The search provided comprehensive information about Jodorowsky's Dune and the 2013 documentary. Here's what I found:\n\n## Jodorowsky's Dune Documentary (2013)\n\n**Jodorowsky's Dune** is a 2013 American-French documentary film directed by Frank Pavich that explores cult film director Alejandro Jodorowsky's unsuccessful attempt to adapt and film Frank Herbert's 1965 science fiction novel Dune in the mid-1970s.\n\n### The Original Unmade Film Project\n\nAlejandro Jodorowsky's Dune was a cancelled movie proposed by Chilean-French cult film director and artist Alejandro Jodorowsky, and produced by French businessman Michel Seydoux, in 1974. In December 1974, a French consortium led by Jean-Paul Gibon purchased the film rights from APJ, with director Alejandro Jodorowsky set to direct.\n\nThe project was extraordinarily ambitious: In 1975, Jodorowsky planned to film the story as a 10-hour feature, and Jodorowsky felt 10 to 14 hours would be more appropriate for the adaptation. Jodorowsky was making not only a film, but \"a prophet\". His end goal was to \"change the world\".\n\n### The Creative Team\n\nJodorowsky assembled an impressive team of collaborators:\n- The cast was to include his own 12 year old son, Brontis Jodorowsky, alongside Orson Welles, Mick Jagger, David Carradine and even Salvador Dali\n- The team of assembled visual artists were some of the most provocative talents of the era, including H.R. Giger, Chris Foss, and Jean 'Moebius' Giraud\n- The groundbreaking special effects were under the control of Dan O'Bannon and the soundtrack would be created by the mighty Pink Floyd and French prog-rock masters, Magma\n\n### Why It Failed\n\nHerbert traveled to Europe in 1976 to find that $2 million of the $9.5 million budget had already been spent just on pre-production expenses and that Jodorowsky's script would result in a 14-hour film. After two and a half years in development, the project ultimately stalled for financial reasons since $5 million was still needed to round out the $15-million total budget and attempts to raise more funds from investors failed.\n\n### The Documentary's Reception\n\nJodorowsky's Dune premiered at the Director's Fortnight at the 2013 Cannes Film Festival in May 2013. Review aggregation website Rotten Tomatoes gave Jodorowsky's Dune a 98% approval rating based on reviews from 121 critics, with an average rating of 8/10.\n\n### Legacy and Influence\n\nThe film notes that Jodorowsky's script, extensive storyboards, and concept art were sent to all major film studios, and argues that these influenced and inspired later film productions, including Star Wars, the Alien series, Flash Gordon, the Terminator series, and The Fifth Element. In particular, the Jodorowsky-assembled team of O'Bannon, Foss, Giger, and Giraud went on to collaborate on the 1979 film Alien.\n\nThe documentary tells the fascinating story of what many consider \"possibly the greatest movie never made\", providing insight into one of the most ambitious and visionary film projects in cinema history that never came to fruition."
+    ],
+    "durationSeconds": 32.98184996399999
+  }
+}

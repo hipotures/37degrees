@@ -1,0 +1,62 @@
+{
+  "session_id": "7b55c4df-37c7-40ba-a24e-add57974ae65",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7b55c4df-37c7-40ba-a24e-add57974ae65.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Dune Frank Herbert academic analysis literary criticism scholarly interpretations site:edu"
+  },
+  "tool_response": {
+    "query": "Dune Frank Herbert academic analysis literary criticism scholarly interpretations site:edu",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01VBjMfmmSRRDKAx1rVSUZPv",
+        "content": [
+          {
+            "title": "Articles - Frank Herbert's Dune - A guide for further study - LibGuides at California State University, Fullerton",
+            "url": "https://libraryguides.fullerton.edu/c.php?g=389150&p=2640435"
+          },
+          {
+            "title": "Home - Frank Herbert's Dune - A guide for further study - LibGuides at California State University, Fullerton",
+            "url": "https://libraryguides.fullerton.edu/HerbertDune"
+          },
+          {
+            "title": "(PDF) The Bene Gesserit in Frank Herbert's Dune. An Analysis",
+            "url": "https://www.academia.edu/102047235/The_Bene_Gesserit_in_Frank_Herberts_Dune_An_Analysis"
+          },
+          {
+            "title": "Dune (Frank Herbert) Research Papers - Academia.edu",
+            "url": "https://www.academia.edu/Documents/in/Dune_Frank_Herbert_"
+          },
+          {
+            "title": "Good Colonizer, Bad Colonizer: Dune and the Sixties \u2013 Confluence",
+            "url": "https://confluence.gallatin.nyu.edu/sections/research/good-colonizer-bad-colonizer-dune-and-the-sixties"
+          },
+          {
+            "title": "(PDF) Frank Herbert's Dune: A Critical Companion",
+            "url": "https://www.academia.edu/88614314/Frank_Herberts_Dune_A_Critical_Companion"
+          },
+          {
+            "title": "Project MUSE - Frank Herbert's",
+            "url": "https://muse.jhu.edu/article/723518/summary"
+          },
+          {
+            "title": "Frank Herbert's Dune and the Financialization of Heroic ...",
+            "url": "https://muse.jhu.edu/article/723518"
+          },
+          {
+            "title": "Bibliographies - Frank Herbert's Dune - A guide for further study - LibGuides at California State University, Fullerton",
+            "url": "https://libraryguides.fullerton.edu/c.php?g=389150&p=2668556"
+          },
+          {
+            "title": "The Impacts of Dune and The Lord of the Rings on American ...",
+            "url": "https://epublications.marquette.edu/cgi/viewcontent.cgi?article=1027&context=english_4610jrrt"
+          }
+        ]
+      },
+      "I've performed your web search for \"Dune Frank Herbert academic analysis literary criticism scholarly interpretations site:edu\" and found several scholarly resources about Frank Herbert's Dune from educational institutions. Here are the key academic findings:\n\n## Academic Library Resources\n\nCalifornia State University, Fullerton has created comprehensive library guides with supplementary material for Dune studies, including materials for a deeper understanding of Herbert's process as a writer and scholar. The guides use CSUF's Frank Herbert papers to recount the story of Dune from concept to bestselling novel.\n\n## Scholarly Analyses\n\nThe search revealed several areas of academic focus:\n\n**Literary Criticism on Character Analysis**: Academic analysis explores the Bene Gesserit as a unified character, using critiques of previous interpretations, comparisons to Joseph Campbell's Monomyth structure, and an Aristotelian tragic framework to demonstrate how the organization's influence shapes characters' destinies while highlighting themes of control, emotion, and moral ambiguity.\n\n**Contemporary Critical Perspectives**: Recent scholarship examines how Herbert builds an SF universe that remains geopolitically reminiscent of our historical world, though his representation of Arrakis and Arab/Muslim-inspired Fremen characters have been criticized for romantic Orientalism and white-saviorism.\n\n**Comprehensive Academic Collections**: The collection \"Discovering Dune\" details new contributions to Herbert studies, with essays in four categories (Politics and Power, History and Religion, Biology and Ecology, and Philosophy, Choice and Ethics), ranging from ecology in Dune to game theory explanations of characters' prescient abilities, and includes an up-to-date bibliography of Herbert's work.\n\n## Contemporary Academic Interpretations\n\n**Colonial and Political Analysis**: NYU scholarship examines Dune as telling the story of competing colonial powers with parallels to Soviet Russia and 1960s America, exploring the good colonizer/bad colonizer trope inspired by Kennedy's foreign policy regarding \"traditional societies\".\n\n**Economic and Social Theory**: Recent Project MUSE scholarship argues that Herbert's 1965 novel is useful for understanding our financialized, late capitalist moment, bringing together disparate elements like ecology, gender, heroism, politics, and colonialism, with Paul Atreides representing a problematic masculine subjectivity exemplifying risk management and affective manipulation central to postindustrial financial systems.\n\nThese academic sources provide a range of scholarly perspectives on Dune, from character analysis and world-building studies to contemporary readings through the lenses of postcolonial theory, economics, and social criticism."
+    ],
+    "durationSeconds": 23.940525970999968
+  }
+}

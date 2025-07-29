@@ -1,0 +1,62 @@
+{
+  "session_id": "7529e71f-d379-4299-9734-0e831fc05ee8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7529e71f-d379-4299-9734-0e831fc05ee8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Diuna Frank Herbert pierwsze wydanie polskie t\u0142umacz translator"
+  },
+  "tool_response": {
+    "query": "Diuna Frank Herbert pierwsze wydanie polskie t\u0142umacz translator",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01VZZ5KBzLuKx1pg8MBsyyHf",
+        "content": [
+          {
+            "title": "Diuna (powie\u015b\u0107) \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Diuna_(powie\u015b\u0107)"
+          },
+          {
+            "title": "Diuna, Mesjasz Diuny - Frank Herbert. Powr\u00f3t na Arrakis (recenzja) - Ksi\u0105\u017cki - POLTERGEIST",
+            "url": "https://polter.pl/ksiazki/Diuna-Mesjasz-Diuny-Frank-Herbert-c10770"
+          },
+          {
+            "title": "T\u0142umaczenia \u201eDiuny\" Franka Herberta - Baba od polskiego",
+            "url": "https://babaodpolskiego.pl/jezyki-diuny-franka-herberta-2/"
+          },
+          {
+            "title": "Diuna \u2013 powie\u015b\u0107 Franka Herberta - Agencja Skrivanek",
+            "url": "https://skrivanek.pl/diuna-powiesc-franka-herberta/"
+          },
+          {
+            "title": "Diuna ksi\u0105\u017cka | Frank Herbert | seria Kroniki Diuny",
+            "url": "https://www.swiatksiazki.pl/seria/diuna"
+          },
+          {
+            "title": "Diuna Frank Herbert - Grupa dyskusyjna - Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/dyskusja/69/791/diuna-frank-herbert"
+          },
+          {
+            "title": "Diuna. Kroniki Diuny. Tom 1 Frank Herbert ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/diuna-kroniki-diuny-tom-1-frank-herbert"
+          },
+          {
+            "title": "O czym jest Diuna? Ciekawostki o ksi\u0105\u017cce i filmie | Woblink blog",
+            "url": "https://woblink.com/blog/czego-jeszcze-nie-wiesz-o-diunie-a-powinienes/"
+          },
+          {
+            "title": "Recenzja ksi\u0105\u017cki Diuna \u2022 Herbert Frank \u2022 opinie, oceny \u00bb BiblioNETka.pl",
+            "url": "https://www.biblionetka.pl/art.aspx?id=5132"
+          },
+          {
+            "title": "Diuna. Kroniki Diuny. Tom 1 - Frank Herbert - Empik.com",
+            "url": "https://www.empik.com/diuna-tom-1-herbert-frank,p1240289314,ksiazka-p"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with comprehensive information about the first Polish edition of Frank Herbert's \"Dune\" (Diuna) and its translator:\n\n## First Polish Edition and Translator\n\nThe first Polish edition of \"Dune\" was published in Poland in 1985 by Wydawnictwo Iskry (Iskra Publishing House) and was translated by Marek Marsza\u0142.\n\n## Polish Translations\n\nThere are two main Polish translations of \"Dune\" on the Polish market: one by Marek Marsza\u0142 and another by Jerzy \u0141ozi\u0144ski (who published revised editions under the pseudonym \u0141adys\u0142aw Jerzy\u0144ski).(no content)Marek Marsza\u0142's translation is considered more faithful to the original and closer to genre fans.(no content)He uses linguistic calques and neologisms, which better reflects Herbert's rich language.(no content)Jerzy \u0141ozi\u0144ski's translation differs from the original in many ways, as \u0141ozi\u0144ski introduced significant changes to proper names, translating them into Polish. For example, the Fremen were known as \"Wolanie,\" sandworms were called \"piaskalem,\" stillsuits were \"hermetyk,\" and lasguns were \"laserobin.\"\n\n## Publication Details\n\nThe first Polish translation had to wait quite a long time - until 1986, and it was done by Marek Marsza\u0142, which was considered the best Polish translation until then.\n\nThe search results show that this groundbreaking science fiction novel, which won both the Nebula (1965) and Hugo (1966) awards, finally became available to Polish readers through Marsza\u0142's translation, making Herbert's complex universe accessible to Polish science fiction fans."
+    ],
+    "durationSeconds": 16.317651100999996
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "session_id": "7529e71f-d379-4299-9734-0e831fc05ee8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7529e71f-d379-4299-9734-0e831fc05ee8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Frank Herbert journalism career world-building methodology newspaper reporter background"
+  },
+  "tool_response": {
+    "query": "Frank Herbert journalism career world-building methodology newspaper reporter background",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01Shb7XNPHTW6gHgSDafzUZT",
+        "content": [
+          {
+            "title": "Frank Herbert - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Frank_Herbert"
+          },
+          {
+            "title": "Tim O'Reilly - Frank Herbert: Chapter 2: Under Pressure - O'Reilly Media",
+            "url": "https://www.oreilly.com/tim/herbert/ch02.html"
+          },
+          {
+            "title": "Herbert Jr., Frank | Encyclopedia.com",
+            "url": "https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/herbert-jr-frank"
+          },
+          {
+            "title": "Frank Herbert | Biography, Books, Dune, & Facts | Britannica",
+            "url": "https://www.britannica.com/biography/Frank-Herbert"
+          },
+          {
+            "title": "Herbert, Frank Patrick (1920-1986) - HistoryLink.org",
+            "url": "https://www.historylink.org/file/21248"
+          },
+          {
+            "title": "FRANK HERBERT, by Timothy O'Reilly",
+            "url": "https://forum.dune-sf.fr/txt/OReilly_Frank_Herbert.html"
+          },
+          {
+            "title": "SFE: Herbert, Frank",
+            "url": "https://sf-encyclopedia.com/entry/herbert_frank"
+          },
+          {
+            "title": "Writer Judges - Frank Herbert | Writers & Illustrators of the Future",
+            "url": "https://writersofthefuture.com/writer-judges/writer-judges-frank-herbert/"
+          },
+          {
+            "title": "Frank Herbert | Military Wiki | Fandom",
+            "url": "https://military-history.fandom.com/wiki/Frank_Herbert"
+          },
+          {
+            "title": "Dune: Frank Herbert and Dune Background | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/dune/context/"
+          }
+        ]
+      },
+      "Based on the search results, here's what I found about Frank Herbert's journalism career, world-building methodology, and newspaper reporter background:\n\n## Frank Herbert's Journalism Career\n\nThe most important fact of Herbert's literary biography is his career as a newspaper reporter.(no content)He worked as a newspaper journalist, photographer, book reviewer, ecological consultant, and lecturer.\n\n### Early Career\nIn his senior year of high school, he worked on the Tacoma Ledger as a copy and office boy, doing some actual reporting as well.(no content)After graduation from Salem High School in 1939, Herbert moved to California and got a job at the Glendale Star as a copy editor.(no content)By 1940 he was back in Salem, and talked his way into an \"on-call\" job with the Oregon Statesman as a photographer, copy editor, feature reporter, and in the advertising department.\n\n### Professional Journalism Career\nFrom 1943 to 1945, Herbert worked as a reporter for the Oregon Journal in Portland.(no content)He returned to journalism and worked at the Seattle Star and the Oregon Statesman.(no content)He was a writer and editor for the San Francisco Examiner's California Living magazine for a decade.(no content)He took a brief leave of absence after completing Dune, devoting himself full time to fiction, but soon returned to newspaper work. He did not become successful enough as a science-fiction writer to stop working as a reporter and editor until 1969.\n\n## Impact on His World-Building Methodology\n\n### Journalistic Approach to Fiction\nScience-fiction writers and newspapermen are motivated by the same insight: \"There's a story in this.\"(no content)Herbert described a great deal about his fictional approach when he said, \"I'm a muckraker, a yellow journalist,\" and elsewhere, \"I ask myself, 'What is the society avoiding?'\"\n\n### Research and Fact-Gathering\nHerbert is famed among science-fiction writers for the depth of fact with which he shapes his books.(no content)Herbert gathers facts, then looses them all into his imagination to be reshaped into fiction. He calls this process \"loading the computer.\"(no content)For a writer as obsessed with ideas as he is, Herbert is remarkably insistent on the concrete. \"The verisimilitude of the surround is half the battle,\" he says of the effort to get his ideas across.\n\n### World-Building Excellence\nDune is considered an example of literary world-building.(no content)Frank Herbert imagined every facet of his creation. He included glossaries, quotes, documents, and histories, to bring his universe alive to his readers.\n\n### Connection Between Journalism and Fiction\nIt is no accident that two of his novels, Under Pressure and Dune, began as newspaper magazine feature stories. His journalism background provided him with the investigative skills and attention to detail that became hallmarks of his world-building methodology."
+    ],
+    "durationSeconds": 18.729061582999943
+  }
+}

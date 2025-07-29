@@ -1,0 +1,62 @@
+{
+  "session_id": "7b55c4df-37c7-40ba-a24e-add57974ae65",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7b55c4df-37c7-40ba-a24e-add57974ae65.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Diuna Frank Herbert wydania polskie Rebis MAG t\u0142umacze chronologia"
+  },
+  "tool_response": {
+    "query": "Diuna Frank Herbert wydania polskie Rebis MAG t\u0142umacze chronologia",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01TTF1CvY6bcQ3pSNxoD12oH",
+        "content": [
+          {
+            "title": "Diuna (powie\u015b\u0107) \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Diuna_(powie\u015b\u0107)"
+          },
+          {
+            "title": "Seria Diuna | ksi\u0119garnia TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/seria/diuna"
+          },
+          {
+            "title": "\"Diuna\", Frank Herbert, REBIS",
+            "url": "https://www.rebis.com.pl/pl/book-diuna-frank-herbert,SCHB02842.html"
+          },
+          {
+            "title": "Diuna - Frank Herbert | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/4942534/diuna"
+          },
+          {
+            "title": "Diuna ksi\u0105\u017cka | Frank Herbert | seria Kroniki Diuny",
+            "url": "https://www.swiatksiazki.pl/seria/diuna"
+          },
+          {
+            "title": "Jak czyta\u0107 \u201eDiun\u0119\u201d? Kolejno\u015b\u0107 czytania cyklu Franka Herberta | Aktualno\u015bci | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/aktualnosci/19453/jak-czytac-diune-kolejnosc-czytania-cyklu-franka-herberta"
+          },
+          {
+            "title": "Diuna, nowe wydanie, Frank Herbert, wyd. Rebis - MOCAK",
+            "url": "https://en.mocak.pl/sklep/produkt/diuna-nowe-wydanie-frank-herbert-wyd-re"
+          },
+          {
+            "title": "Diuna. Powie\u015b\u0107 graficzna, Frank Herbert, wyd. Rebis - MOCAK",
+            "url": "https://www.mocak.pl/sklep/produkt/diuna-powiesc-graficzna"
+          },
+          {
+            "title": "Diuna. Kroniki Diuny. Tom 1 Frank Herbert ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/diuna-kroniki-diuny-tom-1-frank-herbert"
+          },
+          {
+            "title": "O czym jest Diuna? Ciekawostki o ksi\u0105\u017cce i filmie | Woblink blog",
+            "url": "https://woblink.com/blog/czego-jeszcze-nie-wiesz-o-diunie-a-powinienes/"
+          }
+        ]
+      },
+      "Based on my search results, I found comprehensive information about Polish publications of Frank Herbert's \"Dune\" by Rebis and other publishers, along with details about translators and chronology. Here's what I found:\n\n## Polish Publications of Frank Herbert's \"Dune\" - Publishers, Translators & Chronology\n\n### Publication History:\n\nW Polsce ukaza\u0142a si\u0119 po raz pierwszy w 1985 roku nak\u0142adem Wydawnictwa Iskry w t\u0142umaczeniu Marka Marsza\u0142a.(no content)W latach 1992\u20131993 wydawnictwo Phantom Press wyda\u0142o ca\u0142\u0105 sag\u0119 Kroniki Diuny (przek\u0142ady Marka Marsza\u0142a oraz innych t\u0142umaczy).(no content)W latach 1997\u20132001 wznowi\u0142o j\u0105 Wydawnictwo Zysk i S-ka (w nowym, wzbudzaj\u0105cym wiele kontrowersji przek\u0142adzie Jerzego \u0141ozi\u0144skiego pisz\u0105cego pod pseudonimem \u0141adys\u0142aw Jerzy\u0144ski).\n\n### Rebis Publications:\n\nW 2007 roku Dom Wydawniczy Rebis wznowi\u0142 Diun\u0119 (poprawiony przek\u0142ad Marka Marsza\u0142a), w maju 2007 Mesjasza Diuny (nowy przek\u0142ad Marka Marsza\u0142a). Obecnie seria jest wydawana przez Wydawnictwo Rebis w t\u0142umaczeniu Marka Marsza\u0142a.\n\n### Translators:\n\n**Marek Marsza\u0142** - the primary and most acclaimed translator:\nT\u0142umaczem pierwszego polskiego przek\u0142adu \u201eDiuny\" z 1985 roku jest Marek Marsza\u0142. Jego t\u0142umaczenie do dzi\u015b cieszy si\u0119 najwi\u0119kszym uznaniem i popularno\u015bci\u0105 w\u015br\u00f3d fan\u00f3w serii.(no content)Marsza\u0142 powr\u00f3ci\u0142 do cyklu \u201eDiuna\" po ponad dw\u00f3ch dekadach i w 2007 roku przet\u0142umaczy\u0142 \u201eMesjasza Diuny\", a rok p\u00f3\u017aniej \u201eDzieci Diuny (wsp\u00f3lnie z Andrzejem Jankowskim).\n\n**Jerzy \u0141ozi\u0144ski** - alternative translator:\nDrugi dost\u0119pny na polskim rynku przek\u0142ad \u201eDiuny\" stworzy\u0142 Jerzy \u0141ozi\u0144ski.(no content)Pomi\u0119dzy obiema wersjami t\u0142umacze\u0144 zauwa\u017calne s\u0105 przede wszystkim r\u00f3\u017cnice w terminologii dotycz\u0105cej nazw w\u0142asnych. Dla przyk\u0142adu \u2013 charakterystyczne robaki \u017cyj\u0105ce w piaskach Arrakis (w oryginale sandworms) Marsza\u0142 nazwa\u0142 czerwiami pustyni, \u0141ozi\u0144ski przet\u0142umaczy\u0142 je z kolei jako piaskale.\n\n### Current Rebis Editions:\n\nDom Wydawniczy REBIS wyda sze\u015bciotomowy cykl \u201eKroniki Diuny\", na kt\u00f3ry sk\u0142adaj\u0105 si\u0119 powie\u015bci: Diuna, Mesjasz Diuny, Dzieci Diuny, B\u00f3g Imperator Diuny, Heretycy Diuny i Kapitu\u0142a Diun\u0105.(no content)Diuna Franka Herberta z obrazem i rysunkami Wojciecha Siudmaka, w t\u0142umaczeniu Marka Marsza\u0142a - featuring artwork by renowned Polish artist Wojciech Siudmak.\n\nThe search results show that Rebis is currently the main publisher of the Dune series in Poland, continuing to use Marek Marsza\u0142's highly regarded translations, which have been the gold standard for Polish readers since 1985."
+    ],
+    "durationSeconds": 34.262272246999956
+  }
+}

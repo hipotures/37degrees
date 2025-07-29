@@ -1,0 +1,62 @@
+{
+  "session_id": "7b55c4df-37c7-40ba-a24e-add57974ae65",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7b55c4df-37c7-40ba-a24e-add57974ae65.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Dune film adaptations complete list 1984 Lynch 2000 miniseries 2021 2024 Villeneuve box office"
+  },
+  "tool_response": {
+    "query": "Dune film adaptations complete list 1984 Lynch 2000 miniseries 2021 2024 Villeneuve box office",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01AJyuoLhL8jk3xKzbHTv2PF",
+        "content": [
+          {
+            "title": "Dune (2021 film) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dune_(2021_film)"
+          },
+          {
+            "title": "1 Key Element Gives The 2000 Dune Miniseries An Advantage Over Villeneuve's Dune Films",
+            "url": "https://screenrant.com/dune-2000-miniseries-versus-denis-villeneuve-movie-more-faithful-book/"
+          },
+          {
+            "title": "Ranking All The Dune Adaptations",
+            "url": "https://screenrant.com/dune-all-movie-versions-ranked-imdb/"
+          },
+          {
+            "title": "The Entire History of Dune's Adaptation From Books to Movies",
+            "url": "https://bookswithmovies.com/adaptations/dune-adaptation-from-book-to-movie/"
+          },
+          {
+            "title": "How Many Movie And TV Adaptations Have Been Made From Dune?",
+            "url": "https://www.thegamer.com/how-many-dune-movies-are-there/"
+          },
+          {
+            "title": "Dune | film by Lynch [1984] | Britannica",
+            "url": "https://www.britannica.com/topic/Dune-film"
+          },
+          {
+            "title": "Dune (novel) - Wikipedia",
+            "url": "https://en.m.wikipedia.org/wiki/Dune_(novel)"
+          },
+          {
+            "title": "How the Dune Miniseries Succeeds and Compares to the New Movie",
+            "url": "https://movieweb.com/dune-miniseries-new-movie/"
+          },
+          {
+            "title": "Why Filmmakers From David Lynch to Denis Villeneuve Have Struggled to Adapt Dune",
+            "url": "https://time.com/6108404/dune-adaptations/"
+          },
+          {
+            "title": "'Dune': Why Hollywood keeps retelling the story and why ...",
+            "url": "https://www.cnn.com/2021/10/21/entertainment/dune-adaptations-history-lynch-villeneuve-cec/index.html"
+          }
+        ]
+      },
+      "Based on the search results, here's a comprehensive overview of all Dune film and television adaptations with their box office information:\n\n## Complete List of Dune Adaptations\n\n### 1. David Lynch's Dune (1984)\nThis was the first major film adaptation of Frank Herbert's novel, directed by David Lynch and starring Kyle MacLachlan. The film was a commercial and critical disaster, making just $30.9 million at the domestic box office on a budget of $40 million. It struggled to recoup its $40 million budget. Lynch himself ended up disowning the film, though it has cultivated a cult following over time.\n\n### 2. Frank Herbert's Dune (2000 Miniseries)\nThis live-action miniseries was produced by Richard P. Rubinstein and directed by John Harrison, airing on the Sci Fi Channel in 2000. The miniseries was a triumph compared to Lynch's adaptation, bringing Sci Fi its highest ratings at the time. More than 3 million people watched the first part. It won two Emmy awards for cinematography and special visual effects.\n\n### 3. Frank Herbert's Children of Dune (2003 Miniseries)\nThis sequel miniseries starred a then relatively unknown James McAvoy and combined events from the author's follow-up books \"Dune Messiah\" and \"Children of Dune\". As of 2004, the miniseries was one of the three highest-rated programs broadcast on the Sci-Fi Channel.\n\n### 4. Denis Villeneuve's Dune (2021)\nTitled onscreen as \"Dune: Part One,\" this 2021 film was directed by Denis Villeneuve and starred Timoth\u00e9e Chalamet. The film garnered 10 Academy Award nominations and six wins. While specific worldwide box office figures for the first film aren't provided in the search results, the film's success led Warner Bros. and Legendary Pictures to officially greenlight Dune: Part Two in October 2021.\n\n### 5. Dune: Part Two (2024)\nThe sequel was released on March 1, 2024. The sequel grossed over $714 million globally, including a notable domestic opening weekend of $82.5 million. It received critical acclaim especially for its visual effects and has grossed over $711 million worldwide, making it the fourth-highest-grossing film of 2024.\n\n## Notable Unmade Adaptation\nAlejandro Jodorowsky acquired the rights in the 1970s to make a fourteen-hour adaptation of the book, but the project ultimately failed to secure sufficient funds. This development effort became the subject of the documentary film Jodorowsky's Dune (2013).\n\n## Future Projects\nVilleneuve expressed interest in making a third film based on Dune Messiah, the second novel in the series, with the possibility depending on the success of Dune: Part Two. A spinoff series, Dune: The Sisterhood, is set to premiere on Max.\n\nThe Villeneuve films represent the most commercially successful adaptations, with Part Two earning over $714 million worldwide, while the 2000 miniseries was the most faithful to the source material and achieved strong television ratings."
+    ],
+    "durationSeconds": 24.722027505000007
+  }
+}

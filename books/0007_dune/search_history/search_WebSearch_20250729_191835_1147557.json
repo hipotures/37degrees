@@ -1,0 +1,247 @@
+{
+  "session_id": "7529e71f-d379-4299-9734-0e831fc05ee8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7529e71f-d379-4299-9734-0e831fc05ee8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Dune\" BookTube reviews YouTube most popular \"Frank Herbert\" video essays view counts"
+  },
+  "tool_response": {
+    "query": "\"Dune\" BookTube reviews YouTube most popular \"Frank Herbert\" video essays view counts",
+    "results": [
+      "I'll search for information about popular BookTube reviews and video essays about Frank Herbert's \"Dune\" on YouTube, focusing on view counts.",
+      {
+        "tool_use_id": "srvtoolu_01JMPLHPeFQcRUFesccaz8Pb",
+        "content": [
+          {
+            "title": "Dune (Dune, #1) by Frank Herbert | Goodreads",
+            "url": "https://www.goodreads.com/book/show/20441724-dune"
+          },
+          {
+            "title": "Reviewing and ranking all of Frank Herbert's 'Dune' novels",
+            "url": "https://brandeishoot.com/2024/02/09/reviewing-and-ranking-all-of-frank-herberts-dune-novels/"
+          },
+          {
+            "title": "Articles - Frank Herbert's Dune - A guide for further study - LibGuides at California State University, Fullerton",
+            "url": "https://libraryguides.fullerton.edu/c.php?g=389150&p=2640435"
+          },
+          {
+            "title": "Dune Audiobook by Frank Herbert",
+            "url": "https://www.audible.com/pd/Dune-Audiobook/B002V1OF70"
+          },
+          {
+            "title": "Amazon.com: Discovering Dune: Essays on Frank Herbert's Epic Saga (Critical Explorations in Science Fiction and Fantasy, 81): 9781476682013: Nardi, Dominic J., Brierly, N. Trevor, Palumbo, Donald E.: Books",
+            "url": "https://www.amazon.com/Discovering-Dune-Herberts-Critical-Explorations/dp/1476682011"
+          },
+          {
+            "title": "Dune (novel) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dune_(novel)"
+          },
+          {
+            "title": "Convincing You to Read 'Dune' By Frank Herbert",
+            "url": "https://www.maudesbookclub.com/book-feed/convincing-you-to-read-books-by-frank-herbert"
+          },
+          {
+            "title": "Dune (novel) | Frank Herbert, Summary, Films, & Facts | Britannica",
+            "url": "https://www.britannica.com/topic/Dune-by-Herbert"
+          },
+          {
+            "title": "Book Review: \u201cDune\u201d by Frank Herbert",
+            "url": "https://uulibraryblog.wordpress.com/2020/07/21/book-review-dune-by-frank-herbert/"
+          },
+          {
+            "title": "Review: Dune by Frank Herbert \u2013 That's What She Read",
+            "url": "https://efsunland.com/2022/08/16/review-dune/"
+          }
+        ]
+      },
+      "Let me search more specifically for YouTube BookTube reviews and video essays about Dune with view count information.",
+      {
+        "tool_use_id": "srvtoolu_01HBcgEmjKfAb2XR6g2suDkL",
+        "content": [
+          {
+            "title": "Articles - Frank Herbert's Dune - A guide for further study - LibGuides at California State University, Fullerton",
+            "url": "https://libraryguides.fullerton.edu/c.php?g=389150&p=2640435"
+          },
+          {
+            "title": "The YouTube Guide to Books: The 8 Best BookTube Channels - InsideHook",
+            "url": "https://www.insidehook.com/books/youtube-guide-books-best-booktube-channels"
+          },
+          {
+            "title": "BookTube Is an Enriching YouTube Community for Book Lovers",
+            "url": "https://studybreaks.com/culture/reads/booktube-book-lover-youtube/"
+          },
+          {
+            "title": "What are the best channels on YouTube for book reviews? - Quora",
+            "url": "https://www.quora.com/What-are-the-best-channels-on-YouTube-for-book-reviews"
+          },
+          {
+            "title": "Dune Audiobook by Frank Herbert",
+            "url": "https://www.audible.com/pd/Dune-Audiobook/B002V1OF70"
+          },
+          {
+            "title": "Dune (Dune, #1) by Frank Herbert | Goodreads",
+            "url": "https://www.goodreads.com/book/show/44767458-dune"
+          },
+          {
+            "title": "The Bookmark: 'Dune' by Frank Herbert",
+            "url": "https://www.tuftsdaily.com/article/2024/02/the-bookmark-dune-by-frank-herbert"
+          },
+          {
+            "title": "100 Book YouTubers You Must Follow in 2025",
+            "url": "https://videos.feedspot.com/book_youtube_channels/"
+          },
+          {
+            "title": "BookTube - Wikipedia",
+            "url": "https://en.m.wikipedia.org/wiki/BookTube"
+          },
+          {
+            "title": "The Dark Side of Booktube | A Sky of Books and Movies",
+            "url": "https://jeroenthoughts.wordpress.com/2021/10/09/the-dark-side-of-booktube/"
+          }
+        ]
+      },
+      "Let me search more specifically for popular Dune-related YouTube videos with view counts.",
+      {
+        "tool_use_id": "srvtoolu_01DjRorvbTq18e2kW5MjCMYG",
+        "content": [
+          {
+            "title": "Articles - Frank Herbert's Dune - A guide for further study - LibGuides at California State University, Fullerton",
+            "url": "https://libraryguides.fullerton.edu/c.php?g=389150&p=2640435"
+          },
+          {
+            "title": "Dune Study Guide - Frank Herbert",
+            "url": "https://www.litcharts.com/lit/dune"
+          },
+          {
+            "title": "Frank Herbert's 'Dune' Saga: An Analysis",
+            "url": "https://thesciencesurvey.com/arts-entertainment/2023/03/07/frank-herberts-dune-saga-an-analysis/"
+          },
+          {
+            "title": "Amazon.com: A Study Guide for Frank Herbert's \"Dune\": 9781375400862: Gale, Cengage Learning: Books",
+            "url": "https://www.amazon.com/Study-Guide-Frank-Herberts-Dune/dp/137540086X"
+          },
+          {
+            "title": "Rare DUNE Interview with Frank Herbert Video (Author: Frank Herbert)",
+            "url": "https://www.goodreads.com/videos/165661-rare-dune-interview-with-frank-herbert"
+          },
+          {
+            "title": "SciFi Dune: Dune Genesis by Frank Herbert",
+            "url": "https://courses.oermn.org/mod/page/view.php?id=13763"
+          },
+          {
+            "title": "Frank Herbert - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Frank_Herbert"
+          },
+          {
+            "title": "Summary and Analysis of Dune by Frank Herbert: Tigers, Book: 9781387767953: Amazon.com: Books",
+            "url": "https://www.amazon.com/Summary-Analysis-Dune-Frank-Herbert/dp/138776795X"
+          },
+          {
+            "title": "The Quileute Dune: Frank Herbert, Indigeneity, and Empire | Journal of American Studies | Cambridge Core",
+            "url": "https://www.cambridge.org/core/journals/journal-of-american-studies/article/abs/quileute-dune-frank-herbert-indigeneity-and-empire/83A9B64760B9B9F495D5039B2CD3F20F"
+          },
+          {
+            "title": "Dune (novel) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dune_(novel)"
+          }
+        ]
+      },
+      "Let me search for specific popular BookTube channels that have reviewed Dune and their view counts.",
+      {
+        "tool_use_id": "srvtoolu_01RmtMTcUd8GwFoYpJDVF3Px",
+        "content": [
+          {
+            "title": "Daniel Greene | Wikitubia | Fandom",
+            "url": "https://youtube.fandom.com/wiki/Daniel_Greene"
+          },
+          {
+            "title": "Breach of Peace, Daniel Greene \u2013 DUNE'S JEDI",
+            "url": "https://dunesjedi.wordpress.com/2021/07/07/breach-of-peace-daniel-greene/"
+          },
+          {
+            "title": "A List of Fantasy BookTubers - The Fantasy Review",
+            "url": "https://thefantasyreviews.com/2022/11/21/a-list-of-fantasy-booktubers/"
+          },
+          {
+            "title": "BookTube - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/BookTube"
+          },
+          {
+            "title": "The YouTube Guide to Books: The 8 Best BookTube Channels - InsideHook",
+            "url": "https://www.insidehook.com/books/youtube-guide-books-best-booktube-channels"
+          },
+          {
+            "title": "Best YouTube Channels For Book Reviews - WebGeekStuff",
+            "url": "https://www.webgeekstuff.com/best-youtube-channels-for-book-reviews/"
+          },
+          {
+            "title": "Daniel B. Greene (Author of Breach of Peace)",
+            "url": "https://www.goodreads.com/author/show/21193761.Daniel_B_Greene"
+          },
+          {
+            "title": "Top 10 Book Bloggers and Book Reviews Channels on Youtube - BookScouter Blog",
+            "url": "https://bookscouter.com/blog/book-bloggers-and-book-reviews-channels-on-youtube/"
+          },
+          {
+            "title": "An Interview with Daniel Greene - The Fantasy Review",
+            "url": "https://thefantasyreviews.com/2023/01/22/an-interview-with-daniel-greene/"
+          },
+          {
+            "title": "Daniel Greene Booktube",
+            "url": "https://www.tiktok.com/discover/daniel-greene-booktube"
+          }
+        ]
+      },
+      "Let me search more specifically for YouTube view counts on Dune-related videos.",
+      {
+        "tool_use_id": "srvtoolu_01R962ry7NL42PRoPhLk1Ejy",
+        "content": [
+          {
+            "title": "Dune with Quinn's Ideas - Alt Shift X Podcast",
+            "url": "https://open.spotify.com/episode/4yueD7T77aQy8BJFSxV2dW"
+          },
+          {
+            "title": "Alt Shift X Podcast \u2014 Dune with Quinn's Ideas",
+            "url": "https://nebula.tv/altshiftxpodcast/6-dune-with-quinns-ideas"
+          },
+          {
+            "title": "Dune with Quinn's Ideas",
+            "url": "https://art19.com/shows/alt-shift-x-podcast/episodes/b8799e80-2875-4939-a89a-897c25ed65e0"
+          },
+          {
+            "title": "Dune with Quinn's Ideas - Alt Shift X Podcast - Apple Podcasts",
+            "url": "https://podcasts.apple.com/us/podcast/6-dune-with-quinns-ideas/id1467112355?i=1000563140468"
+          },
+          {
+            "title": "Dune with Quinn's Ideas Alt Shift X Podcast",
+            "url": "https://podcasts.apple.com/gb/podcast/dune-with-quinns-ideas/id1467112355?i=1000563140468"
+          },
+          {
+            "title": "Dune Part Two Trailer 3 live Q&A (with Quinn) Alt Shift X ...",
+            "url": "https://podcasts.apple.com/us/podcast/dune-part-two-trailer-3-live-q-a-with-quinn/id1467112355?i=1000638404555"
+          },
+          {
+            "title": "Alt Shift X Podcast: Dune with Quinn's Ideas on DeepCast",
+            "url": "https://deepcast.fm/episode/dune-with-quinns-ideas"
+          },
+          {
+            "title": "Videos | Quinn Howard",
+            "url": "https://www.quinnhoward.net/videos"
+          },
+          {
+            "title": "Alt Shift X Podcast: Dune live Q&A (with Quinn) on DeepCast",
+            "url": "https://deepcast.fm/episode/dune-live-qa-with-quinn"
+          },
+          {
+            "title": "Alt Shift X",
+            "url": "https://altshiftx.com/"
+          }
+        ]
+      },
+      "Based on my search results, I can provide you with information about the Dune BookTube review landscape on YouTube, though specific view count data for individual videos is limited in the search results. Here's what I found:\n\n## BookTube Community and Dune Reviews\n\nBookTube is a subcommunity on YouTube that focuses on books and literature. The BookTube community has, to date, reached hundreds of thousands of viewers worldwide. While the majority of BookTubers focus on Young Adult literature, many address other genres, including science fiction like Frank Herbert's Dune.\n\n## Popular BookTube Channels Covering Dune\n\nSeveral prominent BookTube channels have reviewed Dune:\n\n**Daniel Greene** is a creator who covers a huge range of fantasy and sci-fi titles \u2014 and he truly caters to all sorts of readers. Maybe you enjoy niche Tolkien or Brandon Sanderson humor, or maybe you want to read Stephen King but don't know where to start. Wherever you lie on the spectrum, Greene makes creative and knowledgeable videos that vary in levels of previous experience required.(no content)He's known for Book Reviews, Science Fiction Deep Dives (Dune, Foundation, etc), TV Show Discussions/Reviews.\n\nCurrently, the most subscribed BookTubers include Jack Edwards (Jack Edwards), Isabella Lubrano (Ler Antes de Morrer), Tatiana Feltrin (tatianagfeltrin), Cindy Pham (withcindy), Hannah Azerang (A Clockwork Reader), Pam Gon\u00e7alves (PamGon\u00e7alves), Ariel Bissett (ArielBissett), Christine Riccio (PolandBananasBooks), Kat O'Keefe (katytastic), Clau R. (ClauReadsBooks), Dakota Warren (Dakota Warren), Carley Thorne (uncarley), Jesse George (Jesse the Reader), and Daniel Greene (Daniel Greene).\n\n## Video Essay Channels\n\nBeyond traditional BookTube, there are channels that create in-depth video essays about Dune:\n\n**Quinn's Ideas** appears to be a significant channel for Dune content. Quinn's Ideas: https://www.youtube.com/channel/UC1rFmaGLYr0Ve_Y_soxZNWQ and has a Dune Playlist: https://www.youtube.com/playlist?list=PLRXGGVBzHLUdsgN_vFaZmfjc6bXxPqajV.\n\n**Alt Shift X** has also created Dune content, with ASX Dune video: https://www.youtube.com/watch?v=R0krUthYxF4.\n\n## Community Size and Engagement\n\nThe BookTuber with the most viewers boasts over 410,000 subscribers. The BookTube community has grown significantly, with many channels having thousands (and sometimes hundreds of thousands) of subscribers. BookTube channels exist globally in English, Portuguese, Italian, French, and Spanish, among other languages.\n\n## Specific View Count Information\n\nUnfortunately, the search results didn't provide specific view counts for individual Dune review videos. However, there are references to some specific videos, such as YouTube links mentioned in Goodreads reviews: \"If you are having a hard time reading Dune: https://youtu.be/UMTRoZNN4E0 My YouTube Review (admittedly totally Fangirling): https://youtu.be/JilubCWr9Kk\", though these appear to be smaller, individual reviewer videos rather than major BookTube channels.\n\nThe search results suggest that Dune has a significant presence in the BookTube and video essay communities, with established creators like Daniel Greene and Quinn's Ideas producing content about Frank Herbert's work, but specific view count data for the most popular videos would require more targeted searches or direct access to YouTube analytics."
+    ],
+    "durationSeconds": 52.46071733199997
+  }
+}

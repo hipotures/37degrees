@@ -1,0 +1,62 @@
+{
+  "session_id": "0487d7f4-1250-4bb6-867a-a71d253cfc4f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0487d7f4-1250-4bb6-867a-a71d253cfc4f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"#DuneMovie\" \"#PaulAtreides\" TikTok memes viral trends BookTok"
+  },
+  "tool_response": {
+    "query": "\"#DuneMovie\" \"#PaulAtreides\" TikTok memes viral trends BookTok",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01PpC2svrQ5eVmfM8ia9Q7TB",
+        "content": [
+          {
+            "title": "TikTok - Make Your Day",
+            "url": "https://www.tiktok.com/discover/booktok-humor"
+          },
+          {
+            "title": "The Most Popular TikTok Books #BookTok | Barnes & Noble\u00ae",
+            "url": "https://www.barnesandnoble.com/b/booktok/_/N-2vdn"
+          },
+          {
+            "title": "dune part 2 paul speech\uff5cTikTok Search",
+            "url": "https://www.tiktok.com/discover/dune-part-2-paul-speech?lang=en"
+          },
+          {
+            "title": "21 Popular BookTok Books And Why They Went Viral On TikTok",
+            "url": "https://www.today.com/popculture/books/booktok-tiktok-books-list-rcna70986"
+          },
+          {
+            "title": "#BookTok | TikTok",
+            "url": "https://www.tiktok.com/tag/BookTok"
+          },
+          {
+            "title": "Funny dune memes\uff5cTikTok Search",
+            "url": "https://www.tiktok.com/discover/Funny-dune-memes?lang=en"
+          },
+          {
+            "title": "dune series\uff5cTikTok Search",
+            "url": "https://www.tiktok.com/discover/dune-series"
+          },
+          {
+            "title": "BookTok Books - The Best Tiktok Trending Books",
+            "url": "https://bookshop.org/info/booktok"
+          },
+          {
+            "title": "Emilybrenda: I will viral and rank book on tiktok booktok bookrank kdp ads tiktok ebook marketing for $15 on fiverr.com",
+            "url": "https://www.fiverr.com/emilybrenda/viral-and-rank-book-on-tiktok-booktok-bookrank-kdp-ads-tiktok-ebook-marketing"
+          },
+          {
+            "title": "Watching dune meme\uff5cTikTok Search",
+            "url": "https://www.tiktok.com/discover/Watching-dune-meme"
+          }
+        ]
+      },
+      "Based on the search results, I can see there's significant activity around Dune-related content on TikTok, particularly involving Paul Atreides memes and the intersection with BookTok. Here's what I found:\n\n## Dune and Paul Atreides TikTok Trends\n\nPaul Atreides content is going viral on TikTok, with popular quotes like \"i will lead you to paradise!\" being used in memes and edits. Videos featuring Paul Atreides are using hashtags like #dune #dunemovie #paulatreides #timotheechalamet and have gained viral status.\n\n## Dune Memes and Viral Content\n\nDune memes are popular on TikTok, with content ranging from humorous takes on Paul Atreides' character to movie-related jokes. Some memes play on Paul's character development, with content creators making jokes about his transformation throughout the story.\n\n## BookTok Connection\n\nThe Dune series has found its way into BookTok, with creators doing spoiler-free book reviews and discussing Frank Herbert's work using hashtags like #Booktok #scifi #dunemovie. BookTok is a hashtag used by creators who feature book recommendations, reviews and memes.\n\nBookTok creators are reviewing the entire Dune series, with some doing comprehensive breakdowns for their audiences. There's also cross-pollination between Dune movie content and BookTok recommendations.\n\n## Viral Trends and Engagement\n\nThe BookTok hashtag on TikTok serves as a space for book lovers to discuss their favorite authors and reads, and Dune content appears to be benefiting from this ecosystem. TikTok's algorithm promotes engaging content to wider audiences, and BookTok-friendly content can drive significant engagement.\n\nThe search shows a vibrant community around Dune content on TikTok, blending movie promotion, literary discussion, and meme culture across both the #DuneMovie and #BookTok communities."
+    ],
+    "durationSeconds": 18.782545481999986
+  }
+}

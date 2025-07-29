@@ -1,0 +1,62 @@
+{
+  "session_id": "7529e71f-d379-4299-9734-0e831fc05ee8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7529e71f-d379-4299-9734-0e831fc05ee8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Diuna\" przek\u0142ad polski r\u00f3\u017cnice terminologiczne Marsza\u0142 \u0141ozi\u0144ski symbolika"
+  },
+  "tool_response": {
+    "query": "\"Diuna\" przek\u0142ad polski r\u00f3\u017cnice terminologiczne Marsza\u0142 \u0141ozi\u0144ski symbolika",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01LkiVjwUtgjdUbk2pxx6nYn",
+        "content": [
+          {
+            "title": "T\u0142umaczenia \u201eDiuny\" Franka Herberta - Baba od polskiego",
+            "url": "https://babaodpolskiego.pl/jezyki-diuny-franka-herberta-2/"
+          },
+          {
+            "title": "\"W\u0142adca Pier\u015bcieni\" i \"Diuna\", czyli \u0141ozi\u0144ski kontra fani dzie\u0142",
+            "url": "https://burbonik.pl/2020/06/22/lozinski-wladca-pierscieni-diuna/"
+          },
+          {
+            "title": "Ciekawostki o Diunie - Diuna Group",
+            "url": "https://diuna.biz/ciekawostki-o-diunie/"
+          },
+          {
+            "title": "Diuna \u2013 powie\u015b\u0107 Franka Herberta - Agencja Skrivanek",
+            "url": "https://skrivanek.pl/diuna-powiesc-franka-herberta/"
+          },
+          {
+            "title": "Diuna Frank Herbert - Grupa dyskusyjna - Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/dyskusja/69/791/diuna-frank-herbert"
+          },
+          {
+            "title": "O czym jest Diuna? Ciekawostki o ksi\u0105\u017cce i filmie | Woblink blog",
+            "url": "https://woblink.com/blog/czego-jeszcze-nie-wiesz-o-diunie-a-powinienes/"
+          },
+          {
+            "title": "Lozinski a Diuna",
+            "url": "https://pl.rec.fantastyka.sf-f.narkive.com/FtzYPaAs/lozinski-a-diuna"
+          },
+          {
+            "title": "Diuna (powie\u015b\u0107) \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Diuna_(powie\u015b\u0107)"
+          },
+          {
+            "title": "T\u0142umaczenie - Dzieci Diuny - Forum - Filmweb",
+            "url": "https://www.filmweb.pl/serial/Dzieci+Diuny-2003-34210/discussion/T%C5%82umaczenie,1115113"
+          },
+          {
+            "title": "Por\u00f3wnanie t\u0142umacze\u0144 ''Diuny'' Herberta, ''W\u0142adcy pier\u015bcieni'' i innych [Archiwum] - mLingua | Forum T\u0142umaczy",
+            "url": "http://forum.mlingua.pl/archive/index.php/t-28909.html"
+          }
+        ]
+      },
+      "Oto wyniki wyszukiwania na temat r\u00f3\u017cnic terminologicznych mi\u0119dzy polskimi t\u0142umaczeniami \"Diuny\" Franka Herberta autorstwa Marka Marsza\u0142a i Jerzego \u0141ozi\u0144skiego, z uwzgl\u0119dnieniem symboliki:\n\n## G\u0142\u00f3wne r\u00f3\u017cnice terminologiczne\n\nDiuna Franka Herberta doczeka\u0142a si\u0119 kilku t\u0142umacze\u0144 na j\u0119zyk polski, z kt\u00f3rych najbardziej znane s\u0105 dwa: autorstwa Marka Marsza\u0142a i Jerzego \u0141ozi\u0144skiego (pisz\u0105cego pod pseudonimem \u0141adys\u0142aw Jerzy\u0144ski).\n\n### Przyk\u0142ady r\u00f3\u017cnic w t\u0142umaczeniu kluczowych termin\u00f3w:\n\n**Fremen/Fremeni:**\n- \u0141ozi\u0144ski zmieni\u0142 Fremen\u00f3w na Wolan\u00f3w\n- Herbert, tworz\u0105c nazw\u0119 Fremen, wzorowa\u0142 si\u0119 na angielskim \"free\" (wolny)\n\n**Czerwie pustyni (sandworm):**\n- W t\u0142umaczeniu \u0141ozi\u0144skiego czerwie pustyni nazywano \"piaskalem\"\n- Marsza\u0142: \"czerw pustyni\", \u0141ozi\u0144ski: \"piaskal\"\n\n**Inne r\u00f3\u017cnice terminologiczne:**\n\u0141ozi\u0144ski wprowadzi\u0142 nast\u0119puj\u0105ce zmiany: filtrfrak to \"hermetyk\", filtrnamiot to \"hermiot\", przyprawa to \"specja\u0142\", je\u017adziec piasku to \"d\u017cygit\", rusznica laserowa to \"laserobin\", grot-go\u0144czak to \"skrytob\u00f3jka\", dudnik to \"tupacz\", krysn\u00f3\u017c to \"krysztylet\", a g\u0142uszak to \"obezw\u0142adnik\".\n\n## Ocena t\u0142umacze\u0144 przez fan\u00f3w i krytyk\u00f3w\n\nT\u0142umaczenie Marka Marsza\u0142a jest uwa\u017cane za bardziej wierne orygina\u0142owi i bli\u017csze fanom gatunku. U\u017cywa on kalk j\u0119zykowych i neologizm\u00f3w, co oddaje bogaty j\u0119zyk Herberta.\n\nZ czasem \u0141ozi\u0144ski dorobi\u0142 si\u0119 nawet neologizmu \"\u0142ozizm\", za pomoc\u0105 kt\u00f3rego okre\u015bla si\u0119 zbyt swobodny przek\u0142ad, znacznie odbiegaj\u0105cy od orygina\u0142u.\n\nWed\u0142ug fan\u00f3w, \"\u0141ozi\u0144ski ksi\u0105\u017ck\u0119 zabi\u0142 i jedyne s\u0142uszne t\u0142umaczenie pope\u0142ni\u0142 Marsza\u0142\", cho\u0107 niekt\u00f3rzy uwa\u017caj\u0105, \u017ce \"nowe t\u0142umaczenie \u0141ozi\u0144skiego jest znacznie lepsze pod wzgl\u0119dem j\u0119zykowym\".\n\n## Symbolika i etymologia nazw\n\nNie wszystkie nazwy wyst\u0119puj\u0105ce w uniwersum Diuny zosta\u0142y wymy\u015blone przez Herberta od podstaw - wiele z nich wywodzi si\u0119 od znanych s\u0142\u00f3w z r\u00f3\u017cnych j\u0119zyk\u00f3w:\n\n- Arrakis pochodzi od nazwy gwiazdy Alrakis widocznej go\u0142ym okiem w konstelacji Smoka. Druga nazwa planety, Diuna, to wydma nadmorska\n- Fremeni, wolni ludzie, swoj\u0105 nazw\u0119 zawdzi\u0119czaj\u0105 angielskiemu \"free men\"\n- Melan\u017c, o kt\u00f3ry \u015bcieraj\u0105 si\u0119 wrogie si\u0142y na Arrakis, pochodzi od francuskiego m\u00e9lange (mieszanina)\n\nR\u00f3\u017cnice w t\u0142umaczeniach odzwierciedlaj\u0105 r\u00f3\u017cne podej\u015bcia do przek\u0142adu literatury fantastycznej - Marsza\u0142 stara\u0142 si\u0119 zachowa\u0107 oryginaln\u0105 terminologi\u0119 i neologizmy Herberta, podczas gdy \u0141ozi\u0144ski wprowadza\u0142 polskie odpowiedniki, co spotka\u0142o si\u0119 z mieszanymi reakcjami czytelnik\u00f3w."
+    ],
+    "durationSeconds": 32.42303019299998
+  }
+}

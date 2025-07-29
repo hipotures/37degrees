@@ -1,0 +1,62 @@
+{
+  "session_id": "7b55c4df-37c7-40ba-a24e-add57974ae65",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7b55c4df-37c7-40ba-a24e-add57974ae65.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Diuna\" Frank Herbert symbolika analiza polska literatura przek\u0142ad \"wydanie polskie\""
+  },
+  "tool_response": {
+    "query": "\"Diuna\" Frank Herbert symbolika analiza polska literatura przek\u0142ad \"wydanie polskie\"",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01GfRDDg921vfVHox98EsKGE",
+        "content": [
+          {
+            "title": "Diuna ksi\u0105\u017cka | Frank Herbert | seria Kroniki Diuny",
+            "url": "https://www.swiatksiazki.pl/seria/diuna"
+          },
+          {
+            "title": "Recenzja ksi\u0105\u017cki \"Diuna\" Franka Herberta",
+            "url": "https://paradoks.net.pl/read/3205-recenzja-ksiazki-diuna-franka-herberta"
+          },
+          {
+            "title": "Diuna (powie\u015b\u0107) \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Diuna_(powie\u015b\u0107)"
+          },
+          {
+            "title": "Diuna \u2013 powie\u015b\u0107 Franka Herberta - Agencja Skrivanek",
+            "url": "https://skrivanek.pl/diuna-powiesc-franka-herberta/"
+          },
+          {
+            "title": "\"Diuna\", Frank Herbert, REBIS",
+            "url": "https://www.rebis.com.pl/pl/book-diuna-frank-herbert,SCHB02842.html"
+          },
+          {
+            "title": "Diuna - Frank Herbert - Polska Ksiegarnia w UK",
+            "url": "https://ksiegarniainternetowa.co.uk/pl/diuna-9788373017238"
+          },
+          {
+            "title": "Diuna Frank Herbert - Grupa dyskusyjna - Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/dyskusja/69/791/diuna-frank-herbert"
+          },
+          {
+            "title": "T\u0142umaczenia \u201eDiuny\" Franka Herberta - Baba od polskiego",
+            "url": "https://babaodpolskiego.pl/jezyki-diuny-franka-herberta-2/"
+          },
+          {
+            "title": "Diuna - Frank Herbert | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/4942534/diuna"
+          },
+          {
+            "title": "Diuna. Kroniki Diuny. Tom 1 Frank Herbert ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/diuna-kroniki-diuny-tom-1-frank-herbert"
+          }
+        ]
+      },
+      "Based on the search results, I've found comprehensive information about \"Diuna\" by Frank Herbert in Polish literature, including information about its translations, symbolism, and Polish editions. Here's what I found:\n\n## Polskie wydania i przek\u0142ady \"Diuny\" Franka Herberta\n\nW Polsce \"Diuna\" ukaza\u0142a si\u0119 po raz pierwszy w 1985 roku nak\u0142adem Wydawnictwa Iskry w t\u0142umaczeniu Marka Marsza\u0142a.(no content)T\u0142umaczem pierwszego polskiego przek\u0142adu \"Diuny\" z 1985 roku jest Marek Marsza\u0142. Jego t\u0142umaczenie do dzi\u015b cieszy si\u0119 najwi\u0119kszym uznaniem i popularno\u015bci\u0105 w\u015br\u00f3d fan\u00f3w serii.\n\n### R\u00f3\u017cne przek\u0142ady na rynku polskim\n\nDrugi dost\u0119pny na polskim rynku przek\u0142ad \"Diuny\" stworzy\u0142 Jerzy \u0141ozi\u0144ski. Pomi\u0119dzy obiema wersjami t\u0142umacze\u0144 zauwa\u017calne s\u0105 przede wszystkim r\u00f3\u017cnice w terminologii dotycz\u0105cej nazw w\u0142asnych.(no content)T\u0142umaczenie Marka Marsza\u0142a spotka\u0142o si\u0119 z wi\u0119kszym uznaniem fan\u00f3w gatunku. Jerzy \u0141ozi\u0144ski znany jest ze swojego swobodnego podej\u015bcia do t\u0142umaczenia i jego styl nie odpowiada wielu czytelnikom.(no content)Najbardziej znane s\u0105 dwa: autorstwa Marka Marsza\u0142a i Jerzego \u0141ozi\u0144skiego (pisz\u0105cego pod pseudonimem \u0141adys\u0142aw Jerzy\u0144ski). T\u0142umaczenie Marka Marsza\u0142a jest uwa\u017cane za bardziej wierne orygina\u0142owi i bli\u017csze fanom gatunku.\n\n### Historia wyda\u0144 polskich\n\nW latach 1992\u20131993 wydawnictwo Phantom Press wyda\u0142o ca\u0142\u0105 sag\u0119 Kroniki Diuny (przek\u0142ady Marka Marsza\u0142a oraz innych t\u0142umaczy). W latach 1997\u20132001 wznowi\u0142o j\u0105 Wydawnictwo Zysk i S-ka (w nowym, wzbudzaj\u0105cym wiele kontrowersji przek\u0142adzie Jerzego \u0141ozi\u0144skiego pisz\u0105cego pod pseudonimem \u0141adys\u0142aw Jerzy\u0144ski). W 2007 roku Dom Wydawniczy Rebis wznowi\u0142 Diun\u0119 (poprawiony przek\u0142ad Marka Marsza\u0142a).\n\n## Analiza symboliczna i literacka\n\n### Bogactwo j\u0119zykowe i filozoficzne\n\n\"Diuna\" przepe\u0142niona jest refleksj\u0105 nad \u017cyciem cz\u0142owieka. J\u0119zykowi Herberta te\u017c nie mo\u017cna niczego zarzuci\u0107. Jest pe\u0142en bogactwa oraz artystycznych \u015brodk\u00f3w wyrazu. Dzi\u0119ki temu powie\u015b\u0107 mo\u017cna \"smakowa\u0107\", przewracaj\u0105c stronic\u0119 po stronicy, rozp\u0142ywaj\u0105c si\u0119 w przyjemno\u015bci czytania \u015bwietnie napisanej lektury.(no content)Lektura \"Diuny\" daje wiele do my\u015blenia. Jest tu zawartych bardzo wiele rozwa\u017ca\u0144, bardzo du\u017co znacze\u0144. Pe\u0142no tu powa\u017cnych my\u015bli, refleksji i cytat\u00f3w. Dzi\u0119ki temu Herberta mo\u017cna przytacza\u0107 niczym wielkich my\u015blicieli, a ka\u017cda kolejna lektura powie\u015bci odkrywa co\u015b nowego.\n\n### Symbolika nazw i etymologia\n\nNie wszystkie nazwy wyst\u0119puj\u0105ce w uniwersum Diuny zosta\u0142y wymy\u015blone przez Herberta od podstaw. Wiele z nich wywodzi si\u0119 od znanych s\u0142\u00f3w z r\u00f3\u017cnych j\u0119zyk\u00f3w. Na przyk\u0142ad:\n\n- Arrakis pochodzi od nazwy gwiazdy Alrakis widocznej go\u0142ym okiem w konstelacji Smoka. Druga nazwa planety, Diuna, to nic innego jak wydma nadmorska.\n- Los rodu Atryd\u00f3w jest zapisany w ich nazwie, kt\u00f3r\u0105 po\u017cyczyli od obci\u0105\u017conej kl\u0105tw\u0105 rodziny kr\u00f3lewskiej z greckiej mitologii. Imi\u0119 ojca Paula, Leto, zamordowanego z zimn\u0105 krwi\u0105, to po \u0142acinie \"zabi\u0107\".\n- Fremeni, wolni ludzie, swoj\u0105 nazw\u0119 zawdzi\u0119czaj\u0105 angielskiemu free men, a ich przeciwnicy Haarkonenowie, ze wzgl\u0119du na swoj\u0105 brutaln\u0105 si\u0142\u0119, zostali obdarzeni mianem wywodz\u0105cym si\u0119 od fi\u0144skiego h\u00e4rk\u00e4, czyli byk.\n\n### Znaczenie w literaturze polskiej\n\nPowie\u015b\u0107 fantastycznonaukowa napisana przez Franka Herberta, uhonorowana pierwsz\u0105 przyznan\u0105 nagrod\u0105 Nebula w 1965 i nagrod\u0105 Hugo w 1966. Powie\u015b\u0107 odnios\u0142a olbrzymi sukces komercyjny, sprzedano j\u0105 na ca\u0142ym \u015bwiecie w ponad 20 milionach egzemplarzy. W 1987 roku w g\u0142osowaniu czytelnik\u00f3w czasopisma Locus na najlepsz\u0105 powie\u015b\u0107 fantastycznonaukow\u0105 wszech czas\u00f3w zaj\u0119\u0142a 1. miejsce.(no content)Nie ma chyba na \u015bwiecie osoby, kt\u00f3ra by tytu\u0142u \"Diuna\" nie kojarzy\u0142a. \u015amia\u0142o mo\u017cna stwierdzi\u0107, i\u017c dzie\u0142o Franka Herberta dawno zyska\u0142o ju\u017c status kultowego, a po wydan\u0105 w 1965 roku powie\u015b\u0107 si\u0119gaj\u0105 kolejne pokolenia czytelnik\u00f3w."
+    ],
+    "durationSeconds": 50.382182712999985
+  }
+}

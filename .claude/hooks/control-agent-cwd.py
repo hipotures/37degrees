@@ -12,6 +12,13 @@ def main():
     # Read input from stdin
     data = json.load(sys.stdin)
     
+    # Save complete raw JSON to /tmp (like 37d-save-search.py)
+    debug_timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
+    pid = os.getpid()
+    debug_filename = f'/tmp/control-agent-cwd_{debug_timestamp}_{pid}.json'
+    with open(debug_filename, 'w', encoding='utf-8') as debug_f:
+        json.dump(data, debug_f, indent=2)
+    
     # Only process Task tool calls
     if data.get('tool_name') != 'Task':
         # Pass through other tools unchanged
@@ -24,7 +31,8 @@ def main():
         'tool': data.get('tool_name'),
         'agent': data.get('tool_input', {}).get('subagent_type'),
         'prompt': data.get('tool_input', {}).get('prompt', '')[:200] + '...',
-        'cwd': os.getcwd()
+        'cwd': os.getcwd(),
+        'debug_file': debug_filename
     }
     
     with open('/tmp/agent-cwd-control.log', 'a') as f:

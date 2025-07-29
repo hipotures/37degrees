@@ -1,0 +1,62 @@
+{
+  "session_id": "7529e71f-d379-4299-9734-0e831fc05ee8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7529e71f-d379-4299-9734-0e831fc05ee8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Dune video games\" complete list chronological order all titles released Westwood Studios"
+  },
+  "tool_response": {
+    "query": "\"Dune video games\" complete list chronological order all titles released Westwood Studios",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_015XbwTwxfmuzu2WfgJeo83n",
+        "content": [
+          {
+            "title": "List of games based on Dune - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/List_of_games_based_on_Dune"
+          },
+          {
+            "title": "Every Dune Video Game Ever Made, Ranked",
+            "url": "https://www.thegamer.com/every-dune-video-game-ranked/"
+          },
+          {
+            "title": "Westwood Studios | Dune Wiki | Fandom",
+            "url": "https://dune.fandom.com/wiki/Westwood_Studios"
+          },
+          {
+            "title": "Dune (video game) | Dune Wiki | Fandom",
+            "url": "https://dune.fandom.com/wiki/Dune_(video_game)"
+          },
+          {
+            "title": "Dune (franchise) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dune_(franchise)"
+          },
+          {
+            "title": "Dune Movies, TV Shows, and Video Games",
+            "url": "https://www.imdb.com/list/ls561519209/"
+          },
+          {
+            "title": "Dune (video game) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dune_(video_game)"
+          },
+          {
+            "title": "All Dune Games Listed in Chronological Order",
+            "url": "https://commonsensegamer.com/dune-games-listed-in-chronological-order/"
+          },
+          {
+            "title": "Video games based on Dune novels and films \u2022 Mezha.Media",
+            "url": "https://mezha.media/en/articles/dune-in-video-games/"
+          },
+          {
+            "title": "Dune II | Dune Wiki | Fandom",
+            "url": "https://dune.fandom.com/wiki/Dune_II"
+          }
+        ]
+      },
+      "Based on the search results, I can provide you with a complete chronological list of Dune video games, including those developed by Westwood Studios:\n\n## Complete Chronological List of Dune Video Games\n\n**1992 - Dune** \nDeveloped by Cryo Interactive and published by Virgin Interactive, this was the first Dune game and was inspired by both Frank Herbert's novel and David Lynch's 1984 film, and was one of the first games to be released on CD.\n\n**1992 - Dune II: The Building of a Dynasty (later retitled Dune II: Battle for Arrakis)**\nReleased in December 1992 from Westwood Studios/Virgin Interactive. Often considered to be the first \"mainstream modern real-time strategy game\", Dune II established many conventions of the genre. Westwood had to change the name to Dune II because Cryo's Dune was released earlier in summer 1992.\n\n**1998 - Dune 2000**\nA 1998 remake of Dune II from Intelligent Games/Westwood Studios/Virgin Interactive, which added improved graphics and live-action cutscenes. The game was commissioned by Westwood Studios and created by British studio Intelligent Games.\n\n**2001 - Emperor: Battle for Dune**\nReleased on June 12, 2001 by Intelligent Games/Westwood Studios/Electronic Arts. A sequel to Dune 2000, the real-time strategy game features 3D graphics and live-action cutscenes, and casts players as Atreides, Harkonnens, or Ordos.\n\n**2001 - Frank Herbert's Dune**\nReleased in 2001 by Cryo Interactive/DreamCatcher Interactive, Frank Herbert's Dune is a 3D video game based on the 2000 Sci Fi Channel miniseries of the same name. The game was not a commercial or critical success, and Cryo subsequently filed for bankruptcy in July 2002.\n\n**2022/2023 - Dune: Spice Wars**\nReleased on Steam in Early Access by French development studio Shiro Games on April 26, 2022 before being fully released on September 14, 2023.\n\n**Upcoming - Dune: Awakening**\nAn open world action survival massively multiplayer online game set on the planet Arrakis, announced by Funcom at Gamescom Opening Night Live 2022.\n\n## Westwood Studios Dune Games Specifically\n\nWestwood Studios developed three games inspired by the Dune novel series: Dune II (1992), Dune 2000 (1998), and Emperor: Battle for Dune (2001). Westwood Studios ceased operations on 31 March 2003 and its remnants were merged with EA Los Angeles.\n\nThe Westwood titles were particularly influential, with Dune II generally credited for popularizing and setting the template for the real-time strategy genre and considered to be among the most influential video games of all time."
+    ],
+    "durationSeconds": 24.69722322199994
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "session_id": "0487d7f4-1250-4bb6-867a-a71d253cfc4f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0487d7f4-1250-4bb6-867a-a71d253cfc4f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "YouTube \"Dune book review\" BookTube highest views popular channels million subscribers"
+  },
+  "tool_response": {
+    "query": "YouTube \"Dune book review\" BookTube highest views popular channels million subscribers",
+    "results": [
+      "I'll perform a web search for YouTube Dune book reviews from popular BookTube channels.",
+      {
+        "tool_use_id": "srvtoolu_01FndEGuSNN7W5ddM6UChKVJ",
+        "content": []
+      },
+      "I wasn't able to retrieve results from that search. Let me try a more focused search about popular BookTube channels reviewing Dune:",
+      {
+        "tool_use_id": "srvtoolu_01F4MG245DdDqzMexBLcCKot",
+        "content": [
+          {
+            "title": "A List of Fantasy BookTubers - The Fantasy Review",
+            "url": "https://thefantasyreviews.com/2022/11/21/a-list-of-fantasy-booktubers/"
+          },
+          {
+            "title": "BookTube Channel Guide \u2022 A Curated List of 100+ BookTubers",
+            "url": "https://blog.reedsy.com/booktube-channels/"
+          },
+          {
+            "title": "The YouTube Guide to Books: The 8 Best BookTube Channels - InsideHook",
+            "url": "https://www.insidehook.com/books/youtube-guide-books-best-booktube-channels"
+          },
+          {
+            "title": "The Top Booktubers & Book Youtube Channels - Book Scrolling",
+            "url": "https://www.bookscrolling.com/the-top-booktubers-book-youtube-channels/"
+          },
+          {
+            "title": "BookTube - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/BookTube"
+          },
+          {
+            "title": "100 Book YouTubers You Must Follow in 2025",
+            "url": "https://videos.feedspot.com/book_youtube_channels/"
+          },
+          {
+            "title": "Ten BookTube channels to watch - The Washington Post",
+            "url": "https://www.washingtonpost.com/entertainment/books/ten-booktube-channels-to-watch/2019/08/06/bbc654d2-b245-11e9-8f6c-7828e68cb15f_story.html"
+          },
+          {
+            "title": "19 Biggest Booktubers You Need To Follow (2025)",
+            "url": "https://becomeawritertoday.com/biggest-booktubers/"
+          },
+          {
+            "title": "7 YouTubers to Subscribe to on BookTube | The Influence Agency",
+            "url": "https://theinfluenceagency.com/blog/youtubers-to-follow-on-booktube"
+          },
+          {
+            "title": "Great BookTube Channels to Watch - Bookishly Delightful",
+            "url": "https://bookishlydelightful.substack.com/p/great-booktube-channels-to-watch"
+          }
+        ]
+      },
+      "Let me search more specifically for Dune book reviews on YouTube with high view counts:",
+      {
+        "tool_use_id": "srvtoolu_01BHmvqZFSm9fRupABj9S1Sv",
+        "content": [
+          {
+            "title": "Daniel Greene | Wikitubia | Fandom",
+            "url": "https://youtube.fandom.com/wiki/Daniel_Greene"
+          },
+          {
+            "title": "Breach of Peace, Daniel Greene \u2013 DUNE'S JEDI",
+            "url": "https://dunesjedi.wordpress.com/2021/07/07/breach-of-peace-daniel-greene/"
+          },
+          {
+            "title": "Daniel B. Greene (Author of Breach of Peace)",
+            "url": "https://www.goodreads.com/author/show/21193761.Daniel_B_Greene"
+          },
+          {
+            "title": "Daniel B. Greene Book Reviews - The Fantasy Review",
+            "url": "https://thefantasyreviews.com/daniel-b-greene-book-reviews/"
+          },
+          {
+            "title": "Book Review: Breach of Peace, by Daniel B. Greene | Dial H For Houston",
+            "url": "https://dialhforhouston.wordpress.com/2021/04/14/book-review-breach-of-peace-by-daniel-b-greene/"
+          },
+          {
+            "title": "Daniel Greene YouTube Channel Analytics Report - PLAYBOARD",
+            "url": "https://playboard.co/en/channel/UCw--xPGVVxYzRsWyV1nFqgg"
+          },
+          {
+            "title": "Interview with Daniel Greene - Brent Weeks",
+            "url": "https://www.brentweeks.com/2019/10/interview-with-daniel-greene/"
+          },
+          {
+            "title": "Breach of Peace \u2013 Daniel B. Greene",
+            "url": "https://thereadingstray.com/2021/05/08/breach-of-peace-daniel-b-greene/"
+          },
+          {
+            "title": "Books \u2013 Daniel Greene",
+            "url": "https://www.danielgreenebooks.com/?page_id=8192"
+          },
+          {
+            "title": "Google Books",
+            "url": "https://books.google.com.au/books?id=ut5x8nEx-0MC&pg=PT6&lpg=PT6&dq=Daniel+Greene+dune&ots=shwNYe4_eV&sig=ACfU3U3BJ7Vop_SJu1SFqxd3VTY9sS7Umw&hl=en&sa=X&ved=2ahUKEwiAhOb3te7nAhXmyzgGHZr8BKkQ6AEwGnoECAsQAQ"
+          }
+        ]
+      },
+      "Let me try a more specific search for popular Dune book review videos on YouTube:",
+      {
+        "tool_use_id": "srvtoolu_011HZ8zJTRozZLNy7jyNN7r4",
+        "content": [
+          {
+            "title": "Dune book review | Speechify",
+            "url": "https://speechify.com/blog/dune-book-review/"
+          },
+          {
+            "title": "Dune Book Review | Tales from Absurdia",
+            "url": "https://talesfromabsurdia.com/book-reviews/dune-book-review/"
+          },
+          {
+            "title": "Dune Messiah Book Review | Tales from Absurdia",
+            "url": "https://talesfromabsurdia.com/book-reviews/dune-messiah-book-review/"
+          },
+          {
+            "title": "Dune Book Review - Arlene's Book Club",
+            "url": "https://arlenesbookclub.com/dune-book-review/"
+          }
+        ]
+      },
+      "Let me search for specific YouTube videos about Dune book reviews by popular channels:",
+      {
+        "tool_use_id": "srvtoolu_01RFumKE7mtB3DMaQRik4VQn",
+        "content": [
+          {
+            "title": "Jack Edwards's review of Dune (Dune, #1)",
+            "url": "https://www.goodreads.com/review/show/4249311799"
+          },
+          {
+            "title": "Jack Edwards (Author of The Uni-Verse)",
+            "url": "https://www.goodreads.com/author/show/20013214.Jack_Edwards"
+          },
+          {
+            "title": "100 Book YouTubers You Must Follow in 2025",
+            "url": "https://videos.feedspot.com/book_youtube_channels/"
+          },
+          {
+            "title": "A chat with YouTube's resident librarian, Jack Edwards - Creator Handbook",
+            "url": "https://www.creatorhandbook.net/a-chat-with-youtubes-resident-librarian-jack-edwards/"
+          },
+          {
+            "title": "The YouTube Guide to Books: The 8 Best BookTube Channels - InsideHook",
+            "url": "https://www.insidehook.com/books/youtube-guide-books-best-booktube-channels"
+          },
+          {
+            "title": "Jack Edwards on X: \"new youtube video: the 12 best books i read in 2021 (and i read 164) watch: https://t.co/Db52LtXeI9 https://t.co/oShSmwZDYU\" / X",
+            "url": "https://x.com/jackbenedwards/status/1481310520804315136"
+          },
+          {
+            "title": "Jack Edwards - Silent Book Reviews on TikTok",
+            "url": "https://www.tiktok.com/@jack_edwards/video/7314333735107726625"
+          },
+          {
+            "title": "jack edwards book review",
+            "url": "https://www.tiktok.com/discover/jack-edwards-book-review"
+          },
+          {
+            "title": "Dune (Dune, #1) by Frank Herbert | Goodreads",
+            "url": "https://www.goodreads.com/book/show/44767458-dune"
+          },
+          {
+            "title": "Meet Jack Edwards, the Viral Librarian of Gen Z - InsideHook",
+            "url": "https://www.insidehook.com/books/jack-edwards-viral-librarian-gen-z-youtube"
+          }
+        ]
+      },
+      "Now let me search for specific popular BookTubers who have reviewed Dune with high subscriber counts:",
+      {
+        "tool_use_id": "srvtoolu_0195yhE4r1bJYYr2i4DNPytA",
+        "content": [
+          {
+            "title": "Christine Riccio (@xtinemay) \u2022 Instagram photos and videos",
+            "url": "https://www.instagram.com/xtinemay/"
+          },
+          {
+            "title": "Alum Christine Riccio Turned a Love of Reading into a Career as a YouTuber and an Author | Bostonia | Boston University",
+            "url": "https://www.bu.edu/articles/2022/christine-riccio-youtuber-and-author/"
+          },
+          {
+            "title": "Christine Riccio | Authors | Macmillan",
+            "url": "https://us.macmillan.com/author/christinericcio"
+          },
+          {
+            "title": "Christine Riccio - Age, Family, Bio | Famous Birthdays",
+            "url": "https://www.famousbirthdays.com/people/christine-riccio.html"
+          },
+          {
+            "title": "Christine Riccio \u2014 First Draft With Sarah Enni",
+            "url": "https://www.firstdraftpod.com/episode-transcripts/2021/12/31/christine-riccio"
+          },
+          {
+            "title": "Christine Riccio (Author of Again, But Better)",
+            "url": "https://www.goodreads.com/author/show/13984436.Christine_Riccio"
+          },
+          {
+            "title": "Christine Riccio",
+            "url": "https://www.christinericcio.com/"
+          },
+          {
+            "title": "New Leaf Literary | Christine Riccio",
+            "url": "https://www.newleafliterary.com/people/christine-riccio/"
+          },
+          {
+            "title": "polandbananasBOOKS | Wikitubia | Fandom",
+            "url": "https://youtube.fandom.com/wiki/PolandbananasBOOKS"
+          },
+          {
+            "title": "Amazon.co.uk: Christine Riccio: books, biography, latest update",
+            "url": "https://www.amazon.co.uk/stores/author/B07JDCSNDH"
+          }
+        ]
+      },
+      "Based on my search results, I can provide you with information about popular BookTube channels and their Dune book reviews, though I wasn't able to find specific view counts for individual Dune review videos. Here's what I found:\n\n## Popular BookTube Channels with Large Subscriber Counts\n\nCurrently, the most subscribed BookTubers include Jack Edwards (Jack Edwards), Isabella Lubrano (Ler Antes de Morrer), Tatiana Feltrin (tatianagfeltrin), Cindy Pham (withcindy), Hannah Azerang (A Clockwork Reader), Pam Gon\u00e7alves (PamGon\u00e7alves), Ariel Bissett (ArielBissett), Christine Riccio (PolandBananasBooks), Kat O'Keefe (katytastic), Clau R. (ClauReadsBooks), Dakota Warren (Dakota Warren), Carley Thorne (uncarley), Jesse George (Jesse the Reader), and Daniel Greene (Daniel Greene).\n\n## Specific High-Subscriber BookTubers\n\n**Jack Edwards**: With 1.2 million subscribers, Jack has a great relationship with his fans and has risen to the top of social media's book ecosystem. However, his Dune review was not particularly positive - he gave it 2/5 stars, feeling \"incredibly underwhelmed when reading it\" and found \"the book laborious to work through\" due to \"an absurd amount of overly complex world-building.\"\n\n**Christine Riccio (PolandBananasBooks)**: Christine Riccio\u2013better known as PolAndBananasBOOKS, has been reviewing books on Booktube since 2010 and has more than 400,000 channel subscribers.(no content)Christine Riccio (PolandBananasBooks) is often known as a pioneer of BookTube and became one of the first BookTubers to gain a large following.\n\n**Daniel Greene**: He creates videos about fantasy books, from reviews to rankings, to discussions, to news, to countdowns, to fantasy hot takes.(no content)Known for: Book Reviews, Science Fiction Deep Dives (Dune, Foundation, etc), TV Show Discussions/Reviews\n\n**Jesse George (Jesse the Reader)**: With nearly 400,000 subscribers, Jesse George of Jesse the Reader is among today's best book tubers.\n\n## BookTube Community Overview\n\nToday, many channels have thousands (and sometimes hundreds of thousands) of subscribers.(no content)According to reporting in People Magazine: \"As of early 2024, videos with 'BookTube' in their title have been viewed more than 350 million times.\"\n\nWhile I found that several major BookTubers like Daniel Greene are known for covering science fiction including Dune, I wasn't able to locate specific view counts for individual Dune book review videos from the search results. The BookTube community appears to have significant engagement with classic science fiction, but specific metrics for Dune reviews would require more targeted searches of individual channel analytics."
+    ],
+    "durationSeconds": 50.13854129799991
+  }
+}

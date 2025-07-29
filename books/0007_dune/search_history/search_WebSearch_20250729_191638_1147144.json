@@ -1,0 +1,26 @@
+{
+  "session_id": "7529e71f-d379-4299-9734-0e831fc05ee8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7529e71f-d379-4299-9734-0e831fc05ee8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Dune\" \"20 rejections\" Chilton publishing history Herbert manuscript"
+  },
+  "tool_response": {
+    "query": "\"Dune\" \"20 rejections\" Chilton publishing history Herbert manuscript",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_017gZKtFrxEFN4CguE3NK6ue",
+        "content": [
+          {
+            "title": "Dune's Original Publisher Otherwise Just Printed Repair Manuals | Cracked.com",
+            "url": "https://www.cracked.com/article_31566_dunes-original-publisher-otherwise-just-printed-repair-manuals.html"
+          }
+        ]
+      },
+      "Based on the search results, I found information about Frank Herbert's *Dune* manuscript and its publishing history with rejections and Chilton Company:\n\n*Dune* began as a pair of short novels that Frank Herbert wrote after researching dunes as a reporter covering the USDA's environmental efforts. He serialized these sci-fi stories in a magazine called Analog Science Fact & Fiction.(no content)Herbert then expanded those stories (titled \"Dune World\" and \"The Prophet of Dune\") into the full *Dune* novel, which totaled some 200,000 words.(no content)As a result of its length, 23 different publishers rejected the manuscript. Publishers insisted that sci-fi readers like their stories short, unlike fantasy fans who are fine with longer books.(no content)The publisher that finally accepted the manuscript was Chilton Company, which was remarkable because Chilton Company was not a publisher of novels. The search results indicate that Chilton primarily published trade magazines and repair manuals rather than fiction.\n\nThe search found 23 rejections rather than exactly 20, but this aligns with the general pattern of multiple rejections that eventually led to Chilton Company accepting and publishing what would become one of the most celebrated science fiction novels of all time."
+    ],
+    "durationSeconds": 9.936484988999961
+  }
+}

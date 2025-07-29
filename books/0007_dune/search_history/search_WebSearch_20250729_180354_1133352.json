@@ -1,0 +1,62 @@
+{
+  "session_id": "898bd1fa-0d83-4504-a08d-6069cf4b9bc9",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/898bd1fa-0d83-4504-a08d-6069cf4b9bc9.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "test hook format check"
+  },
+  "tool_response": {
+    "query": "test hook format check",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01PtaAC8J83vjGSN3dkknz7h",
+        "content": [
+          {
+            "title": "Webhook.site - Test, transform and automate Web requests and emails",
+            "url": "https://webhook.site/"
+          },
+          {
+            "title": "githooks - Git server hooks, check if code is formated - Stack Overflow",
+            "url": "https://stackoverflow.com/questions/41274029/git-server-hooks-check-if-code-is-formated"
+          },
+          {
+            "title": "Testing React Hooks with React Testing Library and Jest | Medium",
+            "url": "https://vaskort.medium.com/how-to-unit-test-your-custom-react-hook-with-react-testing-library-and-jest-8bdefafdc8a2"
+          },
+          {
+            "title": "Writing hook functions - pytest documentation",
+            "url": "https://docs.pytest.org/en/stable/how-to/writing_hook_functions.html"
+          },
+          {
+            "title": "Hooks | Intermediate Guides | Guides",
+            "url": "https://testcafe.io/documentation/403435/guides/intermediate-guides/hooks"
+          },
+          {
+            "title": "Git-hook for test and format before committing and pushing. | Admokonugroho",
+            "url": "https://admokonugroho.com/posts/2022-03-20-git-hooks-for-test-and-format-before-commit-and-push/"
+          },
+          {
+            "title": "Automating Code Checks and Tests with Git Hooks | AntStack - Full-Stack Serverless Company",
+            "url": "https://www.antstack.com/blog/automating-code-checks-and-tests-with-git-hooks/"
+          },
+          {
+            "title": "How to Test Custom React Hooks with React Testing Library",
+            "url": "https://www.builder.io/blog/test-custom-hooks-react-testing-library"
+          },
+          {
+            "title": "bash - git hook to test if a file contains the right data - Stack Overflow",
+            "url": "https://stackoverflow.com/questions/34191223/git-hook-to-test-if-a-file-contains-the-right-data"
+          },
+          {
+            "title": "C# git tips: Use git hook to test your code - DEV Community",
+            "url": "https://dev.to/kenakamu/c-git-tips-use-git-hook-to-test-your-code-1bop"
+          }
+        ]
+      },
+      "The search results provide information about various types of \"test hook format check\" scenarios across different contexts. Here's what I found:\n\n## Git Hooks for Testing and Formatting\n\nSeveral resources show how to create git server hooks to check if code is formatted correctly using tools like clang format, with users receiving messages to format their code before pushing.\n\nThe pre-commit script executes every time you run Git commit before Git asks for a commit message, and can validate code format. These scripts typically run static code analysis, format checking, and unit tests.\n\nA common workflow involves running checks like linter, prettier, and tests every time someone tries to commit, running these steps only on staged files for efficiency.\n\n## Testing Framework Hooks\n\nIn pytest, hook functions are called from registered plugins for any given hook specification, with typical hooks like pytest_collection_modifyitems called after test collection is completed.\n\nIn TestCafe, hooks are functions that run immediately before or after other test entities, and can be attached to tests, fixtures, and test runs.\n\n## React Hook Testing\n\nWhen testing custom React hooks with React Testing Library, the renderHook() function is used to render custom hooks and verify they return expected values.\n\n## Webhook Testing\n\nWebhook.site provides a service to instantly generate free, unique URLs to test, inspect, and automate incoming HTTP requests.\n\nThe search results cover various aspects of testing hooks and format checking across different development contexts, from git pre-commit hooks that validate code formatting to testing framework hooks and React hook testing methodologies."
+    ],
+    "durationSeconds": 18.64385291899997
+  }
+}

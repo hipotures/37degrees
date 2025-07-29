@@ -1,0 +1,21 @@
+{
+  "session_id": "7529e71f-d379-4299-9734-0e831fc05ee8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7529e71f-d379-4299-9734-0e831fc05ee8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Dune\" \"Frank Herbert\" translation chronology timeline \"first translations\" German French Italian Spanish Japanese 1960s 1970s international publishing"
+  },
+  "tool_response": {
+    "query": "\"Dune\" \"Frank Herbert\" translation chronology timeline \"first translations\" German French Italian Spanish Japanese 1960s 1970s international publishing",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01TqTRjuRXwcjuMrQDwiTpT6",
+        "content": []
+      },
+      "Based on the search results, I can provide information about the translation chronology of Frank Herbert's \"Dune\" into various languages during the 1960s and 1970s.\n\nThe first foreign language translation of Dune was into German, published as \"Der W\u00fcstenplanet\" by Heyne Verlag in 1967, just two years after the original English publication in 1965.\n\nThe French translation followed in 1970, published as \"Dune\" by \u00c9ditions Robert Laffont. The Italian translation was published in 1973 as \"Dune\" by Editrice Nord.\n\nThe Spanish translation appeared in 1975, published as \"Dune\" by Editorial Pomaire. The Japanese translation was one of the later early translations, appearing in 1978 as \"\u30c7\u30e5\u30fc\u30f3\u7802\u306e\u60d1\u661f\" (Dune: Suna no Wakusei) published by Hayakawa Shobo.\n\nThis translation timeline reflects the growing international recognition of science fiction literature during the late 1960s and 1970s, with European markets leading the way in bringing American science fiction to international audiences. The success of these early translations helped establish Dune as a truly global science fiction phenomenon.\n\nThe chronological order of first translations was:\n1. German (1967)\n2. French (1970) \n3. Italian (1973)\n4. Spanish (1975)\n5. Japanese (1978)"
+    ],
+    "durationSeconds": 12.234191973999957
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "session_id": "7529e71f-d379-4299-9734-0e831fc05ee8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7529e71f-d379-4299-9734-0e831fc05ee8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Dune TikTok BookTok #DuneMovie #PaulAtreides viral trends young readers 2024"
+  },
+  "tool_response": {
+    "query": "Dune TikTok BookTok #DuneMovie #PaulAtreides viral trends young readers 2024",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01JUifG8unw8pXQouzysx1wh",
+        "content": [
+          {
+            "title": "The Most Popular TikTok Books #BookTok | Barnes & Noble\u00ae",
+            "url": "https://www.barnesandnoble.com/b/booktok/_/N-2vdn"
+          },
+          {
+            "title": "dune 2021\uff5cTikTok Search",
+            "url": "https://www.tiktok.com/discover/dune-2021"
+          },
+          {
+            "title": "BookTok: Trends and community - The Johns Hopkins News-Letter",
+            "url": "https://www.jhunewsletter.com/article/2024/04/booktok-trends-and-community"
+          },
+          {
+            "title": "BookTok\u2019s 21 Most Talked About Books of 2024",
+            "url": "https://www.rollingstone.com/culture/culture-lists/booktok-best-books-2024-1235090973/"
+          },
+          {
+            "title": "As Seen on BookTok: Inspiring Young Readers, TikTok is a Boon for Books | School Library Journal",
+            "url": "https://www.slj.com/story/as-seen-on-booktok-inspiring-young-readers-tiktok-is-a-boon-for-books-libraries"
+          },
+          {
+            "title": "Its my favorite book #senpapi #dune #dunemovie #dune2 #paulatreides #dunebook #movies #film  | TikTok",
+            "url": "https://www.tiktok.com/@senpapi.gabe/video/7342616815547501870?lang=en"
+          },
+          {
+            "title": "Book review of Dune by Frank Herbert. This was required reading in our house growing up. It is one of our dad ( @TheChrisHarvey )\u2019s top three stories of all time!  Also HUGE fans of the @DuneMovie  #dunebook #bookreview #booktok #dunemovie #houseatreides #epicscifi #scifibooks #scifibooktok #paulatreides #fremen #dune  | TikTok",
+            "url": "https://www.tiktok.com/@kris.and.mads/video/7288430399175396651"
+          },
+          {
+            "title": "21 Popular BookTok Books And Why They Went Viral On TikTok",
+            "url": "https://www.today.com/popculture/books/booktok-tiktok-books-list-rcna70986"
+          },
+          {
+            "title": "dunemovie\uff5cTikTok Search",
+            "url": "https://www.tiktok.com/discover/dunemovie"
+          },
+          {
+            "title": "TikTok - Make Your Day",
+            "url": "https://www.tiktok.com/@dunemovie?lang=en"
+          }
+        ]
+      },
+      "Based on the search results, I can provide information about the intersection of Dune, TikTok, BookTok, and viral trends among young readers in 2024:\n\n## Dune's Presence on TikTok and BookTok\n\nDune has a significant presence on TikTok, with various content creators making videos about the 2021 film using hashtags like #dune, #dunemovie, #dune2021, and #paulatreides. Individual creators like @senpapi.gabe and @kris.and.mads have made TikTok videos specifically about Dune, with one calling it their \"favorite book\" and another providing a book review.\n\nThe official Dune movie marketing has leveraged TikTok heavily, with content featuring stars like Zendaya discussing character relationships and the film's ending, and promoting the movie's theatrical releases.\n\n## BookTok's Impact on Young Readers in 2024\n\nBookTok has evolved from a grassroots community into \"a major and uncontrollable marketing driver of the publishing industry\" and has been \"personally responsible for millions of dollars of book sales\". The platform \"has reshaped the way books are recommended and marketed\" and provides \"an online community for young readers to take part in\".\n\nThe platform continues to drive up circulation in school libraries as students seek popular titles, with BookTok fans who had never visited libraries before now doing so. When a book trends on BookTok, \"the impact can be dramatic and long-lasting,\" with trending titles often staying popular \"for months and, in some cases, over a year\".\n\n## Current Trends and Characteristics\n\nThe most popular genres on BookTok are \"fantasy and romance, which, combined, have been newly termed 'romantasy'\", though classic and contemporary works have also been popularized through the \"dark academia\" aesthetic.\n\nBookTokkers prioritize emotional impact over traditional genre labels, focusing on how books make them feel rather than categorizing them conventionally. The platform's short-form content format forces creators to make book recommendations \"quickly\" and \"in a snappy, concise manner\".\n\nWhile Dune appears in BookTok and broader TikTok content, the search results don't indicate it was among the biggest viral BookTok trends of 2024, with the platform primarily focusing on fantasy romance and contemporary fiction titles."
+    ],
+    "durationSeconds": 24.443279221999983
+  }
+}

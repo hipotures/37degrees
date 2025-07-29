@@ -1,0 +1,63 @@
+{
+  "session_id": "7b55c4df-37c7-40ba-a24e-add57974ae65",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7b55c4df-37c7-40ba-a24e-add57974ae65.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Dune therapy mental health analysis Paul Atreides psychological trauma PTSD"
+  },
+  "tool_response": {
+    "query": "Dune therapy mental health analysis Paul Atreides psychological trauma PTSD",
+    "results": [
+      "I'll search for information about Dune therapy, mental health analysis, and Paul Atreides' psychological trauma and PTSD.",
+      {
+        "tool_use_id": "srvtoolu_01LKbe7nf9z2Ds6ehtg1sdni",
+        "content": [
+          {
+            "title": "A Psychiatric Perspective on the Movie \u201cDune: Part Two\u201d",
+            "url": "https://www.psychiatrictimes.com/view/psychiatric-perspective-on-the-movie-dune-part-two"
+          },
+          {
+            "title": "Paul Atreides | Dune Wiki | Fandom",
+            "url": "https://dune.fandom.com/wiki/Paul_Atreides"
+          },
+          {
+            "title": "Dune as a Cautionary Tale",
+            "url": "https://www.psychiatrictimes.com/view/dune-as-a-cautionary-tale"
+          },
+          {
+            "title": "Paul Atreides - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Paul_Atreides"
+          },
+          {
+            "title": "PTSD (Post-Traumatic Stress Disorder): Symptoms & Treatment",
+            "url": "https://my.clevelandclinic.org/health/diseases/9545-post-traumatic-stress-disorder-ptsd"
+          },
+          {
+            "title": "Emotional and Psychological Trauma - HelpGuide.org",
+            "url": "https://www.helpguide.org/mental-health/ptsd-trauma/coping-with-emotional-and-psychological-trauma"
+          },
+          {
+            "title": "How does Paul Atreides' transformation from a sympathetic character to a potentially dangerous figure in 'Dune: Part 2' impact the overall narrative? - Quora",
+            "url": "https://www.quora.com/How-does-Paul-Atreides-transformation-from-a-sympathetic-character-to-a-potentially-dangerous-figure-in-Dune-Part-2-impact-the-overall-narrative"
+          },
+          {
+            "title": "Psychiatry.org - What is Posttraumatic Stress Disorder (PTSD)?",
+            "url": "https://www.psychiatry.org/patients-families/ptsd/what-is-ptsd"
+          },
+          {
+            "title": "A Review of PTSD and Current Treatment Strategies - PMC",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8672952/"
+          },
+          {
+            "title": "Dune Health and Wellbeing | LinkedIn",
+            "url": "https://au.linkedin.com/company/dune-health-and-wellbeing"
+          }
+        ]
+      },
+      "The search results provide valuable insights into both psychiatric perspectives on Dune and information about PTSD and trauma. Here's what I found:\n\n## Psychiatric Analysis of Paul Atreides and Dune\n\nThe search revealed several psychiatric perspectives on Paul Atreides and the Dune narrative:\n\n### Psychological Trauma Elements in Paul's Story\n\nPaul Atreides experiences significant trauma when his father Duke Leto is killed by enemies, and he and his mother Jessica escape to the desert to meet the indigenous Fremen. The family is betrayed by their doctor, leading to the capture of Duke Leto, the killing of most of the Atreides army, and Duncan sacrificing himself to ensure Paul's escape.\n\n### Psychiatric Interpretations\n\nA psychiatric perspective views the Dune book and movies through a psychiatric lens, noting the book was published during the heyday of Freudian ideas in psychiatry. The story incorporates Freudian theories like the Oedipal Complex, where the son competes with the father for the mother's love, reflected in Paul's father being killed by enemies.\n\n### Paul as a Cautionary Figure\n\nPaul Atreides appears to be a false Messiah, bred by the Bene Gesserit clan through a cultish process for power, with the indigenous Fremen following him as a warning about populist leaders who promise what cannot be fulfilled. A primary theme of Dune is Frank Herbert's warning about society's tendencies to \"give over every decision-making capacity\" to a charismatic leader.\n\n### Trauma and Long-term Effects\n\nPaul experiences additional trauma when his consort dies during childbirth, causing him to \"go blind with grief\". Paul ruled through twelve years of interstellar bloodshed and oppression before abdicating his throne and exiling himself into the deep desert after losing his eyes and his Fremen lover.\n\n## PTSD and Trauma Context\n\nThe search also provided clinical information about PTSD that can be applied to understanding Paul's psychological state:\n\nPTSD is a mental health condition that some people develop after experiencing or witnessing a traumatic event, involving symptoms like flashbacks, anxiety, negative thoughts and beliefs, and hypervigilance. Trauma is anything that severely threatens your existence or sense of safety, doesn't have to be a single event, and can include witnessing traumatic events or learning about trauma to loved ones.\n\nPTSD may occur in people who have experienced traumatic events including abuse, natural disasters, serious accidents, terrorist acts, war/combat exposure, and intimate partner violence.\n\nThe psychiatric analysis of Dune suggests Paul Atreides' character arc can be understood through the lens of psychological trauma, with his experiences of loss, betrayal, and violence potentially contributing to his transformation from sympathetic character to dangerous leader."
+    ],
+    "durationSeconds": 27.605403154
+  }
+}

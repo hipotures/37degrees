@@ -1,0 +1,62 @@
+{
+  "session_id": "0487d7f4-1250-4bb6-867a-a71d253cfc4f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0487d7f4-1250-4bb6-867a-a71d253cfc4f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Frank Herbert\" \"Dune\" Oregon dunes inspiration Florence sandunes 1957 creation story"
+  },
+  "tool_response": {
+    "query": "\"Frank Herbert\" \"Dune\" Oregon dunes inspiration Florence sandunes 1957 creation story",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01WAnyfMPGHFEH8RETwn2HEr",
+        "content": [
+          {
+            "title": "How an Oregon battle between human and nature inspired Frank Herbert\u2019s \u2018Dune\u2019 - OPB",
+            "url": "https://www.opb.org/article/2021/10/23/florence-oregon-movies-dune-frank-herbert-science-fiction-novels/"
+          },
+          {
+            "title": "Oregon Dunes Inspire Frank Herbert | Rose&Emerald",
+            "url": "https://roseandemerald.com/oregon-dunes-inspire-herberts-dune/"
+          },
+          {
+            "title": "A visit to the dunes that inspired Frank Herbert's 'Dune' : NPR",
+            "url": "https://www.npr.org/2024/03/09/1237218132/a-visit-to-the-dunes-that-inspired-frank-herberts-dune"
+          },
+          {
+            "title": "How the Oregon Dunes Inspired Sci-Fi Classic 'Dune' | Portland Monthly",
+            "url": "https://www.pdxmonthly.com/arts-and-culture/2015/07/how-the-oregon-dunes-inspired-sci-fi-classic-dune"
+          },
+          {
+            "title": "Dune (novel) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dune_(novel)"
+          },
+          {
+            "title": "Frank Herbert\u2019s \u2018Dune\u2019 Took Inspiration From Florence, Oregon | The Confluence",
+            "url": "https://oregonconfluence.com/2021/10/23/frank-herberts-dune-took-inspiration-from-florence-oregon/"
+          },
+          {
+            "title": "Franklin Patrick Herbert Jr. (1920\u20131986)",
+            "url": "https://www.oregonencyclopedia.org/articles/herbert-frank-and-the-dune-series/"
+          },
+          {
+            "title": "Dune: The 'terraformed' Oregon dunes that inspired Frank Herbert's sci-fi epic | Department of Integrative Biology",
+            "url": "https://ib.oregonstate.edu/impact/2024/03/dune-the-terraformed-oregon-dunes-that-inspired-frank-herberts-sci-fi-epic"
+          },
+          {
+            "title": "When Was 'Dune' Written?",
+            "url": "https://theportalist.com/when-was-dune-written"
+          },
+          {
+            "title": "How \u2018Dune\u2019 was inspired by the Oregon coast, at the beautiful Oregon Dunes | The Seattle Times",
+            "url": "https://www.seattletimes.com/life/travel/how-dune-was-inspired-by-the-oregon-coast-at-the-beautiful-oregon-dunes/"
+          }
+        ]
+      },
+      "The search results provide comprehensive information about Frank Herbert's 1957 visit to Florence, Oregon and how the Oregon Dunes inspired his creation of the science fiction epic \"Dune.\" Here's what the sources reveal about this fascinating origin story:\n\n## The 1957 Oregon Dunes Visit\n\nHerbert came to Florence in 1957, planning to write an article documenting this battle between man and nature. More specifically, in July 1957, Herbert, who was 40 at the time, chartered a small plane and flew over part of the largest expanse of coastal sand dunes in the United States.\n\n## The Environmental Challenge\n\nThe Oregon Dunes presented a dramatic environmental challenge that captivated Herbert. A team led by the U.S. Department of Agriculture was attempting to stop the blowing sands that swallowed homes, covered roads and railway tracks, and threatened a seaport. As he wrote in a letter, \"These waves can be every bit as devastating as a tidal wave in property damage.\"\n\n## The Unfinished Article and Creative Inspiration\n\nHerbert finished his article on Florence, but it was never published. The article was titled \"They Stopped the Moving Sands\", and though it remained unfinished, helped him develop the idea of a desert world, which he imagined as a planet consumed by moving dunes caused by environmental destruction.\n\n## From Oregon to Arrakis\n\n\"The experience here seeing the dunes \u2014 and the interaction between the people here and the environment they were living \u2014 that really did become the center of Dune and Arrakis,\" says Spencer. What he saw deeply influenced his fictional desert planet and became a major theme of the book: how to alter an inhabitable environment to enable it\u2014and its people\u2014to thrive.\n\n## The Literary Legacy\n\nHerbert spent the next five years researching, writing, and revising. He published a three-part serial Dune World in the monthly Analog, from December 1963 to February 1964. The novel was eventually published in 1965 and won the 1965 Nebula Award for best novel and shared the Hugo Award in 1966.\n\nThe Oregon Dunes continue to serve as a tangible connection to one of science fiction's most influential works, with the Siuslaw Public Library home to an archive of the reference materials Herbert used to write his science fiction epic."
+    ],
+    "durationSeconds": 25.148684589000013
+  }
+}

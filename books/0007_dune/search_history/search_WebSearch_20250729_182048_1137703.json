@@ -1,0 +1,62 @@
+{
+  "session_id": "0487d7f4-1250-4bb6-867a-a71d253cfc4f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0487d7f4-1250-4bb6-867a-a71d253cfc4f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Dune\" translations international foreign languages \"first translated\" publishing history rights"
+  },
+  "tool_response": {
+    "query": "\"Dune\" translations international foreign languages \"first translated\" publishing history rights",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01LztnTToirYxrYqX2jTNBmz",
+        "content": [
+          {
+            "title": "Dune (franchise) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dune_(franchise)"
+          },
+          {
+            "title": "Dune (novel) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dune_(novel)"
+          },
+          {
+            "title": "Find Out What Languages They Speak in \"Dune\"",
+            "url": "https://vasco-translator.com/articles/languages/languages-in-dune/"
+          },
+          {
+            "title": "Getting the Rights to Translate a Work: A How-To Guide - TRANSLATIONiSTA",
+            "url": "https://translationista.com/2017/02/getting-rights-translate-work"
+          },
+          {
+            "title": "Dune in 2024: A World Beyond Saving - The Markaz Review",
+            "url": "https://themarkaz.org/dune-in-2024-a-world-beyond-saving/"
+          },
+          {
+            "title": "The Translation of Dune: An Encounter of Languages | Request PDF",
+            "url": "https://www.researchgate.net/publication/330163571_The_Translation_of_Dune_An_Encounter_of_Languages"
+          },
+          {
+            "title": "Dissecting the Languages of Dune",
+            "url": "https://www.daytranslations.com/blog/dissecting-the-languages-of-dune/"
+          },
+          {
+            "title": "The Translation of Dune: An Encounter of Languages | SpringerLink",
+            "url": "https://link.springer.com/chapter/10.1007/978-3-030-04978-2_12"
+          },
+          {
+            "title": "The Story Behind The Language in Dune | by Madeleine Clarke | Medium",
+            "url": "https://madeleineclarke.medium.com/the-story-behind-the-language-in-dune-33699f033d8e"
+          },
+          {
+            "title": "The Translation of Dune An Encounter of Languages",
+            "url": "https://shs.hal.science/halshs-03161421/file/The Translation of Dune_RAY pr\u00e9sentation.pdf"
+          }
+        ]
+      },
+      "Based on the search results, I found some valuable information about Dune translations and publishing history. Here's what I discovered:\n\n## Dune Translation and Publishing History\n\n### Original Publication and Translation Success\nThe novel has been translated into dozens of languages, and has sold almost 20 million copies.(no content)The serialized version was expanded and reworked\u2014and rejected by more than 20 publishers\u2014before being published by Chilton Books, a printing house best known for its auto repair manuals, in 1965.\n\n### Arabic Translation History\nInterestingly, despite the novel's heavy use of Arabic linguistic elements, most of the science fiction classics of his time were translated into Arabic, Herbert's works didn't make it into Arabic until six years ago.(no content)Could this delay have been due to the controversial nature of his intertwining Islamic mythology with Arabic terms? Or was it the high cost of acquiring translation rights for a bestselling novel?\n\n### Recent Arabic Editions\nWhen I looked for the Arabic translations, I found two versions released in recent years. One is a paperback with the same cover as the English edition, translated by Nader Osama and published in 2021 by Kalemat Publishing. The other is available only online, translated by Mohamed Salama El-Masry and published by Makhatot in 2018.(no content)In our Reddit exchanges, Salama told me he was paid for his translation by Makhtot Publishing House, which bought the digital rights from Herbert's estate. For years, it was sold on Amazon Kindle for $2.\n\n### Translation Rights and Publishing Process\nIn 1971, the production company Apjac International (APJ) (headed by Arthur P. Jacobs) optioned the rights to film Dune. This indicates that film rights were being negotiated relatively early in the book's history.\n\n### Academic Research on Translation\nFrank Herbert's novel, Dune (1965), is special in the science fiction field; the originality of this novel lives not only in its content, but also in its form as the author uses some stylistic effects to make his point, and especially foreign languages. Dune is a novel in which languages are in contact, and the translation adds another linguistic dimension to the work.(no content)The French translation of Frank Herbert's work is thus constrained by the foreign color the author wanted to give his novel and the semantic distortion Herbert gave to the loanwords. A comparative analysis of the loanwords in both the original and French versions of Dune helps to understand how the translator has dealt with the linguistic encounter of the novel.\n\nThe search reveals that while Dune has been \"translated into dozens of languages,\" specific details about early international translations and their chronology are limited in these results. The most detailed information available concerns the relatively recent Arabic translations and the academic study of translation challenges, particularly regarding Herbert's use of foreign linguistic elements."
+    ],
+    "durationSeconds": 24.879698802000085
+  }
+}

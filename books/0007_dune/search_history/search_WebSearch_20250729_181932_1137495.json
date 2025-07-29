@@ -1,0 +1,62 @@
+{
+  "session_id": "0487d7f4-1250-4bb6-867a-a71d253cfc4f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0487d7f4-1250-4bb6-867a-a71d253cfc4f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Diuna\" Herbert analiza pomoce szkolne opracowanie Bryk.pl Sciaga.pl"
+  },
+  "tool_response": {
+    "query": "\"Diuna\" Herbert analiza pomoce szkolne opracowanie Bryk.pl Sciaga.pl",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01UhmCDoVtXihkKrRRvEDMvb",
+        "content": [
+          {
+            "title": "\u015aci\u0105gi, wypracowania, lektury - Bryk.pl",
+            "url": "https://www.bryk.pl/"
+          },
+          {
+            "title": "Seria Diuna | ksi\u0119garnia TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/seria/diuna"
+          },
+          {
+            "title": "Diuna - Frank Herbert | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/4942534/diuna"
+          },
+          {
+            "title": "Frank Herbert: \"Diuna\" \u2013 om\u00f3wienie, opis, recenzja, konteksty",
+            "url": "https://www.klasykaliteraturyifilmu.pl/2023/07/15/frank-herbert-diuna-omowienie-opis-recenzja-konteksty/"
+          },
+          {
+            "title": "Diuna \u2013 kolejno\u015b\u0107 czytania ksi\u0105\u017cek Franka Herberta",
+            "url": "https://www.taniaksiazka.pl/diuna-kolejnosc-czytania-ksiazek-franka-herberta-a-1465.html"
+          },
+          {
+            "title": "Diuna. Kroniki Diuny. Tom 1 Frank Herbert ksi\u0105\u017cka | TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/ksiazka/diuna-kroniki-diuny-tom-1-frank-herbert"
+          },
+          {
+            "title": "Lektury i pomoce szkolne - strona 7 - Empik",
+            "url": "https://www.empik.com/ksiazki/lektury-pomoce-szkolne,3162,s,331"
+          },
+          {
+            "title": "\u015aci\u0105ga Bryk Lektury Streszczenia - Niska cena na Allegro",
+            "url": "https://allegro.pl/listing?string=%C5%9Bci%C4%85ga+bryk+lektury+streszczenia"
+          },
+          {
+            "title": "Diuna \u2013 powie\u015b\u0107 Franka Herberta - Agencja Skrivanek",
+            "url": "https://skrivanek.pl/diuna-powiesc-franka-herberta/"
+          },
+          {
+            "title": "Diuna (powie\u015b\u0107) \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Diuna_(powie\u015b\u0107)"
+          }
+        ]
+      },
+      "I found search results related to \"Diuna\" (Dune) by Frank Herbert and educational resources from Bryk.pl and Sciaga.pl. Based on the search results, I can provide you with information about educational materials and analyses of Herbert's \"Dune\" available on these Polish educational websites.\n\n## Search Results Summary\n\nThe search returned several relevant resources about Frank Herbert's \"Dune\" and educational materials from Polish websites:\n\n### Bryk.pl Educational Resources\nBryk.pl is described as a \"knowledge zone\" offering essays and study guides for high school and elementary school, as well as papers and ready-made materials for university studies.\n\n### Dune - Frank Herbert\nThe search results show that \"Dune\" is a legendary science fiction series by Frank Herbert that has gained cult status, with the work published in 1965 continuing to attract new generations of readers.\n\n\"Dune\" is described as \"a stunning combination of adventure and mysticism, ecology and politics\" and received the two most prestigious SF awards: Nebula and Hugo.\n\n### Educational Content Available\nThe search results indicate that there are various educational materials available, including:\n\n- \"Dune\" is classified as a classic of fantasy literature, and its analysis and review can be found on educational blogs\n- Study guides, summaries, and analyses are available on platforms like Allegro, including materials from Bryk covering literature summaries and interpretations\n\n### Plot Summary\nThe story is set on Arrakis (called Dune), the only source of melange in the universe. By order of the Padishah Emperor, the planet is taken over by the Atreides, bitter enemies of the Harkonnens who previously ruled it. The victory of Duke Leto Atreides is only apparent - the takeover was orchestrated. In response to the attack by the Empire and Harkonnens, the heir of House Atreides, Paul, leads the native inhabitants of Dune and reaches for the imperial throne.\n\nThe search successfully found information about educational resources for Frank Herbert's \"Dune\" available on Polish educational websites like Bryk.pl and Sciaga.pl, which offer study guides, analyses, and summaries for students."
+    ],
+    "durationSeconds": 21.563253868
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "session_id": "0487d7f4-1250-4bb6-867a-a71d253cfc4f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0487d7f4-1250-4bb6-867a-a71d253cfc4f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Diuna\" BookTube YouTube kana\u0142y polskie m\u0142odzie\u017c TikTok #BookTok"
+  },
+  "tool_response": {
+    "query": "\"Diuna\" BookTube YouTube kana\u0142y polskie m\u0142odzie\u017c TikTok #BookTok",
+    "results": [
+      "I'll perform a web search for that query about Polish BookTube YouTube channels and TikTok BookTok content related to \"Diuna\" (Dune) and youth audiences.",
+      {
+        "tool_use_id": "srvtoolu_01EN71yYJhBHgPk4MUwGWSiJ",
+        "content": [
+          {
+            "title": "Ksi\u0105\u017cki YouTuber\u00f3w",
+            "url": "https://www.taniaksiazka.pl/t/13-najlepszych-ksiazek-youtuberow"
+          }
+        ]
+      },
+      "The search results show some general information about Polish YouTube book content, but let me search more specifically for Polish BookTube channels and BookTok content about Dune.",
+      {
+        "tool_use_id": "srvtoolu_019v4op6QQS8XnwjxEPR5G54",
+        "content": [
+          {
+            "title": "Diuna ksi\u0105\u017cka | Frank Herbert | seria Kroniki Diuny",
+            "url": "https://www.swiatksiazki.pl/seria/diuna"
+          },
+          {
+            "title": "Seria Diuna | ksi\u0119garnia TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/seria/diuna"
+          },
+          {
+            "title": "Diuna - Audiobook - Frank Herbert - Dom Wydawniczy REBIS Sp. z o.o. | Audioteka",
+            "url": "https://audioteka.com/pl/audiobook/diuna/"
+          },
+          {
+            "title": "Diuna (powie\u015b\u0107) \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Diuna_(powie\u015b\u0107)"
+          },
+          {
+            "title": "Ulubione kana\u0142y na polskim BookTube",
+            "url": "http://lazybookday.cba.pl/2018/12/14/ulubione-kanaly-na-polskim-booktube/"
+          },
+          {
+            "title": "Kroniki Diuny. Diuna - Frank Herbert - ebook + audiobook - Legimi online",
+            "url": "https://www.legimi.pl/ebook-kroniki-diuny-diuna-frank-herbert,b620057.html"
+          },
+          {
+            "title": "Diuna - Frank Herbert | Ksi\u0105\u017cka w Lubimyczytac.pl - Opinie, oceny, ceny",
+            "url": "https://lubimyczytac.pl/ksiazka/4942534/diuna"
+          },
+          {
+            "title": "Diuna \u2013 Frank Herbert | Audiobook w MP3 | ksi\u0119garnia internetowa Woblink",
+            "url": "https://woblink.com/audiobook/diuna-frank-herbert-24265"
+          },
+          {
+            "title": "Frank Herbert - ebooki, audiobooki i ksi\u0105\u017cki - Legimi online",
+            "url": "https://www.legimi.pl/autor/frank-herbert,ad1074/"
+          },
+          {
+            "title": "Frank Herbert | wszystkie ksi\u0105\u017cki w TaniaKsiazka.pl",
+            "url": "https://www.taniaksiazka.pl/autor/herbert-frank"
+          }
+        ]
+      },
+      "Now let me search more specifically for Polish BookTok and TikTok content about Dune books:",
+      {
+        "tool_use_id": "srvtoolu_01KsS5aV7aoqqrXX6pnfrK9x",
+        "content": [
+          {
+            "title": "TikTok i ksi\u0105\u017cki, czyli co to jest booktok? - CZYTAM - Empik Pasje",
+            "url": "https://www.empik.com/pasje/tiktok-i-ksiazki-czyli-co-to-jest-booktok,135027,a"
+          },
+          {
+            "title": "#BookTok: TikTok wraz z polskimi pisarzami zach\u0119ca do czytania | TikTok Newsroom",
+            "url": "https://newsroom.tiktok.com/pl-pl/tiktok-together-with-polish-writers-encourages-to-read"
+          },
+          {
+            "title": "Ksi\u0105\u017cki - BookTok | Ksi\u0119garnia Internetowa Gandalf",
+            "url": "https://www.gandalf.com.pl/k/booktok/"
+          },
+          {
+            "title": "TikTok wraz z polskimi pisarzami zach\u0119ca do czytania w ramach akcji BookTok z okazji \u015awiatowego Dnia Ksi\u0105\u017cki - Marketing przy Kawie",
+            "url": "https://marketingprzykawie.pl/espresso/tiktok-wraz-polskimi-pisarzami-zacheca-czytania-ramach-akcji-booktok-okazji-swiatowego-ksiazki/"
+          },
+          {
+            "title": "Te ksi\u0105\u017cki zrobi\u0142y furor\u0119 na Tik Toku! Warte rozg\u0142osu? | Aktualno\u015bci | Lubimyczyta\u0107.pl",
+            "url": "https://lubimyczytac.pl/ksiazkowe-hity-tiktoka-masz-je-w-swojej-biblioteczce"
+          },
+          {
+            "title": "TOP 5 ksi\u0105\u017ckar, kt\u00f3re podbijaj\u0105 polski BookTok - Going. MORE - muzyka, kultura, lifestyle",
+            "url": "https://goingapp.pl/more/booktok-ksiazkary-tiktok/"
+          },
+          {
+            "title": "Tak si\u0119 promuje teraz ksi\u0105\u017cki! TikTok, a w\u0142a\u015bciwie BookTok, czyli o nowym fenomenie w promocji czytelnictwa | G\u0142os Wielkopolski",
+            "url": "https://gloswielkopolski.pl/tak-sie-promuje-teraz-ksiazki-tiktok-a-wlasciwie-booktok-czyli-o-nowym-fenomenie-w-promocji-czytelnictwa/ar/c13-18371465"
+          },
+          {
+            "title": "Booktok Najlepsze Ksi\u0105\u017cki",
+            "url": "https://www.tiktok.com/discover/booktok-najlepsze-ksi\u0105\u017cki"
+          },
+          {
+            "title": "TikTok - Make Your Day",
+            "url": "https://www.tiktok.com/tag/ksi\u0105\u017cki"
+          },
+          {
+            "title": "Booktok czyli ksi\u0105zki, kt\u00f3re zdoby\u0142y popularno\u015b\u0107 na TikToku. 5 pozycji idealnych na wakacje - ESKA.pl",
+            "url": "https://www.eska.pl/news/booktok-czyli-ksiazki-ktore-zdobyly-popularnosc-na-tiktoku-5-pozycji-idealnych-na-wakacje-aa-SQ8j-ih7n-oyQD.html"
+          }
+        ]
+      },
+      "Let me search for more specific information about Polish BookTok or YouTube channels:",
+      {
+        "tool_use_id": "srvtoolu_01PT6v2bSz2A35P7u4JWVN7L",
+        "content": [
+          {
+            "title": "BookTube, czyli o ksi\u0105\u017ckach na Youtube - nakanapie.pl",
+            "url": "https://nakanapie.pl/a/booktube-czyli-o-ksiazkach-na-youtube"
+          },
+          {
+            "title": "Kana\u0142y o ksi\u0105\u017ckach na Youtube. 10 najciekawszych [LISTA]",
+            "url": "https://natemat.pl/338083,kanaly-o-ksiazkach-na-youtube-lista"
+          },
+          {
+            "title": "Polski BookTube, czyli 11 kana\u0142\u00f3w YT dla mi\u0142o\u015bnik\u00f3w ksi\u0105\u017cek - Telekamery 2024",
+            "url": "https://telekamery.pl/polski-booktube-czyli-11-kanalow-yt-dla-milosnikow-ksiazek/"
+          },
+          {
+            "title": "Youtuberzy biznesowi i marketingowi. To ci s\u0105 najpopularniejsi - Bankier.pl",
+            "url": "https://www.bankier.pl/wiadomosc/Youtuberzy-biznesowi-i-marketingowi-To-ci-sa-najpopularniejsi-8703734.html"
+          },
+          {
+            "title": "Kana\u0142y ksi\u0105\u017ckowe na YouTube. Tych bloger\u00f3w warto zna\u0107, aby by\u0107 na bie\u017c\u0105co \u2013 Twoja Ksi\u0119garnia",
+            "url": "https://www.twojaksiegarnia.pl/kanaly-ksiazkowe-you-tube/"
+          },
+          {
+            "title": "Booktube, czyli o ksi\u0105\u017ckach i czytaniu na Youtube. \u2013 BiblioShow",
+            "url": "https://biblioshow.wordpress.com/2021/05/25/booktube-czyli-o-ksiazkach-i-czytaniu-na-youtube/"
+          },
+          {
+            "title": "NAJPOPULARNIEJSZE KSI\u0104\u017bKOWE KANA\u0141Y NA YOUTUBIE - Czytam wsz\u0119dzie | Blog dla mi\u0142o\u015bnik\u00f3w ksi\u0105\u017cek",
+            "url": "http://www.czytamwszedzie.pl/inspirujemy/najpopularniejsze-ksiazkowe-kanaly-na-youtubie/"
+          },
+          {
+            "title": "10 warto\u015bciowych kana\u0142y na YouTube po polsku",
+            "url": "https://sektor3-0.pl/blog/10-znakomitych-kanalow-na-polskim-youtubie-zostanwdomu-i-ogladaj/"
+          },
+          {
+            "title": "Ulubione kana\u0142y na polskim BookTube",
+            "url": "http://lazybookday.cba.pl/2018/12/14/ulubione-kanaly-na-polskim-booktube/"
+          },
+          {
+            "title": "M\u00f3j rega\u0142 z ksi\u0105\u017ckami: Booktube: ulubione ksi\u0105\u017ckowe kana\u0142y na youtube",
+            "url": "http://patsy-books.blogspot.com/2017/02/booktube-ulubione-ksiazkowe-kanay-na.html"
+          }
+        ]
+      },
+      "Based on the search results, I have found relevant information about Polish BookTube YouTube channels, BookTok content, and the popularity of \"Diuna\" (Dune) in Poland. Let me provide you with a comprehensive summary of the findings:\n\n## Polish BookTube YouTube Channels and BookTok Content\n\n### Popular Polish BookTube Channels\n\nPolish BookTube is well-developed and continues to grow, with several popular channels:\n\n**Major Polish BookTube Channels:**\n- **Wielki Buk** - Run by Olga Kowalska, a literature graduate who has been running her channel since 2012. Features book premieres, recommendations for medical thrillers and historical books, plus a \"Sleepless Wednesdays\" series about the best horror books\n- **Anna Dziewit-Meller's channel** - Features short, few-minute book recommendations for different seasons and conversations with various people including writers like Katarzyna Miller, Mariusz Szczygie\u0142, and Szczepan Twardoch\n- **Strefa Czytacza** - Active since 2016, focuses on books including their beloved Harry Potter, with many fantasy and horror reviews, plus children's and young adult books, and content about series and films based on books\n- **Bestsellerki** - Run by two friends: Gosia from \u0141\u00f3d\u017a and Asia from Moscow, interested in genre literature, especially contemporary novels, crime novels and thrillers, with frequent reviews of Russian authors\n\n### BookTok and Young Adult Content\n\nBookTok promotes reading, often among teenagers and young people who eagerly reach for Young Adult literature. There was a #BookTok challenge with famous Polish authors to encourage young people to reach for books and discover a passion for reading, as part of the TikTok Creator Learning Fund launched in Poland.\n\nEvery second person using TikTok in Poland admits they bought a book they learned about through the app, and most BookTok users are adults between 20 and 35 years old.\n\n**Polish BookTok Creators include:**\n- Karolina (@come.book) - The most active booktoker on Polish TikTok, regularly posting content including popular book trends and novel recommendations\n- @bookovicz - Known for recommending the best queer stories and LGBT+ content\n- Agata (@agatandbooks) - Known as a \"romance lover\" who focuses on romantic relationships and connects them with popular TikTok trends\n\n### \"Diuna\" (Dune) in Polish Literature Market\n\nDune is the first novel in Frank Herbert's cult sci-fi series \"Chronicles of Dune\" and has become a worldwide reading phenomenon. The \"Dune\" book and its sequels became a worldwide reading phenomenon, selling over 20 million copies so far.\n\nThe novel won the first Nebula Award in 1965 and the Hugo Award in 1966, achieved enormous commercial success with over 20 million copies sold worldwide, and in 1987 readers of Locus magazine voted it the best science fiction novel of all time.\n\nIn Poland, it was first published in 1985 by Iskry Publishing House in Marek Marsza\u0142's translation, and there are two Polish translations available - one by Marek Marsza\u0142 and another by Jerzy \u0141ozi\u0144ski.\n\nThe newest film adaptation of Dune was directed by Denis Villeneuve (Blade Runner 2049, Sicario), with a screenplay by Eric Roth (Forrest Gump), Jon Spaihts (Doctor Strange) and Denis Villeneuve, and music by Hans Zimmer (Gladiator, Inception, Dunkirk). The cast includes world cinema stars: Timoth\u00e9e Chalamet, Rebecca Ferguson, Stellan Skarsg\u00e5rd, Jason Momoa, Charlotte Rampling, Javier Bardem, Josh Brolin, Zendaya and Oscar Isaac.\n\nThe search results show that while \"Diuna\" is a popular and well-known title in Poland, the specific connection between Polish BookTube/BookTok content and Dune for youth audiences wasn't directly found in the search results, though the overall ecosystem of Polish book content creators on YouTube and TikTok is quite active and growing."
+    ],
+    "durationSeconds": 52.396042656000006
+  }
+}

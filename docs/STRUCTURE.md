@@ -23,16 +23,10 @@ The project has been reorganized to better support multimedia content for each b
 │       │   │   ├── TODO_37d-facts-hunter.md
 │       │   │   ├── TODO_37d-symbol-analyst.md
 │       │   │   └── ...
-│       │   ├── 37d-facts-hunter/      # JSON files and index for facts-hunter agent
-│       │   │   ├── 37d-facts-hunter_raw_WebSearch_20250728_143025.json
-│       │   │   ├── 37d-facts-hunter_raw_WebFetch_20250728_143142.json
-│       │   │   └── 37d-facts-hunter_searches_index.txt
-│       │   ├── 37d-symbol-analyst/    # JSON files and index for symbol-analyst agent
-│       │   ├── 37d-culture-impact/    # JSON files and index for culture-impact agent
-│       │   ├── 37d-polish-specialist/ # JSON files and index for polish-specialist agent
-│       │   ├── 37d-youth-connector/   # JSON files and index for youth-connector agent
-│       │   ├── 37d-bibliography-manager/ # JSON files and index for bibliography-manager agent
-│       │   ├── 37d-source-validator/  # JSON files and index for source-validator agent
+│       ├── search_history/      # Centralized search data from all agents
+│       │   ├── search_WebSearch_20250729_143025_12345.json
+│       │   ├── search_WebFetch_20250729_143142_67890.json
+│       │   └── searches_index.txt
 │       │   ├── review.md      # Fascinating facts and discoveries
 │       │   ├── book_page.html # Interactive HTML presentation
 │       │   └── README.md      # Documentation guide

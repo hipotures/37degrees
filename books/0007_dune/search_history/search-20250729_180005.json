@@ -1,0 +1,62 @@
+{
+  "session_id": "7b55c4df-37c7-40ba-a24e-add57974ae65",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7b55c4df-37c7-40ba-a24e-add57974ae65.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Diuna lektura szkolna obowi\u0105zkowa MEN program nauczania"
+  },
+  "tool_response": {
+    "query": "Diuna lektura szkolna obowi\u0105zkowa MEN program nauczania",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01V4c8Sry4JS16hEKqMizbKA",
+        "content": [
+          {
+            "title": "Wykaz lektur - O\u015brodek Rozwoju Polskiej Edukacji za Granic\u0105",
+            "url": "https://www.orpeg.pl/ksztalcenie-na-odleglosc/szkola-podstawowa/wykaz-lektur/"
+          },
+          {
+            "title": "Lista lektur szkolnych jakie fantasy, sci-fi czy krymina\u0142y mog\u0142yby si\u0119 tam znale\u017a\u0107?",
+            "url": "https://rozrywka.spidersweb.pl/lektury-szkolne-polska-alternatywna-lista-fantasy-science-fiction-kryminal"
+          },
+          {
+            "title": "Lektura szkolna \u2013 Wikipedia, wolna encyklopedia",
+            "url": "https://pl.wikipedia.org/wiki/Lektura_szkolna"
+          },
+          {
+            "title": "Lista lektur dla klas 7 i 8 (dla klas VII-VIII) szko\u0142y podstawowej \u2013 2025/2026 \u2013 Lista lektur szkolnych 2025/2026",
+            "url": "https://www.listalektur.pl/lista-lektur-dla-klas-7-8-szkoly-podstawowej/"
+          },
+          {
+            "title": "Lista lektur szkolnych 2024/2025. Liceum i technikum - Lustro Biblioteki",
+            "url": "https://lustrobiblioteki.pl/2024/06/lista-lektur-szkolnych-w-roku-szkolnym-2024-2025-licea-i-technika/"
+          },
+          {
+            "title": "Gwo",
+            "url": "https://gwo.pl/wykaz-lektur-dla-liceum-i-techniku-pdf/"
+          },
+          {
+            "title": "Lista lektur szkolnych 2024/2025 \u2013 Lektury do szko\u0142y podstawowej 2024/2025 i lektury do liceum 2024/2025",
+            "url": "https://www.listalektur.pl/"
+          },
+          {
+            "title": "Lektura obowi\u0105zkowa i uzupe\u0142niaj\u0105ca z j\u0119zyka polskiego - Gimnazjum im. Szymona Konarskiego w Wilnie",
+            "url": "https://www.konarskio.lt/pl/lektura-obowiazkowa-i-uzupeniajaca-z-jezyka-polskiego/"
+          },
+          {
+            "title": "Samorz\u0105dowa Szko\u0142a Podstawowa - Wykaz lektur dla klas 4-8",
+            "url": "https://mieszkola.szkolnastrona.pl/art,475,wykaz-lektur-dla-klas-4-8"
+          },
+          {
+            "title": "Oficjalna strona Szko\u0142y Podstawowej im. Or\u0142a Bia\u0142ego w Soko\u0142owicach - Lista lektur obowi\u0105zkowych i uzupe\u0142niaj\u0105cych w szkole podstawowej",
+            "url": "https://spsokolowice.szkolnastrona.pl/a,652,lista-lektur-obowiazkowych-i-uzupelniajacych-w-szkole-podstawowej"
+          }
+        ]
+      },
+      "Based on the search results, I found information about school reading lists (lektury szkolne) in Poland, but I didn't find specific information about \"Diuna\" (Dune) by Frank Herbert being included in the official mandatory reading curriculum (MEN program nauczania). Let me provide you with what I found:\n\n## Key Findings:\n\nLektury szkolne w Polsce s\u0105 zawarte w aktualnym rozporz\u0105dzeniu Ministra Edukacji Narodowej (School reading lists in Poland are contained in the current regulation of the Minister of National Education).\n\nIdealn\u0105 lektur\u0105 sci-fi dla nastolatk\u00f3w jest \u201eDiuna\" Franka Herberta - this comes from an article discussing what books *could* be included in school reading lists, suggesting that \"Dune\" would be an ideal sci-fi reading for teenagers. However, this appears to be a recommendation rather than confirmation that it's officially included in the MEN curriculum.\n\nThe article explains that \"G\u0142\u00f3wny bohater powie\u015bci to m\u0142ody bohater, z kt\u00f3rym niezwykle \u0142atwo si\u0119 uto\u017csamia\u0107 osobom w tym samym wieku. Jednocze\u015bnie funkcjonuje w niezwykle z\u0142o\u017conym i fascynuj\u0105cym \u015bwiecie\" (The main character of the novel is a young hero with whom people of the same age can easily identify, while functioning in an extremely complex and fascinating world).\n\nKanon lektur szkolnych by\u0142 wielokrotnie zmieniany przez akty prawne zwi\u0105zane z odg\u00f3rnie ustalanymi wytycznymi dotycz\u0105cymi programu nauczania (The canon of school readings has been changed multiple times by legal acts related to top-down guidelines regarding the curriculum).\n\n## Summary:\n\nBased on the search results, \"Diuna\" (Dune) by Frank Herbert is mentioned as an ideal science fiction book for teenagers and is suggested as a potential addition to school reading lists, but there's no evidence that it's currently part of the official mandatory reading curriculum (lektury obowi\u0105zkowe) established by the Polish Ministry of Education (MEN). The search results show various official reading lists for different school levels, but Dune doesn't appear to be included in the current mandatory curriculum."
+    ],
+    "durationSeconds": 17.911181970000033
+  }
+}

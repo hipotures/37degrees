@@ -1,0 +1,63 @@
+{
+  "session_id": "7529e71f-d379-4299-9734-0e831fc05ee8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7529e71f-d379-4299-9734-0e831fc05ee8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "\"Diuna\" memy Polish social media TikTok symbolika m\u0142odzie\u017c interpretacja"
+  },
+  "tool_response": {
+    "query": "\"Diuna\" memy Polish social media TikTok symbolika m\u0142odzie\u017c interpretacja",
+    "results": [
+      "I'll perform a web search for information about \"Diuna\" (Dune) memes on Polish social media, particularly TikTok, and their symbolism and interpretation among young people.",
+      {
+        "tool_use_id": "srvtoolu_01SsQr5Vd9a49jodp5sJ2x1u",
+        "content": [
+          {
+            "title": "Diuna - Najlepsze memy, zdj\u0119cia, gify i obrazki - KWEJK.pl",
+            "url": "https://kwejk.pl/tag/diuna"
+          },
+          {
+            "title": "Chcecie wi\u0119cej? zostaw obserwacje, mo\u017cecie mnie wesprzec donejtami link w bio\ud83d\udc9b . . . . . . #dune #diuna #diunameme #diunafilm #dunemovie #film #dunememe #lisanalgaib #paul #fermeni #meme #memy #memes #polska #rell #\u015bmieszne #zabawne #\u017carty #\u017carty\u017cartami #ojciec #tata #syn\u015bwiecilatark\u0105 #syn #mesjasz #fa\u0142szywyprorok #stilgar #timoth\u00e9echalamet #timoth\u00e9e #javierbardem #javier #diuna2 #dune2 #duneparttwo #paulatreides #paulatruda #latarka #\u015bwiecie\u0107  | TikTok",
+            "url": "https://www.tiktok.com/@kravcuuu/video/7346146387987352864"
+          },
+          {
+            "title": "Diuna memy \u2013 Paczaizm.pl | memy polityczne, \u015bmieszne obrazki, dowcipy, gify i cytaty",
+            "url": "https://paczaizm.pl/memy/diuna/"
+          },
+          {
+            "title": "Sny to wiadomo\u015bci z g\u0142\u0119bi.Dreams are messages from the deep. #diuna #siudmak #B\u00f3gImperatorDiuny #Dune #godemperorofdune | TikTok",
+            "url": "https://www.tiktok.com/@puchaczytacz/video/7110596103791316229"
+          },
+          {
+            "title": "Diuna: Cz\u0119\u015b\u0107 druga - najlepsze memy. \"Lisan al-Gaib!\" i Stilgar opanowuj\u0105 sie\u0107",
+            "url": "https://naekranie.pl/aktualnosci/diuna-czesc-druga-memy-lisan-al-gaib-stilgar-najlepsze-1709638715"
+          },
+          {
+            "title": "Najlepsze memy z filmu \"Diuna 2\". Fani kochaj\u0105 zw\u0142aszcza Stilgara (LISTA) | naTemat.pl",
+            "url": "https://natemat.pl/545546,najlepsze-memy-z-filmu-diuna-2-fani-kochaja-zwlaszcza-stilgara-lista"
+          },
+          {
+            "title": "Diuna - Memy Jeja.pl",
+            "url": "https://memy.jeja.pl/tag,diuna"
+          },
+          {
+            "title": "Recenzja filmu \u201eDiuna\u201d z Timoth\u00e9em Chalametem w roli g\u0142\u00f3wnej",
+            "url": "https://www.vogue.pl/a/recenzja-filmu-diuna-z-timothem-chalametem-w-roli-glownej"
+          },
+          {
+            "title": "Diuna - Obrazkowo.pl - najlepsze memy w sieci.",
+            "url": "https://obrazkowo.pl/bca295768a7c7aff378d77fa99f0068f/Diuna"
+          },
+          {
+            "title": "\"Diuna\" czyli przyprawiony narkotycznie majstersztyk Denisa Villeneuve - Rados\u0142aw Nawrot",
+            "url": "https://radoslawnawrot.com/2021/10/24/diuna-czyli-przyprawiony-narkotycznie-majstersztyk-denisa-villeneuve/"
+          }
+        ]
+      },
+      "Based on my web search, I found information about \"Diuna\" (Dune) memes in Polish social media, particularly their presence on TikTok and their cultural interpretation among young people. Here's what I discovered:\n\n## Popularity of Dune Memes in Poland\n\nDune: Part Two has generated countless memes online, particularly focusing on Stilgar and his repetitive phrase \"Lisan al-Gaib!\"(no content)The film directed by Denis Villeneuve has captivated audiences worldwide, becoming excellent material for meme creators, with 15 memes dominating social media\n\n## TikTok Presence\n\nThe search revealed several Polish TikTok accounts creating Dune-related content:\n- @kravcuuu creating Dune meme content with hashtags like #diunameme, #paulatreides, #latarka (flashlight)\n- @puchaczytacz posting content about \"Dreams are messages from the deep\" with references to God Emperor of Dune\n\n## Popular Meme Themes and Symbolism\n\nThe most viral element is Stilgar's repeated exclamation \"Lisan al-Gaib!\" - with the character portrayed by Javier Bardem seeing Paul Atreides as the long-awaited Messiah of his people, approaching this proclamation with great emphasis(no content)\"Lisan al-Gaib\" literally translates to \"voice from beyond the world\" in the Arabic-inspired Fremen language, being part of a prophecy passed down in local beliefs(no content)On Twitter, 9Gag and Reddit, the most popular memes feature Stilgar played by Javier Bardem, who is fascinated by the prophesied Lisan al Gaib (the Fremen messiah)\n\n## Cultural Impact and Youth Interpretation\n\nThe memes appear across various Polish platforms including:\n- KWEJK.pl featuring daily fresh memes on viral topics from current events\n- Paczaizm.pl, which has been curating memes for over 10 years and serves daily meme selections\n\nThe cultural resonance seems to stem from the film's themes of messianism, prophecy, and the contrast between expectation and reality - themes that translate well into meme culture's tendency toward irony and repetition."
+    ],
+    "durationSeconds": 24.321113024000077
+  }
+}

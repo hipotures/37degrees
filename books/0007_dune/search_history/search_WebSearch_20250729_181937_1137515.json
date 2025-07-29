@@ -1,0 +1,62 @@
+{
+  "session_id": "0487d7f4-1250-4bb6-867a-a71d253cfc4f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0487d7f4-1250-4bb6-867a-a71d253cfc4f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Dune explained YouTube channels CrashCourse SparkNotes audiobook narrator recommendations"
+  },
+  "tool_response": {
+    "query": "Dune explained YouTube channels CrashCourse SparkNotes audiobook narrator recommendations",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01X2HtN12FnXMUovAEZb39VY",
+        "content": [
+          {
+            "title": "Dune Audiobook by Frank Herbert",
+            "url": "https://www.audible.com/pd/Dune-Audiobook/B002V1OF70"
+          },
+          {
+            "title": "Dune: Study Guide | SparkNotes",
+            "url": "https://www.sparknotes.com/lit/dune/"
+          },
+          {
+            "title": "Dune (novel) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dune_(novel)"
+          },
+          {
+            "title": "Dune audiobook narrators talk David Lynch, The Duke of Caladan and more",
+            "url": "https://winteriscoming.net/2020/10/23/dune-audiobook-narrators-talk-david-lynch-duke-of-caladan/"
+          },
+          {
+            "title": "Frank Herbert\u2019s Dune audiobook | A Green Man Review",
+            "url": "https://agreenmanreview.com/books/frank-herberts-dune-audiobook/"
+          },
+          {
+            "title": "Dune Audiobooks | Audible.com",
+            "url": "https://www.audible.com/series/Dune-Audiobooks/B005NALAG0"
+          },
+          {
+            "title": "11 of the Best Audiobook Narrators Out There | Backstage",
+            "url": "https://www.backstage.com/magazine/article/best-audiobook-narrators-you-should-know-78273/"
+          },
+          {
+            "title": "The Best YouTube Channels for Audiobooks - LearnOutLoud.com",
+            "url": "https://www.learnoutloud.com/content/blog/archives/2024/07/the-best-youtube-channels-for-audiobooks.php"
+          },
+          {
+            "title": "DUNE by Frank Herbert Read by Scott Brick Orlagh Cassidy Euan Morton Simon Vance and Cast | Audiobook Review | AudioFile Magazine",
+            "url": "https://www.audiofilemagazine.com/reviews/read/30903/dune-by-frank-herbert-read-by-scott-brick-orlagh-cassidy/"
+          },
+          {
+            "title": "Listening to the Dune Audiobook is the Perfect Way to Prep for Dune Part 2 Audiobooks - Chirp",
+            "url": "https://www.chirpbooks.com/audiobook-lists/dune-audiobook"
+          }
+        ]
+      },
+      "Based on the search results, I found extensive information about Dune audiobook narrators and educational resources. Here's what I discovered:\n\n## Dune Audiobook Narrator Recommendations\n\nThe most highly recommended Dune audiobook features a full cast narrated by Scott Brick, Orlagh Cassidy, Euan Morton, Simon Vance, Ilyana Kadushin, Byron Jennings, David R. Gordon, Jason Culp, Kent Broadhurst, Oliver Wyman, Patricia Kilgarriff, and Scott Sowers.\n\n### Standout Narrators:\n\n**Simon Vance** - British narrator Vance is synonymous with gravitas, with a voice that commands your attention and immerses you in the storyworld. He's no one trick pony, either, consistently delivering a wide array of vocal performances that fit snugly into the material he's reading. He's won a whopping 77 AudioFile Earphone Awards and 17 Audie Awards.\n\n**Scott Brick** - For the prequels and sequels, Brick has flown pretty much solo, becoming the go-to guy whenever Macmillan Audio wants to record another installment of the saga. Brick sounds just fine with that, considering that Dune is one of his favorite series of all time.\n\n### Production Quality:\nThe cast here is brilliant. Consisting of Scott Brick, Orlagh Cassidy, Euan Morton, Simon Vance and Ilyana Kadushin, each character, primary and secondary alike, is given a unique enough voice that telling who is who poses no problem whatsoever. This full-cast performance, augmented by sound effects and music, does justice to a classic of the science fiction genre.\n\n## Educational Resources\n\n### SparkNotes:\nSparkNotes Dune Study Guide has everything you need to ace quizzes, tests, and essays. It is a complex and multi-layered work that explores themes around cultural and historical development, religion, ecology, and human nature. But at its core, the novel is a cautionary tale about the dangers of ambition and the corrupting influence of power.\n\n### Historical Audiobook Versions:\nIn 1993, Recorded Books Inc. released a 20-disc audiobook narrated by George Guidall, though the multi-cast version is generally considered superior.\n\nThe current Macmillan Audio production with the full cast appears to be the gold standard for Dune audiobooks, receiving widespread critical acclaim and featuring some of the industry's most awarded narrators."
+    ],
+    "durationSeconds": 21.777356933999982
+  }
+}

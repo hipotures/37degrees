@@ -1,0 +1,21 @@
+{
+  "session_id": "0487d7f4-1250-4bb6-867a-a71d253cfc4f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0487d7f4-1250-4bb6-867a-a71d253cfc4f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Poland MEN Ministry Education curriculum science fiction Dune \"University of Warsaw\" \"Literature and Popular Culture\""
+  },
+  "tool_response": {
+    "query": "Poland MEN Ministry Education curriculum science fiction Dune \"University of Warsaw\" \"Literature and Popular Culture\"",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01GZ7ki4cxTgUVcKoexF5rSf",
+        "content": []
+      },
+      "I performed a web search with your query about Poland's Ministry of Education (MEN), curriculum, science fiction, Dune, University of Warsaw, and Literature and Popular Culture. However, the search didn't return any specific results. This could be because:\n\n1. The query contains very specific terms that may not appear together in web content\n2. The information you're looking for might be in Polish-language sources that aren't being captured\n3. The specific connection between these elements might not exist or be documented online\n\nWould you like me to try a more focused search? For example, I could search for:\n- Information about science fiction in Polish education curriculum\n- University of Warsaw literature programs\n- Dune in academic literature courses\n- Polish Ministry of Education curriculum changes\n\nLet me know which aspect you'd like me to focus on, or if you'd like me to try a different approach to find the information you're seeking."
+    ],
+    "durationSeconds": 11.33996837600018
+  }
+}

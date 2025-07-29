@@ -1,0 +1,210 @@
+{
+  "session_id": "0487d7f4-1250-4bb6-867a-a71d253cfc4f",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/0487d7f4-1250-4bb6-867a-a71d253cfc4f.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "TikTok Dune Paul Atreides mental health BookTok young readers"
+  },
+  "tool_response": {
+    "query": "TikTok Dune Paul Atreides mental health BookTok young readers",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01YDactNTyonSKsVEFzeqKwU",
+        "content": [
+          {
+            "title": "Exploring the World of Paul Atreides in Dune Movie - Booktok ...",
+            "url": "https://www.tiktok.com/@olivialupemarie/video/7348161906823253290"
+          },
+          {
+            "title": "How can Booktok on TikTok inform readers' advisory services for young people? - ScienceDirect",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S0740818821000219"
+          },
+          {
+            "title": "TikTok's trend of 'BookTok' affects viewers' choices - The Post",
+            "url": "https://www.thepostathens.com/article/2024/10/booktok-tiktok-influence-reading"
+          },
+          {
+            "title": "What Happens to Paul Atreides Dune Book",
+            "url": "https://www.tiktok.com/discover/what-happens-to-paul-atreides-dune-book"
+          },
+          {
+            "title": "Paul Atreides",
+            "url": "https://www.tiktok.com/discover/paul-atreides?lang=en"
+          },
+          {
+            "title": "Paul Atreides is such a goated charcter bro literally stood on business the entire movie \ud83d\ude2d Dune 2 movie of the year #dunemovie #dune #dunetwo #dune2 #duneparttwo #timoteechalamet #paulatreides #paulatreidesedit #timotheechalametedit #zendaya #chani #jessicaatreides #edit #viralvideo #viralvideo #kevinwindu #viral #fyp #moviefyp #filmedit #dunefyp #duneedit  | TikTok",
+            "url": "https://www.tiktok.com/@kevinnwindu/video/7342383300700491054"
+          },
+          {
+            "title": "Dune (novel) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dune_(novel)"
+          },
+          {
+            "title": "The DUNE books are awesome! #dune #dunemovie #paulatreides #dunebook #books #bookrecommendations  | TikTok",
+            "url": "https://www.tiktok.com/@decafishere/video/7344394113032178986?lang=en"
+          },
+          {
+            "title": "What Happens to Paul Atreides Face Dune Book",
+            "url": "https://www.tiktok.com/discover/what-happens-to-paul-atreides-face-dune-book"
+          },
+          {
+            "title": "BookTok 101: TikTok, Digital Literacies, and Out\u2010of\u2010School Reading Practices | Request PDF",
+            "url": "https://www.researchgate.net/publication/355181352_BookTok_101_TikTok_Digital_Literacies_and_Out-of-School_Reading_Practices"
+          }
+        ]
+      },
+      "Based on the search results, I found information about BookTok and its impact on young readers, as well as some general information about Paul Atreides from Dune. However, the search didn't return specific information about discussions of Paul Atreides' mental health on BookTok. Let me search for more specific information about mental health discussions related to Dune characters on social media.",
+      {
+        "tool_use_id": "srvtoolu_01GAG25HEeWLj6QJx1PwyEJo",
+        "content": [
+          {
+            "title": "Booktok &#x1f4da; - Book Recommendations: BOOKS WITH GOOD MENTAL HEALTH ISSUES Showing 1-22 of 22",
+            "url": "https://www.goodreads.com/topic/show/22219994-books-with-good-mental-health-issues"
+          },
+          {
+            "title": "Paul Atreides - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Paul_Atreides"
+          },
+          {
+            "title": "Paul Atreides / Muad\u2019Dib Character Analysis in Dune | LitCharts",
+            "url": "https://www.litcharts.com/lit/dune/characters/paul-atreides-muad-dib"
+          },
+          {
+            "title": "Paul Atreides | Dune Wiki | Fandom",
+            "url": "https://dune.fandom.com/wiki/Paul_Atreides"
+          },
+          {
+            "title": "Lawrence of Arabia, Paul Atreides, and the roots of Frank Herbert's Dune (2021) | Hacker News",
+            "url": "https://news.ycombinator.com/item?id=43248429"
+          },
+          {
+            "title": "Booktok \ud83d\udcda discussion mental health book recs?",
+            "url": "https://www.goodreads.com/topic/show/22238598-mental-health-book-recs"
+          },
+          {
+            "title": "The Apotheosis of Paul Atreides. Content notice: spoilers for Frank\u2026 | by Grace Lapointe | Medium",
+            "url": "https://gracelapointe.medium.com/the-apotheosis-of-paul-atreides-862b53a23415"
+          },
+          {
+            "title": "In the book Dune, is Paul Atreides a bad guy? - Science Fiction & Fantasy - Quora",
+            "url": "https://sciencefictionfantasy.quora.com/In-the-book-Dune-is-Paul-Atreides-a-bad-guy"
+          },
+          {
+            "title": "Dune: 9 Things Only Book Readers Know About Paul Atreides",
+            "url": "https://screenrant.com/dune-things-book-readers-know-paul-atreides/"
+          },
+          {
+            "title": "DUNE: PART TWO Understands That Paul Atreides Is Not a Hero - Nerdist",
+            "url": "https://nerdist.com/article/dune-part-two-paul-atreides-character-framing-portrayal-close-to-frank-herbert-novels-not-a-hero/"
+          }
+        ]
+      },
+      "Let me search more specifically for mental health discussions about Paul Atreides' prescient abilities and psychological burden.",
+      {
+        "tool_use_id": "srvtoolu_017RGC8QMZZjq4ypumZbXDzE",
+        "content": [
+          {
+            "title": "Paul Atreides | Villains Wiki | Fandom",
+            "url": "https://villains.fandom.com/wiki/Paul_Atreides"
+          },
+          {
+            "title": "Prescience | Dune Wiki | Fandom",
+            "url": "https://dune.fandom.com/wiki/Prescience"
+          },
+          {
+            "title": "Paul Atreides | Dune Wiki | Fandom",
+            "url": "https://dune.fandom.com/wiki/Paul_Atreides"
+          },
+          {
+            "title": "Paul Atreides and the concept of prescience in the Dune ...",
+            "url": "https://www.facebook.com/groups/2204512110/posts/10159631647397111/"
+          },
+          {
+            "title": "dune - Why could Paul Atreides see further into the future than the Spacing Guild Navigators? - Science Fiction & Fantasy Stack Exchange",
+            "url": "https://scifi.stackexchange.com/questions/201970/why-could-paul-atreides-see-further-into-the-future-than-the-spacing-guild-navig"
+          },
+          {
+            "title": "Dune What mistakes did Paul Atreides cause for his downfall? - Quora",
+            "url": "https://www.quora.com/Dune-What-mistakes-did-Paul-Atreides-cause-for-his-downfall"
+          },
+          {
+            "title": "The Apotheosis of Paul Atreides. Content notice: spoilers for Frank\u2026 | by Grace Lapointe | Medium",
+            "url": "https://gracelapointe.medium.com/the-apotheosis-of-paul-atreides-862b53a23415"
+          },
+          {
+            "title": "Dune Messiah Chapter 18 Summary & Analysis | LitCharts",
+            "url": "https://www.litcharts.com/lit/dune-messiah/chapter-18"
+          },
+          {
+            "title": "How the Fremen used Paul Atreides | by DuneTheories | Medium",
+            "url": "https://medium.com/@dunetheories/how-the-fremen-used-paul-atreides-f99007e90dc"
+          },
+          {
+            "title": "Paul Atreides' Powers Make Him One of Dune's Strongest Characters",
+            "url": "https://www.cbr.com/dune-paul-atreides-power-explained/"
+          }
+        ]
+      },
+      "Based on the search results, I can see that while there's rich information about Paul Atreides' psychological burden from prescience and the general impact of BookTok on young readers, there doesn't appear to be specific discussions about Paul Atreides' mental health on BookTok itself. Let me search for more recent content specifically about Dune mental health discussions on social media.",
+      {
+        "tool_use_id": "srvtoolu_019GuYwU2X7Q4WYv6qTeDk1V",
+        "content": [
+          {
+            "title": "Dune: Part Two And Online Safety | Axis",
+            "url": "https://axis.org/resource/dune-part-two-and-online-safety/"
+          }
+        ]
+      },
+      "Let me search for more specific information about young adult readers and mental health themes in science fiction, including Dune.",
+      {
+        "tool_use_id": "srvtoolu_01K7riswSZj51fgSTa3GMjmj",
+        "content": [
+          {
+            "title": "32 YA Books About Mental Health & Mental Illness",
+            "url": "https://www.epicreads.com/blog/ya-books-mental-health/"
+          },
+          {
+            "title": "15 Enlightening and Empathetic YA Novels About Mental Illness | Brightly",
+            "url": "https://www.readbrightly.com/enlightening-empathetic-ya-novels-about-mental-illness/"
+          },
+          {
+            "title": "Top Young Adult Fiction of the Year: The Ultimate 2025 Guide for Teen Readers - BookTok Shelf",
+            "url": "https://booktokshelf.com/top-young-adult-fiction-of-the-year-2025/"
+          },
+          {
+            "title": "16 Young Adult Novels That Tackle Themes of Mental Illness",
+            "url": "https://www.buzzfeed.com/jayhogan/young-adult-novels-that-tackle-mental-illness"
+          },
+          {
+            "title": "Mental Health Books for Teens and YA Readers | Madison Public Library",
+            "url": "https://www.madisonpubliclibrary.org/collection/lists/mental-health-books-teens-and-ya-readers"
+          },
+          {
+            "title": "Young Adult eBooks about Mental Health - National Mental Health Awareness Month - SCF Libraries at State College of Florida, Sarasota-Manatee",
+            "url": "https://libguides.scf.edu/c.php?g=1036616&p=7515308"
+          },
+          {
+            "title": "YA Books About Mental Illness and Mental Health | Book Riot",
+            "url": "https://bookriot.com/ya-books-about-mental-illness/"
+          },
+          {
+            "title": "Young Adult Fiction / Social Themes / Mental Illness",
+            "url": "https://www.copperfieldsbooks.com/browse/book/YAF058140"
+          },
+          {
+            "title": "The Crossover Between Young Adult and New Adult Fiction - Between the Lines Editorial",
+            "url": "https://btleditorial.com/2021/06/16/new-adult-young-adult-novels/"
+          },
+          {
+            "title": "28 YA Mental Health Books To Read - Drizzle & Hurricane Books",
+            "url": "https://drizzleandhurricanebooks.com/2023/05/10/ya-mental-health-books/"
+          }
+        ]
+      },
+      "Based on my search results, I can provide you with comprehensive information about the topics you've searched for. Here's what I found:\n\n## BookTok and Young Readers\n\nBookTok has become a significant platform where young people use the community to provide recommendations and explore reader experience and emotional response, generate reader community and identity, discuss fictional characters and places, develop and promote writing, and discuss personal library management and being a reader in the family.(no content)The BookTok hashtag is reported to have over 107 billion views globally and is particularly popular with Generation Z users, people who were born between 1996 and 2010.(no content)These democratized spaces provide teen readers with agency, community, and digital literacies for their voices, ideas, and creativity to take shape. By including or acknowledging BookTok literacy practices in ELA classrooms, teachers have the potential to hinge on digital literacies that are ultimately shaping students and their cultural understandings.\n\n## Paul Atreides and Mental Health Themes\n\nWhile I didn't find specific discussions about Paul Atreides' mental health on BookTok, the search revealed rich information about his psychological burden in the Dune novels:\n\n### Prescient Burden and Mental Health\nWith his prescience, Paul carries the burden of knowing the future and perceiving the unequivocal fact that he is destined to change the course of the universe.(no content)Those who possessed true prescience could see their own death long before it happened. As a result, prescient individuals were prone to despair, and usually felt a sense of loss for their humanity.(no content)Following his prescient awakening in the Stilltent after the emotional breakdown ellicited by his father's death, coupled with the spice's psychoactive inducement upon his mind, Paul's prescience pervades his conscious life as well. Paul's perceived the inexorable passage of time on a far more multifaceted level, particularly foreseeing glimpses of a terrifying Jihad being incited in his name. Hellbent on vengeance after his father's death and overwhelmed by his prescient awakening, Paul gradually becomes hardened by the burdened knowledge and nomadic lifestyle he adopts in the desert.\n\n### Psychological Analysis of Paul's Character\nMany passages show how Paul feels burdened or trapped by his roles. Alia thinks, \"Deification is a prison enclosing him.\"(no content)The Preacher says in Children of Dune: \"It was said of Muad'Dib that he died of prescience, that knowledge of the future killed him and he passed from the universe of reality into the alam al-mythal.\"(no content)For Paul, he had seen and dreaded this moment because of its threat to his human vision, comparably blind to his prescience. Paul fears being confined to his prescience alone\u2014he fears when his life will become only anticipation for the future.\n\n## Mental Health in Young Adult Literature\n\nOne of the most important developments in recent YA fiction is the thoughtful exploration of mental health issues. This year's standout titles approach these complex topics with sensitivity, authenticity, and hope.(no content)As the YA category has grown, we've seen more and more YA books about mental illness and mental health hit shelves. These books traverse all aspects of mental health and mental illness, and they're both fiction and nonfiction. There are books about addiction, eating disorders, depression, schizophrenia, and more, as experienced by the teen main characters.(no content)YA fiction tackles themes like first love, early relationships, self-identity, friendship, mental health, and a general coming-of-age.\n\nWhile Paul Atreides' specific mental health struggles don't appear to be a major topic of discussion on BookTok based on my search, the themes of psychological burden, prescient abilities as both gift and curse, and the mental toll of power are certainly present in Frank Herbert's novels and could resonate with young readers who engage with complex characters and mental health themes in their reading choices."
+    ],
+    "durationSeconds": 62.18583593299999
+  }
+}

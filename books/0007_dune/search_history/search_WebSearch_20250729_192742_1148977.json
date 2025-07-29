@@ -1,0 +1,63 @@
+{
+  "session_id": "7529e71f-d379-4299-9734-0e831fc05ee8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7529e71f-d379-4299-9734-0e831fc05ee8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Oregon Public Broadcasting Frank Herbert Dune Oregon dunes inspiration Florence 1957 USDA"
+  },
+  "tool_response": {
+    "query": "Oregon Public Broadcasting Frank Herbert Dune Oregon dunes inspiration Florence 1957 USDA",
+    "results": [
+      "I'll perform a web search using your specified query.",
+      {
+        "tool_use_id": "srvtoolu_01V3snoxYcf6jcd1L7pL4BSi",
+        "content": [
+          {
+            "title": "How an Oregon battle between human and nature inspired Frank Herbert\u2019s \u2018Dune\u2019 - OPB",
+            "url": "https://www.opb.org/article/2021/10/23/florence-oregon-movies-dune-frank-herbert-science-fiction-novels/"
+          },
+          {
+            "title": "Frank Herbert\u2019s \u2018Dune\u2019 Took Inspiration From Florence, Oregon | The Confluence",
+            "url": "https://oregonconfluence.com/2021/10/23/frank-herberts-dune-took-inspiration-from-florence-oregon/"
+          },
+          {
+            "title": "A visit to the dunes that inspired Frank Herbert's 'Dune' : NPR",
+            "url": "https://www.npr.org/2024/03/09/1237218132/a-visit-to-the-dunes-that-inspired-frank-herberts-dune"
+          },
+          {
+            "title": "Oregon Dunes Inspire Frank Herbert | Rose&Emerald",
+            "url": "https://roseandemerald.com/oregon-dunes-inspire-herberts-dune/"
+          },
+          {
+            "title": "Franklin Patrick Herbert Jr. (1920\u20131986)",
+            "url": "https://www.oregonencyclopedia.org/articles/herbert-frank-and-the-dune-series/"
+          },
+          {
+            "title": "How an Oregon battle between human and nature inspired Frank Herbert\u2019s \u2018Dune\u2019 | Jefferson Public Radio",
+            "url": "https://www.ijpr.org/music-arts-culture/2021-10-24/how-an-oregon-battle-between-human-and-nature-inspired-frank-herberts-dune"
+          },
+          {
+            "title": "The disappearing dunes of 'Dune' \u2014 Outside/In",
+            "url": "http://outsideinradio.org/shows/the-disappearing-dunes-of-dune"
+          },
+          {
+            "title": "'Dune' was inspired by the Oregon Coast\u2014but the ecosystem is starting to collapse",
+            "url": "https://www.fastcompany.com/91054916/dune-was-inspired-by-the-oregon-coast-but-now-the-real-life-ecosystem-is-starting-to-collapse-as-well"
+          },
+          {
+            "title": "Oregon Coast Town Was Inspiration Behind Herbert's 'Dune:' Celebrations Ensue",
+            "url": "https://beachconnection.net/news/herber_dune_florence101121.php"
+          },
+          {
+            "title": "'Dune' book series author inspired by Oregon dunes - KOBI-TV NBC5 / KOTI-TV NBC2",
+            "url": "https://kobi5.com/news/top-stories/dune-book-series-author-inspired-by-oregon-dunes-223539/"
+          }
+        ]
+      },
+      "Based on your search query, I found several relevant sources that provide detailed information about Frank Herbert's 1957 visit to Florence, Oregon, and how the Oregon Dunes inspired his famous novel \"Dune.\" Here are the key findings:\n\n## Frank Herbert's 1957 Visit to Florence, Oregon\n\nFrank Herbert came to Florence in 1957, planning to write an article documenting the battle between man and nature. Herbert heard that the U.S. Department of Agriculture was successfully planting European beach grass to control the dunes on the Oregon Coast, and Herbert chartered an airplane to Florence to visit the Oregon Dunes.\n\nHerbert was doing research in Florence for a story about man versus nature. A team led by the U.S. Department of Agriculture was attempting to stop the blowing sands that swallowed homes, covered roads and railway tracks, and threatened a seaport.\n\n## The Oregon Dunes' Impact on Herbert\n\nHerbert was awestruck by the power of the blowing desert sand. As he wrote in a letter: \"These waves can be every bit as devastating as a tidal wave in property damage\".\n\nHerbert took a flight over the dunes, he took multiple photographs, he walked out onto them. In July 1957, Herbert, who was 40 at the time, chartered a small plane and flew over part of the largest expanse of coastal sand dunes in the United States.\n\n## The Connection to \"Dune\"\n\nHerbert finished his article on Florence, but it was never published. Instead, he began to dig deeper into desert ecosystems and human interactions with nature. The unfinished short story he wrote based on the Dunes, \"They Stopped the Moving Sands,\" helped him develop the idea of a desert world, which he imagined as a planet consumed by moving dunes caused by environmental destruction.\n\nThe experience seeing the dunes \u2014 and the interaction between the people and the environment they were living \u2014 really did become the center of Dune and Arrakis. What he saw deeply influenced his fictional desert planet and became a major theme of the book: how to alter an inhabitable environment to enable it\u2014and its people\u2014to thrive.\n\n## The USDA Connection\n\nYour search specifically mentioned the USDA, and indeed in 1908, after failed attempts at farming in the dunes, President Teddy Roosevelt put much of them in the charge of the USDA's Forest Service. The Forest Service wanted to fix the dunes in place by planting two non-native species. First, European beach grass. Then, a couple years later, a hardy shrub called Scotch broom.\n\nThe Oregon Public Broadcasting sources provide comprehensive coverage of this story, documenting how Herbert's 1957 research trip for a USDA-related article about stopping the moving sands ultimately became the inspiration for one of the most influential science fiction novels ever written."
+    ],
+    "durationSeconds": 34.27260624400002
+  }
+}

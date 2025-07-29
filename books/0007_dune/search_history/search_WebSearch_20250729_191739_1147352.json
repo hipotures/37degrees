@@ -1,0 +1,62 @@
+{
+  "session_id": "7529e71f-d379-4299-9734-0e831fc05ee8",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7529e71f-d379-4299-9734-0e831fc05ee8.jsonl",
+  "cwd": "/home/xai/DEV/37degrees/books/0007_dune",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "TikTok #Dune hashtag total views 2024 #DuneMovie #TimotheeChalamet #Zendaya hashtag statistics"
+  },
+  "tool_response": {
+    "query": "TikTok #Dune hashtag total views 2024 #DuneMovie #TimotheeChalamet #Zendaya hashtag statistics",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_01TmhisAZBeErTqfqT2wnNtg",
+        "content": [
+          {
+            "title": "Hashtags for #dunemovie in 2024 to be popular and trending in Instagram, TikTok - Top Hashtags",
+            "url": "https://top-hashtags.com/hashtag/dunemovie/"
+          },
+          {
+            "title": "TikTok - Make Your Day",
+            "url": "https://www.tiktok.com/@dunemovie?lang=en"
+          },
+          {
+            "title": "'Dune 2' TikTok Marketing Helps Power Box Office Success",
+            "url": "https://variety.com/vip/dune2-tiktok-marketing-drives-box-office-success-1235955704/"
+          },
+          {
+            "title": "Best #dune Hashtags for Instagram & TikTok - Top Trends 2025",
+            "url": "https://best-hashtags.com/hashtag/dune/"
+          },
+          {
+            "title": "Best Dune Hashtags for TikTok | Boost Your Videos",
+            "url": "https://tiktokhashtags.com/hashtag/dune/"
+          },
+          {
+            "title": "#dune Hashtags 2024 - copy and paste hashtags generator | h.bdir.in",
+            "url": "https://h.bdir.in/hashtags/search/dune"
+          },
+          {
+            "title": "Best #dunemovie Hashtags for Instagram & TikTok - Top Trends 2025",
+            "url": "https://best-hashtags.com/hashtag/dunemovie/"
+          },
+          {
+            "title": "Best #dune2020 Hashtags for Instagram & TikTok - Top Trends 2025",
+            "url": "https://best-hashtags.com/hashtag/dune2020/"
+          },
+          {
+            "title": "Display Purposes - Best #dunemovie hashtags for Instagram, TikTok, YouTube in 2024",
+            "url": "https://displaypurposes.com/hashtags/hashtag/dunemovie"
+          },
+          {
+            "title": "TikTok top hashtags by post views 2024 | Statista",
+            "url": "https://www.statista.com/statistics/1299851/tiktok-top-hashtags-by-post-views/"
+          }
+        ]
+      },
+      "Based on the search results, here are the key TikTok hashtag statistics for Dune-related content in 2024:\n\n## Core Dune Hashtag Statistics\n\nThe #dune hashtag has garnered over 2.4 billion overall views with 126.1 thousand overall posts on TikTok.\n\n## Related Hashtag Performance\n\nThe #zendaya hashtag has garnered over 38 billion views on TikTok, though this includes content beyond just Dune-related posts.\n\n## Popular Dune-Related Hashtags for 2024\n\nThe most commonly used hashtags for Dune content include:\n\n- #dunemovie #dune #timotheechalamet #zendaya #duna #arrakis #denisvilleneuve #frankherbert\n- #dune #dunemovie #timotheechalamet #zendaya #frankherbert #timoth #denisvilleneuve #arrakis #scifi #jasonmomoa\n\n## Marketing Impact\n\nThe core audience for \"Dune\" has grown a staggering 67.5%, from 2.6 million to 8 million, with superfans growing 84%, indicating the success of TikTok marketing campaigns for the franchise.\n\nUnfortunately, the search results don't provide specific view counts for individual hashtags like #DuneMovie, #TimotheeChalamet in isolation, or comprehensive 2024 statistics for all the hashtags you mentioned. The data available shows that Dune-related content has performed very well on TikTok, with billions of views across various related hashtags."
+    ],
+    "durationSeconds": 14.377520743999979
+  }
+}

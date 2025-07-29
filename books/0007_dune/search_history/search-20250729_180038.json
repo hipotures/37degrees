@@ -1,0 +1,62 @@
+{
+  "session_id": "7b55c4df-37c7-40ba-a24e-add57974ae65",
+  "transcript_path": "/home/xai/.claude/projects/-home-xai-DEV-37degrees/7b55c4df-37c7-40ba-a24e-add57974ae65.jsonl",
+  "cwd": "/home/xai/DEV/37degrees",
+  "hook_event_name": "PostToolUse",
+  "tool_name": "WebSearch",
+  "tool_input": {
+    "query": "Diuna matura arkusze CKE egzamin \u00f3smoklasisty"
+  },
+  "tool_response": {
+    "query": "Diuna matura arkusze CKE egzamin \u00f3smoklasisty",
+    "results": [
+      {
+        "tool_use_id": "srvtoolu_015nqQEArhKmem8tiJHK818W",
+        "content": [
+          {
+            "title": "Arkusze CKE, Operon, Nowa Era - matura, egzamin \u00f3smoklasisty, egzamin zawodowy - Arkusze CKE, Operon, Nowa Era - matura, egzamin \u00f3smoklasisty, egzamin zawodowy",
+            "url": "https://arkusze.pl/"
+          },
+          {
+            "title": "Arkusze egzaminacyjne - Okr\u0119gowa Komisja Egzaminacyjna w Krakowie",
+            "url": "https://www.oke.krakow.pl/inf/staticpages/index.php?page=20190107152352244"
+          },
+          {
+            "title": "Matura z matematyki, poziom rozszerzony. Odpowiedzi eksperta WSiP i arkusze CKE",
+            "url": "https://edukacja.rp.pl/matura-i-egzamin-osmoklasisty/art42263621-matura-z-matematyki-poziom-rozszerzony-odpowiedzi-eksperta-wsip-i-arkusze-cke"
+          },
+          {
+            "title": "Matura 2025: matematyka - poziom podstawowy. Arkusz CKE, rozwi\u0105zania i odpowiedzi eksperta",
+            "url": "https://edukacja.rp.pl/matura-i-egzamin-osmoklasisty/art42216631-matura-2025-matematyka-poziom-podstawowy-arkusz-cke-rozwiazania-i-odpowiedzi-eksperta"
+          },
+          {
+            "title": "MATURA-Arkusze CKE",
+            "url": "https://cke.gov.pl/egzamin-maturalny/egzamin-w-starej-formule/arkusze/"
+          },
+          {
+            "title": "Arkusze - Okr\u0119gowa Komisja Egzaminacyjna",
+            "url": "https://www.oke.poznan.pl/cms,108,arkusze.htm"
+          },
+          {
+            "title": "Egzamin maturalny \u2013 CKE",
+            "url": "https://cke.gov.pl/arkusze/egzamin-maturalny/"
+          },
+          {
+            "title": "ARKUSZE MATURALNE CKE | pytania i odpowiedzi",
+            "url": "https://www.otouczelnie.pl/matura/arkusze"
+          },
+          {
+            "title": "Egzamin \u00f3smoklasisty termin dodatkowy matematyka 2025 - Arkusze CKE, Operon, Nowa Era - matura, egzamin \u00f3smoklasisty, egzamin zawodowy",
+            "url": "https://arkusze.pl/egzamin-osmoklasisty-termin-dodatkowy-matematyka-2025/"
+          },
+          {
+            "title": "Matematyka - matura poziom podstawowy - Arkusze CKE, Operon, Nowa Era - matura, egzamin \u00f3smoklasisty, egzamin zawodowy",
+            "url": "https://arkusze.pl/matematyka-matura-poziom-podstawowy/"
+          }
+        ]
+      },
+      "I've performed the web search for your query \"Diuna matura arkusze CKE egzamin \u00f3smoklasisty\" and found relevant information about Polish educational exam materials. Here's what the search results show:\n\n## Polish Educational Exam Resources\n\nThe search results reveal several key resources for Polish educational exams:\n\n### Main Resource Site - Arkusze.pl\nThe primary resource site arkusze.pl provides \"najlepsz\u0105 baz\u0119 arkuszy maturalnych oraz egzaminacyjnych\" (the best database of high school graduation and exam papers) for \"Arkusze CKE, Operon, Nowa Era - matura, egzamin \u00f3smoklasisty, egzamin zawodowy\" (CKE, Operon, Nowa Era exam papers - high school graduation, eighth-grade exam, vocational exam).\n\n### Recent Updates and Content\nThe site regularly updates with new materials, including:\n- Recent additions of mock graduation exams and eighth-grade exam papers\n- Both high school graduation and eighth-grade exams are continuously added\n\n### Official CKE Resources\nThe official CKE (Central Examination Commission) provides archived exam papers from various years, including graduation exam papers from recent years like 2020 and 2019.\n\n### Current Exam Information\nFor 2025, exam papers are published after each exam from 2:00 PM, with students having access to papers from 24 subjects at various levels (basic, extended, and bilingual).\n\n### Eighth-Grade Exam Materials\nSpecific eighth-grade exam materials are available, including mathematics papers from 2025 and previous years going back to 2019.\n\nThe search shows that \"Diuna\" in your query likely refers to accessing these educational resources, with comprehensive exam materials available from both official CKE sources and educational platforms like arkusze.pl for both high school graduation exams (matura) and eighth-grade exams (egzamin \u00f3smoklasisty)."
+    ],
+    "durationSeconds": 17.756761347000023
+  }
+}
