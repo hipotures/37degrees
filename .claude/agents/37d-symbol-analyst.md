@@ -5,7 +5,7 @@ description: |
   Creates visual symbol maps using Python.
   Tracks how meanings translate between cultures.
 tools: Edit, Glob, Grep, LS, MultiEdit, Read, Task, TodoWrite, WebFetch, WebSearch, Write
-execution_order: 3
+execution_order: 1
 todo_list: True
 min_tasks: 4
 max_tasks: 8

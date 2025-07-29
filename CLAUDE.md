@@ -229,7 +229,7 @@ book/docs/findings/ ← Quality Control ← Bibliography ← Research Results
 - **Extensible architecture**: New agents auto-discovered from `.claude/agents/37d-*.md`
 - **YAML frontmatter configuration**: `todo_list`, `min_tasks`, `max_tasks`, `execution_order`
 - **Agent workflow**: Agents with `todo_list: False` create tasks dynamically
-- **Sequential execution**: Agents run in `execution_order` sequence (1-10)
+- **Parallel execution**: Agents grouped by `execution_order`, groups run sequentially, agents within groups run in parallel
 - **Research output**: All findings saved to `books/NNNN_book/docs/findings/`
 - **Quality control**: Source validation and bibliography compilation built-in
 - **Hook integration**: Search results automatically saved via Claude Code hooks

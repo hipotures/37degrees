@@ -148,7 +148,7 @@ python main.py site classics     # Strony kolekcji
 ### Konfiguracja Agentów
 - **Auto-odkrywanie**: Nowi agenci automatycznie wykrywani z `.claude/agents/37d-*.md`
 - **YAML frontmatter**: `todo_list`, `min_tasks`, `max_tasks`, `execution_order`
-- **Sekwencyjna egzekucja**: Agenci działają w kolejności `execution_order` (1-10)
+- **Równoległa egzekucja**: Agenci grupowani wg `execution_order`, grupy wykonywane sekwencyjnie, agenci w grupach równolegle
 - **Wyjście badań**: Wszystkie ustalenia zapisywane do `books/NNNN_book/docs/findings/`
 
 ## 🔧 Zaawansowane Konfiguracje
@@ -368,7 +368,7 @@ python main.py research classics           # Badania dla całej serii
 ### Kontekst Systemu Agentów 37d
 - **Rozszerzalna architektura**: Nowi agenci auto-wykrywani z `.claude/agents/37d-*.md`
 - **Konfiguracja YAML frontmatter**: `todo_list`, `min_tasks`, `max_tasks`, `execution_order`
-- **Sekwencyjna egzekucja**: Agenci działają w kolejności `execution_order` (1-10)
+- **Równoległa egzekucja**: Agenci grupowani wg `execution_order`, grupy wykonywane sekwencyjnie, agenci w grupach równolegle
 - **Kontrola jakości**: Walidacja źródeł i kompilacja bibliografii wbudowane
 - **Integracja hook-ów**: Wyniki wyszukiwań automatycznie zapisywane via Claude Code hooks
 

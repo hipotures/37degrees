@@ -124,7 +124,7 @@ All agents have YAML frontmatter with:
 - **Conditional TODO generation** - Based on agent configuration
 - **Automatic search saving** - Via hooks integration
 - **Task quantity control** - Min/max limits per agent
-- **Sequential execution** - Ordered by execution_order field
+- **Parallel execution** - Groups by execution_order, parallel within groups
 - **Gap analysis** - Deep research fills missing information
 - **Quality control** - Source validation and bibliography management
 EOF

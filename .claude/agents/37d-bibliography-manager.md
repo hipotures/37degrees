@@ -5,7 +5,7 @@ description: |
   Ensures proper academic formatting and completeness.
   Creates the final, authoritative bibliography.
 tools: Edit, Glob, Grep, LS, MultiEdit, Read, Task, TodoWrite, WebFetch, WebSearch, Write
-execution_order: 7
+execution_order: 2
 todo_list: False
 min_tasks: 0
 max_tasks: 0

@@ -5,7 +5,7 @@ description: |
   From films to TikTok trends, memes to video games.
   Expert in youth culture and viral phenomena.
 tools: Edit, Glob, Grep, LS, MultiEdit, Read, Task, TodoWrite, WebFetch, WebSearch, Write
-execution_order: 2
+execution_order: 1
 todo_list: True
 min_tasks: 6
 max_tasks: 10

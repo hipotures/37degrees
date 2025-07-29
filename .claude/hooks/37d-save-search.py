@@ -65,13 +65,12 @@ if len(lock_files) == 0:
     sys.exit(0)
 
 if len(lock_files) > 1:
-    debug_log(f"ERROR: Multiple lock files found: {[f.name for f in lock_files]}")
-    print(f"[37d-hook] ERROR: Multiple lock files found: {[f.name for f in lock_files]}", file=sys.stderr)
-    sys.exit(0)
+    debug_log(f"Multiple lock files found: {[f.name for f in lock_files]} - using first one")
+    print(f"[37d-hook] Multiple agents running - using first lock file: {lock_files[0].name}", file=sys.stderr)
 
 debug_log(f"Using lock file: {lock_files[0].name}")
 
-# Parse the single lock file
+# Parse the lock file (first one if multiple exist)
 lock_file = lock_files[0]
 lock_name = lock_file.stem  # e.g., "0001_alice_in_wonderland-37d-facts-hunter"
 

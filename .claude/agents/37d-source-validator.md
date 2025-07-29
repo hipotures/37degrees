@@ -5,7 +5,7 @@ description: |
   Rates source reliability and cross-references claims.
   The guardian of research integrity.
 tools: Edit, Glob, Grep, LS, MultiEdit, Read, Task, TodoWrite, WebFetch, WebSearch, Write
-execution_order: 6
+execution_order: 2
 todo_list: False
 min_tasks: 0
 max_tasks: 0

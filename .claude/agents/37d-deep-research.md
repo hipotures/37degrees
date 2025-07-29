@@ -5,7 +5,7 @@ description: |
   Dynamically generates research tasks by analyzing completed work.
   Iterative agent - can run multiple times (37d-deep-research-1, 37d-deep-research-2, etc.).
 tools: Edit, Glob, Grep, LS, MultiEdit, Read, Task, TodoWrite, WebFetch, WebSearch, Write
-execution_order: 10
+execution_order: 2
 todo_list: False
 min_tasks: 0
 max_tasks: 5

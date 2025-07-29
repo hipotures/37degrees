@@ -57,7 +57,7 @@ IF book folder not found:
 2.1. EXECUTE exactly this Bash command: ls ../../.claude/agents/37d-*.md
 2.2. PARSE list to extract agent names (remove path and .md extension)
 2.3. CREATE agent_list array with discovered agents in alphabetical order
-2.4. SORT agents by execution_order field from agent profile headers
+2.4. GROUP agents by execution_order field, then sort groups in ascending order
 2.5. FOR EACH agent in agent_list:
      - EXECUTE exactly this Bash command: mkdir -p docs/${agent_name}
 2.6. EXECUTE exactly this Bash command: find . -maxdepth 1 -name "*-37d-*.lock" -type f -delete
@@ -189,10 +189,11 @@ Example completion:
 ## STEP 4: Execute Agent Sequence
 
 <agent-execution-pattern>
-FOR EACH agent in discovered agent_list:
+FOR EACH execution_order_group in grouped_agents:
 
 ### Phase 1: Pre-execution Setup
 <instructions>
+FOR EACH agent in current execution_order_group:
 1. UPDATE TODO_master.md to mark agent as running:
    - CHANGE: "- [ ] ${agent_name}"
    - TO: "- [R] ${agent_name} (started YYYY-MM-DD HH:MM)"
@@ -200,24 +201,32 @@ FOR EACH agent in discovered agent_list:
 3. PREPARE agent context with book metadata and TODO location
 </instructions>
 
-### Phase 2: Agent Execution
+### Phase 2: Agent Execution (Parallel)
 <instructions>
-1. CHECK if agent has todo_list: False in profile
-2. IF agent has TODO file (todo_list is not False):
-   EXECUTE agent using Task tool with prompt:
-   "Use ${agent_name} to research '${book_title}' by ${author} (${year}) 
-    YOUR TASKS ARE IN: docs/todo/TODO_${agent_name}.md
-    Complete ALL tasks from this TODO file systematically.
-    Mark each task as [x] with timestamp when done, [0] if no results found.
-    After completing all tasks, generate comprehensive findings file."
+IF execution_order_group has single agent:
+   Execute single Task call as before
 
-3. IF agent has no TODO file (todo_list: False):
-   EXECUTE agent using Task tool with prompt:
-   "Use ${agent_name} to research '${book_title}' by ${author} (${year})
-    Follow your agent profile instructions to complete your research.
-    Generate comprehensive findings file when complete."
-    
-4. CAPTURE agent output for analysis
+IF execution_order_group has multiple agents:
+   Execute ALL agents in group PARALLEL using multiple Task calls in single response:
+   
+   FOR EACH agent in current execution_order_group:
+   1. CHECK if agent has todo_list: False in profile
+   2. IF agent has TODO file (todo_list is not False):
+      PREPARE Task call with prompt:
+      "Use ${agent_name} to research '${book_title}' by ${author} (${year}) 
+       YOUR TASKS ARE IN: docs/todo/TODO_${agent_name}.md
+       Complete ALL tasks from this TODO file systematically.
+       Mark each task as [x] with timestamp when done, [0] if no results found.
+       After completing all tasks, generate comprehensive findings file."
+
+   3. IF agent has no TODO file (todo_list: False):
+      PREPARE Task call with prompt:
+      "Use ${agent_name} to research '${book_title}' by ${author} (${year})
+       Follow your agent profile instructions to complete your research.
+       Generate comprehensive findings file when complete."
+
+   EXECUTE all prepared Task calls simultaneously in single response
+   CAPTURE all agent outputs for analysis
 </instructions>
 
 ### Phase 3: Error Detection and Recovery
@@ -235,6 +244,7 @@ IF agent output contains other errors:
 
 ### Phase 4: TODO Verification Loop
 <instructions>
+FOR EACH agent in current execution_order_group:
 1. IF agent has TODO file (todo_list is not False):
    a. READ docs/todo/TODO_${agent_name}.md
    b. COUNT tasks still marked as [ ]
@@ -252,13 +262,15 @@ IF agent output contains other errors:
 
 ### Phase 5: Finalization
 <instructions>
+FOR EACH agent in current execution_order_group:
 1. IF agent has TODO file: VERIFY all tasks marked [x] or [0]
 2. IF agent has no TODO file: VERIFY findings file exists
 3. UPDATE TODO_master.md:
    - CHANGE: "- [R] ${agent_name} (started YYYY-MM-DD HH:MM)"
    - TO: "- [x] ${agent_name} ✓ (completed YYYY-MM-DD HH:MM)"
 4. REMOVE lock file: rm -f ${book_folder_name}-${agent_name}.lock
-5. PROCEED to next agent
+
+PROCEED to next execution_order_group
 </instructions>
 </agent-execution-pattern>
 
@@ -268,7 +280,8 @@ IF agent output contains other errors:
 
 ## Dynamic Agent System
 - Agents are discovered at runtime from ../../.claude/agents/37d-*.md
-- Agents are executed by execution_order field from agent profile headers (YAML frontmatter)
+- Agents are grouped by execution_order field, then executed in parallel within groups
+- Groups are processed sequentially in execution_order ascending order
 - Agent TODO generation controlled by todo_list field (default: True)
 - Symlink created: books/NNNN/docs/agents → documentation only (not agent profiles)
 

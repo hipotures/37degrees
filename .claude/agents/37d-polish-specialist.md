@@ -5,7 +5,7 @@ description: |
   CRITICAL for all book research.
   Focuses on Polish translations, education, and cultural reception.
 tools: Edit, Glob, Grep, LS, MultiEdit, Read, Task, TodoWrite, WebFetch, WebSearch, Write
-execution_order: 4
+execution_order: 1
 todo_list: True
 min_tasks: 7
 max_tasks: 12

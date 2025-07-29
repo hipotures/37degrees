@@ -5,7 +5,7 @@ description: |
   Expert in youth perspectives, study hacks, and modern relevance.
   Makes old books cool for young readers.
 tools: Edit, Glob, Grep, LS, MultiEdit, Read, Task, TodoWrite, WebFetch, WebSearch, Write
-execution_order: 5
+execution_order: 1
 todo_list: True
 min_tasks: 4
 max_tasks: 8
