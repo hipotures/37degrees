@@ -30,11 +30,11 @@ VARIABLES used in this workflow:
 <instructions>
 1.1. PARSE book title from user input
 1.2. FIND book folder matching the title in books/ directory
-1.3. EXECUTE Bash command: ln -sf ../../../docs/agents books/${book_folder_path}/docs/agents
-1.4. EXECUTE Bash command: cd ${book_folder_path}
-1.5. EXECUTE Bash command: pwd (verify you are in book directory)
+1.3. EXECUTE exactly this Bash command: ln -sf ../../../docs/agents books/${book_folder_path}/docs/agents
+1.4. EXECUTE exactly this Bash command: cd ${book_folder_path}
+1.5. EXECUTE exactly this Bash command: pwd (verify you are in book directory)
 1.6. READ book.yaml to confirm book metadata
-1.7. EXECUTE Bash command: mkdir -p docs/ docs/findings/ docs/todo/
+1.7. EXECUTE exactly this Bash command: mkdir -p docs/ docs/findings/ docs/todo/
 </instructions>
 
 <note>
@@ -214,7 +214,6 @@ FOR EACH agent in discovered agent_list:
 3. IF agent has no TODO file (todo_list: False):
    EXECUTE agent using Task tool with prompt:
    "Use ${agent_name} to research '${book_title}' by ${author} (${year})
-    This agent creates tasks dynamically - no predefined TODO file.
     Follow your agent profile instructions to complete your research.
     Generate comprehensive findings file when complete."
     

@@ -196,15 +196,13 @@ This report synthesized data from the following searches:
 
 ## Research Metadata
 This report synthesized data from the following searches:
-```
-[List each NEW query performed by this agent, one per line]
-[Do NOT include queries from other agents' Research Metadata]
-[Example:]
-"George Orwell" "Eileen Blair" correspondence 1943 wartime letters archive
-"Animal Farm" manuscript typescript V-1 bomb damage London 1944
-[... all queries performed during THIS deep research session ...]
-```
-```
+
+- [List each NEW query performed by this agent as separate list items]
+- [Do NOT include queries from other agents' Research Metadata]
+- [Example:]
+- "George Orwell" "Eileen Blair" correspondence 1943 wartime letters archive
+- "Animal Farm" manuscript typescript V-1 bomb damage London 1944
+- [... all queries performed during THIS deep research session ...]
 
 ## SEARCH STRATEGIES
 

@@ -20,6 +20,9 @@ When an agent is executed, they are positioned in the specific book folder (e.g.
 ├── prompts/                    # Generated AI prompts
 └── docs/                       # Research documentation (MAIN WORK AREA)
     ├── book-research-prompt.md           # Initial research prompt
+    ├── agents/                           # Agent workflow documentation
+    │   ├── WORKFLOW.md                   # Agent execution workflow
+    │   └── research-report-prompt.md     # Research report template
     ├── findings/                         # AGENT OUTPUT FILES
     │   ├── 37d-facts-hunter_findings.md
     │   ├── 37d-symbol-analyst_findings.md
