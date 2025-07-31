@@ -54,7 +54,6 @@ with open(debug_filename, 'w', encoding='utf-8') as debug_f:
     json.dump(data, debug_f, indent=2)
 debug_log(f"Saved debug data to {debug_filename}")
 
-# Find the search_history folder
 search_history_folder = Path(cwd) / 'search_history'
 
 debug_log(f"search_history_folder: {search_history_folder}")

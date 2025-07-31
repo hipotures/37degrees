@@ -1,0 +1,105 @@
+{
+  "sceneDescription": {
+    "setting": {
+      "time": "1879 spring, morning",
+      "location": "Prestigious commercial street in Warsaw city center, Congress Poland, with elegant storefronts and tree-lined sidewalks",
+      "weather": "Bright spring day with new growth"
+    },
+    "characters": [
+      {
+        "appearance": "Young couple in their 20s, well-dressed, happy expressions",
+        "clothing": "Modern spring attire - man in new suit, woman in fashionable walking dress",
+        "position": "Walking arm in arm past shuttered shop",
+        "action": "Chatting animatedly, not noticing the closed establishment"
+      },
+      {
+        "appearance": "Elderly clerk in his 60s, aged further, wearing mourning band",
+        "clothing": "Worn black coat, simple cap",
+        "position": "Standing across street watching the closed shop",
+        "action": "Holding small bouquet of flowers, head bowed"
+      },
+      {
+        "appearance": "New merchant in his 30s, eager expression",
+        "clothing": "Businessman's attire",
+        "position": "At neighboring shop arranging new window display",
+        "action": "Hanging new merchandise, representing continuity of commerce"
+      }
+    ],
+    "scene": {
+      "mainElements": "The once-grand haberdashery now closed with boards over windows, life continuing around it, old clerk paying respects while new generation passes obliviously",
+      "details": "Shop windows boarded up, fading elegant signage above door, new green leaves on street trees, fresh paint on neighboring buildings, flower sellers with spring blooms, carriages passing, modern fashions on pedestrians, old clerk's flowers matching those once sold in shop window, dust gathering on door handles, no text or letters visible",
+      "background": "Busy commercial street continuing its life, church spires unchanged, new construction visible",
+      "atmosphere": "Life's continuity despite individual tragedies, memory versus forgetting, the relentless march of progress"
+    },
+    "composition": {
+      "cameraAngle": "Street view showing both the closed shop and continuing life",
+      "focus": "The contrast between the mourning clerk and oblivious new generation",
+      "depth": "Street life in foreground, closed shop in middle, city continuing in background"
+    }
+  },
+  "colorPalette": {
+    "primary": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "secondary": [
+      "sepia tones",
+      "aged paper"
+    ],
+    "background": "cream or aged paper",
+    "usageNotes": "Primarily monochromatic, occasional sepia wash",
+    "saturation": "none to minimal",
+    "contrast": "high through line density"
+  },
+  "lineArt": {
+    "style": "precise engraving lines",
+    "weight": "very fine, built up in layers",
+    "color": "black ink",
+    "texture": "crosshatching, stippling",
+    "edgeTreatment": "precise, controlled"
+  },
+  "lighting": {
+    "type": "classical, theatrical",
+    "direction": "three-quarter lighting",
+    "intensity": "dramatic through line density",
+    "shadows": {
+      "style": "built through crosshatching",
+      "color": "black line density",
+      "opacity": "varied through technique"
+    },
+    "highlights": "white paper showing through"
+  },
+  "rendering": {
+    "technique": "steel engraving simulation",
+    "texture": "fine line patterns throughout",
+    "detailLevel": "extremely high, meticulous",
+    "finish": "printed illustration quality"
+  },
+  "perspective": "classical, accurate",
+  "mood": {
+    "overall": "formal, literary, refined",
+    "emotion": "dignity, propriety, narrative drama",
+    "tempo": "measured, contemplative",
+    "keywords": [
+      "classical",
+      "refined",
+      "literary",
+      "formal",
+      "dignified"
+    ]
+  },
+  "stylePrecedents": [
+    "Gustave Doré",
+    "John Tenniel",
+    "George Cruikshank"
+  ],
+  "technicalSpecifications": {
+    "resolution": {
+      "aspectRatio": "9:16",
+      "minWidth": 1080,
+      "minHeight": 1920,
+      "unit": "pixels"
+    },
+    "orientation": "Portrait/Vertical"
+  }
+}

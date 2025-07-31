@@ -1,0 +1,101 @@
+{
+  "sceneDescription": {
+    "setting": {
+      "time": "1930s Moscow, twilight, several days after learning of writer's fate",
+      "location": "Alexander Garden near Kremlin walls, secluded park area",
+      "weather": "Cool evening with deep shadows from surrounding trees"
+    },
+    "characters": [
+      {
+        "appearance": "Elegant woman, early 30s, beautiful features, now showing signs of distress, haunted expression",
+        "clothing": "Dark coat over simple dress, hair less perfectly styled, hands ungloved",
+        "position": "Standing beside ornate park bench, looking toward distant lights",
+        "action": "Clutching small object in hands, speaking aloud to empty air"
+      },
+      {
+        "appearance": "Strange man, appears suddenly, tall and lean with unusual features",
+        "clothing": "Dark formal clothing, appears well-dressed but somehow unsettling",
+        "position": "Emerging from shadows between trees, approaching cautiously",
+        "action": "Walking toward woman with measured steps, extending one hand in greeting"
+      }
+    ],
+    "scene": {
+      "mainElements": "Moscow park setting with ornate benches, mature trees, decorative lampposts beginning to glow",
+      "details": "Wrought iron park furniture, gravel pathways, fallen autumn leaves scattered on ground, distant glow from Kremlin lights, ornate lamp posts casting pools of warm light, shadows deepening between trees",
+      "background": "Kremlin walls visible through trees, distant Moscow buildings with lit windows, other park paths empty in evening hour",
+      "atmosphere": "Moment of fateful decision in gathering darkness, desperation meeting opportunity, beautiful park setting becoming stage for supernatural encounter, no text or letters visible"
+    },
+    "composition": {
+      "cameraAngle": "Medium shot capturing both figures with park and city backdrop",
+      "focus": "Woman's desperate expression as mysterious figure approaches",
+      "depth": "Foreground: park bench and scattered autumn leaves; middle ground: two figures meeting in twilight; background: Kremlin walls and illuminated Moscow cityscape"
+    }
+  },
+  "colorPalette": {
+    "primary": [
+      "muted blues",
+      "soft purples",
+      "misty grays"
+    ],
+    "secondary": [
+      "pale golds",
+      "dusty roses",
+      "seafoam greens"
+    ],
+    "background": "gradient washes, nebulous",
+    "usageNotes": "Soft, dreamy colors that blend into each other",
+    "saturation": "low to medium",
+    "contrast": "soft, hazy"
+  },
+  "lineArt": {
+    "style": "fluid, dissolving",
+    "weight": "varied, sometimes fading",
+    "color": "soft, often colored lines",
+    "texture": "smooth, organic",
+    "edgeTreatment": "soft, sometimes undefined"
+  },
+  "lighting": {
+    "type": "otherworldly, multiple sources",
+    "direction": "illogical, dreamlike",
+    "intensity": "soft, glowing",
+    "shadows": {
+      "style": "soft, sometimes defying physics",
+      "color": "colored shadows",
+      "opacity": "translucent"
+    },
+    "highlights": "ethereal glows"
+  },
+  "rendering": {
+    "technique": "smooth blending, sfumato",
+    "texture": "soft, cloud-like",
+    "detailLevel": "selective focus, some areas sharp, others dissolving",
+    "finish": "dreamlike, atmospheric"
+  },
+  "perspective": "impossible, shifting, non-Euclidean",
+  "mood": {
+    "overall": "mysterious, contemplative, otherworldly",
+    "emotion": "wonder, unease, transcendence",
+    "tempo": "floating, timeless",
+    "keywords": [
+      "mysterious",
+      "dreamlike",
+      "surreal",
+      "metaphysical",
+      "transcendent"
+    ]
+  },
+  "stylePrecedents": [
+    "Salvador Dalí",
+    "René Magritte",
+    "Remedios Varo"
+  ],
+  "technicalSpecifications": {
+    "resolution": {
+      "aspectRatio": "9:16",
+      "minWidth": 1080,
+      "minHeight": 1920,
+      "unit": "pixels"
+    },
+    "orientation": "Portrait/Vertical"
+  }
+}

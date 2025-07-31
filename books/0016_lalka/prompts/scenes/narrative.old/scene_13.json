@@ -1,0 +1,35 @@
+{
+  "sceneDescription": {
+    "title": "Garden Confession Under Spring Blossoms",
+    "setting": {
+      "time": "1879, late spring afternoon",
+      "location": "Private garden behind aristocratic residence with blooming fruit trees and formal flower beds",
+      "weather": "Warm spring day with apple blossoms falling like snow"
+    },
+    "characters": [
+      {
+        "appearance": "Middle-aged man, 40s, tall athletic build, formal day wear, expression of desperate vulnerability",
+        "clothing": "Dark morning coat, striped trousers, white shirt with high collar, leather gloves in hands",
+        "position": "Standing beside garden bench, leaning slightly forward in supplicating posture",
+        "action": "Speaking with passionate intensity, declaring love with complete emotional exposure"
+      },
+      {
+        "appearance": "Young woman, early 20s, ethereally beautiful, pale complexion, golden hair catching sunlight",
+        "clothing": "Light spring dress in pale yellow silk, white parasol, small straw hat with flowers, kid gloves",
+        "position": "Seated on marble garden bench, maintaining perfect composure and emotional distance",
+        "action": "Listening to passionate declaration with polite but cold expression, holding parasol as barrier"
+      }
+    ],
+    "scene": {
+      "mainElements": "Formal garden with geometric flower beds, marble statuary, gravel pathways, blooming fruit trees creating natural cathedral of white and pink blossoms",
+      "details": "Apple and cherry blossoms falling like confetti around the scene, formal topiary bushes trimmed into perfect shapes, fountain in background with water sparkling in sunlight, gardening tools abandoned nearby suggesting private moment, stone urns overflowing with spring flowers, bees gathering nectar from blossoms",
+      "background": "Elegant residence visible through trees, formal garden extending into distance with more statuary and flower beds",
+      "atmosphere": "Beauty of spring renewal contrasting with emotional coldness, passionate love meeting immovable indifference, romantic setting emphasizing tragic gap between desire and response, no text or letters visible"
+    },
+    "composition": {
+      "cameraAngle": "Medium shot showing both figures with falling blossoms around them",
+      "focus": "The contrast between his emotional vulnerability and her marble-like composure",
+      "depth": "Foreground: falling apple blossoms, middle: two figures in emotional tableau, background: formal garden extending into distance"
+    }
+  }
+}

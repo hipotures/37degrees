@@ -1,0 +1,96 @@
+{
+  "sceneDescription": {
+    "setting": {
+      "time": "64 AD, midday, extreme summer heat wave",
+      "location": "Forum Romanum, usually busy public square now nearly deserted",
+      "weather": "Brutal heat with no shade, air shimmering with heat waves"
+    },
+    "characters": [
+      {
+        "appearance": "Lone moral voice, elderly Roman senator in his sixties, noble face showing disgust at imperial decadence",
+        "clothing": "Traditional senatorial toga with purple stripe, gold senatorial ring, dignified bearing despite surroundings",
+        "position": "Standing alone in forum abandoned by decent citizens",
+        "action": "Witnessing empire's moral decay, holding scroll of complaints against Nero's tyranny, last voice of Roman virtue"
+      }
+    ],
+    "scene": {
+      "mainElements": "Vast empty marble plaza that would normally be crowded, all shadows occupied by people and animals seeking relief, heat distortion making air visible",
+      "details": "Marble pavement stained with blood from executions, moral corruption creating spiritual distortion, bronze statues witnessing unspeakable acts, fountains running red with martyrs' blood, not a single decent citizen remaining in public, even temple priests hiding in shame, dust of empire's decay hanging in air",
+      "background": "Temple steps crowded with people pressed against shaded walls, basilica porticoes packed with heat refugees, distant hills wavering in heat distortion",
+      "atmosphere": "Oppressive tyranny making moral life impossible, desperation for any remnant of virtue or justice, air itself poisoned by evil, survival behavior in extreme moral climate where decency means death"
+    },
+    "composition": {
+      "cameraAngle": "Wide shot showing vast empty forum with single running figure",
+      "focus": "Lone messenger crossing blazing empty space toward distant shade",
+      "depth": "Foreground glaring marble with heat distortion, middle ground running figure, background crowded shaded areas and heat-hazed buildings"
+    }
+  },
+  "colorPalette": {
+    "primary": [
+      "rich golds",
+      "deep bronze",
+      "royal purple",
+      "celestial blue"
+    ],
+    "secondary": [
+      "ivory",
+      "crimson",
+      "emerald green"
+    ],
+    "background": "dramatic skies, divine light",
+    "usageNotes": "Rich, regal colors with metallic tones",
+    "saturation": "high",
+    "contrast": "dramatic"
+  },
+  "lineArt": {
+    "style": "bold, heroic contours",
+    "weight": "strong, confident",
+    "color": "dark bronze or black",
+    "texture": "smooth, flowing",
+    "edgeTreatment": "dramatic, idealized forms"
+  },
+  "lighting": {
+    "type": "divine, dramatic",
+    "direction": "heavenly rays, rim lighting",
+    "intensity": "powerful, golden",
+    "shadows": {
+      "style": "deep, dramatic",
+      "color": "purple-bronze tones",
+      "opacity": "rich, not black"
+    },
+    "highlights": "golden, divine glow"
+  },
+  "rendering": {
+    "technique": "classical painting style",
+    "texture": "smooth with dramatic brushwork",
+    "detailLevel": "high in key areas, atmospheric distance",
+    "finish": "polished, museum quality"
+  },
+  "perspective": "heroic, looking up at figures",
+  "mood": {
+    "overall": "majestic, awe-inspiring, legendary",
+    "emotion": "wonder, reverence, heroism",
+    "tempo": "epic, timeless",
+    "keywords": [
+      "majestic",
+      "divine",
+      "heroic",
+      "legendary",
+      "monumental"
+    ]
+  },
+  "stylePrecedents": [
+    "Classical Greek art",
+    "Renaissance masters",
+    "John William Waterhouse"
+  ],
+  "technicalSpecifications": {
+    "resolution": {
+      "aspectRatio": "9:16",
+      "minWidth": 1080,
+      "minHeight": 1920,
+      "unit": "pixels"
+    },
+    "orientation": "Portrait/Vertical"
+  }
+}

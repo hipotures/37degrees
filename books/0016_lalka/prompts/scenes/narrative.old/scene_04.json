@@ -1,0 +1,29 @@
+{
+  "sceneDescription": {
+    "title": "Scientific Passion in the Laboratory",
+    "setting": {
+      "time": "1878, late evening",
+      "location": "Private laboratory in back rooms of shop, filled with scientific instruments and chemical apparatus",
+      "weather": "Interior lit by multiple oil lamps and gas burners creating dramatic shadows"
+    },
+    "characters": [
+      {
+        "appearance": "Middle-aged man, 40s, tall athletic build, shirtsleeves rolled up revealing scarred forearms, intense concentration on face",
+        "clothing": "White shirt with rolled sleeves, dark trousers, leather apron stained with chemical marks, no jacket",
+        "position": "Standing at laboratory table covered with glass beakers and metal instruments",
+        "action": "Mixing chemical solutions in glass apparatus, taking precise measurements, observing reactions with scientific intensity"
+      }
+    ],
+    "scene": {
+      "mainElements": "Complex laboratory setup with glass tubing, metal stands holding beakers, bottles of various colored liquids, precision scales, scientific instruments gleaming in lamplight",
+      "details": "Shelves lined with glass containers filled with powders and solutions, scientific charts and diagrams pinned to walls, microscope on side table, notebooks filled with calculations and sketches, steam rising from heated beakers, prisms splitting lamplight into rainbow spectrums, brass instruments for measuring temperature and pressure",
+      "background": "Stone walls lined with scientific equipment, cases of geological specimens, dried plants hanging from ceiling beams, stacks of scientific journals",
+      "atmosphere": "Intense intellectual passion channeled into scientific pursuit, sense of man trying to unlock nature's secrets through pure reason, contrast between romantic yearning and rational methodology, no text or letters visible"
+    },
+    "composition": {
+      "cameraAngle": "Medium shot showing the scientist surrounded by his instruments",
+      "focus": "The man's hands working with precision instruments against glowing chemical reactions",
+      "depth": "Foreground: bubbling chemical apparatus, middle: scientist's concentrated expression, background: laboratory equipment extending into shadows"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sceneDescription": {
+    "setting": {
+      "time": "64 AD, midnight, violent thunderstorm",
+      "location": "Alban Hills outside Rome, exposed hilltop with scattered trees",
+      "weather": "Severe thunderstorm with lightning, driving rain, strong winds"
+    },
+    "characters": [
+      {
+        "appearance": "Emperor Nero in his thirties, corpulent build now showing fear, cruel face distorted by terror of approaching death",
+        "clothing": "Purple imperial robes disheveled and stained, golden laurel crown askew, jeweled rings on trembling hands",
+        "position": "Cowering in modest villa outside Rome, abandoned by Praetorian Guard",
+        "action": "Preparing for suicide as rebels approach, dagger in shaking hands, reciting theatrical lines about artist's death"
+      }
+    ],
+    "scene": {
+      "mainElements": "Dramatic lightning bolt illuminating entire landscape for split second, bent trees lashing in wind, sheep huddled together for protection",
+      "details": "World visible only in brief lightning flashes then plunging back to darkness, rain falling in sheets at sharp angle, thunder immediately following lightning showing storm center overhead, wind so strong grass and bushes flattened, temporary rivers forming from rainfall, air electric with storm energy",
+      "background": "Hills and valleys revealed momentarily in lightning then disappearing, Rome invisible in distance behind storm, sky filled with churning black clouds",
+      "atmosphere": "Divine justice unleashed through human rebellion, tyrant's vulnerability exposed, world transformed by overthrow of evil, dramatic end of imperial madness amid storm of retribution"
+    },
+    "composition": {
+      "cameraAngle": "Wide shot capturing lightning bolt illuminating entire scene",
+      "focus": "Crouched figure and flock revealed in brief lightning flash",
+      "depth": "Foreground wind-lashed vegetation, middle ground huddled figures behind boulder, background hills visible in lightning moment"
+    }
+  },
+  "colorPalette": {
+    "primary": [
+      "rich golds",
+      "deep bronze",
+      "royal purple",
+      "celestial blue"
+    ],
+    "secondary": [
+      "ivory",
+      "crimson",
+      "emerald green"
+    ],
+    "background": "dramatic skies, divine light",
+    "usageNotes": "Rich, regal colors with metallic tones",
+    "saturation": "high",
+    "contrast": "dramatic"
+  },
+  "lineArt": {
+    "style": "bold, heroic contours",
+    "weight": "strong, confident",
+    "color": "dark bronze or black",
+    "texture": "smooth, flowing",
+    "edgeTreatment": "dramatic, idealized forms"
+  },
+  "lighting": {
+    "type": "divine, dramatic",
+    "direction": "heavenly rays, rim lighting",
+    "intensity": "powerful, golden",
+    "shadows": {
+      "style": "deep, dramatic",
+      "color": "purple-bronze tones",
+      "opacity": "rich, not black"
+    },
+    "highlights": "golden, divine glow"
+  },
+  "rendering": {
+    "technique": "classical painting style",
+    "texture": "smooth with dramatic brushwork",
+    "detailLevel": "high in key areas, atmospheric distance",
+    "finish": "polished, museum quality"
+  },
+  "perspective": "heroic, looking up at figures",
+  "mood": {
+    "overall": "majestic, awe-inspiring, legendary",
+    "emotion": "wonder, reverence, heroism",
+    "tempo": "epic, timeless",
+    "keywords": [
+      "majestic",
+      "divine",
+      "heroic",
+      "legendary",
+      "monumental"
+    ]
+  },
+  "stylePrecedents": [
+    "Classical Greek art",
+    "Renaissance masters",
+    "John William Waterhouse"
+  ],
+  "technicalSpecifications": {
+    "resolution": {
+      "aspectRatio": "9:16",
+      "minWidth": 1080,
+      "minHeight": 1920,
+      "unit": "pixels"
+    },
+    "orientation": "Portrait/Vertical"
+  }
+}

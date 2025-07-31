@@ -1,0 +1,35 @@
+{
+  "sceneDescription": {
+    "title": "Confrontation at the Aristocratic Wedding",
+    "setting": {
+      "time": "1879, late spring",
+      "location": "Church wedding ceremony with elaborate floral decorations and society gathering",
+      "weather": "Bright spring morning flooding through stained glass windows"
+    },
+    "characters": [
+      {
+        "appearance": "Young woman, early 20s, ethereally beautiful in white bridal gown, pale as porcelain, golden hair crowned with orange blossoms",
+        "clothing": "Elaborate white silk wedding dress with long train, white veil of finest lace, pearl jewelry, white satin slippers",
+        "position": "Standing at altar beside aristocratic groom, facing away from congregation",
+        "action": "Participating in wedding ceremony with perfect composure, completely removed from any emotional connection"
+      },
+      {
+        "appearance": "Middle-aged man, 40s, standing among wedding guests, face showing anguish and final realization",
+        "clothing": "Formal morning coat with gray striped trousers, white shirt and tie, top hat held in trembling hands",
+        "position": "Standing in church pew among other wedding guests, isolated by his emotional turmoil",
+        "action": "Watching woman he loves marry another man, experiencing moment of ultimate defeat and clarity"
+      }
+    ],
+    "scene": {
+      "mainElements": "Ornate church interior with Gothic architecture, altar decorated with white flowers and candles, priest in ceremonial robes conducting wedding service, congregation of Warsaw's elite in formal attire",
+      "details": "Sunlight streaming through stained glass windows creating rainbow patterns on stone floor, elaborate flower arrangements of white roses and lilies, organ music filling vaulted space, women in elegant hats and men in morning dress, incense smoke rising from altar, golden chalices and ceremonial objects gleaming",
+      "background": "Gothic arches and religious statuary, wooden pews filled with aristocratic society, religious paintings depicting sacred scenes",
+      "atmosphere": "Moment of absolute finality and recognition of impossible dream, beauty of religious ceremony contrasted with personal tragedy, formal social ritual masking private emotional devastation, no text or letters visible"
+    },
+    "composition": {
+      "cameraAngle": "Wide shot showing the entire wedding ceremony with focus on both bride and suffering observer",
+      "focus": "The gulf between the untouchable bride and the man whose life she has defined",
+      "depth": "Foreground: congregation including suffering man, middle: wedding ceremony at altar, background: Gothic church architecture"
+    }
+  }
+}

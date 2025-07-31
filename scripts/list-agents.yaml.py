@@ -10,7 +10,7 @@ from pathlib import Path
 
 def extract_agent_metadata():
     agents = []
-    agents_dir = Path('.claude/agents')
+    agents_dir = Path('config/prompt/agents')
     
     if not agents_dir.exists():
         return agents

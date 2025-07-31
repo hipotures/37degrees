@@ -1,0 +1,35 @@
+{
+  "sceneDescription": {
+    "title": "Underground Warsaw - The Forgotten District",
+    "setting": {
+      "time": "1878, dusk",
+      "location": "Powiśle district by Vistula River, impoverished area with crowded tenements and narrow muddy streets",
+      "weather": "Cold autumn evening with mist rising from the river"
+    },
+    "characters": [
+      {
+        "appearance": "Middle-aged man, 40s, well-dressed but walking carefully through rough neighborhood, concerned expression",
+        "clothing": "Dark overcoat and hat, leather gloves, walking stick, clothes marking him as outsider from better district",
+        "position": "Walking cautiously along muddy street between ramshackle buildings",
+        "action": "Observing poverty around him with mixture of shock and determination, occasionally stopping to help struggling residents"
+      },
+      {
+        "appearance": "Working-class man, 30s, powerful build, clothes stained with labor, weathered hands and face",
+        "clothing": "Rough wool jacket with patches, thick boots, cloth cap, leather apron showing craft work",
+        "position": "Emerging from basement workshop carrying heavy tools",
+        "action": "Pausing to nod respectfully to the well-dressed visitor, wiping sweat from brow"
+      }
+    ],
+    "scene": {
+      "mainElements": "Narrow cobblestone streets with deep puddles, multi-story tenement buildings with laundry hanging from windows, basement workshops with forge fires glowing, river mist in background",
+      "details": "Children playing in muddy streets despite cold, women carrying water buckets and bundles of washing, men gathered around small fires for warmth, wooden stairs leading to cramped upper floors, smoke rising from numerous chimneys, smell of forge work and river dampness, sounds of hammering and working from basement shops",
+      "background": "Vistula River visible in distance with cargo boats, bridge connecting to better parts of city, factory smokestacks on horizon",
+      "atmosphere": "Harsh reality of working-class life contrasted with visitor's comfortable world, dignity maintained despite poverty, sense of hidden Warsaw beneath elegant surface, no text or letters visible"
+    },
+    "composition": {
+      "cameraAngle": "Wide shot showing the contrast between well-dressed visitor and rough neighborhood",
+      "focus": "The interaction between different social worlds meeting on these streets",
+      "depth": "Foreground: muddy street and working people, middle: the visiting gentleman, background: river and industrial landscape"
+    }
+  }
+}

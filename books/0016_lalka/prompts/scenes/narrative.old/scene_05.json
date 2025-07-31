@@ -1,0 +1,41 @@
+{
+  "sceneDescription": {
+    "title": "Aristocratic Salon Gathering in Winter Palace",
+    "setting": {
+      "time": "1878, evening",
+      "location": "Luxurious aristocratic salon with baroque furniture and portraits of ancestors",
+      "weather": "Warm candlelit interior while snow falls against tall windows"
+    },
+    "characters": [
+      {
+        "appearance": "Young woman, early 20s, ethereally beautiful, pale complexion, golden hair in elegant updo, cold blue eyes",
+        "clothing": "Pale blue silk gown with intricate embroidery, pearl and diamond jewelry, silk slippers",
+        "position": "Seated on ornate sofa in center of salon, surrounded by admiring guests",
+        "action": "Holding delicate porcelain teacup, speaking with practiced social grace while maintaining emotional distance"
+      },
+      {
+        "appearance": "Elderly woman, 60s, dignified bearing, silver hair in elaborate coiffure, sharp intelligent eyes",
+        "clothing": "Black silk dress with jet beading, multiple strands of pearls, lace shawl",
+        "position": "Seated in high-backed chair observing the gathering with shrewd attention",
+        "action": "Watching younger guests with calculating expression, occasionally making sharp comments"
+      },
+      {
+        "appearance": "Young man, late 20s, slender build, fashionable mustache, pale complexion suggesting indoor life",
+        "clothing": "Evening dress coat with silk lapels, white bow tie, polished dancing shoes, jeweled cufflinks",
+        "position": "Standing near fireplace holding crystal glass of wine",
+        "action": "Gesturing dramatically while recounting some fashionable story to gathered listeners"
+      }
+    ],
+    "scene": {
+      "mainElements": "Opulent salon with crystal chandeliers, baroque furniture upholstered in silk and gold, oil paintings of noble ancestors in gilded frames, marble fireplace with roaring fire",
+      "details": "Persian carpets covering polished parquet floors, elaborate flower arrangements in crystal vases, fine porcelain tea service on silver trays, guests in expensive evening wear engaging in refined conversation, candles in silver candelabras casting warm light, heavy silk curtains at tall windows showing winter night outside",
+      "background": "Portraits of aristocratic ancestors watching from walls, bookcases filled with leather-bound volumes, ornate mirrors reflecting candlelight",
+      "atmosphere": "Refined elegance masking underlying decay and social stagnation, sense of beautiful but hollow ritual performance, world of privilege disconnected from reality outside, no text or letters visible"
+    },
+    "composition": {
+      "cameraAngle": "Wide shot capturing the full salon with its gathered aristocrats",
+      "focus": "The beautiful young woman as centerpiece of the social gathering",
+      "depth": "Foreground: ornate furniture and gathered guests, middle: central figure on sofa, background: ancestral portraits and luxury appointments"
+    }
+  }
+}

@@ -1,10 +1,7 @@
-#!/bin/bash
-# Simple test hook that logs to a file
+#\!/bin/bash
+# Ultra minimal hook - just log and exit
 
-echo "Hook executed at $(date)" >> /tmp/hook-test.log
-echo "Input received:" >> /tmp/hook-test.log
-cat >> /tmp/hook-test.log
-echo "---" >> /tmp/hook-test.log
+echo "Hook called at $(date)" >> /tmp/hook-minimal.log
 
-# Return empty JSON
-echo '{}'
+exit 0
+EOF < /dev/null

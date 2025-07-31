@@ -1,0 +1,35 @@
+{
+  "sceneDescription": {
+    "title": "The Windmill Giants Approach",
+    "setting": {
+      "time": "Early 1600s Spain, late summer, late afternoon",
+      "location": "Open plain with windmills, La Mancha region, Spain",
+      "weather": "Strong steady wind, dramatic clouds building"
+    },
+    "characters": [
+      {
+        "appearance": "Thin knight, late 40s, eyes wide with excitement and determination",
+        "clothing": "Full armor hastily donned, plumed helmet secured, lance ready",
+        "position": "Mounted on thin horse, body tensed for charge",
+        "action": "Pointing lance at windmills, leaning forward aggressively in saddle"
+      },
+      {
+        "appearance": "Stocky squire, early 40s, alarmed expression",
+        "clothing": "Peasant clothes with traveling cloak whipping in wind",
+        "position": "On donkey beside knight, reaching out with one hand",
+        "action": "Gesturing frantically at windmills, mouth open in protest"
+      }
+    ],
+    "scene": {
+      "mainElements": "Line of white windmills on ridge, their blades turning steadily in wind, knight preparing to charge while squire tries to stop him, dramatic confrontation brewing, no text or letters visible",
+      "details": "Four large windmills with canvas sails catching wind, wheat fields rippling like golden sea, dust devils swirling on road, knight's lance lowered for attack position, horse's mane and tail streaming, squire's donkey backing away nervously, scattered rocks and scrub brush, no text or letters visible",
+      "background": "Storm clouds gathering on horizon, late afternoon sun creating long shadows from windmills",
+      "atmosphere": "Tension between reality and delusion reaching peak, wind adding drama to scene, sense of impending disaster mixed with heroic determination, comedy and tragedy about to collide, no text or letters visible"
+    },
+    "composition": {
+      "cameraAngle": "Dynamic diagonal view showing both riders and windmills",
+      "focus": "Knight's aggressive posture contrasted with squire's alarm",
+      "depth": "Foreground captures mounted figures, middle ground empty space of charge path, background dominated by turning windmills"
+    }
+  }
+}

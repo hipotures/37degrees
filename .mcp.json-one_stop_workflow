@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "playwright-headless": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "@playwright/mcp@latest",
+        "--headless",
+        "--user-data-dir=/home/xai/DEV/ms-playwright/mcp-chrome-profile",
+        "--no-sandbox",
+        "--device=Galaxy S24",
+        "--output-dir=/tmp/playwright-mcp-files",
+        "--save-session",
+        "--user-agent=Mozilla/5.0 (Linux; Android 14; SM-S928B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+      ],
+      "env": {}
+    }
+  }
+}

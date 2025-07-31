@@ -1,0 +1,47 @@
+{
+  "sceneDescription": {
+    "title": "The Puppet Show Catastrophe",
+    "setting": {
+      "time": "Early 1600s Spain, evening",
+      "location": "Courtyard of busy inn, town along La Mancha trade route, central Spain",
+      "weather": "Warm evening, torches lit for performance"
+    },
+    "characters": [
+      {
+        "appearance": "Thin knight, late 40s, face transfixed with concern",
+        "clothing": "Full armor hastily donned over inn clothes",
+        "position": "Standing among audience, sword drawn",
+        "action": "Leaping toward puppet stage with sword raised"
+      },
+      {
+        "appearance": "Puppet master, 40s, theatrical beard, horrified expression",
+        "clothing": "Colorful performer's outfit with bells",
+        "position": "Behind puppet stage controlling strings",
+        "action": "Trying to protect puppets with outstretched arms"
+      },
+      {
+        "appearance": "Inn crowd, mixed ages and classes",
+        "clothing": "Various Spanish town and country attire",
+        "position": "Seated on benches and standing around stage",
+        "action": "Reacting with shock, some laughing, others alarmed"
+      },
+      {
+        "appearance": "Stocky squire, early 40s, mortified",
+        "clothing": "Best peasant clothes for inn stay",
+        "position": "Rising from bench in audience",
+        "action": "Reaching out to stop master, mouth open in protest"
+      }
+    ],
+    "scene": {
+      "mainElements": "Puppet show in progress with knight attacking puppet villains, audience in chaos, puppet master defending his livelihood, torchlight creating dramatic shadows, no text or letters visible",
+      "details": "Elaborate puppet stage with painted backdrop, marionette knights and Moors in battle, strings tangling as puppets fall, broken puppet pieces flying, overturned benches, spilled wine cups, children crying, dogs barking at commotion, torches flickering with movement, no text or letters visible",
+      "background": "Inn buildings forming courtyard, other guests watching from balconies, stars beginning to appear",
+      "atmosphere": "Comedy turning to destruction, imagination overwhelming reality again, public embarrassment and property damage, entertainment becoming too real for one viewer, mix of horror and hilarity, no text or letters visible"
+    },
+    "composition": {
+      "cameraAngle": "Dynamic angle showing knight mid-leap toward puppet stage",
+      "focus": "Sword about to strike puppets as master tries to protect them",
+      "depth": "Foreground shows reacting audience, middle ground captures attacking knight, background reveals puppet stage destruction"
+    }
+  }
+}

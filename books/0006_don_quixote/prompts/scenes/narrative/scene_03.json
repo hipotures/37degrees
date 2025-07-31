@@ -1,0 +1,29 @@
+{
+  "sceneDescription": {
+    "title": "The Gentleman's Library",
+    "setting": {
+      "time": "Early 1600s Spain, late afternoon",
+      "location": "Study room in modest hidalgo manor house, La Mancha, Spain",
+      "weather": "Golden afternoon light streaming through window"
+    },
+    "characters": [
+      {
+        "appearance": "Thin gentleman, late 40s, gaunt face with prominent nose, graying beard, intense eyes",
+        "clothing": "Worn black doublet, white collar, dark breeches, old but clean appearance",
+        "position": "Seated at wooden desk surrounded by towering book piles",
+        "action": "Completely absorbed in reading large leather-bound book, one hand turning page, other supporting head"
+      }
+    ],
+    "scene": {
+      "mainElements": "Cramped study overwhelmed with books stacked floor to ceiling, wooden desk covered in open volumes, single window casting dramatic light, Spanish gentleman reading intently, no text or letters visible",
+      "details": "Hundreds of leather-bound books in various states of wear, some fallen in untidy piles, quill and inkwell on desk, half-eaten bread and cheese forgotten on plate, dust motes dancing in window light, old armor pieces visible in corner, sword mounted on wall, maps and illustrations tacked to walls, no text or letters visible",
+      "background": "Dark wood paneling, heavy wooden beams overhead, glimpse of Spanish countryside through window",
+      "atmosphere": "Scholarly obsession and isolation, warm golden light contrasting with shadowy corners, sense of man lost in fictional worlds, neglected reality evident in room's disorder, no text or letters visible"
+    },
+    "composition": {
+      "cameraAngle": "Medium shot from doorway perspective looking into room",
+      "focus": "Gentleman at desk illuminated by window light",
+      "depth": "Foreground shows book stacks framing view, middle ground features reading figure, background reveals window with landscape"
+    }
+  }
+}

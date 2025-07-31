@@ -1,0 +1,96 @@
+{
+  "sceneDescription": {
+    "setting": {
+      "time": "64 AD, early morning, first hour after sunrise",
+      "location": "Public thermae complex, main caldarium chamber",
+      "weather": "Cool morning air meeting warm steam, creating misty atmosphere"
+    },
+    "characters": [
+      {
+        "appearance": "Gaius Petronius, elegant man in his forties, refined patrician features, perfectly groomed graying hair",
+        "clothing": "Finest linen bath wrap, gold rings on fingers, expensive perfumed oils nearby",
+        "position": "Standing at edge of private heated pool in his luxurious villa",
+        "action": "Contemplating philosophy and aesthetics while preparing for morning bath, embodying refined Roman culture"
+      }
+    ],
+    "scene": {
+      "mainElements": "Large heated pool with steam rising from surface, arched stone architecture, bronze heating pipes visible along walls",
+      "details": "Thick steam clouds catching early sunlight streaming through high windows, marble steps descending into water, bronze oil strigils hanging from hooks, folded linens on stone benches, water drops condensing on stone walls, oil lamps reflecting in pool surface",
+      "background": "Vaulted ceiling with circular windows, hypocaust heating system pipes, distant doorways leading to other bath chambers",
+      "atmosphere": "Warm humid air thick with expensive perfumed steam, luxury and refinement contrasting with growing darkness in empire, meditative quiet where arbiter of elegance contemplates beauty and decay"
+    },
+    "composition": {
+      "cameraAngle": "Low angle from pool level looking up at figure",
+      "focus": "Steam-shrouded figure backlit by window light",
+      "depth": "Foreground steaming water surface, middle ground figure in mist, background arched architecture fading into steam"
+    }
+  },
+  "colorPalette": {
+    "primary": [
+      "rich golds",
+      "deep bronze",
+      "royal purple",
+      "celestial blue"
+    ],
+    "secondary": [
+      "ivory",
+      "crimson",
+      "emerald green"
+    ],
+    "background": "dramatic skies, divine light",
+    "usageNotes": "Rich, regal colors with metallic tones",
+    "saturation": "high",
+    "contrast": "dramatic"
+  },
+  "lineArt": {
+    "style": "bold, heroic contours",
+    "weight": "strong, confident",
+    "color": "dark bronze or black",
+    "texture": "smooth, flowing",
+    "edgeTreatment": "dramatic, idealized forms"
+  },
+  "lighting": {
+    "type": "divine, dramatic",
+    "direction": "heavenly rays, rim lighting",
+    "intensity": "powerful, golden",
+    "shadows": {
+      "style": "deep, dramatic",
+      "color": "purple-bronze tones",
+      "opacity": "rich, not black"
+    },
+    "highlights": "golden, divine glow"
+  },
+  "rendering": {
+    "technique": "classical painting style",
+    "texture": "smooth with dramatic brushwork",
+    "detailLevel": "high in key areas, atmospheric distance",
+    "finish": "polished, museum quality"
+  },
+  "perspective": "heroic, looking up at figures",
+  "mood": {
+    "overall": "majestic, awe-inspiring, legendary",
+    "emotion": "wonder, reverence, heroism",
+    "tempo": "epic, timeless",
+    "keywords": [
+      "majestic",
+      "divine",
+      "heroic",
+      "legendary",
+      "monumental"
+    ]
+  },
+  "stylePrecedents": [
+    "Classical Greek art",
+    "Renaissance masters",
+    "John William Waterhouse"
+  ],
+  "technicalSpecifications": {
+    "resolution": {
+      "aspectRatio": "9:16",
+      "minWidth": 1080,
+      "minHeight": 1920,
+      "unit": "pixels"
+    },
+    "orientation": "Portrait/Vertical"
+  }
+}

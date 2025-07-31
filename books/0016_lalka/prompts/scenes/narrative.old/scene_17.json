@@ -1,0 +1,29 @@
+{
+  "sceneDescription": {
+    "title": "The Devoted Clerk's Vigil",
+    "setting": {
+      "time": "1879, late evening",
+      "location": "Shop after hours, elderly clerk alone writing in personal diary by candlelight",
+      "weather": "Quiet night with street sounds muffled by closed shutters"
+    },
+    "characters": [
+      {
+        "appearance": "Elderly man, 60s, slight build, gray hair, wearing wire spectacles, gentle weathered face",
+        "clothing": "Simple vest over white shirt, sleeves rolled up, ink stains on fingers, pocket watch nearby",
+        "position": "Seated at small writing desk surrounded by mechanical toys, bent over handwritten journal",
+        "action": "Writing carefully in personal diary, pausing to choose words that express deep devotion and concern"
+      }
+    ],
+    "scene": {
+      "mainElements": "Quiet shop interior after closing, single candle providing warm circle of light, open diary with handwritten pages, mechanical toys arranged as silent audience to his writing",
+      "details": "Ink bottle and steel pen on desk, blotter paper with ink stains, several completed diary volumes stacked nearby, mechanical toys positioned as if listening to his thoughts, wax dripping from candle creating intimate atmosphere, shadows dancing on walls, shop goods covered with cloth for night",
+      "background": "Shop shelves with merchandise covered for evening, shop window with shutters closed, street quiet outside",
+      "atmosphere": "Intimate moment of private devotion and literary creation, elderly man recording his thoughts about master he serves, sense of unspoken love and loyalty expressed through written word, quiet dignity of faithful service, no text or letters visible"
+    },
+    "composition": {
+      "cameraAngle": "Close-up shot showing the diary writing and surrounding mechanical toys",
+      "focus": "The intimate act of writing personal thoughts and feelings",
+      "depth": "Foreground: open diary and writing hand, middle: clerk's concentrated expression, background: mechanical toys serving as silent witnesses"
+    }
+  }
+}

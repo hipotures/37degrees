@@ -1,0 +1,29 @@
+{
+  "sceneDescription": {
+    "title": "Village Square at Market Day",
+    "setting": {
+      "time": "Early 1600s Spain, late spring, mid-morning",
+      "location": "Central plaza of small La Mancha village, Spain",
+      "weather": "Bright sunshine, warm day"
+    },
+    "characters": [
+      {
+        "appearance": "Various villagers, mix of ages, Spanish peasants and merchants",
+        "clothing": "Period Spanish rural attire, women in long skirts with aprons, men in breeches and vests",
+        "position": "Scattered throughout market square, buying and selling",
+        "action": "Trading goods, examining produce, animated conversations"
+      }
+    ],
+    "scene": {
+      "mainElements": "Bustling village square with market stalls under canvas awnings, stone fountain in center, church with bell tower on one side, whitewashed buildings with wooden balconies surrounding plaza, cobblestone ground, no text or letters visible",
+      "details": "Market stalls displaying pottery, vegetables, bread, cheese wheels, hanging hams, woven baskets, earthenware jugs, donkeys carrying panniers, wooden carts loaded with produce, children playing near fountain, dogs wandering between stalls, pigeons pecking at dropped grain, no text or letters visible",
+      "background": "Spanish village architecture with terracotta roof tiles, narrow streets leading away from square, distant countryside visible between buildings",
+      "atmosphere": "Lively market day energy, sounds of haggling and laughter implied through animated gestures, authentic slice of 17th century Spanish village life, no text or letters visible"
+    },
+    "composition": {
+      "cameraAngle": "Elevated three-quarter view showing entire square",
+      "focus": "Market activity around central fountain",
+      "depth": "Foreground shows detailed market stalls, middle ground captures crowd activity, background displays surrounding architecture"
+    }
+  }
+}

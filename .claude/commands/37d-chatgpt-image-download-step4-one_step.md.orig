@@ -1,0 +1,194 @@
+# ChatGPT Image Download - Single Step Process
+
+**AUTOMATED EXECUTION: Claude must execute all steps using MCP Playwright tools and file operations. This is for downloading ONE image per execution from ChatGPT.**
+
+For book titled "[TITLE]" by "[AUTHOR]":
+
+## Overview
+
+This command creates a TODO list (if it doesn't exist) and downloads exactly ONE unrealized task per execution.
+
+## Flow
+
+1. **Check if TODO list exists** in `generated/` folder
+2. **If NO TODO exists**: Create complete TODO list with all conversations
+3. **Find first unrealized task** (marked with `[ ]`)
+4. **Download image** from that conversation
+5. **Mark task as completed** (change to `[x]`)
+
+## 1. Check and Create TODO List
+
+### Check for existing TODO list
+```bash
+ls -la /home/xai/DEV/37degrees/books/[BOOK_FOLDER]/generated/TODO.md
+```
+
+### If TODO doesn't exist, create it:
+
+**STEP 1: Navigate to ChatGPT Project**
+- Open ChatGPT project for the book
+- Scroll through ENTIRE conversation list to see all chats
+- **CRITICAL**: The page dynamically loads conversation list items as you scroll - they are NOT all loaded initially
+- **IMPORTANT**: Keep scrolling down until you see a chat with "scene_01" in the description - this indicates you've reached the end of all conversations
+- **CRITICAL**: Look at attached JSON file names to identify scenes (ignore chat titles)
+
+**STEP 2: Create TODO list file with ALL conversations**
+Create file: `/home/xai/DEV/37degrees/books/[BOOK_FOLDER]/generated/TODO.md`
+Example:
+**TODO Format - Each task on NEW LINE with checkbox:**
+```
+[ ] Tu pełna nazwa chata tytułu chata 1
+[ ] Tu pełna nazwa chata tytułu chata 2
+[ ] Tu pełna nazwa chata tytułu chata 3
+[ ] Tu pełna nazwa chata tytułu chata 4
+...
+[ ] Tu pełna nazwa chata tytułu chata N-2
+[ ] Tu pełna nazwa chata tytułu chata N-1
+[ ] Tu pełna nazwa chata tytułu chata N
+```
+
+**IMPORTANT TODO Creation Rules:**
+- Each line starts with `[ ]` (space between brackets)
+- Each conversation gets its own line
+- Include conversations with non-standard names
+- Include conversations with multiple images
+- Note special cases in task description
+- Save file as `/home/xai/DEV/37degrees/books/[BOOK_FOLDER]/generated/TODO.md`
+
+## 2. Find and Execute One Task
+
+### Read TODO file and find first unrealized task
+```bash
+grep -n "^\[ \]" /home/xai/DEV/37degrees/books/[BOOK_FOLDER]/generated/TODO.md | head -1
+```
+
+**IMPORTANT**: 
+- **DO NOT check if file already exists** - the TODO list determines what needs to be done
+- **Always download from ChatGPT** regardless of existing files in generated/ folder
+- If target filename already exists, create new filename with suffix (see naming rules below)
+
+### Execute the task:
+
+**STEP 1: Navigate to Specific Conversation**
+- Open the ChatGPT conversation for this task
+- **VERIFY**: Check attached JSON file name to confirm scene number
+- **VERIFY**: Conversation contains generated images
+
+**STEP 2: Download Image(s)**
+- Count number of images in conversation
+- For EACH image: Click "Download this image" button
+- **Preferred method**: Use "Download this image" button below each image
+- **Alternative**: Right-click image and "Save image as..."
+
+**STEP 3: File Management**
+- **Check download location**: `/tmp/playwright-mcp-output/[timestamp]/`
+- **Create target directory** if needed: `/home/xai/DEV/37degrees/books/[BOOK_FOLDER]/generated/`
+- **Check existing files** to prevent collisions:
+  ```bash
+  ls -la /home/xai/DEV/37degrees/books/[BOOK_FOLDER]/generated/[book_number]_scene_[NN]*
+  ```
+
+**STEP 4: Rename and Move Files**
+
+**NAMING RULES:**
+- **First image from scene (no existing files)**: `[book_number]_scene_[NN].png`
+- **Additional images or collision**: `[book_number]_scene_[NN]_[letter].png`
+- **Never overwrite existing files**
+- **Use next available letter**: a, b, c, d, etc.
+
+**Examples:**
+```bash
+# Single image, no existing files
+mv "/tmp/playwright-mcp-output/[timestamp]/ChatGPT-Image.png" "/path/to/generated/0019_scene_05.png"
+
+# File exists, use suffix
+mv "/tmp/playwright-mcp-output/[timestamp]/ChatGPT-Image.png" "/path/to/generated/0019_scene_05_a.png"
+
+# Multiple files exist, use next letter
+mv "/tmp/playwright-mcp-output/[timestamp]/ChatGPT-Image.png" "/path/to/generated/0019_scene_05_b.png"
+```
+
+**STEP 5: Mark Task as Completed**
+- Read current TODO file
+- Find the line with this task (starts with `[ ]`)
+- Replace `[ ]` with `[x]` for this specific task
+- Write updated TODO file back
+
+**Example completion update:**
+```
+# Before:
+[ ] Check and download from scene_05 conversation
+
+# After:
+[x] Check and download from scene_05 conversation
+```
+
+## 3. MCP Commands Reference
+
+### Playwright Navigation
+```javascript
+// Navigate to conversation
+await page.getByRole('link', { name: 'Create image from JSON scene_XX' }).click();
+
+// Download image
+await page.getByRole('button', { name: 'Download this image' }).click();
+
+// Take snapshot to see page
+await page.snapshot();
+```
+
+### File Operations
+```bash
+# Check TODO exists
+[ -f "/path/to/generated/TODO.md" ] && echo "exists" || echo "not found"
+
+# Find first incomplete task
+grep -n "^\[ \]" /path/to/TODO.md | head -1
+
+# Update specific line in TODO (replace line N)
+sed -i 'Ns/^\[ \]/[x]/' /path/to/TODO.md
+```
+
+## 4. Error Handling
+
+**Issue**: No TODO file exists
+- **Solution**: Create complete TODO file first
+
+**Issue**: All tasks completed
+- **Solution**: Report completion status
+
+**Issue**: Download fails
+- **Solution**: Try alternative download method, report error
+
+**Issue**: File collision
+- **Solution**: Use alphabetic suffixes, never overwrite
+
+## 5. Single Execution Flow Summary
+
+1. **Check**: Does TODO.md exist?
+2. **Create**: If no, create complete TODO list
+3. **Find**: First line with `[ ]`
+4. **Navigate**: Go to that conversation
+5. **Download**: Get image(s) using download button
+6. **Move**: Copy to generated/ with proper naming
+7. **Update**: Change `[ ]` to `[x]` for completed task
+8. **Verify**: File saved correctly
+
+## 6. Expected Results
+
+After each execution:
+- **Existing TODO**: One task changed from `[ ]` to `[x]`
+- **New TODO**: Complete list created + one task completed
+- **Generated folder**: One or more new image files
+- **Proper naming**: Files follow `NNNN_scene_XX.png` or `NNNN_scene_XX_a.png` format
+- **No overwrites**: Existing files preserved with collision-safe naming
+
+## 7. Completion Detection
+
+**Process complete when**: All lines in TODO.md show `[x]` (no `[ ]` remaining)
+
+**Progress check**:
+```bash
+echo "Completed: $(grep -c '^\[x\]' TODO.md)"
+echo "Remaining: $(grep -c '^\[ \]' TODO.md)"
+```

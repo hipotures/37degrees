@@ -1,0 +1,96 @@
+{
+  "sceneDescription": {
+    "setting": {
+      "time": "64 AD, midday, heavy gray clouds covering sun",
+      "location": "Underground Christian catacombs outside Rome, stone tunnels carved from rock",
+      "weather": "Thick overcast eliminating shadows, flat gray light, humid air"
+    },
+    "characters": [
+      {
+        "appearance": "Apostle Peter, elderly man in his sixties, weathered face showing years of suffering, wise compassionate eyes",
+        "clothing": "Simple brown robe of rough wool, rope belt, worn sandals, no worldly possessions",
+        "position": "Standing in catacomb tunnel entrance, staff in hand, watching for Roman patrols",
+        "action": "Leading secret Christian gathering underground, vigilant against persecution, preparing to preach to faithful"
+      }
+    ],
+    "scene": {
+      "mainElements": "Stone-carved underground tunnels with Christian burial niches, flickering oil lamps casting shadows on rock walls, secret chambers for worship",
+      "details": "Oil lamps creating pools of warm light in dark tunnels, fish symbols carved into stone walls, Christian burial niches with crosses, echoing footsteps of secret worshippers, damp air heavy with incense, carved inscriptions in Greek and Latin praising Christ",
+      "background": "Deeper tunnels extending into darkness, burial chambers with early Christian artwork, distant sound of prayers echoing through stone passages, hidden entrances disguised from Roman authorities",
+      "atmosphere": "Sacred stillness of underground sanctuary, air thick with faith and fear of persecution, muffled prayers in hidden chambers, sense of spiritual community under threat of death"
+    },
+    "composition": {
+      "cameraAngle": "Low angle looking up the narrow street toward overcast sky",
+      "focus": "Figure in doorway framed by tall buildings reaching toward gray sky",
+      "depth": "Foreground wet cobblestones, middle ground merchant and shop fronts, background buildings disappearing into overcast"
+    }
+  },
+  "colorPalette": {
+    "primary": [
+      "rich golds",
+      "deep bronze",
+      "royal purple",
+      "celestial blue"
+    ],
+    "secondary": [
+      "ivory",
+      "crimson",
+      "emerald green"
+    ],
+    "background": "dramatic skies, divine light",
+    "usageNotes": "Rich, regal colors with metallic tones",
+    "saturation": "high",
+    "contrast": "dramatic"
+  },
+  "lineArt": {
+    "style": "bold, heroic contours",
+    "weight": "strong, confident",
+    "color": "dark bronze or black",
+    "texture": "smooth, flowing",
+    "edgeTreatment": "dramatic, idealized forms"
+  },
+  "lighting": {
+    "type": "divine, dramatic",
+    "direction": "heavenly rays, rim lighting",
+    "intensity": "powerful, golden",
+    "shadows": {
+      "style": "deep, dramatic",
+      "color": "purple-bronze tones",
+      "opacity": "rich, not black"
+    },
+    "highlights": "golden, divine glow"
+  },
+  "rendering": {
+    "technique": "classical painting style",
+    "texture": "smooth with dramatic brushwork",
+    "detailLevel": "high in key areas, atmospheric distance",
+    "finish": "polished, museum quality"
+  },
+  "perspective": "heroic, looking up at figures",
+  "mood": {
+    "overall": "majestic, awe-inspiring, legendary",
+    "emotion": "wonder, reverence, heroism",
+    "tempo": "epic, timeless",
+    "keywords": [
+      "majestic",
+      "divine",
+      "heroic",
+      "legendary",
+      "monumental"
+    ]
+  },
+  "stylePrecedents": [
+    "Classical Greek art",
+    "Renaissance masters",
+    "John William Waterhouse"
+  ],
+  "technicalSpecifications": {
+    "resolution": {
+      "aspectRatio": "9:16",
+      "minWidth": 1080,
+      "minHeight": 1920,
+      "unit": "pixels"
+    },
+    "orientation": "Portrait/Vertical"
+  }
+}
