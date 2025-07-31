@@ -2,14 +2,15 @@
   "permissions": {
     "allow": [
       "mcp__ruv-swarm",
-      "mcp__claude-flow"
+      "mcp__claude-flow",
+      "Bash(ls:*)"
     ],
     "deny": []
   },
+  "enableAllProjectMcpServers": true,
   "enabledMcpjsonServers": [
     "playwright-headless",
     "playwright",
     "playwright-show-browser"
-  ],
-  "enableAllProjectMcpServers": true
+  ]
 }
