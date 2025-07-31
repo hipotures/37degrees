@@ -120,7 +120,6 @@ tmp/
 
 
 # Claude Flow generated files
-.claude/settings.local.json
 claude-flow.config.json
 .swarm/
 .hive-mind/
