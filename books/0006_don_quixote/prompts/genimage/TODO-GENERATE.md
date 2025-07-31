@@ -20,6 +20,6 @@
 [x] Generate image using scene_20.json
 [x] Generate image using scene_21.json
 [x] Generate image using scene_22.json
-[ ] Generate image using scene_23.json
-[ ] Generate image using scene_24.json
-[ ] Generate image using scene_25.json
+[x] Generate image using scene_23.json
+[x] Generate image using scene_24.json
+[x] Generate image using scene_25.json
