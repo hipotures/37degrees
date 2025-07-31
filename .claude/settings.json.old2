@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Task",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo 'Hook called' >> /tmp/hook-echo.log"
+          }
+        ]
+      }
+    ]
+  }
+}

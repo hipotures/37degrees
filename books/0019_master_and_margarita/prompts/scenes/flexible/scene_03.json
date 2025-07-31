@@ -1,0 +1,41 @@
+{
+  "sceneDescription": {
+    "title": "Ancient Jerusalem Courtyard",
+    "setting": {
+      "time": "Ancient times, morning, Passover season",
+      "location": "Stone courtyard of Jerusalem palace complex",
+      "weather": "Bright desert sunlight with clear sky"
+    },
+    "characters": [
+      {
+        "appearance": "Roman man, 40s, clean-shaven, weathered face, average height, stern expression",
+        "clothing": "White Roman toga with purple stripe, leather sandals, gold ring",
+        "position": "Standing on raised stone platform overlooking courtyard",
+        "action": "Gesturing with authority toward guards and looking down at prisoner"
+      },
+      {
+        "appearance": "Young man, early 30s, long hair, beard, thin build, calm demeanor",
+        "clothing": "Simple white robe, worn and dusty, rope belt, bare feet",
+        "position": "Standing in center of courtyard between guards",
+        "action": "Standing perfectly still, looking directly at Roman official with serene expression"
+      },
+      {
+        "appearance": "Two Roman soldiers, late 20s, muscular builds, alert postures",
+        "clothing": "Leather armor, metal helmets, short swords at sides, red military cloaks",
+        "position": "Flanking the prisoner on either side",
+        "action": "Standing at attention while maintaining watchful guard positions"
+      }
+    ],
+    "scene": {
+      "mainElements": "Ancient stone courtyard with raised platform, limestone columns, stone steps",
+      "details": "Rough-hewn limestone walls and flooring, ornate Roman columns with carved capitals, stone steps leading to platform, morning shadows cast by columns across courtyard, metal rings embedded in walls for prisoners",
+      "background": "Jerusalem cityscape visible beyond courtyard walls, distant hills and desert landscape under bright sky",
+      "atmosphere": "Formal judicial proceeding in ancient setting, tension between power and calm dignity, bright desert sunlight creating strong contrasts, no text or letters visible"
+    },
+    "composition": {
+      "cameraAngle": "Wide shot capturing full courtyard scene from ground level",
+      "focus": "The contrast between Roman authority on platform and humble prisoner below",
+      "depth": "Foreground: stone courtyard floor and prisoner; middle ground: raised platform with Roman official; background: limestone columns and distant Jerusalem"
+    }
+  }
+}

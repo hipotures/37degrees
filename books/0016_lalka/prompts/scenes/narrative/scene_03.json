@@ -1,0 +1,35 @@
+{
+  "sceneDescription": {
+    "title": "The Merchant Prince in His Domain",
+    "setting": {
+      "time": "1878 spring, late morning",
+      "location": "Interior of elegant haberdashery shop on prestigious Warsaw commercial street, Polish textile merchant establishment",
+      "weather": "Bright daylight filtering through large windows"
+    },
+    "characters": [
+      {
+        "appearance": "Distinguished man in his early 40s, dark hair with grey at temples, intelligent eyes, strong jawline, commanding presence",
+        "clothing": "Impeccable black business suit with silk vest, white shirt with standing collar, simple gold cufflinks",
+        "position": "Standing behind polished mahogany counter",
+        "action": "Examining fine fabric samples with a jeweler's loupe, making notes in a ledger"
+      },
+      {
+        "appearance": "Elderly man in his 60s, thin build, kind face with deep wrinkles, grey hair and mustache",
+        "clothing": "Modest brown wool suit, slightly worn at elbows, simple white shirt, black bow tie",
+        "position": "Arranging mechanical toys in the shop window display",
+        "action": "Carefully winding up clockwork mechanisms, watching toys perform their movements with childlike fascination"
+      }
+    ],
+    "scene": {
+      "mainElements": "Luxurious shop interior with floor-to-ceiling shelves of fine fabrics, glass display cases showing gloves and accessories, the merchant examining goods while elderly clerk tends to window display of mechanical toys",
+      "details": "Rich mahogany fixtures with brass fittings, rolls of silk and velvet in jewel tones, crystal chandeliers casting rainbow light, mechanical dancing figures and miniature carousels in window, accounting books open on counter, brass cash register, Persian rug on polished wood floor, no text or letters visible",
+      "background": "Deep shelving system extending into shop depths, ornate ceiling moldings, glimpses of storage rooms through doorways",
+      "atmosphere": "Refined commercial prosperity mixed with old-world craftsmanship, the mechanical toys adding whimsical contrast to serious business"
+    },
+    "composition": {
+      "cameraAngle": "Interior wide shot encompassing both the merchant at counter and clerk at window",
+      "focus": "The contrast between the powerful merchant and humble clerk with his toys",
+      "depth": "Window display in foreground, main shop floor in middle, storage areas visible in background"
+    }
+  }
+}

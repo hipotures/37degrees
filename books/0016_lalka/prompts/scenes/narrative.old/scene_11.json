@@ -1,0 +1,29 @@
+{
+  "sceneDescription": {
+    "title": "Memory of Siberian Prison Chains",
+    "setting": {
+      "time": "1879, late night",
+      "location": "Private bedroom, man alone with haunting memories surfacing",
+      "weather": "Cold winter night, frost patterns on windows"
+    },
+    "characters": [
+      {
+        "appearance": "Middle-aged man, 40s, sitting on edge of bed, bare torso showing old scars, hands examining frostbite damage on fingers",
+        "clothing": "White nightshirt, dark trousers, bare feet on cold floor",
+        "position": "Sitting hunched forward, head in scarred hands, shoulders bearing weight of traumatic memories",
+        "action": "Staring at permanently damaged hands from Siberian cold, reliving past suffering that shaped his character"
+      }
+    ],
+    "scene": {
+      "mainElements": "Sparse bedroom with single bed, small table with oil lamp casting flickering shadows, mirror reflecting haunted face",
+      "details": "Hands showing permanent discoloration and scarring from severe frostbite, room cold enough to see breath, shadows on walls suggesting prison bars from memory, personal effects including old military medal from uprising, photographs of comrades who didn't survive, empty vodka bottle suggesting attempt to numb pain",
+      "background": "Window showing winter night similar to Siberian landscape of memory, crucifix on wall, few books including poetry that sustained him during imprisonment",
+      "atmosphere": "Private moment of vulnerability revealing psychological wounds beneath successful exterior, weight of survivor guilt and traumatic memories, connection between past suffering and present obsessive drive, no text or letters visible"
+    },
+    "composition": {
+      "cameraAngle": "Close-up shot focusing on damaged hands and tormented expression",
+      "focus": "Physical evidence of past trauma still affecting present life",
+      "depth": "Foreground: scarred hands, middle: man's anguished face, background: shadowy room suggesting prison memories"
+    }
+  }
+}

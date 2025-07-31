@@ -1,0 +1,93 @@
+{
+  "sceneDescription": {
+    "setting": {
+      "time": "1878 spring, evening",
+      "location": "Private study in merchant's apartment above textile shop, Warsaw city center, 19th century Polish intellectual's workspace",
+      "weather": "Twilight visible through windows"
+    },
+    "characters": [
+      {
+        "appearance": "Man in early 40s, dark hair, intense expression, signs of fatigue around eyes",
+        "clothing": "White shirt with sleeves rolled up, vest unbuttoned, black trousers",
+        "position": "Seated at large desk covered with scientific equipment",
+        "action": "Adjusting brass microscope while making detailed sketches in notebook"
+      }
+    ],
+    "scene": {
+      "mainElements": "Study filled with scientific instruments, books, and chemical apparatus, the merchant deeply absorbed in microscopic examination, walls lined with scholarly volumes",
+      "details": "Brass microscopes and telescopes on shelves, glass beakers and test tubes in wooden racks, anatomical charts on walls, globe on stand, butterfly specimens in frames, stacks of scientific journals, gas lamp illuminating work area, chemical stains on desk surface, no text or letters visible",
+      "background": "Floor-to-ceiling bookshelves, framed diplomas and certificates, window showing Warsaw rooftops at dusk",
+      "atmosphere": "Intense scholarly concentration, a sanctuary of learning contrasting with commercial world below"
+    },
+    "composition": {
+      "cameraAngle": "Medium shot from slightly above, showing scientist at work",
+      "focus": "The merchant's intense concentration on his scientific pursuits",
+      "depth": "Desk and equipment in foreground, bookshelves in middle ground, window with city view in background"
+    }
+  },
+  "colorPalette": {
+    "primary": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "secondary": [
+      "sepia tones",
+      "aged paper"
+    ],
+    "background": "cream or aged paper",
+    "usageNotes": "Primarily monochromatic, occasional sepia wash",
+    "saturation": "none to minimal",
+    "contrast": "high through line density"
+  },
+  "lineArt": {
+    "style": "precise engraving lines",
+    "weight": "very fine, built up in layers",
+    "color": "black ink",
+    "texture": "crosshatching, stippling",
+    "edgeTreatment": "precise, controlled"
+  },
+  "lighting": {
+    "type": "classical, theatrical",
+    "direction": "three-quarter lighting",
+    "intensity": "dramatic through line density",
+    "shadows": {
+      "style": "built through crosshatching",
+      "color": "black line density",
+      "opacity": "varied through technique"
+    },
+    "highlights": "white paper showing through"
+  },
+  "rendering": {
+    "technique": "steel engraving simulation",
+    "texture": "fine line patterns throughout",
+    "detailLevel": "extremely high, meticulous",
+    "finish": "printed illustration quality"
+  },
+  "perspective": "classical, accurate",
+  "mood": {
+    "overall": "formal, literary, refined",
+    "emotion": "dignity, propriety, narrative drama",
+    "tempo": "measured, contemplative",
+    "keywords": [
+      "classical",
+      "refined",
+      "literary",
+      "formal",
+      "dignified"
+    ]
+  },
+  "stylePrecedents": [
+    "Gustave Doré",
+    "John Tenniel",
+    "George Cruikshank"
+  ],
+  "technicalSpecifications": {
+    "resolution": {
+      "aspectRatio": "9:16",
+      "minWidth": 1080,
+      "minHeight": 1920,
+      "unit": "pixels"
+    },
+    "orientation": "Portrait/Vertical"
+  }
+}

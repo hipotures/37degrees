@@ -1,0 +1,96 @@
+{
+  "sceneDescription": {
+    "setting": {
+      "time": "64 AD, late autumn afternoon, season changing",
+      "location": "Villa peristyle garden, colonnade courtyard with fountain",
+      "weather": "Gentle spring day with flowers blooming, representing new life in Christ"
+    },
+    "characters": [
+      {
+        "appearance": "Marcus Vinicius and Lygia as newlyweds, both in their twenties, faces radiating joy and spiritual peace",
+        "clothing": "Vinicius in simple white tunic showing Christian humility, Lygia in white bridal stola with Christian cross pendant",
+        "position": "Standing together in garden of Christian household, hands joined in marriage",
+        "action": "Exchanging Christian wedding vows, surrounded by fellow believers, beginning new life of faith and love"
+      }
+    ],
+    "scene": {
+      "mainElements": "Courtyard fountain surrounded by trees showing autumn colors, marble columns with fallen leaves scattered on pavement, geometric garden beds with seasonal plants",
+      "details": "Fresh spring flowers scattered as wedding blessing, fountain water reflecting blue sky and white clouds, warm air carrying scent of blooming roses and frankincense, shadows soft in gentle sunlight, signs of new growth and life everywhere symbolizing Christian rebirth",
+      "background": "Villa rooms visible through doorways with braziers lit against autumn chill, distant hills showing patches of autumn forest colors, gray clouds suggesting cooler weather ahead",
+      "atmosphere": "Joyful beauty of spiritual transformation, peaceful acceptance of Christ's love, gentle happiness mixed with sacred solemnity of marriage sacrament, contemplative mood of souls united in faith"
+    },
+    "composition": {
+      "cameraAngle": "Medium shot following figure along leaf-strewn colonnade",
+      "focus": "Elderly man among autumn leaves with fountain and colored trees",
+      "depth": "Foreground scattered autumn leaves, middle ground walking figure and fountain, background colonnade and rooms with warm fires"
+    }
+  },
+  "colorPalette": {
+    "primary": [
+      "rich golds",
+      "deep bronze",
+      "royal purple",
+      "celestial blue"
+    ],
+    "secondary": [
+      "ivory",
+      "crimson",
+      "emerald green"
+    ],
+    "background": "dramatic skies, divine light",
+    "usageNotes": "Rich, regal colors with metallic tones",
+    "saturation": "high",
+    "contrast": "dramatic"
+  },
+  "lineArt": {
+    "style": "bold, heroic contours",
+    "weight": "strong, confident",
+    "color": "dark bronze or black",
+    "texture": "smooth, flowing",
+    "edgeTreatment": "dramatic, idealized forms"
+  },
+  "lighting": {
+    "type": "divine, dramatic",
+    "direction": "heavenly rays, rim lighting",
+    "intensity": "powerful, golden",
+    "shadows": {
+      "style": "deep, dramatic",
+      "color": "purple-bronze tones",
+      "opacity": "rich, not black"
+    },
+    "highlights": "golden, divine glow"
+  },
+  "rendering": {
+    "technique": "classical painting style",
+    "texture": "smooth with dramatic brushwork",
+    "detailLevel": "high in key areas, atmospheric distance",
+    "finish": "polished, museum quality"
+  },
+  "perspective": "heroic, looking up at figures",
+  "mood": {
+    "overall": "majestic, awe-inspiring, legendary",
+    "emotion": "wonder, reverence, heroism",
+    "tempo": "epic, timeless",
+    "keywords": [
+      "majestic",
+      "divine",
+      "heroic",
+      "legendary",
+      "monumental"
+    ]
+  },
+  "stylePrecedents": [
+    "Classical Greek art",
+    "Renaissance masters",
+    "John William Waterhouse"
+  ],
+  "technicalSpecifications": {
+    "resolution": {
+      "aspectRatio": "9:16",
+      "minWidth": 1080,
+      "minHeight": 1920,
+      "unit": "pixels"
+    },
+    "orientation": "Portrait/Vertical"
+  }
+}

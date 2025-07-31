@@ -1,0 +1,105 @@
+{
+  "sceneDescription": {
+    "setting": {
+      "time": "1878 autumn, midday",
+      "location": "Construction site of new factory building on Warsaw outskirts, Congress Poland industrial development zone",
+      "weather": "Bright day with scattered clouds"
+    },
+    "characters": [
+      {
+        "appearance": "Man in early 40s, dark hair, animated expression, gesturing broadly",
+        "clothing": "Business suit with coat open, hat in hand",
+        "position": "Standing on wooden platform overlooking construction",
+        "action": "Pointing out features to companion while holding architectural plans"
+      },
+      {
+        "appearance": "Middle-aged engineer in his 50s, practical appearance, attentive expression",
+        "clothing": "Work clothes with vest, rolled up sleeves, flat cap",
+        "position": "Standing beside merchant on platform",
+        "action": "Nodding while making notes on clipboard"
+      },
+      {
+        "appearance": "Group of construction workers, various ages",
+        "clothing": "Work clothes, caps, heavy boots",
+        "position": "Working on brick walls and foundation",
+        "action": "Laying bricks, mixing mortar, carrying materials"
+      }
+    ],
+    "scene": {
+      "mainElements": "Half-built factory with brick walls rising, wooden scaffolding, merchant explaining his vision for modern workplace, workers actively constructing",
+      "details": "Piles of bricks and timber, mortar mixing stations, architectural drawings spread on makeshift table, surveying equipment, horse-drawn carts delivering materials, foundation clearly showing large scale of project, smokestacks of other factories visible in distance, no text or letters visible",
+      "background": "Industrial Warsaw skyline, other factories with smoking chimneys, open fields being developed",
+      "atmosphere": "Progressive optimism and industrial ambition, the merchant's dreams of improving society through commerce"
+    },
+    "composition": {
+      "cameraAngle": "Elevated view showing construction site and Warsaw industrial landscape",
+      "focus": "The merchant's enthusiastic planning against backdrop of rising factory",
+      "depth": "Platform with merchant in foreground, construction in middle, industrial cityscape in background"
+    }
+  },
+  "colorPalette": {
+    "primary": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "secondary": [
+      "sepia tones",
+      "aged paper"
+    ],
+    "background": "cream or aged paper",
+    "usageNotes": "Primarily monochromatic, occasional sepia wash",
+    "saturation": "none to minimal",
+    "contrast": "high through line density"
+  },
+  "lineArt": {
+    "style": "precise engraving lines",
+    "weight": "very fine, built up in layers",
+    "color": "black ink",
+    "texture": "crosshatching, stippling",
+    "edgeTreatment": "precise, controlled"
+  },
+  "lighting": {
+    "type": "classical, theatrical",
+    "direction": "three-quarter lighting",
+    "intensity": "dramatic through line density",
+    "shadows": {
+      "style": "built through crosshatching",
+      "color": "black line density",
+      "opacity": "varied through technique"
+    },
+    "highlights": "white paper showing through"
+  },
+  "rendering": {
+    "technique": "steel engraving simulation",
+    "texture": "fine line patterns throughout",
+    "detailLevel": "extremely high, meticulous",
+    "finish": "printed illustration quality"
+  },
+  "perspective": "classical, accurate",
+  "mood": {
+    "overall": "formal, literary, refined",
+    "emotion": "dignity, propriety, narrative drama",
+    "tempo": "measured, contemplative",
+    "keywords": [
+      "classical",
+      "refined",
+      "literary",
+      "formal",
+      "dignified"
+    ]
+  },
+  "stylePrecedents": [
+    "Gustave Doré",
+    "John Tenniel",
+    "George Cruikshank"
+  ],
+  "technicalSpecifications": {
+    "resolution": {
+      "aspectRatio": "9:16",
+      "minWidth": 1080,
+      "minHeight": 1920,
+      "unit": "pixels"
+    },
+    "orientation": "Portrait/Vertical"
+  }
+}

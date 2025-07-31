@@ -1,0 +1,101 @@
+{
+  "sceneDescription": {
+    "setting": {
+      "time": "Outside normal time, eternal twilight realm",
+      "location": "Beautiful cottage in supernatural landscape, perfect peaceful environment",
+      "weather": "Eternal gentle twilight, neither day nor night, perfectly temperate"
+    },
+    "characters": [
+      {
+        "appearance": "Man, late 30s, dark hair, now restored to health and peace, face showing contentment",
+        "clothing": "Simple comfortable clothes, clean and well-fitted, appearance of someone at rest",
+        "position": "Sitting at wooden table under vine-covered arbor, manuscript before him",
+        "action": "Writing peacefully while occasionally looking up at beloved companion"
+      },
+      {
+        "appearance": "Woman, early 30s, beautiful features, now radiating contentment and eternal beauty, serene expression",
+        "clothing": "Simple flowing dress, hair loose and natural, flowers occasionally in her hair",
+        "position": "Moving between garden and table, tending flowers and bringing refreshments",
+        "action": "Caring for beautiful garden while maintaining loving presence near writer"
+      }
+    ],
+    "scene": {
+      "mainElements": "Charming cottage with flower garden, vine-covered arbor, wooden table and chairs, peaceful domestic setting",
+      "details": "Stone cottage with climbing roses on walls, wooden table under grape arbor, comfortable garden chairs, flower beds with blooming plants, fruit trees nearby, gentle stream flowing past garden, birds singing in branches",
+      "background": "Rolling hills extending to horizon, other distant cottages suggesting peaceful community, sky showing eternal twilight neither fully light nor dark",
+      "atmosphere": "Perfect peace and fulfillment after earthly suffering, eternal reward for true love and artistic integrity, domestic bliss in supernatural realm designed for their happiness, no text or letters visible"
+    },
+    "composition": {
+      "cameraAngle": "Medium shot capturing both cottage scene and surrounding peaceful landscape",
+      "focus": "Two figures in perfect domestic harmony in their eternal reward",
+      "depth": "Foreground: garden flowers and arbor table; middle ground: cottage and two figures in peaceful activities; background: rolling hills and eternal twilight sky"
+    }
+  },
+  "colorPalette": {
+    "primary": [
+      "muted blues",
+      "soft purples",
+      "misty grays"
+    ],
+    "secondary": [
+      "pale golds",
+      "dusty roses",
+      "seafoam greens"
+    ],
+    "background": "gradient washes, nebulous",
+    "usageNotes": "Soft, dreamy colors that blend into each other",
+    "saturation": "low to medium",
+    "contrast": "soft, hazy"
+  },
+  "lineArt": {
+    "style": "fluid, dissolving",
+    "weight": "varied, sometimes fading",
+    "color": "soft, often colored lines",
+    "texture": "smooth, organic",
+    "edgeTreatment": "soft, sometimes undefined"
+  },
+  "lighting": {
+    "type": "otherworldly, multiple sources",
+    "direction": "illogical, dreamlike",
+    "intensity": "soft, glowing",
+    "shadows": {
+      "style": "soft, sometimes defying physics",
+      "color": "colored shadows",
+      "opacity": "translucent"
+    },
+    "highlights": "ethereal glows"
+  },
+  "rendering": {
+    "technique": "smooth blending, sfumato",
+    "texture": "soft, cloud-like",
+    "detailLevel": "selective focus, some areas sharp, others dissolving",
+    "finish": "dreamlike, atmospheric"
+  },
+  "perspective": "impossible, shifting, non-Euclidean",
+  "mood": {
+    "overall": "mysterious, contemplative, otherworldly",
+    "emotion": "wonder, unease, transcendence",
+    "tempo": "floating, timeless",
+    "keywords": [
+      "mysterious",
+      "dreamlike",
+      "surreal",
+      "metaphysical",
+      "transcendent"
+    ]
+  },
+  "stylePrecedents": [
+    "Salvador Dalí",
+    "René Magritte",
+    "Remedios Varo"
+  ],
+  "technicalSpecifications": {
+    "resolution": {
+      "aspectRatio": "9:16",
+      "minWidth": 1080,
+      "minHeight": 1920,
+      "unit": "pixels"
+    },
+    "orientation": "Portrait/Vertical"
+  }
+}

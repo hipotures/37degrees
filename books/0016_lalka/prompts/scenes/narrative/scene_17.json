@@ -1,0 +1,41 @@
+{
+  "sceneDescription": {
+    "title": "The Final Rejection",
+    "setting": {
+      "time": "1878 winter, afternoon",
+      "location": "Formal reception room in aristocratic Warsaw mansion, Congress Poland, furnished with heavy period furniture",
+      "weather": "Grey day visible through tall windows"
+    },
+    "characters": [
+      {
+        "appearance": "Beautiful woman in early 20s, blonde hair perfectly arranged, cold expression",
+        "clothing": "Elegant day dress of grey silk with high collar, cameo brooch",
+        "position": "Standing near window, maintaining distance",
+        "action": "Holding letter while speaking with finality, not looking at the man"
+      },
+      {
+        "appearance": "Man in early 40s, dark hair, devastated expression, shoulders sagging",
+        "clothing": "Fine business suit now seeming to hang loose on his frame",
+        "position": "Standing in center of room, hat crushed in hands",
+        "action": "Listening with growing despair, swaying slightly as if struck"
+      },
+      {
+        "appearance": "Elderly servant in his 60s, impassive face",
+        "clothing": "Black livery with white gloves",
+        "position": "Standing by door",
+        "action": "Waiting to show the visitor out"
+      }
+    ],
+    "scene": {
+      "mainElements": "Formal room with woman delivering final rejection to merchant, her position by window emphasizing distance, servant ready to escort him out",
+      "details": "Heavy furniture creating barriers in room layout, family portraits judging from walls, letter in woman's hand (contents not visible), marble fireplace cold and unlit, fresh flowers wilting in vase, man's reflection visible in mirror showing his devastation, Persian rug muffling footsteps, no text or letters visible",
+      "background": "Ornate ceiling moldings, heavy curtains partially drawn, hallway visible through open door",
+      "atmosphere": "Final crushing of hope, social barriers proved insurmountable, cold formality of aristocratic rejection"
+    },
+    "composition": {
+      "cameraAngle": "Wide shot showing the distance between the figures",
+      "focus": "The emotional chasm between the cold aristocrat and devastated merchant",
+      "depth": "Woman at window in foreground, merchant in middle of room, servant at door in background"
+    }
+  }
+}

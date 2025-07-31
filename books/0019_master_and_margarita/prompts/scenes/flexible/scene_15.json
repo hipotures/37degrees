@@ -1,0 +1,29 @@
+{
+  "sceneDescription": {
+    "title": "The Crossroads of Choice",
+    "setting": {
+      "time": "Ancient Jerusalem, same evening as execution, crossroads outside city",
+      "location": "Stone crossroads where two ancient paths meet outside Jerusalem",
+      "weather": "Desert evening with first stars appearing, cool air after hot day"
+    },
+    "characters": [
+      {
+        "appearance": "Roman man, 40s, clean-shaven, weathered face, now in traveling clothes, deeply troubled",
+        "clothing": "Simple traveling cloak over tunic, leather boots, no official regalia",
+        "position": "Standing at exact center where two stone paths intersect",
+        "action": "Looking alternately down each path, hands clenched at sides, face showing internal struggle"
+      }
+    ],
+    "scene": {
+      "mainElements": "Ancient stone crossroads with two clearly defined paths diverging at 90-degree angle, weathered stone markers",
+      "details": "Ancient stone pathway worn smooth by centuries of travelers, wooden signpost with two directional arrows pointing different ways, stone mile markers along each route, scattered pebbles and desert sand, first evening stars appearing overhead",
+      "background": "Jerusalem city walls visible in distance behind, desert hills extending toward horizon, path leading away toward different destinations",
+      "atmosphere": "Moment of moral choice made physical, crossroads representing life-changing decision, ancient setting emphasizing timeless nature of moral dilemmas, no text or letters visible"
+    },
+    "composition": {
+      "cameraAngle": "Wide shot from elevated position showing crossroads and figure's position",
+      "focus": "Roman official positioned precisely where paths diverge, symbolizing choice",
+      "depth": "Foreground: stone crossroads with directional markers; middle ground: solitary figure at decision point; background: Jerusalem in distance and desert landscape extending both directions"
+    }
+  }
+}

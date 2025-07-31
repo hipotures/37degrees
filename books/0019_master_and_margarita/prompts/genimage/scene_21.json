@@ -1,0 +1,101 @@
+{
+  "sceneDescription": {
+    "setting": {
+      "time": "1930s Moscow, morning after supernatural night",
+      "location": "Moscow streets, various locations showing aftermath",
+      "weather": "Bright morning sunlight, clear sky"
+    },
+    "characters": [
+      {
+        "appearance": "Various Soviet citizens, different ages, confused and disheveled",
+        "clothing": "Mix of nightclothes and hastily thrown on garments, some missing items",
+        "position": "Scattered across Moscow streets, some sitting on curbs, others wandering",
+        "action": "Looking around in confusion, checking empty pockets, comparing stories with neighbors"
+      },
+      {
+        "appearance": "Moscow police officers, several visible, official demeanor but also confused",
+        "clothing": "Standard Soviet police uniforms, caps, notebooks for taking reports",
+        "position": "Moving through crowds, standing at street corners with clipboards",
+        "action": "Taking statements from citizens, writing in notebooks, looking skeptical but concerned"
+      }
+    ],
+    "scene": {
+      "mainElements": "Moscow street scene with normal morning activities disrupted by confused citizens",
+      "details": "People examining empty wallets and purses, scattered clothing items in streets, broken windows in some buildings, scorch marks on pavement, normal morning vendors setting up while citizens tell impossible stories",
+      "background": "Typical Moscow architecture, apartment buildings, shops beginning to open for business, tramlines and normal city infrastructure",
+      "atmosphere": "Ordinary city trying to return to normal after supernatural disruption, reality reasserting itself while leaving traces of impossible events, citizens attempting to rationalize inexplicable experiences, no text or letters visible"
+    },
+    "composition": {
+      "cameraAngle": "Wide street-level shot capturing multiple confused citizens and normal city life",
+      "focus": "Contrast between normal morning routine and citizens dealing with supernatural aftermath",
+      "depth": "Foreground: confused citizens examining empty pockets; middle ground: police taking statements; background: normal Moscow street life continuing despite disruption"
+    }
+  },
+  "colorPalette": {
+    "primary": [
+      "muted blues",
+      "soft purples",
+      "misty grays"
+    ],
+    "secondary": [
+      "pale golds",
+      "dusty roses",
+      "seafoam greens"
+    ],
+    "background": "gradient washes, nebulous",
+    "usageNotes": "Soft, dreamy colors that blend into each other",
+    "saturation": "low to medium",
+    "contrast": "soft, hazy"
+  },
+  "lineArt": {
+    "style": "fluid, dissolving",
+    "weight": "varied, sometimes fading",
+    "color": "soft, often colored lines",
+    "texture": "smooth, organic",
+    "edgeTreatment": "soft, sometimes undefined"
+  },
+  "lighting": {
+    "type": "otherworldly, multiple sources",
+    "direction": "illogical, dreamlike",
+    "intensity": "soft, glowing",
+    "shadows": {
+      "style": "soft, sometimes defying physics",
+      "color": "colored shadows",
+      "opacity": "translucent"
+    },
+    "highlights": "ethereal glows"
+  },
+  "rendering": {
+    "technique": "smooth blending, sfumato",
+    "texture": "soft, cloud-like",
+    "detailLevel": "selective focus, some areas sharp, others dissolving",
+    "finish": "dreamlike, atmospheric"
+  },
+  "perspective": "impossible, shifting, non-Euclidean",
+  "mood": {
+    "overall": "mysterious, contemplative, otherworldly",
+    "emotion": "wonder, unease, transcendence",
+    "tempo": "floating, timeless",
+    "keywords": [
+      "mysterious",
+      "dreamlike",
+      "surreal",
+      "metaphysical",
+      "transcendent"
+    ]
+  },
+  "stylePrecedents": [
+    "Salvador Dalí",
+    "René Magritte",
+    "Remedios Varo"
+  ],
+  "technicalSpecifications": {
+    "resolution": {
+      "aspectRatio": "9:16",
+      "minWidth": 1080,
+      "minHeight": 1920,
+      "unit": "pixels"
+    },
+    "orientation": "Portrait/Vertical"
+  }
+}

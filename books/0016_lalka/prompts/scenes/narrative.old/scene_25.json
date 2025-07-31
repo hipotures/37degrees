@@ -1,0 +1,29 @@
+{
+  "sceneDescription": {
+    "title": "River's End - Ambiguous Destiny",
+    "setting": {
+      "time": "1880, early spring dawn",
+      "location": "Banks of Vistula River at edge of Warsaw, where city meets countryside",
+      "weather": "Misty dawn with first light breaking over water, suggesting renewal and mystery"
+    },
+    "characters": [
+      {
+        "appearance": "Middle-aged man, 40s, standing at river's edge, silhouetted against dawn light, face not clearly visible",
+        "clothing": "Dark overcoat, hat in hands, formal shoes at water's edge, clothing suggesting final journey",
+        "position": "Standing at boundary between water and land, between city and nature",
+        "action": "Contemplating river flowing toward unknown destination, moment of final decision shrouded in ambiguity"
+      }
+    ],
+    "scene": {
+      "mainElements": "Vistula River flowing past city toward distant horizon, dawn mist rising from water surface, boundary between urban Warsaw and natural countryside, figure poised at edge of civilization",
+      "details": "River current carrying debris and small boats toward unknown destinations, mist creating ethereal atmosphere that obscures clear vision, city silhouette visible in background with church spires and buildings, countryside visible across water suggesting other possibilities, early morning birds beginning to sing, water lapping at muddy shore",
+      "background": "Warsaw skyline with recognizable landmarks fading into mist, countryside beyond river suggesting broader world, sun rising behind clouds creating uncertain light",
+      "atmosphere": "Profound ambiguity about human destiny and choice, river as symbol of time and change flowing beyond human control, moment poised between multiple possible endings, dawn suggesting both ending and beginning, mystery preserved rather than resolved, no text or letters visible"
+    },
+    "composition": {
+      "cameraAngle": "Wide shot showing figure silhouetted against vast river and sky",
+      "focus": "The ambiguous relationship between human figure and flowing river representing destiny",
+      "depth": "Foreground: river bank and lapping water, middle: silhouetted figure at water's edge, background: misty river extending toward uncertain horizon"
+    }
+  }
+}

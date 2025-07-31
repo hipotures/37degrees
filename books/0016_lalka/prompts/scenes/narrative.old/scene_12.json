@@ -1,0 +1,35 @@
+{
+  "sceneDescription": {
+    "title": "The Doll Lawsuit - Inspiration Strikes",
+    "setting": {
+      "time": "1879, afternoon",
+      "location": "Courthouse corridor with formal legal proceedings, people waiting for hearings",
+      "weather": "Overcast day with gray light through institutional windows"
+    },
+    "characters": [
+      {
+        "appearance": "Young woman, early 20s, modest dress suggesting working class, nervous expression, clutching small object",
+        "clothing": "Simple dark dress with white collar, worn but clean, thin shawl, practical shoes showing wear",
+        "position": "Standing before courthouse official, shoulders tense with anxiety",
+        "action": "Explaining circumstances of stolen doll case, holding small porcelain doll as evidence"
+      },
+      {
+        "appearance": "Middle-aged man, 40s, well-dressed observer taking intense interest in trivial legal case",
+        "clothing": "Dark business suit, top hat held in hands, expensive leather gloves",
+        "position": "Standing among courthouse crowd, listening intently to minor legal proceeding",
+        "action": "Watching doll theft case with sudden profound fascination, as if seeing larger meaning in small incident"
+      }
+    ],
+    "scene": {
+      "mainElements": "Institutional courthouse interior with high ceilings, formal wooden benches, official notices posted on walls, people waiting for various legal proceedings",
+      "details": "Small porcelain doll at center of legal dispute - beautiful but lifeless object representing disputed ownership, legal documents scattered on clerk's desk, other minor cases proceeding simultaneously, courthouse officials in formal attire, ordinary people dealing with everyday legal problems",
+      "background": "Marble columns and formal architecture representing justice system, windows showing gray institutional courtyard, portraits of legal authorities",
+      "atmosphere": "Moment of artistic inspiration found in mundane reality, contrast between trivial legal case and profound symbolic meaning, sense of writer discovering perfect metaphor for larger human condition, no text or letters visible"
+    },
+    "composition": {
+      "cameraAngle": "Medium shot showing both the woman with doll and observing man",
+      "focus": "The porcelain doll as object linking trivial reality to profound artistic vision",
+      "depth": "Foreground: the disputed doll, middle: two primary figures, background: courthouse setting with other legal proceedings"
+    }
+  }
+}

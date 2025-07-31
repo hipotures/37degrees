@@ -1,0 +1,35 @@
+{
+  "sceneDescription": {
+    "title": "Young Scientist's Vision of Progress",
+    "setting": {
+      "time": "1878, afternoon",
+      "location": "University lecture hall with scientific charts and models, representing modern education and progress",
+      "weather": "Bright afternoon light streaming through tall academic windows"
+    },
+    "characters": [
+      {
+        "appearance": "Young man, late 20s, intellectual appearance, energetic bearing, dark hair, bright enthusiastic eyes",
+        "clothing": "Dark academic jacket, white shirt with simple tie, practical boots, ink stains on fingers from writing",
+        "position": "Standing before blackboard covered with scientific diagrams and equations",
+        "action": "Gesturing enthusiastically while explaining scientific concepts to small group of interested listeners"
+      },
+      {
+        "appearance": "Middle-aged man, 40s, tall athletic build, listening intently with thoughtful expression",
+        "clothing": "Well-tailored dark suit, expensive but conservative, hands clasped behind back",
+        "position": "Standing among small audience, leaning forward with genuine interest",
+        "action": "Asking penetrating questions and taking mental notes, clearly engaged with progressive ideas"
+      }
+    ],
+    "scene": {
+      "mainElements": "Academic lecture hall with high ceilings, blackboard covered with scientific formulas and diagrams, wooden demonstration table with scientific instruments, charts showing technological innovations",
+      "details": "Glass cases displaying geological specimens and scientific models, skeleton of some creature for anatomical study, telescope and other precision instruments, stacks of scientific journals and books, globe showing world geography, prisms and optical equipment, measuring devices and brass instruments gleaming in afternoon light",
+      "background": "Tall windows with institutional frames, bookshelves reaching to ceiling filled with academic texts, portrait of some scientific pioneer",
+      "atmosphere": "Intellectual excitement and progressive optimism, sense of science offering solutions to human problems, meeting of practical merchant mind with theoretical scientific vision, hope for rational progress, no text or letters visible"
+    },
+    "composition": {
+      "cameraAngle": "Medium shot showing both the enthusiastic lecturer and attentive older student",
+      "focus": "The exchange of ideas between generations representing different approaches to progress",
+      "depth": "Foreground: scientific instruments and charts, middle: both men engaged in discussion, background: academic setting with books and equipment"
+    }
+  }
+}

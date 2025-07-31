@@ -1,0 +1,41 @@
+{
+  "sceneDescription": {
+    "title": "A Moment of False Hope",
+    "setting": {
+      "time": "1878 winter, evening",
+      "location": "Elegant drawing room in aristocratic Warsaw townhouse, Congress Poland, furnished with crystal and velvet",
+      "weather": "Not applicable - interior scene"
+    },
+    "characters": [
+      {
+        "appearance": "Beautiful woman in early 20s, blonde hair in evening style, unusually warm expression",
+        "clothing": "Elegant evening gown of deep blue silk, pearl necklace, long gloves",
+        "position": "Seated at piano, turned toward the man",
+        "action": "Smiling genuinely while resting hand on piano keys"
+      },
+      {
+        "appearance": "Man in early 40s, dark hair, face transformed by hope",
+        "clothing": "Formal evening wear, black tailcoat, white bow tie",
+        "position": "Standing beside piano, leaning slightly toward her",
+        "action": "Speaking animatedly while holding sheet music"
+      },
+      {
+        "appearance": "Aristocratic older woman in her 50s, sharp features",
+        "clothing": "Elaborate burgundy gown with jewels",
+        "position": "Seated in armchair near fireplace",
+        "action": "Watching the pair with calculating expression"
+      }
+    ],
+    "scene": {
+      "mainElements": "Intimate drawing room scene with beautiful woman at piano showing unexpected warmth to merchant, creating moment of connection, watchful chaperone nearby",
+      "details": "Grand piano with candelabra casting warm light, sheet music scattered on piano top, oil paintings in gold frames, Persian rug, crystal chandelier dimly lit, fireplace with low fire, velvet curtains drawn, mirrors reflecting candlelight, vase of white roses on side table, no text or letters visible",
+      "background": "Elegant furniture arranged throughout room, doorway to darkened hallway, family portraits on walls",
+      "atmosphere": "Rare moment of genuine connection and warmth, tinged with underlying calculation and social surveillance"
+    },
+    "composition": {
+      "cameraAngle": "Medium shot encompassing piano area and watching chaperone",
+      "focus": "The fleeting moment of warmth between the unlikely pair",
+      "depth": "Piano and couple in foreground, room furnishings in middle, chaperone in background"
+    }
+  }
+}

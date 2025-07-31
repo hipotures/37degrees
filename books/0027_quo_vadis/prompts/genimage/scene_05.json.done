@@ -1,0 +1,96 @@
+{
+  "sceneDescription": {
+    "setting": {
+      "time": "64 AD, morning, several hours after sunrise",
+      "location": "Kitchen of Roman villa, stone cooking area with hearth",
+      "weather": "Clear morning with warm sunlight streaming through doorway"
+    },
+    "characters": [
+      {
+        "appearance": "Christian servant woman in her thirties, gentle face marked by secret faith, calloused hands from labor",
+        "clothing": "Simple gray wool tunic, leather apron, small fish symbol carved into wooden spoon handle",
+        "position": "Bent over stone hearth in Plautius household kitchen",
+        "action": "Secretly blessing bread dough while kneading, preparing for hidden Christian gathering, whispering prayer"
+      }
+    ],
+    "scene": {
+      "mainElements": "Stone hearth with glowing coals, bronze cookware suspended over flames, wooden preparation table with food items",
+      "details": "Steam rising from bread ovens creating warm clouds, round loaves marked with subtle cross pattern cooling on wooden boards, olive oil for anointing in ceramic vessels, herbs blessed for communion on table, clay water jugs for baptism ceremonies, morning sunlight illuminating dust motes, fish symbol scratched into wooden table edge",
+      "background": "Storage amphorae lined against walls, doorway opening to garden courtyard with bright morning light, hanging bundles of dried herbs and garlic",
+      "atmosphere": "Warm kitchen scents of cooking food and wood smoke, comfortable domestic rhythm, steam adding humidity to morning air, sense of preparation for the day"
+    },
+    "composition": {
+      "cameraAngle": "Medium shot from kitchen entrance looking toward hearth",
+      "focus": "Figure silhouetted against firelight with steam rising around her",
+      "depth": "Foreground food preparation items, middle ground cook at hearth with steam, background storage areas and garden doorway"
+    }
+  },
+  "colorPalette": {
+    "primary": [
+      "rich golds",
+      "deep bronze",
+      "royal purple",
+      "celestial blue"
+    ],
+    "secondary": [
+      "ivory",
+      "crimson",
+      "emerald green"
+    ],
+    "background": "dramatic skies, divine light",
+    "usageNotes": "Rich, regal colors with metallic tones",
+    "saturation": "high",
+    "contrast": "dramatic"
+  },
+  "lineArt": {
+    "style": "bold, heroic contours",
+    "weight": "strong, confident",
+    "color": "dark bronze or black",
+    "texture": "smooth, flowing",
+    "edgeTreatment": "dramatic, idealized forms"
+  },
+  "lighting": {
+    "type": "divine, dramatic",
+    "direction": "heavenly rays, rim lighting",
+    "intensity": "powerful, golden",
+    "shadows": {
+      "style": "deep, dramatic",
+      "color": "purple-bronze tones",
+      "opacity": "rich, not black"
+    },
+    "highlights": "golden, divine glow"
+  },
+  "rendering": {
+    "technique": "classical painting style",
+    "texture": "smooth with dramatic brushwork",
+    "detailLevel": "high in key areas, atmospheric distance",
+    "finish": "polished, museum quality"
+  },
+  "perspective": "heroic, looking up at figures",
+  "mood": {
+    "overall": "majestic, awe-inspiring, legendary",
+    "emotion": "wonder, reverence, heroism",
+    "tempo": "epic, timeless",
+    "keywords": [
+      "majestic",
+      "divine",
+      "heroic",
+      "legendary",
+      "monumental"
+    ]
+  },
+  "stylePrecedents": [
+    "Classical Greek art",
+    "Renaissance masters",
+    "John William Waterhouse"
+  ],
+  "technicalSpecifications": {
+    "resolution": {
+      "aspectRatio": "9:16",
+      "minWidth": 1080,
+      "minHeight": 1920,
+      "unit": "pixels"
+    },
+    "orientation": "Portrait/Vertical"
+  }
+}

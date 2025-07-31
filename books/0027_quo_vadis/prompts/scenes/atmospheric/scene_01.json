@@ -1,0 +1,29 @@
+{
+  "sceneDescription": {
+    "title": "Vinicius Contemplates at Dawn on Palatine Hill",
+    "setting": {
+      "time": "64 AD, pre-dawn darkness, last hour before sunrise",
+      "location": "Seven hills of Rome, viewing the city from Palatine Hill",
+      "weather": "Clear night with gentle morning mist beginning to form in valleys"
+    },
+    "characters": [
+      {
+        "appearance": "Marcus Vinicius, young Roman patrician in his twenties, noble features, tall athletic build, troubled expression",
+        "clothing": "Dark woolen toga with senatorial purple stripe, leather sandals, gold fibula with family crest",
+        "position": "Standing on marble balustrade of Palatine palace terrace",
+        "action": "Gazing toward distant Aventine Hill where Lygia lives, lost in thoughts of love and longing"
+      }
+    ],
+    "scene": {
+      "mainElements": "Vast panorama of ancient Rome spread below in darkness, seven hills visible as dark silhouettes, occasional torch flames flickering in distant windows",
+      "details": "Last stars fading in deep blue sky, thin wisps of mist rising from Tiber River valley, smoke from dying braziers creating pale columns, marble balustrade with carved vine patterns, oil lamp burning low on stone pedestal, first bird perched on cypress branch",
+      "background": "Eastern horizon showing faintest hint of pale light, constellation of Venus still visible, distant aqueducts crossing valleys like stone bridges, hills of Latium beyond the city",
+      "atmosphere": "The world holding its breath between night and day, young patrician's heart heavy with unrequited love, cool air carrying scent of olive oil and wood smoke from awakening city below"
+    },
+    "composition": {
+      "cameraAngle": "Wide establishing shot from elevated position looking down and across",
+      "focus": "Silhouetted figure against the vast sleeping city panorama",
+      "depth": "Foreground marble terrace and figure, middle ground city sprawl with flickering lights, background distant hills and brightening sky"
+    }
+  }
+}

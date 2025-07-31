@@ -1,0 +1,96 @@
+{
+  "sceneDescription": {
+    "setting": {
+      "time": "64 AD, late afternoon, storm beginning",
+      "location": "Busy marketplace near Forum Boarium, stone-paved square",
+      "weather": "Clear hot night with dangerous wind gusts fanning flames, sparks flying between buildings"
+    },
+    "characters": [
+      {
+        "appearance": "Terrified shopkeeper, woman in her thirties, soot-stained face, eyes wide with panic as flames approach",
+        "clothing": "Brown wool dress singed at edges, torn apron, sandals ready for flight, head scarf loosened in haste",
+        "position": "Frantically gathering possessions as fire spreads through Circus Maximus district",
+        "action": "Racing against advancing flames to save family treasures, arms full of precious items, preparing to flee burning Rome"
+      }
+    ],
+    "scene": {
+      "mainElements": "Marketplace with wooden stalls and canvas awnings beginning to flap, stone cobblestones showing first dark spots from raindrops",
+      "details": "Sparks and burning debris falling like deadly rain on stone streets, papers and cloth igniting in fire-driven wind gusts, wooden stall covers beginning to smolder, people running in terror from advancing flames, bucket chains forming desperately, dust mixing with ash and smoke, air growing thick and choking",
+      "background": "Other vendors securing goods, customers hurrying for covered areas, distant lightning visible between buildings, sound of wind increasing",
+      "atmosphere": "Sudden transformation from peaceful night to apocalyptic terror, acrid smell of smoke and burning wood replacing cool air, collective panic as fire spreads, heat intensifying with flames mixed with desperate survival instinct"
+    },
+    "composition": {
+      "cameraAngle": "Medium shot at ground level showing raindrops hitting stone around figure",
+      "focus": "Vendor rushing with arms full of pottery as rain begins",
+      "depth": "Foreground cobblestones with rain spots, middle ground frantic figure with goods, background other people seeking shelter"
+    }
+  },
+  "colorPalette": {
+    "primary": [
+      "rich golds",
+      "deep bronze",
+      "royal purple",
+      "celestial blue"
+    ],
+    "secondary": [
+      "ivory",
+      "crimson",
+      "emerald green"
+    ],
+    "background": "dramatic skies, divine light",
+    "usageNotes": "Rich, regal colors with metallic tones",
+    "saturation": "high",
+    "contrast": "dramatic"
+  },
+  "lineArt": {
+    "style": "bold, heroic contours",
+    "weight": "strong, confident",
+    "color": "dark bronze or black",
+    "texture": "smooth, flowing",
+    "edgeTreatment": "dramatic, idealized forms"
+  },
+  "lighting": {
+    "type": "divine, dramatic",
+    "direction": "heavenly rays, rim lighting",
+    "intensity": "powerful, golden",
+    "shadows": {
+      "style": "deep, dramatic",
+      "color": "purple-bronze tones",
+      "opacity": "rich, not black"
+    },
+    "highlights": "golden, divine glow"
+  },
+  "rendering": {
+    "technique": "classical painting style",
+    "texture": "smooth with dramatic brushwork",
+    "detailLevel": "high in key areas, atmospheric distance",
+    "finish": "polished, museum quality"
+  },
+  "perspective": "heroic, looking up at figures",
+  "mood": {
+    "overall": "majestic, awe-inspiring, legendary",
+    "emotion": "wonder, reverence, heroism",
+    "tempo": "epic, timeless",
+    "keywords": [
+      "majestic",
+      "divine",
+      "heroic",
+      "legendary",
+      "monumental"
+    ]
+  },
+  "stylePrecedents": [
+    "Classical Greek art",
+    "Renaissance masters",
+    "John William Waterhouse"
+  ],
+  "technicalSpecifications": {
+    "resolution": {
+      "aspectRatio": "9:16",
+      "minWidth": 1080,
+      "minHeight": 1920,
+      "unit": "pixels"
+    },
+    "orientation": "Portrait/Vertical"
+  }
+}

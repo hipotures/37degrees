@@ -1,0 +1,29 @@
+{
+  "sceneDescription": {
+    "title": "Crossroads Between Two Worlds",
+    "setting": {
+      "time": "1879, dawn",
+      "location": "Literal crossroads where elegant city street meets rough working district",
+      "weather": "Early morning mist creating ethereal atmosphere, first sunlight breaking through"
+    },
+    "characters": [
+      {
+        "appearance": "Middle-aged man, 40s, standing exactly at intersection point, expression showing internal conflict",
+        "clothing": "Dark overcoat, formal hat in hands, expensive shoes now dusty from walking",
+        "position": "Standing precisely where two different worlds meet, left foot on polished cobblestones, right foot on rough dirt road",
+        "action": "Hesitating between two clearly visible paths, physically embodying choice between different life directions"
+      }
+    ],
+    "scene": {
+      "mainElements": "Literal fork in road with two distinct paths - left leading toward elegant district with gas lamps and fine buildings, right leading toward working district with rougher construction and industrial smoke",
+      "details": "Wooden crossroads signpost with two directional arrows pointing different ways, morning mist swirling around decision point, clear visual contrast between polished cobblestones leading to wealthy district and dirt path leading to working area, gas street lamps still glowing on elegant side, forge fires visible on working side, birds beginning morning songs",
+      "background": "Two completely different cityscapes visible - one showing spires and elegant architecture, other showing factory chimneys and tenement buildings",
+      "atmosphere": "Physical manifestation of life's crucial decision point, contrast between comfortable privilege and authentic human connection, dawn light symbolizing new beginning possible in either direction, moment of choice between different values and ways of living, no text or letters visible"
+    },
+    "composition": {
+      "cameraAngle": "Wide shot showing the crossroads and both possible destinations",
+      "focus": "Man positioned exactly at the dividing point between two worlds",
+      "depth": "Foreground: crossroads signpost and decision point, middle: hesitating figure, background: two divergent paths leading to different destinies"
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "sceneDescription": {
+    "setting": {
+      "time": "1930s Moscow, early evening, same day",
+      "location": "Elegant dining room inside Moscow writers' club building",
+      "weather": "Interior scene, warm electric lighting"
+    },
+    "characters": [
+      {
+        "appearance": "Well-dressed man, 50s, graying hair, round spectacles, comfortable build",
+        "clothing": "Dark suit, white shirt, bow tie, pocket watch chain visible",
+        "position": "Seated at large dining table with white tablecloth",
+        "action": "Cutting into expensive meal while engaged in animated conversation"
+      },
+      {
+        "appearance": "Middle-aged woman, 40s, fashionably dressed, carefully styled hair",
+        "clothing": "Elegant dress, jewelry, stylish hat placed on nearby chair",
+        "position": "Seated across from first man at same table",
+        "action": "Gesturing expressively with wine glass in hand"
+      },
+      {
+        "appearance": "Young waiter, 20s, thin build, nervous demeanor",
+        "clothing": "White jacket, black bow tie, black trousers, polished shoes",
+        "position": "Standing beside table with serving tray",
+        "action": "Serving fine dishes while listening to urgent whispered conversation"
+      }
+    ],
+    "scene": {
+      "mainElements": "Luxurious restaurant interior with white tablecloths, crystal glasses, fine china, elegant furniture",
+      "details": "Ornate chandelier casting warm light, heavy curtains at windows, polished wooden floors, expensive silverware and porcelain, wine bottles on sideboard, oil paintings on walls depicting literary scenes",
+      "background": "Other dining tables partially visible with well-dressed literary figures, glimpse of kitchen doors through archway",
+      "atmosphere": "Privileged literary elite enjoying fine dining while urgent news spreads through hushed conversations, contrast between luxury and growing anxiety, no text or letters visible"
+    },
+    "composition": {
+      "cameraAngle": "Medium shot from table level, emphasizing the elegant dining scene",
+      "focus": "The contrast between luxurious meal and worried expressions of diners",
+      "depth": "Foreground: elegant table setting with fine dining; middle ground: well-dressed literary figures; background: restaurant interior with other tables and wall decorations"
+    }
+  },
+  "colorPalette": {
+    "primary": [
+      "muted blues",
+      "soft purples",
+      "misty grays"
+    ],
+    "secondary": [
+      "pale golds",
+      "dusty roses",
+      "seafoam greens"
+    ],
+    "background": "gradient washes, nebulous",
+    "usageNotes": "Soft, dreamy colors that blend into each other",
+    "saturation": "low to medium",
+    "contrast": "soft, hazy"
+  },
+  "lineArt": {
+    "style": "fluid, dissolving",
+    "weight": "varied, sometimes fading",
+    "color": "soft, often colored lines",
+    "texture": "smooth, organic",
+    "edgeTreatment": "soft, sometimes undefined"
+  },
+  "lighting": {
+    "type": "otherworldly, multiple sources",
+    "direction": "illogical, dreamlike",
+    "intensity": "soft, glowing",
+    "shadows": {
+      "style": "soft, sometimes defying physics",
+      "color": "colored shadows",
+      "opacity": "translucent"
+    },
+    "highlights": "ethereal glows"
+  },
+  "rendering": {
+    "technique": "smooth blending, sfumato",
+    "texture": "soft, cloud-like",
+    "detailLevel": "selective focus, some areas sharp, others dissolving",
+    "finish": "dreamlike, atmospheric"
+  },
+  "perspective": "impossible, shifting, non-Euclidean",
+  "mood": {
+    "overall": "mysterious, contemplative, otherworldly",
+    "emotion": "wonder, unease, transcendence",
+    "tempo": "floating, timeless",
+    "keywords": [
+      "mysterious",
+      "dreamlike",
+      "surreal",
+      "metaphysical",
+      "transcendent"
+    ]
+  },
+  "stylePrecedents": [
+    "Salvador Dalí",
+    "René Magritte",
+    "Remedios Varo"
+  ],
+  "technicalSpecifications": {
+    "resolution": {
+      "aspectRatio": "9:16",
+      "minWidth": 1080,
+      "minHeight": 1920,
+      "unit": "pixels"
+    },
+    "orientation": "Portrait/Vertical"
+  }
+}

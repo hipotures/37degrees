@@ -1,0 +1,29 @@
+{
+  "sceneDescription": {
+    "title": "Rome After Fire - Ash-Covered Ruins",
+    "setting": {
+      "time": "64 AD, late afternoon, immediately after thunderstorm",
+      "location": "Via Appia, main road outside Rome, stone-paved thoroughfare",
+      "weather": "Fire finally extinguished, ash settling like gray snow, smoky air beginning to clear"
+    },
+    "characters": [
+      {
+        "appearance": "Christian survivor in his forties, ash-stained face showing grief and determination, hollow eyes witnessing destruction",
+        "clothing": "Brown wool cloak covered in ash and soot, leather boots stepping through debris, pack containing rescued sacred books",
+        "position": "Walking through devastated streets toward surviving Christian community",
+        "action": "Searching for fellow believers among ruins, carrying rescued Christian texts, helping other survivors"
+      }
+    ],
+    "scene": {
+      "mainElements": "Stone-paved Roman road with large puddles reflecting patches of blue sky breaking through clouds, steam rising from wet surfaces",
+      "details": "Everything covered with gray ash like snow, blackened timbers still smoldering, stone pavement cracked from heat, wheel ruts filled with ash and debris, devastated world showing extent of destruction, smoke columns still rising from ruins, air thick with ash particles",
+      "background": "Roman city walls and gates visible ahead, aqueduct arches crossing valley with water cascading from storm runoff, hills sharp and clear in clean air",
+      "atmosphere": "World transformed by destruction yet spirit unbroken, acrid scent of burned buildings and ash, temperature finally cooled from fire's heat, sense of loss mixed with Christian hope for renewal"
+    },
+    "composition": {
+      "cameraAngle": "Low angle showing puddle reflections with figure walking through",
+      "focus": "Traveler's reflection in road puddles with steam rising around him",
+      "depth": "Foreground water reflections on stone, middle ground walking figure leaving ripples, background clear view of city walls"
+    }
+  }
+}

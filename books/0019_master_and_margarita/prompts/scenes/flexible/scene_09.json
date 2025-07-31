@@ -1,0 +1,35 @@
+{
+  "sceneDescription": {
+    "title": "Margarita's Elegant World",
+    "setting": {
+      "time": "1930s Moscow, afternoon, wealthy residential area",
+      "location": "Luxurious Moscow apartment, well-appointed drawing room",
+      "weather": "Interior, natural light from large windows"
+    },
+    "characters": [
+      {
+        "appearance": "Elegant woman, early 30s, beautiful features, melancholy expression, well-groomed",
+        "clothing": "Expensive day dress, fine jewelry, perfectly styled hair, quality shoes",
+        "position": "Standing by large window overlooking Moscow street",
+        "action": "Gazing out window with distant, yearning expression, holding delicate teacup"
+      },
+      {
+        "appearance": "Middle-aged domestic servant, 50s, neat appearance, deferential manner",
+        "clothing": "Simple but clean domestic uniform, white apron, sensible shoes",
+        "position": "Entering room with silver tea service on tray",
+        "action": "Setting down tea service on polished table, moving quietly and efficiently"
+      }
+    ],
+    "scene": {
+      "mainElements": "Elegant drawing room with fine furniture, Persian rugs, crystal chandelier, bookcases",
+      "details": "Polished mahogany furniture, silk curtains at tall windows, oil paintings in gold frames, crystal vases with fresh flowers, leather-bound books on shelves, silver tea service with fine china, ornate clock on mantelpiece",
+      "background": "View through window shows Moscow street with other elegant buildings, tree-lined boulevard",
+      "atmosphere": "Material comfort contrasted with emotional emptiness, luxury that cannot fill spiritual void, longing for something beyond privileged circumstances, no text or letters visible"
+    },
+    "composition": {
+      "cameraAngle": "Medium shot from interior, emphasizing contrast between luxury and longing",
+      "focus": "Woman's wistful expression contrasted with surrounding opulence",
+      "depth": "Foreground: elegant furniture and tea service; middle ground: woman at window in fine clothing; background: Moscow street scene through large windows"
+    }
+  }
+}

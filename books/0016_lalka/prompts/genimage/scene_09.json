@@ -1,0 +1,99 @@
+{
+  "sceneDescription": {
+    "setting": {
+      "time": "1878 autumn, mid-morning",
+      "location": "Merchant's private office behind textile shop, Warsaw commercial district, mahogany-furnished business quarters",
+      "weather": "Overcast day visible through windows"
+    },
+    "characters": [
+      {
+        "appearance": "Man in early 40s, dark hair, suddenly alert expression, gripping letter",
+        "clothing": "Business attire - black coat, grey vest, white shirt",
+        "position": "Standing behind desk, holding opened letter",
+        "action": "Reading with intense focus, hand trembling slightly"
+      },
+      {
+        "appearance": "Young male clerk in his 20s, eager face, neat appearance",
+        "clothing": "Simple brown suit, white shirt, black tie",
+        "position": "Standing in doorway",
+        "action": "Watching his employer with curious concern"
+      }
+    ],
+    "scene": {
+      "mainElements": "Elegant office with merchant reading letter that has clearly affected him deeply, ornate desk covered with business papers, young clerk witnessing the moment",
+      "details": "Mahogany desk with green leather inlay, crystal inkwell, scattered invoices and ledgers, letter with elaborate wax seal broken, portrait of serious man on wall, filing cabinets, comfortable leather chairs, abacus on side table, no text or letters visible",
+      "background": "Bookshelves with account books, window showing grey Warsaw day, connecting door to shop",
+      "atmosphere": "Sudden tension and anticipation, a moment of dramatic change breaking routine"
+    },
+    "composition": {
+      "cameraAngle": "Medium shot capturing both the merchant's reaction and clerk's concern",
+      "focus": "The merchant's intense expression as he reads the pivotal letter",
+      "depth": "Merchant at desk in foreground, clerk in doorway middle ground, office details in background"
+    }
+  },
+  "colorPalette": {
+    "primary": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "secondary": [
+      "sepia tones",
+      "aged paper"
+    ],
+    "background": "cream or aged paper",
+    "usageNotes": "Primarily monochromatic, occasional sepia wash",
+    "saturation": "none to minimal",
+    "contrast": "high through line density"
+  },
+  "lineArt": {
+    "style": "precise engraving lines",
+    "weight": "very fine, built up in layers",
+    "color": "black ink",
+    "texture": "crosshatching, stippling",
+    "edgeTreatment": "precise, controlled"
+  },
+  "lighting": {
+    "type": "classical, theatrical",
+    "direction": "three-quarter lighting",
+    "intensity": "dramatic through line density",
+    "shadows": {
+      "style": "built through crosshatching",
+      "color": "black line density",
+      "opacity": "varied through technique"
+    },
+    "highlights": "white paper showing through"
+  },
+  "rendering": {
+    "technique": "steel engraving simulation",
+    "texture": "fine line patterns throughout",
+    "detailLevel": "extremely high, meticulous",
+    "finish": "printed illustration quality"
+  },
+  "perspective": "classical, accurate",
+  "mood": {
+    "overall": "formal, literary, refined",
+    "emotion": "dignity, propriety, narrative drama",
+    "tempo": "measured, contemplative",
+    "keywords": [
+      "classical",
+      "refined",
+      "literary",
+      "formal",
+      "dignified"
+    ]
+  },
+  "stylePrecedents": [
+    "Gustave Doré",
+    "John Tenniel",
+    "George Cruikshank"
+  ],
+  "technicalSpecifications": {
+    "resolution": {
+      "aspectRatio": "9:16",
+      "minWidth": 1080,
+      "minHeight": 1920,
+      "unit": "pixels"
+    },
+    "orientation": "Portrait/Vertical"
+  }
+}
