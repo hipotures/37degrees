@@ -39,8 +39,10 @@ Thumbs.db
 
 # Generated multimedia files
 *.mp4
+*.mp4.*
 *.avi
 *.mov
+*.mov.*
 *.mkv
 *.webm
 *.mp3
@@ -48,10 +50,8 @@ Thumbs.db
 *.ogg
 
 # Generated images (except source assets)
-*/frames/
-*/scenes/
-*/scenes_v2/
-*/generated/
+*.png
+*.png.*
 */output/
 */temp/
 *_tiktok.mp4
