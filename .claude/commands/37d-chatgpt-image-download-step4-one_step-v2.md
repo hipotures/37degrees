@@ -11,12 +11,19 @@ UWAGA: Używaj MCP playwright-headless do automatyzacji
 
   0. Sprawdź TODO list
 
-  // Sprawdź czy istnieje TODO file
-  ls -la /home/xai/DEV/37degrees/books/[BOOK_FOLDER]/generated/TODO-DOWNLOAD.md
-  
-  // Jeśli nie istnieje → utwórz TODO (patrz sekcja "Tworzenie TODO")
-  // Jeśli istnieje → znajdź pierwsze nieukończone zadanie
-  grep -n "^\[ \]" /home/xai/DEV/37degrees/books/[BOOK_FOLDER]/generated/TODO-DOWNLOAD.md | head -1
+  // Wykonaj to polecenie shell i postępuj zgodnie z ty, co wypisze na output:
+  if [ -f "/home/xai/DEV/37degrees/books/[BOOK_FOLDER]/generated/TODO-DOWNLOAD.md" ]; then \
+    TASK=$(grep -n "^\[ \]" /home/xai/DEV/37degrees/books/[BOOK_FOLDER]/generated/TODO-DOWNLOAD.md | head -1); \
+    if [ -n "$TASK" ]; then \
+      echo "TODO-DOWNLOAD.md istnieje. Pierwsze zadanie: $TASK - pobierz obrazy z tego chata"; \
+    else \
+      echo "TODO-DOWNLOAD.md istnieje ale wszystkie zadania ukończone"; \
+    fi; \
+  else \
+    echo "TODO-DOWNLOAD.md nie istnieje w /generated/, utwórz nowy (przejdź do sekcji Tworzenie TODO)"; \
+  fi
+
+  // CRITICAL: To polecenie sprawdza TYLKO folder "generated" i nic więcej!
 
   1. Nawigacja do ChatGPT
 
@@ -35,13 +42,55 @@ UWAGA: Używaj MCP playwright-headless do automatyzacji
   // Jeśli TODO line 3 = kliknij 3. konwersację w liście
   mcp__playwright-headless__browser_click(element: "Conversation at position [N] in sidebar");
 
-  3. Pobierz obrazy
+  3. Pobierz wszystkie obrazy z chatu
 
-  // Zrób snapshot aby zobaczyć obrazy
+  // Zrób snapshot aby zobaczyć strukturę chatu
   mcp__playwright-headless__browser_snapshot();
 
-  // Dla każdego obrazu w konwersacji:
-  mcp__playwright-headless__browser_click(element: "Download this image button");
+  // CRITICAL: Chat może mieć 3 typy sytuacji:
+  // 1. Single obraz - jeden prompt, jedna odpowiedź, jeden "Download this image"
+  // 2. Multiple odpowiedzi - jeden prompt, X/Y responses, "Previous/Next response" buttons
+  // 3. Multiple prompty - kilka promptów użytkownika w jednym chacie
+  // 4. KOMBINACJA - kilka promptów, niektóre z multiple odpowiedziami
+
+  // ALGORYTM: Przewiń przez CAŁY chat i pobierz wszystkie obrazy
+  
+  // Dla każdej sekcji "ChatGPT said:":
+  // 1. Sprawdź czy są przyciski "Previous response" / "Next response"
+  if (widzisz Previous/Next response buttons) {
+    // Multiple odpowiedzi na ten sam prompt - SEPARATE CLICKS APPROACH
+    // CRITICAL: ChatGPT domyślnie pokazuje ostatnią odpowiedź (2/2, 3/3, etc.)
+    
+    // KROK 1: Pobierz obraz z AKTUALNEJ odpowiedzi (ostatniej: 2/2)
+    mcp__playwright-headless__browser_click(element: "Download this image button");
+    
+    // KROK 2: Przejdź do PIERWSZEJ odpowiedzi i pobierz z niej
+    mcp__playwright-headless__browser_evaluate(() => {
+      const buttons = Array.from(document.querySelectorAll('button'));
+      const prevButton = buttons.find(btn => {
+        const label = btn.getAttribute('aria-label') || '';
+        return label.includes('Previous response');
+      });
+      if (prevButton && !prevButton.disabled) {
+        prevButton.click();
+        return 'Moved to previous response';
+      }
+      return 'Already at first response';
+    });
+    
+    // KROK 3: Pobierz obraz z pierwszej odpowiedzi (1/2)
+    mcp__playwright-headless__browser_click(element: "Download this image button");
+    
+    // UWAGA: Ten algorytm działa dla 2 odpowiedzi (1/2, 2/2)
+    // Dla więcej odpowiedzi trzeba rozszerzyć logikę
+    
+  } else {
+    // Single odpowiedź - pobierz wszystkie obrazy z tej sekcji
+    mcp__playwright-headless__browser_click(element: "Download this image button");
+  }
+  
+  // POWTARZAJ dla każdej sekcji "ChatGPT said:" w chacie
+  // WSZYSTKIE obrazy z chatu dotyczą tej samej sceny (numer z pierwszego JSON)
   
   // Poczekaj na pobranie
   mcp__playwright-headless__browser_wait_for(time: 5);
@@ -51,9 +100,10 @@ UWAGA: Używaj MCP playwright-headless do automatyzacji
   // Znajdź pobrane pliki
   ls -la -t /tmp/playwright-mcp-files/ChatGPT-Image*.png
 
-  // Sprawdź czy chat ma JSON ze sceną
-  // Jeśli tak: użyj nazwy 0016_scene_12.png, 0016_scene_12_a.png
-  // Jeśli nie: użyj nazwy 0016_generic_001.png, 0016_generic_002.png
+  // Sprawdź pierwszy prompt w chacie czy ma JSON ze sceną
+  // Jeśli tak: użyj nazwy 0016_scene_12.png, 0016_scene_12_a.png, 0016_scene_12_b.png...
+  // Jeśli nie: użyj nazwy 0016_generic_001.png, 0016_generic_002.png, 0016_generic_003.png...
+  // WSZYSTKIE obrazy z jednego chatu mają ten sam numer sceny!
 
   // CRITICAL: Sprawdź czy plik już istnieje!
   ls -la /home/xai/DEV/37degrees/books/[BOOK_FOLDER]/generated/[PLANNED_NAME].png
@@ -105,6 +155,7 @@ UWAGA: Używaj MCP playwright-headless do automatyzacji
   - Plik obrazu został zapisany w /books/[BOOK_FOLDER]/generated/
   - TODO pokazuje [x] przy ukończonym zadaniu
   - Nie nadpisano istniejących plików
+  - Dla chatów z multiple odpowiedziami: 2 różne pliki PNG pobrane (różne rozmiary)
 
   Uwagi techniczne:
 
@@ -113,3 +164,6 @@ UWAGA: Używaj MCP playwright-headless do automatyzacji
   - Użyj POZYCJI w sidebar dla identycznych nazw chatów
   - Przewiń PRZED tworzeniem TODO (lazy loading)
   - Zamknij browser na końcu (zapobiega konfliktom)
+  - Multiple odpowiedzi: używaj SEPARATE CLICKS zamiast atomic evaluate
+  - Przyciski wykrywaj przez aria-label, nie textContent
+  - ChatGPT automatycznie wraca do ostatniej odpowiedzi - dlatego najpierw pobierz z niej
