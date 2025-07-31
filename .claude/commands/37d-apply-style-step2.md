@@ -1,82 +1,84 @@
 # Custom Instruction: Step 2 - Style Applicator
 
 ## Task Overview
-Apply a selected graphic style to existing scene descriptions to create final AI-ready prompts.
+Apply a selected graphic style to existing scene descriptions to create final AI-ready prompts using automated script.
 
 ## Input Parameters
-1. **Book Title**: (e.g., "Wuthering Heights")
-2. **Author**: (e.g., "Emily Brontë")
-3. **Scene Set**: Which set to apply style to (`narrative`, `flexible`, `podcast`, `atmospheric`, or `emotional`)
-4. **Style Name**: Graphic style to apply (e.g., `line-art-style`)
-5. **Scene Number** (optional): Specific scene to process (e.g., `15` for scene_15.json)
+1. **Book Title** or **Book Number**: (e.g., "Wuthering Heights" or "0037_wuthering_heights")
+2. **Scene Set**: Which set to apply style to (`narrative`, `flexible`, `podcast`, `atmospheric`, or `emotional`)
+3. **Style Name**: Graphic style to apply (e.g., `line-art-style` or `victorian-book-illustration-style`)
+4. **Scene Number** (optional): Specific scene to process (e.g., `15` for scene_15.json)
 
 ## Process Steps
 
 ### 1. Locate Book Directory
-- Read `docs/STRUCTURE.md` to understand project structure
-- Find book directory by searching for book title/author in `books/` directories
+- Find book directory by searching for book title/number in `books/` directories
 - Identify book number and path (e.g., `books/0037_wuthering_heights/`)
 
-### 2. Load Resources
-- **Scene(s)**: 
-  - If scene number provided: Load `books/[book_dir]/prompts/scenes/[scene_set]/scene_[number].json`
-  - Otherwise: Load all 25 scenes from `books/[book_dir]/prompts/scenes/[scene_set]/`
-- **Style**: Load style from `config/prompt/graphics-styles/[style_name].json`
-- **Technical Specifications**: Load from `config/prompt/technical-specifications.json`
-- Validate all files are valid JSON
+### 2. Execute Merge Script
+Use the automated merge script to process scenes:
 
-### 3. Merge Process
-For each scene file:
+```bash
+python3 scripts/merge-scenes-with-style.py \
+  books/[book_dir]/prompts/scenes/[scene_set]/ \
+  books/[book_dir]/prompts/genimage/ \
+  [style_name] \
+  technical-specifications
+```
 
-#### A. Extract from Scene JSON:
-- `sceneDescription` (entire section with all subsections EXCEPT `title`)
-- Exclude `title` field from sceneDescription (not a visual element)
+The script automatically:
+- Loads all scene JSON files from source directory
+- Loads specified style from `config/prompt/graphics-styles/`
+- Loads technical specifications from `config/prompt/technical-specifications.json`
+- Merges scene descriptions (excluding `title`) with style and specifications
+- Excludes metadata fields: `styleName`, `description`, `aiPrompts`
+- Saves merged files to genimage directory
 
-#### B. Add from Style JSON all fields EXCEPT:
-- `styleName` (metadata)
-- `description` (metadata)
-- `aiPrompts` (redundant prompt information)
+### 3. Verification Process
+After script execution, verify three sample files for quality assurance:
 
-#### C. Add Technical Specifications:
-- Include all fields from `technical-specifications.json`
-- These provide standard resolution and format requirements
+#### Verify Scene 01 (First):
+- Read and validate `books/[book_dir]/prompts/genimage/scene_01.json`
+- Check JSON syntax is valid
+- Confirm contains `sceneDescription` without `title` field
+- Verify style fields are present (colorPalette, lineArt, lighting, etc.)
+- Confirm technical specifications are included
+
+#### Verify Scene 13 (Middle):
+- Read and validate `books/[book_dir]/prompts/genimage/scene_13.json`
+- Perform same checks as scene 01
+- Ensure consistent merge quality
+
+#### Verify Scene 25 (Last):
+- Read and validate `books/[book_dir]/prompts/genimage/scene_25.json`
+- Perform same checks as scene 01
+- Confirm all scenes processed successfully
 
 ### 4. Output Location and Structure
 
 #### Output directory:
-Save all generated files to:
 ```
 books/[book_number]_[book_name]/prompts/genimage/
 ```
 
-**Important**: Create the `genimage/` directory if it doesn't exist.
-
 #### File naming:
-- For all scenes: `scene_01.json`, `scene_02.json`, etc. (maintain original naming)
-- For single scene: `scene_[number].json` (e.g., `scene_15.json`)
-
-#### Example output structure:
-```
-books/0037_wuthering_heights/prompts/genimage/
-  ├── scene_01.json  # Merged scene 1 + selected style
-  ├── scene_02.json  # Merged scene 2 + selected style
-  └── ... (25 files total, or just 1 if single scene specified)
-```
+- For all scenes: `scene_01.json`, `scene_02.json`, etc.
+- For single scene: `scene_[number].json`
 
 #### Example commands:
-- All scenes: "Apply line-art-style to 'Wuthering Heights' by Emily Brontë, narrative set"
-- Single scene: "Apply watercolor-style to 'Wuthering Heights' by Emily Brontë, narrative set, scene 15"
-
+- All scenes: "Apply line-art-style to 'Wuthering Heights', narrative set"
+- Single scene: "Apply watercolor-style to 'Wuthering Heights', narrative set, scene 15"
 
 ## Important Guidelines
-- Preserve exact field structure from both sources
-- Ensure output is valid JSON
-- Style fields override any conflicting scene fields
-- Do not modify field values, only combine them
+- Use automated script for consistency and reliability
+- Always perform three-point verification (first, middle, last)
+- Report any JSON validation errors or missing fields
+- Confirm total file count matches expected scenes
 
-## Validation
-Before saving, verify:
-- Valid JSON syntax
-- Contains `sceneDescription` from scene file
-- Contains all style fields (except excluded metadata)
-- Merged structure follows expected format
+## Script Location
+The merge script is located at: `scripts/merge-scenes-with-style.py`
+
+For help with script parameters:
+```bash
+python3 scripts/merge-scenes-with-style.py --help
+```
