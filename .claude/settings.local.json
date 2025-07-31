@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__ruv-swarm",
+      "mcp__claude-flow"
+    ],
+    "deny": []
+  },
+  "enabledMcpjsonServers": [
+    "playwright-headless",
+    "playwright",
+    "playwright-show-browser"
+  ],
+  "enableAllProjectMcpServers": true
+}
