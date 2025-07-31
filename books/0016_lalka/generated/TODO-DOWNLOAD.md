@@ -1,12 +1,12 @@
 [x] Generowanie obrazu z jsona - Wygeneruj obraz opisany załączonym jsonem
 [x] Generowanie obrazu JSON - Wygeneruj obraz opisany załączonym jsonem
-[ ] New chat
+[x] New chat
 [ ] Generowanie obrazu z jsona - Wygeneruj obraz opisany załączonym jsonem
 [ ] Generowanie obrazu JSON - Wygeneruj obraz opisany załączonym jsonem
 [x] Create image from JSON scene_22 - create an image based on the scene, style, and visual specifications described in the attached JSON. The JSON is a blueprint, not the content.
 [x] Create image from JSON scene_25 - create an image based on the scene, style, and visual specifications described in the attached JSON. The JSON is a blueprint, not the content.
 [x] Create image from JSON scene_24 - create an image based on the scene, style, and visual specifications described in the attached JSON. The JSON is a blueprint, not the content.
-[x] Create image from JSON scene_23 - create an image based on the scene, style, and visual specifications described in the attached JSON. The JSON is a blueprint, not the content.
+[ ] Create image from JSON scene_23 - create an image based on the scene, style, and visual specifications described in the attached JSON. The JSON is a blueprint, not the content.
 [x] Create image from JSON scene_21 - create an image based on the scene, style, and visual specifications described in the attached JSON. The JSON is a blueprint, not the content.
 [ ] Create image from JSON scene_20 - create an image based on the scene, style, and visual specifications described in the attached JSON. The JSON is a blueprint, not the content.
 [ ] Create image from JSON scene_19 - create an image based on the scene, style, and visual specifications described in the attached JSON. The JSON is a blueprint, not the content.
