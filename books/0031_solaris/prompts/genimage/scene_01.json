@@ -1,0 +1,95 @@
+{
+  "sceneDescription": {
+    "setting": {
+      "time": "22nd century, early morning",
+      "location": "Approaching research station orbiting alien ocean planet Solaris",
+      "weather": "Clear space environment with artificial atmosphere"
+    },
+    "characters": [
+      {
+        "appearance": "Man, early 30s, brown hair, confident posture, alert expression",
+        "clothing": "Clean futuristic uniform, pressed fabric, polished boots",
+        "position": "Standing upright at observation window with hands behind back",
+        "action": "Gazing purposefully at the massive research station ahead, shoulders squared with professional confidence"
+      }
+    ],
+    "scene": {
+      "mainElements": "Futuristic spacecraft interior with wide observation window, metallic research station floating in space, brilliant alien planet visible below",
+      "details": "Control panels with soft blue lights, clean surfaces reflecting station lights, personal luggage secured nearby, viewport frame casting geometric shadows, no text or letters visible",
+      "background": "Vast orbital research station with multiple modules, swirling orange and red alien ocean surface of planet below, distant dual star system providing ethereal lighting",
+      "atmosphere": "Professional optimism, controlled anticipation, sterile technological precision, sense of important scientific mission beginning"
+    },
+    "composition": {
+      "cameraAngle": "Medium shot from behind and slightly to the side",
+      "focus": "Character's confident stance silhouetted against station view",
+      "depth": "Character in foreground, research station in middle distance, alien planet filling background"
+    }
+  },
+  "colorPalette": {
+    "primary": [
+      "neon blue",
+      "metallic gray",
+      "glowing cyan",
+      "steel silver"
+    ],
+    "secondary": [
+      "amber light",
+      "deep space black",
+      "violet sky"
+    ],
+    "background": "futuristic skyline or starfield",
+    "usageNotes": "Cool tones dominate with pops of vibrant neon lighting",
+    "saturation": "medium",
+    "contrast": "high"
+  },
+  "lineArt": {
+    "style": "painterly sketches painted over",
+    "weight": "n/a (lines hidden by painting)",
+    "color": "n/a",
+    "texture": "smooth digital, hard edges on tech",
+    "edgeTreatment": "sharp silhouettes, atmospheric fade"
+  },
+  "lighting": {
+    "type": "dramatic cinematic lighting",
+    "direction": "multiple sources (city lights, backlights)",
+    "intensity": "high contrast (bright neon vs deep shadow)",
+    "shadows": {
+      "style": "long shadows, diffused by haze",
+      "color": "cool blue or purple",
+      "opacity": "deep"
+    },
+    "highlights": "lens flares, neon glows on surfaces"
+  },
+  "rendering": {
+    "technique": "digital painting with some photobash",
+    "texture": "smooth with textured brushes for atmosphere",
+    "detailLevel": "high in focal points (tech details), looser elsewhere",
+    "finish": "polished, cinematic look"
+  },
+  "perspective": "dynamic perspective (wide-angle vistas or low-angle hero shots)",
+  "mood": {
+    "overall": "epic, futuristic, adventurous",
+    "emotion": "awe, excitement, curiosity",
+    "tempo": "dynamic, energetic",
+    "keywords": [
+      "futuristic",
+      "epic",
+      "cinematic",
+      "detailed",
+      "atmospheric"
+    ]
+  },
+  "stylePrecedents": [
+    "Syd Mead (futurist designer)",
+    "Blade Runner concept art"
+  ],
+  "technicalSpecifications": {
+    "resolution": {
+      "aspectRatio": "9:16",
+      "minWidth": 1080,
+      "minHeight": 1920,
+      "unit": "pixels"
+    },
+    "orientation": "Portrait/Vertical"
+  }
+}

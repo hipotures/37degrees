@@ -1,0 +1,68 @@
+Rozumiem, że potrzebujesz przynajmniej 40 nowych stylów graficznych, z czego 10 powinno być futurystycznych – przeznaczonych dla książek SF i fantasy. Zajmę się szczegółowym researchem różnych stylów malarskich, graficznych i innych technik, które dają się opisać na potrzeby generowania obrazów, i poszukam bibliotek lub źródeł styli. Wkrótce przedstawię zestawienie w formie, która będzie pasować do formatów JSON, z którego korzystasz.
+
+
+Poniżej znajdziesz zestawienie 40 stylów graficznych (w tym 10 futurystycznych) wraz z krótkimi opisami. Mogą one posłużyć jako „katalog” przy generowaniu teł w podcastach; można je też łatwo przekształcić na obiekty JSON zawierające nazwę i opis.
+
+### Style cyfrowe i klasyczne
+
+* **Digital painting (malarstwo cyfrowe)** – w tym stylu malarskim artyści używają tabletów i aplikacji do tworzenia obrazów przypominających farby olejne czy akwarele. Malarstwo cyfrowe ma wiele pod‑styli (realizm, impresjonizm, komiks itp.) i odtwarza tradycyjne pędzle w środowisku cyfrowym.
+* **Vector art (grafika wektorowa)** – obrazy powstają z kształtów matematycznych i można je powiększać bez utraty jakości. Popularne pod‑style to flat design, line‑art oraz geometryczne ilustracje.
+* **Digital photography** – rejestrowanie i obróbka zdjęć cyfrowych. Zawiera wiele gatunków (portret, pejzaż, makro) i korzysta z programów do edycji.
+* **Fractal art (sztuka fraktalna)** – obrazy tworzone z powtarzających się wzorów generowanych matematycznie; przypominają gałęzie drzew czy płatki śniegu.
+* **Digital collage (kolaż cyfrowy)** – łączenie zdjęć, grafik, tekstur i typografii w warstwowe kompozycje. Warianty obejmują fotomontaż, mixed‑media, surrealizm czy pop‑art.
+* **3D art** – tworzenie modeli w trójwymiarowej przestrzeni; obejmuje style realistyczne, stylizowane, abstrakcyjne i low‑poly.
+* **2D animation (animacja 2D)** – animacja w dwóch wymiarach; może być rysowana tradycyjnie, wektorowo albo w formie motion graphics.
+* **3D animation (animacja 3D)** – poruszanie cyfrowymi modelami; stosuje się ją do filmów, gier i wizualizacji. Istnieją pod‑style fotorealistyczne, cartoonowe, abstrakcyjne oraz motion‑capture.
+* **Concept art** – ilustracje projektowe tworzone dla filmów, gier i komiksów; pomagają wizualizować postacie, scenerie i rekwizyty przed produkcją.
+* **Mixed media (technika mieszana)** – prace wykorzystujące różne materiały i media (np. farby, fotografie, tkaniny). Termin ten opisuje sztukę, która łączy odmienne techniki.
+* **Graffiti / street art** – nieautoryzowana sztuka uliczna tworzona farbą w sprayu, szablonami czy plakatami; bywa spontanicznym protestem i komentarzem społecznym.
+* **Isometric illustration** – rysunki oparte na projekcji izometrycznej (30°); wszystkie osie mają tę samą skalę, dzięki czemu obiekty wyglądają jak widziane z narożnika i nie są zniekształcone.
+* **Minimalism** – skrajna forma abstrakcji z lat 60., używająca prostych form geometrycznych (kwadraty, prostokąty) i skupiająca się na samej materii dzieła, a nie na naśladowaniu świata.
+* **Mosaic (mozaika)** – dekorowanie powierzchni małymi fragmentami barwnego kamienia, szkła lub ceramiki; kawałki wkomponowuje się w zaprawę, tworząc wzory i obrazy.
+* **Old school / American traditional tattoo** – styl tatuażu z grubymi czarnymi konturami i ograniczoną paletą kolorów; motywy (kotwice, róże, sireny) nawiązują do tatuaży marynarskich.
+* **Painterly** – sposób malowania charakteryzujący się luźnymi pociągnięciami pędzla i widocznymi śladami narzędzia; efekt bywa ekspresyjny.
+* **Papercutting (wycinanka)** – sztuka tworzenia wzorów z pojedynczej kartki papieru; różni się od kolażu, ponieważ korzysta z jednego arkusza.
+* **Pen and ink drawing** – rysunek wykonywany piórem; tradycyjnie używa się czarnego tuszu, co pozwala uzyskać wysoki kontrast i precyzyjne detale.
+* **Photorealism (fotorealizm)** – nurt malarstwa z końca lat 60.; artyści odtwarzają sceny z fotograficzną dokładnością, odrzucając ślady pędzla.
+* **Pointillism (puentylizm)** – technika polegająca na nanoszeniu drobnych, czystych kropek koloru, które z odpowiedniej odległości mieszają się w oku widza.
+* **Naïve art (sztuka naiwna)** – dzieła samouków, pozbawione perspektywy; charakteryzują się prostotą, intensywnymi barwami i dużą ilością detali.
+* **Psychedelic art** – sztuka kojarzona z latami 60. i kulturą LSD; wykorzystuje jaskrawe, fluorescencyjne kolory, wirujące wzory i ukryte symbole.
+* **Scratchboard (scratch art)** – technika polegająca na drapaniu czarnego tuszu na specjalnej tablicy, by odsłonić białą lub kolorową warstwę; efektem jest obraz przypominający drzeworyt.
+* **Serigraphy / screenprint** – sitodruk; metoda drukowania, w której farbę przeciska się przez szablony na siatce, tworząc mocne graficzne kompozycje.
+* **Loose / sketchy drawing** – szkicowy styl rysunku podkreślający płynność ruchu i ogólny zarys form; zachowuje dokładność, ale wygląda świeżo i organicznie.
+* **Stained glass (witraż)** – dekoracyjne okna z kolorowego szkła; ich barwa zmienia się wraz z przenikającym światłem, tworząc harmonijną grę kolorów.
+* **Surrealism** – ruch artystyczny poszukujący nieoczekiwanych połączeń między światem realnym a marzeniami; czerpie z nieświadomości i automatów twórczych.
+* **Retro art (styl retro)** – nawiązuje do estetyk z lat 20.–80.; łączy odważne kolory, uproszczone kształty, motywy pop‑kulturowe i efekty druku (np. raster).
+* **Woodcut (drzeworyt)** – technika druku wypukłego; obraz wycina się w drewnianym bloku, tuszuje i odbija na papierze. Można go wykonywać ręcznie lub za pomocą prasy.
+* **Generative art (sztuka generatywna)** – postkonceptualna sztuka tworzona z użyciem autonomicznych systemów (np. algorytmów). System decyduje o cechach dzieła, dlatego prace mogą być nieprzewidywalne.
+* **Glitch art** – styl wykorzystujący błędy cyfrowe lub analogowe w celach artystycznych; twórca może prowokować zakłócenia lub korzystać z „usterki” maszyny.
+* **Pixel art** – sztuka cyfrowa, w której każdy piksel ma znaczenie i jest umieszczany świadomie; zwykle używa ograniczonej palety, przypominając grafikę gier z lat 80. i 90..
+* **Vaporwave** – cyfrowa estetyka i mikrogatunek muzyczny powstały w latach 2010; łączy retro klimat lat 80.–90. z glitch‑artem i neonowymi kolorami, wykorzystuje motywy takie jak pop‑kultura, japońskie znaki, Windows 95 i greckie rzeźby, tworząc nostalgiczny, nieco surrealistyczny świat.
+* **Pencil drawing (rysunek ołówkiem)** – rysunek wykonany grafitowym ołówkiem w drewnianej oprawie; może służyć jako szkic, ćwiczenie lub gotowa praca.
+
+### Style futurystyczne („punk” i inne)
+
+Poniższe 10 stylów odnoszą się do literatury science‑fiction, retrofuturyzmu i spekulatywnych wizji przyszłości:
+
+| Futurystyczny styl | Krótki opis                                                                                                                                                                                    | Cytat |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| **Cyberpunk**      | Gatunek „wysoka technologia, niskie życie”; przedstawia futurystyczne miasta skąpane w neonach, gdzie sztuczna inteligencja, przestępczość i korporacyjna dystopia przenikają się.             |       |
+| **Retrofuturism**  | Sztuka przedstawiająca przyszłość tak, jak wyobrażano ją w przeszłości; obejmuje sub‑gatunki takie jak steampunk, atompunk czy dieselpunk; łączy nostalgię z wizjami nowoczesnych technologii. |       |
+| **Steampunk**      | Retro‑futurystyczny styl inspirowany epoką pary (XIX w.); łączy wiktoriańską estetykę z wymyśloną technologią parową, używając mosiądzu, drewna i skórzanych dodatków.                         |       |
+| **Dieselpunk**     | Czerpie z estetyki okresu międzywojennego i II wojny światowej; łączy pulpowe magazyny, film noir i art déco z retro-futurystycznymi maszynami.                                                |       |
+| **Atompunk**       | Odwołuje się do lat 1945–69, czasu bomby atomowej i ery kosmicznej; łączy mid‑century modern, Populuxe, Jet Age oraz paranoję zimnowojenną.                                                    |       |
+| **Biopunk**        | Skupia się na świecie zdominowanym przez biotechnologię i inżynierię genetyczną; pokazuje, jak jednostki walczą z korporacjami kontrolującymi genetykę.                                        |       |
+| **Nanopunk**       | Koncentruje się na nanotechnologii i jej wpływie na społeczeństwo oraz ciało; podnosi kwestie technologii na poziomie molekularnym.                                                            |       |
+| **Postcyberpunk**  | Zawiera elementy cyberpunku, ale odchodzi od mrocznej dystopii, ukazując światy, w których technologia jest bardziej zintegrowana z codziennością i daje szansę na lepsze jutro.               |       |
+| **Solarpunk**      | Optymistyczna wizja przyszłości opartej na energii odnawialnej, harmonii z naturą i wspólnotowości; przeciwieństwo nihilizmu cyberpunku.                                                       |       |
+| **Decopunk**       | Odmiana dieselpunku skupiająca się na art déco i streamline moderne; cechują ją eleganckie, lśniące formy i łącznik między retro a futurystycznym designem.                                    |       |
+
+### Dodatkowe zasoby
+
+Jeżeli potrzebujesz więcej inspiracji, warto zaglądać do katalogów styli cyfrowych. Na przykład artykuł „17 types of digital art” prezentuje cyfrowe malarstwo, wektory, fotografię, fraktale, kolaż, 2D/3D animację i inne techniki. Inne pomocne bazy to listy stylów w aplikacjach do rysowania (np. Bardot Brush czy Procreate) oraz wiki estetyk (wylicza setki micro‑styli). Możesz wykorzystać powyższe opisy jako pola JSON (`name`, `description`) i dodać do nich własne parametry (np. paletę kolorów, epokę, technikę), aby dopasować je do generowania obrazów na potrzeby podcastów.
+
+https://aesthetics.fandom.com/wiki/Cyberpunk#:~:text=Cyberpunk%20is%20a%20literary%20genre,tendencies%20of%20earlier%20science%20fiction
+https://blog.depositphotos.com/retro-futurism-art-design.html
+https://en.wikipedia.org/wiki/Cyberpunk_derivatives#:~:text=Steampunk
+https://aesthetics.fandom.com/wiki/Solarpunk#:~:text=Solarpunk%20is%20a%20genre%20of,it%20from%20aesthetics%20like%20Cyberprep
+https://en.wikipedia.org/wiki/Cyberpunk_derivatives#:~:text=

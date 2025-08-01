@@ -1,0 +1,2363 @@
+- styleName: "Batik Art Style"
+  description: "Colorful textile patterns with wax-resist dyed motifs and organic, repetitive designs."
+  aiPrompts:
+    basePrompt: "batik pattern, wax-resist dye, intricate repeating motifs, vibrant textile art"
+    negativePrompt: "photorealistic, smooth gradients, modern digital patterns, uniform"
+    styleKeywords:
+      - "batik"
+      - "textile"
+      - "wax resist"
+      - "traditional"
+      - "pattern"
+  colorPalette:
+    primary:
+      - "indigo blue"
+      - "earthy brown"
+      - "rich gold"
+      - "ivory"
+    secondary:
+      - "rust red"
+      - "deep navy"
+    background: "neutral fabric beige"
+    usageNotes: "Natural dyes with contrasting light and dark motifs"
+    saturation: "rich, earthy"
+    contrast: "high"
+  lineArt:
+    style: "flowing organic outlines"
+    weight: "medium, varied by motif"
+    color: "dark wax outlines (indigo or brown)"
+    texture: "slightly uneven, crackled edges"
+    edgeTreatment: "organic, fluid, hand-drawn"
+  lighting:
+    type: "flat, pattern-based"
+    direction: "none"
+    intensity: "n/a"
+    shadows:
+      style: "none (flat design)"
+      color: "n/a"
+      opacity: "n/a"
+    highlights: "subtle dye variations"
+  rendering:
+    technique: "wax-resist dye on fabric"
+    texture: "cloth texture, slight crackle"
+    detailLevel: "highly detailed motifs"
+    finish: "matte fabric, hand-crafted"
+  perspective: "flat, ornamental"
+  mood:
+    overall: "cultural, handcrafted, intricate"
+    emotion: "warmth, tradition, creativity"
+    tempo: "rhythmic, repetitive"
+    keywords:
+      - "traditional"
+      - "patterned"
+      - "folk"
+      - "intricate"
+      - "organic"
+  stylePrecedents:
+    - "Indonesian batik textiles"
+    - "Javanese fabric patterns"
+
+- styleName: "Gouache Painting Style"
+  description: "Opaque painting style with matte finish, visible brushstrokes, and layered vibrant colors."
+  aiPrompts:
+    basePrompt: "gouache illustration, opaque paint layers, matte finish, bold brushstrokes, vibrant colors"
+    negativePrompt: "watercolor, photorealistic, digital smooth, vector, shiny"
+    styleKeywords:
+      - "gouache"
+      - "opaque"
+      - "matte"
+      - "layered"
+      - "brushstrokes"
+  colorPalette:
+    primary:
+      - "vibrant blue"
+      - "warm red"
+      - "sunny yellow"
+      - "forest green"
+    secondary:
+      - "muted pastels"
+      - "white for mixing"
+    background: "paper white or solid base color"
+    usageNotes: "Bold solid colors with minimal blending"
+    saturation: "high"
+    contrast: "high"
+  lineArt:
+    style: "minimal outlines, shapes defined by color edges"
+    weight: "n/a or light pencil underdrawing"
+    color: "if any, same hue as fill or darker tone"
+    texture: "edges slightly uneven from brush"
+    edgeTreatment: "crisp on dry layers, soft on blends"
+  lighting:
+    type: "flat illustration lighting"
+    direction: "frontal or none"
+    intensity: "gentle"
+    shadows:
+      style: "flat shaded areas or darker paint"
+      color: "cool blue-gray"
+      opacity: "light"
+    highlights: "lighter paint streaks"
+  rendering:
+    technique: "gouache on paper"
+    texture: "matte, visible brush texture"
+    detailLevel: "moderate detail, simplified forms"
+    finish: "flat matte finish"
+  perspective: "varied, often flat"
+  mood:
+    overall: "playful, artistic, nostalgic"
+    emotion: "creativity, warmth"
+    tempo: "steady, bold"
+    keywords:
+      - "vibrant"
+      - "matte"
+      - "painterly"
+      - "bold"
+      - "playful"
+  stylePrecedents:
+    - "mid-20th century gouache illustrations"
+    - "Mary Blair (Disney artist)"
+
+- styleName: "Ceramic Mosaic Style"
+  description: "Artwork composed of small colored tiles forming images or patterns with a handcrafted, textured look."
+  aiPrompts:
+    basePrompt: "mosaic art, ceramic tiles, tessellation, fragmented pieces, intricate pattern"
+    negativePrompt: "smooth gradients, continuous lines, photorealistic blending, soft edges"
+    styleKeywords:
+      - "mosaic"
+      - "tiles"
+      - "ceramic"
+      - "tessellation"
+      - "fragmented"
+      - "artisanal"
+  colorPalette:
+    primary:
+      - "earthy terracotta"
+      - "cobalt blue"
+      - "turquoise"
+      - "emerald green"
+    secondary:
+      - "gold accents"
+      - "ivory"
+      - "deep red"
+    background: "neutral gray grout"
+    usageNotes: "Vibrant contrasting colors for tile pieces"
+    saturation: "rich"
+    contrast: "high"
+  lineArt:
+    style: "grouted outlines between tiles"
+    weight: "thin to medium"
+    color: "dark gray (grout)"
+    texture: "rough tile edges"
+    edgeTreatment: "irregular but fitted"
+  lighting:
+    type: "ambient, slight shine on tiles"
+    direction: "top-down to catch surfaces"
+    intensity: "moderate"
+    shadows:
+      style: "small shadows in gaps"
+      color: "darker tones of tiles"
+      opacity: "subtle"
+    highlights: "specular glints on glossy tiles"
+  rendering:
+    technique: "hand-set ceramic tesserae"
+    texture: "textured, uneven surfaces"
+    detailLevel: "high (composed of many small pieces)"
+    finish: "semi-gloss tiles, matte grout"
+  perspective: "flat view or slight angle"
+  mood:
+    overall: "intricate, historic, handcrafted"
+    emotion: "patience, tradition, richness"
+    tempo: "static, deliberate"
+    keywords:
+      - "intricate"
+      - "craftsmanship"
+      - "patterned"
+      - "cultural"
+      - "rich"
+  stylePrecedents:
+    - "Byzantine mosaics"
+    - "Antoni Gaudí mosaic art"
+
+- styleName: "Embroidery Illustration Style"
+  description: "Visual style mimicking hand embroidery with stitched lines, threaded textures, and fabric patterns."
+  aiPrompts:
+    basePrompt: "embroidery art, stitched illustration, needlework, thread texture, folk craft"
+    negativePrompt: "smooth digital, gradient shading, photorealistic, painterly"
+    styleKeywords:
+      - "embroidery"
+      - "stitched"
+      - "textile"
+      - "needlework"
+      - "folk"
+  colorPalette:
+    primary:
+      - "red thread"
+      - "blue thread"
+      - "green thread"
+      - "gold thread"
+    secondary:
+      - "neutral cream fabric"
+      - "navy cloth"
+      - "black cloth"
+    background: "fabric texture (canvas or linen)"
+    usageNotes: "Colors appear slightly subdued by fabric"
+    saturation: "medium"
+    contrast: "moderate"
+  lineArt:
+    style: "stitched outlines forming shapes"
+    weight: "varied thread thickness"
+    color: "colored threads (dark for outlines)"
+    texture: "soft, yarn-like"
+    edgeTreatment: "slightly frayed or irregular"
+  lighting:
+    type: "soft lighting to reveal thread texture"
+    direction: "gentle top-left"
+    intensity: "gentle"
+    shadows:
+      style: "tiny cast shadows of threads"
+      color: "gray (tinted by thread color)"
+      opacity: "light"
+    highlights: "slight sheen on threads"
+  rendering:
+    technique: "hand embroidery stitches"
+    texture: "tactile raised threads"
+    detailLevel: "moderate to high (detailed patterns)"
+    finish: "matte fabric, slight thread sheen"
+  perspective: "flat, front-facing (hoop view)"
+  mood:
+    overall: "cozy, handmade, nostalgic"
+    emotion: "comfort, tradition"
+    tempo: "calm and steady"
+    keywords:
+      - "handmade"
+      - "textile"
+      - "cozy"
+      - "folk"
+      - "detailed"
+  stylePrecedents:
+    - "Folk embroidery patterns"
+    - "Crewel embroidery art"
+
+- styleName: "Stained Glass Style"
+  description: "Brilliant colored glass pieces leaded together, creating luminous designs with bold outlines and light streaming through."
+  aiPrompts:
+    basePrompt: "stained glass window, vibrant translucent colors, lead outlines, cathedral light"
+    negativePrompt: "flat opaque, matte, photorealistic figures, continuous tone"
+    styleKeywords:
+      - "stained glass"
+      - "lead outline"
+      - "translucent"
+      - "vibrant"
+      - "ornamental"
+  colorPalette:
+    primary:
+      - "ruby red"
+      - "sapphire blue"
+      - "emerald green"
+      - "amber"
+    secondary:
+      - "royal purple"
+      - "gold"
+      - "turquoise"
+    background: "dark lead came outlines"
+    usageNotes: "High contrast with light shining through colored glass"
+    saturation: "high"
+    contrast: "high"
+  lineArt:
+    style: "bold lead outlines separating colors"
+    weight: "thick"
+    color: "black or dark gray (lead)"
+    texture: "smooth, rounded joins"
+    edgeTreatment: "clean, soldered edges"
+  lighting:
+    type: "backlit glow"
+    direction: "n/a (backlight from behind glass)"
+    intensity: "bright where illuminated"
+    shadows:
+      style: "colored light projections"
+      color: "multicolored"
+      opacity: "soft"
+    highlights: "brilliant glass glow"
+  rendering:
+    technique: "assembled colored glass with lead cames"
+    texture: "smooth glass, occasional bubbles"
+    detailLevel: "moderate (simplified forms outlined)"
+    finish: "glossy, luminous"
+  perspective: "flat, facing the window"
+  mood:
+    overall: "sacred, dramatic, ornate"
+    emotion: "awe, reverence"
+    tempo: "stately, static"
+    keywords:
+      - "luminous"
+      - "ornate"
+      - "sacred"
+      - "vibrant"
+      - "geometric"
+  stylePrecedents:
+    - "Medieval cathedral stained glass"
+    - "Tiffany glass art"
+
+- styleName: "Woodcut Print Style"
+  description: "Graphic relief print aesthetic with bold carved outlines, high contrast shapes, and visible wood texture."
+  aiPrompts:
+    basePrompt: "woodcut print, relief carving, bold black ink, historic illustration, wood texture"
+    negativePrompt: "smooth gradients, soft shading, color photography, digital smoothness"
+    styleKeywords:
+      - "woodcut"
+      - "relief print"
+      - "bold contrast"
+      - "historic"
+      - "engraved"
+  colorPalette:
+    primary:
+      - "black ink"
+      - "off-white paper"
+    secondary:
+      - "sepia tone"
+      - "muted maroon"
+    background: "ivory or aged paper"
+    usageNotes: "Monochrome or duotone with strong contrast"
+    saturation: "low"
+    contrast: "high"
+  lineArt:
+    style: "carved lines and hatching"
+    weight: "varied (chiseled)"
+    color: "black"
+    texture: "wood grain in solid areas"
+    edgeTreatment: "jagged, carved edges"
+  lighting:
+    type: "implied via carving (no realistic light)"
+    direction: "n/a"
+    intensity: "n/a"
+    shadows:
+      style: "black hatching and solid blacks"
+      color: "black"
+      opacity: "solid"
+    highlights: "white (uninked paper)"
+  rendering:
+    technique: "hand-carved woodblock print"
+    texture: "visible wood grain, slight ink bleed"
+    detailLevel: "high in linework"
+    finish: "matte ink on paper"
+  perspective: "simplified, flattened"
+  mood:
+    overall: "historic, dramatic, tactile"
+    emotion: "bold, serious"
+    tempo: "steady"
+    keywords:
+      - "bold"
+      - "antique"
+      - "tactile"
+      - "graphic"
+      - "traditional"
+  stylePrecedents:
+    - "Albrecht Dürer woodcuts"
+    - "Japanese ukiyo-e prints"
+
+- styleName: "Persian Miniature Style"
+  description: "Intricate Persian miniature aesthetic with rich colors, elaborate patterns, and flat perspective storytelling scenes."
+  aiPrompts:
+    basePrompt: "Persian miniature illustration, fine detail, ornate patterns, rich colors, flat perspective, Islamic art"
+    negativePrompt: "photorealistic, modern shading, deep perspective, minimalist"
+    styleKeywords:
+      - "Persian miniature"
+      - "ornate"
+      - "flat perspective"
+      - "detailed"
+      - "historic"
+  colorPalette:
+    primary:
+      - "lapis blue"
+      - "rich gold"
+      - "crimson"
+      - "jade green"
+    secondary:
+      - "turquoise"
+      - "ivory"
+      - "burnt orange"
+    background: "aged paper with gold accents"
+    usageNotes: "Rich natural pigments with gold leaf details"
+    saturation: "high"
+    contrast: "medium"
+  lineArt:
+    style: "fine ink outlines around figures and patterns"
+    weight: "thin, delicate"
+    color: "dark brown or black (with gold highlights)"
+    texture: "smooth, flowing"
+    edgeTreatment: "crisp, organic curves"
+  lighting:
+    type: "flat (decorative, non-realistic)"
+    direction: "none (stylized)"
+    intensity: "even"
+    shadows:
+      style: "minimal or decorative patterns"
+      color: "deeper tones of base colors"
+      opacity: "light"
+    highlights: "gold leaf shine"
+  rendering:
+    technique: "hand-painted miniature on paper"
+    texture: "smooth with fine brush strokes"
+    detailLevel: "very high (elaborate details and patterns)"
+    finish: "matte with metallic gold accents"
+  perspective: "stacked, flattened perspective"
+  mood:
+    overall: "elegant, narrative, cultural"
+    emotion: "scholarly beauty, nostalgia"
+    tempo: "calm and detailed"
+    keywords:
+      - "ornate"
+      - "historical"
+      - "narrative"
+      - "delicate"
+      - "rich"
+  stylePrecedents:
+    - "Shahnameh miniature paintings"
+    - "Kamal ud-Din Behzad (Persian court artist)"
+
+- styleName: "Aztec Codex Style"
+  description: "Stylized pre-Columbian Aztec art with flat figures, geometric symbols, and earthy colors on aged parchment."
+  aiPrompts:
+    basePrompt: "Aztec codex illustration, flat ceremonial art, geometric glyphs, ancient manuscript"
+    negativePrompt: "modern realism, perspective depth, shading, digital polish"
+    styleKeywords:
+      - "Aztec"
+      - "codex"
+      - "glyphic"
+      - "ancient"
+      - "flat"
+  colorPalette:
+    primary:
+      - "ochre"
+      - "earth brown"
+      - "brick red"
+      - "muted turquoise"
+    secondary:
+      - "black"
+      - "white"
+      - "olive green"
+    background: "aged tan parchment"
+    usageNotes: "Natural pigment tones with high-contrast outlines"
+    saturation: "medium"
+    contrast: "high"
+  lineArt:
+    style: "bold black outlines for figures and symbols"
+    weight: "medium"
+    color: "black or dark brown"
+    texture: "solid, even strokes"
+    edgeTreatment: "sharp, angular forms"
+  lighting:
+    type: "flat (symbolic art)"
+    direction: "none"
+    intensity: "n/a"
+    shadows:
+      style: "none (flat color areas)"
+      color: "n/a"
+      opacity: "n/a"
+    highlights: "none"
+  rendering:
+    technique: "flat pigments on amate paper"
+    texture: "slightly rough, fibrous paper"
+    detailLevel: "moderate (stylized detail in patterns)"
+    finish: "matte, hand-drawn"
+  perspective: "flat, narrative panels"
+  mood:
+    overall: "ritualistic, ancient, symbolic"
+    emotion: "mystery, cultural pride"
+    tempo: "steady, formal"
+    keywords:
+      - "ancient"
+      - "symbolic"
+      - "ritual"
+      - "geometric"
+      - "earthy"
+  stylePrecedents:
+    - "Codex Borgia"
+    - "Aztec temple murals"
+
+- styleName: "Art Brut Style"
+  description: "Raw, outsider art aesthetic with childlike spontaneity, rough textures, and uninhibited expression over polish."
+  aiPrompts:
+    basePrompt: "art brut painting, naive art, raw textures, expressive, unrefined"
+    negativePrompt: "polished, academic, realistic proportions, refined detail"
+    styleKeywords:
+      - "art brut"
+      - "outsider art"
+      - "raw"
+      - "naive"
+      - "expressive"
+  colorPalette:
+    primary:
+      - "bold red"
+      - "bright blue"
+      - "sunny yellow"
+    secondary:
+      - "black outlines"
+      - "muddy brown"
+      - "gray"
+    background: "plain canvas or paper"
+    usageNotes: "Clashing colors applied with minimal blending"
+    saturation: "high"
+    contrast: "high"
+  lineArt:
+    style: "childlike scrawls or crude outlines"
+    weight: "uneven, thick or scratchy"
+    color: "black, or same as fill in places"
+    texture: "rough, uneven strokes"
+    edgeTreatment: "jagged, irregular edges"
+  lighting:
+    type: "none realistic (flat or arbitrary color use)"
+    direction: "n/a"
+    intensity: "n/a"
+    shadows:
+      style: "none or abstract painted shadows"
+      color: "n/a"
+      opacity: "n/a"
+    highlights: "none or raw canvas showing"
+  rendering:
+    technique: "impulsive brushwork, crayon scribbles"
+    texture: "thick paint patches, visible strokes"
+    detailLevel: "low (primitive forms)"
+    finish: "matte, unrefined"
+  perspective: "naive perspective (distorted or flat)"
+  mood:
+    overall: "raw, honest, chaotic"
+    emotion: "intense emotion, innocence"
+    tempo: "frantic or simplistic"
+    keywords:
+      - "raw"
+      - "primitive"
+      - "unfiltered"
+      - "emotive"
+      - "chaotic"
+  stylePrecedents:
+    - "Jean Dubuffet"
+    - "Outsider art galleries"
+
+- styleName: "Ukiyo-e Woodblock Style"
+  description: "Traditional Japanese woodblock print style with flat areas of color, elegant linework, and stylized compositions."
+  aiPrompts:
+    basePrompt: "ukiyo-e print, traditional Japanese woodblock, flat colors, elegant lines, Edo period"
+    negativePrompt: "3D shading, photorealism, deep perspective, modern anime"
+    styleKeywords:
+      - "ukiyo-e"
+      - "woodblock"
+      - "flat color"
+      - "Japanese"
+      - "Edo"
+  colorPalette:
+    primary:
+      - "indigo blue"
+      - "cherry blossom pink"
+      - "teal green"
+      - "cream"
+    secondary:
+      - "soft red"
+      - "golden yellow"
+      - "charcoal black"
+    background: "off-white washi paper"
+    usageNotes: "Muted natural pigments with occasional vibrant accents; ample negative space"
+    saturation: "medium"
+    contrast: "moderate"
+  lineArt:
+    style: "calligraphic brush outlines"
+    weight: "varied, tapering"
+    color: "black sumi ink"
+    texture: "slightly uneven due to printing"
+    edgeTreatment: "clean, organic strokes"
+  lighting:
+    type: "flat (stylized lighting via color blocks)"
+    direction: "none"
+    intensity: "n/a"
+    shadows:
+      style: "flat shaded shapes or none"
+      color: "darker tone of base color"
+      opacity: "solid"
+    highlights: "none or lighter flat areas"
+  rendering:
+    technique: "carved woodblock print on paper"
+    texture: "paper fiber visible, gentle ink gradients"
+    detailLevel: "moderate (patterns on clothing, simple backgrounds)"
+    finish: "matte, printed"
+  perspective: "flattened, composite view"
+  mood:
+    overall: "serene, narrative, cultural"
+    emotion: "contemplative, harmonious"
+    tempo: "calm, balanced"
+    keywords:
+      - "traditional"
+      - "serene"
+      - "narrative"
+      - "flat"
+      - "graphic"
+  stylePrecedents:
+    - "Hokusai"
+    - "Hiroshige"
+
+- styleName: "Aboriginal Dot Painting Style"
+  description: "Indigenous Australian dot painting style featuring intricate dot patterns, organic motifs, and earthy natural colors."
+  aiPrompts:
+    basePrompt: "Aboriginal dot painting, intricate dot patterns, Indigenous art, dreamtime symbols, earthy tones"
+    negativePrompt: "realistic shading, linear outlines, modern digital look, text elements"
+    styleKeywords:
+      - "aboriginal"
+      - "dot painting"
+      - "indigenous"
+      - "pattern"
+      - "earthy"
+  colorPalette:
+    primary:
+      - "earth red"
+      - "burnt orange"
+      - "yellow ochre"
+      - "brown"
+    secondary:
+      - "white"
+      - "black"
+      - "clay green"
+    background: "earth-toned base (brown or red)"
+    usageNotes: "Natural pigment colors reflecting the landscape"
+    saturation: "medium"
+    contrast: "medium"
+  lineArt:
+    style: "forms defined by dot outlines"
+    weight: "n/a (dot size varies)"
+    color: "white or yellow on dark; black or brown on light"
+    texture: "dense pattern of repeated dots"
+    edgeTreatment: "soft edges created by dot gradients"
+  lighting:
+    type: "flat (pattern-based imagery)"
+    direction: "n/a"
+    intensity: "n/a"
+    shadows:
+      style: "none"
+      color: "n/a"
+      opacity: "n/a"
+    highlights: "none"
+  rendering:
+    technique: "hand-painted dots with sticks/brush"
+    texture: "raised dots, tactile pattern"
+    detailLevel: "high (thousands of dots form detail)"
+    finish: "matte, textured"
+  perspective: "flat, symbolic map-like"
+  mood:
+    overall: "spiritual, organic, intricate"
+    emotion: "connection to land, storytelling"
+    tempo: "rhythmic, meditative"
+    keywords:
+      - "spiritual"
+      - "intricate"
+      - "patterned"
+      - "earthy"
+      - "cultural"
+  stylePrecedents:
+    - "Papunya Tula art"
+    - "Central Australian Indigenous dot paintings"
+
+- styleName: "Digital Brutalism Style"
+  description: "Stark digital aesthetic inspired by Brutalist design, with clashing colors, raw HTML vibe, and deliberately low-fi graphics."
+  aiPrompts:
+    basePrompt: "digital brutalism design, 90s web graphics, clashing colors, simple shapes, bare interface"
+    negativePrompt: "sleek modern UI, polished gradients, realistic, ornate"
+    styleKeywords:
+      - "digital brutalism"
+      - "raw web"
+      - "minimalist"
+      - "lo-fi"
+      - "bold"
+  colorPalette:
+    primary:
+      - "web-safe blue"
+      - "bright red"
+      - "yellow"
+      - "black"
+    secondary:
+      - "gray"
+      - "white"
+      - "neon green"
+    background: "plain white or clashing solid color"
+    usageNotes: "Intentionally discordant web-safe colors with high contrast"
+    saturation: "high"
+    contrast: "high"
+  lineArt:
+    style: "simple pixelated or vector lines"
+    weight: "1px or bold, no anti-alias"
+    color: "black or primary colors"
+    texture: "crisp, pixelated"
+    edgeTreatment: "none (raw jagged edges)"
+  lighting:
+    type: "flat (no shading)"
+    direction: "n/a"
+    intensity: "n/a"
+    shadows:
+      style: "none or basic drop-shadows"
+      color: "black"
+      opacity: "solid"
+    highlights: "none"
+  rendering:
+    technique: "basic HTML/CSS-style graphics"
+    texture: "flat colors, visible pixels"
+    detailLevel: "minimal (only essential elements)"
+    finish: "raw, unrefined digital output"
+  perspective: "frontal, schematic layout"
+  mood:
+    overall: "bold, utilitarian, rebellious"
+    emotion: "nostalgia (90s), provocation"
+    tempo: "static, deliberate"
+    keywords:
+      - "raw"
+      - "utilitarian"
+      - "edgy"
+      - "nostalgic"
+      - "minimalist"
+  stylePrecedents:
+    - "Brutalist web design"
+    - "GeoCities era sites"
+
+- styleName: "AI Surrealism Style"
+  description: "Dreamlike AI-generated aesthetic with bizarre juxtapositions, hyperreal details merging into surreal forms, and a subtle glitchy vibe."
+  aiPrompts:
+    basePrompt: "AI surreal art, dreamlike imagery, unexpected combinations, hyperreal detail, ethereal atmosphere"
+    negativePrompt: "ordinary, mundane, realistic composition, simple"
+    styleKeywords:
+      - "AI surrealism"
+      - "dreamlike"
+      - "hyperreal"
+      - "glitchy"
+      - "fantastical"
+  colorPalette:
+    primary:
+      - "iridescent purple"
+      - "electric blue"
+      - "vibrant pink"
+    secondary:
+      - "neon cyan highlights"
+      - "deep navy shadows"
+    background: "nebulous gradient or cosmic pattern"
+    usageNotes: "Bright, luminous elements against dark, diffuse backgrounds"
+    saturation: "mixed (vibrant focal points, muted backdrop)"
+    contrast: "high"
+  lineArt:
+    style: "none or fluid fractal outlines"
+    weight: "n/a"
+    color: "n/a"
+    texture: "smooth blending with occasional digital artifacts"
+    edgeTreatment: "soft, merging forms"
+  lighting:
+    type: "surreal glows and rim lights"
+    direction: "multiple or inconsistent"
+    intensity: "high in spots, low elsewhere"
+    shadows:
+      style: "soft, diffuse, oddly colored"
+      color: "purple or blue tones"
+      opacity: "translucent"
+    highlights: "bioluminescent glows"
+  rendering:
+    technique: "AI-generated collage/painting"
+    texture: "smooth surfaces with glitch textures"
+    detailLevel: "high in focal points, dissolving in periphery"
+    finish: "semi-realistic, dreamy"
+  perspective: "shifting or inconsistent perspective"
+  mood:
+    overall: "mysterious, uncanny, imaginative"
+    emotion: "wonder, confusion, fascination"
+    tempo: "flowing, unpredictable"
+    keywords:
+      - "dreamlike"
+      - "uncanny"
+      - "fantastical"
+      - "glitch"
+      - "ethereal"
+  stylePrecedents:
+    - "DeepDream images"
+    - "Surreal AI artworks"
+
+- styleName: "Generative Abstraction Style"
+  description: "Contemporary abstract style generated by algorithms with clean geometric shapes, repetitive patterns, and emergent complexity."
+  aiPrompts:
+    basePrompt: "generative abstract art, algorithmic patterns, geometric shapes, procedural design, modern abstraction"
+    negativePrompt: "figurative, messy, traditional composition, organic irregularities"
+    styleKeywords:
+      - "generative"
+      - "algorithmic"
+      - "geometric"
+      - "abstract"
+      - "pattern"
+  colorPalette:
+    primary:
+      - "monochromatic blues"
+      - "white"
+      - "black"
+    secondary:
+      - "red accent"
+      - "neon green accent"
+    background: "solid or subtle gradient"
+    usageNotes: "High-contrast or iterative color variations based on algorithm"
+    saturation: "varies (vibrant or muted per design)"
+    contrast: "varies"
+  lineArt:
+    style: "clean vector lines or shape edges"
+    weight: "thin, consistent"
+    color: "matching shapes or contrasting"
+    texture: "smooth, precise"
+    edgeTreatment: "crisp (or intentional pixelation)"
+  lighting:
+    type: "flat or none"
+    direction: "n/a"
+    intensity: "n/a"
+    shadows:
+      style: "none or simple drop shadows"
+      color: "gray"
+      opacity: "light"
+    highlights: "none"
+  rendering:
+    technique: "computer-generated vector/3D graphics"
+    texture: "flat color fields, maybe slight grain"
+    detailLevel: "moderate to high"
+    finish: "clean digital finish"
+  perspective: "n/a (abstract 2D) or isometric if 3D forms"
+  mood:
+    overall: "intellectual, modern, experimental"
+    emotion: "intrigue, curiosity"
+    tempo: "structured, repetitive"
+    keywords:
+      - "abstract"
+      - "geometric"
+      - "modern"
+      - "algorithmic"
+      - "precise"
+  stylePrecedents:
+    - "Casey Reas"
+    - "Sol LeWitt"
+
+- styleName: "Neural Hallucination Style"
+  description: "Psychedelic visual style marked by AI neural network artifacts: swirling patterns, multi-eyed forms, and fractal details reminiscent of DeepDream."
+  aiPrompts:
+    basePrompt: "DeepDream neural art, hallucinating patterns, fractal eyes, psychedelic swirls, neural textures"
+    negativePrompt: "ordinary scenery, plain, minimal detail, realism"
+    styleKeywords:
+      - "neural"
+      - "DeepDream"
+      - "psychedelic"
+      - "hallucination"
+      - "fractal"
+  colorPalette:
+    primary:
+      - "neon green"
+      - "electric blue"
+      - "hot pink"
+    secondary:
+      - "vibrant orange"
+      - "deep purple"
+    background: "kaleidoscopic mix of colors"
+    usageNotes: "Extremely high saturation and contrast to highlight neural patterns"
+    saturation: "very high"
+    contrast: "high"
+  lineArt:
+    style: "none (forms made of fractal patterns)"
+    weight: "n/a"
+    color: "n/a"
+    texture: "complex, swirled, repetitive details"
+    edgeTreatment: "feathered, morphing edges"
+  lighting:
+    type: "glowing, even illumination"
+    direction: "omnidirectional"
+    intensity: "intense in vivid areas"
+    shadows:
+      style: "unnatural outline shadows"
+      color: "dark purples"
+      opacity: "semi-transparent"
+    highlights: "bright spectral highlights"
+  rendering:
+    technique: "neural style processing (DeepDream)"
+    texture: "highly detailed, layered noise"
+    detailLevel: "extremely high (chaotic detail)"
+    finish: "surreal and intricate"
+  perspective: "flat or recursive (inconsistent space)"
+  mood:
+    overall: "trippy, intense, mind-bending"
+    emotion: "disorientation, awe, curiosity"
+    tempo: "vibrant, overwhelming"
+    keywords:
+      - "psychedelic"
+      - "chaotic"
+      - "intense"
+      - "hallucinatory"
+      - "complex"
+  stylePrecedents:
+    - "Google DeepDream"
+    - "psychedelic visionary art"
+
+- styleName: "VHS Retro Aesthetic Style"
+  description: "Nostalgic VHS tape aesthetic with scan lines, desaturated colors, fuzzy resolution, and occasional analog tracking noise."
+  aiPrompts:
+    basePrompt: "VHS retro video look, scanlines, VHS static, 1980s analog video, color distortion, tape noise"
+    negativePrompt: "crisp HD, modern clarity, no noise, vibrant colors"
+    styleKeywords:
+      - "VHS"
+      - "analog"
+      - "scanlines"
+      - "retro"
+      - "static"
+  colorPalette:
+    primary:
+      - "washed-out blue"
+      - "muted red"
+      - "dull green"
+    secondary:
+      - "glitchy purple"
+      - "cyan tint"
+    background: "dark gray static"
+    usageNotes: "Faded colors appear smeared or ghosted due to tape wear"
+    saturation: "low"
+    contrast: "low to medium (bloomy highlights, muddy shadows)"
+  lineArt:
+    style: "n/a (edges defined by pixel artifact)"
+    weight: "n/a"
+    color: "n/a"
+    texture: "horizontal scan lines across image"
+    edgeTreatment: "blurred, ghosted edges"
+  lighting:
+    type: "analog video glow"
+    direction: "n/a"
+    intensity: "soft overall"
+    shadows:
+      style: "bleeding dark areas with low detail"
+      color: "blue or magenta tint in shadows"
+      opacity: "low"
+    highlights: "blooming white flares on bright spots"
+  rendering:
+    technique: "low-resolution analog video playback"
+    texture: "grainy, with static specks and occasional scratches"
+    detailLevel: "low (320x240 video feel)"
+    finish: "interlaced flicker"
+  perspective: "flat recorded view"
+  mood:
+    overall: "nostalgic, gritty, retro-tech"
+    emotion: "yearning, disquiet"
+    tempo: "uneven (jittery playback)"
+    keywords:
+      - "nostalgic"
+      - "lo-fi"
+      - "grainy"
+      - "analog"
+      - "glitchy"
+  stylePrecedents:
+    - "1980s VHS tapes"
+    - "Analog horror aesthetics"
+
+- styleName: "Analog Tape Distortion Style"
+  description: "Visual aesthetic inspired by magnetic tape distortion, featuring warbled lines, color bleed, and uneven frame alignment as if the media is worn."
+  aiPrompts:
+    basePrompt: "magnetic tape distortion, analog glitch, warping lines, color bleed, cassette futurism"
+    negativePrompt: "stable image, perfect alignment, digital clarity, clean lines"
+    styleKeywords:
+      - "analog tape"
+      - "warped"
+      - "distorted"
+      - "vintage"
+      - "glitch"
+  colorPalette:
+    primary:
+      - "faded brown"
+      - "olive green"
+      - "dull orange"
+    secondary:
+      - "pink streaks"
+      - "cyan streaks"
+    background: "dark backdrop with static bands"
+    usageNotes: "Colors shift and bleed at edges due to tape wear"
+    saturation: "low to medium"
+    contrast: "medium"
+  lineArt:
+    style: "wavy horizontal distortion lines"
+    weight: "varying thickness (tracking waves)"
+    color: "light or dark depending on scene"
+    texture: "blurry, smeared line edges"
+    edgeTreatment: "feathered, trailing on moving objects"
+  lighting:
+    type: "uneven brightness flicker"
+    direction: "n/a"
+    intensity: "variable"
+    shadows:
+      style: "ghosted frame overlaps"
+      color: "brownish or purple tint"
+      opacity: "semi-transparent"
+    highlights: "overexposed bands flicker"
+  rendering:
+    technique: "damaged analog tape playback"
+    texture: "grain, jittery noise bands"
+    detailLevel: "low (detail lost in distortion)"
+    finish: "unstable, glitchy frames"
+  perspective: "2D video plane (sometimes skewed or rolled)"
+  mood:
+    overall: "distorted, eerie, nostalgic"
+    emotion: "unease, nostalgia"
+    tempo: "irregular, stuttering"
+    keywords:
+      - "distorted"
+      - "warped"
+      - "lo-fi"
+      - "nostalgic"
+      - "glitchy"
+  stylePrecedents:
+    - "VHS tracking artifacts"
+    - "Analog glitch art"
+
+- styleName: "Vintage Offset Print Style"
+  description: "Retro print aesthetic with visible halftone dots, slight misregistration of colors, and a tactile, off-set alignment charm."
+  aiPrompts:
+    basePrompt: "vintage offset print, halftone texture, misregistered colors, old newspaper comic, CMYK print"
+    negativePrompt: "perfect digital print, smooth gradients, high definition"
+    styleKeywords:
+      - "offset print"
+      - "halftone"
+      - "vintage"
+      - "misregistered"
+      - "print texture"
+  colorPalette:
+    primary:
+      - "cyan"
+      - "magenta"
+      - "yellow"
+      - "black"
+    secondary:
+      - "off-white paper"
+      - "retro teal"
+      - "orange tint"
+    background: "newsprint white or yellowed paper"
+    usageNotes: "Colors often slightly off alignment creating fringe effects"
+    saturation: "medium"
+    contrast: "medium"
+  lineArt:
+    style: "solid ink outlines with dot shading"
+    weight: "medium, uniform"
+    color: "black"
+    texture: "visible halftone dot shading"
+    edgeTreatment: "slightly fuzzy edges (ink spread)"
+  lighting:
+    type: "flat (print has no 3D lighting)"
+    direction: "n/a"
+    intensity: "n/a"
+    shadows:
+      style: "hatching or dot clusters for shadows"
+      color: "darker halftone of color"
+      opacity: "solid"
+    highlights: "lighter dot screens"
+  rendering:
+    technique: "offset CMYK printing with screens"
+    texture: "visible halftone dots and ink grain"
+    detailLevel: "moderate (simplified forms due to print constraints)"
+    finish: "matte, printed on paper"
+  perspective: "flat, poster-like composition"
+  mood:
+    overall: "nostalgic, graphic, tactile"
+    emotion: "playful, familiar"
+    tempo: "steady, rhythmic"
+    keywords:
+      - "retro"
+      - "tactile"
+      - "graphic"
+      - "printed"
+      - "nostalgic"
+  stylePrecedents:
+    - "Vintage comic books"
+    - "Mid-century advertising prints"
+
+- styleName: "Concept Art Sci-Fi Style"
+  description: "Dynamic sci-fi concept art look with dramatic lighting, futuristic cityscapes or technology, and a polished digital painting finish."
+  aiPrompts:
+    basePrompt: "science fiction concept art, futuristic city, digital painting, dramatic lighting, expansive scale"
+    negativePrompt: "cartoonish, low detail, flat lighting, medieval themes"
+    styleKeywords:
+      - "sci-fi"
+      - "concept art"
+      - "futuristic"
+      - "digital painting"
+      - "dramatic"
+  colorPalette:
+    primary:
+      - "neon blue"
+      - "metallic gray"
+      - "glowing cyan"
+      - "steel silver"
+    secondary:
+      - "amber light"
+      - "deep space black"
+      - "violet sky"
+    background: "futuristic skyline or starfield"
+    usageNotes: "Cool tones dominate with pops of vibrant neon lighting"
+    saturation: "medium"
+    contrast: "high"
+  lineArt:
+    style: "painterly sketches painted over"
+    weight: "n/a (lines hidden by painting)"
+    color: "n/a"
+    texture: "smooth digital, hard edges on tech"
+    edgeTreatment: "sharp silhouettes, atmospheric fade"
+  lighting:
+    type: "dramatic cinematic lighting"
+    direction: "multiple sources (city lights, backlights)"
+    intensity: "high contrast (bright neon vs deep shadow)"
+    shadows:
+      style: "long shadows, diffused by haze"
+      color: "cool blue or purple"
+      opacity: "deep"
+    highlights: "lens flares, neon glows on surfaces"
+  rendering:
+    technique: "digital painting with some photobash"
+    texture: "smooth with textured brushes for atmosphere"
+    detailLevel: "high in focal points (tech details), looser elsewhere"
+    finish: "polished, cinematic look"
+  perspective: "dynamic perspective (wide-angle vistas or low-angle hero shots)"
+  mood:
+    overall: "epic, futuristic, adventurous"
+    emotion: "awe, excitement, curiosity"
+    tempo: "dynamic, energetic"
+    keywords:
+      - "futuristic"
+      - "epic"
+      - "cinematic"
+      - "detailed"
+      - "atmospheric"
+  stylePrecedents:
+    - "Syd Mead (futurist designer)"
+    - "Blade Runner concept art"
+
+- styleName: "Illuminated Manuscript Style"
+  description: "Medieval illuminated manuscript style with ornate initial letters, gold leaf accents, and dense decorative borders around text or images."
+  aiPrompts:
+    basePrompt: "illuminated manuscript, medieval, ornate initials, gold leaf, calligraphic flourishes, parchment"
+    negativePrompt: "modern typography, minimalist layout, plain design"
+    styleKeywords:
+      - "illuminated manuscript"
+      - "medieval"
+      - "ornate"
+      - "gold leaf"
+      - "calligraphy"
+  colorPalette:
+    primary:
+      - "gold"
+      - "royal blue"
+      - "deep red"
+      - "emerald green"
+    secondary:
+      - "black ink"
+      - "ivory parchment"
+      - "lapis blue"
+    background: "aged parchment or vellum"
+    usageNotes: "Rich pigments with metallic gold on a neutral parchment base"
+    saturation: "medium-high"
+    contrast: "medium (gold and colors vs parchment)"
+  lineArt:
+    style: "calligraphic scrollwork and outlines"
+    weight: "thin to medium (varied in decoration)"
+    color: "black or colored ink, plus gold accents"
+    texture: "smooth, flowing lines"
+    edgeTreatment: "decorative flourished ends"
+  lighting:
+    type: "flat (non-realistic illumination)"
+    direction: "n/a"
+    intensity: "n/a"
+    shadows:
+      style: "none (flat illustration)"
+      color: "n/a"
+      opacity: "n/a"
+    highlights: "gold leaf shine catching light"
+  rendering:
+    technique: "hand-painted on vellum with egg tempera and gold leaf"
+    texture: "slight paper grain, raised gold leaf areas"
+    detailLevel: "very high (intricate borders and letters)"
+    finish: "matte for colors, reflective for gold"
+  perspective: "flat decorative layout (text and image on same plane)"
+  mood:
+    overall: "reverent, luxurious, scholarly"
+    emotion: "devotion, admiration"
+    tempo: "steady, deliberate"
+    keywords:
+      - "ornate"
+      - "sacred"
+      - "meticulous"
+      - "historic"
+      - "luxurious"
+  stylePrecedents:
+    - "Book of Kells"
+    - "Medieval European manuscripts"
+
+- styleName: "Biomechanical Style"
+  description: "Fusion of organic and mechanical elements with fleshy biomorphic forms integrated into metallic structures; often dark, intricate, and uncanny."
+  aiPrompts:
+    basePrompt: "biomechanical art, organic meets mechanical, flesh fused with metal, intricate detail"
+    negativePrompt: "clean simple machinery, purely organic forms, cartoonish"
+    styleKeywords:
+      - "biomechanical"
+      - "organic-mech"
+      - "intricate"
+      - "dark"
+      - "surreal"
+  colorPalette:
+    primary:
+      - "muted gray"
+      - "bruised purple"
+      - "fleshy pink"
+      - "steel blue"
+    secondary:
+      - "oily black"
+      - "rust brown"
+      - "bone white"
+    background: "dark industrial or fleshy backdrop"
+    usageNotes: "Mostly desaturated tones with occasional sickly accent colors"
+    saturation: "low"
+    contrast: "high (bright fleshy highlights vs dark shadows)"
+  lineArt:
+    style: "intricate sinewy lines and tubing"
+    weight: "fine, interwoven"
+    color: "dark gray or black"
+    texture: "slick, vein-like curves"
+    edgeTreatment: "smooth curves blending into sharp mechanical edges"
+  lighting:
+    type: "dramatic, directional spotlight"
+    direction: "side or under lighting for eerie effect"
+    intensity: "strong highlights, deep shadows"
+    shadows:
+      style: "complex overlapping shadows of cables and organs"
+      color: "cool blue-gray or deep brown"
+      opacity: "heavy"
+    highlights: "wet specular highlights on flesh, metallic gleam on machinery"
+  rendering:
+    technique: "airbrush or detailed digital painting"
+    texture: "glossy slick flesh, cold metal surfaces"
+    detailLevel: "very high (small mechanical parts and organic textures)"
+    finish: "glossy on organic parts, metallic on machine parts"
+  perspective: "three-dimensional realistic perspective (often claustrophobic close-ups)"
+  mood:
+    overall: "eerie, sci-fi horror, complex"
+    emotion: "unease, fascination"
+    tempo: "tense, intense"
+    keywords:
+      - "eerie"
+      - "intricate"
+      - "dark"
+      - "alien"
+      - "mechanical"
+  stylePrecedents:
+    - "H.R. Giger"
+    - "Biomechanical tattoo art"
+
+- styleName: "Synthetic Ethereal Style"
+  description: "Futuristic ethereal aesthetic blending synthetic materials with a ghostly, otherworldly vibe—glowing translucent forms, soft neon glows, and airy compositions."
+  aiPrompts:
+    basePrompt: "futuristic ethereal art, translucent synthetic forms, neon glow, airy atmosphere, soft futurism"
+    negativePrompt: "heavy solid structures, dark horror, rigid lines, mundane"
+    styleKeywords:
+      - "ethereal"
+      - "futuristic"
+      - "translucent"
+      - "glowing"
+      - "soft"
+  colorPalette:
+    primary:
+      - "soft cyan"
+      - "pale magenta"
+      - "glowing white"
+      - "silver"
+    secondary:
+      - "lavender"
+      - "mint green"
+      - "light gold"
+    background: "misty white or pastel gradient"
+    usageNotes: "Light, pastel tones with luminous accents on a pale background"
+    saturation: "medium"
+    contrast: "low to medium"
+  lineArt:
+    style: "delicate outlines or none (defined by light)"
+    weight: "thin, wispy if present"
+    color: "pale silver or translucent edges"
+    texture: "smooth gradients instead of lines"
+    edgeTreatment: "soft, blurred edges"
+  lighting:
+    type: "ambient glowing light"
+    direction: "diffuse (objects seem self-lit)"
+    intensity: "soft but pervasive"
+    shadows:
+      style: "soft, colored shadows or none"
+      color: "faint tint of object color"
+      opacity: "light"
+    highlights: "neon halos and gentle glows"
+  rendering:
+    technique: "digital painting with glow effects, some translucent 3D rendering"
+    texture: "smooth, gauzy surfaces with subtle shimmer"
+    detailLevel: "moderate (focus on form and light over tiny details)"
+    finish: "sheer, glossy or iridescent elements"
+  perspective: "open, airy compositions with layered depth"
+  mood:
+    overall: "otherworldly, serene, futuristic"
+    emotion: "wonder, calm, transcendence"
+    tempo: "calm, flowing"
+    keywords:
+      - "ethereal"
+      - "glowing"
+      - "translucent"
+      - "serene"
+      - "futuristic"
+  stylePrecedents:
+    - "ghostly sci-fi concept art"
+    - "light sculpture and hologram art"
+
+- styleName: "Nano Ornamentation Style"
+  description: "Ultra-fine ornamental style inspired by nanotechnology, featuring extremely intricate patterns, fractal-like details, and micro-scale decorations."
+  aiPrompts:
+    basePrompt: "nano ornament pattern, microscopic detail, fractal designs, micro circuitry meets filigree"
+    negativePrompt: "large simple shapes, low detail, rough textures"
+    styleKeywords:
+      - "intricate"
+      - "nano"
+      - "ornamental"
+      - "fractal"
+      - "micro-detail"
+  colorPalette:
+    primary:
+      - "cool silver"
+      - "steely blue"
+      - "graphite gray"
+    secondary:
+      - "glowing circuit green"
+      - "bright cyan"
+    background: "black or deep navy"
+    usageNotes: "Bright micro-lines on dark background (or dark on light), high contrast"
+    saturation: "low to medium"
+    contrast: "high"
+  lineArt:
+    style: "extremely fine filigree and circuit lines"
+    weight: "hairline thin"
+    color: "bright cyan or white on dark (or black on light)"
+    texture: "precise, engineered patterns"
+    edgeTreatment: "crisp, no blur"
+  lighting:
+    type: "faint internal glow on micro elements"
+    direction: "n/a"
+    intensity: "faint overall, bright at tiny points"
+    shadows:
+      style: "none (patterns too small)"
+      color: "n/a"
+      opacity: "n/a"
+    highlights: "glowing pinpoints at pattern nodes"
+  rendering:
+    technique: "digital vector or micro 3D rendering"
+    texture: "sleek, micro-etched surfaces"
+    detailLevel: "extremely high (fractal complexity)"
+    finish: "technical precision with slight glow"
+  perspective: "flat magnified pattern view"
+  mood:
+    overall: "intricate, high-tech, mesmerizing"
+    emotion: "fascination, complexity"
+    tempo: "static yet detailed"
+    keywords:
+      - "intricate"
+      - "futuristic"
+      - "mesmerizing"
+      - "complex"
+      - "ornamental"
+  stylePrecedents:
+    - "circuit board layouts"
+    - "Islamic fractal patterns"
+
+- styleName: "Cyberpunk Neon City Style"
+  description: "High-contrast cyberpunk city aesthetic with neon-lit signs, rainy streets reflecting colors, and a dense futuristic urban atmosphere."
+  aiPrompts:
+    basePrompt: "cyberpunk cityscape, neon lights at night, rain reflections, futuristic noir, high contrast"
+    negativePrompt: "daylight scenes, natural greenery, low detail, clean streets"
+    styleKeywords:
+      - "cyberpunk"
+      - "neon"
+      - "urban"
+      - "futuristic"
+      - "noir"
+  colorPalette:
+    primary:
+      - "electric pink"
+      - "neon cyan"
+      - "violet"
+      - "blue"
+    secondary:
+      - "amber streetlight"
+      - "dark teal"
+      - "black shadows"
+    background: "night sky or dark city silhouettes"
+    usageNotes: "Neon colors pop against dark, rainy environments; reflections in wet streets"
+    saturation: "high for neon, low for background"
+    contrast: "extreme (bright neon vs deep shadows)"
+  lineArt:
+    style: "n/a (architecture defined by light and shadow)"
+    weight: "n/a"
+    color: "neon edges or black silhouettes"
+    texture: "sharp for buildings, blurry for distant lights"
+    edgeTreatment: "crisp near, soft far due to fog"
+  lighting:
+    type: "neon signage and street lighting"
+    direction: "multiple sources (signs, lamps)"
+    intensity: "intense in lit areas, very dark elsewhere"
+    shadows:
+      style: "hard shadows mixed with diffused fog"
+      color: "colored by neon (e.g. purple-blue)"
+      opacity: "heavy"
+    highlights: "neon glows, reflections in puddles"
+  rendering:
+    technique: "digital painting or 3D with photoreal lighting"
+    texture: "wet asphalt sheen, rain streaks, fog grain"
+    detailLevel: "high (dense city details, signage, grime)"
+    finish: "glossy reflections with gritty texture"
+  perspective: "street-level deep perspective or aerial cityscape"
+  mood:
+    overall: "edgy, chaotic, immersive"
+    emotion: "excitement, anxiety"
+    tempo: "fast-paced, pulsing"
+    keywords:
+      - "futuristic"
+      - "gritty"
+      - "nocturnal"
+      - "vibrant"
+      - "dense"
+  stylePrecedents:
+    - "Blade Runner city visuals"
+    - "Cyberpunk 2077 concept art"
+
+- styleName: "Futuristic Hologram Grid Style"
+  description: "Retro-futuristic hologram grid aesthetic with wireframe landscapes, glowing grid lines receding in perspective, and a digital 3D look."
+  aiPrompts:
+    basePrompt: "wireframe hologram grid, Tron style, glowing gridlines, 80s retro future, vector landscape"
+    negativePrompt: "solid filled shapes, natural scenery, realistic textures"
+    styleKeywords:
+      - "wireframe"
+      - "grid"
+      - "holographic"
+      - "retro-futuristic"
+      - "neon"
+  colorPalette:
+    primary:
+      - "neon cyan"
+      - "bright green grid lines"
+    secondary:
+      - "purple sky gradient"
+      - "black background"
+    background: "starry black with neon horizon glow"
+    usageNotes: "Bright grid lines on a black background; sometimes a sunset gradient sky"
+    saturation: "high (for grid elements)"
+    contrast: "high"
+  lineArt:
+    style: "wireframe grid lines"
+    weight: "thin, uniform"
+    color: "neon teal or green"
+    texture: "glowing vector lines"
+    edgeTreatment: "crisp geometry"
+  lighting:
+    type: "self-lit neon glow"
+    direction: "grid glows upward from horizon"
+    intensity: "strong along grid, fading with distance"
+    shadows:
+      style: "none (abstract environment)"
+      color: "n/a"
+      opacity: "n/a"
+    highlights: "intense glow at grid intersections"
+  rendering:
+    technique: "vector/3D wireframe rendering"
+    texture: "no surface texture, just light lines"
+    detailLevel: "simple geometric forms"
+    finish: "glossy neon lines, transparent space"
+  perspective: "one-point perspective grid receding to horizon"
+  mood:
+    overall: "futuristic, technical, nostalgic-80s"
+    emotion: "awe, anticipation"
+    tempo: "steady, synthetic"
+    keywords:
+      - "retro-future"
+      - "technical"
+      - "immersive"
+      - "geometric"
+      - "glowing"
+  stylePrecedents:
+    - "Tron (1982) aesthetics"
+    - "80s sci-fi wireframe graphics"
+
+- styleName: "Circuit Board Tech Style"
+  description: "Graphic style resembling a circuit board: intricate pathways, electronic components, and a high-tech green-and-gold visual theme."
+  aiPrompts:
+    basePrompt: "circuit board illustration, PCB aesthetic, gold traces, microchips, electronic pattern"
+    negativePrompt: "organic shapes, soft gradients, hand-drawn, chaos"
+    styleKeywords:
+      - "circuit board"
+      - "PCB"
+      - "electronic"
+      - "pattern"
+      - "technical"
+  colorPalette:
+    primary:
+      - "circuit board green"
+      - "golden copper"
+    secondary:
+      - "black background"
+      - "white labeling"
+    background: "deep green or black board"
+    usageNotes: "Metallic gold traces on green substrate; minimal accent colors"
+    saturation: "medium"
+    contrast: "high"
+  lineArt:
+    style: "precise straight and arcing traces"
+    weight: "thin, uniform"
+    color: "metallic gold or copper"
+    texture: "flat, solid lines"
+    edgeTreatment: "90° angles with rounded turns"
+  lighting:
+    type: "flat with slight metallic sheen"
+    direction: "top-down (to glint on copper)"
+    intensity: "low"
+    shadows:
+      style: "tiny shadows under raised components"
+      color: "dark green"
+      opacity: "subtle"
+    highlights: "glints on copper traces"
+  rendering:
+    technique: "vector/CAD design style"
+    texture: "smooth board, tiny solder dot texture"
+    detailLevel: "high (dense circuits and text)"
+    finish: "semi-gloss board, metallic highlights"
+  perspective: "top-down or slight isometric view"
+  mood:
+    overall: "technical, organized, modern"
+    emotion: "precision, innovation"
+    tempo: "static, controlled"
+    keywords:
+      - "technical"
+      - "precise"
+      - "futuristic"
+      - "organized"
+      - "detailed"
+  stylePrecedents:
+    - "PCB layouts and schematics"
+    - "tech UI circuit designs"
+
+- styleName: "Steampunk Clockwork Style"
+  description: "Victorian steampunk aesthetic with brass clockwork gears, ornate Victorian design elements, and a muted industrial color palette."
+  aiPrompts:
+    basePrompt: "steampunk illustration, brass gears, Victorian ornamentation, steam machinery, sepia tone"
+    negativePrompt: "sleek modern tech, plastic materials, neon colors, minimalism"
+    styleKeywords:
+      - "steampunk"
+      - "clockwork"
+      - "Victorian"
+      - "brass"
+      - "industrial"
+  colorPalette:
+    primary:
+      - "brass"
+      - "copper"
+      - "sepia brown"
+      - "dark bronze"
+    secondary:
+      - "black iron"
+      - "antique gold"
+      - "parchment beige"
+    background: "aged parchment or smoky gray backdrop"
+    usageNotes: "Warm metallic tones with patina and soot accents"
+    saturation: "low to medium (antique muted quality)"
+    contrast: "medium"
+  lineArt:
+    style: "engraved ornate linework"
+    weight: "medium (with decorative flourishes)"
+    color: "dark brown or black"
+    texture: "slightly rough, etched lines"
+    edgeTreatment: "Victorian scrollwork and gear teeth details"
+  lighting:
+    type: "dramatic sepia glow"
+    direction: "soft spotlight or diffused through steam"
+    intensity: "moderate (dim, antique lighting)"
+    shadows:
+      style: "soft gear and gadget shadows"
+      color: "brown-gray"
+      opacity: "medium"
+    highlights: "warm glow on metal surfaces (gaslight effect)"
+  rendering:
+    technique: "textured digital painting with grunge overlays"
+    texture: "grime, rust, and scratches on surfaces"
+    detailLevel: "high (many gears, gauges, filigree)"
+    finish: "matte base with metallic gleams"
+  perspective: "mix of mechanical diagram elements and scenic views (e.g., cutaways)"
+  mood:
+    overall: "inventive, nostalgic, mechanical"
+    emotion: "wonder, industriousness"
+    tempo: "steady tick-tock"
+    keywords:
+      - "Victorian"
+      - "mechanical"
+      - "ornate"
+      - "nostalgic"
+      - "adventurous"
+  stylePrecedents:
+    - "Jules Verne illustration aesthetics"
+    - "classic steampunk concept art"
+
+- styleName: "Celestial Fantasy Style"
+  description: "Celestial fantasy art with starry night skies, cosmic nebulae, and magical glowing elements blending astronomy and myth."
+  aiPrompts:
+    basePrompt: "celestial fantasy artwork, stars and nebula, cosmos, ethereal clouds, mystical glow"
+    negativePrompt: "daylight scenes, realistic astronomy only, plain black sky"
+    styleKeywords:
+      - "celestial"
+      - "cosmic"
+      - "ethereal"
+      - "fantasy"
+      - "glowing"
+  colorPalette:
+    primary:
+      - "midnight blue"
+      - "indigo"
+      - "violet"
+    secondary:
+      - "glowing white"
+      - "shimmering gold"
+      - "nebula pink"
+      - "teal"
+    background: "star-filled dark sky"
+    usageNotes: "Dark base with bright stars and colorful nebula clouds"
+    saturation: "high for nebula colors, low for background"
+    contrast: "high (bright stars on dark sky)"
+  lineArt:
+    style: "none or soft cloud outlines"
+    weight: "n/a"
+    color: "n/a"
+    texture: "nebula cloud shapes"
+    edgeTreatment: "fades into space"
+  lighting:
+    type: "glowing, diffuse starlight"
+    direction: "ambient cosmic light"
+    intensity: "gentle overall glow with bright star points"
+    shadows:
+      style: "soft silhouettes (e.g., figures against sky)"
+      color: "deep blue"
+      opacity: "soft"
+    highlights: "sparkling stars and rim light on clouds"
+  rendering:
+    technique: "digital painting or airbrush blending"
+    texture: "smooth gradients, dust-like star field"
+    detailLevel: "moderate (clusters of stars, hints of figures or constellations)"
+    finish: "luminescent, dreamy finish"
+  perspective: "vast wide-angle or cosmic depth"
+  mood:
+    overall: "mysterious, awe-inspiring, dreamy"
+    emotion: "wonder, serenity, enchantment"
+    tempo: "slow, majestic"
+    keywords:
+      - "cosmic"
+      - "mystical"
+      - "vast"
+      - "serene"
+      - "glittering"
+  stylePrecedents:
+    - "Van Gogh's Starry Night (for swirling sky concept)"
+    - "Chesley Bonestell space art"
+
+- styleName: "Gothic Fantasy Style"
+  description: "Dark gothic fantasy art style with ornate gothic architecture, dramatic shadows, and an eerie, otherworldly atmosphere."
+  aiPrompts:
+    basePrompt: "gothic fantasy illustration, dark castle, gargoyles, dramatic chiaroscuro, haunting atmosphere"
+    negativePrompt: "bright cheerful scenes, modern cityscapes, minimal detail, cartoonish tone"
+    styleKeywords:
+      - "gothic"
+      - "dark fantasy"
+      - "ornate"
+      - "chiaroscuro"
+      - "eerie"
+  colorPalette:
+    primary:
+      - "black"
+      - "charcoal gray"
+      - "blood red"
+    secondary:
+      - "deep purple"
+      - "midnight blue"
+      - "silver"
+    background: "stormy night sky or dim cathedral interior"
+    usageNotes: "Mostly desaturated dark tones with occasional rich accent colors (e.g., red stained glass)"
+    saturation: "low overall, with high-saturation accents"
+    contrast: "high (very dark shadows vs piercing light)"
+  lineArt:
+    style: "elaborate, fine gothic detailing"
+    weight: "varied (fine filigree to bold silhouettes)"
+    color: "black or very dark ink"
+    texture: "sharp, spiky architectural forms"
+    edgeTreatment: "crisp edges on structures, wispy edges on fog/mist"
+  lighting:
+    type: "dramatic high-contrast (moonlight, torchlight)"
+    direction: "side or backlighting to create silhouettes"
+    intensity: "intense in beams, deep darkness elsewhere"
+    shadows:
+      style: "heavy, ornate shadows (through rose windows or railing)"
+      color: "cold blue or purple tint"
+      opacity: "opaque"
+    highlights: "moon glows, candle flames highlighting details"
+  rendering:
+    technique: "digital or oil painting with rich texture"
+    texture: "weathered stone, mist, velvet drapery"
+    detailLevel: "high (architectural ornament, creature features)"
+    finish: "matte overall with glints on wet or metallic surfaces"
+  perspective: "dramatic angles (looking up at spires or down from heights to convey grandeur)"
+  mood:
+    overall: "dark, brooding, majestic"
+    emotion: "fear, awe, melancholy"
+    tempo: "slow, ominous"
+    keywords:
+      - "dark"
+      - "ornate"
+      - "haunting"
+      - "majestic"
+      - "mysterious"
+  stylePrecedents:
+    - "Gerald Brom (dark fantasy art)"
+    - "Castlevania game art"
+
+- styleName: "Solarpunk Utopia Style"
+  description: "Bright, optimistic solarpunk style featuring lush greenery intertwined with technology, soft sunlight, and sustainable, utopian cityscapes."
+  aiPrompts:
+    basePrompt: "solarpunk illustration, green city, solar panels, lush plants, Art Nouveau futurism, utopian future"
+    negativePrompt: "dark dystopian, barren concrete, polluted environment, bleak mood"
+    styleKeywords:
+      - "solarpunk"
+      - "utopian"
+      - "greenery"
+      - "sustainable"
+      - "optimistic"
+  colorPalette:
+    primary:
+      - "fresh green"
+      - "sky blue"
+      - "white"
+    secondary:
+      - "sunny yellow"
+      - "orange"
+      - "warm wood brown"
+    background: "clear bright sky or glowing daylight"
+    usageNotes: "Natural blues and greens dominate with clean bright highlights"
+    saturation: "medium to high (vibrant natural hues)"
+    contrast: "medium (harmonious brightness without harsh shadows)"
+  lineArt:
+    style: "clean, flowing Art Nouveau-like lines"
+    weight: "medium"
+    color: "dark green or brown outlines"
+    texture: "smooth, organic curves"
+    edgeTreatment: "rounded, natural edges"
+  lighting:
+    type: "sunlit, soft natural lighting"
+    direction: "ambient daylight (from above and around)"
+    intensity: "bright but gentle"
+    shadows:
+      style: "dappled shadows through foliage"
+      color: "soft gray-green"
+      opacity: "light"
+    highlights: "warm sunlight glints on glass and leaves"
+  rendering:
+    technique: "digital painting with soft edges and crisp details on tech"
+    texture: "smooth surfaces for tech, leafy texture for plants"
+    detailLevel: "moderate to high (detailed vegetation, clean architecture)"
+    finish: "clean, slight gloss on solar panels and glass"
+  perspective: "open, panoramic city or garden view"
+  mood:
+    overall: "hopeful, harmonious, vibrant"
+    emotion: "optimism, serenity, inspiration"
+    tempo: "calm yet lively"
+    keywords:
+      - "optimistic"
+      - "lush"
+      - "bright"
+      - "harmonious"
+      - "innovative"
+  stylePrecedents:
+    - "sustainable city concept art"
+    - "Studio Ghibli nature-tech fusion scenes"
+
+- styleName: "Retro Futurism Style"
+  description: "Mid-20th-century retro-futuristic style with optimistic space age motifs, googie architecture forms, and vintage color palettes imagining the future."
+  aiPrompts:
+    basePrompt: "retro futurism art, atomic age, 1950s sci-fi, Jetsons style, googie architecture, optimistic future"
+    negativePrompt: "grim dystopian, dark noir, high realism, muted tones"
+    styleKeywords:
+      - "retro-futurism"
+      - "atomic age"
+      - "mid-century"
+      - "optimistic"
+      - "space age"
+  colorPalette:
+    primary:
+      - "teal"
+      - "pale orange"
+      - "olive green"
+      - "cream"
+    secondary:
+      - "space blue"
+      - "bright red"
+      - "chrome silver"
+    background: "starry night or geometric shapes"
+    usageNotes: "Slightly muted vintage tones with bold accent colors"
+    saturation: "medium"
+    contrast: "medium"
+  lineArt:
+    style: "smooth, curvilinear outlines"
+    weight: "medium, even"
+    color: "dark brown or black (vintage ink)"
+    texture: "clean, minimal"
+    edgeTreatment: "rounded corners and atomic-era shapes"
+  lighting:
+    type: "graphic simple shading (airbrushed look)"
+    direction: "simple overhead or side"
+    intensity: "moderate (clear, not harsh)"
+    shadows:
+      style: "soft or drop shadows for depth"
+      color: "gray"
+      opacity: "light"
+    highlights: "shiny reflections on chrome surfaces"
+  rendering:
+    technique: "airbrush illustration or lithograph print"
+    texture: "smooth with slight paper grain"
+    detailLevel: "moderate (stylized details, not too fine)"
+    finish: "semi-gloss, poster-like"
+  perspective: "stylized perspective (isometric cutaways or dramatic angles for rockets)"
+  mood:
+    overall: "optimistic, playful, visionary"
+    emotion: "excitement, wonder"
+    tempo: "upbeat, forward-looking"
+    keywords:
+      - "optimistic"
+      - "vintage"
+      - "space-age"
+      - "playful"
+      - "visionary"
+  stylePrecedents:
+    - "1950s sci-fi magazine illustrations"
+    - "The Jetsons cartoon aesthetic"
+
+- styleName: "Graffiti Street Art Style"
+  description: "Bold graffiti street art style with spray paint textures, vibrant colors, dynamic lettering, and urban gritty background elements."
+  aiPrompts:
+    basePrompt: "graffiti mural, spray paint art, bold lettering, urban wall texture, vibrant colors"
+    negativePrompt: "clean edges, formal typography, muted palette, polished look"
+    styleKeywords:
+      - "graffiti"
+      - "street art"
+      - "spray paint"
+      - "urban"
+      - "bold"
+  colorPalette:
+    primary:
+      - "neon pink"
+      - "lime green"
+      - "bright blue"
+      - "orange"
+    secondary:
+      - "black"
+      - "white"
+      - "concrete gray"
+    background: "raw concrete or brick wall"
+    usageNotes: "High saturation colors with dark outlines on a neutral wall background"
+    saturation: "high"
+    contrast: "high"
+  lineArt:
+    style: "sprayed outlines with drips"
+    weight: "thick, dynamic strokes"
+    color: "black or white outline"
+    texture: "soft overspray edges, paint drips"
+    edgeTreatment: "rough, oversprayed edges"
+  lighting:
+    type: "flat outdoor ambient"
+    direction: "n/a"
+    intensity: "n/a"
+    shadows:
+      style: "slight wall texture shadows"
+      color: "gray"
+      opacity: "faint"
+    highlights: "glossy wet paint sheen (if freshly painted)"
+  rendering:
+    technique: "spray paint and marker on wall"
+    texture: "gritty wall surface, paint drips and splatters"
+    detailLevel: "moderate (focus on style and text forms)"
+    finish: "matte wall with some glossy paint spots"
+  perspective: "flat wall view (or slight angle in an alley context)"
+  mood:
+    overall: "rebellious, energetic, urban"
+    emotion: "defiance, creativity, urgency"
+    tempo: "fast, rhythmic"
+    keywords:
+      - "urban"
+      - "edgy"
+      - "vibrant"
+      - "expressive"
+      - "rebellious"
+  stylePrecedents:
+    - "Banksy street art"
+    - "NYC hip-hop graffiti murals"
+
+- styleName: "Low Poly Geometric Style"
+  description: "Modern low-poly 3D style using simple geometric polygons, faceted surfaces, and minimal textures to create stylized scenes."
+  aiPrompts:
+    basePrompt: "low poly 3D illustration, faceted polygons, simple geometry, minimal texture, pastel colors"
+    negativePrompt: "high realism, detailed textures, smooth gradients, complex meshes"
+    styleKeywords:
+      - "low poly"
+      - "geometric"
+      - "simplified"
+      - "faceted"
+      - "3D"
+  colorPalette:
+    primary:
+      - "pastel blue"
+      - "soft pink"
+      - "light green"
+      - "beige"
+    secondary:
+      - "darker blue"
+      - "darker green"
+    background: "solid light color or gradient sky"
+    usageNotes: "Flat shading with each polygon face a solid color"
+    saturation: "medium"
+    contrast: "medium"
+  lineArt:
+    style: "none (edges defined by polygon boundaries)"
+    weight: "n/a"
+    color: "n/a"
+    texture: "flat color surfaces"
+    edgeTreatment: "sharp edges between facets"
+  lighting:
+    type: "flat or simple 3D lighting"
+    direction: "often top or side light"
+    intensity: "moderate (enough to distinguish planes)"
+    shadows:
+      style: "simple soft shadows"
+      color: "gray"
+      opacity: "light"
+    highlights: "flat lighter faces toward light source"
+  rendering:
+    technique: "3D low-poly modeling"
+    texture: "none (solid colors per face)"
+    detailLevel: "low (simplicity is key)"
+    finish: "matte, flat appearance"
+  perspective: "3D perspective (often isometric or slight angle)"
+  mood:
+    overall: "playful, modern, clean"
+    emotion: "delight, simplicity"
+    tempo: "balanced, steady"
+    keywords:
+      - "simplified"
+      - "clean"
+      - "modern"
+      - "playful"
+      - "minimalist"
+  stylePrecedents:
+    - "early 3D video game art"
+    - "Timothy J. Reynolds (low poly art)"
+
+- styleName: "Chalkboard Sketch Style"
+  description: "Chalkboard art style with white or colored chalk illustrations on a blackboard background, featuring dusty textures and hand-drawn diagrams or lettering."
+  aiPrompts:
+    basePrompt: "chalkboard illustration, chalk sketch, blackboard art, dusty white chalk, educational diagram"
+    negativePrompt: "polished digital lines, multi-color print, high detail realism"
+    styleKeywords:
+      - "chalkboard"
+      - "hand-drawn"
+      - "dusty"
+      - "educational"
+      - "rough"
+  colorPalette:
+    primary:
+      - "white chalk"
+    secondary:
+      - "yellow chalk"
+      - "pink chalk"
+      - "light blue chalk"
+      - "green chalk"
+    background: "black or dark green chalkboard"
+    usageNotes: "Mostly white on black with limited colored chalk accents"
+    saturation: "low"
+    contrast: "high (white vs black)"
+  lineArt:
+    style: "sketchy chalk lines"
+    weight: "medium, varies with pressure"
+    color: "white (with colored chalk accents)"
+    texture: "powdery, grainy line"
+    edgeTreatment: "smudged, uneven edges"
+  lighting:
+    type: "n/a (flat chalk drawing)"
+    direction: "n/a"
+    intensity: "n/a"
+    shadows:
+      style: "chalk dust ghost lines from erased marks"
+      color: "gray"
+      opacity: "faint"
+    highlights: "thicker chalk appears brighter"
+  rendering:
+    technique: "hand-drawn chalk on slate"
+    texture: "grainy board surface, chalk dust"
+    detailLevel: "low to moderate (schematic rather than detailed)"
+    finish: "matte, dusty"
+  perspective: "flat (drawn on board surface)"
+  mood:
+    overall: "nostalgic, instructive, informal"
+    emotion: "nostalgia, curiosity"
+    tempo: "steady and thoughtful"
+    keywords:
+      - "educational"
+      - "nostalgic"
+      - "textured"
+      - "informal"
+      - "sketchy"
+  stylePrecedents:
+    - "café menu chalk art"
+    - "school chalkboard drawings"
+
+- styleName: "Synthwave Retro Style"
+  description: "1980s synthwave / outrun aesthetic with neon grids, sunset gradients, palm silhouettes, and a nostalgic electronic vibe."
+  aiPrompts:
+    basePrompt: "synthwave outrun art, neon sunset, palm tree silhouettes, 80s retro, grid horizon, VHS glow"
+    negativePrompt: "modern realism, earthy tones, high detail, dull lighting"
+    styleKeywords:
+      - "synthwave"
+      - "outrun"
+      - "80s retro"
+      - "neon"
+      - "vaporwave"
+  colorPalette:
+    primary:
+      - "hot pink"
+      - "electric purple"
+      - "neon cyan"
+    secondary:
+      - "orange sunset"
+      - "black silhouette"
+      - "starry white"
+    background: "purple-to-orange sunset gradient or starry night sky"
+    usageNotes: "Strong neon elements against dark backgrounds, with gradient skies typical of 80s album art"
+    saturation: "very high"
+    contrast: "high"
+  lineArt:
+    style: "grid lines and palm tree silhouettes"
+    weight: "thin grid, bold silhouette"
+    color: "bright cyan grid, black palms"
+    texture: "clean lines with a slight glow"
+    edgeTreatment: "glowing neon edges"
+  lighting:
+    type: "neon glow and sunset backlight"
+    direction: "backlit horizon glow"
+    intensity: "intense at sun, ambient neon elsewhere"
+    shadows:
+      style: "sharp black silhouettes"
+      color: "black"
+      opacity: "solid"
+    highlights: "bright sun core, neon reflections on grid"
+  rendering:
+    technique: "digital airbrush gradients and vector lines"
+    texture: "smooth gradients with slight VHS noise overlay"
+    detailLevel: "low to moderate (focus on iconic shapes over detail)"
+    finish: "glossy neon with film grain"
+  perspective: "low horizon with receding grid"
+  mood:
+    overall: "nostalgic, energetic, dreamy"
+    emotion: "cool, melancholic optimism"
+    tempo: "steady (like a synth beat)"
+    keywords:
+      - "nostalgic"
+      - "vibrant"
+      - "dreamy"
+      - "electronic"
+      - "80s"
+  stylePrecedents:
+    - "Outrun album covers"
+    - "1980s arcade art"
+
+- styleName: "Pop Art Style"
+  description: "Bold Pop Art aesthetic with comic-style outlines, Ben-Day dot shading, bright primary colors, and playful depiction of everyday objects."
+  aiPrompts:
+    basePrompt: "Pop Art illustration, bold outlines, Ben-Day dots, Roy Lichtenstein comic style, bright pop colors"
+    negativePrompt: "subtle tones, painterly texture, serious mood, high realism"
+    styleKeywords:
+      - "Pop Art"
+      - "comic"
+      - "bold"
+      - "Ben-Day dots"
+      - "vibrant"
+  colorPalette:
+    primary:
+      - "bright yellow"
+      - "red"
+      - "blue"
+    secondary:
+      - "black"
+      - "white"
+      - "pastel dot tones"
+    background: "flat white or a single bright color"
+    usageNotes: "Flat fills of primary colors with black outlines and dot shading for tones"
+    saturation: "high"
+    contrast: "high"
+  lineArt:
+    style: "thick black comic outlines"
+    weight: "bold, uniform"
+    color: "black"
+    texture: "solid, clean lines"
+    edgeTreatment: "sharp corners and curves"
+  lighting:
+    type: "flat (shading via dots or flat color)"
+    direction: "n/a"
+    intensity: "n/a"
+    shadows:
+      style: "solid shapes or dotted shadows"
+      color: "darker version of base colors"
+      opacity: "solid"
+    highlights: "none or simple white highlight shapes"
+  rendering:
+    technique: "comic screenprint style"
+    texture: "Ben-Day dot patterns for shading"
+    detailLevel: "low to moderate (emphasis on bold shapes)"
+    finish: "flat, printed look"
+  perspective: "frontal, comic panel style"
+  mood:
+    overall: "playful, bold, ironic"
+    emotion: "amusement, energy"
+    tempo: "snappy, dynamic"
+    keywords:
+      - "bold"
+      - "colorful"
+      - "graphic"
+      - "retro"
+      - "fun"
+  stylePrecedents:
+    - "Roy Lichtenstein"
+    - "Andy Warhol"
+
+- styleName: "Art Deco Poster Style"
+  description: "Sleek Art Deco aesthetic with geometric forms, luxurious metallic colors, sunburst motifs, and elegant 1920s poster design influences."
+  aiPrompts:
+    basePrompt: "Art Deco poster, 1920s design, geometric patterns, symmetrical, gold and black, luxury"
+    negativePrompt: "organic shapes, chaotic composition, grunge, dull colors"
+    styleKeywords:
+      - "Art Deco"
+      - "geometric"
+      - "1920s"
+      - "luxurious"
+      - "stylized"
+  colorPalette:
+    primary:
+      - "black"
+      - "ivory"
+      - "gold"
+    secondary:
+      - "silver"
+      - "teal"
+      - "maroon"
+    background: "black or cream with bold borders"
+    usageNotes: "High contrast neutrals with metallic gold or silver accents"
+    saturation: "medium"
+    contrast: "high"
+  lineArt:
+    style: "clean, symmetric lines and curves"
+    weight: "varied (bold shapes, fine detail lines)"
+    color: "black or gold"
+    texture: "smooth, polished linework"
+    edgeTreatment: "crisp angles, perfect circles"
+  lighting:
+    type: "flat with metallic highlights"
+    direction: "n/a"
+    intensity: "n/a"
+    shadows:
+      style: "simple drop shadows or none"
+      color: "black"
+      opacity: "solid"
+    highlights: "gold foil-like glints"
+  rendering:
+    technique: "silkscreen or lithograph poster style"
+    texture: "flat colors with slight vintage grain"
+    detailLevel: "moderate (stylized decorative elements)"
+    finish: "smooth, high-contrast finish"
+  perspective: "flat, decorative composition"
+  mood:
+    overall: "glamorous, elegant, modernist"
+    emotion: "admiration, confidence"
+    tempo: "upbeat, jazzy"
+    keywords:
+      - "elegant"
+      - "glamorous"
+      - "symmetrical"
+      - "bold"
+      - "modernist"
+  stylePrecedents:
+    - "Erté illustrations"
+    - "A.M. Cassandre travel posters"
+
+- styleName: "Vintage Cartoon Style"
+  description: "Vintage 1920s-30s cartoon style (rubber hose) with simple bouncy characters, high contrast ink, and a film grainy black-and-white aesthetic."
+  aiPrompts:
+    basePrompt: "1920s cartoon, rubber hose limbs, pie-cut eyes, black and white animation, Fleischer style"
+    negativePrompt: "modern anime, high detail, realistic shading, color"
+    styleKeywords:
+      - "vintage cartoon"
+      - "rubber hose"
+      - "black-and-white"
+      - "retro animation"
+      - "whimsical"
+  colorPalette:
+    primary:
+      - "black"
+      - "white"
+      - "gray"
+    secondary:
+      - "sepia tint"
+      - "light blue tint (optional)"
+    background: "light gray or simple hand-drawn background elements"
+    usageNotes: "Mostly monochrome; slight sepia or bluish cast optional for old film effect"
+    saturation: "none (monochrome) or very low"
+    contrast: "high (strong black ink vs white)"
+  lineArt:
+    style: "smooth rubber hose inking"
+    weight: "medium-thick, uniform"
+    color: "black"
+    texture: "clean, with minor wobbles (hand-drawn quality)"
+    edgeTreatment: "rounded, noodle-like curves"
+  lighting:
+    type: "flat (no realistic lighting, cel-style fills)"
+    direction: "n/a"
+    intensity: "n/a"
+    shadows:
+      style: "simple black shape shadows or none"
+      color: "black"
+      opacity: "solid"
+    highlights: "none (flat fills only)"
+  rendering:
+    technique: "hand-drawn cel animation style"
+    texture: "film grain, dust, and scratches"
+    detailLevel: "low (simple, iconic forms)"
+    finish: "matte ink, vintage film look"
+  perspective: "side-on or simple perspective (like early animation frames)"
+  mood:
+    overall: "playful, nostalgic, light-hearted"
+    emotion: "joy, silliness"
+    tempo: "bouncy, upbeat"
+    keywords:
+      - "nostalgic"
+      - "playful"
+      - "simple"
+      - "old-timey"
+      - "charming"
+  stylePrecedents:
+    - "Early Mickey Mouse cartoons"
+    - "Fleischer Studios animation"
+
+- styleName: "Dieselpunk Style"
+  description: "Gritty dieselpunk aesthetic mixing 1940s industrial machinery with sci-fi elements, dark smoky atmospheres, and an art deco-meets-industrial style."
+  aiPrompts:
+    basePrompt: "dieselpunk art, industrial machinery, WWII era tech, zeppelins, dark gritty atmosphere"
+    negativePrompt: "clean futuristic, high fantasy, nature-centric, minimalist"
+    styleKeywords:
+      - "dieselpunk"
+      - "industrial"
+      - "retro-futuristic"
+      - "gritty"
+      - "mechanical"
+  colorPalette:
+    primary:
+      - "gunmetal gray"
+      - "army green"
+      - "sepia brown"
+    secondary:
+      - "oxidized brass"
+      - "crimson"
+      - "oil black"
+    background: "smoky gray skies or factory interior"
+    usageNotes: "Muted wartime tones with occasional red or brass accents; lots of gray and brown"
+    saturation: "low"
+    contrast: "medium (hazy atmosphere reduces contrast)"
+  lineArt:
+    style: "mechanical drafting meets comic outlines"
+    weight: "medium, technical"
+    color: "black or dark brown"
+    texture: "slightly rough, soot-stained"
+    edgeTreatment: "straight edges with rivet and bolt details"
+  lighting:
+    type: "dim, industrial lighting"
+    direction: "harsh spotlights or searchlights through smoke"
+    intensity: "low overall, bright in beams"
+    shadows:
+      style: "thick, smoke-diffused shadows"
+      color: "brown-black"
+      opacity: "heavy"
+    highlights: "dull metal gleam on machinery"
+  rendering:
+    technique: "textured digital painting with grunge overlays"
+    texture: "grime, rust, smoke effects"
+    detailLevel: "high on machines and tech, moderate on backgrounds"
+    finish: "matte with oily sheen on metal"
+  perspective: "dramatic angles (low vantage of giant machines or aerial views of war-torn city)"
+  mood:
+    overall: "gritty, oppressive, retro-futuristic"
+    emotion: "tension, determination"
+    tempo: "tense, engine-pumping"
+    keywords:
+      - "gritty"
+      - "industrial"
+      - "retro"
+      - "warlike"
+      - "smoky"
+  stylePrecedents:
+    - "Sky Captain and the World of Tomorrow visuals"
+    - "Dieselpunk art community works"
+
+- styleName: "Ink Wash Painting Style"
+  description: "East Asian ink wash (sumi-e) style with fluid brush strokes, minimal color, and a harmony of empty space and bold ink in landscape or calligraphic forms."
+  aiPrompts:
+    basePrompt: "ink wash painting, sumi-e, black ink on white, flowing brush strokes, Chinese calligraphy style"
+    negativePrompt: "opaque thick paints, bright multi-colors, sharp mechanical lines, over-detailed forms"
+    styleKeywords:
+      - "ink wash"
+      - "sumi-e"
+      - "minimalist"
+      - "fluid"
+      - "calligraphic"
+  colorPalette:
+    primary:
+      - "black ink"
+    secondary:
+      - "gray ink wash"
+      - "white paper"
+      - "red seal stamp"
+    background: "white or off-white rice paper"
+    usageNotes: "Monochrome with occasional red artist seal; relies on black-to-gray gradients of ink"
+    saturation: "none (monochrome)"
+    contrast: "high (black ink vs white paper)"
+  lineArt:
+    style: "bold yet fluid brush strokes"
+    weight: "varied with brush pressure"
+    color: "black (fading to gray in wash)"
+    texture: "bleeding edges on absorbent paper"
+    edgeTreatment: "soft where ink bleeds, crisp on quick strokes"
+  lighting:
+    type: "n/a (no representational lighting)"
+    direction: "n/a"
+    intensity: "n/a"
+    shadows:
+      style: "suggested by ink shading"
+      color: "gray ink"
+      opacity: "varied by wash"
+    highlights: "paper left blank for highlights"
+  rendering:
+    technique: "brush and ink on paper (traditional sumi-e)"
+    texture: "subtle paper grain, pooled ink gradients"
+    detailLevel: "minimal (suggestive forms, negative space)"
+    finish: "matte, natural media"
+  perspective: "panoramic or bird's-eye (scroll painting style), not strict linear perspective"
+  mood:
+    overall: "serene, contemplative, natural"
+    emotion: "tranquility, balance, introspection"
+    tempo: "calm, flowing"
+    keywords:
+      - "minimalist"
+      - "serene"
+      - "fluid"
+      - "natural"
+      - "traditional"
+  stylePrecedents:
+    - "Chinese landscape scrolls"
+    - "Sesshū Tōyō (sumi-e master)"
+

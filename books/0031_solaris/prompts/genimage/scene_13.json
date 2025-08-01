@@ -1,0 +1,101 @@
+{
+  "sceneDescription": {
+    "setting": {
+      "time": "22nd century, afternoon",
+      "location": "Corridor and airlock area of research station orbiting planet Solaris",
+      "weather": "Artificial atmosphere with emergency lighting activated"
+    },
+    "characters": [
+      {
+        "appearance": "Man, early 30s, brown hair wild with exertion, face flushed with desperate effort, muscles straining",
+        "clothing": "Station uniform torn and disheveled from physical struggle",
+        "position": "Bent forward pushing against resistant figure, entire body engaged in violent effort",
+        "action": "Physically forcing the impossible presence toward airlock, using all strength in desperate attempt to eliminate what cannot exist"
+      },
+      {
+        "appearance": "Woman, late 20s, dark hair flowing with forced movement, expression remaining eerily calm despite violence",
+        "clothing": "Simple dress now wrinkled from struggle but figure showing no signs of distress",
+        "position": "Being pushed but moving with strange weightlessness, not resisting but not helping",
+        "action": "Moving as if floating rather than being forced, maintaining impossible serenity despite violent treatment"
+      }
+    ],
+    "scene": {
+      "mainElements": "Station corridor leading to airlock chamber, emergency lighting casting harsh shadows, control panels for airlock systems, metallic surfaces reflecting struggle",
+      "details": "Torn clothing fibers on floor, sweat stains on walls where hands have pressed for leverage, airlock warning lights beginning to activate, scuff marks from desperate physical effort, no text or letters visible",
+      "background": "Airlock chamber with heavy mechanical door, space beyond showing cosmic void, warning systems beginning to flash, corridor extending back to quarters",
+      "atmosphere": "Violent desperation, complete breakdown of civilized behavior, primal need to eliminate impossible reality, psychological terror driving physical brutality"
+    },
+    "composition": {
+      "cameraAngle": "Dynamic action shot capturing violent movement toward airlock",
+      "focus": "Contrast between man's desperate violence and woman's supernatural calm",
+      "depth": "Struggling figures in foreground, airlock systems in middle ground, cosmic void visible in background through airlock window"
+    }
+  },
+  "colorPalette": {
+    "primary": [
+      "neon blue",
+      "metallic gray",
+      "glowing cyan",
+      "steel silver"
+    ],
+    "secondary": [
+      "amber light",
+      "deep space black",
+      "violet sky"
+    ],
+    "background": "futuristic skyline or starfield",
+    "usageNotes": "Cool tones dominate with pops of vibrant neon lighting",
+    "saturation": "medium",
+    "contrast": "high"
+  },
+  "lineArt": {
+    "style": "painterly sketches painted over",
+    "weight": "n/a (lines hidden by painting)",
+    "color": "n/a",
+    "texture": "smooth digital, hard edges on tech",
+    "edgeTreatment": "sharp silhouettes, atmospheric fade"
+  },
+  "lighting": {
+    "type": "dramatic cinematic lighting",
+    "direction": "multiple sources (city lights, backlights)",
+    "intensity": "high contrast (bright neon vs deep shadow)",
+    "shadows": {
+      "style": "long shadows, diffused by haze",
+      "color": "cool blue or purple",
+      "opacity": "deep"
+    },
+    "highlights": "lens flares, neon glows on surfaces"
+  },
+  "rendering": {
+    "technique": "digital painting with some photobash",
+    "texture": "smooth with textured brushes for atmosphere",
+    "detailLevel": "high in focal points (tech details), looser elsewhere",
+    "finish": "polished, cinematic look"
+  },
+  "perspective": "dynamic perspective (wide-angle vistas or low-angle hero shots)",
+  "mood": {
+    "overall": "epic, futuristic, adventurous",
+    "emotion": "awe, excitement, curiosity",
+    "tempo": "dynamic, energetic",
+    "keywords": [
+      "futuristic",
+      "epic",
+      "cinematic",
+      "detailed",
+      "atmospheric"
+    ]
+  },
+  "stylePrecedents": [
+    "Syd Mead (futurist designer)",
+    "Blade Runner concept art"
+  ],
+  "technicalSpecifications": {
+    "resolution": {
+      "aspectRatio": "9:16",
+      "minWidth": 1080,
+      "minHeight": 1920,
+      "unit": "pixels"
+    },
+    "orientation": "Portrait/Vertical"
+  }
+}

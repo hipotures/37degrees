@@ -1,0 +1,29 @@
+{
+  "sceneDescription": {
+    "title": "First Steps Into the Station Interior",
+    "setting": {
+      "time": "22nd century, morning",
+      "location": "Main corridor of orbital research station above planet Solaris",
+      "weather": "Controlled artificial atmosphere"
+    },
+    "characters": [
+      {
+        "appearance": "Man, early 30s, brown hair, steady gait, observant eyes scanning surroundings",
+        "clothing": "Clean futuristic uniform, carrying small travel case",
+        "position": "Walking down central corridor with measured steps",
+        "action": "Moving forward with scientific curiosity, head turning to examine station architecture and equipment"
+      }
+    ],
+    "scene": {
+      "mainElements": "Long metallic corridor with curved walls, multiple doorways, advanced technological equipment mounted on walls, soft ambient lighting from ceiling strips",
+      "details": "Polished metal surfaces reflecting footsteps, control panels with steady indicator lights, ventilation grilles humming quietly, geometric architectural patterns, no text or letters visible",
+      "background": "Corridor extending into distance with perspective lines, occasional glimpses of equipment rooms through open doorways, subtle shadows from overhead lighting",
+      "atmosphere": "Calm exploration, technological sophistication, quiet anticipation, sense of entering a world of advanced science"
+    },
+    "composition": {
+      "cameraAngle": "Wide shot following character from behind",
+      "focus": "Character's steady progression through station environment",
+      "depth": "Character in middle ground, corridor walls framing foreground, distant corridor sections creating depth"
+    }
+  }
+}

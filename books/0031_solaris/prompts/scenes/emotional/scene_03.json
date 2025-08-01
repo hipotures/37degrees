@@ -1,0 +1,41 @@
+{
+  "sceneDescription": {
+    "title": "Meeting the Exhausted Crew",
+    "setting": {
+      "time": "22nd century, late morning",
+      "location": "Common room of research station orbiting planet Solaris",
+      "weather": "Recycled artificial atmosphere"
+    },
+    "characters": [
+      {
+        "appearance": "Man, early 30s, brown hair, alert posture, professional demeanor",
+        "clothing": "Clean futuristic uniform, hands clasped behind back",
+        "position": "Standing near entrance, maintaining respectful distance",
+        "action": "Observing and assessing the other crew members with scientific objectivity"
+      },
+      {
+        "appearance": "Man, 40s, gray hair, haggard features, sunken eyes, exhausted slump",
+        "clothing": "Wrinkled station uniform, unkempt appearance",
+        "position": "Slouched in chair at table, head resting on one hand",
+        "action": "Looking up wearily, fatigue evident in every gesture"
+      },
+      {
+        "appearance": "Man, 50s, tall and thin, nervous energy, distracted expression",
+        "clothing": "Neat but worn uniform, constantly adjusting sleeves",
+        "position": "Standing near wall controls, shifting weight nervously",
+        "action": "Glancing between newcomer and equipment panels, avoiding direct eye contact"
+      }
+    ],
+    "scene": {
+      "mainElements": "Station common room with curved walls, functional furniture, multiple control panels, overhead lighting casting soft shadows",
+      "details": "Metal table with scattered papers, empty cups, worn chair cushions, wall-mounted screens showing data readings, ventilation system humming, no text or letters visible",
+      "background": "Room extends to show additional equipment alcoves, glimpses of corridor beyond, subtle wear patterns on walls and floors",
+      "atmosphere": "Underlying tension, psychological fatigue, professional courtesy masking deeper concerns, sense of prolonged isolation wearing on the crew"
+    },
+    "composition": {
+      "cameraAngle": "Medium wide shot capturing all three characters",
+      "focus": "Contrast between newcomer's alertness and crew's exhaustion",
+      "depth": "Characters positioned at different distances creating triangular composition, room architecture providing context"
+    }
+  }
+}

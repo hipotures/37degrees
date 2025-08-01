@@ -1,0 +1,95 @@
+{
+  "sceneDescription": {
+    "setting": {
+      "time": "22nd century, early morning",
+      "location": "Maintenance corridor of research station orbiting planet Solaris",
+      "weather": "Stale air with metallic odors"
+    },
+    "characters": [
+      {
+        "appearance": "Man, early 30s, brown hair, shocked expression, stepping carefully around debris",
+        "clothing": "Station uniform, now appearing less pristine",
+        "position": "Moving cautiously through cluttered corridor, one hand touching wall for support",
+        "action": "Surveying damage and neglect with growing alarm, pausing to examine broken equipment"
+      }
+    ],
+    "scene": {
+      "mainElements": "Deteriorated corridor with scattered debris, broken equipment, oil stains on floor, malfunctioning lighting creating patches of darkness",
+      "details": "Metal debris scattered across floor, dark stains of unknown liquids, sparking electrical connections, damaged wall panels hanging loose, abandoned tools and parts, flickering overhead lights, no text or letters visible",
+      "background": "Corridor extending into darkness, glimpses of more damaged areas beyond, pipes and conduits exposed where wall panels have fallen, emergency lighting providing uneven illumination",
+      "atmosphere": "Decay and abandonment, realization that the station is falling apart, growing sense that something fundamental has gone wrong, professional confidence beginning to crack"
+    },
+    "composition": {
+      "cameraAngle": "Wide shot showing extent of deterioration",
+      "focus": "Character's shocked reaction to station condition",
+      "depth": "Debris field in foreground, character navigating in middle ground, damaged corridor extending into dark background"
+    }
+  },
+  "colorPalette": {
+    "primary": [
+      "neon blue",
+      "metallic gray",
+      "glowing cyan",
+      "steel silver"
+    ],
+    "secondary": [
+      "amber light",
+      "deep space black",
+      "violet sky"
+    ],
+    "background": "futuristic skyline or starfield",
+    "usageNotes": "Cool tones dominate with pops of vibrant neon lighting",
+    "saturation": "medium",
+    "contrast": "high"
+  },
+  "lineArt": {
+    "style": "painterly sketches painted over",
+    "weight": "n/a (lines hidden by painting)",
+    "color": "n/a",
+    "texture": "smooth digital, hard edges on tech",
+    "edgeTreatment": "sharp silhouettes, atmospheric fade"
+  },
+  "lighting": {
+    "type": "dramatic cinematic lighting",
+    "direction": "multiple sources (city lights, backlights)",
+    "intensity": "high contrast (bright neon vs deep shadow)",
+    "shadows": {
+      "style": "long shadows, diffused by haze",
+      "color": "cool blue or purple",
+      "opacity": "deep"
+    },
+    "highlights": "lens flares, neon glows on surfaces"
+  },
+  "rendering": {
+    "technique": "digital painting with some photobash",
+    "texture": "smooth with textured brushes for atmosphere",
+    "detailLevel": "high in focal points (tech details), looser elsewhere",
+    "finish": "polished, cinematic look"
+  },
+  "perspective": "dynamic perspective (wide-angle vistas or low-angle hero shots)",
+  "mood": {
+    "overall": "epic, futuristic, adventurous",
+    "emotion": "awe, excitement, curiosity",
+    "tempo": "dynamic, energetic",
+    "keywords": [
+      "futuristic",
+      "epic",
+      "cinematic",
+      "detailed",
+      "atmospheric"
+    ]
+  },
+  "stylePrecedents": [
+    "Syd Mead (futurist designer)",
+    "Blade Runner concept art"
+  ],
+  "technicalSpecifications": {
+    "resolution": {
+      "aspectRatio": "9:16",
+      "minWidth": 1080,
+      "minHeight": 1920,
+      "unit": "pixels"
+    },
+    "orientation": "Portrait/Vertical"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "sceneDescription": {
+    "setting": {
+      "time": "22nd century, afternoon",
+      "location": "Personal cabin aboard research station orbiting planet Solaris",
+      "weather": "Controlled station atmosphere"
+    },
+    "characters": [
+      {
+        "appearance": "Man, early 30s, brown hair, relaxed posture, removing jacket",
+        "clothing": "Partially unbuttoned uniform, sleeves rolled up, more casual demeanor",
+        "position": "Standing beside narrow bed, unpacking travel case",
+        "action": "Methodically organizing personal belongings, taking ownership of the space"
+      }
+    ],
+    "scene": {
+      "mainElements": "Compact personal quarters with narrow bed, built-in desk, wall storage compartments, small porthole window",
+      "details": "Travel case open on bed with folded clothes visible, personal items being arranged on desk surface, compact mirror reflecting overhead light, geometric storage solutions, no text or letters visible",
+      "background": "Small porthole showing swirling alien ocean surface below, curved wall architecture typical of space station, glimpse of corridor through partially open doorway",
+      "atmosphere": "Quiet domesticity, establishing routine, calm preparation, sense of making temporary space feel like home while maintaining scientific mission focus"
+    },
+    "composition": {
+      "cameraAngle": "Medium shot from corner of room",
+      "focus": "Character's methodical organization of personal space",
+      "depth": "Character and belongings in foreground, room architecture in middle ground, porthole view creating background depth"
+    }
+  },
+  "colorPalette": {
+    "primary": [
+      "neon blue",
+      "metallic gray",
+      "glowing cyan",
+      "steel silver"
+    ],
+    "secondary": [
+      "amber light",
+      "deep space black",
+      "violet sky"
+    ],
+    "background": "futuristic skyline or starfield",
+    "usageNotes": "Cool tones dominate with pops of vibrant neon lighting",
+    "saturation": "medium",
+    "contrast": "high"
+  },
+  "lineArt": {
+    "style": "painterly sketches painted over",
+    "weight": "n/a (lines hidden by painting)",
+    "color": "n/a",
+    "texture": "smooth digital, hard edges on tech",
+    "edgeTreatment": "sharp silhouettes, atmospheric fade"
+  },
+  "lighting": {
+    "type": "dramatic cinematic lighting",
+    "direction": "multiple sources (city lights, backlights)",
+    "intensity": "high contrast (bright neon vs deep shadow)",
+    "shadows": {
+      "style": "long shadows, diffused by haze",
+      "color": "cool blue or purple",
+      "opacity": "deep"
+    },
+    "highlights": "lens flares, neon glows on surfaces"
+  },
+  "rendering": {
+    "technique": "digital painting with some photobash",
+    "texture": "smooth with textured brushes for atmosphere",
+    "detailLevel": "high in focal points (tech details), looser elsewhere",
+    "finish": "polished, cinematic look"
+  },
+  "perspective": "dynamic perspective (wide-angle vistas or low-angle hero shots)",
+  "mood": {
+    "overall": "epic, futuristic, adventurous",
+    "emotion": "awe, excitement, curiosity",
+    "tempo": "dynamic, energetic",
+    "keywords": [
+      "futuristic",
+      "epic",
+      "cinematic",
+      "detailed",
+      "atmospheric"
+    ]
+  },
+  "stylePrecedents": [
+    "Syd Mead (futurist designer)",
+    "Blade Runner concept art"
+  ],
+  "technicalSpecifications": {
+    "resolution": {
+      "aspectRatio": "9:16",
+      "minWidth": 1080,
+      "minHeight": 1920,
+      "unit": "pixels"
+    },
+    "orientation": "Portrait/Vertical"
+  }
+}

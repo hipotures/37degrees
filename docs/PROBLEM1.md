@@ -127,7 +127,7 @@ mcp__playwright-headless__browser_evaluate(() => {
 
 ## Aktualizacja dokumentacji
 
-W `/37d-chatgpt-image-download-step4-one_step-v2.md` zamień:
+W `/37d-s4-image-download-chatgpt.md` zamień:
 
 ```javascript
 // STARE - nie działa

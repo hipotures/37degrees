@@ -1,0 +1,845 @@
+
+
+# **Leksykon Światów Wizualnych: Katalog Stylów Graficznych dla Narracji Literackiej**
+
+## **Wprowadzenie: Słownik Estetyk dla Opowieści o Książkach**
+
+Niniejszy raport stanowi strategiczny zestaw narzędzi, zaprojektowany w celu wzbogacenia wizualnej strony podcastów o tematyce literackiej. Jego celem jest dostarczenie ustrukturyzowanej i dogłębnej analizy szerokiego spektrum stylów artystycznych i graficznych, które mogą posłużyć jako tło wizualne, rezonujące z tematyką, epoką i nastrojem omawianych dzieł. Raport ten wykracza poza prostą listę inspiracji, oferując analityczne ramy, które pozwalają na precyzyjne dopasowanie estetyki do narracji.  
+Każdy styl został poddany dekonstrukcji na fundamentalne komponenty, odzwierciedlając strukturę danych wymaganą do efektywnego generowania obrazów za pomocą sztucznej inteligencji.1 Analiza skupia się na DNA każdego stylu – jego palecie kolorystycznej, charakterystyce oświetlenia, naturze linii, teksturze i nastroju. Takie podejście przekształca abstrakcyjne koncepcje artystyczne w zbiór precyzyjnych, programowalnych parametrów, gotowych do implementacji w procesie twórczym.  
+Struktura dokumentu została zaprojektowana z myślą o maksymalnej użyteczności i łatwości nawigacji. Część I, "Sklasyfikowany Katalog Stylów Wizualnych", prezentuje ponad 40 szczegółowo opisanych estetyk, pogrupowanych w cztery rozdziały tematyczne: wizje przyszłości, podróż przez historię sztuki, style ery graficznej oraz techniki i tradycje kulturowe. Część II, "Zastosowanie i Dalsze Badania", zawiera praktyczny przewodnik przekładania analiz na konkretne polecenia dla generatorów AI oraz obszerną bibliotekę zasobów do samodzielnego poszerzania archiwum stylów. Celem jest wyposażenie twórcy w kompleksowe kompendium, które pozwoli na świadome i celowe budowanie wizualnych światów dla każdej opowiadanej historii.
+
+## **Część I: Sklasyfikowany Katalog Stylów Wizualnych**
+
+Poniższa tabela stanowi indeks wszystkich stylów przeanalizowanych w tej części raportu. Została zaprojektowana jako narzędzie szybkiego przeglądu, umożliwiające błyskawiczną identyfikację i selekcję estetyk na podstawie ich kategorii i kluczowych cech.  
+**Tabela 1: Indeks Stylów Wizualnych**
+
+| Nazwa Stylu | Kategoria | Główne Cechy Estetyczne |
+| :---- | :---- | :---- |
+| Cyberpunk | Wizje Przyszłości | Dystopia high-tech, low-life; neony, cybernetyka, miejski rozkład. |
+| Solarpunk | Wizje Przyszłości | Optymistyczna, zrównoważona przyszłość; harmonia natury i technologii. |
+| Steampunk | Wizje Przyszłości | Estetyka wiktoriańska połączona z technologią pary; mosiądz, miedź, mechanizmy. |
+| Dieselpunk | Wizje Przyszłości | Estetyka ery maszyn (lata 20.-50. XX w.); Art Deco, film noir, chrom, industrializm. |
+| Atompunk | Wizje Przyszłości | Retrofuturyzm ery atomowej (1945-1965); optymizm nuklearny, estetyka Googie. |
+| Raygun Gothic | Wizje Przyszłości | Komiksowa, optymistyczna wizja przyszłości z lat 40.-60.; jaskrawe kolory, opływowe rakiety. |
+| Biopunk | Wizje Przyszłości | Dystopijna wizja zdominowana przez inżynierię genetyczną i biotechnologię. |
+| Cassette Futurism | Wizje Przyszłości | Wizja przyszłości z lat 70./80.; analogowa technologia, beżowy plastik, monitory CRT. |
+| Afrofuturyzm | Wizje Przyszłości | Połączenie science-fiction i fantasy z historią i kosmologią diaspory afrykańskiej. |
+| Utopian Futurism | Wizje Przyszłości | Idealistyczna wizja doskonałej przyszłości; harmonia, czystość, zaawansowana technologia. |
+| Dystopian Futurism | Wizje Przyszłości | Pesymistyczna wizja przyszłości; opresja, katastrofa ekologiczna, rozpad społeczny. |
+| Retrofuturyzm | Wizje Przyszłości | Wizje przyszłości tworzone w przeszłości; nostalgia, ironia, napięcie między starym a nowym. |
+| Sztuka Gotycka | Historia Sztuki | Strzeliste łuki, witraże, wydłużone postacie, silna wertykalność. |
+| Sztuka Bizantyjska | Historia Sztuki | Płaskie, frontalne postacie, złote tła, tematyka religijna, hieratyczność. |
+| Barok i Tenebryzm | Historia Sztuki | Dramatyzm, ruch, emocjonalna intensywność, silny światłocień (chiaroscuro). |
+| Rokoko | Historia Sztuki | Lekkość, elegancja, pastelowe kolory, sceny arystokratycznego życia. |
+| Impresjonizm | Historia Sztuki | Uchwycenie ulotnej chwili i światła, widoczne pociągnięcia pędzla, malarstwo plenerowe. |
+| Ukiyo-e | Historia Sztuki | Japońskie drzeworyty; płaskie plamy koloru, wyraźny kontur, sceny z "przepływającego świata". |
+| Fowizm | Historia Sztuki | Intensywne, nienaturalistyczne kolory, dzikie pociągnięcia pędzla, ekspresja ponad realizm. |
+| Kubizm | Historia Sztuki | Geometryzacja form, dekonstrukcja obiektów, ukazywanie wielu perspektyw jednocześnie. |
+| Futuryzm Włoski | Historia Sztuki | Gloryfikacja dynamizmu, prędkości i technologii; przedstawienie ruchu i symultaniczności. |
+| Surrealizm i Dadaizm | Historia Sztuki | Eksploracja podświadomości, snów, irracjonalności; absurd, kolaż, techniki automatyczne. |
+| Ekspresjonizm Abstrakcyjny | Historia Sztuki | Spontaniczny, gestualny akt malarski (Action Painting) lub kontemplacyjne pola koloru (Color Field). |
+| Secesja (Art Nouveau) | Era Graficzna | Płynne, organiczne linie, motywy roślinne, dekoracyjność, elegancja. |
+| Art Deco | Era Graficzna | Geometryzacja, symetria, luksusowe materiały, elegancja i nowoczesność lat 20.-40. |
+| Bauhaus i De Stijl | Era Graficzna | Funkcjonalizm, prostota, geometryczne formy, podstawowe kolory, "forma podąża za funkcją". |
+| Międzynarodowy Styl Typograficzny | Era Graficzna | Czystość, obiektywizm, czytelność; siatka modułowa, typografia bezszeryfowa. |
+| Pop Art | Era Graficzna | Inspiracja kulturą masową i konsumpcjonizmem; jaskrawe kolory, powtórzenia, ironia. |
+| Psychodelia lat 60\. | Era Graficzna | Zdeformowane wizualizacje, jaskrawe, kontrastowe kolory, wzory kalejdoskopowe. |
+| Memphis Design | Era Graficzna | Postmodernistyczna estetyka lat 80.; odważne kolory, geometryczne kształty, asymetria. |
+| Grunge lat 90\. | Era Graficzna | Estetyka "zrób to sam" (DIY); zniszczone tekstury, chaotyczna typografia, stonowane kolory. |
+| Vaporwave | Era Graficzna | Nostalgiczna, surrealistyczna estetyka internetowa; grafika retro, glitch art, pastelowe gradienty. |
+| Low Poly | Era Graficzna | Minimalistyczna grafika 3D; uproszczone, kanciaste obiekty o małej liczbie wielokątów. |
+| Minimalizm | Era Graficzna | Redukcja do podstawowych form, prostota, czystość, "mniej znaczy więcej". |
+| Maksymalizm | Era Graficzna | Warstwowość, eklektyzm, bogactwo wzorów i kolorów, "więcej znaczy więcej". |
+| Fresk | Technika i Kultura | Malarstwo ścienne na mokrym tynku; matowe wykończenie, zintegrowane z architekturą. |
+| Witraż | Technika i Kultura | Sztuka z kolorowego szkła łączonego ołowiem; mocne kontury, gra światłem. |
+| Mozaika | Technika i Kultura | Obrazy z małych kawałków (tesser) kamienia lub szkła; tekstura, efekt pikselacji. |
+| Gobelin (Tapiseria) | Technika i Kultura | Tkanina artystyczna tworząca obrazy; bogata tekstura, narracyjność. |
+| Sztuka Celtycka | Technika i Kultura | Ornamentyka, unikanie prostych linii; spirale, zaplatane wzory (węzły), stylizowane figury. |
+| Islamskie Wzory Geometryczne | Technika i Kultura | Złożone, powtarzalne wzory oparte na geometrii; symetria, iluzja nieskończoności. |
+| Aborygeńskie Malarstwo Kropkowe | Technika i Kultura | Sztuka oparta na systemie symboli (kropki, okręgi, linie) opowiadająca historie Czasu Snu. |
+| Art Brut (Sztuka Surowa) | Technika i Kultura | Sztuka tworzona poza tradycją akademicką; surowa, spontaniczna, intuicyjna ekspresja. |
+| Art Informel (Sztuka Bezforemna) | Technika i Kultura | Abstrakcja gestualna; improwizacja, ekspresja, nacisk na materię i proces twórczy. |
+
+### **Rozdział 1: Wizje Przyszłości \- Zestaw Narzędzi dla Fikcji Spekulatywnej**
+
+Ten rozdział jest odpowiedzią na bezpośrednie zapotrzebowanie na style futurystyczne, dostarczając szerokiego spektrum wizji – od mrocznych dystopii po świetliste utopie. Analiza tych stylów ujawnia, że nie są one jedynie zbiorem estetycznych tropów, ale często stanowią wizualny komentarz na temat relacji ludzkości z technologią. Wiele z tych gatunków, określanych przyrostkiem "-punk", funkcjonuje jako narzędzie diagnostyczne. Przedrostek (np. "cyber-", "steam-", "diesel-") identyfikuje dominującą technologię danej wizji świata, podczas gdy sam przyrostek "-punk" sygnalizuje buntowniczy, kontrkulturowy stosunek do tej technologii i porządku społecznego, który ona kształtuje.2 Zrozumienie tej dynamiki pozwala na znacznie głębsze i bardziej trafne dopasowanie stylu do centralnego konfliktu lub tematu książki. Na przykład, opowieść o społecznych konsekwencjach rozwoju sztucznej inteligencji naturalnie koresponduje z estetyką Cyberpunku, podczas gdy historia alternatywna, w której rewolucja biotechnologiczna zastąpiła informatyczną, znajdzie swoje odzwierciedlenie w Biopunku.4
+
+#### **Cyberpunk**
+
+* **Opis:** Estetyka łącząca zaawansowaną technologię z rozkładem społecznym ("high-tech, low-life"). Charakteryzuje się mroczną, dystopijną wizją przyszłości, w której technologia służy opresji i kontroli, a społeczeństwo jest zdominowane przez megakorporacje.2 Wizualnie to świat gigantycznych, przytłaczających drapaczy chmur, zalanych deszczem ulic, wszechobecnych neonów, hologramów i cybernetycznych ulepszeń ciała.4  
+* **Sugerowane Prompty AI:**  
+  * basePrompt: cyberpunk cityscape at night, towering skyscrapers, neon signs, holographic advertisements, rain-slicked streets, flying vehicles, gritty urban decay, biomechanical cyborgs, high-tech low-life  
+  * negativePrompt: bright daylight, sunny, rural, natural landscape, clean, utopian, minimalist  
+  * styleKeywords: cyberpunk, dystopian, neon-lit, futuristic, urban decay, high-tech, Blade Runner, Neuromancer, corporate hegemony  
+* **Paleta Kolorów:** Dominują ciemne, mroczne tła skontrastowane z żywymi, nasyconymi neonami – przede wszystkim błękitami, fioletami i różami.6  
+* **Sztuka Linii:** Zazwyczaj ostre, zdefiniowane krawędzie w architekturze i technologii, kontrastujące z chaosem i brudem na poziomie ulicy. Linie często podkreślone są przez neonowe światła.  
+* **Oświetlenie:** Dramatyczne, oparte na kontraście. Główne źródła światła to neony i hologramy, które rzucają kolorowe, nienaturalne odblaski na mokre powierzchnie. Cienie są głębokie i mroczne, podkreślając klaustrofobiczną atmosferę.4  
+* **Renderowanie:** Dąży do fotorealizmu z elementami cyfrowymi. Tekstury są kluczowe: brud, rdza, wilgoć, zużycie kontrastują z gładkimi, lśniącymi powierzchniami zaawansowanej technologii.  
+* **Perspektywa:** Często z poziomu ulicy, patrząc w górę na przytłaczającą architekturę, lub z lotu ptaka, ukazując ogrom i złożoność miasta, co maskuje brud i zepsucie na niższych poziomach.4  
+* **Nastrój:** Mroczny, pesymistyczny, klaustrofobiczny. Emocje to alienacja, niepokój, bunt i poczucie przytłoczenia przez technologię i korupcję. Tempo jest dynamiczne, chaotyczne.2  
+* **Precedensy Stylistyczne:** *Blade Runner* (1982), *Neuromancer* Williama Gibsona, *Akira*, *Cyberpunk 2077*.2
+
+#### **Solarpunk**
+
+* **Opis:** Optymistyczna, ekologiczna utopia, która wyobraża sobie zrównoważoną przyszłość, gdzie technologia i natura współistnieją w harmonii.7 Estetyka jest wizualnie jasna, często inspirowana secesją (Art Nouveau) i ruchem Arts and Crafts, z ich organicznymi formami i naciskiem na rzemiosło.7 Kluczowe elementy to zielona technologia, energia odnawialna, zielone dachy, wertykalne lasy i biofiliczny design.8  
+* **Sugerowane Prompty AI:**  
+  * basePrompt: solarpunk utopian city, futuristic architecture integrated with nature, vertical forests, solar panels, lush greenery, flowing organic lines, bright sunlight, art nouveau influence, sustainable technology  
+  * negativePrompt: dystopian, polluted, industrial, dark, gritty, cyberpunk, concrete jungle  
+  * styleKeywords: solarpunk, utopian, eco-futurism, sustainable, harmony with nature, biophilic design, Art Nouveau  
+* **Paleta Kolorów:** Jasna i optymistyczna. Dominują żywe zielenie, błękity nieba, ciepłe odcienie światła słonecznego oraz naturalne kolory ziemi.  
+* **Sztuka Linii:** Płynne, organiczne, zakrzywione linie inspirowane naturą i secesją, połączone z czystymi, nowoczesnymi liniami zaawansowanej technologii.8  
+* **Oświetlenie:** Jasne, naturalne, obfite światło słoneczne. Często przedstawiane jest "złote światło", które podkreśla idylliczną i pełną nadziei atmosferę.7  
+* **Renderowanie:** Czyste i szczegółowe, z naciskiem na tekstury roślinności i innowacyjnych, ekologicznych materiałów. Może zawierać elementy takie jak witraże czy panele słoneczne jako elementy dekoracyjne.8  
+* **Perspektywa:** Szerokie, panoramiczne ujęcia, które pokazują harmonię między miastem a naturą.  
+* **Nastrój:** Pełen nadziei, optymistyczny, spokojny, wspólnotowy. Emocje to harmonia, współpraca i podziw dla piękna natury zintegrowanej z ludzką pomysłowością.7  
+* **Precedensy Stylistyczne:** Architektura Vincenta Callebauta, prace artystów takich jak Olalekan Jeyifous.8
+
+#### **Steampunk**
+
+* **Opis:** Retrofuturystyczny styl łączący estetykę epoki wiktoriańskiej z futurystycznymi wynalazkami napędzanymi parą. Jest to wizja "świata, który nigdy nie istniał", romantyczna i tajemnicza, czerpiąca z rewolucji przemysłowej.9 Kluczowe elementy wizualne to mechanizmy zębate, mosiądz, miedź, zegary, sterowce i skomplikowane maszyny parowe.10  
+* **Sugerowane Prompty AI:**  
+  * basePrompt: steampunk invention, Victorian era aesthetics, intricate gears and cogs, brass and copper details, steam-powered machinery, airships, goggles and top hats, retrofuturistic technology  
+  * negativePrompt: modern, digital, plastic, minimalist, sleek, cyberpunk  
+  * styleKeywords: steampunk, Victorian, retrofuturism, industrial revolution, gears, steam-powered, brass  
+* **Paleta Kolorów:** Ciepła, metaliczna i ziemista. Dominują brązy, sepie, odcienie mosiądzu, miedzi i brązu, połączone z głębokimi zieleniami, bordo i kremowymi beżami, typowymi dla wiktoriańskich wnętrz.  
+* **Sztuka Linii:** Ozdobna i skomplikowana. Linie są często zakrzywione i inspirowane wiktoriańską ornamentyką, ale także precyzyjne i mechaniczne w przedstawieniach maszyn.  
+* **Oświetlenie:** Często ciepłe, przypominające światło lamp gazowych lub żarówek Edisona. Może być dramatyczne, z głębokimi cieniami, aby podkreślić złożoność maszynerii.  
+* **Renderowanie:** Nacisk na teksturę: polerowany metal, stare drewno, skóra, aksamit i koronka. Detale są niezwykle ważne – widoczne nity, śruby, manometry i rury.  
+* **Perspektywa:** Zróżnicowana, często pokazująca skomplikowane mechanizmy z bliska lub majestatyczne sterowce na tle nieba.  
+* **Nastrój:** Przygodowy, romantyczny, nostalgiczny, ale też pełen podziwu dla ludzkiej inwencji. Emocje to ciekawość, odkrywczość i tajemniczość.9  
+* **Precedensy Stylistyczne:** Powieści Juliusza Verne'a i H.G. Wellsa, prace artystów takich jak Ian McQue.
+
+#### **Dieselpunk**
+
+* **Opis:** Styl retrofuturystyczny inspirowany estetyką i technologią okresu międzywojennego i lat 50\. XX wieku – erą diesla, jazzu, Art Deco i filmu noir.3 W przeciwieństwie do Steampunku, technologia jest tu bardziej zaawansowana, oparta na silnikach spalinowych, potężna i często o militarnym charakterze. Wizualnie to świat chromu, stali, monumentalnej architektury i industrialnej potęgi.3  
+* **Sugerowane Prompty AI:**  
+  * basePrompt: dieselpunk metropolis, art deco skyscrapers, retro-futuristic airships and vehicles, industrial machinery, film noir atmosphere, chrome details, 1940s fashion with futuristic elements  
+  * negativePrompt: steampunk, victorian, digital, clean, utopian, bright colors  
+  * styleKeywords: dieselpunk, retrofuturism, art deco, 1940s, industrial, film noir, machine age  
+* **Paleta Kolorów:** Zazwyczaj ciemna i stonowana, z akcentami metalicznymi i neonowymi. Dominują odcienie szarości, brązu, khaki, skontrastowane z blaskiem chromu i okazjonalnymi, mocnymi kolorami (czerwień, granat).11  
+* **Sztuka Linii:** Geometryczna i monumentalna, typowa dla Art Deco – proste, mocne linie, symetria. W scenach noir linie są ostre i kanciaste.  
+* **Oświetlenie:** Często dramatyczne, inspirowane filmem noir – ostre kontrasty, głębokie cienie, światło przechodzące przez żaluzje. W scenach industrialnych oświetlenie jest surowe i funkcjonalne.  
+* **Renderowanie:** Tekstury są ciężkie i industrialne: stal, beton, bakelit. Powierzchnie są często zużyte, zardzewiałe, ale kluczowe elementy technologiczne lśnią nowością i mocą. Widoczny jest wpływ propagandy wojennej i estetyki militarnej.12  
+* **Perspektywa:** Monumentalna, podkreślająca ogrom maszyn i budowli. Częste są niskie kąty, które nadają postaciom i pojazdom heroiczną skalę.  
+* **Nastrój:** Zróżnicowany – od optymizmu ery maszyn po pesymizm i cynizm filmu noir. Często obecne jest napięcie, poczucie nadchodzącego konfliktu, nacjonalizm i fascynacja potęgą.3  
+* **Precedensy Stylistyczne:** Film *Metropolis* (1927), gra *BioShock*, estetyka *Final Fantasy VII*.3
+
+#### **Atompunk**
+
+* **Opis:** Retrofuturyzm ery atomowej i wyścigu kosmicznego (ok. 1945-1965), odzwierciedlający fascynację i lęk przed energią jądrową.13 To wizja przyszłości, w której tranzystor nigdy nie został wynaleziony, a technologia jest duża, nieporęczna i analogowa (np. ekrany z lampami katodowymi).13 Estetyka czerpie z designu Mid-century modern, architektury Googie i kultury zimnej wojny.14  
+* **Sugerowane Prompty AI:**  
+  * basePrompt: atompunk retro-futurism, 1950s vision of the future, Googie architecture, atomic age technology, clunky robots, bubble helmets, cathode ray tube screens, nuclear family, space race  
+  * negativePrompt: digital, sleek, modern, minimalist, steampunk, victorian  
+  * styleKeywords: atompunk, retrofuturism, 1950s, atomic age, space race, Googie, mid-century modern  
+* **Paleta Kolorów:** Często stonowana i neutralna: czernie, biele, beże, odcienie szarości. Akcenty kolorystyczne są żywe, ale ograniczone, np. "raketowa" czerwień i żółć, turkus, pomarańcz.16  
+* **Sztuka Linii:** Charakterystyczne są opływowe, aerodynamiczne, zakrzywione linie, ostre kąty i formy przypominające gwiazdy lub atomy, typowe dla stylu Googie.15  
+* **Oświetlenie:** Zazwyczaj jasne i równomierne, odzwierciedlające optymizm epoki. W bardziej mrocznych wariantach może pojawić się oświetlenie typowe dla filmów szpiegowskich z okresu zimnej wojny.  
+* **Renderowanie:** Tekstury to plastik, chrom, lastryko, formica. Powierzchnie są gładkie i często lśniące. Technologia wygląda na ciężką i analogową, z dużymi przyciskami i pokrętłami.  
+* **Perspektywa:** Ukazuje wiarę w postęp technologiczny. Sceny często przedstawiają idealne, podmiejskie życie z futurystycznymi gadżetami lub śmiałe wizje eksploracji kosmosu.16  
+* **Nastrój:** Mieszanka naiwnego optymizmu i wiary w technologię z podskórnym lękiem przed wojną nuklearną i komunizmem. Może być zarówno pogodny i rodzinny, jak i totalitarny.13  
+* **Precedensy Stylistyczne:** Serial *The Jetsons*, seria gier *Fallout*, architektura Tomorrowland w Disneylandzie.13
+
+#### **Raygun Gothic**
+
+* **Opis:** Podgatunek Atompunk, skupiający się na bardziej jaskrawej, komiksowej i optymistycznej wizji przyszłości z lat 40.-60. XX wieku.18 Nazwa, ukuta przez Williama Gibsona, opisuje "jutro, którego nigdy nie było".15 Charakteryzuje się opływowymi, często spiczastymi kształtami rakiet, latającymi spodkami, pistoletami na promienie i jaskrawymi kolorami.  
+* **Sugerowane Prompty AI:**  
+  * basePrompt: raygun gothic aesthetic, 1950s science fiction, retro futuristic rocket ship, flying saucer, ray gun, bright comic book colors, optimistic future, streamlined modern  
+  * negativePrompt: dystopian, gritty, realistic, dark, monochrome  
+  * styleKeywords: raygun gothic, retrofuturism, 1950s sci-fi, populuxe, streamline moderne, atompunk  
+* **Paleta Kolorów:** Bardzo jasna i kontrastowa, przypominająca komiksy z epoki. Żywe czerwienie, żółcie, błękity i zielenie, często z neonowymi akcentami.18  
+* **Sztuka Linii:** Opływowe, dynamiczne, aerodynamiczne linie. Kształty są często przesadzone – rakiety mają ostre, wydłużone dzioby i duże płetwy, a budynki ostre kąty i wspornikowe konstrukcje.15  
+* **Oświetlenie:** Jasne, optymistyczne, bez mrocznych cieni. Często używane są efekty świetlne, takie jak promienie i błyski, aby podkreślić futurystyczny charakter technologii.  
+* **Renderowanie:** Gładkie, lśniące powierzchnie, jakby wszystko było nowe i prosto z fabryki. Niewiele tekstur zużycia, estetyka jest czysta i idealistyczna.  
+* **Perspektywa:** Heroiczna i dynamiczna, podkreślająca ekscytację związaną z podbojem kosmosu i nowymi technologiami.  
+* **Nastrój:** Czysty optymizm, przygoda, zachwyt nad przyszłością. Jest to wizja przyszłości jako ekscytującego, kolorowego i pełnego cudów miejsca.18  
+* **Precedensy Stylistyczne:** Okładki magazynów pulpowych science-fiction z lat 50., serial *The Jetsons*, wczesny design Tomorrowland w Disneylandzie.18
+
+#### **Biopunk**
+
+* **Opis:** Podgatunek science-fiction wywodzący się z cyberpunku, ale skupiający się na implikacjach rewolucji biotechnologicznej, a nie informatycznej.5 Tematyka krąży wokół inżynierii genetycznej, syntetycznej biologii, bio-hakowania i megakorporacji kontrolujących DNA. Estetyka często zaciera granice między tym, co organiczne i syntetyczne, tworząc hybrydowe formy życia i biomechaniczne konstrukcje.19  
+* **Sugerowane Prompty AI:**  
+  * basePrompt: biopunk art, genetic engineering, synthetic biology, organic and synthetic hybrid, biomechanical, distorted mutated forms, bioluminescent lighting, black clinic laboratory  
+  * negativePrompt: steampunk, mechanical, clean, natural, traditional technology  
+  * styleKeywords: biopunk, biotechnology, genetic modification, organic, synthetic, dystopian, bio-hacker  
+* **Paleta Kolorów:** Często organiczna, ale nienaturalna. Mogą dominować odcienie zieleni, bursztynu, kolory tkanek, ale z akcentami neonowymi lub bioluminescencyjnymi. Paleta może być też sterylna i kliniczna (biel, stal) lub mroczna i brudna, z naciskiem na teksturę i rozkład.20  
+* **Sztuka Linii:** Organiczne, płynne, często asymetryczne i nieprzewidywalne. Linie mogą naśladować struktury komórkowe, pnącza lub zdeformowaną anatomię.  
+* **Oświetlenie:** Często wewnętrzne, pochodzące od bioluminescencyjnych organizmów lub sprzętu laboratoryjnego. Może być mroczne i tajemnicze, podkreślając etycznie wątpliwą naturę eksperymentów.20  
+* **Renderowanie:** Nacisk na tekstury organiczne: skóra, tkanki, śluz, chityna, połączone z gładkimi, syntetycznymi materiałami. Częste są zdeformowane lub zmutowane formy, hybrydy człowieka i zwierzęcia, lub człowieka i rośliny.  
+* **Perspektywa:** Często intymna, skupiona na ciele i jego modyfikacjach. Może ukazywać wnętrza nielegalnych laboratoriów ("czarnych klinik") lub dystopijne społeczeństwa, w których genetyka determinuje status społeczny.5  
+* **Nastrój:** Zazwyczaj mroczny, niepokojący, kwestionujący etykę i definicję człowieczeństwa. Emocje to lęk, fascynacja, odraza i krytyka społeczna.5  
+* **Precedensy Stylistyczne:** Film *Gattaca*, powieść *The Windup Girl* Paolo Bacigalupiego, prace artystów takich jak H.R. Giger (choć bardziej biomechaniczny, to duży wpływ).19
+
+#### **Cassette Futurism**
+
+* **Opis:** Wizja przyszłości z perspektywy późnych lat 70\. i 80\. XX wieku, zdominowana przez technologię analogową. Nazwa pochodzi od kasety magnetofonowej, symbolu epoki.21 Estetyka ta charakteryzuje się nieporęcznymi, kanciastymi urządzeniami, mnóstwem przycisków, pokręteł i monitorów CRT. Jest to przyszłość bez potężnych komputerów i telefonów komórkowych, gdzie technologia jest namacalna i wyspecjalizowana.22  
+* **Sugerowane Prompty AI:**  
+  * basePrompt: cassette futurism, 1980s retro technology, bulky analog hardware, CRT monitors with green text, lots of buttons and knobs, beige plastic, fake wood paneling, 45-degree bevels  
+  * negativePrompt: modern, sleek, digital, minimalist, touchscreen, wireless, flat screen  
+  * styleKeywords: cassette futurism, retrofuturism, 1980s, analog, CRT, brutalist product design, Syd Mead  
+* **Paleta Kolorów:** Stonowana, z dominacją beżowego i szarego plastiku, czarnego metalu i paneli imitujących drewno. Akcenty kolorystyczne są często jaskrawe, ale proste – np. pomarańczowe, brązowe i żółte paski na białej powierzchni lub kolorowe przyciski.22  
+* **Sztuka Linii:** Kanciasta, geometryczna, z dużą ilością skosów pod kątem 45 stopni i rowków. Design produktów jest często "brutalistyczny" i funkcjonalny.21  
+* **Oświetlenie:** Często pochodzi od ekranów CRT (zielony lub bursztynowy tekst na czarnym tle) oraz małych, nie-LEDowych żarówek za kolorowym plastikiem, które dają nierównomierne, cieplejsze światło.22  
+* **Renderowanie:** Tekstury to przede wszystkim matowy, lekko chropowaty plastik, szczotkowane aluminium i laminaty drewnopodobne. Technologia jest "otwarta" – widać jej mechaniczne i analogowe komponenty, nie jest "czarną skrzynką".22  
+* **Perspektywa:** Skupiona na wnętrzach statków kosmicznych, centrów kontroli, biur – miejscach wypełnionych technologią.  
+* **Nastrój:** Nostalgiczny, funkcjonalny, nieco surowy. Wywołuje poczucie namacalnej, zrozumiałej technologii, w przeciwieństwie do współczesnej, zminiaturyzowanej elektroniki.  
+* **Precedensy Stylistyczne:** Filmy *Alien* (1979), *Blade Runner* (wnętrza), prace projektanta Syd Meada.21
+
+#### **Afrofuturyzm**
+
+* **Opis:** Ruch kulturowy i estetyka, która bada przecięcie diaspory afrykańskiej z technologią i science-fiction. Jest to reinterpretacja i odzyskiwanie przeszłości oraz wyobrażanie sobie przyszłości przez pryzmat czarnej kultury.23 Wizualnie łączy elementy afrykańskich kosmologii, historii i sztuki (np. starożytnego Egiptu) z motywami futurystycznymi, takimi jak podróże kosmiczne, zaawansowana technologia i cybernetyka.24  
+* **Sugerowane Prompty AI:**  
+  * basePrompt: afrofuturism, black cultural lens, science fiction, ancient african and egyptian imagery mixed with futuristic technology, vibrant colors, cosmic themes, empowered black figures, space age  
+  * negativePrompt: monochrome, eurocentric, mundane, realistic, historical documentary  
+  * styleKeywords: afrofuturism, black futurism, sci-fi, fantasy, african diaspora, cosmic, empowering  
+* **Paleta Kolorów:** Zazwyczaj żywa i bogata. Często wykorzystuje palety inspirowane afrykańskimi tkaninami, sztuką i naturą, połączone z kosmicznymi fioletami, błękitami i złotem.  
+* **Sztuka Linii:** Może łączyć geometryczne wzory z afrykańskiej sztuki z płynnymi, technologicznymi liniami. Częsty jest wpływ komiksu, z mocnymi, dynamicznymi konturami.24  
+* **Oświetlenie:** Często mistyczne lub kosmiczne, z efektami poświaty, gwiezdnych mgławic i boskiego światła, co nawiązuje do duchowego wymiaru ruchu.  
+* **Renderowanie:** Eklektyczne, łączące tekstury tradycyjnych materiałów (drewno, tkanina, metal) z gładkimi, lśniącymi powierzchniami statków kosmicznych i technologii. Symbolika jest kluczowa – postacie i obiekty są naładowane znaczeniem kulturowym i historycznym.24  
+* **Perspektywa:** Skupiona na postaciach, które są przedstawiane jako silne, dumne i sprawcze. Ukazuje wizje wyzwolonych, zaawansowanych technologicznie czarnych społeczeństw.  
+* **Nastrój:** Pełen mocy, dumy, nadziei i duchowości. Jest to estetyka wyzwolenia, odzyskiwania narracji i tworzenia optymistycznych, afirmatywnych wizji przyszłości.23  
+* **Precedensy Stylistyczne:** Muzyka i wizerunek Sun Ra, Parliament-Funkadelic, Janelle Monáe; film *Black Panther*; prace artystów jak Jean-Michel Basquiat, Wangechi Mutu.24
+
+#### **Utopian Futurism (Futuryzm Utopijny)**
+
+* **Opis:** Wizualna reprezentacja idealnego, doskonałego społeczeństwa przyszłości. W przeciwieństwie do mrocznych dystopii, futuryzm utopijny przedstawia świat, w którym technologia, społeczeństwo i często natura osiągnęły stan harmonii i dobrobytu.26 Estetyka ta kładzie nacisk na czystość, porządek, zaawansowaną, ale przyjazną człowiekowi technologię i monumentalną, harmonijną architekturę.  
+* **Sugerowane Prompty AI:**  
+  * basePrompt: utopian futuristic city, harmonious society, clean advanced technology, gleaming white architecture, lush green spaces, peaceful atmosphere, sense of collective well-being  
+  * negativePrompt: dystopian, chaotic, dirty, polluted, oppressive, conflict  
+  * styleKeywords: utopian, futuristic, ideal society, harmony, clean, advanced, serene  
+* **Paleta Kolorów:** Jasna, czysta i świetlista. Dominują biele, srebro, jasne błękity i zielenie. Kolory są harmonijne i często pastelowe, tworząc wrażenie spokoju i czystości.  
+* **Sztuka Linii:** Czyste, płynne i geometryczne. Linie w architekturze są często zakrzywione i organiczne, ale jednocześnie precyzyjne i uporządkowane, co symbolizuje harmonię między naturą a technologią.  
+* **Oświetlenie:** Jasne, rozproszone, niemal boskie. Brak ostrych cieni, co tworzy atmosferę otwartości, bezpieczeństwa i przejrzystości.  
+* **Renderowanie:** Gładkie, nieskazitelne powierzchnie. Materiały to często lśniący metal, inteligentne szkło i bujna, idealnie utrzymana roślinność. Detale są precyzyjne, ale nie przytłaczające.  
+* **Perspektywa:** Szerokie, panoramiczne ujęcia, które podkreślają skalę, porządek i piękno utopijnego świata. Perspektywa często sugeruje spokój i kontemplację.  
+* **Nastrój:** Spokojny, pełen nadziei, majestatyczny, pogodny. Wywołuje poczucie bezpieczeństwa, dobrobytu i wiary w pozytywny rozwój ludzkości.26  
+* **Precedensy Stylistyczne:** Prace architekta Santiago Calatravy, wizje miast przyszłości z lat 50\. i 60\. (w bardziej zaawansowanej formie), niektóre aspekty Solarpunku.
+
+#### **Dystopian Futurism (Futuryzm Dystopijny)**
+
+* **Opis:** Wizualne przedstawienie głęboko wadliwego, opresyjnego społeczeństwa przyszłości. Jest to antyteza utopii, eksplorująca scenariusze, w których rozwój technologiczny, społeczny lub ekologiczny doprowadził do katastrofy.28 Estetyka ta może przybierać różne formy: totalitarnych reżimów, postapokaliptycznych pustkowi, technologicznej dominacji lub załamania porządku społecznego.28  
+* **Sugerowane Prompty AI:**  
+  * basePrompt: dystopian futuristic landscape, oppressive atmosphere, decaying brutalist architecture, polluted sky, sense of despair and control, technological overreach, societal breakdown  
+  * negativePrompt: utopian, hopeful, clean, bright, colorful, natural, peaceful  
+  * styleKeywords: dystopian, futuristic, oppressive, desolate, post-apocalyptic, technological control  
+* **Paleta Kolorów:** Ciemna, ponura i zdesaturowana. Dominują szarości, brązy, brudne zielenie i rdzewiejące metale. Kolor, jeśli się pojawia, jest często agresywny (np. czerwień alarmów) lub symbolizuje władzę (np. barwy reżimu).28  
+* **Sztuka Linii:** Ostre, kanciaste, często brutalistyczne linie w architekturze symbolizują opresję. W krajobrazach postapokaliptycznych linie są chaotyczne i połamane, co odzwierciedla rozpad.  
+* **Oświetlenie:** Mroczne, surowe i o wysokim kontraście. Częste jest oświetlenie sztuczne, zimne, rzucające długie cienie. Naturalne światło jest często filtrowane przez smog lub chmury, tworząc permanentny zmierzch.  
+* **Renderowanie:** Nacisk na tekstury rozkładu: rdza, brud, pękający beton, śmieci. Technologia jest często przedstawiana jako zimna, obca i dehumanizująca lub jako prowizoryczna i poskładana z resztek (w scenariuszach postapokaliptycznych).  
+* **Perspektywa:** Często klaustrofobiczna, z ciasnymi kadrami, lub ukazująca jednostkę zagubioną w monumentalnej, opresyjnej przestrzeni.  
+* **Nastrój:** Przygnębiający, pełen napięcia, beznadziei i strachu. Wywołuje poczucie utraty wolności, indywidualności i człowieczeństwa.28  
+* **Precedensy Stylistyczne:** Film *Brazil*, *1984* George'a Orwella, seria *Mad Max*, gra *Half-Life 2*.
+
+#### **Retrofuturyzm**
+
+* **Opis:** Nadrzędny gatunek, który charakteryzuje się połączeniem staromodnych, "retro" stylów z futurystyczną technologią. Jest to eksploracja wizji przyszłości stworzonych w przeszłości, co tworzy napięcie między tym, co minione, a tym, co ma nadejść.30 Estetyka ta jest często nostalgiczna, ale może być też ironiczna, krytyczna lub po prostu zabawna. Obejmuje wiele omówionych wcześniej "-punków" i stylów (Steampunk, Dieselpunk, Atompunk, Cassette Futurism).17  
+* **Sugerowane Prompty AI:**  
+  * basePrompt: retrofuturism, a vision of the future from a past era, blending retro styles with futuristic technology, tension between past and future, dated vision of the future  
+  * negativePrompt: contemporary design, modern aesthetics, purely historical, purely futuristic  
+  * styleKeywords: retrofuturism, vintage futurism, nostalgia, past future, steampunk, dieselpunk, atompunk  
+* **Paleta Kolorów:** Zmienna w zależności od epoki, którą naśladuje. Może to być sepia i mosiądz Steampunku, stonowane barwy Dieselpunku, czy turkus i czerwień Atompunk. Kluczowe jest połączenie kolorystyki retro z elementami, które w tamtej epoce uważano za futurystyczne.17  
+* **Sztuka Linii:** Podobnie jak paleta, zależy od okresu źródłowego – od wiktoriańskich ornamentów po opływowe linie ery kosmicznej.  
+* **Oświetlenie:** Zazwyczaj odzwierciedla technologię oświetleniową danej epoki (lampy gazowe, żarówki Edisona, wczesne neony), ale zastosowaną do oświetlania futurystycznych scen.  
+* **Renderowanie:** Kluczowe jest połączenie tekstur. Materiały z przeszłości (drewno, skóra, bakelit) są używane do budowy zaawansowanych technologicznie urządzeń (robotów, statków kosmicznych).  
+* **Perspektywa:** Często ukazuje zderzenie starego z nowym – np. robot w garniturze z lat 20\. lub statek kosmiczny o stylistyce Art Deco.  
+* **Nastrój:** Może być bardzo różny: od radosnej, naiwnej wiary w postęp (jak w Atompunk), przez nostalgiczną tęsknotę za "prostszym" futuryzmem, po ironiczną krytykę tego, jak bardzo przeszłość myliła się co do przyszłości.17  
+* **Precedensy Stylistyczne:** Prace artystów takich jak Syd Mead, film *Sky Captain and the World of Tomorrow*, gra *BioShock*.
+
+### **Rozdział 2: Podróż przez Historię Sztuki \- Style dla Narracji z Epoki**
+
+Ten rozdział kataloguje kluczowe ruchy w historii sztuki, które są niezbędne do tworzenia wizualizacji dla książek osadzonych w konkretnych realiach historycznych. Analiza tych stylów ujawnia, że historia sztuki nie jest liniowym postępem, ale raczej dynamicznym dialogiem, w którym kolejne ruchy często powstają jako reakcja na swoich poprzedników. Obserwujemy tu cykliczne wahania między estetykami kładącymi nacisk na porządek, logikę i strukturę (np. Renesans, Klasycyzm, Kubizm) a tymi, które faworyzują emocje, intuicję i dynamizm (np. Barok, Romantyzm, Ekspresjonizm). Na przykład dramatyczny, pełen emocji i ruchu Barok, będący narzędziem kontrreformacji, ustępuje miejsca lekkiemu, intymnemu i arystokratycznemu Rokoko.31 Zrozumienie tej dialektyki pozwala na bardziej wyrafinowane wybory stylistyczne, które mogą wizualnie wzmacniać tematyczne konflikty w literaturze, wykraczając poza proste dopasowanie stylu do daty.
+
+#### **Sztuka Gotycka i Gotyk Międzynarodowy (Gothic & International Gothic)**
+
+* **Opis:** Styl dominujący w Europie w okresie średniowiecza (XII-XV w.), wywodzący się z architektury. Charakteryzuje się strzelistymi łukami, wysokimi sklepieniami, silnymi liniami wertykalnymi i misternymi, często rozetowymi, witrażami.33 W rzeźbie i malarstwie postacie są często wydłużone, stylizowane i eleganckie. Gotyk Międzynarodowy (ok. 1375-1450) to dworska, bardziej dekoracyjna odmiana stylu, cechująca się bogactwem kolorów, użyciem złota, płynnymi, zakrzywionymi liniami i dbałością o naturalistyczne detale.35  
+* **Sugerowane Prompty AI:**  
+  * basePrompt: gothic art style, medieval cathedral interior, pointed arches, vaulted ceilings, stained glass rose window, elongated figures, illuminated manuscript page, international gothic courtly scene, rich colors and gold leaf decoration  
+  * negativePrompt: modern, minimalist, realistic perspective, bright, simple  
+  * styleKeywords: gothic, medieval, international gothic, pointed arch, stained glass, illuminated manuscript, courtly  
+* **Paleta Kolorów:** Głęboka i bogata, z dominacją błękitów, czerwieni i złota, szczególnie w witrażach i manuskryptach. Gotyk Międzynarodowy używa żywych, klejnotowych barw.36  
+* **Sztuka Linii:** Dominują linie wertykalne i łuki ostre. W malarstwie i rzeźbie postacie mają płynne, esowate kontury (kontrapost gotycki), podkreślone przez fałdy szat.34  
+* **Oświetlenie:** Kluczową rolę odgrywa światło filtrowane przez witraże, tworząc mistyczną, boską atmosferę. W malarstwie oświetlenie jest często symboliczne, a nie realistyczne, z płaskimi, złotymi tłami.33  
+* **Renderowanie:** W architekturze – kamień i szkło. W malarstwie – tempera na desce, często ze złoceniami i tłoczonymi wzorami (gesso). Postacie stają się z czasem coraz bardziej naturalistyczne, z dbałością o emocje i detale.34  
+* **Perspektywa:** Początkowo płaska i hieratyczna, z czasem ewoluuje w kierunku większej głębi, choć wciąż jest nielinearna i symboliczna.  
+* **Nastrój:** Uduchowiony, wzniosły, uroczysty, ale też dekoracyjny i elegancki (szczególnie w Gotyku Międzynarodowym).  
+* **Precedensy Stylistyczne:** Katedra Notre-Dame w Paryżu, Katedra w Chartres, obrazy Giotta, braci Limbourg (*Les Très Riches Heures du Duc de Berry*).33
+
+#### **Sztuka Bizantyjska (Byzantine Art)**
+
+* **Opis:** Styl artystyczny Wschodniego Cesarstwa Rzymskiego (ok. IV-XV w.), który odszedł od klasycznego naturalizmu na rzecz bardziej abstrakcyjnej, płaskiej i symbolicznej reprezentacji.37 Sztuka ta miała przede wszystkim charakter religijny i dewocyjny. Najlepiej widoczna jest w mozaikach i ikonach.  
+* **Sugerowane Prompty AI:**  
+  * basePrompt: byzantine art style, religious icon of a saint, flat frontal figure, elongated face, large eyes, gold leaf background, mosaic, sharp contours, stylized, devotional  
+  * negativePrompt: realistic, naturalism, 3D perspective, dynamic movement, secular  
+  * styleKeywords: byzantine, icon, mosaic, gold background, orthodox, medieval, stylized  
+* **Paleta Kolorów:** Bogata i symboliczna, z dominującym użyciem złota jako tła, które symbolizuje niebiańską sferę. Inne kolory to głębokie błękity, purpury (kolor cesarski) i czerwienie.  
+* **Sztuka Linii:** Ostre, wyraźne kontury, które definiują postacie i oddzielają je od tła. Linie są kanciaste i stylizowane, a nie naturalistyczne.37  
+* **Oświetlenie:** Brak realistycznego źródła światła. Złote tło samo w sobie jest źródłem boskiego, niematerialnego blasku. Postacie są płaskie, bez cieniowania.  
+* **Renderowanie:** Najważniejsze techniki to mozaika (małe kawałki szkła lub kamienia) i malarstwo temperą na desce (ikony). Postacie są hieratyczne, wydłużone, z dużymi, uduchowionymi oczami, przedstawione frontalnie, aby nawiązać bezpośredni kontakt z widzem.38  
+* **Perspektywa:** Płaska, odwrócona lub hieratyczna – postacie ważniejsze są większe. Brak iluzji głębi typowej dla sztuki zachodniej.  
+* **Nastrój:** Uroczysty, uduchowiony, transcendentny, majestatyczny. Sztuka ma na celu inspirowanie pobożności i kontemplacji, a nie odzwierciedlanie ziemskiej rzeczywistości.37  
+* **Precedensy Stylistyczne:** Mozaiki w Hagia Sophia (Stambuł) i bazylice San Vitale (Rawenna), ikony z klasztoru św. Katarzyny na Synaju.37
+
+#### **Barok i Tenebryzm (Baroque & Tenebrism)**
+
+* **Opis:** Styl dominujący w Europie w XVII wieku, charakteryzujący się dramatyzmem, dynamizmem, bogactwem form i silnym ładunkiem emocjonalnym. Był to styl kontrreformacji, mający na celu poruszenie i olśnienie widza.31 Tenebryzm to ekstremalna forma barokowego światłocienia (chiaroscuro), w której dominują głębokie, mroczne cienie, a kluczowe elementy sceny są wydobyte ostrym, "reflektorowym" światłem, co potęguje dramatyzm.40  
+* **Sugerowane Prompty AI:**  
+  * basePrompt: baroque painting, dramatic scene, dynamic movement, intense emotions, strong contrast of light and shadow (chiaroscuro), tenebrism, spotlight effect, rich colors, ornate details  
+  * negativePrompt: calm, static, flat lighting, minimalist, pastel colors, rococo  
+  * styleKeywords: baroque, tenebrism, chiaroscuro, dramatic, emotional, dynamic, Caravaggio, Rembrandt  
+* **Paleta Kolorów:** Głęboka, bogata i nasycona. Dominują ciepłe czerwienie, brązy i złoto, skontrastowane z głęboką czernią cieni.  
+* **Sztuka Linii:** Linie są dynamiczne, często diagonalne i zakrzywione, co tworzy wrażenie ruchu i napięcia.  
+* **Oświetlenie:** Kluczowy element stylu. Silnie kontrastowe (chiaroscuro), często z jednym, silnym źródłem światła, które rzeźbi formy i tworzy głębokie cienie. W tenebryzmie ciemność staje się dominującym elementem kompozycji, a światło jest jak snop z reflektora, oświetlający tylko najważniejsze fragmenty.42  
+* **Renderowanie:** Dąży do realizmu, ale jest to realizm podkręcony emocjonalnie. Tekstury są bogate – fałdy tkanin, połysk metalu, faktura skóry. Pociągnięcia pędzla mogą być zarówno gładkie, jak i energiczne.  
+* **Perspektywa:** Często wykorzystuje skróty perspektywiczne i dynamiczne kompozycje, aby wciągnąć widza w akcję.  
+* **Nastrój:** Dramatyczny, pełen pasji, wzniosły, intensywny, a czasem brutalny. Celem jest wywołanie silnej reakcji emocjonalnej: zachwytu, litości, strachu.39  
+* **Precedensy Stylistyczne:** Caravaggio (twórca tenebryzmu), Rembrandt, Peter Paul Rubens, Artemisia Gentileschi, Gian Lorenzo Bernini (rzeźba).41
+
+#### **Rokoko (Rococo)**
+
+* **Opis:** Styl, który rozwinął się we Francji w XVIII wieku jako reakcja na ciężki, monumentalny Barok. Często opisywany jako "sfeminizowana" wersja Baroku, jest lekki, elegancki, dekoracyjny i związany z arystokratycznym życiem dworskim.32 Tematyka skupia się na miłości, rozrywce, scenach pasterskich i mitologicznych, przedstawionych w beztroski sposób.  
+* **Sugerowane Prompty AI:**  
+  * basePrompt: rococo painting, aristocratic figures in a lush garden, elegant and graceful poses, pastel color palette, feathery trees, soft light, playful and romantic mood, ornate decorative details  
+  * negativePrompt: baroque, dramatic, dark, heavy, serious, religious, tenebrism  
+  * styleKeywords: rococo, 18th century, aristocratic, elegant, pastel, playful, Watteau, Fragonard  
+* **Paleta Kolorów:** Delikatna i pastelowa. Dominują róże, błękity, jasnozielone i kremowe odcienie. Kolory są jasne, lekkie i harmonijne.32  
+* **Sztuka Linii:** Płynne, zakrzywione, asymetryczne linie i ornamenty w kształcie muszli (rocaille) i pnączy. Linie są delikatne i finezyjne.  
+* **Oświetlenie:** Miękkie, rozproszone i pogodne. Unika się ostrych kontrastów, co tworzy atmosferę beztroski i spokoju.  
+* **Renderowanie:** Delikatne, z miękkimi pociągnięciami pędzla. Tekstury są luksusowe – jedwab, satyna, koronki. Krajobrazy są idylliczne, z "pierzastymi" drzewami i bujną roślinnością.32  
+* **Perspektywa:** Sceny są często kameralne, intymne, rozgrywające się w eleganckich wnętrzach lub wyidealizowanych ogrodach.  
+* **Nastrój:** Beztroski, radosny, sentymentalny, zalotny i elegancki. Jest to sztuka przyjemności, unikająca poważnych i dramatycznych tematów.32  
+* **Precedensy Stylistyczne:** Jean-Antoine Watteau, François Boucher, Jean-Honoré Fragonard.
+
+#### **Impresjonizm (Impressionism)**
+
+* **Opis:** Rewolucyjny ruch artystyczny z drugiej połowy XIX wieku, który zerwał z akademickim realizmem. Impresjoniści skupiali się na uchwyceniu subiektywnego, ulotnego wrażenia ("impresji") chwili, a zwłaszcza na zmienności światła i atmosfery.46 Malowali sceny z codziennego życia, pejzaże i portrety, często w plenerze (  
+  *en plein air*).  
+* **Sugerowane Prompty AI:**  
+  * basePrompt: impressionist painting, outdoor scene, visible brushstrokes, focus on light and atmosphere, vibrant colors, everyday life subject, en plein air, soft edges  
+  * negativePrompt: photorealistic, sharp details, dark, studio lighting, historical subject, smooth blending  
+  * styleKeywords: impressionism, 19th century, light, atmosphere, visible brushstrokes, en plein air, Monet, Renoir  
+* **Paleta Kolorów:** Jasna i żywa. Artyści używali czystych, często niemieszanych kolorów, nakładanych małymi plamkami, aby to oko widza dokonywało ich "optycznego mieszania". Unikali czerni, używając do cieni kolorów dopełniających.46  
+* **Sztuka Linii:** Kontury są zatarte i niewyraźne. Formy są budowane za pomocą koloru i światła, a nie precyzyjnej linii. Pociągnięcia pędzla są krótkie, grube i widoczne.46  
+* **Oświetlenie:** Jest głównym tematem. Artyści starali się uchwycić, jak światło słoneczne wpływa na wygląd obiektów o różnych porach dnia i roku. Oświetlenie jest naturalne i zmienne.  
+* **Renderowanie:** Technika polega na szybkim nakładaniu farby, aby uchwycić moment. Brak jest gładkiego wykończenia (fini). Powierzchnia obrazu ma wyraźną teksturę wynikającą z grubych warstw farby.46  
+* **Perspektywa:** Często niekonwencjonalna, z nietypowymi kadrami, inspirowana fotografią i japońskimi drzeworytami.  
+* **Nastrój:** Zazwyczaj pogodny, optymistyczny, celebrujący piękno natury i przyjemności codziennego życia.  
+* **Precedensy Stylistyczne:** Claude Monet, Pierre-Auguste Renoir, Edgar Degas, Camille Pissarro.46
+
+#### **Ukiyo-e (Japoński Drzeworyt)**
+
+* **Opis:** Gatunek sztuki japońskiej z okresu Edo (XVII-XIX w.), oznaczający "obrazy przepływającego świata". Tematyka obejmowała sceny z dzielnic rozrywki, portrety pięknych kurtyzan i gejsz, aktorów teatru kabuki oraz pejzaże.48 Styl ten, realizowany głównie w technice drzeworytu, miał ogromny wpływ na sztukę europejską (Japonizm).  
+* **Sugerowane Prompty AI:**  
+  * basePrompt: ukiyo-e woodblock print, Japanese art, flat areas of color, bold black outlines, aerial perspective, beautiful geisha, kabuki actor, Mount Fuji landscape, decorative patterns  
+  * negativePrompt: photorealistic, 3D render, oil painting, dramatic shadows, western art  
+  * styleKeywords: ukiyo-e, japanese woodblock, edo period, flat color, bold outline, Hokusai, Hiroshige  
+* **Paleta Kolorów:** Subtelna i harmonijna, ale potrafi być też odważna. Kolory są nakładane jako płaskie, jednolite plamy, bez cieniowania.  
+* **Sztuka Linii:** Kluczowy element. Kontury są wyraźne, czarne i kaligraficzne, o zmiennej grubości, precyzyjnie definiujące formy.48  
+* **Oświetlenie:** Płaskie, dekoracyjne, bez realistycznego źródła światła i cieni.  
+* **Renderowanie:** Technika drzeworytu narzuca specyficzną estetykę: płaskie plamy koloru, widoczna tekstura papieru, precyzyjne detale.  
+* **Perspektywa:** Często z lotu ptaka (aerial perspective), z ukośnymi kompozycjami i asymetrycznym kadrowaniem. Brak jest zachodniej perspektywy linearnej.48  
+* **Nastrój:** Zmienny, od lirycznego i spokojnego w pejzażach, po dynamiczny i teatralny w portretach aktorów. Zawsze obecna jest elegancja i zmysł dekoracyjny.  
+* **Precedensy Stylistyczne:** Katsushika Hokusai (*Wielka fala w Kanagawie*), Utagawa Hiroshige, Kitagawa Utamaro.48
+
+#### **Fowizm (Fauvism)**
+
+* **Opis:** Pierwszy awangardowy ruch XX wieku (ok. 1905-1910), którego nazwa oznacza "dzikie bestie". Fowiści, z Henri Matisse'em na czele, używali intensywnych, nienaturalistycznych kolorów i energicznych, "dzikich" pociągnięć pędzla, aby wyrazić emocje, a nie odzwierciedlać rzeczywistość.49 Kolor został uwolniony od swojej funkcji opisowej i stał się głównym nośnikiem ekspresji.52  
+* **Sugerowane Prompty AI:**  
+  * basePrompt: fauvism painting, intense non-naturalistic colors, bold fierce brushwork, simplified forms, emotional expression, rejection of realism, colors applied directly from the tube  
+  * negativePrompt: realistic, muted colors, photorealistic, detailed, calm, traditional  
+  * styleKeywords: fauvism, fauvist, wild beasts, intense color, expressive, abstract, Matisse, Derain  
+* **Paleta Kolorów:** Niezwykle intensywna, jaskrawa i arbitralna. Drzewa mogą być czerwone, a twarze zielone. Artyści używali czystych kolorów, często prosto z tubki, i zderzali ze sobą kolory dopełniające, aby uzyskać maksymalną jaskrawość.51  
+* **Sztuka Linii:** Formy są uproszczone, a kontury często grube i wyraźne, ale linie są dynamiczne i ekspresyjne, a nie precyzyjne.  
+* **Oświetlenie:** Brak realistycznego oświetlenia. Światło i cień są tworzone za pomocą kontrastujących ze sobą plam czystego koloru.  
+* **Renderowanie:** Płaskie plamy koloru, widoczna, energiczna faktura farby. Brak dążenia do iluzji trójwymiarowości. Obrazy mają surowy, spontaniczny charakter.53  
+* **Perspektywa:** Przestrzeń jest spłaszczona, budowana za pomocą koloru, a nie tradycyjnej perspektywy linearnej.  
+* **Nastrój:** Energetyczny, radosny, gwałtowny, subiektywny. Sztuka ta ma na celu przekazanie pierwotnej, emocjonalnej reakcji artysty na świat.  
+* **Precedensy Stylistyczne:** Henri Matisse, André Derain, Maurice de Vlaminck.53
+
+#### **Kubizm (Cubism)**
+
+* **Opis:** Rewolucyjny ruch artystyczny zapoczątkowany ok. 1907 roku przez Pabla Picassa i Georgesa Braque'a. Kubizm odrzucił tradycyjną ideę sztuki jako okna na świat i zamiast tego przedstawiał obiekty w sposób zdekonstruowany, analizując je z wielu punktów widzenia jednocześnie i sprowadzając do geometrycznych form.54  
+* **Sugerowane Prompty AI:**  
+  * basePrompt: cubist painting, fragmented objects, geometric shapes, multiple viewpoints simultaneously, flattened perspective, monochromatic brown and grey palette (analytical cubism), collage elements (synthetic cubism)  
+  * negativePrompt: realistic, single perspective, smooth gradients, impressionism, emotional expression  
+  * styleKeywords: cubism, cubist, geometric, fragmented, multiple viewpoints, abstract, Picasso, Braque  
+* **Paleta Kolorów:** Wczesna faza, Kubizm Analityczny (ok. 1908-1912), używała bardzo ograniczonej, niemal monochromatycznej palety brązów, szarości i zieleni, aby skupić się na formie. Późniejszy Kubizm Syntetyczny (ok. 1912-1914) wprowadził jaśniejsze kolory i elementy kolażu.55  
+* **Sztuka Linii:** Linie są proste, geometryczne, dzielące płaszczyzny na mniejsze fragmenty. Kontury obiektów są połamane i nieciągłe.  
+* **Oświetlenie:** Niejednoznaczne i fragmentaryczne. Światło i cień są traktowane jako kolejne geometryczne płaszczyzny, a nie jako narzędzie do modelowania trójwymiarowej formy.  
+* **Renderowanie:** Obiekty są "rozbite" na części i złożone na nowo na płaskiej powierzchni płótna. W Kubizmie Syntetycznym pojawiają się tekstury z przyklejonych materiałów, takich jak gazety, tapety czy kawałki drewna.  
+* **Perspektywa:** Odrzucenie perspektywy linearnej. Zamiast tego, artyści pokazują obiekt z przodu, z boku i z góry w tym samym czasie, dążąc do bardziej "kompletnego" przedstawienia jego istoty.55  
+* **Nastrój:** Intelektualny, analityczny, zdystansowany. Kubizm jest bardziej ćwiczeniem percepcyjnym i formalnym niż wyrazem emocji.  
+* **Precedensy Stylistyczne:** Pablo Picasso (*Panny z Awinionu*), Georges Braque, Juan Gris.
+
+#### **Futuryzm Włoski (Italian Futurism)**
+
+* **Opis:** Awangardowy ruch artystyczny i społeczny z początku XX wieku, który gloryfikował dynamizm, prędkość, technologię, przemoc i młodość.56 Futuryści odrzucali przeszłość i byli zafascynowani nowoczesnym miastem, maszyną i wojną.57 W malarstwie dążyli do przedstawienia ruchu i "symultaniczności" wrażeń, często wykorzystując techniki dywizjonizmu i kubizmu.58  
+* **Sugerowane Prompty AI:**  
+  * basePrompt: italian futurism painting, dynamism, speed, movement, technology, industrial city, fragmented forms, lines of force, vibrant colors, blurred motion, simultaneity of vision  
+  * negativePrompt: static, calm, peaceful, nature, traditional, still life  
+  * styleKeywords: futurism, futurist, dynamism, speed, machine age, modern, Boccioni, Balla  
+* **Paleta Kolorów:** Żywa i dynamiczna. Używali jaskrawych, często dywizjonistycznych (punktualistycznych) kolorów, aby stworzyć wrażenie wibracji i energii.56  
+* **Sztuka Linii:** "Linie siły" (*linee di forza*) to kluczowy element – dynamiczne, diagonalne linie, które pokazują trajektorię ruchu obiektów. Formy są powtarzane i nakładane na siebie, aby stworzyć iluzję ruchu w czasie, podobnie jak w fotografii poklatkowej.56  
+* **Oświetlenie:** Światło jest traktowane jako kolejny element dynamiczny, rozbite na wibrujące plamy koloru.  
+* **Renderowanie:** Technika często łączyła kubistyczną fragmentację formy z dywizjonistycznym nakładaniem kolorów. Celem było oddanie nie tylko samego ruchu, ale też hałasu i energii nowoczesnego życia.60  
+* **Perspektywa:** Zdeformowana i dynamiczna, mająca na celu oddanie subiektywnego odczucia prędkości i chaosu.  
+* **Nastrój:** Agresywny, energiczny, optymistyczny (wobec technologii), buntowniczy i często nacjonalistyczny. Celebruje konflikt i siłę.57  
+* **Precedensy Stylistyczne:** Umberto Boccioni (*Miasto wstaje*), Giacomo Balla (*Dynamizm psa na smyczy*), Carlo Carrà, Gino Severini.58
+
+#### **Surrealizm i Dadaizm (Surrealism & Dadaism)**
+
+* **Opis:** Dadaizm (ok. 1916-1924) był anty-artystycznym ruchem, który powstał jako reakcja na absurd I wojny światowej. Odrzucał logikę i rozum, faworyzując nonsens, przypadek i ironię. Techniki obejmowały kolaż, fotomontaż i "readymades" (gotowe obiekty).61 Surrealizm (od ok. 1924\) wyrósł z Dadaizmu, ale zamiast czystej negacji, skupił się na pozytywnej eksploracji podświadomości, snów i irracjonalności, inspirowany teoriami Freuda. Sztuka surrealistyczna tworzy dziwne, oniryczne, często niepokojące obrazy, łącząc w nieoczekiwany sposób realistycznie przedstawione obiekty.1  
+* **Sugerowane Prompty AI:**  
+  * basePrompt: surrealist painting, dreamlike atmosphere, illogical scene, bizarre juxtaposition of objects, melting forms, impossible perspectives, metaphysical, subconscious imagery, Dadaist collage, nonsensical, anti-art  
+  * negativePrompt: realistic, logical, rational, mundane, common sense, traditional composition  
+  * styleKeywords: surrealism, dadaism, dreamlike, irrational, subconscious, bizarre, collage, Dalí, Magritte, Duchamp  
+* **Paleta Kolorów:** W surrealizmie często realistyczna i stonowana (np. u Magritte'a czy Dalego), co potęguje dziwność nielogicznych scen. Może też być bardziej fantazyjna i symboliczna. W dadaizmie paleta jest eklektyczna, zależna od użytych materiałów.  
+* **Sztuka Linii:** W surrealizmie werystycznym (np. Dalí) linie są precyzyjne i akademickie, co tworzy iluzję realizmu. W surrealizmie abstrakcyjnym (np. Miró) linie są organiczne i automatyczne. W dadaizmie linie są fragmentaryczne, pochodzące z kolażu i fotomontażu.  
+* **Oświetlenie:** Często teatralne i nienaturalne, podkreślające oniryczny nastrój. Cienie mogą być długie i dramatyczne, jak u de Chirico, lub płaskie i graficzne.  
+* **Renderowanie:** Technika jest bardzo zróżnicowana. Od hiperrealistycznego malarstwa olejnego po surowe kolaże, fotomontaże, asemblaże i techniki automatyczne (np. frottage, grattage).  
+* **Perspektywa:** Zdeformowana, nielogiczna, łamiąca prawa fizyki, co jest kluczowe dla stworzenia atmosfery snu.1  
+* **Nastrój:** Tajemniczy, niepokojący, oniryczny, absurdalny, wywrotowy. Ma na celu zaszokowanie widza i wytrącenie go z automatyzmów percepcji.1  
+* **Precedensy Stylistyczne:** Salvador Dalí, René Magritte, Max Ernst (Surrealizm); Marcel Duchamp, Kurt Schwitters, Hannah Höch (Dadaizm).1
+
+#### **Ekspresjonizm Abstrakcyjny (Abstract Expressionism)**
+
+* **Opis:** Pierwszy rdzennie amerykański ruch artystyczny o międzynarodowym znaczeniu, który rozkwitł po II wojnie światowej. Charakteryzuje się monumentalną skalą, naciskiem na subiektywną ekspresję emocjonalną i spontaniczny, improwizowany proces twórczy. Dzieli się na dwa główne nurty: *Action Painting* (malarstwo gestu), gdzie nacisk kładzie się na dynamiczny, fizyczny akt malowania (np. kapanie, chlapanie farbą), oraz *Color Field Painting* (malarstwo barwnych płaszczyzn), które wykorzystuje duże, jednolite pola koloru do wywołania kontemplacyjnego, niemal duchowego doświadczenia.63  
+* **Sugerowane Prompty AI:**  
+  * basePrompt: abstract expressionist painting, large scale, non-representational, (action painting: energetic gestural brushstrokes, drips and splatters, sense of motion), (color field painting: large flat areas of solid color, contemplative, atmospheric, sublime)  
+  * negativePrompt: figurative, realistic, detailed, small scale, precise, geometric  
+  * styleKeywords: abstract expressionism, action painting, color field, gestural, non-objective, Pollock, Rothko, de Kooning  
+* **Paleta Kolorów:** W *Action Painting* paleta jest często dynamiczna i kontrastowa, wynikająca z intuicyjnego nakładania kolorów. W *Color Field Painting* palety są starannie dobrane, aby stworzyć określony nastrój; kolory są często nasycone i świetliste, z miękkimi, rozmytymi krawędziami.  
+* **Sztuka Linii:** W *Action Painting* linia jest wynikiem gestu – to ślad po kapiącej farbie, energicznym pociągnięciu pędzla. Jest dynamiczna, niekontrolowana i ekspresyjna. W *Color Field Painting* linie praktycznie nie istnieją; dominują krawędzie między polami koloru.  
+* **Oświetlenie:** Wewnętrzne, pochodzące z samego koloru. Obrazy, zwłaszcza z nurtu *Color Field*, zdają się emanować własnym światłem.  
+* **Renderowanie:** Kluczowa jest tekstura i materialność farby. W *Action Painting* powierzchnia jest gęsta, warstwowa, z widocznymi śladami procesu. W *Color Field* farba jest często cienko nakładana lub wsiąka w niezagruntowane płótno, tworząc płaskie, wibrujące powierzchnie.  
+* **Perspektywa:** Brak tradycyjnej perspektywy. Przestrzeń jest płaska, a monumentalna skala ma na celu pochłonięcie widza, tworząc intymne, otaczające doświadczenie.64  
+* **Nastrój:** W *Action Painting* – pełen energii, niepokoju, gwałtowności, odzwierciedlający psychikę artysty. W *Color Field* – kontemplacyjny, medytacyjny, wzniosły, cichy.64  
+* **Precedensy Stylistyczne:** Jackson Pollock, Willem de Kooning, Franz Kline (Action Painting); Mark Rothko, Barnett Newman, Clyfford Still (Color Field).64
+
+### **Rozdział 3: Era Graficzna \- Nowoczesny Design i Ilustracja**
+
+Ten rozdział skupia się na stylach XX i XXI wieku, w których zasady projektowania graficznego, a nie tradycyjnego malarstwa, odgrywają dominującą rolę. Style te można analizować przez pryzmat trójkąta priorytetów: Formy, Funkcji i Uczucia. Niektóre ruchy, jak Bauhaus czy Międzynarodowy Styl Typograficzny, stawiają na pierwszym miejscu Funkcję – ich estetyka jest wynikiem dążenia do klarowności i użyteczności.65 Inne, jak Art Deco, faworyzują Formę, gdzie celem jest stworzenie efektownego, luksusowego stylu wizualnego.67 Jeszcze inne, jak Psychodelia czy Grunge, priorytetyzują Uczucie, poświęcając czytelność i czystość formy na rzecz wywołania określonego nastroju lub emocji.68 Zrozumienie, który z tych aspektów jest dominujący w danym stylu, pozwala na bardziej świadomy wybór estetyki, która najlepiej odda charakterystykę literackiego dzieła – czy jest to historia o racjonalnym rozwiązywaniu problemów, opowieść o stanie emocjonalnym, czy też portret epoki zdefiniowanej przez jej unikalny design.
+
+#### **Secesja (Art Nouveau)**
+
+* **Opis:** Dekoracyjny styl z przełomu XIX i XX wieku, który czerpał inspirację z form organicznych. Charakteryzuje się płynnymi, falistymi, asymetrycznymi liniami, motywami roślinnymi (kwiaty, pnącza, owady) i stylizowanymi postaciami kobiecymi. Była to próba stworzenia nowego, nowoczesnego stylu, wolnego od historycyzmu.1  
+* **Sugerowane Prompty AI:**  
+  * basePrompt: art nouveau illustration, flowing organic lines, sinuous curves, floral and botanical motifs, elegant decorative patterns, stylized female figures, ornamental borders  
+  * negativePrompt: geometric, rigid, minimalist, modern, harsh lines  
+  * styleKeywords: art nouveau, decorative, ornamental, flowing, botanical, elegant, Mucha, Klimt  
+* **Paleta Kolorów:** Zazwyczaj stonowana i wyrafinowana. Dominują odcienie zieleni, brązu, kości słoniowej, przygaszonego złota i lawendy, z okazjonalnymi, mocniejszymi akcentami.1  
+* **Sztuka Linii:** Kluczowy element stylu. Linia jest długa, płynna, dynamiczna i asymetryczna, naśladująca formy roślinne. Często nazywana "linią bicza" (whiplash line).  
+* **Oświetlenie:** Płaskie i dekoracyjne, bez dążenia do realistycznego modelunku światłocieniowego. Czasem pojawiają się akcenty imitujące złote liście.1  
+* **Renderowanie:** Graficzne i linearne. Nacisk kładziony jest na ornament i wzór. Postacie są często uproszczone, a tło wypełnione dekoracyjnymi motywami.  
+* **Perspektywa:** Spłaszczona, dekoracyjna, bez głębokiej iluzji przestrzeni.  
+* **Nastrój:** Elegancki, romantyczny, zmysłowy, wyrafinowany, nieco melancholijny. Wywołuje wrażenie piękna i harmonii z naturą.1  
+* **Precedensy Stylistyczne:** Alfons Mucha, Gustav Klimt, Aubrey Beardsley, Hector Guimard (architektura).1
+
+#### **Art Deco**
+
+* **Opis:** Styl w sztuce i designie, który dominował w latach 20\. i 30\. XX wieku. Był to styl luksusu, przepychu i wiary w postęp technologiczny. Charakteryzuje się geometryzacją, symetrią, uproszczonymi formami, opływowymi liniami i bogatą ornamentyką, często inspirowaną sztuką starożytnego Egiptu, Azteków oraz kubizmem i futuryzmem.67  
+* **Sugerowane Prompty AI:**  
+  * basePrompt: art deco style, geometric patterns, symmetrical composition, sleek lines, luxurious materials like gold and chrome, stylized figures, bold colors, glamorous, 1920s jazz age  
+  * negativePrompt: organic, flowing, art nouveau, chaotic, rustic, minimalist  
+  * styleKeywords: art deco, 1920s, geometric, symmetrical, glamorous, luxurious, streamlined  
+* **Paleta Kolorów:** Odważna i kontrastowa. Częste są głębokie czernie, złoto, srebro, połączone z żywymi, klejnotowymi barwami, takimi jak szmaragdowa zieleń, szafirowy błękit i rubinowa czerwień.70  
+* **Sztuka Linii:** Proste, czyste, geometryczne linie. Dominują zygzaki, szewrony, promienie słońca (sunburst) i schodkowe formy. Linie są precyzyjne i często symetryczne.67  
+* **Oświetlenie:** Dramatyczne i stylowe, często podkreślające lśniące powierzchnie.  
+* **Renderowanie:** Nacisk na luksusowe i nowoczesne materiały: polerowany metal (chrom, stal), szkło, lakier, egzotyczne drewno, marmur. Powierzchnie są gładkie i lśniące.70  
+* **Perspektywa:** Monumentalna i symetryczna, podkreślająca porządek i siłę.  
+* **Nastrój:** Elegancki, wytworny, optymistyczny, nowoczesny i pełen blichtru. Jest to estetyka celebrująca bogactwo i nową erę maszyn.70  
+* **Precedensy Stylistyczne:** Architektura Chrysler Building, obrazy Tamary de Lempickiej, projekty René Lalique'a.
+
+#### **Bauhaus i De Stijl**
+
+* **Opis:** Dwa powiązane ruchy z początku XX wieku, które zrewolucjonizowały design, kładąc nacisk na funkcjonalizm, prostotę i abstrakcję. Bauhaus (Niemcy, od 1919\) promował połączenie sztuki i rzemiosła, tworząc funkcjonalne, masowo produkowane obiekty o czystej, geometrycznej formie. Kładł nacisk na podstawowe kształty (koło, kwadrat, trójkąt) i materiały (stal, szkło, beton).65 De Stijl (Holandia, od 1917), znany też jako Neoplastycyzm, był jeszcze bardziej radykalny, ograniczając środki wyrazu do linii prostych (poziomych i pionowych) oraz kolorów podstawowych (czerwony, żółty, niebieski) i nie-kolorów (biały, czarny, szary).72  
+* **Sugerowane Prompty AI:**  
+  * basePrompt: bauhaus design, functionalism, clean lines, geometric shapes (circle, square, triangle), primary colors, industrial materials, sans-serif typography. De Stijl style, neoplasticism, abstract, grid of horizontal and vertical black lines, blocks of primary colors  
+  * negativePrompt: ornate, decorative, emotional, chaotic, organic, art nouveau  
+  * styleKeywords: bauhaus, de stijl, functionalism, geometric, abstract, minimalist, primary colors, Mondrian, Gropius  
+* **Paleta Kolorów:** W Bauhausie często używano kolorów podstawowych (czerwony, żółty, niebieski) w połączeniu z czernią i bielą. W De Stijl paleta była ściśle ograniczona do tych właśnie kolorów.74  
+* **Sztuka Linii:** W obu ruchach dominują linie proste i geometryczne. De Stijl radykalnie ograniczył się do siatki linii poziomych i pionowych.74  
+* **Oświetlenie:** Płaskie, graficzne, bez cieniowania.  
+* **Renderowanie:** Czyste, precyzyjne, bez zbędnych ozdób. "Forma podąża za funkcją" to kluczowa zasada. W Bauhausie widoczna jest fascynacja materiałami przemysłowymi.71  
+* **Perspektywa:** Płaska, dwuwymiarowa, oparta na asymetrycznej kompozycji w ramach siatki.  
+* **Nastrój:** Racjonalny, uporządkowany, uniwersalny, obiektywny. Dążenie do harmonii poprzez radykalną prostotę.  
+* **Precedensy Stylistyczne:** Walter Gropius, Wassily Kandinsky, Paul Klee (Bauhaus); Piet Mondrian, Theo van Doesburg, Gerrit Rietveld (De Stijl).71
+
+#### **Międzynarodowy Styl Typograficzny (Swiss Style)**
+
+* **Opis:** Wpływowy ruch w projektowaniu graficznym, który rozwinął się w Szwajcarii w latach 50\. XX wieku. Kładzie nacisk na czystość, czytelność, obiektywizm i porządek. Jego fundamentem jest użycie siatki modułowej (gridu) do organizacji treści, asymetryczne układy, typografia bezszeryfowa (zwłaszcza Helvetica) i obiektywna, dokumentalna fotografia.66  
+* **Sugerowane Prompty AI:**  
+  * basePrompt: international typographic style, swiss design, minimalist graphic design, grid-based layout, asymmetrical, clean, sans-serif typography (helvetica), objective, strong use of white space  
+  * negativePrompt: ornate, decorative, emotional, centered, serif typography, chaotic  
+  * styleKeywords: swiss style, international typographic, minimalist, grid, helvetica, objective, clean  
+* **Paleta Kolorów:** Minimalistyczna i odważna. Często ograniczona do czerni, bieli i jednego lub dwóch akcentów kolorystycznych (np. czerwieni).  
+* **Sztuka Linii:** Linie są niewidoczne, ale fundamentalne – to linie siatki, które rządzą całą kompozycją. Widoczne linie są proste i czyste.  
+* **Oświetlenie:** Płaskie, graficzne.  
+* **Renderowanie:** Czyste i precyzyjne. Brak tekstur, gradientów i ozdób. Nacisk na negatywną przestrzeń (white space) jako aktywny element kompozycji.  
+* **Perspektywa:** Płaska, dwuwymiarowa.  
+* **Nastrój:** Obiektywny, racjonalny, uporządkowany, funkcjonalny. Design ma być niewidzialnym nośnikiem informacji, a nie wyrazem osobowości projektanta.66  
+* **Precedensy Stylistyczne:** Josef Müller-Brockmann, Armin Hofmann, Ernst Keller.66
+
+#### **Pop Art**
+
+* **Opis:** Ruch artystyczny z lat 50\. i 60., który czerpał inspirację z kultury masowej, reklamy, komiksów i produktów konsumenckich. Pop Art zacierał granice między sztuką "wysoką" a "niską", wykorzystując ironię i powtórzenie do komentowania współczesnego społeczeństwa.75  
+* **Sugerowane Prompty AI:**  
+  * basePrompt: pop art, bold vibrant colors, consumer culture imagery, comic book style, ben-day dots, repetition, celebrity portrait, silkscreen print effect, playful, ironic  
+  * negativePrompt: subtle, muted colors, abstract, traditional painting, emotional, serious  
+  * styleKeywords: pop art, 1960s, consumerism, comic book, bold, vibrant, Warhol, Lichtenstein  
+* **Paleta Kolorów:** Jasna, żywa, często nienaturalistyczna i krzykliwa. Użycie odważnych, płaskich plam koloru, typowych dla druku komercyjnego.75  
+* **Sztuka Linii:** Wyraźne, czarne kontury, podobne do tych w komiksach.  
+* **Oświetlenie:** Płaskie, graficzne, bez cieniowania.  
+* **Renderowanie:** Techniki naśladujące masową produkcję: sitodruk (silkscreen), kropki Ben-Daya (symulujące tani druk). Powierzchnie są gładkie i pozbawione faktury pędzla. Kluczowym elementem jest powtarzanie tego samego obrazu w różnych wariantach kolorystycznych.76  
+* **Perspektywa:** Płaska, frontalna, bezpośrednia.  
+* **Nastrój:** Zabawny, ironiczny, zdystansowany, krytyczny, ale jednocześnie celebrujący kulturę popularną.  
+* **Precedensy Stylistyczne:** Andy Warhol, Roy Lichtenstein, Richard Hamilton.76
+
+#### **Psychodelia lat 60\. (1960s Psychedelia)**
+
+* **Opis:** Styl wizualny nierozerwalnie związany z kontrkulturą lat 60\. i doświadczeniami psychodelicznymi. Ma na celu wizualne oddanie zmienionych stanów świadomości. Charakteryzuje się surrealistycznymi, mocno zniekształconymi obrazami, intensywnymi, kontrastowymi kolorami, wirującymi, kalejdoskopowymi wzorami (np. paisley) i innowacyjną, trudną do odczytania typografią, która sama staje się obrazem.68  
+* **Sugerowane Prompty AI:**  
+  * basePrompt: 1960s psychedelic art, distorted surreal visuals, vibrant contrasting colors, kaleidoscopic and paisley patterns, melting forms, innovative warped typography, trippy, hallucinatory  
+  * negativePrompt: realistic, clear, minimalist, muted colors, legible typography, grid  
+  * styleKeywords: psychedelic, 1960s, trippy, hallucinatory, vibrant, distorted, counter-culture  
+* **Paleta Kolorów:** Niezwykle żywa, nasycona, zderzająca ze sobą jaskrawe, dopełniające się kolory, aby wywołać efekt wibracji i olśnienia.68  
+* **Sztuka Linii:** Płynne, falujące, organiczne linie, które zdają się topić i przechodzić jedna w drugą. Częste są motywy koncentrycznych okręgów i spiral.  
+* **Oświetlenie:** Nienaturalne, wibrujące, często z efektem poświaty.  
+* **Renderowanie:** Styl *horror vacui* (lęk przed pustką) – cała powierzchnia jest wypełniona szczegółowymi wzorami i detalami. Częste są kolaże i morfing obiektów. Typografia jest integralną częścią obrazu, litery są rozciągnięte, zdeformowane i wypełnione wzorami.68  
+* **Perspektywa:** Zniekształcona, płynna, pozbawiona logiki.  
+* **Nastrój:** Euforyczny, mistyczny, chaotyczny, surrealistyczny. Ma na celu odzwierciedlenie doświadczenia psychodelicznego – poszerzenia percepcji i przekroczenia granic rzeczywistości.  
+* **Precedensy Stylistyczne:** Plakaty koncertowe z Fillmore (autorstwa np. Victora Moscoso, Ricka Griffina), komiksy undergroundowe (Robert Crumb), animacja *Yellow Submarine*.
+
+#### **Memphis Design**
+
+* **Opis:** Postmodernistyczny ruch w designie z lat 80., założony przez włoską grupę Memphis pod wodzą Ettore Sottsassa. Był to radykalny bunt przeciwko minimalizmowi i "dobremu smakowi" modernizmu. Styl Memphis charakteryzuje się odważnymi, często kiczowatymi kolorami, zabawnymi geometrycznymi kształtami (koła, trójkąty, zygzaki, "robaki"), asymetrią i użyciem niekonwencjonalnych, tanich materiałów, takich jak plastikowy laminat i lastryko.77  
+* **Sugerowane Prompty AI:**  
+  * basePrompt: memphis design style, 1980s postmodern, bold clashing colors, playful geometric shapes, squiggles and zigzags, asymmetrical, plastic laminate and terrazzo textures, kitsch  
+  * negativePrompt: minimalist, modernism, serious, elegant, natural materials, symmetrical  
+  * styleKeywords: memphis design, 1980s, postmodern, playful, geometric, colorful, kitsch, Sottsass  
+* **Paleta Kolorów:** Jaskrawa, odważna i celowo zderzająca ze sobą kolory, które tradycyjnie do siebie nie pasują. Połączenia kolorów podstawowych, pasteli i neonów.79  
+* **Sztuka Linii:** Proste, geometryczne linie tworzące podstawowe kształty, ale także charakterystyczne, nieregularne, faliste linie, zwane "bacterio print" lub "squiggles".  
+* **Oświetlenie:** Płaskie, graficzne.  
+* **Renderowanie:** Nacisk na sztuczne, masowo produkowane materiały. Powierzchnie są gładkie, często pokryte wzorzystym laminatem. Brak jest naturalnych tekstur.77  
+* **Perspektywa:** Płaska, dwuwymiarowa, z warstwowo nakładanymi na siebie kształtami.  
+* **Nastrój:** Zabawny, energetyczny, ironiczny, buntowniczy i optymistyczny. Design ma być źródłem radości i zaskoczenia, a nie tylko funkcjonalnym obiektem.78  
+* **Precedensy Stylistyczne:** Prace Ettore Sottsassa, Nathalie Du Pasquier, Michele De Lucchi.
+
+#### **Grunge lat 90\. (1990s Grunge)**
+
+* **Opis:** Estetyka wizualna, która wyrosła z sceny muzycznej grunge w Seattle na początku lat 90\. Jest to styl surowy, buntowniczy i anty-komercyjny, odzwierciedlający poczucie rozczarowania i apatii pokolenia X. Wizualnie charakteryzuje się estetyką "zrób to sam" (DIY), zniszczonymi teksturami, warstwowymi, chaotycznymi kompozycjami, nieregularną, często odręczną typografią i stonowaną, mroczną paletą kolorów.69  
+* **Sugerowane Prompty AI:**  
+  * basePrompt: 90s grunge graphic design, distressed textures, torn paper, scratches and stains, layered images, chaotic composition, irregular handwritten typography, muted and dark color palette, DIY aesthetic  
+  * negativePrompt: clean, polished, corporate, minimalist, elegant, bright colors, symmetrical  
+  * styleKeywords: grunge, 90s, distressed, chaotic, DIY, raw, anti-design, David Carson  
+* **Paleta Kolorów:** Zazwyczaj stonowana, ciemna i zdesaturowana. Dominują brudne brązy, szarości, zgniłe zielenie i czerń, czasem z akcentami brudnej czerwieni lub pomarańczu.69  
+* **Sztuka Linii:** Nierówne, poszarpane, "brudne" linie. Częste są elementy odręczne, plamy i zacieki.  
+* **Oświetlenie:** Mroczne, o niskim kontraście.  
+* **Renderowanie:** Kluczowe są tekstury: zniszczony papier, porysowane powierzchnie, plamy, taśma klejąca, ślady kserokopiarki. Obrazy i tekst są nakładane na siebie w wielu warstwach, często w sposób, który utrudnia czytelność. Typografia jest dekonstruowana, litery są połamane, rozmazane i nieregularne.80  
+* **Perspektywa:** Płaska, chaotyczna, kolażowa.  
+* **Nastrój:** Surowy, autentyczny, buntowniczy, pełen niepokoju, apatyczny. Odrzuca perfekcję i komercyjny blichtr na rzecz niedoskonałej, osobistej ekspresji.69  
+* **Precedensy Stylistyczne:** Projekty graficzne Davida Carsona dla magazynu *Ray Gun*, okładki płyt Nirvany, Pearl Jam, Soundgarden, estetyka Art Chantry'ego.80
+
+#### **Vaporwave**
+
+* **Opis:** Mikro-gatunek muzyczny i estetyka wizualna, która narodziła się w internecie na początku lat 2010\. Charakteryzuje się nostalgicznym i surrealistycznym podejściem do estetyki lat 80\. i 90., w szczególności do wczesnej grafiki komputerowej, kultury korporacyjnej i konsumpcjonizmu.81 Wizualnie to kolaż antycznych rzeźb, palm, starych interfejsów (np. Windows 95), japońskich znaków, siatek perspektywicznych i glitch artu, wszystko skąpane w pastelowych, neonowych gradientach.83  
+* **Sugerowane Prompty AI:**  
+  * basePrompt: vaporwave aesthetic, 80s and 90s nostalgia, surreal collage, roman sculptures, palm trees, retro computer UI, glitch art, neon grids, pastel pink and cyan gradients, VHS filter  
+  * negativePrompt: modern, clean, minimalist, realistic, dark, grunge  
+  * styleKeywords: vaporwave, aesthetic, retro, 90s, surreal, nostalgic, glitch, pastel  
+* **Paleta Kolorów:** Natychmiast rozpoznawalna. Dominują pastelowe gradienty różu, błękitu i fioletu. Częste są też nasycone neony i chromowane efekty.83  
+* **Sztuka Linii:** Linie są często cyfrowe – ostre, pikselowe lub w formie neonowych siatek perspektywicznych.  
+* **Oświetlenie:** Miękkie, rozproszone, często pochodzące od neonowych elementów, tworzące senną, cyfrową poświatę.  
+* **Renderowanie:** Estetyka "lo-fi". Obrazy są celowo niskiej jakości, z widocznymi artefaktami kompresji, szumem, liniami skanowania typowymi dla kaset VHS i efektem "glitch" (cyfrowego błędu).82  
+* **Perspektywa:** Płaska, kolażowa, często umieszczona w iluzorycznej, trójwymiarowej przestrzeni zdefiniowanej przez siatkę.  
+* **Nastrój:** Surrealistyczny, ironiczny, melancholijny, nostalgiczny. Często interpretowany jako krytyka lub satyra na konsumpcjonizm i pustkę późnego kapitalizmu.  
+* **Precedensy Stylistyczne:** Estetyka wczesnego internetu, reklamy z lat 80\. i 90., muzyka artystów takich jak Macintosh Plus.
+
+#### **Low Poly**
+
+* **Opis:** Styl grafiki 3D, który wykorzystuje celowo małą liczbę wielokątów (poligonów) do tworzenia obiektów. Wywodzi się z wczesnych gier wideo, gdzie ograniczenia sprzętowe wymuszały taką prostotę, ale obecnie jest świadomym wyborem estetycznym.84 Charakteryzuje się kanciastym, fasetowanym, geometrycznym wyglądem, który jest jednocześnie minimalistyczny i wyrazisty.86  
+* **Sugerowane Prompty AI:**  
+  * basePrompt: low poly 3D model, minimalist, faceted surfaces, angular geometric shapes, crystalline appearance, vibrant colors, gradient shading, stylized representation  
+  * negativePrompt: photorealistic, high poly, smooth surfaces, detailed textures, rounded edges  
+  * styleKeywords: low poly, 3D, minimalist, geometric, faceted, angular, retro game  
+* **Paleta Kolorów:** Często jasna, żywa i nasycona. Popularne jest użycie gradientów i płaskiego cieniowania (flat shading), które podkreślają poszczególne wielokąty, tworząc mozaikowy efekt.84  
+* **Sztuka Linii:** Linie to krawędzie wielokątów, które są ostre i wyraźnie widoczne. Brak jest zaokrągleń i gładkich przejść.  
+* **Oświetlenie:** Zazwyczaj proste, podkreślające płaskie powierzchnie faset. Cienie są ostre i geometryczne.  
+* **Renderowanie:** Obiekty są uproszczone do swojej geometrycznej esencji. Brak jest skomplikowanych tekstur – kolor i forma są najważniejsze. Powierzchnia ma charakterystyczny, "krystaliczny" wygląd.87  
+* **Perspektywa:** Trójwymiarowa, ale stylizowana.  
+* **Nastrój:** Nowoczesny, cyfrowy, czysty, minimalistyczny. Może być zarówno zabawny i kreskówkowy, jak i elegancki i abstrakcyjny. Wywołuje nostalgię za wczesną erą grafiki 3D.85  
+* **Precedensy Stylistyczne:** Gry z konsol Nintendo 64 i PlayStation 1, prace współczesnych artystów cyfrowych.
+
+#### **Minimalizm kontra Maksymalizm (Minimalism vs. Maximalism)**
+
+* **Opis:** Dwie przeciwstawne filozofie w designie. Minimalizm, wywodzący się ze sztuki lat 60., dąży do redukcji formy do absolutnego minimum. Charakteryzuje się prostymi, geometrycznymi kształtami, neutralną paletą kolorów, dużą ilością pustej przestrzeni i brakiem ornamentu. Hasło przewodnie to "mniej znaczy więcej".88 Maksymalizm to jego lustrzane odbicie. Jest to styl eklektyczny, odważny i pełen przepychu. Charakteryzuje się warstwowością, bogactwem wzorów, żywymi kolorami, mieszaniem stylów i eksponowaniem kolekcji i osobistych przedmiotów. Hasło przewodnie to "więcej znaczy więcej".90  
+* **Sugerowane Prompty AI:**  
+  * minimalismPrompt: minimalist design, simple geometric shapes, neutral color palette, lots of white space, clean lines, uncluttered, essential forms only  
+  * maximalismPrompt: maximalist design, layered patterns and textures, bold vibrant colors, eclectic mix of objects, curated chaos, more is more, opulent, decorative  
+  * negativePrompt (for Minimalism): maximalist, cluttered, ornate, colorful, chaotic  
+  * negativePrompt (for Maximalism): minimalist, simple, neutral, empty, uncluttered  
+  * styleKeywords: minimalism, maximalism, simple, clean, layered, eclectic, bold, vibrant  
+* **Paleta Kolorów:** Minimalizm: monochromatyczna lub neutralna (biel, czerń, szarości, beże). Maksymalizm: bogata, nasycona, odważnie łącząca wiele kolorów i wzorów.90  
+* **Sztuka Linii:** Minimalizm: czyste, proste, geometryczne linie. Maksymalizm: mieszanka różnych linii i form, od geometrycznych po organiczne.  
+* **Oświetlenie:** Minimalizm: proste, naturalne, podkreślające przestrzeń. Maksymalizm: warstwowe, często z wieloma źródłami światła (lampy, kinkiety, świece), tworzące bogatą atmosferę.  
+* **Renderowanie:** Minimalizm: gładkie, jednolite powierzchnie, często z materiałów przemysłowych.89 Maksymalizm: bogactwo tekstur – aksamit, jedwab, drewno, metal, wzorzyste tkaniny.90  
+* **Perspektywa:** Minimalizm: uporządkowana, przestronna. Maksymalizm: gęsta, wypełniona, ale często zorganizowana wokół centralnych punktów.  
+* **Nastrój:** Minimalizm: spokojny, uporządkowany, medytacyjny, racjonalny.88 Maksymalizm: radosny, energetyczny, osobisty, odważny, czasem chaotyczny.90  
+* **Precedensy Stylistyczne:** Donald Judd, Agnes Martin (Minimalizm); Tony Duquette, Dorothy Draper (Maksymalizm w designie wnętrz).
+
+### **Rozdział 4: Świat Techniki \- Style Zdefiniowane przez Rzemiosło i Kulturę**
+
+Ten rozdział bada style, w których to nie epoka historyczna czy filozofia designu, ale sam materiał i technika wykonania dyktują ostateczną estetykę. Analiza tych stylów pokazuje, że medium posiada własną "gramatykę" – zbiór zasad i ograniczeń, które fundamentalnie kształtują wygląd dzieła. Artysta tworzący witraż nie ma swobody malarza; musi operować dyskretnymi kawałkami szkła połączonymi ołowianymi ramkami, co w naturalny sposób prowadzi do stylu opartego na mocnym konturze i płaskich plamach koloru.91 Podobnie, twórca mozaiki, pracując z małymi tesserami, tworzy obraz o charakterystycznej, "pikselowej" teksturze.93 Zrozumienie tej materialnej logiki jest kluczowe dla autentycznego odtworzenia tych stylów w medium cyfrowym. Zamiast prosić o "obraz w stylu witrażu", skuteczniejszy prompt będzie zawierał elementy tej gramatyki, takie jak  
+grube czarne ołowiane kontury, płaskie tafle kolorowego szkła, światło przeświecające od tyłu, co pozwala sztucznej inteligencji symulować nie tylko temat, ale i fizyczny proces tworzenia.
+
+#### **Fresk (Fresco Painting)**
+
+* **Opis:** Technika malarstwa ściennego polegająca na malowaniu pigmentami na bazie wody na świeżo położonym, mokrym tynku wapiennym. W miarę wysychania tynku, pigment staje się integralną częścią ściany, co zapewnia niezwykłą trwałość.95 Styl ten kojarzony jest głównie z włoskim renesansem.  
+* **Sugerowane Prompty AI:**  
+  * basePrompt: fresco painting, italian renaissance mural, painted on wet plaster, matte finish, vibrant but earthy colors, visible giornata seams, monumental scale  
+  * negativePrompt: oil painting, glossy, canvas texture, small scale, digital art  
+  * styleKeywords: fresco, mural, renaissance, plaster, matte, Giotto, Michelangelo  
+* **Paleta Kolorów:** Zazwyczaj żywa, ale zdominowana przez pigmenty ziemne, które dobrze reagowały z wapiennym tynkiem. Kolory mają charakterystyczny, matowy i nieco kredowy wygląd.  
+* **Sztuka Linii:** Linie są często płynne i pewne, ponieważ technika wymaga szybkiej i zdecydowanej pracy. Błędy są trudne do poprawienia.97  
+* **Oświetlenie:** Realistyczne, z modelunkiem światłocieniowym, typowym dla renesansu, mającym na celu stworzenie iluzji trójwymiarowości.  
+* **Renderowanie:** Charakterystyczne matowe wykończenie. Z bliska można czasem dostrzec subtelne łączenia między "giornate" – fragmentami tynku nałożonymi i pomalowanymi w ciągu jednego dnia.97 Powierzchnia ma lekką, chropowatą teksturę tynku.  
+* **Perspektywa:** Zazwyczaj wykorzystuje zasady perspektywy linearnej, rozwinięte w renesansie, do stworzenia iluzji głębi na płaskiej ścianie.  
+* **Nastrój:** Monumentalny, narracyjny, często religijny lub historyczny.  
+* **Precedensy Stylistyczne:** Giotto (kaplica Scrovegnich), Masaccio (kaplica Brancaccich), Rafael (Stanzy Watykańskie), Michał Anioł (kaplica Sykstyńska).97
+
+#### **Witraż (Stained Glass)**
+
+* **Opis:** Sztuka tworzenia obrazów z kawałków kolorowego szkła, łączonych za pomocą ołowianych ramek (cames) i często wzmacnianych żelazną ramą.91 Jest to sztuka nierozerwalnie związana z architekturą, której celem jest nie tyle przedstawienie świata, co transformacja światła.92 Szczyt popularności osiągnęła w gotyckich katedrach.  
+* **Sugerowane Prompty AI:**  
+  * basePrompt: stained glass window, gothic cathedral style, vibrant colored glass panes, bold black lead cames, light shining through, religious narrative scene, rose window  
+  * negativePrompt: painting, realistic, no outlines, smooth gradients, opaque  
+  * styleKeywords: stained glass, gothic, leaded glass, vibrant color, light, cathedral  
+* **Paleta Kolorów:** Głęboka, nasycona i świetlista. Dominują klejnotowe barwy: rubinowa czerwień, szafirowy błękit, szmaragdowa zieleń. Kolor jest generowany przez światło przechodzące przez szkło, co nadaje mu unikalną intensywność.91  
+* **Sztuka Linii:** Grube, czarne linie ołowianych ramek są dominującym elementem graficznym. Działają jak mocny kontur, oddzielając od siebie poszczególne pola koloru.  
+* **Oświetlenie:** Jest istotą tej techniki. Obraz "żyje" dzięki światłu, zmieniając się w zależności od pory dnia i warunków atmosferycznych.92  
+* **Renderowanie:** Płaskie, jednolite pola koloru. Detale, takie jak rysy twarzy czy fałdy szat, były często malowane na szkle czarną farbą (emalią), a następnie wypalane.91  
+* **Perspektywa:** Płaska, dwuwymiarowa, dekoracyjna. Kompozycja jest podporządkowana architektonicznej ramie okna.  
+* **Nastrój:** Mistyczny, uduchowiony, wzniosły. Ma na celu stworzenie wewnątrz świątyni nieziemskiej atmosfery.  
+* **Precedensy Stylistyczne:** Witraże z katedry w Chartres, Sainte-Chapelle w Paryżu, prace Louisa Comforta Tiffany'ego (w stylu secesyjnym).100
+
+#### **Mozaika (Mosaic Art)**
+
+* **Opis:** Technika dekoracyjna polegająca na tworzeniu obrazów lub wzorów poprzez układanie małych, kolorowych kawałków materiału (tesserae), takich jak kamień, szkło, ceramika czy muszle, na powierzchni pokrytej zaprawą.93 Jest to jedna z najtrwalszych form sztuki, znana od starożytności (Grecja, Rzym) i udoskonalona w Bizancjum.  
+* **Sugerowane Prompty AI:**  
+  * basePrompt: mosaic art, made of small square tesserae, visible grout lines, stone and glass texture, roman or byzantine style, geometric patterns or figurative scene  
+  * negativePrompt: painting, smooth surface, continuous lines, photorealistic  
+  * styleKeywords: mosaic, tesserae, grout, roman, byzantine, textured, pixelated  
+* **Paleta Kolorów:** Zależna od dostępnych materiałów. Rzymskie mozaiki podłogowe często używały ograniczonej palety kamieni naturalnych. Bizantyjskie mozaiki ścienne wykorzystywały błyszczące, szklane tessery, często ze złotem, co dawało niezwykle bogaty efekt kolorystyczny.101  
+* **Sztuka Linii:** Linie są tworzone przez układanie tesser w rzędy. W zależności od techniki, mogą być płynne i dynamiczne (*opus vermiculatum*) lub bardziej regularne i siatkowe (*opus tessellatum*).93 Widoczne linie fugi (grout) są integralną częścią estetyki.  
+* **Oświetlenie:** Powierzchnia mozaiki, zwłaszcza wykonanej z nieregularnych, szklanych tesser, odbija światło w unikalny, migotliwy sposób, tworząc żywą, wibrującą powierzchnię.101  
+* **Renderowanie:** Charakterystyczna, "pikselowa" tekstura. Obraz jest zbudowany z dyskretnych punktów koloru. Technika ta narzuca pewien stopień uproszczenia i stylizacji formy.102  
+* **Perspektywa:** Zazwyczaj płaska, chociaż rzymscy artyści potrafili osiągnąć iluzję głębi.  
+* **Nastrój:** Monumentalny, dekoracyjny, trwały. W Bizancjum – uduchowiony i olśniewający.  
+* **Precedensy Stylistyczne:** Mozaiki z Pompei, bazyliki San Vitale w Rawennie, prace Antoniego Gaudiego (technika *trencadís*).102
+
+#### **Gobelin (Tapestry Weaving)**
+
+* **Opis:** Forma sztuki tekstylnej, w której obraz jest tworzony przez tkanie, a nie malowanie czy haftowanie. Jest to technika splotu płóciennego, w której nici wątku całkowicie zakrywają nici osnowy, tworząc obraz.104 Gobeliny były w średniowieczu i renesansie luksusowymi, monumentalnymi dekoracjami ścian, pełniącymi funkcje estetyczne, narracyjne i izolacyjne. Nazywano je "przenośnymi freskami".  
+* **Sugerowane Prompty AI:**  
+  * basePrompt: tapestry weaving, woven textile art, rich texture of wool and silk, narrative scene, medieval or renaissance style, flat perspective, decorative border, millefleur pattern  
+  * negativePrompt: painting, smooth surface, photorealistic, 3D, glossy  
+  * styleKeywords: tapestry, weaving, textile art, medieval, renaissance, narrative, textured  
+* **Paleta Kolorów:** Bogata, ale ograniczona przez dostępne barwniki. Kolory są nakładane w blokach, a przejścia tonalne osiągane są przez przeplatanie nici o różnych odcieniach.  
+* **Sztuka Linii:** Linie są z natury rzeczy "schodkowe" lub ząbkowane, ze względu na siatkową strukturę splotu. Pionowe linie między blokami kolorów mogą tworzyć charakterystyczne, małe szczeliny (slits).105  
+* **Oświetlenie:** Płaskie, bez iluzji światłocienia.  
+* **Renderowanie:** Wyraźna, bogata tekstura tkaniny. Obraz jest z natury spłaszczony i graficzny. Często występują dekoracyjne bordiury i powtarzalne wzory, jak *millefleur* ("tysiąc kwiatów") – tło usiane małymi kwiatami i roślinami.104  
+* **Perspektywa:** Płaska, bez głębi. Postacie i obiekty są często rozmieszczone wertykalnie, jedna nad drugą, zamiast w głąb przestrzeni.  
+* **Nastrój:** Narracyjny, dekoracyjny, majestatyczny. Opowiada historie biblijne, mitologiczne, historyczne lub sceny z życia dworskiego.  
+* **Precedensy Stylistyczne:** Tkanina z Bayeux (technicznie haft, ale o podobnej estetyce), seria *Dama z jednorożcem*, seria *Polowanie na jednorożca*.104
+
+#### **Sztuka Celtycka (Styl Wyspiarski) (Celtic Art / Insular Style)**
+
+* **Opis:** Sztuka wczesnośredniowiecznych Wysp Brytyjskich (ok. VI-IX w.), która łączyła tradycje celtyckie z wpływami anglosaskimi i chrześcijańskimi. Unika prostych linii i symetrii, faworyzując skomplikowaną, dynamiczną ornamentykę.106 Charakteryzuje się misternymi wzorami zaplecionych węzłów (interlace), spiralami, triskelionami i stylizowanymi, zoomorficznymi formami.107  
+* **Sugerowane Prompty AI:**  
+  * basePrompt: celtic insular art, illuminated manuscript page, intricate knotwork patterns, interlace, spirals and triskeles, stylized zoomorphic forms, carpet page, high cross carving  
+  * negativePrompt: realistic, simple, minimalist, straight lines, photorealistic  
+  * styleKeywords: celtic, insular art, knotwork, interlace, spiral, medieval, Book of Kells  
+* **Paleta Kolorów:** Żywa i bogata, szczególnie w iluminowanych manuskryptach, z użyciem drogich pigmentów.  
+* **Sztuka Linii:** Niezwykle złożona i precyzyjna. Linie tworzą niekończące się, zapętlone wzory, które wypełniają całą dostępną przestrzeń (*horror vacui*).  
+* **Oświetlenie:** Płaskie, dekoracyjne.  
+* **Renderowanie:** W manuskryptach – precyzyjne malarstwo i kaligrafia. W metaloplastyce i rzeźbie kamiennej – relief. Postacie ludzkie są mocno stylizowane, podporządkowane ornamentowi.106 Charakterystyczne są "strony dywanowe" (  
+  *carpet pages*) w manuskryptach – całe strony wypełnione abstrakcyjnym ornamentem.106  
+* **Perspektywa:** Płaska, dwuwymiarowa.  
+* **Nastrój:** Energetyczny, mistyczny, kontemplacyjny. Złożoność wzorów często jest interpretowana jako medytacja nad nieskończonością i boskim porządkiem.  
+* **Precedensy Stylistyczne:** Księga z Kells, Ewangeliarz z Lindisfarne, kamienne Wysokie Krzyże w Irlandii.106
+
+#### **Islamskie Wzory Geometryczne (Islamic Geometric Patterns)**
+
+* **Opis:** Charakterystyczna forma dekoracji w sztuce islamskiej, oparta na złożonych, powtarzalnych wzorach geometrycznych. Wzory te, często budowane na bazie siatki z kwadratów i okręgów, mogą być rozszerzane w nieskończoność, co symbolizuje transcendentną i nieskończoną naturę Boga.108 Ze względu na anikonizm (unikanie przedstawień istot żywych) w kontekstach religijnych, geometria, kaligrafia i arabeska stały się głównymi formami wyrazu artystycznego.  
+* **Sugerowane Prompty AI:**  
+  * basePrompt: islamic geometric pattern, intricate tessellation, star and polygon patterns, repetition and symmetry, illusion of infinity, arabesque, zellij tilework  
+  * negativePrompt: figurative, portrait, realistic, chaotic, asymmetrical  
+  * styleKeywords: islamic pattern, geometric, tessellation, symmetry, arabesque, ornamental  
+* **Paleta Kolorów:** Zmienna w zależności od medium. W ceramice i kafelkach (zellij) często żywa, z dominacją błękitów, turkusów, zieleni i bieli. W architekturze może być bardziej stonowana.  
+* **Sztuka Linii:** Precyzyjne, matematyczne linie tworzące złożone siatki gwiazd, wielokątów i przeplatających się form.  
+* **Oświetlenie:** Płaskie, graficzne.  
+* **Renderowanie:** Występuje w wielu mediach: rzeźbionym stiuku, kafelkach ceramicznych, drewnie, metalu, kamieniu. Kluczowe jest wrażenie precyzji, porządku i nieskończonej złożoności.108  
+* **Perspektywa:** Płaska, dwuwymiarowa.109  
+* **Nastrój:** Kontemplacyjny, medytacyjny, uporządkowany, transcendentny. Wywołuje poczucie harmonii i boskiego porządku.  
+* **Precedensy Stylistyczne:** Dekoracje w pałacu Alhambra (Hiszpania), meczetach w Isfahanie (Iran) i Samarkandzie (Uzbekistan).
+
+#### **Aborygeńskie Malarstwo Kropkowe (Aboriginal Dot Painting)**
+
+* **Opis:** Współczesna forma sztuki rdzennych Australijczyków, która wyewoluowała z tradycyjnych, efemerycznych form, takich jak malowidła na piasku i ciele. Sztuka ta wykorzystuje bogaty system symboli do opowiadania historii z Czasu Snu (Dreamtime) – mitologicznego okresu stworzenia świata.110 Charakterystyczne kropki, oprócz walorów estetycznych, pierwotnie służyły do ukrywania świętych znaczeń przed niewtajemniczonymi.111  
+* **Sugerowane Prompty AI:**  
+  * basePrompt: australian aboriginal dot painting, dreamtime story, symbolic art, concentric circles, animal tracks, u-shapes, earthy colors, pointillism technique  
+  * negativePrompt: photorealistic, european art, figurative, clean lines  
+  * styleKeywords: aboriginal art, dot painting, dreamtime, symbolic, pointillism, indigenous australian  
+* **Paleta Kolorów:** Tradycyjnie oparta na pigmentach ziemnych: odcieniach ochry (czerwony, żółty, brązowy), bieli (kaolin) i czerni (węgiel drzewny). Współczesne malarstwo na płótnie wykorzystuje również żywe, akrylowe kolory.  
+* **Sztuka Linii:** Linie są tworzone przez ciągi kropek. Kluczowe symbole to koncentryczne okręgi (miejsca spotkań, wodopoje), kształty litery "U" (siedzący ludzie) oraz stylizowane ślady zwierząt (np. kangurów, emu).110  
+* **Oświetlenie:** Płaskie.  
+* **Renderowanie:** Obraz jest zbudowany z tysięcy kropek o różnej wielkości i gęstości, co tworzy wibrującą, teksturowaną powierzchnię.  
+* **Perspektywa:** Zazwyczaj z lotu ptaka, przypominająca mapę symboliczną, na której zaznaczone są ważne miejsca i trasy wędrówek przodków.  
+* **Nastrój:** Duchowy, narracyjny, połączony z ziemią. Każdy obraz to opowieść, mapa i zapis wiedzy kulturowej.  
+* **Precedensy Stylistyczne:** Prace artystów z Papunya Tula, Clifford Possum Tjapaltjarri, Emily Kame Kngwarreye.
+
+#### **Art Brut (Sztuka Surowa / Outsider Art)**
+
+* **Opis:** Termin stworzony przez francuskiego artystę Jeana Dubuffeta na określenie sztuki tworzonej poza oficjalnymi ramami kultury – przez pacjentów szpitali psychiatrycznych, dzieci, osoby samouczące się.112 Jest to sztuka surowa, spontaniczna, instynktowna, wolna od akademickich konwencji i dążenia do naśladowania rzeczywistości. Sam Dubuffet naśladował tę estetykę w swojej twórczości, używając niekonwencjonalnych materiałów i tworząc prymitywne, "dziecięce" formy.113  
+* **Sugerowane Prompty AI:**  
+  * basePrompt: art brut, outsider art, raw spontaneous expression, childlike drawing, unconventional materials, thick impasto, scratched and scribbled marks, anti-cultural, primitive  
+  * negativePrompt: academic art, polished, realistic, elegant, clean, professional  
+  * styleKeywords: art brut, outsider art, raw, primitive, spontaneous, childlike, Jean Dubuffet  
+* **Paleta Kolorów:** Często odważna, instynktowna, niekiedy jaskrawa i dysonansowa. Dubuffet używał zarówno kolorów ziemi, jak i żywych barw.113  
+* **Sztuka Linii:** Surowa, ekspresyjna, często przypominająca dziecięce rysunki lub graffiti. Linie są wydrapywane, kreślone, a nie precyzyjnie rysowane.112  
+* **Oświetlenie:** Płaskie, bez znaczenia dla kompozycji.  
+* **Renderowanie:** Kluczowe jest użycie nieortodoksyjnych materiałów. Dubuffet mieszał farbę z piaskiem, smołą, żwirem, tworząc gęstą, reliefową pastę (*haute pâte*), w której następnie żłobił i drapał. Powierzchnia jest niezwykle materialna i teksturowana.113  
+* **Perspektywa:** Płaska, intuicyjna, ignorująca zasady perspektywy.  
+* **Nastrój:** Surowy, autentyczny, intensywny, czasem niepokojący. Wyraża pierwotną potrzebę tworzenia, wolną od kulturowych ograniczeń.114  
+* **Precedensy Stylistyczne:** Jean Dubuffet, Adolf Wölfli, Madge Gill, Henry Darger.112
+
+#### **Art Informel (Sztuka Bezforemna)**
+
+* **Opis:** Szeroki termin określający dominujące tendencje w europejskiej abstrakcji po II wojnie światowej, będący odpowiednikiem amerykańskiego ekspresjonizmu abstrakcyjnego.116 Była to reakcja na traumę wojny i odrzucenie przedwojennego porządku, w tym geometrycznej abstrakcji. Art Informel kładzie nacisk na improwizację, spontaniczność, gest malarski i subiektywną ekspresję. Artyści pozwalali, by proces twórczy i właściwości materiału kształtowały dzieło, a nie z góry założony plan.118 Obejmuje nurty takie jak Taszyzm (od  
+  *tache* \- plama) i malarstwo materii.  
+* **Sugerowane Prompty AI:**  
+  * basePrompt: art informel painting, european abstract expressionism, gestural abstraction, improvisatory, tachisme, paint splatters and drips, matter painting, thick impasto with sand and tar, focus on texture and material  
+  * negativePrompt: geometric abstraction, figurative, clean, controlled, planned composition  
+  * styleKeywords: art informel, tachisme, matter painting, gestural, abstract, european, Fautrier, Wols  
+* **Paleta Kolorów:** Często mroczna i ziemista, odzwierciedlająca powojenny nastrój. Artyści tacy jak Jean Fautrier używali stonowanych, cielesnych kolorów. Mogą jednak pojawić się też gwałtowne, ekspresyjne akcenty kolorystyczne.  
+* **Sztuka Linii:** Linie są wynikiem gestu – to ślady pędzla, zacieki, plamy, zadrap
+
+#### **Cytowane prace**
+
+1. styles.txt  
+2. What is Cyberpunk Art? Exploring the Dark, Futuristic Vision \- cyber techwear, otwierano: sierpnia 1, 2025, [https://cyber-techwear.com/blogs/techwear-blog/what-is-cyberpunk-art](https://cyber-techwear.com/blogs/techwear-blog/what-is-cyberpunk-art)  
+3. Fantasy Sub-Genre Guide \- Dieselpunk Fantasy \- Wattpad, otwierano: sierpnia 1, 2025, [https://www.wattpad.com/945701993-fantasy-sub-genre-guide-dieselpunk-fantasy](https://www.wattpad.com/945701993-fantasy-sub-genre-guide-dieselpunk-fantasy)  
+4. Aesthetic Exploration: Cyberpunk – Aesthetics of Design, otwierano: sierpnia 1, 2025, [https://www.aesdes.org/2024/01/24/aesthetic-exploration-cyberpunk/](https://www.aesdes.org/2024/01/24/aesthetic-exploration-cyberpunk/)  
+5. Biopunk \- Wikipedia, otwierano: sierpnia 1, 2025, [https://en.wikipedia.org/wiki/Biopunk](https://en.wikipedia.org/wiki/Biopunk)  
+6. Shop and Create Your Own Cyberpunk Style Posters \- AI Art Kingdom, otwierano: sierpnia 1, 2025, [https://www.aiartkingdom.com/post/cyberpunk-style-art](https://www.aiartkingdom.com/post/cyberpunk-style-art)  
+7. What Is Solarpunk? History, Themes, Criticism & Real‑World ..., otwierano: sierpnia 1, 2025, [https://builtin.com/articles/solarpunk](https://builtin.com/articles/solarpunk)  
+8. Solarpunk and designers? What is the aesthetics of Solarpunk? | by Karolina Tracz | Medium, otwierano: sierpnia 1, 2025, [https://medium.com/@traczkarolina1212/solarpunk-and-designers-what-is-the-aesthetics-of-solarpunk-d0d0e84ee41f](https://medium.com/@traczkarolina1212/solarpunk-and-designers-what-is-the-aesthetics-of-solarpunk-d0d0e84ee41f)  
+9. Steampunk and Textile Art \- Stitch Safari, otwierano: sierpnia 1, 2025, [https://stitchsafari.com/steampunk-and-textile-art/](https://stitchsafari.com/steampunk-and-textile-art/)  
+10. Steampunk Art: Merging Victorian Aesthetics & Future Elements, otwierano: sierpnia 1, 2025, [https://blog.daisie.com/steampunk-art-merging-victorian-aesthetics-future-elements/](https://blog.daisie.com/steampunk-art-merging-victorian-aesthetics-future-elements/)  
+11. The Ultimate Guide to Dieselpunk Aesthetics \- Number Analytics, otwierano: sierpnia 1, 2025, [https://www.numberanalytics.com/blog/ultimate-guide-dieselpunk-aesthetics](https://www.numberanalytics.com/blog/ultimate-guide-dieselpunk-aesthetics)  
+12. Dieselpunk artwork \-\>vintage futuristic paintings sculptures \- Pop Existentialism in Art, otwierano: sierpnia 1, 2025, [https://superdeep.org/dieselpunk-artwork/](https://superdeep.org/dieselpunk-artwork/)  
+13. Atompunk \- Aesthetics of Design, otwierano: sierpnia 1, 2025, [https://www.aesdes.org/2024/01/24/atompunk/](https://www.aesdes.org/2024/01/24/atompunk/)  
+14. Atompunk in Illustration \- Number Analytics, otwierano: sierpnia 1, 2025, [https://www.numberanalytics.com/blog/atompunk-in-illustration](https://www.numberanalytics.com/blog/atompunk-in-illustration)  
+15. Raygun Gothic \- Wikipedia, otwierano: sierpnia 1, 2025, [https://en.wikipedia.org/wiki/Raygun\_Gothic](https://en.wikipedia.org/wiki/Raygun_Gothic)  
+16. Atompunk \- The Cobalt Jade Website, otwierano: sierpnia 1, 2025, [http://www.cobaltjade.com/2021/03/atompunk/](http://www.cobaltjade.com/2021/03/atompunk/)  
+17. What is retrofuturism? A look at the trend and history of the style \- Wix.com, otwierano: sierpnia 1, 2025, [https://www.wix.com/studio/blog/retrofuturism](https://www.wix.com/studio/blog/retrofuturism)  
+18. Post 1 – 2025: Aesthetics Exploration – Raygun Gothic – Aesthetics ..., otwierano: sierpnia 1, 2025, [https://www.aesdes.org/2025/01/21/aesthetics-exploration-raygun-gothic/](https://www.aesdes.org/2025/01/21/aesthetics-exploration-raygun-gothic/)  
+19. Biopunk: The Future of Art \- Number Analytics, otwierano: sierpnia 1, 2025, [https://www.numberanalytics.com/blog/biopunk-illustration-technology](https://www.numberanalytics.com/blog/biopunk-illustration-technology)  
+20. The Ultimate Biopunk Guide \- Number Analytics, otwierano: sierpnia 1, 2025, [https://www.numberanalytics.com/blog/ultimate-biopunk-guide](https://www.numberanalytics.com/blog/ultimate-biopunk-guide)  
+21. Cassette Futurism \- CARI | Aesthetic, otwierano: sierpnia 1, 2025, [https://cari.institute/aesthetics/cassette-futurism](https://cari.institute/aesthetics/cassette-futurism)  
+22. Characteristics of Cassette Futurism : r/cassettefuturism \- Reddit, otwierano: sierpnia 1, 2025, [https://www.reddit.com/r/cassettefuturism/comments/vqlntz/characteristics\_of\_cassette\_futurism/](https://www.reddit.com/r/cassettefuturism/comments/vqlntz/characteristics_of_cassette_futurism/)  
+23. Afrofuturism Explained: A Conversation with Curator Kevin Strait, otwierano: sierpnia 1, 2025, [https://nmaahc.si.edu/explore/stories/afrofuturism-explained](https://nmaahc.si.edu/explore/stories/afrofuturism-explained)  
+24. Afrofuturism in the Stacks \- The Metropolitan Museum of Art, otwierano: sierpnia 1, 2025, [https://www.metmuseum.org/perspectives/library-afrofuturism](https://www.metmuseum.org/perspectives/library-afrofuturism)  
+25. What is Afrofuturism? Learn from the Experts at Georgia Tech, otwierano: sierpnia 1, 2025, [https://iac.gatech.edu/featured-news/2023/09/afrofuturism](https://iac.gatech.edu/featured-news/2023/09/afrofuturism)  
+26. The utopia of representing futuristic cities \- Graphéine, otwierano: sierpnia 1, 2025, [https://www.grapheine.com/en/graphic-design-en/the-utopia-of-representing-futuristic-cities](https://www.grapheine.com/en/graphic-design-en/the-utopia-of-representing-futuristic-cities)  
+27. Futurism | Utopia/Dystopia \- WordPress.com, otwierano: sierpnia 1, 2025, [https://utopiadystopiawwi.wordpress.com/futurism/](https://utopiadystopiawwi.wordpress.com/futurism/)  
+28. Exploring the Allure of Dystopian Art, otwierano: sierpnia 1, 2025, [https://www.thenevard.com/dystopian-art-prints-and-the-allure-of-dystopian-art](https://www.thenevard.com/dystopian-art-prints-and-the-allure-of-dystopian-art)  
+29. pixlr.com, otwierano: sierpnia 1, 2025, [https://pixlr.com/blog/dystopian-surreal-artwork-with-pixlr/\#:\~:text=Dystopian%20surreal%20artwork%20is%20a,of%20a%20world%20gone%20wrong.](https://pixlr.com/blog/dystopian-surreal-artwork-with-pixlr/#:~:text=Dystopian%20surreal%20artwork%20is%20a,of%20a%20world%20gone%20wrong.)  
+30. en.wikipedia.org, otwierano: sierpnia 1, 2025, [https://en.wikipedia.org/wiki/Retrofuturism\#:\~:text=Characterized%20by%20a%20blend%20of,and%20empowering%20effects%20of%20technology.](https://en.wikipedia.org/wiki/Retrofuturism#:~:text=Characterized%20by%20a%20blend%20of,and%20empowering%20effects%20of%20technology.)  
+31. Baroque | Tate, otwierano: sierpnia 1, 2025, [https://www.tate.org.uk/art/art-terms/b/baroque](https://www.tate.org.uk/art/art-terms/b/baroque)  
+32. Rococo Art, otwierano: sierpnia 1, 2025, [https://www.bluffton.edu/courses/humanities/art/18c/rococo/](https://www.bluffton.edu/courses/humanities/art/18c/rococo/)  
+33. Gothic Art | National Galleries of Scotland, otwierano: sierpnia 1, 2025, [https://www.nationalgalleries.org/art-and-artists/glossary-terms/gothic-art](https://www.nationalgalleries.org/art-and-artists/glossary-terms/gothic-art)  
+34. The Gothic style – an introduction \- London \- V\&A, otwierano: sierpnia 1, 2025, [https://www.vam.ac.uk/articles/the-gothic-style-an-introduction](https://www.vam.ac.uk/articles/the-gothic-style-an-introduction)  
+35. www.ruf.rice.edu, otwierano: sierpnia 1, 2025, [http://www.ruf.rice.edu/\~fellows/hart206/igothic.htm](http://www.ruf.rice.edu/~fellows/hart206/igothic.htm)  
+36. International Gothic | Glossary | National Gallery, London, otwierano: sierpnia 1, 2025, [https://www.nationalgallery.org.uk/paintings/glossary/international-gothic](https://www.nationalgallery.org.uk/paintings/glossary/international-gothic)  
+37. Byzantine Art \- National Galleries of Scotland, otwierano: sierpnia 1, 2025, [https://www.nationalgalleries.org/art-and-artists/glossary-terms/byzantine-art](https://www.nationalgalleries.org/art-and-artists/glossary-terms/byzantine-art)  
+38. Byzantine Art \- World History Encyclopedia, otwierano: sierpnia 1, 2025, [https://www.worldhistory.org/Byzantine\_Art/](https://www.worldhistory.org/Byzantine_Art/)  
+39. www.tate.org.uk, otwierano: sierpnia 1, 2025, [https://www.tate.org.uk/art/art-terms/b/baroque\#:\~:text=Its%20dynamic%20movement%2C%20bold%20realism,Baroque%20was%20influential%20across%20Europe.](https://www.tate.org.uk/art/art-terms/b/baroque#:~:text=Its%20dynamic%20movement%2C%20bold%20realism,Baroque%20was%20influential%20across%20Europe.)  
+40. en.wikipedia.org, otwierano: sierpnia 1, 2025, [https://en.wikipedia.org/wiki/Tenebrism\#:\~:text=Tenebrism%2C%20from%20Italian%20tenebroso%20(',dominating%20feature%20of%20the%20image.](https://en.wikipedia.org/wiki/Tenebrism#:~:text=Tenebrism%2C%20from%20Italian%20tenebroso%20\(',dominating%20feature%20of%20the%20image.)  
+41. Tenebrism \- Wikipedia, otwierano: sierpnia 1, 2025, [https://en.wikipedia.org/wiki/Tenebrism](https://en.wikipedia.org/wiki/Tenebrism)  
+42. Tenebrism | Glossary | National Gallery, London, otwierano: sierpnia 1, 2025, [https://www.nationalgallery.org.uk/paintings/glossary/tenebrism](https://www.nationalgallery.org.uk/paintings/glossary/tenebrism)  
+43. Technique Tuesdays: Tenebrism \- Principle Gallery, otwierano: sierpnia 1, 2025, [https://www.principlegallery.com/technique-tuesdays-tenebrism/](https://www.principlegallery.com/technique-tuesdays-tenebrism/)  
+44. Tenebrism 101: All You Need to Know | DailyArt Magazine | Art History, otwierano: sierpnia 1, 2025, [https://www.dailyartmagazine.com/tenebrism-101/](https://www.dailyartmagazine.com/tenebrism-101/)  
+45. Tenebrism | Caravaggio, Baroque, Painting \- Britannica, otwierano: sierpnia 1, 2025, [https://www.britannica.com/art/tenebrism](https://www.britannica.com/art/tenebrism)  
+46. What is Impressionism? \- Teachers (U.S. National Park Service), otwierano: sierpnia 1, 2025, [https://www.nps.gov/teachers/classrooms/what-is-impressionism.htm](https://www.nps.gov/teachers/classrooms/what-is-impressionism.htm)  
+47. www.fundacionmapfre.org, otwierano: sierpnia 1, 2025, [https://www.fundacionmapfre.org/en/blog/impressionism-post-impressionism-history-characteristics/](https://www.fundacionmapfre.org/en/blog/impressionism-post-impressionism-history-characteristics/)  
+48. Ukiyo-e Japanese Prints Movement Overview | TheArtStory, otwierano: sierpnia 1, 2025, [https://www.theartstory.org/movement/ukiyo-e-japanese-woodblock-prints/](https://www.theartstory.org/movement/ukiyo-e-japanese-woodblock-prints/)  
+49. www.riseart.com, otwierano: sierpnia 1, 2025, [https://www.riseart.com/guide/2410/what-is-fauvism\#:\~:text=Fauvism%20is%20an%20art%20movement,in%20the%20early%2020th%20century.](https://www.riseart.com/guide/2410/what-is-fauvism#:~:text=Fauvism%20is%20an%20art%20movement,in%20the%20early%2020th%20century.)  
+50. Fauvism \- Wikipedia, otwierano: sierpnia 1, 2025, [https://en.wikipedia.org/wiki/Fauvism](https://en.wikipedia.org/wiki/Fauvism)  
+51. Fauvism | Definition, Art, & Facts \- Britannica, otwierano: sierpnia 1, 2025, [https://www.britannica.com/art/Fauvism](https://www.britannica.com/art/Fauvism)  
+52. Fauvism | History, Characteristics, Artists \- Sotheby's, otwierano: sierpnia 1, 2025, [https://www.sothebys.com/en/art-movements/fauvism](https://www.sothebys.com/en/art-movements/fauvism)  
+53. Fauvism \- Tate, otwierano: sierpnia 1, 2025, [https://www.tate.org.uk/art/art-terms/fauvism](https://www.tate.org.uk/art/art-terms/fauvism)  
+54. www.tate.org.uk, otwierano: sierpnia 1, 2025, [https://www.tate.org.uk/art/art-terms/c/cubism/all-about-cubism\#:\~:text=Emphasizing%20the%20flatness%20of%20the,without%20making%20them%20look%20realistic.](https://www.tate.org.uk/art/art-terms/c/cubism/all-about-cubism#:~:text=Emphasizing%20the%20flatness%20of%20the,without%20making%20them%20look%20realistic.)  
+55. All about cubism | Tate, otwierano: sierpnia 1, 2025, [https://www.tate.org.uk/art/art-terms/c/cubism/all-about-cubism](https://www.tate.org.uk/art/art-terms/c/cubism/all-about-cubism)  
+56. Futurism \- Wikipedia, otwierano: sierpnia 1, 2025, [https://en.wikipedia.org/wiki/Futurism](https://en.wikipedia.org/wiki/Futurism)  
+57. Futurism | Definition, Manifesto, Artists, & Facts \- Britannica, otwierano: sierpnia 1, 2025, [https://www.britannica.com/art/Futurism](https://www.britannica.com/art/Futurism)  
+58. Futurism (art movement) | EBSCO Research Starters, otwierano: sierpnia 1, 2025, [https://www.ebsco.com/research-starters/arts-and-entertainment/futurism-art-movement](https://www.ebsco.com/research-starters/arts-and-entertainment/futurism-art-movement)  
+59. Guide to Futurism: History and Characteristics of Futurism \- 2025 \- MasterClass, otwierano: sierpnia 1, 2025, [https://www.masterclass.com/articles/futurism-art-guide](https://www.masterclass.com/articles/futurism-art-guide)  
+60. Futurism | National Galleries of Scotland, otwierano: sierpnia 1, 2025, [https://www.nationalgalleries.org/art-and-artists/glossary-terms/futurism](https://www.nationalgalleries.org/art-and-artists/glossary-terms/futurism)  
+61. Dada \- Wikipedia, otwierano: sierpnia 1, 2025, [https://en.wikipedia.org/wiki/Dada](https://en.wikipedia.org/wiki/Dada)  
+62. Dada | Tate, otwierano: sierpnia 1, 2025, [https://www.tate.org.uk/art/art-terms/d/dada](https://www.tate.org.uk/art/art-terms/d/dada)  
+63. clyffordstillmuseum.org, otwierano: sierpnia 1, 2025, [https://clyffordstillmuseum.org/art-artist/abstract-expressionism/\#:\~:text=Abstract%20Expressionist%20artworks%20often%20show,made%20marks%20on%20the%20canvas.](https://clyffordstillmuseum.org/art-artist/abstract-expressionism/#:~:text=Abstract%20Expressionist%20artworks%20often%20show,made%20marks%20on%20the%20canvas.)  
+64. Abstract Expressionism \- The Metropolitan Museum of Art, otwierano: sierpnia 1, 2025, [https://www.metmuseum.org/essays/abstract-expressionism](https://www.metmuseum.org/essays/abstract-expressionism)  
+65. www.robern.com, otwierano: sierpnia 1, 2025, [https://www.robern.com/article/bauhaus-style\#:\~:text=Bauhaus%20style%20values%20simplicity%20and,simple%20fixtures%20and%20sparse%20d%C3%A9cor.](https://www.robern.com/article/bauhaus-style#:~:text=Bauhaus%20style%20values%20simplicity%20and,simple%20fixtures%20and%20sparse%20d%C3%A9cor.)  
+66. Swiss Design: The History of The Swiss Style in Modern Design | Big ..., otwierano: sierpnia 1, 2025, [https://www.bighuman.com/blog/guide-to-swiss-design-style](https://www.bighuman.com/blog/guide-to-swiss-design-style)  
+67. www.phmc.state.pa.us, otwierano: sierpnia 1, 2025, [https://www.phmc.state.pa.us/portal/communities/architecture/styles/art-deco.html\#:\~:text=Art%20Deco%20buildings%20have%20a,edges%20or%20as%20string%20courses.](https://www.phmc.state.pa.us/portal/communities/architecture/styles/art-deco.html#:~:text=Art%20Deco%20buildings%20have%20a,edges%20or%20as%20string%20courses.)  
+68. Psychedelic art \- Wikipedia, otwierano: sierpnia 1, 2025, [https://en.wikipedia.org/wiki/Psychedelic\_art](https://en.wikipedia.org/wiki/Psychedelic_art)  
+69. Grunge Art \- The Alternative Underworld of Grit and Imperfection, otwierano: sierpnia 1, 2025, [https://artincontext.org/grunge-art/](https://artincontext.org/grunge-art/)  
+70. Art Deco Interior Design: A Guide to a Timeless Aesthetic | Robern, otwierano: sierpnia 1, 2025, [https://www.robern.com/article/what-is-art-deco-interior-design](https://www.robern.com/article/what-is-art-deco-interior-design)  
+71. What is Bauhaus? Art and design examples | Adobe Express, otwierano: sierpnia 1, 2025, [https://www.adobe.com/uk/express/learn/blog/what-is-bauhaus](https://www.adobe.com/uk/express/learn/blog/what-is-bauhaus)  
+72. en.wikipedia.org, otwierano: sierpnia 1, 2025, [https://en.wikipedia.org/wiki/De\_Stijl\#:\~:text=Initially%2C%20De%20Stijl%20proposed%20this,black%2C%20white%2C%20and%20grey.](https://en.wikipedia.org/wiki/De_Stijl#:~:text=Initially%2C%20De%20Stijl%20proposed%20this,black%2C%20white%2C%20and%20grey.)  
+73. de Stijl | MoMA, otwierano: sierpnia 1, 2025, [https://www.moma.org/collection/terms/de-stijl](https://www.moma.org/collection/terms/de-stijl)  
+74. De Stijl Art Guide: The History and Influence of De Stijl \- 2025 \- MasterClass, otwierano: sierpnia 1, 2025, [https://www.masterclass.com/articles/de-stijl-art-guide](https://www.masterclass.com/articles/de-stijl-art-guide)  
+75. bykerwin.com, otwierano: sierpnia 1, 2025, [https://bykerwin.com/what-are-9-unique-characteristics-of-pop-art/\#:\~:text=Pop%20Art's%20unique%20style%20features,in%20a%20vibrant%2C%20accessible%20manner.](https://bykerwin.com/what-are-9-unique-characteristics-of-pop-art/#:~:text=Pop%20Art's%20unique%20style%20features,in%20a%20vibrant%2C%20accessible%20manner.)  
+76. What Are 9 Unique Characteristics of Pop Art? \- By Kerwin, otwierano: sierpnia 1, 2025, [https://bykerwin.com/what-are-9-unique-characteristics-of-pop-art/](https://bykerwin.com/what-are-9-unique-characteristics-of-pop-art/)  
+77. the-rugs.com, otwierano: sierpnia 1, 2025, [https://the-rugs.com/blogs/interior-design-guides/memphis-design-characteristics\#:\~:text=Memphis%20style%20design%20is%20characterized,materials%20like%20plastic%20and%20laminate.](https://the-rugs.com/blogs/interior-design-guides/memphis-design-characteristics#:~:text=Memphis%20style%20design%20is%20characterized,materials%20like%20plastic%20and%20laminate.)  
+78. Memphis Group: awful or awesome? \- Design Museum, otwierano: sierpnia 1, 2025, [https://designmuseum.org/discover-design/all-stories/memphis-group-awful-or-awesome](https://designmuseum.org/discover-design/all-stories/memphis-group-awful-or-awesome)  
+79. Memphis Design: Bold 80s Style & Characteristics | Guide \- The Rugs, otwierano: sierpnia 1, 2025, [https://the-rugs.com/blogs/interior-design-guides/memphis-design-characteristics](https://the-rugs.com/blogs/interior-design-guides/memphis-design-characteristics)  
+80. Origins of Grunge Design Pt. II : Art Chantry, David Carson and depoliticized sensibility?, otwierano: sierpnia 1, 2025, [https://medium.com/@brencekristine/origins-of-grunge-design-pt-ii-art-chantry-david-carson-and-depoliticized-sensibility-7875d57808db](https://medium.com/@brencekristine/origins-of-grunge-design-pt-ii-art-chantry-david-carson-and-depoliticized-sensibility-7875d57808db)  
+81. www.adobe.com, otwierano: sierpnia 1, 2025, [https://www.adobe.com/uk/express/learn/blog/what-is-vaporwave\#:\~:text=Vaporwave%20is%20a%20visual%20style,feel%20both%20familiar%20and%20surreal.](https://www.adobe.com/uk/express/learn/blog/what-is-vaporwave#:~:text=Vaporwave%20is%20a%20visual%20style,feel%20both%20familiar%20and%20surreal.)  
+82. Vaporwave \- Wikipedia, otwierano: sierpnia 1, 2025, [https://en.wikipedia.org/wiki/Vaporwave](https://en.wikipedia.org/wiki/Vaporwave)  
+83. What is vaporwave? Explore the surreal 80s revival warping digital culture. \- Adobe, otwierano: sierpnia 1, 2025, [https://www.adobe.com/uk/express/learn/blog/what-is-vaporwave](https://www.adobe.com/uk/express/learn/blog/what-is-vaporwave)  
+84. Low-poly Midjourney style | Andrei Kovalev's Midlibrary, otwierano: sierpnia 1, 2025, [https://midlibrary.io/styles/low-poly](https://midlibrary.io/styles/low-poly)  
+85. What is Low Poly? Showcase of Great Low Poly Art \- Displate Blog, otwierano: sierpnia 1, 2025, [https://blog.displate.com/low-poly-art/](https://blog.displate.com/low-poly-art/)  
+86. Low-Poly Art in Modern Design \- Number Analytics, otwierano: sierpnia 1, 2025, [https://www.numberanalytics.com/blog/low-poly-art-in-modern-design](https://www.numberanalytics.com/blog/low-poly-art-in-modern-design)  
+87. Discover the Fascinating World of Portraits in the Low Poly Art Style \- DesignGeo, otwierano: sierpnia 1, 2025, [https://designgeoart.com/blogs/blog/low-poly-portraits-discover-the-fascinating-world-of-portraits-in-the-low-poly-art-style](https://designgeoart.com/blogs/blog/low-poly-portraits-discover-the-fascinating-world-of-portraits-in-the-low-poly-art-style)  
+88. Minimalism | Tate, otwierano: sierpnia 1, 2025, [https://www.tate.org.uk/art/art-terms/m/minimalism](https://www.tate.org.uk/art/art-terms/m/minimalism)  
+89. Minimalism \- MoMA, otwierano: sierpnia 1, 2025, [https://www.moma.org/collection/terms/minimalism](https://www.moma.org/collection/terms/minimalism)  
+90. What is Maximalism? 25 Maximalist Decor Ideas to Showcase Personality \- Vevano, otwierano: sierpnia 1, 2025, [https://vevano.com/blogs/design-101/maximalism-interior-design](https://vevano.com/blogs/design-101/maximalism-interior-design)  
+91. The History of Stained Glass Windows, otwierano: sierpnia 1, 2025, [https://www.americanvisionwindows.com/the-history-of-stained-glass-windows/](https://www.americanvisionwindows.com/the-history-of-stained-glass-windows/)  
+92. Stained glass | Definition, History, Techniques, & Facts | Britannica, otwierano: sierpnia 1, 2025, [https://www.britannica.com/art/stained-glass](https://www.britannica.com/art/stained-glass)  
+93. Mosaic \- Wikipedia, otwierano: sierpnia 1, 2025, [https://en.wikipedia.org/wiki/Mosaic](https://en.wikipedia.org/wiki/Mosaic)  
+94. Mosaic | Definition, History, Art, Tiles, Techniques, & Facts | Britannica, otwierano: sierpnia 1, 2025, [https://www.britannica.com/art/mosaic-art](https://www.britannica.com/art/mosaic-art)  
+95. Fresco \- Wikipedia, otwierano: sierpnia 1, 2025, [https://en.wikipedia.org/wiki/Fresco](https://en.wikipedia.org/wiki/Fresco)  
+96. Fresco \- Tate, otwierano: sierpnia 1, 2025, [https://www.tate.org.uk/art/art-terms/f/fresco](https://www.tate.org.uk/art/art-terms/f/fresco)  
+97. Fresco painting | history, method, & examples | Britannica, otwierano: sierpnia 1, 2025, [https://www.britannica.com/art/fresco-painting](https://www.britannica.com/art/fresco-painting)  
+98. How To Identify Fresco Artwork: 3 Techniques \- John Canning & Co., otwierano: sierpnia 1, 2025, [https://johncanningco.com/blog/how-to-identify-fresco-artwork-3-techniques/](https://johncanningco.com/blog/how-to-identify-fresco-artwork-3-techniques/)  
+99. Stained Glass | EBSCO Research Starters, otwierano: sierpnia 1, 2025, [https://www.ebsco.com/research-starters/history/stained-glass](https://www.ebsco.com/research-starters/history/stained-glass)  
+100. A Brief History Of Stained Glass Art \- Wild Wings, otwierano: sierpnia 1, 2025, [https://www.wildwings.com/blogs/news/a-brief-history-of-stained-glass-art](https://www.wildwings.com/blogs/news/a-brief-history-of-stained-glass-art)  
+101. The Art and History of Glass Mosaics \- O.Berk, otwierano: sierpnia 1, 2025, [https://www.oberk.com/theartandhistoryofglassmosaics](https://www.oberk.com/theartandhistoryofglassmosaics)  
+102. What is Mosaic Art? Definition, History, Techniques, & Facts – Mosaic Art Studio US, otwierano: sierpnia 1, 2025, [https://mosaicartstudio.us/blogs/mosaic-art/what-is-mosaic-art](https://mosaicartstudio.us/blogs/mosaic-art/what-is-mosaic-art)  
+103. History of Mosaics, otwierano: sierpnia 1, 2025, [https://www.mosaicnatural.com/mosaic-history](https://www.mosaicnatural.com/mosaic-history)  
+104. Tapestry \- Wikipedia, otwierano: sierpnia 1, 2025, [https://en.wikipedia.org/wiki/Tapestry](https://en.wikipedia.org/wiki/Tapestry)  
+105. Weaving Tapestry: A Deeper Dive \- Thread Collective, otwierano: sierpnia 1, 2025, [https://threadcollective.com.au/blogs/weaving-looms/tapestry-weaving-deeper-dive](https://threadcollective.com.au/blogs/weaving-looms/tapestry-weaving-deeper-dive)  
+106. Celtic art \- Wikipedia, otwierano: sierpnia 1, 2025, [https://en.wikipedia.org/wiki/Celtic\_art](https://en.wikipedia.org/wiki/Celtic_art)  
+107. Ancient Celtic Art \- World History Encyclopedia, otwierano: sierpnia 1, 2025, [https://www.worldhistory.org/Ancient\_Celtic\_Art/](https://www.worldhistory.org/Ancient_Celtic_Art/)  
+108. Islamic geometric patterns \- Wikipedia, otwierano: sierpnia 1, 2025, [https://en.wikipedia.org/wiki/Islamic\_geometric\_patterns](https://en.wikipedia.org/wiki/Islamic_geometric_patterns)  
+109. Primary Characteristics of Islamic Geometric Decoration | The ..., otwierano: sierpnia 1, 2025, [https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-three/primary-characteristics-of-islamic-geometric-decoration](https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-three/primary-characteristics-of-islamic-geometric-decoration)  
+110. Aboriginal Art Symbols \- ART ARK®, otwierano: sierpnia 1, 2025, [https://artark.com.au/pages/aboriginal-art-symbols](https://artark.com.au/pages/aboriginal-art-symbols)  
+111. Decoding Symbols in Aboriginal Art \- Artsper Magazine, otwierano: sierpnia 1, 2025, [https://blog.artsper.com/en/a-closer-look/decoding-symbols-in-aboriginal-art/](https://blog.artsper.com/en/a-closer-look/decoding-symbols-in-aboriginal-art/)  
+112. Art Brut | National Galleries of Scotland, otwierano: sierpnia 1, 2025, [https://www.nationalgalleries.org/art-and-artists/glossary-terms/art-brut](https://www.nationalgalleries.org/art-and-artists/glossary-terms/art-brut)  
+113. Jean Dubuffet \- Wikipedia, otwierano: sierpnia 1, 2025, [https://en.wikipedia.org/wiki/Jean\_Dubuffet](https://en.wikipedia.org/wiki/Jean_Dubuffet)  
+114. Jean Dubuffet | MoMA, otwierano: sierpnia 1, 2025, [https://www.moma.org/artists/1633-jean-dubuffet](https://www.moma.org/artists/1633-jean-dubuffet)  
+115. Exhibition guide: Jean Dubuffet \- Brutal Beauty \- Barbican, otwierano: sierpnia 1, 2025, [https://www.barbican.org.uk/s/dubuffetguide/](https://www.barbican.org.uk/s/dubuffetguide/)  
+116. Art Informel \- The Painterly Reflection of Post-War Europe \- Ideelart, otwierano: sierpnia 1, 2025, [https://ideelart.com/blogs/magazine/art-informel-the-painterly-reflection-of-post-war-europe](https://ideelart.com/blogs/magazine/art-informel-the-painterly-reflection-of-post-war-europe)  
+117. Informalism \- Wikipedia, otwierano: sierpnia 1, 2025, [https://en.wikipedia.org/wiki/Informalism](https://en.wikipedia.org/wiki/Informalism)  
+118. Unveiling Art Informel: A Revolutionary Movement \- Number Analytics, otwierano: sierpnia 1, 2025, [https://www.numberanalytics.com/blog/ultimate-guide-to-art-informel](https://www.numberanalytics.com/blog/ultimate-guide-to-art-informel)  
+119. Art autre \- Tate, otwierano: sierpnia 1, 2025, [https://www.tate.org.uk/art/art-terms/a/art-autre](https://www.tate.org.uk/art/art-terms/a/art-autre)

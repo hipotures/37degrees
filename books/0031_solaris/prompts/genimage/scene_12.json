@@ -1,0 +1,101 @@
+{
+  "sceneDescription": {
+    "setting": {
+      "time": "22nd century, midday",
+      "location": "Personal quarters aboard research station orbiting planet Solaris",
+      "weather": "Artificial atmosphere feeling increasingly unreal"
+    },
+    "characters": [
+      {
+        "appearance": "Man, early 30s, brown hair disheveled, face contorted with desperate reasoning, gesturing frantically",
+        "clothing": "Station uniform wrinkled from agitated movement, sleeves pushed up",
+        "position": "Pacing back and forth in small space, stopping to point at various objects",
+        "action": "Moving frantically between scientific explanations, touching equipment as if to ground himself in reality, hands shaking slightly"
+      },
+      {
+        "appearance": "Woman, late 20s, dark hair, unchanged expression, watching calmly",
+        "clothing": "Same simple dress, no reaction to man's agitation",
+        "position": "Still sitting on bed edge, same position as before",
+        "action": "Observing man's distress with serene detachment, head turning slightly to follow his pacing"
+      }
+    ],
+    "scene": {
+      "mainElements": "Same small quarters now feeling like a psychological pressure chamber, scientific equipment that should provide rational explanation failing to make sense of situation",
+      "details": "Man's personal belongings scattered from frantic searching, station equipment humming normally in contrast to psychological chaos, shadows shifting as man moves frantically, no text or letters visible",
+      "background": "Station architecture unchanged but feeling less solid, porthole view of alien planet seeming more ominous, normal surroundings taking on dreamlike quality",
+      "atmosphere": "Psychological desperation, rational mind fighting impossible reality, growing panic beneath forced scientific calm, foundation of logical understanding cracking"
+    },
+    "composition": {
+      "cameraAngle": "Dynamic shot following character's frantic movement",
+      "focus": "Contrast between man's agitation and woman's supernatural calm",
+      "depth": "Pacing character creating motion in foreground, still figure providing stable middle ground, disorienting background environment"
+    }
+  },
+  "colorPalette": {
+    "primary": [
+      "neon blue",
+      "metallic gray",
+      "glowing cyan",
+      "steel silver"
+    ],
+    "secondary": [
+      "amber light",
+      "deep space black",
+      "violet sky"
+    ],
+    "background": "futuristic skyline or starfield",
+    "usageNotes": "Cool tones dominate with pops of vibrant neon lighting",
+    "saturation": "medium",
+    "contrast": "high"
+  },
+  "lineArt": {
+    "style": "painterly sketches painted over",
+    "weight": "n/a (lines hidden by painting)",
+    "color": "n/a",
+    "texture": "smooth digital, hard edges on tech",
+    "edgeTreatment": "sharp silhouettes, atmospheric fade"
+  },
+  "lighting": {
+    "type": "dramatic cinematic lighting",
+    "direction": "multiple sources (city lights, backlights)",
+    "intensity": "high contrast (bright neon vs deep shadow)",
+    "shadows": {
+      "style": "long shadows, diffused by haze",
+      "color": "cool blue or purple",
+      "opacity": "deep"
+    },
+    "highlights": "lens flares, neon glows on surfaces"
+  },
+  "rendering": {
+    "technique": "digital painting with some photobash",
+    "texture": "smooth with textured brushes for atmosphere",
+    "detailLevel": "high in focal points (tech details), looser elsewhere",
+    "finish": "polished, cinematic look"
+  },
+  "perspective": "dynamic perspective (wide-angle vistas or low-angle hero shots)",
+  "mood": {
+    "overall": "epic, futuristic, adventurous",
+    "emotion": "awe, excitement, curiosity",
+    "tempo": "dynamic, energetic",
+    "keywords": [
+      "futuristic",
+      "epic",
+      "cinematic",
+      "detailed",
+      "atmospheric"
+    ]
+  },
+  "stylePrecedents": [
+    "Syd Mead (futurist designer)",
+    "Blade Runner concept art"
+  ],
+  "technicalSpecifications": {
+    "resolution": {
+      "aspectRatio": "9:16",
+      "minWidth": 1080,
+      "minHeight": 1920,
+      "unit": "pixels"
+    },
+    "orientation": "Portrait/Vertical"
+  }
+}

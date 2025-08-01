@@ -166,16 +166,16 @@ python main.py --config production.yaml video 17
 ### Generowanie Scen (37degrees Commands)
 ```bash
 # Generowanie nowych opisów scen
-/37d-gen-scenes-step1 "Mały Książę" "Saint-Exupéry" narrative
-/37d-gen-scenes-step1 "Wyspa Skarbów" "Stevenson" flexible
-/37d-gen-scenes-step1 "Wichrowe Wzgórza" "Emily Brontë" emotional
+/37d-s1-gen-scenes "Mały Książę" "Saint-Exupéry" narrative
+/37d-s1-gen-scenes "Wyspa Skarbów" "Stevenson" flexible
+/37d-s1-gen-scenes "Wichrowe Wzgórza" "Emily Brontë" emotional
 
 # Aplikowanie stylów wizualnych do scen
-/37d-apply-style-step2 "Tytuł Książki" "Autor" [nazwa_stylu]
+/37d-s2-apply-style "Tytuł Książki" "Autor" [nazwa_stylu]
 
 # Wybór konkretnego stylu
-/37d-apply-style-step2 "Mały Książę" "Saint-Exupéry" watercolor
-/37d-apply-style-step2 "1984" "Orwell" constructivist-propaganda
+/37d-s2-apply-style "Mały Książę" "Saint-Exupéry" watercolor
+/37d-s2-apply-style "1984" "Orwell" constructivist-propaganda
 ```
 
 ## 🏗️ Architektura Systemu

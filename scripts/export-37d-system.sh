@@ -13,24 +13,98 @@ EXPORT_DIR="/tmp/37d-agents-$TIMESTAMP"
 echo "Creating export directory: $EXPORT_DIR"
 mkdir -p "$EXPORT_DIR"
 
-# Copy all 37d agents
-echo "Copying 37d agents..."
-cp /home/xai/DEV/37degrees/.claude/agents/37d-*.md "$EXPORT_DIR/"
+# Copy specific 37d agent (example)
+echo "Copying example 37d agent..."
+if [ -f "/home/xai/DEV/37degrees/config/prompt/agents/37d-facts-hunter.md" ]; then
+    cp "/home/xai/DEV/37degrees/config/prompt/agents/37d-facts-hunter.md" "$EXPORT_DIR/"
+else
+    echo "⚠️  37d-facts-hunter.md not found"
+fi
 
-# Copy 37d-research command (v4)
-echo "Copying 37d-research command..."
+# Copy 37d commands
+echo "Copying 37d commands..."
 cp /home/xai/DEV/37degrees/.claude/commands/37d-research.md "$EXPORT_DIR/37d-research.md"
+
+if [ -f "/home/xai/DEV/37degrees/.claude/commands/37d-s1-gen-scenes.md" ]; then
+    cp "/home/xai/DEV/37degrees/.claude/commands/37d-s1-gen-scenes.md" "$EXPORT_DIR/"
+else
+    echo "⚠️  37d-s1-gen-scenes.md not found"
+fi
+
+if [ -f "/home/xai/DEV/37degrees/.claude/commands/37d-s2-apply-style.md" ]; then
+    cp "/home/xai/DEV/37degrees/.claude/commands/37d-s2-apply-style.md" "$EXPORT_DIR/"
+else
+    echo "⚠️  37d-s2-apply-style.md not found"
+fi
 
 # Copy hooks
 echo "Copying hooks..."
-cp /home/xai/DEV/37degrees/.claude/hooks/37d-save-search.py "$EXPORT_DIR/"
-cp /home/xai/DEV/37degrees/.claude/hooks/37d-save-search.sh "$EXPORT_DIR/"
+if [ -f "/home/xai/DEV/37degrees/.claude/hooks/37d-save-search.py" ]; then
+    cp /home/xai/DEV/37degrees/.claude/hooks/37d-save-search.py "$EXPORT_DIR/"
+else
+    echo "⚠️  37d-save-search.py not found"
+fi
+if [ -f "/home/xai/DEV/37degrees/.claude/hooks/37d-save-search.sh" ]; then
+    cp /home/xai/DEV/37degrees/.claude/hooks/37d-save-search.sh "$EXPORT_DIR/"
+else
+    echo "⚠️  37d-save-search.sh not found"
+fi
 
-# Copy documentation
-echo "Copying documentation..."
-cp /home/xai/DEV/37degrees/docs/agents/STRUCTURE-BOOK.md "$EXPORT_DIR/"
-cp /home/xai/DEV/37degrees/docs/agents/WORKFLOW.md "$EXPORT_DIR/"
-cp /home/xai/DEV/37degrees/docs/agents/research-report-prompt.md "$EXPORT_DIR/"
+# Copy agent documentation from config/prompt/agents/
+echo "Copying agent documentation..."
+for doc in "STRUCTURE-BOOK.md" "research-report-prompt.md"; do
+    if [ -f "/home/xai/DEV/37degrees/config/prompt/agents/$doc" ]; then
+        cp "/home/xai/DEV/37degrees/config/prompt/agents/$doc" "$EXPORT_DIR/"
+    else
+        echo "⚠️  config/prompt/agents/$doc not found"
+    fi
+done
+
+# Copy relevant docs from main docs directory  
+echo "Copying relevant documentation from docs/..."
+for doc in "SUBAGENT-DISCOVERY-REPORT.md" "ai-agent-instruction-guide.md" "PROMPT_GENERATION_GUIDE.md"; do
+    if [ -f "/home/xai/DEV/37degrees/docs/$doc" ]; then
+        cp "/home/xai/DEV/37degrees/docs/$doc" "$EXPORT_DIR/"
+    fi
+done
+
+# Copy example graphics style
+echo "Copying example graphics style..."
+if [ -f "/home/xai/DEV/37degrees/config/prompt/graphics-styles/watercolor-style.json" ]; then
+    cp "/home/xai/DEV/37degrees/config/prompt/graphics-styles/watercolor-style.json" "$EXPORT_DIR/"
+else
+    echo "⚠️  watercolor-style.json not found"
+fi
+
+# Copy example scene generator
+echo "Copying example scene generator..."
+if [ -f "/home/xai/DEV/37degrees/config/prompt/scene-generator/narrative-prompt-generator.md" ]; then
+    cp "/home/xai/DEV/37degrees/config/prompt/scene-generator/narrative-prompt-generator.md" "$EXPORT_DIR/"
+else
+    echo "⚠️  narrative-prompt-generator.md not found"
+fi
+
+# Copy prompt templates
+echo "Copying prompt templates..."
+if [ -f "/home/xai/DEV/37degrees/config/prompt/scene-description-template.json" ]; then
+    cp "/home/xai/DEV/37degrees/config/prompt/scene-description-template.json" "$EXPORT_DIR/"
+else
+    echo "⚠️  scene-description-template.json not found"
+fi
+
+if [ -f "/home/xai/DEV/37degrees/config/prompt/style-description.json" ]; then
+    cp "/home/xai/DEV/37degrees/config/prompt/style-description.json" "$EXPORT_DIR/"
+else
+    echo "⚠️  style-description.json not found"
+fi
+
+# Copy main project README
+echo "Copying main project README..."
+if [ -f "/home/xai/DEV/37degrees/README.md" ]; then
+    cp "/home/xai/DEV/37degrees/README.md" "$EXPORT_DIR/PROJECT-README.md"
+else
+    echo "⚠️  README.md not found"
+fi
 
 # Create README with system overview
 echo "Creating system overview..."
@@ -57,27 +131,32 @@ This is the complete 37degrees book research agent system with 8 specialized age
 ## Files (Flat Structure)
 
 ```
-# Agent Definitions
+# Agent Definitions (example)
 37d-facts-hunter.md
-37d-culture-impact.md  
-37d-symbol-analyst.md
-37d-polish-specialist.md
-37d-youth-connector.md
-37d-source-validator.md
-37d-bibliography-manager.md
-37d-deep-research.md
 
-# Main Workflow Command
+# Main Commands
 37d-research.md
+37d-s1-gen-scenes.md
+37d-s2-apply-style.md
 
 # Hooks
 37d-save-search.py
-37d-save-search.sh
 
 # Documentation
 STRUCTURE-BOOK.md
-WORKFLOW.md
 research-report-prompt.md
+SUBAGENT-DISCOVERY-REPORT.md
+ai-agent-instruction-guide.md
+PROMPT_GENERATION_GUIDE.md
+
+# Examples
+watercolor-style.json
+narrative-prompt-generator.md
+scene-description-template.json
+style-description.json
+
+# Project Overview
+PROJECT-README.md
 
 # System Overview
 README.md
@@ -91,7 +170,7 @@ All agents have YAML frontmatter with:
 - `min_tasks`/`max_tasks`: Task quantity limits
 
 ### Research Agents (todo_list: True)
-- **37d-facts-hunter**: 8-14 tasks - Biographical facts and trivia
+- **37d-facts-hunter**: 8-14 tasks - Biographical facts and trivia (example included)
 - **37d-culture-impact**: 6-10 tasks - Cultural adaptations and modern impact  
 - **37d-symbol-analyst**: 4-8 tasks - Literary symbolism analysis
 - **37d-polish-specialist**: 7-12 tasks - Polish reception and translations
@@ -101,6 +180,8 @@ All agents have YAML frontmatter with:
 - **37d-source-validator**: 0-0 tasks - Verifies all citations and facts
 - **37d-bibliography-manager**: 0-0 tasks - Compiles master bibliography
 - **37d-deep-research**: 0-5 tasks - Gap analysis and deep investigations
+
+Note: Only 37d-facts-hunter.md included as example. All 8 agents are described in SUBAGENT-DISCOVERY-REPORT.md
 
 ## Usage
 
@@ -141,17 +222,31 @@ find "$EXPORT_DIR" -type f -name "*.md" -o -name "*.py" -o -name "*.sh" | \
     echo "- $file" >> "$EXPORT_DIR/README.md"
   done
 
+# Create single file with all content using files-to-prompt
+echo "Creating single file with files-to-prompt..."
+SINGLE_FILE="/tmp/$(basename "$EXPORT_DIR").txt"
+if command -v files-to-prompt >/dev/null 2>&1; then
+    files-to-prompt "$EXPORT_DIR" > "$SINGLE_FILE"
+    echo "📄 Single file created: $SINGLE_FILE"
+else
+    echo "⚠️  files-to-prompt not found - skipping single file creation"
+fi
+
 # Show summary
 echo ""
 echo "✅ 37degrees agents exported to: $EXPORT_DIR"
 echo ""
 echo "📊 Export Summary:"
-echo "   - $(ls -1 "$EXPORT_DIR"/37d-*.md | wc -l) agent files"
-echo "   - 1 workflow command file"
-echo "   - $(ls -1 "$EXPORT_DIR"/37d-save-search.* | wc -l) hook files"
+echo "   - 1 example agent file (37d-facts-hunter.md)"
+echo "   - 3 command files (37d-research.md, 37d-s1-gen-scenes.md, 37d-s2-apply-style.md)"
+echo "   - 1 hook file (37d-save-search.py)"
 echo "   - $(ls -1 "$EXPORT_DIR"/*.md | grep -v 37d | grep -v README | wc -l) documentation files"
+echo "   - $(ls -1 "$EXPORT_DIR"/*.json | wc -l) example JSON files"
 echo "   - $(ls -1 "$EXPORT_DIR" | wc -l) total files"
 echo ""
 echo "📁 Directory: $EXPORT_DIR"
 echo "📄 README: $EXPORT_DIR/README.md"
+if [ -f "$SINGLE_FILE" ]; then
+    echo "📄 Single file: $SINGLE_FILE"
+fi
 echo ""
