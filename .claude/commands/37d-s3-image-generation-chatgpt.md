@@ -22,7 +22,7 @@ UWAGA: Używaj MCP playwright-headless do automatyzacji
 
   // Wykonaj to polecenie shell i postępuj zgodnie z tym, co wypisze na output:
   if [ -f "/home/xai/DEV/37degrees/books/[BOOK_FOLDER]/prompts/genimage/TODO-GENERATE.md" ]; then \
-    TASK=$(grep -n "^\[ \]" /home/xai/DEV/37degrees/books/[BOOK_FOLDER]/prompts/genimage/TODO-GENERATE.md | head -1); \
+    TASK=$(grep -n "^\[ \] \[ \]" /home/xai/DEV/37degrees/books/[BOOK_FOLDER]/prompts/genimage/TODO-GENERATE.md | head -1); \
     if [ -n "$TASK" ]; then \
       echo "TODO-GENERATE.md istnieje. Pierwsze zadanie: $TASK - użyj tego pliku JSON"; \
     else \
@@ -152,9 +152,9 @@ UWAGA: Używaj MCP playwright-headless do automatyzacji
   
   mcp__playwright-headless__browser_evaluate(function: "() => { return window.location.pathname.split('/c/')[1]; }");
   
-  // Oznacz zadanie jako ukończone z thread ID (N = numer linii z kroku 0)
-  // Format: "[x] Created thread 688be9e1-219c-8331-8530-6cd9dd8a7fbc for image scene_01.json"
-  sed -i 'Ns/^\[ \] Generate image using \(.*\)$/[x] Created thread [THREAD_ID] for image \1/' /home/xai/DEV/37degrees/books/[BOOK_FOLDER]/prompts/genimage/TODO-GENERATE.md
+  // Oznacz zadanie jako rozpoczęte z thread ID (N = numer linii z kroku 0)
+  // Format: "[x] [ ] Created thread 688be9e1-219c-8331-8530-6cd9dd8a7fbc for image scene_01.json"
+  sed -i 'Ns/\[ \] \[ \] Generate image using \(.*\)/[x] [ ] Created thread [THREAD_ID] for image \1/' /home/xai/DEV/37degrees/books/[BOOK_FOLDER]/prompts/genimage/TODO-GENERATE.md
 
   - Projekt [BOOK_FOLDER] został utworzony/otwarty poprawnie
   - Sukcesem jest gdy obraz zaczyna się generować (pojawia się "Getting started")
@@ -186,6 +186,14 @@ UWAGA: Używaj MCP playwright-headless do automatyzacji
     - ZAWSZE używaj browser_evaluate() z contenteditable, NIGDY browser_type()
   - Projekt zostanie automatycznie otwarty po utworzeniu - nie trzeba dodatkowo klikać
 
+  System statusów TODO-GENERATE.md:
+  - [ ] [ ] - thread pending ⏳ + image pending ⏳ (NOT STARTED)
+  - [x] [ ] - thread created ✅ + image pending ⏳ (READY TO DOWNLOAD)  
+  - [x] [x] - thread created ✅ + image downloaded ✅ (COMPLETED)
+
+  Po rozpoczęciu generacji: [ ] [ ] → [x] [ ] (pierwszy checkbox = thread creation)
+  Po pobraniu obrazu: [x] [ ] → [x] [x] (drugi checkbox = image download)
+
   Tworzenie TODO (jeśli nie istnieje):
 
   1. Znajdź wszystkie pliki JSON scen
@@ -196,12 +204,14 @@ UWAGA: Używaj MCP playwright-headless do automatyzacji
   2. Stwórz TODO file
 
   // CRITICAL: Zachowaj DOKŁADNĄ KOLEJNOŚĆ plików JSON!
-  // Zapisz każdy plik JSON jako osobną linię:
-  [ ] Generate image using scene_01.json
-  [ ] Generate image using scene_02.json
-  [ ] Generate image using scene_03.json
+  // Zapisz każdy plik JSON jako osobną linię z PODWÓJNYM STATUSEM:
+  [ ] [ ] Generate image using scene_01.json
+  [ ] [ ] Generate image using scene_02.json
+  [ ] [ ] Generate image using scene_03.json
   
-  // Format: "[ ] Generate image using [FILENAME]"
+  // Format: "[ ] [ ] Generate image using [FILENAME]"
+  // Pierwszy [ ] = thread creation status
+  // Drugi [ ] = image download status
   // NIE używaj innych opisów
 
   3. Dodaj Project ID na końcu TODO file
@@ -211,17 +221,18 @@ UWAGA: Używaj MCP playwright-headless do automatyzacji
   echo "# PROJECT_ID = [PROJECT_ID_FROM_BROWSER]" >> /home/xai/DEV/37degrees/books/[BOOK_FOLDER]/prompts/genimage/TODO-GENERATE.md
   
   // Przykład końcowego formatu TODO-GENERATE.md:
-  // [ ] Generate image using scene_01.json
-  // [ ] Generate image using scene_02.json
+  // [ ] [ ] Generate image using scene_01.json
+  // [ ] [ ] Generate image using scene_02.json
   // ...
-  // [ ] Generate image using scene_25.json
+  // [ ] [ ] Generate image using scene_25.json
   //
   // # PROJECT_ID = g-p-688bf3470db48191ae565a014f7e8429
 
   Weryfikacja sukcesu tworzenia TODO:
 
   - Plik TODO-GENERATE.md został utworzony w /books/[BOOK_FOLDER]/prompts/genimage/
-  - Zawiera wszystkie pliki JSON jako osobne zadania
-  - Każda linia zaczyna się od "[ ] Generate image using"
+  - Zawiera wszystkie pliki JSON jako osobne zadania z podwójnym statusem
+  - Każda linia zaczyna się od "[ ] [ ] Generate image using" 
+  - Pierwszy [ ] = thread creation status, drugi [ ] = image download status
   - Pliki są w kolejności numerycznej (scene_01, scene_02, etc.)
   - Project ID jest zapisany na końcu pliku jako "# PROJECT_ID = g-p-xxxx..."
