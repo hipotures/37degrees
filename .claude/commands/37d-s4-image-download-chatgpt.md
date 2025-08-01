@@ -20,15 +20,15 @@ UWAGA: Używaj MCP playwright-headless do automatyzacji
   fi
   echo "Project ID: $PROJECT_ID"
 
-  // Znajdź pierwsze ukończone zadanie z Thread ID w TODO-GENERATE.md
-  COMPLETED_TASK=$(grep -n "^\[x\] Created thread" /home/xai/DEV/37degrees/books/[BOOK_FOLDER]/prompts/genimage/TODO-GENERATE.md | head -1)
-  if [ -z "$COMPLETED_TASK" ]; then
-    echo "ERROR: Brak ukończonych zadań z Thread ID w TODO-GENERATE.md"
-    exit 1
+  // Znajdź pierwsze zadanie do pobrania [x] [ ] (thread created, image not downloaded)
+  TASK_TO_DOWNLOAD=$(grep -n "^\[x\] \[ \] Created thread" /home/xai/DEV/37degrees/books/[BOOK_FOLDER]/prompts/genimage/TODO-GENERATE.md | head -1)
+  if [ -z "$TASK_TO_DOWNLOAD" ]; then
+    echo "INFO: Brak zadań do pobrania - wszystkie obrazy już pobrane lub nie ma wygenerowanych threadów"
+    exit 0
   fi
   
   // Wyciągnij Thread ID z zadania
-  THREAD_ID=$(echo "$COMPLETED_TASK" | sed 's/.*Created thread \([a-f0-9-]*\).*/\1/')
+  THREAD_ID=$(echo "$TASK_TO_DOWNLOAD" | sed 's/.*Created thread \([a-f0-9-]*\).*/\1/')
   echo "Thread ID: $THREAD_ID"
   
   // Zbuduj bezpośredni URL do chatu
@@ -106,7 +106,7 @@ UWAGA: Używaj MCP playwright-headless do automatyzacji
 
   // Wyciągnij numer sceny z Thread ID (z TODO-GENERATE.md)
   // Format TODO: "[x] Created thread [THREAD_ID] for image scene_NN.json"
-  SCENE_FILE=$(echo "$COMPLETED_TASK" | sed 's/.*for image \(scene_[0-9][0-9]\.json\).*/\1/')
+  SCENE_FILE=$(echo "$TASK_TO_DOWNLOAD" | sed 's/.*for image \(scene_[0-9][0-9]\.json\).*/\1/')
   SCENE_NUMBER=$(echo "$SCENE_FILE" | sed 's/scene_\([0-9][0-9]\)\.json/\1/')
   echo "Scene number: $SCENE_NUMBER"
   
@@ -121,6 +121,9 @@ UWAGA: Używaj MCP playwright-headless do automatyzacji
 
   // Przenieś plik
   mv /tmp/playwright-mcp-files/ChatGPT-Image*.png /home/xai/DEV/37degrees/books/[BOOK_FOLDER]/generated/[FINAL_NAME].png
+
+  // Zaktualizuj status w TODO-GENERATE.md - zmień [x] [ ] na [x] [x]
+  sed -i "s/^\[x\] \[ \] Created thread ${THREAD_ID}/[x] [x] Created thread ${THREAD_ID}/" /home/xai/DEV/37degrees/books/[BOOK_FOLDER]/prompts/genimage/TODO-GENERATE.md
 
   4. Zamknij przeglądarkę
 
@@ -152,8 +155,14 @@ UWAGA: Używaj MCP playwright-headless do automatyzacji
   - Plik obrazu został zapisany w /books/[BOOK_FOLDER]/generated/
   - Nazwa pliku: [BOOK_FOLDER]_scene_[NN].png (np. 0031_solaris_scene_01.png)
   - Nie nadpisano istniejących plików
+  - Status w TODO-GENERATE.md zaktualizowany z [x] [ ] na [x] [x]
   - Dla chatów z multiple odpowiedziami: 2 różne pliki PNG pobrane (różne rozmiary)
   - Bezpośrednia nawigacja do chatu bez przechodzenia przez sidebar
+
+  System statusów:
+  - [x] [x] - thread created ✅ + image downloaded ✅ (COMPLETED)
+  - [x] [ ] - thread created ✅ + image pending ⏳ (READY TO DOWNLOAD)  
+  - [ ] [ ] - thread pending ⏳ + image pending ⏳ (NOT STARTED)
 
   Uwagi techniczne:
 
