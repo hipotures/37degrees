@@ -37,16 +37,16 @@ Scene generation is done using the 37degrees custom command system:
 #### Using Claude Code Commands:
 
 ```bash
-# Generate scenes using the /37d-gen-scenes-step1 command
-# Syntax: /37d-gen-scenes-step1 "Book Title" "Author" [generator_type]
+# Generate scenes using the /37d-s1-gen-scenes command
+# Syntax: /37d-s1-gen-scenes "Book Title" "Author" [generator_type]
 
 # Examples:
-/37d-gen-scenes-step1 "Little Prince" "Saint-Exupéry" narrative
-/37d-gen-scenes-step1 "Treasure Island" "Stevenson" flexible
-/37d-gen-scenes-step1 "Wuthering Heights" "Emily Brontë" emotional
+/37d-s1-gen-scenes "Little Prince" "Saint-Exupéry" narrative
+/37d-s1-gen-scenes "Treasure Island" "Stevenson" flexible
+/37d-s1-gen-scenes "Wuthering Heights" "Emily Brontë" emotional
 
 # If generator type is omitted, defaults to 'podcast'
-/37d-gen-scenes-step1 "1984" "Orwell"
+/37d-s1-gen-scenes "1984" "Orwell"
 ```
 
 This creates scene descriptions in:
@@ -73,8 +73,8 @@ python src/prompt_builder.py books/0017_little_prince/book.yaml
 
 Apply graphic styles to scene descriptions using the 37degrees command system:
 
-1. First generate scenes: `/37d-gen-scenes-step1 "Book" "Author" [type]`
-2. Then apply styles: `/37d-apply-style-step2 "Book" "Author" [style_name]`
+1. First generate scenes: `/37d-s1-gen-scenes "Book" "Author" [type]`
+2. Then apply styles: `/37d-s2-apply-style "Book" "Author" [style_name]`
 
 The command will:
 - Find existing scene files in the correct directory

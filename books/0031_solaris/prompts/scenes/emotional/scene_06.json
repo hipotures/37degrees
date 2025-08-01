@@ -1,0 +1,29 @@
+{
+  "sceneDescription": {
+    "title": "Strange Readings in the Laboratory",
+    "setting": {
+      "time": "22nd century, late evening",
+      "location": "Research laboratory aboard station orbiting planet Solaris",
+      "weather": "Controlled laboratory environment"
+    },
+    "characters": [
+      {
+        "appearance": "Man, early 30s, brown hair, furrowed brow, leaning closer to examine data",
+        "clothing": "Station uniform with sleeves rolled up, collar loosened",
+        "position": "Seated at laboratory workstation, hunched forward over equipment",
+        "action": "Studying anomalous readings with growing concentration, fingers adjusting controls repeatedly"
+      }
+    ],
+    "scene": {
+      "mainElements": "Advanced laboratory workstation with multiple monitoring screens, complex analysis equipment, data displays showing irregular patterns, overhead task lighting",
+      "details": "Screens displaying wavy, irregular data patterns unlike normal readings, coffee cup cooling nearby, scattered research notes, blinking warning indicators, reflected light from screens on character's face, no text or letters visible",
+      "background": "Additional laboratory equipment in shadows, glimpses of other workstations, curved station wall architecture, subtle vibration of mechanical systems",
+      "atmosphere": "Growing puzzlement, shift from routine to anomalous, first hint of something beyond normal scientific parameters, subtle unease beginning to creep into scientific confidence"
+    },
+    "composition": {
+      "cameraAngle": "Close-up shot over character's shoulder at the data",
+      "focus": "Character's intense concentration on anomalous readings",
+      "depth": "Character and workstation in sharp foreground, laboratory equipment creating middle ground depth, shadows and curved walls in background"
+    }
+  }
+}

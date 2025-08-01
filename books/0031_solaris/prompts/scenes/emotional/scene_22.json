@@ -1,0 +1,29 @@
+{
+  "sceneDescription": {
+    "title": "Rage and Grief in the Laboratory",
+    "setting": {
+      "time": "22nd century, afternoon",
+      "location": "Research laboratory aboard station orbiting planet Solaris",
+      "weather": "Artificial atmosphere disturbed by violent outburst"
+    },
+    "characters": [
+      {
+        "appearance": "Man, early 30s, brown hair completely disheveled, face red with fury and streaked with tears",
+        "clothing": "Station uniform torn and stained, collar ripped from violent movement",
+        "position": "Standing among destroyed equipment, fists still clenched from violence",
+        "action": "Having just finished destroying laboratory equipment in rage, now standing amid wreckage, chest heaving with grief and exhaustion"
+      }
+    ],
+    "scene": {
+      "mainElements": "Laboratory equipment scattered and broken across floor, screens cracked and dark, scientific instruments destroyed in emotional explosion",
+      "details": "Broken glass and metal debris scattered everywhere, overturned chairs and tables, sparking electrical connections from damaged equipment, papers scattered like fallen leaves, no text or letters visible",
+      "background": "Laboratory walls showing impact damage, emergency lighting activated, glimpses of other equipment stations left untouched, station continuing to function despite personal destruction",
+      "atmosphere": "Explosive grief after devastating loss, violence as only outlet for unbearable emotional pain, complete breakdown of scientific rationality, raw human emotion destroying technological environment"
+    },
+    "composition": {
+      "cameraAngle": "Wide shot showing extent of destruction and solitary figure",
+      "focus": "Character surrounded by wreckage of his attempt to understand",
+      "depth": "Destroyed equipment scattered in foreground, grieving figure in middle ground, damaged laboratory extending into background"
+    }
+  }
+}

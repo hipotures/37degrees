@@ -1,0 +1,29 @@
+{
+  "sceneDescription": {
+    "title": "Devastating Discovery of Abandonment",
+    "setting": {
+      "time": "22nd century, morning",
+      "location": "Empty personal quarters aboard research station orbiting planet Solaris",
+      "weather": "Artificial atmosphere feeling hollow and lifeless"
+    },
+    "characters": [
+      {
+        "appearance": "Man, early 30s, brown hair wild from sleep, face showing progression from hope to crushing realization",
+        "clothing": "Sleeping clothes, hastily thrown on in desperate search",
+        "position": "Standing in center of empty room, slowly turning to comprehend complete absence",
+        "action": "Searching frantically at first, then gradually stopping as reality sinks in, shoulders sagging with devastating loss"
+      }
+    ],
+    "scene": {
+      "mainElements": "Personal quarters now feeling vast and empty despite small size, all traces of shared presence erased, morning light highlighting emptiness",
+      "details": "Bed made perfectly with no indentation from second person, single cup on table instead of two, personal belongings arranged as if for one person only, folded note on pillow, no text or letters visible",
+      "background": "Station walls seeming to expand with emptiness, porthole showing alien planet continuing indifferently, mechanical sounds more noticeable in the absence of human presence",
+      "atmosphere": "Crushing emotional devastation, complete loneliness after perfect connection, realization that voluntary sacrifice has occurred, emptiness more profound than before companionship existed"
+    },
+    "composition": {
+      "cameraAngle": "Wide shot emphasizing emptiness and isolation",
+      "focus": "Solitary figure surrounded by evidence of abandonment",
+      "depth": "Isolated character in center foreground, empty domestic space in middle ground, indifferent station environment in background"
+    }
+  }
+}
