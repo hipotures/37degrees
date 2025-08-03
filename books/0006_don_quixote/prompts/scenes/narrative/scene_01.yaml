@@ -1,0 +1,24 @@
+sceneDescription:
+  title: Sunrise Over La Mancha Plains
+  setting:
+    time: Early 1600s Spain, late summer, dawn breaking
+    location: Vast plains of La Mancha region, central Spain, windmills dotting horizon
+    weather: Clear morning sky with golden sunrise, light morning mist
+  characters: []
+  scene:
+    mainElements: Wide panoramic view of La Mancha countryside at dawn, showing flat plains stretching to horizon, several
+      traditional Spanish windmills silhouetted against rising sun, small village with church tower visible in distance, cultivated
+      fields divided by low stone walls, no text or letters visible
+    details: Traditional white cylindrical windmills with conical roofs and large wooden blades catching first light, morning
+      mist hovering over wheat fields, flock of sheep grazing in distant pasture, winding dirt road cutting through landscape,
+      olive groves scattered across hillsides, Spanish architectural elements visible in distant village buildings, no text
+      or letters visible
+    background: Mountain range barely visible on far horizon, birds beginning morning flight patterns, smoke rising from chimneys
+      in village
+    atmosphere: Peaceful Spanish countryside awakening to new day, golden hour lighting creating long shadows, sense of timeless
+      rural tranquility mixed with anticipation of adventure ahead, no text or letters visible
+  composition:
+    cameraAngle: High wide establishing shot from hilltop vantage point
+    focus: Windmills as central elements with village and plains spreading outward
+    depth: Foreground shows rocky terrain and wild herbs, middle ground features plains and windmills, background fades to
+      distant mountains

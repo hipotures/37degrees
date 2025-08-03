@@ -1,0 +1,32 @@
+sceneDescription:
+  title: The Barber's Basin Quest
+  setting:
+    time: Early 1600s Spain, early autumn, morning with light rain
+    location: Muddy road through La Mancha countryside, central Spain
+    weather: Light rain, overcast sky
+  characters:
+  - appearance: Thin knight, late 40s, excited expression despite wet conditions
+    clothing: Armor glistening with rain, makeshift helmet protection
+    position: Mounted on horse, leaning forward eagerly
+    action: Pointing excitedly at approaching figure, hand reaching for sword
+  - appearance: Simple barber, 30s, practical man trying to stay dry
+    clothing: Common clothes, brass shaving basin on head as rain protection
+    position: Riding mule on same road, approaching unknowingly
+    action: Hunched against rain, using basin as improvised hat
+  - appearance: Stocky squire, early 40s, resigned to new adventure
+    clothing: Peasant clothes soaked with rain, hood pulled up
+    position: Following on donkey, water dripping from hat brim
+    action: Sighing and shaking head at master's excitement
+  scene:
+    mainElements: Two groups approaching on rain-slicked road, knight seeing golden helmet where barber wears brass basin,
+      another delusion about to unfold, comedy of misunderstanding in rain, no text or letters visible
+    details: Brass basin catching raindrops and gleaming when sun breaks through clouds, muddy puddles in road ruts, mule's
+      sure-footed progress, barber's tools in leather satchel, steam rising from wet animals, wildflowers bending under rain
+      weight, stone bridge visible ahead, no text or letters visible
+    background: Gray clouds with breaks showing blue sky, fields green from rain, distant church bell tower
+    atmosphere: Building excitement in knight contrasting with mundane reality, rain adding urgency to encounter, ordinary
+      object transformed by imagination, humor in practical solution becoming perceived treasure, no text or letters visible
+  composition:
+    cameraAngle: Road-level view showing both approaching parties
+    focus: Brass basin glinting on barber's head as focal point
+    depth: Foreground shows wet road, middle ground captures approaching riders, background reveals rainy countryside

@@ -1,0 +1,30 @@
+sceneDescription:
+  title: Siege of the Stockade
+  setting:
+    time: 1750s, dawn attack
+    location: Log stockade, Treasure Island hilltop
+    weather: morning mist, gunsmoke adding to haze
+  characters:
+  - appearance: attacking pirates, various rough men
+    clothing: pirate attire, weapons drawn
+    position: charging from multiple directions
+    action: climbing walls, firing pistols, wielding cutlasses
+  - appearance: defenders including boy, doctor, squire
+    clothing: disheveled from siege
+    position: at stockade walls and loopholes
+    action: firing muskets, desperately defending
+  - appearance: one-legged Silver, commanding presence
+    clothing: pirate captain attire
+    position: directing attack from safe distance
+    action: shouting orders, gesturing with crutch
+  scene:
+    mainElements: violent battle at log fortification, pirates scaling walls while defenders fire down, smoke and chaos of
+      combat
+    details: musket smoke drifting across scene, splintered logs from bullets, pirates with ladders and ropes, defenders at
+      loopholes, some pirates falling from walls, powder horns and weapons scattered, no text or letters visible
+    background: jungle surrounding clearing, sun rising through smoke
+    atmosphere: desperate battle for survival, organized defense against savage attack, turning point of conflict
+  composition:
+    cameraAngle: dramatic high angle showing entire battle
+    focus: stockade under assault from all sides
+    depth: battle action foreground and middle, jungle and dawn sky background

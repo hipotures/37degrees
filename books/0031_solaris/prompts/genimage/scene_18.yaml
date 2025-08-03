@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 22nd century, early morning
+    location: Personal quarters aboard research station orbiting planet Solaris
+    weather: Cold artificial atmosphere with emergency systems activated
+  characters:
+  - appearance: Man, early 30s, brown hair wild with horror, face contorted in absolute terror and revulsion
+    clothing: Station uniform partially on, grabbed hastily in emergency
+    position: Pressed against far wall, hand covering mouth, body recoiling in complete shock
+    action: Staring in horror at impossible sight, retching from visceral revulsion, entire body trembling with psychological
+      trauma
+  - appearance: Woman, late 20s, dark hair, body in impossible state of destruction and reconstruction
+    clothing: Nightgown, unnaturally positioned during impossible physical process
+    position: Center of room in unnatural physical state defying human biology
+    action: Undergoing impossible physical transformation that should result in death but leads to perfect restoration
+  scene:
+    mainElements: Small quarters transformed into scene of impossible body horror, normal domestic space violated by supernatural
+      physical impossibility
+    details: Emergency lighting activated casting harsh shadows, evidence of impossible physical trauma that regenerates perfectly,
+      station equipment continuing normal function despite horror, no text or letters visible
+    background: Station architecture unchanged but feeling hostile, porthole showing alien planet that seems more menacing,
+      technological environment offering no comfort against supernatural horror
+    atmosphere: Complete psychological breakdown from witnessing impossible body horror, violation of all natural laws, visceral
+      terror at seeing human form destroyed and restored, reality becoming completely untrustworthy
+  composition:
+    cameraAngle: Wide shot capturing both horror and witness
+    focus: Contrast between impossible physical event and human psychological collapse
+    depth: Horrified witness pressed against wall in foreground, impossible event in center middle ground, normal station
+      background emphasizing surreal violation
+visualElements:
+  colorPalette:
+    primary:
+    - neon blue
+    - metallic gray
+    - glowing cyan
+    - steel silver
+    secondary:
+    - amber light
+    - deep space black
+    - violet sky
+    background: futuristic skyline or starfield
+    usageNotes: Cool tones dominate with pops of vibrant neon lighting
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: painterly sketches painted over
+    weight: n/a (lines hidden by painting)
+    color: n/a
+    texture: smooth digital, hard edges on tech
+    edgeTreatment: sharp silhouettes, atmospheric fade
+  lighting:
+    type: dramatic cinematic lighting
+    direction: multiple sources (city lights, backlights)
+    intensity: high contrast (bright neon vs deep shadow)
+    shadows:
+      style: long shadows, diffused by haze
+      color: cool blue or purple
+      opacity: deep
+    highlights: lens flares, neon glows on surfaces
+  rendering:
+    technique: digital painting with some photobash
+    texture: smooth with textured brushes for atmosphere
+    detailLevel: high in focal points (tech details), looser elsewhere
+    finish: polished, cinematic look
+  perspective: dynamic perspective (wide-angle vistas or low-angle hero shots)
+  mood:
+    overall: epic, futuristic, adventurous
+    emotion: awe, excitement, curiosity
+    tempo: dynamic, energetic
+    keywords:
+    - futuristic
+    - epic
+    - cinematic
+    - detailed
+    - atmospheric
+  stylePrecedents:
+  - Syd Mead (futurist designer)
+  - Blade Runner concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

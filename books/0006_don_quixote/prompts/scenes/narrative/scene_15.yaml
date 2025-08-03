@@ -1,0 +1,30 @@
+sceneDescription:
+  title: Night in the Sierra Morena
+  setting:
+    time: Early 1600s Spain, autumn, midnight under full moon
+    location: Rocky wilderness of Sierra Morena mountains, Spain
+    weather: Clear night, bright moonlight, cool mountain air
+  characters:
+  - appearance: Thin knight, late 40s, wild-eyed with inspiration
+    clothing: Armor set aside, wearing only shirt and breeches
+    position: Standing on rocky outcrop, arms raised to moon
+    action: Performing exaggerated movements of madness and despair
+  - appearance: Stocky squire, early 40s, wrapped in blanket
+    clothing: Peasant clothes with cloak for warmth
+    position: Sitting by small campfire, watching master
+    action: Eating cheese and bread while shaking head at display
+  scene:
+    mainElements: Knight performing mad pantomime on moonlit rocks, squire pragmatically eating dinner by fire, contrast between
+      romantic madness and practical survival, mountain wilderness surrounding them, no text or letters visible
+    details: Knight's armor piled neatly beside rock, torn shirt fluttering in performance, campfire crackling with gathered
+      wood, cooking pot with remains of stew, horses and donkey tethered to stunted tree, owl hooting from dead pine, scattered
+      boulders creating natural amphitheater, no text or letters visible
+    background: Jagged mountain peaks in moonlight, stars brilliant in clear sky, distant howl of wolves
+    atmosphere: Theatrical madness performed for audience of one, comedy mixing with genuine pathos, loneliness of mountain
+      wilderness, dedication to impossible ideal, friendship tested but enduring, surreal quality of moonlit performance,
+      no text or letters visible
+  composition:
+    cameraAngle: Low angle from squire's perspective looking up
+    focus: Knight's dramatic silhouette against full moon
+    depth: Foreground shows campfire and watching squire, middle ground captures performing knight, background reveals moonlit
+      peaks

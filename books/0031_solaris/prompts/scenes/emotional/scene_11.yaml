@@ -1,0 +1,29 @@
+sceneDescription:
+  title: The Impossible Recognition
+  setting:
+    time: 22nd century, late morning
+    location: Personal quarters aboard research station orbiting planet Solaris
+    weather: Still artificial atmosphere, suddenly feeling oppressive
+  characters:
+  - appearance: Man, early 30s, brown hair, face frozen in complete shock, eyes wide with disbelief
+    clothing: Station uniform, body rigid with tension
+    position: Standing motionless in center of room, entire body locked in stunned paralysis
+    action: Staring in absolute shock, mouth slightly open, all normal movement ceased as brain struggles to process impossibility
+  - appearance: Woman, late 20s, dark hair, exactly as remembered from years past, silent and still
+    clothing: Simple dress from a different era, completely out of place in futuristic setting
+    position: Sitting on edge of bed, hands folded, perfectly still
+    action: Gazing calmly at the man, no movement, no speech, presence defying all rational explanation
+  scene:
+    mainElements: Small personal quarters transformed into impossible reunion space, normal station furniture contrasting
+      with impossible human presence
+    details: Bed where impossible figure sits, normal station equipment continuing to function as if nothing extraordinary
+      is happening, lighting unchanged but atmosphere completely altered, no text or letters visible
+    background: Station wall architecture continuing normally, porthole still showing alien planet, technological environment
+      unchanged despite presence of impossibility
+    atmosphere: Complete psychological shock, reality fracturing, moment of pure impossibility that shatters all scientific
+      understanding, time seeming suspended
+  composition:
+    cameraAngle: Medium wide shot capturing both figures and the space between them
+    focus: Contrast between man's shock and woman's impossible calm presence
+    depth: Shocked character in foreground, impossible figure on bed in middle ground, normal station background emphasizing
+      surreal contrast

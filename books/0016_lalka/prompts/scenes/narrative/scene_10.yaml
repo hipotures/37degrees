@@ -1,0 +1,28 @@
+sceneDescription:
+  title: Journey to the Aristocratic Estate
+  setting:
+    time: 1878 autumn, late afternoon
+    location: Country road approaching aristocratic manor house in Mazovian countryside, 50km from Warsaw, Congress Poland
+      estate
+    weather: Golden late afternoon sun, scattered clouds
+  characters:
+  - appearance: Man in early 40s, dark hair, tense anticipation in posture
+    clothing: Fine traveling coat, top hat, leather gloves
+    position: Seated in elegant carriage
+    action: Leaning forward to glimpse approaching manor through trees
+  - appearance: Coachman in his 50s, weathered face, steady hands
+    clothing: Dark livery with brass buttons, tall driver's hat
+    position: Driving the carriage from high seat
+    action: Guiding matched pair of bay horses along tree-lined drive
+  scene:
+    mainElements: Elegant carriage approaching grand manor house through avenue of old trees, late afternoon sun filtering
+      through leaves, impressive estate revealing itself
+    details: Black lacquered carriage with family crest on door, matched bay horses with polished harnesses, poplar trees
+      creating natural archway, manor house with white columns visible ahead, manicured gardens glimpsed through trees, iron
+      gates standing open, no text or letters visible
+    background: Rolling Polish countryside with wheat fields, distant forest, other estate buildings
+    atmosphere: Anticipation and social climbing, the merchant approaching the aristocratic world he longs to enter
+  composition:
+    cameraAngle: Following shot from behind and above the carriage
+    focus: The carriage progressing toward the imposing manor house
+    depth: Carriage and horses in foreground, tree-lined drive in middle, manor house in background

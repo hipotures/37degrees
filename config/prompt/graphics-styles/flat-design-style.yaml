@@ -1,0 +1,58 @@
+styleName: Flat Design Style
+description: Minimalist design approach with simple elements, bright colors, and no three-dimensional effects
+aiPrompts:
+  basePrompt: flat design illustration, minimalist, simple shapes, bright colors, no gradients, clean
+  negativePrompt: 3D effects, shadows, textures, gradients, realistic, complex
+  styleKeywords:
+  - flat design
+  - minimal
+  - simple
+  - clean
+  - modern
+  - geometric
+visualElements:
+  colorPalette:
+    primary:
+    - bright blue
+    - orange
+    - green
+    - purple
+    secondary:
+    - white
+    - light gray
+    - dark gray
+    background: solid bright or white
+    usageNotes: Bold, web-safe colors, no gradients
+    saturation: high
+    contrast: strong but balanced
+  lineArt:
+    style: minimal or none
+    weight: uniform if present
+    color: darker shade of fill color
+    texture: none
+    edgeTreatment: crisp, perfect
+  lighting:
+    type: none - completely flat
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none or long shadows
+      color: n/a or single color
+      opacity: n/a or solid
+    highlights: none
+  rendering:
+    technique: vector graphics
+    texture: none
+    detailLevel: minimalist
+    finish: perfectly smooth
+  perspective: often orthogonal or none
+  mood:
+    overall: modern, clean, friendly
+    emotion: clarity, simplicity, approachability
+    tempo: efficient, direct
+    keywords:
+    - modern
+    - clean
+    - simple
+    - friendly
+    - efficient

@@ -1,0 +1,31 @@
+sceneDescription:
+  title: Psychiatric Sanctuary
+  setting:
+    time: 1930s Moscow, several days after manuscript burning
+    location: Moscow psychiatric hospital, white-walled patient room
+    weather: Interior, soft natural light from high barred windows
+  characters:
+  - appearance: Man, late 30s, dark hair, now clean but hollow-eyed, thinner, worn expression
+    clothing: Simple white hospital gown, slippers, clean but institutional appearance
+    position: Sitting on edge of narrow hospital bed, staring at empty hands
+    action: Moving fingers as if still writing, lips moving silently
+  - appearance: Young man, late 20s, blonde hair, athletic build, now also institutionalized
+    clothing: Similar white hospital clothing, more disheveled, bandages on hands
+    position: Pacing by barred window, agitated movement
+    action: Gesticulating wildly while speaking to unseen listeners
+  - appearance: Hospital attendant, middle-aged man, 40s, kind but tired face
+    clothing: White medical coat, simple trousers, practical shoes, clipboard in hand
+    position: Standing in doorway observing both patients
+    action: Making notes while watching patient behavior with professional concern
+  scene:
+    mainElements: Sparse hospital room with two beds, barred windows, white walls and simple furniture
+    details: Iron bed frames with thin mattresses, small side table with water pitcher, barred windows casting striped shadows,
+      white-painted walls with occasional scuff marks, linoleum floor, single overhead light fixture
+    background: Corridor visible through open door, other patient rooms partially visible, hospital sounds echoing
+    atmosphere: Institutional safety for broken minds, sanctuary from hostile world, sterile environment contrasting with
+      rich inner lives of patients, no text or letters visible
+  composition:
+    cameraAngle: Medium shot from room entrance, capturing both patients and institutional setting
+    focus: Two creative minds finding refuge in psychiatric sanctuary
+    depth: 'Foreground: hospital room furnishings; middle ground: two patients in different states of distress; background:
+      hospital corridor and institutional environment'

@@ -32,8 +32,8 @@
 
 For each scene:
 1. Click "Add photos & files" button
-2. Select corresponding JSON file from `prompts/genimage/scene_XX.json`
-3. Type: `scene_XX - create an image based on the scene, style, and visual specifications described in the attached JSON. The JSON is a blueprint, not the content.`
+2. Select corresponding YAML file from `prompts/genimage/scene_XX.yaml`
+3. Type: `scene_XX - create an image based on the scene, style, and visual specifications described in the attached YAML. The YAML is a blueprint, not the content.`
 4. Click "Choose tool" and select "Create image"
 5. Send prompt
 6. Wait for image generation (sleep 100)

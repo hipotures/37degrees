@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 1750s, dawn
+    location: Beach and jungle edge
+    weather: Red sunrise through smoke
+  characters:
+  - appearance: multiple figures in combat, faces contorted with rage and fear
+    clothing: mix of pirate and naval attire, all disheveled
+    position: scattered across beach in various fighting poses
+    action: some grappling, others running, fallen figures on sand
+  - appearance: teenage boy, 13 years old, terror and determination mixed
+    clothing: torn clothes, barefoot
+    position: running through shallow surf
+    action: dodging between fighters, carrying something precious
+  scene:
+    mainElements: beach transformed into battlefield, smoke from muskets drifting, chaos of close combat
+    details: footprints and blood in sand, abandoned weapons, overturned boats, seabirds fleeing, palm trees swaying from
+      impact, smoke creating hellish atmosphere, waves tinged red from sunrise, no text or letters visible
+    background: jungle edge where more fighters emerge, ship visible offshore
+    atmosphere: pure chaos, survival instinct overtaking thought, primal fear
+  composition:
+    cameraAngle: dynamic diagonal view across beach
+    focus: boy's path through violence, motion blur suggesting speed
+    depth: layered action from surf to jungle line
+colorPalette:
+  primary:
+  - '#000000'
+  - '#FFFFFF'
+  secondary:
+  - sepia tones
+  - aged paper
+  background: cream or aged paper
+  usageNotes: Primarily monochromatic, occasional sepia wash
+  saturation: none to minimal
+  contrast: high through line density
+lineArt:
+  style: precise engraving lines
+  weight: very fine, built up in layers
+  color: black ink
+  texture: crosshatching, stippling
+  edgeTreatment: precise, controlled
+lighting:
+  type: classical, theatrical
+  direction: three-quarter lighting
+  intensity: dramatic through line density
+  shadows:
+    style: built through crosshatching
+    color: black line density
+    opacity: varied through technique
+  highlights: white paper showing through
+rendering:
+  technique: steel engraving simulation
+  texture: fine line patterns throughout
+  detailLevel: extremely high, meticulous
+  finish: printed illustration quality
+perspective: classical, accurate
+mood:
+  overall: formal, literary, refined
+  emotion: dignity, propriety, narrative drama
+  tempo: measured, contemplative
+  keywords:
+  - classical
+  - refined
+  - literary
+  - formal
+  - dignified
+stylePrecedents:
+- Gustave Doré
+- John Tenniel
+- George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

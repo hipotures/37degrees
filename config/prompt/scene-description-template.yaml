@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "// Scene name [recommended: 5-15 words]"
+  setting:
+    time: "// Era and time of day (e.g. '1920, evening') [recommended: 3-15 words]"
+    location: "// Place of action (e.g. 'Parisian cafe, terrace') [recommended: 5-20 words]"
+    weather: "// Weather [optional, recommended: 5-15 words]"
+  characters:
+    - appearance: "// Gender, age, basic appearance [recommended: 10-40 words]"
+      clothing: "// Period-appropriate attire [recommended: 10-40 words]"
+      position: "// Where and how positioned [recommended: 5-20 words]"
+      action: "// What they're doing [recommended: 10-30 words]"
+  scene:
+    mainElements: "// Main scene elements [recommended: 20-80 words]"
+    details: "// Important details and objects [recommended: 30-100 words | max: 150 words]"
+    background: "// What's in the background [recommended: 20-60 words]"
+    atmosphere: "// Overall mood and atmosphere [recommended: 20-80 words]"
+  composition:
+    cameraAngle: "// Shot perspective [recommended: 5-15 words]"
+    focus: "// Main point of attention [recommended: 10-30 words]"
+    depth: "// What's in foreground/middle/background [recommended: 20-60 words]"

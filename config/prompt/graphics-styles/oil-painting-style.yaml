@@ -1,0 +1,65 @@
+styleName: Oil Painting Style
+description: Classical oil painting technique with rich textures, dramatic lighting, and traditional artistic methods
+aiPrompts:
+  basePrompt: oil painting, high contrast, impasto, sfumato, chiaroscuro, palette knife
+  negativePrompt: photo, smooth, border, frame, digital, flat
+  styleKeywords:
+  - oil painting
+  - impasto
+  - chiaroscuro
+  - classical
+  - traditional art
+visualElements:
+  colorPalette:
+    primary:
+    - rich, deep colors
+    - earth tones
+    secondary:
+    - complementary colors for contrast
+    background: dark or neutral tones
+    usageNotes: Rich, layered colors with visible mixing
+    saturation: medium to high
+    contrast: high
+  lineArt:
+    style: painterly, no distinct lines
+    weight: implied through contrast
+    color: integrated into painting
+    texture: brushstrokes and palette knife marks
+    edgeTreatment: soft blending or sharp impasto edges
+  lighting:
+    type: dramatic chiaroscuro
+    direction: strong directional light
+    intensity: high contrast
+    shadows:
+      style: deep, rich shadows
+      color: warm or cool undertones
+      opacity: opaque
+    highlights: thick paint application
+  rendering:
+    technique: traditional oil on canvas
+    texture: visible brushstrokes, impasto texture
+    detailLevel: varies from impressionistic to highly detailed
+    finish: textured surface with paint thickness variation
+  perspective: classical composition principles
+  mood:
+    overall: dramatic, rich, traditional
+    emotion: varies - can be contemplative to passionate
+    tempo: static but emotionally charged
+    keywords:
+    - dramatic
+    - classical
+    - rich
+    - textured
+    - traditional
+  postProcessing:
+    effects:
+    - canvas texture
+    - paint thickness variation
+    filters: none
+    adjustments:
+      saturation: rich but natural
+      contrast: high
+  stylePrecedents:
+  - Rembrandt
+  - Caravaggio
+  - Van Gogh

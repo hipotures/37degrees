@@ -1,0 +1,26 @@
+sceneDescription:
+  title: Ursus Breaking the Bull's Neck in Arena
+  setting:
+    time: 64 AD, deep night, fog rising from Tiber River
+    location: Arena in Circus of Nero, sand floor surrounded by roaring crowd
+    weather: Clear evening with arena torches creating dramatic lighting, dust kicked up by fighting
+  characters:
+  - appearance: Ursus the Lygian giant, massive muscular build, blonde hair wild from battle, eyes blazing with protective
+      fury
+    clothing: Simple leather tunic torn from struggle, bare arms showing incredible strength, no armor or weapons needed
+    position: Standing over defeated German aurochs in center of arena, Lygia freed behind him
+    action: Having just broken the bull's neck with bare hands, roaring victory cry, protecting his princess from death
+  scene:
+    mainElements: Stone bridge with torch posts creating spheres of light in fog, Tiber River flowing invisibly below, mist
+      swirling around flame sources
+    details: Arena torches creating dramatic lighting on impossible scene, crowd stunned into momentary silence, massive dead
+      aurochs with broken neck lying in sand, Lygia's ropes cut and fallen away, blood and dust mixed in arena floor, Christian
+      symbol of fish traced in sand near Lygia
+    background: City completely invisible beyond fog wall, only torch halos marking human presence, river sounds indicating
+      water below but not visible
+    atmosphere: Miraculous moment when divine strength defeats imperial cruelty, arena transformed from place of death to
+      scene of salvation, crowd witnessing impossible victory of faith over empire, breath held in awe of God's power
+  composition:
+    cameraAngle: Medium shot from bridge center showing torch halos disappearing into fog
+    focus: Guard figures barely visible as silhouettes in torch-lit fog spheres
+    depth: Foreground torch with bright halo, middle ground guard emerging from mist, background complete white fog void

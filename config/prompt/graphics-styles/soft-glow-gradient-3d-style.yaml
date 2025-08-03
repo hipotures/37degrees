@@ -1,0 +1,67 @@
+styleName: Soft Glow Gradient 3D
+description: Modern 3D rendering with soft gradients, glowing effects, and translucent materials creating dreamy atmosphere
+aiPrompts:
+  basePrompt: 3D render, soft glow, gradient colors, translucent materials, floating objects
+  negativePrompt: hard shadows, photorealistic, gritty, dark
+  styleKeywords:
+  - 3D
+  - glow
+  - gradient
+  - soft
+  - translucent
+  - modern
+visualElements:
+  colorPalette:
+    primary:
+    - '#f9b8b8'
+    - '#fddccf'
+    - '#ffc8d0'
+    secondary:
+    - '#9dbffb'
+    - '#a6d6c3'
+    - '#dbc1ff'
+    background: '#6caeff'
+    usageNotes: Soft pastel gradients with additive blending
+    saturation: medium
+    contrast: low to medium
+  lineArt:
+    style: none - 3D surfaces
+    weight: n/a
+    color: n/a
+    texture: smooth surfaces
+    edgeTreatment: soft, rounded edges with bevel
+  lighting:
+    type: soft HDR environment
+    direction: multi-directional with key light at 60 degrees
+    intensity: 0.6-0.7
+    shadows:
+      style: soft or disabled
+      color: tinted with environment color
+      opacity: very light
+    highlights: glowing with color mixing
+  rendering:
+    technique: 3D PBR with translucency
+    texture: glossy with subsurface scattering
+    detailLevel: smooth abstract forms
+    finish: glossy with clearcoat
+  perspective: medium perspective, floating objects
+  mood:
+    overall: dreamy, soft, modern
+    emotion: calm, peaceful, optimistic
+    tempo: floating, gentle
+    keywords:
+    - dreamy
+    - soft
+    - glowing
+    - modern
+    - ethereal
+  postProcessing:
+    effects:
+    - bloom
+    - chromatic aberration
+    - vignette
+    filters: warm color grading
+    adjustments:
+      saturation: '1.1'
+      contrast: '1.15'
+      warmth_shift: '0.2'

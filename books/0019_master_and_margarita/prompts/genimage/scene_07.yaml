@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: Ancient Jerusalem, late afternoon after trial
+    location: Private quarters in Roman palace, stone chamber with window
+    weather: Harsh desert sun streaming through window opening
+  characters:
+  - appearance: Same Roman official, 40s, now alone, visibly distressed, holding head
+    clothing: White toga with purple stripe, partially disheveled, sandals removed
+    position: Seated on stone bench beside window, hunched forward
+    action: Holding head in hands, occasionally looking out window with anguished expression
+  scene:
+    mainElements: Sparse Roman quarters with stone walls, narrow window opening, simple furniture, oil lamp
+    details: Rough limestone walls, stone window sill with bright sunlight streaming through, simple wooden chest, clay water
+      pitcher and basin, Roman coins scattered on small table, toga draped over chair back, leather scrolls on shelf
+    background: View through window shows Jerusalem cityscape, distant hills, harsh afternoon shadows
+    atmosphere: Solitude and moral anguish in stark stone chamber, weight of difficult decision pressing down, bright desert
+      light contrasting with inner darkness, no text or letters visible
+  composition:
+    cameraAngle: Medium shot from interior corner, capturing solitary figure and window light
+    focus: Roman official's posture of defeat and moral struggle
+    depth: 'Foreground: stone furniture and Roman personal items; middle ground: distressed figure in bright window light;
+      background: Jerusalem landscape through window opening'
+colorPalette:
+  primary:
+  - muted blues
+  - soft purples
+  - misty grays
+  secondary:
+  - pale golds
+  - dusty roses
+  - seafoam greens
+  background: gradient washes, nebulous
+  usageNotes: Soft, dreamy colors that blend into each other
+  saturation: low to medium
+  contrast: soft, hazy
+lineArt:
+  style: fluid, dissolving
+  weight: varied, sometimes fading
+  color: soft, often colored lines
+  texture: smooth, organic
+  edgeTreatment: soft, sometimes undefined
+lighting:
+  type: otherworldly, multiple sources
+  direction: illogical, dreamlike
+  intensity: soft, glowing
+  shadows:
+    style: soft, sometimes defying physics
+    color: colored shadows
+    opacity: translucent
+  highlights: ethereal glows
+rendering:
+  technique: smooth blending, sfumato
+  texture: soft, cloud-like
+  detailLevel: selective focus, some areas sharp, others dissolving
+  finish: dreamlike, atmospheric
+perspective: impossible, shifting, non-Euclidean
+mood:
+  overall: mysterious, contemplative, otherworldly
+  emotion: wonder, unease, transcendence
+  tempo: floating, timeless
+  keywords:
+  - mysterious
+  - dreamlike
+  - surreal
+  - metaphysical
+  - transcendent
+stylePrecedents:
+- Salvador Dalí
+- René Magritte
+- Remedios Varo
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

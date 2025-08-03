@@ -1,0 +1,25 @@
+sceneDescription:
+  title: Chaos of Battle
+  setting:
+    time: 1750s, dawn
+    location: Beach and jungle edge
+    weather: Red sunrise through smoke
+  characters:
+  - appearance: multiple figures in combat, faces contorted with rage and fear
+    clothing: mix of pirate and naval attire, all disheveled
+    position: scattered across beach in various fighting poses
+    action: some grappling, others running, fallen figures on sand
+  - appearance: teenage boy, 13 years old, terror and determination mixed
+    clothing: torn clothes, barefoot
+    position: running through shallow surf
+    action: dodging between fighters, carrying something precious
+  scene:
+    mainElements: beach transformed into battlefield, smoke from muskets drifting, chaos of close combat
+    details: footprints and blood in sand, abandoned weapons, overturned boats, seabirds fleeing, palm trees swaying from
+      impact, smoke creating hellish atmosphere, waves tinged red from sunrise, no text or letters visible
+    background: jungle edge where more fighters emerge, ship visible offshore
+    atmosphere: pure chaos, survival instinct overtaking thought, primal fear
+  composition:
+    cameraAngle: dynamic diagonal view across beach
+    focus: boy's path through violence, motion blur suggesting speed
+    depth: layered action from surf to jungle line

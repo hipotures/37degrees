@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1878 winter, evening
+    location: Elegant drawing room in aristocratic Warsaw townhouse, Congress Poland, furnished with crystal and velvet
+    weather: Not applicable - interior scene
+  characters:
+  - appearance: Beautiful woman in early 20s, blonde hair in evening style, unusually warm expression
+    clothing: Elegant evening gown of deep blue silk, pearl necklace, long gloves
+    position: Seated at piano, turned toward the man
+    action: Smiling genuinely while resting hand on piano keys
+  - appearance: Man in early 40s, dark hair, face transformed by hope
+    clothing: Formal evening wear, black tailcoat, white bow tie
+    position: Standing beside piano, leaning slightly toward her
+    action: Speaking animatedly while holding sheet music
+  - appearance: Aristocratic older woman in her 50s, sharp features
+    clothing: Elaborate burgundy gown with jewels
+    position: Seated in armchair near fireplace
+    action: Watching the pair with calculating expression
+  scene:
+    mainElements: Intimate drawing room scene with beautiful woman at piano showing unexpected warmth to merchant, creating
+      moment of connection, watchful chaperone nearby
+    details: Grand piano with candelabra casting warm light, sheet music scattered on piano top, oil paintings in gold frames,
+      Persian rug, crystal chandelier dimly lit, fireplace with low fire, velvet curtains drawn, mirrors reflecting candlelight,
+      vase of white roses on side table, no text or letters visible
+    background: Elegant furniture arranged throughout room, doorway to darkened hallway, family portraits on walls
+    atmosphere: Rare moment of genuine connection and warmth, tinged with underlying calculation and social surveillance
+  composition:
+    cameraAngle: Medium shot encompassing piano area and watching chaperone
+    focus: The fleeting moment of warmth between the unlikely pair
+    depth: Piano and couple in foreground, room furnishings in middle, chaperone in background
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

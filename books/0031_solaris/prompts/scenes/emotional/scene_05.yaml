@@ -1,0 +1,24 @@
+sceneDescription:
+  title: First Glimpse of the Living Ocean
+  setting:
+    time: 22nd century, evening with dual star lighting
+    location: Observatory deck of research station above planet Solaris
+    weather: Vacuum of space with protective atmospheric barrier
+  characters:
+  - appearance: Man, early 30s, brown hair, contemplative expression, hands pressed against viewing glass
+    clothing: Station uniform, jacket open casually
+    position: Standing at large observation window, leaning slightly forward
+    action: Gazing in fascination at the alien ocean below, scientific curiosity evident in attentive posture
+  scene:
+    mainElements: Massive transparent viewing window, panoramic view of planet Solaris, swirling patterns of living ocean
+      plasma creating impossible geometric formations
+    details: Reinforced transparent aluminum window frame, soft reflections of station lights on glass surface, control panels
+      with monitoring equipment nearby, no text or letters visible
+    background: Vast alien ocean surface with dynamic plasma formations, dual star system casting red and blue light across
+      planet surface, distant nebulae visible in space
+    atmosphere: Wonder and scientific fascination, peaceful contemplation, sense of witnessing something magnificent and unprecedented,
+      baseline curiosity before darker discoveries
+  composition:
+    cameraAngle: Medium shot from behind and slightly to the side
+    focus: Character silhouetted against the spectacular planetary view
+    depth: Character in foreground, window frame in middle ground, vast alien ocean filling background with dynamic patterns

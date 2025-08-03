@@ -13,7 +13,7 @@ from rich import print as rprint
 from src.config import get_config, set_override
 
 # Import CLI modules
-from src.cli import collections, list_books, video, ai, research, site
+from src.cli import collections, list_books, video, ai, research, site, convert_scenes
 
 console = Console()
 
@@ -109,6 +109,21 @@ Examples:
     site_parser = subparsers.add_parser('site', help='Generate static HTML site')
     site_parser.add_argument('target', nargs='?', help='Book ID, name, or collection (optional)')
     site_parser.add_argument('book_id', nargs='?', help='Book ID when target is collection')
+    
+    # Convert scenes command
+    convert_parser = subparsers.add_parser('convert-scenes', help='Convert scene files between JSON and YAML formats')
+    convert_parser.add_argument('path', help='File or directory path')
+    convert_parser.add_argument('--from', dest='from_format', required=True, 
+                               choices=['json', 'yaml', 'yml'],
+                               help='Source format')
+    convert_parser.add_argument('--to', dest='to_format', required=True,
+                               choices=['json', 'yaml', 'yml'],
+                               help='Target format')
+    convert_parser.add_argument('--output', '-o', help='Output path (for single file conversion)')
+    convert_parser.add_argument('--recursive', '-r', action='store_true', default=True,
+                               help='Process subdirectories (default: recursive)')
+    convert_parser.add_argument('--no-recursive', '-R', action='store_false', dest='recursive',
+                               help='Do not process subdirectories')
     
     args = parser.parse_args()
     
@@ -253,6 +268,25 @@ Examples:
             
         elif args.command == 'site':
             site.generate_site(args.target, args.book_id)
+            
+        elif args.command == 'convert-scenes':
+            # Call convert_scenes with proper arguments
+            from pathlib import Path
+            path_obj = Path(args.path)
+            
+            # Normalize format names
+            from_format = 'yaml' if args.from_format == 'yml' else args.from_format
+            to_format = 'yaml' if args.to_format == 'yml' else args.to_format
+            
+            if path_obj.is_file():
+                # Single file conversion
+                output_path = Path(args.output) if args.output else None
+                convert_scenes.convert_file(path_obj, output_path, from_format, to_format)
+            else:
+                # Directory conversion
+                if args.output:
+                    console.print("[yellow]Warning: --output option is ignored for directory conversion[/yellow]")
+                convert_scenes.convert_directory(path_obj, from_format, to_format, args.recursive)
             
     except KeyboardInterrupt:
         console.print("\n[yellow]Operation cancelled by user[/yellow]")

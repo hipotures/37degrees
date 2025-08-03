@@ -119,3 +119,7 @@ features:
   batch_operations: ${ENABLE_BATCH_OPS:-true}
   progress_bars: ${ENABLE_PROGRESS:-true}
   color_output: ${ENABLE_COLOR:-true}
+
+# Scene file format configuration
+scene_format:
+  format: ${SCENE_FORMAT:-yaml}  # json or yaml

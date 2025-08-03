@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 22nd century, deep night cycle
+    location: Personal quarters aboard research station orbiting planet Solaris
+    weather: Quiet station atmosphere with mechanical humming
+  characters:
+  - appearance: Man, early 30s, brown hair tousled, tense facial muscles even in attempted rest
+    clothing: Sleeping clothes, covers partially thrown off
+    position: Lying in narrow bed, turned on side facing wall
+    action: Attempting to sleep but clearly restless, one hand clenched unconsciously, subtle movement indicating unease
+  scene:
+    mainElements: Compact sleeping quarters with narrow bed, small porthole showing alien planet glow, minimal night lighting
+      from corridor seepage under door
+    details: Rumpled bedding showing restless movement, personal belongings creating shadows on wall, porthole casting eerie
+      reddish glow from planet below, ventilation creating white noise, no text or letters visible
+    background: Curved station wall architecture, glimpse of swirling planet surface through porthole, mechanical systems
+      creating subtle vibrations, darkness broken only by minimal lighting
+    atmosphere: Restless unease, subconscious awareness of something wrong, transition from conscious concern to unconscious
+      anxiety, isolation in the vastness of space becoming emotionally apparent
+  composition:
+    cameraAngle: Close-up side view of character in bed
+    focus: Character's restless body language despite attempted sleep
+    depth: Character in sharp foreground, room details in middle ground, porthole view creating distant focal point
+visualElements:
+  colorPalette:
+    primary:
+    - neon blue
+    - metallic gray
+    - glowing cyan
+    - steel silver
+    secondary:
+    - amber light
+    - deep space black
+    - violet sky
+    background: futuristic skyline or starfield
+    usageNotes: Cool tones dominate with pops of vibrant neon lighting
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: painterly sketches painted over
+    weight: n/a (lines hidden by painting)
+    color: n/a
+    texture: smooth digital, hard edges on tech
+    edgeTreatment: sharp silhouettes, atmospheric fade
+  lighting:
+    type: dramatic cinematic lighting
+    direction: multiple sources (city lights, backlights)
+    intensity: high contrast (bright neon vs deep shadow)
+    shadows:
+      style: long shadows, diffused by haze
+      color: cool blue or purple
+      opacity: deep
+    highlights: lens flares, neon glows on surfaces
+  rendering:
+    technique: digital painting with some photobash
+    texture: smooth with textured brushes for atmosphere
+    detailLevel: high in focal points (tech details), looser elsewhere
+    finish: polished, cinematic look
+  perspective: dynamic perspective (wide-angle vistas or low-angle hero shots)
+  mood:
+    overall: epic, futuristic, adventurous
+    emotion: awe, excitement, curiosity
+    tempo: dynamic, energetic
+    keywords:
+    - futuristic
+    - epic
+    - cinematic
+    - detailed
+    - atmospheric
+  stylePrecedents:
+  - Syd Mead (futurist designer)
+  - Blade Runner concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

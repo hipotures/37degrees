@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1750s, early evening
+    location: Interior of seaside inn, main room
+    weather: Clear sky visible through windows, sunset glow
+  characters:
+  - appearance: innkeeper, 45 years old, broad shoulders, friendly face
+    clothing: brown vest over white shirt, dark trousers, leather apron
+    position: behind wooden bar, polishing pewter tankard
+    action: chatting amiably with regular customers
+  - appearance: teenage boy, 13 years old, brown hair, attentive expression
+    clothing: simple work clothes, rolled up sleeves
+    position: carrying tray of steaming bowls to table
+    action: carefully balancing dishes, slight smile of concentration
+  - appearance: three local fishermen, various ages, weather-worn faces
+    clothing: practical wool clothing in blues and grays
+    position: seated around sturdy wooden table near fireplace
+    action: sharing stories, relaxed postures, occasional laughter
+  scene:
+    mainElements: cozy inn interior with exposed wooden beams, large stone fireplace with crackling fire, well-worn furniture
+      showing years of comfortable use
+    details: maritime decorations including ship models and brass compass, warm lamplight creating golden glow, steam rising
+      from hot meals, pipe smoke curling lazily, no text or letters visible
+    background: windows showing peaceful harbor at dusk, ships at anchor
+    atmosphere: familiar comfort, end-of-day relaxation, sense of belonging and routine
+  composition:
+    cameraAngle: three-quarter view encompassing main room
+    focus: harmonious scene of daily inn life
+    depth: bar and boy in foreground, seated customers mid-ground, fireplace background
+colorPalette:
+  primary:
+  - '#000000'
+  - '#FFFFFF'
+  secondary:
+  - sepia tones
+  - aged paper
+  background: cream or aged paper
+  usageNotes: Primarily monochromatic, occasional sepia wash
+  saturation: none to minimal
+  contrast: high through line density
+lineArt:
+  style: precise engraving lines
+  weight: very fine, built up in layers
+  color: black ink
+  texture: crosshatching, stippling
+  edgeTreatment: precise, controlled
+lighting:
+  type: classical, theatrical
+  direction: three-quarter lighting
+  intensity: dramatic through line density
+  shadows:
+    style: built through crosshatching
+    color: black line density
+    opacity: varied through technique
+  highlights: white paper showing through
+rendering:
+  technique: steel engraving simulation
+  texture: fine line patterns throughout
+  detailLevel: extremely high, meticulous
+  finish: printed illustration quality
+perspective: classical, accurate
+mood:
+  overall: formal, literary, refined
+  emotion: dignity, propriety, narrative drama
+  tempo: measured, contemplative
+  keywords:
+  - classical
+  - refined
+  - literary
+  - formal
+  - dignified
+stylePrecedents:
+- Gustave Doré
+- John Tenniel
+- George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,28 @@
+sceneDescription:
+  title: Lygia in the Arena - Moment of Choice
+  setting:
+    time: 64 AD, twilight, blue hour between day and night
+    location: Circus of Nero, arena filled with bloodthirsty Roman crowd
+    weather: Clear evening with deep blue sky and last orange glow on horizon
+  characters:
+  - appearance: Lygia, young Lygian princess in her twenties, blonde hair disheveled, face showing terror mixed with Christian
+      faith
+    clothing: Torn white tunic, ropes binding her to stake in arena, small fish pendant still visible at throat
+    position: Tied to wooden post in center of arena, awaiting release of wild aurochs
+    action: Praying silently while crowd bays for blood, eyes closed in communion with Christ, preparing for martyrdom
+  scene:
+    mainElements: Deep blue twilight sky with last traces of orange on western horizon, first oil lamps and torches beginning
+      to twinkle in city below
+    details: Moment of truth when faith meets death, arena torches creating pools of flickering light, crowd's faces twisted
+      with anticipation, wooden gate about to open releasing German aurochs, sand of arena soaked with previous martyrs' blood,
+      Ursus hidden in crowd preparing to intervene
+    background: Forum Romanum spread below with temples and basilicas becoming dark silhouettes dotted with lights, aqueducts
+      visible as dark lines across hills
+    atmosphere: Pivotal moment when innocent victim faces brutal death, arena charged with tension between Roman bloodlust
+      and Christian sacrifice, air thick with anticipation and divine intervention about to manifest through Ursus's superhuman
+      strength
+  composition:
+    cameraAngle: Medium shot showing figure against deep blue sky and city lights
+    focus: Woman silhouetted against twilight sky with emerging city lights below
+    depth: Foreground temple architecture in blue shadow, middle ground figure on steps, background city with scattered lights
+      in blue dusk

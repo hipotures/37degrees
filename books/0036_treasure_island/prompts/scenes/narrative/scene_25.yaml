@@ -1,0 +1,25 @@
+sceneDescription:
+  title: Return to the Admiral Benbow
+  setting:
+    time: 1750s, autumn afternoon
+    location: Admiral Benbow Inn, English coastal village
+    weather: similar to opening, crisp autumn day
+  characters:
+  - appearance: young man, 14 years old, taller and weathered
+    clothing: gentleman's traveling clothes, well-made
+    position: standing at same window as opening
+    action: looking out to sea with knowing eyes
+  - appearance: his mother, older, relieved
+    clothing: good dress, inn keeper attire
+    position: behind bar, watching her son
+    action: smiling with pride and concern
+  scene:
+    mainElements: same tavern as opening but subtly improved, young man where boy once stood, full circle but changed
+    details: new furniture bought with treasure money, same nautical decorations but cleaner, ledger books suggesting prosperity,
+      young man's hand resting on window where he once cleaned, distant gaze suggesting memories, no text or letters visible
+    background: same harbor view, fishing boats, but now seen differently
+    atmosphere: return home after transformation, innocence lost but wisdom gained, adventure's end but memories remain
+  composition:
+    cameraAngle: matching opening shot, wide view of tavern
+    focus: young man at window in same position as boy in scene 1
+    depth: tavern interior foreground, figure at window middle, sea view background

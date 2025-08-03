@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1930s Moscow, same supernatural night, mysterious study
+    location: Elegant study chamber existing in supernatural space, filled with books and manuscripts
+    weather: Interior, warm firelight and candlelight illumination
+  characters:
+  - appearance: Distinguished man, ageless appearance, dark hair, piercing eyes, now in private setting, more intimate demeanor
+    clothing: Black formal wear, slightly loosened from ball formality, cape draped over chair
+    position: Standing behind ornate desk covered with papers and manuscripts
+    action: Presenting thick manuscript with ceremonial gesture, slight smile on face
+  - appearance: Woman, early 30s, beautiful features, now restored to human form but still radiant
+    clothing: Elegant gown that appeared mysteriously, hair still crowned with flowers
+    position: Standing across desk from host, reaching toward offered manuscript
+    action: Extending trembling hands toward manuscript, expression of wonder and disbelief
+  scene:
+    mainElements: Luxurious study with floor-to-ceiling bookshelves, ornate desk, comfortable reading chairs, fireplace
+    details: Countless books and manuscripts filling shelves from floor to ceiling, ornate writing desk with leather inlay,
+      silver inkwell and pens, comfortable leather chairs near crackling fireplace, Persian rugs on polished floors, candlesticks
+      providing warm light
+    background: More bookshelves extending into shadowy depths, glimpses of rare manuscripts and ancient texts, mysterious
+      doorways leading to other chambers
+    atmosphere: Sacred moment of restoration, impossible gift being bestowed, literary sanctuary where destroyed works can
+      be reborn, warmth and comfort after ball's grandeur, no text or letters visible
+  composition:
+    cameraAngle: Medium shot across desk emphasizing exchange of manuscript
+    focus: The manuscript changing hands, symbol of art's indestructibility
+    depth: 'Foreground: ornate desk with manuscript as central element; middle ground: two figures in moment of exchange;
+      background: endless bookshelves fading into warm shadows'
+colorPalette:
+  primary:
+  - muted blues
+  - soft purples
+  - misty grays
+  secondary:
+  - pale golds
+  - dusty roses
+  - seafoam greens
+  background: gradient washes, nebulous
+  usageNotes: Soft, dreamy colors that blend into each other
+  saturation: low to medium
+  contrast: soft, hazy
+lineArt:
+  style: fluid, dissolving
+  weight: varied, sometimes fading
+  color: soft, often colored lines
+  texture: smooth, organic
+  edgeTreatment: soft, sometimes undefined
+lighting:
+  type: otherworldly, multiple sources
+  direction: illogical, dreamlike
+  intensity: soft, glowing
+  shadows:
+    style: soft, sometimes defying physics
+    color: colored shadows
+    opacity: translucent
+  highlights: ethereal glows
+rendering:
+  technique: smooth blending, sfumato
+  texture: soft, cloud-like
+  detailLevel: selective focus, some areas sharp, others dissolving
+  finish: dreamlike, atmospheric
+perspective: impossible, shifting, non-Euclidean
+mood:
+  overall: mysterious, contemplative, otherworldly
+  emotion: wonder, unease, transcendence
+  tempo: floating, timeless
+  keywords:
+  - mysterious
+  - dreamlike
+  - surreal
+  - metaphysical
+  - transcendent
+stylePrecedents:
+- Salvador Dalí
+- René Magritte
+- Remedios Varo
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

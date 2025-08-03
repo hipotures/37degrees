@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: 1930s Moscow, same night, supernatural ballroom
+    location: Magnificent ballroom existing outside normal space, opulent beyond description
+    weather: Interior supernatural space, dramatic lighting from countless candles
+  characters:
+  - appearance: Distinguished man, ageless appearance, dark hair, piercing eyes, now in full regalia as ball host
+    clothing: Black formal evening wear with decorations, cape lined with red silk, elegant appearance
+    position: Standing on raised platform overlooking ballroom floor
+    action: Gesturing grandly while welcoming guests, commanding presence over entire gathering
+  - appearance: Transformed woman, early 30s, dark hair, now serving as ball hostess, regal bearing
+    clothing: Nothing but jewels and flowers adorning her transformed body, crown of roses in dark hair
+    position: Standing beside the host on platform, graciously receiving guests
+    action: Extending hand to greet supernatural attendees, maintaining composure despite incredible surroundings
+  - appearance: Hundreds of supernatural beings, various forms, historical figures, spirits
+    clothing: Period costumes from across centuries, elegant formal wear from different eras
+    position: Filling vast ballroom floor, arranged in formal reception lines
+    action: Dancing, conversing, paying respects to hosts, creating atmosphere of grand celebration
+  scene:
+    mainElements: Impossibly vast ballroom with soaring ceiling, crystal chandeliers, marble columns, golden decorations
+    details: Countless candles in golden sconces, massive crystal chandeliers casting prismatic light, polished marble floors
+      reflecting dancing figures, ornate columns reaching toward vaulted ceiling, roses and tropical flowers in impossible
+      abundance
+    background: Ballroom extending beyond normal architectural limits, mysterious shadows in distant corners, glimpses of
+      other supernatural spaces through archways
+    atmosphere: Ultimate supernatural luxury and power on display, grand celebration existing outside normal reality, magnificent
+      ball serving darker purpose, beauty masking underlying menace, no text or letters visible
+  composition:
+    cameraAngle: Wide shot from ballroom floor looking up at hosts on platform
+    focus: The two hosts presiding over supernatural gathering with commanding presence
+    depth: 'Foreground: dancing supernatural guests in formal attire; middle ground: raised platform with ball hosts; background:
+      impossibly vast ballroom architecture extending into shadows'
+colorPalette:
+  primary:
+  - muted blues
+  - soft purples
+  - misty grays
+  secondary:
+  - pale golds
+  - dusty roses
+  - seafoam greens
+  background: gradient washes, nebulous
+  usageNotes: Soft, dreamy colors that blend into each other
+  saturation: low to medium
+  contrast: soft, hazy
+lineArt:
+  style: fluid, dissolving
+  weight: varied, sometimes fading
+  color: soft, often colored lines
+  texture: smooth, organic
+  edgeTreatment: soft, sometimes undefined
+lighting:
+  type: otherworldly, multiple sources
+  direction: illogical, dreamlike
+  intensity: soft, glowing
+  shadows:
+    style: soft, sometimes defying physics
+    color: colored shadows
+    opacity: translucent
+  highlights: ethereal glows
+rendering:
+  technique: smooth blending, sfumato
+  texture: soft, cloud-like
+  detailLevel: selective focus, some areas sharp, others dissolving
+  finish: dreamlike, atmospheric
+perspective: impossible, shifting, non-Euclidean
+mood:
+  overall: mysterious, contemplative, otherworldly
+  emotion: wonder, unease, transcendence
+  tempo: floating, timeless
+  keywords:
+  - mysterious
+  - dreamlike
+  - surreal
+  - metaphysical
+  - transcendent
+stylePrecedents:
+- Salvador Dalí
+- René Magritte
+- Remedios Varo
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

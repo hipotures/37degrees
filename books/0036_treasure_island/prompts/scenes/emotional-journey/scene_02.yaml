@@ -1,0 +1,29 @@
+sceneDescription:
+  title: Warm Interactions at Village Market
+  setting:
+    time: 1750s, mid-morning
+    location: Village square marketplace, cobblestone center
+    weather: Bright sunshine with scattered white clouds
+  characters:
+  - appearance: elderly fisherman, weathered face, white beard, stocky build
+    clothing: worn blue wool jacket, canvas trousers, knit cap
+    position: behind wooden stall displaying fresh fish
+    action: laughing heartily while handing wrapped fish to customer
+  - appearance: young mother, 30s, auburn hair, kind face
+    clothing: green cotton dress with brown shawl, woven basket on arm
+    position: standing at vegetable stall with small child
+    action: selecting apples while child reaches for bright vegetables
+  - appearance: merchant, 40s, round face, jovial expression
+    clothing: brown leather apron over white shirt, rolled sleeves
+    position: arranging bread loaves on display
+    action: offering free sample to passing elderly woman
+  scene:
+    mainElements: bustling village market with wooden stalls, colorful produce displays, friendly exchanges between neighbors
+    details: baskets overflowing with autumn vegetables, fresh bread aroma in air, children playing with wooden hoops nearby,
+      dogs lounging in sunny spots, flower garlands decorating stalls, no text or letters visible
+    background: Tudor-style buildings framing square, church spire visible above rooftops
+    atmosphere: warm community spirit, abundance and prosperity, genuine human connections
+  composition:
+    cameraAngle: eye-level view across market square
+    focus: interconnected web of friendly interactions
+    depth: market stalls and people in foreground, buildings mid-ground, sky background

@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 1750s, evening
+    location: Inn's private dining room
+    weather: Rain against windows
+  characters:
+  - appearance: middle-aged woman, face etched with grief
+    clothing: black dress, mourning shawl
+    position: seated at dinner table, one hand on empty chair
+    action: staring at untouched place setting, fingers tracing wood grain
+  - appearance: teenage boy, 13 years old, hollow-eyed
+    clothing: formal clothes, unusually neat
+    position: seated across from empty chair
+    action: pushing food around plate, unable to eat
+  scene:
+    mainElements: dinner table set for three but only two present, glaring absence made visible
+    details: third place setting untouched, candle flames reflecting in unused silverware, food growing cold, rain creating
+      rivers on window glass, clock ticking loudly in silence, no text or letters visible
+    background: family belongings visible but seeming distant, abandoned
+    atmosphere: profound loss, disrupted family unit, weight of absence
+  composition:
+    cameraAngle: overhead view emphasizing empty space
+    focus: empty chair as central void in family geometry
+    depth: table filling frame, emphasizing closeness yet separation
+colorPalette:
+  primary:
+  - '#000000'
+  - '#FFFFFF'
+  secondary:
+  - sepia tones
+  - aged paper
+  background: cream or aged paper
+  usageNotes: Primarily monochromatic, occasional sepia wash
+  saturation: none to minimal
+  contrast: high through line density
+lineArt:
+  style: precise engraving lines
+  weight: very fine, built up in layers
+  color: black ink
+  texture: crosshatching, stippling
+  edgeTreatment: precise, controlled
+lighting:
+  type: classical, theatrical
+  direction: three-quarter lighting
+  intensity: dramatic through line density
+  shadows:
+    style: built through crosshatching
+    color: black line density
+    opacity: varied through technique
+  highlights: white paper showing through
+rendering:
+  technique: steel engraving simulation
+  texture: fine line patterns throughout
+  detailLevel: extremely high, meticulous
+  finish: printed illustration quality
+perspective: classical, accurate
+mood:
+  overall: formal, literary, refined
+  emotion: dignity, propriety, narrative drama
+  tempo: measured, contemplative
+  keywords:
+  - classical
+  - refined
+  - literary
+  - formal
+  - dignified
+stylePrecedents:
+- Gustave Doré
+- John Tenniel
+- George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

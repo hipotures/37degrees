@@ -24,7 +24,7 @@ The prompt generation system transforms book configurations (`book.yaml`) into A
    - **automatic-style-selector.md** - Style selection helper
 
 3. **Graphic Styles** (`config/prompt/graphics-styles/`)
-   - 37 predefined visual styles in JSON format
+   - 37 predefined visual styles in YAML format
    - Each style includes detailed rendering instructions
    - Styles range from pencil sketches to 3D renders
 
@@ -50,7 +50,7 @@ Scene generation is done using the 37degrees custom command system:
 ```
 
 This creates scene descriptions in:
-- `books/NNNN_book_name/prompts/scenes/[type]/scene_XX.json`
+- `books/NNNN_book_name/prompts/scenes/[type]/scene_XX.yaml`
 
 Where `[type]` can be:
 - `narrative` - Story-driven scenes following plot
@@ -224,19 +224,19 @@ books/NNNN_book_name/
 └── prompts/
     ├── scenes/              # New format (v2.0+)
     │   ├── narrative/       # Story-following scenes
-    │   │   ├── scene_01.json
+    │   │   ├── scene_01.yaml
     │   │   └── ... (25 files)
     │   ├── flexible/        # Creative interpretation
-    │   │   ├── scene_01.json
+    │   │   ├── scene_01.yaml
     │   │   └── ... (25 files)
     │   ├── podcast/         # Ambient backgrounds
-    │   │   ├── scene_01.json
+    │   │   ├── scene_01.yaml
     │   │   └── ... (25 files)
     │   ├── atmospheric/     # Weather/mood focus
-    │   │   ├── scene_01.json
+    │   │   ├── scene_01.yaml
     │   │   └── ... (25 files)
     │   └── emotional-journey/ # Emotional arc
-    │       ├── scene_01.json
+    │       ├── scene_01.yaml
     │       └── ... (25 files)
     └── legacy/              # Old format prompts
         ├── scene_01_prompt.yaml

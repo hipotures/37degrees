@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 22nd century, twilight with dual star system creating ethereal lighting
+    location: Surface installation beside living ocean of planet Solaris
+    weather: Artificial atmospheric bubble protecting from toxic alien environment
+  characters:
+  - appearance: Man, early 30s, brown hair touched by alien light, face showing profound peace mixed with melancholic acceptance
+    clothing: Environmental suit with helmet removed, protected by atmospheric field
+    position: Kneeling at edge of alien ocean, one hand extended toward living plasma surface
+    action: Reaching out to touch alien intelligence directly, movement showing both reverence and acceptance of final mystery
+  scene:
+    mainElements: Living ocean surface responding to human presence, plasma formations reaching toward extended hand, atmospheric
+      protection field shimmering around contact point
+    details: Ocean surface creating perfect negative impression of human hand, plasma flowing in impossible patterns around
+      contact point, dual star light reflecting off living surface, atmospheric field distorting view slightly, no text or
+      letters visible
+    background: Vast alien ocean extending to horizon, dual star system casting red and blue light across plasma surface,
+      distant orbital station visible as small point in sky, cosmic environment emphasizing infinite scale
+    atmosphere: Profound mystical contact between human consciousness and incomprehensible alien intelligence, melancholic
+      beauty of brief understanding across impossible gulf, acceptance of mystery that cannot be solved but can be touched
+  composition:
+    cameraAngle: Close-up shot focusing on moment of contact
+    focus: Human hand meeting alien intelligence at surface interface
+    depth: Contact point in sharp foreground, kneeling figure in middle ground, infinite alien ocean extending into cosmic
+      background
+visualElements:
+  colorPalette:
+    primary:
+    - neon blue
+    - metallic gray
+    - glowing cyan
+    - steel silver
+    secondary:
+    - amber light
+    - deep space black
+    - violet sky
+    background: futuristic skyline or starfield
+    usageNotes: Cool tones dominate with pops of vibrant neon lighting
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: painterly sketches painted over
+    weight: n/a (lines hidden by painting)
+    color: n/a
+    texture: smooth digital, hard edges on tech
+    edgeTreatment: sharp silhouettes, atmospheric fade
+  lighting:
+    type: dramatic cinematic lighting
+    direction: multiple sources (city lights, backlights)
+    intensity: high contrast (bright neon vs deep shadow)
+    shadows:
+      style: long shadows, diffused by haze
+      color: cool blue or purple
+      opacity: deep
+    highlights: lens flares, neon glows on surfaces
+  rendering:
+    technique: digital painting with some photobash
+    texture: smooth with textured brushes for atmosphere
+    detailLevel: high in focal points (tech details), looser elsewhere
+    finish: polished, cinematic look
+  perspective: dynamic perspective (wide-angle vistas or low-angle hero shots)
+  mood:
+    overall: epic, futuristic, adventurous
+    emotion: awe, excitement, curiosity
+    tempo: dynamic, energetic
+    keywords:
+    - futuristic
+    - epic
+    - cinematic
+    - detailed
+    - atmospheric
+  stylePrecedents:
+  - Syd Mead (futurist designer)
+  - Blade Runner concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,22 @@
+sceneDescription:
+  title: Coastal Tavern at Sunset
+  setting:
+    time: 1750s, late afternoon
+    location: Admiral Benbow Inn, English coastal village, Devon
+    weather: Clear autumn day with orange sunset
+  characters:
+  - appearance: boy, 13 years old, brown hair, slight build
+    clothing: simple brown vest over white linen shirt, knee-length breeches
+    position: standing by window, looking out to sea
+    action: wiping window glass with cloth, gazing at horizon
+  scene:
+    mainElements: rustic seaside tavern with weathered wooden walls, small harbor visible through windows, fishing boats returning
+    details: nautical decorations on walls including old rope and ship wheels, wooden tables worn smooth, fireplace with glowing
+      embers, smell of salt air mixing with wood smoke, no text or letters visible
+    background: rocky cliffs rising behind village, seagulls circling overhead, distant sailing ships on horizon
+    atmosphere: peaceful end of day in quiet coastal village, golden light streaming through windows, sense of routine maritime
+      life
+  composition:
+    cameraAngle: wide establishing shot from inside tavern
+    focus: boy at window framed by warm interior and vast sea beyond
+    depth: tavern interior in foreground, boy mid-ground, harbor and sea in background

@@ -1,0 +1,26 @@
+sceneDescription:
+  title: Ben Gunn's Wild Appearance
+  setting:
+    time: 1750s, late afternoon
+    location: Jungle path, Treasure Island
+    weather: dappled sunlight through canopy
+  characters:
+  - appearance: wild man, 30s, sun-darkened skin, emaciated
+    clothing: tatters of old sail cloth, goatskin pieces
+    position: crouching behind tree, then emerging
+    action: approaching cautiously, hands raised peacefully
+  - appearance: boy, 13 years old, startled
+    clothing: sailor clothes, pistol in belt
+    position: frozen on jungle path
+    action: hand moving toward pistol, then stopping
+  scene:
+    mainElements: shocking encounter in dense jungle, marooned sailor revealed as more animal than man, boy's first independent
+      adventure on island
+    details: thick tropical vegetation, vines hanging down, strange birds calling, wild man's makeshift clothes, his beard
+      matted and long, scars from survival, hollow cheeks showing starvation, no text or letters visible
+    background: dense jungle in all directions, distant sound of surf
+    atmosphere: surreal meeting between civilization and wildness, boy's bravery tested, mystery of island deepening
+  composition:
+    cameraAngle: medium shot through jungle foliage
+    focus: moment of encounter between wild man and boy
+    depth: jungle framing foreground, characters middle, more jungle background

@@ -182,7 +182,7 @@ python main.py --config production.yaml video 17
 
 ### Przepływ Danych
 ```
-book.yaml → Generator Scen → Sceny JSON → Aplikacja Stylu → Prompty AI
+book.yaml → Generator Scen → Sceny YAML → Aplikacja Stylu → Prompty AI
                                                                     ↓
 Strona HTML ← Plik Video ← Renderowanie Klatek ← Obrazy AI ← Generator AI
 
@@ -207,7 +207,7 @@ books/docs/findings/ ← Kontrola Jakości ← Bibliografia ← Wyniki Badań
   - `podcast`: podział funkcjonalny (20% atmosfera, 32% postacie, 28% fabuła, 20% symbolika)
   - `atmospheric`: fokus na nastroju i klimacie
   - `emotional`: podróż emocjonalna bohaterów
-- **Pliki scen**: `books/*/prompts/scenes/[type]/scene_XX.json`
+- **Pliki scen**: `books/*/prompts/scenes/[type]/scene_XX.yaml`
 - **Biblioteka stylów**: 34 profesjonalne style graficzne w `config/prompt/graphics-styles/`
 
 #### 3. Bogata Biblioteka Stylów Wizualnych (34 style)

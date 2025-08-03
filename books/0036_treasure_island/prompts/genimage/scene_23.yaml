@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1750s, morning
+    location: Familiar village harbor
+    weather: Misty morning, sun breaking through
+  characters:
+  - appearance: teenage boy, 13 years old, visibly matured
+    clothing: travel-worn but dignified clothes
+    position: standing on dock, looking at unchanged village
+    action: observing familiar sights with new eyes, measured movements
+  - appearance: village woman, 40s, inn keeper's wife, aged by worry
+    clothing: familiar dress, black mourning band
+    position: approaching through morning mist
+    action: stopping in recognition, hand to heart, tears starting
+  - appearance: young village children, curious and shy
+    clothing: simple village clothes
+    position: peeking from behind buildings
+    action: whispering and pointing at returned traveler
+  scene:
+    mainElements: familiar village unchanged but seen through transformed eyes, morning mist creating dreamlike quality
+    details: same fishing boats but seeming smaller, inn sign creaking in breeze, flowers growing where none noticed before,
+      boy's sea chest beside him showing journey's end, everything familiar yet different, no text or letters visible
+    background: village awakening to normal day, unaware of boy's transformation
+    atmosphere: bittersweet return, innocence lost but wisdom gained, separation from past self
+  composition:
+    cameraAngle: boy's perspective showing village anew
+    focus: contrast between unchanged setting and changed viewer
+    depth: dock foreground, village middle, hills beyond
+colorPalette:
+  primary:
+  - '#000000'
+  - '#FFFFFF'
+  secondary:
+  - sepia tones
+  - aged paper
+  background: cream or aged paper
+  usageNotes: Primarily monochromatic, occasional sepia wash
+  saturation: none to minimal
+  contrast: high through line density
+lineArt:
+  style: precise engraving lines
+  weight: very fine, built up in layers
+  color: black ink
+  texture: crosshatching, stippling
+  edgeTreatment: precise, controlled
+lighting:
+  type: classical, theatrical
+  direction: three-quarter lighting
+  intensity: dramatic through line density
+  shadows:
+    style: built through crosshatching
+    color: black line density
+    opacity: varied through technique
+  highlights: white paper showing through
+rendering:
+  technique: steel engraving simulation
+  texture: fine line patterns throughout
+  detailLevel: extremely high, meticulous
+  finish: printed illustration quality
+perspective: classical, accurate
+mood:
+  overall: formal, literary, refined
+  emotion: dignity, propriety, narrative drama
+  tempo: measured, contemplative
+  keywords:
+  - classical
+  - refined
+  - literary
+  - formal
+  - dignified
+stylePrecedents:
+- Gustave Doré
+- John Tenniel
+- George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

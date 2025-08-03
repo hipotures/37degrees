@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: Early 1600s Spain, evening twilight
+    location: Rustic roadside inn, Spanish countryside between villages
+    weather: Clear evening, first stars appearing
+  characters:
+  - appearance: Thin knight, late 40s, maintaining noble bearing despite dust
+    clothing: Travel-worn armor, helmet under arm, red sash faded
+    position: Standing in inn courtyard, addressing building as if castle
+    action: Bowing formally to inn entrance, hand on sword hilt
+  - appearance: Stocky squire, early 40s, tired but alert
+    clothing: Dusty peasant clothes, traveling cloak
+    position: Still mounted on donkey, watching master with concern
+    action: Scratching head in confusion while holding both animals' reins
+  - appearance: Robust innkeeper, 50s, large belly, bald head
+    clothing: Stained apron over shirt, rolled sleeves
+    position: Standing in doorway with lantern
+    action: Staring in amazement at armored guest
+  scene:
+    mainElements: Simple two-story inn with stable attached, knight treating humble establishment as noble castle, comedy
+      of misperception, warm light spilling from windows and door, no text or letters visible
+    details: Wooden inn sign creaking in breeze, horses in stable yard, chickens roosting for night, wine barrels stacked
+      against wall, rough wooden benches outside, smoke from chimney, other travelers' horses tied to posts, water trough
+      for animals, no text or letters visible
+    background: Darkening countryside, silhouettes of distant hills, first evening stars
+    atmosphere: Collision between fantasy and reality, gentle comedy in knight's formal behavior at common inn, bewilderment
+      of ordinary people encountering extraordinary delusion, warm hospitality despite confusion, no text or letters visible
+  composition:
+    cameraAngle: Wide shot encompassing inn entrance and courtyard
+    focus: Triangle of interaction between knight, squire, and innkeeper
+    depth: Foreground shows inn detail, middle ground captures character interaction, background fades to evening landscape
+colorPalette:
+  primary:
+  - '#000000'
+  secondary:
+  - '#FFFFFF'
+  background: pure white
+  usageNotes: Black lines on white background only
+  saturation: n/a
+  contrast: maximum
+lineArt:
+  style: bold outlines only
+  weight: uniform thickness
+  color: '#000000'
+  texture: smooth, clean
+  edgeTreatment: crisp, vector-like
+lighting:
+  type: none
+  direction: n/a
+  intensity: n/a
+  shadows:
+    style: none
+    color: n/a
+    opacity: n/a
+  highlights: none
+rendering:
+  technique: clean vector-like lines
+  texture: none
+  detailLevel: simplified forms
+  finish: flat, no texture
+perspective: varies, often frontal
+mood:
+  overall: clean, minimal, modern
+  emotion: neutral, clear
+  tempo: static
+  keywords:
+  - minimal
+  - clean
+  - simple
+  - modern
+  - clear
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical
