@@ -1,0 +1,55 @@
+styleName: Concept Art Fantasy Style
+description: Digital painterly style for fantasy concept art with mythological themes and otherworldly atmosphere
+aiPrompts:
+  basePrompt: concept artwork, digital painterly art style, mythological, textured 2d dry media brushpack, glazed brushstrokes,
+    otherworldly, painting, illustration
+  negativePrompt: photo, distorted, blurry, out of focus, sketch, cgi, 3d
+  styleKeywords:
+  - concept art
+  - fantasy
+  - painterly
+  - mythological
+  - digital painting
+visualElements:
+  colorPalette:
+    primary:
+    - rich fantasy colors
+    - jewel tones
+    secondary:
+    - atmospheric colors
+    - magical glows
+    background: atmospheric, often dark or misty
+    usageNotes: Rich, layered colors with magical atmosphere
+    saturation: medium to high
+    contrast: medium to high
+  lineArt:
+    style: painterly, loose
+    weight: varied, often hidden
+    color: integrated into painting
+    texture: organic brushstrokes
+    edgeTreatment: soft, painterly edges
+  lighting:
+    type: dramatic, magical
+    direction: varied for atmosphere
+    intensity: high contrast areas
+    shadows:
+      style: painted, atmospheric
+      color: cool or warm depending on scene
+      opacity: varied
+    highlights: magical glows, rim lighting
+  rendering:
+    technique: digital painting with textured brushes
+    texture: dry media brush texture
+    detailLevel: moderate to high
+    finish: glazed, painterly
+  perspective: cinematic, dynamic
+  mood:
+    overall: mythological, otherworldly, epic
+    emotion: wonder, mystery, adventure
+    tempo: varies from calm to dramatic
+    keywords:
+    - epic
+    - mystical
+    - otherworldly
+    - fantasy
+    - mythological

@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 22nd century, night cycle
+    location: Corridor junction aboard research station orbiting planet Solaris
+    weather: Artificial atmosphere with slightly stale air circulation
+  characters:
+  - appearance: Man, early 30s, brown hair, alert but concerned expression, slightly defensive posture
+    clothing: Station uniform, hands in pockets
+    position: Standing near wall intersection, maintaining conversational distance
+    action: Listening intently to crew member's cryptic warnings, body language showing growing unease
+  - appearance: Man, 40s, gray hair, intense stare, pointing finger emphasizing words
+    clothing: Wrinkled station uniform, disheveled appearance
+    position: Leaning against corridor wall, gesturing with agitation
+    action: Speaking urgently in hushed tones, eyes darting nervously toward other areas of station
+  scene:
+    mainElements: Dimmed corridor lighting for night cycle, metal wall junctions, overhead ventilation grilles, shadows creating
+      pockets of darkness
+    details: Reduced lighting casting longer shadows, ventilation system humming more noticeably, occasional distant mechanical
+      sounds, worn floor surfaces showing traffic patterns, no text or letters visible
+    background: Corridors extending in multiple directions, doorways leading to darkened rooms, subtle reflections on metallic
+      surfaces, emergency lighting strips providing minimal illumination
+    atmosphere: Secretive urgency, paranoid undertones, breaking down of normal social boundaries, sense that something is
+      being deliberately hidden from the newcomer
+  composition:
+    cameraAngle: Medium shot capturing both characters in conversation
+    focus: Tension between characters' body language and expressions
+    depth: Characters in foreground, corridor junction providing geometric depth, shadowy background areas suggesting hidden
+      spaces
+visualElements:
+  colorPalette:
+    primary:
+    - neon blue
+    - metallic gray
+    - glowing cyan
+    - steel silver
+    secondary:
+    - amber light
+    - deep space black
+    - violet sky
+    background: futuristic skyline or starfield
+    usageNotes: Cool tones dominate with pops of vibrant neon lighting
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: painterly sketches painted over
+    weight: n/a (lines hidden by painting)
+    color: n/a
+    texture: smooth digital, hard edges on tech
+    edgeTreatment: sharp silhouettes, atmospheric fade
+  lighting:
+    type: dramatic cinematic lighting
+    direction: multiple sources (city lights, backlights)
+    intensity: high contrast (bright neon vs deep shadow)
+    shadows:
+      style: long shadows, diffused by haze
+      color: cool blue or purple
+      opacity: deep
+    highlights: lens flares, neon glows on surfaces
+  rendering:
+    technique: digital painting with some photobash
+    texture: smooth with textured brushes for atmosphere
+    detailLevel: high in focal points (tech details), looser elsewhere
+    finish: polished, cinematic look
+  perspective: dynamic perspective (wide-angle vistas or low-angle hero shots)
+  mood:
+    overall: epic, futuristic, adventurous
+    emotion: awe, excitement, curiosity
+    tempo: dynamic, energetic
+    keywords:
+    - futuristic
+    - epic
+    - cinematic
+    - detailed
+    - atmospheric
+  stylePrecedents:
+  - Syd Mead (futurist designer)
+  - Blade Runner concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

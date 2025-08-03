@@ -1,0 +1,28 @@
+sceneDescription:
+  title: Reunion in the Hospital Garden
+  setting:
+    time: 1930s Moscow, dawn after supernatural night, hospital grounds
+    location: Moscow psychiatric hospital garden, peaceful outdoor area with benches and flowers
+    weather: Early morning with soft sunlight, dew on grass and flowers
+  characters:
+  - appearance: Man, late 30s, dark hair, now looking healthier, eyes clearer and more focused
+    clothing: Hospital gown and robe, but cleaner appearance, hair combed, more alert posture
+    position: Sitting on garden bench, looking up with recognition and growing joy
+    action: Rising slowly from bench, extending arms in gesture of welcome and disbelief
+  - appearance: Woman, early 30s, beautiful features, now returned to normal but still glowing with inner light
+    clothing: Simple day dress, hair loose and natural, carrying something wrapped in cloth
+    position: Walking quickly through garden path toward bench
+    action: Moving with purpose and emotion, holding wrapped bundle close to chest
+  scene:
+    mainElements: Hospital garden with flower beds, gravel paths, wooden benches, mature trees providing shade
+    details: Morning dew sparkling on flower petals and grass, well-maintained flower beds with roses and other blooms, white
+      gravel paths between planted areas, wooden benches placed for patient relaxation, birds visible in tree branches
+    background: Hospital building visible through trees, other patients and staff at distance, city of Moscow beyond hospital
+      walls
+    atmosphere: Healing and reunion in peaceful garden setting, hope restored after dark night, love overcoming all obstacles
+      including supernatural forces, natural beauty supporting human reconciliation, no text or letters visible
+  composition:
+    cameraAngle: Medium shot capturing both figures and garden setting
+    focus: The moment of recognition and reunion between separated lovers
+    depth: 'Foreground: garden path and flower beds; middle ground: two figures meeting in emotional reunion; background:
+      hospital building and Moscow cityscape through garden trees'

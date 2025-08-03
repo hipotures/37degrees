@@ -1,0 +1,27 @@
+sceneDescription:
+  title: Discovery of the Map
+  setting:
+    time: 1750s, morning
+    location: Captain's room, Admiral Benbow Inn, Devon
+    weather: bright morning sunlight
+  characters:
+  - appearance: boy, 13 years old, excited and curious
+    clothing: vest and breeches
+    position: kneeling beside open sea chest
+    action: holding up an oilcloth packet, eyes wide with discovery
+  - appearance: middle-aged woman, brown hair, anxious
+    clothing: dress and apron
+    position: standing nearby watching
+    action: wringing hands nervously, glancing toward window
+  scene:
+    mainElements: open sea chest revealing contents, boy with discovered packet, morning light illuminating the moment of
+      discovery
+    details: sea chest lined with brass, containing folded clothes, a quadrant, pistols, bar of silver, oilcloth packet in
+      boy's hands catching the light, mother's worried expression, coins scattered on floor, no text or letters visible
+    background: simple room with window showing peaceful village beyond
+    atmosphere: moment of discovery that will change everything, mixture of excitement and danger, boy's innocent curiosity
+      about to launch great adventure
+  composition:
+    cameraAngle: medium shot from slightly above
+    focus: boy's wondering face and the mysterious packet
+    depth: boy and chest in foreground, mother mid-ground, bright window in background

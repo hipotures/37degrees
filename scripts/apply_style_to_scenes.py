@@ -10,29 +10,42 @@ import sys
 from pathlib import Path
 from typing import Dict, List, Optional, Any
 
+# Add src to path to import SceneFileHandler and config
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'src'))
+from scene_file_handler import SceneFileHandlerFactory
+from config import get_config
+
 
 class StyleApplicator:
     """Applies graphic styles to scene descriptions."""
     
     def __init__(self, base_dir: Path):
         self.base_dir = base_dir
-        self.tech_specs_path = base_dir / "config/prompt/technical-specifications.json"
+        self.tech_specs_path = base_dir / "config/prompt/technical-specifications.yaml"
         self.styles_dir = base_dir / "config/prompt/graphics-styles"
         
-    def load_json(self, path: Path) -> Dict[str, Any]:
-        """Load and parse JSON file."""
+        # Pobierz format scen z konfiguracji
+        config = get_config()
+        self.scene_format = config.get('scene_format', {}).get('format', 'yaml')
+        
+    def load_scene_file(self, path: Path, format_type: str = None) -> Dict[str, Any]:
+        """Load scene file in specified format."""
         try:
-            with open(path, 'r', encoding='utf-8') as f:
-                return json.load(f)
+            if format_type:
+                handler = SceneFileHandlerFactory.get_handler(format_type=format_type)
+                return handler.load(path)
+            else:
+                return SceneFileHandlerFactory.load_scene(path)
         except Exception as e:
             print(f"Error loading {path}: {e}")
             sys.exit(1)
     
-    def save_json(self, data: Dict[str, Any], path: Path) -> None:
-        """Save data as JSON file."""
+    def save_scene_file(self, data: Dict[str, Any], path: Path) -> None:
+        """Save data in configured scene format."""
         path.parent.mkdir(parents=True, exist_ok=True)
-        with open(path, 'w', encoding='utf-8') as f:
-            json.dump(data, f, indent=2, ensure_ascii=False)
+        # Użyj formatu z konfiguracji
+        path_with_ext = path.with_suffix(f'.{self.scene_format}')
+        SceneFileHandlerFactory.save_scene(data, path_with_ext)
     
     def find_book_dir(self, book_identifier: str) -> Optional[Path]:
         """Find book directory by number or name."""
@@ -53,7 +66,7 @@ class StyleApplicator:
     def merge_scene_with_style(self, scene_data: Dict[str, Any], 
                               style_data: Dict[str, Any], 
                               tech_specs: Dict[str, Any]) -> Dict[str, Any]:
-        """Merge scene, style, and technical specifications."""
+        """Merge scene, style, and technical specifications with 3-level structure."""
         
         # Extract sceneDescription without title
         scene_desc = scene_data.get('sceneDescription', {}).copy()
@@ -63,16 +76,33 @@ class StyleApplicator:
         # Fields to exclude from style
         style_excludes = {'styleName', 'description', 'aiPrompts'}
         
-        # Filter style fields
-        style_fields = {k: v for k, v in style_data.items() 
-                       if k not in style_excludes}
-        
-        # Merge all components
+        # Create 3-level structure
         merged = {
             'sceneDescription': scene_desc,
-            **style_fields,
-            **tech_specs
+            'visualElements': {},
+            'technicalSpecifications': {}
         }
+        
+        # Add style fields to visualElements
+        # Jeśli styl ma strukturę z visualElements, użyj jej
+        if 'visualElements' in style_data:
+            for k, v in style_data['visualElements'].items():
+                merged['visualElements'][k] = v
+        else:
+            # Stara struktura - wszystko poza metadata idzie do visualElements
+            for k, v in style_data.items():
+                if k not in style_excludes:
+                    merged['visualElements'][k] = v
+        
+        # Add tech specs to technicalSpecifications
+        # Jeśli tech_specs ma klucz 'technicalSpecifications', użyj jego zawartości
+        if 'technicalSpecifications' in tech_specs:
+            for k, v in tech_specs['technicalSpecifications'].items():
+                merged['technicalSpecifications'][k] = v
+        else:
+            # Jeśli nie ma klucza głównego, dodaj wszystko bezpośrednio
+            for k, v in tech_specs.items():
+                merged['technicalSpecifications'][k] = v
         
         return merged
     
@@ -88,17 +118,17 @@ class StyleApplicator:
         
         print(f"Found book: {book_dir.name}")
         
-        # Load style
-        style_path = self.styles_dir / f"{style_name}.json"
+        # Load style (teraz YAML)
+        style_path = self.styles_dir / f"{style_name}.yaml"
         if not style_path.exists():
             print(f"Error: Style '{style_name}' not found")
             sys.exit(1)
         
-        style_data = self.load_json(style_path)
+        style_data = self.load_scene_file(style_path, format_type='yaml')
         print(f"Loaded style: {style_name}")
         
-        # Load technical specifications
-        tech_specs = self.load_json(self.tech_specs_path)
+        # Load technical specifications (teraz YAML)
+        tech_specs = self.load_scene_file(self.tech_specs_path, format_type='yaml')
         print("Loaded technical specifications")
         
         # Setup paths
@@ -110,11 +140,12 @@ class StyleApplicator:
             sys.exit(1)
         
         # Determine which scenes to process
+        file_extension = f'.{self.scene_format}'
         if scene_number:
-            scene_files = [f"scene_{scene_number:02d}.json"]
+            scene_files = [f"scene_{scene_number:02d}{file_extension}"]
         else:
             scene_files = sorted([f for f in os.listdir(scenes_dir) 
-                                if f.startswith('scene_') and f.endswith('.json')])
+                                if f.startswith('scene_') and f.endswith(file_extension)])
         
         # Process scenes
         processed_count = 0
@@ -125,14 +156,14 @@ class StyleApplicator:
                 continue
             
             # Load scene
-            scene_data = self.load_json(scene_path)
+            scene_data = self.load_scene_file(scene_path)
             
             # Merge data
             merged = self.merge_scene_with_style(scene_data, style_data, tech_specs)
             
-            # Save output
-            output_path = output_dir / scene_file
-            self.save_json(merged, output_path)
+            # Save output (bez rozszerzenia - zostanie dodane przez save_scene_file)
+            output_path = output_dir / Path(scene_file).stem
+            self.save_scene_file(merged, output_path)
             
             processed_count += 1
             print(f"Processed: {scene_file}")

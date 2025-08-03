@@ -1,0 +1,58 @@
+styleName: Retro Pixel UI Icons Style
+description: Classic UI pixel icons with limited colors, reminiscent of early computer interfaces and system icons
+aiPrompts:
+  basePrompt: pixel art icon, UI element, retro computer interface, system icon style
+  negativePrompt: anti-aliased, smooth, gradients, complex details
+  styleKeywords:
+  - pixel icon
+  - UI
+  - retro interface
+  - system icon
+  - Windows 95 style
+visualElements:
+  colorPalette:
+    primary:
+    - '#F2F2F2'
+    - '#C0C0C0'
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - '#0000FF'
+    - '#00FF00'
+    - '#FFFF99'
+    - '#008080'
+    background: '#F2F2F2'
+    usageNotes: Classic system colors, flat application
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: pixel-perfect outlines
+    weight: 1px
+    color: '#000000'
+    texture: crisp pixels
+    edgeTreatment: hard edges only
+  lighting:
+    type: flat
+    direction: top-left
+    intensity: simple two-tone
+    shadows:
+      style: dithering or solid
+      color: '#808080'
+      opacity: solid
+    highlights: '#FFFFFF'
+  rendering:
+    technique: pixel placement at low resolution
+    texture: dithering patterns
+    detailLevel: minimal, iconic representation
+    finish: crisp, no anti-aliasing
+  perspective: frontal or isometric
+  mood:
+    overall: functional, nostalgic, clear
+    emotion: neutral, informative
+    tempo: static
+    keywords:
+    - functional
+    - retro UI
+    - clear
+    - iconic
+    - system

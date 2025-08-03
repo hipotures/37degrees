@@ -1,0 +1,29 @@
+sceneDescription:
+  title: The Long Road Home
+  setting:
+    time: Early 1600s Spain, early autumn, late afternoon
+    location: Dusty road through La Mancha countryside, Spain
+    weather: Golden sunset light, gentle breeze
+  characters:
+  - appearance: Thin man, late 40s, no longer in armor, aged by adventures
+    clothing: Simple traveling clothes, cloak over shoulders
+    position: Sitting sideways on old horse, slumped posture
+    action: Gazing at distant windmills without recognition
+  - appearance: Stocky companion, early 40s, protective and watchful
+    clothing: Peasant traveling attire, worn but clean
+    position: Walking beside horse, holding reins
+    action: Leading horse carefully, glancing up at rider with concern
+  scene:
+    mainElements: Defeated knight returning home as ordinary man, loyal squire now acting as caretaker, familiar landscape
+      of La Mancha, windmills just windmills now, journey ending where it began, no text or letters visible
+    details: Wooden cage cart following behind with salvaged armor pieces, donkey plodding along faithfully, dust motes in
+      golden light, familiar stone walls and olive groves, shepherds driving flocks home, church bells ringing vespers in
+      distance, worn path showing way home, no text or letters visible
+    background: La Mancha plains stretching endlessly, village rooftops becoming visible, windmills turning peacefully on
+      hills
+    atmosphere: Melancholy homecoming, dreams given up but dignity retained, friendship proven through trials, ordinary world
+      reclaiming extraordinary man, sunset on age of personal chivalry, quiet end to grand adventure, no text or letters visible
+  composition:
+    cameraAngle: Following shot from behind showing journey's end approaching
+    focus: Two figures moving slowly toward home with sunset ahead
+    depth: Foreground shows dusty road, middle ground captures returning pair, background reveals familiar village approaching

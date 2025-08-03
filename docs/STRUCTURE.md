@@ -78,16 +78,16 @@ The project has been reorganized to better support multimedia content for each b
 │   ├── settings.yaml         # Main configuration
 │   ├── generators.yaml       # Image generator settings
 │   └── prompt/               # Prompt generation configs
-│       ├── graphics-styles/  # Visual style definitions (JSON)
+│       ├── graphics-styles/  # Visual style definitions (YAML)
 │       ├── scene-generator/  # Scene generation templates
-│       │   ├── scene-description-template.json
+│       │   ├── scene-description-template.yaml
 │       │   ├── narrative-prompt-generator.md
 │       │   ├── flexible-prompt-generator.md
 │       │   ├── podcast-image-prompt-generator.md
 │       │   ├── atmospheric-moments-generator.md
 │       │   ├── emotional-journey-generator.md
 │       │   └── automatic-style-selector.md
-│       └── scene-description-template.json
+│       └── scene-description-template.yaml
 │
 ├── output/                    # Generated videos
 │

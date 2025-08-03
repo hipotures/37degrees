@@ -1,0 +1,25 @@
+sceneDescription:
+  title: The Empty Chair
+  setting:
+    time: 1750s, evening
+    location: Inn's private dining room
+    weather: Rain against windows
+  characters:
+  - appearance: middle-aged woman, face etched with grief
+    clothing: black dress, mourning shawl
+    position: seated at dinner table, one hand on empty chair
+    action: staring at untouched place setting, fingers tracing wood grain
+  - appearance: teenage boy, 13 years old, hollow-eyed
+    clothing: formal clothes, unusually neat
+    position: seated across from empty chair
+    action: pushing food around plate, unable to eat
+  scene:
+    mainElements: dinner table set for three but only two present, glaring absence made visible
+    details: third place setting untouched, candle flames reflecting in unused silverware, food growing cold, rain creating
+      rivers on window glass, clock ticking loudly in silence, no text or letters visible
+    background: family belongings visible but seeming distant, abandoned
+    atmosphere: profound loss, disrupted family unit, weight of absence
+  composition:
+    cameraAngle: overhead view emphasizing empty space
+    focus: empty chair as central void in family geometry
+    depth: table filling frame, emphasizing closeness yet separation

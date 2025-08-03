@@ -1,0 +1,29 @@
+sceneDescription:
+  title: The Young Scientist's Laboratory
+  setting:
+    time: 1878 autumn, evening
+    location: University laboratory in Warsaw, Congress Poland, scientific research facility with gas lighting and chemical
+      apparatus
+    weather: Not applicable - interior scene
+  characters:
+  - appearance: Young man in late 20s, intelligent face, enthusiastic expression, tousled brown hair
+    clothing: White laboratory coat over simple shirt and trousers, sleeves rolled up
+    position: Standing at laboratory bench with complex apparatus
+    action: Carefully adjusting glass tubes and burners while observing chemical reaction
+  - appearance: Man in early 40s, dark hair, interested but troubled expression
+    clothing: Business suit somewhat disheveled, tie loosened
+    position: Seated on stool watching the experiment
+    action: Listening intently while absently turning a gear from mechanical device
+  scene:
+    mainElements: University laboratory filled with scientific equipment, young scientist demonstrating experiment to merchant
+      friend, complex glass apparatus with colored liquids bubbling
+    details: Long wooden benches covered with beakers and test tubes, Bunsen burners with blue flames, glass retorts and distillation
+      equipment, periodic table chart on wall, anatomical models on shelves, brass microscopes, notebooks filled with diagrams,
+      gas jets providing light, no text or letters visible
+    background: Tall windows showing darkening sky, shelves of chemical bottles, blackboard with chalk formulas partially
+      erased
+    atmosphere: Scientific discovery and progress contrasting with personal melancholy, hope for the future through knowledge
+  composition:
+    cameraAngle: Wide shot showing both men and the laboratory setting
+    focus: The contrast between youthful scientific enthusiasm and mature disillusionment
+    depth: Experiment in foreground, two men in middle ground, laboratory extending into background

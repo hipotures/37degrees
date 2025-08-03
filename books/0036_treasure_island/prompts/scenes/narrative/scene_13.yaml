@@ -1,0 +1,30 @@
+sceneDescription:
+  title: The Apple Barrel Discovery
+  setting:
+    time: 1750s, night
+    location: Hold of the Hispaniola, at sea
+    weather: calm night, ship gently rocking
+  characters:
+  - appearance: boy, 13 years old, hidden and terrified
+    clothing: sailor's clothes
+    position: crouched inside large apple barrel
+    action: pressed against barrel side, hand over mouth, eyes wide with fear
+  - appearance: one-legged man, 40s, different demeanor than before
+    clothing: sailor clothes without apron
+    position: leaning against crates nearby
+    action: speaking in low, commanding voice, gesturing with pipe
+  - appearance: group of sailors, rough looking
+    clothing: typical sailor garb
+    position: gathered in shadows around Silver
+    action: listening intently, some nodding, weapons visible at belts
+  scene:
+    mainElements: dark ship's hold with boy trapped in barrel overhearing conspiracy, Silver revealed as pirate leader, moment
+      of terrible discovery
+    details: moonlight through grating creating dramatic shadows, apple barrel among other supplies, pistols and knives visible
+      on conspirators, boy's face partially visible showing terror, rats scurrying in corners, no text or letters visible
+    background: ship's supplies stacked around, ropes and sailing equipment
+    atmosphere: menace and betrayal revealed, boy's innocence shattered, dangerous secret discovered
+  composition:
+    cameraAngle: low angle from boy's perspective inside barrel
+    focus: boy's terrified face in foreground, Silver and pirates beyond
+    depth: inside of barrel foreground, conspirators middle, dark hold background

@@ -1,0 +1,76 @@
+sceneDescription:
+  setting:
+    time: 1878 winter, night
+    location: Railway tracks outside Warsaw, Congress Poland, industrial rail line connecting to Russian Empire network
+    weather: Clear cold night with stars
+  characters:
+  - appearance: Man in early 40s, wild-eyed, disheveled dark hair, face showing extreme anguish
+    clothing: Coat open despite cold, suit disordered, missing hat
+    position: Standing on railway tracks facing oncoming train
+    action: Arms spread wide, head tilted back looking at stars
+  scene:
+    mainElements: Man standing on railway tracks at night with distant train headlight approaching, creating long shadows
+      on the ground, moment of ultimate desperation
+    details: Steel rails gleaming in moonlight stretching into distance, telegraph poles creating rhythm along tracks, gravel
+      crunching underfoot, train's headlight growing brighter, whistle sounding in distance, man's shadow lengthening behind
+      him, breath visible in cold air, scattered clouds across starry sky, no text or letters visible
+    background: Dark forest on both sides of tracks, distant Warsaw lights on horizon, smoke from approaching train
+    atmosphere: Ultimate crisis and confrontation with mortality, the mechanical modern world versus human despair
+  composition:
+    cameraAngle: Low angle from track level showing man against night sky
+    focus: The man's figure silhouetted against approaching train light
+    depth: Man on tracks in foreground, long stretch of rails in middle, train light in far background
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,36 @@
+sceneDescription:
+  title: The Beach Duel at Barcelona
+  setting:
+    time: Early 1600s Spain, autumn, dawn
+    location: Beach near Barcelona, Mediterranean coast, Catalonia, Spain
+    weather: Cool morning, mist rising from sea
+  characters:
+  - appearance: Thin knight, late 40s, solemn and dignified despite age
+    clothing: Full armor reflecting dawn light, white plume in helmet
+    position: Mounted on horse at water's edge
+    action: Lance lowered, preparing to charge
+  - appearance: Knight of the White Moon, 30s, face hidden by closed helmet
+    clothing: Brilliant silver armor, white cloak, crescent moon emblem
+    position: Mounted on powerful white horse opposite
+    action: Mirror position with lance ready
+  - appearance: Stocky squire, early 40s, deeply worried
+    clothing: Good clothes from recent adventures
+    position: Standing with donkey far up beach
+    action: Wringing hands while watching
+  - appearance: Small crowd of Barcelona citizens, mixed ages
+    clothing: Urban morning attire
+    position: Gathered at safe distance on beach
+    action: Watching this strange dawn duel
+  scene:
+    mainElements: Two knights facing each other on beach at dawn, waves lapping at horses' hooves, formal duel about to begin,
+      city walls of Barcelona visible, destiny being decided, no text or letters visible
+    details: Horses pawing sand nervously, seabirds wheeling overhead, fishing boats pulled up on beach, foam from waves catching
+      morning light, footprints in wet sand, pieces of driftwood scattered, lances perfectly parallel, armor joints creaking
+      with tension, no text or letters visible
+    background: Barcelona's walls and towers in morning mist, Mediterranean stretching to horizon, mountains behind city
+    atmosphere: Formal ritual of combat, dignity in defeat approaching, mystery of challenger's identity, end of adventure
+      looming, beauty of dawn contrasting with violence about to occur, no text or letters visible
+  composition:
+    cameraAngle: Low side angle emphasizing confrontation against dawn sky
+    focus: Two mounted knights facing off with sea as backdrop
+    depth: Foreground shows wet sand and waves, middle ground captures duelists, background reveals Barcelona and sunrise

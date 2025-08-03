@@ -1,0 +1,31 @@
+sceneDescription:
+  title: Descent into Darkness
+  setting:
+    time: 1878 winter, late evening
+    location: Seedy tavern in Warsaw's poor district, Congress Poland, rough working-class drinking establishment
+    weather: Foggy night visible through grimy windows
+  characters:
+  - appearance: Man in early 40s, dark hair unkempt, hollow eyes, several days of stubble
+    clothing: Once-fine suit now wrinkled and stained, cravat undone
+    position: Slumped at rough wooden table in corner
+    action: Staring into empty glass while gesturing for another drink
+  - appearance: Rough-looking men of various ages, workers and unemployed
+    clothing: Coarse work clothes, caps, heavy boots
+    position: Scattered at other tables
+    action: Drinking, playing cards, casting curious glances at the well-dressed stranger
+  - appearance: Tavern keeper, heavy-set man in his 50s
+    clothing: Stained apron over shirt, rolled sleeves
+    position: Behind wooden bar
+    action: Pouring vodka while eyeing the merchant's gold watch chain
+  scene:
+    mainElements: Squalid tavern interior with once-wealthy merchant drinking among society's lowest, his fine clothes marking
+      him as outsider in this rough establishment
+    details: Rough wooden tables scarred by knives, tallow candles providing smoky light, sawdust on floor soaking up spills,
+      crude benches, bottles behind bar, pipe smoke creating haze, broken window patched with board, empty bottles accumulating
+      at merchant's table, no text or letters visible
+    background: Other patrons in shadowy corners, staircase leading to questionable upper rooms, door to back alley
+    atmosphere: Degradation and despair, the merchant's fall from highest society to lowest depths
+  composition:
+    cameraAngle: Low angle emphasizing the sordid environment
+    focus: The merchant isolated in his corner, a fallen angel among demons
+    depth: Merchant's table in foreground, tavern interior in middle, bar and keeper in background

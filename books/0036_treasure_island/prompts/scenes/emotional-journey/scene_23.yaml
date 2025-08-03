@@ -1,0 +1,29 @@
+sceneDescription:
+  title: Changed Homecoming
+  setting:
+    time: 1750s, morning
+    location: Familiar village harbor
+    weather: Misty morning, sun breaking through
+  characters:
+  - appearance: teenage boy, 13 years old, visibly matured
+    clothing: travel-worn but dignified clothes
+    position: standing on dock, looking at unchanged village
+    action: observing familiar sights with new eyes, measured movements
+  - appearance: village woman, 40s, inn keeper's wife, aged by worry
+    clothing: familiar dress, black mourning band
+    position: approaching through morning mist
+    action: stopping in recognition, hand to heart, tears starting
+  - appearance: young village children, curious and shy
+    clothing: simple village clothes
+    position: peeking from behind buildings
+    action: whispering and pointing at returned traveler
+  scene:
+    mainElements: familiar village unchanged but seen through transformed eyes, morning mist creating dreamlike quality
+    details: same fishing boats but seeming smaller, inn sign creaking in breeze, flowers growing where none noticed before,
+      boy's sea chest beside him showing journey's end, everything familiar yet different, no text or letters visible
+    background: village awakening to normal day, unaware of boy's transformation
+    atmosphere: bittersweet return, innocence lost but wisdom gained, separation from past self
+  composition:
+    cameraAngle: boy's perspective showing village anew
+    focus: contrast between unchanged setting and changed viewer
+    depth: dock foreground, village middle, hills beyond

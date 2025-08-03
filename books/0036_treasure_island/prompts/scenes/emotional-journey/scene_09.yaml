@@ -1,0 +1,29 @@
+sceneDescription:
+  title: Clenched Fists and Rigid Backs
+  setting:
+    time: 1750s, midday
+    location: Village street outside inn
+    weather: Blustery wind, clouds racing overhead
+  characters:
+  - appearance: burly man, 40s, red face, thick neck
+    clothing: rough seaman's jacket, worn boots
+    position: standing aggressively in street
+    action: fists clenched at sides, jaw tight, leaning forward threateningly
+  - appearance: teenage boy, 13 years old, trying to appear brave
+    clothing: simple work clothes whipping in wind
+    position: backed against inn wall
+    action: chin raised defiantly but hands trembling slightly
+  - appearance: village shopkeeper, 50s, normally friendly face now cold
+    clothing: merchant's apron over wool coat
+    position: standing in his doorway across street
+    action: arms crossed tightly, deliberately looking away
+  scene:
+    mainElements: tense confrontation in previously peaceful village street, bystanders keeping distance
+    details: shutters closing on windows, mother pulling child indoors, dog slinking away with tail low, papers blowing in
+      wind, tension visible in every rigid posture, no text or letters visible
+    background: familiar village buildings now seeming to loom threateningly
+    atmosphere: community cohesion fracturing, fear replacing trust
+  composition:
+    cameraAngle: street-level view emphasizing confrontation
+    focus: body language telling story of conflict
+    depth: confrontation foreground, withdrawing villagers background

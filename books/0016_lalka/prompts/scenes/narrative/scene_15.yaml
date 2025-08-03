@@ -1,0 +1,25 @@
+sceneDescription:
+  title: The Merchant at the Crossroads
+  setting:
+    time: 1878 winter, twilight
+    location: Public park on Warsaw outskirts, Congress Poland, with well-maintained paths diverging through wooded area
+    weather: Overcast with last light fading
+  characters:
+  - appearance: Man in early 40s, dark hair disheveled, intense inner struggle visible in posture
+    clothing: Business suit somewhat rumpled, coat unbuttoned, hat in hand
+    position: Standing exactly where two paths diverge
+    action: Looking back and forth between paths, one foot planted on each direction
+  scene:
+    mainElements: Man alone at literal crossroads in park, two distinct paths visible - one leading uphill toward lights of
+      prosperous district, other descending into darker wooded area
+    details: Wooden signpost with two directional arrows at path junction, left path wide and well-maintained leading upward
+      toward warm lamp lights visible through trees, right path narrow and overgrown descending into shadowy forest, gravel
+      crunching under his feet, dropped glove on ground behind him, no text or letters visible
+    background: City lights beginning to glow in distance up left path, dark forest depths down right path, last rays of sunset
+      through clouds
+    atmosphere: Physical manifestation of life choice, the moment of decision between continuing social climbing or abandoning
+      worldly ambitions
+  composition:
+    cameraAngle: Wide shot from behind showing man and both path options
+    focus: The merchant's position literally between two paths
+    depth: Man at crossroads in foreground, diverging paths in middle, contrasting destinations in background

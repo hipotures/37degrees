@@ -1,0 +1,32 @@
+sceneDescription:
+  title: Encounter with Traveling Merchants
+  setting:
+    time: Early 1600s Spain, summer, noon
+    location: Crossroads on main trade route, Spanish countryside
+    weather: Hot sun, dust from road traffic
+  characters:
+  - appearance: Thin knight, late 40s, bandaged but determined
+    clothing: Repaired armor, fresh plume in helmet, lance replaced with long stick
+    position: Mounted, blocking road with lance held horizontally
+    action: Demanding something from merchants with grand gestures
+  - appearance: Group of silk merchants, various ages, prosperous looking
+    clothing: Fine traveling clothes, broad-brimmed hats, quality fabrics
+    position: Mounted on good horses, stopped by knight's blockade
+    action: Looking at each other in confusion and amusement
+  - appearance: Stocky squire, early 40s, apologetic expression
+    clothing: Usual peasant attire, dusty from road
+    position: On donkey to side, partially hidden
+    action: Making apologetic gestures to merchants behind knight's back
+  scene:
+    mainElements: Knight blocking merchant caravan at crossroads, demanding they acknowledge something, merchants caught between
+      amusement and irritation, squire trying to minimize damage, no text or letters visible
+    details: Loaded pack mules with silk bundles, guards with hands on sword hilts, crossroads marked by old stone cross,
+      dust clouds from stopped caravan, merchant ledgers in saddlebags, water gourds being passed, shade of single tree where
+      roads meet, milestone showing distances, no text or letters visible
+    background: Rolling hills with olive groves, distant town visible on hilltop, heat shimmer on road
+    atmosphere: Collision of commerce and chivalry, practical world meeting impractical idealism, tension between humor and
+      potential violence, social comedy of different classes interacting, no text or letters visible
+  composition:
+    cameraAngle: Wide shot showing full confrontation at crossroads
+    focus: Knight as barrier between normal world and his fantasy
+    depth: Foreground shows knight blocking path, middle ground captures halted merchants, background reveals diverging roads

@@ -1,0 +1,27 @@
+sceneDescription:
+  title: Persecution Floods Rome with Christian Blood
+  setting:
+    time: 64 AD, afternoon, severe weather extreme
+    location: Lower Subura district, narrow street between tall buildings
+    weather: Blood-red sunset casting ominous light over city during mass persecution
+  characters:
+  - appearance: Group of Christians fleeing persecution, mixed ages from children to elderly, faces showing terror but spiritual
+      determination
+    clothing: Simple tunics torn from fleeing Roman soldiers, hidden cross pendants, bare feet from running
+    position: Moving through streets toward catacombs, staying in shadows
+    action: Helping each other escape Roman persecution, carrying sacred books and church treasures, seeking underground sanctuary
+  scene:
+    mainElements: Street transformed into rushing river, water pouring from rooftops and overflowing gutters, debris carried
+      by current
+    details: Persecution spreading so rapidly through city, Roman soldiers marching with torches, Christians' possessions
+      abandoned in streets, faithful believers helping each other escape, blood-red light reflecting off wet stones like spilled
+      martyrs' blood, soldiers' armor clanking ominously
+    background: Five-story insulae with water pouring from every opening, streets becoming impassable rivers, people visible
+      in upper windows watching flood
+    atmosphere: Imperial persecution overwhelming Christian community, believers' cooperation in mortal crisis, dramatic power
+      of tyrannical extremes, urgent struggle against overwhelming evil seeking their destruction
+  composition:
+    cameraAngle: Eye level in flood water showing people struggling through current
+    focus: Group of figures helping each other through rushing flood water
+    depth: Foreground churning flood water with debris, middle ground struggling figures, background buildings with water
+      cascading from heights

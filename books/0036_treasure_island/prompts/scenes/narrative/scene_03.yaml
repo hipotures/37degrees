@@ -1,0 +1,26 @@
+sceneDescription:
+  title: The Sea Dog Arrives
+  setting:
+    time: 1750s, stormy afternoon
+    location: Admiral Benbow Inn entrance, coastal village, Devon
+    weather: dark storm clouds gathering, wind picking up
+  characters:
+  - appearance: weathered man, 50s, tall and powerful build, scarred face
+    clothing: stained blue naval coat, soiled cocked hat, sea boots
+    position: standing in doorway, sea chest beside him
+    action: surveying room with suspicious eyes, hand near coat pocket
+  - appearance: boy, 13 years old, brown hair, slight build
+    clothing: simple brown vest over white shirt, breeches
+    position: behind bar counter
+    action: frozen in place, staring at newcomer with wide eyes
+  scene:
+    mainElements: tavern doorway framing intimidating stranger, heavy sea chest with brass corners, boy visible behind bar
+    details: rain beginning to spatter windows, candles flickering in draft, stranger's coat dripping, cutlass handle visible
+      at his side, tar stains on hands, no text or letters visible
+    background: dark storm clouds through windows, empty tavern tables
+    atmosphere: sudden tension and fear, arrival of danger into peaceful setting, boy's first encounter with rough seafaring
+      world
+  composition:
+    cameraAngle: medium shot from inside tavern
+    focus: menacing stranger silhouetted in doorway
+    depth: stranger in foreground, boy at bar in background, storm visible through door

@@ -26,10 +26,10 @@ Navigate to the `prompts/genimage/` directory for this book
 
 ## 3. Generation Process
 
-Choose one JSON file in numerical order (scene_01.json, scene_02.json, etc. /ignore files ended with done, e.g. scene_01.json.done/ ):
+Choose one YAML file in numerical order (scene_01.yaml, scene_02.yaml, etc. /ignore files ended with done, e.g. scene_01.yaml.done/ ):
 
-### a) Prepare JSON File
-- Locate the appropriate JSON file in `prompts/genimage/` folder (e.g., `scene_01.json`)
+### a) Prepare YAML File
+- Locate the appropriate YAML file in `prompts/genimage/` folder (e.g., `scene_01.yaml`)
 
 ### b) Configure ChatGPT - NEW METHOD WITH FILE ATTACHMENT
 - Ensure you're in the project for this book (created in step 2a)
@@ -37,18 +37,18 @@ Choose one JSON file in numerical order (scene_01.json, scene_02.json, etc. /ign
   - Click "+" (plus) button at the bottom of chat window
   - Select "Add photos & files" from menu
   - In file selection dialog, navigate to the book's `prompts/genimage/` folder
-  - Select appropriate JSON file (e.g., `scene_01.json`)
-  - After attaching file, type exactly this text in text field: `Create an image based on the scene, style, and visual specifications described in the attached JSON. The JSON is a blueprint, not the content.`
+  - Select appropriate YAML file (e.g., `scene_01.yaml`)
+  - After attaching file, type exactly this text in text field: `Create an image based on the scene, style, and visual specifications described in the attached YAML. The YAML is a blueprint, not the content.`
   - Click "Choose tool" button (left side of text field)
   - From dropdown menu select "Create image"
   - Send prompt by clicking send button (arrow)
 - **OLD METHOD (ALTERNATIVE)**:
-  - Open JSON file and copy its content
-  - Paste **ONLY** clean JSON content (no additional instructions)
+  - Open YAML file and copy its content
+  - Paste **ONLY** clean YAML content (no additional instructions)
   - Set image generation tool (click "Choose tool" → "Create image")
   - Send prompt
 
-### After send promtp, rename json file from prompts/genimage/ adding .done at the end of filename, e.g. mv scene_01.json scene_01.json.done
+### After send promtp, rename yaml file from prompts/genimage/ adding .done at the end of filename, e.g. mv scene_01.yaml scene_01.yaml.done
 
 ## IMPORTANT LIMITATIONS
 
@@ -59,9 +59,9 @@ Choose one JSON file in numerical order (scene_01.json, scene_02.json, etc. /ign
 ## Example Naming
 
 For book e.g. "Treasure Island" (number 0036):
-- `scene_01.json` → `0036_scene_01.png`
-- `scene_02.json` → `0036_scene_02.png`
-- `scene_03.json` → `0036_scene_03.png`
+- `scene_01.yaml` → `0036_scene_01.png`
+- `scene_02.yaml` → `0036_scene_02.png`
+- `scene_03.yaml` → `0036_scene_03.png`
 - etc.
 
 ## Directory Structure
@@ -70,9 +70,9 @@ For book e.g. "Treasure Island" (number 0036):
 books/
   0036_treasure_island/
     prompts/
-      genimage/         # Source JSON files here
-        scene_01.json
-        scene_02.json
+      genimage/         # Source YAML files here
+        scene_01.yaml
+        scene_02.yaml
         ...
     generated/          # Save generated images here
         0036_scene_01.png

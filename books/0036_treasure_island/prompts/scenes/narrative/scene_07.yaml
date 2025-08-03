@@ -1,0 +1,29 @@
+sceneDescription:
+  title: The Captain's Final Hour
+  setting:
+    time: 1750s, dawn breaking
+    location: Captain's room, Admiral Benbow Inn, Devon
+    weather: pale morning light through window
+  characters:
+  - appearance: dying seaman, 50s, face twisted in final agony
+    clothing: nightshirt soaked with sweat
+    position: collapsed on floor beside bed
+    action: one hand clutched to chest, other reaching out
+  - appearance: boy, 13 years old, shocked and pale
+    clothing: hastily thrown on vest and breeches
+    position: kneeling beside fallen man
+    action: trying to help but clearly overwhelmed
+  - appearance: middle-aged woman, brown hair in cap, worried
+    clothing: simple dress with apron
+    position: standing in doorway
+    action: hand to mouth in shock
+  scene:
+    mainElements: small bedroom in chaos, dying man on floor, boy's first encounter with death, mother witnessing scene
+    details: overturned chair, spilled water pitcher, sea chest in corner with brass corners gleaming, first rays of dawn
+      through window illuminating tragedy, medical bottle on nightstand, no text or letters visible
+    background: simple room with nautical mementos on walls, view of sea through window
+    atmosphere: death arriving with the dawn, boy forced to confront mortality, end of one chapter of his life
+  composition:
+    cameraAngle: high angle looking down on tragic scene
+    focus: dying captain and boy's shocked face
+    depth: death scene foreground, mother in doorway middle, dawn light streaming in background

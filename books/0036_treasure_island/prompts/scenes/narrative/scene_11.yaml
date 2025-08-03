@@ -1,0 +1,29 @@
+sceneDescription:
+  title: The Hispaniola Sets Sail
+  setting:
+    time: 1750s, morning tide
+    location: Bristol harbor, aboard the Hispaniola
+    weather: fair wind, clear skies
+  characters:
+  - appearance: boy, 13 years old, excited
+    clothing: sailor's jacket and cap, new
+    position: at ship's rail looking back at harbor
+    action: gripping rail, face bright with adventure
+  - appearance: captain, 50s, stern and professional
+    clothing: naval uniform, tricorn hat
+    position: on quarterdeck
+    action: shouting orders, pointing aloft
+  - appearance: crew of sailors, various ages
+    clothing: typical sailor garb
+    position: in rigging and on deck
+    action: hauling lines, unfurling sails
+  scene:
+    mainElements: merchant ship leaving harbor under full sail, crew in coordinated action, boy's first sea voyage beginning
+    details: white sails filling with wind, rigging alive with sailors, dock workers waving farewell, seabirds following ship,
+      Bristol's buildings receding, anchor being hauled up dripping, no text or letters visible
+    background: Bristol harbor growing smaller, other ships at anchor, English coastline
+    atmosphere: exhilaration of departure, organized chaos of setting sail, boy's life-changing journey beginning
+  composition:
+    cameraAngle: dynamic shot from mid-ship showing activity
+    focus: boy at rail with busy ship around him
+    depth: ship's deck foreground, harbor middle distance, coastline background

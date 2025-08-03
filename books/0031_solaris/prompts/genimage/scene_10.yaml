@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 22nd century, morning
+    location: Personal quarters and common areas aboard research station orbiting planet Solaris
+    weather: Artificial atmosphere with unusual pressure variations
+  characters:
+  - appearance: Man, early 30s, brown hair uncombed, tired eyes, movements lacking usual precision
+    clothing: Station uniform hastily put on, slightly wrinkled, collar askew
+    position: Standing in doorway between quarters and corridor, hesitating
+    action: Pausing uncertainly, looking down corridor as if expecting something, hand resting on door frame for psychological
+      support
+  scene:
+    mainElements: Doorway threshold between private and public space, corridor extending in both directions, subtle signs
+      of changed routine and disrupted normalcy
+    details: Door frame showing wear patterns from hands gripping it, floor showing irregular cleaning patterns, lighting
+      slightly dimmer than previous days, personal items visible in quarters behind character, no text or letters visible
+    background: Corridor with fewer normal activity sounds, shadows seeming deeper, sense of emptiness where there should
+      be routine bustle, mechanical sounds more noticeable in the quiet
+    atmosphere: Broken routine, increasing paranoia, sense that normal patterns have been fundamentally disrupted, growing
+      awareness that this assignment is not what was expected
+  composition:
+    cameraAngle: Medium shot from corridor looking toward character in doorway
+    focus: Character's hesitation and disrupted confidence
+    depth: Character silhouetted in doorway, quarters visible behind in middle ground, corridor extending into background
+      uncertainty
+visualElements:
+  colorPalette:
+    primary:
+    - neon blue
+    - metallic gray
+    - glowing cyan
+    - steel silver
+    secondary:
+    - amber light
+    - deep space black
+    - violet sky
+    background: futuristic skyline or starfield
+    usageNotes: Cool tones dominate with pops of vibrant neon lighting
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: painterly sketches painted over
+    weight: n/a (lines hidden by painting)
+    color: n/a
+    texture: smooth digital, hard edges on tech
+    edgeTreatment: sharp silhouettes, atmospheric fade
+  lighting:
+    type: dramatic cinematic lighting
+    direction: multiple sources (city lights, backlights)
+    intensity: high contrast (bright neon vs deep shadow)
+    shadows:
+      style: long shadows, diffused by haze
+      color: cool blue or purple
+      opacity: deep
+    highlights: lens flares, neon glows on surfaces
+  rendering:
+    technique: digital painting with some photobash
+    texture: smooth with textured brushes for atmosphere
+    detailLevel: high in focal points (tech details), looser elsewhere
+    finish: polished, cinematic look
+  perspective: dynamic perspective (wide-angle vistas or low-angle hero shots)
+  mood:
+    overall: epic, futuristic, adventurous
+    emotion: awe, excitement, curiosity
+    tempo: dynamic, energetic
+    keywords:
+    - futuristic
+    - epic
+    - cinematic
+    - detailed
+    - atmospheric
+  stylePrecedents:
+  - Syd Mead (futurist designer)
+  - Blade Runner concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,58 @@
+styleName: Anime Style
+description: Japanese animation aesthetic with bold outlines, cel-shaded coloring, and expressive character design
+aiPrompts:
+  basePrompt: anime, bold outline, cel-shaded coloring, shounen, seinen
+  negativePrompt: photo, greyscale, solid black, painting, realistic
+  styleKeywords:
+  - anime
+  - manga
+  - cel-shaded
+  - shounen
+  - seinen
+  - Japanese animation
+visualElements:
+  colorPalette:
+    primary:
+    - bright vibrant colors
+    - pastel tones
+    secondary:
+    - darker shades for shadows
+    - highlight colors
+    background: often simple or gradient backgrounds
+    usageNotes: Flat colors with cel shading, limited gradients
+    saturation: high
+    contrast: medium to high
+  lineArt:
+    style: bold outline
+    weight: thick black lines
+    color: '#000000'
+    texture: clean, smooth
+    edgeTreatment: crisp and defined
+  lighting:
+    type: cel-shaded
+    direction: typically top or three-quarter
+    intensity: moderate
+    shadows:
+      style: flat colors with cel shading
+      color: darker version of base color
+      opacity: solid
+    highlights: bright spots on hair and eyes
+  rendering:
+    technique: digital cel animation style
+    texture: smooth, clean surfaces
+    detailLevel: moderate with focus on expression
+    finish: polished, professional anime look
+  perspective: varied, often dynamic for action scenes
+  mood:
+    overall: expressive and stylized
+    emotion: varies by genre - energetic for shounen, mature for seinen
+    tempo: dynamic
+    keywords:
+    - expressive
+    - stylized
+    - Japanese
+    - animated
+  stylePrecedents:
+  - Studio Ghibli
+  - Makoto Shinkai
+  - classic manga artists

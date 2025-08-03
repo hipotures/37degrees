@@ -1,0 +1,74 @@
+sceneDescription:
+  setting:
+    time: 1750s, dawn
+    location: Rocky beach on tropical island
+    weather: Gray dawn, heavy mist
+  characters:
+  - appearance: teenage boy, 13 years old, exhausted and defeated
+    clothing: torn and salt-stained clothes, one shoe missing
+    position: sitting hunched on wet rock, knees drawn up
+    action: head buried in arms, shoulders shaking with silent sobs
+  scene:
+    mainElements: desolate beach at low tide, boy isolated on rock surrounded by shallow water, mist obscuring any hope of
+      rescue
+    details: dead fish washed up on shore, broken ship's timber scattered, boy's reflection in tide pool showing distorted
+      face of anguish, seaweed draped like funeral shrouds, crabs scuttling past indifferently, no text or letters visible
+    background: impenetrable wall of mist, jungle sounds distant and threatening
+    atmosphere: complete abandonment, overwhelming despair, lost and alone
+  composition:
+    cameraAngle: high angle emphasizing boy's smallness
+    focus: boy's collapsed posture against vast empty beach
+    depth: boy in middle distance, emphasizing isolation in space
+colorPalette:
+  primary:
+  - '#000000'
+  - '#FFFFFF'
+  secondary:
+  - sepia tones
+  - aged paper
+  background: cream or aged paper
+  usageNotes: Primarily monochromatic, occasional sepia wash
+  saturation: none to minimal
+  contrast: high through line density
+lineArt:
+  style: precise engraving lines
+  weight: very fine, built up in layers
+  color: black ink
+  texture: crosshatching, stippling
+  edgeTreatment: precise, controlled
+lighting:
+  type: classical, theatrical
+  direction: three-quarter lighting
+  intensity: dramatic through line density
+  shadows:
+    style: built through crosshatching
+    color: black line density
+    opacity: varied through technique
+  highlights: white paper showing through
+rendering:
+  technique: steel engraving simulation
+  texture: fine line patterns throughout
+  detailLevel: extremely high, meticulous
+  finish: printed illustration quality
+perspective: classical, accurate
+mood:
+  overall: formal, literary, refined
+  emotion: dignity, propriety, narrative drama
+  tempo: measured, contemplative
+  keywords:
+  - classical
+  - refined
+  - literary
+  - formal
+  - dignified
+stylePrecedents:
+- Gustave Doré
+- John Tenniel
+- George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,26 @@
+sceneDescription:
+  title: Ben Gunn's Secret Cave
+  setting:
+    time: 1750s, evening
+    location: Hidden cave, Treasure Island
+    weather: sunset light at cave entrance
+  characters:
+  - appearance: wild man Ben Gunn, 30s, triumphant
+    clothing: goatskin rags
+    position: standing proudly beside treasure
+    action: gesturing at his hidden hoard, grinning
+  - appearance: boy, doctor, and squire, amazed
+    clothing: worn expedition clothes
+    position: entering cave, staring at treasure
+    action: expressions of wonder and relief
+  scene:
+    mainElements: cave filled with pirate treasure, gold and silver coins in heaps, Ben Gunn revealing he found and moved
+      it years ago
+    details: treasure chests overflowing with doubloons, gold bars stacked against walls, jewels glinting in torch light,
+      cave formations creating natural vault, Ben's simple living area visible, no text or letters visible
+    background: cave depths disappearing into darkness, sunset glow at entrance
+    atmosphere: revelation and vindication, treasure found by the least expected person, true wealth in survival and friendship
+  composition:
+    cameraAngle: wide shot revealing cave's treasures
+    focus: glittering treasure with amazed discoverers
+    depth: cave entrance foreground, treasure and people middle, cave depths background

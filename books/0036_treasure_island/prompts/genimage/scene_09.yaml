@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1750s, midday
+    location: Village street outside inn
+    weather: Blustery wind, clouds racing overhead
+  characters:
+  - appearance: burly man, 40s, red face, thick neck
+    clothing: rough seaman's jacket, worn boots
+    position: standing aggressively in street
+    action: fists clenched at sides, jaw tight, leaning forward threateningly
+  - appearance: teenage boy, 13 years old, trying to appear brave
+    clothing: simple work clothes whipping in wind
+    position: backed against inn wall
+    action: chin raised defiantly but hands trembling slightly
+  - appearance: village shopkeeper, 50s, normally friendly face now cold
+    clothing: merchant's apron over wool coat
+    position: standing in his doorway across street
+    action: arms crossed tightly, deliberately looking away
+  scene:
+    mainElements: tense confrontation in previously peaceful village street, bystanders keeping distance
+    details: shutters closing on windows, mother pulling child indoors, dog slinking away with tail low, papers blowing in
+      wind, tension visible in every rigid posture, no text or letters visible
+    background: familiar village buildings now seeming to loom threateningly
+    atmosphere: community cohesion fracturing, fear replacing trust
+  composition:
+    cameraAngle: street-level view emphasizing confrontation
+    focus: body language telling story of conflict
+    depth: confrontation foreground, withdrawing villagers background
+colorPalette:
+  primary:
+  - '#000000'
+  - '#FFFFFF'
+  secondary:
+  - sepia tones
+  - aged paper
+  background: cream or aged paper
+  usageNotes: Primarily monochromatic, occasional sepia wash
+  saturation: none to minimal
+  contrast: high through line density
+lineArt:
+  style: precise engraving lines
+  weight: very fine, built up in layers
+  color: black ink
+  texture: crosshatching, stippling
+  edgeTreatment: precise, controlled
+lighting:
+  type: classical, theatrical
+  direction: three-quarter lighting
+  intensity: dramatic through line density
+  shadows:
+    style: built through crosshatching
+    color: black line density
+    opacity: varied through technique
+  highlights: white paper showing through
+rendering:
+  technique: steel engraving simulation
+  texture: fine line patterns throughout
+  detailLevel: extremely high, meticulous
+  finish: printed illustration quality
+perspective: classical, accurate
+mood:
+  overall: formal, literary, refined
+  emotion: dignity, propriety, narrative drama
+  tempo: measured, contemplative
+  keywords:
+  - classical
+  - refined
+  - literary
+  - formal
+  - dignified
+stylePrecedents:
+- Gustave Doré
+- John Tenniel
+- George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

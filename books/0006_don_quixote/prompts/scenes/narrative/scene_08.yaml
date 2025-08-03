@@ -1,0 +1,28 @@
+sceneDescription:
+  title: Morning Feast of Friendship
+  setting:
+    time: Early 1600s Spain, late spring, mid-morning
+    location: Under large oak tree beside country road, La Mancha, Spain
+    weather: Pleasant sunshine filtering through leaves
+  characters:
+  - appearance: Thin knight, late 40s, helmet removed revealing disheveled gray hair
+    clothing: Armor pieces partially removed for comfort, shirt visible beneath
+    position: Sitting on spread blanket, back against tree trunk
+    action: Sharing bread with companion, gesturing while speaking
+  - appearance: Stocky squire, early 40s, relaxed and content
+    clothing: Simple peasant attire, vest unbuttoned
+    position: Sitting cross-legged on blanket facing knight
+    action: Eating cheese and listening, occasionally nodding or laughing
+  scene:
+    mainElements: Two travelers sharing simple meal under shady tree, horses and donkey grazing nearby, intimate moment of
+      companionship, road visible but momentarily forgotten, no text or letters visible
+    details: Wineskin being passed between them, chunks of bread and manchego cheese on cloth, olives in wooden bowl, lance
+      propped against tree, armor pieces set aside on grass, butterflies in wildflowers nearby, ants investigating crumbs,
+      dappled sunlight creating peaceful patterns, no text or letters visible
+    background: Spanish countryside stretching away, distant shepherd with flock, heat shimmer over fields
+    atmosphere: Genuine friendship developing between unlikely pair, simple pleasures of food and companionship, brief respite
+      from adventures, equality despite social differences, contentment in present moment, no text or letters visible
+  composition:
+    cameraAngle: Intimate medium shot at seated eye level
+    focus: Two figures sharing meal in shade
+    depth: Foreground shows meal details, middle ground captures dining companions, background reveals pastoral landscape

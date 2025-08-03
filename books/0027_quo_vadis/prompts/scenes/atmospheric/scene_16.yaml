@@ -1,0 +1,25 @@
+sceneDescription:
+  title: Secret Christian Feast in Hidden Chamber
+  setting:
+    time: 64 AD, early evening, full darkness outside
+    location: Triclinium dining room of wealthy villa, couches arranged around low table
+    weather: Cool night air entering through open windows
+  characters:
+  - appearance: Christian converts gathered in secret, mixed ages from young to elderly, faces showing both fear and devotion
+    clothing: Simple tunics without Roman luxury, hidden fish symbols on clothing, no gold ornaments to avoid attention
+    position: Seated around simple wooden table in hidden basement chamber
+    action: Sharing communion bread and wine, whispering prayers, listening for Roman patrols above
+  scene:
+    mainElements: Low wooden table laden with food and wine vessels, three dining couches arranged in U-shape, oil lamps and
+      candles providing warm illumination
+    details: Single oil lamp creating minimal light to avoid detection, simple wooden crosses carved into table edge, bread
+      broken in Christ's memory, clay cups holding blessed wine, entrance concealed behind false wall, Christian symbols scratched
+      into stone walls, ears alert for sound of approaching soldiers
+    background: Dark windows and doorways leading to unlit parts of villa, garden courtyard in darkness beyond colonnade,
+      night sounds of crickets and distant dogs
+    atmosphere: Sacred clandestine gathering with dim light hiding from persecution, dangerous spiritual communion, whispered
+      prayers and hymns, faithful community risking death for their beliefs against hostile empire above
+  composition:
+    cameraAngle: Medium shot from corner of room showing all three diners and table
+    focus: Candle-lit faces around food-laden table with shadows beyond
+    depth: Foreground flickering oil lamps, middle ground diners and table, background dark doorways and night beyond

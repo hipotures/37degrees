@@ -1,0 +1,62 @@
+styleName: Mythological Epic Style
+description: Grand, heroic imagery inspired by classical mythology and epic tales with golden tones and monumental scale
+aiPrompts:
+  basePrompt: epic mythological art, heroic figures, classical mythology, golden light, monumental scale, legendary
+  negativePrompt: modern, mundane, small scale, everyday, realistic proportions
+  styleKeywords:
+  - mythological
+  - epic
+  - heroic
+  - classical
+  - legendary
+  - monumental
+visualElements:
+  colorPalette:
+    primary:
+    - rich golds
+    - deep bronze
+    - royal purple
+    - celestial blue
+    secondary:
+    - ivory
+    - crimson
+    - emerald green
+    background: dramatic skies, divine light
+    usageNotes: Rich, regal colors with metallic tones
+    saturation: high
+    contrast: dramatic
+  lineArt:
+    style: bold, heroic contours
+    weight: strong, confident
+    color: dark bronze or black
+    texture: smooth, flowing
+    edgeTreatment: dramatic, idealized forms
+  lighting:
+    type: divine, dramatic
+    direction: heavenly rays, rim lighting
+    intensity: powerful, golden
+    shadows:
+      style: deep, dramatic
+      color: purple-bronze tones
+      opacity: rich, not black
+    highlights: golden, divine glow
+  rendering:
+    technique: classical painting style
+    texture: smooth with dramatic brushwork
+    detailLevel: high in key areas, atmospheric distance
+    finish: polished, museum quality
+  perspective: heroic, looking up at figures
+  mood:
+    overall: majestic, awe-inspiring, legendary
+    emotion: wonder, reverence, heroism
+    tempo: epic, timeless
+    keywords:
+    - majestic
+    - divine
+    - heroic
+    - legendary
+    - monumental
+  stylePrecedents:
+  - Classical Greek art
+  - Renaissance masters
+  - John William Waterhouse

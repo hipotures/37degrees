@@ -1,0 +1,32 @@
+sceneDescription:
+  title: Chaos at the Variety Theatre
+  setting:
+    time: 1930s Moscow, evening, theatrical performance
+    location: Large Moscow variety theatre interior during magic show
+    weather: Interior, dramatic stage lighting
+  characters:
+  - appearance: Large black cat, size of small person, standing upright on hind legs
+    clothing: White bow tie, nothing else, anthropomorphic posture
+    position: Center stage under bright spotlights
+    action: Performing magic tricks, gesturing dramatically with front paws
+  - appearance: Tall thin man with prominent nose, theatrical appearance
+    clothing: Black formal evening wear, white shirt, black bow tie
+    position: Standing beside the cat on stage
+    action: Bowing to audience while assisting with magical performance
+  - appearance: Mixed crowd of Soviet citizens, various ages from 20s to 60s
+    clothing: Mix of working clothes and better evening attire, some formal some casual
+    position: Filling theatre seats, some standing, leaning forward
+    action: Pointing excitedly, laughing, some looking shocked or confused
+  scene:
+    mainElements: Ornate theatre interior with red velvet seats, grand stage with footlights, elaborate curtains
+    details: Gold leaf decorations on theatre boxes, crystal chandelier overhead, red carpeted aisles, ornate plasterwork
+      on ceiling, stage lights creating dramatic shadows, audience members holding programs or personal items
+    background: Tiered seating extending upward with filled balcony levels, decorative theatre architecture typical of Moscow
+      venue
+    atmosphere: Theatrical excitement mixed with bewilderment as impossible magic unfolds, audience caught between delight
+      and disbelief, no text or letters visible
+  composition:
+    cameraAngle: Wide shot from audience perspective capturing stage and crowd reaction
+    focus: The impossible sight of performing cat contrasted with audience amazement
+    depth: 'Foreground: theatre seats with excited audience; middle ground: brightly lit stage with performers; background:
+      ornate theatre architecture and upper balconies'

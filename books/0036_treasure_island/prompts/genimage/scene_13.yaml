@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 1750s, night
+    location: Ship's lower deck, near storage barrels
+    weather: Calm night, moon occasionally hidden by clouds
+  characters:
+  - appearance: teenage boy, 13 years old, face contorted in shock and pain
+    clothing: sailor's clothes, disheveled
+    position: crouched behind large barrel, hand over mouth
+    action: eyes wide with disbelief, body trembling, trying not to make sound
+  - appearance: trusted figure, 50s, previously kind face now sinister in shadows
+    clothing: ordinary seaman's attire hiding true nature
+    position: standing with group of conspirators
+    action: gesturing with knife, laughing quietly at evil plans
+  scene:
+    mainElements: cramped lower deck space transformed into den of conspiracy, shadows hiding boy's presence
+    details: swinging lantern creating moving shadows like reaching claws, rats scurrying in corners, muffled voices carrying
+      threats, boy's white knuckles gripping barrel edge, tears glistening on cheeks, no text or letters visible
+    background: ship's wooden hull creaking ominously
+    atmosphere: innocence shattered, trust destroyed, isolation in midst of danger
+  composition:
+    cameraAngle: boy's perspective from hiding place
+    focus: contrast between boy's devastated expression and conspirators' evil glee
+    depth: boy in extreme foreground, villains mid-ground in harsh light
+colorPalette:
+  primary:
+  - '#000000'
+  - '#FFFFFF'
+  secondary:
+  - sepia tones
+  - aged paper
+  background: cream or aged paper
+  usageNotes: Primarily monochromatic, occasional sepia wash
+  saturation: none to minimal
+  contrast: high through line density
+lineArt:
+  style: precise engraving lines
+  weight: very fine, built up in layers
+  color: black ink
+  texture: crosshatching, stippling
+  edgeTreatment: precise, controlled
+lighting:
+  type: classical, theatrical
+  direction: three-quarter lighting
+  intensity: dramatic through line density
+  shadows:
+    style: built through crosshatching
+    color: black line density
+    opacity: varied through technique
+  highlights: white paper showing through
+rendering:
+  technique: steel engraving simulation
+  texture: fine line patterns throughout
+  detailLevel: extremely high, meticulous
+  finish: printed illustration quality
+perspective: classical, accurate
+mood:
+  overall: formal, literary, refined
+  emotion: dignity, propriety, narrative drama
+  tempo: measured, contemplative
+  keywords:
+  - classical
+  - refined
+  - literary
+  - formal
+  - dignified
+stylePrecedents:
+- Gustave Doré
+- John Tenniel
+- George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

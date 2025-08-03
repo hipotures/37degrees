@@ -1,0 +1,28 @@
+sceneDescription:
+  title: The Manuscript's Destruction
+  setting:
+    time: 1930s Moscow, late evening, autumn
+    location: Same basement apartment, now in disarray
+    weather: Interior, single oil lamp providing dim lighting
+  characters:
+  - appearance: Man, late 30s, dark hair, gaunt and desperate, wild-eyed, thin from stress
+    clothing: Disheveled shirt, suspenders hanging loose, no shoes, unkempt hair
+    position: Kneeling beside metal waste basket near small stove
+    action: Feeding manuscript pages into flames, tears streaming down face
+  - appearance: Elegant woman, early 30s, beautiful features, now distressed and pleading
+    clothing: Simple dress, hair disheveled from rushing, coat thrown over nightgown
+    position: Reaching toward burning papers, partially restrained by own hesitation
+    action: Extending hands toward flames while stepping back, expression of horror
+  scene:
+    mainElements: Small basement apartment now chaotic, papers scattered everywhere, small stove with flames visible
+    details: Manuscript pages scattered across floor, some crumpled, others torn, flames consuming typewritten pages in metal
+      basket, ink stains on wooden floor, overturned chair, oil lamp casting flickering shadows, cold tea growing film on
+      desk
+    background: Brick basement walls seeming to close in, shelves emptied of books, coats hanging like watching figures
+    atmosphere: Creative destruction and despair, loss of life's work in moment of crushing defeat, love witnessing artistic
+      suicide, flickering flames destroying years of labor, no text or letters visible
+  composition:
+    cameraAngle: Low angle emphasizing the tragedy of destruction
+    focus: Burning manuscript pages with two figures in anguish
+    depth: 'Foreground: flames consuming pages in metal container; middle ground: two figures in desperate scene; background:
+      chaotic apartment showing aftermath of despair'

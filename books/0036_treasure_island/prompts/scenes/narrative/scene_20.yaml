@@ -1,0 +1,30 @@
+sceneDescription:
+  title: Silver's Hostage Negotiation
+  setting:
+    time: 1750s, tense afternoon
+    location: Pirates' camp, Treasure Island beach
+    weather: hot sun, humid tropical air
+  characters:
+  - appearance: boy, 13 years old, captive but defiant
+    clothing: torn and dirty sailor clothes
+    position: sitting on barrel, hands loosely tied
+    action: chin raised defiantly despite situation
+  - appearance: Long John Silver, 40s, calculating
+    clothing: pirate captain attire, crutch beside him
+    position: seated on sea chest opposite boy
+    action: leaning forward persuasively, gesturing reasonably
+  - appearance: rough pirates surrounding camp
+    clothing: various pirate attire
+    position: scattered around camp perimeter
+    action: watching suspiciously, hands on weapons
+  scene:
+    mainElements: tense negotiation in pirate camp, Silver trying to win boy over while protecting him from other pirates,
+      complex relationship visible
+    details: makeshift camp with sail for shade, cooking fire smoldering, weapons stacked nearby, tension between Silver and
+      his men evident, parrot on nearby perch, treasure digging tools visible, no text or letters visible
+    background: tropical beach, jungle edge, ship visible in harbor
+    atmosphere: dangerous balance of power, Silver's dual nature shown, boy's courage despite captivity
+  composition:
+    cameraAngle: medium shot showing confrontation and surrounding danger
+    focus: Silver and Jim's negotiation with threatening pirates visible
+    depth: main characters foreground, pirate crew middle, beach and jungle background

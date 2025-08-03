@@ -1,0 +1,26 @@
+sceneDescription:
+  title: First Sight of Treasure Island
+  setting:
+    time: 1750s, dawn
+    location: Deck of the Hispaniola, approaching island
+    weather: misty morning, sun breaking through
+  characters:
+  - appearance: ship's crew and officers, mixed group
+    clothing: various sailor and officer attire
+    position: scattered along ship's rail
+    action: all staring at island, some pointing, mixed expressions of greed and fear
+  - appearance: boy, 13 years old, conflicted expression
+    clothing: sailor's clothes
+    position: at rail among others
+    action: gripping rigging, staring at island with dread
+  scene:
+    mainElements: mysterious tropical island emerging from morning mist, ship approaching destiny, crew's mixed reactions
+      to their goal
+    details: island's two hills visible through mist, strange tropical vegetation, circling seabirds, anchor being prepared,
+      morning sun turning mist golden, skeleton-like dead trees visible on shore, no text or letters visible
+    background: open ocean behind ship, cloudless sky above
+    atmosphere: ominous beauty of island, destination finally reached, tension between excitement and foreboding
+  composition:
+    cameraAngle: wide shot from ship's deck
+    focus: island dominating horizon with crew silhouetted at rail
+    depth: crew at rail foreground, misty waters middle, island background

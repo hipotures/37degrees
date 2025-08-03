@@ -1,0 +1,34 @@
+sceneDescription:
+  title: The Shop in Turmoil
+  setting:
+    time: 1879 spring, mid-morning
+    location: Textile shop on prestigious Warsaw commercial street, Congress Poland, once-prosperous merchant establishment
+      now in decline
+    weather: Rainy day, water streaming down windows
+  characters:
+  - appearance: Elderly clerk in his 60s, grey hair, deeply worried expression
+    clothing: Black shop coat, white shirt, black bow tie
+    position: Behind counter with ledgers spread before him
+    action: Running fingers through hair while studying financial records
+  - appearance: Young male assistant in 20s, anxious face
+    clothing: Shop uniform, rolled up sleeves
+    position: Near empty shelves
+    action: Removing remaining merchandise and packing into crates
+  - appearance: Well-dressed creditor in his 50s, stern expression
+    clothing: Expensive overcoat, top hat in hand
+    position: Standing before counter
+    action: Tapping papers impatiently while waiting for payment
+  scene:
+    mainElements: Once-prosperous shop now showing signs of financial collapse, elderly clerk desperately managing crisis,
+      creditor demanding payment, shelves being emptied
+    details: Half-empty shelves where fine goods once displayed, ledgers showing red ink, rain creating streams on windows,
+      mechanical toys still in window but covered in dust, elegant fixtures now seeming hollow, scattered invoices on counter,
+      brass cash register standing open and empty, portrait of younger merchant on wall observing the ruin, no text or letters
+      visible
+    background: Storage rooms visible through open doors showing more empty shelves, street outside with people hurrying past
+      in rain
+    atmosphere: Commercial empire crumbling, loyalty tested by financial disaster, dreams turning to dust
+  composition:
+    cameraAngle: Wide interior shot showing the shop's decline
+    focus: The elderly clerk's desperation amid financial chaos
+    depth: Counter confrontation in foreground, emptying shop in middle, rainy street in background

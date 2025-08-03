@@ -1,0 +1,29 @@
+sceneDescription:
+  title: Krakowskie Przedmieście Morning Commerce
+  setting:
+    time: 1878 spring, mid-morning
+    location: Prestigious commercial thoroughfare in Warsaw city center, Congress Poland under Russian rule
+    weather: Clear spring day with bright sunshine
+  characters:
+  - appearance: Elegant ladies in their 30s-40s wearing elaborate Victorian bonnets and bustled dresses
+    clothing: Rich velvet and silk dresses in deep burgundy and emerald, with intricate lace trim and pearl buttons
+    position: Walking along the sidewalk, pausing at shop windows
+    action: Examining displayed goods through glass windows, pointing with gloved hands
+  - appearance: Well-dressed gentlemen in their 40s-50s with carefully groomed mustaches and top hats
+    clothing: Dark wool frock coats, striped trousers, white shirts with high collars, gold watch chains visible
+    position: Standing in small groups on the sidewalk
+    action: Engaged in animated discussion, gesturing with walking canes
+  scene:
+    mainElements: Busy commercial street with elegant three and four-story buildings housing luxury shops, their large glass
+      windows displaying fine goods, horse-drawn carriages passing on cobblestones, well-dressed pedestrians window shopping
+    details: Ornate shop facades with carved stone details and wrought iron balconies, awnings shading the sidewalks, doormen
+      in livery standing at shop entrances, delivery wagons unloading crates, street sweepers cleaning gutters, flower sellers
+      with baskets of spring blooms, no text or letters visible
+    background: Church spire visible at end of street, rows of uniform building facades creating perspective lines, other
+      shoppers and carriages in the distance
+    atmosphere: Prosperous and refined commercial activity, the heart of Warsaw's merchant class displaying its wealth and
+      sophistication
+  composition:
+    cameraAngle: Street-level perspective looking down the thoroughfare
+    focus: The elegant shoppers and prestigious storefronts
+    depth: Shop windows and pedestrians in foreground, street activity in middle, church spire anchoring the background

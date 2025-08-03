@@ -70,10 +70,10 @@ done
 
 # Copy example graphics style
 echo "Copying example graphics style..."
-if [ -f "/home/xai/DEV/37degrees/config/prompt/graphics-styles/watercolor-style.json" ]; then
-    cp "/home/xai/DEV/37degrees/config/prompt/graphics-styles/watercolor-style.json" "$EXPORT_DIR/"
+if [ -f "/home/xai/DEV/37degrees/config/prompt/graphics-styles/watercolor-style.yaml" ]; then
+    cp "/home/xai/DEV/37degrees/config/prompt/graphics-styles/watercolor-style.yaml" "$EXPORT_DIR/"
 else
-    echo "⚠️  watercolor-style.json not found"
+    echo "⚠️  watercolor-style.yaml not found"
 fi
 
 # Copy example scene generator
@@ -86,16 +86,16 @@ fi
 
 # Copy prompt templates
 echo "Copying prompt templates..."
-if [ -f "/home/xai/DEV/37degrees/config/prompt/scene-description-template.json" ]; then
-    cp "/home/xai/DEV/37degrees/config/prompt/scene-description-template.json" "$EXPORT_DIR/"
+if [ -f "/home/xai/DEV/37degrees/config/prompt/scene-description-template.yaml" ]; then
+    cp "/home/xai/DEV/37degrees/config/prompt/scene-description-template.yaml" "$EXPORT_DIR/"
 else
-    echo "⚠️  scene-description-template.json not found"
+    echo "⚠️  scene-description-template.yaml not found"
 fi
 
-if [ -f "/home/xai/DEV/37degrees/config/prompt/style-description.json" ]; then
-    cp "/home/xai/DEV/37degrees/config/prompt/style-description.json" "$EXPORT_DIR/"
+if [ -f "/home/xai/DEV/37degrees/config/prompt/style-description.yaml" ]; then
+    cp "/home/xai/DEV/37degrees/config/prompt/style-description.yaml" "$EXPORT_DIR/"
 else
-    echo "⚠️  style-description.json not found"
+    echo "⚠️  style-description.yaml not found"
 fi
 
 # Copy main project README
@@ -150,10 +150,10 @@ ai-agent-instruction-guide.md
 PROMPT_GENERATION_GUIDE.md
 
 # Examples
-watercolor-style.json
+watercolor-style.yaml
 narrative-prompt-generator.md
-scene-description-template.json
-style-description.json
+scene-description-template.yaml
+style-description.yaml
 
 # Project Overview
 PROJECT-README.md
@@ -241,7 +241,7 @@ echo "   - 1 example agent file (37d-facts-hunter.md)"
 echo "   - 3 command files (37d-research.md, 37d-s1-gen-scenes.md, 37d-s2-apply-style.md)"
 echo "   - 1 hook file (37d-save-search.py)"
 echo "   - $(ls -1 "$EXPORT_DIR"/*.md | grep -v 37d | grep -v README | wc -l) documentation files"
-echo "   - $(ls -1 "$EXPORT_DIR"/*.json | wc -l) example JSON files"
+echo "   - $(ls -1 "$EXPORT_DIR"/*.yaml | wc -l) example YAML files"
 echo "   - $(ls -1 "$EXPORT_DIR" | wc -l) total files"
 echo ""
 echo "📁 Directory: $EXPORT_DIR"

@@ -1,0 +1,35 @@
+sceneDescription:
+  title: Village Square Transformed
+  setting:
+    time: Early 1600s Spain, market day morning
+    location: Central plaza of La Mancha village, Spain
+    weather: Bright sunshine, normal day
+  characters:
+  - appearance: Stocky former squire, early 40s, slight smile of memory
+    clothing: Regular peasant clothes, straw hat
+    position: Standing by fountain with market basket
+    action: Pausing to look at something that caught his eye
+  - appearance: Young boy, 8 years old, dark hair, excited expression
+    clothing: Simple tunic and breeches
+    position: Running through square with wooden sword
+    action: Battling imaginary foes with grand gestures
+  - appearance: Various villagers at market, all ages
+    clothing: Typical Spanish rural attire
+    position: Going about market business
+    action: Some smiling at boy's play, others shaking heads
+  scene:
+    mainElements: Village square with fountain and market stalls, now watched by former squire, child playing knight while
+      adults conduct business, cycle of dreams and reality continuing, memory living on in new generation, no text or letters
+      visible
+    details: Market stalls with familiar goods, stone fountain still flowing in plaza center, church bells ringing hours,
+      wooden sword catching sunlight, dropped vegetables from boy's enthusiastic charge, patient donkey waiting by fountain,
+      merchants calling wares, pigeons scattering from mock battle, no text or letters visible
+    background: Unchanged village architecture, distant windmills still turning, mountains eternal on horizon
+    atmosphere: Life continuing after adventure, dreams never fully dying, childhood imagination echoing past madness, bittersweet
+      recognition of story's continuation, ordinary world containing seeds of extraordinary, gentle humor in repetition, no
+      text or letters visible
+  composition:
+    cameraAngle: Wide establishing shot of bustling square
+    focus: Former squire watching child's knightly play
+    depth: Foreground shows market activity, middle ground captures watching figure and playing child, background reveals
+      familiar village setting

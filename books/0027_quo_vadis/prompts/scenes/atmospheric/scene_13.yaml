@@ -1,0 +1,27 @@
+sceneDescription:
+  title: Nero's Gardens Illuminated for Evening Torches
+  setting:
+    time: 64 AD, late afternoon, golden hour sunlight
+    location: Temple of Jupiter Optimus Maximus, marble steps and columns
+    weather: Clear evening with warm golden light slanting low across architecture
+  characters:
+  - appearance: Emperor Nero in his thirties, corpulent build, cruel sensual features, mad gleam in eyes, golden laurel crown
+    clothing: Purple imperial toga with gold embroidery, jeweled sandals, multiple gold rings, theatrical costume elements
+    position: Standing on marble terrace of his palace gardens overlooking arena preparations
+    action: Surveying preparations for evening spectacle where Christians will be burned as human torches to illuminate his
+      party
+  scene:
+    mainElements: Massive Corinthian columns bathed in warm golden light, marble steps leading up to temple entrance, bronze
+      doors reflecting sunset
+    details: Stakes being prepared in garden for human torches, everything bathed in ominous golden light, marble statues
+      witnessing coming atrocity, bronze braziers ready for lighting victims, oil lamps positioned to enhance the spectacle,
+      servants preparing pitch and tar for burning Christians
+    background: Rome spread below in golden evening light, other temples and buildings silhouetted against burning sky, distant
+      hills purple against orange horizon
+    atmosphere: Sinister golden hour before unspeakable horror, emperor's mad preparations for Christian massacre, warm light
+      creating deceptive beauty before night of terror and martyrdom
+  composition:
+    cameraAngle: Low angle looking up columns with figure silhouetted against golden sky
+    focus: Priest figure between columns with golden light streaming around him
+    depth: Foreground marble steps in shadow, middle ground illuminated columns and figure, background city and sky in golden
+      light

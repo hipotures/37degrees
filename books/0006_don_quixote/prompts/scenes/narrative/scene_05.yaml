@@ -1,0 +1,28 @@
+sceneDescription:
+  title: The Loyal Squire's Introduction
+  setting:
+    time: Early 1600s Spain, spring, morning
+    location: Farmyard outside peasant cottage, La Mancha countryside, Spain
+    weather: Bright morning sun, clear blue sky
+  characters:
+  - appearance: Short, stocky man, early 40s, round face, black hair and beard, friendly eyes
+    clothing: Simple brown peasant tunic, patched breeches, worn leather vest, rope belt
+    position: Standing beside gray donkey, one hand on animal's neck
+    action: Looking up with mixture of confusion and interest at someone speaking above
+  - appearance: Thin gentleman in armor, late 40s, sitting tall on bony horse
+    clothing: Mismatched armor pieces, plumed helmet, red sash across chest
+    position: Mounted on old horse, gesturing grandly downward
+    action: Speaking animatedly with sweeping arm movements
+  scene:
+    mainElements: Contrast between mounted knight and grounded peasant, humble farmyard setting with chickens pecking ground,
+      stone cottage with thatched roof, wooden fence, vegetable garden visible, no text or letters visible
+    details: Well-fed donkey with worn saddle blanket, scattered farm tools against cottage wall, laundry hanging on line,
+      barrel for water collection, pig pen in background, olive trees providing shade, worn path leading to fields, morning
+      shadows creating strong contrast, no text or letters visible
+    background: Rolling hills of La Mancha, other farm buildings in distance, windmill visible on far hill
+    atmosphere: Meeting of two different worlds - idealistic nobility and practical peasantry, moment of recruitment and persuasion,
+      beginning of unlikely partnership, comedy in physical contrast between characters, no text or letters visible
+  composition:
+    cameraAngle: Eye-level shot capturing both mounted and standing figures
+    focus: Interaction between knight above and peasant below
+    depth: Foreground shows peasant and donkey, middle ground features mounted knight, background reveals rural Spanish landscape

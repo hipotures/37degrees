@@ -1,0 +1,28 @@
+sceneDescription:
+  title: Apartment of Creative Passion
+  setting:
+    time: 1930s Moscow, afternoon, several months earlier
+    location: Small basement apartment, cramped but cozy writing space
+    weather: Interior, natural light from high basement windows
+  characters:
+  - appearance: Man, late 30s, dark hair, intense eyes, thin from concentration and poor eating
+    clothing: Simple shirt with rolled sleeves, worn trousers, ink stains on fingers
+    position: Seated at small wooden desk covered with papers
+    action: Writing intensely with pen, occasionally pausing to think deeply
+  - appearance: Elegant woman, early 30s, beautiful features, concerned expression, well-groomed
+    clothing: Quality dress suggesting comfortable background, light coat draped over chair
+    position: Standing behind writer, one hand gently on his shoulder
+    action: Reading over his shoulder, occasionally bringing tea cup to his attention
+  scene:
+    mainElements: Small basement apartment with low ceiling, simple wooden desk, stacks of manuscript pages, basic furniture
+    details: High narrow windows letting in natural light, oil lamp for additional lighting, scattered manuscript pages both
+      handwritten and typed, ink bottle and multiple pens, simple wooden chairs, small bed visible in corner, minimal kitchen
+      area with tea service
+    background: Brick basement walls, simple wooden shelving with books, coats hanging on wall hooks
+    atmosphere: Intimate creative space where passionate artistic work happens despite modest circumstances, sense of dedication
+      and love supporting artistic vision, no text or letters visible
+  composition:
+    cameraAngle: Medium shot from slight elevation, capturing intimate domestic scene
+    focus: The writer's intense concentration contrasted with woman's supportive presence
+    depth: 'Foreground: desk with manuscript pages and writing materials; middle ground: two figures in creative collaboration;
+      background: modest basement apartment details'

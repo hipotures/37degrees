@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: Early 1600s Spain, autumn, dawn moments later
+    location: Beach near Barcelona, Mediterranean coast, Catalonia, Spain
+    weather: Morning sun breaking through, mist clearing
+  characters:
+  - appearance: Thin knight, late 40s, lying defeated on sand
+    clothing: Armor dented from fall, helmet knocked aside, gray hair visible
+    position: On his back in sand, arms spread
+    action: Looking up at victor, hand raised in surrender
+  - appearance: Knight of the White Moon, 30s, victorious but not celebrating
+    clothing: Silver armor unmarked, still mounted
+    position: On white horse, lance point near defeated knight's chest
+    action: Speaking down to fallen opponent with authority
+  - appearance: Stocky squire, early 40s, tears on cheeks
+    clothing: Good clothes now disheveled from running
+    position: Running across sand toward fallen master
+    action: Arms outstretched, mouth open calling out
+  - appearance: Thin horse, old and tired
+    clothing: Saddle and armor askew
+    position: Standing riderless nearby, head low
+    action: Breathing heavily, reins dragging in sand
+  scene:
+    mainElements: Fallen knight accepting defeat on beach, victorious knight imposing conditions, squire rushing to aid, end
+      of quest becoming reality, sun rising on knight's surrender, no text or letters visible
+    details: Impression in sand from knight's fall, broken lance pieces scattered, helmet rolled away showing damaged plume,
+      waves washing closer to fallen figure, seagulls landing nearby, crowd maintaining respectful distance, morning sun creating
+      long shadows on beach, no text or letters visible
+    background: Barcelona awakening to new day, fishing boats heading out to sea, church bells beginning to ring
+    atmosphere: Dignity in defeat, end of dreams handled with grace, loyalty of squire evident, mysterious victor maintaining
+      formality, transformation from knight back to man beginning, bitter sunrise on adventure's end, no text or letters visible
+  composition:
+    cameraAngle: Ground level emphasizing fallen knight's perspective
+    focus: Defeated knight on sand with victor looming above
+    depth: Foreground shows scattered armor pieces, middle ground captures main action, background shows approaching squire
+      and sea
+colorPalette:
+  primary:
+  - '#000000'
+  secondary:
+  - '#FFFFFF'
+  background: pure white
+  usageNotes: Black lines on white background only
+  saturation: n/a
+  contrast: maximum
+lineArt:
+  style: bold outlines only
+  weight: uniform thickness
+  color: '#000000'
+  texture: smooth, clean
+  edgeTreatment: crisp, vector-like
+lighting:
+  type: none
+  direction: n/a
+  intensity: n/a
+  shadows:
+    style: none
+    color: n/a
+    opacity: n/a
+  highlights: none
+rendering:
+  technique: clean vector-like lines
+  texture: none
+  detailLevel: simplified forms
+  finish: flat, no texture
+perspective: varies, often frontal
+mood:
+  overall: clean, minimal, modern
+  emotion: neutral, clear
+  tempo: static
+  keywords:
+  - minimal
+  - clean
+  - simple
+  - modern
+  - clear
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

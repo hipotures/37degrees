@@ -1,0 +1,30 @@
+sceneDescription:
+  title: Silver's Galley Kingdom
+  setting:
+    time: 1750s, midday
+    location: Ship's galley, Hispaniola at sea
+    weather: calm seas visible through porthole
+  characters:
+  - appearance: one-legged cook, 40s, powerful and jovial
+    clothing: cook's apron over sailor clothes
+    position: working at stove, balanced expertly despite ship's motion
+    action: stirring large pot while talking animatedly
+  - appearance: boy, 13 years old, attentive
+    clothing: sailor's clothes
+    position: sitting on barrel nearby
+    action: peeling potatoes, listening with fascination
+  - appearance: parrot on perch
+    clothing: green feathers
+    position: swinging on perch near porthole
+    action: preening feathers, occasionally squawking
+  scene:
+    mainElements: cramped ship's galley filled with cooking smells, one-legged cook demonstrating mastery of his domain, boy
+      drawn into Silver's charm
+    details: pots swinging on hooks, vegetables in nets, ship's biscuit in barrels, steam rising from stove, Silver's crutch
+      propped within reach, knife work expert despite disability, no text or letters visible
+    background: blue ocean visible through porthole, ship's timbers creaking
+    atmosphere: warm mentorship moment, Silver establishing father-figure relationship, cozy refuge within larger ship
+  composition:
+    cameraAngle: intimate shot within cramped galley
+    focus: Silver cooking while engaging with Jim
+    depth: cooking area foreground, boy middle, porthole with ocean background
