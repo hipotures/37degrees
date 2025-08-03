@@ -1,0 +1,59 @@
+styleName: Postcyberpunk Style
+description: Evolution of cyberpunk that moves beyond dystopian darkness toward more optimistic tech-integrated futures where technology enhances rather than oppresses humanity
+aiPrompts:
+  basePrompt: postcyberpunk, optimistic tech future, integrated technology, human enhancement, bright cybernetics
+  negativePrompt: dystopian darkness, corporate oppression, grimy streets, punk rebellion, noir atmosphere
+  styleKeywords:
+  - postcyberpunk
+  - optimistic tech
+  - integrated
+  - human enhancement
+  - bright future
+visualElements:
+  colorPalette:
+    primary:
+    - clean white
+    - tech blue
+    - enhancement green
+    secondary:
+    - warm gold
+    - human pink
+    - silver chrome
+    background: clean futuristic cities or integrated tech environments
+    usageNotes: Clean, bright colors suggesting harmony between human and tech
+    saturation: medium to high (optimistic but not overwhelming)
+    contrast: medium (harmonious rather than stark)
+  lineArt:
+    style: clean tech lines integrated with organic forms
+    weight: precise but flowing
+    color: clean blues and whites
+    texture: smooth tech surfaces with organic integration
+    edgeTreatment: smooth curves blending tech and organic
+  lighting:
+    type: clean, bright lighting suggesting optimistic future
+    direction: even, pleasant lighting
+    intensity: bright but not harsh
+    shadows:
+      style: soft, pleasant shadows
+      color: cool grays or blues
+      opacity: light, non-threatening
+    highlights: clean tech glows and natural highlights
+  rendering:
+    technique: clean digital illustration with organic integration
+    texture: smooth tech surfaces blended with natural textures
+    detailLevel: high (sophisticated tech seamlessly integrated)
+    finish: clean, polished surfaces with natural elements
+  perspective: human-scale perspective emphasizing accessibility
+  mood:
+    overall: optimistic, harmonious, evolved
+    emotion: hope, progress, human potential
+    tempo: flowing, progressive
+    keywords:
+    - optimistic
+    - harmonious
+    - evolved
+    - hopeful
+    - integrated
+  stylePrecedents:
+  - Ghost in the Shell: Stand Alone Complex
+  - Minority Report clean tech aesthetic

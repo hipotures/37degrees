@@ -1,0 +1,59 @@
+styleName: Geminism - Ukiyo-wave
+description: A synthesis of traditional Japanese Ukiyo-e woodblock prints and the retro-digital aesthetic of Vaporwave. It takes the subjects and compositions of Ukiyo-e (landscapes, beautiful women, kabuki actors) and re-contextualizes them with neon glows, sunset grids, glitch artifacts, and Roman busts.
+aiPrompts:
+  basePrompt: ukiyo-wave, vaporwave ukiyo-e, neon Fuji, glitching geisha, Japanese woodblock with sunset grid, retro-futurist Japan, geminism
+  negativePrompt: traditional ukiyo-e, realism, photobash, western comic style
+  styleKeywords:
+  - ukiyo-e
+  - vaporwave
+  - neon
+  - glitch
+  - retro
+  - Japanese
+visualElements:
+  colorPalette:
+    primary:
+    - the muted, elegant palette of Ukiyo-e (indigo, persimmon, teal)
+    - intrusions of the Vaporwave palette (hot pink, cyan, purple)
+    secondary:
+    - off-white of washi paper
+    - black sumi ink
+    background: classic Ukiyo-e landscapes (e.g., Mt. Fuji) but the sky is a purple-to-orange Vaporwave sunset grid
+    usageNotes: A clash and fusion of a traditional, natural palette with a synthetic, digital one.
+    saturation: a mix of muted and hyper-saturated
+    contrast: medium, with high-contrast neon elements
+  lineArt:
+    style: elegant, calligraphic Ukiyo-e outlines, but sometimes they glow with a neon hue or suffer from digital glitches (RGB shift)
+    weight: traditional varied brush weight
+    color: black, or glowing cyan/magenta
+    texture: a mix of woodblock print texture and clean digital lines
+    edgeTreatment: elegant, organic strokes that occasionally pixelate or break apart
+  lighting:
+    type: flat, decorative Ukiyo-e lighting combined with the back-lit glow of a CRT monitor
+    direction: n/a
+    intensity: a mix of flat and glowing
+    shadows:
+      style: flat color blocks, as in Ukiyo-e
+      color: darker traditional tones
+      opacity: solid
+    highlights: neon glows on the edges of objects, lens flare on the "sun"
+  rendering:
+    technique: digital illustration that mimics woodblock texture but incorporates digital elements like grids, glitches, and anachronistic objects (like a Roman bust in a tea house)
+    texture: visible paper/woodblock grain overlaid with subtle scan lines or VHS noise
+    detailLevel: high in the traditional patterns, but with simplified digital overlays
+    finish: a mix of matte print and glowing screen
+  perspective: flattened, decorative Ukiyo-e perspective, but with infinite-perspective digital grids receding into the background
+  mood:
+    overall: nostalgic, anachronistic, serene yet surreal
+    emotion: a longing for a past that never existed, tranquil contemplation of a digital world
+    tempo: calm, slow, atmospheric
+    keywords:
+    - anachronistic
+    - nostalgic
+    - surreal
+    - serene
+    - digital
+  stylePrecedents:
+  - Ukiyo-e prints (Hokusai, Hiroshige)
+  - Vaporwave aesthetic
+  - Synthwave art

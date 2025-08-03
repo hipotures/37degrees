@@ -1,0 +1,59 @@
+styleName: Gouache Painting Style
+description: Opaque painting style with matte finish, visible brushstrokes, and layered vibrant colors
+aiPrompts:
+  basePrompt: gouache illustration, opaque paint layers, matte finish, bold brushstrokes, vibrant colors
+  negativePrompt: watercolor, photorealistic, digital smooth, vector, shiny
+  styleKeywords:
+  - gouache
+  - opaque
+  - matte
+  - layered
+  - brushstrokes
+visualElements:
+  colorPalette:
+    primary:
+    - vibrant blue
+    - warm red
+    - sunny yellow
+    - forest green
+    secondary:
+    - muted pastels
+    - white for mixing
+    background: paper white or solid base color
+    usageNotes: Bold solid colors with minimal blending
+    saturation: high
+    contrast: high
+  lineArt:
+    style: minimal outlines, shapes defined by color edges
+    weight: n/a or light pencil underdrawing
+    color: if any, same hue as fill or darker tone
+    texture: edges slightly uneven from brush
+    edgeTreatment: crisp on dry layers, soft on blends
+  lighting:
+    type: flat illustration lighting
+    direction: frontal or none
+    intensity: gentle
+    shadows:
+      style: flat shaded areas or darker paint
+      color: cool blue-gray
+      opacity: light
+    highlights: lighter paint streaks
+  rendering:
+    technique: gouache on paper
+    texture: matte, visible brush texture
+    detailLevel: moderate detail, simplified forms
+    finish: flat matte finish
+  perspective: varied, often flat
+  mood:
+    overall: playful, artistic, nostalgic
+    emotion: creativity, warmth
+    tempo: steady, bold
+    keywords:
+    - vibrant
+    - matte
+    - painterly
+    - bold
+    - playful
+  stylePrecedents:
+  - mid-20th century gouache illustrations
+  - Mary Blair (Disney artist)

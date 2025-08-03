@@ -1,0 +1,59 @@
+styleName: Utopian Futurism Style
+description: Idealistic vision of a perfect future featuring harmony, clean aesthetics, advanced technology seamlessly integrated into daily life, and social perfection
+aiPrompts:
+  basePrompt: utopian future city, perfect harmony, clean white architecture, advanced technology, peaceful society, bright lighting, ideal civilization
+  negativePrompt: dystopian, dark, polluted, conflict, decay, industrial grime, oppression
+  styleKeywords:
+  - utopian
+  - perfect future
+  - harmony
+  - advanced technology
+  - ideal society
+visualElements:
+  colorPalette:
+    primary:
+    - pure white
+    - sky blue
+    - clean silver
+    secondary:
+    - soft gold
+    - gentle green
+    - crystal clear
+    background: bright, clean environments or perfect cityscapes
+    usageNotes: Clean, pure colors suggesting perfection and harmony
+    saturation: medium (pleasant, not overwhelming)
+    contrast: low to medium (gentle, harmonious)
+  lineArt:
+    style: clean, perfect geometric lines
+    weight: consistent, refined
+    color: subtle, harmonious outlines
+    texture: smooth, flawless surfaces
+    edgeTreatment: perfect, seamless edges
+  lighting:
+    type: perfect, even illumination
+    direction: ambient, omnipresent light
+    intensity: bright but never harsh
+    shadows:
+      style: minimal, soft shadows
+      color: very light grays
+      opacity: barely visible
+    highlights: gentle, perfect highlights
+  rendering:
+    technique: flawless digital perfection
+    texture: smooth, perfect surfaces
+    detailLevel: high (perfect craftsmanship)
+    finish: pristine, flawless
+  perspective: harmonious, balanced compositions
+  mood:
+    overall: perfect, peaceful, harmonious
+    emotion: serenity, satisfaction, perfection
+    tempo: calm, steady
+    keywords:
+    - perfect
+    - peaceful
+    - harmonious
+    - serene
+    - ideal
+  stylePrecedents:
+  - THX 1138 white environments
+  - Star Trek utopian technology

@@ -1,0 +1,61 @@
+styleName: Raypunk Style
+description: A subgenre of retrofuturism inspired by space age aesthetics from the 1930s-50s. Characterized by streamlined, shiny rockets, flying saucers, ray guns, and naive, optimistic vision of space conquest.
+aiPrompts:
+  basePrompt: raypunk aesthetic, retro futurism, 1950s space age, streamlined rocket ship, raygun gothic, flying saucer, optimistic sci-fi
+  negativePrompt: dystopian, cyberpunk, gritty, realistic, modern technology
+  styleKeywords:
+  - raypunk
+  - retro futurism
+  - space age
+  - raygun gothic
+  - atomic age
+visualElements:
+  colorPalette:
+    primary:
+    - bright red
+    - chrome silver
+    - sky blue
+    - sunny yellow
+    secondary:
+    - turquoise
+    - black (space)
+    - white
+    background: outer space with planets, alien desert landscapes
+    usageNotes: Bold, primary colors with lots of shiny metal.
+    saturation: high
+    contrast: high
+  lineArt:
+    style: smooth, aerodynamic, streamlined lines
+    weight: medium, confident
+    color: black or dark outline
+    texture: smooth, polished
+    edgeTreatment: rounded edges, rocket fins, domes
+  lighting:
+    type: bright, simple comic-book lighting
+    direction: strong, single light source (sun)
+    intensity: high, creating clear shadows
+    shadows:
+      style: simple, flat shadows
+      color: darker shade of base color or bluish
+      opacity: solid
+    highlights: strong, shiny reflections on metal and glass
+  rendering:
+    technique: period poster-style illustration, airbrush
+    texture: smooth, shiny metal, glass
+    detailLevel: moderate, focused on iconic shapes
+    finish: glossy, like car paint
+  perspective: dramatic, heroic angles, often worm's eye view
+  mood:
+    overall: adventurous, optimistic, naive
+    emotion: excitement, wonder, explorer spirit
+    tempo: dynamic, fast
+    keywords:
+    - adventurous
+    - retro
+    - space
+    - optimistic
+    - naive
+  stylePrecedents:
+  - pulp sci-fi magazine covers (e.g., "Amazing Stories")
+  - "Flash Gordon" serial
+  - "The Jetsons" cartoon

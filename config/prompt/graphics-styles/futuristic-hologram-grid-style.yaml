@@ -1,0 +1,57 @@
+styleName: Futuristic Hologram Grid Style
+description: Retro-futuristic hologram grid aesthetic with wireframe landscapes, glowing grid lines receding in perspective, and a digital 3D look
+aiPrompts:
+  basePrompt: wireframe hologram grid, Tron style, glowing gridlines, 80s retro future, vector landscape
+  negativePrompt: solid filled shapes, natural scenery, realistic textures
+  styleKeywords:
+  - wireframe
+  - grid
+  - holographic
+  - retro-futuristic
+  - neon
+visualElements:
+  colorPalette:
+    primary:
+    - neon cyan
+    - bright green grid lines
+    secondary:
+    - purple sky gradient
+    - black background
+    background: starry black with neon horizon glow
+    usageNotes: Bright grid lines on a black background; sometimes a sunset gradient sky
+    saturation: high (for grid elements)
+    contrast: high
+  lineArt:
+    style: wireframe grid lines
+    weight: thin, uniform
+    color: neon teal or green
+    texture: glowing vector lines
+    edgeTreatment: crisp geometry
+  lighting:
+    type: self-lit neon glow
+    direction: grid glows upward from horizon
+    intensity: strong along grid, fading with distance
+    shadows:
+      style: none (abstract environment)
+      color: n/a
+      opacity: n/a
+    highlights: intense glow at grid intersections
+  rendering:
+    technique: vector/3D wireframe rendering
+    texture: no surface texture, just light lines
+    detailLevel: simple geometric forms
+    finish: glossy neon lines, transparent space
+  perspective: one-point perspective grid receding to horizon
+  mood:
+    overall: futuristic, technical, nostalgic-80s
+    emotion: awe, anticipation
+    tempo: steady, synthetic
+    keywords:
+    - retro-future
+    - technical
+    - immersive
+    - geometric
+    - glowing
+  stylePrecedents:
+  - Tron (1982) aesthetics
+  - 80s sci-fi wireframe graphics

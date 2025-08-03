@@ -1,0 +1,56 @@
+styleName: Geminism - Acoustic Realism
+description: An art style that attempts to visually render the physical properties of sound. It translates concepts like timbre, frequency, and amplitude into hyperrealistic textures and forms. A smooth jazz saxophone solo might be depicted as a polished, flowing chrome sculpture, while harsh industrial noise could be a jagged, rusty, and abrasive surface. The art invites viewers to "feel" the sound through sight.
+aiPrompts:
+  basePrompt: acoustic realism, sound sculpture, visual timbre, tangible frequency, hyperrealistic audio texture, geminism
+  negativePrompt: abstract sound waves, musical notes, literal instruments, 2d illustration
+  styleKeywords:
+  - haptic sound
+  - sensory translation
+  - acoustic form
+  - hyperrealistic
+  - synesthesia
+visualElements:
+  colorPalette:
+    primary:
+    - dictated by the sound's "temperature" - warm tones (brass, copper, gold) for warm sounds; cool tones (chrome, silver, cobalt) for sharp, electronic sounds
+    secondary:
+    - colors of resonance and echo, often transparent or iridescent
+    background: a neutral, anechoic chamber-like void (black or gray) to isolate the sound-object
+    usageNotes: Color is not decorative but an extension of the sound's character.
+    saturation: varies with the richness of the audio harmonics
+    contrast: high, to define the object's form clearly
+  lineArt:
+    style: no lines; form is defined entirely by 3D shape, material, and light
+    weight: n/a
+    color: n/a
+    texture: the core of the style - smooth, rough, sharp, soft, porous, etc., based on the sound
+    edgeTreatment: depends on the sound's attack and decay - sharp for a drum hit, soft for a fading synth pad
+  lighting:
+    type: hyperrealistic studio lighting
+    direction: multiple sources to reveal every nuance of the object's texture
+    intensity: clear and focused
+    shadows:
+      style: soft, realistic shadows that ground the object in space
+      color: neutral dark gray
+      opacity: realistic
+    highlights: sharp, specular highlights that define the material's "finish"
+  rendering:
+    technique: photorealistic 3D rendering with advanced material shaders
+    texture: the primary expressive element, from polished metal to porous stone or soft fabric
+    detailLevel: extreme, macro-level detail on the surface texture
+    finish: varies based on the sound (e.g., matte, glossy, metallic, velvety)
+  perspective: a clean, studio-product shot perspective
+  mood:
+    overall: sensory, analytical, uncanny
+    emotion: synesthetic curiosity, a new way of perceiving sound
+    tempo: static, but implies the duration of the sound
+    keywords:
+    - sensory
+    - synesthetic
+    - textured
+    - analytical
+    - uncanny
+  stylePrecedents:
+  - High-end product rendering
+  - Synesthesia studies
+  - Abstract sculpture (Brancusi, Arp)

@@ -1,0 +1,59 @@
+styleName: Art Informel Style
+description: European abstract movement emphasizing gestural improvisation, material exploration, and process-focused creation over planned composition
+aiPrompts:
+  basePrompt: art informel, gestural improvisation, material exploration, abstract expressionism, spontaneous creation, texture focus
+  negativePrompt: planned composition, geometric abstraction, smooth finish, controlled technique, representational art
+  styleKeywords:
+  - art informel
+  - gestural
+  - improvisation
+  - material exploration
+  - spontaneous
+visualElements:
+  colorPalette:
+    primary:
+    - earth browns
+    - raw umber
+    - burnt sienna
+    secondary:
+    - mixed grays
+    - accidental color mixing
+    - raw pigments
+    background: textured, material-focused backgrounds
+    usageNotes: Natural, earthy colors often mixed accidentally during process
+    saturation: low to medium (natural, process-based)
+    contrast: varies with material and process
+  lineArt:
+    style: gestural marks, no planned lines
+    weight: varies dramatically with gesture and material
+    color: mixed during process, often muddy
+    texture: heavy texture from materials and process
+    edgeTreatment: rough, process-determined edges
+  lighting:
+    type: texture-revealing lighting
+    direction: emphasizing material qualities
+    intensity: moderate to show texture and process
+    shadows:
+      style: natural shadows from textured surface
+      color: darker material colors
+      opacity: varies with material thickness
+    highlights: natural material highlights
+  rendering:
+    technique: direct material manipulation, improvisation
+    texture: heavy emphasis on material texture and process
+    detailLevel: varies (focus on material and gesture, not detail)
+    finish: raw, unfinished appearance emphasizing process
+  perspective: no planned perspective, process-determined
+  mood:
+    overall: raw, spontaneous, material-focused
+    emotion: authentic expression, creative process
+    tempo: energetic improvisation or slow material exploration
+    keywords:
+    - raw
+    - spontaneous
+    - authentic
+    - process-focused
+    - material
+  stylePrecedents:
+  - Jean Dubuffet texturology
+  - Alberto Burri material works

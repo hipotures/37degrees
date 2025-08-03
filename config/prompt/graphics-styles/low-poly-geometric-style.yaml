@@ -1,0 +1,59 @@
+styleName: Low Poly Geometric Style
+description: Modern low-poly 3D style using simple geometric polygons, faceted surfaces, and minimal textures to create stylized scenes
+aiPrompts:
+  basePrompt: low poly 3D illustration, faceted polygons, simple geometry, minimal texture, pastel colors
+  negativePrompt: high realism, detailed textures, smooth gradients, complex meshes
+  styleKeywords:
+  - low poly
+  - geometric
+  - simplified
+  - faceted
+  - 3D
+visualElements:
+  colorPalette:
+    primary:
+    - pastel blue
+    - soft pink
+    - light green
+    - beige
+    secondary:
+    - darker blue
+    - darker green
+    background: solid light color or gradient sky
+    usageNotes: Flat shading with each polygon face a solid color
+    saturation: medium
+    contrast: medium
+  lineArt:
+    style: none (edges defined by polygon boundaries)
+    weight: n/a
+    color: n/a
+    texture: flat color surfaces
+    edgeTreatment: sharp edges between facets
+  lighting:
+    type: flat or simple 3D lighting
+    direction: often top or side light
+    intensity: moderate (enough to distinguish planes)
+    shadows:
+      style: simple soft shadows
+      color: gray
+      opacity: light
+    highlights: flat lighter faces toward light source
+  rendering:
+    technique: 3D low-poly modeling
+    texture: none (solid colors per face)
+    detailLevel: low (simplicity is key)
+    finish: matte, flat appearance
+  perspective: 3D perspective (often isometric or slight angle)
+  mood:
+    overall: playful, modern, clean
+    emotion: delight, simplicity
+    tempo: balanced, steady
+    keywords:
+    - simplified
+    - clean
+    - modern
+    - playful
+    - minimalist
+  stylePrecedents:
+  - early 3D video game art
+  - Timothy J. Reynolds (low poly art)

@@ -1,0 +1,59 @@
+styleName: Psychedelic Art Style
+description: 1960s counterculture art style featuring fluorescent colors, swirling patterns, optical illusions, and consciousness-expanding imagery
+aiPrompts:
+  basePrompt: psychedelic art, fluorescent colors, swirling patterns, 1960s style, optical illusion, trippy
+  negativePrompt: muted colors, straight lines, realistic proportions, conservative style, minimal decoration
+  styleKeywords:
+  - psychedelic
+  - fluorescent
+  - swirling
+  - trippy
+  - optical illusion
+visualElements:
+  colorPalette:
+    primary:
+    - electric pink
+    - neon green
+    - bright orange
+    secondary:
+    - purple
+    - yellow
+    - cyan
+    background: vibrant, often black to make colors pop
+    usageNotes: Extremely saturated, fluorescent colors that seem to glow
+    saturation: maximum (fluorescent, glowing effect)
+    contrast: very high (shocking color combinations)
+  lineArt:
+    style: flowing, organic curves and spirals
+    weight: varies, often thick and bold
+    color: bright, contrasting colors
+    texture: smooth, flowing lines
+    edgeTreatment: undulating, wave-like edges
+  lighting:
+    type: glowing, supernatural lighting effects
+    direction: radiating from multiple sources
+    intensity: intense, glowing
+    shadows:
+      style: colorful shadows, not natural black
+      color: complementary bright colors
+      opacity: semi-transparent
+    highlights: glowing, radiating light effects
+  rendering:
+    technique: smooth gradients and flowing forms
+    texture: smooth, glossy, sometimes metallic
+    detailLevel: high (intricate patterns and hidden imagery)
+    finish: glossy, glowing appearance
+  perspective: distorted, warped, multiple perspectives
+  mood:
+    overall: mind-expanding, energetic, surreal
+    emotion: euphoria, wonder, altered consciousness
+    tempo: pulsing, rhythmic
+    keywords:
+    - mind-expanding
+    - energetic
+    - surreal
+    - euphoric
+    - consciousness-expanding
+  stylePrecedents:
+  - 1960s concert posters
+  - Peter Max artwork

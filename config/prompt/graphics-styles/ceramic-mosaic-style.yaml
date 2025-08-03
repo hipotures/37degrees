@@ -1,0 +1,61 @@
+styleName: Ceramic Mosaic Style
+description: Artwork composed of small colored tiles forming images or patterns with a handcrafted, textured look
+aiPrompts:
+  basePrompt: mosaic art, ceramic tiles, tessellation, fragmented pieces, intricate pattern
+  negativePrompt: smooth gradients, continuous lines, photorealistic blending, soft edges
+  styleKeywords:
+  - mosaic
+  - tiles
+  - ceramic
+  - tessellation
+  - fragmented
+  - artisanal
+visualElements:
+  colorPalette:
+    primary:
+    - earthy terracotta
+    - cobalt blue
+    - turquoise
+    - emerald green
+    secondary:
+    - gold accents
+    - ivory
+    - deep red
+    background: neutral gray grout
+    usageNotes: Vibrant contrasting colors for tile pieces
+    saturation: rich
+    contrast: high
+  lineArt:
+    style: grouted outlines between tiles
+    weight: thin to medium
+    color: dark gray (grout)
+    texture: rough tile edges
+    edgeTreatment: irregular but fitted
+  lighting:
+    type: ambient, slight shine on tiles
+    direction: top-down to catch surfaces
+    intensity: moderate
+    shadows:
+      style: small shadows in gaps
+      color: darker tones of tiles
+      opacity: subtle
+    highlights: specular glints on glossy tiles
+  rendering:
+    technique: hand-set ceramic tesserae
+    texture: textured, uneven surfaces
+    detailLevel: high (composed of many small pieces)
+    finish: semi-gloss tiles, matte grout
+  perspective: flat view or slight angle
+  mood:
+    overall: intricate, historic, handcrafted
+    emotion: patience, tradition, richness
+    tempo: static, deliberate
+    keywords:
+    - intricate
+    - craftsmanship
+    - patterned
+    - cultural
+    - rich
+  stylePrecedents:
+  - Byzantine mosaics
+  - Antoni Gaudí mosaic art

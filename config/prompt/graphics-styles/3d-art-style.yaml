@@ -1,0 +1,59 @@
+styleName: 3D Art Style
+description: Three-dimensional digital modeling and rendering with realistic lighting, materials, and spatial depth
+aiPrompts:
+  basePrompt: 3D render, three dimensional, polygonal mesh, ray tracing, realistic materials, depth
+  negativePrompt: flat, 2D, painted, hand-drawn, no depth, vector graphics
+  styleKeywords:
+  - 3D render
+  - three dimensional
+  - polygonal
+  - ray tracing
+  - volumetric
+visualElements:
+  colorPalette:
+    primary:
+    - material-based colors
+    - metallic silver
+    - plastic colors
+    secondary:
+    - environment colors
+    - light colors
+    - reflection colors
+    background: HDRI environment or studio lighting
+    usageNotes: Colors defined by material properties and lighting
+    saturation: varies by material (metals less saturated, plastics more)
+    contrast: high due to realistic lighting
+  lineArt:
+    style: polygon edges and surface boundaries
+    weight: defined by geometry and lighting
+    color: determined by material shading
+    texture: 3D mesh topology
+    edgeTreatment: smooth surfaces or hard edges based on modeling
+  lighting:
+    type: realistic 3D lighting (area lights, point lights, HDRI)
+    direction: physically accurate light sources
+    intensity: realistic light falloff and bounce
+    shadows:
+      style: realistic cast shadows with soft edges
+      color: ambient light color
+      opacity: varies by light intensity
+    highlights: specular reflections based on material properties
+  rendering:
+    technique: ray tracing or rasterization with realistic shading
+    texture: UV-mapped textures and procedural materials
+    detailLevel: high (limited by polygon count and texture resolution)
+    finish: varies by material (metal, plastic, glass, fabric)
+  perspective: accurate 3D camera perspective with focal length
+  mood:
+    overall: dimensional, realistic, modern
+    emotion: impressive, technical, clean
+    tempo: static but spatially dynamic
+    keywords:
+    - dimensional
+    - realistic
+    - technical
+    - modern
+    - precise
+  stylePrecedents:
+  - Pixar 3D animation
+  - architectural visualization

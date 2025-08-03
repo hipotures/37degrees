@@ -1,0 +1,59 @@
+styleName: Fractal Art Style
+description: Mathematical art created from repeating patterns and self-similar structures, resembling natural forms like tree branches, coastlines, or snowflakes
+aiPrompts:
+  basePrompt: fractal art, mathematical patterns, Mandelbrot set, Julia set, recursive geometry, infinite zoom
+  negativePrompt: organic painting, hand-drawn, photographic, simple shapes, non-repeating patterns
+  styleKeywords:
+  - fractal
+  - mathematical
+  - recursive
+  - self-similar
+  - infinite
+visualElements:
+  colorPalette:
+    primary:
+    - electric blue
+    - magenta
+    - golden yellow
+    secondary:
+    - deep purple
+    - emerald green
+    - orange red
+    background: black void or dark gradient
+    usageNotes: Vibrant, saturated colors that enhance mathematical beauty
+    saturation: very high
+    contrast: high (bright patterns against dark backgrounds)
+  lineArt:
+    style: mathematical curves and recursive branching
+    weight: varies with zoom level and iteration
+    color: gradient colors following mathematical functions
+    texture: smooth mathematical curves
+    edgeTreatment: precise mathematical boundaries
+  lighting:
+    type: algorithmic coloring based on mathematical functions
+    direction: no traditional lighting (color mapping)
+    intensity: varies by mathematical iteration depth
+    shadows:
+      style: no traditional shadows (mathematical depth)
+      color: darker iterations of the fractal
+      opacity: varies by function
+    highlights: bright convergence points and edge details
+  rendering:
+    technique: mathematical computation and algorithmic generation
+    texture: smooth gradients and sharp mathematical boundaries
+    detailLevel: infinite (zoom reveals more detail)
+    finish: digital perfection with mathematical precision
+  perspective: mathematical space (not traditional 3D perspective)
+  mood:
+    overall: mysterious, infinite, mathematical beauty
+    emotion: wonder, contemplation, cosmic
+    tempo: static yet infinitely complex
+    keywords:
+    - infinite
+    - mysterious
+    - mathematical
+    - cosmic
+    - complex
+  stylePrecedents:
+  - Benoit Mandelbrot mathematical visualizations
+  - fractal flame algorithms

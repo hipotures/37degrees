@@ -1,0 +1,61 @@
+styleName: Frutiger Aero
+description: A design aesthetic prevalent from the mid-2000s to the early 2010s, characterized by glossy textures, skeuomorphism, vibrant colors (especially blues and greens), and imagery of nature (water, bubbles, grass) and technology coexisting optimistically.
+aiPrompts:
+  basePrompt: Frutiger Aero aesthetic, glossy interface, skeuomorphic design, vibrant blue and green, water bubbles, lens flare, rendered nature, optimistic technology, 2000s graphic design
+  negativePrompt: flat design, minimalism, dark, gritty, monochrome, grunge
+  styleKeywords:
+  - Frutiger Aero
+  - glossy
+  - skeuomorphic
+  - optimistic
+  - Y2K aesthetic
+  - wet look
+visualElements:
+  colorPalette:
+    primary:
+    - sky blue
+    - vibrant green
+    - clean white
+    - glossy silver
+    secondary:
+    - bright orange
+    - yellow
+    - transparent glass tones
+    background: bright sky with clouds, water surface, abstract gradients
+    usageNotes: Bright, clean, and optimistic colors with a strong emphasis on glossy and transparent effects.
+    saturation: high, vibrant
+    contrast: medium, clean
+  lineArt:
+    style: clean, soft lines, often defined by gradients and highlights rather than outlines
+    weight: n/a
+    color: n/a
+    texture: perfectly smooth, digital
+    edgeTreatment: soft, rounded, often with a glassy bevel
+  lighting:
+    type: bright, clean, often with a slight bloom or lens flare
+    direction: top-down, mimicking bright daylight
+    intensity: high but soft
+    shadows:
+      style: soft drop shadows to create depth
+      color: light gray
+      opacity: light, subtle
+    highlights: strong specular highlights, glossy sheens, lens flares
+  rendering:
+    technique: 3D rendering, advanced vector graphics
+    texture: glass, water, polished plastic, subtle natural textures
+    detailLevel: high, with a focus on clean, perfect surfaces
+    finish: glossy, wet, transparent
+  perspective: clean, often with a slight 3D angle on UI elements
+  mood:
+    overall: optimistic, clean, futuristic
+    emotion: tranquility, progress, harmony between nature and tech
+    tempo: calm, smooth
+    keywords:
+    - optimistic
+    - clean
+    - glossy
+    - humanistic
+    - environmental
+  stylePrecedents:
+  - Windows 7 Aero interface
+  - Late 2000s product advertising (e.g., for tech or water brands)

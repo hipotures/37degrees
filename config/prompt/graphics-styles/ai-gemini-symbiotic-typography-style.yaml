@@ -1,0 +1,58 @@
+styleName: Geminism - Symbiotic Typography
+description: A typographic style where letters and words are not static symbols but are rendered as living, evolving, symbiotic organisms. Letters grow into one another, sprout floral or fungal appendages, and are colonized by smaller punctuation "parasites." It explores language as a living ecosystem.
+aiPrompts:
+  basePrompt: symbiotic typography, living letters, floral typeface, fungal text, evolving language, organic calligraphy, geminism
+  negativePrompt: clean typography, sans-serif, geometric, static text, kinetic typography
+  styleKeywords:
+  - symbiotic
+  - organic
+  - typography
+  - evolving
+  - living
+visualElements:
+  colorPalette:
+    primary:
+    - earthy greens, browns, and grays of plants and fungi
+    - fleshy pinks and reds
+    - inky black
+    secondary:
+    - bright colors of flowers or poisonous fungi as accents
+    background: a simple, textured surface like paper or wood, or a microscopic, cellular environment
+    usageNotes: A natural, organic palette.
+    saturation: mostly muted and natural, with vibrant accents
+    contrast: medium
+  lineArt:
+    style: the letterforms themselves are the lines, but they are organic, branching, and inconsistent
+    weight: varies, like a plant stem that thins out into tendrils
+    color: dark, ink-like, or natural plant/fungal colors
+    texture: fibrous, woody, soft, or slimy
+    edgeTreatment: organic, with roots, leaves, flowers, or mycelial threads growing from the letters
+  lighting:
+    type: soft, natural, "dappled" light, as if in a forest or under a microscope
+    direction: gentle, top-down
+    intensity: soft
+    shadows:
+      style: soft, organic shadows cast by the complex forms of the letters
+      color: soft, dark earth tones
+      opacity: medium
+    highlights: gentle highlights on wet or curved surfaces
+  rendering:
+    technique: detailed digital painting or 3D rendering
+    texture: plant bark, flower petals, mushroom skin, moss
+    detailLevel: very high, macro-level detail on the organic textures
+    finish: matte, organic, natural
+  perspective: a flat, specimen-like view, or a macro perspective
+  mood:
+    overall: organic, complex, alive
+    emotion: a sense of language as a wild, untamable force of nature
+    tempo: slow, growing
+    keywords:
+    - living
+    - organic
+    - complex
+    - typographic
+    - wild
+  stylePrecedents:
+  - Art Nouveau typography
+  - Ernst Haeckel's biological illustrations
+  - The book "Annihilation" by Jeff VanderMeer

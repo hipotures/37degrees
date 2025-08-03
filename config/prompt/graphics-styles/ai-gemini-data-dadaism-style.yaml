@@ -1,0 +1,58 @@
+styleName: Geminism - Data-Dadaism
+description: A 21st-century evolution of Dadaism that uses the nonsensical, absurd, and often unsettling outputs of AI models as its raw material. Instead of "found objects," it uses "found data" – AI-generated images of non-existent things, GPT-generated poetry that makes no sense, deepfake artifacts – and assembles them into chaotic collages that critique our new reality mediated by algorithms.
+aiPrompts:
+  basePrompt: data-dadaism, AI hallucination collage, nonsensical generated text, found data art, algorithmic absurdity, post-truth art, geminism
+  negativePrompt: human-made art, realism, coherent composition, logic, sense
+  styleKeywords:
+  - dada
+  - AI-generated
+  - absurd
+  - collage
+  - critical
+  - post-truth
+visualElements:
+  colorPalette:
+    primary:
+    - the strange, often oversaturated and "off" colors typical of early AI image generation
+    - clashing, algorithmically chosen colors
+    secondary:
+    - default text and background colors of code editors and language models
+    background: a chaotic layer of generated patterns, text, and interface elements
+    usageNotes: The palette is inherently chaotic and non-human, reflecting its machine origin.
+    saturation: often erratically high or strangely muted
+    contrast: random and jarring
+  lineArt:
+    style: defined by the cut-and-pasted edges of generated images and text blocks, and the strange, melting lines within AI images
+    weight: n/a
+    color: n/a
+    texture: a mix of smooth digital surfaces, JPEG artifacts, and the texture of text
+    edgeTreatment: rough, digital "cut" edges and the bizarre, morphing edges of AI-generated forms (e.g., a dog with seven legs)
+  lighting:
+    type: completely inconsistent, as each "found" element has its own internal, often illogical, lighting
+    direction: chaotic and multiple
+    intensity: varies wildly
+    shadows:
+      style: artifacts and shadows from the original generated images, often making no physical sense
+      color: varies
+      opacity: varies
+    highlights: strange, unmotivated highlights from the AI generation process
+  rendering:
+    technique: digital collage, screenshotting, and assemblage
+    texture: a purely digital texture of pixels, artifacts, and text
+    detailLevel: varies from hyper-detailed AI artifacts to simple blocks of generated text
+    finish: raw, digital, unpolished
+  perspective: a complete rejection of perspective; a flat, chaotic, layered composition
+  mood:
+    overall: absurd, chaotic, critical
+    emotion: disorientation, humor in the absurd, anxiety about AI and truth
+    tempo: chaotic, nonsensical, jarring
+    keywords:
+    - absurd
+    - algorithmic
+    - critical
+    - chaotic
+    - post-truth
+  stylePrecedents:
+  - Dadaism (Hannah Höch, Kurt Schwitters)
+  - Early AI-generated art (e.g., DeepDream)
+  - The "This Person Does Not Exist" phenomenon

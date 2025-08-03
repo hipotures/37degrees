@@ -1,0 +1,61 @@
+styleName: Land Art (Earth Art) Style
+description: An art movement from the 1960s-70s where landscapes and natural materials are used to create the artwork itself. The work is often site-specific, ephemeral, and documented through photography, maps, and drawings.
+aiPrompts:
+  basePrompt: land art, earthwork, environmental art, site-specific installation, natural materials, Robert Smithson style, ephemeral art
+  negativePrompt: studio art, canvas painting, digital art, permanent sculpture, urban setting
+  styleKeywords:
+  - land art
+  - earthwork
+  - environmental
+  - site-specific
+  - ephemeral
+  - natural
+visualElements:
+  colorPalette:
+    primary:
+    - earth tones (soil, rock, sand)
+    - water blues and greens
+    - sky colors
+    secondary:
+    - snow white
+    - foliage greens
+    - sunset oranges
+    background: the natural landscape itself
+    usageNotes: The palette is entirely determined by the natural materials and environment.
+    saturation: natural, as found in nature
+    contrast: natural, determined by sunlight
+  lineArt:
+    style: defined by the edges of materials (rocks, trenches, paths)
+    weight: monumental scale
+    color: natural material colors
+    texture: raw texture of earth, stone, water, etc.
+    edgeTreatment: natural or man-made cuts into the landscape
+  lighting:
+    type: natural sunlight
+    direction: varies with the time of day and weather
+    intensity: natural
+    shadows:
+      style: natural shadows cast by the sun
+      color: natural shadow colors
+      opacity: natural
+    highlights: natural sunlight reflecting off surfaces
+  rendering:
+    technique: physical manipulation of the landscape; documented via photography
+    texture: raw, natural textures of the earth
+    detailLevel: monumental scale, details are natural features
+    finish: natural, weathered
+  perspective: often aerial or wide landscape photography to capture the scale
+  mood:
+    overall: monumental, contemplative, environmental
+    emotion: awe, connection to nature, awareness of time and scale
+    tempo: geological, slow, ephemeral
+    keywords:
+    - monumental
+    - environmental
+    - ephemeral
+    - natural
+    - contemplative
+  stylePrecedents:
+  - Robert Smithson (Spiral Jetty)
+  - Christo and Jeanne-Claude (wrapping projects)
+  - Andy Goldsworthy

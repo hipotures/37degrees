@@ -1,0 +1,59 @@
+styleName: Synthwave Retro Style
+description: 1980s synthwave / outrun aesthetic with neon grids, sunset gradients, palm silhouettes, and a nostalgic electronic vibe
+aiPrompts:
+  basePrompt: synthwave outrun art, neon sunset, palm tree silhouettes, 80s retro, grid horizon, VHS glow
+  negativePrompt: modern realism, earthy tones, high detail, dull lighting
+  styleKeywords:
+  - synthwave
+  - outrun
+  - 80s retro
+  - neon
+  - vaporwave
+visualElements:
+  colorPalette:
+    primary:
+    - hot pink
+    - electric purple
+    - neon cyan
+    secondary:
+    - orange sunset
+    - black silhouette
+    - starry white
+    background: purple-to-orange sunset gradient or starry night sky
+    usageNotes: Strong neon elements against dark backgrounds, with gradient skies typical of 80s album art
+    saturation: very high
+    contrast: high
+  lineArt:
+    style: grid lines and palm tree silhouettes
+    weight: thin grid, bold silhouette
+    color: bright cyan grid, black palms
+    texture: clean lines with a slight glow
+    edgeTreatment: glowing neon edges
+  lighting:
+    type: neon glow and sunset backlight
+    direction: backlit horizon glow
+    intensity: intense at sun, ambient neon elsewhere
+    shadows:
+      style: sharp black silhouettes
+      color: black
+      opacity: solid
+    highlights: bright sun core, neon reflections on grid
+  rendering:
+    technique: digital airbrush gradients and vector lines
+    texture: smooth gradients with slight VHS noise overlay
+    detailLevel: low to moderate (focus on iconic shapes over detail)
+    finish: glossy neon with film grain
+  perspective: low horizon with receding grid
+  mood:
+    overall: nostalgic, energetic, dreamy
+    emotion: cool, melancholic optimism
+    tempo: steady (like a synth beat)
+    keywords:
+    - nostalgic
+    - vibrant
+    - dreamy
+    - electronic
+    - 80s
+  stylePrecedents:
+  - Outrun album covers
+  - 1980s arcade art

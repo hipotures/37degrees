@@ -1,0 +1,59 @@
+styleName: Sketchy Drawing Style
+description: Loose, fluid drawing style emphasizing quick gestural lines, organic movement, and spontaneous mark-making with visible construction lines
+aiPrompts:
+  basePrompt: sketchy drawing, loose lines, gestural, quick sketch, construction lines, fluid movement
+  negativePrompt: tight rendering, precise lines, finished artwork, photorealistic, clean vectors
+  styleKeywords:
+  - sketchy
+  - loose
+  - gestural
+  - fluid
+  - spontaneous
+visualElements:
+  colorPalette:
+    primary:
+    - graphite gray
+    - charcoal black
+    - paper white
+    secondary:
+    - warm sepia
+    - cool blue gray
+    - sketch pen colors
+    background: paper texture or sketchbook
+    usageNotes: Minimal color, focus on line quality and movement
+    saturation: low (sketch materials)
+    contrast: medium to high (dark lines on light paper)
+  lineArt:
+    style: loose, flowing, multiple overlapping lines
+    weight: varies with pressure and speed
+    color: pencil, pen, or charcoal colors
+    texture: rough, hand-drawn quality
+    edgeTreatment: soft, multiple line approximations
+  lighting:
+    type: simple shading with cross-hatching or smudging
+    direction: basic light source indication
+    intensity: suggested rather than rendered
+    shadows:
+      style: loose hatching or quick shading
+      color: darker sketch medium
+      opacity: varies with pressure
+    highlights: paper white or light sketch marks
+  rendering:
+    technique: rapid sketch techniques, gesture drawing
+    texture: paper texture, sketch medium texture
+    detailLevel: low to medium (essential elements only)
+    finish: unfinished, work-in-progress appearance
+  perspective: loose, approximate perspective
+  mood:
+    overall: spontaneous, energetic, fresh
+    emotion: creativity, exploration, movement
+    tempo: quick, dynamic
+    keywords:
+    - spontaneous
+    - energetic
+    - fresh
+    - creative
+    - dynamic
+  stylePrecedents:
+  - Leonardo da Vinci sketches
+  - gesture drawing studies

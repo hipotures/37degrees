@@ -1,0 +1,58 @@
+styleName: Skeuomorphism Style
+description: A design style in interface design where digital elements mimic the appearance of their real-world counterparts. Characterized by rich textures (leather, paper, metal), shadows, and realistic lighting to create impression of physicality.
+aiPrompts:
+  basePrompt: skeuomorphic UI design, realistic interface, leather texture, brushed metal, drop shadows, physical object metaphor, early iOS style
+  negativePrompt: flat design, minimalist, abstract, material design, no textures
+  styleKeywords:
+  - skeuomorphism
+  - realistic UI
+  - textured
+  - 3D interface
+  - analog metaphor
+visualElements:
+  colorPalette:
+    primary:
+    - leather shades (browns)
+    - metallic grays
+    - wood colors
+    secondary:
+    - green felt color (gaming tables)
+    - yellow paper color (notepads)
+    background: textured backgrounds (e.g., linen binding, metal plate)
+    usageNotes: Colors and materials directly mimic physical objects.
+    saturation: natural, muted
+    contrast: medium, built through shadows and lights
+  lineArt:
+    style: none, edges defined by shadows, lights and seams
+    weight: n/a
+    color: n/a
+    texture: visible seams on leather, edges of metal plates
+    edgeTreatment: rounded, physical edges with beveling
+  lighting:
+    type: realistic, studio lighting
+    direction: usually from above, at slight angle (top-down)
+    intensity: moderate, creating subtle shadows
+    shadows:
+      style: soft drop shadows and inner shadows
+      color: dark gray or black
+      opacity: light to medium, blurred
+    highlights: subtle gradients and reflections on shiny surfaces
+  rendering:
+    technique: photorealistic material rendering
+    texture: leather, metal, wood, paper, glass
+    detailLevel: very high, with attention to details like seams or paper texture
+    finish: varied depending on material (matte leather, shiny metal)
+  perspective: flat interface with strong illusion of depth and physicality
+  mood:
+    overall: familiar, tactile, rich
+    emotion: comfort, nostalgia for analog world, satisfaction with details
+    tempo: static, solid
+    keywords:
+    - tactile
+    - realistic
+    - rich
+    - familiar
+    - analog
+  stylePrecedents:
+  - early Apple iOS and macOS versions (before iOS 7)
+  - application interfaces like GarageBand or iBooks

@@ -1,0 +1,59 @@
+styleName: Stained Glass Art Style
+description: Medieval decorative art style featuring colored glass pieces separated by dark lead lines, with light creating luminous color effects
+aiPrompts:
+  basePrompt: stained glass window, colored glass, lead lines, luminous colors, gothic cathedral, translucent
+  negativePrompt: opaque painting, canvas art, realistic shading, photographic, modern materials
+  styleKeywords:
+  - stained glass
+  - colored glass
+  - lead lines
+  - luminous
+  - translucent
+visualElements:
+  colorPalette:
+    primary:
+    - jewel blue
+    - ruby red
+    - emerald green
+    secondary:
+    - golden yellow
+    - royal purple
+    - amber orange
+    background: glowing light or dark cathedral interior
+    usageNotes: Rich, saturated colors that appear to glow with transmitted light
+    saturation: very high (jewel-like intensity)
+    contrast: high (dark lead lines against bright glass)
+  lineArt:
+    style: thick black lead lines separating colored areas
+    weight: heavy, consistent lead line thickness
+    color: black or dark gray (lead came)
+    texture: solid, structural lines
+    edgeTreatment: smooth, metallic lead appearance
+  lighting:
+    type: transmitted light through colored glass
+    direction: backlighting through glass
+    intensity: bright, glowing effect
+    shadows:
+      style: colored shadows cast by stained glass
+      color: glass colors projected as shadows
+      opacity: semi-transparent colored light
+    highlights: brilliant glass illumination, light transmission
+  rendering:
+    technique: flat colored areas with luminous quality
+    texture: smooth glass surface with light transmission
+    detailLevel: moderate (defined by lead line construction)
+    finish: glossy glass with light transmission
+  perspective: often flat, decorative arrangement
+  mood:
+    overall: sacred, luminous, magnificent
+    emotion: reverence, awe, spiritual beauty
+    tempo: timeless, contemplative
+    keywords:
+    - sacred
+    - luminous
+    - magnificent
+    - spiritual
+    - glowing
+  stylePrecedents:
+  - Gothic cathedral windows
+  - Louis Comfort Tiffany glass

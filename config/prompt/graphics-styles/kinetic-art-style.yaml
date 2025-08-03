@@ -1,0 +1,62 @@
+styleName: Kinetic Art Style
+description: An art movement where the main element is motion - real or apparent. Works often consist of moving parts powered mechanically or by natural forces, or create illusion of movement through patterns and colors (as in Op Art).
+aiPrompts:
+  basePrompt: kinetic art, moving sculpture, optical illusion of movement, wind-powered art, mechanical motion, abstract forms in motion
+  negativePrompt: static, painting, still life, figurative, traditional sculpture
+  styleKeywords:
+  - kinetic
+  - movement
+  - motion
+  - dynamic
+  - mechanical
+  - illusion
+visualElements:
+  colorPalette:
+    primary:
+    - metallic silver
+    - black
+    - white
+    - primary colors (red, blue)
+    secondary:
+    - polished metals
+    - transparent plastics
+    - mirror surfaces
+    background: neutral background (white gallery wall) to not interfere with movement
+    usageNotes: Color is often secondary to form and movement; materials with natural color are popular.
+    saturation: varied, from none (metals) to high (painted elements)
+    contrast: high, to emphasize moving parts
+  lineArt:
+    style: precise, geometric edges of moving elements
+    weight: defined by material (e.g., thickness of metal rod)
+    color: material color
+    texture: smooth, industrial surfaces
+    edgeTreatment: sharp, clean, mechanical
+  lighting:
+    type: gallery lighting that creates moving shadows and reflections
+    direction: often from multiple sides to emphasize dynamics
+    intensity: moderate to high
+    shadows:
+      style: moving, dynamic shadows cast by the work
+      color: gray or black
+      opacity: variable depending on movement
+    highlights: moving reflections on polished surfaces
+  rendering:
+    technique: sculpture from metal, wood, plastic; precise constructions
+    texture: smooth, polished, industrial
+    detailLevel: high in mechanisms, simplified in forms
+    finish: industrial, precise
+  perspective: viewed from multiple sides, changing with movement of viewer and artwork
+  mood:
+    overall: dynamic, hypnotic, technical
+    emotion: fascination with movement, amazement, contemplation of change
+    tempo: variable, from slow and fluid to fast and vibrating
+    keywords:
+    - movement
+    - dynamic
+    - mechanical
+    - hypnotic
+    - interactive
+  stylePrecedents:
+  - Alexander Calder (mobiles)
+  - Jean Tinguely (self-destroying sculptures)
+  - Naum Gabo

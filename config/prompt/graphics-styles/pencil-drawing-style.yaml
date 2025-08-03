@@ -1,0 +1,59 @@
+styleName: Pencil Drawing Style
+description: Traditional graphite pencil drawing technique with varying line weights, shading, and the natural texture of pencil on paper
+aiPrompts:
+  basePrompt: pencil drawing, graphite, shading, cross-hatching, paper texture, hand-drawn
+  negativePrompt: color, painting, digital, smooth gradients, photographic, ink
+  styleKeywords:
+  - pencil drawing
+  - graphite
+  - shading
+  - cross-hatching
+  - hand-drawn
+visualElements:
+  colorPalette:
+    primary:
+    - graphite gray
+    - paper white
+    - charcoal black
+    secondary:
+    - light gray tones
+    - medium gray tones
+    - dark gray tones
+    background: white or cream paper
+    usageNotes: Monochromatic grayscale from graphite pencil
+    saturation: none (grayscale only)
+    contrast: varies by pencil pressure and hardness
+  lineArt:
+    style: hand-drawn pencil lines with natural variation
+    weight: varies with pencil pressure (light to heavy)
+    color: graphite gray in various intensities
+    texture: pencil grain on paper texture
+    edgeTreatment: soft, natural pencil edges
+  lighting:
+    type: rendered through shading and cross-hatching
+    direction: indicated by shadow placement
+    intensity: controlled by pencil pressure and layering
+    shadows:
+      style: cross-hatching, blending, or solid shading
+      color: darker graphite tones
+      opacity: built up through layering
+    highlights: paper white or light pencil marks
+  rendering:
+    technique: traditional pencil techniques (hatching, blending, stippling)
+    texture: paper texture visible through pencil application
+    detailLevel: high (pencil allows fine detail control)
+    finish: matte graphite on paper
+  perspective: traditional linear perspective
+  mood:
+    overall: intimate, classic, handcrafted
+    emotion: contemplation, study, traditional beauty
+    tempo: careful, deliberate
+    keywords:
+    - intimate
+    - classic
+    - handcrafted
+    - contemplative
+    - traditional
+  stylePrecedents:
+  - Leonardo da Vinci studies
+  - academic drawing tradition

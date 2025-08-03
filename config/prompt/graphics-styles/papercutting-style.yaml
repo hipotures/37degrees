@@ -1,0 +1,59 @@
+styleName: Papercutting Style
+description: Traditional paper cutting art form creating intricate patterns and designs from single sheets of paper, different from collage techniques
+aiPrompts:
+  basePrompt: paper cutting art, intricate paper patterns, silhouette cutting, delicate cutwork, single sheet
+  negativePrompt: collage, multiple papers, painted, drawn, photographic, layered materials
+  styleKeywords:
+  - paper cutting
+  - silhouette
+  - intricate
+  - delicate
+  - cutwork
+visualElements:
+  colorPalette:
+    primary:
+    - paper white
+    - cut shadows
+    - single color paper
+    secondary:
+    - black silhouettes
+    - colored paper tones
+    - light gray shadows
+    background: contrasting background to show cuts
+    usageNotes: Usually monochromatic, focusing on positive/negative space
+    saturation: low (paper colors)
+    contrast: very high (cut vs uncut areas)
+  lineArt:
+    style: cut edges and intricate patterns
+    weight: determined by cutting tool precision
+    color: edge of cut paper
+    texture: clean cut edges, paper fiber texture
+    edgeTreatment: sharp, precise cuts
+  lighting:
+    type: natural lighting showing paper depth
+    direction: side lighting to emphasize cuts
+    intensity: moderate to show dimensional quality
+    shadows:
+      style: natural shadows cast by cut paper layers
+      color: gray
+      opacity: semi-transparent
+    highlights: paper surface catching light
+  rendering:
+    technique: precise cutting simulation
+    texture: paper fiber texture, clean cuts
+    detailLevel: high (intricate cut patterns)
+    finish: matte paper finish
+  perspective: flat with subtle dimensional quality from cuts
+  mood:
+    overall: delicate, precise, traditional
+    emotion: craftsmanship, patience, elegance
+    tempo: quiet, meditative
+    keywords:
+    - delicate
+    - precise
+    - elegant
+    - traditional
+    - meditative
+  stylePrecedents:
+  - Chinese paper cutting (Jianzhi)
+  - Mexican papel picado

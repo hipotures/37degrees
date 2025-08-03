@@ -1,0 +1,59 @@
+styleName: Biomorphic Abstraction
+description: A type of abstract art that evokes living forms from nature, such as plants, amoebas, and anatomical parts, without being a literal representation. The shapes are soft, rounded, and organic.
+aiPrompts:
+  basePrompt: biomorphic abstraction, organic shapes, surrealist abstraction, rounded forms, amoeba-like, Joan Miró style, Jean Arp sculpture
+  negativePrompt: geometric abstraction, hard-edge, straight lines, mechanical, figurative art
+  styleKeywords:
+  - biomorphic
+  - organic
+  - abstract
+  - surrealist
+  - rounded
+visualElements:
+  colorPalette:
+    primary:
+    - often primary colors (red, blue, yellow)
+    - black and white
+    secondary:
+    - earthy tones (browns, greens)
+    - soft pastels
+    background: flat, solid color or a simple gradient
+    usageNotes: The palette can range from simple and graphic to complex and painterly.
+    saturation: varies by artist, from high to muted
+    contrast: often high, with clear shapes against a background
+  lineArt:
+    style: smooth, curving, calligraphic lines that define the organic shapes
+    weight: varied, from thin and delicate to bold and graphic
+    color: often black, but can be any color
+    texture: smooth, flowing
+    edgeTreatment: soft, rounded, organic
+  lighting:
+    type: generally flat or with simple modeling to give a sense of volume
+    direction: n/a or a simple, single source
+    intensity: moderate
+    shadows:
+      style: soft, simple shadows to suggest roundness
+      color: a darker tone of the base color
+      opacity: solid or blended
+    highlights: simple highlights to suggest a curved surface
+  rendering:
+    technique: painting, sculpture, drawing
+    texture: smooth surfaces
+    detailLevel: minimal to moderate, focusing on the purity of the form
+    finish: matte or satin
+  perspective: abstract, often with shapes floating in an undefined space
+  mood:
+    overall: organic, playful, surreal
+    emotion: serenity, vitality, curiosity
+    tempo: flowing, gentle
+    keywords:
+    - organic
+    - flowing
+    - surreal
+    - natural
+    - abstract
+  stylePrecedents:
+  - Jean Arp
+  - Joan Miró
+  - Henry Moore
+  - Yves Tanguy

@@ -1,0 +1,59 @@
+styleName: Tachisme
+description: A style of French abstract painting from the 1940s and 1950s, considered a European equivalent to action painting. It is characterized by spontaneous brushwork, drips, blots, and splotches of paint directly from the tube.
+aiPrompts:
+  basePrompt: Tachisme painting, abstract, spontaneous brushwork, paint splotches, gestural, Art Informel, lyrical abstraction
+  negativePrompt: geometric abstraction, hard-edge painting, figurative, planned composition, smooth finish
+  styleKeywords:
+  - Tachisme
+  - gestural
+  - spontaneous
+  - abstract
+  - blot
+visualElements:
+  colorPalette:
+    primary:
+    - varied, often with a focus on earthy or primary colors
+    - colors are often mixed directly on the canvas
+    secondary:
+    - black
+    - white
+    - contrasting accents
+    background: raw canvas or a field of color
+    usageNotes: The palette is intuitive and process-driven, not pre-planned.
+    saturation: varies from muted to vibrant
+    contrast: high, created by the juxtaposition of different gestures and colors
+  lineArt:
+    style: no traditional line art; lines are formed by drips, gestures, and calligraphic strokes
+    weight: highly varied, from thin drips to thick impasto strokes
+    color: any paint color
+    texture: raw, energetic, textured
+    edgeTreatment: irregular, accidental, expressive
+  lighting:
+    type: none (non-representational)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: literal shadows created by the thickness of the paint (impasto)
+      color: n/a
+      opacity: n/a
+    highlights: created by thick applications of light-colored paint
+  rendering:
+    technique: direct and spontaneous application of paint (dripping, throwing, smearing)
+    texture: heavy impasto, drips, raw canvas texture
+    detailLevel: low in terms of representation, high in textural complexity
+    finish: highly textured, raw
+  perspective: none (flat, abstract space)
+  mood:
+    overall: energetic, raw, intuitive
+    emotion: raw expression, freedom, existential angst or joy
+    tempo: fast, dynamic, spontaneous
+    keywords:
+    - spontaneous
+    - raw
+    - energetic
+    - gestural
+    - intuitive
+  stylePrecedents:
+  - Jean-Paul Riopelle
+  - Wols
+  - Hans Hartung

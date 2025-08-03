@@ -1,0 +1,58 @@
+styleName: VHS Retro Aesthetic Style
+description: Nostalgic VHS tape aesthetic with scan lines, desaturated colors, fuzzy resolution, and occasional analog tracking noise
+aiPrompts:
+  basePrompt: VHS retro video look, scanlines, VHS static, 1980s analog video, color distortion, tape noise
+  negativePrompt: crisp HD, modern clarity, no noise, vibrant colors
+  styleKeywords:
+  - VHS
+  - analog
+  - scanlines
+  - retro
+  - static
+visualElements:
+  colorPalette:
+    primary:
+    - washed-out blue
+    - muted red
+    - dull green
+    secondary:
+    - glitchy purple
+    - cyan tint
+    background: dark gray static
+    usageNotes: Faded colors appear smeared or ghosted due to tape wear
+    saturation: low
+    contrast: low to medium (bloomy highlights, muddy shadows)
+  lineArt:
+    style: n/a (edges defined by pixel artifact)
+    weight: n/a
+    color: n/a
+    texture: horizontal scan lines across image
+    edgeTreatment: blurred, ghosted edges
+  lighting:
+    type: analog video glow
+    direction: n/a
+    intensity: soft overall
+    shadows:
+      style: bleeding dark areas with low detail
+      color: blue or magenta tint in shadows
+      opacity: low
+    highlights: blooming white flares on bright spots
+  rendering:
+    technique: low-resolution analog video playback
+    texture: grainy, with static specks and occasional scratches
+    detailLevel: low (320x240 video feel)
+    finish: interlaced flicker
+  perspective: flat recorded view
+  mood:
+    overall: nostalgic, gritty, retro-tech
+    emotion: yearning, disquiet
+    tempo: uneven (jittery playback)
+    keywords:
+    - nostalgic
+    - lo-fi
+    - grainy
+    - analog
+    - glitchy
+  stylePrecedents:
+  - 1980s VHS tapes
+  - Analog horror aesthetics

@@ -1,0 +1,58 @@
+styleName: Analog Tape Distortion Style
+description: Visual aesthetic inspired by magnetic tape distortion, featuring warbled lines, color bleed, and uneven frame alignment as if the media is worn
+aiPrompts:
+  basePrompt: magnetic tape distortion, analog glitch, warping lines, color bleed, cassette futurism
+  negativePrompt: stable image, perfect alignment, digital clarity, clean lines
+  styleKeywords:
+  - analog tape
+  - warped
+  - distorted
+  - vintage
+  - glitch
+visualElements:
+  colorPalette:
+    primary:
+    - faded brown
+    - olive green
+    - dull orange
+    secondary:
+    - pink streaks
+    - cyan streaks
+    background: dark backdrop with static bands
+    usageNotes: Colors shift and bleed at edges due to tape wear
+    saturation: low to medium
+    contrast: medium
+  lineArt:
+    style: wavy horizontal distortion lines
+    weight: varying thickness (tracking waves)
+    color: light or dark depending on scene
+    texture: blurry, smeared line edges
+    edgeTreatment: feathered, trailing on moving objects
+  lighting:
+    type: uneven brightness flicker
+    direction: n/a
+    intensity: variable
+    shadows:
+      style: ghosted frame overlaps
+      color: brownish or purple tint
+      opacity: semi-transparent
+    highlights: overexposed bands flicker
+  rendering:
+    technique: damaged analog tape playback
+    texture: grain, jittery noise bands
+    detailLevel: low (detail lost in distortion)
+    finish: unstable, glitchy frames
+  perspective: 2D video plane (sometimes skewed or rolled)
+  mood:
+    overall: distorted, eerie, nostalgic
+    emotion: unease, nostalgia
+    tempo: irregular, stuttering
+    keywords:
+    - distorted
+    - warped
+    - lo-fi
+    - nostalgic
+    - glitchy
+  stylePrecedents:
+  - VHS tracking artifacts
+  - Analog glitch art

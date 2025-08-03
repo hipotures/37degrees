@@ -1,0 +1,60 @@
+styleName: Vintage Offset Print Style
+description: Retro print aesthetic with visible halftone dots, slight misregistration of colors, and a tactile, off-set alignment charm
+aiPrompts:
+  basePrompt: vintage offset print, halftone texture, misregistered colors, old newspaper comic, CMYK print
+  negativePrompt: perfect digital print, smooth gradients, high definition
+  styleKeywords:
+  - offset print
+  - halftone
+  - vintage
+  - misregistered
+  - print texture
+visualElements:
+  colorPalette:
+    primary:
+    - cyan
+    - magenta
+    - yellow
+    - black
+    secondary:
+    - off-white paper
+    - retro teal
+    - orange tint
+    background: newsprint white or yellowed paper
+    usageNotes: Colors often slightly off alignment creating fringe effects
+    saturation: medium
+    contrast: medium
+  lineArt:
+    style: solid ink outlines with dot shading
+    weight: medium, uniform
+    color: black
+    texture: visible halftone dot shading
+    edgeTreatment: slightly fuzzy edges (ink spread)
+  lighting:
+    type: flat (print has no 3D lighting)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: hatching or dot clusters for shadows
+      color: darker halftone of color
+      opacity: solid
+    highlights: lighter dot screens
+  rendering:
+    technique: offset CMYK printing with screens
+    texture: visible halftone dots and ink grain
+    detailLevel: moderate (simplified forms due to print constraints)
+    finish: matte, printed on paper
+  perspective: flat, poster-like composition
+  mood:
+    overall: nostalgic, graphic, tactile
+    emotion: playful, familiar
+    tempo: steady, rhythmic
+    keywords:
+    - retro
+    - tactile
+    - graphic
+    - printed
+    - nostalgic
+  stylePrecedents:
+  - Vintage comic books
+  - Mid-century advertising prints

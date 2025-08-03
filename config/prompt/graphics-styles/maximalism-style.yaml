@@ -1,0 +1,59 @@
+styleName: Maximalism Style
+description: Design philosophy embracing "more is more" with layered complexity, rich patterns, abundant colors, and eclectic visual density
+aiPrompts:
+  basePrompt: maximalist design, layered complexity, rich patterns, abundant colors, eclectic elements, visual density, ornate decoration
+  negativePrompt: minimalism, simple design, limited palette, sparse composition, clean lines, empty space
+  styleKeywords:
+  - maximalism
+  - layered
+  - complex
+  - abundant
+  - eclectic
+visualElements:
+  colorPalette:
+    primary:
+    - rich jewel tones
+    - gold accents
+    - deep purples
+    secondary:
+    - emerald green
+    - ruby red
+    - sapphire blue
+    background: complex, patterned backgrounds with multiple layers
+    usageNotes: Rich, saturated colors in complex combinations
+    saturation: very high (rich, luxurious)
+    contrast: high (dramatic color relationships)
+  lineArt:
+    style: ornate, decorative lines with complex patterns
+    weight: varies dramatically for visual interest
+    color: multiple colors in single composition
+    texture: rich, varied textures throughout
+    edgeTreatment: ornate, decorative edges
+  lighting:
+    type: dramatic, multiple light sources
+    direction: complex lighting from various angles
+    intensity: varied, creating visual drama
+    shadows:
+      style: complex, layered shadows
+      color: rich, colored shadows
+      opacity: varies throughout composition
+    highlights: multiple bright highlights creating complexity
+  rendering:
+    technique: layered, complex rendering methods
+    texture: multiple textures combined in single work
+    detailLevel: extremely high (every surface decorated)
+    finish: varied finishes within single composition
+  perspective: complex, multiple perspectives if desired
+  mood:
+    overall: abundant, luxurious, overwhelming
+    emotion: richness, abundance, sensory overload
+    tempo: complex, layered
+    keywords:
+    - abundant
+    - luxurious
+    - overwhelming
+    - rich
+    - complex
+  stylePrecedents:
+  - Victorian interior design
+  - Baroque palace decoration

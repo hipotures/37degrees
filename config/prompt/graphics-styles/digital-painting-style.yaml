@@ -1,0 +1,59 @@
+styleName: Digital Painting Style
+description: Digital painting style using tablets and applications to create images resembling traditional oil paints or watercolors in a digital environment
+aiPrompts:
+  basePrompt: digital painting, digital brush, tablet art, painterly texture, digital canvas
+  negativePrompt: vector graphics, pixel art, photography, mechanical rendering
+  styleKeywords:
+  - digital painting
+  - painterly
+  - brush strokes
+  - tablet art
+  - digital canvas
+visualElements:
+  colorPalette:
+    primary:
+    - warm ochre
+    - prussian blue
+    - burnt sienna
+    secondary:
+    - cadmium yellow
+    - alizarin crimson
+    - titanium white
+    background: artist canvas texture or neutral gray
+    usageNotes: Rich, blendable colors with natural paint mixing
+    saturation: medium to high
+    contrast: medium (soft transitions)
+  lineArt:
+    style: loose, expressive brush strokes
+    weight: varied (thick to thin like brush pressure)
+    color: integrated into painting (no separate outlines)
+    texture: visible brush texture and blending
+    edgeTreatment: soft edges with natural paint blending
+  lighting:
+    type: natural studio lighting or dramatic chiaroscuro
+    direction: varied (depending on subject)
+    intensity: moderate with soft transitions
+    shadows:
+      style: painted shadows with soft edges
+      color: complement colors
+      opacity: blended
+    highlights: painted highlights with brush texture
+  rendering:
+    technique: digital brush simulation of traditional painting
+    texture: canvas texture, brush marks, paint impasto
+    detailLevel: moderate to high (painterly detail)
+    finish: matte like traditional paint
+  perspective: traditional artistic perspective
+  mood:
+    overall: artistic, expressive, handcrafted
+    emotion: varies by subject (intimate, dramatic, contemplative)
+    tempo: measured, thoughtful
+    keywords:
+    - artistic
+    - expressive
+    - painterly
+    - traditional
+    - handcrafted
+  stylePrecedents:
+  - digital works by Craig Mullins
+  - Corel Painter artwork

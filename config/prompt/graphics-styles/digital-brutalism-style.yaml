@@ -1,0 +1,60 @@
+styleName: Digital Brutalism Style
+description: Stark digital aesthetic inspired by Brutalist design, with clashing colors, raw HTML vibe, and deliberately low-fi graphics
+aiPrompts:
+  basePrompt: digital brutalism design, 90s web graphics, clashing colors, simple shapes, bare interface
+  negativePrompt: sleek modern UI, polished gradients, realistic, ornate
+  styleKeywords:
+  - digital brutalism
+  - raw web
+  - minimalist
+  - lo-fi
+  - bold
+visualElements:
+  colorPalette:
+    primary:
+    - web-safe blue
+    - bright red
+    - yellow
+    - black
+    secondary:
+    - gray
+    - white
+    - neon green
+    background: plain white or clashing solid color
+    usageNotes: Intentionally discordant web-safe colors with high contrast
+    saturation: high
+    contrast: high
+  lineArt:
+    style: simple pixelated or vector lines
+    weight: 1px or bold, no anti-alias
+    color: black or primary colors
+    texture: crisp, pixelated
+    edgeTreatment: none (raw jagged edges)
+  lighting:
+    type: flat (no shading)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none or basic drop-shadows
+      color: black
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: basic HTML/CSS-style graphics
+    texture: flat colors, visible pixels
+    detailLevel: minimal (only essential elements)
+    finish: raw, unrefined digital output
+  perspective: frontal, schematic layout
+  mood:
+    overall: bold, utilitarian, rebellious
+    emotion: nostalgia (90s), provocation
+    tempo: static, deliberate
+    keywords:
+    - raw
+    - utilitarian
+    - edgy
+    - nostalgic
+    - minimalist
+  stylePrecedents:
+  - Brutalist web design
+  - GeoCities era sites

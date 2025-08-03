@@ -1,0 +1,59 @@
+styleName: Tapestry Weaving Style
+description: Textile art creating narrative images through woven fibers, featuring rich textures, storytelling elements, and medieval or renaissance themes
+aiPrompts:
+  basePrompt: tapestry weaving, textile art, woven threads, narrative scenes, medieval themes, rich fabric texture
+  negativePrompt: smooth painting, modern themes, photographic detail, canvas art, contemporary style
+  styleKeywords:
+  - tapestry
+  - weaving
+  - textile art
+  - narrative
+  - medieval
+visualElements:
+  colorPalette:
+    primary:
+    - rich burgundy
+    - royal blue
+    - gold thread
+    secondary:
+    - forest green
+    - ivory white
+    - deep purple
+    background: woven textile backgrounds with narrative scenes
+    usageNotes: Rich, saturated colors typical of medieval dyes and threads
+    saturation: high (rich textile dyes)
+    contrast: medium (woven texture softens contrasts)
+  lineArt:
+    style: woven thread outlines, textile construction
+    weight: defined by thread thickness
+    color: colored threads forming outlines
+    texture: woven thread texture throughout
+    edgeTreatment: soft, textile edges
+  lighting:
+    type: flat, decorative lighting (not naturalistic)
+    direction: even, decorative illumination
+    intensity: consistent, textile-appropriate
+    shadows:
+      style: minimal, decorative shadows
+      color: darker thread colors
+      opacity: woven into textile
+    highlights: lighter colored threads
+  rendering:
+    technique: woven thread construction
+    texture: visible woven thread texture throughout
+    detailLevel: moderate (limited by weaving technique)
+    finish: textile surface with visible weave
+  perspective: medieval perspective, often hierarchical
+  mood:
+    overall: narrative, crafted, historical
+    emotion: storytelling, craftsmanship, tradition
+    tempo: measured, narrative
+    keywords:
+    - narrative
+    - crafted
+    - historical
+    - traditional
+    - storytelling
+  stylePrecedents:
+  - Bayeux Tapestry
+  - Unicorn Tapestries

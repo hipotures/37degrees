@@ -1,0 +1,57 @@
+styleName: Macrame Style
+description: Visual style mimicking the aesthetics of macrame - a cord-knotting technique without using crochet or knitting needles. Characterized by visible knot textures, geometric and organic patterns, and natural "boho" atmosphere.
+aiPrompts:
+  basePrompt: macrame wall hanging, knotted cord texture, bohemian style, fiber art, decorative knots, natural cotton rope
+  negativePrompt: smooth surface, painting, digital art, metal, plastic
+  styleKeywords:
+  - macrame
+  - knotted
+  - fiber art
+  - bohemian
+  - textured
+visualElements:
+  colorPalette:
+    primary:
+    - natural cotton (cream, beige)
+    - white
+    secondary:
+    - dyed cords (sage green, terracotta, mustard)
+    - natural wood (sticks, beads)
+    background: simple wall (white, brick) to highlight texture
+    usageNotes: Palette is very natural and earthy.
+    saturation: low, muted
+    contrast: low, texture light play is more important
+  lineArt:
+    style: no lines, forms created by cord path and knots
+    weight: cord thickness
+    color: cord color
+    texture: distinct texture of twisted cord and knots
+    edgeTreatment: fringes, loosely hanging cord ends
+  lighting:
+    type: soft, natural light
+    direction: side lighting to emphasize knot texture
+    intensity: moderate
+    shadows:
+      style: distinct, small shadows cast by individual knots and braids
+      color: darker shade of cord
+      opacity: medium
+    highlights: brighter parts of cords facing toward light
+  rendering:
+    technique: photorealistic 3D render or very detailed illustration
+    texture: dominant texture of fibers, cords, knots
+    detailLevel: very high, focused on precise braiding representation
+    finish: matte, textile
+  perspective: frontal view, like wall-hanging decoration
+  mood:
+    overall: natural, handcrafted, peaceful
+    emotion: warmth, comfort, relaxation, boho style
+    tempo: calm, static
+    keywords:
+    - handcraft
+    - textile
+    - natural
+    - boho
+    - textured
+  stylePrecedents:
+  - traditional wall macrame
+  - contemporary bohemian design

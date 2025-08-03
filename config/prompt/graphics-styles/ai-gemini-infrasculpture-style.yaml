@@ -1,0 +1,58 @@
+styleName: Geminism - Infrasculpture
+description: A style of 3D art that visualizes invisible physical phenomena as solid, tangible sculptures. It gives form to things like magnetic fields, gravitational waves, wifi signals, or scent particles, rendering them in hyperrealistic materials as if they were real-world objects.
+aiPrompts:
+  basePrompt: infrasculpture, visualizing the invisible, magnetic field sculpture, wifi signal made of glass, tangible physics, geminism
+  negativePrompt: abstract art, figurative sculpture, visible objects, 2d illustration
+  styleKeywords:
+  - invisible
+  - visualization
+  - tangible
+  - scientific
+  - sculpture
+visualElements:
+  colorPalette:
+    primary:
+    - translucent glass tones
+    - polished metallic colors
+    - ethereal, glowing colors
+    secondary:
+    - colors are often used to represent data (e.g., signal strength, field polarity)
+    background: a minimalist gallery space or a real-world environment to show the phenomenon in context
+    usageNotes: The palette is clean and often translucent or glowing to represent the ethereal nature of the subject.
+    saturation: medium to high
+    contrast: medium
+  lineArt:
+    style: no lines; the form is a continuous 3D shape
+    weight: n/a
+    color: n/a
+    texture: often perfectly smooth, glassy, or with a subtle energy-like pattern
+    edgeTreatment: soft, flowing, volumetric edges
+  lighting:
+    type: realistic studio or environmental lighting that interacts with the sculpture's material
+    direction: chosen to best reveal the complex, often volumetric, form of the sculpture
+    intensity: realistic
+    shadows:
+      style: realistic shadows and caustics (if the material is glass or liquid)
+      color: realistic
+      opacity: realistic
+    highlights: realistic specular highlights and refractions that define the form
+  rendering:
+    technique: photorealistic 3D rendering with a focus on materials like glass, polished metal, or glowing plasma
+    texture: smooth, liquid, or energetic textures
+    detailLevel: high, to make the invisible form believable
+    finish: glossy, transparent, refractive, or glowing
+  perspective: a realistic perspective that places the "sculpture" in a believable space
+  mood:
+    overall: wondrous, educational, revelatory
+    emotion: awe at the unseen world, curiosity, a new perspective on reality
+    tempo: static, silent
+    keywords:
+    - revelatory
+    - scientific
+    - wondrous
+    - tangible
+    - unseen
+  stylePrecedents:
+  - Scientific data visualization
+  - Abstract glass sculpture (Dale Chihuly)
+  - Medical imaging (MRI, CT scans)

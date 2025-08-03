@@ -1,0 +1,60 @@
+styleName: Suprematism Style
+description: A Russian avant-garde movement founded by Kazimir Malevich, focused on pure geometric abstraction and the "supremacy of pure artistic feeling" over representation. It uses fundamental geometric forms like squares, circles, and crosses.
+aiPrompts:
+  basePrompt: suprematism, pure geometric abstraction, Kazimir Malevich style, floating shapes, non-objective art, black square
+  negativePrompt: figurative, landscape, portrait, detailed, realistic, narrative
+  styleKeywords:
+  - suprematism
+  - abstract
+  - geometric
+  - non-objective
+  - minimalist
+  - avant-garde
+visualElements:
+  colorPalette:
+    primary:
+    - black
+    - red
+    secondary:
+    - white
+    - yellow
+    - blue
+    - green
+    background: pure white or off-white
+    usageNotes: Extremely limited palette. Shapes often appear to float on a white void.
+    saturation: high for colored elements
+    contrast: extremely high
+  lineArt:
+    style: none; forms are defined by their solid shape
+    weight: n/a
+    color: n/a
+    texture: n/a
+    edgeTreatment: sharp, precise geometric edges
+  lighting:
+    type: none (flat composition)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none
+      color: n/a
+      opacity: n/a
+    highlights: none
+  rendering:
+    technique: flat, untextured oil paint on canvas
+    texture: smooth, with subtle signs of brushwork upon close inspection
+    detailLevel: minimal (pure shapes)
+    finish: matte, non-reflective
+  perspective: non-existent; shapes float in an undefined, infinite space
+  mood:
+    overall: spiritual, absolute, revolutionary
+    emotion: pure feeling, transcendence, universalism
+    tempo: static, silent, eternal
+    keywords:
+    - absolute
+    - pure
+    - spiritual
+    - geometric
+    - revolutionary
+  stylePrecedents:
+  - Kazimir Malevich
+  - El Lissitzky (Proun works)

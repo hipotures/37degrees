@@ -1,0 +1,59 @@
+styleName: Fauvism Style
+description: Post-impressionist movement using intense, non-naturalistic colors and bold brush strokes to express emotion over realistic representation
+aiPrompts:
+  basePrompt: fauvism painting, intense colors, non-naturalistic palette, bold brush strokes, emotional expression, wild colors
+  negativePrompt: realistic colors, muted tones, fine detail, photorealistic, conservative palette
+  styleKeywords:
+  - fauvism
+  - intense colors
+  - non-naturalistic
+  - bold brush strokes
+  - emotional expression
+visualElements:
+  colorPalette:
+    primary:
+    - electric red
+    - brilliant orange
+    - vivid purple
+    secondary:
+    - shocking pink
+    - lime green
+    - bright yellow
+    background: bold, non-naturalistic colored backgrounds
+    usageNotes: Pure, intense colors used arbitrarily, not naturalistically
+    saturation: very high (maximum intensity)
+    contrast: very high (shocking color combinations)
+  lineArt:
+    style: bold, expressive outlines
+    weight: heavy, confident strokes
+    color: arbitrary color choices for outlines
+    texture: rough, expressive brushwork
+    edgeTreatment: bold, unrefined edges
+  lighting:
+    type: artificial, color-based lighting
+    direction: not naturalistic, based on color theory
+    intensity: intense, non-realistic
+    shadows:
+      style: bold colored shadows
+      color: arbitrary complement colors
+      opacity: solid, non-naturalistic
+    highlights: intense pure color highlights
+  rendering:
+    technique: bold oil painting with confident strokes
+    texture: thick paint application, visible brushwork
+    detailLevel: simplified forms with bold color
+    finish: matte to thick impasto
+  perspective: simplified, color-based perspective
+  mood:
+    overall: wild, emotional, expressive
+    emotion: liberation, joy, artistic freedom
+    tempo: energetic, spontaneous
+    keywords:
+    - wild
+    - emotional
+    - expressive
+    - liberated
+    - bold
+  stylePrecedents:
+  - Henri Matisse wild color paintings
+  - André Derain landscapes

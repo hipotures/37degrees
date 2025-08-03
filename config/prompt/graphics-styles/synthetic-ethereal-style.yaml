@@ -1,0 +1,60 @@
+styleName: Synthetic Ethereal Style
+description: Futuristic ethereal aesthetic blending synthetic materials with a ghostly, otherworldly vibe—glowing translucent forms, soft neon glows, and airy compositions
+aiPrompts:
+  basePrompt: futuristic ethereal art, translucent synthetic forms, neon glow, airy atmosphere, soft futurism
+  negativePrompt: heavy solid structures, dark horror, rigid lines, mundane
+  styleKeywords:
+  - ethereal
+  - futuristic
+  - translucent
+  - glowing
+  - soft
+visualElements:
+  colorPalette:
+    primary:
+    - soft cyan
+    - pale magenta
+    - glowing white
+    - silver
+    secondary:
+    - lavender
+    - mint green
+    - light gold
+    background: misty white or pastel gradient
+    usageNotes: Light, pastel tones with luminous accents on a pale background
+    saturation: medium
+    contrast: low to medium
+  lineArt:
+    style: delicate outlines or none (defined by light)
+    weight: thin, wispy if present
+    color: pale silver or translucent edges
+    texture: smooth gradients instead of lines
+    edgeTreatment: soft, blurred edges
+  lighting:
+    type: ambient glowing light
+    direction: diffuse (objects seem self-lit)
+    intensity: soft but pervasive
+    shadows:
+      style: soft, colored shadows or none
+      color: faint tint of object color
+      opacity: light
+    highlights: neon halos and gentle glows
+  rendering:
+    technique: digital painting with glow effects, some translucent 3D rendering
+    texture: smooth, gauzy surfaces with subtle shimmer
+    detailLevel: moderate (focus on form and light over tiny details)
+    finish: sheer, glossy or iridescent elements
+  perspective: open, airy compositions with layered depth
+  mood:
+    overall: otherworldly, serene, futuristic
+    emotion: wonder, calm, transcendence
+    tempo: calm, flowing
+    keywords:
+    - ethereal
+    - glowing
+    - translucent
+    - serene
+    - futuristic
+  stylePrecedents:
+  - ghostly sci-fi concept art
+  - light sculpture and hologram art

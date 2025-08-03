@@ -1,0 +1,59 @@
+styleName: Geminism - Noctilucent Impressionism
+description: A variant of Impressionism that forsakes the sun. It focuses on capturing the fleeting, ethereal light of the high atmosphere at night: noctilucent clouds, aurorae, airglow, and the zodiacal light. The style uses quick, broken brushstrokes to depict landscapes or figures illuminated by these faint, strange, and often colorful light sources.
+aiPrompts:
+  basePrompt: noctilucent impressionism, aurora painting, nightscape with broken brushstrokes, ethereal night light, geminism
+  negativePrompt: daylight, sunny, photorealism, hard edges, studio painting
+  styleKeywords:
+  - impressionism
+  - noctilucent
+  - ethereal
+  - nightscape
+  - atmospheric
+visualElements:
+  colorPalette:
+    primary:
+    - electric blues and silvers (noctilucent clouds)
+    - shifting greens, pinks, and violets (aurora)
+    - deep indigo and black (the night sky)
+    secondary:
+    - faint, ghostly greens (airglow)
+    - reflected light on water or snow
+    background: dark landscapes (mountains, forests, seas) under a dynamic night sky
+    usageNotes: A dark overall palette punctuated by vibrant, moving, and translucent light effects.
+    saturation: high for the light phenomena, very low for the landscape
+    contrast: high
+  lineArt:
+    style: broken color and quick brushstrokes; no defined outlines
+    weight: n/a
+    color: n/a
+    texture: visible, energetic brushstrokes that mimic the movement of the light
+    edgeTreatment: soft, shimmering, and indistinct edges
+  lighting:
+    type: faint, high-altitude, atmospheric light
+    direction: from above, but diffuse, shifting, and multi-colored
+    intensity: low overall, but with bright, moving ribbons and patches of light
+    shadows:
+      style: deep, dark, and soft, with very little detail visible
+      color: deep blues and blacks
+      opacity: very heavy
+    highlights: quick dabs of pure, vibrant color for the atmospheric lights
+  rendering:
+    technique: alla prima (wet-on-wet) oil or digital painting to capture the fleeting moment
+    texture: visible canvas or brushstroke texture throughout
+    detailLevel: low, focusing on the overall impression of light and atmosphere
+    finish: painterly, energetic, and luminous
+  perspective: wide, atmospheric perspective, often with a low horizon to emphasize the sky
+  mood:
+    overall: ethereal, fleeting, mysterious
+    emotion: awe, wonder, a sense of the sublime and the cosmic
+    tempo: dynamic, shimmering, fleeting
+    keywords:
+    - ethereal
+    - luminous
+    - atmospheric
+    - fleeting
+    - cosmic
+  stylePrecedents:
+  - Impressionism (Claude Monet)
+  - Romanticism (J.M.W. Turner's skies)
+  - Astrophotography of atmospheric phenomena

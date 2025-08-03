@@ -1,0 +1,59 @@
+styleName: Generative Art Style
+description: Computer-generated art created using autonomous systems and algorithms, featuring mathematical patterns and procedural aesthetics
+aiPrompts:
+  basePrompt: generative art, algorithmic art, procedural generation, mathematical patterns, computer generated
+  negativePrompt: hand-drawn, painted, photographic, traditional media, human-made marks
+  styleKeywords:
+  - generative
+  - algorithmic
+  - procedural
+  - mathematical
+  - computer generated
+visualElements:
+  colorPalette:
+    primary:
+    - algorithmic colors
+    - mathematical gradients
+    - systematic hues
+    secondary:
+    - computed contrasts
+    - procedural variations
+    - parametric colors
+    background: mathematically generated patterns or gradients
+    usageNotes: Colors determined by algorithms and mathematical functions
+    saturation: varies by algorithm parameters
+    contrast: computed relationships
+  lineArt:
+    style: mathematically precise curves and patterns
+    weight: algorithmically determined
+    color: computed color relationships
+    texture: perfectly smooth or mathematically textured
+    edgeTreatment: precise mathematical boundaries
+  lighting:
+    type: algorithmic lighting calculations
+    direction: computed light sources
+    intensity: mathematically determined
+    shadows:
+      style: calculated shadows following physics
+      color: computed shadow colors
+      opacity: algorithmically determined
+    highlights: mathematically placed highlights
+  rendering:
+    technique: computer algorithms and mathematical functions
+    texture: procedurally generated textures
+    detailLevel: infinite (mathematically scalable)
+    finish: digital perfection or controlled randomness
+  perspective: algorithmic perspective or non-Euclidean space
+  mood:
+    overall: systematic, innovative, mathematical beauty
+    emotion: wonder at computational creativity
+    tempo: varies by algorithm (static to dynamic)
+    keywords:
+    - systematic
+    - innovative
+    - mathematical
+    - computational
+    - precise
+  stylePrecedents:
+  - Casey Reas Processing artworks
+  - Vera Molnar computer art

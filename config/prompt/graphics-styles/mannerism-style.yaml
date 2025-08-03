@@ -1,0 +1,61 @@
+styleName: Mannerism Style
+description: European art style from the late Renaissance (ca. 1520-1600), characterized by artificiality, sophistication, and a break from Renaissance harmony. Features elongated figures, complex unnatural poses, and often cool, bright color palettes.
+aiPrompts:
+  basePrompt: mannerism painting, elongated figures, figura serpentinata, artificial poses, sophisticated, late renaissance, Pontormo style, Bronzino style
+  negativePrompt: realism, renaissance harmony, simple composition, natural poses, calm, stable
+  styleKeywords:
+  - mannerism
+  - elongated
+  - artificial
+  - sophisticated
+  - figura serpentinata
+visualElements:
+  colorPalette:
+    primary:
+    - cool pink
+    - bright azure
+    - acid green
+    - pale yellow
+    secondary:
+    - pearl white
+    - metallic gray
+    - deep crimson
+    background: dark, undefined backgrounds or flattened architecture
+    usageNotes: Colors are often unnatural, dissonant and used to create tension.
+    saturation: high in key elements, but generally cool
+    contrast: high, dramatic
+  lineArt:
+    style: precise, elegant contours emphasizing form
+    weight: thin, refined
+    color: integrated with painting, rarely black
+    texture: smooth, enamel-like surface
+    edgeTreatment: sharp, sculptural edges
+  lighting:
+    type: cold, often unnatural and theatrical
+    direction: from multiple sources to emphasize complex poses
+    intensity: uneven, creating dramatic contrasts
+    shadows:
+      style: sharp yet softly modeling form
+      color: cool, often bluish or gray
+      opacity: variable
+    highlights: sharp, metallic flashes on fabrics and skin
+  rendering:
+    technique: smooth oil painting with invisible brushstrokes
+    texture: porcelain-like or polished metal surface
+    detailLevel: very high, with attention to clothing and jewelry details
+    finish: smooth, almost enameled
+  perspective: often disturbed, with unnatural flattening of space
+  mood:
+    overall: intellectual, restless, sophisticated
+    emotion: unease, elegance, courtly artificiality
+    tempo: static but internally tense
+    keywords:
+    - sophisticated
+    - restless
+    - courtly
+    - intellectual
+    - unnatural
+  stylePrecedents:
+  - Jacopo da Pontormo
+  - Agnolo Bronzino
+  - El Greco

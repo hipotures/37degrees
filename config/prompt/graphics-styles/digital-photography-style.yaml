@@ -1,0 +1,59 @@
+styleName: Digital Photography Style
+description: Digital camera photography with post-processing techniques, encompassing various genres like portrait, landscape, and macro photography
+aiPrompts:
+  basePrompt: digital photography, DSLR camera, professional lighting, photo realism, depth of field
+  negativePrompt: painting, illustration, cartoon, drawn, sketch, artificial
+  styleKeywords:
+  - photography
+  - DSLR
+  - camera
+  - photorealistic
+  - depth of field
+visualElements:
+  colorPalette:
+    primary:
+    - natural skin tones
+    - sky blue
+    - earth brown
+    secondary:
+    - forest green
+    - sunset orange
+    - cloud white
+    background: natural environments or studio setups
+    usageNotes: Natural, realistic colors as captured by camera sensors
+    saturation: natural (may be enhanced in post-processing)
+    contrast: varies by lighting conditions
+  lineArt:
+    style: no artificial lines (natural edges and contours)
+    weight: defined by natural lighting and focus
+    color: natural object boundaries
+    texture: real-world textures captured by lens
+    edgeTreatment: sharp where in focus, soft where out of focus
+  lighting:
+    type: natural or artificial lighting setups
+    direction: varies (golden hour, studio lighting, flash)
+    intensity: realistic light physics
+    shadows:
+      style: natural shadows cast by real objects
+      color: darker versions of ambient light color
+      opacity: varies by lighting conditions
+    highlights: natural light reflections and bright spots
+  rendering:
+    technique: digital camera sensor capture
+    texture: real-world surface textures
+    detailLevel: high (limited by camera resolution and lens quality)
+    finish: varies by surface properties of photographed subjects
+  perspective: natural camera perspective with lens distortion
+  mood:
+    overall: realistic, documentary, artistic
+    emotion: varies by subject and photographer intent
+    tempo: frozen moment in time
+    keywords:
+    - realistic
+    - natural
+    - captured
+    - documentary
+    - authentic
+  stylePrecedents:
+  - Ansel Adams landscape photography
+  - Annie Leibovitz portrait photography

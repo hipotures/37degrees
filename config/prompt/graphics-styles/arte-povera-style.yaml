@@ -1,0 +1,60 @@
+styleName: Arte Povera
+description: An Italian art movement from the late 1960s to 1970s. Artists used "poor" or commonplace materials like soil, rags, twigs, and rocks to challenge the commercialism of the art world and explore the relationship between art and life.
+aiPrompts:
+  basePrompt: Arte Povera installation, found objects, natural materials, soil, twigs, stone, neon light combined with raw materials, conceptual art
+  negativePrompt: polished sculpture, bronze casting, oil painting, commercial, sleek, digital art
+  styleKeywords:
+  - Arte Povera
+  - poor materials
+  - conceptual
+  - installation
+  - natural
+visualElements:
+  colorPalette:
+    primary:
+    - earth tones (brown soil, gray stone)
+    - muted colors of aged fabric
+    - rust
+    secondary:
+    - bright neon light (as a contrasting element)
+    - lead gray
+    - coal black
+    background: gallery floor or wall, natural environment
+    usageNotes: The palette is dictated entirely by the raw, unprocessed materials used.
+    saturation: very low, natural
+    contrast: often high, between different textures or between a raw material and a modern one (like neon).
+  lineArt:
+    style: none; defined by the shape and placement of objects
+    weight: n/a
+    color: n/a
+    texture: raw, natural, unprocessed
+    edgeTreatment: the natural edges of the materials (torn, broken, rough)
+  lighting:
+    type: simple gallery lighting or integrated light sources (e.g., a single neon tube)
+    direction: functional, to illuminate the object
+    intensity: varies
+    shadows:
+      style: real shadows cast by the objects
+      color: natural gray/black
+      opacity: real
+    highlights: natural highlights on the materials
+  rendering:
+    technique: sculpture, installation, assemblage
+    texture: soil, stone, wood, fabric, glass, lead - highly textural
+    detailLevel: low in terms of craftsmanship, high in conceptual meaning
+    finish: raw, unfinished, natural
+  perspective: three-dimensional, experienced by walking around it
+  mood:
+    overall: conceptual, raw, poetic
+    emotion: contemplation, connection to nature and history, anti-consumerism
+    tempo: static, silent
+    keywords:
+    - raw
+    - conceptual
+    - elemental
+    - poetic
+    - anti-commercial
+  stylePrecedents:
+  - Jannis Kounellis
+  - Mario Merz
+  - Michelangelo Pistoletto

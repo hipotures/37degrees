@@ -1,0 +1,58 @@
+styleName: Nano Ornamentation Style
+description: Ultra-fine ornamental style inspired by nanotechnology, featuring extremely intricate patterns, fractal-like details, and micro-scale decorations
+aiPrompts:
+  basePrompt: nano ornament pattern, microscopic detail, fractal designs, micro circuitry meets filigree
+  negativePrompt: large simple shapes, low detail, rough textures
+  styleKeywords:
+  - intricate
+  - nano
+  - ornamental
+  - fractal
+  - micro-detail
+visualElements:
+  colorPalette:
+    primary:
+    - cool silver
+    - steely blue
+    - graphite gray
+    secondary:
+    - glowing circuit green
+    - bright cyan
+    background: black or deep navy
+    usageNotes: Bright micro-lines on dark background (or dark on light), high contrast
+    saturation: low to medium
+    contrast: high
+  lineArt:
+    style: extremely fine filigree and circuit lines
+    weight: hairline thin
+    color: bright cyan or white on dark (or black on light)
+    texture: precise, engineered patterns
+    edgeTreatment: crisp, no blur
+  lighting:
+    type: faint internal glow on micro elements
+    direction: n/a
+    intensity: faint overall, bright at tiny points
+    shadows:
+      style: none (patterns too small)
+      color: n/a
+      opacity: n/a
+    highlights: glowing pinpoints at pattern nodes
+  rendering:
+    technique: digital vector or micro 3D rendering
+    texture: sleek, micro-etched surfaces
+    detailLevel: extremely high (fractal complexity)
+    finish: technical precision with slight glow
+  perspective: flat magnified pattern view
+  mood:
+    overall: intricate, high-tech, mesmerizing
+    emotion: fascination, complexity
+    tempo: static yet detailed
+    keywords:
+    - intricate
+    - futuristic
+    - mesmerizing
+    - complex
+    - ornamental
+  stylePrecedents:
+  - circuit board layouts
+  - Islamic fractal patterns

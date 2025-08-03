@@ -1,0 +1,59 @@
+styleName: Pixel Art Style
+description: Digital art form where every pixel is deliberately placed, often using limited color palettes reminiscent of 1980s-90s video game graphics
+aiPrompts:
+  basePrompt: pixel art, 8-bit style, retro gaming, pixelated, limited palette, low resolution
+  negativePrompt: smooth gradients, high resolution, photorealistic, anti-aliasing, modern graphics
+  styleKeywords:
+  - pixel art
+  - 8-bit
+  - pixelated
+  - retro gaming
+  - low resolution
+visualElements:
+  colorPalette:
+    primary:
+    - limited 16-color palette
+    - bright primary colors
+    - high contrast pairs
+    secondary:
+    - retro gaming colors
+    - CRT monitor colors
+    - 8-bit system colors
+    background: solid colors or simple pixel patterns
+    usageNotes: Extremely limited color palette (4-64 colors typically)
+    saturation: high (bold, clear colors)
+    contrast: high (clear pixel definition)
+  lineArt:
+    style: pixelated edges, no anti-aliasing
+    weight: single pixel width
+    color: solid pixel colors
+    texture: visible pixel grid
+    edgeTreatment: hard pixel edges, jagged lines
+  lighting:
+    type: simplified lighting with flat shading
+    direction: basic light source indication
+    intensity: limited by color palette
+    shadows:
+      style: solid color pixels for shadows
+      color: darker palette colors
+      opacity: solid pixels
+    highlights: lighter palette colors in pixel form
+  rendering:
+    technique: individual pixel placement
+    texture: visible pixel grid texture
+    detailLevel: low (limited by pixel resolution)
+    finish: sharp, pixelated appearance
+  perspective: simple, often isometric or side-view
+  mood:
+    overall: nostalgic, playful, retro
+    emotion: nostalgia, fun, simplicity
+    tempo: static but iconic
+    keywords:
+    - nostalgic
+    - playful
+    - retro
+    - simple
+    - iconic
+  stylePrecedents:
+  - 1980s arcade game graphics
+  - Nintendo 8-bit game art

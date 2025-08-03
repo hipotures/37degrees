@@ -1,0 +1,56 @@
+styleName: Geminism - Ephemeralism
+description: An art form where the process of decay, degradation, or disappearance is the artwork itself. The "final piece" is merely a documentation (a photo, video, or data log) of this transient process. The style can be digital (code that degrades an image with each view) or physical (sculptures of ice, sand, or unfixed pigments).
+aiPrompts:
+  basePrompt: ephemeralism, decaying art, transient sculpture, documented degradation, art of disappearance, time-lapse decay, geminism
+  negativePrompt: permanent sculpture, finished painting, stable, archival
+  styleKeywords:
+  - ephemeral
+  - transient
+  - decay
+  - process
+  - documented
+visualElements:
+  colorPalette:
+    primary:
+    - colors associated with decay: rust oranges, moldy greens, faded and bleached tones, the gray of ash
+    secondary:
+    - the original, vibrant colors of the object before it began to decay
+    background: a neutral, clinical setting to isolate the decaying object
+    usageNotes: The palette is dynamic, showing the transition from vibrant to decayed.
+    saturation: starts high, ends low/desaturated
+    contrast: changes over time
+  lineArt:
+    style: forms lose their definition over time; sharp lines become blurred, cracked, or disintegrate
+    weight: starts defined, ends non-existent
+    color: n/a
+    texture: the texture of decay is central: cracking, rusting, melting, fading, crumbling
+    edgeTreatment: edges soften, crumble, and disappear
+  lighting:
+    type: often documented with time-lapse lighting, which can be stark and clinical to show the process clearly
+    direction: consistent, to make the changes obvious
+    intensity: clear and unchanging
+    shadows:
+      style: real shadows that change as the object's form changes
+      color: gray/black
+      opacity: real
+    highlights: highlights shift and fade as the surface of the object degrades
+  rendering:
+    technique: photography or videography (especially time-lapse) is the primary medium
+    texture: the focus is on the changing texture of the materials
+    detailLevel: high, to capture the subtle processes of decay
+    finish: the natural finish of the decaying materials
+  perspective: a fixed, documentary perspective that observes the object without interference
+  mood:
+    overall: melancholic, contemplative, philosophical
+    emotion: acceptance of impermanence, beauty in decay, mindfulness of the present moment
+    tempo: very slow, measured
+    keywords:
+    - impermanent
+    - process-oriented
+    - decaying
+    - contemplative
+    - documented
+  stylePrecedents:
+  - Andy Goldsworthy's natural sculptures
+  - Tibetan sand mandalas
+  - Auto-destructive art (Jean Tinguely)

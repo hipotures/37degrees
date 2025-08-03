@@ -1,0 +1,59 @@
+styleName: Digital Collage Style
+description: Layered composition combining photographs, graphics, textures, and typography in digital mixed-media artwork with photomontage and surreal elements
+aiPrompts:
+  basePrompt: digital collage, photomontage, layered composition, mixed media, cut and paste, surreal combination
+  negativePrompt: single source image, uniform style, seamless blending, painted, drawn
+  styleKeywords:
+  - collage
+  - photomontage
+  - layered
+  - mixed media
+  - composite
+visualElements:
+  colorPalette:
+    primary:
+    - varied (from source materials)
+    - sepia tones
+    - vintage colors
+    secondary:
+    - contrasting bold colors
+    - newspaper grays
+    - magazine colors
+    background: textured paper, newsprint, or abstract
+    usageNotes: Mixed color schemes from different source materials
+    saturation: varies by element (some desaturated, some vivid)
+    contrast: high between different elements
+  lineArt:
+    style: cut edges, torn paper effects, layered boundaries
+    weight: varies by source material
+    color: mixed from different sources
+    texture: rough cut edges, paper tears
+    edgeTreatment: visible layer boundaries, cut-out edges
+  lighting:
+    type: inconsistent lighting from different sources
+    direction: mixed (different lighting per element)
+    intensity: varies per layer
+    shadows:
+      style: drop shadows between layers
+      color: black or gray
+      opacity: variable to show depth
+    highlights: preserved from original source materials
+  rendering:
+    technique: digital layering and compositing
+    texture: paper textures, print dots, magazine textures
+    detailLevel: varies by source (some detailed, some simplified)
+    finish: mixed finishes from different materials
+  perspective: multiple perspectives combined
+  mood:
+    overall: eclectic, surreal, experimental
+    emotion: playful, thought-provoking, chaotic
+    tempo: dynamic, busy
+    keywords:
+    - eclectic
+    - surreal
+    - layered
+    - experimental
+    - chaotic
+  stylePrecedents:
+  - Hannah Höch Dadaist collages
+  - David Hockney photo collages

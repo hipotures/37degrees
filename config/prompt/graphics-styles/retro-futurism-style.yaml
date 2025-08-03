@@ -1,0 +1,60 @@
+styleName: Retro Futurism Style
+description: Mid-20th-century retro-futuristic style with optimistic space age motifs, googie architecture forms, and vintage color palettes imagining the future
+aiPrompts:
+  basePrompt: retro futurism art, atomic age, 1950s sci-fi, Jetsons style, googie architecture, optimistic future
+  negativePrompt: grim dystopian, dark noir, high realism, muted tones
+  styleKeywords:
+  - retro-futurism
+  - atomic age
+  - mid-century
+  - optimistic
+  - space age
+visualElements:
+  colorPalette:
+    primary:
+    - teal
+    - pale orange
+    - olive green
+    - cream
+    secondary:
+    - space blue
+    - bright red
+    - chrome silver
+    background: starry night or geometric shapes
+    usageNotes: Slightly muted vintage tones with bold accent colors
+    saturation: medium
+    contrast: medium
+  lineArt:
+    style: smooth, curvilinear outlines
+    weight: medium, even
+    color: dark brown or black (vintage ink)
+    texture: clean, minimal
+    edgeTreatment: rounded corners and atomic-era shapes
+  lighting:
+    type: graphic simple shading (airbrushed look)
+    direction: simple overhead or side
+    intensity: moderate (clear, not harsh)
+    shadows:
+      style: soft or drop shadows for depth
+      color: gray
+      opacity: light
+    highlights: shiny reflections on chrome surfaces
+  rendering:
+    technique: airbrush illustration or lithograph print
+    texture: smooth with slight paper grain
+    detailLevel: moderate (stylized details, not too fine)
+    finish: semi-gloss, poster-like
+  perspective: stylized perspective (isometric cutaways or dramatic angles for rockets)
+  mood:
+    overall: optimistic, playful, visionary
+    emotion: excitement, wonder
+    tempo: upbeat, forward-looking
+    keywords:
+    - optimistic
+    - vintage
+    - space-age
+    - playful
+    - visionary
+  stylePrecedents:
+  - 1950s sci-fi magazine illustrations
+  - The Jetsons cartoon aesthetic

@@ -1,0 +1,60 @@
+styleName: Embroidery Illustration Style
+description: Visual style mimicking hand embroidery with stitched lines, threaded textures, and fabric patterns
+aiPrompts:
+  basePrompt: embroidery art, stitched illustration, needlework, thread texture, folk craft
+  negativePrompt: smooth digital, gradient shading, photorealistic, painterly
+  styleKeywords:
+  - embroidery
+  - stitched
+  - textile
+  - needlework
+  - folk
+visualElements:
+  colorPalette:
+    primary:
+    - red thread
+    - blue thread
+    - green thread
+    - gold thread
+    secondary:
+    - neutral cream fabric
+    - navy cloth
+    - black cloth
+    background: fabric texture (canvas or linen)
+    usageNotes: Colors appear slightly subdued by fabric
+    saturation: medium
+    contrast: moderate
+  lineArt:
+    style: stitched outlines forming shapes
+    weight: varied thread thickness
+    color: colored threads (dark for outlines)
+    texture: soft, yarn-like
+    edgeTreatment: slightly frayed or irregular
+  lighting:
+    type: soft lighting to reveal thread texture
+    direction: gentle top-left
+    intensity: gentle
+    shadows:
+      style: tiny cast shadows of threads
+      color: gray (tinted by thread color)
+      opacity: light
+    highlights: slight sheen on threads
+  rendering:
+    technique: hand embroidery stitches
+    texture: tactile raised threads
+    detailLevel: moderate to high (detailed patterns)
+    finish: matte fabric, slight thread sheen
+  perspective: flat, front-facing (hoop view)
+  mood:
+    overall: cozy, handmade, nostalgic
+    emotion: comfort, tradition
+    tempo: calm and steady
+    keywords:
+    - handmade
+    - textile
+    - cozy
+    - folk
+    - detailed
+  stylePrecedents:
+  - Folk embroidery patterns
+  - Crewel embroidery art

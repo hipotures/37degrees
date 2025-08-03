@@ -1,0 +1,59 @@
+styleName: Isometric Illustration Style
+description: Technical illustration style using isometric projection where all axes maintain equal scale, creating a 3D appearance without perspective distortion
+aiPrompts:
+  basePrompt: isometric illustration, 30 degree angle, equal scale axes, technical drawing, architectural view
+  negativePrompt: perspective drawing, vanishing point, foreshortening, organic curves, realistic proportions
+  styleKeywords:
+  - isometric
+  - technical
+  - 30 degree
+  - architectural
+  - geometric
+visualElements:
+  colorPalette:
+    primary:
+    - technical blue
+    - clean white
+    - precise gray
+    secondary:
+    - accent orange
+    - highlight yellow
+    - depth purple
+    background: white or light gray grid
+    usageNotes: Clean, professional colors that enhance technical clarity
+    saturation: medium (clear but not overwhelming)
+    contrast: medium to high (clear definition)
+  lineArt:
+    style: precise technical lines at exact angles
+    weight: uniform, clean lines
+    color: dark gray or black outlines
+    texture: completely smooth, technical precision
+    edgeTreatment: sharp, exact angles (30°, 90°, 150°)
+  lighting:
+    type: even, ambient lighting (no dramatic shadows)
+    direction: consistent top-down illumination
+    intensity: moderate, even distribution
+    shadows:
+      style: simple geometric shadows following isometric rules
+      color: gray or darker version of base color
+      opacity: consistent, semi-transparent
+    highlights: minimal, clean highlights on edges
+  rendering:
+    technique: precise geometric construction
+    texture: clean, minimal textures
+    detailLevel: moderate (clear but not cluttered)
+    finish: flat, technical appearance
+  perspective: isometric projection (no vanishing points)
+  mood:
+    overall: precise, technical, organized
+    emotion: clarity, professionalism, order
+    tempo: structured, methodical
+    keywords:
+    - precise
+    - technical
+    - organized
+    - clear
+    - methodical
+  stylePrecedents:
+  - technical manuals and blueprints
+  - Monument Valley game art

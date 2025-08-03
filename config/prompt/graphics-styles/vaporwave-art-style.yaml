@@ -1,0 +1,59 @@
+styleName: Vaporwave Art Style
+description: Digital aesthetic combining 1980s-90s nostalgia with glitch art, neon colors, Japanese text, and retro computer graphics elements
+aiPrompts:
+  basePrompt: vaporwave aesthetic, 80s nostalgia, neon grids, Japanese text, glitch art, retro computer graphics
+  negativePrompt: modern design, realistic imagery, muted colors, contemporary aesthetics, high resolution
+  styleKeywords:
+  - vaporwave
+  - 80s nostalgia
+  - neon
+  - glitch
+  - retro computer
+visualElements:
+  colorPalette:
+    primary:
+    - hot pink
+    - cyan blue
+    - purple
+    secondary:
+    - neon green
+    - sunset orange
+    - computer blue
+    background: gradient sunsets or digital grids
+    usageNotes: Nostalgic 80s color schemes with heavy neon influence
+    saturation: very high (glowing neon effect)
+    contrast: high (neon colors against dark backgrounds)
+  lineArt:
+    style: digital wireframes and geometric grids
+    weight: thin digital lines
+    color: bright neon colors
+    texture: digital perfection with intentional glitches
+    edgeTreatment: sharp digital edges, some glitch distortion
+  lighting:
+    type: neon glow and sunset backlighting
+    direction: atmospheric lighting
+    intensity: glowing, ethereal
+    shadows:
+      style: minimal shadows, focus on glow
+      color: darker neon colors
+      opacity: semi-transparent
+    highlights: intense neon glows and digital highlights
+  rendering:
+    technique: digital graphics with retro computer aesthetics
+    texture: smooth gradients with intentional digital artifacts
+    detailLevel: moderate (nostalgic detail level)
+    finish: glossy digital with VHS-style artifacts
+  perspective: often surreal, floating objects in digital space
+  mood:
+    overall: nostalgic, dreamy, surreal
+    emotion: melancholy, longing, digital dreams
+    tempo: slow, atmospheric
+    keywords:
+    - nostalgic
+    - dreamy
+    - surreal
+    - melancholic
+    - ethereal
+  stylePrecedents:
+  - 1980s computer graphics
+  - VHS aesthetic and artifacts

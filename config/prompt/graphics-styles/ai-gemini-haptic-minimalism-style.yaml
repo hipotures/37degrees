@@ -1,0 +1,56 @@
+styleName: Geminism - Haptic Minimalism
+description: A style that marries the extreme simplicity of Minimalist forms with a hyperrealistic, skeuomorphic focus on haptic texture. The compositions feature simple geometric shapes (cubes, spheres), but they are rendered with intensely detailed, tactile surfaces like rough stone, soft wool, or cold brushed metal, inviting the viewer to imagine the sensation of touch.
+aiPrompts:
+  basePrompt: haptic minimalism, tactile minimalist art, textured geometric shapes, hyperrealistic material on simple form, geminism
+  negativePrompt: complex shapes, ornate design, smooth surfaces, flat design, illustration
+  styleKeywords:
+  - haptic
+  - tactile
+  - minimalist
+  - textured
+  - material
+visualElements:
+  colorPalette:
+    primary:
+    - neutral colors dictated by the material: stone gray, wool white, wood brown, metal silver
+    secondary:
+    - shadows and highlights of those materials
+    background: a perfectly flat, neutral, non-textured surface to contrast with the object
+    usageNotes: A monochromatic or very limited palette that emphasizes texture over color.
+    saturation: none or very low
+    contrast: medium, created by light on texture
+  lineArt:
+    style: none; the form is defined entirely by its 3D shape and texture
+    weight: n/a
+    color: n/a
+    texture: the entire focus of the style (e.g., wood grain, stone pores, fabric weave)
+    edgeTreatment: the natural edge of the rendered material (e.g., a sharp metal edge, a soft fabric edge)
+  lighting:
+    type: hyperrealistic studio lighting
+    direction: a single, strong key light from the side to maximize the visibility of the texture
+    intensity: high
+    shadows:
+      style: soft, realistic shadows that help define the texture and form
+      color: dark gray
+      opacity: realistic
+    highlights: sharp, realistic highlights that trace the texture of the surface
+  rendering:
+    technique: photorealistic 3D rendering with a focus on material shaders and displacement maps
+    texture: extremely high-resolution, photorealistic textures
+    detailLevel: extreme on the texture, minimal on the form
+    finish: varies entirely based on the material being simulated (matte, gloss, rough, soft)
+  perspective: simple, direct, studio-shot perspective
+  mood:
+    overall: contemplative, sensory, uncanny
+    emotion: a desire to touch, curiosity, a focus on materiality
+    tempo: static, silent, meditative
+    keywords:
+    - tactile
+    - sensory
+    - material
+    - minimalist
+    - contemplative
+  stylePrecedents:
+  - Minimalism (Donald Judd)
+  - Skeuomorphism
+  - Photorealistic 3D material renders

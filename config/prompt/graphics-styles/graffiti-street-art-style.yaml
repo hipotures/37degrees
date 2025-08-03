@@ -1,0 +1,60 @@
+styleName: Graffiti Street Art Style
+description: Bold graffiti street art style with spray paint textures, vibrant colors, dynamic lettering, and urban gritty background elements
+aiPrompts:
+  basePrompt: graffiti mural, spray paint art, bold lettering, urban wall texture, vibrant colors
+  negativePrompt: clean edges, formal typography, muted palette, polished look
+  styleKeywords:
+  - graffiti
+  - street art
+  - spray paint
+  - urban
+  - bold
+visualElements:
+  colorPalette:
+    primary:
+    - neon pink
+    - lime green
+    - bright blue
+    - orange
+    secondary:
+    - black
+    - white
+    - concrete gray
+    background: raw concrete or brick wall
+    usageNotes: High saturation colors with dark outlines on a neutral wall background
+    saturation: high
+    contrast: high
+  lineArt:
+    style: sprayed outlines with drips
+    weight: thick, dynamic strokes
+    color: black or white outline
+    texture: soft overspray edges, paint drips
+    edgeTreatment: rough, oversprayed edges
+  lighting:
+    type: flat outdoor ambient
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: slight wall texture shadows
+      color: gray
+      opacity: faint
+    highlights: glossy wet paint sheen (if freshly painted)
+  rendering:
+    technique: spray paint and marker on wall
+    texture: gritty wall surface, paint drips and splatters
+    detailLevel: moderate (focus on style and text forms)
+    finish: matte wall with some glossy paint spots
+  perspective: flat wall view (or slight angle in an alley context)
+  mood:
+    overall: rebellious, energetic, urban
+    emotion: defiance, creativity, urgency
+    tempo: fast, rhythmic
+    keywords:
+    - urban
+    - edgy
+    - vibrant
+    - expressive
+    - rebellious
+  stylePrecedents:
+  - Banksy street art
+  - NYC hip-hop graffiti murals

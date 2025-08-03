@@ -1,0 +1,61 @@
+styleName: Raygun Gothic Style
+description: Optimistic retro-futuristic style from the 1940s-60s featuring streamlined rockets, chrome details, and bright, hopeful visions of space age
+aiPrompts:
+  basePrompt: raygun gothic, retro space age, streamlined rockets, chrome spaceships, 1950s sci-fi, optimistic future
+  negativePrompt: gritty, dystopian, dark, realistic, modern minimalism
+  styleKeywords:
+  - raygun gothic
+  - space age
+  - retro sci-fi
+  - streamlined
+  - optimistic
+visualElements:
+  colorPalette:
+    primary:
+    - bright red
+    - chrome silver
+    - electric blue
+    - atomic yellow
+    secondary:
+    - space black
+    - white
+    - turquoise
+    background: starfield or bright blue sky
+    usageNotes: Bold, optimistic colors with metallic accents
+    saturation: high
+    contrast: high
+  lineArt:
+    style: smooth, streamlined curves
+    weight: medium with bold accents
+    color: black outlines or metallic edges
+    texture: smooth, aerodynamic
+    edgeTreatment: rounded, flowing forms
+  lighting:
+    type: bright, optimistic lighting
+    direction: heroic upward angles
+    intensity: bright and clear
+    shadows:
+      style: simple, stylized shadows
+      color: cool blue or purple
+      opacity: light to medium
+    highlights: chrome reflections, bright gleams
+  rendering:
+    technique: illustration or airbrushed poster art
+    texture: smooth metallic surfaces, simple details
+    detailLevel: moderate, focusing on bold shapes
+    finish: glossy, polished chrome and paint
+  perspective: dramatic angles, often looking up at rockets
+  mood:
+    overall: optimistic, adventurous, whimsical
+    emotion: wonder, excitement, hope
+    tempo: energetic, upward-moving
+    keywords:
+    - optimistic
+    - adventurous
+    - retro
+    - heroic
+    - whimsical
+  stylePrecedents:
+  - 1950s sci-fi magazine covers
+  - The Jetsons
+  - Googie architecture
