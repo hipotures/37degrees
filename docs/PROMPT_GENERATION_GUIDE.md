@@ -83,20 +83,19 @@ The command will:
 
 ### Scene Description Structure
 
-Each scene JSON file contains:
+Each scene YAML file contains:
 
-```json
-{
-  "scene_number": 1,
-  "timestamp": "0:00-0:03",
-  "description": "Detailed scene description...",
-  "focus_elements": ["element1", "element2"],
-  "mood": "contemplative",
-  "composition": {
-    "type": "wide_shot",
-    "perspective": "eye_level"
-  }
-}
+```yaml
+scene_number: 1
+timestamp: "0:00-0:03"
+description: "Detailed scene description..."
+focus_elements:
+  - "element1"
+  - "element2"
+mood: "contemplative"
+composition:
+  type: "wide_shot"
+  perspective: "eye_level"
 ```
 
 ## Generator Types

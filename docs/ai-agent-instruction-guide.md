@@ -217,12 +217,12 @@ If the download fails, try again.
 **Expected Result**:
 - Conversation open
 - Images visible
-- JSON attachment visible
+- YAML attachment visible
 
 **Validation Checkpoint**:
 - ✓ Conversation title matches TODO task
 - ✓ At least one image present
-- ✓ JSON file attached with scene_XX.json name
+- ✓ YAML file attached with scene_XX.yaml name
 
 **Error Recovery**:
 - If conversation not found: Skip task and report
@@ -352,7 +352,7 @@ Save these values for later steps:
 
 ```markdown
 **SCOPE BOUNDARIES**:
-- Process ONLY conversations with scene_XX.json attachments
+- Process ONLY conversations with scene_XX.yaml attachments
 - Download ONLY PNG/JPG images
 - Modify ONLY the specific TODO line
 - Create files ONLY in generated/ directory
