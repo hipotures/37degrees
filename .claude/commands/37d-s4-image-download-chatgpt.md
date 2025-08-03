@@ -94,7 +94,7 @@ UWAGA: Używaj MCP playwright-headless do automatyzacji
   }
   
   // POWTARZAJ dla każdej sekcji "ChatGPT said:" w chacie
-  // WSZYSTKIE obrazy z chatu dotyczą tej samej sceny (numer z pierwszego JSON)
+  // WSZYSTKIE obrazy z chatu dotyczą tej samej sceny (numer z pierwszego YAML)
   
   // Poczekaj na pobranie
   mcp__playwright-headless__browser_wait_for(time: 5);
@@ -105,9 +105,9 @@ UWAGA: Używaj MCP playwright-headless do automatyzacji
   ls -la -t /tmp/playwright-mcp-files/ChatGPT-Image*.png
 
   // Wyciągnij numer sceny z Thread ID (z TODO-GENERATE.md)
-  // Format TODO: "[x] Created thread [THREAD_ID] for image scene_NN.json"
-  SCENE_FILE=$(echo "$TASK_TO_DOWNLOAD" | sed 's/.*for image \(scene_[0-9][0-9]\.json\).*/\1/')
-  SCENE_NUMBER=$(echo "$SCENE_FILE" | sed 's/scene_\([0-9][0-9]\)\.json/\1/')
+  // Format TODO: "[x] Created thread [THREAD_ID] for image scene_NN.yaml"
+  SCENE_FILE=$(echo "$TASK_TO_DOWNLOAD" | sed 's/.*for image \(scene_[0-9][0-9]\.yaml\).*/\1/')
+  SCENE_NUMBER=$(echo "$SCENE_FILE" | sed 's/scene_\([0-9][0-9]\)\.yaml/\1/')
   echo "Scene number: $SCENE_NUMBER"
   
   // Użyj nazwy: [BOOK_FOLDER]_scene_[NN].png, [BOOK_FOLDER]_scene_[NN]_a.png, etc.
