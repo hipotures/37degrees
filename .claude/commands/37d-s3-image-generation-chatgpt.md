@@ -5,8 +5,8 @@ UWAGA: Używaj MCP playwright-headless do automatyzacji
   Dane wejściowe:
 
   - Projekt: "[BOOK_FOLDER]" (np. "0001_alice_in_wonderland")
-  - Plik JSON: /home/xai/DEV/37degrees/books/[BOOK_FOLDER]/prompts/genimage/scene_NN.json
-  - Prompt: "Wygeneruj obraz opisany załączonym jsonem"
+  - Plik YAML: /home/xai/DEV/37degrees/books/[BOOK_FOLDER]/prompts/genimage/scene_NN.yaml
+  - Prompt: "Wygeneruj obraz opisany załączonym yamlem"
 
   Identyfikacja folderu książki:
 
@@ -24,7 +24,7 @@ UWAGA: Używaj MCP playwright-headless do automatyzacji
   if [ -f "/home/xai/DEV/37degrees/books/[BOOK_FOLDER]/prompts/genimage/TODO-GENERATE.md" ]; then \
     TASK=$(grep -n "^\[ \] \[ \]" /home/xai/DEV/37degrees/books/[BOOK_FOLDER]/prompts/genimage/TODO-GENERATE.md | head -1); \
     if [ -n "$TASK" ]; then \
-      echo "TODO-GENERATE.md istnieje. Pierwsze zadanie: $TASK - użyj tego pliku JSON"; \
+      echo "TODO-GENERATE.md istnieje. Pierwsze zadanie: $TASK - użyj tego pliku YAML"; \
     else \
       echo "TODO-GENERATE.md istnieje ale wszystkie zadania ukończone - zakończ proces"; \
     fi; \
@@ -85,11 +85,11 @@ UWAGA: Używaj MCP playwright-headless do automatyzacji
     // Project ID format: g-p-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
   fi
 
-  2. Załączenie pliku JSON
+  2. Załączenie pliku YAML
 
-  // CRITICAL: Użyj pliku JSON z TODO zadania (z kroku 0)
+  // CRITICAL: Użyj pliku YAML z TODO zadania (z kroku 0)
   // Wyciągnij nazwę pliku z pierwszego niezrealizowanego zadania
-  // Format zadania: "[ ] Generate image using scene_NN.json"
+  // Format zadania: "[ ] Generate image using scene_NN.yaml"
   
   // Kliknij przycisk "Add photos & files"
   mcp__playwright-headless__browser_click(element: "Add photos & files button");
@@ -98,7 +98,7 @@ UWAGA: Używaj MCP playwright-headless do automatyzacji
   mcp__playwright-headless__browser_click(element: "Add files menu option");
 
   // Wybierz plik z systemu (z TODO zadania)
-  mcp__playwright-headless__browser_file_upload(paths: ["/home/xai/DEV/37degrees/books/[BOOK_FOLDER]/prompts/genimage/[JSON_FROM_TODO]"]);
+  mcp__playwright-headless__browser_file_upload(paths: ["/home/xai/DEV/37degrees/books/[BOOK_FOLDER]/prompts/genimage/[YAML_FROM_TODO]"]);
 
   3. Wybór narzędzia "Create image"
 
@@ -115,7 +115,7 @@ UWAGA: Używaj MCP playwright-headless do automatyzacji
   mcp__playwright-headless__browser_evaluate(function: "() => {
     const contentEditable = document.querySelector('[contenteditable=\"true\"]');
     if (contentEditable) {
-      contentEditable.textContent = 'scene_01 - create an image based on the scene, style, and visual specifications described in the attached JSON. The JSON is a blueprint, not the content.';
+      contentEditable.textContent = 'scene_01 - create an image based on the scene, style, and visual specifications described in the attached YAML. The YAML is a blueprint, not the content.';
       contentEditable.dispatchEvent(new Event('input', { bubbles: true }));
       contentEditable.focus();
       return 'Text entered successfully';
@@ -134,7 +134,7 @@ UWAGA: Używaj MCP playwright-headless do automatyzacji
   Stan końcowy:
 
   - Projekt [BOOK_FOLDER] istnieje i jest otwarty
-  - Plik JSON został załączony i jest widoczny w interfejsie
+  - Plik YAML został załączony i jest widoczny w interfejsie
   - Narzędzie "Create image" jest wybrane (widoczne dodatkowe opcje Image/Styles)
   - Prompt jest wpisany w polu tekstowym
   - ChatGPT rozpoczyna generowanie obrazu (pojawia się status "Thinking" → "Reading documents" → "Getting started")
@@ -153,14 +153,14 @@ UWAGA: Używaj MCP playwright-headless do automatyzacji
   mcp__playwright-headless__browser_evaluate(function: "() => { return window.location.pathname.split('/c/')[1]; }");
   
   // Oznacz zadanie jako rozpoczęte z thread ID (N = numer linii z kroku 0)
-  // Format: "[x] [ ] Created thread 688be9e1-219c-8331-8530-6cd9dd8a7fbc for image scene_01.json"
+  // Format: "[x] [ ] Created thread 688be9e1-219c-8331-8530-6cd9dd8a7fbc for image scene_01.yaml"
   sed -i 'Ns/\[ \] \[ \] Generate image using \(.*\)/[x] [ ] Created thread [THREAD_ID] for image \1/' /home/xai/DEV/37degrees/books/[BOOK_FOLDER]/prompts/genimage/TODO-GENERATE.md
 
   - Projekt [BOOK_FOLDER] został utworzony/otwarty poprawnie
   - Sukcesem jest gdy obraz zaczyna się generować (pojawia się "Getting started")
   - URL zmienia się na nowy conversation thread (c/xxxxx)
   - Status przechodzi przez: "Thinking" → "Reading documents" → "Getting started"
-  - TODO zaktualizowane z thread ID i nazwą pliku JSON
+  - TODO zaktualizowane z thread ID i nazwą pliku YAML
 
   Uwagi techniczne:
 
@@ -196,18 +196,18 @@ UWAGA: Używaj MCP playwright-headless do automatyzacji
 
   Tworzenie TODO (jeśli nie istnieje):
 
-  1. Znajdź wszystkie pliki JSON scen
+  1. Znajdź wszystkie pliki YAML scen
 
-  // CRITICAL: Sprawdź czy istnieją pliki JSON w folderze genimage
-  find /home/xai/DEV/37degrees/books/[BOOK_FOLDER]/prompts/genimage/ -name "scene_*.json" | sort
+  // CRITICAL: Sprawdź czy istnieją pliki YAML w folderze genimage
+  find /home/xai/DEV/37degrees/books/[BOOK_FOLDER]/prompts/genimage/ -name "scene_*.yaml" | sort
 
   2. Stwórz TODO file
 
-  // CRITICAL: Zachowaj DOKŁADNĄ KOLEJNOŚĆ plików JSON!
-  // Zapisz każdy plik JSON jako osobną linię z PODWÓJNYM STATUSEM:
-  [ ] [ ] Generate image using scene_01.json
-  [ ] [ ] Generate image using scene_02.json
-  [ ] [ ] Generate image using scene_03.json
+  // CRITICAL: Zachowaj DOKŁADNĄ KOLEJNOŚĆ plików YAML!
+  // Zapisz każdy plik YAML jako osobną linię z PODWÓJNYM STATUSEM:
+  [ ] [ ] Generate image using scene_01.yaml
+  [ ] [ ] Generate image using scene_02.yaml
+  [ ] [ ] Generate image using scene_03.yaml
   
   // Format: "[ ] [ ] Generate image using [FILENAME]"
   // Pierwszy [ ] = thread creation status
@@ -221,17 +221,17 @@ UWAGA: Używaj MCP playwright-headless do automatyzacji
   echo "# PROJECT_ID = [PROJECT_ID_FROM_BROWSER]" >> /home/xai/DEV/37degrees/books/[BOOK_FOLDER]/prompts/genimage/TODO-GENERATE.md
   
   // Przykład końcowego formatu TODO-GENERATE.md:
-  // [ ] [ ] Generate image using scene_01.json
-  // [ ] [ ] Generate image using scene_02.json
+  // [ ] [ ] Generate image using scene_01.yaml
+  // [ ] [ ] Generate image using scene_02.yaml
   // ...
-  // [ ] [ ] Generate image using scene_25.json
+  // [ ] [ ] Generate image using scene_25.yaml
   //
   // # PROJECT_ID = g-p-688bf3470db48191ae565a014f7e8429
 
   Weryfikacja sukcesu tworzenia TODO:
 
   - Plik TODO-GENERATE.md został utworzony w /books/[BOOK_FOLDER]/prompts/genimage/
-  - Zawiera wszystkie pliki JSON jako osobne zadania z podwójnym statusem
+  - Zawiera wszystkie pliki YAML jako osobne zadania z podwójnym statusem
   - Każda linia zaczyna się od "[ ] [ ] Generate image using" 
   - Pierwszy [ ] = thread creation status, drugi [ ] = image download status
   - Pliki są w kolejności numerycznej (scene_01, scene_02, etc.)

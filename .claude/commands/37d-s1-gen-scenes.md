@@ -1,7 +1,7 @@
 # Custom Instruction: Step 1 - Scene Descriptions Generator
 
 ## Task Overview
-Generate 25 scene descriptions in JSON format based on book research.
+Generate 25 scene descriptions in YAML format based on book research.
 
 ## Input Parameters
 1. **Book Title**: (e.g., "Wuthering Heights")
@@ -19,8 +19,8 @@ Generate 25 scene descriptions in JSON format based on book research.
 
 ### 2. Load Templates and Guidelines
 - **Scene Structure**: 
-  - Read and analyze `config/prompt/scene-description-template.json`
-  - Study the JSON structure, field names, and data types
+  - Read and analyze `config/prompt/scene-description-template.yaml`
+  - Study the YAML structure, field names, and data types
   - Understand all required and optional fields
   - Note any comments and length recommendations within the template
   
@@ -50,7 +50,7 @@ Generate 25 scene descriptions in JSON format based on book research.
 
 **Before generating**:
 - Check if any scene files already exist in `/prompts/scenes/[generator_type]/`
-- If `scene_01.json` exists, read ALL existing scene files to understand the story so far
+- If `scene_01.yaml` exists, read ALL existing scene files to understand the story so far
 - Find the first missing scene number (e.g., if scenes 1-15 exist, start from scene 16)
 - If all 25 scenes already exist, STOP and inform user: "All 25 scenes already exist. Delete existing files if you want to regenerate."
 
@@ -64,8 +64,8 @@ Generate 25 scene descriptions in JSON format based on book research.
 Create directories if they don't exist and save to:
 ```
 books/[book_number]_[book_name]/prompts/scenes/[generator_type]/
-  ├── scene_01.json
-  ├── scene_02.json
+  ├── scene_01.yaml
+  ├── scene_02.yaml
   └── ... (25 files total)
 ```
 Where [generator_type] matches the input parameter (narrative, flexible, or podcast).
@@ -81,8 +81,8 @@ Where [generator_type] matches the input parameter (narrative, flexible, or podc
 - Only create files that don't already exist
 - At the end, report: "Created X new scenes (scenes Y-Z)" or "All scenes already existed"
 
-### 6. JSON Format
-Each file must match `scene-description-template.json` structure exactly.
+### 6. YAML Format
+Each file must match `scene-description-template.yaml` structure exactly.
 
 ### 7. Verification for Cross-References - MANDATORY
 After generating all scenes, you MUST perform verification:
@@ -117,19 +117,19 @@ After cross-reference verification, you MUST verify location completeness:
 
 **Common Location Problems to Fix:**
 ❌ **INCOMPLETE LOCATIONS:**
-```json
-"location": "Warsaw cityscape"
-"location": "Aristocratic estate" 
-"location": "Krakowskie Przedmieście"
-"location": "Powiśle district"
+```yaml
+location: "Warsaw cityscape"
+location: "Aristocratic estate" 
+location: "Krakowskie Przedmieście"
+location: "Powiśle district"
 ```
 
 ✅ **COMPLETE LOCATIONS:**
-```json
-"location": "Polish capital Warsaw under Russian partition, view from Vistula River valley"
-"location": "Polish manor house in Mazovian countryside, 50km from Warsaw"
-"location": "Prestigious commercial thoroughfare in Warsaw city center, Congress Poland"
-"location": "Poor riverside neighborhood in Warsaw, wooden tenements near Vistula"
+```yaml
+location: "Polish capital Warsaw under Russian partition, view from Vistula River valley"
+location: "Polish manor house in Mazovian countryside, 50km from Warsaw"
+location: "Prestigious commercial thoroughfare in Warsaw city center, Congress Poland"
+location: "Poor riverside neighborhood in Warsaw, wooden tenements near Vistula"
 ```
 
 **Location Verification Rules:**
@@ -167,18 +167,18 @@ After location verification, you MUST verify time completeness based on book con
 
 **Common Time Problems to Fix:**
 ❌ **ARBITRARY TIME DETAILS:**
-```json
-"time": "1878 spring, morning"     // If spring not specified in book
-"time": "1878 summer, afternoon"   // If summer not mentioned in source
-"time": "1878 winter, evening"     // If winter not from book content
+```yaml
+time: "1878 spring, morning"     # If spring not specified in book
+time: "1878 summer, afternoon"   # If summer not mentioned in source
+time: "1878 winter, evening"     # If winter not from book content
 ```
 
 ✅ **BOOK-SUPPORTED TIME:**
-```json
-"time": "1878, morning"                    // If only year and time of day known
-"time": "Late 1870s, evening"             // If only decade and time of day specified
-"time": "1878 early spring, dawn"         // If book specifies early spring details
-"time": "1878 May, afternoon garden party" // If book mentions specific month/event
+```yaml
+time: "1878, morning"                    # If only year and time of day known
+time: "Late 1870s, evening"             # If only decade and time of day specified
+time: "1878 early spring, dawn"         # If book specifies early spring details
+time: "1878 May, afternoon garden party" # If book mentions specific month/event
 ```
 
 **Time Verification Rules:**
@@ -197,7 +197,7 @@ After location verification, you MUST verify time completeness based on book con
 This step ensures temporal accuracy and prevents AI from receiving contradictory time/weather information.
 
 ## Important Guidelines
-- Generate JSON data that will be used as prompts for AI image generation
+- Generate YAML data that will be used as prompts for AI image generation
 - **LANGUAGE: All scene descriptions MUST be in English**
 - **PERSPECTIVE: Write as a neutral observer who sees the scene for the first time**
   - Describe what is visually present, not story context
@@ -272,94 +272,86 @@ This step ensures temporal accuracy and prevents AI from receiving contradictory
   - If scene shows "conflict" - show weapons, aggressive postures, opposing groups
   - Complete visual clarity: every element must be specifically visible
     - Bad: "place where two worlds meet" → Good: "forest clearing divided by stream, bright meadow on left, dark woods on right"
-- Follow the exact structure and field requirements from scene-description-template.json
+- Follow the exact structure and field requirements from scene-description-template.yaml
 - Do NOT define visual style (colors, artistic technique, rendering style) - only describe WHAT is in the scene
 - The 25 scenes must be internally consistent and cohesive
 - Follow narrative arc defined in the selected generator
 - Focus only on the chosen approach without mixing styles
-- Output must be valid JSON matching the template structure
+- Output must be valid YAML matching the template structure
 
 ## Examples of Scene Independence Violations and Corrections
 
 ### Character Descriptions
 ❌ **WRONG:**
-```json
-"appearance": "Same writer from scene 5, now gaunt and desperate"
-"appearance": "Same elegant woman from previous scenes"
-"appearance": "The young blonde man from opening scene, now disheveled"
+```yaml
+appearance: "Same writer from scene 5, now gaunt and desperate"
+appearance: "Same elegant woman from previous scenes"
+appearance: "The young blonde man from opening scene, now disheveled"
 ```
 
 ✅ **CORRECT:**
-```json
-"appearance": "Man, late 30s, dark hair, gaunt and desperate, wild-eyed"
-"appearance": "Elegant woman, early 30s, beautiful features, melancholy expression"
-"appearance": "Young man, late 20s, blonde hair, athletic build, now disheveled"
+```yaml
+appearance: "Man, late 30s, dark hair, gaunt and desperate, wild-eyed"
+appearance: "Elegant woman, early 30s, beautiful features, melancholy expression"
+appearance: "Young man, late 20s, blonde hair, athletic build, now disheveled"
 ```
 
 ### Location Descriptions
 ❌ **WRONG:**
-```json
-"mainElements": "Same park setting as opening scene"
-"setting": {"location": "Same basement apartment from earlier"}
-"background": "Returns to the location from scene 3"
+```yaml
+mainElements: "Same park setting as opening scene"
+setting:
+  location: "Same basement apartment from earlier"
+background: "Returns to the location from scene 3"
 ```
 
 ✅ **CORRECT:**
-```json
-"mainElements": "Moscow park setting with ornamental pond, tree-lined paths"
-"setting": {"location": "Small basement apartment, cramped writing space"}
-"background": "Ancient Jerusalem palace courtyard with limestone columns"
+```yaml
+mainElements: "Moscow park setting with ornamental pond, tree-lined paths"
+setting:
+  location: "Small basement apartment, cramped writing space"
+background: "Ancient Jerusalem palace courtyard with limestone columns"
 ```
 
 ### Time References
 ❌ **WRONG:**
-```json
-"time": "Several weeks after scene 5"
-"time": "Same day as previous scene, later"
-"time": "Following the events of scene 12"
+```yaml
+time: "Several weeks after scene 5"
+time: "Same day as previous scene, later"
+time: "Following the events of scene 12"
 ```
 
 ✅ **CORRECT:**
-```json
-"time": "1930s Moscow, late evening, autumn"
-"time": "1930s Moscow, evening approaching"
-"time": "Ancient Jerusalem, afternoon, Passover season"
+```yaml
+time: "1930s Moscow, late evening, autumn"
+time: "1930s Moscow, evening approaching"
+time: "Ancient Jerusalem, afternoon, Passover season"
 ```
 
 ### Complete Example - Scene Transformation
 
 ❌ **WRONG SCENE:**
-```json
-{
-  "sceneDescription": {
-    "title": "Return to the Park",
-    "setting": {
-      "time": "Several days after opening scene",
-      "location": "Same park bench where it all began"
-    },
-    "characters": [{
-      "appearance": "Same young blonde man from scene 1, now wild-eyed",
-      "clothing": "Same clothes but torn and dirty"
-    }]
-  }
-}
+```yaml
+sceneDescription:
+  title: "Return to the Park"
+  setting:
+    time: "Several days after opening scene"
+    location: "Same park bench where it all began"
+  characters:
+    - appearance: "Same young blonde man from scene 1, now wild-eyed"
+      clothing: "Same clothes but torn and dirty"
 ```
 
 ✅ **CORRECT SCENE:**
-```json
-{
-  "sceneDescription": {
-    "title": "Desperate Search in the Park",
-    "setting": {
-      "time": "1930s Moscow, early morning after strange night",
-      "location": "Moscow park at Patriarch's Ponds, beside ornamental pond"
-    },
-    "characters": [{
-      "appearance": "Young man, late 20s, blonde hair, athletic build, wild-eyed and disheveled",
-      "clothing": "Torn and dirty shirt partially unbuttoned, disheveled trousers"
-    }]
-  }
-}
+```yaml
+sceneDescription:
+  title: "Desperate Search in the Park"
+  setting:
+    time: "1930s Moscow, early morning after strange night"
+    location: "Moscow park at Patriarch's Ponds, beside ornamental pond"
+  characters:
+    - appearance: "Young man, late 20s, blonde hair, athletic build, wild-eyed and disheveled"
+      clothing: "Torn and dirty shirt partially unbuttoned, disheveled trousers"
 ```
 
 ### Key Principles:
