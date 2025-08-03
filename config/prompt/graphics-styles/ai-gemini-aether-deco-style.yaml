@@ -1,0 +1,60 @@
+styleName: Geminism - Aether-Deco
+description: A fusion of Art Deco's sharp, luxurious, geometric style with a celestial, ethereal aesthetic. It imagines the grand architectural and decorative forms of the 1920s and 30s as if they were constructed not from steel and brass, but from nebulae, starlight, and cosmic dust.
+aiPrompts:
+  basePrompt: aether-deco, celestial art deco, cosmic architecture, nebula and gold, starlight filigree, geometric space art, geminism
+  negativePrompt: realism, brutalism, natural materials, steampunk, earthy tones
+  styleKeywords:
+  - celestial
+  - art deco
+  - geometric
+  - ethereal
+  - cosmic
+  - luxurious
+visualElements:
+  colorPalette:
+    primary:
+    - glowing gold and silver
+    - deep indigo and cosmic black
+    - nebula pinks and purples
+    secondary:
+    - cyan and teal accents
+    - diamond-like white highlights
+    background: deep space or an ethereal void
+    usageNotes: The rich metallic and jewel tones of Art Deco are replaced with luminous cosmic colors.
+    saturation: high, vibrant, glowing
+    contrast: very high
+  lineArt:
+    style: sharp, symmetrical, geometric lines made of glowing starlight or polished cosmic metal
+    weight: bold and confident
+    color: gold, silver, or bright white
+    texture: a mix of smooth metallic sheen and gaseous nebula textures
+    edgeTreatment: sharp geometric edges that trail off into cosmic dust
+  lighting:
+    type: internal, divine radiance
+    direction: objects appear to be self-illuminated, casting a glow on their surroundings
+    intensity: powerful and magical
+    shadows:
+      style: dramatic, geometric shadows that seem to be made of dark matter or deep space
+      color: deep indigo or black
+      opacity: solid
+    highlights: brilliant star-like glints and glowing nebula patterns on surfaces
+  rendering:
+    technique: digital painting or 3D rendering combining hard-surface modeling with volumetric nebula effects
+    texture: smooth, polished surfaces with swirling, gaseous interiors
+    detailLevel: high in geometric ornamentation
+    finish: glowing, luminous, and metallic
+  perspective: monumental, heroic, symmetrical compositions
+  mood:
+    overall: majestic, magical, sophisticated
+    emotion: awe, wonder, divine luxury
+    tempo: grand, silent, eternal
+    keywords:
+    - majestic
+    - cosmic
+    - luxurious
+    - geometric
+    - magical
+  stylePrecedents:
+  - Art Deco architecture (Chrysler Building)
+  - Celestial Fantasy art
+  - Hubble Space Telescope imagery

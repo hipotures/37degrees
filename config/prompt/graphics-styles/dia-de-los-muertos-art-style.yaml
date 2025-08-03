@@ -1,0 +1,61 @@
+styleName: Dia de los Muertos Art Style
+description: Vibrant, colorful Mexican folk art style associated with Day of the Dead. Characterized by motifs such as decorated skulls (calaveras), skeletons (calacas), marigolds (cempasúchil), and rich, joyful symbolism celebrating life and memory of the dead.
+aiPrompts:
+  basePrompt: Dia de los Muertos art, sugar skull, calavera, marigold flowers, Mexican folk art, colorful skeletons, festive pattern
+  negativePrompt: scary, horror, gothic, sad, muted colors, minimalist
+  styleKeywords:
+  - Dia de los Muertos
+  - sugar skull
+  - calavera
+  - Mexican folk
+  - festive
+visualElements:
+  colorPalette:
+    primary:
+    - bright pink
+    - orange (marigolds)
+    - turquoise
+    - sunny yellow
+    secondary:
+    - violet
+    - lime green
+    - black and white (for skeletons)
+    background: black background or colorful, patterned background
+    usageNotes: Extremely vivid, contrasting and joyful color palette.
+    saturation: very high
+    contrast: very high
+  lineArt:
+    style: bold, decorative lines, often with floral and swirling motifs
+    weight: medium to thick, confident
+    color: black or bright, contrasting colors
+    texture: smooth, but with many small patterns
+    edgeTreatment: clean, ornamental edges
+  lighting:
+    type: flat, graphic lighting
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none or simple, flat shadows for form emphasis
+      color: darker shade of base color
+      opacity: solid
+    highlights: none, flat colors
+  rendering:
+    technique: folk art, painting, paper cutouts (papel picado)
+    texture: smooth surfaces with rich patterns, icing on skulls
+    detailLevel: very high in ornaments and patterns
+    finish: matte or slightly glossy (like icing)
+  perspective: flat, frontal, symmetrical (especially for skulls)
+  mood:
+    overall: joyful, festive, celebrating
+    emotion: joy, memory, life celebration, acceptance of death
+    tempo: rhythmic, dance-like
+    keywords:
+    - festive
+    - colorful
+    - joyful
+    - folk
+    - celebrating
+  stylePrecedents:
+  - José Guadalupe Posada (calaveras prints)
+  - Mexican ofrenda altars
+  - traditional sugar skulls

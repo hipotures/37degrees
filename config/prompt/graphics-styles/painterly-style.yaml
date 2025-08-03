@@ -1,0 +1,59 @@
+styleName: Painterly Style
+description: Expressive painting technique emphasizing visible brush strokes, loose handling of paint, and the physical act of painting
+aiPrompts:
+  basePrompt: painterly technique, visible brush strokes, loose painting, expressive brushwork, impasto
+  negativePrompt: smooth blending, photorealistic, precise lines, digital perfection, tight rendering
+  styleKeywords:
+  - painterly
+  - brush strokes
+  - expressive
+  - loose
+  - impasto
+visualElements:
+  colorPalette:
+    primary:
+    - warm ochre
+    - ultramarine blue
+    - cadmium red
+    secondary:
+    - burnt umber
+    - yellow ochre
+    - titanium white
+    background: canvas texture or painted background
+    usageNotes: Rich, mixed colors showing paint mixing on canvas
+    saturation: medium to high (rich paint colors)
+    contrast: medium (soft paint transitions)
+  lineArt:
+    style: loose, expressive brush marks
+    weight: varies with brush pressure and size
+    color: integrated into painted areas
+    texture: visible brush texture and paint application
+    edgeTreatment: soft, blended edges with visible brushwork
+  lighting:
+    type: painted light effects, often dramatic
+    direction: varies (artistic interpretation)
+    intensity: expressive rather than realistic
+    shadows:
+      style: painted shadows with visible brushwork
+      color: mixed paint colors
+      opacity: varies with paint application
+    highlights: thick paint application, impasto highlights
+  rendering:
+    technique: visible brush application, paint mixing on canvas
+    texture: canvas texture, brush marks, paint thickness
+    detailLevel: moderate (expressive rather than precise)
+    finish: matte to semi-gloss paint finish
+  perspective: artistic interpretation of space
+  mood:
+    overall: expressive, artistic, handmade
+    emotion: passionate, energetic, human touch
+    tempo: dynamic, gestural
+    keywords:
+    - expressive
+    - handmade
+    - passionate
+    - gestural
+    - artistic
+  stylePrecedents:
+  - Van Gogh brush technique
+  - Frans Hals loose painting

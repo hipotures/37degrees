@@ -1,0 +1,59 @@
+styleName: Solarpunk Utopia Style
+description: Bright, optimistic solarpunk style featuring lush greenery intertwined with technology, soft sunlight, and sustainable, utopian cityscapes
+aiPrompts:
+  basePrompt: solarpunk illustration, green city, solar panels, lush plants, Art Nouveau futurism, utopian future
+  negativePrompt: dark dystopian, barren concrete, polluted environment, bleak mood
+  styleKeywords:
+  - solarpunk
+  - utopian
+  - greenery
+  - sustainable
+  - optimistic
+visualElements:
+  colorPalette:
+    primary:
+    - fresh green
+    - sky blue
+    - white
+    secondary:
+    - sunny yellow
+    - orange
+    - warm wood brown
+    background: clear bright sky or glowing daylight
+    usageNotes: Natural blues and greens dominate with clean bright highlights
+    saturation: medium to high (vibrant natural hues)
+    contrast: medium (harmonious brightness without harsh shadows)
+  lineArt:
+    style: clean, flowing Art Nouveau-like lines
+    weight: medium
+    color: dark green or brown outlines
+    texture: smooth, organic curves
+    edgeTreatment: rounded, natural edges
+  lighting:
+    type: sunlit, soft natural lighting
+    direction: ambient daylight (from above and around)
+    intensity: bright but gentle
+    shadows:
+      style: dappled shadows through foliage
+      color: soft gray-green
+      opacity: light
+    highlights: warm sunlight glints on glass and leaves
+  rendering:
+    technique: digital painting with soft edges and crisp details on tech
+    texture: smooth surfaces for tech, leafy texture for plants
+    detailLevel: moderate to high (detailed vegetation, clean architecture)
+    finish: clean, slight gloss on solar panels and glass
+  perspective: open, panoramic city or garden view
+  mood:
+    overall: hopeful, harmonious, vibrant
+    emotion: optimism, serenity, inspiration
+    tempo: calm yet lively
+    keywords:
+    - optimistic
+    - lush
+    - bright
+    - harmonious
+    - innovative
+  stylePrecedents:
+  - sustainable city concept art
+  - Studio Ghibli nature-tech fusion scenes

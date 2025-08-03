@@ -1,0 +1,63 @@
+styleName: Geminism - Phytomorphism
+description: An art style where the entirety of the depicted world—architecture, technology, clothing, and even beings—is constructed from living or processed plant matter. It's a reality rebuilt through botany, where steel is replaced by ironwood, wires by conductive vines, and fabric by woven leaves. The aesthetic is complex, organic, and deeply interconnected.
+aiPrompts:
+  basePrompt: phytomorphism, world made of plants, vine-woven structures, leaf armor, floral technology, living wooden architecture, botanical beings, geminism
+  negativePrompt: metal, plastic, concrete, stone, non-organic, synthetic, mechanical, dead
+  styleKeywords:
+  - botanical
+  - organic
+  - living architecture
+  - woven
+  - verdant
+visualElements:
+  colorPalette:
+    primary:
+    - deep forest greens
+    - rich wood browns
+    - the vibrant colors of flower petals (reds, yellows, purples)
+    - chlorophyll green
+    secondary:
+    - bark grays
+    - pollen yellows
+    - translucent sap ambers
+    - the pale green of new shoots
+    background: dense forest canopies, misty jungle floors, or the interior of massive, living trees
+    usageNotes: The palette is entirely derived from the plant kingdom in all its diversity.
+    saturation: varies from the muted tones of bark to the vibrant hues of flowers
+    contrast: medium, mimicking the natural light and shadow of a dense forest
+  lineArt:
+    style: no traditional lines; forms are defined by the natural edges of plant structures—the vein of a leaf, the grain of wood, the curve of a vine
+    weight: n/a
+    color: n/a
+    texture: the core of the style—fibrous, woody, leafy, smooth like a petal, rough like bark, sharp like a thorn
+    edgeTreatment: organic and varied; woven edges for "fabric," carved edges for "structures," thorny edges for "weapons"
+  lighting:
+    type: soft, natural, dappled sunlight
+    direction: light filtering through a dense canopy from above, creating complex patterns
+    intensity: moderate, with areas of deep shade and bright spots
+    shadows:
+      style: soft, complex shadows cast by layers of leaves and branches
+      color: deep greens and cool browns
+      opacity: medium to heavy
+    highlights: sun glinting off wet leaves, the soft glow of pollen, or the sheen on polished wood
+  rendering:
+    technique: photorealistic 3D rendering or hyper-detailed digital painting with a focus on organic textures
+    texture: the primary expressive element, showcasing the vast diversity of plant surfaces
+    detailLevel: extreme, macro-level detail on textures like leaf veins, wood grain, and flower stamens
+    finish: natural and varied—matte bark, waxy leaves, velvety petals, polished wood
+  perspective: immersive, often eye-level or looking up, to create a sense of being enveloped by the living, botanical world
+  mood:
+    overall: organic, tranquil, complex, vital
+    emotion: a sense of deep connection to nature, harmony, and life's complexity
+    tempo: slow, growing, breathing
+    keywords:
+    - living
+    - verdant
+    - intricate
+    - harmonious
+    - wild
+  stylePrecedents:
+  - Art Nouveau's use of organic, flowing plant motifs
+  - Hyperrealistic botanical illustration
+  - Fantasy concepts of wood elves and dryads
+  - The architecture of the "World Trees" in mythology

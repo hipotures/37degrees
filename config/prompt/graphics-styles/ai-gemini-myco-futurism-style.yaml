@@ -1,0 +1,59 @@
+styleName: Geminism - Myco-Futurism
+description: A futurist aesthetic that rejects metal and plastic in favor of advanced fungal biology. Architecture, technology, and fashion are all "grown" from engineered mycelium and other fungal forms. The style is characterized by organic, interconnected, and bioluminescent structures that are both beautiful and slightly eerie.
+aiPrompts:
+  basePrompt: myco-futurism, fungal architecture, mycelium network, bioluminescent city, grown technology, organic futurism, geminism
+  negativePrompt: mechanical, metal, cyberpunk, hard-surface, geometric, sterile
+  styleKeywords:
+  - fungal
+  - organic
+  - bioluminescent
+  - interconnected
+  - grown
+visualElements:
+  colorPalette:
+    primary:
+    - bioluminescent cyan, green, and orange
+    - earthy tones of mushroom caps (browns, ochres, grays)
+    - bone white of mycelium
+    secondary:
+    - deep, damp earth tones
+    - spore-dust yellows and purples
+    background: dark, humid environments, underground caverns, or dense bio-forests
+    usageNotes: The palette is a contrast between dark, earthy tones and the bright glow of bioluminescence.
+    saturation: low for base materials, high for glowing elements
+    contrast: high
+  lineArt:
+    style: flowing, branching, vein-like lines that mimic mycelial networks
+    weight: varied, organic, from thick "stems" to hairline "threads"
+    color: self-illuminated or dark organic colors
+    texture: fibrous, porous, soft but resilient
+    edgeTreatment: soft, organic, and branching
+  lighting:
+    type: internal bioluminescence
+    direction: light emanates from within the structures themselves
+    intensity: soft, ambient, and glowing
+    shadows:
+      style: deep, soft shadows cast away from the glowing sources
+      color: dark, cool earth tones
+      opacity: heavy
+    highlights: the glowing veins and surfaces themselves are the highlights
+  rendering:
+    technique: 3D rendering with a focus on subsurface scattering and volumetric light
+    texture: fibrous, velvety, porous, and sometimes slimy or wet surfaces
+    detailLevel: high, with intricate networks of mycelial threads visible
+    finish: mostly matte and organic, with some wet or glowing surfaces
+  perspective: immersive, ground-level perspective, emphasizing the scale and organic nature of the world
+  mood:
+    overall: organic, mysterious, symbiotic
+    emotion: wonder, a slight sense of the uncanny, harmony with nature
+    tempo: slow, growing, pulsing
+    keywords:
+    - organic
+    - symbiotic
+    - glowing
+    - grown
+    - mysterious
+  stylePrecedents:
+  - Scientific illustrations of fungi and mycelium
+  - Bioluminescent nature photography
+  - The aesthetics of the movie "Annihilation"

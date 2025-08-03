@@ -1,0 +1,61 @@
+styleName: Memphis Design Style
+description: Postmodern 1980s design movement featuring bold geometric shapes, clashing colors, and playful asymmetry
+aiPrompts:
+  basePrompt: Memphis design, 1980s postmodern, geometric shapes, bold colors, asymmetric patterns, playful design
+  negativePrompt: minimalist, monochrome, traditional, realistic, subtle
+  styleKeywords:
+  - Memphis design
+  - postmodern
+  - 80s design
+  - geometric
+  - playful
+visualElements:
+  colorPalette:
+    primary:
+    - hot pink
+    - electric blue
+    - bright yellow
+    - turquoise
+    secondary:
+    - black
+    - white
+    - mint green
+    background: white or pastel with bold patterns
+    usageNotes: Clashing, bold colors used together fearlessly
+    saturation: very high
+    contrast: high
+  lineArt:
+    style: bold geometric outlines
+    weight: thick, uniform
+    color: black or contrasting colors
+    texture: flat, graphic
+    edgeTreatment: sharp, angular
+  lighting:
+    type: flat, graphic lighting
+    direction: n/a (flat design)
+    intensity: bright, even
+    shadows:
+      style: none or simple drop shadows
+      color: black or colored
+      opacity: solid
+    highlights: none (flat colors)
+  rendering:
+    technique: flat graphic design
+    texture: patterns like terrazzo, squiggles, dots
+    detailLevel: simple shapes, complex patterns
+    finish: matte, flat colors
+  perspective: flat or isometric
+  mood:
+    overall: playful, energetic, rebellious
+    emotion: joy, irreverence, creativity
+    tempo: dynamic, chaotic
+    keywords:
+    - playful
+    - bold
+    - irreverent
+    - energetic
+    - postmodern
+  stylePrecedents:
+  - Ettore Sottsass designs
+  - 1980s MTV graphics
+  - Saved by the Bell aesthetics

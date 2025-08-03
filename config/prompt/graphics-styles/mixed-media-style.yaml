@@ -1,0 +1,59 @@
+styleName: Mixed Media Style
+description: Artwork combining different materials and techniques such as paints, photographs, fabrics, and found objects in a single composition
+aiPrompts:
+  basePrompt: mixed media art, combined techniques, layered materials, textured collage, experimental art
+  negativePrompt: single medium, uniform technique, digital only, painted only, simple style
+  styleKeywords:
+  - mixed media
+  - combined techniques
+  - layered
+  - textural
+  - experimental
+visualElements:
+  colorPalette:
+    primary:
+    - earth tones
+    - rust red
+    - aged yellows
+    secondary:
+    - deep blues
+    - forest greens
+    - cream whites
+    background: textured surfaces, canvas, or paper
+    usageNotes: Varied color sources from different materials and techniques
+    saturation: varies by material (some faded, some vibrant)
+    contrast: high between different media
+  lineArt:
+    style: combination of drawn, painted, and physical edges
+    weight: varies by technique (pen, brush, torn paper)
+    color: multiple sources (ink, paint, printed material)
+    texture: mixed textures from different materials
+    edgeTreatment: combination of sharp cuts, soft blends, rough tears
+  lighting:
+    type: mixed lighting effects from different techniques
+    direction: varies by layer and material
+    intensity: inconsistent (some flat, some dimensional)
+    shadows:
+      style: combination of painted shadows and physical depth
+      color: varies by material
+      opacity: mixed (some opaque, some transparent)
+    highlights: mixed sources (painted, photographic, metallic)
+  rendering:
+    technique: combination of traditional and digital methods
+    texture: highly varied (smooth paint, rough fabric, glossy photo)
+    detailLevel: varies by area (some detailed, some abstract)
+    finish: multiple finishes in one piece
+  perspective: mixed perspectives from different source materials
+  mood:
+    overall: experimental, tactile, eclectic
+    emotion: curiosity, exploration, richness
+    tempo: complex, layered
+    keywords:
+    - experimental
+    - tactile
+    - layered
+    - rich
+    - diverse
+  stylePrecedents:
+  - Robert Rauschenberg combines
+  - Kurt Schwitters Merz collages

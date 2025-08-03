@@ -1,0 +1,59 @@
+styleName: Serigraphy Screenprint Style
+description: Screen printing technique with bold, flat colors, clean edges, and graphic poster-like compositions with limited color palette
+aiPrompts:
+  basePrompt: screen print, serigraphy, bold flat colors, poster art, limited palette, clean edges
+  negativePrompt: detailed shading, photorealistic, soft gradients, many colors, painterly
+  styleKeywords:
+  - screen print
+  - serigraphy
+  - poster art
+  - flat colors
+  - graphic
+visualElements:
+  colorPalette:
+    primary:
+    - bold red
+    - electric blue
+    - bright yellow
+    secondary:
+    - black
+    - white
+    - single accent color
+    background: solid color or simple pattern
+    usageNotes: Limited palette (2-5 colors), bold and saturated
+    saturation: very high (poster-bright colors)
+    contrast: high (clear color separation)
+  lineArt:
+    style: clean, graphic outlines
+    weight: bold, consistent
+    color: solid colors (usually black or dark)
+    texture: smooth, printed quality
+    edgeTreatment: sharp, clean edges
+  lighting:
+    type: flat, even lighting
+    direction: front-lit, minimal shadows
+    intensity: consistent across image
+    shadows:
+      style: solid color shadows, simple shapes
+      color: solid color (not black)
+      opacity: solid
+    highlights: solid color highlights
+  rendering:
+    technique: flat color application with clean registration
+    texture: slight print texture, paper absorption
+    detailLevel: moderate (simplified for printing)
+    finish: flat, matte print finish
+  perspective: simple, graphic perspective
+  mood:
+    overall: bold, graphic, impactful
+    emotion: strength, clarity, directness
+    tempo: strong, immediate
+    keywords:
+    - bold
+    - graphic
+    - impactful
+    - direct
+    - strong
+  stylePrecedents:
+  - Andy Warhol pop art prints
+  - 1960s concert posters

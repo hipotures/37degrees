@@ -1,0 +1,60 @@
+styleName: Celestial Fantasy Style
+description: Celestial fantasy art with starry night skies, cosmic nebulae, and magical glowing elements blending astronomy and myth
+aiPrompts:
+  basePrompt: celestial fantasy artwork, stars and nebula, cosmos, ethereal clouds, mystical glow
+  negativePrompt: daylight scenes, realistic astronomy only, plain black sky
+  styleKeywords:
+  - celestial
+  - cosmic
+  - ethereal
+  - fantasy
+  - glowing
+visualElements:
+  colorPalette:
+    primary:
+    - midnight blue
+    - indigo
+    - violet
+    secondary:
+    - glowing white
+    - shimmering gold
+    - nebula pink
+    - teal
+    background: star-filled dark sky
+    usageNotes: Dark base with bright stars and colorful nebula clouds
+    saturation: high for nebula colors, low for background
+    contrast: high (bright stars on dark sky)
+  lineArt:
+    style: none or soft cloud outlines
+    weight: n/a
+    color: n/a
+    texture: nebula cloud shapes
+    edgeTreatment: fades into space
+  lighting:
+    type: glowing, diffuse starlight
+    direction: ambient cosmic light
+    intensity: gentle overall glow with bright star points
+    shadows:
+      style: soft silhouettes (e.g., figures against sky)
+      color: deep blue
+      opacity: soft
+    highlights: sparkling stars and rim light on clouds
+  rendering:
+    technique: digital painting or airbrush blending
+    texture: smooth gradients, dust-like star field
+    detailLevel: moderate (clusters of stars, hints of figures or constellations)
+    finish: luminescent, dreamy finish
+  perspective: vast wide-angle or cosmic depth
+  mood:
+    overall: mysterious, awe-inspiring, dreamy
+    emotion: wonder, serenity, enchantment
+    tempo: slow, majestic
+    keywords:
+    - cosmic
+    - mystical
+    - vast
+    - serene
+    - glittering
+  stylePrecedents:
+  - Van Gogh's Starry Night (for swirling sky concept)
+  - Chesley Bonestell space art

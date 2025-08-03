@@ -1,0 +1,59 @@
+styleName: Geminism - Digital Glitch-Povera
+description: A fusion of Glitch Art's digital corruption aesthetic and Arte Povera's use of "poor" materials. Instead of soil and rags, this style uses digital "trash" – heavily compressed JPEGs, corrupted text files, broken GIFs, and fragmented code – assembled into collage-like compositions that explore the decay and ephemerality of the digital world.
+aiPrompts:
+  basePrompt: digital glitch-povera, corrupted file collage, JPEG artifact art, datamoshing, broken HTML, digital decay, geminism
+  negativePrompt: clean design, high resolution, perfect rendering, analog art, painting
+  styleKeywords:
+  - glitch
+  - digital decay
+  - collage
+  - artifact
+  - corrupted
+visualElements:
+  colorPalette:
+    primary:
+    - the chaotic colors of RGB separation (cyan, magenta, yellow)
+    - the gray tones of heavily compressed images
+    - default blue of hyperlinks
+    secondary:
+    - black and white of plain text files
+    - garish default web colors
+    background: a layered mess of broken digital textures
+    usageNotes: The palette is entirely derived from the artifacts of digital corruption.
+    saturation: varies from completely desaturated to hypersaturated blocks of color
+    contrast: extreme and jarring
+  lineArt:
+    style: defined by the sharp, blocky edges of pixelation and the jagged lines of torn images
+    weight: n/a
+    color: n/a
+    texture: pixelation, banding, data-moshed blocks
+    edgeTreatment: sharp, pixelated, and fragmented edges
+  lighting:
+    type: none, or the inherent "glow" of digital screen elements
+    direction: n/a
+    intensity: varies depending on the source "trash"
+    shadows:
+      style: simple drop-shadows between layered "files" to give a sense of a messy digital desktop
+      color: black
+      opacity: solid or semi-transparent
+    highlights: blown-out white areas from corrupted image data
+  rendering:
+    technique: digital collage and data manipulation
+    texture: compression artifacts, pixel grids, unicode error symbols (�), scan lines
+    detailLevel: low-fidelity by nature, but complex in its layering
+    finish: raw, broken, digital
+  perspective: a flat, 2D composition that mimics a chaotic computer screen or a corrupted data stream
+  mood:
+    overall: chaotic, nostalgic, critical
+    emotion: digital archaeology, a sense of loss (of data), nostalgia for obsolete tech
+    tempo: erratic, broken
+    keywords:
+    - digital decay
+    - chaotic
+    - nostalgic
+    - fragmented
+    - critical
+  stylePrecedents:
+  - Glitch Art
+  - Arte Povera
+  - Net.art from the 1990s

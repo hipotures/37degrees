@@ -1,0 +1,61 @@
+styleName: Geminism - Bio-Vellum
+description: A fusion of the intricate, ornamental detail of Illuminated Manuscripts and the unsettling organic-mechanical synthesis of Biomechanical art. This style features hyper-detailed anatomical or biological forms rendered with the precision, gold leaf application, and decorative bordering of medieval scribes on a parchment-like digital canvas.
+aiPrompts:
+  basePrompt: bio-vellum, biomechanical illumination, anatomical manuscript, gilded organs, decorative biology, geminism
+  negativePrompt: simple illustration, cartoon, abstract, traditional anatomy chart, steampunk
+  styleKeywords:
+  - biomechanical
+  - ornate
+  - anatomical
+  - manuscript
+  - gilded
+visualElements:
+  colorPalette:
+    primary:
+    - rich gold leaf
+    - deep crimson and fleshy pinks
+    - lapis lazuli blue
+    - bone white
+    secondary:
+    - vein-like greens and purples
+    - black ink
+    - silver accents
+    background: textured digital parchment or vellum
+    usageNotes: A mix of rich, medieval pigments with realistic, organic tissue colors, heavily accented with gold.
+    saturation: high for pigments and gold, natural for organic parts
+    contrast: high
+  lineArt:
+    style: extremely fine, precise ink lines defining anatomical details, surrounded by thick, decorative vine-work and borders
+    weight: hairline for details, varied for ornamentation
+    color: black or dark sepia ink, with gold filigree
+    texture: smooth ink lines on a fibrous paper texture
+    edgeTreatment: clean anatomical lines integrated with ornate, calligraphic flourishes
+  lighting:
+    type: a flat, decorative light on the borders, with a subtle, realistic, top-down light on the central biological form to give it volume
+    direction: mixed - ambient for decoration, directional for anatomy
+    intensity: soft and focused
+    shadows:
+      style: soft, subtle shadows on the biological parts to create realism
+      color: darker flesh tones
+      opacity: light
+    highlights: specular highlights on wet-looking tissues and brilliant reflections from the gold leaf
+  rendering:
+    technique: digital mixed-media that simulates egg tempera, ink, and gold leaf on vellum
+    texture: the central image is smooth and wet-looking, while the background and borders are matte and fibrous
+    detailLevel: extremely high, both in anatomical accuracy and decorative complexity
+    finish: a mix of glossy organic surfaces, matte paint, and reflective metallic leaf
+  perspective: a flattened, scientific illustration-style perspective for the central object, within a flat, 2D decorative frame
+  mood:
+    overall: reverent, unsettling, scholastic
+    emotion: fascination with the body, a sense of sacred anatomy, intellectual horror
+    tempo: static, contemplative
+    keywords:
+    - sacred
+    - anatomical
+    - ornate
+    - unsettling
+    - detailed
+  stylePrecedents:
+  - Medieval Illuminated Manuscripts (Book of Kells)
+  - H.R. Giger's biomechanics
+  - Medical illustrations of Andreas Vesalius

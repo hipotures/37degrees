@@ -1,0 +1,57 @@
+styleName: Geminism - Paleo-Minimalism
+description: A style that fuses the severe, geometric simplicity of Minimalism with the textures, forms, and deep time of geology and paleontology. It presents simple shapes (cubes, spheres, lines) as if they were carved from ancient rock, covered in fossils, or showing layers of geological strata. It's Minimalism viewed through the lens of millions of years.
+aiPrompts:
+  basePrompt: paleo-minimalism, geological minimalism, fossilized sculpture, deep time art, textured monolith, geminism
+  negativePrompt: polished metal, smooth surfaces, complex shapes, pop art, futuristic
+  styleKeywords:
+  - minimalist
+  - geological
+  - ancient
+  - textured
+  - monolithic
+visualElements:
+  colorPalette:
+    primary:
+    - the natural palette of rock: granite gray, sandstone ochre, slate blue, obsidian black
+    - the muted tones of fossils: bone white, amber, mineralized browns
+    secondary:
+    - veins of quartz or other minerals as accents
+    background: a stark, empty gallery space or a vast, empty natural landscape (desert, tundra)
+    usageNotes: The color palette is entirely natural and derived from ancient materials.
+    saturation: very low, desaturated
+    contrast: low to medium, focusing on texture
+  lineArt:
+    style: no lines; the form is a single, monolithic shape
+    weight: n/a
+    color: n/a
+    texture: the core of the style - rough-hewn stone, sedimentary layers, embedded fossils, crystalline structures
+    edgeTreatment: can be a perfectly sharp, minimalist edge, or a rough, broken stone edge, creating a core tension
+  lighting:
+    type: stark, dramatic, "museum" lighting
+    direction: a single, strong light source from the side or top to rake across the surface and reveal its texture
+    intensity: high contrast
+    shadows:
+      style: hard, deep shadows that emphasize the object's form and weight
+      color: deep, neutral gray or black
+      opacity: solid
+    highlights: sharp highlights that catch on the rough texture and fossil details
+  rendering:
+    technique: photorealistic 3D rendering with a heavy focus on displacement maps and complex material shaders
+    texture: hyperrealistic rock, fossil, and mineral textures
+    detailLevel: extreme on the surface texture, minimal on the overall form
+    finish: matte, rough, ancient
+  perspective: monumental, eye-level perspective that gives the simple form immense weight and presence
+  mood:
+    overall: ancient, contemplative, monumental
+    emotion: a sense of deep time, humility, permanence, and raw power
+    tempo: geological, silent, still
+    keywords:
+    - ancient
+    - monumental
+    - contemplative
+    - textured
+    - elemental
+  stylePrecedents:
+  - Minimalism (Donald Judd, Carl Andre)
+  - Land Art (Michael Heizer)
+  - Natural history museum displays

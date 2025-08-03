@@ -1,0 +1,59 @@
+styleName: Italian Futurism Style
+description: Early 20th-century movement glorifying dynamism, speed, technology, and modernity through visual representation of movement and simultaneity
+aiPrompts:
+  basePrompt: italian futurism, dynamic movement, speed lines, mechanical forms, industrial technology, simultaneous motion
+  negativePrompt: static composition, traditional themes, pastoral scenes, slow movement, classical art
+  styleKeywords:
+  - italian futurism
+  - dynamic movement
+  - speed
+  - technology
+  - simultaneity
+visualElements:
+  colorPalette:
+    primary:
+    - metallic silver
+    - industrial yellow
+    - machine red
+    secondary:
+    - steel blue
+    - black
+    - white highlights
+    background: industrial or urban environments showing movement
+    usageNotes: Bold, industrial colors suggesting machinery and speed
+    saturation: high (bold, energetic colors)
+    contrast: high (dynamic visual impact)
+  lineArt:
+    style: dynamic lines showing movement and force
+    weight: varies to show energy and direction
+    color: bold lines emphasizing motion
+    texture: mechanical, angular forms
+    edgeTreatment: sharp, dynamic edges
+  lighting:
+    type: dramatic lighting emphasizing movement
+    direction: multiple angles showing simultaneity
+    intensity: high energy, dynamic
+    shadows:
+      style: motion blur effects, dynamic shadows
+      color: dark contrasts
+      opacity: varies with movement
+    highlights: bright reflections on mechanical surfaces
+  rendering:
+    technique: analytical breakdown of movement
+    texture: metallic, industrial surfaces
+    detailLevel: high mechanical detail
+    finish: dynamic, energetic surface
+  perspective: multiple viewpoints showing simultaneity of movement
+  mood:
+    overall: energetic, progressive, mechanical
+    emotion: excitement about technology and speed
+    tempo: fast, dynamic
+    keywords:
+    - energetic
+    - progressive
+    - mechanical
+    - dynamic
+    - modern
+  stylePrecedents:
+  - Umberto Boccioni sculptures
+  - Giacomo Balla motion studies

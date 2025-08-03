@@ -1,0 +1,60 @@
+styleName: Neogeo (Neo-Geometric Conceptualism)
+description: An art movement from the 1980s that revisited geometric abstraction with a critical, postmodern twist. It uses crisp, hard-edged geometry and bright, often fluorescent, commercial colors to critique the mechanization and commercialism of the modern world.
+aiPrompts:
+  basePrompt: Neogeo art, neo-geometric conceptualism, hard-edge abstraction, fluorescent colors, circuit board patterns, 1980s art, Peter Halley style
+  negativePrompt: painterly, impressionism, realism, muted colors, organic shapes
+  styleKeywords:
+  - Neogeo
+  - geometric
+  - hard-edge
+  - fluorescent
+  - 80s
+  - conceptual
+visualElements:
+  colorPalette:
+    primary:
+    - fluorescent pink, orange, green, yellow
+    - bright, synthetic primary colors
+    - black
+    secondary:
+    - metallic and pearlescent colors
+    - industrial grays
+    background: flat, solid color
+    usageNotes: The palette is intentionally artificial, referencing digital screens, advertising, and industrial color-coding.
+    saturation: maximum, often fluorescent
+    contrast: extremely high
+  lineArt:
+    style: crisp, hard-edged lines, often resembling diagrams, circuits, or architectural plans
+    weight: uniform, precise
+    color: typically black or a strong contrasting color
+    texture: none
+    edgeTreatment: sharp, mechanical, perfect
+  lighting:
+    type: none (completely flat)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none
+      color: n/a
+      opacity: n/a
+    highlights: none
+  rendering:
+    technique: acrylic or industrial paint (like Roll-a-Tex for texture) on canvas
+    texture: can be perfectly flat or have a rough, stucco-like texture, but the color shapes are always flat
+    detailLevel: minimal, focusing on the interaction of color and shape
+    finish: matte, uninflected
+  perspective: none, completely flat
+  mood:
+    overall: critical, cool, detached
+    emotion: alienation, simulation, critique of social structures
+    tempo: static, graphic
+    keywords:
+    - critical
+    - geometric
+    - synthetic
+    - graphic
+    - postmodern
+  stylePrecedents:
+  - Peter Halley
+  - Ashley Bickerton
+  - Jeff Koons

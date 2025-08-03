@@ -1,0 +1,58 @@
+styleName: AI Surrealism Style
+description: Dreamlike AI-generated aesthetic with bizarre juxtapositions, hyperreal details merging into surreal forms, and a subtle glitchy vibe
+aiPrompts:
+  basePrompt: AI surreal art, dreamlike imagery, unexpected combinations, hyperreal detail, ethereal atmosphere
+  negativePrompt: ordinary, mundane, realistic composition, simple
+  styleKeywords:
+  - AI surrealism
+  - dreamlike
+  - hyperreal
+  - glitchy
+  - fantastical
+visualElements:
+  colorPalette:
+    primary:
+    - iridescent purple
+    - electric blue
+    - vibrant pink
+    secondary:
+    - neon cyan highlights
+    - deep navy shadows
+    background: nebulous gradient or cosmic pattern
+    usageNotes: Bright, luminous elements against dark, diffuse backgrounds
+    saturation: mixed (vibrant focal points, muted backdrop)
+    contrast: high
+  lineArt:
+    style: none or fluid fractal outlines
+    weight: n/a
+    color: n/a
+    texture: smooth blending with occasional digital artifacts
+    edgeTreatment: soft, merging forms
+  lighting:
+    type: surreal glows and rim lights
+    direction: multiple or inconsistent
+    intensity: high in spots, low elsewhere
+    shadows:
+      style: soft, diffuse, oddly colored
+      color: purple or blue tones
+      opacity: translucent
+    highlights: bioluminescent glows
+  rendering:
+    technique: AI-generated collage/painting
+    texture: smooth surfaces with glitch textures
+    detailLevel: high in focal points, dissolving in periphery
+    finish: semi-realistic, dreamy
+  perspective: shifting or inconsistent perspective
+  mood:
+    overall: mysterious, uncanny, imaginative
+    emotion: wonder, confusion, fascination
+    tempo: flowing, unpredictable
+    keywords:
+    - dreamlike
+    - uncanny
+    - fantastical
+    - glitch
+    - ethereal
+  stylePrecedents:
+  - DeepDream images
+  - Surreal AI artworks

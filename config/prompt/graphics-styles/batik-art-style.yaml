@@ -1,0 +1,59 @@
+styleName: Batik Art Style
+description: Colorful textile patterns with wax-resist dyed motifs and organic, repetitive designs
+aiPrompts:
+  basePrompt: batik pattern, wax-resist dye, intricate repeating motifs, vibrant textile art
+  negativePrompt: photorealistic, smooth gradients, modern digital patterns, uniform
+  styleKeywords:
+  - batik
+  - textile
+  - wax resist
+  - traditional
+  - pattern
+visualElements:
+  colorPalette:
+    primary:
+    - indigo blue
+    - earthy brown
+    - rich gold
+    - ivory
+    secondary:
+    - rust red
+    - deep navy
+    background: neutral fabric beige
+    usageNotes: Natural dyes with contrasting light and dark motifs
+    saturation: rich, earthy
+    contrast: high
+  lineArt:
+    style: flowing organic outlines
+    weight: medium, varied by motif
+    color: dark wax outlines (indigo or brown)
+    texture: slightly uneven, crackled edges
+    edgeTreatment: organic, fluid, hand-drawn
+  lighting:
+    type: flat, pattern-based
+    direction: none
+    intensity: n/a
+    shadows:
+      style: none (flat design)
+      color: n/a
+      opacity: n/a
+    highlights: subtle dye variations
+  rendering:
+    technique: wax-resist dye on fabric
+    texture: cloth texture, slight crackle
+    detailLevel: highly detailed motifs
+    finish: matte fabric, hand-crafted
+  perspective: flat, ornamental
+  mood:
+    overall: cultural, handcrafted, intricate
+    emotion: warmth, tradition, creativity
+    tempo: rhythmic, repetitive
+    keywords:
+    - traditional
+    - patterned
+    - folk
+    - intricate
+    - organic
+  stylePrecedents:
+  - Indonesian batik textiles
+  - Javanese fabric patterns

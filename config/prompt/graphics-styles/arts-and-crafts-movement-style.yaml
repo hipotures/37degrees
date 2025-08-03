@@ -1,0 +1,62 @@
+styleName: Arts and Crafts Movement Style
+description: A late 19th-century movement celebrating craftsmanship, nature, and simplicity as a reaction against industrialization. It emphasizes handmade quality, natural materials, and stylized floral or medieval patterns.
+aiPrompts:
+  basePrompt: arts and crafts movement, William Morris pattern, handcrafted, stylized nature, woodblock print, medieval revival, decorative arts
+  negativePrompt: industrial, mass-produced, minimalist, plastic, photorealistic, futuristic
+  styleKeywords:
+  - arts and crafts
+  - handcrafted
+  - decorative
+  - nature
+  - medievalism
+  - pattern
+visualElements:
+  colorPalette:
+    primary:
+    - muted greens (sage, olive)
+    - earthy reds (terracotta)
+    - deep blues
+    - mustard yellows
+    secondary:
+    - cream
+    - natural wood tones
+    - slate gray
+    background: patterned wallpaper, textured paper
+    usageNotes: Rich, but muted and natural color palette derived from vegetable dyes.
+    saturation: medium
+    contrast: medium, harmonious
+  lineArt:
+    style: bold, clear outlines, often in a woodblock style
+    weight: medium to bold, consistent
+    color: dark brown or black
+    texture: handmade, slightly irregular
+    edgeTreatment: clean, defined forms
+  lighting:
+    type: flat, decorative (as in patterns or prints)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none or very simple flat shading
+      color: darker shade of the base color
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: woodblock printing, stained glass, tapestry, embroidery
+    texture: visible texture of the material (paper, wood, fabric)
+    detailLevel: high in pattern detail, simplified forms
+    finish: matte, handcrafted
+  perspective: flat, decorative, two-dimensional
+  mood:
+    overall: honest, handcrafted, natural
+    emotion: tranquility, integrity, appreciation for nature
+    tempo: calm, deliberate
+    keywords:
+    - handcrafted
+    - natural
+    - honest
+    - decorative
+    - traditional
+  stylePrecedents:
+  - William Morris (textiles, wallpaper)
+  - Gustav Stickley (furniture)
+  - Charles Rennie Mackintosh

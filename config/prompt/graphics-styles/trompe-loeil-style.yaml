@@ -1,0 +1,60 @@
+styleName: Trompe-l'œil Style
+description: A painting technique that creates the illusion of three-dimensionality on a flat surface so realistically that viewers feel they are encountering real objects. Literally means "deceive the eye".
+aiPrompts:
+  basePrompt: trompe l'oeil painting, optical illusion, hyperrealistic, three-dimensional effect on flat surface, still life, architectural illusion
+  negativePrompt: abstract, painterly, visible brushstrokes, 2D flat illustration, cartoon
+  styleKeywords:
+  - trompe l'oeil
+  - illusion
+  - hyperrealistic
+  - 3D effect
+  - deceptive
+visualElements:
+  colorPalette:
+    primary:
+    - natural wood colors
+    - stone and marble colors
+    - paper and leather tones
+    secondary:
+    - metallic shades (gold, silver)
+    - fabric colors
+    - fruit and food colors
+    background: usually a wall, board, or other flat surface that is part of the illusion
+    usageNotes: Palette is completely subordinated to the realism of depicted objects.
+    saturation: natural, realistic
+    contrast: high, built through precise lighting
+  lineArt:
+    style: no lines, edges defined by light and shadow
+    weight: n/a
+    color: n/a
+    texture: hyperrealistic imitation of textures (wood, paper, metal)
+    edgeTreatment: sharp, photographically precise edges
+  lighting:
+    type: very precise, realistic lighting
+    direction: usually from one specific source (e.g., window)
+    intensity: natural, consistent for entire scene
+    shadows:
+      style: precisely cast shadows, crucial for depth illusion
+      color: natural, darker shades of surroundings
+      opacity: realistic, physics-compliant
+    highlights: accurate reproduction of light reflections on various materials
+  rendering:
+    technique: hyperrealistic oil or acrylic painting
+    texture: perfectly smooth surface without visible brushstrokes
+    detailLevel: extremely high, every detail crucial for illusion
+    finish: matte or glossy, depending on imitated material
+  perspective: precise, mathematical linear perspective
+  mood:
+    overall: surprising, illusory, technical
+    emotion: admiration for craftsmanship, amazement, play with perception
+    tempo: static, frozen moment
+    keywords:
+    - illusion
+    - realistic
+    - surprising
+    - precise
+    - three-dimensional
+  stylePrecedents:
+  - Andrea Mantegna (Camera degli Sposi)
+  - William Harnett
+  - Cornelis Norbertus Gysbrechts

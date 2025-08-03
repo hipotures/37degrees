@@ -1,0 +1,62 @@
+styleName: Lowbrow (Pop Surrealism) Style
+description: A contemporary art movement with roots in underground comix, punk music, and hot-rod culture. It blends pop culture imagery with surrealist themes, often using classical painting techniques with a playful, sarcastic, or dark twist.
+aiPrompts:
+  basePrompt: lowbrow art, pop surrealism, cartoon characters, surreal scene, kustom kulture, underground comix aesthetic, Mark Ryden style
+  negativePrompt: fine art, abstract, minimalist, photorealistic, serious, traditional
+  styleKeywords:
+  - lowbrow
+  - pop surrealism
+  - cartoonish
+  - surreal
+  - kitsch
+  - underground
+visualElements:
+  colorPalette:
+    primary:
+    - candy pinks
+    - bright teals
+    - vintage cartoon colors
+    secondary:
+    - muted, fleshy tones
+    - antique browns
+    - blood red
+    background: often detailed, dreamlike, or vintage-inspired settings
+    usageNotes: A mix of saccharine, pop-culture colors and darker, more traditional tones.
+    saturation: varies wildly, from muted to hyper-saturated
+    contrast: medium to high
+  lineArt:
+    style: clean, sharp outlines reminiscent of comics or animation
+    weight: typically uniform and clear
+    color: black or dark colors
+    texture: smooth, graphic quality
+    edgeTreatment: crisp, well-defined edges
+  lighting:
+    type: often soft, diffused, and glowing, like old cartoons or studio photography
+    direction: clear, often frontal lighting
+    intensity: moderate, creating a smooth, plastic-like feel
+    shadows:
+      style: soft, blended shadows
+      color: subtle, warm tones
+      opacity: smooth
+    highlights: bright, specular highlights on eyes and surfaces
+  rendering:
+    technique: highly polished oil or acrylic painting, digital painting
+    texture: smooth, often flawless surfaces
+    detailLevel: very high, with meticulous attention to detail
+    finish: glossy, enamel-like, or matte
+  perspective: traditional, realistic perspective used for surreal subjects
+  mood:
+    overall: playful, uncanny, sarcastic
+    emotion: a mix of innocence and darkness, humor, nostalgia, unease
+    tempo: static, like a strange diorama
+    keywords:
+    - uncanny
+    - playful
+    - dark
+    - kitsch
+    - surreal
+  stylePrecedents:
+  - Mark Ryden
+  - Todd Schorr
+  - Robert Williams
+  - Juxtapoz Magazine

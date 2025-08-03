@@ -1,0 +1,59 @@
+styleName: Grunge Style
+description: 1990s DIY aesthetic featuring distressed textures, chaotic typography, muted colors, and deliberately rough, unpolished appearance
+aiPrompts:
+  basePrompt: grunge style, distressed textures, chaotic typography, rough edges, DIY aesthetic, worn appearance, 1990s style
+  negativePrompt: polished finish, clean design, bright colors, professional typography, pristine appearance
+  styleKeywords:
+  - grunge
+  - distressed
+  - DIY
+  - rough
+  - chaotic
+visualElements:
+  colorPalette:
+    primary:
+    - muted brown
+    - faded black
+    - dirty white
+    secondary:
+    - rust orange
+    - olive green
+    - dusty purple
+    background: textured, worn surfaces or urban decay
+    usageNotes: Desaturated, worn colors suggesting age and use
+    saturation: low (faded, worn appearance)
+    contrast: medium (weathered, not stark)
+  lineArt:
+    style: rough, hand-drawn or distressed lines
+    weight: inconsistent, worn-looking
+    color: faded or worn color lines
+    texture: rough, distressed edges
+    edgeTreatment: rough, torn, or worn edges
+  lighting:
+    type: dim, atmospheric lighting
+    direction: moody, uneven lighting
+    intensity: low to medium (atmospheric)
+    shadows:
+      style: soft, atmospheric shadows
+      color: dark browns or grays
+      opacity: medium, atmospheric
+    highlights: minimal, worn highlights
+  rendering:
+    technique: rough, DIY methods
+    texture: distressed paper, worn surfaces, rough materials
+    detailLevel: deliberately rough (anti-perfectionist)
+    finish: matte, worn, distressed
+  perspective: casual, non-professional perspective
+  mood:
+    overall: rebellious, authentic, anti-establishment
+    emotion: authenticity, rebellion, underground culture
+    tempo: slow, contemplative
+    keywords:
+    - rebellious
+    - authentic
+    - anti-establishment
+    - rough
+    - underground
+  stylePrecedents:
+  - 1990s alternative music artwork
+  - Zine and DIY publication design

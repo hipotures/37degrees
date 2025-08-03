@@ -1,0 +1,59 @@
+styleName: 2D Animation Style
+description: Two-dimensional animation technique including traditional hand-drawn, vector-based, and motion graphics animation styles
+aiPrompts:
+  basePrompt: 2D animation, traditional animation, vector animation, motion graphics, frame by frame, cartoon style
+  negativePrompt: 3D rendering, photorealistic, static image, live action, depth of field
+  styleKeywords:
+  - 2D animation
+  - traditional animation
+  - cartoon
+  - motion graphics
+  - frame by frame
+visualElements:
+  colorPalette:
+    primary:
+    - cartoon bright colors
+    - primary colors
+    - cel animation colors
+    secondary:
+    - animation secondary colors
+    - background colors
+    - character colors
+    background: animated backgrounds or cartoon environments
+    usageNotes: Bright, clear colors suitable for animation
+    saturation: high (clear, animation-friendly colors)
+    contrast: high (clear character definition)
+  lineArt:
+    style: clean animation lines, consistent character design
+    weight: consistent for animation, varies by style
+    color: black outlines or colored lines
+    texture: clean animation line quality
+    edgeTreatment: smooth, animation-friendly edges
+  lighting:
+    type: simplified animation lighting
+    direction: consistent for animation continuity
+    intensity: clear, animation-appropriate
+    shadows:
+      style: simple, consistent animation shadows
+      color: darker animation colors
+      opacity: consistent for animation
+    highlights: simple animation highlights
+  rendering:
+    technique: traditional cel animation or digital equivalent
+    texture: flat animation colors or simple textures
+    detailLevel: optimized for animation (clear, not overly detailed)
+    finish: flat animation finish
+  perspective: simplified perspective suitable for animation
+  mood:
+    overall: dynamic, expressive, storytelling
+    emotion: varies by animation style and story
+    tempo: dynamic, movement-focused
+    keywords:
+    - dynamic
+    - expressive
+    - storytelling
+    - movement
+    - cartoon
+  stylePrecedents:
+  - Disney traditional animation
+  - Japanese anime style

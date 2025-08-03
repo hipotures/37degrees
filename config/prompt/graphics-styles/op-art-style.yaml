@@ -1,0 +1,58 @@
+styleName: Op Art Style
+description: An art movement from the 1960s that uses abstract, geometric patterns to create optical illusions, such as the impression of movement, vibration, pulsation, or hidden images.
+aiPrompts:
+  basePrompt: op art, optical illusion, geometric patterns, moire pattern, black and white abstraction, kinetic art, Bridget Riley style
+  negativePrompt: figurative, realistic, color photography, soft edges, painterly
+  styleKeywords:
+  - op art
+  - optical illusion
+  - kinetic
+  - geometric
+  - pattern
+  - dizzying
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000' # Black
+    - '#FFFFFF' # White
+    secondary:
+    - bright, contrasting colors (e.g., red and blue)
+    background: part of the pattern
+    usageNotes: Most often black and white for maximum contrast, sometimes uses complementary colors.
+    saturation: maximum if color is used
+    contrast: extremely high
+  lineArt:
+    style: precise, repetitive lines and geometric shapes
+    weight: uniform, precise
+    color: black or a contrasting color
+    texture: smooth, graphic
+    edgeTreatment: sharp, clean edges
+  lighting:
+    type: none (illusion created by the pattern)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none
+      color: n/a
+      opacity: n/a
+    highlights: none
+  rendering:
+    technique: precise graphics, often computer-generated
+    texture: none, perfectly smooth surface
+    detailLevel: high in pattern precision
+    finish: clean, graphic
+  perspective: flat, but creates an illusion of depth or movement
+  mood:
+    overall: dynamic, disorienting, hypnotic
+    emotion: surprise, unease, fascination
+    tempo: vibrating, pulsating
+    keywords:
+    - hypnotic
+    - vibrating
+    - disorienting
+    - geometric
+    - illusion
+  stylePrecedents:
+  - Victor Vasarely
+  - Bridget Riley
+  - Jesus Rafael Soto

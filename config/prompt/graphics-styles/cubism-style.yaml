@@ -1,0 +1,59 @@
+styleName: Cubism Style
+description: Revolutionary art movement geometrizing forms, deconstructing objects, and showing multiple perspectives simultaneously in fragmented compositions
+aiPrompts:
+  basePrompt: cubist painting, geometric forms, multiple perspectives, fragmented composition, analytical deconstruction, abstract geometry
+  negativePrompt: realistic representation, single perspective, smooth curves, photographic, traditional composition
+  styleKeywords:
+  - cubism
+  - geometric forms
+  - multiple perspectives
+  - fragmented
+  - analytical
+visualElements:
+  colorPalette:
+    primary:
+    - ochre brown
+    - gray
+    - muted green
+    secondary:
+    - beige
+    - black
+    - white
+    background: neutral, fragmented geometric backgrounds
+    usageNotes: Limited, muted palette focusing on form over color
+    saturation: low (muted, analytical approach)
+    contrast: medium (tonal variations)
+  lineArt:
+    style: geometric lines defining fragmented planes
+    weight: consistent, structural lines
+    color: dark outlines defining geometric forms
+    texture: flat, geometric treatment
+    edgeTreatment: sharp, angular edges
+  lighting:
+    type: analytical lighting showing multiple angles
+    direction: multiple light sources simultaneously
+    intensity: consistent, analytical
+    shadows:
+      style: geometric, faceted shadows
+      color: darker tones of base colors
+      opacity: solid, geometric
+    highlights: geometric light planes
+  rendering:
+    technique: analytical deconstruction of forms
+    texture: flat planes with subtle modeling
+    detailLevel: high analytical detail in geometric breakdown
+    finish: matte, analytical surface
+  perspective: multiple perspectives simultaneously
+  mood:
+    overall: intellectual, analytical, revolutionary
+    emotion: intellectual exploration, formal innovation
+    tempo: static, contemplative
+    keywords:
+    - intellectual
+    - analytical
+    - revolutionary
+    - geometric
+    - deconstructed
+  stylePrecedents:
+  - Pablo Picasso Les Demoiselles d'Avignon
+  - Georges Braque analytical cubism

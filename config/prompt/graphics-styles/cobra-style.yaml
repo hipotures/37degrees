@@ -1,0 +1,58 @@
+styleName: COBRA
+description: A European avant-garde movement (1948-1951) characterized by spontaneity, experimentation, and a rejection of rationalism. The art is raw and childlike, drawing inspiration from folk art, children's drawings, and mythology, with bright, violent colors and distorted figures.
+aiPrompts:
+  basePrompt: COBRA art movement, spontaneous abstract, childlike figures, primitive art, bright violent colors, Karel Appel style, Asger Jorn style
+  negativePrompt: realism, geometric abstraction, refined, calm, muted colors, academic
+  styleKeywords:
+  - COBRA
+  - spontaneous
+  - primitive
+  - childlike
+  - expressive
+visualElements:
+  colorPalette:
+    primary:
+    - bright, pure red, yellow, and blue
+    - strong green and orange
+    - thick black
+    secondary:
+    - clashing, dissonant colors
+    background: chaotic, expressive field of color
+    usageNotes: Colors are applied thickly and directly, often in a violent or joyful clash.
+    saturation: very high
+    contrast: very high
+  lineArt:
+    style: thick, crude, childlike outlines, often in black
+    weight: heavy, bold, spontaneous
+    color: black or other strong colors
+    texture: rough, energetic, uncontrolled
+    edgeTreatment: raw, unrefined
+  lighting:
+    type: none (non-representational)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none
+      color: n/a
+      opacity: n/a
+    highlights: created by bright patches of color
+  rendering:
+    technique: heavy impasto, direct and aggressive paint application
+    texture: very thick, textured paint surface, sometimes mixed with other materials
+    detailLevel: low, focusing on raw form and energy
+    finish: raw, heavily textured
+  perspective: none, or a flattened, childlike perspective
+  mood:
+    overall: raw, energetic, rebellious
+    emotion: primal joy, rage, freedom, spontaneity
+    tempo: fast, chaotic, violent
+    keywords:
+    - raw
+    - primal
+    - spontaneous
+    - childlike
+    - violent
+  stylePrecedents:
+  - Karel Appel
+  - Asger Jorn
+  - Pierre Alechinsky

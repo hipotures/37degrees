@@ -1,0 +1,59 @@
+styleName: 3D Animation Style
+description: Three-dimensional computer animation for films, games, and visualization, including photorealistic, stylized, and motion-capture techniques
+aiPrompts:
+  basePrompt: 3D animation, computer animation, 3D characters, digital animation, photorealistic animation, stylized 3D
+  negativePrompt: 2D animation, flat imagery, traditional animation, hand-drawn, static models
+  styleKeywords:
+  - 3D animation
+  - computer animation
+  - digital characters
+  - 3D rendering
+  - motion capture
+visualElements:
+  colorPalette:
+    primary:
+    - realistic material colors
+    - 3D lighting colors
+    - environment colors
+    secondary:
+    - character colors
+    - lighting accent colors
+    - atmospheric colors
+    background: 3D rendered environments
+    usageNotes: Colors determined by 3D lighting and materials
+    saturation: varies by style (photorealistic to stylized)
+    contrast: realistic lighting contrasts
+  lineArt:
+    style: 3D model edges and silhouettes
+    weight: defined by 3D geometry and lighting
+    color: determined by material properties
+    texture: 3D surface properties
+    edgeTreatment: smooth 3D surfaces or stylized edges
+  lighting:
+    type: 3D computer graphics lighting
+    direction: realistic 3D light sources
+    intensity: physically accurate or stylized
+    shadows:
+      style: realistic 3D cast shadows
+      color: realistic shadow colors
+      opacity: physically accurate
+    highlights: 3D specular highlights
+  rendering:
+    technique: 3D computer graphics rendering
+    texture: 3D surface textures and materials
+    detailLevel: high (detailed 3D models and environments)
+    finish: varies by material (metal, plastic, organic)
+  perspective: accurate 3D camera perspective
+  mood:
+    overall: dimensional, cinematic, immersive
+    emotion: varies by animation style and story
+    tempo: smooth, computer-controlled movement
+    keywords:
+    - dimensional
+    - cinematic
+    - immersive
+    - smooth
+    - realistic
+  stylePrecedents:
+  - Pixar 3D animation films
+  - modern video game cinematics

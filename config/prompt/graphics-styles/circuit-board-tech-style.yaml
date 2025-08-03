@@ -1,0 +1,57 @@
+styleName: Circuit Board Tech Style
+description: Graphic style resembling a circuit board with intricate pathways, electronic components, and a high-tech green-and-gold visual theme
+aiPrompts:
+  basePrompt: circuit board illustration, PCB aesthetic, gold traces, microchips, electronic pattern
+  negativePrompt: organic shapes, soft gradients, hand-drawn, chaos
+  styleKeywords:
+  - circuit board
+  - PCB
+  - electronic
+  - pattern
+  - technical
+visualElements:
+  colorPalette:
+    primary:
+    - circuit board green
+    - golden copper
+    secondary:
+    - black background
+    - white labeling
+    background: deep green or black board
+    usageNotes: Metallic gold traces on green substrate; minimal accent colors
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: precise straight and arcing traces
+    weight: thin, uniform
+    color: metallic gold or copper
+    texture: flat, solid lines
+    edgeTreatment: 90° angles with rounded turns
+  lighting:
+    type: flat with slight metallic sheen
+    direction: top-down (to glint on copper)
+    intensity: low
+    shadows:
+      style: tiny shadows under raised components
+      color: dark green
+      opacity: subtle
+    highlights: glints on copper traces
+  rendering:
+    technique: vector/CAD design style
+    texture: smooth board, tiny solder dot texture
+    detailLevel: high (dense circuits and text)
+    finish: semi-gloss board, metallic highlights
+  perspective: top-down or slight isometric view
+  mood:
+    overall: technical, organized, modern
+    emotion: precision, innovation
+    tempo: static, controlled
+    keywords:
+    - technical
+    - precise
+    - futuristic
+    - organized
+    - detailed
+  stylePrecedents:
+  - PCB layouts and schematics
+  - tech UI circuit designs

@@ -1,0 +1,59 @@
+styleName: Geminism - Geode-Brutalism
+description: A style that combines the raw, monolithic, and imposing nature of Brutalist architecture with the intricate, crystalline beauty of a geode. The exterior forms are stark, heavy concrete, but broken or cutaway sections reveal vibrant, complex, and glowing crystalline structures within, suggesting a hidden inner beauty.
+aiPrompts:
+  basePrompt: geode-brutalism, crystalline interior, broken concrete architecture, raw exterior with glowing crystal core, geminism
+  negativePrompt: lightweight architecture, wood, glass buildings, uniform material, solarpunk
+  styleKeywords:
+  - brutalism
+  - geode
+  - contrast
+  - crystalline
+  - monolithic
+visualElements:
+  colorPalette:
+    primary:
+    - raw concrete gray
+    - deep shadow black
+    secondary:
+    - vibrant amethyst purple
+    - quartz pink
+    - emerald green
+    - sapphire blue (for the crystal interiors)
+    background: stark, overcast sky or a minimalist landscape
+    usageNotes: An extreme contrast between the monochrome, matte exterior and the hypersaturated, glowing interior.
+    saturation: none on the exterior, very high on the interior
+    contrast: extreme
+  lineArt:
+    style: heavy, blocky lines for the concrete forms; sharp, geometric, crystalline lines for the interior
+    weight: thick and imposing for exterior, fine and sharp for interior
+    color: defined by material edges
+    texture: rough, board-formed concrete vs. sharp, smooth crystal facets
+    edgeTreatment: rough, heavy edges on the concrete; sharp, perfect angles on the crystals
+  lighting:
+    type: harsh, overcast exterior light and a powerful, internal glow from the crystals
+    direction: ambient, shadow-heavy light on the outside; radiant light from within
+    intensity: low on the exterior, high and glowing on the interior
+    shadows:
+      style: deep, heavy shadows cast by the brutalist forms
+      color: dark gray/black
+      opacity: heavy
+    highlights: the entire crystalline interior acts as a massive, complex highlight
+  rendering:
+    technique: photorealistic 3D rendering
+    texture: raw, imperfect concrete with visible grain and water stains; perfect, multifaceted crystal with internal refractions
+    detailLevel: high on both the concrete texture and the complex crystal geometry
+    finish: matte, rough concrete vs. glossy, transparent, glowing crystal
+  perspective: monumental, low-angle shots to emphasize the scale and weight of the structures
+  mood:
+    overall: imposing, mysterious, surprising
+    emotion: a sense of hidden wonder, the contrast between rough exterior and beautiful interior, potential
+    tempo: static, monumental, silent
+    keywords:
+    - contrast
+    - monumental
+    - hidden beauty
+    - raw
+    - crystalline
+  stylePrecedents:
+  - Brutalist Architecture (Le Corbusier, Paul Rudolph)
+  - Macro photography of geodes and crystals

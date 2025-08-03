@@ -1,0 +1,62 @@
+styleName: Vienna Secession
+description: An art movement at the turn of the 20th century in Austria, part of Art Nouveau, but with a unique focus on geometric forms, elegant linearity, flat decorative patterns, and the integration of art, design, and architecture.
+aiPrompts:
+  basePrompt: Vienna Secession art, Gustav Klimt style, elegant, geometric patterns, decorative, gold leaf, fin-de-siècle Vienna
+  negativePrompt: realism, chaotic, grunge, brutalist, loose brushwork
+  styleKeywords:
+  - Vienna Secession
+  - Klimt
+  - decorative
+  - geometric
+  - elegant
+  - symbolist
+visualElements:
+  colorPalette:
+    primary:
+    - gold leaf
+    - deep black
+    - ivory white
+    - jewel tones (emerald, sapphire, ruby)
+    secondary:
+    - muted greens
+    - ochre
+    - lilac
+    background: flat, patterned, or textured gold/neutral background
+    usageNotes: Luxurious and symbolic palette. Gold is used extensively not just as a color but as a material.
+    saturation: mixed - high for jewel tones and gold, muted for others
+    contrast: high, created by bold patterns and lines against flat surfaces
+  lineArt:
+    style: elegant, fine, and controlled lines, often forming geometric or swirling patterns
+    weight: thin and precise
+    color: black or gold
+    texture: smooth, flowing, calligraphic
+    edgeTreatment: sharp and clean, highly stylized
+  lighting:
+    type: flat and decorative, not naturalistic
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none, or used as a flat decorative element
+      color: n/a
+      opacity: n/a
+    highlights: extensive use of gold leaf for literal and symbolic highlights
+  rendering:
+    technique: painting with mixed media (oil, gold leaf), graphic illustration
+    texture: mosaic-like patterns, smooth skin tones, rich fabric textures
+    detailLevel: extremely high in decorative patterns, simplified in figures
+    finish: combination of matte paint and reflective gold
+  perspective: flattened, decorative, prioritizing composition over realism
+  mood:
+    overall: elegant, opulent, symbolic
+    emotion: sensuality, mystery, contemplation, luxury
+    tempo: static, contemplative, rhythmic
+    keywords:
+    - opulent
+    - elegant
+    - symbolic
+    - decorative
+    - geometric
+  stylePrecedents:
+  - Gustav Klimt
+  - Koloman Moser
+  - Josef Hoffmann

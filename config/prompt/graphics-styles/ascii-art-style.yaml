@@ -1,0 +1,58 @@
+styleName: ASCII Art Style
+description: A graphic technique that creates images using characters from the ASCII code table. It is one of the earliest forms of computer art, characterized by a grid-like, textual aesthetic.
+aiPrompts:
+  basePrompt: ASCII art, text-based image, character art, computer terminal graphics, typographic illustration
+  negativePrompt: raster image, vector graphics, color photography, smooth lines, painting
+  styleKeywords:
+  - ASCII art
+  - text art
+  - terminal
+  - retro computing
+  - typographic
+visualElements:
+  colorPalette:
+    primary:
+    - green text on black background
+    - white text on black background
+    - black text on white background
+    secondary:
+    - amber text on black background
+    background: solid terminal background color (black, dark blue)
+    usageNotes: Palette is extremely limited to text and background color.
+    saturation: n/a or high (for terminal colors)
+    contrast: maximum
+  lineArt:
+    style: no lines, forms built from density and type of text characters
+    weight: depends on visual "weight" of used characters (e.g., '.' vs '#')
+    color: single color (monochromatic)
+    texture: grid-like, textual
+    edgeTreatment: jagged, pixelated edges from character grid
+  lighting:
+    type: none, illusion of shading created by character density
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: areas densely filled with "heavy" characters (e.g., @, #, M)
+      color: text color
+      opacity: dependent on character density
+    highlights: areas with sparse, "light" characters (e.g., ., :, ') or spaces
+  rendering:
+    technique: rendering in text editor or terminal
+    texture: uniform character grid
+    detailLevel: very low, forms are heavily simplified
+    finish: raw, digital, textual
+  perspective: flat, two-dimensional
+  mood:
+    overall: retro, nostalgic, technical
+    emotion: nostalgia for early computer era, creativity within constraints
+    tempo: static
+    keywords:
+    - retro
+    - digital
+    - textual
+    - lo-fi
+    - nostalgic
+  stylePrecedents:
+  - early computer games (roguelike)
+  - computer demoscene
+  - "TheDraw" (ANSI/ASCII editor)

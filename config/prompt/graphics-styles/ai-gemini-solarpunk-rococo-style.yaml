@@ -1,0 +1,62 @@
+styleName: Geminism - Solarpunk Rococo
+description: This style merges the optimistic, sustainable, nature-integrated technology of Solarpunk with the light, elegant, and ornate aesthetic of the Rococo period. It imagines a future of advanced green technology designed with playful asymmetry, pastel colors, and lavish, flowing ornamentation.
+aiPrompts:
+  basePrompt: solarpunk rococo, ornate green technology, pastel futurism, sustainable elegance, flowing architecture with solar panels, geminism
+  negativePrompt: brutalism, cyberpunk, dark, industrial, minimalist, symmetrical
+  styleKeywords:
+  - solarpunk
+  - rococo
+  - elegant
+  - sustainable
+  - ornate
+  - pastel
+visualElements:
+  colorPalette:
+    primary:
+    - powder blue
+    - mint green
+    - soft pink
+    - cream white
+    secondary:
+    - polished copper or gold accents
+    - living foliage green
+    - soft lavender
+    background: bright, airy sky or lush, decorative interiors
+    usageNotes: A light, airy pastel palette applied to high-tech, organic structures.
+    saturation: low to medium, soft and pleasant
+    contrast: low, harmonious
+  lineArt:
+    style: elegant, S-curved, and C-curved lines integrated into technological and architectural forms
+    weight: light and graceful
+    color: often defined by material edges rather than ink
+    texture: smooth, polished surfaces mixed with natural plant textures
+    edgeTreatment: soft, flowing, asymmetrical curves
+  lighting:
+    type: soft, diffused, abundant natural light
+    direction: gentle, flattering, as if through a hazy sky or large bay windows
+    intensity: bright but never harsh
+    shadows:
+      style: soft, delicate, and minimal
+      color: light pastel grays or blues
+      opacity: very light
+    highlights: gentle, pearlescent sheens on curved surfaces
+  rendering:
+    technique: clean 3D rendering or highly polished digital painting
+    texture: smooth recycled composites, living walls, polished copper, translucent photovoltaic panels
+    detailLevel: high in ornamental details (filigree on machines, leaf patterns)
+    finish: a mix of satin, gloss, and natural finishes
+  perspective: intimate and human-scale, focusing on leisurely scenes within the utopian setting
+  mood:
+    overall: optimistic, elegant, leisurely
+    emotion: grace, comfort, effortless harmony
+    tempo: calm, graceful, flowing
+    keywords:
+    - optimistic
+    - graceful
+    - harmonious
+    - technological
+    - leisurely
+  stylePrecedents:
+  - Rococo art (Fragonard, Boucher)
+  - Solarpunk aesthetic
+  - Art Nouveau architecture (Horta, Guimard)

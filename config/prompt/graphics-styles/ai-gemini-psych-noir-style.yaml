@@ -1,0 +1,58 @@
+styleName: Geminism - Psych-Noir
+description: A style that blends the high-contrast, black-and-white, shadow-heavy world of Film Noir with the distorted, swirling, and vibrantly colored aesthetic of Psychedelic Art. It's a detective story where the urban landscape and the characters' perceptions are literally melting and warping under psychological pressure.
+aiPrompts:
+  basePrompt: psych-noir, psychedelic film noir, melting city, swirling shadows, high-contrast acid trip, detective story hallucination, geminism
+  negativePrompt: realism, stable environment, muted colors, cheerful, simple illustration
+  styleKeywords:
+  - noir
+  - psychedelic
+  - distorted
+  - high-contrast
+  - surreal
+  - urban
+visualElements:
+  colorPalette:
+    primary:
+    - deep, absolute black
+    - stark, brilliant white
+    secondary:
+    - shocking, vibrant intrusions of color (fluorescent pink, acid green, electric blue) that seem to bleed into the monochrome world
+    background: a dark, rain-slicked city that is warping and swirling
+    usageNotes: A fundamentally black-and-white world is "infected" by patches of intense, psychedelic color.
+    saturation: extreme contrast between none and maximum
+    contrast: extreme
+  lineArt:
+    style: sharp, angular noir-style lines that begin to warp, melt, and swirl into organic, psychedelic patterns
+    weight: varies from sharp and thin to thick and flowing
+    color: black, but can bleed into color
+    texture: a mix of gritty urban textures and smooth, liquid-like distortions
+    edgeTreatment: sharp edges that melt and drip
+  lighting:
+    type: classic noir lighting (venetian blinds, harsh spotlights) but the light itself is colored and seems to move and breathe
+    direction: dramatic, low-key, but the light source is unstable
+    intensity: extreme contrast, but flickering and warping
+    shadows:
+      style: deep, long noir shadows that swirl and form impossible, moving patterns
+      color: black, but with colored edges
+      opacity: solid, but mobile
+    highlights: harsh, blown-out highlights that have a vibrant, psychedelic halo
+  rendering:
+    technique: digital painting or collage that combines high-contrast ink work with fluid, marbled color effects
+    texture: gritty concrete, wet asphalt, but with a liquid, oily sheen of color overlaying it
+    detailLevel: high in the noir elements, but distorted by the psychedelic effects
+    finish: a mix of gritty matte and swirling, glossy color
+  perspective: classic noir Dutch angles and dramatic compositions, but the perspective itself is warped and unstable
+  mood:
+    overall: paranoid, surreal, intense
+    emotion: anxiety, confusion, dread, altered states of consciousness
+    tempo: tense and disorienting
+    keywords:
+    - paranoid
+    - surreal
+    - intense
+    - urban
+    - distorted
+  stylePrecedents:
+  - Film Noir cinematography
+  - Psychedelic art of the 1960s
+  - The film "Fear and Loathing in Las Vegas"

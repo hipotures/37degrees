@@ -1,0 +1,59 @@
+styleName: Vector Art Style
+description: Mathematical vector graphics style with clean shapes that can be scaled infinitely without quality loss, popular in flat design and geometric illustrations
+aiPrompts:
+  basePrompt: vector art, flat design, clean geometric shapes, scalable graphics, line art
+  negativePrompt: pixelated, textured brushes, photographic, bitmap, raster effects
+  styleKeywords:
+  - vector art
+  - flat design
+  - geometric
+  - clean lines
+  - scalable
+visualElements:
+  colorPalette:
+    primary:
+    - bright red
+    - electric blue
+    - sunny yellow
+    secondary:
+    - deep purple
+    - forest green
+    - orange
+    background: solid colors or simple gradients
+    usageNotes: Bold, saturated colors with clean color blocks
+    saturation: high
+    contrast: high (clean separation)
+  lineArt:
+    style: precise, mathematical curves and straight lines
+    weight: uniform, consistent thickness
+    color: solid colors (no gradients in lines)
+    texture: completely smooth, no texture
+    edgeTreatment: sharp, crisp edges
+  lighting:
+    type: flat lighting with minimal shadows
+    direction: even, ambient lighting
+    intensity: consistent across elements
+    shadows:
+      style: simple drop shadows or flat geometric shadows
+      color: darker version of base color
+      opacity: solid or semi-transparent
+    highlights: solid color highlights, no gradients
+  rendering:
+    technique: mathematical bezier curves and geometric shapes
+    texture: completely smooth, no texture
+    detailLevel: clean, simplified (iconic representation)
+    finish: flat, matte appearance
+  perspective: isometric or simple perspective
+  mood:
+    overall: clean, modern, professional
+    emotion: clarity, precision, minimalism
+    tempo: static, organized
+    keywords:
+    - clean
+    - modern
+    - geometric
+    - precise
+    - professional
+  stylePrecedents:
+  - Adobe Illustrator artwork
+  - flat design icons and logos

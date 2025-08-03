@@ -1,0 +1,60 @@
+styleName: Ukiyo-e Woodblock Style
+description: Traditional Japanese woodblock print style with flat areas of color, elegant linework, and stylized compositions
+aiPrompts:
+  basePrompt: ukiyo-e print, traditional Japanese woodblock, flat colors, elegant lines, Edo period
+  negativePrompt: 3D shading, photorealism, deep perspective, modern anime
+  styleKeywords:
+  - ukiyo-e
+  - woodblock
+  - flat color
+  - Japanese
+  - Edo
+visualElements:
+  colorPalette:
+    primary:
+    - indigo blue
+    - cherry blossom pink
+    - teal green
+    - cream
+    secondary:
+    - soft red
+    - golden yellow
+    - charcoal black
+    background: off-white washi paper
+    usageNotes: Muted natural pigments with occasional vibrant accents; ample negative space
+    saturation: medium
+    contrast: moderate
+  lineArt:
+    style: calligraphic brush outlines
+    weight: varied, tapering
+    color: black sumi ink
+    texture: slightly uneven due to printing
+    edgeTreatment: clean, organic strokes
+  lighting:
+    type: flat (stylized lighting via color blocks)
+    direction: none
+    intensity: n/a
+    shadows:
+      style: flat shaded shapes or none
+      color: darker tone of base color
+      opacity: solid
+    highlights: none or lighter flat areas
+  rendering:
+    technique: carved woodblock print on paper
+    texture: paper fiber visible, gentle ink gradients
+    detailLevel: moderate (patterns on clothing, simple backgrounds)
+    finish: matte, printed
+  perspective: flattened, composite view
+  mood:
+    overall: serene, narrative, cultural
+    emotion: contemplative, harmonious
+    tempo: calm, balanced
+    keywords:
+    - traditional
+    - serene
+    - narrative
+    - flat
+    - graphic
+  stylePrecedents:
+  - Hokusai
+  - Hiroshige

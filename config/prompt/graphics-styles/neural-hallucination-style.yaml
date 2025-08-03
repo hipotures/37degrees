@@ -1,0 +1,58 @@
+styleName: Neural Hallucination Style
+description: Psychedelic visual style marked by AI neural network artifacts with swirling patterns, multi-eyed forms, and fractal details reminiscent of DeepDream
+aiPrompts:
+  basePrompt: DeepDream neural art, hallucinating patterns, fractal eyes, psychedelic swirls, neural textures
+  negativePrompt: ordinary scenery, plain, minimal detail, realism
+  styleKeywords:
+  - neural
+  - DeepDream
+  - psychedelic
+  - hallucination
+  - fractal
+visualElements:
+  colorPalette:
+    primary:
+    - neon green
+    - electric blue
+    - hot pink
+    secondary:
+    - vibrant orange
+    - deep purple
+    background: kaleidoscopic mix of colors
+    usageNotes: Extremely high saturation and contrast to highlight neural patterns
+    saturation: very high
+    contrast: high
+  lineArt:
+    style: none (forms made of fractal patterns)
+    weight: n/a
+    color: n/a
+    texture: complex, swirled, repetitive details
+    edgeTreatment: feathered, morphing edges
+  lighting:
+    type: glowing, even illumination
+    direction: omnidirectional
+    intensity: intense in vivid areas
+    shadows:
+      style: unnatural outline shadows
+      color: dark purples
+      opacity: semi-transparent
+    highlights: bright spectral highlights
+  rendering:
+    technique: neural style processing (DeepDream)
+    texture: highly detailed, layered noise
+    detailLevel: extremely high (chaotic detail)
+    finish: surreal and intricate
+  perspective: flat or recursive (inconsistent space)
+  mood:
+    overall: trippy, intense, mind-bending
+    emotion: disorientation, awe, curiosity
+    tempo: vibrant, overwhelming
+    keywords:
+    - psychedelic
+    - chaotic
+    - intense
+    - hallucinatory
+    - complex
+  stylePrecedents:
+  - Google DeepDream
+  - psychedelic visionary art

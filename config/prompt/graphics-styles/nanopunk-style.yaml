@@ -1,0 +1,59 @@
+styleName: Nanopunk Style
+description: Futuristic aesthetic focused on nanotechnology and molecular-level engineering, featuring microscopic worlds and atomic-scale machinery
+aiPrompts:
+  basePrompt: nanopunk, nanotechnology, molecular engineering, microscopic world, atomic scale, nano machines
+  negativePrompt: large scale, macro world, traditional technology, organic shapes, medieval elements
+  styleKeywords:
+  - nanopunk
+  - nanotechnology
+  - molecular
+  - microscopic
+  - atomic scale
+visualElements:
+  colorPalette:
+    primary:
+    - molecular blue
+    - atomic silver
+    - nano green
+    secondary:
+    - electron gold
+    - crystal white
+    - quantum purple
+    background: microscopic cellular or molecular environments
+    usageNotes: Clean, scientific colors representing molecular structures
+    saturation: medium to high (scientific precision with visual appeal)
+    contrast: medium (clean scientific aesthetics)
+  lineArt:
+    style: precise molecular diagrams and atomic structures
+    weight: thin, precise scientific lines
+    color: scientific diagram colors
+    texture: smooth, molecular precision
+    edgeTreatment: precise atomic bonds and molecular connections
+  lighting:
+    type: microscopic illumination, electron microscope aesthetics
+    direction: scientific lighting revealing molecular detail
+    intensity: bright scientific illumination
+    shadows:
+      style: minimal shadows, focus on molecular clarity
+      color: light grays
+      opacity: very light
+    highlights: bright atomic connections and molecular bonds
+  rendering:
+    technique: scientific visualization with futuristic enhancement
+    texture: smooth molecular surfaces, crystalline structures
+    detailLevel: extremely high (molecular detail)
+    finish: clean scientific surfaces
+  perspective: microscopic scale perspective, atomic viewpoints
+  mood:
+    overall: scientific, precise, microscopic wonder
+    emotion: fascination with molecular world
+    tempo: precise, methodical
+    keywords:
+    - scientific
+    - precise
+    - microscopic
+    - molecular
+    - futuristic
+  stylePrecedents:
+  - Scientific molecular visualizations
+  - Electron microscope imagery

@@ -1,0 +1,60 @@
+styleName: Biomechanical Style
+description: Fusion of organic and mechanical elements with fleshy biomorphic forms integrated into metallic structures, often dark, intricate, and uncanny
+aiPrompts:
+  basePrompt: biomechanical art, organic meets mechanical, flesh fused with metal, intricate detail
+  negativePrompt: clean simple machinery, purely organic forms, cartoonish
+  styleKeywords:
+  - biomechanical
+  - organic-mech
+  - intricate
+  - dark
+  - surreal
+visualElements:
+  colorPalette:
+    primary:
+    - muted gray
+    - bruised purple
+    - fleshy pink
+    - steel blue
+    secondary:
+    - oily black
+    - rust brown
+    - bone white
+    background: dark industrial or fleshy backdrop
+    usageNotes: Mostly desaturated tones with occasional sickly accent colors
+    saturation: low
+    contrast: high (bright fleshy highlights vs dark shadows)
+  lineArt:
+    style: intricate sinewy lines and tubing
+    weight: fine, interwoven
+    color: dark gray or black
+    texture: slick, vein-like curves
+    edgeTreatment: smooth curves blending into sharp mechanical edges
+  lighting:
+    type: dramatic, directional spotlight
+    direction: side or under lighting for eerie effect
+    intensity: strong highlights, deep shadows
+    shadows:
+      style: complex overlapping shadows of cables and organs
+      color: cool blue-gray or deep brown
+      opacity: heavy
+    highlights: wet specular highlights on flesh, metallic gleam on machinery
+  rendering:
+    technique: airbrush or detailed digital painting
+    texture: glossy slick flesh, cold metal surfaces
+    detailLevel: very high (small mechanical parts and organic textures)
+    finish: glossy on organic parts, metallic on machine parts
+  perspective: three-dimensional realistic perspective (often claustrophobic close-ups)
+  mood:
+    overall: eerie, sci-fi horror, complex
+    emotion: unease, fascination
+    tempo: tense, intense
+    keywords:
+    - eerie
+    - intricate
+    - dark
+    - alien
+    - mechanical
+  stylePrecedents:
+  - H.R. Giger
+  - Biomechanical tattoo art

@@ -1,0 +1,56 @@
+styleName: Geminism - Quantum Pointillism
+description: An evolution of Pointillism where the dots of color are not static but represent quantum states. The image appears to shimmer and vibrate, with dots that can be in multiple colors at once (superposition) or subtly shift their position (quantum tunneling). The overall effect is an unstable, shimmering image that never fully resolves.
+aiPrompts:
+  basePrompt: quantum pointillism, shimmering dots, superposition colors, vibrating image, probabilistic art, geminism
+  negativePrompt: solid color, clear lines, stable image, realism, traditional painting
+  styleKeywords:
+  - quantum
+  - pointillism
+  - shimmering
+  - unstable
+  - probabilistic
+visualElements:
+  colorPalette:
+    primary:
+    - a full spectrum of colors, but appearing in shimmering, uncertain points
+    secondary:
+    - iridescent and pearlescent tones
+    background: a dark void or a neutral, vibrating field
+    usageNotes: Colors are not solid, but appear as a probability cloud. Optical mixing is key, but the result is intentionally unstable.
+    saturation: high, but flickering
+    contrast: high, between the dark background and the glowing points
+  lineArt:
+    style: no lines, only fields of shimmering, uncertain points
+    weight: n/a
+    color: n/a
+    texture: a grainy, vibrating, energetic texture
+    edgeTreatment: blurred, uncertain "Heisenberg" edges that are impossible to pinpoint
+  lighting:
+    type: the points of light are the source of illumination themselves
+    direction: omnidirectional, radiant
+    intensity: flickering, vibrating
+    shadows:
+      style: areas with a lower probability of dots appearing
+      color: n/a
+      opacity: n/a
+    highlights: areas with a high density of bright, shimmering dots
+  rendering:
+    technique: generative art, particle simulation, or animated GIF/video to capture the effect
+    texture: a consistent field of vibrating digital "noise"
+    detailLevel: low in form, infinitely complex in motion/texture
+    finish: glowing, shimmering, digital
+  perspective: flattened, as the quantum effects override traditional spatial representation
+  mood:
+    overall: mesmerizing, unstable, energetic
+    emotion: a sense of uncertainty, infinite possibility, digital spirituality
+    tempo: fast, vibrating, shimmering
+    keywords:
+    - shimmering
+    - unstable
+    - probabilistic
+    - mesmerizing
+    - energetic
+  stylePrecedents:
+  - Pointillism (Georges Seurat)
+  - Quantum physics visualizations
+  - Generative art focusing on particle systems

@@ -1,0 +1,59 @@
+styleName: Photorealism Style
+description: Hyper-realistic painting technique that recreates photographs with meticulous detail, eliminating visible brush strokes
+aiPrompts:
+  basePrompt: photorealistic painting, hyper detailed, no brush strokes, photographic accuracy, precise realism
+  negativePrompt: painterly, visible brushwork, impressionistic, stylized, loose technique
+  styleKeywords:
+  - photorealistic
+  - hyper detailed
+  - precise
+  - accurate
+  - meticulous
+visualElements:
+  colorPalette:
+    primary:
+    - realistic colors
+    - natural skin tones
+    - accurate object colors
+    secondary:
+    - environmental colors
+    - reflected light colors
+    - shadow colors
+    background: photographic backgrounds
+    usageNotes: Precise color matching to photographic references
+    saturation: natural (matches photographic source)
+    contrast: matches photographic reference
+  lineArt:
+    style: no visible lines (edges created by color changes)
+    weight: defined by photographic edges
+    color: natural object boundaries
+    texture: invisible brushwork, smooth transitions
+    edgeTreatment: photographically accurate edge quality
+  lighting:
+    type: exactly matches photographic lighting
+    direction: precise replication of photo lighting
+    intensity: photographically accurate
+    shadows:
+      style: precisely rendered photographic shadows
+      color: accurate shadow colors from reference
+      opacity: matches photographic reference
+    highlights: exact replication of photographic highlights
+  rendering:
+    technique: meticulous paint application with no visible brushwork
+    texture: smooth, photographic surface quality
+    detailLevel: extremely high (every photographic detail)
+    finish: smooth, no paint texture visible
+  perspective: exact photographic perspective
+  mood:
+    overall: precise, technical, impressive
+    emotion: amazement, technical mastery
+    tempo: static, studied
+    keywords:
+    - precise
+    - technical
+    - impressive
+    - meticulous
+    - masterful
+  stylePrecedents:
+  - Chuck Close portraits
+  - Richard Estes urban scenes
