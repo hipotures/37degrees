@@ -1,53 +1,93 @@
-styleName: "" # string: Nazwa stylu (np. "Comic Book Style", "Watercolor Art")
-description: "" # string: Krótki opis charakteru stylu i jego zastosowania
+styleName: "" # string: Style name (e.g. "Comic Book Style", "Watercolor Art")
+description: "" # string: Brief description of visual character and usage
 
-aiPrompts: # object: Prompty dla generatorów AI (opcjonalne)
-  basePrompt: "" # string: Główne słowa kluczowe definiujące styl
-  negativePrompt: "" # string: Czego unikać przy generowaniu
-  styleKeywords: [] # array[string]: Lista dodatkowych słów kluczowych
+aiPrompts: # object: AI generator prompts (optional but recommended)
+  basePrompt: "" # string: Main keywords defining the style
+  negativePrompt: "" # string: What to avoid when generating
+  styleKeywords: [] # array[string]: List of additional keywords
 
-colorPalette: # object: Definicja kolorystyki
-  primary: [] # array[string]: Kolory główne (hex, rgb lub opisy)
-  secondary: [] # array[string]: Kolory dodatkowe/akcentujące
-  background: "" # string: Dominujący kolor lub typ tła
-  usageNotes: "" # string: Jak stosować kolory
-  saturation: "" # string: Poziom nasycenia (np. "high", "muted", "vibrant")
-  contrast: "" # string: Poziom kontrastu (np. "high", "soft", "medium")
+visualElements: # object: Main visual characteristics container
+  colorPalette: # object: Color scheme definition
+    primary: [] # array[string]: Main colors (hex, rgb, or descriptions)
+    secondary: [] # array[string]: Secondary/accent colors
+    background: "" # string: Dominant background color or type
+    usageNotes: "" # string: How to apply colors
+    saturation: "" # string: Saturation level (e.g. "high", "muted", "vibrant")
+    contrast: "" # string: Contrast level (e.g. "high", "soft", "medium")
 
-lineArt: # object: Charakterystyka linii i kresek
-  style: "" # string: Typ linii (np. "bold outlines", "sketchy", "clean vector")
-  weight: "" # string: Grubość linii (np. "thin", "varied", "2-4px")
-  color: "" # string: Kolor linii
-  texture: "" # string: Tekstura linii (np. "smooth", "rough", "organic")
-  edgeTreatment: "" # string: Sposób traktowania krawędzi
+  lineArt: # object: Line and stroke characteristics
+    style: "" # string: Line type (e.g. "bold outlines", "sketchy", "clean vector")
+    weight: "" # string: Line thickness (e.g. "thin", "varied", "2-4px")
+    color: "" # string: Line color
+    texture: "" # string: Line texture (e.g. "smooth", "rough", "organic")
+    edgeTreatment: "" # string: Edge handling approach
 
-lighting: # object: Oświetlenie
-  type: "" # string: Typ oświetlenia (np. "soft diffused", "dramatic", "flat")
-  direction: "" # string: Kierunek światła (np. "top-left", "ambient", "multi-directional")
-  intensity: "" # string/number: Intensywność światła
-  shadows: # object: Charakterystyka cieni
-    style: "" # string: Styl cieni (np. "soft", "hard", "cel-shaded")
-    color: "" # string: Kolor cieni
-    opacity: "" # string/number: Przezroczystość cieni
-  highlights: "" # string: Sposób renderowania świateł
+  composition: # object: Layout and arrangement (optional)
+    layout: "" # string: Overall composition approach
+    hierarchy: "" # string: Visual hierarchy system
+    gridSystem: "" # string: Grid or structural system
+    whitespace: "" # string: Use of negative space
 
-rendering: # object: Technika renderowania
-  technique: "" # string: Główna technika (np. "digital painting", "3D render", "vector")
-  texture: "" # string: Tekstura powierzchni (np. "smooth", "grainy", "paper texture")
-  detailLevel: "" # string: Poziom szczegółowości (np. "minimal", "moderate", "highly detailed")
-  finish: "" # string: Wykończenie (np. "matte", "glossy", "rough")
+  lighting: # object: Lighting characteristics
+    type: "" # string: Lighting type (e.g. "soft diffused", "dramatic", "flat")
+    direction: "" # string: Light direction (e.g. "top-left", "ambient", "multi-directional")
+    intensity: "" # string/number: Light intensity
+    shadows: # object: Shadow characteristics
+      style: "" # string: Shadow style (e.g. "soft", "hard", "cel-shaded")
+      color: "" # string: Shadow color
+      opacity: "" # string/number: Shadow transparency
+      offset: "" # string: Shadow offset/direction (optional)
+    highlights: "" # string: Highlight rendering approach
 
-perspective: "" # string: Typ perspektywy (np. "isometric", "frontal", "three-quarter view")
+  rendering: # object: Rendering technique
+    technique: "" # string: Main technique (e.g. "digital painting", "3D render", "vector")
+    texture: "" # string: Surface texture (e.g. "smooth", "grainy", "paper texture")
+    detailLevel: "" # string: Detail level (e.g. "minimal", "moderate", "highly detailed")
+    finish: "" # string: Surface finish (e.g. "matte", "glossy", "rough")
+    printEffects: "" # string: Print-specific effects (optional)
 
-mood: # object: Nastrój i atmosfera
-  overall: "" # string: Ogólny nastrój (np. "playful", "dramatic", "serene")
-  emotion: "" # string: Dominująca emocja
-  tempo: "" # string: Tempo wizualne (np. "dynamic", "calm", "energetic")
-  keywords: [] # array[string]: Słowa kluczowe opisujące atmosferę
+  perspective: "" # string: Perspective type (e.g. "isometric", "frontal", "three-quarter view")
+  # OR
+  perspective: # object: Advanced perspective definition (optional)
+    type: "" # string: Perspective type
+    vanishingPoints: "" # string: Vanishing point treatment
+    distortion: "" # string: Acceptable distortions
+    depth: "" # string: Depth representation
 
-postProcessing: # object: Efekty post-produkcyjne (opcjonalne)
-  effects: [] # array[string]: Lista efektów (np. ["bloom", "grain", "vignette"])
-  filters: "" # string: Filtry kolorystyczne
-  adjustments: {} # object: Dodatkowe ustawienia (np. saturation, contrast)
+  typography: # object: Typography integration (optional)
+    integration: "" # string: How typography relates to design
+    style: "" # string: Typography style characteristics
+    weight: "" # string: Font weight preferences
+    layout: "" # string: Text layout approach
+    effects: "" # string: Typography effects
+    sizes: "" # string: Size relationships
 
-stylePrecedents: [] # array[string]: Style lub artyści będący inspiracją (opcjonalne)
+  mood: # object: Mood and atmosphere
+    overall: "" # string: Overall mood (e.g. "playful", "dramatic", "serene")
+    emotion: "" # string: Dominant emotion
+    tempo: "" # string: Visual tempo (e.g. "dynamic", "calm", "energetic")
+    energy: "" # string: Energy level (optional)
+    keywords: [] # array[string]: Atmospheric keywords
+
+  symbolism: # object: Symbolic elements (optional)
+    common: [] # array[string]: Common symbols used
+    figures: [] # array[string]: Typical figure types
+    abstract: [] # array[string]: Abstract symbolic elements
+    architectural: [] # array[string]: Architectural elements
+
+postProcessing: # object: Post-production effects (optional)
+  effects: [] # array[string]: Effect list (e.g. ["bloom", "grain", "vignette"])
+  filters: "" # string: Color filters
+  adjustments: {} # object: Additional settings (e.g. saturation, contrast)
+
+stylePrecedents: [] # array[string]: Inspirational styles or artists (optional)
+
+useCases: [] # array[string]: Best use cases for this style (optional)
+
+technicalSpecifications: # object: Technical requirements (REQUIRED)
+  resolution: # object: Resolution specifications
+    aspectRatio: "" # string: Aspect ratio (e.g. "16:9", "1:1", "9:16")
+    minWidth: 0 # number: Minimum width in pixels
+    minHeight: 0 # number: Minimum height in pixels
+    unit: "pixels" # string: Unit of measurement
+  orientation: "" # string: Preferred orientation (e.g. "Landscape", "Portrait", "Square")
