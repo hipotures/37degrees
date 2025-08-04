@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: Early 20th century English countryside, winter evening meeting
+    location: Large wooden barn on English farm, traditional British farm construction serving as debate hall
+    weather: Cold winter evening, animals seeking warmth in barn
+  characters:
+  - appearance: White boar, more vivacious than Napoleon, quick-moving, intelligent eyes, energetic demeanor, approximately
+      3-4 years old
+    clothing: Natural animal appearance, no clothing
+    position: Standing at front of barn, presenting plans enthusiastically
+    action: Explaining windmill construction plans with passionate gestures and technical details
+  - appearance: Large, fierce-looking Berkshire boar, black coat with white markings, intimidating presence, heavy build,
+      approximately 4 years old
+    clothing: Natural animal appearance, no clothing
+    position: Positioned opposite Snowball, radiating opposition
+    action: Dismissing windmill plans with contemptuous expression, undermining Snowball's proposal
+  scene:
+    mainElements: Wooden beams, hay storage, meeting space with animals divided into opposing factions supporting different
+      leaders
+    details: Critical ideological debate splitting Animal Farm community. Snowball presenting visionary windmill plans for
+      electrical power and improved conditions. Napoleon opposing with skeptical contempt, arguing for military defense instead.
+      Animals clearly divided - some inspired by Snowball's progressive vision, others swayed by Napoleon's practical concerns.
+      Tension building toward inevitable confrontation, no text or letters visible
+    background: Winter barn interior with animals seeking warmth while engaging in heated political debate
+    atmosphere: Political tension, ideological division, growing conflict between rival leaders
+  composition:
+    cameraAngle: Wide shot showing divided barn and competing leaders
+    focus: Snowball and Napoleon in opposing positions with animals choosing sides
+    depth: Foreground shows rival leaders, middle ground features divided animal audience, background reveals barn tension
+visualElements:
+  colorPalette:
+    primary:
+    - banner red
+    - sunny yellow
+    - sky blue
+    - white
+    secondary:
+    - earth colors (browns, greens)
+    - skin tones
+    - machinery grays
+    background: factories, fields, construction sites, bright sky
+    usageNotes: Palette is bright, optimistic and full of sunshine. Red is key symbolic color.
+    saturation: high, vivid
+    contrast: medium to high, but without dark, dramatic shadows
+  lineArt:
+    style: strong, academic drawing, clear contours
+    weight: confident, decisive
+    color: integrated with form
+    texture: smooth, clean
+    edgeTreatment: clear, sculptural edges
+  lighting:
+    type: bright, sunny, optimistic light
+    direction: usually from above, illuminating scene evenly
+    intensity: high, almost shadowless
+    shadows:
+      style: minimized, soft
+      color: natural, never black
+      opacity: light
+    highlights: bright, emphasizing health and strength of figures
+  rendering:
+    technique: academic oil painting, smooth, without visible brushstrokes
+    texture: realistic but idealized textures (e.g., clean work clothes)
+    detailLevel: high, with attention to machinery and portrait details
+    finish: smooth, polished
+  perspective: classical, monumental, often from low viewpoint to elevate figures
+  mood:
+    overall: heroic, optimistic, propagandistic
+    emotion: pride, work enthusiasm, faith in future, strength
+    tempo: dynamic, march-like
+    keywords:
+    - propagandistic
+    - heroic
+    - optimistic
+    - monumental
+    - ideological
+  stylePrecedents:
+  - Aleksandr Deyneka
+  - Isaak Brodsky
+  - Vera Mukhina (sculpture)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

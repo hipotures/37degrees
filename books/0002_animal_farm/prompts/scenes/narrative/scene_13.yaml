@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Windmill Destroyed"
+  setting:
+    time: "Early 20th century English countryside, morning after winter storm"
+    location: "Elevated ground on English farm where windmill construction occurred, now scene of destruction"
+    weather: "Clear morning after devastating storm, debris scattered"
+  characters:
+    - appearance: "Large, fierce-looking Berkshire boar, black coat with white markings, intimidating presence, heavy build, approximately 4 years old"
+      clothing: "Natural animal appearance, no clothing"
+      position: "Standing before destroyed windmill remains"
+      action: "Surveying destruction with calculating expression, already planning blame strategy"
+    - appearance: "Enormous cart-horse, nearly eighteen hands high, white stripe down nose, tremendous muscular power, brown coat, loyal expression"
+      clothing: "Natural animal appearance, no clothing"
+      position: "Staring in shock at destroyed construction"
+      action: "Showing devastation at loss of months of backbreaking labor"
+  scene:
+    mainElements: "Destroyed stone construction, mechanical equipment damaged, months of labor reduced to rubble"
+    details: "Catastrophic destruction of windmill after winter storm, representing failure of Napoleon's grand project. Massive stones scattered, construction equipment damaged, evidence of wasted labor everywhere. Boxer heartbroken at loss of his tremendous effort. Napoleon immediately calculating how to blame external enemies rather than accepting responsibility for poor planning, no text or letters visible"
+    background: "Construction site transformed into scene of destruction, elevated ground showing devastation"
+    atmosphere: "Devastation, wasted effort, preparation for scapegoating and blame"
+  composition:
+    cameraAngle: "Wide shot showing scale of destruction"
+    focus: "Napoleon and Boxer reacting differently to catastrophic failure"
+    depth: "Foreground shows destroyed construction, middle ground features shocked animals, background reveals scattered debris"

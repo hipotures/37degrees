@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: Early 20th century English countryside, morning following successful rebellion
+    location: Large wooden barn on English farm, traditional British farm construction serving as meeting hall
+    weather: Bright morning sunlight streaming through barn openings
+  characters:
+  - appearance: Large, fierce-looking Berkshire boar, black coat with white markings, intimidating presence, heavy build,
+      approximately 4 years old
+    clothing: Natural animal appearance, no clothing
+    position: Standing prominently at front of barn near platform
+    action: Observing proceedings with calculating expression, positioning himself as leader
+  - appearance: White boar, more vivacious than Napoleon, quick-moving, intelligent eyes, energetic demeanor, approximately
+      3-4 years old
+    clothing: Natural animal appearance, no clothing
+    position: Actively addressing other animals, animated and enthusiastic
+    action: Organizing animals into committees, making plans for farm improvement
+  - appearance: Small, fat pig with very round cheeks, twinkling eyes, nimble movements, smooth appearance
+    clothing: Natural animal appearance, no clothing
+    position: Between Napoleon and Snowball, mediating position
+    action: Explaining revolutionary principles to confused animals with persuasive gestures
+  scene:
+    mainElements: Wooden beams, hay storage, meeting space with animals organized in attentive groups, revolutionary planning
+      session
+    details: Post-rebellion organization meeting with pigs naturally assuming leadership roles. Animals arranged in species
+      groups - horses together, sheep clustered, cows standing patiently. Snowball energetically outlining plans while Napoleon
+      watches silently. Squealer translating complex ideas for simpler animals. Atmosphere of hope and democratic participation,
+      no text or letters visible
+    background: Barn interior with morning light revealing organized meeting space, agricultural tools now belonging to animals
+    atmosphere: Democratic optimism, collaborative energy, sense of new beginning and shared purpose
+  composition:
+    cameraAngle: Medium shot focusing on pig leadership trio
+    focus: Three pigs establishing themselves as natural leaders among hopeful animals
+    depth: Foreground shows pig leaders, middle ground features attentive animal audience, background reveals barn structure
+visualElements:
+  colorPalette:
+    primary:
+    - banner red
+    - sunny yellow
+    - sky blue
+    - white
+    secondary:
+    - earth colors (browns, greens)
+    - skin tones
+    - machinery grays
+    background: factories, fields, construction sites, bright sky
+    usageNotes: Palette is bright, optimistic and full of sunshine. Red is key symbolic color.
+    saturation: high, vivid
+    contrast: medium to high, but without dark, dramatic shadows
+  lineArt:
+    style: strong, academic drawing, clear contours
+    weight: confident, decisive
+    color: integrated with form
+    texture: smooth, clean
+    edgeTreatment: clear, sculptural edges
+  lighting:
+    type: bright, sunny, optimistic light
+    direction: usually from above, illuminating scene evenly
+    intensity: high, almost shadowless
+    shadows:
+      style: minimized, soft
+      color: natural, never black
+      opacity: light
+    highlights: bright, emphasizing health and strength of figures
+  rendering:
+    technique: academic oil painting, smooth, without visible brushstrokes
+    texture: realistic but idealized textures (e.g., clean work clothes)
+    detailLevel: high, with attention to machinery and portrait details
+    finish: smooth, polished
+  perspective: classical, monumental, often from low viewpoint to elevate figures
+  mood:
+    overall: heroic, optimistic, propagandistic
+    emotion: pride, work enthusiasm, faith in future, strength
+    tempo: dynamic, march-like
+    keywords:
+    - propagandistic
+    - heroic
+    - optimistic
+    - monumental
+    - ideological
+  stylePrecedents:
+  - Aleksandr Deyneka
+  - Isaak Brodsky
+  - Vera Mukhina (sculpture)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

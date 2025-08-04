@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Napoleon's Dogs Revealed"
+  setting:
+    time: "Early 20th century English countryside, dramatic winter morning"
+    location: "Large wooden barn on English farm, traditional British farm construction now scene of power coup"
+    weather: "Cold winter morning with ominous atmosphere"
+  characters:
+    - appearance: "Nine enormous dogs, fierce expressions, trained attack animals, various breeds but all intimidating, muscular builds"
+      clothing: "Natural animal appearance, no clothing"
+      position: "Surrounding Snowball in threatening formation"
+      action: "Baring teeth, growling menacingly, prepared to attack on Napoleon's command"
+    - appearance: "White boar, more vivacious than Napoleon, quick-moving, intelligent eyes, energetic demeanor, approximately 3-4 years old"
+      clothing: "Natural animal appearance, no clothing"
+      position: "Surrounded by dogs, showing fear and shock"
+      action: "Fleeing in terror as dogs chase him from farm premises"
+    - appearance: "Large, fierce-looking Berkshire boar, black coat with white markings, intimidating presence, heavy build, approximately 4 years old"
+      clothing: "Natural animal appearance, no clothing"
+      position: "Standing prominently with dogs under his control"
+      action: "Commanding the dogs with quiet authority, orchestrating Snowball's exile"
+  scene:
+    mainElements: "Wooden beams, hay storage, meeting space transformed into scene of violent political coup"
+    details: "Shocking revelation of Napoleon's secret police force. Nine fierce dogs, raised in secret, now serving as Napoleon's private army. Snowball fleeing in terror as dogs chase him from Animal Farm forever. Other animals frozen in shock at sudden violence and betrayal. Democratic debate replaced by force and intimidation. Revolutionary ideals crushed by authoritarian power grab, no text or letters visible"
+    background: "Barn interior witness to destruction of democratic process"
+    atmosphere: "Terror, shock, authoritarian takeover, end of democratic idealism"
+  composition:
+    cameraAngle: "Dynamic action shot capturing violent coup"
+    focus: "Dogs chasing Snowball while Napoleon assumes absolute control"
+    depth: "Foreground shows fleeing Snowball, middle ground features attacking dogs, background reveals Napoleon's triumph"

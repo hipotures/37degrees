@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Single Commandment"
+  setting:
+    time: "Early 20th century English countryside, evening of final constitutional betrayal"
+    location: "Large wooden barn with commandments wall, site where revolutionary principles are finally destroyed"
+    weather: "Twilight atmosphere matching death of revolution"
+  characters:
+    - appearance: "White goat, literate animal, intelligent expression, middle-aged, neat appearance"
+      clothing: "Natural animal appearance, no clothing"
+      position: "Reading barn wall with shock and disbelief"
+      action: "Discovering that Seven Commandments replaced by single corrupted principle"
+    - appearance: "Donkey, oldest animal on farm, bad-tempered and cynical, gray coat, unchanged appearance over years, wise eyes"
+      clothing: "Natural animal appearance, no clothing"
+      position: "Standing beside Muriel with knowing expression"
+      action: "Confirming reading with cynical understanding of complete corruption"
+  scene:
+    mainElements: "Wooden beams, hay storage, commandments wall now showing single commandment replacing all revolutionary principles"
+    details: "Final constitutional betrayal as Seven Commandments replaced by single corrupt principle: 'All animals are equal, but some animals are more equal than others.' Muriel and Benjamin reading ultimate corruption of revolutionary law. All original principles of equality, solidarity, and freedom replaced by justification for pig supremacy. Complete legal framework for totalitarian rule, no text or letters visible"
+    background: "Barn interior where sacred revolutionary principles receive final corruption"
+    atmosphere: "Complete betrayal, legal justification for tyranny, death of revolutionary ideals"
+  composition:
+    cameraAngle: "Close shot focusing on constitutional betrayal"
+    focus: "Literate animals discovering final corruption of revolutionary law"
+    depth: "Foreground shows shocked goat, middle ground features knowing donkey, background reveals corrupted wall"

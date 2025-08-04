@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Pigs Walk Upright"
+  setting:
+    time: "Early 20th century English countryside, shocking afternoon of complete transformation"
+    location: "Central courtyard area of English farm, witness to final betrayal of revolutionary principles"
+    weather: "Clear afternoon revealing complete corruption"
+  characters:
+    - appearance: "Large, fierce-looking Berkshire boar, black coat with white markings, intimidating presence, heavy build, now walking on two legs like human"
+      clothing: "Natural animal appearance, no clothing"
+      position: "Walking upright across farmyard on hind legs"
+      action: "Demonstrating complete adoption of human behavior, abandoning animal nature"
+    - appearance: "Other pigs following Napoleon's example, all walking upright on hind legs"
+      clothing: "Natural animal appearance, no clothing"
+      position: "Processing across farmyard in human-like formation"
+      action: "Copying human walking posture, completing physical transformation"
+  scene:
+    mainElements: "Central meeting area witnessing complete physical transformation of ruling class into human-like beings"
+    details: "Shocking moment as pigs abandon animal nature by walking upright like humans, violating most fundamental revolutionary principle. Napoleon leading procession of upright pigs across farmyard while other animals watch in horror and disbelief. Complete physical symbol of corruption - rulers becoming identical to former oppressors. Revolutionary equality destroyed by leadership's transformation into human-like tyrants, no text or letters visible"
+    background: "Farmyard serving as stage for complete betrayal of animal revolution"
+    atmosphere: "Shock, complete betrayal, transformation of revolutionaries into oppressors"
+  composition:
+    cameraAngle: "Wide shot showing shocking transformation of pig leadership"
+    focus: "Pigs walking upright while other animals react with horror"
+    depth: "Foreground shows transformed pigs, middle ground features shocked animals, background reveals betrayed revolution"

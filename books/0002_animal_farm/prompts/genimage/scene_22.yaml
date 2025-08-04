@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: Early 20th century English countryside, evening of final constitutional betrayal
+    location: Large wooden barn with commandments wall, site where revolutionary principles are finally destroyed
+    weather: Twilight atmosphere matching death of revolution
+  characters:
+  - appearance: White goat, literate animal, intelligent expression, middle-aged, neat appearance
+    clothing: Natural animal appearance, no clothing
+    position: Reading barn wall with shock and disbelief
+    action: Discovering that Seven Commandments replaced by single corrupted principle
+  - appearance: Donkey, oldest animal on farm, bad-tempered and cynical, gray coat, unchanged appearance over years, wise
+      eyes
+    clothing: Natural animal appearance, no clothing
+    position: Standing beside Muriel with knowing expression
+    action: Confirming reading with cynical understanding of complete corruption
+  scene:
+    mainElements: Wooden beams, hay storage, commandments wall now showing single commandment replacing all revolutionary
+      principles
+    details: 'Final constitutional betrayal as Seven Commandments replaced by single corrupt principle: ''All animals are
+      equal, but some animals are more equal than others.'' Muriel and Benjamin reading ultimate corruption of revolutionary
+      law. All original principles of equality, solidarity, and freedom replaced by justification for pig supremacy. Complete
+      legal framework for totalitarian rule, no text or letters visible'
+    background: Barn interior where sacred revolutionary principles receive final corruption
+    atmosphere: Complete betrayal, legal justification for tyranny, death of revolutionary ideals
+  composition:
+    cameraAngle: Close shot focusing on constitutional betrayal
+    focus: Literate animals discovering final corruption of revolutionary law
+    depth: Foreground shows shocked goat, middle ground features knowing donkey, background reveals corrupted wall
+visualElements:
+  colorPalette:
+    primary:
+    - banner red
+    - sunny yellow
+    - sky blue
+    - white
+    secondary:
+    - earth colors (browns, greens)
+    - skin tones
+    - machinery grays
+    background: factories, fields, construction sites, bright sky
+    usageNotes: Palette is bright, optimistic and full of sunshine. Red is key symbolic color.
+    saturation: high, vivid
+    contrast: medium to high, but without dark, dramatic shadows
+  lineArt:
+    style: strong, academic drawing, clear contours
+    weight: confident, decisive
+    color: integrated with form
+    texture: smooth, clean
+    edgeTreatment: clear, sculptural edges
+  lighting:
+    type: bright, sunny, optimistic light
+    direction: usually from above, illuminating scene evenly
+    intensity: high, almost shadowless
+    shadows:
+      style: minimized, soft
+      color: natural, never black
+      opacity: light
+    highlights: bright, emphasizing health and strength of figures
+  rendering:
+    technique: academic oil painting, smooth, without visible brushstrokes
+    texture: realistic but idealized textures (e.g., clean work clothes)
+    detailLevel: high, with attention to machinery and portrait details
+    finish: smooth, polished
+  perspective: classical, monumental, often from low viewpoint to elevate figures
+  mood:
+    overall: heroic, optimistic, propagandistic
+    emotion: pride, work enthusiasm, faith in future, strength
+    tempo: dynamic, march-like
+    keywords:
+    - propagandistic
+    - heroic
+    - optimistic
+    - monumental
+    - ideological
+  stylePrecedents:
+  - Aleksandr Deyneka
+  - Isaak Brodsky
+  - Vera Mukhina (sculpture)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

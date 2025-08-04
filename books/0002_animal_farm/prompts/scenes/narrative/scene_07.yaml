@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Mollie's Defection"
+  setting:
+    time: "Early 20th century English countryside, winter morning"
+    location: "English countryside farm boundary near neighboring human property"
+    weather: "Cold winter morning with frost"
+  characters:
+    - appearance: "White mare, foolish and pretty, young adult, vain appearance, well-groomed white coat"
+      clothing: "Natural animal appearance, no clothing"
+      position: "Standing at farm boundary, looking toward neighboring human farm"
+      action: "Being petted by human from neighboring farm, accepting sugar lumps and ribbons"
+    - appearance: "Stout motherly mare approaching middle life, chestnut coat, caring expression, matronly build"
+      clothing: "Natural animal appearance, no clothing"
+      position: "Approaching from farm interior, concerned expression"
+      action: "Discovering Mollie's betrayal, showing disappointment and worry"
+  scene:
+    mainElements: "Farm boundary with fence line, neighboring human property visible, winter agricultural landscape"
+    details: "First defection from Animal Farm as Mollie chooses human luxury over animal solidarity. White mare accepting forbidden luxuries from human neighbor - sugar, ribbons, petting. Clover discovering the betrayal, representing loyal animals' shock at such disloyalty. Winter setting emphasizes harsh realities testing revolutionary commitment. Boundary fence symbolizing choice between revolution and old comforts, no text or letters visible"
+    background: "Winter farm landscape with neighboring human properties, bare trees, frost-covered fields"
+    atmosphere: "Betrayal and disappointment, first crack in revolutionary unity, temptation of luxury"
+  composition:
+    cameraAngle: "Medium shot capturing betrayal moment"
+    focus: "Mollie accepting human luxuries while loyal Clover watches in dismay"
+    depth: "Foreground shows betraying mare, middle ground features discovering loyal mare, background reveals farm boundary"

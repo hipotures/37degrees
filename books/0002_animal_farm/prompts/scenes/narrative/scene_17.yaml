@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Commandments Change"
+  setting:
+    time: "Early 20th century English countryside, night of secret alteration"
+    location: "Large wooden barn on English farm with commandments wall, site of revolutionary principles now being corrupted"
+    weather: "Dark night concealing illegal activity"
+  characters:
+    - appearance: "Small, fat pig with very round cheeks, twinkling eyes, nimble movements, smooth appearance"
+      clothing: "Natural animal appearance, no clothing"
+      position: "Standing before barn wall with painting materials"
+      action: "Secretly altering commandments under cover of darkness, changing fundamental revolutionary principles"
+    - appearance: "White goat, literate animal, intelligent expression, middle-aged, neat appearance"
+      clothing: "Natural animal appearance, no clothing"
+      position: "Approaching barn to read commandments as usual"
+      action: "Discovering changes to fundamental laws, showing confusion and concern"
+  scene:
+    mainElements: "Wooden beams, hay storage, commandments wall with evidence of recent alterations, systematic corruption of revolutionary law"
+    details: "Secret alteration of sacred commandments to justify pig privileges. Squealer changing 'No animal shall sleep in a bed' to 'No animal shall sleep in a bed with sheets' to excuse farmhouse occupation. Evidence of paint still wet, rushed illegal changes. Muriel discovering alterations and struggling to understand how fundamental principles could change, no text or letters visible"
+    background: "Barn interior where sacred revolutionary principles are being systematically corrupted"
+    atmosphere: "Corruption, illegal alteration, betrayal of founding principles"
+  composition:
+    cameraAngle: "Close shot focusing on illegal alteration activity"
+    focus: "Squealer changing commandments while Muriel discovers corruption"
+    depth: "Foreground shows altering pig, middle ground features paint evidence, background reveals confused goat"

@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Napoleon and Snowball Emerge as Leaders"
+  setting:
+    time: "Early 20th century English countryside, morning following successful rebellion"
+    location: "Large wooden barn on English farm, traditional British farm construction serving as meeting hall"
+    weather: "Bright morning sunlight streaming through barn openings"
+  characters:
+    - appearance: "Large, fierce-looking Berkshire boar, black coat with white markings, intimidating presence, heavy build, approximately 4 years old"
+      clothing: "Natural animal appearance, no clothing"
+      position: "Standing prominently at front of barn near platform"
+      action: "Observing proceedings with calculating expression, positioning himself as leader"
+    - appearance: "White boar, more vivacious than Napoleon, quick-moving, intelligent eyes, energetic demeanor, approximately 3-4 years old"
+      clothing: "Natural animal appearance, no clothing"
+      position: "Actively addressing other animals, animated and enthusiastic"
+      action: "Organizing animals into committees, making plans for farm improvement"
+    - appearance: "Small, fat pig with very round cheeks, twinkling eyes, nimble movements, smooth appearance"
+      clothing: "Natural animal appearance, no clothing"
+      position: "Between Napoleon and Snowball, mediating position"
+      action: "Explaining revolutionary principles to confused animals with persuasive gestures"
+  scene:
+    mainElements: "Wooden beams, hay storage, meeting space with animals organized in attentive groups, revolutionary planning session"
+    details: "Post-rebellion organization meeting with pigs naturally assuming leadership roles. Animals arranged in species groups - horses together, sheep clustered, cows standing patiently. Snowball energetically outlining plans while Napoleon watches silently. Squealer translating complex ideas for simpler animals. Atmosphere of hope and democratic participation, no text or letters visible"
+    background: "Barn interior with morning light revealing organized meeting space, agricultural tools now belonging to animals"
+    atmosphere: "Democratic optimism, collaborative energy, sense of new beginning and shared purpose"
+  composition:
+    cameraAngle: "Medium shot focusing on pig leadership trio"
+    focus: "Three pigs establishing themselves as natural leaders among hopeful animals"
+    depth: "Foreground shows pig leaders, middle ground features attentive animal audience, background reveals barn structure"

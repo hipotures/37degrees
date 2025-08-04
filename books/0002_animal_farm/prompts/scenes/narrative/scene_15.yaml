@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Confessions and Executions"
+  setting:
+    time: "Early 20th century English countryside, terrifying afternoon purge"
+    location: "Central courtyard area of English farm, hub now transformed into execution ground"
+    weather: "Oppressive afternoon atmosphere, heavy with fear"
+  characters:
+    - appearance: "Nine enormous dogs, fierce expressions, trained attack animals, various breeds but all intimidating, muscular builds"
+      clothing: "Natural animal appearance, no clothing"
+      position: "Surrounding confessing animals in threatening circle"
+      action: "Attacking and killing animals who confess to crimes on Napoleon's command"
+    - appearance: "Various farm animals - chickens, sheep, others - showing terror and desperation"
+      clothing: "Natural animal appearance, no clothing"
+      position: "Forced to confess in center of farmyard"
+      action: "Confessing to false crimes under torture and fear, then being executed"
+  scene:
+    mainElements: "Central meeting area transformed into scene of mass execution, blood and terror replacing democratic gathering"
+    details: "Horrific show trials as Napoleon eliminates suspected opposition through forced confessions and public executions. Animals confessing to impossible crimes - working with Snowball, sabotaging farm, plotting against Napoleon. Dogs tearing throats of confessors while other animals watch in terror. Atmosphere of paranoid dictatorship where any dissent means death, no text or letters visible"
+    background: "Farmyard transformed from democratic meeting place to execution ground under totalitarian rule"
+    atmosphere: "Terror, mass murder, totalitarian purge, complete destruction of revolutionary ideals"
+  composition:
+    cameraAngle: "Wide shot showing scope of mass execution horror"
+    focus: "Dogs executing confessing animals while others watch in terror"
+    depth: "Foreground shows execution scene, middle ground features terrified witnesses, background reveals blood-stained farmyard"

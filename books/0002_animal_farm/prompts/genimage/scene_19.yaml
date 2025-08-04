@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Early 20th century English countryside, tragic afternoon of loyal worker's breakdown
+    location: Elevated ground on English farm, construction site where loyal horse finally succumbs to overwork
+    weather: Harsh working conditions with oppressive atmosphere
+  characters:
+  - appearance: Enormous cart-horse, nearly eighteen hands high, white stripe down nose, tremendous muscular power now failing,
+      brown coat, loyal expression filled with pain
+    clothing: Natural animal appearance, no clothing
+    position: Collapsed on ground, unable to rise
+    action: Struggling to get up, still trying to work despite physical breakdown, showing ultimate loyalty
+  - appearance: Stout motherly mare approaching middle life, chestnut coat, caring expression, matronly build
+    clothing: Natural animal appearance, no clothing
+    position: Kneeling beside fallen Boxer
+    action: Providing comfort and care, trying to help injured loyal friend
+  scene:
+    mainElements: Stone construction site, mechanical equipment, scene of backbreaking labor now witness to worker's collapse
+    details: Tragic breakdown of most loyal revolutionary as Boxer collapses from overwork. Enormous horse unable to rise
+      despite tremendous effort, body finally failing after years of 'working harder' for Napoleon's projects. Clover providing
+      comfort while other animals gather in concern. Symbol of working class exploitation and betrayal by leadership who demanded
+      impossible sacrifice, no text or letters visible
+    background: Construction site where loyal worker's dedication finally destroys his health
+    atmosphere: Tragedy, exploitation revealed, consequence of ruthless leadership demands
+  composition:
+    cameraAngle: Close shot emphasizing tragedy of loyal worker's collapse
+    focus: Fallen Boxer receiving comfort from Clover while still trying to work
+    depth: Foreground shows collapsed horse, middle ground features caring mare, background reveals construction site
+visualElements:
+  colorPalette:
+    primary:
+    - banner red
+    - sunny yellow
+    - sky blue
+    - white
+    secondary:
+    - earth colors (browns, greens)
+    - skin tones
+    - machinery grays
+    background: factories, fields, construction sites, bright sky
+    usageNotes: Palette is bright, optimistic and full of sunshine. Red is key symbolic color.
+    saturation: high, vivid
+    contrast: medium to high, but without dark, dramatic shadows
+  lineArt:
+    style: strong, academic drawing, clear contours
+    weight: confident, decisive
+    color: integrated with form
+    texture: smooth, clean
+    edgeTreatment: clear, sculptural edges
+  lighting:
+    type: bright, sunny, optimistic light
+    direction: usually from above, illuminating scene evenly
+    intensity: high, almost shadowless
+    shadows:
+      style: minimized, soft
+      color: natural, never black
+      opacity: light
+    highlights: bright, emphasizing health and strength of figures
+  rendering:
+    technique: academic oil painting, smooth, without visible brushstrokes
+    texture: realistic but idealized textures (e.g., clean work clothes)
+    detailLevel: high, with attention to machinery and portrait details
+    finish: smooth, polished
+  perspective: classical, monumental, often from low viewpoint to elevate figures
+  mood:
+    overall: heroic, optimistic, propagandistic
+    emotion: pride, work enthusiasm, faith in future, strength
+    tempo: dynamic, march-like
+    keywords:
+    - propagandistic
+    - heroic
+    - optimistic
+    - monumental
+    - ideological
+  stylePrecedents:
+  - Aleksandr Deyneka
+  - Isaak Brodsky
+  - Vera Mukhina (sculpture)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: Early 20th century English countryside, dawn after Old Major's death
+    location: English countryside farm in rural Hertfordshire-style landscape, pre-WWII era, typical British agricultural
+      setting with traditional farm buildings
+    weather: Early morning mist, breaking dawn
+  characters:
+  - appearance: Man in 50s, farmer's build, weathered face from outdoor work, typical English countryside farmer appearance
+    clothing: Work clothes typical of 1920s-1940s English farmer - wool jacket, boots, cap
+    position: Stumbling around farmyard, clearly intoxicated
+    action: Neglecting animal feeding duties, drinking from bottle, careless movements
+  - appearance: Enormous cart-horse, nearly eighteen hands high, white stripe down nose, tremendous muscular power, brown
+      coat, loyal expression
+    clothing: Natural animal appearance, no clothing
+    position: Standing with other horses near barn entrance
+    action: Breaking down farm gate with powerful kicks, leading animal uprising
+  scene:
+    mainElements: Central courtyard area of English farm, hub of daily activity, surrounded by farm buildings with animals
+      emerging from all directions
+    details: Spontaneous animal rebellion erupting across farmyard. Mr. Jones stumbling drunk while animals break free from
+      enclosures. Horses kicking down gates, cows refusing to be milked, chickens flying from coops. Revolutionary energy
+      building as animals realize their collective power. Tools scattered, overturned feeding troughs, symbols of human control
+      being destroyed, no text or letters visible
+    background: Traditional farm buildings - barn, farmhouse, various outbuildings under dawn sky
+    atmosphere: Chaotic liberation, years of oppression suddenly breaking free, mixture of fear and exhilaration
+  composition:
+    cameraAngle: Dynamic medium shot capturing rebellion action
+    focus: Animals breaking free while drunk farmer loses control
+    depth: Foreground shows individual animals escaping, middle ground features collective uprising, background reveals entire
+      farm in upheaval
+visualElements:
+  colorPalette:
+    primary:
+    - banner red
+    - sunny yellow
+    - sky blue
+    - white
+    secondary:
+    - earth colors (browns, greens)
+    - skin tones
+    - machinery grays
+    background: factories, fields, construction sites, bright sky
+    usageNotes: Palette is bright, optimistic and full of sunshine. Red is key symbolic color.
+    saturation: high, vivid
+    contrast: medium to high, but without dark, dramatic shadows
+  lineArt:
+    style: strong, academic drawing, clear contours
+    weight: confident, decisive
+    color: integrated with form
+    texture: smooth, clean
+    edgeTreatment: clear, sculptural edges
+  lighting:
+    type: bright, sunny, optimistic light
+    direction: usually from above, illuminating scene evenly
+    intensity: high, almost shadowless
+    shadows:
+      style: minimized, soft
+      color: natural, never black
+      opacity: light
+    highlights: bright, emphasizing health and strength of figures
+  rendering:
+    technique: academic oil painting, smooth, without visible brushstrokes
+    texture: realistic but idealized textures (e.g., clean work clothes)
+    detailLevel: high, with attention to machinery and portrait details
+    finish: smooth, polished
+  perspective: classical, monumental, often from low viewpoint to elevate figures
+  mood:
+    overall: heroic, optimistic, propagandistic
+    emotion: pride, work enthusiasm, faith in future, strength
+    tempo: dynamic, march-like
+    keywords:
+    - propagandistic
+    - heroic
+    - optimistic
+    - monumental
+    - ideological
+  stylePrecedents:
+  - Aleksandr Deyneka
+  - Isaak Brodsky
+  - Vera Mukhina (sculpture)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

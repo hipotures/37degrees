@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Building the Windmill"
+  setting:
+    time: "Early 20th century English countryside, harsh winter work session"
+    location: "Elevated ground on English farm, construction site representing industrial advancement"
+    weather: "Bitter winter cold with snow and wind"
+  characters:
+    - appearance: "Enormous cart-horse, nearly eighteen hands high, white stripe down nose, tremendous muscular power, brown coat, loyal expression"
+      clothing: "Natural animal appearance, no clothing"
+      position: "Pulling massive stones up hill to construction site"
+      action: "Working despite exhaustion, repeating motto about working harder, showing absolute dedication"
+    - appearance: "Various working animals - horses, cows, sheep - showing exhaustion and strain"
+      clothing: "Natural animal appearance, no clothing"
+      position: "Supporting construction effort with visible fatigue"
+      action: "Laboring in harsh conditions, following Boxer's inspiring example despite hardship"
+  scene:
+    mainElements: "Stone construction site, mechanical equipment representing industrial advancement, harsh winter construction environment"
+    details: "Brutal construction work in freezing conditions as animals build Napoleon's windmill. Boxer working beyond his strength, pulling enormous stones while other animals struggle in snow and wind. Construction materials scattered across site - stones, tools, partially built structure. Animals working longer hours with reduced rations, sacrificing comfort for Napoleon's project, no text or letters visible"
+    background: "Winter construction site on elevated ground with partially completed windmill structure"
+    atmosphere: "Exhausting labor, sacrifice, determination mixed with suffering"
+  composition:
+    cameraAngle: "Wide shot showing scale of construction challenge"
+    focus: "Boxer's heroic effort inspiring other animals despite harsh conditions"
+    depth: "Foreground shows straining horse, middle ground features supporting animals, background reveals construction progress"
