@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Lasting Wonder"
+  setting:
+    time: "1860s Victorian England, early evening"
+    location: "English countryside meadow, 1860s Victorian era, rolling hills with ancient oak trees, wildflower fields"
+    weather: "Golden hour fading to gentle twilight, stars beginning to appear"
+  characters:
+    - appearance: "Young girl, approximately 7-10 years old, shoulder-length blonde hair with straight-cut bangs, curious blue eyes, fair complexion with rosy cheeks"
+      clothing: "Blue dress with white pinafore apron, white stockings, black Mary Jane shoes, hair ribbon blue"
+      position: "Walking toward home, occasionally glancing back at the special tree"
+      action: "Alert and inquisitive posture, often leaning forward with curiosity, now with serene smile and eyes that hold wisdom and wonder"
+  scene:
+    mainElements: "Pastoral landscape with stone walls, grazing sheep, distant church spire, babbling brook"
+    details: "Alice walking home with measured steps, carrying invisible but precious memories, oak tree standing as guardian of magical possibilities, countryside holding eternal promise of adventure for those who believe, first stars appearing in deepening sky"
+    background: "Rolling hills and familiar countryside now forever touched by magic and possibility"
+    atmosphere: "Peaceful, idyllic afternoon setting with warm golden sunlight filtering through oak leaves, lasting sense of wonder and endless possibility"
+  composition:
+    cameraAngle: "Wide shot showing Alice's journey continuing into the future"
+    focus: "Alice carrying wonder into her future adventures"
+    depth: "Alice moving forward in foreground, magical tree in middle ground, infinite countryside stretching toward horizon in background"

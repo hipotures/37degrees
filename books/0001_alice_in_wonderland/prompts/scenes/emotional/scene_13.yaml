@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Tea Party Chaos"
+  setting:
+    time: "Eternal afternoon in Wonderland, perpetually 6 o'clock"
+    location: "Fantastical garden in underground Wonderland, impossible architecture with curved pathways and oversized flora"
+    weather: "Bright but chaotic lighting, shadows moving independently"
+  characters:
+    - appearance: "Young girl, approximately 7-10 years old, shoulder-length blonde hair with straight-cut bangs, curious blue eyes, fair complexion with rosy cheeks"
+      clothing: "Blue dress with white pinafore apron, white stockings, black Mary Jane shoes, hair ribbon blue"
+      position: "Seated at long table, looking bewildered and frustrated"
+      action: "Alert and inquisitive posture, often leaning forward with curiosity, but now showing visible frustration with nonsensical conversation"
+    - appearance: "Eccentric man in his 30s-40s, wild curly hair, bright animated eyes, expressive face"
+      clothing: "Large top hat with '10/6' price tag, colorful mismatched jacket, bow tie, sometimes tea-stained clothing"
+      position: "Seated at head of table, gesticulating wildly"
+      action: "Animated, gesticulating, theatrical movements"
+  scene:
+    mainElements: "Giant mushrooms, enormous flowers, playing card rose bushes, whimsical topiary, marble fountains"
+    details: "Long table set for tea party with mismatched chairs and settings, teapots and cups scattered chaotically, no clean cups available, sense of maddening repetition and circular logic, beautiful garden setting contrasting with social frustration"
+    background: "Wonderland garden continuing its impossible beauty while social interaction proves maddening"
+    atmosphere: "Surreal, colorful wonderland with soft magical lighting and no logical scale or perspective, social frustration and growing irritation"
+  composition:
+    cameraAngle: "Medium wide shot of the chaotic tea party scene"
+    focus: "Alice's growing frustration with the mad logic"
+    depth: "Tea party in foreground, Mad Hatter animated in middle ground, garden chaos in background"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Stepping into the Unknown"
+  setting:
+    time: "1860s Victorian England, late afternoon"
+    location: "Deep circular tunnel descending into earth beneath large oak tree roots, mysterious underground passage"
+    weather: "Natural light fading, mysterious ethereal glow from below"
+  characters:
+    - appearance: "Young girl, approximately 7-10 years old, shoulder-length blonde hair with straight-cut bangs, curious blue eyes, fair complexion with rosy cheeks"
+      clothing: "Blue dress with white pinafore apron, white stockings, black Mary Jane shoes, hair ribbon blue"
+      position: "At the entrance of the rabbit hole, hands braced against earth"
+      action: "Alert and inquisitive posture, often leaning forward with curiosity, but now with slight apprehension mixed with excitement"
+  scene:
+    mainElements: "Earthen walls lined with tree roots, occasional shelves with curious objects, maps, books floating in mid-air"
+    details: "Strange soft light emanating from depths below, familiar world visible above growing smaller, roots creating natural archway, sense of crossing threshold from known to unknown"
+    background: "Glimpse of familiar meadow far above, becoming distant memory"
+    atmosphere: "Mysterious, dreamlike descent with soft ethereal lighting from unknown sources, mixture of excitement and apprehension"
+  composition:
+    cameraAngle: "Looking down into the hole with Alice at the entrance"
+    focus: "Alice hesitating at the boundary between worlds"
+    depth: "Alice at entrance in foreground, mysterious tunnel depths in middle ground, fading daylight in background"

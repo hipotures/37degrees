@@ -15,6 +15,59 @@ from src.simple_invokeai_generator import build_prompt_from_scene, build_negativ
 from src.style_preset_loader import load_invokeai_style_presets
 from src.cli.utils import resolve_target, get_book_path
 
+
+def convert_scene_format(scene_data: dict) -> dict:
+    """Convert new scene YAML format to expected slide format"""
+    scene_desc = scene_data.get('sceneDescription', {})
+    scene_info = scene_desc.get('scene', {})
+    setting = scene_desc.get('setting', {})
+    characters = scene_desc.get('characters', [])
+    visual_elements = scene_data.get('visualElements', {})
+    
+    # Build elements list from various parts
+    elements = []
+    
+    # Add main elements
+    if 'mainElements' in scene_info:
+        if isinstance(scene_info['mainElements'], list):
+            elements.extend(scene_info['mainElements'])
+        else:
+            elements.append(scene_info['mainElements'])
+    
+    # Add character descriptions
+    for char in characters:
+        if isinstance(char, dict):
+            if 'appearance' in char:
+                elements.append(char['appearance'])
+            if 'clothing' in char:
+                elements.append(char['clothing'])
+            if 'action' in char:
+                elements.append(char['action'])
+        elif isinstance(char, str):
+            elements.append(char)
+    
+    # Add setting details
+    if 'location' in setting:
+        elements.append(setting['location'])
+    if 'weather' in setting:
+        elements.append(setting['weather'])
+    
+    # Convert to expected format
+    converted = {
+        'scene': {
+            'elements': elements,
+            'composition': scene_desc.get('composition', {}),
+            'atmosphere': scene_info.get('atmosphere', ''),
+            'background': scene_info.get('background', ''),
+            'details': scene_info.get('details', ''),
+        },
+        'visual_style': visual_elements.get('colorPalette', {}),
+        'mood': visual_elements.get('mood', {}),
+        'technical_specs': scene_data.get('technicalSpecifications', {})
+    }
+    
+    return converted
+
 console = Console()
 
 # Get config
@@ -70,7 +123,28 @@ def generate_single_book_images(book_yaml_path: Path, generator_name: str = None
     with open(book_yaml_path, 'r', encoding='utf-8') as f:
         book_data = yaml.safe_load(f)
     book_info = book_data.get('book_info', {})
-    slides = book_data.get('slides', [])
+    
+    # Load scenes from individual YAML files in prompts/genimage/
+    book_dir = book_yaml_path.parent
+    prompts_dir = book_dir / "prompts" / "genimage"
+    slides = []
+    
+    if prompts_dir.exists():
+        scene_files = sorted(prompts_dir.glob("scene_*.yaml"))
+        for scene_file in scene_files:
+            try:
+                with open(scene_file, 'r', encoding='utf-8') as f:
+                    raw_scene_data = yaml.safe_load(f)
+                    # Convert to expected format
+                    scene_data = convert_scene_format(raw_scene_data)
+                    # Add scene number from filename
+                    scene_num = scene_file.stem.split('_')[1]
+                    scene_data['scene_id'] = int(scene_num)
+                    scene_data['type'] = f"scene_{scene_num}"
+                    slides.append(scene_data)
+            except Exception as e:
+                console.print(f"[yellow]Warning: Could not load {scene_file}: {e}[/yellow]")
+                continue
     
     console.print(f"\n[bold cyan]Generating AI images for: {book_info.get('title', 'Unknown')}[/bold cyan]")
     console.print(f"[dim]Total scenes: {len(slides)}[/dim]\n")

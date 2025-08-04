@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Eternal afternoon in Wonderland
+    location: Fantastical garden in underground Wonderland, impossible architecture with curved pathways and oversized flora
+    weather: Dramatic climactic lighting, intense contrast between light and shadow
+  characters:
+  - appearance: Young girl, approximately 7-10 years old, shoulder-length blonde hair with straight-cut bangs, curious blue
+      eyes, fair complexion with rosy cheeks
+    clothing: Blue dress with white pinafore apron, white stockings, black Mary Jane shoes, blue hair ribbon
+    position: Now grown to full size, towering confidently above the card courtiers
+    action: Alert and inquisitive posture, often leaning forward with curiosity, now with full confident defiance and self-assertion
+  - appearance: Imposing woman, stern authoritative face, elaborate hairstyle, imperious expression
+    clothing: Red and black dress decorated with heart motifs, golden crown, regal jewelry
+    position: Standing on throne, arm raised in angry command
+    action: Commanding presence, often pointing accusingly, at peak of rage and authority
+  scene:
+    mainElements: Giant mushrooms, enormous flowers, playing card rose bushes, whimsical topiary, marble fountains
+    details: Playing card soldiers scattering like leaves in wind, Alice magnificent and unafraid, Queen's authority revealed
+      as powerless against true confidence, garden seeming to celebrate Alice's triumph
+    background: Wonderland responding to the climax with swirling magical energy
+    atmosphere: Surreal, colorful wonderland with soft magical lighting and no logical scale or perspective, peak of emotional
+      and dramatic intensity
+  composition:
+    cameraAngle: Dynamic angle capturing the height of the confrontation
+    focus: Alice's complete transformation into confident, assertive person
+    depth: Magnificent Alice in foreground, challenged authority in middle ground, celebrating Wonderland in background
+visualElements:
+  colorPalette:
+    primary:
+    - warm pastels
+    - soft earth tones
+    - gentle blues and greens
+    secondary:
+    - bright accent colors for details
+    background: soft washes or textured paper
+    usageNotes: Harmonious colors that feel safe and inviting
+    saturation: medium, slightly muted
+    contrast: gentle, no harsh transitions
+  lineArt:
+    style: soft, organic lines
+    weight: varied, hand-drawn quality
+    color: brown or dark color, not pure black
+    texture: slightly rough, pencil-like
+    edgeTreatment: gentle, rounded forms
+  lighting:
+    type: warm, comforting
+    direction: soft overall illumination
+    intensity: gentle
+    shadows:
+      style: soft, minimal
+      color: warm grays or purples
+      opacity: light
+    highlights: subtle warmth
+  rendering:
+    technique: mixed media appearance
+    texture: visible paper texture, soft brushwork
+    detailLevel: simplified but expressive
+    finish: matte with gentle textures
+  perspective: slightly naive, not perfectly accurate
+  mood:
+    overall: warm, inviting, magical
+    emotion: wonder, safety, adventure
+    tempo: gentle, dreamlike
+    keywords:
+    - whimsical
+    - magical
+    - comforting
+    - imaginative
+    - nostalgic
+  stylePrecedents:
+  - Quentin Blake
+  - Maurice Sendak
+  - Beatrix Potter
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Gentle Return"
+  setting:
+    time: "1860s Victorian England, late afternoon"
+    location: "English countryside meadow, 1860s Victorian era, rolling hills with ancient oak trees, wildflower fields"
+    weather: "Warm golden light of late afternoon, peaceful and familiar"
+  characters:
+    - appearance: "Young girl, approximately 7-10 years old, shoulder-length blonde hair with straight-cut bangs, curious blue eyes, fair complexion with rosy cheeks"
+      clothing: "Blue dress with white pinafore apron, white stockings, black Mary Jane shoes, hair ribbon blue"
+      position: "Lying peacefully under oak tree, eyes just opening"
+      action: "Alert and inquisitive posture, often leaning forward with curiosity, now with dreamy, content expression as she transitions between sleep and waking"
+  scene:
+    mainElements: "Pastoral landscape with stone walls, grazing sheep, distant church spire, babbling brook"
+    details: "Familiar countryside appearing somehow brighter and more wonderful than before, dappled sunlight through leaves, sister still reading nearby, Alice returning to the real world but carrying inner transformation, sense of profound peaceful awakening"
+    background: "Rolling hills and pastoral countryside, exactly as it was but seen with new eyes"
+    atmosphere: "Peaceful, idyllic afternoon setting with warm golden sunlight filtering through oak leaves, profound contentment and inner change"
+  composition:
+    cameraAngle: "Gentle medium shot emphasizing peace and transition"
+    focus: "Alice's serene awakening with new wisdom and confidence"
+    depth: "Alice in peaceful foreground, familiar meadow in middle ground, beloved countryside in background"

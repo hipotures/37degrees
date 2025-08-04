@@ -1,0 +1,76 @@
+sceneDescription:
+  setting:
+    time: 1860s Victorian England, warm summer afternoon
+    location: English countryside meadow, 1860s Victorian era, rolling hills with ancient oak trees, wildflower fields
+    weather: Warm golden sunlight filtering through oak leaves, gentle breeze
+  characters:
+  - appearance: Young girl, approximately 7-10 years old, shoulder-length blonde hair with straight-cut bangs, curious blue
+      eyes, fair complexion with rosy cheeks
+    clothing: Blue dress with white pinafore apron, white stockings, black Mary Jane shoes, blue hair ribbon
+    position: Sitting peacefully beneath large oak tree by riverbank
+    action: Resting against tree trunk with hands folded in lap, gazing contentedly at the flowing water
+  scene:
+    mainElements: Pastoral landscape with stone walls, grazing sheep, distant church spire, babbling brook
+    details: Wildflowers dotting the grass, butterflies dancing in the air, distant sound of church bells, picnic basket nearby
+      with checkered cloth, daisies within arm's reach, peaceful rural setting
+    background: Rolling green hills extending to horizon, fluffy white clouds in blue sky, distant village spire
+    atmosphere: Peaceful, idyllic afternoon setting with warm golden sunlight filtering through oak leaves, complete tranquility
+      and contentment
+  composition:
+    cameraAngle: Medium wide shot from slight elevation
+    focus: Alice in peaceful repose under the protective oak tree
+    depth: Alice in foreground under tree, meadow in middle ground, rolling hills in background
+visualElements:
+  colorPalette:
+    primary:
+    - warm pastels
+    - soft earth tones
+    - gentle blues and greens
+    secondary:
+    - bright accent colors for details
+    background: soft washes or textured paper
+    usageNotes: Harmonious colors that feel safe and inviting
+    saturation: medium, slightly muted
+    contrast: gentle, no harsh transitions
+  lineArt:
+    style: soft, organic lines
+    weight: varied, hand-drawn quality
+    color: brown or dark color, not pure black
+    texture: slightly rough, pencil-like
+    edgeTreatment: gentle, rounded forms
+  lighting:
+    type: warm, comforting
+    direction: soft overall illumination
+    intensity: gentle
+    shadows:
+      style: soft, minimal
+      color: warm grays or purples
+      opacity: light
+    highlights: subtle warmth
+  rendering:
+    technique: mixed media appearance
+    texture: visible paper texture, soft brushwork
+    detailLevel: simplified but expressive
+    finish: matte with gentle textures
+  perspective: slightly naive, not perfectly accurate
+  mood:
+    overall: warm, inviting, magical
+    emotion: wonder, safety, adventure
+    tempo: gentle, dreamlike
+    keywords:
+    - whimsical
+    - magical
+    - comforting
+    - imaginative
+    - nostalgic
+  stylePrecedents:
+  - Quentin Blake
+  - Maurice Sendak
+  - Beatrix Potter
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

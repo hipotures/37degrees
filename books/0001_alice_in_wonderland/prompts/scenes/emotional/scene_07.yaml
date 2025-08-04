@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Long Fall"
+  setting:
+    time: "Timeless, during fall through rabbit hole"
+    location: "Deep circular tunnel descending into earth beneath large oak tree roots, mysterious underground passage"
+    weather: "Surreal atmosphere with floating objects and impossible physics"
+  characters:
+    - appearance: "Young girl, approximately 7-10 years old, shoulder-length blonde hair with straight-cut bangs, curious blue eyes, fair complexion with rosy cheeks"
+      clothing: "Blue dress with white pinafore apron, white stockings, black Mary Jane shoes, hair ribbon blue"
+      position: "Falling through the air, dress and hair floating upward"
+      action: "Suspended in mid-fall, arms slightly outstretched, expression shifting from alarm to wonder"
+  scene:
+    mainElements: "Earthen walls lined with tree roots, occasional shelves with curious objects, maps, books floating in mid-air"
+    details: "Strange objects floating past - teacups, books with no text visible, empty picture frames, grandfather clock, household items defying gravity, soft mysterious lighting illuminating the descent"
+    background: "Tunnel walls stretching infinitely upward and downward, creating sense of endless fall"
+    atmosphere: "Mysterious, dreamlike descent with soft ethereal lighting from unknown sources, growing sense of magical impossibility"
+  composition:
+    cameraAngle: "Dynamic angle showing the fall in progress"
+    focus: "Alice in free fall surrounded by impossible floating objects"
+    depth: "Alice in center, floating objects in middle ground, tunnel walls in background"

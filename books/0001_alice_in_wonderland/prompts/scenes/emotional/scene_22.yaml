@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Transformed Perspective"
+  setting:
+    time: "1860s Victorian England, late afternoon"
+    location: "English countryside meadow, 1860s Victorian era, rolling hills with ancient oak trees, wildflower fields"
+    weather: "Golden hour light making everything magical"
+  characters:
+    - appearance: "Young girl, approximately 7-10 years old, shoulder-length blonde hair with straight-cut bangs, curious blue eyes, fair complexion with rosy cheeks"
+      clothing: "Blue dress with white pinafore apron, white stockings, black Mary Jane shoes, hair ribbon blue"
+      position: "Sitting up against tree, looking at surroundings with new appreciation"
+      action: "Alert and inquisitive posture, often leaning forward with curiosity, now with confident, wise expression beyond her years"
+  scene:
+    mainElements: "Pastoral landscape with stone walls, grazing sheep, distant church spire, babbling brook"
+    details: "Same countryside but Alice seeing it with transformed vision, flowers appearing more vibrant, every detail holding new meaning and beauty, sense of carrying magical insight into ordinary world, deep appreciation for both wonder and reality"
+    background: "Familiar landscape now holding echoes of adventure and transformation"
+    atmosphere: "Peaceful, idyllic afternoon setting with warm golden sunlight filtering through oak leaves, profound appreciation for ordinary magic"
+  composition:
+    cameraAngle: "Medium shot showing Alice's new perspective on familiar world"
+    focus: "Alice's transformed way of seeing ordinary beauty"
+    depth: "Alice with new wisdom in foreground, enhanced countryside in middle ground, transformed world in background"

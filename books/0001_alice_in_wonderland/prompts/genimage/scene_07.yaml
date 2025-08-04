@@ -1,0 +1,75 @@
+sceneDescription:
+  setting:
+    time: Timeless, during fall through rabbit hole
+    location: Deep circular tunnel descending into earth beneath large oak tree roots, mysterious underground passage
+    weather: Surreal atmosphere with floating objects and impossible physics
+  characters:
+  - appearance: Young girl, approximately 7-10 years old, shoulder-length blonde hair with straight-cut bangs, curious blue
+      eyes, fair complexion with rosy cheeks
+    clothing: Blue dress with white pinafore apron, white stockings, black Mary Jane shoes, blue hair ribbon
+    position: Falling through the air, dress and hair floating upward
+    action: Suspended in mid-fall, arms slightly outstretched, expression shifting from alarm to wonder
+  scene:
+    mainElements: Earthen walls lined with tree roots, occasional shelves with curious objects, maps, books floating in mid-air
+    details: Strange objects floating past - teacups, books with no text visible, empty picture frames, grandfather clock,
+      household items defying gravity, soft mysterious lighting illuminating the descent
+    background: Tunnel walls stretching infinitely upward and downward, creating sense of endless fall
+    atmosphere: Mysterious, dreamlike descent with soft ethereal lighting from unknown sources, growing sense of magical impossibility
+  composition:
+    cameraAngle: Dynamic angle showing the fall in progress
+    focus: Alice in free fall surrounded by impossible floating objects
+    depth: Alice in center, floating objects in middle ground, tunnel walls in background
+visualElements:
+  colorPalette:
+    primary:
+    - warm pastels
+    - soft earth tones
+    - gentle blues and greens
+    secondary:
+    - bright accent colors for details
+    background: soft washes or textured paper
+    usageNotes: Harmonious colors that feel safe and inviting
+    saturation: medium, slightly muted
+    contrast: gentle, no harsh transitions
+  lineArt:
+    style: soft, organic lines
+    weight: varied, hand-drawn quality
+    color: brown or dark color, not pure black
+    texture: slightly rough, pencil-like
+    edgeTreatment: gentle, rounded forms
+  lighting:
+    type: warm, comforting
+    direction: soft overall illumination
+    intensity: gentle
+    shadows:
+      style: soft, minimal
+      color: warm grays or purples
+      opacity: light
+    highlights: subtle warmth
+  rendering:
+    technique: mixed media appearance
+    texture: visible paper texture, soft brushwork
+    detailLevel: simplified but expressive
+    finish: matte with gentle textures
+  perspective: slightly naive, not perfectly accurate
+  mood:
+    overall: warm, inviting, magical
+    emotion: wonder, safety, adventure
+    tempo: gentle, dreamlike
+    keywords:
+    - whimsical
+    - magical
+    - comforting
+    - imaginative
+    - nostalgic
+  stylePrecedents:
+  - Quentin Blake
+  - Maurice Sendak
+  - Beatrix Potter
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

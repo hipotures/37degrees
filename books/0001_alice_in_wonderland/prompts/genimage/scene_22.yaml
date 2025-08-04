@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: 1860s Victorian England, late afternoon
+    location: English countryside meadow, 1860s Victorian era, rolling hills with ancient oak trees, wildflower fields
+    weather: Golden hour light making everything magical
+  characters:
+  - appearance: Young girl, approximately 7-10 years old, shoulder-length blonde hair with straight-cut bangs, curious blue
+      eyes, fair complexion with rosy cheeks
+    clothing: Blue dress with white pinafore apron, white stockings, black Mary Jane shoes, blue hair ribbon
+    position: Sitting up against tree, looking at surroundings with new appreciation
+    action: Alert and inquisitive posture, often leaning forward with curiosity, now with confident, wise expression beyond
+      her years
+  scene:
+    mainElements: Pastoral landscape with stone walls, grazing sheep, distant church spire, babbling brook
+    details: Same countryside but Alice seeing it with transformed vision, flowers appearing more vibrant, every detail holding
+      new meaning and beauty, sense of carrying magical insight into ordinary world, deep appreciation for both wonder and
+      reality
+    background: Familiar landscape now holding echoes of adventure and transformation
+    atmosphere: Peaceful, idyllic afternoon setting with warm golden sunlight filtering through oak leaves, profound appreciation
+      for ordinary magic
+  composition:
+    cameraAngle: Medium shot showing Alice's new perspective on familiar world
+    focus: Alice's transformed way of seeing ordinary beauty
+    depth: Alice with new wisdom in foreground, enhanced countryside in middle ground, transformed world in background
+visualElements:
+  colorPalette:
+    primary:
+    - warm pastels
+    - soft earth tones
+    - gentle blues and greens
+    secondary:
+    - bright accent colors for details
+    background: soft washes or textured paper
+    usageNotes: Harmonious colors that feel safe and inviting
+    saturation: medium, slightly muted
+    contrast: gentle, no harsh transitions
+  lineArt:
+    style: soft, organic lines
+    weight: varied, hand-drawn quality
+    color: brown or dark color, not pure black
+    texture: slightly rough, pencil-like
+    edgeTreatment: gentle, rounded forms
+  lighting:
+    type: warm, comforting
+    direction: soft overall illumination
+    intensity: gentle
+    shadows:
+      style: soft, minimal
+      color: warm grays or purples
+      opacity: light
+    highlights: subtle warmth
+  rendering:
+    technique: mixed media appearance
+    texture: visible paper texture, soft brushwork
+    detailLevel: simplified but expressive
+    finish: matte with gentle textures
+  perspective: slightly naive, not perfectly accurate
+  mood:
+    overall: warm, inviting, magical
+    emotion: wonder, safety, adventure
+    tempo: gentle, dreamlike
+    keywords:
+    - whimsical
+    - magical
+    - comforting
+    - imaginative
+    - nostalgic
+  stylePrecedents:
+  - Quentin Blake
+  - Maurice Sendak
+  - Beatrix Potter
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

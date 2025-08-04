@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Tears of Overwhelm"
+  setting:
+    time: "Eternal afternoon in Wonderland"
+    location: "Fantastical garden in underground Wonderland, impossible architecture with curved pathways and oversized flora"
+    weather: "Dim, melancholy light reflecting inner turmoil"
+  characters:
+    - appearance: "Young girl, approximately 7-10 years old, shoulder-length blonde hair with straight-cut bangs, curious blue eyes, fair complexion with rosy cheeks"
+      clothing: "Blue dress with white pinafore apron, white stockings, black Mary Jane shoes, hair ribbon blue"
+      position: "Sitting on ground, knees drawn up, much smaller than normal size"
+      action: "Hands covering face, shoulders shaking slightly, in posture of sadness and overwhelming confusion"
+  scene:
+    mainElements: "Giant mushrooms, enormous flowers, playing card rose bushes, whimsical topiary, marble fountains"
+    details: "Pool of tears forming around Alice creating small pond, flowers and mushrooms towering impossibly high above, sense of being lost and alone in strange world, beautiful but alien environment offering no comfort"
+    background: "Wonderland continuing its impossible beauty while Alice experiences emotional crisis"
+    atmosphere: "Surreal, colorful wonderland with soft magical lighting and no logical scale or perspective, deep sadness and isolation"
+  composition:
+    cameraAngle: "Low angle emphasizing Alice's vulnerability and smallness"
+    focus: "Alice's emotional breakdown surrounded by indifferent wonder"
+    depth: "Small Alice in foreground surrounded by tears, giant garden elements in middle ground, vast Wonderland in background"
