@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Rising Defiance"
+  setting:
+    time: "Eternal afternoon in Wonderland"
+    location: "Fantastical garden in underground Wonderland, impossible architecture with curved pathways and oversized flora"
+    weather: "Light becoming more dramatic, shadows deeper"
+  characters:
+    - appearance: "Young girl, approximately 7-10 years old, shoulder-length blonde hair with straight-cut bangs, curious blue eyes, fair complexion with rosy cheeks"
+      clothing: "Blue dress with white pinafore apron, white stockings, black Mary Jane shoes, hair ribbon blue"
+      position: "Standing at tea table, fists clenched at her sides"
+      action: "Alert and inquisitive posture, often leaning forward with curiosity, but now with determined expression and defiant stance"
+  scene:
+    mainElements: "Giant mushrooms, enormous flowers, playing card rose bushes, whimsical topiary, marble fountains"
+    details: "Overturned teacup at Alice's place, chair pushed back from table, tea party guests looking startled by her sudden assertiveness, sense of Alice finding her voice and refusing to accept nonsense"
+    background: "Wonderland garden seeming to respond to her emotional intensity"
+    atmosphere: "Surreal, colorful wonderland with soft magical lighting and no logical scale or perspective, building determination and self-assertion"
+  composition:
+    cameraAngle: "Low angle emphasizing Alice's newfound strength"
+    focus: "Alice's defiant posture and determined expression"
+    depth: "Alice prominent in foreground, disrupted tea party in middle ground, responding garden in background"

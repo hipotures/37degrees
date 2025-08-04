@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Drowsy Summer Day Reading"
+  setting:
+    time: "1860s Victorian England, lazy afternoon"
+    location: "English countryside meadow, 1860s Victorian era, rolling hills with ancient oak trees, wildflower fields"
+    weather: "Soft warm sunlight, slight drowsiness in the air"
+  characters:
+    - appearance: "Young girl, approximately 7-10 years old, shoulder-length blonde hair with straight-cut bangs, curious blue eyes, fair complexion with rosy cheeks"
+      clothing: "Blue dress with white pinafore apron, white stockings, black Mary Jane shoes, hair ribbon blue"
+      position: "Leaning against tree trunk, head tilted slightly"
+      action: "Eyes half-closed with drowsy expression, chin beginning to droop toward chest"
+    - appearance: "Older sister with long dark hair, wearing Victorian dress"
+      clothing: "Brown wool dress with high collar, practical shoes"
+      position: "Sitting nearby under same tree"
+      action: "Reading from thick book, completely absorbed in text"
+  scene:
+    mainElements: "Pastoral landscape with stone walls, grazing sheep, distant church spire, babbling brook"
+    details: "Book with no visible text in sister's hands, few fallen leaves around tree base, peaceful countryside atmosphere, warm dappled light through leaves, sense of comfortable routine"
+    background: "Gentle hillside with sheep grazing, distant farmhouse with smoking chimney"
+    atmosphere: "Peaceful, idyllic afternoon setting with warm golden sunlight filtering through oak leaves, slight drowsiness and contentment"
+  composition:
+    cameraAngle: "Medium shot capturing both sisters"
+    focus: "Alice's drowsy expression contrasted with sister's engagement"
+    depth: "Characters in foreground under tree, open meadow in middle ground, hills in background"

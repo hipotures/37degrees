@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Moment of Decision"
+  setting:
+    time: "1860s Victorian England, afternoon"
+    location: "English countryside meadow, 1860s Victorian era, rolling hills with ancient oak trees, wildflower fields"
+    weather: "Shifting light as clouds begin to gather"
+  characters:
+    - appearance: "Young girl, approximately 7-10 years old, shoulder-length blonde hair with straight-cut bangs, curious blue eyes, fair complexion with rosy cheeks"
+      clothing: "Blue dress with white pinafore apron, white stockings, black Mary Jane shoes, hair ribbon blue"
+      position: "Standing now, one foot forward as if about to move"
+      action: "Alert and inquisitive posture, often leaning forward with curiosity, body language suggesting internal debate between caution and adventure"
+  scene:
+    mainElements: "Pastoral landscape with stone walls, grazing sheep, distant church spire, babbling brook"
+    details: "Abandoned book lying open on grass, sister still reading in background unaware, large oak tree with mysterious dark opening visible at its base, familiar peaceful setting now holding an element of choice and potential change"
+    background: "Countryside beginning to look different, shadows longer, normal world on threshold of transformation"
+    atmosphere: "Peaceful, idyllic afternoon setting with warm golden sunlight filtering through oak leaves, tension between safety and adventure"
+  composition:
+    cameraAngle: "Medium shot emphasizing Alice's indecision"
+    focus: "Alice poised between staying and following curiosity"
+    depth: "Alice prominent in foreground, tree opening in middle ground, familiar countryside in background"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Building Toward Confrontation"
+  setting:
+    time: "Eternal afternoon in Wonderland"
+    location: "Fantastical garden in underground Wonderland, impossible architecture with curved pathways and oversized flora"
+    weather: "Increasingly dramatic lighting, storm-like atmosphere building"
+  characters:
+    - appearance: "Young girl, approximately 7-10 years old, shoulder-length blonde hair with straight-cut bangs, curious blue eyes, fair complexion with rosy cheeks"
+      clothing: "Blue dress with white pinafore apron, white stockings, black Mary Jane shoes, hair ribbon blue"
+      position: "Growing taller, standing more confidently among the card courtiers"
+      action: "Alert and inquisitive posture, often leaning forward with curiosity, now with increasing confidence and mounting determination"
+    - appearance: "Imposing woman, stern authoritative face, elaborate hairstyle, imperious expression"
+      clothing: "Red and black dress decorated with heart motifs, golden crown, regal jewelry"
+      position: "Still on throne but leaning forward aggressively"
+      action: "Commanding presence, often pointing accusingly, becoming more agitated"
+  scene:
+    mainElements: "Giant mushrooms, enormous flowers, playing card rose bushes, whimsical topiary, marble fountains"
+    details: "Playing card soldiers beginning to look uncertain, Alice gaining size and presence, tension building between arbitrary authority and growing resistance, garden elements seeming to lean in anticipation"
+    background: "Wonderland environment responding to emotional intensity, colors becoming more vivid"
+    atmosphere: "Surreal, colorful wonderland with soft magical lighting and no logical scale or perspective, rising tension before climactic confrontation"
+  composition:
+    cameraAngle: "Medium shot emphasizing the growing confrontation"
+    focus: "Alice's increasing confidence challenging established authority"
+    depth: "Alice growing prominent in foreground, agitated Queen in middle ground, responding environment in background"

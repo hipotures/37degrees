@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: Eternal afternoon in Wonderland
+    location: Fantastical garden in underground Wonderland, impossible architecture with curved pathways and oversized flora
+    weather: Soft magical lighting with no identifiable source
+  characters:
+  - appearance: Young girl, approximately 7-10 years old, shoulder-length blonde hair with straight-cut bangs, curious blue
+      eyes, fair complexion with rosy cheeks
+    clothing: Blue dress with white pinafore apron, white stockings, black Mary Jane shoes, blue hair ribbon
+    position: Standing in center of fantastical garden, looking around in amazement
+    action: Alert and inquisitive posture, often leaning forward with curiosity, now with wonder and slight overwhelm at the
+      magical surroundings
+  scene:
+    mainElements: Giant mushrooms, enormous flowers, playing card rose bushes, whimsical topiary, marble fountains
+    details: Flowers larger than Alice herself, impossible colors in the flora, paths that curve upward impossibly, fountains
+      flowing in reverse, butterflies the size of birds, sense of scale completely altered
+    background: Curved horizon that defies normal perspective, sky that shifts between colors
+    atmosphere: Surreal, colorful wonderland with soft magical lighting and no logical scale or perspective, overwhelming
+      beauty and strangeness
+  composition:
+    cameraAngle: Wide shot emphasizing the scale and impossibility of Wonderland
+    focus: Alice small among giant fantastical flora
+    depth: Alice in center, giant flowers in middle ground, impossible landscape in background
+visualElements:
+  colorPalette:
+    primary:
+    - warm pastels
+    - soft earth tones
+    - gentle blues and greens
+    secondary:
+    - bright accent colors for details
+    background: soft washes or textured paper
+    usageNotes: Harmonious colors that feel safe and inviting
+    saturation: medium, slightly muted
+    contrast: gentle, no harsh transitions
+  lineArt:
+    style: soft, organic lines
+    weight: varied, hand-drawn quality
+    color: brown or dark color, not pure black
+    texture: slightly rough, pencil-like
+    edgeTreatment: gentle, rounded forms
+  lighting:
+    type: warm, comforting
+    direction: soft overall illumination
+    intensity: gentle
+    shadows:
+      style: soft, minimal
+      color: warm grays or purples
+      opacity: light
+    highlights: subtle warmth
+  rendering:
+    technique: mixed media appearance
+    texture: visible paper texture, soft brushwork
+    detailLevel: simplified but expressive
+    finish: matte with gentle textures
+  perspective: slightly naive, not perfectly accurate
+  mood:
+    overall: warm, inviting, magical
+    emotion: wonder, safety, adventure
+    tempo: gentle, dreamlike
+    keywords:
+    - whimsical
+    - magical
+    - comforting
+    - imaginative
+    - nostalgic
+  stylePrecedents:
+  - Quentin Blake
+  - Maurice Sendak
+  - Beatrix Potter
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

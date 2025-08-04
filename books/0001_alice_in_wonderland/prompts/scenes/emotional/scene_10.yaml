@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Growing Confusion"
+  setting:
+    time: "Eternal afternoon in Wonderland"
+    location: "Fantastical garden in underground Wonderland, impossible architecture with curved pathways and oversized flora"
+    weather: "Light becoming more unpredictable, shadows shifting oddly"
+  characters:
+    - appearance: "Young girl, approximately 7-10 years old, shoulder-length blonde hair with straight-cut bangs, curious blue eyes, fair complexion with rosy cheeks"
+      clothing: "Blue dress with white pinafore apron, white stockings, black Mary Jane shoes, hair ribbon blue"
+      position: "Now much taller than before, head nearly touching giant flower petals"
+      action: "Alert and inquisitive posture, often leaning forward with curiosity, but now with visible distress at her unpredictable size changes"
+  scene:
+    mainElements: "Giant mushrooms, enormous flowers, playing card rose bushes, whimsical topiary, marble fountains"
+    details: "Alice's dramatically changed perspective as she towers over some elements she was small beside before, clothing feeling tight or loose, sense of losing control over her own body, Wonderland rules proving unpredictable"
+    background: "Garden appearing different from new height perspective, previously distant objects now at eye level"
+    atmosphere: "Surreal, colorful wonderland with soft magical lighting and no logical scale or perspective, mounting frustration and confusion"
+  composition:
+    cameraAngle: "High angle showing Alice's new height relative to surroundings"
+    focus: "Alice's distress at her uncontrollable size changes"
+    depth: "Tall Alice prominent in foreground, garden elements at various levels in middle ground, Wonderland landscape in background"

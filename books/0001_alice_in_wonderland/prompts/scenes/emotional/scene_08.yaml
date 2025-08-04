@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Arrival in Wonderland"
+  setting:
+    time: "Eternal afternoon in Wonderland"
+    location: "Fantastical garden in underground Wonderland, impossible architecture with curved pathways and oversized flora"
+    weather: "Soft magical lighting with no identifiable source"
+  characters:
+    - appearance: "Young girl, approximately 7-10 years old, shoulder-length blonde hair with straight-cut bangs, curious blue eyes, fair complexion with rosy cheeks"
+      clothing: "Blue dress with white pinafore apron, white stockings, black Mary Jane shoes, hair ribbon blue"
+      position: "Standing in center of fantastical garden, looking around in amazement"
+      action: "Alert and inquisitive posture, often leaning forward with curiosity, now with wonder and slight overwhelm at the magical surroundings"
+  scene:
+    mainElements: "Giant mushrooms, enormous flowers, playing card rose bushes, whimsical topiary, marble fountains"
+    details: "Flowers larger than Alice herself, impossible colors in the flora, paths that curve upward impossibly, fountains flowing in reverse, butterflies the size of birds, sense of scale completely altered"
+    background: "Curved horizon that defies normal perspective, sky that shifts between colors"
+    atmosphere: "Surreal, colorful wonderland with soft magical lighting and no logical scale or perspective, overwhelming beauty and strangeness"
+  composition:
+    cameraAngle: "Wide shot emphasizing the scale and impossibility of Wonderland"
+    focus: "Alice small among giant fantastical flora"
+    depth: "Alice in center, giant flowers in middle ground, impossible landscape in background"

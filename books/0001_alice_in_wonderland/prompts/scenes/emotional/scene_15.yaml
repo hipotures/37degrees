@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Court of Injustice"
+  setting:
+    time: "Eternal afternoon in Wonderland"
+    location: "Fantastical garden in underground Wonderland, impossible architecture with curved pathways and oversized flora"
+    weather: "Harsh dramatic lighting, creating stark shadows"
+  characters:
+    - appearance: "Young girl, approximately 7-10 years old, shoulder-length blonde hair with straight-cut bangs, curious blue eyes, fair complexion with rosy cheeks"
+      clothing: "Blue dress with white pinafore apron, white stockings, black Mary Jane shoes, hair ribbon blue"
+      position: "Standing in center of makeshift courtroom, surrounded by threatening figures"
+      action: "Alert and inquisitive posture, often leaning forward with curiosity, but now with brave defiance despite being outnumbered"
+    - appearance: "Imposing woman, stern authoritative face, elaborate hairstyle, imperious expression"
+      clothing: "Red and black dress decorated with heart motifs, golden crown, regal jewelry"
+      position: "Seated on elevated throne-like chair, pointing accusingly"
+      action: "Commanding presence, often pointing accusingly"
+  scene:
+    mainElements: "Giant mushrooms, enormous flowers, playing card rose bushes, whimsical topiary, marble fountains"
+    details: "Playing card soldiers forming threatening circle around Alice, makeshift witness stand and judge's bench, atmosphere of false justice and arbitrary authority, beautiful garden now serving as backdrop for intimidation"
+    background: "Wonderland's beauty turned ominous through context of unjust trial"
+    atmosphere: "Surreal, colorful wonderland with soft magical lighting and no logical scale or perspective, mounting tension and threat of arbitrary punishment"
+  composition:
+    cameraAngle: "Wide shot showing Alice small but defiant against overwhelming authority"
+    focus: "Alice's brave stance against arbitrary power and injustice"
+    depth: "Alice in center, Queen and court in middle ground, ominous garden setting in background"

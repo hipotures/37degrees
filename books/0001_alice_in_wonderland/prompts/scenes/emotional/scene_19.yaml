@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Chaos into Order"
+  setting:
+    time: "Eternal afternoon in Wonderland transitioning"
+    location: "Fantastical garden in underground Wonderland, impossible architecture with curved pathways and oversized flora"
+    weather: "Swirling energy beginning to calm, light becoming more natural"
+  characters:
+    - appearance: "Young girl, approximately 7-10 years old, shoulder-length blonde hair with straight-cut bangs, curious blue eyes, fair complexion with rosy cheeks"
+      clothing: "Blue dress with white pinafore apron, white stockings, black Mary Jane shoes, hair ribbon blue"
+      position: "Center of calming storm, returning to normal size"
+      action: "Alert and inquisitive posture, often leaning forward with curiosity, now with peaceful confidence and serene understanding"
+  scene:
+    mainElements: "Giant mushrooms, enormous flowers, playing card rose bushes, whimsical topiary, marble fountains"
+    details: "Playing cards settling gently to ground like autumn leaves, garden beginning to look more normal and less threatening, sense of powerful truth discovered and accepted, chaos resolving into peace"
+    background: "Wonderland stabilizing into something more comprehensible and less overwhelming"
+    atmosphere: "Surreal, colorful wonderland with soft magical lighting and no logical scale or perspective, calm after the storm, profound peace"
+  composition:
+    cameraAngle: "Medium shot showing Alice at center of settling chaos"
+    focus: "Alice's newfound peace and understanding"
+    depth: "Serene Alice in foreground, settling cards in middle ground, calming garden in background"

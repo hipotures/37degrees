@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1860s Victorian England, afternoon
+    location: English countryside meadow, 1860s Victorian era, rolling hills with ancient oak trees, wildflower fields
+    weather: Bright golden sunlight creating interesting shadows
+  characters:
+  - appearance: Young girl, approximately 7-10 years old, shoulder-length blonde hair with straight-cut bangs, curious blue
+      eyes, fair complexion with rosy cheeks
+    clothing: Blue dress with white pinafore apron, white stockings, black Mary Jane shoes, blue hair ribbon
+    position: Sitting upright, head turned toward something fascinating
+    action: Alert and inquisitive posture, often leaning forward with curiosity, eyes wide with growing interest
+  - appearance: Anthropomorphic white rabbit, upright posture, pink inner ears, nervous dark eyes, always checking time
+    clothing: Red waistcoat with brass buttons, pocket watch on chain, sometimes spectacles
+    position: Partially visible at edge of scene, hurrying past
+    action: Hurried, anxious demeanor, often looking at pocket watch
+  scene:
+    mainElements: Pastoral landscape with stone walls, grazing sheep, distant church spire, babbling brook
+    details: Alice's focused attention on the unusual sight, forgotten book beside her, growing sense of something extraordinary
+      occurring, warm afternoon light highlighting both figures, peaceful countryside suddenly touched by magic
+    background: Familiar meadow landscape now seeming to hold secrets
+    atmosphere: Peaceful, idyllic afternoon setting with warm golden sunlight filtering through oak leaves, first hint of
+      magical possibility
+  composition:
+    cameraAngle: Medium wide shot capturing both Alice and the rabbit
+    focus: Alice's fascinated expression as she observes something extraordinary
+    depth: Alice in foreground, rabbit in middle ground, countryside in background
+visualElements:
+  colorPalette:
+    primary:
+    - warm pastels
+    - soft earth tones
+    - gentle blues and greens
+    secondary:
+    - bright accent colors for details
+    background: soft washes or textured paper
+    usageNotes: Harmonious colors that feel safe and inviting
+    saturation: medium, slightly muted
+    contrast: gentle, no harsh transitions
+  lineArt:
+    style: soft, organic lines
+    weight: varied, hand-drawn quality
+    color: brown or dark color, not pure black
+    texture: slightly rough, pencil-like
+    edgeTreatment: gentle, rounded forms
+  lighting:
+    type: warm, comforting
+    direction: soft overall illumination
+    intensity: gentle
+    shadows:
+      style: soft, minimal
+      color: warm grays or purples
+      opacity: light
+    highlights: subtle warmth
+  rendering:
+    technique: mixed media appearance
+    texture: visible paper texture, soft brushwork
+    detailLevel: simplified but expressive
+    finish: matte with gentle textures
+  perspective: slightly naive, not perfectly accurate
+  mood:
+    overall: warm, inviting, magical
+    emotion: wonder, safety, adventure
+    tempo: gentle, dreamlike
+    keywords:
+    - whimsical
+    - magical
+    - comforting
+    - imaginative
+    - nostalgic
+  stylePrecedents:
+  - Quentin Blake
+  - Maurice Sendak
+  - Beatrix Potter
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

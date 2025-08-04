@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Mysterious Guidance"
+  setting:
+    time: "Eternal afternoon in Wonderland"
+    location: "Fantastical garden in underground Wonderland, impossible architecture with curved pathways and oversized flora"
+    weather: "Light beginning to shift, becoming more intriguing than melancholy"
+  characters:
+    - appearance: "Young girl, approximately 7-10 years old, shoulder-length blonde hair with straight-cut bangs, curious blue eyes, fair complexion with rosy cheeks"
+      clothing: "Blue dress with white pinafore apron, white stockings, black Mary Jane shoes, hair ribbon blue"
+      position: "Looking up with renewed curiosity, wiping tears from face"
+      action: "Alert and inquisitive posture, often leaning forward with curiosity, hope beginning to return to her expression"
+    - appearance: "Large tabby cat with distinctive broad grin, striped fur pattern in purple and pink tones, bright yellow eyes"
+      clothing: "No clothing - natural cat appearance"
+      position: "Appearing in tree branches above, partially visible"
+      action: "Mysterious, often partially visible or fading, perpetual wide grin"
+  scene:
+    mainElements: "Giant mushrooms, enormous flowers, playing card rose bushes, whimsical topiary, marble fountains"
+    details: "Cheshire Cat beginning to materialize in tree above Alice, mysterious smile offering both comfort and intrigue, Alice's tears beginning to dry, sense of magical help arriving when most needed"
+    background: "Wonderland seeming less threatening, more full of mysterious possibilities"
+    atmosphere: "Surreal, colorful wonderland with soft magical lighting and no logical scale or perspective, mystery and potential guidance"
+  composition:
+    cameraAngle: "Medium shot showing both Alice and the emerging Cat"
+    focus: "Alice's growing curiosity about her mysterious visitor"
+    depth: "Alice in foreground, Cheshire Cat in middle ground among branches, garden in background"

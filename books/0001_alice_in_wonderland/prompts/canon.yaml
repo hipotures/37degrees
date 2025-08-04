@@ -1,0 +1,475 @@
+canon:
+  characters:
+    alice:
+      name: "Alice"
+      type: "Main protagonist"
+      role: "Curious child who falls into Wonderland"
+      physicalAppearance:
+        age: "7-10 years old"
+        hair: "Shoulder-length blonde hair with straight-cut bangs"
+        eyes: "Curious blue eyes"
+        complexion: "Fair complexion with rosy cheeks"
+      canonicalClothing:
+        dress: "Blue dress with white pinafore apron"
+        stockings: "White stockings"
+        shoes: "Black Mary Jane shoes"
+        hairAccessory: "Blue hair ribbon"
+      personalityTraits:
+        - "Curious and inquisitive"
+        - "Polite but increasingly assertive"
+        - "Logical thinker in illogical world"
+        - "Brave when challenged"
+        - "Grows more confident through adventure"
+
+    whiteRabbit:
+      name: "White Rabbit"
+      type: "Secondary character"
+      role: "Alice's guide into Wonderland, herald to the Queen"
+      physicalAppearance:
+        species: "Anthropomorphic white rabbit"
+        posture: "Upright posture"
+        ears: "Pink inner ears"
+        eyes: "Nervous dark eyes"
+        size: "Medium-sized, about half Alice's height"
+      canonicalClothing:
+        waistcoat: "Red waistcoat with brass buttons"
+        accessory: "Gold pocket watch on chain"
+        optional: "White gloves, sometimes spectacles"
+      personalityTraits:
+        - "Perpetually late and anxious"
+        - "Devoted servant to the Queen"
+        - "Nervous and hurried"
+        - "Obsessed with time"
+
+    cheshireCat:
+      name: "Cheshire Cat"
+      type: "Secondary character"
+      role: "Mysterious guide and philosopher"
+      physicalAppearance:
+        species: "Large tabby cat"
+        distintiveFeature: "Distinctive broad grin"
+        fur: "Striped pattern in purple and pink tones"
+        eyes: "Bright yellow eyes"
+        size: "Large house cat size"
+      canonicalClothing:
+        clothing: "No clothing - natural cat appearance"
+      personalityTraits:
+        - "Mysterious and philosophical"
+        - "Appears and disappears at will"
+        - "Perpetual grin"
+        - "Gives cryptic advice"
+        - "Only sane character who admits to madness"
+
+    madHatter:
+      name: "Mad Hatter"
+      type: "Secondary character"
+      role: "Host of the eternal tea party"
+      physicalAppearance:
+        age: "Middle-aged man"
+        hair: "Wild, unkempt curly hair"
+        eyes: "Bright, slightly mad eyes"
+        face: "Expressive, animated face"
+        build: "Tall and thin"
+      canonicalClothing:
+        hat: "Large top hat with '10/6' price tag"
+        jacket: "Colorful, mismatched jacket"
+        neckwear: "Large bow tie"
+        condition: "Slightly shabby, tea-stained"
+      personalityTraits:
+        - "Mad but charming"
+        - "Speaks in riddles and nonsense"
+        - "Obsessed with tea time"
+        - "Theatrical and animated"
+        - "Trapped in perpetual 6 o'clock"
+
+    marchHare:
+      name: "March Hare"
+      type: "Secondary character"
+      role: "Mad Hatter's tea party companion"
+      physicalAppearance:
+        species: "Anthropomorphic brown hare"
+        ears: "Long, upright ears"
+        eyes: "Wild, excited eyes"
+        size: "Similar size to Mad Hatter"
+      canonicalClothing:
+        minimal: "Sometimes a jacket or vest"
+        style: "Disheveled, mad appearance"
+      personalityTraits:
+        - "Mad and excitable"
+        - "Partner in nonsense with Mad Hatter"
+        - "Obsessed with tea party etiquette"
+        - "Manic energy"
+
+    dormouse:
+      name: "Dormouse"
+      type: "Supporting character"
+      role: "Sleepy tea party guest"
+      physicalAppearance:
+        species: "Small dormouse"
+        size: "Tiny, fits in teapot"
+        fur: "Brown and soft"
+        eyes: "Usually closed, sleepy"
+      personalityTraits:
+        - "Perpetually sleepy"
+        - "Tells strange stories when awakened"
+        - "Passive and drowsy"
+        - "Used as cushion by Hatter and Hare"
+
+    queenOfHearts:
+      name: "Queen of Hearts"
+      type: "Primary antagonist"
+      role: "Tyrannical ruler of Wonderland"
+      physicalAppearance:
+        build: "Large, imposing woman"
+        face: "Stern, authoritative features"
+        hair: "Elaborate royal hairstyle"
+        expression: "Perpetually angry"
+      canonicalClothing:
+        dress: "Red and black dress decorated with heart motifs"
+        crown: "Golden crown with heart designs"
+        jewelry: "Elaborate royal jewelry"
+      personalityTraits:
+        - "Tyrannical and quick to anger"
+        - "Obsessed with executions ('Off with their heads!')"
+        - "Arbitrary and unfair"
+        - "Rules through fear"
+        - "Ultimately powerless (cards)"
+
+    kingOfHearts:
+      name: "King of Hearts"
+      type: "Supporting character"
+      role: "Meek husband to the Queen"
+      physicalAppearance:
+        build: "Small, timid man"
+        face: "Kind but worried features"
+        hair: "Balding or thinning"
+      canonicalClothing:
+        robes: "Royal robes with heart motifs"
+        crown: "Smaller crown than Queen's"
+      personalityTraits:
+        - "Meek and submissive to Queen"
+        - "Kind-hearted"
+        - "Tries to moderate Queen's harshness"
+        - "Secretly pardons those condemned"
+
+    caterpillar:
+      name: "Caterpillar"
+      type: "Supporting character"
+      role: "Wise but cryptic advisor"
+      physicalAppearance:
+        species: "Large blue caterpillar"
+        size: "3 inches tall"
+        color: "Blue with segments"
+        position: "Usually sitting on mushroom"
+      accessories:
+        pipe: "Hookah pipe"
+        mushroom: "Large mushroom seat"
+      personalityTraits:
+        - "Wise but condescending"
+        - "Speaks in cryptic riddles"
+        - "Calm and contemplative"
+        - "Gives important advice about size changes"
+
+    duchess:
+      name: "Duchess"
+      type: "Supporting character"
+      role: "Moralizing noble"
+      physicalAppearance:
+        build: "Large, ungainly woman"
+        face: "Ugly features"
+        manner: "Awkward and ungraceful"
+      canonicalClothing:
+        dress: "Elaborate noble dress"
+        style: "Over-decorated, gaudy"
+      personalityTraits:
+        - "Obsessed with finding morals in everything"
+        - "Violent toward her baby"
+        - "Later becomes overly affectionate"
+        - "Inconsistent personality"
+
+    alicesSister:
+      name: "Alice's Sister"
+      type: "Supporting character"
+      role: "Represents real world and normalcy"
+      physicalAppearance:
+        age: "Older teenage sister"
+        hair: "Long dark hair"
+        style: "Proper Victorian young lady"
+      canonicalClothing:
+        dress: "Brown wool dress with high collar"
+        shoes: "Practical Victorian shoes"
+        style: "Conservative, proper"
+      personalityTraits:
+        - "Studious and responsible"
+        - "Represents adult world"
+        - "Caring toward Alice"
+        - "Appreciates Alice's imagination"
+
+  locations:
+    realWorld:
+      englishCountryside:
+        name: "English Countryside Meadow"
+        type: "Opening/closing setting"
+        role: "Represents reality and normalcy"
+        timeperiod: "1860s Victorian England"
+        timeOfDay: "Warm summer afternoon"
+        canonicalDescription:
+          landscape: "Rolling hills with ancient oak trees, wildflower meadows"
+          pastoralElements: "Stone walls, grazing sheep, distant church spire, babbling brook"
+          floralDetails: "Wildflowers, daisies, buttercups"
+          wildlife: "Butterflies, songbirds"
+          sounds: "Distant church bells, flowing water, gentle breeze"
+        atmosphere:
+          lighting: "Warm golden sunlight filtering through leaves"
+          mood: "Peaceful, idyllic, safe"
+          weather: "Perfect summer day"
+
+    transitionSpaces:
+      rabbitHole:
+        name: "Rabbit Hole"
+        type: "Gateway to Wonderland"
+        role: "Transition from reality to fantasy"
+        canonicalDescription:
+          entrance: "Deep hole beneath large oak tree"
+          structure: "Long, dark tunnel descending into earth"
+          contents: "Shelves with curious objects, maps, books"
+          physics: "Slow falling, objects floating in mid-air"
+        atmosphere:
+          lighting: "Fading natural light, mysterious glow below"
+          mood: "Mysterious, anticipatory, slightly frightening"
+
+      hallOfDoors:
+        name: "Hall of Doors"
+        type: "Choice and frustration space"
+        role: "Represents life's locked opportunities"
+        canonicalDescription:
+          structure: "Long hallway with doors of all sizes"
+          doors: "Tiny door behind curtain (key), locked doors everywhere"
+          furniture: "Glass table with tiny golden key"
+          garden: "Beautiful garden visible through tiny door"
+        atmosphere:
+          lighting: "Dim, shadowy"
+          mood: "Frustrating, mysterious"
+
+    wonderlandLocations:
+      poolOfTears:
+        name: "Pool of Tears"
+        type: "Emotional landscape"
+        role: "Alice's emotional overflow made literal"
+        canonicalDescription:
+          water: "Salt water pool from Alice's giant tears"
+          inhabitants: "Mouse, birds, various creatures"
+          shore: "Muddy banks where creatures gather"
+        atmosphere:
+          mood: "Sad but communal, shared struggle"
+
+      duchessHouse:
+        name: "Duchess's House"
+        type: "Chaotic domestic space"
+        role: "Disordered household, violence hidden by manners"
+        canonicalDescription:
+          exterior: "Small cottage with smoking chimney"
+          interior: "Kitchen full of pepper smoke"
+          inhabitants: "Duchess, Cook, Baby (pig), Cheshire Cat"
+          chaos: "Flying plates, excessive pepper, screaming baby"
+        atmosphere:
+          mood: "Violent, chaotic, uncomfortable"
+
+      caterpillarsMushroomPatch:
+        name: "Caterpillar's Mushroom"
+        type: "Wisdom and transformation space"
+        role: "Place of growth and self-discovery"
+        canonicalDescription:
+          mushroom: "Large mushroom, perfect seat size"
+          surroundings: "Peaceful clearing in strange forest"
+          smoke: "Hookah smoke creating dreamy atmosphere"
+        atmosphere:
+          mood: "Contemplative, mysterious, transformative"
+
+      madTeaParty:
+        name: "Mad Tea Party Table"
+        type: "Eternal social gathering"
+        role: "Nonsense logic, broken social rules"
+        canonicalDescription:
+          table: "Long table set for many, but only three seats occupied"
+          setting: "Mismatched chairs, teacups, plates"
+          location: "Under large tree, outdoor setting"
+          condition: "Perpetually 6 o'clock, time frozen"
+        atmosphere:
+          mood: "Mad, energetic, frustrating, playful"
+
+      queensGarden:
+        name: "Queen's Rose Garden"
+        type: "Place of arbitrary power"
+        role: "Where authority is both absolute and absurd"
+        canonicalDescription:
+          roses: "White roses being painted red"
+          layout: "Formal garden with croquet ground"
+          workers: "Playing card gardeners (Spades)"
+          croquet: "Living mallets (flamingos), balls (hedgehogs)"
+        atmosphere:
+          mood: "Tense, colorful, threatening"
+
+      courtroom:
+        name: "Queen's Courtroom"
+        type: "Place of injustice"
+        role: "Where arbitrary authority reaches its peak"
+        canonicalDescription:
+          setup: "Makeshift courtroom in garden"
+          seating: "King as judge, Queen commanding"
+          witnesses: "Various Wonderland creatures"
+          evidence: "Nonsensical evidence, stolen tarts"
+        atmosphere:
+          mood: "Tense, absurd, climactic"
+
+  items:
+    magicalObjects:
+      drinkMeBottle:
+        name: "DRINK ME Bottle"
+        description: "Small bottle with 'DRINK ME' label"
+        effect: "Makes Alice shrink"
+        location: "Glass table in Hall of Doors"
+        appearance: "Clear glass bottle with golden liquid"
+
+      eatMeCake:
+        name: "EAT ME Cake"
+        description: "Small cake with 'EAT ME' in currants"
+        effect: "Makes Alice grow larger"
+        location: "Glass table in Hall of Doors"
+        appearance: "Small round cake with decorative lettering"
+
+      goldenKey:
+        name: "Golden Key"
+        description: "Tiny golden key"
+        purpose: "Opens door to beautiful garden"
+        location: "Glass table in Hall of Doors"
+        problem: "Too small for Alice when normal size"
+
+      caterpillarsMushroom:
+        name: "Caterpillar's Mushroom"
+        description: "Large mushroom with size-changing properties"
+        effect: "One side makes you taller, other side shorter"
+        location: "Caterpillar's clearing"
+        appearance: "Large brown mushroom, perfect seat height"
+
+    personalBelongings:
+      alicesApron:
+        name: "Alice's Apron"
+        description: "White pinafore apron over blue dress"
+        significance: "Symbol of her proper Victorian childhood"
+        condition: "Becomes dirty/torn during adventure"
+
+      pocketWatch:
+        name: "White Rabbit's Pocket Watch"
+        description: "Gold pocket watch on chain"
+        significance: "Symbol of time, civilization, adult responsibility"
+        behavior: "Constantly checked by anxious Rabbit"
+
+      whiteGloves:
+        name: "White Rabbit's Gloves"
+        description: "White kid gloves"
+        significance: "Symbol of genteel society"
+        incident: "Alice mistakes for her own, causes size change"
+
+    domesticItems:
+      teaService:
+        name: "Mad Tea Party Service"
+        description: "Endless tea service for eternal 6 o'clock"
+        components: "Teapots, cups, saucers, spoons"
+        condition: "Mismatched, some dirty, no clean place settings"
+        behavior: "Mad Hatter's group moves around table when dishes get dirty"
+
+      playingCards:
+        name: "Living Playing Cards"
+        description: "Anthropomorphic playing cards"
+        roles: "Gardeners (Spades), Soldiers (Clubs), Courtiers (Diamonds), Children (Hearts)"
+        behavior: "Paint roses, march in processions, fall flat when royalty approaches"
+        significance: "Represent hollow authority structure"
+
+      flamingoCroquetMallet:
+        name: "Flamingo Croquet Mallet"
+        description: "Live flamingo used as croquet mallet"
+        behavior: "Uncooperative, twists neck around to look at Alice"
+        significance: "Represents impossible game with ever-changing rules"
+
+      hedgehogCroquetBall:
+        name: "Hedgehog Croquet Ball"
+        description: "Live hedgehog used as croquet ball"
+        behavior: "Unrolls and walks away when hit"
+        significance: "Makes fair play impossible"
+
+    foodAndDrink:
+      treacleWell:
+        name: "Treacle Well"
+        description: "Well full of treacle (molasses)"
+        significance: "From Dormouse's story, represents sticky situations"
+        location: "Mentioned in Mad Tea Party story"
+
+      stolenTarts:
+        name: "Queen's Tarts"
+        description: "Tarts allegedly stolen by Knave of Hearts"
+        significance: "Evidence in nonsensical trial"
+        reality: "Central to arbitrary justice system"
+
+      unbirthday:
+        name: "Unbirthday Cake"
+        description: "Cake for celebrating unbirthday"
+        significance: "Celebrates nonsense logic"
+        frequency: "364 days a year (not birthday)"
+
+    literaryDevices:
+      caucusRaceStarter:
+        name: "Caucus Race"
+        description: "Race where everyone runs in circle"
+        rules: "No clear starting point, everyone wins"
+        significance: "Represents pointless political activity"
+        prize: "Alice must provide prizes for all"
+
+      mockTurtlesSoup:
+        name: "Mock Turtle Soup"
+        description: "Soup made from Mock Turtle"
+        significance: "Play on words (mock turtle soup = calf's head soup)"
+        context: "Mock Turtle's melancholy story"
+
+      looking glassBook:
+        name: "Sister's Book"
+        description: "Book with no pictures or conversations"
+        significance: "Represents boring adult literature"
+        contrast: "Alice prefers books with pictures and dialogue"
+        role: "Catalyst for Alice's adventure wish"
+
+visualConsistency:
+  colorPalette:
+    primary: ["warm pastels", "soft earth tones", "gentle blues and greens"]
+    secondary: ["bright accent colors for details"]
+    background: "soft washes or textured paper"
+    saturation: "medium, slightly muted"
+    contrast: "gentle, no harsh transitions"
+
+  artStyle:
+    lineArt:
+      style: "soft, organic lines"
+      weight: "varied, hand-drawn quality"
+      color: "brown or dark color, not pure black"
+      texture: "slightly rough, pencil-like"
+      edgeTreatment: "gentle, rounded forms"
+    rendering:
+      technique: "mixed media appearance"
+      texture: "visible paper texture, soft brushwork"
+      detailLevel: "simplified but expressive"
+      finish: "matte with gentle textures"
+    stylePrecedents: ["Quentin Blake", "Maurice Sendak", "Beatrix Potter"]
+
+  lighting:
+    countryside: "Warm golden sunlight filtering through oak leaves"
+    rabbitHole: "Natural light fading, mysterious ethereal glow"
+    wonderland: "Soft magical lighting with no identifiable source"
+    resolution: "Golden hour light, peaceful evening light"
+
+  technicalSpecifications:
+    resolution:
+      aspectRatio: "9:16"
+      minWidth: 1080
+      minHeight: 1920
+      unit: "pixels"
+    orientation: "Portrait/Vertical"

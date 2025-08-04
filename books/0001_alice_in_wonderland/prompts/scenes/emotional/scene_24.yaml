@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "New Equilibrium"
+  setting:
+    time: "1860s Victorian England, evening approaching"
+    location: "English countryside meadow, 1860s Victorian era, rolling hills with ancient oak trees, wildflower fields"
+    weather: "Soft evening light, peaceful conclusion of day"
+  characters:
+    - appearance: "Young girl, approximately 7-10 years old, shoulder-length blonde hair with straight-cut bangs, curious blue eyes, fair complexion with rosy cheeks"
+      clothing: "Blue dress with white pinafore apron, white stockings, black Mary Jane shoes, hair ribbon blue"
+      position: "Standing beside tree, ready to head home"
+      action: "Alert and inquisitive posture, often leaning forward with curiosity, now with quiet confidence and inner peace"
+  scene:
+    mainElements: "Pastoral landscape with stone walls, grazing sheep, distant church spire, babbling brook"
+    details: "Alice gathering her things with deliberate care, countryside taking on evening calm, sense of completion and readiness for what comes next, inner transformation integrated into daily life, peaceful acceptance of both wonder and reality"
+    background: "Familiar hills and meadows in peaceful evening light"
+    atmosphere: "Peaceful, idyllic afternoon setting with warm golden sunlight filtering through oak leaves, stable new sense of self and place in world"
+  composition:
+    cameraAngle: "Medium shot showing Alice's integration of experience"
+    focus: "Alice's quiet confidence and readiness for future adventures"
+    depth: "Confident Alice in foreground, peaceful meadow in middle ground, enduring countryside in background"
