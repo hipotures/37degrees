@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Boxer's Betrayal - The Knacker's Van"
+  setting:
+    time: "Early 20th century English countryside, afternoon of ultimate betrayal"
+    location: "Central courtyard area of English farm, scene of loyal worker's final betrayal by leadership"
+    weather: "Clear afternoon exposing horrific betrayal"
+  characters:
+    - appearance: "Enormous cart-horse, nearly eighteen hands high, white stripe down nose, weakened but still loyal, brown coat, trusting expression despite betrayal"
+      clothing: "Natural animal appearance, no clothing"
+      position: "Being loaded into horse slaughter truck"
+      action: "Realizing betrayal too late, trying to escape from knacker's van with remaining strength"
+    - appearance: "White goat, literate animal, intelligent expression, middle-aged, neat appearance"
+      clothing: "Natural animal appearance, no clothing"
+      position: "Reading truck lettering with horror"
+      action: "Discovering and announcing that truck belongs to horse slaughterer, not veterinarian"
+  scene:
+    mainElements: "Horse slaughter truck, loading equipment, scene of ultimate betrayal of most loyal revolutionary"
+    details: "Most shocking betrayal as Napoleon sells Boxer to knacker for alcohol money. Loyal horse loaded into slaughter truck while being told he's going to veterinarian. Muriel reading truck lettering revealing horrible truth - 'Horse Slaughterer and Glue Boiler.' Other animals realizing their most dedicated comrade being murdered for pig profit. Ultimate symbol of totalitarian betrayal, no text or letters visible"
+    background: "Farmyard witnessing destruction of loyalty and trust through calculated murder"
+    atmosphere: "Horror, ultimate betrayal, revelation of leadership's complete corruption"
+  composition:
+    cameraAngle: "Dramatic shot capturing moment of betrayal revelation"
+    focus: "Boxer in slaughter truck while Muriel reveals horrible truth"
+    depth: "Foreground shows betrayed horse, middle ground features truck, background reveals shocked animals"

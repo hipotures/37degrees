@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: Early 20th century English countryside, emergency meeting following windmill destruction
+    location: Large wooden barn on English farm, traditional British farm construction now serving as propaganda center
+    weather: Cold atmosphere matching political climate
+  characters:
+  - appearance: Small, fat pig with very round cheeks, twinkling eyes, nimble movements, smooth appearance
+    clothing: Natural animal appearance, no clothing
+    position: Speaking from prominent position in barn
+    action: Delivering passionate speech blaming Snowball for windmill sabotage, gesticulating dramatically
+  - appearance: Flock of sheep, white woolly coats, simple expressions, herd mentality, various sizes
+    clothing: Natural animal appearance, no clothing
+    position: Clustered together, responding to propaganda
+    action: Bleating anti-Snowball slogans in unison, completely accepting blame narrative
+  scene:
+    mainElements: Wooden beams, hay storage, meeting space transformed into propaganda rally against absent enemy
+    details: Systematic scapegoating as Squealer blames Snowball for windmill destruction. Sheep immediately accepting and
+      chanting blame slogans while other animals gradually convinced by repeated lies. Creating invisible enemy to explain
+      all failures and unite animals behind Napoleon's leadership. Beginning of paranoid atmosphere where any problem blamed
+      on external saboteur, no text or letters visible
+    background: Barn interior serving as center for systematic misinformation and enemy creation
+    atmosphere: Paranoia, scapegoating, propaganda manipulation, creation of invisible enemy
+  composition:
+    cameraAngle: Medium shot capturing propaganda rally
+    focus: Squealer delivering blame speech while sheep provide enthusiastic support
+    depth: Foreground shows propagandist, middle ground features chanting sheep, background reveals accepting animals
+visualElements:
+  colorPalette:
+    primary:
+    - banner red
+    - sunny yellow
+    - sky blue
+    - white
+    secondary:
+    - earth colors (browns, greens)
+    - skin tones
+    - machinery grays
+    background: factories, fields, construction sites, bright sky
+    usageNotes: Palette is bright, optimistic and full of sunshine. Red is key symbolic color.
+    saturation: high, vivid
+    contrast: medium to high, but without dark, dramatic shadows
+  lineArt:
+    style: strong, academic drawing, clear contours
+    weight: confident, decisive
+    color: integrated with form
+    texture: smooth, clean
+    edgeTreatment: clear, sculptural edges
+  lighting:
+    type: bright, sunny, optimistic light
+    direction: usually from above, illuminating scene evenly
+    intensity: high, almost shadowless
+    shadows:
+      style: minimized, soft
+      color: natural, never black
+      opacity: light
+    highlights: bright, emphasizing health and strength of figures
+  rendering:
+    technique: academic oil painting, smooth, without visible brushstrokes
+    texture: realistic but idealized textures (e.g., clean work clothes)
+    detailLevel: high, with attention to machinery and portrait details
+    finish: smooth, polished
+  perspective: classical, monumental, often from low viewpoint to elevate figures
+  mood:
+    overall: heroic, optimistic, propagandistic
+    emotion: pride, work enthusiasm, faith in future, strength
+    tempo: dynamic, march-like
+    keywords:
+    - propagandistic
+    - heroic
+    - optimistic
+    - monumental
+    - ideological
+  stylePrecedents:
+  - Aleksandr Deyneka
+  - Isaak Brodsky
+  - Vera Mukhina (sculpture)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Pigs Wear Clothes"
+  setting:
+    time: "Early 20th century English countryside, morning of complete human transformation"
+    location: "Two-story English farmhouse, traditional rural architecture now serving as pig palace"
+    weather: "Bright morning revealing complete transformation"
+  characters:
+    - appearance: "Large, fierce-looking Berkshire boar, black coat with white markings, intimidating presence, heavy build, now wearing human clothing"
+      clothing: "Business suit typical of 1940s English gentleman, complete with jacket, trousers, and boots"
+      position: "Emerging from farmhouse dressed as human"
+      action: "Displaying complete adoption of human appearance and behavior"
+    - appearance: "Other pigs wearing various human garments - jackets, hats, boots"
+      clothing: "Human clothing of various styles from 1940s era"
+      position: "Following Napoleon's example in human dress"
+      action: "Parading in human attire, completing physical transformation into oppressor class"
+  scene:
+    mainElements: "Farmhouse entrance, human clothing and accessories, complete transformation of animal revolutionaries into human-like rulers"
+    details: "Ultimate betrayal as pigs adopt complete human appearance with clothing and accessories. Napoleon and other pigs wearing suits, boots, hats - everything that once symbolized oppression now worn by revolutionary leaders. Other animals witnessing complete transformation of their leaders into copies of former human oppressors. Revolutionary principles completely abandoned for human privilege and power, no text or letters visible"
+    background: "Farmhouse serving as dressing room for pig transformation into human appearance"
+    atmosphere: "Complete transformation, abandonment of animal identity, becoming the oppressor"
+  composition:
+    cameraAngle: "Wide shot showing complete visual transformation"
+    focus: "Pigs in human clothing emerging from farmhouse they once condemned"
+    depth: "Foreground shows transformed pigs, middle ground features farmhouse, background reveals watching animals"

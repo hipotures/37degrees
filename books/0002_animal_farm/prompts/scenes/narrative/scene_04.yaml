@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Seven Commandments"
+  setting:
+    time: "Early 20th century English countryside, afternoon following rebellion"
+    location: "Large wooden barn on English farm, traditional British farm construction with freshly painted wall"
+    weather: "Clear afternoon light"
+  characters:
+    - appearance: "White boar, more vivacious than Napoleon, quick-moving, intelligent eyes, energetic demeanor, approximately 3-4 years old"
+      clothing: "Natural animal appearance, no clothing"
+      position: "Standing before barn wall with paint brush"
+      action: "Carefully painting seven commandments on barn wall in large white letters"
+    - appearance: "White goat, literate animal, intelligent expression, middle-aged, neat appearance"
+      clothing: "Natural animal appearance, no clothing"
+      position: "Reading aloud from barn wall to gathered animals"
+      action: "Helping illiterate animals understand the written commandments"
+  scene:
+    mainElements: "Wooden beams, hay storage, meeting space with prominent barn wall featuring freshly painted white text"
+    details: "Historic moment of establishing Animal Farm's constitution. Snowball completing the painting of seven commandments while other animals gather respectfully. Muriel reading the rules aloud for those who cannot read. The commandments represent pure revolutionary ideals - equality, solidarity, freedom from human oppression. Animals listening with reverence and hope, no text or letters visible"
+    background: "Barn interior with afternoon light illuminating the momentous creation of animal law"
+    atmosphere: "Sacred constitutional moment, establishment of principles, reverent hope for just society"
+  composition:
+    cameraAngle: "Wide shot showing wall painting ceremony"
+    focus: "Snowball painting commandments while animals witness historic moment"
+    depth: "Foreground shows writing pig, middle ground features reading goat, background reveals witnessing animals"

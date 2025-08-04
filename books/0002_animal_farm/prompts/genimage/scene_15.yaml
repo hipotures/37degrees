@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: Early 20th century English countryside, terrifying afternoon purge
+    location: Central courtyard area of English farm, hub now transformed into execution ground
+    weather: Oppressive afternoon atmosphere, heavy with fear
+  characters:
+  - appearance: Nine enormous dogs, fierce expressions, trained attack animals, various breeds but all intimidating, muscular
+      builds
+    clothing: Natural animal appearance, no clothing
+    position: Surrounding confessing animals in threatening circle
+    action: Attacking and killing animals who confess to crimes on Napoleon's command
+  - appearance: Various farm animals - chickens, sheep, others - showing terror and desperation
+    clothing: Natural animal appearance, no clothing
+    position: Forced to confess in center of farmyard
+    action: Confessing to false crimes under torture and fear, then being executed
+  scene:
+    mainElements: Central meeting area transformed into scene of mass execution, blood and terror replacing democratic gathering
+    details: Horrific show trials as Napoleon eliminates suspected opposition through forced confessions and public executions.
+      Animals confessing to impossible crimes - working with Snowball, sabotaging farm, plotting against Napoleon. Dogs tearing
+      throats of confessors while other animals watch in terror. Atmosphere of paranoid dictatorship where any dissent means
+      death, no text or letters visible
+    background: Farmyard transformed from democratic meeting place to execution ground under totalitarian rule
+    atmosphere: Terror, mass murder, totalitarian purge, complete destruction of revolutionary ideals
+  composition:
+    cameraAngle: Wide shot showing scope of mass execution horror
+    focus: Dogs executing confessing animals while others watch in terror
+    depth: Foreground shows execution scene, middle ground features terrified witnesses, background reveals blood-stained
+      farmyard
+visualElements:
+  colorPalette:
+    primary:
+    - banner red
+    - sunny yellow
+    - sky blue
+    - white
+    secondary:
+    - earth colors (browns, greens)
+    - skin tones
+    - machinery grays
+    background: factories, fields, construction sites, bright sky
+    usageNotes: Palette is bright, optimistic and full of sunshine. Red is key symbolic color.
+    saturation: high, vivid
+    contrast: medium to high, but without dark, dramatic shadows
+  lineArt:
+    style: strong, academic drawing, clear contours
+    weight: confident, decisive
+    color: integrated with form
+    texture: smooth, clean
+    edgeTreatment: clear, sculptural edges
+  lighting:
+    type: bright, sunny, optimistic light
+    direction: usually from above, illuminating scene evenly
+    intensity: high, almost shadowless
+    shadows:
+      style: minimized, soft
+      color: natural, never black
+      opacity: light
+    highlights: bright, emphasizing health and strength of figures
+  rendering:
+    technique: academic oil painting, smooth, without visible brushstrokes
+    texture: realistic but idealized textures (e.g., clean work clothes)
+    detailLevel: high, with attention to machinery and portrait details
+    finish: smooth, polished
+  perspective: classical, monumental, often from low viewpoint to elevate figures
+  mood:
+    overall: heroic, optimistic, propagandistic
+    emotion: pride, work enthusiasm, faith in future, strength
+    tempo: dynamic, march-like
+    keywords:
+    - propagandistic
+    - heroic
+    - optimistic
+    - monumental
+    - ideological
+  stylePrecedents:
+  - Aleksandr Deyneka
+  - Isaak Brodsky
+  - Vera Mukhina (sculpture)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

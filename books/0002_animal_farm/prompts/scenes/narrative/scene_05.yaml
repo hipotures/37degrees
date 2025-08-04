@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Boxer's Dedication"
+  setting:
+    time: "Early 20th century English countryside, morning work session"
+    location: "Open grazing fields of English countryside farm, rolling green meadows, natural feeding grounds converted to work areas"
+    weather: "Bright morning with productive work atmosphere"
+  characters:
+    - appearance: "Enormous cart-horse, nearly eighteen hands high, white stripe down nose, tremendous muscular power, brown coat, loyal expression"
+      clothing: "Natural animal appearance, no clothing"
+      position: "Pulling heavy farm equipment across field"
+      action: "Working harder than ever before, pulling cart loaded with materials, sweating from enormous effort"
+    - appearance: "Stout motherly mare approaching middle life, chestnut coat, caring expression, matronly build"
+      clothing: "Natural animal appearance, no clothing"
+      position: "Working alongside Boxer in supporting role"
+      action: "Encouraging Boxer and other working animals, showing maternal care"
+  scene:
+    mainElements: "Grass fields, natural boundaries, traditional English pastoral landscape now buzzing with productive animal labor"
+    details: "Revolutionary work ethic in action as animals labor for themselves rather than humans. Boxer demonstrating tremendous dedication, working dawn to dusk with motto of working harder. Other animals inspired by his example. Heavy equipment, farm tools, materials for improvement projects scattered across field. Sweat and determination visible on working animals, no text or letters visible"
+    background: "Rolling English countryside with traditional farm boundaries, productive agricultural landscape"
+    atmosphere: "Dedicated productivity, revolutionary enthusiasm, collective labor for common good"
+  composition:
+    cameraAngle: "Dynamic action shot capturing labor intensity"
+    focus: "Boxer's enormous strength and dedication inspiring other animals"
+    depth: "Foreground shows straining horse, middle ground features supporting animals, background reveals productive farm landscape"

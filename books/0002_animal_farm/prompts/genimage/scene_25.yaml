@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: Early 20th century English countryside, final evening of complete transformation
+    location: Two-story English farmhouse window view from outside, traditional rural architecture now symbol of complete
+      betrayal
+    weather: Clear evening with perfect visibility for final revelation
+  characters:
+  - appearance: Large, fierce-looking Berkshire boar wearing formal human attire, appearance now virtually identical to human
+      companions
+    clothing: Complete formal human dress identical to human guests - formal evening wear, dinner jacket
+    position: Seated at table visible through farmhouse window
+    action: Engaged in heated argument with human guest, showing identical behavior
+  - appearance: Human farmers and businessmen indistinguishable from pig hosts in appearance and behavior
+    clothing: Formal attire matching pig hosts perfectly
+    position: Seated around table in heated discussion
+    action: Arguing with pigs as equals, behavior identical to pig hosts
+  - appearance: Various farm animals - horses, cows, sheep, chickens - excluded from power
+    clothing: Natural animal appearance, no clothing
+    position: Looking through farmhouse window from outside
+    action: Unable to distinguish between pig rulers and human oppressors
+  scene:
+    mainElements: Farmhouse window revealing dinner party, excluded animals observing from outside, complete fusion of pig
+      and human ruling classes
+    details: Final devastating revelation as other animals look through farmhouse window and cannot distinguish between pig
+      leaders and human oppressors. Napoleon and human farmers arguing over cards, their faces and behavior now identical.
+      Complete circle from animal revolution back to indistinguishable oppression. Revolutionary dream destroyed - new bosses
+      identical to old bosses, no text or letters visible
+    background: Farmhouse interior where pig and human ruling classes have become indistinguishable
+    atmosphere: Complete betrayal revealed, cyclical oppression, revolutionary failure
+  composition:
+    cameraAngle: Wide shot from animals' perspective looking into farmhouse
+    focus: Animals unable to distinguish between pig and human oppressors
+    depth: Foreground shows excluded animals, middle ground features window frame, background reveals indistinguishable rulers
+visualElements:
+  colorPalette:
+    primary:
+    - banner red
+    - sunny yellow
+    - sky blue
+    - white
+    secondary:
+    - earth colors (browns, greens)
+    - skin tones
+    - machinery grays
+    background: factories, fields, construction sites, bright sky
+    usageNotes: Palette is bright, optimistic and full of sunshine. Red is key symbolic color.
+    saturation: high, vivid
+    contrast: medium to high, but without dark, dramatic shadows
+  lineArt:
+    style: strong, academic drawing, clear contours
+    weight: confident, decisive
+    color: integrated with form
+    texture: smooth, clean
+    edgeTreatment: clear, sculptural edges
+  lighting:
+    type: bright, sunny, optimistic light
+    direction: usually from above, illuminating scene evenly
+    intensity: high, almost shadowless
+    shadows:
+      style: minimized, soft
+      color: natural, never black
+      opacity: light
+    highlights: bright, emphasizing health and strength of figures
+  rendering:
+    technique: academic oil painting, smooth, without visible brushstrokes
+    texture: realistic but idealized textures (e.g., clean work clothes)
+    detailLevel: high, with attention to machinery and portrait details
+    finish: smooth, polished
+  perspective: classical, monumental, often from low viewpoint to elevate figures
+  mood:
+    overall: heroic, optimistic, propagandistic
+    emotion: pride, work enthusiasm, faith in future, strength
+    tempo: dynamic, march-like
+    keywords:
+    - propagandistic
+    - heroic
+    - optimistic
+    - monumental
+    - ideological
+  stylePrecedents:
+  - Aleksandr Deyneka
+  - Isaak Brodsky
+  - Vera Mukhina (sculpture)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

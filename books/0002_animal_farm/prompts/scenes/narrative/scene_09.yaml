@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Windmill Debate"
+  setting:
+    time: "Early 20th century English countryside, winter evening meeting"
+    location: "Large wooden barn on English farm, traditional British farm construction serving as debate hall"
+    weather: "Cold winter evening, animals seeking warmth in barn"
+  characters:
+    - appearance: "White boar, more vivacious than Napoleon, quick-moving, intelligent eyes, energetic demeanor, approximately 3-4 years old"
+      clothing: "Natural animal appearance, no clothing"
+      position: "Standing at front of barn, presenting plans enthusiastically"
+      action: "Explaining windmill construction plans with passionate gestures and technical details"
+    - appearance: "Large, fierce-looking Berkshire boar, black coat with white markings, intimidating presence, heavy build, approximately 4 years old"
+      clothing: "Natural animal appearance, no clothing"
+      position: "Positioned opposite Snowball, radiating opposition"
+      action: "Dismissing windmill plans with contemptuous expression, undermining Snowball's proposal"
+  scene:
+    mainElements: "Wooden beams, hay storage, meeting space with animals divided into opposing factions supporting different leaders"
+    details: "Critical ideological debate splitting Animal Farm community. Snowball presenting visionary windmill plans for electrical power and improved conditions. Napoleon opposing with skeptical contempt, arguing for military defense instead. Animals clearly divided - some inspired by Snowball's progressive vision, others swayed by Napoleon's practical concerns. Tension building toward inevitable confrontation, no text or letters visible"
+    background: "Winter barn interior with animals seeking warmth while engaging in heated political debate"
+    atmosphere: "Political tension, ideological division, growing conflict between rival leaders"
+  composition:
+    cameraAngle: "Wide shot showing divided barn and competing leaders"
+    focus: "Snowball and Napoleon in opposing positions with animals choosing sides"
+    depth: "Foreground shows rival leaders, middle ground features divided animal audience, background reveals barn tension"

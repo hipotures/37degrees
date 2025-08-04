@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Battle of the Cowshed"
+  setting:
+    time: "Early 20th century English countryside, autumn afternoon"
+    location: "English countryside farm entrance and fields, traditional agricultural setting under attack"
+    weather: "Clear autumn day, good visibility for battle"
+  characters:
+    - appearance: "White boar, more vivacious than Napoleon, quick-moving, intelligent eyes, energetic demeanor, approximately 3-4 years old"
+      clothing: "Natural animal appearance, no clothing"
+      position: "Leading animal defense at front line of battle"
+      action: "Commanding animal forces, charging at human attackers with fierce determination"
+    - appearance: "Enormous cart-horse, nearly eighteen hands high, white stripe down nose, tremendous muscular power, brown coat, loyal expression"
+      clothing: "Natural animal appearance, no clothing"
+      position: "Fighting alongside Snowball against human invaders"
+      action: "Using powerful hooves to defend farm, striking at armed humans"
+  scene:
+    mainElements: "Farm entrance, defensive positions, battle formations with animals fighting against human invasion force"
+    details: "Critical battle defending Animal Farm's independence. Mr. Jones and neighboring farmers attempting to recapture farm with weapons and armed support. Snowball leading brave defense with military tactics while Boxer provides powerful physical combat. Animals fighting desperately to preserve their revolution. Weapons, tools, evidence of violent conflict scattered across battlefield, no text or letters visible"
+    background: "English countryside farm under attack, fields and buildings serving as battleground"
+    atmosphere: "Desperate defense, revolutionary survival, violence and determination"
+  composition:
+    cameraAngle: "Dynamic battle action shot"
+    focus: "Snowball and Boxer leading heroic defense against human counter-revolution"
+    depth: "Foreground shows fighting leaders, middle ground features battle action, background reveals farm under siege"

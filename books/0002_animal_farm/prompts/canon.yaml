@@ -1,0 +1,199 @@
+canon:
+  characters:
+    - id: "napoleon"
+      name: "Napoleon"
+      description_block: |
+        characters:
+          - appearance: "Large, fierce-looking Berkshire boar, black coat with white markings, intimidating presence, heavy build, approximately 4 years old"
+            clothing: "Natural animal appearance, no clothing"
+            posture: "Commanding stance, head held high, dominant body language"
+            
+    - id: "napoleon_clothed"
+      name: "Napoleon (In Human Clothes)"
+      description_block: |
+        characters:
+          - appearance: "Large, fierce-looking Berkshire boar, black coat with white markings, intimidating presence, heavy build, now wearing human clothing"
+            clothing: "Business suit typical of 1940s English gentleman, complete with jacket, trousers, and boots"
+            posture: "Commanding stance, head held high, dominant body language, walking upright on hind legs"
+            
+    - id: "napoleon_formal"
+      name: "Napoleon (Formal Attire)"
+      description_block: |
+        characters:
+          - appearance: "Large, fierce-looking Berkshire boar wearing formal human attire, appearance now virtually identical to human companions"
+            clothing: "Complete formal human dress identical to human guests - formal evening wear, dinner jacket"
+            posture: "Seated at table, human-like behavior, indistinguishable from human hosts"
+            
+    - id: "snowball"
+      name: "Snowball"
+      description_block: |
+        characters:
+          - appearance: "White boar, more vivacious than Napoleon, quick-moving, intelligent eyes, energetic demeanor, approximately 3-4 years old"
+            clothing: "Natural animal appearance, no clothing"
+            posture: "Dynamic, animated gestures when speaking, confident bearing"
+            
+    - id: "squealer"
+      name: "Squealer"
+      description_block: |
+        characters:
+          - appearance: "Small, fat pig with very round cheeks, twinkling eyes, nimble movements, smooth appearance"
+            clothing: "Natural animal appearance, no clothing"
+            posture: "Animated speaker, gesticulating with trotters, persuasive body language"
+            
+    - id: "squealer_clothed"
+      name: "Squealer (In Human Clothes)"
+      description_block: |
+        characters:
+          - appearance: "Small, fat pig with very round cheeks, twinkling eyes, nimble movements, now wearing human clothing"
+            clothing: "Human clothing of various styles from 1940s era - jacket, vest, accessories"
+            posture: "Walking upright on hind legs, gesticulating with human-like movements"
+            
+    - id: "boxer"
+      name: "Boxer"
+      description_block: |
+        characters:
+          - appearance: "Enormous cart-horse, nearly eighteen hands high, white stripe down nose, tremendous muscular power, brown coat, loyal expression"
+            clothing: "Natural animal appearance, no clothing"
+            posture: "Strong, steady stance, hardworking demeanor, head often lowered in concentration"
+            
+    - id: "clover"
+      name: "Clover"
+      description_block: |
+        characters:
+          - appearance: "Stout motherly mare approaching middle life, chestnut coat, caring expression, matronly build"
+            clothing: "Natural animal appearance, no clothing"
+            posture: "Protective stance, nurturing presence, gentle movements"
+            
+    - id: "benjamin"
+      name: "Benjamin"
+      description_block: |
+        characters:
+          - appearance: "Donkey, oldest animal on farm, bad-tempered and cynical, gray coat, unchanged appearance over years, wise eyes"
+            clothing: "Natural animal appearance, no clothing"
+            posture: "Skeptical stance, rarely showing emotion, observant but withdrawn"
+            
+    - id: "mollie"
+      name: "Mollie"
+      description_block: |
+        characters:
+          - appearance: "White mare, foolish and pretty, young adult, vain appearance, well-groomed white coat"
+            clothing: "Natural animal appearance, no clothing"
+            posture: "Preening behavior, self-absorbed movements, often admiring reflection"
+            
+    - id: "old_major"
+      name: "Old Major"
+      description_block: |
+        characters:
+          - appearance: "Middle White boar, twelve years old, majestic appearance despite age, wise and benevolent expression, respected bearing"
+            clothing: "Natural animal appearance, no clothing"
+            posture: "Dignified stance, commanding presence, paternal demeanor"
+            
+    - id: "moses"
+      name: "Moses the Raven"
+      description_block: |
+        characters:
+          - appearance: "Tame raven, black feathers, special pet of Mr. Jones, sleek appearance, mysterious demeanor"
+            clothing: "Natural animal appearance, no clothing"
+            posture: "Perched confidently, storytelling stance, mystical presence"
+            
+    - id: "dogs"
+      name: "Napoleon's Dogs"
+      description_block: |
+        characters:
+          - appearance: "Nine enormous dogs, fierce expressions, trained attack animals, various breeds but all intimidating, muscular builds"
+            clothing: "Natural animal appearance, no clothing"
+            posture: "Alert, aggressive stance, ready to attack on command, pack formation"
+            
+    - id: "sheep"
+      name: "The Sheep"
+      description_block: |
+        characters:
+          - appearance: "Flock of sheep, white woolly coats, simple expressions, herd mentality, various sizes"
+            clothing: "Natural animal appearance, no clothing"
+            posture: "Clustered together, following behavior, easily led"
+            
+    - id: "muriel"
+      name: "Muriel"
+      description_block: |
+        characters:
+          - appearance: "White goat, literate animal, intelligent expression, middle-aged, neat appearance"
+            clothing: "Natural animal appearance, no clothing"
+            posture: "Studious stance, often seen reading, thoughtful demeanor"
+            
+    - id: "mr_jones"
+      name: "Mr. Jones"
+      description_block: |
+        characters:
+          - appearance: "Man in 50s, farmer's build, weathered face from outdoor work, typical English countryside farmer appearance"
+            clothing: "Work clothes typical of 1920s-1940s English farmer - wool jacket, boots, cap"
+            posture: "Often drunk and negligent, careless movements, defeated posture after rebellion"
+
+  locations:
+    - id: "manor_farm"
+      name: "Manor Farm (Animal Farm)"
+      description_block: |
+        setting:
+          location: "English countryside farm in rural Hertfordshire-style landscape, pre-WWII era, typical British agricultural setting with traditional farm buildings"
+        mainElements: "Farmyard with various outbuildings, fields, pastures, traditional English farm architecture from early 20th century"
+        atmosphere: "Rural English countryside, agricultural community setting, initially peaceful then increasingly tense"
+        
+    - id: "big_barn"
+      name: "The Big Barn"
+      description_block: |
+        setting:
+          location: "Large wooden barn on English farm, main gathering hall for animals, traditional British farm construction"
+        mainElements: "Wooden beams, hay storage, meeting space, raised platform area for speakers, old-fashioned barn architecture"
+        atmosphere: "Sacred meeting place, democratic forum turned propaganda center, echoing with speeches and decisions"
+        
+    - id: "farmhouse"
+      name: "The Farmhouse"
+      description_block: |
+        setting:
+          location: "Two-story English farmhouse, traditional rural architecture, symbol of human authority on agricultural property"
+        mainElements: "Multiple rooms, kitchen, parlor, human furnishings, comfortable interior, represents luxury and power"
+        atmosphere: "Initially forbidden to animals, later becomes seat of pig power, symbol of corruption"
+        
+    - id: "windmill_site"
+      name: "The Windmill"
+      description_block: |
+        setting:
+          location: "Elevated ground on English farm, construction site and completed windmill, symbol of progress and labor"
+        mainElements: "Stone construction, mechanical equipment, represents industrial advancement and broken promises"
+        atmosphere: "Scene of backbreaking labor, repeated destruction and reconstruction, symbol of futile struggle"
+        
+    - id: "pasture"
+      name: "The Pasture"
+      description_block: |
+        setting:
+          location: "Open grazing fields of English countryside farm, rolling green meadows, natural feeding grounds"
+        mainElements: "Grass fields, natural boundaries, traditional English pastoral landscape, grazing areas"
+        atmosphere: "Natural freedom space, peaceful grazing area, represents simple animal life"
+        
+    - id: "farmyard"
+      name: "The Farmyard"
+      description_block: |
+        setting:
+          location: "Central courtyard area of English farm, hub of daily activity, surrounded by farm buildings"
+        mainElements: "Central meeting area, surrounded by barn, farmhouse, and outbuildings, work and social center"
+        atmosphere: "Daily activity center, site of announcements and conflicts, heart of farm community"
+
+  items:
+    - id: "seven_commandments"
+      name: "The Seven Commandments"
+      description_block: |
+        details: "White-painted text on barn wall, originally seven rules governing animal behavior, progressively altered and corrupted"
+        
+    - id: "flag"
+      name: "Animal Farm Flag"
+      description_block: |
+        details: "Green flag with white hoof and horn, symbol of Animal Farm rebellion, represents animal unity and freedom"
+        
+    - id: "napoleon_portrait"
+      name: "Napoleon's Portrait"
+      description_block: |
+        details: "Large painted portrait of Napoleon, symbol of personality cult and authoritarian leadership, displayed prominently"
+        
+    - id: "whip"
+      name: "Mr. Jones's Whip"
+      description_block: |
+        details: "Symbol of human oppression and cruelty, represents the old regime's violence against animals"

@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Early 20th century English countryside, night of secret alteration
+    location: Large wooden barn on English farm with commandments wall, site of revolutionary principles now being corrupted
+    weather: Dark night concealing illegal activity
+  characters:
+  - appearance: Small, fat pig with very round cheeks, twinkling eyes, nimble movements, smooth appearance
+    clothing: Natural animal appearance, no clothing
+    position: Standing before barn wall with painting materials
+    action: Secretly altering commandments under cover of darkness, changing fundamental revolutionary principles
+  - appearance: White goat, literate animal, intelligent expression, middle-aged, neat appearance
+    clothing: Natural animal appearance, no clothing
+    position: Approaching barn to read commandments as usual
+    action: Discovering changes to fundamental laws, showing confusion and concern
+  scene:
+    mainElements: Wooden beams, hay storage, commandments wall with evidence of recent alterations, systematic corruption
+      of revolutionary law
+    details: Secret alteration of sacred commandments to justify pig privileges. Squealer changing 'No animal shall sleep
+      in a bed' to 'No animal shall sleep in a bed with sheets' to excuse farmhouse occupation. Evidence of paint still wet,
+      rushed illegal changes. Muriel discovering alterations and struggling to understand how fundamental principles could
+      change, no text or letters visible
+    background: Barn interior where sacred revolutionary principles are being systematically corrupted
+    atmosphere: Corruption, illegal alteration, betrayal of founding principles
+  composition:
+    cameraAngle: Close shot focusing on illegal alteration activity
+    focus: Squealer changing commandments while Muriel discovers corruption
+    depth: Foreground shows altering pig, middle ground features paint evidence, background reveals confused goat
+visualElements:
+  colorPalette:
+    primary:
+    - banner red
+    - sunny yellow
+    - sky blue
+    - white
+    secondary:
+    - earth colors (browns, greens)
+    - skin tones
+    - machinery grays
+    background: factories, fields, construction sites, bright sky
+    usageNotes: Palette is bright, optimistic and full of sunshine. Red is key symbolic color.
+    saturation: high, vivid
+    contrast: medium to high, but without dark, dramatic shadows
+  lineArt:
+    style: strong, academic drawing, clear contours
+    weight: confident, decisive
+    color: integrated with form
+    texture: smooth, clean
+    edgeTreatment: clear, sculptural edges
+  lighting:
+    type: bright, sunny, optimistic light
+    direction: usually from above, illuminating scene evenly
+    intensity: high, almost shadowless
+    shadows:
+      style: minimized, soft
+      color: natural, never black
+      opacity: light
+    highlights: bright, emphasizing health and strength of figures
+  rendering:
+    technique: academic oil painting, smooth, without visible brushstrokes
+    texture: realistic but idealized textures (e.g., clean work clothes)
+    detailLevel: high, with attention to machinery and portrait details
+    finish: smooth, polished
+  perspective: classical, monumental, often from low viewpoint to elevate figures
+  mood:
+    overall: heroic, optimistic, propagandistic
+    emotion: pride, work enthusiasm, faith in future, strength
+    tempo: dynamic, march-like
+    keywords:
+    - propagandistic
+    - heroic
+    - optimistic
+    - monumental
+    - ideological
+  stylePrecedents:
+  - Aleksandr Deyneka
+  - Isaak Brodsky
+  - Vera Mukhina (sculpture)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

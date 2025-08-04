@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Squealer's Propaganda"
+  setting:
+    time: "Early 20th century English countryside, evening after Snowball's exile"
+    location: "Central courtyard area of English farm, hub of daily activity now controlled by Napoleon's regime"
+    weather: "Cold evening with oppressive atmosphere"
+  characters:
+    - appearance: "Small, fat pig with very round cheeks, twinkling eyes, nimble movements, smooth appearance"
+      clothing: "Natural animal appearance, no clothing"
+      position: "Standing prominently before confused and worried animals"
+      action: "Delivering persuasive speech, rewriting history of recent events with animated gestures"
+    - appearance: "Donkey, oldest animal on farm, bad-tempered and cynical, gray coat, unchanged appearance over years, wise eyes"
+      clothing: "Natural animal appearance, no clothing"
+      position: "Standing apart from other animals, observing skeptically"
+      action: "Watching propaganda with knowing cynicism, understanding but remaining silent"
+  scene:
+    mainElements: "Central meeting area surrounded by farm buildings, animals gathered to hear official explanation"
+    details: "First major propaganda session as Squealer rewrites reality. Explaining that Snowball was always a traitor, that Napoleon's violent takeover was necessary for animal safety. Confused animals accepting revised history despite witnessing different events. Benjamin watching with knowing skepticism but refusing to speak out. Beginning of systematic truth manipulation, no text or letters visible"
+    background: "Farmyard with buildings now under Napoleon's authoritarian control"
+    atmosphere: "Confusion, manipulation, beginning of systematic lies, erosion of truth"
+  composition:
+    cameraAngle: "Medium shot focusing on propaganda delivery"
+    focus: "Squealer manipulating confused animals while Benjamin observes cynically"
+    depth: "Foreground shows propagandist pig, middle ground features confused animals, background reveals skeptical donkey"

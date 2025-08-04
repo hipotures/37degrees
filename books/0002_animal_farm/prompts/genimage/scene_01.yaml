@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Early 20th century English countryside, late evening
+    location: Large wooden barn on English farm, traditional British farm construction
+    weather: Clear evening, stars visible through barn openings
+  characters:
+  - appearance: Middle White boar, twelve years old, majestic appearance despite age, wise and benevolent expression, respected
+      bearing
+    clothing: Natural animal appearance, no clothing
+    position: Elevated on raised platform in barn, commanding view of assembled animals
+    action: Delivering passionate speech about animal liberation and equality, gesturing with authority
+  scene:
+    mainElements: Wooden beams, hay storage, meeting space, raised platform area for speakers, old-fashioned barn architecture
+      filled with assembled farm animals listening intently
+    details: Animals of all species gathered in respectful silence - horses, cows, pigs, sheep, chickens, ducks. Moonlight
+      streaming through windows creates dramatic lighting. Old Major stands prominently on platform, his wise eyes reflecting
+      hope and determination. The barn atmosphere is electric with possibility and revolutionary fervor, no text or letters
+      visible
+    background: Traditional English barn interior with wooden support beams, stored hay bales, agricultural tools hanging
+      on walls
+    atmosphere: Sacred meeting place filled with hope and anticipation, revolutionary energy building among oppressed animals
+      hearing vision of freedom
+  composition:
+    cameraAngle: Wide establishing shot showing full barn and gathered animals
+    focus: Old Major on platform delivering speech to assembled animals below
+    depth: Foreground shows listening animals, middle ground features Old Major speaking, background reveals barn architecture
+      and moonlit openings
+visualElements:
+  colorPalette:
+    primary:
+    - banner red
+    - sunny yellow
+    - sky blue
+    - white
+    secondary:
+    - earth colors (browns, greens)
+    - skin tones
+    - machinery grays
+    background: factories, fields, construction sites, bright sky
+    usageNotes: Palette is bright, optimistic and full of sunshine. Red is key symbolic color.
+    saturation: high, vivid
+    contrast: medium to high, but without dark, dramatic shadows
+  lineArt:
+    style: strong, academic drawing, clear contours
+    weight: confident, decisive
+    color: integrated with form
+    texture: smooth, clean
+    edgeTreatment: clear, sculptural edges
+  lighting:
+    type: bright, sunny, optimistic light
+    direction: usually from above, illuminating scene evenly
+    intensity: high, almost shadowless
+    shadows:
+      style: minimized, soft
+      color: natural, never black
+      opacity: light
+    highlights: bright, emphasizing health and strength of figures
+  rendering:
+    technique: academic oil painting, smooth, without visible brushstrokes
+    texture: realistic but idealized textures (e.g., clean work clothes)
+    detailLevel: high, with attention to machinery and portrait details
+    finish: smooth, polished
+  perspective: classical, monumental, often from low viewpoint to elevate figures
+  mood:
+    overall: heroic, optimistic, propagandistic
+    emotion: pride, work enthusiasm, faith in future, strength
+    tempo: dynamic, march-like
+    keywords:
+    - propagandistic
+    - heroic
+    - optimistic
+    - monumental
+    - ideological
+  stylePrecedents:
+  - Aleksandr Deyneka
+  - Isaak Brodsky
+  - Vera Mukhina (sculpture)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

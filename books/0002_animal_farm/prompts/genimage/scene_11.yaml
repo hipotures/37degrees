@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Early 20th century English countryside, evening after Snowball's exile
+    location: Central courtyard area of English farm, hub of daily activity now controlled by Napoleon's regime
+    weather: Cold evening with oppressive atmosphere
+  characters:
+  - appearance: Small, fat pig with very round cheeks, twinkling eyes, nimble movements, smooth appearance
+    clothing: Natural animal appearance, no clothing
+    position: Standing prominently before confused and worried animals
+    action: Delivering persuasive speech, rewriting history of recent events with animated gestures
+  - appearance: Donkey, oldest animal on farm, bad-tempered and cynical, gray coat, unchanged appearance over years, wise
+      eyes
+    clothing: Natural animal appearance, no clothing
+    position: Standing apart from other animals, observing skeptically
+    action: Watching propaganda with knowing cynicism, understanding but remaining silent
+  scene:
+    mainElements: Central meeting area surrounded by farm buildings, animals gathered to hear official explanation
+    details: First major propaganda session as Squealer rewrites reality. Explaining that Snowball was always a traitor, that
+      Napoleon's violent takeover was necessary for animal safety. Confused animals accepting revised history despite witnessing
+      different events. Benjamin watching with knowing skepticism but refusing to speak out. Beginning of systematic truth
+      manipulation, no text or letters visible
+    background: Farmyard with buildings now under Napoleon's authoritarian control
+    atmosphere: Confusion, manipulation, beginning of systematic lies, erosion of truth
+  composition:
+    cameraAngle: Medium shot focusing on propaganda delivery
+    focus: Squealer manipulating confused animals while Benjamin observes cynically
+    depth: Foreground shows propagandist pig, middle ground features confused animals, background reveals skeptical donkey
+visualElements:
+  colorPalette:
+    primary:
+    - banner red
+    - sunny yellow
+    - sky blue
+    - white
+    secondary:
+    - earth colors (browns, greens)
+    - skin tones
+    - machinery grays
+    background: factories, fields, construction sites, bright sky
+    usageNotes: Palette is bright, optimistic and full of sunshine. Red is key symbolic color.
+    saturation: high, vivid
+    contrast: medium to high, but without dark, dramatic shadows
+  lineArt:
+    style: strong, academic drawing, clear contours
+    weight: confident, decisive
+    color: integrated with form
+    texture: smooth, clean
+    edgeTreatment: clear, sculptural edges
+  lighting:
+    type: bright, sunny, optimistic light
+    direction: usually from above, illuminating scene evenly
+    intensity: high, almost shadowless
+    shadows:
+      style: minimized, soft
+      color: natural, never black
+      opacity: light
+    highlights: bright, emphasizing health and strength of figures
+  rendering:
+    technique: academic oil painting, smooth, without visible brushstrokes
+    texture: realistic but idealized textures (e.g., clean work clothes)
+    detailLevel: high, with attention to machinery and portrait details
+    finish: smooth, polished
+  perspective: classical, monumental, often from low viewpoint to elevate figures
+  mood:
+    overall: heroic, optimistic, propagandistic
+    emotion: pride, work enthusiasm, faith in future, strength
+    tempo: dynamic, march-like
+    keywords:
+    - propagandistic
+    - heroic
+    - optimistic
+    - monumental
+    - ideological
+  stylePrecedents:
+  - Aleksandr Deyneka
+  - Isaak Brodsky
+  - Vera Mukhina (sculpture)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

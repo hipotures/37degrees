@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Boxer's Collapse"
+  setting:
+    time: "Early 20th century English countryside, tragic afternoon of loyal worker's breakdown"
+    location: "Elevated ground on English farm, construction site where loyal horse finally succumbs to overwork"
+    weather: "Harsh working conditions with oppressive atmosphere"
+  characters:
+    - appearance: "Enormous cart-horse, nearly eighteen hands high, white stripe down nose, tremendous muscular power now failing, brown coat, loyal expression filled with pain"
+      clothing: "Natural animal appearance, no clothing"
+      position: "Collapsed on ground, unable to rise"
+      action: "Struggling to get up, still trying to work despite physical breakdown, showing ultimate loyalty"
+    - appearance: "Stout motherly mare approaching middle life, chestnut coat, caring expression, matronly build"
+      clothing: "Natural animal appearance, no clothing"
+      position: "Kneeling beside fallen Boxer"
+      action: "Providing comfort and care, trying to help injured loyal friend"
+  scene:
+    mainElements: "Stone construction site, mechanical equipment, scene of backbreaking labor now witness to worker's collapse"
+    details: "Tragic breakdown of most loyal revolutionary as Boxer collapses from overwork. Enormous horse unable to rise despite tremendous effort, body finally failing after years of 'working harder' for Napoleon's projects. Clover providing comfort while other animals gather in concern. Symbol of working class exploitation and betrayal by leadership who demanded impossible sacrifice, no text or letters visible"
+    background: "Construction site where loyal worker's dedication finally destroys his health"
+    atmosphere: "Tragedy, exploitation revealed, consequence of ruthless leadership demands"
+  composition:
+    cameraAngle: "Close shot emphasizing tragedy of loyal worker's collapse"
+    focus: "Fallen Boxer receiving comfort from Clover while still trying to work"
+    depth: "Foreground shows collapsed horse, middle ground features caring mare, background reveals construction site"

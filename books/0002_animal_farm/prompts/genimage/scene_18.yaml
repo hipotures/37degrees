@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: Early 20th century English countryside, morning of revolutionary betrayal
+    location: English countryside farm entrance where human traders arrive, boundary between animal and human worlds
+    weather: Clear morning exposing forbidden collaboration
+  characters:
+  - appearance: Large, fierce-looking Berkshire boar, black coat with white markings, intimidating presence, heavy build,
+      approximately 4 years old
+    clothing: Natural animal appearance, no clothing
+    position: Meeting with human traders at farm entrance
+    action: Negotiating business deals with humans, violating fundamental revolutionary principle
+  - appearance: Human traders and neighbors in business attire from 1940s era
+    clothing: Business suits, hats, typical commercial dress of the period
+    position: Conducting business with pigs
+    action: Trading goods and materials, treating pigs as equals in business
+  scene:
+    mainElements: Farm entrance, trading vehicles, commercial goods, evidence of business relationships with forbidden human
+      world
+    details: Fundamental betrayal as Napoleon conducts business with human neighbors, violating core revolutionary principle
+      against human contact. Trucks loaded with goods, commercial paperwork, evidence of regular trading relationship. Pigs
+      negotiating as equals with humans while other animals forbidden such contact. Revolutionary isolation broken for pig
+      profit, no text or letters visible
+    background: Farm boundary where animal and human worlds meet in forbidden commercial relationship
+    atmosphere: Betrayal, commercial corruption, abandonment of revolutionary principles
+  composition:
+    cameraAngle: Wide shot showing scale of commercial betrayal
+    focus: Pigs conducting forbidden business with human traders
+    depth: Foreground shows negotiating pigs, middle ground features human traders, background reveals commercial vehicles
+visualElements:
+  colorPalette:
+    primary:
+    - banner red
+    - sunny yellow
+    - sky blue
+    - white
+    secondary:
+    - earth colors (browns, greens)
+    - skin tones
+    - machinery grays
+    background: factories, fields, construction sites, bright sky
+    usageNotes: Palette is bright, optimistic and full of sunshine. Red is key symbolic color.
+    saturation: high, vivid
+    contrast: medium to high, but without dark, dramatic shadows
+  lineArt:
+    style: strong, academic drawing, clear contours
+    weight: confident, decisive
+    color: integrated with form
+    texture: smooth, clean
+    edgeTreatment: clear, sculptural edges
+  lighting:
+    type: bright, sunny, optimistic light
+    direction: usually from above, illuminating scene evenly
+    intensity: high, almost shadowless
+    shadows:
+      style: minimized, soft
+      color: natural, never black
+      opacity: light
+    highlights: bright, emphasizing health and strength of figures
+  rendering:
+    technique: academic oil painting, smooth, without visible brushstrokes
+    texture: realistic but idealized textures (e.g., clean work clothes)
+    detailLevel: high, with attention to machinery and portrait details
+    finish: smooth, polished
+  perspective: classical, monumental, often from low viewpoint to elevate figures
+  mood:
+    overall: heroic, optimistic, propagandistic
+    emotion: pride, work enthusiasm, faith in future, strength
+    tempo: dynamic, march-like
+    keywords:
+    - propagandistic
+    - heroic
+    - optimistic
+    - monumental
+    - ideological
+  stylePrecedents:
+  - Aleksandr Deyneka
+  - Isaak Brodsky
+  - Vera Mukhina (sculpture)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

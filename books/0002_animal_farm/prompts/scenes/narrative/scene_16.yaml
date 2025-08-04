@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Napoleon Moves to the Farmhouse"
+  setting:
+    time: "Early 20th century English countryside, symbolic evening of power consolidation"
+    location: "Two-story English farmhouse, traditional rural architecture, symbol of human authority now claimed by pigs"
+    weather: "Evening twilight symbolizing end of revolutionary equality"
+  characters:
+    - appearance: "Large, fierce-looking Berkshire boar, black coat with white markings, intimidating presence, heavy build, approximately 4 years old"
+      clothing: "Natural animal appearance, no clothing"
+      position: "Walking into farmhouse as new occupant"
+      action: "Taking possession of human dwelling, claiming privileges once forbidden to all animals"
+    - appearance: "Small, fat pig with very round cheeks, twinkling eyes, nimble movements, smooth appearance"
+      clothing: "Natural animal appearance, no clothing"
+      position: "Following Napoleon into farmhouse"
+      action: "Justifying pig occupation with elaborate explanations to confused animals outside"
+  scene:
+    mainElements: "Multiple rooms, kitchen, parlor, human furnishings representing luxury and power previously forbidden to animals"
+    details: "Symbolic betrayal as Napoleon claims farmhouse once forbidden to all animals by revolutionary principles. Pigs moving into human dwelling while other animals remain in barn and fields. Squealer explaining necessity of pig comfort for leadership duties. Breaking of fundamental commandment about equality between species. Clear establishment of new ruling class, no text or letters visible"
+    background: "English farmhouse interior with comfortable human furnishings now serving pig elite"
+    atmosphere: "Betrayal, class division, abandonment of revolutionary equality principles"
+  composition:
+    cameraAngle: "Medium shot showing pigs claiming human privileges"
+    focus: "Napoleon entering farmhouse while other animals remain outside"
+    depth: "Foreground shows pigs entering luxury, middle ground features explaining propagandist, background reveals excluded animals"

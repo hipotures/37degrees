@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Early 20th century English countryside, late summer harvest time
+    location: Central courtyard area of English farm, hub of daily activity, surrounded by farm buildings decorated for celebration
+    weather: Golden late summer evening, perfect harvest weather
+  characters:
+  - appearance: Flock of sheep, white woolly coats, simple expressions, herd mentality, various sizes
+    clothing: Natural animal appearance, no clothing
+    position: Gathered in celebration formation in farmyard
+    action: Bleating in unison, participating in harvest celebration song
+  - appearance: Various farm animals - horses, cows, pigs, chickens, ducks - showing collective joy
+    clothing: Natural animal appearance, no clothing
+    position: Arranged throughout farmyard in celebratory gathering
+    action: Singing, celebrating successful harvest achieved through their own labor
+  scene:
+    mainElements: Central meeting area, surrounded by barn, farmhouse, and outbuildings, decorated with harvest abundance
+    details: First harvest celebration under animal rule showing remarkable success. Piles of grain, vegetables, and farm
+      produce visible everywhere - evidence of productive collective labor. Animals of all species participating in joyful
+      celebration. Sheep bleating patriotic songs while other animals join in chorus. Atmosphere of achievement and unity,
+      collective pride in self-governance, no text or letters visible
+    background: Farm buildings with harvest decorations, evening light creating golden celebration atmosphere
+    atmosphere: Triumphant celebration, collective achievement, revolutionary success and unity
+  composition:
+    cameraAngle: Wide celebration shot showing entire community gathering
+    focus: Animals celebrating successful harvest achieved through collective effort
+    depth: Foreground shows celebrating sheep, middle ground features diverse animal community, background reveals productive
+      farm
+visualElements:
+  colorPalette:
+    primary:
+    - banner red
+    - sunny yellow
+    - sky blue
+    - white
+    secondary:
+    - earth colors (browns, greens)
+    - skin tones
+    - machinery grays
+    background: factories, fields, construction sites, bright sky
+    usageNotes: Palette is bright, optimistic and full of sunshine. Red is key symbolic color.
+    saturation: high, vivid
+    contrast: medium to high, but without dark, dramatic shadows
+  lineArt:
+    style: strong, academic drawing, clear contours
+    weight: confident, decisive
+    color: integrated with form
+    texture: smooth, clean
+    edgeTreatment: clear, sculptural edges
+  lighting:
+    type: bright, sunny, optimistic light
+    direction: usually from above, illuminating scene evenly
+    intensity: high, almost shadowless
+    shadows:
+      style: minimized, soft
+      color: natural, never black
+      opacity: light
+    highlights: bright, emphasizing health and strength of figures
+  rendering:
+    technique: academic oil painting, smooth, without visible brushstrokes
+    texture: realistic but idealized textures (e.g., clean work clothes)
+    detailLevel: high, with attention to machinery and portrait details
+    finish: smooth, polished
+  perspective: classical, monumental, often from low viewpoint to elevate figures
+  mood:
+    overall: heroic, optimistic, propagandistic
+    emotion: pride, work enthusiasm, faith in future, strength
+    tempo: dynamic, march-like
+    keywords:
+    - propagandistic
+    - heroic
+    - optimistic
+    - monumental
+    - ideological
+  stylePrecedents:
+  - Aleksandr Deyneka
+  - Isaak Brodsky
+  - Vera Mukhina (sculpture)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical
