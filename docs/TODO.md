@@ -35,3 +35,13 @@ The automation process for generating images from the 0031_solaris scene_23.json
 2. Łatwiejszy dostęp do wygenerowanych obrazów
 3. Możliwość ponownego wygenerowania konkretnej sceny
 4. Eliminacja błędów związanych z nazwami chatów i szukania chatów
+
+
+#### Programowa obsługa TODO
+0. Primery key Project_id
+1. Podaj pierwszy TODO do zrobienia
+2. Podaj zrobione
+3. Podaj niezrobione
+4. Update pozycji TODO
+5. Append to TODO
+6. Clear all states for TODO

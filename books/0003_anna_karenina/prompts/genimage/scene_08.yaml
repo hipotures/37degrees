@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: 1870s imperial Russia, afternoon, spring
+    location: Major railway terminal in 1870s imperial Moscow, grand architecture with high iron and glass roof, steam-filled
+      platforms
+    weather: Industrial smoke mixing with natural mist
+  characters:
+  - appearance: Woman, early 30s, strikingly beautiful, dark hair elegantly arranged, aristocratic bearing with graceful neck
+      and shoulders, expressive dark eyes, pale complexion
+    clothing: Rich fabrics in deep colors, fashionable 1870s Russian aristocratic dress with fitted bodice, full skirt, fine
+      jewelry, fur stole or velvet cloak
+    position: Standing on platform near railway tracks
+    action: Turning suddenly with startled expression, hand pressed to chest in shock
+  - appearance: Man, late 20s, handsome military officer, tall athletic build, dark mustache, confident bearing, aristocratic
+      features
+    clothing: Military uniform with polished buttons and insignia, or elegant civilian attire appropriate to 1870s Russian
+      nobility
+    position: Approaching on platform, having just stepped from train
+    action: Moving forward with sudden intense focus, gaze locked on woman
+  scene:
+    mainElements: Railway tracks disappearing into distance, steam locomotives with black smoke, wooden platform structures,
+      crowds of travelers. Black iron locomotive with billowing steam and smoke, represents destructive force of industrial
+      modernity crushing traditional Russian life, symbol of fate and inevitable tragedy
+    details: Steam hissing from train engines, passengers with luggage hurrying past, railway workers in dark uniforms. Sound
+      of metal wheels on tracks, smell of coal smoke and hot metal
+    background: High iron and glass roof structure, industrial architecture dominating traditional Russian landscape, sense
+      of modernity imposing on old world
+    atmosphere: Industrial modernity imposing on traditional Russian life, sense of fateful encounter, ominous undertone of
+      mechanical power. Electric moment of recognition and attraction
+  composition:
+    cameraAngle: Medium shot capturing moment of first meeting
+    focus: Two figures recognizing each other across crowded platform, representing emotional shift beginning
+    depth: 'Foreground: main characters meeting, middle ground: other travelers, background: massive industrial train station'
+visualElements:
+  colorPalette:
+    primary:
+    - jewel-like reds
+    - vibrant greens
+    - deep blues
+    - rich purples
+    secondary:
+    - gold
+    - ivory
+    - orange
+    background: highly detailed natural or interior settings
+    usageNotes: Luminous, saturated colors applied over a wet white ground to enhance brightness.
+    saturation: very high
+    contrast: high, due to sharp details and bright colors
+  lineArt:
+    style: sharp, clear, and precise outlines
+    weight: thin and controlled
+    color: often integrated, but forms are clearly delineated
+    texture: smooth application of paint
+    edgeTreatment: crisp, sharp edges
+  lighting:
+    type: bright, even, almost shadowless lighting
+    direction: often frontal, illuminating every detail clearly
+    intensity: high and clear
+    shadows:
+      style: minimal and detailed, not broad or dark
+      color: colored with local tones, not black
+      opacity: light
+    highlights: sharp and precise
+  rendering:
+    technique: meticulous oil painting with fine brushes, "truth to nature"
+    texture: extreme attention to the texture of fabrics, hair, and foliage
+    detailLevel: extremely high, every part of the canvas is detailed
+    finish: smooth, enamel-like surface
+  perspective: sometimes flattened or unconventional to fit complex compositions
+  mood:
+    overall: romantic, symbolic, earnest
+    emotion: melancholy, love, tragedy, spirituality
+    tempo: static, contemplative
+    keywords:
+    - detailed
+    - luminous
+    - symbolic
+    - romantic
+    - medieval
+  stylePrecedents:
+  - John Everett Millais
+  - Dante Gabriel Rossetti
+  - William Holman Hunt
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

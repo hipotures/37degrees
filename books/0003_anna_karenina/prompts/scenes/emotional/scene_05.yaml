@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Comfortable Evening Reading"
+  setting:
+    time: "1870s imperial Russia, evening, spring"
+    location: "Private study in St. Petersburg aristocratic mansion, book-lined room with comfortable furnishings"
+    weather: "Calm evening"
+  characters:
+    - appearance: "Woman, early 30s, strikingly beautiful, dark hair elegantly arranged, aristocratic bearing with graceful neck and shoulders, expressive dark eyes, pale complexion"
+      clothing: "Rich fabrics in deep colors, fashionable 1870s Russian aristocratic dress with fitted bodice, full skirt, fine jewelry, fur stole or velvet cloak"
+      position: "Seated in upholstered reading chair beside table lamp"
+      action: "Reading leather-bound novel with absorbed concentration, occasionally turning pages"
+  scene:
+    mainElements: "Leather-bound novel in French or Russian, pages marked with ribbon bookmark, represents Anna's intellectual hunger and dissatisfaction with empty social life. Floor-to-ceiling bookshelves, comfortable reading furniture, writing desk with papers"
+    details: "Wax candle with dancing flame that flares and dies, metaphor for Anna's life - burning brightly with passion before being extinguished, represents the conflict between reason and emotion. Oil lamp casting warm circle of light, Persian rug underfoot, family photographs on side table"
+    background: "Windows with heavy curtains drawn against night, oil paintings of landscapes, carved wooden ceiling"
+    atmosphere: "Intellectual solitude and quiet contemplation, sense of seeking something beyond current life, restless mind finding temporary peace in literature"
+  composition:
+    cameraAngle: "Intimate close-medium shot emphasizing solitary concentration"
+    focus: "Woman absorbed in reading, representing baseline emotional state of intelligent restlessness"
+    depth: "Foreground: reading figure and book, middle ground: immediate furniture and lamp, background: room's scholarly atmosphere"

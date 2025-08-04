@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Shadows Lengthening in Drawing Room"
+  setting:
+    time: "1870s imperial Russia, late afternoon, spring"
+    location: "Elegant drawing room in aristocratic St. Petersburg mansion, imperial capital under Tsar Alexander II"
+    weather: "Overcast afternoon with diminishing light"
+  characters:
+    - appearance: "Woman, early 30s, strikingly beautiful, dark hair elegantly arranged, aristocratic bearing with graceful neck and shoulders, expressive dark eyes, pale complexion"
+      clothing: "Rich fabrics in deep colors, fashionable 1870s Russian aristocratic dress with fitted bodice, full skirt, fine jewelry, fur stole or velvet cloak"
+      position: "Seated alone in ornate armchair, no longer engaged in conversation"
+      action: "Staring out window with distant expression, fingers drumming restlessly on chair arm"
+    - appearance: "Man, early 40s, tall thin frame, prominent ears, balding forehead, pale complexion, cold calculating eyes, bureaucratic demeanor"
+      clothing: "Dark formal government official attire, high starched collar, black suit befitting senior civil servant"
+      position: "Standing at opposite end of room, reading official documents"
+      action: "Absorbed in paperwork, paying no attention to wife's emotional state"
+  scene:
+    mainElements: "Ornate furniture in French style, crystal chandeliers, Persian carpets, gilt-framed mirrors, elaborate wall decorations. Afternoon shadows growing longer across room, fewer guests present"
+    details: "Candles not yet lit creating pools of gathering darkness, mirrors reflecting diminished light, fresh flowers beginning to wilt in vases. Empty teacups on side tables"
+    background: "Windows showing gray afternoon sky, heavy curtains partially drawn, room feeling less welcoming than earlier"
+    atmosphere: "Growing emotional distance between married couple, artificial sophistication beginning to feel hollow, restlessness stirring beneath polished surface"
+  composition:
+    cameraAngle: "Medium wide shot emphasizing physical and emotional separation"
+    focus: "Woman's growing dissatisfaction contrasted with husband's indifference"
+    depth: "Foreground: woman in contemplation, middle ground: empty social space, background: husband absorbed in work"

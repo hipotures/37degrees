@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Suffocating Social Isolation"
+  setting:
+    time: "1870s imperial Russia, evening, summer"
+    location: "Elegant drawing room in aristocratic St. Petersburg mansion, imperial capital under Tsar Alexander II"
+    weather: "Oppressive humid evening"
+  characters:
+    - appearance: "Woman, early 30s, strikingly beautiful, dark hair elegantly arranged, aristocratic bearing with graceful neck and shoulders, expressive dark eyes, pale complexion"
+      clothing: "Rich fabrics in deep colors, fashionable 1870s Russian aristocratic dress with fitted bodice, full skirt, fine jewelry, fur stole or velvet cloak"
+      position: "Standing alone in center of room while others gather in distant corners"
+      action: "Clutching fan tightly, eyes darting between groups that pointedly exclude her"
+  scene:
+    mainElements: "Ornate furniture in French style, crystal chandeliers, Persian carpets, gilt-framed mirrors, elaborate wall decorations. Guests deliberately maintaining distance, conversations stopping when she approaches"
+    details: "Whispers behind fans, averted gazes, empty chairs around where she stands. Candles flickering in mirrors showing her isolation from multiple angles"
+    background: "Grand windows now feeling like prison walls, heavy curtains seeming to close in, room atmosphere becoming claustrophobic"
+    atmosphere: "Crushing social ostracism, walls of judgment closing in, artificial sophistication turned weapon of exclusion, suffocating pressure of public condemnation"
+  composition:
+    cameraAngle: "Wide shot emphasizing isolation within crowded room"
+    focus: "Woman surrounded by hostile social space, representing building pressure toward breaking point"
+    depth: "Foreground: isolated woman, middle ground: hostile social groups, background: oppressive room architecture"

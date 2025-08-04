@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1870s imperial Russia, early morning, spring
+    location: Moscow province aristocratic estate, manor house with surrounding gardens and birch forest
+    weather: Gentle spring morning with soft sunlight filtering through trees
+  characters:
+  - appearance: Man, early 30s, tall robust build, curly brown hair, beard, weathered hands from farm work, earnest intelligent
+      eyes
+    clothing: Country gentleman attire, practical clothing suitable for estate management, earth-toned fabrics
+    position: Standing on wooden veranda of manor house, looking out over estate lands
+    action: Breathing deeply while observing the awakening countryside, hands resting on wooden railing
+  scene:
+    mainElements: Large wooden house with verandas, farm buildings, fields of grain, forest paths, peasant villages nearby.
+      Morning mist rising from fields, birds singing in birch trees
+    details: Dewdrops on grass catch early sunlight, smoke rises from peasant chimneys in distance, farm workers beginning
+      daily routines. Wooden shutters open on manor house windows. Garden flowers beginning to bloom with spring colors
+    background: Rolling countryside stretches to horizon, dominated by birch forest and agricultural fields, traditional Russian
+      landscape untouched by modern development
+    atmosphere: Deep tranquility and harmony with natural rhythms, sense of being rooted in authentic Russian soil, spiritual
+      peace through connection to land
+  composition:
+    cameraAngle: Wide establishing shot from slightly elevated position
+    focus: Man in harmony with natural surroundings, representing baseline emotional contentment
+    depth: 'Foreground: man on veranda, middle ground: estate buildings and gardens, background: endless Russian countryside'
+visualElements:
+  colorPalette:
+    primary:
+    - jewel-like reds
+    - vibrant greens
+    - deep blues
+    - rich purples
+    secondary:
+    - gold
+    - ivory
+    - orange
+    background: highly detailed natural or interior settings
+    usageNotes: Luminous, saturated colors applied over a wet white ground to enhance brightness.
+    saturation: very high
+    contrast: high, due to sharp details and bright colors
+  lineArt:
+    style: sharp, clear, and precise outlines
+    weight: thin and controlled
+    color: often integrated, but forms are clearly delineated
+    texture: smooth application of paint
+    edgeTreatment: crisp, sharp edges
+  lighting:
+    type: bright, even, almost shadowless lighting
+    direction: often frontal, illuminating every detail clearly
+    intensity: high and clear
+    shadows:
+      style: minimal and detailed, not broad or dark
+      color: colored with local tones, not black
+      opacity: light
+    highlights: sharp and precise
+  rendering:
+    technique: meticulous oil painting with fine brushes, "truth to nature"
+    texture: extreme attention to the texture of fabrics, hair, and foliage
+    detailLevel: extremely high, every part of the canvas is detailed
+    finish: smooth, enamel-like surface
+  perspective: sometimes flattened or unconventional to fit complex compositions
+  mood:
+    overall: romantic, symbolic, earnest
+    emotion: melancholy, love, tragedy, spirituality
+    tempo: static, contemplative
+    keywords:
+    - detailed
+    - luminous
+    - symbolic
+    - romantic
+    - medieval
+  stylePrecedents:
+  - John Everett Millais
+  - Dante Gabriel Rossetti
+  - William Holman Hunt
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

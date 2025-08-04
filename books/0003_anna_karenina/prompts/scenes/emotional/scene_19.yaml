@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Final Desperate Confrontation"
+  setting:
+    time: "1870s, evening, summer"
+    location: "Drawing room of rented villa in Italian countryside, Mediterranean architecture"
+    weather: "Oppressive evening heat with gathering storm clouds"
+  characters:
+    - appearance: "Woman, early 30s, strikingly beautiful, dark hair elegantly arranged, aristocratic bearing with graceful neck and shoulders, expressive dark eyes, pale complexion"
+      clothing: "Rich fabrics in deep colors, fashionable 1870s Russian aristocratic dress with fitted bodice, full skirt, fine jewelry, fur stole or velvet cloak"
+      position: "Standing in doorway, swaying slightly"
+      action: "Pointing accusingly while tears stream down face, voice raised in desperate fury"
+    - appearance: "Man, late 20s, handsome military officer, tall athletic build, dark mustache, confident bearing, aristocratic features"
+      clothing: "Military uniform with polished buttons and insignia, or elegant civilian attire appropriate to 1870s Russian nobility"
+      position: "Backing away with hands raised defensively"
+      action: "Turning toward exit with expression of exhausted resignation and growing fear"
+  scene:
+    mainElements: "Villa furniture overturned and scattered, broken glass on floor, papers and personal belongings thrown about in rage"
+    details: "Shattered mirror reflecting fragmented candlelight, curtains torn and hanging askew, wine stains on carpet. Lightning beginning to flash outside"
+    background: "Foreign villa architecture now feeling like prison, storm approaching through windows, sense of complete breakdown of civilization"
+    atmosphere: "Explosive final breakdown of relationship, all pretense and control abandoned, raw emotion and accusation destroying last bonds of connection"
+  composition:
+    cameraAngle: "Dramatic wide shot showing destruction and emotional violence"
+    focus: "Two figures in final moment of relationship destruction before ultimate tragedy"
+    depth: "Foreground: confronting figures, middle ground: destroyed room, background: approaching storm through villa windows"

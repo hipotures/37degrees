@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1870s, late afternoon, summer
+    location: Rented villa in Italian countryside near Rome, Mediterranean architecture with terraced gardens
+    weather: Intense Mediterranean heat creating oppressive atmosphere
+  characters:
+  - appearance: Woman, early 30s, strikingly beautiful, dark hair elegantly arranged, aristocratic bearing with graceful neck
+      and shoulders, expressive dark eyes, pale complexion
+    clothing: Rich fabrics in deep colors, fashionable 1870s Russian aristocratic dress with fitted bodice, full skirt, fine
+      jewelry, fur stole or velvet cloak
+    position: Pacing frantically on villa terrace, constantly looking toward gate
+    action: Wringing hands while watching road obsessively, starting at every sound
+  - appearance: Man, late 20s, handsome military officer, tall athletic build, dark mustache, confident bearing, aristocratic
+      features
+    clothing: Military uniform with polished buttons and insignia, or elegant civilian attire appropriate to 1870s Russian
+      nobility
+    position: Approaching villa gate from distance
+    action: Walking slowly up path, unaware of being watched with such intensity
+  scene:
+    mainElements: Stone villa with red tile roof, cypress trees, olive groves, distant mountains, formal gardens. Foreign
+      landscape offering no comfort to Russian souls
+    details: Mediterranean flowers wilting in heat, scattered letters on terrace table, half-empty wine glass abandoned. Shutters
+      closed against brutal sun
+    background: Italian countryside stretching endlessly, emphasizing exile from homeland, foreign beauty unable to heal emotional
+      wounds
+    atmosphere: Exile from Russian society, false paradise masking inner turmoil, foreign beauty unable to heal Russian souls.
+      Paranoid anxiety and obsessive jealousy consuming peace
+  composition:
+    cameraAngle: Medium shot emphasizing psychological tension
+    focus: Woman's mounting paranoia and desperate need for reassurance
+    depth: 'Foreground: agitated woman on terrace, middle ground: approaching figure, background: alien Italian landscape'
+visualElements:
+  colorPalette:
+    primary:
+    - jewel-like reds
+    - vibrant greens
+    - deep blues
+    - rich purples
+    secondary:
+    - gold
+    - ivory
+    - orange
+    background: highly detailed natural or interior settings
+    usageNotes: Luminous, saturated colors applied over a wet white ground to enhance brightness.
+    saturation: very high
+    contrast: high, due to sharp details and bright colors
+  lineArt:
+    style: sharp, clear, and precise outlines
+    weight: thin and controlled
+    color: often integrated, but forms are clearly delineated
+    texture: smooth application of paint
+    edgeTreatment: crisp, sharp edges
+  lighting:
+    type: bright, even, almost shadowless lighting
+    direction: often frontal, illuminating every detail clearly
+    intensity: high and clear
+    shadows:
+      style: minimal and detailed, not broad or dark
+      color: colored with local tones, not black
+      opacity: light
+    highlights: sharp and precise
+  rendering:
+    technique: meticulous oil painting with fine brushes, "truth to nature"
+    texture: extreme attention to the texture of fabrics, hair, and foliage
+    detailLevel: extremely high, every part of the canvas is detailed
+    finish: smooth, enamel-like surface
+  perspective: sometimes flattened or unconventional to fit complex compositions
+  mood:
+    overall: romantic, symbolic, earnest
+    emotion: melancholy, love, tragedy, spirituality
+    tempo: static, contemplative
+    keywords:
+    - detailed
+    - luminous
+    - symbolic
+    - romantic
+    - medieval
+  stylePrecedents:
+  - John Everett Millais
+  - Dante Gabriel Rossetti
+  - William Holman Hunt
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

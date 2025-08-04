@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Paranoid Jealousy in Italian Exile"
+  setting:
+    time: "1870s, late afternoon, summer"
+    location: "Rented villa in Italian countryside near Rome, Mediterranean architecture with terraced gardens"
+    weather: "Intense Mediterranean heat creating oppressive atmosphere"
+  characters:
+    - appearance: "Woman, early 30s, strikingly beautiful, dark hair elegantly arranged, aristocratic bearing with graceful neck and shoulders, expressive dark eyes, pale complexion"
+      clothing: "Rich fabrics in deep colors, fashionable 1870s Russian aristocratic dress with fitted bodice, full skirt, fine jewelry, fur stole or velvet cloak"
+      position: "Pacing frantically on villa terrace, constantly looking toward gate"
+      action: "Wringing hands while watching road obsessively, starting at every sound"
+    - appearance: "Man, late 20s, handsome military officer, tall athletic build, dark mustache, confident bearing, aristocratic features"
+      clothing: "Military uniform with polished buttons and insignia, or elegant civilian attire appropriate to 1870s Russian nobility"
+      position: "Approaching villa gate from distance"
+      action: "Walking slowly up path, unaware of being watched with such intensity"
+  scene:
+    mainElements: "Stone villa with red tile roof, cypress trees, olive groves, distant mountains, formal gardens. Foreign landscape offering no comfort to Russian souls"
+    details: "Mediterranean flowers wilting in heat, scattered letters on terrace table, half-empty wine glass abandoned. Shutters closed against brutal sun"
+    background: "Italian countryside stretching endlessly, emphasizing exile from homeland, foreign beauty unable to heal emotional wounds"
+    atmosphere: "Exile from Russian society, false paradise masking inner turmoil, foreign beauty unable to heal Russian souls. Paranoid anxiety and obsessive jealousy consuming peace"
+  composition:
+    cameraAngle: "Medium shot emphasizing psychological tension"
+    focus: "Woman's mounting paranoia and desperate need for reassurance"
+    depth: "Foreground: agitated woman on terrace, middle ground: approaching figure, background: alien Italian landscape"

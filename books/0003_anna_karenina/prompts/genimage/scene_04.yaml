@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1870s imperial Russia, evening, spring
+    location: Grand ballroom in Moscow aristocratic mansion, parquet floors and painted ceilings
+    weather: Clear evening
+  characters:
+  - appearance: Young woman, early 20s, blonde hair, fresh youthful beauty, bright expressive eyes, slender figure
+    clothing: Fashionable young lady's dress appropriate to Russian nobility, light colors, modest but elegant styling
+    position: Dancing in center of ballroom floor
+    action: Moving gracefully through waltz steps, face glowing with innocent joy
+  - appearance: Man, late 20s, handsome military officer, tall athletic build, dark mustache, confident bearing, aristocratic
+      features
+    clothing: Military uniform with polished buttons and insignia, or elegant civilian attire appropriate to 1870s Russian
+      nobility
+    position: Partner in dance, leading with confident skill
+    action: Guiding dance movements with gentle authority, gazing attentively at partner
+  scene:
+    mainElements: Crystal chandeliers, mirrors reflecting candlelight, musicians' gallery, elaborate floral arrangements.
+      Couples waltzing across polished floor, chaperones watching from gilded chairs
+    details: Candles flickering in wall sconces, silk gowns rustling across marble, string quartet playing romantic melodies.
+      Fresh roses and lilies in tall arrangements, servants with champagne glasses
+    background: Painted ceiling with mythological scenes, tall windows draped in gold brocade, marble columns supporting gallery
+    atmosphere: Romantic enchantment and youthful hope, sense of infinite possibility, pure joy in movement and music, innocent
+      attraction blossoming
+  composition:
+    cameraAngle: Sweeping medium shot following dance movement
+    focus: Young couple lost in magical moment, representing pure emotional joy before complications
+    depth: 'Foreground: dancing couple, middle ground: other dancers, background: ornate ballroom architecture'
+visualElements:
+  colorPalette:
+    primary:
+    - jewel-like reds
+    - vibrant greens
+    - deep blues
+    - rich purples
+    secondary:
+    - gold
+    - ivory
+    - orange
+    background: highly detailed natural or interior settings
+    usageNotes: Luminous, saturated colors applied over a wet white ground to enhance brightness.
+    saturation: very high
+    contrast: high, due to sharp details and bright colors
+  lineArt:
+    style: sharp, clear, and precise outlines
+    weight: thin and controlled
+    color: often integrated, but forms are clearly delineated
+    texture: smooth application of paint
+    edgeTreatment: crisp, sharp edges
+  lighting:
+    type: bright, even, almost shadowless lighting
+    direction: often frontal, illuminating every detail clearly
+    intensity: high and clear
+    shadows:
+      style: minimal and detailed, not broad or dark
+      color: colored with local tones, not black
+      opacity: light
+    highlights: sharp and precise
+  rendering:
+    technique: meticulous oil painting with fine brushes, "truth to nature"
+    texture: extreme attention to the texture of fabrics, hair, and foliage
+    detailLevel: extremely high, every part of the canvas is detailed
+    finish: smooth, enamel-like surface
+  perspective: sometimes flattened or unconventional to fit complex compositions
+  mood:
+    overall: romantic, symbolic, earnest
+    emotion: melancholy, love, tragedy, spirituality
+    tempo: static, contemplative
+    keywords:
+    - detailed
+    - luminous
+    - symbolic
+    - romantic
+    - medieval
+  stylePrecedents:
+  - John Everett Millais
+  - Dante Gabriel Rossetti
+  - William Holman Hunt
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

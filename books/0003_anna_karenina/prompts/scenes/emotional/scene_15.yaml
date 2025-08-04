@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Tragic Fall at the Steeplechase"
+  setting:
+    time: "1870s imperial Russia, afternoon, summer"
+    location: "Steeplechase grounds outside St. Petersburg, military sporting venue with viewing stands and jumping obstacles"
+    weather: "Bright clear day with strong sun"
+  characters:
+    - appearance: "Man, late 20s, handsome military officer, tall athletic build, dark mustache, confident bearing, aristocratic features"
+      clothing: "Military uniform with polished buttons and insignia, or elegant civilian attire appropriate to 1870s Russian nobility"
+      position: "On ground beside fallen horse, kneeling in anguish"
+      action: "Bent over with head in hands, shoulders wracked with guilt and grief"
+  scene:
+    mainElements: "Grass racing track with wooden barriers, military viewing pavilion, horses and riders, cheering crowds. Beautiful, spirited, and sensitive thoroughbred mare, represents Anna herself - vulnerable creature destroyed by male carelessness and social expectations lying motionless"
+    details: "Dust still settling from accident, other horses and riders continuing race in distance, medical personnel rushing toward scene. Racing silks torn and muddy"
+    background: "Cheering crowds in viewing stands now silent with shock, other military officers approaching on horseback, flags and banners hanging limp"
+    atmosphere: "Masculine competition and honor, dangerous sport reflecting life's risks, moment of tragic accident. Devastating guilt over destruction of beautiful, vulnerable creature through careless passion"
+  composition:
+    cameraAngle: "Dramatic wide shot showing scale of tragedy"
+    focus: "Man experiencing overwhelming remorse over destruction he has caused"
+    depth: "Foreground: grieving man and fallen horse, middle ground: racing track and barriers, background: shocked spectators"

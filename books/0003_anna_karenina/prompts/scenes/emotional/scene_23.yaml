@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "New Understanding in Harvest Field"
+  setting:
+    time: "1870s imperial Russia, late afternoon, early autumn"
+    location: "Russian country estate, harvest fields with grain ready for cutting, traditional agricultural landscape"
+    weather: "Golden autumn light with crisp air, perfect harvest weather"
+  characters:
+    - appearance: "Man, early 30s, tall robust build, curly brown hair, beard, weathered hands from farm work, earnest intelligent eyes"
+      clothing: "Country gentleman attire, practical clothing suitable for estate management, earth-toned fabrics"
+      position: "Working alongside peasants in harvest field, no longer separate from workers"
+      action: "Cutting grain with scythe, moving in rhythm with peasant workers, face showing peaceful concentration"
+  scene:
+    mainElements: "Large wooden house with verandas, farm buildings, fields of grain, forest paths, peasant villages nearby. Harvest in progress with golden grain stalks, workers moving together in ancient rhythm"
+    details: "Changed relationships shown through new spatial configurations, different expressions on familiar faces, environmental healing or permanent change. Sweat on faces, grain dust in air, shared water bucket"
+    background: "Rolling countryside in autumn colors, birch forest turning gold, traditional Russian landscape celebrating successful harvest"
+    atmosphere: "New emotional baseline through authentic labor and connection to Russian soil, spiritual peace achieved through finding purpose beyond self"
+  composition:
+    cameraAngle: "Wide shot showing integration with working community"
+    focus: "Man finding new identity through authentic work, representing transformed emotional baseline"
+    depth: "Foreground: working figures in harvest field, middle ground: golden grain and farm equipment, background: estate and Russian countryside"

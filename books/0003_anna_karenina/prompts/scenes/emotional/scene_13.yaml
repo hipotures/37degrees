@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Devastating Confrontation in Study"
+  setting:
+    time: "1870s imperial Russia, late evening, late spring"
+    location: "Private study in St. Petersburg aristocratic mansion, book-lined room with comfortable furnishings"
+    weather: "Storm raging outside with rain against windows"
+  characters:
+    - appearance: "Woman, early 30s, strikingly beautiful, dark hair elegantly arranged, aristocratic bearing with graceful neck and shoulders, expressive dark eyes, pale complexion"
+      clothing: "Rich fabrics in deep colors, fashionable 1870s Russian aristocratic dress with fitted bodice, full skirt, fine jewelry, fur stole or velvet cloak"
+      position: "Standing in center of room, facing husband defiantly"
+      action: "Clenched fists at sides, chin raised in desperate courage, trembling with emotion"
+    - appearance: "Man, early 40s, tall thin frame, prominent ears, balding forehead, pale complexion, cold calculating eyes, bureaucratic demeanor"
+      clothing: "Dark formal government official attire, high starched collar, black suit befitting senior civil servant"
+      position: "Behind desk, leaning forward with hands pressed on surface"
+      action: "Staring coldly with controlled fury, jaw set in rigid disapproval"
+  scene:
+    mainElements: "Leather-bound novel in French or Russian, pages marked with ribbon bookmark, represents Anna's intellectual hunger and dissatisfaction with empty social life. Floor-to-ceiling bookshelves, comfortable reading furniture, writing desk with papers scattered"
+    details: "Wax candle with dancing flame that flares and dies, metaphor for Anna's life - burning brightly with passion before being extinguished, represents the conflict between reason and emotion. Papers fallen to floor, overturned chair, storm wind rattling windows"
+    background: "Windows with curtains blown by storm wind, oil paintings askew on walls, carved wooden ceiling disappearing into shadows"
+    atmosphere: "Explosive confrontation destroying all pretense, masks of civilization stripped away, raw emotion and moral judgment colliding with devastating force"
+  composition:
+    cameraAngle: "Dramatic medium shot emphasizing confrontation"
+    focus: "Two figures locked in emotional battle representing complete breakdown of marriage"
+    depth: "Foreground: confronting couple, middle ground: disrupted study furniture, background: storm-darkened windows"
