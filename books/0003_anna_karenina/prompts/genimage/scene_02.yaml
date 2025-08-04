@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: 1870s imperial Russia, evening, spring
+    location: Elegant drawing room in aristocratic St. Petersburg mansion, imperial capital under Tsar Alexander II
+    weather: Clear evening
+  characters:
+  - appearance: Woman, early 30s, strikingly beautiful, dark hair elegantly arranged, aristocratic bearing with graceful neck
+      and shoulders, expressive dark eyes, pale complexion
+    clothing: Rich fabrics in deep colors, fashionable 1870s Russian aristocratic dress with fitted bodice, full skirt, fine
+      jewelry, fur stole or velvet cloak
+    position: Seated gracefully in ornate armchair, holding teacup
+    action: Engaging in polite conversation while maintaining perfect social composure
+  - appearance: Man, early 40s, tall thin frame, prominent ears, balding forehead, pale complexion, cold calculating eyes,
+      bureaucratic demeanor
+    clothing: Dark formal government official attire, high starched collar, black suit befitting senior civil servant
+    position: Standing near fireplace with other gentlemen
+    action: Discussing government matters with measured, controlled gestures
+  scene:
+    mainElements: Ornate furniture in French style, crystal chandeliers, Persian carpets, gilt-framed mirrors, elaborate wall
+      decorations. Multiple guests in evening attire engaged in refined conversation
+    details: Candlelight reflecting off crystal and mirrors, servants moving discreetly with refreshments, paintings of imperial
+      family on walls. Fresh flowers in porcelain vases, silk upholstery, polished mahogany furniture
+    background: Grand windows draped with heavy velvet curtains, bookshelves with leather-bound volumes, marble sculptures
+      in alcoves
+    atmosphere: Artificial sophistication, whispered conversations, performance of social roles, underlying judgment and gossip.
+      Surface harmony masking deeper tensions
+  composition:
+    cameraAngle: Medium wide shot capturing social dynamics
+    focus: Woman maintaining perfect social facade while inner restlessness remains hidden
+    depth: 'Foreground: main characters in conversation, middle ground: other guests, background: ornate room details'
+visualElements:
+  colorPalette:
+    primary:
+    - jewel-like reds
+    - vibrant greens
+    - deep blues
+    - rich purples
+    secondary:
+    - gold
+    - ivory
+    - orange
+    background: highly detailed natural or interior settings
+    usageNotes: Luminous, saturated colors applied over a wet white ground to enhance brightness.
+    saturation: very high
+    contrast: high, due to sharp details and bright colors
+  lineArt:
+    style: sharp, clear, and precise outlines
+    weight: thin and controlled
+    color: often integrated, but forms are clearly delineated
+    texture: smooth application of paint
+    edgeTreatment: crisp, sharp edges
+  lighting:
+    type: bright, even, almost shadowless lighting
+    direction: often frontal, illuminating every detail clearly
+    intensity: high and clear
+    shadows:
+      style: minimal and detailed, not broad or dark
+      color: colored with local tones, not black
+      opacity: light
+    highlights: sharp and precise
+  rendering:
+    technique: meticulous oil painting with fine brushes, "truth to nature"
+    texture: extreme attention to the texture of fabrics, hair, and foliage
+    detailLevel: extremely high, every part of the canvas is detailed
+    finish: smooth, enamel-like surface
+  perspective: sometimes flattened or unconventional to fit complex compositions
+  mood:
+    overall: romantic, symbolic, earnest
+    emotion: melancholy, love, tragedy, spirituality
+    tempo: static, contemplative
+    keywords:
+    - detailed
+    - luminous
+    - symbolic
+    - romantic
+    - medieval
+  stylePrecedents:
+  - John Everett Millais
+  - Dante Gabriel Rossetti
+  - William Holman Hunt
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

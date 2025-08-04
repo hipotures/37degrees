@@ -31,16 +31,14 @@ sceneDescription:
 visualElements:
   colorPalette:
     primary:
-    - banner red
-    - sunny yellow
-    - sky blue
-    - white
+    - beige
+    - grey
+    - black
+    - red
     secondary:
-    - earth colors (browns, greens)
-    - skin tones
-    - machinery grays
+    - minimal earth tones if needed
     background: factories, fields, construction sites, bright sky
-    usageNotes: Palette is bright, optimistic and full of sunshine. Red is key symbolic color.
+    usageNotes: Limited palette emphasizing propaganda poster aesthetics of 1920s
     saturation: high, vivid
     contrast: medium to high, but without dark, dramatic shadows
   lineArt:
@@ -59,8 +57,9 @@ visualElements:
       opacity: light
     highlights: bright, emphasizing health and strength of figures
   rendering:
-    technique: academic oil painting, smooth, without visible brushstrokes
-    texture: realistic but idealized textures (e.g., clean work clothes)
+    technique: heroic propaganda poster style of 1920s with simplified forms, strong contours, and limited color palette
+    texture: simplified, geometric forms with bold graphic elements
+    ideologicalElements: ideological symbols integrated subtly into composition
     detailLevel: high, with attention to machinery and portrait details
     finish: smooth, polished
   perspective: classical, monumental, often from low viewpoint to elevate figures
@@ -69,6 +68,10 @@ visualElements:
     emotion: pride, work enthusiasm, faith in future, strength
     tempo: dynamic, march-like
     keywords:
+    - propaganda poster aesthetics
+    - simplified forms
+    - strong contours
+    - 1920s revolutionary poster style
     - propagandistic
     - heroic
     - optimistic

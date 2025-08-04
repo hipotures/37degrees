@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1870s imperial Russia, afternoon, late summer
+    location: Sunlit family garden in Moscow estate, peaceful outdoor setting with flowering plants
+    weather: Gentle afternoon sun with light breeze, perfect temperature
+  characters:
+  - appearance: Woman, early 30s, once beautiful but worn by childbearing and domestic cares, tired eyes, thin frame
+    clothing: Practical maternal dress, somewhat faded fabrics, modest styling appropriate to mother of many children
+    position: Seated on garden bench, no longer alone
+    action: Reaching out tentatively to touch another's hand, eyes showing cautious hope
+  - appearance: Man, mid-30s, handsome with beginning of portliness, cheerful face, well-groomed appearance, jovial expression
+    clothing: Fashionable gentleman's attire, well-tailored suits, attention to style and appearance
+    position: Seated beside her on bench, closer than before
+    action: Taking her hand gently, speaking quietly with genuine remorse and affection
+  scene:
+    mainElements: Garden bench surrounded by late summer flowers still blooming, children playing peacefully nearby, family
+      life slowly healing
+    details: Exhausted but peaceful postures, gentle physical contact after conflict, breathing spaces opening up. Bees humming
+      in flowers, butterfly landing on bench arm
+    background: Family garden showing signs of care and renewal, house in distance with open windows and doors, sense of home
+      being restored
+    atmosphere: Tentative healing and renewed connection, exhausted relief after emotional storm, family bonds slowly mending
+      through forgiveness
+  composition:
+    cameraAngle: Intimate medium shot emphasizing renewed connection
+    focus: Couple beginning to rebuild relationship after crisis, representing emotional healing
+    depth: 'Foreground: reconciling couple on bench, middle ground: garden setting, background: family home with signs of
+      renewed life'
+visualElements:
+  colorPalette:
+    primary:
+    - jewel-like reds
+    - vibrant greens
+    - deep blues
+    - rich purples
+    secondary:
+    - gold
+    - ivory
+    - orange
+    background: highly detailed natural or interior settings
+    usageNotes: Luminous, saturated colors applied over a wet white ground to enhance brightness.
+    saturation: very high
+    contrast: high, due to sharp details and bright colors
+  lineArt:
+    style: sharp, clear, and precise outlines
+    weight: thin and controlled
+    color: often integrated, but forms are clearly delineated
+    texture: smooth application of paint
+    edgeTreatment: crisp, sharp edges
+  lighting:
+    type: bright, even, almost shadowless lighting
+    direction: often frontal, illuminating every detail clearly
+    intensity: high and clear
+    shadows:
+      style: minimal and detailed, not broad or dark
+      color: colored with local tones, not black
+      opacity: light
+    highlights: sharp and precise
+  rendering:
+    technique: meticulous oil painting with fine brushes, "truth to nature"
+    texture: extreme attention to the texture of fabrics, hair, and foliage
+    detailLevel: extremely high, every part of the canvas is detailed
+    finish: smooth, enamel-like surface
+  perspective: sometimes flattened or unconventional to fit complex compositions
+  mood:
+    overall: romantic, symbolic, earnest
+    emotion: melancholy, love, tragedy, spirituality
+    tempo: static, contemplative
+    keywords:
+    - detailed
+    - luminous
+    - symbolic
+    - romantic
+    - medieval
+  stylePrecedents:
+  - John Everett Millais
+  - Dante Gabriel Rossetti
+  - William Holman Hunt
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

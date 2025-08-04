@@ -14,13 +14,13 @@
 [x] [x] Created thread 6890a90e-9d78-8327-8976-9beb616ac399 for image scene_14.yaml
 [x] [x] Created thread 6890aa7c-bbb4-832d-9365-0a5ef43987d6 for image scene_15.yaml
 [x] [x] Created thread 6890abe7-d194-8327-bc20-59e90c42064d for image scene_16.yaml
-[x] [ ] Created thread 6890ad69-48f4-832f-996f-ce6ea99b5bde for image scene_17.yaml
-[x] [ ] Created thread 6890af7b-272c-8324-b4b9-e0f46dd54a0b for image scene_18.yaml
-[x] [ ] Created thread 6890b0f1-0dc4-832b-88ed-6b206555d322 for image scene_19.yaml
-[x] [ ] Created thread 6890b254-cc80-8322-9c70-e88fd605dddf for image scene_20.yaml
-[x] [ ] Created thread 6890bb62-fa38-8320-8b6c-0eca18feff5f for image scene_21.yaml
-[x] [ ] Created thread 6890bcd0-2cd0-8321-b998-fad20b024f28 for image scene_22.yaml
-[x] [ ] Created thread 6890bea9-2e44-8330-9498-bc1d78de5768 for image scene_23.yaml
-[x] [ ] Created thread 6890c037-d68c-8325-920c-9186484548a1 for image scene_24.yaml
-[x] [ ] Created thread 6890c1b6-be20-8320-8143-b2c1aeaf16dd for image scene_25.yaml
+[x] [x] Created thread 6890ad69-48f4-832f-996f-ce6ea99b5bde for image scene_17.yaml (POLICY_VIOLATION)
+[x] [x] Created thread 6890af7b-272c-8324-b4b9-e0f46dd54a0b for image scene_18.yaml
+[x] [x] Created thread 6890b0f1-0dc4-832b-88ed-6b206555d322 for image scene_19.yaml
+[x] [x] Created thread 6890b254-cc80-8322-9c70-e88fd605dddf for image scene_20.yaml
+[x] [x] Created thread 6890bb62-fa38-8320-8b6c-0eca18feff5f for image scene_21.yaml
+[x] [x] Created thread 6890bcd0-2cd0-8321-b998-fad20b024f28 for image scene_22.yaml
+[x] [x] Created thread 6890bea9-2e44-8330-9498-bc1d78de5768 for image scene_23.yaml
+[x] [x] Created thread 6890c037-d68c-8325-920c-9186484548a1 for image scene_24.yaml
+[x] [x] Created thread 6890c1b6-be20-8320-8143-b2c1aeaf16dd for image scene_25.yaml
 # PROJECT_ID = g-p-68909366ecb88191b3fae9bf26ea3ae7-0001-alice-in-wonderland

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Mother's Anguish at Separation"
+  setting:
+    time: "1870s imperial Russia, morning, early summer"
+    location: "Child's nursery in St. Petersburg aristocratic mansion, room filled with toys and childhood memories"
+    weather: "Gray overcast morning"
+  characters:
+    - appearance: "Woman, early 30s, strikingly beautiful, dark hair elegantly arranged, aristocratic bearing with graceful neck and shoulders, expressive dark eyes, pale complexion"
+      clothing: "Rich fabrics in deep colors, fashionable 1870s Russian aristocratic dress with fitted bodice, full skirt, fine jewelry, fur stole or velvet cloak"
+      position: "Kneeling beside small bed, clutching child's clothing"
+      action: "Weeping silently while holding child's shirt against her chest, shoulders shaking with grief"
+  scene:
+    mainElements: "Small child's bedroom with miniature furniture, toys scattered across floor, picture books open on table, child's clothes laid out but unworn"
+    details: "Wooden rocking horse in corner, tin soldiers arranged in formation, favorite teddy bear on pillow. Morning light filtering weakly through lace curtains"
+    background: "Wallpaper with cheerful nursery patterns, shelves filled with children's books and games, empty child's chair at small table"
+    atmosphere: "Devastating maternal grief, sense of irreparable loss, emotional destruction of fundamental maternal bonds, society's punishment for seeking personal happiness"
+  composition:
+    cameraAngle: "Intimate close-medium shot emphasizing maternal anguish"
+    focus: "Mother experiencing ultimate emotional devastation through separation from child"
+    depth: "Foreground: grieving mother with child's belongings, middle ground: empty nursery furniture, background: child's abandoned possessions"

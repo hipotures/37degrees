@@ -1,0 +1,132 @@
+canon:
+  characters:
+    - id: "anna_karenina"
+      name: "Anna Karenina"
+      description_block: |
+        characters:
+          - appearance: "Woman, early 30s, strikingly beautiful, dark hair elegantly arranged, aristocratic bearing with graceful neck and shoulders, expressive dark eyes, pale complexion"
+            clothing: "Rich fabrics in deep colors, fashionable 1870s Russian aristocratic dress with fitted bodice, full skirt, fine jewelry, fur stole or velvet cloak"
+            posture: "Elegant and refined movements, carries herself with natural aristocratic grace, proud bearing"
+
+    - id: "count_vronsky"
+      name: "Count Alexei Vronsky"
+      description_block: |
+        characters:
+          - appearance: "Man, late 20s, handsome military officer, tall athletic build, dark mustache, confident bearing, aristocratic features"
+            clothing: "Military uniform with polished buttons and insignia, or elegant civilian attire appropriate to 1870s Russian nobility"
+            posture: "Upright military bearing, confident stance, self-assured movements"
+
+    - id: "alexei_karenin"
+      name: "Alexei Karenin"
+      description_block: |
+        characters:
+          - appearance: "Man, early 40s, tall thin frame, prominent ears, balding forehead, pale complexion, cold calculating eyes, bureaucratic demeanor"
+            clothing: "Dark formal government official attire, high starched collar, black suit befitting senior civil servant"
+            posture: "Rigid formal posture, measured controlled movements, hands often clasped behind back"
+
+    - id: "konstantin_levin"
+      name: "Konstantin Levin"
+      description_block: |
+        characters:
+          - appearance: "Man, early 30s, tall robust build, curly brown hair, beard, weathered hands from farm work, earnest intelligent eyes"
+            clothing: "Country gentleman attire, practical clothing suitable for estate management, earth-toned fabrics"
+            posture: "Natural unpretentious bearing, slightly awkward in formal settings, more comfortable outdoors"
+
+    - id: "kitty_shcherbatsky"
+      name: "Princess Kitty Shcherbatsky"
+      description_block: |
+        characters:
+          - appearance: "Young woman, early 20s, blonde hair, fresh youthful beauty, bright expressive eyes, slender figure"
+            clothing: "Fashionable young lady's dress appropriate to Russian nobility, light colors, modest but elegant styling"
+            posture: "Youthful grace, animated gestures, natural charm in movement"
+
+    - id: "stepan_oblonsky"
+      name: "Prince Stepan Oblonsky (Stiva)"
+      description_block: |
+        characters:
+          - appearance: "Man, mid-30s, handsome with beginning of portliness, cheerful face, well-groomed appearance, jovial expression"
+            clothing: "Fashionable gentleman's attire, well-tailored suits, attention to style and appearance"
+            posture: "Relaxed confident bearing, gestures freely, naturally sociable demeanor"
+
+    - id: "dolly_oblonsky"
+      name: "Princess Darya Oblonsky (Dolly)"
+      description_block: |
+        characters:
+          - appearance: "Woman, early 30s, once beautiful but worn by childbearing and domestic cares, tired eyes, thin frame"
+            clothing: "Practical maternal dress, somewhat faded fabrics, modest styling appropriate to mother of many children"
+            posture: "Weary bearing, shoulders slightly stooped from domestic burdens, gentle but exhausted movements"
+
+  locations:
+    - id: "moscow_station"
+      name: "Moscow Railway Station"
+      description_block: |
+        setting:
+          location: "Major railway terminal in 1870s imperial Moscow, grand architecture with high iron and glass roof, steam-filled platforms"
+        mainElements: "Railway tracks disappearing into distance, steam locomotives with black smoke, wooden platform structures, crowds of travelers"
+        atmosphere: "Industrial modernity imposing on traditional Russian life, sense of fateful encounter, ominous undertone of mechanical power"
+
+    - id: "st_petersburg_high_society"
+      name: "St. Petersburg Aristocratic Salon"
+      description_block: |
+        setting:
+          location: "Elegant drawing room in aristocratic St. Petersburg mansion, imperial capital under Tsar Alexander II"
+        mainElements: "Ornate furniture in French style, crystal chandeliers, Persian carpets, gilt-framed mirrors, elaborate wall decorations"
+        atmosphere: "Artificial sophistication, whispered conversations, performance of social roles, underlying judgment and gossip"
+
+    - id: "levin_country_estate"
+      name: "Russian Country Estate"
+      description_block: |
+        setting:
+          location: "Traditional Russian manor house surrounded by agricultural lands in Moscow province, wooden architecture with surrounding birch forests"
+        mainElements: "Large wooden house with verandas, farm buildings, fields of grain, forest paths, peasant villages nearby"
+        atmosphere: "Connection to authentic Russian soil, seasonal agricultural rhythms, spiritual peace through labor"
+
+    - id: "italian_villa"
+      name: "Italian Villa Retreat"
+      description_block: |
+        setting:
+          location: "Rented villa in Italian countryside near Rome, Mediterranean architecture with terraced gardens"
+        mainElements: "Stone villa with red tile roof, cypress trees, olive groves, distant mountains, formal gardens"
+        atmosphere: "Exile from Russian society, false paradise masking inner turmoil, foreign beauty unable to heal Russian souls"
+
+    - id: "moscow_ballroom"
+      name: "Moscow Aristocratic Ballroom"
+      description_block: |
+        setting:
+          location: "Grand ballroom in Moscow aristocratic mansion, 1870s imperial Russia, parquet floors and painted ceilings"
+        mainElements: "Crystal chandeliers, mirrors reflecting candlelight, musicians' gallery, elaborate floral arrangements"
+        atmosphere: "Social competition and display, romantic encounters under watchful eyes, glittering surface hiding deeper conflicts"
+
+    - id: "officers_race_course"
+      name: "Military Officers' Race Course"
+      description_block: |
+        setting:
+          location: "Steeplechase grounds outside St. Petersburg, military sporting venue with viewing stands and jumping obstacles"
+        mainElements: "Grass racing track with wooden barriers, military viewing pavilion, horses and riders, cheering crowds"
+        atmosphere: "Masculine competition and honor, dangerous sport reflecting life's risks, moment of tragic accident"
+
+  items:
+    - id: "anna_reading_book"
+      name: "Anna's Reading Book"
+      description_block: |
+        details: "Leather-bound novel in French or Russian, pages marked with ribbon bookmark, represents Anna's intellectual hunger and dissatisfaction with empty social life"
+
+    - id: "railway_train"
+      name: "Steam Railway Train"
+      description_block: |
+        details: "Black iron locomotive with billowing steam and smoke, represents destructive force of industrial modernity crushing traditional Russian life, symbol of fate and inevitable tragedy"
+
+    - id: "vronsky_racehorse"
+      name: "Frou-Frou the Racehorse"
+      description_block: |
+        details: "Beautiful, spirited, and sensitive thoroughbred mare, represents Anna herself - vulnerable creature destroyed by male carelessness and social expectations"
+
+    - id: "wedding_rings"
+      name: "Marriage Rings"
+      description_block: |
+        details: "Gold wedding bands symbolizing social bonds and moral obligations, represent the conflict between duty and personal desire"
+
+    - id: "candle_with_flickering_light"
+      name: "Flickering Candle"
+      description_block: |
+        details: "Wax candle with dancing flame that flares and dies, metaphor for Anna's life - burning brightly with passion before being extinguished, represents the conflict between reason and emotion"

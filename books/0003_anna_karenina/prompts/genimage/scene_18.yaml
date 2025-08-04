@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1870s, night, summer
+    location: Private bedroom in Italian villa, dimly lit room with medical supplies visible
+    weather: Stifling night heat with no relief
+  characters:
+  - appearance: Woman, early 30s, strikingly beautiful, dark hair elegantly arranged, aristocratic bearing with graceful neck
+      and shoulders, expressive dark eyes, pale complexion
+    clothing: Rich fabrics in deep colors, fashionable 1870s Russian aristocratic dress with fitted bodice, full skirt, fine
+      jewelry, fur stole or velvet cloak
+    position: Collapsed on bed, surrounded by pillows and medicine bottles
+    action: Staring at ceiling with wild, unfocused eyes, occasionally laughing or weeping without reason
+  scene:
+    mainElements: Unmade bed with tangled sheets, medicine bottles on bedside table, candles burned down to stubs, personal
+      belongings scattered carelessly
+    details: Opium pipe and morphine vials evidence of desperate escape attempts, mirrors reflecting distorted candlelight,
+      fabric of dress wrinkled and stained
+    background: Villa walls seeming to close in, foreign architecture offering no comfort, windows open but no breeze providing
+      relief
+    atmosphere: Complete psychological breakdown, desperate attempt to escape unbearable reality through drugs, mind fragmenting
+      under pressure of guilt and social isolation
+  composition:
+    cameraAngle: Intimate close shot emphasizing psychological disintegration
+    focus: Woman at absolute emotional breaking point, representing peak vulnerability before final catastrophe
+    depth: 'Foreground: collapsed figure on bed, middle ground: evidence of self-medication, background: oppressive room walls'
+visualElements:
+  colorPalette:
+    primary:
+    - jewel-like reds
+    - vibrant greens
+    - deep blues
+    - rich purples
+    secondary:
+    - gold
+    - ivory
+    - orange
+    background: highly detailed natural or interior settings
+    usageNotes: Luminous, saturated colors applied over a wet white ground to enhance brightness.
+    saturation: very high
+    contrast: high, due to sharp details and bright colors
+  lineArt:
+    style: sharp, clear, and precise outlines
+    weight: thin and controlled
+    color: often integrated, but forms are clearly delineated
+    texture: smooth application of paint
+    edgeTreatment: crisp, sharp edges
+  lighting:
+    type: bright, even, almost shadowless lighting
+    direction: often frontal, illuminating every detail clearly
+    intensity: high and clear
+    shadows:
+      style: minimal and detailed, not broad or dark
+      color: colored with local tones, not black
+      opacity: light
+    highlights: sharp and precise
+  rendering:
+    technique: meticulous oil painting with fine brushes, "truth to nature"
+    texture: extreme attention to the texture of fabrics, hair, and foliage
+    detailLevel: extremely high, every part of the canvas is detailed
+    finish: smooth, enamel-like surface
+  perspective: sometimes flattened or unconventional to fit complex compositions
+  mood:
+    overall: romantic, symbolic, earnest
+    emotion: melancholy, love, tragedy, spirituality
+    tempo: static, contemplative
+    keywords:
+    - detailed
+    - luminous
+    - symbolic
+    - romantic
+    - medieval
+  stylePrecedents:
+  - John Everett Millais
+  - Dante Gabriel Rossetti
+  - William Holman Hunt
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -138,6 +138,7 @@ UWAGA: Używaj MCP playwright-headless do automatyzacji
   - Narzędzie "Create image" jest wybrane (widoczne dodatkowe opcje Image/Styles)
   - Prompt jest wpisany w polu tekstowym
   - ChatGPT rozpoczyna generowanie obrazu (pojawia się status "Thinking" → "Reading documents" → "Getting started")
+  - Żaden plik nie jest załączony do projektu ("Pliki projektu") - jedyne załączone pliki znajdują się w chatach projektu.
 
   Weryfikacja sukcesu:
 
@@ -236,3 +237,4 @@ UWAGA: Używaj MCP playwright-headless do automatyzacji
   - Pierwszy [ ] = thread creation status, drugi [ ] = image download status
   - Pliki są w kolejności numerycznej (scene_01, scene_02, etc.)
   - Project ID jest zapisany na końcu pliku jako "# PROJECT_ID = g-p-xxxx..."
+  - W przypadku gdyby jakiś plik został załączony do projektu, należy go natychmiast usunąć. Nie może być żadnych plików projektów. Jedyne pliki załączone są dozwolone w chatach projektu.

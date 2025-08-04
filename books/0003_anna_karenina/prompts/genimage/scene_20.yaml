@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1870s, pre-dawn darkness, late summer
+    location: Major railway terminal in 1870s imperial Moscow, grand architecture with high iron and glass roof, steam-filled
+      platforms
+    weather: Cold pre-dawn mist with first hint of approaching sunrise
+  characters:
+  - appearance: Woman, early 30s, strikingly beautiful, dark hair elegantly arranged, aristocratic bearing with graceful neck
+      and shoulders, expressive dark eyes, pale complexion
+    clothing: Rich fabrics in deep colors, fashionable 1870s Russian aristocratic dress with fitted bodice, full skirt, fine
+      jewelry, fur stole or velvet cloak
+    position: Standing alone on empty platform, looking down railway tracks
+    action: Perfectly still, hands clasped in front, staring into darkness with expression of terrible calm
+  scene:
+    mainElements: Railway tracks disappearing into distance, steam locomotives with black smoke, wooden platform structures,
+      crowds of travelers. Black iron locomotive with billowing steam and smoke, represents destructive force of industrial
+      modernity crushing traditional Russian life, symbol of fate and inevitable tragedy approaching in darkness
+    details: First pale light beginning to touch horizon, steam rising from tracks like ghostly figures, empty platform stretching
+      endlessly. Sound of distant train growing closer
+    background: High iron and glass roof structure barely visible in darkness, industrial architecture dominating traditional
+      Russian landscape, sense of machinery awakening
+    atmosphere: Industrial modernity imposing on traditional Russian life, sense of fateful encounter, ominous undertone of
+      mechanical power. Moment before resolution, held breath feeling, darkest before dawn composition, maximum emotional
+      tension
+  composition:
+    cameraAngle: Wide dramatic shot emphasizing solitude and approaching fate
+    focus: Solitary figure facing inevitable destiny, representing ultimate emotional climax before resolution
+    depth: 'Foreground: lone woman on platform, middle ground: railway tracks extending into darkness, background: approaching
+      train and dawn light'
+visualElements:
+  colorPalette:
+    primary:
+    - jewel-like reds
+    - vibrant greens
+    - deep blues
+    - rich purples
+    secondary:
+    - gold
+    - ivory
+    - orange
+    background: highly detailed natural or interior settings
+    usageNotes: Luminous, saturated colors applied over a wet white ground to enhance brightness.
+    saturation: very high
+    contrast: high, due to sharp details and bright colors
+  lineArt:
+    style: sharp, clear, and precise outlines
+    weight: thin and controlled
+    color: often integrated, but forms are clearly delineated
+    texture: smooth application of paint
+    edgeTreatment: crisp, sharp edges
+  lighting:
+    type: bright, even, almost shadowless lighting
+    direction: often frontal, illuminating every detail clearly
+    intensity: high and clear
+    shadows:
+      style: minimal and detailed, not broad or dark
+      color: colored with local tones, not black
+      opacity: light
+    highlights: sharp and precise
+  rendering:
+    technique: meticulous oil painting with fine brushes, "truth to nature"
+    texture: extreme attention to the texture of fabrics, hair, and foliage
+    detailLevel: extremely high, every part of the canvas is detailed
+    finish: smooth, enamel-like surface
+  perspective: sometimes flattened or unconventional to fit complex compositions
+  mood:
+    overall: romantic, symbolic, earnest
+    emotion: melancholy, love, tragedy, spirituality
+    tempo: static, contemplative
+    keywords:
+    - detailed
+    - luminous
+    - symbolic
+    - romantic
+    - medieval
+  stylePrecedents:
+  - John Everett Millais
+  - Dante Gabriel Rossetti
+  - William Holman Hunt
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

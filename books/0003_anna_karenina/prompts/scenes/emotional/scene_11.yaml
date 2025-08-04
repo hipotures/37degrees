@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Passionate Embrace in Garden"
+  setting:
+    time: "1870s imperial Russia, evening, late spring"
+    location: "Private garden in Moscow estate, secluded area with flowering trees and hidden pathways"
+    weather: "Warm evening with gentle breeze stirring blossoms"
+  characters:
+    - appearance: "Woman, early 30s, strikingly beautiful, dark hair elegantly arranged, aristocratic bearing with graceful neck and shoulders, expressive dark eyes, pale complexion"
+      clothing: "Rich fabrics in deep colors, fashionable 1870s Russian aristocratic dress with fitted bodice, full skirt, fine jewelry, fur stole or velvet cloak"
+      position: "In close embrace, face lifted toward partner"
+      action: "Arms wrapped around partner's shoulders, eyes closed in moment of passionate surrender"
+    - appearance: "Man, late 20s, handsome military officer, tall athletic build, dark mustache, confident bearing, aristocratic features"
+      clothing: "Military uniform with polished buttons and insignia, or elegant civilian attire appropriate to 1870s Russian nobility"
+      position: "Holding woman closely against him"
+      action: "Bending down to embrace, one hand on her waist, other touching her face tenderly"
+  scene:
+    mainElements: "Flowering cherry and apple trees creating natural canopy, narrow garden paths winding between flower beds, stone benches placed for intimate conversation"
+    details: "White and pink blossoms falling like snow around embracing couple, nightingales singing in branches above, soft grass underfoot. Lanterns glowing distantly from main house"
+    background: "Tall hedges providing privacy from main estate, moonlight filtering through leaves, fountain bubbling softly nearby"
+    atmosphere: "Intoxicating romantic passion, sense of having found ultimate happiness, world transformed by love into paradise of sensation and emotion"
+  composition:
+    cameraAngle: "Intimate close-medium shot capturing emotional intensity"
+    focus: "Couple lost in passionate moment representing peak of joy and romantic fulfillment"
+    depth: "Foreground: embracing figures, middle ground: falling blossoms and garden setting, background: estate lights suggesting world beyond"

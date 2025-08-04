@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1870s imperial Russia, evening, summer
+    location: Elegant drawing room in aristocratic St. Petersburg mansion, imperial capital under Tsar Alexander II
+    weather: Oppressive humid evening
+  characters:
+  - appearance: Woman, early 30s, strikingly beautiful, dark hair elegantly arranged, aristocratic bearing with graceful neck
+      and shoulders, expressive dark eyes, pale complexion
+    clothing: Rich fabrics in deep colors, fashionable 1870s Russian aristocratic dress with fitted bodice, full skirt, fine
+      jewelry, fur stole or velvet cloak
+    position: Standing alone in center of room while others gather in distant corners
+    action: Clutching fan tightly, eyes darting between groups that pointedly exclude her
+  scene:
+    mainElements: Ornate furniture in French style, crystal chandeliers, Persian carpets, gilt-framed mirrors, elaborate wall
+      decorations. Guests deliberately maintaining distance, conversations stopping when she approaches
+    details: Whispers behind fans, averted gazes, empty chairs around where she stands. Candles flickering in mirrors showing
+      her isolation from multiple angles
+    background: Grand windows now feeling like prison walls, heavy curtains seeming to close in, room atmosphere becoming
+      claustrophobic
+    atmosphere: Crushing social ostracism, walls of judgment closing in, artificial sophistication turned weapon of exclusion,
+      suffocating pressure of public condemnation
+  composition:
+    cameraAngle: Wide shot emphasizing isolation within crowded room
+    focus: Woman surrounded by hostile social space, representing building pressure toward breaking point
+    depth: 'Foreground: isolated woman, middle ground: hostile social groups, background: oppressive room architecture'
+visualElements:
+  colorPalette:
+    primary:
+    - jewel-like reds
+    - vibrant greens
+    - deep blues
+    - rich purples
+    secondary:
+    - gold
+    - ivory
+    - orange
+    background: highly detailed natural or interior settings
+    usageNotes: Luminous, saturated colors applied over a wet white ground to enhance brightness.
+    saturation: very high
+    contrast: high, due to sharp details and bright colors
+  lineArt:
+    style: sharp, clear, and precise outlines
+    weight: thin and controlled
+    color: often integrated, but forms are clearly delineated
+    texture: smooth application of paint
+    edgeTreatment: crisp, sharp edges
+  lighting:
+    type: bright, even, almost shadowless lighting
+    direction: often frontal, illuminating every detail clearly
+    intensity: high and clear
+    shadows:
+      style: minimal and detailed, not broad or dark
+      color: colored with local tones, not black
+      opacity: light
+    highlights: sharp and precise
+  rendering:
+    technique: meticulous oil painting with fine brushes, "truth to nature"
+    texture: extreme attention to the texture of fabrics, hair, and foliage
+    detailLevel: extremely high, every part of the canvas is detailed
+    finish: smooth, enamel-like surface
+  perspective: sometimes flattened or unconventional to fit complex compositions
+  mood:
+    overall: romantic, symbolic, earnest
+    emotion: melancholy, love, tragedy, spirituality
+    tempo: static, contemplative
+    keywords:
+    - detailed
+    - luminous
+    - symbolic
+    - romantic
+    - medieval
+  stylePrecedents:
+  - John Everett Millais
+  - Dante Gabriel Rossetti
+  - William Holman Hunt
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

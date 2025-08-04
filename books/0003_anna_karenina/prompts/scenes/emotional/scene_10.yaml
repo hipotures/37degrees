@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Empty Chair at Family Table"
+  setting:
+    time: "1870s imperial Russia, morning, spring"
+    location: "Breakfast room in Moscow aristocratic mansion, sunlit family dining area"
+    weather: "Bright morning sunlight streaming through windows"
+  characters:
+    - appearance: "Woman, early 30s, once beautiful but worn by childbearing and domestic cares, tired eyes, thin frame"
+      clothing: "Practical maternal dress, somewhat faded fabrics, modest styling appropriate to mother of many children"
+      position: "Seated at breakfast table, staring at empty chair across from her"
+      action: "Holding untouched cup of tea, gazing with worried expression at husband's vacant place"
+  scene:
+    mainElements: "Polished wooden breakfast table set with fine china and silver, newspapers folded beside place settings, children's toys visible in corners. One place setting unused"
+    details: "Steam rising from untouched samovar, fresh bread growing cold on table, morning light revealing dust motes in air. Scattered letters unopened, wilting flowers in simple vase"
+    background: "Windows overlooking garden courtyard, shelves with family treasures, comfortable family furniture showing signs of daily use"
+    atmosphere: "Domestic routine disrupted by absence, sense of established patterns breaking apart, quiet anxiety replacing former contentment"
+  composition:
+    cameraAngle: "Intimate medium shot emphasizing solitude and absence"
+    focus: "Woman alone with empty chair representing disruption of family harmony"
+    depth: "Foreground: woman at table, middle ground: empty chair and unused place setting, background: garden view through windows"

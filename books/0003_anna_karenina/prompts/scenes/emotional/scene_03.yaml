@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Domestic Harmony at Breakfast"
+  setting:
+    time: "1870s imperial Russia, morning, spring"
+    location: "Breakfast room in Moscow aristocratic mansion, sunlit family dining area"
+    weather: "Bright morning sunlight streaming through windows"
+  characters:
+    - appearance: "Man, mid-30s, handsome with beginning of portliness, cheerful face, well-groomed appearance, jovial expression"
+      clothing: "Fashionable gentleman's attire, well-tailored suits, attention to style and appearance"
+      position: "Seated at head of breakfast table, reading newspaper"
+      action: "Enjoying morning coffee while scanning news, occasionally commenting to family"
+    - appearance: "Woman, early 30s, once beautiful but worn by childbearing and domestic cares, tired eyes, thin frame"
+      clothing: "Practical maternal dress, somewhat faded fabrics, modest styling appropriate to mother of many children"
+      position: "Seated across table, supervising children's breakfast"
+      action: "Gently correcting children's table manners while managing household details"
+  scene:
+    mainElements: "Polished wooden breakfast table set with fine china and silver, newspapers folded beside place settings, children's toys visible in corners"
+    details: "Steam rising from samovar, fresh bread and preserves on table, morning light illuminating family portraits on walls. Scattered letters and calling cards, fresh flowers in simple vase"
+    background: "Windows overlooking garden courtyard, shelves with family treasures, comfortable family furniture showing signs of daily use"
+    atmosphere: "Warm family routine and established patterns, sense of domestic stability and predictable comfort, quiet contentment in familiar rhythms"
+  composition:
+    cameraAngle: "Intimate medium shot capturing family dynamics"
+    focus: "Peaceful domestic scene representing emotional baseline before disruption"
+    depth: "Foreground: family at breakfast table, middle ground: room furnishings, background: garden view through windows"

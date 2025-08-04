@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Moscow High Society Gathering"
+  setting:
+    time: "1870s imperial Russia, evening, spring"
+    location: "Elegant drawing room in aristocratic St. Petersburg mansion, imperial capital under Tsar Alexander II"
+    weather: "Clear evening"
+  characters:
+    - appearance: "Woman, early 30s, strikingly beautiful, dark hair elegantly arranged, aristocratic bearing with graceful neck and shoulders, expressive dark eyes, pale complexion"
+      clothing: "Rich fabrics in deep colors, fashionable 1870s Russian aristocratic dress with fitted bodice, full skirt, fine jewelry, fur stole or velvet cloak"
+      position: "Seated gracefully in ornate armchair, holding teacup"
+      action: "Engaging in polite conversation while maintaining perfect social composure"
+    - appearance: "Man, early 40s, tall thin frame, prominent ears, balding forehead, pale complexion, cold calculating eyes, bureaucratic demeanor"
+      clothing: "Dark formal government official attire, high starched collar, black suit befitting senior civil servant"
+      position: "Standing near fireplace with other gentlemen"
+      action: "Discussing government matters with measured, controlled gestures"
+  scene:
+    mainElements: "Ornate furniture in French style, crystal chandeliers, Persian carpets, gilt-framed mirrors, elaborate wall decorations. Multiple guests in evening attire engaged in refined conversation"
+    details: "Candlelight reflecting off crystal and mirrors, servants moving discreetly with refreshments, paintings of imperial family on walls. Fresh flowers in porcelain vases, silk upholstery, polished mahogany furniture"
+    background: "Grand windows draped with heavy velvet curtains, bookshelves with leather-bound volumes, marble sculptures in alcoves"
+    atmosphere: "Artificial sophistication, whispered conversations, performance of social roles, underlying judgment and gossip. Surface harmony masking deeper tensions"
+  composition:
+    cameraAngle: "Medium wide shot capturing social dynamics"
+    focus: "Woman maintaining perfect social facade while inner restlessness remains hidden"
+    depth: "Foreground: main characters in conversation, middle ground: other guests, background: ornate room details"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Rain Washing Clean"
+  setting:
+    time: "1870s imperial Russia, morning after storm, late summer"
+    location: "Russian country estate, wooden manor house with surrounding birch forests, morning after cleansing storm"
+    weather: "Gentle rain washing over landscape, clearing air after storm"
+  characters:
+    - appearance: "Man, early 30s, tall robust build, curly brown hair, beard, weathered hands from farm work, earnest intelligent eyes"
+      clothing: "Country gentleman attire, practical clothing suitable for estate management, earth-toned fabrics"
+      position: "Standing on veranda, face turned up toward gentle rain"
+      action: "Arms spread wide, letting rain fall on upturned face, breathing deeply with relief"
+  scene:
+    mainElements: "Large wooden house with verandas, farm buildings, fields of grain, forest paths, peasant villages nearby. Everything washed clean by rain, leaves glistening, air cleared of oppressive heat"
+    details: "Rain washing over relieved faces, exhausted but peaceful postures, gentle physical contact after conflict, breathing spaces opening up. Puddles reflecting clearing sky, fresh scent of washed earth"
+    background: "Russian countryside renewed by storm, forests and fields drinking in cleansing water, traditional landscape restored to natural harmony"
+    atmosphere: "Catharsis and release, spiritual cleansing through natural forces, connection to authentic Russian soil providing healing and renewal"
+  composition:
+    cameraAngle: "Medium shot capturing moment of spiritual renewal"
+    focus: "Man experiencing cathartic release and connection to healing natural forces"
+    depth: "Foreground: figure receiving cleansing rain, middle ground: washed estate buildings, background: renewed Russian countryside"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Storm Clouds Gathering Over Estate"
+  setting:
+    time: "1870s imperial Russia, late afternoon, spring turning toward storm"
+    location: "Russian country estate, wooden manor house with surrounding birch forests, approaching storm"
+    weather: "Dark storm clouds gathering on horizon, wind beginning to stir trees"
+  characters:
+    - appearance: "Man, early 30s, tall robust build, curly brown hair, beard, weathered hands from farm work, earnest intelligent eyes"
+      clothing: "Country gentleman attire, practical clothing suitable for estate management, earth-toned fabrics"
+      position: "Standing at window of manor house, looking toward darkening sky"
+      action: "Watching approaching storm with growing unease, hand pressed against window glass"
+  scene:
+    mainElements: "Large wooden house with verandas, farm buildings, fields of grain, forest paths, peasant villages nearby. Wind bending grain stalks, birch leaves rustling ominously, cattle seeking shelter"
+    details: "Lightning flickering in distant clouds, first drops of rain beginning to fall, shutters starting to bang against house walls. Peasants hurrying to secure livestock and equipment"
+    background: "Dark storm front advancing across Russian countryside, forest swaying in increasing wind, previously peaceful landscape now threatening"
+    atmosphere: "Growing tension and foreboding, natural harmony disturbed by approaching storm, sense that change and disruption are inevitable"
+  composition:
+    cameraAngle: "Wide shot contrasting human figure against vast threatening sky"
+    focus: "Man sensing coming disruption, representing first shift from emotional baseline"
+    depth: "Foreground: man at window, middle ground: estate buildings, background: storm clouds dominating horizon"
