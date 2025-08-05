@@ -56,3 +56,8 @@ visualElements:
     - simple
     - friendly
     - efficient
+  stylePrecedents:
+  - Microsoft Metro design language
+  - Google Material Design
+  - iOS 7 flat design revolution
+  - Swiss design principles

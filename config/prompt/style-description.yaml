@@ -83,11 +83,3 @@ postProcessing: # object: Post-production effects (optional)
 stylePrecedents: [] # array[string]: Inspirational styles or artists (optional)
 
 useCases: [] # array[string]: Best use cases for this style (optional)
-
-technicalSpecifications: # object: Technical requirements (REQUIRED)
-  resolution: # object: Resolution specifications
-    aspectRatio: "" # string: Aspect ratio (e.g. "16:9", "1:1", "9:16")
-    minWidth: 0 # number: Minimum width in pixels
-    minHeight: 0 # number: Minimum height in pixels
-    unit: "pixels" # string: Unit of measurement
-  orientation: "" # string: Preferred orientation (e.g. "Landscape", "Portrait", "Square")

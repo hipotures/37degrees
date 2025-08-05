@@ -61,3 +61,6 @@ visualElements:
     adjustments:
       saturation: high
       contrast: maximum
+  stylePrecedents:
+  - Nintendo 8-bit graphics
+  - Atari 2600 game sprites

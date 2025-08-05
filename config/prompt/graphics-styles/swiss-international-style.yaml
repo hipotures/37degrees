@@ -1,0 +1,106 @@
+styleName: Swiss International Style
+description: Clean, objective 1950s-1960s Swiss design with mathematical grids, sans-serif typography, photographic elements, and extreme minimalism. Emphasizes clarity, readability, and universal communication through systematic design.
+aiPrompts:
+  basePrompt: swiss international style poster, helvetica typography, mathematical grid, minimalist design, objective photography, clean layout, modernist, asymmetric balance, negative space, functional design, bauhaus influence
+  negativePrompt: decorative, ornamental, hand-drawn, textured, chaotic, emotional, expressive brushwork, vintage effects, gradient, complex illustration
+  styleKeywords:
+  - swiss design
+  - international style
+  - grid system
+  - helvetica
+  - minimalist
+  - objective
+  - functional
+  - modernist
+  - systematic
+  - universal
+  - rational
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'  # black
+    - '#FFFFFF'  # white
+    - '#FF0000'  # pure red
+    - '#0000FF'  # pure blue
+    secondary:
+    - '#FFFF00'  # pure yellow
+    - '#808080'  # neutral grey
+    - '#00FF00'  # pure green
+    background: predominantly white, occasionally bold color
+    usageNotes: Limited to 2-3 colors maximum. Pure hues only, no tints or shades. Black text on white preferred.
+    saturation: maximum for color accents
+    contrast: extreme black/white with color spots
+  lineArt:
+    style: geometric shapes only, no decorative lines
+    weight: consistent, medium weight
+    color: black or single accent color
+    texture: none, perfectly clean
+    edgeTreatment: precise, mathematical
+  composition:
+    layout: asymmetric balance, mathematical grid
+    hierarchy: through scale and position, not decoration
+    gridSystem: modular grid, often visible
+    whitespace: essential active element, abundant
+  lighting:
+    type: flat, no shadows or dimension
+    direction: not applicable
+    intensity: even, neutral
+    shadows:
+      style: none
+      color: not applicable
+      opacity: not applicable
+    highlights: none
+  rendering:
+    technique: flat color, vector precision
+    texture: none, smooth surfaces only
+    detailLevel: reduced to absolute essentials
+    finish: matte, neutral
+  perspective:
+    type: flat, no perspective
+    vanishingPoints: not used
+    distortion: none
+    depth: through overlapping only
+  typography:
+    integration: primary design element, not decorative
+    style: sans-serif only - Helvetica, Univers, Akzidenz
+    weight: regular and bold only
+    layout: flush left, ragged right preferred
+    effects: none - pure letterforms only
+    characteristics: objective, neutral, universal
+    sizes: clear hierarchy through size
+  mood:
+    overall: objective, rational, universal, clear
+    emotion: neutral, informative, efficient
+    tempo: calm, measured, structured
+    energy: restrained, controlled, purposeful
+    keywords:
+    - objective
+    - rational
+    - clear
+    - universal
+    - functional
+    - systematic
+    - neutral
+    - efficient
+  symbolism:
+    common: basic geometric shapes - circle, square, triangle
+    figures: objective photography when used
+    abstract: mathematical forms, arrows
+    architectural: modernist buildings, industrial objects
+  stylePrecedents:
+  - Josef Müller-Brockmann
+  - Armin Hofmann
+  - Emil Ruder
+  - Max Bill
+  - Karl Gerstner
+  - Wim Crouwel
+  - Ulm School of Design
+  - Bauhaus principles
+  - Jan Tschichold (later work)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

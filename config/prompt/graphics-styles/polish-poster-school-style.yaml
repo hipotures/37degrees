@@ -1,0 +1,108 @@
+styleName: Polish Poster School Style
+description: Metaphorical 1950s-1980s Polish poster art combining painterly techniques, surreal imagery, and conceptual depth. Features hand-drawn elements, emotional expression, and symbolic visual metaphors over literal representation.
+aiPrompts:
+  basePrompt: polish poster school style, painterly technique, surreal metaphor, hand-drawn illustration, conceptual art poster, expressive brushwork, symbolic imagery, collage elements, artistic interpretation, emotional depth, mixed media
+  negativePrompt: literal representation, photographic, computer generated, corporate style, minimalist, geometric precision, commercial advertising, realistic proportions
+  styleKeywords:
+  - polish poster school
+  - painterly
+  - metaphorical
+  - surrealist
+  - hand-drawn
+  - expressive
+  - conceptual
+  - artistic
+  - symbolic
+  - emotional
+  - theatrical poster
+visualElements:
+  colorPalette:
+    primary:
+    - '#8B0000'  # dark red
+    - '#000000'  # black
+    - '#F5DEB3'  # wheat/beige
+    - '#FFFAF0'  # floral white
+    secondary:
+    - '#2F4F4F'  # dark slate grey
+    - '#8B4513'  # saddle brown
+    - '#483D8B'  # dark slate blue
+    - '#FF6347'  # tomato red
+    background: textured, painted backgrounds, often muted
+    usageNotes: Earthy, muted tones with selective bright accents. Painterly color mixing. Often limited palette for impact.
+    saturation: variable - muted overall with intense spots
+    contrast: dramatic through value, not just hue
+  lineArt:
+    style: expressive hand-drawn, loose, gestural
+    weight: variable, painterly quality
+    color: integrated with painting, not separate
+    texture: rough, organic, hand-made
+    edgeTreatment: soft, painterly, sometimes sharp for emphasis
+  composition:
+    layout: central metaphor, asymmetric, dynamic
+    hierarchy: through symbolism and scale
+    gridSystem: intuitive, not mathematical
+    whitespace: integrated as part of composition
+  lighting:
+    type: dramatic, theatrical, emotional
+    direction: varied for mood and symbolism
+    intensity: high contrast areas with soft transitions
+    shadows:
+      style: painted, expressive
+      color: colored shadows common
+      opacity: variable, painterly
+    highlights: selective, meaningful
+  rendering:
+    technique: mixed media - painting, drawing, collage
+    texture: canvas texture, brush strokes visible
+    detailLevel: selective - detailed where meaningful
+    finish: artistic, gallery poster quality
+  perspective:
+    type: surreal, often distorted for effect
+    vanishingPoints: ignored for artistic expression
+    distortion: emotional and symbolic distortion
+    depth: painterly depth, not mathematical
+  typography:
+    integration: hand-lettered, part of artistic composition
+    style: custom drawn, expressive, unique per poster
+    weight: variable, artistic
+    layout: integrated with image, not overlaid
+    effects: painted, drawn, collaged
+    characteristics: artistic, individual, expressive
+    sizes: based on composition needs
+  mood:
+    overall: intellectual, emotional, metaphorical, artistic
+    emotion: varies - melancholy to explosive
+    tempo: contemplative, thought-provoking
+    energy: internal, psychological, symbolic
+    keywords:
+    - metaphorical
+    - intellectual
+    - emotional
+    - artistic
+    - surreal
+    - contemplative
+    - provocative
+    - poetic
+  symbolism:
+    common: visual metaphors, transformed objects
+    figures: distorted for meaning, not decoration
+    abstract: psychological states visualized
+    conceptual: ideas made visual through symbolism
+  stylePrecedents:
+  - Henryk Tomaszewski
+  - Roman Cieślewicz
+  - Jan Lenica
+  - Franciszek Starowieyski
+  - Waldemar Świerzy
+  - Andrzej Pągowski
+  - Mieczysław Górowski
+  - Wiktor Górka
+  - Leszek Żebrowski
+  - Stasys Eidrigevičius
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical
