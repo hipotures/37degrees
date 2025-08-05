@@ -1,0 +1,106 @@
+styleName: Art Deco Poster Style
+description: Luxurious 1920s-1930s poster style with geometric patterns, metallic accents, stylized typography, and elegant symmetrical compositions. Features streamlined forms, sunburst motifs, and glamorous aesthetics of the Jazz Age.
+aiPrompts:
+  basePrompt: art deco poster 1920s, geometric patterns, gold and black, luxury design, symmetrical composition, streamlined forms, metallic accents, stylized typography, sunburst pattern, stepped forms, glamorous aesthetic
+  negativePrompt: organic shapes, rustic textures, asymmetric, hand-drawn, rough edges, natural colors, photorealistic, contemporary design, minimalist, grunge
+  styleKeywords:
+  - art deco
+  - geometric elegance
+  - 1920s glamour
+  - metallic luxury
+  - streamlined
+  - symmetrical
+  - jazz age
+  - decorative
+  - sophisticated
+  - opulent
+  - theatrical
+visualElements:
+  colorPalette:
+    primary:
+    - '#FFD700'  # gold
+    - '#000000'  # black
+    - '#FFFFF0'  # ivory
+    - '#C0C0C0'  # silver
+    secondary:
+    - '#800020'  # burgundy
+    - '#008B8B'  # dark cyan
+    - '#2F4F4F'  # dark slate grey
+    - '#4B0082'  # indigo
+    background: rich dark backgrounds with gold accents, gradient allowed
+    usageNotes: Metallic golds and silvers essential. High contrast between light and dark. Rich jewel tones for accents.
+    saturation: high for jewel tones, metallic sheen effect
+    contrast: extreme, dramatic lighting
+  lineArt:
+    style: precise geometric, decorative borders, repeated patterns
+    weight: varied - thin for details, bold for main elements
+    color: gold or contrasting to background
+    texture: smooth, mechanical precision
+    edgeTreatment: perfect curves, sharp angles, stepped forms
+  composition:
+    layout: central symmetry, radiating patterns, vertical emphasis
+    hierarchy: central focal point with decorative frame
+    gridSystem: strict geometric grid, often with circles and rays
+    whitespace: minimal, every space decorated
+  lighting:
+    type: theatrical, spotlit effect
+    direction: bottom-up for drama, or central radiance
+    intensity: high contrast, gleaming highlights
+    shadows:
+      style: long dramatic shadows
+      color: deep purple or blue-black
+      opacity: gradient shadows acceptable
+    highlights: metallic gleam, chrome effect
+  rendering:
+    technique: airbrush style, smooth gradients
+    texture: sleek, polished surfaces
+    detailLevel: high in patterns, simplified in figures
+    finish: glossy, luxurious appearance
+  perspective:
+    type: often flat with implied depth through overlapping
+    vanishingPoints: single point for architectural elements
+    distortion: stylized elongation acceptable
+    depth: layered flat planes
+  typography:
+    integration: decorative element, part of overall design
+    style: custom geometric letters, inline/outline effects
+    weight: mixed - thin elegant to bold statements
+    layout: integrated into geometric patterns
+    effects: metallic fill, drop shadows, decorative borders
+    characteristics: elongated forms, sharp angles
+    sizes: dramatic scale differences
+  mood:
+    overall: glamorous, sophisticated, optimistic, modern
+    emotion: excitement, luxury, progress, celebration
+    tempo: upbeat, jazzy, rhythmic
+    energy: vibrant, theatrical, dynamic
+    keywords:
+    - glamorous
+    - sophisticated
+    - luxurious
+    - theatrical
+    - optimistic
+    - modern
+    - elegant
+    - celebratory
+  symbolism:
+    common: sunbursts, fountains, zigzags, chevrons
+    figures: stylized dancers, elegant women, modern men
+    abstract: speed lines, radio waves, geometric florals
+    architectural: skyscrapers, ocean liners, trains
+  stylePrecedents:
+  - A.M. Cassandre
+  - Paul Colin
+  - Jean Carlu
+  - Tamara de Lempicka (painting influence)
+  - Erté
+  - Charles Gesmar
+  - Chrysler Building aesthetic
+  - Radio City Music Hall
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

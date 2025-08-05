@@ -1,61 +1,107 @@
 styleName: Memphis Design Style
-description: Postmodern 1980s design movement featuring bold geometric shapes, clashing colors, and playful asymmetry
+description: Bold 1980s postmodern design with clashing patterns, geometric shapes, bright colors, and playful irreverence. Features squiggles, confetti patterns, asymmetric compositions, and rejection of good taste rules.
 aiPrompts:
-  basePrompt: Memphis design, 1980s postmodern, geometric shapes, bold colors, asymmetric patterns, playful design
-  negativePrompt: minimalist, monochrome, traditional, realistic, subtle
+  basePrompt: memphis design poster 1980s, geometric shapes, bright neon colors, squiggle patterns, postmodern style, asymmetric layout, bold patterns, confetti elements, playful design, pop art influence, laminate texture
+  negativePrompt: minimalist, elegant, muted colors, traditional, serious, corporate, realistic, organic shapes, art nouveau, classical composition
   styleKeywords:
-  - Memphis design
+  - memphis milano
   - postmodern
-  - 80s design
-  - geometric
+  - 1980s design
+  - geometric chaos
+  - pattern clash
+  - neon bright
   - playful
+  - irreverent
+  - pop art
+  - kitsch
+  - anti-design
 visualElements:
   colorPalette:
     primary:
-    - hot pink
-    - electric blue
-    - bright yellow
-    - turquoise
+    - '#FF69B4'  # hot pink
+    - '#00CED1'  # dark turquoise
+    - '#FFD700'  # gold
+    - '#FF0000'  # bright red
     secondary:
-    - black
-    - white
-    - mint green
-    background: white or pastel with bold patterns
-    usageNotes: Clashing, bold colors used together fearlessly
-    saturation: very high
-    contrast: high
+    - '#00FF00'  # lime green
+    - '#FF1493'  # deep pink
+    - '#9370DB'  # medium purple
+    - '#000000'  # black for patterns
+    background: white or pastel with pattern overlays
+    usageNotes: Clashing colors intentional. No color harmony rules. Bright primaries and pastels mixed freely.
+    saturation: maximum brightness and saturation
+    contrast: through color discord, not value
   lineArt:
-    style: bold geometric outlines
-    weight: thick, uniform
-    color: black or contrasting colors
-    texture: flat, graphic
-    edgeTreatment: sharp, angular
+    style: bold geometric, squiggles, random patterns
+    weight: variable, mostly bold
+    color: black or contrasting bright
+    texture: flat but with pattern fills
+    edgeTreatment: mix of sharp geometry and organic squiggles
+  composition:
+    layout: chaotic asymmetry, anti-grid
+    hierarchy: unclear, everything competing
+    gridSystem: deliberately broken or ignored
+    whitespace: filled with patterns or shapes
   lighting:
-    type: flat, graphic lighting
-    direction: n/a (flat design)
+    type: flat graphic, no realistic lighting
+    direction: not applicable
     intensity: bright, even
     shadows:
-      style: none or simple drop shadows
-      color: black or colored
+      style: geometric drop shadows
+      color: contrasting bright colors
       opacity: solid
-    highlights: none (flat colors)
+    highlights: none or pattern-based
   rendering:
-    technique: flat graphic design
-    texture: patterns like terrazzo, squiggles, dots
-    detailLevel: simple shapes, complex patterns
-    finish: matte, flat colors
-  perspective: flat or isometric
+    technique: flat vector style, pattern fills
+    texture: laminate, terrazzo, confetti patterns
+    detailLevel: busy, pattern-heavy
+    finish: glossy, plastic-like
+  perspective:
+    type: isometric or conflicting perspectives
+    vanishingPoints: multiple, conflicting
+    distortion: intentional perspective errors
+    depth: through overlapping and size only
+  typography:
+    integration: competing with imagery, not harmonious
+    style: geometric, futuristic, mixed styles
+    weight: bold, outline, 3D effects
+    layout: diagonal, scattered, dynamic
+    effects: drop shadows, outlines, 3D extrusion
+    characteristics: playful, bold, competing for attention
+    sizes: extreme variations, no clear hierarchy
   mood:
-    overall: playful, energetic, rebellious
-    emotion: joy, irreverence, creativity
-    tempo: dynamic, chaotic
+    overall: playful, rebellious, optimistic, chaotic
+    emotion: joy, irreverence, energy, fun
+    tempo: fast, energetic, scattered
+    energy: hyperactive, explosive, youthful
     keywords:
     - playful
-    - bold
     - irreverent
     - energetic
-    - postmodern
+    - chaotic
+    - optimistic
+    - rebellious
+    - fun
+    - anti-establishment
+  symbolism:
+    common: geometric primitives, squiggles, confetti
+    figures: rare, when used very stylized
+    abstract: pattern as meaning, decoration as content
+    objects: everyday objects made strange
   stylePrecedents:
-  - Ettore Sottsass designs
-  - 1980s MTV graphics
-  - Saved by the Bell aesthetics
+  - Ettore Sottsass
+  - Memphis Group
+  - Nathalie Du Pasquier
+  - Peter Shire
+  - Martine Bedin
+  - Michele De Lucchi
+  - MTV graphics influence
+  - David Carson (early work)
+  - April Greiman
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

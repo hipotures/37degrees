@@ -56,3 +56,6 @@ visualElements:
     - clear
     - iconic
     - system
+  stylePrecedents:
+  - Windows 95 system icons
+  - Classic Mac OS interface

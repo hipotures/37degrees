@@ -1,0 +1,107 @@
+styleName: Psychedelic Poster Style
+description: Mind-bending 1960s-1970s poster art with swirling patterns, vibrating colors, distorted typography, and optical illusions. Features organic flowing forms, kaleidoscopic imagery, and counter-culture aesthetics.
+aiPrompts:
+  basePrompt: psychedelic poster 1960s, swirling patterns, vibrant neon colors, melting letters, optical illusion, art nouveau influence, flowing organic forms, kaleidoscopic design, trippy visuals, concert poster style, hand-lettered typography
+  negativePrompt: minimalist, corporate, straight lines, muted colors, readable text, conventional layout, geometric precision, swiss design, modern clean
+  styleKeywords:
+  - psychedelic
+  - trippy
+  - groovy
+  - kaleidoscopic
+  - mind-bending
+  - organic flow
+  - vibrating colors
+  - optical illusion
+  - counter-culture
+  - concert poster
+  - san francisco style
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF1493'  # hot pink
+    - '#00FF00'  # electric green
+    - '#FF4500'  # orange red
+    - '#9400D3'  # violet
+    secondary:
+    - '#FFFF00'  # bright yellow
+    - '#00FFFF'  # cyan
+    - '#FF00FF'  # magenta
+    - '#FFA500'  # orange
+    background: contrasting vibrant colors, gradient swirls
+    usageNotes: Maximum saturation, complementary colors that vibrate. Multiple gradients and color transitions. No neutrals.
+    saturation: oversaturated, fluorescent
+    contrast: vibrating color combinations
+  lineArt:
+    style: flowing organic curves, melting forms, no straight lines
+    weight: variable, thick to thin in single stroke
+    color: contrasting to create optical effects
+    texture: hand-drawn quality, irregular
+    edgeTreatment: soft, flowing, morphing
+  composition:
+    layout: centered explosion, radial symmetry, flowing chaos
+    hierarchy: difficult to read intentionally
+    gridSystem: none - organic flow
+    whitespace: filled completely, horror vacui
+  lighting:
+    type: inner glow, radiating light
+    direction: from center outward
+    intensity: intense, glowing effect
+    shadows:
+      style: none or color shadows
+      color: complementary colors
+      opacity: transparent overlays
+    highlights: neon glow effects
+  rendering:
+    technique: hand-drawn, screen print aesthetic
+    texture: organic patterns throughout
+    detailLevel: overwhelming detail, fractal-like
+    finish: matte with glow effects
+  perspective:
+    type: warped, fish-eye distortion
+    vanishingPoints: multiple or curved
+    distortion: extreme warping, melting
+    depth: through overlapping patterns
+  typography:
+    integration: melting into imagery, barely readable
+    style: hand-lettered, bubble letters, art nouveau inspired
+    weight: variable, flowing thick and thin
+    layout: following curved paths, filling shapes
+    effects: melting, morphing, vibrating outlines
+    characteristics: organic, flowing, psychedelic
+    sizes: variable within single words
+  mood:
+    overall: transcendent, rebellious, free-flowing, explosive
+    emotion: euphoria, liberation, expansion, wonder
+    tempo: swirling, pulsating, rhythmic
+    energy: intense, overwhelming, ecstatic
+    keywords:
+    - mind-expanding
+    - rebellious
+    - free-flowing
+    - ecstatic
+    - transcendent
+    - liberating
+    - intense
+    - otherworldly
+  symbolism:
+    common: peace signs, mushrooms, third eyes, mandalas
+    figures: long-haired figures, cosmic beings
+    abstract: fractals, paisley, optical patterns
+    natural: flowers, rainbows, cosmic imagery
+  stylePrecedents:
+  - Wes Wilson
+  - Victor Moscoso
+  - Rick Griffin
+  - Stanley Mouse
+  - Alton Kelley
+  - Bonnie MacLean
+  - Fillmore Posters
+  - Avalon Ballroom posters
+  - Art Nouveau influence (Mucha)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -60,3 +60,6 @@ visualElements:
     adjustments:
       saturation: enhanced in refractions
       contrast: high
+  stylePrecedents:
+  - High-end product visualization
+  - Blender Cycles glass materials
