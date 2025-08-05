@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Return to Artificial Paradise"
+  setting:
+    time: "AF 632 (2540 AD), midday"
+    location: "Urban streets of future London in World State, clean geometric architecture, organized transportation systems"
+    weather: "Controlled urban climate with filtered artificial lighting"
+  characters:
+    - appearance: "Man, mid-20s, mixed European-Indigenous heritage, brown hair worn long, weathered tan skin, muscular build from manual labor, intense expressive eyes"
+      clothing: "Traditional Savage Reservation clothing - handwoven brown and white cotton tunic, leather belt, moccasins, beaded accessories"
+      position: "Standing with natural unguarded posture, feet planted firmly"
+      action: "Often gesturing expressively while holding traditional objects"
+    - appearance: "Person, various ages, tall athletic build typical of Alpha conditioning, varied hair colors, confident bearing, intelligent eyes"
+      clothing: "Gray Alpha caste uniform - well-tailored gray jackets and trousers, white shirts, regulation Alpha insignia"
+      position: "Upright confident postures in supervisory positions"
+      action: "Performing skilled technical tasks while moving with authority"
+  scene:
+    mainElements: "Geometric buildings reflecting planned urban design contrasting with organic human form, pneumatic postal tubes with mechanical precision, caste-coded pedestrians moving in organized patterns, efficient transport systems with designated areas, clean sterile urban environment"
+    details: "Children playing equivalent - citizens moving through organized urban patterns with conditioned contentment, embraces with genuine smiles equivalent - social interactions following World State conditioning protocols, maximum visual warmth from artificial lighting systems creating uniform illumination, clean geometric surfaces reflecting technological control, mechanical sounds of pneumatic systems and transport, citizens displaying artificially conditioned satisfaction, no text or letters visible"
+    background: "More geometric architecture extending in planned patterns, additional transportation infrastructure, more citizens in color-coded uniforms following systematic social organization"
+    atmosphere: "Joy or hope moments through technological efficiency and social organization, sunlight breaking through clouds equivalent - artificial lighting creating perfect environmental control, embraces with genuine smiles replaced by conditioned social interactions, maximum visual warmth through controlled urban comfort and systematic social harmony"
+  composition:
+    cameraAngle: "Wide shot showing the return to World State urban environment"
+    focus: "The contrast between natural human authenticity and artificial social organization"
+    depth: "Foreground shows immediate urban technological systems, middle ground reveals organized social patterns, background suggests the comprehensive scope of World State control"

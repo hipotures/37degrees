@@ -1,0 +1,233 @@
+canon:
+  characters:
+    - id: "bernard_marx"
+      name: "Bernard Marx"
+      description_block: |
+        characters:
+          - appearance: "Man, early 30s, Alpha-Plus caste, dark hair, unusually short for Alpha at 5'6", slender build, intense dark eyes, slightly nervous demeanor"
+            clothing: "Gray Alpha caste uniform - well-tailored gray jacket and trousers, white shirt, regulation Alpha insignia"
+            position: "Standing with subtle defensive postures, shoulders slightly tensed"
+            action: "Often observing others critically or displaying signs of social discomfort"
+
+    - id: "lenina_crowne"
+      name: "Lenina Crowne"
+      description_block: |
+        characters:
+          - appearance: "Woman, mid-20s, Beta-Plus caste, blonde hair in regulation style, blue eyes, attractive features, confident bearing typical of conditioned Betas"
+            clothing: "Mulberry Beta caste uniform - fitted mulberry jacket and skirt, white blouse, regulation Beta accessories"
+            position: "Upright posture with socially conditioned grace"
+            action: "Moving with practiced ease and social confidence"
+
+    - id: "john_savage"
+      name: "John the Savage"
+      description_block: |
+        characters:
+          - appearance: "Man, mid-20s, mixed European-Indigenous heritage, brown hair worn long, weathered tan skin, muscular build from manual labor, intense expressive eyes"
+            clothing: "Traditional Savage Reservation clothing - handwoven brown and white cotton tunic, leather belt, moccasins, beaded accessories"
+            position: "Standing with natural unguarded posture, feet planted firmly"
+            action: "Often gesturing expressively or holding traditional objects"
+
+    - id: "helmholtz_watson"
+      name: "Helmholtz Watson"
+      description_block: |
+        characters:
+          - appearance: "Man, early 30s, Alpha-Plus caste, athletic build 6'2", blonde hair, strong jaw, physically imposing yet intellectually restless"
+            clothing: "Gray Alpha caste uniform - athletic-cut gray jacket emphasizing his build, matching trousers, white shirt"
+            position: "Confident upright stance with occasional thoughtful poses"
+            action: "Often writing or in contemplative intellectual poses"
+
+    - id: "mustapha_mond"
+      name: "Mustapha Mond"
+      description_block: |
+        characters:
+          - appearance: "Man, late 50s, World Controller, tall imposing figure, graying hair, penetrating intelligent eyes, commanding presence"
+            clothing: "Distinguished World Controller robes - dark formal robes with golden insignia of authority, ceremonial accessories"
+            position: "Seated in position of authority or standing with commanding presence"
+            action: "Gesturing with measured authority while speaking or reading forbidden books"
+
+    - id: "director_thomas"
+      name: "Director of Hatcheries"
+      description_block: |
+        characters:
+          - appearance: "Man, late 40s, Alpha-Plus administrator, medium build, graying brown hair, authoritative bearing, bureaucratic manner"
+            clothing: "Gray Alpha administrative uniform - formal gray suit with directorial insignia, white shirt, official badges"
+            position: "Standing in supervisory position or walking with administrative purpose"
+            action: "Lecturing to groups or overseeing facility operations"
+
+    - id: "linda_savage"
+      name: "Linda"
+      description_block: |
+        characters:
+          - appearance: "Woman, late 40s, formerly Beta caste, now aged from Reservation life, graying blonde hair, weathered skin, body showing effects of mescal consumption"
+            clothing: "Worn Savage Reservation clothing - faded traditional dress, patched shawl, simple leather sandals"
+            position: "Often seated or reclining, showing physical deterioration"
+            action: "Consuming mescal or displaying signs of substance dependency"
+
+    - id: "alpha_worker"
+      name: "Alpha Caste Worker"
+      description_block: |
+        characters:
+          - appearance: "Person, various ages, tall athletic build typical of Alpha conditioning, varied hair colors, confident bearing, intelligent eyes"
+            clothing: "Gray Alpha caste uniform - well-tailored gray jackets and trousers, white shirts, regulation Alpha insignia"
+            position: "Upright confident postures in supervisory or intellectual work positions"
+            action: "Performing skilled technical or administrative tasks"
+
+    - id: "beta_worker"
+      name: "Beta Caste Worker"
+      description_block: |
+        characters:
+          - appearance: "Person, various ages, medium build, average height around 5'6", varied hair colors, competent demeanor"
+            clothing: "Mulberry Beta caste uniform - fitted mulberry jackets and skirts/trousers, white shirts, regulation Beta accessories"
+            position: "Practical working postures in skilled labor positions"
+            action: "Operating equipment or performing semi-skilled technical work"
+
+    - id: "gamma_worker"
+      name: "Gamma Caste Worker"
+      description_block: |
+        characters:
+          - appearance: "Person, various ages, shorter stocky build around 5'4", darker hair colors, dutiful expressions, physically capable"
+            clothing: "Green Gamma caste uniform - simple green work jackets and trousers, basic white shirts, minimal accessories"
+            position: "Functional working postures in service roles"
+            action: "Performing routine service work or maintenance tasks"
+
+    - id: "delta_worker"
+      name: "Delta Caste Worker"  
+      description_block: |
+        characters:
+          - appearance: "Person, various ages, compact build around 5'2", limited intellectual expression, strong physical capability for manual labor"
+            clothing: "Khaki Delta caste uniform - practical khaki work clothes, sturdy boots, minimal ornamentation"
+            position: "Simple working postures focused on physical tasks"
+            action: "Performing manual labor or basic mechanical operations"
+
+    - id: "epsilon_worker"
+      name: "Epsilon Caste Worker"
+      description_block: |
+        characters:
+          - appearance: "Person, various ages, shortest build around 5', deliberately oxygen-deprived during development, vacant expressions, basic motor capabilities"
+            clothing: "Black Epsilon caste uniform - simple black work garments, basic footwear, no decorative elements"
+            position: "Simple standing or working positions for basic tasks"
+            action: "Performing the most basic manual labor or cleaning work"
+
+  locations:
+    - id: "central_london_hatchery"
+      name: "Central London Hatchery and Conditioning Centre"
+      description_block: |
+        setting:
+          location: "Industrial conditioning facility in World State London, sterile white corridors with scientific equipment, assembly-line human production areas"
+        mainElements: "Rows of artificial wombs in glass containers, conditioning equipment, hypnopaedia speakers, scientific monitoring stations"
+        atmosphere: "Clinical sterile environment with constant mechanical humming, bright artificial lighting, antiseptic smell"
+
+    - id: "bernard_apartment"
+      name: "Bernard's Alpha Apartment"
+      description_block: |
+        setting:
+          location: "Alpha-Plus residential quarters in World State London, modern minimalist apartment with regulation furnishings"
+        mainElements: "Synthetic furniture, soma dispensers, video telephone screens, regulation Alpha living amenities"
+        atmosphere: "Sterile comfort with subtle underlying tension, artificial lighting creating precise illumination"
+
+    - id: "savage_reservation"
+      name: "Savage Reservation"
+      description_block: |
+        setting:
+          location: "Malpais pueblo reservation in New Mexico desert, traditional adobe buildings, dusty ceremonial plazas"
+        mainElements: "Ancient adobe structures, traditional fire pits, handmade pottery, woven textiles, desert landscape"
+        atmosphere: "Ancient traditional culture preserved, harsh desert sun, dust and earth scents, spiritual ceremonies"
+
+    - id: "london_streets"
+      name: "World State London Streets"
+      description_block: |
+        setting:
+          location: "Urban streets of future London in World State, clean geometric architecture, organized transportation systems"
+        mainElements: "Pneumatic postal tubes, caste-coded pedestrians, efficient transport systems, geometric buildings"
+        atmosphere: "Ordered urban efficiency with color-coded social organization, controlled environment"
+
+    - id: "feelies_theater"
+      name: "Feelies Theater"
+      description_block: |
+        setting:
+          location: "Entertainment facility in World State London, immersive sensory theater with advanced technology"
+        mainElements: "Tactile cinema seats with sensory apparatus, large projection screens, scent-release systems"
+        atmosphere: "Overwhelming sensory stimulation designed for passive entertainment consumption"
+
+    - id: "hospital_dying"
+      name: "Hospital for the Dying"
+      description_block: |
+        setting:
+          location: "Medical facility in World State London specialized for death conditioning, sterile wards with peaceful death preparation"
+        mainElements: "Comfortable death beds, soma dispensers, calming artificial environments, conditioning speakers"
+        atmosphere: "Artificially peaceful death preparation with clinical efficiency removing natural death anxiety"
+
+    - id: "soma_distribution"
+      name: "Soma Distribution Center"
+      description_block: |
+        setting:
+          location: "Pharmaceutical facility in World State London, automated drug dispensing stations throughout the city"
+        mainElements: "Automated soma dispensers, measurement devices, distribution chutes, queue management systems"
+        atmosphere: "Efficient pharmaceutical distribution with citizens calmly collecting their emotional regulation doses"
+
+    - id: "helicopter_landing"
+      name: "Helicopter Landing Platform"
+      description_block: |
+        setting:
+          location: "Elevated landing platform in World State London, modern aircraft landing facility for upper castes"
+        mainElements: "Sleek helicopters, landing pads, safety barriers, control towers, elevated city views"
+        atmosphere: "Advanced transportation technology emphasizing caste privilege and urban oversight"
+
+    - id: "alpha_plus_office"
+      name: "Alpha-Plus Administrative Office"
+      description_block: |
+        setting:
+          location: "Executive workspace in World State administrative building, modern office with authority symbols"
+        mainElements: "Executive desk, communication screens, filing systems, World State emblems, authority insignia"
+        atmosphere: "Administrative power center with clean efficiency and subtle displays of hierarchical authority"
+
+  items:
+    - id: "soma_tablets"
+      name: "Soma Tablets"
+      description_block: |
+        details: "Small white pharmaceutical tablets dispensed by World State for emotional regulation, each containing precisely measured psychoactive compounds for artificial happiness"
+
+    - id: "shakespeare_book"
+      name: "Shakespeare Complete Works"
+      description_block: |
+        details: "Forbidden leather-bound book containing complete works of William Shakespeare, represents banned art and authentic human expression in the World State"
+
+    - id: "hypnopaedia_pillow"
+      name: "Hypnopaedia Sleep-Teaching Device"
+      description_block: |
+        details: "Conditioning pillow with built-in speakers for sleep learning, delivers repetitive educational content during rest periods for psychological programming"
+
+    - id: "caste_uniform"
+      name: "Caste Identification Uniform"
+      description_block: |
+        details: "Color-coded clothing system identifying social rank - gray for Alphas, mulberry for Betas, green for Gammas, khaki for Deltas, black for Epsilons"
+
+    - id: "world_controller_insignia"
+      name: "World Controller Authority Symbol"
+      description_block: |
+        details: "Golden ceremonial insignia worn by World Controllers, represents supreme governmental authority in the World State hierarchy"
+
+    - id: "conditioning_equipment"
+      name: "Neo-Pavlovian Conditioning Apparatus"
+      description_block: |
+        details: "Scientific equipment for behavioral conditioning including electric shock devices, noise makers, and reward systems for psychological programming"
+
+    - id: "feelies_apparatus"
+      name: "Feelies Sensory Equipment"
+      description_block: |
+        details: "Tactile cinema technology including scent organs, texture transmitters, and sensory stimulation devices for immersive entertainment"
+
+    - id: "pneumatic_post"
+      name: "Pneumatic Postal System"
+      description_block: |
+        details: "Automated message delivery system using compressed air tubes throughout World State cities for efficient communication"
+
+    - id: "helicopter_transport"
+      name: "Personal Helicopter"
+      description_block: |
+        details: "Advanced aircraft for upper caste transportation, represents technological privilege and social hierarchy in World State mobility"
+
+    - id: "savage_pottery"
+      name: "Traditional Pueblo Pottery"
+      description_block: |
+        details: "Handmade ceramic vessels with traditional Native American designs, represents authentic human craftsmanship preserved in Savage Reservation"

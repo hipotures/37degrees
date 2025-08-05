@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: AF 632 (2540 AD), early morning
+    location: Industrial conditioning facility in World State London, sterile white corridors with scientific equipment, assembly-line
+      human production areas
+    weather: Controlled indoor climate, filtered artificial lighting
+  characters:
+  - appearance: Man, late 40s, Alpha-Plus administrator, medium build, graying brown hair, authoritative bearing, bureaucratic
+      manner
+    clothing: Gray Alpha administrative uniform - formal gray suit with directorial insignia, white shirt, official badges
+    position: Standing in supervisory position while walking with administrative purpose
+    action: Lecturing to groups while overseeing facility operations
+  - appearance: Person, various ages, tall athletic build typical of Alpha conditioning, varied hair colors, confident bearing,
+      intelligent eyes
+    clothing: Gray Alpha caste uniform - well-tailored gray jackets and trousers, white shirts, regulation Alpha insignia
+    position: Upright confident postures in supervisory positions
+    action: Performing skilled technical tasks while observing the conditioning process
+  scene:
+    mainElements: Rows of artificial wombs in glass containers, conditioning equipment with precise mechanical movements,
+      hypnopaedia speakers mounted on walls, scientific monitoring stations with glowing displays, workers in color-coded
+      uniforms moving through organized patterns
+    details: Glass incubators containing developing embryos in various stages, mechanical arms rotating bottles in hypnotic
+      precision, conditioning speakers delivering repetitive lessons, workers checking charts and adjusting equipment, bright
+      sterile lighting eliminating all shadows, the quiet hum of machinery creating a constant background rhythm, no text
+      or letters visible
+    background: Endless rows of identical conditioning equipment extending into the distance, workers in gray uniforms moving
+      systematically between stations, mechanical systems operating with clockwork precision
+    atmosphere: Clinical sterile environment with constant mechanical humming, bright artificial lighting creating perfect
+      uniformity, antiseptic smell pervading the air, sense of efficient order and systematic control over human development
+  composition:
+    cameraAngle: Wide establishing shot from elevated platform overlooking the facility
+    focus: The systematic rows of conditioning equipment with human figures providing scale
+    depth: Foreground shows detailed conditioning apparatus, middle ground reveals workers in organized activity, background
+      extends into infinite repetition of the same systems
+visualElements:
+  colorPalette:
+    primary:
+    - gold metallic
+    - black
+    - cream white
+    secondary:
+    - silver chrome
+    - deep red
+    - royal blue
+    background: elegant geometric patterns or luxury settings
+    usageNotes: Rich, luxurious colors with metallic accents
+    saturation: high (rich, elegant colors)
+    contrast: high (dramatic black and gold contrasts)
+  lineArt:
+    style: geometric, symmetrical patterns
+    weight: bold, confident lines
+    color: metallic gold or silver outlines
+    texture: smooth, polished surfaces
+    edgeTreatment: sharp, precise geometric edges
+  lighting:
+    type: dramatic, luxury lighting
+    direction: theatrical lighting emphasizing geometry
+    intensity: bright, glamorous
+    shadows:
+      style: geometric, stylized shadows
+      color: rich dark colors
+      opacity: solid, dramatic
+    highlights: brilliant metallic reflections
+  rendering:
+    technique: precise geometric illustration
+    texture: polished metals, smooth surfaces, luxury materials
+    detailLevel: high (intricate geometric patterns)
+    finish: highly polished, reflective
+  perspective: symmetrical, balanced compositions
+  mood:
+    overall: luxurious, elegant, sophisticated
+    emotion: glamour, sophistication, modern elegance
+    tempo: stately, confident
+    keywords:
+    - luxurious
+    - elegant
+    - sophisticated
+    - glamorous
+    - geometric
+  stylePrecedents:
+  - Chrysler Building architecture
+  - 1920s luxury poster design
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

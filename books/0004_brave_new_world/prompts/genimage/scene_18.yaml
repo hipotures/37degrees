@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: AF 632 (2540 AD), late afternoon
+    location: Pharmaceutical facility in World State London, automated drug dispensing stations throughout the city
+    weather: Controlled indoor environment with harsh artificial lighting
+  characters:
+  - appearance: Man, mid-20s, mixed European-Indigenous heritage, brown hair worn long, weathered tan skin, muscular build
+      from manual labor, intense expressive eyes
+    clothing: Traditional Savage Reservation clothing - handwoven brown and white cotton tunic, leather belt, moccasins, beaded
+      accessories
+    position: Standing with natural unguarded posture, feet planted firmly
+    action: Often gesturing expressively while holding traditional objects
+  - appearance: Person, various ages, medium build, average height around 5'6", varied hair colors, competent demeanor
+    clothing: Mulberry Beta caste uniform - fitted mulberry jackets and skirts/trousers, white shirts, regulation Beta accessories
+    position: Practical working postures in skilled labor positions
+    action: Operating equipment while performing semi-skilled technical work
+  scene:
+    mainElements: Automated soma dispensers offering artificial emotional regulation, measurement devices calibrating exact
+      doses for systematic control, distribution chutes delivering pharmaceutical dependency, queue management systems organizing
+      citizens in orderly submission to chemical control
+    details: Emotional breaking points with tears visible on faces from refusing artificial happiness, collapsed postures
+      from rejecting systematic pharmaceutical control, explosive gestures against automated dispensing systems, profound
+      stillness in rejection of chemical emotional regulation, peak vulnerability showing authentic human suffering versus
+      artificial pharmaceutical solutions, soma tablets scattered or rejected on floor, citizens displaying shock at witnessing
+      rejection of fundamental World State control mechanism, no text or letters visible
+    background: More automated dispensers extending throughout the facility, additional pharmaceutical control systems, citizens
+      in color-coded uniforms displaying conditioned dependency on chemical emotional regulation
+    atmosphere: Emotional breaking points with tears visible from refusing artificial pharmaceutical happiness, collapsed
+      postures showing authentic human suffering, explosive gestures or profound stillness representing peak vulnerability
+      and rejection of systematic chemical control, maximum emotional tension from confronting fundamental World State dependency
+      mechanisms
+  composition:
+    cameraAngle: Close medium shot emphasizing the emotional intensity of pharmaceutical rejection
+    focus: The dramatic moment of rejecting artificial chemical emotional control
+    depth: Foreground shows immediate emotional crisis and pharmaceutical rejection, middle ground reveals systematic drug
+      distribution infrastructure, background suggests the comprehensive scope of World State chemical dependency
+visualElements:
+  colorPalette:
+    primary:
+    - gold metallic
+    - black
+    - cream white
+    secondary:
+    - silver chrome
+    - deep red
+    - royal blue
+    background: elegant geometric patterns or luxury settings
+    usageNotes: Rich, luxurious colors with metallic accents
+    saturation: high (rich, elegant colors)
+    contrast: high (dramatic black and gold contrasts)
+  lineArt:
+    style: geometric, symmetrical patterns
+    weight: bold, confident lines
+    color: metallic gold or silver outlines
+    texture: smooth, polished surfaces
+    edgeTreatment: sharp, precise geometric edges
+  lighting:
+    type: dramatic, luxury lighting
+    direction: theatrical lighting emphasizing geometry
+    intensity: bright, glamorous
+    shadows:
+      style: geometric, stylized shadows
+      color: rich dark colors
+      opacity: solid, dramatic
+    highlights: brilliant metallic reflections
+  rendering:
+    technique: precise geometric illustration
+    texture: polished metals, smooth surfaces, luxury materials
+    detailLevel: high (intricate geometric patterns)
+    finish: highly polished, reflective
+  perspective: symmetrical, balanced compositions
+  mood:
+    overall: luxurious, elegant, sophisticated
+    emotion: glamour, sophistication, modern elegance
+    tempo: stately, confident
+    keywords:
+    - luxurious
+    - elegant
+    - sophisticated
+    - glamorous
+    - geometric
+  stylePrecedents:
+  - Chrysler Building architecture
+  - 1920s luxury poster design
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

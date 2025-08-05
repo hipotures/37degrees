@@ -1,0 +1,93 @@
+sceneDescription:
+  setting:
+    time: AF 632 (2540 AD), late afternoon
+    location: Industrial conditioning facility in World State London, sterile white corridors with scientific equipment, assembly-line
+      human production areas
+    weather: Controlled indoor climate with bright artificial lighting
+  characters:
+  - appearance: Man, late 40s, Alpha-Plus administrator, medium build, graying brown hair, authoritative bearing, bureaucratic
+      manner
+    clothing: Gray Alpha administrative uniform - formal gray suit with directorial insignia, white shirt, official badges
+    position: Standing in supervisory position while walking with administrative purpose
+    action: Lecturing to groups while overseeing facility operations
+  - appearance: Person, various ages, tall athletic build typical of Alpha conditioning, varied hair colors, confident bearing,
+      intelligent eyes
+    clothing: Gray Alpha caste uniform - well-tailored gray jackets and trousers, white shirts, regulation Alpha insignia
+    position: Upright confident postures in supervisory positions
+    action: Performing skilled technical tasks while moving with authority
+  scene:
+    mainElements: Rows of artificial wombs in glass containers continuing operation, conditioning equipment operating with
+      mechanical precision, hypnopaedia speakers delivering systematic lessons, scientific monitoring stations maintaining
+      systematic human development, workers in color-coded uniforms following established procedures
+    details: New emotional baseline with systematic operations continuing unchanged, different expressions on familiar administrative
+      faces suggesting subtle awareness of recent events, environmental healing equivalent - facility systems operating with
+      same efficiency but perceived with altered understanding, permanent institutional continuity despite individual authentic
+      experiences, conditioning processes continuing systematic human development, mechanical systems maintaining precise
+      control over human consciousness, bright sterile lighting continuing to eliminate natural shadows, no text or letters
+      visible
+    background: Endless rows of identical conditioning equipment continuing systematic operation, more workers in gray uniforms
+      maintaining established procedures, mechanical systems extending systematic control throughout the facility
+    atmosphere: New emotional baseline with systematic institutional operations continuing unchanged, permanent changes in
+      how facility control is perceived despite operational continuity, environmental healing through persistent technological
+      efficiency, familiar institutional environment maintaining systematic human development despite recent authentic human
+      experiences
+  composition:
+    cameraAngle: Wide establishing shot emphasizing the continuation of systematic institutional control
+    focus: The persistence of World State conditioning systems despite individual authentic experiences
+    depth: Foreground shows continuing systematic operations, middle ground reveals institutional continuity, background suggests
+      the comprehensive persistence of World State control mechanisms despite individual human authenticity
+visualElements:
+  colorPalette:
+    primary:
+    - gold metallic
+    - black
+    - cream white
+    secondary:
+    - silver chrome
+    - deep red
+    - royal blue
+    background: elegant geometric patterns or luxury settings
+    usageNotes: Rich, luxurious colors with metallic accents
+    saturation: high (rich, elegant colors)
+    contrast: high (dramatic black and gold contrasts)
+  lineArt:
+    style: geometric, symmetrical patterns
+    weight: bold, confident lines
+    color: metallic gold or silver outlines
+    texture: smooth, polished surfaces
+    edgeTreatment: sharp, precise geometric edges
+  lighting:
+    type: dramatic, luxury lighting
+    direction: theatrical lighting emphasizing geometry
+    intensity: bright, glamorous
+    shadows:
+      style: geometric, stylized shadows
+      color: rich dark colors
+      opacity: solid, dramatic
+    highlights: brilliant metallic reflections
+  rendering:
+    technique: precise geometric illustration
+    texture: polished metals, smooth surfaces, luxury materials
+    detailLevel: high (intricate geometric patterns)
+    finish: highly polished, reflective
+  perspective: symmetrical, balanced compositions
+  mood:
+    overall: luxurious, elegant, sophisticated
+    emotion: glamour, sophistication, modern elegance
+    tempo: stately, confident
+    keywords:
+    - luxurious
+    - elegant
+    - sophisticated
+    - glamorous
+    - geometric
+  stylePrecedents:
+  - Chrysler Building architecture
+  - 1920s luxury poster design
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

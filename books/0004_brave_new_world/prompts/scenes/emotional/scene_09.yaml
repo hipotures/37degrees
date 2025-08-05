@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Ancient Culture Encounter"
+  setting:
+    time: "AF 632 (2540 AD), late afternoon"
+    location: "Malpais pueblo reservation in New Mexico desert, traditional adobe buildings, dusty ceremonial plazas"
+    weather: "Harsh desert sun with natural wind carrying dust and earth scents"
+  characters:
+    - appearance: "Man, mid-20s, mixed European-Indigenous heritage, brown hair worn long, weathered tan skin, muscular build from manual labor, intense expressive eyes"
+      clothing: "Traditional Savage Reservation clothing - handwoven brown and white cotton tunic, leather belt, moccasins, beaded accessories"
+      position: "Standing with natural unguarded posture, feet planted firmly"
+      action: "Often gesturing expressively while holding traditional objects"
+    - appearance: "Woman, late 40s, formerly Beta caste, now aged from Reservation life, graying blonde hair, weathered skin, body showing effects of mescal consumption"
+      clothing: "Worn Savage Reservation clothing - faded traditional dress, patched shawl, simple leather sandals"
+      position: "Often seated or reclining, showing physical deterioration"
+      action: "Consuming mescal while displaying signs of substance dependency"
+  scene:
+    mainElements: "Ancient adobe structures built with traditional methods, traditional fire pits with burning wood, handmade pottery displaying centuries-old techniques, woven textiles created without industrial machinery, desert landscape providing natural backdrop"
+    details: "Handmade ceramic vessels with traditional Native American designs representing authentic human craftsmanship, traditional fire pits with real flames and smoke, natural materials like wood, clay, and plant fibers used in construction, dust and earth creating natural surfaces unlike sterile World State environments, shadows cast by natural sun and firelight, authentic human labor visible in every crafted object, no text or letters visible"
+    background: "More traditional adobe buildings extending throughout the reservation, additional fire pits and traditional activities, desert landscape continuing to natural horizon"
+    atmosphere: "Ancient traditional culture preserved outside technological control, harsh desert sun and dust creating authentic sensory experience, spiritual ceremonies and traditional practices, sense of genuine human connection to natural environment and ancestral wisdom"
+  composition:
+    cameraAngle: "Medium wide shot showing traditional village life and cultural practices"
+    focus: "The contrast between authentic traditional culture and the characters' conditioned background"
+    depth: "Foreground shows detailed traditional craftsmanship, middle ground reveals village social structure, background suggests the preservation of ancient ways in natural landscape"

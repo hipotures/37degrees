@@ -1,0 +1,93 @@
+sceneDescription:
+  setting:
+    time: AF 632 (2540 AD), afternoon
+    location: Medical facility in World State London specialized for death conditioning, sterile wards with peaceful death
+      preparation
+    weather: Controlled indoor environment with clinical artificial lighting
+  characters:
+  - appearance: Woman, late 40s, formerly Beta caste, now aged from Reservation life, graying blonde hair, weathered skin,
+      body showing effects of mescal consumption
+    clothing: Worn Savage Reservation clothing - faded traditional dress, patched shawl, simple leather sandals
+    position: Often seated or reclining, showing physical deterioration
+    action: Consuming mescal while displaying signs of substance dependency
+  - appearance: Man, mid-20s, mixed European-Indigenous heritage, brown hair worn long, weathered tan skin, muscular build
+      from manual labor, intense expressive eyes
+    clothing: Traditional Savage Reservation clothing - handwoven brown and white cotton tunic, leather belt, moccasins, beaded
+      accessories
+    position: Standing with natural unguarded posture, feet planted firmly
+    action: Often gesturing expressively while holding traditional objects
+  scene:
+    mainElements: Comfortable death beds with clinical precision, soma dispensers providing artificial peace, calming artificial
+      environments designed to eliminate natural death anxiety, conditioning speakers delivering systematic emotional regulation,
+      medical equipment monitoring physical condition
+    details: Pressure mounting through systematic medical processing of natural human death, walls seeming to press closer
+      through clinical environment design, multiple characters in states of visible stress from encountering authentic human
+      mortality outside conditioning, environment becoming more chaotic with medical systems replacing natural death processes,
+      sterile lighting eliminating natural shadows and authentic atmosphere, technological solutions imposing artificial calm
+      over genuine human grief, no text or letters visible
+    background: More clinical death preparation facilities, additional medical monitoring equipment, sterile institutional
+      architecture extending throughout the facility
+    atmosphere: Pressure mounting with systematic medical control over natural human death experience, walls seeming to press
+      closer through clinical institutional design, multiple characters in states of visible stress from encountering authentic
+      human mortality, environment becoming more chaotic and oppressive through technological replacement of natural death
+      processes
+  composition:
+    cameraAngle: Medium close shot emphasizing the tension between natural death and artificial processing
+    focus: The conflict between authentic human mortality and World State death conditioning
+    depth: Foreground shows immediate medical death processing, middle ground reveals clinical control systems, background
+      suggests the systematic replacement of natural human experiences
+visualElements:
+  colorPalette:
+    primary:
+    - gold metallic
+    - black
+    - cream white
+    secondary:
+    - silver chrome
+    - deep red
+    - royal blue
+    background: elegant geometric patterns or luxury settings
+    usageNotes: Rich, luxurious colors with metallic accents
+    saturation: high (rich, elegant colors)
+    contrast: high (dramatic black and gold contrasts)
+  lineArt:
+    style: geometric, symmetrical patterns
+    weight: bold, confident lines
+    color: metallic gold or silver outlines
+    texture: smooth, polished surfaces
+    edgeTreatment: sharp, precise geometric edges
+  lighting:
+    type: dramatic, luxury lighting
+    direction: theatrical lighting emphasizing geometry
+    intensity: bright, glamorous
+    shadows:
+      style: geometric, stylized shadows
+      color: rich dark colors
+      opacity: solid, dramatic
+    highlights: brilliant metallic reflections
+  rendering:
+    technique: precise geometric illustration
+    texture: polished metals, smooth surfaces, luxury materials
+    detailLevel: high (intricate geometric patterns)
+    finish: highly polished, reflective
+  perspective: symmetrical, balanced compositions
+  mood:
+    overall: luxurious, elegant, sophisticated
+    emotion: glamour, sophistication, modern elegance
+    tempo: stately, confident
+    keywords:
+    - luxurious
+    - elegant
+    - sophisticated
+    - glamorous
+    - geometric
+  stylePrecedents:
+  - Chrysler Building architecture
+  - 1920s luxury poster design
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

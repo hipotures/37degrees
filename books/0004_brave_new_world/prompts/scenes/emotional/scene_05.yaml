@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Hierarchical Social Order"
+  setting:
+    time: "AF 632 (2540 AD), late afternoon"
+    location: "Urban streets of future London in World State, clean geometric architecture, organized transportation systems"
+    weather: "Clear controlled urban climate with filtered sunlight"
+  characters:
+    - appearance: "Person, various ages, tall athletic build typical of Alpha conditioning, varied hair colors, confident bearing, intelligent eyes"
+      clothing: "Gray Alpha caste uniform - well-tailored gray jackets and trousers, white shirts, regulation Alpha insignia"
+      position: "Upright confident postures in supervisory positions"
+      action: "Performing skilled technical tasks while moving with authority"
+    - appearance: "Person, various ages, medium build, average height around 5'6\", varied hair colors, competent demeanor"
+      clothing: "Mulberry Beta caste uniform - fitted mulberry jackets and skirts/trousers, white shirts, regulation Beta accessories"
+      position: "Practical working postures in skilled labor positions"
+      action: "Operating equipment while performing semi-skilled technical work"
+    - appearance: "Person, various ages, shorter stocky build around 5'4\", darker hair colors, dutiful expressions, physically capable"
+      clothing: "Green Gamma caste uniform - simple green work jackets and trousers, basic white shirts, minimal accessories"
+      position: "Functional working postures in service roles"
+      action: "Performing routine service work and maintenance tasks"
+  scene:
+    mainElements: "Pneumatic postal tubes connecting buildings with efficient message systems, caste-coded pedestrians moving in organized patterns according to social hierarchy, efficient transport systems with designated caste areas, geometric buildings reflecting planned urban design"
+    details: "Color-coded clothing system identifying social rank - gray for Alphas moving with authority, mulberry for Betas in skilled positions, green for Gammas in service roles, automated message delivery system using compressed air tubes throughout World State cities, geometric architecture emphasizing order and control, clean streets with no litter or disorder, citizens moving in predictable patterns, no text or letters visible"
+    background: "More geometric buildings extending into the distance, additional pneumatic tubes and transport infrastructure, more citizens in color-coded uniforms following social patterns"
+    atmosphere: "Ordered urban efficiency with color-coded social organization, controlled environment emphasizing hierarchy and systematic social function, sense of engineered social harmony through rigid classification"
+  composition:
+    cameraAngle: "Wide street-level shot showing the social hierarchy in motion"
+    focus: "The color-coded citizens moving through the organized urban environment"
+    depth: "Foreground shows individual caste interactions, middle ground reveals street-level social organization, background suggests the broader World State urban planning"

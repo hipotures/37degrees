@@ -1,0 +1,92 @@
+sceneDescription:
+  setting:
+    time: AF 632 (2540 AD), early evening
+    location: Pharmaceutical facility in World State London, automated drug dispensing stations throughout the city
+    weather: Controlled indoor environment with dramatic lighting contrasts
+  characters:
+  - appearance: Man, mid-20s, mixed European-Indigenous heritage, brown hair worn long, weathered tan skin, muscular build
+      from manual labor, intense expressive eyes
+    clothing: Traditional Savage Reservation clothing - handwoven brown and white cotton tunic, leather belt, moccasins, beaded
+      accessories
+    position: Standing with natural unguarded posture, feet planted firmly
+    action: Often gesturing expressively while holding traditional objects
+  - appearance: Person, various ages, medium build, average height around 5'6", varied hair colors, competent demeanor
+    clothing: Mulberry Beta caste uniform - fitted mulberry jackets and skirts/trousers, white shirts, regulation Beta accessories
+    position: Practical working postures in skilled labor positions
+    action: Operating equipment while performing semi-skilled technical work
+  scene:
+    mainElements: Small white pharmaceutical tablets being destroyed or scattered, automated dispensers damaged or disrupted,
+      citizens in shock at witnessing destruction of fundamental World State control mechanism, pharmaceutical infrastructure
+      showing signs of disruption
+    details: Emotional breaking points with explosive gestures against pharmaceutical control systems, soma tablets scattered
+      across floor representing rejection of artificial happiness, collapsed postures from citizens witnessing destruction
+      of their dependency system, tears visible on faces from confronting the reality of their chemical control, profound
+      stillness from other characters unable to comprehend rejection of systematic emotional regulation, peak vulnerability
+      as authentic human values confront technological dependency, mechanical sounds of disrupted dispensing systems, no text
+      or letters visible
+    background: More pharmaceutical control infrastructure showing signs of disruption, additional citizens in various states
+      of shock and confusion, systematic drug distribution systems continuing to operate despite localized disruption
+    atmosphere: Emotional breaking points with tears visible from confronting pharmaceutical dependency reality, collapsed
+      postures showing system shock, explosive gestures or profound stillness representing peak vulnerability from witnessing
+      authentic human resistance to technological control, maximum emotional tension at the climax of individual versus systematic
+      confrontation
+  composition:
+    cameraAngle: Dynamic angle emphasizing the violent rejection of pharmaceutical control
+    focus: The dramatic destruction of World State dependency mechanisms and citizen shock
+    depth: Foreground shows immediate violent rejection and emotional crisis, middle ground reveals citizen shock and system
+      disruption, background suggests the broader implications for World State control mechanisms
+visualElements:
+  colorPalette:
+    primary:
+    - gold metallic
+    - black
+    - cream white
+    secondary:
+    - silver chrome
+    - deep red
+    - royal blue
+    background: elegant geometric patterns or luxury settings
+    usageNotes: Rich, luxurious colors with metallic accents
+    saturation: high (rich, elegant colors)
+    contrast: high (dramatic black and gold contrasts)
+  lineArt:
+    style: geometric, symmetrical patterns
+    weight: bold, confident lines
+    color: metallic gold or silver outlines
+    texture: smooth, polished surfaces
+    edgeTreatment: sharp, precise geometric edges
+  lighting:
+    type: dramatic, luxury lighting
+    direction: theatrical lighting emphasizing geometry
+    intensity: bright, glamorous
+    shadows:
+      style: geometric, stylized shadows
+      color: rich dark colors
+      opacity: solid, dramatic
+    highlights: brilliant metallic reflections
+  rendering:
+    technique: precise geometric illustration
+    texture: polished metals, smooth surfaces, luxury materials
+    detailLevel: high (intricate geometric patterns)
+    finish: highly polished, reflective
+  perspective: symmetrical, balanced compositions
+  mood:
+    overall: luxurious, elegant, sophisticated
+    emotion: glamour, sophistication, modern elegance
+    tempo: stately, confident
+    keywords:
+    - luxurious
+    - elegant
+    - sophisticated
+    - glamorous
+    - geometric
+  stylePrecedents:
+  - Chrysler Building architecture
+  - 1920s luxury poster design
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -102,7 +102,8 @@ UWAGA: Używaj MCP playwright-headless do automatyzacji
   3. Przenieś i nazwij pliki
 
   // Znajdź pobrane pliki
-  ls -la -t /tmp/playwright-mcp-files/ChatGPT-Image*.png
+  ls -la -t /tmp/playwright-mcp-files/headless/ChatGPT-Image*.png (jesli używasz serwera MCP "playwright-headless"
+  ls -la -t /tmp/playwright-mcp-files/browser/ChatGPT-Image*.png (jesli używasz serwera MCP "playwright-show-browser"
 
   // Wyciągnij numer sceny z Thread ID (z TODO-GENERATE.md)
   // Format TODO: "[x] Created thread [THREAD_ID] for image scene_NN.yaml"
@@ -120,7 +121,7 @@ UWAGA: Używaj MCP playwright-headless do automatyzacji
   // NIGDY nie nadpisuj istniejących plików!
 
   // Przenieś plik
-  mv /tmp/playwright-mcp-files/ChatGPT-Image*.png /home/xai/DEV/37degrees/books/[BOOK_FOLDER]/generated/[FINAL_NAME].png
+  mv -n /tmp/playwright-mcp-files/[headless|browser]/ChatGPT-Image*.png /home/xai/DEV/37degrees/books/[BOOK_FOLDER]/generated/[FINAL_NAME].png
 
   // Zaktualizuj status w TODO-GENERATE.md - zmień [x] [ ] na [x] [x]
   sed -i "s/^\[x\] \[ \] Created thread ${THREAD_ID}/[x] [x] Created thread ${THREAD_ID}/" /home/xai/DEV/37degrees/books/[BOOK_FOLDER]/prompts/genimage/TODO-GENERATE.md

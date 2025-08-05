@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Intellectual Condemnation"
+  setting:
+    time: "AF 632 (2540 AD), afternoon"
+    location: "Executive workspace in World State administrative building, modern office with authority symbols"
+    weather: "Controlled indoor environment with intense artificial lighting"
+  characters:
+    - appearance: "Man, late 50s, World Controller, tall imposing figure, graying hair, penetrating intelligent eyes, commanding presence"
+      clothing: "Distinguished World Controller robes - dark formal robes with golden insignia of authority, ceremonial accessories"
+      position: "Seated in position of authority while standing with commanding presence"
+      action: "Gesturing with measured authority while speaking and reading forbidden books"
+    - appearance: "Man, mid-20s, mixed European-Indigenous heritage, brown hair worn long, weathered tan skin, muscular build from manual labor, intense expressive eyes"
+      clothing: "Traditional Savage Reservation clothing - handwoven brown and white cotton tunic, leather belt, moccasins, beaded accessories"
+      position: "Standing with natural unguarded posture, feet planted firmly"
+      action: "Often gesturing expressively while holding traditional objects"
+  scene:
+    mainElements: "Executive desk representing administrative authority over human consciousness, communication screens displaying World State control systems, filing systems containing forbidden knowledge, World State emblems symbolizing totalitarian power, authority insignia emphasizing hierarchical control"
+    details: "Golden ceremonial insignia worn by World Controllers representing supreme governmental authority, forbidden books hidden in official spaces, communication technology connecting to global control systems, faces turned away in shadows created by harsh institutional lighting, clenched fists or protective postures showing resistance to authoritarian judgment, harsh angular compositions from institutional architecture and furniture, authentic human dignity confronting systematic oppression, no text or letters visible"
+    background: "More executive furnishings and administrative technology, additional World State symbols and authority displays, institutional architecture extending throughout the building"
+    atmosphere: "Despair or conflict scenes with authority figures exercising control over authentic human expression, faces turned away in shadows from institutional lighting, clenched fists or protective postures against systematic oppression, harsh angular compositions from authoritarian architecture, genuine human values confronting totalitarian efficiency"
+  composition:
+    cameraAngle: "Medium wide shot showing the power dynamic between authority and individual authenticity"
+    focus: "The confrontation between totalitarian control and authentic human values"
+    depth: "Foreground shows immediate power confrontation, middle ground reveals institutional control mechanisms, background suggests the comprehensive scope of World State authority"

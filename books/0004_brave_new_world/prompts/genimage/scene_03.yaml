@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: AF 632 (2540 AD), afternoon
+    location: Pharmaceutical facility in World State London, automated drug dispensing stations throughout the city
+    weather: Controlled indoor environment with consistent artificial lighting
+  characters:
+  - appearance: Person, various ages, medium build, average height around 5'6", varied hair colors, competent demeanor
+    clothing: Mulberry Beta caste uniform - fitted mulberry jackets and skirts/trousers, white shirts, regulation Beta accessories
+    position: Practical working postures in skilled labor positions
+    action: Operating equipment while performing semi-skilled technical work
+  - appearance: Person, various ages, shorter stocky build around 5'4", darker hair colors, dutiful expressions, physically
+      capable
+    clothing: Green Gamma caste uniform - simple green work jackets and trousers, basic white shirts, minimal accessories
+    position: Functional working postures in service roles
+    action: Performing routine service work and maintenance tasks
+  scene:
+    mainElements: Automated soma dispensers with mechanical precision, measurement devices calibrating exact doses, distribution
+      chutes delivering tablets smoothly, queue management systems organizing citizens in orderly lines
+    details: Small white pharmaceutical tablets dispensed by World State for emotional regulation, each containing precisely
+      measured psychoactive compounds for artificial happiness, citizens approaching dispensers with calm expectation, mechanical
+      sounds of tablets dropping into containers, queue barriers maintaining perfect order, soft lighting creating comfortable
+      atmosphere, no text or letters visible
+    background: More automated dispensers extending throughout the facility, workers in color-coded uniforms maintaining systems,
+      additional citizens waiting in organized queues
+    atmosphere: Efficient pharmaceutical distribution with citizens calmly collecting their emotional regulation doses, sense
+      of routine dependency and artificial well-being, quiet mechanical sounds creating soothing background rhythm
+  composition:
+    cameraAngle: Medium wide shot showing the dispensing process and citizen interaction
+    focus: The interaction between citizens and soma dispensing technology
+    depth: Foreground shows detailed dispenser mechanisms, middle ground reveals citizens in queue, background suggests the
+      systematic pharmaceutical infrastructure
+visualElements:
+  colorPalette:
+    primary:
+    - gold metallic
+    - black
+    - cream white
+    secondary:
+    - silver chrome
+    - deep red
+    - royal blue
+    background: elegant geometric patterns or luxury settings
+    usageNotes: Rich, luxurious colors with metallic accents
+    saturation: high (rich, elegant colors)
+    contrast: high (dramatic black and gold contrasts)
+  lineArt:
+    style: geometric, symmetrical patterns
+    weight: bold, confident lines
+    color: metallic gold or silver outlines
+    texture: smooth, polished surfaces
+    edgeTreatment: sharp, precise geometric edges
+  lighting:
+    type: dramatic, luxury lighting
+    direction: theatrical lighting emphasizing geometry
+    intensity: bright, glamorous
+    shadows:
+      style: geometric, stylized shadows
+      color: rich dark colors
+      opacity: solid, dramatic
+    highlights: brilliant metallic reflections
+  rendering:
+    technique: precise geometric illustration
+    texture: polished metals, smooth surfaces, luxury materials
+    detailLevel: high (intricate geometric patterns)
+    finish: highly polished, reflective
+  perspective: symmetrical, balanced compositions
+  mood:
+    overall: luxurious, elegant, sophisticated
+    emotion: glamour, sophistication, modern elegance
+    tempo: stately, confident
+    keywords:
+    - luxurious
+    - elegant
+    - sophisticated
+    - glamorous
+    - geometric
+  stylePrecedents:
+  - Chrysler Building architecture
+  - 1920s luxury poster design
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical
