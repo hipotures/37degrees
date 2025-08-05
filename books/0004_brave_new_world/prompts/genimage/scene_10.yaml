@@ -1,0 +1,94 @@
+sceneDescription:
+  setting:
+    time: AF 632 (2540 AD), evening
+    location: Malpais pueblo reservation in New Mexico desert, traditional adobe buildings, dusty ceremonial plazas
+    weather: Desert evening with natural sunset light and cooling temperatures
+  characters:
+  - appearance: Man, early 30s, Alpha-Plus caste, dark hair, unusually short for Alpha at 5'6", slender build, intense dark
+      eyes, slightly nervous demeanor
+    clothing: Gray Alpha caste uniform - well-tailored gray jacket and trousers, white shirt, regulation Alpha insignia
+    position: Standing with subtle defensive postures, shoulders slightly tensed
+    action: Often observing others critically while displaying signs of social discomfort
+  - appearance: Woman, mid-20s, Beta-Plus caste, blonde hair in regulation style, blue eyes, attractive features, confident
+      bearing typical of conditioned Betas
+    clothing: Mulberry Beta caste uniform - fitted mulberry jacket and skirt, white blouse, regulation Beta accessories
+    position: Upright posture with socially conditioned grace
+    action: Moving with practiced ease and social confidence
+  - appearance: Woman, late 40s, formerly Beta caste, now aged from Reservation life, graying blonde hair, weathered skin,
+      body showing effects of mescal consumption
+    clothing: Worn Savage Reservation clothing - faded traditional dress, patched shawl, simple leather sandals
+    position: Often seated or reclining, showing physical deterioration
+    action: Consuming mescal while displaying signs of substance dependency
+  scene:
+    mainElements: Traditional adobe buildings with authentic architectural methods, ceremonial fire burning with natural flames,
+      reservation residents engaged in evening activities, natural desert sunset creating dramatic lighting, cultural artifacts
+      representing centuries of tradition
+    details: Natural sunset light creating warm colors on adobe walls, traditional fires casting flickering shadows unlike
+      artificial lighting, authentic human expressions showing emotion unconditioned by World State systems, weathered faces
+      displaying life experience unknown in sterile World State environment, natural materials showing wear and age from real
+      use, dust and earth creating texture absent in controlled environments, no text or letters visible
+    background: More traditional buildings in evening light, additional ceremonial activities, desert landscape in natural
+      sunset colors
+    atmosphere: Disrupted patterns from expected World State order, empty chair at dinner table equivalent - absence of technological
+      control, closed door previously open to artificial systems, characters in completely unexpected locations outside their
+      conditioning, visual breaks in established World State rhythms
+  composition:
+    cameraAngle: Medium shot showing the contrast between conditioned visitors and traditional residents
+    focus: The emotional impact of encountering authentic human culture outside World State control
+    depth: Foreground shows immediate cultural confrontation, middle ground reveals traditional village evening activities,
+      background suggests the preservation of human authenticity in natural setting
+visualElements:
+  colorPalette:
+    primary:
+    - gold metallic
+    - black
+    - cream white
+    secondary:
+    - silver chrome
+    - deep red
+    - royal blue
+    background: elegant geometric patterns or luxury settings
+    usageNotes: Rich, luxurious colors with metallic accents
+    saturation: high (rich, elegant colors)
+    contrast: high (dramatic black and gold contrasts)
+  lineArt:
+    style: geometric, symmetrical patterns
+    weight: bold, confident lines
+    color: metallic gold or silver outlines
+    texture: smooth, polished surfaces
+    edgeTreatment: sharp, precise geometric edges
+  lighting:
+    type: dramatic, luxury lighting
+    direction: theatrical lighting emphasizing geometry
+    intensity: bright, glamorous
+    shadows:
+      style: geometric, stylized shadows
+      color: rich dark colors
+      opacity: solid, dramatic
+    highlights: brilliant metallic reflections
+  rendering:
+    technique: precise geometric illustration
+    texture: polished metals, smooth surfaces, luxury materials
+    detailLevel: high (intricate geometric patterns)
+    finish: highly polished, reflective
+  perspective: symmetrical, balanced compositions
+  mood:
+    overall: luxurious, elegant, sophisticated
+    emotion: glamour, sophistication, modern elegance
+    tempo: stately, confident
+    keywords:
+    - luxurious
+    - elegant
+    - sophisticated
+    - glamorous
+    - geometric
+  stylePrecedents:
+  - Chrysler Building architecture
+  - 1920s luxury poster design
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

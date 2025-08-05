@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Public Spectacle and Social Pressure"
+  setting:
+    time: "AF 632 (2540 AD), midday"
+    location: "Urban streets of future London in World State, clean geometric architecture, organized transportation systems"
+    weather: "Controlled urban climate with intense artificial lighting"
+  characters:
+    - appearance: "Man, mid-20s, mixed European-Indigenous heritage, brown hair worn long, weathered tan skin, muscular build from manual labor, intense expressive eyes"
+      clothing: "Traditional Savage Reservation clothing - handwoven brown and white cotton tunic, leather belt, moccasins, beaded accessories"
+      position: "Standing with natural unguarded posture, feet planted firmly"
+      action: "Often gesturing expressively while holding traditional objects"
+    - appearance: "Person, various ages, medium build, average height around 5'6\", varied hair colors, competent demeanor"
+      clothing: "Mulberry Beta caste uniform - fitted mulberry jackets and skirts/trousers, white shirts, regulation Beta accessories"
+      position: "Practical working postures in skilled labor positions"
+      action: "Operating equipment while performing semi-skilled technical work"
+    - appearance: "Person, various ages, shorter stocky build around 5'4\", darker hair colors, dutiful expressions, physically capable"
+      clothing: "Green Gamma caste uniform - simple green work jackets and trousers, basic white shirts, minimal accessories"
+      position: "Functional working postures in service roles"
+      action: "Performing routine service work and maintenance tasks"
+  scene:
+    mainElements: "Crowds closing in around central figure, geometric urban architecture creating confined spaces, multiple characters displaying visible curiosity and conditioned social behavior, environment becoming more focused and constraining around individual authenticity"
+    details: "Pressure mounting with crowds closing in from multiple directions, walls seeming to press closer through architectural perspective, multiple characters in states of visible social conditioning and curiosity, environment becoming more chaotic with geometric patterns creating visual confusion, citizens in color-coded uniforms forming organized but constraining groups, pneumatic systems and urban infrastructure creating mechanical background noise, faces showing conditioned social responses rather than authentic emotion, no text or letters visible"
+    background: "More geometric buildings creating tunnel-like effects, additional crowds of color-coded citizens, urban infrastructure extending the sense of systematic social pressure"
+    atmosphere: "Pressure mounting with crowds closing in on individual authenticity, walls seeming to press closer through systematic social organization, multiple characters in states of visible stress from encountering something outside their conditioning, environment becoming more chaotic and oppressive through technological control systems"
+  composition:
+    cameraAngle: "Medium wide shot emphasizing the social pressure and crowd dynamics"
+    focus: "The isolation of authentic humanity within systematic social control"
+    depth: "Foreground shows immediate crowd pressure, middle ground reveals organized social systems, background suggests the comprehensive scope of World State social engineering"

@@ -4,7 +4,7 @@
 
 [![Python 3.12+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)
 [![Wersja](https://img.shields.io/badge/version-2.0.0-green.svg)](https://github.com/user/37degrees/releases)
-[![Licencja](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Licencja](https://img.shields.io/badge/license-CC0-blue.svg)](LICENSE)
 
 ---
 
@@ -428,7 +428,7 @@ python src/prompt_builder.py books/0017_little_prince/book.yaml
 
 ## 📄 Licencja
 
-Ten projekt jest licencjonowany na warunkach licencji MIT - szczegóły w pliku [LICENSE](LICENSE).
+Ten projekt jest licencjonowany na warunkach licencji CC0 1.0 Universal (CC0 1.0) Public Domain Dedication - szczegóły w pliku [LICENSE](LICENSE).
 
 ## 🆘 Wsparcie
 

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Desert Revelation Approach"
+  setting:
+    time: "AF 632 (2540 AD), afternoon journey"
+    location: "New Mexico desert landscape approaching Savage Reservation, natural environment beyond World State control"
+    weather: "Harsh desert sun with natural wind and dust, unfiltered natural climate"
+  characters:
+    - appearance: "Man, early 30s, Alpha-Plus caste, dark hair, unusually short for Alpha at 5'6\", slender build, intense dark eyes, slightly nervous demeanor"
+      clothing: "Gray Alpha caste uniform - well-tailored gray jacket and trousers, white shirt, regulation Alpha insignia"
+      position: "Standing with subtle defensive postures, shoulders slightly tensed"
+      action: "Often observing others critically while displaying signs of social discomfort"
+    - appearance: "Woman, mid-20s, Beta-Plus caste, blonde hair in regulation style, blue eyes, attractive features, confident bearing typical of conditioned Betas"
+      clothing: "Mulberry Beta caste uniform - fitted mulberry jacket and skirt, white blouse, regulation Beta accessories"
+      position: "Upright posture with socially conditioned grace"
+      action: "Moving with practiced ease and social confidence"
+  scene:
+    mainElements: "Vast desert landscape with natural rock formations, scattered vegetation adapted to harsh conditions, helicopter flying over terrain completely different from World State urban environment, natural shadows and lighting uncontrolled by artificial systems"
+    details: "Red and brown desert terrain stretching endlessly, natural rock formations created by geological processes over millions of years, sparse desert plants surviving without technological assistance, harsh natural sunlight creating dramatic shadows, wind carrying dust and natural scents unknown in controlled environment, sense of approaching something ancient and uncontrolled, no text or letters visible"
+    background: "More desert landscape extending to distant mountains, natural geological formations, sky showing natural weather patterns without technological intervention"
+    atmosphere: "Natural environment completely outside World State control, sense of approaching something fundamentally different from conditioned existence, harsh natural elements challenging artificial comfort, growing anticipation mixed with discomfort"
+  composition:
+    cameraAngle: "Aerial view from helicopter showing the vast natural landscape"
+    focus: "The transition from controlled urban environment to wild natural terrain"
+    depth: "Foreground shows immediate desert landscape, middle ground reveals the approaching reservation area, background suggests the vastness of uncontrolled natural world"

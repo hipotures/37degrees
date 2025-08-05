@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Civilized Corruption Confrontation"
+  setting:
+    time: "AF 632 (2540 AD), evening"
+    location: "Alpha-Plus residential quarters in World State London, modern minimalist apartment with regulation furnishings"
+    weather: "Controlled indoor climate with harsh artificial lighting"
+  characters:
+    - appearance: "Man, mid-20s, mixed European-Indigenous heritage, brown hair worn long, weathered tan skin, muscular build from manual labor, intense expressive eyes"
+      clothing: "Traditional Savage Reservation clothing - handwoven brown and white cotton tunic, leather belt, moccasins, beaded accessories"
+      position: "Standing with natural unguarded posture, feet planted firmly"
+      action: "Often gesturing expressively while holding traditional objects"
+    - appearance: "Woman, mid-20s, Beta-Plus caste, blonde hair in regulation style, blue eyes, attractive features, confident bearing typical of conditioned Betas"
+      clothing: "Mulberry Beta caste uniform - fitted mulberry jacket and skirt, white blouse, regulation Beta accessories"
+      position: "Upright posture with socially conditioned grace"
+      action: "Moving with practiced ease and social confidence"
+  scene:
+    mainElements: "Synthetic furniture arranged with geometric precision contrasting with organic human distress, soma dispensers offering artificial solutions to authentic human emotion, video telephone screens displaying sterile communication, regulation apartment amenities representing technological control over human experience"
+    details: "Hunched figures equivalent - character displaying genuine emotional pain in sterile environment, faces turned away in shadows from harsh artificial lighting, clenched fists or protective postures showing resistance to artificial comfort, harsh angular compositions created by geometric furniture and architecture, tears or expressions of authentic human suffering contrasting with technological solutions, soma tablets ignored or rejected in favor of genuine emotional experience, no text or letters visible"
+    background: "More synthetic furniture and technological amenities, additional soma dispensers and communication screens, windows showing the controlled World State cityscape"
+    atmosphere: "Despair or conflict scenes with hunched figures experiencing authentic human emotion, faces turned away in shadows from artificial lighting systems, clenched fists or protective postures against technological comfort, harsh angular compositions from geometric World State design, genuine human suffering confronting artificial happiness solutions"
+  composition:
+    cameraAngle: "Medium close shot emphasizing emotional conflict and human authenticity"
+    focus: "The clash between authentic human emotion and artificial World State solutions"
+    depth: "Foreground shows immediate human emotional crisis, middle ground reveals technological comfort systems, background suggests the broader World State control mechanisms"
