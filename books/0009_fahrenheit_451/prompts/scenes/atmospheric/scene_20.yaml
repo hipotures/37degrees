@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Starry Sky Over Natural World"
+  setting:
+    time: "2053, special night conditions, starry sky over landscape"
+    location: "Rural wooded area outside dystopian city, natural setting by river"
+    weather: "Crystal clear night, brilliant stars, unusual nocturnal atmosphere"
+  characters:
+    - appearance: "Man, early 30s, dark hair, athletic build, strong jawline, expressive eyes showing internal conflict"
+      clothing: "Black fireman's uniform with brass buttons and badges, heavy boots, salamander emblem on chest"
+      position: "Standing or walking with purpose, carrying equipment or books"
+      action: "Moving with determination, examining objects, or in contemplative pose"
+  scene:
+    mainElements: "Campfire, simple shelters, natural surroundings, group of intellectual exiles"
+    details: "Brilliant star field visible in unpolluted sky above natural landscape, figure in uniform standing at edge of camp looking up at cosmos, small campfire providing minimal light, river reflecting starlight, profound connection between human scale and cosmic vastness, no text or letters visible"
+    background: "Trees, river, star-filled sky, distant city glow on horizon"
+    atmosphere: "Profound natural wonder, connection to larger cosmos, perspective on human conflicts within universal context"
+  composition:
+    cameraAngle: "Low angle emphasizing vast starry sky above figure"
+    focus: "Small human figure contemplating vast star field"
+    depth: "Foreground: campfire area, middle ground: contemplating figure, background: brilliant star-filled sky"

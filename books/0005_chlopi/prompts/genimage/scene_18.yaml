@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: Late 1800s Congress Poland, deep night in winter, full moon casting silver light
+    location: Cultivated farmlands surrounding Lipce village in Mazovian plains of Congress Poland, open fields stretching
+      to forest edge
+    weather: Clear cold winter night with bright full moon, snow covering ground, still air
+  characters:
+  - appearance: Man, late 50s, weathered face with deep lines from decades of sun and wind, gray-streaked brown hair, stocky
+      muscular build, tall stature, calloused hands, penetrating gray eyes
+    clothing: Brown wool vest over white linen shirt, thick leather belt, knee-length breeches, tall leather boots, woolen
+      cap in cold weather
+    position: Walking alone across moonlit snow-covered field
+    action: Moving slowly through snow, breath creating clouds in cold air, looking up at moon with fevered expression, stumbling
+      slightly as if ill
+  scene:
+    mainElements: Divided plots of wheat, rye, and barley fields, wooden plows and farming tools, hay stacks, stone field
+      boundaries, dirt paths between properties
+    details: Snow-covered landscape appearing silver in moonlight, shadows creating dramatic black patterns on white ground,
+      bare winter trees casting intricate shadows, footprints creating dark trail in snow, moonlight so bright it creates
+      its own landscape of silver and black, fence posts appearing like sentinels in silver light
+    background: Village cottages dark except for few glowing windows, church tower silhouetted against bright moon, forest
+      edge appearing mystical in silver light
+    atmosphere: Sacred agricultural landscape that defines peasant identity, constantly changing with seasonal work cycles,
+      mystical winter night when ordinary landscape becomes otherworldly, profound connection between man and land transcending
+      mortality
+  composition:
+    cameraAngle: Wide shot emphasizing vast silver landscape with lone figure
+    focus: Magical moonlight transforming familiar landscape into silver dreamscape, solitary figure in communion with land
+    depth: Foreground shows silver snow with dark footprints, middle ground features walking figure casting long shadow, background
+      shows moonlit village and mystical forest
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    - paper white
+    - single color ink
+    secondary:
+    - sepia brown
+    - dark red
+    - deep blue
+    background: paper color or simple color
+    usageNotes: Limited colors, usually monochromatic or few colors
+    saturation: medium (ink colors)
+    contrast: very high (carved vs uncarved areas)
+  lineArt:
+    style: bold carved lines following wood grain
+    weight: varies with carving tool, generally bold
+    color: ink color (usually black)
+    texture: rough carved texture, wood grain visible
+    edgeTreatment: rough, hand-carved edges
+  lighting:
+    type: simplified lighting through carved areas
+    direction: basic light indication
+    intensity: high contrast (lit vs shadow areas)
+    shadows:
+      style: solid carved areas (black ink)
+      color: ink color
+      opacity: solid
+    highlights: uncarved areas (paper color)
+  rendering:
+    technique: relief printing from carved wooden block
+    texture: wood grain texture, printing irregularities
+    detailLevel: moderate (limited by carving technique)
+    finish: matte ink on paper
+  perspective: simple, often flattened perspective
+  mood:
+    overall: bold, traditional, handcrafted
+    emotion: strength, tradition, craftsmanship
+    tempo: solid, grounded
+    keywords:
+    - bold
+    - traditional
+    - handcrafted
+    - strong
+    - rustic
+  stylePrecedents:
+  - Japanese ukiyo-e prints
+  - German Expressionist woodcuts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

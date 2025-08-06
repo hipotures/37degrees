@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: Summer 1922, late afternoon during thunderstorm
+    location: Living room of Nick's modest cottage, West Egg, Long Island
+    weather: Afternoon thunderstorm with rain against windows
+  characters:
+  - appearance: Man, early 30s, dark brown hair slicked back, tall athletic build, clean-shaven, tanned skin, bright confident
+      smile
+    clothing: Pink suit with white shirt and silver tie, gold cufflinks, white Oxford shoes, gold pocket watch chain visible
+    position: Standing straight with perfect posture, one hand in pocket, other gesturing elegantly
+    action: Standing nervously by fireplace, fidgeting with mantel clock, stealing glances toward doorway where Daisy will
+      enter
+  - appearance: Woman, mid-20s, blonde bobbed hair with finger waves, delicate features, pale skin, red lipstick, slender
+      build
+    clothing: White chiffon dress with dropped waist, pearl necklace, white silk gloves, white T-bar shoes, diamond earrings
+    position: Languid reclining position, one hand touching her throat, dreamy expression
+    action: Just entering room hesitantly, holding white silk umbrella, looking toward Gatsby with mixture of recognition
+      and uncertainty
+  scene:
+    mainElements: Cozy middle-class living room with chintz furniture, tea service set on coffee table, fireplace with family
+      photos on mantel
+    details: Intimate domestic setting contrasting with grand estates. Comfortable chintz-covered sofa and armchairs in floral
+      patterns, small coffee table set with delicate china tea service including silver teapot and tiered serving tray, gas
+      fireplace providing warm light, family photographs in simple frames on wooden mantelpiece, braided rug on hardwood floor,
+      lace curtains at windows with rain streaming down glass, bookshelf with popular novels and magazines, standing lamp
+      with fringed shade casting warm light. Atmosphere of nervous anticipation filling modest space. No text or letters visible.
+    background: Rain-streaked windows showing Gatsby's mansion lights glowing through storm, wet garden visible beyond glass
+    atmosphere: Charged with romantic tension and nervous energy, intimate domesticity contrasting with grand passions, sense
+      of momentous reunion after years of separation
+  composition:
+    cameraAngle: Medium shot capturing both characters in the intimate cottage setting
+    focus: The electric moment of recognition between Gatsby and Daisy after five years apart, surrounded by humble domestic
+      comfort
+    depth: Foreground shows tea service and furniture details, middle ground captures Gatsby and Daisy's tentative reunion,
+      background reveals storm outside through rain-streaked windows
+visualElements:
+  colorPalette:
+    primary:
+    - gold metallic
+    - black
+    - cream white
+    secondary:
+    - silver chrome
+    - deep red
+    - royal blue
+    background: elegant geometric patterns or luxury settings
+    usageNotes: Rich, luxurious colors with metallic accents
+    saturation: high (rich, elegant colors)
+    contrast: high (dramatic black and gold contrasts)
+  lineArt:
+    style: geometric, symmetrical patterns
+    weight: bold, confident lines
+    color: metallic gold or silver outlines
+    texture: smooth, polished surfaces
+    edgeTreatment: sharp, precise geometric edges
+  lighting:
+    type: dramatic, luxury lighting
+    direction: theatrical lighting emphasizing geometry
+    intensity: bright, glamorous
+    shadows:
+      style: geometric, stylized shadows
+      color: rich dark colors
+      opacity: solid, dramatic
+    highlights: brilliant metallic reflections
+  rendering:
+    technique: precise geometric illustration
+    texture: polished metals, smooth surfaces, luxury materials
+    detailLevel: high (intricate geometric patterns)
+    finish: highly polished, reflective
+  perspective: symmetrical, balanced compositions
+  mood:
+    overall: luxurious, elegant, sophisticated
+    emotion: glamour, sophistication, modern elegance
+    tempo: stately, confident
+    keywords:
+    - luxurious
+    - elegant
+    - sophisticated
+    - glamorous
+    - geometric
+  stylePrecedents:
+  - Chrysler Building architecture
+  - 1920s luxury poster design
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

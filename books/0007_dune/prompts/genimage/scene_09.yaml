@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Afternoon on Arrakis, rare storm building pressure on surface
+    location: Underground Fremen settlement carved into desert rock formations on harsh desert world with golden sand dunes
+      and twin suns above, hidden from surface detection
+    weather: Atmospheric pressure changes affecting underground spaces, humid air
+  characters:
+  - appearance: Adult Fremen, weather-beaten dark skin, distinctive blue-within-blue eyes from spice exposure, lean muscular
+      build
+    clothing: Desert stillsuit with breathing apparatus, sand-colored robes, utility belt with water and weapons
+    position: In communal chamber monitoring atmospheric conditions
+    action: Checking water reclamation systems as pressure changes affect equipment
+  scene:
+    mainElements: Carved stone passages, water catchment systems, communal gathering spaces, hidden entrances
+    details: Stone chambers feeling unusually humid from surface pressure changes. Water collection systems responding to
+      rare atmospheric moisture. Condensation forming on carved stone surfaces. Air circulation systems working differently
+      due to pressure variations. Rare moment when desert humidity penetrates underground spaces.
+    background: Carved passages extending deeper into rock formation
+    atmosphere: Cool refuge from desert heat, communal warmth, carefully conserved resources visible everywhere
+  composition:
+    cameraAngle: Interior view of stone chamber with natural and carved elements
+    focus: Figure working with water systems in humid underground environment
+    depth: Water collection equipment in foreground, working figure in middle ground, stone passages receding into background
+visualElements:
+  colorPalette:
+    primary:
+    - neon blue
+    - metallic gray
+    - glowing cyan
+    - steel silver
+    secondary:
+    - amber light
+    - deep space black
+    - violet sky
+    background: futuristic skyline or starfield
+    usageNotes: Cool tones dominate with pops of vibrant neon lighting
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: painterly sketches painted over
+    weight: n/a (lines hidden by painting)
+    color: n/a
+    texture: smooth digital, hard edges on tech
+    edgeTreatment: sharp silhouettes, atmospheric fade
+  lighting:
+    type: dramatic cinematic lighting
+    direction: multiple sources (city lights, backlights)
+    intensity: high contrast (bright neon vs deep shadow)
+    shadows:
+      style: long shadows, diffused by haze
+      color: cool blue or purple
+      opacity: deep
+    highlights: lens flares, neon glows on surfaces
+  rendering:
+    technique: digital painting with some photobash
+    texture: smooth with textured brushes for atmosphere
+    detailLevel: high in focal points (tech details), looser elsewhere
+    finish: polished, cinematic look
+  perspective: dynamic perspective (wide-angle vistas or low-angle hero shots)
+  mood:
+    overall: epic, futuristic, adventurous
+    emotion: awe, excitement, curiosity
+    tempo: dynamic, energetic
+    keywords:
+    - futuristic
+    - epic
+    - cinematic
+    - detailed
+    - atmospheric
+  stylePrecedents:
+  - Syd Mead (futurist designer)
+  - Blade Runner concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

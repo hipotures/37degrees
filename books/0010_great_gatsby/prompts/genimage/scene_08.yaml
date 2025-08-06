@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: Summer 1922, late afternoon in drawing room
+    location: Elegant drawing room in Buchanan estate, East Egg, Long Island
+    weather: Warm summer afternoon with gentle breeze through open French doors
+  characters:
+  - appearance: Woman, mid-20s, blonde bobbed hair with finger waves, delicate features, pale skin, red lipstick, slender
+      build
+    clothing: White chiffon dress with dropped waist, pearl necklace, white silk gloves, white T-bar shoes, diamond earrings
+    position: Languid reclining position, one hand touching her throat, dreamy expression
+    action: Reclining on white silk sofa, holding champagne glass delicately, gazing out toward bay with distant expression
+  scene:
+    mainElements: Sophisticated drawing room with antique furniture, crystal chandelier, silk upholstery, fresh white flowers
+      in silver vases
+    details: Refined old money elegance and feminine luxury. Cream silk sofa with hand-embroidered cushions, mahogany side
+      tables with mother-of-pearl inlay, crystal champagne bucket on silver tray, white orchids and lilies arranged in tall
+      silver vases, sheer curtains billowing in summer breeze, Persian carpet in muted pastels, gilt-framed portraits of ancestors
+      on walls, silver tea service gleaming on mahogany table, French doors opening onto terrace overlooking bay. Everything
+      speaks of inherited wealth and established taste. No text or letters visible.
+    background: Terrace and rose garden visible through French doors, Manhasset Bay gleaming in afternoon sun, sailboats in
+      distance
+    atmosphere: Languid luxury and feminine grace, underlying sadness beneath beautiful surface, sense of being trapped in
+      golden cage of privilege
+  composition:
+    cameraAngle: Medium shot capturing Daisy in her elegant natural habitat
+    focus: Daisy's ethereal beauty and distant expression, embodying both attraction and unattainability
+    depth: Foreground shows ornate furniture and flower arrangements, middle ground captures Daisy on sofa, background reveals
+      garden and water views through French doors
+visualElements:
+  colorPalette:
+    primary:
+    - gold metallic
+    - black
+    - cream white
+    secondary:
+    - silver chrome
+    - deep red
+    - royal blue
+    background: elegant geometric patterns or luxury settings
+    usageNotes: Rich, luxurious colors with metallic accents
+    saturation: high (rich, elegant colors)
+    contrast: high (dramatic black and gold contrasts)
+  lineArt:
+    style: geometric, symmetrical patterns
+    weight: bold, confident lines
+    color: metallic gold or silver outlines
+    texture: smooth, polished surfaces
+    edgeTreatment: sharp, precise geometric edges
+  lighting:
+    type: dramatic, luxury lighting
+    direction: theatrical lighting emphasizing geometry
+    intensity: bright, glamorous
+    shadows:
+      style: geometric, stylized shadows
+      color: rich dark colors
+      opacity: solid, dramatic
+    highlights: brilliant metallic reflections
+  rendering:
+    technique: precise geometric illustration
+    texture: polished metals, smooth surfaces, luxury materials
+    detailLevel: high (intricate geometric patterns)
+    finish: highly polished, reflective
+  perspective: symmetrical, balanced compositions
+  mood:
+    overall: luxurious, elegant, sophisticated
+    emotion: glamour, sophistication, modern elegance
+    tempo: stately, confident
+    keywords:
+    - luxurious
+    - elegant
+    - sophisticated
+    - glamorous
+    - geometric
+  stylePrecedents:
+  - Chrysler Building architecture
+  - 1920s luxury poster design
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

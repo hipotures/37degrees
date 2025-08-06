@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Green Light Fades - Symbol of Lost Dreams"
+  setting:
+    time: "Summer 1922, evening after tragedy"
+    location: "Private dock extending into Manhasset Bay from Gatsby's West Egg mansion"
+    weather: "Still summer evening with approaching storm clouds"
+  characters:
+    - appearance: "Man, late 20s, brown hair neatly parted, average height, lean build, thoughtful expression, clean-shaven"
+      clothing: "Conservative gray wool suit, white shirt, dark blue tie, brown leather shoes, simple wristwatch"
+      position: "Slightly reserved stance, hands clasped in front, observant gaze"
+      action: "Standing alone at end of dock, staring across dark water at distant green light, holding hat in hands"
+  scene:
+    mainElements: "Wooden pier stretching into dark water, view across bay to East Egg"
+    details: "Small green navigation light at end of Buchanan dock across the bay, glowing in darkness, barely visible from West Egg. Symbolic beacon that once represented hope and dreams now seems impossibly distant and meaningless, wooden dock weathered by salt spray, dark water lapping against pier supports, evening mist beginning to roll in from bay. Storm clouds gathering on horizon suggesting change and finality. Last witness to shattered dreams standing in solitude. No text or letters visible."
+    background: "East Egg mansions with warm lights in windows across dark water, storm clouds building over Long Island Sound, other docks and boats silhouetted against evening sky"
+    atmosphere: "Melancholy reflection and symbolic loss, dreams reduced to distant pinpoint of light, sense of profound change and ending"
+  composition:
+    cameraAngle: "Medium shot from behind looking toward the distant green light"
+    focus: "The symbolic green light across the water representing lost dreams"
+    depth: "Foreground shows wooden dock planks, middle ground captures solitary observer, background dominated by distant green light across dark bay waters"

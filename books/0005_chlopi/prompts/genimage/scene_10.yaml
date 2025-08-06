@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Late 1800s Congress Poland, moment when storm breaks in late summer afternoon
+    location: Polish peasant village in Congress Poland under Russian partition, Mazovian countryside near Skierniewice, late
+      1800s rural settlement with wooden houses and dirt roads
+    weather: First heavy raindrops beginning to fall, wind picking up suddenly, storm finally breaking
+  characters:
+  - appearance: Young woman, early 20s, beautiful with long golden-blonde hair, slender athletic build, average height, bright
+      blue eyes, fair complexion with rosy cheeks
+    clothing: Traditional Polish folk dress with embroidered bodice, white linen blouse with puffy sleeves, long colorful
+      skirt, floral headscarf or flower wreath in hair
+    position: Running across village square toward cottage
+    action: Lifting skirts to run faster, hair whipping in sudden wind, looking back at darkening sky with mixture of fear
+      and exhilaration
+  scene:
+    mainElements: Traditional wooden cottages with thatched roofs, central village square with well, small wooden church with
+      bell tower, unpaved dirt roads, wooden fences separating properties
+    details: First large raindrops creating dark spots on dusty ground, papers and leaves suddenly swirling in wind gusts,
+      chickens scattering for shelter, cottage doors slamming as people rush inside, laundry being hastily pulled from lines,
+      dust clouds rising as wind hits dry earth, church bell beginning to ring warning
+    background: Dark storm clouds now overhead releasing rain, forest trees bending in wind, other villagers running for shelter
+    atmosphere: Intimate rural community where everyone knows each other's business, governed by seasonal agricultural rhythms
+      and Catholic traditions, dramatic transformation as storm finally breaks, relief and excitement mixing with concern
+      for crops
+  composition:
+    cameraAngle: Dynamic shot following running figure across square
+    focus: Moment of weather transformation - first drops on dust, sudden wind, dramatic sky change
+    depth: Foreground shows raindrops hitting dusty ground, middle ground features running figure, background shows storm
+      clouds releasing rain
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    - paper white
+    - single color ink
+    secondary:
+    - sepia brown
+    - dark red
+    - deep blue
+    background: paper color or simple color
+    usageNotes: Limited colors, usually monochromatic or few colors
+    saturation: medium (ink colors)
+    contrast: very high (carved vs uncarved areas)
+  lineArt:
+    style: bold carved lines following wood grain
+    weight: varies with carving tool, generally bold
+    color: ink color (usually black)
+    texture: rough carved texture, wood grain visible
+    edgeTreatment: rough, hand-carved edges
+  lighting:
+    type: simplified lighting through carved areas
+    direction: basic light indication
+    intensity: high contrast (lit vs shadow areas)
+    shadows:
+      style: solid carved areas (black ink)
+      color: ink color
+      opacity: solid
+    highlights: uncarved areas (paper color)
+  rendering:
+    technique: relief printing from carved wooden block
+    texture: wood grain texture, printing irregularities
+    detailLevel: moderate (limited by carving technique)
+    finish: matte ink on paper
+  perspective: simple, often flattened perspective
+  mood:
+    overall: bold, traditional, handcrafted
+    emotion: strength, tradition, craftsmanship
+    tempo: solid, grounded
+    keywords:
+    - bold
+    - traditional
+    - handcrafted
+    - strong
+    - rustic
+  stylePrecedents:
+  - Japanese ukiyo-e prints
+  - German Expressionist woodcuts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

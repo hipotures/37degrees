@@ -1,0 +1,112 @@
+canon:
+  characters:
+    - id: "emma_woodhouse"
+      name: "Emma Woodhouse"
+      description_block: |
+        characters:
+          - appearance: "Young woman, early twenties, blonde hair in fashionable Regency curls, bright intelligent eyes, handsome features, tall slender build, confident posture"
+            clothing: "Fine white muslin morning dress with high waist, delicate embroidered shawl, silk slippers, pearl jewelry appropriate to wealthy gentry"
+            
+    - id: "mr_knightley"
+      name: "Mr. Knightley"
+      description_block: |
+        characters:
+          - appearance: "Man in his mid-thirties, dark brown hair, strong jaw, serious thoughtful expression, tall athletic build, dignified bearing"
+            clothing: "Dark blue tailcoat with brass buttons, buff-colored waistcoat, white cravat, riding boots or formal leather shoes"
+            
+    - id: "harriet_smith"
+      name: "Harriet Smith"
+      description_block: |
+        characters:
+          - appearance: "Young woman, seventeen years old, light brown hair in simple style, sweet innocent expression, petite delicate build, modest demeanor"
+            clothing: "Simple cotton dress in pale colors, plain white fichu, modest bonnet, practical walking shoes"
+            
+    - id: "mr_woodhouse"
+      name: "Mr. Woodhouse"
+      description_block: |
+        characters:
+          - appearance: "Elderly gentleman in his sixties, gray hair thinning, anxious worried expression, frail thin build, nervous gestures"
+            clothing: "Dark wool coat, warm waistcoat, white neck cloth, comfortable indoor slippers, often wrapped in shawl"
+            
+    - id: "jane_fairfax"
+      name: "Jane Fairfax"
+      description_block: |
+        characters:
+          - appearance: "Young woman, twenty years old, dark auburn hair elegantly arranged, pale complexion, refined beautiful features, graceful slender build"
+            clothing: "Well-made but modest dress in subdued colors, simple jewelry, neat appearance despite limited means"
+            
+    - id: "frank_churchill"
+      name: "Frank Churchill"
+      description_block: |
+        characters:
+          - appearance: "Young man in his early twenties, fashionably styled light brown hair, charming smile, handsome animated features, medium height athletic build"
+            clothing: "Fashionable London-style tailcoat, colorful waistcoat, perfectly tied cravat, polished boots, stylish accessories"
+            
+    - id: "miss_bates"
+      name: "Miss Bates"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged woman in her fifties, graying hair under plain cap, kind but worn expression, average height, gentle movements"
+            clothing: "Faded but clean dress, darned shawl, practical bonnet, worn but well-maintained shoes"
+
+  locations:
+    - id: "hartfield_house"
+      name: "Hartfield House"
+      description_block: |
+        setting:
+          location: "Large Georgian manor house in Surrey village of Highbury, England, surrounded by extensive landscaped grounds and gardens"
+        mainElements: "Elegant drawing room with tall windows, fine furniture, portraits on walls, blazing fireplace"
+        atmosphere: "Comfortable wealthy domestic sphere, refined genteel English country living"
+        
+    - id: "donwell_abbey"
+      name: "Donwell Abbey"
+      description_block: |
+        setting:
+          location: "Ancient abbey converted to gentleman's estate in Surrey countryside, stone buildings with medieval foundations"
+        mainElements: "Grand entrance hall, library with leather-bound books, fruit gardens with strawberry beds, old stone terraces"
+        atmosphere: "Dignified ancestral seat representing old English landed gentry tradition"
+        
+    - id: "highbury_village"
+      name: "Highbury Village"
+      description_block: |
+        setting:
+          location: "Small prosperous market village in Surrey, sixteen miles from London, surrounded by farming country"
+        mainElements: "Village street with shops, parish church, vicarage, modest cottages, Crown Inn"
+        atmosphere: "Close-knit rural community where everyone knows each other's business"
+        
+    - id: "box_hill"
+      name: "Box Hill"
+      description_block: |
+        setting:
+          location: "Famous Surrey hilltop with panoramic views, popular destination for countryside excursions from London area"
+        mainElements: "Rolling chalk downs, scattered trees, open grassland, spectacular views across Surrey landscape"
+        atmosphere: "Public pleasure ground offering escape from village constraints"
+        
+    - id: "mrs_bates_rooms"
+      name: "Mrs. Bates' Rooms"
+      description_block: |
+        setting:
+          location: "Modest lodgings above bakery in Highbury village center, small cramped but clean rooms"
+        mainElements: "Simple furniture, small fireplace, tea things always ready, single window overlooking street"
+        atmosphere: "Genteel poverty maintained with dignity and cheerfulness"
+
+  items:
+    - id: "pianoforte"
+      name: "Pianoforte"
+      description_block: |
+        details: "Elegant Regency-era piano in polished wood case with brass fittings, sheet music scattered on stand"
+        
+    - id: "painting_supplies"
+      name: "Painting Supplies"
+      description_block: |
+        details: "Watercolor box with ceramic paint wells, fine brushes, half-finished portrait sketches, drawing paper"
+        
+    - id: "letters"
+      name: "Letters"
+      description_block: |
+        details: "Folded paper correspondence sealed with wax, elegant handwriting visible on address, lying on writing desk"
+        
+    - id: "carriage"
+      name: "Carriage"
+      description_block: |
+        details: "Private horse-drawn carriage with leather seats, polished wood panels, family crest on door, driver in livery"

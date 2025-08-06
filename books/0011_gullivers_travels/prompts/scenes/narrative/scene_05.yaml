@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Giant Walking Through Miniature Metropolis"
+  setting:
+    time: "Late afternoon, 1699, golden hour"
+    location: "Miniature city of Mildendo in the empire of Lilliput, on an unknown island in the South Pacific"
+    weather: "Golden afternoon sunlight casting long shadows"
+  characters:
+    - appearance: "Man, early 40s, brown hair tied back in queue, weathered face from sea voyages, average height, lean build from travels"
+      clothing: "Dark blue wool coat with brass buttons, white linen shirt with ruffled collar, brown leather breeches, black buckled shoes, tricorn hat"
+      position: "Standing upright with observant stance, hands clasped behind back, alert expression"
+      action: "Walking carefully between miniature buildings, stepping over tiny streets, observing bustling city life below with fascination and caution"
+  scene:
+    mainElements: "Tiny buildings no taller than 5 feet, miniature palace with towers, streets like garden paths, city walls the height of hedges, tiny temples and monuments"
+    details: "Complete miniature city with thousands of six-inch inhabitants going about daily business, tiny horse-drawn carriages no bigger than matchboxes, miniature market stalls with goods, smoke rising from chimneys the size of pencils, tiny people pointing up at giant visitor, narrow streets barely wide enough for Gulliver's feet, intricate architecture scaled down perfectly, tiny bridges over streams, no text or letters visible"
+    background: "Bustling miniature metropolis with thousands of six-inch inhabitants, smoke from tiny chimneys, miniature market squares"
+    atmosphere: "Wonder and amazement at perfect miniature civilization, careful respect for tiny inhabitants, golden afternoon light creating magical quality to diminutive city"
+  composition:
+    cameraAngle: "Wide establishing shot from elevated position showing scale contrast"
+    focus: "Gulliver carefully navigating between tiny buildings with inhabitants below"
+    depth: "Foreground: miniature city details, middle: Gulliver's massive figure, background: distant palace and city walls"

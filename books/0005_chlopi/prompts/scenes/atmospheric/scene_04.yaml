@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Morning Smoke and Breakfast Steam"
+  setting:
+    time: "Late 1800s Congress Poland, morning in autumn, sun climbing higher with strengthening light"
+    location: "Large wooden peasant cottage in Lipce village, Congress Poland, main residence of wealthiest farming family in village"
+    weather: "Crisp autumn morning with clear skies, cool air making breath and steam visible"
+  characters:
+    - appearance: "Woman, mid 20s, plain brown hair pulled back severely, thin build, average height, worried dark eyes, pale complexion, tired expression"
+      clothing: "Simple brown wool dress, worn white apron, dark headscarf covering most of hair, practical leather shoes, minimal jewelry"
+      position: "Standing at large stove, tending breakfast preparations"
+      action: "Stirring steaming pot with wooden spoon, wiping sweat from brow with apron, checking fire under clay cooking vessels"
+  scene:
+    mainElements: "Spacious log construction with thatched roof, multiple rooms including main living area with large stove, separate sleeping chambers, well-maintained wooden furniture, religious icons on walls"
+    details: "Steam rising from multiple clay pots on wood-burning stove, smoke curling up through stone chimney, morning sunlight streaming through windows catching steam clouds, wooden spoons and bowls arranged on rough table, oil lamps being extinguished as daylight strengthens, bread dough rising in wooden bowl covered with linen cloth"
+    background: "Kitchen area with hanging herbs and onions, wooden shelves with earthenware, glimpse of sleeping chamber through doorway"
+    atmosphere: "Prosperous but traditional peasant home, center of family power and conflicts, warm interior lit by oil lamps and fire, busy morning preparation for family and farm workers, domestic rhythm of rural life"
+  composition:
+    cameraAngle: "Interior shot from across kitchen showing stove activity and steam"
+    focus: "Rising steam and smoke creating atmospheric layers, woman's tired dedication to domestic duties"
+    depth: "Foreground shows wooden table with breakfast items, middle ground features character at steaming stove, background reveals cottage interior with herbs and household goods"

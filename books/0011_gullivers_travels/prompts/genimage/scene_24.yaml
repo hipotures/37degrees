@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: Morning, 1715, during sea rescue after years adrift
+    location: Deck of Portuguese merchant vessel in South Pacific waters
+    weather: Clear morning with calm seas allowing safe rescue
+  characters:
+  - appearance: Man, early 40s, brown hair tied back in queue, weathered face from sea voyages, average height, lean build
+      from travels
+    clothing: Dark blue wool coat with brass buttons, white linen shirt with ruffled collar, brown leather breeches, black
+      buckled shoes, tricorn hat
+    position: Standing upright with observant stance, hands clasped behind back, alert expression
+    action: Recoiling in disgust from kind Portuguese captain, seeing only a repulsive Yahoo despite the man's genuine compassion,
+      unable to accept human kindness
+  - appearance: Portuguese sea captain, middle-aged, dignified bearing, kind eyes, well-groomed beard, honest face
+    clothing: Naval captain's uniform with brass buttons, white shirt, dark blue coat, tricorn hat with Portuguese insignia
+    position: Standing with concerned authority, hands extended in gesture of help
+    action: Offering genuine Christian charity and assistance to rescued castaway, showing patience despite Gulliver's strange
+      hostility and revulsion toward human contact
+  scene:
+    mainElements: Portuguese merchant ship deck with crew engaged in rescue operation
+    details: Ship's rigging with Portuguese flags, rescue ropes and equipment, barrels and cargo typical of merchant vessel,
+      crew members helping with rescue showing normal human compassion, Gulliver's obvious mental breakdown visible in his
+      rejection of kindness, Portuguese captain's clean clothes and civilized bearing contrasting with Gulliver's wild appearance
+      from years of isolation, evidence of normal human society that Gulliver now finds abhorrent, no text or letters visible
+    background: Open ocean with normal merchant shipping operations, civilized maritime commerce representing human society
+    atmosphere: Tragic irony of rescue becoming torment for misanthropic Gulliver, kindness perceived as repulsion, normal
+      human decency seen as Yahoo behavior
+  composition:
+    cameraAngle: Medium shot showing interaction between compassionate captain and hostile rescued castaway
+    focus: Contrast between Don Pedro's genuine kindness and Gulliver's misanthropic revulsion
+    depth: 'Foreground: Gulliver shrinking from human contact, middle: concerned Portuguese captain, background: normal ship
+      operations and crew'
+visualElements:
+  colorPalette:
+    primary:
+    - warm oranges
+    - sky blues
+    - sunset reds
+    - palm greens
+    secondary:
+    - sand beige
+    - ocean turquoise
+    - golden yellow
+    background: gradient skies, solid color blocks
+    usageNotes: Limited palette, 3-5 colors maximum, screen-printed look
+    saturation: high
+    contrast: strong
+  lineArt:
+    style: clean, simplified
+    weight: bold, uniform
+    color: darker shade of base colors
+    texture: smooth, graphic
+    edgeTreatment: crisp, stylized
+  lighting:
+    type: idealized, perpetual golden hour
+    direction: dramatic side or back lighting
+    intensity: warm, inviting
+    shadows:
+      style: simplified, graphic
+      color: darker tone of base color
+      opacity: solid color blocks
+    highlights: bright, optimistic
+  rendering:
+    technique: flat color with minimal gradients
+    texture: slight paper texture
+    detailLevel: simplified, iconic elements only
+    finish: lithograph or screen print appearance
+  perspective: dramatic angles, heroic viewpoints
+  mood:
+    overall: adventurous, romantic, optimistic
+    emotion: wanderlust, excitement, nostalgia
+    tempo: dynamic yet timeless
+    keywords:
+    - adventurous
+    - romantic
+    - exotic
+    - inviting
+    - nostalgic
+  stylePrecedents:
+  - Roger Broders
+  - David Klein
+  - Art Deco posters
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

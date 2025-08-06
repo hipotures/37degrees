@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Late 1800s Congress Poland, first light of dawn in autumn, golden rays breaking through morning clouds
+    location: Large wooden peasant cottage in Lipce village, Congress Poland, main residence of wealthiest farming family
+      in village
+    weather: Clear autumn morning with golden sunrise, cool air with dew forming on wooden surfaces
+  characters:
+  - appearance: Young woman, early 20s, beautiful with long golden-blonde hair, slender athletic build, average height, bright
+      blue eyes, fair complexion with rosy cheeks
+    clothing: Traditional Polish folk dress with embroidered bodice, white linen blouse with puffy sleeves, long colorful
+      skirt, floral headscarf or flower wreath in hair
+    position: Standing at cottage window, one hand touching glass pane
+    action: Looking out toward fields as sunrise streams through window, bathing her face in golden light, holding wooden
+      water pitcher
+  scene:
+    mainElements: Spacious log construction with thatched roof, multiple rooms including main living area with large stove,
+      separate sleeping chambers, well-maintained wooden furniture, religious icons on walls
+    details: Morning sunlight streaming through small glass windows creating geometric patterns on wooden floor, oil lamp
+      still flickering on table from night use, wooden crucifix with carved Christ figure casting shadow on wall, steam rising
+      from clay pot on stove, spider web in corner window catching golden light with dewdrops
+    background: Interior cottage walls with painted icons of saints, wooden beams supporting thatched roof, glimpse of village
+      square through opposite window
+    atmosphere: Prosperous but traditional peasant home, center of family power and conflicts, warm interior lit by oil lamps
+      and fire, peaceful morning moment before daily struggles begin
+  composition:
+    cameraAngle: Interior shot from side angle showing window light illuminating character and room
+    focus: Golden morning light transforming simple cottage interior into luminous space, woman's face caught in sunbeam
+    depth: Foreground shows wooden furniture and household items, middle ground features illuminated character at window,
+      background reveals cottage interior details and distant window
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    - paper white
+    - single color ink
+    secondary:
+    - sepia brown
+    - dark red
+    - deep blue
+    background: paper color or simple color
+    usageNotes: Limited colors, usually monochromatic or few colors
+    saturation: medium (ink colors)
+    contrast: very high (carved vs uncarved areas)
+  lineArt:
+    style: bold carved lines following wood grain
+    weight: varies with carving tool, generally bold
+    color: ink color (usually black)
+    texture: rough carved texture, wood grain visible
+    edgeTreatment: rough, hand-carved edges
+  lighting:
+    type: simplified lighting through carved areas
+    direction: basic light indication
+    intensity: high contrast (lit vs shadow areas)
+    shadows:
+      style: solid carved areas (black ink)
+      color: ink color
+      opacity: solid
+    highlights: uncarved areas (paper color)
+  rendering:
+    technique: relief printing from carved wooden block
+    texture: wood grain texture, printing irregularities
+    detailLevel: moderate (limited by carving technique)
+    finish: matte ink on paper
+  perspective: simple, often flattened perspective
+  mood:
+    overall: bold, traditional, handcrafted
+    emotion: strength, tradition, craftsmanship
+    tempo: solid, grounded
+    keywords:
+    - bold
+    - traditional
+    - handcrafted
+    - strong
+    - rustic
+  stylePrecedents:
+  - Japanese ukiyo-e prints
+  - German Expressionist woodcuts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

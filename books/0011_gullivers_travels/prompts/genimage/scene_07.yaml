@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: Night, 1699, emergency situation
+    location: Royal palace courtyard in Lilliput capital, scene of fire
+    weather: Clear night with fire illumination and smoke
+  characters:
+  - appearance: Man, early 40s, brown hair tied back in queue, weathered face from sea voyages, average height, lean build
+      from travels
+    clothing: Dark blue wool coat with brass buttons, white linen shirt with ruffled collar, brown leather breeches, black
+      buckled shoes, tricorn hat
+    position: Crouched over burning miniature palace
+    action: Extinguishing palace fire through unconventional means, concentrated expression of urgency and determination
+  - appearance: Multiple tiny men six inches tall, various hair colors, determined expressions, miniature military bearing
+    clothing: Red wool uniforms with brass buttons, tiny tricorn hats, white breeches, miniature muskets and swords
+    position: Surrounding palace with tiny fire equipment
+    action: Operating miniature fire pumps and ladders, forming bucket brigade with containers no bigger than thimbles
+  scene:
+    mainElements: Miniature palace with flames emerging from tiny windows, smoke billowing from rooms no bigger than dollhouse
+      chambers
+    details: Dramatic night scene with palace fire casting orange glow on tiny buildings, Lilliputian fire brigade working
+      frantically with equipment scaled to six-inch people, tiny ladders barely reaching first story windows, bucket brigade
+      with thimble-sized containers, smoke and flames contrasting with peaceful night sky, palace courtyard lit by fire, tiny
+      figures running with urgent purpose, Gulliver's massive form dominating scene as he attempts rescue, no text or letters
+      visible
+    background: Miniature city illuminated by firelight, other tiny buildings safe in distance, stars visible in night sky
+    atmosphere: Emergency situation requiring unconventional solution, heroic effort despite absurd scale, dramatic contrast
+      between tiny crisis and giant intervention
+  composition:
+    cameraAngle: Dynamic angle showing action and urgency of fire emergency
+    focus: Gulliver's intervention in palace fire with tiny fire brigade working below
+    depth: 'Foreground: fire and rescue action, middle: palace and Gulliver, background: illuminated miniature city'
+visualElements:
+  colorPalette:
+    primary:
+    - warm oranges
+    - sky blues
+    - sunset reds
+    - palm greens
+    secondary:
+    - sand beige
+    - ocean turquoise
+    - golden yellow
+    background: gradient skies, solid color blocks
+    usageNotes: Limited palette, 3-5 colors maximum, screen-printed look
+    saturation: high
+    contrast: strong
+  lineArt:
+    style: clean, simplified
+    weight: bold, uniform
+    color: darker shade of base colors
+    texture: smooth, graphic
+    edgeTreatment: crisp, stylized
+  lighting:
+    type: idealized, perpetual golden hour
+    direction: dramatic side or back lighting
+    intensity: warm, inviting
+    shadows:
+      style: simplified, graphic
+      color: darker tone of base color
+      opacity: solid color blocks
+    highlights: bright, optimistic
+  rendering:
+    technique: flat color with minimal gradients
+    texture: slight paper texture
+    detailLevel: simplified, iconic elements only
+    finish: lithograph or screen print appearance
+  perspective: dramatic angles, heroic viewpoints
+  mood:
+    overall: adventurous, romantic, optimistic
+    emotion: wanderlust, excitement, nostalgia
+    tempo: dynamic yet timeless
+    keywords:
+    - adventurous
+    - romantic
+    - exotic
+    - inviting
+    - nostalgic
+  stylePrecedents:
+  - Roger Broders
+  - David Klein
+  - Art Deco posters
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

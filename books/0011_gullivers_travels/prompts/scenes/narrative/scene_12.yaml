@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Royal Audience with Giant King"
+  setting:
+    time: "Mid-afternoon, 1702, formal ceremony"
+    location: "Capital city Lorbrulgrud in Brobdingnag, palace complex at city center"
+    weather: "Clear afternoon with sunlight streaming through palace windows"
+  characters:
+    - appearance: "Man, early 40s, brown hair tied back in queue, weathered face from sea voyages, average height, lean build from travels"
+      clothing: "Dark blue wool coat with brass buttons, white linen shirt with ruffled collar, brown leather breeches, black buckled shoes, tricorn hat"
+      position: "Standing upright with observant stance, hands clasped behind back, alert expression"
+      action: "Standing on raised platform to address giant king, gesturing respectfully while speaking, displaying confidence despite enormous scale difference"
+    - appearance: "Giant man 60 feet tall, middle-aged, neat brown beard, intelligent thoughtful expression, imposing regal presence"
+      clothing: "Royal blue velvet robes with ermine trim, massive golden crown, jeweled rings on fingers large as pillars"
+      position: "Seated on enormous throne, leaning forward attentively, one hand stroking beard thoughtfully"
+      action: "Seated on enormous throne, leaning forward attentively, one hand stroking beard thoughtfully, examining tiny human with intellectual curiosity"
+  scene:
+    mainElements: "Massive throne room with ceiling 200 feet high, enormous windows like cathedral openings, furniture scaled for 60-foot inhabitants, chandeliers like inverted forests"
+    details: "Awe-inspiring royal chamber with architectural grandeur on impossible scale, Gulliver positioned on elevated platform to allow conversation with giant king, courtiers and advisors the size of buildings observing from galleries, massive tapestries and royal regalia, sunlight streaming through windows casting dramatic shadows, guards with weapons like ship masts, protocol adapted for tiny visitor, atmosphere of philosophical inquiry and royal judgment, no text or letters visible"
+    background: "Majestic grandeur on impossible scale, echoing spaces, light streaming through giant windows"
+    atmosphere: "Formal diplomatic encounter with intellectual undertones, royal grandeur made overwhelming by scale, sense of being judged by superior civilization"
+  composition:
+    cameraAngle: "Wide shot emphasizing massive scale of throne room"
+    focus: "Formal audience between tiny Gulliver on platform and giant king on throne"
+    depth: "Foreground: Gulliver's platform, middle: throne and king, background: vast royal architecture"

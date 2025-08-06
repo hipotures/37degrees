@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Village Harmony and Social Ease"
+  setting:
+    time: "Early 1800s England, late morning"
+    location: "Small prosperous market village in Surrey, sixteen miles from London, surrounded by farming country"
+    weather: "Pleasant mild day with soft sunshine"
+  characters:
+    - appearance: "Young woman, early twenties, blonde hair in fashionable Regency curls, bright intelligent eyes, handsome features, tall slender build, confident posture"
+      clothing: "Fine white muslin morning dress with high waist, delicate embroidered shawl, silk slippers, pearl jewelry appropriate to wealthy gentry"
+      position: "Walking gracefully down village street with basket on arm"
+      action: "Nodding pleasantly to villagers, receiving respectful greetings with gracious smiles"
+  scene:
+    mainElements: "Village street with shops, parish church, vicarage, modest cottages, Crown Inn"
+    details: "Cobblestone streets swept clean, shopkeepers arranging wares outside stores, children playing safely nearby, horses and carriages moving at leisurely pace, close-knit rural community where everyone knows each other's business, birds singing in cottage gardens, peaceful domestic rhythms"
+    background: "Church spire rising against blue sky, thatched roofs of surrounding cottages"
+    atmosphere: "Social harmony and mutual respect, established order where everyone knows their place, no text or letters visible"
+  composition:
+    cameraAngle: "Wide establishing shot down village main street"
+    focus: "Central figure moving through her domain with natural authority"
+    depth: "Foreground cottage gardens, middle ground street activity, background church and countryside"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Post-Storm Clarity Over Spice Operations"
+  setting:
+    time: "Late afternoon on Arrakis, immediately after rare rainstorm passed"
+    location: "Industrial spice extraction site in desert of harsh world with endless golden dunes and twin blazing suns, heavy machinery operating on spice-rich sand"
+    weather: "Crystal clear air following storm, every surface gleaming with precious moisture"
+  characters:
+    - appearance: "Adult Fremen, weather-beaten dark skin, distinctive blue-within-blue eyes from spice exposure, lean muscular build"
+      clothing: "Desert stillsuit with breathing apparatus, sand-colored robes, utility belt with water and weapons"
+      position: "Standing beside harvesting equipment examining rain-washed surfaces"
+      action: "Collecting precious water droplets from machinery while inspecting spice deposits"
+  scene:
+    mainElements: "Massive harvesting equipment, ornithopter aircraft, spice deposits glowing orange, workers in protective gear"
+    details: "Every metal and stone surface gleaming with water droplets. Spice deposits appearing more vivid after rain washing. Air crystal clear with unprecedented visibility. Wet sand showing different textures and colors. Equipment surfaces reflecting light from water film. Workers frantically collecting every drop of moisture before evaporation."
+    background: "Desert landscape transformed by post-storm clarity and distant rainbow"
+    atmosphere: "Industrial urgency against natural desert backdrop, constant threat of sandworm attack"
+  composition:
+    cameraAngle: "Medium view of rain-washed industrial site"
+    focus: "Figure collecting water from gleaming machinery"
+    depth: "Water-beaded equipment in foreground, working figure in middle ground, transformed desert in background"

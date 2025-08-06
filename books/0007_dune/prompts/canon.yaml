@@ -1,0 +1,103 @@
+canon:
+  characters:
+    - id: "paul_atreides"
+      name: "Paul Atreides"
+      description_block: |
+        characters:
+          - appearance: "Young man, 15 years old, dark hair, lean athletic build, intense dark eyes, aristocratic features"
+            clothing: "Black stillsuit with breathing apparatus, dark desert robes, or formal Atreides ducal uniform with family crest"
+            posture: "Alert and confident, shoulders back, hands often at sides or gesturing with purpose"
+
+    - id: "duke_leto"
+      name: "Duke Leto Atreides"  
+      description_block: |
+        characters:
+          - appearance: "Man in his 40s, dark hair with gray at temples, strong jaw, weathered face, commanding presence"
+            clothing: "Atreides ducal uniform in dark colors with house insignia, military-style jacket with ceremonial elements"
+            posture: "Upright military bearing, hands clasped behind back or gesturing with authority"
+
+    - id: "lady_jessica"
+      name: "Lady Jessica"
+      description_block: |
+        characters:
+          - appearance: "Woman in her 30s, auburn hair, striking green eyes, elegant aristocratic features, graceful build"
+            clothing: "Bene Gesserit robes in earth tones, or elegant court dress appropriate for ducal consort"
+            posture: "Composed and alert, hands folded or making precise Bene Gesserit gestures"
+
+    - id: "baron_harkonnen"
+      name: "Baron Vladimir Harkonnen"
+      description_block: |
+        characters:
+          - appearance: "Extremely obese man in his 60s, bald head, pale skin, small dark eyes, bloated features"
+            clothing: "Rich ornate robes in dark colors, suspensor harness visible underneath clothing"
+            posture: "Floating slightly above ground via suspensors, arms spread wide, domineering presence"
+
+    - id: "stilgar"
+      name: "Stilgar"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged Fremen man, dark weathered skin, piercing blue-within-blue spice-addicted eyes, lean desert-hardened build"
+            clothing: "Traditional Fremen stillsuit and robes in desert tans and browns, with moisture-conserving gear"
+            posture: "Alert desert stance, balanced on balls of feet, hands ready for action"
+
+    - id: "fremen_warrior"
+      name: "Fremen Warrior"
+      description_block: |
+        characters:
+          - appearance: "Adult Fremen, weather-beaten dark skin, distinctive blue-within-blue eyes from spice exposure, lean muscular build"
+            clothing: "Desert stillsuit with breathing apparatus, sand-colored robes, utility belt with water and weapons"
+            posture: "Combat-ready stance, moving with desert-trained stealth and efficiency"
+
+  locations:
+    - id: "arrakeen_palace"
+      name: "Arrakeen Palace"
+      description_block: |
+        setting:
+          location: "Ancient fortress palace in Arrakeen city on harsh desert world with endless sand dunes, twin suns, and extreme heat, massive stone architecture built for desert climate"
+        mainElements: "Towering walls of desert sandstone, carved archways, ceremonial halls with high ceilings, defensive battlements"
+        atmosphere: "Austere grandeur adapted to harsh desert environment, shadows providing relief from heat"
+
+    - id: "desert_landscape"
+      name: "Arrakis Desert"
+      description_block: |
+        setting:
+          location: "Vast desert landscape on harsh desert world with endless golden sand dunes, twin blazing suns, extreme heat shimmer, and alien desert beauty"
+        mainElements: "Rolling sand dunes, rocky outcroppings, scattered spice deposits creating orange patches, occasional desert plants"
+        atmosphere: "Harsh alien beauty with shimmering heat, deadly stillness broken only by wind over sand"
+
+    - id: "sietch_interior"
+      name: "Fremen Sietch"
+      description_block: |
+        setting:
+          location: "Underground Fremen settlement carved into desert rock formations on harsh desert world with golden sand dunes and twin suns above, hidden from surface detection"
+        mainElements: "Carved stone passages, water catchment systems, communal gathering spaces, hidden entrances"
+        atmosphere: "Cool refuge from desert heat, communal warmth, carefully conserved resources visible everywhere"
+
+    - id: "spice_harvester_site"
+      name: "Spice Harvesting Operation"
+      description_block: |
+        setting:
+          location: "Industrial spice extraction site in desert of harsh world with endless golden dunes and twin blazing suns, heavy machinery operating on spice-rich sand"
+        mainElements: "Massive harvesting equipment, ornithopter aircraft, spice deposits glowing orange, workers in protective gear"
+        atmosphere: "Industrial urgency against natural desert backdrop, constant threat of sandworm attack"
+
+  items:
+    - id: "crysknife"
+      name: "Crysknife" 
+      description_block: |
+        details: "Sacred Fremen blade forged from tooth of dead sandworm, milky-white crystalline material, double-edged curved design, must draw blood before sheathing"
+
+    - id: "stillsuit"
+      name: "Stillsuit"
+      description_block: |
+        details: "Desert survival suit that recycles body moisture, form-fitting with breathing apparatus and water tubes, essential for Arrakis survival"
+
+    - id: "spice_melange"
+      name: "Spice Melange"
+      description_block: |
+        details: "Precious orange-colored spice found only on Arrakis, extends life and enables prescience, essential for space navigation, highly addictive substance"
+
+    - id: "ornithopter"
+      name: "Ornithopter"
+      description_block: |
+        details: "Flying vehicle with bird-like wings that beat for lift and propulsion, desert camouflage coloring, used for transportation across Arrakis"

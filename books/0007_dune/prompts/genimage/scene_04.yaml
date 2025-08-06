@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Morning on Arrakis, warm golden light filling residential quarters
+    location: Ancient fortress palace in Arrakeen city on harsh desert world with endless sand dunes, twin suns, and extreme
+      heat, massive stone architecture built for desert climate
+    weather: Clear morning with warming air, gentle circulation through palace ventilation
+  characters:
+  - appearance: Man in his 40s, dark hair with gray at temples, strong jaw, weathered face, commanding presence
+    clothing: Atreides ducal uniform in dark colors with house insignia, military-style jacket with ceremonial elements
+    position: Standing at carved wooden desk reviewing documents
+    action: Examining reports while morning light illuminates ceremonial chamber
+  scene:
+    mainElements: Towering walls of desert sandstone, carved archways, ceremonial halls with high ceilings, defensive battlements
+    details: Formal chamber with carved wooden furniture adapted for desert climate. Stacks of communication crystals and
+      data tablets on polished stone desk. Morning light streaming through tall windows with geometric lattice patterns. Banners
+      displaying Atreides hawk insignia hanging from stone walls. Cool shadows still lingering in corners despite warming
+      air.
+    background: Arched windows showing glimpse of palace courtyards and city beyond
+    atmosphere: Austere grandeur adapted to harsh desert environment, shadows providing relief from heat
+  composition:
+    cameraAngle: Three-quarter view of ceremonial chamber from elevated position
+    focus: Figure at desk illuminated by geometric window light patterns
+    depth: Detailed desk and documents in foreground, standing figure in middle ground, windowed walls in background
+visualElements:
+  colorPalette:
+    primary:
+    - neon blue
+    - metallic gray
+    - glowing cyan
+    - steel silver
+    secondary:
+    - amber light
+    - deep space black
+    - violet sky
+    background: futuristic skyline or starfield
+    usageNotes: Cool tones dominate with pops of vibrant neon lighting
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: painterly sketches painted over
+    weight: n/a (lines hidden by painting)
+    color: n/a
+    texture: smooth digital, hard edges on tech
+    edgeTreatment: sharp silhouettes, atmospheric fade
+  lighting:
+    type: dramatic cinematic lighting
+    direction: multiple sources (city lights, backlights)
+    intensity: high contrast (bright neon vs deep shadow)
+    shadows:
+      style: long shadows, diffused by haze
+      color: cool blue or purple
+      opacity: deep
+    highlights: lens flares, neon glows on surfaces
+  rendering:
+    technique: digital painting with some photobash
+    texture: smooth with textured brushes for atmosphere
+    detailLevel: high in focal points (tech details), looser elsewhere
+    finish: polished, cinematic look
+  perspective: dynamic perspective (wide-angle vistas or low-angle hero shots)
+  mood:
+    overall: epic, futuristic, adventurous
+    emotion: awe, excitement, curiosity
+    tempo: dynamic, energetic
+    keywords:
+    - futuristic
+    - epic
+    - cinematic
+    - detailed
+    - atmospheric
+  stylePrecedents:
+  - Syd Mead (futurist designer)
+  - Blade Runner concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

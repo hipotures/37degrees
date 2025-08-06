@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 2053, special night conditions, starry sky over landscape
+    location: Rural wooded area outside dystopian city, natural setting by river
+    weather: Crystal clear night, brilliant stars, unusual nocturnal atmosphere
+  characters:
+  - appearance: Man, early 30s, dark hair, athletic build, strong jawline, expressive eyes showing internal conflict
+    clothing: Black fireman's uniform with brass buttons and badges, heavy boots, salamander emblem on chest
+    position: Standing or walking with purpose, carrying equipment or books
+    action: Moving with determination, examining objects, or in contemplative pose
+  scene:
+    mainElements: Campfire, simple shelters, natural surroundings, group of intellectual exiles
+    details: Brilliant star field visible in unpolluted sky above natural landscape, figure in uniform standing at edge of
+      camp looking up at cosmos, small campfire providing minimal light, river reflecting starlight, profound connection between
+      human scale and cosmic vastness, no text or letters visible
+    background: Trees, river, star-filled sky, distant city glow on horizon
+    atmosphere: Profound natural wonder, connection to larger cosmos, perspective on human conflicts within universal context
+  composition:
+    cameraAngle: Low angle emphasizing vast starry sky above figure
+    focus: Small human figure contemplating vast star field
+    depth: 'Foreground: campfire area, middle ground: contemplating figure, background: brilliant star-filled sky'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Late 1800s Congress Poland, midday in peak summer, extreme heat wave
+    location: Cultivated farmlands surrounding Lipce village in Mazovian plains of Congress Poland, open fields stretching
+      to forest edge
+    weather: Extreme heat wave with temperatures causing crops to wither, air shimmering with heat
+  characters:
+  - appearance: Young woman, early 20s, beautiful with long golden-blonde hair, slender athletic build, average height, bright
+      blue eyes, fair complexion with rosy cheeks
+    clothing: Traditional Polish folk dress with embroidered bodice, white linen blouse with puffy sleeves, long colorful
+      skirt, floral headscarf or flower wreath in hair
+    position: Collapsed in small patch of shade, overcome by heat
+    action: Lying in minimal shade of wooden cart, dress soaked with perspiration, fanning herself weakly, breathing heavily
+  scene:
+    mainElements: Divided plots of wheat, rye, and barley fields, wooden plows and farming tools, hay stacks, stone field
+      boundaries, dirt paths between properties
+    details: Extreme heat creating visible distortion in air, crops wilting and browning from drought, earth cracked and parched,
+      even wooden tools too hot to handle, any metal surfaces dangerously hot, insects dead or hiding, no wind or breeze,
+      heat so intense it affects all life, water sources dried to mud
+    background: Village shimmering in heat waves, church tower appearing to waver in heated air, forest edge stressed and
+      brown
+    atmosphere: Sacred agricultural landscape that defines peasant identity, constantly changing with seasonal work cycles,
+      extreme weather threatening survival and harvest, nature's power to destroy as well as nurture, human vulnerability
+      to climate extremes
+  composition:
+    cameraAngle: Low angle emphasizing the oppressive heat and human suffering
+    focus: Extreme heat made visible through air distortion and wilted landscape, human figure overcome by natural forces
+    depth: Foreground shows cracked earth and dying plants, middle ground features collapsed figure seeking shade, background
+      shows heat-distorted landscape
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    - paper white
+    - single color ink
+    secondary:
+    - sepia brown
+    - dark red
+    - deep blue
+    background: paper color or simple color
+    usageNotes: Limited colors, usually monochromatic or few colors
+    saturation: medium (ink colors)
+    contrast: very high (carved vs uncarved areas)
+  lineArt:
+    style: bold carved lines following wood grain
+    weight: varies with carving tool, generally bold
+    color: ink color (usually black)
+    texture: rough carved texture, wood grain visible
+    edgeTreatment: rough, hand-carved edges
+  lighting:
+    type: simplified lighting through carved areas
+    direction: basic light indication
+    intensity: high contrast (lit vs shadow areas)
+    shadows:
+      style: solid carved areas (black ink)
+      color: ink color
+      opacity: solid
+    highlights: uncarved areas (paper color)
+  rendering:
+    technique: relief printing from carved wooden block
+    texture: wood grain texture, printing irregularities
+    detailLevel: moderate (limited by carving technique)
+    finish: matte ink on paper
+  perspective: simple, often flattened perspective
+  mood:
+    overall: bold, traditional, handcrafted
+    emotion: strength, tradition, craftsmanship
+    tempo: solid, grounded
+    keywords:
+    - bold
+    - traditional
+    - handcrafted
+    - strong
+    - rustic
+  stylePrecedents:
+  - Japanese ukiyo-e prints
+  - German Expressionist woodcuts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

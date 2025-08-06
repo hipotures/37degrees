@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: Morning, 1702, clear sunny day
+    location: Agricultural field in the kingdom of Brobdingnag, on a peninsula off California coast
+    weather: Bright morning sunlight, clear skies
+  characters:
+  - appearance: Man, early 40s, brown hair disheveled and salt-crusted, exhausted face with stubble, lean build, sunburned
+      skin
+    clothing: Torn white linen shirt clinging wet, damaged brown breeches, barefoot, remnants of blue coat
+    position: Standing small and vulnerable in vast field
+    action: Looking up in shock and fear at the enormous farmer, stumbling backward in terror
+  - appearance: Giant man 60 feet tall, gray beard, weathered face with kind eyes, massive muscular build from farm work
+    clothing: Rough brown wool tunic, leather belt as thick as tree trunk, enormous leather boots, wide-brimmed straw hat
+    position: Bending down curiously, one massive hand extended palm up
+    action: Bending down curiously, one massive hand extended palm up, examining tiny human figure with wonder and caution
+  scene:
+    mainElements: Corn stalks 40 feet tall, massive wheat like golden trees, furrows deep as trenches, enormous insects like
+      birds
+    details: Overwhelming agricultural landscape with crops scaled to impossible size, Gulliver appearing like tiny insect
+      among giant plants, farmer's tools scattered around - scythe like ship's mast, boots creating craters in soil, insects
+      the size of birds flying overhead, morning dew drops large as goblets hanging from giant grass blades, farm dog visible
+      in distance appearing large as horse, no text or letters visible
+    background: Overwhelming scale of familiar farmland, rustling of giant plants in wind, agricultural abundance on massive
+      scale
+    atmosphere: Terror and wonder at reversed scale, kindness in giant's expression despite overwhelming size difference,
+      pastoral setting made alien by proportion
+  composition:
+    cameraAngle: Low angle emphasizing scale difference between tiny Gulliver and giant farmer
+    focus: Moment of discovery as giant farmer finds tiny human in his field
+    depth: 'Foreground: Gulliver among giant crop stalks, middle: farmer bending down, background: vast agricultural landscape'
+visualElements:
+  colorPalette:
+    primary:
+    - warm oranges
+    - sky blues
+    - sunset reds
+    - palm greens
+    secondary:
+    - sand beige
+    - ocean turquoise
+    - golden yellow
+    background: gradient skies, solid color blocks
+    usageNotes: Limited palette, 3-5 colors maximum, screen-printed look
+    saturation: high
+    contrast: strong
+  lineArt:
+    style: clean, simplified
+    weight: bold, uniform
+    color: darker shade of base colors
+    texture: smooth, graphic
+    edgeTreatment: crisp, stylized
+  lighting:
+    type: idealized, perpetual golden hour
+    direction: dramatic side or back lighting
+    intensity: warm, inviting
+    shadows:
+      style: simplified, graphic
+      color: darker tone of base color
+      opacity: solid color blocks
+    highlights: bright, optimistic
+  rendering:
+    technique: flat color with minimal gradients
+    texture: slight paper texture
+    detailLevel: simplified, iconic elements only
+    finish: lithograph or screen print appearance
+  perspective: dramatic angles, heroic viewpoints
+  mood:
+    overall: adventurous, romantic, optimistic
+    emotion: wanderlust, excitement, nostalgia
+    tempo: dynamic yet timeless
+    keywords:
+    - adventurous
+    - romantic
+    - exotic
+    - inviting
+    - nostalgic
+  stylePrecedents:
+  - Roger Broders
+  - David Klein
+  - Art Deco posters
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Turning Away from Connection"
+  setting:
+    time: "Early 1800s England, afternoon"
+    location: "Ancient abbey converted to gentleman's estate in Surrey countryside, stone buildings with medieval foundations"
+    weather: "Cool afternoon with intermittent clouds"
+  characters:
+    - appearance: "Young woman, early twenties, blonde hair in fashionable Regency curls, bright intelligent eyes, handsome features, tall slender build, confident posture"
+      clothing: "Fine white muslin morning dress with high waist, delicate embroidered shawl, silk slippers, pearl jewelry appropriate to wealthy gentry"
+      position: "Standing with back partially turned, looking away over garden"
+      action: "Avoiding eye contact, arms crossed defensively, chin raised in stubborn pride"
+    - appearance: "Man in his mid-thirties, dark brown hair, strong jaw, serious thoughtful expression, tall athletic build, dignified bearing"
+      clothing: "Dark blue tailcoat with brass buttons, buff-colored waistcoat, white cravat, riding boots or formal leather shoes"
+      position: "Standing several feet away, reaching out slightly but not touching"
+      action: "Speaking with earnest concern, leaning forward with genuine care"
+  scene:
+    mainElements: "Grand entrance hall, library with leather-bound books, fruit gardens with strawberry beds, old stone terraces"
+    details: "Dignified ancestral seat representing old English landed gentry tradition, ancient stone walls witnessing human drama, afternoon shadows growing longer, fruit blossoms scattering in breeze, distance between figures emphasized by grand scale of architecture"
+    background: "Medieval stone archways and terraced gardens, rolling Surrey countryside beyond"
+    atmosphere: "Communication breakdown despite physical proximity, pride creating emotional barriers, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot emphasizing distance and separation despite shared space"
+    focus: "Body language showing emotional withdrawal and frustrated concern"
+    depth: "Foreground stone terrace, middle ground separated figures, background ancient gardens"

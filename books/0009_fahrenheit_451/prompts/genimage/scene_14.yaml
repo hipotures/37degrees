@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 2053, long shadows creating drama, silhouettes against burning sky
+    location: Suburban American neighborhood in dystopian future, empty streets with scattered houses
+    weather: Clear sunset, windows reflecting fire of sunset
+  characters:
+  - appearance: Man, early 30s, dark hair, athletic build, strong jawline, expressive eyes showing internal conflict
+    clothing: Black fireman's uniform with brass buttons and badges, heavy boots, salamander emblem on chest
+    position: Standing or walking with purpose, carrying equipment or books
+    action: Moving with determination, examining objects, or in contemplative pose
+  scene:
+    mainElements: Suburban houses with electronic windows, dramatic sunset lighting, long shadows
+    details: Figure silhouetted against brilliant orange-red sunset sky, house windows reflecting fiery colors like burning
+      screens, Floor-to-ceiling television screens covering three or four walls, displaying interactive programs, creating
+      immersive artificial reality visible through windows, long dramatic shadows stretching across empty streets, no text
+      or letters visible
+    background: Empty suburban streets, identical houses, dramatic sky colors
+    atmosphere: Dramatic transition, conflict between natural beauty and artificial environment, peaceful end-of-day feeling
+      mixed with underlying tension
+  composition:
+    cameraAngle: Wide shot from street level, silhouetting figure against dramatic sky
+    focus: Silhouetted figure with burning sunset reflecting in electronic windows
+    depth: 'Foreground: long shadows on pavement, middle ground: silhouetted figure, background: houses with fiery window
+      reflections and burning sky'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

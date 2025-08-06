@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Pre-Dawn Silence Before the Storm"
+  setting:
+    time: "2053, pre-dawn darkness, last stars fading"
+    location: "Suburban American neighborhood in dystopian future, empty streets with scattered houses"
+    weather: "Clear but heavy air, stillness before dawn, no wind"
+  characters:
+    - appearance: "Man, early 30s, dark hair, athletic build, strong jawline, expressive eyes showing internal conflict"
+      clothing: "Black fireman's uniform with brass buttons and badges, heavy boots, salamander emblem on chest"
+      position: "Walking alone down empty street, silhouetted against deep blue sky"
+      action: "Moving slowly with heavy steps, head down, carrying equipment"
+  scene:
+    mainElements: "Empty suburban street with identical houses, street lamps casting yellow pools of light, deep blue sky with last stars visible, mist rising from storm drains"
+    details: "Geometric patterns of house windows, some with faint electronic glow from within, concrete sidewalks reflecting streetlight, power lines creating stark silhouettes against sky, no text or letters visible"
+    background: "Distant cityscape with electronic billboards creating orange glow on horizon, jet aircraft trails fading in upper atmosphere, first hints of dawn light on eastern horizon"
+    atmosphere: "Profound stillness, sense of anticipation and impending change, weight of routine and conformity, urban alienation in artificial environment"
+  composition:
+    cameraAngle: "Wide establishing shot from street level, slight low angle"
+    focus: "Solitary figure walking through geometric suburban landscape"
+    depth: "Foreground: empty street and sidewalk, middle ground: walking figure and street lamps, background: dark houses and distant city glow"

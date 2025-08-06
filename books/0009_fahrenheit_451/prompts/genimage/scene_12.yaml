@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: 2053, after afternoon thunderstorm, post-rain clarity with gleaming surfaces
+    location: Municipal fire station in dystopian American city, converted for book-burning operations
+    weather: Just after rain, everything gleaming wet, crystal clear air
+  characters:
+  - appearance: Man, 40s, commanding presence, intelligent but cynical eyes, well-built, authoritative bearing
+    clothing: Fire chief uniform with more elaborate insignia, clean and pressed, leadership badges
+    position: Standing with authority, behind desk, or addressing others
+    action: Speaking with intensity, demonstrating authority, or manipulating situations
+  scene:
+    mainElements: Salamander fire trucks, kerosene tanks, burning equipment, firemen's quarters
+    details: Water droplets covering all metallic surfaces, red fire engines reflecting wet light, brass fixtures gleaming
+      with post-rain clarity, puddles on concrete floor reflecting overhead lights, air crystal clear after storm cleansing,
+      steam rising slightly from wet equipment, no text or letters visible
+    background: Red fire engines, brass poles, lockers, maps of city districts
+    atmosphere: Mechanical efficiency, institutional coldness, purposeful destruction enhanced by pristine post-storm clarity
+  composition:
+    cameraAngle: Wide shot showing reflective surfaces and clean atmosphere
+    focus: Authority figure in gleaming institutional environment after cleansing rain
+    depth: 'Foreground: wet equipment with reflections, middle ground: uniformed figure, background: fire engines and clear
+      post-storm light'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

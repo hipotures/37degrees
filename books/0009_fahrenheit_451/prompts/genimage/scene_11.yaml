@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 2053, afternoon light slanted through windows creating patterns
+    location: Small hidden room in American city, elderly professor's modest dwelling
+    weather: Clear afternoon, dramatic lighting through windows
+  characters:
+  - appearance: Elderly man, 60s, thin build, wire-rimmed glasses, gentle but worried expression, graying hair
+    clothing: Simple civilian clothes, worn cardigan or jacket, modest appearance
+    position: Sitting in small room, hunched over books, or speaking quietly
+    action: Reading, whispering, crafting communication devices, or teaching
+  scene:
+    mainElements: Simple furniture, hidden books, radio equipment, small windows, lived-in academic space
+    details: Slanted afternoon light streaming through window creating geometric patterns on walls, dust motes dancing in
+      golden sunbeams, Forbidden literature concealed in walls, gardens, or secret spaces, representing preserved knowledge
+      and resistance to censorship partially revealed by dramatic lighting, radio components casting intricate shadows, no
+      text or letters visible
+    background: Modest apartment walls, bookshelves partially concealed, simple domestic items
+    atmosphere: Quiet intellectualism, careful secrecy, dramatic revelation through natural light, scholarly determination
+      despite oppression
+  composition:
+    cameraAngle: Medium shot emphasizing dramatic light patterns
+    focus: Figure and hidden books illuminated by slanted afternoon light
+    depth: 'Foreground: books and papers in dramatic light, middle ground: elderly figure, background: window creating light
+      patterns'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

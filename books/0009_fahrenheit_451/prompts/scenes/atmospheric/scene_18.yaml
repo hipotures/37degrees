@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Moonlight Creating Silver Landscapes"
+  setting:
+    time: "2053, deep night, moonlight creating silver landscapes"
+    location: "Rural wooded area outside dystopian city, natural setting by river"
+    weather: "Clear night, bright moonlight, shadows within shadows"
+  characters:
+    - appearance: "Middle-aged man, 50s, weathered face, kind eyes, intellectual bearing, calm demeanor"
+      clothing: "Practical outdoor clothing, worn but clean, earth-toned colors"
+      position: "By campfire, walking through nature, or with group of exiles"
+      action: "Tending fire, sharing knowledge, or guiding others"
+  scene:
+    mainElements: "Campfire, simple shelters, natural surroundings, group of intellectual exiles"
+    details: "Bright moonlight transforming landscape into silver and black composition, campfire providing warm orange contrast to cool silver moonlight, river surface reflecting moon, figure silhouetted against night sky, sleeping world peaceful and natural, no text or letters visible"
+    background: "Trees, river, star-filled sky, distant city glow on horizon"
+    atmosphere: "Peaceful, natural, hopeful, connected to earth and human knowledge, profound nighttime tranquility"
+  composition:
+    cameraAngle: "Wide shot emphasizing moonlit natural landscape"
+    focus: "Figure in moonlight with campfire providing warm counterpoint"
+    depth: "Foreground: moonlit forest floor, middle ground: figure by fire, background: silver river and moonlit sky"

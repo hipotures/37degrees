@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Morning Confidence in English Countryside"
+  setting:
+    time: "Early 1800s England, bright morning"
+    location: "Large Georgian manor house in Surrey village of Highbury, England, surrounded by extensive landscaped grounds and gardens"
+    weather: "Clear sunny morning with gentle breeze"
+  characters:
+    - appearance: "Young woman, early twenties, blonde hair in fashionable Regency curls, bright intelligent eyes, handsome features, tall slender build, confident posture"
+      clothing: "Fine white muslin morning dress with high waist, delicate embroidered shawl, silk slippers, pearl jewelry appropriate to wealthy gentry"
+      position: "Standing on terrace steps with arms relaxed at sides"
+      action: "Gazing out over estate grounds with serene satisfaction, chin slightly raised"
+  scene:
+    mainElements: "Elegant drawing room with tall windows, fine furniture, portraits on walls, blazing fireplace"
+    details: "Sunlight streaming through tall Georgian windows onto polished floors, fresh flowers arranged in crystal vases, morning tea service set on mahogany table, family portraits watching benevolently from walls, comfortable wealthy domestic sphere, refined genteel English country living"
+    background: "Manicured gardens extending toward village, rolling Surrey countryside beyond"
+    atmosphere: "Perfect contentment and secure privilege, world ordered exactly as it should be, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from garden looking toward house"
+    focus: "Young woman framed by elegant doorway, embodying domestic harmony"
+    depth: "Foreground garden blooms, middle ground figure on terrace, background house interior"

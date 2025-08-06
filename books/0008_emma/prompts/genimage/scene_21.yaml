@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Early 1800s England, early morning
+    location: Large Georgian manor house in Surrey village of Highbury, England, surrounded by extensive landscaped grounds
+      and gardens
+    weather: Gentle rain washing clean after storm, soft morning light beginning to break through
+  characters:
+  - appearance: Young woman, early twenties, blonde hair in fashionable Regency curls, bright intelligent eyes, handsome features,
+      tall slender build, confident posture
+    clothing: Fine white muslin morning dress with high waist, delicate embroidered shawl, silk slippers, pearl jewelry appropriate
+      to wealthy gentry
+    position: Standing in garden with face upturned to gentle rain
+    action: Arms spread wide accepting cleansing water, expression showing profound relief and release
+  scene:
+    mainElements: Elegant drawing room with tall windows, fine furniture, portraits on walls, blazing fireplace
+    details: Comfortable wealthy domestic sphere, refined genteel English country living, but doors thrown open to garden,
+      fresh air flowing through previously stuffy rooms, storm debris being washed away by gentle rain, everything appearing
+      clean and new
+    background: Garden showing signs of renewal after storm, broken branches cleared, flowers washed bright
+    atmosphere: Cathartic release and emotional cleansing, exhausted peace after crisis, world washed clean, no text or letters
+      visible
+  composition:
+    cameraAngle: Wide shot showing figure embracing renewal in cleansed landscape
+    focus: Expression of profound relief and acceptance of cleansing
+    depth: Foreground washed garden, middle ground figure accepting rain, background house opened to fresh air
+visualElements:
+  colorPalette:
+    primary:
+    - pale pink
+    - powder blue
+    - cream white
+    secondary:
+    - gold leaf
+    - soft lavender
+    - mint green
+    background: elegant interior settings or pastoral landscapes
+    usageNotes: Soft, refined pastel colors with gold accents
+    saturation: low to medium (delicate, refined)
+    contrast: low (soft, harmonious)
+  lineArt:
+    style: delicate, flowing curves
+    weight: light, graceful lines
+    color: soft, subtle outlines
+    texture: smooth, refined finish
+    edgeTreatment: soft, curved edges
+  lighting:
+    type: soft, diffused lighting
+    direction: gentle, flattering illumination
+    intensity: soft, never harsh
+    shadows:
+      style: soft, delicate shadows
+      color: light grays and pastels
+      opacity: very light
+    highlights: gentle, pearlescent highlights
+  rendering:
+    technique: smooth oil painting with fine detail
+    texture: silk, porcelain, delicate fabrics
+    detailLevel: high (ornate decorative details)
+    finish: smooth, polished finish
+  perspective: intimate, human scale
+  mood:
+    overall: elegant, refined, leisurely
+    emotion: pleasure, refinement, grace
+    tempo: leisurely, graceful
+    keywords:
+    - elegant
+    - refined
+    - graceful
+    - delicate
+    - aristocratic
+  stylePrecedents:
+  - Antoine Watteau paintings
+  - Fragonard romantic scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

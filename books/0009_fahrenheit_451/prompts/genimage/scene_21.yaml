@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: 2053, seasonal transition showing time passage, dramatic seasonal shift
+    location: Urban streets in dystopian American city, designed for speed and efficiency
+    weather: First snow falling, winter transition, same location transformed by season
+  characters:
+  - appearance: Young woman, 17 years old, pale complexion, bright curious eyes, delicate features, questioning expression
+    clothing: Simple white dress or light colored clothing, no makeup, natural appearance
+    position: Walking outdoors, sitting on steps, or in natural poses
+    action: Observing nature, asking questions, touching flowers or natural elements
+  scene:
+    mainElements: Wide empty streets, fast-moving vehicles, minimal pedestrians, electronic billboards
+    details: First snowflakes beginning to accumulate on electronic billboards and concrete surfaces, figure pausing to catch
+      snowflakes, same urban location now transformed by winter weather, electronic systems continuing mechanically while
+      nature reasserts seasonal control, no text or letters visible
+    background: Tall buildings, electronic signs, jet aircraft overhead, sterile architecture
+    atmosphere: Natural cycles continuing despite technological control, wonder at seasonal transformation, time passage made
+      visible through weather
+  composition:
+    cameraAngle: Wide shot showing familiar location transformed by season
+    focus: Figure experiencing natural seasonal change within technological environment
+    depth: 'Foreground: snow-dusted pavement, middle ground: figure in falling snow, background: familiar buildings now winter-transformed'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

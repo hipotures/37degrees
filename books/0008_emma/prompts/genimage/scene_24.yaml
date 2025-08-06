@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: Early 1800s England, evening
+    location: Large Georgian manor house in Surrey village of Highbury, England, surrounded by extensive landscaped grounds
+      and gardens
+    weather: Clear peaceful evening with gentle golden light
+  characters:
+  - appearance: Young woman, early twenties, blonde hair in fashionable Regency curls, bright intelligent eyes, handsome features,
+      tall slender build, confident posture
+    clothing: Fine white muslin morning dress with high waist, delicate embroidered shawl, silk slippers, pearl jewelry appropriate
+      to wealthy gentry
+    position: Seated at same window as before but posture completely different, relaxed and open
+    action: Reading letter with gentle smile, occasionally looking up to contemplate garden with new understanding
+  - appearance: Elderly gentleman in his sixties, gray hair thinning, anxious worried expression, frail thin build, nervous
+      gestures
+    clothing: Dark wool coat, warm waistcoat, white neck cloth, comfortable indoor slippers, often wrapped in shawl
+    position: In his familiar chair but appearing more at peace
+    action: Dozing contentedly, no longer anxious or agitated, wrapped in warm shawl
+  scene:
+    mainElements: Elegant drawing room with tall windows, fine furniture, portraits on walls, blazing fireplace
+    details: Comfortable wealthy domestic sphere, refined genteel English country living, evening light warm and welcoming,
+      family portraits seeming benevolent and approving, furniture arranged openly for conversation, atmosphere of peace and
+      understanding
+    background: Garden visible through windows showing signs of careful tending and renewal
+    atmosphere: Domestic harmony achieved through understanding, beauty revealed through emotional transformation, no text
+      or letters visible
+  composition:
+    cameraAngle: Medium shot from interior showing figure at window with peaceful expression
+    focus: Two figures in domestic setting with transformed emotional atmosphere
+    depth: Foreground welcoming hearth, middle ground peaceful figures, background garden in evening light
+visualElements:
+  colorPalette:
+    primary:
+    - pale pink
+    - powder blue
+    - cream white
+    secondary:
+    - gold leaf
+    - soft lavender
+    - mint green
+    background: elegant interior settings or pastoral landscapes
+    usageNotes: Soft, refined pastel colors with gold accents
+    saturation: low to medium (delicate, refined)
+    contrast: low (soft, harmonious)
+  lineArt:
+    style: delicate, flowing curves
+    weight: light, graceful lines
+    color: soft, subtle outlines
+    texture: smooth, refined finish
+    edgeTreatment: soft, curved edges
+  lighting:
+    type: soft, diffused lighting
+    direction: gentle, flattering illumination
+    intensity: soft, never harsh
+    shadows:
+      style: soft, delicate shadows
+      color: light grays and pastels
+      opacity: very light
+    highlights: gentle, pearlescent highlights
+  rendering:
+    technique: smooth oil painting with fine detail
+    texture: silk, porcelain, delicate fabrics
+    detailLevel: high (ornate decorative details)
+    finish: smooth, polished finish
+  perspective: intimate, human scale
+  mood:
+    overall: elegant, refined, leisurely
+    emotion: pleasure, refinement, grace
+    tempo: leisurely, graceful
+    keywords:
+    - elegant
+    - refined
+    - graceful
+    - delicate
+    - aristocratic
+  stylePrecedents:
+  - Antoine Watteau paintings
+  - Fragonard romantic scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

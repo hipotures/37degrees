@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: Mid-morning, 1699, clear day
+    location: Grassy field near Lilliput beach, empire of Lilliput
+    weather: Bright morning sunlight, clear skies
+  characters:
+  - appearance: Man, early 40s, brown hair disheveled and salt-crusted, exhausted face with stubble, lean build, sunburned
+      skin
+    clothing: Torn white linen shirt clinging wet, damaged brown breeches, barefoot, remnants of blue coat
+    position: Lying on back, arms and legs spread wide, secured to ground
+    action: Opening eyes and attempting to sit up, discovering restraints, expression of shock and confusion
+  - appearance: Multiple tiny men six inches tall, various hair colors, determined expressions, miniature military bearing
+    clothing: Red wool uniforms with brass buttons, tiny tricorn hats, white breeches, miniature muskets and swords
+    position: Military formation surrounding giant figure, some standing on his chest and arms
+    action: Military formation with weapons raised, some aiming tiny bows and arrows
+  scene:
+    mainElements: Hundreds of tiny ropes no thicker than thread but numerous enough to bind a man, wrapped around limbs and
+      torso, secured with miniature stakes
+    details: Gulliver bound by countless miniature ropes to stakes driven into ground, dozens of six-inch soldiers maintaining
+      guard positions, tiny ladders propped against his body, miniature flags and banners, brass telescope lying nearby but
+      out of reach, morning dew on grass making tiny soldiers' equipment glisten, no text or letters visible
+    background: Grassy meadow with wildflowers, distant view of miniature city with tiny spires, ocean visible in far distance
+    atmosphere: Surreal discovery of scale difference, military tension between giant and tiny captors, sense of wonder mixed
+      with constraint and fear
+  composition:
+    cameraAngle: Elevated angle showing Gulliver's bound form from above
+    focus: Gulliver's shocked face and the tiny soldiers positioned around him
+    depth: 'Foreground: tiny soldiers with weapons, middle: Gulliver''s bound figure, background: Lilliputian landscape'
+visualElements:
+  colorPalette:
+    primary:
+    - warm oranges
+    - sky blues
+    - sunset reds
+    - palm greens
+    secondary:
+    - sand beige
+    - ocean turquoise
+    - golden yellow
+    background: gradient skies, solid color blocks
+    usageNotes: Limited palette, 3-5 colors maximum, screen-printed look
+    saturation: high
+    contrast: strong
+  lineArt:
+    style: clean, simplified
+    weight: bold, uniform
+    color: darker shade of base colors
+    texture: smooth, graphic
+    edgeTreatment: crisp, stylized
+  lighting:
+    type: idealized, perpetual golden hour
+    direction: dramatic side or back lighting
+    intensity: warm, inviting
+    shadows:
+      style: simplified, graphic
+      color: darker tone of base color
+      opacity: solid color blocks
+    highlights: bright, optimistic
+  rendering:
+    technique: flat color with minimal gradients
+    texture: slight paper texture
+    detailLevel: simplified, iconic elements only
+    finish: lithograph or screen print appearance
+  perspective: dramatic angles, heroic viewpoints
+  mood:
+    overall: adventurous, romantic, optimistic
+    emotion: wanderlust, excitement, nostalgia
+    tempo: dynamic yet timeless
+    keywords:
+    - adventurous
+    - romantic
+    - exotic
+    - inviting
+    - nostalgic
+  stylePrecedents:
+  - Roger Broders
+  - David Klein
+  - Art Deco posters
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

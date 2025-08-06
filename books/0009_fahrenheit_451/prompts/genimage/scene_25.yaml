@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 2053, dawn again but changed, familiar location in different season
+    location: Rural wooded area outside dystopian city, natural setting by river
+    weather: Clear dawn, cyclical but transformed, time passage made visible
+  characters:
+  - appearance: Man, early 30s, dark hair, athletic build, strong jawline, expressive eyes showing internal conflict
+    clothing: Practical outdoor clothing, worn but clean, earth-toned colors
+    position: By campfire, walking through nature, or with group of exiles
+    action: Tending fire, sharing knowledge, or guiding others
+  scene:
+    mainElements: Campfire, simple shelters, natural surroundings, group of intellectual exiles
+    details: Pre-dawn darkness lifting again but landscape transformed by seasons and experience, figure now dressed differently
+      showing personal transformation, campfire from glowing embers being rekindled, distant city horizon showing signs of
+      reconstruction, birds beginning dawn chorus, cyclical renewal with evidence of growth and change, no text or letters
+      visible
+    background: Trees, river, star-filled sky, distant city glow on horizon
+    atmosphere: Cyclical renewal with transformation, hope for rebuilding, personal and social growth, connection to natural
+      rhythms while building new civilization
+  composition:
+    cameraAngle: Wide establishing shot from natural setting, showing transformation and renewal
+    focus: Transformed figure in transformed landscape at dawn of new possibilities
+    depth: 'Foreground: rekindled campfire, middle ground: figure in natural setting, background: distant city showing signs
+      of renewal'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

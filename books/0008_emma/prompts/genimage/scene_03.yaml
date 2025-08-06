@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Early 1800s England, afternoon
+    location: Large Georgian manor house in Surrey village of Highbury, England, surrounded by extensive landscaped grounds
+      and gardens
+    weather: Soft afternoon light filtering through windows
+  characters:
+  - appearance: Young woman, early twenties, blonde hair in fashionable Regency curls, bright intelligent eyes, handsome features,
+      tall slender build, confident posture
+    clothing: Fine white muslin morning dress with high waist, delicate embroidered shawl, silk slippers, pearl jewelry appropriate
+      to wealthy gentry
+    position: Seated at easel by tall window, palette in hand
+    action: Adding careful brushstrokes to portrait with focused concentration and pleased expression
+  scene:
+    mainElements: Elegant drawing room with tall windows, fine furniture, portraits on walls, blazing fireplace
+    details: Watercolor box with ceramic paint wells, fine brushes, half-finished portrait sketches, drawing paper scattered
+      on table, afternoon sun illuminating artwork, comfortable wealthy domestic sphere, refined genteel English country living,
+      crystal water glass for cleaning brushes catching rainbow light
+    background: Garden views through window, family portraits on walls as inspiration
+    atmosphere: Creative fulfillment and artistic accomplishment, talents properly cultivated in refined setting, no text
+      or letters visible
+  composition:
+    cameraAngle: Over-shoulder view of artist at work
+    focus: Hands applying paint to canvas, expression of creative satisfaction
+    depth: Foreground painting supplies, middle ground figure at easel, background window and garden view
+visualElements:
+  colorPalette:
+    primary:
+    - pale pink
+    - powder blue
+    - cream white
+    secondary:
+    - gold leaf
+    - soft lavender
+    - mint green
+    background: elegant interior settings or pastoral landscapes
+    usageNotes: Soft, refined pastel colors with gold accents
+    saturation: low to medium (delicate, refined)
+    contrast: low (soft, harmonious)
+  lineArt:
+    style: delicate, flowing curves
+    weight: light, graceful lines
+    color: soft, subtle outlines
+    texture: smooth, refined finish
+    edgeTreatment: soft, curved edges
+  lighting:
+    type: soft, diffused lighting
+    direction: gentle, flattering illumination
+    intensity: soft, never harsh
+    shadows:
+      style: soft, delicate shadows
+      color: light grays and pastels
+      opacity: very light
+    highlights: gentle, pearlescent highlights
+  rendering:
+    technique: smooth oil painting with fine detail
+    texture: silk, porcelain, delicate fabrics
+    detailLevel: high (ornate decorative details)
+    finish: smooth, polished finish
+  perspective: intimate, human scale
+  mood:
+    overall: elegant, refined, leisurely
+    emotion: pleasure, refinement, grace
+    tempo: leisurely, graceful
+    keywords:
+    - elegant
+    - refined
+    - graceful
+    - delicate
+    - aristocratic
+  stylePrecedents:
+  - Antoine Watteau paintings
+  - Fragonard romantic scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

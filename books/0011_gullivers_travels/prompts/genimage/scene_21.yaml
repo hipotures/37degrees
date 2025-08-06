@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: Evening, 1710, during extended stay in horse society
+    location: Simple but elegant stable serving as Houyhnhnm dwelling place
+    weather: Calm evening with peaceful atmosphere
+  characters:
+  - appearance: Man, early 40s, brown hair tied back in queue, weathered face from sea voyages, average height, lean build
+      from travels
+    clothing: Dark blue wool coat with brass buttons, white linen shirt with ruffled collar, brown leather breeches, black
+      buckled shoes, tricorn hat
+    position: Standing upright with observant stance, hands clasped behind back, alert expression
+    action: Attempting to communicate and learn from rational horses, beginning to idealize their perfect logical society
+      while growing disgusted with his own human nature
+  - appearance: Dapple-gray horse with intelligent eyes, noble bearing, well-groomed coat, graceful proportions
+    clothing: None - natural horse form
+    position: Standing with dignity, head held high, one hoof slightly raised in thoughtful pose
+    action: Patiently teaching Gulliver about rational principles, demonstrating perfect logic and truth, showing disapproval
+      of human passions and conflicts
+  scene:
+    mainElements: Clean, simple stable environment representing Houyhnhnm rational lifestyle without unnecessary ornaments
+    details: Simple wooden trough with oats, fresh hay in neat pile, clear water in stone basin, milk in wooden pail arranged
+      with mathematical precision, leather-bound book with weather-stained pages, quill pen and ink pot, navigation charts,
+      sealed with wax where Gulliver records his observations, pure functional architecture with no decorative elements, everything
+      serving rational purpose, absence of weapons or tools of conflict, peaceful coexistence based on reason rather than
+      force, no text or letters visible
+    background: Simple stable architecture designed purely for function, other Houyhnhnms visible engaging in rational discourse
+    atmosphere: Perfect rational calm, mathematical order in all things, Gulliver's growing obsession with achieving impossible
+      rational purity
+  composition:
+    cameraAngle: Medium shot showing intimate conversation between human and rational horse
+    focus: Gulliver's intense fascination with Houyhnhnm master's perfect rationality
+    depth: 'Foreground: Gulliver and Houyhnhnm in close discourse, middle: functional stable environment, background: other
+      rational horses in peaceful activities'
+visualElements:
+  colorPalette:
+    primary:
+    - warm oranges
+    - sky blues
+    - sunset reds
+    - palm greens
+    secondary:
+    - sand beige
+    - ocean turquoise
+    - golden yellow
+    background: gradient skies, solid color blocks
+    usageNotes: Limited palette, 3-5 colors maximum, screen-printed look
+    saturation: high
+    contrast: strong
+  lineArt:
+    style: clean, simplified
+    weight: bold, uniform
+    color: darker shade of base colors
+    texture: smooth, graphic
+    edgeTreatment: crisp, stylized
+  lighting:
+    type: idealized, perpetual golden hour
+    direction: dramatic side or back lighting
+    intensity: warm, inviting
+    shadows:
+      style: simplified, graphic
+      color: darker tone of base color
+      opacity: solid color blocks
+    highlights: bright, optimistic
+  rendering:
+    technique: flat color with minimal gradients
+    texture: slight paper texture
+    detailLevel: simplified, iconic elements only
+    finish: lithograph or screen print appearance
+  perspective: dramatic angles, heroic viewpoints
+  mood:
+    overall: adventurous, romantic, optimistic
+    emotion: wanderlust, excitement, nostalgia
+    tempo: dynamic yet timeless
+    keywords:
+    - adventurous
+    - romantic
+    - exotic
+    - inviting
+    - nostalgic
+  stylePrecedents:
+  - Roger Broders
+  - David Klein
+  - Art Deco posters
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

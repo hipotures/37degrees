@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Cleansing Rain and Release"
+  setting:
+    time: "Early 1800s England, early morning"
+    location: "Large Georgian manor house in Surrey village of Highbury, England, surrounded by extensive landscaped grounds and gardens"
+    weather: "Gentle rain washing clean after storm, soft morning light beginning to break through"
+  characters:
+    - appearance: "Young woman, early twenties, blonde hair in fashionable Regency curls, bright intelligent eyes, handsome features, tall slender build, confident posture"
+      clothing: "Fine white muslin morning dress with high waist, delicate embroidered shawl, silk slippers, pearl jewelry appropriate to wealthy gentry"
+      position: "Standing in garden with face upturned to gentle rain"
+      action: "Arms spread wide accepting cleansing water, expression showing profound relief and release"
+  scene:
+    mainElements: "Elegant drawing room with tall windows, fine furniture, portraits on walls, blazing fireplace"
+    details: "Comfortable wealthy domestic sphere, refined genteel English country living, but doors thrown open to garden, fresh air flowing through previously stuffy rooms, storm debris being washed away by gentle rain, everything appearing clean and new"
+    background: "Garden showing signs of renewal after storm, broken branches cleared, flowers washed bright"
+    atmosphere: "Cathartic release and emotional cleansing, exhausted peace after crisis, world washed clean, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing figure embracing renewal in cleansed landscape"
+    focus: "Expression of profound relief and acceptance of cleansing"
+    depth: "Foreground washed garden, middle ground figure accepting rain, background house opened to fresh air"

@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: Late afternoon, 1702, after storm
+    location: Rocky coastline of Brobdingnag, on a peninsula off California coast
+    weather: Storm clearing, rough seas subsiding, gray clouds breaking
+  characters:
+  - appearance: Man, early 40s, brown hair disheveled and salt-crusted, exhausted face with stubble, lean build, sunburned
+      skin
+    clothing: Torn white linen shirt clinging wet, damaged brown breeches, barefoot, remnants of blue coat
+    position: Collapsed on rocky shore, sprawled among large boulders
+    action: Unconscious on rough stones, waves still washing over legs, body positioned as if thrown by powerful surf
+  scene:
+    mainElements: Rocky coastline with massive boulders, powerful waves crashing against cliffs, debris from second shipwreck
+    details: Dramatic rocky shore with enormous stones and cliffs, broken mast pieces, torn sails, floating barrels, splintered
+      planks, rope tangles scattered among giant boulders, seabirds with unusual size investigating debris, crab tracks larger
+      than normal in wet sand between rocks, everything in landscape suggesting unusual scale, storm debris mixed with natural
+      rock formations, no text or letters visible
+    background: Towering cliffs and headlands rising far higher than normal, storm clouds dispersing over unusually vast ocean,
+      unknown coastline with intimidating scale
+    atmosphere: Harsh and forbidding landscape, sense of isolation and vulnerability, aftermath of violent maritime disaster
+      in unknown territory
+  composition:
+    cameraAngle: Wide dramatic shot from elevated rocky position
+    focus: Gulliver's unconscious form among shipwreck debris on boulder-strewn shore
+    depth: 'Foreground: shipwreck debris and Gulliver on rocks, middle: crashing waves and coastline, background: towering
+      cliffs and clearing storm'
+visualElements:
+  colorPalette:
+    primary:
+    - warm oranges
+    - sky blues
+    - sunset reds
+    - palm greens
+    secondary:
+    - sand beige
+    - ocean turquoise
+    - golden yellow
+    background: gradient skies, solid color blocks
+    usageNotes: Limited palette, 3-5 colors maximum, screen-printed look
+    saturation: high
+    contrast: strong
+  lineArt:
+    style: clean, simplified
+    weight: bold, uniform
+    color: darker shade of base colors
+    texture: smooth, graphic
+    edgeTreatment: crisp, stylized
+  lighting:
+    type: idealized, perpetual golden hour
+    direction: dramatic side or back lighting
+    intensity: warm, inviting
+    shadows:
+      style: simplified, graphic
+      color: darker tone of base color
+      opacity: solid color blocks
+    highlights: bright, optimistic
+  rendering:
+    technique: flat color with minimal gradients
+    texture: slight paper texture
+    detailLevel: simplified, iconic elements only
+    finish: lithograph or screen print appearance
+  perspective: dramatic angles, heroic viewpoints
+  mood:
+    overall: adventurous, romantic, optimistic
+    emotion: wanderlust, excitement, nostalgia
+    tempo: dynamic yet timeless
+    keywords:
+    - adventurous
+    - romantic
+    - exotic
+    - inviting
+    - nostalgic
+  stylePrecedents:
+  - Roger Broders
+  - David Klein
+  - Art Deco posters
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

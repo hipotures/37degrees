@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Early morning on Arrakis, mist rising from hidden water sources
+    location: Underground Fremen settlement carved into desert rock formations on harsh desert world with golden sand dunes
+      and twin suns above, hidden from surface detection
+    weather: Cool morning air with rare moisture creating thin mist
+  characters:
+  - appearance: Middle-aged Fremen man, dark weathered skin, piercing blue-within-blue spice-addicted eyes, lean desert-hardened
+      build
+    clothing: Traditional Fremen stillsuit and robes in desert tans and browns, with moisture-conserving gear
+    position: Standing at hidden entrance to sietch, overlooking desert
+    action: Watching dawn break over the dunes while checking moisture readings
+  scene:
+    mainElements: Carved stone passages, water catchment systems, communal gathering spaces, hidden entrances
+    details: Hidden entrance carved into rock face partially concealed by natural stone formations. Thin wisps of precious
+      moisture escaping as mist from water reclamation systems. Desert-camouflaged opening blends seamlessly with natural
+      rock. Morning light revealing subtle details in stone texture. Condensation beads visible on moisture-conserving equipment.
+    background: Rolling sand dunes stretching to horizon, rocky outcroppings masking settlement
+    atmosphere: Cool refuge from desert heat, communal warmth, carefully conserved resources visible everywhere
+  composition:
+    cameraAngle: View from inside hidden entrance looking out toward desert
+    focus: Silhouetted figure framed by carved stone entrance with misty desert beyond
+    depth: Stone entrance frame in foreground, standing figure in middle ground, expansive desert in background
+visualElements:
+  colorPalette:
+    primary:
+    - neon blue
+    - metallic gray
+    - glowing cyan
+    - steel silver
+    secondary:
+    - amber light
+    - deep space black
+    - violet sky
+    background: futuristic skyline or starfield
+    usageNotes: Cool tones dominate with pops of vibrant neon lighting
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: painterly sketches painted over
+    weight: n/a (lines hidden by painting)
+    color: n/a
+    texture: smooth digital, hard edges on tech
+    edgeTreatment: sharp silhouettes, atmospheric fade
+  lighting:
+    type: dramatic cinematic lighting
+    direction: multiple sources (city lights, backlights)
+    intensity: high contrast (bright neon vs deep shadow)
+    shadows:
+      style: long shadows, diffused by haze
+      color: cool blue or purple
+      opacity: deep
+    highlights: lens flares, neon glows on surfaces
+  rendering:
+    technique: digital painting with some photobash
+    texture: smooth with textured brushes for atmosphere
+    detailLevel: high in focal points (tech details), looser elsewhere
+    finish: polished, cinematic look
+  perspective: dynamic perspective (wide-angle vistas or low-angle hero shots)
+  mood:
+    overall: epic, futuristic, adventurous
+    emotion: awe, excitement, curiosity
+    tempo: dynamic, energetic
+    keywords:
+    - futuristic
+    - epic
+    - cinematic
+    - detailed
+    - atmospheric
+  stylePrecedents:
+  - Syd Mead (futurist designer)
+  - Blade Runner concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 2053, early evening, street life under artificial lights
+    location: Urban streets in dystopian American city, designed for speed and efficiency
+    weather: Clear evening, mix of natural and human-made illumination
+  characters:
+  - appearance: Woman, late 20s, blonde hair, vacant expression, thin build, hollow-looking eyes
+    clothing: Modern comfortable clothes, seashell ear radios visible, artificial appearance
+    position: Sitting in front of parlor walls or lying down, disconnected posture
+    action: Watching screens, adjusting ear radios, or in mindless activities
+  scene:
+    mainElements: Wide empty streets, fast-moving vehicles, minimal pedestrians, electronic billboards
+    details: Street lamps creating pools of artificial light, electronic billboards cycling through bright advertisements,
+      figure moving mechanically through urban environment with Tiny wireless earphone devices, constant stream of music and
+      entertainment, worn continuously for mental distraction glowing, mix of artificial lighting creating harsh contrasts,
+      no text or letters visible
+    background: Tall buildings, electronic signs, jet aircraft overhead, sterile architecture
+    atmosphere: Artificial illumination dominating natural evening, technological isolation despite urban environment, disconnection
+      from natural rhythms
+  composition:
+    cameraAngle: Wide shot showing scale of artificial lighting
+    focus: Isolated figure moving through artificially lit urban environment
+    depth: 'Foreground: illuminated street surface, middle ground: figure under artificial lights, background: electronic
+      billboards and lit building facades'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

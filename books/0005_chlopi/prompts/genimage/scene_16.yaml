@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: Late 1800s Congress Poland, early evening in autumn, candlelight illuminating dinner
+    location: Large wooden peasant cottage in Lipce village, Congress Poland, main residence of wealthiest farming family
+      in village
+    weather: Cool autumn evening outside, warm and cozy inside cottage
+  characters:
+  - appearance: Man, late 50s, weathered face with deep lines from decades of sun and wind, gray-streaked brown hair, stocky
+      muscular build, tall stature, calloused hands, penetrating gray eyes
+    clothing: Brown wool vest over white linen shirt, thick leather belt, knee-length breeches, tall leather boots, woolen
+      cap in cold weather
+    position: Sitting at head of wooden dinner table
+    action: Carving bread with large knife, candlelight flickering across weathered features, shadow dancing on wall behind
+      him
+  - appearance: Young woman, early 20s, beautiful with long golden-blonde hair, slender athletic build, average height, bright
+      blue eyes, fair complexion with rosy cheeks
+    clothing: Traditional Polish folk dress with embroidered bodice, white linen blouse with puffy sleeves, long colorful
+      skirt, floral headscarf or flower wreath in hair
+    position: Sitting opposite at table, candlelight highlighting her beauty
+    action: Serving soup from large wooden bowl, face illuminated by warm candle glow, avoiding direct eye contact
+  scene:
+    mainElements: Spacious log construction with thatched roof, multiple rooms including main living area with large stove,
+      separate sleeping chambers, well-maintained wooden furniture, religious icons on walls
+    details: Dinner table lit by candles creating warm yellow light, wooden bowls and clay pots holding simple peasant meal,
+      shadows dancing on log walls, wooden crucifix with carved Christ figure visible in candlelight, oil lamps providing
+      additional warm glow, steam rising from hot food mixing with candlelight, cozy interior contrasting with dark windows
+    background: Kitchen area visible in background with large stove, religious icons glowing in candlelight, dark windows
+      showing night outside
+    atmosphere: Prosperous but traditional peasant home, center of family power and conflicts, warm interior lit by oil lamps
+      and fire, intimate family meal masking underlying tensions and forbidden desires
+  composition:
+    cameraAngle: Medium shot across table showing both figures in candlelight
+    focus: Warm candlelight creating intimate atmosphere while highlighting the tension between the characters
+    depth: Foreground shows table with food and candles, middle ground features two seated figures, background shows cottage
+      interior in warm light
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    - paper white
+    - single color ink
+    secondary:
+    - sepia brown
+    - dark red
+    - deep blue
+    background: paper color or simple color
+    usageNotes: Limited colors, usually monochromatic or few colors
+    saturation: medium (ink colors)
+    contrast: very high (carved vs uncarved areas)
+  lineArt:
+    style: bold carved lines following wood grain
+    weight: varies with carving tool, generally bold
+    color: ink color (usually black)
+    texture: rough carved texture, wood grain visible
+    edgeTreatment: rough, hand-carved edges
+  lighting:
+    type: simplified lighting through carved areas
+    direction: basic light indication
+    intensity: high contrast (lit vs shadow areas)
+    shadows:
+      style: solid carved areas (black ink)
+      color: ink color
+      opacity: solid
+    highlights: uncarved areas (paper color)
+  rendering:
+    technique: relief printing from carved wooden block
+    texture: wood grain texture, printing irregularities
+    detailLevel: moderate (limited by carving technique)
+    finish: matte ink on paper
+  perspective: simple, often flattened perspective
+  mood:
+    overall: bold, traditional, handcrafted
+    emotion: strength, tradition, craftsmanship
+    tempo: solid, grounded
+    keywords:
+    - bold
+    - traditional
+    - handcrafted
+    - strong
+    - rustic
+  stylePrecedents:
+  - Japanese ukiyo-e prints
+  - German Expressionist woodcuts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

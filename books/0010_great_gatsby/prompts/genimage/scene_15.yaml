@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Summer 1922, early evening
+    location: Road in front of Wilson's garage, Valley of Ashes, Corona, Queens
+    weather: Suffocating heat with dust clouds hanging in still air
+  characters:
+  - appearance: Woman, mid-30s, dark curly hair, full figured build, heavily made-up face, red lipstick, sensuous expression
+    clothing: Cream-colored chiffon dress with brown sash, costume jewelry necklace, brown heeled shoes, excessive rouge
+    position: Running desperately toward speeding car in middle of road
+    action: Arms outstretched toward approaching vehicle, face filled with desperate hope and recognition
+  scene:
+    mainElements: Small auto repair shop with weathered wooden structure, gas pumps outside, grimy windows, scattered auto
+      parts
+    details: Tragic convergence of desperate hope and speeding metal, woman running toward yellow car believing it contains
+      salvation, garage workshop tools scattered around, oil-stained concrete, broken glass reflecting late sunlight, dust
+      motes suspended in golden evening light. Moment frozen between recognition and catastrophe. Enormous eyes of Doctor
+      T.J. Eckleburg watching from billboard with yellow spectacles, weathered and peeling paint. No text or letters visible.
+    background: Faded billboard advertisement showing enormous blue eyes behind yellow spectacles, gray ash heaps extending
+      to horizon, industrial smokestacks releasing black smoke
+    atmosphere: Fatal misunderstanding and desperate hope converging in split second before tragedy, moral blindness of the
+      watching billboard eyes
+  composition:
+    cameraAngle: Wide dramatic shot capturing the tragic intersection of paths
+    focus: The moment of tragic recognition between running figure and approaching vehicle
+    depth: Foreground shows garage debris and broken glass, middle ground captures the fatal encounter, background dominated
+      by watching eyes of Eckleburg billboard
+visualElements:
+  colorPalette:
+    primary:
+    - gold metallic
+    - black
+    - cream white
+    secondary:
+    - silver chrome
+    - deep red
+    - royal blue
+    background: elegant geometric patterns or luxury settings
+    usageNotes: Rich, luxurious colors with metallic accents
+    saturation: high (rich, elegant colors)
+    contrast: high (dramatic black and gold contrasts)
+  lineArt:
+    style: geometric, symmetrical patterns
+    weight: bold, confident lines
+    color: metallic gold or silver outlines
+    texture: smooth, polished surfaces
+    edgeTreatment: sharp, precise geometric edges
+  lighting:
+    type: dramatic, luxury lighting
+    direction: theatrical lighting emphasizing geometry
+    intensity: bright, glamorous
+    shadows:
+      style: geometric, stylized shadows
+      color: rich dark colors
+      opacity: solid, dramatic
+    highlights: brilliant metallic reflections
+  rendering:
+    technique: precise geometric illustration
+    texture: polished metals, smooth surfaces, luxury materials
+    detailLevel: high (intricate geometric patterns)
+    finish: highly polished, reflective
+  perspective: symmetrical, balanced compositions
+  mood:
+    overall: luxurious, elegant, sophisticated
+    emotion: glamour, sophistication, modern elegance
+    tempo: stately, confident
+    keywords:
+    - luxurious
+    - elegant
+    - sophisticated
+    - glamorous
+    - geometric
+  stylePrecedents:
+  - Chrysler Building architecture
+  - 1920s luxury poster design
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

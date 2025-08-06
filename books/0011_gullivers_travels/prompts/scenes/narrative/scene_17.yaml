@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Absurd Experiments at the Grand Academy of Lagado"
+  setting:
+    time: "Morning, 1706, during visit to scientific institution"
+    location: "Scientific institution in the ruined city of Lagado, capital of Balnibarbi"
+    weather: "Overcast day with poor lighting in crumbling laboratory"
+  characters:
+    - appearance: "Man, early 40s, brown hair tied back in queue, weathered face from sea voyages, average height, lean build from travels"
+      clothing: "Dark blue wool coat with brass buttons, white linen shirt with ruffled collar, brown leather breeches, black buckled shoes, tricorn hat"
+      position: "Standing upright with observant stance, hands clasped behind back, alert expression"
+      action: "Witnessing absurd scientific experiments with mixture of fascination and horror, documenting impractical theories destroying practical knowledge"
+    - appearance: "Man, 50s, wild gray hair, manic expression, thin build, ink-stained hands, eccentric demeanor"
+      clothing: "Stained leather apron over rumpled clothes, protective goggles pushed up on forehead"
+      position: "Hunched over apparatus, gesturing excitedly, eyes gleaming with impractical enthusiasm"
+      action: "Demonstrating completely useless experiment of extracting sunbeams from cucumbers, earnestly explaining impossible theoretical benefits"
+  scene:
+    mainElements: "Multiple buildings with broken walls, laboratories with bizarre apparatus, cucumber frames for sunbeam extraction, rooms filled with failed experiments"
+    details: "Glass containers with cucumbers, complex tubing and condensers, failed attempt to extract sunbeams, various chemical residues creating chaotic laboratory scene, broken scientific instruments, piles of rotting organic matter from failed food experiments, architectural models built from roof downward and collapsing, mathematical calculations covering every wall surface, smell of decay and chemical failure permeating air, earnest scientists completely oblivious to obvious impossibility of their projects, no text or letters visible"
+    background: "Crumbling city of Lagado visible through broken laboratory windows, other academy buildings in similar states of decay and neglect"
+    atmosphere: "Chaotic scientific endeavor, smell of chemicals and failure, earnest incompetence destroying practical knowledge, institutional madness disguised as learning"
+  composition:
+    cameraAngle: "Medium shot showing laboratory chaos and absurd experiments"
+    focus: "Projector scientist demonstrating cucumber sunbeam extraction to bewildered Gulliver"
+    depth: "Foreground: scientist and experimental apparatus, middle: Gulliver observing, background: chaotic laboratory with multiple failed experiments"

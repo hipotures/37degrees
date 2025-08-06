@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: Late 1800s Congress Poland, late afternoon in summer, storm clearing with rainbow appearing
+    location: Polish peasant village in Congress Poland under Russian partition, Mazovian countryside near Skierniewice, late
+      1800s rural settlement with wooden houses and dirt roads
+    weather: Storm clearing with brilliant rainbow appearing, sun breaking through clouds, fresh-washed air
+  characters:
+  - appearance: Man, late 50s, weathered face with deep lines from decades of sun and wind, gray-streaked brown hair, stocky
+      muscular build, tall stature, calloused hands, penetrating gray eyes
+    clothing: Brown wool vest over white linen shirt, thick leather belt, knee-length breeches, tall leather boots, woolen
+      cap in cold weather
+    position: Standing in village square looking up at rainbow
+    action: Gazing upward at rainbow with expression of wonder, hands shading eyes from emerging sun, posture showing awe
+      at natural beauty
+  scene:
+    mainElements: Traditional wooden cottages with thatched roofs, central village square with well, small wooden church with
+      bell tower, unpaved dirt roads, wooden fences separating properties
+    details: Brilliant rainbow arcing across sky from dark storm clouds to bright sunshine, everything fresh-washed and gleaming
+      after rain, puddles reflecting rainbow colors and bright sky, cottage roofs dripping but gleaming clean, fresh-scented
+      air, bird songs returning as storm passes, steam rising from wet wooden surfaces
+    background: Storm clouds departing revealing brilliant blue sky, forest edge sparkling clean, church tower standing clear
+      against rainbow-decorated sky
+    atmosphere: Intimate rural community where everyone knows each other's business, governed by seasonal agricultural rhythms
+      and Catholic traditions, nature's beauty and promise after destructive storm, rainbow as symbol of hope and divine blessing,
+      fresh beginning after trial
+  composition:
+    cameraAngle: Wide shot showing rainbow arcing over village with figure looking up in wonder
+    focus: Spectacular rainbow creating natural bridge across sky, human figure as witness to nature's beauty and promise
+    depth: Foreground shows village square with puddles reflecting sky, middle ground features figure gazing upward, background
+      shows rainbow spanning from storm to sunshine
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    - paper white
+    - single color ink
+    secondary:
+    - sepia brown
+    - dark red
+    - deep blue
+    background: paper color or simple color
+    usageNotes: Limited colors, usually monochromatic or few colors
+    saturation: medium (ink colors)
+    contrast: very high (carved vs uncarved areas)
+  lineArt:
+    style: bold carved lines following wood grain
+    weight: varies with carving tool, generally bold
+    color: ink color (usually black)
+    texture: rough carved texture, wood grain visible
+    edgeTreatment: rough, hand-carved edges
+  lighting:
+    type: simplified lighting through carved areas
+    direction: basic light indication
+    intensity: high contrast (lit vs shadow areas)
+    shadows:
+      style: solid carved areas (black ink)
+      color: ink color
+      opacity: solid
+    highlights: uncarved areas (paper color)
+  rendering:
+    technique: relief printing from carved wooden block
+    texture: wood grain texture, printing irregularities
+    detailLevel: moderate (limited by carving technique)
+    finish: matte ink on paper
+  perspective: simple, often flattened perspective
+  mood:
+    overall: bold, traditional, handcrafted
+    emotion: strength, tradition, craftsmanship
+    tempo: solid, grounded
+    keywords:
+    - bold
+    - traditional
+    - handcrafted
+    - strong
+    - rustic
+  stylePrecedents:
+  - Japanese ukiyo-e prints
+  - German Expressionist woodcuts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

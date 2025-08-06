@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Deep night on Arrakis, rare aurora phenomenon illuminating sky
+    location: Vast desert landscape on harsh desert world with endless golden sand dunes, twin blazing suns, extreme heat
+      shimmer, and alien desert beauty
+    weather: Clear cold night with unusual atmospheric conditions creating aurora
+  characters:
+  - appearance: Adult Fremen, weather-beaten dark skin, distinctive blue-within-blue eyes from spice exposure, lean muscular
+      build
+    clothing: Desert stillsuit with breathing apparatus, sand-colored robes, utility belt with water and weapons
+    position: Standing in desert watching rare aurora display
+    action: Observing unusual sky phenomenon while monitoring for potential dangers
+  scene:
+    mainElements: Rolling sand dunes, rocky outcroppings, scattered spice deposits creating orange patches, occasional desert
+      plants
+    details: Unusual aurora lights dancing across desert sky in green and purple colors. Desert landscape illuminated by shifting
+      colored light from aurora. Sand dunes taking on ethereal colors from sky display. Rare atmospheric phenomenon creating
+      otherworldly beauty. Stars still visible between aurora bands. Desert silence emphasizing the visual spectacle.
+    background: Dancing aurora lights filling night sky above endless desert
+    atmosphere: Harsh alien beauty with shimmering heat, deadly stillness broken only by wind over sand
+  composition:
+    cameraAngle: Wide sky view emphasizing aurora display over desert
+    focus: Silhouetted figure watching aurora lights dance across sky
+    depth: Aurora-lit sand in foreground, standing figure in middle ground, dancing lights filling background sky
+visualElements:
+  colorPalette:
+    primary:
+    - neon blue
+    - metallic gray
+    - glowing cyan
+    - steel silver
+    secondary:
+    - amber light
+    - deep space black
+    - violet sky
+    background: futuristic skyline or starfield
+    usageNotes: Cool tones dominate with pops of vibrant neon lighting
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: painterly sketches painted over
+    weight: n/a (lines hidden by painting)
+    color: n/a
+    texture: smooth digital, hard edges on tech
+    edgeTreatment: sharp silhouettes, atmospheric fade
+  lighting:
+    type: dramatic cinematic lighting
+    direction: multiple sources (city lights, backlights)
+    intensity: high contrast (bright neon vs deep shadow)
+    shadows:
+      style: long shadows, diffused by haze
+      color: cool blue or purple
+      opacity: deep
+    highlights: lens flares, neon glows on surfaces
+  rendering:
+    technique: digital painting with some photobash
+    texture: smooth with textured brushes for atmosphere
+    detailLevel: high in focal points (tech details), looser elsewhere
+    finish: polished, cinematic look
+  perspective: dynamic perspective (wide-angle vistas or low-angle hero shots)
+  mood:
+    overall: epic, futuristic, adventurous
+    emotion: awe, excitement, curiosity
+    tempo: dynamic, energetic
+    keywords:
+    - futuristic
+    - epic
+    - cinematic
+    - detailed
+    - atmospheric
+  stylePrecedents:
+  - Syd Mead (futurist designer)
+  - Blade Runner concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

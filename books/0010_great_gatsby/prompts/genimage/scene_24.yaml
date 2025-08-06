@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: Late summer 1922, twilight after all events concluded
+    location: Industrial wasteland in Corona, Queens, Valley of Ashes
+    weather: Clear evening with long shadows and golden sunset light
+  characters: []
+  scene:
+    mainElements: Faded billboard advertisement showing enormous blue eyes behind yellow spectacles, weathered and peeling
+      paint
+    details: Enormous eyes of Doctor T.J. Eckleburg wearing yellow spectacles, weathered and peeling paint, eternal watching
+      over moral wasteland that has claimed its victims, billboard standing silent vigil over industrial desolation. Gray
+      ash heaps unchanged by human tragedy, smokestacks still releasing black smoke into evening sky, scattered auto parts
+      and debris from Wilson's garage still visible. Sense of cosmic judgment and moral emptiness, eyes that have witnessed
+      all the corruption and tragedy now watching over empty wasteland. No text or letters visible.
+    background: Gray ash heaps extending to horizon, industrial buildings and smokestacks silhouetted against sunset, railroad
+      tracks stretching toward Manhattan
+    atmosphere: Cosmic judgment and moral emptiness, eternal watching over corrupted American landscape, sense of unchanged
+      moral desolation
+  composition:
+    cameraAngle: Low angle shot emphasizing the enormous watching eyes
+    focus: The symbolic eyes of moral judgment watching over spiritual wasteland
+    depth: Foreground shows industrial debris and ash, middle ground dominated by massive billboard eyes, background reveals
+      endless desolation stretching to horizon
+visualElements:
+  colorPalette:
+    primary:
+    - gold metallic
+    - black
+    - cream white
+    secondary:
+    - silver chrome
+    - deep red
+    - royal blue
+    background: elegant geometric patterns or luxury settings
+    usageNotes: Rich, luxurious colors with metallic accents
+    saturation: high (rich, elegant colors)
+    contrast: high (dramatic black and gold contrasts)
+  lineArt:
+    style: geometric, symmetrical patterns
+    weight: bold, confident lines
+    color: metallic gold or silver outlines
+    texture: smooth, polished surfaces
+    edgeTreatment: sharp, precise geometric edges
+  lighting:
+    type: dramatic, luxury lighting
+    direction: theatrical lighting emphasizing geometry
+    intensity: bright, glamorous
+    shadows:
+      style: geometric, stylized shadows
+      color: rich dark colors
+      opacity: solid, dramatic
+    highlights: brilliant metallic reflections
+  rendering:
+    technique: precise geometric illustration
+    texture: polished metals, smooth surfaces, luxury materials
+    detailLevel: high (intricate geometric patterns)
+    finish: highly polished, reflective
+  perspective: symmetrical, balanced compositions
+  mood:
+    overall: luxurious, elegant, sophisticated
+    emotion: glamour, sophistication, modern elegance
+    tempo: stately, confident
+    keywords:
+    - luxurious
+    - elegant
+    - sophisticated
+    - glamorous
+    - geometric
+  stylePrecedents:
+  - Chrysler Building architecture
+  - 1920s luxury poster design
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

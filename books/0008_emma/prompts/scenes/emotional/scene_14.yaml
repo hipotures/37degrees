@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Moral Condemnation and Judgment"
+  setting:
+    time: "Early 1800s England, late afternoon"
+    location: "Ancient abbey converted to gentleman's estate in Surrey countryside, stone buildings with medieval foundations"
+    weather: "Stormy afternoon with driving rain"
+  characters:
+    - appearance: "Young woman, early twenties, blonde hair in fashionable Regency curls, bright intelligent eyes, handsome features, tall slender build, confident posture"
+      clothing: "Fine white muslin morning dress with high waist, delicate embroidered shawl, silk slippers, pearl jewelry appropriate to wealthy gentry"
+      position: "Standing with head bowed, arms wrapped around herself defensively"
+      action: "Accepting stern rebuke with visible shame, unable to meet accuser's eyes"
+    - appearance: "Man in his mid-thirties, dark brown hair, strong jaw, serious thoughtful expression, tall athletic build, dignified bearing"
+      clothing: "Dark blue tailcoat with brass buttons, buff-colored waistcoat, white cravat, riding boots or formal leather shoes"
+      position: "Standing tall with rigid posture, hands clasped behind back"
+      action: "Delivering moral lecture with grave disappointment, voice stern but underlaid with genuine concern"
+  scene:
+    mainElements: "Grand entrance hall, library with leather-bound books, fruit gardens with strawberry beds, old stone terraces"
+    details: "Dignified ancestral seat representing old English landed gentry tradition, ancient stones witnessing moral reckoning, rain lashing against medieval windows, shadows deep and harsh in storm light, moral weight of centuries pressing down on contemporary failing"
+    background: "Stone archways and rain-soaked gardens, countryside disappearing in storm"
+    atmosphere: "Severe moral judgment cutting through self-deception, shame overwhelming pride, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot emphasizing moral distance despite physical proximity"
+    focus: "Contrast between upright moral authority and collapsed self-confidence"
+    depth: "Foreground rain-swept terrace, middle ground confronting figures, background storm-lashed ancient walls"

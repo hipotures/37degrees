@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Imperial Audience with Miniature Majesty"
+  setting:
+    time: "Afternoon, 1699, clear day"
+    location: "Royal pavilion erected near bound giant in Lilliputian territory"
+    weather: "Bright afternoon sunlight casting shadows"
+  characters:
+    - appearance: "Man, early 40s, brown hair tied back in queue, weathered face from sea voyages, average height, lean build from travels"
+      clothing: "Dark blue wool coat with brass buttons, white linen shirt with ruffled collar, brown leather breeches, black buckled shoes, tricorn hat"
+      position: "Standing upright with observant stance, hands clasped behind back, alert expression"
+      action: "Standing with observant stance, hands clasped behind back, alert expression, bending slightly forward to better observe tiny emperor"
+    - appearance: "Tiny man six inches tall, black hair, imperious expression, regal bearing despite miniature size"
+      clothing: "Purple silk robes with gold embroidery, miniature crown with jewels, golden scepter, pointed shoes with curled toes"
+      position: "Standing on elevated platform at eye level with giant, surrounded by retinue"
+      action: "Standing with chest puffed out, one hand holding scepter, chin raised commandingly"
+  scene:
+    mainElements: "Miniature royal pavilion with silk drapes and tiny throne, elevated platform bringing emperor to Gulliver's eye level, ceremonial guards in formation"
+    details: "Elaborate miniature ceremony with tiny courtiers, musicians with instruments the size of toys, silk banners and flags, golden ceremonial objects scaled to six-inch people, tiny stairs leading to platform, ornate carpet beneath emperor's feet, guards maintaining perfect military formation, afternoon shadows creating dramatic lighting, no text or letters visible"
+    background: "Grassy field with scattered wildflowers, distant view of Lilliputian capital city with miniature spires and towers"
+    atmosphere: "Formal diplomatic encounter despite absurd scale difference, imperial grandeur in miniature, mutual curiosity and assessment between two very different worlds"
+  composition:
+    cameraAngle: "Medium shot at Gulliver's eye level, showing scale comparison"
+    focus: "Face-to-face meeting between giant Gulliver and tiny Emperor on platform"
+    depth: "Foreground: Emperor's platform and ceremony, middle: Gulliver's attentive figure, background: Lilliputian landscape"

@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: Summer 1922, early evening on golf course
+    location: Private golf course near East Egg, Long Island, overlooking Long Island Sound
+    weather: Perfect summer evening with golden sunlight and gentle breeze
+  characters:
+  - appearance: Man, late 20s, brown hair neatly parted, average height, lean build, thoughtful expression, clean-shaven
+    clothing: Conservative gray wool suit, white shirt, dark blue tie, brown leather shoes, simple wristwatch
+    position: Slightly reserved stance, hands clasped in front, observant gaze
+    action: Walking alongside Jordan, maintaining respectful distance, listening attentively to her conversation
+  - appearance: Woman, mid-20s, dark brown hair in sleek bob, tall athletic build, sharp features, confident expression, sun-kissed
+      skin
+    clothing: Beige linen sports dress, brown leather belt, tan Oxford shoes, simple gold bracelet, no hat
+    position: Athletic stance with weight on one hip, arms crossed, chin raised slightly
+    action: Striding confidently across golf course, golf club in one hand, speaking animatedly while Nick listens
+  scene:
+    mainElements: Manicured golf course with rolling green fairways, sand traps, trees lining course, clubhouse in distance
+    details: Perfect country club setting representing East Egg social world. Immaculately maintained grass fairways stretching
+      toward Sound, strategically placed sand bunkers and water hazards, mature oak and maple trees providing shade, golf
+      carts parked near clubhouse, other golfers visible in distance as small figures, American flag flying from clubhouse
+      pole, pristine white sand in bunkers recently raked. Evening light casting long shadows across course. No text or letters
+      visible.
+    background: Long Island Sound visible beyond golf course, elegant clubhouse with colonial architecture, other wealthy
+      club members in distance
+    atmosphere: Privileged leisure world of the wealthy, tentative romantic connection developing, contrast between Nick's
+      reserve and Jordan's confidence
+  composition:
+    cameraAngle: Medium wide shot capturing both characters in golf course setting
+    focus: The developing dynamic between reserved Nick and confident Jordan as they navigate social and romantic terrain
+    depth: Foreground shows manicured grass and golf equipment, middle ground captures Nick and Jordan in conversation, background
+      reveals Sound and clubhouse
+visualElements:
+  colorPalette:
+    primary:
+    - gold metallic
+    - black
+    - cream white
+    secondary:
+    - silver chrome
+    - deep red
+    - royal blue
+    background: elegant geometric patterns or luxury settings
+    usageNotes: Rich, luxurious colors with metallic accents
+    saturation: high (rich, elegant colors)
+    contrast: high (dramatic black and gold contrasts)
+  lineArt:
+    style: geometric, symmetrical patterns
+    weight: bold, confident lines
+    color: metallic gold or silver outlines
+    texture: smooth, polished surfaces
+    edgeTreatment: sharp, precise geometric edges
+  lighting:
+    type: dramatic, luxury lighting
+    direction: theatrical lighting emphasizing geometry
+    intensity: bright, glamorous
+    shadows:
+      style: geometric, stylized shadows
+      color: rich dark colors
+      opacity: solid, dramatic
+    highlights: brilliant metallic reflections
+  rendering:
+    technique: precise geometric illustration
+    texture: polished metals, smooth surfaces, luxury materials
+    detailLevel: high (intricate geometric patterns)
+    finish: highly polished, reflective
+  perspective: symmetrical, balanced compositions
+  mood:
+    overall: luxurious, elegant, sophisticated
+    emotion: glamour, sophistication, modern elegance
+    tempo: stately, confident
+    keywords:
+    - luxurious
+    - elegant
+    - sophisticated
+    - glamorous
+    - geometric
+  stylePrecedents:
+  - Chrysler Building architecture
+  - 1920s luxury poster design
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

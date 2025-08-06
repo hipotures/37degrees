@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: Dawn, 1710, departure day from Houyhnhnm country
+    location: Beach at edge of Houyhnhnm territory where Gulliver must leave
+    weather: Gray dawn with overcast sky matching somber mood
+  characters:
+  - appearance: Man, early 40s, brown hair tied back in queue, weathered face from sea voyages, average height, lean build
+      from travels
+    clothing: Dark blue wool coat with brass buttons, white linen shirt with ruffled collar, brown leather breeches, black
+      buckled shoes, tricorn hat
+    position: Standing upright with observant stance, hands clasped behind back, alert expression
+    action: Reluctantly boarding crude raft he constructed, looking back desperately at the rational paradise he must abandon,
+      his mind already breaking from the loss
+  - appearance: Dapple-gray horse with intelligent eyes, noble bearing, well-groomed coat, graceful proportions
+    clothing: None - natural horse form
+    position: Standing with dignity, head held high, one hoof slightly raised in thoughtful pose
+    action: Standing on shore watching departure with calm rational detachment, showing no emotion despite years of interaction,
+      maintaining logical necessity over sentiment
+  scene:
+    mainElements: Crude raft constructed from local materials, perfect Houyhnhnm countryside visible in background being left
+      behind
+    details: Simple raft made from logs and ropes, sail constructed from animal skins, basic provisions for sea voyage, leather-bound
+      book with weather-stained pages, quill pen and ink pot, navigation charts, sealed with wax containing Gulliver's records
+      of perfect society, Gulliver's desperate backward glances at the rational paradise he can never regain, master horse
+      maintaining dignified farewell without sentiment, shoreline marking boundary between perfection and imperfect world,
+      no text or letters visible
+    background: Rolling meadows and perfect order of Houyhnhnm country receding as paradise is lost
+    atmosphere: Profound loss and psychological breakdown beginning, Gulliver's expulsion from the only society he has ever
+      found worthy, crushing weight of returning to Yahoo world
+  composition:
+    cameraAngle: Wide shot showing small raft departing from perfect shore with noble horse watching
+    focus: Gulliver's anguish at leaving paradise contrasted with Houyhnhnm master's rational calm
+    depth: 'Foreground: crude departure raft, middle: shoreline farewell, background: perfect Houyhnhnm country being left
+      behind forever'
+visualElements:
+  colorPalette:
+    primary:
+    - warm oranges
+    - sky blues
+    - sunset reds
+    - palm greens
+    secondary:
+    - sand beige
+    - ocean turquoise
+    - golden yellow
+    background: gradient skies, solid color blocks
+    usageNotes: Limited palette, 3-5 colors maximum, screen-printed look
+    saturation: high
+    contrast: strong
+  lineArt:
+    style: clean, simplified
+    weight: bold, uniform
+    color: darker shade of base colors
+    texture: smooth, graphic
+    edgeTreatment: crisp, stylized
+  lighting:
+    type: idealized, perpetual golden hour
+    direction: dramatic side or back lighting
+    intensity: warm, inviting
+    shadows:
+      style: simplified, graphic
+      color: darker tone of base color
+      opacity: solid color blocks
+    highlights: bright, optimistic
+  rendering:
+    technique: flat color with minimal gradients
+    texture: slight paper texture
+    detailLevel: simplified, iconic elements only
+    finish: lithograph or screen print appearance
+  perspective: dramatic angles, heroic viewpoints
+  mood:
+    overall: adventurous, romantic, optimistic
+    emotion: wanderlust, excitement, nostalgia
+    tempo: dynamic yet timeless
+    keywords:
+    - adventurous
+    - romantic
+    - exotic
+    - inviting
+    - nostalgic
+  stylePrecedents:
+  - Roger Broders
+  - David Klein
+  - Art Deco posters
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: Summer 1922, late evening after funeral
+    location: Massive Gothic Revival mansion in West Egg, Long Island, New York
+    weather: Still summer night with heavy humidity and no wind
+  characters: []
+  scene:
+    mainElements: Limestone facade with ivy, marble columns, tower with green light at end of dock, Olympic-sized pool, manicured
+      gardens with fountains
+    details: Magnificent mansion now completely empty and abandoned, all lights extinguished except for single lamp in ground
+      floor window, ornate gardens beginning to show signs of neglect with untrimmed hedges and fountain turned off, scattered
+      party debris still visible on terraces and lawns - champagne glasses, wilted flowers, abandoned decorations. Olympic
+      pool covered with leaves floating on surface, marble statuary casting long shadows under moonlight. Gate standing open
+      but no cars in circular drive, sense of sudden abandonment and dreams ended. No text or letters visible.
+    background: Dark water of Manhasset Bay with green light still glowing at end of private dock, other West Egg mansions
+      with warm lights showing continued wealthy life
+    atmosphere: Haunting emptiness and abandonment, magnificent creation left hollow, sense of dreams abandoned and illusions
+      shattered
+  composition:
+    cameraAngle: Wide establishing shot emphasizing the mansion's emptiness
+    focus: The abandoned grandeur of wealth without purpose
+    depth: Foreground shows scattered party remnants, middle ground captures empty mansion facade, background reveals dark
+      bay with still-glowing green light
+visualElements:
+  colorPalette:
+    primary:
+    - gold metallic
+    - black
+    - cream white
+    secondary:
+    - silver chrome
+    - deep red
+    - royal blue
+    background: elegant geometric patterns or luxury settings
+    usageNotes: Rich, luxurious colors with metallic accents
+    saturation: high (rich, elegant colors)
+    contrast: high (dramatic black and gold contrasts)
+  lineArt:
+    style: geometric, symmetrical patterns
+    weight: bold, confident lines
+    color: metallic gold or silver outlines
+    texture: smooth, polished surfaces
+    edgeTreatment: sharp, precise geometric edges
+  lighting:
+    type: dramatic, luxury lighting
+    direction: theatrical lighting emphasizing geometry
+    intensity: bright, glamorous
+    shadows:
+      style: geometric, stylized shadows
+      color: rich dark colors
+      opacity: solid, dramatic
+    highlights: brilliant metallic reflections
+  rendering:
+    technique: precise geometric illustration
+    texture: polished metals, smooth surfaces, luxury materials
+    detailLevel: high (intricate geometric patterns)
+    finish: highly polished, reflective
+  perspective: symmetrical, balanced compositions
+  mood:
+    overall: luxurious, elegant, sophisticated
+    emotion: glamour, sophistication, modern elegance
+    tempo: stately, confident
+    keywords:
+    - luxurious
+    - elegant
+    - sophisticated
+    - glamorous
+    - geometric
+  stylePrecedents:
+  - Chrysler Building architecture
+  - 1920s luxury poster design
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

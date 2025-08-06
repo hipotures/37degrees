@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Street Life Under Oil Lamps"
+  setting:
+    time: "Late 1800s Congress Poland, evening in autumn, village street lit by oil lamps"
+    location: "Traditional Polish village inn in Lipce, Congress Poland, gathering place for men and social hub"
+    weather: "Cool autumn evening with light wind, clear sky with stars"
+  characters:
+    - appearance: "Man, late 20s, dark brown hair, athletic muscular build, tall stature like his father, intense dark eyes, clean-shaven face with strong jawline"
+      clothing: "White linen shirt often partially unbuttoned, dark wool vest, sturdy work trousers, leather boots, rolled sleeves showing strong forearms"
+      position: "Standing outside inn with other village men"
+      action: "Gesturing animatedly in heated discussion, oil lamp light playing across his intense features, breath visible in cool air"
+  scene:
+    mainElements: "Low-ceilinged wooden building, rough wooden tables and benches, large clay stove, barrels of beer and vodka, oil lamps providing dim lighting"
+    details: "Mix of natural starlight and human-made oil lamp illumination, warm yellow light spilling from inn windows onto dirt road, men gathered in pools of lamp light, tobacco smoke visible in cold air, shadows shifting as men move, oil lamps creating halos in night fog, wooden inn sign creaking in breeze"
+    background: "Village cottages with lighted windows, church tower dark against starry sky, forest edge invisible in darkness"
+    atmosphere: "Male-dominated social space filled with tobacco smoke, heated discussions about politics and farming, occasional fights and revelry, evening gathering place where village tensions surface in alcohol and argument"
+  composition:
+    cameraAngle: "Medium shot showing figures gathered in lamp light pools"
+    focus: "Contrast between warm artificial light and cool natural darkness, social dynamics in evening gathering"
+    depth: "Foreground shows dirt road in lamp light, middle ground features men in discussion, background shows inn with warm windows"

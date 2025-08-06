@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "First Raindrops on Ancient Stone"
+  setting:
+    time: "Late afternoon on Arrakis, extremely rare rainstorm beginning"
+    location: "Ancient fortress palace in Arrakeen city on harsh desert world with endless sand dunes, twin suns, and extreme heat, massive stone architecture built for desert climate"
+    weather: "First precious raindrops falling after years of drought, wind picking up"
+  characters:
+    - appearance: "Woman in her 30s, auburn hair, striking green eyes, elegant aristocratic features, graceful build"
+      clothing: "Bene Gesserit robes in earth tones, or elegant court dress appropriate for ducal consort"
+      position: "Standing in palace courtyard as miraculous rain begins"
+      action: "Extending hand to catch precious raindrops, face turned skyward in wonder"
+  scene:
+    mainElements: "Towering walls of desert sandstone, carved archways, ceremonial halls with high ceilings, defensive battlements"
+    details: "First raindrops creating dark spots on sun-bleached stone. Each drop precious and noticed individually. Stone surfaces beginning to darken with moisture. Dust releasing earth scent as water touches ground. Palace water collection systems automatically activating to capture every drop. Wind stirring banners and loose cloth."
+    background: "Dark storm clouds transforming familiar desert sky"
+    atmosphere: "Austere grandeur adapted to harsh desert environment, shadows providing relief from heat"
+  composition:
+    cameraAngle: "Low angle capturing figure against dramatic storm sky"
+    focus: "Figure reaching toward sky with rain beginning to fall"
+    depth: "Darkening stone surfaces in foreground, figure in middle ground, storm clouds filling background"

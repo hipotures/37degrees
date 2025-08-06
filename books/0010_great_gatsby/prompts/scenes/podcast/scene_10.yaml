@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Tom and Myrtle - Forbidden Affair"
+  setting:
+    time: "Summer 1922, late afternoon in apartment"
+    location: "Small apartment on 158th Street, Washington Heights, Manhattan"
+    weather: "Hot summer day with stuffy indoor air"
+  characters:
+    - appearance: "Man, early 30s, dark hair parted severely, broad muscular build, square jaw, arrogant expression, imposing height"
+      clothing: "Navy blue three-piece suit with gold watch chain, white shirt with stiff collar, burgundy tie, black Oxford shoes"
+      position: "Aggressive stance with feet wide apart, chest thrust forward, hands on hips"
+      action: "Standing dominantly in center of room, gesturing possessively toward Myrtle, cigar in one hand"
+    - appearance: "Woman, mid-30s, dark curly hair, full figured build, heavily made-up face, red lipstick, sensuous expression"
+      clothing: "Cream-colored chiffon dress with brown sash, costume jewelry necklace, brown heeled shoes, excessive rouge"
+      position: "Provocative pose with hip thrust out, one hand on hip, head tilted back"
+      action: "Reclining on oversized sofa, reaching toward Tom with theatrical gesture, wine glass in other hand"
+  scene:
+    mainElements: "Overcrowded furniture too large for rooms, tapestried furniture, photograph of elderly woman on wall, smoking stand, puppy in basket"
+    details: "Pretentious lower-middle-class striving, cramped excess, tawdry affair setting. Overstuffed Victorian sofa covered in burgundy tapestry dominating tiny living room, coffee table with curved legs holding cigarettes and glasses, ornate smoking stand with multiple ashtrays, small terrier puppy in wicker basket by window, photograph of stern elderly woman in heavy frame on mantelpiece, lace curtains yellowed from city soot, Persian rug too large for space creating wrinkles. Everything expensive but crowded together showing aspiration beyond means. No text or letters visible."
+    background: "Urban apartment building visible through windows, Manhattan street noise filtering in, other tenements across narrow street"
+    atmosphere: "Suffocating pretension and desperate social climbing, illicit passion mixed with vulgarity, Tom's power over working-class Myrtle clearly displayed"
+  composition:
+    cameraAngle: "Medium shot capturing the cramped intimacy and power dynamics of the illicit relationship"
+    focus: "The contrast between Tom's confident dominance and Myrtle's desperate aspiration in their secret world"
+    depth: "Foreground shows overcrowded furniture and decorative objects, middle ground captures Tom and Myrtle's interaction, background reveals urban apartment setting through windows"

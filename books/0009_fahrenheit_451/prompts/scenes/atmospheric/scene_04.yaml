@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Mechanical Breakfast Preparation"
+  setting:
+    time: "2053, morning activity beginning, fog lifting from streets"
+    location: "Municipal fire station in dystopian American city, converted for book-burning operations"
+    weather: "Morning fog clearing, soft light filtering through high windows"
+  characters:
+    - appearance: "Man, 40s, commanding presence, intelligent but cynical eyes, well-built, authoritative bearing"
+      clothing: "Fire chief uniform with more elaborate insignia, clean and pressed, leadership badges"
+      position: "Standing with authority, behind desk, or addressing others"
+      action: "Speaking with intensity, demonstrating authority, or manipulating situations"
+  scene:
+    mainElements: "Salamander fire trucks, kerosene tanks, burning equipment, firemen's quarters"
+    details: "Steam rising from coffee urns and heating equipment, mechanical sounds of trucks being prepared, shadows shortening as sun climbs, brass fixtures gleaming in morning light, equipment being methodically arranged, no text or letters visible"
+    background: "Red fire engines, brass poles, lockers, maps of city districts"
+    atmosphere: "Mechanical efficiency, institutional coldness, purposeful destruction, morning routine of organized oppression"
+  composition:
+    cameraAngle: "Medium shot from within station, showing industrial scale"
+    focus: "Authoritative figure overseeing mechanical morning preparations"
+    depth: "Foreground: burning equipment and tools, middle ground: uniformed figure, background: massive fire trucks and institutional architecture"

@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: Dawn, 1710, after violent shipwreck
+    location: Unknown land possibly near Australia or Madagascar, isolated from human civilization
+    weather: Clear morning after storm, with calm seas and gentle breeze
+  characters:
+  - appearance: Man, early 40s, brown hair disheveled and salt-crusted, exhausted face with stubble, lean build, sunburned
+      skin
+    clothing: Torn white linen shirt clinging wet, damaged brown breeches, barefoot, remnants of blue coat
+    position: Collapsed on beach, sprawled on sand, one arm reaching forward
+    action: Struggling ashore after shipwreck, exhausted but alive, beginning to survey this completely unknown land with
+      no sign of human civilization
+  scene:
+    mainElements: Pristine beach of unknown land with wreckage washing ashore, rolling meadows with neat hedgerows visible
+      inland
+    details: Broken mast pieces, torn sails, floating barrels, splintered planks, rope tangles washing ashore from destroyed
+      ship, sand showing drag marks where Gulliver crawled to safety, footprints of unknown animals in sand near water's edge,
+      clean streams visible running toward ocean, perfectly maintained orchards in distance suggesting intelligent cultivation,
+      complete absence of human architecture or any signs of human habitation, no text or letters visible
+    background: Rolling pastoral landscape with mathematical precision, clean streams and organized vegetation suggesting
+      rational inhabitants
+    atmosphere: Relief at survival mixed with uncertainty about this strange land, sense of arriving somewhere completely
+      outside human experience, pristine natural order
+  composition:
+    cameraAngle: Wide establishing shot showing shipwreck survivor on pristine beach with organized landscape beyond
+    focus: Gulliver's exhausted arrival contrasted with the perfect order of the unknown land
+    depth: 'Foreground: shipwreck debris and exhausted Gulliver, middle: beach and immediate shoreline, background: orderly
+      countryside of Houyhnhnm land'
+visualElements:
+  colorPalette:
+    primary:
+    - warm oranges
+    - sky blues
+    - sunset reds
+    - palm greens
+    secondary:
+    - sand beige
+    - ocean turquoise
+    - golden yellow
+    background: gradient skies, solid color blocks
+    usageNotes: Limited palette, 3-5 colors maximum, screen-printed look
+    saturation: high
+    contrast: strong
+  lineArt:
+    style: clean, simplified
+    weight: bold, uniform
+    color: darker shade of base colors
+    texture: smooth, graphic
+    edgeTreatment: crisp, stylized
+  lighting:
+    type: idealized, perpetual golden hour
+    direction: dramatic side or back lighting
+    intensity: warm, inviting
+    shadows:
+      style: simplified, graphic
+      color: darker tone of base color
+      opacity: solid color blocks
+    highlights: bright, optimistic
+  rendering:
+    technique: flat color with minimal gradients
+    texture: slight paper texture
+    detailLevel: simplified, iconic elements only
+    finish: lithograph or screen print appearance
+  perspective: dramatic angles, heroic viewpoints
+  mood:
+    overall: adventurous, romantic, optimistic
+    emotion: wanderlust, excitement, nostalgia
+    tempo: dynamic yet timeless
+    keywords:
+    - adventurous
+    - romantic
+    - exotic
+    - inviting
+    - nostalgic
+  stylePrecedents:
+  - Roger Broders
+  - David Klein
+  - Art Deco posters
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

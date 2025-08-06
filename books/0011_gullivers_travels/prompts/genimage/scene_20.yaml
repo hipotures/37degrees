@@ -1,0 +1,96 @@
+sceneDescription:
+  setting:
+    time: Morning, 1710, first day in Houyhnhnm country
+    location: Rolling meadows with neat hedgerows, clean streams, simple but elegant stables
+    weather: Perfect mild morning with clear sky and gentle breeze
+  characters:
+  - appearance: Man, early 40s, brown hair tied back in queue, weathered face from sea voyages, average height, lean build
+      from travels
+    clothing: Dark blue wool coat with brass buttons, white linen shirt with ruffled collar, brown leather breeches, black
+      buckled shoes, tricorn hat
+    position: Standing upright with observant stance, hands clasped behind back, alert expression
+    action: Staring in amazement at intelligent horses while recoiling in disgust from savage human-like creatures, struggling
+      to understand reversed natural order
+  - appearance: Dapple-gray horse with intelligent eyes, noble bearing, well-groomed coat, graceful proportions
+    clothing: None - natural horse form
+    position: Standing with dignity, head held high, one hoof slightly raised in thoughtful pose
+    action: Observing strange visitor with calm rational assessment, communicating with other horses in their language, showing
+      perfect self-control
+  - appearance: Humanoid creature with wild matted hair covering body, savage expression, human features but bestial behavior,
+      filthy appearance
+    clothing: None - covered only in own matted hair and dirt
+    position: Crouched on all fours, aggressive stance, bared teeth, ready to flee or attack
+    action: Snarling and threatening Gulliver while being controlled by rational horses, displaying base animal behavior despite
+      human form
+  scene:
+    mainElements: Pastoral meadow scene with noble horses maintaining order while savage Yahoos represent chaos
+    details: Simple wooden trough with oats, fresh hay in neat pile, clear water in stone basin, milk in wooden pail showing
+      Houyhnhnm lifestyle, Yahoo creatures cowering and aggressive in presence of horse masters, contrast between rational
+      equine dignity and irrational human savagery, Gulliver's shock at seeing creatures identical to humans behaving like
+      beasts, mathematical order of landscape maintained by horse intelligence, no text or letters visible
+    background: Perfectly maintained countryside with organized pastures, streams, and simple functional architecture designed
+      by rational beings
+    atmosphere: World-inverting shock at discovering horses as rational beings and humans as savage animals, philosophical
+      crisis beginning in Gulliver's mind
+  composition:
+    cameraAngle: Wide shot showing the three-way encounter between Gulliver, noble Houyhnhnms, and savage Yahoos
+    focus: Contrast between dignified horse, horrifying Yahoo, and confused Gulliver caught between rational and irrational
+    depth: 'Foreground: Yahoo creature in threatening pose, middle: Gulliver''s confused reaction, background: noble Houyhnhnms
+      and pastoral order'
+visualElements:
+  colorPalette:
+    primary:
+    - warm oranges
+    - sky blues
+    - sunset reds
+    - palm greens
+    secondary:
+    - sand beige
+    - ocean turquoise
+    - golden yellow
+    background: gradient skies, solid color blocks
+    usageNotes: Limited palette, 3-5 colors maximum, screen-printed look
+    saturation: high
+    contrast: strong
+  lineArt:
+    style: clean, simplified
+    weight: bold, uniform
+    color: darker shade of base colors
+    texture: smooth, graphic
+    edgeTreatment: crisp, stylized
+  lighting:
+    type: idealized, perpetual golden hour
+    direction: dramatic side or back lighting
+    intensity: warm, inviting
+    shadows:
+      style: simplified, graphic
+      color: darker tone of base color
+      opacity: solid color blocks
+    highlights: bright, optimistic
+  rendering:
+    technique: flat color with minimal gradients
+    texture: slight paper texture
+    detailLevel: simplified, iconic elements only
+    finish: lithograph or screen print appearance
+  perspective: dramatic angles, heroic viewpoints
+  mood:
+    overall: adventurous, romantic, optimistic
+    emotion: wanderlust, excitement, nostalgia
+    tempo: dynamic yet timeless
+    keywords:
+    - adventurous
+    - romantic
+    - exotic
+    - inviting
+    - nostalgic
+  stylePrecedents:
+  - Roger Broders
+  - David Klein
+  - Art Deco posters
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

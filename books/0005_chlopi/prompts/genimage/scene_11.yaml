@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: Late 1800s Congress Poland, late afternoon in autumn after rain shower, light slanting through clear air
+    location: Cultivated farmlands surrounding Lipce village in Mazovian plains of Congress Poland, open fields stretching
+      to forest edge
+    weather: Clear air after rain, everything washed clean, slanted golden light creating patterns
+  characters:
+  - appearance: Man, late 50s, weathered face with deep lines from decades of sun and wind, gray-streaked brown hair, stocky
+      muscular build, tall stature, calloused hands, penetrating gray eyes
+    clothing: Brown wool vest over white linen shirt, thick leather belt, knee-length breeches, tall leather boots, woolen
+      cap in cold weather
+    position: Walking through wet field checking storm damage
+    action: Examining flattened grain stalks, boots squelching in muddy ground, assessing harvest losses with grim expression
+  scene:
+    mainElements: Divided plots of wheat, rye, and barley fields, wooden plows and farming tools, hay stacks, stone field
+      boundaries, dirt paths between properties
+    details: Slanted afternoon light creating long golden patterns through trees, dust motes dancing in sunbeams after rain,
+      puddles reflecting sky, wet grain stalks gleaming in light, everything appearing more vivid and colorful after washing,
+      rainbow appearing briefly in distant sky, steam beginning to rise from wet earth
+    background: Village rooftops gleaming wet in distance, forest edge sparkling with water drops, church tower standing clear
+      against washed sky
+    atmosphere: Sacred agricultural landscape that defines peasant identity, constantly changing with seasonal work cycles,
+      post-storm clarity and relief, nature's power both destructive and cleansing
+  composition:
+    cameraAngle: Low angle shot emphasizing light patterns through clearing air
+    focus: Beautiful slanted light creating patterns, renewed clarity after storm cleansing
+    depth: Foreground shows wet field with light patterns, middle ground features walking figure, background shows gleaming
+      village and clear sky
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    - paper white
+    - single color ink
+    secondary:
+    - sepia brown
+    - dark red
+    - deep blue
+    background: paper color or simple color
+    usageNotes: Limited colors, usually monochromatic or few colors
+    saturation: medium (ink colors)
+    contrast: very high (carved vs uncarved areas)
+  lineArt:
+    style: bold carved lines following wood grain
+    weight: varies with carving tool, generally bold
+    color: ink color (usually black)
+    texture: rough carved texture, wood grain visible
+    edgeTreatment: rough, hand-carved edges
+  lighting:
+    type: simplified lighting through carved areas
+    direction: basic light indication
+    intensity: high contrast (lit vs shadow areas)
+    shadows:
+      style: solid carved areas (black ink)
+      color: ink color
+      opacity: solid
+    highlights: uncarved areas (paper color)
+  rendering:
+    technique: relief printing from carved wooden block
+    texture: wood grain texture, printing irregularities
+    detailLevel: moderate (limited by carving technique)
+    finish: matte ink on paper
+  perspective: simple, often flattened perspective
+  mood:
+    overall: bold, traditional, handcrafted
+    emotion: strength, tradition, craftsmanship
+    tempo: solid, grounded
+    keywords:
+    - bold
+    - traditional
+    - handcrafted
+    - strong
+    - rustic
+  stylePrecedents:
+  - Japanese ukiyo-e prints
+  - German Expressionist woodcuts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

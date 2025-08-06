@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: Sunset on Arrakis, sky aflame with orange and red colors
+    location: Ancient fortress palace in Arrakeen city on harsh desert world with endless sand dunes, twin suns, and extreme
+      heat, massive stone architecture built for desert climate
+    weather: Clear evening with spectacular sunset colors, gentle cooling breeze
+  characters:
+  - appearance: Man in his 40s, dark hair with gray at temples, strong jaw, weathered face, commanding presence
+    clothing: Atreides ducal uniform in dark colors with house insignia, military-style jacket with ceremonial elements
+    position: Standing on palace balcony overlooking the city
+    action: Observing sunset while contemplating the day's events and challenges ahead
+  scene:
+    mainElements: Towering walls of desert sandstone, carved archways, ceremonial halls with high ceilings, defensive battlements
+    details: Palace windows reflecting the burning orange and red sky like mirrors of fire. Stone walls catching warm glow
+      from sunset. Long shadows from battlements creating dramatic geometric patterns. Carved stone details enhanced by warm
+      light. Balcony providing elevated view over city rooftops. Desert air finally beginning to cool.
+    background: Arrakeen cityscape with burning sunset sky beyond
+    atmosphere: Austere grandeur adapted to harsh desert environment, shadows providing relief from heat
+  composition:
+    cameraAngle: Wide view from palace balcony with sunset sky
+    focus: Silhouetted figure against burning sky with reflective palace architecture
+    depth: Palace balcony details in foreground, standing figure in middle ground, burning sunset filling background
+visualElements:
+  colorPalette:
+    primary:
+    - neon blue
+    - metallic gray
+    - glowing cyan
+    - steel silver
+    secondary:
+    - amber light
+    - deep space black
+    - violet sky
+    background: futuristic skyline or starfield
+    usageNotes: Cool tones dominate with pops of vibrant neon lighting
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: painterly sketches painted over
+    weight: n/a (lines hidden by painting)
+    color: n/a
+    texture: smooth digital, hard edges on tech
+    edgeTreatment: sharp silhouettes, atmospheric fade
+  lighting:
+    type: dramatic cinematic lighting
+    direction: multiple sources (city lights, backlights)
+    intensity: high contrast (bright neon vs deep shadow)
+    shadows:
+      style: long shadows, diffused by haze
+      color: cool blue or purple
+      opacity: deep
+    highlights: lens flares, neon glows on surfaces
+  rendering:
+    technique: digital painting with some photobash
+    texture: smooth with textured brushes for atmosphere
+    detailLevel: high in focal points (tech details), looser elsewhere
+    finish: polished, cinematic look
+  perspective: dynamic perspective (wide-angle vistas or low-angle hero shots)
+  mood:
+    overall: epic, futuristic, adventurous
+    emotion: awe, excitement, curiosity
+    tempo: dynamic, energetic
+    keywords:
+    - futuristic
+    - epic
+    - cinematic
+    - detailed
+    - atmospheric
+  stylePrecedents:
+  - Syd Mead (futurist designer)
+  - Blade Runner concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

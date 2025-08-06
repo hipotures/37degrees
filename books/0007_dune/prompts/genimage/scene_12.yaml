@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Late afternoon on Arrakis, immediately after rare rainstorm passed
+    location: Industrial spice extraction site in desert of harsh world with endless golden dunes and twin blazing suns, heavy
+      machinery operating on spice-rich sand
+    weather: Crystal clear air following storm, every surface gleaming with precious moisture
+  characters:
+  - appearance: Adult Fremen, weather-beaten dark skin, distinctive blue-within-blue eyes from spice exposure, lean muscular
+      build
+    clothing: Desert stillsuit with breathing apparatus, sand-colored robes, utility belt with water and weapons
+    position: Standing beside harvesting equipment examining rain-washed surfaces
+    action: Collecting precious water droplets from machinery while inspecting spice deposits
+  scene:
+    mainElements: Massive harvesting equipment, ornithopter aircraft, spice deposits glowing orange, workers in protective
+      gear
+    details: Every metal and stone surface gleaming with water droplets. Spice deposits appearing more vivid after rain washing.
+      Air crystal clear with unprecedented visibility. Wet sand showing different textures and colors. Equipment surfaces
+      reflecting light from water film. Workers frantically collecting every drop of moisture before evaporation.
+    background: Desert landscape transformed by post-storm clarity and distant rainbow
+    atmosphere: Industrial urgency against natural desert backdrop, constant threat of sandworm attack
+  composition:
+    cameraAngle: Medium view of rain-washed industrial site
+    focus: Figure collecting water from gleaming machinery
+    depth: Water-beaded equipment in foreground, working figure in middle ground, transformed desert in background
+visualElements:
+  colorPalette:
+    primary:
+    - neon blue
+    - metallic gray
+    - glowing cyan
+    - steel silver
+    secondary:
+    - amber light
+    - deep space black
+    - violet sky
+    background: futuristic skyline or starfield
+    usageNotes: Cool tones dominate with pops of vibrant neon lighting
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: painterly sketches painted over
+    weight: n/a (lines hidden by painting)
+    color: n/a
+    texture: smooth digital, hard edges on tech
+    edgeTreatment: sharp silhouettes, atmospheric fade
+  lighting:
+    type: dramatic cinematic lighting
+    direction: multiple sources (city lights, backlights)
+    intensity: high contrast (bright neon vs deep shadow)
+    shadows:
+      style: long shadows, diffused by haze
+      color: cool blue or purple
+      opacity: deep
+    highlights: lens flares, neon glows on surfaces
+  rendering:
+    technique: digital painting with some photobash
+    texture: smooth with textured brushes for atmosphere
+    detailLevel: high in focal points (tech details), looser elsewhere
+    finish: polished, cinematic look
+  perspective: dynamic perspective (wide-angle vistas or low-angle hero shots)
+  mood:
+    overall: epic, futuristic, adventurous
+    emotion: awe, excitement, curiosity
+    tempo: dynamic, energetic
+    keywords:
+    - futuristic
+    - epic
+    - cinematic
+    - detailed
+    - atmospheric
+  stylePrecedents:
+  - Syd Mead (futurist designer)
+  - Blade Runner concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: 2053, morning routines in soft light, shadows shortening as sun climbs
+    location: Small hidden room in American city, elderly professor's modest dwelling
+    weather: Gentle morning light, clear air, peaceful start to day
+  characters:
+  - appearance: Elderly man, 60s, thin build, wire-rimmed glasses, gentle but worried expression, graying hair
+    clothing: Simple civilian clothes, worn cardigan or jacket, modest appearance
+    position: Sitting in small room, hunched over books, or speaking quietly
+    action: Reading, whispering, crafting communication devices, or teaching
+  scene:
+    mainElements: Simple furniture, hidden books, radio equipment, small windows, lived-in academic space
+    details: Soft morning light streaming through sheer curtains, dust motes dancing in sunbeams, steam rising from tea cup,
+      pages of hidden books gently turning, wire and electronic components for secret communication device, reading glasses
+      reflecting light, no text or letters visible
+    background: Modest apartment walls, bookshelves partially concealed, simple domestic items
+    atmosphere: Quiet intellectualism, careful secrecy, gentle morning contemplation, scholarly refuge from oppressive world
+  composition:
+    cameraAngle: Intimate medium shot from across small room
+    focus: Elderly figure in morning light with books and gentle academic activity
+    depth: 'Foreground: tea cup and electronic components, middle ground: reading figure, background: window with morning
+      light and hidden books'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

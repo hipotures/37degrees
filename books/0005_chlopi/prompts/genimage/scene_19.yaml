@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: Late 1800s Congress Poland, deep night in winter, darkness broken by cottage lights
+    location: Polish peasant village in Congress Poland under Russian partition, Mazovian countryside near Skierniewice, late
+      1800s rural settlement with wooden houses and dirt roads
+    weather: Dark winter night with light snow falling, cold and still
+  characters:
+  - appearance: Young woman, early 20s, beautiful with long golden-blonde hair, slender athletic build, average height, bright
+      blue eyes, fair complexion with rosy cheeks
+    clothing: Traditional Polish folk dress with embroidered bodice, white linen blouse with puffy sleeves, long colorful
+      skirt, floral headscarf or flower wreath in hair
+    position: Standing at cottage window looking out into darkness
+    action: Pressing face against cold window glass, breath fogging window, holding oil lamp that illuminates her worried
+      features
+  scene:
+    mainElements: Traditional wooden cottages with thatched roofs, central village square with well, small wooden church with
+      bell tower, unpaved dirt roads, wooden fences separating properties
+    details: Scattered cottage windows glowing like beacons in vast darkness, light from oil lamps creating warm yellow rectangles
+      against black night, snow falling gently past lit windows, shadows within shadows creating mysterious depths, church
+      tower barely visible as dark mass against stars, sleeping world broken only by occasional light
+    background: Complete darkness beyond village lights, forest invisible in night, vast sky with stars barely visible through
+      light snow
+    atmosphere: Intimate rural community where everyone knows each other's business, governed by seasonal agricultural rhythms
+      and Catholic traditions, night isolation and vulnerability, precious light as protection against darkness and unknown
+      dangers
+  composition:
+    cameraAngle: Interior shot looking out window with character's reflection in glass
+    focus: Contrast between warm interior light and vast exterior darkness, window as barrier and connection to night world
+    depth: Foreground shows interior cottage details, middle ground features character at lamp-lit window, background shows
+      darkness punctuated by distant cottage lights
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    - paper white
+    - single color ink
+    secondary:
+    - sepia brown
+    - dark red
+    - deep blue
+    background: paper color or simple color
+    usageNotes: Limited colors, usually monochromatic or few colors
+    saturation: medium (ink colors)
+    contrast: very high (carved vs uncarved areas)
+  lineArt:
+    style: bold carved lines following wood grain
+    weight: varies with carving tool, generally bold
+    color: ink color (usually black)
+    texture: rough carved texture, wood grain visible
+    edgeTreatment: rough, hand-carved edges
+  lighting:
+    type: simplified lighting through carved areas
+    direction: basic light indication
+    intensity: high contrast (lit vs shadow areas)
+    shadows:
+      style: solid carved areas (black ink)
+      color: ink color
+      opacity: solid
+    highlights: uncarved areas (paper color)
+  rendering:
+    technique: relief printing from carved wooden block
+    texture: wood grain texture, printing irregularities
+    detailLevel: moderate (limited by carving technique)
+    finish: matte ink on paper
+  perspective: simple, often flattened perspective
+  mood:
+    overall: bold, traditional, handcrafted
+    emotion: strength, tradition, craftsmanship
+    tempo: solid, grounded
+    keywords:
+    - bold
+    - traditional
+    - handcrafted
+    - strong
+    - rustic
+  stylePrecedents:
+  - Japanese ukiyo-e prints
+  - German Expressionist woodcuts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

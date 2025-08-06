@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Seeking Shade from Burning Truth"
+  setting:
+    time: "2053, noon heat exhaustion, seeking shade under trees"
+    location: "Remains of public library in American city, partially burned or abandoned"
+    weather: "Scorching heat, harsh sunlight, squinting against brightness"
+  characters:
+    - appearance: "Man, early 30s, dark hair, athletic build, strong jawline, expressive eyes showing internal conflict"
+      clothing: "Black fireman's uniform with brass buttons and badges, heavy boots, salamander emblem on chest"
+      position: "Standing or walking with purpose, carrying equipment or books"
+      action: "Moving with determination, examining objects, or in contemplative pose"
+  scene:
+    mainElements: "Empty bookshelves, scattered pages, damaged architecture, remnants of knowledge"
+    details: "Harsh noon sun creating stark shadows from damaged architectural elements, figure seeking shade beneath remaining structural overhangs, scattered book pages bleached white by intense light, brass uniform buttons reflecting harsh sunlight, dust and ash particles visible in bright sunbeams, no text or letters visible"
+    background: "Broken windows, damaged walls, ash residue, abandoned reading tables"
+    atmosphere: "Melancholic, haunting, representing lost civilization and destroyed knowledge, oppressive heat amplifying sense of destruction"
+  composition:
+    cameraAngle: "Medium shot from within shaded area, contrasting light and shadow"
+    focus: "Uniformed figure examining ruins in harsh midday conditions"
+    depth: "Foreground: scattered debris in shadow, middle ground: figure in partial shade, background: sun-bleached ruins and empty sky"

@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Summer 1922, late night
+    location: Gardens of Gatsby mansion, West Egg, Long Island, overlooking East Egg across the bay
+    weather: Still summer night with oppressive humidity and distant thunder
+  characters:
+  - appearance: Man, early 30s, dark brown hair slicked back, tall athletic build, clean-shaven, tanned skin, bright confident
+      smile
+    clothing: Pink suit with white shirt and silver tie, gold cufflinks, white Oxford shoes, gold pocket watch chain visible
+    position: Standing straight with perfect posture, one hand in pocket, other gesturing elegantly
+    action: Standing motionless in shadows of garden, staring across dark water toward distant lights, jacket draped over
+      arm
+  scene:
+    mainElements: Manicured gardens with fountains, marble columns, view across Manhasset Bay to East Egg mansions
+    details: Lonely vigil in opulent garden setting, man keeping protective watch over distant love, ornamental fountains
+      silent in night air, marble statuary casting long shadows under moonlight, rose bushes heavy with summer blooms releasing
+      night fragrance. Distant lights from East Egg mansions twinkling across dark water like fallen stars. Sense of wealth
+      rendered meaningless by emotional distance. No text or letters visible.
+    background: Georgian Colonial mansion across bay with warm lights in windows, other East Egg estates dotting distant shoreline,
+      dark water of Manhasset Bay reflecting moonlight
+    atmosphere: Romantic devotion mixed with growing dread, protective love turned into helpless watching, wealth unable to
+      bridge emotional distance
+  composition:
+    cameraAngle: Wide shot capturing the man's isolation against grand estate backdrop
+    focus: The solitary figure maintaining his vigil across the water
+    depth: Foreground shows ornamental garden elements, middle ground captures watching figure, background reveals distant
+      lights across dark bay waters
+visualElements:
+  colorPalette:
+    primary:
+    - gold metallic
+    - black
+    - cream white
+    secondary:
+    - silver chrome
+    - deep red
+    - royal blue
+    background: elegant geometric patterns or luxury settings
+    usageNotes: Rich, luxurious colors with metallic accents
+    saturation: high (rich, elegant colors)
+    contrast: high (dramatic black and gold contrasts)
+  lineArt:
+    style: geometric, symmetrical patterns
+    weight: bold, confident lines
+    color: metallic gold or silver outlines
+    texture: smooth, polished surfaces
+    edgeTreatment: sharp, precise geometric edges
+  lighting:
+    type: dramatic, luxury lighting
+    direction: theatrical lighting emphasizing geometry
+    intensity: bright, glamorous
+    shadows:
+      style: geometric, stylized shadows
+      color: rich dark colors
+      opacity: solid, dramatic
+    highlights: brilliant metallic reflections
+  rendering:
+    technique: precise geometric illustration
+    texture: polished metals, smooth surfaces, luxury materials
+    detailLevel: high (intricate geometric patterns)
+    finish: highly polished, reflective
+  perspective: symmetrical, balanced compositions
+  mood:
+    overall: luxurious, elegant, sophisticated
+    emotion: glamour, sophistication, modern elegance
+    tempo: stately, confident
+    keywords:
+    - luxurious
+    - elegant
+    - sophisticated
+    - glamorous
+    - geometric
+  stylePrecedents:
+  - Chrysler Building architecture
+  - 1920s luxury poster design
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

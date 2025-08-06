@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Post-storm morning on Arrakis, clear air following extreme weather
+    location: Vast desert landscape on harsh desert world with endless golden sand dunes, twin blazing suns, extreme heat
+      shimmer, and alien desert beauty
+    weather: Crystal clear air after sandstorm passed, gentle breeze, perfect visibility
+  characters:
+  - appearance: Middle-aged Fremen man, dark weathered skin, piercing blue-within-blue spice-addicted eyes, lean desert-hardened
+      build
+    clothing: Traditional Fremen stillsuit and robes in desert tans and browns, with moisture-conserving gear
+    position: Emerging from shelter to assess post-storm landscape
+    action: Surveying dramatically changed desert terrain after major sandstorm
+  scene:
+    mainElements: Rolling sand dunes, rocky outcroppings, scattered spice deposits creating orange patches, occasional desert
+      plants
+    details: Desert landscape completely transformed by storm passage. Dune formations moved and reshaped by extreme winds.
+      New spice deposits exposed by sand movement. Rock formations scoured clean by sandblasting. Crystal clear air providing
+      unprecedented visibility. Fresh sand patterns creating new textures and shadows.
+    background: Transformed desert with new dune formations under clearing sky
+    atmosphere: Harsh alien beauty with shimmering heat, deadly stillness broken only by wind over sand
+  composition:
+    cameraAngle: Wide view of transformed post-storm desert landscape
+    focus: Figure surveying dramatically changed desert terrain
+    depth: Fresh sand patterns in foreground, observing figure in middle ground, transformed dunes extending to background
+visualElements:
+  colorPalette:
+    primary:
+    - neon blue
+    - metallic gray
+    - glowing cyan
+    - steel silver
+    secondary:
+    - amber light
+    - deep space black
+    - violet sky
+    background: futuristic skyline or starfield
+    usageNotes: Cool tones dominate with pops of vibrant neon lighting
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: painterly sketches painted over
+    weight: n/a (lines hidden by painting)
+    color: n/a
+    texture: smooth digital, hard edges on tech
+    edgeTreatment: sharp silhouettes, atmospheric fade
+  lighting:
+    type: dramatic cinematic lighting
+    direction: multiple sources (city lights, backlights)
+    intensity: high contrast (bright neon vs deep shadow)
+    shadows:
+      style: long shadows, diffused by haze
+      color: cool blue or purple
+      opacity: deep
+    highlights: lens flares, neon glows on surfaces
+  rendering:
+    technique: digital painting with some photobash
+    texture: smooth with textured brushes for atmosphere
+    detailLevel: high in focal points (tech details), looser elsewhere
+    finish: polished, cinematic look
+  perspective: dynamic perspective (wide-angle vistas or low-angle hero shots)
+  mood:
+    overall: epic, futuristic, adventurous
+    emotion: awe, excitement, curiosity
+    tempo: dynamic, energetic
+    keywords:
+    - futuristic
+    - epic
+    - cinematic
+    - detailed
+    - atmospheric
+  stylePrecedents:
+  - Syd Mead (futurist designer)
+  - Blade Runner concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

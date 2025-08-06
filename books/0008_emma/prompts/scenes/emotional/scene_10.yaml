@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Disrupted Patterns and Empty Spaces"
+  setting:
+    time: "Early 1800s England, evening"
+    location: "Large Georgian manor house in Surrey village of Highbury, England, surrounded by extensive landscaped grounds and gardens"
+    weather: "Still evening with heavy clouds"
+  characters:
+    - appearance: "Young woman, early twenties, blonde hair in fashionable Regency curls, bright intelligent eyes, handsome features, tall slender build, confident posture"
+      clothing: "Fine white muslin morning dress with high waist, delicate embroidered shawl, silk slippers, pearl jewelry appropriate to wealthy gentry"
+      position: "Sitting alone at dining table set for two"
+      action: "Staring at empty chair across from her, pushing food around plate without eating"
+  scene:
+    mainElements: "Elegant drawing room with tall windows, fine furniture, portraits on walls, blazing fireplace"
+    details: "Comfortable wealthy domestic sphere, refined genteel English country living, but dining table set with one place setting left untouched, chair pushed back as if someone just left, candles burning lower than usual, evening routine disrupted by absence"
+    background: "Dark windows reflecting flickering candlelight, portraits seeming to observe solitary meal"
+    atmosphere: "Loneliness intruding into previously perfect domestic harmony, established patterns broken, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot across table emphasizing empty space and isolation"
+    focus: "Solitary figure at table with conspicuous empty chair"
+    depth: "Foreground untouched place setting, middle ground isolated diner, background watching portraits"

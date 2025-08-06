@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Fatal Drive - Yellow Car Speeding Through Valley"
+  setting:
+    time: "Summer 1922, late afternoon"
+    location: "Road through Valley of Ashes, Corona, Queens, between Manhattan and Long Island"
+    weather: "Hot and dusty summer afternoon with oppressive heat shimmer"
+  characters:
+    - appearance: "Woman, mid-20s, blonde bobbed hair with finger waves, delicate features, pale skin, red lipstick, slender build"
+      clothing: "White chiffon dress with dropped waist, pearl necklace, white silk gloves, white T-bar shoes, diamond earrings"
+      position: "Behind wheel of speeding car, hands gripping steering wheel tightly"
+      action: "Driving frantically with wild expression, hair whipping in wind, tears streaming down face"
+  scene:
+    mainElements: "1922 yellow Rolls-Royce convertible with green leather seats, chrome details, white-wall tires, luxurious interior"
+    details: "Powerful automobile racing through industrial wasteland at dangerous speed, clouds of gray ash and dust kicked up behind vehicle, chrome bumpers and yellow paint gleaming despite dusty environment, green leather interior contrasting with desolate gray landscape, car's luxury grotesquely out of place in poverty-stricken area. Speed creating blur of motion as vehicle cuts through oppressive heat haze. No text or letters visible."
+    background: "Gray ash heaps, industrial smokestacks, weathered buildings of Valley of Ashes stretching endlessly, heat shimmer distorting distant view"
+    atmosphere: "Desperate flight and impending doom, speed masking emotional breakdown, luxury vehicle cutting through landscape of despair and moral decay"
+  composition:
+    cameraAngle: "Low angle tracking shot emphasizing the car's speed and power"
+    focus: "The yellow Rolls-Royce racing through the wasteland as symbol of reckless wealth"
+    depth: "Foreground shows road dust and debris, middle ground captures speeding car, background reveals the endless desolation of industrial wasteland"

@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: Late 1800s Congress Poland, golden hour in late summer, warm light bathing everything
+    location: Cultivated farmlands surrounding Lipce village in Mazovian plains of Congress Poland, open fields stretching
+      to forest edge
+    weather: Perfect clear evening with warm golden light, gentle breeze stirring grain
+  characters:
+  - appearance: Young woman, early 20s, beautiful with long golden-blonde hair, slender athletic build, average height, bright
+      blue eyes, fair complexion with rosy cheeks
+    clothing: Traditional Polish folk dress with embroidered bodice, white linen blouse with puffy sleeves, long colorful
+      skirt, floral headscarf or flower wreath in hair
+    position: Walking along field edge carrying wildflower bouquet
+    action: Moving gracefully through golden light, hair catching sunset glow, pausing to look back toward village with peaceful
+      expression
+  scene:
+    mainElements: Divided plots of wheat, rye, and barley fields, wooden plows and farming tools, hay stacks, stone field
+      boundaries, dirt paths between properties
+    details: Everything bathed in warm golden light, grain stalks appearing to glow from within, long shadows creating dramatic
+      patterns across fields, wooden fence posts casting precise shadow lines, wildflowers along paths appearing jewel-like
+      in light, hay stacks glowing like golden monuments, dust particles dancing in slanted sunbeams
+    background: Village cottages with windows reflecting golden fire, church tower silhouetted against burning sky, forest
+      edge dark against brilliant sunset
+    atmosphere: Sacred agricultural landscape that defines peasant identity, constantly changing with seasonal work cycles,
+      magical hour when ordinary landscape becomes transcendent, peace and beauty before night's approach
+  composition:
+    cameraAngle: Medium shot with golden light creating natural rim lighting around figure
+    focus: Golden light transforming ordinary rural scene into magical landscape, figure as graceful element in harmony with
+      nature
+    depth: Foreground shows golden grain field, middle ground features walking figure catching light, background shows village
+      silhouetted against sunset
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    - paper white
+    - single color ink
+    secondary:
+    - sepia brown
+    - dark red
+    - deep blue
+    background: paper color or simple color
+    usageNotes: Limited colors, usually monochromatic or few colors
+    saturation: medium (ink colors)
+    contrast: very high (carved vs uncarved areas)
+  lineArt:
+    style: bold carved lines following wood grain
+    weight: varies with carving tool, generally bold
+    color: ink color (usually black)
+    texture: rough carved texture, wood grain visible
+    edgeTreatment: rough, hand-carved edges
+  lighting:
+    type: simplified lighting through carved areas
+    direction: basic light indication
+    intensity: high contrast (lit vs shadow areas)
+    shadows:
+      style: solid carved areas (black ink)
+      color: ink color
+      opacity: solid
+    highlights: uncarved areas (paper color)
+  rendering:
+    technique: relief printing from carved wooden block
+    texture: wood grain texture, printing irregularities
+    detailLevel: moderate (limited by carving technique)
+    finish: matte ink on paper
+  perspective: simple, often flattened perspective
+  mood:
+    overall: bold, traditional, handcrafted
+    emotion: strength, tradition, craftsmanship
+    tempo: solid, grounded
+    keywords:
+    - bold
+    - traditional
+    - handcrafted
+    - strong
+    - rustic
+  stylePrecedents:
+  - Japanese ukiyo-e prints
+  - German Expressionist woodcuts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

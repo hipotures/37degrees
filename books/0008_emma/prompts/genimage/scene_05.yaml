@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Early 1800s England, evening
+    location: Large Georgian manor house in Surrey village of Highbury, England, surrounded by extensive landscaped grounds
+      and gardens
+    weather: Peaceful evening with gentle breeze through open windows
+  characters:
+  - appearance: Young woman, early twenties, blonde hair in fashionable Regency curls, bright intelligent eyes, handsome features,
+      tall slender build, confident posture
+    clothing: Fine white muslin morning dress with high waist, delicate embroidered shawl, silk slippers, pearl jewelry appropriate
+      to wealthy gentry
+    position: Seated at piano bench with perfect posture, hands poised over keys
+    action: Playing complex musical piece with skill and obvious pleasure, face reflecting concentration and joy
+  scene:
+    mainElements: Elegant drawing room with tall windows, fine furniture, portraits on walls, blazing fireplace
+    details: Elegant Regency-era piano in polished wood case with brass fittings, sheet music scattered on stand, comfortable
+      wealthy domestic sphere, refined genteel English country living, candles on piano providing warm light, flowers arranged
+      nearby, evening air carrying music through open windows
+    background: Appreciative listeners seated in comfortable chairs, garden visible through windows
+    atmosphere: Musical excellence and cultured refinement, talents displayed in perfect domestic setting, no text or letters
+      visible
+  composition:
+    cameraAngle: Side angle showing pianist and instrument in elegant room
+    focus: Hands moving gracefully over keys, expression of artistic fulfillment
+    depth: Foreground piano details, middle ground performer, background appreciative audience and garden
+visualElements:
+  colorPalette:
+    primary:
+    - pale pink
+    - powder blue
+    - cream white
+    secondary:
+    - gold leaf
+    - soft lavender
+    - mint green
+    background: elegant interior settings or pastoral landscapes
+    usageNotes: Soft, refined pastel colors with gold accents
+    saturation: low to medium (delicate, refined)
+    contrast: low (soft, harmonious)
+  lineArt:
+    style: delicate, flowing curves
+    weight: light, graceful lines
+    color: soft, subtle outlines
+    texture: smooth, refined finish
+    edgeTreatment: soft, curved edges
+  lighting:
+    type: soft, diffused lighting
+    direction: gentle, flattering illumination
+    intensity: soft, never harsh
+    shadows:
+      style: soft, delicate shadows
+      color: light grays and pastels
+      opacity: very light
+    highlights: gentle, pearlescent highlights
+  rendering:
+    technique: smooth oil painting with fine detail
+    texture: silk, porcelain, delicate fabrics
+    detailLevel: high (ornate decorative details)
+    finish: smooth, polished finish
+  perspective: intimate, human scale
+  mood:
+    overall: elegant, refined, leisurely
+    emotion: pleasure, refinement, grace
+    tempo: leisurely, graceful
+    keywords:
+    - elegant
+    - refined
+    - graceful
+    - delicate
+    - aristocratic
+  stylePrecedents:
+  - Antoine Watteau paintings
+  - Fragonard romantic scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

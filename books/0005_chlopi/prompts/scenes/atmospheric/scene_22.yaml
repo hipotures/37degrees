@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Torrential Rain Soaking Village"
+  setting:
+    time: "Late 1800s Congress Poland, afternoon in late spring, severe thunderstorm"
+    location: "Polish peasant village in Congress Poland under Russian partition, Mazovian countryside near Skierniewice, late 1800s rural settlement with wooden houses and dirt roads"
+    weather: "Torrential rain falling in sheets, severe spring thunderstorm, wind driving rain horizontally"
+  characters:
+    - appearance: "Woman, late 40s, graying brown hair, stocky build, short stature, calculating gray eyes, weathered face with permanent worry lines"
+      clothing: "Dark wool dress with worn patches, black headscarf, thick woolen shawl, practical boots, small silver cross necklace"
+      position: "Huddled under cottage eaves seeking shelter"
+      action: "Pressing against cottage wall to avoid rain, shawl soaked and clinging, watching flood water in village roads with alarm"
+  scene:
+    mainElements: "Traditional wooden cottages with thatched roofs, central village square with well, small wooden church with bell tower, unpaved dirt roads, wooden fences separating properties"
+    details: "Torrential rain creating rivers in village streets, water rushing down dirt roads in muddy torrents, cottage roofs streaming with water, gutters overflowing, chickens huddled miserably under any available shelter, rain so heavy it obscures distant buildings, wind driving rain in sheets, wooden structures darkened with water"
+    background: "Church tower barely visible through rain sheets, forest edge completely hidden by storm, sky dark with heavy storm clouds"
+    atmosphere: "Intimate rural community where everyone knows each other's business, governed by seasonal agricultural rhythms and Catholic traditions, nature at its most dramatic and potentially destructive, extreme weather testing village infrastructure and human endurance"
+  composition:
+    cameraAngle: "Dynamic shot showing power of rain and small human shelter"
+    focus: "Torrential rain creating dramatic weather conditions, human figure seeking protection from nature's fury"
+    depth: "Foreground shows rushing water in village street, middle ground features figure huddled under eaves, background shows village buildings obscured by rain"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Shadows Within Shadows at Night"
+  setting:
+    time: "Late night on Arrakis, minimal lighting creating multiple shadow layers"
+    location: "Ancient fortress palace in Arrakeen city on harsh desert world with endless sand dunes, twin suns, and extreme heat, massive stone architecture built for desert climate"
+    weather: "Cool night air with gentle circulation through palace"
+  characters:
+    - appearance: "Extremely obese man in his 60s, bald head, pale skin, small dark eyes, bloated features"
+      clothing: "Rich ornate robes in dark colors, suspensor harness visible underneath clothing"
+      position: "Floating through darkened palace chambers"
+      action: "Moving stealthily through palace using suspensors to avoid detection"
+  scene:
+    mainElements: "Towering walls of desert sandstone, carved archways, ceremonial halls with high ceilings, defensive battlements"
+    details: "Minimal lighting creating layers of shadows within deeper darkness. Architectural details barely visible in dim light. Stone surfaces creating complex shadow patterns. Floating movement creating no sound on stone floors. Deep shadows concealing movement and activity. Night security lighting creating isolated pools of visibility."
+    background: "Dark palace chambers with minimal lighting revealing architectural elements"
+    atmosphere: "Austere grandeur adapted to harsh desert environment, shadows providing relief from heat"
+  composition:
+    cameraAngle: "Low angle view through dark palace chambers"
+    focus: "Floating figure moving through multiple shadow layers"
+    depth: "Complex shadow patterns in foreground, floating figure in middle ground, dark palace depths in background"

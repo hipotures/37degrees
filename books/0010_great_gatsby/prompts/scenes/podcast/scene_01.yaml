@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Gatsby Mansion - Palace of Dreams"
+  setting:
+    time: "Summer 1922, Long Island, late afternoon golden hour"
+    location: "Massive Gothic Revival mansion in West Egg, Long Island, New York, overlooking Manhasset Bay"
+    weather: "Clear summer day with golden sunlight filtering through trees"
+  characters:
+    - appearance: "No people visible in this establishing shot"
+      clothing: ""
+      position: ""
+      action: ""
+  scene:
+    mainElements: "Limestone facade with ivy, marble columns, tower with green light at end of dock, Olympic-sized pool, manicured gardens with fountains"
+    details: "Opulent yet hollow grandeur, new money ostentation, perpetual party readiness. Sprawling mansion with Gothic towers and arched windows, ivy-covered stone walls, terraced gardens with geometric hedges and classical statuary, circular driveway with marble fountain centerpiece, multiple chimneys against summer sky, shadows creating dramatic architectural contrasts. No text or letters visible."
+    background: "Manhasset Bay stretching toward East Egg in the distance, rolling Long Island landscape with mature oak and maple trees"
+    atmosphere: "Magnificent but somehow empty, promising endless possibilities yet hinting at underlying loneliness, golden light creating both warmth and melancholy"
+  composition:
+    cameraAngle: "Wide establishing shot from elevated position showing full mansion and grounds"
+    focus: "The imposing Gothic mansion as centerpiece with its elaborate architecture and manicured surroundings"
+    depth: "Foreground shows circular driveway and fountain, middle ground captures full mansion facade, background reveals bay waters and distant shoreline"

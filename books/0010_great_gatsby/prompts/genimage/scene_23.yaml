@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Late summer 1922, early morning departure
+    location: West Egg train station, Long Island, New York
+    weather: Cool early morning with hint of autumn in air and light fog
+  characters:
+  - appearance: Man, late 20s, brown hair neatly parted, average height, lean build, thoughtful expression, clean-shaven
+    clothing: Conservative gray wool suit, white shirt, dark blue tie, brown leather shoes, simple wristwatch
+    position: Slightly reserved stance, hands clasped in front, observant gaze
+    action: Standing on platform with single suitcase, looking back toward West Egg mansions one final time before boarding
+      train
+  scene:
+    mainElements: 1920s train station with wooden platform, steam locomotive preparing to depart, conductor checking pocket
+      watch
+    details: Moment of departure and moral awakening, man leaving behind world of wealth and corruption, steam rising from
+      locomotive in cool morning air, few other passengers boarding train with their luggage, platform stretching along railroad
+      tracks leading back toward New York City. Sense of moral clarity gained through tragic experience, leaving behind illusions
+      for honest reality. Conductor calling final boarding with hand gesture. No text or letters visible.
+    background: West Egg mansions visible through morning mist in distance, including Gatsby's empty mansion, Long Island
+      estates fading into fog
+    atmosphere: Moral departure and cleansing, leaving corruption behind for honest life, sense of hard-won wisdom and clarity
+  composition:
+    cameraAngle: Medium shot capturing the departure from wealth and corruption
+    focus: The moral journey away from the corrupted American Dream
+    depth: Foreground shows train platform and luggage, middle ground captures departing figure, background reveals fading
+      mansions through morning mist
+visualElements:
+  colorPalette:
+    primary:
+    - gold metallic
+    - black
+    - cream white
+    secondary:
+    - silver chrome
+    - deep red
+    - royal blue
+    background: elegant geometric patterns or luxury settings
+    usageNotes: Rich, luxurious colors with metallic accents
+    saturation: high (rich, elegant colors)
+    contrast: high (dramatic black and gold contrasts)
+  lineArt:
+    style: geometric, symmetrical patterns
+    weight: bold, confident lines
+    color: metallic gold or silver outlines
+    texture: smooth, polished surfaces
+    edgeTreatment: sharp, precise geometric edges
+  lighting:
+    type: dramatic, luxury lighting
+    direction: theatrical lighting emphasizing geometry
+    intensity: bright, glamorous
+    shadows:
+      style: geometric, stylized shadows
+      color: rich dark colors
+      opacity: solid, dramatic
+    highlights: brilliant metallic reflections
+  rendering:
+    technique: precise geometric illustration
+    texture: polished metals, smooth surfaces, luxury materials
+    detailLevel: high (intricate geometric patterns)
+    finish: highly polished, reflective
+  perspective: symmetrical, balanced compositions
+  mood:
+    overall: luxurious, elegant, sophisticated
+    emotion: glamour, sophistication, modern elegance
+    tempo: stately, confident
+    keywords:
+    - luxurious
+    - elegant
+    - sophisticated
+    - glamorous
+    - geometric
+  stylePrecedents:
+  - Chrysler Building architecture
+  - 1920s luxury poster design
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

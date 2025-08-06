@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Hunt - Wilson's Desperate Search"
+  setting:
+    time: "Summer 1922, early morning after tragedy"
+    location: "Gas station and auto repair shops along road from Valley of Ashes toward Long Island"
+    weather: "Gray dawn with oppressive heat already building despite early hour"
+  characters:
+    - appearance: "Man, late 30s, light brown thinning hair, thin build, pale complexion, exhausted expression, stubbled face"
+      clothing: "Worn gray work coveralls with oil stains, dirty white undershirt visible, worn brown work boots"
+      position: "Slumped shoulders, hands hanging limply at sides, defeated stance"
+      action: "Moving frantically from garage to garage, gesturing wildly while speaking to other mechanics, eyes wild with grief and rage"
+  scene:
+    mainElements: "Multiple auto repair shops with gas pumps, scattered tools and car parts, mechanics in work clothes"
+    details: "Desperate man driven by grief seeking information about yellow car, dawn light revealing his haggard appearance and manic determination, other garage workers backing away from his intensity, auto parts and tools scattered around repair bays, smell of gasoline and motor oil heavy in humid morning air. Trail of vengeance beginning in industrial wasteland. Mechanics pointing down road toward Long Island. No text or letters visible."
+    background: "Highway stretching toward Long Island estates, early morning traffic of delivery trucks and commuter vehicles, industrial buildings giving way to suburban areas"
+    atmosphere: "Grief transformed into deadly purpose, working-class man pursuing wealthy elite, sense of inevitable collision between different worlds"
+  composition:
+    cameraAngle: "Medium tracking shot following the desperate search"
+    focus: "The grief-stricken man in his relentless pursuit of answers"
+    depth: "Foreground shows garage equipment and tools, middle ground captures the desperate searcher, background reveals the road leading toward upper-class Long Island"

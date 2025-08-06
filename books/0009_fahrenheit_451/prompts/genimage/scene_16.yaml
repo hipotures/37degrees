@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 2053, early evening, dinner tables lit by candles
+    location: Small hidden room in American city, elderly professor's modest dwelling
+    weather: Clear evening, cozy interior against dark windows
+  characters:
+  - appearance: Elderly man, 60s, thin build, wire-rimmed glasses, gentle but worried expression, graying hair
+    clothing: Simple civilian clothes, worn cardigan or jacket, modest appearance
+    position: Sitting in small room, hunched over books, or speaking quietly
+    action: Reading, whispering, crafting communication devices, or teaching
+  - appearance: Man, early 30s, dark hair, athletic build, strong jawline, expressive eyes showing internal conflict
+    clothing: Black fireman's uniform with brass buttons and badges, heavy boots, salamander emblem on chest
+    position: Standing or walking with purpose, carrying equipment or books
+    action: Moving with determination, examining objects, or in contemplative pose
+  scene:
+    mainElements: Simple furniture, hidden books, radio equipment, small windows, lived-in academic space
+    details: Warm candlelight flickering on faces and hidden books, mix of natural flame light and artificial window glow
+      from outside, intimate conversation setting with simple meal, radio equipment partially visible in shadows, dark windows
+      contrasting with cozy interior warmth, no text or letters visible
+    background: Modest apartment walls, bookshelves partially concealed, simple domestic items
+    atmosphere: Intimate intellectual exchange, careful secrecy, warmth of human connection despite oppressive outside world
+  composition:
+    cameraAngle: Medium shot across table, emphasizing intimate candlelit setting
+    focus: Two figures in candlelit conversation with hidden knowledge visible around them
+    depth: 'Foreground: candlelit table setting, middle ground: conversing figures, background: dark windows and concealed
+      books'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical
