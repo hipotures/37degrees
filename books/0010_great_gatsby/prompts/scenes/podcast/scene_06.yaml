@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Nick Carraway - The Observer"
+  setting:
+    time: "Summer 1922, early evening in study"
+    location: "Modest cottage in West Egg, Long Island, interior study room"
+    weather: "Warm summer evening with windows open to evening breeze"
+  characters:
+    - appearance: "Man, late 20s, brown hair neatly parted, average height, lean build, thoughtful expression, clean-shaven"
+      clothing: "Conservative gray wool suit, white shirt, dark blue tie, brown leather shoes, simple wristwatch"
+      position: "Slightly reserved stance, hands clasped in front, observant gaze"
+      action: "Standing by window looking out at Gatsby's mansion, writing materials visible on desk behind him"
+  scene:
+    mainElements: "Small but comfortable study with writing desk, bookshelves, typewriter, view of Gatsby's mansion through window"
+    details: "Modest middle-class comfort contrasting with neighboring luxury. Simple wooden desk with scattered papers and fountain pen, small typewriter on side table, bookshelf filled with literature and bond trading manuals, reading lamp with green glass shade, comfortable leather armchair by window, plain wallpaper with small pattern, framed photographs on mantel. Through window, glimpse of Gatsby's illuminated mansion towers visible in distance. No text or letters visible."
+    background: "West Egg residential area visible through windows, Gatsby's mansion glowing with lights in evening"
+    atmosphere: "Quiet contemplation and middle-class propriety, sense of being an outsider observing greater wealth and drama, intellectual curiosity mixed with Midwestern reserve"
+  composition:
+    cameraAngle: "Medium shot capturing Nick in his modest study environment"
+    focus: "Nick's thoughtful expression as he observes the world around him, positioned as narrator and witness"
+    depth: "Foreground shows Nick in center of frame, middle ground captures study furnishings, background reveals view through window to Gatsby's distant mansion"

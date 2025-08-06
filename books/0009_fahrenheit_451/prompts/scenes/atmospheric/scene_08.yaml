@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Flat Gray Light Eliminating Shadows"
+  setting:
+    time: "2053, overcast afternoon, flat gray light eliminating shadows"
+    location: "Municipal fire station in dystopian American city, converted for book-burning operations"
+    weather: "Heavy overcast, colors muted but rich, no shadows visible"
+  characters:
+    - appearance: "Man, early 30s, dark hair, athletic build, strong jawline, expressive eyes showing internal conflict"
+      clothing: "Black fireman's uniform with brass buttons and badges, heavy boots, salamander emblem on chest"
+      position: "Standing or walking with purpose, carrying equipment or books"
+      action: "Moving with determination, examining objects, or in contemplative pose"
+  scene:
+    mainElements: "Salamander fire trucks, kerosene tanks, burning equipment, firemen's quarters"
+    details: "Even gray light creating shadowless environment, colors appearing rich and saturated without harsh contrasts, Heavy brass flame-thrower device, connected to fuel tank, designed for burning books and buildings, serpentine hoses being prepared, muted reflections on metal surfaces, no text or letters visible"
+    background: "Red fire engines, brass poles, lockers, maps of city districts"
+    atmosphere: "Mechanical efficiency, institutional coldness, purposeful destruction, preparing for evening operations under gray sky"
+  composition:
+    cameraAngle: "Wide shot from station entrance, showing institutional scale"
+    focus: "Figure preparing equipment in shadowless gray light"
+    depth: "Foreground: kerosene equipment and hoses, middle ground: uniformed figure, background: fire engines under gray sky"

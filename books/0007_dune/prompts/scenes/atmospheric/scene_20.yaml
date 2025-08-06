@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Aurora Lights Over Desert World"
+  setting:
+    time: "Deep night on Arrakis, rare aurora phenomenon illuminating sky"
+    location: "Vast desert landscape on harsh desert world with endless golden sand dunes, twin blazing suns, extreme heat shimmer, and alien desert beauty"
+    weather: "Clear cold night with unusual atmospheric conditions creating aurora"
+  characters:
+    - appearance: "Adult Fremen, weather-beaten dark skin, distinctive blue-within-blue eyes from spice exposure, lean muscular build"
+      clothing: "Desert stillsuit with breathing apparatus, sand-colored robes, utility belt with water and weapons"
+      position: "Standing in desert watching rare aurora display"
+      action: "Observing unusual sky phenomenon while monitoring for potential dangers"
+  scene:
+    mainElements: "Rolling sand dunes, rocky outcroppings, scattered spice deposits creating orange patches, occasional desert plants"
+    details: "Unusual aurora lights dancing across desert sky in green and purple colors. Desert landscape illuminated by shifting colored light from aurora. Sand dunes taking on ethereal colors from sky display. Rare atmospheric phenomenon creating otherworldly beauty. Stars still visible between aurora bands. Desert silence emphasizing the visual spectacle."
+    background: "Dancing aurora lights filling night sky above endless desert"
+    atmosphere: "Harsh alien beauty with shimmering heat, deadly stillness broken only by wind over sand"
+  composition:
+    cameraAngle: "Wide sky view emphasizing aurora display over desert"
+    focus: "Silhouetted figure watching aurora lights dance across sky"
+    depth: "Aurora-lit sand in foreground, standing figure in middle ground, dancing lights filling background sky"

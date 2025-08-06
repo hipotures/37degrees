@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Dew on Church Bell Tower"
+  setting:
+    time: "Late 1800s Congress Poland, early morning in autumn, sun rising with soft light"
+    location: "Small wooden Catholic church in center of Lipce village, Congress Poland, spiritual heart of rural community"
+    weather: "Cool autumn morning with heavy dew, gentle breeze stirring dried leaves"
+  characters:
+    - appearance: "Man, late 20s, dark brown hair, athletic muscular build, tall stature like his father, intense dark eyes, clean-shaven face with strong jawline"
+      clothing: "White linen shirt often partially unbuttoned, dark wool vest, sturdy work trousers, leather boots, rolled sleeves showing strong forearms"
+      position: "Walking past church on village path, carrying wooden tools"
+      action: "Glancing toward church tower while passing, morning breath visible, shoulders set with determination"
+  scene:
+    mainElements: "Traditional wooden architecture with bell tower, simple interior with painted icons, wooden pews, altar with crucifix, small cemetery with wooden crosses"
+    details: "Heavy dew covering spider webs stretched between wooden fence posts around cemetery, church bell silent in tower, morning light catching water droplets on carved wooden crosses, fallen autumn leaves scattered on cemetery path, stone steps to church entrance worn smooth by generations"
+    background: "Village cottages with smoke rising from chimneys, bare autumn trees with remaining golden leaves, dirt roads leading to church square"
+    atmosphere: "Sacred space blending Catholic orthodoxy with local folk traditions, center of community religious life, peaceful morning before Sunday service, spiritual weight of ancestral graves"
+  composition:
+    cameraAngle: "Low angle shot emphasizing church tower reaching toward sky"
+    focus: "Dew-covered spider web in foreground creating natural frame for church architecture, walking figure providing scale"
+    depth: "Foreground shows cemetery with crosses and dew, middle ground features church building with passing figure, background shows village rooftops and autumn trees"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Horror of Immortal Struldbrugs in Luggnagg"
+  setting:
+    time: "Evening, 1706, in the kingdom of Luggnagg"
+    location: "Palace courtyard in Luggnagg where immortal outcasts gather"
+    weather: "Twilight with shadows lengthening, creating gloomy atmosphere"
+  characters:
+    - appearance: "Man, early 40s, brown hair tied back in queue, weathered face from sea voyages, average height, lean build from travels"
+      clothing: "Dark blue wool coat with brass buttons, white linen shirt with ruffled collar, brown leather breeches, black buckled shoes, tricorn hat"
+      position: "Standing upright with observant stance, hands clasped behind back, alert expression"
+      action: "Recoiling in horror at sight of immortal struldbrugs, his initial excitement about eternal life transformed into disgust and pity"
+    - appearance: "Ancient person of indeterminate gender, centuries old, wrinkled beyond description, blind milky eyes, skeletal frame"
+      clothing: "Tattered robes from multiple centuries, layers of decaying fabric, red circular mark on forehead above left eyebrow"
+      position: "Hunched and trembling, supported by gnarled walking stick, mouth moving in endless mumbling"
+      action: "Shuffling aimlessly through courtyard, completely senile and decrepit, ignored by all living people, embodying curse of endless aging"
+  scene:
+    mainElements: "Palace courtyard with several immortal struldbrugs in various states of decay and senility"
+    details: "Red circular marks clearly visible on foreheads above left eyebrows marking the immortals, walking sticks and crutches supporting ancient bodies, layers of clothing from different historical periods showing centuries of wear, food scraps and refuse around feeding area, younger mortals avoiding contact with the cursed immortals, stone benches where struldbrugs sit mumbling incomprehensibly, evening shadows making scene more haunting, complete social isolation of the forever-aging, no text or letters visible"
+    background: "Luggnagg palace architecture with guards and courtiers maintaining distance from immortal area"
+    atmosphere: "Profound horror and revulsion at the reality of endless aging without death, crushing loneliness of immortal outcasts, Swift's warning against seeking unnatural longevity"
+  composition:
+    cameraAngle: "Wide shot showing courtyard with multiple struldbrugs and Gulliver's horrified reaction"
+    focus: "Contrast between Gulliver's healthy mortality and the decrepit immortal struldbrugs"
+    depth: "Foreground: primary struldbrug character, middle: Gulliver's shocked reaction, background: other immortals and palace setting"

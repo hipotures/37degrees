@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Surgeon's Departure from English Port"
+  setting:
+    time: "Early morning, 1699, spring"
+    location: "Bristol harbor in early 18th century England"
+    weather: "Clear morning with gentle wind filling sails"
+  characters:
+    - appearance: "Man, early 40s, brown hair tied back in queue, weathered face from sea voyages, average height, lean build from travels"
+      clothing: "Dark blue wool coat with brass buttons, white linen shirt with ruffled collar, brown leather breeches, black buckled shoes, tricorn hat"
+      position: "Standing at ship's rail, looking back toward harbor"
+      action: "Adjusting brass telescope with leather wrapping, gazing at receding English coastline with mixture of anticipation and melancholy"
+  scene:
+    mainElements: "Wooden sailing ships with masts and rigging, stone quays with warehouses, barrels and cargo, sailors and merchants"
+    details: "Three-masted merchant vessel departing Bristol harbor, crew working rigging and sails, dock workers loading final cargo, families waving farewell from stone pier, seagulls circling overhead, morning sunlight glinting on water and brass fittings, ship's journal secured in leather case nearby, no text or letters visible"
+    background: "English port town rising on hills beyond harbor, other ships at anchor with British flags, busy maritime commerce continuing on distant wharves"
+    atmosphere: "Busy maritime commerce, smell of tar and salt, creaking of ships, calls of dockworkers, sense of adventure beginning and home left behind"
+  composition:
+    cameraAngle: "Three-quarter view from ship's deck, slightly elevated"
+    focus: "Gulliver at ship's rail with telescope, English coastline in distance"
+    depth: "Foreground: ship's deck and rigging, middle: harbor activity, background: English hills and town"

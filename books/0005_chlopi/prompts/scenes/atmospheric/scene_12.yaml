@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Dramatic Clouds After Thunderstorm"
+  setting:
+    time: "Late 1800s Congress Poland, late afternoon after thunderstorm in summer, dramatic sky clearing"
+    location: "Polish peasant village in Congress Poland under Russian partition, Mazovian countryside near Skierniewice, late 1800s rural settlement with wooden houses and dirt roads"
+    weather: "Dramatic clouds breaking apart after storm, patches of brilliant sky appearing, wind still gusting"
+  characters:
+    - appearance: "Woman, mid 20s, plain brown hair pulled back severely, thin build, average height, worried dark eyes, pale complexion, tired expression"
+      clothing: "Simple brown wool dress, worn white apron, dark headscarf covering most of hair, practical leather shoes, minimal jewelry"
+      position: "Standing in cottage doorway surveying storm damage"
+      action: "Holding door frame for support, scanning village for damage, shawl flapping in continuing wind"
+  scene:
+    mainElements: "Traditional wooden cottages with thatched roofs, central village square with well, small wooden church with bell tower, unpaved dirt roads, wooden fences separating properties"
+    details: "Dramatic sky with dark storm clouds breaking apart to reveal brilliant blue patches, shafts of sunlight bursting through gaps, wet thatch gleaming on cottage roofs, puddles reflecting sky drama, fallen branches scattered in roads, children emerging cautiously from cottages, steam rising from wet wooden surfaces"
+    background: "Forest edge with trees still swaying in wind, more cottages with people checking damage, church tower standing resolute against dramatic sky"
+    atmosphere: "Intimate rural community where everyone knows each other's business, governed by seasonal agricultural rhythms and Catholic traditions, post-storm assessment and relief, dramatic sky creating theatrical backdrop for rural concerns"
+  composition:
+    cameraAngle: "Wide shot emphasizing dramatic sky and small human concerns below"
+    focus: "Spectacular sky drama contrasting with humble village life, nature's theater over human worries"
+    depth: "Foreground shows village square with puddles, middle ground features cottage doorway with figure, background shows dramatic clearing sky"

@@ -4,7 +4,6 @@ description: |
   Automates image download process from ChatGPT using MCP playwright-headless.
   Downloads generated images from completed threads and manages file organization.
   Updates TODO tracking system for systematic progress monitoring.
-tools: Edit, Glob, Grep, LS, MultiEdit, Read, Task, TodoWrite, Write, Bash
 ---
 
 # Custom Instruction: Step 4 - AI Image Download from ChatGPT

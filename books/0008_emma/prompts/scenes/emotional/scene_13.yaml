@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Cruel Words in Rain"
+  setting:
+    time: "Early 1800s England, afternoon"
+    location: "Famous Surrey hilltop with panoramic views, popular destination for countryside excursions from London area"
+    weather: "Heavy gray clouds with first drops of rain beginning to fall"
+  characters:
+    - appearance: "Young woman, early twenties, blonde hair in fashionable Regency curls, bright intelligent eyes, handsome features, tall slender build, confident posture"
+      clothing: "Fine white muslin morning dress with high waist, delicate embroidered shawl, silk slippers, pearl jewelry appropriate to wealthy gentry"
+      position: "Standing apart from group, hand raised to mouth in horror"
+      action: "Realizing impact of cruel words just spoken, face showing dawning shame and regret"
+    - appearance: "Middle-aged woman in her fifties, graying hair under plain cap, kind but worn expression, average height, gentle movements"
+      clothing: "Faded but clean dress, darned shawl, practical bonnet, worn but well-maintained shoes"
+      position: "Sitting on ground where she has stumbled, looking up with hurt confusion"
+      action: "Struggling to maintain dignity despite public humiliation, tears threatening to fall"
+  scene:
+    mainElements: "Rolling chalk downs, scattered trees, open grassland, spectacular views across Surrey landscape"
+    details: "Public pleasure ground offering escape from village constraints, but now feeling exposed and harsh, picnic supplies scattered by wind, other party members turning away in embarrassment, landscape seeming to judge human cruelty, rain beginning to darken the chalk paths"
+    background: "Panoramic view of Surrey countryside now gray and forbidding under storm clouds"
+    atmosphere: "Social cruelty exposed in public setting, shame and remorse cutting through pride, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot emphasizing exposure and vulnerability on open hilltop"
+    focus: "Moment of realization and its immediate aftermath, cruelty's impact visible on both figures"
+    depth: "Foreground hurt figure, middle ground horrified speaker, background judgmental landscape"

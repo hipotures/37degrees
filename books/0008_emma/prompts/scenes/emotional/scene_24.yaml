@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Different Light Through Same Windows"
+  setting:
+    time: "Early 1800s England, evening"
+    location: "Large Georgian manor house in Surrey village of Highbury, England, surrounded by extensive landscaped grounds and gardens"
+    weather: "Clear peaceful evening with gentle golden light"
+  characters:
+    - appearance: "Young woman, early twenties, blonde hair in fashionable Regency curls, bright intelligent eyes, handsome features, tall slender build, confident posture"
+      clothing: "Fine white muslin morning dress with high waist, delicate embroidered shawl, silk slippers, pearl jewelry appropriate to wealthy gentry"
+      position: "Seated at same window as before but posture completely different, relaxed and open"
+      action: "Reading letter with gentle smile, occasionally looking up to contemplate garden with new understanding"
+    - appearance: "Elderly gentleman in his sixties, gray hair thinning, anxious worried expression, frail thin build, nervous gestures"
+      clothing: "Dark wool coat, warm waistcoat, white neck cloth, comfortable indoor slippers, often wrapped in shawl"
+      position: "In his familiar chair but appearing more at peace"
+      action: "Dozing contentedly, no longer anxious or agitated, wrapped in warm shawl"
+  scene:
+    mainElements: "Elegant drawing room with tall windows, fine furniture, portraits on walls, blazing fireplace"
+    details: "Comfortable wealthy domestic sphere, refined genteel English country living, evening light warm and welcoming, family portraits seeming benevolent and approving, furniture arranged openly for conversation, atmosphere of peace and understanding"
+    background: "Garden visible through windows showing signs of careful tending and renewal"
+    atmosphere: "Domestic harmony achieved through understanding, beauty revealed through emotional transformation, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from interior showing figure at window with peaceful expression"
+    focus: "Two figures in domestic setting with transformed emotional atmosphere"
+    depth: "Foreground welcoming hearth, middle ground peaceful figures, background garden in evening light"

@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: Early 1800s England, morning
+    location: Large Georgian manor house in Surrey village of Highbury, England, surrounded by extensive landscaped grounds
+      and gardens
+    weather: Gray morning with muted light
+  characters:
+  - appearance: Young woman, early twenties, blonde hair in fashionable Regency curls, bright intelligent eyes, handsome features,
+      tall slender build, confident posture
+    clothing: Fine white muslin morning dress with high waist, delicate embroidered shawl, silk slippers, pearl jewelry appropriate
+      to wealthy gentry
+    position: Seated stiffly in chair, hands clasped tightly in lap
+    action: Listening with forced smile that doesn't reach eyes, jaw slightly clenched
+  - appearance: Young woman, seventeen years old, light brown hair in simple style, sweet innocent expression, petite delicate
+      build, modest demeanor
+    clothing: Simple cotton dress in pale colors, plain white fichu, modest bonnet, practical walking shoes
+    position: Standing at respectful distance, shifting weight nervously
+    action: Speaking earnestly with hesitant gestures, seeking approval but sensing tension
+  scene:
+    mainElements: Elegant drawing room with tall windows, fine furniture, portraits on walls, blazing fireplace
+    details: Comfortable wealthy domestic sphere, refined genteel English country living, but morning light seems harsher
+      somehow, casting sharper shadows, flowers in vases beginning to show first signs of wilting, tea service set but cups
+      remain full and cooling
+    background: Family portraits seeming to watch with judgment, windows showing overcast garden
+    atmosphere: Polite conversation masking underlying strain, perfect manners hiding emotional distance, no text or letters
+      visible
+  composition:
+    cameraAngle: Wide shot capturing spatial relationship and body language between figures
+    focus: Contrast between forced politeness and genuine emotion
+    depth: Foreground untouched tea service, middle ground two figures, background watching portraits
+visualElements:
+  colorPalette:
+    primary:
+    - pale pink
+    - powder blue
+    - cream white
+    secondary:
+    - gold leaf
+    - soft lavender
+    - mint green
+    background: elegant interior settings or pastoral landscapes
+    usageNotes: Soft, refined pastel colors with gold accents
+    saturation: low to medium (delicate, refined)
+    contrast: low (soft, harmonious)
+  lineArt:
+    style: delicate, flowing curves
+    weight: light, graceful lines
+    color: soft, subtle outlines
+    texture: smooth, refined finish
+    edgeTreatment: soft, curved edges
+  lighting:
+    type: soft, diffused lighting
+    direction: gentle, flattering illumination
+    intensity: soft, never harsh
+    shadows:
+      style: soft, delicate shadows
+      color: light grays and pastels
+      opacity: very light
+    highlights: gentle, pearlescent highlights
+  rendering:
+    technique: smooth oil painting with fine detail
+    texture: silk, porcelain, delicate fabrics
+    detailLevel: high (ornate decorative details)
+    finish: smooth, polished finish
+  perspective: intimate, human scale
+  mood:
+    overall: elegant, refined, leisurely
+    emotion: pleasure, refinement, grace
+    tempo: leisurely, graceful
+    keywords:
+    - elegant
+    - refined
+    - graceful
+    - delicate
+    - aristocratic
+  stylePrecedents:
+  - Antoine Watteau paintings
+  - Fragonard romantic scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

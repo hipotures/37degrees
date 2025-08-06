@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Snow Falling in Lamplight"
+  setting:
+    time: "Late 1800s Congress Poland, late night in winter, heavy snow falling"
+    location: "Polish peasant village in Congress Poland under Russian partition, Mazovian countryside near Skierniewice, late 1800s rural settlement with wooden houses and dirt roads"
+    weather: "Heavy snow falling steadily, unusual nocturnal winter storm, cold and silent"
+  characters:
+    - appearance: "Woman, mid 20s, plain brown hair pulled back severely, thin build, average height, worried dark eyes, pale complexion, tired expression"
+      clothing: "Simple brown wool dress, worn white apron, dark headscarf covering most of hair, practical leather shoes, minimal jewelry"
+      position: "Standing in cottage doorway holding oil lamp"
+      action: "Watching snow fall in lamp light, shivering in night cold, lamp creating circle of illuminated snowflakes, concerned expression"
+  scene:
+    mainElements: "Traditional wooden cottages with thatched roofs, central village square with well, small wooden church with bell tower, unpaved dirt roads, wooden fences separating properties"
+    details: "Heavy snow falling creating halos around oil lamp light, snowflakes appearing as white stars in yellow lamp glow, village transforming under white blanket, muffled silence of snowfall, cottage roofs growing heavy with accumulating snow, footprints filling with fresh snow, lamp light creating magical illuminated cone in falling snow"
+    background: "Other cottages barely visible through heavy snowfall, church tower appearing ghostly in blizzard, complete silence except for soft sound of falling snow"
+    atmosphere: "Intimate rural community where everyone knows each other's business, governed by seasonal agricultural rhythms and Catholic traditions, winter storm isolation, nature's power to transform and isolate, peaceful beauty of snowfall contrasting with survival concerns"
+  composition:
+    cameraAngle: "Medium shot emphasizing falling snow illuminated by lamp light"
+    focus: "Magical effect of snowflakes in lamp light creating atmospheric cone of light, figure as witness to nature's winter transformation"
+    depth: "Foreground shows falling snow in lamp light, middle ground features standing figure with lamp, background shows village disappearing in snowfall"

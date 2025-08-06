@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Bleached Colors in Palace Courtyard"
+  setting:
+    time: "High noon on Arrakis, sun directly overhead eliminating all shadows"
+    location: "Ancient fortress palace in Arrakeen city on harsh desert world with endless sand dunes, twin suns, and extreme heat, massive stone architecture built for desert climate"
+    weather: "Scorching clear sky with extreme heat, air shimmering with thermal currents"
+  characters:
+    - appearance: "Extremely obese man in his 60s, bald head, pale skin, small dark eyes, bloated features"
+      clothing: "Rich ornate robes in dark colors, suspensor harness visible underneath clothing"
+      position: "Floating slightly above courtyard stones via suspensor technology"
+      action: "Moving across sun-bleached courtyard while avoiding direct sunlight contact"
+  scene:
+    mainElements: "Towering walls of desert sandstone, carved archways, ceremonial halls with high ceilings, defensive battlements"
+    details: "Courtyard stones bleached almost white by intense midday sun. Colors drained from tapestries and decorative elements. No shadows visible anywhere - sun directly overhead. Stone surfaces radiating heat waves. Any metal too hot to touch. Water features providing only visual coolness, precious and carefully rationed."
+    background: "Palace walls creating harsh vertical lines against blazing sky"
+    atmosphere: "Austere grandeur adapted to harsh desert environment, shadows providing relief from heat"
+  composition:
+    cameraAngle: "High angle looking down into shadowless courtyard"
+    focus: "Floating figure contrasted against bleached stone surfaces"
+    depth: "Heat-radiating courtyard stones in foreground, floating figure in middle ground, stark palace walls in background"

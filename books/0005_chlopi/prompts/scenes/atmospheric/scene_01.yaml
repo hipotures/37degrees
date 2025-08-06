@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Pre-Dawn Vigil in Autumn Fields"
+  setting:
+    time: "Late 1800s Congress Poland, pre-dawn darkness in autumn, last stars fading in deep blue sky"
+    location: "Cultivated farmlands surrounding Lipce village in Mazovian plains of Congress Poland, open fields stretching to forest edge"
+    weather: "Cool autumn morning with light mist rising from valleys, still air with approaching harvest season"
+  characters:
+    - appearance: "Man, late 50s, weathered face with deep lines from decades of sun and wind, gray-streaked brown hair, stocky muscular build, tall stature, calloused hands, penetrating gray eyes"
+      clothing: "Brown wool vest over white linen shirt, thick leather belt, knee-length breeches, tall leather boots, woolen cap in cold weather"
+      position: "Standing alone at edge of his property, silhouetted against horizon"
+      action: "Surveying his fields in contemplative silence, hands clasped behind back, breathing visible in cool air"
+  scene:
+    mainElements: "Divided plots of wheat, rye, and barley fields, wooden plows and farming tools, hay stacks, stone field boundaries, dirt paths between properties"
+    details: "Morning mist drifting across harvested stubble, shadows of farm tools casting long shapes in moonlight, distant forest edge dark against starlit sky, owl calls echoing from church bell tower, dew beginning to form on wooden fence posts, smoke wisps from village chimneys barely visible"
+    background: "Village cottages with warm light glowing through small windows, wooden church bell tower silhouetted against fading stars, forest edge creating dark horizon line"
+    atmosphere: "Sacred agricultural landscape that defines peasant identity, constantly changing with seasonal work cycles, profound stillness before dawn's awakening, anticipation of harvest work to come"
+  composition:
+    cameraAngle: "Wide establishing shot from low angle showing vast fields with figure small against landscape"
+    focus: "Silhouetted farmer contemplating his land ownership and legacy, connection between man and soil"
+    depth: "Foreground shows harvested field stubble, middle ground features standing figure and farm boundaries, background shows village lights and forest horizon"

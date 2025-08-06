@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Early 1800s England, mid-morning
+    location: Small prosperous market village in Surrey, sixteen miles from London, surrounded by farming country
+    weather: Brilliant sunshine breaking through dispersing clouds
+  characters:
+  - appearance: Young woman, early twenties, blonde hair in fashionable Regency curls, bright intelligent eyes, handsome features,
+      tall slender build, confident posture
+    clothing: Fine white muslin morning dress with high waist, delicate embroidered shawl, silk slippers, pearl jewelry appropriate
+      to wealthy gentry
+    position: Standing in village square with arms slightly raised, face turned toward sun
+    action: Laughing with genuine delight at something amusing, whole body expressing sudden joy
+  - appearance: Young man in his early twenties, fashionably styled light brown hair, charming smile, handsome animated features,
+      medium height athletic build
+    clothing: Fashionable London-style tailcoat, colorful waistcoat, perfectly tied cravat, polished boots, stylish accessories
+    position: Standing nearby with animated gestures
+    action: Sharing story with theatrical flair, clearly pleased at creating such mirth
+  scene:
+    mainElements: Village street with shops, parish church, vicarage, modest cottages, Crown Inn
+    details: Close-knit rural community where everyone knows each other's business, golden morning light transforming familiar
+      streets, shopkeepers smiling from doorways, children drawn by sound of laughter, birds singing in cottage gardens, world
+      seeming fresh and full of possibility
+    background: Church spire bright against clearing blue sky, countryside glowing in renewed sunshine
+    atmosphere: Pure spontaneous happiness cutting through previous melancholy, infectious joy spreading, no text or letters
+      visible
+  composition:
+    cameraAngle: Medium shot capturing shared moment of genuine mirth
+    focus: Faces illuminated by laughter and bright morning light
+    depth: Foreground sunlit cobblestones, middle ground laughing figures, background brightening village scene
+visualElements:
+  colorPalette:
+    primary:
+    - pale pink
+    - powder blue
+    - cream white
+    secondary:
+    - gold leaf
+    - soft lavender
+    - mint green
+    background: elegant interior settings or pastoral landscapes
+    usageNotes: Soft, refined pastel colors with gold accents
+    saturation: low to medium (delicate, refined)
+    contrast: low (soft, harmonious)
+  lineArt:
+    style: delicate, flowing curves
+    weight: light, graceful lines
+    color: soft, subtle outlines
+    texture: smooth, refined finish
+    edgeTreatment: soft, curved edges
+  lighting:
+    type: soft, diffused lighting
+    direction: gentle, flattering illumination
+    intensity: soft, never harsh
+    shadows:
+      style: soft, delicate shadows
+      color: light grays and pastels
+      opacity: very light
+    highlights: gentle, pearlescent highlights
+  rendering:
+    technique: smooth oil painting with fine detail
+    texture: silk, porcelain, delicate fabrics
+    detailLevel: high (ornate decorative details)
+    finish: smooth, polished finish
+  perspective: intimate, human scale
+  mood:
+    overall: elegant, refined, leisurely
+    emotion: pleasure, refinement, grace
+    tempo: leisurely, graceful
+    keywords:
+    - elegant
+    - refined
+    - graceful
+    - delicate
+    - aristocratic
+  stylePrecedents:
+  - Antoine Watteau paintings
+  - Fragonard romantic scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Early dawn on Arrakis, first of twin suns rising with deep red light filtering through dust storm aftermath
+    location: Vast desert landscape on harsh desert world with endless golden sand dunes, twin blazing suns, extreme heat
+      shimmer, and alien desert beauty
+    weather: Post-storm atmospheric conditions with red dust particles suspended in air, creating deep crimson lighting
+  characters:
+  - appearance: Young man, 15 years old, dark hair, lean athletic build, intense dark eyes, aristocratic features
+    clothing: Black stillsuit with breathing apparatus, dark desert robes, or formal Atreides ducal uniform with family crest
+    position: Standing on rocky outcropping overlooking vast dune field
+    action: Watching in awe as massive sandworm emerges from crimson-lit sand
+  scene:
+    mainElements: Rolling sand dunes, rocky outcroppings, scattered spice deposits creating orange patches, occasional desert
+      plants
+    details: Massive sandworm breaking through desert surface in deep red dawn light. Creature's segmented body appearing
+      dark against crimson-illuminated sand cascading from its emergence. Mouth opening to reveal concentric rows of crystal
+      teeth catching red light. Sand particles suspended in air from storm aftermath creating blood-red atmosphere. Spice
+      deposits glowing like embers in the red light. Desert transformed into alien crimson world with the ancient creature
+      as centerpiece. Heat shimmer adding ethereal quality to the red-tinted scene.
+    background: Endless dune fields bathed in deep red morning light with dust particles creating atmospheric red haze
+    atmosphere: Harsh alien beauty with shimmering heat, deadly stillness broken only by wind over sand
+  composition:
+    cameraAngle: Wide dramatic view capturing both figure and massive sandworm in crimson landscape
+    focus: Towering sandworm emerging from red-lit sand with small human figure for scale
+    depth: Rocky outcropping with figure in foreground, massive emerging sandworm in middle ground, crimson desert expanse
+      in background
+visualElements:
+  colorPalette:
+    primary:
+    - neon blue
+    - metallic gray
+    - glowing cyan
+    - steel silver
+    secondary:
+    - amber light
+    - deep space black
+    - violet sky
+    background: futuristic skyline or starfield
+    usageNotes: Cool tones dominate with pops of vibrant neon lighting
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: painterly sketches painted over
+    weight: n/a (lines hidden by painting)
+    color: n/a
+    texture: smooth digital, hard edges on tech
+    edgeTreatment: sharp silhouettes, atmospheric fade
+  lighting:
+    type: dramatic cinematic lighting
+    direction: multiple sources (city lights, backlights)
+    intensity: high contrast (bright neon vs deep shadow)
+    shadows:
+      style: long shadows, diffused by haze
+      color: cool blue or purple
+      opacity: deep
+    highlights: lens flares, neon glows on surfaces
+  rendering:
+    technique: digital painting with some photobash
+    texture: smooth with textured brushes for atmosphere
+    detailLevel: high in focal points (tech details), looser elsewhere
+    finish: polished, cinematic look
+  perspective: dynamic perspective (wide-angle vistas or low-angle hero shots)
+  mood:
+    overall: epic, futuristic, adventurous
+    emotion: awe, excitement, curiosity
+    tempo: dynamic, energetic
+    keywords:
+    - futuristic
+    - epic
+    - cinematic
+    - detailed
+    - atmospheric
+  stylePrecedents:
+  - Syd Mead (futurist designer)
+  - Blade Runner concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

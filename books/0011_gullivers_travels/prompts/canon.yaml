@@ -1,0 +1,224 @@
+canon:
+  characters:
+    - id: "lemuel_gulliver"
+      name: "Lemuel Gulliver"
+      description_block: |
+        characters:
+          - appearance: "Man, early 40s, brown hair tied back in queue, weathered face from sea voyages, average height, lean build from travels"
+            clothing: "Dark blue wool coat with brass buttons, white linen shirt with ruffled collar, brown leather breeches, black buckled shoes, tricorn hat"
+            posture: "Standing upright with observant stance, hands clasped behind back, alert expression"
+    
+    - id: "gulliver_shipwrecked"
+      name: "Gulliver Shipwrecked"
+      description_block: |
+        characters:
+          - appearance: "Man, early 40s, brown hair disheveled and salt-crusted, exhausted face with stubble, lean build, sunburned skin"
+            clothing: "Torn white linen shirt clinging wet, damaged brown breeches, barefoot, remnants of blue coat"
+            posture: "Collapsed on beach, sprawled on sand, one arm reaching forward"
+    
+    - id: "lilliputian_emperor"
+      name: "Emperor of Lilliput"
+      description_block: |
+        characters:
+          - appearance: "Tiny man six inches tall, black hair, imperious expression, regal bearing despite miniature size"
+            clothing: "Purple silk robes with gold embroidery, miniature crown with jewels, golden scepter, pointed shoes with curled toes"
+            posture: "Standing with chest puffed out, one hand holding scepter, chin raised commandingly"
+    
+    - id: "lilliputian_soldiers"
+      name: "Lilliputian Soldiers"
+      description_block: |
+        characters:
+          - appearance: "Multiple tiny men six inches tall, various hair colors, determined expressions, miniature military bearing"
+            clothing: "Red wool uniforms with brass buttons, tiny tricorn hats, white breeches, miniature muskets and swords"
+            posture: "Military formation with weapons raised, some aiming tiny bows and arrows"
+    
+    - id: "brobdingnagian_farmer"
+      name: "Brobdingnagian Farmer"
+      description_block: |
+        characters:
+          - appearance: "Giant man 60 feet tall, gray beard, weathered face with kind eyes, massive muscular build from farm work"
+            clothing: "Rough brown wool tunic, leather belt as thick as tree trunk, enormous leather boots, wide-brimmed straw hat"
+            posture: "Bending down curiously, one massive hand extended palm up"
+    
+    - id: "brobdingnagian_king"
+      name: "King of Brobdingnag"
+      description_block: |
+        characters:
+          - appearance: "Giant man 60 feet tall, middle-aged, neat brown beard, intelligent thoughtful expression, imposing regal presence"
+            clothing: "Royal blue velvet robes with ermine trim, massive golden crown, jeweled rings on fingers large as pillars"
+            posture: "Seated on enormous throne, leaning forward attentively, one hand stroking beard thoughtfully"
+    
+    - id: "glumdalclitch"
+      name: "Glumdalclitch"
+      description_block: |
+        characters:
+          - appearance: "Giant girl 40 feet tall, nine years old, blonde braided hair, gentle face with freckles, proportionally child-like build"
+            clothing: "Simple green wool dress with white apron, brown leather shoes, hair ribbons"
+            posture: "Kneeling carefully, hands cupped protectively, tender expression"
+    
+    - id: "laputan_nobleman"
+      name: "Laputan Nobleman"
+      description_block: |
+        characters:
+          - appearance: "Man, 30s, unkempt black hair, distracted expression with eyes looking upward, thin build, pale complexion"
+            clothing: "Silk robes covered in mathematical symbols and musical notes, crooked hat, mismatched shoes"
+            posture: "Head tilted at odd angle, one eye looking up, one looking down, absent-minded stance"
+    
+    - id: "flapper_servant"
+      name: "Flapper Servant"
+      description_block: |
+        characters:
+          - appearance: "Young man, 20s, alert expression, quick movements, average build, attentive eyes"
+            clothing: "Simple gray tunic, leather belt with inflated bladder attached, soft shoes for quiet movement"
+            posture: "Ready stance with bladder raised to gently strike, watching master carefully"
+    
+    - id: "projector_scientist"
+      name: "Academy Projector"
+      description_block: |
+        characters:
+          - appearance: "Man, 50s, wild gray hair, manic expression, thin build, ink-stained hands, eccentric demeanor"
+            clothing: "Stained leather apron over rumpled clothes, protective goggles pushed up on forehead"
+            posture: "Hunched over apparatus, gesturing excitedly, eyes gleaming with impractical enthusiasm"
+    
+    - id: "struldbrug"
+      name: "Struldbrug Immortal"
+      description_block: |
+        characters:
+          - appearance: "Ancient person of indeterminate gender, centuries old, wrinkled beyond description, blind milky eyes, skeletal frame"
+            clothing: "Tattered robes from multiple centuries, layers of decaying fabric, red circular mark on forehead above left eyebrow"
+            posture: "Hunched and trembling, supported by gnarled walking stick, mouth moving in endless mumbling"
+    
+    - id: "houyhnhnm_master"
+      name: "Houyhnhnm Master"
+      description_block: |
+        characters:
+          - appearance: "Dapple-gray horse with intelligent eyes, noble bearing, well-groomed coat, graceful proportions"
+            clothing: "None - natural horse form"
+            posture: "Standing with dignity, head held high, one hoof slightly raised in thoughtful pose"
+    
+    - id: "yahoo_creature"
+      name: "Yahoo"
+      description_block: |
+        characters:
+          - appearance: "Humanoid creature with wild matted hair covering body, savage expression, human features but bestial behavior, filthy appearance"
+            clothing: "None - covered only in own matted hair and dirt"
+            posture: "Crouched on all fours, aggressive stance, bared teeth, ready to flee or attack"
+
+  locations:
+    - id: "lilliput_capital"
+      name: "Lilliput Capital City"
+      description_block: |
+        setting:
+          location: "Miniature city of Mildendo in the empire of Lilliput, on an unknown island in the South Pacific"
+        mainElements: "Tiny buildings no taller than 5 feet, miniature palace with towers, streets like garden paths, city walls the height of hedges, tiny temples and monuments"
+        atmosphere: "Bustling miniature metropolis with thousands of six-inch inhabitants, smoke from tiny chimneys, miniature market squares"
+    
+    - id: "lilliput_beach"
+      name: "Lilliput Beach"
+      description_block: |
+        setting:
+          location: "Sandy beach on the coast of Lilliput island, South Pacific location"
+        mainElements: "White sand beach, gentle waves, scattered driftwood and seaweed, rocky outcroppings, view of ocean horizon"
+        atmosphere: "Peaceful coastal setting with sound of waves, seabirds overhead, warm tropical climate"
+    
+    - id: "brobdingnag_field"
+      name: "Brobdingnagian Corn Field"
+      description_block: |
+        setting:
+          location: "Agricultural field in the kingdom of Brobdingnag, on a peninsula off California coast"
+        mainElements: "Corn stalks 40 feet tall, massive wheat like golden trees, furrows deep as trenches, enormous insects like birds"
+        atmosphere: "Overwhelming scale of familiar farmland, rustling of giant plants in wind, agricultural abundance on massive scale"
+    
+    - id: "brobdingnag_palace"
+      name: "Royal Palace of Brobdingnag"
+      description_block: |
+        setting:
+          location: "Capital city Lorbrulgrud in Brobdingnag, palace complex at city center"
+        mainElements: "Massive throne room with ceiling 200 feet high, enormous windows like cathedral openings, furniture scaled for 60-foot inhabitants, chandeliers like inverted forests"
+        atmosphere: "Majestic grandeur on impossible scale, echoing spaces, light streaming through giant windows"
+    
+    - id: "laputa_island"
+      name: "Flying Island of Laputa"
+      description_block: |
+        setting:
+          location: "Circular flying island four miles in diameter, floating above the continent of Balnibarbi"
+        mainElements: "Adamantine base with magnetic loadstone, astronomical instruments everywhere, buildings with odd angles, no right angles in architecture"
+        atmosphere: "Surreal floating city with distracted inhabitants, constant astronomical observations, disconnected from earth below"
+    
+    - id: "lagado_academy"
+      name: "Grand Academy of Lagado"
+      description_block: |
+        setting:
+          location: "Scientific institution in the ruined city of Lagado, capital of Balnibarbi"
+        mainElements: "Multiple buildings with broken walls, laboratories with bizarre apparatus, cucumber frames for sunbeam extraction, rooms filled with failed experiments"
+        atmosphere: "Chaotic scientific endeavor, smell of chemicals and failure, earnest incompetence, crumbling infrastructure"
+    
+    - id: "houyhnhnm_country"
+      name: "Land of the Houyhnhnms"
+      description_block: |
+        setting:
+          location: "Unknown land possibly near Australia or Madagascar, isolated from human civilization"
+        mainElements: "Rolling meadows with neat hedgerows, clean streams, simple but elegant stables, orchards perfectly maintained, no signs of human architecture"
+        atmosphere: "Pastoral perfection, mathematical order in nature, peaceful rationality, complete absence of conflict or disorder"
+    
+    - id: "yahoo_habitat"
+      name: "Yahoo Territory"
+      description_block: |
+        setting:
+          location: "Wooded areas and caves in Houyhnhnm country, wild regions outside cultivated areas"
+        mainElements: "Crude shelters in trees, muddy hollows, scattered bones and refuse, trampled vegetation, cave entrances"
+        atmosphere: "Savage squalor, bestial disorder, stench and filth, primitive chaos contrasting with Houyhnhnm order"
+    
+    - id: "english_port"
+      name: "English Port"
+      description_block: |
+        setting:
+          location: "Bristol or Portsmouth harbor in early 18th century England"
+        mainElements: "Wooden sailing ships with masts and rigging, stone quays with warehouses, barrels and cargo, sailors and merchants"
+        atmosphere: "Busy maritime commerce, smell of tar and salt, creaking of ships, calls of dockworkers"
+
+  items:
+    - id: "lilliputian_threads"
+      name: "Lilliputian Binding Threads"
+      description_block: |
+        details: "Hundreds of tiny ropes no thicker than thread but numerous enough to bind a man, wrapped around limbs and torso, secured with miniature stakes"
+    
+    - id: "pocket_perspective_glass"
+      name: "Gulliver's Perspective Glass"
+      description_block: |
+        details: "Brass telescope with leather wrapping, extendable sections, glass lenses, carried in leather case with shoulder strap"
+    
+    - id: "brobdingnagian_box"
+      name: "Gulliver's Traveling Box"
+      description_block: |
+        details: "Wooden box twelve feet square with windows, furnished like dollhouse room with tiny bed and chair, handles on top for carrying, air holes"
+    
+    - id: "giant_comb"
+      name: "Brobdingnagian Comb"
+      description_block: |
+        details: "Enormous ivory comb with teeth like fence posts, handle thick as tree branch, impossibly large grooming implement"
+    
+    - id: "loadstone"
+      name: "Laputa's Loadstone"
+      description_block: |
+        details: "Massive magnetic rock at island's center, six yards long, polished surface, mounted in metal frame with controls"
+    
+    - id: "sunbeam_cucumber"
+      name: "Academy Cucumber Apparatus"
+      description_block: |
+        details: "Glass containers with cucumbers, complex tubing and condensers, failed attempt to extract sunbeams, various chemical residues"
+    
+    - id: "ship_wreckage"
+      name: "Shipwreck Debris"
+      description_block: |
+        details: "Broken mast pieces, torn sails, floating barrels, splintered planks, rope tangles washing ashore"
+    
+    - id: "gulliver_journal"
+      name: "Ship's Journal"
+      description_block: |
+        details: "Leather-bound book with weather-stained pages, quill pen and ink pot, navigation charts, sealed with wax"
+    
+    - id: "houyhnhnm_oats"
+      name: "Houyhnhnm Food"
+      description_block: |
+        details: "Simple wooden trough with oats, fresh hay in neat pile, clear water in stone basin, milk in wooden pail"

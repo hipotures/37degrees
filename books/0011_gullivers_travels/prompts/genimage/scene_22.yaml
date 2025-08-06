@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: Afternoon, 1710, during formal council meeting
+    location: Open meadow serving as council grounds in Houyhnhnm country
+    weather: Clear afternoon with serious atmosphere despite pleasant weather
+  characters:
+  - appearance: Man, early 40s, brown hair tied back in queue, weathered face from sea voyages, average height, lean build
+      from travels
+    clothing: Dark blue wool coat with brass buttons, white linen shirt with ruffled collar, brown leather breeches, black
+      buckled shoes, tricorn hat
+    position: Standing upright with observant stance, hands clasped behind back, alert expression
+    action: Listening in growing horror as rational horses calmly decide his fate, realizing he cannot remain in the perfect
+      society he has come to worship
+  - appearance: Dapple-gray horse with intelligent eyes, noble bearing, well-groomed coat, graceful proportions
+    clothing: None - natural horse form
+    position: Standing with dignity, head held high, one hoof slightly raised in thoughtful pose
+    action: Participating in calm rational discussion about necessity of removing the dangerous Yahoo despite his rational
+      mind
+  scene:
+    mainElements: Formal gathering of noble horses in circular formation making collective decision
+    details: Multiple Houyhnhnms arranged in perfect circle for democratic discussion, each horse maintaining dignified bearing
+      while considering practical necessity, Gulliver standing outside circle as subject of discussion, complete absence of
+      emotion or malice in the decision-making process, purely logical assessment of threat posed by Yahoo body regardless
+      of rational mind, meadow setting emphasizing natural order and harmony being maintained, horses' calm determination
+      contrasting with Gulliver's growing desperation, no text or letters visible
+    background: Rolling countryside of perfect rational order that must be protected from Yahoo contamination
+    atmosphere: Crushing logic of perfect rationality applied without mercy, Gulliver's world collapsing as his idealized
+      society rejects him for unchangeable physical nature
+  composition:
+    cameraAngle: Wide shot showing circle of horses with Gulliver isolated outside their formation
+    focus: Contrast between calm rational horses making decision and devastated Gulliver realizing his banishment
+    depth: 'Foreground: Gulliver''s isolated position, middle: council circle of Houyhnhnms, background: the perfect country
+      he must leave'
+visualElements:
+  colorPalette:
+    primary:
+    - warm oranges
+    - sky blues
+    - sunset reds
+    - palm greens
+    secondary:
+    - sand beige
+    - ocean turquoise
+    - golden yellow
+    background: gradient skies, solid color blocks
+    usageNotes: Limited palette, 3-5 colors maximum, screen-printed look
+    saturation: high
+    contrast: strong
+  lineArt:
+    style: clean, simplified
+    weight: bold, uniform
+    color: darker shade of base colors
+    texture: smooth, graphic
+    edgeTreatment: crisp, stylized
+  lighting:
+    type: idealized, perpetual golden hour
+    direction: dramatic side or back lighting
+    intensity: warm, inviting
+    shadows:
+      style: simplified, graphic
+      color: darker tone of base color
+      opacity: solid color blocks
+    highlights: bright, optimistic
+  rendering:
+    technique: flat color with minimal gradients
+    texture: slight paper texture
+    detailLevel: simplified, iconic elements only
+    finish: lithograph or screen print appearance
+  perspective: dramatic angles, heroic viewpoints
+  mood:
+    overall: adventurous, romantic, optimistic
+    emotion: wanderlust, excitement, nostalgia
+    tempo: dynamic yet timeless
+    keywords:
+    - adventurous
+    - romantic
+    - exotic
+    - inviting
+    - nostalgic
+  stylePrecedents:
+  - Roger Broders
+  - David Klein
+  - Art Deco posters
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

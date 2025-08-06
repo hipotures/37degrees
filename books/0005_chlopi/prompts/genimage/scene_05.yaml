@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: Late 1800s Congress Poland, mid-morning in autumn, sun higher with fog dissipating
+    location: Polish peasant village in Congress Poland under Russian partition, Mazovian countryside near Skierniewice, late
+      1800s rural settlement with wooden houses and dirt roads
+    weather: Autumn morning with thick fog lifting gradually, revealing village details as mist clears
+  characters:
+  - appearance: Woman, late 40s, graying brown hair, stocky build, short stature, calculating gray eyes, weathered face with
+      permanent worry lines
+    clothing: Dark wool dress with worn patches, black headscarf, thick woolen shawl, practical boots, small silver cross
+      necklace
+    position: Walking along dirt village road carrying wicker basket
+    action: Moving through lifting fog toward village center, shawl pulled tight against morning chill, scanning neighboring
+      cottages with watchful eyes
+  scene:
+    mainElements: Traditional wooden cottages with thatched roofs, central village square with well, small wooden church with
+      bell tower, unpaved dirt roads, wooden fences separating properties
+    details: Fog gradually lifting to reveal cottage details - carved window frames, stacked firewood, vegetable gardens with
+      late harvest, wooden well in village center becoming visible, church bell tower emerging from mist like ghostly apparition,
+      chickens pecking in cleared yards, cart wheel tracks in muddy road becoming defined
+    background: More cottages emerging from fog, forest edge still shrouded in mist, distant church bell tower becoming clearer
+    atmosphere: Intimate rural community where everyone knows each other's business, governed by seasonal agricultural rhythms
+      and Catholic traditions, mysterious morning transformation as fog reveals familiar yet somehow changed village landscape
+  composition:
+    cameraAngle: Street-level shot following character through lifting fog
+    focus: Fog creating mysterious atmosphere as village emerges gradually from mist, revealing familiar domestic details
+    depth: Foreground shows dirt road and walking figure, middle ground features cottages appearing through fog, background
+      shows church tower and forest edge still partly shrouded
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    - paper white
+    - single color ink
+    secondary:
+    - sepia brown
+    - dark red
+    - deep blue
+    background: paper color or simple color
+    usageNotes: Limited colors, usually monochromatic or few colors
+    saturation: medium (ink colors)
+    contrast: very high (carved vs uncarved areas)
+  lineArt:
+    style: bold carved lines following wood grain
+    weight: varies with carving tool, generally bold
+    color: ink color (usually black)
+    texture: rough carved texture, wood grain visible
+    edgeTreatment: rough, hand-carved edges
+  lighting:
+    type: simplified lighting through carved areas
+    direction: basic light indication
+    intensity: high contrast (lit vs shadow areas)
+    shadows:
+      style: solid carved areas (black ink)
+      color: ink color
+      opacity: solid
+    highlights: uncarved areas (paper color)
+  rendering:
+    technique: relief printing from carved wooden block
+    texture: wood grain texture, printing irregularities
+    detailLevel: moderate (limited by carving technique)
+    finish: matte ink on paper
+  perspective: simple, often flattened perspective
+  mood:
+    overall: bold, traditional, handcrafted
+    emotion: strength, tradition, craftsmanship
+    tempo: solid, grounded
+    keywords:
+    - bold
+    - traditional
+    - handcrafted
+    - strong
+    - rustic
+  stylePrecedents:
+  - Japanese ukiyo-e prints
+  - German Expressionist woodcuts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

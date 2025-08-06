@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Seeking Shade Under Ancient Oak"
+  setting:
+    time: "Late 1800s Congress Poland, scorching midday in summer, sun directly overhead"
+    location: "Edge of cultivated farmlands near forest boundary, single massive oak tree providing only shade"
+    weather: "Oppressive summer heat with no breeze, air thick and still, earth cracked from drought"
+  characters:
+    - appearance: "Young woman, early 20s, beautiful with long golden-blonde hair, slender athletic build, average height, bright blue eyes, fair complexion with rosy cheeks"
+      clothing: "Traditional Polish folk dress with embroidered bodice, white linen blouse with puffy sleeves, long colorful skirt, floral headscarf or flower wreath in hair"
+      position: "Sitting beneath oak tree against trunk, seeking relief from heat"
+      action: "Fanning herself with straw hat, dress clinging with perspiration, hair damp with sweat, breathing deeply in shade"
+    - appearance: "Woman, mid 20s, plain brown hair pulled back severely, thin build, average height, worried dark eyes, pale complexion, tired expression"  
+      clothing: "Simple brown wool dress, worn white apron, dark headscarf covering most of hair, practical leather shoes, minimal jewelry"
+      position: "Sitting nearby under same tree, maintaining social distance"
+      action: "Drinking water from clay jug, apron used to wipe face, eyeing other woman with suspicion"
+  scene:
+    mainElements: "Massive oak tree with thick trunk and spreading branches, cracked earth around base, scattered farm tools abandoned in shade, wooden water jugs, harvest tools"
+    details: "Dense oak canopy creating precious cool shadow on baked ground, earth cracked into puzzle pieces from drought, wilted wildflowers around tree base, wooden scythe handles too hot to touch in sun, metal tools gleaming dangerously in heat, insects buzzing in thick air, dust particles hanging motionless"
+    background: "Heat-shimmering fields stretching to village, workers collapsed under any available shade, forest edge providing distant promise of cooler air"
+    atmosphere: "Desperate refuge from punishing sun, social tensions continuing even in shared misery, precious shade as valuable as water, oppressive heat that flattens all energy and hope"
+  composition:
+    cameraAngle: "Medium shot from under tree looking out toward blazing fields"
+    focus: "Contrast between cool shade and blazing sun beyond, two women sharing space but not comfort"
+    depth: "Foreground shows cracked earth in shade, middle ground features two resting figures, background shows heat-distorted landscape blazing in sun"

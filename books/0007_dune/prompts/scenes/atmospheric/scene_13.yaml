@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Golden Hour Magic in Palace Chambers"
+  setting:
+    time: "Golden hour on Arrakis, warm amber light flooding palace interiors"
+    location: "Ancient fortress palace in Arrakeen city on harsh desert world with endless sand dunes, twin suns, and extreme heat, massive stone architecture built for desert climate"
+    weather: "Perfect clear evening with warm golden light penetrating architecture"
+  characters:
+    - appearance: "Young man, 15 years old, dark hair, lean athletic build, intense dark eyes, aristocratic features"
+      clothing: "Black stillsuit with breathing apparatus, dark desert robes, or formal Atreides ducal uniform with family crest"
+      position: "Standing in tall palace window bathed in golden light"
+      action: "Looking out over city as evening light transforms the landscape"
+  scene:
+    mainElements: "Towering walls of desert sandstone, carved archways, ceremonial halls with high ceilings, defensive battlements"
+    details: "Palace interior transformed by warm golden light streaming through tall windows. Stone surfaces glowing amber in evening light. Long dramatic shadows creating depth and texture. Carved architectural details highlighted by raking light. Window glass casting geometric patterns. Everything bathed in magical warm illumination."
+    background: "Palace walls and arches glowing golden in evening light"
+    atmosphere: "Austere grandeur adapted to harsh desert environment, shadows providing relief from heat"
+  composition:
+    cameraAngle: "Interior view with golden light streaming through architecture"
+    focus: "Silhouetted figure in window frame with golden light surrounding"
+    depth: "Golden light patterns in foreground, figure in middle ground, illuminated palace architecture in background"

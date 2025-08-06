@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Early 1800s England, afternoon
+    location: Modest lodgings above bakery in Highbury village center, small cramped but clean rooms
+    weather: Heavy rain drumming on roof and windows
+  characters:
+  - appearance: Young woman, early twenties, blonde hair in fashionable Regency curls, bright intelligent eyes, handsome features,
+      tall slender build, confident posture
+    clothing: Fine white muslin morning dress with high waist, delicate embroidered shawl, silk slippers, pearl jewelry appropriate
+      to wealthy gentry
+    position: Standing in doorway with tears streaming down face
+    action: Reaching out desperately toward forgiveness, pride finally completely broken
+  - appearance: Middle-aged woman in her fifties, graying hair under plain cap, kind but worn expression, average height,
+      gentle movements
+    clothing: Faded but clean dress, darned shawl, practical bonnet, worn but well-maintained shoes
+    position: Seated in humble chair, looking up with surprised compassion
+    action: Rising slowly to offer comfort despite having been wronged
+  scene:
+    mainElements: Simple furniture, small fireplace, tea things always ready, single window overlooking street
+    details: Genteel poverty maintained with dignity and cheerfulness, humble surroundings emphasizing contrast with visitor's
+      usual grandeur, rain creating intimate enclosed feeling, simple kindness triumphing over social hierarchy, genuine human
+      connection cutting through class barriers
+    background: Rain-lashed window overlooking village street, simple but carefully maintained possessions
+    atmosphere: Complete emotional collapse leading to genuine human connection, pride dissolved by tears and shame, no text
+      or letters visible
+  composition:
+    cameraAngle: Medium shot emphasizing emotional vulnerability in humble setting
+    focus: Moment of complete emotional breakdown and first glimpse of redemption
+    depth: Foreground humble furnishings, middle ground embracing figures, background rain-soaked village view
+visualElements:
+  colorPalette:
+    primary:
+    - pale pink
+    - powder blue
+    - cream white
+    secondary:
+    - gold leaf
+    - soft lavender
+    - mint green
+    background: elegant interior settings or pastoral landscapes
+    usageNotes: Soft, refined pastel colors with gold accents
+    saturation: low to medium (delicate, refined)
+    contrast: low (soft, harmonious)
+  lineArt:
+    style: delicate, flowing curves
+    weight: light, graceful lines
+    color: soft, subtle outlines
+    texture: smooth, refined finish
+    edgeTreatment: soft, curved edges
+  lighting:
+    type: soft, diffused lighting
+    direction: gentle, flattering illumination
+    intensity: soft, never harsh
+    shadows:
+      style: soft, delicate shadows
+      color: light grays and pastels
+      opacity: very light
+    highlights: gentle, pearlescent highlights
+  rendering:
+    technique: smooth oil painting with fine detail
+    texture: silk, porcelain, delicate fabrics
+    detailLevel: high (ornate decorative details)
+    finish: smooth, polished finish
+  perspective: intimate, human scale
+  mood:
+    overall: elegant, refined, leisurely
+    emotion: pleasure, refinement, grace
+    tempo: leisurely, graceful
+    keywords:
+    - elegant
+    - refined
+    - graceful
+    - delicate
+    - aristocratic
+  stylePrecedents:
+  - Antoine Watteau paintings
+  - Fragonard romantic scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

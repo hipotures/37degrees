@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Gentle Giant Child's Protective Care"
+  setting:
+    time: "Afternoon, 1702, warm sunny day"
+    location: "Interior of Brobdingnagian farmhouse, giant-scaled domestic space"
+    weather: "Warm afternoon sunlight streaming through enormous windows"
+  characters:
+    - appearance: "Man, early 40s, brown hair tied back in queue, weathered face from sea voyages, average height, lean build from travels"
+      clothing: "Dark blue wool coat with brass buttons, white linen shirt with ruffled collar, brown leather breeches, black buckled shoes, tricorn hat"
+      position: "Standing upright with observant stance, hands clasped behind back, alert expression"
+      action: "Standing carefully on giant table, communicating through gestures with gentle giant child, showing gratitude and trust"
+    - appearance: "Giant girl 40 feet tall, nine years old, blonde braided hair, gentle face with freckles, proportionally child-like build"
+      clothing: "Simple green wool dress with white apron, brown leather shoes, hair ribbons"
+      position: "Kneeling carefully, hands cupped protectively, tender expression"
+      action: "Kneeling carefully, hands cupped protectively, tender expression, offering food and showing maternal care despite being a child"
+  scene:
+    mainElements: "Giant farmhouse interior with furniture scaled to 60-foot inhabitants, enormous wooden table, massive stone fireplace"
+    details: "Wooden box twelve feet square with windows, furnished like dollhouse room with tiny bed and chair, handles on top for carrying, air holes created as Gulliver's living space, giant girl providing care with items scaled to her size, thimble-sized dishes for Gulliver, scraps of fabric serving as his bedding, afternoon sunlight streaming through windows large as cathedral openings, domestic tranquility on impossible scale, protective relationship between giant child and tiny man, no text or letters visible"
+    background: "Farmhouse kitchen with utensils hanging like tools, fireplace large enough to walk into, glimpses of giant countryside through windows"
+    atmosphere: "Tender care and protection, domestic warmth despite overwhelming scale, innocent kindness of child crossing species and size barriers"
+  composition:
+    cameraAngle: "Medium shot at table level showing interaction between Gulliver and Glumdalclitch"
+    focus: "Protective relationship between tiny Gulliver and gentle giant child"
+    depth: "Foreground: table surface with Gulliver and living box, middle: Glumdalclitch's caring presence, background: giant farmhouse interior"

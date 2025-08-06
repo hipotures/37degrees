@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Sunlight Breaking Through Doubt"
+  setting:
+    time: "Early 1800s England, mid-morning"
+    location: "Small prosperous market village in Surrey, sixteen miles from London, surrounded by farming country"
+    weather: "Brilliant sunshine breaking through dispersing clouds"
+  characters:
+    - appearance: "Young woman, early twenties, blonde hair in fashionable Regency curls, bright intelligent eyes, handsome features, tall slender build, confident posture"
+      clothing: "Fine white muslin morning dress with high waist, delicate embroidered shawl, silk slippers, pearl jewelry appropriate to wealthy gentry"
+      position: "Standing in village square with arms slightly raised, face turned toward sun"
+      action: "Laughing with genuine delight at something amusing, whole body expressing sudden joy"
+    - appearance: "Young man in his early twenties, fashionably styled light brown hair, charming smile, handsome animated features, medium height athletic build"
+      clothing: "Fashionable London-style tailcoat, colorful waistcoat, perfectly tied cravat, polished boots, stylish accessories"
+      position: "Standing nearby with animated gestures"
+      action: "Sharing story with theatrical flair, clearly pleased at creating such mirth"
+  scene:
+    mainElements: "Village street with shops, parish church, vicarage, modest cottages, Crown Inn"
+    details: "Close-knit rural community where everyone knows each other's business, golden morning light transforming familiar streets, shopkeepers smiling from doorways, children drawn by sound of laughter, birds singing in cottage gardens, world seeming fresh and full of possibility"
+    background: "Church spire bright against clearing blue sky, countryside glowing in renewed sunshine"
+    atmosphere: "Pure spontaneous happiness cutting through previous melancholy, infectious joy spreading, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot capturing shared moment of genuine mirth"
+    focus: "Faces illuminated by laughter and bright morning light"
+    depth: "Foreground sunlit cobblestones, middle ground laughing figures, background brightening village scene"

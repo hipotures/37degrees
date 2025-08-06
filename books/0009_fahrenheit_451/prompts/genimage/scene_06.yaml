@@ -1,0 +1,75 @@
+sceneDescription:
+  setting:
+    time: 2053, bright sunshine at noon, harsh shadows and bleached colors
+    location: Urban streets in dystopian American city, designed for speed and efficiency
+    weather: Summer heat, shimmering air over hot pavement, intense sunlight
+  characters: []
+  scene:
+    mainElements: Eight-legged robotic creature, metallic silver body, glowing eyes, needle injector for morphine, moves with
+      unnatural precision and speed
+    details: Vertical noon shadows beneath sparse urban elements, colors bleached white and harsh by overhead sun, air shimmering
+      with heat waves rising from pavement, metallic creature moving with fluid mechanical precision, electronic hum barely
+      audible, heat distortion creating wavering visual effects, no text or letters visible
+    background: Wide empty streets, fast-moving vehicles, minimal pedestrians, electronic billboards
+    atmosphere: Rushed, impersonal, dominated by technology and speed, oppressive heat and artificial hunting instincts
+  composition:
+    cameraAngle: Wide shot from street level, showing scale and heat distortion
+    focus: Mechanical creature moving through sun-bleached urban environment
+    depth: 'Foreground: hot pavement with heat shimmer, middle ground: tracking mechanical hound, background: tall buildings
+      creating harsh geometric shadows'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

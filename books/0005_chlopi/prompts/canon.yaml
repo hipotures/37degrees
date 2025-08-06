@@ -1,0 +1,111 @@
+canon:
+  characters:
+    - id: "maciej_boryna"
+      name: "Maciej Boryna"
+      description_block: |
+        characters:
+          - appearance: "Man, late 50s, weathered face with deep lines from decades of sun and wind, gray-streaked brown hair, stocky muscular build, tall stature, calloused hands, penetrating gray eyes"
+            clothing: "Brown wool vest over white linen shirt, thick leather belt, knee-length breeches, tall leather boots, woolen cap in cold weather"
+            posture: "Upright and commanding, hands often clasped behind back or resting on belt, head held high with patriarchal authority"
+
+    - id: "jagna" 
+      name: "Jagna"
+      description_block: |
+        characters:
+          - appearance: "Young woman, early 20s, beautiful with long golden-blonde hair, slender athletic build, average height, bright blue eyes, fair complexion with rosy cheeks"
+            clothing: "Traditional Polish folk dress with embroidered bodice, white linen blouse with puffy sleeves, long colorful skirt, floral headscarf or flower wreath in hair"
+            posture: "Graceful and fluid movements, often standing with slight defiance, hands gesturing expressively, chin lifted with independence"
+
+    - id: "antek_boryna"
+      name: "Antek Boryna" 
+      description_block: |
+        characters:
+          - appearance: "Man, late 20s, dark brown hair, athletic muscular build, tall stature like his father, intense dark eyes, clean-shaven face with strong jawline"
+            clothing: "White linen shirt often partially unbuttoned, dark wool vest, sturdy work trousers, leather boots, rolled sleeves showing strong forearms"
+            posture: "Restless and energetic, often leaning forward with intensity, hands clenched or running through hair, shoulders tense with frustration"
+
+    - id: "hanka_boryna"
+      name: "Hanka Boryna"
+      description_block: |
+        characters:
+          - appearance: "Woman, mid 20s, plain brown hair pulled back severely, thin build, average height, worried dark eyes, pale complexion, tired expression"
+            clothing: "Simple brown wool dress, worn white apron, dark headscarf covering most of hair, practical leather shoes, minimal jewelry"
+            posture: "Submissive and cautious, shoulders often hunched, hands folded or wringing nervously, head slightly bowed, defensive stance"
+
+    - id: "dominikowa"
+      name: "Dominikowa (Jagna's mother)"
+      description_block: |
+        characters:
+          - appearance: "Woman, late 40s, graying brown hair, stocky build, short stature, calculating gray eyes, weathered face with permanent worry lines"
+            clothing: "Dark wool dress with worn patches, black headscarf, thick woolen shawl, practical boots, small silver cross necklace"
+            posture: "Cunning and watchful, often standing with arms crossed, head tilted listening, quick darting glances, protective mother stance"
+
+  locations:
+    - id: "lipce_village"
+      name: "Lipce Village"
+      description_block: |
+        setting:
+          location: "Polish peasant village in Congress Poland under Russian partition, Mazovian countryside near Skierniewice, late 1800s rural settlement with wooden houses and dirt roads"
+        mainElements: "Traditional wooden cottages with thatched roofs, central village square with well, small wooden church with bell tower, unpaved dirt roads, wooden fences separating properties"
+        atmosphere: "Intimate rural community where everyone knows each other's business, governed by seasonal agricultural rhythms and Catholic traditions"
+
+    - id: "boryna_cottage"
+      name: "Boryna Family Cottage"
+      description_block: |
+        setting:
+          location: "Large wooden peasant cottage in Lipce village, Congress Poland, main residence of wealthiest farming family in village"
+        mainElements: "Spacious log construction with thatched roof, multiple rooms including main living area with large stove, separate sleeping chambers, well-maintained wooden furniture, religious icons on walls"
+        atmosphere: "Prosperous but traditional peasant home, center of family power and conflicts, warm interior lit by oil lamps and fire"
+
+    - id: "village_fields"
+      name: "Agricultural Fields Around Lipce"
+      description_block: |
+        setting:
+          location: "Cultivated farmlands surrounding Lipce village in Mazovian plains of Congress Poland, open fields stretching to forest edge"
+        mainElements: "Divided plots of wheat, rye, and barley fields, wooden plows and farming tools, hay stacks, stone field boundaries, dirt paths between properties"
+        atmosphere: "Sacred agricultural landscape that defines peasant identity, constantly changing with seasonal work cycles"
+
+    - id: "village_church"
+      name: "Lipce Village Church"
+      description_block: |
+        setting:
+          location: "Small wooden Catholic church in center of Lipce village, Congress Poland, spiritual heart of rural community"
+        mainElements: "Traditional wooden architecture with bell tower, simple interior with painted icons, wooden pews, altar with crucifix, small cemetery with wooden crosses"
+        atmosphere: "Sacred space blending Catholic orthodoxy with local folk traditions, center of community religious life"
+
+    - id: "village_inn"
+      name: "Village Inn"
+      description_block: |
+        setting:
+          location: "Traditional Polish village inn in Lipce, Congress Poland, gathering place for men and social hub"
+        mainElements: "Low-ceilinged wooden building, rough wooden tables and benches, large clay stove, barrels of beer and vodka, oil lamps providing dim lighting"
+        atmosphere: "Male-dominated social space filled with tobacco smoke, heated discussions about politics and farming, occasional fights and revelry"
+
+    - id: "manor_house"
+      name: "Local Manor House"
+      description_block: |
+        setting:
+          location: "Polish nobleman's manor house near Lipce village, Congress Poland, seat of local aristocratic power under Russian rule"
+        mainElements: "Large stone and brick mansion with multiple stories, formal gardens, stable buildings, administrative offices, Russian officials present"
+        atmosphere: "Symbol of old feudal order and Russian colonial authority, distant from peasant life but controlling their economic fate"
+
+  items:
+    - id: "farming_tools"
+      name: "Traditional Farming Equipment"
+      description_block: |
+        details: "Wooden plow with iron blade, scythes with curved handles, hand sickles, wooden rakes, wicker baskets for harvest, leather harnesses for oxen"
+
+    - id: "religious_artifacts"
+      name: "Catholic Religious Items"
+      description_block: |
+        details: "Wooden crucifix with carved Christ figure, painted icons of saints, rosary beads with silver cross, prayer books in Polish, holy water vessel, blessed candles"
+
+    - id: "folk_costumes"
+      name: "Traditional Polish Folk Clothing"
+      description_block: |
+        details: "Embroidered bodices with floral patterns, white linen blouses with puffy sleeves, colorful woolen skirts, floral headscarves, leather boots, silver jewelry with traditional designs"
+
+    - id: "household_items"
+      name: "Peasant Household Objects"
+      description_block: |
+        details: "Clay pots and bowls, wooden spoons and bowls, oil lamps with glass chimneys, woolen blankets with traditional patterns, spinning wheels, wooden looms"

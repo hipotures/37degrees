@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: Late 1800s Congress Poland, harsh noon sun in late summer, blazing overhead heat
+    location: Cultivated farmlands surrounding Lipce village in Mazovian plains of Congress Poland, open fields stretching
+      to forest edge
+    weather: Scorching summer day with merciless sun, no clouds, heat creating shimmer over fields
+  characters:
+  - appearance: Man, late 50s, weathered face with deep lines from decades of sun and wind, gray-streaked brown hair, stocky
+      muscular build, tall stature, calloused hands, penetrating gray eyes
+    clothing: Brown wool vest over white linen shirt, thick leather belt, knee-length breeches, tall leather boots, woolen
+      cap in cold weather
+    position: Standing in middle of harvest field, squinting against bright sun
+    action: Wiping sweat from forehead with sleeve, shading eyes with hand to survey workers, breathing heavily from heat
+  - appearance: Man, late 20s, dark brown hair, athletic muscular build, tall stature like his father, intense dark eyes,
+      clean-shaven face with strong jawline
+    clothing: White linen shirt often partially unbuttoned, dark wool vest, sturdy work trousers, leather boots, rolled sleeves
+      showing strong forearms
+    position: Working with scythe in nearby field section
+    action: Cutting grain with powerful strokes, shirt soaked with sweat, pausing frequently to wipe face
+  scene:
+    mainElements: Divided plots of wheat, rye, and barley fields, wooden plows and farming tools, hay stacks, stone field
+      boundaries, dirt paths between properties
+    details: Air shimmering with heat waves rising from baked earth, grain stalks bleached golden-white by intense sun, shadows
+      shortened to small dark pools directly beneath objects, wooden scythe with curved handles, scythes with curved handles,
+      hand sickles abandoned in shade, workers seeking relief under single oak tree, water jugs sitting in shadow, sweat stains
+      on all clothing, dust rising from every movement
+    background: Forest edge wavering in heat mirage, village cottages barely visible through shimmering air, church tower
+      distorted by heat waves
+    atmosphere: Sacred agricultural landscape that defines peasant identity, constantly changing with seasonal work cycles,
+      brutal summer heat testing endurance, fierce sun that bleaches color from landscape, desperate need for shade and water
+  composition:
+    cameraAngle: High angle shot emphasizing vastness of sun-baked fields and small human figures
+    focus: Heat shimmer creating visual distortion, human figures dwarfed by harsh landscape, struggle against natural elements
+    depth: Foreground shows heat-baked earth and grain stubble, middle ground features working figures with heat shimmer,
+      background shows distorted village and forest through heat waves
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    - paper white
+    - single color ink
+    secondary:
+    - sepia brown
+    - dark red
+    - deep blue
+    background: paper color or simple color
+    usageNotes: Limited colors, usually monochromatic or few colors
+    saturation: medium (ink colors)
+    contrast: very high (carved vs uncarved areas)
+  lineArt:
+    style: bold carved lines following wood grain
+    weight: varies with carving tool, generally bold
+    color: ink color (usually black)
+    texture: rough carved texture, wood grain visible
+    edgeTreatment: rough, hand-carved edges
+  lighting:
+    type: simplified lighting through carved areas
+    direction: basic light indication
+    intensity: high contrast (lit vs shadow areas)
+    shadows:
+      style: solid carved areas (black ink)
+      color: ink color
+      opacity: solid
+    highlights: uncarved areas (paper color)
+  rendering:
+    technique: relief printing from carved wooden block
+    texture: wood grain texture, printing irregularities
+    detailLevel: moderate (limited by carving technique)
+    finish: matte ink on paper
+  perspective: simple, often flattened perspective
+  mood:
+    overall: bold, traditional, handcrafted
+    emotion: strength, tradition, craftsmanship
+    tempo: solid, grounded
+    keywords:
+    - bold
+    - traditional
+    - handcrafted
+    - strong
+    - rustic
+  stylePrecedents:
+  - Japanese ukiyo-e prints
+  - German Expressionist woodcuts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

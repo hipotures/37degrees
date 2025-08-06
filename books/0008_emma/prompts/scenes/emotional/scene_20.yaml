@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Storm at Its Darkest Hour"
+  setting:
+    time: "Early 1800s England, midnight"
+    location: "Large Georgian manor house in Surrey village of Highbury, England, surrounded by extensive landscaped grounds and gardens"
+    weather: "Violent thunderstorm at peak intensity, lightning illuminating windows"
+  characters:
+    - appearance: "Young woman, early twenties, blonde hair in fashionable Regency curls, bright intelligent eyes, handsome features, tall slender build, confident posture"
+      clothing: "Fine white muslin morning dress with high waist, delicate embroidered shawl, silk slippers, pearl jewelry appropriate to wealthy gentry"
+      position: "Standing at center of room, arms raised toward ceiling"
+      action: "In moment of total emotional extremity, face upturned as if crying out to heaven"
+  scene:
+    mainElements: "Elegant drawing room with tall windows, fine furniture, portraits on walls, blazing fireplace"
+    details: "Comfortable wealthy domestic sphere, refined genteel English country living, but transformed by storm into Gothic scene, lightning creating harsh shadows across furniture, comfortable domestic space made alien by extreme weather, maximum emotional tension reached"
+    background: "Windows flashing with lightning, storm lashing the Surrey countryside beyond"
+    atmosphere: "Peak emotional crisis matching natural tempest, maximum tension before inevitable resolution, darkest before dawn, no text or letters visible"
+  composition:
+    cameraAngle: "Low angle making figure seem to wrestle with forces of nature"
+    focus: "Figure silhouetted against lightning flashes, at peak of emotional storm"
+    depth: "Foreground storm-lit furniture, middle ground figure at emotional precipice, background nature's fury"

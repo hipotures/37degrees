@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Blue Hour Transition Over Desert"
+  setting:
+    time: "Blue hour on Arrakis, deep blue sky with last orange on horizon"
+    location: "Vast desert landscape on harsh desert world with endless golden sand dunes, twin blazing suns, extreme heat shimmer, and alien desert beauty"
+    weather: "Perfect clear evening with magical transition lighting"
+  characters:
+    - appearance: "Adult Fremen, weather-beaten dark skin, distinctive blue-within-blue eyes from spice exposure, lean muscular build"
+      clothing: "Desert stillsuit with breathing apparatus, sand-colored robes, utility belt with water and weapons"
+      position: "Standing on high dune crest as day transitions to night"
+      action: "Preparing camp while magical blue hour light transforms the desert"
+  scene:
+    mainElements: "Rolling sand dunes, rocky outcroppings, scattered spice deposits creating orange patches, occasional desert plants"
+    details: "Sky transformed to deep blue with last orange glow on western horizon. Desert dunes appearing purple and blue in twilight. First stars beginning to appear in darkening sky. Magical in-between time when day transforms to night. Sand still warm from day but air cooling rapidly. Spice deposits glowing softly in twilight."
+    background: "Endless dune fields under deepening blue sky with first stars"
+    atmosphere: "Harsh alien beauty with shimmering heat, deadly stillness broken only by wind over sand"
+  composition:
+    cameraAngle: "Wide desert vista during blue hour transition"
+    focus: "Solitary figure silhouetted against twilight sky and dunes"
+    depth: "Textured sand dune in foreground, standing figure in middle ground, blue hour sky filling background"

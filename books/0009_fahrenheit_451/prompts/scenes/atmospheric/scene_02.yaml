@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "First Light Through Electronic Windows"
+  setting:
+    time: "2053, first light of dawn, golden rays breaking through windows"
+    location: "Interior of suburban home in futuristic American city, sterile interior with wall-sized TV screens"
+    weather: "Clear morning, soft natural light contrasting with artificial illumination"
+  characters:
+    - appearance: "Woman, late 20s, blonde hair, vacant expression, thin build, hollow-looking eyes"
+      clothing: "Modern comfortable clothes, seashell ear radios visible, artificial appearance"
+      position: "Sitting in front of parlor walls or lying down, disconnected posture"
+      action: "Watching screens, adjusting ear radios, or in mindless activities"
+  scene:
+    mainElements: "Three-wall parlor with floor-to-ceiling television screens, modern furniture, artificial lighting"
+    details: "Natural dawn light streaming through single uncovered window, creating long shadows across electronic displays, seashell ear radios glowing softly, empty coffee cups and pill bottles on tables, steam rising from morning heating system, no text or letters visible"
+    background: "Empty rooms, electronic devices, screens dominating living spaces"
+    atmosphere: "Cold, artificial, disconnected from nature and human warmth, morning isolation in technological cocoon"
+  composition:
+    cameraAngle: "Medium shot from across room, showing contrast between natural and artificial light"
+    focus: "Figure silhouetted against massive glowing screens with dawn light cutting through"
+    depth: "Foreground: furniture and personal items, middle ground: seated figure and screens, background: window with golden morning light"

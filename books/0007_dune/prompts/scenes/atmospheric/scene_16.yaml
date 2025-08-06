@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Evening Meal by Artificial Light"
+  setting:
+    time: "Early evening on Arrakis, artificial lights creating warm interior glow"
+    location: "Underground Fremen settlement carved into desert rock formations on harsh desert world with golden sand dunes and twin suns above, hidden from surface detection"
+    weather: "Cool desert night settling over hidden settlement"
+  characters:
+    - appearance: "Middle-aged Fremen man, dark weathered skin, piercing blue-within-blue spice-addicted eyes, lean desert-hardened build"
+      clothing: "Traditional Fremen stillsuit and robes in desert tans and browns, with moisture-conserving gear"
+      position: "Seated at communal table in carved stone chamber"
+      action: "Sharing evening meal with family while conserving precious resources"
+  scene:
+    mainElements: "Carved stone passages, water catchment systems, communal gathering spaces, hidden entrances"
+    details: "Warm artificial light creating cozy atmosphere in carved stone chamber. Small efficient light sources providing illumination while conserving energy. Stone walls holding warmth from day. Water conservation equipment visible but unobtrusive. Simple furniture adapted to desert life. Precious food and water shared carefully."
+    background: "Carved stone passages extending deeper into settlement"
+    atmosphere: "Cool refuge from desert heat, communal warmth, carefully conserved resources visible everywhere"
+  composition:
+    cameraAngle: "Interior view of communal chamber with warm artificial lighting"
+    focus: "Figure at table in warm pool of artificial light"
+    depth: "Simple table setting in foreground, seated figure in middle ground, stone passages in background"

@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Lit Windows as Beacons in Darkness"
+  setting:
+    time: "2053, deep night, lit windows as beacons in darkness"
+    location: "Suburban American neighborhood in dystopian future, empty streets with scattered houses"
+    weather: "Clear night, sleeping world, profound darkness"
+  characters: []
+  scene:
+    mainElements: "Suburban houses with electronic windows, night darkness, isolated illumination"
+    details: "Most houses dark and silent, few windows glowing with Floor-to-ceiling television screens covering three or four walls, displaying interactive programs, creating immersive artificial reality creating blue-white light, empty streets in deep shadow, night fog creating halos around street lamps, profound stillness of sleeping suburban world, no text or letters visible"
+    background: "Empty suburban streets, identical houses, deep night sky"
+    atmosphere: "Isolation and electronic addiction visible through night windows, sleeping world with patches of artificial wakefulness"
+  composition:
+    cameraAngle: "Wide shot from street level, emphasizing isolation of lit windows"
+    focus: "Glowing electronic windows as isolated beacons in dark suburban landscape"
+    depth: "Foreground: dark empty street, middle ground: houses with scattered lit windows, background: dark night sky"

@@ -4,7 +4,6 @@ description: |
   Automates AI image generation process in ChatGPT using MCP playwright-headless.
   Creates projects, uploads YAML files, and initiates image generation for book scenes.
   Manages TODO tracking and project organization for systematic processing.
-tools: Edit, Glob, Grep, LS, MultiEdit, Read, Task, TodoWrite, Write, Bash
 ---
 
 # Custom Instruction: Step 3 - AI Image Generation in ChatGPT
@@ -95,6 +94,29 @@ UWAGA: Używaj MCP playwright-headless do automatyzacji
     // CRITICAL: Zapisz PROJECT_ID dla późniejszego użycia w TODO
     // Project ID format: g-p-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
   fi
+
+  1.5. Oczyszczenie widoku (opcjonalne - dla lepszej analizy)
+
+  // Ukryj mylące elementy projektowe przed snapshot
+  mcp__playwright-headless__browser_evaluate(function: "() => {
+    // Ukryj sekcję 'Add files' (pliki projektowe)
+    const buttons = document.querySelectorAll('button');
+    let addFilesSection = null;
+    
+    for (let button of buttons) {
+      if (button.textContent?.includes('Add files') && button.textContent?.includes('Chats in this project can access')) {
+        addFilesSection = button.parentElement;
+        break;
+      }
+    }
+    
+    if (addFilesSection) {
+      addFilesSection.style.display = 'none';
+      addFilesSection.setAttribute('data-hidden-by-claude', 'project-files');
+    }
+    
+    return addFilesSection ? 'Project files section hidden' : 'Section not found';
+  }");
 
   2. Załączenie pliku YAML
 

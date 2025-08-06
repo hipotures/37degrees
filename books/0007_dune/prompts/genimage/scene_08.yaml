@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Afternoon on Arrakis, rare clouds gathering for infrequent storm
+    location: Vast desert landscape on harsh desert world with endless golden sand dunes, twin blazing suns, extreme heat
+      shimmer, and alien desert beauty
+    weather: Unusual overcast conditions with heavy gray clouds, static electricity in air
+  characters:
+  - appearance: Young man, 15 years old, dark hair, lean athletic build, intense dark eyes, aristocratic features
+    clothing: Black stillsuit with breathing apparatus, dark desert robes, or formal Atreides ducal uniform with family crest
+    position: Standing on elevated dune crest overlooking vast desert
+    action: Scanning horizon while storm clouds gather overhead
+  scene:
+    mainElements: Rolling sand dunes, rocky outcroppings, scattered spice deposits creating orange patches, occasional desert
+      plants
+    details: Dramatic gray clouds creating rare flat light across desert landscape. Colors muted but intensified by diffused
+      lighting. No harsh shadows - even illumination revealing subtle desert textures. Electric tension in air suggesting
+      approaching storm. Sand appearing different colors under cloud cover. Rare moment of relief from blazing sun.
+    background: Storm front approaching across endless dune fields
+    atmosphere: Harsh alien beauty with shimmering heat, deadly stillness broken only by wind over sand
+  composition:
+    cameraAngle: Wide landscape view from elevated dune position
+    focus: Solitary figure silhouetted against dramatic overcast sky
+    depth: Textured sand dune in foreground, standing figure in middle ground, approaching storm clouds filling background
+visualElements:
+  colorPalette:
+    primary:
+    - neon blue
+    - metallic gray
+    - glowing cyan
+    - steel silver
+    secondary:
+    - amber light
+    - deep space black
+    - violet sky
+    background: futuristic skyline or starfield
+    usageNotes: Cool tones dominate with pops of vibrant neon lighting
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: painterly sketches painted over
+    weight: n/a (lines hidden by painting)
+    color: n/a
+    texture: smooth digital, hard edges on tech
+    edgeTreatment: sharp silhouettes, atmospheric fade
+  lighting:
+    type: dramatic cinematic lighting
+    direction: multiple sources (city lights, backlights)
+    intensity: high contrast (bright neon vs deep shadow)
+    shadows:
+      style: long shadows, diffused by haze
+      color: cool blue or purple
+      opacity: deep
+    highlights: lens flares, neon glows on surfaces
+  rendering:
+    technique: digital painting with some photobash
+    texture: smooth with textured brushes for atmosphere
+    detailLevel: high in focal points (tech details), looser elsewhere
+    finish: polished, cinematic look
+  perspective: dynamic perspective (wide-angle vistas or low-angle hero shots)
+  mood:
+    overall: epic, futuristic, adventurous
+    emotion: awe, excitement, curiosity
+    tempo: dynamic, energetic
+    keywords:
+    - futuristic
+    - epic
+    - cinematic
+    - detailed
+    - atmospheric
+  stylePrecedents:
+  - Syd Mead (futurist designer)
+  - Blade Runner concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

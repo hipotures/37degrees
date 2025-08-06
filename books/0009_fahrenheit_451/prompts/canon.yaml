@@ -1,0 +1,132 @@
+canon:
+  characters:
+    - id: "guy_montag"
+      name: "Guy Montag"
+      description_block: |
+        characters:
+          - appearance: "Man, early 30s, dark hair, athletic build, strong jawline, expressive eyes showing internal conflict"
+            clothing: "Black fireman's uniform with brass buttons and badges, heavy boots, salamander emblem on chest"
+            position: "Standing or walking with purpose, carrying equipment or books"
+            action: "Moving with determination, examining objects, or in contemplative pose"
+    
+    - id: "clarisse_mcclellan"
+      name: "Clarisse McClellan"
+      description_block: |
+        characters:
+          - appearance: "Young woman, 17 years old, pale complexion, bright curious eyes, delicate features, questioning expression"
+            clothing: "Simple white dress or light colored clothing, no makeup, natural appearance"
+            position: "Walking outdoors, sitting on steps, or in natural poses"
+            action: "Observing nature, asking questions, touching flowers or natural elements"
+    
+    - id: "mildred_montag"
+      name: "Mildred Montag"
+      description_block: |
+        characters:
+          - appearance: "Woman, late 20s, blonde hair, vacant expression, thin build, hollow-looking eyes"
+            clothing: "Modern comfortable clothes, seashell ear radios visible, artificial appearance"
+            position: "Sitting in front of parlor walls or lying down, disconnected posture"
+            action: "Watching screens, adjusting ear radios, or in mindless activities"
+    
+    - id: "captain_beatty"
+      name: "Captain Beatty"
+      description_block: |
+        characters:
+          - appearance: "Man, 40s, commanding presence, intelligent but cynical eyes, well-built, authoritative bearing"
+            clothing: "Fire chief uniform with more elaborate insignia, clean and pressed, leadership badges"
+            position: "Standing with authority, behind desk, or addressing others"
+            action: "Speaking with intensity, demonstrating authority, or manipulating situations"
+    
+    - id: "professor_faber"
+      name: "Professor Faber"
+      description_block: |
+        characters:
+          - appearance: "Elderly man, 60s, thin build, wire-rimmed glasses, gentle but worried expression, graying hair"
+            clothing: "Simple civilian clothes, worn cardigan or jacket, modest appearance"
+            position: "Sitting in small room, hunched over books, or speaking quietly"
+            action: "Reading, whispering, crafting communication devices, or teaching"
+    
+    - id: "granger"
+      name: "Granger"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged man, 50s, weathered face, kind eyes, intellectual bearing, calm demeanor"
+            clothing: "Practical outdoor clothing, worn but clean, earth-toned colors"
+            position: "By campfire, walking through nature, or with group of exiles"
+            action: "Tending fire, sharing knowledge, or guiding others"
+
+  locations:
+    - id: "montag_house"
+      name: "Montag's House"
+      description_block: |
+        setting:
+          location: "Suburban home in futuristic American city, sterile interior with wall-sized TV screens"
+        mainElements: "Three-wall parlor with floor-to-ceiling television screens, modern furniture, artificial lighting"
+        atmosphere: "Cold, artificial, disconnected from nature and human warmth"
+        background: "Empty rooms, electronic devices, screens dominating living spaces"
+    
+    - id: "fire_station"
+      name: "Fire Station"
+      description_block: |
+        setting:
+          location: "Municipal fire station in dystopian American city, converted for book-burning operations"
+        mainElements: "Salamander fire trucks, kerosene tanks, burning equipment, firemen's quarters"
+        atmosphere: "Mechanical efficiency, institutional coldness, purposeful destruction"
+        background: "Red fire engines, brass poles, lockers, maps of city districts"
+    
+    - id: "city_streets"
+      name: "City Streets"
+      description_block: |
+        setting:
+          location: "Urban streets in dystopian American city, designed for speed and efficiency"
+        mainElements: "Wide empty streets, fast-moving vehicles, minimal pedestrians, electronic billboards"
+        atmosphere: "Rushed, impersonal, dominated by technology and speed"
+        background: "Tall buildings, electronic signs, jet aircraft overhead, sterile architecture"
+    
+    - id: "countryside_camp"
+      name: "Countryside Book People Camp"
+      description_block: |
+        setting:
+          location: "Rural wooded area outside dystopian city, natural setting by river"
+        mainElements: "Campfire, simple shelters, natural surroundings, group of intellectual exiles"
+        atmosphere: "Peaceful, natural, hopeful, connected to earth and human knowledge"
+        background: "Trees, river, star-filled sky, distant city glow on horizon"
+    
+    - id: "library_ruins"
+      name: "Abandoned Library"
+      description_block: |
+        setting:
+          location: "Remains of public library in American city, partially burned or abandoned"
+        mainElements: "Empty bookshelves, scattered pages, damaged architecture, remnants of knowledge"
+        atmosphere: "Melancholic, haunting, representing lost civilization and destroyed knowledge"
+        background: "Broken windows, damaged walls, ash residue, abandoned reading tables"
+
+  items:
+    - id: "mechanical_hound"
+      name: "Mechanical Hound"
+      description_block: |
+        details: "Eight-legged robotic creature, metallic silver body, glowing eyes, needle injector for morphine, moves with unnatural precision and speed"
+    
+    - id: "parlor_walls"
+      name: "Parlor Wall Televisions"
+      description_block: |
+        details: "Floor-to-ceiling television screens covering three or four walls, displaying interactive programs, creating immersive artificial reality"
+    
+    - id: "seashell_radios"
+      name: "Seashell Radio Earpieces"
+      description_block: |
+        details: "Tiny wireless earphone devices, constant stream of music and entertainment, worn continuously for mental distraction"
+    
+    - id: "kerosene_sprayer"
+      name: "Fireman's Kerosene Sprayer"
+      description_block: |
+        details: "Heavy brass flame-thrower device, connected to fuel tank, designed for burning books and buildings, serpentine hoses"
+    
+    - id: "books_hidden"
+      name: "Hidden Books"
+      description_block: |
+        details: "Forbidden literature concealed in walls, gardens, or secret spaces, representing preserved knowledge and resistance to censorship"
+    
+    - id: "salamander_emblem"
+      name: "Fireman's Salamander Emblem"
+      description_block: |
+        details: "Official insignia showing salamander creature, symbol of fire department's book-burning mission, worn on uniforms and vehicles"

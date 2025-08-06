@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Dawn Returns - Full Circle Transformed"
+  setting:
+    time: "Dawn on Arrakis, similar to opening but showing passage of time"
+    location: "Ancient fortress palace in Arrakeen city on harsh desert world with endless sand dunes, twin suns, and extreme heat, massive stone architecture built for desert climate"
+    weather: "Clear dawn air with familiar pre-sunrise conditions, cyclical return"
+  characters:
+    - appearance: "Young man, 15 years old, dark hair, lean athletic build, intense dark eyes, aristocratic features"
+      clothing: "Black stillsuit with breathing apparatus, dark desert robes, or formal Atreides ducal uniform with family crest"
+      position: "Standing at same palace window as opening, but subtly changed"
+      action: "Observing dawn over Arrakeen from familiar vantage point, now with deeper understanding"
+  scene:
+    mainElements: "Towering walls of desert sandstone, carved archways, ceremonial halls with high ceilings, defensive battlements"
+    details: "Same palace window view but subtly transformed by passage of time and experience. Dawn light revealing familiar scene with deeper significance. Stone architecture unchanged but viewer's perspective matured. City below showing signs of adaptation and change. Desert beyond still vast but now understood rather than mysterious."
+    background: "Familiar cityscape and desert horizon now seen with transformed understanding"
+    atmosphere: "Austere grandeur adapted to harsh desert environment, shadows providing relief from heat"
+  composition:
+    cameraAngle: "Interior view through palace window, echoing opening scene"
+    focus: "Transformed figure at familiar window with cyclical dawn beyond"
+    depth: "Window frame in foreground, changed figure in middle ground, familiar yet transformed landscape in background"

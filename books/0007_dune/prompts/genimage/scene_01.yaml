@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: Pre-dawn on desert planet Arrakis, last stars fading in deep blue sky
+    location: Ancient fortress palace in Arrakeen city on harsh desert world with endless sand dunes, twin suns, and extreme
+      heat, massive stone architecture built for desert climate
+    weather: Clear desert night transitioning to dawn, dry air, gentle night breeze
+  characters:
+  - appearance: Young man, 15 years old, dark hair, lean athletic build, intense dark eyes, aristocratic features
+    clothing: Simple nightclothes and house robe, feet bare on cool stone floor
+    position: Standing at tall palace window overlooking the city
+    action: Gazing out at the sleeping city below, hands pressed against window frame
+  scene:
+    mainElements: Towering walls of desert sandstone, carved archways, ceremonial halls with high ceilings, defensive battlements
+    details: Palace window frames the view of Arrakeen's rooftops and distant desert. Stars slowly fading in deep purple sky.
+      Ancient stone walls hold the night's coolness. Shadows pool in courtyards and streets below. No lights visible in the
+      sleeping city. Distant horizon barely visible as lighter band against dark sky.
+    background: Desert landscape stretching endlessly beyond city walls, star-filled sky beginning to lighten
+    atmosphere: Austere grandeur adapted to harsh desert environment, shadows providing relief from heat
+  composition:
+    cameraAngle: Interior view looking out through palace window
+    focus: Silhouetted figure against window with starlit cityscape beyond
+    depth: Figure in foreground, window frame in middle ground, expansive city and desert in background
+visualElements:
+  colorPalette:
+    primary:
+    - neon blue
+    - metallic gray
+    - glowing cyan
+    - steel silver
+    secondary:
+    - amber light
+    - deep space black
+    - violet sky
+    background: futuristic skyline or starfield
+    usageNotes: Cool tones dominate with pops of vibrant neon lighting
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: painterly sketches painted over
+    weight: n/a (lines hidden by painting)
+    color: n/a
+    texture: smooth digital, hard edges on tech
+    edgeTreatment: sharp silhouettes, atmospheric fade
+  lighting:
+    type: dramatic cinematic lighting
+    direction: multiple sources (city lights, backlights)
+    intensity: high contrast (bright neon vs deep shadow)
+    shadows:
+      style: long shadows, diffused by haze
+      color: cool blue or purple
+      opacity: deep
+    highlights: lens flares, neon glows on surfaces
+  rendering:
+    technique: digital painting with some photobash
+    texture: smooth with textured brushes for atmosphere
+    detailLevel: high in focal points (tech details), looser elsewhere
+    finish: polished, cinematic look
+  perspective: dynamic perspective (wide-angle vistas or low-angle hero shots)
+  mood:
+    overall: epic, futuristic, adventurous
+    emotion: awe, excitement, curiosity
+    tempo: dynamic, energetic
+    keywords:
+    - futuristic
+    - epic
+    - cinematic
+    - detailed
+    - atmospheric
+  stylePrecedents:
+  - Syd Mead (futurist designer)
+  - Blade Runner concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

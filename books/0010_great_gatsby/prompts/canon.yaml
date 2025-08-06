@@ -1,0 +1,153 @@
+canon:
+  characters:
+    - id: "jay_gatsby"
+      name: "Jay Gatsby"
+      description_block: |
+        characters:
+          - appearance: "Man, early 30s, dark brown hair slicked back, tall athletic build, clean-shaven, tanned skin, bright confident smile"
+            clothing: "Pink suit with white shirt and silver tie, gold cufflinks, white Oxford shoes, gold pocket watch chain visible"
+            posture: "Standing straight with perfect posture, one hand in pocket, other gesturing elegantly"
+    
+    - id: "nick_carraway"
+      name: "Nick Carraway"
+      description_block: |
+        characters:
+          - appearance: "Man, late 20s, brown hair neatly parted, average height, lean build, thoughtful expression, clean-shaven"
+            clothing: "Conservative gray wool suit, white shirt, dark blue tie, brown leather shoes, simple wristwatch"
+            posture: "Slightly reserved stance, hands clasped in front, observant gaze"
+    
+    - id: "daisy_buchanan"
+      name: "Daisy Buchanan"
+      description_block: |
+        characters:
+          - appearance: "Woman, mid-20s, blonde bobbed hair with finger waves, delicate features, pale skin, red lipstick, slender build"
+            clothing: "White chiffon dress with dropped waist, pearl necklace, white silk gloves, white T-bar shoes, diamond earrings"
+            posture: "Languid reclining position, one hand touching her throat, dreamy expression"
+    
+    - id: "tom_buchanan"
+      name: "Tom Buchanan"
+      description_block: |
+        characters:
+          - appearance: "Man, early 30s, dark hair parted severely, broad muscular build, square jaw, arrogant expression, imposing height"
+            clothing: "Navy blue three-piece suit with gold watch chain, white shirt with stiff collar, burgundy tie, black Oxford shoes"
+            posture: "Aggressive stance with feet wide apart, chest thrust forward, hands on hips"
+    
+    - id: "jordan_baker"
+      name: "Jordan Baker"
+      description_block: |
+        characters:
+          - appearance: "Woman, mid-20s, dark brown hair in sleek bob, tall athletic build, sharp features, confident expression, sun-kissed skin"
+            clothing: "Beige linen sports dress, brown leather belt, tan Oxford shoes, simple gold bracelet, no hat"
+            posture: "Athletic stance with weight on one hip, arms crossed, chin raised slightly"
+    
+    - id: "myrtle_wilson"
+      name: "Myrtle Wilson"
+      description_block: |
+        characters:
+          - appearance: "Woman, mid-30s, dark curly hair, full figured build, heavily made-up face, red lipstick, sensuous expression"
+            clothing: "Cream-colored chiffon dress with brown sash, costume jewelry necklace, brown heeled shoes, excessive rouge"
+            posture: "Provocative pose with hip thrust out, one hand on hip, head tilted back"
+    
+    - id: "george_wilson"
+      name: "George Wilson"
+      description_block: |
+        characters:
+          - appearance: "Man, late 30s, light brown thinning hair, thin build, pale complexion, exhausted expression, stubbled face"
+            clothing: "Worn gray work coveralls with oil stains, dirty white undershirt visible, worn brown work boots"
+            posture: "Slumped shoulders, hands hanging limply at sides, defeated stance"
+    
+    - id: "meyer_wolfsheim"
+      name: "Meyer Wolfsheim"
+      description_block: |
+        characters:
+          - appearance: "Man, 50s, gray hair, short stocky build, large nose, small eyes, thick eyebrows, Jewish features"
+            clothing: "Dark pinstriped suit, white shirt with high collar, dark tie with diamond pin, human molar cufflinks, black shoes"
+            posture: "Hunched forward conspiratorially, hands gesturing while talking, suspicious glance"
+
+  locations:
+    - id: "gatsby_mansion"
+      name: "Gatsby's Mansion"
+      description_block: |
+        setting:
+          location: "Massive Gothic Revival mansion in West Egg, Long Island, New York, overlooking Manhasset Bay"
+        mainElements: "Limestone facade with ivy, marble columns, tower with green light at end of dock, Olympic-sized pool, manicured gardens with fountains"
+        atmosphere: "Opulent yet hollow grandeur, new money ostentation, perpetual party readiness"
+    
+    - id: "buchanan_estate"
+      name: "Buchanan Estate"
+      description_block: |
+        setting:
+          location: "Georgian Colonial mansion in East Egg, Long Island, New York, across the bay from West Egg"
+        mainElements: "Red brick facade with white columns, French windows, rose garden, private beach, long green lawn running to water"
+        atmosphere: "Old money elegance, established privilege, restrained luxury"
+    
+    - id: "valley_of_ashes"
+      name: "Valley of Ashes"
+      description_block: |
+        setting:
+          location: "Industrial wasteland in Corona, Queens, between West Egg and Manhattan"
+        mainElements: "Gray ash heaps, Wilson's garage with faded sign, billboard with enormous eyes of Doctor T.J. Eckleburg wearing yellow spectacles"
+        atmosphere: "Desolate industrial decay, moral wasteland, oppressive gray dust covering everything"
+    
+    - id: "wilson_garage"
+      name: "Wilson's Garage"
+      description_block: |
+        setting:
+          location: "Small auto repair shop in Valley of Ashes, Corona, Queens, on road to New York City"
+        mainElements: "Weathered wooden structure, gas pumps outside, grimy windows, scattered auto parts, apartment above garage"
+        atmosphere: "Poverty and desperation, industrial grime, failed American Dream"
+    
+    - id: "plaza_hotel"
+      name: "Plaza Hotel Suite"
+      description_block: |
+        setting:
+          location: "Luxury hotel suite at Plaza Hotel, Fifth Avenue and Central Park South, Manhattan"
+        mainElements: "Ornate Victorian furniture, tall windows with heavy curtains, crystal chandelier, mirrors in gilt frames, ice bucket with champagne"
+        atmosphere: "Stifling summer heat, upper-class luxury, tension-filled confrontation space"
+    
+    - id: "manhattan_apartment"
+      name: "Myrtle's Manhattan Apartment"
+      description_block: |
+        setting:
+          location: "Small apartment on 158th Street, Washington Heights, Manhattan"
+        mainElements: "Overcrowded furniture too large for rooms, tapestried furniture, photograph of elderly woman on wall, smoking stand, puppy in basket"
+        atmosphere: "Pretentious lower-middle-class striving, cramped excess, tawdry affair setting"
+    
+    - id: "gatsby_dock"
+      name: "Gatsby's Dock"
+      description_block: |
+        setting:
+          location: "Private dock extending into Manhasset Bay from Gatsby's West Egg mansion"
+        mainElements: "Wooden pier stretching into dark water, green light at end of dock, view across bay to East Egg"
+        atmosphere: "Yearning and impossible distance, romantic obsession, nighttime solitude"
+
+  items:
+    - id: "green_light"
+      name: "The Green Light"
+      description_block: |
+        details: "Small green navigation light at end of Buchanan dock across the bay, glowing in darkness, barely visible from West Egg"
+    
+    - id: "gatsby_car"
+      name: "Gatsby's Car"
+      description_block: |
+        details: "1922 yellow Rolls-Royce convertible with green leather seats, chrome details, white-wall tires, luxurious interior"
+    
+    - id: "eckleburg_eyes"
+      name: "Eyes of Doctor T.J. Eckleburg"
+      description_block: |
+        details: "Faded billboard advertisement showing enormous blue eyes behind yellow spectacles, weathered and peeling paint"
+    
+    - id: "gatsby_shirts"
+      name: "Gatsby's Shirts"
+      description_block: |
+        details: "Pile of silk shirts in coral, apple-green, lavender, faint orange with monograms, thrown from cabinet"
+    
+    - id: "oxford_photo"
+      name: "Oxford Photograph"
+      description_block: |
+        details: "Sepia photograph showing young men in cricket whites at Trinity College Oxford quad, 1919"
+    
+    - id: "daisy_voice"
+      name: "Daisy's Voice Elements"
+      description_block: |
+        details: "White telephone, champagne glass trembling in hand, pearl necklace catching light as she speaks"

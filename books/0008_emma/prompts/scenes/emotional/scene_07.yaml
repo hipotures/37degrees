@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Shadows in Familiar Spaces"
+  setting:
+    time: "Early 1800s England, evening"
+    location: "Small prosperous market village in Surrey, sixteen miles from London, surrounded by farming country"
+    weather: "Overcast evening with shadows falling earlier than usual"
+  characters:
+    - appearance: "Young woman, early twenties, blonde hair in fashionable Regency curls, bright intelligent eyes, handsome features, tall slender build, confident posture"
+      clothing: "Fine white muslin morning dress with high waist, delicate embroidered shawl, silk slippers, pearl jewelry appropriate to wealthy gentry"
+      position: "Walking more slowly through village streets, shoulders slightly tense"
+      action: "Looking around with new uncertainty, noticing things previously overlooked"
+  scene:
+    mainElements: "Village street with shops, parish church, vicarage, modest cottages, Crown Inn"
+    details: "Same familiar streets now seeming different in dimmer light, close-knit rural community where everyone knows each other's business, some shop windows already dark, fewer people about than usual, shadows pooling in doorways and corners, familiar landmarks taking on different character"
+    background: "Church spire dark against cloudy sky, cottage windows glowing with uncertain warmth"
+    atmosphere: "First stirrings of doubt and discomfort in previously secure environment, no text or letters visible"
+  composition:
+    cameraAngle: "Low angle following figure through increasingly shadowy streets"
+    focus: "Hesitant movement through familiar territory that now feels subtly alien"
+    depth: "Foreground cobblestone path, middle ground walking figure, background darkening buildings"

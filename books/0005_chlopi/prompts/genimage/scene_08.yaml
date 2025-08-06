@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: Late 1800s Congress Poland, overcast afternoon in early autumn, heavy clouds gathering
+    location: Polish peasant village in Congress Poland under Russian partition, Mazovian countryside near Skierniewice, late
+      1800s rural settlement with wooden houses and dirt roads
+    weather: Heavy overcast sky with thick gray clouds, oppressive humid air, wind beginning to stir
+  characters:
+  - appearance: Woman, late 40s, graying brown hair, stocky build, short stature, calculating gray eyes, weathered face with
+      permanent worry lines
+    clothing: Dark wool dress with worn patches, black headscarf, thick woolen shawl, practical boots, small silver cross
+      necklace
+    position: Hurrying along village street toward cottage
+    action: Clutching shawl against rising wind, glancing nervously at threatening sky, quickening pace with worried expression
+  scene:
+    mainElements: Traditional wooden cottages with thatched roofs, central village square with well, small wooden church with
+      bell tower, unpaved dirt roads, wooden fences separating properties
+    details: Flat gray light eliminating all shadows, colors muted but somehow more intense, wooden cottage walls appearing
+      darker in overcast light, church bell tower silhouetted against heavy clouds, first leaves beginning to swirl in gathering
+      wind, chickens huddling close to buildings, laundry on lines starting to flap, dust beginning to rise from roads
+    background: Dark storm front approaching from forest direction, more cottages with people securing loose items, church
+      tower appearing ominous against threatening sky
+    atmosphere: Intimate rural community where everyone knows each other's business, governed by seasonal agricultural rhythms
+      and Catholic traditions, tense anticipation of coming storm, nature's power asserting dominance over human activities
+  composition:
+    cameraAngle: Low angle emphasizing threatening sky and small human figure below
+    focus: Dramatic overcast sky dominating frame, human figure hurrying against approaching storm
+    depth: Foreground shows village street and hurrying figure, middle ground features cottages and church, background shows
+      dark storm clouds building
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    - paper white
+    - single color ink
+    secondary:
+    - sepia brown
+    - dark red
+    - deep blue
+    background: paper color or simple color
+    usageNotes: Limited colors, usually monochromatic or few colors
+    saturation: medium (ink colors)
+    contrast: very high (carved vs uncarved areas)
+  lineArt:
+    style: bold carved lines following wood grain
+    weight: varies with carving tool, generally bold
+    color: ink color (usually black)
+    texture: rough carved texture, wood grain visible
+    edgeTreatment: rough, hand-carved edges
+  lighting:
+    type: simplified lighting through carved areas
+    direction: basic light indication
+    intensity: high contrast (lit vs shadow areas)
+    shadows:
+      style: solid carved areas (black ink)
+      color: ink color
+      opacity: solid
+    highlights: uncarved areas (paper color)
+  rendering:
+    technique: relief printing from carved wooden block
+    texture: wood grain texture, printing irregularities
+    detailLevel: moderate (limited by carving technique)
+    finish: matte ink on paper
+  perspective: simple, often flattened perspective
+  mood:
+    overall: bold, traditional, handcrafted
+    emotion: strength, tradition, craftsmanship
+    tempo: solid, grounded
+    keywords:
+    - bold
+    - traditional
+    - handcrafted
+    - strong
+    - rustic
+  stylePrecedents:
+  - Japanese ukiyo-e prints
+  - German Expressionist woodcuts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Valley of Ashes - Industrial Wasteland"
+  setting:
+    time: "Summer 1922, midday with harsh sunlight"
+    location: "Industrial wasteland in Corona, Queens, between West Egg and Manhattan"
+    weather: "Hot summer day with oppressive heat and dusty air"
+  characters:
+    - appearance: "No people visible in this desolate landscape"
+      clothing: ""
+      position: ""
+      action: ""
+  scene:
+    mainElements: "Gray ash heaps, Wilson's garage with faded sign, billboard with enormous eyes of Doctor T.J. Eckleburg wearing yellow spectacles"
+    details: "Desolate industrial decay, moral wasteland, oppressive gray dust covering everything. Towering ash heaps creating artificial hills of industrial waste, small weathered buildings scattered among the devastation, railroad tracks cutting through the wasteland, telephone poles and power lines creating geometric patterns against gray sky, abandoned machinery rusting in dust. The famous billboard looms over everything with its faded advertisement and enormous blue eyes behind yellow spectacles, paint peeling from years of weather. No text or letters visible."
+    background: "Manhattan skyline visible in hazy distance, industrial smokestacks releasing dark plumes, desolate landscape stretching to horizon"
+    atmosphere: "Oppressive desolation and industrial decay, moral vacuum between the wealthy enclaves, dust and ash creating suffocating environment symbolizing spiritual emptiness"
+  composition:
+    cameraAngle: "Wide panoramic shot capturing the full scope of industrial wasteland"
+    focus: "The enormous Eckleburg billboard eyes watching over the desolate landscape"
+    depth: "Foreground shows ash heaps and debris, middle ground features Wilson's garage and billboard, background reveals distant Manhattan through industrial haze"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Candlelit Dinner Table"
+  setting:
+    time: "Late 1800s Congress Poland, early evening in autumn, candlelight illuminating dinner"
+    location: "Large wooden peasant cottage in Lipce village, Congress Poland, main residence of wealthiest farming family in village"
+    weather: "Cool autumn evening outside, warm and cozy inside cottage"
+  characters:
+    - appearance: "Man, late 50s, weathered face with deep lines from decades of sun and wind, gray-streaked brown hair, stocky muscular build, tall stature, calloused hands, penetrating gray eyes"
+      clothing: "Brown wool vest over white linen shirt, thick leather belt, knee-length breeches, tall leather boots, woolen cap in cold weather"
+      position: "Sitting at head of wooden dinner table"
+      action: "Carving bread with large knife, candlelight flickering across weathered features, shadow dancing on wall behind him"
+    - appearance: "Young woman, early 20s, beautiful with long golden-blonde hair, slender athletic build, average height, bright blue eyes, fair complexion with rosy cheeks"
+      clothing: "Traditional Polish folk dress with embroidered bodice, white linen blouse with puffy sleeves, long colorful skirt, floral headscarf or flower wreath in hair"
+      position: "Sitting opposite at table, candlelight highlighting her beauty"
+      action: "Serving soup from large wooden bowl, face illuminated by warm candle glow, avoiding direct eye contact"
+  scene:
+    mainElements: "Spacious log construction with thatched roof, multiple rooms including main living area with large stove, separate sleeping chambers, well-maintained wooden furniture, religious icons on walls"
+    details: "Dinner table lit by candles creating warm yellow light, wooden bowls and clay pots holding simple peasant meal, shadows dancing on log walls, wooden crucifix with carved Christ figure visible in candlelight, oil lamps providing additional warm glow, steam rising from hot food mixing with candlelight, cozy interior contrasting with dark windows"
+    background: "Kitchen area visible in background with large stove, religious icons glowing in candlelight, dark windows showing night outside"
+    atmosphere: "Prosperous but traditional peasant home, center of family power and conflicts, warm interior lit by oil lamps and fire, intimate family meal masking underlying tensions and forbidden desires"
+  composition:
+    cameraAngle: "Medium shot across table showing both figures in candlelight"
+    focus: "Warm candlelight creating intimate atmosphere while highlighting the tension between the characters"
+    depth: "Foreground shows table with food and candles, middle ground features two seated figures, background shows cottage interior in warm light"

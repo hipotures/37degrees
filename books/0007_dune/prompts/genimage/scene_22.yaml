@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Day on Arrakis during extreme weather event, massive sandstorm approaching
+    location: Underground Fremen settlement carved into desert rock formations on harsh desert world with golden sand dunes
+      and twin suns above, hidden from surface detection
+    weather: Massive sandstorm creating wall of sand and debris, extreme winds
+  characters:
+  - appearance: Middle-aged Fremen man, dark weathered skin, piercing blue-within-blue spice-addicted eyes, lean desert-hardened
+      build
+    clothing: Traditional Fremen stillsuit and robes in desert tans and browns, with moisture-conserving gear
+    position: Sealing settlement entrance against approaching sandstorm
+    action: Securing hidden entrance while massive sandstorm approaches settlement
+  scene:
+    mainElements: Carved stone passages, water catchment systems, communal gathering spaces, hidden entrances
+    details: Massive wall of sand and debris approaching hidden settlement. Rock formations being scoured by extreme winds
+      carrying sand. Settlement entrances being sealed against storm penetration. Visibility reduced to near zero by sand
+      clouds. Emergency storm procedures protecting water and air systems.
+    background: Towering wall of sand filling sky and approaching settlement
+    atmosphere: Cool refuge from desert heat, communal warmth, carefully conserved resources visible everywhere
+  composition:
+    cameraAngle: View from settlement entrance toward approaching storm wall
+    focus: Figure sealing entrance against towering sandstorm wall
+    depth: Stone entrance details in foreground, working figure in middle ground, massive sandstorm filling background
+visualElements:
+  colorPalette:
+    primary:
+    - neon blue
+    - metallic gray
+    - glowing cyan
+    - steel silver
+    secondary:
+    - amber light
+    - deep space black
+    - violet sky
+    background: futuristic skyline or starfield
+    usageNotes: Cool tones dominate with pops of vibrant neon lighting
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: painterly sketches painted over
+    weight: n/a (lines hidden by painting)
+    color: n/a
+    texture: smooth digital, hard edges on tech
+    edgeTreatment: sharp silhouettes, atmospheric fade
+  lighting:
+    type: dramatic cinematic lighting
+    direction: multiple sources (city lights, backlights)
+    intensity: high contrast (bright neon vs deep shadow)
+    shadows:
+      style: long shadows, diffused by haze
+      color: cool blue or purple
+      opacity: deep
+    highlights: lens flares, neon glows on surfaces
+  rendering:
+    technique: digital painting with some photobash
+    texture: smooth with textured brushes for atmosphere
+    detailLevel: high in focal points (tech details), looser elsewhere
+    finish: polished, cinematic look
+  perspective: dynamic perspective (wide-angle vistas or low-angle hero shots)
+  mood:
+    overall: epic, futuristic, adventurous
+    emotion: awe, excitement, curiosity
+    tempo: dynamic, energetic
+    keywords:
+    - futuristic
+    - epic
+    - cinematic
+    - detailed
+    - atmospheric
+  stylePrecedents:
+  - Syd Mead (futurist designer)
+  - Blade Runner concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

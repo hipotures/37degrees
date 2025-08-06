@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: Early dawn on Arrakis, first golden rays penetrating stone corridors
+    location: Ancient fortress palace in Arrakeen city on harsh desert world with endless sand dunes, twin suns, and extreme
+      heat, massive stone architecture built for desert climate
+    weather: Clear morning with gentle breeze, temperature still cool from night
+  characters:
+  - appearance: Woman in her 30s, auburn hair, striking green eyes, elegant aristocratic features, graceful build
+    clothing: Bene Gesserit robes in earth tones, or elegant court dress appropriate for ducal consort
+    position: Walking through long palace corridor lit by dawn light
+    action: Moving gracefully through golden shafts of light streaming through windows
+  scene:
+    mainElements: Towering walls of desert sandstone, carved archways, ceremonial halls with high ceilings, defensive battlements
+    details: Long palace corridor with arched windows casting geometric patterns of light and shadow on stone floor. Golden
+      morning light streams through openings, creating dramatic bars of illumination. Dust motes dancing in sunbeams. Stone
+      walls textured with carved details catching early light. Shadows still deep in alcoves and corners.
+    background: Distant archways leading deeper into palace, glimpse of courtyard gardens through windows
+    atmosphere: Austere grandeur adapted to harsh desert environment, shadows providing relief from heat
+  composition:
+    cameraAngle: Low angle view down palace corridor
+    focus: Figure moving through dramatic light patterns cast by morning sun
+    depth: Geometric light patterns in foreground, walking figure in middle ground, receding corridor in background
+visualElements:
+  colorPalette:
+    primary:
+    - neon blue
+    - metallic gray
+    - glowing cyan
+    - steel silver
+    secondary:
+    - amber light
+    - deep space black
+    - violet sky
+    background: futuristic skyline or starfield
+    usageNotes: Cool tones dominate with pops of vibrant neon lighting
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: painterly sketches painted over
+    weight: n/a (lines hidden by painting)
+    color: n/a
+    texture: smooth digital, hard edges on tech
+    edgeTreatment: sharp silhouettes, atmospheric fade
+  lighting:
+    type: dramatic cinematic lighting
+    direction: multiple sources (city lights, backlights)
+    intensity: high contrast (bright neon vs deep shadow)
+    shadows:
+      style: long shadows, diffused by haze
+      color: cool blue or purple
+      opacity: deep
+    highlights: lens flares, neon glows on surfaces
+  rendering:
+    technique: digital painting with some photobash
+    texture: smooth with textured brushes for atmosphere
+    detailLevel: high in focal points (tech details), looser elsewhere
+    finish: polished, cinematic look
+  perspective: dynamic perspective (wide-angle vistas or low-angle hero shots)
+  mood:
+    overall: epic, futuristic, adventurous
+    emotion: awe, excitement, curiosity
+    tempo: dynamic, energetic
+    keywords:
+    - futuristic
+    - epic
+    - cinematic
+    - detailed
+    - atmospheric
+  stylePrecedents:
+  - Syd Mead (futurist designer)
+  - Blade Runner concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

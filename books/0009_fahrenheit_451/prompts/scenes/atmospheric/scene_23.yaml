@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Dense Fog Limiting Visibility"
+  setting:
+    time: "2053, dense fog creating mysterious conditions, limited visibility"
+    location: "Suburban American neighborhood in dystopian future, empty streets with scattered houses"
+    weather: "Thick fog, mysterious shapes, soft edges eliminating definition"
+  characters:
+    - appearance: "Man, early 30s, dark hair, athletic build, strong jawline, expressive eyes showing internal conflict"
+      clothing: "Black fireman's uniform with brass buttons and badges, heavy boots, salamander emblem on chest"
+      position: "Standing or walking with purpose, carrying equipment or books"
+      action: "Moving with determination, examining objects, or in contemplative pose"
+  scene:
+    mainElements: "Suburban houses with electronic windows, fog reducing visibility, mysterious atmosphere"
+    details: "Dense fog limiting visibility to just a few meters, street lamps creating soft glowing halos, house shapes barely visible as mysterious silhouettes, figure moving carefully through limited visibility, Forbidden literature concealed in walls, gardens, or secret spaces, representing preserved knowledge and resistance to censorship partially visible through fog, no text or letters visible"
+    background: "Empty suburban streets, identical houses, fog-obscured environment"
+    atmosphere: "Mystery and concealment, natural conditions providing cover for hidden activities, uncertainty and careful movement"
+  composition:
+    cameraAngle: "Medium shot emphasizing limited visibility and atmospheric effects"
+    focus: "Figure moving cautiously through fog-obscured suburban landscape"
+    depth: "Foreground: fog-diffused street elements, middle ground: figure in limited visibility, background: mysterious house shapes in dense fog"

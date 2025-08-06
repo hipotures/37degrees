@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: Late 1800s Congress Poland, blue hour in autumn, last orange on horizon with deep blue sky
+    location: Polish peasant village in Congress Poland under Russian partition, Mazovian countryside near Skierniewice, late
+      1800s rural settlement with wooden houses and dirt roads
+    weather: Clear evening with perfect blue hour light, first stars appearing, still air
+  characters:
+  - appearance: Woman, late 40s, graying brown hair, stocky build, short stature, calculating gray eyes, weathered face with
+      permanent worry lines
+    clothing: Dark wool dress with worn patches, black headscarf, thick woolen shawl, practical boots, small silver cross
+      necklace
+    position: Walking slowly along village road carrying oil lamp
+    action: Moving carefully in gathering dusk, lamp casting small circle of light, glancing toward cottages with warm windows
+  scene:
+    mainElements: Traditional wooden cottages with thatched roofs, central village square with well, small wooden church with
+      bell tower, unpaved dirt roads, wooden fences separating properties
+    details: Deep blue sky with last orange on horizon, first lights appearing in cottage windows, oil lamps beginning to
+      glow inside homes, church tower appearing mysterious against darkening sky, first stars becoming visible, shadows merging
+      into darkness, magical in-between time when day becomes night
+    background: Forest edge now completely dark, more cottage windows beginning to glow, church tower silhouetted against
+      star-studded sky
+    atmosphere: Intimate rural community where everyone knows each other's business, governed by seasonal agricultural rhythms
+      and Catholic traditions, magical transition time between day and night, peaceful village settling into evening routines
+  composition:
+    cameraAngle: Wide shot emphasizing vast darkening sky and small pool of lamp light
+    focus: Beautiful blue hour light creating magical atmosphere, small human light against vast darkness
+    depth: Foreground shows village road with walking figure and lamp light, middle ground features cottage windows beginning
+      to glow, background shows deep blue sky with emerging stars
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    - paper white
+    - single color ink
+    secondary:
+    - sepia brown
+    - dark red
+    - deep blue
+    background: paper color or simple color
+    usageNotes: Limited colors, usually monochromatic or few colors
+    saturation: medium (ink colors)
+    contrast: very high (carved vs uncarved areas)
+  lineArt:
+    style: bold carved lines following wood grain
+    weight: varies with carving tool, generally bold
+    color: ink color (usually black)
+    texture: rough carved texture, wood grain visible
+    edgeTreatment: rough, hand-carved edges
+  lighting:
+    type: simplified lighting through carved areas
+    direction: basic light indication
+    intensity: high contrast (lit vs shadow areas)
+    shadows:
+      style: solid carved areas (black ink)
+      color: ink color
+      opacity: solid
+    highlights: uncarved areas (paper color)
+  rendering:
+    technique: relief printing from carved wooden block
+    texture: wood grain texture, printing irregularities
+    detailLevel: moderate (limited by carving technique)
+    finish: matte ink on paper
+  perspective: simple, often flattened perspective
+  mood:
+    overall: bold, traditional, handcrafted
+    emotion: strength, tradition, craftsmanship
+    tempo: solid, grounded
+    keywords:
+    - bold
+    - traditional
+    - handcrafted
+    - strong
+    - rustic
+  stylePrecedents:
+  - Japanese ukiyo-e prints
+  - German Expressionist woodcuts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Blue Hour Magical Transition"
+  setting:
+    time: "2053, blue hour transition, deep blue sky with last orange on horizon"
+    location: "Urban streets in dystopian American city, designed for speed and efficiency"
+    weather: "Clear evening, magical in-between time, first lights appearing"
+  characters:
+    - appearance: "Young woman, 17 years old, pale complexion, bright curious eyes, delicate features, questioning expression"
+      clothing: "Simple white dress or light colored clothing, no makeup, natural appearance"
+      position: "Walking outdoors, sitting on steps, or in natural poses"
+      action: "Observing nature, asking questions, touching flowers or natural elements"
+  scene:
+    mainElements: "Wide empty streets, fast-moving vehicles, minimal pedestrians, electronic billboards"
+    details: "Deep blue sky with thin orange line at horizon, street lamps beginning to glow creating warm pools of light, electronic billboards starting their evening cycle, figure pausing to observe the transformation between day and night, magical quality of light creating ethereal atmosphere, no text or letters visible"
+    background: "Tall buildings, electronic signs, jet aircraft overhead, sterile architecture"
+    atmosphere: "Magical transition time, contrast between technological harshness and natural beauty, sense of wonder despite urban sterility"
+  composition:
+    cameraAngle: "Wide shot capturing both sky transition and street level activity"
+    focus: "Small figure observing magical blue hour transformation"
+    depth: "Foreground: illuminated street elements, middle ground: observing figure, background: deep blue sky with orange horizon line"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Heavy Air Before the Storm"
+  setting:
+    time: "2053, approaching storm fronts, heavy air before rain"
+    location: "Suburban American neighborhood in dystopian future, empty streets with scattered houses"
+    weather: "Storm approaching, heavy oppressive air, birds flying low"
+  characters:
+    - appearance: "Woman, late 20s, blonde hair, vacant expression, thin build, hollow-looking eyes"
+      clothing: "Modern comfortable clothes, seashell ear radios visible, artificial appearance"
+      position: "Sitting in front of parlor walls or lying down, disconnected posture"
+      action: "Watching screens, adjusting ear radios, or in mindless activities"
+  scene:
+    mainElements: "Suburban houses with electronic windows, storm clouds gathering, atmospheric pressure"
+    details: "Dark storm clouds building on horizon, birds flying unusually low across empty streets, Tiny wireless earphone devices, constant stream of music and entertainment, worn continuously for mental distraction creating small glowing points, leaves and debris beginning to stir in pre-storm wind, oppressive atmospheric pressure, no text or letters visible"
+    background: "Empty suburban streets, identical houses, storm approaching from distance"
+    atmosphere: "Tension building, natural forces contrasting with artificial human environment, electronic isolation despite approaching weather"
+  composition:
+    cameraAngle: "Medium shot through window, showing both interior and approaching storm"
+    focus: "Figure absorbed in artificial entertainment while natural drama builds outside"
+    depth: "Foreground: interior with electronic devices, middle ground: figure at window, background: storm clouds and dark sky"

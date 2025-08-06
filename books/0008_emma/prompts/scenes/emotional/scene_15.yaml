@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Emotional Whiplash of Recognition"
+  setting:
+    time: "Early 1800s England, evening"
+    location: "Large Georgian manor house in Surrey village of Highbury, England, surrounded by extensive landscaped grounds and gardens"
+    weather: "Clearing storm with dramatic light breaking through"
+  characters:
+    - appearance: "Young woman, early twenties, blonde hair in fashionable Regency curls, bright intelligent eyes, handsome features, tall slender build, confident posture"
+      clothing: "Fine white muslin morning dress with high waist, delicate embroidered shawl, silk slippers, pearl jewelry appropriate to wealthy gentry"
+      position: "Caught between light and shadow in doorway, one hand reaching forward, one pulling back"
+      action: "Face showing rapid emotional transition, eyes wide with sudden understanding of own heart"
+  scene:
+    mainElements: "Elegant drawing room with tall windows, fine furniture, portraits on walls, blazing fireplace"
+    details: "Comfortable wealthy domestic sphere, refined genteel English country living, but light streaming through windows creates stark division between bright and dark areas of room, mirrors reflecting fragmented images, half the room in warm firelight, half in cool evening shadow"
+    background: "Garden visible through windows showing aftermath of storm, some branches broken, others glistening with rain"
+    atmosphere: "Moment of devastating self-recognition splitting consciousness between past blindness and present sight, no text or letters visible"
+  composition:
+    cameraAngle: "Close-up emphasizing dramatic lighting contrast across face and figure"
+    focus: "Expression caught between conflicting emotions and sudden revelation"
+    depth: "Foreground dramatic light/shadow division, middle ground figure in transition, background storm-cleared garden"

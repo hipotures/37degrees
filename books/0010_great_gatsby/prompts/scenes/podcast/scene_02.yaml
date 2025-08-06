@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Buchanan Estate - Old Money Sanctuary"
+  setting:
+    time: "Summer 1922, Long Island, early evening"
+    location: "Georgian Colonial mansion in East Egg, Long Island, New York, across the bay from West Egg"
+    weather: "Gentle evening breeze with clear skies"
+  characters:
+    - appearance: "No people visible in this establishing shot"
+      clothing: ""
+      position: ""
+      action: ""
+  scene:
+    mainElements: "Red brick facade with white columns, French windows, rose garden, private beach, long green lawn running to water"
+    details: "Old money elegance, established privilege, restrained luxury. Symmetrical Georgian architecture with pristine white columns and perfectly proportioned windows, immaculate rose garden with climbing vines on trellises, emerald green lawn stretching to private shoreline, stone pathway lined with boxwood hedges, wrought iron garden furniture arranged on terrace, weathered dock extending into bay waters. No text or letters visible."
+    background: "Manhasset Bay with West Egg visible across the water, sailboats anchored in distance, Long Island Sound beyond"
+    atmosphere: "Serene establishment wealth, understated but absolute power, timeless privilege that contrasts sharply with new money ostentation across the bay"
+  composition:
+    cameraAngle: "Wide shot from water's edge looking up toward mansion"
+    focus: "The stately Georgian mansion with its perfect proportions and established grandeur"
+    depth: "Foreground shows private beach and dock, middle ground captures expansive lawn and mansion, background reveals bay and distant West Egg shoreline"

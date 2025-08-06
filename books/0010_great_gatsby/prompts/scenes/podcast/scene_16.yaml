@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Aftermath - George Wilson's Devastation"
+  setting:
+    time: "Summer 1922, evening after sunset"
+    location: "Small auto repair shop in Valley of Ashes, Corona, Queens"
+    weather: "Oppressive summer evening with gathering darkness and dust settling"
+  characters:
+    - appearance: "Man, late 30s, light brown thinning hair, thin build, pale complexion, exhausted expression, stubbled face"
+      clothing: "Worn gray work coveralls with oil stains, dirty white undershirt visible, worn brown work boots"
+      position: "Slumped shoulders, hands hanging limply at sides, defeated stance"
+      action: "Kneeling beside covered form on ground, head in hands, body shaking with grief and shock"
+  scene:
+    mainElements: "Weathered wooden structure, gas pumps outside, grimy windows, scattered auto parts, apartment above garage"
+    details: "Scene of absolute devastation and loss in poverty-stricken garage, man's world completely shattered, automobile parts scattered like broken dreams, oil stains on concrete now mixed with different darkness, evening shadows lengthening across industrial wasteland. Tools of his trade rendered meaningless in face of ultimate tragedy. Distant sound of approaching cars and voices. No text or letters visible."
+    background: "Faded billboard with enormous eyes of Doctor T.J. Eckleburg wearing yellow spectacles watching over scene, industrial smokestacks silhouetted against darkening sky"
+    atmosphere: "Complete devastation and loss, working man's world destroyed by forces beyond his control, sense of cosmic injustice under watching eyes"
+  composition:
+    cameraAngle: "Medium shot emphasizing the man's grief against industrial backdrop"
+    focus: "The broken man in his moment of ultimate loss and devastation"
+    depth: "Foreground shows scattered tools and garage debris, middle ground captures grieving figure, background dominated by watching billboard eyes in gathering darkness"

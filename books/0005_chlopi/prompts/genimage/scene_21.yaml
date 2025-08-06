@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: Late 1800s Congress Poland, early spring morning, seasonal transition from winter to spring
+    location: Cultivated farmlands surrounding Lipce village in Mazovian plains of Congress Poland, open fields stretching
+      to forest edge
+    weather: Cool spring morning with melting snow, first warm breeze, dramatic seasonal change
+  characters:
+  - appearance: Man, late 20s, dark brown hair, athletic muscular build, tall stature like his father, intense dark eyes,
+      clean-shaven face with strong jawline
+    clothing: White linen shirt often partially unbuttoned, dark wool vest, sturdy work trousers, leather boots, rolled sleeves
+      showing strong forearms
+    position: Kneeling in field examining new growth
+    action: Touching emerging green shoots with gentle fingers, face showing wonder at spring's return, breathing in fresh
+      air
+  scene:
+    mainElements: Divided plots of wheat, rye, and barley fields, wooden plows and farming tools, hay stacks, stone field
+      boundaries, dirt paths between properties
+    details: Same location showing dramatic seasonal shift - patches of melting snow revealing brown earth, first green buds
+      appearing on bare trees, tiny spring flowers pushing through last snow, wooden fence posts now showing signs of new
+      growth, fresh mud from snowmelt, birds returning with first spring songs, air smelling of earth and new growth
+    background: Forest edge showing first signs of spring green, village cottages with smoke rising from chimneys, church
+      tower standing against clearing spring sky
+    atmosphere: Sacred agricultural landscape that defines peasant identity, constantly changing with seasonal work cycles,
+      powerful moment of seasonal rebirth and renewal, hope and anticipation after long winter, cyclical return of life and
+      agricultural possibility
+  composition:
+    cameraAngle: Close-up shot emphasizing new growth emerging from winter landscape
+    focus: Seasonal transformation made visible through emerging life, human figure connected to natural renewal
+    depth: Foreground shows new green shoots emerging from soil, middle ground features kneeling figure examining growth,
+      background shows landscape awakening from winter
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    - paper white
+    - single color ink
+    secondary:
+    - sepia brown
+    - dark red
+    - deep blue
+    background: paper color or simple color
+    usageNotes: Limited colors, usually monochromatic or few colors
+    saturation: medium (ink colors)
+    contrast: very high (carved vs uncarved areas)
+  lineArt:
+    style: bold carved lines following wood grain
+    weight: varies with carving tool, generally bold
+    color: ink color (usually black)
+    texture: rough carved texture, wood grain visible
+    edgeTreatment: rough, hand-carved edges
+  lighting:
+    type: simplified lighting through carved areas
+    direction: basic light indication
+    intensity: high contrast (lit vs shadow areas)
+    shadows:
+      style: solid carved areas (black ink)
+      color: ink color
+      opacity: solid
+    highlights: uncarved areas (paper color)
+  rendering:
+    technique: relief printing from carved wooden block
+    texture: wood grain texture, printing irregularities
+    detailLevel: moderate (limited by carving technique)
+    finish: matte ink on paper
+  perspective: simple, often flattened perspective
+  mood:
+    overall: bold, traditional, handcrafted
+    emotion: strength, tradition, craftsmanship
+    tempo: solid, grounded
+    keywords:
+    - bold
+    - traditional
+    - handcrafted
+    - strong
+    - rustic
+  stylePrecedents:
+  - Japanese ukiyo-e prints
+  - German Expressionist woodcuts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

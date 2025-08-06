@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: Early 1800s England, late afternoon
+    location: Ancient abbey converted to gentleman's estate in Surrey countryside, stone buildings with medieval foundations
+    weather: Golden autumn afternoon with warm slanting light
+  characters:
+  - appearance: Young woman, early twenties, blonde hair in fashionable Regency curls, bright intelligent eyes, handsome features,
+      tall slender build, confident posture
+    clothing: Fine white muslin morning dress with high waist, delicate embroidered shawl, silk slippers, pearl jewelry appropriate
+      to wealthy gentry
+    position: Standing in doorway between interior and garden, hand on threshold
+    action: Stepping forward into golden light with expression of quiet joy and new understanding
+  - appearance: Man in his mid-thirties, dark brown hair, strong jaw, serious thoughtful expression, tall athletic build,
+      dignified bearing
+    clothing: Dark blue tailcoat with brass buttons, buff-colored waistcoat, white cravat, riding boots or formal leather
+      shoes
+    position: Standing in garden holding out hand in invitation
+    action: Smiling with gentle welcome, offering partnership rather than judgment
+  scene:
+    mainElements: Grand entrance hall, library with leather-bound books, fruit gardens with strawberry beds, old stone terraces
+    details: Dignified ancestral seat representing old English landed gentry tradition, ancient stones witnessing new beginning,
+      afternoon light golden on medieval walls, fruit trees heavy with autumn harvest, sense of continuity joined with transformation,
+      threshold between old understanding and new
+    background: Surrey countryside in autumn glory, rolling hills extending to horizon
+    atmosphere: New beginning built on solid foundation, wisdom earned through suffering, door opening to transformed future,
+      no text or letters visible
+  composition:
+    cameraAngle: Wide shot emphasizing threshold and movement toward light
+    focus: Figure crossing threshold into new phase of existence and understanding
+    depth: Foreground interior shadows, middle ground figure at threshold, background golden garden and countryside
+visualElements:
+  colorPalette:
+    primary:
+    - pale pink
+    - powder blue
+    - cream white
+    secondary:
+    - gold leaf
+    - soft lavender
+    - mint green
+    background: elegant interior settings or pastoral landscapes
+    usageNotes: Soft, refined pastel colors with gold accents
+    saturation: low to medium (delicate, refined)
+    contrast: low (soft, harmonious)
+  lineArt:
+    style: delicate, flowing curves
+    weight: light, graceful lines
+    color: soft, subtle outlines
+    texture: smooth, refined finish
+    edgeTreatment: soft, curved edges
+  lighting:
+    type: soft, diffused lighting
+    direction: gentle, flattering illumination
+    intensity: soft, never harsh
+    shadows:
+      style: soft, delicate shadows
+      color: light grays and pastels
+      opacity: very light
+    highlights: gentle, pearlescent highlights
+  rendering:
+    technique: smooth oil painting with fine detail
+    texture: silk, porcelain, delicate fabrics
+    detailLevel: high (ornate decorative details)
+    finish: smooth, polished finish
+  perspective: intimate, human scale
+  mood:
+    overall: elegant, refined, leisurely
+    emotion: pleasure, refinement, grace
+    tempo: leisurely, graceful
+    keywords:
+    - elegant
+    - refined
+    - graceful
+    - delicate
+    - aristocratic
+  stylePrecedents:
+  - Antoine Watteau paintings
+  - Fragonard romantic scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

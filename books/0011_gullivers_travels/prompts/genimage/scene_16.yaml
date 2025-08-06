@@ -1,0 +1,95 @@
+sceneDescription:
+  setting:
+    time: Afternoon, 1706, during residence on floating island
+    location: Circular flying island four miles in diameter, floating above the continent of Balnibarbi
+    weather: Clear afternoon with view of lands far below
+  characters:
+  - appearance: Man, early 40s, brown hair tied back in queue, weathered face from sea voyages, average height, lean build
+      from travels
+    clothing: Dark blue wool coat with brass buttons, white linen shirt with ruffled collar, brown leather breeches, black
+      buckled shoes, tricorn hat
+    position: Standing upright with observant stance, hands clasped behind back, alert expression
+    action: Observing bizarre customs of floating island inhabitants, trying to engage with completely distracted philosophers
+      who ignore earthly concerns
+  - appearance: Man, 30s, unkempt black hair, distracted expression with eyes looking upward, thin build, pale complexion
+    clothing: Silk robes covered in mathematical symbols and musical notes, crooked hat, mismatched shoes
+    position: Head tilted at odd angle, one eye looking up, one looking down, absent-minded stance
+    action: Lost in abstract mathematical contemplation, completely unaware of Gulliver's presence despite standing nearby
+  - appearance: Young man, 20s, alert expression, quick movements, average build, attentive eyes
+    clothing: Simple gray tunic, leather belt with inflated bladder attached, soft shoes for quiet movement
+    position: Ready stance with bladder raised to gently strike, watching master carefully
+    action: Gently tapping nobleman with inflated bladder to bring his attention back to earthly matters and present conversation
+  scene:
+    mainElements: Floating island with astronomical instruments everywhere, buildings with odd angles, no right angles in
+      architecture
+    details: Massive magnetic rock at island's center, six yards long, polished surface, mounted in metal frame with controls
+      allowing island to float and move, various telescopes and mathematical instruments, geometric patterns carved into stone
+      floors, inhabitants so absorbed in theoretical calculations they walk into walls, servants with inflated bladders constantly
+      attending to redirect their masters' attention, view of continent far below through gaps in clouds, no text or letters
+      visible
+    background: Surreal floating city architecture with impossible angles, sky and clouds surrounding island, distant view
+      of earthbound continent below
+    atmosphere: Otherworldly intellectual detachment, surreal atmosphere of pure theory divorced from practical reality, constant
+      danger of walking off edges
+  composition:
+    cameraAngle: Wide shot showing peculiar architecture and floating island setting
+    focus: Gulliver attempting communication with completely distracted Laputan nobleman while flapper servant intervenes
+    depth: 'Foreground: Gulliver and Laputan interaction, middle: architectural details and instruments, background: sky and
+      distant lands below'
+visualElements:
+  colorPalette:
+    primary:
+    - warm oranges
+    - sky blues
+    - sunset reds
+    - palm greens
+    secondary:
+    - sand beige
+    - ocean turquoise
+    - golden yellow
+    background: gradient skies, solid color blocks
+    usageNotes: Limited palette, 3-5 colors maximum, screen-printed look
+    saturation: high
+    contrast: strong
+  lineArt:
+    style: clean, simplified
+    weight: bold, uniform
+    color: darker shade of base colors
+    texture: smooth, graphic
+    edgeTreatment: crisp, stylized
+  lighting:
+    type: idealized, perpetual golden hour
+    direction: dramatic side or back lighting
+    intensity: warm, inviting
+    shadows:
+      style: simplified, graphic
+      color: darker tone of base color
+      opacity: solid color blocks
+    highlights: bright, optimistic
+  rendering:
+    technique: flat color with minimal gradients
+    texture: slight paper texture
+    detailLevel: simplified, iconic elements only
+    finish: lithograph or screen print appearance
+  perspective: dramatic angles, heroic viewpoints
+  mood:
+    overall: adventurous, romantic, optimistic
+    emotion: wanderlust, excitement, nostalgia
+    tempo: dynamic yet timeless
+    keywords:
+    - adventurous
+    - romantic
+    - exotic
+    - inviting
+    - nostalgic
+  stylePrecedents:
+  - Roger Broders
+  - David Klein
+  - Art Deco posters
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

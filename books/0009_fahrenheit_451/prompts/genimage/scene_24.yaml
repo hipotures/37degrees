@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: 2053, after storm clearing, sun breaking through clouds
+    location: Rural wooded area outside dystopian city, natural setting by river
+    weather: Storm just ended, rainbow appearing, fresh-washed world
+  characters:
+  - appearance: Middle-aged man, 50s, weathered face, kind eyes, intellectual bearing, calm demeanor
+    clothing: Practical outdoor clothing, worn but clean, earth-toned colors
+    position: By campfire, walking through nature, or with group of exiles
+    action: Tending fire, sharing knowledge, or guiding others
+  scene:
+    mainElements: Campfire, simple shelters, natural surroundings, group of intellectual exiles
+    details: Brilliant rainbow arcing across clearing sky, puddles reflecting blue sky and rainbow colors, fresh clean air
+      after storm cleansing, water droplets on leaves catching sunlight, figure standing in wonder at natural beauty, campfire
+      smoke rising straight up in still post-storm air, no text or letters visible
+    background: Trees, river, star-filled sky, distant city glow on horizon
+    atmosphere: Hope and renewal after destruction, natural beauty restored, clean fresh beginning, wonder at nature's resilience
+  composition:
+    cameraAngle: Wide shot capturing rainbow and post-storm landscape
+    focus: Figure experiencing natural wonder and renewal after storm
+    depth: 'Foreground: puddles and fresh vegetation, middle ground: figure in natural setting, background: rainbow and clearing
+      sky'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

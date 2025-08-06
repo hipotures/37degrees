@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Paternal Devotion and Domestic Comfort"
+  setting:
+    time: "Early 1800s England, evening"
+    location: "Large Georgian manor house in Surrey village of Highbury, England, surrounded by extensive landscaped grounds and gardens"
+    weather: "Clear evening with stars beginning to appear"
+  characters:
+    - appearance: "Young woman, early twenties, blonde hair in fashionable Regency curls, bright intelligent eyes, handsome features, tall slender build, confident posture"
+      clothing: "Fine white muslin morning dress with high waist, delicate embroidered shawl, silk slippers, pearl jewelry appropriate to wealthy gentry"
+      position: "Sitting close beside elderly gentleman's chair, hand resting gently on his arm"
+      action: "Reading aloud from book with patient affectionate expression, occasionally glancing up with tender concern"
+    - appearance: "Elderly gentleman in his sixties, gray hair thinning, anxious worried expression, frail thin build, nervous gestures"
+      clothing: "Dark wool coat, warm waistcoat, white neck cloth, comfortable indoor slippers, often wrapped in shawl"
+      position: "Settled in comfortable armchair beside fireplace"
+      action: "Listening peacefully with closed eyes, occasionally nodding with contentment"
+  scene:
+    mainElements: "Elegant drawing room with tall windows, fine furniture, portraits on walls, blazing fireplace"
+    details: "Warm glow from fireplace casting dancing shadows on walls, comfortable wealthy domestic sphere, refined genteel English country living, tea service on side table, soft cushions arranged for maximum comfort, evening candles beginning to flicker to life"
+    background: "Family portraits watching over peaceful evening scene, windows showing darkening garden"
+    atmosphere: "Perfect filial devotion and mutual dependence, protective love in secure domestic cocoon, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot capturing intimate family scene by firelight"
+    focus: "Two figures united in evening ritual of care and companionship"
+    depth: "Foreground glowing hearth, middle ground seated figures, background portraits and windows"

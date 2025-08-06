@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Blizzard Conditions - Nature's Extreme"
+  setting:
+    time: "2053, blizzard conditions, nature at its most dramatic"
+    location: "Municipal fire station in dystopian American city, converted for book-burning operations"
+    weather: "Heavy blizzard, wind-driven snow, extreme weather conditions"
+  characters:
+    - appearance: "Man, 40s, commanding presence, intelligent but cynical eyes, well-built, authoritative bearing"
+      clothing: "Fire chief uniform with more elaborate insignia, clean and pressed, leadership badges"
+      position: "Standing with authority, behind desk, or addressing others"
+      action: "Speaking with intensity, demonstrating authority, or manipulating situations"
+  scene:
+    mainElements: "Salamander fire trucks, kerosene tanks, burning equipment, firemen's quarters"
+    details: "Heavy snow driving horizontally past station windows, wind howling around institutional building, figure standing inside looking out at nature's power, Heavy brass flame-thrower device, connected to fuel tank, designed for burning books and buildings, serpentine hoses covered with snow drifts, artificial lighting harsh against white storm, no text or letters visible"
+    background: "Red fire engines, brass poles, lockers, maps of city districts"
+    atmosphere: "Nature demonstrating power over human institutions, mechanical efficiency challenged by weather extremes, institutional authority questioned by natural forces"
+  composition:
+    cameraAngle: "Medium shot through window showing contrast between interior control and exterior chaos"
+    focus: "Authority figure confronting limits of institutional power against nature"
+    depth: "Foreground: interior institutional elements, middle ground: figure at window, background: violent blizzard conditions"

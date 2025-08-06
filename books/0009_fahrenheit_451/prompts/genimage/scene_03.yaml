@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 2053, early morning, mist lifting to reveal urban landscape
+    location: Urban streets in dystopian American city, designed for speed and efficiency
+    weather: Misty morning, dew on surfaces, fog lifting as sun rises
+  characters:
+  - appearance: Young woman, 17 years old, pale complexion, bright curious eyes, delicate features, questioning expression
+    clothing: Simple white dress or light colored clothing, no makeup, natural appearance
+    position: Walking outdoors, sitting on steps, or in natural poses
+    action: Observing nature, asking questions, touching flowers or natural elements
+  scene:
+    mainElements: Wide empty streets, fast-moving vehicles, minimal pedestrians, electronic billboards
+    details: Dew collecting on spider webs between concrete structures, steam rising from storm drains, early morning puddles
+      reflecting pink-orange sky, single figure examining small plants growing through sidewalk cracks, geometric shadows
+      from street architecture, no text or letters visible
+    background: Tall buildings, electronic signs, jet aircraft overhead, sterile architecture
+    atmosphere: Rushed, impersonal, dominated by technology and speed, with touches of natural beauty persisting despite urban
+      sterility
+  composition:
+    cameraAngle: Low angle from street level, emphasizing scale of urban environment
+    focus: Small human figure discovering nature within technological landscape
+    depth: 'Foreground: wet pavement and plants, middle ground: walking figure, background: towering buildings and morning
+      sky'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

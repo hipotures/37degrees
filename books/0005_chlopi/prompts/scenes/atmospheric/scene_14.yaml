@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Windows Reflecting Fire of Sunset"
+  setting:
+    time: "Late 1800s Congress Poland, sunset in autumn, windows catching orange light"
+    location: "Large wooden peasant cottage in Lipce village, Congress Poland, main residence of wealthiest farming family in village"
+    weather: "Clear autumn evening with brilliant orange sunset, cool air settling"
+  characters:
+    - appearance: "Man, late 20s, dark brown hair, athletic muscular build, tall stature like his father, intense dark eyes, clean-shaven face with strong jawline"
+      clothing: "White linen shirt often partially unbuttoned, dark wool vest, sturdy work trousers, leather boots, rolled sleeves showing strong forearms"
+      position: "Standing outside cottage looking at glowing windows"
+      action: "Watching sunset reflection in windows, hands in pockets, expression thoughtful and melancholy, breath visible in cooling air"
+  scene:
+    mainElements: "Spacious log construction with thatched roof, multiple rooms including main living area with large stove, separate sleeping chambers, well-maintained wooden furniture, religious icons on walls"
+    details: "Cottage windows blazing like fire with reflected sunset, orange light streaming from interior oil lamps mixing with natural sunset glow, wooden walls appearing golden in evening light, smoke rising from chimney creating peaceful domestic scene, shadows lengthening dramatically across cottage yard, religious icons visible through windows catching light"
+    background: "Village cottages also glowing with sunset reflections, church tower dark against orange sky, forest edge silhouetted black"
+    atmosphere: "Prosperous but traditional peasant home, center of family power and conflicts, warm interior lit by oil lamps and fire, peaceful end-of-day feeling contrasting with internal family tensions, domestic beauty masking deeper conflicts"
+  composition:
+    cameraAngle: "Medium shot showing figure silhouetted against glowing cottage windows"
+    focus: "Windows blazing with sunset reflection creating dramatic lighting, thoughtful figure contemplating home and family"
+    depth: "Foreground shows cottage yard with lengthening shadows, middle ground features standing figure, background shows cottage with blazing windows"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Palace Corridors Lit by Night Security"
+  setting:
+    time: "Evening on Arrakis, night security lighting activated throughout palace"
+    location: "Ancient fortress palace in Arrakeen city on harsh desert world with endless sand dunes, twin suns, and extreme heat, massive stone architecture built for desert climate"
+    weather: "Cool night air circulating through palace corridors"
+  characters:
+    - appearance: "Woman in her 30s, auburn hair, striking green eyes, elegant aristocratic features, graceful build"
+      clothing: "Bene Gesserit robes in earth tones, or elegant court dress appropriate for ducal consort"
+      position: "Walking through palace corridor lit by security lighting"
+      action: "Moving quietly through nighttime palace while others sleep"
+  scene:
+    mainElements: "Towering walls of desert sandstone, carved archways, ceremonial halls with high ceilings, defensive battlements"
+    details: "Security lights creating pools of illumination along stone corridor. Mix of artificial lighting with deep shadows between light sources. Stone architecture taking on different character in night lighting. Corridor empty except for security presence. Cool air creating pleasant relief after day's heat."
+    background: "Long palace corridors extending into darkness beyond light pools"
+    atmosphere: "Austere grandeur adapted to harsh desert environment, shadows providing relief from heat"
+  composition:
+    cameraAngle: "Corridor view with alternating light and shadow pools"
+    focus: "Figure moving between pools of security lighting"
+    depth: "Light patterns in foreground, walking figure in middle ground, dark corridor depths in background"

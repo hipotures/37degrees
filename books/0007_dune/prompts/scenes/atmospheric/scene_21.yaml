@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Seasonal Shift in Spice Harvesting"
+  setting:
+    time: "Seasonal transition on Arrakis, atmospheric conditions changing harvest operations"
+    location: "Industrial spice extraction site in desert of harsh world with endless golden dunes and twin blazing suns, heavy machinery operating on spice-rich sand"
+    weather: "Shifting seasonal winds affecting spice extraction and visibility"
+  characters:
+    - appearance: "Adult Fremen, weather-beaten dark skin, distinctive blue-within-blue eyes from spice exposure, lean muscular build"
+      clothing: "Desert stillsuit with breathing apparatus, sand-colored robes, utility belt with water and weapons"
+      position: "Operating harvesting equipment adapted for seasonal conditions"
+      action: "Adjusting machinery for changed atmospheric conditions while monitoring spice flow"
+  scene:
+    mainElements: "Massive harvesting equipment, ornithopter aircraft, spice deposits glowing orange, workers in protective gear"
+    details: "Harvesting equipment modified for seasonal atmospheric changes. Spice deposits appearing different under changed lighting conditions. Wind patterns affecting extraction operations and dust clouds. Equipment surfaces showing wear from seasonal weather variations. Workers adapting techniques to seasonal conditions."
+    background: "Desert landscape showing subtle seasonal atmospheric variations"
+    atmosphere: "Industrial urgency against natural desert backdrop, constant threat of sandworm attack"
+  composition:
+    cameraAngle: "Industrial site view showing seasonal operational adaptations"
+    focus: "Figure working with seasonally-adapted harvesting equipment"
+    depth: "Modified machinery in foreground, working figure in middle ground, seasonally-changed desert in background"

@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Dawn, 1700, misty morning
+    location: Small harbor on Lilliput coast, away from capital city
+    weather: Early morning mist over calm water, gentle breeze
+  characters:
+  - appearance: Man, early 40s, brown hair tied back in queue, weathered face from sea voyages, average height, lean build
+      from travels
+    clothing: Dark blue wool coat with brass buttons, white linen shirt with ruffled collar, brown leather breeches, black
+      buckled shoes, tricorn hat
+    position: Wading into shallow water toward small boat
+    action: Carrying provisions and leather-bound book with weather-stained pages, quill pen and ink pot, navigation charts,
+      sealed with wax, moving stealthily toward escape vessel
+  scene:
+    mainElements: Small boat suitable for ocean voyage, morning mist creating concealment, gentle waves lapping at shore
+    details: Gulliver making clandestine departure from Lilliput, small sailing vessel anchored in shallow water, provisions
+      loaded for sea voyage, mist providing natural cover for escape, distant view of miniature city barely visible through
+      fog, seabirds beginning morning calls, peaceful water reflecting early light, brass telescope secured in boat, charts
+      and navigation equipment prepared, sense of secretive departure and new adventure beginning, no text or letters visible
+    background: Misty Lilliputian coastline with tiny city spires barely visible in distance, calm ocean extending toward
+      horizon
+    atmosphere: Stealthy departure with sense of escape and new journey beginning, peaceful morning calm contrasting with
+      political tension left behind
+  composition:
+    cameraAngle: Wide shot from shore showing Gulliver's departure toward ocean
+    focus: Gulliver wading toward boat with Lilliput disappearing in mist behind
+    depth: 'Foreground: shallow water and departing figure, middle: escape boat, background: misty coastline and ocean'
+visualElements:
+  colorPalette:
+    primary:
+    - warm oranges
+    - sky blues
+    - sunset reds
+    - palm greens
+    secondary:
+    - sand beige
+    - ocean turquoise
+    - golden yellow
+    background: gradient skies, solid color blocks
+    usageNotes: Limited palette, 3-5 colors maximum, screen-printed look
+    saturation: high
+    contrast: strong
+  lineArt:
+    style: clean, simplified
+    weight: bold, uniform
+    color: darker shade of base colors
+    texture: smooth, graphic
+    edgeTreatment: crisp, stylized
+  lighting:
+    type: idealized, perpetual golden hour
+    direction: dramatic side or back lighting
+    intensity: warm, inviting
+    shadows:
+      style: simplified, graphic
+      color: darker tone of base color
+      opacity: solid color blocks
+    highlights: bright, optimistic
+  rendering:
+    technique: flat color with minimal gradients
+    texture: slight paper texture
+    detailLevel: simplified, iconic elements only
+    finish: lithograph or screen print appearance
+  perspective: dramatic angles, heroic viewpoints
+  mood:
+    overall: adventurous, romantic, optimistic
+    emotion: wanderlust, excitement, nostalgia
+    tempo: dynamic yet timeless
+    keywords:
+    - adventurous
+    - romantic
+    - exotic
+    - inviting
+    - nostalgic
+  stylePrecedents:
+  - Roger Broders
+  - David Klein
+  - Art Deco posters
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

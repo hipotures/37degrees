@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Gathering Clouds of Change"
+  setting:
+    time: "Early 1800s England, late afternoon"
+    location: "Large Georgian manor house in Surrey village of Highbury, England, surrounded by extensive landscaped grounds and gardens"
+    weather: "Clouds beginning to gather on horizon, wind picking up"
+  characters:
+    - appearance: "Young woman, early twenties, blonde hair in fashionable Regency curls, bright intelligent eyes, handsome features, tall slender build, confident posture"
+      clothing: "Fine white muslin morning dress with high waist, delicate embroidered shawl, silk slippers, pearl jewelry appropriate to wealthy gentry"
+      position: "Standing at tall window with hand pressed against glass"
+      action: "Gazing out with slight frown, sensing atmospheric change but not understanding its meaning"
+  scene:
+    mainElements: "Elegant drawing room with tall windows, fine furniture, portraits on walls, blazing fireplace"
+    details: "Shadows beginning to lengthen across previously bright rooms, comfortable wealthy domestic sphere, refined genteel English country living, curtains beginning to flutter with incoming breeze, some papers on desk stirring restlessly, afternoon light taking on different quality"
+    background: "Garden trees beginning to sway, storm clouds massing in distance over Surrey countryside"
+    atmosphere: "Subtle unease creeping into perfect world, change in the air that cannot be ignored, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from inside room looking toward figure at window"
+    focus: "Silhouetted figure against increasingly dramatic sky, first signs of disturbance"
+    depth: "Foreground comfortable interior, middle ground figure at window, background gathering storm"

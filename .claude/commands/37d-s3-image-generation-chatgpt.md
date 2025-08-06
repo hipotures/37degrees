@@ -186,6 +186,11 @@ UWAGA: Używaj MCP playwright-headless do automatyzacji
     - contenteditable div jest widoczne (visible: true) - tekst widoczny dla użytkownika
     - ZAWSZE używaj browser_evaluate() z contenteditable, NIGDY browser_type()
   - Projekt zostanie automatycznie otwarty po utworzeniu - nie trzeba dodatkowo klikać
+  - **CRITICAL dla oczyszczenia widoku:** Przed analizą struktury strony ukryj mylące elementy
+    - Ukryj sekcję "Add files" projektową (button zawierający "Chats in this project can access")
+    - Użyj browser_evaluate() z kodem: addFilesSection.style.display = 'none'
+    - To zapobiega błędnemu dołączaniu plików do projektu zamiast do chatu
+    - Wykonaj po nawigacji, przed snapshot/analizą struktury
 
   System statusów TODO-GENERATE.md:
   - [ ] [ ] - thread pending ⏳ + image pending ⏳ (NOT STARTED)

@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Early 1800s England, morning
+    location: Ancient abbey converted to gentleman's estate in Surrey countryside, stone buildings with medieval foundations
+    weather: Soft morning sun through dispersing clouds
+  characters:
+  - appearance: Young woman, early twenties, blonde hair in fashionable Regency curls, bright intelligent eyes, handsome features,
+      tall slender build, confident posture
+    clothing: Fine white muslin morning dress with high waist, delicate embroidered shawl, silk slippers, pearl jewelry appropriate
+      to wealthy gentry
+    position: Seated on stone bench, shoulders relaxed for first time
+    action: Speaking quietly with downcast eyes but peaceful expression, no longer defensive
+  - appearance: Man in his mid-thirties, dark brown hair, strong jaw, serious thoughtful expression, tall athletic build,
+      dignified bearing
+    clothing: Dark blue tailcoat with brass buttons, buff-colored waistcoat, white cravat, riding boots or formal leather
+      shoes
+    position: Seated nearby but not touching, leaning slightly forward
+    action: Listening with gentle attention, stern judgment replaced by compassionate concern
+  scene:
+    mainElements: Grand entrance hall, library with leather-bound books, fruit gardens with strawberry beds, old stone terraces
+    details: Dignified ancestral seat representing old English landed gentry tradition, ancient stones witnessing reconciliation,
+      morning light gentle on medieval walls, fruit trees showing new growth after storm damage, sense of endurance and continuity
+    background: Fruit gardens recovering from storm, Surrey countryside peaceful in morning light
+    atmosphere: Exhausted but genuine peace after conflict, understanding replacing judgment, breathing space after crisis,
+      no text or letters visible
+  composition:
+    cameraAngle: Medium shot showing new spatial relationship indicating reconciliation
+    focus: Changed dynamic between figures, tension replaced by gentle understanding
+    depth: Foreground stone terrace, middle ground reconciling figures, background recovering gardens
+visualElements:
+  colorPalette:
+    primary:
+    - pale pink
+    - powder blue
+    - cream white
+    secondary:
+    - gold leaf
+    - soft lavender
+    - mint green
+    background: elegant interior settings or pastoral landscapes
+    usageNotes: Soft, refined pastel colors with gold accents
+    saturation: low to medium (delicate, refined)
+    contrast: low (soft, harmonious)
+  lineArt:
+    style: delicate, flowing curves
+    weight: light, graceful lines
+    color: soft, subtle outlines
+    texture: smooth, refined finish
+    edgeTreatment: soft, curved edges
+  lighting:
+    type: soft, diffused lighting
+    direction: gentle, flattering illumination
+    intensity: soft, never harsh
+    shadows:
+      style: soft, delicate shadows
+      color: light grays and pastels
+      opacity: very light
+    highlights: gentle, pearlescent highlights
+  rendering:
+    technique: smooth oil painting with fine detail
+    texture: silk, porcelain, delicate fabrics
+    detailLevel: high (ornate decorative details)
+    finish: smooth, polished finish
+  perspective: intimate, human scale
+  mood:
+    overall: elegant, refined, leisurely
+    emotion: pleasure, refinement, grace
+    tempo: leisurely, graceful
+    keywords:
+    - elegant
+    - refined
+    - graceful
+    - delicate
+    - aristocratic
+  stylePrecedents:
+  - Antoine Watteau paintings
+  - Fragonard romantic scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

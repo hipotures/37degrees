@@ -1,0 +1,96 @@
+sceneDescription:
+  setting:
+    time: Summer 1922, sweltering hot afternoon
+    location: Luxury hotel suite at Plaza Hotel, Fifth Avenue and Central Park South, Manhattan
+    weather: Oppressively hot summer day with stifling heat even indoors
+  characters:
+  - appearance: Man, early 30s, dark brown hair slicked back, tall athletic build, clean-shaven, tanned skin, bright confident
+      smile
+    clothing: Pink suit with white shirt and silver tie, gold cufflinks, white Oxford shoes, gold pocket watch chain visible
+    position: Standing straight with perfect posture, one hand in pocket, other gesturing elegantly
+    action: Pacing tensely by window, gesturing emphatically in heated discussion, sweat visible on forehead from heat and
+      emotion
+  - appearance: Man, early 30s, dark hair parted severely, broad muscular build, square jaw, arrogant expression, imposing
+      height
+    clothing: Navy blue three-piece suit with gold watch chain, white shirt with stiff collar, burgundy tie, black Oxford
+      shoes
+    position: Aggressive stance with feet wide apart, chest thrust forward, hands on hips
+    action: Standing dominantly center room, pointing accusingly, cigar clenched between teeth, coat unbuttoned due to heat
+  - appearance: Woman, mid-20s, blonde bobbed hair with finger waves, delicate features, pale skin, red lipstick, slender
+      build
+    clothing: White chiffon dress with dropped waist, pearl necklace, white silk gloves, white T-bar shoes, diamond earrings
+    position: Languid reclining position, one hand touching her throat, dreamy expression
+    action: Sitting rigidly on edge of sofa, hands clasped tightly, looking between the two men with distressed expression
+  scene:
+    mainElements: Ornate Victorian furniture, tall windows with heavy curtains, crystal chandelier, mirrors in gilt frames,
+      ice bucket with champagne
+    details: Stifling summer heat, upper-class luxury, tension-filled confrontation space. Elegant hotel suite with heavy
+      Victorian furniture wilting in oppressive heat, tall windows with drawn curtains blocking harsh sun but trapping stifling
+      air, crystal chandelier hanging motionless overhead, gilt-framed mirrors reflecting the emotional tension, champagne
+      bottle abandoned in melting ice bucket, newspapers scattered on floor, men's collars loosened and women's makeup beginning
+      to run from heat and stress. Atmosphere crackling with confrontation and years of suppressed conflict finally exploding.
+      No text or letters visible.
+    background: Central Park visible through heavy curtains, Manhattan's summer heat haze rising from city streets, sounds
+      of traffic filtering up from Fifth Avenue
+    atmosphere: Explosive tension and suffocating heat creating pressure cooker environment, years of deception and desire
+      finally erupting in confrontation, sense of dreams and illusions being shattered
+  composition:
+    cameraAngle: Medium shot capturing the triangular tension between Gatsby, Tom, and Daisy
+    focus: The climactic confrontation where truth destroys dreams and illusions are finally shattered
+    depth: Foreground shows scattered objects and signs of distress, middle ground captures the three main figures in their
+      emotional triangle, background reveals oppressive hotel suite atmosphere
+visualElements:
+  colorPalette:
+    primary:
+    - gold metallic
+    - black
+    - cream white
+    secondary:
+    - silver chrome
+    - deep red
+    - royal blue
+    background: elegant geometric patterns or luxury settings
+    usageNotes: Rich, luxurious colors with metallic accents
+    saturation: high (rich, elegant colors)
+    contrast: high (dramatic black and gold contrasts)
+  lineArt:
+    style: geometric, symmetrical patterns
+    weight: bold, confident lines
+    color: metallic gold or silver outlines
+    texture: smooth, polished surfaces
+    edgeTreatment: sharp, precise geometric edges
+  lighting:
+    type: dramatic, luxury lighting
+    direction: theatrical lighting emphasizing geometry
+    intensity: bright, glamorous
+    shadows:
+      style: geometric, stylized shadows
+      color: rich dark colors
+      opacity: solid, dramatic
+    highlights: brilliant metallic reflections
+  rendering:
+    technique: precise geometric illustration
+    texture: polished metals, smooth surfaces, luxury materials
+    detailLevel: high (intricate geometric patterns)
+    finish: highly polished, reflective
+  perspective: symmetrical, balanced compositions
+  mood:
+    overall: luxurious, elegant, sophisticated
+    emotion: glamour, sophistication, modern elegance
+    tempo: stately, confident
+    keywords:
+    - luxurious
+    - elegant
+    - sophisticated
+    - glamorous
+    - geometric
+  stylePrecedents:
+  - Chrysler Building architecture
+  - 1920s luxury poster design
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

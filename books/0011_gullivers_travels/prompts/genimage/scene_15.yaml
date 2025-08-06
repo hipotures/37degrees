@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: Midday, 1706, during sea voyage and pirate attack
+    location: Deck of merchant ship under attack by pirates in unknown Pacific waters
+    weather: Clear day with good visibility allowing sight of mysterious floating island
+  characters:
+  - appearance: Man, early 40s, brown hair tied back in queue, weathered face from sea voyages, average height, lean build
+      from travels
+    clothing: Dark blue wool coat with brass buttons, white linen shirt with ruffled collar, brown leather breeches, black
+      buckled shoes, tricorn hat
+    position: Standing upright with observant stance, hands clasped behind back, alert expression
+    action: Bound by pirates but gazing upward in amazement at floating island appearing in sky above, mixture of fear from
+      capture and wonder at impossible sight
+  - appearance: Multiple rough seafaring men with beards and scars, weathered faces, muscular builds from ship work
+    clothing: Torn shirts, leather vests, bandanas, cutlasses and pistols, worn sea boots
+    position: Aggressive stances surrounding captured passengers
+    action: Taking control of merchant vessel, brandishing weapons, preparing to set Gulliver adrift as punishment for resistance
+  scene:
+    mainElements: Merchant ship deck during pirate takeover with mysterious circular island floating impossibly in the sky
+      above
+    details: Brass telescope with leather wrapping, extendable sections, glass lenses, carried in leather case with shoulder
+      strap being used by Gulliver to study floating island, pirate cutlasses gleaming in sunlight, ship's rigging and sails,
+      rope coils and barrels on deck, the impossible sight of Laputa - a circular island four miles in diameter floating in
+      clear blue sky, casting shadow on the sea below, no text or letters visible
+    background: Open ocean with good weather, clear blue sky making floating island clearly visible as dark silhouette against
+      clouds
+    atmosphere: Tension and violence of pirate attack contrasted with awe and wonder at supernatural sight of flying island,
+      sense of new adventure beginning
+  composition:
+    cameraAngle: Medium shot showing ship deck with floating island visible in sky above
+    focus: Gulliver's amazed reaction to floating island while bound by pirates, emphasizing contrast between earthly danger
+      and celestial wonder
+    depth: 'Foreground: pirates and captives on ship deck, middle: ship''s rigging and equipment, background: floating island
+      of Laputa in sky'
+visualElements:
+  colorPalette:
+    primary:
+    - warm oranges
+    - sky blues
+    - sunset reds
+    - palm greens
+    secondary:
+    - sand beige
+    - ocean turquoise
+    - golden yellow
+    background: gradient skies, solid color blocks
+    usageNotes: Limited palette, 3-5 colors maximum, screen-printed look
+    saturation: high
+    contrast: strong
+  lineArt:
+    style: clean, simplified
+    weight: bold, uniform
+    color: darker shade of base colors
+    texture: smooth, graphic
+    edgeTreatment: crisp, stylized
+  lighting:
+    type: idealized, perpetual golden hour
+    direction: dramatic side or back lighting
+    intensity: warm, inviting
+    shadows:
+      style: simplified, graphic
+      color: darker tone of base color
+      opacity: solid color blocks
+    highlights: bright, optimistic
+  rendering:
+    technique: flat color with minimal gradients
+    texture: slight paper texture
+    detailLevel: simplified, iconic elements only
+    finish: lithograph or screen print appearance
+  perspective: dramatic angles, heroic viewpoints
+  mood:
+    overall: adventurous, romantic, optimistic
+    emotion: wanderlust, excitement, nostalgia
+    tempo: dynamic yet timeless
+    keywords:
+    - adventurous
+    - romantic
+    - exotic
+    - inviting
+    - nostalgic
+  stylePrecedents:
+  - Roger Broders
+  - David Klein
+  - Art Deco posters
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

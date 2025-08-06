@@ -14,7 +14,7 @@
 [x] [x] Created thread 6890a90e-9d78-8327-8976-9beb616ac399 for image scene_14.yaml
 [x] [x] Created thread 6890aa7c-bbb4-832d-9365-0a5ef43987d6 for image scene_15.yaml
 [x] [x] Created thread 6890abe7-d194-8327-bc20-59e90c42064d for image scene_16.yaml
-[x] [x] Created thread 6890ad69-48f4-832f-996f-ce6ea99b5bde for image scene_17.yaml (POLICY_VIOLATION)
+[x] [x] Created thread 6890ad69-48f4-832f-996f-ce6ea99b5bde for image scene_17.yaml
 [x] [x] Created thread 6890af7b-272c-8324-b4b9-e0f46dd54a0b for image scene_18.yaml
 [x] [x] Created thread 6890b0f1-0dc4-832b-88ed-6b206555d322 for image scene_19.yaml
 [x] [x] Created thread 6890b254-cc80-8322-9c70-e88fd605dddf for image scene_20.yaml
@@ -23,4 +23,18 @@
 [x] [x] Created thread 6890bea9-2e44-8330-9498-bc1d78de5768 for image scene_23.yaml
 [x] [x] Created thread 6890c037-d68c-8325-920c-9186484548a1 for image scene_24.yaml
 [x] [x] Created thread 6890c1b6-be20-8320-8143-b2c1aeaf16dd for image scene_25.yaml
+[x] [x] Created thread 68937b9d-a4fc-8333-a384-26ed0a0027ca for image scene_03.yaml
+[x] [x] Created thread 68937c26-19ec-8329-98c9-8711e70b34b3 for image scene_05.yaml
+[x] [x] Created thread 68937f60-4858-8333-b69d-6103a2177320 for image scene_08.yaml
+[x] [x] Created thread 68937fe4-8fdc-8326-bbdd-b5672434b2d8 for image scene_11.yaml
+[x] [x] Created thread 689382d1-f64c-8324-b6b7-fcc4d6d68984 for image scene_13.yaml
+[x] [x] Created thread 68938354-17d4-832a-8bc2-511600f19468 for image scene_16.yaml
+[x] [x] Created thread 689385c8-ecb0-8328-a33b-16b77cf02724 for image scene_17.yaml
+[x] [x] Created thread 68938650-3b50-8333-8321-0fc32194028a for image scene_18.yaml
+[x] [x] Created thread 6893898a-bfec-832e-8677-42c49c82aaa3 for image scene_19.yaml
+[x] [x] Created thread 68938a27-9674-8324-87b7-4b5bcb464517 for image scene_20.yaml
+[x] [x] Created thread 68938ccc-a768-8329-b8c4-427ce1623260 for image scene_21.yaml
+[x] [x] Created thread 68938d4d-9180-8322-8713-b52125e86084 for image scene_23.yaml
+[x] [x] Created thread 68939286-8a10-832d-8ce6-f88fef4d1777 for image scene_25.yaml
+
 # PROJECT_ID = g-p-68909366ecb88191b3fae9bf26ea3ae7-0001-alice-in-wonderland

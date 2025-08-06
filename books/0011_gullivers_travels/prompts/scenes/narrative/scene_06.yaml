@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Miniature Court Politics and Rope Dancing"
+  setting:
+    time: "Evening, 1699, torch-lit ceremony"
+    location: "Royal palace courtyard in miniature city of Mildendo, Lilliput"
+    weather: "Clear evening with torchlight illumination"
+  characters:
+    - appearance: "Man, early 40s, brown hair tied back in queue, weathered face from sea voyages, average height, lean build from travels"
+      clothing: "Dark blue wool coat with brass buttons, white linen shirt with ruffled collar, brown leather breeches, black buckled shoes, tricorn hat"
+      position: "Seated on ground cross-legged beside miniature palace"
+      action: "Watching tiny court ceremonies with fascination, leaning forward slightly to observe miniature performances"
+    - appearance: "Tiny man six inches tall, black hair, imperious expression, regal bearing despite miniature size"
+      clothing: "Purple silk robes with gold embroidery, miniature crown with jewels, golden scepter, pointed shoes with curled toes"
+      position: "Standing with chest puffed out, one hand holding scepter, chin raised commandingly"
+      action: "Presiding over court ceremony from elevated throne, gesturing with scepter"
+    - appearance: "Multiple tiny men six inches tall, various hair colors, determined expressions, miniature military bearing"
+      clothing: "Red wool uniforms with brass buttons, tiny tricorn hats, white breeches, miniature muskets and swords"
+      position: "Performing acrobatic displays on thin rope"
+      action: "Competing in rope dancing contest, balancing on thin cables stretched between tiny posts"
+  scene:
+    mainElements: "Miniature palace courtyard with torches, tiny throne room visible through open doors, rope dancing performance area with thin cables"
+    details: "Elaborate court ceremony with tiny courtiers watching rope dancing competition, miniature acrobats balancing on threads barely visible to human eye, tiny musicians playing instruments, silk ribbons and banners decorating courtyard, torches providing dramatic lighting, golden goblets and ceremonial objects scaled to tiny proportions, crowds of six-inch spectators applauding performances, no text or letters visible"
+    background: "Illuminated palace interior visible through tiny doors, miniature gardens with topiaries, city lights twinkling in distance"
+    atmosphere: "Political intrigue and competitive display disguised as entertainment, absurd grandeur of miniature court life, flickering torchlight creating intimate yet theatrical setting"
+  composition:
+    cameraAngle: "Low angle from Gulliver's seated position looking down at court"
+    focus: "Rope dancing performance in palace courtyard with emperor presiding"
+    depth: "Foreground: rope dancers and performance, middle: palace courtyard ceremony, background: palace interior and gardens"

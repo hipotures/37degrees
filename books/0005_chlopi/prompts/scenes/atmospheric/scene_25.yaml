@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Full Circle Dawn - Familiar Yet Changed"
+  setting:
+    time: "Late 1800s Congress Poland, dawn in autumn, one year later, cyclical return to dawn moment"
+    location: "Cultivated farmlands surrounding Lipce village in Mazovian plains of Congress Poland, open fields stretching to forest edge"
+    weather: "Clear autumn morning similar to opening scene, but with subtle differences showing time passage"
+  characters:
+    - appearance: "Man, late 20s, dark brown hair, athletic muscular build, tall stature like his father, intense dark eyes, clean-shaven face with strong jawline"
+      clothing: "White linen shirt often partially unbuttoned, dark wool vest, sturdy work trousers, leather boots, rolled sleeves showing strong forearms"
+      position: "Standing where his father once stood, now as landowner"
+      action: "Surveying fields that are now his inheritance, hands clasped behind back in gesture identical to his father, matured expression showing weight of responsibility"
+  scene:
+    mainElements: "Divided plots of wheat, rye, and barley fields, wooden plows and farming tools, hay stacks, stone field boundaries, dirt paths between properties"
+    details: "Same agricultural landscape but subtly changed - different crop rotation showing passage of time, some new fence posts, different arrangement of tools, seasonal markers showing full cycle completed, dawn light identical but viewer's perspective changed by knowledge of story, cyclical but transformed through human experience"
+    background: "Village unchanged yet somehow different, church tower standing eternal, forest edge marking same horizon but witnessed different seasons"
+    atmosphere: "Sacred agricultural landscape that defines peasant identity, constantly changing with seasonal work cycles, cyclical nature of time and agricultural life, eternal landscape witnessing human drama and generational change, time passage made visible through accumulated experience"
+  composition:
+    cameraAngle: "Wide shot from low angle showing vast fields with figure small against landscape, emphasizing cyclical nature"
+    focus: "Full circle moment showing continuity and change, familiar location transformed by story knowledge and character development"
+    depth: "Foreground shows same field layout with subtle changes, middle ground features new landowner in familiar pose, background shows eternal landscape marked by human story"
