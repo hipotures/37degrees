@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1991 afternoon, November
+    location: Hogwarts Quidditch pitch, high above stadium filled with cheering students
+    weather: Cold clear day with strong winds
+  characters:
+  - appearance: Boy, 11 years old, black messy hair, bright green eyes behind round glasses, thin frame, lightning bolt scar
+      on forehead
+    clothing: Scarlet Quidditch robes with gold trim, protective padding, goggles
+    position: High in air on racing broomstick, leaning forward in pursuit
+    action: Chasing tiny golden ball at incredible speed, completely focused on the catch
+  - appearance: Teenage boy, pale with white-blonde hair, pointed features, cold gray eyes
+    clothing: Green and silver Slytherin Quidditch robes
+    position: On racing broomstick nearby, trying to block
+    action: Attempting to knock Harry off course, playing aggressively and unfairly
+  scene:
+    mainElements: High in air above Quidditch stadium, goal posts visible, other players in background
+    details: Stadium packed with cheering students wearing house colors, banners flying in wind, other Quidditch players engaged
+      in fast-paced game below, tiny golden ball with delicate silver wings darting between players, broomsticks leaving trails
+      in cold air
+    background: Hogwarts castle beyond stadium, autumn landscape, spectators in stands with colorful scarves and banners
+    atmosphere: High-speed aerial competition, crowd excitement, cold wind, intense sporting rivalry, first taste of success,
+      no text or letters visible
+  composition:
+    cameraAngle: Dynamic aerial shot following the action
+    focus: Harry pursuing golden snitch with rival player interfering
+    depth: Players in intense aerial chase in foreground, stadium and crowd in middle ground, castle and landscape in background
+visualElements:
+  colorPalette:
+    primary:
+    - rich fantasy colors
+    - jewel tones
+    secondary:
+    - atmospheric colors
+    - magical glows
+    background: atmospheric, often dark or misty
+    usageNotes: Rich, layered colors with magical atmosphere
+    saturation: medium to high
+    contrast: medium to high
+  lineArt:
+    style: painterly, loose
+    weight: varied, often hidden
+    color: integrated into painting
+    texture: organic brushstrokes
+    edgeTreatment: soft, painterly edges
+  lighting:
+    type: dramatic, magical
+    direction: varied for atmosphere
+    intensity: high contrast areas
+    shadows:
+      style: painted, atmospheric
+      color: cool or warm depending on scene
+      opacity: varied
+    highlights: magical glows, rim lighting
+  rendering:
+    technique: digital painting with textured brushes
+    texture: dry media brush texture
+    detailLevel: moderate to high
+    finish: glazed, painterly
+  perspective: cinematic, dynamic
+  mood:
+    overall: mythological, otherworldly, epic
+    emotion: wonder, mystery, adventure
+    tempo: varies from calm to dramatic
+    keywords:
+    - epic
+    - mystical
+    - otherworldly
+    - fantasy
+    - mythological
+  stylePrecedents:
+  - Craig Mullins digital concept art
+  - Frank Frazetta fantasy paintings
+  - Boris Vallejo fantasy illustrations
+  - Magic: The Gathering card art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

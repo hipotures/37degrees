@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Ordinary Suburban Street"
+  setting:
+    time: "1991 summer evening, dusk"
+    location: "Suburban street in Little Whinging, Surrey, England, identical houses with manicured lawns"
+    weather: "Clear evening, still air"
+  characters:
+    - appearance: "Tall elderly man, long silver beard and hair, half-moon spectacles, kind blue eyes twinkling with wisdom"
+      clothing: "Deep purple wizard robes with intricate patterns, pointed hat"
+      position: "Standing beneath street lamp at end of Privet Drive"
+      action: "Examining strange silver device, watching street with knowing expression"
+  scene:
+    mainElements: "Neat row of identical two-story houses, well-maintained gardens, number 4 slightly more pristine than others"
+    details: "Street lamps casting pools of yellow light, identical driveways, perfectly trimmed hedges, curtains drawn in windows, single figure disturbing the suburban conformity with his magical presence"
+    background: "Row of houses stretching down street, parked cars in driveways, television light flickering in windows"
+    atmosphere: "Oppressive suburban conformity, summer evening stillness, street lamps beginning to glow, no text or letters visible"
+  composition:
+    cameraAngle: "Wide establishing shot from end of street"
+    focus: "Mysterious robed figure contrasting with mundane suburban setting"
+    depth: "Wizard in foreground, neat houses in middle ground, street extending into background"

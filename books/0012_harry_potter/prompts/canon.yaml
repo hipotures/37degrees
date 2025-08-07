@@ -1,0 +1,240 @@
+canon:
+  characters:
+    - id: "harry_potter"
+      name: "Harry Potter"
+      description_block: |
+        characters:
+          - appearance: "Boy, 11 years old, black messy hair, bright green eyes behind round glasses, thin frame, lightning bolt scar on forehead"
+            clothing: "Oversized Dursley cast-offs or Hogwarts black robes with red and gold Gryffindor trim, white shirt, gray trousers"
+            posture: "Uncertain but determined stance, often touching glasses or scar unconsciously"
+
+    - id: "hermione_granger"
+      name: "Hermione Granger"
+      description_block: |
+        characters:
+          - appearance: "Girl, 11 years old, bushy brown hair, brown eyes, slightly large front teeth, earnest expression"
+            clothing: "Hogwarts black robes with red and gold Gryffindor trim, white shirt, gray skirt, often carrying thick books"
+            posture: "Upright posture with raised hand or leaning forward eagerly, confident in academic settings"
+
+    - id: "ron_weasley"
+      name: "Ron Weasley"
+      description_block: |
+        characters:
+          - appearance: "Boy, 11 years old, flaming red hair, freckles, blue eyes, tall and lanky for his age"
+            clothing: "Patched and faded Hogwarts robes with red and gold Gryffindor trim, hand-me-down robes that are slightly too short"
+            posture: "Relaxed slouch, often with hands in pockets, easy-going demeanor"
+
+    - id: "dumbledore"
+      name: "Albus Dumbledore"
+      description_block: |
+        characters:
+          - appearance: "Elderly man, tall and thin, long silver beard and hair, half-moon spectacles, kind blue eyes twinkling with wisdom"
+            clothing: "Deep purple or midnight blue wizard robes with intricate patterns, pointed hat occasionally"
+            posture: "Dignified bearing with slight forward lean, hands often clasped behind back or steepled in front"
+
+    - id: "mcgonagall"
+      name: "Professor McGonagall"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged woman, stern expression, black hair pulled back in tight bun, square spectacles, thin lips"
+            clothing: "Dark green tartan robes, pointed black hat, emerald green cloak"
+            posture: "Ramrod straight posture, commanding presence, hands often clasped in front"
+
+    - id: "snape"
+      name: "Professor Snape"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged man, sallow skin, hooked nose, black eyes, greasy black hair hanging in curtains"
+            clothing: "Black flowing robes like a bat's wings, high collar, no visible decorations"
+            posture: "Looming stance, arms often crossed or hands behind back, intimidating presence"
+
+    - id: "hagrid"
+      name: "Hagrid"
+      description_block: |
+        characters:
+          - appearance: "Giant of a man, nearly twice normal height, wild tangled black hair, beetle-black eyes, massive hands"
+            clothing: "Large moleskin overcoat, massive boots, pink umbrella occasionally visible"
+            posture: "Gentle giant stance despite size, often stooped to children's level, warm expression"
+
+    - id: "quirrell"
+      name: "Professor Quirrell"
+      description_block: |
+        characters:
+          - appearance: "Nervous man, pale, thinning hair, stammering disposition, often trembling slightly"
+            clothing: "Purple turban wrapped around head, dark robes, often wringing hands"
+            posture: "Hunched shoulders, darting eyes, constantly nervous fidgeting"
+
+    - id: "dudley_dursley"
+      name: "Dudley Dursley"
+      description_block: |
+        characters:
+          - appearance: "Large boy, 11 years old, blonde hair, pig-like eyes, very overweight, spoiled expression"
+            clothing: "Expensive casual clothes, school uniform, always well-dressed but straining at seams"
+            posture: "Domineering stance with crossed arms or hands on hips, bullying demeanor"
+
+    - id: "uncle_vernon"
+      name: "Uncle Vernon"
+      description_block: |
+        characters:
+          - appearance: "Large, beefy man, thick mustache, hardly any neck, small eyes, purple face when angry"
+            clothing: "Business suit, tie often askew, proper suburban father attire"
+            posture: "Aggressive stance, chest puffed out, finger often pointing accusingly"
+
+    - id: "aunt_petunia"
+      name: "Aunt Petunia"
+      description_block: |
+        characters:
+          - appearance: "Thin woman, blonde hair, long neck, sharp nose, horse-like face, beady eyes"
+            clothing: "Proper suburban housewife attire, apron when cleaning, neat and pressed clothes"
+            posture: "Prim and proper stance, often peering nosily over fences, hands on hips when disapproving"
+
+  locations:
+    - id: "privet_drive"
+      name: "Privet Drive"
+      description_block: |
+        setting:
+          location: "Suburban street in Little Whinging, Surrey, England, identical houses with manicured lawns"
+        mainElements: "Neat row of identical two-story houses, well-maintained gardens, number 4 slightly more pristine than others"
+        atmosphere: "Oppressive suburban conformity, summer evening stillness, street lamps beginning to glow"
+
+    - id: "cupboard_under_stairs"
+      name: "Cupboard Under the Stairs"
+      description_block: |
+        setting:
+          location: "Harry's bedroom at 4 Privet Drive, cramped space beneath staircase"
+        mainElements: "Tiny space with sloping ceiling, single cot, few belongings on shelves, spiders in corners"
+        atmosphere: "Cramped, dark, neglected space showing Harry's mistreatment by the Dursleys"
+
+    - id: "kings_cross_station"
+      name: "King's Cross Station"
+      description_block: |
+        setting:
+          location: "Major railway terminal in London, England, Victorian architecture with modern additions"
+        mainElements: "Bustling crowds, steam from trains, high arched ceilings, platforms numbered clearly"
+        atmosphere: "Busy transport hub with excited travelers, blend of Muggle and hidden magical activity"
+
+    - id: "platform_nine_three_quarters"
+      name: "Platform 9¾"
+      description_block: |
+        setting:
+          location: "Hidden magical platform at King's Cross Station, accessed through barrier between platforms 9 and 10"
+        mainElements: "Scarlet steam engine labeled Hogwarts Express, families with owls and cauldrons, magical crowd"
+        atmosphere: "Excitement and wonder, steam billowing, families saying goodbye, first glimpse of wizarding world"
+
+    - id: "hogwarts_express"
+      name: "Hogwarts Express"
+      description_block: |
+        setting:
+          location: "Scarlet steam train traveling through British countryside to Scotland"
+        mainElements: "Narrow corridor, compartments with bench seats, window showing rolling countryside, snack trolley"
+        atmosphere: "Cozy train compartment warmth, anticipation of arrival, gentle rocking motion, friendship forming"
+
+    - id: "hogwarts_exterior"
+      name: "Hogwarts Castle"
+      description_block: |
+        setting:
+          location: "Ancient castle school in Scottish Highlands, perched on rocky outcrop beside lake"
+        mainElements: "Massive castle with towers and turrets, Great Lake reflecting moonlight, Forbidden Forest nearby"
+        atmosphere: "Magical and imposing, ancient stone walls, countless windows glowing warmly, home and wonder"
+
+    - id: "great_hall"
+      name: "Great Hall"
+      description_block: |
+        setting:
+          location: "Main dining hall of Hogwarts Castle, four long house tables beneath enchanted ceiling"
+        mainElements: "Four house tables with benches, High Table for professors, thousands of floating candles, ghost presence"
+        atmosphere: "Grand and welcoming, magical ceiling showing night sky, warmth of countless candles, communal dining"
+
+    - id: "gryffindor_common_room"
+      name: "Gryffindor Common Room"
+      description_block: |
+        setting:
+          location: "Circular tower room in Gryffindor Tower, warm gathering space"
+        mainElements: "Squashy armchairs around fireplace, scarlet and gold decorations, circular windows, portrait entrance"
+        atmosphere: "Cozy and warm, crackling fire, red and gold colors, sense of belonging and house pride"
+
+    - id: "gryffindor_dormitory"
+      name: "Gryffindor Boys' Dormitory"
+      description_block: |
+        setting:
+          location: "Circular dormitory room in Gryffindor Tower, five four-poster beds"
+        mainElements: "Five four-poster beds with red hangings, trunks at foot of beds, tall windows overlooking grounds"
+        atmosphere: "Peaceful sleeping quarters, moonlight through windows, sense of brotherhood and shared adventures"
+
+    - id: "potions_dungeon"
+      name: "Potions Dungeon"
+      description_block: |
+        setting:
+          location: "Underground classroom in Hogwarts dungeons, cold stone chamber"
+        mainElements: "Stone walls, cauldrons on desks, pickled creatures in jars lining walls, professor's desk at front"
+        atmosphere: "Cold and intimidating, flickering torchlight, dank dungeon smell, tension and fear"
+
+    - id: "forbidden_forest"
+      name: "Forbidden Forest"
+      description_block: |
+        setting:
+          location: "Dense ancient forest on Hogwarts grounds, home to magical creatures"
+        mainElements: "Towering trees blocking moonlight, winding paths, mysterious sounds, glimpses of magical creatures"
+        atmosphere: "Dark and dangerous, mysterious rustling, moonbeams through branches, sense of ancient magic"
+
+    - id: "hagrid_hut"
+      name: "Hagrid's Hut"
+      description_block: |
+        setting:
+          location: "Small wooden hut on edge of Hogwarts grounds near Forbidden Forest"
+        mainElements: "Single-room hut with oversized furniture, fireplace, kettle, large table, crossbow on wall"
+        atmosphere: "Cozy but cramped, welcoming warmth, smell of cooking, safe haven despite dangerous surroundings"
+
+    - id: "third_floor_corridor"
+      name: "Third Floor Corridor"
+      description_block: |
+        setting:
+          location: "Forbidden corridor on third floor of Hogwarts, stone passageway with locked door"
+        mainElements: "Stone corridor with torch sconces, heavy wooden door at end, warning signs, trapdoor beneath"
+        atmosphere: "Forbidden and dangerous, shadows from flickering torches, sense of hidden secrets and peril"
+
+  items:
+    - id: "philosophers_stone"
+      name: "Philosopher's Stone"
+      description_block: |
+        details: "Small red stone with smooth surface, fits in palm, glows faintly with inner light, legendary alchemical artifact"
+
+    - id: "harry_wand"
+      name: "Harry's Wand"
+      description_block: |
+        details: "Eleven inches, holly wood with phoenix feather core, brother to Voldemort's wand, responsive to Harry's touch"
+
+    - id: "invisibility_cloak"
+      name: "Invisibility Cloak"
+      description_block: |
+        details: "Silvery, fluid material that renders wearer completely invisible, ancient family heirloom from James Potter"
+
+    - id: "mirror_erised"
+      name: "Mirror of Erised"
+      description_block: |
+        details: "Magnificent gold mirror, ornate frame, inscription around top, shows deepest desires of viewer's heart"
+
+    - id: "sorting_hat"
+      name: "Sorting Hat"
+      description_block: |
+        details: "Ancient pointed wizard hat, patched and frayed, brown leather, speaks and reads thoughts to sort students"
+
+    - id: "hedwig"
+      name: "Hedwig"
+      description_block: |
+        details: "Beautiful snowy owl with amber eyes, Harry's first birthday present, loyal and intelligent messenger"
+
+    - id: "nimbus_2000"
+      name: "Nimbus 2000"
+      description_block: |
+        details: "Sleek racing broomstick with polished handle, golden registration number, fastest broomstick available"
+
+    - id: "golden_snitch"
+      name: "Golden Snitch"
+      description_block: |
+        details: "Tiny golden ball with delicate silver wings, flutters just beyond reach, worth 150 points in Quidditch"
+
+    - id: "fluffy"
+      name: "Fluffy"
+      description_block: |
+        details: "Massive three-headed dog, each head size of large bear, guards trapdoor, falls asleep to music"

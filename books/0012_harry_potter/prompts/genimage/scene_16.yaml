@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1991 late night, May
+    location: Dense ancient forest on Hogwarts grounds, home to magical creatures
+    weather: Clear cold night with bright moon
+  characters:
+  - appearance: Boy, 11 years old, black messy hair, bright green eyes behind round glasses, thin frame, lightning bolt scar
+      on forehead
+    clothing: Hogwarts black robes, moving nervously through undergrowth
+    position: Walking carefully through forest path, lantern in hand
+    action: Following trail of silver blood drops, scar beginning to hurt, looking around nervously
+  - appearance: Large boy, 11 years old, blonde hair, pig-like eyes, very overweight, spoiled expression
+    clothing: Hogwarts robes, stumbling through forest clumsily
+    position: Following behind Harry reluctantly
+    action: Whimpering and complaining, clearly terrified of forest dangers
+  - appearance: Giant of a man, nearly twice normal height, wild tangled black hair, beetle-black eyes, massive hands
+    clothing: Large moleskin overcoat, massive boots, carrying crossbow
+    position: Leading group through dangerous forest paths
+    action: Tracking injured creature, showing students forest's dangers, protective but worried
+  scene:
+    mainElements: Towering trees blocking moonlight, winding paths, mysterious sounds, glimpses of magical creatures
+    details: Ancient trees creating cathedral-like canopy overhead, moonbeams filtering through branches creating pools of
+      silver light, mysterious rustling in undergrowth, glowing eyes watching from shadows, trail of silver blood droplets
+      leading deeper into forest, lantern light creating dancing shadows
+    background: Dense forest extending in all directions, sound of hoofbeats in distance, other magical creatures moving unseen
+    atmosphere: Dark and dangerous, mysterious rustling, moonbeams through branches, sense of ancient magic and hidden threats,
+      no text or letters visible
+  composition:
+    cameraAngle: Low angle through forest undergrowth
+    focus: Small group of humans venturing into dangerous magical territory
+    depth: Forest undergrowth in foreground, group with lanterns in middle ground, towering trees and darkness beyond
+visualElements:
+  colorPalette:
+    primary:
+    - rich fantasy colors
+    - jewel tones
+    secondary:
+    - atmospheric colors
+    - magical glows
+    background: atmospheric, often dark or misty
+    usageNotes: Rich, layered colors with magical atmosphere
+    saturation: medium to high
+    contrast: medium to high
+  lineArt:
+    style: painterly, loose
+    weight: varied, often hidden
+    color: integrated into painting
+    texture: organic brushstrokes
+    edgeTreatment: soft, painterly edges
+  lighting:
+    type: dramatic, magical
+    direction: varied for atmosphere
+    intensity: high contrast areas
+    shadows:
+      style: painted, atmospheric
+      color: cool or warm depending on scene
+      opacity: varied
+    highlights: magical glows, rim lighting
+  rendering:
+    technique: digital painting with textured brushes
+    texture: dry media brush texture
+    detailLevel: moderate to high
+    finish: glazed, painterly
+  perspective: cinematic, dynamic
+  mood:
+    overall: mythological, otherworldly, epic
+    emotion: wonder, mystery, adventure
+    tempo: varies from calm to dramatic
+    keywords:
+    - epic
+    - mystical
+    - otherworldly
+    - fantasy
+    - mythological
+  stylePrecedents:
+  - Craig Mullins digital concept art
+  - Frank Frazetta fantasy paintings
+  - Boris Vallejo fantasy illustrations
+  - Magic: The Gathering card art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

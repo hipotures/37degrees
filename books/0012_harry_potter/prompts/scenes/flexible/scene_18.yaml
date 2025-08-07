@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Living Chess Battle"
+  setting:
+    time: "1991 late night, June"
+    location: "Underground chamber beneath Hogwarts, giant chessboard floor"
+    weather: "Cold air in underground chamber"
+  characters:
+    - appearance: "Boy, 11 years old, flaming red hair, freckles, blue eyes, tall and lanky for his age"
+      clothing: "Hogwarts black robes with red and gold Gryffindor trim, torn and dirty"
+      position: "Mounted on white knight chess piece, sword raised"
+      action: "Directing chess battle with strategic commands, preparing for ultimate sacrifice"
+    - appearance: "Boy, 11 years old, black messy hair, bright green eyes behind round glasses, thin frame, lightning bolt scar on forehead"
+      clothing: "Hogwarts robes, disheveled from underground adventure"
+      position: "Standing on chessboard as castle piece"
+      action: "Following Ron's commands reluctantly, realizing friend's dangerous plan"
+    - appearance: "Girl, 11 years old, bushy brown hair, brown eyes, slightly large front teeth, earnest expression"
+      clothing: "Hogwarts robes, dust and debris from trials"
+      position: "Standing as bishop on giant chessboard"
+      action: "Looking worried about Ron's strategy, preparing to move on command"
+  scene:
+    mainElements: "Giant black and white chessboard floor with enormous living chess pieces, stone chamber walls"
+    details: "Massive stone chess pieces animated and moving with grinding sounds, black and white checkered floor stretching across chamber, pieces wielding medieval weapons, broken chess pieces scattered where captured, torchlight reflecting off polished stone pieces, chamber filled with sound of battle"
+    background: "Stone chamber walls carved with chess motifs, archways leading to other chambers, debris from destroyed pieces"
+    atmosphere: "Strategic battle with life-or-death stakes, grinding stone sounds, medieval combat, friendship and sacrifice, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot from edge of chessboard showing full battle"
+    focus: "Three friends engaged in deadly chess game with living pieces"
+    depth: "Chess battle across board in foreground, friends positioned as pieces in middle ground, chamber walls extending upward"

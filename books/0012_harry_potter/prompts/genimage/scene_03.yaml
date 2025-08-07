@@ -1,0 +1,72 @@
+sceneDescription:
+  setting:
+    time: 1991 late evening, moonlit night
+    location: Ancient castle school in Scottish Highlands, perched on rocky outcrop beside lake
+    weather: Clear night with full moon
+  characters: []
+  scene:
+    mainElements: Massive castle with towers and turrets, Great Lake reflecting moonlight, Forbidden Forest nearby
+    details: Ancient stone walls bathed in moonlight, countless windows glowing warmly with golden light, Gothic architecture
+      with flying buttresses, multiple towers reaching toward starlit sky, wooden boats crossing the lake leaving gentle wakes
+    background: Dark Forbidden Forest silhouetted against sky, mountains in distance, star-filled night sky
+    atmosphere: Magical and imposing, ancient stone walls, countless windows glowing warmly, home and wonder, no text or letters
+      visible
+  composition:
+    cameraAngle: Wide panoramic shot from across the lake
+    focus: Entire castle complex illuminated against night sky
+    depth: Lake surface in foreground, castle on rocky outcrop in middle ground, forest and mountains in background
+visualElements:
+  colorPalette:
+    primary:
+    - rich fantasy colors
+    - jewel tones
+    secondary:
+    - atmospheric colors
+    - magical glows
+    background: atmospheric, often dark or misty
+    usageNotes: Rich, layered colors with magical atmosphere
+    saturation: medium to high
+    contrast: medium to high
+  lineArt:
+    style: painterly, loose
+    weight: varied, often hidden
+    color: integrated into painting
+    texture: organic brushstrokes
+    edgeTreatment: soft, painterly edges
+  lighting:
+    type: dramatic, magical
+    direction: varied for atmosphere
+    intensity: high contrast areas
+    shadows:
+      style: painted, atmospheric
+      color: cool or warm depending on scene
+      opacity: varied
+    highlights: magical glows, rim lighting
+  rendering:
+    technique: digital painting with textured brushes
+    texture: dry media brush texture
+    detailLevel: moderate to high
+    finish: glazed, painterly
+  perspective: cinematic, dynamic
+  mood:
+    overall: mythological, otherworldly, epic
+    emotion: wonder, mystery, adventure
+    tempo: varies from calm to dramatic
+    keywords:
+    - epic
+    - mystical
+    - otherworldly
+    - fantasy
+    - mythological
+  stylePrecedents:
+  - Craig Mullins digital concept art
+  - Frank Frazetta fantasy paintings
+  - Boris Vallejo fantasy illustrations
+  - Magic: The Gathering card art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical
