@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The House Cup Celebration"
+  setting:
+    time: "1991 evening, end of term feast"
+    location: "Main dining hall of Hogwarts Castle, four long house tables beneath enchanted ceiling"
+    weather: "Clear evening sky reflected in magical ceiling"
+  characters:
+    - appearance: "Boy, 11 years old, black messy hair, bright green eyes behind round glasses, thin frame, lightning bolt scar on forehead"
+      clothing: "Hogwarts black robes with red and gold Gryffindor trim, clean and neat for feast"
+      position: "Sitting at Gryffindor table with friends"
+      action: "Looking around in amazement as house decorations change, sharing moment of triumph"
+    - appearance: "Boy, 11 years old, flaming red hair, freckles, blue eyes, tall and lanky for his age"
+      clothing: "Clean Gryffindor robes, arm in sling from chess battle"
+      position: "Sitting beside Harry at table"
+      action: "Cheering excitedly with good arm, grinning widely at unexpected victory"
+    - appearance: "Girl, 11 years old, bushy brown hair, brown eyes, slightly large front teeth, earnest expression"
+      clothing: "Neat Gryffindor robes, looking composed despite excitement"
+      position: "Sitting with friends at celebration table"
+      action: "Applauding politely but with genuine joy, looking proud of their accomplishment"
+  scene:
+    mainElements: "Four house tables with benches, High Table for professors, thousands of floating candles, house decorations"
+    details: "Green and silver Slytherin banners suddenly transforming to red and gold Gryffindor colors, floating candles dancing with excitement, students at all tables reacting to dramatic change, feast dishes appearing on tables, ghosts joining celebration"
+    background: "Professors at High Table applauding, other house students showing mixed reactions, Great Hall's soaring architecture decorated for celebration"
+    atmosphere: "Triumph and vindication, magical transformation, community celebration, justice rewarded, friendship's victory, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing transformation of entire Great Hall"
+    focus: "Dramatic moment of house decorations changing and students celebrating"
+    depth: "Students at tables in foreground, house banner transformation in middle ground, entire Great Hall in background"

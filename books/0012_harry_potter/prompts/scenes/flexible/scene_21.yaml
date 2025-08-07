@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Recovery in the Hospital Wing"
+  setting:
+    time: "1991 morning, June"
+    location: "Hogwarts hospital wing, white-walled medical chamber with beds"
+    weather: "Bright sunny morning"
+  characters:
+    - appearance: "Boy, 11 years old, black messy hair, bright green eyes behind round glasses, thin frame, lightning bolt scar on forehead"
+      clothing: "White hospital pajamas, bandages on hands"
+      position: "Sitting up in hospital bed, looking weak but alert"
+      action: "Touching bandaged hands gingerly, looking around at concerned friends and gifts"
+    - appearance: "Elderly man, tall and thin, long silver beard and hair, half-moon spectacles, kind blue eyes twinkling with wisdom"
+      clothing: "Deep purple wizard robes with intricate patterns, more subdued than usual"
+      position: "Sitting in chair beside Harry's bed"
+      action: "Explaining recent events with gentle wisdom, hands folded in lap, compassionate expression"
+  scene:
+    mainElements: "White hospital wing with multiple beds, medical supplies, flowers and sweets on bedside table"
+    details: "Bright morning sunlight streaming through tall windows, white linens crisp and clean, bottles of magical healing potions on nearby table, colorful flowers and chocolate gifts from friends, peaceful atmosphere of recovery and safety"
+    background: "Other hospital beds empty, medical charts and healing supplies, portraits of famous healers on walls"
+    atmosphere: "Peaceful recovery, morning sunlight, safety and care, wisdom and understanding, friendship's gifts, no text or letters visible"
+  composition:
+    cameraAngle: "Warm medium shot from foot of hospital bed"
+    focus: "Caring conversation between wise headmaster and recovering student"
+    depth: "Harry in bed in foreground, Dumbledore in chair in middle ground, peaceful hospital wing extending behind"

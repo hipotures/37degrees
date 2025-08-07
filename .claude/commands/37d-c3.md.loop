@@ -1,0 +1,96 @@
+# Custom Command: 37d-c3 - AI Image Generation Orchestrator
+
+Orchestrator dla automatycznego generowania obrazów w ChatGPT z użyciem MCP TODOIT
+
+UWAGA: Używaj MCP todoit i playwright-headless do automatyzacji
+
+  Dane wejściowe:
+
+  - Projekt: "[BOOK_FOLDER]" (np. "0001_alice_in_wonderland")
+  - System używa MCP TODOIT do zarządzania zadaniami
+
+  Identyfikacja folderu książki:
+
+  // Jeśli podano nazwę książki zamiast folderu:
+  ls /home/xai/DEV/37degrees/books/ żeby zidentyfikować folder
+  
+  // Przykład: "Alicja w Krainie Czarów" → znajduje folder "0001_alice_in_wonderland"
+  // Użyj znalezionego folderu jako [BOOK_FOLDER] w dalszych krokach
+
+  Kroki orchestratora:
+
+  1. Inicjalizacja listy TODOIT
+
+  // Utwórz listę TODOIT z nazwą BOOK_FOLDER
+  mcp__todoit__todo_create_list(
+    list_key: "[BOOK_FOLDER]",
+    title: "AI Image Generation for [BOOK_FOLDER]",
+    list_type: "sequential"
+  )
+
+  // Zapisz BOOK_FOLDER jako właściwość listy
+  mcp__todoit__todo_set_list_property(
+    list_key: "[BOOK_FOLDER]",
+    property_key: "book_folder",
+    property_value: "[BOOK_FOLDER]"
+  )
+
+  2. Dodanie zadań do listy
+
+  // Znajdź wszystkie pliki YAML scen
+  find /home/xai/DEV/37degrees/books/[BOOK_FOLDER]/prompts/genimage/ -name "scene_*.yaml" | sort
+
+  // Dodaj każdy plik YAML jako zadanie do TODOIT
+  // Format zadania: "Generate image using scene_XX.yaml"
+  for each YAML_FILE in sorted order:
+    mcp__todoit__todo_add_item(
+      list_key: "[BOOK_FOLDER]",
+      item_key: "scene_XX",
+      content: "Generate image using scene_XX.yaml"
+    )
+
+  3. Pętla wykonania zadań
+
+  // Wywołuj subagent 37d-a3 dopóki są pending zadania
+  while (pending tasks exist):
+    // Sprawdź czy są jeszcze pending zadania
+    next_task = mcp__todoit__todo_get_next_pending(list_key: "[BOOK_FOLDER]")
+    
+    if (next_task exists):
+      // Wywołaj subagent 37d-a3 z parametrem TODOIT_LIST
+      Task(
+        subagent_type: "37d-a3",
+        description: "Generate single image",
+        prompt: "Execute image generation for TODOIT_LIST: [BOOK_FOLDER]. Process one pending task and mark as completed."
+      )
+      
+      // Sprawdź rezultat subagenta
+      // Jeśli subagent zakończył się sukcesem, kontynuuj
+      // Jeśli wystąpił błąd, zatrzymaj proces i raportuj
+    else:
+      break // Wszystkie zadania ukończone
+
+  4. Finalizacja
+
+  // Sprawdź status wszystkich zadań
+  progress = mcp__todoit__todo_get_progress(list_key: "[BOOK_FOLDER]")
+  
+  // Raportuj wyniki
+  echo "Proces zakończony. Wygenerowano obrazy: [completed]/[total]"
+
+  Uwagi techniczne:
+
+  - CRITICAL: Nazwa listy TODOIT MUSI być dokładnie taka sama jak [BOOK_FOLDER]
+  - Jeśli podano nazwę książki zamiast folderu, użyj find/grep do identyfikacji folderu  
+  - System TODOIT zastępuje TODO-GENERATE.md - wszystkie dane przechowywane w MCP
+  - Subagent 37d-a3 otrzymuje tylko nazwę listy TODOIT, odczytuje BOOK_FOLDER z właściwości
+  - Orchestrator kontynuuje dopóki są pending zadania w TODOIT
+  - Jeśli subagent zakończy się błędem, orchestrator zatrzymuje proces
+  
+  Stan końcowy:
+  
+  - Lista TODOIT "[BOOK_FOLDER]" utworzona z wszystkimi zadaniami scene_XX.yaml
+  - Wszystkie zadania oznaczone jako completed
+  - PROJECT_ID zapisany w właściwościach listy
+  - Thread ID zapisane w właściwościach każdego zadania
+  - Gotowe do następnej fazy (pobieranie obrazów)

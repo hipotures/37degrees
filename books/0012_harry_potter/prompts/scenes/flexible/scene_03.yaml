@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "The Magnificent Castle"
+  setting:
+    time: "1991 late evening, moonlit night"
+    location: "Ancient castle school in Scottish Highlands, perched on rocky outcrop beside lake"
+    weather: "Clear night with full moon"
+  characters: []
+  scene:
+    mainElements: "Massive castle with towers and turrets, Great Lake reflecting moonlight, Forbidden Forest nearby"
+    details: "Ancient stone walls bathed in moonlight, countless windows glowing warmly with golden light, Gothic architecture with flying buttresses, multiple towers reaching toward starlit sky, wooden boats crossing the lake leaving gentle wakes"
+    background: "Dark Forbidden Forest silhouetted against sky, mountains in distance, star-filled night sky"
+    atmosphere: "Magical and imposing, ancient stone walls, countless windows glowing warmly, home and wonder, no text or letters visible"
+  composition:
+    cameraAngle: "Wide panoramic shot from across the lake"
+    focus: "Entire castle complex illuminated against night sky"
+    depth: "Lake surface in foreground, castle on rocky outcrop in middle ground, forest and mountains in background"

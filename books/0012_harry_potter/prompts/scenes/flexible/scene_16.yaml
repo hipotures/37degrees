@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Into the Forbidden Forest"
+  setting:
+    time: "1991 late night, May"
+    location: "Dense ancient forest on Hogwarts grounds, home to magical creatures"
+    weather: "Clear cold night with bright moon"
+  characters:
+    - appearance: "Boy, 11 years old, black messy hair, bright green eyes behind round glasses, thin frame, lightning bolt scar on forehead"
+      clothing: "Hogwarts black robes, moving nervously through undergrowth"
+      position: "Walking carefully through forest path, lantern in hand"
+      action: "Following trail of silver blood drops, scar beginning to hurt, looking around nervously"
+    - appearance: "Large boy, 11 years old, blonde hair, pig-like eyes, very overweight, spoiled expression"
+      clothing: "Hogwarts robes, stumbling through forest clumsily"
+      position: "Following behind Harry reluctantly"
+      action: "Whimpering and complaining, clearly terrified of forest dangers"
+    - appearance: "Giant of a man, nearly twice normal height, wild tangled black hair, beetle-black eyes, massive hands"
+      clothing: "Large moleskin overcoat, massive boots, carrying crossbow"
+      position: "Leading group through dangerous forest paths"
+      action: "Tracking injured creature, showing students forest's dangers, protective but worried"
+  scene:
+    mainElements: "Towering trees blocking moonlight, winding paths, mysterious sounds, glimpses of magical creatures"
+    details: "Ancient trees creating cathedral-like canopy overhead, moonbeams filtering through branches creating pools of silver light, mysterious rustling in undergrowth, glowing eyes watching from shadows, trail of silver blood droplets leading deeper into forest, lantern light creating dancing shadows"
+    background: "Dense forest extending in all directions, sound of hoofbeats in distance, other magical creatures moving unseen"
+    atmosphere: "Dark and dangerous, mysterious rustling, moonbeams through branches, sense of ancient magic and hidden threats, no text or letters visible"
+  composition:
+    cameraAngle: "Low angle through forest undergrowth"
+    focus: "Small group of humans venturing into dangerous magical territory"
+    depth: "Forest undergrowth in foreground, group with lanterns in middle ground, towering trees and darkness beyond"

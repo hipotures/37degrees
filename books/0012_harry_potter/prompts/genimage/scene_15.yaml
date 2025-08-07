@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1991 late night, December
+    location: Abandoned classroom at Hogwarts, dusty unused room
+    weather: Cold winter night
+  characters:
+  - appearance: Boy, 11 years old, black messy hair, bright green eyes behind round glasses, thin frame, lightning bolt scar
+      on forehead
+    clothing: Pajamas beneath silvery invisibility cloak, bare feet
+    position: Standing transfixed before magnificent mirror
+    action: Staring into mirror with tears in eyes, reaching out toward reflection, seeing his deepest desire
+  scene:
+    mainElements: Magnificent gold mirror with ornate frame standing alone in dusty classroom
+    details: Ornate golden mirror reaching from floor to ceiling, intricate carvings around frame, magical inscription along
+      top edge, dust motes dancing in moonlight from tall windows, silvery cloak pooled around Harry's feet, abandoned desks
+      covered in dust sheets
+    background: Dusty unused classroom with covered furniture, tall windows letting in moonlight, shadows in corners
+    atmosphere: Mysterious and emotionally powerful, moonlight casting silver glow, dust and neglect, profound longing and
+      discovery, no text or letters visible
+  composition:
+    cameraAngle: Medium shot from behind Harry showing him facing the mirror
+    focus: Harry's emotional reaction to seeing his heart's deepest desire
+    depth: Harry in foreground before mirror, magnificent mirror in middle ground, dusty abandoned classroom extending into
+      background
+visualElements:
+  colorPalette:
+    primary:
+    - rich fantasy colors
+    - jewel tones
+    secondary:
+    - atmospheric colors
+    - magical glows
+    background: atmospheric, often dark or misty
+    usageNotes: Rich, layered colors with magical atmosphere
+    saturation: medium to high
+    contrast: medium to high
+  lineArt:
+    style: painterly, loose
+    weight: varied, often hidden
+    color: integrated into painting
+    texture: organic brushstrokes
+    edgeTreatment: soft, painterly edges
+  lighting:
+    type: dramatic, magical
+    direction: varied for atmosphere
+    intensity: high contrast areas
+    shadows:
+      style: painted, atmospheric
+      color: cool or warm depending on scene
+      opacity: varied
+    highlights: magical glows, rim lighting
+  rendering:
+    technique: digital painting with textured brushes
+    texture: dry media brush texture
+    detailLevel: moderate to high
+    finish: glazed, painterly
+  perspective: cinematic, dynamic
+  mood:
+    overall: mythological, otherworldly, epic
+    emotion: wonder, mystery, adventure
+    tempo: varies from calm to dramatic
+    keywords:
+    - epic
+    - mystical
+    - otherworldly
+    - fantasy
+    - mythological
+  stylePrecedents:
+  - Craig Mullins digital concept art
+  - Frank Frazetta fantasy paintings
+  - Boris Vallejo fantasy illustrations
+  - Magic: The Gathering card art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

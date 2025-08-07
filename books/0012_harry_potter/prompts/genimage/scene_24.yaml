@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1991 afternoon, end of school term
+    location: Hidden magical platform at King's Cross Station, families reuniting
+    weather: Warm summer afternoon
+  characters:
+  - appearance: Boy, 11 years old, black messy hair, bright green eyes behind round glasses, thin frame, lightning bolt scar
+      on forehead
+    clothing: Muggle clothes, carrying owl cage and pulling trunk
+    position: Standing on platform looking toward barrier
+    action: Saying goodbye to friends, looking both sad to leave and apprehensive about returning to Dursleys
+  - appearance: Boy, 11 years old, flaming red hair, freckles, blue eyes, tall and lanky for his age
+    clothing: Casual clothes, surrounded by family
+    position: Being hugged by parents and siblings
+    action: Introducing Harry to his family, making plans for summer visit
+  - appearance: Large, beefy man, thick mustache, hardly any neck, small eyes, purple face when angry
+    clothing: Business suit, looking uncomfortable in magical setting
+    position: Standing stiffly by barrier, avoiding eye contact with magical families
+    action: Waiting impatiently for Harry, clearly uncomfortable with magical world
+  scene:
+    mainElements: Platform 9¾ with families saying goodbye, trunks and owl cages, magical crowd preparing to leave
+    details: Steam still rising from Hogwarts Express, families embracing and making summer plans, trunks and magical equipment
+      being loaded onto trolleys, owls hooting farewell calls, mixture of magical and muggle-dressed relatives
+    background: Scarlet train engine cooling after journey, other families reuniting, barrier leading back to muggle world
+    atmosphere: Bittersweet farewells, summer plans, return to two different worlds, friendship's promises to continue, no
+      text or letters visible
+  composition:
+    cameraAngle: Wide shot showing families reuniting on platform
+    focus: Contrast between magical world farewell and mundane world waiting
+    depth: Harry saying goodbye in foreground, families reuniting in middle ground, train and magical platform in background
+visualElements:
+  colorPalette:
+    primary:
+    - rich fantasy colors
+    - jewel tones
+    secondary:
+    - atmospheric colors
+    - magical glows
+    background: atmospheric, often dark or misty
+    usageNotes: Rich, layered colors with magical atmosphere
+    saturation: medium to high
+    contrast: medium to high
+  lineArt:
+    style: painterly, loose
+    weight: varied, often hidden
+    color: integrated into painting
+    texture: organic brushstrokes
+    edgeTreatment: soft, painterly edges
+  lighting:
+    type: dramatic, magical
+    direction: varied for atmosphere
+    intensity: high contrast areas
+    shadows:
+      style: painted, atmospheric
+      color: cool or warm depending on scene
+      opacity: varied
+    highlights: magical glows, rim lighting
+  rendering:
+    technique: digital painting with textured brushes
+    texture: dry media brush texture
+    detailLevel: moderate to high
+    finish: glazed, painterly
+  perspective: cinematic, dynamic
+  mood:
+    overall: mythological, otherworldly, epic
+    emotion: wonder, mystery, adventure
+    tempo: varies from calm to dramatic
+    keywords:
+    - epic
+    - mystical
+    - otherworldly
+    - fantasy
+    - mythological
+  stylePrecedents:
+  - Craig Mullins digital concept art
+  - Frank Frazetta fantasy paintings
+  - Boris Vallejo fantasy illustrations
+  - Magic: The Gathering card art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

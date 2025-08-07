@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1991 morning, first day of classes
+    location: Transfiguration classroom at Hogwarts, high-ceilinged stone room
+    weather: Clear morning
+  characters:
+  - appearance: Middle-aged woman, stern expression, black hair pulled back in tight bun, square spectacles, thin lips
+    clothing: Dark green tartan robes, pointed black hat, emerald green cloak
+    position: Standing behind teacher's desk at front of classroom
+    action: Demonstrating transfiguration magic by changing from tabby cat back to human form, commanding attention
+  - appearance: Girl, 11 years old, bushy brown hair, brown eyes, slightly large front teeth, earnest expression
+    clothing: Hogwarts black robes with red and gold Gryffindor trim, white shirt, carrying thick books
+    position: Sitting in front row, leaning forward
+    action: Taking careful notes, raising hand eagerly to answer questions, completely focused
+  scene:
+    mainElements: Stone classroom with high windows, rows of desks with transformation practice materials, blackboard with
+      magical equations
+    details: Tall Gothic windows letting in morning light, practice objects scattered on student desks waiting to be transformed,
+      magical teaching tools and demonstration materials, stern portraits of former professors watching from walls
+    background: Other students at desks looking intimidated, stone walls with educational charts and magical theory diagrams
+    atmosphere: Academic rigor and high expectations, morning light through tall windows, intellectual challenge and discovery,
+      no text or letters visible
+  composition:
+    cameraAngle: Medium shot from middle of classroom
+    focus: McGonagall's commanding presence and Hermione's eager attention
+    depth: Students at desks in foreground, McGonagall at front in middle ground, classroom extending upward to high ceiling
+visualElements:
+  colorPalette:
+    primary:
+    - rich fantasy colors
+    - jewel tones
+    secondary:
+    - atmospheric colors
+    - magical glows
+    background: atmospheric, often dark or misty
+    usageNotes: Rich, layered colors with magical atmosphere
+    saturation: medium to high
+    contrast: medium to high
+  lineArt:
+    style: painterly, loose
+    weight: varied, often hidden
+    color: integrated into painting
+    texture: organic brushstrokes
+    edgeTreatment: soft, painterly edges
+  lighting:
+    type: dramatic, magical
+    direction: varied for atmosphere
+    intensity: high contrast areas
+    shadows:
+      style: painted, atmospheric
+      color: cool or warm depending on scene
+      opacity: varied
+    highlights: magical glows, rim lighting
+  rendering:
+    technique: digital painting with textured brushes
+    texture: dry media brush texture
+    detailLevel: moderate to high
+    finish: glazed, painterly
+  perspective: cinematic, dynamic
+  mood:
+    overall: mythological, otherworldly, epic
+    emotion: wonder, mystery, adventure
+    tempo: varies from calm to dramatic
+    keywords:
+    - epic
+    - mystical
+    - otherworldly
+    - fantasy
+    - mythological
+  stylePrecedents:
+  - Craig Mullins digital concept art
+  - Frank Frazetta fantasy paintings
+  - Boris Vallejo fantasy illustrations
+  - Magic: The Gathering card art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Midnight Wandering"
+  setting:
+    time: "1991 late night, October"
+    location: "Stone corridors of Hogwarts at night, torch-lit passageways"
+    weather: "Clear cold night"
+  characters:
+    - appearance: "Boy, 11 years old, black messy hair, bright green eyes behind round glasses, thin frame, lightning bolt scar on forehead"
+      clothing: "Hogwarts black robes with red and gold Gryffindor trim, moving stealthily"
+      position: "Creeping through darkened corridor, pressed against stone wall"
+      action: "Moving carefully through shadows, checking around corners, carrying something silvery"
+    - appearance: "Boy, 11 years old, flaming red hair, freckles, blue eyes, tall and lanky for his age"
+      clothing: "Hogwarts robes, disheveled from sneaking around"
+      position: "Following behind Harry, equally nervous"
+      action: "Looking over shoulder nervously, whispering warnings about getting caught"
+    - appearance: "Girl, 11 years old, bushy brown hair, brown eyes, slightly large front teeth, earnest expression"
+      clothing: "Hogwarts robes over nightdress, bare feet"
+      position: "Catching up to the boys in corridor"
+      action: "Trying to convince them to return to dormitory, gesturing urgently"
+  scene:
+    mainElements: "Stone corridor with flickering torches in wall sconces, suits of armor standing guard, tapestries hanging from walls"
+    details: "Torch flames casting dancing shadows on ancient stone walls, suits of armor gleaming in firelight, thick tapestries depicting medieval scenes, cold stone floor beneath feet, mysterious silvery fabric partially visible in Harry's hands"
+    background: "Corridor extending into darkness, staircases leading to other floors, distant sound of footsteps"
+    atmosphere: "Dangerous adventure in forbidden hours, torch-lit medieval atmosphere, tension of breaking rules, no text or letters visible"
+  composition:
+    cameraAngle: "Low angle from floor level showing vulnerability of students"
+    focus: "Three friends breaking rules together in dangerous nighttime adventure"
+    depth: "Students creeping in foreground, torch-lit corridor in middle ground, mysterious darkness beyond"

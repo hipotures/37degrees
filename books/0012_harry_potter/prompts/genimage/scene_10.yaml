@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1991 morning, October
+    location: Hogwarts grounds, grassy area used for flying lessons
+    weather: Windy autumn morning
+  characters:
+  - appearance: Boy, 11 years old, black messy hair, bright green eyes behind round glasses, thin frame, lightning bolt scar
+      on forehead
+    clothing: Hogwarts black robes billowing in wind, red and gold Gryffindor trim
+    position: High in the air on broomstick, natural flying position
+    action: Chasing golden ball through the air with incredible skill and speed, completely focused
+  - appearance: Large boy, 11 years old, blonde hair, pig-like eyes, very overweight, spoiled expression
+    clothing: Expensive casual clothes beneath Hogwarts robes, straining at seams
+    position: On ground looking up fearfully
+    action: Pointing and shouting angrily, frustrated at being outshone
+  scene:
+    mainElements: Grassy training ground with broomsticks scattered about, students learning to fly
+    details: Broomsticks lying on grass where students dropped them, autumn leaves swirling in wind, other students standing
+      in groups watching the aerial display with amazement, Hogwarts castle visible in background, golden object glinting
+      in sunlight
+    background: Other first-year students watching from ground, Hogwarts castle towers, autumn trees with changing leaves
+    atmosphere: Windy autumn morning, excitement of discovery, natural talent emerging, peer conflict brewing, no text or
+      letters visible
+  composition:
+    cameraAngle: Low angle looking up at airborne student
+    focus: Harry's natural flying ability contrasted with earthbound students
+    depth: Students on ground in foreground, Harry flying in middle ground, castle and sky in background
+visualElements:
+  colorPalette:
+    primary:
+    - rich fantasy colors
+    - jewel tones
+    secondary:
+    - atmospheric colors
+    - magical glows
+    background: atmospheric, often dark or misty
+    usageNotes: Rich, layered colors with magical atmosphere
+    saturation: medium to high
+    contrast: medium to high
+  lineArt:
+    style: painterly, loose
+    weight: varied, often hidden
+    color: integrated into painting
+    texture: organic brushstrokes
+    edgeTreatment: soft, painterly edges
+  lighting:
+    type: dramatic, magical
+    direction: varied for atmosphere
+    intensity: high contrast areas
+    shadows:
+      style: painted, atmospheric
+      color: cool or warm depending on scene
+      opacity: varied
+    highlights: magical glows, rim lighting
+  rendering:
+    technique: digital painting with textured brushes
+    texture: dry media brush texture
+    detailLevel: moderate to high
+    finish: glazed, painterly
+  perspective: cinematic, dynamic
+  mood:
+    overall: mythological, otherworldly, epic
+    emotion: wonder, mystery, adventure
+    tempo: varies from calm to dramatic
+    keywords:
+    - epic
+    - mystical
+    - otherworldly
+    - fantasy
+    - mythological
+  stylePrecedents:
+  - Craig Mullins digital concept art
+  - Frank Frazetta fantasy paintings
+  - Boris Vallejo fantasy illustrations
+  - Magic: The Gathering card art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

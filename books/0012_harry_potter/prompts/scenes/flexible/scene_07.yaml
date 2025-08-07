@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Terror in the Dungeon"
+  setting:
+    time: "1991 afternoon, first potions lesson"
+    location: "Underground classroom in Hogwarts dungeons, cold stone chamber"
+    weather: "Overcast day above ground"
+  characters:
+    - appearance: "Middle-aged man, sallow skin, hooked nose, black eyes, greasy black hair hanging in curtains"
+      clothing: "Black flowing robes like a bat's wings, high collar, no visible decorations"
+      position: "Looming over student desk, intimidating stance"
+      action: "Interrogating student with menacing questions, arms crossed, creating atmosphere of fear"
+    - appearance: "Boy, 11 years old, black messy hair, bright green eyes behind round glasses, thin frame, lightning bolt scar on forehead"
+      clothing: "Hogwarts black robes with red and gold Gryffindor trim, white shirt"
+      position: "Sitting at desk, shrinking back"
+      action: "Trying to answer questions while visibly nervous, touching glasses unconsciously"
+  scene:
+    mainElements: "Stone walls, cauldrons on desks, pickled creatures in jars lining walls, professor's desk at front"
+    details: "Flickering torchlight casting dancing shadows on wet stone walls, bubbling cauldrons with mysterious potions, preserved magical creatures floating in glass jars, dungeon dampness creating oppressive atmosphere, ingredient shelves filled with disturbing specimens"
+    background: "Other students hunched over their cauldrons, stone archways leading to darker dungeon passages"
+    atmosphere: "Cold and intimidating, flickering torchlight, dank dungeon smell, tension and fear, no text or letters visible"
+  composition:
+    cameraAngle: "Low angle emphasizing Snape's intimidating presence"
+    focus: "Confrontation between menacing professor and frightened student"
+    depth: "Harry at desk in foreground, Snape looming over him in middle ground, dungeon chamber extending into shadows"

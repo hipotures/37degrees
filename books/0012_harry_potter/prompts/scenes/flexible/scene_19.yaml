@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Face to Face with Evil"
+  setting:
+    time: "1991 late night, June"
+    location: "Underground chamber beneath Hogwarts, chamber with Mirror of Erised"
+    weather: "Cold underground air"
+  characters:
+    - appearance: "Nervous man, pale, thinning hair, stammering disposition, now confident and menacing"
+      clothing: "Dark robes, no longer wearing turban, back of head visible"
+      position: "Standing before Mirror of Erised, no longer nervous"
+      action: "Speaking in clear voice without stammer, revealing his true evil nature, threatening Harry"
+    - appearance: "Boy, 11 years old, black messy hair, bright green eyes behind round glasses, thin frame, lightning bolt scar on forehead"
+      clothing: "Hogwarts robes, torn and dirty from trials"
+      position: "Standing defiantly despite pain in scar"
+      action: "Confronting revealed villain, scar burning with pain, showing courage despite terror"
+  scene:
+    mainElements: "Mirror of Erised standing in center of chamber, stone walls carved with mysterious symbols"
+    details: "Magnificent golden mirror reflecting strange images, torches casting dramatic shadows on ancient stone walls, mysterious symbols carved into chamber walls, magical energy crackling in air, dust and debris from underground trials scattered on floor"
+    background: "Stone chamber with archways leading to other trials, ancient magical architecture, sense of being deep beneath castle"
+    atmosphere: "Final confrontation between good and evil, crackling magical energy, pain and revelation, courage facing ultimate test, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot showing confrontation between teacher and student"
+    focus: "Shocking revelation of true villain and Harry's courageous response"
+    depth: "Harry and Quirrell facing each other in foreground, Mirror of Erised in middle ground, chamber walls extending into shadows"

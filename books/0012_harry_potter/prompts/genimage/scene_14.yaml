@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1991 Christmas morning, December 25th
+    location: Circular dormitory room in Gryffindor Tower, five four-poster beds
+    weather: Snowy morning, winter sunlight
+  characters:
+  - appearance: Boy, 11 years old, black messy hair, bright green eyes behind round glasses, thin frame, lightning bolt scar
+      on forehead
+    clothing: Pajamas and thick knitted sweater, bare feet
+    position: Sitting on his bed surrounded by gifts
+    action: Opening presents with wonder and joy, touching gifts gently as if they might disappear
+  - appearance: Boy, 11 years old, flaming red hair, freckles, blue eyes, tall and lanky for his age
+    clothing: Patched pajamas and matching knitted sweater
+    position: Sitting on his own bed with family presents
+    action: Showing Harry family traditions, sharing chocolate and homemade gifts
+  scene:
+    mainElements: Five four-poster beds with red hangings, trunks at foot of beds, tall windows overlooking grounds
+    details: Colorful wrapped presents scattered on beds, homemade knitted sweaters in different colors, snow falling past
+      tall windows, winter morning light streaming in, chocolate and sweets shared between beds, first real Christmas for
+      Harry
+    background: Other empty beds suggesting most students went home, snow-covered Hogwarts grounds visible through windows
+    atmosphere: Peaceful sleeping quarters, moonlight through windows, sense of brotherhood and shared adventures, warmth
+      of first real Christmas, no text or letters visible
+  composition:
+    cameraAngle: Warm medium shot from center of dormitory
+    focus: Harry experiencing his first real Christmas with new friend
+    depth: Boys with presents on beds in foreground, dormitory room in middle ground, snowy landscape through windows in background
+visualElements:
+  colorPalette:
+    primary:
+    - rich fantasy colors
+    - jewel tones
+    secondary:
+    - atmospheric colors
+    - magical glows
+    background: atmospheric, often dark or misty
+    usageNotes: Rich, layered colors with magical atmosphere
+    saturation: medium to high
+    contrast: medium to high
+  lineArt:
+    style: painterly, loose
+    weight: varied, often hidden
+    color: integrated into painting
+    texture: organic brushstrokes
+    edgeTreatment: soft, painterly edges
+  lighting:
+    type: dramatic, magical
+    direction: varied for atmosphere
+    intensity: high contrast areas
+    shadows:
+      style: painted, atmospheric
+      color: cool or warm depending on scene
+      opacity: varied
+    highlights: magical glows, rim lighting
+  rendering:
+    technique: digital painting with textured brushes
+    texture: dry media brush texture
+    detailLevel: moderate to high
+    finish: glazed, painterly
+  perspective: cinematic, dynamic
+  mood:
+    overall: mythological, otherworldly, epic
+    emotion: wonder, mystery, adventure
+    tempo: varies from calm to dramatic
+    keywords:
+    - epic
+    - mystical
+    - otherworldly
+    - fantasy
+    - mythological
+  stylePrecedents:
+  - Craig Mullins digital concept art
+  - Frank Frazetta fantasy paintings
+  - Boris Vallejo fantasy illustrations
+  - Magic: The Gathering card art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

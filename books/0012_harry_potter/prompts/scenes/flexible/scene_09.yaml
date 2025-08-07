@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Sorting Ceremony"
+  setting:
+    time: "1991 evening, September 1st"
+    location: "Main dining hall of Hogwarts Castle, four long house tables beneath enchanted ceiling"
+    weather: "Clear starry night reflected in ceiling"
+  characters:
+    - appearance: "Boy, 11 years old, black messy hair, bright green eyes behind round glasses, thin frame, lightning bolt scar on forehead"
+      clothing: "Hogwarts black robes, no house colors yet"
+      position: "Standing nervously in line with other first years"
+      action: "Waiting for his turn to be sorted, touching scar unconsciously, looking around in wonder"
+    - appearance: "Middle-aged woman, stern expression, black hair pulled back in tight bun, square spectacles, thin lips"
+      clothing: "Dark green tartan robes, emerald green cloak"
+      position: "Standing beside wooden stool with ancient hat"
+      action: "Calling names from parchment list, placing Sorting Hat on students' heads"
+  scene:
+    mainElements: "Four house tables with benches, High Table for professors, thousands of floating candles, ghost presence"
+    details: "Ancient pointed wizard hat sitting on three-legged stool, enchanted ceiling showing star-filled night sky, floating candles casting warm golden light, four house tables filled with eager students wearing their colors, ghosts drifting between tables"
+    background: "Professors at High Table watching ceremony, older students cheering for their houses, Great Hall's soaring architecture"
+    atmosphere: "Grand and welcoming, magical ceiling showing night sky, warmth of countless candles, communal anticipation, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot from back of Great Hall"
+    focus: "First years waiting to be sorted with Sorting Hat ceremony in progress"
+    depth: "First years in foreground, Sorting Hat ceremony in middle ground, entire Great Hall stretching into background"

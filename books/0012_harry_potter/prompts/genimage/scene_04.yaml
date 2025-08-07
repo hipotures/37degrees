@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1991 summer morning, July 31st
+    location: Kitchen at 4 Privet Drive, typical suburban family kitchen
+    weather: Sunny morning
+  characters:
+  - appearance: Large boy, 11 years old, blonde hair, pig-like eyes, very overweight, spoiled expression
+    clothing: Expensive casual clothes, school uniform, always well-dressed but straining at seams
+    position: Sitting at table surrounded by presents
+    action: Counting birthday presents with greedy excitement, demanding more
+  - appearance: Boy, 11 years old, black messy hair, bright green eyes behind round glasses, thin frame, lightning bolt scar
+      on forehead
+    clothing: Oversized Dursley cast-offs, faded t-shirt and too-large jeans
+    position: Standing by stove, cooking breakfast
+    action: Carefully tending bacon and eggs while watching cousin's celebration
+  scene:
+    mainElements: Modern kitchen with breakfast table, wrapped presents piled high, cooking breakfast
+    details: Stack of colorful wrapped gifts overwhelming table surface, smell of cooking bacon filling air, sunlight streaming
+      through window, stark contrast between treated family member and neglected child, kitchen implements and plates arranged
+      for family meal
+    background: Suburban kitchen with modern appliances, family photos on refrigerator excluding Harry
+    atmosphere: Contrast between privilege and neglect, warm cooking smells, morning sunlight, family inequality on display,
+      no text or letters visible
+  composition:
+    cameraAngle: Medium shot from kitchen doorway
+    focus: Split between spoiled cousin with presents and Harry working at stove
+    depth: Harry at stove in foreground, Dudley at table with presents in middle ground, kitchen extending into background
+visualElements:
+  colorPalette:
+    primary:
+    - rich fantasy colors
+    - jewel tones
+    secondary:
+    - atmospheric colors
+    - magical glows
+    background: atmospheric, often dark or misty
+    usageNotes: Rich, layered colors with magical atmosphere
+    saturation: medium to high
+    contrast: medium to high
+  lineArt:
+    style: painterly, loose
+    weight: varied, often hidden
+    color: integrated into painting
+    texture: organic brushstrokes
+    edgeTreatment: soft, painterly edges
+  lighting:
+    type: dramatic, magical
+    direction: varied for atmosphere
+    intensity: high contrast areas
+    shadows:
+      style: painted, atmospheric
+      color: cool or warm depending on scene
+      opacity: varied
+    highlights: magical glows, rim lighting
+  rendering:
+    technique: digital painting with textured brushes
+    texture: dry media brush texture
+    detailLevel: moderate to high
+    finish: glazed, painterly
+  perspective: cinematic, dynamic
+  mood:
+    overall: mythological, otherworldly, epic
+    emotion: wonder, mystery, adventure
+    tempo: varies from calm to dramatic
+    keywords:
+    - epic
+    - mystical
+    - otherworldly
+    - fantasy
+    - mythological
+  stylePrecedents:
+  - Craig Mullins digital concept art
+  - Frank Frazetta fantasy paintings
+  - Boris Vallejo fantasy illustrations
+  - Magic: The Gathering card art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

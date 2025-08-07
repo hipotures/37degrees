@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Boy in the Cupboard"
+  setting:
+    time: "1991 early morning, dawn light"
+    location: "Harry's bedroom at 4 Privet Drive, cramped space beneath staircase"
+    weather: "Clear morning"
+  characters:
+    - appearance: "Boy, 11 years old, black messy hair, bright green eyes behind round glasses, thin frame, lightning bolt scar on forehead"
+      clothing: "Oversized pajamas, too big hand-me-downs"
+      position: "Lying on narrow cot, just waking up"
+      action: "Rubbing scar unconsciously, sitting up carefully in low-ceiling space"
+  scene:
+    mainElements: "Tiny space with sloping ceiling, single cot, few belongings on shelves, spiders in corners"
+    details: "Dust motes in morning light filtering through crack under door, worn blanket, small pile of broken toys, coat hangers above bed, water stains on walls showing years of neglect"
+    background: "Wooden stairs visible above, sound of footsteps from family getting ready upstairs"
+    atmosphere: "Cramped, dark, neglected space showing Harry's mistreatment by the Dursleys, no text or letters visible"
+  composition:
+    cameraAngle: "Low angle from corner of cupboard"
+    focus: "Harry's face showing resilience despite circumstances"
+    depth: "Harry in foreground, cramped cupboard space in middle ground, suggestion of house beyond"

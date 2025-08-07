@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Troll in the Bathroom"
+  setting:
+    time: "1991 evening, Halloween night"
+    location: "Girls' bathroom at Hogwarts, stone-walled lavatory with multiple stalls"
+    weather: "Stormy night outside"
+  characters:
+    - appearance: "Massive mountain troll, twelve feet tall, dull granite-gray skin, great lumpy body"
+      clothing: "Rough animal hide around waist"
+      position: "Standing in center of destroyed bathroom, club raised"
+      action: "Smashing bathroom fixtures with enormous wooden club, roaring angrily"
+    - appearance: "Girl, 11 years old, bushy brown hair, brown eyes, slightly large front teeth, earnest expression"
+      clothing: "Hogwarts black robes, torn and dusty from hiding"
+      position: "Cowering behind damaged sink"
+      action: "Covering her head as debris falls around her, looking terrified"
+    - appearance: "Boy, 11 years old, black messy hair, bright green eyes behind round glasses, thin frame, lightning bolt scar on forehead"
+      clothing: "Hogwarts black robes with red and gold Gryffindor trim, disheveled"
+      position: "Standing in bathroom doorway with wand raised"
+      action: "Attempting magic to distract the troll, showing courage despite fear"
+  scene:
+    mainElements: "Stone bathroom with multiple stalls, sinks, and mirrors, now destroyed by troll rampage"
+    details: "Broken mirrors reflecting fractured light, shattered porcelain sinks and toilet pieces scattered across wet stone floor, water spraying from broken pipes, enormous wooden club splintering fixtures, massive troll footprints in debris"
+    background: "Bathroom stalls with doors hanging off hinges, stone walls cracked from impact, doorway leading to corridor"
+    atmosphere: "Chaos and destruction, water and debris everywhere, immediate physical danger, heroic rescue attempt, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing scale of destruction and size of troll"
+    focus: "Massive troll threatening small girl with brave boy attempting rescue"
+    depth: "Hermione cowering in foreground, enormous troll in middle ground, Harry in doorway in background"

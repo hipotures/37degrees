@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Mirror of Deepest Desire"
+  setting:
+    time: "1991 late night, December"
+    location: "Abandoned classroom at Hogwarts, dusty unused room"
+    weather: "Cold winter night"
+  characters:
+    - appearance: "Boy, 11 years old, black messy hair, bright green eyes behind round glasses, thin frame, lightning bolt scar on forehead"
+      clothing: "Pajamas beneath silvery invisibility cloak, bare feet"
+      position: "Standing transfixed before magnificent mirror"
+      action: "Staring into mirror with tears in eyes, reaching out toward reflection, seeing his deepest desire"
+  scene:
+    mainElements: "Magnificent gold mirror with ornate frame standing alone in dusty classroom"
+    details: "Ornate golden mirror reaching from floor to ceiling, intricate carvings around frame, magical inscription along top edge, dust motes dancing in moonlight from tall windows, silvery cloak pooled around Harry's feet, abandoned desks covered in dust sheets"
+    background: "Dusty unused classroom with covered furniture, tall windows letting in moonlight, shadows in corners"
+    atmosphere: "Mysterious and emotionally powerful, moonlight casting silver glow, dust and neglect, profound longing and discovery, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from behind Harry showing him facing the mirror"
+    focus: "Harry's emotional reaction to seeing his heart's deepest desire"
+    depth: "Harry in foreground before mirror, magnificent mirror in middle ground, dusty abandoned classroom extending into background"

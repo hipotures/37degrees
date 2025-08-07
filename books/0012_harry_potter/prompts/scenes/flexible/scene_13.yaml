@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Quidditch Match"
+  setting:
+    time: "1991 afternoon, November"
+    location: "Hogwarts Quidditch pitch, high above stadium filled with cheering students"
+    weather: "Cold clear day with strong winds"
+  characters:
+    - appearance: "Boy, 11 years old, black messy hair, bright green eyes behind round glasses, thin frame, lightning bolt scar on forehead"
+      clothing: "Scarlet Quidditch robes with gold trim, protective padding, goggles"
+      position: "High in air on racing broomstick, leaning forward in pursuit"
+      action: "Chasing tiny golden ball at incredible speed, completely focused on the catch"
+    - appearance: "Teenage boy, pale with white-blonde hair, pointed features, cold gray eyes"
+      clothing: "Green and silver Slytherin Quidditch robes"
+      position: "On racing broomstick nearby, trying to block"
+      action: "Attempting to knock Harry off course, playing aggressively and unfairly"
+  scene:
+    mainElements: "High in air above Quidditch stadium, goal posts visible, other players in background"
+    details: "Stadium packed with cheering students wearing house colors, banners flying in wind, other Quidditch players engaged in fast-paced game below, tiny golden ball with delicate silver wings darting between players, broomsticks leaving trails in cold air"
+    background: "Hogwarts castle beyond stadium, autumn landscape, spectators in stands with colorful scarves and banners"
+    atmosphere: "High-speed aerial competition, crowd excitement, cold wind, intense sporting rivalry, first taste of success, no text or letters visible"
+  composition:
+    cameraAngle: "Dynamic aerial shot following the action"
+    focus: "Harry pursuing golden snitch with rival player interfering"
+    depth: "Players in intense aerial chase in foreground, stadium and crowd in middle ground, castle and landscape in background"
