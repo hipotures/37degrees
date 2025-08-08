@@ -1,6 +1,7 @@
 book_info:
-  title: "Don Kichot"
+  title: "Don Quixote"
+  title_pl: "Don Kichot"
   author: "Miguel de Cervantes"
   year: 1605
-  genre: "Powieść przygodowa"
-  reading_time: "30-40 godzin"
+  genre: "Adventure novel"
+  reading_time: "30-40 hours"

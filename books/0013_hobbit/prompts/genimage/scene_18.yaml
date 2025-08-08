@@ -1,0 +1,96 @@
+sceneDescription:
+  setting:
+    time: Third Age, late afternoon
+    location: Massive solitary peak rising from desolate wasteland, ancient dwarf kingdom carved into mountain heart
+    weather: Clear day with last rays of sunlight striking mountain face at specific angle
+  characters:
+  - appearance: Middle-aged hobbit, late 40s, curly brown hair, round cheerful face, short stature, slightly portly build,
+      bright hazel eyes
+    clothing: Forest green velvet waistcoat, cream-colored linen shirt with brass buttons, brown woolen breeches, yellow silk
+      handkerchief in waistcoat pocket, now dusty from mountain climbing
+    position: Standing close to mountain wall, examining stone surface carefully
+    action: Running hands over smooth stone searching for hidden entrance, squinting at rock face in changing light, adjusting
+      position as sunlight moves
+  - appearance: Twelve dwarves of various ages, all bearded, stocky builds, ranging from young adult to elderly, different
+      colored beards and hair
+    clothing: Colorful wool tunics in deep reds, blues, and greens, leather belts and boots, chainmail armor beneath tunics,
+      traveling packs
+    position: Gathered behind hobbit on narrow mountain ledge, watching intently
+    action: Holding breath in anticipation, some consulting ancient parchment map, others watching sun's position anxiously,
+      gripping weapons nervously
+  - appearance: Dwarf lord in his 150s, noble bearing, long black hair streaked with silver, full black beard with silver
+      threads, deep-set dark eyes, broad shoulders
+    clothing: Royal blue wool tunic with silver embroidery, black leather belt with ornate silver buckle, dark chainmail beneath
+      tunic
+    position: Standing at hobbit's shoulder, tension visible in every line of his body
+    action: Watching stone wall with burning intensity, hand trembling slightly on sword hilt, breathing heavily with emotion
+      of returning home
+  scene:
+    mainElements: Great stone gates with dwarvish carvings, vast underground halls suggested beyond, throne room with stone
+      seats, smooth stone wall hiding secret entrance
+    details: Massive mountain face with weathered stone surface, intricate dwarvish runes and carvings barely visible in rock,
+      narrow ledge providing precarious footing, ancient parchment map with moon-letters showing in specific light, key-shaped
+      depression becoming visible as sunlight hits at perfect angle, loose rocks scattered on ledge, rope and climbing gear
+      from recent ascent
+    background: Desolate wasteland stretching below mountain, barren rocky terrain extending to horizon, other mountain peaks
+      visible in distance
+    atmosphere: Echoing vastness, cool stone surfaces, dim light revealing ancient secrets, sense of abandoned grandeur about
+      to be reclaimed, mounting tension before entering dragon's lair, no text or letters visible
+  composition:
+    cameraAngle: Close-up shot showing secret door mechanism being revealed by sunlight
+    focus: Moment of discovery as hidden entrance becomes visible in perfect light
+    depth: Stone wall and hidden door in foreground, anxious watchers in middle ground, vast wasteland in background
+visualElements:
+  colorPalette:
+    primary:
+    - warm pastels
+    - soft earth tones
+    - gentle blues and greens
+    secondary:
+    - bright accent colors for details
+    background: soft washes or textured paper
+    usageNotes: Harmonious colors that feel safe and inviting
+    saturation: medium, slightly muted
+    contrast: gentle, no harsh transitions
+  lineArt:
+    style: soft, organic lines
+    weight: varied, hand-drawn quality
+    color: brown or dark color, not pure black
+    texture: slightly rough, pencil-like
+    edgeTreatment: gentle, rounded forms
+  lighting:
+    type: warm, comforting
+    direction: soft overall illumination
+    intensity: gentle
+    shadows:
+      style: soft, minimal
+      color: warm grays or purples
+      opacity: light
+    highlights: subtle warmth
+  rendering:
+    technique: mixed media appearance
+    texture: visible paper texture, soft brushwork
+    detailLevel: simplified but expressive
+    finish: matte with gentle textures
+  perspective: slightly naive, not perfectly accurate
+  mood:
+    overall: warm, inviting, magical
+    emotion: wonder, safety, adventure
+    tempo: gentle, dreamlike
+    keywords:
+    - whimsical
+    - magical
+    - comforting
+    - imaginative
+    - nostalgic
+  stylePrecedents:
+  - Quentin Blake
+  - Maurice Sendak
+  - Beatrix Potter
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

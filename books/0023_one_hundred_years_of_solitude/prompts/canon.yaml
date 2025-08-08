@@ -1,0 +1,191 @@
+canon:
+  characters:
+    - id: "jose_arcadio_buendia"
+      name: "José Arcadio Buendía"
+      description_block: |
+        characters:
+          - appearance: "Man, late 20s to elderly, potężna budowa ciała with extraordinary strength that allows him to fell a horse by grabbing its ears, in youth charismatic patriarch full of energy and curiosity, in madness becomes emaciated with long grey beard and hair, wild absent gaze"
+            clothing: "Simple rural linen shirts and pants in youth, in madness nearly naked covered only by blanket or loincloth"
+            posture: "In youth moves with energy and confidence, broad decisive gestures, in madness restricted movements, often talking to himself in incomprehensible Latin"
+    
+    - id: "ursula_iguaran"
+      name: "Úrsula Iguarán"
+      description_block: |
+        characters:
+          - appearance: "Woman, teenage to over 115 years old, described as active, small, stern woman with steel nerves, embodiment of vitality and strength through most of life, in old age when loses sight body begins to shrink, at end of life becomes so small and light resembles newborn or doll, skin becomes wrinkled and transparent"
+            clothing: "Dark, stern, simple dresses throughout life reflecting pragmatism and mourning for family members, characteristic stiff starched petticoats that make quiet whisper during constant bustling"
+            posture: "Extraordinarily energetic person who seems to be everywhere from dawn to late night, quick purposeful movements, even after losing sight moves around house with amazing precision guided by memory and sense of smell, expression usually stern and determined"
+    
+    - id: "jose_arcadio_son"
+      name: "José Arcadio (son)"
+      description_block: |
+        characters:
+          - appearance: "Man, teenager to adult, inherited enormous physical strength from father, described as possessing enormous penis becoming his characteristic feature, after return from long journey is enormous man, powerfully built with tanned skin, entire body from neck to ankles covered with dense colorful tattoos in various languages depicting scenes and symbols from travels, wild exotic intimidating appearance"
+            clothing: "Simple sailor clothes - loose pants and unbuttoned shirt, often walks with bare torso to display tattoos"
+            posture: "Moves with nonchalance and self-confidence, speaks loudly, thunderous laugh, physically dominates space"
+    
+    - id: "colonel_aureliano_buendia"
+      name: "Colonel Aureliano Buendía"
+      description_block: |
+        characters:
+          - appearance: "Man, from birth to death in lonely old age, born with open eyes prophesying his gift of clairvoyance, as child and youth silent and withdrawn, slender almost ascetic build, as result of 32 lost wars face takes on harsh tired expression of veteran, penetrating melancholic gaze, suffers from painful boils under armpits (hidradenitis suppurativa) rare but significant physical detail emphasizing inner suffering"
+            clothing: "In youth simple modest clothes, as military commander wears liberal uniform which over time becomes worn faded and repeatedly patched, in old age after wars simple shirt and pants working in goldsmith workshop"
+            posture: "Moves restrainedly and composedly, economical gestures, rarely smiles, face usually expresses deep contemplation and sadness"
+    
+    - id: "amaranta"
+      name: "Amaranta"
+      description_block: |
+        characters:
+          - appearance: "Woman, from birth to death in old age, can be assumed attractive in youth since competed with Rebeca for Pietro Crespi's affections, key unchanging visual feature is black silk bandage worn on right hand after deliberately burning it in fire as penance after Pietro's suicide, wears bandage until death as symbol of virginity and rejected love"
+            clothing: "Usually wears dark stern dresses reflecting inner bitterness and permanent state of mourning over unfulfilled life"
+            posture: "Movements nervous and full of tension, often occupied with sewing or embroidery, stabbing needle with fierceness, expression shows embitterment, jealousy and deeply hidden sadness"
+    
+    - id: "rebeca"
+      name: "Rebeca"
+      description_block: |
+        characters:
+          - appearance: "Woman, arrives at age 11, dies as lonely old woman, upon arrival child with greenish skin, round tight-as-drum belly and large frightened eyes indicating illness and malnutrition, has strange habit of eating earth and lime, after healing and care by Úrsula grows into beautiful young woman, in old age after husband's death locks herself in house, becomes wild and stops caring for herself"
+            clothing: "Arrives in dress with diagonal stripes dyed black worn and peeling patent leather shoes, as young lady dresses fashionably according to latest trends brought by Pietro Crespi, in old age wears destroyed old clothes"
+            posture: "In childhood withdrawn, often sits in corner sucking thumb, as young woman full of passion and determination, in old age movements become slow and she avoids contact with people"
+    
+    - id: "remedios_la_bella"
+      name: "Remedios la Bella (Remedios the Beautiful)"
+      description_block: |
+        characters:
+          - appearance: "Woman, from birth to ascension as young woman around 18-20 years old, described as most beautiful woman ever seen in Macondo, her beauty is unearthly, disturbing and mortally dangerous for men who look at her with desire, has long thick hair and radiant skin, body emits subtle disturbing scent that drives men to madness, completely unaware of her beauty and its effect on others giving impression of being mentally disabled though Colonel Aureliano believes she possesses extraordinary clarity of mind"
+            clothing: "Despises clothes and fashion preferring simplicity and comfort, often walks around house naked or in simple plain shirt which further enhances her natural beauty, at family's request shaves head to avoid having to comb her magnificent hair"
+            posture: "Natural graceful movements, completely unconscious of her effect on others, innocent childlike demeanor despite devastating beauty"
+    
+    - id: "aureliano_segundo"
+      name: "Aureliano Segundo"
+      description_block: |
+        characters:
+          - appearance: "Man, from birth to death at same moment as twin brother José Arcadio Segundo, in youth identical to twin brother, with age becomes fat hedonist, jovial and loud, his bulk result of endless feasts, drinking bouts and dissolute life, embodiment of vitality and appetite for life"
+            clothing: "Dresses loudly and richly reflecting his status as richest man in Macondo, wears colorful shirts, expensive shoes and jewelry"
+            posture: "Jovial animated movements, loud laughter, gestures of a man who enjoys life to the fullest"
+    
+    - id: "fernanda_del_carpio"
+      name: "Fernanda del Carpio"
+      description_block: |
+        characters:
+          - appearance: "Woman, arrives in Macondo as young woman, dies in old age, in youth extraordinarily beautiful chosen as most beautiful among 5000 girls, has aristocratic bearing, pale complexion and haughty facial expression, with age beauty fades and face takes on harsh embittered expression"
+            clothing: "Always dresses formally and old-fashioned inappropriately for tropical Macondo climate, wears long dark dresses, lace and veils emphasizing her sense of superiority and alienation"
+            posture: "Aristocratic bearing, movements reflecting sense of superiority, haughty expression, never able to integrate with Buendía family"
+    
+    - id: "melquiades"
+      name: "Melquíades"
+      description_block: |
+        characters:
+          - appearance: "Gypsy of indeterminate fluid age, appears as old man but can also regain youth, timeless almost immortal figure, described as having untamed beard and sparrow hands, has Asian appearance and penetrating all-knowing eyes"
+            clothing: "Characteristic black hat with wide brim resembling raven wings, velvet worn vest covered with green patina of centuries"
+            posture: "Mysterious wise movements of someone who knows all secrets of time, catalyst of changes in Macondo bringing knowledge science and magic"
+    
+    - id: "pilar_ternera"
+      name: "Pilar Ternera"
+      description_block: |
+        characters:
+          - appearance: "Woman, lives over 140 years witnessing almost entire history of Macondo, described as fat talkative with matron-in-distress expression, has laughing wise eyes and sensual manner, characteristic feature is smell of smoke that constantly accompanies her, in old age sits in rocking chair in her brothel surrounded by fortune-telling cards"
+            clothing: "Simple clothes appropriate for her role as embodiment of fertility and folk wisdom"
+            posture: "Movements of woman comfortable with her sexuality and role as keeper of secrets, maternal yet sensual presence"
+
+  locations:
+    - id: "macondo_early"
+      name: "Early Macondo (Edenic Phase)"
+      description_block: |
+        setting:
+          location: "Fictional village in Colombian Caribbean coastal region, founded by José Arcadio Buendía and companions after long jungle journey seeking sea, village of twenty adobe and cane huts built on riverbank with transparent water flowing over bottom of smooth white enormous prehistoric egg-like stones"
+        mainElements: "Simple organic adobe huts with cane (cañabrava) thatched roofs, functional buildings blended into surrounding nature, world so new that many things lacked names and had to be pointed at to mention them"
+        atmosphere: "Paradise-like innocence, silence and peace broken only by natural sounds of exotic bird songs, river murmur and wind whisper in leaves, air carries scent of moist earth, blooming flowers and rotting jungle vegetation, high temperature with almost tangible humidity"
+
+    - id: "macondo_developed"
+      name: "Developed Macondo (Contact with World)"
+      description_block: |
+        setting:
+          location: "Same Colombian Caribbean village but transformed by arrival of railway and contact with outside world, mud and cane houses of founders replaced by brick buildings with wooden shutters and cement floors, separate wired compound built for American banana company workers"
+        mainElements: "Alongside traditional huts appear brick houses in colonial and republican style with verandas, balconies and more complex details, first public utility buildings cinema, hotel, telegraph office, most significant visual intervention is separate compound surrounded by barbed wire for American banana company workers consisting of identical wooden houses with verandas covered by metal screens, surrounded by evenly trimmed lawns and blue swimming pools"
+        atmosphere: "Silence replaced by noise train whistle, construction sounds, gramophone music, new scents of coal, lubricants, but also perfumes and imported goods, air filled with dust rising from unpaved streets"
+
+    - id: "macondo_ruins"
+      name: "Ruined Macondo (Decay and Destruction)"
+      description_block: |
+        setting:
+          location: "Same village after banana workers massacre and five-year flood, completely decayed with buildings rotting and crumbling, plaster peeling from walls, wooden elements rotting, roofs leaking, streets turned into quagmires"
+        mainElements: "Buildings rot and fall apart, streets become swamps, wild vegetation reclaims territory, omnipresent water and mud, wild plants devouring city"
+        atmosphere: "Omnipresent dampness and smell of mustiness, sounds of dripping water, creaking of deteriorating structures and insect sounds, atmosphere of abandonment, nostalgia and inevitable death, final scene shows apocalyptic hurricane literally sweeping Macondo off earth leaving only whirlwind of dust and debris"
+
+    - id: "buendia_house"
+      name: "Casa de los Buendía"
+      description_block: |
+        setting:
+          location: "Central house in Macondo, best house in village serving as model for others, evolves from simple hut to expanded mansion to final ruin"
+        mainElements: "Initially small well-lit salon, terrace-shaped dining room with cheerfully colored flowers, two bedrooms, courtyard with gigantic chestnut tree, well-tended garden and corral, despite simplicity (packed earth floors, unwhitewashed clay walls) always impeccably clean thanks to Úrsula's tireless work, old chests with clothes emit warm scent of basil, later additions include new bedrooms, begonia porch, Colonel Aureliano's goldsmith workshop and mysterious Melquíades room"
+        atmosphere: "Center of life, later place of ghosts and memories, finally tomb, physical degradation reflects moral and spiritual decline of last generations of family"
+
+    - id: "melquiades_room"
+      name: "Pokój Melquíadesa (Melquíades' Room)"
+      description_block: |
+        setting:
+          location: "Small room in depths of Buendía house, always seems to exist outside time"
+        mainElements: "Dark room lit only by window, full of dust that seems luminous, parchments, alchemical instruments, daguerreotype, human skeleton"
+        atmosphere: "Mysterious, magical, scientific atmosphere, smell of old books and chemicals, place where past present and future converge"
+
+  items:
+    - id: "melquiades_parchments"
+      name: "Pergaminy Melquíadesa (Melquíades' Parchments)"
+      description_block: |
+        details: "Old yellowed scrolls covered with dense incomprehensible Sanskrit writing and mysterious diagrams, contain entire hundred-year history of Buendía family written century earlier, represent destiny, history and memory, ultimate unchangeable record of history as opposed to official narrative that erases inconvenient facts like banana massacre, metaphor for literature itself as parchments are meta-reference to novel itself"
+
+    - id: "golden_fish"
+      name: "Złote Rybki (Golden Fish)"
+      description_block: |
+        details: "Small precisely crafted fish made of gold with fine scales and diamond eyes, symbolize barren repetitive work, created by Colonel Aureliano Buendía in his goldsmith workshop as escape from world and memories, process of creating them is precise repeatable work, but he regularly melts finished fish to recover gold and start work anew symbolizing futility and cyclical nature of his actions both in art and war"
+
+    - id: "magnets"
+      name: "Magnesy (Magnets)"
+      description_block: |
+        details: "Two heavy iron bars that attract metal objects brought by gypsies as magical invention, symbolize magical power of science for people encountering unknown phenomena, represent intersection of magic and reality that defines magical realism"
+
+    - id: "spanish_galleon"
+      name: "Hiszpański Galeon (Spanish Galleon)"
+      description_block: |
+        details: "Rotted moss and orchid-covered ship wreck found in middle of jungle by José Arcadio Buendía, symbolizes surreal collision of history and myth, represents colonial past intruding into present reality, visual embodiment of magical realism where impossible becomes mundane"
+
+    - id: "ash_cross"
+      name: "Popielny Krzyż (Ash Cross)"
+      description_block: |
+        details: "Dark permanent mark on foreheads of Colonel Aureliano's seventeen illegitimate sons made with ashes on Ash Wednesday by priest, impossible to wash off becomes their identifying mark and simultaneously stigma allowing government assassins to track down and murder all seventeen, powerful symbol of destiny and violence"
+
+    - id: "yellow_butterflies"
+      name: "Żółte Motyle (Yellow Butterflies)"
+      description_block: |
+        details: "Swarm of small bright yellow butterflies that always surround Mauricio Babilonia, after his tragic accident swarms of yellow butterflies haunt Buendía house becoming harbinger of misfortune and symbol of impossible-to-erase memory of love"
+
+    - id: "pig_tail"
+      name: "Ogon Świni (Pig's Tail)"
+      description_block: |
+        details: "Small curled tail on newborn last descendant of Buendía family, ultimate fulfillment of incest curse, represents final consequence of family's inability to love outside themselves"
+
+    - id: "ice"
+      name: "Lód (Ice)"
+      description_block: |
+        details: "Large transparent cold block kept in pirate chest by gypsies, represents wonder and unknown world, symbol of magical discovery that opens novel, embodiment of innocent amazement at scientific marvels in pre-modern world"
+
+    - id: "black_bandage"
+      name: "Czarny Bandaż (Black Bandage)"
+      description_block: |
+        details: "Black silk bandage worn by Amaranta on burned right hand after deliberately burning it in fire as penance for Pietro Crespi's suicide, wears until death as symbol of her virginity and rejected love, permanent reminder of self-inflicted punishment and bitter solitude"
+
+    - id: "golden_chamber_pot"
+      name: "Złoty Nocnik (Golden Chamber Pot)"
+      description_block: |
+        details: "Golden chamber pot belonging to Fernanda del Carpio, symbol of her haughtiness and inability to adapt to Macondo reality, represents aristocratic pretensions completely inappropriate for tropical village life"
+
+    - id: "alchemical_instruments"
+      name: "Instrumenty Alchemiczne (Alchemical Instruments)"
+      description_block: |
+        details: "Alembics, retorts, crucibles in José Arcadio Buendía's laboratory, represent obsessive pursuit of knowledge and transformation of matter, symbols of man's attempt to understand and control natural world through science"
+
+    - id: "yellow_train"
+      name: "Żółty Pociąg (Yellow Train)"
+      description_block: |
+        details: "Small innocent yellow train that brings modernity to Macondo, arrives as miracle for inhabitants but simultaneously herald of end of their isolation and beginning of exploitation, visual symbol of irreversible change, represents arrival of progress that brings both advancement and destruction"

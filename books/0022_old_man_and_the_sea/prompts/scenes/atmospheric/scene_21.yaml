@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Dawn Return with Skeleton Trophy"
+  setting:
+    time: "September 1950, dawn, 5:30 AM, sun rising after three days at sea"
+    location: "Small stone harbor with wooden docks extending into protected bay where Cojímar River meets ocean"
+    weather: "Clear morning after long ordeal, gentle harbor breeze, calm water"
+  characters:
+    - appearance: "Old man over 70 years, thin and gaunt but with strong sinewy arms, height average for elderly Cuban fisherman, weathered dark skin with deep wrinkles on neck and face, brown spots of benign skin cancer on cheeks, hands covered with deep old healed scars from fishing lines"
+      clothing: "Worn patched shirt faded by sun and salt, old threadbare trousers, often barefoot, straw hat when at sea for sun protection"
+      position: "Slumped exhausted in boat stern"
+      action: "Slowly rowing toward harbor with last reserves of strength, utterly spent from ordeal"
+  scene:
+    mainElements: "Stone and concrete quays weathered by decades of salt spray, colorful small fishing boats called skiffs moored to bollards, fish house building where catches are processed, scattered fishing nets and equipment"
+    details: "Small wooden boat approximately 16 feet long, weathered but seaworthy, single mast with patched sail sewn from flour sacks, simple wooden oars, no motor, painted hull faded from years of sun and salt. Massive fish skeleton over 18 feet long, white vertebrae and ribs picked completely clean by sharks, great head with intact sword-like bill, tail fin still attached, lashed to side of small fishing boat extending far beyond boat length, morning sun creating dramatic shadows of skeleton against harbor stones"
+    background: "Harbor peaceful in early morning light, village still mostly sleeping, other fishing boats secured and empty, sunrise painting sky soft colors"
+    atmosphere: "Exhausted return after epic struggle, skeletal trophy bearing witness to extraordinary battle, mixture of triumph and loss, dignity in defeat, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing boat and skeleton approaching harbor"
+    focus: "Dramatic contrast between small boat and enormous fish skeleton"
+    depth: "Foreground shows harbor dock details, middle ground captures returning boat with trophy, background reveals peaceful morning village"

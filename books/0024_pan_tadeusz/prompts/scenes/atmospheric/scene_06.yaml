@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Bright Noon in Forest Clearing"
+  setting:
+    time: "1811, midday, 12:00 PM, harsh vertical shadows at height of summer sun"
+    location: "Forest clearing in primeval Lithuanian woodland, natural amphitheater surrounded by ancient trees"
+    weather: "Blazing summer heat, no wind, air shimmering above sun-baked earth, seeking shade essential"
+  characters:
+    - appearance: "Elderly man around 72 years, cheerful animated face, lively eyes, sprightly despite advanced age, respected dignified appearance"
+      clothing: "Traditional nobleman's attire appropriate for feast master, during cooking may wear apron or cooking coat, ceremonial dress for formal occasions"
+      position: "Resting in shade of massive oak tree, back against trunk, hunting horn beside him"
+      action: "Wiping sweat from brow with cloth, eyes closed in brief rest, listening intently to forest sounds around him"
+  scene:
+    mainElements: "Blazing sunlight flooding forest clearing creating stark contrast between brilliant light and deep shadows, ancient oak providing blessed shade island, undergrowth wilting in extreme heat"
+    details: "Air visibly shimmering with heat waves above sun-baked clearing, leaves hanging motionless in dead air, insects buzzing lazily in oppressive heat, dust motes suspended in harsh sunbeams creating columns of light, tree bark radiating stored warmth, few birds hidden deep in shade panting with beaks open, distant sound of stream barely flowing in drought conditions"
+    background: "Forest canopy creating natural cathedral of green shade, distant mountains wavering in heat haze, sky bleached nearly white by intense solar radiation"
+    atmosphere: "Oppressive summer heat creating languorous drowsy mood, harsh beauty of nature at its most extreme, necessity of seeking shelter from elements, midday silence when all creatures rest, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot emphasizing contrast between blazing clearing and cool shade"
+    focus: "Figure resting in protective shade with heat effects visible in clearing beyond"
+    depth: "Foreground shows heat-stressed vegetation in harsh light, middle ground captures shaded resting figure, background reveals forest depths offering cooler retreat"

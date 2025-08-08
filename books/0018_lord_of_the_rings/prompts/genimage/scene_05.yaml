@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Third Age of Middle-earth, late afternoon with storm clouds gathering
+    location: Narrow mountain path winding through Redhorn Pass in Misty Mountains, dangerous route toward Moria
+    weather: Heavy snow falling, wind howling through mountain peaks, visibility poor
+  characters:
+  - appearance: Nine travelers in thick cloaks and winter gear, forms barely visible through driving snow
+    clothing: Heavy traveling cloaks pulled tight against storm, hoods up, packs on backs, weapons secured
+    position: Single file on narrow path carved into mountainside, walking carefully through deep snow
+    action: Struggling forward against fierce wind and snow, one figure leading with staff raised against elements
+  scene:
+    mainElements: Treacherous narrow path along precipice, towering rock walls on one side, deadly drop on the other, deep
+      snow covering everything
+    details: Ancient path carved into living rock barely wide enough for single file, steep cliff dropping away into misty
+      depths below, vertical rock face rising impossibly high above, snow piled deep making footing treacherous, wind-carved
+      ice formations hanging like daggers, storm clouds swirling around mountain peaks, footprints quickly filling with snow
+      behind travelers, no text or letters visible
+    background: Jagged mountain peaks disappearing into storm clouds, glimpses of other ranges through breaks in weather
+    atmosphere: Bitter cold and howling wind, sense of danger and isolation, struggle against hostile elements, determination
+      to continue despite hardship
+  composition:
+    cameraAngle: Medium wide shot from behind the group showing their perilous position
+    focus: The dangerous journey and the small figures braving the hostile mountain environment
+    depth: Foreground shows the travelers on the path, middle ground reveals the treacherous mountain terrain, background
+      shows storm-shrouded peaks
+visualElements:
+  colorPalette:
+    primary:
+    - rich fantasy colors
+    - jewel tones
+    secondary:
+    - atmospheric colors
+    - magical glows
+    background: atmospheric, often dark or misty
+    usageNotes: Rich, layered colors with magical atmosphere
+    saturation: medium to high
+    contrast: medium to high
+  lineArt:
+    style: painterly, loose
+    weight: varied, often hidden
+    color: integrated into painting
+    texture: organic brushstrokes
+    edgeTreatment: soft, painterly edges
+  lighting:
+    type: dramatic, magical
+    direction: varied for atmosphere
+    intensity: high contrast areas
+    shadows:
+      style: painted, atmospheric
+      color: cool or warm depending on scene
+      opacity: varied
+    highlights: magical glows, rim lighting
+  rendering:
+    technique: digital painting with textured brushes
+    texture: dry media brush texture
+    detailLevel: moderate to high
+    finish: glazed, painterly
+  perspective: cinematic, dynamic
+  mood:
+    overall: mythological, otherworldly, epic
+    emotion: wonder, mystery, adventure
+    tempo: varies from calm to dramatic
+    keywords:
+    - epic
+    - mystical
+    - otherworldly
+    - fantasy
+    - mythological
+  stylePrecedents:
+  - Craig Mullins digital concept art
+  - Frank Frazetta fantasy paintings
+  - Boris Vallejo fantasy illustrations
+  - Magic: The Gathering card art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

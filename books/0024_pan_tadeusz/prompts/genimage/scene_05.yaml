@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1811, morning, 8:00 AM, shadows shortening as sun climbs higher, clear bright light
+    location: Gothic castle ruins of Horeszko family estate, stone fortress partially collapsed but retaining romantic grandeur
+    weather: Perfect clear morning, gentle warm breeze, ideal conditions for contemplation and sketching
+  characters:
+  - appearance: Young aristocrat, delicate refined features, dreamy contemplative expression, pale complexion, slender build,
+      romantic temperament visible in eyes
+    clothing: English fashion - tailored surtout coat, fashionable trousers, elegant hat, foreign attire contrasting sharply
+      with traditional Polish garments
+    position: Seated on fallen stone block with sketchbook in lap, partially shaded by ivy-covered wall
+    action: Sketching ruins with artistic concentration, occasionally pausing to study architectural details, lost in romantic
+      reverie about medieval past
+  scene:
+    mainElements: Moss-covered stone walls with ivy growth creating green tapestry, empty Gothic window openings framing blue
+      sky, ruined towers and battlements creating dramatic silhouettes, courtyard overgrown with wild vegetation
+    details: Morning sunlight streaming through empty windows casting geometric shadow patterns on stone floor, ivy leaves
+      rustling in gentle breeze creating play of light and shadow, wild roses growing through cracks in walls releasing sweet
+      fragrance, lizards darting across sun-warmed stones, echo of wind whistling through broken arches, fallen carved stones
+      scattered like puzzle pieces of former glory
+    background: Lithuanian countryside stretching beyond ruins showing peaceful agricultural lands, distant view of Soplicowo
+      manor visible through gaps in walls, blue sky with few white clouds
+    atmosphere: Romantic melancholy of faded grandeur, morning light revealing both beauty and decay of ancient fortress,
+      sense of history and lost nobility, peaceful contemplation amid remnants of power, no text or letters visible
+  composition:
+    cameraAngle: Low angle emphasizing dramatic height and decay of ruins
+    focus: Young artist amid picturesque ruins with dramatic lighting creating romantic scene
+    depth: Foreground shows detailed stonework and ivy growth, middle ground captures figure sketching amid ruins, background
+      reveals countryside landscape beyond walls
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

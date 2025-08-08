@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: Third Age, late morning
+    location: Cobblestone path leading to Bag End in peaceful hobbit village
+    weather: Clear spring day with gentle breeze moving through trees
+  characters:
+  - appearance: Tall elderly wizard, long grey beard reaching his belt, sharp grey eyes beneath bushy grey eyebrows, weathered
+      face, ancient appearance
+    clothing: Long grey robes with wide sleeves, tall pointed grey hat, worn brown leather boots, leather belt with small
+      pouches
+    position: Walking up cobblestone path toward green door, imposing height contrasting with hobbit-sized surroundings
+    action: Striding purposefully with gnarled wooden staff, smoke rings curling from his long pipe, eyes fixed on hobbit-hole
+      ahead
+  - appearance: Middle-aged hobbit, late 40s, curly brown hair, round cheerful face, short stature, slightly portly build,
+      bright hazel eyes
+    clothing: Forest green velvet waistcoat, cream-colored linen shirt with brass buttons, brown woolen breeches, yellow silk
+      handkerchief in waistcoat pocket
+    position: Frozen at his doorstep, hand reaching for door handle
+    action: Staring wide-eyed at approaching wizard, mouth slightly agape in surprise, nervously patting waistcoat pocket
+  scene:
+    mainElements: Winding cobblestone path bordered by flowering hedges, Bag End's distinctive round architecture, garden
+      gate standing open
+    details: Ancient oak tree casting dappled shadows across path, purple and yellow wildflowers growing between stones, wooden
+      garden gate with iron hinges, stone steps leading to round door, brass door knocker gleaming in sunlight, small wooden
+      sign post at path junction
+    background: Other hobbit-holes visible on distant hillsides, gentle slopes covered in green grass, puffy white clouds
+      in blue sky
+    atmosphere: Tension building beneath pastoral serenity, sense of change approaching peaceful routine, mysterious presence
+      disrupting ordinary morning, no text or letters visible
+  composition:
+    cameraAngle: Medium shot from behind Bilbo looking toward approaching Gandalf
+    focus: Contrast between small nervous hobbit and tall imposing wizard
+    depth: Bilbo at door in foreground, Gandalf on path in middle ground, village landscape in background
+visualElements:
+  colorPalette:
+    primary:
+    - warm pastels
+    - soft earth tones
+    - gentle blues and greens
+    secondary:
+    - bright accent colors for details
+    background: soft washes or textured paper
+    usageNotes: Harmonious colors that feel safe and inviting
+    saturation: medium, slightly muted
+    contrast: gentle, no harsh transitions
+  lineArt:
+    style: soft, organic lines
+    weight: varied, hand-drawn quality
+    color: brown or dark color, not pure black
+    texture: slightly rough, pencil-like
+    edgeTreatment: gentle, rounded forms
+  lighting:
+    type: warm, comforting
+    direction: soft overall illumination
+    intensity: gentle
+    shadows:
+      style: soft, minimal
+      color: warm grays or purples
+      opacity: light
+    highlights: subtle warmth
+  rendering:
+    technique: mixed media appearance
+    texture: visible paper texture, soft brushwork
+    detailLevel: simplified but expressive
+    finish: matte with gentle textures
+  perspective: slightly naive, not perfectly accurate
+  mood:
+    overall: warm, inviting, magical
+    emotion: wonder, safety, adventure
+    tempo: gentle, dreamlike
+    keywords:
+    - whimsical
+    - magical
+    - comforting
+    - imaginative
+    - nostalgic
+  stylePrecedents:
+  - Quentin Blake
+  - Maurice Sendak
+  - Beatrix Potter
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

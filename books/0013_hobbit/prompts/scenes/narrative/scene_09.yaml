@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Journey Begins"
+  setting:
+    time: "Third Age, morning"
+    location: "Winding country road leading away from peaceful hobbit village through rolling hills"
+    weather: "Bright morning sunshine with scattered white clouds, gentle breeze"
+  characters:
+    - appearance: "Middle-aged hobbit, late 40s, curly brown hair, round cheerful face, short stature, slightly portly build, bright hazel eyes"
+      clothing: "Forest green velvet waistcoat, cream-colored linen shirt with brass buttons, brown woolen breeches, yellow silk handkerchief in waistcoat pocket, small traveling pack"
+      position: "Hurrying along dirt road with short quick steps, slightly behind mounted companions"
+      action: "Running to catch up with mounted party, adjusting small pack straps, patting waistcoat pocket protectively, breathing heavily from exertion"
+    - appearance: "Twelve dwarves of various ages, all bearded, stocky builds, ranging from young adult to elderly, different colored beards and hair"
+      clothing: "Colorful wool tunics in deep reds, blues, and greens, leather belts and boots, chainmail armor beneath tunics, traveling packs"
+      position: "Mounted on sturdy ponies in organized traveling formation along road"
+      action: "Riding steadily forward, some leading pack ponies with supplies, others scanning surroundings alertly, engaging in quiet conversation"
+    - appearance: "Tall elderly wizard, long grey beard reaching his belt, sharp grey eyes beneath bushy grey eyebrows, weathered face, ancient appearance"
+      clothing: "Long grey robes with wide sleeves, tall pointed grey hat, worn brown leather boots, leather belt with small pouches"
+      position: "Mounted on large grey horse at head of company"
+      action: "Leading the group with confidence, occasionally looking back to check on hobbit, smoke rising from pipe as he rides"
+  scene:
+    mainElements: "Winding dirt road bordered by stone walls and hedgerows, rolling green countryside stretching to distant hills, party of travelers with pack animals"
+    details: "Well-worn dirt road with wheel ruts and hoof prints, dry stone walls separating fields, flowering hawthorn hedges, wooden signpost at crossroads, sturdy ponies with leather saddles and bridles, rolled blankets and cooking pots tied to pack animals, morning shadows shortening as sun rises higher"
+    background: "Hobbiton village shrinking in distance behind them, rolling green hills ahead, patches of woodland on hillsides, distant church spire"
+    atmosphere: "Adventure truly beginning, leaving familiar world behind, open road calling ahead, mixture of excitement and apprehension, first steps of transformation, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot from elevated position showing full traveling party on winding road"
+    focus: "Company as organized unit moving purposefully through landscape with hobbit struggling to keep pace"
+    depth: "Hobbit on foot in foreground, mounted dwarves in middle ground, Gandalf leading in background"

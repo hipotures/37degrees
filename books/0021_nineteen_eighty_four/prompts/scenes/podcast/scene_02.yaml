@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Victory Mansions Interior"
+  setting:
+    time: "1984, cold April afternoon, dim natural light"
+    location: "Dilapidated apartment block from 1930s literally falling apart, Winston Smith's residential building in London"
+    weather: "Cold and drafty inside building"
+  characters: []
+  scene:
+    mainElements: "Stairwell reeking of boiled cabbage and rotting doormats, peeling walls, broken fixtures, oblong metal plaque resembling dulled mirror mounted on wall (telescreen), narrow hallway with multiple apartment doors, non-functioning elevator shaft"
+    details: "Institutional decay pervades every surface. Paint peels in long strips from water-damaged walls. Flickering electric bulb casts harsh shadows down concrete stairwell. The omnipresent telescreen monitors empty hallway with cold mechanical eye. Residents must climb seven flights because elevator never works. Cooking smells from dozens of apartments create overwhelming stench of poverty. No text or letters visible."
+    background: "Multiple floors of identical doors stretching upward, broken elevator machinery visible in shaft"
+    atmosphere: "Claustrophobic surveillance state where even home provides no privacy or comfort, institutional neglect creating constant physical discomfort"
+  composition:
+    cameraAngle: "Low angle shot looking up stairwell"
+    focus: "Telescreen mounted on wall watching the stairs"
+    depth: "Foreground broken steps, middle ground peeling walls and telescreen, background multiple floors vanishing into shadows"

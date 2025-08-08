@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Red Ants and Forgotten Child"
+  setting:
+    time: "1930s Colombian Caribbean coast, blazing tropical afternoon"
+    location: "Neglected corner of ruined Buendía house courtyard, Colombian jungle village"
+    weather: "Intense tropical heat with oppressive humidity and no breeze"
+  characters:
+    - appearance: "Last scholar of family line, devoted to deciphering family mysteries and ancient prophecies, represents culmination of family's intellectual obsessions"
+      clothing: "Disheveled scholarly clothes showing grief and obsessive study"
+      position: "Emerging from house after hours absorbed in manuscript reading"
+      action: "Suddenly remembering abandoned child with shock and horror of realization"
+    - appearance: "Infant born with cursed pig's tail, representing final fulfillment of family prophecy"
+      clothing: "Simple infant clothes, now reduced to dried remains"
+      position: "In corner where red ants have completed their work"
+      action: "Already consumed by ants, reduced to empty skin being carried away by insects"
+  scene:
+    mainElements: "Courtyard corner showing neglect and tropical decay, red ant colony methodically carrying away remains of cursed child, scholar realizing too late his absorption in intellectual pursuits cost innocent life, brutal natural process completing family's destruction"
+    details: "Red ants in organized column carrying away dried remains of infant, small empty skin of child who fulfilled ancient prophecy, tropical heat accelerating decomposition and insect activity, corner of courtyard overgrown with weeds showing neglect, merciless natural world reclaiming human tragedy, no text or letters visible"
+    background: "Deteriorating house with open doorways showing scholarly chaos of manuscripts and books, ancient chestnut tree witnessing final family tragedy, village beyond showing continued decay"
+    atmosphere: "Horrific natural conclusion to family curse, intellectual obsession proving fatal to innocent life, brutal efficiency of nature consuming evidence of human failure and neglect"
+  composition:
+    cameraAngle: "Low angle showing ants' perspective as they complete their grim work"
+    focus: "Red ants methodically removing last physical trace of Buendía bloodline"
+    depth: "Foreground: ant colony at work, middle: horrified scholar discovering tragedy, background: decaying house representing failed family legacy"

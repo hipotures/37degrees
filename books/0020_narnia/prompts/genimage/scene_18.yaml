@@ -1,0 +1,105 @@
+sceneDescription:
+  setting:
+    time: Spring evening in Narnia, dramatic sunset lighting
+    location: Aslan's camp pavilion, tense confrontation between opposing forces
+    weather: Clear evening with dramatic clouds, warm spring air
+  characters:
+  - appearance: Enormous male lion, much larger than ordinary lions, magnificent golden mane that catches and reflects light,
+      great solemn royal eyes that are overwhelming to look upon, noble and majestic bearing
+    clothing: None - natural lion
+    position: Standing majestically facing the White Witch, controlled but tense
+    action: Listening gravely to the Witch's legal claim, weighing terrible decision
+  - appearance: Very tall woman, beautiful but cold and stern, skin white as paper or sugar powder, very red lips, inhuman
+      descendant of giants and djinn, regal but cruel bearing
+    clothing: Long white fur robes and cape, golden crown upon her head, white boots
+    position: Standing imperiously before Aslan, accompanied by evil retinue
+    action: Demanding Edmund's blood according to ancient law, triumphant in her legal right
+  - appearance: Boy, 13 years old, tall and well-built for his age, natural leadership bearing, fair-haired English youth,
+      noble and serious facial features
+    clothing: Brown wool vest over white linen shirt, knee-length dark breeches, long socks, sturdy leather shoes, school
+      sweater
+    position: Standing protectively near Edmund, hand on sword
+    action: Trying to defend his brother, not understanding the magical law binding them
+  - appearance: Girl, 12 years old, graceful and poised, long straight black hair, the pretty one of the family, mature bearing,
+      gentle facial features
+    clothing: Simple wool dress in muted blue-grey, practical school cardigan, dark stockings, sensible shoes
+    position: Beside Peter, face showing fear and confusion
+    action: Grasping the terrible seriousness of situation, holding Lucy's hand
+  - appearance: Boy, 10 years old, smaller build than Peter, dark hair, initially sullen and spiteful expression, later shows
+      repentance and courage
+    clothing: School shorts, white shirt, grey wool pullover, long socks, black school shoes
+    position: Standing shamefully in center of confrontation
+    action: Overwhelmed by guilt and terror, realizing the consequences of his betrayal
+  - appearance: Girl, 8 years old, small and delicate, bright golden curly hair, merry and trusting expression, radiant and
+      honest face
+    clothing: Simple blue wool dress with white collar, wool tights, small leather shoes, child's cardigan
+    position: Clinging to Susan, frightened by adult conflict
+    action: Trusting in Aslan despite not understanding the terrible situation
+  scene:
+    mainElements: Slender golden wand carried by White Witch, magical implement used to turn living creatures into stone statues,
+      symbol of her tyrannical power
+    details: Tense confrontation in great pavilion with all of Aslan's army watching, White Witch's evil followers lurking
+      at camp edges, ancient stone tablet with Deep Magic laws glowing with power, sunset light casting long shadows, creatures
+      of Narnia standing ready for battle but held back by law, atmosphere thick with supernatural tension
+    background: Aslan's camp stretching across hillside, sea visible in distance, spring landscape contrasting with dark magic
+    atmosphere: Ancient law weighing against mercy, justice demanding terrible price, family torn by consequences of betrayal,
+      cosmic forces in conflict, no text or letters visible
+  composition:
+    cameraAngle: Dramatic medium shot showing confrontation between Aslan and White Witch
+    focus: Central conflict between good and evil, with Edmund as tragic focal point
+    depth: Main confrontation in foreground, anxious family in middle ground, watching army in background
+visualElements:
+  colorPalette:
+    primary:
+    - bright red
+    - vivid blue
+    - sunny yellow
+    secondary:
+    - grass green
+    - purple
+    - orange
+    background: simple flat colors or patterns
+    usageNotes: Intense, saturated colors used intuitively
+    saturation: very high (bold, pure colors)
+    contrast: high (bright colors against each other)
+  lineArt:
+    style: simple, direct outlines
+    weight: consistent, moderate thickness
+    color: dark outlines or color boundaries
+    texture: hand-drawn quality, slight irregularities
+    edgeTreatment: simple, clean edges
+  lighting:
+    type: flat, even lighting (no sophisticated shading)
+    direction: front-lit, minimal shadows
+    intensity: bright, cheerful
+    shadows:
+      style: simple, flat shadows if any
+      color: darker version of base color
+      opacity: solid
+    highlights: minimal, simple bright spots
+  rendering:
+    technique: direct, intuitive application
+    texture: flat colors with simple patterns
+    detailLevel: high in some areas (obsessive detail), simple in others
+    finish: flat, matte appearance
+  perspective: flattened or incorrect perspective, childlike spatial relationships
+  mood:
+    overall: cheerful, innocent, direct
+    emotion: joy, simplicity, honesty
+    tempo: peaceful, content
+    keywords:
+    - cheerful
+    - innocent
+    - direct
+    - honest
+    - joyful
+  stylePrecedents:
+  - Henri Rousseau jungle paintings
+  - Grandma Moses rural scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

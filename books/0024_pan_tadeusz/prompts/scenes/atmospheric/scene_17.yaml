@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Street Life Under Evening Lamps"
+  setting:
+    time: "1811, evening, 9:00 PM, village street with oil lamps providing illumination"
+    location: "Village street in Dobrzyn with simple wooden buildings and evening gathering"
+    weather: "Cool clear evening, gentle breeze stirring lamp flames slightly"
+  characters:
+    - appearance: "Multiple villagers of various ages showing mixed reactions to sudden weather change, simple rural clothing"
+      clothing: "Traditional Polish rural attire - simple white garments, dark vests, practical footwear suitable for field work"
+      position: "Gathered in groups along village street under lamp light for evening socializing"
+      action: "Engaged in conversation, children playing games in lamplight, adults discussing daily events and news"
+  scene:
+    mainElements: "Village street with wooden buildings, oil lamps on posts creating circles of warm light, people gathering in lit areas for evening social activities"
+    details: "Lamp flames creating halos of warm yellow light against dark night, moths and insects dancing around lights, shadows moving as people pass between lamps, sound of voices and laughter echoing in night air, dogs wandering between groups"
+    background: "Dark countryside beyond village lights, stars beginning to appear clearly in unpolluted night sky, silhouettes of trees against starlit horizon"
+    atmosphere: "Community life continuing into evening hours, artificial lighting defining human spaces in natural darkness, social warmth contrasting with cool night air, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing village street with multiple light sources"
+    focus: "Village community gathering under evening lamps"
+    depth: "Foreground shows lamp lighting effects, middle ground captures social groups, background reveals dark countryside beyond lights"

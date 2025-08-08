@@ -1,6 +1,7 @@
 book_info:
-  title: "Cierpienia młodego Wertera"
+  title: "The Sorrows of Young Werther"
+  title_pl: "Cierpienia młodego Wertera"
   author: "Johann Wolfgang von Goethe"
   year: 1774
-  genre: "Powieść epistolarna"
-  reading_time: "4-5 godzin"
+  genre: "Epistolary novel"
+  reading_time: "4-5 hours"

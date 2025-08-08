@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1811, deep night, 2:00 AM, violent thunderstorm with dramatic lightning
+    location: Soplicowo manor during intense nighttime thunderstorm with spectacular lightning displays
+    weather: Violent thunderstorm with frequent lightning, heavy rain, strong winds
+  characters:
+  - appearance: Young man, approximately 20 years old, handsome and robust with healthy complexion, slightly stocky build,
+      dark brown hair, oval face, dark brown eyes, strong physique
+    clothing: Urban attire from Vilnius - elegant frak coat in dark color, matching trousers, white linen shirt, leather boots,
+      later Polish military uniform with officer's insignia
+    position: Standing at window watching storm with mixture of fascination and concern
+    action: Observing lightning illuminating landscape in brief brilliant flashes, startled by thunder crashes, unable to
+      sleep during dramatic weather
+  scene:
+    mainElements: Lightning bolts creating momentary brilliant illumination of entire landscape, rain lashing against windows
+      in sheets, thunder shaking building foundations
+    details: Lightning flashes revealing landscape in stark black and white detail for split seconds, thunder following with
+      deafening crashes shaking windows, rain drumming against roof and walls, wind howling around building corners, brief
+      moments of total illumination alternating with profound darkness
+    background: Storm clouds invisible but presence felt through lightning effects, countryside appearing briefly in lightning
+      flashes then disappearing into darkness, sense of nature's raw power
+    atmosphere: Dramatic natural theater of violent weather, sense of human insignificance before storm forces, excitement
+      and fear combined, beauty and terror of natural extremes, no text or letters visible
+  composition:
+    cameraAngle: Medium shot from interior emphasizing lightning effects through window
+    focus: Figure silhouetted against window with lightning illumination
+    depth: Foreground shows interior details, middle ground captures observing figure, background dominated by lightning effects
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

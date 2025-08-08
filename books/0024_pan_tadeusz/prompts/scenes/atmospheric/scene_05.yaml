@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Castle Ruins in Morning Light"
+  setting:
+    time: "1811, morning, 8:00 AM, shadows shortening as sun climbs higher, clear bright light"
+    location: "Gothic castle ruins of Horeszko family estate, stone fortress partially collapsed but retaining romantic grandeur"
+    weather: "Perfect clear morning, gentle warm breeze, ideal conditions for contemplation and sketching"
+  characters:
+    - appearance: "Young aristocrat, delicate refined features, dreamy contemplative expression, pale complexion, slender build, romantic temperament visible in eyes"
+      clothing: "English fashion - tailored surtout coat, fashionable trousers, elegant hat, foreign attire contrasting sharply with traditional Polish garments"
+      position: "Seated on fallen stone block with sketchbook in lap, partially shaded by ivy-covered wall"
+      action: "Sketching ruins with artistic concentration, occasionally pausing to study architectural details, lost in romantic reverie about medieval past"
+  scene:
+    mainElements: "Moss-covered stone walls with ivy growth creating green tapestry, empty Gothic window openings framing blue sky, ruined towers and battlements creating dramatic silhouettes, courtyard overgrown with wild vegetation"
+    details: "Morning sunlight streaming through empty windows casting geometric shadow patterns on stone floor, ivy leaves rustling in gentle breeze creating play of light and shadow, wild roses growing through cracks in walls releasing sweet fragrance, lizards darting across sun-warmed stones, echo of wind whistling through broken arches, fallen carved stones scattered like puzzle pieces of former glory"
+    background: "Lithuanian countryside stretching beyond ruins showing peaceful agricultural lands, distant view of Soplicowo manor visible through gaps in walls, blue sky with few white clouds"
+    atmosphere: "Romantic melancholy of faded grandeur, morning light revealing both beauty and decay of ancient fortress, sense of history and lost nobility, peaceful contemplation amid remnants of power, no text or letters visible"
+  composition:
+    cameraAngle: "Low angle emphasizing dramatic height and decay of ruins"
+    focus: "Young artist amid picturesque ruins with dramatic lighting creating romantic scene"
+    depth: "Foreground shows detailed stonework and ivy growth, middle ground captures figure sketching amid ruins, background reveals countryside landscape beyond walls"

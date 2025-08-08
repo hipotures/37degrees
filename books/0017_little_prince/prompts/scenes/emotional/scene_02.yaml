@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Innocent Request for Simple Things"
+  setting:
+    time: "1943 Sahara Desert, mid-morning with warming sun, peaceful desert atmosphere"
+    location: "Vast Sahara Desert in North Africa, endless expanse of golden sand dunes stretching to horizon in all directions, sparse vegetation, extreme isolation from human civilization"
+    weather: "Clear desert morning with warm sunlight beginning to intensify, gentle breeze moving sand grains"
+  characters:
+    - appearance: "Young boy, approximately 7-8 years old, blonde curly hair reaching his shoulders, fair skin with rosy cheeks, bright blue eyes filled with wonder and melancholy, slender build, average height for a child"
+      clothing: "Long golden-yellow coat reaching mid-thigh, white shirt underneath, long golden scarf flowing in wind, dark blue or black trousers, simple black shoes, no gloves or hat"
+      position: "Sitting cross-legged on sand facing the pilot, close enough for intimate conversation"
+      action: "Pointing excitedly at small sketch pad, eyes bright with anticipation, leaning forward with childlike eagerness, gesturing with small hands to indicate size and shape"
+    - appearance: "Adult man in his 30s, weathered face with lines from sun exposure, brown hair slightly disheveled, tired but kind eyes, lean build from physical hardship, stubbled jaw from days in desert"
+      clothing: "Khaki aviation jacket with multiple pockets, white shirt underneath, dark brown leather flying gloves, aviation goggles around neck or on forehead, brown leather boots, military-style belt"
+      position: "Sitting cross-legged facing the child, pencil in hand, notepad resting on knee"
+      action: "Concentrating on small drawings in notepad, occasionally glancing up at Prince with puzzled but amused expression, erasing and redrawing with careful attention"
+  scene:
+    mainElements: "Small notepad with simple pencil sketches visible, pencil worn from use, scattered aircraft engine parts in background, pilot's water bottle and basic survival supplies nearby"
+    details: "Rolling sand dunes of various heights, scattered rock outcroppings, broken aircraft engine parts, pilot's supplies spread on sand, vast empty sky meeting sand at distant horizon line, occasional desert plants"
+    background: "Endless golden sand dunes with warm sunlight casting soft shadows, clear blue sky creating sense of infinite space above, distant heat shimmer on horizon"
+    atmosphere: "Intimate moment of connection and communication, childlike wonder meeting adult confusion, warm golden light creating cozy feeling despite vast surroundings, no text or letters visible anywhere in scene"
+  composition:
+    cameraAngle: "Medium close-up shot focusing on interaction between two figures seated together"
+    focus: "Notepad and drawing activity as central point of connection between characters"
+    depth: "Close foreground with seated figures, middle ground with aircraft wreckage, far background with desert horizon"

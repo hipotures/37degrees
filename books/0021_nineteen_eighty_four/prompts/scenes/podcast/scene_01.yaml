@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Airstrip One Under Gray Skies"
+  setting:
+    time: "1984, cold bright April day, early morning"
+    location: "Dystopian totalitarian London, capital city of Airstrip One province in superstate Oceania, post-war Britain under Party control"
+    weather: "Cold bright day with steel-colored sky, harsh winter light"
+  characters: []
+  scene:
+    mainElements: "Decaying 19th century tenements with walls supported by timber beams, windows blocked with cardboard, roofs patched with corrugated iron, bomb-damaged areas overgrown with willowherb, clouds of white plaster dust, makeshift wooden shacks in bombed lots. Four enormous white concrete pyramids rise 300 meters high dominating the skyline."
+    details: "Entire cityscape shows destruction and decay from war. Rubble-strewn lots between crumbling Victorian buildings create patchwork of survival and abandonment. Three government ministry pyramids loom over the urban wasteland like monuments to oppressive power. Willowherb grows wild through broken masonry. White dust particles drift through cold morning air. No text or letters visible."
+    background: "Steel-colored sky stretching endlessly over broken London, distant government pyramids casting long shadows over ruins"
+    atmosphere: "Oppressive weight of totalitarian control mixed with urban decay, cold hostility of environment reflecting society's spiritual death"
+  composition:
+    cameraAngle: "Wide establishing shot from elevated position"
+    focus: "Government ministry pyramids dominating cityscape of ruins"
+    depth: "Foreground rubble and broken buildings, middle ground tenements and shacks, background towering white pyramids against gray sky"

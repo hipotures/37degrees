@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Temptation of Turkish Delight"
+  setting:
+    time: "Eternal winter day in Narnia, White Witch's magical sleigh"
+    location: "Inside White Witch's ornate sleigh traveling through snowy Narnia forest"
+    weather: "Cold winter air, but Edmund now wrapped in warm furs"
+  characters:
+    - appearance: "Boy, 10 years old, smaller build than Peter, dark hair, initially sullen and spiteful expression, later shows repentance and courage"
+      clothing: "School shorts, white shirt, grey wool pullover, long socks, black school shoes"
+      position: "Sitting in sleigh wrapped in luxurious white furs, no longer shivering"
+      action: "Eating Turkish Delight greedily with both hands, eyes glazed with magical craving"
+    - appearance: "Very tall woman, beautiful but cold and stern, skin white as paper or sugar powder, very red lips, inhuman descendant of giants and djinn, regal but cruel bearing"
+      clothing: "Long white fur robes and cape, golden crown upon her head, white boots"
+      position: "Seated regally beside Edmund, watching his reaction with calculating satisfaction"
+      action: "Offering more enchanted sweets with false maternal kindness, speaking promises of power"
+  scene:
+    mainElements: "Elegant sleigh carved from white wood with silver fittings, pair of white reindeer with silver harness, snow-covered forest path winding between pine trees"
+    details: "Magically created sweet confection, appears unnaturally appetizing and glowing, more tempting than any ordinary candy, creates addictive craving in those who taste it"
+    background: "Snow-covered forest rushing past sleigh, endless white landscape under grey winter sky"
+    atmosphere: "False comfort and luxury masking danger, Edmund's growing addiction and moral compromise, seductive power of evil disguised as kindness, no text or letters visible"
+  composition:
+    cameraAngle: "Close-up shot showing Edmund's face transformed by greed and magical influence"
+    focus: "Edmund's hands grasping Turkish Delight, his expression showing loss of innocence and will"
+    depth: "Edmund and Turkish Delight in sharp foreground focus, White Witch's calculating smile in middle ground, winter landscape blurred in background"

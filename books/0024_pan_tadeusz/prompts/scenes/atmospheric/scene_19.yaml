@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Castle Ruins at Midnight - Shadows Within Shadows"
+  setting:
+    time: "1811, midnight, 12:00 AM, deepest night with minimal moonlight filtered through clouds"
+    location: "Gothic castle ruins of Horeszko family estate in profound darkness and mystery"
+    weather: "Partially cloudy night with moon appearing and disappearing, creating shifting light patterns"
+  characters:
+    - appearance: "Elderly tall man, gray hair, face deeply furrowed with wrinkles, grim stern expression, bald head covered with scars from old battles"
+      clothing: "Old Horeszko livery - yellow coat with Półkozic heraldic emblem on collar, worn but maintained with dignity, sturdy work boots"
+      position: "Moving through ruined castle halls like guardian ghost, carrying old lantern"
+      action: "Patrolling ancient halls with lantern, checking corners and chambers, maintaining vigil over crumbling family heritage"
+  scene:
+    mainElements: "Ancient stone walls appearing and disappearing in shifting moonlight, empty Gothic windows framing patches of night sky, lantern light creating moving circle of warm illumination"
+    details: "Lantern flame flickering in night breeze creating dancing shadows on stone walls, occasional moon appearance through clouds briefly illuminating ruins in silver light, sound of wind whistling through broken arches, eyes adjusting to reveal deeper shadows within darkness, ancient stones radiating coolness of night"
+    background: "Night fog beginning to form in low areas, distant countryside invisible beyond ruins, sense of isolation and abandonment in vast darkness"
+    atmosphere: "Gothic mystery and solitude, sense of guardian maintaining vigil over fallen glory, interplay of artificial lantern light with natural moonlight, profound quiet broken only by wind and footsteps, no text or letters visible"
+  composition:
+    cameraAngle: "Low angle emphasizing towering ruins against night sky"
+    focus: "Lantern-bearing figure moving through mysterious ruins"
+    depth: "Foreground shows lantern light details on stone, middle ground captures guardian figure, background reveals mysterious dark ruins"

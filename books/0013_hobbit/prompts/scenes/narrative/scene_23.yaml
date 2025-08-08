@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Farewell to the Mountain"
+  setting:
+    time: "Third Age, late afternoon after battle"
+    location: "Massive solitary peak rising from desolate wasteland, ancient dwarf kingdom carved into mountain heart"
+    weather: "Clear sky after storm, golden sunlight striking mountain face, cool autumn air"
+  characters:
+    - appearance: "Middle-aged hobbit, late 40s, curly brown hair, round cheerful face, short stature, slightly portly build, bright hazel eyes"
+      clothing: "Forest green velvet waistcoat, cream-colored linen shirt with brass buttons, brown woolen breeches, yellow silk handkerchief in waistcoat pocket, small travel pack prepared"
+      position: "Standing at mountain entrance preparing to depart, looking back one final time"
+      action: "Adjusting small travel pack straps, patting waistcoat pocket protectively, shaking hands formally with dwarf companions, eyes showing mixture of sadness and eagerness for home"
+    - appearance: "Several surviving dwarves of various ages, all bearded, stocky builds, some showing battle wounds bandaged"
+      clothing: "Colorful wool tunics in deep reds, blues, and greens, leather belts and boots, chainmail armor beneath tunics, some clothing torn from battle"
+      position: "Gathered around mountain entrance bidding farewell to departing companion"
+      action: "Clasping hobbit's hand in firm farewell grips, some wiping away tears, others presenting small gifts, nodding with deep respect and gratitude"
+    - appearance: "Tall elderly wizard, long grey beard reaching his belt, sharp grey eyes beneath bushy grey eyebrows, weathered face, ancient appearance"
+      clothing: "Long grey robes with wide sleeves, tall pointed grey hat, worn brown leather boots, leather belt with small pouches"
+      position: "Standing beside mountain path with packed horse, ready to escort hobbit home"
+      action: "Preparing horses for journey, adjusting saddle bags, smoking pipe contentedly, observing farewell with knowing smile"
+  scene:
+    mainElements: "Great stone gates with dwarvish carvings now open and welcoming, vast underground halls visible beyond, restored throne room with royal banner"
+    details: "Ancient stone entrance with newly polished bronze hinges, dwarvish banners hanging proudly from carved pillars, treasure chests stacked neatly in entrance hall, restored royal standards, burning torches in wall sconces casting warm light, packed travel supplies ready for journey, horses waiting patiently with full saddlebags"
+    background: "Desolate wasteland showing signs of new life, distant view of rebuilt Lake-town, clear sky with evening stars beginning to appear"
+    atmosphere: "Bittersweet parting after shared adventures, mountain kingdom restored to former glory, sense of completion and new beginnings, peaceful resolution after conflict, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot showing farewell gathering at mountain entrance"
+    focus: "Emotional parting between transformed hobbit and dwarf companions who became family"
+    depth: "Farewell group in foreground, open mountain halls in middle ground, restored kingdom extending into background"

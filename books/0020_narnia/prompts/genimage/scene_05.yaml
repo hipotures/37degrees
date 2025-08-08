@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Timeless moment of magical transition from 1940 to eternal Narnia winter
+    location: Snow-covered forest clearing in magical realm of Narnia, tall dark pine trees surrounding single Victorian-style
+      iron lamppost
+    weather: Gently falling snow, cold crisp air
+  characters:
+  - appearance: Girl, 8 years old, small and delicate, bright golden curly hair, merry and trusting expression, radiant and
+      honest face
+    clothing: Simple blue wool dress with white collar, wool tights, small leather shoes, child's cardigan
+    position: Standing in snowy forest clearing, having just emerged from darkness
+    action: Looking around with wonder and amazement, brushing snow from shoulders, taking tentative steps forward
+  scene:
+    mainElements: Single glowing lamppost standing alone among snow-laden pine trees, deep unmarked snow covering forest floor
+    details: Victorian-style iron lamppost casting warm golden circle of light in snowy wilderness, tall dark pine trees heavily
+      laden with fresh snow, complete silence except for Lucy's footsteps crunching in untouched snow, her breath visible
+      in cold air, golden lamplight contrasting with blue-white snow and dark green pines, magical transition from mothball-scented
+      fur coats to sharp pine air
+    background: Dense forest of snow-covered evergreen trees extending into winter darkness, faint suggestion of more forest
+      paths leading away
+    atmosphere: Quiet magical stillness, cold winter air, golden light from lamppost casting warm glow on white snow and dark
+      tree trunks
+  composition:
+    cameraAngle: Wide shot establishing the magical forest setting with lamppost as landmark
+    focus: Lucy as small figure in center discovering this magical world, lamppost as beacon of civilization
+    depth: Lucy in foreground showing wonder, lamppost in middle ground as focal point, mysterious forest stretching into
+      background darkness, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - bright red
+    - vivid blue
+    - sunny yellow
+    secondary:
+    - grass green
+    - purple
+    - orange
+    background: simple flat colors or patterns
+    usageNotes: Intense, saturated colors used intuitively
+    saturation: very high (bold, pure colors)
+    contrast: high (bright colors against each other)
+  lineArt:
+    style: simple, direct outlines
+    weight: consistent, moderate thickness
+    color: dark outlines or color boundaries
+    texture: hand-drawn quality, slight irregularities
+    edgeTreatment: simple, clean edges
+  lighting:
+    type: flat, even lighting (no sophisticated shading)
+    direction: front-lit, minimal shadows
+    intensity: bright, cheerful
+    shadows:
+      style: simple, flat shadows if any
+      color: darker version of base color
+      opacity: solid
+    highlights: minimal, simple bright spots
+  rendering:
+    technique: direct, intuitive application
+    texture: flat colors with simple patterns
+    detailLevel: high in some areas (obsessive detail), simple in others
+    finish: flat, matte appearance
+  perspective: flattened or incorrect perspective, childlike spatial relationships
+  mood:
+    overall: cheerful, innocent, direct
+    emotion: joy, simplicity, honesty
+    tempo: peaceful, content
+    keywords:
+    - cheerful
+    - innocent
+    - direct
+    - honest
+    - joyful
+  stylePrecedents:
+  - Henri Rousseau jungle paintings
+  - Grandma Moses rural scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

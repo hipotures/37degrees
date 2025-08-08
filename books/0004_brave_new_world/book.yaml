@@ -1,6 +1,7 @@
 book_info:
-  title: "Nowy wspaniały świat"
+  title: "Brave New World"
+  title_pl: "Nowy wspaniały świat"
   author: "Aldous Huxley"
   year: 1932
-  genre: "Dystopia"
-  reading_time: "8-10 godzin"
+  genre: "Dystopian fiction"
+  reading_time: "8-10 hours"

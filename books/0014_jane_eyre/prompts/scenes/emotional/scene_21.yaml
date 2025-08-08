@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Recognition in the Garden"
+  setting:
+    time: "1830s England, evening"
+    location: "Small isolated manor house in deep woods thirty miles from Thornfield, simple stone construction"
+    weather: "Gentle evening light filtering through trees, warm golden glow"
+  characters:
+    - appearance: "Young woman, early 20s, small slight build, plain features, pale skin, dark hair pulled severely back, large expressive dark eyes, determined chin"
+      clothing: "Simple black mourning dress or grey governess dress, white collar and cuffs, black shoes, plain bonnet when outdoors"
+      position: "Standing in overgrown garden, reaching toward familiar figure with joy and relief"
+      action: "Running forward with arms outstretched, face radiant with love and recognition, tears of joy streaming"
+    - appearance: "Dark-haired man in his late 30s, tall broad-shouldered build, harsh angular features, penetrating dark eyes, weather-beaten complexion, changed by suffering"
+      clothing: "Simple country clothes, plain white shirt, dark jacket, boots muddy from garden work"
+      position: "Standing among garden plants, turning toward approaching voice with wonder and disbelief"
+      action: "Dropping gardening tools, reaching out tentatively, face lighting with amazed joy at beloved voice"
+  scene:
+    mainElements: "Modest two-story house surrounded by dense forest, overgrown garden, small windows, ivy-covered walls"
+    details: "Garden tools scattered in soil, flowers blooming wild and free, bees humming in evening air, golden light streaming through forest canopy, two figures running toward each other through tall grass"
+    background: "Dense forest creating intimate privacy, evening light filtering through leaves, sense of healing sanctuary"
+    atmosphere: "Peaceful rural seclusion, natural harmony, democratic simplicity, healing quietude away from social pretensions, overwhelming joy of reunion, love triumphant over all obstacles, catharsis of recognition"
+  composition:
+    cameraAngle: "Medium shot showing joyful reunion in natural setting"
+    focus: "Two lovers finding each other again in equality and mutual need"
+    depth: "Embracing figures in foreground, blooming garden in middle ground, protective forest sanctuary in background"

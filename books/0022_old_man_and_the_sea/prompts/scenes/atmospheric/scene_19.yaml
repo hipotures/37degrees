@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Sleeping Village with Lit Windows"
+  setting:
+    time: "September 1950, deep night, 3:00 AM, village mostly asleep"
+    location: "Cuban fishing village of Cojímar seven kilometers east of Havana, situated around small protected bay at river mouth"
+    weather: "Clear calm night, gentle land breeze, comfortable temperature"
+  characters:
+    - appearance: "Young Cuban boy around 14-16 years old, lean athletic build from fishing work, average height for adolescent, tanned olive skin, dark brown hair, warm brown eyes showing loyalty and concern"
+      clothing: "Simple work clothes, cotton shirt and trousers suitable for fishing village, sturdy sandals"
+      position: "Sitting on stone seawall facing harbor"
+      action: "Unable to sleep, watching for any sign of Santiago's return, keeping vigil through night"
+  scene:
+    mainElements: "Simple single-story houses with faded pastel walls in yellows, blues, and ochres, 17th century stone fort Torreón de Cojímar dominating harbor, narrow unpaved streets, lush tropical vegetation with royal palms and banana trees"
+    details: "Most houses dark and shuttered for night, but several windows glowing with warm yellow lamplight, smoke rising straight up from occasional chimney in still air, stone seawall worn smooth by decades of fishermen sitting and waiting, harbor water black as mirror reflecting few lit windows, occasional cat moving silently through empty streets, night sounds of gentle waves and distant insects"
+    background: "Village sleeping peacefully under star-filled sky, mountains barely visible as darker silhouettes against night sky, ocean extending endlessly beyond harbor mouth"
+    atmosphere: "Peaceful sleep of working community, few lit windows as beacons of life and hope, sense of loyal friendship keeping watch, night protecting and embracing village, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from harbor level showing village night scene"
+    focus: "Scattered lit windows in sleeping village and solitary figure keeping watch"
+    depth: "Foreground shows seawall and harbor details, middle ground captures village houses with few lights, background reveals night sky and distant ocean"

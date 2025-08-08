@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Shattered Dreams"
+  setting:
+    time: "1830s England, afternoon"
+    location: "Gothic manor house on Yorkshire moors, three stories with battlements and ancient towers"
+    weather: "Heavy grey clouds pressing down, air thick with approaching storm"
+  characters:
+    - appearance: "Young woman, early 20s, small slight build, plain features, pale skin, dark hair pulled severely back, large expressive dark eyes, determined chin"
+      clothing: "Wedding dress now wrinkled and torn, veil discarded, face streaked with tears and dirt"
+      position: "Collapsed on gravel path outside manor entrance, knees drawn to chest"
+      action: "Rocking slightly, staring at ground with vacant expression, hands trembling violently"
+  scene:
+    mainElements: "Grey stone walls with ivy, tall Gothic windows, grand entrance hall, sweeping staircase, library with leather-bound books"
+    details: "Wedding flowers scattered and crushed on gravel, torn pieces of lace caught on rose thorns, abandoned shoes beside path, carriage wheels marks in mud, Gothic windows reflecting stormy sky, heavy wooden door standing open behind figure"
+    background: "Yorkshire moors stretching toward distant hills, storm clouds gathering strength, bare trees bending in rising wind"
+    atmosphere: "Mysterious grandeur tinged with secrets, echoing corridors, flickering candlelight, sense of hidden dangers in upper floors, devastating betrayal, world crumbling, all trust destroyed, profound emotional collapse"
+  composition:
+    cameraAngle: "Medium shot showing complete emotional devastation"
+    focus: "Broken figure against imposing manor that promised happiness but delivered pain"
+    depth: "Devastated woman in foreground, deceptive manor in middle ground, threatening storm in background"

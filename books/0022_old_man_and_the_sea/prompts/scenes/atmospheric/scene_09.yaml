@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Storm Front Approaching"
+  setting:
+    time: "September 1950, mid afternoon, 3:00 PM, weather building"
+    location: "Deep blue waters of Gulf Stream current flowing northwest along Cuban coast, far from sight of land in all directions"
+    weather: "Dark clouds massing on horizon, wind picking up, barometric pressure dropping"
+  characters:
+    - appearance: "Old man over 70 years, thin and gaunt but with strong sinewy arms, height average for elderly Cuban fisherman, weathered dark skin with deep wrinkles on neck and face, brown spots of benign skin cancer on cheeks, hands covered with deep old healed scars from fishing lines"
+      clothing: "Worn patched shirt faded by sun and salt, old threadbare trousers, often barefoot, straw hat when at sea for sun protection"
+      position: "Standing alert in boat center, scanning horizon"
+      action: "Reading weather signs with experienced eye, testing wind direction, preparing for possible storm"
+  scene:
+    mainElements: "Endless expanse of deep blue to purple ocean water, horizon line meeting azure sky, no visible land or other vessels, surface occasionally broken by flying fish or dolphins"
+    details: "Towering cumulonimbus clouds building on eastern horizon, dark gray bottom contrasting with white billowing tops, wind increasing from light breeze to steady blow, water surface developing whitecaps and chop, boat beginning to pitch more noticeably, fishing lines dancing in strengthening current, seabirds flying low seeking shelter, air feeling heavy and electric with approaching storm energy"
+    background: "Dramatic sky showing clear division between blue calm and approaching gray turbulence, distant lightning flickering inside cloud mass though no thunder yet audible"
+    atmosphere: "Rising tension and anticipation, respect for nature's gathering power, sense of small human vulnerability before elemental forces, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot emphasizing approaching storm system"
+    focus: "Small boat positioned between calm and stormy conditions"
+    depth: "Foreground shows increasingly choppy water, middle ground captures boat's exposure, background dominated by towering storm clouds"

@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1811, afternoon, 3:00 PM, slanted sunlight creating dramatic patterns through trees
+    location: Deep within primeval Lithuanian forest during mushroom gathering expedition
+    weather: Clear afternoon after morning rain, perfect conditions with clean air and varied lighting
+  characters:
+  - appearance: Young girl, 14 years old, delicate natural beauty, light blonde curly hair gleaming like crown on saint's
+      image, blue eyes, tanned complexion from outdoor work, swan-like neck, slender graceful build
+    clothing: Simple white dress reaching to chest revealing shoulders and neck, later traditional Lithuanian folk costume
+      with green-white skirt, white embroidered shirt, rosemary wreath
+    position: Kneeling beside fallen log examining cluster of mushrooms, partially illuminated by shaft of sunlight
+    action: Carefully selecting mushrooms with gentle hands, occasionally looking up through forest canopy with wonder at
+      light patterns
+  scene:
+    mainElements: Ancient forest with towering trees creating natural cathedral, afternoon sunlight streaming through gaps
+      in canopy creating columns of golden light, rich forest floor carpeted with fallen leaves and hidden mushrooms
+    details: Dust motes and pollen dancing in angled sunbeams like tiny spirits, intricate patterns of light and shadow shifting
+      across forest floor as leaves rustle above, variety of mushrooms - dark borowiki with caps like table covers, golden
+      chanterelles, red-capped muchomory - scattered among moss and fern fronds, sweet earthy scent of moist forest soil mixed
+      with mushroom aroma
+    background: Forest depths receding into mysterious green shadows, distant bird calls echoing through trees, ancient woodland
+      stretching beyond sight
+    atmosphere: Magical quality of filtered forest light, sense of being in nature's secret treasury, peaceful concentration
+      on simple gathering task, connection between human and natural world, no text or letters visible
+  composition:
+    cameraAngle: Low angle looking up through forest canopy emphasizing light patterns
+    focus: Figure gathering mushrooms illuminated by dramatic forest lighting
+    depth: Foreground shows detailed mushrooms and forest floor, middle ground captures figure in light shaft, background
+      reveals forest depths
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

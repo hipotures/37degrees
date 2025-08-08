@@ -1,6 +1,7 @@
 book_info:
-  title: "Mały Książę"
+  title: "The Little Prince"
+  title_pl: "Mały Książę"
   author: "Antoine de Saint-Exupéry"
   year: 1943
-  genre: "Filozoficzna baśń"
-  reading_time: "2-3 godziny"
+  genre: "Philosophical fable"
+  reading_time: "2-3 hours"

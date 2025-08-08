@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1830s England, late afternoon
+    location: Gothic manor house ruins on Yorkshire moors, blackened stones and collapsed walls
+    weather: Grey overcast sky with patches of weak sunlight, cold wind stirring ash and debris
+  characters:
+  - appearance: Young woman, early 20s, small slight build, plain features, pale skin, dark hair pulled severely back, large
+      expressive dark eyes, determined chin
+    clothing: Simple black mourning dress or grey governess dress, white collar and cuffs, black shoes, plain bonnet when
+      outdoors
+    position: Standing among charred ruins, hand pressed to chest in shock, staring at devastation
+    action: Walking slowly through blackened remains, touching burned doorframe with trembling fingers, searching desperately
+      for any sign of life
+  scene:
+    mainElements: Blackened stone walls partially collapsed, burned timber beams jutting from rubble, empty window frames
+      like hollow eyes
+    details: Charred remnants of once-grand staircase, melted lead from Gothic windows pooled in corners, ash scattered by
+      wind, twisted metal from furniture, fragments of books with pages burned, ivy beginning to grow over ruins
+    background: Yorkshire moors stretching toward distant hills, grey sky pressing down, no other buildings visible for miles
+    atmosphere: Devastating destruction, profound loss, fears for beloved's safety, haunting emptiness where love once lived,
+      maximum tension before revelation, darkest moment before dawn
+  composition:
+    cameraAngle: Wide shot showing complete devastation of former home
+    focus: Solitary figure confronting total destruction of her past
+    depth: Shocked woman in foreground, ruined manor in middle ground, empty moorland in background
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

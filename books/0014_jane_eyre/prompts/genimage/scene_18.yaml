@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 1830s England, night
+    location: Small isolated manor house in deep woods thirty miles from Thornfield, simple stone construction
+    weather: Wild wind howling through trees, moonlight breaking through racing clouds
+  characters:
+  - appearance: Young woman, early 20s, small slight build, plain features, pale skin, dark hair pulled severely back, large
+      expressive dark eyes, determined chin
+    clothing: White nightgown flowing in wind, bare feet, hair loose and streaming behind her
+    position: Standing at open window, leaning out into the night, arms outstretched
+    action: Listening intently to something carried on the wind, face upturned with sudden recognition and joy
+  scene:
+    mainElements: Modest two-story house surrounded by dense forest, overgrown garden, small windows, ivy-covered walls
+    details: Open window with curtains whipping in wild wind, candle blown out on windowsill, religious books scattered by
+      sudden breeze, moonlight streaming across floorboards, shadows dancing on walls
+    background: Dense forest swaying violently in wind, clouds racing across bright moon, sense of vast distances traveled
+      on night air
+    atmosphere: Peaceful rural seclusion suddenly charged with supernatural energy, mysterious connection across miles, love
+      calling to love, destiny demanding recognition, moment of profound spiritual awakening
+  composition:
+    cameraAngle: Medium shot showing mystical connection across distance
+    focus: Woman receiving telepathic call from distant beloved
+    depth: Listening figure in foreground, wild night in middle ground, spiritual connection spanning invisible background
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: Third Age of Middle-earth, late spring afternoon one year after the War
+    location: Hobbiton district of the Shire, rolling green countryside in northwest Middle-earth, peaceful agricultural region
+      of hobbits
+    weather: Perfect spring afternoon with warm sunshine, gentle breeze stirring new leaves
+  characters:
+  - appearance: Four hobbits showing subtle changes from their great adventure, still small in stature but carrying themselves
+      with quiet confidence
+    clothing: Simple hobbit clothes appropriate for gardening and country life, rolled sleeves and practical garments
+    position: Working together in large garden behind one of the hobbit holes
+    action: Planting and tending vegetables, sharing quiet conversation while engaged in peaceful domestic tasks
+  scene:
+    mainElements: Extensive garden with neat rows of vegetables, fruit trees in bloom, tool shed with farming implements,
+      stone path through planted beds
+    details: Carefully tended garden showing expert knowledge of growing things, rows of beans and lettuce and carrots in
+      perfect order, young fruit trees planted in precise patterns, four friends working together with easy familiarity, tools
+      showing signs of much use and care, wheelbarrow full of rich compost, watering cans and baskets for harvest, spring
+      flowers blooming around garden edges, no text or letters visible
+    background: Rolling green hills of Shire dotted with other hobbit holes, distant windmill turning lazily, smoke rising
+      from chimneys of nearby homes
+    atmosphere: Perfect peace after great trials, satisfaction of simple honest work, friendship deepened by shared hardships,
+      scent of fresh earth and growing plants, sound of bees in fruit blossoms
+  composition:
+    cameraAngle: Medium wide shot showing the four friends working together in their garden paradise
+    focus: The return to simple pleasures after saving the world
+    depth: Foreground shows rows of planted vegetables, middle ground features the gardening hobbits, background reveals the
+      peaceful Shire countryside
+visualElements:
+  colorPalette:
+    primary:
+    - rich fantasy colors
+    - jewel tones
+    secondary:
+    - atmospheric colors
+    - magical glows
+    background: atmospheric, often dark or misty
+    usageNotes: Rich, layered colors with magical atmosphere
+    saturation: medium to high
+    contrast: medium to high
+  lineArt:
+    style: painterly, loose
+    weight: varied, often hidden
+    color: integrated into painting
+    texture: organic brushstrokes
+    edgeTreatment: soft, painterly edges
+  lighting:
+    type: dramatic, magical
+    direction: varied for atmosphere
+    intensity: high contrast areas
+    shadows:
+      style: painted, atmospheric
+      color: cool or warm depending on scene
+      opacity: varied
+    highlights: magical glows, rim lighting
+  rendering:
+    technique: digital painting with textured brushes
+    texture: dry media brush texture
+    detailLevel: moderate to high
+    finish: glazed, painterly
+  perspective: cinematic, dynamic
+  mood:
+    overall: mythological, otherworldly, epic
+    emotion: wonder, mystery, adventure
+    tempo: varies from calm to dramatic
+    keywords:
+    - epic
+    - mystical
+    - otherworldly
+    - fantasy
+    - mythological
+  stylePrecedents:
+  - Craig Mullins digital concept art
+  - Frank Frazetta fantasy paintings
+  - Boris Vallejo fantasy illustrations
+  - Magic: The Gathering card art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

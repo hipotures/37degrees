@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: Third Age of Middle-earth, evening in the cozy interior of Bag End
+    location: Interior of Bag End hobbit hole, sitting room with fireplace where momentous revelations unfold
+    weather: Interior scene with fire crackling, shutters closed against night
+  characters:
+  - appearance: Wizard, elderly man appearance, tall around 6 feet, long grey beard reaching chest, deep grey eyes under bushy
+      eyebrows, weathered face with wise expression, grey hair
+    clothing: Long grey robes reaching ankles, brown leather belt, sturdy walking boots, wooden staff leaning against wall
+    position: Kneeling beside fireplace, using iron tongs to handle burning object
+    action: Using tongs to lift glowing ring from flames, face illuminated by supernatural fire that reveals hidden truth
+  - appearance: Hobbit, male, early 30s, short stature around 3 feet tall, curly brown hair, large brown eyes, pale complexion
+      from burden of Ring, thin build, youthful face with premature lines of worry
+    clothing: Simple hobbit clothes, bare feet, sitting in comfortable chair
+    position: Leaning back in armchair, face showing shock and terror at revelation
+    action: Recoiling in horror as he sees fiery letters appear on ring surface, understanding for first time the true nature
+      of inheritance
+  scene:
+    mainElements: Cozy hobbit sitting room with stone fireplace, comfortable furniture, Ring held in tongs showing fiery script
+    details: Plain gold ring held in iron tongs glowing white-hot from flames, dark script appearing in flowing letters along
+      the ring's surface as if written in liquid fire, wizard's grave face illuminated by supernatural radiance, hobbit's
+      expression transforming from curiosity to absolute terror, comfortable sitting room suddenly feeling small and threatened
+      by revelation of ultimate evil, shadows dancing on walls from unnatural light, no text or letters visible except the
+      fiery script on ring itself
+    background: Familiar hobbit hole interior with round windows, bookshelves, and domestic comfort now seeming fragile against
+      revealed darkness
+    atmosphere: Sudden transformation from cozy domesticity to cosmic horror, weight of terrible knowledge, heat from supernatural
+      fire, the comfortable world forever changed
+  composition:
+    cameraAngle: Medium close shot focusing on the glowing Ring and the two figures' reactions
+    focus: The moment when comfortable ignorance ends and terrible truth is revealed
+    depth: Foreground shows the burning Ring in tongs, middle ground features wizard and hobbit's faces, background reveals
+      the now-threatened domesticity of hobbit home
+visualElements:
+  colorPalette:
+    primary:
+    - rich fantasy colors
+    - jewel tones
+    secondary:
+    - atmospheric colors
+    - magical glows
+    background: atmospheric, often dark or misty
+    usageNotes: Rich, layered colors with magical atmosphere
+    saturation: medium to high
+    contrast: medium to high
+  lineArt:
+    style: painterly, loose
+    weight: varied, often hidden
+    color: integrated into painting
+    texture: organic brushstrokes
+    edgeTreatment: soft, painterly edges
+  lighting:
+    type: dramatic, magical
+    direction: varied for atmosphere
+    intensity: high contrast areas
+    shadows:
+      style: painted, atmospheric
+      color: cool or warm depending on scene
+      opacity: varied
+    highlights: magical glows, rim lighting
+  rendering:
+    technique: digital painting with textured brushes
+    texture: dry media brush texture
+    detailLevel: moderate to high
+    finish: glazed, painterly
+  perspective: cinematic, dynamic
+  mood:
+    overall: mythological, otherworldly, epic
+    emotion: wonder, mystery, adventure
+    tempo: varies from calm to dramatic
+    keywords:
+    - epic
+    - mystical
+    - otherworldly
+    - fantasy
+    - mythological
+  stylePrecedents:
+  - Craig Mullins digital concept art
+  - Frank Frazetta fantasy paintings
+  - Boris Vallejo fantasy illustrations
+  - Magic: The Gathering card art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

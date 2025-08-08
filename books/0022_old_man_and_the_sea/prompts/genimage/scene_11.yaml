@@ -1,0 +1,95 @@
+sceneDescription:
+  setting:
+    time: September 1950, late afternoon, 4:00 PM, storm passing
+    location: Deep blue waters of Gulf Stream current flowing northwest along Cuban coast, far from sight of land in all directions
+    weather: Storm clouds breaking up, shafts of sunlight piercing through, moderate swells
+  characters:
+  - appearance: Old man over 70 years, thin and gaunt but with strong sinewy arms, height average for elderly Cuban fisherman,
+      weathered dark skin with deep wrinkles on neck and face, brown spots of benign skin cancer on cheeks, hands covered
+      with deep old healed scars from fishing lines
+    clothing: Worn patched shirt faded by sun and salt, old threadbare trousers, often barefoot, straw hat when at sea for
+      sun protection
+    position: Standing in boat, feeling refreshed by rain
+    action: Bailing rainwater from boat bottom, returning to fishing as weather clears
+  scene:
+    mainElements: Endless expanse of deep blue to purple ocean water, horizon line meeting azure sky, no visible land or other
+      vessels, surface occasionally broken by flying fish or dolphins
+    details: Dramatic shafts of golden afternoon sunlight breaking through gaps in departing gray clouds, light creating bright
+      columns on dark water surface, raindrops still visible in air where sunbeams pass through, boat interior freshly washed
+      by rain, puddles of clear water reflecting sky, fishing equipment gleaming wet, salt smell mixed with fresh rain scent,
+      surface patterns of choppy water catching light in complex geometric designs
+    background: Sky showing dramatic contrast between dark storm clouds moving west and bright clear areas opening to east,
+      rainbow arc faintly visible where sun meets lingering mist
+    atmosphere: World washed clean and renewed, dramatic interplay of light and shadow, sense of nature's theatrical beauty,
+      energy of storm dissipating into calm, no text or letters visible
+  composition:
+    cameraAngle: Dramatic angle emphasizing light shafts through clouds
+    focus: Illuminated water columns created by sun breaking through storm
+    depth: Foreground shows rain-washed boat details, middle ground captures light-water interaction, background reveals clearing
+      sky drama
+visualElements:
+  colorPalette:
+    primary:
+    - '#2B2B2B'
+    - '#4A4A4A'
+    - '#6B6B6B'
+    - '#8C8C8C'
+    - '#ADADAD'
+    - '#CECECE'
+    - '#F0F0F0'
+    secondary:
+    - '#FFFFFF'
+    - '#1A1A1A'
+    background: white or off-white paper
+    usageNotes: Monochromatic grayscale only. Use varying shades for depth
+    saturation: none
+    contrast: medium to high
+  lineArt:
+    style: organic, hand-drawn
+    weight: variable (0.5-3px)
+    color: grayscale
+    texture: rough, sketchy with visible breaks
+    edgeTreatment: natural variations, multiple overlapping strokes
+  lighting:
+    type: traditional shading
+    direction: typically top-left
+    intensity: varies with pressure
+    shadows:
+      style: crosshatching and scribbling
+      color: darker graphite tones
+      opacity: built up through layering
+    highlights: paper showing through or eraser marks
+  rendering:
+    technique: traditional pencil on paper
+    texture: visible paper grain and tooth
+    detailLevel: varies from loose to highly detailed
+    finish: intentionally incomplete with visible process
+  perspective: traditional drawing perspectives
+  mood:
+    overall: artistic, unfinished, spontaneous
+    emotion: raw, authentic, contemplative
+    tempo: calm, thoughtful
+    keywords:
+    - artistic
+    - raw
+    - authentic
+    - traditional
+    - sketchy
+  postProcessing:
+    effects:
+    - paper texture
+    - graphite smudging
+    filters: none
+    adjustments:
+      saturation: '0'
+      contrast: natural pencil contrast
+  stylePrecedents:
+  - Leonardo da Vinci sketches
+  - Academic drawing studies
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

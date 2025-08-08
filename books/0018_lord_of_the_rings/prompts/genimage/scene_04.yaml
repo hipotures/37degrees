@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Third Age of Middle-earth, dawn breaking over the mountain peaks
+    location: Great fortress city of Gondor, Tower of Guard, built on seven levels carved into mountainside, capital of the
+      kingdom of men in the west
+    weather: Clear dawn light revealing the city's majesty, mountain air crisp and clean
+  characters: []
+  scene:
+    mainElements: Seven-tiered white stone city rising up mountainside, great gates between levels, White Tree courtyard at
+      highest level, beacon tower on peak
+    details: Massive city built in seven ascending tiers carved into living rock, each level connected by great stone gates
+      and winding roads, walls and buildings constructed of white stone that gleams like marble in morning light, citadel
+      at highest point crowned with beacon tower ready to signal across the realm, ancient White Tree standing in marble courtyard,
+      banners and pennants flying from towers showing tree and seven stars, guards in silver and black walking the battlements,
+      no text or letters visible
+    background: Distant view of Anduin River flowing below, Pelennor Fields stretching toward horizon, other mountain peaks
+      visible in morning haze
+    atmosphere: Majestic white stone gleaming in sunlight, banners of Gondor flying from towers, sound of horns and marching
+      guards, air of ancient nobility
+  composition:
+    cameraAngle: Wide shot from across the river showing the full majesty of the seven-tiered city
+    focus: The overwhelming scale and beauty of this greatest city of men
+    depth: Foreground shows river and fields, middle ground reveals the ascending tiers of the city, background shows the
+      citadel and beacon tower against sky
+visualElements:
+  colorPalette:
+    primary:
+    - rich fantasy colors
+    - jewel tones
+    secondary:
+    - atmospheric colors
+    - magical glows
+    background: atmospheric, often dark or misty
+    usageNotes: Rich, layered colors with magical atmosphere
+    saturation: medium to high
+    contrast: medium to high
+  lineArt:
+    style: painterly, loose
+    weight: varied, often hidden
+    color: integrated into painting
+    texture: organic brushstrokes
+    edgeTreatment: soft, painterly edges
+  lighting:
+    type: dramatic, magical
+    direction: varied for atmosphere
+    intensity: high contrast areas
+    shadows:
+      style: painted, atmospheric
+      color: cool or warm depending on scene
+      opacity: varied
+    highlights: magical glows, rim lighting
+  rendering:
+    technique: digital painting with textured brushes
+    texture: dry media brush texture
+    detailLevel: moderate to high
+    finish: glazed, painterly
+  perspective: cinematic, dynamic
+  mood:
+    overall: mythological, otherworldly, epic
+    emotion: wonder, mystery, adventure
+    tempo: varies from calm to dramatic
+    keywords:
+    - epic
+    - mystical
+    - otherworldly
+    - fantasy
+    - mythological
+  stylePrecedents:
+  - Craig Mullins digital concept art
+  - Frank Frazetta fantasy paintings
+  - Boris Vallejo fantasy illustrations
+  - Magic: The Gathering card art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

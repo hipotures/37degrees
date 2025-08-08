@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Silhouettes Against Burning Sky"  
+  setting:
+    time: "September 1950, evening, 6:00 PM, sun approaching horizon"
+    location: "Deep blue waters of Gulf Stream current flowing northwest along Cuban coast, far from sight of land in all directions"
+    weather: "Clear evening, light breeze, gentle swells, perfect sunset conditions"
+  characters:
+    - appearance: "Old man over 70 years, thin and gaunt but with strong sinewy arms, height average for elderly Cuban fisherman, weathered dark skin with deep wrinkles on neck and face, brown spots of benign skin cancer on cheeks, hands covered with deep old healed scars from fishing lines"
+      clothing: "Worn patched shirt faded by sun and salt, old threadbare trousers, often barefoot, straw hat when at sea for sun protection"
+      position: "Braced against boat mast in struggle"
+      action: "Fighting large fish on line, body silhouetted against flaming sky, locked in epic battle"
+  scene:
+    mainElements: "Endless expanse of deep blue to purple ocean water, horizon line meeting azure sky, no visible land or other vessels, surface occasionally broken by flying fish or dolphins"
+    details: "Sky transformed into canvas of fire with orange, red, pink and gold clouds stretching across western horizon, sun low enough to look directly at, casting path of molten light across water surface, boat and fisherman rendered as perfect black silhouettes against blazing backdrop, long shadows creating dramatic contrast, fishing line taut and vibrating with struggle, water around boat disturbed by unseen large fish"
+    background: "Spectacular sunset sky dominating entire western view, colors intensifying as sun drops lower, first hint of evening star appearing in darkening eastern sky"
+    atmosphere: "Epic drama unfolding against nature's grandest theater, man and beast locked in timeless struggle, peaceful end-of-day beauty contrasting with intense physical battle, no text or letters visible"
+  composition:
+    cameraAngle: "Wide dramatic shot emphasizing silhouette against sunset"
+    focus: "Dark figure against brilliant burning sky creating iconic image"
+    depth: "Foreground shows disturbed water from fish struggle, middle ground captures silhouetted boat drama, background filled with spectacular sunset colors"

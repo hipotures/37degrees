@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Room 101 Ultimate Terror"
+  setting:
+    time: "1984, timeless torture chamber, harsh white lighting eliminating all shadows"
+    location: "Individual torture chamber in Ministry of Love designed for psychological breaking through personalized terror"
+    weather: "Sterile controlled climate with no natural elements"
+  characters:
+    - appearance: "Man, 39 years old, extremely emaciated and gray, dirty and wasted, balding skull, crooked spine from torture, skeletal frame showing months of starvation and abuse"
+      clothing: "Gray prison rags, torn and filthy"
+      position: "Strapped into chair restraints, unable to move head or body"
+      action: "Screaming in absolute terror while staring at cage containing his worst fear, begging for mercy and betraying Julia"
+    - appearance: "Man, approximately 50 years old, large powerfully built frame, burly build with thick neck and broad chest, coarse humorous cruel face that is simultaneously intelligent and charming, prominent aquiline nose, thick dark hair, wears eyeglasses which he frequently adjusts"
+      clothing: "Black overalls (Inner Party uniform) signifying high rank and authority"
+      position: "Standing beside torture apparatus in position of complete control"
+      action: "Adjusting eyeglasses while calmly operating torture device, showing professional detachment from Winston's terror"
+  scene:
+    mainElements: "White-walled chamber with chair restraints for prisoner, sophisticated torture apparatus designed to exploit individual's worst fears, cage containing rats positioned inches from Winston's face, bright harsh lighting eliminating all shadows, clinical torture equipment"
+    details: "Ultimate psychological destruction through personalized horror. Winston's emaciated frame shows months of torture and starvation. The cage containing his worst fear hovers inches from his face. O'Brien operates torture equipment with calm professional efficiency. Harsh white lighting makes everything appear surgical and inhuman. Winston's terror is total and animalistic. His betrayal of Julia represents complete spiritual death. The clinical sterility masks absolute horror. This room destroys human souls through intimate knowledge of personal terror. No text or letters visible."
+    background: "Sterile white walls with no decoration or comfort, torture equipment mounted throughout space"
+    atmosphere: "Clinical sterility masking absolute horror, complete destruction of human dignity and love through scientific application of personalized terror"
+  composition:
+    cameraAngle: "Close medium shot focusing on Winston's terrified face and the cage"
+    focus: "Winston's moment of ultimate betrayal and spiritual destruction"
+    depth: "Foreground Winston's terrified face, middle ground cage with his worst fear, background O'Brien operating controls with cold efficiency"

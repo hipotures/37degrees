@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Lost in Goblin Tunnels"
+  setting:
+    time: "Third Age, unknown time underground"
+    location: "Dark underground tunnel system beneath Misty Mountains, narrow rocky passages carved by goblins"
+    weather: "Cold damp air underground, no natural light"
+  characters:
+    - appearance: "Middle-aged hobbit, late 40s, curly brown hair, round cheerful face, short stature, slightly portly build, bright hazel eyes"
+      clothing: "Forest green velvet waistcoat, cream-colored linen shirt with brass buttons, brown woolen breeches, yellow silk handkerchief in waistcoat pocket, now disheveled and dirty"
+      position: "Crawling through narrow rocky tunnel on hands and knees"
+      action: "Feeling way forward in darkness with outstretched hands, breathing heavily from fear and exertion, occasionally stopping to listen for sounds"
+  scene:
+    mainElements: "Narrow rocky tunnel carved roughly from mountain stone, complete darkness except for faint light source ahead, uneven rocky floor"
+    details: "Rough stone walls with chisel marks from goblin excavation, low ceiling forcing traveler to crawl, loose rocks and debris on tunnel floor, occasional water drips creating small puddles, faint glimmer of light visible far ahead in tunnel, scrape marks on walls from countless passages, damp moss growing in crevices"
+    background: "Branching tunnels disappearing into complete blackness, sound of distant water echoing, maze-like network of goblin passages"
+    atmosphere: "Claustrophobic fear in complete darkness, sense of being utterly lost underground, mountain's crushing weight above, growing desperation and isolation, no text or letters visible"
+  composition:
+    cameraAngle: "Low angle following hobbit through tunnel, emphasizing confined space"
+    focus: "Bilbo's determined crawling toward distant light representing hope"
+    depth: "Bilbo filling narrow tunnel in foreground, dark tunnel walls in middle ground, faint light beckoning in background"

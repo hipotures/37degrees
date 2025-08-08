@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: Third Age of Middle-earth, coronation day in bright spring morning
+    location: Great fortress city of Gondor, Tower of Guard, built on seven levels carved into mountainside, capital of the
+      kingdom of men in the west
+    weather: Perfect spring morning with clear skies, gentle breeze carrying scent of flowers
+  characters:
+  - appearance: Human male, late 30s to early 40s, tall around 6 feet 2 inches, noble bearing, dark hair clean and styled,
+      grey eyes with regal authority, clean-shaven noble face
+    clothing: Royal blue or black tunic with silver embroidery, crown of Gondor, ceremonial sword belt, fine leather boots,
+      white tree of Gondor on chest
+    position: Standing at highest level of the city before the White Tree, crown newly placed upon his head
+    action: Raising sword in acknowledgment of cheering crowds, accepting the kingship and responsibility for all his people
+  - appearance: Vast crowd of people representing all Free Peoples of Middle-earth gathered for historic moment
+    clothing: Festival clothes and ceremonial garments from many lands, banners and standards of different realms
+    position: Filling all seven levels of the city, crowding balconies and walkways
+    action: Cheering and celebrating the restoration of the rightful king after generations of waiting
+  scene:
+    mainElements: Seven-tiered white stone city rising up mountainside, great gates between levels, White Tree courtyard at
+      highest level, beacon tower on peak
+    details: White marble city gleaming in spring sunlight with every level packed with celebrating citizens, ancient White
+      Tree blooming with silver flowers in marble courtyard, crown of Gondor glinting gold and silver, royal banners unfurled
+      showing white tree and seven stars, fountains flowing with crystal water, flower petals falling like snow from windows
+      and balconies, guards in ceremonial armor standing at attention, no text or letters visible
+    background: Pelennor Fields green with spring growth, Anduin River sparkling in distance, clear sky suggesting peace has
+      returned to the land
+    atmosphere: Joyous celebration after long years of shadow, hope restored to the hearts of all peoples, sound of cheering
+      echoing from stone walls, scent of spring flowers mixed with incense
+  composition:
+    cameraAngle: Wide shot from middle level showing the crowned king above and celebrating crowds below
+    focus: The restoration of rightful order and the hope of a new age
+    depth: Foreground shows celebrating citizens on nearest level, middle ground features the new king with White Tree, background
+      reveals the full majesty of Minas Tirith and surrounding lands
+visualElements:
+  colorPalette:
+    primary:
+    - rich fantasy colors
+    - jewel tones
+    secondary:
+    - atmospheric colors
+    - magical glows
+    background: atmospheric, often dark or misty
+    usageNotes: Rich, layered colors with magical atmosphere
+    saturation: medium to high
+    contrast: medium to high
+  lineArt:
+    style: painterly, loose
+    weight: varied, often hidden
+    color: integrated into painting
+    texture: organic brushstrokes
+    edgeTreatment: soft, painterly edges
+  lighting:
+    type: dramatic, magical
+    direction: varied for atmosphere
+    intensity: high contrast areas
+    shadows:
+      style: painted, atmospheric
+      color: cool or warm depending on scene
+      opacity: varied
+    highlights: magical glows, rim lighting
+  rendering:
+    technique: digital painting with textured brushes
+    texture: dry media brush texture
+    detailLevel: moderate to high
+    finish: glazed, painterly
+  perspective: cinematic, dynamic
+  mood:
+    overall: mythological, otherworldly, epic
+    emotion: wonder, mystery, adventure
+    tempo: varies from calm to dramatic
+    keywords:
+    - epic
+    - mystical
+    - otherworldly
+    - fantasy
+    - mythological
+  stylePrecedents:
+  - Craig Mullins digital concept art
+  - Frank Frazetta fantasy paintings
+  - Boris Vallejo fantasy illustrations
+  - Magic: The Gathering card art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

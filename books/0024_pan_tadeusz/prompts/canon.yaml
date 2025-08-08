@@ -1,0 +1,140 @@
+canon:
+  characters:
+    - id: "tadeusz_soplica"
+      name: "Tadeusz Soplica"
+      description_block: |
+        characters:
+          - appearance: "Young man, approximately 20 years old, handsome and robust with healthy complexion, slightly stocky build, dark brown hair, oval face, dark brown eyes, strong physique"
+            clothing: "Urban attire from Vilnius - elegant frak coat in dark color, matching trousers, white linen shirt, leather boots, later Polish military uniform with officer's insignia"
+            posture: "Upright, confident stance of educated young nobleman, sometimes showing romantic melancholy or emotional intensity"
+
+    - id: "zosia_horeszko" 
+      name: "Zosia Horeszko"
+      description_block: |
+        characters:
+          - appearance: "Young girl, 14 years old, delicate natural beauty, light blonde curly hair gleaming like crown on saint's image, blue eyes, tanned complexion from outdoor work, swan-like neck, slender graceful build"
+            clothing: "Simple white dress reaching to chest revealing shoulders and neck, later traditional Lithuanian folk costume with green-white skirt, white embroidered shirt, rosemary wreath"
+            posture: "Natural grace, modest demeanor, actively engaged in rural tasks, gentle movements with birds and children"
+
+    - id: "telimena"
+      name: "Telimena"  
+      description_block: |
+        characters:
+          - appearance: "Mature woman over 30 years, raven-black hair, black eyes, pale complexion enhanced with rouge makeup, subtle wrinkles visible up close, missing two teeth, slender shapely figure"
+            clothing: "Fashionable elegant attire in Petersburg or French style, often with deep décolletage, fabrics unsuited to countryside setting, carefully styled appearance"
+            posture: "Studied theatrical poses, affected romantic gestures, sophisticated urban mannerisms contrasting with rural simplicity"
+
+    - id: "jacek_soplica_ksiadz_robak"
+      name: "Jacek Soplica (Ksiądz Robak)"
+      description_block: |
+        characters:
+          - appearance: "Man around 40 years, military bearing despite religious habit, broad-shouldered well-built physique, face marked by distinctive scars - wide scar above right ear and lance or bullet wound mark on chin"
+            clothing: "Bernardine monk habit with hood concealing face, brown rough wool garment with rope belt, sandals, habit often dusty from travel"
+            posture: "Military stance betraying soldier background, alert watchful movements, authoritative presence despite humble attire"
+
+    - id: "sedzia_soplica"
+      name: "Sędzia Soplica"
+      description_block: |
+        characters:
+          - appearance: "Elderly bachelor, robust and ruddy complexion, dignified bearing, typical Polish nobleman-landowner appearance, healthy and well-fed look"
+            clothing: "Traditional Polish attire - kontusz overcoat with characteristic split sleeves, ornate wide Słuck belt with intricate patterns, high leather boots, ceremonial karabela saber"
+            posture: "Dignified authoritative stance befitting landowner and judge, measured movements reflecting wisdom and social position"
+
+    - id: "hrabia_horeszko"
+      name: "Hrabia Horeszko"
+      description_block: |
+        characters:
+          - appearance: "Young aristocrat, delicate refined features, dreamy contemplative expression, pale complexion, slender build, romantic temperament visible in eyes"
+            clothing: "English fashion - tailored surtout coat, fashionable trousers, elegant hat, foreign attire contrasting sharply with traditional Polish garments"
+            posture: "Theatrical romantic gestures, often lost in artistic reverie, refined movements of educated European aristocrat"
+
+    - id: "gerwazy_rebajlo"
+      name: "Gerwazy Rębajło"
+      description_block: |
+        characters:
+          - appearance: "Elderly tall man, gray hair, face deeply furrowed with wrinkles, grim stern expression, bald head covered with scars from old battles"
+            clothing: "Old Horeszko livery - yellow coat with Półkozic heraldic emblem on collar, worn but maintained with dignity, sturdy work boots"
+            posture: "Upright military bearing despite age, movements deliberate and purposeful, commanding presence radiating determination"
+
+    - id: "wojski_hreczecha"  
+      name: "Wojski Hreczecha"
+      description_block: |
+        characters:
+          - appearance: "Elderly man around 72 years, cheerful animated face, lively eyes, sprightly despite advanced age, respected dignified appearance"
+            clothing: "Traditional nobleman's attire appropriate for feast master, during cooking may wear apron or cooking coat, ceremonial dress for formal occasions"
+            posture: "Energetic movements belying his age, masterful gestures when conducting hunts or preparing feasts, natural authority in social gatherings"
+
+    - id: "jankiel"
+      name: "Jankiel"
+      description_block: |
+        characters:
+          - appearance: "Elderly Jewish man, wise weathered face showing intelligence and kindness, beard, expressive eyes reflecting years of experience and observation"
+            clothing: "Traditional Jewish long black coat (opona), yarmulke, simple but dignified attire of respected innkeeper and merchant"
+            posture: "Calm measured movements, skilled hands when playing cymbals, respectful bearing toward all social classes, quiet dignity"
+
+  locations:
+    - id: "soplicowo_manor"
+      name: "Soplicowo Manor"  
+      description_block: |
+        setting:
+          location: "Traditional Polish noble manor house in Soplicowo estate, wooden structure with stone foundation on small hill, Lithuanian countryside, early 19th century"
+        mainElements: "White-painted wooden walls gleaming in sunlight, columned porch or gallery, surrounding grove of birch and poplar trees, clear stream nearby, open gate symbolizing hospitality, large barn and three grain stacks, various farm buildings"
+        atmosphere: "Peaceful orderly prosperity, warm golden sunlight on white walls, gentle rustling of protective trees, sense of stability and traditional Polish hospitality"
+
+    - id: "horeszko_castle_ruins"
+      name: "Horeszko Castle Ruins"
+      description_block: |
+        setting:
+          location: "Gothic castle ruins of Horeszko family estate, stone fortress near Soplicowo, Lithuanian countryside, ancient seat of magnate power now abandoned"
+        mainElements: "Moss-covered stone walls with ivy growth, empty window openings like hollow eyes, ruined towers and battlements, overgrown courtyard with wild vegetation, remnants of former grandeur in architectural details"
+        atmosphere: "Melancholy romantic decay, shadows and patches of sunlight through ruins, whispers of past glory, haunting beauty of architectural fragments, silence broken only by wind through broken stones"
+
+    - id: "horeszko_castle_interior"
+      name: "Horeszko Castle Interior"
+      description_block: |
+        setting:
+          location: "Interior chambers of ruined Horeszko castle, stone halls and rooms partly intact, Lithuanian magnate residence in decay"
+        mainElements: "Long stone-walled dining hall with vaulted ceiling, remnants of former magnificence in carved details, empty fireplaces, broken furniture, hunting trophies on walls, great chamber where feasts once held"
+        atmosphere: "Echoing emptiness, flickering candlelight casting long shadows on stone walls, sense of faded grandeur and vanished splendor, mysterious and slightly ominous mood"
+
+    - id: "lithuanian_forest_puszcza"
+      name: "Lithuanian Primeval Forest"
+      description_block: |
+        setting:
+          location: "Vast primeval Lithuanian forest (puszcza), ancient woodland realm of wild beasts, heart of Lithuanian wilderness in early 19th century"
+        mainElements: "Towering ancient trees centuries old, dense undergrowth, swampy areas with russet-colored water pools, twisted roots, moss-covered fallen logs, clearings where wild animals gather, bear dens in deepest parts"
+        atmosphere: "Primal wilderness untouched by civilization, misty mysterious depths, sounds of wild creatures, sense of ancient natural power, both beautiful and threatening presence of untamed nature"
+
+    - id: "dobrzyn_village"
+      name: "Dobrzyn Village"
+      description_block: |
+        setting:
+          location: "Impoverished noble settlement (zaścianek) in Dobrzyn, community of petty Polish nobility working their own land, Lithuanian countryside"
+        mainElements: "Modest houses showing signs of former better times, church and inn at village center, scattered farmsteads, small fields worked by noble families, simple but maintained buildings"
+        atmosphere: "Dignity maintained despite poverty, proud inhabitants preserving noble traditions, sense of ancient honor and military readiness, community bound by shared heritage and patriotic fervor"
+
+  items:
+    - id: "robak_snuffbox"
+      name: "Ksiądz Robak's Snuffbox"
+      description_block: |
+        details: "Wooden snuffbox crafted from birch bark, seemingly humble exterior concealing precious secret - miniature portrait of Napoleon leading his army hidden under the lid, tool of patriotic agitation filled with sacred tobacco from Jasna Góra monastery"
+
+    - id: "scyzoryk_sword"
+      name: "Gerwazy's Scyzoryk"
+      description_block: |
+        details: "Massive rapier sword, almost two-handed weapon, ancient blade worn from battles, nicked and scarred steel showing years of use, ornate handle bearing traces of former grandeur, weapon of vengeance and symbol of unwavering loyalty"
+
+    - id: "wojski_horn"
+      name: "Wojski's Hunting Horn"
+      description_block: |
+        details: "Long twisted buffalo horn with spotted pattern, hung on leather strap at Wojski's belt, musical instrument of almost magical power capable of recreating entire hunt through sound, polished smooth from years of use"
+
+    - id: "porcelain_service"
+      name: "Wojski's Ceremonial Service"  
+      description_block: |
+        details: "Exquisite porcelain dinner service with miniature figurines depicting scenes of noble life and parliamentary sessions, artistic masterpiece changing appearance with seasons, centerpiece of feast table bringing stories to life through crafted detail"
+
+    - id: "jankiel_cymbals"
+      name: "Jankiel's Cymbals"
+      description_block: |
+        details: "Traditional Jewish musical instrument (cymbały) with multiple strings, wooden frame and metal strings creating complex harmonies, instrument of masterful musician capable of evoking entire historical narratives through music"

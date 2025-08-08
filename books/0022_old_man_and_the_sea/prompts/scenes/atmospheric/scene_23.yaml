@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Exhausted Journey Up Village Path"
+  setting:
+    time: "September 1950, morning, 8:00 AM, sun climbing higher"
+    location: "Cuban fishing village of Cojímar seven kilometers east of Havana, situated around small protected bay at river mouth"
+    weather: "Clear warm morning, heat beginning to build, light breeze"
+  characters:
+    - appearance: "Old man over 70 years, thin and gaunt but with strong sinewy arms, height average for elderly Cuban fisherman, weathered dark skin with deep wrinkles on neck and face, brown spots of benign skin cancer on cheeks, hands covered with deep old healed scars from fishing lines"
+      clothing: "Worn patched shirt faded by sun and salt, old threadbare trousers, often barefoot, straw hat when at sea for sun protection"
+      position: "Walking slowly up unpaved street, boat mast on shoulder"
+      action: "Struggling under weight of mast, stopping frequently to rest, walking with great effort toward home"
+  scene:
+    mainElements: "Simple single-story houses with faded pastel walls in yellows, blues, and ochres, 17th century stone fort Torreón de Cojímar dominating harbor, narrow unpaved streets, lush tropical vegetation with royal palms and banana trees"
+    details: "Narrow unpaved path winding upward from harbor through village, dusty earth showing footprints of many generations, boat mast longer than man is tall creating awkward burden, morning shadows growing shorter as sun climbs, wooden shutters opening as villagers begin daily routines, children peering from doorways at returning hero, scents of cooking breakfast and blooming tropical flowers"
+    background: "Village houses rising up hillside away from harbor, tropical vegetation growing thick between buildings, morning sky clear and blue above red tile roofs"
+    atmosphere: "Physical exhaustion contrasting with spiritual triumph, heroic effort to complete final journey home, village awakening to witness return of legend, no text or letters visible"
+  composition:
+    cameraAngle: "Following shot emphasizing upward struggle"
+    focus: "Determined figure carrying burden up village path"
+    depth: "Foreground shows detailed path and effort, middle ground captures village setting, background reveals hill rising toward home"

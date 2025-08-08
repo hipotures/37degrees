@@ -1,6 +1,7 @@
 book_info:
-  title: "Proces"
+  title: "The Trial"
+  title_pl: "Proces"
   author: "Franz Kafka"
   year: 1925
-  genre: "Powieść egzystencjalna"
-  reading_time: "8-10 godzin"
+  genre: "Existential novel"
+  reading_time: "8-10 hours"

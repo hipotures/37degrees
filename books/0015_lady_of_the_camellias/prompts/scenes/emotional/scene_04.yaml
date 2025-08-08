@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Countryside Morning Tranquility"
+  setting:
+    time: "1840s French countryside, peaceful morning"
+    location: "Modest country house in French countryside outside Paris, surrounded by natural gardens and rolling hills"
+    weather: "Gentle morning sunshine with light breeze stirring flower petals"
+  characters:
+    - appearance: "Young man, mid-twenties, dark brown hair combed back in 1840s style, clean-shaven face with strong jawline, tall athletic build, intense brown eyes, pale skin"
+      clothing: "Black formal evening tailcoat, white dress shirt with high starched collar, white silk bow tie, black wool trousers with satin stripe, black leather dress shoes"
+      position: "Standing upright with shoulders back, one foot slightly forward in confident stance"
+      action: "Looking directly ahead with passionate determination, hands clasped behind back"
+    - appearance: "Woman, early twenties, pale complexion with delicate features, auburn hair styled in elegant 1840s fashion with center part and side curls, slender build, fragile due to illness, expressive dark eyes"
+      clothing: "Luxurious white silk evening gown with off-shoulder neckline, fitted bodice with tiny pearl buttons, full bell-shaped skirt, white lace gloves, pearl necklace, small pearl earrings"
+      position: "Standing gracefully with one hand holding camellia bouquet against her chest, other hand resting on nearby surface"
+      action: "Gazing with melancholic expression, breathing shallowly due to consumption"
+  scene:
+    mainElements: "Simple white-washed stone cottage with green shutters, climbing roses around doorframe, wooden garden gate, well-maintained flower beds, old oak tree providing shade"
+    details: "Fresh white camellia flowers arranged in small bouquet, pristine ivory-white petals with waxy texture, dark green glossy leaves, tied with white silk ribbon. Morning dew sparkling on grass, butterflies among wildflowers, gentle countryside sounds of birds and rustling leaves. Luminous white pearl necklace with perfectly matched spherical pearls reflecting natural light. No text or letters visible"
+    background: "Rolling green hills extending toward horizon, scattered wildflowers in meadows, distant farmhouses creating peaceful rural vista"
+    atmosphere: "Peaceful rural tranquility, escape from urban corruption, natural beauty offering healing and simple happiness"
+  composition:
+    cameraAngle: "Wide pastoral shot capturing both characters and natural landscape"
+    focus: "Two figures standing together in harmonious countryside setting"
+    depth: "Foreground shows blooming garden with characters, middle ground displays cottage and oak tree, background reveals rolling hills and distant countryside"

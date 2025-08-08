@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "First Raindrops on Dusty Ground"
+  setting:
+    time: "1811, afternoon, 4:30 PM, sudden weather change as storm arrives"
+    location: "Village square in Dobrzyn with first drops of summer thunderstorm beginning"
+    weather: "First raindrops beginning to fall after prolonged dry period, wind picking up dramatically, temperature dropping"
+  characters:
+    - appearance: "Multiple villagers of various ages showing mixed reactions to sudden weather change, simple rural clothing"
+      clothing: "Traditional Polish rural attire - simple white garments, dark vests, practical footwear suitable for field work"
+      position: "Scattered across square in various states of reaction to beginning precipitation"
+      action: "Some running for shelter, others standing with faces upturned celebrating rain, children playing in first drops, general bustling activity"
+  scene:
+    mainElements: "First large raindrops striking sun-baked earth creating small puffs of dust, village square with simple wooden buildings providing shelter destinations, people reacting with mixed joy and urgency"
+    details: "Sweet aromatic scent of petrichor rising as first drops hit parched earth, dust dancing as each raindrop creates tiny explosion on ground surface, papers and lightweight objects beginning to flutter in rising wind, clothes starting to billow, hat brims turning up in gusts, distant lightning illuminating approaching wall of rain"
+    background: "Storm approaching rapidly across landscape like gray curtain, bright patches of sunlight creating dramatic contrast with dark storm clouds, trees beginning to thrash in wind"
+    atmosphere: "Excitement and relief at drought-breaking rain arrival, sudden energy as weather transforms landscape, community activity as people respond to weather change, natural drama of climate transition, no text or letters visible"
+  composition:
+    cameraAngle: "Wide angle capturing multiple reactions across village square"
+    focus: "Various figures responding to weather change with dramatic sky backdrop"
+    depth: "Foreground shows dust impacts from first raindrops, middle ground captures village activity, background reveals advancing storm wall"

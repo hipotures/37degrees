@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Neighbors in Victory Mansions Hallway"
+  setting:
+    time: "1984, early evening, dim hallway lighting"
+    location: "Victory Mansions apartment building hallway with peeling paint and institutional fixtures"
+    weather: "Cold drafty interior with cooking smells"
+  characters:
+    - appearance: "Man, 39 years old, thin and frail build, below average height, very pale almost white hair, naturally ruddy complexion made rough by cheap soap and dull razors, intelligent but sad and weary eyes, artificial teeth, chronic varicose ulcer on right ankle above the ankle bone that frequently itches and suppurates"
+      clothing: "Blue Party overalls (standard Outer Party uniform), worn and shabby"
+      position: "Standing in doorway of his apartment, half-hidden by door frame"
+      action: "Reluctantly emerging from his apartment in response to neighbor's enthusiastic greeting"
+    - appearance: "Man, 35 years old, fat and corpulent but vigorous, frog-like face, perpetually sweating and damp with overwhelming odor of perspiration, described as oversized schoolboy"
+      clothing: "Blue Party overalls often combined with athletic shorts for outdoor Party activities"
+      position: "Standing in hallway outside Winston's door, gesturing energetically"
+      action: "Enthusiastically discussing Community Centre activities while wiping sweat from his face with obvious excitement"
+  scene:
+    mainElements: "Peeling hallway walls with institutional fixtures, multiple apartment doors along corridor, oblong metal plaque resembling dulled mirror mounted on wall (telescreen monitoring area), harsh electric bulb casting stark shadows, stairwell visible leading to other floors"
+    details: "Contrast between genuine Party enthusiasm and hidden skepticism. Parsons radiates sweaty vigor and mindless loyalty while Winston shows careful restraint. The telescreen observes their interaction with mechanical attention. Parsons' larger frame dominates narrow hallway space. His constant perspiration and frog-like features make him appear almost inhuman in devotion. Winston's thin body seems to shrink from contact. Peeling paint and broken fixtures show building's decay. No text or letters visible."
+    background: "Long hallway with multiple apartment doors, stairwell leading to other floors, institutional walls showing years of neglect"
+    atmosphere: "Oppressive neighborly surveillance disguised as friendly social interaction, physical discomfort of poverty mixed with ideological pressure"
+  composition:
+    cameraAngle: "Medium shot down hallway showing both neighbors in conversation"
+    focus: "Contrast between Parsons' enthusiastic gestures and Winston's guarded posture"
+    depth: "Foreground Winston partially hidden by door, middle ground Parsons in hallway, background telescreen on wall observing"

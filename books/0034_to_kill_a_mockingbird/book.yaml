@@ -1,6 +1,7 @@
 book_info:
-  title: "Zabić drozda"
+  title: "To Kill a Mockingbird"
+  title_pl: "Zabić drozda"
   author: "Harper Lee"
   year: 1960
-  genre: "Powieść obyczajowa"
-  reading_time: "8-10 godzin"
+  genre: "Social novel"
+  reading_time: "8-10 hours"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Revelation in Sanskrit Prophecy"
+  setting:
+    time: "1930s Colombian Caribbean coast, mystical afternoon in chamber of mysteries"
+    location: "Small dark room in depths of Buendía house serving as Melquíades' eternal chamber, Colombian jungle village"
+    weather: "Still tropical air with building tension of approaching supernatural storm"
+  characters:
+    - appearance: "Last scholar of family line, devoted to deciphering family mysteries and ancient prophecies, represents culmination of family's intellectual obsessions"
+      clothing: "Simple scholarly clothing, disheveled from grief and intense study"
+      position: "Hunched over ancient parchments at wooden table"
+      action: "Reading Sanskrit text with sudden comprehension, experiencing miraculous clarity of understanding family's entire destiny"
+    - appearance: "Ghostly presence of ancient gypsy sage, timeless figure who transcends death to witness completion of his prophecy"
+      clothing: "Spectral version of characteristic black hat and velvet vest, appearing as memory or vision"
+      position: "Standing in shadows as witness to prophecy's fulfillment"
+      action: "Observing silently as his century-old predictions come to completion"
+  scene:
+    mainElements: "Dark room lit only by window, full of dust that seems luminous, parchments, alchemical instruments, daguerreotype, human skeleton, mysterious scientific atmosphere, smell of old books and chemicals, place where past present and future converge, old yellowed scrolls covered with dense incomprehensible Sanskrit writing and mysterious diagrams, contain entire hundred-year history of Buendía family written century earlier"
+    details: "Ancient parchments spread across table showing Sanskrit text becoming suddenly comprehensible, late afternoon light streaming through window creating mystical illumination, dust motes dancing in air like spirits, alchemical equipment gathering dust around scholarly activity, air thick with accumulated history and revelation, no readable Sanskrit text visible"
+    background: "Shelves lined with mysterious books and instruments, doorway leading to rest of decaying house, ancient furniture bearing weight of century-old secrets, approaching supernatural storm visible through window"
+    atmosphere: "Moment of ultimate revelation and understanding, intellectual quest reaching its prophesied conclusion, convergence of past prophecy with present reality creating mystical enlightenment"
+  composition:
+    cameraAngle: "Close shot capturing scholar's face illuminated by mystical understanding"
+    focus: "Moment of reading prophecy about own destiny as it unfolds in real time"
+    depth: "Foreground: ancient parchments revealing all secrets, middle: scholar achieving ultimate comprehension, background: mysterious chamber where all family mysteries converge"

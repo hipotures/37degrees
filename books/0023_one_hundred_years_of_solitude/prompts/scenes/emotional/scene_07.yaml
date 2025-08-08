@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Plague of Wakefulness Descends"
+  setting:
+    time: "Mid-1820s Colombian Caribbean coast, endless night that feels like day"
+    location: "Central plaza and streets of Macondo village during insomnia plague, Colombian jungle settlement"
+    weather: "Oppressive tropical night with no relief from heat, air thick with humidity"
+  characters:
+    - appearance: "Man, from birth to death in lonely old age, born with open eyes prophesying his gift of clairvoyance, as child and youth silent and withdrawn, slender almost ascetic build, as result of 32 lost wars face takes on harsh tired expression of veteran, penetrating melancholic gaze, suffers from painful boils under armpits (hidradenitis suppurativa) rare but significant physical detail emphasizing inner suffering"
+      clothing: "In youth simple modest clothes, as military commander wears liberal uniform which over time becomes worn faded and repeatedly patched, in old age after wars simple shirt and pants working in goldsmith workshop"
+      position: "Kneeling by village well with small paintbrush in hand"
+      action: "Carefully painting labels on every object to preserve their names and meaning"
+    - appearance: "Woman, teenage to over 115 years old, described as active, small, stern woman with steel nerves, embodiment of vitality and strength through most of life, in old age when loses sight body begins to shrink, at end of life becomes so small and light resembles newborn or doll, skin becomes wrinkled and transparent"
+      clothing: "Dark, stern, simple dresses throughout life reflecting pragmatism and mourning for family members, characteristic stiff starched petticoats that make quiet whisper during constant bustling"
+      position: "Moving frantically between houses with bundles of labeled objects"
+      action: "Desperately trying to organize community's fight against collective amnesia"
+  scene:
+    mainElements: "Village transformed into surreal landscape where night never comes, people working by torchlight and oil lamps, everything labeled with painted signs, villagers looking exhausted but unable to sleep, strange hallucinatory brightness filling streets"
+    details: "Hand-painted labels attached to every visible object, torches and lamps burning throughout village creating harsh artificial daylight, people with dark circles under eyes continuing daily activities through endless waking hours, desperate fight against forgetting, no readable text on labels"
+    background: "Adobe houses standing like pale monuments in artificial light, jungle edge visible in perpetual twilight, large sign at village entrance"
+    atmosphere: "Eerie hallucinatory clarity mixed with growing desperation, community united in fight against losing their very identity and memories"
+  composition:
+    cameraAngle: "Wide shot showing entire transformed village in artificial light"
+    focus: "Young Aureliano methodically labeling objects while community struggles around him"
+    depth: "Foreground: detailed labeling activity, middle: desperate villagers fighting forgetfulness, background: ghostly village architecture in strange light"

@@ -1,0 +1,105 @@
+sceneDescription:
+  setting:
+    time: Eternal winter afternoon in Narnia, grey light fading
+    location: Large beaver dam across frozen stream in Narnia, dome-shaped house built on top of dam structure
+    weather: Cold winter day with light snow, wind picking up
+  characters:
+  - appearance: Boy, 13 years old, tall and well-built for his age, natural leadership bearing, fair-haired English youth,
+      noble and serious facial features
+    clothing: Brown wool vest over white linen shirt, knee-length dark breeches, long socks, sturdy leather shoes, school
+      sweater
+    position: Standing cautiously near dam, being introduced to talking beaver
+    action: Listening carefully to Mr. Beaver's words, assessing trustworthiness of this new guide
+  - appearance: Girl, 12 years old, graceful and poised, long straight black hair, the pretty one of the family, mature bearing,
+      gentle facial features
+    clothing: Simple wool dress in muted blue-grey, practical school cardigan, dark stockings, sensible shoes
+    position: Close to Peter, observing beaver family with fascination and caution
+    action: Studying the domestic beaver household, beginning to understand Narnian society
+  - appearance: Boy, 10 years old, smaller build than Peter, dark hair, initially sullen and spiteful expression, later shows
+      repentance and courage
+    clothing: School shorts, white shirt, grey wool pullover, long socks, black school shoes
+    position: Standing apart from group, looking increasingly uncomfortable
+    action: Knowing he has already betrayed these potential allies, showing growing internal conflict
+  - appearance: Girl, 8 years old, small and delicate, bright golden curly hair, merry and trusting expression, radiant and
+      honest face
+    clothing: Simple blue wool dress with white collar, wool tights, small leather shoes, child's cardigan
+    position: Approaching beavers with natural friendliness and curiosity
+    action: Immediately warming to beaver family, asking eager questions about Tumnus
+  - appearance: Large brown beaver with thick fur, whiskered face, intelligent eyes, solid build of working beaver
+    clothing: None - natural beaver
+    position: Standing solidly on dam surface, holding fishing net
+    action: Explaining situation to children with serious concern, gesturing toward his home
+  - appearance: Brown female beaver with kind-looking face, thick fur, smaller than her husband, matronly bearing
+    clothing: Sometimes wearing simple apron while working
+    position: Emerging from house to greet unexpected human visitors
+    action: Welcoming children with warm hospitality despite dangerous times
+  scene:
+    mainElements: Massive dam made of branches, moss and mud, beehive-shaped house on top with flat wide surface, smoke rising
+      from chimney
+    details: Solid engineered beaver dam stretching across frozen stream, dome house with rounded walls and small windows,
+      warm smoke rising from stone chimney, fishing nets and tools arranged around workspace, wooden planks making walkways
+      across dam surface, sound of water flowing beneath ice, beaver engineering showing intelligence and civilization
+    background: Frozen stream extending upstream and downstream, snow-covered banks with willow trees, forest continuing beyond
+      waterway
+    atmosphere: Sturdy working-class home, sounds of water beneath ice, cozy domestic warmth contrasting with wild forest
+      setting
+  composition:
+    cameraAngle: Medium shot showing children meeting beaver family on dam surface
+    focus: First meeting between human children and talking animal family, establishing trust
+    depth: Characters on dam in foreground, beaver house in middle ground, winter landscape in background, no text or letters
+      visible
+visualElements:
+  colorPalette:
+    primary:
+    - bright red
+    - vivid blue
+    - sunny yellow
+    secondary:
+    - grass green
+    - purple
+    - orange
+    background: simple flat colors or patterns
+    usageNotes: Intense, saturated colors used intuitively
+    saturation: very high (bold, pure colors)
+    contrast: high (bright colors against each other)
+  lineArt:
+    style: simple, direct outlines
+    weight: consistent, moderate thickness
+    color: dark outlines or color boundaries
+    texture: hand-drawn quality, slight irregularities
+    edgeTreatment: simple, clean edges
+  lighting:
+    type: flat, even lighting (no sophisticated shading)
+    direction: front-lit, minimal shadows
+    intensity: bright, cheerful
+    shadows:
+      style: simple, flat shadows if any
+      color: darker version of base color
+      opacity: solid
+    highlights: minimal, simple bright spots
+  rendering:
+    technique: direct, intuitive application
+    texture: flat colors with simple patterns
+    detailLevel: high in some areas (obsessive detail), simple in others
+    finish: flat, matte appearance
+  perspective: flattened or incorrect perspective, childlike spatial relationships
+  mood:
+    overall: cheerful, innocent, direct
+    emotion: joy, simplicity, honesty
+    tempo: peaceful, content
+    keywords:
+    - cheerful
+    - innocent
+    - direct
+    - honest
+    - joyful
+  stylePrecedents:
+  - Henri Rousseau jungle paintings
+  - Grandma Moses rural scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

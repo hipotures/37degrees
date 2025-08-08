@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Broken Man Released"
+  setting:
+    time: "1984, late afternoon, gray natural light filtering through windows"
+    location: "Ministry of Love exit corridor leading to London streets"
+    weather: "Cold overcast day with steel-colored sky"
+  characters:
+    - appearance: "Man, 39 years old, dramatically changed from torture - now corpulent and flabby with red unhealthy skin, balding head, completely different from his former thin frame, empty eyes showing spiritual death"
+      clothing: "Clean blue Party overalls (newly issued), fresh but lifeless"
+      position: "Walking slowly through corridor toward exit door"
+      action: "Moving like automaton toward freedom he no longer desires, showing complete emotional deadness"
+  scene:
+    mainElements: "Long institutional corridor with white walls leading to exit door, harsh fluorescent lighting giving way to gray daylight from outside, official Ministry insignia and surveillance cameras monitoring even this final departure, clean sterile environment"
+    details: "Physical transformation reflecting spiritual destruction. Winston's body has been changed from thin and frail to bloated and unhealthy. His red skin shows artificial fullness hiding inner emptiness. Clean new overalls contrast with his dead expression. The corridor represents passage from torture chamber back to world he can never truly rejoin. Fluorescent lighting gradually gives way to gray daylight of outside world. Security cameras monitor even this moment of release. His movements show man who has lost all capacity for genuine feeling. No text or letters visible."
+    background: "Institutional corridor extending toward exit door, daylight visible through glass panels, security stations along walls"
+    atmosphere: "Hollow victory of totalitarian system, complete spiritual death disguised as rehabilitation, artificial restoration hiding absolute destruction of human soul"
+  composition:
+    cameraAngle: "Long shot down corridor showing Winston's solitary walk toward exit"
+    focus: "Winston's changed silhouette moving toward gray daylight of outside world"
+    depth: "Foreground empty corridor behind Winston, middle ground Winston walking toward freedom, background exit door leading to gray London sky"

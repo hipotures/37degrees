@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Meeting Mr. Tumnus the Faun"
+  setting:
+    time: "Eternal winter evening in Narnia, lamplight glowing"
+    location: "Snow-covered forest clearing in magical realm of Narnia, tall dark pine trees surrounding single Victorian-style iron lamppost"
+    weather: "Light snow continuing to fall, cold but still air"
+  characters:
+    - appearance: "Girl, 8 years old, small and delicate, bright golden curly hair, merry and trusting expression, radiant and honest face"
+      clothing: "Simple blue wool dress with white collar, wool tights, small leather shoes, child's cardigan"
+      position: "Standing beneath lamppost, looking up with curiosity and slight nervousness"
+      action: "Taking small step forward with natural childhood friendliness despite strangeness"
+    - appearance: "Male faun slightly taller than Lucy, human from waist up with curly brown hair, short pointed beard, brown eyes, reddish skin, two small horns on forehead, goat legs from waist down with glossy black hair and cloven hooves, long tail"
+      clothing: "Red woolen scarf around neck, carries umbrella and brown paper parcels"
+      position: "Having just emerged from forest path, stopped in surprise at seeing human child"
+      action: "Dropping parcels in shock and amazement, umbrella falling into snow, staring wide-eyed at Lucy"
+  scene:
+    mainElements: "Single glowing lamppost standing alone among snow-laden pine trees, deep unmarked snow covering forest floor"
+    details: "Faun's brown paper parcels scattered in snow around his goat hooves, black umbrella with curved handle lying across snowy path, lamppost casting warm golden pool of light creating intimate meeting space, faun's breath visible in cold air, his reddish skin contrasting with white snow, Lucy's small human form facing mythical creature, complete forest silence emphasizing momentous first meeting"
+    background: "Dark pine forest extending away from lamppost clearing, suggestion of winding paths through trees"
+    atmosphere: "Quiet magical stillness, cold winter air, golden light from lamppost casting warm glow on white snow and dark tree trunks"
+  composition:
+    cameraAngle: "Medium shot showing both characters in lamppost's circle of light"
+    focus: "Lucy and Tumnus facing each other in historic first meeting between human child and Narnian"
+    depth: "Two figures in foreground under lamplight, scattered parcels in middle ground, mysterious forest in background darkness, no text or letters visible"

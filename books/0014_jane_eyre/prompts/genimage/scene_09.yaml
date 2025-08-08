@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: 1830s England, late night
+    location: Gothic manor house on Yorkshire moors, corridor on third floor
+    weather: Still night with occasional gusts of wind
+  characters:
+  - appearance: Young woman, early 20s, small slight build, plain features, pale skin, dark hair pulled severely back, large
+      expressive dark eyes, determined chin
+    clothing: White nightgown and shawl, bare feet, hair loose around shoulders
+    position: Standing frozen in dark corridor, candle trembling in her hand
+    action: Listening intently to mysterious sounds from above, eyes wide with alarm, torn between curiosity and fear
+  scene:
+    mainElements: Dark narrow corridor with closed doors, flickering candlelight creating dancing shadows, mysterious sounds
+      echoing from upper floors
+    details: Single candle flame wavering in drafts, shadows leaping on wallpaper, floorboards creaking underfoot, doors standing
+      closed like secrets, sound of footsteps or laughter from floors above, spider webs in corners catching candlelight
+    background: Manor house stretching in all directions, sense of hidden chambers and forbidden areas, moors beyond invisible
+      in darkness
+    atmosphere: Mystery deepening, secrets pressing closer, supernatural elements intruding on reality, growing unease about
+      true nature of situation
+  composition:
+    cameraAngle: Low angle shot emphasizing towering shadows and vulnerability
+    focus: Lone figure confronting unknown mysteries, courage warring with prudence
+    depth: Character with candle in foreground, dark corridor in middle ground, mysterious upper regions in background
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

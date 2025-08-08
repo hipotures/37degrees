@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Wedding Day Destruction"
+  setting:
+    time: "1830s England, morning"
+    location: "Gothic manor house on Yorkshire moors, three stories with battlements and ancient towers, bridal chamber"
+    weather: "Grey overcast morning, oppressive stillness"
+  characters:
+    - appearance: "Young woman, early 20s, small slight build, plain features, pale skin, dark hair pulled severely back, large expressive dark eyes, determined chin"
+      clothing: "Wedding dress in white silk with lace trim, hair arranged for ceremony, face pale with shock"
+      position: "Standing before mirror, staring at torn wedding veil in horror"
+      action: "Holding pieces of destroyed veil, hands trembling with shock and dawning realization of supernatural intervention"
+  scene:
+    mainElements: "Delicate white lace wedding veil, torn in half during night, hanging in tattered pieces from wardrobe, bridal preparations disrupted"
+    details: "Mirror reflecting shocked face, wedding dress laid out on bed, torn veil like spider web, flowers wilting in vases, morning light grey and ominous, room that should be joyful now filled with dread"
+    background: "Manor house awakening to wedding day, sounds of preparation from other rooms, church bells distant on morning air"
+    atmosphere: "Joy transformed to horror, supernatural forces intervening in human happiness, premonition of disaster approaching, marriage doomed before it begins"
+  composition:
+    cameraAngle: "Close shot emphasizing personal devastation through destroyed symbol"
+    focus: "Torn veil as physical manifestation of destroyed dreams"
+    depth: "Shocked bride and torn veil in foreground, bridal chamber in middle ground, ominous morning beyond windows in background"

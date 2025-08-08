@@ -1,0 +1,101 @@
+sceneDescription:
+  setting:
+    time: September 1950, afternoon, 2:00 PM, peaceful siesta time
+    location: One-room dwelling in Cojímar made from hardened palm fronds called guano, dirt floor packed smooth by years
+      of use
+    weather: Warm peaceful afternoon, gentle trade winds, comfortable temperature
+  characters:
+  - appearance: Old man over 70 years, thin and gaunt but with strong sinewy arms, height average for elderly Cuban fisherman,
+      weathered dark skin with deep wrinkles on neck and face, brown spots of benign skin cancer on cheeks, hands covered
+      with deep old healed scars from fishing lines
+    clothing: Worn patched shirt faded by sun and salt, old threadbare trousers, often barefoot, straw hat when at sea for
+      sun protection
+    position: Sleeping peacefully on bed, face relaxed and serene
+    action: Dreaming deeply, slight smile on weathered face, hands resting calmly
+  - appearance: Young Cuban boy around 14-16 years old, lean athletic build from fishing work, average height for adolescent,
+      tanned olive skin, dark brown hair, warm brown eyes showing loyalty and concern
+    clothing: Simple work clothes, cotton shirt and trousers suitable for fishing village, sturdy sandals
+    position: Quietly preparing fishing equipment in corner
+    action: Organizing gear for tomorrow's fishing, planning their return to sea together
+  scene:
+    mainElements: Single old iron bed, small wooden table, one wooden chair, corner fireplace for charcoal cooking, boat mast
+      leaning against wall almost as long as room
+    details: Dim interior lit only by doorway, clean but czyste showing dignity in poverty, two religious pictures on wall
+      - Sacred Heart of Jesus and Virgin of Cobre, faint smell of charcoal and ocean salt. Afternoon light creating peaceful
+      atmosphere, fishing gear being quietly organized, sense of renewal and hope for future, cycle preparing to begin again
+      with restored partnership
+    background: Peaceful village sounds of afternoon rest, gentle ocean breeze carrying salt scent, promise of tomorrow's
+      adventures
+    atmosphere: Full circle moment - return to peace and dreams after great trial, renewal of friendship and purpose, cyclical
+      nature of life and hope, time passage made visible through rest and restoration, no text or letters visible
+  composition:
+    cameraAngle: Peaceful wide shot showing complete scene of rest and preparation
+    focus: Serene sleeping figure dreaming while life prepares to continue
+    depth: Foreground shows peaceful sleeping details, middle ground captures quiet preparation, background suggests infinite
+      cycle of sea and dreams
+visualElements:
+  colorPalette:
+    primary:
+    - '#2B2B2B'
+    - '#4A4A4A'
+    - '#6B6B6B'
+    - '#8C8C8C'
+    - '#ADADAD'
+    - '#CECECE'
+    - '#F0F0F0'
+    secondary:
+    - '#FFFFFF'
+    - '#1A1A1A'
+    background: white or off-white paper
+    usageNotes: Monochromatic grayscale only. Use varying shades for depth
+    saturation: none
+    contrast: medium to high
+  lineArt:
+    style: organic, hand-drawn
+    weight: variable (0.5-3px)
+    color: grayscale
+    texture: rough, sketchy with visible breaks
+    edgeTreatment: natural variations, multiple overlapping strokes
+  lighting:
+    type: traditional shading
+    direction: typically top-left
+    intensity: varies with pressure
+    shadows:
+      style: crosshatching and scribbling
+      color: darker graphite tones
+      opacity: built up through layering
+    highlights: paper showing through or eraser marks
+  rendering:
+    technique: traditional pencil on paper
+    texture: visible paper grain and tooth
+    detailLevel: varies from loose to highly detailed
+    finish: intentionally incomplete with visible process
+  perspective: traditional drawing perspectives
+  mood:
+    overall: artistic, unfinished, spontaneous
+    emotion: raw, authentic, contemplative
+    tempo: calm, thoughtful
+    keywords:
+    - artistic
+    - raw
+    - authentic
+    - traditional
+    - sketchy
+  postProcessing:
+    effects:
+    - paper texture
+    - graphite smudging
+    filters: none
+    adjustments:
+      saturation: '0'
+      contrast: natural pencil contrast
+  stylePrecedents:
+  - Leonardo da Vinci sketches
+  - Academic drawing studies
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

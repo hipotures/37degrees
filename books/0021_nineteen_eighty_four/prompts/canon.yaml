@@ -1,0 +1,181 @@
+canon:
+  characters:
+    - id: "winston_smith"
+      name: "Winston Smith"
+      description_block: |
+        characters:
+          - appearance: "Man, 39 years old, thin and frail build, below average height, very pale almost white hair, naturally ruddy complexion made rough by cheap soap and dull razors, intelligent but sad and weary eyes, artificial teeth, chronic varicose ulcer on right ankle above the ankle bone that frequently itches and suppurates"
+            clothing: "Blue Party overalls (standard Outer Party uniform), worn and shabby"
+            posture: "Moves with effort, especially climbing stairs, maintains expression of mild optimism when facing telescreen"
+    
+    - id: "julia"
+      name: "Julia"
+      description_block: |
+        characters:
+          - appearance: "Woman, 26-27 years old, athletic and supple body, shapely feminine hips, thick glossy dark hair, pretty face with freckles, bold and confident expression, energetic and agile movements"
+            clothing: "Blue Party overalls, narrow scarlet sash of Anti-Sex League worn tightly around waist accentuating her figure"
+            posture: "Quick, nimble and athletic movement showing energy and self-confidence"
+    
+    - id: "obrien"
+      name: "O'Brien"
+      description_block: |
+        characters:
+          - appearance: "Man, approximately 50 years old, large powerfully built frame, burly build with thick neck and broad chest, coarse humorous cruel face that is simultaneously intelligent and charming, prominent aquiline nose, thick dark hair, wears eyeglasses which he frequently adjusts"
+            clothing: "Black overalls (Inner Party uniform) signifying high rank and authority"
+            posture: "Despite powerful brutal build, moves with surprising elegance and grace, gestures are refined"
+    
+    - id: "big_brother"
+      name: "Big Brother"
+      description_block: |
+        characters:
+          - appearance: "Man, approximately 45 years old, handsome weathered face with full black mustache, penetrating eyes that seem to follow the observer from every angle due to artistic technique"
+            clothing: "Depicted only in images on posters, coins, and telescreens"
+            posture: "Always shown in commanding, authoritative pose"
+    
+    - id: "tom_parsons"
+      name: "Tom Parsons"
+      description_block: |
+        characters:
+          - appearance: "Man, 35 years old, fat and corpulent but vigorous, frog-like face, perpetually sweating and damp with overwhelming odor of perspiration, described as oversized schoolboy"
+            clothing: "Blue Party overalls often combined with athletic shorts for outdoor Party activities"
+            posture: "Enthusiastic and energetic despite obesity, constantly active"
+    
+    - id: "syme"
+      name: "Syme"
+      description_block: |
+        characters:
+          - appearance: "Man, approximately 30 years old, tiny diminutive build shorter than Winston, dark hair, large bulging eyes that are simultaneously sad and mocking"
+            clothing: "Blue Party overalls (Outer Party uniform)"
+            posture: "Small stature but intellectually intense demeanor"
+    
+    - id: "charrington_disguise"
+      name: "Mr. Charrington (Shopkeeper Disguise)"
+      description_block: |
+        characters:
+          - appearance: "Man appearing 60+ years old, frail and stooped elderly appearance, gray hair, long gentle nose, eyes distorted by thick eyeglasses creating appearance of weakness and kindness"
+            clothing: "Worn velvet jacket, shabby but respectable old-fashioned attire"
+            posture: "Bent and aged, moves slowly and carefully like elderly shopkeeper"
+    
+    - id: "charrington_agent"
+      name: "Mr. Charrington (True Identity)"
+      description_block: |
+        characters:
+          - appearance: "Man, approximately 35 years old, straight upright posture revealing true height and strength, face becomes cold and hard, black hair, no eyeglasses, all gentleness vanished"
+            clothing: "Black Thought Police uniform"
+            posture: "Erect, commanding, and threatening - completely transformed from disguise"
+
+  locations:
+    - id: "airstrip_one_london"
+      name: "Airstrip One (London)"
+      description_block: |
+        setting:
+          location: "Dystopian totalitarian London, capital city of Airstrip One province in superstate Oceania, post-war Britain under Party control"
+        mainElements: "Decaying 19th century tenements with walls supported by timber beams, windows blocked with cardboard, roofs patched with corrugated iron, bomb-damaged areas overgrown with willowherb, clouds of white plaster dust, makeshift wooden shacks in bombed lots"
+        atmosphere: "Perpetual grayness, cold steel-colored sky even on sunny days, omnipresent smell of boiled cabbage and old rags, constant background noise from telescreens"
+    
+    - id: "victory_mansions"
+      name: "Victory Mansions"
+      description_block: |
+        setting:
+          location: "Dilapidated apartment block from 1930s literally falling apart, Winston Smith's residential building in London"
+        mainElements: "Non-functioning elevator forcing residents to climb stairs, stairwell reeking of boiled cabbage and rotting doormats, peeling walls, broken fixtures, telescreen in hallway monitoring residents"
+        atmosphere: "Smell of poverty and decay, cold drafty corridors, oppressive surveillance, sounds of neighbors and telescreens echoing through thin walls"
+    
+    - id: "winston_apartment"
+      name: "Winston's Apartment"
+      description_block: |
+        setting:
+          location: "Small dingy flat in Victory Mansions with unusual alcove positioning"
+        mainElements: "Telescreen mounted on wall (oblong metal plaque resembling dulled mirror), shallow alcove where Winston can partially hide from telescreen's view, window overlooking bombed ruins and ministry pyramids, small table and few shabby furnishings"
+        atmosphere: "Cold, poorly lit, constant surveillance except for small alcove area, mixture of fear and claustrophobia"
+    
+    - id: "ministry_of_truth"
+      name: "Ministry of Truth"
+      description_block: |
+        setting:
+          location: "Enormous white concrete pyramid rising 300 meters high, one of four government ministry buildings dominating London skyline"
+        mainElements: "Gleaming white concrete structure built in terraced levels, three Party slogans visible on facade: WAR IS PEACE, FREEDOM IS SLAVERY, IGNORANCE IS STRENGTH, countless small office cubicles inside with pneumatic tube system, memory holes for document destruction"
+        atmosphere: "Imposing monumental architecture designed to dwarf individual significance, sterile institutional lighting, constant sound of pneumatic tubes and machinery"
+    
+    - id: "ministry_of_love"
+      name: "Ministry of Love"
+      description_block: |
+        setting:
+          location: "Windowless white concrete pyramid fortress in London, totalitarian interrogation and torture complex"
+        mainElements: "No windows anywhere, surrounded by maze of barbed wire, steel gates, and hidden machine gun positions, guards in black uniforms with gorilla-like faces carrying telescopic truncheons, underground prison cells and torture chambers"
+        atmosphere: "Absolute terror and oppression, sterile white brutalist architecture hiding unspeakable cruelty, silence broken only by distant screams and mechanical sounds"
+    
+    - id: "room_101"
+      name: "Room 101"
+      description_block: |
+        setting:
+          location: "Individual torture chamber in Ministry of Love designed for psychological breaking through personalized terror"
+        mainElements: "White-walled chamber with chair restraints for prisoner, sophisticated torture apparatus, equipment designed to exploit individual's worst fears, bright harsh lighting eliminating all shadows"
+        atmosphere: "Clinical sterility masking absolute horror, designed to destroy human soul through intimate knowledge of personal terror"
+    
+    - id: "prole_quarters"
+      name: "Prole Districts"
+      description_block: |
+        setting:
+          location: "Impoverished working-class neighborhoods of London where 85% of population lives in neglect"
+        mainElements: "Maze of narrow twisting streets, small grimy shops, noisy public houses, ramshackle housing, clotheslines between buildings, children playing in rubble-strewn lots, few or no telescreens"
+        atmosphere: "Chaotic but more genuine human life, poverty and squalor mixed with authentic emotion and spontaneity, freedom from constant surveillance"
+    
+    - id: "charrington_shop"
+      name: "Mr. Charrington's Antique Shop"
+      description_block: |
+        setting:
+          location: "Small dusty shop in prole district selling useless beautiful objects from forgotten past"
+        mainElements: "Dark cramped interior filled with glass, china, and antique furniture covered in dust, coral paperweight in glass dome, old prints and books, narrow staircase leading to room above, hidden telescreen concealed behind picture"
+        atmosphere: "Deceptive nostalgia and false sanctuary, musty smell of age and neglect, illusion of connection to pre-revolutionary past"
+
+  items:
+    - id: "telescreen"
+      name: "Telescreen"
+      description_block: |
+        details: "Oblong metal plaque resembling dulled mirror mounted in wall, receives and transmits simultaneously, cannot be shut off by Outer Party members, picks up sounds above very low whisper, watches and listens constantly while broadcasting Party propaganda"
+    
+    - id: "party_overalls"
+      name: "Party Overalls"
+      description_block: |
+        details: "Blue canvas coverall uniform worn by Outer Party members, practical and identical clothing designed to eliminate individuality and emphasize physical misery, standard issued garment emphasizing conformity"
+    
+    - id: "inner_party_overalls"
+      name: "Inner Party Overalls"
+      description_block: |
+        details: "Black canvas coverall uniform worn by Inner Party elite, superior quality material and cut, symbol of high rank and authority within Party hierarchy, distinctly different from blue Outer Party uniforms"
+    
+    - id: "anti_sex_league_sash"
+      name: "Anti-Sex League Sash"
+      description_block: |
+        details: "Narrow scarlet red sash worn around waist by Youth League members, intended as symbol of sexual purity and Party loyalty, bright red color creates stark contrast against blue uniforms and gray world"
+    
+    - id: "winston_diary"
+      name: "Winston's Secret Diary"
+      description_block: |
+        details: "Blank notebook with cream-colored paper purchased from antique shop, used for illegal thoughtcrime of recording true memories and rebellious thoughts, written with old-fashioned pen and real ink, hidden in alcove away from telescreen"
+    
+    - id: "coral_paperweight"
+      name: "Coral Paperweight"
+      description_block: |
+        details: "Glass dome containing piece of pink coral, symbol of beautiful useless past, purchased from Charrington's shop, represents Winston's connection to history and beauty, smashed by Thought Police during arrest"
+    
+    - id: "victory_gin"
+      name: "Victory Gin"
+      description_block: |
+        details: "Cheap harsh alcoholic drink with oily taste and burning sensation, standard Party liquor producing immediate intoxication and physical discomfort, colorless liquid that burns throat and stomach"
+    
+    - id: "victory_cigarettes"
+      name: "Victory Cigarettes"
+      description_block: |
+        details: "Poor quality tobacco cigarettes that cause chronic coughing, harsh and unsatisfying smoking experience, tobacco frequently spills from loose paper wrapping, standard Party-issued brand"
+    
+    - id: "memory_hole"
+      name: "Memory Holes"
+      description_block: |
+        details: "Slit-like openings in office walls leading to furnaces for destroying inconvenient documents, pneumatic system carries papers away on current of warm air to incineration, essential tool for rewriting history and maintaining Party truth"
+    
+    - id: "speakwrite"
+      name: "Speakwrite Machine"
+      description_block: |
+        details: "Dictating machine that converts speech to text, connected to keyboard and screen, used at Ministry of Truth for rapid document revision and historical falsification, eliminates handwriting evidence"

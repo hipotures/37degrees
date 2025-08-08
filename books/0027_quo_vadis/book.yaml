@@ -1,6 +1,7 @@
 book_info:
   title: "Quo Vadis"
+  title_pl: "Quo Vadis"
   author: "Henryk Sienkiewicz"
   year: 1896
-  genre: "Powieść historyczna"
-  reading_time: "18-20 godzin"
+  genre: "Historical novel"
+  reading_time: "18-20 hours"

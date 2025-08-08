@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Storm Front Approaching - Heavy Air Before Rain"
+  setting:
+    time: "1811, late afternoon, 4:00 PM, dramatic sky transformation with approaching thunderstorm"
+    location: "Open fields near Soplicowo estate with view toward gathering storm clouds"
+    weather: "Storm front approaching rapidly, air heavy and electric, sudden temperature drop, birds flying low"
+  characters:
+    - appearance: "Young man, approximately 20 years old, handsome and robust with healthy complexion, slightly stocky build, dark brown hair, oval face, dark brown eyes, strong physique"
+      clothing: "Urban attire from Vilnius - elegant frak coat in dark color, matching trousers, white linen shirt, leather boots, later Polish military uniform with officer's insignia"
+      position: "Standing in open field watching approaching storm with mixture of awe and concern"
+      action: "Observing dramatic sky transformation, coat beginning to billow in rising wind, preparing to seek shelter as storm advances"
+  scene:
+    mainElements: "Towering storm clouds building like dark mountains against horizon, dramatic contrast between bright remaining sunlight and approaching darkness, wind beginning to bend grain in fields"
+    details: "Air crackling with electrical tension making hair stand slightly, first gusts of cool wind carrying scent of rain and ozone, grain fields creating waves as wind patterns become visible, leaves on distant trees beginning to show pale undersides, dramatic light changes as sun alternately appears and disappears behind cloud edges, distant rumble of thunder growing closer"
+    background: "Storm front stretching across entire horizon like advancing army, bright patches of landscape still illuminated by sun creating dramatic contrast, mountains appearing dark and ominous"
+    atmosphere: "Electric anticipation of coming tempest, dramatic natural theater of weather transition, sense of insignificance before natural forces, beauty and terror combined in approaching storm, no text or letters visible"
+  composition:
+    cameraAngle: "Low angle emphasizing dramatic sky and approaching storm front"
+    focus: "Solitary figure dwarfed by dramatic sky transformation"
+    depth: "Foreground shows wind effects on vegetation, middle ground captures figure against storm approach, background dominated by towering storm clouds"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "First Lights of Evening Harbor"
+  setting:
+    time: "September 1950, early evening, 7:30 PM, dusk settling"
+    location: "Simple open-air restaurant La Terraza overlooking Cojímar harbor with terrace facing the bay"
+    weather: "Clear calm evening, gentle offshore breeze, pleasant temperature"
+  characters:
+    - appearance: "Middle-aged Cuban cafe owner around 45-50 years, stocky build from good eating, receding black hair, kind weathered face with mustache"
+      clothing: "Clean white cotton shirt, dark trousers, apron when working in kitchen"
+      position: "Standing on terrace lighting oil lamps on tables"
+      action: "Preparing evening service, looking out toward harbor for returning boats"
+    - appearance: "Young Cuban boy around 14-16 years old, lean athletic build from fishing work, average height for adolescent, tanned olive skin, dark brown hair, warm brown eyes showing loyalty and concern"
+      clothing: "Simple work clothes, cotton shirt and trousers suitable for fishing village, sturdy sandals"
+      position: "Sitting at corner table facing harbor"
+      action: "Watching anxiously for Santiago's return, declining offers of food"
+  scene:
+    mainElements: "Wooden tables and chairs arranged on concrete terrace, simple interior with bar area, black and white photographs of Hemingway and local fishermen on walls"
+    details: "Oil lamps and simple electric bulbs beginning to cast warm yellow light as daylight fades, mix of natural twilight and artificial illumination creating cozy atmosphere, harbor water reflecting scattered lights from village houses, other fishing boats already returned and secured for night, scent of cooking fish and coffee mixing with salt air, sound of Spanish conversations and clinking glasses"
+    background: "Village houses with lights beginning to glow in windows, harbor darkening but still visible in twilight, stars starting to appear in deepening sky"
+    atmosphere: "Gathering place warmth contrasting with growing concern for missing fisherman, comfortable evening social hour shadowed by anxiety, no text or letters visible"
+  composition:
+    cameraAngle: "Intimate shot from terrace overlooking harbor"
+    focus: "Interplay of warm artificial lights against darkening natural twilight"
+    depth: "Foreground shows lamp-lit terrace tables, middle ground captures harbor view, background reveals village lights beginning to twinkle"

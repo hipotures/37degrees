@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Market Day Warmth and Wonder"
+  setting:
+    time: "Early 1820s Colombian Caribbean coast, bright midday sun"
+    location: "Central plaza of early Macondo during annual gypsy visit, Colombian jungle village"
+    weather: "Intense tropical sunshine creating sharp shadows, warm humid air"
+  characters:
+    - appearance: "Gypsy of indeterminate fluid age, appears as old man but can also regain youth, timeless almost immortal figure, described as having untamed beard and sparrow hands, has Asian appearance and penetrating all-knowing eyes"
+      clothing: "Characteristic black hat with wide brim resembling raven wings, velvet worn vest covered with green patina of centuries"
+      position: "Standing beside large canvas tent displaying mysterious inventions"
+      action: "Demonstrating magnetic attraction of iron objects to amazed villagers"
+    - appearance: "Man, late 20s to elderly, potężna budowa ciała with extraordinary strength that allows him to fell a horse by grabbing its ears, in youth charismatic patriarch full of energy and curiosity, in madness becomes emaciated with long grey beard and hair, wild absent gaze"
+      clothing: "Simple rural linen shirts and pants in youth, in madness nearly naked covered only by blanket or loincloth"
+      position: "Crouched beside gypsy examining strange devices with intense fascination"
+      action: "Reaching out to touch mysterious scientific instruments with childlike wonder"
+  scene:
+    mainElements: "Colorful gypsy caravan with exotic animals and strange contraptions, villagers gathered in excited groups, large canvas tent with mysterious contents, makeshift market stalls with unusual objects and inventions, local women offering fresh tropical fruits"
+    details: "Two heavy iron bars attracting metal objects, brass astrolabe catching sunlight, telescope pointed at sky, local children watching with wide eyes, dogs barking at exotic animals, tropical butterflies dancing around market area, no text or letters visible"
+    background: "Adobe houses forming plaza perimeter, banana trees heavy with fruit, jungle edge visible beyond village"
+    atmosphere: "Electric anticipation and joyous curiosity, sense of magic entering mundane world, community gathering with shared excitement and wonder at unknown possibilities"
+  composition:
+    cameraAngle: "Medium shot capturing interaction between gypsies and fascinated villagers"
+    focus: "Melquíades demonstrating magnets while José Arcadio watches in amazement"
+    depth: "Foreground: magnetic demonstration, middle: gathered crowd of villagers, background: colorful market scene and village buildings"

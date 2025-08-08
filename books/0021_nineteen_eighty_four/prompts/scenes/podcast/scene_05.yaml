@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Antique Shop Hidden Sanctuary"
+  setting:
+    time: "1984, early evening, dim interior lighting"
+    location: "Small dusty shop in prole district selling useless beautiful objects from forgotten past"
+    weather: "Sheltered interior space"
+  characters: []
+  scene:
+    mainElements: "Dark cramped interior filled with glass, china, and antique furniture covered in dust, glass dome containing piece of pink coral on wooden table, old prints and framed pictures on walls, narrow staircase leading to room above, shelves crowded with forgotten treasures"
+    details: "Repository of forbidden beauty from destroyed past. Mahogany furniture gleams under dust layers. Delicate china teacups sit unused for decades. Crystal wine glasses catch dim light. The coral paperweight glows pink through its glass dome like trapped sunset. Everything here represents connection to pre-revolutionary world that Party seeks to erase. Narrow wooden stairs lead to secret room above. No text or letters visible."
+    background: "Deep shelves extending into shadowy recesses filled with mysterious antique objects"
+    atmosphere: "Deceptive nostalgia and false sanctuary, musty smell of age and time, illusion of connection to beautiful but dangerous past"
+  composition:
+    cameraAngle: "Medium interior shot from customer perspective"
+    focus: "Coral paperweight in glass dome catching light on central table"
+    depth: "Foreground antique items on display table, middle ground coral paperweight, background shelves fading into mysterious darkness"

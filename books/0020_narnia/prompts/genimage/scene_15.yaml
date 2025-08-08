@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Eternal winter night in Narnia, darkness and bitter cold
+    location: Snowy forest path leading away from beaver dam toward White Witch's castle
+    weather: Harsh winter night, wind howling, snow falling heavily
+  characters:
+  - appearance: Boy, 10 years old, smaller build than Peter, dark hair, initially sullen and spiteful expression, later shows
+      repentance and courage
+    clothing: School shorts, white shirt, grey wool pullover, long socks, black school shoes
+    position: Trudging alone through deep snow on dark forest path
+    action: Walking determinedly toward distant castle, shivering but driven by Turkish Delight craving and resentment
+  scene:
+    mainElements: Dark forest path winding through snow-heavy pine trees, distant glow of ice castle visible through trees
+    details: Edmund's small footprints marking trail through virgin snow, his inadequate clothing making him vulnerable to
+      bitter cold, breath forming clouds in freezing air, wind whipping snow around his struggling figure, forest seeming
+      hostile and threatening without companions, distant castle lights beckoning through dark trees like false hope
+    background: Dense black forest extending in all directions, faint glow from beaver dam house left far behind, towering
+      pine trees heavy with snow
+    atmosphere: Dangerous isolation in hostile winter wilderness, sense of terrible mistake being made, cold and darkness
+      representing moral choice, Edmund's vulnerability highlighting his poor decision, no text or letters visible
+  composition:
+    cameraAngle: Wide shot showing Edmund as small lone figure in vast threatening landscape
+    focus: Edmund's solitary journey emphasizing his isolation and poor choice
+    depth: Edmund struggling in foreground snow, dangerous forest in middle ground, distant castle glow in background
+visualElements:
+  colorPalette:
+    primary:
+    - bright red
+    - vivid blue
+    - sunny yellow
+    secondary:
+    - grass green
+    - purple
+    - orange
+    background: simple flat colors or patterns
+    usageNotes: Intense, saturated colors used intuitively
+    saturation: very high (bold, pure colors)
+    contrast: high (bright colors against each other)
+  lineArt:
+    style: simple, direct outlines
+    weight: consistent, moderate thickness
+    color: dark outlines or color boundaries
+    texture: hand-drawn quality, slight irregularities
+    edgeTreatment: simple, clean edges
+  lighting:
+    type: flat, even lighting (no sophisticated shading)
+    direction: front-lit, minimal shadows
+    intensity: bright, cheerful
+    shadows:
+      style: simple, flat shadows if any
+      color: darker version of base color
+      opacity: solid
+    highlights: minimal, simple bright spots
+  rendering:
+    technique: direct, intuitive application
+    texture: flat colors with simple patterns
+    detailLevel: high in some areas (obsessive detail), simple in others
+    finish: flat, matte appearance
+  perspective: flattened or incorrect perspective, childlike spatial relationships
+  mood:
+    overall: cheerful, innocent, direct
+    emotion: joy, simplicity, honesty
+    tempo: peaceful, content
+    keywords:
+    - cheerful
+    - innocent
+    - direct
+    - honest
+    - joyful
+  stylePrecedents:
+  - Henri Rousseau jungle paintings
+  - Grandma Moses rural scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

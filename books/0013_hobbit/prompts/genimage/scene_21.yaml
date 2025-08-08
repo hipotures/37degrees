@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: Third Age, deep night
+    location: Wooden trading town built on stilts in center of Long Lake, under attack by flying dragon
+    weather: Dark night sky lit by dragon fire, smoke and ash filling air
+  characters:
+  - appearance: Enormous red-gold dragon, massive serpentine body, powerful wings spread wide, long sinuous neck, fierce amber
+      eyes, razor-sharp teeth
+    clothing: Natural armored scales covering entire body in overlapping pattern, golden belly scales, darker red scales on
+      back
+    position: Flying above burning town, wings spread wide against night sky
+    action: Breathing streams of fire onto wooden buildings below, circling town like bird of prey, roaring with fury and
+      destructive rage
+  - appearance: Multiple townspeople of various ages, men women and children, dressed in medieval clothing
+    clothing: Simple wool tunics and dresses, leather boots, work clothes of medieval townspeople
+    position: Running along wooden walkways and docks, fleeing burning buildings
+    action: Carrying belongings and children, launching boats into lake water, some fighting fires with buckets, others helping
+      neighbors escape
+  scene:
+    mainElements: Weather-beaten wooden houses on tall posts now burning fiercely, narrow wooden walkways over dark water,
+      small boats fleeing across lake
+    details: Wooden buildings engulfed in bright orange flames, burning timbers collapsing into lake water with hissing steam,
+      smoke billowing across water surface, small rowing boats overloaded with refugees, wooden docks and walkways catching
+      fire, oil lamps scattered and broken on platforms, fishing nets burning like torches, sparks and embers flying through
+      night air
+    background: Dark lake water reflecting fire light, distant shoreline visible in flame glow, Long Lake stretching to horizon,
+      night sky filled with smoke and flying sparks
+    atmosphere: Catastrophic destruction from dragon's wrath, orange firelight illuminating desperate escape, terror and chaos
+      of attack, wooden town becoming inferno on water, no text or letters visible
+  composition:
+    cameraAngle: Wide aerial shot showing dragon above burning town on lake
+    focus: Massive destruction caused by dragon's revenge attack on innocent town
+    depth: Flying dragon silhouetted against flames in foreground, burning town in middle ground, dark lake and fleeing boats
+      in background
+visualElements:
+  colorPalette:
+    primary:
+    - warm pastels
+    - soft earth tones
+    - gentle blues and greens
+    secondary:
+    - bright accent colors for details
+    background: soft washes or textured paper
+    usageNotes: Harmonious colors that feel safe and inviting
+    saturation: medium, slightly muted
+    contrast: gentle, no harsh transitions
+  lineArt:
+    style: soft, organic lines
+    weight: varied, hand-drawn quality
+    color: brown or dark color, not pure black
+    texture: slightly rough, pencil-like
+    edgeTreatment: gentle, rounded forms
+  lighting:
+    type: warm, comforting
+    direction: soft overall illumination
+    intensity: gentle
+    shadows:
+      style: soft, minimal
+      color: warm grays or purples
+      opacity: light
+    highlights: subtle warmth
+  rendering:
+    technique: mixed media appearance
+    texture: visible paper texture, soft brushwork
+    detailLevel: simplified but expressive
+    finish: matte with gentle textures
+  perspective: slightly naive, not perfectly accurate
+  mood:
+    overall: warm, inviting, magical
+    emotion: wonder, safety, adventure
+    tempo: gentle, dreamlike
+    keywords:
+    - whimsical
+    - magical
+    - comforting
+    - imaginative
+    - nostalgic
+  stylePrecedents:
+  - Quentin Blake
+  - Maurice Sendak
+  - Beatrix Potter
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

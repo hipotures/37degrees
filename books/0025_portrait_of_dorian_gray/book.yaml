@@ -1,6 +1,7 @@
 book_info:
-  title: "Portret Doriana Graya"
+  title: "The Picture of Dorian Gray"
+  title_pl: "Portret Doriana Graya"
   author: "Oscar Wilde"
   year: 1890
-  genre: "Powieść filozoficzna"
-  reading_time: "8-10 godzin"
+  genre: "Philosophical novel"
+  reading_time: "8-10 hours"

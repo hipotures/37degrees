@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Daily Tasks with Quiet Determination"  
+  setting:
+    time: "Timeless space environment, soft morning starlight creating gentle awakening atmosphere"
+    location: "Small spherical asteroid floating in deep space, approximately 30 feet in diameter, curved surface allowing view of entire planet from any point, surrounded by star-filled black space"
+    weather: "Calm space environment with gentle cosmic currents, comfortable temperature, awakening light from distant stars"
+  characters:
+    - appearance: "Young boy, approximately 7-8 years old, blonde curly hair reaching his shoulders, fair skin with rosy cheeks, bright blue eyes filled with wonder and melancholy, slender build, average height for a child"
+      clothing: "Long golden-yellow coat reaching mid-thigh, white shirt underneath, long golden scarf flowing in wind, dark blue or black trousers, simple black shoes, no gloves or hat"
+      position: "Crouched low examining ground carefully, moving methodically around curved surface of planet"
+      action: "Carefully pulling small green shoots from soil with concentrated attention, examining each seedling before removing it, movements precise and determined"
+  scene:
+    mainElements: "Small green shoots emerging from asteroid soil, innocent appearance hiding dangerous potential, tender green leaves on thin stems, roots barely visible at soil surface, scattered at various points around planet requiring constant vigilance and removal"
+    details: "Three small conical volcanoes on asteroid surface, two active volcanoes with thin wisps of smoke rising from craters, one extinct volcano with cold dark opening, each approximately 4 feet tall, positioned at different points around small planet's curved surface"
+    background: "Deep space filled with countless stars, distant nebulae providing soft colored light, other asteroids or celestial bodies barely visible in far distance, sense of cosmic isolation"
+    atmosphere: "Quiet determination and responsibility, sense of protecting something precious, methodical daily routine, underlying tension about potential danger, no text or letters visible anywhere in scene"
+  composition:
+    cameraAngle: "Medium shot showing Prince's careful work on curved planet surface with space background"
+    focus: "Prince's concentrated attention on removing dangerous seedlings, showing responsibility and care"
+    depth: "Close foreground with seedling removal activity, middle ground showing planet's curved surface, far background with infinite starfield"

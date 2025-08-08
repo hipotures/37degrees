@@ -1,6 +1,7 @@
 book_info:
-  title: "Hobbit"
+  title: "The Hobbit"
+  title_pl: "Hobbit"
   author: "J.R.R. Tolkien"
   year: 1937
   genre: "Fantasy"
-  reading_time: "8-10 godzin"
+  reading_time: "8-10 hours"

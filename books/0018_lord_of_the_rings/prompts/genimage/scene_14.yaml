@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: Third Age of Middle-earth, early morning after Bilbo's birthday celebration
+    location: Front garden of Bag End hobbit hole, with round green door and gate leading to lane
+    weather: Clear morning with dew on grass, peaceful autumn day
+  characters:
+  - appearance: Elderly hobbit, shorter than average at around 2 feet 8 inches due to age, wispy grey hair, bright eyes still
+      holding youth despite advanced years, thin from adventures
+    clothing: Fine travelling clothes including dark green jacket, yellow vest, brown breeches, sturdy walking boots, heavy
+      pack on back
+    position: Standing at garden gate with walking stick in hand, pack secured and ready for travel
+    action: Taking final look back at his home before departing forever, hand on gate latch ready to step into unknown
+  - appearance: Hobbit, male, early 30s, short stature around 3 feet tall, curly brown hair, large brown eyes, pale complexion
+      from burden of Ring, thin build, youthful face with premature lines of worry
+    clothing: Simple hobbit morning clothes, bare feet, no traveling gear
+    position: Standing in doorway of Bag End, holding deed papers and looking confused
+    action: Watching in bewilderment as beloved relative prepares to vanish from his life without explanation
+  scene:
+    mainElements: Round green hobbit hole door standing open, neat garden path, wooden gate leading to country lane, morning
+      light on peaceful Shire landscape
+    details: Perfectly round green door with brass fittings standing wide open revealing comfortable interior, neat garden
+      path lined with autumn flowers, wooden gate with brass latch opening onto country lane, elderly hobbit with walking
+      stick and full pack showing years of wear from adventures, younger hobbit holding property deed with expression of complete
+      bewilderment at sudden inheritance, morning dew sparkling on grass and flowers, no text or letters visible
+    background: Rolling hills of the Shire stretching away, other hobbit holes dotting distant slopes, smoke rising from morning
+      chimneys
+    atmosphere: Sudden disruption of peaceful hobbit life, mystery and adventure calling to the old, confusion and responsibility
+      falling to the young, morning freshness carrying hint of change
+  composition:
+    cameraAngle: Medium shot showing both hobbits at the moment of departure
+    focus: The passing of the torch and the beginning of a new chapter
+    depth: Foreground shows the garden gate and departing hobbit, middle ground reveals the doorway with confused heir, background
+      shows the peaceful Shire morning
+visualElements:
+  colorPalette:
+    primary:
+    - rich fantasy colors
+    - jewel tones
+    secondary:
+    - atmospheric colors
+    - magical glows
+    background: atmospheric, often dark or misty
+    usageNotes: Rich, layered colors with magical atmosphere
+    saturation: medium to high
+    contrast: medium to high
+  lineArt:
+    style: painterly, loose
+    weight: varied, often hidden
+    color: integrated into painting
+    texture: organic brushstrokes
+    edgeTreatment: soft, painterly edges
+  lighting:
+    type: dramatic, magical
+    direction: varied for atmosphere
+    intensity: high contrast areas
+    shadows:
+      style: painted, atmospheric
+      color: cool or warm depending on scene
+      opacity: varied
+    highlights: magical glows, rim lighting
+  rendering:
+    technique: digital painting with textured brushes
+    texture: dry media brush texture
+    detailLevel: moderate to high
+    finish: glazed, painterly
+  perspective: cinematic, dynamic
+  mood:
+    overall: mythological, otherworldly, epic
+    emotion: wonder, mystery, adventure
+    tempo: varies from calm to dramatic
+    keywords:
+    - epic
+    - mystical
+    - otherworldly
+    - fantasy
+    - mythological
+  stylePrecedents:
+  - Craig Mullins digital concept art
+  - Frank Frazetta fantasy paintings
+  - Boris Vallejo fantasy illustrations
+  - Magic: The Gathering card art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

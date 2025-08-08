@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Weight of Difficult Decisions"
+  setting:
+    time: "1943 Sahara Desert, pre-dawn with mystical lighting, atmosphere of profound choice"
+    location: "Vast Sahara Desert in North Africa, endless expanse of golden sand dunes stretching to horizon in all directions, sparse vegetation, extreme isolation from human civilization"
+    weather: "Still pre-dawn air with sense of suspended time, mystical quality in lighting, temperature perfect for deep contemplation"
+  characters:
+    - appearance: "Young boy, approximately 7-8 years old, blonde curly hair reaching his shoulders, fair skin with rosy cheeks, bright blue eyes filled with wonder and melancholy, slender build, average height for a child"
+      clothing: "Long golden-yellow coat reaching mid-thigh, white shirt underneath, long golden scarf flowing in wind, dark blue or black trousers, simple black shoes, no gloves or hat"
+      position: "Sitting in meditation posture facing mysterious presence in sand, completely still with inner focus"
+      action: "Deep in contemplation with hands folded, face showing profound internal struggle and decision-making, breathing slowly with intense concentration, occasional glances toward mysterious companion"
+    - appearance: "Golden-yellow serpent approximately 3 feet long, scales that shimmer in starlight, small triangular head with mysterious dark eyes, thin body coiled in elegant curves, no visible legs or limbs"
+      clothing: "Natural golden scales serving as skin, patterns of lighter and darker yellow creating subtle geometric designs along length of body"
+      position: "Coiled in perfect spiral with head raised 6 inches above ground, body forming graceful S-curves, completely still except for occasional tongue flick"
+      action: "Speaking in whispers with barely perceptible mouth movements, gliding silently across sand with fluid motion, or remaining perfectly motionless in coiled position while observing with ancient wisdom"
+  scene:
+    mainElements: "Sacred meeting place in desert sand, mystical atmosphere of profound choice and decision, presence of ancient wisdom and difficult truth"
+    details: "Rolling sand dunes of various heights, scattered rock outcroppings, broken aircraft engine parts, pilot's supplies spread on sand, vast empty sky meeting sand at distant horizon line, occasional desert plants"
+    background: "Pre-dawn desert with stars fading to deep blue sky, mystical lighting suggesting threshold between worlds, sense of cosmic significance in moment"
+    atmosphere: "Profound internal struggle and difficult choice, weight of love and responsibility, mystical encounter with ancient wisdom, peak emotional intensity of decision, no text or letters visible anywhere in scene"
+  composition:
+    cameraAngle: "Medium shot showing Prince in deep contemplation with mysterious presence, emphasizing gravity of choice"
+    focus: "Prince's internal struggle as he faces the most difficult decision, showing emotional weight and cosmic significance"
+    depth: "Foreground with Prince's meditation and choice, middle ground with mystical encounter, background with threshold lighting between night and dawn"

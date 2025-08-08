@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Kitchen Awakening - Steam and Morning Preparations"
+  setting:
+    time: "1811, early morning, 6:00 AM, full sunrise with warm golden light"
+    location: "Large traditional kitchen of Soplicowo manor, stone hearth and wooden counters, center of household activity"
+    weather: "Clear warm morning, gentle breeze through opened windows, perfect late summer day beginning"
+  characters:
+    - appearance: "Elderly man around 72 years, cheerful animated face, lively eyes, sprightly despite advanced age, respected dignified appearance"
+      clothing: "Traditional nobleman's attire appropriate for feast master, during cooking may wear apron or cooking coat, ceremonial dress for formal occasions"
+      position: "Standing at large wooden table kneading dough, sleeves rolled up for work"
+      action: "Energetically preparing morning bread, occasionally tasting ingredients, directing kitchen activities with natural authority and evident pleasure"
+  scene:
+    mainElements: "Large stone hearth with cooking fire crackling cheerfully, heavy wooden beams supporting ceiling, copper pots and iron implements hanging from hooks, long preparation tables scarred from years of use"
+    details: "Steam rising from boiling pots creating ghostly wisps in golden sunlight streaming through windows, flour dust floating in air like tiny snowflakes, fresh bread dough rising in wooden bowls covered with white cloths, herbs drying in bundles from ceiling beams releasing aromatic scents, early morning light illuminating copper vessels making them glow like burnished gold, sound of crackling fire and bubbling pots"
+    background: "Open windows revealing manor courtyard with servants beginning daily tasks, chickens pecking in yard, morning shadows shortening as sun climbs higher"
+    atmosphere: "Bustling domestic warmth and efficiency, aromatic kitchen scents of bread, herbs and cooking food, sense of abundance and traditional hospitality being prepared, morning energy and purposeful activity, no text or letters visible"
+  composition:
+    cameraAngle: "Wide angle showing full kitchen activity from corner position"
+    focus: "Master cook working at central table with steam and golden light creating dramatic atmosphere"
+    depth: "Foreground shows cooking implements and ingredients, middle ground captures cooking activity with dramatic lighting effects, background reveals courtyard life through windows"

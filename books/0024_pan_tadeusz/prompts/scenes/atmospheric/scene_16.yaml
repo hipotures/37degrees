@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Candlelit Dinner Table in Manor"
+  setting:
+    time: "1811, early evening, 8:30 PM, dinner time with warm candlelight"
+    location: "Dining room of Soplicowo manor with formal dinner setting, traditional Polish hospitality"
+    weather: "Calm evening outside with darkness falling, cozy interior protection from night"
+  characters:
+    - appearance: "Elderly bachelor, robust and ruddy complexion, dignified bearing, typical Polish nobleman-landowner appearance, healthy and well-fed look"
+      clothing: "Traditional Polish attire - kontusz overcoat with characteristic split sleeves, ornate wide Słuck belt with intricate patterns, high leather boots, ceremonial karabela saber"
+      position: "Seated at head of long dining table, presiding over family meal with natural authority"
+      action: "Carving roasted meat with ceremonial knife, serving family and guests with traditional hospitality, enjoying conversation and good food"
+  scene:
+    mainElements: "Long wooden dining table set with finest family china and silverware, multiple candles in brass holders creating pools of warm flickering light, portraits of national heroes watching over family meal"
+    details: "Candle flames dancing in slight evening breeze from windows, warm light reflecting off polished silver and china creating sparkles, shadows flickering on whitewashed walls making portraits seem to move, aromas of traditional Polish feast - roasted meats, bread, vegetables - filling air, sound of conversation and clinking utensils"
+    background: "Windows showing deep darkness outside making interior seem like warm haven, paintings and family memorabilia visible in candlelight, sense of continuation of family traditions"
+    atmosphere: "Cozy intimacy of family dinner by candlelight, traditional Polish hospitality in action, warm interior contrasting with dark outside world, sense of security and tradition, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot down length of table emphasizing candlelight effects"
+    focus: "Patriarch serving dinner with warm candlelight creating intimate scene"
+    depth: "Foreground shows table settings and candlelight details, middle ground captures dinner activity, background reveals family portraits in flickering light"

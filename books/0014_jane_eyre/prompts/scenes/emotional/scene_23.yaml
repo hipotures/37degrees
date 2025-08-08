@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Domestic Harmony"
+  setting:
+    time: "1830s England, morning"
+    location: "Small isolated manor house in deep woods thirty miles from Thornfield, simple stone construction"
+    weather: "Bright morning sunshine streaming through windows, birds singing"
+  characters:
+    - appearance: "Young woman, early 20s, small slight build, plain features, pale skin, dark hair pulled severely back, large expressive dark eyes, determined chin"
+      clothing: "Simple morning dress in soft grey or blue, white collar, comfortable shoes, wedding ring glinting on finger"
+      position: "Moving between kitchen and sitting room, carrying tea tray with graceful efficiency"
+      action: "Preparing breakfast with quiet contentment, humming softly, glancing toward husband with gentle smiles"
+    - appearance: "Dark-haired man in his late 30s, tall broad-shouldered build, harsh angular features, penetrating dark eyes, weather-beaten complexion, changed by suffering"
+      clothing: "Simple country clothes, plain white shirt, dark jacket, comfortable slippers"
+      position: "Sitting in comfortable chair by window, holding book, but watching wife with devotion"
+      action: "Reading aloud occasionally, reaching to touch her hand as she passes, face peaceful and transformed"
+  scene:
+    mainElements: "Modest two-story house surrounded by dense forest, overgrown garden, small windows, ivy-covered walls"
+    details: "Simple wooden furniture polished with care, books scattered on tables, fresh flowers in simple vase, morning light warming wooden floors, comfortable domestic details showing love in daily life"
+    background: "Dense forest visible through windows, garden blooming with flowers they tend together, peaceful isolation"
+    atmosphere: "Peaceful rural seclusion, natural harmony, democratic simplicity, healing quietude away from social pretensions, deep contentment in simple life, love expressed through daily care, new baseline of mutual happiness"
+  composition:
+    cameraAngle: "Medium shot showing comfortable domestic life"
+    focus: "Couple in their new life together, finding joy in simple domestic harmony"
+    depth: "Contented domestic scene in foreground, humble home in middle ground, peaceful sanctuary in background"

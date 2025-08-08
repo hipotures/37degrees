@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: Third Age of Middle-earth, climactic moment when fate of all Middle-earth is decided
+    location: Active volcano in heart of Mordor called Orodruin, mountain where One Ring was forged in fires of Sammath Naur
+    weather: Intense volcanic heat with sulfurous fumes, mountain shaking with seismic activity
+  characters:
+  - appearance: Hobbit, male, early 30s, short stature around 3 feet tall, curly brown hair, large brown eyes, pale complexion
+      from burden of Ring, thin build, youthful face with premature lines of worry
+    clothing: Tattered travel clothes, torn cloak, bare feet bleeding from sharp rocks
+    position: Collapsed at edge of lava chasm, reaching toward the fires below
+    action: Overwhelmed by Ring's power at moment of ultimate choice, struggling with terrible temptation
+  - appearance: Corrupted creature, thin emaciated humanoid around 4 feet tall, pale grey skin, large bulging eyes, lank hair,
+      long fingers, hunched back from centuries of crawling
+    clothing: Tattered loincloth, no other clothing, bare feet and hands
+    position: Grappling desperately with hobbit for possession of the Ring
+    action: Biting and clawing in final frenzy to reclaim precious Ring, mad with centuries of obsession
+  scene:
+    mainElements: Smoking volcanic peak, narrow path winding up mountainside, chamber of fire called Sammath Naur, lava flows
+      and cracks of doom
+    details: Chamber carved from volcanic rock with river of molten lava flowing through center, walls glowing red-hot from
+      internal fires, ceiling open to sky showing Mount Doom's peak, stone ledge overlooking cracks of doom where lava bubbles
+      and spits, two figures struggling at the very edge of destruction, Ring glowing with internal fire as it nears place
+      of its creation, sulfurous smoke and steam rising from lava, no text or letters visible
+    background: Interior of volcano with more lava channels visible, opening to sky showing smoke and fire, suggestion of
+      vast underground furnaces
+    atmosphere: Intense heat and sulfur fumes, red glow of lava, ground shaking with volcanic activity, oppressive evil presence
+      of Ring's origin
+  composition:
+    cameraAngle: Medium wide shot showing the struggle at the edge of the lava chasm
+    focus: The final moment where the fate of the world hangs in balance
+    depth: Foreground shows the stone ledge and struggling figures, middle ground features the river of lava, background reveals
+      the volcanic chamber extending into fiery depths
+visualElements:
+  colorPalette:
+    primary:
+    - rich fantasy colors
+    - jewel tones
+    secondary:
+    - atmospheric colors
+    - magical glows
+    background: atmospheric, often dark or misty
+    usageNotes: Rich, layered colors with magical atmosphere
+    saturation: medium to high
+    contrast: medium to high
+  lineArt:
+    style: painterly, loose
+    weight: varied, often hidden
+    color: integrated into painting
+    texture: organic brushstrokes
+    edgeTreatment: soft, painterly edges
+  lighting:
+    type: dramatic, magical
+    direction: varied for atmosphere
+    intensity: high contrast areas
+    shadows:
+      style: painted, atmospheric
+      color: cool or warm depending on scene
+      opacity: varied
+    highlights: magical glows, rim lighting
+  rendering:
+    technique: digital painting with textured brushes
+    texture: dry media brush texture
+    detailLevel: moderate to high
+    finish: glazed, painterly
+  perspective: cinematic, dynamic
+  mood:
+    overall: mythological, otherworldly, epic
+    emotion: wonder, mystery, adventure
+    tempo: varies from calm to dramatic
+    keywords:
+    - epic
+    - mystical
+    - otherworldly
+    - fantasy
+    - mythological
+  stylePrecedents:
+  - Craig Mullins digital concept art
+  - Frank Frazetta fantasy paintings
+  - Boris Vallejo fantasy illustrations
+  - Magic: The Gathering card art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

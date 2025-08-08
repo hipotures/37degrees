@@ -1,0 +1,153 @@
+canon:
+  characters:
+    - id: "peter_pevensie"
+      name: "Peter Pevensie"
+      description_block: |
+        characters:
+          - appearance: "Boy, 13 years old, tall and well-built for his age, natural leadership bearing, fair-haired English youth, noble and serious facial features"
+            clothing: "Brown wool vest over white linen shirt, knee-length dark breeches, long socks, sturdy leather shoes, school sweater"
+            posture: "Standing tall with confident, protective stance, hand often resting on sword hilt when armed"
+    - id: "susan_pevensie"
+      name: "Susan Pevensie"
+      description_block: |
+        characters:
+          - appearance: "Girl, 12 years old, graceful and poised, long straight black hair, the pretty one of the family, mature bearing, gentle facial features"
+            clothing: "Simple wool dress in muted blue-grey, practical school cardigan, dark stockings, sensible shoes"
+            posture: "Poised and alert, often with bow in hand, protective maternal stance when watching over siblings"
+    - id: "edmund_pevensie"
+      name: "Edmund Pevensie"  
+      description_block: |
+        characters:
+          - appearance: "Boy, 10 years old, smaller build than Peter, dark hair, initially sullen and spiteful expression, later shows repentance and courage"
+            clothing: "School shorts, white shirt, grey wool pullover, long socks, black school shoes"
+            posture: "Often slouching or standing defiantly, later becomes more upright and noble in bearing"
+    - id: "lucy_pevensie"
+      name: "Lucy Pevensie"
+      description_block: |
+        characters:
+          - appearance: "Girl, 8 years old, small and delicate, bright golden curly hair, merry and trusting expression, radiant and honest face"
+            clothing: "Simple blue wool dress with white collar, wool tights, small leather shoes, child's cardigan"
+            posture: "Open and curious stance, often reaching out to touch or explore, brave despite small size"
+    - id: "aslan"
+      name: "Aslan the Lion"
+      description_block: |
+        characters:
+          - appearance: "Enormous male lion, much larger than ordinary lions, magnificent golden mane that catches and reflects light, great solemn royal eyes that are overwhelming to look upon, noble and majestic bearing"
+            clothing: "None - natural lion"
+            posture: "Regal and powerful, sometimes playful, sometimes terrible in his majesty, moves with divine authority"
+    - id: "white_witch"
+      name: "White Witch Jadis"
+      description_block: |
+        characters:
+          - appearance: "Very tall woman, beautiful but cold and stern, skin white as paper or sugar powder, very red lips, inhuman descendant of giants and djinn, regal but cruel bearing"
+            clothing: "Long white fur robes and cape, golden crown upon her head, white boots"
+            posture: "Imperious and commanding, holds golden wand threateningly, moves with terrible authority"
+    - id: "mr_tumnus"
+      name: "Mr. Tumnus the Faun"
+      description_block: |
+        characters:
+          - appearance: "Male faun slightly taller than Lucy, human from waist up with curly brown hair, short pointed beard, brown eyes, reddish skin, two small horns on forehead, goat legs from waist down with glossy black hair and cloven hooves, long tail"
+            clothing: "Red woolen scarf around neck, carries umbrella and brown paper parcels"
+            posture: "Kindly but nervous bearing, often looking around fearfully, gentle with children"
+    - id: "mr_beaver"
+      name: "Mr. Beaver"
+      description_block: |
+        characters:
+          - appearance: "Large brown beaver with thick fur, whiskered face, intelligent eyes, solid build of working beaver"
+            clothing: "None - natural beaver"  
+            posture: "Sturdy and dependable, often carrying fishing net, confident in his domain around the dam"
+    - id: "mrs_beaver"
+      name: "Mrs. Beaver"  
+      description_block: |
+        characters:
+          - appearance: "Brown female beaver with kind-looking face, thick fur, smaller than her husband, matronly bearing"
+            clothing: "Sometimes wearing simple apron while working"
+            posture: "Motherly and bustling, often at sewing machine or preparing food, welcoming to guests"
+    - id: "professor_kirke"
+      name: "Professor Digory Kirke"
+      description_block: |
+        characters:
+          - appearance: "Elderly man with bushy white hair growing on most of his face and head, strange but kindly appearance, scholarly bearing"
+            clothing: "Academic tweeds, wool vest, pocket watch, comfortable country clothes"
+            posture: "Thoughtful and wise, often with hands behind back, patient and understanding with children"
+
+  locations:
+    - id: "lamppost_clearing"
+      name: "Lantern Waste"
+      description_block: |
+        setting:
+          location: "Snow-covered forest clearing in magical realm of Narnia, tall dark pine trees surrounding single Victorian-style iron lamppost"
+        mainElements: "Single glowing lamppost standing alone among snow-laden pine trees, deep unmarked snow covering forest floor"
+        atmosphere: "Quiet magical stillness, cold winter air, golden light from lamppost casting warm glow on white snow and dark tree trunks"
+    - id: "tumnus_cave"
+      name: "Mr. Tumnus's Cave"
+      description_block: |
+        setting:
+          location: "Cozy cave dwelling carved into reddish stone cliff face in Narnia, hidden entrance in rocky valley"
+        mainElements: "Small clean dry cave with burning fireplace, rug on floor, two small chairs, wooden table, dresser, bookshelf above mantelpiece with portrait of elderly faun with grey beard"
+        atmosphere: "Warm and welcoming refuge from cold outside, firelight dancing on red stone walls, smell of burning wood and tea"
+    - id: "beaver_dam"
+      name: "Beaver Dam and House"
+      description_block: |
+        setting:
+          location: "Large beaver dam across frozen stream in Narnia, dome-shaped house built on top of dam structure"
+        mainElements: "Massive dam made of branches, moss and mud, beehive-shaped house on top with flat wide surface, smoke rising from chimney"
+        atmosphere: "Sturdy working-class home, sounds of water beneath ice, cozy domestic warmth contrasting with wild forest setting"
+    - id: "witch_castle"
+      name: "White Witch's Castle"
+      description_block: |
+        setting:
+          location: "Castle of ice and stone built between two hills in Narnia, towers with sharp pointed spires"
+        mainElements: "Small towers with long pointed spires sharp as pins like enormous jester caps, great iron gates leading to courtyard filled with stone statues of turned enemies"
+        atmosphere: "Cold, silent and deadly, moonlight gleaming on ice, atmosphere of fear and enchantment, filled with frozen statues"
+    - id: "stone_table"
+      name: "Stone Table"
+      description_block: |
+        setting:
+          location: "Ancient sacrificial altar on top of barren hill in Narnia, open to sky"
+        mainElements: "Great grey stone slab supported on four upright stones, covered with strange lines and letters in unknown language representing Deep Magic"
+        atmosphere: "Solemn place of ancient power, like prehistoric stone circle, place of sacrifice and law, windswept hilltop"
+    - id: "cair_paravel"
+      name: "Cair Paravel"
+      description_block: |
+        setting:
+          location: "Great castle of Narnia's rulers built on hill at mouth of Great River where it meets Eastern Sea"
+        mainElements: "Shining castle gleaming like great star on seashore, throne room with ivory roof, western doors adorned with peacock feathers, eastern doors opening directly onto sea, four empty thrones"
+        atmosphere: "Bright and joyful, full of light and celebration, sound of waves, place of rightful kingship and joy"
+    - id: "professors_house"
+      name: "Professor's Country House"
+      description_block: |
+        setting:
+          location: "Very large country house deep in English countryside during World War II, ten miles from nearest railway station"
+        mainElements: "Tudor-style manor with countless stairs and passages, empty or sparsely furnished rooms, long room full of pictures including suit of armor, green room with harp in corner"
+        atmosphere: "Mysterious and silent, echoing halls, dust and history, perfect place for children's imagination and discovery"
+
+  items:
+    - id: "wardrobe"
+      name: "The Magic Wardrobe"
+      description_block: |
+        details: "Large old-fashioned wooden wardrobe with mirror in doors, completely ordinary appearance from outside, interior filled with rows of heavy fur coats smelling of mothballs, back opens magically into Narnia"
+    - id: "turkish_delight"
+      name: "Enchanted Turkish Delight"
+      description_block: |
+        details: "Magically created sweet confection, appears unnaturally appetizing and glowing, more tempting than any ordinary candy, creates addictive craving in those who taste it"
+    - id: "witch_wand"
+      name: "White Witch's Wand"
+      description_block: |
+        details: "Slender golden wand carried by White Witch, magical implement used to turn living creatures into stone statues, symbol of her tyrannical power"
+    - id: "peters_sword"
+      name: "Rhindon - Peter's Sword"
+      description_block: |
+        details: "Noble sword given by Father Christmas, called Rhindon, beautifully crafted with ornate hilt, accompanies red shield bearing golden lion rampant, symbols of kingship"
+    - id: "susans_bow"
+      name: "Susan's Bow and Horn"
+      description_block: |
+        details: "Ivory bow with quiver of arrows that never miss their mark, accompanied by magical horn that summons help when blown, gifts for gentle queen who shoots with mercy"
+    - id: "lucys_cordial"
+      name: "Lucy's Cordial and Dagger"
+      description_block: |
+        details: "Diamond bottle containing red healing cordial made from fire-flower juice, can cure any wound or illness with single drop, accompanied by small dagger for brave queen"
+    - id: "stone_knife"
+      name: "Stone Sacrificial Knife"
+      description_block: |
+        details: "Primitive ritual knife made of stone, obsidian or flint, ancient implement of sacrifice used by White Witch to kill Aslan on Stone Table according to Deep Magic"

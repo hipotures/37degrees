@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "First Encounter with Empty Authority"
+  setting:
+    time: "Timeless space environment, formal ceremonial lighting suggesting royal court atmosphere"
+    location: "Tiny spherical planet with formal throne room architecture, ornate palace elements compressed into small space, floating alone in star-filled region of space with distant celestial bodies visible"
+    weather: "Still formal atmosphere with no wind, controlled temperature suggesting indoor royal environment"
+  characters:
+    - appearance: "Young boy, approximately 7-8 years old, blonde curly hair reaching his shoulders, fair skin with rosy cheeks, bright blue eyes filled with wonder and melancholy, slender build, average height for a child"
+      clothing: "Long golden-yellow coat reaching mid-thigh, white shirt underneath, long golden scarf flowing in wind, dark blue or black trousers, simple black shoes, no gloves or hat"
+      position: "Standing at respectful distance from throne, posture slightly uncertain but polite"
+      action: "Looking around with puzzled expression, head tilted in confusion, occasionally glancing between throne and empty space, hands clasped behind back in respectful but bewildered stance"
+    - appearance: "Elderly man with full white beard reaching mid-chest, kind but tired eyes, wrinkled face showing years of solitude, stocky build with slightly stooped shoulders, dignified bearing despite weariness"
+      clothing: "Purple velvet robe trimmed with white ermine fur, golden crown with small jewels but slightly tarnished, white undershirt visible at collar, purple velvet slippers, royal scepter held in right hand"
+      position: "Sitting upright on ornate throne with carved wooden arms, back straight but relaxed, scepter held casually rather than formally, feet flat on ground showing approachable demeanor"
+      action: "Gesturing with scepter while speaking, stroking beard thoughtfully, occasionally standing and walking with measured steps, or sitting attentively with hands folded in lap while listening"
+  scene:
+    mainElements: "Elaborate wooden throne with carved arms and high back, red velvet cushions, small royal carpet beneath throne, miniature royal court accessories, formal columns or pillars, royal emblems and decorations"
+    details: "Ornate but miniature palace furnishings, formal architectural elements scaled down to fit tiny planet, empty courtier positions, ceremonial objects without ceremony"
+    background: "Star-filled space surrounding tiny formal palace, distant celestial bodies, cosmic vastness contrasting with small-scale formal interior"
+    atmosphere: "Growing confusion and bewilderment, first encounter with adult illogic, polite respect mixed with inner questioning, lonely formality, no text or letters visible anywhere in scene"
+  composition:
+    cameraAngle: "Medium shot showing both characters with emphasis on size contrast between grand throne and tiny planet"
+    focus: "Prince's confused expression as he encounters first example of adult absurdity"
+    depth: "Foreground with throne room details, middle ground with character interaction, background with cosmic space"

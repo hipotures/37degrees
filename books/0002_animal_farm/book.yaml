@@ -1,6 +1,7 @@
 book_info:
-  title: "Folwark zwierzęcy"
+  title: "Animal Farm"
+  title_pl: "Folwark zwierzęcy"
   author: "George Orwell"
   year: 1945
-  genre: "Satyra polityczna"
-  reading_time: "3-4 godziny"
+  genre: "Political satire"
+  reading_time: "3-4 hours"

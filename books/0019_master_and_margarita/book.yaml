@@ -1,6 +1,7 @@
 book_info:
-  title: "Mistrz i Małgorzata"
-  author: "Michaił Bułhakow"
+  title: "The Master and Margarita"
+  title_pl: "Mistrz i Małgorzata"
+  author: "Mikhail Bulgakov"
   year: 1967
-  genre: "Fantastyka filozoficzna"
-  reading_time: "12-15 godzin"
+  genre: "Philosophical fantasy"
+  reading_time: "12-15 hours"

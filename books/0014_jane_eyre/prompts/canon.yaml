@@ -1,0 +1,122 @@
+canon:
+  characters:
+    - id: "jane_eyre"
+      name: "Jane Eyre"
+      description_block: |
+        characters:
+          - appearance: "Young woman, early 20s, small slight build, plain features, pale skin, dark hair pulled severely back, large expressive dark eyes, determined chin"
+            clothing: "Simple black mourning dress or grey governess dress, white collar and cuffs, black shoes, plain bonnet when outdoors"
+            position: "Standing erect with shoulders squared, chin lifted slightly in defiant posture"
+            action: "Speaking with quiet intensity, hands clasped firmly before her, maintaining steady eye contact despite social pressure"
+            
+    - id: "edward_rochester"
+      name: "Edward Rochester"
+      description_block: |
+        characters:
+          - appearance: "Dark-haired man in his late 30s, tall broad-shouldered build, harsh angular features, penetrating dark eyes, weather-beaten complexion, slightly brooding expression"
+            clothing: "Dark wool coat over white shirt, black cravat, leather riding boots, disheveled from outdoor activities"
+            position: "Lounging in leather armchair or standing by fireplace with one arm against mantelpiece"
+            action: "Gesturing expressively while speaking, running hand through dark hair, fixing others with intense scrutinizing gaze"
+            
+    - id: "bertha_mason"
+      name: "Bertha Mason"
+      description_block: |
+        characters:
+          - appearance: "Woman in her 30s, tall imposing build, wild dark hair, pale skin, fierce unsettling eyes, gaunt angular face, unnaturally thin frame"
+            clothing: "Torn white nightgown or simple grey dress, bare feet, no jewelry or ornaments"
+            position: "Crouched in corner of small chamber or standing pressed against window bars"
+            action: "Rocking back and forth, pulling at her hair, pressing face against iron bars, muttering inaudibly to herself"
+            
+    - id: "helen_burns"
+      name: "Helen Burns"
+      description_block: |
+        characters:
+          - appearance: "Pale thin girl, early teens, light brown hair, delicate features, large gentle blue eyes, frail consumptive build, ethereal fragility"
+            clothing: "Simple grey school dress with white apron, worn brown shoes, thin shawl around narrow shoulders"
+            position: "Sitting quietly on wooden bench or lying propped up in narrow bed"
+            action: "Reading religious book with peaceful expression, speaking softly with serene smile, coughing delicately into handkerchief"
+            
+    - id: "st_john_rivers"
+      name: "St. John Rivers"
+      description_block: |
+        characters:
+          - appearance: "Tall austere man, late 20s, golden fair hair, classical handsome features, pale blue eyes, rigid posture, stern expression"
+            clothing: "Black clerical coat and white collar, dark trousers, polished black shoes, prayer book in hand"
+            position: "Standing rigidly upright with hands clasped behind back or kneeling in prayer"
+            action: "Preaching with cold passion, studying theological texts intently, gazing toward distant horizon with missionary fervor"
+            
+    - id: "mrs_reed"
+      name: "Mrs. Reed"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged woman, imposing build, stern face with cold grey eyes, dark hair in severe arrangement, haughty expression"
+            clothing: "Rich dark silk dress with elaborate trim, jewelry including brooch and rings, lace cap, expensive shawl"
+            position: "Seated in high-backed chair in position of authority over others"
+            action: "Looking down disdainfully at others, gesturing dismissively with jeweled hand, speaking with cruel coldness"
+
+  locations:
+    - id: "gateshead_hall"
+      name: "Gateshead Hall"
+      description_block: |
+        setting:
+          location: "Imposing Georgian manor house in Yorkshire countryside, England, surrounded by expansive grounds and formal gardens"
+        mainElements: "Grand stone facade with tall windows, ornate front entrance with columns, well-maintained grounds with ancient trees"
+        atmosphere: "Oppressive grandeur, cold formality, sense of social hierarchy and exclusion, uncomfortable silence broken by harsh voices"
+        
+    - id: "red_room"
+      name: "The Red Room"
+      description_block: |
+        setting:
+          location: "Spare bedchamber in Gateshead Hall where Mr. Reed died, kept as memorial room"
+        mainElements: "Heavy red damask curtains and bedding, mahogany furniture, large bed with red velvet hangings, tall mirror"
+        atmosphere: "Suffocating crimson darkness, supernatural dread, overwhelming sense of imprisonment and terror, ghostly presence lingering"
+        
+    - id: "lowood_school"
+      name: "Lowood School"
+      description_block: |
+        setting:
+          location: "Charity school for orphaned girls in remote Yorkshire valley, institutional stone buildings"
+        mainElements: "Long dormitory rooms with rows of beds, cold classroom with wooden benches, sparse dining hall with long tables"
+        atmosphere: "Harsh discipline and deprivation, cold stone walls, smell of porridge and damp, oppressive religious fervor mixed with neglect"
+        
+    - id: "thornfield_hall"
+      name: "Thornfield Hall"
+      description_block: |
+        setting:
+          location: "Gothic manor house on Yorkshire moors, three stories with battlements and ancient towers"
+        mainElements: "Grey stone walls with ivy, tall Gothic windows, grand entrance hall, sweeping staircase, library with leather-bound books"
+        atmosphere: "Mysterious grandeur tinged with secrets, echoing corridors, flickering candlelight, sense of hidden dangers in upper floors"
+        
+    - id: "ferndean_manor"
+      name: "Ferndean Manor"
+      description_block: |
+        setting:
+          location: "Small isolated manor house in deep woods thirty miles from Thornfield, simple stone construction"
+        mainElements: "Modest two-story house surrounded by dense forest, overgrown garden, small windows, ivy-covered walls"
+        atmosphere: "Peaceful rural seclusion, natural harmony, democratic simplicity, healing quietude away from social pretensions"
+
+  items:
+    - id: "chestnut_tree"
+      name: "Chestnut Tree"
+      description_block: |
+        details: "Ancient chestnut tree in Thornfield grounds, split down middle by lightning strike, two halves still connected at massive trunk base"
+        
+    - id: "fire_imagery"
+      name: "Fire Elements"
+      description_block: |
+        details: "Flickering candles in Gothic windows, roaring hearth fires, destructive flames consuming buildings, warming kitchen fires"
+        
+    - id: "inheritance_letter"
+      name: "Inheritance Letter"
+      description_block: |
+        details: "Official legal document announcing twenty thousand pound inheritance, heavy cream paper with formal wax seal, lawyer's precise handwriting"
+        
+    - id: "wedding_veil"
+      name: "Wedding Veil"
+      description_block: |
+        details: "Delicate white lace wedding veil, torn in half during night, hanging in tattered pieces from wardrobe, symbol of destroyed hopes"
+        
+    - id: "plain_grey_dress"
+      name: "Jane's Grey Dress"
+      description_block: |
+        details: "Simple governess dress in subdued grey wool, high neck with white collar, long sleeves, no ornamental trim, symbol of social position"

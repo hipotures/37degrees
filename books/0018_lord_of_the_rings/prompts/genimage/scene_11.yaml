@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Third Age of Middle-earth, morning after Fellowship's departure from Rivendell
+    location: Rocky overlook providing view south toward distant Gondor, high vantage point during journey
+    weather: Clear morning with good visibility across vast distances
+  characters:
+  - appearance: Human male, early 30s, tall around 6 feet, broad-shouldered warrior build, brown hair short, stern brown eyes,
+      strong jaw, noble bearing of Gondor
+    clothing: White and silver Gondorian armor, white surcoat with tree of Gondor, silver helm, white cloak, leather boots,
+      sword and shield
+    position: Standing at edge of cliff looking south toward home, hand resting on sword hilt
+    action: Gazing toward distant Gondor with mixture of longing and determination, calculating the miles between himself
+      and his people
+  scene:
+    mainElements: High rocky cliff providing panoramic view across Middle-earth, ancient stone formations weathered by wind,
+      narrow path leading to overlook
+    details: Proud warrior silhouetted against morning sky, white and silver armor gleaming in sunlight, great shield bearing
+      white tree emblem propped against rock, silver helm reflecting light, cloak stirring in mountain breeze, expression
+      showing weight of responsibility for his people's survival, hand unconsciously touching sword hilt in warrior habit,
+      no text or letters visible
+    background: Vast landscape stretching south toward Gondor, mountain ranges visible in distance, suggestion of great river
+      valley far below
+    atmosphere: Noble duty and growing inner conflict, pull of homeland versus loyalty to Fellowship, pride in heritage and
+      fear for people's survival, wind carrying scents of distant places
+  composition:
+    cameraAngle: Medium shot from behind showing warrior silhouetted against vast landscape
+    focus: The weight of duty and the call of homeland pulling at a noble heart
+    depth: Foreground shows rocky cliff edge, middle ground features the armored figure, background reveals the vast distances
+      toward Gondor
+visualElements:
+  colorPalette:
+    primary:
+    - rich fantasy colors
+    - jewel tones
+    secondary:
+    - atmospheric colors
+    - magical glows
+    background: atmospheric, often dark or misty
+    usageNotes: Rich, layered colors with magical atmosphere
+    saturation: medium to high
+    contrast: medium to high
+  lineArt:
+    style: painterly, loose
+    weight: varied, often hidden
+    color: integrated into painting
+    texture: organic brushstrokes
+    edgeTreatment: soft, painterly edges
+  lighting:
+    type: dramatic, magical
+    direction: varied for atmosphere
+    intensity: high contrast areas
+    shadows:
+      style: painted, atmospheric
+      color: cool or warm depending on scene
+      opacity: varied
+    highlights: magical glows, rim lighting
+  rendering:
+    technique: digital painting with textured brushes
+    texture: dry media brush texture
+    detailLevel: moderate to high
+    finish: glazed, painterly
+  perspective: cinematic, dynamic
+  mood:
+    overall: mythological, otherworldly, epic
+    emotion: wonder, mystery, adventure
+    tempo: varies from calm to dramatic
+    keywords:
+    - epic
+    - mystical
+    - otherworldly
+    - fantasy
+    - mythological
+  stylePrecedents:
+  - Craig Mullins digital concept art
+  - Frank Frazetta fantasy paintings
+  - Boris Vallejo fantasy illustrations
+  - Magic: The Gathering card art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

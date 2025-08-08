@@ -1,0 +1,94 @@
+sceneDescription:
+  setting:
+    time: Third Age, evening twilight
+    location: Forest clearing with large campfire, three enormous cave trolls gathered around cooking fire
+    weather: Cool evening air, shadows lengthening between trees, firelight flickering
+  characters:
+  - appearance: Three enormous stone trolls, each twelve feet tall, massive muscular builds, rocky grey skin, brutal faces
+      with tusks
+    clothing: Rough animal hide loincloths, crude leather straps and belts, no shoes on massive feet
+    position: Seated around large campfire on fallen logs and boulders
+    action: Preparing to cook captured ponies, turning spits over flames, arguing loudly among themselves, gesticulating with
+      massive hands
+  - appearance: Middle-aged hobbit, late 40s, curly brown hair, round cheerful face, short stature, slightly portly build,
+      bright hazel eyes
+    clothing: Forest green velvet waistcoat, cream-colored linen shirt with brass buttons, brown woolen breeches, yellow silk
+      handkerchief in waistcoat pocket
+    position: Crouched behind thick tree trunk at edge of clearing
+    action: Peeking around tree trunk with wide frightened eyes, adjusting waistcoat buttons nervously, one hand pressed against
+      tree bark for support
+  - appearance: Twelve dwarves of various ages, all bearded, stocky builds, ranging from young adult to elderly, different
+      colored beards and hair
+    clothing: Colorful wool tunics in deep reds, blues, and greens, leather belts and boots, chainmail armor beneath tunics,
+      traveling packs
+    position: Hidden behind trees and rocks around clearing perimeter, some tied up near fire
+    action: Those free are preparing weapons silently, those captured are struggling against rope bonds, all watching trolls
+      with grim determination
+  scene:
+    mainElements: Large campfire with bright orange flames, massive cooking spits, three enormous trolls, dense forest surrounding
+      clearing
+    details: Roaring campfire built from whole tree trunks, massive iron cooking spits and pots, scattered bones and cooking
+      utensils sized for giants, captured ponies tied nearby looking frightened, crude wooden clubs and axes lying around,
+      forest floor covered with fallen leaves and moss, thick tree trunks providing cover, firelight creating dancing shadows
+      on surrounding trees
+    background: Dense woodland extending beyond clearing, dark spaces between trees, evening sky visible through forest canopy
+    atmosphere: Dangerous threat requiring courage, firelight creating dramatic contrasts, primitive brutality threatening
+      civilized travelers, first real test of adventure, no text or letters visible
+  composition:
+    cameraAngle: Medium shot from forest edge showing trolls at fire with hidden watchers
+    focus: Contrast between massive threatening trolls and small hidden figures preparing rescue
+    depth: Hidden characters behind trees in foreground, trolls around fire in middle ground, dark forest in background
+visualElements:
+  colorPalette:
+    primary:
+    - warm pastels
+    - soft earth tones
+    - gentle blues and greens
+    secondary:
+    - bright accent colors for details
+    background: soft washes or textured paper
+    usageNotes: Harmonious colors that feel safe and inviting
+    saturation: medium, slightly muted
+    contrast: gentle, no harsh transitions
+  lineArt:
+    style: soft, organic lines
+    weight: varied, hand-drawn quality
+    color: brown or dark color, not pure black
+    texture: slightly rough, pencil-like
+    edgeTreatment: gentle, rounded forms
+  lighting:
+    type: warm, comforting
+    direction: soft overall illumination
+    intensity: gentle
+    shadows:
+      style: soft, minimal
+      color: warm grays or purples
+      opacity: light
+    highlights: subtle warmth
+  rendering:
+    technique: mixed media appearance
+    texture: visible paper texture, soft brushwork
+    detailLevel: simplified but expressive
+    finish: matte with gentle textures
+  perspective: slightly naive, not perfectly accurate
+  mood:
+    overall: warm, inviting, magical
+    emotion: wonder, safety, adventure
+    tempo: gentle, dreamlike
+    keywords:
+    - whimsical
+    - magical
+    - comforting
+    - imaginative
+    - nostalgic
+  stylePrecedents:
+  - Quentin Blake
+  - Maurice Sendak
+  - Beatrix Potter
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Yellow Train Brings Progress"
+  setting:
+    time: "Early 1900s Colombian Caribbean coast, bright morning with clear visibility"
+    location: "Edge of Macondo where new railway line approaches village, Colombian jungle clearing with tracks"
+    weather: "Clear tropical morning with brilliant sunshine creating sharp shadows"
+  characters:
+    - appearance: "Various villagers of all ages gathered to witness historic moment, representing entire community watching arrival of modernity"
+      clothing: "Mix of traditional rural clothing and some attempting more formal dress for special occasion"
+      position: "Crowd gathered along new railway tracks in anticipation"
+      action: "Pointing excitedly toward horizon while children hide behind parents' skirts"
+    - appearance: "Woman, teenage to over 115 years old, described as active, small, stern woman with steel nerves, embodiment of vitality and strength through most of life, in old age when loses sight body begins to shrink, at end of life becomes so small and light resembles newborn or doll, skin becomes wrinkled and transparent"
+      clothing: "Dark, stern, simple dresses throughout life reflecting pragmatism and mourning for family members, characteristic stiff starched petticoats that make quiet whisper during constant bustling"
+      position: "Standing with arms crossed watching skeptically"
+      action: "Shaking head with worry about what this progress will bring to peaceful village"
+  scene:
+    mainElements: "Small innocent yellow train arriving as miracle for inhabitants but herald of end of isolation, new railway tracks cutting straight line through tropical landscape, villagers gathered in amazement and fear, train whistle echoing across jungle, clouds of steam rising against blue sky"
+    details: "Small innocent yellow train arriving as miracle for inhabitants but herald of end of isolation, bright yellow paint gleaming in tropical sunlight, train whistle creating entirely new sound in previously quiet village, steam clouds creating dramatic visual against clear sky, completely transforming peaceful landscape, no readable text on train"
+    background: "Adobe houses of traditional village visible in distance, jungle vegetation cleared for railway line, horizon where train emerged like vision from unknown world"
+    atmosphere: "Momentous change arriving in form of technological marvel, end of isolation bringing both wonder and foreboding about future, innocent amazement at progress that will ultimately destroy village"
+  composition:
+    cameraAngle: "Wide shot capturing both approaching train and amazed village crowd"
+    focus: "Yellow train as symbol of irreversible change entering timeless tropical paradise"
+    depth: "Foreground: gathered villagers in traditional dress, middle: approaching yellow train, background: jungle landscape being forever changed"

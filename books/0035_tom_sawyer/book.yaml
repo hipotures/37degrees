@@ -1,6 +1,7 @@
 book_info:
-  title: "Przygody Tomka Sawyera"
+  title: "The Adventures of Tom Sawyer"
+  title_pl: "Przygody Tomka Sawyera"
   author: "Mark Twain"
   year: 1876
-  genre: "Przygodowa"
-  reading_time: "7-8 godzin"
+  genre: "Adventure novel"
+  reading_time: "7-8 hours"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Morning After"
+  setting:
+    time: "Third Age, early morning"
+    location: "Interior of comfortable hobbit-hole in English countryside Shire, round green door leading to circular hallway"
+    weather: "Dawn light filtering through round windows, birds singing outside"
+  characters:
+    - appearance: "Middle-aged hobbit, late 40s, curly brown hair, round cheerful face, short stature, slightly portly build, bright hazel eyes"
+      clothing: "Forest green velvet waistcoat, cream-colored linen shirt with brass buttons, brown woolen breeches, yellow silk handkerchief in waistcoat pocket"
+      position: "Standing in empty dining room, surrounded by aftermath of the evening"
+      action: "Surveying damage with hands on hips, picking up empty plates and mugs, pausing to stare at contract document left on table"
+  scene:
+    mainElements: "Yellow painted round door, circular entrance hall with coat pegs, polished wooden floors now showing signs of heavy use, empty dining table"
+    details: "Scattered empty ale mugs and wine goblets on wooden table, crumb-filled plates stacked haphazardly, candle stubs burned down to holders with hardened wax puddles, chair pushed back from table, single piece of parchment contract left behind, morning sunlight streaming through circular windows revealing dust motes in air, cold fireplace with grey ashes, musical instruments gone, normal domestic order completely disrupted"
+    background: "Empty pantries with doors standing open showing depleted shelves, kitchen with unwashed pots and dishes, other rooms returning to normal hobbit quietness"
+    atmosphere: "Aftermath of life-changing evening, morning light revealing consequences of decision, domestic tranquility shattered and reformed, threshold moment between old life and new adventure, silence heavy with possibility, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing empty rooms and solitary hobbit amid aftermath"
+    focus: "Bilbo alone processing the transformation of his ordered life"
+    depth: "Bilbo and dining chaos in foreground, empty hallway in middle ground, morning garden visible through windows in background"

@@ -1,0 +1,95 @@
+sceneDescription:
+  setting:
+    time: September 1950, late afternoon, 4:30 PM, after thunderstorm
+    location: Deep blue waters of Gulf Stream current flowing northwest along Cuban coast, far from sight of land in all directions
+    weather: Clear air after storm passage, crystalline visibility, gentle breeze
+  characters:
+  - appearance: Old man over 70 years, thin and gaunt but with strong sinewy arms, height average for elderly Cuban fisherman,
+      weathered dark skin with deep wrinkles on neck and face, brown spots of benign skin cancer on cheeks, hands covered
+      with deep old healed scars from fishing lines
+    clothing: Worn patched shirt faded by sun and salt, old threadbare trousers, often barefoot, straw hat when at sea for
+      sun protection
+    position: Seated comfortably in boat center
+    action: Observing remarkably clear water, re-setting fishing lines in improved conditions
+  scene:
+    mainElements: Endless expanse of deep blue to purple ocean water, horizon line meeting azure sky, no visible land or other
+      vessels, surface occasionally broken by flying fish or dolphins
+    details: Water surface gleaming like polished glass after rain washing, every ripple and wave crest sparkling with reflected
+      sunlight, underwater visibility extended to extraordinary depth showing fish and sea life far below, air so clear that
+      distant horizon appears unnaturally sharp and detailed, colors intensified and saturated after atmospheric cleansing,
+      boat casting perfect reflection in still water, fishing lines visible descending into crystal depths
+    background: Sky swept completely clean showing pure blue from horizon to horizon, no clouds remaining, sun now lower creating
+      warmer light angle
+    atmosphere: Crystalline purity and heightened clarity, sense of world renewed and perfected, almost supernatural visibility
+      and beauty, peaceful aftermath of natural drama, no text or letters visible
+  composition:
+    cameraAngle: Clear shot emphasizing perfect visibility conditions
+    focus: Exceptional clarity of air and water after storm
+    depth: Foreground shows crystal-clear water detail, middle ground captures perfect reflections, background demonstrates
+      unlimited visibility to horizon
+visualElements:
+  colorPalette:
+    primary:
+    - '#2B2B2B'
+    - '#4A4A4A'
+    - '#6B6B6B'
+    - '#8C8C8C'
+    - '#ADADAD'
+    - '#CECECE'
+    - '#F0F0F0'
+    secondary:
+    - '#FFFFFF'
+    - '#1A1A1A'
+    background: white or off-white paper
+    usageNotes: Monochromatic grayscale only. Use varying shades for depth
+    saturation: none
+    contrast: medium to high
+  lineArt:
+    style: organic, hand-drawn
+    weight: variable (0.5-3px)
+    color: grayscale
+    texture: rough, sketchy with visible breaks
+    edgeTreatment: natural variations, multiple overlapping strokes
+  lighting:
+    type: traditional shading
+    direction: typically top-left
+    intensity: varies with pressure
+    shadows:
+      style: crosshatching and scribbling
+      color: darker graphite tones
+      opacity: built up through layering
+    highlights: paper showing through or eraser marks
+  rendering:
+    technique: traditional pencil on paper
+    texture: visible paper grain and tooth
+    detailLevel: varies from loose to highly detailed
+    finish: intentionally incomplete with visible process
+  perspective: traditional drawing perspectives
+  mood:
+    overall: artistic, unfinished, spontaneous
+    emotion: raw, authentic, contemplative
+    tempo: calm, thoughtful
+    keywords:
+    - artistic
+    - raw
+    - authentic
+    - traditional
+    - sketchy
+  postProcessing:
+    effects:
+    - paper texture
+    - graphite smudging
+    filters: none
+    adjustments:
+      saturation: '0'
+      contrast: natural pencil contrast
+  stylePrecedents:
+  - Leonardo da Vinci sketches
+  - Academic drawing studies
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,6 +1,7 @@
 book_info:
   title: "Robinson Crusoe"
+  title_pl: "Robinson Crusoe"
   author: "Daniel Defoe"
   year: 1719
-  genre: "Przygodowa"
-  reading_time: "10-12 godzin"
+  genre: "Adventure novel"
+  reading_time: "10-12 hours"

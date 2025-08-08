@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Slanted Light Through Storm Clouds"
+  setting:
+    time: "September 1950, late afternoon, 4:00 PM, storm passing"
+    location: "Deep blue waters of Gulf Stream current flowing northwest along Cuban coast, far from sight of land in all directions"
+    weather: "Storm clouds breaking up, shafts of sunlight piercing through, moderate swells"
+  characters:
+    - appearance: "Old man over 70 years, thin and gaunt but with strong sinewy arms, height average for elderly Cuban fisherman, weathered dark skin with deep wrinkles on neck and face, brown spots of benign skin cancer on cheeks, hands covered with deep old healed scars from fishing lines"
+      clothing: "Worn patched shirt faded by sun and salt, old threadbare trousers, often barefoot, straw hat when at sea for sun protection"
+      position: "Standing in boat, feeling refreshed by rain"
+      action: "Bailing rainwater from boat bottom, returning to fishing as weather clears"
+  scene:
+    mainElements: "Endless expanse of deep blue to purple ocean water, horizon line meeting azure sky, no visible land or other vessels, surface occasionally broken by flying fish or dolphins"
+    details: "Dramatic shafts of golden afternoon sunlight breaking through gaps in departing gray clouds, light creating bright columns on dark water surface, raindrops still visible in air where sunbeams pass through, boat interior freshly washed by rain, puddles of clear water reflecting sky, fishing equipment gleaming wet, salt smell mixed with fresh rain scent, surface patterns of choppy water catching light in complex geometric designs"
+    background: "Sky showing dramatic contrast between dark storm clouds moving west and bright clear areas opening to east, rainbow arc faintly visible where sun meets lingering mist"
+    atmosphere: "World washed clean and renewed, dramatic interplay of light and shadow, sense of nature's theatrical beauty, energy of storm dissipating into calm, no text or letters visible"
+  composition:
+    cameraAngle: "Dramatic angle emphasizing light shafts through clouds"
+    focus: "Illuminated water columns created by sun breaking through storm"
+    depth: "Foreground shows rain-washed boat details, middle ground captures light-water interaction, background reveals clearing sky drama"

@@ -1,0 +1,92 @@
+sceneDescription:
+  setting:
+    time: 1840s Paris, celebratory evening during height of social season
+    location: Grand ballroom in elegant Parisian mansion during 1840s social gathering, polished parquet floors reflecting
+      light
+    weather: Perfect clear night with bright stars visible through tall windows
+  characters:
+  - appearance: Woman, early twenties, pale complexion with delicate features, auburn hair styled in elegant 1840s fashion
+      with center part and side curls, slender build, fragile due to illness, expressive dark eyes
+    clothing: Luxurious white silk evening gown with off-shoulder neckline, fitted bodice with tiny pearl buttons, full bell-shaped
+      skirt, white lace gloves, pearl necklace, small pearl earrings
+    position: Dancing gracefully with arms extended, spinning with fluid movement, head held high with confidence
+    action: Moving with elegance and poise, genuine smile radiating happiness, eyes sparkling with life
+  - appearance: Young man, mid-twenties, dark brown hair combed back in 1840s style, clean-shaven face with strong jawline,
+      tall athletic build, intense brown eyes, pale skin
+    clothing: Black formal evening tailcoat, white dress shirt with high starched collar, white silk bow tie, black wool trousers
+      with satin stripe, black leather dress shoes
+    position: Dancing with perfect posture, leading confidently, gazing at his partner with pride
+    action: Moving in harmony with her steps, beaming with joy and pride at her radiance
+  scene:
+    mainElements: Massive crystal chandeliers casting brilliant light, gilded mirrors lining walls, orchestral musicians on
+      elevated platform, elaborate floral arrangements, marble columns with golden capitals
+    details: Fresh white camellia flowers arranged in small bouquet pinned to her gown, pristine ivory-white petals with waxy
+      texture, dark green glossy leaves, tied with white silk ribbon. Luminous white pearl necklace with perfectly matched
+      spherical pearls spinning and catching light as she moves. Other couples applauding and admiring the beautiful pair.
+      Orchestra playing triumphant waltz. Warm light reflecting in every mirror and crystal. No text or letters visible
+    background: Admiring crowd of elegantly dressed guests forming appreciative circle, musicians playing with energy and
+      joy, entire ballroom alive with celebration
+    atmosphere: Glittering high society spectacle, orchestral music filling the air, swirling gowns and formal attire, mixture
+      of celebration and social judgment
+  composition:
+    cameraAngle: Dynamic shot capturing the flowing movement and grace of the dancing couple
+    focus: Dancing pair as center of admiration and celebration
+    depth: Foreground shows graceful dance movement, middle ground captures appreciative audience, background displays brilliant
+      ballroom lighting and decoration
+visualElements:
+  colorPalette:
+    primary:
+    - muted golds
+    - deep greens
+    - burgundy
+    - peacock blue
+    secondary:
+    - ivory
+    - dusty rose
+    - sage green
+    background: aged paper or decorative patterns
+    usageNotes: Rich but muted tones with metallic accents
+    saturation: medium, sophisticated
+    contrast: elegant, balanced
+  lineArt:
+    style: flowing, sinuous curves
+    weight: varied, decorative
+    color: dark brown or black with gold accents
+    texture: smooth, refined
+    edgeTreatment: organic, plant-like curves
+  lighting:
+    type: decorative, non-realistic
+    direction: integrated into design
+    intensity: balanced throughout
+    shadows:
+      style: decorative, part of pattern
+      color: deeper tones of base colors
+      opacity: integrated
+    highlights: gold leaf effects
+  rendering:
+    technique: decorative illustration
+    texture: smooth with ornamental details
+    detailLevel: high in decoration, simplified figures
+    finish: refined, poster-like
+  perspective: flattened, decorative
+  mood:
+    overall: elegant, romantic, sophisticated
+    emotion: beauty, refinement, nostalgia
+    tempo: flowing, graceful
+    keywords:
+    - elegant
+    - decorative
+    - romantic
+    - ornate
+    - sophisticated
+  stylePrecedents:
+  - Alphonse Mucha
+  - Gustav Klimt
+  - Aubrey Beardsley
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

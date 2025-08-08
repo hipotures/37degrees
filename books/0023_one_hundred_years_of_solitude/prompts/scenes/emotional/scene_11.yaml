@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Civil War Erupts"
+  setting:
+    time: "1830s Colombian Caribbean coast, dawn breaking over battlefield preparations"
+    location: "Macondo village plaza transformed into military staging area, Colombian jungle settlement"
+    weather: "Grey dawn with mist rising from damp earth, air heavy with approaching violence"
+  characters:
+    - appearance: "Man, from birth to death in lonely old age, born with open eyes prophesying his gift of clairvoyance, as child and youth silent and withdrawn, slender almost ascetic build, as result of 32 lost wars face takes on harsh tired expression of veteran, penetrating melancholic gaze, suffers from painful boils under armpits (hidradenitis suppurativa) rare but significant physical detail emphasizing inner suffering"
+      clothing: "In youth simple modest clothes, as military commander wears liberal uniform which over time becomes worn faded and repeatedly patched, in old age after wars simple shirt and pants working in goldsmith workshop"
+      position: "Standing on makeshift platform addressing gathered liberal volunteers"
+      action: "Raising sword while delivering passionate speech about liberal ideals and justice"
+    - appearance: "Woman, teenage to over 115 years old, described as active, small, stern woman with steel nerves, embodiment of vitality and strength through most of life, in old age when loses sight body begins to shrink, at end of life becomes so small and light resembles newborn or doll, skin becomes wrinkled and transparent"
+      clothing: "Dark, stern, simple dresses throughout life reflecting pragmatism and mourning for family members, characteristic stiff starched petticoats that make quiet whisper during constant bustling"
+      position: "Standing in doorway of family house watching transformation"
+      action: "Clutching rosary while watching her son prepare for decades of warfare"
+  scene:
+    mainElements: "Village plaza converted into military camp with makeshift weapons, liberal volunteers gathering with improvised uniforms and equipment, families saying farewell to men heading to war, horses and supply wagons being loaded, sense of community torn apart by political division"
+    details: "Liberal revolutionary flags hanging from trees, weapons ranging from machetes to few proper rifles, young men with determination mixed with fear in eyes, women preparing food and medical supplies for campaign, morning mist creating atmosphere of uncertainty, no readable text on flags or banners"
+    background: "Adobe houses of peaceful village now serving as military headquarters, jungle edge where enemy forces might approach, path leading to battlefields across Colombia"
+    atmosphere: "Revolutionary fervor mixed with family tragedy, idealistic young men heading toward decades of futile warfare, end of village innocence as political violence arrives"
+  composition:
+    cameraAngle: "Medium shot capturing both Aureliano's leadership and mother's anguish"
+    focus: "Colonel Aureliano inspiring liberal troops while Úrsula represents civilian cost of war"
+    depth: "Foreground: emotional family separation, middle: military preparations, background: peaceful village about to be consumed by war"

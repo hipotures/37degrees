@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Miraculous Discovery of Life-Giving Water"
+  setting:
+    time: "1943 Sahara Desert, dawn breaking with life-giving golden light, miraculous atmosphere"
+    location: "Ancient stone well in middle of Sahara Desert, circular stone walls rising 3 feet above sand level, wooden bucket and rope pulley system, surrounded by undisturbed sand for miles"
+    weather: "Perfect temperature with gentle morning breeze, life-giving coolness emanating from well, sense of miraculous relief"
+  characters:
+    - appearance: "Young boy, approximately 7-8 years old, blonde curly hair reaching his shoulders, fair skin with rosy cheeks, bright blue eyes filled with wonder and melancholy, slender build, average height for a child"
+      clothing: "Long golden-yellow coat reaching mid-thigh, white shirt underneath, long golden scarf flowing in wind, dark blue or black trousers, simple black shoes, no gloves or hat"
+      position: "Kneeling beside well with hands cupped to receive water, eyes closed in reverent gratitude"
+      action: "Drinking deeply from cupped hands with expression of profound relief and joy, face glowing with renewed life, tears of gratitude mixing with water on cheeks, breathing deeply with restoration"
+    - appearance: "Adult man in his 30s, weathered face with lines from sun exposure, brown hair slightly disheveled, tired but kind eyes, lean build from physical hardship, stubbled jaw from days in desert"
+      clothing: "Khaki aviation jacket with multiple pockets, white or light blue shirt underneath, dark brown leather flying gloves, aviation goggles around neck or on forehead, brown leather boots, military-style belt"
+      position: "Working pulley mechanism to draw water, standing at well edge with renewed energy"
+      action: "Operating wooden pulley with smooth steady motion, face showing wonder at well's existence, occasionally pausing to listen to creaking rope and splash of water, expression of gratitude and amazement"
+  scene:
+    mainElements: "Weathered gray stone blocks forming circular well wall, rustic wooden pulley mechanism at top, frayed rope extending down into dark depths, simple wooden bucket, small windlass handle"
+    details: "Ancient stone construction showing centuries of use, well-worn grooves in stone from rope wear, scattered tools used in drawing water, evidence of life-sustaining miracle"
+    background: "Desert sunrise creating golden light on ancient stones, sense of timeless sanctuary, peaceful refuge from harsh conditions, eternal quality of life-giving source"
+    atmosphere: "Overwhelming relief and joy, miraculous discovery, profound gratitude for life itself, spiritual renewal and hope, no text or letters visible anywhere in scene"
+  composition:
+    cameraAngle: "Medium shot emphasizing the sacred quality of water discovery and life renewal"
+    focus: "Prince's profound emotional and physical renewal through life-giving water"
+    depth: "Foreground with water drinking and well mechanism, middle ground with full well structure, background with sunrise creating sacred lighting"

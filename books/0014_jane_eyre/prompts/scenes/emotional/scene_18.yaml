@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Voice in the Wind"
+  setting:
+    time: "1830s England, night"
+    location: "Small isolated manor house in deep woods thirty miles from Thornfield, simple stone construction"
+    weather: "Wild wind howling through trees, moonlight breaking through racing clouds"
+  characters:
+    - appearance: "Young woman, early 20s, small slight build, plain features, pale skin, dark hair pulled severely back, large expressive dark eyes, determined chin"
+      clothing: "White nightgown flowing in wind, bare feet, hair loose and streaming behind her"
+      position: "Standing at open window, leaning out into the night, arms outstretched"
+      action: "Listening intently to something carried on the wind, face upturned with sudden recognition and joy"
+  scene:
+    mainElements: "Modest two-story house surrounded by dense forest, overgrown garden, small windows, ivy-covered walls"
+    details: "Open window with curtains whipping in wild wind, candle blown out on windowsill, religious books scattered by sudden breeze, moonlight streaming across floorboards, shadows dancing on walls"
+    background: "Dense forest swaying violently in wind, clouds racing across bright moon, sense of vast distances traveled on night air"
+    atmosphere: "Peaceful rural seclusion suddenly charged with supernatural energy, mysterious connection across miles, love calling to love, destiny demanding recognition, moment of profound spiritual awakening"
+  composition:
+    cameraAngle: "Medium shot showing mystical connection across distance"
+    focus: "Woman receiving telepathic call from distant beloved"
+    depth: "Listening figure in foreground, wild night in middle ground, spiritual connection spanning invisible background"

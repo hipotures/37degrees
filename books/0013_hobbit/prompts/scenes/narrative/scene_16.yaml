@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Spiders in Mirkwood"
+  setting:
+    time: "Third Age, daytime (though dark under forest canopy)"
+    location: "Dark enchanted forest in Middle-earth, ancient twisted trees blocking sunlight, narrow winding paths through dense undergrowth"
+    weather: "Oppressive humid air, no sunlight penetrating dense canopy"
+  characters:
+    - appearance: "Middle-aged hobbit, late 40s, curly brown hair, round cheerful face, short stature, slightly portly build, bright hazel eyes"
+      clothing: "Forest green velvet waistcoat, cream-colored linen shirt with brass buttons, brown woolen breeches, yellow silk handkerchief in waistcoat pocket, now worn from travel"
+      position: "Standing on thick tree branch high above forest floor, sword drawn"
+      action: "Wielding elegant elvish short sword with determination, cutting through thick spider webs, moving with newfound confidence and agility"
+    - appearance: "Twelve dwarves of various ages, all bearded, stocky builds, ranging from young adult to elderly, different colored beards and hair"
+      clothing: "Colorful wool tunics in deep reds, blues, and greens, leather belts and boots, chainmail armor beneath tunics, traveling packs"
+      position: "Suspended in giant spider webs wrapped in silk cocoons throughout trees"
+      action: "Struggling against web bindings, some unconscious, others calling for help in muffled voices, looking toward hobbit with hope and surprise"
+    - appearance: "Several giant spiders, each large as hunting dogs, black hairy bodies, multiple glowing red eyes, sharp fangs"
+      clothing: "Natural chitinous exoskeleton, no garments"
+      position: "Moving through forest canopy on web strands, surrounding area where dwarves are trapped"
+      action: "Advancing menacingly on web strands, preparing to attack hobbit rescuer, hissing and clicking mandibles threateningly"
+  scene:
+    mainElements: "Massive oak and pine trees with gnarled branches, thick moss covering tree trunks, tangled roots across forest floor, enormous spider webs stretching between trees"
+    details: "Ancient trees with twisted bark and massive trunks, thick spider webs gleaming with dewdrops, silk-wrapped dwarf bundles hanging from branches, elegant elvish short sword with curved crossguard glinting in filtered light, forest floor covered with fallen leaves and rotting logs, patches of strange luminescent fungi providing eerie glow"
+    background: "Dense forest extending endlessly in all directions, dark spaces between massive tree trunks, canopy so thick only occasional light beams penetrate"
+    atmosphere: "Oppressive darkness even in daytime, sounds of unseen creatures moving through branches, heavy air with sense of watching eyes, hobbit's growing heroism shining in dark place, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from forest floor looking up at action in canopy"
+    focus: "Bilbo's transformation into confident hero rescuing helpless companions"
+    depth: "Spider webs and trapped dwarves in foreground, Bilbo with sword in middle ground, dark forest canopy in background"

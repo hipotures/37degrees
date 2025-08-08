@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Third Age of Middle-earth, midnight during the Battle of Helm's Deep
+    location: Fortress stronghold of Rohan built into mountainside, ancient refuge called Aglarond, defensive position in
+      narrow valley
+    weather: Storm clouds overhead with rain beginning to fall, lightning illuminating the battlefield
+  characters:
+  - appearance: Mix of human defenders of Rohan in leather and mail, elf warriors from Lothlórien in elegant armor, dwarf
+      warrior in chain mail with distinctive horned helmet
+    clothing: Battle-worn armor of various designs, mail hauberks, leather jerkins, helms dented from combat, cloaks soaked
+      with rain
+    position: Standing along high stone walls of the fortress, arranged in defensive formations
+    action: Fighting desperately against overwhelming odds, shooting arrows down at attackers, preparing for final assault
+  scene:
+    mainElements: High stone walls across valley mouth, keep built into mountain, causeway to main gate, caves extending deep
+      into mountain
+    details: Massive stone fortress wall built across narrow valley with defenders silhouetted against storm-lit sky, rain
+      making stone surfaces slick and treacherous, arrows flying in both directions, torches and braziers providing flickering
+      light in darkness, wall scarred from hours of battle, defenders showing exhaustion but determination, weapons gleaming
+      wet in lightning flashes, no text or letters visible
+    background: Vast enemy army filling valley below, mountain peaks surrounding the stronghold, storm clouds rolling overhead
+      with frequent lightning
+    atmosphere: Echo of battle horns off stone walls, tension of siege preparation, smell of torch smoke and steel, feeling
+      of desperate last stand
+  composition:
+    cameraAngle: Wide shot from inside the fortress looking out over the walls at the approaching storm and enemy
+    focus: The desperate defense of civilization against the forces of darkness
+    depth: Foreground shows defenders on the wall, middle ground reveals the fortress structure, background shows the enemy
+      host and storm-filled sky
+visualElements:
+  colorPalette:
+    primary:
+    - rich fantasy colors
+    - jewel tones
+    secondary:
+    - atmospheric colors
+    - magical glows
+    background: atmospheric, often dark or misty
+    usageNotes: Rich, layered colors with magical atmosphere
+    saturation: medium to high
+    contrast: medium to high
+  lineArt:
+    style: painterly, loose
+    weight: varied, often hidden
+    color: integrated into painting
+    texture: organic brushstrokes
+    edgeTreatment: soft, painterly edges
+  lighting:
+    type: dramatic, magical
+    direction: varied for atmosphere
+    intensity: high contrast areas
+    shadows:
+      style: painted, atmospheric
+      color: cool or warm depending on scene
+      opacity: varied
+    highlights: magical glows, rim lighting
+  rendering:
+    technique: digital painting with textured brushes
+    texture: dry media brush texture
+    detailLevel: moderate to high
+    finish: glazed, painterly
+  perspective: cinematic, dynamic
+  mood:
+    overall: mythological, otherworldly, epic
+    emotion: wonder, mystery, adventure
+    tempo: varies from calm to dramatic
+    keywords:
+    - epic
+    - mystical
+    - otherworldly
+    - fantasy
+    - mythological
+  stylePrecedents:
+  - Craig Mullins digital concept art
+  - Frank Frazetta fantasy paintings
+  - Boris Vallejo fantasy illustrations
+  - Magic: The Gathering card art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,245 @@
+canon:
+  characters:
+    - id: "frodo_baggins"
+      name: "Frodo Baggins"
+      description_block: |
+        characters:
+          - appearance: "Hobbit, male, early 30s, short stature around 3 feet tall, curly brown hair, large brown eyes, pale complexion from burden of Ring, thin build, youthful face with premature lines of worry"
+            clothing: "Brown or grey hobbit breeches, white linen shirt, brown vest, dark green or grey travelling cloak, leather belt, bare feet with tough soles"
+            posture: "Upright but often weary, hand frequently touching chest where Ring hangs, determined stride despite small stature"
+
+    - id: "samwise_gamgee"
+      name: "Samwise Gamgee"
+      description_block: |
+        characters:
+          - appearance: "Hobbit, male, late 20s to early 30s, stocky build, round face with rosy cheeks, brown eyes, curly brown hair, cheerful expression, strong hands from gardening work"
+            clothing: "Brown hobbit breeches, cream or white shirt, brown vest, green cloak, sturdy leather belt, bare feet with tough soles"
+            posture: "Loyal stance near Frodo, protective body language, sturdy walking gait, hands often carrying supplies or garden tools"
+
+    - id: "gandalf_grey"
+      name: "Gandalf the Grey"
+      description_block: |
+        characters:
+          - appearance: "Wizard, elderly man appearance, tall around 6 feet, long grey beard reaching chest, deep grey eyes under bushy eyebrows, weathered face with wise expression, grey hair"
+            clothing: "Long grey robes reaching ankles, wide-brimmed grey hat, brown leather belt, sturdy walking boots, carries wooden staff"
+            posture: "Upright bearing despite age, leaning on staff while walking, authoritative stance when speaking, swift movement when needed"
+
+    - id: "gandalf_white"
+      name: "Gandalf the White"
+      description_block: |
+        characters:
+          - appearance: "Wizard, elderly man appearance, tall around 6 feet, long white beard reaching chest, bright piercing eyes, radiant face with increased authority, white hair gleaming"
+            clothing: "Pure white robes flowing to ankles, white cloak, silver belt, white staff gleaming with power, boots that seem to barely touch ground"
+            posture: "Majestic upright bearing, commanding presence, staff held with greater authority, movements that seem to carry divine power"
+
+    - id: "aragorn_strider"
+      name: "Aragorn (Strider)"
+      description_block: |
+        characters:
+          - appearance: "Human male, late 30s to early 40s, tall around 6 feet 2 inches, athletic lean build, dark hair shoulder-length, grey eyes, weathered ranger face, clean-shaven or light beard"
+            clothing: "Dark brown or green ranger leather tunic, dark cloak with hood, leather bracers, worn leather boots, sword belt across chest"
+            posture: "Alert ranger stance, quiet movement, hand resting on sword hilt, confident stride of experienced tracker"
+
+    - id: "aragorn_king"
+      name: "Aragorn as King"
+      description_block: |
+        characters:
+          - appearance: "Human male, late 30s to early 40s, tall around 6 feet 2 inches, noble bearing, dark hair clean and styled, grey eyes with regal authority, clean-shaven noble face"
+            clothing: "Royal blue or black tunic with silver embroidery, crown of Gondor, ceremonial sword belt, fine leather boots, white tree of Gondor on chest"
+            posture: "Regal upright bearing, confident royal stride, hands clasped behind back in kingly manner, commanding presence"
+
+    - id: "legolas"
+      name: "Legolas"
+      description_block: |
+        characters:
+          - appearance: "Elf male, appears in early 20s but ancient, tall around 6 feet, slender athletic build, long blonde hair flowing, bright blue eyes, fair pale skin, pointed ears"
+            clothing: "Green and brown woodland elf tunic, leather bracers, brown boots, quiver of arrows across back, silver belt"
+            posture: "Graceful fluid movements, perfect balance, bow held ready, alert scanning of surroundings, light step that makes no sound"
+
+    - id: "gimli"
+      name: "Gimli"
+      description_block: |
+        characters:
+          - appearance: "Dwarf male, middle-aged around 60s by dwarf standards, short around 4 feet 6 inches, broad shoulders, muscular stocky build, long red-brown beard braided, dark eyes"
+            clothing: "Chain mail armor, brown leather tunic, thick belt with pouches, heavy boots, horned helmet, axe at belt"
+            posture: "Sturdy warrior stance, axe ready in hands, determined stride despite short legs, chest puffed with dwarf pride"
+
+    - id: "boromir"
+      name: "Boromir"
+      description_block: |
+        characters:
+          - appearance: "Human male, early 30s, tall around 6 feet, broad-shouldered warrior build, brown hair short, stern brown eyes, strong jaw, noble bearing of Gondor"
+            clothing: "White and silver Gondorian armor, white surcoat with tree of Gondor, silver helm, white cloak, leather boots, sword and shield"
+            posture: "Proud military bearing, hand on sword hilt, protective stance toward companions, confident warrior stride"
+
+    - id: "galadriel"
+      name: "Galadriel"
+      description_block: |
+        characters:
+          - appearance: "Elf female, appears ageless and ancient, tall around 6 feet, ethereal beauty, long golden hair flowing like light, deep blue eyes with starlight, pale luminous skin"
+            clothing: "White flowing elven gown reaching ground, silver circlet on brow, no jewelry but natural radiance, bare feet that seem to float"
+            posture: "Regal bearing of ancient queen, graceful movements like flowing water, hands clasped serenely, aura of wisdom and power"
+
+    - id: "eowyn"
+      name: "Éowyn"
+      description_block: |
+        characters:
+          - appearance: "Human female, early 20s, tall around 5 feet 8 inches, fair complexion, long blonde hair, steel-blue eyes, strong features, determined expression"
+            clothing: "Green dress of Rohan with golden belt, or when in armor: mail hauberk, helm hiding hair, shield and sword, boots for battle"
+            posture: "Proud bearing of shield-maiden, defiant stance when challenged, sword held with skill, stride that shows both nobility and warrior training"
+
+    - id: "sauron"
+      name: "Sauron"
+      description_block: |
+        characters:
+          - appearance: "Dark lord in human-like form, more than human stature around 8 feet tall, black armor covering entire body, missing ring finger on black hand, red eyes visible through helm"
+            clothing: "Black plate armor covering all skin, spiked helm, dark cloak flowing behind, iron gauntlets, heavy black boots"
+            posture: "Towering menacing presence, arms often outstretched in dominance, slow deliberate movements showing immense power, hand reaching for Ring"
+
+    - id: "gollum"
+      name: "Gollum/Sméagol"
+      description_block: |
+        characters:
+          - appearance: "Corrupted creature, thin emaciated humanoid around 4 feet tall, pale grey skin, large bulging eyes, lank hair, long fingers, hunched back from centuries of crawling"
+            clothing: "Tattered loincloth, no other clothing, bare feet and hands, occasionally crude leather scraps"
+            posture: "Crouched low to ground, skulking movements, hands reaching and grasping, head darting side to side, crawling on all fours when moving quickly"
+
+  locations:
+    - id: "the_shire"
+      name: "The Shire"
+      description_block: |
+        setting:
+          location: "Hobbiton district of the Shire, rolling green countryside in northwest Middle-earth, peaceful agricultural region of hobbits"
+        mainElements: "Round hobbit-hole doors built into hillsides, gardens with vegetables and flowers, stone bridges over clear streams, mill wheels, country lanes"
+        atmosphere: "Peaceful pastoral setting, golden sunlight through green leaves, smoke from chimney holes in hills, smell of fresh bread and pipe tobacco"
+
+    - id: "rivendell"
+      name: "Rivendell"
+      description_block: |
+        setting:
+          location: "Hidden elven refuge in valley west of Misty Mountains, secret sanctuary also called Imladris, protected by elven magic"
+        mainElements: "Graceful arched bridges over rushing river, tall spires and elegant buildings, terraced gardens, waterfalls cascading down rocky walls"
+        atmosphere: "Timeless tranquil beauty, golden light that never fades, sound of harps and singing, air filled with scent of elanor flowers"
+
+    - id: "minas_tirith"
+      name: "Minas Tirith"
+      description_block: |
+        setting:
+          location: "Great fortress city of Gondor, Tower of Guard, built on seven levels carved into mountainside, capital of the kingdom of men in the west"
+        mainElements: "Seven-tiered white stone city rising up mountainside, great gates between levels, White Tree courtyard at highest level, beacon tower on peak"
+        atmosphere: "Majestic white stone gleaming in sunlight, banners of Gondor flying from towers, sound of horns and marching guards, air of ancient nobility"
+
+    - id: "rohan_plains"
+      name: "Plains of Rohan"
+      description_block: |
+        setting:
+          location: "Vast grasslands of horse-lords in central Middle-earth, kingdom of Rohan with endless rolling green plains and scattered settlements"
+        mainElements: "Endless green grassland rolling to horizon, herds of horses running free, scattered farmsteads, burial mounds of ancient kings"
+        atmosphere: "Wind constantly blowing through tall grass, thunder of horse hooves, scent of grass and wildflowers, feeling of open freedom"
+
+    - id: "edoras"
+      name: "Edoras"
+      description_block: |
+        setting:
+          location: "Capital city of Rohan built on hill in grasslands, stronghold of the horse-lords, seat of the king in the golden hall"
+        mainElements: "Golden hall of Meduseld on hilltop with grass-thatched roof, wooden palisade walls, stables for royal horses, houses scattered on hillside"
+        atmosphere: "Golden thatch gleaming in sunlight, sound of horses neighing, smell of hay and leather, feeling of ancient warrior tradition"
+
+    - id: "isengard"
+      name: "Isengard"
+      description_block: |
+        setting:
+          location: "Circular stone fortress in gap between Misty Mountains, stronghold of Saruman the wizard, industrial center of dark power"
+        mainElements: "Black tower of Orthanc rising from center, circular wall with single gate, machinery and forges, pools of standing water after destruction"
+        atmosphere: "Smoke and steam from forges, sound of hammering on metal, smell of sulfur and burning, feeling of corrupt industry and power"
+
+    - id: "lothlorien"
+      name: "Lothlórien"
+      description_block: |
+        setting:
+          location: "Golden wood of elves east of Misty Mountains, realm of Galadriel and Celeborn, forest of great mallorn trees with golden leaves"
+        mainElements: "Massive mallorn trees with golden leaves, rope bridges and platforms high in branches, elven boats on silver river, mirror of Galadriel"
+        atmosphere: "Golden light filtering through leaves, sound of wind in branches and water flowing, timeless peace, scent of elanor and niphredil flowers"
+
+    - id: "moria"
+      name: "Moria (Mines of Moria)"
+      description_block: |
+        setting:
+          location: "Ancient abandoned dwarf city carved deep inside Misty Mountains, once called Khazad-dûm, now dark and dangerous ruins"
+        mainElements: "Vast pillared halls carved from stone, deep shafts and passages, broken bridges over chasms, tomb of Balin, Chamber of Mazarbul"
+        atmosphere: "Oppressive darkness lit only by torches, echo of footsteps in vast spaces, smell of dust and decay, feeling of ancient loss and lurking danger"
+
+    - id: "mordor"
+      name: "Mordor"
+      description_block: |
+        setting:
+          location: "Dark realm of Sauron in southeast Middle-earth, land of shadow surrounded by mountain walls, volcanic wasteland of evil"
+        mainElements: "Black volcanic mountains surrounding plain, Mount Doom smoking with fire, Dark Tower of Barad-dûr, endless camps of orcs"
+        atmosphere: "Oppressive darkness even in daytime, red glow from Mount Doom, acrid smoke and ash in air, feeling of hopelessness and malice"
+
+    - id: "mount_doom"
+      name: "Mount Doom"
+      description_block: |
+        setting:
+          location: "Active volcano in heart of Mordor called Orodruin, mountain where One Ring was forged in fires of Sammath Naur"
+        mainElements: "Smoking volcanic peak, narrow path winding up mountainside, chamber of fire called Sammath Naur, lava flows and cracks of doom"
+        atmosphere: "Intense heat and sulfur fumes, red glow of lava, ground shaking with volcanic activity, oppressive evil presence of Ring's origin"
+
+    - id: "helms_deep"
+      name: "Helm's Deep"
+      description_block: |
+        setting:
+          location: "Fortress stronghold of Rohan built into mountainside, ancient refuge called Aglarond, defensive position in narrow valley"
+        mainElements: "High stone walls across valley mouth, keep built into mountain, causeway to main gate, caves extending deep into mountain"
+        atmosphere: "Echo of battle horns off stone walls, tension of siege preparation, smell of torch smoke and steel, feeling of desperate last stand"
+
+  items:
+    - id: "one_ring"
+      name: "The One Ring"
+      description_block: |
+        details: "Plain gold ring with no visible markings in normal light, but when heated reveals flowing script in dark letters of Mordor tongue, heavy for its size, warm to touch, whispers with Sauron's voice"
+
+    - id: "sting"
+      name: "Sting"
+      description_block: |
+        details: "Elven short sword small enough to serve as long dagger, blade gleams with blue light when orcs are near, ancient elven craftsmanship with curved guard, leather-wrapped handle sized for hobbit hand"
+
+    - id: "anduril"
+      name: "Andúril"
+      description_block: |
+        details: "Reforged sword of kings, flame of the west, blade gleaming silver with ancient runes, jeweled crossguard, black grip wrapped in leather, the shards of Narsil remade into weapon of destiny"
+
+    - id: "glamdring"
+      name: "Glamdring"
+      description_block: |
+        details: "Ancient elven sword of Gandalf, foe-hammer, long blade that gleams with blue light near orcs, ornate elven designs on crossguard, wrapped grip suitable for wizard's hands"
+
+    - id: "orcrist"
+      name: "Orcrist"
+      description_block: |
+        details: "Elven sword goblin-cleaver, blade gleams blue when orcs approach, elegant curved crossguard with elven script, leather-wrapped grip, companion blade to Glamdring"
+
+    - id: "bow_of_galadhrim"
+      name: "Bow of the Galadhrim"
+      description_block: |
+        details: "Elven longbow made of mallorn wood, longer than human bows, strung with elven hair, pulls with incredible power, arrows fly true over impossible distances"
+
+    - id: "phial_of_galadriel"
+      name: "Phial of Galadriel"
+      description_block: |
+        details: "Crystal vial containing water and light of Eärendil's star, glows with white light that repels darkness and evil, small enough to hold in palm, gift from Lady Galadriel"
+
+    - id: "palantir"
+      name: "Palantír"
+      description_block: |
+        details: "Seeing-stone, dark crystal sphere that shows visions across great distances, smooth and perfectly round, reflects images in its depths, dangerous to use without strong will"
+
+    - id: "mithril_shirt"
+      name: "Mithril Shirt"
+      description_block: |
+        details: "Chain mail shirt made of mithril rings, silver-white metal lighter than silk but harder than steel, fits like clothing under regular garments, invaluable dwarf-made protection"
+
+    - id: "horn_of_gondor"
+      name: "Horn of Gondor"
+      description_block: |
+        details: "Great horn of Boromir made of ivory, bound with silver, sound carries far across valleys and mountains, symbol of nobility of Denethor's house, cracked after final battle"

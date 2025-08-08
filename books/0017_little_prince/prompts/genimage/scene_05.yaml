@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: Timeless space environment, gentle evening starlight creating peaceful contemplative atmosphere
+    location: Small spherical asteroid floating in deep space, approximately 30 feet in diameter, curved surface allowing
+      view of entire planet from any point, surrounded by star-filled black space
+    weather: Calm space environment with gentle cosmic breezes, comfortable temperature, soothing starlight
+  characters:
+  - appearance: Young boy, approximately 7-8 years old, blonde curly hair reaching his shoulders, fair skin with rosy cheeks,
+      bright blue eyes filled with wonder and melancholy, slender build, average height for a child
+    clothing: Long golden-yellow coat reaching mid-thigh, white shirt underneath, long golden scarf flowing in wind, dark
+      blue or black trousers, simple black shoes, no gloves or hat
+    position: Sitting on small chair or rock at edge of planet, legs dangling over curved surface into space
+    action: Gazing thoughtfully at distant stars with chin resting on hand, occasionally pointing at different constellations,
+      expression showing deep contemplation and quiet longing
+  scene:
+    mainElements: Simple wooden chair positioned at comfortable viewing spot, small telescope or viewing device nearby, well-maintained
+      tools for planet care stored neatly, peaceful domestic arrangement
+    details: Three small conical volcanoes on asteroid surface, two active volcanoes with thin wisps of smoke rising from
+      craters, one extinct volcano with cold dark opening, each approximately 4 feet tall, positioned at different points
+      around small planet's curved surface
+    background: Magnificent starfield stretching infinitely in all directions, distant galaxies and nebulae creating colorful
+      cosmic tapestry, shooting stars occasionally streaking across view, profound sense of cosmic scale
+    atmosphere: Peaceful contemplation mixed with gentle loneliness, wonder at cosmic beauty, quiet yearning for connection,
+      serene acceptance of solitude, no text or letters visible anywhere in scene
+  composition:
+    cameraAngle: Wide shot showing small figure against vast cosmic backdrop, emphasizing scale and solitude
+    focus: Prince in contemplative pose as small but significant presence in infinite space
+    depth: Foreground with Prince on planet edge, middle ground showing planet surface details, background with infinite starfield
+      creating profound depth
+visualElements:
+  colorPalette:
+    primary:
+    - translucent washes
+    - soft pastels
+    secondary:
+    - deeper pigments for accents
+    background: white paper showing through
+    usageNotes: Colors should bleed and blend naturally
+    saturation: variable - from muted to vibrant
+    contrast: soft to medium
+  lineArt:
+    style: minimal or suggested
+    weight: very thin if present
+    color: often absent or very light
+    texture: organic, flowing
+    edgeTreatment: soft, bleeding edges
+  lighting:
+    type: soft, diffused
+    direction: natural light
+    intensity: gentle
+    shadows:
+      style: translucent washes
+      color: cool tones mixed with base colors
+      opacity: transparent
+    highlights: white paper reserved or lifted paint
+  rendering:
+    technique: traditional watercolor on paper
+    texture: visible watercolor paper grain
+    detailLevel: impressionistic, not highly detailed
+    finish: organic with natural pigment accumulation
+  perspective: varied, often loose and interpretive
+  mood:
+    overall: delicate, flowing, organic
+    emotion: peaceful, dreamy, contemplative
+    tempo: calm, fluid
+    keywords:
+    - flowing
+    - organic
+    - delicate
+    - translucent
+    - artistic
+  postProcessing:
+    effects:
+    - wet on wet bleeding
+    - paper texture
+    - color pooling
+    filters: none
+    adjustments:
+      saturation: natural pigment saturation
+      contrast: soft
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

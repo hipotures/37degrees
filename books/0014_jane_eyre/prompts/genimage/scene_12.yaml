@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: 1830s England, morning
+    location: Gothic manor house on Yorkshire moors, three stories with battlements and ancient towers, bridal chamber
+    weather: Grey overcast morning, oppressive stillness
+  characters:
+  - appearance: Young woman, early 20s, small slight build, plain features, pale skin, dark hair pulled severely back, large
+      expressive dark eyes, determined chin
+    clothing: Wedding dress in white silk with lace trim, hair arranged for ceremony, face pale with shock
+    position: Standing before mirror, staring at torn wedding veil in horror
+    action: Holding pieces of destroyed veil, hands trembling with shock and dawning realization of supernatural intervention
+  scene:
+    mainElements: Delicate white lace wedding veil, torn in half during night, hanging in tattered pieces from wardrobe, bridal
+      preparations disrupted
+    details: Mirror reflecting shocked face, wedding dress laid out on bed, torn veil like spider web, flowers wilting in
+      vases, morning light grey and ominous, room that should be joyful now filled with dread
+    background: Manor house awakening to wedding day, sounds of preparation from other rooms, church bells distant on morning
+      air
+    atmosphere: Joy transformed to horror, supernatural forces intervening in human happiness, premonition of disaster approaching,
+      marriage doomed before it begins
+  composition:
+    cameraAngle: Close shot emphasizing personal devastation through destroyed symbol
+    focus: Torn veil as physical manifestation of destroyed dreams
+    depth: Shocked bride and torn veil in foreground, bridal chamber in middle ground, ominous morning beyond windows in background
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,6 +1,7 @@
 book_info:
-  title: "Harry Potter i Kamień Filozoficzny"
+  title: "Harry Potter and the Philosopher's Stone"
+  title_pl: "Harry Potter i Kamień Filozoficzny"
   author: "J.K. Rowling"
   year: 1997
-  genre: "Fantasy młodzieżowe"
-  reading_time: "6-8 godzin"
+  genre: "Young adult fantasy"
+  reading_time: "6-8 hours"

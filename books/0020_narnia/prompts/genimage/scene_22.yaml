@@ -1,0 +1,95 @@
+sceneDescription:
+  setting:
+    time: Spring day in Narnia, dramatic battle lighting
+    location: Great battlefield at Beruna Ford, where river meets open plains
+    weather: Clear spring day with dramatic clouds, perfect battle conditions
+  characters:
+  - appearance: Boy, 13 years old, tall and well-built for his age, natural leadership bearing, fair-haired English youth,
+      noble and serious facial features
+    clothing: Brown wool vest over white linen shirt, knee-length dark breeches, long socks, sturdy leather shoes, school
+      sweater
+    position: Leading cavalry charge on white horse, sword raised high
+    action: Fighting courageously at head of Narnian army, proving himself as true king
+  - appearance: Boy, 10 years old, smaller build than Peter, dark hair, initially sullen and spiteful expression, later shows
+      repentance and courage
+    clothing: School shorts, white shirt, grey wool pullover, long socks, black school shoes
+    position: Fighting beside Peter in his first real battle
+    action: Proving his redemption through brave combat, no longer the traitor but a hero
+  - appearance: Enormous male lion, much larger than ordinary lions, magnificent golden mane that catches and reflects light,
+      great solemn royal eyes that are overwhelming to look upon, noble and majestic bearing
+    clothing: None - natural lion
+    position: Charging across battlefield with reinforcements
+    action: Leading freed statues and creatures in decisive charge that turns tide of battle
+  - appearance: Very tall woman, beautiful but cold and stern, skin white as paper or sugar powder, very red lips, inhuman
+      descendant of giants and djinn, regal but cruel bearing
+    clothing: Long white fur robes and cape, golden crown upon her head, white boots
+    position: In center of her evil army, fighting desperately
+    action: Making final stand with stone wand, turning enemies to stone in last battle
+  scene:
+    mainElements: Epic battlefield stretching across river ford and plains, two armies clashing in massive combat
+    details: Centaurs galloping with spears leveled, talking horses rearing and charging, mythical creatures locked in combat
+      with evil monsters, unicorns piercing enemy lines with spiral horns, eagles swooping from sky, clash of weapons and
+      battle cries echoing across field, spring grass trampled by countless feet and hooves, river running red with battle
+    background: Narnian countryside with rolling hills and forests, river ford strategic crossing point, distant mountains
+      under dramatic sky
+    atmosphere: Epic clash between good and evil armies, destiny of Narnia decided in single great battle, heroism and sacrifice,
+      ultimate confrontation, no text or letters visible
+  composition:
+    cameraAngle: Sweeping wide shot showing epic scope of battle with multiple combat groups
+    focus: Peter's heroic leadership contrasted with approaching Aslan's reinforcements
+    depth: Individual combat in foreground, main battle lines in middle ground, landscape and sky in background
+visualElements:
+  colorPalette:
+    primary:
+    - bright red
+    - vivid blue
+    - sunny yellow
+    secondary:
+    - grass green
+    - purple
+    - orange
+    background: simple flat colors or patterns
+    usageNotes: Intense, saturated colors used intuitively
+    saturation: very high (bold, pure colors)
+    contrast: high (bright colors against each other)
+  lineArt:
+    style: simple, direct outlines
+    weight: consistent, moderate thickness
+    color: dark outlines or color boundaries
+    texture: hand-drawn quality, slight irregularities
+    edgeTreatment: simple, clean edges
+  lighting:
+    type: flat, even lighting (no sophisticated shading)
+    direction: front-lit, minimal shadows
+    intensity: bright, cheerful
+    shadows:
+      style: simple, flat shadows if any
+      color: darker version of base color
+      opacity: solid
+    highlights: minimal, simple bright spots
+  rendering:
+    technique: direct, intuitive application
+    texture: flat colors with simple patterns
+    detailLevel: high in some areas (obsessive detail), simple in others
+    finish: flat, matte appearance
+  perspective: flattened or incorrect perspective, childlike spatial relationships
+  mood:
+    overall: cheerful, innocent, direct
+    emotion: joy, simplicity, honesty
+    tempo: peaceful, content
+    keywords:
+    - cheerful
+    - innocent
+    - direct
+    - honest
+    - joyful
+  stylePrecedents:
+  - Henri Rousseau jungle paintings
+  - Grandma Moses rural scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

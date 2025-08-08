@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1811, golden hour, 6:30 PM, everything bathed in warm honey-colored light
+    location: Edge of forest clearing where cultivation meets wilderness, perfect spot for contemplation
+    weather: Perfect clear evening, gentle warm breeze, ideal conditions for romantic encounters
+  characters:
+  - appearance: Young aristocrat, delicate refined features, dreamy contemplative expression, pale complexion, slender build,
+      romantic temperament visible in eyes
+    clothing: English fashion - tailored surtout coat, fashionable trousers, elegant hat, foreign attire contrasting sharply
+      with traditional Polish garments
+    position: Standing at forest edge gazing across golden-lit meadow, leaning against birch tree
+    action: Lost in romantic contemplation, observing how golden light transforms ordinary landscape into magical realm, sketching
+      mentally future artistic compositions
+  scene:
+    mainElements: Everything transformed by warm golden light - meadow grasses appearing to glow from within, tree trunks
+      and branches outlined in honey-colored fire, shadows stretched long and dramatic across landscape
+    details: Golden light catching every detail - spider webs transformed into jeweled masterpieces, grass seed heads glowing
+      like tiny lanterns, bark patterns on birch trees creating intricate light and shadow designs, insects dancing in warm
+      light columns, gentle evening breeze creating wave patterns in grain field beyond, sound of evening birds beginning
+      twilight songs
+    background: Forest depths now appearing warm and inviting rather than mysterious, distant hills bathed in golden haze,
+      sky beginning transition from blue to orange
+    atmosphere: Magical transformation of ordinary landscape through golden light, romantic beauty inspiring artistic temperament,
+      peaceful end-of-day contemplation, sense of world briefly becoming perfect, no text or letters visible
+  composition:
+    cameraAngle: Medium shot with backlighting emphasizing golden hour effects
+    focus: Contemplative figure silhouetted against golden-lit landscape
+    depth: Foreground shows golden-lit vegetation details, middle ground captures figure in warm light, background reveals
+      golden landscape perspective
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

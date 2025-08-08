@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Heroes Return to Simple Pleasures"
+  setting:
+    time: "Third Age of Middle-earth, late spring afternoon one year after the War"
+    location: "Hobbiton district of the Shire, rolling green countryside in northwest Middle-earth, peaceful agricultural region of hobbits"
+    weather: "Perfect spring afternoon with warm sunshine, gentle breeze stirring new leaves"
+  characters:
+    - appearance: "Four hobbits showing subtle changes from their great adventure, still small in stature but carrying themselves with quiet confidence"
+      clothing: "Simple hobbit clothes appropriate for gardening and country life, rolled sleeves and practical garments"
+      position: "Working together in large garden behind one of the hobbit holes"
+      action: "Planting and tending vegetables, sharing quiet conversation while engaged in peaceful domestic tasks"
+  scene:
+    mainElements: "Extensive garden with neat rows of vegetables, fruit trees in bloom, tool shed with farming implements, stone path through planted beds"
+    details: "Carefully tended garden showing expert knowledge of growing things, rows of beans and lettuce and carrots in perfect order, young fruit trees planted in precise patterns, four friends working together with easy familiarity, tools showing signs of much use and care, wheelbarrow full of rich compost, watering cans and baskets for harvest, spring flowers blooming around garden edges, no text or letters visible"
+    background: "Rolling green hills of Shire dotted with other hobbit holes, distant windmill turning lazily, smoke rising from chimneys of nearby homes"
+    atmosphere: "Perfect peace after great trials, satisfaction of simple honest work, friendship deepened by shared hardships, scent of fresh earth and growing plants, sound of bees in fruit blossoms"
+  composition:
+    cameraAngle: "Medium wide shot showing the four friends working together in their garden paradise"
+    focus: "The return to simple pleasures after saving the world"
+    depth: "Foreground shows rows of planted vegetables, middle ground features the gardening hobbits, background reveals the peaceful Shire countryside"

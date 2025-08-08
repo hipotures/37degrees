@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Golden Prosperity and Excess"
+  setting:
+    time: "1910s Colombian Caribbean coast, festive evening during banana boom prosperity"
+    location: "Interior of expanded Buendía house during lavish celebration, Colombian jungle village"
+    weather: "Warm tropical evening with gentle breeze through open windows"
+  characters:
+    - appearance: "Man, from birth to death at same moment as twin brother José Arcadio Segundo, in youth identical to twin brother, with age becomes fat hedonist, jovial and loud, his bulk result of endless feasts, drinking bouts and dissolute life, embodiment of vitality and appetite for life"
+      clothing: "Dresses loudly and richly reflecting his status as richest man in Macondo, wears colorful shirts, expensive shoes and jewelry"
+      position: "Sitting at head of overloaded banquet table"
+      action: "Laughing heartily while raising golden chalice in toast to prosperity"
+    - appearance: "Woman, lives over 140 years witnessing almost entire history of Macondo, described as fat talkative with matron-in-distress expression, has laughing wise eyes and sensual manner, characteristic feature is smell of smoke that constantly accompanies her, in old age sits in rocking chair in her brothel surrounded by fortune-telling cards"
+      clothing: "Simple clothes appropriate for her role as embodiment of fertility and folk wisdom"
+      position: "Reclining on silk cushions beside feast table"
+      action: "Playing with tarot cards while enjoying abundance with knowing smile"
+    - appearance: "Woman, arrives in Macondo as young woman, dies in old age, in youth extraordinarily beautiful chosen as most beautiful among 5000 girls, has aristocratic bearing, pale complexion and haughty facial expression, with age beauty fades and face takes on harsh embittered expression"
+      clothing: "Always dresses formally and old-fashioned inappropriately for tropical Macondo climate, wears long dark dresses, lace and veils emphasizing her sense of superiority and alienation"
+      position: "Sitting stiffly at formal dining table with disapproval"
+      action: "Eating with precise aristocratic manners while looking disgusted by excess"
+  scene:
+    mainElements: "House expanded and renovated to mansion-like proportions, walls decorated with imported luxuries and even papered with banknotes, tables overloaded with exotic foods and expensive wine, rooms filled with music and laughter from gramophone and guests, prosperity at its absolute peak"
+    details: "Golden chalices and silverware gleaming in lamplight, imported delicacies from around world covering tables, walls literally papered with money showing extreme wealth, expensive European furniture mixed with tropical luxury, air thick with celebratory atmosphere and exotic perfumes, no readable text on money wallpaper"
+    background: "Multiple rooms visible through doorways all filled with party guests, expanded house showing architectural growth parallel to family fortune, tropical garden visible through windows with imported plants"
+    atmosphere: "Peak of material prosperity and hedonistic celebration, intoxicating excess masking underlying spiritual emptiness, golden age that contains seeds of inevitable collapse"
+  composition:
+    cameraAngle: "Wide shot showing entire lavish celebration scene"
+    focus: "Aureliano Segundo's joyful excess contrasted with Fernanda's aristocratic disapproval"
+    depth: "Foreground: overloaded feast table, middle: celebrating characters, background: expanded mansion showing material success"

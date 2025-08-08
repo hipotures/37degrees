@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Edmund's Encounter with the White Witch"
+  setting:
+    time: "Eternal winter day in Narnia, overcast and cold"
+    location: "Snow-covered forest path in Narnia, different route from Lucy's lamppost clearing"
+    weather: "Heavy overcast sky, bitter cold, occasional snow flurries"
+  characters:
+    - appearance: "Boy, 10 years old, smaller build than Peter, dark hair, initially sullen and spiteful expression, later shows repentance and courage"
+      clothing: "School shorts, white shirt, grey wool pullover, long socks, black school shoes"
+      position: "Standing alone in snowy forest looking cold and somewhat lost"
+      action: "Shivering and looking around nervously, having followed Lucy but found different path"
+    - appearance: "Very tall woman, beautiful but cold and stern, skin white as paper or sugar powder, very red lips, inhuman descendant of giants and djinn, regal but cruel bearing"
+      clothing: "Long white fur robes and cape, golden crown upon her head, white boots"
+      position: "Seated regally in ornate sleigh drawn by white reindeer, suddenly appearing on forest path"
+      action: "Studying Edmund with calculating gaze, initially stern but quickly adopting false sweetness"
+  scene:
+    mainElements: "Elegant sleigh carved from white wood with silver fittings, pair of white reindeer with silver harness, snow-covered forest path winding between pine trees"
+    details: "White Witch's sleigh decorated with fur cushions and silver bells, white reindeer breathing clouds in cold air, their antlers adorned with silver chains, forest floor deep with untrodden snow, bare branches creating stark patterns against grey sky, Edmund's inadequate clothing making him visibly cold and vulnerable, his breath forming clouds in bitter air"
+    background: "Dense snow-covered pine forest extending in all directions, grey winter sky pressing down, no sign of warmth or life"
+    atmosphere: "Cold and oppressive winter landscape, sense of danger and temptation, false beauty masking evil intentions, Edmund's vulnerability in hostile environment, no text or letters visible"
+  composition:
+    cameraAngle: "Low angle shot emphasizing White Witch's imposing presence towering over small boy"
+    focus: "Contrast between magnificent witch in luxurious sleigh and shivering boy in inadequate clothes"
+    depth: "Edmund small in foreground, White Witch commanding from sleigh in middle ground, endless winter forest in background"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Equals in Love"
+  setting:
+    time: "1830s England, sunset"
+    location: "Small isolated manor house in deep woods thirty miles from Thornfield, simple stone construction"
+    weather: "Golden sunset light warming stone walls, gentle evening breeze"
+  characters:
+    - appearance: "Young woman, early 20s, small slight build, plain features, pale skin, dark hair pulled severely back, large expressive dark eyes, determined chin"
+      clothing: "Simple black mourning dress or grey governess dress, white collar and cuffs, black shoes, plain bonnet when outdoors"
+      position: "Sitting beside beloved on garden bench, holding his hands gently, facing him directly as equal"
+      action: "Speaking earnestly with quiet confidence, eyes meeting his without submission or defiance, simply with love"
+    - appearance: "Dark-haired man in his late 30s, tall broad-shouldered build, harsh angular features, penetrating dark eyes, weather-beaten complexion, changed by suffering"
+      clothing: "Simple country clothes, plain white shirt, dark jacket, boots muddy from garden work"
+      position: "Sitting on bench beside her, leaning forward attentively, no longer towering or commanding"
+      action: "Listening with deep respect and wonder, hands receiving her touch with gratitude, pride transformed to humility"
+  scene:
+    mainElements: "Modest two-story house surrounded by dense forest, overgrown garden, small windows, ivy-covered walls"
+    details: "Simple wooden bench under flowering tree, evening light casting long shadows, wildflowers growing freely around them, small house glowing with warm lamplight, birds settling for night"
+    background: "Dense forest creating intimate privacy, sunset sky visible through tree canopy, sense of complete sanctuary"
+    atmosphere: "Peaceful rural seclusion, natural harmony, democratic simplicity, healing quietude away from social pretensions, perfect equality between souls, mutual respect and understanding, love without dominance"
+  composition:
+    cameraAngle: "Medium shot showing intimate conversation between equals"
+    focus: "Two people meeting as spiritual equals, no longer master and dependent"
+    depth: "Equal partners in foreground, humble home in middle ground, peaceful sanctuary in background"

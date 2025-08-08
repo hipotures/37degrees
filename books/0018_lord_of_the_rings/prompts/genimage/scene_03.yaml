@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: Third Age of Middle-earth, evening with firelight casting warm glow
+    location: Interior of Bag End hobbit hole, home of Bilbo and Frodo Baggins, most luxurious dwelling in Hobbiton
+    weather: Cozy interior protected from outside elements
+  characters: []
+  scene:
+    mainElements: Round wooden door with brass fittings, circular windows, low-beamed ceiling, stone fireplace with crackling
+      fire, comfortable armchairs
+    details: Perfectly round front door painted green with brass handle and hinges, circular windows with diamond-paned glass
+      letting in golden light, wooden ceiling beams carved with hobbit craftsmanship, fieldstone fireplace with warm fire
+      crackling, two comfortable armchairs facing the hearth with colorful cushions, wooden table set with teapot and cups,
+      walls lined with shelves holding dishes and curious objects from travels, carpeted floors in rich colors, no text or
+      letters visible
+    background: Glimpses through doorways to other round rooms, pantry stocked with provisions, study area with comfortable
+      reading nook
+    atmosphere: Warm domestic comfort, smell of tea and baking bread, golden firelight dancing on walls, feeling of safety
+      and home
+  composition:
+    cameraAngle: Medium shot from inside the room showing the cozy living space
+    focus: The perfect comfort and luxury of hobbit domestic life
+    depth: Foreground shows armchairs and tea settings, middle ground features the fireplace as focal point, background reveals
+      doorways to other rooms
+visualElements:
+  colorPalette:
+    primary:
+    - rich fantasy colors
+    - jewel tones
+    secondary:
+    - atmospheric colors
+    - magical glows
+    background: atmospheric, often dark or misty
+    usageNotes: Rich, layered colors with magical atmosphere
+    saturation: medium to high
+    contrast: medium to high
+  lineArt:
+    style: painterly, loose
+    weight: varied, often hidden
+    color: integrated into painting
+    texture: organic brushstrokes
+    edgeTreatment: soft, painterly edges
+  lighting:
+    type: dramatic, magical
+    direction: varied for atmosphere
+    intensity: high contrast areas
+    shadows:
+      style: painted, atmospheric
+      color: cool or warm depending on scene
+      opacity: varied
+    highlights: magical glows, rim lighting
+  rendering:
+    technique: digital painting with textured brushes
+    texture: dry media brush texture
+    detailLevel: moderate to high
+    finish: glazed, painterly
+  perspective: cinematic, dynamic
+  mood:
+    overall: mythological, otherworldly, epic
+    emotion: wonder, mystery, adventure
+    tempo: varies from calm to dramatic
+    keywords:
+    - epic
+    - mystical
+    - otherworldly
+    - fantasy
+    - mythological
+  stylePrecedents:
+  - Craig Mullins digital concept art
+  - Frank Frazetta fantasy paintings
+  - Boris Vallejo fantasy illustrations
+  - Magic: The Gathering card art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

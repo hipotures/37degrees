@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Dawn Mist Over New Settlement"
+  setting:
+    time: "Early 1820s Colombian Caribbean coast, dawn breaking over virgin landscape"
+    location: "Newly founded village of Macondo beside transparent river flowing over white prehistoric stones in Colombian jungle clearing"
+    weather: "Light morning mist rising from warm earth, tropical humidity with gentle breeze"
+  characters:
+    - appearance: "Man, late 20s to elderly, potężna budowa ciała with extraordinary strength that allows him to fell a horse by grabbing its ears, in youth charismatic patriarch full of energy and curiosity, in madness becomes emaciated with long grey beard and hair, wild absent gaze"
+      clothing: "Simple rural linen shirts and pants in youth, in madness nearly naked covered only by blanket or loincloth"
+      position: "Standing by riverbank surveying his new domain with satisfaction"
+      action: "Breathing deeply the morning air while contemplating the untouched landscape before him"
+  scene:
+    mainElements: "Twenty simple adobe and cane huts with thatched roofs scattered organically along crystal-clear river, enormous white stones smooth as prehistoric eggs line the riverbed, dense tropical vegetation frames the settlement, morning light filtering through palm fronds and banana leaves"
+    details: "Smoke rising gently from cooking fires, women preparing simple breakfast outside huts, children playing near safe shallow waters, exotic birds calling from jungle canopy, air filled with scent of moist fertile earth and blooming tropical flowers, no text or letters visible"
+    background: "Impenetrable jungle extending to horizon, morning sun creating dappled light patterns through dense canopy, distant mountains barely visible through mist"
+    atmosphere: "Paradise-like tranquility, sense of infinite possibility and innocent hope, pristine world where everything is new and unnamed, peaceful harmony between humans and untouched nature"
+  composition:
+    cameraAngle: "Wide establishing shot from elevated position showing entire settlement"
+    focus: "José Arcadio Buendía as founder contemplating his creation"
+    depth: "Foreground: settlement and river, middle: jungle clearing, background: endless tropical forest and distant peaks"

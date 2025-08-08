@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1830s England, late afternoon
+    location: Small isolated manor house in deep woods thirty miles from Thornfield, simple stone construction
+    weather: Cold winter light slanting through windows, frost on ground
+  characters:
+  - appearance: Young woman, early 20s, small slight build, plain features, pale skin, dark hair pulled severely back, large
+      expressive dark eyes, determined chin
+    clothing: Simple black mourning dress or grey governess dress, white collar and cuffs, black shoes, plain bonnet when
+      outdoors
+    position: Sitting rigidly in wooden chair, hands clenched in lap, back pressed against chair
+    action: Listening with growing alarm, shaking head slowly, eyes wide with resistance and fear
+  - appearance: Tall austere man, late 20s, golden fair hair, classical handsome features, pale blue eyes, rigid posture,
+      stern expression
+    clothing: Black clerical coat and white collar, dark trousers, polished black shoes, prayer book in hand
+    position: Standing rigidly upright with hands clasped behind back or kneeling in prayer
+    action: Preaching with cold passion, studying theological texts intently, gazing toward distant horizon with missionary
+      fervor
+  scene:
+    mainElements: Modest two-story house surrounded by dense forest, overgrown garden, small windows, ivy-covered walls
+    details: Religious books open on table, maps of India spread across desk, missionary pamphlets scattered about, cold fireplace
+      with dead ashes, heavy winter coats hanging on pegs, frost patterns on windowpanes
+    background: Dense forest surrounding cottage, winter landscape visible through windows, bare tree branches
+    atmosphere: Peaceful rural seclusion now charged with tension, pressure mounting, religious fervor clashing with personal
+      will, suffocating duty demanded, another form of imprisonment disguised as salvation
+  composition:
+    cameraAngle: Medium shot showing confrontation between duty and desire
+    focus: Woman resisting religious pressure and loveless marriage proposal
+    depth: Resistant figure in foreground, demanding missionary in middle ground, maps of distant duty in background
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

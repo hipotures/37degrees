@@ -1,0 +1,99 @@
+sceneDescription:
+  setting:
+    time: September 1950, late morning, 10:00 AM, warming day
+    location: One-room dwelling in Cojímar made from hardened palm fronds called guano, dirt floor packed smooth by years
+      of use
+    weather: Clear warming day, gentle breeze through open doorway, comfortable temperature
+  characters:
+  - appearance: Old man over 70 years, thin and gaunt but with strong sinewy arms, height average for elderly Cuban fisherman,
+      weathered dark skin with deep wrinkles on neck and face, brown spots of benign skin cancer on cheeks, hands covered
+      with deep old healed scars from fishing lines
+    clothing: Worn patched shirt faded by sun and salt, old threadbare trousers, often barefoot, straw hat when at sea for
+      sun protection
+    position: Lying on old iron bed, hands palm up showing wounds
+    action: Sleeping deeply in exhaustion, breathing peacefully after epic ordeal
+  - appearance: Young Cuban boy around 14-16 years old, lean athletic build from fishing work, average height for adolescent,
+      tanned olive skin, dark brown hair, warm brown eyes showing loyalty and concern
+    clothing: Simple work clothes, cotton shirt and trousers suitable for fishing village, sturdy sandals
+    position: Sitting beside bed keeping vigil
+    action: Watching over Santiago's rest, tears on face seeing damaged hands, bringing water and care
+  scene:
+    mainElements: Single old iron bed, small wooden table, one wooden chair, corner fireplace for charcoal cooking, boat mast
+      leaning against wall almost as long as room
+    details: Dim interior lit by morning light streaming through open doorway, clean but sparse showing dignity in poverty,
+      two religious pictures on wall - Sacred Heart of Jesus and Virgin of Cobre, faint smell of charcoal and ocean salt.
+      Mast now returned to its place against wall, cup of water beside bed, simple food prepared but untouched, atmosphere
+      of peaceful recovery and devoted care
+    background: Village sounds filtering through doorway - children playing, women talking, distant harbor activity
+    atmosphere: Sanctuary of rest after heroic struggle, love and loyalty of friendship, simple comfort in humble surroundings,
+      healing beginning in safe haven, no text or letters visible
+  composition:
+    cameraAngle: Intimate interior shot showing care and devotion
+    focus: Peaceful rest under loving protection
+    depth: Foreground shows bed and sleeping figure, middle ground captures watching boy, background reveals simple room details
+visualElements:
+  colorPalette:
+    primary:
+    - '#2B2B2B'
+    - '#4A4A4A'
+    - '#6B6B6B'
+    - '#8C8C8C'
+    - '#ADADAD'
+    - '#CECECE'
+    - '#F0F0F0'
+    secondary:
+    - '#FFFFFF'
+    - '#1A1A1A'
+    background: white or off-white paper
+    usageNotes: Monochromatic grayscale only. Use varying shades for depth
+    saturation: none
+    contrast: medium to high
+  lineArt:
+    style: organic, hand-drawn
+    weight: variable (0.5-3px)
+    color: grayscale
+    texture: rough, sketchy with visible breaks
+    edgeTreatment: natural variations, multiple overlapping strokes
+  lighting:
+    type: traditional shading
+    direction: typically top-left
+    intensity: varies with pressure
+    shadows:
+      style: crosshatching and scribbling
+      color: darker graphite tones
+      opacity: built up through layering
+    highlights: paper showing through or eraser marks
+  rendering:
+    technique: traditional pencil on paper
+    texture: visible paper grain and tooth
+    detailLevel: varies from loose to highly detailed
+    finish: intentionally incomplete with visible process
+  perspective: traditional drawing perspectives
+  mood:
+    overall: artistic, unfinished, spontaneous
+    emotion: raw, authentic, contemplative
+    tempo: calm, thoughtful
+    keywords:
+    - artistic
+    - raw
+    - authentic
+    - traditional
+    - sketchy
+  postProcessing:
+    effects:
+    - paper texture
+    - graphite smudging
+    filters: none
+    adjustments:
+      saturation: '0'
+      contrast: natural pencil contrast
+  stylePrecedents:
+  - Leonardo da Vinci sketches
+  - Academic drawing studies
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

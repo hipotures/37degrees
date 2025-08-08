@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1811, sunset, 7:15 PM, windows reflecting burning sky like mirrors of fire
+    location: Soplicowo manor exterior with western-facing windows catching full sunset reflection
+    weather: Clear evening with spectacular sunset, calm air perfect for reflection effects
+  characters:
+  - appearance: Mature woman over 30 years, raven-black hair, black eyes, pale complexion enhanced with rouge makeup, subtle
+      wrinkles visible up close, missing two teeth, slender shapely figure
+    clothing: Fashionable elegant attire in Petersburg or French style, often with deep décolletage, fabrics unsuited to countryside
+      setting, carefully styled appearance
+    position: Standing at distance observing manor, silhouetted against evening landscape
+    action: Watching sunset reflection in windows with mixed emotions, contemplating her place between sophisticated city
+      life and rural simplicity
+  scene:
+    mainElements: Manor windows transformed into mirrors of liquid fire reflecting spectacular sunset, white walls appearing
+      golden in evening light, building seeming to glow from within
+    details: Each window pane reflecting different section of burning sky creating patchwork of orange, red and gold mirrors,
+      evening light making white walls appear warm honey color, shadows beginning to stretch dramatically across courtyard,
+      birds returning to roost in birch trees, sound of evening breeze rustling leaves, cooling air carrying scents of night-blooming
+      flowers
+    background: Sky ablaze with sunset colors - deep orange near horizon grading to purple above, silhouettes of trees against
+      burning sky, distant landscape appearing mystical in evening haze
+    atmosphere: Dramatic beauty of sunset reflection creating almost supernatural effect, peaceful conclusion to day's activities,
+      sense of transition from day to evening, romantic lighting inspiring contemplation, no text or letters visible
+  composition:
+    cameraAngle: Medium wide shot emphasizing window reflections and sunset effects
+    focus: Silhouetted figure observing manor with dramatic sunset reflections
+    depth: Foreground shows evening shadows and golden light effects, middle ground captures observing figure, background
+      dominated by burning sky reflected in windows
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

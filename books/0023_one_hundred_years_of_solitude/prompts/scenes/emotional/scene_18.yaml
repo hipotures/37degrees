@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Flood of Endless Mourning"
+  setting:
+    time: "1920s Colombian Caribbean coast, during third year of continuous rain"
+    location: "Interior of deteriorating Buendía house during biblical flood, Colombian jungle village"
+    weather: "Relentless rain pouring through damaged roof, constant dampness everywhere"
+  characters:
+    - appearance: "Woman, teenage to over 115 years old, described as active, small, stern woman with steel nerves, embodiment of vitality and strength through most of life, in old age when loses sight body begins to shrink, at end of life becomes so small and light resembles newborn or doll, skin becomes wrinkled and transparent"
+      clothing: "Dark, stern, simple dresses throughout life reflecting pragmatism and mourning for family members, characteristic stiff starched petticoats that make quiet whisper during constant bustling"
+      position: "Moving slowly through waterlogged house with buckets"
+      action: "Trying desperately to bail water while mourning the decay of everything she built"
+    - appearance: "Man, from birth to death at same moment as twin brother José Arcadio Segundo, in youth identical to twin brother, with age becomes fat hedonist, jovial and loud, his bulk result of endless feasts, drinking bouts and dissolute life, embodiment of vitality and appetite for life"
+      clothing: "Dresses loudly and richly reflecting his status as richest man in Macondo, wears colorful shirts, expensive shoes and jewelry"
+      position: "Slumped in waterlogged chair surrounded by rotting luxury"
+      action: "Staring emptily at water damage destroying all his accumulated wealth"
+    - appearance: "Woman, arrives in Macondo as young woman, dies in old age, in youth extraordinarily beautiful chosen as most beautiful among 5000 girls, has aristocratic bearing, pale complexion and haughty facial expression, with age beauty fades and face takes on harsh embittered expression"
+      clothing: "Always dresses formally and old-fashioned inappropriately for tropical Macondo climate, wears long dark dresses, lace and veils emphasizing her sense of superiority and alienation"
+      position: "Standing rigidly in corner trying to maintain dignity"
+      action: "Holding golden chamber pot while refusing to acknowledge family's ruin"
+  scene:
+    mainElements: "House interior transformed by constant flooding, walls stained with humidity and mold, furniture rotting and warped by endless moisture, floors covered with standing water, plaster peeling from walls, former luxury destroyed by relentless tropical dampness"
+    details: "Water constantly dripping through damaged roof creating rhythm of decay, mold and fungus growing on walls and furniture, former luxuries now waterlogged and worthless, air thick with humidity and smell of rot, atmosphere of unstoppable natural revenge against human excess, no readable text on damaged items"
+    background: "Multiple rooms visible through doorways all showing similar water damage, garden visible through windows completely flooded, village beyond suffering same deterioration"
+    atmosphere: "Biblical punishment washing away all traces of foreign exploitation and material excess, family watching helplessly as everything they built dissolves in endless rain"
+  composition:
+    cameraAngle: "Medium shot capturing family's helpless struggle against natural forces"
+    focus: "Úrsula's determined but futile fight against water damage while family despairs"
+    depth: "Foreground: water-damaged interior details, middle: family coping with disaster, background: flooded rooms showing extent of destruction"

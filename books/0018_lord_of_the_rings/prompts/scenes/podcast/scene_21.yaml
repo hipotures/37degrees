@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "The White Tree Blooms Again"
+  setting:
+    time: "Third Age of Middle-earth, early morning after coronation in full spring"
+    location: "Citadel courtyard at highest level of Minas Tirith, sacred space of the White Tree"
+    weather: "Perfect spring morning with golden sunlight, gentle warmth, light breeze"
+  characters: []
+  scene:
+    mainElements: "Ancient White Tree of Gondor standing in center of marble courtyard, silver flowers blooming on every branch"
+    details: "Magnificent tree with silver-grey bark and silver-white leaves shimmering in morning light, countless small white flowers blooming along every branch like stars brought to earth, marble courtyard inlaid with pattern of seven stars and crown, fountain at base of tree with crystal clear water flowing, silver petals fallen on white marble creating carpet of hope, morning sunlight making silver leaves and flowers glow with inner light, birds singing in branches for first time in generations, no text or letters visible"
+    background: "White stone walls of the citadel with guards' chambers and royal quarters, view over lower levels of city, distant mountains"
+    atmosphere: "Symbol of hope and renewal after long darkness, scent of tree blossoms mixed with morning air, sound of fountain and singing birds, feeling of new beginnings and restored grace"
+  composition:
+    cameraAngle: "Medium wide shot focusing on the blooming tree in its marble setting"
+    focus: "The symbol of restored hope and divine blessing returning to the land"
+    depth: "Foreground shows marble courtyard with fallen silver petals, middle ground features the blooming White Tree in full glory, background reveals the citadel walls and distant city"

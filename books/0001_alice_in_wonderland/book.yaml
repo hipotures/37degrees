@@ -1,6 +1,7 @@
 book_info:
-  title: "Alicja w Krainie Czarów"
+  title: "Alice's Adventures in Wonderland"
+  title_pl: "Alicja w Krainie Czarów"
   author: "Lewis Carroll"
   year: 1865
   genre: "Fantasy"
-  reading_time: "3-4 godziny"
+  reading_time: "3-4 hours"

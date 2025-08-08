@@ -1,6 +1,7 @@
 book_info:
-  title: "Wichrowe Wzgórza"
+  title: "Wuthering Heights"
+  title_pl: "Wichrowe Wzgórza"
   author: "Emily Brontë"
   year: 1847
-  genre: "Romans gotycki"
-  reading_time: "12-14 godzin"
+  genre: "Gothic romance"
+  reading_time: "12-14 hours"

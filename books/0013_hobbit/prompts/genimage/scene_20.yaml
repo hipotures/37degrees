@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: Third Age, unknown time inside mountain
+    location: Vast underground chamber deep within Lonely Mountain, dragon temporarily absent from treasure chamber
+    weather: Cooler air with dragon gone, torch light flickering on walls
+  characters:
+  - appearance: Middle-aged hobbit, late 40s, curly brown hair, round cheerful face, short stature, slightly portly build,
+      bright hazel eyes
+    clothing: Forest green velvet waistcoat, cream-colored linen shirt with brass buttons, brown woolen breeches, yellow silk
+      handkerchief in waistcoat pocket, now worn from adventures
+    position: Climbing carefully up massive treasure pile, reaching toward glowing gem at summit
+    action: Stretching toward magnificent gemstone, steadying himself on shifting coins, breathing heavily from climb and
+      anticipation, eyes fixed on prize
+  - appearance: Twelve dwarves of various ages, all bearded, stocky builds, ranging from young adult to elderly, different
+      colored beards and hair
+    clothing: Colorful wool tunics in deep reds, blues, and greens, leather belts and boots, chainmail armor beneath tunics,
+      traveling packs
+    position: Standing at treasure chamber entrance, watching hobbit's ascent anxiously
+    action: Whispering urgently among themselves, some gesturing toward tunnel entrance listening for dragon's return, others
+      watching Bilbo with mixture of hope and concern
+  scene:
+    mainElements: Large white gemstone size of child's fist, multifaceted surface refracting light into rainbow colors, sits
+      atop golden pedestal, radiates inner luminescence
+    details: Massive treasure hoard with golden coins cascading in small avalanches, precious Arkenstone glowing with inner
+      white light, rainbow colors dancing from gemstone facets, golden pedestal supporting the Heart of the Mountain, silver
+      and gold artifacts scattered throughout pile, jeweled weapons and crowns partially buried in treasure, torchlight creating
+      dancing shadows on chamber walls
+    background: Vast chamber carved from mountain heart, multiple tunnel entrances, sense of enormous hollow space, cool stone
+      walls beyond torch reach
+    atmosphere: Tense treasure hunting with dragon threat looming, magnificent gemstone radiating otherworldly beauty, greed
+      versus loyalty conflict building, silence pregnant with danger, no text or letters visible
+  composition:
+    cameraAngle: Medium shot from below showing hobbit reaching for glowing Arkenstone
+    focus: Bilbo's crucial decision moment with the Heart of the Mountain within grasp
+    depth: Glowing Arkenstone in foreground, Bilbo climbing treasure in middle ground, anxious dwarves at entrance in background
+visualElements:
+  colorPalette:
+    primary:
+    - warm pastels
+    - soft earth tones
+    - gentle blues and greens
+    secondary:
+    - bright accent colors for details
+    background: soft washes or textured paper
+    usageNotes: Harmonious colors that feel safe and inviting
+    saturation: medium, slightly muted
+    contrast: gentle, no harsh transitions
+  lineArt:
+    style: soft, organic lines
+    weight: varied, hand-drawn quality
+    color: brown or dark color, not pure black
+    texture: slightly rough, pencil-like
+    edgeTreatment: gentle, rounded forms
+  lighting:
+    type: warm, comforting
+    direction: soft overall illumination
+    intensity: gentle
+    shadows:
+      style: soft, minimal
+      color: warm grays or purples
+      opacity: light
+    highlights: subtle warmth
+  rendering:
+    technique: mixed media appearance
+    texture: visible paper texture, soft brushwork
+    detailLevel: simplified but expressive
+    finish: matte with gentle textures
+  perspective: slightly naive, not perfectly accurate
+  mood:
+    overall: warm, inviting, magical
+    emotion: wonder, safety, adventure
+    tempo: gentle, dreamlike
+    keywords:
+    - whimsical
+    - magical
+    - comforting
+    - imaginative
+    - nostalgic
+  stylePrecedents:
+  - Quentin Blake
+  - Maurice Sendak
+  - Beatrix Potter
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

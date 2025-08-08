@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Torn Between Light and Shadow"
+  setting:
+    time: "1840s Paris, twilight during moment of crucial decision"
+    location: "Luxurious Second Empire Parisian salon in upscale district, ornate high-ceilinged interior with tall windows"
+    weather: "Dramatic twilight with half the room in golden sunset light, half in deep shadows"
+  characters:
+    - appearance: "Woman, early twenties, pale complexion with delicate features, auburn hair styled in elegant 1840s fashion with center part and side curls, slender build, fragile due to illness, expressive dark eyes"
+      clothing: "Luxurious white silk evening gown with off-shoulder neckline, fitted bodice with tiny pearl buttons, full bell-shaped skirt, white lace gloves, pearl necklace, small pearl earrings"
+      position: "Standing precisely at the line where light meets shadow, half her body in warm golden light, half in cold darkness"
+      action: "Frozen in moment of decision, one hand reaching toward light, other pulling back toward shadows, face showing internal torment"
+    - appearance: "Middle-aged man, early fifties, graying dark hair receding at temples, well-groomed sideburns, stern weathered face with deep lines, stocky build, sharp blue eyes"
+      clothing: "Dark navy formal frock coat, black wool waistcoat, white dress shirt, black silk cravat, gold pocket watch chain visible, black wool trousers, black leather boots"
+      position: "Standing in shadow area, hand extended toward her, representing duty and sacrifice"
+      action: "Waiting with stern patience, eyes reflecting both compassion and inexorable moral authority"
+    - appearance: "Young man, mid-twenties, dark brown hair combed back in 1840s style, clean-shaven face with strong jawline, tall athletic build, intense brown eyes, pale skin"
+      clothing: "Black formal evening tailcoat, white dress shirt with high starched collar, white silk bow tie, black wool trousers with satin stripe, black leather dress shoes"
+      position: "Standing in light area, arm outstretched toward her, representing love and happiness"
+      action: "Pleading with desperate hope, face illuminated by golden light, unaware of the moral conflict"
+  scene:
+    mainElements: "Opulent red velvet sofas with gold trim, mahogany piano against wall, marble fireplace with gilt mirror above, crystal chandelier hanging from decorated ceiling"
+    details: "Two bouquets on nearby table - fresh white camellia flowers and fresh red camellia flowers side by side, representing her impossible choice between purity and passion. Luminous white pearl necklace with perfectly matched spherical pearls catching both light and shadow. Split composition with warm golden light flooding half the room, cold blue shadows dominating the other half. No text or letters visible"
+    background: "Room dramatically divided by twilight - one side warm and inviting with golden sunset, other side cold and austere in gathering darkness"
+    atmosphere: "Sumptuous wealth mixed with feminine refinement, warm gaslight creating golden glow, subtle air of melancholy"
+  composition:
+    cameraAngle: "Symmetrical split composition emphasizing the dramatic division between light and dark"
+    focus: "Central figure caught precisely between two opposing forces of light and shadow"
+    depth: "Foreground shows dual camellia bouquets representing choice, middle ground captures the three figures in their symbolic positions, background reveals the dramatic light-shadow division"

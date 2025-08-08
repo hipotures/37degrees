@@ -1,6 +1,7 @@
 book_info:
   title: "Solaris"
+  title_pl: "Solaris"
   author: "Stanisław Lem"
   year: 1961
-  genre: "Science Fiction filozoficzne"
-  reading_time: "6-8 godzin"
+  genre: "Philosophical science fiction"
+  reading_time: "6-8 hours"

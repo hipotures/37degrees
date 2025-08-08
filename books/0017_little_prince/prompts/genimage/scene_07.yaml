@@ -1,0 +1,94 @@
+sceneDescription:
+  setting:
+    time: Timeless space environment, harsh artificial lighting creating oppressive office atmosphere
+    location: Small spherical planet covered entirely by single enormous office building, dark interior with minimal windows,
+      artificial lighting throughout, floating in starless region of space
+    weather: Stagnant indoor air with no natural breezes, uncomfortable artificial environment, oppressive stillness
+  characters:
+  - appearance: Young boy, approximately 7-8 years old, blonde curly hair reaching his shoulders, fair skin with rosy cheeks,
+      bright blue eyes filled with wonder and melancholy, slender build, average height for a child
+    clothing: Long golden-yellow coat reaching mid-thigh, white shirt underneath, long golden scarf flowing in wind, dark
+      blue or black trousers, simple black shoes, no gloves or hat
+    position: Standing beside desk looking increasingly uncomfortable and distressed
+    action: Trying to get attention by waving hands gently, expression showing growing alarm and sadness, taking small steps
+      backward as if wanting to escape, shoulders beginning to slump with disappointment
+  - appearance: Middle-aged man in his 40s, balding head with thin gray hair combed across, pale skin from indoor work, thick
+      black-rimmed glasses, round face with worried expression, soft physique from sedentary lifestyle
+    clothing: Dark navy business suit with pinstripes, white dress shirt with tight collar, red necktie pulled snug, black
+      leather dress shoes polished but worn, gold wristwatch, breast pocket containing multiple pens
+    position: Hunched over large oak desk covered with papers and ledger books, shoulders curved forward from constant desk
+      work, head bent down examining documents through glasses
+    action: Frantically counting and writing numbers with fountain pen, shuffling through stacks of papers, occasionally looking
+      up with distracted expression before returning immediately to calculations
+  scene:
+    mainElements: Massive oak desk dominating center of space, towering stacks of papers and ledger books, multiple filing
+      cabinets, adding machines, pens and calculators, bare walls with no decoration, single uncomfortable chair
+    details: Endless columns of numbers covering every paper surface, ink stains on desk from constant writing, worn patches
+      on desk surface, cramped workspace with no natural elements
+    background: Dark oppressive office interior with minimal lighting, no windows to outside space, artificial fluorescent
+      lighting creating harsh shadows, claustrophobic enclosed environment
+    atmosphere: Growing distress and alienation, first real sadness at adult obsession, sense of being ignored and dismissed,
+      oppressive meaninglessness, no text or letters visible anywhere in scene
+  composition:
+    cameraAngle: Medium shot emphasizing contrast between Prince's innocent openness and businessman's obsessive focus
+    focus: Prince's increasingly distressed expression as he realizes he's being completely ignored
+    depth: Foreground with Prince's emotional reaction, middle ground with businessman's obsessive work, background showing
+      oppressive office environment
+visualElements:
+  colorPalette:
+    primary:
+    - translucent washes
+    - soft pastels
+    secondary:
+    - deeper pigments for accents
+    background: white paper showing through
+    usageNotes: Colors should bleed and blend naturally
+    saturation: variable - from muted to vibrant
+    contrast: soft to medium
+  lineArt:
+    style: minimal or suggested
+    weight: very thin if present
+    color: often absent or very light
+    texture: organic, flowing
+    edgeTreatment: soft, bleeding edges
+  lighting:
+    type: soft, diffused
+    direction: natural light
+    intensity: gentle
+    shadows:
+      style: translucent washes
+      color: cool tones mixed with base colors
+      opacity: transparent
+    highlights: white paper reserved or lifted paint
+  rendering:
+    technique: traditional watercolor on paper
+    texture: visible watercolor paper grain
+    detailLevel: impressionistic, not highly detailed
+    finish: organic with natural pigment accumulation
+  perspective: varied, often loose and interpretive
+  mood:
+    overall: delicate, flowing, organic
+    emotion: peaceful, dreamy, contemplative
+    tempo: calm, fluid
+    keywords:
+    - flowing
+    - organic
+    - delicate
+    - translucent
+    - artistic
+  postProcessing:
+    effects:
+    - wet on wet bleeding
+    - paper texture
+    - color pooling
+    filters: none
+    adjustments:
+      saturation: natural pigment saturation
+      contrast: soft
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

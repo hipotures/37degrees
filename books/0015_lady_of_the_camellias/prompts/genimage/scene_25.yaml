@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: 1840s French countryside, peaceful spring morning one year later
+    location: Modest country house in French countryside outside Paris, surrounded by natural gardens and rolling hills
+    weather: Perfect spring morning with gentle breeze, warm sunshine, and blooming flowers everywhere
+  characters:
+  - appearance: Young man, mid-twenties, dark brown hair combed back in 1840s style, clean-shaven face with strong jawline,
+      tall athletic build, intense brown eyes, pale skin
+    clothing: Black formal evening tailcoat, white dress shirt with high starched collar, white silk bow tie, black wool trousers
+      with satin stripe, black leather dress shoes
+    position: Standing contemplatively beside old oak tree, one hand resting gently on bark, face turned toward blooming garden
+    action: Gazing peacefully at memorial garden with expression of grateful remembrance rather than desperate grief
+  - appearance: Middle-aged woman, early forties, brown hair pulled back in simple bun, kind round face with warm brown eyes,
+      average height, sturdy build, worn hands from work
+    clothing: Simple black servant's dress with white lace collar and cuffs, white cotton apron tied at waist, small white
+      cap, black stockings, practical black shoes
+    position: Tending memorial flower bed with loving care, kneeling among blooming camellias
+    action: Caring for flowers with devoted attention, face showing peaceful purpose in maintaining living tribute
+  scene:
+    mainElements: Simple white-washed stone cottage with green shutters, climbing roses around doorframe, wooden garden gate,
+      well-maintained flower beds, old oak tree providing shade
+    details: Fresh white camellia flowers growing naturally throughout memorial garden, pristine ivory-white petals with waxy
+      texture blooming in abundance from carefully tended bushes, dark green glossy leaves healthy and vibrant, white silk
+      ribbon tied around tree branch as memorial marker. Luminous white pearl necklace with perfectly matched spherical pearls
+      buried beneath camellia bush as eternal offering. Cottage maintained with love but no longer as shrine of desperate
+      remembrance. Garden alive with butterflies and birds. No text or letters visible
+    background: Rolling green hills extending peacefully toward horizon, spring landscape renewed and full of life, distant
+      church bell tower visible through morning mist
+    atmosphere: Peaceful rural tranquility, escape from urban corruption, natural beauty offering healing and simple happiness
+  composition:
+    cameraAngle: Wide contemplative shot capturing the transformed memorial garden and peaceful figures
+    focus: Living memorial garden with caretakers who have found peace through service and remembrance
+    depth: Foreground shows blooming camellia bushes and buried pearls, middle ground captures contemplative figures tending
+      memorial, background displays eternal countryside and church tower representing lasting faith
+visualElements:
+  colorPalette:
+    primary:
+    - muted golds
+    - deep greens
+    - burgundy
+    - peacock blue
+    secondary:
+    - ivory
+    - dusty rose
+    - sage green
+    background: aged paper or decorative patterns
+    usageNotes: Rich but muted tones with metallic accents
+    saturation: medium, sophisticated
+    contrast: elegant, balanced
+  lineArt:
+    style: flowing, sinuous curves
+    weight: varied, decorative
+    color: dark brown or black with gold accents
+    texture: smooth, refined
+    edgeTreatment: organic, plant-like curves
+  lighting:
+    type: decorative, non-realistic
+    direction: integrated into design
+    intensity: balanced throughout
+    shadows:
+      style: decorative, part of pattern
+      color: deeper tones of base colors
+      opacity: integrated
+    highlights: gold leaf effects
+  rendering:
+    technique: decorative illustration
+    texture: smooth with ornamental details
+    detailLevel: high in decoration, simplified figures
+    finish: refined, poster-like
+  perspective: flattened, decorative
+  mood:
+    overall: elegant, romantic, sophisticated
+    emotion: beauty, refinement, nostalgia
+    tempo: flowing, graceful
+    keywords:
+    - elegant
+    - decorative
+    - romantic
+    - ornate
+    - sophisticated
+  stylePrecedents:
+  - Alphonse Mucha
+  - Gustav Klimt
+  - Aubrey Beardsley
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

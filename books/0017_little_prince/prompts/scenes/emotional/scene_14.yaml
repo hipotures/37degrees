@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Weight of Responsibility"
+  setting:
+    time: "1943 Sahara Desert, afternoon with thoughtful lighting, serious contemplative atmosphere"
+    location: "Vast Sahara Desert in North Africa, endless expanse of golden sand dunes stretching to horizon in all directions, sparse vegetation, extreme isolation from human civilization"
+    weather: "Still air with serious quality, comfortable temperature but sense of gravity, thoughtful lighting"
+  characters:
+    - appearance: "Young boy, approximately 7-8 years old, blonde curly hair reaching his shoulders, fair skin with rosy cheeks, bright blue eyes filled with wonder and melancholy, slender build, average height for a child"
+      clothing: "Long golden-yellow coat reaching mid-thigh, white shirt underneath, long golden scarf flowing in wind, dark blue or black trousers, simple black shoes, no gloves or hat"
+      position: "Standing with hand on heart, facing away from fox toward distant horizon"
+      action: "Looking toward distant home with expression of sudden deep realization, hand pressed to chest feeling weight of understanding, shoulders straightening with new sense of responsibility, face showing mix of joy and burden"
+    - appearance: "Small red fox with bright amber eyes, pointed ears alert and forward-facing, bushy tail with white tip, russet red fur with darker markings around ears and paws, intelligent expression showing ancient wisdom"
+      clothing: "Natural golden-red fur coat, no artificial clothing or accessories, pristine condition suggesting wild but well-cared-for state"
+      position: "Sitting quietly watching Prince's realization with patient understanding"
+      action: "Observing with wise compassionate gaze, ears slightly back showing empathy for difficult lesson, tail still showing supportive presence, expression showing both pride and sadness at teaching completion"
+  scene:
+    mainElements: "Moment of profound realization and understanding, space between figures showing both connection and approaching separation, desert as witness to important learning"
+    details: "Rolling sand dunes of various heights, scattered rock outcroppings, broken aircraft engine parts, pilot's supplies spread on sand, vast empty sky meeting sand at distant horizon line, occasional desert plants"
+    background: "Desert horizon pointing toward distant unseen home, golden light suggesting both beauty and weight of revelation, sense of important crossroads"
+    atmosphere: "Profound realization and growing sense of responsibility, bittersweet understanding of love's obligations, emotional complexity of growth and duty, no text or letters visible anywhere in scene"
+  composition:
+    cameraAngle: "Medium shot showing Prince's moment of realization with fox as supportive witness"
+    focus: "Prince's emotional transformation as he understands the full weight of love and responsibility"
+    depth: "Foreground with Prince's emotional reaction, middle ground with supportive fox, background with horizon suggesting distant obligations"

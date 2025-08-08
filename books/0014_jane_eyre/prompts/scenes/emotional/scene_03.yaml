@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Institutional Bleakness"
+  setting:
+    time: "1830s England, winter morning"
+    location: "Charity school for orphaned girls in remote Yorkshire valley, institutional stone buildings"
+    weather: "Freezing cold with frost covering everything, pale weak sunlight"
+  characters:
+    - appearance: "Young woman, early 20s, small slight build, plain features, pale skin, dark hair pulled severely back, large expressive dark eyes, determined chin"
+      clothing: "Simple black mourning dress or grey governess dress, white collar and cuffs, black shoes, plain bonnet when outdoors"
+      position: "Sitting rigidly upright on hard wooden bench among other similarly dressed figures"
+      action: "Maintaining stoic composure while inwardly steeling herself against harsh conditions, hands folded to hide trembling from cold"
+    - appearance: "Pale thin girl, early teens, light brown hair, delicate features, large gentle blue eyes, frail consumptive build, ethereal fragility"
+      clothing: "Simple grey school dress with white apron, worn brown shoes, thin shawl around narrow shoulders"
+      position: "Sitting quietly on wooden bench beside first figure, head slightly bowed"
+      action: "Reading religious book with peaceful expression, speaking softly with serene smile, emanating calm acceptance"
+  scene:
+    mainElements: "Long dormitory rooms with rows of beds, cold classroom with wooden benches, sparse dining hall with long tables, stone walls bare of comfort"
+    details: "Frost on inside of windows, thin blankets on narrow beds, empty porridge bowls on wooden tables, worn prayer books, cold stone floors, high windows admitting minimal light, iron discipline evident in rigid arrangements"
+    background: "Yorkshire valley with snow-covered hills, bare trees, institutional buildings stretching in uniform rows"
+    atmosphere: "Harsh discipline and deprivation, cold stone walls, oppressive religious fervor mixed with neglect, endurance through hardship, small moments of human kindness"
+  composition:
+    cameraAngle: "Wide shot showing institutional scale and individual vulnerability"
+    focus: "Two contrasting figures - one defiant, one accepting - amid harsh surroundings"
+    depth: "Characters on benches in foreground, institutional hall in middle ground, winter landscape in background"

@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: Third Age, midday
+    location: Desolate plain before Lonely Mountain, battlefield with armies converging
+    weather: Overcast day with grey clouds, cold wind across barren landscape
+  characters:
+  - appearance: Twelve dwarves of various ages, all bearded, stocky builds, ranging from young adult to elderly, different
+      colored beards and hair
+    clothing: Colorful wool tunics in deep reds, blues, and greens, leather belts and boots, chainmail armor beneath tunics,
+      battle gear
+    position: Formed in tight defensive formation on rocky outcrop near mountain
+    action: Standing with weapons ready, shields overlapping, prepared for battle, some tending wounded companions
+  - appearance: Multiple armies of men, elves, and goblins filling battlefield
+    clothing: Various medieval armor and weapons, banners and standards of different forces
+    position: Spread across plain in organized battle formations, approaching from multiple directions
+    action: Marching in military formations, cavalry charging, archers drawing bowstrings, engaging in fierce combat
+  - appearance: Middle-aged hobbit, late 40s, curly brown hair, round cheerful face, short stature, slightly portly build,
+      bright hazel eyes
+    clothing: Forest green velvet waistcoat, cream-colored linen shirt with brass buttons, brown woolen breeches, yellow silk
+      handkerchief in waistcoat pocket, light armor over clothing
+    position: Standing apart from main battle, looking across conflict with troubled expression
+    action: Watching battle with dismay, adjusting small shield on arm, hand resting on sword hilt, clearly reluctant warrior
+  scene:
+    mainElements: Vast battlefield before Lonely Mountain, multiple armies clashing, weapons and armor glinting, banners flying
+      in wind
+    details: Desolate rocky plain with scattered boulders, armies arranged in battle lines with spears and shields, cavalry
+      horses galloping across battlefield, archers with drawn bows, battle standards and banners whipping in cold wind, weapons
+      clashing creating metallic sounds, fallen warriors scattered across terrain, mountain looming over entire scene
+    background: Lonely Mountain rising as massive backdrop, grey clouds gathering overhead, distant hills and rocky terrain,
+      ravens circling battlefield
+    atmosphere: Epic conflict over treasure and territory, clash of multiple cultures and interests, futility of war fought
+      for gold, sounds of battle echoing across desolate landscape, no text or letters visible
+  composition:
+    cameraAngle: Wide panoramic shot showing full scope of battle with mountain backdrop
+    focus: Massive scale of conflict with small hobbit as moral center questioning violence
+    depth: Clashing armies filling middle ground, Lonely Mountain dominating background, individual characters in foreground
+visualElements:
+  colorPalette:
+    primary:
+    - warm pastels
+    - soft earth tones
+    - gentle blues and greens
+    secondary:
+    - bright accent colors for details
+    background: soft washes or textured paper
+    usageNotes: Harmonious colors that feel safe and inviting
+    saturation: medium, slightly muted
+    contrast: gentle, no harsh transitions
+  lineArt:
+    style: soft, organic lines
+    weight: varied, hand-drawn quality
+    color: brown or dark color, not pure black
+    texture: slightly rough, pencil-like
+    edgeTreatment: gentle, rounded forms
+  lighting:
+    type: warm, comforting
+    direction: soft overall illumination
+    intensity: gentle
+    shadows:
+      style: soft, minimal
+      color: warm grays or purples
+      opacity: light
+    highlights: subtle warmth
+  rendering:
+    technique: mixed media appearance
+    texture: visible paper texture, soft brushwork
+    detailLevel: simplified but expressive
+    finish: matte with gentle textures
+  perspective: slightly naive, not perfectly accurate
+  mood:
+    overall: warm, inviting, magical
+    emotion: wonder, safety, adventure
+    tempo: gentle, dreamlike
+    keywords:
+    - whimsical
+    - magical
+    - comforting
+    - imaginative
+    - nostalgic
+  stylePrecedents:
+  - Quentin Blake
+  - Maurice Sendak
+  - Beatrix Potter
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

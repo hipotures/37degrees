@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Growing Connection"
+  setting:
+    time: "1830s England, evening"
+    location: "Gothic manor house on Yorkshire moors, drawing room with fireplace"
+    weather: "Cold night with wind howling around manor walls"
+  characters:
+    - appearance: "Young woman, early 20s, small slight build, plain features, pale skin, dark hair pulled severely back, large expressive dark eyes, determined chin"
+      clothing: "Simple black mourning dress or grey governess dress, white collar and cuffs, black shoes, plain bonnet when outdoors"
+      position: "Seated in chair across from fireplace, leaning slightly forward in animated conversation"
+      action: "Speaking with growing confidence and passion, eyes bright with intellectual engagement, hands gesturing expressively"
+    - appearance: "Dark-haired man in his late 30s, tall broad-shouldered build, harsh angular features, penetrating dark eyes, weather-beaten complexion, slightly brooding expression"
+      clothing: "Dark wool coat over white shirt, black cravat, leather riding boots, disheveled from outdoor activities"
+      position: "Lounging in leather armchair opposite, completely absorbed in conversation"
+      action: "Leaning forward intently, chin resting on hand, studying companion with fascination and growing respect"
+  scene:
+    mainElements: "Warm firelight illuminating faces, comfortable furniture arranged for conversation, bookcases in shadows, winter storm outside"
+    details: "Fire crackling warmly in grate, oil lamps casting golden circles of light, wine glasses on side table, storm rattling windows, heavy curtains drawn against cold, intimate circle of warmth amid vast dark house"
+    background: "Rest of manor in darkness beyond drawing room, storm raging across moors, sense of being isolated together"
+    atmosphere: "Growing intellectual and emotional intimacy, social barriers dissolving in firelight, recognition of equals meeting, warmth conquering coldness and isolation"
+  composition:
+    cameraAngle: "Medium shot emphasizing intimate conversation by firelight"
+    focus: "Two minds meeting as equals, growing attraction transcending social differences"
+    depth: "Characters by fire in foreground, shadowed room in middle ground, storm-lashed windows in background"

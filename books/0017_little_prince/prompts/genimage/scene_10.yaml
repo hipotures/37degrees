@@ -1,0 +1,94 @@
+sceneDescription:
+  setting:
+    time: Timeless space environment, scholarly lighting suggesting library or academic atmosphere
+    location: Small spherical planet covered with maps, books, and academic instruments, organized but lifeless scholarly
+      environment, floating in space with distant stars providing reading light
+    weather: Still academic atmosphere with no natural elements, controlled indoor environment, dusty stillness suggesting
+      long isolation
+  characters:
+  - appearance: Young boy, approximately 7-8 years old, blonde curly hair reaching his shoulders, fair skin with rosy cheeks,
+      bright blue eyes filled with wonder and melancholy, slender build, average height for a child
+    clothing: Long golden-yellow coat reaching mid-thigh, white shirt underneath, long golden scarf flowing in wind, dark
+      blue or black trousers, simple black shoes, no gloves or hat
+    position: Standing beside academic desk looking increasingly frustrated and sad
+    action: Pointing toward distant stars and planets with animated gestures, face showing growing disappointment and disbelief,
+      shoulders sagging as realization of emptiness sets in, hands falling to sides in defeated gesture
+  - appearance: Elderly scholarly man with thick glasses, formal academic appearance, surrounded by books and papers, methodical
+      and precise but disconnected from reality
+    clothing: Formal academic robes or scholarly jacket, well-maintained but showing long indoor use, comfortable shoes for
+      standing at desk, multiple writing instruments
+    position: Seated at large desk covered with maps, books, and writing materials, never looking up from work
+    action: Meticulously writing in large books, occasionally consulting various maps and charts, adjusting glasses to read
+      fine print, completely absorbed in documentation work with no awareness of visitor
+  scene:
+    mainElements: Large academic desk covered with maps of unexplored territories, thick reference books, measuring instruments,
+      quill pens and ink, scholarly apparatus suggesting lifetime of study
+    details: Walls lined with completed volumes of geographical records, unused exploring equipment gathering dust, perfect
+      academic organization without practical application
+    background: Academic environment with scholarly furnishings, view of actual unexplored space and planets through windows,
+      ironic contrast between study subject and scholar's isolation
+    atmosphere: Growing disillusionment with academic emptiness, final disappointment in adult world obsessions, deepest sadness
+      yet at disconnect between knowledge and experience, no text or letters visible anywhere in scene
+  composition:
+    cameraAngle: Medium shot showing contrast between Prince's animated engagement with reality and scholar's detached documentation
+    focus: Prince's final gesture of defeated disappointment as he realizes this adult also misses the point of existence
+    depth: Foreground with Prince's emotional climax, middle ground with oblivious scholar at work, background showing the
+      real universe the scholar studies but never experiences
+visualElements:
+  colorPalette:
+    primary:
+    - translucent washes
+    - soft pastels
+    secondary:
+    - deeper pigments for accents
+    background: white paper showing through
+    usageNotes: Colors should bleed and blend naturally
+    saturation: variable - from muted to vibrant
+    contrast: soft to medium
+  lineArt:
+    style: minimal or suggested
+    weight: very thin if present
+    color: often absent or very light
+    texture: organic, flowing
+    edgeTreatment: soft, bleeding edges
+  lighting:
+    type: soft, diffused
+    direction: natural light
+    intensity: gentle
+    shadows:
+      style: translucent washes
+      color: cool tones mixed with base colors
+      opacity: transparent
+    highlights: white paper reserved or lifted paint
+  rendering:
+    technique: traditional watercolor on paper
+    texture: visible watercolor paper grain
+    detailLevel: impressionistic, not highly detailed
+    finish: organic with natural pigment accumulation
+  perspective: varied, often loose and interpretive
+  mood:
+    overall: delicate, flowing, organic
+    emotion: peaceful, dreamy, contemplative
+    tempo: calm, fluid
+    keywords:
+    - flowing
+    - organic
+    - delicate
+    - translucent
+    - artistic
+  postProcessing:
+    effects:
+    - wet on wet bleeding
+    - paper texture
+    - color pooling
+    filters: none
+    adjustments:
+      saturation: natural pigment saturation
+      contrast: soft
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

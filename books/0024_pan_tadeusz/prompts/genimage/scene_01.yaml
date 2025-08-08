@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: 1811, pre-dawn, 4:30 AM, last stars fading into deep blue sky
+    location: Lithuanian countryside approaching Soplicowo manor, rolling hills and birch groves in early morning mist
+    weather: Clear cool night transitioning to dawn, light mist rising from valleys, gentle morning breeze
+  characters:
+  - appearance: Young man, approximately 20 years old, handsome and robust with healthy complexion, slightly stocky build,
+      dark brown hair, oval face, dark brown eyes, strong physique
+    clothing: Urban attire from Vilnius - elegant frak coat in dark color, matching trousers, white linen shirt, leather boots,
+      later Polish military uniform with officer's insignia
+    position: Walking along dirt path toward distant manor silhouetted against lightening sky
+    action: Approaching family home after decade away, carrying travel bag, breathing in familiar morning air with growing
+      emotion
+  scene:
+    mainElements: Soplicowo manor house visible as dark silhouette on gentle hill, white-painted wooden walls beginning to
+      catch first hint of dawn light, birch grove surrounding estate creating protective embrace, clear stream reflecting
+      last stars
+    details: Morning mist rising like ghostly veils from valleys and meadows, spider webs heavy with dew strung between fence
+      posts gleaming like scattered diamonds, single bird beginning tentative dawn song from birch branch, crushed grass releasing
+      sweet scent under footsteps, distant sound of stream flowing over stones, air carrying promise of warming day
+    background: Lithuanian landscape rolling into distance under vast star-filled dome gradually lightening from deep purple
+      to pale blue, Venus bright as beacon above eastern horizon, dark line of primeval forest visible on far hills
+    atmosphere: World holding its breath before dawn's full arrival, profound stillness broken only by soft footsteps and
+      gentle stream sounds, sense of homecoming and new beginning, cool air carrying nostalgic scents of childhood landscape,
+      no text or letters visible
+  composition:
+    cameraAngle: Low angle following behind approaching figure on path
+    focus: Silhouetted traveler against gradually lightening sky with distant manor
+    depth: Foreground shows misty path with dew-covered grass, middle ground reveals approaching manor and protective birch
+      trees, background displays vast Lithuanian sky transitioning from night to dawn
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

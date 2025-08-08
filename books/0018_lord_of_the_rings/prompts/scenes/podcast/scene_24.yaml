@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Final Farewell at Grey Havens"
+  setting:
+    time: "Third Age of Middle-earth, sunset on day of final departure from Middle-earth"
+    location: "Grey Havens at western shore of Middle-earth, ancient elven port where ships depart for Undying Lands"
+    weather: "Golden sunset painting sky and sea, calm evening air, perfect sailing weather"
+  characters:
+    - appearance: "Wizard, elderly man appearance, tall around 6 feet, long white beard reaching chest, bright piercing eyes, radiant face with increased authority, white hair gleaming"
+      clothing: "Pure white robes flowing to ankles, white cloak, silver belt, white staff gleaming with power"
+      position: "Standing at gangplank of white ship, turned back toward shore for final farewell"
+      action: "Saying goodbye to companions who must remain in Middle-earth, gentle smile showing both sadness and joy"
+    - appearance: "Several hobbits showing effects of their great journey, shorter figures looking up at departing friend"
+      clothing: "Travel-worn but respectable hobbit clothes, cloaks for the journey to harbor"
+      position: "Standing on stone dock looking up at departing wizard"
+      action: "Waving farewell with expressions of love and loss, understanding this parting is forever"
+  scene:
+    mainElements: "White elven ship with silver sails ready for departure, stone harbor built in elegant curves, sunset painting everything golden"
+    details: "Graceful white ship with swan prow glowing golden in sunset light, silver sails beginning to catch evening breeze, stone dock built in flowing elven design, wizard in pure white robes standing at ship's rail with staff gleaming, small hobbit figures on dock made even smaller by distance and great ship, sunset painting water gold and orange, rope being cast off for final voyage, no text or letters visible"
+    background: "Coastline of Middle-earth golden in sunset light, open western sea stretching to invisible Undying Lands"
+    atmosphere: "Bittersweet parting between friends who have shared ultimate adventure, end of age and beginning of new one, sound of rigging and gentle waves, golden light creating magical farewell"
+  composition:
+    cameraAngle: "Wide shot showing the scale of departure with small figures against great ship"
+    focus: "The final parting between those who go to eternal reward and those who remain to build new world"
+    depth: "Foreground shows stone harbor with hobbit figures, middle ground features the departing white ship, background reveals golden sea leading to the West"

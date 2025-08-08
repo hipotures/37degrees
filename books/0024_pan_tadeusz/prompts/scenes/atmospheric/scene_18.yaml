@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Deep Night - Moonlight Creating Silver Landscapes"
+  setting:
+    time: "1811, deep night, 11:00 PM, full moon illuminating countryside in silver light"
+    location: "Lithuanian countryside with fields and forest edges under brilliant moonlight"
+    weather: "Clear night with full moon, slight breeze rustling vegetation, cool temperature"
+  characters:
+    - appearance: "Man around 40 years, military bearing despite religious habit, broad-shouldered well-built physique, face marked by distinctive scars - wide scar above right ear and lance or bullet wound mark on chin"
+      clothing: "Bernardine monk habit with hood concealing face, brown rough wool garment with rope belt, sandals, habit often dusty from travel"
+      position: "Walking along moonlit path between fields, moving with purposeful stealth"
+      action: "Traveling by night for secret political mission, occasionally checking surroundings, maintaining quiet movement despite urgent purpose"
+  scene:
+    mainElements: "Brilliant full moon casting strong shadows and illuminating landscape in silver light, fields appearing almost white under moonlight, trees creating dramatic black silhouettes"
+    details: "Moonlight so bright it creates distinct shadows, dew on grass catching silver light like scattered stars, night sounds of owls and distant wolves, mysterious quality of familiar landscape transformed by lunar illumination, path visible as pale ribbon through darker fields"
+    background: "Forest appearing as black wall against silver sky, distant hills visible as gentle curves under moonlight, star field visible around bright moon"
+    atmosphere: "Mysterious beauty of moonlit night travel, sense of secret purpose and danger, landscape transformed into magical silver realm, solitude and determination, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot emphasizing moonlight effects and shadow patterns"
+    focus: "Cloaked figure traveling through silver moonlit landscape"
+    depth: "Foreground shows moonlit path details, middle ground captures traveling figure, background reveals moonlit countryside"

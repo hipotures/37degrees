@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Mysterious Encounter"
+  setting:
+    time: "1830s England, afternoon"
+    location: "Gothic manor house on Yorkshire moors, library with leather-bound books"
+    weather: "Cloudy day with occasional sunbeams through tall windows"
+  characters:
+    - appearance: "Young woman, early 20s, small slight build, plain features, pale skin, dark hair pulled severely back, large expressive dark eyes, determined chin"
+      clothing: "Simple black mourning dress or grey governess dress, white collar and cuffs, black shoes, plain bonnet when outdoors"
+      position: "Standing near bookshelf with volume in hand, turning to face newcomer"
+      action: "Looking up with startled but curious expression, book half-closed in her hands, caught between retreat and engagement"
+    - appearance: "Dark-haired man in his late 30s, tall broad-shouldered build, harsh angular features, penetrating dark eyes, weather-beaten complexion, slightly brooding expression"
+      clothing: "Dark wool coat over white shirt, black cravat, leather riding boots, disheveled from outdoor activities"
+      position: "Standing in library doorway, leaning against frame with casual authority"
+      action: "Studying newcomer with intense scrutinizing gaze, arms crossed, slight smile playing at corners of mouth"
+  scene:
+    mainElements: "Floor-to-ceiling bookshelves, leather-bound volumes, comfortable chairs by fireplace, tall windows letting in shifting light"
+    details: "Dust motes dancing in afternoon sunbeams, rich leather book bindings, comfortable reading chairs, fire crackling in grate, Persian carpets on polished floors, oil paintings in heavy frames"
+    background: "Moors visible through library windows, gardens with ancient trees, sense of vast house beyond"
+    atmosphere: "Electric tension of first meeting, intellectual compatibility sensed immediately, social boundaries questioned, magnetic attraction beneath surface proprieties"
+  composition:
+    cameraAngle: "Medium shot capturing dynamic tension between two figures"
+    focus: "Moment of recognition and attraction between unlikely pair"
+    depth: "Two characters in library space in foreground, bookshelves in middle ground, windows showing moors in background"

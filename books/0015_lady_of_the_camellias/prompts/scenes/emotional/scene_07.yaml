@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Wilting Beauty in Shadow"
+  setting:
+    time: "1840s French countryside, overcast late afternoon"
+    location: "Modest country house in French countryside outside Paris, surrounded by natural gardens and rolling hills"
+    weather: "Heavy overcast sky with no direct sunlight, oppressive humidity in the air"
+  characters:
+    - appearance: "Woman, early twenties, pale complexion with delicate features, auburn hair styled in elegant 1840s fashion with center part and side curls, slender build, fragile due to illness, expressive dark eyes"
+      clothing: "Luxurious white silk evening gown with off-shoulder neckline, fitted bodice with tiny pearl buttons, full bell-shaped skirt, white lace gloves, pearl necklace, small pearl earrings"
+      position: "Standing gracefully with one hand holding camellia bouquet against her chest, other hand resting on nearby surface"
+      action: "Gazing with melancholic expression, breathing shallowly due to consumption"
+  scene:
+    mainElements: "Simple white-washed stone cottage with green shutters, climbing roses around doorframe, wooden garden gate, well-maintained flower beds, old oak tree providing shade"
+    details: "Fresh red camellia flowers arranged in small bouquet, deep crimson petals with velvet texture, dark green glossy leaves, tied with red silk ribbon. Garden flowers showing signs of wilting in humid air, leaves drooping slightly. Luminous white pearl necklace with perfectly matched spherical pearls appearing muted in dim light. Shadows from oak tree now dominating previously sunny garden spaces. No text or letters visible"
+    background: "Rolling hills appearing darker under overcast sky, distant landscape losing its previous warmth and brightness"
+    atmosphere: "Peaceful rural tranquility, escape from urban corruption, natural beauty offering healing and simple happiness"
+  composition:
+    cameraAngle: "Wide shot showing figure amid changing natural environment"
+    focus: "Woman with red camellias against backdrop of dimming countryside"
+    depth: "Foreground displays character in shadowed garden, middle ground shows cottage and drooping plants, background reveals darkening hills under heavy sky"
