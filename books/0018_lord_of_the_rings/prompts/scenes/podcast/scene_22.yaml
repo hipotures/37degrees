@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Last Ship from Middle-earth"
+  setting:
+    time: "Third Age of Middle-earth, ending at twilight as stars appear"
+    location: "Grey Havens at western shore of Middle-earth, ancient elven port where ships depart for Undying Lands"
+    weather: "Clear twilight with first stars appearing, gentle sea breeze, calm waters"
+  characters:
+    - appearance: "Several tall elegant figures with timeless beauty, pointed ears, flowing hair, ancient wisdom in their faces"
+      clothing: "Traveling robes in white and silver, elegant cloaks, simple circlets marking noble status"
+      position: "Standing on dock beside white ship preparing for final departure"
+      action: "Gazing back at Middle-earth one last time before boarding ship to sail into the West forever"
+  scene:
+    mainElements: "White elven ship with silver sails moored at stone pier, calm harbor waters reflecting starlight, ancient lighthouse on headland"
+    details: "Graceful white ship with swan-carved prow and silver sails furled for departure, stone harbor built in curves matching natural coastline, elves in white robes standing at ship's rail with expressions of bittersweet farewell, harbor reflecting first stars and ship's white hull, lighthouse with beacon beginning to glow as darkness falls, ropes being cast off for final voyage, no text or letters visible"
+    background: "Coastline of Middle-earth stretching away with forests and hills, open sea extending west toward invisible Undying Lands"
+    atmosphere: "Bittersweet ending of an age, ancient wisdom departing from world, sound of gentle waves against hull, sea breeze carrying salt and distant songs, sadness mixed with hope"
+  composition:
+    cameraAngle: "Medium wide shot from the harbor showing ship and departing elves"
+    focus: "The end of the age of elves and their departure to undying lands"
+    depth: "Foreground shows stone dock and harbor, middle ground features white ship and elven passengers, background reveals open sea leading west"

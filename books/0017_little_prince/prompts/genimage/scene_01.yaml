@@ -1,0 +1,94 @@
+sceneDescription:
+  setting:
+    time: 1943 Sahara Desert, early morning after aircraft crash, golden hour light
+    location: Vast Sahara Desert in North Africa, endless expanse of golden sand dunes stretching to horizon in all directions,
+      sparse vegetation, extreme isolation from human civilization
+    weather: Clear desert morning with gentle warm breeze, temperature still comfortable before midday heat
+  characters:
+  - appearance: Young boy, approximately 7-8 years old, blonde curly hair reaching his shoulders, fair skin with rosy cheeks,
+      bright blue eyes filled with wonder and melancholy, slender build, average height for a child
+    clothing: Long golden-yellow coat reaching mid-thigh, white shirt underneath, long golden scarf flowing in wind, dark
+      blue or black trousers, simple black shoes, no gloves or hat
+    position: Standing atop small sand dune about 20 feet from crashed aircraft
+    action: Gazing thoughtfully at distant horizon, speaking with earnest hand gestures, or walking with purposeful yet unhurried
+      steps across landscape
+  - appearance: Adult man in his 30s, weathered face with lines from sun exposure, brown hair slightly disheveled, tired but
+      kind eyes, lean build from physical hardship, stubbled jaw from days in desert
+    clothing: Khaki aviation jacket with multiple pockets, white or light blue shirt underneath, dark brown leather flying
+      gloves, aviation goggles around neck or on forehead, brown leather boots, military-style belt
+    position: Kneeling beside broken aircraft engine in sand below dune
+    action: Examining broken aircraft engine parts, sketching in notepad with pencil, wiping sweat from forehead with back
+      of hand, or listening intently with thoughtful expression
+  scene:
+    mainElements: Single-engine aircraft crashed in desert sand, silver metal fuselage partially buried, one wing twisted
+      at unnatural angle, propeller blades bent and damaged, engine compartment open exposing complex internal mechanisms,
+      scattered tools and parts around aircraft
+    details: Rolling sand dunes of various heights, scattered rock outcroppings, broken aircraft engine parts, pilot's supplies
+      spread on sand, vast empty sky meeting sand at distant horizon line, occasional desert plants
+    background: Endless golden sand dunes extending to distant horizon, clear blue sky with few wispy clouds, warm sunlight
+      creating long shadows, complete silence of vast desert
+    atmosphere: Sense of wonder and curiosity despite isolation, magical quality of unexpected encounter, gentle morning light
+      creating peaceful mood, no text or letters visible anywhere in scene
+  composition:
+    cameraAngle: Wide establishing shot from medium distance showing both figures in vast desert landscape
+    focus: Little Prince as central figure standing confidently on dune with pilot working below
+    depth: Multiple layers - foreground with crashed plane and pilot, middle ground with Prince on dune, background with endless
+      desert horizon
+visualElements:
+  colorPalette:
+    primary:
+    - translucent washes
+    - soft pastels
+    secondary:
+    - deeper pigments for accents
+    background: white paper showing through
+    usageNotes: Colors should bleed and blend naturally
+    saturation: variable - from muted to vibrant
+    contrast: soft to medium
+  lineArt:
+    style: minimal or suggested
+    weight: very thin if present
+    color: often absent or very light
+    texture: organic, flowing
+    edgeTreatment: soft, bleeding edges
+  lighting:
+    type: soft, diffused
+    direction: natural light
+    intensity: gentle
+    shadows:
+      style: translucent washes
+      color: cool tones mixed with base colors
+      opacity: transparent
+    highlights: white paper reserved or lifted paint
+  rendering:
+    technique: traditional watercolor on paper
+    texture: visible watercolor paper grain
+    detailLevel: impressionistic, not highly detailed
+    finish: organic with natural pigment accumulation
+  perspective: varied, often loose and interpretive
+  mood:
+    overall: delicate, flowing, organic
+    emotion: peaceful, dreamy, contemplative
+    tempo: calm, fluid
+    keywords:
+    - flowing
+    - organic
+    - delicate
+    - translucent
+    - artistic
+  postProcessing:
+    effects:
+    - wet on wet bleeding
+    - paper texture
+    - color pooling
+    filters: none
+    adjustments:
+      saturation: natural pigment saturation
+      contrast: soft
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "After Storm Clearing - Rainbow and Fresh World"
+  setting:
+    time: "1812, late afternoon, 5:30 PM, clearing sky after major storm passage"
+    location: "Soplicowo manor and surrounding countryside immediately after storm has passed"
+    weather: "Storm clearing rapidly with sun breaking through clouds, rainbow appearing, fresh washed air"
+  characters:
+    - appearance: "Young man, approximately 20 years old, handsome and robust with healthy complexion, slightly stocky build, dark brown hair, oval face, dark brown eyes, strong physique"
+      clothing: "Polish military uniform with officer's insignia"
+      position: "Standing in courtyard marveling at post-storm transformation, uniform slightly damp from recent rain"
+      action: "Observing dramatic sky clearing and rainbow appearance, breathing deeply of clean washed air, appreciating nature's renewal after violence"
+  scene:
+    mainElements: "Dramatic sky with storm clouds parting to reveal blue sky and sunshine, brilliant rainbow arcing across sky, every surface gleaming with fresh rainwater"
+    details: "Sun breaking through departing storm clouds in dramatic rays, rainbow spanning across sky in full spectrum of colors, puddles everywhere reflecting blue sky and white clouds, every leaf and blade of grass sparkling with water droplets, air so clean it seems crystalline, birds emerging to sing after storm"
+    background: "Storm clouds retreating as white and gray masses against brilliant blue sky, countryside appearing scrubbed and refreshed, sense of renewal and fresh beginning"
+    atmosphere: "Triumphant clearing after natural drama, sense of world being reborn clean and fresh, hope and renewal symbolized by rainbow, perfect clarity of washed air and gleaming surfaces, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot emphasizing rainbow and dramatic sky clearing"
+    focus: "Figure appreciating post-storm renewal with rainbow backdrop"
+    depth: "Foreground shows gleaming wet surfaces, middle ground captures appreciative figure, background dominated by rainbow and clearing sky"

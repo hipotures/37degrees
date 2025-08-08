@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1811, dawn, 5:15 AM, first golden rays piercing morning sky
+    location: Interior chamber of Soplicowo manor house, traditional Polish noble residence with wooden walls and period furnishings
+    weather: Clear morning with gentle warming, dew evaporating in early sunlight
+  characters:
+  - appearance: Young girl, 14 years old, delicate natural beauty, light blonde curly hair gleaming like crown on saint's
+      image, blue eyes, tanned complexion from outdoor work, swan-like neck, slender graceful build
+    clothing: Simple white dress reaching to chest revealing shoulders and neck, later traditional Lithuanian folk costume
+      with green-white skirt, white embroidered shirt, rosemary wreath
+    position: Moving gracefully near window arranging fresh flowers in simple pottery vase
+    action: Placing morning-picked flowers in water, humming softly to herself, occasionally glancing through window at awakening
+      landscape
+  scene:
+    mainElements: Long golden sunbeams streaming through tall windows casting geometric patterns on polished wooden floor,
+      traditional Polish interior with portraits of national heroes on whitewashed walls, simple but dignified furniture
+    details: Fresh wildflowers - daisies, cornflowers, wild roses - releasing delicate fragrance in morning warmth, golden
+      dust motes dancing in sunbeam columns, old wooden clock in carved case beginning to tick louder in morning quiet, lace
+      curtains stirring gently in fresh breeze through opened window, dewdrops on flowers catching and refracting rainbow
+      light
+    background: View through windows revealing awakening Lithuanian countryside, birch trees with leaves rustling in morning
+      breeze, smoke beginning to rise from kitchen chimney
+    atmosphere: Peaceful domestic awakening, golden morning light transforming simple room into warm sanctuary, natural beauty
+      and simple grace of rural life, sense of innocent youth and traditional values, no text or letters visible
+  composition:
+    cameraAngle: Medium shot from interior showing figure framed by golden window light
+    focus: Young woman arranging flowers with sunlight creating luminous halo around her figure
+    depth: Foreground shows flower arrangement and window details, middle ground captures graceful figure in golden light,
+      background reveals Lithuanian landscape through windows
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

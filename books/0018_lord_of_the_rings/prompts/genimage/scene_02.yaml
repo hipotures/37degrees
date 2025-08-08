@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: Third Age of Middle-earth, twilight hour when stars begin to appear
+    location: Hidden elven refuge in valley west of Misty Mountains, secret sanctuary also called Imladris, protected by elven
+      magic
+    weather: Clear evening air with first stars appearing, mist rising from valley streams
+  characters: []
+  scene:
+    mainElements: Graceful arched bridges over rushing river, tall spires and elegant buildings, terraced gardens, waterfalls
+      cascading down rocky walls
+    details: Delicate stone bridges spanning crystal-clear river with elven architecture of impossible grace, slender towers
+      reaching toward stars with windows glowing golden light, carefully tended gardens on terraced levels filled with exotic
+      flowers that seem to glow in twilight, multiple waterfalls creating symphony of falling water, elven lanterns casting
+      warm light without visible flame, no text or letters visible
+    background: Steep valley walls rising on either side covered in ancient trees, distant mountain peaks catching last light
+      of sunset
+    atmosphere: Timeless tranquil beauty, golden light that never fades, sound of harps and singing, air filled with scent
+      of elanor flowers
+  composition:
+    cameraAngle: Medium wide shot from across the valley showing the elven architecture
+    focus: The ethereal beauty of elven craftsmanship blending perfectly with natural landscape
+    depth: Foreground shows rushing river and bridge, middle ground features the main buildings and gardens, background shows
+      valley walls and distant peaks
+visualElements:
+  colorPalette:
+    primary:
+    - rich fantasy colors
+    - jewel tones
+    secondary:
+    - atmospheric colors
+    - magical glows
+    background: atmospheric, often dark or misty
+    usageNotes: Rich, layered colors with magical atmosphere
+    saturation: medium to high
+    contrast: medium to high
+  lineArt:
+    style: painterly, loose
+    weight: varied, often hidden
+    color: integrated into painting
+    texture: organic brushstrokes
+    edgeTreatment: soft, painterly edges
+  lighting:
+    type: dramatic, magical
+    direction: varied for atmosphere
+    intensity: high contrast areas
+    shadows:
+      style: painted, atmospheric
+      color: cool or warm depending on scene
+      opacity: varied
+    highlights: magical glows, rim lighting
+  rendering:
+    technique: digital painting with textured brushes
+    texture: dry media brush texture
+    detailLevel: moderate to high
+    finish: glazed, painterly
+  perspective: cinematic, dynamic
+  mood:
+    overall: mythological, otherworldly, epic
+    emotion: wonder, mystery, adventure
+    tempo: varies from calm to dramatic
+    keywords:
+    - epic
+    - mystical
+    - otherworldly
+    - fantasy
+    - mythological
+  stylePrecedents:
+  - Craig Mullins digital concept art
+  - Frank Frazetta fantasy paintings
+  - Boris Vallejo fantasy illustrations
+  - Magic: The Gathering card art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

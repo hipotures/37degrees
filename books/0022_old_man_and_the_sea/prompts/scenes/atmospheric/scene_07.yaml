@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Seeking Shade Under Tropical Glare"
+  setting:
+    time: "September 1950, early afternoon, 1:30 PM, heat at peak intensity"
+    location: "Deep blue waters of Gulf Stream current flowing northwest along Cuban coast, far from sight of land in all directions"
+    weather: "Scorching clear sky, heat waves visible, dead calm conditions"
+  characters:
+    - appearance: "Old man over 70 years, thin and gaunt but with strong sinewy arms, height average for elderly Cuban fisherman, weathered dark skin with deep wrinkles on neck and face, brown spots of benign skin cancer on cheeks, hands covered with deep old healed scars from fishing lines"
+      clothing: "Worn patched shirt faded by sun and salt, old threadbare trousers, often barefoot, straw hat when at sea for sun protection"
+      position: "Hunched under makeshift shade created by cloth over oars"
+      action: "Squinting against brutal sunlight, skin glistening with perspiration, rationing water from small container"
+  scene:
+    mainElements: "Endless expanse of deep blue to purple ocean water, horizon line meeting azure sky, no visible land or other vessels, surface occasionally broken by flying fish or dolphins"
+    details: "Sail constructed from old flour sacks stitched together with rough brown thread, faded lettering still visible on some patches, furled around mast when not in use, looks like flag of permanent defeat when hanging limp. Cloth rigged between oars creating minimal shade, sweat evaporating instantly in dry heat, metal fishing equipment too hot to handle, water in wooden bucket warming rapidly, air so still that smoke would rise straight up, surface tension of water broken only by occasional flying fish"
+    background: "Painfully bright sky creating white-out conditions at horizon, heat distortion making distant water appear to dance, no relief visible in any direction"
+    atmosphere: "Oppressive heat that tests human endurance, feeling of being cooked alive under tropical sun, time crawling by in blazing stillness, respectful fear of sun's power, no text or letters visible"
+  composition:
+    cameraAngle: "Close shot emphasizing struggle against harsh elements"
+    focus: "Figure creating and using improvised shade"
+    depth: "Foreground shows heat effects and shade-seeking behavior, middle ground captures sun's impact on water, background lost in heat haze"

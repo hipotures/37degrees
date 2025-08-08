@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Trapped in Crimson"
+  setting:
+    time: "1830s England, late afternoon"
+    location: "Spare bedchamber in Gateshead Hall where Mr. Reed died, kept as memorial room"
+    weather: "Stormy afternoon with dark clouds and occasional lightning flashes"
+  characters:
+    - appearance: "Young woman, early 20s, small slight build, plain features, pale skin, dark hair pulled severely back, large expressive dark eyes, determined chin"
+      clothing: "Simple black mourning dress or grey governess dress, white collar and cuffs, black shoes, plain bonnet when outdoors"
+      position: "Crouched in corner of room, knees drawn up to chest, back pressed against wall"
+      action: "Trembling with fear and suppressed rage, covering face with hands, struggling against invisible bonds of oppression"
+  scene:
+    mainElements: "Heavy red damask curtains and bedding, mahogany furniture, large bed with red velvet hangings, tall mirror reflecting frightened figure"
+    details: "Crimson walls seeming to pulse with menace, shadows dancing in corners, lightning illuminating room in stark flashes, heavy furniture looming threateningly, mirror reflecting multiple angles of fear, door locked from outside, window too high to reach"
+    background: "Storm raging outside tall windows, bare tree branches thrashing against glass, sound of thunder echoing through empty halls"
+    atmosphere: "Suffocating crimson darkness, supernatural dread, overwhelming sense of imprisonment and terror, powerless rage against injustice, claustrophobic fear"
+  composition:
+    cameraAngle: "Low angle emphasizing oppressive ceiling and towering furniture"
+    focus: "Trapped figure overwhelmed by hostile red environment"
+    depth: "Crouched figure in foreground, threatening furniture in middle ground, storm-lashed window in background"

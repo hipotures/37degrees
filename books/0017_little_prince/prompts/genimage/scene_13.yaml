@@ -1,0 +1,94 @@
+sceneDescription:
+  setting:
+    time: 1943 Sahara Desert, mid-morning with warm comfortable sunlight, peaceful atmosphere
+    location: Vast Sahara Desert in North Africa, endless expanse of golden sand dunes stretching to horizon in all directions,
+      sparse vegetation, extreme isolation from human civilization
+    weather: Perfect comfortable temperature with gentle breezes, golden sunlight creating warm welcoming environment
+  characters:
+  - appearance: Young boy, approximately 7-8 years old, blonde curly hair reaching his shoulders, fair skin with rosy cheeks,
+      bright blue eyes filled with wonder and melancholy, slender build, average height for a child
+    clothing: Long golden-yellow coat reaching mid-thigh, white shirt underneath, long golden scarf flowing in wind, dark
+      blue or black trousers, simple black shoes, no gloves or hat
+    position: Sitting slightly closer to fox than before, showing growing trust and connection
+    action: Extending hand slowly and gently toward fox with patient careful movements, face showing deep concentration and
+      reverence, expression of wonder at learning profound truth, breathing deeply with calm focus
+  - appearance: Small red fox with bright amber eyes, pointed ears alert and forward-facing, bushy tail with white tip, russet
+      red fur with darker markings around ears and paws, intelligent expression showing ancient wisdom
+    clothing: Natural golden-red fur coat, no artificial clothing or accessories, pristine condition suggesting wild but well-cared-for
+      state
+    position: Remaining still but relaxed, showing trust while maintaining natural caution, ears forward showing attention
+      and acceptance
+    action: Allowing gradual approach with patient dignity, eyes showing deep understanding, tail moving slightly to show
+      emotional engagement, posture showing wisdom and gentle teaching
+  scene:
+    mainElements: Sacred space of learning and connection, sand smoothed from repeated meetings, sense of ritual and patience,
+      natural classroom setting
+    details: Rolling sand dunes of various heights, scattered rock outcroppings, broken aircraft engine parts, pilot's supplies
+      spread on sand, vast empty sky meeting sand at distant horizon line, occasional desert plants
+    background: Peaceful desert setting with warm golden light, sense of timelessness and profound importance, gentle wind
+      creating comfortable atmosphere
+    atmosphere: Deep reverence and growing understanding, profound emotional learning, sacred quality of true connection,
+      patient wisdom being shared, no text or letters visible anywhere in scene
+  composition:
+    cameraAngle: Close intimate shot emphasizing the careful, sacred process of building trust
+    focus: The gentle, patient interaction showing the profound importance of taking time to build real connection
+    depth: Immediate foreground with hands and paws nearly touching, middle ground with full figures, background softly blurred
+      to emphasize intimacy
+visualElements:
+  colorPalette:
+    primary:
+    - translucent washes
+    - soft pastels
+    secondary:
+    - deeper pigments for accents
+    background: white paper showing through
+    usageNotes: Colors should bleed and blend naturally
+    saturation: variable - from muted to vibrant
+    contrast: soft to medium
+  lineArt:
+    style: minimal or suggested
+    weight: very thin if present
+    color: often absent or very light
+    texture: organic, flowing
+    edgeTreatment: soft, bleeding edges
+  lighting:
+    type: soft, diffused
+    direction: natural light
+    intensity: gentle
+    shadows:
+      style: translucent washes
+      color: cool tones mixed with base colors
+      opacity: transparent
+    highlights: white paper reserved or lifted paint
+  rendering:
+    technique: traditional watercolor on paper
+    texture: visible watercolor paper grain
+    detailLevel: impressionistic, not highly detailed
+    finish: organic with natural pigment accumulation
+  perspective: varied, often loose and interpretive
+  mood:
+    overall: delicate, flowing, organic
+    emotion: peaceful, dreamy, contemplative
+    tempo: calm, fluid
+    keywords:
+    - flowing
+    - organic
+    - delicate
+    - translucent
+    - artistic
+  postProcessing:
+    effects:
+    - wet on wet bleeding
+    - paper texture
+    - color pooling
+    filters: none
+    adjustments:
+      saturation: natural pigment saturation
+      contrast: soft
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

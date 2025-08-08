@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: Eternal winter evening in Narnia, warm firelight indoors
+    location: Cozy cave dwelling carved into reddish stone cliff face in Narnia, hidden entrance in rocky valley
+    weather: Cold winter outside, warm and dry inside cave
+  characters:
+  - appearance: Girl, 8 years old, small and delicate, bright golden curly hair, merry and trusting expression, radiant and
+      honest face
+    clothing: Simple blue wool dress with white collar, wool tights, small leather shoes, child's cardigan
+    position: Sitting in small wooden chair beside blazing fireplace, teacup in hands
+    action: Listening with fascination to Tumnus's stories, eyes wide with wonder and delight
+  - appearance: Male faun slightly taller than Lucy, human from waist up with curly brown hair, short pointed beard, brown
+      eyes, reddish skin, two small horns on forehead, goat legs from waist down with glossy black hair and cloven hooves,
+      long tail
+    clothing: Red woolen scarf around neck, carries umbrella and brown paper parcels
+    position: Sitting in matching chair across from Lucy, serving tea from simple pottery
+    action: Telling animated stories with expressive gestures, genuinely enjoying human company
+  scene:
+    mainElements: Small clean dry cave with burning fireplace, rug on floor, two small chairs, wooden table, dresser, bookshelf
+      above mantelpiece with portrait of elderly faun with grey beard
+    details: Crackling fire casting dancing shadows on red stone walls, cozy rug with intricate patterns beneath their feet,
+      simple wooden table set with teapot, cups and saucers, and plate of seedcake, dresser with domestic items showing civilized
+      life, bookshelf holding volumes with mysterious titles, portrait of Tumnus's father watching benevolently from above
+      mantel, warm golden firelight making cave feel like perfect refuge from winter cold
+    background: Red stone walls curving into deeper cave chambers, shelves with household items, glimpse of cave entrance
+      showing snowy forest beyond
+    atmosphere: Warm and welcoming refuge from cold outside, firelight dancing on red stone walls, smell of burning wood and
+      tea
+  composition:
+    cameraAngle: Intimate medium shot capturing cozy domestic scene by firelight
+    focus: Lucy and Tumnus sharing tea and conversation, emphasizing growing friendship
+    depth: Two characters in foreground by fire, furnished cave interior in middle ground, suggestion of deeper cave chambers
+      in background, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - bright red
+    - vivid blue
+    - sunny yellow
+    secondary:
+    - grass green
+    - purple
+    - orange
+    background: simple flat colors or patterns
+    usageNotes: Intense, saturated colors used intuitively
+    saturation: very high (bold, pure colors)
+    contrast: high (bright colors against each other)
+  lineArt:
+    style: simple, direct outlines
+    weight: consistent, moderate thickness
+    color: dark outlines or color boundaries
+    texture: hand-drawn quality, slight irregularities
+    edgeTreatment: simple, clean edges
+  lighting:
+    type: flat, even lighting (no sophisticated shading)
+    direction: front-lit, minimal shadows
+    intensity: bright, cheerful
+    shadows:
+      style: simple, flat shadows if any
+      color: darker version of base color
+      opacity: solid
+    highlights: minimal, simple bright spots
+  rendering:
+    technique: direct, intuitive application
+    texture: flat colors with simple patterns
+    detailLevel: high in some areas (obsessive detail), simple in others
+    finish: flat, matte appearance
+  perspective: flattened or incorrect perspective, childlike spatial relationships
+  mood:
+    overall: cheerful, innocent, direct
+    emotion: joy, simplicity, honesty
+    tempo: peaceful, content
+    keywords:
+    - cheerful
+    - innocent
+    - direct
+    - honest
+    - joyful
+  stylePrecedents:
+  - Henri Rousseau jungle paintings
+  - Grandma Moses rural scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

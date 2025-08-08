@@ -1,0 +1,96 @@
+sceneDescription:
+  setting:
+    time: 1940, rainy afternoon continuing
+    location: Nearly empty room in Professor's house containing only large wooden wardrobe
+    weather: Rain still drumming against windows
+  characters:
+  - appearance: Boy, 13 years old, tall and well-built for his age, natural leadership bearing, fair-haired English youth,
+      noble and serious facial features
+    clothing: Brown wool vest over white linen shirt, knee-length dark breeches, long socks, sturdy leather shoes, school
+      sweater
+    position: Standing in doorway surveying the sparse room
+    action: Suggesting they play hide and seek since room seems perfect for hiding
+  - appearance: Girl, 12 years old, graceful and poised, long straight black hair, the pretty one of the family, mature bearing,
+      gentle facial features
+    clothing: Simple wool dress in muted blue-grey, practical school cardigan, dark stockings, sensible shoes
+    position: Examining the wardrobe's exterior with practical interest
+    action: Running hand along wardrobe's carved wood, commenting on its age and craftsmanship
+  - appearance: Boy, 10 years old, smaller build than Peter, dark hair, initially sullen and spiteful expression, later shows
+      repentance and courage
+    clothing: School shorts, white shirt, grey wool pullover, long socks, black school shoes
+    position: Lounging against wall, not particularly interested
+    action: Half-heartedly agreeing to game while looking bored and restless
+  - appearance: Girl, 8 years old, small and delicate, bright golden curly hair, merry and trusting expression, radiant and
+      honest face
+    clothing: Simple blue wool dress with white collar, wool tights, small leather shoes, child's cardigan
+    position: Immediately drawn to the wardrobe with fascination
+    action: Approaching wardrobe doors with curious excitement, already planning to hide inside
+  scene:
+    mainElements: Large old-fashioned wooden wardrobe with mirror in doors, completely ordinary appearance from outside, interior
+      filled with rows of heavy fur coats smelling of mothballs, back opens magically into Narnia
+    details: Nearly bare room with dusty floorboards, single dead fly on windowsill emphasizing emptiness and silence, wardrobe
+      dominating space with its imposing presence, carved wooden panels worn smooth with age, mirror in doors reflecting grey
+      window light, heavy brass handles and hinges showing signs of long use, smell of old wood and mothballs
+    background: Rain-streaked windows showing grey countryside, empty room stretching beyond wardrobe, corridor visible through
+      open doorway
+    atmosphere: Quiet anticipation building, sense that something significant is about to happen, perfect hiding place discovered,
+      childhood game about to lead to adventure, ordinary becoming extraordinary, no text or letters visible
+  composition:
+    cameraAngle: Medium shot focusing on wardrobe as central element, children positioned around it
+    focus: Wardrobe as focal point with Lucy showing most interest, other children as supporting elements
+    depth: Wardrobe prominent in middle ground, children arranged in foreground, empty room receding into background
+visualElements:
+  colorPalette:
+    primary:
+    - bright red
+    - vivid blue
+    - sunny yellow
+    secondary:
+    - grass green
+    - purple
+    - orange
+    background: simple flat colors or patterns
+    usageNotes: Intense, saturated colors used intuitively
+    saturation: very high (bold, pure colors)
+    contrast: high (bright colors against each other)
+  lineArt:
+    style: simple, direct outlines
+    weight: consistent, moderate thickness
+    color: dark outlines or color boundaries
+    texture: hand-drawn quality, slight irregularities
+    edgeTreatment: simple, clean edges
+  lighting:
+    type: flat, even lighting (no sophisticated shading)
+    direction: front-lit, minimal shadows
+    intensity: bright, cheerful
+    shadows:
+      style: simple, flat shadows if any
+      color: darker version of base color
+      opacity: solid
+    highlights: minimal, simple bright spots
+  rendering:
+    technique: direct, intuitive application
+    texture: flat colors with simple patterns
+    detailLevel: high in some areas (obsessive detail), simple in others
+    finish: flat, matte appearance
+  perspective: flattened or incorrect perspective, childlike spatial relationships
+  mood:
+    overall: cheerful, innocent, direct
+    emotion: joy, simplicity, honesty
+    tempo: peaceful, content
+    keywords:
+    - cheerful
+    - innocent
+    - direct
+    - honest
+    - joyful
+  stylePrecedents:
+  - Henri Rousseau jungle paintings
+  - Grandma Moses rural scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

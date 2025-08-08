@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Profound Contentment and Wisdom"
+  setting:
+    time: "Timeless space environment, gentle eternal twilight with perfect contemplative lighting"
+    location: "Small spherical asteroid floating in deep space, approximately 30 feet in diameter, curved surface allowing view of entire planet from any point, surrounded by star-filled black space"
+    weather: "Perfect peaceful environment with gentle cosmic breezes, ideal temperature for contemplation, eternal twilight comfort"
+  characters:
+    - appearance: "Young boy, approximately 7-8 years old, blonde curly hair reaching his shoulders, fair skin with rosy cheeks, bright blue eyes filled with wonder and melancholy, slender build, average height for a child"
+      clothing: "Long golden-yellow coat reaching mid-thigh, white shirt underneath, long golden scarf flowing in wind, dark blue or black trousers, simple black shoes, no gloves or hat"
+      position: "Sitting peacefully beside rose dome in comfortable meditation posture, completely at ease"
+      action: "Sitting in quiet contemplation with hands resting gently on knees, face showing profound peace and contentment, occasional loving glances toward rose, breathing deeply with complete satisfaction and wisdom"
+    - appearance: "Single magnificent rose flower, deep red petals with velvety texture, four perfect thorns visible on green stem, bright green leaves, standing approximately 12 inches tall, petals slightly open showing golden center"
+      clothing: "Transparent glass dome covering entire flower for protection, crystal clear glass reflecting light, dome sits on small patch of carefully tended soil"
+      position: "Standing regally in center of protective glass dome, positioned beside Prince in companionable silence"
+      action: "Swaying gently in contentment, petals open and relaxed showing complete trust and happiness, occasional gentle movement toward Prince showing affection and peace"
+  scene:
+    mainElements: "Transparent glass dome covering entire flower for protection, crystal clear glass reflecting light, dome sits on small patch of carefully tended soil"
+    details: "Three small conical volcanoes on asteroid surface, two active volcanoes with thin wisps of smoke rising from craters, one extinct volcano with cold dark opening, each approximately 4 feet tall, positioned at different points around small planet's curved surface"
+    background: "Magnificent starfield stretching infinitely, sense of cosmic peace and completion, eternal beauty and harmony, profound stillness and contentment"
+    atmosphere: "Complete peace and contentment, profound wisdom and understanding, perfect harmony between love and responsibility, eternal tranquility and fulfillment, no text or letters visible anywhere in scene"
+  composition:
+    cameraAngle: "Medium shot showing peaceful companionship and complete contentment"
+    focus: "Prince's profound peace and wisdom gained through love and responsibility"
+    depth: "Foreground with peaceful companionship, middle ground with complete planet harmony, background with infinite peaceful starfield"

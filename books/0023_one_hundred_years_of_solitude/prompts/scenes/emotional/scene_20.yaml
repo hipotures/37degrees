@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "House of Echoes and Memories"
+  setting:
+    time: "1930s Colombian Caribbean coast, twilight in decaying mansion"
+    location: "Interior of ruined Buendía house with only few remaining family members, Colombian jungle village"
+    weather: "Humid tropical evening with occasional breeze through broken windows"
+  characters:
+    - appearance: "Woman, teenage to over 115 years old, described as active, small, stern woman with steel nerves, embodiment of vitality and strength through most of life, in old age when loses sight body begins to shrink, at end of life becomes so small and light resembles newborn or doll, skin becomes wrinkled and transparent"
+      clothing: "Dark, stern, simple dresses throughout life reflecting pragmatism and mourning for family members, characteristic stiff starched petticoats that make quiet whisper during constant bustling"
+      position: "Sitting in deteriorating rocking chair in main room"
+      action: "Moving slowly with hands feeling way around familiar objects, nearly blind but still maintaining household routine"
+    - appearance: "Young woman, last generation of Buendía family, represents final hope for family renewal"
+      clothing: "Simple modern dress showing influence of changing times"
+      position: "Standing in doorway preparing to leave for outside world"
+      action: "Looking back with mixture of love and determination to escape family fate"
+    - appearance: "Young man, descendant representing scholarly pursuits and family obsession with knowledge"
+      clothing: "Simple scholarly clothing appropriate for reading and study"
+      position: "Seated at table covered with ancient books and manuscripts"
+      action: "Reading intensely by candlelight, absorbed in deciphering family mysteries"
+  scene:
+    mainElements: "House transformed into labyrinth of memory and decay, rooms filled with accumulated possessions of seven generations, furniture covered in dust and cobwebs, walls stained by time and humidity, corridors echoing with ghosts of past, atmosphere thick with accumulated history"
+    details: "Ancient furniture crumbling with age, family photographs faded beyond recognition, books and papers scattered throughout rooms, spider webs connecting objects like museum displays, air heavy with scent of old wood and accumulated time, candles providing only illumination in growing darkness, no readable text on deteriorating documents"
+    background: "Multiple rooms visible through doorways each filled with remnants of different generations, courtyard visible with chestnut tree now ancient beyond measure, village beyond showing similar decay and abandonment"
+    atmosphere: "House as repository of century of memories, family reduced to few survivors carrying weight of entire genealogical history, sense of ending approaching but also continuity through survivors"
+  composition:
+    cameraAngle: "Wide shot showing multiple rooms and family members in different spaces"
+    focus: "Úrsula as blind guardian of memories while younger generation prepares for different future"
+    depth: "Foreground: accumulated objects of family history, middle: three generations in same space, background: rooms extending into darkness filled with century of possessions"

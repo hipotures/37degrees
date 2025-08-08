@@ -1,6 +1,7 @@
 book_info:
-  title: "Władca Pierścieni"
+  title: "The Lord of the Rings"
+  title_pl: "Władca Pierścieni"
   author: "J.R.R. Tolkien"
   year: 1954
   genre: "Fantasy"
-  reading_time: "40-50 godzin"
+  reading_time: "40-50 hours"

@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: 1840s Paris, peaceful dawn breaking after long dark night
+    location: Sparsely furnished bedroom in Marguerite's apartment, stripped of former luxury due to financial ruin
+    weather: Gentle morning light filtering through windows, soft and warm, storm finally passed
+  characters:
+  - appearance: Woman, early twenties, pale complexion with delicate features, auburn hair styled in elegant 1840s fashion
+      with center part and side curls, slender build, fragile due to illness, expressive dark eyes
+    clothing: Luxurious white silk evening gown with off-shoulder neckline, fitted bodice with tiny pearl buttons, full bell-shaped
+      skirt, white lace gloves, pearl necklace, small pearl earrings
+    position: Lying peacefully on bed, face turned toward window to catch morning light, arms relaxed at sides
+    action: Breathing more easily now, eyes closed with expression of profound peace, slight smile on lips
+  - appearance: Middle-aged woman, early forties, brown hair pulled back in simple bun, kind round face with warm brown eyes,
+      average height, sturdy build, worn hands from work
+    clothing: Simple black servant's dress with white lace collar and cuffs, white cotton apron tied at waist, small white
+      cap, black stockings, practical black shoes
+    position: Sitting back in chair with shoulders finally relaxed, hands no longer clenched in worry
+    action: Watching dawn light touch her mistress's face, tears of relief streaming down her own weathered cheeks
+  scene:
+    mainElements: Simple wooden bed with white linen sheets, single wooden chair beside bed, plain wooden table with medicine
+      bottles, bare walls with single religious crucifix, small window with simple curtains
+    details: Fresh white camellia flowers arranged in small bouquet glowing in morning light, pristine ivory-white petals
+      with waxy texture appearing luminous and peaceful, dark green glossy leaves, white silk ribbon. Morning light streaming
+      through window creating gentle golden patterns on walls. Luminous white pearl necklace with perfectly matched spherical
+      pearls catching dawn light with soft radiance. Candle finally extinguished, no longer needed. No text or letters visible
+    background: Small window now revealing gentle dawn sky, curtains moving slightly with fresh morning breeze, room filled
+      with peaceful natural light
+    atmosphere: Austere solemnity, spiritual purification through suffering, quiet dignity in poverty, sacred peaceful quality
+      of approaching death
+  composition:
+    cameraAngle: Soft, reverent shot emphasizing the gentle transformation from darkness to light
+    focus: Peaceful figure bathed in dawn light with devoted servant witnessing the moment
+    depth: Foreground shows luminous camellias in morning light, middle ground captures the scene of peace, background displays
+      gentle dawn breaking through windows
+visualElements:
+  colorPalette:
+    primary:
+    - muted golds
+    - deep greens
+    - burgundy
+    - peacock blue
+    secondary:
+    - ivory
+    - dusty rose
+    - sage green
+    background: aged paper or decorative patterns
+    usageNotes: Rich but muted tones with metallic accents
+    saturation: medium, sophisticated
+    contrast: elegant, balanced
+  lineArt:
+    style: flowing, sinuous curves
+    weight: varied, decorative
+    color: dark brown or black with gold accents
+    texture: smooth, refined
+    edgeTreatment: organic, plant-like curves
+  lighting:
+    type: decorative, non-realistic
+    direction: integrated into design
+    intensity: balanced throughout
+    shadows:
+      style: decorative, part of pattern
+      color: deeper tones of base colors
+      opacity: integrated
+    highlights: gold leaf effects
+  rendering:
+    technique: decorative illustration
+    texture: smooth with ornamental details
+    detailLevel: high in decoration, simplified figures
+    finish: refined, poster-like
+  perspective: flattened, decorative
+  mood:
+    overall: elegant, romantic, sophisticated
+    emotion: beauty, refinement, nostalgia
+    tempo: flowing, graceful
+    keywords:
+    - elegant
+    - decorative
+    - romantic
+    - ornate
+    - sophisticated
+  stylePrecedents:
+  - Alphonse Mucha
+  - Gustav Klimt
+  - Aubrey Beardsley
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

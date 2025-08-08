@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Departure into Unknown"
+  setting:
+    time: "1830s England, early morning"
+    location: "Charity school for orphaned girls in remote Yorkshire valley, courtyard near main entrance"
+    weather: "Clear morning with fresh breeze, sun breaking through lingering clouds"
+  characters:
+    - appearance: "Young woman, early 20s, small slight build, plain features, pale skin, dark hair pulled severely back, large expressive dark eyes, determined chin"
+      clothing: "Simple black mourning dress or grey governess dress, white collar and cuffs, black shoes, plain bonnet when outdoors"
+      position: "Standing beside horse-drawn carriage, small travelling bag in hand"
+      action: "Looking back at school with mixed emotions, then turning face toward open road with cautious hope and determination"
+  scene:
+    mainElements: "Stone school buildings behind, horse and carriage waiting, open road stretching into distance, morning light revealing new possibilities"
+    details: "Simple carriage with modest luggage, horses pawing ground impatiently, cobblestone courtyard, school windows reflecting morning sun, few belongings packed in worn bag, driver waiting patiently"
+    background: "Yorkshire countryside opening beyond school walls, rolling hills promising new adventures, path leading toward uncertain future"
+    atmosphere: "Cautious optimism mixed with apprehension, end of one chapter and beginning of another, courage to embrace unknown, residual sadness balanced by growing hope"
+  composition:
+    cameraAngle: "Medium shot showing departure as transition between past and future"
+    focus: "Figure caught between familiar past and uncertain future, embodying courage to change"
+    depth: "Character with carriage in foreground, school buildings in middle ground, open countryside in background"

@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Third Age, unknown time underground
+    location: Dark underground tunnel system beneath Misty Mountains, narrow rocky passages carved by goblins
+    weather: Cold damp air underground, no natural light
+  characters:
+  - appearance: Middle-aged hobbit, late 40s, curly brown hair, round cheerful face, short stature, slightly portly build,
+      bright hazel eyes
+    clothing: Forest green velvet waistcoat, cream-colored linen shirt with brass buttons, brown woolen breeches, yellow silk
+      handkerchief in waistcoat pocket, now disheveled and dirty
+    position: Crawling through narrow rocky tunnel on hands and knees
+    action: Feeling way forward in darkness with outstretched hands, breathing heavily from fear and exertion, occasionally
+      stopping to listen for sounds
+  scene:
+    mainElements: Narrow rocky tunnel carved roughly from mountain stone, complete darkness except for faint light source
+      ahead, uneven rocky floor
+    details: Rough stone walls with chisel marks from goblin excavation, low ceiling forcing traveler to crawl, loose rocks
+      and debris on tunnel floor, occasional water drips creating small puddles, faint glimmer of light visible far ahead
+      in tunnel, scrape marks on walls from countless passages, damp moss growing in crevices
+    background: Branching tunnels disappearing into complete blackness, sound of distant water echoing, maze-like network
+      of goblin passages
+    atmosphere: Claustrophobic fear in complete darkness, sense of being utterly lost underground, mountain's crushing weight
+      above, growing desperation and isolation, no text or letters visible
+  composition:
+    cameraAngle: Low angle following hobbit through tunnel, emphasizing confined space
+    focus: Bilbo's determined crawling toward distant light representing hope
+    depth: Bilbo filling narrow tunnel in foreground, dark tunnel walls in middle ground, faint light beckoning in background
+visualElements:
+  colorPalette:
+    primary:
+    - warm pastels
+    - soft earth tones
+    - gentle blues and greens
+    secondary:
+    - bright accent colors for details
+    background: soft washes or textured paper
+    usageNotes: Harmonious colors that feel safe and inviting
+    saturation: medium, slightly muted
+    contrast: gentle, no harsh transitions
+  lineArt:
+    style: soft, organic lines
+    weight: varied, hand-drawn quality
+    color: brown or dark color, not pure black
+    texture: slightly rough, pencil-like
+    edgeTreatment: gentle, rounded forms
+  lighting:
+    type: warm, comforting
+    direction: soft overall illumination
+    intensity: gentle
+    shadows:
+      style: soft, minimal
+      color: warm grays or purples
+      opacity: light
+    highlights: subtle warmth
+  rendering:
+    technique: mixed media appearance
+    texture: visible paper texture, soft brushwork
+    detailLevel: simplified but expressive
+    finish: matte with gentle textures
+  perspective: slightly naive, not perfectly accurate
+  mood:
+    overall: warm, inviting, magical
+    emotion: wonder, safety, adventure
+    tempo: gentle, dreamlike
+    keywords:
+    - whimsical
+    - magical
+    - comforting
+    - imaginative
+    - nostalgic
+  stylePrecedents:
+  - Quentin Blake
+  - Maurice Sendak
+  - Beatrix Potter
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

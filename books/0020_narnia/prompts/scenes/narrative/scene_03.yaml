@@ -1,0 +1,32 @@
+sceneDescription:
+  title: "Exploring the Mysterious House"
+  setting:
+    time: "1940, next morning, rainy day indoors"
+    location: "Long echoing corridors inside Professor's country house, sequence of empty rooms"
+    weather: "Heavy rain pattering against diamond-paned windows"
+  characters:
+    - appearance: "Boy, 13 years old, tall and well-built for his age, natural leadership bearing, fair-haired English youth, noble and serious facial features"
+      clothing: "Brown wool vest over white linen shirt, knee-length dark breeches, long socks, sturdy leather shoes, school sweater"
+      position: "Leading exploration through long corridor lined with portraits"
+      action: "Opening doors and peering into rooms, narrating what he sees to siblings"
+    - appearance: "Girl, 12 years old, graceful and poised, long straight black hair, the pretty one of the family, mature bearing, gentle facial features"
+      clothing: "Simple wool dress in muted blue-grey, practical school cardigan, dark stockings, sensible shoes"
+      position: "Following cautiously behind Peter, staying close to group"
+      action: "Running fingers along dusty furniture, examining portraits with curious interest"
+    - appearance: "Boy, 10 years old, smaller build than Peter, dark hair, initially sullen and spiteful expression, later shows repentance and courage"
+      clothing: "School shorts, white shirt, grey wool pullover, long socks, black school shoes"
+      position: "Wandering separately, investigating side rooms on his own"
+      action: "Touching forbidden objects, making faces at old paintings, being deliberately mischievous"
+    - appearance: "Girl, 8 years old, small and delicate, bright golden curly hair, merry and trusting expression, radiant and honest face"
+      clothing: "Simple blue wool dress with white collar, wool tights, small leather shoes, child's cardigan"
+      position: "Skipping ahead of the group, most excited by exploration"
+      action: "Trying door handles, peeking under dust covers, calling out discoveries to others"
+  scene:
+    mainElements: "Tudor-style manor with countless stairs and passages, empty or sparsely furnished rooms, long room full of pictures including suit of armor, green room with harp in corner"
+    details: "Dark oak paneling gleaming in dim light, family portraits in ornate frames watching from walls, sheets covering furniture creating ghostly shapes, suit of medieval armor standing guard in alcove, elegant harp strings catching light from tall windows, dust motes dancing in window light, creaking floorboards under exploring feet"
+    background: "More corridors stretching into shadow, closed doors suggesting endless rooms, rain streaming down outside windows"
+    atmosphere: "Quiet mystery and adventure, sense of discovering secrets, anticipation building with each new room, slight eeriness from empty spaces and covered furniture, perfect day for indoor exploration, no text or letters visible"
+  composition:
+    cameraAngle: "Tracking shot following children through corridor, emphasizing length and grandeur"
+    focus: "Four children moving as group through imposing interior, emphasizing their small size against grand architecture"
+    depth: "Children in foreground moving through rooms, middle ground shows furnished spaces and artifacts, background fades into mysterious shadowy corridors"

@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1811, late afternoon, 5:00 PM, crystal clear air following thunderstorm passage
+    location: Soplicowo manor courtyard immediately after summer storm, everything washed clean and gleaming
+    weather: Perfect clarity after storm, every surface gleaming with rainwater, air fresh and clean
+  characters:
+  - appearance: Elderly man around 72 years, cheerful animated face, lively eyes, sprightly despite advanced age, respected
+      dignified appearance
+    clothing: Traditional nobleman's attire appropriate for feast master, during cooking may wear apron or cooking coat, ceremonial
+      dress for formal occasions
+    position: Standing in doorway of manor surveying storm aftermath with satisfaction
+    action: Breathing deeply of clean washed air, observing how storm has refreshed the landscape, planning outdoor activities
+      now that weather has cleared
+  scene:
+    mainElements: Every surface gleaming with fresh rainwater acting as mirrors, white manor walls reflecting brilliant blue
+      sky and white clouds, puddles creating perfect reflections of buildings and sky
+    details: Raindrops still clinging to every leaf and blade of grass like crystal ornaments, surfaces reflecting light in
+      countless tiny mirrors, air so clean and clear that distant objects appear incredibly sharp and detailed, fresh scent
+      of washed earth and vegetation, sound of water dripping rhythmically from eaves and branches, birds beginning to emerge
+      and sing with renewed vigor
+    background: Storm clouds departing as white masses against brilliant blue sky, rainbow fragment visible in distance, landscape
+      appearing scrubbed and refreshed
+    atmosphere: Crystalline clarity and freshness after storm cleansing, sense of renewal and fresh beginning, brilliant reflective
+      beauty of water-washed world, perfect conditions for outdoor gatherings, no text or letters visible
+  composition:
+    cameraAngle: Medium shot emphasizing reflective surfaces and crystal clarity
+    focus: Figure appreciating storm aftermath with gleaming courtyard surroundings
+    depth: Foreground shows detailed water reflections and gleaming surfaces, middle ground captures appreciative figure,
+      background reveals clearing sky and fresh landscape
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

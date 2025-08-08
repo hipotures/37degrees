@@ -1,6 +1,7 @@
 book_info:
-  title: "Lalka"
+  title: "The Doll"
+  title_pl: "Lalka"
   author: "Bolesław Prus"
   year: 1890
-  genre: "Powieść społeczna"
-  reading_time: "20-25 godzin"
+  genre: "Social novel"
+  reading_time: "20-25 hours"

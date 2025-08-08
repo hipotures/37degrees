@@ -1,6 +1,7 @@
 book_info:
-  title: "Podróże Guliwera"
+  title: "Gulliver's Travels"
+  title_pl: "Podróże Guliwera"
   author: "Jonathan Swift"
   year: 1726
-  genre: "Satyra przygodowa"
-  reading_time: "10-12 godzin"
+  genre: "Adventure satire"
+  reading_time: "10-12 hours"

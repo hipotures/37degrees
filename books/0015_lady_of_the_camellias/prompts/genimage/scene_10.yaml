@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1840s Paris, lonely late evening
+    location: Luxurious Second Empire Parisian salon in upscale district, ornate high-ceilinged interior with tall windows
+    weather: Cold night with wind howling outside, rattling window panes
+  characters:
+  - appearance: Middle-aged woman, early forties, brown hair pulled back in simple bun, kind round face with warm brown eyes,
+      average height, sturdy build, worn hands from work
+    clothing: Simple black servant's dress with white lace collar and cuffs, white cotton apron tied at waist, small white
+      cap, black stockings, practical black shoes
+    position: Standing alone beside empty chair, wringing hands anxiously, looking toward closed door
+    action: Waiting with growing concern, occasionally glancing at untouched tea service and abandoned flowers
+  scene:
+    mainElements: Opulent red velvet sofas with gold trim, mahogany piano against wall, marble fireplace with gilt mirror
+      above, crystal chandelier hanging from decorated ceiling
+    details: Fresh red camellia flowers arranged in small bouquet lying wilted and abandoned on empty chair, deep crimson
+      petals with velvet texture, dark green glossy leaves, tied with red silk ribbon. Untouched tea service growing cold
+      on silver tray, two cups set but only one used. Luminous white pearl necklace with perfectly matched spherical pearls
+      left forgotten on table. Door that was previously open now firmly closed. No text or letters visible
+    background: Previously welcoming salon now feeling empty and hollow, shadows cast by flickering gaslight creating sense
+      of abandonment
+    atmosphere: Sumptuous wealth mixed with feminine refinement, warm gaslight creating golden glow, subtle air of melancholy
+  composition:
+    cameraAngle: Wide shot emphasizing emptiness and disrupted routine in once-familiar space
+    focus: Lone servant figure and empty chair where someone was expected
+    depth: Foreground shows abandoned camellias and pearls, middle ground captures waiting servant, background reveals closed
+      door and empty luxury
+visualElements:
+  colorPalette:
+    primary:
+    - muted golds
+    - deep greens
+    - burgundy
+    - peacock blue
+    secondary:
+    - ivory
+    - dusty rose
+    - sage green
+    background: aged paper or decorative patterns
+    usageNotes: Rich but muted tones with metallic accents
+    saturation: medium, sophisticated
+    contrast: elegant, balanced
+  lineArt:
+    style: flowing, sinuous curves
+    weight: varied, decorative
+    color: dark brown or black with gold accents
+    texture: smooth, refined
+    edgeTreatment: organic, plant-like curves
+  lighting:
+    type: decorative, non-realistic
+    direction: integrated into design
+    intensity: balanced throughout
+    shadows:
+      style: decorative, part of pattern
+      color: deeper tones of base colors
+      opacity: integrated
+    highlights: gold leaf effects
+  rendering:
+    technique: decorative illustration
+    texture: smooth with ornamental details
+    detailLevel: high in decoration, simplified figures
+    finish: refined, poster-like
+  perspective: flattened, decorative
+  mood:
+    overall: elegant, romantic, sophisticated
+    emotion: beauty, refinement, nostalgia
+    tempo: flowing, graceful
+    keywords:
+    - elegant
+    - decorative
+    - romantic
+    - ornate
+    - sophisticated
+  stylePrecedents:
+  - Alphonse Mucha
+  - Gustav Klimt
+  - Aubrey Beardsley
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

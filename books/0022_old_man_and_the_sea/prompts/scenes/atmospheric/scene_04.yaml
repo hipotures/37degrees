@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Morning Departure Through Lifting Mist"
+  setting:
+    time: "September 1950, early morning, 6:30 AM, sun fully risen"
+    location: "Deep blue waters of Gulf Stream current flowing northwest along Cuban coast, far from sight of land in all directions"
+    weather: "Clear morning, light sea mist dissipating, gentle swells from northeast"
+  characters:
+    - appearance: "Old man over 70 years, thin and gaunt but with strong sinewy arms, height average for elderly Cuban fisherman, weathered dark skin with deep wrinkles on neck and face, brown spots of benign skin cancer on cheeks, hands covered with deep old healed scars from fishing lines"
+      clothing: "Worn patched shirt faded by sun and salt, old threadbare trousers, often barefoot, straw hat when at sea for sun protection"
+      position: "Seated in stern of small fishing boat, hands on wooden oars"
+      action: "Rowing steadily away from coast, watching mist clear to reveal infinite ocean"
+  scene:
+    mainElements: "Endless expanse of deep blue to purple ocean water, horizon line meeting azure sky, no visible land or other vessels, surface occasionally broken by flying fish or dolphins"
+    details: "Small wooden fishing boat approximately 16 feet long, weathered but seaworthy, single mast with patched sail sewn from flour sacks, simple wooden oars, no motor, painted hull faded from years of sun and salt. Wisps of morning mist hanging just above water surface, boat wake creating V-shaped trail in calm sea, sail furled around mast in neat bundle, coiled fishing lines arranged in stern, flying fish occasionally breaking surface in silver arcs, water temperature warm enough to trail fingers"
+    background: "Cuban coastline fading to thin green line on western horizon, vast open ocean stretching endlessly in all directions, sky clearing from pink dawn colors to pure blue"
+    atmosphere: "Profound silence broken only by rhythmic splash of oars and boat movement through water, sense of entering timeless realm where man meets nature alone, growing warmth as sun climbs higher, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot from slightly elevated position showing boat's relationship to vast ocean"
+    focus: "Small boat as single human presence in immense natural world"
+    depth: "Foreground shows detailed boat interior, middle ground captures surrounding water patterns, background extends to infinite horizon line"

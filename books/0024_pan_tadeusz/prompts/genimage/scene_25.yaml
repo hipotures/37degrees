@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1812, spring dawn, 5:00 AM, return to dawn but in different season showing time's passage
+    location: Familiar path approaching Soplicowo manor house through Lithuanian countryside, now in fresh spring season
+    weather: Fresh spring morning with dew on new growth, cool air warming with sunrise
+  characters:
+  - appearance: Young man, approximately 20 years old, handsome and robust with healthy complexion, slightly stocky build,
+      dark brown hair, oval face, dark brown eyes, strong physique
+    clothing: Polish military uniform with officer's insignia
+    position: Walking familiar path toward family manor, now as returning soldier bearing experience of military service
+    action: Approaching family home after military service, observing how landscape has changed with seasons and time, feeling
+      both familiar and transformed
+  scene:
+    mainElements: Soplicowo manor and familiar landscape now showing spring renewal - fresh green growth, blooming trees,
+      birds building nests, cyclical return with change
+    details: Fresh spring leaves unfurling on birch trees, early flowers blooming in meadows, birds active with spring nesting,
+      morning dew on new grass, air carrying scents of spring growth and renewal, familiar stream flowing with spring fullness
+      from snowmelt
+    background: Lithuanian landscape transformed by season and time passage, sense of return but also change, cycle completing
+      but on different level
+    atmosphere: Cyclical return with transformation, sense of time passage made visible through seasonal change, homecoming
+      but to changed world, hope and renewal of spring combined with experience of time, no text or letters visible
+  composition:
+    cameraAngle: Low angle following behind approaching figure emphasizing spring transformation
+    focus: Returning figure approaching transformed but familiar landscape
+    depth: Foreground shows spring growth details, middle ground captures returning figure, background reveals familiar but
+      seasonally changed vista
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

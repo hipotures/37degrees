@@ -1,6 +1,7 @@
 book_info:
-  title: "Wielki Gatsby"
+  title: "The Great Gatsby"
+  title_pl: "Wielki Gatsby"
   author: "F. Scott Fitzgerald"
   year: 1925
-  genre: "Tragedia amerykańska"
-  reading_time: "6-8 godzin"
+  genre: "American tragedy"
+  reading_time: "6-8 hours"

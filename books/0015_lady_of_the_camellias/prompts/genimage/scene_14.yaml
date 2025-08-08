@@ -1,0 +1,92 @@
+sceneDescription:
+  setting:
+    time: 1840s Paris, harsh winter evening
+    location: Grand opera house interior in 1840s Paris, multiple tiers of elegant private boxes with red velvet curtains
+    weather: Bitter cold night with frost coating windows, wind howling outside
+  characters:
+  - appearance: Woman, early twenties, pale complexion with delicate features, auburn hair styled in elegant 1840s fashion
+      with center part and side curls, slender build, fragile due to illness, expressive dark eyes
+    clothing: Luxurious white silk evening gown with off-shoulder neckline, fitted bodice with tiny pearl buttons, full bell-shaped
+      skirt, white lace gloves, pearl necklace, small pearl earrings
+    position: Hunched in opera box corner, face turned away from the stage and audience, arms wrapped protectively around
+      body
+    action: Hiding from judgmental stares, tears visible on pale cheeks, trying to make herself invisible
+  - appearance: Young man, mid-twenties, dark brown hair combed back in 1840s style, clean-shaven face with strong jawline,
+      tall athletic build, intense brown eyes, pale skin
+    clothing: Black formal evening tailcoat, white dress shirt with high starched collar, white silk bow tie, black wool trousers
+      with satin stripe, black leather dress shoes
+    position: Standing at box entrance with fists clenched at sides, body rigid with suppressed rage
+    action: Staring defiantly at disapproving audience members, jaw set in furious determination to protect her
+  scene:
+    mainElements: Ornate golden balcony railings with intricate scrollwork, red plush seating, elaborate architectural details,
+      massive crystal chandelier illuminating the space
+    details: Fresh red camellia flowers arranged in small bouquet crushed in her trembling hands, deep crimson petals with
+      velvet texture staining her white gloves, dark green glossy leaves, red silk ribbon torn. Luminous white pearl necklace
+      with perfectly matched spherical pearls appearing heavy and burdensome around her neck. Opera glasses lying broken on
+      the floor. Harsh chandelier light creating sharp angular shadows across their faces. No text or letters visible
+    background: Opera audience members in other boxes whispering and pointing disapprovingly, some turning away in disgust,
+      cold judgment filling the theater
+    atmosphere: Aristocratic splendor and social display, brilliant gaslight reflecting off jewelry and silk gowns, buzz of
+      fashionable society
+  composition:
+    cameraAngle: Harsh angular composition emphasizing isolation and condemnation
+    focus: Hunched figure trying to hide while protective companion faces hostile crowd
+    depth: Foreground shows crushed camellias and broken glass, middle ground captures the tormented pair, background reveals
+      judgmental society
+visualElements:
+  colorPalette:
+    primary:
+    - muted golds
+    - deep greens
+    - burgundy
+    - peacock blue
+    secondary:
+    - ivory
+    - dusty rose
+    - sage green
+    background: aged paper or decorative patterns
+    usageNotes: Rich but muted tones with metallic accents
+    saturation: medium, sophisticated
+    contrast: elegant, balanced
+  lineArt:
+    style: flowing, sinuous curves
+    weight: varied, decorative
+    color: dark brown or black with gold accents
+    texture: smooth, refined
+    edgeTreatment: organic, plant-like curves
+  lighting:
+    type: decorative, non-realistic
+    direction: integrated into design
+    intensity: balanced throughout
+    shadows:
+      style: decorative, part of pattern
+      color: deeper tones of base colors
+      opacity: integrated
+    highlights: gold leaf effects
+  rendering:
+    technique: decorative illustration
+    texture: smooth with ornamental details
+    detailLevel: high in decoration, simplified figures
+    finish: refined, poster-like
+  perspective: flattened, decorative
+  mood:
+    overall: elegant, romantic, sophisticated
+    emotion: beauty, refinement, nostalgia
+    tempo: flowing, graceful
+    keywords:
+    - elegant
+    - decorative
+    - romantic
+    - ornate
+    - sophisticated
+  stylePrecedents:
+  - Alphonse Mucha
+  - Gustav Klimt
+  - Aubrey Beardsley
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

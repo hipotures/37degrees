@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1811, afternoon, 4:30 PM, sudden weather change as storm arrives
+    location: Village square in Dobrzyn with first drops of summer thunderstorm beginning
+    weather: First raindrops beginning to fall after prolonged dry period, wind picking up dramatically, temperature dropping
+  characters:
+  - appearance: Multiple villagers of various ages showing mixed reactions to sudden weather change, simple rural clothing
+    clothing: Traditional Polish rural attire - simple white garments, dark vests, practical footwear suitable for field work
+    position: Scattered across square in various states of reaction to beginning precipitation
+    action: Some running for shelter, others standing with faces upturned celebrating rain, children playing in first drops,
+      general bustling activity
+  scene:
+    mainElements: First large raindrops striking sun-baked earth creating small puffs of dust, village square with simple
+      wooden buildings providing shelter destinations, people reacting with mixed joy and urgency
+    details: Sweet aromatic scent of petrichor rising as first drops hit parched earth, dust dancing as each raindrop creates
+      tiny explosion on ground surface, papers and lightweight objects beginning to flutter in rising wind, clothes starting
+      to billow, hat brims turning up in gusts, distant lightning illuminating approaching wall of rain
+    background: Storm approaching rapidly across landscape like gray curtain, bright patches of sunlight creating dramatic
+      contrast with dark storm clouds, trees beginning to thrash in wind
+    atmosphere: Excitement and relief at drought-breaking rain arrival, sudden energy as weather transforms landscape, community
+      activity as people respond to weather change, natural drama of climate transition, no text or letters visible
+  composition:
+    cameraAngle: Wide angle capturing multiple reactions across village square
+    focus: Various figures responding to weather change with dramatic sky backdrop
+    depth: Foreground shows dust impacts from first raindrops, middle ground captures village activity, background reveals
+      advancing storm wall
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

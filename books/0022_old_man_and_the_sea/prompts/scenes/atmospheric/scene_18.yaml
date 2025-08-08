@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Moonlight Creating Silver Seascape"
+  setting:
+    time: "September 1950, late night, 2:00 AM, moon rising"
+    location: "Deep blue waters of Gulf Stream current flowing northwest along Cuban coast, far from sight of land in all directions"
+    weather: "Clear night with quarter moon, gentle breeze, calm seas"
+  characters:
+    - appearance: "Old man over 70 years, thin and gaunt but with strong sinewy arms, height average for elderly Cuban fisherman, weathered dark skin with deep wrinkles on neck and face, brown spots of benign skin cancer on cheeks, hands covered with deep old healed scars from fishing lines"
+      clothing: "Worn patched shirt faded by sun and salt, old threadbare trousers, often barefoot, straw hat when at sea for sun protection"
+      position: "Slumped in boat, dozed briefly while holding line"
+      action: "Waking to moonlight, feeling renewed strength, checking fishing line tension"
+  scene:
+    mainElements: "Endless expanse of deep blue to purple ocean water, horizon line meeting azure sky, no visible land or other vessels, surface occasionally broken by flying fish or dolphins"
+    details: "Quarter moon casting silver path across water surface, transforming black ocean into landscape of liquid silver and deep shadows, boat hull gleaming wet in moonlight, every rope and fitting clearly visible in lunar illumination, fishing line creating straight silver thread descending into dark water, gentle swells catching and reflecting moonbeams, night air cool and fresh with ocean scent"
+    background: "Star-filled sky with bright moon creating natural spotlight, horizon now faintly visible as line between dark water and lighter sky"
+    atmosphere: "Supernatural beauty of moonlit seascape, renewed energy and hope from natural light, sense of communion with celestial cycles, peaceful interlude in long struggle, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot emphasizing moon path on water" 
+    focus: "Silver moonlight transforming night seascape"
+    depth: "Foreground shows moonlit boat details, middle ground captures silver water path, background reveals moon and star-scattered sky"

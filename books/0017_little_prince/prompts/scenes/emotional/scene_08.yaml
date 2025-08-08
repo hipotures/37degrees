@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Witnessing Self-Destructive Cycles"
+  setting:
+    time: "Timeless space environment, dim melancholic lighting creating atmosphere of despair"
+    location: "Small spherical planet with minimal furnishing, dark and sparse environment, empty bottles scattered across surface, floating in lonely region of space"
+    weather: "Heavy stillness with no air movement, oppressive atmosphere suggesting stagnation and hopelessness"
+  characters:
+    - appearance: "Young boy, approximately 7-8 years old, blonde curly hair reaching his shoulders, fair skin with rosy cheeks, bright blue eyes filled with wonder and melancholy, slender build, average height for a child"
+      clothing: "Long golden-yellow coat reaching mid-thigh, white shirt underneath, long golden scarf flowing in wind, dark blue or black trousers, simple black shoes, no gloves or hat"
+      position: "Standing at safe distance, body language showing deep concern and sadness"
+      action: "Wrapping arms around himself protectively, face showing genuine worry and compassion, eyes wide with shock and growing understanding of adult pain, occasionally reaching out as if to help but pulling back"
+    - appearance: "Adult man with disheveled appearance, slumped shoulders, tired face showing resignation and shame, worn clothing, unsteady posture"
+      clothing: "Rumpled dark clothing suggesting neglect of personal care, stained shirt, shoes scuffed and untied, hat askew or missing"
+      position: "Slumped over table or sitting heavily on ground, surrounded by empty containers"
+      action: "Head hung low in shame, occasional lifting of container to lips, movements slow and defeated, avoiding eye contact, posture showing deep self-loathing and despair"
+  scene:
+    mainElements: "Empty bottles scattered across planet surface, simple wooden table or makeshift seating, minimal furnishing suggesting poverty of spirit, abandoned personal items"
+    details: "Desolate planetary surface with few possessions, evidence of long-term habitation but no care for environment, neglected surroundings reflecting inner state"
+    background: "Dark space with few visible stars, lonely cosmic environment, isolated planet with no nearby celestial bodies, sense of complete abandonment"
+    atmosphere: "Deep sadness and empathy, first encounter with adult despair, growing understanding of complex adult pain, protective instincts emerging, no text or letters visible anywhere in scene"
+  composition:
+    cameraAngle: "Medium shot showing both figures with emphasis on emotional distance and Prince's protective stance"
+    focus: "Prince's compassionate but alarmed reaction to witnessing adult self-destruction"
+    depth: "Foreground with Prince's emotional response, middle ground with suffering adult figure, background emphasizing isolation and emptiness"

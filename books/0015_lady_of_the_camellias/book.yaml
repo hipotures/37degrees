@@ -1,6 +1,7 @@
 book_info:
-  title: "Dama Kameliowa"
-  author: "Aleksander Dumas (syn)"
+  title: "The Lady of the Camellias"
+  title_pl: "Dama Kameliowa"
+  author: "Alexandre Dumas (fils)"
   year: 1848
-  genre: "Romans tragiczny"
-  reading_time: "6-8 godzin"
+  genre: "Tragic romance"
+  reading_time: "6-8 hours"

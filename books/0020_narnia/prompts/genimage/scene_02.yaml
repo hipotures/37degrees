@@ -1,0 +1,101 @@
+sceneDescription:
+  setting:
+    time: 1940, late afternoon, overcast English countryside
+    location: Very large country house deep in English countryside during World War II, ten miles from nearest railway station
+    weather: Grey skies, light drizzle beginning
+  characters:
+  - appearance: Boy, 13 years old, tall and well-built for his age, natural leadership bearing, fair-haired English youth,
+      noble and serious facial features
+    clothing: Brown wool vest over white linen shirt, knee-length dark breeches, long socks, sturdy leather shoes, school
+      sweater
+    position: Leading his siblings up the gravel path toward imposing front entrance
+    action: Carrying two suitcases, looking up at the enormous house with mixture of awe and apprehension
+  - appearance: Girl, 12 years old, graceful and poised, long straight black hair, the pretty one of the family, mature bearing,
+      gentle facial features
+    clothing: Simple wool dress in muted blue-grey, practical school cardigan, dark stockings, sensible shoes
+    position: Walking beside Peter, holding Lucy's hand
+    action: Gazing up at countless windows, counting the chimneys with growing amazement
+  - appearance: Boy, 10 years old, smaller build than Peter, dark hair, initially sullen and spiteful expression, later shows
+      repentance and courage
+    clothing: School shorts, white shirt, grey wool pullover, long socks, black school shoes
+    position: Trailing slightly behind the group, dragging his feet
+    action: Kicking at gravel, looking thoroughly unimpressed and homesick
+  - appearance: Girl, 8 years old, small and delicate, bright golden curly hair, merry and trusting expression, radiant and
+      honest face
+    clothing: Simple blue wool dress with white collar, wool tights, small leather shoes, child's cardigan
+    position: Between Susan and Peter, craning neck to see the house
+    action: Pointing excitedly at various architectural features, chattering about the size
+  - appearance: Elderly man with bushy white hair growing on most of his face and head, strange but kindly appearance, scholarly
+      bearing
+    clothing: Academic tweeds, wool vest, pocket watch, comfortable country clothes
+    position: Standing in massive arched doorway under stone portico
+    action: Waiting to greet the children with patient, understanding smile
+  scene:
+    mainElements: Tudor-style manor with countless stairs and passages, empty or sparsely furnished rooms, long room full
+      of pictures including suit of armor, green room with harp in corner
+    details: Imposing stone facade with diamond-paned windows, ivy-covered walls, massive oak front door with iron hinges,
+      gravel drive winding through overgrown gardens, weathered stone gargoyles on corners, tall chimneys against grey sky
+    background: Rolling English countryside stretching to horizon, ancient oak trees surrounding property, stone walls and
+      hedgerows marking field boundaries
+    atmosphere: Grand but slightly overwhelming, mysterious and inviting, sense of stepping into history, quiet country peace
+      contrasting with London chaos they left behind, no text or letters visible
+  composition:
+    cameraAngle: Low angle shot emphasizing the massive scale of the house towering over small children
+    focus: Four children in foreground dwarfed by enormous house, Professor's welcoming figure in doorway
+    depth: Children and luggage in immediate foreground, house facade filling middle ground, countryside landscape in soft
+      background
+visualElements:
+  colorPalette:
+    primary:
+    - bright red
+    - vivid blue
+    - sunny yellow
+    secondary:
+    - grass green
+    - purple
+    - orange
+    background: simple flat colors or patterns
+    usageNotes: Intense, saturated colors used intuitively
+    saturation: very high (bold, pure colors)
+    contrast: high (bright colors against each other)
+  lineArt:
+    style: simple, direct outlines
+    weight: consistent, moderate thickness
+    color: dark outlines or color boundaries
+    texture: hand-drawn quality, slight irregularities
+    edgeTreatment: simple, clean edges
+  lighting:
+    type: flat, even lighting (no sophisticated shading)
+    direction: front-lit, minimal shadows
+    intensity: bright, cheerful
+    shadows:
+      style: simple, flat shadows if any
+      color: darker version of base color
+      opacity: solid
+    highlights: minimal, simple bright spots
+  rendering:
+    technique: direct, intuitive application
+    texture: flat colors with simple patterns
+    detailLevel: high in some areas (obsessive detail), simple in others
+    finish: flat, matte appearance
+  perspective: flattened or incorrect perspective, childlike spatial relationships
+  mood:
+    overall: cheerful, innocent, direct
+    emotion: joy, simplicity, honesty
+    tempo: peaceful, content
+    keywords:
+    - cheerful
+    - innocent
+    - direct
+    - honest
+    - joyful
+  stylePrecedents:
+  - Henri Rousseau jungle paintings
+  - Grandma Moses rural scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

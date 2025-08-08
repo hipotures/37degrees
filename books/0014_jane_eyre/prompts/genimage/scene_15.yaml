@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 1830s England, dawn
+    location: Yorkshire moors stretching toward distant hills, desolate heathland
+    weather: Cold grey dawn with mist rising from moorland, bitter wind
+  characters:
+  - appearance: Young woman, early 20s, small slight build, plain features, pale skin, dark hair pulled severely back, large
+      expressive dark eyes, determined chin
+    clothing: Simple black mourning dress or grey governess dress, white collar and cuffs, black shoes, plain bonnet when
+      outdoors
+    position: Walking rapidly across rough moorland, stumbling over rocks and heather
+    action: Fleeing with desperate urgency, clutching small bundle to chest, looking back over shoulder with haunted expression
+  scene:
+    mainElements: Vast expanse of heather and rough grass, distant stone walls, narrow sheep tracks winding through landscape
+    details: Morning mist swirling around ankles, wet grass soaking through thin shoes, small leather bag containing few possessions,
+      footprints in muddy ground, sheep watching from distance, ancient stone markers dotting moorland
+    background: Rolling hills fading into grey distance, threatening sky with no sun visible, isolated farmhouse far in distance
+    atmosphere: Wild desolation, profound loneliness, desperate escape from unbearable truth, courage to abandon everything,
+      facing unknown with empty hands but intact dignity
+  composition:
+    cameraAngle: Wide shot emphasizing isolation and vast landscape
+    focus: Solitary figure against immense moorland, showing brave but desperate escape
+    depth: Fleeing woman in foreground, endless moors in middle ground, uncertain horizon in background
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Third Age of Middle-earth, late evening in candlelit chamber
+    location: Ancient archive chamber deep within Minas Tirith, repository of Gondor's historical records and scrolls
+    weather: Protected stone interior, cool and dry air preserving ancient documents
+  characters:
+  - appearance: Wizard, elderly man appearance, tall around 6 feet, long grey beard reaching chest, deep grey eyes under bushy
+      eyebrows, weathered face with wise expression, grey hair
+    clothing: Long grey robes reaching ankles, wide-brimmed grey hat set aside on table, brown leather belt, sturdy walking
+      boots, wooden staff leaning against wall
+    position: Seated at ancient stone table covered with scrolls and parchments, hunched over documents in concentration
+    action: Studying ancient texts by candlelight, finger tracing lines on parchment, searching for crucial information about
+      Ring's history
+  scene:
+    mainElements: Stone archive chamber with shelves reaching to vaulted ceiling, countless scrolls and bound volumes, heavy
+      wooden table with research materials
+    details: Tall stone shelves lined with ancient scrolls and leather-bound tomes stretching up to shadowy ceiling, heavy
+      oak table covered with unrolled parchments showing maps and genealogies, several candles providing flickering light,
+      quill and ink pot ready for note-taking, wooden staff with carved runes leaning against stone wall, stone floor worn
+      smooth by countless scholars, no text or letters visible
+    background: Deeper into archive showing more shelves disappearing into shadows, arched stone doorway leading to other
+      chambers
+    atmosphere: Scholarly dedication and urgency, weight of ancient knowledge, flickering candlelight creating dancing shadows,
+      musty smell of old parchment, sense of time running short
+  composition:
+    cameraAngle: Medium shot showing the wizard amid the vast collection of knowledge
+    focus: The search for crucial information in the race against time
+    depth: Foreground shows wizard and scrolls on table, middle ground reveals towering shelves of documents, background fades
+      into shadowy depths of archive
+visualElements:
+  colorPalette:
+    primary:
+    - rich fantasy colors
+    - jewel tones
+    secondary:
+    - atmospheric colors
+    - magical glows
+    background: atmospheric, often dark or misty
+    usageNotes: Rich, layered colors with magical atmosphere
+    saturation: medium to high
+    contrast: medium to high
+  lineArt:
+    style: painterly, loose
+    weight: varied, often hidden
+    color: integrated into painting
+    texture: organic brushstrokes
+    edgeTreatment: soft, painterly edges
+  lighting:
+    type: dramatic, magical
+    direction: varied for atmosphere
+    intensity: high contrast areas
+    shadows:
+      style: painted, atmospheric
+      color: cool or warm depending on scene
+      opacity: varied
+    highlights: magical glows, rim lighting
+  rendering:
+    technique: digital painting with textured brushes
+    texture: dry media brush texture
+    detailLevel: moderate to high
+    finish: glazed, painterly
+  perspective: cinematic, dynamic
+  mood:
+    overall: mythological, otherworldly, epic
+    emotion: wonder, mystery, adventure
+    tempo: varies from calm to dramatic
+    keywords:
+    - epic
+    - mystical
+    - otherworldly
+    - fantasy
+    - mythological
+  stylePrecedents:
+  - Craig Mullins digital concept art
+  - Frank Frazetta fantasy paintings
+  - Boris Vallejo fantasy illustrations
+  - Magic: The Gathering card art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,104 @@
+canon:
+  characters:
+    - id: "marguerite_gautier"
+      name: "Marguerite Gautier"
+      description_block: |
+        characters:
+          - appearance: "Woman, early twenties, pale complexion with delicate features, auburn hair styled in elegant 1840s fashion with center part and side curls, slender build, fragile due to illness, expressive dark eyes"
+            clothing: "Luxurious white silk evening gown with off-shoulder neckline, fitted bodice with tiny pearl buttons, full bell-shaped skirt, white lace gloves, pearl necklace, small pearl earrings"
+            position: "Standing gracefully with one hand holding camellia bouquet against her chest, other hand resting on nearby surface"
+            action: "Gazing with melancholic expression, breathing shallowly due to consumption"
+
+    - id: "armand_duval"
+      name: "Armand Duval"
+      description_block: |
+        characters:
+          - appearance: "Young man, mid-twenties, dark brown hair combed back in 1840s style, clean-shaven face with strong jawline, tall athletic build, intense brown eyes, pale skin"
+            clothing: "Black formal evening tailcoat, white dress shirt with high starched collar, white silk bow tie, black wool trousers with satin stripe, black leather dress shoes"
+            position: "Standing upright with shoulders back, one foot slightly forward in confident stance"
+            action: "Looking directly ahead with passionate determination, hands clasped behind back"
+
+    - id: "georges_duval"
+      name: "Georges Duval (Armand's father)"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged man, early fifties, graying dark hair receding at temples, well-groomed sideburns, stern weathered face with deep lines, stocky build, sharp blue eyes"
+            clothing: "Dark navy formal frock coat, black wool waistcoat, white dress shirt, black silk cravat, gold pocket watch chain visible, black wool trousers, black leather boots"
+            position: "Standing rigidly with hands clasped in front, chin raised in authoritative posture"
+            action: "Speaking with firm conviction, slight frown showing paternal concern mixed with moral judgment"
+
+    - id: "nanine_servant"
+      name: "Nanine"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged woman, early forties, brown hair pulled back in simple bun, kind round face with warm brown eyes, average height, sturdy build, worn hands from work"
+            clothing: "Simple black servant's dress with white lace collar and cuffs, white cotton apron tied at waist, small white cap, black stockings, practical black shoes"
+            position: "Standing attentively with hands folded at waist, slightly bowed head in respectful pose"
+            action: "Listening carefully with devoted expression, ready to serve with unwavering loyalty"
+
+  locations:
+    - id: "marguerite_apartment"
+      name: "Marguerite's Parisian Apartment"
+      description_block: |
+        setting:
+          location: "Luxurious Second Empire Parisian salon in upscale district, ornate high-ceilinged interior with tall windows"
+        mainElements: "Opulent red velvet sofas with gold trim, mahogany piano against wall, marble fireplace with gilt mirror above, crystal chandelier hanging from decorated ceiling"
+        atmosphere: "Sumptuous wealth mixed with feminine refinement, warm gaslight creating golden glow, subtle air of melancholy"
+
+    - id: "paris_opera_house"
+      name: "Parisian Opera House"
+      description_block: |
+        setting:
+          location: "Grand opera house interior in 1840s Paris, multiple tiers of elegant private boxes with red velvet curtains"
+        mainElements: "Ornate golden balcony railings with intricate scrollwork, red plush seating, elaborate architectural details, massive crystal chandelier illuminating the space"
+        atmosphere: "Aristocratic splendor and social display, brilliant gaslight reflecting off jewelry and silk gowns, buzz of fashionable society"
+
+    - id: "countryside_cottage"
+      name: "Rural French Cottage"
+      description_block: |
+        setting:
+          location: "Modest country house in French countryside outside Paris, surrounded by natural gardens and rolling hills"
+        mainElements: "Simple white-washed stone cottage with green shutters, climbing roses around doorframe, wooden garden gate, well-maintained flower beds, old oak tree providing shade"
+        atmosphere: "Peaceful rural tranquility, escape from urban corruption, natural beauty offering healing and simple happiness"
+
+    - id: "parisian_ballroom"
+      name: "Aristocratic Ballroom"
+      description_block: |
+        setting:
+          location: "Grand ballroom in elegant Parisian mansion during 1840s social gathering, polished parquet floors reflecting light"
+        mainElements: "Massive crystal chandeliers casting brilliant light, gilded mirrors lining walls, orchestral musicians on elevated platform, elaborate floral arrangements, marble columns with golden capitals"
+        atmosphere: "Glittering high society spectacle, orchestral music filling the air, swirling gowns and formal attire, mixture of celebration and social judgment"
+
+    - id: "marguerite_deathbed"
+      name: "Marguerite's Death Chamber"
+      description_block: |
+        setting:
+          location: "Sparsely furnished bedroom in Marguerite's apartment, stripped of former luxury due to financial ruin"
+        mainElements: "Simple wooden bed with white linen sheets, single wooden chair beside bed, plain wooden table with medicine bottles, bare walls with single religious crucifix, small window with simple curtains"
+        atmosphere: "Austere solemnity, spiritual purification through suffering, quiet dignity in poverty, sacred peaceful quality of approaching death"
+
+  items:
+    - id: "white_camellias"
+      name: "White Camellias"
+      description_block: |
+        details: "Fresh white camellia flowers arranged in small bouquet, pristine ivory-white petals with waxy texture, dark green glossy leaves, tied with white silk ribbon, no text or letters visible"
+
+    - id: "red_camellias"  
+      name: "Red Camellias"
+      description_block: |
+        details: "Fresh red camellia flowers arranged in small bouquet, deep crimson petals with velvet texture, dark green glossy leaves, tied with red silk ribbon, no text or letters visible"
+
+    - id: "pearl_jewelry"
+      name: "Pearl Jewelry"
+      description_block: |
+        details: "Luminous white pearl necklace with perfectly matched spherical pearls, silver clasp, accompanied by matching pearl drop earrings with silver settings, no text or letters visible"
+
+    - id: "formal_letter"
+      name: "Written Letter"
+      description_block: |
+        details: "Folded cream-colored paper letter sealed with red wax, elegant penmanship visible but text deliberately blurred and illegible, no readable words or letters visible"
+
+    - id: "luxury_carriage"
+      name: "Aristocratic Carriage"
+      description_block: |
+        details: "Elegant black lacquered carriage with gold trim, red velvet interior cushions, ornate brass fixtures, pulled by matching dark horses with decorative harnesses, no text or letters visible"

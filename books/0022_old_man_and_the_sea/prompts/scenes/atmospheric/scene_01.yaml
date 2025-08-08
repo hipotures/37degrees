@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Pre-Dawn Darkness at Cojímar Harbor"
+  setting:
+    time: "September 1950, pre-dawn, 4:30 AM, last stars fading"
+    location: "Cuban fishing village of Cojímar seven kilometers east of Havana, situated around small protected bay at river mouth"
+    weather: "Clear windless night, humid tropical air, temperature cooling before sunrise"
+  characters:
+    - appearance: "Old man over 70 years, thin and gaunt but with strong sinewy arms, height average for elderly Cuban fisherman, weathered dark skin with deep wrinkles on neck and face, brown spots of benign skin cancer on cheeks, hands covered with deep old healed scars from fishing lines"
+      clothing: "Worn patched shirt faded by sun and salt, old threadbare trousers, often barefoot, straw hat when at sea for sun protection"
+      position: "Walking slowly down narrow unpaved path from village toward harbor"
+      action: "Moving carefully through darkness, carrying coiled fishing lines over shoulder, breathing steadily in cool morning air"
+  scene:
+    mainElements: "Simple single-story houses with faded pastel walls in yellows, blues, and ochres, 17th century stone fort Torreón de Cojímar dominating harbor, narrow unpaved streets, lush tropical vegetation with royal palms and banana trees"
+    details: "Deep blue pre-dawn sky scattered with fading stars, silhouettes of palm fronds swaying gently in night breeze, wooden shutters closed on darkened houses, single street lamp casting weak yellow pool of light near fort, water in harbor black as ink reflecting occasional star, scent of night-blooming jasmine mixing with salt air, distant sound of waves against stone seawall"
+    background: "Sleeping village with no signs of activity, dark mountains visible as jagged line against eastern horizon where sky begins to lighten imperceptibly, Venus bright as single beacon above water"
+    atmosphere: "World holding its breath before dawn, profound stillness broken only by footsteps on packed earth, sense of anticipation and solitude, cool air carrying promises of coming heat, no text or letters visible"
+  composition:
+    cameraAngle: "Low angle following behind elderly fisherman"
+    focus: "Silhouetted figure against gradually lightening sky"
+    depth: "Foreground shows unpaved village path, middle ground reveals harbor with moored boats as dark shapes, background displays vast dark ocean meeting star-filled sky"

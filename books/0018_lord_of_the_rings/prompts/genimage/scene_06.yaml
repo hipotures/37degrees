@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Third Age of Middle-earth, quiet moment at night by dying campfire
+    location: Secluded forest clearing with Fellowship camp, somewhere on the journey south from Rivendell
+    weather: Clear night with stars visible through forest canopy, slight chill in air
+  characters:
+  - appearance: Hobbit, male, early 30s, short stature around 3 feet tall, curly brown hair, large brown eyes, pale complexion
+      from burden of Ring, thin build, youthful face with premature lines of worry
+    clothing: Brown or grey hobbit breeches, white linen shirt, brown vest, dark green or grey travelling cloak, leather belt,
+      bare feet with tough soles
+    position: Sitting alone on fallen log beside glowing embers of campfire, apart from sleeping companions
+    action: Holding One Ring on palm, staring at it with mixture of fascination and dread, hand trembling slightly with weight
+      of burden
+  scene:
+    mainElements: Dying campfire with glowing red embers, sleeping forms of Fellowship members around clearing, ancient trees
+      forming natural shelter
+    details: Plain gold ring lying in open palm catching firelight with unnatural gleam, no visible markings but seeming to
+      pulse with inner darkness, hobbit's face illuminated by red glow from embers showing exhaustion and growing corruption,
+      bedrolls scattered around clearing with sleeping figures barely visible in shadows, tall forest trees creating protective
+      circle around camp, night sounds of wilderness, no text or letters visible
+    background: Dense forest with trees disappearing into darkness, stars visible through gaps in canopy, suggestions of wild
+      lands beyond
+    atmosphere: Quiet solitude filled with growing dread, weight of terrible responsibility, firelight creating intimate but
+      ominous mood, sense of burden beyond physical strength
+  composition:
+    cameraAngle: Close-up shot focusing on the hobbit and the Ring
+    focus: The psychological weight of carrying the most dangerous object in Middle-earth
+    depth: Foreground shows Ring and hobbit's face in firelight, middle ground reveals sleeping Fellowship, background fades
+      into dark forest
+visualElements:
+  colorPalette:
+    primary:
+    - rich fantasy colors
+    - jewel tones
+    secondary:
+    - atmospheric colors
+    - magical glows
+    background: atmospheric, often dark or misty
+    usageNotes: Rich, layered colors with magical atmosphere
+    saturation: medium to high
+    contrast: medium to high
+  lineArt:
+    style: painterly, loose
+    weight: varied, often hidden
+    color: integrated into painting
+    texture: organic brushstrokes
+    edgeTreatment: soft, painterly edges
+  lighting:
+    type: dramatic, magical
+    direction: varied for atmosphere
+    intensity: high contrast areas
+    shadows:
+      style: painted, atmospheric
+      color: cool or warm depending on scene
+      opacity: varied
+    highlights: magical glows, rim lighting
+  rendering:
+    technique: digital painting with textured brushes
+    texture: dry media brush texture
+    detailLevel: moderate to high
+    finish: glazed, painterly
+  perspective: cinematic, dynamic
+  mood:
+    overall: mythological, otherworldly, epic
+    emotion: wonder, mystery, adventure
+    tempo: varies from calm to dramatic
+    keywords:
+    - epic
+    - mystical
+    - otherworldly
+    - fantasy
+    - mythological
+  stylePrecedents:
+  - Craig Mullins digital concept art
+  - Frank Frazetta fantasy paintings
+  - Boris Vallejo fantasy illustrations
+  - Magic: The Gathering card art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

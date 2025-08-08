@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Third Age, midday
+    location: Interior of comfortable hobbit-hole in English countryside Shire, round green door leading to circular hallway
+    weather: Soft afternoon light filtering through round windows
+  characters:
+  - appearance: Middle-aged hobbit, late 40s, curly brown hair, round cheerful face, short stature, slightly portly build,
+      bright hazel eyes
+    clothing: Forest green velvet waistcoat, cream-colored linen shirt with brass buttons, brown woolen breeches, yellow silk
+      handkerchief in waistcoat pocket
+    position: Bustling around circular dining room, moving between pantry and table
+    action: Setting out multiple plates of food, arranging seed-cakes and scones, filling teapot with steaming water, adjusting
+      napkins nervously
+  scene:
+    mainElements: Yellow painted round door, circular entrance hall with coat pegs, polished wooden floors, brass fixtures
+      gleaming, round table set for tea
+    details: Gleaming brass door handle and hinges, circular walls painted in warm yellow, wooden coat pegs holding various
+      cloaks and hats, polished oak floorboards with colorful round rugs, copper kettle steaming on iron stove, shelves lined
+      with ceramic plates and bowls, comfortable armchairs with floral cushions, circular windows with lace curtains
+    background: Multiple pantries visible through open doorways, kitchen with hanging copper pots, cozy sitting room with
+      fireplace
+    atmosphere: Warm golden lamplight, cozy domestic comfort, sheltered from outside world, peaceful sanctuary filled with
+      delicious aromas of baking, no text or letters visible
+  composition:
+    cameraAngle: Wide interior shot showing curved architecture and homey details
+    focus: Bilbo's domestic preparations emphasizing hobbit comfort and hospitality
+    depth: Dining area in foreground, entrance hall in middle ground, other rooms visible in background
+visualElements:
+  colorPalette:
+    primary:
+    - warm pastels
+    - soft earth tones
+    - gentle blues and greens
+    secondary:
+    - bright accent colors for details
+    background: soft washes or textured paper
+    usageNotes: Harmonious colors that feel safe and inviting
+    saturation: medium, slightly muted
+    contrast: gentle, no harsh transitions
+  lineArt:
+    style: soft, organic lines
+    weight: varied, hand-drawn quality
+    color: brown or dark color, not pure black
+    texture: slightly rough, pencil-like
+    edgeTreatment: gentle, rounded forms
+  lighting:
+    type: warm, comforting
+    direction: soft overall illumination
+    intensity: gentle
+    shadows:
+      style: soft, minimal
+      color: warm grays or purples
+      opacity: light
+    highlights: subtle warmth
+  rendering:
+    technique: mixed media appearance
+    texture: visible paper texture, soft brushwork
+    detailLevel: simplified but expressive
+    finish: matte with gentle textures
+  perspective: slightly naive, not perfectly accurate
+  mood:
+    overall: warm, inviting, magical
+    emotion: wonder, safety, adventure
+    tempo: gentle, dreamlike
+    keywords:
+    - whimsical
+    - magical
+    - comforting
+    - imaginative
+    - nostalgic
+  stylePrecedents:
+  - Quentin Blake
+  - Maurice Sendak
+  - Beatrix Potter
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

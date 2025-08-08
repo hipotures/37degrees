@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1811, blue hour, 8:00 PM, magical in-between time as day transforms to night
+    location: Village inn courtyard as evening settles and first artificial lights appear
+    weather: Perfect calm evening, still air, ideal conditions for observing light transition
+  characters:
+  - appearance: Elderly Jewish man, wise weathered face showing intelligence and kindness, beard, expressive eyes reflecting
+      years of experience and observation
+    clothing: Traditional Jewish long black coat (opona), yarmulke, simple but dignified attire of respected innkeeper and
+      merchant
+    position: Lighting oil lamps in inn windows as darkness approaches, moving methodically from window to window
+    action: Carefully tending to evening lighting routine, adjusting lamp wicks for steady flames, preparing inn for evening
+      guests and activities
+  scene:
+    mainElements: Deep blue sky with last orange glow on horizon, first artificial lights beginning to glow warmly in windows,
+      magical transition time when natural and artificial illumination coexist
+    details: Oil lamps creating pools of warm yellow light contrasting with deep blue evening sky, first stars becoming visible
+      as sky darkens, evening sounds changing from day birds to night insects, air cooling and becoming still, shadows deepening
+      but not yet complete darkness, sense of anticipation as night approaches
+    background: Horizon still showing faint orange glow where sun disappeared, trees becoming silhouettes against darkening
+      sky, distant windows beginning to show warm light
+    atmosphere: Magical quality of blue hour when world transforms from day to night, peaceful transition time inspiring contemplation,
+      cozy warmth of artificial lights beginning to define human spaces, sense of daily cycle completing, no text or letters
+      visible
+  composition:
+    cameraAngle: Medium shot balancing blue sky with warm lamp lighting
+    focus: Figure lighting lamps with contrast between blue sky and warm artificial light
+    depth: Foreground shows warm lamp glow details, middle ground captures lighting activity, background reveals deep blue
+      sky transition
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

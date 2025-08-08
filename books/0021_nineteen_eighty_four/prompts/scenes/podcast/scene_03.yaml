@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Ministry of Truth Office Interior"
+  setting:
+    time: "1984, morning work hours, fluorescent lighting"
+    location: "Enormous white concrete pyramid rising 300 meters high, one of four government ministry buildings dominating London skyline"
+    weather: "Climate controlled interior environment"
+  characters: []
+  scene:
+    mainElements: "Countless small office cubicles with pneumatic tube system, slit-like openings in office walls leading to furnaces for destroying inconvenient documents (memory holes), dictating machines that convert speech to text connected to keyboards and screens, stacks of documents being revised"
+    details: "Sterile institutional workspace designed for historical falsification. Pneumatic tubes carry documents through walls with constant whooshing sounds. Workers sit at desks manipulating information without questioning content. Memory holes gape like hungry mouths waiting to swallow inconvenient truths. Harsh fluorescent lighting eliminates all shadows and warmth. Mechanical efficiency serves totalitarian control. No text or letters visible."
+    background: "Endless rows of identical workstations extending beyond view, white walls punctuated by memory holes"
+    atmosphere: "Sterile brutality of bureaucratic evil, mechanized destruction of truth presented as routine clerical work"
+  composition:
+    cameraAngle: "Medium shot across office floor"
+    focus: "Memory hole opening in wall with pneumatic tube system"
+    depth: "Foreground empty desk with speakwrite machine, middle ground memory hole, background rows of cubicles fading into distance"

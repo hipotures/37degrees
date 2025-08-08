@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Purifying Rain and Final Understanding"
+  setting:
+    time: "1840s French countryside, gentle morning rain after storm"
+    location: "Modest country house in French countryside outside Paris, surrounded by natural gardens and rolling hills"
+    weather: "Soft cleansing rain falling gently, washing away all traces of the previous storms"
+  characters:
+    - appearance: "Young man, mid-twenties, dark brown hair combed back in 1840s style, clean-shaven face with strong jawline, tall athletic build, intense brown eyes, pale skin"
+      clothing: "Black formal evening tailcoat, white dress shirt with high starched collar, white silk bow tie, black wool trousers with satin stripe, black leather dress shoes"
+      position: "Kneeling in garden with face upturned to gentle rain, arms hanging limply at sides in exhausted surrender"
+      action: "Letting rain wash over his face and mix with tears, no longer fighting the truth, finally accepting what has been lost"
+    - appearance: "Middle-aged man, early fifties, graying dark hair receding at temples, well-groomed sideburns, stern weathered face with deep lines, stocky build, sharp blue eyes"
+      clothing: "Dark navy formal frock coat, black wool waistcoat, white dress shirt, black silk cravat, gold pocket watch chain visible, black wool trousers, black leather boots"
+      position: "Standing nearby with hand extended toward the younger man in gesture of paternal comfort"
+      action: "Approaching with expression transformed from stern judgment to compassionate understanding and regret"
+  scene:
+    mainElements: "Simple white-washed stone cottage with green shutters, climbing roses around doorframe, wooden garden gate, well-maintained flower beds, old oak tree providing shade"
+    details: "Fresh white camellia flowers scattered throughout garden, pristine ivory-white petals with waxy texture being gently washed by rain, creating a carpet of purification. Folded cream-colored paper letter sealed with red wax lying rain-soaked in his hands, elegant penmanship visible but text deliberately blurred and illegible. Garden appearing renewed and cleansed by the gentle precipitation. No text or letters visible"
+    background: "Rolling hills appearing fresh and green under cleansing rain, entire landscape renewed and peaceful"
+    atmosphere: "Peaceful rural tranquility, escape from urban corruption, natural beauty offering healing and simple happiness"
+  composition:
+    cameraAngle: "Wide shot capturing both figures in the cleansing natural environment"
+    focus: "Two men in moment of reconciliation and understanding amid purifying rain"
+    depth: "Foreground shows rain-washed camellias and letter, middle ground displays the reconciliation scene, background reveals renewed countryside landscape"

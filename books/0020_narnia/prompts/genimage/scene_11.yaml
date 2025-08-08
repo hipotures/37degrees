@@ -1,0 +1,96 @@
+sceneDescription:
+  setting:
+    time: Eternal winter in Narnia, grey daylight filtering through snow clouds
+    location: Snow-covered forest clearing in magical realm of Narnia, tall dark pine trees surrounding single Victorian-style
+      iron lamppost
+    weather: Light snow falling, cold but still air, overcast winter sky
+  characters:
+  - appearance: Boy, 13 years old, tall and well-built for his age, natural leadership bearing, fair-haired English youth,
+      noble and serious facial features
+    clothing: Brown wool vest over white linen shirt, knee-length dark breeches, long socks, sturdy leather shoes, school
+      sweater
+    position: Standing protectively near lamppost, looking around with amazement and growing responsibility
+    action: Taking in the reality of Narnia, immediately assuming leadership role, checking on his siblings' safety
+  - appearance: Girl, 12 years old, graceful and poised, long straight black hair, the pretty one of the family, mature bearing,
+      gentle facial features
+    clothing: Simple wool dress in muted blue-grey, practical school cardigan, dark stockings, sensible shoes
+    position: Standing close to Peter, examining surroundings with careful practical eye
+    action: Touching lamppost to verify its reality, apologizing to Lucy for not believing her story
+  - appearance: Boy, 10 years old, smaller build than Peter, dark hair, initially sullen and spiteful expression, later shows
+      repentance and courage
+    clothing: School shorts, white shirt, grey wool pullover, long socks, black school shoes
+    position: Hanging back slightly from group, looking guilty and nervous
+    action: Avoiding eye contact with Lucy, knowing he has secret knowledge of Narnia from Witch encounter
+  - appearance: Girl, 8 years old, small and delicate, bright golden curly hair, merry and trusting expression, radiant and
+      honest face
+    clothing: Simple blue wool dress with white collar, wool tights, small leather shoes, child's cardigan
+    position: Leading the group excitedly toward familiar landmarks, vindicated and joyful
+    action: Pointing out familiar features, eagerly planning to show siblings Mr. Tumnus
+  scene:
+    mainElements: Single glowing lamppost standing alone among snow-laden pine trees, deep unmarked snow covering forest floor
+    details: Four sets of footprints now marking previously pristine snow, lamppost casting familiar golden light that Lucy
+      recognizes with joy, siblings' faces showing wonder and adjustment to magical reality, their modern clothes contrasting
+      with timeless winter forest, sound of their voices the only break in profound forest silence
+    background: Dense forest of snow-covered evergreen trees, paths leading deeper into Narnia awaiting exploration
+    atmosphere: Quiet magical stillness, cold winter air, golden light from lamppost casting warm glow on white snow and dark
+      tree trunks
+  composition:
+    cameraAngle: Wide shot showing all four children together in Narnia for first time
+    focus: Four siblings grouped near lamppost, Lucy vindicated and leading, others adjusting to new reality
+    depth: Children in foreground around lamppost, forest paths in middle ground suggesting adventures ahead, mysterious Narnia
+      landscape in background, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - bright red
+    - vivid blue
+    - sunny yellow
+    secondary:
+    - grass green
+    - purple
+    - orange
+    background: simple flat colors or patterns
+    usageNotes: Intense, saturated colors used intuitively
+    saturation: very high (bold, pure colors)
+    contrast: high (bright colors against each other)
+  lineArt:
+    style: simple, direct outlines
+    weight: consistent, moderate thickness
+    color: dark outlines or color boundaries
+    texture: hand-drawn quality, slight irregularities
+    edgeTreatment: simple, clean edges
+  lighting:
+    type: flat, even lighting (no sophisticated shading)
+    direction: front-lit, minimal shadows
+    intensity: bright, cheerful
+    shadows:
+      style: simple, flat shadows if any
+      color: darker version of base color
+      opacity: solid
+    highlights: minimal, simple bright spots
+  rendering:
+    technique: direct, intuitive application
+    texture: flat colors with simple patterns
+    detailLevel: high in some areas (obsessive detail), simple in others
+    finish: flat, matte appearance
+  perspective: flattened or incorrect perspective, childlike spatial relationships
+  mood:
+    overall: cheerful, innocent, direct
+    emotion: joy, simplicity, honesty
+    tempo: peaceful, content
+    keywords:
+    - cheerful
+    - innocent
+    - direct
+    - honest
+    - joyful
+  stylePrecedents:
+  - Henri Rousseau jungle paintings
+  - Grandma Moses rural scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

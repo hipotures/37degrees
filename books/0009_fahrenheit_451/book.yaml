@@ -1,6 +1,7 @@
 book_info:
   title: "Fahrenheit 451"
+  title_pl: "Fahrenheit 451"
   author: "Ray Bradbury"
   year: 1953
-  genre: "Dystopia"
-  reading_time: "5-6 godzin"
+  genre: "Dystopian fiction"
+  reading_time: "5-6 hours"

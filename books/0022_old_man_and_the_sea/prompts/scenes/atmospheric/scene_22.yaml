@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Gathering Crowd and Wonder"
+  setting:
+    time: "September 1950, morning, 7:00 AM, village awakening"
+    location: "Small stone harbor with wooden docks extending into protected bay where Cojímar River meets ocean"
+    weather: "Clear bright morning, gentle breeze, perfect visibility"
+  characters:
+    - appearance: "Cuban fisherman in his 40s, weathered and strong like Santiago but younger, dark hair graying at temples, calloused hands, sun-darkened skin"
+      clothing: "Similar fishing attire to Santiago - worn work shirt and trousers, rope belt, sometimes straw hat"
+      position: "Standing on dock measuring skeleton with rope"
+      action: "Calling out measurements to growing crowd, expressing amazement at size"
+    - appearance: "Middle-aged Cuban cafe owner around 45-50 years, stocky build from good eating, receding black hair, kind weathered face with mustache"
+      clothing: "Clean white cotton shirt, dark trousers, apron when working in kitchen"
+      position: "In crowd around boat"
+      action: "Bringing coffee and food, organizing assistance for exhausted fisherman"
+  scene:
+    mainElements: "Stone and concrete quays weathered by decades of salt spray, colorful small fishing boats called skiffs moored to bollards, fish house building where catches are processed, scattered fishing nets and equipment"
+    details: "Growing crowd of fishermen, villagers, and early morning workers gathering around returned boat, everyone staring in amazement at enormous skeleton, massive fish skeleton over 18 feet long, white vertebrae and ribs picked completely clean by sharks, great head with intact sword-like bill, tail fin still attached, lashed to side of small fishing boat, people gesturing and pointing, animated Spanish conversations expressing wonder, measuring rope being held against skeleton length"
+    background: "Village coming alive with morning activity, more people walking toward harbor as news spreads, clear morning light perfect for examining the catch"
+    atmosphere: "Growing excitement and admiration for extraordinary achievement, community gathering to witness and celebrate, sense of legend being born, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot capturing crowd reaction and skeleton"
+    focus: "Community amazement at massive fish skeleton"
+    depth: "Foreground shows detailed skeleton and measuring activity, middle ground captures animated crowd, background reveals awakening village"

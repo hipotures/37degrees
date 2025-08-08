@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Freeing the Stone Prisoners"
+  setting:
+    time: "Spring morning in Narnia, bright sunlight"
+    location: "Castle of ice and stone built between two hills in Narnia, towers with sharp pointed spires"
+    weather: "Warm spring morning, ice beginning to melt"
+  characters:
+    - appearance: "Enormous male lion, much larger than ordinary lions, magnificent golden mane that catches and reflects light, great solemn royal eyes that are overwhelming to look upon, noble and majestic bearing"
+      clothing: "None - natural lion"
+      position: "Moving through castle courtyard breathing on stone statues"
+      action: "Breathing warm golden breath on each frozen statue, bringing them back to life"
+    - appearance: "Girl, 12 years old, graceful and poised, long straight black hair, the pretty one of the family, mature bearing, gentle facial features"
+      clothing: "Simple wool dress in muted blue-grey, practical school cardigan, dark stockings, sensible shoes"
+      position: "Riding on Aslan's back through castle courtyard"
+      action: "Watching in amazement as statues come to life around them"
+    - appearance: "Girl, 8 years old, small and delicate, bright golden curly hair, merry and trusting expression, radiant and honest face"
+      clothing: "Simple blue wool dress with white collar, wool tights, small leather shoes, child's cardigan"
+      position: "Also riding on Aslan's broad back"
+      action: "Calling out greetings to newly freed creatures with delight"
+  scene:
+    mainElements: "Small towers with long pointed spires sharp as pins like enormous jester caps, great iron gates leading to courtyard filled with stone statues of turned enemies"
+    details: "Dozens of stone statues throughout courtyard and castle halls beginning to crack and crumble as Aslan's breath touches them, grey stone transforming into living color and movement, lions, centaurs, horses, dwarfs, and fauns stretching and blinking as life returns, creatures crying out with joy and gratitude, castle ice melting in warm spring air, sound of breaking stone and celebrating voices echoing through halls"
+    background: "Ice castle walls beginning to melt and weep, spring sunlight streaming through windows, courtyard filled with newly freed allies"
+    atmosphere: "Triumph of life over petrification, mass resurrection and liberation, hope and joy spreading through formerly dead castle, magical transformation from grey death to vibrant life, no text or letters visible"
+  composition:
+    cameraAngle: "Dynamic tracking shot following Aslan through castle as he frees prisoners"
+    focus: "Aslan's divine power bringing liberation, statues transforming to living creatures"
+    depth: "Aslan and riders in foreground, statues coming to life in middle ground, castle architecture in background"

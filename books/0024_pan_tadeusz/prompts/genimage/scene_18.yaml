@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1811, deep night, 11:00 PM, full moon illuminating countryside in silver light
+    location: Lithuanian countryside with fields and forest edges under brilliant moonlight
+    weather: Clear night with full moon, slight breeze rustling vegetation, cool temperature
+  characters:
+  - appearance: Man around 40 years, military bearing despite religious habit, broad-shouldered well-built physique, face
+      marked by distinctive scars - wide scar above right ear and lance or bullet wound mark on chin
+    clothing: Bernardine monk habit with hood concealing face, brown rough wool garment with rope belt, sandals, habit often
+      dusty from travel
+    position: Walking along moonlit path between fields, moving with purposeful stealth
+    action: Traveling by night for secret political mission, occasionally checking surroundings, maintaining quiet movement
+      despite urgent purpose
+  scene:
+    mainElements: Brilliant full moon casting strong shadows and illuminating landscape in silver light, fields appearing
+      almost white under moonlight, trees creating dramatic black silhouettes
+    details: Moonlight so bright it creates distinct shadows, dew on grass catching silver light like scattered stars, night
+      sounds of owls and distant wolves, mysterious quality of familiar landscape transformed by lunar illumination, path
+      visible as pale ribbon through darker fields
+    background: Forest appearing as black wall against silver sky, distant hills visible as gentle curves under moonlight,
+      star field visible around bright moon
+    atmosphere: Mysterious beauty of moonlit night travel, sense of secret purpose and danger, landscape transformed into
+      magical silver realm, solitude and determination, no text or letters visible
+  composition:
+    cameraAngle: Medium shot emphasizing moonlight effects and shadow patterns
+    focus: Cloaked figure traveling through silver moonlit landscape
+    depth: Foreground shows moonlit path details, middle ground captures traveling figure, background reveals moonlit countryside
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

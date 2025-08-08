@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Passion Under the Chestnut Tree"
+  setting:
+    time: "1830s England, summer evening"
+    location: "Gothic manor house on Yorkshire moors, three stories with battlements and ancient towers, grounds beneath ancient chestnut tree"
+    weather: "Warm evening with approaching storm clouds, lightning in distance"
+  characters:
+    - appearance: "Young woman, early 20s, small slight build, plain features, pale skin, dark hair pulled severely back, large expressive dark eyes, determined chin"
+      clothing: "Simple summer dress in white or light color, hair less severely arranged, face glowing with emotion"
+      position: "Standing beneath spreading branches, face upturned with joy and disbelief"
+      action: "Reaching toward outstretched hand, eyes shining with tears of happiness, whole being transformed by love returned"
+    - appearance: "Dark-haired man in his late 30s, tall broad-shouldered build, harsh angular features, penetrating dark eyes, weather-beaten complexion, slightly brooding expression"
+      clothing: "White shirt open at collar, dark waistcoat, no jacket, hair disheveled by emotion"
+      position: "Reaching toward beloved with both arms, standing close beneath tree canopy"
+      action: "Declaring love with passionate intensity, eyes fixed on companion's face, barriers finally dissolved"
+  scene:
+    mainElements: "Ancient chestnut tree with massive spreading branches, evening light filtering through leaves, storm approaching on horizon"
+    details: "Massive tree trunk with gnarled bark, leaves rustling in pre-storm breeze, garden paths winding away into dusk, first lightning flashing in distance, ancient tree creating natural cathedral, flowers blooming at base"
+    background: "Manor house visible through trees, storm clouds building dramatically, moors stretching beyond gardens"
+    atmosphere: "Overwhelming joy and passionate love finally expressed, sense of destiny fulfilled, nature blessing union, storm approaching to test happiness"
+  composition:
+    cameraAngle: "Medium shot capturing figures beneath natural canopy"
+    focus: "Moment of perfect happiness and romantic fulfillment"
+    depth: "Lovers beneath tree in foreground, garden grounds in middle ground, approaching storm in background"

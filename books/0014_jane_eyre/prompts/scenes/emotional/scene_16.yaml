@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Sanctuary Found"
+  setting:
+    time: "1830s England, evening"
+    location: "Small isolated manor house in deep woods thirty miles from Thornfield, simple stone construction"
+    weather: "Gentle evening light filtering through trees, peaceful stillness"
+  characters:
+    - appearance: "Young woman, early 20s, small slight build, plain features, pale skin, dark hair pulled severely back, large expressive dark eyes, determined chin"
+      clothing: "Simple black mourning dress or grey governess dress, white collar and cuffs, black shoes, plain bonnet when outdoors"
+      position: "Standing hesitantly at cottage door, hand raised to knock"
+      action: "Gathering courage to ask for help, exhausted but maintaining dignity, shoulders squared despite fatigue"
+  scene:
+    mainElements: "Modest two-story house surrounded by dense forest, overgrown garden, small windows, ivy-covered walls"
+    details: "Warm golden light glowing from cottage windows, smoke rising from chimney, well-tended vegetable garden, wooden gate standing open, birds settling in trees for night, worn stone path to door"
+    background: "Dense forest surrounding cottage, peaceful rural setting, distant sound of stream flowing"
+    atmosphere: "Peaceful rural seclusion, natural harmony, democratic simplicity, healing quietude away from social pretensions, hope for human kindness, tentative trust in strangers"
+  composition:
+    cameraAngle: "Medium shot showing tentative approach to sanctuary"
+    focus: "Weary traveler finding refuge with kind strangers"
+    depth: "Hesitant figure in foreground, welcoming cottage in middle ground, protective forest in background"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Ring Found"
+  setting:
+    time: "Third Age, unknown time underground"
+    location: "Dark underground tunnel beneath Misty Mountains, narrow rocky passage"
+    weather: "Cold damp air underground, no natural light"
+  characters:
+    - appearance: "Middle-aged hobbit, late 40s, curly brown hair, round cheerful face, short stature, slightly portly build, bright hazel eyes"
+      clothing: "Forest green velvet waistcoat, cream-colored linen shirt with brass buttons, brown woolen breeches, yellow silk handkerchief in waistcoat pocket, now disheveled and dirty"
+      position: "Crouched on tunnel floor, reaching toward something small on the ground"
+      action: "Picking up small object from rocky tunnel floor, holding it up to examine in dim light, slipping it carefully into waistcoat pocket"
+  scene:
+    mainElements: "Simple plain gold ring, perfectly smooth surface catching light, appears ordinary but grants invisibility when worn, fits snugly on finger"
+    details: "Narrow stone tunnel with rough-hewn walls, loose rocks and pebbles scattered on floor, faint light filtering from somewhere ahead, smooth gold ring gleaming against dark stone, water drops on tunnel walls creating occasional reflections, uneven rocky floor worn by countless passages, ancient chisel marks visible in stone walls"
+    background: "Dark tunnel stretching in both directions, branching passages disappearing into blackness, sound of distant water echoing through mountain"
+    atmosphere: "Moment of fateful discovery, small object with enormous significance, sense of destiny changing course, underground isolation emphasizing importance, no text or letters visible"
+  composition:
+    cameraAngle: "Close-up shot of hobbit's hands discovering ring on tunnel floor"
+    focus: "The moment of finding the ring that will change everything"
+    depth: "Hands and ring in sharp foreground focus, tunnel walls in middle ground, dark passage extending in background"

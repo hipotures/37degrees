@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Collapse of All Pretense"
+  setting:
+    time: "1840s Paris, devastating night of complete breakdown"
+    location: "Luxurious Second Empire Parisian salon in upscale district, ornate high-ceilinged interior with tall windows"
+    weather: "Violent thunderstorm raging outside, rain lashing windows, lightning illuminating interior"
+  characters:
+    - appearance: "Woman, early twenties, pale complexion with delicate features, auburn hair styled in elegant 1840s fashion with center part and side curls, slender build, fragile due to illness, expressive dark eyes"
+      clothing: "Luxurious white silk evening gown with off-shoulder neckline, fitted bodice with tiny pearl buttons, full bell-shaped skirt, white lace gloves, pearl necklace, small pearl earrings"
+      position: "Collapsed on floor in center of room, body wracked with violent coughing, silk gown spread around her"
+      action: "Coughing up blood onto white lace handkerchief, tears streaming down face, entire body convulsing with illness and grief"
+    - appearance: "Young man, mid-twenties, dark brown hair combed back in 1840s style, clean-shaven face with strong jawline, tall athletic build, intense brown eyes, pale skin"
+      clothing: "Black formal evening tailcoat, white dress shirt with high starched collar, white silk bow tie, black wool trousers with satin stripe, black leather dress shoes"
+      position: "Kneeling beside her with arms reaching out helplessly, face contorted with anguish"
+      action: "Crying out in desperation, hands trembling as he tries to help but cannot touch what is destroying her"
+  scene:
+    mainElements: "Opulent red velvet sofas with gold trim, mahogany piano against wall, marble fireplace with gilt mirror above, crystal chandelier hanging from decorated ceiling"
+    details: "Fresh red camellia flowers scattered across floor, deep crimson petals with velvet texture mixed with drops of blood, dark green glossy leaves, red silk ribbon torn and stained. Luminous white pearl necklace broken, individual pearls rolling across polished floor. Overturned furniture, mirrors cracked by thunder vibrations. Lightning flashes creating harsh stroboscopic lighting. Blood-stained white lace handkerchief in her trembling hand. No text or letters visible"
+    background: "Storm-lashed windows with rain streaming down glass, chandelier swaying with thunder, shadows dancing wildly with each lightning flash"
+    atmosphere: "Sumptuous wealth mixed with feminine refinement, warm gaslight creating golden glow, subtle air of melancholy"
+  composition:
+    cameraAngle: "Dramatic low angle emphasizing the complete collapse and vulnerability"
+    focus: "Broken figure at center with scattered pearls and bloodied camellias"
+    depth: "Foreground shows blood and broken pearls, middle ground captures the devastating collapse, background displays raging storm through windows"

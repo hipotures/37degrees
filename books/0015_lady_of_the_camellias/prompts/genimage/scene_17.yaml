@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: 1840s Paris, oppressive late night
+    location: Sparsely furnished bedroom in Marguerite's apartment, stripped of former luxury due to financial ruin
+    weather: Suffocating humid night with no air circulation, storm brewing outside
+  characters:
+  - appearance: Woman, early twenties, pale complexion with delicate features, auburn hair styled in elegant 1840s fashion
+      with center part and side curls, slender build, fragile due to illness, expressive dark eyes
+    clothing: Luxurious white silk evening gown with off-shoulder neckline, fitted bodice with tiny pearl buttons, full bell-shaped
+      skirt, white lace gloves, pearl necklace, small pearl earrings
+    position: Pressed against bare wall in corner, arms wrapped tightly around herself, knees partially drawn up
+    action: Hyperventilating with panic, eyes wide with claustrophobic fear, sweat beading on forehead despite illness
+  - appearance: Middle-aged woman, early forties, brown hair pulled back in simple bun, kind round face with warm brown eyes,
+      average height, sturdy build, worn hands from work
+    clothing: Simple black servant's dress with white lace collar and cuffs, white cotton apron tied at waist, small white
+      cap, black stockings, practical black shoes
+    position: Crouching beside her, one hand reaching out cautiously, other pressed against her own heart in worry
+    action: Speaking in soothing whispers, trying to calm the panic attack, eyes reflecting helpless devotion
+  scene:
+    mainElements: Simple wooden bed with white linen sheets, single wooden chair beside bed, plain wooden table with medicine
+      bottles, bare walls with single religious crucifix, small window with simple curtains
+    details: Fresh red camellia flowers arranged in small bouquet wilting in glass of water on bare table, deep crimson petals
+      dropping one by one. Empty medicine bottles creating shadows in dim candlelight. Luminous white pearl necklace with
+      perfectly matched spherical pearls lying abandoned and tangled on floor. Room appearing smaller and more cramped than
+      ever, walls seeming to press inward. Single candle providing inadequate flickering light. No text or letters visible
+    background: Bare walls appearing to lean inward oppressively, small window blocked by heavy curtains, sparse furniture
+      creating maze-like obstacles
+    atmosphere: Austere solemnity, spiritual purification through suffering, quiet dignity in poverty, sacred peaceful quality
+      of approaching death
+  composition:
+    cameraAngle: Low claustrophobic angle making the ceiling appear lower and walls closer
+    focus: Cornered figure experiencing overwhelming psychological pressure
+    depth: Foreground shows fallen pearls and dropping petals, middle ground captures the terrified woman and devoted servant,
+      background emphasizes oppressive bare walls
+visualElements:
+  colorPalette:
+    primary:
+    - muted golds
+    - deep greens
+    - burgundy
+    - peacock blue
+    secondary:
+    - ivory
+    - dusty rose
+    - sage green
+    background: aged paper or decorative patterns
+    usageNotes: Rich but muted tones with metallic accents
+    saturation: medium, sophisticated
+    contrast: elegant, balanced
+  lineArt:
+    style: flowing, sinuous curves
+    weight: varied, decorative
+    color: dark brown or black with gold accents
+    texture: smooth, refined
+    edgeTreatment: organic, plant-like curves
+  lighting:
+    type: decorative, non-realistic
+    direction: integrated into design
+    intensity: balanced throughout
+    shadows:
+      style: decorative, part of pattern
+      color: deeper tones of base colors
+      opacity: integrated
+    highlights: gold leaf effects
+  rendering:
+    technique: decorative illustration
+    texture: smooth with ornamental details
+    detailLevel: high in decoration, simplified figures
+    finish: refined, poster-like
+  perspective: flattened, decorative
+  mood:
+    overall: elegant, romantic, sophisticated
+    emotion: beauty, refinement, nostalgia
+    tempo: flowing, graceful
+    keywords:
+    - elegant
+    - decorative
+    - romantic
+    - ornate
+    - sophisticated
+  stylePrecedents:
+  - Alphonse Mucha
+  - Gustav Klimt
+  - Aubrey Beardsley
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

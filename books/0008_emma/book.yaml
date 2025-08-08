@@ -1,6 +1,7 @@
 book_info:
   title: "Emma"
+  title_pl: "Emma"
   author: "Jane Austen"
   year: 1815
-  genre: "Komedia romantyczna"
-  reading_time: "12-14 godzin"
+  genre: "Romantic comedy"
+  reading_time: "12-14 hours"

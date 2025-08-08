@@ -1,6 +1,7 @@
 book_info:
-  title: "Rok 1984"
+  title: "Nineteen Eighty-Four"
+  title_pl: "Rok 1984"
   author: "George Orwell"
   year: 1949
-  genre: "Dystopia"
-  reading_time: "8-10 godzin"
+  genre: "Dystopian fiction"
+  reading_time: "8-10 hours"

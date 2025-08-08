@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Lightning's Omen"
+  setting:
+    time: "1830s England, midnight"
+    location: "Gothic manor house on Yorkshire moors, three stories with battlements and ancient towers, grounds where ancient chestnut tree stands"
+    weather: "Violent thunderstorm with lightning and torrential rain"
+  characters:
+    - appearance: "Young woman, early 20s, small slight build, plain features, pale skin, dark hair pulled severely back, large expressive dark eyes, determined chin"
+      clothing: "White nightgown soaked by rain, shawl clinging to shoulders, hair streaming wet"
+      position: "Standing in storm staring at split tree, rain streaming down her face"
+      action: "Gazing in shock and growing dread at divine judgment, recognizing ominous portent of destroyed happiness"
+  scene:
+    mainElements: "Ancient chestnut tree split down middle by lightning strike, two halves still connected at massive trunk base, storm raging overhead"
+    details: "Lightning still crackling across sky, tree split cleanly down center but roots holding halves together, rain washing over devastated garden, thunder echoing across moors, destroyed blossoms scattered by wind"
+    background: "Manor house dark against storm-lit sky, moors invisible in driving rain, other trees bending before wind"
+    atmosphere: "Divine wrath and supernatural warning, perfect happiness destroyed by higher powers, ominous foreshadowing of trials ahead, nature reflecting spiritual turmoil"
+  composition:
+    cameraAngle: "Wide shot showing figure dwarfed by natural forces and destruction"
+    focus: "Split tree as symbol of divided fate, fragile human happiness facing cosmic forces"
+    depth: "Storm-soaked figure in foreground, split tree dominating middle ground, storm-torn sky in background"

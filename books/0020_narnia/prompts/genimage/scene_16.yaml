@@ -1,0 +1,102 @@
+sceneDescription:
+  setting:
+    time: Eternal winter day in Narnia, but showing first signs of thaw
+    location: Forest clearing where spring is beginning to break through winter's grip
+    weather: Patches of green grass appearing through melting snow, warmer air
+  characters:
+  - appearance: Boy, 13 years old, tall and well-built for his age, natural leadership bearing, fair-haired English youth,
+      noble and serious facial features
+    clothing: Brown wool vest over white linen shirt, knee-length dark breeches, long socks, sturdy leather shoes, school
+      sweater
+    position: Standing alert and ready to receive Father Christmas's gift
+    action: Accepting sword and shield with growing sense of responsibility and destiny
+  - appearance: Girl, 12 years old, graceful and poised, long straight black hair, the pretty one of the family, mature bearing,
+      gentle facial features
+    clothing: Simple wool dress in muted blue-grey, practical school cardigan, dark stockings, sensible shoes
+    position: Standing gracefully, hands extended to receive gifts
+    action: Testing weight of ivory bow, understanding solemnity of receiving weapons for war
+  - appearance: Girl, 8 years old, small and delicate, bright golden curly hair, merry and trusting expression, radiant and
+      honest face
+    clothing: Simple blue wool dress with white collar, wool tights, small leather shoes, child's cardigan
+    position: Looking up with wonder at the magical figure
+    action: Receiving small dagger and precious cordial with appropriate reverence
+  - appearance: Large brown beaver with thick fur, whiskered face, intelligent eyes, solid build of working beaver
+    clothing: None - natural beaver
+    position: Standing respectfully nearby, witnessing this momentous event
+    action: Watching with joy as prophecy begins fulfilling, children receiving tools for battle
+  - appearance: Brown female beaver with kind-looking face, thick fur, smaller than her husband, matronly bearing
+    clothing: Sometimes wearing simple apron while working
+    position: Beside her husband, filled with hope at this sign
+    action: Clapping paws together in delight at Father Christmas's appearance
+  - appearance: Magnificent bearded figure in red robes, larger than life, emanating joy and authority
+    clothing: Rich red robes trimmed with white fur, boots and belt
+    position: Standing beside sleigh pulled by reindeer, distributing gifts
+    action: Bestowing magical gifts with solemn ceremony, explaining their purposes
+  scene:
+    mainElements: Noble sword given by Father Christmas, called Rhindon, beautifully crafted with ornate hilt, accompanies
+      red shield bearing golden lion rampant, symbols of kingship
+    details: Father Christmas's magnificent sleigh with silver bells and rich decoration, reindeer prancing with anticipation,
+      wrapped gifts revealing themselves as weapons and magical items, children's faces showing wonder and growing maturity,
+      patches of green grass and early flowers breaking through snow, warmer air carrying scent of spring
+    background: Forest showing mixed winter and spring elements, some trees still snow-covered while others show budding branches
+    atmosphere: Hope and renewal breaking through despair, magical moment of transformation, gifts carrying weight of destiny
+      and responsibility, no text or letters visible
+  composition:
+    cameraAngle: Medium group shot showing gift-giving ceremony with Father Christmas central
+    focus: Father Christmas bestowing gifts on children, emphasizing ceremony and significance
+    depth: Gift-giving in foreground, reindeer and sleigh in middle ground, changing season forest in background
+visualElements:
+  colorPalette:
+    primary:
+    - bright red
+    - vivid blue
+    - sunny yellow
+    secondary:
+    - grass green
+    - purple
+    - orange
+    background: simple flat colors or patterns
+    usageNotes: Intense, saturated colors used intuitively
+    saturation: very high (bold, pure colors)
+    contrast: high (bright colors against each other)
+  lineArt:
+    style: simple, direct outlines
+    weight: consistent, moderate thickness
+    color: dark outlines or color boundaries
+    texture: hand-drawn quality, slight irregularities
+    edgeTreatment: simple, clean edges
+  lighting:
+    type: flat, even lighting (no sophisticated shading)
+    direction: front-lit, minimal shadows
+    intensity: bright, cheerful
+    shadows:
+      style: simple, flat shadows if any
+      color: darker version of base color
+      opacity: solid
+    highlights: minimal, simple bright spots
+  rendering:
+    technique: direct, intuitive application
+    texture: flat colors with simple patterns
+    detailLevel: high in some areas (obsessive detail), simple in others
+    finish: flat, matte appearance
+  perspective: flattened or incorrect perspective, childlike spatial relationships
+  mood:
+    overall: cheerful, innocent, direct
+    emotion: joy, simplicity, honesty
+    tempo: peaceful, content
+    keywords:
+    - cheerful
+    - innocent
+    - direct
+    - honest
+    - joyful
+  stylePrecedents:
+  - Henri Rousseau jungle paintings
+  - Grandma Moses rural scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

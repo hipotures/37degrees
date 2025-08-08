@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 1830s England, early morning
+    location: Small isolated manor house in deep woods thirty miles from Thornfield, simple stone construction
+    weather: Clear dawn breaking with golden light, mist lifting from forest floor
+  characters:
+  - appearance: Young woman, early 20s, small slight build, plain features, pale skin, dark hair pulled severely back, large
+      expressive dark eyes, determined chin
+    clothing: Simple black mourning dress or grey governess dress, white collar and cuffs, black shoes, plain bonnet when
+      outdoors
+    position: Standing in doorway with small traveling bag, one foot on threshold, one inside house
+    action: Taking decisive step forward, chin raised with newfound confidence, eyes bright with purpose and determination
+  scene:
+    mainElements: Modest two-story house surrounded by dense forest, overgrown garden, small windows, ivy-covered walls
+    details: Morning light streaming through open door, packed traveling bag with few precious possessions, letter left on
+      table, door key placed beside it, footprints in morning dew on path
+    background: Dense forest with shafts of golden sunlight piercing through trees, distant road visible beyond garden gate
+    atmosphere: Peaceful rural seclusion now left behind with gratitude, resolute determination, love conquering duty, authentic
+      choice freely made, courage to follow heart despite unknown dangers
+  composition:
+    cameraAngle: Medium shot showing moment of decisive departure
+    focus: Woman choosing love over duty, authenticity over conformity
+    depth: Determined figure in foreground, abandoned sanctuary in middle ground, road to uncertain future in background
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

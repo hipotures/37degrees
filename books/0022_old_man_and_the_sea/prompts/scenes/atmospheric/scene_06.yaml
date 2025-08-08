@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Harsh Noon Sun on Empty Ocean"
+  setting:
+    time: "September 1950, noon, 12:00 PM, sun at zenith"
+    location: "Deep blue waters of Gulf Stream current flowing northwest along Cuban coast, far from sight of land in all directions"
+    weather: "Blazing clear sky, intense tropical heat, minimal wind, glassy water surface"
+  characters:
+    - appearance: "Old man over 70 years, thin and gaunt but with strong sinewy arms, height average for elderly Cuban fisherman, weathered dark skin with deep wrinkles on neck and face, brown spots of benign skin cancer on cheeks, hands covered with deep old healed scars from fishing lines"
+      clothing: "Worn patched shirt faded by sun and salt, old threadbare trousers, often barefoot, straw hat when at sea for sun protection"
+      position: "Seated in boat's meager shade, back against mast"
+      action: "Shielding eyes from blazing sun, monitoring fishing lines, conserving energy in oppressive heat"
+  scene:
+    mainElements: "Endless expanse of deep blue to purple ocean water, horizon line meeting azure sky, no visible land or other vessels, surface occasionally broken by flying fish or dolphins"
+    details: "Merciless sun directly overhead eliminating all shadows except thin line under boat gunwale, water surface mirror-smooth reflecting sky like polished metal, colors bleached white and blue by intense light, air shimmering with heat waves, boat interior scorching hot to touch, fishing lines barely visible in blinding glare, no breeze to provide relief, dried salt crystals forming on all surfaces"
+    background: "Sky burned white-blue by solar intensity, horizon wavering in heat distortion, no clouds anywhere visible, sun creating halo effect that obscures distant water"
+    atmosphere: "Crushing heat and stillness, sense of being trapped under relentless solar furnace, time seeming suspended in blazing noon, profound isolation emphasized by harsh light, no text or letters visible"
+  composition:
+    cameraAngle: "High angle suggesting oppressive overhead sun"
+    focus: "Figure seeking shade in small boat overwhelmed by light"
+    depth: "Foreground shows sun-bleached boat details, middle ground captures blinding water reflection, background dissolves in white-hot haze"

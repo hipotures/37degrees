@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Morning in the Shire"
+  setting:
+    time: "Third Age, pleasant spring morning"
+    location: "Peaceful hobbit village in rolling green hills of English countryside Shire, early 20th century rural atmosphere"
+    weather: "Warm golden sunlight streaming through morning mist, gentle breeze stirring grass"
+  characters:
+    - appearance: "Middle-aged hobbit, late 40s, curly brown hair, round cheerful face, short stature, slightly portly build, bright hazel eyes"
+      clothing: "Forest green velvet waistcoat, cream-colored linen shirt with brass buttons, brown woolen breeches, yellow silk handkerchief in waistcoat pocket"
+      position: "Standing outside round green door of hobbit-hole, bare hairy feet on stone step"
+      action: "Smoking long wooden pipe, blowing perfect smoke rings into morning air, adjusting waistcoat buttons contentedly"
+  scene:
+    mainElements: "Round colorful doors built into hillsides, neat gardens with vegetables and flowers, cobblestone paths winding between homes, flowering hedgerows"
+    details: "Yellow painted round door with brass knocker, small circular windows with flower boxes, red and white roses climbing over entrance, well-tended vegetable garden with tomatoes and cabbages, wooden fence with climbing ivy, stone chimney producing gentle smoke"
+    background: "Rolling green hills stretching to horizon, distant windmill turning slowly, other hobbit-holes dotting hillsides with their colorful doors"
+    atmosphere: "Pastoral tranquility, morning mist rising from valleys, warm sunlight on green meadows, birds singing in apple trees, peaceful domestic contentment, no text or letters visible"
+  composition:
+    cameraAngle: "Wide establishing shot from elevated position overlooking village"
+    focus: "Bilbo outside his green door as central figure against idyllic landscape"
+    depth: "Bilbo and Bag End in foreground, village streets in middle ground, rolling countryside in background"

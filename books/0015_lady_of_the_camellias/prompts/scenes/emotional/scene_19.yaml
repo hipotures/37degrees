@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Explosive Confrontation of Rage"
+  setting:
+    time: "1840s Paris, night of violent emotional eruption"
+    location: "Grand opera house interior in 1840s Paris, multiple tiers of elegant private boxes with red velvet curtains"
+    weather: "Wild storm outside with wind howling around the building"
+  characters:
+    - appearance: "Young man, mid-twenties, dark brown hair combed back in 1840s style, clean-shaven face with strong jawline, tall athletic build, intense brown eyes, pale skin"
+      clothing: "Black formal evening tailcoat, white dress shirt with high starched collar, white silk bow tie, black wool trousers with satin stripe, black leather dress shoes"
+      position: "Standing with arms raised in explosive gesture, body twisted with rage, every muscle tensed for attack"
+      action: "Shouting with uncontrolled fury, face contorted with jealous rage, fists clenched as if ready to strike"
+    - appearance: "Woman, early twenties, pale complexion with delicate features, auburn hair styled in elegant 1840s fashion with center part and side curls, slender build, fragile due to illness, expressive dark eyes"
+      clothing: "Luxurious white silk evening gown with off-shoulder neckline, fitted bodice with tiny pearl buttons, full bell-shaped skirt, white lace gloves, pearl necklace, small pearl earrings"
+      position: "Recoiling against opera box railing, one hand pressed to her throat, body shrinking from the violent outburst"
+      action: "Staring in horror at the transformation of love into rage, tears of shock and fear streaming down pale cheeks"
+    - appearance: "Middle-aged man, early fifties, graying dark hair receding at temples, well-groomed sideburns, stern weathered face with deep lines, stocky build, sharp blue eyes"
+      clothing: "Dark navy formal frock coat, black wool waistcoat, white dress shirt, black silk cravat, gold pocket watch chain visible, black wool trousers, black leather boots"
+      position: "Standing with rigid moral authority, hands clasped behind back, unmoved by the emotional chaos"
+      action: "Observing the scene with cold satisfaction, having orchestrated this moment of revelation"
+  scene:
+    mainElements: "Ornate golden balcony railings with intricate scrollwork, red plush seating, elaborate architectural details, massive crystal chandelier illuminating the space"
+    details: "Fresh red camellia flowers thrown violently to the floor and trampled, deep crimson petals scattered and crushed underfoot, dark green glossy leaves torn, red silk ribbon ripped apart. Luminous white pearl necklace yanked from her neck with several pearls scattered across box floor. Opera glasses smashed against railing. Harsh theater lighting creating dramatic angular shadows across their faces. No text or letters visible"
+    background: "Opera performance halted as other audience members turn to stare at the violent scene, shocked whispers filling the theater"
+    atmosphere: "Aristocratic splendor and social display, brilliant gaslight reflecting off jewelry and silk gowns, buzz of fashionable society"
+  composition:
+    cameraAngle: "Dynamic diagonal composition emphasizing the explosive violence and recoiling terror"
+    focus: "Three figures locked in moment of peak emotional violence and moral judgment"
+    depth: "Foreground shows trampled camellias and scattered pearls, middle ground captures the explosive confrontation, background displays shocked opera audience"

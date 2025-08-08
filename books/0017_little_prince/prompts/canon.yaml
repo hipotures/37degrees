@@ -1,0 +1,131 @@
+canon:
+  characters:
+    - id: "little_prince"
+      name: "The Little Prince"
+      description_block: |
+        characters:
+          - appearance: "Young boy, approximately 7-8 years old, blonde curly hair reaching his shoulders, fair skin with rosy cheeks, bright blue eyes filled with wonder and melancholy, slender build, average height for a child"
+            clothing: "Long golden-yellow coat reaching mid-thigh, white shirt underneath, long golden scarf flowing in wind, dark blue or black trousers, simple black shoes, no gloves or hat"
+            posture: "Standing upright with confident yet gentle demeanor, hands often at his sides or gesturing expressively, head held high with curious expression, feet planted firmly on ground"
+            action: "Gazing thoughtfully at distant horizon, speaking with earnest hand gestures, or walking with purposeful yet unhurried steps across landscape"
+
+    - id: "pilot_narrator"
+      name: "The Pilot"
+      description_block: |
+        characters:
+          - appearance: "Adult man in his 30s, weathered face with lines from sun exposure, brown hair slightly disheveled, tired but kind eyes, lean build from physical hardship, stubbled jaw from days in desert"
+            clothing: "Khaki aviation jacket with multiple pockets, white or light blue shirt underneath, dark brown leather flying gloves, aviation goggles around neck or on forehead, brown leather boots, military-style belt"
+            posture: "Sitting cross-legged on desert sand or kneeling while working on broken engine, slightly hunched shoulders showing fatigue, hands busy with mechanical work or drawing tools"
+            action: "Examining broken aircraft engine parts, sketching in notepad with pencil, wiping sweat from forehead with back of hand, or listening intently with thoughtful expression"
+
+    - id: "the_rose"
+      name: "The Rose"
+      description_block: |
+        characters:
+          - appearance: "Single magnificent rose flower, deep red petals with velvety texture, four perfect thorns visible on green stem, bright green leaves, standing approximately 12 inches tall, petals slightly open showing golden center"
+            clothing: "Transparent glass dome covering entire flower for protection, crystal clear glass reflecting light, dome sits on small patch of carefully tended soil"
+            posture: "Standing regally upright with stem perfectly straight, petals arranged in perfect symmetry, slight graceful curve to stem showing natural elegance"
+            action: "Swaying gently in breeze, petals occasionally trembling with emotion, sometimes turning toward or away from viewers, radiating both beauty and fragility"
+
+    - id: "the_fox"  
+      name: "The Fox"
+      description_block: |
+        characters:
+          - appearance: "Small red fox with bright amber eyes, pointed ears alert and forward-facing, bushy tail with white tip, russet red fur with darker markings around ears and paws, intelligent expression showing ancient wisdom"
+            clothing: "Natural golden-red fur coat, no artificial clothing or accessories, pristine condition suggesting wild but well-cared-for state"
+            posture: "Sitting on haunches with tail wrapped around front paws, head tilted slightly showing attentive listening, ears perked forward, alert but relaxed stance"
+            action: "Speaking with animated expressions, ears moving to show emotion, occasionally padding forward with graceful movements, or sitting still in contemplative pose with knowing gaze"
+
+    - id: "the_snake"
+      name: "The Snake" 
+      description_block: |
+        characters:
+          - appearance: "Golden-yellow serpent approximately 3 feet long, scales that shimmer in sunlight, small triangular head with mysterious dark eyes, thin body coiled in elegant curves, no visible legs or limbs"
+            clothing: "Natural golden scales serving as skin, patterns of lighter and darker yellow creating subtle geometric designs along length of body"
+            posture: "Coiled in perfect spiral with head raised 6 inches above ground, body forming graceful S-curves, completely still except for occasional tongue flick"
+            action: "Speaking in whispers with barely perceptible mouth movements, gliding silently across sand with fluid motion, or remaining perfectly motionless in coiled position while observing with ancient wisdom"
+
+    - id: "the_businessman"
+      name: "The Businessman"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged man in his 40s, balding head with thin gray hair combed across, pale skin from indoor work, thick black-rimmed glasses, round face with worried expression, soft physique from sedentary lifestyle"
+            clothing: "Dark navy business suit with pinstripes, white dress shirt with tight collar, red necktie pulled snug, black leather dress shoes polished but worn, gold wristwatch, breast pocket containing multiple pens"
+            posture: "Hunched over large oak desk covered with papers and ledger books, shoulders curved forward from constant desk work, head bent down examining documents through glasses"
+            action: "Frantically counting and writing numbers with fountain pen, shuffling through stacks of papers, occasionally looking up with distracted expression before returning immediately to calculations"
+
+    - id: "the_king"
+      name: "The King"
+      description_block: |
+        characters:
+          - appearance: "Elderly man with full white beard reaching mid-chest, kind but tired eyes, wrinkled face showing years of solitude, stocky build with slightly stooped shoulders, dignified bearing despite weariness"
+            clothing: "Purple velvet robe trimmed with white ermine fur, golden crown with small jewels but slightly tarnished, white undershirt visible at collar, purple velvet slippers, royal scepter held in right hand"
+            posture: "Sitting upright on ornate throne with carved wooden arms, back straight but relaxed, scepter held casually rather than formally, feet flat on ground showing approachable demeanor"
+            action: "Gesturing with scepter while speaking, stroking beard thoughtfully, occasionally standing and walking with measured steps, or sitting attentively with hands folded in lap while listening"
+
+  locations:
+    - id: "sahara_desert"
+      name: "Sahara Desert"
+      description_block: |
+        setting:
+          location: "Vast Sahara Desert in North Africa, endless expanse of golden sand dunes stretching to horizon in all directions, sparse vegetation, extreme isolation from human civilization"
+        mainElements: "Rolling sand dunes of various heights, scattered rock outcroppings, broken aircraft engine parts, pilot's supplies spread on sand, vast empty sky meeting sand at distant horizon line, occasional desert plants"
+        atmosphere: "Harsh sunlight creating sharp shadows, intense heat creating shimmer waves in air, complete silence broken only by wind, sense of infinite space and solitude, golden warm light throughout"
+
+    - id: "asteroid_b612"
+      name: "Asteroid B-612"
+      description_block: |
+        setting:
+          location: "Small spherical asteroid floating in deep space, approximately 30 feet in diameter, curved surface allowing view of entire planet from any point, surrounded by star-filled black space"
+        mainElements: "Three small volcanoes positioned at different points on surface, single rose under glass dome, small chair or rock for sitting, miniature baobab seedlings scattered around, tiny tools for gardening"
+        atmosphere: "Peaceful and intimate space, soft starlight illuminating curved surface, sense of home and comfort despite small size, eternal twilight with distant stars providing gentle illumination"
+
+    - id: "the_well"
+      name: "The Desert Well"
+      description_block: |
+        setting:
+          location: "Ancient stone well in middle of Sahara Desert, circular stone walls rising 3 feet above sand level, wooden bucket and rope pulley system, surrounded by undisturbed sand for miles"
+        mainElements: "Weathered gray stone blocks forming circular well wall, rustic wooden pulley mechanism at top, frayed rope extending down into dark depths, simple wooden bucket, small windlass handle"
+        atmosphere: "Miraculous discovery bringing hope and relief, cool shadows cast by well structure, sense of life-saving sanctuary, peaceful refuge from harsh desert conditions, timeless and eternal quality"
+
+    - id: "businessmans_planet"
+      name: "The Businessman's Planet"
+      description_block: |
+        setting:
+          location: "Small spherical planet covered entirely by single enormous office building, dark interior with minimal windows, artificial lighting throughout, floating in starless region of space"
+        mainElements: "Massive oak desk dominating center of space, towering stacks of papers and ledger books, multiple filing cabinets, adding machines, pens and calculators, bare walls with no decoration, single uncomfortable chair"
+        atmosphere: "Claustrophobic and oppressive environment, harsh artificial light from overhead bulbs, musty smell of old papers, complete silence except for scratching of pen, sense of endless tedious work"
+
+    - id: "kings_planet"
+      name: "The King's Planet" 
+      description_block: |
+        setting:
+          location: "Tiny spherical planet with formal throne room architecture, ornate palace elements compressed into small space, floating alone in star-filled region of space with distant celestial bodies visible"
+        mainElements: "Elaborate wooden throne with carved arms and high back, red velvet cushions, small royal carpet beneath throne, miniature royal court accessories, formal columns or pillars, royal emblems and decorations"
+        atmosphere: "Dignified and formal despite small scale, warm golden lighting suggesting royal grandeur, sense of lonely majesty, ceremonial but empty feeling, quiet respect for tradition and protocol"
+
+  items:
+    - id: "broken_airplane"
+      name: "The Broken Airplane"
+      description_block: |
+        details: "Single-engine aircraft crashed in desert sand, silver metal fuselage partially buried, one wing twisted at unnatural angle, propeller blades bent and damaged, engine compartment open exposing complex internal mechanisms, scattered tools and parts around aircraft"
+
+    - id: "sheep_in_box"
+      name: "The Sheep in a Box"
+      description_block: |
+        details: "Simple cardboard box drawn with black lines, rectangular shape with slightly open top, no visible contents but implied presence of small sheep inside, drawing created with child-like simplicity but capturing essential concept perfectly"
+
+    - id: "glass_dome"
+      name: "The Glass Dome"
+      description_block: |
+        details: "Clear crystal glass dome approximately 18 inches tall and 12 inches wide, perfectly transparent allowing full view of rose inside, sits securely on small circular base, protects precious flower from wind and harsh conditions while allowing light to enter"
+
+    - id: "three_volcanoes"
+      name: "The Three Volcanoes" 
+      description_block: |
+        details: "Three small conical volcanoes on asteroid surface, two active volcanoes with thin wisps of smoke rising from craters, one extinct volcano with cold dark opening, each approximately 4 feet tall, positioned at different points around small planet's curved surface"
+
+    - id: "baobab_seedlings"
+      name: "The Baobab Seedlings"
+      description_block: |
+        details: "Small green shoots emerging from asteroid soil, innocent appearance hiding dangerous potential, tender green leaves on thin stems, roots barely visible at soil surface, scattered at various points around planet requiring constant vigilance and removal"

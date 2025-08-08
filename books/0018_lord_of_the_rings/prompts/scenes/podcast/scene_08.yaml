@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Ranger Reads the Wild"
+  setting:
+    time: "Third Age of Middle-earth, early morning with mist rising from ground"
+    location: "Edge of wilderness between Shire and Bree, wild lands patrolled by Rangers of the North"
+    weather: "Cool morning mist hanging low over grassland, dew heavy on plants, dawn light filtering through haze"
+  characters:
+    - appearance: "Human male, late 30s to early 40s, tall around 6 feet 2 inches, athletic lean build, dark hair shoulder-length, grey eyes, weathered ranger face, clean-shaven or light beard"
+      clothing: "Dark brown or green ranger leather tunic, dark cloak with hood, leather bracers, worn leather boots, sword belt across chest"
+      position: "Kneeling beside muddy ground, one hand touching earth while other rests on sword hilt"
+      action: "Studying tracks and signs in mud, reading the story of who passed this way and when, alert to danger"
+  scene:
+    mainElements: "Wild grassland with patches of bare earth showing clear tracks, scattered trees providing natural cover, rolling terrain stretching to horizon"
+    details: "Fresh footprints pressed deep in muddy ground showing boots and bare hobbit feet, bent grass stems indicating direction of travel, disturbed earth where someone rested, broken twigs at shoulder height marking passage, ranger's keen eyes reading every detail like written language, morning mist swirling around knees creating ethereal atmosphere, sword partially visible showing constant readiness for danger, no text or letters visible"
+    background: "Rolling wilderness extending to distant hills, scattered copses of trees, ancient road visible as faint line across landscape"
+    atmosphere: "Wild frontier between civilization and danger, skillful reading of natural signs, constant vigilance, connection between ranger and wilderness, sense of protection and duty"
+  composition:
+    cameraAngle: "Medium shot from slightly behind showing ranger examining the ground"
+    focus: "The ranger's expertise in reading the language of the wild"
+    depth: "Foreground shows detailed tracks in mud, middle ground features the kneeling ranger, background reveals the vast wilderness he protects"

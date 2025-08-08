@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: Third Age, unknown time inside mountain
+    location: Vast underground chamber deep within Lonely Mountain, enormous cavern filled with dragon's hoard
+    weather: Hot dry air heated by dragon's presence, no natural light
+  characters:
+  - appearance: Enormous red-gold dragon, massive serpentine body, powerful wings folded against sides, long sinuous neck,
+      fierce amber eyes, razor-sharp teeth
+    clothing: Natural armored scales covering entire body in overlapping pattern, golden belly scales, darker red scales on
+      back
+    position: Coiled atop massive pile of gold treasure, head raised alertly, tail wrapped around hoard base
+    action: Breathing wisps of smoke from nostrils, eyes scanning treasure hoard possessively, claws gripping golden coins,
+      speaking with deep rumbling voice
+  - appearance: Middle-aged hobbit, late 40s, curly brown hair, round cheerful face, short stature, slightly portly build,
+      bright hazel eyes
+    clothing: Forest green velvet waistcoat, cream-colored linen shirt with brass buttons, brown woolen breeches, yellow silk
+      handkerchief in waistcoat pocket, now worn from adventures
+    position: Standing at base of treasure mountain, dwarfed by dragon's massive size, invisible due to magic ring
+    action: Speaking carefully to dragon while remaining motionless, one hand pressed against waistcoat pocket, sweat beading
+      on forehead from heat and fear
+  scene:
+    mainElements: Mountain of gold coins and jewels reaching chamber ceiling, scattered silver cups and ornaments, precious
+      gemstones gleaming
+    details: Vast underground chamber carved from living rock, massive pile of gold coins, silver chalices, jeweled weapons
+      and crowns, precious gemstones reflecting dragon-fire light, ancient armor and shields scattered throughout hoard, golden
+      goblets and ornamental plates, treasure extending far into chamber shadows, heat radiating from dragon's massive body
+      creating shimmering air
+    background: Chamber walls disappearing into darkness beyond firelight, multiple tunnel entrances leading to unknown depths,
+      sense of vast mountain hollow
+    atmosphere: Glittering reflections of gold in dancing firelight, heat radiating from dragon's presence, oppressive weight
+      of accumulated wealth, tremendous danger barely held in check, no text or letters visible
+  composition:
+    cameraAngle: Low angle from hobbit's perspective emphasizing dragon's massive scale
+    focus: David versus Goliath confrontation between tiny invisible hobbit and enormous dragon
+    depth: Treasure hoard in foreground, coiled dragon dominating middle ground, dark chamber walls in background
+visualElements:
+  colorPalette:
+    primary:
+    - warm pastels
+    - soft earth tones
+    - gentle blues and greens
+    secondary:
+    - bright accent colors for details
+    background: soft washes or textured paper
+    usageNotes: Harmonious colors that feel safe and inviting
+    saturation: medium, slightly muted
+    contrast: gentle, no harsh transitions
+  lineArt:
+    style: soft, organic lines
+    weight: varied, hand-drawn quality
+    color: brown or dark color, not pure black
+    texture: slightly rough, pencil-like
+    edgeTreatment: gentle, rounded forms
+  lighting:
+    type: warm, comforting
+    direction: soft overall illumination
+    intensity: gentle
+    shadows:
+      style: soft, minimal
+      color: warm grays or purples
+      opacity: light
+    highlights: subtle warmth
+  rendering:
+    technique: mixed media appearance
+    texture: visible paper texture, soft brushwork
+    detailLevel: simplified but expressive
+    finish: matte with gentle textures
+  perspective: slightly naive, not perfectly accurate
+  mood:
+    overall: warm, inviting, magical
+    emotion: wonder, safety, adventure
+    tempo: gentle, dreamlike
+    keywords:
+    - whimsical
+    - magical
+    - comforting
+    - imaginative
+    - nostalgic
+  stylePrecedents:
+  - Quentin Blake
+  - Maurice Sendak
+  - Beatrix Potter
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

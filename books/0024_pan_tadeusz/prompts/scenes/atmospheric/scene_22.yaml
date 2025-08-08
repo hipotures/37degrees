@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Blizzard Conditions - Nature at Its Most Extreme"
+  setting:
+    time: "1812, winter, 2:00 PM, severe blizzard with limited visibility"
+    location: "Village of Dobrzyn during intense winter storm showing power of extreme weather"
+    weather: "Severe blizzard with driving snow, strong winds, near whiteout conditions"
+  characters:
+    - appearance: "Multiple villagers of various ages showing mixed reactions to sudden weather change, simple rural clothing"
+      clothing: "Heavy winter clothing - fur-lined coats, wool cloaks, thick boots, head coverings to protect from wind and snow"
+      position: "Struggling through deep snow seeking shelter, hunched against driving wind"
+      action: "Fighting way through blizzard conditions, helping each other navigate in poor visibility, seeking warmth and shelter"
+  scene:
+    mainElements: "Village buildings barely visible through driving snow, snow accumulating rapidly on every surface, wind bending trees and creating snowdrifts"
+    details: "Snow falling so heavily visibility reduced to few feet, wind howling and creating whirlwinds of snow, buildings appearing and disappearing in blowing snow, icicles forming immediately on exposed surfaces, footprints filling with snow almost instantly, sound of wind dominating all other noise"
+    background: "Complete whiteout conditions making distant landscape invisible, sense of isolation as storm cuts village off from outside world"
+    atmosphere: "Raw power of nature at its most extreme, human struggle against overwhelming natural forces, community pulling together in crisis, beauty and terror of severe weather, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot emphasizing blizzard effects and limited visibility"
+    focus: "Figures struggling through severe weather conditions"
+    depth: "Foreground shows driving snow details, middle ground captures struggling figures, background disappears in blizzard whiteout"

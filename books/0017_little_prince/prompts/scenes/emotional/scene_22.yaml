@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Joyful Return to Caring"
+  setting:
+    time: "Timeless space environment, warm welcoming starlight creating homecoming atmosphere"
+    location: "Small spherical asteroid floating in deep space, approximately 30 feet in diameter, curved surface allowing view of entire planet from any point, surrounded by star-filled black space"
+    weather: "Perfect comfortable space environment with gentle cosmic breezes, ideal temperature, welcoming starlight"
+  characters:
+    - appearance: "Young boy, approximately 7-8 years old, blonde curly hair reaching his shoulders, fair skin with rosy cheeks, bright blue eyes filled with wonder and melancholy, slender build, average height for a child"
+      clothing: "Long golden-yellow coat reaching mid-thigh, white shirt underneath, long golden scarf flowing in wind, dark blue or black trousers, simple black shoes, no gloves or hat"
+      position: "Kneeling beside glass dome with arms wrapped gently around it in protective embrace"
+      action: "Embracing protective dome with profound tenderness and joy, face glowing with happiness at reunion, whispering loving words to rose, tears of joy streaming down cheeks, gentle rocking motion showing overwhelming love"
+    - appearance: "Single magnificent rose flower, deep red petals with velvety texture, four perfect thorns visible on green stem, bright green leaves, standing approximately 12 inches tall, petals slightly open showing golden center"
+      clothing: "Transparent glass dome covering entire flower for protection, crystal clear glass reflecting light, dome sits on small patch of carefully tended soil"
+      position: "Standing regally in center of protective glass dome, positioned at highest point of small planet"
+      action: "Swaying gently toward Prince with obvious joy and relief, petals trembling with emotion of reunion, turning to face beloved caretaker, radiating happiness and love"
+  scene:
+    mainElements: "Transparent glass dome covering entire flower for protection, crystal clear glass reflecting light, dome sits on small patch of carefully tended soil"
+    details: "Three small conical volcanoes on asteroid surface, two active volcanoes with thin wisps of smoke rising from craters, one extinct volcano with cold dark opening, each approximately 4 feet tall, positioned at different points around small planet's curved surface"
+    background: "Brilliant starfield creating celebratory atmosphere, sense of cosmic joy and completion, other distant celestial bodies seeming to celebrate reunion"
+    atmosphere: "Overwhelming joy and relief at reunion, profound love and tenderness, complete happiness in caring for beloved, perfect fulfillment of responsibility, no text or letters visible anywhere in scene"
+  composition:
+    cameraAngle: "Close intimate shot emphasizing joyful reunion and tender caring"
+    focus: "Prince's overwhelming joy and tenderness in reuniting with his beloved rose"
+    depth: "Immediate foreground with tender embrace, middle ground showing planet home, background with celebratory starfield"

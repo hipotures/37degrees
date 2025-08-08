@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Opera Box Intimacy"
+  setting:
+    time: "1840s Paris, evening during opera performance"
+    location: "Grand opera house interior in 1840s Paris, multiple tiers of elegant private boxes with red velvet curtains"
+    weather: "Clear evening with gaslight illumination throughout the theater"
+  characters:
+    - appearance: "Woman, early twenties, pale complexion with delicate features, auburn hair styled in elegant 1840s fashion with center part and side curls, slender build, fragile due to illness, expressive dark eyes"
+      clothing: "Luxurious white silk evening gown with off-shoulder neckline, fitted bodice with tiny pearl buttons, full bell-shaped skirt, white lace gloves, pearl necklace, small pearl earrings"
+      position: "Standing gracefully with one hand holding camellia bouquet against her chest, other hand resting on nearby surface"
+      action: "Gazing with melancholic expression, breathing shallowly due to consumption"
+    - appearance: "Middle-aged woman, early forties, brown hair pulled back in simple bun, kind round face with warm brown eyes, average height, sturdy build, worn hands from work"
+      clothing: "Simple black servant's dress with white lace collar and cuffs, white cotton apron tied at waist, small white cap, black stockings, practical black shoes"
+      position: "Standing attentively with hands folded at waist, slightly bowed head in respectful pose"
+      action: "Listening carefully with devoted expression, ready to serve with unwavering loyalty"
+  scene:
+    mainElements: "Ornate golden balcony railings with intricate scrollwork, red plush seating, elaborate architectural details, massive crystal chandelier illuminating the space"
+    details: "Fresh white camellia flowers arranged in small bouquet, pristine ivory-white petals with waxy texture, dark green glossy leaves, tied with white silk ribbon. Opera glasses resting on velvet armrest, program with elegant typography. Luminous white pearl necklace catching stage lights. Private box offering intimate view of performance below. No text or letters visible"
+    background: "Grand opera stage with performers in costume, multiple tiers of boxes filled with fashionable audience, brilliant theater lighting"
+    atmosphere: "Aristocratic splendor and social display, brilliant gaslight reflecting off jewelry and silk gowns, buzz of fashionable society"
+  composition:
+    cameraAngle: "Medium shot from inside the opera box looking toward the stage"
+    focus: "Woman in white gown with devoted servant attending her"
+    depth: "Foreground shows intimate opera box setting, middle ground captures stage performance, background reveals theater architecture and audience"

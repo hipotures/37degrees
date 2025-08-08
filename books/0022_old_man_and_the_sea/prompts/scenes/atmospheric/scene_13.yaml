@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Golden Hour Magic on Endless Water"
+  setting:
+    time: "September 1950, late afternoon, 5:30 PM, golden hour beginning"
+    location: "Deep blue waters of Gulf Stream current flowing northwest along Cuban coast, far from sight of land in all directions"
+    weather: "Perfect clear evening, light westerly breeze, calm seas"
+  characters:
+    - appearance: "Old man over 70 years, thin and gaunt but with strong sinewy arms, height average for elderly Cuban fisherman, weathered dark skin with deep wrinkles on neck and face, brown spots of benign skin cancer on cheeks, hands covered with deep old healed scars from fishing lines"
+      clothing: "Worn patched shirt faded by sun and salt, old threadbare trousers, often barefoot, straw hat when at sea for sun protection"
+      position: "Standing in boat silhouetted against golden light"
+      action: "Pulling on fishing line with sudden tension, feeling weight of large fish"
+  scene:
+    mainElements: "Endless expanse of deep blue to purple ocean water, horizon line meeting azure sky, no visible land or other vessels, surface occasionally broken by flying fish or dolphins"
+    details: "Everything bathed in warm golden light as sun descends toward western horizon, water surface transformed into field of liquid gold, long shadows beginning to stretch from boat, fishing line cutting sharp angle into glowing water, wake of boat creating golden pathway behind stern, every wave crest catching and reflecting amber light, air warm and still with magic of approaching sunset"
+    background: "Sky deepening from gold near horizon to deeper blue overhead, sun still well above water but casting increasingly warm light across infinite ocean"
+    atmosphere: "Magical transformation of ordinary seascape into golden dreamscape, sense of day approaching peaceful conclusion, beauty almost overwhelming in its intensity, no text or letters visible"
+  composition:
+    cameraAngle: "Backlit shot creating dramatic silhouette against golden water"
+    focus: "Figure working against spectacular golden light background"
+    depth: "Foreground shows golden light effects on water surface, middle ground captures silhouetted boat and fisherman, background glows with sunset colors"

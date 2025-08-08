@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Exhaustion in Meaningless Labor"
+  setting:
+    time: "Timeless space environment, rapid day-night cycle creating disorienting strobe-like lighting effects"
+    location: "Tiny spherical planet with single massive lamp post and switching mechanism, entire surface dominated by lighting apparatus, spinning rapidly in space"
+    weather: "Artificial wind created by planet's rapid rotation, disorienting movement, temperature fluctuations from constant day-night changes"
+  characters:
+    - appearance: "Young boy, approximately 7-8 years old, blonde curly hair reaching his shoulders, fair skin with rosy cheeks, bright blue eyes filled with wonder and melancholy, slender build, average height for a child"
+      clothing: "Long golden-yellow coat reaching mid-thigh, white shirt underneath, long golden scarf flowing in wind, dark blue or black trousers, simple black shoes, no gloves or hat"
+      position: "Clinging to edge of planet to avoid being thrown off by rapid rotation, struggling to maintain balance"
+      action: "Reaching out toward laborer with expression of deep concern, trying to communicate over chaos, face showing growing alarm at witnessing endless meaningless work, hair and scarf whipping in artificial wind"
+    - appearance: "Thin exhausted man with weary face, bent posture from repetitive labor, sweat covering brow, clothing worn from constant movement"
+      clothing: "Simple work clothing showing wear from constant use, fabric dampened with perspiration, practical boots for gripping planet surface"
+      position: "Standing beside enormous lamp post, hand on light switch, fighting against planet's rapid rotation"
+      action: "Mechanically switching lamp on and off in rapid succession, movements automatic and exhausted, no rest between actions, face showing resignation to endless meaningless task, wiping sweat constantly"
+  scene:
+    mainElements: "Massive ornate lamp post dominating tiny planet surface, large switch mechanism, evidence of years of constant use, worn path around lamp base from endless repetitive movement"
+    details: "Planet surface showing wear patterns from rapid rotation, scattered maintenance tools, simple shelter or rest area that goes unused, everything secured against centrifugal force"
+    background: "Stars streaking by due to rapid planetary rotation, disorienting cosmic environment, sense of being trapped in endless motion, dizzying visual effects"
+    atmosphere: "Overwhelming exhaustion and futility, horror at meaningless endless labor, growing emotional fatigue from witnessing adult trapped behavior, dizzying disorientation, no text or letters visible anywhere in scene"
+  composition:
+    cameraAngle: "Dynamic shot showing planet's rapid rotation and figures struggling against centrifugal force"
+    focus: "Prince's horrified realization of the lamplighter's trapped existence in endless meaningless routine"
+    depth: "Foreground with struggling figures on spinning surface, middle ground with lamp post dominating scene, background showing streaking stars from rapid rotation"

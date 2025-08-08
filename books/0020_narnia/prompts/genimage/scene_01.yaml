@@ -1,0 +1,98 @@
+sceneDescription:
+  setting:
+    time: 1940, morning during London Blitz bombing campaign
+    location: Bustling railway platform in wartime London, steam locomotive preparing for departure
+    weather: Grey overcast sky with smoke and steam
+  characters:
+  - appearance: Boy, 13 years old, tall and well-built for his age, natural leadership bearing, fair-haired English youth,
+      noble and serious facial features
+    clothing: Brown wool vest over white linen shirt, knee-length dark breeches, long socks, sturdy leather shoes, school
+      sweater
+    position: Standing protectively near his siblings on crowded platform
+    action: Carrying worn leather suitcase, keeping watchful eye on younger children
+  - appearance: Girl, 12 years old, graceful and poised, long straight black hair, the pretty one of the family, mature bearing,
+      gentle facial features
+    clothing: Simple wool dress in muted blue-grey, practical school cardigan, dark stockings, sensible shoes
+    position: Standing close to mother, holding small travel bag
+    action: Comforting youngest sister while trying to appear brave
+  - appearance: Boy, 10 years old, smaller build than Peter, dark hair, initially sullen and spiteful expression, later shows
+      repentance and courage
+    clothing: School shorts, white shirt, grey wool pullover, long socks, black school shoes
+    position: Slightly apart from group, looking resentful
+    action: Scuffing shoes on platform, avoiding eye contact with family
+  - appearance: Girl, 8 years old, small and delicate, bright golden curly hair, merry and trusting expression, radiant and
+      honest face
+    clothing: Simple blue wool dress with white collar, wool tights, small leather shoes, child's cardigan
+    position: Clutching mother's hand, looking around with wide eyes
+    action: Pressing close to mother, occasionally waving at other evacuated children
+  scene:
+    mainElements: Steam locomotive hissing and belching smoke, crowds of evacuated children with cardboard identification
+      tags around necks, anxious parents saying goodbye, railway workers shouting instructions, piles of luggage and gas mask
+      cases
+    details: Platform thick with steam and coal smoke, sounds of train whistle and clanging metal, children's faces showing
+      mixture of excitement and fear, mothers dabbing eyes with handkerchiefs, uniformed conductors checking passenger lists,
+      sandbags stacked against station walls as air raid protection
+    background: Victorian railway station with high arched roof, wartime propaganda posters on walls, other steam trains visible
+      on parallel tracks
+    atmosphere: Tense with wartime urgency, emotional farewells, underlying fear mixed with determined resolve, organized
+      chaos of mass evacuation, no text or letters visible
+  composition:
+    cameraAngle: Wide establishing shot from elevated position showing full platform scene
+    focus: Four Pevensie children in center foreground with their mother, surrounded by similar family scenes
+    depth: Foreground shows intimate family goodbye, middle ground filled with other evacuees, background shows imposing station
+      architecture and waiting trains
+visualElements:
+  colorPalette:
+    primary:
+    - bright red
+    - vivid blue
+    - sunny yellow
+    secondary:
+    - grass green
+    - purple
+    - orange
+    background: simple flat colors or patterns
+    usageNotes: Intense, saturated colors used intuitively
+    saturation: very high (bold, pure colors)
+    contrast: high (bright colors against each other)
+  lineArt:
+    style: simple, direct outlines
+    weight: consistent, moderate thickness
+    color: dark outlines or color boundaries
+    texture: hand-drawn quality, slight irregularities
+    edgeTreatment: simple, clean edges
+  lighting:
+    type: flat, even lighting (no sophisticated shading)
+    direction: front-lit, minimal shadows
+    intensity: bright, cheerful
+    shadows:
+      style: simple, flat shadows if any
+      color: darker version of base color
+      opacity: solid
+    highlights: minimal, simple bright spots
+  rendering:
+    technique: direct, intuitive application
+    texture: flat colors with simple patterns
+    detailLevel: high in some areas (obsessive detail), simple in others
+    finish: flat, matte appearance
+  perspective: flattened or incorrect perspective, childlike spatial relationships
+  mood:
+    overall: cheerful, innocent, direct
+    emotion: joy, simplicity, honesty
+    tempo: peaceful, content
+    keywords:
+    - cheerful
+    - innocent
+    - direct
+    - honest
+    - joyful
+  stylePrecedents:
+  - Henri Rousseau jungle paintings
+  - Grandma Moses rural scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

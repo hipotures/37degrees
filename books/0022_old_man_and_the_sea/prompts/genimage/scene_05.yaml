@@ -1,0 +1,97 @@
+sceneDescription:
+  setting:
+    time: September 1950, mid morning, 8:30 AM, full daylight established
+    location: Deep blue waters of Gulf Stream current flowing northwest along Cuban coast, far from sight of land in all directions
+    weather: Brilliant clear morning, steady trade winds, moderate swells
+  characters:
+  - appearance: Old man over 70 years, thin and gaunt but with strong sinewy arms, height average for elderly Cuban fisherman,
+      weathered dark skin with deep wrinkles on neck and face, brown spots of benign skin cancer on cheeks, hands covered
+      with deep old healed scars from fishing lines
+    clothing: Worn patched shirt faded by sun and salt, old threadbare trousers, often barefoot, straw hat when at sea for
+      sun protection
+    position: Standing in center of boat adjusting fishing lines
+    action: Setting multiple lines at different depths, scanning water for signs of fish activity, working with practiced
+      efficiency
+  scene:
+    mainElements: Endless expanse of deep blue to purple ocean water, horizon line meeting azure sky, no visible land or other
+      vessels, surface occasionally broken by flying fish or dolphins
+    details: Morning sun creating brilliant sparkles across water surface, small wooden boat rising and falling gently with
+      ocean swells, heavy fishing lines made of braided cord, sharp steel hooks, lead sinkers, wooden gaff hook for landing
+      fish, simple steel harpoon with rope attached, filleting knife with worn wooden handle. Four fishing lines deployed
+      at varying depths, fresh tuna and sardine bait gleaming in sunlight, frigate bird circling overhead indicating nearby
+      fish, water so clear that dark shapes visible twenty feet below surface
+    background: Unbroken circle of horizon in all directions, sun climbing steadily in cloudless tropical sky, occasional
+      whitecaps as wind strengthens slightly
+    atmosphere: Intensity of focused work, heat beginning to build as sun gains strength, sense of communion between experienced
+      fisherman and familiar element, optimism of new day's fishing, no text or letters visible
+  composition:
+    cameraAngle: Medium shot from boat level emphasizing fisherman's expertise
+    focus: Skilled hands working with fishing equipment against brilliant water
+    depth: Foreground shows detailed fishing gear and boat interior, middle ground captures surrounding ocean activity, background
+      provides vast sky and horizon context
+visualElements:
+  colorPalette:
+    primary:
+    - '#2B2B2B'
+    - '#4A4A4A'
+    - '#6B6B6B'
+    - '#8C8C8C'
+    - '#ADADAD'
+    - '#CECECE'
+    - '#F0F0F0'
+    secondary:
+    - '#FFFFFF'
+    - '#1A1A1A'
+    background: white or off-white paper
+    usageNotes: Monochromatic grayscale only. Use varying shades for depth
+    saturation: none
+    contrast: medium to high
+  lineArt:
+    style: organic, hand-drawn
+    weight: variable (0.5-3px)
+    color: grayscale
+    texture: rough, sketchy with visible breaks
+    edgeTreatment: natural variations, multiple overlapping strokes
+  lighting:
+    type: traditional shading
+    direction: typically top-left
+    intensity: varies with pressure
+    shadows:
+      style: crosshatching and scribbling
+      color: darker graphite tones
+      opacity: built up through layering
+    highlights: paper showing through or eraser marks
+  rendering:
+    technique: traditional pencil on paper
+    texture: visible paper grain and tooth
+    detailLevel: varies from loose to highly detailed
+    finish: intentionally incomplete with visible process
+  perspective: traditional drawing perspectives
+  mood:
+    overall: artistic, unfinished, spontaneous
+    emotion: raw, authentic, contemplative
+    tempo: calm, thoughtful
+    keywords:
+    - artistic
+    - raw
+    - authentic
+    - traditional
+    - sketchy
+  postProcessing:
+    effects:
+    - paper texture
+    - graphite smudging
+    filters: none
+    adjustments:
+      saturation: '0'
+      contrast: natural pencil contrast
+  stylePrecedents:
+  - Leonardo da Vinci sketches
+  - Academic drawing studies
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

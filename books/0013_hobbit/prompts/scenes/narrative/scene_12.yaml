@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Rivendell's Hidden Valley"
+  setting:
+    time: "Third Age, late afternoon"
+    location: "Hidden elvish sanctuary in deep valley surrounded by towering pine-covered mountains, waterfalls cascading from heights"
+    weather: "Soft golden light filtering through valley, gentle breeze carrying sound of water"
+  characters:
+    - appearance: "Middle-aged hobbit, late 40s, curly brown hair, round cheerful face, short stature, slightly portly build, bright hazel eyes"
+      clothing: "Forest green velvet waistcoat, cream-colored linen shirt with brass buttons, brown woolen breeches, yellow silk handkerchief in waistcoat pocket"
+      position: "Standing at valley's edge looking down at elvish buildings in wonder"
+      action: "Gazing in amazement at beautiful architecture below, hand shading eyes from light, mouth slightly open in awe, adjusting waistcoat absently"
+    - appearance: "Twelve dwarves of various ages, all bearded, stocky builds, ranging from young adult to elderly, different colored beards and hair"
+      clothing: "Colorful wool tunics in deep reds, blues, and greens, leather belts and boots, chainmail armor beneath tunics, traveling packs"
+      position: "Grouped behind hobbit at valley overlook, some pointing toward buildings below"
+      action: "Shading eyes to peer into valley, gesturing toward various elvish structures, some appearing impressed despite themselves, others remaining skeptical"
+    - appearance: "Tall elderly wizard, long grey beard reaching his belt, sharp grey eyes beneath bushy grey eyebrows, weathered face, ancient appearance"
+      clothing: "Long grey robes with wide sleeves, tall pointed grey hat, worn brown leather boots, leather belt with small pouches"
+      position: "Standing slightly apart from group, familiar with this place"
+      action: "Smiling knowingly at companions' reactions, gesturing toward pathway down into valley, smoke from pipe creating patterns in still air"
+  scene:
+    mainElements: "Elegant white stone buildings with arched windows, terraced gardens with exotic flowers, crystal-clear stream flowing through center"
+    details: "Graceful white stone architecture with flowing arches and delicate spires, multiple levels of terraced gardens filled with flowers in impossible colors, clear mountain stream winding through buildings creating gentle waterfall sounds, stone bridges spanning water, tall pine trees on mountain slopes creating natural walls, hidden pathways carved into valley sides, evening light making everything glow softly"
+    background: "Towering mountain peaks surrounding hidden valley, dense pine forests on steep slopes, multiple waterfalls cascading from great heights creating mist"
+    atmosphere: "Ethereal beauty, soft eternal twilight, musical sound of water and distant elvish singing, magical serenity, sense of timeless peace and ancient wisdom, no text or letters visible"
+  composition:
+    cameraAngle: "Wide panoramic shot from mountain overlook showing full valley spread below"
+    focus: "Hidden valley's breathtaking beauty with small figures of travelers discovering it"
+    depth: "Travelers on overlook in foreground, valley buildings in middle ground, surrounding mountains in background"

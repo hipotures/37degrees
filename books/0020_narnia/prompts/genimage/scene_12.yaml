@@ -1,0 +1,98 @@
+sceneDescription:
+  setting:
+    time: Eternal winter day in Narnia, grey overcast light
+    location: Cozy cave dwelling carved into reddish stone cliff face in Narnia, hidden entrance in rocky valley
+    weather: Cold winter air, light snow beginning to fall
+  characters:
+  - appearance: Boy, 13 years old, tall and well-built for his age, natural leadership bearing, fair-haired English youth,
+      noble and serious facial features
+    clothing: Brown wool vest over white linen shirt, knee-length dark breeches, long socks, sturdy leather shoes, school
+      sweater
+    position: Standing at cave entrance examining broken doorframe with concern
+    action: Investigating damage with growing alarm, protecting his siblings from worst sights
+  - appearance: Girl, 12 years old, graceful and poised, long straight black hair, the pretty one of the family, mature bearing,
+      gentle facial features
+    clothing: Simple wool dress in muted blue-grey, practical school cardigan, dark stockings, sensible shoes
+    position: Carefully stepping through cave entrance, examining destruction methodically
+    action: Picking up broken pottery pieces, trying to understand what happened
+  - appearance: Boy, 10 years old, smaller build than Peter, dark hair, initially sullen and spiteful expression, later shows
+      repentance and courage
+    clothing: School shorts, white shirt, grey wool pullover, long socks, black school shoes
+    position: Hanging back at cave entrance, looking increasingly guilty and frightened
+    action: Knowing this destruction is connected to his betrayal, wrestling with growing guilt
+  - appearance: Girl, 8 years old, small and delicate, bright golden curly hair, merry and trusting expression, radiant and
+      honest face
+    clothing: Simple blue wool dress with white collar, wool tights, small leather shoes, child's cardigan
+    position: Inside cave looking heartbroken at destruction of her friend's home
+    action: Calling out hopefully for Tumnus, touching broken furniture with sadness
+  scene:
+    mainElements: Small clean dry cave with burning fireplace, rug on floor, two small chairs, wooden table, dresser, bookshelf
+      above mantelpiece with portrait of elderly faun with grey beard
+    details: Cave entrance door torn from hinges and splintered, cozy interior now ransacked and destroyed, fireplace cold
+      with scattered ashes, overturned chairs and broken furniture, torn books scattered across floor, portrait of Tumnus's
+      father slashed with knife cuts, broken crockery and tea set smashed, rug pulled askew and muddied with boot prints,
+      clear signs of violent arrest
+    background: Red stone walls now seeming cold and threatening, entrance showing snowy forest beyond, no warmth or life
+      remaining
+    atmosphere: Warm and welcoming refuge from cold outside, firelight dancing on red stone walls, smell of burning wood and
+      tea
+  composition:
+    cameraAngle: Interior shot showing destruction from children's perspective entering cave
+    focus: Contrast between Lucy's remembered warmth and current cold destruction, children's shocked faces
+    depth: Children in foreground discovering devastation, destroyed furniture in middle ground, dark empty cave chambers
+      in background, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - bright red
+    - vivid blue
+    - sunny yellow
+    secondary:
+    - grass green
+    - purple
+    - orange
+    background: simple flat colors or patterns
+    usageNotes: Intense, saturated colors used intuitively
+    saturation: very high (bold, pure colors)
+    contrast: high (bright colors against each other)
+  lineArt:
+    style: simple, direct outlines
+    weight: consistent, moderate thickness
+    color: dark outlines or color boundaries
+    texture: hand-drawn quality, slight irregularities
+    edgeTreatment: simple, clean edges
+  lighting:
+    type: flat, even lighting (no sophisticated shading)
+    direction: front-lit, minimal shadows
+    intensity: bright, cheerful
+    shadows:
+      style: simple, flat shadows if any
+      color: darker version of base color
+      opacity: solid
+    highlights: minimal, simple bright spots
+  rendering:
+    technique: direct, intuitive application
+    texture: flat colors with simple patterns
+    detailLevel: high in some areas (obsessive detail), simple in others
+    finish: flat, matte appearance
+  perspective: flattened or incorrect perspective, childlike spatial relationships
+  mood:
+    overall: cheerful, innocent, direct
+    emotion: joy, simplicity, honesty
+    tempo: peaceful, content
+    keywords:
+    - cheerful
+    - innocent
+    - direct
+    - honest
+    - joyful
+  stylePrecedents:
+  - Henri Rousseau jungle paintings
+  - Grandma Moses rural scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

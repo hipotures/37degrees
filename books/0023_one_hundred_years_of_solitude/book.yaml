@@ -1,6 +1,7 @@
 book_info:
-  title: "Sto lat samotności"
+  title: "One Hundred Years of Solitude"
+  title_pl: "Sto lat samotności"
   author: "Gabriel García Márquez"
   year: 1967
-  genre: "Realizm magiczny"
-  reading_time: "15-18 godzin"
+  genre: "Magical realism"
+  reading_time: "15-18 hours"

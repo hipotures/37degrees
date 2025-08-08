@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: Third Age of Middle-earth, late evening with darkness falling rapidly
+    location: Dense Old Forest beyond Shire's borders, ancient woodland with tangled paths and watching trees
+    weather: Growing darkness with mist rising from forest floor, oppressive atmosphere
+  characters:
+  - appearance: Hobbit, male, early 30s, short stature around 3 feet tall, curly brown hair, large brown eyes, pale complexion
+      from burden of Ring, thin build, youthful face with premature lines of worry
+    clothing: Travelling clothes hastily packed, cloak pulled tight, pack on back, bare feet now dirty from hard travel
+    position: Leading small group down twisting forest path, looking back over shoulder anxiously
+    action: Moving quickly through dangerous forest, constantly checking behind for pursuit, hand unconsciously touching chest
+      where Ring hangs
+  - appearance: Hobbit, male, late 20s to early 30s, stocky build, round face with rosy cheeks, brown eyes, curly brown hair,
+      cheerful expression, strong hands from gardening work
+    clothing: Brown travelling clothes, pack loaded with supplies, walking stick cut from forest
+    position: Close behind friend, carrying extra gear and watching their backs
+    action: Following loyally while keeping watch, ready to defend despite fear of dark forest
+  scene:
+    mainElements: Twisted ancient trees with gnarled branches, narrow path winding through undergrowth, roots and fallen logs
+      creating obstacles
+    details: Ancient trees with bark like weathered faces seeming to watch travelers pass, tangled roots crossing path forcing
+      careful steps, mist rising from forest floor creating ghostly atmosphere, narrow trail barely visible in gathering darkness,
+      fallen branches and moss-covered logs blocking easy passage, sounds of pursuit or imagination echoing through woods,
+      traveling packs hastily assembled showing urgency of departure, no text or letters visible
+    background: Dense forest extending in all directions with no clear exit, shadows deepening between trees, suggestion of
+      watchers in the darkness
+    atmosphere: Urgent flight from safety into unknown danger, ancient forest alive with malevolent watching presence, fear
+      of pursuit, growing darkness making every shadow a threat
+  composition:
+    cameraAngle: Medium wide shot from behind showing hobbits navigating the treacherous forest path
+    focus: The desperate flight from safety into the dangerous unknown
+    depth: Foreground shows twisted roots and obstacles on path, middle ground features the fleeing hobbits, background reveals
+      the watching forest extending into darkness
+visualElements:
+  colorPalette:
+    primary:
+    - rich fantasy colors
+    - jewel tones
+    secondary:
+    - atmospheric colors
+    - magical glows
+    background: atmospheric, often dark or misty
+    usageNotes: Rich, layered colors with magical atmosphere
+    saturation: medium to high
+    contrast: medium to high
+  lineArt:
+    style: painterly, loose
+    weight: varied, often hidden
+    color: integrated into painting
+    texture: organic brushstrokes
+    edgeTreatment: soft, painterly edges
+  lighting:
+    type: dramatic, magical
+    direction: varied for atmosphere
+    intensity: high contrast areas
+    shadows:
+      style: painted, atmospheric
+      color: cool or warm depending on scene
+      opacity: varied
+    highlights: magical glows, rim lighting
+  rendering:
+    technique: digital painting with textured brushes
+    texture: dry media brush texture
+    detailLevel: moderate to high
+    finish: glazed, painterly
+  perspective: cinematic, dynamic
+  mood:
+    overall: mythological, otherworldly, epic
+    emotion: wonder, mystery, adventure
+    tempo: varies from calm to dramatic
+    keywords:
+    - epic
+    - mystical
+    - otherworldly
+    - fantasy
+    - mythological
+  stylePrecedents:
+  - Craig Mullins digital concept art
+  - Frank Frazetta fantasy paintings
+  - Boris Vallejo fantasy illustrations
+  - Magic: The Gathering card art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

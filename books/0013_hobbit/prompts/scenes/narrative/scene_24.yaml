@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Return to Rivendell"
+  setting:
+    time: "Third Age, evening"
+    location: "Hidden elvish sanctuary in deep valley surrounded by towering pine-covered mountains, waterfalls cascading from heights"
+    weather: "Soft golden evening light, gentle breeze carrying scent of flowers"
+  characters:
+    - appearance: "Middle-aged hobbit, late 40s, curly brown hair, round cheerful face, short stature, slightly portly build, bright hazel eyes"
+      clothing: "Forest green velvet waistcoat, cream-colored linen shirt with brass buttons, brown woolen breeches, yellow silk handkerchief in waistcoat pocket, now clearly travel-worn but well-maintained"
+      position: "Seated in elegant elvish chair on garden terrace, relaxing after journey"
+      action: "Sharing stories with elvish hosts, gesturing animatedly while recounting adventures, occasionally patting waistcoat pocket unconsciously, eating delicate elvish food"
+    - appearance: "Tall elderly wizard, long grey beard reaching his belt, sharp grey eyes beneath bushy grey eyebrows, weathered face, ancient appearance"
+      clothing: "Long grey robes with wide sleeves, tall pointed grey hat, worn brown leather boots, leather belt with small pouches"
+      position: "Seated across from hobbit at garden table, leaning forward with interest"
+      action: "Listening to hobbit's tales with amusement and pride, smoking pipe thoughtfully, nodding approvingly at companion's growth"
+    - appearance: "Several tall elegant elves with ethereal beauty, ageless faces, flowing hair"
+      clothing: "Flowing robes in soft colors, elegant jewelry, no armor or weapons visible"
+      position: "Standing gracefully around terrace listening to stories, some seated at nearby tables"
+      action: "Listening with keen interest to adventure tales, serving delicate foods and drinks, exchanging meaningful glances about hobbit's transformation"
+  scene:
+    mainElements: "Elegant white stone buildings with arched windows, terraced gardens with exotic flowers, crystal-clear stream flowing through center"
+    details: "Graceful terraced gardens with flowers in impossible colors, white stone architecture with delicate arches, small waterfalls creating musical sounds, elegant furniture carved from white wood, crystal goblets and silver plates, soft lanterns beginning to glow in twilight, flowering vines climbing marble pillars"
+    background: "Towering mountain peaks surrounding hidden valley, dense pine forests on steep slopes, multiple waterfalls cascading from great heights creating gentle mist"
+    atmosphere: "Ethereal beauty, soft eternal twilight, musical sound of water and distant elvish singing, magical serenity, peaceful interlude before final homecoming, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot showing conversation group on terrace with valley backdrop"
+    focus: "Transformed hobbit sharing tales of adventure in place of ancient wisdom and beauty"
+    depth: "Garden conversation area in foreground, elvish buildings in middle ground, mountain valley in background"

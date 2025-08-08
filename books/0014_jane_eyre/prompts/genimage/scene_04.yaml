@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1830s England, winter evening
+    location: Charity school for orphaned girls in remote Yorkshire valley, institutional stone buildings
+    weather: Heavy snowfall, bitter cold penetrating stone walls
+  characters:
+  - appearance: Young woman, early 20s, small slight build, plain features, pale skin, dark hair pulled severely back, large
+      expressive dark eyes, determined chin
+    clothing: Simple black mourning dress or grey governess dress, white collar and cuffs, black shoes, plain bonnet when
+      outdoors
+    position: Kneeling beside narrow bed, leaning over still figure
+    action: Holding lifeless hand with desperate tenderness, tears streaming down face, experiencing profound grief and loss
+  - appearance: Pale thin girl, early teens, light brown hair, delicate features, large gentle blue eyes, frail consumptive
+      build, ethereal fragility
+    clothing: Simple grey school dress with white apron, worn brown shoes, thin shawl around narrow shoulders
+    position: Lying motionless in narrow bed, face peaceful in death
+    action: No longer breathing, hands folded across chest, expression of eternal serenity
+  scene:
+    mainElements: Sparse infirmary with rows of beds, cold stone walls, single candle providing minimal light, worn blankets
+      inadequate against the cold
+    details: Flickering candlelight casting dancing shadows, frost forming on windows, thin blanket covering frail body, religious
+      text fallen from lifeless fingers, other beds empty and cold, silence broken only by wind howling outside
+    background: Storm raging beyond windows, snow piling against glass, distant sound of prayers from chapel
+    atmosphere: Profound grief and loss, spiritual questioning, anger at injustice, recognition of mortality, loss of childhood
+      faith in fairness
+  composition:
+    cameraAngle: Close intimate shot focusing on human connection in face of death
+    focus: Emotional bond between living and dead, grief as transformative force
+    depth: Grieving figure and deceased in foreground, cold dormitory in middle ground, storm outside in background
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

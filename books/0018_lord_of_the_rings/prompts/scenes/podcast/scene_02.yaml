@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "The Hidden Valley of Rivendell"
+  setting:
+    time: "Third Age of Middle-earth, twilight hour when stars begin to appear"
+    location: "Hidden elven refuge in valley west of Misty Mountains, secret sanctuary also called Imladris, protected by elven magic"
+    weather: "Clear evening air with first stars appearing, mist rising from valley streams"
+  characters: []
+  scene:
+    mainElements: "Graceful arched bridges over rushing river, tall spires and elegant buildings, terraced gardens, waterfalls cascading down rocky walls"
+    details: "Delicate stone bridges spanning crystal-clear river with elven architecture of impossible grace, slender towers reaching toward stars with windows glowing golden light, carefully tended gardens on terraced levels filled with exotic flowers that seem to glow in twilight, multiple waterfalls creating symphony of falling water, elven lanterns casting warm light without visible flame, no text or letters visible"
+    background: "Steep valley walls rising on either side covered in ancient trees, distant mountain peaks catching last light of sunset"
+    atmosphere: "Timeless tranquil beauty, golden light that never fades, sound of harps and singing, air filled with scent of elanor flowers"
+  composition:
+    cameraAngle: "Medium wide shot from across the valley showing the elven architecture"
+    focus: "The ethereal beauty of elven craftsmanship blending perfectly with natural landscape"
+    depth: "Foreground shows rushing river and bridge, middle ground features the main buildings and gardens, background shows valley walls and distant peaks"

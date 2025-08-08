@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Political Storm Arrives"
+  setting:
+    time: "Late 1820s Colombian Caribbean coast, tense afternoon with gathering storm clouds"
+    location: "Central plaza of Macondo during arrival of first government official, Colombian jungle village"
+    weather: "Humid oppressive air with dark clouds building on horizon, electric tension in atmosphere"
+  characters:
+    - appearance: "Man, late 20s to elderly, potężna budowa ciała with extraordinary strength that allows him to fell a horse by grabbing its ears, in youth charismatic patriarch full of energy and curiosity, in madness becomes emaciated with long grey beard and hair, wild absent gaze"
+      clothing: "Simple rural linen shirts and pants in youth, in madness nearly naked covered only by blanket or loincloth"
+      position: "Standing confrontationally in plaza center facing unwelcome intruder"
+      action: "Gesturing angrily with clenched fists while addressing the government representative"
+    - appearance: "Conservative government magistrate, middle-aged man in formal dress inappropriate for tropical climate, representing external authority and political division"
+      clothing: "Dark formal suit with vest despite oppressive heat, official insignia of conservative party"
+      position: "Mounted on horse surrounded by small group of armed guards"
+      action: "Reading official proclamation while maintaining authoritative demeanor despite obvious discomfort"
+    - appearance: "Man, from birth to death in lonely old age, born with open eyes prophesying his gift of clairvoyance, as child and youth silent and withdrawn, slender almost ascetic build, as result of 32 lost wars face takes on harsh tired expression of veteran, penetrating melancholic gaze, suffers from painful boils under armpits (hidradenitis suppurativa) rare but significant physical detail emphasizing inner suffering"
+      clothing: "In youth simple modest clothes, as military commander wears liberal uniform which over time becomes worn faded and repeatedly patched, in old age after wars simple shirt and pants working in goldsmith workshop"
+      position: "Standing slightly behind father watching political confrontation unfold"
+      action: "Observing with growing understanding of conflict that will define his future wars"
+  scene:
+    mainElements: "Village plaza with gathered crowd of confused villagers, government official on horseback with official documents and armed escort, growing tension between peaceful settlement and external political authority, storm clouds gathering ominously overhead"
+    details: "Official papers fluttering in increasing wind, horses stamping nervously, villagers murmuring uncertainly among themselves, first appearance of weapons and uniforms in peaceful community, atmosphere thick with approaching conflict both meteorological and political, no readable text on documents"
+    background: "Adobe houses of village looking vulnerable against approaching storm, jungle edge bending under increasing wind, path leading back to outside world"
+    atmosphere: "End of innocence and isolation, first intrusion of larger political forces that will tear community apart, sense of inevitable conflict approaching like gathering storm"
+  composition:
+    cameraAngle: "Medium shot capturing confrontation between founder and government authority"
+    focus: "José Arcadio's defiant stance against mounted official while young Aureliano observes"
+    depth: "Foreground: heated political confrontation, middle: concerned villagers, background: gathering storm clouds and vulnerable village"

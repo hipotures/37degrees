@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Third Age of Middle-earth, twilight hour when golden light filters through leaves
+    location: Golden wood of elves east of Misty Mountains, realm of Galadriel and Celeborn, forest of great mallorn trees
+      with golden leaves
+    weather: Still evening air with golden light creating ethereal atmosphere
+  characters:
+  - appearance: Elf female, appears ageless and ancient, tall around 6 feet, ethereal beauty, long golden hair flowing like
+      light, deep blue eyes with starlight, pale luminous skin
+    clothing: White flowing elven gown reaching ground, silver circlet on brow, no jewelry but natural radiance, bare feet
+      that seem to float
+    position: Standing beside mirror of Galadriel, one hand extended over the silvered water
+    action: Gazing into the mirror's surface with ancient wisdom, seeing visions across time and space
+  scene:
+    mainElements: Massive mallorn trees with golden leaves, rope bridges and platforms high in branches, elven boats on silver
+      river, mirror of Galadriel
+    details: Towering mallorn trees with bark of silver and leaves like spun gold creating cathedral of living light, elegant
+      platforms and bridges connecting trees in three dimensions, silver mirror set in carved stone basin reflecting not just
+      sky but visions of distant places and times, Lady Galadriel radiating power that makes the very air shimmer around her,
+      golden light seeming to emanate from her presence rather than filter from above, no text or letters visible
+    background: Golden forest extending in all directions with mallorn trees disappearing into luminous distance, glimpses
+      of other elven dwellings high in branches
+    atmosphere: Golden light filtering through leaves, sound of wind in branches and water flowing, timeless peace, scent
+      of elanor and niphredil flowers
+  composition:
+    cameraAngle: Medium shot showing the Lady beside her mirror among the golden trees
+    focus: The ancient power and wisdom of the greatest of the elves
+    depth: Foreground shows the mirror and Lady's reflection, middle ground features Galadriel in all her power, background
+      reveals the golden wood extending into luminous distance
+visualElements:
+  colorPalette:
+    primary:
+    - rich fantasy colors
+    - jewel tones
+    secondary:
+    - atmospheric colors
+    - magical glows
+    background: atmospheric, often dark or misty
+    usageNotes: Rich, layered colors with magical atmosphere
+    saturation: medium to high
+    contrast: medium to high
+  lineArt:
+    style: painterly, loose
+    weight: varied, often hidden
+    color: integrated into painting
+    texture: organic brushstrokes
+    edgeTreatment: soft, painterly edges
+  lighting:
+    type: dramatic, magical
+    direction: varied for atmosphere
+    intensity: high contrast areas
+    shadows:
+      style: painted, atmospheric
+      color: cool or warm depending on scene
+      opacity: varied
+    highlights: magical glows, rim lighting
+  rendering:
+    technique: digital painting with textured brushes
+    texture: dry media brush texture
+    detailLevel: moderate to high
+    finish: glazed, painterly
+  perspective: cinematic, dynamic
+  mood:
+    overall: mythological, otherworldly, epic
+    emotion: wonder, mystery, adventure
+    tempo: varies from calm to dramatic
+    keywords:
+    - epic
+    - mystical
+    - otherworldly
+    - fantasy
+    - mythological
+  stylePrecedents:
+  - Craig Mullins digital concept art
+  - Frank Frazetta fantasy paintings
+  - Boris Vallejo fantasy illustrations
+  - Magic: The Gathering card art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

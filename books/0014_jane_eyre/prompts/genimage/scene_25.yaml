@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1830s England, golden hour before sunset
+    location: Small isolated manor house in deep woods thirty miles from Thornfield, simple stone construction
+    weather: Perfect golden evening light streaming through forest, gentle warmth
+  characters:
+  - appearance: Young woman, early 20s, small slight build, plain features, pale skin, dark hair pulled severely back, large
+      expressive dark eyes, determined chin
+    clothing: Simple evening dress in deep blue or green, hair softly arranged, wedding ring catching light
+    position: Standing at threshold of home, looking out over transformed landscape, one hand resting on doorframe
+    action: Gazing toward distant horizon with peaceful satisfaction, slight smile playing at lips, embodying quiet triumph
+      of spirit
+  scene:
+    mainElements: Modest two-story house surrounded by dense forest, cultivated garden, small windows glowing with warm light,
+      ivy-covered walls
+    details: Well-tended garden paths, flowers blooming in ordered beds, comfortable furniture visible through open windows,
+      books on tables, lamp already lit for evening, sense of established life built through years of love
+    background: Dense forest now familiar and welcoming, golden light filtering through leaves, sense of sanctuary earned
+      through suffering and courage
+    atmosphere: Peaceful rural seclusion, natural harmony, democratic simplicity, healing quietude away from social pretensions,
+      profound contentment, hard-won wisdom, love that conquered all obstacles, final peace of authentic life lived with integrity
+  composition:
+    cameraAngle: Medium shot showing woman as master of her own destiny
+    focus: Independent woman who chose love as equal, not dependent, standing in doorway of life she created
+    depth: Transformed woman in foreground, home built on equality in middle ground, endless peaceful future in background
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

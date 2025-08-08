@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Changed Relationships in Sacred Space"
+  setting:
+    time: "1840s Paris, solemn morning in sacred space"
+    location: "Sparsely furnished bedroom in Marguerite's apartment, stripped of former luxury due to financial ruin"
+    weather: "Calm clear morning with gentle sunlight, peaceful atmosphere"
+  characters:
+    - appearance: "Young man, mid-twenties, dark brown hair combed back in 1840s style, clean-shaven face with strong jawline, tall athletic build, intense brown eyes, pale skin"
+      clothing: "Black formal evening tailcoat, white dress shirt with high starched collar, white silk bow tie, black wool trousers with satin stripe, black leather dress shoes"
+      position: "Standing with head bowed in respectful prayer, hands clasped peacefully, no longer clenched with anger"
+      action: "Praying with quiet devotion, face showing mature understanding rather than passionate desperation"
+    - appearance: "Middle-aged man, early fifties, graying dark hair receding at temples, well-groomed sideburns, stern weathered face with deep lines, stocky build, sharp blue eyes"
+      clothing: "Dark navy formal frock coat, black wool waistcoat, white dress shirt, black silk cravat, gold pocket watch chain visible, black wool trousers, black leather boots"
+      position: "Standing beside his son with softened posture, rigid authority replaced by paternal gentleness"
+      action: "Also in prayer, sharp blue eyes now reflecting compassion rather than moral judgment"
+    - appearance: "Middle-aged woman, early forties, brown hair pulled back in simple bun, kind round face with warm brown eyes, average height, sturdy build, worn hands from work"
+      clothing: "Simple black servant's dress with white lace collar and cuffs, white cotton apron tied at waist, small white cap, black stockings, practical black shoes"
+      position: "Kneeling beside empty bed, hands folded in final service to her beloved mistress"
+      action: "Maintaining vigil with quiet dignity, no longer anxious but peacefully devoted in final duty"
+  scene:
+    mainElements: "Simple wooden bed with white linen sheets, single wooden chair beside bed, plain wooden table with medicine bottles, bare walls with single religious crucifix, small window with simple curtains"
+    details: "Fresh white camellia flowers arranged in small bouquet placed as offering before crucifix, pristine ivory-white petals with waxy texture appearing translucent in morning light, dark green glossy leaves, white silk ribbon. Luminous white pearl necklace with perfectly matched spherical pearls arranged reverently on white linen. Room transformed into sacred space of remembrance rather than chamber of suffering. No text or letters visible"
+    background: "Morning light streaming through window with new quality of peace, room feeling spacious rather than cramped, filled with quiet holiness"
+    atmosphere: "Austere solemnity, spiritual purification through suffering, quiet dignity in poverty, sacred peaceful quality of approaching death"
+  composition:
+    cameraAngle: "Reverent medium shot showing the transformed relationships in sacred space"
+    focus: "Three figures united in prayer and remembrance, no longer divided by conflict"
+    depth: "Foreground shows offering of camellias and pearls, middle ground captures united prayer group, background displays peaceful morning light"

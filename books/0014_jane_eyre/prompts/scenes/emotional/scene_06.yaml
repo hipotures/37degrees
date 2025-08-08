@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Gothic Arrival"
+  setting:
+    time: "1830s England, evening twilight"
+    location: "Gothic manor house on Yorkshire moors, three stories with battlements and ancient towers"
+    weather: "Overcast evening with mist beginning to rise from moors"
+  characters:
+    - appearance: "Young woman, early 20s, small slight build, plain features, pale skin, dark hair pulled severely back, large expressive dark eyes, determined chin"
+      clothing: "Simple black mourning dress or grey governess dress, white collar and cuffs, black shoes, plain bonnet when outdoors"
+      position: "Standing before massive front door, neck craned upward to take in imposing architecture"
+      action: "Gazing up at towering facade with mixture of awe and apprehension, clutching small bag tightly, steeling herself for new challenges"
+  scene:
+    mainElements: "Grey stone walls with ivy, tall Gothic windows, grand entrance hall visible through open door, towers and battlements against darkening sky"
+    details: "Ancient ivy covering stone walls, flickering lights in high windows, massive oak door with iron hinges, steps worn by centuries of use, gargoyles leering from roof corners, mist beginning to swirl around foundations"
+    background: "Yorkshire moors stretching endlessly, storm clouds gathering on horizon, ancient trees surrounding manor grounds"
+    atmosphere: "Mysterious grandeur tinged with secrets, sense of hidden dangers in upper floors, gothic romance and foreboding, new chapter beginning with uncertain promise"
+  composition:
+    cameraAngle: "Low angle emphasizing imposing architecture and small figure"
+    focus: "Vulnerable individual confronting mysterious Gothic world"
+    depth: "Lone figure at entrance in foreground, towering manor in middle ground, moody moors in background"

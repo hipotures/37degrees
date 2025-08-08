@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Collapse in the Rain"
+  setting:
+    time: "1840s French countryside, storm-lashed evening"
+    location: "Modest country house in French countryside outside Paris, surrounded by natural gardens and rolling hills"
+    weather: "Heavy torrential rain with harsh wind, lightning illuminating dark sky, cold and merciless"
+  characters:
+    - appearance: "Woman, early twenties, pale complexion with delicate features, auburn hair styled in elegant 1840s fashion with center part and side curls, slender build, fragile due to illness, expressive dark eyes"
+      clothing: "Luxurious white silk evening gown with off-shoulder neckline, fitted bodice with tiny pearl buttons, full bell-shaped skirt, white lace gloves, pearl necklace, small pearl earrings"
+      position: "Collapsed against cottage doorframe, shoulders hunched inward, body wracked with coughing"
+      action: "Gasping for breath, hand pressed against chest, rain-soaked and shivering with both cold and illness"
+    - appearance: "Middle-aged woman, early forties, brown hair pulled back in simple bun, kind round face with warm brown eyes, average height, sturdy build, worn hands from work"
+      clothing: "Simple black servant's dress with white lace collar and cuffs, white cotton apron tied at waist, small white cap, black stockings, practical black shoes"
+      position: "Kneeling beside her mistress in the rain, arms reaching out protectively"
+      action: "Trying desperately to shelter her from the storm, face etched with worry and helplessness"
+  scene:
+    mainElements: "Simple white-washed stone cottage with green shutters, climbing roses around doorframe, wooden garden gate, well-maintained flower beds, old oak tree providing shade"
+    details: "Fresh red camellia flowers arranged in small bouquet scattered on muddy ground, deep crimson petals with velvet texture now bruised and torn by rain, dark green glossy leaves, red silk ribbon sodden. Luminous white pearl necklace with perfectly matched spherical pearls dulled by rainwater. Garden flowers beaten down by storm, oak tree branches thrashing violently. Lightning creating harsh angular shadows. No text or letters visible"
+    background: "Rolling hills obscured by driving rain and storm clouds, landscape appearing hostile and unforgiving under harsh weather"
+    atmosphere: "Peaceful rural tranquility, escape from urban corruption, natural beauty offering healing and simple happiness"
+  composition:
+    cameraAngle: "Low dramatic angle emphasizing vulnerability against the overwhelming storm"
+    focus: "Collapsed figure being sheltered by devoted servant amid natural chaos"
+    depth: "Foreground shows scattered ruined camellias, middle ground captures desperate scene at cottage door, background displays storm-ravaged landscape"

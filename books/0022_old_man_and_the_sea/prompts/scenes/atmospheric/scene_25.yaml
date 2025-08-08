@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Dreams of Lions Return"
+  setting:
+    time: "September 1950, afternoon, 2:00 PM, peaceful siesta time"
+    location: "One-room dwelling in Cojímar made from hardened palm fronds called guano, dirt floor packed smooth by years of use"
+    weather: "Warm peaceful afternoon, gentle trade winds, comfortable temperature"
+  characters:
+    - appearance: "Old man over 70 years, thin and gaunt but with strong sinewy arms, height average for elderly Cuban fisherman, weathered dark skin with deep wrinkles on neck and face, brown spots of benign skin cancer on cheeks, hands covered with deep old healed scars from fishing lines"
+      clothing: "Worn patched shirt faded by sun and salt, old threadbare trousers, often barefoot, straw hat when at sea for sun protection"
+      position: "Sleeping peacefully on bed, face relaxed and serene"
+      action: "Dreaming deeply, slight smile on weathered face, hands resting calmly"
+    - appearance: "Young Cuban boy around 14-16 years old, lean athletic build from fishing work, average height for adolescent, tanned olive skin, dark brown hair, warm brown eyes showing loyalty and concern"
+      clothing: "Simple work clothes, cotton shirt and trousers suitable for fishing village, sturdy sandals"
+      position: "Quietly preparing fishing equipment in corner"
+      action: "Organizing gear for tomorrow's fishing, planning their return to sea together"
+  scene:
+    mainElements: "Single old iron bed, small wooden table, one wooden chair, corner fireplace for charcoal cooking, boat mast leaning against wall almost as long as room"
+    details: "Dim interior lit only by doorway, clean but czyste showing dignity in poverty, two religious pictures on wall - Sacred Heart of Jesus and Virgin of Cobre, faint smell of charcoal and ocean salt. Afternoon light creating peaceful atmosphere, fishing gear being quietly organized, sense of renewal and hope for future, cycle preparing to begin again with restored partnership"
+    background: "Peaceful village sounds of afternoon rest, gentle ocean breeze carrying salt scent, promise of tomorrow's adventures"
+    atmosphere: "Full circle moment - return to peace and dreams after great trial, renewal of friendship and purpose, cyclical nature of life and hope, time passage made visible through rest and restoration, no text or letters visible"
+  composition:
+    cameraAngle: "Peaceful wide shot showing complete scene of rest and preparation"
+    focus: "Serene sleeping figure dreaming while life prepares to continue"
+    depth: "Foreground shows peaceful sleeping details, middle ground captures quiet preparation, background suggests infinite cycle of sea and dreams"

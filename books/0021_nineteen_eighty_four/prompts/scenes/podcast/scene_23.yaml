@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "New Faces, Eternal System"
+  setting:
+    time: "1984, months later, same harsh fluorescent lighting"
+    location: "Ministry of Truth office floor with same cubicles but different workers"
+    weather: "Same sterile climate-controlled environment"
+  characters:
+    - appearance: "Young man, approximately 25 years old, thin and nervous, fresh-faced with intelligent but anxious eyes, new to Party work"
+      clothing: "New blue Party overalls (recently issued), still stiff and unused"
+      position: "Seated at desk in cubicle where Winston once worked, hunched over speakwrite machine"
+      action: "Learning to operate historical falsification equipment while glancing around nervously, showing same initial discomfort Winston once felt"
+    - appearance: "Young woman, approximately 23 years old, athletic build, bright eyes still showing individual personality, eager to serve Party"
+      clothing: "Blue Party overalls with scarlet Anti-Sex League sash worn properly around waist"
+      position: "Standing beside new worker's desk in teaching position"
+      action: "Explaining proper techniques for document revision with Party enthusiasm, representing system's recruitment of fresh minds"
+  scene:
+    mainElements: "Identical institutional workspace with same pneumatic tube system, same slit-like openings leading to furnaces (memory holes), same dictating machines and revision equipment, new workers learning same processes that once horrified Winston"
+    details: "Totalitarian system's eternal renewal through fresh victims. New workers occupy same spaces where Winston's rebellion once festered. The young man shows same nervous intelligence that made Winston dangerous. The woman displays Party enthusiasm that will gradually be corrupted. Same memory holes wait to consume truth from new generation. Identical equipment serves endless cycle of historical falsification. The institutional environment remains unchanged while human consciousness is continuously processed and destroyed. Fresh faces will learn same techniques and eventually face same choices. No text or letters visible."
+    background: "Same endless rows of cubicles now filled with different workers performing identical tasks, same white walls and surveillance equipment"
+    atmosphere: "Eternal repetition of totalitarian process, fresh human consciousness feeding endless machine of oppression, unchanging system consuming new generation"
+  composition:
+    cameraAngle: "Wide shot showing new workers in familiar institutional setting"
+    focus: "Young nervous man learning same work that once destroyed Winston"
+    depth: "Foreground new workers at familiar desks, middle ground same equipment and memory holes, background same institutional environment extending endlessly"

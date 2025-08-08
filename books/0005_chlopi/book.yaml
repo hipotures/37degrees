@@ -1,6 +1,7 @@
 book_info:
-  title: "Chłopi"
+  title: "The Peasants"
+  title_pl: "Chłopi"
   author: "Władysław Reymont"
   year: 1904
-  genre: "Powieść naturalistyczna"
-  reading_time: "20-25 godzin"
+  genre: "Naturalistic novel"
+  reading_time: "20-25 hours"

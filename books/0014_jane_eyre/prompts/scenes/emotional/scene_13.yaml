@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Mad Wife Revealed"
+  setting:
+    time: "1830s England, morning"
+    location: "Gothic manor house on Yorkshire moors, three stories with battlements and ancient towers, attic chamber with barred windows"
+    weather: "Grey morning light filtering through iron bars"
+  characters:
+    - appearance: "Young woman, early 20s, small slight build, plain features, pale skin, dark hair pulled severely back, large expressive dark eyes, determined chin"
+      clothing: "Wedding dress now disheveled, veil gone, face white with shock and betrayal"
+      position: "Standing frozen in doorway, one hand pressed to throat in horror"
+      action: "Staring at terrible truth revealed, world crashing down around her, recognizing complete deception"
+    - appearance: "Woman in her 30s, tall imposing build, wild dark hair, pale skin, fierce unsettling eyes, gaunt angular face, unnaturally thin frame"
+      clothing: "Torn white nightgown, bare feet, no jewelry or ornaments"
+      position: "Crouched in corner of small chamber, pressed against window bars"
+      action: "Rocking back and forth, pulling at her hair, pressing face against iron bars, muttering inaudibly, displaying clear madness"
+  scene:
+    mainElements: "Small attic chamber with barred windows, iron restraints, evidence of confinement, madwoman in captivity"
+    details: "Iron bars on windows, padded walls showing wear, chains attached to wall, scattered torn clothing, claw marks on wooden door, chamber pot in corner, single chair for warden"
+    background: "Moors visible through barred window, rest of manor house below, storm clouds gathering again"
+    atmosphere: "Devastating truth revealed, complete betrayal of trust, moral horror at deception, all happiness poisoned by hidden sin, world crashing down"
+  composition:
+    cameraAngle: "Medium shot showing discovery of terrible secret"
+    focus: "Moment of revelation destroying all trust and hope"
+    depth: "Shocked discoverer in foreground, confined madwoman in middle ground, barred view of freedom in background"

@@ -1,0 +1,92 @@
+sceneDescription:
+  setting:
+    time: 1840s Paris, tense evening
+    location: Grand ballroom in elegant Parisian mansion during 1840s social gathering, polished parquet floors reflecting
+      light
+    weather: Clear but cold evening with sharp winter air
+  characters:
+  - appearance: Woman, early twenties, pale complexion with delicate features, auburn hair styled in elegant 1840s fashion
+      with center part and side curls, slender build, fragile due to illness, expressive dark eyes
+    clothing: Luxurious white silk evening gown with off-shoulder neckline, fitted bodice with tiny pearl buttons, full bell-shaped
+      skirt, white lace gloves, pearl necklace, small pearl earrings
+    position: Standing with back partially turned, shoulders slightly hunched, one arm crossed protectively across body
+    action: Looking away with conflicted expression, hand trembling slightly as she holds camellias
+  - appearance: Young man, mid-twenties, dark brown hair combed back in 1840s style, clean-shaven face with strong jawline,
+      tall athletic build, intense brown eyes, pale skin
+    clothing: Black formal evening tailcoat, white dress shirt with high starched collar, white silk bow tie, black wool trousers
+      with satin stripe, black leather dress shoes
+    position: Standing with clenched fists at sides, body leaning forward with tension
+    action: Staring intently toward the woman, jaw set with determination and frustration
+  scene:
+    mainElements: Massive crystal chandeliers casting brilliant light, gilded mirrors lining walls, orchestral musicians on
+      elevated platform, elaborate floral arrangements, marble columns with golden capitals
+    details: Fresh red camellia flowers arranged in small bouquet, deep crimson petals with velvet texture, dark green glossy
+      leaves, tied with red silk ribbon. Luminous white pearl necklace catching harsh chandelier light. Other guests maintaining
+      polite distance, sensing tension in the air. Cold light reflecting off mirrors creating sharp contrasts. No text or
+      letters visible
+    background: Other couples continuing to dance while avoiding the area around the tense figures, orchestra playing but
+      seeming distant
+    atmosphere: Glittering high society spectacle, orchestral music filling the air, swirling gowns and formal attire, mixture
+      of celebration and social judgment
+  composition:
+    cameraAngle: Medium shot capturing body language and spatial tension between characters
+    focus: Two figures positioned to show emotional distance despite physical proximity
+    depth: Foreground emphasizes tense body language, middle ground shows other guests maintaining distance, background displays
+      ongoing ballroom activities
+visualElements:
+  colorPalette:
+    primary:
+    - muted golds
+    - deep greens
+    - burgundy
+    - peacock blue
+    secondary:
+    - ivory
+    - dusty rose
+    - sage green
+    background: aged paper or decorative patterns
+    usageNotes: Rich but muted tones with metallic accents
+    saturation: medium, sophisticated
+    contrast: elegant, balanced
+  lineArt:
+    style: flowing, sinuous curves
+    weight: varied, decorative
+    color: dark brown or black with gold accents
+    texture: smooth, refined
+    edgeTreatment: organic, plant-like curves
+  lighting:
+    type: decorative, non-realistic
+    direction: integrated into design
+    intensity: balanced throughout
+    shadows:
+      style: decorative, part of pattern
+      color: deeper tones of base colors
+      opacity: integrated
+    highlights: gold leaf effects
+  rendering:
+    technique: decorative illustration
+    texture: smooth with ornamental details
+    detailLevel: high in decoration, simplified figures
+    finish: refined, poster-like
+  perspective: flattened, decorative
+  mood:
+    overall: elegant, romantic, sophisticated
+    emotion: beauty, refinement, nostalgia
+    tempo: flowing, graceful
+    keywords:
+    - elegant
+    - decorative
+    - romantic
+    - ornate
+    - sophisticated
+  stylePrecedents:
+  - Alphonse Mucha
+  - Gustav Klimt
+  - Aubrey Beardsley
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

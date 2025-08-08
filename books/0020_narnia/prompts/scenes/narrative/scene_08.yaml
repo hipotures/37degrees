@@ -1,0 +1,32 @@
+sceneDescription:
+  title: "Return and Disbelief"
+  setting:
+    time: "1940, moments after Lucy's departure, no time elapsed"
+    location: "Nearly empty room in Professor's house containing only large wooden wardrobe"
+    weather: "Rain still pattering against windows, grey afternoon light"
+  characters:
+    - appearance: "Boy, 13 years old, tall and well-built for his age, natural leadership bearing, fair-haired English youth, noble and serious facial features"
+      clothing: "Brown wool vest over white linen shirt, knee-length dark breeches, long socks, sturdy leather shoes, school sweater"
+      position: "Standing near wardrobe with puzzled expression, arms crossed"
+      action: "Looking skeptical and concerned, trying to be patient with Lucy's excited story"
+    - appearance: "Girl, 12 years old, graceful and poised, long straight black hair, the pretty one of the family, mature bearing, gentle facial features"
+      clothing: "Simple wool dress in muted blue-grey, practical school cardigan, dark stockings, sensible shoes"
+      position: "Sitting on edge examining wardrobe interior with practical curiosity"
+      action: "Feeling back wall of wardrobe to prove it's solid, looking for logical explanations"
+    - appearance: "Boy, 10 years old, smaller build than Peter, dark hair, initially sullen and spiteful expression, later shows repentance and courage"
+      clothing: "School shorts, white shirt, grey wool pullover, long socks, black school shoes"
+      position: "Leaning against wall with mocking smirk"
+      action: "Rolling eyes and making faces about Lucy's story, enjoying her frustration"
+    - appearance: "Girl, 8 years old, small and delicate, bright golden curly hair, merry and trusting expression, radiant and honest face"
+      clothing: "Simple blue wool dress with white collar, wool tights, small leather shoes, child's cardigan"
+      position: "Standing excitedly in front of wardrobe, gesturing animatedly"
+      action: "Trying desperately to convince siblings of her adventure, demonstrating how she entered wardrobe"
+  scene:
+    mainElements: "Large old-fashioned wooden wardrobe with mirror in doors, completely ordinary appearance from outside, interior filled with rows of heavy fur coats smelling of mothballs, back opens magically into Narnia"
+    details: "Afternoon light filtering through rain-streaked windows, wardrobe looking completely ordinary and innocent, Lucy's hair and clothes showing no signs of snow or outdoor adventure, fur coats hanging normally in wardrobe interior, solid back wall yielding no evidence of magical passage, siblings' faces showing mixture of concern and skepticism about Lucy's mental state"
+    background: "Empty room with bare floorboards, corridor visible beyond open doorway, sound of rain continuing against windows"
+    atmosphere: "Tension between Lucy's certainty and siblings' disbelief, growing family discord, ordinary room holding extraordinary secret, frustration of being unable to prove truth, no text or letters visible"
+  composition:
+    cameraAngle: "Medium group shot showing all four children around wardrobe with varying expressions"
+    focus: "Lucy trying to convince skeptical siblings, wardrobe as silent witness to truth"
+    depth: "Four children in foreground showing family dynamics, wardrobe in middle ground appearing completely normal, empty room in background"

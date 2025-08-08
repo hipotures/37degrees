@@ -1,0 +1,92 @@
+sceneDescription:
+  setting:
+    time: 1840s Paris, devastating night of complete breakdown
+    location: Luxurious Second Empire Parisian salon in upscale district, ornate high-ceilinged interior with tall windows
+    weather: Violent thunderstorm raging outside, rain lashing windows, lightning illuminating interior
+  characters:
+  - appearance: Woman, early twenties, pale complexion with delicate features, auburn hair styled in elegant 1840s fashion
+      with center part and side curls, slender build, fragile due to illness, expressive dark eyes
+    clothing: Luxurious white silk evening gown with off-shoulder neckline, fitted bodice with tiny pearl buttons, full bell-shaped
+      skirt, white lace gloves, pearl necklace, small pearl earrings
+    position: Collapsed on floor in center of room, body wracked with violent coughing, silk gown spread around her
+    action: Coughing up blood onto white lace handkerchief, tears streaming down face, entire body convulsing with illness
+      and grief
+  - appearance: Young man, mid-twenties, dark brown hair combed back in 1840s style, clean-shaven face with strong jawline,
+      tall athletic build, intense brown eyes, pale skin
+    clothing: Black formal evening tailcoat, white dress shirt with high starched collar, white silk bow tie, black wool trousers
+      with satin stripe, black leather dress shoes
+    position: Kneeling beside her with arms reaching out helplessly, face contorted with anguish
+    action: Crying out in desperation, hands trembling as he tries to help but cannot touch what is destroying her
+  scene:
+    mainElements: Opulent red velvet sofas with gold trim, mahogany piano against wall, marble fireplace with gilt mirror
+      above, crystal chandelier hanging from decorated ceiling
+    details: Fresh red camellia flowers scattered across floor, deep crimson petals with velvet texture mixed with drops of
+      blood, dark green glossy leaves, red silk ribbon torn and stained. Luminous white pearl necklace broken, individual
+      pearls rolling across polished floor. Overturned furniture, mirrors cracked by thunder vibrations. Lightning flashes
+      creating harsh stroboscopic lighting. Blood-stained white lace handkerchief in her trembling hand. No text or letters
+      visible
+    background: Storm-lashed windows with rain streaming down glass, chandelier swaying with thunder, shadows dancing wildly
+      with each lightning flash
+    atmosphere: Sumptuous wealth mixed with feminine refinement, warm gaslight creating golden glow, subtle air of melancholy
+  composition:
+    cameraAngle: Dramatic low angle emphasizing the complete collapse and vulnerability
+    focus: Broken figure at center with scattered pearls and bloodied camellias
+    depth: Foreground shows blood and broken pearls, middle ground captures the devastating collapse, background displays
+      raging storm through windows
+visualElements:
+  colorPalette:
+    primary:
+    - muted golds
+    - deep greens
+    - burgundy
+    - peacock blue
+    secondary:
+    - ivory
+    - dusty rose
+    - sage green
+    background: aged paper or decorative patterns
+    usageNotes: Rich but muted tones with metallic accents
+    saturation: medium, sophisticated
+    contrast: elegant, balanced
+  lineArt:
+    style: flowing, sinuous curves
+    weight: varied, decorative
+    color: dark brown or black with gold accents
+    texture: smooth, refined
+    edgeTreatment: organic, plant-like curves
+  lighting:
+    type: decorative, non-realistic
+    direction: integrated into design
+    intensity: balanced throughout
+    shadows:
+      style: decorative, part of pattern
+      color: deeper tones of base colors
+      opacity: integrated
+    highlights: gold leaf effects
+  rendering:
+    technique: decorative illustration
+    texture: smooth with ornamental details
+    detailLevel: high in decoration, simplified figures
+    finish: refined, poster-like
+  perspective: flattened, decorative
+  mood:
+    overall: elegant, romantic, sophisticated
+    emotion: beauty, refinement, nostalgia
+    tempo: flowing, graceful
+    keywords:
+    - elegant
+    - decorative
+    - romantic
+    - ornate
+    - sophisticated
+  stylePrecedents:
+  - Alphonse Mucha
+  - Gustav Klimt
+  - Aubrey Beardsley
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

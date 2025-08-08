@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Blue Hour Transition"
+  setting:
+    time: "September 1950, early evening, 6:45 PM, blue hour beginning"
+    location: "Deep blue waters of Gulf Stream current flowing northwest along Cuban coast, far from sight of land in all directions"
+    weather: "Calm clear evening, very light air, glassy water conditions"
+  characters:
+    - appearance: "Old man over 70 years, thin and gaunt but with strong sinewy arms, height average for elderly Cuban fisherman, weathered dark skin with deep wrinkles on neck and face, brown spots of benign skin cancer on cheeks, hands covered with deep old healed scars from fishing lines"
+      clothing: "Worn patched shirt faded by sun and salt, old threadbare trousers, often barefoot, straw hat when at sea for sun protection"
+      position: "Exhausted, leaning against boat side"
+      action: "Resting after struggle, breathing heavily, watching day transition to night"
+  scene:
+    mainElements: "Endless expanse of deep blue to purple ocean water, horizon line meeting azure sky, no visible land or other vessels, surface occasionally broken by flying fish or dolphins"
+    details: "Deep blue sky with last orange glow fading on western horizon, magical in-between time when day meets night, water surface mirror-calm reflecting deepening sky colors, first stars beginning to appear overhead, massive fish skeleton over 18 feet long, white vertebrae and ribs picked completely clean by sharks, great head with intact sword-like bill, tail fin still attached, lashed to side of small fishing boat floating alongside"
+    background: "Sky transforming from sunset colors through deep blue to approaching darkness, Venus bright as first evening light, horizon line still barely visible"
+    atmosphere: "Magical transition time between day and night, profound quiet and peace after epic struggle, sense of completion and exhaustion, beauty of natural cycles, no text or letters visible"
+  composition:
+    cameraAngle: "Serene wide shot capturing twilight transition"
+    focus: "Quiet moment of rest in magical blue hour light"
+    depth: "Foreground shows boat and fish skeleton details, middle ground captures figure in contemplation, background displays ethereal twilight sky"

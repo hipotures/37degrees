@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Pain of Saying Goodbye"
+  setting:
+    time: "1943 Sahara Desert, late afternoon with melancholic golden light, approaching departure atmosphere"  
+    location: "Vast Sahara Desert in North Africa, endless expanse of golden sand dunes stretching to horizon in all directions, sparse vegetation, extreme isolation from human civilization"
+    weather: "Gentle wind with sense of change and departure, golden light becoming more intense as day progresses, emotional weight in the air"
+  characters:
+    - appearance: "Young boy, approximately 7-8 years old, blonde curly hair reaching his shoulders, fair skin with rosy cheeks, bright blue eyes filled with wonder and melancholy, slender build, average height for a child"
+      clothing: "Long golden-yellow coat reaching mid-thigh, white shirt underneath, long golden scarf flowing in wind, dark blue or black trousers, simple black shoes, no gloves or hat"
+      position: "Kneeling at fox's level for final equal goodbye, close but respectful distance"
+      action: "Reaching out to gently touch fox's head in farewell gesture, eyes filling with tears of gratitude and sorrow, face showing profound love mixed with pain of separation, breathing deeply to control emotion"
+    - appearance: "Small red fox with bright amber eyes, pointed ears alert and forward-facing, bushy tail with white tip, russet red fur with darker markings around ears and paws, intelligent expression showing ancient wisdom"
+      clothing: "Natural golden-red fur coat, no artificial clothing or accessories, pristine condition suggesting wild but well-cared-for state"  
+      position: "Sitting tall with dignity, ears forward but slightly drooping with emotion, accepting farewell with gracious sadness"
+      action: "Allowing gentle touch with quiet acceptance, eyes showing deep affection and wise understanding of necessity, tail moving slowly showing emotional response, maintaining dignity while showing feeling"
+  scene:
+    mainElements: "Sacred moment of farewell between friends, intimate space created by shared emotion, evidence of time spent together in conversation and learning"
+    details: "Rolling sand dunes of various heights, scattered rock outcroppings, broken aircraft engine parts, pilot's supplies spread on sand, vast empty sky meeting sand at distant horizon line, occasional desert plants"
+    background: "Desert setting taking on emotional significance as witness to profound friendship, golden light emphasizing preciousness of moment, sense of eternal memory being created"
+    atmosphere: "Profound love and gratitude mixed with pain of necessary separation, deep emotional complexity, understanding that some goodbyes strengthen rather than end connection, no text or letters visible anywhere in scene"
+  composition:
+    cameraAngle: "Intimate close-up showing emotional exchange and final moment of physical connection"
+    focus: "Touching moment of farewell showing both the pain and the beauty of deep friendship"
+    depth: "Immediate foreground with touching hands/paws, middle ground with full emotional exchange, background softened to emphasize intimacy"

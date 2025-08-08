@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Beauty's Ethereal Ascension"
+  setting:
+    time: "Early 1900s Colombian Caribbean coast, windy afternoon with brilliant sunlight"
+    location: "Courtyard of Buendía house during laundry day, Colombian jungle village"
+    weather: "Strong warm wind creating movement in air, bright sunshine with scattered clouds"
+  characters:
+    - appearance: "Woman, from birth to ascension as young woman around 18-20 years old, described as most beautiful woman ever seen in Macondo, her beauty is unearthly, disturbing and mortally dangerous for men who look at her with desire, has long thick hair and radiant skin, body emits subtle disturbing scent that drives men to madness, completely unaware of her beauty and its effect on others giving impression of being mentally disabled though Colonel Aureliano believes she possesses extraordinary clarity of mind"
+      clothing: "Despises clothes and fashion preferring simplicity and comfort, often walks around house naked or in simple plain shirt which further enhances her natural beauty, at family's request shaves head to avoid having to comb her magnificent hair"
+      position: "Standing in courtyard holding corner of white bedsheet"
+      action: "Smiling serenely while helping fold laundry, beginning to rise into air with sheets"
+    - appearance: "Woman, arrives in Macondo as young woman, dies in old age, in youth extraordinarily beautiful chosen as most beautiful among 5000 girls, has aristocratic bearing, pale complexion and haughty facial expression, with age beauty fades and face takes on harsh embittered expression"
+      clothing: "Always dresses formally and old-fashioned inappropriately for tropical Macondo climate, wears long dark dresses, lace and veils emphasizing her sense of superiority and alienation"
+      position: "Standing opposite holding other corner of sheet"
+      action: "Gasping in amazement while losing grip on expensive Dutch bedsheets"
+    - appearance: "Woman, from birth to death in old age, can be assumed attractive in youth since competed with Rebeca for Pietro Crespi's affections, key unchanging visual feature is black silk bandage worn on right hand after deliberately burning it in fire as penance after Pietro's suicide, wears bandage until death as symbol of virginity and rejected love"
+      clothing: "Usually wears dark stern dresses reflecting inner bitterness and permanent state of mourning over unfulfilled life"
+      position: "Watching from doorway with mixture of wonder and envy"
+      action: "Crossing herself while witnessing miracle with complex emotions"
+  scene:
+    mainElements: "Courtyard laundry scene transformed into miraculous ascension, white bedsheets billowing in strong wind like angelic wings, beautiful young woman rising toward sky with complete serenity, family members witnessing impossible event with mixture of wonder and practical concern"
+    details: "Brilliant white sheets creating ethereal atmosphere as they float upward, delicate wind of light lifting Remedios toward azure sky, scene devoid of religious drama presented as natural everyday miracle, expensive Dutch bedsheets becoming instruments of transcendence, no text or letters visible"
+    background: "Tropical blue sky with white clouds providing perfect backdrop for ascension, adobe houses of village visible below, laundry lines and domestic scene transformed into sacred moment"
+    atmosphere: "Serene miraculous moment without religious pathos, pure innocence transcending earthly realm, everyday domestic activity transformed into moment of supernatural beauty and wonder"
+  composition:
+    cameraAngle: "Low angle looking up capturing ascension against brilliant sky"
+    focus: "Remedios rising serenely while white sheets billow around her like wings"
+    depth: "Foreground: amazed family observers, middle: ascending beauty with flowing sheets, background: infinite blue sky representing freedom from earthly concerns"

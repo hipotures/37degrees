@@ -1,0 +1,95 @@
+canon:
+  characters:
+    - id: "santiago"
+      name: "Santiago"
+      description_block: |
+        characters:
+          - appearance: "Old man over 70 years, thin and gaunt but with strong sinewy arms, height average for elderly Cuban fisherman, weathered dark skin with deep wrinkles on neck and face, brown spots of benign skin cancer on cheeks, hands covered with deep old healed scars from fishing lines"
+            clothing: "Worn patched shirt faded by sun and salt, old threadbare trousers, often barefoot, straw hat when at sea for sun protection"
+            posture: "Stooped but not broken, moves slowly with stiffness of age but hands remain skilled and steady"
+    
+    - id: "manolin"
+      name: "Manolin"
+      description_block: |
+        characters:
+          - appearance: "Young Cuban boy around 14-16 years old, lean athletic build from fishing work, average height for adolescent, tanned olive skin, dark brown hair, warm brown eyes showing loyalty and concern"
+            clothing: "Simple work clothes, cotton shirt and trousers suitable for fishing village, sturdy sandals"
+            posture: "Energetic youthful movements, quick to help, carries himself with respect when speaking to Santiago"
+
+    - id: "martin"
+      name: "Martin"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged Cuban cafe owner around 45-50 years, stocky build from good eating, receding black hair, kind weathered face with mustache"
+            clothing: "Clean white cotton shirt, dark trousers, apron when working in kitchen"
+            posture: "Welcoming stance, warm gestures when serving customers, respectful demeanor toward Santiago"
+
+    - id: "pedrico"
+      name: "Pedrico"
+      description_block: |
+        characters:
+          - appearance: "Cuban fisherman in his 40s, weathered and strong like Santiago but younger, dark hair graying at temples, calloused hands, sun-darkened skin"
+            clothing: "Similar fishing attire to Santiago - worn work shirt and trousers, rope belt, sometimes straw hat"
+            posture: "Confident movements of experienced fisherman, stands straight with professional bearing"
+
+  locations:
+    - id: "cojimar_village"
+      name: "Cojimar Village"
+      description_block: |
+        setting:
+          location: "Cuban fishing village of Cojímar seven kilometers east of Havana, situated around small protected bay at river mouth"
+        mainElements: "Simple single-story houses with faded pastel walls in yellows, blues, and ochres, 17th century stone fort Torreón de Cojímar dominating harbor, narrow unpaved streets, lush tropical vegetation with royal palms and banana trees"
+        atmosphere: "Hot humid air thick with scents of salt, fish, and tar, sounds of Spanish conversations, creaking boats, and constant ocean waves, siesta-quiet during midday heat"
+
+    - id: "santiago_shack"
+      name: "Santiago's Shack"
+      description_block: |
+        setting:
+          location: "One-room dwelling in Cojímar made from hardened palm fronds called guano, dirt floor packed smooth by years of use"
+        mainElements: "Single old iron bed, small wooden table, one wooden chair, corner fireplace for charcoal cooking, boat mast leaning against wall almost as long as room"
+        atmosphere: "Dim interior lit only by doorway, clean but sparse showing dignity in poverty, two religious pictures on wall - Sacred Heart of Jesus and Virgin of Cobre, faint smell of charcoal and ocean salt"
+
+    - id: "cojimar_port"
+      name: "Cojímar Port"
+      description_block: |
+        setting:
+          location: "Small stone harbor with wooden docks extending into protected bay where Cojímar River meets ocean"
+        mainElements: "Stone and concrete quays weathered by decades of salt spray, colorful small fishing boats called skiffs moored to bollards, fish house building where catches are processed, scattered fishing nets and equipment"
+        atmosphere: "Busy during morning and evening with fishermen departing and returning, scents of fish and seaweed, gulls crying overhead, gentle lapping of harbor water"
+
+    - id: "terrace_cafe"  
+      name: "The Terrace Cafe"
+      description_block: |
+        setting:
+          location: "Simple open-air restaurant La Terraza overlooking Cojímar harbor with terrace facing the bay"
+        mainElements: "Wooden tables and chairs arranged on concrete terrace, simple interior with bar area, black and white photographs of Hemingway and local fishermen on walls"
+        atmosphere: "Gathering place for fishermen and locals, warm evening light from simple bulbs, conversations in Spanish mixing with sounds of harbor below"
+
+    - id: "gulf_stream"
+      name: "Gulf Stream Waters"
+      description_block: |
+        setting:
+          location: "Deep blue waters of Gulf Stream current flowing northwest along Cuban coast, far from sight of land in all directions"
+        mainElements: "Endless expanse of deep blue to purple ocean water, horizon line meeting azure sky, no visible land or other vessels, surface occasionally broken by flying fish or dolphins"
+        atmosphere: "Profound silence broken only by water lapping boat hull and occasional marine life, sense of isolation and infinity, harsh tropical sun creating glare on water during day, stars brilliantly visible at night"
+
+  items:
+    - id: "santiago_skiff"
+      name: "Santiago's Fishing Boat"
+      description_block: |
+        details: "Small open wooden boat approximately 16 feet long, weathered but seaworthy, single mast with patched sail sewn from flour sacks, simple wooden oars, no motor, painted hull faded from years of sun and salt"
+
+    - id: "patched_sail"
+      name: "Patched Sail"  
+      description_block: |
+        details: "Sail constructed from old flour sacks stitched together with rough brown thread, faded lettering still visible on some patches, furled around mast when not in use, looks like flag of permanent defeat when hanging limp"
+
+    - id: "fishing_equipment"
+      name: "Fishing Equipment"
+      description_block: |
+        details: "Heavy fishing lines made of braided cord, sharp steel hooks, lead sinkers, wooden gaff hook for landing fish, simple steel harpoon with rope attached, filleting knife with worn wooden handle"
+
+    - id: "marlin_skeleton"  
+      name: "Giant Marlin Skeleton"
+      description_block: |
+        details: "Massive fish skeleton over 18 feet long, white vertebrae and ribs picked completely clean by sharks, great head with intact sword-like bill, tail fin still attached, lashed to side of small fishing boat"

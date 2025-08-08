@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Harbor Preparation in Rose-Tinted Dawn"
+  setting:
+    time: "September 1950, early morning, 6:00 AM, full sunrise beginning"
+    location: "Small stone harbor with wooden docks extending into protected bay where Cojímar River meets ocean"
+    weather: "Clear calm morning, light breeze from east, humidity beginning to rise"
+  characters:
+    - appearance: "Old man over 70 years, thin and gaunt but with strong sinewy arms, height average for elderly Cuban fisherman, weathered dark skin with deep wrinkles on neck and face, brown spots of benign skin cancer on cheeks, hands covered with deep old healed scars from fishing lines"
+      clothing: "Worn patched shirt faded by sun and salt, old threadbare trousers, often barefoot, straw hat when at sea for sun protection"
+      position: "Kneeling beside small fishing boat at water's edge"
+      action: "Arranging fishing equipment with practiced precision, checking lines and hooks in growing light"
+    - appearance: "Young Cuban boy around 14-16 years old, lean athletic build from fishing work, average height for adolescent, tanned olive skin, dark brown hair, warm brown eyes showing loyalty and concern"
+      clothing: "Simple work clothes, cotton shirt and trousers suitable for fishing village, sturdy sandals"
+      position: "Standing on dock holding wooden box of fresh sardines"
+      action: "Preparing bait and supplies, watching Santiago work with respectful attention"
+  scene:
+    mainElements: "Stone and concrete quays weathered by decades of salt spray, colorful small fishing boats called skiffs moored to bollards, fish house building where catches are processed, scattered fishing nets and equipment"
+    details: "Rose and gold light reflecting off calm harbor water, wooden hulls of moored boats gleaming wet with dew, coiled ropes and fishing nets creating intricate patterns on dock planks, single pelican perched on piling watching activities below, gentle lapping of small waves against stone seawall, fresh sardines silver and blue in morning light, scent of tar and salt wood mixing with ocean air"
+    background: "Harbor opening to vast ocean beyond breakwater, sky deepening from pink to blue as sun climbs higher, fort casting sharp shadow across eastern section of harbor"
+    atmosphere: "Quiet industry of preparation, sense of ritual and routine developed over decades, cool morning air beginning to warm, anticipation of day's work ahead, no text or letters visible"
+  composition:
+    cameraAngle: "Low angle from water level looking across dock activities"
+    focus: "Interaction between old man and boy preparing for sea journey"
+    depth: "Foreground shows water reflections and boat details, middle ground captures dock activity, background reveals harbor entrance and open ocean"

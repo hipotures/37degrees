@@ -1,6 +1,7 @@
 book_info:
   title: "Anna Karenina"
-  author: "Lew Tołstoj"
+  title_pl: "Anna Karenina"
+  author: "Leo Tolstoy"
   year: 1877
-  genre: "Powieść psychologiczna"
-  reading_time: "25-30 godzin"
+  genre: "Psychological novel"
+  reading_time: "25-30 hours"

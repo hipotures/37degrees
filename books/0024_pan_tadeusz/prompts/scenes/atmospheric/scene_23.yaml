@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Torrential Summer Rain - Nature's Cleansing"
+  setting:
+    time: "1812, summer, 3:00 PM, intense rainfall during peak growing season"
+    location: "Fields and countryside during heavy summer downpour, showing rain's effect on landscape"
+    weather: "Heavy continuous rainfall creating temporary streams and flooding, warm summer rain"
+  characters:
+    - appearance: "Elderly man around 72 years, cheerful animated face, lively eyes, sprightly despite advanced age, respected dignified appearance"
+      clothing: "Traditional nobleman's attire now soaked with rain, taking shelter under large oak tree"
+      position: "Standing under tree canopy seeking protection from downpour, watching rain effects on landscape"
+      action: "Observing heavy rainfall with interest rather than distress, appreciating rain's benefit for crops and countryside, waiting patiently for weather to pass"
+  scene:
+    mainElements: "Heavy rain falling in sheets across countryside, temporary streams forming in fields, vegetation appearing refreshed and vibrant under rain, oak tree providing natural umbrella"
+    details: "Rain creating percussion symphony on leaves and earth, streams of water flowing along field furrows, grass and crops appearing to drink gratefully, puddles forming and reflecting gray sky, air filled with fresh scent of rain on warm earth, sound of rain overwhelming all other noise"
+    background: "Countryside partially obscured by rain curtains, hills and forests appearing through veils of precipitation, gray sky promising continued rainfall"
+    atmosphere: "Cleansing power of heavy rain, sense of nature receiving needed moisture, peaceful acceptance of weather's rhythms, abundance and fertility promoted by rainfall, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot showing rain effects and natural shelter"
+    focus: "Figure taking shelter while observing beneficial rainfall"
+    depth: "Foreground shows rain impact details, middle ground captures sheltering figure, background reveals rain-washed landscape"

@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: Dawn in Narnia, first light of sunrise breaking over hills
+    location: Ancient sacrificial altar on top of barren hill in Narnia, open to sky
+    weather: Clear dawn, warm golden sunlight replacing cold moonlight
+  characters:
+  - appearance: Enormous male lion, much larger than ordinary lions, magnificent golden mane that catches and reflects light,
+      great solemn royal eyes that are overwhelming to look upon, noble and majestic bearing
+    clothing: None - natural lion
+    position: Standing alive and glorious beside cracked Stone Table
+    action: Radiating life and power, mane restored and more magnificent than ever
+  - appearance: Girl, 12 years old, graceful and poised, long straight black hair, the pretty one of the family, mature bearing,
+      gentle facial features
+    clothing: Simple wool dress in muted blue-grey, practical school cardigan, dark stockings, sensible shoes
+    position: Running toward Aslan in disbelieving joy
+    action: Reaching out to touch his living mane, face transformed by wonder and relief
+  - appearance: Girl, 8 years old, small and delicate, bright golden curly hair, merry and trusting expression, radiant and
+      honest face
+    clothing: Simple blue wool dress with white collar, wool tights, small leather shoes, child's cardigan
+    position: Racing beside Susan toward resurrected Aslan
+    action: Laughing with pure joy, throwing arms around Aslan's neck in celebration
+  scene:
+    mainElements: Great grey stone slab supported on four upright stones, covered with strange lines and letters in unknown
+      language representing Deep Magic
+    details: Stone Table cracked completely in two with jagged split down middle, ancient stone broken by Deeper Magic, Aslan's
+      body vanished from where it lay, sunrise light streaming across hilltop transforming scene from death to life, broken
+      ropes scattered around cracked table, no sign of evil creatures, morning birds beginning to sing
+    background: Barren hilltop now touched by golden dawn light, landscape beginning to show signs of renewed life
+    atmosphere: Triumph of life over death, joy replacing sorrow, divine power conquering ancient law, warmth of sunrise replacing
+      cold of night, no text or letters visible
+  composition:
+    cameraAngle: Wide shot showing broken Stone Table and glorious resurrection scene
+    focus: Aslan alive and magnificent, girls' joyful reunion with their beloved lion king
+    depth: Joyful reunion in foreground, broken Stone Table in middle ground, dawn landscape in background
+visualElements:
+  colorPalette:
+    primary:
+    - bright red
+    - vivid blue
+    - sunny yellow
+    secondary:
+    - grass green
+    - purple
+    - orange
+    background: simple flat colors or patterns
+    usageNotes: Intense, saturated colors used intuitively
+    saturation: very high (bold, pure colors)
+    contrast: high (bright colors against each other)
+  lineArt:
+    style: simple, direct outlines
+    weight: consistent, moderate thickness
+    color: dark outlines or color boundaries
+    texture: hand-drawn quality, slight irregularities
+    edgeTreatment: simple, clean edges
+  lighting:
+    type: flat, even lighting (no sophisticated shading)
+    direction: front-lit, minimal shadows
+    intensity: bright, cheerful
+    shadows:
+      style: simple, flat shadows if any
+      color: darker version of base color
+      opacity: solid
+    highlights: minimal, simple bright spots
+  rendering:
+    technique: direct, intuitive application
+    texture: flat colors with simple patterns
+    detailLevel: high in some areas (obsessive detail), simple in others
+    finish: flat, matte appearance
+  perspective: flattened or incorrect perspective, childlike spatial relationships
+  mood:
+    overall: cheerful, innocent, direct
+    emotion: joy, simplicity, honesty
+    tempo: peaceful, content
+    keywords:
+    - cheerful
+    - innocent
+    - direct
+    - honest
+    - joyful
+  stylePrecedents:
+  - Henri Rousseau jungle paintings
+  - Grandma Moses rural scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

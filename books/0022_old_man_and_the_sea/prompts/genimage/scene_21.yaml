@@ -1,0 +1,96 @@
+sceneDescription:
+  setting:
+    time: September 1950, dawn, 5:30 AM, sun rising after three days at sea
+    location: Small stone harbor with wooden docks extending into protected bay where Cojímar River meets ocean
+    weather: Clear morning after long ordeal, gentle harbor breeze, calm water
+  characters:
+  - appearance: Old man over 70 years, thin and gaunt but with strong sinewy arms, height average for elderly Cuban fisherman,
+      weathered dark skin with deep wrinkles on neck and face, brown spots of benign skin cancer on cheeks, hands covered
+      with deep old healed scars from fishing lines
+    clothing: Worn patched shirt faded by sun and salt, old threadbare trousers, often barefoot, straw hat when at sea for
+      sun protection
+    position: Slumped exhausted in boat stern
+    action: Slowly rowing toward harbor with last reserves of strength, utterly spent from ordeal
+  scene:
+    mainElements: Stone and concrete quays weathered by decades of salt spray, colorful small fishing boats called skiffs
+      moored to bollards, fish house building where catches are processed, scattered fishing nets and equipment
+    details: Small wooden boat approximately 16 feet long, weathered but seaworthy, single mast with patched sail sewn from
+      flour sacks, simple wooden oars, no motor, painted hull faded from years of sun and salt. Massive fish skeleton over
+      18 feet long, white vertebrae and ribs picked completely clean by sharks, great head with intact sword-like bill, tail
+      fin still attached, lashed to side of small fishing boat extending far beyond boat length, morning sun creating dramatic
+      shadows of skeleton against harbor stones
+    background: Harbor peaceful in early morning light, village still mostly sleeping, other fishing boats secured and empty,
+      sunrise painting sky soft colors
+    atmosphere: Exhausted return after epic struggle, skeletal trophy bearing witness to extraordinary battle, mixture of
+      triumph and loss, dignity in defeat, no text or letters visible
+  composition:
+    cameraAngle: Wide shot showing boat and skeleton approaching harbor
+    focus: Dramatic contrast between small boat and enormous fish skeleton
+    depth: Foreground shows harbor dock details, middle ground captures returning boat with trophy, background reveals peaceful
+      morning village
+visualElements:
+  colorPalette:
+    primary:
+    - '#2B2B2B'
+    - '#4A4A4A'
+    - '#6B6B6B'
+    - '#8C8C8C'
+    - '#ADADAD'
+    - '#CECECE'
+    - '#F0F0F0'
+    secondary:
+    - '#FFFFFF'
+    - '#1A1A1A'
+    background: white or off-white paper
+    usageNotes: Monochromatic grayscale only. Use varying shades for depth
+    saturation: none
+    contrast: medium to high
+  lineArt:
+    style: organic, hand-drawn
+    weight: variable (0.5-3px)
+    color: grayscale
+    texture: rough, sketchy with visible breaks
+    edgeTreatment: natural variations, multiple overlapping strokes
+  lighting:
+    type: traditional shading
+    direction: typically top-left
+    intensity: varies with pressure
+    shadows:
+      style: crosshatching and scribbling
+      color: darker graphite tones
+      opacity: built up through layering
+    highlights: paper showing through or eraser marks
+  rendering:
+    technique: traditional pencil on paper
+    texture: visible paper grain and tooth
+    detailLevel: varies from loose to highly detailed
+    finish: intentionally incomplete with visible process
+  perspective: traditional drawing perspectives
+  mood:
+    overall: artistic, unfinished, spontaneous
+    emotion: raw, authentic, contemplative
+    tempo: calm, thoughtful
+    keywords:
+    - artistic
+    - raw
+    - authentic
+    - traditional
+    - sketchy
+  postProcessing:
+    effects:
+    - paper texture
+    - graphite smudging
+    filters: none
+    adjustments:
+      saturation: '0'
+      contrast: natural pencil contrast
+  stylePrecedents:
+  - Leonardo da Vinci sketches
+  - Academic drawing studies
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

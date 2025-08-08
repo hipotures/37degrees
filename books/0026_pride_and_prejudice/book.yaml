@@ -1,6 +1,7 @@
 book_info:
-  title: "Duma i uprzedzenie"
+  title: "Pride and Prejudice"
+  title_pl: "Duma i uprzedzenie"
   author: "Jane Austen"
   year: 1813
-  genre: "Romans"
-  reading_time: "10-12 godzin"
+  genre: "Romance"
+  reading_time: "10-12 hours"

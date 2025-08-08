@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Chestnut Tree Café Eternal Routine"
+  setting:
+    time: "1984, routine evening, dim artificial lighting mixed with harsh telescreen glow"
+    location: "Chestnut Tree Café, shabby establishment frequented by rehabilitated former dissidents"
+    weather: "Stuffy interior with stale air and lingering odors"
+  characters:
+    - appearance: "Man, 39 years old, dramatically changed from torture - now corpulent and flabby with red unhealthy skin, balding head, completely different from his former thin frame, empty eyes showing spiritual death"
+      clothing: "Clean blue Party overalls (newly issued), fresh but lifeless"
+      position: "Sitting alone at small table in corner, hunched over chessboard"
+      action: "Playing chess against himself with mechanical precision while sipping Victory Gin, showing complete emotional deadness and routine addiction"
+  scene:
+    mainElements: "Shabby café with worn tables and chairs, chessboard with pieces arranged in ongoing game, glass of colorless Victory Gin with oily taste, telescreen mounted on wall broadcasting Party news, other solitary figures at distant tables avoiding eye contact"
+    details: "Spiritual purgatory disguised as normal social space. Winston's bloated form fills chair where he spends empty hours. The chessboard represents meaningless mental activity replacing genuine thought. Victory Gin provides chemical comfort for destroyed soul. Telescreen dominates space with constant Party messaging. Other rehabilitated dissidents sit alone, avoiding connection or recognition. The shabby café serves as waiting room for living dead. His mechanical chess moves mirror his mechanized consciousness. No genuine human activity occurs here. No text or letters visible on chess pieces or anywhere else."
+    background: "Other tables with solitary figures hunched over drinks, telescreen dominating wall with Party broadcasts, worn café furniture"
+    atmosphere: "Spiritual death disguised as leisure activity, mechanical existence replacing authentic life, artificial routine filling empty consciousness"
+  composition:
+    cameraAngle: "Medium shot showing Winston alone at table with chessboard and drink"
+    focus: "Winston's empty concentration on meaningless chess game"
+    depth: "Foreground Winston and chessboard, middle ground Victory Gin glass, background telescreen and other isolated café patrons"

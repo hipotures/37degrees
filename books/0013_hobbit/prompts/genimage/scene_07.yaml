@@ -1,0 +1,94 @@
+sceneDescription:
+  setting:
+    time: Third Age, deep evening
+    location: Interior of comfortable hobbit-hole in English countryside Shire, round green door leading to circular hallway
+    weather: Cool night air entering through slightly opened windows
+  characters:
+  - appearance: Twelve dwarves of various ages, all bearded, stocky builds, ranging from young adult to elderly, different
+      colored beards and hair
+    clothing: Colorful wool tunics in deep reds, blues, and greens, leather belts and boots, chainmail armor beneath tunics,
+      traveling packs
+    position: Arranged in semicircle around fireplace, some seated on floor, others in chairs, creating intimate musical circle
+    action: Playing various instruments including fiddles, flutes, and small drums, singing in deep harmonious voices, swaying
+      to rhythm
+  - appearance: Middle-aged hobbit, late 40s, curly brown hair, round cheerful face, short stature, slightly portly build,
+      bright hazel eyes
+    clothing: Forest green velvet waistcoat, cream-colored linen shirt with brass buttons, brown woolen breeches, yellow silk
+      handkerchief in waistcoat pocket
+    position: Seated in his favorite armchair slightly apart from musical circle
+    action: Listening with growing emotion, leaning forward with hands clasped, eyes reflecting firelight, occasionally dabbing
+      at eyes with yellow handkerchief
+  - appearance: Tall elderly wizard, long grey beard reaching his belt, sharp grey eyes beneath bushy grey eyebrows, weathered
+      face, ancient appearance
+    clothing: Long grey robes with wide sleeves, tall pointed grey hat, worn brown leather boots, leather belt with small
+      pouches
+    position: Standing in shadows beyond firelight, leaning on staff
+    action: Observing hobbit's reaction to music, nodding knowingly, smoke from pipe creating ethereal patterns in air
+  scene:
+    mainElements: Warm golden light from crackling fireplace casting dancing shadows on curved walls, musical instruments
+      glinting in firelight
+    details: Circular fireplace with bright orange flames, carved wooden mantelpiece, brass andirons supporting burning logs,
+      various musical instruments including polished fiddles with curved scrolls, wooden flutes with finger holes, small hand
+      drums with stretched leather heads, comfortable floral-patterned armchairs, circular windows showing starlit darkness
+      outside
+    background: Curved hallway disappearing into shadows, other rooms dark and quiet, entrance hall with hanging cloaks
+    atmosphere: Enchanting musical performance, firelight creating magical ambiance, ancient melodies stirring deep emotions,
+      comfort zone beginning to crack under influence of adventure's call, no text or letters visible
+  composition:
+    cameraAngle: Medium shot capturing musical circle with hobbit as emotional focus
+    focus: Bilbo's emotional response to dwarven music and tales of lost homeland
+    depth: Musical dwarves in foreground, Bilbo in chair in middle ground, Gandalf in shadows in background
+visualElements:
+  colorPalette:
+    primary:
+    - warm pastels
+    - soft earth tones
+    - gentle blues and greens
+    secondary:
+    - bright accent colors for details
+    background: soft washes or textured paper
+    usageNotes: Harmonious colors that feel safe and inviting
+    saturation: medium, slightly muted
+    contrast: gentle, no harsh transitions
+  lineArt:
+    style: soft, organic lines
+    weight: varied, hand-drawn quality
+    color: brown or dark color, not pure black
+    texture: slightly rough, pencil-like
+    edgeTreatment: gentle, rounded forms
+  lighting:
+    type: warm, comforting
+    direction: soft overall illumination
+    intensity: gentle
+    shadows:
+      style: soft, minimal
+      color: warm grays or purples
+      opacity: light
+    highlights: subtle warmth
+  rendering:
+    technique: mixed media appearance
+    texture: visible paper texture, soft brushwork
+    detailLevel: simplified but expressive
+    finish: matte with gentle textures
+  perspective: slightly naive, not perfectly accurate
+  mood:
+    overall: warm, inviting, magical
+    emotion: wonder, safety, adventure
+    tempo: gentle, dreamlike
+    keywords:
+    - whimsical
+    - magical
+    - comforting
+    - imaginative
+    - nostalgic
+  stylePrecedents:
+  - Quentin Blake
+  - Maurice Sendak
+  - Beatrix Potter
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

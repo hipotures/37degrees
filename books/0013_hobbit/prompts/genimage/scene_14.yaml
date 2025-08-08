@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: Third Age, unknown time underground
+    location: Dark underground cavern with black pool, deep beneath Misty Mountains
+    weather: Cold damp air, complete darkness except for eerie glow from water
+  characters:
+  - appearance: Thin emaciated creature, pale greyish skin, large bulging green eyes, completely bald head, skeletal frame,
+      unnaturally long fingers
+    clothing: Tattered dark loincloth, no other garments, bare feet with long pale toes
+    position: Crouched low on rocky ledge beside dark underground pool, hunched forward defensively
+    action: Clutching at empty fingers searching for missing ring, muttering softly to himself, eyes darting nervously, rocking
+      back and forth
+  - appearance: Middle-aged hobbit, late 40s, curly brown hair, round cheerful face, short stature, slightly portly build,
+      bright hazel eyes
+    clothing: Forest green velvet waistcoat, cream-colored linen shirt with brass buttons, brown woolen breeches, yellow silk
+      handkerchief in waistcoat pocket, now disheveled and dirty
+    position: Seated on stone several feet away from creature, leaning forward tensely
+    action: Speaking carefully while thinking hard about riddles, occasionally adjusting waistcoat buttons nervously, one
+      hand unconsciously touching waistcoat pocket
+  scene:
+    mainElements: Dark underground pool with black water reflecting eerie phosphorescent glow, rocky cavern walls, two figures
+      separated by several feet of stone
+    details: Still black water in natural stone basin, phosphorescent algae or minerals creating dim greenish glow from pool
+      surface, wet rocky ledges around water's edge, stalactites hanging from cavern ceiling, scattered fish bones and small
+      debris around creature's perch, uneven stone floor worn smooth in places, water dripping occasionally into pool creating
+      ripples
+    background: Dark cavern walls disappearing into blackness, tunnel openings leading to unknown passages, vast underground
+      space suggested by echoing sounds
+    atmosphere: Tense psychological battle of wits, eerie supernatural glow casting strange shadows, isolation deep underground,
+      growing suspense of riddle contest, ancient evil presence, no text or letters visible
+  composition:
+    cameraAngle: Medium shot showing both characters with glowing pool between them
+    focus: Psychological tension between hobbit and creature across dark water
+    depth: Gollum on ledge in foreground, dark pool in middle ground, Bilbo on opposite rocks in background
+visualElements:
+  colorPalette:
+    primary:
+    - warm pastels
+    - soft earth tones
+    - gentle blues and greens
+    secondary:
+    - bright accent colors for details
+    background: soft washes or textured paper
+    usageNotes: Harmonious colors that feel safe and inviting
+    saturation: medium, slightly muted
+    contrast: gentle, no harsh transitions
+  lineArt:
+    style: soft, organic lines
+    weight: varied, hand-drawn quality
+    color: brown or dark color, not pure black
+    texture: slightly rough, pencil-like
+    edgeTreatment: gentle, rounded forms
+  lighting:
+    type: warm, comforting
+    direction: soft overall illumination
+    intensity: gentle
+    shadows:
+      style: soft, minimal
+      color: warm grays or purples
+      opacity: light
+    highlights: subtle warmth
+  rendering:
+    technique: mixed media appearance
+    texture: visible paper texture, soft brushwork
+    detailLevel: simplified but expressive
+    finish: matte with gentle textures
+  perspective: slightly naive, not perfectly accurate
+  mood:
+    overall: warm, inviting, magical
+    emotion: wonder, safety, adventure
+    tempo: gentle, dreamlike
+    keywords:
+    - whimsical
+    - magical
+    - comforting
+    - imaginative
+    - nostalgic
+  stylePrecedents:
+  - Quentin Blake
+  - Maurice Sendak
+  - Beatrix Potter
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

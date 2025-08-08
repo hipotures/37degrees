@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Blazing Courtyard at Solar Zenith"  
+  setting:
+    time: "1811, high noon, 12:30 PM, sun directly overhead creating minimal shadows"
+    location: "Central courtyard of Soplicowo manor, stone and earth surface radiating accumulated heat"
+    weather: "Peak summer heat with blazing sunshine, no breeze, temperature reaching daily maximum"
+  characters:
+    - appearance: "Elderly Jewish man, wise weathered face showing intelligence and kindness, beard, expressive eyes reflecting years of experience and observation"
+      clothing: "Traditional Jewish long black coat (opona), yarmulke, simple but dignified attire of respected innkeeper and merchant"
+      position: "Hurrying across courtyard seeking shade, one hand shielding eyes from glaring sun"
+      action: "Moving quickly to avoid prolonged exposure to blazing heat, squinting against brilliant reflected light from white manor walls"
+  scene:
+    mainElements: "White-painted wooden walls of manor reflecting harsh sunlight like mirrors, courtyard stones and earth baked hard as ceramic, minimal shadows directly beneath objects, heat waves distorting air"
+    details: "Blindingly bright reflection from whitewashed walls forcing squinted eyes, shadows compressed to tiny pools directly under fence posts and equipment, dust seemingly suspended in superheated air, chickens hiding under any available shelter with beaks open, water trough nearly empty with flies clustered around edges, metal tools too hot to touch abandoned in shade"
+    background: "Surrounding buildings creating furnace-like courtyard trap, birch trees with leaves hanging limp and motionless, distant fields shimmering in heat haze"
+    atmosphere: "Overwhelming solar intensity making movement urgent, harsh beauty of summer at its peak, everything seeking minimal available shade, metallic taste of superheated air, no text or letters visible"
+  composition:
+    cameraAngle: "High angle showing courtyard as sun-blasted arena"
+    focus: "Figure hurrying across blazing courtyard with intense light and shadow contrasts"
+    depth: "Foreground shows heat-distorted air and baked earth, middle ground captures hurrying figure in harsh light, background reveals heat-stressed manor buildings"

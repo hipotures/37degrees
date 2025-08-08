@@ -1,0 +1,32 @@
+sceneDescription:
+  title: "Return Through the Wardrobe"
+  setting:
+    time: "1940, precisely the same moment they left England"
+    location: "Nearly empty room in Professor's house containing only large wooden wardrobe"
+    weather: "Same rain still pattering against windows as when they left"
+  characters:
+    - appearance: "Boy, 13 years old, tall and well-built for his age, natural leadership bearing, fair-haired English youth, noble and serious facial features"
+      clothing: "Brown wool vest over white linen shirt, knee-length dark breeches, long socks, sturdy leather shoes, school sweater"
+      position: "Tumbling out of wardrobe in confusion, back in ordinary clothes"
+      action: "Looking around in amazement, trying to understand the time paradox"
+    - appearance: "Girl, 12 years old, graceful and poised, long straight black hair, the pretty one of the family, mature bearing, gentle facial features"
+      clothing: "Simple wool dress in muted blue-grey, practical school cardigan, dark stockings, sensible shoes"
+      position: "Standing beside wardrobe, touching familiar wool dress with wonder"
+      action: "Checking her reflection in wardrobe mirror, confirming return to childhood"
+    - appearance: "Boy, 10 years old, smaller build than Peter, dark hair, initially sullen and spiteful expression, later shows repentance and courage"
+      clothing: "School shorts, white shirt, grey wool pullover, long socks, black school shoes"
+      position: "Sitting on floor looking dazed by transition"
+      action: "Transformed by his experiences, no longer sullen but thoughtful and kind"
+    - appearance: "Girl, 8 years old, small and delicate, bright golden curly hair, merry and trusting expression, radiant and honest face"
+      clothing: "Simple blue wool dress with white collar, wool tights, small leather shoes, child's cardigan"
+      position: "Standing at wardrobe entrance, looking back longingly"
+      action: "Hoping to return to Narnia immediately, disappointed by ordinary reality"
+  scene:
+    mainElements: "Large old-fashioned wooden wardrobe with mirror in doors, completely ordinary appearance from outside, interior filled with rows of heavy fur coats smelling of mothballs, back opens magically into Narnia"
+    details: "Wardrobe appearing completely ordinary again, fur coats hanging normally without any trace of magical passage, afternoon light exactly the same as when they entered, no time elapsed in real world despite years in Narnia, children's faces showing mixture of disorientation and profound change, their innocence replaced by wisdom of true kings and queens"
+    background: "Empty room unchanged, sound of rain continuing against windows, corridor beyond doorway exactly as before"
+    atmosphere: "Bittersweet return to ordinary reality, children forever changed by extraordinary experiences, magic hidden again behind mundane appearance, knowledge that Narnia remains waiting, no text or letters visible"
+  composition:
+    cameraAngle: "Medium group shot showing four children back in ordinary world"
+    focus: "Four siblings dealing with transition from rulers back to children, wardrobe hiding its secret"
+    depth: "Children in foreground adjusting to return, wardrobe in middle ground appearing innocent, unchanged room in background"

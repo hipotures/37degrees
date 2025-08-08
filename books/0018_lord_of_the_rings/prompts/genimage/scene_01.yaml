@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: Third Age of Middle-earth, late morning in early autumn
+    location: Hobbiton district of the Shire, rolling green countryside in northwest Middle-earth, peaceful agricultural region
+      of hobbits
+    weather: Golden sunlight streaming through clear autumn air, gentle breeze stirring leaves
+  characters: []
+  scene:
+    mainElements: Round hobbit-hole doors built into hillsides, gardens with vegetables and flowers, stone bridges over clear
+      streams, mill wheels, country lanes
+    details: Perfectly round green and yellow doors set into grassy hillsides with brass handles gleaming in sunlight, neat
+      gardens overflowing with beans, carrots, and late summer flowers, old stone mill wheel slowly turning beside babbling
+      brook, winding dirt lanes bordered by hedgerows heavy with blackberries, smoke curling from chimney holes built into
+      hills, no text or letters visible
+    background: Rolling green hills stretching to distant horizon, scattered hobbit holes dotting the landscape, windmill
+      turning lazily on far hill
+    atmosphere: Peaceful pastoral setting, golden sunlight through green leaves, smoke from chimney holes in hills, smell
+      of fresh bread and pipe tobacco
+  composition:
+    cameraAngle: Wide establishing shot from elevated position overlooking the village
+    focus: The harmonious blend of nature and hobbit dwellings creating idyllic countryside
+    depth: Foreground shows detailed hobbit hole with garden, middle ground reveals village lanes and bridge, background shows
+      rolling hills fading into misty distance
+visualElements:
+  colorPalette:
+    primary:
+    - rich fantasy colors
+    - jewel tones
+    secondary:
+    - atmospheric colors
+    - magical glows
+    background: atmospheric, often dark or misty
+    usageNotes: Rich, layered colors with magical atmosphere
+    saturation: medium to high
+    contrast: medium to high
+  lineArt:
+    style: painterly, loose
+    weight: varied, often hidden
+    color: integrated into painting
+    texture: organic brushstrokes
+    edgeTreatment: soft, painterly edges
+  lighting:
+    type: dramatic, magical
+    direction: varied for atmosphere
+    intensity: high contrast areas
+    shadows:
+      style: painted, atmospheric
+      color: cool or warm depending on scene
+      opacity: varied
+    highlights: magical glows, rim lighting
+  rendering:
+    technique: digital painting with textured brushes
+    texture: dry media brush texture
+    detailLevel: moderate to high
+    finish: glazed, painterly
+  perspective: cinematic, dynamic
+  mood:
+    overall: mythological, otherworldly, epic
+    emotion: wonder, mystery, adventure
+    tempo: varies from calm to dramatic
+    keywords:
+    - epic
+    - mystical
+    - otherworldly
+    - fantasy
+    - mythological
+  stylePrecedents:
+  - Craig Mullins digital concept art
+  - Frank Frazetta fantasy paintings
+  - Boris Vallejo fantasy illustrations
+  - Magic: The Gathering card art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

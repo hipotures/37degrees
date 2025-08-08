@@ -1,0 +1,100 @@
+sceneDescription:
+  setting:
+    time: September 1950, early morning, 6:00 AM, full sunrise beginning
+    location: Small stone harbor with wooden docks extending into protected bay where Cojímar River meets ocean
+    weather: Clear calm morning, light breeze from east, humidity beginning to rise
+  characters:
+  - appearance: Old man over 70 years, thin and gaunt but with strong sinewy arms, height average for elderly Cuban fisherman,
+      weathered dark skin with deep wrinkles on neck and face, brown spots of benign skin cancer on cheeks, hands covered
+      with deep old healed scars from fishing lines
+    clothing: Worn patched shirt faded by sun and salt, old threadbare trousers, often barefoot, straw hat when at sea for
+      sun protection
+    position: Kneeling beside small fishing boat at water's edge
+    action: Arranging fishing equipment with practiced precision, checking lines and hooks in growing light
+  - appearance: Young Cuban boy around 14-16 years old, lean athletic build from fishing work, average height for adolescent,
+      tanned olive skin, dark brown hair, warm brown eyes showing loyalty and concern
+    clothing: Simple work clothes, cotton shirt and trousers suitable for fishing village, sturdy sandals
+    position: Standing on dock holding wooden box of fresh sardines
+    action: Preparing bait and supplies, watching Santiago work with respectful attention
+  scene:
+    mainElements: Stone and concrete quays weathered by decades of salt spray, colorful small fishing boats called skiffs
+      moored to bollards, fish house building where catches are processed, scattered fishing nets and equipment
+    details: Rose and gold light reflecting off calm harbor water, wooden hulls of moored boats gleaming wet with dew, coiled
+      ropes and fishing nets creating intricate patterns on dock planks, single pelican perched on piling watching activities
+      below, gentle lapping of small waves against stone seawall, fresh sardines silver and blue in morning light, scent of
+      tar and salt wood mixing with ocean air
+    background: Harbor opening to vast ocean beyond breakwater, sky deepening from pink to blue as sun climbs higher, fort
+      casting sharp shadow across eastern section of harbor
+    atmosphere: Quiet industry of preparation, sense of ritual and routine developed over decades, cool morning air beginning
+      to warm, anticipation of day's work ahead, no text or letters visible
+  composition:
+    cameraAngle: Low angle from water level looking across dock activities
+    focus: Interaction between old man and boy preparing for sea journey
+    depth: Foreground shows water reflections and boat details, middle ground captures dock activity, background reveals harbor
+      entrance and open ocean
+visualElements:
+  colorPalette:
+    primary:
+    - '#2B2B2B'
+    - '#4A4A4A'
+    - '#6B6B6B'
+    - '#8C8C8C'
+    - '#ADADAD'
+    - '#CECECE'
+    - '#F0F0F0'
+    secondary:
+    - '#FFFFFF'
+    - '#1A1A1A'
+    background: white or off-white paper
+    usageNotes: Monochromatic grayscale only. Use varying shades for depth
+    saturation: none
+    contrast: medium to high
+  lineArt:
+    style: organic, hand-drawn
+    weight: variable (0.5-3px)
+    color: grayscale
+    texture: rough, sketchy with visible breaks
+    edgeTreatment: natural variations, multiple overlapping strokes
+  lighting:
+    type: traditional shading
+    direction: typically top-left
+    intensity: varies with pressure
+    shadows:
+      style: crosshatching and scribbling
+      color: darker graphite tones
+      opacity: built up through layering
+    highlights: paper showing through or eraser marks
+  rendering:
+    technique: traditional pencil on paper
+    texture: visible paper grain and tooth
+    detailLevel: varies from loose to highly detailed
+    finish: intentionally incomplete with visible process
+  perspective: traditional drawing perspectives
+  mood:
+    overall: artistic, unfinished, spontaneous
+    emotion: raw, authentic, contemplative
+    tempo: calm, thoughtful
+    keywords:
+    - artistic
+    - raw
+    - authentic
+    - traditional
+    - sketchy
+  postProcessing:
+    effects:
+    - paper texture
+    - graphite smudging
+    filters: none
+    adjustments:
+      saturation: '0'
+      contrast: natural pencil contrast
+  stylePrecedents:
+  - Leonardo da Vinci sketches
+  - Academic drawing studies
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

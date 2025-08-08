@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: 1840s Paris, late afternoon with golden light
+    location: Grand opera house interior in 1840s Paris, multiple tiers of elegant private boxes with red velvet curtains
+    weather: Beautiful clear evening with warm golden sunlight streaming through windows
+  characters:
+  - appearance: Young man, mid-twenties, dark brown hair combed back in 1840s style, clean-shaven face with strong jawline,
+      tall athletic build, intense brown eyes, pale skin
+    clothing: Black formal evening tailcoat, white dress shirt with high starched collar, white silk bow tie, black wool trousers
+      with satin stripe, black leather dress shoes
+    position: Seated quietly in opera box, posture relaxed but reverent, hands resting peacefully in lap
+    action: Listening to music with deep appreciation, eyes reflecting mature sadness mixed with acceptance
+  - appearance: Middle-aged man, early fifties, graying dark hair receding at temples, well-groomed sideburns, stern weathered
+      face with deep lines, stocky build, sharp blue eyes
+    clothing: Dark navy formal frock coat, black wool waistcoat, white dress shirt, black silk cravat, gold pocket watch chain
+      visible, black wool trousers, black leather boots
+    position: Sitting beside his son with protective but not overbearing presence, hands clasped gently
+    action: Occasionally glancing at his son with paternal concern, but allowing him to grieve in his own way
+  scene:
+    mainElements: Ornate golden balcony railings with intricate scrollwork, red plush seating, elaborate architectural details,
+      massive crystal chandelier illuminating the space
+    details: Fresh white camellia flowers arranged in small bouquet placed carefully on empty chair beside them, pristine
+      ivory-white petals with waxy texture glowing in golden theater light, dark green glossy leaves, white silk ribbon. Chair
+      representing honored memory rather than painful absence. Opera program held with gentle reverence rather than crushing
+      desperation. Golden afternoon light creating warm atmosphere instead of harsh shadows. No text or letters visible
+    background: Opera performance continuing with beauty and dignity, other audience members showing quiet respect for the
+      grieving pair
+    atmosphere: Aristocratic splendor and social display, brilliant gaslight reflecting off jewelry and silk gowns, buzz of
+      fashionable society
+  composition:
+    cameraAngle: Gentle medium shot emphasizing the peaceful new dynamic between father and son
+    focus: Two figures sharing quiet communion in memory rather than conflict over possession
+    depth: Foreground shows memorial camellias on empty chair, middle ground captures the peaceful pair, background displays
+      ongoing opera performance with golden light
+visualElements:
+  colorPalette:
+    primary:
+    - muted golds
+    - deep greens
+    - burgundy
+    - peacock blue
+    secondary:
+    - ivory
+    - dusty rose
+    - sage green
+    background: aged paper or decorative patterns
+    usageNotes: Rich but muted tones with metallic accents
+    saturation: medium, sophisticated
+    contrast: elegant, balanced
+  lineArt:
+    style: flowing, sinuous curves
+    weight: varied, decorative
+    color: dark brown or black with gold accents
+    texture: smooth, refined
+    edgeTreatment: organic, plant-like curves
+  lighting:
+    type: decorative, non-realistic
+    direction: integrated into design
+    intensity: balanced throughout
+    shadows:
+      style: decorative, part of pattern
+      color: deeper tones of base colors
+      opacity: integrated
+    highlights: gold leaf effects
+  rendering:
+    technique: decorative illustration
+    texture: smooth with ornamental details
+    detailLevel: high in decoration, simplified figures
+    finish: refined, poster-like
+  perspective: flattened, decorative
+  mood:
+    overall: elegant, romantic, sophisticated
+    emotion: beauty, refinement, nostalgia
+    tempo: flowing, graceful
+    keywords:
+    - elegant
+    - decorative
+    - romantic
+    - ornate
+    - sophisticated
+  stylePrecedents:
+  - Alphonse Mucha
+  - Gustav Klimt
+  - Aubrey Beardsley
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

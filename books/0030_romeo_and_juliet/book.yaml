@@ -1,6 +1,7 @@
 book_info:
-  title: "Romeo i Julia"
+  title: "Romeo and Juliet"
+  title_pl: "Romeo i Julia"
   author: "William Shakespeare"
   year: 1597
-  genre: "Tragedia romantyczna"
-  reading_time: "3-4 godziny"
+  genre: "Romantic tragedy"
+  reading_time: "3-4 hours"

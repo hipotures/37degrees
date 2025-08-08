@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "First Raindrops on Dusty Water"
+  setting:
+    time: "September 1950, late afternoon, 3:30 PM, storm arriving"
+    location: "Deep blue waters of Gulf Stream current flowing northwest along Cuban coast, far from sight of land in all directions"
+    weather: "First raindrops beginning, wind gusting, temperature dropping"
+  characters:
+    - appearance: "Old man over 70 years, thin and gaunt but with strong sinewy arms, height average for elderly Cuban fisherman, weathered dark skin with deep wrinkles on neck and face, brown spots of benign skin cancer on cheeks, hands covered with deep old healed scars from fishing lines"
+      clothing: "Worn patched shirt faded by sun and salt, old threadbare trousers, often barefoot, straw hat when at sea for sun protection"
+      position: "Securing equipment in boat as wind increases"
+      action: "Feeling first large raindrops on skin, preparing for downpour, reeling in fishing lines"
+  scene:
+    mainElements: "Endless expanse of deep blue to purple ocean water, horizon line meeting azure sky, no visible land or other vessels, surface occasionally broken by flying fish or dolphins"
+    details: "Large isolated raindrops creating perfect circles on water surface, each drop creating expanding ring pattern, wind causing boat to rock more vigorously, sail beginning to flutter and snap, loose equipment rattling in boat bottom, air suddenly cooler and fresher, scent of rain mixing with salt spray, fishing lines pulled tight by increasing current, water color darkening under cloud cover"
+    background: "Sky now half covered by towering gray clouds, clear blue still visible to west but being overtaken rapidly, lightning becoming more frequent in approaching storm cell"
+    atmosphere: "Electric anticipation of nature's transformation, cooling relief from heat beginning, sense of weather's awesome power about to be unleashed, no text or letters visible"
+  composition:
+    cameraAngle: "Close shot capturing first raindrops hitting water"
+    focus: "Individual raindrops creating circular patterns on ocean surface"
+    depth: "Foreground shows detailed water drop impacts, middle ground captures boat preparation, background dominated by advancing storm wall"

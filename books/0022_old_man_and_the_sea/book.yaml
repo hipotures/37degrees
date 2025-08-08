@@ -1,6 +1,7 @@
 book_info:
-  title: "Stary człowiek i morze"
+  title: "The Old Man and the Sea"
+  title_pl: "Stary człowiek i morze"
   author: "Ernest Hemingway"
   year: 1952
-  genre: "Nowela"
-  reading_time: "2-3 godziny"
+  genre: "Novella"
+  reading_time: "2-3 hours"

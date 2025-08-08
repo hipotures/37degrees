@@ -1,0 +1,94 @@
+sceneDescription:
+  setting:
+    time: Deep night in Narnia, cold moonlight and darkness
+    location: Ancient sacrificial altar on top of barren hill in Narnia, open to sky
+    weather: Clear cold night, harsh moonlight casting stark shadows
+  characters:
+  - appearance: Enormous male lion, much larger than ordinary lions, magnificent golden mane that catches and reflects light,
+      great solemn royal eyes that are overwhelming to look upon, noble and majestic bearing
+    clothing: None - natural lion
+    position: Bound with ropes on the Stone Table, stripped of his mane
+    action: Lying still with divine dignity despite humiliation, accepting sacrifice willingly
+  - appearance: Very tall woman, beautiful but cold and stern, skin white as paper or sugar powder, very red lips, inhuman
+      descendant of giants and djinn, regal but cruel bearing
+    clothing: Long white fur robes and cape, golden crown upon her head, white boots
+    position: Standing triumphantly over bound Aslan, holding stone knife high
+    action: Preparing to deliver killing blow with primitive ritual knife, face showing cruel victory
+  - appearance: Girl, 12 years old, graceful and poised, long straight black hair, the pretty one of the family, mature bearing,
+      gentle facial features
+    clothing: Simple wool dress in muted blue-grey, practical school cardigan, dark stockings, sensible shoes
+    position: Hidden behind large stone, watching in horror
+    action: Witnessing terrible sacrifice with tears streaming, holding Lucy close
+  - appearance: Girl, 8 years old, small and delicate, bright golden curly hair, merry and trusting expression, radiant and
+      honest face
+    clothing: Simple blue wool dress with white collar, wool tights, small leather shoes, child's cardigan
+    position: Beside Susan, partially hidden but unable to look away
+    action: Crying silently for her beloved Aslan, watching his willing sacrifice
+  scene:
+    mainElements: Great grey stone slab supported on four upright stones, covered with strange lines and letters in unknown
+      language representing Deep Magic
+    details: Primitive ritual knife made of stone, obsidian or flint, ancient implement of sacrifice used by White Witch to
+      kill Aslan on Stone Table according to Deep Magic
+    background: Barren hilltop under starry sky, Stone Table ancient and weathered, no vegetation or life around sacrificial
+      site
+    atmosphere: Solemn place of ancient power, like prehistoric stone circle, place of sacrifice and law, windswept hilltop
+  composition:
+    cameraAngle: Low angle emphasizing the terrible majesty and tragedy of the sacrifice
+    focus: Aslan's willing sacrifice as act of supreme love, White Witch's triumphant cruelty
+    depth: Sacrifice on Stone Table in foreground, hidden girls in middle ground, empty landscape in background, no text or
+      letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - bright red
+    - vivid blue
+    - sunny yellow
+    secondary:
+    - grass green
+    - purple
+    - orange
+    background: simple flat colors or patterns
+    usageNotes: Intense, saturated colors used intuitively
+    saturation: very high (bold, pure colors)
+    contrast: high (bright colors against each other)
+  lineArt:
+    style: simple, direct outlines
+    weight: consistent, moderate thickness
+    color: dark outlines or color boundaries
+    texture: hand-drawn quality, slight irregularities
+    edgeTreatment: simple, clean edges
+  lighting:
+    type: flat, even lighting (no sophisticated shading)
+    direction: front-lit, minimal shadows
+    intensity: bright, cheerful
+    shadows:
+      style: simple, flat shadows if any
+      color: darker version of base color
+      opacity: solid
+    highlights: minimal, simple bright spots
+  rendering:
+    technique: direct, intuitive application
+    texture: flat colors with simple patterns
+    detailLevel: high in some areas (obsessive detail), simple in others
+    finish: flat, matte appearance
+  perspective: flattened or incorrect perspective, childlike spatial relationships
+  mood:
+    overall: cheerful, innocent, direct
+    emotion: joy, simplicity, honesty
+    tempo: peaceful, content
+    keywords:
+    - cheerful
+    - innocent
+    - direct
+    - honest
+    - joyful
+  stylePrecedents:
+  - Henri Rousseau jungle paintings
+  - Grandma Moses rural scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

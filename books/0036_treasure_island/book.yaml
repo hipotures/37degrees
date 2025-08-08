@@ -1,6 +1,7 @@
 book_info:
-  title: "Wyspa skarbów"
+  title: "Treasure Island"
+  title_pl: "Wyspa skarbów"
   author: "Robert Louis Stevenson"
   year: 1883
-  genre: "Przygodowa"
-  reading_time: "8-10 godzin"
+  genre: "Adventure novel"
+  reading_time: "8-10 hours"

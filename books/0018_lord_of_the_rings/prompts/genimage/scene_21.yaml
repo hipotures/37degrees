@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: Third Age of Middle-earth, early morning after coronation in full spring
+    location: Citadel courtyard at highest level of Minas Tirith, sacred space of the White Tree
+    weather: Perfect spring morning with golden sunlight, gentle warmth, light breeze
+  characters: []
+  scene:
+    mainElements: Ancient White Tree of Gondor standing in center of marble courtyard, silver flowers blooming on every branch
+    details: Magnificent tree with silver-grey bark and silver-white leaves shimmering in morning light, countless small white
+      flowers blooming along every branch like stars brought to earth, marble courtyard inlaid with pattern of seven stars
+      and crown, fountain at base of tree with crystal clear water flowing, silver petals fallen on white marble creating
+      carpet of hope, morning sunlight making silver leaves and flowers glow with inner light, birds singing in branches for
+      first time in generations, no text or letters visible
+    background: White stone walls of the citadel with guards' chambers and royal quarters, view over lower levels of city,
+      distant mountains
+    atmosphere: Symbol of hope and renewal after long darkness, scent of tree blossoms mixed with morning air, sound of fountain
+      and singing birds, feeling of new beginnings and restored grace
+  composition:
+    cameraAngle: Medium wide shot focusing on the blooming tree in its marble setting
+    focus: The symbol of restored hope and divine blessing returning to the land
+    depth: Foreground shows marble courtyard with fallen silver petals, middle ground features the blooming White Tree in
+      full glory, background reveals the citadel walls and distant city
+visualElements:
+  colorPalette:
+    primary:
+    - rich fantasy colors
+    - jewel tones
+    secondary:
+    - atmospheric colors
+    - magical glows
+    background: atmospheric, often dark or misty
+    usageNotes: Rich, layered colors with magical atmosphere
+    saturation: medium to high
+    contrast: medium to high
+  lineArt:
+    style: painterly, loose
+    weight: varied, often hidden
+    color: integrated into painting
+    texture: organic brushstrokes
+    edgeTreatment: soft, painterly edges
+  lighting:
+    type: dramatic, magical
+    direction: varied for atmosphere
+    intensity: high contrast areas
+    shadows:
+      style: painted, atmospheric
+      color: cool or warm depending on scene
+      opacity: varied
+    highlights: magical glows, rim lighting
+  rendering:
+    technique: digital painting with textured brushes
+    texture: dry media brush texture
+    detailLevel: moderate to high
+    finish: glazed, painterly
+  perspective: cinematic, dynamic
+  mood:
+    overall: mythological, otherworldly, epic
+    emotion: wonder, mystery, adventure
+    tempo: varies from calm to dramatic
+    keywords:
+    - epic
+    - mystical
+    - otherworldly
+    - fantasy
+    - mythological
+  stylePrecedents:
+  - Craig Mullins digital concept art
+  - Frank Frazetta fantasy paintings
+  - Boris Vallejo fantasy illustrations
+  - Magic: The Gathering card art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

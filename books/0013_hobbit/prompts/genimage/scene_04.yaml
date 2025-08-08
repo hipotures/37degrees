@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: Third Age, afternoon
+    location: Interior of comfortable hobbit-hole in English countryside Shire, round green door leading to circular hallway
+    weather: Warm spring afternoon light through windows
+  characters:
+  - appearance: Tall elderly wizard, long grey beard reaching his belt, sharp grey eyes beneath bushy grey eyebrows, weathered
+      face, ancient appearance
+    clothing: Long grey robes with wide sleeves, tall pointed grey hat, worn brown leather boots, leather belt with small
+      pouches
+    position: Seated uncomfortably in low hobbit armchair, knees nearly to his chest due to height
+    action: Leaning forward intently, gesturing with gnarled wooden staff, smoke rings curling from his long pipe, eyes gleaming
+      with mysterious purpose
+  - appearance: Middle-aged hobbit, late 40s, curly brown hair, round cheerful face, short stature, slightly portly build,
+      bright hazel eyes
+    clothing: Forest green velvet waistcoat, cream-colored linen shirt with brass buttons, brown woolen breeches, yellow silk
+      handkerchief in waistcoat pocket
+    position: Seated across from wizard in matching armchair, leaning back defensively
+    action: Clutching teacup with both hands, shaking head vigorously, adjusting waistcoat buttons nervously, eyes wide with
+      alarm
+  scene:
+    mainElements: Warm golden lamplight, cozy domestic comfort, sheltered from outside world, peaceful sanctuary, round table
+      between chairs with tea service
+    details: Two floral-patterned armchairs facing each other, small round tea table laden with delicate china cups, plate
+      of seed-cakes and honey cakes, silver teapot reflecting firelight, circular fireplace with crackling logs, mantelpiece
+      displaying ceramic ornaments, brass candlesticks with flickering flames, bookshelf with leather-bound volumes
+    background: Circular walls with warm yellow paint, round windows showing garden views, doorways leading to other cozy
+      rooms
+    atmosphere: Intimate conversation space, tension between comfort and adventure, wizard's mysterious energy disrupting
+      hobbit tranquility, flickering shadows dancing on curved walls, no text or letters visible
+  composition:
+    cameraAngle: Medium shot showing both characters in conversation
+    focus: Contrast between eager wizard and reluctant hobbit across tea table
+    depth: Characters and tea table in foreground, fireplace in middle ground, curved hallway in background
+visualElements:
+  colorPalette:
+    primary:
+    - warm pastels
+    - soft earth tones
+    - gentle blues and greens
+    secondary:
+    - bright accent colors for details
+    background: soft washes or textured paper
+    usageNotes: Harmonious colors that feel safe and inviting
+    saturation: medium, slightly muted
+    contrast: gentle, no harsh transitions
+  lineArt:
+    style: soft, organic lines
+    weight: varied, hand-drawn quality
+    color: brown or dark color, not pure black
+    texture: slightly rough, pencil-like
+    edgeTreatment: gentle, rounded forms
+  lighting:
+    type: warm, comforting
+    direction: soft overall illumination
+    intensity: gentle
+    shadows:
+      style: soft, minimal
+      color: warm grays or purples
+      opacity: light
+    highlights: subtle warmth
+  rendering:
+    technique: mixed media appearance
+    texture: visible paper texture, soft brushwork
+    detailLevel: simplified but expressive
+    finish: matte with gentle textures
+  perspective: slightly naive, not perfectly accurate
+  mood:
+    overall: warm, inviting, magical
+    emotion: wonder, safety, adventure
+    tempo: gentle, dreamlike
+    keywords:
+    - whimsical
+    - magical
+    - comforting
+    - imaginative
+    - nostalgic
+  stylePrecedents:
+  - Quentin Blake
+  - Maurice Sendak
+  - Beatrix Potter
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

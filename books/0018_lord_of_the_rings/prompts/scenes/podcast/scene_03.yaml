@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "The Comfort of Bag End"
+  setting:
+    time: "Third Age of Middle-earth, evening with firelight casting warm glow"
+    location: "Interior of Bag End hobbit hole, home of Bilbo and Frodo Baggins, most luxurious dwelling in Hobbiton"
+    weather: "Cozy interior protected from outside elements"
+  characters: []
+  scene:
+    mainElements: "Round wooden door with brass fittings, circular windows, low-beamed ceiling, stone fireplace with crackling fire, comfortable armchairs"
+    details: "Perfectly round front door painted green with brass handle and hinges, circular windows with diamond-paned glass letting in golden light, wooden ceiling beams carved with hobbit craftsmanship, fieldstone fireplace with warm fire crackling, two comfortable armchairs facing the hearth with colorful cushions, wooden table set with teapot and cups, walls lined with shelves holding dishes and curious objects from travels, carpeted floors in rich colors, no text or letters visible"
+    background: "Glimpses through doorways to other round rooms, pantry stocked with provisions, study area with comfortable reading nook"
+    atmosphere: "Warm domestic comfort, smell of tea and baking bread, golden firelight dancing on walls, feeling of safety and home"
+  composition:
+    cameraAngle: "Medium shot from inside the room showing the cozy living space"
+    focus: "The perfect comfort and luxury of hobbit domestic life"
+    depth: "Foreground shows armchairs and tea settings, middle ground features the fireplace as focal point, background reveals doorways to other rooms"

@@ -1,0 +1,96 @@
+sceneDescription:
+  setting:
+    time: Spring morning in Narnia, bright sunshine breaking through clouds
+    location: Great castle of Narnia's rulers built on hill at mouth of Great River where it meets Eastern Sea
+    weather: Warm spring morning, gentle breeze from sea, clear sky
+  characters:
+  - appearance: Boy, 13 years old, tall and well-built for his age, natural leadership bearing, fair-haired English youth,
+      noble and serious facial features
+    clothing: Brown wool vest over white linen shirt, knee-length dark breeches, long socks, sturdy leather shoes, school
+      sweater
+    position: Standing tall as he approaches the magnificent camp
+    action: Leading his sisters with growing confidence, hand instinctively on sword hilt
+  - appearance: Girl, 12 years old, graceful and poised, long straight black hair, the pretty one of the family, mature bearing,
+      gentle facial features
+    clothing: Simple wool dress in muted blue-grey, practical school cardigan, dark stockings, sensible shoes
+    position: Walking beside Peter with growing wonder
+    action: Observing the various Narnian creatures with fascination and respect
+  - appearance: Girl, 8 years old, small and delicate, bright golden curly hair, merry and trusting expression, radiant and
+      honest face
+    clothing: Simple blue wool dress with white collar, wool tights, small leather shoes, child's cardigan
+    position: Between her siblings, eyes bright with anticipation
+    action: Looking eagerly toward center of camp where Aslan waits
+  - appearance: Enormous male lion, much larger than ordinary lions, magnificent golden mane that catches and reflects light,
+      great solemn royal eyes that are overwhelming to look upon, noble and majestic bearing
+    clothing: None - natural lion
+    position: Standing majestically in center of camp, surrounded by loyal creatures
+    action: Waiting with kingly patience for the children's approach, emanating power and love
+  scene:
+    mainElements: Shining castle gleaming like great star on seashore, throne room with ivory roof, western doors adorned
+      with peacock feathers, eastern doors opening directly onto sea, four empty thrones
+    details: Magnificent pavilion camp spreading across green hillside above sparkling sea, centaurs standing guard with spears
+      and bows, talking horses stamping hooves, mythical creatures of every kind gathered in loyal assembly, colorful banners
+      fluttering in sea breeze, spring flowers blooming throughout camp, four golden thrones waiting empty under open sky
+    background: Eastern Sea stretching to horizon with waves catching sunlight, green hills rolling inland, Cair Paravel castle
+      gleaming in distance
+    atmosphere: Bright and joyful, full of light and celebration, sound of waves, place of rightful kingship and joy
+  composition:
+    cameraAngle: Wide establishing shot showing magnificent scope of Aslan's camp and forces
+    focus: Three children approaching Aslan at center of camp, surrounded by loyal Narnian army
+    depth: Children in foreground approaching camp, Aslan and creatures in middle ground, sea and castle in background, no
+      text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - bright red
+    - vivid blue
+    - sunny yellow
+    secondary:
+    - grass green
+    - purple
+    - orange
+    background: simple flat colors or patterns
+    usageNotes: Intense, saturated colors used intuitively
+    saturation: very high (bold, pure colors)
+    contrast: high (bright colors against each other)
+  lineArt:
+    style: simple, direct outlines
+    weight: consistent, moderate thickness
+    color: dark outlines or color boundaries
+    texture: hand-drawn quality, slight irregularities
+    edgeTreatment: simple, clean edges
+  lighting:
+    type: flat, even lighting (no sophisticated shading)
+    direction: front-lit, minimal shadows
+    intensity: bright, cheerful
+    shadows:
+      style: simple, flat shadows if any
+      color: darker version of base color
+      opacity: solid
+    highlights: minimal, simple bright spots
+  rendering:
+    technique: direct, intuitive application
+    texture: flat colors with simple patterns
+    detailLevel: high in some areas (obsessive detail), simple in others
+    finish: flat, matte appearance
+  perspective: flattened or incorrect perspective, childlike spatial relationships
+  mood:
+    overall: cheerful, innocent, direct
+    emotion: joy, simplicity, honesty
+    tempo: peaceful, content
+    keywords:
+    - cheerful
+    - innocent
+    - direct
+    - honest
+    - joyful
+  stylePrecedents:
+  - Henri Rousseau jungle paintings
+  - Grandma Moses rural scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

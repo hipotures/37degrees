@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Legacy of Love"
+  setting:
+    time: "1830s England, afternoon"
+    location: "Small isolated manor house in deep woods thirty miles from Thornfield, simple stone construction"
+    weather: "Warm spring afternoon with dappled sunlight through leaves"
+  characters:
+    - appearance: "Young woman, early 20s, small slight build, plain features, pale skin, dark hair pulled severely back, large expressive dark eyes, determined chin"
+      clothing: "Simple afternoon dress with sleeves rolled up, apron tied around waist, hair slightly mussed from activity"
+      position: "Kneeling in garden soil, planting seeds with small child beside her"
+      action: "Teaching child to plant flowers, speaking gently while guiding small hands, face glowing with maternal joy"
+    - appearance: "Dark-haired man in his late 30s, tall broad-shouldered build, harsh angular features, penetrating dark eyes, weather-beaten complexion, changed by suffering"
+      clothing: "Simple country clothes, sleeves rolled up, dirt on hands from garden work"
+      position: "Sitting on garden wall nearby, watching family with deep contentment"
+      action: "Observing wife and child with protective love, occasionally calling encouragement, face softened by complete happiness"
+  scene:
+    mainElements: "Modest two-story house surrounded by dense forest, overgrown garden now being cultivated, small windows, ivy-covered walls"
+    details: "Small garden tools scattered in rich soil, packets of seeds opened on wooden tray, watering can nearby, child's hands dirty with earth, flowers blooming from previous seasons' planting"
+    background: "Dense forest providing shelter and privacy, afternoon sun creating patterns through leaves, sense of generations continuing"
+    atmosphere: "Peaceful rural seclusion, natural harmony, democratic simplicity, healing quietude away from social pretensions, family legacy growing, love multiplied through generations, new emotional baseline of complete fulfillment"
+  composition:
+    cameraAngle: "Medium shot showing family creating future together"
+    focus: "Family planting seeds literally and metaphorically for the future"
+    depth: "Growing family in foreground, flourishing home in middle ground, protective forest sanctuary in background"

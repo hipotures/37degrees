@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Protective Distance at the Opera"
+  setting:
+    time: "1840s Paris, uncomfortable evening during opera performance"
+    location: "Grand opera house interior in 1840s Paris, multiple tiers of elegant private boxes with red velvet curtains"
+    weather: "Cold clear night with frost forming on windows"
+  characters:
+    - appearance: "Woman, early twenties, pale complexion with delicate features, auburn hair styled in elegant 1840s fashion with center part and side curls, slender build, fragile due to illness, expressive dark eyes"
+      clothing: "Luxurious white silk evening gown with off-shoulder neckline, fitted bodice with tiny pearl buttons, full bell-shaped skirt, white lace gloves, pearl necklace, small pearl earrings"
+      position: "Seated rigidly in chair with hands clasped tightly in lap, face turned toward stage but eyes unfocused"
+      action: "Breathing carefully to control emotion, grip tightening on opera glasses without using them"
+    - appearance: "Middle-aged man, early fifties, graying dark hair receding at temples, well-groomed sideburns, stern weathered face with deep lines, stocky build, sharp blue eyes"
+      clothing: "Dark navy formal frock coat, black wool waistcoat, white dress shirt, black silk cravat, gold pocket watch chain visible, black wool trousers, black leather boots"
+      position: "Standing rigidly with hands clasped in front, chin raised in authoritative posture"
+      action: "Speaking with firm conviction, slight frown showing paternal concern mixed with moral judgment"
+    - appearance: "Middle-aged woman, early forties, brown hair pulled back in simple bun, kind round face with warm brown eyes, average height, sturdy build, worn hands from work"
+      clothing: "Simple black servant's dress with white lace collar and cuffs, white cotton apron tied at waist, small white cap, black stockings, practical black shoes"
+      position: "Standing near the back of box, hands wringing anxiously, ready to withdraw if needed"
+      action: "Watching with worried expression, torn between loyalty and sensing approaching conflict"
+  scene:
+    mainElements: "Ornate golden balcony railings with intricate scrollwork, red plush seating, elaborate architectural details, massive crystal chandelier illuminating the space"
+    details: "Fresh red camellia flowers arranged in small bouquet lying abandoned on side table, deep crimson petals appearing almost black in harsh theater lighting. Opera program crumpled in woman's lap. Luminous white pearl necklace with perfectly matched spherical pearls reflecting cold light. Heavy silence despite ongoing performance. No text or letters visible"
+    background: "Opera performance continuing on stage below while tension dominates the private box, other boxes containing oblivious audience members"
+    atmosphere: "Aristocratic splendor and social display, brilliant gaslight reflecting off jewelry and silk gowns, buzz of fashionable society"
+  composition:
+    cameraAngle: "Close medium shot emphasizing psychological tension and protective positioning"
+    focus: "Three figures arranged to show power dynamics and emotional stress"
+    depth: "Foreground captures tense character interactions, middle ground shows abandoned camellias, background displays ongoing opera performance"

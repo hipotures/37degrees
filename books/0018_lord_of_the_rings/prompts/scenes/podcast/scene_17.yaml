@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Bridge of Khazad-dûm"
+  setting:
+    time: "Third Age of Middle-earth, in depths of Moria during desperate escape"
+    location: "Ancient abandoned dwarf city carved deep inside Misty Mountains, once called Khazad-dûm, now dark and dangerous ruins"
+    weather: "Underground chamber with oppressive darkness, heat rising from abyss below"
+  characters:
+    - appearance: "Wizard, elderly man appearance, tall around 6 feet, long grey beard reaching chest, deep grey eyes under bushy eyebrows, weathered face with wise expression, grey hair"
+      clothing: "Long grey robes reaching ankles, brown leather belt, sturdy walking boots, wooden staff gleaming with power"
+      position: "Standing alone on narrow stone bridge spanning vast chasm, facing back toward approaching darkness"
+      action: "Holding staff across bridge like barrier, drawing upon all his power for final confrontation with ancient evil"
+  scene:
+    mainElements: "Vast pillared halls carved from stone, deep shafts and passages, broken bridges over chasms, tomb of Balin, Chamber of Mazarbul"
+    details: "Narrow stone bridge of dwarven construction spanning bottomless chasm with no railings, massive pillars supporting cathedral-like chamber carved from living rock, wizard silhouetted against fires rising from depths, staff blazing with white light in desperate stand against darkness, Fellowship visible at far end of bridge in terrified retreat, ancient dwarf architecture showing incredible skill now ruined and abandoned, heat and smoke rising from abyss below, no text or letters visible"
+    background: "Vast underground hall disappearing into darkness, broken stairs and passages leading to unseen depths, shadow of approaching evil"
+    atmosphere: "Oppressive darkness lit only by torches, echo of footsteps in vast spaces, smell of dust and decay, feeling of ancient loss and lurking danger"
+  composition:
+    cameraAngle: "Wide dramatic shot showing the tiny figure on the bridge against vast underground architecture"
+    focus: "The ultimate sacrifice of wisdom and power to save others"
+    depth: "Foreground shows edge of chasm with bridge beginning, middle ground features wizard making his stand, background reveals the vast ruined halls of Moria"

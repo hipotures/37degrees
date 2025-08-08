@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Overcast Day - Gray Light Eliminating Shadows"
+  setting:
+    time: "1811, afternoon, 2:00 PM, flat gray light under heavy cloud cover"
+    location: "Rural inn courtyard in Dobrzyn village, simple wooden buildings under pewter sky"
+    weather: "Complete cloud cover creating shadowless illumination, heavy humid air, storm threatening"
+  characters:
+    - appearance: "Elderly tall man, gray hair, face deeply furrowed with wrinkles, grim stern expression, bald head covered with scars from old battles"
+      clothing: "Old Horeszko livery - yellow coat with Półkozic heraldic emblem on collar, worn but maintained with dignity, sturdy work boots"
+      position: "Standing in courtyard speaking to assembled group, staff planted firmly beside him"
+      action: "Addressing gathered villagers with grave intensity, gesturing with weathered hands, commanding attention despite humble surroundings"
+  scene:
+    mainElements: "Modest wooden buildings showing dignity despite poverty, unpaved courtyard with scattered straw and simple farm equipment, heavy gray clouds creating uniform diffused lighting"
+    details: "Colors appearing muted but richly saturated under soft gray light, no shadows anywhere creating strange flat illumination, air thick and heavy with approaching storm, horses standing quietly with ears alert to distant thunder, village children playing subdued games sensing weather change, laundry hanging motionless on lines, birds flying unusually low"
+    background: "Rolling countryside under oppressive cloud ceiling, distant forests appearing dark and brooding, sky showing gradual darkening toward approaching storm front"
+    atmosphere: "Tension of approaching weather change, muted contemplative mood under shadowless sky, sense of community gathering before storm, colors intensified by gray light, no text or letters visible"
+  composition:
+    cameraAngle: "Medium wide shot emphasizing flat lighting across entire scene"
+    focus: "Central figure addressing group with dramatic sky creating backdrop"
+    depth: "Foreground shows courtyard details without shadows, middle ground captures speaking figure and listeners, background reveals threatening sky"

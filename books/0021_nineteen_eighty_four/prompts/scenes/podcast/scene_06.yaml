@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Winston at His Ministry Desk"
+  setting:
+    time: "1984, morning work hours, harsh fluorescent lighting"
+    location: "Ministry of Truth office cubicle within enormous white concrete pyramid"
+    weather: "Sterile climate-controlled environment"
+  characters:
+    - appearance: "Man, 39 years old, thin and frail build, below average height, very pale almost white hair, naturally ruddy complexion made rough by cheap soap and dull razors, intelligent but sad and weary eyes, artificial teeth, chronic varicose ulcer on right ankle above the ankle bone that frequently itches and suppurates"
+      clothing: "Blue Party overalls (standard Outer Party uniform), worn and shabby"
+      position: "Seated at small desk in cramped cubicle, leaning toward speakwrite machine"
+      action: "Dictating corrections to historical documents while scratching his varicose ulcer, occasionally glancing toward memory hole"
+  scene:
+    mainElements: "Small institutional desk with dictating machine that converts speech to text connected to keyboard and screen, stacks of documents being revised, slit-like opening in wall leading to furnace for destroying inconvenient documents, harsh overhead lighting eliminating shadows"
+    details: "Bureaucratic machinery of truth manipulation in action. Winston's weathered face shows strain of constant lying disguised as work. His thin frame hunches over primitive speakwrite technology. Documents pile up requiring falsification. The memory hole waits to swallow original versions. Fluorescent light makes everything appear sickly and unnatural. His ankle ulcer throbs as constant reminder of physical decay. No text or letters visible."
+    background: "Other identical cubicles with workers performing similar historical revisionism, white institutional walls"
+    atmosphere: "Mechanized destruction of objective reality presented as routine office work, physical discomfort reflecting spiritual corruption"
+  composition:
+    cameraAngle: "Over-shoulder shot from behind Winston"
+    focus: "Winston's profile as he speaks into speakwrite machine"
+    depth: "Foreground Winston at desk, middle ground speakwrite and documents, background memory hole opening in wall"

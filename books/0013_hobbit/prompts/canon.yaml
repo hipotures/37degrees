@@ -1,0 +1,138 @@
+canon:
+  characters:
+    - id: "bilbo_baggins"
+      name: "Bilbo Baggins"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged hobbit, late 40s, curly brown hair, round cheerful face, short stature, slightly portly build, bright hazel eyes"
+            clothing: "Forest green velvet waistcoat, cream-colored linen shirt with brass buttons, brown woolen breeches, yellow silk handkerchief in waistcoat pocket"
+            position: "Standing with characteristic hobbit posture, bare hairy feet planted firmly on ground"
+            action: "Adjusting waistcoat buttons nervously, often patting waistcoat pocket protectively"
+            
+    - id: "gandalf_grey"
+      name: "Gandalf the Grey"
+      description_block: |
+        characters:
+          - appearance: "Tall elderly wizard, long grey beard reaching his belt, sharp grey eyes beneath bushy grey eyebrows, weathered face, ancient appearance"
+            clothing: "Long grey robes with wide sleeves, tall pointed grey hat, worn brown leather boots, leather belt with small pouches"
+            position: "Standing upright with imposing height, often leaning on tall wooden staff"
+            action: "Gesturing with gnarled wooden staff, smoke rings curling from his long pipe"
+            
+    - id: "thorin_oakenshield"
+      name: "Thorin Oakenshield"
+      description_block: |
+        characters:
+          - appearance: "Dwarf lord in his 150s, noble bearing, long black hair streaked with silver, full black beard with silver threads, deep-set dark eyes, broad shoulders"
+            clothing: "Royal blue wool tunic with silver embroidery, black leather belt with ornate silver buckle, dark chainmail beneath tunic"
+            position: "Standing with regal posture, hand resting on pommel of sword at his side"
+            action: "Surveying surroundings with commanding gaze, fingers drumming against sword hilt with authority"
+            
+    - id: "company_dwarves"
+      name: "Company of Dwarves"
+      description_block: |
+        characters:
+          - appearance: "Twelve dwarves of various ages, all bearded, stocky builds, ranging from young adult to elderly, different colored beards and hair"
+            clothing: "Colorful wool tunics in deep reds, blues, and greens, leather belts and boots, chainmail armor beneath tunics, traveling packs"
+            position: "Gathered in close group, some sitting on stones, others standing, arranged around small campfire"
+            action: "Preparing travel gear, sharpening weapons, eating from bowls, engaged in quiet conversation"
+            
+    - id: "smaug_dragon"
+      name: "Smaug the Dragon"
+      description_block: |
+        characters:
+          - appearance: "Enormous red-gold dragon, massive serpentine body, powerful wings folded against sides, long sinuous neck, fierce amber eyes, razor-sharp teeth"
+            clothing: "Natural armored scales covering entire body in overlapping pattern, golden belly scales, darker red scales on back"
+            position: "Coiled atop massive pile of gold treasure, head raised alertly, tail wrapped around hoard base"
+            action: "Breathing wisps of smoke from nostrils, eyes scanning treasure hoard possessively, claws gripping golden coins"
+            
+    - id: "gollum_creature"
+      name: "Gollum"
+      description_block: |
+        characters:
+          - appearance: "Thin emaciated creature, pale greyish skin, large bulging green eyes, completely bald head, skeletal frame, unnaturally long fingers"
+            clothing: "Tattered dark loincloth, no other garments, bare feet with long pale toes"
+            position: "Crouched low on rocky ledge beside dark underground pool, hunched forward defensively"
+            action: "Clutching at empty fingers searching for missing ring, muttering softly to himself, eyes darting nervously"
+
+  locations:
+    - id: "bag_end_interior"
+      name: "Bag End Interior"
+      description_block: |
+        setting:
+          location: "Interior of comfortable hobbit-hole in English countryside Shire, round green door leading to circular hallway"
+        mainElements: "Yellow painted round door, circular entrance hall with coat pegs, polished wooden floors, brass fixtures gleaming"
+        atmosphere: "Warm golden lamplight, cozy domestic comfort, sheltered from outside world, peaceful sanctuary"
+        
+    - id: "hobbiton_village"
+      name: "Hobbiton Village"
+      description_block: |
+        setting:
+          location: "Peaceful hobbit village in rolling green hills of English countryside Shire, early 20th century rural atmosphere"
+        mainElements: "Round colorful doors built into hillsides, neat gardens with vegetables and flowers, cobblestone paths winding between homes"
+        atmosphere: "Pastoral tranquility, morning mist rising from valleys, warm sunlight on green meadows, birds singing"
+        
+    - id: "rivendell_valley"
+      name: "Rivendell Valley"
+      description_block: |
+        setting:
+          location: "Hidden elvish sanctuary in deep valley surrounded by towering pine-covered mountains, waterfalls cascading from heights"
+        mainElements: "Elegant white stone buildings with arched windows, terraced gardens with exotic flowers, crystal-clear stream flowing through center"
+        atmosphere: "Ethereal beauty, soft eternal twilight, musical sound of water and distant elvish singing, magical serenity"
+        
+    - id: "mirkwood_forest"
+      name: "Mirkwood Forest"
+      description_block: |
+        setting:
+          location: "Dark enchanted forest in Middle-earth, ancient twisted trees blocking sunlight, narrow winding paths through dense undergrowth"
+        mainElements: "Massive oak and pine trees with gnarled branches, thick moss covering tree trunks, tangled roots across forest floor"
+        atmosphere: "Oppressive darkness even in daytime, sounds of unseen creatures moving through branches, heavy air with sense of watching eyes"
+        
+    - id: "lake_town"
+      name: "Lake-town"
+      description_block: |
+        setting:
+          location: "Wooden trading town built on stilts in center of Long Lake, connected by wooden bridges and walkways"
+        mainElements: "Weather-beaten wooden houses on tall posts, narrow wooden walkways over dark water, fishing boats moored at docks"
+        atmosphere: "Damp misty air, creaking sounds of wood and water, smell of fish and woodsmoke, bustling merchant activity"
+        
+    - id: "lonely_mountain"
+      name: "Lonely Mountain Erebor"
+      description_block: |
+        setting:
+          location: "Massive solitary peak rising from desolate wasteland, ancient dwarf kingdom carved into mountain heart"
+        mainElements: "Great stone gates with dwarvish carvings, vast underground halls supported by carved pillars, throne room with stone seats"
+        atmosphere: "Echoing vastness, cool stone surfaces, dim torchlight flickering on carved walls, sense of abandoned grandeur"
+        
+    - id: "smaug_treasure_chamber"
+      name: "Smaug's Treasure Chamber"
+      description_block: |
+        setting:
+          location: "Vast underground chamber deep within Lonely Mountain, enormous cavern filled with dragon's hoard"
+        mainElements: "Mountain of gold coins and jewels reaching chamber ceiling, scattered silver cups and ornaments, precious gemstones gleaming"
+        atmosphere: "Glittering reflections of gold in dancing firelight, heat radiating from dragon's presence, oppressive weight of accumulated wealth"
+
+  items:
+    - id: "magic_ring"
+      name: "The Ring"
+      description_block: |
+        details: "Simple plain gold ring, perfectly smooth surface catching light, appears ordinary but grants invisibility when worn, fits snugly on finger"
+        
+    - id: "sting_sword"
+      name: "Sting"
+      description_block: |
+        details: "Elegant elvish short sword with curved crossguard, bright steel blade inscribed with flowing elvish script, leather-wrapped handle, gleaming in light"
+        
+    - id: "arkenstone_gem"
+      name: "Arkenstone"
+      description_block: |
+        details: "Large white gemstone size of child's fist, multifaceted surface refracting light into rainbow colors, sits atop golden pedestal, radiates inner luminescence"
+        
+    - id: "gandalf_staff"
+      name: "Gandalf's Staff"
+      description_block: |
+        details: "Tall wooden staff carved from ancient oak, gnarled surface worn smooth by countless years, crystal orb set in twisted top, runes carved along length"
+        
+    - id: "thorins_map"
+      name: "Thorin's Map"
+      description_block: |
+        details: "Ancient parchment map with dwarvish runes marking paths and locations, moon-letters visible only in specific light, torn edges from age, careful folds"

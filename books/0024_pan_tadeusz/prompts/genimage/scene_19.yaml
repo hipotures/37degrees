@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1811, midnight, 12:00 AM, deepest night with minimal moonlight filtered through clouds
+    location: Gothic castle ruins of Horeszko family estate in profound darkness and mystery
+    weather: Partially cloudy night with moon appearing and disappearing, creating shifting light patterns
+  characters:
+  - appearance: Elderly tall man, gray hair, face deeply furrowed with wrinkles, grim stern expression, bald head covered
+      with scars from old battles
+    clothing: Old Horeszko livery - yellow coat with Półkozic heraldic emblem on collar, worn but maintained with dignity,
+      sturdy work boots
+    position: Moving through ruined castle halls like guardian ghost, carrying old lantern
+    action: Patrolling ancient halls with lantern, checking corners and chambers, maintaining vigil over crumbling family
+      heritage
+  scene:
+    mainElements: Ancient stone walls appearing and disappearing in shifting moonlight, empty Gothic windows framing patches
+      of night sky, lantern light creating moving circle of warm illumination
+    details: Lantern flame flickering in night breeze creating dancing shadows on stone walls, occasional moon appearance
+      through clouds briefly illuminating ruins in silver light, sound of wind whistling through broken arches, eyes adjusting
+      to reveal deeper shadows within darkness, ancient stones radiating coolness of night
+    background: Night fog beginning to form in low areas, distant countryside invisible beyond ruins, sense of isolation and
+      abandonment in vast darkness
+    atmosphere: Gothic mystery and solitude, sense of guardian maintaining vigil over fallen glory, interplay of artificial
+      lantern light with natural moonlight, profound quiet broken only by wind and footsteps, no text or letters visible
+  composition:
+    cameraAngle: Low angle emphasizing towering ruins against night sky
+    focus: Lantern-bearing figure moving through mysterious ruins
+    depth: Foreground shows lantern light details on stone, middle ground captures guardian figure, background reveals mysterious
+      dark ruins
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

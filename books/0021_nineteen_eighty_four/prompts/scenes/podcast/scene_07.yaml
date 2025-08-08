@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Julia Repairing Telescreen Equipment"
+  setting:
+    time: "1984, afternoon work hours, mechanical workshop lighting"
+    location: "Fiction Department workshop in Ministry of Truth, technical repair area"
+    weather: "Industrial interior environment with oil and metal odors"
+  characters:
+    - appearance: "Woman, 26-27 years old, athletic and supple body, shapely feminine hips, thick glossy dark hair, pretty face with freckles, bold and confident expression, energetic and agile movements"
+      clothing: "Blue Party overalls, narrow scarlet sash of Anti-Sex League worn tightly around waist accentuating her figure"
+      position: "Crouched beside partially disassembled telescreen, tools in both hands"
+      action: "Expertly manipulating delicate electronic components with precise technical skill and confidence"
+  scene:
+    mainElements: "Partially disassembled oblong metal plaque resembling dulled mirror (telescreen) with internal components exposed, technical tools scattered around workspace, spare electronic parts and vacuum tubes on metal shelving, oil stains on concrete floor"
+    details: "Technical expertise applied to surveillance technology. Julia's athletic frame moves with precision around complex machinery. Her scarlet Anti-Sex League sash creates striking color contrast against blue overalls and gray equipment. Oil-stained hands demonstrate practical competence. Exposed telescreen innards reveal sophisticated monitoring apparatus. Metal tools catch harsh workshop lighting. Her confident expression shows mastery of forbidden technical knowledge. No text or letters visible."
+    background: "Workshop shelves lined with electronic components and repair equipment, concrete walls with mounted tool boards"
+    atmosphere: "Underground technical competence hiding subversive knowledge, industrial functionality concealing rebellious potential"
+  composition:
+    cameraAngle: "Medium shot at Julia's eye level as she works"
+    focus: "Julia's concentrated expression and skilled hands working on telescreen components"
+    depth: "Foreground Julia and disassembled telescreen, middle ground scattered tools, background workshop shelving and equipment"

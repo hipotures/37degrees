@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: Third Age of Middle-earth, morning council session in autumn
+    location: Open-air pavilion in Rivendell with carved stone seats arranged in circle, place of important decisions
+    weather: Cool autumn morning with golden leaves falling, clear air perfect for discussion
+  characters:
+  - appearance: 'Mix of figures representing all Free Peoples: tall elves with ancient wisdom in their faces, sturdy dwarves
+      in travel gear, men in various regional clothing, small hobbit among the great'
+    clothing: Elven robes in rich colors, dwarf chain mail and leather, human cloaks and tunics showing different kingdoms,
+      simple hobbit traveling clothes
+    position: Seated in circle on carved stone chairs, all facing toward center where ancient ring lies on stone pedestal
+    action: Intense discussion and debate, some leaning forward in argument, others sitting back in contemplation, all focused
+      on the terrible choice before them
+  scene:
+    mainElements: Circular stone pavilion open to sky, carved chairs arranged in perfect circle, simple stone pedestal at
+      center, falling autumn leaves
+    details: Ancient stone seats carved with elven designs showing wear from centuries of councils, representatives of all
+      Free Peoples gathered in unprecedented unity, golden autumn leaves drifting down between carved pillars, stone pedestal
+      at center holding plain gold ring that seems to draw all attention, faces showing fear, determination, and grim understanding
+      of the task ahead, hands gesturing in debate, no text or letters visible
+    background: Rivendell's gardens visible beyond pavilion, waterfalls creating background sound, mountains rising in distance
+    atmosphere: Weight of momentous decision affecting all Middle-earth, ancient wisdom meeting desperate necessity, sound
+      of falling water and rustling leaves, tension of different peoples finding common cause
+  composition:
+    cameraAngle: Wide shot from elevated position showing full circle of council
+    focus: The unprecedented gathering of Free Peoples united by desperate need
+    depth: Foreground shows some council members and falling leaves, middle ground reveals full circle with ring at center,
+      background shows Rivendell's timeless beauty
+visualElements:
+  colorPalette:
+    primary:
+    - rich fantasy colors
+    - jewel tones
+    secondary:
+    - atmospheric colors
+    - magical glows
+    background: atmospheric, often dark or misty
+    usageNotes: Rich, layered colors with magical atmosphere
+    saturation: medium to high
+    contrast: medium to high
+  lineArt:
+    style: painterly, loose
+    weight: varied, often hidden
+    color: integrated into painting
+    texture: organic brushstrokes
+    edgeTreatment: soft, painterly edges
+  lighting:
+    type: dramatic, magical
+    direction: varied for atmosphere
+    intensity: high contrast areas
+    shadows:
+      style: painted, atmospheric
+      color: cool or warm depending on scene
+      opacity: varied
+    highlights: magical glows, rim lighting
+  rendering:
+    technique: digital painting with textured brushes
+    texture: dry media brush texture
+    detailLevel: moderate to high
+    finish: glazed, painterly
+  perspective: cinematic, dynamic
+  mood:
+    overall: mythological, otherworldly, epic
+    emotion: wonder, mystery, adventure
+    tempo: varies from calm to dramatic
+    keywords:
+    - epic
+    - mystical
+    - otherworldly
+    - fantasy
+    - mythological
+  stylePrecedents:
+  - Craig Mullins digital concept art
+  - Frank Frazetta fantasy paintings
+  - Boris Vallejo fantasy illustrations
+  - Magic: The Gathering card art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical
