@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Candlelit Evening with Rescued Friday"
+  setting:
+    time: "1684, early evening with dinner table lit by candles, cozy interior against dark windows"
+    location: "Główna siedziba Crusoe u podnóża stromego skalistego wzgórza na tropikalnej wyspie, inside cave dwelling"
+    weather: "Clear night with gentle tropical breeze, comfortable temperature"
+  characters:
+    - appearance: "Mężczyzna, wiek od 27 do 55 lat, postawny i muskularny, ogorzały od słońca, długie niestrzyżone włosy, długa gęsta broda przystrzyżona w tureckie wąsy mahometańskie, twarz poorana zmarszczkami od słońca, dziki barbarzyński wygląd"
+      clothing: "Kompletny strój z koziej skóry: wysoka stożkowata bezkształtna czapka z klapą chroniącą kark, krótka kurtka z koziej skóry z sierścią na zewnątrz sięgająca do połowy uda, spodnie z koziej skóry do kolan z długą sierścią zwisającą do połowy łydek, wysokie sznurowane buty z koziej skóry, szeroki pas z suszonej skóry"
+      position: "Sitting at simple wooden table teaching Friday to read from Bible"
+      action: "Patiently instructing Friday in English words and Christian concepts, sharing evening meal"
+    - appearance: "Młody mężczyzna, wiek około 26 lat, wysoki i zgrabny o doskonale zbudowanej wysportowanej sylwetce, skóra o jasnym oliwkowym odcieniu, długie czarne proste włosy, żywe błyskotliwe ciemne oczy, okrągła twarz o rysach określanych jako europejskie, mały nos, cienkie usta, zęby białe jak kość słoniowa"
+      clothing: "Początkowo nagi, później ubrany przez Crusoe: lniane spodnie, kaftan z koziej skóry, czapka ze skóry zająca"
+      position: "Sitting across from Crusoe at table, leaning forward with intense concentration"
+      action: "Listening carefully to lesson, pointing at words in Bible, asking questions with mixture of curiosity and reverence"
+  scene:
+    mainElements: "Jaskinia wykuta w skale służąca jako piwnica i magazyn z zorganizowanymi półkami, simple wooden furniture crafted by hand, candles providing warm flickering light, organized storage of supplies and tools"
+    details: "Gruba księga oprawiona w ciemną skórę, jedna z książek uratowanych z wraku, strony pożółkłe i zniszczone od wilgoci morskiej, dla Crusoe najważniejszy przedmiot i źródło duchowego przewodnictwa open on table, candle flames creating dancing shadows on cave walls, simple pottery dishes with evening meal, organized shelves displaying various handmade items and salvaged goods, entrance to cave dark beyond candlelight"
+    background: "Cave walls extending back into darkness, glimpse of star-lit sky through cave entrance, fortress compound quiet in evening stillness"
+    atmosphere: "Intimate domestic scene contrasting with wild exterior, warm human connection after years of solitude, patient teacher and eager student relationship, cozy interior creating sanctuary from darkness outside"
+  composition:
+    cameraAngle: "Medium shot capturing intimate teaching scene with candlelight creating warm atmosphere"
+    focus: "Two figures at table with Bible and candles, warm human interaction, domestic tranquility"
+    depth: "Foreground: table with candles and Bible, Middle: two figures in conversation, Background: cave walls fading into darkness, no text or letters visible"

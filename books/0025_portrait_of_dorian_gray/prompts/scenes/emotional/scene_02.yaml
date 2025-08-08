@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Aristocratic Leisure in Elegant Library"
+  setting:
+    time: "Late Victorian London, warm afternoon, 1880s"
+    location: "Aristocratic Mayfair West End townhouse library, bardzo uroczy pokój in Victorian gentleman's residence"
+    weather: "Gentle afternoon warmth filtering through windows"
+  characters:
+    - appearance: "Man, 30-35 years old, wysoki and pełen gracji, ciemne włosy, spiczasta brązowa broda, ciemne ospałe marzycielskie oczy, oliwkowa cera, zmęczony cyniczny wyraz twarzy"
+      clothing: "Elegancki arystokratyczny strój dandysa in ciemne kolory, perfectly tailored garments befitting his status"
+      position: "Reclining languidly on elegant furniture with studied nonchalance"
+      action: "Gesturing languidly while in contemplative mood, smoking papierosów in elegant papierośnicy, handling cygarniczka, laska, or monokl with practiced ease, embodying aristocratic leisure"
+  scene:
+    mainElements: "Wysoka boazeria z dębu bejcowana na oliwkowy kolor covering walls, kremowy fryz above, wypukłe sztukaterie decorating ceiling, dywan z filcu w kolorze ceglastoczerwonym with smaller jedwabne perskie dywaniki z długimi frędzlami creating luxurious foundation"
+    details: "Mały stolik z drewna satynowego with statuetka Clodiona, cenna książka Les Cent Nouvelles oprawiony dla Małgorzaty de Valois, kilka dużych niebieskich chińskich waz on mantelpiece, wazon z papuzimi tulipanami, wykwintne meble świadczące o guście właściciela, each przedmiot carefully selected for beauty and history, no text or letters visible"
+    background: "Małe okna z ołowianymi szybkami allowing morelowe światło letniego dnia to filter through creating warm, intimate atmosphere"
+    atmosphere: "Refined aristocratic comfort, stonowana i elegancja atmosphere with oliwkowa zieleń drewna, kremowy sufit, ceglasta czerwień dywanu creating ciepła intymną atmosferę, quintessential aestheticism where beauty reigns supreme, sense of cultured sophistication and leisure"
+  composition:
+    cameraAngle: "Medium shot emphasizing elegant interior and relaxed figure"
+    focus: "Aristocratic gentleman in his element of refined comfort and aesthetic pleasure"
+    depth: "Foreground: reclining figure with luxury accessories, middle ground: fine furniture and art objects, background: ornate architectural details and window light"

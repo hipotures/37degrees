@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1820s France during Bourbon Restoration, bright spring morning
+    location: Prestigious Faubourg Saint-Germain district of Paris, external approach to aristocratic mansion (hôtel particulier),
+      summit of French society
+    weather: Clear bright morning with crisp air
+  characters:
+  - appearance: Young man, age 19-23, short stature with small, slender build almost feminine in delicacy, dark chestnut hair
+      worn slightly longer in 1820s style, large expressive black eyes, regular delicate facial features with aquiline nose,
+      extremely pale complexion that turns bright red easily under emotional stress
+    clothing: Black clerical/secretary attire - simple black frock coat, white linen shirt with high stiff collar, dark trousers,
+      plain black shoes
+    position: Standing before imposing entrance gates with traveling bag
+    action: Staring in amazement at aristocratic magnificence while trying to control his provincial awe
+  scene:
+    mainElements: Elegant classical architecture with large courtyard and rear garden, imposing entrance with wrought-iron
+      gates, cream-colored stone facades with tall windows, manicured gardens visible through railings
+    details: Well-dressed servants in livery moving through courtyard, elegant carriages coming and going, sound of horses'
+      hooves on cobblestones, morning sunlight highlighting architectural details, contrast between Julian's simple appearance
+      and surrounding luxury
+    background: Tree-lined streets of aristocratic quarter, other grand mansions with similar architecture, distant spires
+      of central Paris
+    atmosphere: Entry into world of ultimate social privilege and power, overwhelming contrast with Julian's humble origins,
+      intimidating grandeur designed to impress and exclude, new opportunity for advancement through service
+  composition:
+    cameraAngle: Low angle emphasizing the imposing grandeur of aristocratic architecture
+    focus: Julian's sense of wonder and determination in face of supreme social elevation
+    depth: Julian with traveling bag in foreground, mansion gates and courtyard in middle ground, prestigious neighborhood
+      in background, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,96 @@
+sceneDescription:
+  setting:
+    time: 1820s France during Bourbon Restoration, sunny afternoon
+    location: Elegant drawing room within aristocratic mansion (hôtel particulier) in prestigious Faubourg Saint-Germain district
+      of Paris
+    weather: Brilliant sunny day
+  characters:
+  - appearance: Young man, age 19-23, short stature with small, slender build almost feminine in delicacy, dark chestnut hair
+      worn slightly longer in 1820s style, large expressive black eyes, regular delicate facial features with aquiline nose,
+      extremely pale complexion that turns bright red easily under emotional stress
+    clothing: Brilliant blue hussar uniform with gold braiding, white cross-belt, tall military boots, sword at side - representing
+      the 'red' of military glory he always dreamed of
+    position: Standing proudly before mirror, adjusting military decorations
+    action: Admiring his transformation from poor peasant to aristocratic officer, savoring moment of achieved ambition
+  - appearance: Man age 50-60, short and very thin with restless movements, bright intelligent eyes, wears blonde powdered
+      wig, sharp aristocratic facial features
+    clothing: Impeccably aristocratic attire possibly slightly old-fashioned - dark frock coat, light waistcoat, elegant but
+      may show traces of ancien régime style
+    position: Seated in armchair observing with satisfaction
+    action: Presenting Julian with official commission papers and expressing paternal pride in his protégé's advancement
+  - appearance: Young woman age 19-20, described as beautiful with intelligent expressive face often showing disdain, boredom
+      or ironic distance, slender proud bearing typical of aristocracy
+    clothing: Elegant dress appropriate for formal occasion, showing signs of pregnancy
+    position: Standing beside window with hand resting on curtain
+    action: Watching Julian's triumph with mixture of love and anxiety about their uncertain future
+  scene:
+    mainElements: Luxurious drawing room with gilt mirror reflecting Julian's transformation, elegant furniture arranged for
+      formal occasion, official documents with wax seals on mahogany table, champagne glasses suggesting celebration
+    details: Sunlight catching gold braiding and buttons on military uniform, reflection in mirror showing contrast between
+      past and present identity, scent of leather from new military boots and sword belt, commission papers bearing official
+      seals and ribbons
+    background: View through windows of Parisian gardens in spring bloom, other reception rooms visible through doorways,
+      family portraits observing from walls
+    atmosphere: Peak moment of social triumph and achievement, Julian's transformation from black (clerical) to blue/red (military),
+      brief euphoria before approaching catastrophe, fulfillment of childhood dreams of Napoleonic glory
+  composition:
+    cameraAngle: Medium shot emphasizing Julian's military splendor and transformation
+    focus: Julian's moment of supreme triumph in brilliant military uniform
+    depth: Julian in uniform in foreground, Marquis with papers in middle ground, Matylda at window in background, no text
+      or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

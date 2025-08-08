@@ -1,0 +1,101 @@
+sceneDescription:
+  setting:
+    time: 1933, hot summer afternoon, planning session
+    location: Main residential street in Maycomb, Alabama during Great Depression, dusty dirt road with sidewalks, lined with
+      Southern cottage-style homes
+    weather: Blazing afternoon heat forcing children to seek shade
+  characters:
+  - appearance: Boy, 7 years old, very small for his age, snow-white hair that sticks up, large bright blue eyes
+    clothing: Clean white shirt, brown shorts, neat appearance from out of town
+    position: Crouched in dust beneath oak tree, drawing patterns with stick
+    action: Animated gestures when telling stories, energetic child movements
+  - appearance: Girl, 6-9 years old, small and slender build, short straight brown hair with bangs, expressive face with tomboyish
+      features
+    clothing: Blue denim overalls, white cotton shirt, bare feet or simple brown shoes
+    position: Sitting cross-legged in shade, leaning forward intently
+    action: Energetic, active stance, quick movements, sometimes clenched fists ready for action
+  - appearance: Boy, 10-13 years old, tall and lean athletic build, short brown hair, serious expression, left arm shorter
+      than right after injury
+    clothing: White cotton shirt, brown knee-length shorts, brown leather shoes
+    position: Standing with back against tree trunk, arms crossed
+    action: Straight posture becoming more thoughtful and reserved as he ages
+  scene:
+    mainElements: Single-story wooden frame houses with deep front porches, old oak trees providing shade, uneven cracked
+      sidewalks
+    details: Children huddled in precious shade under spreading oak, dust motes dancing in filtered sunlight, Dill's stick
+      drawings in dirt showing rough house layouts, serious expressions as they plot their approach
+    background: Once-white house now slate-gray, sagging shutters, rotted rain-soaked shingles, overgrown yard with Johnson
+      grass and rabbit tobacco, rickety fence
+    atmosphere: Conspiratorial excitement mixed with fear, children's determination overcoming natural caution, heat adding
+      urgency to their planning
+  composition:
+    cameraAngle: Close medium shot from ground level looking up at children
+    focus: Three children clustered in urgent planning session under tree
+    depth: 'Foreground: stick drawings in dust, middle ground: children in animated discussion, background: mysterious gray
+      house visible through leaves, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - '#2B2B2B'
+    - '#4A4A4A'
+    - '#6B6B6B'
+    - '#8C8C8C'
+    - '#ADADAD'
+    - '#CECECE'
+    - '#F0F0F0'
+    secondary:
+    - '#FFFFFF'
+    - '#1A1A1A'
+    background: white or off-white paper
+    usageNotes: Monochromatic grayscale only. Use varying shades for depth
+    saturation: none
+    contrast: medium to high
+  lineArt:
+    style: organic, hand-drawn
+    weight: variable (0.5-3px)
+    color: grayscale
+    texture: rough, sketchy with visible breaks
+    edgeTreatment: natural variations, multiple overlapping strokes
+  lighting:
+    type: traditional shading
+    direction: typically top-left
+    intensity: varies with pressure
+    shadows:
+      style: crosshatching and scribbling
+      color: darker graphite tones
+      opacity: built up through layering
+    highlights: paper showing through or eraser marks
+  rendering:
+    technique: traditional pencil on paper
+    texture: visible paper grain and tooth
+    detailLevel: varies from loose to highly detailed
+    finish: intentionally incomplete with visible process
+  perspective: traditional drawing perspectives
+  mood:
+    overall: artistic, unfinished, spontaneous
+    emotion: raw, authentic, contemplative
+    tempo: calm, thoughtful
+    keywords:
+    - artistic
+    - raw
+    - authentic
+    - traditional
+    - sketchy
+  postProcessing:
+    effects:
+    - paper texture
+    - graphite smudging
+    filters: none
+    adjustments:
+      saturation: '0'
+      contrast: natural pencil contrast
+  stylePrecedents:
+  - Leonardo da Vinci sketches
+  - Academic drawing studies
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

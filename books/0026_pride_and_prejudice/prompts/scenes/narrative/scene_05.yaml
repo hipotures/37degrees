@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Elizabeth's Muddy Walk to Netherfield"
+  setting:
+    time: "Early 19th century England, morning, early autumn after rain"
+    location: "English countryside fields between Longbourn and Netherfield estates"
+    weather: "Morning after overnight rain, muddy paths, clearing skies"
+  characters:
+    - appearance: "Woman, 20 years old, beautiful dark intelligent eyes with expressive gaze, light and pleasing figure, average height, not classically beautiful like her sister Jane but possessing striking charm, dark hair arranged in period-appropriate style with loose curls framing her face, healthy complexion that gains attractive rosy color after physical exertion"
+      clothing: "Forest green wool walking dress with practical hem length, brown wool pelisse over dress, sturdy brown leather walking boots now mud-splattered, plain bonnet tied with ribbons, warm shawl around shoulders"
+      position: "Striding energetically along muddy country path"
+      action: "Walking with determined purposeful steps, petticoat muddy, cheeks flushed from exercise and fresh air"
+  scene:
+    mainElements: "Rolling English countryside with hedgerows, muddy field paths connecting estate properties, scattered oak trees, wooden stiles to cross between fields, evidence of recent rain in puddles and wet vegetation"
+    details: "Muddy footpath winding through fields, hedgerows heavy with moisture, puddles reflecting cloudy sky, wet grass brushing against dress, autumn wildflowers along path edges, distant view of grand mansion through trees, rustic wooden gate partially open, morning mist still clinging to low areas"
+    background: "Netherfield mansion visible in distance through morning haze, rolling fields and woodlands, typical English countryside scenery"
+    atmosphere: "Fresh clean air after rain, sounds of birds and rustling leaves, peaceful rural setting, sense of determined journey"
+  composition:
+    cameraAngle: "Low angle shot emphasizing Elizabeth's determined progress"
+    focus: "Elizabeth walking briskly with muddy dress and glowing complexion"
+    depth: "Foreground: muddy path and Elizabeth's boots; middle ground: walking figure; background: countryside leading to distant Netherfield, no text or letters visible"

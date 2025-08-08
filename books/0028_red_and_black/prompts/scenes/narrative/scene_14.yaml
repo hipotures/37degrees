@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "First evening salon - encounter with Matylda"
+  setting:
+    time: "1820s France during Bourbon Restoration, elegant evening reception"
+    location: "Grand ballroom within aristocratic mansion (hôtel particulier) in prestigious Faubourg Saint-Germain district of Paris, scene of evening social gathering"
+    weather: "Clear evening"
+  characters:
+    - appearance: "Young woman age 19-20, described as beautiful with intelligent expressive face often showing disdain, boredom or ironic distance, slender proud bearing typical of aristocracy"
+      clothing: "Cutting-edge Parisian haute couture of 1820s - elaborate ball gowns made from finest materials (satin, velvet, silk) with characteristically oversized puffy sleeves, ornate decorations, richest fabrics"
+      position: "Standing near marble fireplace surrounded by admirers"
+      action: "Conversing with aristocratic young men while displaying obvious boredom and intellectual superiority"
+    - appearance: "Young man, age 19-23, short stature with small, slender build almost feminine in delicacy, dark chestnut hair worn slightly longer in 1820s style, large expressive black eyes, regular delicate facial features with aquiline nose, extremely pale complexion that turns bright red easily under emotional stress"
+      clothing: "Black clerical/secretary attire - simple black frock coat, white linen shirt with high stiff collar, dark trousers, plain black shoes"
+      position: "Standing apart near wall, observing social interactions"
+      action: "Watching aristocratic society with mixture of fascination and contempt, noting Matylda's dismissive treatment of her suitors"
+    - appearance: "Various aristocratic men and women in evening dress"
+      clothing: "Elaborate evening attire typical of Parisian high society in 1820s"
+      position: "Moving through salon in conversations and social rituals"
+      action: "Engaging in sophisticated but ultimately empty social conversation"
+  scene:
+    mainElements: "Crystal chandeliers casting sparkling light throughout ballroom, marble fireplaces with ornate mantels, silk wall coverings in pastel colors, polished parquet floors reflecting candlelight, elegant furniture arranged for conversation"
+    details: "Hundreds of candles creating magical flickering atmosphere, sound of silk dresses rustling, refined conversation mixing with soft laughter, scent of expensive perfumes and beeswax candles, servants moving discreetly with refreshments"
+    background: "Adjoining salons visible through archways, musicians preparing instruments in corner, French doors opening onto moonlit gardens"
+    atmosphere: "Sophisticated social theater masking fundamental emptiness, Julian's outsider status in world of inherited privilege, Matylda's search for authenticity in boring aristocratic environment, mutual recognition of superior minds"
+  composition:
+    cameraAngle: "Wide shot encompassing the elegant salon setting and social dynamics"
+    focus: "Contrast between Matylda's beauty and boredom and Julian's intense observation"
+    depth: "Matylda with admirers in foreground, Julian observing in middle ground, glittering salon in background, no text or letters visible"

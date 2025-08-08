@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: 1820s France during Bourbon Restoration, quiet afternoon before execution
+    location: Small austere prison cell in tower of Besançon prison where Julian awaits execution
+    weather: Peaceful afternoon with soft light
+  characters:
+  - appearance: Young man, age 19-23, short stature with small, slender build almost feminine in delicacy, dark chestnut hair
+      worn slightly longer in 1820s style, large expressive black eyes, regular delicate facial features with aquiline nose,
+      extremely pale complexion that turns bright red easily under emotional stress
+    clothing: Simple prison clothing, face showing spiritual peace and acceptance
+    position: Sitting on edge of simple cot, holding her hands
+    action: Speaking with quiet tenderness, having abandoned all ambition and masks to find authentic love
+  - appearance: Woman around 30 years old, tall with graceful elegant figure, dazzling fresh complexion, natural beauty without
+      artifice, moves with innate grace and charm when comfortable
+    clothing: Simple dark dress appropriate for prison visit, bearing bandages from gunshot wounds
+    position: Seated beside him on simple wooden stool
+    action: Forgiving him completely and sharing final moments of pure love freed from social constraints
+  scene:
+    mainElements: Small prison cell with stone walls, single barred window, simple cot, wooden table and stool, minimal furnishings
+      creating monastic atmosphere
+    details: Single beam of afternoon sunlight streaming through barred window creating peaceful atmosphere, sound of birds
+      singing outside, absence of luxury revealing essential human connection, simple wooden cross on wall, sense of approaching
+      death bringing clarity and peace
+    background: Stone walls of medieval prison, view through barred window of sky and distant landscape, sound of church bells
+      from city below
+    atmosphere: Ultimate spiritual purification through love and approaching death, Julian's final abandonment of ambition
+      and social climbing, pure human connection transcending class barriers, tragic beauty of love discovered too late, peaceful
+      acceptance of fate
+  composition:
+    cameraAngle: Intimate close shot emphasizing their emotional connection
+    focus: Their joined hands and faces showing spiritual reconciliation and pure love
+    depth: Julian and Madame de Rênal together in foreground, simple cell details in middle ground, barred window with light
+      in background, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

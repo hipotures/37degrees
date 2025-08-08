@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Mysterious Radley Place"
+  setting:
+    time: "1933, late afternoon, deepening shadows"
+    location: "Gray weathered house at sharp curve of street in Maycomb Alabama, on boundary with schoolyard"
+    weather: "Hot still air, no breeze, oppressive humidity"
+  characters:
+    - appearance: "Girl, 6-9 years old, small and slender build, short straight brown hair with bangs, expressive face with tomboyish features"
+      clothing: "Blue denim overalls, white cotton shirt, bare feet or simple brown shoes"
+      position: "Crouched behind oak tree trunk at safe distance"
+      action: "Peering around tree toward house, one hand gripping bark"
+    - appearance: "Boy, 10-13 years old, tall and lean athletic build, short brown hair, serious expression, left arm shorter than right after injury"
+      clothing: "White cotton shirt, brown knee-length shorts, brown leather shoes"
+      position: "Standing beside sister behind tree cover"
+      action: "Studying house intently, whispering and pointing at dark windows"
+    - appearance: "Boy, 7 years old, very small for his age, snow-white hair that sticks up, large bright blue eyes"
+      clothing: "Clean white shirt, brown shorts, neat appearance from out of town"
+      position: "Pressed against tree on other side, wide-eyed with excitement"
+      action: "Animated gestures when telling stories, energetic child movements"
+  scene:
+    mainElements: "Once-white house now slate-gray, sagging shutters, rotted rain-soaked shingles, overgrown yard with Johnson grass and rabbit tobacco, rickety fence"
+    details: "Paint peeling in long strips, dark empty windows like dead eyes, broken gate hanging at angle, massive oak tree with gnarled branches casting deep shadows over property, no sign of life or movement"
+    background: "Gothic gloom, mysterious and forbidding, shrouded in deep shadows from massive oak trees"
+    atmosphere: "Ominous stillness, sense of secrets hidden, children's mix of fear and fascination, weight of local legends and ghost stories"
+  composition:
+    cameraAngle: "Medium shot from children's hiding position behind tree"
+    focus: "Abandoned house looming in gathering shadows with children watching from safety"
+    depth: "Foreground: three children clustered behind oak tree, middle ground: overgrown yard and rickety fence, background: gray house with dark windows and sagging porch, no text or letters visible"

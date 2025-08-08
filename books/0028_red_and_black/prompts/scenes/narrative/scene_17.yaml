@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The ladder climb - ultimate transgression"
+  setting:
+    time: "1820s France during Bourbon Restoration, deep of night around midnight"
+    location: "Garden and facade of aristocratic mansion (hôtel particulier) in prestigious Faubourg Saint-Germain district of Paris"
+    weather: "Dark night with minimal moonlight"
+  characters:
+    - appearance: "Young man, age 19-23, short stature with small, slender build almost feminine in delicacy, dark chestnut hair worn slightly longer in 1820s style, large expressive black eyes, regular delicate facial features with aquiline nose, extremely pale complexion that turns bright red easily under emotional stress"
+      clothing: "Dark clothing suitable for nighttime activity, partially disheveled from physical exertion"
+      position: "Climbing wooden ladder against mansion wall, three stories high"
+      action: "Ascending with desperate determination toward Matylda's bedroom window, driven by fury and passion"
+  scene:
+    mainElements: "Long heavy wooden gardener's ladder, somewhat worn, positioned against elegant stone facade of mansion, tall windows with shutters, manicured garden beds below, pair of flintlock pistols typical of 1820s used to break chain"
+    details: "Broken chain links scattered on ground where Julian shot them apart, ladder rungs creaking under his weight, sound of his labored breathing, shadows cast by minimal moonlight, danger of three-story fall, metallic smell of gunpowder from discharged pistol"
+    background: "Elegant mansion facade with classical architectural details, other darkened windows of sleeping household, night sky over Parisian rooftops"
+    atmosphere: "Moment of supreme risk and desperation, literal and symbolic climbing of social ladder, violent transgression of aristocratic boundaries, Julian's transformation from calculated seducer to passionate lover driven beyond reason"
+  composition:
+    cameraAngle: "Low angle emphasizing the height and danger of the climb"
+    focus: "Julian's precarious position on ladder as visual metaphor for his social climbing"
+    depth: "Julian on ladder in foreground, mansion wall in middle ground, dark Parisian night in background, no text or letters visible"

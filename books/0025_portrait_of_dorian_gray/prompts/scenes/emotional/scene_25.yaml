@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Contemplative Figure in Transformed Landscape"
+  setting:
+    time: "Late Victorian London, golden hour weeks after resolution, 1880s"
+    location: "Victorian West End artist's studio, duże wysokie pomieszczenie with ogromne okno sięgające od podłogi do sufitu overlooking starannie pielęgnowany ogród, wiktoriańska kamienica interior now serving as memorial and teaching space"
+    weather: "Perfect golden light streaming through windows, symbolic weather change showing hope and renewal"
+  characters:
+    - appearance: "Solitary contemplative figure - perhaps art critic, moral philosopher, or simply thoughtful observer - middle-aged person showing wisdom gained through witnessing or learning about recent moral drama, face showing understanding of complex relationship between beauty and morality"
+      clothing: "Simple, dignified clothing appropriate to scholarly or thoughtful person, no excessive aestheticism but also no rejection of beauty, showing balanced approach to art and morality"
+      position: "Standing contemplatively before the restored portrait, positioned to show both appreciation and understanding"
+      action: "Gazing thoughtfully at masterpiece while holding book or notes, perhaps teaching others about the moral lessons learned, showing contemplative appreciation that includes both aesthetic and ethical dimensions"
+  scene:
+    mainElements: "Masywna drewniana sztaluga displaying the Idealny promienny wizerunek młodzieńca painted in stylu akademickim z nutą romantyzmu in all its restored glory, przestrzeń otwarta now serving as place of learning and moral reflection, room transformed into memorial to both artistic achievement and moral warning"
+    details: "Głębokie czerwienie i złoto perskich dywanów now beautiful and clean, jedwabne zasłony moving gently in evening breeze, ciemne polerowane drewno mebli reflecting golden light, przybory malarskie arranged as memorial to departed artist, gipsowe odlewy antycznych rzeźb now serving as examples of classical beauty properly appreciated, fresh flowers placed as memorial offering, no text or letters visible"
+    background: "View of starannie pielęgnowany ogród through wielkie okno in perfect evening light, garden showing complete seasonal cycle suggesting time's passage and renewal, door opening to different light suggesting new possibilities and hope"
+    atmosphere: "Lasting feeling of contemplation and moral understanding, golden light creating atmosphere of wisdom and peace, sense of lessons learned and beauty properly appreciated, ciężki zapach róż now serving natural rather than excessive purpose, final emotional note showing art can serve moral purpose when properly understood, door opening to different light suggesting hope for future where beauty and morality can coexist, memorial atmosphere honoring both artistic achievement and moral truth"
+  composition:
+    cameraAngle: "Final wide shot showing contemplative figure in transformed space bathed in golden light"
+    focus: "Solitary figure representing wisdom gained, showing lasting emotional note of contemplative understanding"
+    depth: "Foreground: contemplative figure with book or teaching materials, middle ground: restored portrait as object of both aesthetic and moral contemplation, background: garden in golden light and door opening to hopeful future"

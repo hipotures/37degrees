@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Dill Arrives for Summer"
+  setting:
+    time: "1933, mid-morning, summer arrival day"
+    location: "Main residential street in Maycomb, Alabama during Great Depression, dusty dirt road with sidewalks, lined with Southern cottage-style homes"
+    weather: "Bright sunny morning, warm but not yet oppressive heat of afternoon"
+  characters:
+    - appearance: "Boy, 7 years old, very small for his age, snow-white hair that sticks up, large bright blue eyes"
+      clothing: "Clean white shirt, brown shorts, neat appearance from out of town"
+      position: "Standing in middle of dirt road with small suitcase at feet"
+      action: "Animated gestures when telling stories, energetic child movements"
+    - appearance: "Girl, 6-9 years old, small and slender build, short straight brown hair with bangs, expressive face with tomboyish features"
+      clothing: "Blue denim overalls, white cotton shirt, bare feet or simple brown shoes"  
+      position: "Running down porch steps toward new arrival"
+      action: "Energetic, active stance, quick movements, face bright with excitement"
+    - appearance: "Boy, 10-13 years old, tall and lean athletic build, short brown hair, serious expression, left arm shorter than right after injury"
+      clothing: "White cotton shirt, brown knee-length shorts, brown leather shoes"
+      position: "Following sister more cautiously down from porch"
+      action: "Straight posture becoming more thoughtful and reserved, curious but measuring new arrival"
+  scene:
+    mainElements: "Single-story wooden frame houses with deep front porches, old oak trees providing shade, uneven cracked sidewalks"
+    details: "Dust kicked up by children's movement, small battered suitcase containing Dill's belongings, morning shadows from oak trees, neighbors' houses in background with glimpses of other porches"
+    background: "Sleepy Southern town atmosphere, oppressive heat, dust in air, slow-paced life"
+    atmosphere: "Anticipation and excitement of summer friendship beginning, curiosity about outsider bringing new stories, promise of adventures to come"
+  composition:
+    cameraAngle: "Wide shot from elevated position showing street scene"
+    focus: "Three children meeting in middle of dusty street under oak tree shade"
+    depth: "Foreground: street dust and sidewalk, middle ground: children's meeting, background: houses with porches and more oak trees, no text or letters visible"

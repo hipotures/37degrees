@@ -1,0 +1,97 @@
+sceneDescription:
+  setting:
+    time: 1935, autumn evening, after all storms have passed
+    location: Small white wooden frame house on main street Maycomb Alabama, typical Southern cottage with deep front porch
+    weather: Cool peaceful autumn evening, first hint of coming change of seasons
+  characters:
+  - appearance: Man, late 40s, tall and thin build, graying brown hair, wire-rimmed glasses, dignified weathered face
+    clothing: Dark three-piece suit, white dress shirt, dark tie, black leather shoes
+    position: Sitting in familiar rocking chair on porch, book in lap
+    action: Calm, measured movements, removes glasses when concentrating
+  - appearance: Girl, 6-9 years old, small and slender build, short straight brown hair with bangs, expressive face with tomboyish
+      features
+    clothing: Blue denim overalls, white cotton shirt, bare feet or simple brown shoes
+    position: Curled up peacefully in father's lap, head against his chest
+    action: Sleepy but content, listening to father's voice reading story
+  - appearance: Boy, 10-13 years old, tall and lean athletic build, short brown hair, serious expression, left arm shorter
+      than right after injury
+    clothing: White cotton shirt, brown knee-length shorts, brown leather shoes
+    position: Sitting quietly on porch steps, arm still healing but stronger
+    action: More mature after trials, protective of family peace
+  scene:
+    mainElements: Clean well-maintained family home, refuge of stability and moral guidance
+    details: Return to familiar evening ritual of reading together, family healed from trauma, wisdom earned through suffering,
+      porch light creating circle of safety and love
+    background: White painted wood siding, green shutters, wide porch with swing and rocking chairs, central hallway layout
+    atmosphere: Hard-won peace after storm, family bonds strengthened by trials, hope for better future despite past sorrows
+  composition:
+    cameraAngle: Warm medium shot from front yard showing porch scene
+    focus: Father reading to children in golden circle of porch light
+    depth: 'Foreground: peaceful autumn evening settling over neighborhood, middle ground: family reading together in safety,
+      background: house glowing with warmth and love, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - '#2B2B2B'
+    - '#4A4A4A'
+    - '#6B6B6B'
+    - '#8C8C8C'
+    - '#ADADAD'
+    - '#CECECE'
+    - '#F0F0F0'
+    secondary:
+    - '#FFFFFF'
+    - '#1A1A1A'
+    background: white or off-white paper
+    usageNotes: Monochromatic grayscale only. Use varying shades for depth
+    saturation: none
+    contrast: medium to high
+  lineArt:
+    style: organic, hand-drawn
+    weight: variable (0.5-3px)
+    color: grayscale
+    texture: rough, sketchy with visible breaks
+    edgeTreatment: natural variations, multiple overlapping strokes
+  lighting:
+    type: traditional shading
+    direction: typically top-left
+    intensity: varies with pressure
+    shadows:
+      style: crosshatching and scribbling
+      color: darker graphite tones
+      opacity: built up through layering
+    highlights: paper showing through or eraser marks
+  rendering:
+    technique: traditional pencil on paper
+    texture: visible paper grain and tooth
+    detailLevel: varies from loose to highly detailed
+    finish: intentionally incomplete with visible process
+  perspective: traditional drawing perspectives
+  mood:
+    overall: artistic, unfinished, spontaneous
+    emotion: raw, authentic, contemplative
+    tempo: calm, thoughtful
+    keywords:
+    - artistic
+    - raw
+    - authentic
+    - traditional
+    - sketchy
+  postProcessing:
+    effects:
+    - paper texture
+    - graphite smudging
+    filters: none
+    adjustments:
+      saturation: '0'
+      contrast: natural pencil contrast
+  stylePrecedents:
+  - Leonardo da Vinci sketches
+  - Academic drawing studies
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

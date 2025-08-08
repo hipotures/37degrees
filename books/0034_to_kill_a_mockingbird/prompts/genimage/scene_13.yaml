@@ -1,0 +1,102 @@
+sceneDescription:
+  setting:
+    time: 1934, summer afternoon, family reorganization
+    location: Small white wooden frame house on main street Maycomb Alabama, typical Southern cottage with deep front porch
+    weather: Hot summer day, oppressive heat building
+  characters:
+  - appearance: White woman, 50s, imposing solid build like royalty, stern expression, wire-rimmed glasses
+    clothing: Proper dark dress with corset, petticoats, elegant but severe Southern lady attire
+    position: Standing on front porch with traveling bags, surveying her new domain
+    action: Rigid upright posture, commanding presence, formal movements
+  - appearance: Girl, 6-9 years old, small and slender build, short straight brown hair with bangs, expressive face with tomboyish
+      features
+    clothing: Blue denim overalls, white cotton shirt, bare feet or simple brown shoes
+    position: Hiding behind porch post, peering around at stern aunt
+    action: Defensive posture, clearly uncomfortable with new authority figure
+  - appearance: Boy, 10-13 years old, tall and lean athletic build, short brown hair, serious expression, left arm shorter
+      than right after injury
+    clothing: White cotton shirt, brown knee-length shorts, brown leather shoes
+    position: Standing formally at attention on porch steps
+    action: Trying to make good impression, straightening posture
+  - appearance: Man, late 40s, tall and thin build, graying brown hair, wire-rimmed glasses, dignified weathered face
+    clothing: Dark three-piece suit, white dress shirt, dark tie, black leather shoes
+    position: Greeting sister with reserved politeness
+    action: Calm, measured movements, slight tension about family intrusion
+  scene:
+    mainElements: Clean well-maintained family home, refuge of stability and moral guidance
+    details: Formal introduction of stern aunt into previously relaxed household, traveling trunk and formal luggage disrupting
+      casual atmosphere, children's apprehension about new rules and expectations
+    background: White painted wood siding, green shutters, wide porch with swing and rocking chairs, central hallway layout
+    atmosphere: Family dynamics shifting under pressure, children's freedom being constrained, preparation for difficult times
+      ahead
+  composition:
+    cameraAngle: Medium shot from front yard showing porch scene
+    focus: Aunt Alexandra's imposing arrival with family adjusting to presence
+    depth: 'Foreground: formal luggage and traveling items, middle ground: family meeting on porch, background: house interior
+      showing disrupted domestic routine, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - '#2B2B2B'
+    - '#4A4A4A'
+    - '#6B6B6B'
+    - '#8C8C8C'
+    - '#ADADAD'
+    - '#CECECE'
+    - '#F0F0F0'
+    secondary:
+    - '#FFFFFF'
+    - '#1A1A1A'
+    background: white or off-white paper
+    usageNotes: Monochromatic grayscale only. Use varying shades for depth
+    saturation: none
+    contrast: medium to high
+  lineArt:
+    style: organic, hand-drawn
+    weight: variable (0.5-3px)
+    color: grayscale
+    texture: rough, sketchy with visible breaks
+    edgeTreatment: natural variations, multiple overlapping strokes
+  lighting:
+    type: traditional shading
+    direction: typically top-left
+    intensity: varies with pressure
+    shadows:
+      style: crosshatching and scribbling
+      color: darker graphite tones
+      opacity: built up through layering
+    highlights: paper showing through or eraser marks
+  rendering:
+    technique: traditional pencil on paper
+    texture: visible paper grain and tooth
+    detailLevel: varies from loose to highly detailed
+    finish: intentionally incomplete with visible process
+  perspective: traditional drawing perspectives
+  mood:
+    overall: artistic, unfinished, spontaneous
+    emotion: raw, authentic, contemplative
+    tempo: calm, thoughtful
+    keywords:
+    - artistic
+    - raw
+    - authentic
+    - traditional
+    - sketchy
+  postProcessing:
+    effects:
+    - paper texture
+    - graphite smudging
+    filters: none
+    adjustments:
+      saturation: '0'
+      contrast: natural pencil contrast
+  stylePrecedents:
+  - Leonardo da Vinci sketches
+  - Academic drawing studies
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

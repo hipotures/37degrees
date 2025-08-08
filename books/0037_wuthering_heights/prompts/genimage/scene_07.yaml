@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: Late Georgian period Yorkshire, high noon with sun directly overhead, shadows minimal and vertical
+    location: Vast open rolling heathland between the two houses, wild untamed moorland stretching for miles, covered in heather
+      that blooms purple-pink in late summer, scattered with moss-covered boulders and peat bogs, few gnarled trees shaped
+      by wind
+    weather: Blazing summer heat, harsh bright sunlight, shimmering air over hot ground
+  characters:
+  - appearance: Dark-skinned boy resembling Gypsy, 7-16 years old, black wild eyes, thick black hair, somewhat neglected and
+      dirty appearance. Short height for age, thin build from poor care, hard expression despite youth
+    clothing: Simple rough servant's clothes, often torn and worn, brown wool shirt, patched knee-length breeches, no shoes
+      or rough leather boots, garments too large or too small
+    position: Seeking shade under twisted hawthorn tree, squinting against brightness
+    action: Shielding eyes from glaring sun with raised hand, body language showing discomfort from heat and exposure
+  scene:
+    mainElements: Purple blooming heather bleached to pale colors in harsh sunlight, moss-covered boulders creating small
+      patches of shadow, completely open landscape to sky with no shelter from blazing sun, heat shimmer distorting distant
+      views
+    details: Merciless overhead sun bleaches heather colors to pale purples and browns, rocky outcrops provide minimal shade
+      patches, heat creates shimmering waves above warming stones and earth, few gnarled trees shaped by wind offer scant
+      protection, vegetation appears wilted in blazing heat, no text or letters visible
+    background: Rolling moorland extending indefinitely, distant hills wavering in heat haze, cloudless pale blue sky
+    atmosphere: Overwhelming heat and exposure, sense of vulnerability in vast open space, air carries scents of hot stone
+      and dry vegetation, atmosphere of harsh natural forces and endurance required
+  composition:
+    cameraAngle: Wide shot emphasizing vast open space under blazing sun
+    focus: Small figure seeking shade, emphasizing human vulnerability against harsh environment
+    depth: Foreground sun-bleached heather and rocks, middle ground figure under tree, background shimmering moorland vista
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

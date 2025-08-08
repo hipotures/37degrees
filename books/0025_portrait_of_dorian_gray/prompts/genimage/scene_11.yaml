@@ -1,0 +1,100 @@
+sceneDescription:
+  setting:
+    time: Late Victorian London, bright morning after transformation, 1880s
+    location: Nędzna dziura and tandetny przybytek in East End London, third-rate theater serving working-class audience but
+      transformed by magical presence
+    weather: Surprising burst of sunlight breaking through urban gloom
+  characters:
+  - appearance: Young man, 20 years old, smukły build, pełen wdzięku, kędzierzawe złote włosy framing face in rebellious locks,
+      szczere niebieskie oczy now blazing with new intensity and excitement, klasyczna owalna twarz z rysami made of kości
+      słoniowej i płatków róży, finely curved szkarłatne usta curved in triumphant smile, brak jakichkolwiek skaz, absolutna
+      doskonała uroda enhanced by inner fire
+    clothing: 'Nienaganny strój dandysa: perfectly tailored garments worn with new confidence and swagger, jedwabna kamizelka,
+      luksusowe dodatki displayed with conscious pride, kwiat w butonierce chosen for dramatic effect'
+    position: Standing with arms partially raised in gesture of triumph and discovery, body language showing complete confidence
+      and joy
+    action: Moving with studiowane teatralne movements now fully embraced, gesturing with complete self-assurance, showing
+      no trace of previous uncertainty, embodying moment of pure aesthetic and sensual triumph
+  - appearance: Young woman, 17 years old, drobna delikatna build, ciemnobrązowe włosy upięte w warkocze, fioletowe oczy shining
+      with joy and artistic passion, twarz podobna do kwiatu with mała grecka głowa and radiant expression of happiness and
+      love
+    clothing: Elaborate kostiumy bohaterek Szekspira, ethereal theatrical costume that transforms her from ordinary girl into
+      goddess of art
+    position: On stage in theatrical pose of pure artistic triumph, elevated above mundane surroundings
+    action: Performing with complete artistic transformation, handling rekwizyty teatralne including kwiaty with magical grace,
+      radiating pure artistic joy and love
+  scene:
+    mainElements: Tandetny theater miraculously transformed by power of true art, kiczowate i przesadnie zdobione surroundings
+      somehow made beautiful by magical performance, stage elevated above mundane reality
+    details: Wielki płonący żyrandol looking jak gigantyczna dalia z płatkami żółtego ognia now seeming magnificent rather
+      than gaudy, syczące i migoczące lampy gazowe creating magical theatrical lighting, gipsowe ornamenty w kształcie Kupidynów
+      i rogów obfitości appearing classical and beautiful in transformed atmosphere, no text or letters visible
+    background: Widownia składająca się głównie z przedstawicieli klas niższych transfixed by magical performance, okropnej
+      orkiestry prowadzonej przez młodego Hebrajczyka przy rozstrojonym pianinie somehow creating beautiful music
+    atmosphere: Maximum visual warmth and joy, complete aesthetic and emotional triumph, tandetny theater transformed into
+      temple of art by power of love and performance, sunlight breaking through urban shadows, sense of discovering perfect
+      beauty in unexpected place, moment of pure artistic and romantic ecstasy, transcendence of mundane reality through art
+      and love
+  composition:
+    cameraAngle: Medium shot capturing both earthbound lover and elevated performer in moment of mutual triumph
+    focus: Two figures experiencing peak of romantic and artistic joy, showing perfect harmony between observer and art
+    depth: 'Foreground: triumphant figure in audience, middle ground: transformed theatrical space, background: magical stage
+      performance elevated above reality'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues and violets
+    - gold and old gold
+    - dark greens
+    - blood red
+    secondary:
+    - pearl white
+    - ivory shades
+    - dark brown
+    background: dreamlike landscapes, dark interiors, undefined space
+    usageNotes: Colors build mood and have symbolic meaning, need not be realistic.
+    saturation: often muted, except for symbolic bright accents
+    contrast: medium to high, often with large dark areas
+  lineArt:
+    style: flowing, elegant contour, but often fading into darkness
+    weight: varied, from delicate to strong
+    color: integrated with color patches
+    texture: smooth, but rich in ornamental details
+    edgeTreatment: soft, often blurred edges
+  lighting:
+    type: mysterious, unnatural, often spotlights or inner glow
+    direction: undefined, building atmosphere of mystery
+    intensity: low, with dramatic bright points
+    shadows:
+      style: deep, soft, enveloping figures
+      color: dark browns, violets, blues
+      opacity: heavy, impenetrable
+    highlights: luminous halos, magical glow, golden details
+  rendering:
+    technique: oil painting with attention to detail but soft modeling
+    texture: rich textures of fabrics, jewelry, feathers
+    detailLevel: high in symbolic details, background often simplified
+    finish: matte or satin, with shimmering accents
+  perspective: often flattened, decorative, subordinated to symbolic composition
+  mood:
+    overall: mysterious, atmospheric, literary
+    emotion: melancholy, longing, spirituality, unease
+    tempo: slow, contemplative
+    keywords:
+    - atmospheric
+    - mystical
+    - dreamlike
+    - symbolic
+    - decadent
+  stylePrecedents:
+  - Gustave Moreau
+  - Odilon Redon
+  - Arnold Böcklin
+  - Jacek Malczewski
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

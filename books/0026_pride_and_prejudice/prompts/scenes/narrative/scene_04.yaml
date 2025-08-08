@@ -1,0 +1,32 @@
+sceneDescription:
+  title: "The Meryton Assembly Ball"
+  setting:
+    time: "Early 19th century England, evening, early autumn"
+    location: "Small market town in Hertfordshire, walking distance from Longbourn"
+    weather: "Clear evening, warm indoors from dancing and candlelight"
+  characters:
+    - appearance: "Man, 24 years old, medium height, pleasant open face with wide genuine smile, light brown wavy hair slightly disheveled, cheerful hazel eyes, lean build, animated friendly expression"
+      clothing: "Dark evening coat with brass buttons, cream silk waistcoat, white cravat, dark breeches, white stockings, black dancing shoes, formal attire appropriate for ball"
+      position: "Center of ballroom leading a dance"
+      action: "Dancing gracefully with evident enjoyment, smiling warmly at his partner"
+    - appearance: "Woman, 22 years old, classically beautiful with perfect harmony of features, blonde hair arranged in elegant ringlets, serene blue eyes, tall graceful figure, flawless porcelain complexion, gentle sweet expression"
+      clothing: "Elegant pale pink silk ball gown with low neckline, short puffed sleeves, white gloves, pearl necklace and earrings, silk dancing slippers, hair adorned with small white flowers"
+      position: "Dancing as Bingley's partner in center of floor"
+      action: "Moving gracefully through dance steps with radiant smile"
+    - appearance: "Man, 28 years old, tall imposing height, handsome strong features, noble bearing, dark hair carefully styled in period fashion, serious expression that softens when genuinely pleased, athletic build from riding and outdoor activities, pale complexion typical of English gentleman"
+      clothing: "Impeccable black evening coat with silk lapels, white waistcoat, perfectly tied white cravat, black breeches, white stockings, polished black shoes, formal ball attire of highest quality"
+      position: "Standing alone against wall, observing the dancing"
+      action: "Watching the festivities with cold detached expression, refusing invitations to dance"
+    - appearance: "Woman, 20 years old, beautiful dark intelligent eyes with expressive gaze, light and pleasing figure, average height, not classically beautiful like her sister Jane but possessing striking charm, dark hair arranged in period-appropriate style with loose curls framing her face, healthy complexion that gains attractive rosy color after physical exertion"
+      clothing: "White muslin ball gown with green ribbon trim, modest neckline, short sleeves, white silk gloves, simple gold locket, white silk slippers, hair styled elegantly with small decorative combs"
+      position: "Seated with other ladies along wall, having overheard insulting comment"
+      action: "Looking directly at Darcy with flashing eyes and proud defiant expression"
+  scene:
+    mainElements: "Georgian town with main street lined with shops, coaching inn, assembly rooms for balls and social gatherings, modest houses for tradespeople and professional families, church with ancient graveyard, weekly market square"
+    details: "Assembly room decorated for ball with garlands of autumn flowers, musicians on small platform, couples dancing country dances, ladies in colorful gowns seated along walls, gentlemen in dark evening wear, servants carrying refreshments, candles and oil lamps providing golden lighting, festive but provincial atmosphere"
+    background: "Other dancing couples, musicians playing, refreshment table with punch bowl, townspeople in their finest attire"
+    atmosphere: "Busy provincial social life, gossip and news exchange, sounds of horses and carriages, mixture of commerce and genteel society"
+  composition:
+    cameraAngle: "Medium wide shot capturing both dancing couples and wall observers"
+    focus: "Contrast between animated dancers and proud solitary figures"
+    depth: "Foreground: Elizabeth with defiant expression; middle ground: dancing couples; background: musicians and other guests, no text or letters visible"

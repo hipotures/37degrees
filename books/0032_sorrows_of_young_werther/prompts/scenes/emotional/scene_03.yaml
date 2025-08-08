@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Solitary Contentment - Finding Peace in Poetry"
+  setting:
+    time: "1771 May, late afternoon, warm golden sunlight"
+    location: "Gentle grassy hilltop overlooking Wahlheim valley, two ancient massive linden trees providing deep shade, small rural church and graveyard at base"
+    weather: "Perfect spring day with gentle warmth, soft breeze stirring linden leaves"
+  characters:
+    - appearance: "Young man, 24 years old, slender athletic build, average height, expressive dark eyes, dark brown hair gathered simply at the nape with a black ribbon, clean-shaven with sharp jawline, intensely emotional facial expressions capable of extreme joy and deep melancholy"
+      clothing: "Iconic blue woolen frock coat with brass buttons, bright yellow silk waistcoat, cream-colored knee-length breeches, white linen shirt with ruffled jabots, white silk stockings, brown leather riding boots with small heel and brass buckle"
+      position: "Lying comfortably on grass beneath linden trees, propped against massive trunk"
+      action: "Reading Homer's Odyssey with absorbed concentration, occasionally pausing to gaze across valley with dreamy expression, completely relaxed in natural solitude, turning pages with reverent care"
+  scene:
+    mainElements: "Two enormous linden trees with spreading crowns and thick gnarled trunks, simple wooden bench beneath trees, panoramic view across valley with patchwork fields and distant forests, small stone church with bell tower"
+    details: "Ancient linden trees create cathedral of living architecture with their interwoven branches, dappled sunlight filters through heart-shaped leaves casting moving shadows on grass, leather-bound Homer lies open revealing dense text in classical Greek, distant patchwork of green and gold fields stretches toward blue hills, church bell tower rises from small graveyard with weathered headstones, scent of linden blossoms fills warm air, bees hum among flowers overhead, no text or letters visible except in book pages"
+    background: "Wahlheim village nestled in valley below appears miniature and peaceful, rolling countryside extends in all directions with forests and farmland, distant mountains form blue horizon line"
+    atmosphere: "Deep personal contentment and harmony with nature, intellectual pleasure combined with sensual enjoyment of beauty, perfect solitude without loneliness, classical serenity and timeless peace, soul in perfect equilibrium"
+  composition:
+    cameraAngle: "Medium shot from ground level showing figure in natural setting"
+    focus: "Young man in perfect harmony reading beneath ancient trees with expansive view"
+    depth: "Foreground: figure and book under linden shade, middle ground: hilltop and church below, background: valley vista stretching to distant mountains"

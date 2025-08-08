@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Matylda's revelation changes everything"
+  setting:
+    time: "1820s France during Bourbon Restoration, morning after passionate encounter"
+    location: "Elegant private boudoir within aristocratic mansion (hôtel particulier) in prestigious Faubourg Saint-Germain district of Paris"
+    weather: "Bright morning sunlight"
+  characters:
+    - appearance: "Young woman age 19-20, described as beautiful with intelligent expressive face often showing disdain, boredom or ironic distance, slender proud bearing typical of aristocracy"
+      clothing: "Elegant morning dress with characteristic puffy sleeves, hair somewhat disheveled from night, holding herself with new dignity and determination"
+      position: "Standing by tall window looking out at garden"
+      action: "Announcing her pregnancy with mixture of pride and defiant courage"
+    - appearance: "Young man, age 19-23, short stature with small, slender build almost feminine in delicacy, dark chestnut hair worn slightly longer in 1820s style, large expressive black eyes, regular delicate facial features with aquiline nose, extremely pale complexion that turns bright red easily under emotional stress"
+      clothing: "Black clerical/secretary attire - simple black frock coat, white linen shirt with high stiff collar, dark trousers, plain black shoes"
+      position: "Standing near door, frozen in shock and disbelief"
+      action: "Reacting with terror and amazement to life-changing news that threatens everything he has gained"
+  scene:
+    mainElements: "Feminine boudoir with elegant furnishings, ornate mirror reflecting morning light, delicate furniture upholstered in silk, writing desk with silver accessories, Persian carpet on polished floor"
+    details: "Morning sunlight streaming through lace curtains creating patterns on carpet, scent of expensive perfume and fresh flowers in crystal vase, sound of Parisian street life beginning below, elegant silver-backed hairbrushes and toiletries on dressing table"
+    background: "View through windows of mansion gardens and neighboring aristocratic residences, doorway leading to corridors where servants might overhear"
+    atmosphere: "Moment of absolute crisis and transformation, aristocratic pregnancy threatening social scandal, Julian's realization that his carefully planned advancement is now beyond his control, mixture of triumph and terror at consequences"
+  composition:
+    cameraAngle: "Medium shot capturing both characters' emotional reactions"
+    focus: "Contrast between Matylda's proud determination and Julian's shocked paralysis"
+    depth: "Matylda at window in foreground, Julian near door in middle ground, elegant boudoir details in background, no text or letters visible"

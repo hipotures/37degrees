@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Bingley's Sudden Departure from Netherfield"
+  setting:
+    time: "Early 19th century England, morning, early winter"
+    location: "Grand rented estate in Hertfordshire, three miles from Longbourn"
+    weather: "Cold gray morning with frost on the ground"
+  characters:
+    - appearance: "Man, 24 years old, medium height, pleasant open face with wide genuine smile, light brown wavy hair slightly disheveled, cheerful hazel eyes, lean build, animated friendly expression"
+      clothing: "Heavy traveling coat over morning dress, leather gloves, boots suitable for journey, beaver hat, scarf against cold"
+      position: "Standing beside loaded carriage in front of mansion"
+      action: "Looking back at Netherfield with reluctant expression, clearly torn about leaving"
+    - appearance: "Man, 28 years old, tall imposing height, handsome strong features, noble bearing, dark hair carefully styled in period fashion, serious expression that softens when genuinely pleased, athletic build from riding and outdoor activities, pale complexion typical of English gentleman"
+      clothing: "Dark blue wool traveling coat with multiple capes, leather gloves, black boots, beaver hat, formal traveling attire of highest quality"
+      position: "Already seated inside the carriage"
+      action: "Sitting stiffly with composed but determined expression, clearly the driving force behind departure"
+    - appearance: "Fashionably dressed woman in traveling attire"
+      clothing: "Elegant traveling dress with fur-trimmed pelisse, elaborate bonnet, leather gloves"
+      position: "Being assisted into carriage by footman"
+      action: "Stepping into carriage with satisfied expression, pleased to be leaving provincial society"
+  scene:
+    mainElements: "Large Palladian mansion with imposing columned facade, extensive manicured grounds, formal gardens, grand entrance hall with marble floors, elegant drawing rooms with high ceilings, modern furnishings in latest Regency style, everything pristine and fashionable"
+    details: "Elegant traveling carriage with matched horses, trunks and baggage loaded on top and behind, liveried servants loading final items, frost covering perfectly manicured lawns, bare trees in winter garden, mansion looking cold and abandoned despite grandeur, signs of hasty departure"
+    background: "Netherfield mansion with some windows already shuttered, grounds showing signs of reduced activity, other servants watching departure"
+    atmosphere: "Wealthy sophistication, formal entertaining spaces, slight coldness of new money attempting elegance, sounds of servants maintaining perfection"
+  composition:
+    cameraAngle: "Wide shot showing carriage departure with mansion in background"
+    focus: "Loaded carriage with Bingley's reluctant figure contrasted against grand but now empty mansion"
+    depth: "Foreground: carriage and departure activity; middle ground: reluctant Bingley; background: Netherfield mansion being abandoned, no text or letters visible"

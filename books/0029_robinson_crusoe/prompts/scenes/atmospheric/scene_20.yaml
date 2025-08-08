@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Star-Filled Night of English Ship Arrival"
+  setting:
+    time: "December 19, 1686, starry night sky over landscape with unusual nocturnal activity"
+    location: "Island shoreline with view of anchored English merchant vessel offshore"
+    weather: "Perfectly clear night with brilliant stars, calm seas, ideal visibility"
+  characters:
+    - appearance: "Mężczyzna, wiek od 27 do 55 lat, postawny i muskularny, ogorzały od słońca, długie niestrzyżone włosy, długa gęsta broda przystrzyżona w tureckie wąsy mahometańskie, twarz poorana zmarszczkami od słońca, dziki barbarzyński wygląd"
+      clothing: "Kompletny strój z koziej skóry: wysoka stożkowata bezkształtna czapka z klapą chroniącą kark, krótka kurtka z koziej skóry z sierścią na zewnątrz sięgająca do połowy uda, spodnie z koziej skóry do kolan z długą sierścią zwisającą do półowy łydek, wysokie sznurowane buty z koziej skóry, szeroki pas z suszonej skóry"
+      position: "Standing on beach in starlight, staring in disbelief at anchored ship"
+      action: "Experiencing overwhelming emotion at sight of rescue vessel after 28 years, barely able to believe salvation is at hand"
+    - appearance: "Młody mężczyzna, wiek około 26 lat, wysoki i zgrabny o doskonale zbudowanej wysportowanej sylwetce, skóra o jasnym oliwkowym odcieniu, długie czarne proste włosy, żywe błyskotliwe ciemne oczy, okrągła twarz o rysach określanych jako europejskie, mały nos, cienkie usta, zęby białe jak kość słoniowa"
+      clothing: "Początkowo nagi, później ubrany przez Crusoe: lniane spodnie, kaftan z koziej skóry, czapka ze skóry zająca"
+      position: "Standing beside Crusoe, equally amazed by sight of civilized vessel"
+      action: "Sharing in master's joy while uncertain about his own future, loyal support in this momentous occasion"
+  scene:
+    mainElements: "English merchant vessel anchored offshore with lanterns glowing like stars on water, small boat visible being rowed toward shore, pristine beach under brilliant starlight"
+    details: "Brilliant star-filled sky creating celestial dome over scene, ship's lanterns reflecting on calm water surface creating dancing light paths, gentle waves lapping shore in rhythm, three-masted vessel clearly visible in starlight showing civilized human engineering, small rowboat approaching with armed men, complete silence except for water sounds and distant voices from ship"
+    background: "Endless ocean under star-filled dome of sky, island landscape dark but peaceful, ship representing connection to lost world of civilization"
+    atmosphere: "Miraculous moment of rescue after decades of isolation, mixture of joy and disbelief, end of one chapter and beginning of another, beauty of starlit night adding magical quality to life-changing event"
+  composition:
+    cameraAngle: "Wide shot showing figures on beach with ship offshore under starlit sky"
+    focus: "Two figures silhouetted against starlit water, ship visible as beacon of civilization and rescue"
+    depth: "Foreground: beach sand and gentle waves, Middle: figures watching ship, Background: anchored vessel under brilliant stars, no text or letters visible"

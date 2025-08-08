@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: 1840s Missouri, late night after storm has passed
+    location: Aunt Polly's house, Tom peering through window into kitchen
+    weather: Clear night after storm, cool air with lingering moisture, bright stars
+  characters:
+  - appearance: Boy, 12-13 years old, muddy and bedraggled from island adventure, intense curiosity mixed with guilt
+    clothing: Filthy, torn clothes from storm and outdoor living, barefoot with muddy feet
+    position: Crouched beneath kitchen window, peering through gap in curtains
+    action: Spying on family gathered in mourning, torn between revealing himself and maintaining deception
+  - appearance: Woman, 50-60 years old, gray hair disheveled from grief, eyes red from weeping
+    clothing: Black mourning dress, usually neat appearance now neglected from sorrow
+    position: Sitting at kitchen table with head in hands
+    action: Weeping inconsolably, occasionally looking up to speak of lost boy with broken voice
+  - appearance: Teenage girl, kind face streaked with tears, attempting to comfort elder
+    clothing: Simple dark dress appropriate for mourning period
+    position: Standing beside seated woman, hand on shoulder
+    action: Offering gentle comfort, preparing tea, speaking softly about boy's good qualities
+  - appearance: Younger boy, 9 years old, unusual sadness replacing typical smugness
+    clothing: Dark clothes for mourning, uncharacteristically subdued appearance
+    position: Sitting quietly at table edge
+    action: For once not tattling or boasting, genuinely missing his brother despite their conflicts
+  scene:
+    mainElements: Warm kitchen lit by oil lamp, family gathered in grief around wooden table, empty chair where boy usually
+      sits
+    details: Tearstained handkerchiefs, untouched food showing loss of appetite, family Bible open to comfort passages, boy's
+      belongings visible on shelf, no text or letters visible
+    background: Cozy domestic interior contrasting with wild outdoor adventure, familiar household objects made precious by
+      potential loss
+    atmosphere: Profound family grief, boy discovering how much he's truly loved, guilt over causing pain to innocent people
+  composition:
+    cameraAngle: Split composition showing hidden boy outside and mourning family inside
+    focus: Emotional impact of seeing loved ones' genuine grief, cost of selfish adventure
+    depth: 'Foreground: boy hidden in darkness outside window, middle ground: grieving family in lamp-lit kitchen, background:
+      familiar domestic setting made poignant by absence'
+visualElements:
+  colorPalette:
+    primary:
+    - bold red
+    - navy blue
+    - black
+    secondary:
+    - yellow
+    - green
+    - skin tone
+    background: skin tone or simple background
+    usageNotes: Limited palette designed for skin application
+    saturation: high (bold, vibrant colors)
+    contrast: very high (bold black outlines)
+  lineArt:
+    style: very bold, thick black outlines
+    weight: heavy, consistent thickness
+    color: solid black
+    texture: smooth, solid lines
+    edgeTreatment: rounded ends, smooth curves
+  lighting:
+    type: flat lighting with minimal shading
+    direction: even, front-lit
+    intensity: consistent
+    shadows:
+      style: simple solid color shadows
+      color: darker version of base color
+      opacity: solid
+    highlights: minimal, solid color highlights
+  rendering:
+    technique: simplified, iconic representation
+    texture: smooth, flat colors
+    detailLevel: moderate (clear iconic details)
+    finish: flat, bold appearance
+  perspective: simple, frontal views
+  mood:
+    overall: bold, iconic, maritime
+    emotion: strength, tradition, pride
+    tempo: strong, classic
+    keywords:
+    - bold
+    - iconic
+    - traditional
+    - maritime
+    - strong
+  stylePrecedents:
+  - Sailor Jerry Collins tattoos
+  - Norman Collins flash sheets
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

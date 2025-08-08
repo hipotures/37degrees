@@ -1,0 +1,93 @@
+sceneDescription:
+  setting:
+    time: Early 19th century England, evening, early spring
+    location: Aristocratic estate in Kent, southeast England near village of Hunsford
+    weather: Cool spring evening with formal interior lighting
+  characters:
+  - appearance: Woman, over 60 years old, tall imposing figure, sharp severe facial features, cold calculating eyes, gray
+      hair in elaborate formal arrangement, commanding presence, austere expression
+    clothing: Rich but outdated formal dress in dark colors, heavy brocade fabric, elaborate jewelry including family gems,
+      lace cap with ribbons, expensive but old-fashioned style
+    position: Seated regally in ornate chair beside massive fireplace
+    action: Speaking imperiously while examining Elizabeth with critical condescending gaze
+  - appearance: Woman, 20 years old, beautiful dark intelligent eyes with expressive gaze, light and pleasing figure, average
+      height, not classically beautiful like her sister Jane but possessing striking charm, dark hair arranged in period-appropriate
+      style with loose curls framing her face, healthy complexion that gains attractive rosy color after physical exertion
+    clothing: Best evening dress in deep purple silk, simple jewelry appropriate for evening but modest compared to surroundings,
+      white gloves, hair arranged elegantly
+    position: Standing respectfully but not submissively before Lady Catherine
+    action: Answering questions with polite dignity, refusing to be intimidated despite obvious social difference
+  - appearance: Man, 25 years old, tall heavy-looking build, ungainly movements, serious pompous expression, thin hair, forgettable
+      features, formal grave manner
+    clothing: Best black evening attire befitting clergyman, carefully brushed and arranged for presentation to patroness
+    position: Standing nervously to one side, clearly anxious about impression being made
+    action: Bowing repeatedly and making obsequious comments about Lady Catherine's graciousness
+  scene:
+    mainElements: Massive Jacobean mansion with ornate facade, extensive formal gardens with geometric patterns, imposing
+      stone entrance with heraldic decorations, grand but oppressive interior with dark heavy furnishings, everything designed
+      to intimidate and display wealth
+    details: Grand drawing room with towering ceiling, massive portraits of ancestors in gilt frames, heavy carved furniture
+      upholstered in rich fabrics, enormous fireplace with ornate mantelpiece, crystal chandeliers providing formal lighting,
+      everything arranged to emphasize hierarchy and power
+    background: Ornate room extending into shadows, other formal furniture, suggestion of vast mansion beyond
+    atmosphere: Cold aristocratic grandeur, intimidating formality, sounds of servants moving quietly, overwhelming display
+      of inherited power and wealth
+  composition:
+    cameraAngle: Wide shot emphasizing scale of room and social hierarchy
+    focus: Lady Catherine's commanding presence contrasted with Elizabeth's dignified independence
+    depth: 'Foreground: Elizabeth standing with quiet dignity; middle ground: Lady Catherine in position of authority; background:
+      oppressive grandeur of aristocratic interior, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

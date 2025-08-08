@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Elizabeth's Transformative Visit to Pemberley"
+  setting:
+    time: "Early 19th century England, afternoon, midsummer"
+    location: "Beautiful estate in Derbyshire Peak District, northern England"
+    weather: "Perfect summer afternoon with golden sunshine"
+  characters:
+    - appearance: "Woman, 20 years old, beautiful dark intelligent eyes with expressive gaze, light and pleasing figure, average height, not classically beautiful like her sister Jane but possessing striking charm, dark hair arranged in period-appropriate style with loose curls framing her face, healthy complexion that gains attractive rosy color after physical exertion"
+      clothing: "Elegant traveling dress in soft lavender silk suitable for summer touring, matching pelisse, white gloves, bonnet with ribbons, comfortable walking shoes"
+      position: "Standing in portrait gallery before painting of Darcy"
+      action: "Gazing up at portrait with wonder and newfound understanding, her expression showing complete transformation in her feelings"
+    - appearance: "Elderly woman, neat gray hair, kind weathered face, simple dignity"
+      clothing: "Housekeeper's dress in dark wool with white apron and cap, practical but respectable attire"
+      position: "Standing beside Elizabeth, proudly indicating the portrait"
+      action: "Speaking with evident affection and pride about her master, her warmth revealing Darcy's true character"
+    - appearance: "Middle-aged gentleman and lady in traveling attire"
+      clothing: "Respectable traveling clothes suitable for summer tour"
+      position: "Standing nearby, observing the grand interior with approval"
+      action: "Admiring the house with quiet appreciation, clearly impressed by taste and grandeur"
+  scene:
+    mainElements: "Elegant stone mansion perfectly proportioned, natural landscaped grounds with serpentine river, ancient oak trees, rolling green parkland, house positioned to complement natural beauty rather than dominate it, harmonious blend of architecture and landscape"
+    details: "Portrait gallery with tall windows overlooking park, family portraits lining walls, central portrait of Darcy showing him with genuine smile Elizabeth has never seen, elegant furnishings in perfect taste, everything speaking of refinement without ostentation, summer light streaming through windows creating warm atmosphere"
+    background: "View through windows of beautiful parkland with river and mature trees, suggestion of perfectly maintained estate"
+    atmosphere: "Perfect balance of grandeur and natural beauty, peaceful serenity, tasteful refinement without ostentation, sounds of flowing water and birdsong"
+  composition:
+    cameraAngle: "Medium shot emphasizing Elizabeth's revelation before the portrait"
+    focus: "Elizabeth's wonder as she sees Darcy's true character revealed through his home and servants' testimony"
+    depth: "Foreground: Elizabeth gazing at portrait; middle ground: kind housekeeper sharing insights; background: elegant interior reflecting true character, no text or letters visible"

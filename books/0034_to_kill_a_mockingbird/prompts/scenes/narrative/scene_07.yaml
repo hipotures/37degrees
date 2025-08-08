@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Quiet Evening Conversations"
+  setting:
+    time: "1933, summer evening after dinner, twilight hour"
+    location: "Small white wooden frame house on main street Maycomb Alabama, typical Southern cottage with deep front porch"
+    weather: "Cooling evening breeze, relief from day's heat, fireflies beginning to appear"
+  characters:
+    - appearance: "Man, late 40s, tall and thin build, graying brown hair, wire-rimmed glasses, dignified weathered face"
+      clothing: "Dark three-piece suit, white dress shirt, dark tie, black leather shoes"
+      position: "Sitting in porch swing, newspaper folded beside him"
+      action: "Calm, measured movements, removes glasses when concentrating"
+    - appearance: "Girl, 6-9 years old, small and slender build, short straight brown hair with bangs, expressive face with tomboyish features"
+      clothing: "Blue denim overalls, white cotton shirt, bare feet or simple brown shoes"
+      position: "Leaning against porch railing, facing father"
+      action: "Animated questioning gestures, pointing toward mysterious house down street"
+    - appearance: "Boy, 10-13 years old, tall and lean athletic build, short brown hair, serious expression, left arm shorter than right after injury"
+      clothing: "White cotton shirt, brown knee-length shorts, brown leather shoes"
+      position: "Sitting on porch steps, elbows on knees"
+      action: "Listening intently to father's words, absorbing moral lessons"
+  scene:
+    mainElements: "Clean well-maintained family home, refuge of stability and moral guidance"
+    details: "Warm yellow porch light creating intimate circle, rocking chairs and swing providing comfortable gathering place, children's questions about neighbors and local mysteries, father's patient explanations about human nature"
+    background: "White painted wood siding, green shutters, wide porch with swing and rocking chairs, central hallway layout"
+    atmosphere: "Peaceful domestic harmony, sense of security and love, moral authority of father figure, children learning about complex adult world"
+  composition:
+    cameraAngle: "Medium shot from front yard looking toward porch"
+    focus: "Father and children in circle of porch light having serious conversation"
+    depth: "Foreground: darkening yard with fireflies, middle ground: illuminated porch family scene, background: house with windows glowing softly, no text or letters visible"

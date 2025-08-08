@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Disrupted Patterns"
+  setting:
+    time: "Early 1910s, weekday evening at banking institution"
+    location: "Prestigious commercial bank in Central European city center after normal business hours, dim evening lighting"
+    weather: "Dusk settling over city with artificial lighting beginning"
+  characters:
+    - appearance: "Man, 30 years old, average height with lean build, dark brown hair neatly combed, intelligent face with regular features, clean-shaven with pale complexion, becoming increasingly gaunt and tired-looking as stress mounts, dark circles under eyes, nervous ticks developing"
+      clothing: "Well-tailored dark charcoal suit, crisp white shirt with high starched collar, conservative dark tie, polished leather shoes, black formal overcoat when outdoors, always impeccably dressed despite growing internal turmoil"
+      position: "Seated alone at desk in dimly lit office, leaning forward intently"
+      action: "Working late into evening hours, repeatedly glancing toward closed door, movements more nervous and distracted than usual, unable to concentrate fully on tasks"
+  scene:
+    mainElements: "Spacious main hall with high ceilings, marble floors, dark wood paneling, brass fixtures, K.'s private office with mahogany desk, green banker's lamp, telephone, filing cabinets"
+    details: "Empty bank building with only security lighting, protagonist's desk lamp creating pool of light in darkness, usual business sounds replaced by unsettling silence, familiar workspace feeling alien after hours, no text or letters visible"
+    background: "Institutional architecture that once represented security now looming ominously in partial darkness"
+    atmosphere: "Familiar professional environment transformed into strange and potentially threatening space, established routines no longer providing comfort or predictability"
+  composition:
+    cameraAngle: "Wide shot emphasizing isolation in large empty institutional space"
+    focus: "Contrast between former sense of professional security and new feeling of vulnerability"
+    depth: "Foreground: solitary figure working under single lamp, middle ground: empty office furniture in shadows, background: institutional architecture appearing more menacing in darkness"

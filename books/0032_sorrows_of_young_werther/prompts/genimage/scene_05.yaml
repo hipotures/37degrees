@@ -1,0 +1,102 @@
+sceneDescription:
+  setting:
+    time: 1771 June, late afternoon, golden pre-sunset light
+    location: Substantial half-timbered house in Wahlheim village center, home of local government commissioner, well-maintained
+      family residence with garden
+    weather: Perfect summer evening with warm golden light slanting through trees
+  characters:
+  - appearance: Young man, 24 years old, slender athletic build, average height, expressive dark eyes, dark brown hair gathered
+      simply at the nape with a black ribbon, clean-shaven with sharp jawline, intensely emotional facial expressions capable
+      of extreme joy and deep melancholy
+    clothing: Iconic blue woolen frock coat with brass buttons, bright yellow silk waistcoat, cream-colored knee-length breeches,
+      white linen shirt with ruffled jabots, white silk stockings, brown leather riding boots with small heel and brass buckle
+    position: Standing in village street fifteen paces from house, having just arrived
+    action: Frozen mid-step in complete wonder, hand unconsciously raised to chest, eyes wide with instant recognition of
+      profound beauty, breathing stopped in moment of revelation
+  - appearance: Young woman, 20 years old, medium height, graceful slender figure, striking black eyes, lively red lips, fresh
+      rosy cheeks, chestnut brown hair styled in simple elegant updo with loose curls framing her face, natural healthy complexion
+    clothing: Simple white cotton dress with fitted bodice and full skirt, bright pink silk ribbons at shoulders and across
+      the chest, white cotton cap with lace trim, simple brown leather shoes with small heel
+    position: Framed in open doorway of house, warm interior light behind her
+    action: Holding bread and knife naturally, unaware of being observed, focused on caring for siblings with unconscious
+      grace
+  - appearance: Eight children ranging from 3 to 16 years old, mix of boys and girls, healthy country children with rosy cheeks
+      and bright curious eyes, various shades of brown hair, simple clean faces
+    clothing: 'Simple homespun clothing: boys in linen shirts and woolen breeches, girls in cotton dresses with aprons, all
+      in muted earth tones, bare feet or simple wooden clogs'
+    position: Gathering around sister in doorway and on front steps
+    action: Reaching for bread with innocent hunger, chattering softly, completely at ease in their domestic paradise
+  scene:
+    mainElements: Two-story house with white plastered walls and dark timber framing, red tile roof, heavy wooden front door
+      with brass knocker, diamond-paned windows with wooden shutters, kitchen garden and fruit trees behind house
+    details: Golden evening light streams from house interior creating luminous aureole around young woman in doorway, half-timbered
+      architecture frames the domestic scene like theatrical backdrop, warm light from windows suggests comfort and security
+      within, children's voices create gentle musical background, scent of fresh bread mingles with evening flowers from garden,
+      observer's heart visibly racing with sudden recognition of perfect beauty, time seems suspended in moment of destiny,
+      no text or letters visible
+    background: Village street stretches away with neighboring houses in similar style, church spire catches last sunlight
+      above rooftops, fruit trees in evening light create dreamy pastoral setting
+    atmosphere: Fateful moment of love at first sight, time suspended between before and after, recognition of life-changing
+      beauty, perfect innocence unaware of its power, destiny beginning to unfold, emotional baseline about to shift forever
+  composition:
+    cameraAngle: Medium wide shot from observer's position capturing both watcher and watched
+    focus: Luminous figure in doorway unaware of transformative effect on solitary observer
+    depth: 'Foreground: observer in street overcome with wonder, middle ground: radiant domestic tableau in doorway, background:
+      village context dissolving into insignificance'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

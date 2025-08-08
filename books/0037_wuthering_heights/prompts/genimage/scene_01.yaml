@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: Late Georgian period Yorkshire, pre-dawn hours before sunrise, deep blue sky with last stars fading
+    location: Remote stone farmhouse from 1500s positioned on exposed Yorkshire hilltop, massive fortress-like structure with
+      thick walls built to withstand constant winds, narrow deep-set windows, surrounded by stunted fir trees and thorns bent
+      by prevailing winds
+    weather: Cold still air, mist rising from valleys, world holding its breath before dawn
+  characters:
+  - appearance: Dark-skinned boy resembling Gypsy, 7-16 years old, black wild eyes, thick black hair, somewhat neglected and
+      dirty appearance. Short height for age, thin build from poor care, hard expression despite youth
+    clothing: Simple rough servant's clothes, often torn and worn, brown wool shirt, patched knee-length breeches, no shoes
+      or rough leather boots, garments too large or too small
+    position: Standing silhouetted in narrow deep-set window opening
+    action: Gazing out at the misty moorland, body tense and alert like wild animal sensing approaching change
+  scene:
+    mainElements: Ancient stone house appears as dark bulk against starlit sky, narrow windows glowing faintly with interior
+      firelight, mist drifts across empty Yorkshire heathland stretching to horizon, single bird perched on gnarled branch
+      of wind-bent tree
+    details: Thick stone walls with small defensive windows create fortress-like silhouette, smoke rises straight up from
+      chimney in still air, frost glitters on stone sills and bare branches, few remaining stars pierce purple-blue sky above
+      rolling moorland, everything suspended in pre-dawn quietude, no text or letters visible
+    background: Vast moorland heathland extending for miles under clearing night sky, distant hills forming dark silhouettes
+      on horizon, scattered rocky outcrops barely visible in dim light
+    atmosphere: Profound silence and anticipation, sense of isolation and wildness, cold crisp air carries scent of frost
+      and peat, atmosphere of waiting and hidden potential
+  composition:
+    cameraAngle: Medium wide shot from outside house looking up at window
+    focus: Dark figure in window frame against glowing interior, contrasted against pale dawn sky
+    depth: Foreground frost-covered ground, middle ground stone house with lit window, background expansive moorland under
+      lightening sky
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

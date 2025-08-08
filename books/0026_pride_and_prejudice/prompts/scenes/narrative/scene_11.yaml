@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Elizabeth's Firm Refusal"
+  setting:
+    time: "Early 19th century England, morning, late autumn"
+    location: "English countryside manor house in Hertfordshire, 50 miles north of London"
+    weather: "Gray morning with pale light through windows"
+  characters:
+    - appearance: "Woman, 20 years old, beautiful dark intelligent eyes with expressive gaze, light and pleasing figure, average height, not classically beautiful like her sister Jane but possessing striking charm, dark hair arranged in period-appropriate style with loose curls framing her face, healthy complexion that gains attractive rosy color after physical exertion"
+      clothing: "Simple morning dress in pale green muslin, white fichu at neckline, hair arranged simply with small pins, house slippers, modest morning attire"
+      position: "Standing with dignified posture near window"
+      action: "Speaking with clear firm voice and resolute expression, hands clasped calmly, showing complete determination"
+    - appearance: "Man, 25 years old, tall heavy-looking build, ungainly movements, serious pompous expression, thin hair, forgettable features, formal grave manner"
+      clothing: "Black Anglican clergyman's coat and breeches, white clerical collar, black waistcoat, good quality but worn without style, black shoes with buckles"
+      position: "Standing in shocked confusion in center of room"
+      action: "Staring at Elizabeth with complete bewilderment, unable to comprehend such an unprecedented refusal"
+    - appearance: "Woman, 45-50 years old, medium height, plump figure from comfortable living, faded blonde hair arranged in elaborate style, anxious expression with frequent nervous gestures, still retains traces of former beauty"
+      clothing: "Overly ornate day dress in bright colors inappropriate for morning wear, excessive jewelry including multiple bracelets and rings, elaborate lace cap with ribbons, silk shawl draped dramatically"
+      position: "Visible through doorway, hovering anxiously"
+      action: "Wringing hands with desperate expression, clearly distressed by her daughter's rejection of security"
+  scene:
+    mainElements: "Red brick Georgian house built late 17th century, symmetrical facade with central entrance, white sash windows, steep slate roof, surrounded by well-maintained grounds with formal garden, shrubbery walks, small woods, comfortable but not grand estate showing minor wear from limited finances"
+    details: "Morning room with evidence of disrupted breakfast, overturned teacup suggesting emotional turmoil, window showing gray autumn garden, family portraits as silent witnesses to domestic crisis, furniture arranged for comfortable family use now scene of uncomfortable confrontation"
+    background: "Mother's anxious face visible in doorway, suggestion of other family members keeping distance from drama"
+    atmosphere: "Warm family home with lived-in comfort, busy domestic activity, sounds of multiple young women, mixture of refinement and casual informality"
+  composition:
+    cameraAngle: "Medium shot emphasizing Elizabeth's dignified stance versus Collins' confusion"
+    focus: "Elizabeth speaking with quiet dignity while Collins struggles to understand rejection"
+    depth: "Foreground: Elizabeth with firm resolve; middle ground: bewildered Collins; background: anxious mother in doorway, no text or letters visible"

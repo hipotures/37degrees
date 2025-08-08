@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: Late Georgian period Yorkshire, midday storm at full intensity, heavy downpour
+    location: Remote stone farmhouse from 1500s positioned on exposed Yorkshire hilltop, massive fortress-like structure with
+      thick walls built to withstand constant winds, narrow deep-set windows, surrounded by stunted fir trees and thorns bent
+      by prevailing winds
+    weather: Violent thunderstorm with torrential rain, powerful wind driving water against stone walls
+  characters:
+  - appearance: Tall athletic man, late 20s to 30s, dark Gypsy-like complexion, thick black hair and black side-whiskers,
+      deep-set black eyes described as fiery and wild, sharp angular features, face increasingly marked by suffering and hatred
+      with age
+    clothing: Well-cut gentleman's frock coat in dark colors, fitted waistcoat, long pantaloons, high riding boots, clothing
+      somewhat carelessly worn suggesting indifference to fashion, cravat tied with studied negligence
+    position: Standing at narrow window, watching storm fury outside
+    action: Observing violent weather with dark satisfaction, one hand pressed against stone window frame, expression reflecting
+      kinship with storm's power
+  scene:
+    mainElements: Central living room called 'the house' with enormous open fireplace providing contrast to storm outside,
+      narrow deep-set windows streaming with rain, massive oak dresser and furniture creating solid refuge from weather, thick
+      stone walls proving their defensive purpose
+    details: Torrential rain pounds against narrow windows creating rivers of water down glass, wind-driven rain strikes stone
+      walls with violent force, interior firelight flickers wildly as wind affects chimney draw, storm water overflows gutters
+      creating waterfalls from roof edges, ancient stone proves its weathering strength, no text or letters visible
+    background: Storm-lashed moorland barely visible through sheets of rain, landscape transformed into gray chaos of wind
+      and water
+    atmosphere: Violent natural power and primitive shelter, sense of storm as external manifestation of internal turbulence,
+      air filled with sound of driving rain and howling wind, atmosphere of elemental conflict and endurance
+  composition:
+    cameraAngle: Interior shot showing figure at rain-lashed window with fire-lit room behind
+    focus: Dark silhouette against streaming window with storm visible outside
+    depth: Foreground interior with firelight, middle ground figure at window, background storm-chaos visible through rain-streaked
+      glass
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

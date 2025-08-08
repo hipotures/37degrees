@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Homesickness Creeps into Paradise"
+  setting:
+    time: "1840s Missouri, evening of second day on Jackson Island"
+    location: "Campfire on sandy beach of Jackson Island, with view toward St. Petersburg"
+    weather: "Calm evening with first stars appearing, river breeze carrying sounds from distant town"
+  characters:
+    - appearance: "Boy, 12-13 years old, trying to maintain enthusiasm but showing signs of loneliness"
+      clothing: "Clothes now dirty and torn from outdoor life, bare chest from swimming"
+      position: "Sitting by fire, staring across water toward town lights"
+      action: "Telling pirate stories with forced cheerfulness while frequently glancing toward home"
+    - appearance: "Boy, 13-14 years old, genuinely content with outdoor life, comfortable with solitude"
+      clothing: "Ragged clothes perfectly suited to wild living, no homesickness visible"
+      position: "Lying on sand beside fire, smoking pipe contentedly"
+      action: "Listening to stories while completely relaxed, occasionally adding practical wilderness advice"
+    - appearance: "Third boy, 12-13 years old, openly melancholy and missing home comforts"
+      clothing: "Town clothes now severely damaged and unsuitable for outdoor life"
+      position: "Sitting apart from group, looking toward town with obvious longing"
+      action: "Sighing frequently, picking at food without appetite, making excuses to scout toward home shore"
+  scene:
+    mainElements: "Campfire burning low on beach, makeshift shelter of branches and canvas, fishing equipment, remnants of day's catch"
+    details: "Church bells faintly audible across water, town lights twinkling in distance, night sounds of river and forest, scattered camping gear showing wear, no text or letters visible"
+    background: "Mississippi River reflecting starlight, distant glow of St. Petersburg on Missouri shore, dense forest of island looming behind camp"
+    atmosphere: "Adventure losing its shine, pull of home and family becoming stronger, childhood responsibility conflicting with desire for freedom"
+  composition:
+    cameraAngle: "Medium wide shot showing campfire group with town lights in background"
+    focus: "Contrast between wild freedom and growing homesickness, reality setting in after initial excitement"
+    depth: "Foreground: dimming campfire with three boys around it, middle ground: river journey between island and home, background: distant town lights representing family and civilization"

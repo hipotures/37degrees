@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Mob at the Jail"
+  setting:
+    time: "1934, late night before trial, confrontation"
+    location: "Small brick jail building in Maycomb Alabama town center, single-story utilitarian structure"
+    weather: "Dark moonless night, heavy shadows, no breeze"
+  characters:
+    - appearance: "Man, late 40s, tall and thin build, graying brown hair, wire-rimmed glasses, dignified weathered face"
+      clothing: "Dark three-piece suit, white dress shirt, dark tie, black leather shoes"
+      position: "Sitting alone in folding chair outside jail entrance, reading newspaper"
+      action: "Calm, measured movements, removes glasses when concentrating"
+    - appearance: "Girl, 6-9 years old, small and slender build, short straight brown hair with bangs, expressive face with tomboyish features"
+      clothing: "Blue denim overalls, white cotton shirt, bare feet or simple brown shoes"
+      position: "Running from shadows toward group of threatening men"
+      action: "Breaking through hostile crowd, innocently trying to be polite"
+    - appearance: "Boy, 10-13 years old, tall and lean athletic build, short brown hair, serious expression, left arm shorter than right after injury"
+      clothing: "White cotton shirt, brown knee-length shorts, brown leather shoes"
+      position: "Following sister from hiding place, worried about her safety"
+      action: "Torn between protecting sister and obeying father's orders"
+  scene:
+    mainElements: "Simple brick construction, barred windows, bare light bulb on extension cord over entrance"
+    details: "Circle of harsh light from single bulb illuminating confrontation, group of angry farmers in work clothes and hats, children emerging from darkness into dangerous situation, tension of potential violence"
+    background: "Stark institutional building, tense during potential lynching scene"
+    atmosphere: "Deadly serious confrontation, mob mentality broken by child's innocence, democracy versus vigilante justice"
+  composition:
+    cameraAngle: "Wide shot showing jail entrance with all participants"
+    focus: "Scout breaking through circle of threatening men toward father"
+    depth: "Foreground: angry mob in work clothes, middle ground: Scout approaching Atticus in light circle, background: dark jail building with barred windows, no text or letters visible"

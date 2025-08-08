@@ -1,0 +1,32 @@
+sceneDescription:
+  title: "Heroes Return from the Depths"
+  setting:
+    time: "1840s Missouri, evening of rescue after days presumed dead"
+    location: "Main street of St. Petersburg, entire town gathered for celebration"
+    weather: "Clear evening with warm summer air, torches and lanterns illuminating celebration"
+  characters:
+    - appearance: "Boy, 12-13 years old, thin from ordeal but glowing with heroic status, freshly washed and bandaged"
+      clothing: "Clean clothes provided by rescuers, still showing signs of recent ordeal - bandaged feet, scratches on face and hands"
+      position: "Center of admiring crowd, standing tall despite exhaustion"
+      action: "Accepting praise and congratulations while modestly recounting cave adventure and rescue"
+    - appearance: "Girl, 12 years old, pale but recovering, golden braids neatly rebraided, wrapped in shawl"
+      clothing: "Fresh white dress replacing cave-destroyed clothes, looking fragile but alive"
+      position: "Seated in chair surrounded by concerned family members"
+      action: "Receiving gentle care from family while gazing gratefully at her rescuer"
+    - appearance: "Entire town population celebrating rescue"
+      clothing: "Sunday best despite evening hour, parents and children all participating in celebration"
+      position: "Filling main street, gathered around heroes and their families"
+      action: "Cheering, embracing families, lighting torches and lanterns, sharing in communal joy"
+    - appearance: "Distinguished gentleman, 50s, overcome with gratitude"
+      clothing: "Finest suit, formal appearance showing deep emotion"
+      position: "Standing beside rescued daughter, facing boy hero"
+      action: "Expressing profound gratitude, shaking hands formally while tears of relief flow"
+  scene:
+    mainElements: "Main street transformed into celebration venue, torches and lanterns creating festive lighting, crowds of relieved townspeople, rescued children as center of attention"
+    details: "Church bells ringing in distance, impromptu feast being prepared, children running with excitement, adults weeping with relief, flowers thrown in path, no text or letters visible"
+    background: "Familiar town buildings decorated with hastily hung bunting, American flag displayed prominently, windows glowing with candlelight"
+    atmosphere: "Communal celebration of miraculous survival, recognition of true heroism in child, entire community sharing in joy of rescue"
+  composition:
+    cameraAngle: "Wide shot capturing entire town celebration"
+    focus: "Community recognition of child hero, collective relief and joy at survival against impossible odds"
+    depth: "Foreground: rescued children receiving recognition and care, middle ground: celebrating townspeople filling street, background: familiar town buildings witnessing triumph"

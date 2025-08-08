@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Pirate Paradise on Jackson Island"
+  setting:
+    time: "1840s Missouri, early morning after escape from town"
+    location: "Sandy beach of Jackson Island, surrounded by dense forest and Mississippi River"
+    weather: "Beautiful clear morning with golden sunrise, warm summer air and gentle river breeze"
+  characters:
+    - appearance: "Boy, 12-13 years old, lean build, exhilarated expression, hair wild from night adventure"
+      clothing: "Everyday clothes now rumpled from sleeping outdoors - brown trousers, cotton shirt, barefoot"
+      position: "Standing on sandy shore with arms raised triumphantly toward sunrise"
+      action: "Breathing deeply of free air, performing victory dance, shouting with joy at successful escape"
+    - appearance: "Boy, 13-14 years old, completely at ease in natural setting, satisfied grin"
+      clothing: "Ragged clothing perfectly suited to outdoor life, torn hat at jaunty angle"
+      position: "Sitting beside newly built campfire, tending to cooking fish"
+      action: "Expertly managing fire and food preparation, smoking corn-cob pipe with contentment"
+    - appearance: "Third boy, 12-13 years old, amazed by natural surroundings but homesick expression flickering across face"
+      clothing: "Town clothes looking out of place in wilderness - getting dirty and torn"
+      position: "Exploring shoreline, collecting driftwood and interesting stones"
+      action: "Marveling at wildlife and river views while occasionally glancing toward distant town"
+  scene:
+    mainElements: "Three-mile-long wooded island with sandy beaches, dense forest of sycamores and willows, makeshift camp with driftwood shelter and fire pit"
+    details: "Fresh-caught fish cooking over fire, simple raft pulled up on beach, footprints in sand, scattered camping supplies, bird calls from forest, no text or letters visible"
+    background: "Mighty Mississippi River flowing on both sides, distant Missouri shore with St. Petersburg barely visible, Illinois shore across main channel"
+    atmosphere: "Ultimate boyhood fantasy fulfilled, freedom from all adult supervision, primitive life in harmony with nature"
+  composition:
+    cameraAngle: "Wide shot showing entire island camp and river setting"
+    focus: "Boys living their pirate dream in natural paradise, complete freedom and self-sufficiency"
+    depth: "Foreground: active camp with fire and cooking, middle ground: three boys in various activities, background: vast river landscape emphasizing isolation and freedom"

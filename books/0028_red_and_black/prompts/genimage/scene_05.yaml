@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: 1820s France during Bourbon Restoration, late summer night under full moon
+    location: Country house surrounded by romantic garden with large linden tree, secluded paths, benches for evening conversations,
+      peaceful rural setting with mountain views
+    weather: Clear calm night with bright moonlight
+  characters:
+  - appearance: Young man, age 19-23, short stature with small, slender build almost feminine in delicacy, dark chestnut hair
+      worn slightly longer in 1820s style, large expressive black eyes, regular delicate facial features with aquiline nose,
+      extremely pale complexion that turns bright red easily under emotional stress
+    clothing: Black clerical/secretary attire - simple black frock coat, white linen shirt with high stiff collar, dark trousers,
+      plain black shoes
+    position: Sitting tensely on bench, body rigid with internal struggle
+    action: Slowly extending trembling hand toward hers with extraordinary effort and determination
+  - appearance: Woman around 30 years old, tall with graceful elegant figure, dazzling fresh complexion, natural beauty without
+      artifice, moves with innate grace and charm when comfortable
+    clothing: Elegant but restrained provincial fashion - silk or muslin summer dresses in muted pastel colors, well-made
+      but not ostentatious, appropriate for wealthy provincial matron
+    position: Seated beside him, hand resting on bench between them
+    action: Initially startled by his touch, then allowing her hand to remain in his grasp
+  scene:
+    mainElements: Large linden tree creating dramatic shadows in moonlight, wooden bench where this crucial moment unfolds,
+      garden paths silver in lunar glow, distant house with few lit windows
+    details: Moonlight filtering through linden leaves creating patterns of light and shadow, night-blooming flowers releasing
+      fragrance, their two hands touching for first time creating electric connection, absolute silence except for night sounds
+    background: Country house sleeping peacefully, mountain peaks silhouetted against star-filled sky, forest edges mysterious
+      in moonlight
+    atmosphere: Moment of supreme romantic tension and triumph, dangerous transgression of social boundaries, young man's
+      victory over his own fear and social position, mutual recognition of forbidden attraction
+  composition:
+    cameraAngle: Close shot focusing on the crucial hand-holding moment
+    focus: Their joined hands as symbol of conquered barriers and forbidden intimacy
+    depth: Joined hands in immediate foreground, their faces showing emotion in middle ground, moonlit garden in background,
+      no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Hidden Treasures in the Haunted House"
+  setting:
+    time: "1840s Missouri, late afternoon in abandoned house"
+    location: "Interior of notorious haunted house on outskirts of St. Petersburg"
+    weather: "Gray afternoon with weak sunlight filtering through dirty broken windows"
+  characters:
+    - appearance: "Two boys, 12-14 years old, terrified but fascinated, covered in dust and cobwebs"
+      clothing: "Everyday clothes now dirty from exploring abandoned building, barefoot for silent movement"
+      position: "Hidden on upper floor, peering through gaps in floorboards"
+      action: "Watching and listening in frozen terror to conversation below, barely daring to breathe"
+    - appearance: "Dangerous man, 40 years old, stone face now animated with greed and planning"
+      clothing: "Dark rough clothing, carrying large knife and digging tools"
+      position: "Standing over freshly revealed treasure chest in lower room"
+      action: "Counting gold coins and making sinister plans for hiding greater treasure"
+    - appearance: "Rough companion, adult criminal in ragged clothes"
+      clothing: "Worn frontier clothing, hat pulled low"
+      position: "Helping with treasure chest and digging"
+      action: "Assisting in moving heavy chest while discussing criminal plans"
+  scene:
+    mainElements: "Decaying haunted house with rotting floorboards, broken furniture, cobwebs, hidden treasure chest full of gold coins"
+    details: "Ancient wooden chest bound with iron, gleaming gold coins catching weak sunlight, rusty digging tools, rotted furniture providing hiding places, dust motes in air, no text or letters visible"
+    background: "Abandoned house interior with collapsed ceiling areas, broken stairs, windows with missing glass, vines growing through walls"
+    atmosphere: "Gothic horror mixed with treasure-hunting excitement, danger of discovery by desperate criminals, childhood dreams of wealth becoming terrifying reality"
+  composition:
+    cameraAngle: "Vertical composition showing boys hidden above watching criminals below"
+    focus: "Discovery of real treasure complicated by presence of murderous criminals"
+    depth: "Foreground: terrified boys peering through floor gaps, middle ground: criminals with treasure chest, background: decaying haunted house interior"

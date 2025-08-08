@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: Early 1910s, evening in professional setting under stress
+    location: Prestigious commercial bank in Central European city center during extended work hours, institutional environment
+      becoming oppressive
+    weather: Late evening darkness with harsh artificial lighting
+  characters:
+  - appearance: Man, 30 years old, average height with lean build, dark brown hair neatly combed, intelligent face with regular
+      features, clean-shaven with pale complexion, becoming increasingly gaunt and tired-looking as stress mounts, dark circles
+      under eyes, nervous ticks developing
+    clothing: Well-tailored dark charcoal suit, crisp white shirt with high starched collar, conservative dark tie, polished
+      leather shoes, black formal overcoat when outdoors, always impeccably dressed despite growing internal turmoil
+    position: Hunched over desk with colleagues gathering around him, feeling increasingly surrounded
+    action: Attempting to maintain professional composure while sensing growing scrutiny from coworkers, movements becoming
+      more constrained and defensive
+  - appearance: Multiple bank colleagues in similar professional attire, expressions showing mixture of curiosity and judgment
+    clothing: Similar dark suits and professional attire of banking institution
+    position: Standing closer than usual, forming loose circle around protagonist's desk
+    action: Engaging in seemingly normal business discussion while subtly observing and evaluating protagonist's behavior
+      and competence
+  scene:
+    mainElements: Spacious main hall with high ceilings, marble floors, dark wood paneling, brass fixtures, K.'s private office
+      with mahogany desk, green banker's lamp, telephone, filing cabinets
+    details: Professional environment feeling increasingly constraining, familiar workspace seeming to shrink under social
+      pressure, institutional architecture becoming more prison-like than protective, no text or letters visible
+    background: Banking environment where professional relationships are becoming sources of stress rather than support
+    atmosphere: Growing sense of being observed and judged by colleagues, professional competence being questioned, familiar
+      workplace transforming into arena of scrutiny
+  composition:
+    cameraAngle: Overhead shot emphasizing protagonist surrounded by colleagues, walls seeming to close in
+    focus: Mounting social pressure and professional isolation within institutional setting
+    depth: 'Foreground: protagonist feeling increasingly trapped, middle ground: colleagues gathering with unclear intentions,
+      background: institutional architecture appearing more confining'
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

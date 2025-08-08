@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: 1685, deep night with night fog creating halos around lights, sleeping world disturbed by weather
+    location: Główna siedziba Crusoe u podnóża stromego skalistego wzgórza na tropikalnej wyspie
+    weather: Night storm with lightning illuminating fog, creating dramatic atmospheric effects
+  characters:
+  - appearance: Mężczyzna, wiek od 27 do 55 lat, postawny i muskularny, ogorzały od słońca, długie niestrzyżone włosy, długa
+      gęsta broda przystrzyżona w tureckie wąsy mahometańskie, twarz poorana zmarszczkami od słońca, dziki barbarzyński wygląd
+    clothing: 'Kompletny strój z koziej skóry: wysoka stożkowata bezkształtna czapka z klapą chroniącą kark, krótka kurtka
+      z koziej skóry z sierścią na zewnątrz sięgająca do połowy uda, spodnie z koziej skóry do kolan z długą sierścią zwisającą
+      do połowy łydek, wysokie sznurowane buty z koziej skóry, szeroki pas z suszonej skóry'
+    position: Standing in cave entrance holding oil lamp, watching storm
+    action: Monitoring weather conditions and checking security of fortress during night tempest
+  - appearance: Młody mężczyzna, wiek około 26 lat, wysoki i zgrabny o doskonale zbudowanej wysportowanej sylwetce, skóra
+      o jasnym oliwkowym odcieniu, długie czarne proste włosy, żywe błyskotliwe ciemne oczy, okrągła twarz o rysach określanych
+      jako europejskie, mały nos, cienkie usta, zęby białe jak kość słoniowa
+    clothing: 'Początkowo nagi, później ubrany przez Crusoe: lniane spodnie, kaftan z koziej skóry, czapka ze skóry zająca'
+    position: Sheltering deeper in cave, tending small fire
+    action: Maintaining interior fire and staying alert despite trust in Crusoe's protective presence
+  scene:
+    mainElements: Półokrągła palisada z podwójnego rzędu grubych zaostrzonych pali wbitych głęboko w ziemię, przestrzeń między
+      palami wypełniona kablami okrętowymi tworząca niemal litą ścianę, brak bramy tylko krótka drabina wciągana do środka,
+      podwójny namiot w środku przykryty smołowaną plandeką z żagla, jaskinia wykuta w skale służąca jako piwnica i magazyn
+      z zorganizowanymi półkami
+    details: Night fog swirling around fortress creating mysterious halos around lamp light, lightning flashes illuminating
+      palisade walls and creating dramatic silhouettes, rain beginning to patter on tent canvas and create small rivers in
+      compound, wind causing tent to strain and flap, cave providing secure dry shelter with organized supplies visible in
+      lamp light, thunder echoing off rocky hillside
+    background: Storm clouds releasing intermittent lightning creating momentary dramatic illumination of landscape, tropical
+      forest bending and swaying in wind, rocky hillside providing solid backdrop
+    atmosphere: Secure shelter contrasted with wild weather outside, companionship during storm providing comfort, fortress
+      proving its protective value during natural adversity, dramatic beauty of night tempest
+  composition:
+    cameraAngle: Medium shot from inside cave looking out at storm-lit compound
+    focus: Figure with lamp in cave entrance, storm effects visible outside, contrast between shelter and wild weather
+    depth: 'Foreground: cave interior with supplies and fire, Middle: figure with lamp at entrance, Background: storm-lit
+      fortress compound and lightning, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia ink
+    - brown ink
+    background: white or aged paper
+    usageNotes: Monochromatic, tone through line density
+    saturation: none
+    contrast: created through line spacing
+  lineArt:
+    style: systematic parallel lines
+    weight: consistent, fine
+    color: black or brown ink
+    texture: created entirely through lines
+    edgeTreatment: defined by line direction changes
+  lighting:
+    type: implied through line density
+    direction: shown through hatching direction
+    intensity: varies with line spacing
+    shadows:
+      style: dense crosshatching
+      color: black ink
+      opacity: line density
+    highlights: sparse or no lines
+  rendering:
+    technique: traditional pen technique
+    texture: entirely line-based
+    detailLevel: high through careful line work
+    finish: hand-drawn quality
+  perspective: traditional, often architectural
+  mood:
+    overall: classic, scholarly, detailed
+    emotion: contemplative, serious, refined
+    tempo: measured, careful
+    keywords:
+    - classic
+    - scholarly
+    - refined
+    - traditional
+    - meticulous
+  stylePrecedents:
+  - Albrecht Dürer
+  - Rembrandt etchings
+  - Scientific illustration
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

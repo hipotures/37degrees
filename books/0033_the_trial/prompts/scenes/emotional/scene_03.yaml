@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Desperate Search for Normalcy"
+  setting:
+    time: "Early 1910s, same morning after strange encounter"
+    location: "Prestigious commercial bank in Central European city center, large institutional building with imposing architecture representing financial authority and social order"
+    weather: "Overcast conditions continuing from morning"
+  characters:
+    - appearance: "Man, 30 years old, average height with lean build, dark brown hair neatly combed, intelligent face with regular features, clean-shaven with pale complexion, becoming increasingly gaunt and tired-looking as stress mounts, dark circles under eyes, nervous ticks developing"
+      clothing: "Well-tailored dark charcoal suit, crisp white shirt with high starched collar, conservative dark tie, polished leather shoes, black formal overcoat when outdoors, always impeccably dressed despite growing internal turmoil"
+      position: "Seated at his mahogany desk, trying to project normal professional demeanor"
+      action: "Attempting to lose himself in familiar work routine while struggling to suppress anxiety about morning's events, checking documents and responding to colleagues with forced normalcy"
+  scene:
+    mainElements: "Spacious main hall with high ceilings, marble floors, dark wood paneling, brass fixtures, K.'s private office with mahogany desk, green banker's lamp, telephone, filing cabinets"
+    details: "Neat stacks of financial documents, ink well and fountain pen, green-shaded banker's lamp casting steady light, telephone waiting silently on desk, professional environment that once provided security now feeling fragile, no text or letters visible"
+    background: "Formal business environment with colleagues moving purposefully through marble corridors, sounds of commerce and bureaucracy continuing as usual"
+    atmosphere: "Fragile attempt to maintain professional composure, underlying current of anxiety disrupting familiar routines, sense that established order may be more vulnerable than previously believed"
+  composition:
+    cameraAngle: "Close-up on protagonist at desk trying to appear composed"
+    focus: "Internal struggle between maintaining professional facade and processing morning's shock"
+    depth: "Foreground: protagonist forcing concentration on work, middle ground: orderly office environment, background: institutional architecture that once symbolized security"

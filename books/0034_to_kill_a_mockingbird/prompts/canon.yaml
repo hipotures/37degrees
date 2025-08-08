@@ -1,0 +1,193 @@
+canon:
+  characters:
+    - id: "scout_finch"
+      name: "Jean Louise 'Scout' Finch"
+      description_block: |
+        characters:
+          - appearance: "Girl, 6-9 years old, small and slender build, short straight brown hair with bangs, expressive face with tomboyish features"
+            clothing: "Blue denim overalls, white cotton shirt, bare feet or simple brown shoes"
+            posture: "Energetic, active stance, quick movements, sometimes clenched fists ready for action"
+    
+    - id: "jem_finch"
+      name: "Jeremy Atticus 'Jem' Finch"
+      description_block: |
+        characters:
+          - appearance: "Boy, 10-13 years old, tall and lean athletic build, short brown hair, serious expression, left arm shorter than right after injury"
+            clothing: "White cotton shirt, brown knee-length shorts, brown leather shoes"
+            posture: "Straight posture becoming more thoughtful and reserved as he ages"
+    
+    - id: "atticus_finch"
+      name: "Atticus Finch"
+      description_block: |
+        characters:
+          - appearance: "Man, late 40s, tall and thin build, graying brown hair, wire-rimmed glasses, dignified weathered face"
+            clothing: "Dark three-piece suit, white dress shirt, dark tie, black leather shoes"
+            posture: "Calm, measured movements, removes glasses when concentrating"
+    
+    - id: "boo_radley"
+      name: "Arthur 'Boo' Radley"
+      description_block: |
+        characters:
+          - appearance: "Man, mid-30s, very pale skin, extremely thin and gaunt, hollow cheeks, gray lifeless eyes, thinning colorless hair"
+            clothing: "Simple worn gray shirt, dark trousers, pale from years indoors"
+            posture: "Hunched shoulders, hesitant movements, stays in shadows"
+    
+    - id: "calpurnia"
+      name: "Calpurnia"
+      description_block: |
+        characters:
+          - appearance: "African-American woman, 50s, very thin angular build, sharp features, often squints due to nearsightedness"
+            clothing: "Simple brown dress with white apron when working, clean Sunday dress for church"
+            posture: "Upright, authoritative bearing, quick efficient movements"
+    
+    - id: "dill_harris"
+      name: "Charles Baker 'Dill' Harris"
+      description_block: |
+        characters:
+          - appearance: "Boy, 7 years old, very small for his age, snow-white hair that sticks up, large bright blue eyes"
+            clothing: "Clean white shirt, brown shorts, neat appearance from out of town"
+            posture: "Animated gestures when telling stories, energetic child movements"
+    
+    - id: "tom_robinson"
+      name: "Tom Robinson"
+      description_block: |
+        characters:
+          - appearance: "African-American man, 25 years old, strong well-built frame, left arm completely useless and 12 inches shorter than right"
+            clothing: "Clean white shirt, dark trousers, humble respectful appearance"
+            posture: "Dignified bearing despite physical disability, respectful demeanor"
+    
+    - id: "bob_ewell"
+      name: "Bob Ewell"
+      description_block: |
+        characters:
+          - appearance: "White man, 40s, short and thin with rat-like face, unshaven, red nose from drinking, scalded look to his skin"
+            clothing: "Dirty collarless shirt, stained pants held up with suspenders, shapeless wool cap"
+            posture: "Nervous twitchy movements, aggressive when threatened"
+    
+    - id: "mayella_ewell"
+      name: "Mayella Ewell"
+      description_block: |
+        characters:
+          - appearance: "White woman, 19 years old, thick-bodied from hard work, tangled brown-blonde hair, tries to stay clean despite poverty"
+            clothing: "Faded pink cotton dress to the knees, worn dirty slippers"
+            posture: "Defensive posture, shows effects of hard labor and fear"
+    
+    - id: "alexandra_hancock"
+      name: "Aunt Alexandra Hancock"
+      description_block: |
+        characters:
+          - appearance: "White woman, 50s, imposing solid build like royalty, stern expression, wire-rimmed glasses"
+            clothing: "Proper dark dress with corset, petticoats, elegant but severe Southern lady attire"
+            posture: "Rigid upright posture, commanding presence, formal movements"
+    
+    - id: "maudie_atkinson"
+      name: "Miss Maudie Atkinson"
+      description_block: |
+        characters:
+          - appearance: "White woman, 40s, attractive widow, two gold teeth in front of her smile"
+            clothing: "For gardening: men's overalls and old straw hat; for social occasions: proper dress"
+            posture: "Practical active movements, cheerful confident bearing"
+    
+    - id: "mrs_dubose"
+      name: "Mrs. Henry Lafayette Dubose"
+      description_block: |
+        characters:
+          - appearance: "Elderly white woman, very old and sick, pale wrinkled face like wet pillowcase, liver spots on cheeks, drool from mouth corners"
+            clothing: "Home clothes, dressing gowns, covered with blankets"
+            posture: "Confined to wheelchair or bed, weak but fierce expressions"
+
+  locations:
+    - id: "maycomb_main_street"
+      name: "Maycomb Main Residential Street"
+      description_block: |
+        setting:
+          location: "Main residential street in Maycomb, Alabama during Great Depression, dusty dirt road with sidewalks, lined with Southern cottage-style homes"
+        mainElements: "Single-story wooden frame houses with deep front porches, old oak trees providing shade, uneven cracked sidewalks"
+        atmosphere: "Sleepy Southern town atmosphere, oppressive heat, dust in air, slow-paced life"
+    
+    - id: "finch_house"
+      name: "Finch Family Home"
+      description_block: |
+        setting:
+          location: "Small white wooden frame house on main street Maycomb Alabama, typical Southern cottage with deep front porch"
+        mainElements: "White painted wood siding, green shutters, wide porch with swing and rocking chairs, central hallway layout"
+        atmosphere: "Clean well-maintained family home, refuge of stability and moral guidance"
+    
+    - id: "radley_house"
+      name: "Radley House"
+      description_block: |
+        setting:
+          location: "Gray weathered house at sharp curve of street in Maycomb Alabama, on boundary with schoolyard"
+        mainElements: "Once-white house now slate-gray, sagging shutters, rotted rain-soaked shingles, overgrown yard with Johnson grass and rabbit tobacco, rickety fence"
+        atmosphere: "Gothic gloom, mysterious and forbidding, shrouded in deep shadows from massive oak trees"
+    
+    - id: "maycomb_courthouse"
+      name: "Maycomb County Courthouse"
+      description_block: |
+        setting:
+          location: "Central courthouse building on town square in Maycomb Alabama, imposing but aging structure"
+        mainElements: "Large brick and stone building with columns, sagging architectural details, courtroom with heavy oak benches, separate balcony for colored section"
+        atmosphere: "Formal seat of justice, stuffy and oppressive during trial, symbol of legal system"
+    
+    - id: "maycomb_jail"
+      name: "Maycomb County Jail"
+      description_block: |
+        setting:
+          location: "Small brick jail building in Maycomb Alabama town center, single-story utilitarian structure"
+        mainElements: "Simple brick construction, barred windows, bare light bulb on extension cord over entrance"
+        atmosphere: "Stark institutional building, tense during potential lynching scene"
+    
+    - id: "ewell_cabin"
+      name: "Ewell Family Cabin"
+      description_block: |
+        setting:
+          location: "Ramshackle cabin behind town dump in Maycomb Alabama, at very edge of white section"
+        mainElements: "Broken-down wooden shack, rusty tin roof, yard full of debris and junk, Mayella's red geraniums in chipped enamel containers only bright spot"
+        atmosphere: "Extreme poverty and squalor, moral degradation made visible, sharp contrast between flowers and filth"
+    
+    - id: "black_quarters"
+      name: "Colored Section of Maycomb"
+      description_block: |
+        setting:
+          location: "African-American neighborhood in Maycomb Alabama, beyond dump from white section, collection of small cabins"
+        mainElements: "Small neat wooden cabins with chimneys smoking, swept yards, First Purchase African M.E. Church"
+        atmosphere: "Poor but clean and dignified community, strong sense of togetherness and faith"
+    
+    - id: "school_grounds"
+      name: "Maycomb Elementary School"
+      description_block: |
+        setting:
+          location: "Elementary school building and grounds in Maycomb Alabama, borders Radley property"
+        mainElements: "Simple wooden schoolhouse, playground area, path through trees leading back to residential area"
+        atmosphere: "Typical rural school, scene of childhood education and social dynamics"
+
+  items:
+    - id: "gifts_in_tree"
+      name: "Gifts in Oak Tree Knothole"
+      description_block: |
+        details: "Small presents left in hollowed knothole of oak tree on Radley property boundary: chewing gum, Indian-head pennies, carved soap figures of children, broken pocket watch, spelling bee medal, ball of twine"
+    
+    - id: "ham_costume"
+      name: "Ham Costume for School Play"
+      description_block: |
+        details: "Large awkward construction of painted canvas over wire frame, brown and pink coloring, single eyehole, restricts movement and vision"
+    
+    - id: "courthouse_balcony"
+      name: "Colored Balcony in Courthouse"
+      description_block: |
+        details: "Second-floor gallery in courthouse reserved for African-American spectators, wooden benches, overlooks main courtroom below"
+    
+    - id: "atticus_glasses"
+      name: "Atticus's Wire-Rimmed Glasses"
+      description_block: |
+        details: "Wire-framed reading glasses, removed during moments of concentration or action, symbol of his intellectual nature"
+    
+    - id: "sheriff_rifle"
+      name: "Sheriff's Rifle for Mad Dog"
+      description_block: |
+        details: "Hunting rifle carried by Sheriff Heck Tate, passed to Atticus for shooting rabid dog, represents sudden revelation of hidden skills"
+    
+    - id: "morphine_alarm"
+      name: "Mrs. Dubose's Alarm Clock"
+      description_block: |
+        details: "Small bedside alarm clock that marks intervals during Mrs. Dubose's struggle with morphine addiction, ticking measures her battle for freedom"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Starry Sky Over Sleeping Yorkshire"
+  setting:
+    time: "Late Georgian period Yorkshire, deep night hours with crystal clear sky, brilliant stars overhead"
+    location: "Vast open rolling heathland between the two houses, wild untamed moorland stretching for miles, covered in heather that blooms purple-pink in late summer, scattered with moss-covered boulders and peat bogs, few gnarled trees shaped by wind"
+    weather: "Perfect clear night, countless stars visible, cold air creating crystal clarity"
+  characters:
+    - appearance: "Girl to young woman 0-18 years, beautiful golden curling hair inherited from Lintons, dark expressive eyes inherited from Earnshaws, very pretty combining features of both families"
+      clothing: "Simple dresses progressing to elegant Regency-style gowns as she matures, empire waist, light flowing fabrics, colors reflecting her genteel upbringing"
+      position: "Lying on heather-covered slope, gazing up at infinite star field"
+      action: "Contemplating vastness of night sky, completely absorbed in celestial display, at peace with natural world"
+  scene:
+    mainElements: "Purple blooming heather appearing black under starlight, rocky outcrops silhouetted against brilliant star field, completely open landscape showing infinite sky dome overhead, few gnarled trees creating twisted silhouettes"
+    details: "Countless stars pierce clear night sky creating brilliant celestial dome, Milky Way visible as luminous band across heaven, heather-covered moorland appears as rolling black silhouettes under starlight, moss-covered boulders create mysterious shapes in darkness, perfect silence except for distant night sounds, cold air crystal clear, no text or letters visible"
+    background: "Rolling moorland extending infinitely under vast starfield, universe appearing infinite and overwhelming"
+    atmosphere: "Cosmic wonder and human smallness before infinity, sense of connection to eternal patterns and cycles, air cold and pure carrying night scents of heather and frost, atmosphere of transcendence and peaceful contemplation"
+  composition:
+    cameraAngle: "Wide shot emphasizing vast starfield with small human figure"
+    focus: "Lone figure under infinite stars, emphasizing human contemplation of cosmos"
+    depth: "Foreground dark heather slope, middle ground reclining figure, background infinite starfield dominating composition"

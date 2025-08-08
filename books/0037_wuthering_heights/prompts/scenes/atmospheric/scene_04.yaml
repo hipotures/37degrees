@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Morning Fog Lifting from the Moors"  
+  setting:
+    time: "Late Georgian period Yorkshire, mid-morning with fog dispersing, sun gaining strength"
+    location: "Vast open rolling heathland between the two houses, wild untamed moorland stretching for miles, covered in heather that blooms purple-pink in late summer, scattered with moss-covered boulders and peat bogs, few gnarled trees shaped by wind"
+    weather: "Lifting fog revealing landscape gradually, gentle warming breeze"
+  characters:
+    - appearance: "Wild energetic girl, 6-17 years, beautiful long dark curling hair, penetrating dark eyes, naturally beautiful features with untamed quality, full of vitality and movement"
+      clothing: "Simple country dresses often torn and dirty from outdoor adventures, plain cotton or linen in earthy colors, bare feet or simple shoes, clothing disheveled from running across moors"
+      position: "Running across heather-covered slope, hair streaming behind"
+      action: "Racing through lifting fog patches with absolute freedom, disturbing morning mist with her movement"
+  scene:
+    mainElements: "Purple blooming heather in August, wisps of fog clinging to hollows and boulder formations then dissolving as sun climbs higher, rocky outcrops emerging from mist like ancient monuments, paths worn by sheep barely visible through heather"
+    details: "Morning fog retreats in ethereal wisps from warming heather, sun creates shafts of light through dispersing mist, dewdrops on heather catch light like scattered diamonds, moss-covered boulders appear and disappear in shifting fog, completely open landscape to sky and weather, no text or letters visible"
+    background: "Rolling moorland extending to distant hills, fog banks retreating toward valleys, clear blue sky emerging overhead"
+    atmosphere: "Liberation and wild beauty emerging from concealment, sense of vast untamed space, morning air fresh with scents of heather and damp earth, atmosphere of freedom and natural power"
+  composition:
+    cameraAngle: "Wide landscape shot showing figure running through lifting fog"
+    focus: "Running figure silhouetted against fog and heather, movement creating disturbance in mist"
+    depth: "Foreground heather and lifting fog wisps, middle ground running figure, background distant hills emerging from mist"

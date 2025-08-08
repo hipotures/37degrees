@@ -1,0 +1,32 @@
+sceneDescription:
+  title: "Noble Sacrifice in the Schoolroom"
+  setting:
+    time: "1840s Missouri, afternoon during school session"
+    location: "Interior of one-room schoolhouse, tense atmosphere of impending punishment"
+    weather: "Warm afternoon with harsh sunlight streaming through windows"
+  characters:
+    - appearance: "Boy, 12-13 years old, determined expression overcoming natural fear, face pale but resolute"
+      clothing: "School clothes - brown trousers, cotton shirt, barefoot, standing straight with courage"
+      position: "Rising from wooden school bench, stepping forward toward teacher's desk"
+      action: "Standing up boldly to confess to crime he didn't commit, meeting teacher's eyes without flinching"
+    - appearance: "Girl, 12 years old, golden braids, face streaked with tears of gratitude and love"
+      clothing: "White school dress, now rumpled from distress"
+      position: "Seated at desk, looking up at boy with amazement and dawning adoration"
+      action: "Watching in stunned silence as boy sacrifices himself for her mistake, tears of gratitude flowing"
+    - appearance: "Man, adult schoolmaster, stern expression but surprised by voluntary confession"
+      clothing: "Dark formal teacher's clothing, holding wooden ruler for punishment"
+      position: "Standing behind teacher's desk with damaged book in hand"
+      action: "Preparing to administer harsh physical punishment to boy who stepped forward"
+    - appearance: "Other school children watching drama unfold"
+      clothing: "Various school clothes from simple to fine based on family wealth"
+      position: "Seated in rows at wooden desks, all attention focused on front of room"
+      action: "Staring in amazement at boy's heroic gesture, whispering among themselves"
+  scene:
+    mainElements: "One-room schoolhouse with rows of scarred wooden desks, teacher's platform at front, pot-bellied stove, torn anatomy book as evidence"
+    details: "Damaged book showing ripped page, wooden punishment ruler ready for use, slate boards and chalk, afternoon light creating dramatic shadows, children's wide eyes watching, no text or letters visible"
+    background: "Simple schoolhouse interior with educational charts on walls, coats on hooks, water bucket and dipper"
+    atmosphere: "Moment of childhood nobility, true love inspiring selfless sacrifice, courage overcoming fear of punishment"
+  composition:
+    cameraAngle: "Medium shot focusing on brave boy and grateful girl"
+    focus: "Heroic moment of taking undeserved punishment to protect beloved, childhood chivalry"
+    depth: "Foreground: boy standing courageously for punishment, middle ground: girl overwhelmed with gratitude, background: classroom full of amazed witnesses"

@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Darcy's Unexpected Arrival at Rosings"
+  setting:
+    time: "Early 19th century England, afternoon, mid-spring"
+    location: "Aristocratic estate in Kent, southeast England near village of Hunsford"
+    weather: "Bright spring afternoon with warming sunshine"
+  characters:
+    - appearance: "Man, 28 years old, tall imposing height, handsome strong features, noble bearing, dark hair carefully styled in period fashion, serious expression that softens when genuinely pleased, athletic build from riding and outdoor activities, pale complexion typical of English gentleman"
+      clothing: "Traveling attire of dark blue coat with multiple capes, leather gloves, black boots still dusty from journey, beaver hat in hand, formal traveling dress of highest quality"
+      position: "Entering drawing room of Rosings having just arrived from London"
+      action: "Bowing formally to Lady Catherine while his eyes immediately seek out Elizabeth with unmistakable interest"
+    - appearance: "Woman, 20 years old, beautiful dark intelligent eyes with expressive gaze, light and pleasing figure, average height, not classically beautiful like her sister Jane but possessing striking charm, dark hair arranged in period-appropriate style with loose curls framing her face, healthy complexion that gains attractive rosy color after physical exertion"
+      clothing: "Afternoon dress in soft yellow muslin suitable for spring weather, light shawl, hair arranged simply, modest jewelry"
+      position: "Seated with needlework, having risen in surprise at his entrance"
+      action: "Looking up in shock and confusion at his unexpected appearance, clearly unprepared for this encounter"
+    - appearance: "Woman, over 60 years old, tall imposing figure, sharp severe facial features, cold calculating eyes, gray hair in elaborate formal arrangement, commanding presence, austere expression"
+      clothing: "Rich but outdated formal dress in dark colors, heavy brocade fabric, elaborate jewelry including family gems, lace cap with ribbons, expensive but old-fashioned style"
+      position: "Seated in position of authority, clearly pleased by nephew's arrival"
+      action: "Extending hand regally for Darcy to kiss, speaking with evident satisfaction about his visit"
+  scene:
+    mainElements: "Massive Jacobean mansion with ornate facade, extensive formal gardens with geometric patterns, imposing stone entrance with heraldic decorations, grand but oppressive interior with dark heavy furnishings, everything designed to intimidate and display wealth"
+    details: "Formal drawing room with afternoon light streaming through tall windows, servants visible removing Darcy's traveling effects, spring flowers arranged in expensive vases, heavy furniture and rich fabrics, atmosphere of wealth and formality disrupted by unexpected emotional tension"
+    background: "Grand room extending beyond view, suggestion of servants and activity related to unexpected arrival"
+    atmosphere: "Cold aristocratic grandeur, intimidating formality, sounds of servants moving quietly, overwhelming display of inherited power and wealth"
+  composition:
+    cameraAngle: "Medium shot capturing moment of surprise and recognition"
+    focus: "Electric moment of eye contact between Darcy and Elizabeth despite formal social setting"
+    depth: "Foreground: Elizabeth's shocked reaction; middle ground: Darcy's formal arrival; background: Lady Catherine's satisfied authority, no text or letters visible"

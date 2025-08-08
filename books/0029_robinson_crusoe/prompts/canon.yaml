@@ -1,0 +1,184 @@
+canon:
+  characters:
+    - id: "robinson_crusoe_youth"
+      name: "Robinson Crusoe (Youth, 1651)"
+      description_block: |
+        characters:
+          - appearance: "Young man, age 18-19 years, szczupła młodzieńcza sylwetka, gładko ogolona twarz, długie włosy do ramion w naturalnym kolorze brązowym, energiczna postawa wyrażająca niepokój i pragnienie przygód"
+            clothing: "Strój zamożnej klasy średniej z 1651 roku: biała lniana koszula z koronkowym kołnierzem, dopasowany brązowy dublet z rozcięciami na rękawach, szerokie bryczesy do kolan z ciemnej wełny, białe wełniane pończochy, skórzane buty z ozdobnymi cholewami, ciemny płaszcz, kapelusz z szerokim rondem"
+            posture: "Wyprostowana, młodzieńcza postawa z nutą arogancji, ruchy wyrażające niecierpliwość i chęć ucieczki"
+
+    - id: "robinson_crusoe_slave"
+      name: "Robinson Crusoe (Slave, 1657)"
+      description_block: |
+        characters:
+          - appearance: "Mężczyzna, wiek 26 lat, wychudzony ale umięśniony od ciężkiej pracy, zapuszczone włosy i broda w nieładzie, skóra śniada i spalona słońcem, na twarzy ślady zmęczenia i rezygnacji"
+            clothing: "Prosty strój niewolnika: zniszczona zgrzebna tunika z grubego niebielonego płótna, luźne spodnie z tego samego materiału, chodzi boso, ubranie brudne i podarte"
+            posture: "Przygarbiona postawa wyrażająca upokorzenie i utratę dawnego statusu"
+
+    - id: "robinson_crusoe_castaway"
+      name: "Robinson Crusoe (Castaway, 1659-1686)"
+      description_block: |
+        characters:
+          - appearance: "Mężczyzna, wiek od 27 do 55 lat, postawny i muskularny, ogorzały od słońca, długie niestrzyżone włosy, długa gęsta broda przystrzyżona w tureckie wąsy mahometańskie, twarz poorana zmarszczkami od słońca, dziki barbarzyński wygląd"
+            clothing: "Kompletny strój z koziej skóry: wysoka stożkowata bezkształtna czapka z klapą chroniącą kark, krótka kurtka z koziej skóry z sierścią na zewnątrz sięgająca do połowy uda, spodnie z koziej skóry do kolan z długą sierścią zwisającą do połowy łydek, wysokie sznurowane buty z koziej skóry, szeroki pas z suszonej skóry"
+            posture: "Pewna siebie postawa człowieka doskonale znającego swoje otoczenie, ruchy celowe i oszczędne"
+
+    - id: "robinson_crusoe_gentleman"
+      name: "Robinson Crusoe (Returned Gentleman, 1687+)"
+      description_block: |
+        characters:
+          - appearance: "Starszy mężczyzna, wiek 55+ lat, postawny i godny, twarz ogolona, nosi długą lokowaną perukę w kolorze brązowym, twarz statecznego zamożnego dżentelmena z subtelnymi śladami przeżytych lat"
+            clothing: "Elegancki strój dżentelmena z końca XVII wieku: długi płaszcz z ciemnej wełny lub brokatu, dopasowana kamizelka, bryczesy do kolan, biała lniana koszula z koronkowym żabotem, jedwabne pończochy, skórzane buty z ozdobnymi srebrnymi klamrami"
+            posture: "Wyprostowana godna postawa człowieka o wysokim statusie społecznym"
+
+    - id: "friday"
+      name: "Friday (Piętaszek)"
+      description_block: |
+        characters:
+          - appearance: "Młody mężczyzna, wiek około 26 lat, wysoki i zgrabny o doskonale zbudowanej wysportowanej sylwetce, skóra o jasnym oliwkowym odcieniu, długie czarne proste włosy, żywe błyskotliwe ciemne oczy, okrągła twarz o rysach określanych jako europejskie, mały nos, cienkie usta, zęby białe jak kość słoniowa"
+            clothing: "Początkowo nagi, później ubrany przez Crusoe: lniane spodnie, kaftan z koziej skóry, czapka ze skóry zająca"
+            posture: "Zwinne ruchy pełne gracji, postawa lojalnego i oddanego służącego"
+
+    - id: "xury"
+      name: "Xury"
+      description_block: |
+        characters:
+          - appearance: "Nastoletni chłopak, mieszkaniec Salé, prawdopodobnie Maur lub pochodzący z Afryki Subsaharyjskiej"
+            clothing: "Prosty zniszczony strój niewolnika z grubego płótna"
+            posture: "Młodzieńcza postawa wyrażająca gotowość do pomocy"
+
+    - id: "english_captain"
+      name: "English Captain"
+      description_block: |
+        characters:
+          - appearance: "Mężczyzna w średnim wieku, doświadczony marynarz o uczciwy wyglądzie"
+            clothing: "Praktyczny strój kapitana statku handlowego z końca XVII wieku: długi granatowy płaszcz, kamizelka, bryczesy, wysokie skórzane buty"
+            posture: "Postawa dowódcy przyzwyczajonego do wydawania rozkazów"
+
+    - id: "spanish_sailor"  
+      name: "Spanish Sailor"
+      description_block: |
+        characters:
+          - appearance: "Mężczyzna w średnim wieku, wychudzony i wyczerpany po niewoli u kanibali"
+            clothing: "Półnagi w momencie ocalenia, później ubrany w proste ubranie"
+            posture: "Osłabiona postawa człowieka po ciężkich przeżyciach"
+
+    - id: "crusoe_father"
+      name: "Robinson Crusoe's Father"
+      description_block: |
+        characters:
+          - appearance: "Starszy mężczyzna określany jako bardzo podeszły w latach, przygarbiony, być może unieruchomiony przez podagrę, siwe włosy, twarz poważna i zatroskana, oczy często napełniające się łzami"
+            clothing: "Strój domowy zamożnego kupca z połowy XVII wieku: ciemny kaftan, bryczesy, białe pończochy, domowe pantofle"
+            posture: "Siedzi w dużym dębowym fotelu, postawa wyrażająca troskę o syna"
+
+  locations:
+    - id: "york_england"
+      name: "York, England (1651)"
+      description_block: |
+        setting:
+          location: "Historyczne miasto York w północnej Anglii, połowa XVII wieku"
+        mainElements: "Średniowieczne domy o konstrukcji szachulcowej z ciemnymi dębowymi belkami na tle białego tynku, wąskie brukowane uliczki z nadzwieszonymi piętrami, potężna kamienna bryła gotyckiej katedry York Minster dominująca nad miastem, pierścień kamiennych murów obronnych otaczających historyczne centrum"
+        atmosphere: "Tętniące życiem miasto handlowe z gwarnym targowiskiem, stukotem kopyt końskich na bruku, biciem dzwonów kościelnych, zapachami palonego drewna z kominów i świeżego chleba"
+
+    - id: "london_england"
+      name: "London, England (1651)"
+      description_block: |
+        setting:
+          location: "Rozrastająca się metropolia Londyn w połowie XVII wieku"
+        mainElements: "Rzeka Tamiza jako główna arteria miasta gęsto usiana żaglowcami i barkami, London Bridge zabudowany domami i sklepami, las masztów w porcie, gęsta chaotyczna zabudowa, gotycka katedra św. Pawła, mglisty wilgotny klimat"
+        atmosphere: "Głośny chaotyczny i przeludniony port z nieustannym zgiełkiem ulicznym, skrzypieniem kół wozów, krzykami przekupniów, dzwonami kościelnymi i odgłosami portowymi, zapachem dymu węglowego i nieczystości"
+
+    - id: "sale_morocco"
+      name: "Salé, Morocco (1657)"
+      description_block: |
+        setting:
+          location: "Ufortyfikowane miasto portowe Salé w Maroku, XVII wiek, stolica korsarzy"
+        mainElements: "Potężne kamienne mury obronne w kolorze ochry, medyna z labiryntem wąskich krętych uliczek, bielone wapnem domy z małymi oknami i płaskimi dachami, minarety meczetów, kazba strzegąca portu u ujścia rzeki Bou Regreg"
+        atmosphere: "Egzotyczne wieloetniczne miasto portowe z nawoływaniami w języku arabskim, modlitwami z meczetów, targowaniem się na bazarach, zapachami morza, suszonych ryb, egzotycznych przypraw, skóry i kurzu"
+
+    - id: "brazilian_plantation"
+      name: "Brazilian Plantation (1659)"
+      description_block: |
+        setting:
+          location: "Plantacja trzciny cukrowej w kolonialnej Brazylii XVII wieku"
+        mainElements: "Rozległe zielone pola trzciny cukrowej ciągnące się po horyzont, biały dom właściciela z werandami otoczony ogrodami, skromne chaty niewolników, kaplica, młyn cukrowy napędzany siłą wołów, warzelnie z unoszącym się słodkim zapachem melasy"
+        atmosphere: "Pozornie idylliczny krajobraz z powolnym rytmem życia ale pełen napięcia i brutalności systemu niewolniczego, odgłosy pracy w polu, skrzypienie maszyn, śpiewy niewolników"
+
+    - id: "island_fortress"
+      name: "Island Fortress (Crusoe's Main Stronghold)"
+      description_block: |
+        setting:
+          location: "Główna siedziba Crusoe u podnóża stromego skalistego wzgórza na tropikalnej wyspie"
+        mainElements: "Półokrągła palisada z podwójnego rzędu grubych zaostrzonych pali wbitych głęboko w ziemię, przestrzeń między palami wypełniona kablami okrętowymi tworząca niemal litą ścianę, brak bramy tylko krótka drabina wciągana do środka, podwójny namiot w środku przykryty smołowaną plandeką z żagla, jaskinia wykuta w skale służąca jako piwnica i magazyn z zorganizowanymi półkami"
+        atmosphere: "Bezpieczeństwo porządek i schronienie, wizualny symbol panowania nad wyspą i odgradzania się od dzikiej natury"
+
+    - id: "island_bower"
+      name: "Island Bower (Summer House)"
+      description_block: |
+        setting:
+          location: "Druga mniejsza siedziba Crusoe w uroczej dolinie w głębi tropikalnej wyspy"
+        mainElements: "Szałas otoczony żywym płotem z szybko rosnących drzew, bujna zielona dolina, strumień ze słodką wodą, winorośle, egzotyczne kwiaty w żywych kolorach"
+        atmosphere: "Spokój harmonia z naturą i przyjemność, miejsce zbudowane nie tylko dla bezpieczeństwa ale i dla radości"
+
+    - id: "cannibal_beach"
+      name: "Cannibal Beach"
+      description_block: |
+        setting:
+          location: "Odludna piaszczysta plaża na tropikalnej wyspie gdzie kanibale urządzają uczty"
+        mainElements: "Złoty piasek często zaśmiecony ludzkimi szczątkami, resztki ogniska, ludzkie kości i czaszki rozrzucone po plaży, turkusowa woda oceanu, białe spienione fale"
+        atmosphere: "Groza barbarzyństwo i śmiertelne zagrożenie, makabryczne miejsce odsłaniające najciemniejsze aspekty ludzkiej natury"
+
+    - id: "ship_wreck"
+      name: "Ship Wreck"
+      - description_block: |
+        setting:
+          location: "Wrak statku przybity do brzegu tropikalnej wyspy"
+        mainElements: "Zniszczony drewniany żaglowiec częściowo zalewany przez fale, połamane maszty, zerwane żagle, rozsypane po pokładzie narzędzia i zapasy, kabina kapitana z książkami i instrumentami nawigacyjnymi"
+        atmosphere: "Jedyne namacalne połączenie ze światem który Crusoe utracił, statek-matka karmiąca go narzędziami cywilizacji"
+
+  items:
+    - id: "goatskin_cap"
+      name: "Goatskin Cap"
+      description_block: |
+        details: "Wysoka stożkowata bezkształtna czapka wykonana z koziej skóry z charakterystyczną klapą opadającą na kark chroniącą przed słońcem i deszczem, sierść kozła na zewnątrz w naturalnym szarym kolorze"
+
+    - id: "goatskin_umbrella"
+      name: "Goatskin Umbrella"
+      description_block: |
+        details: "Duży ciężki niezgrabny parasol wykonany z koziej skóry naciągniętej na drewniany stelaż, nieporęczny ale funkcjonalny, jedna z najpotrzebniejszych rzeczy według Crusoe"
+
+    - id: "wooden_cross_calendar"
+      name: "Wooden Cross Calendar"
+      description_block: |
+        details: "Prosty duży drewniany krzyż wbity w ziemię z licznymi nacięciami na powierzchni - długie kreski dla dni, dłuższe dla niedziel, najdłuższe dla początku miesiąca, symbol walki z bezmiarem czasu"
+
+    - id: "bible"
+      name: "Bible"
+      description_block: |
+        details: "Gruba księga oprawiona w ciemną skórę, jedna z książek uratowanych z wraku, strony pożółkłe i zniszczone od wilgoci morskiej, dla Crusoe najważniejszy przedmiot i źródło duchowego przewodnictwa"
+
+    - id: "musket"
+      name: "Musket"
+      description_block: |
+        details: "Ciężki drewniany muszkiet skałkowy z długą lufą, typowa broń palna z XVII wieku wymagająca długiego procesu ładowania, zawsze noszony przez Crusoe na ramieniu"
+
+    - id: "crusoe_tools"
+      name: "Crusoe's Tools"
+      description_block: |
+        details: "Zestaw narzędzi uratowanych z wraku: siekiera z drewnianym trzonkiem, piła ręczna z zębatym ostrzem, młotek, dłuta, świdry - wszystkie wykonane z żelaza i drewna, proste ale solidne narzędzia XVII wieku"
+
+    - id: "makeshift_raft"
+      name: "Makeshift Raft"
+      description_block: |
+        details: "Tratwa zbudowana z belek masztu, niezdarna i trudna w sterowaniu, używana do transportu dobytku z wraku na brzeg"
+
+    - id: "clay_pottery"
+      name: "Clay Pottery"
+      description_block: |
+        details: "Naczynia gliniane wykonane ręcznie przez Crusoe, pierwsze nieforemne i brzydkie ale funkcjonalne, późniejsze wypalane w ogniu są solidniejsze i lepiej ukształtowane"
+
+    - id: "gold_silver_coins"
+      name: "Gold and Silver Coins"
+      description_block: |
+        details: "Złote i srebrne monety XVII wieku uratowane z wraku, całkowicie bezużyteczne na wyspie, leżą w jaskini obok narzędzi i jedzenia jako symbol względności wartości materialnych"

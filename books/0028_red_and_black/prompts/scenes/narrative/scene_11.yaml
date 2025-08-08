@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Private study session with Abbé Pirard"
+  setting:
+    time: "1820s France during Bourbon Restoration, winter evening by candlelight"
+    location: "Austere private study of director in Catholic seminary in real city of Besançon"
+    weather: "Cold winter night"
+  characters:
+    - appearance: "Man age 45-55, ascetic thin build, severe sharp facial features, penetrating gaze reflecting moral rigor"
+      clothing: "Simple worn black cassock of Catholic priest, practical and austere religious attire showing signs of wear"
+      position: "Seated behind plain wooden desk with single candle"
+      action: "Examining Julian with mixture of approval and concern, recognizing his exceptional abilities"
+    - appearance: "Young man, age 19-23, short stature with small, slender build almost feminine in delicacy, dark chestnut hair worn slightly longer in 1820s style, large expressive black eyes, regular delicate facial features with aquiline nose, extremely pale complexion that turns bright red easily under emotional stress"
+      clothing: "Black cassock of Catholic seminarian, simple and worn religious attire"
+      position: "Standing respectfully before desk, hands clasped"
+      action: "Demonstrating theological knowledge with precise answers, struggling to hide his intellectual pride"
+  scene:
+    mainElements: "Spartanly furnished study with wooden desk, hard wooden chair, bookshelf with theological works, single candle providing flickering light, stone walls bare except for simple crucifix"
+    details: "Candle flame casting moving shadows on walls, theological books with worn leather bindings, simple wooden inkwell and quill pen, cold stone floor, small barred window showing darkness outside, atmosphere of rigorous intellectual discipline"
+    background: "Seminary corridor visible through partially open door, sound of evening prayers echoing from chapel, distant monastery bells"
+    atmosphere: "Recognition of exceptional talent in hostile environment, formation of crucial mentoring relationship, preparation for advancement beyond mediocre seminary world, intellectual kinship despite religious hypocrisy"
+  composition:
+    cameraAngle: "Medium shot capturing the intimate teacher-student dynamic"
+    focus: "Intellectual connection between the austere priest and brilliant young seminarian"
+    depth: "Abbé Pirard at desk in foreground, Julian standing before him in middle ground, sparse study details in background, no text or letters visible"

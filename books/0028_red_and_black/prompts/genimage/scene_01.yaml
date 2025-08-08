@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: 1820s France during Bourbon Restoration, warm late spring afternoon
+    location: Fictional provincial town in Franche-Comté region of eastern France near Swiss border, entrance gate to substantial
+      bourgeois residence with extensive walled gardens
+    weather: Bright sunny day with clear sky
+  characters:
+  - appearance: Young man, age 19-23, short stature with small, slender build almost feminine in delicacy, dark chestnut hair
+      worn slightly longer in 1820s style, large expressive black eyes, regular delicate facial features with aquiline nose,
+      extremely pale complexion that turns bright red easily under emotional stress
+    clothing: Simple but clean country shirt, plain drelich fabric coat under arm, small bundle of belongings, practical rural
+      attire of poor but neat appearance
+    position: Standing nervously at iron entrance gate
+    action: Hesitating at threshold, showing visible anxiety and determination
+  - appearance: Woman around 30 years old, tall with graceful elegant figure, dazzling fresh complexion, natural beauty without
+      artifice, moves with innate grace and charm when comfortable
+    clothing: Elegant but restrained provincial fashion - silk or muslin summer dresses in muted pastel colors, well-made
+      but not ostentatious, appropriate for wealthy provincial matron
+    position: Walking gracefully through garden, pausing with surprise at gate
+    action: Initially startled, then showing gentle curiosity and compassion toward the young stranger
+  scene:
+    mainElements: Stone houses with tile roofs visible in background, iron entrance gate separating street from well-maintained
+      gardens enclosed by high walls, formal garden spaces with paths and flower beds
+    details: Sunlight filtering through leaves creates dappled shadows, garden tools visible near gate, distant sound of sawmill
+      machinery from old Sorel's mill, careful contrast between Julian's simple rural appearance and the bourgeois elegance
+      of the estate
+    background: Provincial French town setting above Doubs River, stone bridge visible in distance, church spire dominating
+      skyline
+    atmosphere: Moment of social tension and unexpected human connection, class barriers made visible through architecture
+      and clothing, underlying current of attraction and sympathy
+  composition:
+    cameraAngle: Medium shot capturing both characters with gate as central dividing element
+    focus: Contrast between Julian's nervous vulnerability and Madame de Rênal's composed elegance
+    depth: Gate and characters in foreground, garden path leading to house in middle ground, provincial town landscape in
+      background, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

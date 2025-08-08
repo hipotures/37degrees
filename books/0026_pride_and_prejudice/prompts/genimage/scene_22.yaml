@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: Early 19th century England, morning, midsummer
+    location: Inn parlor in Lambton village near Pemberley estate
+    weather: Bright summer morning contrasting with dark news
+  characters:
+  - appearance: Woman, 20 years old, beautiful dark intelligent eyes with expressive gaze, light and pleasing figure, average
+      height, not classically beautiful like her sister Jane but possessing striking charm, dark hair arranged in period-appropriate
+      style with loose curls framing her face, healthy complexion that gains attractive rosy color after physical exertion
+    clothing: Morning dress in white muslin with blue ribbons, hair hastily arranged, no bonnet, appearance showing signs
+      of distress and shock
+    position: Seated at small table in inn parlor, letter in trembling hands
+    action: Reading with growing horror and despair, her face showing complete devastation as she realizes the full catastrophe
+  - appearance: Middle-aged couple showing concern and distress
+    clothing: Traveling clothes hastily arranged, showing signs of urgent preparation
+    position: Standing nearby, having just delivered the urgent news
+    action: Watching Elizabeth's reaction with worried expressions, preparing for immediate departure
+  - appearance: Man, 28 years old, tall imposing height, handsome strong features, noble bearing, dark hair carefully styled
+      in period fashion, serious expression that softens when genuinely pleased, athletic build from riding and outdoor activities,
+      pale complexion typical of English gentleman
+    clothing: Morning coat and riding attire, having come immediately upon hearing of distress
+    position: Standing in doorway having just arrived, hat in hand
+    action: Observing Elizabeth's distress with deep concern and evident desire to help
+  scene:
+    mainElements: Simple inn parlor with basic furniture for travelers, small windows overlooking village street, travelling
+      trunks and baggage suggesting urgent departure, modest accommodations suitable for middle-class tourists
+    details: Small inn parlor with simple wooden furniture, traveling papers and maps spread on table, urgent preparations
+      for departure visible, morning light streaming through small windows, atmosphere of crisis disrupting peaceful touring
+      holiday, evidence of hasty packing and preparation
+    background: View through windows of village street, other inn guests moving about, sounds of departure preparations
+    atmosphere: Rural inn atmosphere of simple comfort suddenly charged with family crisis and urgent need for action
+  composition:
+    cameraAngle: Medium shot focusing on Elizabeth's devastation with others reacting
+    focus: Elizabeth's complete despair as she realizes the full extent of family disgrace
+    depth: 'Foreground: letter with devastating news; middle ground: Elizabeth''s shocked reaction; background: concerned
+      friends and family preparing for crisis, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

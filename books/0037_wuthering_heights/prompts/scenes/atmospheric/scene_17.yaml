@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Firelight and Shadows at Wuthering Heights"
+  setting:
+    time: "Late Georgian period Yorkshire, evening with darkness settled, interior lit only by firelight"
+    location: "Remote stone farmhouse from 1500s positioned on exposed Yorkshire hilltop, massive fortress-like structure with thick walls built to withstand constant winds, narrow deep-set windows, surrounded by stunted fir trees and thorns bent by prevailing winds"
+    weather: "Cold night with wind howling around stone walls, complete darkness outside"
+  characters:
+    - appearance: "Middle-aged woman, described as stout with occasional breathing problems, practical honest face, dress and manner of respectable servant, age ranging from young woman to middle-aged throughout story"
+      clothing: "Simple practical servant's dress in dark colors, clean apron, modest cap, clothing always neat and appropriate to her station as housekeeper"
+      position: "Seated in chair by enormous fireplace, knitting in her lap"
+      action: "Working by firelight while telling stories, face animated by flickering flames, creating atmosphere of oral tradition"
+    - appearance: "Tall athletic man, late 20s to 30s, dark Gypsy-like complexion, thick black hair and black side-whiskers, deep-set black eyes described as fiery and wild, sharp angular features, face increasingly marked by suffering and hatred with age"
+      clothing: "Well-cut gentleman's frock coat in dark colors, fitted waistcoat, long pantaloons, high riding boots, clothing somewhat carelessly worn suggesting indifference to fashion, cravat tied with studied negligence"
+      position: "Standing in shadows beyond firelight, partially visible"
+      action: "Listening from darkness, his presence felt rather than clearly seen, eyes occasionally catching firelight"
+  scene:
+    mainElements: "Central living room called 'the house' with enormous open fireplace casting wild dancing light and shadows, smoke-blackened beams visible in flickering light, massive oak dresser appearing and disappearing in moving shadows, primitive furniture taking on mysterious qualities in firelight"
+    details: "Enormous fireplace throws wild dancing light and deep shadows throughout stone-walled room, flames create constantly shifting patterns on ancient walls, furniture and hanging objects appear and disappear in moving light, wind outside howls around stone walls, firelight reflects in pewter plates creating points of brightness in darkness, no text or letters visible"
+    background: "Stone walls and dark corners beyond firelight, narrow windows showing complete darkness outside"
+    atmosphere: "Primitive mystery and ancient storytelling tradition, sense of human warmth battling darkness and cold, air carries scents of wood smoke and ancient stones, atmosphere of timeless domestic ritual and hidden secrets"
+  composition:
+    cameraAngle: "Interior shot emphasizing firelight and shadow contrasts"
+    focus: "Woman by fire with mysterious figure lurking in shadows, dramatic light and darkness"
+    depth: "Foreground blazing fireplace, middle ground seated figure, background shadowy presence in darkness"

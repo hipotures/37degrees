@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: Early 1910s, late afternoon in spiritual space before final confrontation
+    location: Massive Gothic cathedral in Central European city center, ancient stone building with soaring architecture representing
+      spiritual and temporal authority
+    weather: Stormy afternoon with dramatic light filtering through stained glass
+  characters:
+  - appearance: Man, 30 years old, average height with lean build, dark brown hair neatly combed, intelligent face with regular
+      features, clean-shaven with pale complexion, becoming increasingly gaunt and tired-looking as stress mounts, dark circles
+      under eyes, nervous ticks developing
+    clothing: Well-tailored dark charcoal suit, crisp white shirt with high starched collar, conservative dark tie, polished
+      leather shoes, black formal overcoat when outdoors, always impeccably dressed despite growing internal turmoil
+    position: Standing alone in vast empty space, dwarfed by monumental architecture
+    action: Moving slowly through enormous sacred space, footsteps echoing, searching for meaning or salvation in spiritual
+      environment, preparing for final spiritual confrontation
+  scene:
+    mainElements: Vast empty nave with towering stone pillars, high vaulted ceiling disappearing into darkness, stone altar
+      with flickering candles, wooden pulpit, scattered wooden pews
+    details: Massive stone architecture dwarfing human figure, flickering candlelight creating dramatic contrasts, religious
+      imagery suggesting themes of judgment and salvation, echoing footsteps emphasizing solitude and insignificance, no text
+      or letters visible
+    background: Sacred space representing ultimate questions of justice, guilt, and human fate
+    atmosphere: Profound echoing silence broken only by footsteps, cold stone surfaces, lingering smell of incense and old
+      stone, dramatic contrasts of candlelight and deep shadows
+  composition:
+    cameraAngle: Extreme wide shot emphasizing protagonist's smallness against monumental architecture
+    focus: Moment before final spiritual and philosophical confrontation with ultimate questions
+    depth: 'Foreground: tiny human figure dwarfed by architecture, middle ground: vast sacred space, background: soaring stone
+      architecture suggesting divine or institutional judgment'
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

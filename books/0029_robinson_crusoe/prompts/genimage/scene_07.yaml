@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: September 30, 1659, blazing midday sun with minimal shadows, bleached tropical light
+    location: Tropical island beach near Venezuela coast, wreckage scattered on white sand
+    weather: Brilliant clear day with intense tropical sun, no wind, oppressive heat
+  characters:
+  - appearance: Mężczyzna, wiek od 27 do 55 lat, postawny i muskularny, ogorzały od słońca, długie niestrzyżone włosy, długa
+      gęsta broda przystrzyżona w tureckie wąsy mahometańskie, twarz poorana zmarszczkami od słońca, dziki barbarzyński wygląd
+    clothing: 'Kompletny strój z koziej skóry: wysoka stożkowata bezkształtna czapka z klapą chroniącą kark, krótka kurtka
+      z koziej skóry z sierścią na zewnątrz sięgająca do połowy uda, spodnie z koziej skóry do kolan z długą sierścią zwisającą
+      do połowy łydek, wysokie sznurowane buty z koziej skóry, szeroki pas z suszonej skóry'
+    position: Standing ankle-deep in surf examining broken ship hull
+    action: Salvaging useful items from wreck, shielding eyes against glaring sun reflection on water
+  scene:
+    mainElements: Zniszczony drewniany żaglowiec częściowo zalewany przez fale, połamane maszty, zerwane żagle, rozsypane
+      po pokładzie narzędzia i zapasy, kabina kapitana z książkami i instrumentami nawigacyjnymi
+    details: Sun creating harsh shadows and brilliant reflections on wet sand and water, broken masts casting minimal vertical
+      shadows, seawater evaporating rapidly in heat creating salt residue, tropical vegetation beginning just beyond high
+      tide line, scattered debris including barrels, rope, and wooden planks, crystal clear water revealing sand bottom and
+      broken ship parts
+    background: Pristine tropical beach with white sand extending in both directions, dense green jungle beginning beyond
+      dunes, brilliant blue ocean stretching to horizon
+    atmosphere: Harsh beauty of tropical paradise contrasted with human disaster, solitude emphasized by blazing empty landscape,
+      sense of both destruction and opportunity for new beginning
+  composition:
+    cameraAngle: Wide angle showing scale of wreckage against pristine landscape
+    focus: Lone figure among ship debris, bright light eliminating most shadows
+    depth: 'Foreground: surf and sand with debris, Middle: figure examining wreck, Background: endless ocean and jungle, no
+      text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia ink
+    - brown ink
+    background: white or aged paper
+    usageNotes: Monochromatic, tone through line density
+    saturation: none
+    contrast: created through line spacing
+  lineArt:
+    style: systematic parallel lines
+    weight: consistent, fine
+    color: black or brown ink
+    texture: created entirely through lines
+    edgeTreatment: defined by line direction changes
+  lighting:
+    type: implied through line density
+    direction: shown through hatching direction
+    intensity: varies with line spacing
+    shadows:
+      style: dense crosshatching
+      color: black ink
+      opacity: line density
+    highlights: sparse or no lines
+  rendering:
+    technique: traditional pen technique
+    texture: entirely line-based
+    detailLevel: high through careful line work
+    finish: hand-drawn quality
+  perspective: traditional, often architectural
+  mood:
+    overall: classic, scholarly, detailed
+    emotion: contemplative, serious, refined
+    tempo: measured, careful
+    keywords:
+    - classic
+    - scholarly
+    - refined
+    - traditional
+    - meticulous
+  stylePrecedents:
+  - Albrecht Dürer
+  - Rembrandt etchings
+  - Scientific illustration
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Peaceful Arrival - Soul Finding Sanctuary"
+  setting:
+    time: "1771 May, late afternoon, golden hour"
+    location: "Shaded hollow on gentle hillside near Wahlheim village, natural stone arch formation with marble spring, twenty stone steps leading down to water source"
+    weather: "Warm spring day with gentle breeze, dappled sunlight through leaves"
+  characters:
+    - appearance: "Young man, 24 years old, slender athletic build, average height, expressive dark eyes, dark brown hair gathered simply at the nape with a black ribbon, clean-shaven with sharp jawline, intensely emotional facial expressions capable of extreme joy and deep melancholy"
+      clothing: "Iconic blue woolen frock coat with brass buttons, bright yellow silk waistcoat, cream-colored knee-length breeches, white linen shirt with ruffled jabots, white silk stockings, brown leather riding boots with small heel and brass buckle"
+      position: "Seated on moss-covered stone step beside flowing water, body relaxed and open"
+      action: "Gazing contemplatively at crystal clear water flowing from marble rock face, breathing deeply with visible relief and contentment, occasionally touching the cool stone with gentle reverence"
+  scene:
+    mainElements: "Ancient stone archway carved into hillside creates natural cathedral, crystal clear water flowing from white marble rock face with musical trickling sound, moss-covered stone steps descending to water source, overhanging oak and beech trees creating dense canopy of fresh green leaves"
+    details: "Sunlight filters through leaves creating constantly shifting patterns of light and shadow on stone and water, small wildflowers bloom between rocks, carved archway shows centuries of weathering with soft organic curves, water catches and reflects fragments of sky, distant sound of village church bells, scent of moss and spring water and new growth, no text or letters visible"
+    background: "Dense forest extends up hillside with layers of green foliage, glimpse of Wahlheim village spires through trees in middle distance, rolling countryside extends toward horizon"
+    atmosphere: "Profound serenity and renewal, mystical connection to nature, soul finding refuge from worldly troubles, timeless peace broken only by natural sounds of flowing water and birdsong, sense of returning to primordial harmony"
+  composition:
+    cameraAngle: "Medium shot from slightly above, capturing both figure and natural setting"
+    focus: "Young man in contemplation beside sacred spring, face expressing wonder and relief"
+    depth: "Foreground: figure and immediate stone formation, middle ground: flowing water and moss-covered steps, background: forest canopy and distant village glimpses"

@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Bob Ewell's Threat"
+  setting:
+    time: "1934, late summer day, public confrontation"
+    location: "Central courthouse building on town square in Maycomb Alabama, imposing but aging structure"
+    weather: "Hot humid day, tension in still air"
+  characters:
+    - appearance: "White man, 40s, short and thin with rat-like face, unshaven, red nose from drinking, scalded look to his skin"
+      clothing: "Dirty collarless shirt, stained pants held up with suspenders, shapeless wool cap"
+      position: "Standing aggressively close to Atticus near courthouse steps"
+      action: "Nervous twitchy movements, aggressive when threatened"
+    - appearance: "Man, late 40s, tall and thin build, graying brown hair, wire-rimmed glasses, dignified weathered face"
+      clothing: "Dark three-piece suit, white dress shirt, dark tie, black leather shoes"
+      position: "Standing calmly despite verbal assault and physical threat"
+      action: "Refusing to be provoked, maintaining dignity under attack"
+    - appearance: "Middle-aged white men, townspeople and courthouse employees"
+      clothing: "Various work clothes and business attire"
+      position: "Watching confrontation from courthouse steps and nearby"
+      action: "Witnessing public humiliation attempt, some sympathetic to Atticus"
+  scene:
+    mainElements: "Large brick and stone building with columns, sagging architectural details, courtroom with heavy oak benches, separate balcony for colored section"
+    details: "Public confrontation on courthouse steps, Bob Ewell spitting in Atticus's face, Atticus refusing to retaliate, witnesses seeing two different types of manhood displayed"
+    background: "Formal seat of justice, stuffy and oppressive during trial, symbol of legal system"
+    atmosphere: "Dangerous public humiliation, threat of future violence, moral courage versus cowardly revenge"
+  composition:
+    cameraAngle: "Medium shot from courthouse steps showing confrontation"
+    focus: "Bob Ewell threatening Atticus with townspeople watching"
+    depth: "Foreground: aggressive confrontation, middle ground: dignified response to provocation, background: courthouse representing justice, no text or letters visible"

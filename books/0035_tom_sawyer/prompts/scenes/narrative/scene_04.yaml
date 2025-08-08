@@ -1,0 +1,25 @@
+sceneDescription:
+  title: "Meeting the Village Outcast"
+  setting:
+    time: "1840s Missouri, late afternoon summer day"
+    location: "Dusty back alley behind main street of St. Petersburg, near abandoned lot"
+    weather: "Warm summer afternoon with lengthening shadows"
+  characters:
+    - appearance: "Boy, 12-13 years old, lean build with curly brown hair, animated face showing excitement and admiration"
+      clothing: "Clean everyday clothes - brown trousers, cotton shirt, barefoot but recently washed"
+      position: "Standing at edge of alley, looking toward approaching figure with fascination"
+      action: "Stopping mid-stride to stare with mixture of envy and awe at approaching boy"
+    - appearance: "Boy, 13-14 years old, thin and weathered, long dirty hair in mousy color, face perpetually grimy and sun-darkened"
+      clothing: "Oversized tattered clothing clearly salvaged from adults - huge ruined hat with crescent torn from brim, coat reaching nearly to heels, one suspender holding up low-hanging trousers, always barefoot"
+      position: "Walking casually down alley, carrying corn-cob pipe"
+      position: "Strolling with complete freedom and independence, smoking pipe with casual expertise"
+      action: "Moving with natural, unconstrained gait of someone answerable to no authority, puffing on pipe"
+  scene:
+    mainElements: "Narrow alley between wooden buildings, scattered refuse and discarded items, weeds growing through gaps in wooden sidewalk, mud puddles from recent rain"
+    details: "Corn-cob pipe producing small puffs of smoke, tattered clothing items dragging in dust, broken barrel and old crates providing makeshift seating, chickens pecking in nearby yard, no text or letters visible"
+    background: "Backs of main street buildings, privies and storage sheds, vegetable gardens with wooden fences, glimpse of river beyond town"
+    atmosphere: "Contrast between civilized expectations and complete freedom, boyish fascination with forbidden lifestyle, late afternoon summer laziness"
+  composition:
+    cameraAngle: "Medium shot capturing both boys and their contrasting appearances"
+    focus: "Visual contrast between conventional boy and free spirit, representing different ways of life"
+    depth: "Foreground: well-dressed boy showing fascination, middle ground: ragged boy representing ultimate freedom, background: mundane village infrastructure"

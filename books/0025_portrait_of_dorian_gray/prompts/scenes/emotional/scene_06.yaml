@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Shadows Beginning to Lengthen"
+  setting:
+    time: "Late Victorian London, late evening transitioning toward dusk, 1880s"
+    location: "Victorian West End artist's studio, duże wysokie pomieszczenie with ogromne okno sięgające od podłogi do sufitu overlooking starannie pielęgnowany ogród, wiktoriańska kamienica interior"
+    weather: "Light beginning to fade with first shadows of evening creeping in"
+  characters:
+    - appearance: "Young man, 20 years old, smukły build, pełen wdzięku, kędzierzawe złote włosy framing face in rebellious locks, szczere niebieskie oczy, klasyczna owalna twarz z rysami made of kości słoniowej i płatków róży, finely curved szkarłatne usta, brak jakichkolwiek skaz, absolutna doskonała uroda"
+      clothing: "Nienaganny strój dandysa: perfectly tailored garments now slightly disheveled from emotional moment, jedwabna kamizelka, kwiat w butonierce beginning to wilt"
+      position: "Standing with slightly tense posture, no longer completely relaxed"
+      action: "Moving with slightly more studied movements, kapryśne porywcze gestures now carrying hint of self-consciousness, beginning to see himself as object of aesthetic fascination"
+  scene:
+    mainElements: "Masywna drewniana sztaluga with completed portrait now casting slightly longer shadows, przestrzeń otwarta where light is beginning to shift from golden to amber, subtle change in quality of light suggesting passage of time and shift in mood"
+    details: "Głębokie czerwienie i złoto perskich dywanów now appearing richer and darker in changing light, jedwabne zasłony moving more restlessly in evening breeze, shadows beginning to gather in corners of room, przybory malarskie taking on more mysterious appearance in fading light, no text or letters visible"
+    background: "View of starannie pielęgnowany ogród through wielkie okno where flowers are beginning to close for evening, first hints of twilight changing the garden's appearance from bright to mysterious"
+    atmosphere: "Subtle shift from perfect contentment to first stirrings of something deeper and more complex, evening light creating more dramatic contrasts between light and shadow, ciężki zapach róż becoming more intense and almost cloying, sense that perfect moment has passed and something new is beginning, first hint of change in the air"
+  composition:
+    cameraAngle: "Medium shot showing longer shadows and changing quality of light"
+    focus: "Young man beginning to see himself differently in changing light, subtle shift in emotional state"
+    depth: "Foreground: figure with slightly altered posture, middle ground: portrait casting longer shadows, background: garden transitioning from day to evening"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Late Morning Light on Stone Walls"
+  setting:
+    time: "Late Georgian period Yorkshire, late morning with sun climbing toward zenith, clear bright light"
+    location: "Remote stone farmhouse from 1500s positioned on exposed Yorkshire hilltop, massive fortress-like structure with thick walls built to withstand constant winds, narrow deep-set windows, surrounded by stunted fir trees and thorns bent by prevailing winds"
+    weather: "Bright clear morning, strong sunshine creating sharp shadows on stone surfaces"
+  characters:
+    - appearance: "Strong young man about 24 years, thick brown curling hair, dark expressive eyes, handsome rugged features, well-built athletic frame, hands tanned from farm work"
+      clothing: "Rough laborer's clothes, thick worn trousers, coarse shirt, heavy boots, garments suitable for outdoor work but clean, clothing reflects his degraded status despite noble birth"
+      position: "Working in courtyard area, bent over farm task in strong morning light"
+      action: "Repairing farm equipment with rough tools, movements showing natural strength and competence despite rough circumstances"
+  scene:
+    mainElements: "Wild stormy brutal primitive, ancient stone walls illuminated by strong morning sun revealing every crack and texture, defensive stone walls casting sharp geometric shadows across courtyard, stunted fir trees and thorns bent by prevailing winds creating twisted silhouettes"
+    details: "Harsh morning light reveals weathered texture of ancient stone walls, sharp shadows create strong geometric patterns across courtyard stones, farm tools and equipment scattered about showing working establishment, rough ground covered with straw and earth, wind-bent vegetation casts moving shadows, no text or letters visible"
+    background: "Expansive Yorkshire moorland visible beyond stone walls, rolling hills clear in bright morning air, distant landscape stretching to horizon"
+    atmosphere: "Hard physical labor and endurance, sense of historical continuity and survival, morning air carries scents of stone warming in sun and farm work, atmosphere of strength required for harsh environment"
+  composition:
+    cameraAngle: "Medium shot showing figure at work against stone wall background"
+    focus: "Working figure in courtyard with strong light and shadow patterns on ancient stone"
+    depth: "Foreground farm tools and rough ground, middle ground working figure against stone wall, background moorland vista"

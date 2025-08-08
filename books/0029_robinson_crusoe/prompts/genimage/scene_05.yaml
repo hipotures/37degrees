@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1659, early morning with mist rising from ocean, shadows shortening as sun climbs
+    location: West African coastline, small fishing boat moving south along dangerous shore
+    weather: Clear morning with light ocean breeze, gentle swells, perfect sailing conditions
+  characters:
+  - appearance: Mężczyzna, wiek 26 lat, wychudzony ale umięśniony od ciężkiej pracy, zapuszczone włosy i broda w nieładzie,
+      skóra śniada i spalona słońcem, na twarzy ślady zmęczenia i rezygnacji
+    clothing: 'Prosty strój niewolnika: zniszczona zgrzebna tunika z grubego niebielonego płótna, luźne spodnie z tego samego
+      materiału, chodzi boso, ubranie brudne i podarte'
+    position: At tiller of small fishing boat, scanning horizon nervously
+    action: Steering boat southward along coast, constantly watching for pursuit while experiencing first taste of freedom
+  - appearance: Nastoletni chłopak, mieszkaniec Salé, prawdopodobnie Maur lub pochodzący z Afryki Subsaharyjskiej
+    clothing: Prosty zniszczony strój niewolnika z grubego płótna
+    position: Forward in boat managing simple sail
+    action: Helping with sailing while looking ahead toward unknown future
+  scene:
+    mainElements: Small fishing boat with triangular sail cutting through blue Atlantic waters, rugged African coastline with
+      cliffs and beaches, steam rising from warming ocean surface, seabirds following boat's wake
+    details: Morning light creating golden path across water surface, boat's wake trailing behind in V-pattern, spray occasionally
+      misting over bow, fishing nets and simple supplies visible in boat, distant mountains visible inland, no other vessels
+      in sight creating sense of vast solitude
+    background: Endless Atlantic ocean stretching to horizon, dramatic coastline with varied geology of cliffs and bays, clear
+      blue sky with few scattered clouds
+    atmosphere: Taste of freedom after years of captivity, uncertainty about future mixed with hope, beauty of morning at
+      sea contrasting with danger of situation, sense of vast possibilities ahead
+  composition:
+    cameraAngle: Wide shot from slightly elevated position showing boat against vast seascape
+    focus: Small boat as tiny human element against immense natural backdrop, morning light on water
+    depth: 'Foreground: ocean waves and spray, Middle: fishing boat with figures, Background: coastline and distant mountains,
+      no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia ink
+    - brown ink
+    background: white or aged paper
+    usageNotes: Monochromatic, tone through line density
+    saturation: none
+    contrast: created through line spacing
+  lineArt:
+    style: systematic parallel lines
+    weight: consistent, fine
+    color: black or brown ink
+    texture: created entirely through lines
+    edgeTreatment: defined by line direction changes
+  lighting:
+    type: implied through line density
+    direction: shown through hatching direction
+    intensity: varies with line spacing
+    shadows:
+      style: dense crosshatching
+      color: black ink
+      opacity: line density
+    highlights: sparse or no lines
+  rendering:
+    technique: traditional pen technique
+    texture: entirely line-based
+    detailLevel: high through careful line work
+    finish: hand-drawn quality
+  perspective: traditional, often architectural
+  mood:
+    overall: classic, scholarly, detailed
+    emotion: contemplative, serious, refined
+    tempo: measured, careful
+    keywords:
+    - classic
+    - scholarly
+    - refined
+    - traditional
+    - meticulous
+  stylePrecedents:
+  - Albrecht Dürer
+  - Rembrandt etchings
+  - Scientific illustration
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

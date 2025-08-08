@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: Late Georgian period Yorkshire, early morning with sun climbing higher, shadows shortening
+    location: Remote stone farmhouse from 1500s positioned on exposed Yorkshire hilltop, massive fortress-like structure with
+      thick walls built to withstand constant winds, narrow deep-set windows, surrounded by stunted fir trees and thorns bent
+      by prevailing winds
+    weather: Clear morning air, light breeze disturbing smoke from chimney
+  characters:
+  - appearance: Middle-aged woman, described as stout with occasional breathing problems, practical honest face, dress and
+      manner of respectable servant, age ranging from young woman to middle-aged throughout story
+    clothing: Simple practical servant's dress in dark colors, clean apron, modest cap, clothing always neat and appropriate
+      to her station as housekeeper
+    position: Standing in doorway of farmhouse, wiping hands on apron
+    action: Watching smoke from kitchen chimney catch early sunlight, preparing for day's domestic tasks
+  scene:
+    mainElements: Central living room called 'the house' with enormous open fireplace sending thick column of smoke up chimney,
+      morning sun catches smoke creating golden haze, massive oak dresser reaching to ceiling filled with pewter plates catching
+      early light, primitive high-backed chairs painted green
+    details: Thick white smoke rises from stone chimney and disperses in morning breeze, sun illuminates smoke creating brief
+      golden moments, pewter dishes on dresser reflect morning light, rough stone walls show texture in angled illumination,
+      kitchen preparations evident with steam rising from pots, no text or letters visible
+    background: Vast moorland heathland extending for miles, stunted trees bent by prevailing winds, rolling hills visible
+      in clear morning air
+    atmosphere: Domestic activity beginning and warmth of hearth, sense of isolated self-sufficiency, morning air carries
+      scents of wood smoke and cooking food, atmosphere of hard rural life and endurance
+  composition:
+    cameraAngle: Wide exterior shot showing house with smoking chimney against moorland
+    focus: Rising smoke column catching sunlight, with domestic figure in doorway
+    depth: Foreground heather and rough ground, middle ground stone house with active chimney, background rolling moorland
+      under clear sky
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,119 @@
+canon:
+  characters:
+    - id: "heathcliff_child"
+      name: "Heathcliff (Child 7-16 years)"
+      description_block: |
+        characters:
+          - appearance: "Dark-skinned boy resembling Gypsy, 7-16 years old, black wild eyes, thick black hair, somewhat neglected and dirty appearance. Short height for age, thin build from poor care, hard expression despite youth"
+            clothing: "Simple rough servant's clothes, often torn and worn, brown wool shirt, patched knee-length breeches, no shoes or rough leather boots, garments too large or too small"
+            posture: "Moves with wary defensiveness, shoulders slightly hunched, ready to flee or fight, stands apart from others, distrustful stance"
+
+    - id: "heathcliff_adult" 
+      name: "Heathcliff (Adult 19-37 years)"
+      description_block: |
+        characters:
+          - appearance: "Tall athletic man, late 20s to 30s, dark Gypsy-like complexion, thick black hair and black side-whiskers, deep-set black eyes described as fiery and wild, sharp angular features, face increasingly marked by suffering and hatred with age"
+            clothing: "Well-cut gentleman's frock coat in dark colors, fitted waistcoat, long pantaloons, high riding boots, clothing somewhat carelessly worn suggesting indifference to fashion, cravat tied with studied negligence"
+            posture: "Upright proud bearing, moves with confidence and controlled aggression, gestures can be violent and sudden, expression typically grim and sardonic, rarely smiles except mockingly"
+
+    - id: "catherine_earnshaw_child"
+      name: "Catherine Earnshaw (Child 6-17 years)"
+      description_block: |
+        characters:
+          - appearance: "Wild energetic girl, 6-17 years, beautiful long dark curling hair, penetrating dark eyes, naturally beautiful features with untamed quality, full of vitality and movement"
+            clothing: "Simple country dresses often torn and dirty from outdoor adventures, plain cotton or linen in earthy colors, bare feet or simple shoes, clothing disheveled from running across moors"
+            posture: "Never walks but runs, flies, rushes everywhere, extremely dynamic and expressive, gestures dramatic and impulsive, face shows rapid emotional changes from joy to fury"
+
+    - id: "catherine_earnshaw_lady"
+      name: "Catherine Earnshaw/Linton (Adult 18-19 years)"  
+      description_block: |
+        characters:
+          - appearance: "Beautiful young woman, 18-19 years, long dark curling hair now elegantly arranged, penetrating dark eyes, refined beauty with underlying wildness. During illness becomes very pale and emaciated"
+            clothing: "Elegant Georgian gowns in silk and muslin with lace and ruffles, fashionable dress appropriate for genteel lady, during illness simple white nightgown, clothing represents her attempt to conform to civilization"
+            posture: "More refined movements learned from Lintons but still theatrical and dramatic, gestures remain passionate and impulsive, expressions change rapidly between moods"
+
+    - id: "edgar_linton"
+      name: "Edgar Linton"
+      description_block: |
+        characters:
+          - appearance: "Gentleman in his teens to late 30s, pale fair complexion, long light hair slightly curling at temples, large serious blue eyes, slender graceful build, delicate aristocratic features"
+            clothing: "Impeccable gentleman's attire, well-fitted frock coat, silk waistcoat, breeches with silk stockings, leather shoes with buckles, linen shirt with lace frills, everything perfectly maintained and fashionable"
+            posture: "Moves with refined grace and restraint, controlled gestures, maintains proper posture, expression typically serious and gentle, embodies civilized behavior"
+
+    - id: "isabella_linton"
+      name: "Isabella Linton/Heathcliff"
+      description_block: |
+        characters:
+          - appearance: "Young woman 11-31 years, very fair pale skin, blonde yellow hair, blue eyes, delicate dainty features. Later becomes worn and bitter from suffering"
+            clothing: "Fashionable elegant gowns in light pastel colors, fine materials with feminine details like ribbons and lace. After marriage and escape, more modest dark clothing"
+            posture: "Initially naive and romantic in gestures, graceful feminine movements. Later becomes nervous and guarded, movements sharp with anxiety"
+
+    - id: "young_catherine"
+      name: "Young Catherine (Cathy) Linton"
+      description_block: |
+        characters:
+          - appearance: "Girl to young woman 0-18 years, beautiful golden curling hair inherited from Lintons, dark expressive eyes inherited from Earnshaws, very pretty combining features of both families"
+            clothing: "Simple dresses progressing to elegant Regency-style gowns as she matures, empire waist, light flowing fabrics, colors reflecting her genteel upbringing"
+            posture: "Spirited and energetic like her mother but gentler, expressive gestures, naturally graceful movement, face shows curiosity and determination"
+
+    - id: "hareton_earnshaw" 
+      name: "Hareton Earnshaw"
+      description_block: |
+        characters:
+          - appearance: "Strong young man about 24 years, thick brown curling hair, same dark eyes as Catherine Earnshaw, handsome rugged features, well-built athletic frame, hands tanned from farm work"
+            clothing: "Rough laborer's clothes, thick worn trousers, coarse shirt, heavy boots, garments suitable for outdoor work but clean, clothing reflects his degraded status despite noble birth"
+            posture: "Proud bearing despite rough circumstances, moves with natural dignity, initially surly and defensive, gradually becomes gentler, stands straight without servility"
+
+    - id: "nelly_dean"
+      name: "Nelly (Ellen) Dean"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged woman, described as stout with occasional breathing problems, practical honest face, dress and manner of respectable servant, age ranging from young woman to middle-aged throughout story"
+            clothing: "Simple practical servant's dress in dark colors, clean apron, modest cap, clothing always neat and appropriate to her station as housekeeper"
+            posture: "Moves with purpose and efficiency, gestures practical and no-nonsense, expression usually calm and observant, seated comfortably when telling story"
+
+  locations:
+    - id: "wuthering_heights_house"
+      name: "Wuthering Heights House"
+      description_block: |
+        setting:
+          location: "Remote stone farmhouse dating from 1500, positioned on exposed Yorkshire hilltop, massive fortress-like structure with thick walls built to withstand constant winds, narrow deep-set windows, surrounded by stunted fir trees and thorns bent by prevailing winds"
+        mainElements: "Central living room called 'the house' with enormous open fireplace, smoke-blackened beams visible in ceiling, smooth white stone floor, massive oak dresser reaching to ceiling filled with pewter plates and silver jugs, primitive high-backed chairs painted green, ladder to upper floors, defensive stone walls"
+        atmosphere: "Wild stormy brutal primitive, constant sound of howling wind, crackling fire, dogs growling, smell of smoke damp stone cooked food, dimly lit by fireplace creating dancing shadows and harsh contrasts"
+
+    - id: "thrushcross_grange_house"
+      name: "Thrushcross Grange House"
+      description_block: |
+        setting:
+          location: "Elegant Georgian mansion in sheltered valley, symmetrical harmonious architecture from 18th century, built of warm honey-colored Bath stone, surrounded by extensive formal parks and gardens with maintained paths"
+        mainElements: "Spacious well-lit rooms with large windows, crimson carpets and upholstery, white ceiling with golden moldings, crystal chandelier with numerous candles, library with many books, refined Georgian furniture, specialized rooms for different functions"
+        atmosphere: "Civilized ordered peaceful refined, sounds of ticking clock rustling silk gentle conversation, smells of beeswax candles potpourri fresh flowers, evenly lit by daylight and candlelight creating warm comfortable environment"
+
+    - id: "yorkshire_moors"
+      name: "Yorkshire Moors and Heathland"
+      description_block: |
+        setting:
+          location: "Vast open rolling heathland between the two houses, wild untamed moorland stretching for miles, covered in heather that blooms purple-pink in late summer, scattered with moss-covered boulders and peat bogs, few gnarled trees shaped by wind"
+        mainElements: "Purple blooming heather in August, brown and gray barren landscape other seasons, rocky outcrops providing shelter, boggy areas dangerous in mist, paths worn by sheep and humans, completely open to sky and weather"
+        atmosphere: "Freedom wildness solitude beauty danger, sounds of wind rushing through heather bird calls thunder storms complete silence, smells of damp earth peat heather fresh air after rain, lighting changes dramatically with weather from bright sun to dense fog"
+
+  items:
+    - id: "catherines_diary"
+      name: "Catherine's Childhood Diary"
+      description_block: |
+        details: "Old book with margins covered in Catherine Earnshaw's childish handwriting and drawings, signatures reading 'Catherine Earnshaw' 'Catherine Heathcliff' 'Catherine Linton' showing her conflicted identity, records of rebellious childhood activities and resentment toward Hindley's tyranny"
+
+    - id: "bedroom_window"
+      name: "Bedroom Window in Oak-Paneled Bed"
+      description_block: |
+        details: "Window in Catherine's old bedroom at Wuthering Heights, set into oak-paneled bed with sliding panels creating enclosed alcove, casement opens onto Yorkshire moors, site of supernatural manifestation, represents barrier between worlds of living and dead, often left open to moorland winds"
+
+    - id: "house_keys"
+      name: "Keys to Both Houses"
+      description_block: |
+        details: "Heavy iron keys to doors and rooms of Wuthering Heights and Thrushcross Grange, symbols of power and control over households, represent ownership and ability to imprison or liberate, carried by whoever holds authority in each house"
+
+    - id: "firearms"
+      name: "Guns and Pistols" 
+      description_block: |
+        details: "Old muskets and pistols hanging above fireplace in Wuthering Heights, loaded and functional weapons reflecting violent nature of household, symbols of threat and masculine power, used to intimidate and control others"

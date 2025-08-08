@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Heavy Gray Clouds Over Thrushcross Grange"
+  setting:
+    time: "Late Georgian period Yorkshire, midday under overcast sky, flat gray light eliminating shadows"
+    location: "Elegant Georgian mansion in sheltered valley, symmetrical harmonious architecture from 18th century, built of warm honey-colored Bath stone, surrounded by extensive formal parks and gardens with maintained paths"
+    weather: "Heavily overcast sky, flat gray light, approaching storm front building on horizon"
+  characters:
+    - appearance: "Young woman 11-31 years, very fair pale skin, blonde yellow hair, blue eyes, delicate dainty features. Later becomes worn and bitter from suffering"
+      clothing: "Fashionable elegant gowns in light pastel colors, fine materials with feminine details like ribbons and lace. After marriage and escape, more modest dark clothing"
+      position: "Standing at large window, pale hand pressed against glass"
+      action: "Watching dark storm clouds gathering over formal gardens, expression anxious and foreboding"
+  scene:
+    mainElements: "Spacious well-lit rooms with large windows now admitting flat gray light, formal gardens appearing muted under overcast sky, heavy clouds building into approaching storm front, Georgian architecture appearing solid but somehow fragile under threatening sky"
+    details: "Overcast sky eliminates all shadows creating flat even illumination throughout mansion interior, colors appear muted and rich without harsh contrast, approaching storm clouds create dark line on horizon, formal garden paths look empty and somber, heavy air suggests impending weather change, no text or letters visible"
+    background: "Extensive formal parks now appearing subdued under gray sky, distant storm front approaching as dark wall across landscape"
+    atmosphere: "Tension and impending change, sense of protected civilization threatened by natural forces, air carries electricity and pressure of approaching storm, atmosphere of unease and anticipation"
+  composition:
+    cameraAngle: "Interior shot through window showing both figure and threatening sky"
+    focus: "Woman at window with dark storm clouds prominent in background"
+    depth: "Foreground elegant interior in flat light, middle ground figure at window, background formal gardens under threatening storm front"

@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1651 September, morning with dramatic storm clouds building on horizon
+    location: North Sea waters off English coast, merchant vessel sailing toward dark weather
+    weather: Ominous storm system approaching, wind picking up, first drops of rain beginning
+  characters:
+  - appearance: Young man, age 18-19 years, szczupła młodzieńcza sylwetka, gładko ogolona twarz, długie włosy do ramion w
+      naturalnym kolorze brązowym, energiczna postawa wyrażająca niepokój i pragnienie przygód
+    clothing: 'Strój zamożnej klasy średniej z 1651 roku: biała lniana koszula z koronkowym kołnierzem, dopasowany brązowy
+      dublet z rozcięciami na rękawach, szerokie bryczesy do kolan z ciemnej wełny, białe wełniane pończochy, skórzane buty
+      z ozdobnymi cholewami, ciemny płaszcz, kapelusz z szerokim rondem'
+    position: Gripping ship's rail on deck, hair whipping in increasing wind
+    action: Staring at approaching storm with mixture of fear and exhilaration, feeling first consequences of his rebellious
+      choice
+  scene:
+    mainElements: Three-masted merchant vessel with complex rigging and canvas sails, towering storm clouds building dark
+      wall on horizon, choppy gray-green ocean waters beginning to foam, crew scrambling to secure rigging
+    details: Wind-whipped spray beginning to coat deck surfaces, seabirds fleeing toward shore in streaming formations, canvas
+      sails straining and snapping in gusts, rope and rigging creaking under increasing tension, first drops of rain creating
+      dark spots on wooden deck, barrels and cargo secured with additional ropes
+    background: English coastline still faintly visible as thin line behind ship, wall of dark storm clouds stretching across
+      horizon, lightning flickering within cloud mass
+    atmosphere: Nature's power overwhelming human ambitions, growing sense of danger and vulnerability, romantic notion of
+      adventure meeting harsh reality, ominous beauty of approaching tempest
+  composition:
+    cameraAngle: Dynamic angle from ship deck looking toward storm, emphasis on sky drama
+    focus: Young man's figure against approaching storm, contrast between human vulnerability and nature's power
+    depth: 'Foreground: ship deck and rigging, Middle: young man at rail, Background: massive storm clouds and turbulent sky,
+      no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia ink
+    - brown ink
+    background: white or aged paper
+    usageNotes: Monochromatic, tone through line density
+    saturation: none
+    contrast: created through line spacing
+  lineArt:
+    style: systematic parallel lines
+    weight: consistent, fine
+    color: black or brown ink
+    texture: created entirely through lines
+    edgeTreatment: defined by line direction changes
+  lighting:
+    type: implied through line density
+    direction: shown through hatching direction
+    intensity: varies with line spacing
+    shadows:
+      style: dense crosshatching
+      color: black ink
+      opacity: line density
+    highlights: sparse or no lines
+  rendering:
+    technique: traditional pen technique
+    texture: entirely line-based
+    detailLevel: high through careful line work
+    finish: hand-drawn quality
+  perspective: traditional, often architectural
+  mood:
+    overall: classic, scholarly, detailed
+    emotion: contemplative, serious, refined
+    tempo: measured, careful
+    keywords:
+    - classic
+    - scholarly
+    - refined
+    - traditional
+    - meticulous
+  stylePrecedents:
+  - Albrecht Dürer
+  - Rembrandt etchings
+  - Scientific illustration
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

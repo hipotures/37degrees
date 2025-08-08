@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Golden Hour Magic at Thrushcross Grange"
+  setting:
+    time: "Late Georgian period Yorkshire, golden hour before sunset, everything bathed in warm honey light"
+    location: "Elegant Georgian mansion in sheltered valley, symmetrical harmonious architecture from 18th century, built of warm honey-colored Bath stone, surrounded by extensive formal parks and gardens with maintained paths"
+    weather: "Perfect clear evening, golden light transforming everything into warm amber tones"
+  characters:
+    - appearance: "Girl to young woman 0-18 years, beautiful golden curling hair inherited from Lintons, dark expressive eyes inherited from Earnshaws, very pretty combining features of both families"
+      clothing: "Simple dresses progressing to elegant Regency-style gowns as she matures, empire waist, light flowing fabrics, colors reflecting her genteel upbringing"
+      position: "Walking through formal garden paths, golden light catching her golden hair"
+      action: "Gathering flowers in early evening light, movements graceful and peaceful, enjoying serene beauty of garden"
+  scene:
+    mainElements: "Georgian architecture transformed to liquid gold in sunset light, formal gardens with every flower and leaf outlined in golden fire, crystal chandelier visible through windows reflecting sunset colors, extensive formal parks appearing magical in golden illumination"
+    details: "Everything bathed in warm honey-golden light making Bath stone appear to glow from within, garden flowers appear jewel-like in golden illumination, long shadows create dramatic patterns across formal geometric paths, windows of mansion reflect blazing sunset colors, golden light catches dewdrops and spider webs making them sparkle, peaceful end-of-day atmosphere, no text or letters visible"
+    background: "Formal parks extending into distance all transformed by golden light, distant hills silhouetted against burning sky"
+    atmosphere: "Transcendent beauty and perfect harmony, sense of blessed moment when everything is transformed by light, air carries warmth and scents of evening flowers, atmosphere of peace and magical perfection"
+  composition:
+    cameraAngle: "Wide shot showing mansion and gardens in golden transformation"
+    focus: "Figure in flowing dress gathering flowers, everything bathed in golden light"
+    depth: "Foreground golden garden paths with long shadows, middle ground figure among flowers, background mansion glowing like jewel"

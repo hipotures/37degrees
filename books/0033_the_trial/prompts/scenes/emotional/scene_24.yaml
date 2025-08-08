@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Natural Clarity"
+  setting:
+    time: "Early 1910s, night at abandoned quarry on city outskirts"
+    location: "Abandoned stone quarry on outskirts of Central European city, isolated rocky landscape under night sky, only open natural space in entire story"
+    weather: "Clear moonlit night with sharp natural light and shadows"
+  characters:
+    - appearance: "Man, 30 years old, average height with lean build, dark brown hair neatly combed, intelligent face with regular features, clean-shaven with pale complexion, becoming increasingly gaunt and tired-looking as stress mounts, dark circles under eyes, nervous ticks developing"
+      clothing: "Well-tailored dark charcoal suit, crisp white shirt with high starched collar, conservative dark tie, polished leather shoes, black formal overcoat when outdoors, always impeccably dressed despite growing internal turmoil"
+      position: "Standing or sitting on stone surface, looking up at sky and distant city lights"
+      action: "Breathing natural air for first time in story, experiencing momentary peace in open space, seeing distant light in building window and recognizing shared humanity"
+    - appearance: "Two middle-aged men, 40-50 years old, stocky build with pale flabby faces, expressionless features, physically similar to each other like bureaucratic twins, cold emotionless eyes"
+      clothing: "Formal black frock coats and top hats, white shirts with high collars, dark trousers, polished black shoes, dressed like 19th century undertakers or business executives"
+      position: "Standing nearby making final preparations, no longer center of scene"
+      action: "Synchronized mechanical movements, walk in perfect unison, no facial expressions or gestures, silent and emotionless throughout their task, move with practiced efficiency"
+  scene:
+    mainElements: "Rough hewn stone walls, scattered boulders and rock debris, flat stone slab serving as execution site, uneven ground with loose gravel, distant city lights visible"
+    details: "Natural stone and moonlight creating stark beauty, open sky offering first glimpse of freedom in entire story, distant building with lighted window suggesting human connection across space, large double-edged butcher's knife with heavy wooden handle, practical tool rather than ceremonial weapon, represents brutal efficiency and mundane horror of bureaucratic death sentence"
+    background: "Natural landscape providing contrast to urban confinement, open space under infinite sky"
+    atmosphere: "Absolute silence of night broken only by footsteps on gravel and wind, cold moonlight casting sharp shadows, sense of finality and ritualistic ceremony"
+  composition:
+    cameraAngle: "Wide shots emphasizing open natural space and infinite sky"
+    focus: "Moment of natural clarity and recognition of shared humanity before final act"
+    depth: "Foreground: protagonist experiencing momentary peace in natural setting, middle ground: quarry landscape, background: distant city and lighted window suggesting human connection"

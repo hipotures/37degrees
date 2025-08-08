@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Night Fog Creating Halos Around Lantern Light"
+  setting:
+    time: "Late Georgian period Yorkshire, deep night with thick fog, limited visibility"
+    location: "Remote stone farmhouse from 1500s positioned on exposed Yorkshire hilltop, massive fortress-like structure with thick walls built to withstand constant winds, narrow deep-set windows, surrounded by stunted fir trees and thorns bent by prevailing winds"
+    weather: "Dense fog creating mysterious atmosphere, dampness in air, very limited visibility"
+  characters:
+    - appearance: "Strong young man about 24 years, thick brown curling hair, dark expressive eyes, handsome rugged features, well-built athletic frame, hands tanned from farm work"
+      clothing: "Rough laborer's clothes, thick worn trousers, coarse shirt, heavy boots, garments suitable for outdoor work but clean, clothing reflects his degraded status despite noble birth"
+      position: "Carrying lantern through foggy courtyard, moving cautiously"
+      action: "Navigating familiar terrain made mysterious by fog, lantern creating moving circle of light in dense mist"
+  scene:
+    mainElements: "Central living room called 'the house' barely visible through fog, narrow deep-set windows glowing like distant beacons, massive ancient stone walls appearing and disappearing in mist, stunted fir trees creating ghostly shapes in fog"
+    details: "Dense fog transforms familiar courtyard into mysterious landscape, lantern light creates golden halo in mist with shadows within shadows, ancient stone walls appear and vanish in moving fog, narrow lit windows become distant beacons in gray void, fog muffles all sound creating eerie silence, moisture beads on stone surfaces, no text or letters visible"
+    background: "Yorkshire moorland completely invisible beyond few feet, fog creating complete isolation from wider world"
+    atmosphere: "Mystery and supernatural isolation, sense of familiar world transformed into something unknown, air thick with moisture and scents of fog and damp earth, atmosphere of hidden presence and uncertainty"
+  composition:
+    cameraAngle: "Medium shot following lantern light through fog"
+    focus: "Figure with lantern creating golden light sphere in dense mist, mysterious shapes emerging and vanishing"
+    depth: "Foreground fog with lantern light, middle ground figure moving through mist, background shapes barely visible in gray void"

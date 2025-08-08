@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: Early 19th century England, afternoon, early winter
+    location: English countryside manor house in Hertfordshire, 50 miles north of London
+    weather: Cold gray afternoon with weak sunlight
+  characters:
+  - appearance: Woman, 22 years old, classically beautiful with perfect harmony of features, blonde hair arranged in elegant
+      ringlets, serene blue eyes, tall graceful figure, flawless porcelain complexion, gentle sweet expression
+    clothing: Pale blue wool dress suitable for cold weather, white shawl around shoulders, simple pearl necklace, hair arranged
+      simply, indoor slippers
+    position: Seated in drawing room chair near window for light
+    action: Reading letter with growing distress, her usual serene composure cracking, hands trembling slightly
+  - appearance: Woman, 20 years old, beautiful dark intelligent eyes with expressive gaze, light and pleasing figure, average
+      height, not classically beautiful like her sister Jane but possessing striking charm, dark hair arranged in period-appropriate
+      style with loose curls framing her face, healthy complexion that gains attractive rosy color after physical exertion
+    clothing: Warm winter dress in deep green wool, woolen shawl, hair pinned back practically, sturdy leather shoes
+    position: Seated across from Jane, watching her sister with growing concern
+    action: Observing Jane's distress with worried expression, leaning forward with protective concern
+  scene:
+    mainElements: Red brick Georgian house built late 17th century, symmetrical facade with central entrance, white sash windows,
+      steep slate roof, surrounded by well-maintained grounds with formal garden, shrubbery walks, small woods, comfortable
+      but not grand estate showing minor wear from limited finances
+    details: Drawing room in afternoon light, fire burning in grate for warmth, winter flowers in vase, family portraits on
+      walls, comfortable furniture arranged for warmth rather than formality, tea service cooling on side table, evidence
+      of quiet domestic afternoon disrupted by distressing news
+    background: Gray winter garden visible through windows, other family members deliberately absent to give sisters privacy
+    atmosphere: Warm family home with lived-in comfort, busy domestic activity, sounds of multiple young women, mixture of
+      refinement and casual informality
+  composition:
+    cameraAngle: Medium shot focusing on two sisters in intimate conversation
+    focus: Jane's distressed reaction to letter with Elizabeth's protective concern
+    depth: 'Foreground: letter in Jane''s hands; middle ground: two sisters'' emotional exchange; background: comfortable
+      domestic winter interior, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

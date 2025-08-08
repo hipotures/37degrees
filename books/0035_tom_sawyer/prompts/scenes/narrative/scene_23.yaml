@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Golden Dreams Made Real"
+  setting:
+    time: "1840s Missouri, afternoon during secret return to cave through alternate entrance"
+    location: "Hidden chamber in McDougal's Cave, accessible through river entrance"
+    weather: "Underground chamber lit by multiple lanterns brought for treasure hunting"
+  characters:
+    - appearance: "Two boys, 12-14 years old, eyes wide with amazement and greed, faces glowing in lantern light reflected from gold"
+      clothing: "Adventure clothes suitable for cave exploration, carrying rope and tools"
+      position: "Kneeling beside open treasure chest in hidden cave chamber"
+      action: "Lifting handfuls of gold coins, letting them fall through fingers, counting impossible wealth"
+    - appearance: "Skeleton remains of escaped criminal"
+      clothing: "Torn remnants of dark frontier clothing, knife lying nearby"
+      position: "Slumped against cave wall near hidden treasure, finally at rest"
+      action: "Silent testimony to fate of those who choose evil paths, providing grim but satisfying justice"
+  scene:
+    mainElements: "Ancient wooden treasure chest filled with gold coins of various nations and eras, lanterns casting warm light on gleaming metal, crude cross marked on cave wall"
+    details: "Thousands of gold coins creating pyramid of wealth, broken lock from chest, crude digging tools scattered nearby, old coins from different countries and periods, no text or letters visible"
+    background: "Deep cave chamber with limestone walls, natural formations creating cathedral-like space, multiple passages leading deeper into cave system"
+    atmosphere: "Childhood dreams of treasure becoming reality, poetic justice as evil plans create good fortune for innocent, adventure reaching perfect conclusion"
+  composition:
+    cameraAngle: "Medium wide shot emphasizing treasure and boys' amazement"
+    focus: "Moment when adventure stories become real life, ultimate reward for courage and loyalty"
+    depth: "Foreground: boys with open treasure chest and flowing gold, middle ground: evidence of criminal's final fate, background: mysterious cave chamber holding secrets and wealth"

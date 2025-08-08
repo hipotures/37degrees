@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Light at the End of Darkness"
+  setting:
+    time: "1840s Missouri, after days lost in cave, moment of discovering exit"
+    location: "Alternative cave entrance leading to riverbank, hidden opening in hillside"
+    weather: "Late afternoon sunlight streaming through narrow cave opening"
+  characters:
+    - appearance: "Boy, 12-13 years old, emaciated and filthy from cave ordeal, face transformed by hope and determination"
+      clothing: "Picnic clothes now completely destroyed, torn to rags, barefoot with bleeding feet, covered in cave mud and limestone dust"
+      position: "Crawling toward narrow opening with last reserves of strength"
+      action: "Pushing through tight cave opening toward blessed daylight, gasping with relief and renewed energy"
+    - appearance: "Girl, 12 years old, weak and exhausted, golden hair matted with cave mud, barely conscious"
+      clothing: "White dress now brown with mud and torn to pieces, barely decent"
+      position: "Being helped and carried by boy, too weak to move independently"
+      action: "Reviving slightly when touched by fresh air and sunlight, whimpering with relief"
+  scene:
+    mainElements: "Narrow cave opening framing view of Mississippi River and distant shore, sunlight streaming in like divine intervention, cave walls giving way to open air"
+    details: "Kite string stretched to breaking point marking their path back, final candle stub completely consumed, fresh air rushing into cave, sound of river water and bird calls, no text or letters visible"
+    background: "Mississippi River flowing past cave opening, Arkansas shore visible across water, late afternoon sun creating golden light on water"
+    atmosphere: "Divine deliverance from certain death, childhood resilience triumphing over impossible odds, rebirth into light and life after darkness"
+  composition:
+    cameraAngle: "Dramatic shot from inside cave looking out toward light and freedom"
+    focus: "Moment of miraculous salvation, transition from death to life, darkness to light"
+    depth: "Foreground: two exhausted children crawling toward light, middle ground: narrow cave opening framing rescue, background: river and sunshine representing salvation and return to life"

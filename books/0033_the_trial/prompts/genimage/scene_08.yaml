@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: Early 1910s, Sunday afternoon in makeshift courtroom
+    location: Ordinary apartment on fifth floor of tenement building temporarily converted to courtroom, belonging to court
+      usher and his washerwoman wife
+    weather: Dim afternoon light filtering through single window
+  characters:
+  - appearance: Man, 30 years old, average height with lean build, dark brown hair neatly combed, intelligent face with regular
+      features, clean-shaven with pale complexion, becoming increasingly gaunt and tired-looking as stress mounts, dark circles
+      under eyes, nervous ticks developing
+    clothing: Well-tailored dark charcoal suit, crisp white shirt with high starched collar, conservative dark tie, polished
+      leather shoes, black formal overcoat when outdoors, always impeccably dressed despite growing internal turmoil
+    position: Standing defiantly in center of crowd, chin raised, fists clenched at sides
+    action: Drawing himself up to full height in gesture of resistance, speaking with animated gestures to hostile crowd,
+      attempting to project authority and righteousness
+  - appearance: Multiple men in dark clothing filling room, faces partially visible in tobacco smoke, expressions ranging
+      from hostile to merely curious
+    clothing: Various dark suits and formal wear typical of early 20th century bureaucrats and petty officials
+    position: Crowded together in small space, some seated, others standing, all focused on central figure
+    action: Listening with mixture of skepticism and amusement, shifting restlessly, occasional murmurs and hostile reactions
+  scene:
+    mainElements: Large room packed with men in dark suits, makeshift wooden platform at one end with simple table for examining
+      magistrate, basic wooden chairs scattered throughout, single window providing limited daylight
+    details: Heavy tobacco smoke creating hazy atmosphere, improvised courtroom setup in domestic space, crowd pressed together
+      in stifling conditions, authority symbols makeshift and unconvincing, no text or letters visible
+    background: Domestic apartment transformed into theater of judgment, familiar objects made strange by bureaucratic function
+    atmosphere: Overcrowded and stifling with heavy tobacco smoke, constant murmur of voices and coughing, smell of sweat
+      and cheap cologne, hostile atmosphere toward the accused
+  composition:
+    cameraAngle: Medium shot from crowd level emphasizing protagonist's isolation despite being surrounded
+    focus: Physical posture expressing internal determination to fight against incomprehensible system
+    depth: 'Foreground: defiant protagonist standing alone, middle ground: packed hostile crowd, background: makeshift symbols
+      of authority and judgment'
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,222 @@
+canon:
+  characters:
+    - id: "dorian_gray"
+      name: "Dorian Gray"
+      description_block: |
+        characters:
+          - appearance: "Young man, 20 years old, smukły build, pełen wdzięku, kędzierzawe złote włosy framing face in rebellious locks, szczere niebieskie oczy, klasyczna owalna twarz z rysami made of kości słoniowej i płatków róży, finely curved szkarłatne usta, brak jakichkolwiek skaz, absolutna doskonała uroda"
+            clothing: "Nienaganny strój dandysa: perfectly tailored czarny frak for evening or elegant surdut for day, jedwabna kamizelka, drogie krawaty, nieskazitelnie biała koszula, luksusowe dodatki including rękawiczki, laska z ozdobną gałką, kwiat w butonierce"
+            position: "Standing with naturalny młodzieńczy wdzięk and spontaneous grace"
+            action: "Moving with kapryśne porywcze gestures that emphasize his dziecinną naturę, occasionally displaying studiowane teatralne movements as he becomes aware of his urok"
+
+    - id: "lord_henry_wotton"
+      name: "Lord Henry Wotton"
+      description_block: |
+        characters:
+          - appearance: "Man, 30-35 years old, wysoki and pełen gracji, ciemne włosy, spiczasta brązowa broda, ciemne ospałe marzycielskie oczy, oliwkowa cera, zmęczony cyniczny wyraz twarzy"
+            clothing: "Elegancki arystokratyczny strój dandysa in ciemne kolory, perfectly tailored garments befitting his status"
+            position: "Often reclining or lounging with studied nonchalance"
+            action: "Gesturing languidly while speaking, smoking papierosów in elegant papierośnicy, handling cygarniczka, laska, or monokl with practiced ease"
+
+    - id: "basil_hallward"
+      name: "Basil Hallward"
+      description_block: |
+        characters:
+          - appearance: "Man, 30-35 years old, krzepki build, czarne jak węgiel włosy, szorstka silna twarz with intelektualny poważny wyraz"
+            clothing: "Strój artysty-dżentelmena, less formal than aristocrats, possibly tweedowa marynarka, practical attire suitable for painting"
+            position: "Standing at easel or working at artistic tasks"
+            action: "Painting with pędzle, mixing colors on paleta malarska, arranging przybory do rysowania, focused on artistic work"
+
+    - id: "sibyl_vane"
+      name: "Sibyl Vane"
+      description_block: |
+        characters:
+          - appearance: "Young woman, 17 years old, drobna delikatna build, ciemnobrązowe włosy upięte w warkocze, fioletowe oczy, twarz podobna do kwiatu with mała grecka głowa and niewinny wyraz"
+            clothing: "Proste skromne suknie in everyday life, elaborate kostiumy bohaterek Szekspira when performing on stage"
+            position: "Standing on stage or in modest domestic settings"
+            action: "Performing dramatic roles, handling rekwizyty teatralne including kwiaty, sztylet, and other stage props"
+
+    - id: "james_vane"
+      name: "James Vane"
+      description_block: |
+        characters:
+          - appearance: "Young man, 16 years old, krępy silny build, szorstkie brązowe włosy, prosta pospolita twarz with zdeterminowany ponury wyraz"
+            clothing: "Znoszone ubranie marynarza lub robotnika, practical working-class garments"
+            position: "Standing with determined, threatening posture"
+            action: "Carrying rewolwer, moving with purposeful intent, displaying protective instincts toward sister"
+
+    - id: "alan_campbell"
+      name: "Alan Campbell"
+      description_block: |
+        characters:
+          - appearance: "Man, 30-35 years old, czarne jak węgiel włosy, surowa blada twarz podkreślona by ciemne włosy i brwi"
+            clothing: "Strój dżentelmena naukowca, stonowany formalny attire befitting his scientific profession"
+            position: "Standing with rigid, reluctant posture"
+            action: "Handling przyrządy chemiczne, carrying torba lekarska, working with scientific equipment under duress"
+
+    - id: "mrs_vane"
+      name: "Mrs. Vane"
+      description_block: |
+        characters:
+          - appearance: "Woman, 40-45 years old, twarz zwiędła and zmęczona, gruby teatralny makijaż including puder and bizmut"
+            clothing: "Tandetne teatralne suknie that are wyblakłe i niemodne, reflecting her faded theatrical past"
+            position: "Sitting or standing in theatrical poses from her acting days"
+            action: "Gesturing dramatically with wachlarz, dabbing eyes with chusteczka, maintaining theatrical mannerisms"
+
+    - id: "victoria_wotton"
+      name: "Victoria Wotton"
+      description_block: |
+        characters:
+          - appearance: "Woman, 30-35 years old, mgliste oczy w kolorze niezapominajek"
+            clothing: "Ekstrawaganckie niechlujne stroje that appear jakby projektowane w gniewie, unconventional and careless fashion choices"
+            position: "Moving with distracted, scattered energy"
+            action: "Behaving in scattered, unconventional manner reflecting her eccentric personality"
+
+    - id: "adrian_singleton"
+      name: "Adrian Singleton"  
+      description_block: |
+        characters:
+          - appearance: "Young man, 20-25 years old, zniszczony przez nałóg with wyniszczony wygląd, showing effects of opium addiction"
+            clothing: "Znoszone niegdyś eleganckie ubranie, formerly fine garments now deteriorated from addiction and poverty"
+            position: "Lying or sitting in opium den in various states of stupor"
+            action: "Using fajka do opium, moving lethargically, showing signs of drug-induced apathy"
+
+  locations:
+    - id: "basils_studio"
+      name: "Basil's Studio"
+      description_block: |
+        setting:
+          location: "Victorian West End artist's studio, duże wysokie pomieszczenie with ogromne okno sięgające od podłogi do sufitu overlooking starannie pielęgnowany ogród, wiktoriańska kamienica interior"
+        scene:
+          mainElements: "Masywna drewniana sztaluga with naturalnej wielkości portret Doriana Graya as central element, przestrzeń otwarta designed to maximize natural light for painting work"
+          details: "Głębokie czerwienie i złoto perskich dywanów, jedwabne zasłony in mieniące się odcienie, ciemne polerowane drewno mebli, fotele i kanapy obite drogimi wzorzystymi tkaninami, szafki z przyborami malarskimi, niedokończone płótna, gipsowe odlewy antycznych rzeźb, przyborami do malowania scattered about"
+          background: "View of starannie pielęgnowany ogród through wielkie okno, cichy pomruk Londynu jak burdon odległych organów audible in distance"
+          atmosphere: "Leniwa zmysłowa atmosphere przesycona artystycznym duchem, ciężki zapach róż mixed with słodka woń kwitnącego bzu from garden, dym niezliczonych papierosów palonych przez Lorda Henry'ego, morelowe światło filtering through open doors"
+
+    - id: "lord_henrys_house"
+      name: "Lord Henry's House Library"
+      description_block: |
+        setting:
+          location: "Aristocratic Mayfair West End townhouse library, bardzo uroczy pokój in Victorian gentleman's residence"
+        scene:
+          mainElements: "Wysoka boazeria z dębu bejcowana na oliwkowy kolor covering walls, kremowy fryz above, wypukłe sztukaterie decorating ceiling, dywan z filcu w kolorze ceglastoczerwonym with smaller jedwabne perskie dywaniki z długimi frędzlami"
+          details: "Mały stolik z drewna satynowego with statuetka Clodiona, cenna książka Les Cent Nouvelles oprawiony dla Małgorzaty de Valois, kilka dużych niebieskich chińskich waz on mantelpiece, wazon z papuzimi tulipanami, wykwintne meble świadczące o guście właściciela, each przedmiot carefully selected for beauty and history"
+          background: "Małe okna z ołowianymi szybkami allowing morelowe światło letniego dnia to filter through"
+          atmosphere: "Stonowana i elegancka atmosphere with oliwkowa zieleń drewna, kremowy sufit, ceglasta czerwień dywanu creating ciepła intymną atmosferę, kwintesencja estetyzmu where każdy przedmiot chosen for piękno i historia"
+
+    - id: "dorians_house_main"
+      name: "Dorian's House Main Areas"
+      description_block: |
+        setting:
+          location: "Okazała arystokratyczna rezydencja at Grosvenor Square West End, elegant townhouse interior"
+        scene:
+          mainElements: "Wnętrza evolving from początkowo eleganckie i gustowne to przeładowane rzadkimi i egzotycznymi przedmiotami as Dorian's dekadencka obsesja deepens, museum of zmysłowych poszukiwań"
+          details: "Bogata zmienna paleta from złota i purpury to heban i kość słoniową, kolekcje kamieni szlachetnych, perfum, instrumentów muzycznych z całego świata, bogato haftowane tkaniny i szaty liturgiczne, renesansowe gobeliny mixed with orientalne dywany i francuskie meble, eklektyczny style combining luxury with artistic chaos"
+          background: "Various rooms and corridors of wealthy Victorian townhouse"
+          atmosphere: "Luksus tajemnica narcyzm with rosnące poczucie osaczenia, przestrzeń designed to stymulować i zaspokajać każdy kaprys, reflecting owner's hedonistic obsessions"
+
+    - id: "attic_room"
+      name: "Attic Room with Portrait"
+      description_block: |
+        setting:
+          location: "Dawna bawialnia and later gabinet Doriana from childhood, nieużywana od lat, duży dobrze proporcjonalny pokój but zaniedbany i zapuszczony on top floor of Dorian's house"
+        scene:
+          mainElements: "Całe pomieszczenie pokrywa kurz, dywan podziurawiony, ogromna włoska cassone (malowana skrzynia posagowa) z wytartymi złoceniami, szafka na książki z drewna satynowego with podniszczonymi szkolnymi podręcznikami, stół i krzesło"
+          details: "Zniszczony flamandzki gobelin on wall showing wyblakłe postacie króla i królowej grają w szachy, pojedyncza na wpół wypalona świeca providing tylko światło, wilgotny zapach stęchlizny filling air, skąpo umeblowane with basic furniture covered in dust"
+          background: "Deteriorated wallpaper and neglected architectural details of abandoned nursery"
+          atmosphere: "Mroczna grobowa atmosfera, stęchlizna, poczucie uwięzienia i tajemnica, punktowe światło creating głębokie cienie, groza and sense of hidden secrets"
+
+    - id: "theater_east_end"
+      name: "Sibyl's Theater"  
+      description_block: |
+        setting:
+          location: "Nędzna dziura and tandetny przybytek in East End London, third-rate theater serving working-class audience"
+        scene:
+          mainElements: "Wnętrze kiczowate i przesadnie zdobione in style Dorian określa jako trzeciorzędny tort weselny, gipsowe ornamenty w kształcie Kupidynów i rogów obfitości everywhere, zniszczone fotele"
+          details: "Wielki płonący żyrandol z sufitu looking jak gigantyczna dalia z płatkami żółtego ognia, syczące i migoczące lampy gazowe lighting stage i widownię, okropnej orkiestry prowadzonej przez młodego Hebrajczyka przy rozstrojonym pianinie"
+          background: "Widownia składająca się głównie z przedstawicieli klas niższych eating pomarańcze i orzechy, drinking piwo imbirowe"  
+          atmosphere: "Upał hałas i zaduch, prostacka atmosphere pozbawiona artystycznego wyrafinowania, brudne miejsce sprawia wrażenie zaniedbanego, gwałtowny kontrast z eteryczną postacią Sibyl na scenie"
+
+    - id: "opium_den_east_end"
+      name: "Opium Den"
+      description_block: |
+        setting:
+          location: "Ohydne nory and wstrętne miejsca in East End London docks area, underground or basement establishment"
+        scene:
+          mainElements: "Ciemne ciasne i brudne wnętrza with bar na parterze, długi niski pokój na piętrze, wzdłuż ścian ciągną się prycze with palacze opium leżą w różnych pozach"
+          details: "Powietrze gęste od słodkawego duszącego dymu, małe lampki spirytusowe providing jedyne światło over którymi palacze podgrzewają narkotyk, mieszanina ludzi różnych ras i klas including Malajscy marynarze, Chińczycy, upadli Anglicy, fajki do opium i brudne naczynia scattered about"
+          background: "Gęsty mrok with punktowe światło creating deep shadows in corners"
+          atmosphere: "Groźna odrealniona atmosphere pełna apatii i rozpaczy, duszące środowisko where people escape reality through drugs, dangerous criminal underworld"
+
+    - id: "east_end_streets"  
+      name: "East End Streets and Alleys"
+      description_block: |
+        setting:
+          location: "Przemysłowy wiktoriański slum streets of East End London near docks, mroczny labirynt resembling czarna sieć rozpełzającego się pająka"
+        scene:
+          mainElements: "Gęsta wilgotna mgła sprawia że latarnie gazowe świecą zamazanymi aureolami, wysokie czarne łuki i domy o złowrogim wyglądzie, wąskie i brudne zaułki, monochromatyczne szarości czernie brudne brązy cegieł"
+          details: "Mokry bruk, wysokie mury, nad niskimi dachami widać czarne maszty statków in docks, maze-like network of dangerous alleys and courts where criminal element operates"
+          background: "Industrial landscape with factory chimneys and warehouse silhouettes"
+          atmosphere: "Niebezpieczna labiryntowa atmosfera, wilgotna pełna anonimowości i zagrożenia, mrok rozpraszany przez mgliste aureole latarni gazowych, threatening environment perfect for criminal activities and moral degradation"
+
+    - id: "selby_royal"
+      name: "Selby Royal Country Estate"
+      description_block: |
+        setting:
+          location: "Angielska wiejska rezydencja, luksusowa country estate serving as Dorian's retreat from London"
+        scene:
+          mainElements: "Oranżeria biblioteka salony with rozległe tereny łowieckie, luksusowe meble throughout, classic English country house with extensive grounds for hunting"
+          details: "Jasne pastelowe kolory wnętrz including brzoskwiniowy kremowy tones, zieleń parków surrounding house, elegant furnishings appropriate for wealthy country residence, hunting equipment and sporting facilities"
+          background: "Rolling English countryside with formal gardens and hunting woods"
+          atmosphere: "Elegancka sielska atmosphere that is pozornie peaceful but pełna ukrytego napięcia i nudy, jasne słoneczne during day with ciepłe światło lamp in evening, deceptive tranquility hiding moral corruption"
+
+  items:
+    - id: "dorian_portrait_original"
+      name: "Dorian's Portrait - Original State"
+      description_block: |
+        details: "Idealny promienny wizerunek młodzieńca painted in stylu akademickim z nutą romantyzmu, naturalnej wielkości portret showing Dorian at height of beauty and innocence, perfect representation of youth and purity created by Basil Hallward"
+
+    - id: "dorian_portrait_corrupted" 
+      name: "Dorian's Portrait - Corrupted State"
+      description_block: |
+        details: "Twarz całkowicie potworna zwiędła pomarszczona o odrażającym wyrazie zła hipokryzji i rozkładu, plamy krwi na dłoniach from Basil's murder, complete moral degradation visible in hideous transformation of once-perfect face, embodiment of accumulated sins and corruption"
+
+    - id: "yellow_book"
+      name: "The Yellow Book"  
+      description_block: |
+        details: "Książka w charakterystycznej żółtej okładce typical of kontrowersyjne francuskie powieści from period, prosta okładka bez tytułu emphasizing tajemniczy i symboliczny charakter, French decadent novel that becomes Dorian's trująca biblia nowego hedonizmu"
+
+    - id: "murder_knife"
+      name: "The Knife"
+      description_block: |
+        details: "Długi ostry nóż possibly ozdobny pochodzący z kolekcji Doriana, same weapon used to zabija Basila and later to destroy portret, instrument of both murder and attempted redemption, sharp blade that ultimately brings Dorian's downfall"
+
+    - id: "ivory_mirror"
+      name: "Ivory Hand Mirror"
+      description_block: |
+        details: "Małe podręczne lusterko w oprawie z kości słoniowej, prezent od Lorda Henry'ego, symbol narcyzmu i próżności, tool for Dorian to compare his unchanging face with portrait's corruption"
+
+    - id: "lords_cigarettes"
+      name: "Lord Henry's Cigarettes"
+      description_block: |
+        details: "Ciężkie przesiąknięte opium papierosy w eleganckiej papierośnicy, symbol of his trująca odurzająca filozofia, expensive smoking accessories reflecting his decadent lifestyle and corrupting influence"
+
+    - id: "stage_flowers"  
+      name: "Stage Flowers and Props"
+      description_block: |
+        details: "Rekwizyty teatralne including kwiaty sztylet and other stage props used by Sibyl in Shakespeare performances, theatrical elements that blur line between performance and reality in the story"
+
+    - id: "chemical_equipment"
+      name: "Alan Campbell's Chemical Equipment"  
+      description_block: |
+        details: "Przyrządy chemiczne and torba lekarska used for disposing of Basil's body, scientific instruments forced into service for criminal purposes, symbols of knowledge corrupted for evil ends"
+
+    - id: "james_revolver"
+      name: "James Vane's Revolver"
+      description_block: |
+        details: "Rewolwer carried by James Vane in his pursuit of Dorian for revenge, weapon of justice seeking to punish Dorian for Sibyl's death, instrument of intended vengeance that ultimately fails"
+
+    - id: "luxury_collections"
+      name: "Dorian's Luxury Collections"
+      description_block: |
+        details: "Kolekcje klejnotów tkanin instrumentów muzycznych, kamieni szlachetnych perfum instrumentów muzycznych z całego świata bogato haftowane tkaniny i szaty liturgiczne, elaborate collections representing Dorian's hedonistic pursuits and aesthetic obsessions, material manifestations of his corrupted soul's endless seeking for sensation"

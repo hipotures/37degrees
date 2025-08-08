@@ -1,0 +1,101 @@
+sceneDescription:
+  setting:
+    time: Early 19th century England, late afternoon, early autumn
+    location: English countryside manor house in Hertfordshire, 50 miles north of London
+    weather: Golden autumn sunlight streaming through windows, mild temperature
+  characters:
+  - appearance: Woman, 45-50 years old, medium height, plump figure from comfortable living, faded blonde hair arranged in
+      elaborate style, anxious expression with frequent nervous gestures, still retains traces of former beauty
+    clothing: Overly ornate day dress in bright colors inappropriate for morning wear, excessive jewelry including multiple
+      bracelets and rings, elaborate lace cap with ribbons, silk shawl draped dramatically
+    position: Seated on sofa in main drawing room, leaning forward eagerly
+    action: Gesticulating excitedly while speaking, waving her fan dramatically
+  - appearance: Man, 50 years old, medium height, thin build, graying dark hair, intelligent eyes with ironic glint, lined
+      face showing years of cynical amusement, pale complexion from indoor scholarly habits
+    clothing: Brown wool morning coat slightly worn at edges, dark waistcoat, white shirt with simple cravat, dark breeches,
+      comfortable leather slippers for indoor use
+    position: Relaxed in his favorite leather armchair by the fireplace
+    action: Reading newspaper with half-amused expression, occasionally glancing up with sardonic smile
+  - appearance: Woman, 22 years old, classically beautiful with perfect harmony of features, blonde hair arranged in elegant
+      ringlets, serene blue eyes, tall graceful figure, flawless porcelain complexion, gentle sweet expression
+    clothing: Pale blue silk day dress with delicate white lace trim, high empire waistline, long fitted sleeves, pearl necklace,
+      white silk slippers, white lace cap when at home
+    position: Seated gracefully by the window with needlework
+    action: Quietly embroidering, listening to parents with gentle attentive expression
+  - appearance: Woman, 20 years old, beautiful dark intelligent eyes with expressive gaze, light and pleasing figure, average
+      height, not classically beautiful like her sister Jane but possessing striking charm, dark hair arranged in period-appropriate
+      style with loose curls framing her face, healthy complexion that gains attractive rosy color after physical exertion
+    clothing: Early 19th century day dress in forest green muslin with high waistline just below bust, long sleeves, modest
+      neckline, dress hem reaching to ankles, white cotton chemise underneath, brown leather walking boots suitable for countryside
+      paths, simple bonnet when outdoors
+    position: Standing near the bookshelf, holding a book
+    action: Listening to conversation with amused, intelligent expression
+  scene:
+    mainElements: Red brick Georgian house built late 17th century, symmetrical facade with central entrance, white sash windows,
+      steep slate roof, surrounded by well-maintained grounds with formal garden, shrubbery walks, small woods, comfortable
+      but not grand estate showing minor wear from limited finances
+    details: Drawing room with comfortable but slightly worn furniture, family portraits on walls, pianoforte in corner with
+      sheet music, books scattered about, embroidery basket, tea service on side table, autumn flowers in vase, cozy domestic
+      atmosphere of genteel but modest means
+    background: View through large windows of gardens and countryside, late afternoon sunlight casting warm glow
+    atmosphere: Warm family home with lived-in comfort, busy domestic activity, sounds of multiple young women, mixture of
+      refinement and casual informality
+  composition:
+    cameraAngle: Wide establishing shot of drawing room from doorway
+    focus: Family group in animated discussion, with mother as central speaking figure
+    depth: 'Foreground: furniture and family; middle ground: room interior; background: windows showing garden view, no text
+      or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Harmonious Gathering of Aesthetic Minds"
+  setting:
+    time: "Late Victorian London, late afternoon, 1880s"
+    location: "Victorian West End artist's studio, duże wysokie pomieszczenie with ogromne okno sięgające od podłogi do sufitu overlooking starannie pielęgnowany ogród, wiktoriańska kamienica interior"
+    weather: "Soft late afternoon sunlight with gentle garden breezes"
+  characters:
+    - appearance: "Young man, 20 years old, smukły build, pełen wdzięku, kędzierzawe złote włosy framing face in rebellious locks, szczere niebieskie oczy, klasyczna owalna twarz z rysami made of kości słoniowej i płatków róży, finely curved szkarłatne usta, brak jakichkolwiek skaz, absolutna doskonała uroda"
+      clothing: "Nienaganny strój dandysa: perfectly tailored elegant afternoon attire, jedwabna kamizelka, drogie krawaty, nieskazitelnie biała koszula, kwiat w butonierce"
+      position: "Sitting comfortably in the studio with open, relaxed posture showing trust and comfort"
+      action: "Engaging in pleasant conversation, gesturing naturally with kapryśne porywcze movements, showing genuine interest and youthful enthusiasm"
+    - appearance: "Man, 30-35 years old, krzepki build, czarne jak węgiel włosy, szorstka silna twarz with intelektualny poważny wyraz"
+      clothing: "Strój artysty-dżentelmena, less formal than aristocrats, possibly tweedowa marynarka, practical attire suitable for painting"
+      position: "Standing near easel, gesturing toward his artwork with pride and satisfaction"
+      action: "Discussing art with passionate enthusiasm, handling przybory do rysowania, showing his work with confident pride"
+    - appearance: "Man, 30-35 years old, wysoki and pełen gracji, ciemne włosy, spiczasta brązowa broda, ciemne ospałe marzycielskie oczy, oliwkowa cera, zmęczony cyniczny wyraz twarzy"
+      clothing: "Elegancki arystokratyczny strój dandysa in ciemne kolory, perfectly tailored garments befitting his status"
+      position: "Lounging elegantly on perski dywan with studied nonchalance, comfortable in the artistic environment"
+      action: "Smoking papierosów in elegant papierośnicy, contributing wit to conversation, handling cygarniczka with practiced ease"
+  scene:
+    mainElements: "Masywna drewniana sztaluga with completed portrait as focal point, three men in comfortable social triangle, przestrzeń otwarta designed to maximize natural light creating perfect setting for aesthetic discussion"
+    details: "Głębokie czerwienie i złoto perskich dywanów where figures gather, jedwabne zasłony gently moving in garden breeze, ciemne polerowane drewno mebli providing elegant backdrop, przybory malarskie arranged artistically, gipsowe odlewy antycznych rzeźb creating classical atmosphere, no text or letters visible"
+    background: "View of starannie pielęgnowany ogród through wielkie okno showing blooming flowers and lush greenery, cichy pomruk Londynu creating distant urban soundtrack"
+    atmosphere: "Harmonious intellectual and aesthetic fellowship, comfortable masculine camaraderie centered around art and beauty, civilized conversation among cultured men, ciężki zapach róż mixed with słodka woń kwitnącego bzu from garden, peaceful sharing of aesthetic pleasures, dym niezliczonych papierosów adding to relaxed social atmosphere"
+  composition:
+    cameraAngle: "Wide shot capturing all three figures and their comfortable social dynamic"
+    focus: "Triangle of figures engaged in pleasant artistic discussion, emphasizing harmonious social interaction"
+    depth: "Foreground: social group around Persian carpet, middle ground: artistic studio elements, background: garden view through large windows"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "St. Petersburg Morning Panorama"
+  setting:
+    time: "1840s Missouri, mid-morning summer day"
+    location: "Overview of St. Petersburg town from hillside cemetery, Mississippi River valley"
+    weather: "Clear summer day with gentle breeze, warm sunshine casting long shadows"
+  characters:
+    - appearance: "Various townspeople as distant figures going about morning routines, men in work clothes, women in long dresses and bonnets"
+      clothing: "Period-appropriate 1840s frontier town attire, mix of work clothes and Sunday best"
+      position: "Scattered throughout town streets and buildings as small figures"
+      action: "Walking along dusty streets, tending shops, loading wagons, children playing in yards"
+  scene:
+    mainElements: "Panoramic view of white-painted town buildings nestled between green hills and mighty Mississippi River, church spire rising above other structures, main street cutting through center"
+    details: "Dusty unpaved streets creating brown lines between buildings, steamboat visible on river with black smoke trailing from twin stacks, wooden sidewalks in front of commercial buildings, vegetable gardens behind houses, no text or letters visible"
+    background: "Rolling Missouri hills covered in dense forest, Mississippi River flowing brown and wide with occasional sandbars, distant Kentucky shore barely visible through morning haze"
+    atmosphere: "Peaceful frontier settlement awakening to new day, sense of small community surrounded by vast wilderness, quiet rhythms of pre-industrial American life"
+  composition:
+    cameraAngle: "Wide establishing shot from elevated cemetery hill looking down into town"
+    focus: "Town as whole entity nestled in natural landscape, relationship between civilization and wilderness"
+    depth: "Foreground: cemetery headstones and wild grass, middle ground: complete town layout with all major buildings, background: river and distant forested hills"

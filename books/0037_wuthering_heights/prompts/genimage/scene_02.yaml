@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: Late Georgian period Yorkshire, first light of dawn, golden rays breaking through darkness
+    location: Elegant Georgian mansion in sheltered valley, symmetrical harmonious architecture from 18th century, built of
+      warm honey-colored Bath stone, surrounded by extensive formal parks and gardens with maintained paths
+    weather: Clear morning with gentle breeze, dew covering grass and spider webs
+  characters:
+  - appearance: Beautiful young woman, 18-19 years, long dark curling hair now elegantly arranged, penetrating dark eyes,
+      refined beauty with underlying wildness. During illness becomes very pale and emaciated
+    clothing: Simple white nightgown, clothing represents her attempt to conform to civilization
+    position: Standing at large Georgian window, one hand pressed against cool glass
+    action: Watching first sunlight illuminate the formal gardens, face reflecting inner conflict between two worlds
+  scene:
+    mainElements: Spacious well-lit rooms with large windows, early morning sunlight streaming through casements casting long
+      geometric shadows across polished floors, dewdrops on spider webs in formal gardens catch and scatter golden light like
+      tiny prisms
+    details: Long rays of sunrise penetrate Georgian mansion's large windows, creating dramatic light patterns on interior
+      walls, dew on perfectly maintained garden paths reflects pink and gold sky, steam rises gently from warming earth, empty
+      pathways show no human activity, morning mist clings to distant trees, no text or letters visible
+    background: Extensive formal parks and gardens with maintained geometric paths, distant mature trees forming dark silhouettes
+      against brightening sky
+    atmosphere: Peaceful awakening and gentle warmth, sense of order and civilization, fresh morning air carries scent of
+      dewy grass and flowers, atmosphere of refined tranquility with underlying tension
+  composition:
+    cameraAngle: Interior shot through window showing both figure and garden view
+    focus: Woman in white nightgown framed by window with sunlit garden beyond
+    depth: Foreground elegant interior with long shadows, middle ground figure at window, background formal gardens in morning
+      mist
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

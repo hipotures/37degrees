@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Grand Netherfield Estate"
+  setting:
+    time: "Early 19th century England, morning, early autumn"
+    location: "Grand rented estate in Hertfordshire, three miles from Longbourn"
+    weather: "Bright clear morning with golden sunlight"
+  characters:
+    - appearance: "Man, 24 years old, medium height, pleasant open face with wide genuine smile, light brown wavy hair slightly disheveled, cheerful hazel eyes, lean build, animated friendly expression"
+      clothing: "Light brown wool morning coat, cream waistcoat, brown breeches, white linen shirt, simple cravat, brown leather shoes, less formal than Darcy's attire"
+      position: "Standing on front steps of mansion"
+      action: "Gesturing enthusiastically toward the grounds, clearly pleased with his new residence"
+    - appearance: "Man, 28 years old, tall imposing height, handsome strong features, noble bearing, dark hair carefully styled in period fashion, serious expression that softens when genuinely pleased, athletic build from riding and outdoor activities, pale complexion typical of English gentleman"
+      clothing: "Dark blue wool tailcoat with brass buttons, white linen shirt with high white cravat, dark breeches, polished black leather boots, gold pocket watch chain visible, beaver top hat when outdoors, riding attire when on horseback"
+      position: "Standing beside his friend on the steps, surveying the property"
+      action: "Observing the estate with reserved approval, hands clasped behind back"
+  scene:
+    mainElements: "Large Palladian mansion with imposing columned facade, extensive manicured grounds, formal gardens, grand entrance hall with marble floors, elegant drawing rooms with high ceilings, modern furnishings in latest Regency style, everything pristine and fashionable"
+    details: "Impressive stone columns supporting portico, perfectly maintained lawns stretching to distant trees, ornamental flower beds in geometric patterns, gravel carriageway circling in front, servants visible in background tending to grounds, architectural grandeur speaking of wealth and status"
+    background: "Rolling parkland extending to horizon, mature oak trees, glimpse of ornamental lake, peaceful English countryside"
+    atmosphere: "Wealthy sophistication, formal entertaining spaces, slight coldness of new money attempting elegance, sounds of servants maintaining perfection"
+  composition:
+    cameraAngle: "Wide establishing shot showing full mansion facade and grounds"
+    focus: "Two gentlemen on steps with grand architecture behind them"
+    depth: "Foreground: manicured gardens; middle ground: mansion with figures; background: expansive parkland, no text or letters visible"

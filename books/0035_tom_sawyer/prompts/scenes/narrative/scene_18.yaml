@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Lost in the Labyrinthine Depths"
+  setting:
+    time: "1840s Missouri, afternoon during church picnic cave exploration"
+    location: "Deep interior passages of McDougal's Cave, limestone labyrinth"
+    weather: "Underground environment, constant cool temperature and humidity"
+  characters:
+    - appearance: "Boy, 12-13 years old, initial excitement giving way to growing concern, face lit by flickering candle"
+      clothing: "Picnic clothes now dirty from cave exploration - white shirt, brown trousers, both covered in limestone dust"
+      position: "Leading way through narrow limestone passage, holding candle high"
+      action: "Searching for way back to main cave while trying to hide growing panic from companion"
+    - appearance: "Girl, 12 years old, golden braids now disheveled, blue eyes wide with fear"
+      clothing: "White picnic dress soiled with cave mud and limestone, torn from squeezing through passages"
+      position: "Following close behind boy, clinging to his free hand"
+      action: "Trying to be brave while fighting tears of fear, asking quietly about finding the way out"
+  scene:
+    mainElements: "Narrow limestone corridors twisting in all directions, low ceiling forcing crouching, wet walls reflecting candlelight, complete darkness beyond candle's reach"
+    details: "Ball of kite string being used to mark path, flickering candle creating dancing shadows on wet limestone, footprints in soft cave mud showing confused wandering, sound of distant water dripping, no text or letters visible"
+    background: "Endless maze of limestone passages, some barely wide enough to squeeze through, others opening into small chambers before dividing again"
+    atmosphere: "Growing claustrophobia and panic, childhood adventure becoming life-threatening ordeal, complete isolation from outside world"
+  composition:
+    cameraAngle: "Close shot emphasizing confined space and growing desperation"
+    focus: "Moment when adventure becomes survival situation, childhood innocence facing real danger"
+    depth: "Foreground: two children with single candle in narrow passage, middle ground: twisting cave corridor ahead, background: impenetrable darkness suggesting endless maze"

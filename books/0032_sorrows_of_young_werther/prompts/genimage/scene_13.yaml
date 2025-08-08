@@ -1,0 +1,97 @@
+sceneDescription:
+  setting:
+    time: 1772 March, evening, formal lighting from chandeliers
+    location: Wnętrze arystokratycznej rezydencji, urządzone w stylu późnego rokoka
+    weather: Cold spring evening, rain pattering against tall windows
+  characters:
+  - appearance: Young man, 24 years old, slender athletic build, average height, expressive dark eyes, dark brown hair gathered
+      simply at the nape with a black ribbon, clean-shaven with sharp jawline, intensely emotional facial expressions capable
+      of extreme joy and deep melancholy
+    clothing: Iconic blue woolen frock coat with brass buttons, bright yellow silk waistcoat, cream-colored knee-length breeches,
+      white linen shirt with ruffled jabots, white silk stockings, brown leather riding boots with small heel and brass buckle
+    position: Standing alone near wall, having been subtly excluded from group
+    action: Face burning with shame and humiliation, hands clenched at sides, shoulders rigid with suppressed anger, realizing
+      his middle-class origins make him unwelcome among true nobility
+  - appearance: Grupa arystokratów w eleganckich strojach, cold and disdainful expressions
+    clothing: Rich court dress with elaborate embroidery, powdered wigs, jewelry, silk and velvet
+    position: Formed in exclusive circle near fireplace, backs partially turned to exclude
+    action: Speaking in deliberately lowered voices, occasionally glancing toward him with barely concealed contempt, making
+      clear through body language that his presence is no longer welcome
+  - appearance: Young arystokratka, inteligentna i wrażliwa, around 20 years old
+    clothing: Elegancka, modna suknia dworska in deep burgundy silk
+    position: Standing uncertainly between the two groups
+    action: Looking toward him with genuine sympathy and regret, wanting to help but constrained by social pressures, face
+      expressing conflict between personal kindness and class loyalty
+  scene:
+    mainElements: Złocone meble, lustra w ozdobnych ramach, obrazy, kryształowe żyrandole, polerowane posadzki
+    details: Jasne, rozproszone światło z dużych okien lub wielu świeczników. Crystal chandeliers cast harsh bright light
+      revealing cruel social dynamics, golden furniture and mirrors reflect the isolation of the excluded figure, ornate salon
+      becomes theater of humiliation, polished marble floors seem cold and unwelcoming, sound of aristocratic conversation
+      deliberately excludes one voice, expensive perfumes cannot mask the stench of social cruelty, no text or letters visible
+    background: Rain streams down tall windows like tears, other salons visible through doorways show similar scenes of privilege
+      and exclusion, servants move silently aware of social tensions
+    atmosphere: Crushing social humiliation and class prejudice, artificial world revealing its cruel foundations, momentary
+      hope destroyed by unchangeable birth circumstances, elegant surfaces hiding primitive tribal exclusion, beautiful setting
+      made ugly by human coldness
+  composition:
+    cameraAngle: Medium wide shot showing isolated figure against group dynamics
+    focus: Solitary figure experiencing brutal social rejection in elegant surroundings
+    depth: 'Foreground: humiliated individual standing apart, middle ground: excluding group of aristocrats, background: ornate
+      salon amplifying the cruelty through its beauty'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

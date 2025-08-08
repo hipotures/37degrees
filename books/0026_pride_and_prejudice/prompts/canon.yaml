@@ -1,0 +1,156 @@
+canon:
+  characters:
+    - id: "elizabeth_bennet"
+      name: "Elizabeth Bennet"
+      description_block: |
+        characters:
+          - appearance: "Woman, 20 years old, beautiful dark intelligent eyes with expressive gaze, light and pleasing figure, average height, not classically beautiful like her sister Jane but possessing striking charm, dark hair arranged in period-appropriate style with loose curls framing her face, healthy complexion that gains attractive rosy color after physical exertion"
+            clothing: "Early 19th century day dress in forest green muslin with high waistline just below bust, long sleeves, modest neckline, dress hem reaching to ankles, white cotton chemise underneath, brown leather walking boots suitable for countryside paths, simple bonnet when outdoors"
+            posture: "Confident upright posture, animated gestures while speaking, quick energetic movements, head held high with alert expression"
+    
+    - id: "fitzwilliam_darcy"
+      name: "Fitzwilliam Darcy"
+      description_block: |
+        characters:
+          - appearance: "Man, 28 years old, tall imposing height, handsome strong features, noble bearing, dark hair carefully styled in period fashion, serious expression that softens when genuinely pleased, athletic build from riding and outdoor activities, pale complexion typical of English gentleman"
+            clothing: "Dark blue wool tailcoat with brass buttons, white linen shirt with high white cravat, dark breeches, polished black leather boots, gold pocket watch chain visible, beaver top hat when outdoors, riding attire when on horseback"
+            posture: "Perfectly erect formal posture, controlled measured movements, hands often clasped behind back, slight bow when greeting, serious demeanor with occasional genuine smile"
+    
+    - id: "jane_bennet"
+      name: "Jane Bennet"  
+      description_block: |
+        characters:
+          - appearance: "Woman, 22 years old, classically beautiful with perfect harmony of features, blonde hair arranged in elegant ringlets, serene blue eyes, tall graceful figure, flawless porcelain complexion, gentle sweet expression"
+            clothing: "Pale blue silk day dress with delicate white lace trim, high empire waistline, long fitted sleeves, pearl necklace, white silk slippers, white lace cap when at home"
+            posture: "Graceful composed bearing, gentle fluid movements, soft genuine smiles, hands folded demurely, calm peaceful demeanor"
+    
+    - id: "charles_bingley"
+      name: "Charles Bingley"
+      description_block: |
+        characters:
+          - appearance: "Man, 24 years old, medium height, pleasant open face with wide genuine smile, light brown wavy hair slightly disheveled, cheerful hazel eyes, lean build, animated friendly expression"
+            clothing: "Light brown wool morning coat, cream waistcoat, brown breeches, white linen shirt, simple cravat, brown leather shoes, less formal than Darcy's attire"
+            posture: "Relaxed easy posture, frequent gesturing while speaking, quick energetic movements, warm welcoming demeanor, often leaning forward in conversation"
+    
+    - id: "pan_bennet"
+      name: "Pan Bennet"
+      description_block: |
+        characters:
+          - appearance: "Man, 50 years old, medium height, thin build, graying dark hair, intelligent eyes with ironic glint, lined face showing years of cynical amusement, pale complexion from indoor scholarly habits"
+            clothing: "Brown wool morning coat slightly worn at edges, dark waistcoat, white shirt with simple cravat, dark breeches, comfortable leather slippers for indoor use"
+            posture: "Relaxed slouched posture in favorite armchair, hands often steepled, sardonic half-smile, withdrawn demeanor with occasional sharp witty interjections"
+    
+    - id: "pani_bennet"
+      name: "Pani Bennet" 
+      description_block: |
+        characters:
+          - appearance: "Woman, 45-50 years old, medium height, plump figure from comfortable living, faded blonde hair arranged in elaborate style, anxious expression with frequent nervous gestures, still retains traces of former beauty"
+            clothing: "Overly ornate day dress in bright colors inappropriate for morning wear, excessive jewelry including multiple bracelets and rings, elaborate lace cap with ribbons, silk shawl draped dramatically"
+            posture: "Restless fidgeting movements, frequent dramatic gesturing, tendency to fan herself, anxious forward-leaning posture when discussing matrimonial prospects"
+    
+    - id: "lydia_bennet"
+      name: "Lydia Bennet"
+      description_block: |
+        characters:
+          - appearance: "Girl, 15 years old, tall for her age with full developing figure, dark hair like Elizabeth but worn in looser style, bright mischievous eyes, confident flirtatious expression, rosy complexion"
+            clothing: "Bright yellow muslin dress with lower neckline than appropriate for her age, colorful ribbons in hair, dancing slippers, shawl worn carelessly draped"
+            posture: "Bold confident stance, frequent giggling with animated gestures, bouncing energetic movements, attention-seeking dramatic poses"
+    
+    - id: "george_wickham"
+      name: "George Wickham"
+      description_block: |
+        characters:
+          - appearance: "Man, 26-27 years old, extremely handsome with fine countenance, good figure, pleasant address, charming smile that doesn't reach his calculating eyes, dark hair, superficial attractiveness"
+            clothing: "Scarlet military uniform with gold epaulets and brass buttons, white tight breeches, tall polished black boots, uniform tailored to show off his figure, sword at side"
+            posture: "Practiced charming demeanor, calculated graceful movements, false sincere expressions, theatrical bows and gestures designed to impress"
+    
+    - id: "pan_collins"
+      name: "Pan William Collins"
+      description_block: |
+        characters:
+          - appearance: "Man, 25 years old, tall heavy-looking build, ungainly movements, serious pompous expression, thin hair, forgettable features, formal grave manner"
+            clothing: "Black Anglican clergyman's coat and breeches, white clerical collar, black waistcoat, good quality but worn without style, black shoes with buckles"
+            posture: "Stiff formal bearing, exaggerated bows, pompous gesturing while speaking, awkward ungraceful movements, self-important stance"
+    
+    - id: "lady_catherine"
+      name: "Lady Catherine de Bourgh"
+      description_block: |
+        characters:
+          - appearance: "Woman, over 60 years old, tall imposing figure, sharp severe facial features, cold calculating eyes, gray hair in elaborate formal arrangement, commanding presence, austere expression"
+            clothing: "Rich but outdated formal dress in dark colors, heavy brocade fabric, elaborate jewelry including family gems, lace cap with ribbons, expensive but old-fashioned style"
+            posture: "Imperious authoritative bearing, sharp pointing gestures, rigid formal posture, condescending manner, commanding presence that demands deference"
+
+  locations:
+    - id: "longbourn_house"
+      name: "Longbourn House"
+      description_block: |
+        setting:
+          location: "English countryside manor house in Hertfordshire, 50 miles north of London"
+        mainElements: "Red brick Georgian house built late 17th century, symmetrical facade with central entrance, white sash windows, steep slate roof, surrounded by well-maintained grounds with formal garden, shrubbery walks, small woods, comfortable but not grand estate showing minor wear from limited finances"
+        atmosphere: "Warm family home with lived-in comfort, busy domestic activity, sounds of multiple young women, mixture of refinement and casual informality"
+
+    - id: "netherfield_park"  
+      name: "Netherfield Park"
+      description_block: |
+        setting:
+          location: "Grand rented estate in Hertfordshire, three miles from Longbourn"
+        mainElements: "Large Palladian mansion with imposing columned facade, extensive manicured grounds, formal gardens, grand entrance hall with marble floors, elegant drawing rooms with high ceilings, modern furnishings in latest Regency style, everything pristine and fashionable"
+        atmosphere: "Wealthy sophistication, formal entertaining spaces, slight coldness of new money attempting elegance, sounds of servants maintaining perfection"
+
+    - id: "rosings_park"
+      name: "Rosings Park" 
+      description_block: |
+        setting:
+          location: "Aristocratic estate in Kent, southeast England near village of Hunsford"
+        mainElements: "Massive Jacobean mansion with ornate facade, extensive formal gardens with geometric patterns, imposing stone entrance with heraldic decorations, grand but oppressive interior with dark heavy furnishings, everything designed to intimidate and display wealth"
+        atmosphere: "Cold aristocratic grandeur, intimidating formality, sounds of servants moving quietly, overwhelming display of inherited power and wealth"
+
+    - id: "pemberley_estate"
+      name: "Pemberley Estate"
+      description_block: |
+        setting:
+          location: "Beautiful estate in Derbyshire Peak District, northern England"
+        mainElements: "Elegant stone mansion perfectly proportioned, natural landscaped grounds with serpentine river, ancient oak trees, rolling green parkland, house positioned to complement natural beauty rather than dominate it, harmonious blend of architecture and landscape"
+        atmosphere: "Perfect balance of grandeur and natural beauty, peaceful serenity, tasteful refinement without ostentation, sounds of flowing water and birdsong"
+
+    - id: "meryton_town"
+      name: "Meryton Town"
+      description_block: |
+        setting:
+          location: "Small market town in Hertfordshire, walking distance from Longbourn"
+        mainElements: "Georgian town with main street lined with shops, coaching inn, assembly rooms for balls and social gatherings, modest houses for tradespeople and professional families, church with ancient graveyard, weekly market square"
+        atmosphere: "Busy provincial social life, gossip and news exchange, sounds of horses and carriages, mixture of commerce and genteel society"
+
+    - id: "hunsford_parsonage"
+      name: "Hunsford Parsonage"  
+      description_block: |
+        setting:
+          location: "Anglican clergyman's residence in Kent village, adjacent to Rosings Park"
+        mainElements: "Modest but comfortable two-story rectory with neat front garden, small parlor and dining room, functional kitchen, simple furnishings appropriate for clerical income, vegetable garden behind house, all maintained with precise orderliness"
+        atmosphere: "Quiet domestic peace, religious propriety, sounds of church bells, humble comfort under shadow of great estate"
+
+  items:
+    - id: "darcy_letter"
+      name: "Darcy's Letter to Elizabeth"
+      description_block: |
+        details: "Letter written on high-quality cream vellum paper with Darcy's personal watermark, sealed with burgundy wax bearing his family crest, written in strong confident handwriting with black ink, multiple pages explaining his actions regarding Wickham and Jane"
+
+    - id: "military_uniform"
+      name: "Militia Officer Uniform"  
+      description_block: |
+        details: "Scarlet red wool tailcoat with white lapels and cuffs, gold braided epaulettes, shiny brass buttons with regimental insignia, white tight-fitting breeches, tall black leather boots polished to mirror shine, dress sword with decorative hilt, white crossbelt across chest"
+
+    - id: "darcy_portrait" 
+      name: "Portrait of Darcy at Pemberley"
+      description_block: |
+        details: "Oil painting in ornate gold frame hanging in Pemberley's portrait gallery, showing Darcy in formal dark coat with slight genuine smile, painted by skilled artist, capturing his better nature visible to those who know him well"
+
+    - id: "pianoforte"
+      name: "Pianoforte"
+      description_block: |
+        details: "Elegant wooden keyboard instrument with mother-of-pearl inlays, polished mahogany case, brass pedals, sheet music arranged on music stand, symbol of feminine accomplishment and refinement, used for entertainment and displaying musical skill"
+
+    - id: "gentleman_carriage"
+      name: "Gentleman's Carriage"
+      description_block: |
+        details: "Private four-wheeled carriage with enclosed passenger compartment, drawn by matched pair of horses, driven by uniformed coachman, leather seats with family crest on door panel, symbol of wealth and social status, provides private transportation for respectable families"

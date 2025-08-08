@@ -1,0 +1,103 @@
+sceneDescription:
+  setting:
+    time: 1772 December 24, afternoon, weak winter sunlight
+    location: Warm domestic environment filled with sounds of children laughing, pianoforte music, domestic activities, scent
+      of cooking and beeswax candles, orderly comfortable middle-class home
+    weather: Clear cold day after snowfall, sun struggling through winter clouds
+  characters:
+  - appearance: Young woman, 20 years old, medium height, graceful slender figure, striking black eyes now red from constant
+      weeping, pale lips, wan complexion drained of its former rosy health, chestnut brown hair disheveled and unkempt
+    clothing: Simple black mourning dress replacing her usual white gown, no ribbons or ornaments, appearance of someone who
+      has aged years in single day
+    position: Collapsed in chair beside window, body curved inward in protective posture
+    action: Weeping uncontrollably with violent sobs that shake her entire frame, holding crumpled letter to her chest, completely
+      overcome by grief and guilt, barely able to breathe between waves of anguish
+  - appearance: Mature man, 31 years old, solid stocky build, tall stature, composed face now showing deep concern and exhaustion,
+      steady gray eyes filled with worry
+    clothing: Dark brown woolen frock coat with silver buttons, beige silk waistcoat, dark brown knee-length breeches, white
+      linen shirt with simple white cravat, white stockings, polished black leather shoes with silver buckles
+    position: Standing helplessly beside her chair, hands reaching toward her but unsure how to comfort
+    action: Watching wife's breakdown with growing alarm, face showing mixture of grief for lost friend and fear for wife's
+      condition, occasionally attempting to touch her shoulder only to have her recoil from contact
+  - appearance: Eight children ranging from 3 to 16 years old, all showing confusion and fear at their sister's unprecedented
+      breakdown
+    clothing: Dark winter clothing, subdued colors reflecting household mourning
+    position: Clustered in doorway and corners of room, afraid to approach
+    action: Whispering among themselves in frightened voices, younger ones crying because their beloved sister is inconsolable,
+      older ones trying to understand tragedy beyond their experience
+  scene:
+    mainElements: Two-story house with white plastered walls and dark timber framing, red tile roof, heavy wooden front door
+      with brass knocker, diamond-paned windows with wooden shutters, kitchen garden and fruit trees behind house
+    details: Pale winter sunlight illuminates scene of domestic devastation, formerly cheerful room now filled with profound
+      grief, her farewell letter from him lies crumpled in her lap showing evidence of desperate final communication, children's
+      Christmas preparations abandoned on tables create poignant contrast with tragedy, room that once hosted happy gatherings
+      now witnesses emotional collapse, scent of pine boughs and baking meant for holiday now seems inappropriate for mourning,
+      her violent sobbing echoes off walls, no text or letters visible except crumpled farewell note
+    background: Through windows, village shows signs of preparing for Christmas celebration, normal life continuing while
+      this household falls apart, distant church bells remind of approaching holiday that will forever be associated with
+      tragedy
+    atmosphere: Devastating guilt and grief threatening to destroy survivor, domestic happiness shattered by recognition of
+      unintended complicity in tragedy, Christmas joy transformed into season of mourning, family unit strained by weight
+      of collective sorrow
+  composition:
+    cameraAngle: Medium shot capturing devastated family group in familiar setting now transformed by grief
+    focus: Woman collapsed in anguish while family watches helplessly, center of domestic harmony become center of devastation
+    depth: 'Foreground: grieving woman at breaking point, middle ground: helpless husband and frightened children, background:
+      village preparing for Christmas beyond windows'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

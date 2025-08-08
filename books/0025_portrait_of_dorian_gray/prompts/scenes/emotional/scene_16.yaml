@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Pressure Mounting in Crowded Shadows"
+  setting:
+    time: "Late Victorian London, oppressive evening, 1880s"
+    location: "Ohydne nory and wstrętne miejsca in East End London docks area, underground or basement establishment"
+    weather: "Heavy, oppressive atmosphere with no relief"
+  characters:
+    - appearance: "Young man, 20 years old, smukły build, pełen wdzięku, kędzierzawe złote włosy now disheveled and damp with perspiration, szczere niebieskie oczy now showing paranoia and stress, klasyczna owalna twarz z rysami made of kości słoniowej i płatków róży now tense with fear, finely curved szkarłatne usta set in grim line, brak jakichkolwiek skaz, absolutna doskonała uroda now serving as burden rather than blessing"
+      clothing: "Disguised in common working clothes to hide his identity, expensive garments covered by rough coat and common hat, attempting to blend with criminal underworld"
+      position: "Huddled in corner with defensive posture, constantly looking over shoulder"
+      action: "Moving nervously through dangerous crowd, flinching at sudden sounds, showing signs of growing paranoia and fear of discovery, seeking escape from mounting pressure of hidden crimes"
+  scene:
+    mainElements: "Ciemne ciasne i brudne wnętrza with crowds of dangerous people pressing closer, wzdłuż ścian ciągną się prycze with various criminal types and desperate people creating threatening environment, walls seeming to press closer with each moment"
+    details: "Powietrze gęste od słodkawego duszącego dymu making breathing difficult, małe lampki spirytusowe providing inadequate light that creates menacing shadows, mieszanina ludzi różnych ras i klas including Malajscy marynarze, Chińczycy, upadli Anglicy all watching with suspicious eyes, fajki do opium i brudne naczynia scattered about creating squalid environment, no text or letters visible"
+    background: "Gęsty mrok with threatening figures partially visible in shadows, sense of being watched and hunted, multiple eyes gleaming in darkness"
+    atmosphere: "Maximum pressure and mounting paranoia, groźna odrealniona atmosphere now focused specifically on hunting one figure, duszące środowisko closing in like trap, sense of walls literally pressing closer, dangerous criminal underworld now seeming like maze with no escape, growing certainty that someone is following and watching, pressure building toward inevitable confrontation"
+  composition:
+    cameraAngle: "Claustrophobic close-up emphasizing trapped feeling and pressing crowds"
+    focus: "Figure surrounded by threatening presence, showing mounting psychological pressure"
+    depth: "Foreground: cornered figure, middle ground: pressing crowd of dangerous faces, background: darkness filled with watching eyes"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Full Circle - Autumn Dawn Over Transformed Moors"
+  setting:
+    time: "Late Georgian period Yorkshire, autumn dawn years later, time has passed and brought transformation"
+    location: "Vast open rolling heathland between the two houses, wild untamed moorland stretching for miles, covered in heather that blooms purple-pink in late summer, scattered with moss-covered boulders and peat bogs, few gnarled trees shaped by wind"
+    weather: "Crisp clear autumn morning, golden light revealing seasonal transformation, gentle breeze"
+  characters:
+    - appearance: "Girl to young woman 0-18 years, beautiful golden curling hair inherited from Lintons, dark expressive eyes inherited from Earnshaws, very pretty combining features of both families"
+      clothing: "Simple dresses progressing to elegant Regency-style gowns as she matures, empire waist, light flowing fabrics, colors reflecting her genteel upbringing"
+      position: "Walking across moorland with book in hand, confident and purposeful"
+      action: "Teaching reading lesson outdoors in natural classroom, representing education and hope triumphing over ignorance"
+    - appearance: "Strong young man about 24 years, thick brown curling hair, dark expressive eyes, handsome rugged features, well-built athletic frame, hands tanned from farm work"
+      clothing: "Rough laborer's clothes, thick worn trousers, coarse shirt, heavy boots, garments suitable for outdoor work but clean, clothing reflects his degraded status despite noble birth"
+      position: "Sitting on moss-covered boulder, book open in lap, learning to read"
+      action: "Concentrating on written words with intense focus, representing transformation from degradation to dignity through education and love"
+  scene:
+    mainElements: "Purple blooming heather now showing autumn colors of gold and brown, rocky outcrops unchanged by time showing permanence of natural world, few gnarled trees displaying autumn foliage, morning mist rising from valleys showing cyclical nature of weather patterns"
+    details: "Moorland landscape shows seasonal transformation - heather displays autumn colors of gold and brown rather than summer purple blooms, morning light illuminates educational transformation in human lives, moss-covered boulders provide natural seating for outdoor learning, paths worn by sheep now serve purpose of education and growth, seasonal cycle shows passage of time and positive change, no text or letters visible"
+    background: "Rolling moorland extending to horizon showing both permanence and change - same landscape but different season and different human story"
+    atmosphere: "Hope and educational transformation conquering ignorance and hatred, sense of natural cycles continuing while human lives evolve toward better possibilities, air carries autumn scents of changing seasons and promise of renewal, atmosphere of completion and new beginning"
+  composition:
+    cameraAngle: "Wide shot showing familiar landscape in different season with transformed human relationship"
+    focus: "Two figures engaged in education on moorland, representing triumph of love and learning over ignorance and hatred"
+    depth: "Foreground autumn heather and natural classroom setting, middle ground teaching scene, background eternal moorland now serving different human purposes"

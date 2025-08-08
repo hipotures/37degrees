@@ -1,0 +1,98 @@
+sceneDescription:
+  setting:
+    time: 1772 December 26, night, torchlight and starlight
+    location: Gentle grassy hilltop overlooking Wahlheim valley, two ancient massive linden trees providing deep shade, small
+      rural church and graveyard at base
+    weather: Clear winter night with brilliant stars, no wind, profound stillness
+  characters:
+  - appearance: Elderly village commissioner, father of Charlotte, dignified man in his 60s with white hair and lined face
+      showing deep sorrow
+    clothing: Dark winter coat and hat, black armband, carrying single torch
+    position: Standing at head of simple wooden coffin
+    action: Reading brief prayer from small book, voice steady but filled with emotion, occasionally glancing up at stars
+      as if seeking divine understanding
+  - appearance: Village craftsmen serving as pallbearers, four men of various ages with weathered hands and honest faces
+    clothing: Their best dark clothing, worn but clean, showing respect for deceased despite circumstances
+    position: Standing beside grave holding ropes to lower coffin
+    action: Waiting respectfully for signal to complete burial, faces showing mixture of sorrow and determination to provide
+      dignity despite tragic circumstances
+  - appearance: Small group of village men and older boys who knew him, standing at respectful distance
+    clothing: Dark winter clothing, some carrying small lanterns or torches
+    position: Gathered in half-circle around burial site
+    action: Standing silently with heads bowed, paying final respects to young man who found no place in world above ground
+  scene:
+    mainElements: Two enormous linden trees with spreading crowns and thick gnarled trunks, simple wooden bench beneath trees,
+      panoramic view across valley with patchwork fields and distant forests, small stone church with bell tower
+    details: Torchlight flickers against massive linden trunks creating dancing shadows on snow-covered ground, simple wooden
+      coffin rests beside freshly dug grave in corner of church cemetery, brilliant winter stars provide celestial canopy
+      above earthly sorrow, two ancient linden trees stand as eternal sentinels over burial site he chose himself, distant
+      valley spreads below in moonlit beauty showing world that continues despite individual tragedy, scent of winter earth
+      and pine torches, sound of boots crunching on frozen ground and quiet murmur of final prayers, no text or letters visible
+      except prayer book
+    background: Village below shows scattered lights in windows, peaceful and sleeping, unaware of midnight ceremony, rolling
+      countryside extends toward horizon under starlight, eternal landscape that witnessed his joy and despair
+    atmosphere: Solemn dignity despite tragic circumstances, community providing respectful farewell without official sanction,
+      ancient trees blessing burial with timeless presence, stars offering cosmic perspective on human sorrow, final peace
+      in place where he once found happiness
+  composition:
+    cameraAngle: High wide shot showing burial scene beneath massive trees with valley vista beyond
+    focus: Small human gathering dwarfed by ancient trees and cosmic vastness, providing dignity through simple human decency
+    depth: 'Foreground: burial ceremony in torchlight, middle ground: linden trees and immediate cemetery, background: valley
+      vista extending to star-filled horizon suggesting continuity beyond individual tragedy'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

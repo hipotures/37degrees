@@ -1,0 +1,101 @@
+sceneDescription:
+  setting:
+    time: Early 19th century England, morning, early autumn
+    location: Small parish church in Hertfordshire countryside near Longbourn
+    weather: Beautiful clear autumn morning with golden sunlight
+  characters:
+  - appearance: Woman, 22 years old, classically beautiful with perfect harmony of features, blonde hair arranged in elegant
+      ringlets, serene blue eyes, tall graceful figure, flawless porcelain complexion, gentle sweet expression
+    clothing: Ivory silk wedding dress with delicate lace trim, pearl necklace, white silk gloves, hair adorned with orange
+      blossoms and flowing veil, radiant with quiet happiness
+    position: Standing at altar beside groom, glowing with serene joy
+    action: Exchanging vows with gentle smile and tears of happiness
+  - appearance: Woman, 20 years old, beautiful dark intelligent eyes with expressive gaze, light and pleasing figure, average
+      height, not classically beautiful like her sister Jane but possessing striking charm, dark hair arranged in period-appropriate
+      style with loose curls framing her face, healthy complexion that gains attractive rosy color after physical exertion
+    clothing: White silk wedding dress with simple elegance, minimal jewelry suitable for her taste, hair arranged with natural
+      flowers, appearance showing perfect happiness and love
+    position: Standing beside Jane at altar, both sisters sharing this moment
+    action: Speaking vows with clear confident voice and eyes bright with joy and love
+  - appearance: Man, 28 years old, tall imposing height, handsome strong features, noble bearing, dark hair carefully styled
+      in period fashion, serious expression that softens when genuinely pleased, athletic build from riding and outdoor activities,
+      pale complexion typical of English gentleman
+    clothing: Elegant dark blue wedding coat with silk waistcoat, white cravat perfectly tied, formal attire of highest quality,
+      appearing more relaxed and genuinely happy than ever before
+    position: Standing beside Elizabeth, transformed by love and happiness
+    action: Looking at Elizabeth with complete adoration and contentment, all pride replaced by love
+  - appearance: Man, 24 years old, medium height, pleasant open face with wide genuine smile, light brown wavy hair slightly
+      disheveled, cheerful hazel eyes, lean build, animated friendly expression
+    clothing: Morning coat in lighter color, cheerful waistcoat, formal attire suitable for wedding but less imposing than
+      Darcy's
+    position: Standing beside Jane with beaming happiness
+    action: Radiating joy and contentment, clearly delighted with his bride and the double celebration
+  scene:
+    mainElements: Small Georgian parish church with stone walls and stained glass windows, wooden pews filled with family
+      and friends, altar decorated with autumn flowers and harvest decorations, organ visible in gallery above
+    details: Church interior lit by morning sun streaming through colored glass, autumn flowers and greenery decorating altar
+      and pews, family members in wedding attire filling front pews, atmosphere of joy and celebration, harvest decorations
+      reflecting the season, simple but beautiful rural church setting
+    background: Wedding guests in pews showing joy and satisfaction, parish rector conducting ceremony, church interior with
+      simple dignity
+    atmosphere: Sacred ceremony blessed with natural beauty, sounds of organ music and happy voices, perfect autumn setting
+      for new beginnings
+  composition:
+    cameraAngle: Wide shot capturing both couples and celebrating congregation
+    focus: Two couples at altar representing triumph of love over pride and prejudice
+    depth: 'Foreground: altar with four figures; middle ground: celebrating families; background: church interior blessed
+      with autumn light, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

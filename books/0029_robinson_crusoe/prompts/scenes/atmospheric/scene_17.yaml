@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Evening Fire Outside Fortress Walls"
+  setting:
+    time: "1684, evening with mix of natural and artificial illumination, fire light dancing"
+    location: "Główna siedziba Crusoe u podnóża stromego skalistego wzgórza na tropikalnej wyspie, outside palisade walls"
+    weather: "Clear warm evening, light breeze making flames dance, comfortable outdoor conditions"
+  characters:
+    - appearance: "Mężczyzna, wiek od 27 do 55 lat, postawny i muskularny, ogorzały od słońca, długie niestrzyżone włosy, długa gęsta broda przystrzyżona w tureckie wąsy mahometańskie, twarz poorana zmarszczkami od słońca, dziki barbarzyński wygląd"
+      clothing: "Kompletny strój z koziej skóry: wysoka stożkowata bezkształtna czapka z klapą chroniącą kark, krótka kurtka z koziej skóry z sierścią na zewnątrz sięgająca do połowy uda, spodnie z koziej skóry do kolan z długą sierścią zwisającą do półowy łydek, wysokie sznurowane buty z koziej skóry, szeroki pas z suszonej skóry"
+      position: "Tending cooking fire outside fortress, stirring pot with wooden ladle"
+      action: "Preparing evening meal with Friday's help, enjoying companionship around outdoor fire"
+    - appearance: "Młody mężczyzna, wiek około 26 lat, wysoki i zgrabny o doskonale zbudowanej wysportowanej sylwetce, skóra o jasnym oliwkowym odcieniu, długie czarne proste włosy, żywe błyskotliwe ciemne oczy, okrągła twarz o rysach określanych jako europejskie, mały nos, cienkie usta, zęby białe jak kość słoniowa"
+      clothing: "Początkowo nagi, później ubrany przez Crusoe: lniane spodnie, kaftan z koziej skóry, czapka ze skóry zająca"
+      position: "Gathering wood for fire, moving efficiently around campsite"
+      action: "Adding fuel to fire and assisting with meal preparation, demonstrating learned domestic skills"
+  scene:
+    mainElements: "Półokrągła palisada z podwójnego rzędu grubych zaostrzonych pali wbitych głęboko w ziemię, przestrzeń między palami wypełniona kablami okrętowymi tworząca niemal litą ścianę, brak bramy tylko krótka drabina wciągana do środka, outdoor cooking fire with stones arranged in circle, simple cooking implements"
+    details: "Dancing flames casting orange light on fortress walls and surrounding vegetation, sparks rising into dark sky, cooking pot suspended over fire with savory steam rising, wooden spoons and simple pottery arranged around fire, pile of gathered firewood stacked nearby, shadows of two figures moving around fire creating animated patterns on palisade walls"
+    background: "Dark fortress walls rising protectively behind fire, tropical forest beginning just beyond clearing, night sky with first stars appearing"
+    atmosphere: "Comfortable domesticity established in wilderness setting, warm companionship around fire, sense of civilization recreated through shared meals and routines, peaceful evening ritual in secure environment"
+  composition:
+    cameraAngle: "Wide shot showing fire as central light source with figures and fortress walls"
+    focus: "Cooking fire creating warm center of activity, two figures working together, contrast between fire light and surrounding darkness"
+    depth: "Foreground: flames and cooking implements, Middle: working figures around fire, Background: fortress walls and dark forest beyond, no text or letters visible"

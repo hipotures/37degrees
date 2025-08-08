@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Julian demonstrates his learning to the household"
+  setting:
+    time: "1820s France during Bourbon Restoration, evening after dinner"
+    location: "Interior of substantial bourgeois residence in Verrières with solid house with expensive retaining walls, formal interior with heavy Empire-style furniture, dark wood and rich fabrics"
+    weather: "Clear evening"
+  characters:
+    - appearance: "Young man, age 19-23, short stature with small, slender build almost feminine in delicacy, dark chestnut hair worn slightly longer in 1820s style, large expressive black eyes, regular delicate facial features with aquiline nose, extremely pale complexion that turns bright red easily under emotional stress"
+      clothing: "Black clerical/secretary attire - simple black frock coat, white linen shirt with high stiff collar, dark trousers, plain black shoes"
+      position: "Standing confidently in center of drawing room"
+      action: "Reciting passages from Latin Bible from memory with perfect precision and dramatic delivery"
+    - appearance: "Woman around 30 years old, tall with graceful elegant figure, dazzling fresh complexion, natural beauty without artifice, moves with innate grace and charm when comfortable"
+      clothing: "Elegant but restrained provincial fashion - silk or muslin summer dresses in muted pastel colors, well-made but not ostentatious, appropriate for wealthy provincial matron"
+      position: "Seated in upholstered chair, leaning forward with fascination"
+      action: "Listening with visible amazement and growing admiration"
+    - appearance: "Middle-aged man around 40-50, well-fed bourgeois appearance suggesting tendency toward stoutness, face expressing vanity and self-satisfaction"
+      clothing: "Solid expensive but provincial attire - quality frock coats, waistcoats, well-made but not fashionable, clothes of prosperous provincial notable"
+      position: "Standing near fireplace with arms crossed"
+      action: "Observing with mixture of surprise and calculation about his prestigious new acquisition"
+  scene:
+    mainElements: "Heavy Empire-style furniture including mahogany table, upholstered chairs with rich fabric, marble fireplace with ornate mantelpiece, oil paintings in gilded frames, thick carpet with geometric patterns"
+    details: "Candlelit interior with warm golden glow from multiple sources, leather-bound books visible on side table, fine porcelain tea service on tray, heavy drapes partially drawn, domestic servants discretely observing from doorway"
+    background: "Formal dining room visible through archway, grandfather clock in corner, family portraits on walls"
+    atmosphere: "Intellectual performance creating social admiration, contrast between Julian's modest appearance and extraordinary learning, growing respect and fascination from household members"
+  composition:
+    cameraAngle: "Wide shot encompassing the formal drawing room setting"
+    focus: "Julian's confident performance contrasted with the impressed reactions of his audience"
+    depth: "Julian in center foreground, de Rênal family in middle ground around furniture, domestic interior details in background, no text or letters visible"

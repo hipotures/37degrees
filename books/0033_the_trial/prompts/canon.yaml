@@ -1,0 +1,143 @@
+canon:
+  characters:
+    - id: "jozef_k"
+      name: "Józef K."
+      description_block: |
+        characters:
+          - appearance: "Man, 30 years old, average height with lean build, dark brown hair neatly combed, intelligent face with regular features, clean-shaven with pale complexion, becoming increasingly gaunt and tired-looking as stress mounts, dark circles under eyes, nervous ticks developing"
+            clothing: "Well-tailored dark charcoal suit, crisp white shirt with high starched collar, conservative dark tie, polished leather shoes, black formal overcoat when outdoors, always impeccably dressed despite growing internal turmoil"
+            posture: "Initially confident and upright stance, gradually becoming more hunched and defensive, frequent nervous glances over shoulder, hands often clenched or fidgeting, increasingly agitated body language"
+
+    - id: "fraulein_burstner"
+      name: "Miss Felicyta Bürstner"
+      description_block: |
+        characters:
+          - appearance: "Woman, approximately 25 years old, attractive with intelligent features, alert brown eyes, shoulder-length dark hair pinned back neatly, slender build with graceful posture, confident facial expression"
+            clothing: "Modern dark grey wool skirt reaching mid-calf, crisp white cotton blouse with high collar, simple dark jacket, practical leather shoes, small silver brooch at throat, dressed as independent working woman of early 1900s"
+            posture: "Upright and self-assured stance, direct eye contact, purposeful movements, initially curious but increasingly cautious and distant body language when dealing with K."
+
+    - id: "advocate_huld"
+      name: "Advocate Albert Huld"
+      description_block: |
+        characters:
+          - appearance: "Elderly man, 65-70 years old, extremely thin and frail, long grey beard reaching chest, pale translucent skin, sunken cheeks, weak rheumy eyes, confined to bed due to chronic illness"
+            clothing: "White cotton nightshirt, woolen shawl around shoulders, nightcap, bedridden in pile of pillows and blankets, occasionally wrapped in dark dressing gown"
+            posture: "Reclines weakly against pillows, minimal movement due to infirmity, gestures with bony trembling hands, speaks in weak voice interrupted by coughing fits"
+
+    - id: "leni"
+      name: "Leni"
+      description_block: |
+        characters:
+          - appearance: "Young woman, 20-22 years old, beautiful with dark hair and bright eyes, distinctive physical deformity of webbed skin between middle and ring fingers of right hand, attractive face with mysterious smile"
+            clothing: "Simple white nurse's uniform with starched apron and cap when working, or plain dark wool dress for everyday wear, practical dark stockings and shoes"
+            posture: "Quick and agile movements, seductive and flirtatious gestures, bold direct gaze, often touches people while speaking, graceful despite unconventional appearance"
+
+    - id: "painter_titorelli"
+      name: "Painter Titorelli"
+      description_block: |
+        characters:
+          - appearance: "Man, 35-40 years old, bohemian appearance with unkempt dark hair, sharp intelligent eyes, thin face with small pointed beard, paint stains on hands and clothing, slightly disheveled look"
+            clothing: "Paint-stained artist's smock over simple dark trousers and shirt, worn leather boots, sometimes removes smock to reveal wrinkled white shirt, practical working clothes of struggling artist"
+            posture: "Nervous and energetic movements, paces restlessly while talking, quick gesticulations with paint-stained hands, frequently glances toward door as if expecting interruption"
+
+    - id: "prison_chaplain"
+      name: "Prison Chaplain"
+      description_block: |
+        characters:
+          - appearance: "Man, 50-60 years old, tall imposing figure with stern ascetic face, deep-set eyes, prominent cheekbones, commanding presence radiating authority and spiritual gravitas"
+            clothing: "Simple black cassock reaching ankles, white clerical collar, black leather shoes, small silver cross on chain around neck, black skullcap when in cathedral"
+            posture: "Dignified upright posture, measured deliberate movements, hands often clasped behind back or folded in prayer position, speaks with deep resonant voice that echoes in cathedral space"
+
+    - id: "merchant_block"
+      name: "Merchant Rudi Block"
+      description_block: |
+        characters:
+          - appearance: "Small man, 45-50 years old, long unkempt grey beard, thin frame bent with worry, hollow frightened eyes, prematurely aged appearance from five years of legal proceedings"
+            clothing: "Worn ill-fitting dark suit with patches and repairs, frayed shirt collar, scuffed shoes, carries small battered briefcase with legal documents, clothing reflects financial ruin"
+            posture: "Hunched servile posture, nervous fidgeting movements, avoids direct eye contact, speaks in whispered pleading tones, behaves like frightened dog in presence of advocate"
+
+    - id: "executioners"
+      name: "Two Executioners"
+      description_block: |
+        characters:
+          - appearance: "Two middle-aged men, 40-50 years old, stocky build with pale flabby faces, expressionless features, physically similar to each other like bureaucratic twins, cold emotionless eyes"
+            clothing: "Formal black frock coats and top hats, white shirts with high collars, dark trousers, polished black shoes, dressed like 19th century undertakers or business executives"
+            posture: "Synchronized mechanical movements, walk in perfect unison, no facial expressions or gestures, silent and emotionless throughout their task, move with practiced efficiency"
+
+  locations:
+    - id: "k_boarding_room"
+      name: "K.'s Room at Mrs. Grubach's Boarding House"
+      description_block: |
+        setting:
+          location: "Medium-sized room in Austrian middle-class boarding house in Central European city, early 20th century tenement building with thick walls and high ceilings"
+        mainElements: "Simple dark wooden bed with white linens, wooden wardrobe, small writing desk near window, washbasin with pitcher and mirror, single window overlooking narrow courtyard or opposite building"
+        atmosphere: "Functional and impersonal space lacking personal touches, morning light filtered through lace curtains, sounds of city life muffled by thick walls, scent of floor wax and starched laundry"
+
+    - id: "court_offices"
+      name: "Court Offices in Tenement Attics"  
+      description_block: |
+        setting:
+          location: "Maze of low-ceilinged attic spaces and storerooms in old Central European tenement building, hidden from public view on highest floors"
+        mainElements: "Network of cramped rooms connected by narrow corridors with sloping ceilings, exposed wooden beams, stacks of dusty legal documents, old wooden furniture, small dormer windows"
+        atmosphere: "Oppressively stuffy air with no ventilation, overwhelming smell of dust and decay, suffocating heat, sounds of rustling papers and muffled conversations, labyrinthine layout causing disorientation"
+
+    - id: "first_hearing_room"
+      name: "First Hearing Room"
+      description_block: |
+        setting:
+          location: "Ordinary apartment on fifth floor of tenement building temporarily converted to courtroom, belonging to court usher and his washerwoman wife"
+        mainElements: "Large room packed with men in dark suits, makeshift wooden platform at one end with simple table for examining magistrate, basic wooden chairs scattered throughout, single window providing limited daylight"
+        atmosphere: "Overcrowded and stifling with heavy tobacco smoke, constant murmur of voices and coughing, smell of sweat and cheap cologne, hostile atmosphere toward the accused"
+
+    - id: "bank_office"
+      name: "Bank Office"
+      description_block: |
+        setting:
+          location: "Prestigious commercial bank in Central European city center, large institutional building with imposing architecture representing financial authority and social order"
+        mainElements: "Spacious main hall with high ceilings, marble floors, dark wood paneling, brass fixtures, K.'s private office with mahogany desk, green banker's lamp, telephone, filing cabinets"
+        atmosphere: "Formal business environment with sounds of typewriters and muffled conversations, smell of paper and ink, sense of established hierarchy and professional competence"
+
+    - id: "advocate_apartment"
+      name: "Advocate Huld's Apartment"
+      description_block: |
+        setting:
+          location: "Dark cramped apartment in suburban district, old building with heavy Victorian furnishings representing decay of traditional legal system"
+        mainElements: "Main bedroom dominated by large bed where Huld lies ill, heavy curtains blocking most light, stacks of old books and legal papers, medicine bottles, ornate but shabby furniture"
+        atmosphere: "Oppressive darkness with stale air smelling of medicine and sickness, ticking clocks marking slow passage of time, whispered conversations, sense of decay and futility"
+
+    - id: "cathedral"  
+      name: "Gothic Cathedral"
+      description_block: |
+        setting:
+          location: "Massive Gothic cathedral in Central European city center, ancient stone building with soaring architecture representing spiritual and temporal authority"
+        mainElements: "Vast empty nave with towering stone pillars, high vaulted ceiling disappearing into darkness, stone altar with flickering candles, wooden pulpit, scattered wooden pews"
+        atmosphere: "Profound echoing silence broken only by footsteps, cold stone surfaces, lingering smell of incense and old stone, dramatic contrasts of candlelight and deep shadows"
+
+    - id: "quarry"
+      name: "Abandoned Quarry"
+      description_block: |
+        setting:
+          location: "Abandoned stone quarry on outskirts of Central European city, isolated rocky landscape under night sky, only open natural space in entire story"
+        mainElements: "Rough hewn stone walls, scattered boulders and rock debris, flat stone slab serving as execution site, uneven ground with loose gravel, distant city lights visible"
+        atmosphere: "Absolute silence of night broken only by footsteps on gravel and wind, cold moonlight casting sharp shadows, sense of finality and ritualistic ceremony"
+
+  items:
+    - id: "court_books"
+      name: "Legal Documents and Court Books"
+      description_block: |
+        details: "Old leather-bound volumes appearing to be serious legal texts but containing obscene drawings instead of law, representing corruption and mockery of justice system, dusty and neglected appearance"
+
+    - id: "butcher_knife"
+      name: "Butcher's Knife"
+      description_block: |
+        details: "Large double-edged butcher's knife with heavy wooden handle, practical tool rather than ceremonial weapon, represents brutal efficiency and mundane horror of bureaucratic death sentence"
+
+    - id: "judge_portraits"
+      name: "Official Judge Portraits"
+      description_block: |
+        details: "Formal painted portraits showing judges in hierarchical poses resembling royal or divine authority, painted by Titorelli in official style to intimidate and establish power, ornate gold frames"
+
+    - id: "justice_painting"
+      name: "Allegory of Justice Painting"  
+      description_block: |
+        details: "Paradoxical painting combining traditional blindfolded Justice figure with wings of Victory goddess, shown in running motion rather than static balance, represents impossible and contradictory nature of legal system"

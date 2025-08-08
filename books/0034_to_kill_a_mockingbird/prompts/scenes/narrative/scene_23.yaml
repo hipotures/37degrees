@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Understanding Boo Radley"
+  setting:
+    time: "1934, late Halloween night, after crisis"
+    location: "Small white wooden frame house on main street Maycomb Alabama, typical Southern cottage with deep front porch"
+    weather: "Cool night air, peaceful after storm of violence"
+  characters:
+    - appearance: "Girl, 6-9 years old, small and slender build, short straight brown hair with bangs, expressive face with tomboyish features"
+      clothing: "Blue denim overalls, white cotton shirt, bare feet or simple brown shoes"
+      position: "Standing beside mysterious man, no longer afraid"
+      action: "Looking up with new understanding and gratitude"
+    - appearance: "Man, mid-30s, very pale skin, extremely thin and gaunt, hollow cheeks, gray lifeless eyes, thinning colorless hair"
+      clothing: "Simple worn gray shirt, dark trousers, pale from years indoors"
+      position: "Standing awkwardly on porch, ready to return to isolation"
+      action: "Hunched shoulders, hesitant movements, stays in shadows"
+    - appearance: "Man, late 40s, tall and thin build, graying brown hair, wire-rimmed glasses, dignified weathered face"
+      clothing: "Dark three-piece suit, white dress shirt, dark tie, black leather shoes"
+      position: "Watching from doorway as Scout meets her rescuer"
+      action: "Calm, measured movements, removes glasses when concentrating"
+  scene:
+    mainElements: "Clean well-maintained family home, refuge of stability and moral guidance"
+    details: "Quiet conversation between child and reclusive hero, Scout finally seeing Boo as human being rather than monster, gentle moment of connection and understanding"
+    background: "White painted wood siding, green shutters, wide porch with swing and rocking chairs, central hallway layout"
+    atmosphere: "Peaceful resolution of childhood fears, mystery solved with compassion, healing after violence"
+  composition:
+    cameraAngle: "Intimate close shot of Scout and Boo on porch"
+    focus: "Child and reclusive man finally meeting as real people"
+    depth: "Foreground: Scout and Boo in quiet conversation, middle ground: porch setting, background: Atticus observing moment, no text or letters visible"

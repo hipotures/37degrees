@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: 1687, dawn again but changed, familiar location in different season, cyclical but transformed
+    location: Historyczne miasto York w północnej Anglii, medieval cobblestone streets near city walls in 1687
+    weather: Clear autumn morning similar to departure, but character now transformed by experience
+  characters:
+  - appearance: Starszy mężczyzna, wiek 55+ lat, postawny i godny, twarz ogolona, nosi długą lokowaną perukę w kolorze brązowym,
+      twarz statecznego zamożnego dżentelmena z subtelnymi śladami przeżytych lat
+    clothing: 'Elegancki strój dżentelmena z końca XVII wieku: długi płaszcz z ciemnej wełny lub brokatu, dopasowana kamizelka,
+      bryczesy do kolan, biała lniana koszula z koronkowym żabotem, jedwabne pończochy, skórzane buty z ozdobnymi srebrnymi
+      klamrami'
+    position: Walking slowly through narrow cobblestone streets, now as wealthy returning gentleman
+    action: Returning to childhood home as successful man, carrying exotic mementos including goatskin cap and umbrella, reflecting
+      on complete transformation of his life
+  scene:
+    mainElements: Średniowieczne domy o konstrukcji szachulcowej z ciemnymi dębowymi belkami na tle białego tynku, wąskie
+      brukowane uliczki z nadzwieszonymi piętrami, potężna kamienna bryła gotyckiej katedry York Minster dominująca nad miastem,
+      pierścień kamiennych murów obronnych otaczających historyczne centrum
+    details: Medieval timber-framed houses with dark oak beams against white plaster creating familiar Yorkshire architecture,
+      morning mist rising from River Ouse creating atmospheric conditions, Wysoka stożkowata bezkształtna czapka z koziej
+      skóry z charakterystyczną klapą visible in his hand as exotic trophy, Duży ciężki niezgrabny parasol z koziej skóry
+      carried as walking stick, fine carriage waiting nearby showing his prosperity, curious townspeople noting exotic items
+      from distant lands
+    background: Massive stone York Minster cathedral dominating city skyline, ancient stone city walls forming protective
+      ring around medieval core, familiar architecture of northern English market town
+    atmosphere: Time passage made visible through contrast, successful completion of life journey, mixture of triumph and
+      melancholy, wisdom gained through suffering, full circle return but fundamentally changed person, dawn representing
+      new beginning built on past experience
+  composition:
+    cameraAngle: Low angle following behind dignified gentleman, cathedral towering in background
+    focus: Transformed figure carrying exotic mementos in familiar setting, contrast between past and present self
+    depth: 'Foreground: wet cobblestones and morning mist, Middle: well-dressed figure with island artifacts, Background:
+      massive cathedral and ancient city walls of historic York, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia ink
+    - brown ink
+    background: white or aged paper
+    usageNotes: Monochromatic, tone through line density
+    saturation: none
+    contrast: created through line spacing
+  lineArt:
+    style: systematic parallel lines
+    weight: consistent, fine
+    color: black or brown ink
+    texture: created entirely through lines
+    edgeTreatment: defined by line direction changes
+  lighting:
+    type: implied through line density
+    direction: shown through hatching direction
+    intensity: varies with line spacing
+    shadows:
+      style: dense crosshatching
+      color: black ink
+      opacity: line density
+    highlights: sparse or no lines
+  rendering:
+    technique: traditional pen technique
+    texture: entirely line-based
+    detailLevel: high through careful line work
+    finish: hand-drawn quality
+  perspective: traditional, often architectural
+  mood:
+    overall: classic, scholarly, detailed
+    emotion: contemplative, serious, refined
+    tempo: measured, careful
+    keywords:
+    - classic
+    - scholarly
+    - refined
+    - traditional
+    - meticulous
+  stylePrecedents:
+  - Albrecht Dürer
+  - Rembrandt etchings
+  - Scientific illustration
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

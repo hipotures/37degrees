@@ -1,0 +1,104 @@
+sceneDescription:
+  setting:
+    time: 1934, winter morning, February cold snap
+    location: Main residential street in Maycomb, Alabama during Great Depression, dusty dirt road with sidewalks, lined with
+      Southern cottage-style homes
+    weather: Cold winter morning, strange stillness in air, no wind
+  characters:
+  - appearance: Man, late 40s, tall and thin build, graying brown hair, wire-rimmed glasses, dignified weathered face
+    clothing: Dark three-piece suit, white dress shirt, dark tie, black leather shoes
+    position: Standing in middle of empty street, holding rifle
+    action: Calm, measured movements, removes glasses when concentrating
+  - appearance: Girl, 6-9 years old, small and slender build, short straight brown hair with bangs, expressive face with tomboyish
+      features
+    clothing: Blue denim overalls, white cotton shirt, bare feet or simple brown shoes
+    position: Watching from behind porch railing with Jem
+    action: Wide-eyed fascination and fear, gripping porch railing
+  - appearance: Boy, 10-13 years old, tall and lean athletic build, short brown hair, serious expression, left arm shorter
+      than right after injury
+    clothing: White cotton shirt, brown knee-length shorts, brown leather shoes
+    position: Beside sister at porch railing, holding father's glasses
+    action: Tense anticipation, protective stance near sister
+  - appearance: African-American woman, 50s, very thin angular build, sharp features, often squints due to nearsightedness
+    clothing: Simple brown dress with white apron when working, clean Sunday dress for church
+    position: Standing on porch behind children
+    action: Fearful but protective, ready to pull children to safety
+  scene:
+    mainElements: Hunting rifle carried by Sheriff Heck Tate, passed to Atticus for shooting rabid dog, represents sudden
+      revelation of hidden skills
+    details: Rabid dog staggering down empty street, foam dripping from mouth, erratic movements showing sickness, every door
+      and window on street tightly closed, eerie silence broken only by dog's labored breathing
+    background: Single-story wooden frame houses with deep front porches, old oak trees providing shade, uneven cracked sidewalks
+    atmosphere: Deadly tension and danger, community threat requiring immediate action, revelation of Atticus's hidden past
+      and skills
+  composition:
+    cameraAngle: Wide shot showing entire street scene with all participants
+    focus: Atticus in street with rifle aimed at approaching mad dog
+    depth: 'Foreground: children and Calpurnia on porch, middle ground: Atticus with rifle, background: mad dog approaching
+      down empty street, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - '#2B2B2B'
+    - '#4A4A4A'
+    - '#6B6B6B'
+    - '#8C8C8C'
+    - '#ADADAD'
+    - '#CECECE'
+    - '#F0F0F0'
+    secondary:
+    - '#FFFFFF'
+    - '#1A1A1A'
+    background: white or off-white paper
+    usageNotes: Monochromatic grayscale only. Use varying shades for depth
+    saturation: none
+    contrast: medium to high
+  lineArt:
+    style: organic, hand-drawn
+    weight: variable (0.5-3px)
+    color: grayscale
+    texture: rough, sketchy with visible breaks
+    edgeTreatment: natural variations, multiple overlapping strokes
+  lighting:
+    type: traditional shading
+    direction: typically top-left
+    intensity: varies with pressure
+    shadows:
+      style: crosshatching and scribbling
+      color: darker graphite tones
+      opacity: built up through layering
+    highlights: paper showing through or eraser marks
+  rendering:
+    technique: traditional pencil on paper
+    texture: visible paper grain and tooth
+    detailLevel: varies from loose to highly detailed
+    finish: intentionally incomplete with visible process
+  perspective: traditional drawing perspectives
+  mood:
+    overall: artistic, unfinished, spontaneous
+    emotion: raw, authentic, contemplative
+    tempo: calm, thoughtful
+    keywords:
+    - artistic
+    - raw
+    - authentic
+    - traditional
+    - sketchy
+  postProcessing:
+    effects:
+    - paper texture
+    - graphite smudging
+    filters: none
+    adjustments:
+      saturation: '0'
+      contrast: natural pencil contrast
+  stylePrecedents:
+  - Leonardo da Vinci sketches
+  - Academic drawing studies
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: Early 1910s, night walk through Central European city streets
+    location: Central European city streets leading from residential areas toward city outskirts, familiar urban landscape
+      seen for last time
+    weather: Clear night with moonlight illuminating cobblestone streets
+  characters:
+  - appearance: Man, 30 years old, average height with lean build, dark brown hair neatly combed, intelligent face with regular
+      features, clean-shaven with pale complexion, becoming increasingly gaunt and tired-looking as stress mounts, dark circles
+      under eyes, nervous ticks developing
+    clothing: Well-tailored dark charcoal suit, crisp white shirt with high starched collar, conservative dark tie, polished
+      leather shoes, black formal overcoat when outdoors, always impeccably dressed despite growing internal turmoil
+    position: Walking between two companions, central figure in procession of three
+    action: Moving with steady pace through familiar streets, observing city for final time, walking voluntarily rather than
+      being dragged or forced
+  - appearance: Two middle-aged men, 40-50 years old, stocky build with pale flabby faces, expressionless features, physically
+      similar to each other like bureaucratic twins, cold emotionless eyes
+    clothing: Formal black frock coats and top hats, white shirts with high collars, dark trousers, polished black shoes,
+      dressed like 19th century undertakers or business executives
+    position: Flanking protagonist on either side, maintaining formal procession
+    action: Synchronized mechanical movements, walk in perfect unison, no facial expressions or gestures, silent and emotionless
+      throughout their task, move with practiced efficiency
+  scene:
+    mainElements: Cobblestone streets of Central European city, gas street lamps, shuttered buildings, empty night streets
+    details: Moonlight illuminating familiar urban landscape for final time, empty streets suggesting formal procession through
+      sleeping city, architectural details taking on farewell significance, no text or letters visible
+    background: Urban environment that has been protagonist's world now serving as backdrop for final journey
+    atmosphere: Solemn processional quality, sense of formal conclusion rather than violent kidnapping, moonlight lending
+      dignity to final journey
+  composition:
+    cameraAngle: Wide shots following three-figure procession through moonlit streets
+    focus: Formal and dignified conclusion to urban existence, farewell to familiar world
+    depth: 'Foreground: three figures walking in formation, middle ground: familiar city streets, background: urban landscape
+      being left behind forever'
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

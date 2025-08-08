@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Fatal Gesture - Death's Playful Rehearsal"
+  setting:
+    time: "1771 August, late evening, lamplight and shadows"
+    location: "Warm domestic environment filled with sounds of children laughing, pianoforte music, domestic activities, scent of cooking and beeswax candles, orderly comfortable middle-class home"
+    weather: "Calm summer evening, windows open to night air"
+  characters:
+    - appearance: "Young man, 24 years old, slender athletic build, average height, expressive dark eyes, dark brown hair gathered simply at the nape with a black ribbon, clean-shaven with sharp jawline, intensely emotional facial expressions capable of extreme joy and deep melancholy"
+      clothing: "Iconic blue woolen frock coat with brass buttons, bright yellow silk waistcoat, cream-colored knee-length breeches, white linen shirt with ruffled jabots, white silk stockings, brown leather riding boots with small heel and brass buckle"
+      position: "Standing beside table, holding pistol with theatrical casualness"
+      action: "Raising pistol to right temple with mock-playful gesture while arguing passionately about right to choose death, eyes blazing with conviction, completely absorbed in philosophical debate"
+    - appearance: "Mature man, 31 years old, solid stocky build, tall stature, composed intelligent face, light brown hair in powdered formal wig, clean-shaven, steady gray eyes, dignified bearing"
+      clothing: "Dark brown woolen frock coat with silver buttons, beige silk waistcoat, dark brown knee-length breeches, white linen shirt with simple white cravat, white stockings, polished black leather shoes with silver buckles"
+      position: "Seated at table, leaning back in alarm"
+      action: "Recoiling in horror at the gesture, reaching forward to stop him, face expressing shock and disapproval, arguing for rational approach to life's problems"
+    - appearance: "Young woman, 20 years old, medium height, graceful slender figure, striking black eyes, lively red lips, fresh rosy cheeks, chestnut brown hair styled in simple elegant updo with loose curls framing her face, natural healthy complexion"
+      clothing: "Simple white cotton dress with fitted bodice and full skirt, bright pink silk ribbons at shoulders and across the chest, white cotton cap with lace trim, simple brown leather shoes with small heel"
+      position: "Entering room just as gesture occurs"
+      action: "Frozen in doorway with tray in hands, face expressing fear and incomprehension at scene before her"
+  scene:
+    mainElements: "Two-story house with white plastered walls and dark timber framing, red tile roof, heavy wooden front door with brass knocker, diamond-paned windows with wooden shutters, kitchen garden and fruit trees behind house"
+    details: "Matched pair of flintlock pistols with walnut stocks, brass fittings, steel barrels eight inches long, stored in fitted wooden case lined with green baize, well-maintained functional firearms belonging to respectable gentleman. Single oil lamp casts flickering shadows across room, creating dramatic chiaroscuro effects, open pistol case on table reveals green baize lining and careful arrangement of weapons and accessories, polished walnut and brass gleam in lamplight, philosophical discussion becomes physical demonstration with deadly prop, Albert's comfortable domestic world suddenly invaded by talk of death, Lotta's innocent presence makes the scene more disturbing, no text or letters visible"
+    background: "Through open windows, peaceful night sounds of village, distant church bell marking hour, domestic tranquility contrasting sharply with morbid conversation and gesture"
+    atmosphere: "Philosophical discussion turning dangerous, death entering safe domestic space, theatrical gesture containing real prophetic power, civilized evening suddenly charged with mortality, innocent woman witnessing darkness she cannot understand, foreshadowing of tragedy disguised as intellectual debate"
+  composition:
+    cameraAngle: "Medium shot capturing all three figures in triangular composition with pistol as focal point"
+    focus: "Pistol at temple as center of dramatic tension with three different reactions"
+    depth: "Foreground: the fatal gesture and immediate reactions, middle ground: domestic interior now charged with menace, background: peaceful night world beyond windows"

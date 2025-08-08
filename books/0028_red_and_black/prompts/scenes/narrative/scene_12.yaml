@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "First glimpse of aristocratic Paris"
+  setting:
+    time: "1820s France during Bourbon Restoration, bright spring morning"
+    location: "Prestigious Faubourg Saint-Germain district of Paris, external approach to aristocratic mansion (hôtel particulier), summit of French society"
+    weather: "Clear bright morning with crisp air"
+  characters:
+    - appearance: "Young man, age 19-23, short stature with small, slender build almost feminine in delicacy, dark chestnut hair worn slightly longer in 1820s style, large expressive black eyes, regular delicate facial features with aquiline nose, extremely pale complexion that turns bright red easily under emotional stress"
+      clothing: "Black clerical/secretary attire - simple black frock coat, white linen shirt with high stiff collar, dark trousers, plain black shoes"
+      position: "Standing before imposing entrance gates with traveling bag"
+      action: "Staring in amazement at aristocratic magnificence while trying to control his provincial awe"
+  scene:
+    mainElements: "Elegant classical architecture with large courtyard and rear garden, imposing entrance with wrought-iron gates, cream-colored stone facades with tall windows, manicured gardens visible through railings"
+    details: "Well-dressed servants in livery moving through courtyard, elegant carriages coming and going, sound of horses' hooves on cobblestones, morning sunlight highlighting architectural details, contrast between Julian's simple appearance and surrounding luxury"
+    background: "Tree-lined streets of aristocratic quarter, other grand mansions with similar architecture, distant spires of central Paris"
+    atmosphere: "Entry into world of ultimate social privilege and power, overwhelming contrast with Julian's humble origins, intimidating grandeur designed to impress and exclude, new opportunity for advancement through service"
+  composition:
+    cameraAngle: "Low angle emphasizing the imposing grandeur of aristocratic architecture"
+    focus: "Julian's sense of wonder and determination in face of supreme social elevation"
+    depth: "Julian with traveling bag in foreground, mansion gates and courtyard in middle ground, prestigious neighborhood in background, no text or letters visible"

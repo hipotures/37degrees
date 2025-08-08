@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "After Hurricane Clearing and Rainbow"  
+  setting:
+    time: "1682, afternoon after storm clearing with sun breaking through, fresh-washed world"
+    location: "Tropical island landscape after hurricane, showing both destruction and renewal"
+    weather: "Clear skies after hurricane passage, rainbow appearing, fresh clean air and bright sun"
+  characters:
+    - appearance: "Mężczyzna, wiek od 27 do 55 lat, postawny i muskularny, ogorzały od słońca, długie niestrzyżone włosy, długa gęsta broda przystrzyżona w tureckie wąsy mahometańskie, twarz poorana zmarszczkami od słońca, dziki barbarzyński wygląd"
+      clothing: "Kompletny strój z koziej skóry: wysoka stożkowata bezkształtna czapka z klapą chroniącą kark, krótka kurtka z koziej skóry z sierścią na zewnątrz sięgająca do połowy uda, spodnie z koziej skóry do kolan z długą sierścią zwisającą do połowy łydek, wysokie sznurowane buty z koziej skóry, szeroki pas z suszonej skóry"
+      position: "Standing among hurricane damage, looking up at rainbow in clearing sky"
+      action: "Assessing damage while marveling at natural beauty of rainbow, grateful for survival and beginning cleanup efforts"
+  scene:
+    mainElements: "Island landscape showing mix of hurricane destruction and natural beauty returning, fallen trees and damaged structures alongside brilliant rainbow arcing across clearing sky"
+    details: "Brilliant rainbow stretching across blue sky with last storm clouds dissipating, everything washed clean and gleaming with water droplets, puddles everywhere reflecting blue sky and rainbow colors, fallen trees and scattered debris from hurricane, damaged palisade and tent structures, but also sense of fresh beginning, sun breaking through in brilliant shafts, fresh clean air and absence of humidity, birds beginning to emerge and call"
+    background: "Clear blue sky with last gray storm clouds moving away, rainbow creating spectacular arc across sky, ocean calm and blue again"
+    atmosphere: "Relief and gratitude after surviving natural disaster, sense of fresh beginning and renewal, beauty emerging from destruction, hope symbolized by rainbow, appreciation for survival and life's resilience"
+  composition:
+    cameraAngle: "Wide shot showing both damage and rainbow, emphasizing contrasts"
+    focus: "Rainbow dominating sky over figure surveying damage, contrast between destruction and beauty"
+    depth: "Foreground: hurricane debris and standing water, Middle: figure looking up at sky, Background: brilliant rainbow against clearing blue sky, no text or letters visible"

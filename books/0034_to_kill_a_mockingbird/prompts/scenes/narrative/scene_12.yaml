@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Mrs. Dubose's Lessons"
+  setting:
+    time: "1934, spring afternoon, daily reading sessions"
+    location: "Main residential street in Maycomb Alabama, Mrs. Dubose's house porch"
+    weather: "Warm spring afternoon, flowers blooming in neighborhood"
+  characters:
+    - appearance: "Elderly white woman, very old and sick, pale wrinkled face like wet pillowcase, liver spots on cheeks, drool from mouth corners"
+      clothing: "Home clothes, dressing gowns, covered with blankets"
+      position: "Confined to wheelchair or bed, weak but fierce expressions"
+      action: "Confined to wheelchair or bed on porch, fighting addiction with clock timing"
+    - appearance: "Boy, 10-13 years old, tall and lean athletic build, short brown hair, serious expression, left arm shorter than right after injury"
+      clothing: "White cotton shirt, brown knee-length shorts, brown leather shoes"
+      position: "Sitting in chair beside Mrs. Dubose's bed, holding book"
+      action: "Reading aloud reluctantly, watching alarm clock with growing tension"
+    - appearance: "Girl, 6-9 years old, small and slender build, short straight brown hair with bangs, expressive face with tomboyish features"  
+      clothing: "Blue denim overalls, white cotton shirt, bare feet or simple brown shoes"
+      position: "Standing uncomfortably beside brother's chair"
+      action: "Fidgeting and uncomfortable, wanting to escape scene"
+  scene:
+    mainElements: "Small bedside alarm clock that marks intervals during Mrs. Dubose's struggle with morphine addiction, ticking measures her battle for freedom"
+    details: "Elderly woman's deteriorating condition, children's discomfort with her fits and verbal attacks, ominous ticking of alarm clock measuring her struggle, medicine bottles visible on bedside table, camellia flowers in yard outside"
+    background: "Simple porch of Southern house, medicine and sickness supplies, view to street where normal life continues"
+    atmosphere: "Uncomfortable tension, children witnessing adult struggle they don't understand, mystery of why Atticus insists on these visits"
+  composition:
+    cameraAngle: "Medium shot from foot of Mrs. Dubose's bed"
+    focus: "Sick elderly woman with children reluctantly attending her"
+    depth: "Foreground: alarm clock and medicine bottles, middle ground: Mrs. Dubose and reading children, background: porch railing and street beyond, no text or letters visible"

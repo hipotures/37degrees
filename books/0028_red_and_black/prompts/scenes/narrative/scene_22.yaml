@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Julian's defiant speech to bourgeois jury"
+  setting:
+    time: "1820s France during Bourbon Restoration, afternoon during trial proceedings"
+    location: "Large courthouse in Besançon with formal courtroom architecture of the period"
+    weather: "Overcast day"
+  characters:
+    - appearance: "Young man, age 19-23, short stature with small, slender build almost feminine in delicacy, dark chestnut hair worn slightly longer in 1820s style, large expressive black eyes, regular delicate facial features with aquiline nose, extremely pale complexion that turns bright red easily under emotional stress"
+      clothing: "Simple black frock coat, clean but showing signs of imprisonment"
+      position: "Standing proudly in defendant's dock, facing jury"
+      action: "Speaking with passionate defiance and aristocratic dignity, condemning class prejudice instead of asking for mercy"
+    - appearance: "Multiple middle-aged bourgeois men in formal court attire"
+      clothing: "Black judicial robes and characteristic caps of French magistrates"
+      position: "Seated on raised platform behind judges' bench"
+      action: "Listening with growing displeasure to Julian's accusations and social criticism"
+    - appearance: "Twelve bourgeois jurors and courtroom audience including society ladies"
+      clothing: "Formal attire appropriate to legal proceedings, well-dressed spectators treating trial as entertainment"
+      position: "Jurors in jury box, spectators filling courtroom galleries"
+      action: "Reacting with shock and hostility to Julian's proud refusal to beg for his life"
+  scene:
+    mainElements: "Large courtroom with wood-paneled walls, raised platform for judges with formal bench, jury box for twelve bourgeois jurors, defendant's dock, gallery seating filled with curious spectators"
+    details: "Formal legal atmosphere with court clerk taking notes, legal documents scattered on tables, afternoon light filtering through high windows, sound of shifting bodies and whispered conversations, tension building as Julian refuses conventional defense"
+    background: "French legal symbols and coat of arms, high ceilings of official government building, guards stationed at doors"
+    atmosphere: "Julian's final act of rebellion against society that condemned him, transformation from defendant to prosecutor of social system, bourgeois jury's horror at being criticized by their social inferior, Julian's nobility revealed through his refusal to grovel"
+  composition:
+    cameraAngle: "Medium shot emphasizing Julian's isolation and defiant dignity"
+    focus: "Julian's proud bearing contrasted with hostile jury and spectators"
+    depth: "Julian in defendant's dock in foreground, disapproving judges in middle ground, packed courtroom galleries in background, no text or letters visible"

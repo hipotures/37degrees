@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Candlelit Evening Dining at Thrushcross Grange"
+  setting:
+    time: "Late Georgian period Yorkshire, early evening dinner hour, artificial lights beginning to dominate"
+    location: "Elegant Georgian mansion in sheltered valley, symmetrical harmonious architecture from 18th century, built of warm honey-colored Bath stone, surrounded by extensive formal parks and gardens with maintained paths"
+    weather: "Calm clear evening, darkness gathering outside while interior blazes with light"
+  characters:
+    - appearance: "Young woman 11-31 years, very fair pale skin, blonde yellow hair, blue eyes, delicate dainty features. Later becomes worn and bitter from suffering"
+      clothing: "Fashionable elegant gowns in light pastel colors, fine materials with feminine details like ribbons and lace. After marriage and escape, more modest dark clothing"
+      position: "Seated at polished dining table, face illuminated by candlelight"
+      action: "Participating in refined evening meal, but expression showing underlying tension and distraction"
+    - appearance: "Gentleman in his teens to late 30s, pale fair complexion, long light hair slightly curling at temples, large serious blue eyes, slender graceful build, delicate aristocratic features"
+      clothing: "Impeccable gentleman's attire, well-fitted frock coat, silk waistcoat, breeches with silk stockings, leather shoes with buckles, linen shirt with lace frills, everything perfectly maintained and fashionable"
+      position: "At head of dining table, evening dress formal and perfect"
+      action: "Presiding over civilized dinner, embodying refined domestic order and social convention"
+  scene:
+    mainElements: "Spacious dining room filled with warm golden candlelight from crystal chandelier and candelabra, polished mahogany table reflecting dancing flame light, refined Georgian furniture creating intimate civilized atmosphere, dark windows showing night outside"
+    details: "Crystal chandelier with numerous candles creates warm golden light throughout elegant dining room, dancing flames reflect in polished mahogany surfaces and fine crystal, shadows move gently on walls as candles flicker, dark windows contrast interior warmth with night outside, fine porcelain and silver catch candlelight creating intimate luxury, no text or letters visible"
+    background: "Dark formal gardens visible through windows as black shapes, interior light creating warm refuge from night"
+    atmosphere: "Refined intimate luxury and civilized domestic ritual, sense of protected order against darkness outside, air carries scents of fine food and beeswax candles, atmosphere of cultivation and social convention"
+  composition:
+    cameraAngle: "Interior shot across candlelit table showing both figures in warm light"
+    focus: "Dining scene with faces illuminated by candlelight, crystal and silver reflecting flames"
+    depth: "Foreground candlelit table setting, middle ground figures in golden light, background dark windows showing night"

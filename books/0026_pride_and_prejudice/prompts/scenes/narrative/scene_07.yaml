@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Handsome Officer Arrives with the Militia"
+  setting:
+    time: "Early 19th century England, afternoon, late autumn"
+    location: "Small market town in Hertfordshire, walking distance from Longbourn"
+    weather: "Crisp autumn day with pale sunlight"
+  characters:
+    - appearance: "Man, 26-27 years old, extremely handsome with fine countenance, good figure, pleasant address, charming smile that doesn't reach his calculating eyes, dark hair, superficial attractiveness"
+      clothing: "Scarlet military uniform with gold epaulets and brass buttons, white tight-fitting breeches, tall polished black boots, uniform tailored to show off his figure, sword at side"
+      position: "Mounted on horseback at head of militia column entering town"
+      action: "Sitting straight in saddle with practiced charming smile, acknowledging townspeople with calculated grace"
+    - appearance: "Woman, 20 years old, beautiful dark intelligent eyes with expressive gaze, light and pleasing figure, average height, not classically beautiful like her sister Jane but possessing striking charm, dark hair arranged in period-appropriate style with loose curls framing her face, healthy complexion that gains attractive rosy color after physical exertion"
+      clothing: "Warm autumn walking dress in deep blue wool, matching pelisse, brown leather gloves, bonnet with ribbon ties, practical walking boots"
+      position: "Standing with other townspeople along main street"
+      action: "Looking at the handsome officer with obvious admiration and interest"
+    - appearance: "Girl, 15 years old, tall for her age with full developing figure, dark hair like Elizabeth but worn in looser style, bright mischievous eyes, confident flirtatious expression, rosy complexion"
+      clothing: "Bright yellow muslin dress with lower neckline than appropriate for her age, colorful ribbons in hair, dancing slippers, shawl worn carelessly draped"
+      position: "Beside Elizabeth, bouncing with excitement"
+      action: "Giggling and pointing at the handsome officers, eyes bright with romantic interest"
+  scene:
+    mainElements: "Georgian town with main street lined with shops, coaching inn, assembly rooms for balls and social gatherings, modest houses for tradespeople and professional families, church with ancient graveyard, weekly market square"
+    details: "Red-coated militia officers on horseback riding in formation down cobblestone main street, townspeople gathered to watch the spectacle, shop owners standing in doorways, children running alongside the horses, regimental flags and equipment visible, horses' bridles jingling, dust rising from hoofbeats on cobblestones"
+    background: "Georgian townhouses with shop fronts, coaching inn with swinging sign, church spire in distance, other townspeople watching from windows and doorways"
+    atmosphere: "Busy provincial social life, gossip and news exchange, sounds of horses and carriages, mixture of commerce and genteel society"
+  composition:
+    cameraAngle: "Medium shot from townspeople's perspective watching parade"
+    focus: "Handsome officer on horseback with admiring townspeople in foreground"
+    depth: "Foreground: Elizabeth and Lydia watching; middle ground: mounted officers; background: town buildings and other spectators, no text or letters visible"

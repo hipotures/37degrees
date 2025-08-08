@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Empty Place - Paradise Abandoned"
+  setting:
+    time: "1771 September, early morning, pale autumn light"
+    location: "Warm domestic environment filled with sounds of children laughing, pianoforte music, domestic activities, scent of cooking and beeswax candles, orderly comfortable middle-class home"
+    weather: "Cool morning with first hint of autumn chill, overcast sky"
+  characters:
+    - appearance: "Young woman, 20 years old, medium height, graceful slender figure, striking black eyes, lively red lips, fresh rosy cheeks, chestnut brown hair styled in simple elegant updo with loose curls framing her face, natural healthy complexion"
+      clothing: "Simple white cotton dress with fitted bodice and full skirt, bright pink silk ribbons at shoulders and across the chest, white cotton cap with lace trim, simple brown leather shoes with small heel"
+      position: "Standing at breakfast table looking at empty chair"
+      action: "Staring at vacant seat where he always sat, hand unconsciously adjusting place setting that will not be used, face showing confusion and unexpected sadness"
+    - appearance: "Eight children ranging from 3 to 16 years old, mix of boys and girls, healthy country children with rosy cheeks and bright curious eyes, various shades of brown hair, simple clean faces"
+      clothing: "Simple homespun clothing: boys in linen shirts and woolen breeches, girls in cotton dresses with aprons, all in muted earth tones, bare feet or simple wooden clogs"
+      position: "Gathered around breakfast table in usual places"
+      action: "Looking toward empty chair with puzzled expressions, younger ones asking where their friend has gone, older ones understanding something important has changed"
+    - appearance: "Mature man, 31 years old, solid stocky build, tall stature, composed intelligent face, light brown hair in powdered formal wig, clean-shaven, steady gray eyes, dignified bearing"
+      clothing: "Dark brown woolen frock coat with silver buttons, beige silk waistcoat, dark brown knee-length breeches, white linen shirt with simple white cravat, white stockings, polished black leather shoes with silver buckles"
+      position: "Seated at head of table, reading morning correspondence"
+      action: "Glancing up from letters with satisfied expression, unaware of the depth of others' feelings about their departed friend"
+  scene:
+    mainElements: "Two-story house with white plastered walls and dark timber framing, red tile roof, heavy wooden front door with brass knocker, diamond-paned windows with wooden shutters, kitchen garden and fruit trees behind house"
+    details: "Morning light streams through diamond-paned windows with cooler quality than summer warmth, breakfast table set with usual care but one place conspicuously empty, empty chair pushed precisely against table as if waiting for occupant's return, familiar domestic sounds continue but with subtle hollowness, children's voices less animated without their favorite adult friend, smell of porridge and fresh bread fails to create usual contentment, letter on side table suggests departure was sudden and final, no text or letters visible except sealed correspondence"
+    background: "Through windows, village continues normal activities but something essential is missing from the domestic harmony, gardens show first signs of seasonal change, distant church bell marks time's passage"
+    atmosphere: "Disrupted routine revealing hidden emotional dependencies, absence felt more deeply than presence was appreciated, domestic paradise slightly tarnished by recognition of loss, children's innocence encountering first taste of adult sorrow, pattern of happiness broken by single missing element"
+  composition:
+    cameraAngle: "Medium wide shot of breakfast table with empty chair as focal point"
+    focus: "Empty chair representing absence and loss, with family members reacting to disrupted pattern"
+    depth: "Foreground: breakfast table with poignant empty place, middle ground: family members processing change, background: village life continuing beyond windows"

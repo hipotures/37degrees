@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Visible Tears"
+  setting:
+    time: "Early 1910s, evening following traumatic witness"
+    location: "Austrian middle-class boarding house, protagonist's private room, evening solitude"
+    weather: "Evening darkness with single lamp providing isolated pool of light"
+  characters:
+    - appearance: "Man, 30 years old, average height with lean build, dark brown hair neatly combed, intelligent face with regular features, clean-shaven with pale complexion, becoming increasingly gaunt and tired-looking as stress mounts, dark circles under eyes, nervous ticks developing"
+      clothing: "Well-tailored dark charcoal suit, crisp white shirt with high starched collar, conservative dark tie, polished leather shoes, black formal overcoat when outdoors, always impeccably dressed despite growing internal turmoil"
+      position: "Seated on edge of bed, head in hands, shoulders shaking with suppressed emotion"
+      action: "Allowing emotional breakdown in private, tears visible on face, body convulsed with grief and terror at recognition of his fate, allowing himself to feel full horror of situation"
+  scene:
+    mainElements: "Simple dark wooden bed with white linens, wooden wardrobe, small writing desk near window, washbasin with pitcher and mirror, single window overlooking narrow courtyard or opposite building"
+    details: "Single lamp creating circle of light in darkness, private space allowing emotional release, familiar objects offering no comfort, tears reflecting lamplight, visible evidence of internal collapse, no text or letters visible"
+    background: "Private domestic space providing temporary refuge for emotional breakdown"
+    atmosphere: "Complete emotional collapse in private, protagonist finally allowing himself to feel full horror of his situation, tears marking transition from denial to acceptance of doom"
+  composition:
+    cameraAngle: "Close-up on protagonist's face showing tears and emotional breakdown"
+    focus: "Peak moment of emotional vulnerability and recognition of hopeless situation"
+    depth: "Foreground: protagonist in complete emotional collapse, middle ground: private room offering temporary sanctuary, background: darkness suggesting vast impersonal forces beyond control"

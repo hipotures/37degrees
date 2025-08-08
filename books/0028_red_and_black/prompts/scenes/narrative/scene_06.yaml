@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Midnight entrance to forbidden chamber"
+  setting:
+    time: "1820s France during Bourbon Restoration, deep of night around midnight"
+    location: "Elegant feminine bedroom within de Rênal family's summer estate in countryside near Verrières, idyllic retreat away from town's prying eyes"
+    weather: "Still calm night"
+  characters:
+    - appearance: "Young man, age 19-23, short stature with small, slender build almost feminine in delicacy, dark chestnut hair worn slightly longer in 1820s style, large expressive black eyes, regular delicate facial features with aquiline nose, extremely pale complexion that turns bright red easily under emotional stress"
+      clothing: "White linen nightshirt and dark trousers, barefoot"
+      position: "Standing frozen in doorway, hand still on door handle"
+      action: "Having just opened door with terrible noise, now paralyzed between advance and retreat"
+    - appearance: "Woman around 30 years old, tall with graceful elegant figure, dazzling fresh complexion, natural beauty without artifice, moves with innate grace and charm when comfortable"
+      clothing: "White cotton nightgown, hair unbound and disheveled from sleep"
+      position: "Sitting up abruptly in bed, startled from sleep"
+      action: "Initially terrified, then showing compassion at his youthful helplessness and obvious distress"
+  scene:
+    mainElements: "Feminine bedroom with canopied bed draped in white linens, small bedside table with single oil lamp casting flickering shadows, wooden door standing open, simple furnishings appropriate to country estate"
+    details: "Small oil lamp flame creating dancing shadows on walls and ceiling, door handle still in Julian's grip, bedsheets tangled from sudden awakening, warm golden light contrasting with cool moonlight from window, thick silence filled with emotional tension"
+    background: "Window showing garden and moonlit landscape beyond, wooden floor boards, simple country furniture and washstand"
+    atmosphere: "Moment of supreme vulnerability and human connection, collapse of Julian's calculated seduction plan into authentic emotion, transformation of fear into tenderness, crossing of ultimate social boundary"
+  composition:
+    cameraAngle: "Medium shot capturing both figures in the intimate bedroom setting"
+    focus: "Emotional transformation visible in both their faces as fear gives way to understanding"
+    depth: "Julian silhouetted in doorway in foreground, Madame de Rênal in bed in middle ground, moonlit window in background, no text or letters visible"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "False Dawn of Control"
+  setting:
+    time: "Early 1910s, week following initial encounter"
+    location: "Prestigious commercial bank in Central European city center during normal business hours"
+    weather: "Clear morning light streaming through tall windows"
+  characters:
+    - appearance: "Man, 30 years old, average height with lean build, dark brown hair neatly combed, intelligent face with regular features, clean-shaven with pale complexion, becoming increasingly gaunt and tired-looking as stress mounts, dark circles under eyes, nervous ticks developing"
+      clothing: "Well-tailored dark charcoal suit, crisp white shirt with high starched collar, conservative dark tie, polished leather shoes, black formal overcoat when outdoors, always impeccably dressed despite growing internal turmoil"
+      position: "Moving confidently through bank corridors, seated authoritatively at desk during meetings"
+      action: "Conducting normal business with apparent efficiency, attempting to demonstrate to himself and others that he remains in control of his professional life"
+  scene:
+    mainElements: "Spacious main hall with high ceilings, marble floors, dark wood paneling, brass fixtures, K.'s private office with mahogany desk, green banker's lamp, telephone, filing cabinets"
+    details: "Important financial documents being processed, telephone calls being handled competently, meetings with subordinates proceeding smoothly, all outward signs of professional competence, no text or letters visible"
+    background: "Bustling bank environment with colleagues and clients conducting normal business, representing continuing world of rational commercial activity"
+    atmosphere: "Deceptive sense of restored normalcy and control, protagonist convincing himself that strange morning was aberration that can be overcome through professional focus"
+  composition:
+    cameraAngle: "Wide shots showing protagonist functioning normally in institutional setting"
+    focus: "Temporary restoration of confidence and illusion of control over circumstances"
+    depth: "Foreground: protagonist conducting business competently, middle ground: efficient bank operations, background: imposing architecture suggesting institutional stability that may be illusory"

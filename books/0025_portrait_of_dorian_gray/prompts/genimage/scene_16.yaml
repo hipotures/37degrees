@@ -1,0 +1,92 @@
+sceneDescription:
+  setting:
+    time: Late Victorian London, oppressive evening, 1880s
+    location: Ohydne nory and wstrętne miejsca in East End London docks area, underground or basement establishment
+    weather: Heavy, oppressive atmosphere with no relief
+  characters:
+  - appearance: Young man, 20 years old, smukły build, pełen wdzięku, kędzierzawe złote włosy now disheveled and damp with
+      perspiration, szczere niebieskie oczy now showing paranoia and stress, klasyczna owalna twarz z rysami made of kości
+      słoniowej i płatków róży now tense with fear, finely curved szkarłatne usta set in grim line, brak jakichkolwiek skaz,
+      absolutna doskonała uroda now serving as burden rather than blessing
+    clothing: Disguised in common working clothes to hide his identity, expensive garments covered by rough coat and common
+      hat, attempting to blend with criminal underworld
+    position: Huddled in corner with defensive posture, constantly looking over shoulder
+    action: Moving nervously through dangerous crowd, flinching at sudden sounds, showing signs of growing paranoia and fear
+      of discovery, seeking escape from mounting pressure of hidden crimes
+  scene:
+    mainElements: Ciemne ciasne i brudne wnętrza with crowds of dangerous people pressing closer, wzdłuż ścian ciągną się
+      prycze with various criminal types and desperate people creating threatening environment, walls seeming to press closer
+      with each moment
+    details: Powietrze gęste od słodkawego duszącego dymu making breathing difficult, małe lampki spirytusowe providing inadequate
+      light that creates menacing shadows, mieszanina ludzi różnych ras i klas including Malajscy marynarze, Chińczycy, upadli
+      Anglicy all watching with suspicious eyes, fajki do opium i brudne naczynia scattered about creating squalid environment,
+      no text or letters visible
+    background: Gęsty mrok with threatening figures partially visible in shadows, sense of being watched and hunted, multiple
+      eyes gleaming in darkness
+    atmosphere: Maximum pressure and mounting paranoia, groźna odrealniona atmosphere now focused specifically on hunting
+      one figure, duszące środowisko closing in like trap, sense of walls literally pressing closer, dangerous criminal underworld
+      now seeming like maze with no escape, growing certainty that someone is following and watching, pressure building toward
+      inevitable confrontation
+  composition:
+    cameraAngle: Claustrophobic close-up emphasizing trapped feeling and pressing crowds
+    focus: Figure surrounded by threatening presence, showing mounting psychological pressure
+    depth: 'Foreground: cornered figure, middle ground: pressing crowd of dangerous faces, background: darkness filled with
+      watching eyes'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues and violets
+    - gold and old gold
+    - dark greens
+    - blood red
+    secondary:
+    - pearl white
+    - ivory shades
+    - dark brown
+    background: dreamlike landscapes, dark interiors, undefined space
+    usageNotes: Colors build mood and have symbolic meaning, need not be realistic.
+    saturation: often muted, except for symbolic bright accents
+    contrast: medium to high, often with large dark areas
+  lineArt:
+    style: flowing, elegant contour, but often fading into darkness
+    weight: varied, from delicate to strong
+    color: integrated with color patches
+    texture: smooth, but rich in ornamental details
+    edgeTreatment: soft, often blurred edges
+  lighting:
+    type: mysterious, unnatural, often spotlights or inner glow
+    direction: undefined, building atmosphere of mystery
+    intensity: low, with dramatic bright points
+    shadows:
+      style: deep, soft, enveloping figures
+      color: dark browns, violets, blues
+      opacity: heavy, impenetrable
+    highlights: luminous halos, magical glow, golden details
+  rendering:
+    technique: oil painting with attention to detail but soft modeling
+    texture: rich textures of fabrics, jewelry, feathers
+    detailLevel: high in symbolic details, background often simplified
+    finish: matte or satin, with shimmering accents
+  perspective: often flattened, decorative, subordinated to symbolic composition
+  mood:
+    overall: mysterious, atmospheric, literary
+    emotion: melancholy, longing, spirituality, unease
+    tempo: slow, contemplative
+    keywords:
+    - atmospheric
+    - mystical
+    - dreamlike
+    - symbolic
+    - decadent
+  stylePrecedents:
+  - Gustave Moreau
+  - Odilon Redon
+  - Arnold Böcklin
+  - Jacek Malczewski
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

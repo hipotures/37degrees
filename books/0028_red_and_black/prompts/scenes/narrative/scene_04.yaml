@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Evening conversations under the linden tree"
+  setting:
+    time: "1820s France during Bourbon Restoration, warm summer evening at dusk"
+    location: "Country house surrounded by romantic garden with large linden tree, secluded paths, benches for evening conversations, peaceful rural setting with mountain views"
+    weather: "Calm warm evening with gentle breeze stirring leaves"
+  characters:
+    - appearance: "Young man, age 19-23, short stature with small, slender build almost feminine in delicacy, dark chestnut hair worn slightly longer in 1820s style, large expressive black eyes, regular delicate facial features with aquiline nose, extremely pale complexion that turns bright red easily under emotional stress"
+      clothing: "Black clerical/secretary attire - simple black frock coat, white linen shirt with high stiff collar, dark trousers, plain black shoes"
+      position: "Seated on wooden bench under large linden tree"
+      action: "Speaking earnestly while struggling to maintain composure, hands occasionally trembling with nervous energy"
+    - appearance: "Woman around 30 years old, tall with graceful elegant figure, dazzling fresh complexion, natural beauty without artifice, moves with innate grace and charm when comfortable"
+      clothing: "Elegant but restrained provincial fashion - silk or muslin summer dresses in muted pastel colors, well-made but not ostentatious, appropriate for wealthy provincial matron"
+      position: "Sitting at proper distance on same bench, gradually leaning closer"
+      action: "Listening with growing fascination and concern, occasionally touching her throat nervously"
+  scene:
+    mainElements: "Massive linden tree with spreading branches creating natural canopy, wooden bench positioned beneath, garden paths winding away into shadows, distant house windows glowing with candlelight"
+    details: "Fallen linden blossoms scattered on ground creating carpet of pale petals, evening shadows lengthening across garden, scent of linden flowers heavy in air, soft sound of leaves rustling overhead"
+    background: "Country house with warm light in windows, mountain silhouettes against darkening sky, stars beginning to appear"
+    atmosphere: "Intimate sanctuary away from social surveillance, romantic tension building through proximity and conversation, dangerous attraction developing under cover of darkness and natural beauty"
+  composition:
+    cameraAngle: "Medium shot capturing both characters in intimate conversation"
+    focus: "Growing emotional connection visible in their body language and expressions"
+    depth: "Bench and characters under tree in foreground, garden paths in middle ground, glowing house in background, no text or letters visible"

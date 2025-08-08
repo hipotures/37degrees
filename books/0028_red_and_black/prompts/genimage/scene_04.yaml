@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: 1820s France during Bourbon Restoration, warm summer evening at dusk
+    location: Country house surrounded by romantic garden with large linden tree, secluded paths, benches for evening conversations,
+      peaceful rural setting with mountain views
+    weather: Calm warm evening with gentle breeze stirring leaves
+  characters:
+  - appearance: Young man, age 19-23, short stature with small, slender build almost feminine in delicacy, dark chestnut hair
+      worn slightly longer in 1820s style, large expressive black eyes, regular delicate facial features with aquiline nose,
+      extremely pale complexion that turns bright red easily under emotional stress
+    clothing: Black clerical/secretary attire - simple black frock coat, white linen shirt with high stiff collar, dark trousers,
+      plain black shoes
+    position: Seated on wooden bench under large linden tree
+    action: Speaking earnestly while struggling to maintain composure, hands occasionally trembling with nervous energy
+  - appearance: Woman around 30 years old, tall with graceful elegant figure, dazzling fresh complexion, natural beauty without
+      artifice, moves with innate grace and charm when comfortable
+    clothing: Elegant but restrained provincial fashion - silk or muslin summer dresses in muted pastel colors, well-made
+      but not ostentatious, appropriate for wealthy provincial matron
+    position: Sitting at proper distance on same bench, gradually leaning closer
+    action: Listening with growing fascination and concern, occasionally touching her throat nervously
+  scene:
+    mainElements: Massive linden tree with spreading branches creating natural canopy, wooden bench positioned beneath, garden
+      paths winding away into shadows, distant house windows glowing with candlelight
+    details: Fallen linden blossoms scattered on ground creating carpet of pale petals, evening shadows lengthening across
+      garden, scent of linden flowers heavy in air, soft sound of leaves rustling overhead
+    background: Country house with warm light in windows, mountain silhouettes against darkening sky, stars beginning to appear
+    atmosphere: Intimate sanctuary away from social surveillance, romantic tension building through proximity and conversation,
+      dangerous attraction developing under cover of darkness and natural beauty
+  composition:
+    cameraAngle: Medium shot capturing both characters in intimate conversation
+    focus: Growing emotional connection visible in their body language and expressions
+    depth: Bench and characters under tree in foreground, garden paths in middle ground, glowing house in background, no text
+      or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

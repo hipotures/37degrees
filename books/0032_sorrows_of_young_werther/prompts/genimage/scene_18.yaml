@@ -1,0 +1,98 @@
+sceneDescription:
+  setting:
+    time: 1772 December 20, evening, single candle burning low
+    location: Warm domestic environment filled with sounds of children laughing, pianoforte music, domestic activities, scent
+      of cooking and beeswax candles, orderly comfortable middle-class home
+    weather: Cold winter night with wind howling outside, frost covering windows
+  characters:
+  - appearance: Young man, 24 years old, slender athletic build, average height, expressive dark eyes, dark brown hair gathered
+      simply at the nape with a black ribbon, clean-shaven with sharp jawline, intensely emotional facial expressions capable
+      of extreme joy and deep melancholy
+    clothing: Iconic blue woolen frock coat with brass buttons, bright yellow silk waistcoat, cream-colored knee-length breeches,
+      white linen shirt with ruffled jabots, white silk stockings, brown leather riding boots with small heel and brass buckle
+    position: Seated close beside her, holding open book with trembling hands
+    action: Reading Ossian's tragic poetry with voice breaking from emotion, tears streaming down his face, completely consumed
+      by the melancholy verses that mirror his own despair, leaning unconsciously closer to her
+  - appearance: Young woman, 20 years old, medium height, graceful slender figure, striking black eyes, lively red lips, fresh
+      rosy cheeks, chestnut brown hair styled in simple elegant updo with loose curls framing her face, natural healthy complexion
+    clothing: Simple white cotton dress with fitted bodice and full skirt, bright pink silk ribbons at shoulders and across
+      the chest, white cotton cap with lace trim, simple brown leather shoes with small heel
+    position: Seated on sofa beside him, drawn into emotional vortex of the reading
+    action: Listening with growing emotional distress, tears beginning to flow as dark poetry awakens her own suppressed feelings,
+      unconsciously moving closer to him in shared sorrow
+  scene:
+    mainElements: Two-story house with white plastered walls and dark timber framing, red tile roof, heavy wooden front door
+      with brass knocker, diamond-paned windows with wooden shutters, kitchen garden and fruit trees behind house
+    details: Dark blue cloth-bound book of Ossian's melancholic poems, ornate silver lettering on cover, tragic Nordic verses
+      about heroes and doomed love, represents romantic despair. Single candle burns low casting flickering shadows across
+      room, winter wind rattles shutters like approaching doom, room grows colder as fire dies in grate, sound of his passionate
+      voice reciting verses of tragic love and heroic death, her soft weeping joining his in harmony of sorrow, scent of melting
+      candle wax and dying embers, book pages flutter in drafts like wounded birds, no text or letters visible except in open
+      book
+    background: House creaks and settles in winter cold, distant village sounds muffled by snow and wind, husband absent on
+      business leaving them alone with dangerous emotions
+    atmosphere: Emotional dam bursting under pressure of shared sorrow, tragic poetry unlocking forbidden feelings, candle
+      burning down like their remaining time together, winter night closing in like fate, moment of perfect emotional union
+      before inevitable destruction
+  composition:
+    cameraAngle: Intimate close-up shot capturing both faces in candlelight
+    focus: Two figures united in tears over tragic poetry, barriers dissolving in shared emotion
+    depth: 'Foreground: intimate reading scene with emotional breakdown, middle ground: dying candle and book, background:
+      cold dark room extending into shadows'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

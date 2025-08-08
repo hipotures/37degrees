@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Great Fence Painting Deception"
+  setting:
+    time: "1840s Missouri, Saturday morning in summer"
+    location: "Front yard of Aunt Polly's house, long wooden fence facing main street of St. Petersburg"
+    weather: "Bright, warm summer morning with clear skies"
+  characters:
+    - appearance: "Boy, 12-13 years old, lean build with curly brown hair, initially dejected expression transforming to concentrated artistic focus"
+      clothing: "Work clothes - loose brown trousers, simple cotton shirt with rolled sleeves, barefoot"
+      position: "Standing before thirty-yard long wooden fence, holding long-handled whitewash brush"
+      action: "Deliberately painting fence with exaggerated artistic concentration and satisfaction, stepping back to admire work"
+    - appearance: "Several boys, 10-14 years old, curious and envious expressions, gathering to watch"
+      clothing: "Mix of everyday frontier boy clothing - patched trousers, cotton shirts, some barefoot, some in worn boots"
+      position: "Approaching along dusty street, then clustering nearby fence to observe"
+      action: "Walking by with intent to mock, then stopping to stare with growing fascination and envy at painting activity"
+  scene:
+    mainElements: "Long wooden fence requiring whitewash, bucket of white lime paint, scattered objects being traded - apple, dead rat on string, marbles, pieces of chalk, glass bottle stopper"
+    details: "Fence partially painted showing clear before-and-after sections, whitewash brush dripping with paint, boys' traded treasures accumulating on ground, dust kicked up by gathering crowd, no text or letters visible"
+    background: "Aunt Polly's neat white house with garden, main street of town visible beyond, other houses with similar fences, trees providing patches of shade"
+    atmosphere: "Boyish psychology in action, transformation from punishment to privilege through clever manipulation, summer leisure contrasting with assigned labor"
+  composition:
+    cameraAngle: "Medium wide shot showing full fence length and gathering boys"
+    focus: "Psychological transformation of work into desirable activity through clever performance"
+    depth: "Foreground: whitewash bucket and traded treasures, middle ground: boy painting and watching friends, background: town street and neighboring houses"

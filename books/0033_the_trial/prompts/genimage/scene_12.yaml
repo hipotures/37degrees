@@ -1,0 +1,94 @@
+sceneDescription:
+  setting:
+    time: Early 1910s, evening in domestic setting following day of stress
+    location: Dark cramped apartment in suburban district of Central European city, old building with heavy Victorian furnishings,
+      intimate private space
+    weather: Evening darkness with warm interior lighting
+  characters:
+  - appearance: Man, 30 years old, average height with lean build, dark brown hair neatly combed, intelligent face with regular
+      features, clean-shaven with pale complexion, becoming increasingly gaunt and tired-looking as stress mounts, dark circles
+      under eyes, nervous ticks developing
+    clothing: Well-tailored dark charcoal suit, crisp white shirt with high starched collar, conservative dark tie, polished
+      leather shoes, black formal overcoat when outdoors, always impeccably dressed despite growing internal turmoil
+    position: Leaning forward eagerly, hands reaching toward another person, face animated with hope
+    action: Engaging in intense conversation with possibility of genuine human connection, speaking rapidly with enthusiasm
+      about potential solutions, momentarily forgetting his fears
+  - appearance: Young woman, 20-22 years old, beautiful with dark hair and bright eyes, distinctive physical deformity of
+      webbed skin between middle and ring fingers of right hand, attractive face with mysterious smile
+    clothing: Simple white nurse's uniform with starched apron and cap when working, or plain dark wool dress for everyday
+      wear, practical dark stockings and shoes
+    position: Seated close to protagonist, leaning in with interest, hand extended showing unique physical characteristic
+    action: Quick and agile movements, seductive and flirtatious gestures, bold direct gaze, often touches people while speaking,
+      graceful despite unconventional appearance
+  scene:
+    mainElements: Main bedroom dominated by large bed where Huld lies ill, heavy curtains blocking most light, stacks of old
+      books and legal papers, medicine bottles, ornate but shabby furniture
+    details: Warm lamplight creating intimate atmosphere, medical supplies suggesting care and healing, comfortable domestic
+      setting offering respite from institutional coldness, personal objects suggesting individual humanity, no text or letters
+      visible
+    background: Private space temporarily free from bureaucratic intrusion, offering possibility of genuine human warmth and
+      connection
+    atmosphere: Intimacy and warmth contrasting sharply with institutional coldness, temporary refuge from incomprehensible
+      legal proceedings, moment of human contact offering emotional healing
+  composition:
+    cameraAngle: Close two-shot emphasizing intimacy and human connection
+    focus: Contrast between institutional coldness and human warmth, possibility of escape through personal relationships
+    depth: 'Foreground: two people in intimate conversation, middle ground: warm domestic interior, background: shadows suggesting
+      outside world temporarily excluded'
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

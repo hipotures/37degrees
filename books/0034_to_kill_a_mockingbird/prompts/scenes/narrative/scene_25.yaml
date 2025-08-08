@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Reading Together on the Porch"
+  setting:
+    time: "1935, autumn evening, after all storms have passed"
+    location: "Small white wooden frame house on main street Maycomb Alabama, typical Southern cottage with deep front porch"
+    weather: "Cool peaceful autumn evening, first hint of coming change of seasons"
+  characters:
+    - appearance: "Man, late 40s, tall and thin build, graying brown hair, wire-rimmed glasses, dignified weathered face"
+      clothing: "Dark three-piece suit, white dress shirt, dark tie, black leather shoes"
+      position: "Sitting in familiar rocking chair on porch, book in lap"
+      action: "Calm, measured movements, removes glasses when concentrating"
+    - appearance: "Girl, 6-9 years old, small and slender build, short straight brown hair with bangs, expressive face with tomboyish features"
+      clothing: "Blue denim overalls, white cotton shirt, bare feet or simple brown shoes"
+      position: "Curled up peacefully in father's lap, head against his chest"
+      action: "Sleepy but content, listening to father's voice reading story"
+    - appearance: "Boy, 10-13 years old, tall and lean athletic build, short brown hair, serious expression, left arm shorter than right after injury"
+      clothing: "White cotton shirt, brown knee-length shorts, brown leather shoes"
+      position: "Sitting quietly on porch steps, arm still healing but stronger"
+      action: "More mature after trials, protective of family peace"
+  scene:
+    mainElements: "Clean well-maintained family home, refuge of stability and moral guidance"
+    details: "Return to familiar evening ritual of reading together, family healed from trauma, wisdom earned through suffering, porch light creating circle of safety and love"
+    background: "White painted wood siding, green shutters, wide porch with swing and rocking chairs, central hallway layout"
+    atmosphere: "Hard-won peace after storm, family bonds strengthened by trials, hope for better future despite past sorrows"
+  composition:
+    cameraAngle: "Warm medium shot from front yard showing porch scene"
+    focus: "Father reading to children in golden circle of porch light"
+    depth: "Foreground: peaceful autumn evening settling over neighborhood, middle ground: family reading together in safety, background: house glowing with warmth and love, no text or letters visible"

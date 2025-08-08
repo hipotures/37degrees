@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Midnight Horror at the Graveyard"
+  setting:
+    time: "1840s Missouri, near midnight under full moon"
+    location: "St. Petersburg cemetery on hillside, among headstones and weeping willow trees"
+    weather: "Clear night with bright full moon casting stark shadows, light wind rustling leaves"
+  characters:
+    - appearance: "Boy, 12-13 years old, lean build, eyes wide with terror, face pale in moonlight"
+      clothing: "Dark clothes for night concealment - brown trousers, dark shirt, barefoot"
+      position: "Crouched behind large headstone with companion, barely breathing"
+      action: "Watching in frozen horror, one hand gripping dead cat, other pressed to mouth to prevent crying out"
+    - appearance: "Boy, 13-14 years old, weather-beaten face showing equal terror, long hair wild"
+      clothing: "Tattered oversized clothing, ragged hat pulled low"
+      position: "Hidden behind same headstone, trembling"
+      action: "Staring at unfolding violence, paralyzed with fear and shock"
+    - appearance: "Three men in heated argument - one well-dressed doctor, one rough half-breed, one disheveled drunk"
+      clothing: "Doctor in good coat, half-breed in frontier clothing, drunk in ragged garments"
+      position: "Standing beside freshly dug grave with wheelbarrow and tools"
+      action: "Fighting violently, doctor falling wounded, drunk being framed for murder"
+  scene:
+    mainElements: "Moonlit cemetery with varied headstones from simple wooden markers to elaborate marble monuments, freshly dug grave with pile of earth, wheelbarrow with shovels and rope"
+    details: "Dead cat carried for superstitious ritual, lantern casting flickering light on scene, shadows of willow branches moving across ground, disturbed earth and scattered tools, no text or letters visible"
+    background: "Rolling hills with town lights visible in distance, tall weeping willows casting dramatic shadows, older section of cemetery with weathered stones"
+    atmosphere: "Gothic horror, childhood innocence confronting adult evil, moonlit Gothic imagery, primal fear and shock"
+  composition:
+    cameraAngle: "Wide shot capturing entire murder scene with hidden witnesses"
+    focus: "Moment when childhood encounters shocking adult violence, loss of innocence"
+    depth: "Foreground: two boys hidden behind gravestone in terror, middle ground: violent struggle at gravesite, background: moonlit cemetery landscape with town in distance"

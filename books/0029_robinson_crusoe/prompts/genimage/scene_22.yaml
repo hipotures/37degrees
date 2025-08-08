@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1682, extreme weather conditions during major tropical hurricane
+    location: Tropical island during height of devastating storm, multiple locations showing destruction
+    weather: Torrential hurricane with extreme winds, flooding, nature at its most dramatic and destructive
+  characters:
+  - appearance: Mężczyzna, wiek od 27 do 55 lat, postawny i muskularny, ogorzały od słońca, długie niestrzyżone włosy, długa
+      gęsta broda przystrzyżona w tureckie wąsy mahometańskie, twarz poorana zmarszczkami od słońca, dziki barbarzyński wygląd
+    clothing: 'Kompletny strój z koziej skóry: wysoka stożkowata bezkształtna czapka z klapą chroniącą kark, krótka kurtka
+      z koziej skóry z sierścią na zewnątrz sięgająca do połowy uda, spodnie z koziej skóry do kolan z długą sierścią zwisającą
+      do połowy łydek, wysokie sznurowane buty z koziej skóry, szeroki pas z suszonej skóry'
+    position: Huddled deep in cave shelter, listening to storm's fury outside
+    action: Waiting out hurricane in deepest part of cave, praying for survival while storm rages with unprecedented violence
+  scene:
+    mainElements: Tropical landscape being torn apart by hurricane winds, trees bending impossibly and many snapping, torrential
+      rain creating instant rivers and flooding, wind-driven debris flying through air
+    details: Massive trees uprooted and hurled about like toys, rain falling horizontally due to extreme winds, ocean waves
+      enormous and crashing far inland, flying debris including branches and palm fronds creating dangerous projectiles, tent
+      and palisade structures being destroyed by wind, flooding water rushing through compound, lightning providing brief
+      illumination of destruction, continuous thunderous roar drowning out individual sounds
+    background: Sky completely obscured by storm clouds and driving rain, landscape being fundamentally altered by hurricane's
+      power, ocean and land boundaries blurred by storm surge
+    atmosphere: Awe-inspiring power of nature at its most destructive, human helplessness before natural forces, survival
+      depending entirely on adequate shelter preparation, beautiful but terrifying display of weather extremes
+  composition:
+    cameraAngle: Dynamic angles showing both destruction outside and shelter inside cave
+    focus: Hurricane destruction visible through cave entrance, figure sheltering in depths, contrast between human vulnerability
+      and natural power
+    depth: 'Foreground: safe cave interior with sheltering figure, Middle: cave entrance showing storm, Background: devastated
+      landscape in hurricane, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia ink
+    - brown ink
+    background: white or aged paper
+    usageNotes: Monochromatic, tone through line density
+    saturation: none
+    contrast: created through line spacing
+  lineArt:
+    style: systematic parallel lines
+    weight: consistent, fine
+    color: black or brown ink
+    texture: created entirely through lines
+    edgeTreatment: defined by line direction changes
+  lighting:
+    type: implied through line density
+    direction: shown through hatching direction
+    intensity: varies with line spacing
+    shadows:
+      style: dense crosshatching
+      color: black ink
+      opacity: line density
+    highlights: sparse or no lines
+  rendering:
+    technique: traditional pen technique
+    texture: entirely line-based
+    detailLevel: high through careful line work
+    finish: hand-drawn quality
+  perspective: traditional, often architectural
+  mood:
+    overall: classic, scholarly, detailed
+    emotion: contemplative, serious, refined
+    tempo: measured, careful
+    keywords:
+    - classic
+    - scholarly
+    - refined
+    - traditional
+    - meticulous
+  stylePrecedents:
+  - Albrecht Dürer
+  - Rembrandt etchings
+  - Scientific illustration
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

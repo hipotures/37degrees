@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Lightning Storm Illuminating Supernatural Encounter"
+  setting:
+    time: "Late Georgian period Yorkshire, midnight during violent thunderstorm, lightning creating dramatic illumination"
+    location: "Vast open rolling heathland between the two houses, wild untamed moorland stretching for miles, covered in heather that blooms purple-pink in late summer, scattered with moss-covered boulders and peat bogs, few gnarled trees shaped by wind"
+    weather: "Violent thunderstorm with frequent lightning, torrential rain, fierce winds"
+  characters:
+    - appearance: "Tall athletic man, late 20s to 30s, dark Gypsy-like complexion, thick black hair and black side-whiskers, deep-set black eyes described as fiery and wild, sharp angular features, face increasingly marked by suffering and hatred with age"
+      clothing: "Well-cut gentleman's frock coat in dark colors, fitted waistcoat, long pantalons, high riding boots, clothing somewhat carelessly worn suggesting indifference to fashion, cravat tied with studied negligence"
+      position: "Kneeling on rain-soaked moorland, arms raised toward stormy sky"
+      action: "Crying out to supernatural forces during lightning strikes, completely oblivious to physical discomfort, seeking communion with otherworld"
+  scene:
+    mainElements: "Purple blooming heather flattened by wind and rain, rocky outcrops providing no shelter from storm violence, few gnarled trees shaped by wind bending almost to breaking point, completely open landscape offering no protection from elemental fury"
+    details: "Brilliant lightning flashes illuminate entire moorland in stark black and white moments, thunder crashes immediately after each flash showing storm directly overhead, torrential rain soaks everything creating streams across heather slopes, wind bends vegetation flat against ground, rocky outcrops shine wet in lightning illumination, supernatural atmosphere during moments of blazing light, no text or letters visible"
+    background: "Rolling moorland extending infinitely, lit sporadically by lightning creating momentary landscape of stark drama"
+    atmosphere: "Supernatural drama and communication with otherworld, sense of human defiance meeting natural violence, air electric with storm energy and driving rain, atmosphere of transcendent madness and otherworldly contact"
+  composition:
+    cameraAngle: "Wide shot during lightning strike showing figure against dramatic stormy landscape"
+    focus: "Kneeling figure with raised arms silhouetted against lightning-lit sky and moorland"
+    depth: "Foreground rain-soaked heather, middle ground kneeling figure, background lightning-illuminated storm clouds"

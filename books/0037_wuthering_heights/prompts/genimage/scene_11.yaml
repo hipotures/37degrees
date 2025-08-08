@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: Late Georgian period Yorkshire, afternoon after thunderstorm, crystal clear air and bright sunshine
+    location: Elegant Georgian mansion in sheltered valley, symmetrical harmonious architecture from 18th century, built of
+      warm honey-colored Bath stone, surrounded by extensive formal parks and gardens with maintained paths
+    weather: Clear bright air after storm, everything washed clean and gleaming, crisp visibility
+  characters:
+  - appearance: Gentleman in his teens to late 30s, pale fair complexion, long light hair slightly curling at temples, large
+      serious blue eyes, slender graceful build, delicate aristocratic features
+    clothing: Impeccable gentleman's attire, well-fitted frock coat, silk waistcoat, breeches with silk stockings, leather
+      shoes with buckles, linen shirt with lace frills, everything perfectly maintained and fashionable
+    position: Walking in formal garden on wet paths, careful of puddles
+    action: Inspecting storm damage to formal plantings, movements precise and concerned about maintaining order after chaos
+  scene:
+    mainElements: Spacious well-lit rooms with large windows now brilliant with post-storm light, formal gardens with paths
+      gleaming wet from recent rain, Georgian architecture appearing fresh-washed and radiant, crystal chandelier catching
+      and refracting intense light
+    details: Every surface gleams with water from recent storm, formal garden paths reflect sky like mirrors, leaves and flowers
+      appear intensely green and colorful after washing, puddles in geometric garden beds reflect mansion's symmetrical architecture,
+      air crystal clear with enhanced visibility, water drips musically from trees and architectural details, no text or letters
+      visible
+    background: Extensive formal parks showing dramatic contrast after storm cleansing, distant hills visible with unusual
+      clarity in washed air
+    atmosphere: Renewal and fresh beginning after chaos, sense of order restored and enhanced by natural cleansing, air carries
+      scents of rain-washed earth and flowers, atmosphere of clarity and refined appreciation of beauty
+  composition:
+    cameraAngle: Wide shot showing mansion and gardens in post-storm brilliance
+    focus: Gentleman walking through gleaming wet gardens, everything reflecting intense light
+    depth: Foreground puddles reflecting sky, middle ground figure in formal garden, background mansion brilliant in clear
+      light
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

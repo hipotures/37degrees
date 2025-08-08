@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Final Shame and Transcendence"
+  setting:
+    time: "Early 1910s, final moments at abandoned quarry"
+    location: "Abandoned stone quarry on outskirts of Central European city, isolated rocky landscape under night sky, site of final ritual"
+    weather: "Moonlit night with clear cold air and sharp shadows"
+  characters:
+    - appearance: "Man, 30 years old, average height with lean build, dark brown hair neatly combed, intelligent face with regular features, clean-shaven with pale complexion, becoming increasingly gaunt and tired-looking as stress mounts, dark circles under eyes, nervous ticks developing"
+      clothing: "Partially undressed, formal garments removed to reveal white underclothing, maintaining human dignity even in final moments"
+      position: "Lying on flat stone surface, face turned toward distant lighted window"
+      action: "Experiencing final thoughts about human dignity and shame, recognizing both defeat and moral victory in maintaining individual conscience to the end"
+    - appearance: "Two middle-aged men, 40-50 years old, stocky build with pale flabby faces, expressionless features, physically similar to each other like bureaucratic twins, cold emotionless eyes"
+      clothing: "Formal black frock coats and top hats, white shirts with high collars, dark trousers, polished black shoes, dressed like 19th century undertakers or business executives"
+      position: "Positioned for final ritual act, maintaining bureaucratic formality even in execution"
+      action: "Synchronized mechanical movements, walk in perfect unison, no facial expressions or gestures, silent and emotionless throughout their task, move with practiced efficiency"
+  scene:
+    mainElements: "Rough hewn stone walls, scattered boulders and rock debris, flat stone slab serving as execution site, uneven ground with loose gravel, distant city lights visible"
+    details: "Cold moonlight creating sharp contrasts between light and shadow, natural stone providing altar for final ritual, distant window with human silhouette suggesting continuing life, large double-edged butcher's knife with heavy wooden handle, practical tool rather than ceremonial weapon, represents brutal efficiency and mundane horror of bureaucratic death sentence, no text or letters visible"
+    background: "Natural landscape witnessing final act of institutional machinery, eternal stone and sky providing context for human mortality"
+    atmosphere: "Ritualistic quality of final scene, paradoxical dignity in bureaucratic execution, sense of institutional process finally achieving its goal through individual destruction"
+  composition:
+    cameraAngle: "Final close-up on protagonist's face showing complex mixture of shame and transcendence"
+    focus: "Ultimate emotional note combining institutional defeat with preservation of individual moral consciousness"
+    depth: "Foreground: protagonist maintaining humanity in final moments, middle ground: institutional executioners completing their function, background: eternal natural setting and distant human connection suggesting life continuing beyond individual fate"

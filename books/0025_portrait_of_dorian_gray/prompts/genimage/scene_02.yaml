@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: Late Victorian London, warm afternoon, 1880s
+    location: Aristocratic Mayfair West End townhouse library, bardzo uroczy pokój in Victorian gentleman's residence
+    weather: Gentle afternoon warmth filtering through windows
+  characters:
+  - appearance: Man, 30-35 years old, wysoki and pełen gracji, ciemne włosy, spiczasta brązowa broda, ciemne ospałe marzycielskie
+      oczy, oliwkowa cera, zmęczony cyniczny wyraz twarzy
+    clothing: Elegancki arystokratyczny strój dandysa in ciemne kolory, perfectly tailored garments befitting his status
+    position: Reclining languidly on elegant furniture with studied nonchalance
+    action: Gesturing languidly while in contemplative mood, smoking papierosów in elegant papierośnicy, handling cygarniczka,
+      laska, or monokl with practiced ease, embodying aristocratic leisure
+  scene:
+    mainElements: Wysoka boazeria z dębu bejcowana na oliwkowy kolor covering walls, kremowy fryz above, wypukłe sztukaterie
+      decorating ceiling, dywan z filcu w kolorze ceglastoczerwonym with smaller jedwabne perskie dywaniki z długimi frędzlami
+      creating luxurious foundation
+    details: Mały stolik z drewna satynowego with statuetka Clodiona, cenna książka Les Cent Nouvelles oprawiony dla Małgorzaty
+      de Valois, kilka dużych niebieskich chińskich waz on mantelpiece, wazon z papuzimi tulipanami, wykwintne meble świadczące
+      o guście właściciela, each przedmiot carefully selected for beauty and history, no text or letters visible
+    background: Małe okna z ołowianymi szybkami allowing morelowe światło letniego dnia to filter through creating warm, intimate
+      atmosphere
+    atmosphere: Refined aristocratic comfort, stonowana i elegancja atmosphere with oliwkowa zieleń drewna, kremowy sufit,
+      ceglasta czerwień dywanu creating ciepła intymną atmosferę, quintessential aestheticism where beauty reigns supreme,
+      sense of cultured sophistication and leisure
+  composition:
+    cameraAngle: Medium shot emphasizing elegant interior and relaxed figure
+    focus: Aristocratic gentleman in his element of refined comfort and aesthetic pleasure
+    depth: 'Foreground: reclining figure with luxury accessories, middle ground: fine furniture and art objects, background:
+      ornate architectural details and window light'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues and violets
+    - gold and old gold
+    - dark greens
+    - blood red
+    secondary:
+    - pearl white
+    - ivory shades
+    - dark brown
+    background: dreamlike landscapes, dark interiors, undefined space
+    usageNotes: Colors build mood and have symbolic meaning, need not be realistic.
+    saturation: often muted, except for symbolic bright accents
+    contrast: medium to high, often with large dark areas
+  lineArt:
+    style: flowing, elegant contour, but often fading into darkness
+    weight: varied, from delicate to strong
+    color: integrated with color patches
+    texture: smooth, but rich in ornamental details
+    edgeTreatment: soft, often blurred edges
+  lighting:
+    type: mysterious, unnatural, often spotlights or inner glow
+    direction: undefined, building atmosphere of mystery
+    intensity: low, with dramatic bright points
+    shadows:
+      style: deep, soft, enveloping figures
+      color: dark browns, violets, blues
+      opacity: heavy, impenetrable
+    highlights: luminous halos, magical glow, golden details
+  rendering:
+    technique: oil painting with attention to detail but soft modeling
+    texture: rich textures of fabrics, jewelry, feathers
+    detailLevel: high in symbolic details, background often simplified
+    finish: matte or satin, with shimmering accents
+  perspective: often flattened, decorative, subordinated to symbolic composition
+  mood:
+    overall: mysterious, atmospheric, literary
+    emotion: melancholy, longing, spirituality, unease
+    tempo: slow, contemplative
+    keywords:
+    - atmospheric
+    - mystical
+    - dreamlike
+    - symbolic
+    - decadent
+  stylePrecedents:
+  - Gustave Moreau
+  - Odilon Redon
+  - Arnold Böcklin
+  - Jacek Malczewski
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

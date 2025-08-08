@@ -1,0 +1,32 @@
+sceneDescription:
+  title: "Triumphant Return from the Dead"
+  setting:
+    time: "1840s Missouri, Sunday morning during memorial service"
+    location: "Interior of St. Petersburg church packed with mourners in black"
+    weather: "Solemn morning with subdued light through church windows"
+  characters:
+    - appearance: "Three boys, 12-14 years old, deeply tanned and wild-looking from outdoor adventure, triumphant expressions"
+      clothing: "Tattered, mud-stained clothes from island living, barefoot, hair long and unkempt, appearing like young savages"
+      position: "Standing dramatically in church aisle after entering through main doors"
+      action: "Marching slowly down aisle toward altar, savoring moment of dramatic revelation"
+    - appearance: "Woman, 50-60 years old, face transforming from grief to joy to anger to overwhelming relief"
+      clothing: "Black mourning dress, tear-stained handkerchief in hand"
+      position: "Rising from front pew in shock and recognition"
+      action: "Rushing toward returning boy with arms outstretched, alternating between sobs and scolding"
+    - appearance: "Minister at pulpit, distinguished older man caught mid-eulogy"
+      clothing: "Black clerical robes, formal preaching attire"
+      position: "Standing at pulpit with sermon notes"
+      action: "Stopping sermon mid-sentence, mouth agape at resurrection of subjects of his praise"
+    - appearance: "Congregation of mourners filling every pew"
+      clothing: "Sunday best in black for mourning occasion"
+      position: "Seated in rigid church pews, now turning and rising in amazement"
+      action: "Transforming from solemn grief to explosive joy, reaching toward returned boys"
+  scene:
+    mainElements: "Church interior packed to capacity, altar decorated for memorial service, hymnbooks and funeral flowers, wooden pews filled with townspeople"
+    details: "Memorial wreaths and flowers suddenly inappropriate, sermon notes abandoned on pulpit, communion elements prepared for special service, church bell ready to ring, no text or letters visible"
+    background: "Traditional church interior with high windows, simple altar, gallery for choir, cross on wall"
+    atmosphere: "Solemn mourning transformed to explosive celebration, theatrical triumph of returning heroes, community joy at miracle resurrection"
+  composition:
+    cameraAngle: "Wide shot capturing entire church transformation from grief to joy"
+    focus: "Dramatic moment of revelation, community response to apparent resurrection"
+    depth: "Foreground: three wild boys making entrance, middle ground: congregation rising in amazement, background: church altar and religious symbols witnessing miracle"

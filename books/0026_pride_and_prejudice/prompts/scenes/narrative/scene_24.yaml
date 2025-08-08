@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Lady Catherine's Outrageous Demand"
+  setting:
+    time: "Early 19th century England, evening, late summer"
+    location: "English countryside manor house in Hertfordshire, 50 miles north of London"
+    weather: "Cool evening with dramatic shadows from lamplight"
+  characters:
+    - appearance: "Woman, over 60 years old, tall imposing figure, sharp severe facial features, cold calculating eyes, gray hair in elaborate formal arrangement, commanding presence, austere expression"
+      clothing: "Rich but outdated formal dress in dark colors, heavy brocade fabric, elaborate jewelry including family gems, lace cap with ribbons, expensive but old-fashioned style"
+      position: "Standing imperiously in center of Bennet drawing room"
+      action: "Speaking with outraged authority and condescending anger, clearly expecting immediate submission"
+    - appearance: "Woman, 20 years old, beautiful dark intelligent eyes with expressive gaze, light and pleasing figure, average height, not classically beautiful like her sister Jane but possessing striking charm, dark hair arranged in period-appropriate style with loose curls framing her face, healthy complexion that gains attractive rosy color after physical exertion"
+      clothing: "Simple evening dress in deep blue silk, modest jewelry, hair arranged neatly but not elaborately, appearance showing quiet dignity"
+      position: "Standing with perfect composure despite the attack"
+      action: "Facing Lady Catherine with calm dignity and quiet defiance, refusing to be intimidated despite social pressure"
+    - appearance: "Man, 50 years old, medium height, thin build, graying dark hair, intelligent eyes with ironic glint, lined face showing years of cynical amusement, pale complexion from indoor scholarly habits"
+      clothing: "Evening attire appropriate for receiving unexpected but distinguished visitor"
+      position: "Standing in doorway observing the confrontation"
+      action: "Watching with sardonic amusement and growing pride in his daughter's courage"
+  scene:
+    mainElements: "Red brick Georgian house built late 17th century, symmetrical facade with central entrance, white sash windows, steep slate roof, surrounded by well-maintained grounds with formal garden, shrubbery walks, small woods, comfortable but not grand estate showing minor wear from limited finances"
+    details: "Drawing room lit by oil lamps and candles, creating dramatic shadows, formal furniture arranged to receive important visitor, family portraits looking down from walls as witnesses to confrontation, evening atmosphere made tense by unexpected and hostile visit"
+    background: "Other family members visible in background, clearly intimidated by Lady Catherine's presence but supportive of Elizabeth"
+    atmosphere: "Warm family home with lived-in comfort, busy domestic activity, sounds of multiple young women, mixture of refinement and casual informality"
+  composition:
+    cameraAngle: "Medium wide shot capturing confrontation between two strong women"
+    focus: "Elizabeth's quiet dignity in face of Lady Catherine's arrogant demands"
+    depth: "Foreground: Elizabeth standing with calm courage; middle ground: Lady Catherine's imperious authority; background: family home supporting Elizabeth's defiance, no text or letters visible"

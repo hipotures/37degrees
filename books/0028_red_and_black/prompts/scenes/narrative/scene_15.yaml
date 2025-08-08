@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Intellectual duel in the library"
+  setting:
+    time: "1820s France during Bourbon Restoration, quiet afternoon"
+    location: "Magnificent library within aristocratic mansion (hôtel particulier) in prestigious Faubourg Saint-Germain district of Paris"
+    weather: "Overcast afternoon with soft diffused light"
+  characters:
+    - appearance: "Young woman age 19-20, described as beautiful with intelligent expressive face often showing disdain, boredom or ironic distance, slender proud bearing typical of aristocracy"
+      clothing: "Elegant daytime dress in rich fabric with characteristic puffy sleeves, fashionable but slightly dramatic styling showing her originality"
+      position: "Standing before bookshelf, holding leather-bound volume"
+      action: "Testing Julian's knowledge with pointed questions while displaying her own intellectual superiority"
+    - appearance: "Young man, age 19-23, short stature with small, slender build almost feminine in delicacy, dark chestnut hair worn slightly longer in 1820s style, large expressive black eyes, regular delicate facial features with aquiline nose, extremely pale complexion that turns bright red easily under emotional stress"
+      clothing: "Black clerical/secretary attire - simple black frock coat, white linen shirt with high stiff collar, dark trousers, plain black shoes"
+      position: "Seated at reading table with open books before him"
+      action: "Responding to her challenges with growing confidence and subtle defiance of her aristocratic assumptions"
+  scene:
+    mainElements: "Floor-to-ceiling bookcases lined with leather-bound books in rich bindings with gold lettering, comfortable reading chairs upholstered in fine fabric, large reading table with brass reading lamp, Persian carpet on polished wood floor"
+    details: "Afternoon light filtering through tall windows creating patterns on book spines, dust motes floating in sunbeams, scent of old leather and parchment, sound of pages turning and books being replaced on shelves, various books bound in leather or cloth representing knowledge as instrument of power"
+    background: "View through windows of Parisian rooftops and gardens, distant bookcases extending into shadows, portrait of scholarly ancestor observing from wall"
+    atmosphere: "Intellectual battlefield where minds clash beneath social conventions, Matylda's search for worthy opponent in boring aristocratic world, Julian's recognition that here is space where his merit truly matters, dangerous attraction growing through intellectual combat"
+  composition:
+    cameraAngle: "Medium shot capturing the tension of their intellectual exchange"
+    focus: "Mental sparring visible in their expressions and body language"
+    depth: "Matylda with book in foreground, Julian at table in middle ground, magnificent library extending in background, no text or letters visible"

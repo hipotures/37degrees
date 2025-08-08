@@ -1,0 +1,98 @@
+sceneDescription:
+  setting:
+    time: 1772 December 25, evening, Christmas Day, lamplight
+    location: Idyllic German village in rolling countryside near Wetzlar, Holy Roman Empire, 1770s. Half-timbered houses with
+      white plaster walls and dark wooden beams line narrow cobblestone streets
+    weather: Clear cold Christmas evening with stars beginning to appear
+  characters:
+  - appearance: Village residents of various ages, dressed in their Sunday best but with somber expressions replacing usual
+      Christmas joy
+    clothing: Traditional Christmas attire but in subdued colors, many adding black armbands or other signs of mourning
+    position: Moving slowly through village streets in small groups, gathering near church
+    action: Speaking in hushed voices about the tragedy, faces showing mixture of grief, shock, and troubled recognition that
+      someone they knew could reach such despair, many carrying small tokens of remembrance
+  - appearance: Village priest, elderly man with kind but deeply troubled face
+    clothing: Black clerical robes with white collar, heavy winter cloak
+    position: Standing at church steps addressing small gathered crowd
+    action: Speaking quietly about forgiveness and understanding, struggling to reconcile Christian doctrine with human compassion,
+      face showing internal conflict about proper response to suicide
+  - appearance: Various village families, parents with children, all showing different degrees of grief and confusion
+    clothing: Christmas finery subdued by mourning accessories, children in their best clothes but with solemn faces
+    position: Gathered in village square and church steps
+    action: Holding each other closer than usual, parents explaining tragedy to confused children, community united in shared
+      sorrow and questioning
+  scene:
+    mainElements: Medieval street layout with central market square, unfinished red sandstone cathedral with mixed green slate
+      elements, village fountain, small parish church, scattered orchards and vegetable gardens
+    details: Christmas decorations of pine boughs and candles seem incongruous with community mourning, village fountain where
+      children used to play now serves as informal memorial with flowers and small offerings, half-timbered houses glow warmly
+      with candlelight but conversations through windows are subdued, church bells ring solemnly instead of festively, snow
+      on cobblestones shows many footprints as neighbors seek comfort in gathering together, scent of Christmas baking mingles
+      with cold winter air and woodsmoke, no text or letters visible except perhaps prayer books
+    background: Rolling hills beyond village appear stark and empty under starlit sky, other villages in distance show Christmas
+      lights and normal celebration, contrasting with this community's transformed atmosphere
+    atmosphere: Christmas celebration muted by collective grief, community bonding through shared tragedy, questioning and
+      soul-searching replacing usual holiday joy, recognition that life has permanently changed, village innocence lost but
+      compassion deepened
+  composition:
+    cameraAngle: Wide establishing shot showing entire village square and gathered community
+    focus: Community united in grief and questioning, Christmas setting transformed by tragedy
+    depth: 'Foreground: gathered villagers in somber discussion, middle ground: church and village buildings decorated for
+      Christmas but subdued, background: stark winter landscape under evening stars'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical
