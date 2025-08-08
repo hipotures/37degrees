@@ -3,182 +3,233 @@ name: 37d-a5-gemini-deep-research
 description: |
     Ten agent automatyzuje proces Deep Research w Google Gemini dla książek z projektu 37degrees.
     Proces obejmuje:
-     - otwarcie przeglądarki,
-     - aktywację Deep Research,
-     - wklejenie instrukcji z pliku prompt,
+     - pobranie następnej książki z listy TODOIT
+     - otwarcie browsera
+     - sprawdzenie/wybranie modelu Gemini 2.5 Pro
+     - aktywację Deep Research
+     - wklejenie instrukcji z pliku prompt
      - zmianę nazwy czatu
-     - oczekiwanie na rozpoczęcie procesu badawczego
+     - oznaczenie zadania jako in_progress
+     - zamknięcie browsera
 ---
 
 # Gemini Deep Research - Instrukcja automatyzacji
 
-## Parametry wejściowe
-- `book_folder` - nazwa folderu książki (np. `0026_pride_and_prejudice`)
-
+## Automatyczne pobieranie zadań
+Agent automatycznie pobiera następną książkę z listy TODOIT "gemini-deep-research" i oznacza ją jako "in_progress".
 
 ## Wymagania wstępne
-- Powinieneś być zalogowant do Google Gemini w przeglądarce. Jeśli wykryjesz brak zalogowania się do Google, przerywasz działanei z odpowiednim komunikatem.
-- Folder książki z plikiem `books/[book_folder]/docs/book-ds-prompt.md`
-- MCP playwright-headless (domyślnie) lub playwright-show-browser (jeśli użytkownik wyraźnie o to poprosi)
+- Powinieneś być zalogowany do Google Gemini w przeglądarce. Jeśli wykryjesz brak zalogowania się do Google, kończysz działanie z odpowiednim komunikatem.
+- Lista TODOIT "gemini-deep-research" z oczekującymi zadaniami. Jeśli brak zadań o statusie "pending", kończysz działanie z odpowiednim komunikatem.
+- Używaj MCP playwright-headless (domyślnie) lub playwright-show-browser (jeśli użytkownik wyraźnie o to poprosi). Jeśli żaden browser z MCP nie jest dostepny, kończysz działanie z odpowiednim komunikatem.
+- Nie wyszukuj żadnych informacji w internecie! Nie używaj WebSearch.
 
 ## KRYTYCZNE ZASADY OSZCZĘDZANIA TOKENÓW
 - **NIE UŻYWAJ Read tool** - nie czytaj pliku `book-ds-prompt.md` (555 linii = tysiące tokenów)
 - **NIE UŻYWAJ TodoWrite** - ten agent nie potrzebuje systemu zadań
-- **UŻYWAJ TYLKO xsel + Control+V** - zero tokenów
+- **UŻYWAJ TYLKO polecenia xsel + Control+V** - zero tokenów
 
 
 ## Proces automatyzacji
 
-### 1. Sprawdź istnienie pliku (BEZ CZYTANIA)
-```bash
+### 1. Pobierz następne zadanie z listy TODOIT
+
+// Pobierz następne oczekujące zadanie z listy gemini-deep-research
+const nextTask = await mcp__todoit__todo_get_next_pending({
+    list_key: "gemini-deep-research"
+});
+if (!nextTask.item) {
+    console.log("Brak oczekujących zadań w liście gemini-deep-research");
+    return;
+}
+
+const book_folder = nextTask.item.item_key; // np. "0026_pride_and_prejudice"
+console.log(`Rozpoczynam Deep Research dla: ${book_folder}`);
+
+
+
+### 2. Sprawdź istnienie pliku (BEZ CZYTANIA)
+bash
 # Sprawdź czy plik istnieje (nie czytaj zawartości!)
 test -f books/${book_folder}/docs/book-ds-prompt.md && echo "Plik istnieje" || echo "Brak pliku"
-```
 
-### 2. Otwórz Google Gemini
-```javascript
+
+### 3. Otwórz Google Gemini i sprawdź model
+
 // Nawiguj do Google Gemini
 // Domyślnie używaj playwright-headless, chyba że użytkownik wyraźnie prosi o playwright-show-browser
 await mcp__playwright-headless__browser_navigate("https://gemini.google.com/")
-```
 
-### 3. Aktywuj Deep Research
-```javascript
-// Znajdź i kliknij przycisk Deep Research
-const deepResearchButton = page.locator('button:has-text("Deep Research")');
-await deepResearchButton.click();
-```
+// Sprawdź aktualny model i zmień na 2.5 Pro jeśli potrzeba
+// Kliknij przycisk modelu
+await mcp__playwright-headless__browser_click({
+    element: "Przycisk wyboru modelu",
+    ref: "..." // ref z snapszotu
+});
 
-### 4. Wklej instrukcje (OPTYMALNA METODA - ZERO TOKENÓW)
+// Kliknij 2.5 Pro
+await mcp__playwright-headless__browser_click({
+    element: "Model 2.5 Pro",
+    ref: "..." // ref z snapszotu
+});
 
-**WAŻNE: NIE CZYTAJ PLIKU - wklej go bezpośrednio używając xsel**
+// Poczekaj na zmianę
+await mcp__playwright-headless__browser_wait_for({time: 1});
 
-```bash
+
+### 4. Aktywuj Deep Research
+
+// Kliknij przycisk Deep Research
+await mcp__playwright-headless__browser_click({
+    element: "Przycisk Deep Research",
+    ref: "..." // ref z snapszotu
+});
+
+
+### 5. Wklej i wyślij instrukcje
+
+**WAŻNE: NIE CZYTAJ PLIKU - wklej go bezpośrednio używając xsel + natychmiast wyślij**
+
+bash
 # Wczytaj plik do schowka systemowego (bez czytania zawartości w Claude Code)
 cat books/${book_folder}/docs/book-ds-prompt.md | xsel --clipboard
 
-# Skupienie na polu tekstowym i wklejenie
-await page.getByRole('textbox', { name: 'Tu wpisz prompt' }).click();
-await page.keyboard.press('Control+v');
-```
 
-### 5. Wyślij instrukcje
-```javascript
-// Wyślij wiadomość
-await page.keyboard.press('Enter');
-// LUB kliknij przycisk send
-const sendButton = page.locator('button[data-testid="send-button"]');
-await sendButton.click();
-```
+
+// Wczytaj zawartość pliku do zmiennej (bez wyświetlania w Claude Code)
+const content = await require('fs').readFileSync(`books/${book_folder}/docs/book-ds-prompt.md`, 'utf8');
+
+// Focus na pole tekstowe
+await mcp__playwright-headless__browser_click({
+    element: "Pole tekstowe promptu",  
+    ref: "...", // ref z snapszotu
+});
+
+// Wklej zawartość przez type (działa z contentEditable DIV)
+await mcp__playwright-headless__browser_type({
+    element: "Pole tekstowe promptu",  
+    ref: "...", // ref z snapszotu
+    text: content
+});
+
+// Poczekaj 5 sekund na pełne wklejenie
+await mcp__playwright-headless__browser_wait_for({time: 5});
+
+// Wyślij za pomocą Ctrl+Enter
+await mcp__playwright-headless__browser_press_key({key: "Control+Enter"});
+
 
 ### 6. Czekaj na przygotowanie planu
-```javascript
-// Czekaj aż Gemini przygotuje plan badawczy
-await page.waitForSelector('button:has-text("Zacznij wyszukiwanie")', { timeout: 60000 });
-```
 
-### 7. Rozpocznij wyszukiwanie
-```javascript
+Wykonaj: Bash(sleep 110)
+
+### 7. Czekaj na przygotowanie planu
+
+// WAŻNE: Czekaj aż zniknie napis
+
+await mcp__playwright-headless__browser_wait_for({
+    textGone: "Chwileczkę...",
+    time: 160
+});
+console.log("Przycisk 'Zacznij wyszukiwanie' się pojawił - plan gotowy!");
+
+
+### 8. Zapisz URL czatu przed rozpoczęciem wyszukiwania
+
+// Pobierz URL czatu i zapisz jako property
+const chatUrl = await mcp__playwright-headless__browser_evaluate({
+    function: "() => window.location.href"
+});
+
+// Zapisz URL do properties zadania
+await mcp__todoit__todo_set_item_property({
+    list_key: "gemini-deep-research",
+    item_key: book_folder,
+    property_key: "SEARCH_URL", 
+    property_value: chatUrl
+});
+console.log(`URL czatu zapisany: ${chatUrl}`);
+
+
+### 9. Rozpocznij wyszukiwanie
+
 // Kliknij "Zacznij wyszukiwanie"
-const startButton = page.locator('button:has-text("Zacznij wyszukiwanie")');
-await startButton.click();
-```
+await mcp__playwright-headless__browser_click({
+    element: "Zacznij wyszukiwanie",
+    ref: "" // ref będzie dostępny w snapszot
+});
 
-### 8. Zmień nazwę czatu (po rozpoczęciu wyszukiwania)
-```javascript
+
+### 10. Sprawdź postęp
+
+// Poowinno sie rozpocząć prawdziwe wyszukiwanie, przzejdz dalej
+
+### 11. Wróć do czatu
+
 // Wróć do czatu
-const backButton = page.locator('button:has(img[title="chevron_left"])');
-await backButton.click();
+await mcp__playwright-headless__browser_click({
+    element: "Zamknij panel",
+    ref: "..." // ref będzie dostępny w snapszot
+});
+
+
+### 12. Otwórz menu opcji
 
 // Otwórz menu opcji
-const moreButton = page.locator('button:has(img[title="more_vert"])');
-await moreButton.click();
+await mcp__playwright-headless__browser_click({
+    element: "Menu opcji",
+    ref: "..." // ref będzie dostępny w snapszot
+});
+
+
+### 13. Kliknij "Zmień nazwę"
 
 // Kliknij "Zmień nazwę"
-const renameButton = page.locator('button:has-text("Zmień nazwę")');
-await renameButton.click();
+await mcp__playwright-headless__browser_click({
+    element: "Opcja zmień nazwę",
+    ref: "..." // ref będzie dostępny w snapszot
+});
+
+
+### 14. Wprowadź nową nazwę
 
 // Wprowadź nową nazwę
-const nameInput = page.locator('input[type="text"]');
-await nameInput.fill(book_folder);
+await mcp__playwright-headless__browser_type({
+    element: "Pole nazwy czatu",
+    ref: "...", // ref będzie dostępny w snapszot
+    text: book_folder
+});
+
+
+### 15. Potwierdź zmianę
 
 // Potwierdź zmianę
-const confirmButton = page.locator('button:has-text("Zmień nazwę")');
-await confirmButton.click();
-```
+await mcp__playwright-headless__browser_click({
+    element: "Zmień nazwę",
+    ref: "..." // ref będzie dostępny w snapszot
+});
 
-### 9. Monitoruj postęp
-```javascript
-// Monitoruj status Deep Research
-const statusSelector = 'div:has-text("Analizuję treść")';
-await page.waitForSelector(statusSelector, { timeout: 5000 });
 
-// Opcjonalnie: czekaj na ukończenie (może trwać kilka minut)
-const completionSelector = 'div:has-text("Gotowe")';
-await page.waitForSelector(completionSelector, { timeout: 600000 }); // 10 minut timeout
-```
+### 16. Oznaczenie statusu deep research
+
+// Oznacz zadanie jako w toku
+mcp__todoit__todo_update_item_status(
+      list_key: "gemini-deep-research",
+      item_key: book_folder,
+      status: "in_progress"
+    )
+console.log(`status Deep Research dla: ${book_folder} in_progress`);
+
+### 17. Zamknięcie browsera
+mcp__playwright-headless__browser_close();
 
 ## Struktura plików
-```
+
 books/
 └── {book_folder}/
     └── docs/
         └── book-ds-prompt.md    # Instrukcje dla Deep Research
-```
 
-## Kompletny skrypt automatyzacji
-
-```javascript
-async function runGeminiDeepResearch(book_folder) {
-    // 1. Sprawdź istnienie pliku (BEZ CZYTANIA)
-    await bash_command(`test -f books/${book_folder}/docs/book-ds-prompt.md && echo "Plik istnieje" || echo "Brak pliku"`);
-    
-    // 2. Otwórz Gemini (domyślnie headless)
-    await mcp__playwright-headless__browser_navigate("https://gemini.google.com/");
-    
-    // 3. Aktywuj Deep Research
-    const deepResearchButton = page.locator('button:has-text("Deep Research")');
-    await deepResearchButton.click();
-    
-    // 4. Wklej instrukcje do schowka i wklej
-    await bash_command(`cat books/${book_folder}/docs/book-ds-prompt.md | xsel --clipboard`);
-    await page.getByRole('textbox', { name: 'Tu wpisz prompt' }).click();
-    await page.keyboard.press('Control+v');
-    
-    // 5. Wyślij
-    await page.keyboard.press('Enter');
-    // LUB kliknij przycisk send jeśli Enter nie działa
-    const sendButton = page.locator('button[data-testid="send-button"]');
-    await sendButton.click();
-    
-    // 6. Czekaj na plan
-    await page.waitForSelector('button:has-text("Zacznij wyszukiwanie")', { timeout: 60000 });
-    
-    // 7. Rozpocznij wyszukiwanie
-    const startButton = page.locator('button:has-text("Zacznij wyszukiwanie")');
-    await startButton.click();
-    
-    // 8. Zmień nazwę czatu (po rozpoczęciu wyszukiwania)
-    const backButton = page.locator('button:has(img[title="chevron_left"])');
-    await backButton.click();
-    
-    const moreButton = page.locator('button:has(img[title="more_vert"])');
-    await moreButton.click();
-    
-    const renameButton = page.locator('button:has-text("Zmień nazwę")');
-    await renameButton.click();
-    
-    const nameInput = page.locator('input[type="text"]');
-    await nameInput.fill(book_folder);
-    
-    const confirmButton = page.locator('button:has-text("Zmień nazwę")');
-    await confirmButton.click();
-    
-    // 9. Monitoruj (opcjonalnie)
-    console.log(`Deep Research uruchomiony dla ${book_folder} - ZERO tokenów użytych!`);
-    console.log("Czekaj na ukończenie procesu...");
-}
-```
 
 ## Uwagi techniczne
 
@@ -186,36 +237,6 @@ async function runGeminiDeepResearch(book_folder) {
 - **NIE używaj** `type()` dla długich tekstów - jest bardzo wolny i kosztowny tokenowo
 - **NIE używaj** `fill()` dla długich tekstów - przesyła CAŁĄ zawartość przez parametry Claude Code = tysiące tokenów
 - **UŻYWAJ** `xsel --clipboard` + `Control+V` - ZERO tokenów, natychmiastowe wklejenie
-
-### Timeouty
-- Przygotowanie planu: 60 sekund
-- Ukończenie Deep Research: 10 minut (może być dłużej dla złożonych zadań)
-
-### Obsługa błędów
-```javascript
-try {
-    await runGeminiDeepResearch(book_folder);
-} catch (error) {
-    console.error(`Błąd podczas Deep Research dla ${book_folder}:`, error);
-    // Opcjonalnie: zrób screenshot dla debugowania
-    await page.screenshot({ path: `debug_${book_folder}.png` });
-}
-```
-
-## Przykład użycia
-```bash
-# Dla książki Pride and Prejudice
-book_folder="0026_pride_and_prejudice"
-runGeminiDeepResearch(book_folder)
-```
-
-## Rezultat
-Po ukończeniu procesu otrzymasz:
-- 50+ stronicowe szczegółowe streszczenie książki
-- Opisy wizualne wszystkich postaci
-- Katalogi lokacji i scen kluczowych
-- Materiały gotowe do adaptacji graficznej
-- Pełną analizę literacką zgodną z wymaganiami z pliku prompt
 
 ## Rozwiązywanie problemów
 
