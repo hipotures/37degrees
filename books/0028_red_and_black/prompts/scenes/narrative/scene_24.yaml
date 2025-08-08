@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Julian walks to the guillotine with dignity"
+  setting:
+    time: "1820s France during Bourbon Restoration, early morning at dawn"
+    location: "Public square in Besançon with execution platform"
+    weather: "Clear cold dawn with pale light"
+  characters:
+    - appearance: "Young man, age 19-23, short stature with small, slender build almost feminine in delicacy, dark chestnut hair worn slightly longer in 1820s style, large expressive black eyes, regular delicate facial features with aquiline nose, extremely pale complexion that turns bright red easily under emotional stress"
+      clothing: "Simple white shirt and dark trousers, no longer the clerical black that defined his hypocritical period"
+      position: "Walking steadily toward guillotine platform with erect posture"
+      action: "Moving with calm dignity and spiritual serenity, rejecting offered religious comfort, facing death with authentic nobility"
+    - appearance: "Catholic priest in black cassock"
+      clothing: "Traditional black religious vestments"
+      position: "Walking beside Julian offering last rites"
+      action: "Attempting to provide spiritual comfort which Julian politely declines"
+    - appearance: "Crowd of townspeople and curiosity seekers"
+      clothing: "Working clothes and bourgeois attire of provincial town"
+      position: "Gathered around execution square behind barriers"
+      action: "Watching execution as public spectacle, some with morbid fascination, others with pity"
+  scene:
+    mainElements: "Revolutionary guillotine standing in center of square, wooden platform raised above crowd level, guards in military uniform maintaining order, official executioner preparing equipment"
+    details: "Dawn light casting long shadows across cobblestones, cold mist rising from ground, sound of crowd murmuring and shuffling feet, church bells marking the hour, guillotine blade glinting in pale morning light, symbol of revolutionary justice now used by Restoration"
+    background: "Medieval architecture of Besançon with church spires and ancient walls, mountains visible in distance, early morning sky brightening with approaching sunrise"
+    atmosphere: "Julian's final triumph over society through noble acceptance of death, contrast between his inner peace and external brutality of execution, transformation from ambitious social climber to authentic tragic hero, dignity in death surpassing anything achieved in life"
+  composition:
+    cameraAngle: "Wide shot showing Julian's solitary dignity against the crowd and machinery of state execution"
+    focus: "Julian's calm acceptance contrasted with surrounding spectacle of death"
+    depth: "Julian walking in foreground, guillotine and officials in middle ground, watching crowd in background, no text or letters visible"

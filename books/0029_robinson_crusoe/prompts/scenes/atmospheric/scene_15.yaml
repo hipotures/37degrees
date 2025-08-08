@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Blue Hour Watching for Ships"
+  setting:
+    time: "1678, blue hour transition with deep blue sky, last orange on horizon, magical in-between time"
+    location: "High rocky outcrop overlooking ocean from island's highest point"
+    weather: "Perfect clear evening transitioning to night, first stars appearing, calm seas"
+  characters:
+    - appearance: "Mężczyzna, wiek od 27 do 55 lat, postawny i muskularny, ogorzały od słońca, długie niestrzyżone włosy, długa gęsta broda przystrzyżona w tureckie wąsy mahometańskie, twarz poorana zmarszczkami od słońca, dziki barbarzyński wygląd"
+      clothing: "Kompletny strój z koziej skóry: wysoka stożkowata bezkształtna czapka z klapą chroniącą kark, krótka kurtka z koziej skóry z sierścią na zewnątrz sięgająca do połowy uda, spodnie z koziej skóry do kolan z długą sierścią zwisającą do połowy łydek, wysokie sznurowane buty z koziej skóry, szeroki pas z suszonej skóry"
+      position: "Standing on cliff edge silhouetted against twilight sky"
+      action: "Scanning horizon for any sign of ships, continuing daily ritual of hope for rescue while accepting growing contentment with island life"
+  scene:
+    mainElements: "Rocky cliff formation providing panoramic view of ocean, endless horizon where water meets sky, first lights beginning to appear from camp fires below in fortress compound"
+    details: "Deep blue sky with last traces of orange and pink on western horizon, first bright stars becoming visible overhead, ocean surface calm and reflecting twilight colors, gentle evening breeze carrying sounds from forest below, fortress compound visible far below with small glow from evening fire, complete absence of any human activity on ocean"
+    background: "Endless ocean stretching to curved horizon, twilight sky transitioning through color spectrum, island landscape spreading below viewpoint"
+    atmosphere: "Melancholy beauty of transition time, mixture of hope and acceptance, profound solitude emphasized by vast natural setting, peaceful resignation combined with stubborn optimism, magical quality of blue hour creating contemplative mood"
+  composition:
+    cameraAngle: "Wide dramatic shot emphasizing figure against vast ocean and sky"
+    focus: "Silhouetted figure on cliff against twilight sky, endless ocean horizon, transition between day and night"
+    depth: "Foreground: rocky cliff edge, Middle: figure scanning horizon, Background: endless twilight ocean and emerging stars, no text or letters visible"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Turning Away"
+  setting:
+    time: "Early 1910s, following confrontational hearing"
+    location: "Austrian middle-class boarding house corridor and stairwell, evening lighting"
+    weather: "Evening settling over building with gas lamps being lit"
+  characters:
+    - appearance: "Man, 30 years old, average height with lean build, dark brown hair neatly combed, intelligent face with regular features, clean-shaven with pale complexion, becoming increasingly gaunt and tired-looking as stress mounts, dark circles under eyes, nervous ticks developing"
+      clothing: "Well-tailored dark charcoal suit, crisp white shirt with high starched collar, conservative dark tie, polished leather shoes, black formal overcoat when outdoors, always impeccably dressed despite growing internal turmoil"
+      position: "Standing in corridor, head turned away from approaching figure, hand gripping stair banister"
+      action: "Deliberately avoiding eye contact, turning back toward others, shoulders tensing defensively, withdrawing from social interaction"
+    - appearance: "Woman, approximately 25 years old, attractive with intelligent features, alert brown eyes, shoulder-length dark hair pinned back neatly, slender build with graceful posture, confident facial expression"
+      clothing: "Modern dark grey wool skirt reaching mid-calf, crisp white cotton blouse with high collar, simple dark jacket, practical leather shoes, small silver brooch at throat, dressed as independent working woman of early 1900s"
+      position: "Approaching down corridor then stopping, maintaining cautious distance"
+      action: "Moving with careful deliberation, maintaining safe social distance, observing protagonist's withdrawn behavior with concern mixed with wariness"
+  scene:
+    mainElements: "Narrow boarding house corridor with worn carpet runner, dark wooden banister, gas wall sconces providing warm but dim light, doors leading to individual rooms"
+    details: "Flickering gas flames creating shifting shadows, worn but respectable middle-class furnishings, sound of other tenants moving about behind closed doors, atmosphere of strained social relations, no text or letters visible"
+    background: "Domestic space that once felt secure now charged with social tension and mutual suspicion"
+    atmosphere: "Growing emotional isolation despite physical proximity, breakdown of normal social courtesies, sense of being observed and judged by neighbors"
+  composition:
+    cameraAngle: "Profile shots emphasizing avoidance and emotional distance"
+    focus: "Body language showing rejection of human connection and growing social isolation"
+    depth: "Foreground: protagonist turning away defensively, middle ground: other person maintaining cautious distance, background: corridor suggesting domestic world becoming hostile"

@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1674, golden hour with everything bathed in warm light, long shadows creating drama
+    location: Odludna piaszczysta plaża na tropikalnej wyspie gdzie kanibale urządzają uczty
+    weather: Perfect clear evening with warm golden light, gentle offshore breeze
+  characters:
+  - appearance: Mężczyzna, wiek od 27 do 55 lat, postawny i muskularny, ogorzały od słońca, długie niestrzyżone włosy, długa
+      gęsta broda przystrzyżona w tureckie wąsy mahometańskie, twarz poorana zmarszczkami od słońca, dziki barbarzyński wygląd
+    clothing: 'Kompletny strój z koziej skóry: wysoka stożkowata bezkształtna czapka z klapą chroniącą kark, krótka kurtka
+      z koziej skóry z sierścią na zewnątrz sięgająca do połowy uda, spodnie z koziej skóry do kolan z długą sierścią zwisającą
+      do połowy łydek, wysokie sznurowane buty z koziej skóry, szeroki pas z suszonej skóry'
+    position: Frozen in shock while walking along beach, staring at ground
+    action: Just discovered single human footprint in sand, experiencing moment of paralyzing fear and realization he is not
+      alone
+  scene:
+    mainElements: Złoty piasek często zaśmiecony ludzkimi szczątkami, resztki ogniska, ludzkie kości i czaszki rozrzucone
+      po plaży, turkusowa woda oceanu, białe spienione fale
+    details: Single clear human footprint pressed into wet sand, golden hour light creating dramatic shadows that make print
+      more visible, scattered human bones partially buried in sand glowing in warm light, cold ashes from old fire pit, waves
+      gently lapping shore creating peaceful sound contrasting with horror of discovery, his own footprints trailing behind
+      in wet sand
+    background: Endless beach extending in both directions with golden light, ocean reflecting orange and gold colors of sunset,
+      tropical vegetation line dark against brilliant sky
+    atmosphere: Beautiful golden hour lighting creating ironic contrast with horrific discovery, peaceful evening moment shattered
+      by realization of danger, paradise revealed to have dark secrets, tranquility replaced by paranoia
+  composition:
+    cameraAngle: Close-up emphasizing footprint in sand with figure's shadow, then wider to show isolation
+    focus: Single footprint in sand with golden light creating sharp shadows, figure frozen in shock
+    depth: 'Foreground: footprint in wet sand, Middle: shocked figure and scattered bones, Background: golden ocean and sunset
+      sky, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia ink
+    - brown ink
+    background: white or aged paper
+    usageNotes: Monochromatic, tone through line density
+    saturation: none
+    contrast: created through line spacing
+  lineArt:
+    style: systematic parallel lines
+    weight: consistent, fine
+    color: black or brown ink
+    texture: created entirely through lines
+    edgeTreatment: defined by line direction changes
+  lighting:
+    type: implied through line density
+    direction: shown through hatching direction
+    intensity: varies with line spacing
+    shadows:
+      style: dense crosshatching
+      color: black ink
+      opacity: line density
+    highlights: sparse or no lines
+  rendering:
+    technique: traditional pen technique
+    texture: entirely line-based
+    detailLevel: high through careful line work
+    finish: hand-drawn quality
+  perspective: traditional, often architectural
+  mood:
+    overall: classic, scholarly, detailed
+    emotion: contemplative, serious, refined
+    tempo: measured, careful
+    keywords:
+    - classic
+    - scholarly
+    - refined
+    - traditional
+    - meticulous
+  stylePrecedents:
+  - Albrecht Dürer
+  - Rembrandt etchings
+  - Scientific illustration
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

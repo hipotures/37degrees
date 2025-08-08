@@ -1,0 +1,32 @@
+sceneDescription:
+  title: "The Trial Begins"
+  setting:
+    time: "1934, summer day, courthouse trial session"
+    location: "Central courthouse building on town square in Maycomb Alabama, imposing but aging structure"
+    weather: "Stifling hot summer day, no air conditioning, oppressive heat"
+  characters:
+    - appearance: "Man, late 40s, tall and thin build, graying brown hair, wire-rimmed glasses, dignified weathered face"
+      clothing: "Dark three-piece suit, white dress shirt, dark tie, black leather shoes"
+      position: "Standing at defense table addressing jury"
+      action: "Calm, measured movements, removes glasses when concentrating"
+    - appearance: "African-American man, 25 years old, strong well-built frame, left arm completely useless and 12 inches shorter than right"
+      clothing: "Clean white shirt, dark trousers, humble respectful appearance"
+      position: "Seated at defendant's table, dignified bearing despite circumstances"
+      action: "Dignified bearing despite physical disability, respectful demeanor"
+    - appearance: "Girl, 6-9 years old, small and slender build, short straight brown hair with bangs, expressive face with tomboyish features"
+      clothing: "Blue denim overalls, white cotton shirt, bare feet or simple brown shoes"
+      position: "Sitting in colored balcony watching trial below"
+      action: "Wide-eyed observation of justice system, trying to understand adult complexities"
+    - appearance: "Boy, 10-13 years old, tall and lean athletic build, short brown hair, serious expression, left arm shorter than right after injury"
+      clothing: "White cotton shirt, brown knee-length shorts, brown leather shoes"
+      position: "Beside sister in balcony, leaning forward intently"
+      action: "Intense concentration on father's defense, beginning to understand stakes"
+  scene:
+    mainElements: "Wooden benches reserved for African-American spectators, second-floor gallery in courthouse reserved for African-American spectators, wooden benches, overlooks main courtroom below"
+    details: "Packed courthouse with segregated seating, white jury examining black defendant with suspicion, sweltering heat making everyone uncomfortable, tension between different sections of courthouse"
+    background: "Large brick and stone building with columns, sagging architectural details, courtroom with heavy oak benches, separate balcony for colored section"
+    atmosphere: "Formal seat of justice, stuffy and oppressive during trial, symbol of legal system under test of moral courage"
+  composition:
+    cameraAngle: "High angle shot from colored balcony looking down at courtroom"
+    focus: "Atticus defending Tom Robinson with children watching from above"
+    depth: "Foreground: children in balcony seats, middle ground: courtroom drama below, background: judge's bench and jury box, no text or letters visible"

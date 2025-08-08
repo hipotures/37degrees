@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Elizabeth Visits Charlotte at Hunsford Parsonage"
+  setting:
+    time: "Early 19th century England, afternoon, early spring"
+    location: "Anglican clergyman's residence in Kent village, adjacent to Rosings Park"
+    weather: "Mild spring afternoon with gentle breeze"
+  characters:
+    - appearance: "Woman, 20 years old, beautiful dark intelligent eyes with expressive gaze, light and pleasing figure, average height, not classically beautiful like her sister Jane but possessing striking charm, dark hair arranged in period-appropriate style with loose curls framing her face, healthy complexion that gains attractive rosy color after physical exertion"
+      clothing: "Traveling dress in practical dark blue wool, matching pelisse for journey, leather gloves, bonnet with ribbons, sturdy boots for walking"
+      position: "Standing in modest parlor having just arrived"
+      action: "Embracing her friend Charlotte with genuine warmth despite reservations about her marriage"
+    - appearance: "Woman, 27 years old, plain sensible face, practical demeanor, neat brown hair, middle height, competent bearing"
+      clothing: "Simple but well-made dress in brown wool suitable for clergyman's wife, white cap with modest lace trim, wedding ring visible, practical house shoes"
+      position: "Receiving Elizabeth in her modest but well-ordered home"
+      action: "Welcoming Elizabeth with genuine pleasure while managing household with quiet efficiency"
+    - appearance: "Man, 25 years old, tall heavy-looking build, ungainly movements, serious pompous expression, thin hair, forgettable features, formal grave manner"
+      clothing: "Black Anglican clergyman's coat and breeches, white clerical collar, black waistcoat, good quality but worn without style, black shoes with buckles"
+      position: "Standing formally in parlor doorway"
+      action: "Bowing pompously to Elizabeth while speaking of Lady Catherine's condescension"
+  scene:
+    mainElements: "Modest but comfortable two-story rectory with neat front garden, small parlor and dining room, functional kitchen, simple furnishings appropriate for clerical income, vegetable garden behind house, all maintained with precise orderliness"
+    details: "Neat parlor with simple furniture arranged for comfort, religious texts on shelves, samplers on walls, spring flowers from garden in simple vase, evidence of Charlotte's efficient management, tea service prepared, modest but welcoming domestic comfort"
+    background: "View through windows of well-tended garden and distant glimpse of grand Rosings Park"
+    atmosphere: "Quiet domestic peace, religious propriety, sounds of church bells, humble comfort under shadow of great estate"
+  composition:
+    cameraAngle: "Medium shot capturing reunion in modest but comfortable interior"
+    focus: "Elizabeth and Charlotte's friendship surviving despite changed circumstances"
+    depth: "Foreground: two friends embracing; middle ground: modest parlor interior; background: view toward Rosings Park, no text or letters visible"

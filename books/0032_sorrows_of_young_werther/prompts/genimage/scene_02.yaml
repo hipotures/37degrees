@@ -1,0 +1,96 @@
+sceneDescription:
+  setting:
+    time: 1771 May, morning, soft golden light
+    location: Idyllic German village in rolling countryside near Wetzlar, Holy Roman Empire, 1770s. Half-timbered houses with
+      white plaster walls and dark wooden beams line narrow cobblestone streets
+    weather: Clear spring morning with warm sunshine, light breeze carrying floral scents
+  characters:
+  - appearance: Young man, 24 years old, slender athletic build, average height, expressive dark eyes, dark brown hair gathered
+      simply at the nape with a black ribbon, clean-shaven with sharp jawline, intensely emotional facial expressions capable
+      of extreme joy and deep melancholy
+    clothing: Iconic blue woolen frock coat with brass buttons, bright yellow silk waistcoat, cream-colored knee-length breeches,
+      white linen shirt with ruffled jabots, white silk stockings, brown leather riding boots with small heel and brass buckle
+    position: Standing at edge of village market square, observing village life
+    action: Watching villagers with gentle smile, sketching in small leather-bound notebook, occasionally nodding in greeting
+      to passing residents, absorbing the peaceful rhythm of country life
+  - appearance: Various village residents of different ages, healthy country people with sun-weathered faces and simple honest
+      expressions
+    clothing: 'Traditional rural attire in earth tones: farmers in linen shirts and wool breeches, women in cotton dresses
+      with white aprons and caps, children in simpler versions of adult clothing'
+    position: Throughout market square engaged in daily activities
+    action: 'Conducting morning business: purchasing bread, exchanging goods, greeting neighbors, children playing with wooden
+      hoops, mothers carrying baskets'
+  scene:
+    mainElements: Medieval street layout with central market square, unfinished red sandstone cathedral with mixed green slate
+      elements, village fountain, small parish church, scattered orchards and vegetable gardens
+    details: Half-timbered houses display traditional German architecture with decorative wooden beams forming geometric patterns
+      against white plaster, cobblestone streets worn smooth by centuries of use, church bells ring the hour with bronze resonance,
+      morning light illuminates the warm red sandstone of unfinished cathedral, vendors arrange fresh bread and early vegetables,
+      children's laughter echoes between buildings, scent of baking bread mingles with spring flowers, no text or letters
+      visible
+    background: Rolling green hills dotted with farms and forests extend into misty distance, church spire points toward clear
+      blue sky, smoke rises from cottage chimneys
+    atmosphere: Gentle contentment and social harmony, timeless rhythm of rural community life, sense of belonging to something
+      larger and eternal, simple pleasures and honest human connections, morning optimism and possibility
+  composition:
+    cameraAngle: Wide establishing shot from elevated position overlooking market square
+    focus: Village community in natural daily rhythm with solitary observer finding peace
+    depth: 'Foreground: market square activities and villagers, middle ground: surrounding half-timbered houses and church,
+      background: countryside extending to horizon'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

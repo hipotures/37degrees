@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: 1840s Missouri, morning after treasure discovery becomes public knowledge
+    location: Judge Thatcher's elegant house, formal parlor for business meeting
+    weather: Bright morning with sunlight streaming through fine curtains
+  characters:
+  - appearance: Boy, 12-13 years old, uncomfortable in formal clothes, trying to adapt to new wealthy status
+    clothing: New suit of finest materials, polished shoes, hair carefully combed, looking awkward in luxury
+    position: Sitting on edge of expensive chair in formal parlor
+    action: Listening to adult discussions about money management and investment, fidgeting with unaccustomed formality
+  - appearance: Distinguished gentleman, 50s, serving as financial guardian and advisor
+    clothing: Finest professional attire, representing authority and respectability
+    position: Seated behind polished wooden desk with official papers
+    action: Explaining complex financial arrangements, treating boys as important young men rather than children
+  - appearance: Teenage boy, 13-14 years old, extremely uncomfortable with civilization and wealth
+    clothing: New clean clothes that fit properly but look foreign on his body, unused to shoes
+    position: Shifting restlessly in chair, clearly wanting to escape
+    action: Enduring civilized treatment while obviously longing for old freedom and simple life
+  scene:
+    mainElements: Elegant parlor with fine furniture, legal documents spread on desk, bank notes and investment papers, symbols
+      of newfound wealth and respectability
+    details: Crystal glasses with cold water, silver inkwell and fine pen for signing documents, accounting ledgers showing
+      vast wealth, comfortable chairs boys are afraid to dirty, no text or letters visible
+    background: Finest house interior with imported wallpaper, oil paintings, carpeted floors, representing pinnacle of local
+      society
+    atmosphere: Uncomfortable transition from poverty to wealth, social elevation bringing new responsibilities, childhood
+      freedom constrained by adult expectations
+  composition:
+    cameraAngle: Medium shot showing boys in elegant setting that emphasizes their transformation
+    focus: Moment of social elevation, childhood adventure leading to adult responsibilities
+    depth: 'Foreground: two boys in formal clothes discussing adult business, middle ground: judge handling legal arrangements,
+      background: symbols of wealth and respectability'
+visualElements:
+  colorPalette:
+    primary:
+    - bold red
+    - navy blue
+    - black
+    secondary:
+    - yellow
+    - green
+    - skin tone
+    background: skin tone or simple background
+    usageNotes: Limited palette designed for skin application
+    saturation: high (bold, vibrant colors)
+    contrast: very high (bold black outlines)
+  lineArt:
+    style: very bold, thick black outlines
+    weight: heavy, consistent thickness
+    color: solid black
+    texture: smooth, solid lines
+    edgeTreatment: rounded ends, smooth curves
+  lighting:
+    type: flat lighting with minimal shading
+    direction: even, front-lit
+    intensity: consistent
+    shadows:
+      style: simple solid color shadows
+      color: darker version of base color
+      opacity: solid
+    highlights: minimal, solid color highlights
+  rendering:
+    technique: simplified, iconic representation
+    texture: smooth, flat colors
+    detailLevel: moderate (clear iconic details)
+    finish: flat, bold appearance
+  perspective: simple, frontal views
+  mood:
+    overall: bold, iconic, maritime
+    emotion: strength, tradition, pride
+    tempo: strong, classic
+    keywords:
+    - bold
+    - iconic
+    - traditional
+    - maritime
+    - strong
+  stylePrecedents:
+  - Sailor Jerry Collins tattoos
+  - Norman Collins flash sheets
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

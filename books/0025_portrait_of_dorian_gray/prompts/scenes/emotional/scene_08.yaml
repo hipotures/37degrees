@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Turning Away from Previous Certainties"
+  setting:
+    time: "Late Victorian London, evening with heavy atmosphere, 1880s"
+    location: "Aristocratic Mayfair West End townhouse library, bardzo uroczy pokój in Victorian gentleman's residence with changed atmosphere"
+    weather: "Oppressive evening air with sense of impending change"
+  characters:
+    - appearance: "Young man, 20 years old, smukły build, pełen wdzięku, kędzierzawe złote włosy framing face in rebellious locks, szczere niebieskie oczy now showing first hints of something deeper, klasyczna owalna twarz z rysami made of kości słoniowej i płatków róży, finely curved szkarłatne usta, brak jakichkolwiek skaz, absolutna doskonała uroda"
+      clothing: "Nienaganny strój dandysa: perfectly tailored garments but worn with increasing awareness of their effect, jedwabna kamizelka, luksusowe dodatki now handled with more conscious attention to appearance"
+      position: "Turning away from comfortable seating toward something unseen, body language showing shift from relaxation to anticipation"
+      action: "Shoulders tensing slightly, hands beginning to clench and unclench, movements becoming more restless and seeking, no longer content with passive appreciation of beauty"
+    - appearance: "Man, 30-35 years old, wysoki and pełen gracji, ciemne włosy, spiczasta brązowa broda, ciemne ospałe marzycielskie oczy, oliwkowa cera, zmęczony cyniczny wyraz twarzy"
+      clothing: "Elegancki arystokratyczny strój dandysa in ciemne kolory, perfectly tailored garments befitting his status"
+      position: "Leaning forward slightly, no longer lounging in complete relaxation, showing increased interest in his companion's transformation"
+      action: "Gesturing more deliberately while speaking, smoking papierosów in elegant papierośnicy with more purposeful movements, observing the changes in his young friend with calculating interest"
+  scene:
+    mainElements: "Wysoka boazeria z dębu bejcowana na oliwkowy kolor covering walls now seeming more confining than elegant, przestrzeń otwarta feeling less open as emotional tension builds, furniture arrangement same but atmosphere completely changed"
+    details: "Mały stolik z drewna satynowego with statuetka Clodiona now casting longer shadows, cenna książka Les Cent Nouvelles oprawiony dla Małgorzaty de Valois lying closed and forgotten, kilka dużych niebieskich chińskich waz seeming more like watching eyes, wazon z papuzimi tulipanami with flowers past their prime, no text or letters visible"
+    background: "Małe okna z ołowianymi szybkami now blocking out darkening evening sky, morelowe światło replaced by flickering lamp light creating more dramatic shadows"
+    atmosphere: "Comfortable friendship beginning to show strain as one partner turns toward new interests, intellectual conversation becoming more charged with unspoken tensions, stonowana elegancja now feeling restrictive rather than civilized, sense of approaching intellectual and emotional storm matching weather outside"
+  composition:
+    cameraAngle: "Medium shot capturing changing body language and spatial relationship between figures"
+    focus: "Two figures no longer in complete harmony, showing divergent interests and growing tension"
+    depth: "Foreground: figures with altered posture and relationship, middle ground: unchanged elegant furnishings, background: darkened windows suggesting external pressure"

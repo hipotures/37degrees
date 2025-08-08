@@ -1,0 +1,100 @@
+sceneDescription:
+  setting:
+    time: 1933, late summer afternoon, golden hour
+    location: Gray weathered house at sharp curve of street in Maycomb Alabama, on boundary with schoolyard
+    weather: Warm golden sunlight filtering through oak leaves, gentle breeze
+  characters:
+  - appearance: Girl, 6-9 years old, small and slender build, short straight brown hair with bangs, expressive face with tomboyish
+      features
+    clothing: Blue denim overalls, white cotton shirt, bare feet or simple brown shoes
+    position: Reaching into hollow knothole of massive oak tree
+    action: Energetic, active stance, quick movements, face bright with wonder and discovery
+  - appearance: Boy, 10-13 years old, tall and lean athletic build, short brown hair, serious expression, left arm shorter
+      than right after injury
+    clothing: White cotton shirt, brown knee-length shorts, brown leather shoes
+    position: Standing guard beside tree, looking toward gray house
+    action: Alert posture, watching for any sign of movement from house
+  - appearance: Boy, 7 years old, very small for his age, snow-white hair that sticks up, large bright blue eyes
+    clothing: Clean white shirt, brown shorts, neat appearance from out of town
+    position: Crouched at base of tree, examining earlier discoveries
+    action: Animated gestures when telling stories, wide-eyed excitement at treasures
+  scene:
+    mainElements: 'Small presents left in hollowed knothole of oak tree on Radley property boundary: chewing gum, Indian-head
+      pennies, carved soap figures of children, broken pocket watch, spelling bee medal, ball of twine'
+    details: Ancient oak tree with gnarled trunk and hollow knothole at child height, dappled sunlight through leaves creating
+      magical atmosphere, Scout's careful extraction of wrapped items, sense of secret communication from unknown benefactor
+    background: Once-white house now slate-gray, sagging shutters, rotted rain-soaked shingles, overgrown yard with Johnson
+      grass and rabbit tobacco, rickety fence
+    atmosphere: Magic and mystery of unexpected gifts, growing understanding that someone watches and cares, children's mixture
+      of excitement and awe
+  composition:
+    cameraAngle: Close shot focusing on children's discovery at tree
+    focus: Scout reaching into knothole with treasures being revealed
+    depth: 'Foreground: children and tree trunk with gifts, middle ground: dappled sunlight and shadows, background: mysterious
+      gray house watching silently, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - '#2B2B2B'
+    - '#4A4A4A'
+    - '#6B6B6B'
+    - '#8C8C8C'
+    - '#ADADAD'
+    - '#CECECE'
+    - '#F0F0F0'
+    secondary:
+    - '#FFFFFF'
+    - '#1A1A1A'
+    background: white or off-white paper
+    usageNotes: Monochromatic grayscale only. Use varying shades for depth
+    saturation: none
+    contrast: medium to high
+  lineArt:
+    style: organic, hand-drawn
+    weight: variable (0.5-3px)
+    color: grayscale
+    texture: rough, sketchy with visible breaks
+    edgeTreatment: natural variations, multiple overlapping strokes
+  lighting:
+    type: traditional shading
+    direction: typically top-left
+    intensity: varies with pressure
+    shadows:
+      style: crosshatching and scribbling
+      color: darker graphite tones
+      opacity: built up through layering
+    highlights: paper showing through or eraser marks
+  rendering:
+    technique: traditional pencil on paper
+    texture: visible paper grain and tooth
+    detailLevel: varies from loose to highly detailed
+    finish: intentionally incomplete with visible process
+  perspective: traditional drawing perspectives
+  mood:
+    overall: artistic, unfinished, spontaneous
+    emotion: raw, authentic, contemplative
+    tempo: calm, thoughtful
+    keywords:
+    - artistic
+    - raw
+    - authentic
+    - traditional
+    - sketchy
+  postProcessing:
+    effects:
+    - paper texture
+    - graphite smudging
+    filters: none
+    adjustments:
+      saturation: '0'
+      contrast: natural pencil contrast
+  stylePrecedents:
+  - Leonardo da Vinci sketches
+  - Academic drawing studies
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

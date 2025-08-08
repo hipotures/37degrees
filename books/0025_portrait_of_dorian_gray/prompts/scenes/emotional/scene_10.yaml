@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Empty Chair Where Innocence Once Sat"
+  setting:
+    time: "Late Victorian London, night after revelations, 1880s"
+    location: "Victorian West End artist's studio, duże wysokie pomieszczenie with ogromne okno sięgające od podłogi do sufitu overlooking starannie pielęgnowany ogród, wiktoriańska kamienica interior now changed by absence"
+    weather: "Still night air with sense of aftermath"
+  characters:
+    - appearance: "Man, 30-35 years old, krzepki build, czarne jak węgiel włosy, szorstka silna twarz with intelektualny poważny wyraz now showing concern and confusion"
+      clothing: "Strój artysty-dżentelmena, less formal than aristocrats, possibly tweedowa marynarka, practical attire suitable for painting but now disheveled from distress"
+      position: "Standing alone in studio space previously filled with companionship, isolated figure in familiar space that now feels empty"
+      action: "Looking toward empty chair where his young friend once sat, handling przybory do rysowania with distracted movements, showing signs of worry and loss of creative focus"
+  scene:
+    mainElements: "Masywna drewniana sztaluga with completed portrait now standing as solitary witness to changed circumstances, przestrzeń otwarta feeling hollow without its previous occupants, empty chair or sofa where young man once posed and relaxed"
+    details: "Głębokie czerwienie i złoto perskich dywanów showing indentations where figures once gathered, jedwabne zasłony hanging still without garden breeze, przybory malarskie scattered and disorganized, gipsowe odlewy antycznych rzeźb seeming to watch empty space with blank eyes, ciemne polerowane drewno mebli reflecting solitary lamplight, no text or letters visible"
+    background: "View of starannie pielęgnowany ogród through wielkie okno now dark and mysterious, flowers closed and garden furniture empty, suggesting abandonment of previous peaceful routine"
+    atmosphere: "Profound sense of disruption and loss, familiar space made strange by absence of key figure, creative harmony broken by departure, ciężki zapach róż now seeming cloying rather than pleasant, silence where there was once animated conversation, sense that perfect aesthetic moment has been shattered and cannot be recovered"
+  composition:
+    cameraAngle: "Wide shot emphasizing emptiness and absence in previously harmonious space"
+    focus: "Solitary artist in disrupted studio, showing isolation and concern for departed friend"
+    depth: "Foreground: lone figure surrounded by evidence of disrupted routine, middle ground: empty furniture and scattered art supplies, background: dark window suggesting external world has intruded into aesthetic sanctuary"

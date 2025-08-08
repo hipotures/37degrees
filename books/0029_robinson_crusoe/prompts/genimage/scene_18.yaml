@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: 1685, deep night with moonlight creating silver landscapes, shadows within shadows
+    location: High observation post overlooking cannibal beach from concealed position
+    weather: Clear moonlit night with gentle breeze, perfect visibility but eerie atmosphere
+  characters:
+  - appearance: Mężczyzna, wiek od 27 do 55 lat, postawny i muskularny, ogorzały od słońca, długie niestrzyżone włosy, długa
+      gęsta broda przystrzyżona w tureckie wąsy mahometańskie, twarz poorana zmarszczkami od słońca, dziki barbarzyński wygląd
+    clothing: 'Kompletny strój z koziej skóry: wysoka stożkowata bezkształtna czapka z klapą chroniącą kark, krótka kurtka
+      z koziej skóry z sierścią na zewnątrz sięgająca do połowy uda, spodnie z koziej skóry do kolan z długą sierścią zwisającą
+      do półowy łydek, wysokie sznurowane buty z koziej skóry, szeroki pas z suszonej skóry'
+    position: Crouched behind rock formation, musket ready, watching beach below
+    action: Maintaining silent vigil over cannibal landing site, prepared to defend Friday if necessary
+  - appearance: Młody mężczyzna, wiek około 26 lat, wysoki i zgrabny o doskonale zbudowanej wysportowanej sylwetce, skóra
+      o jasnym oliwkowym odcieniu, długie czarne proste włosy, żywe błyskotliwe ciemne oczy, okrągła twarz o rysach określanych
+      jako europejskie, mały nos, cienkie usta, zęby białe jak kość słoniowa
+    clothing: 'Początkowo nagi, później ubrany przez Crusoe: lniane spodnie, kaftan z koziej skóry, czapka ze skóry zająca'
+    position: Positioned nearby with bow ready, perfectly still in moonlight
+    action: Using native hunting skills to remain invisible, watching for any sign of his former captors
+  scene:
+    mainElements: Odludna piaszczysta plaża na tropikalnej wyspie gdzie kanibale urządzają uczty visible below, moonlight
+      creating dramatic silver and black landscape, ocean waves gently lapping shore
+    details: Cold moonlight turning everything silver and creating deep black shadows, beach sand appearing almost white in
+      lunar illumination, scattered bones partially buried becoming more visible in stark light, ocean surface reflecting
+      moonlight in shimmering path, complete silence except for gentle wave sounds, tropical vegetation creating maze of shadows,
+      no human activity visible on empty beach
+    background: Endless ocean stretching to horizon under star-filled sky, coastline extending in both directions bathed in
+      moonlight, sleeping island landscape
+    atmosphere: Tense vigilance in beautiful but dangerous night setting, mixture of natural beauty and human threat, protective
+      friendship demonstrated through shared danger, moonlit world both magical and menacing
+  composition:
+    cameraAngle: High angle looking down at beach with figures concealed in foreground shadows
+    focus: Two figures maintaining watch positions, moonlit beach below showing past evidence of horror
+    depth: 'Foreground: shadowy concealment among rocks, Middle: watching figures with weapons, Background: silver moonlit
+      beach and ocean, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia ink
+    - brown ink
+    background: white or aged paper
+    usageNotes: Monochromatic, tone through line density
+    saturation: none
+    contrast: created through line spacing
+  lineArt:
+    style: systematic parallel lines
+    weight: consistent, fine
+    color: black or brown ink
+    texture: created entirely through lines
+    edgeTreatment: defined by line direction changes
+  lighting:
+    type: implied through line density
+    direction: shown through hatching direction
+    intensity: varies with line spacing
+    shadows:
+      style: dense crosshatching
+      color: black ink
+      opacity: line density
+    highlights: sparse or no lines
+  rendering:
+    technique: traditional pen technique
+    texture: entirely line-based
+    detailLevel: high through careful line work
+    finish: hand-drawn quality
+  perspective: traditional, often architectural
+  mood:
+    overall: classic, scholarly, detailed
+    emotion: contemplative, serious, refined
+    tempo: measured, careful
+    keywords:
+    - classic
+    - scholarly
+    - refined
+    - traditional
+    - meticulous
+  stylePrecedents:
+  - Albrecht Dürer
+  - Rembrandt etchings
+  - Scientific illustration
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

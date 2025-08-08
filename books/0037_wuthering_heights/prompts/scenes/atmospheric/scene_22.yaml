@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Blizzard Conditions Besieging Stone Fortress"
+  setting:
+    time: "Late Georgian period Yorkshire, deep winter night with violent storm, extreme weather conditions"
+    location: "Remote stone farmhouse from 1500s positioned on exposed Yorkshire hilltop, massive fortress-like structure with thick walls built to withstand constant winds, narrow deep-set windows, surrounded by stunted fir trees and thorns bent by prevailing winds"
+    weather: "Violent blizzard with driving snow and fierce winds, whiteout conditions"
+  characters:
+    - appearance: "Middle-aged woman, described as stout with occasional breathing problems, practical honest face, dress and manner of respectable servant, age ranging from young woman to middle-aged throughout story"
+      clothing: "Simple practical servant's dress in dark colors, clean apron, modest cap, clothing always neat and appropriate to her station as housekeeper"
+      position: "Adding wood to enormous fireplace, battling cold seeping through stone walls"
+      action: "Stoking fire against bitter cold, movements showing determination to maintain warmth and life against hostile elements"
+  scene:
+    mainElements: "Central living room called 'the house' with enormous open fireplace blazing desperately against invading cold, thick stone walls proving their defensive purpose against nature's assault, narrow deep-set windows nearly blocked by driven snow"
+    details: "Violent wind drives snow horizontally against narrow windows creating natural bars of white, enormous fireplace roars with maximum fire fighting bitter cold, thick stone walls conduct cold despite their massive strength, snow accumulates against window glass reducing interior light, wind howls constantly around fortress-like structure, interior warmth battles losing war against winter siege, no text or letters visible"
+    background: "Yorkshire moorland completely invisible in whiteout conditions, world reduced to stone shelter battling elements"
+    atmosphere: "Elemental battle between human shelter and natural forces, sense of survival depending on fire and stone walls, air carries smoke and desperate warmth fighting penetrating cold, atmosphere of isolation and endurance against overwhelming odds"
+  composition:
+    cameraAngle: "Interior shot emphasizing fireplace warmth against snow-blocked windows"
+    focus: "Figure stoking fire with snow-covered windows showing blizzard outside, contrast between warmth and cold"
+    depth: "Foreground blazing fireplace with sparks, middle ground figure working at fire, background snow-covered windows blocking outside view"

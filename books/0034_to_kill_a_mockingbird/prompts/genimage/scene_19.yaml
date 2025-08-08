@@ -1,0 +1,101 @@
+sceneDescription:
+  setting:
+    time: 1934, late summer afternoon, tragedy aftermath
+    location: Small white wooden frame house on main street Maycomb Alabama, typical Southern cottage with deep front porch
+    weather: Heavy oppressive heat, storm clouds gathering
+  characters:
+  - appearance: Man, late 40s, tall and thin build, graying brown hair, wire-rimmed glasses, dignified weathered face
+    clothing: Dark three-piece suit, white dress shirt, dark tie, black leather shoes
+    position: Sitting heavily in porch chair, head bowed in grief
+    action: Calm, measured movements, removes glasses when concentrating
+  - appearance: White woman, 50s, imposing solid build like royalty, stern expression, wire-rimmed glasses
+    clothing: Proper dark dress with corset, petticoats, elegant but severe Southern lady attire
+    position: Standing behind Atticus's chair, hand on his shoulder
+    action: Rare moment of family solidarity, comforting brother
+  - appearance: Girl, 6-9 years old, small and slender build, short straight brown hair with bangs, expressive face with tomboyish
+      features
+    clothing: Blue denim overalls, white cotton shirt, bare feet or simple brown shoes
+    position: Sitting on porch steps, trying to understand adult grief
+    action: Confused by adult world of injustice and death
+  - appearance: Boy, 10-13 years old, tall and lean athletic build, short brown hair, serious expression, left arm shorter
+      than right after injury
+    clothing: White cotton shirt, brown knee-length shorts, brown leather shoes
+    position: Leaning against porch railing, staring into distance
+    action: Bitter understanding of how cruel the world can be
+  scene:
+    mainElements: Clean well-maintained family home, refuge of stability and moral guidance
+    details: Family gathered in shock and grief over news of Tom Robinson's death, weight of failed justice crushing idealistic
+      hopes, storm clouds matching emotional darkness
+    background: White painted wood siding, green shutters, wide porch with swing and rocking chairs, central hallway layout
+    atmosphere: Profound sadness and moral exhaustion, family bonds strengthening under tragedy, loss of innocence complete
+  composition:
+    cameraAngle: Medium shot of porch scene with gathering storm
+    focus: Family dealing with aftermath of injustice and death
+    depth: 'Foreground: grief-stricken family on porch, middle ground: oppressive summer heat, background: threatening storm
+      clouds, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - '#2B2B2B'
+    - '#4A4A4A'
+    - '#6B6B6B'
+    - '#8C8C8C'
+    - '#ADADAD'
+    - '#CECECE'
+    - '#F0F0F0'
+    secondary:
+    - '#FFFFFF'
+    - '#1A1A1A'
+    background: white or off-white paper
+    usageNotes: Monochromatic grayscale only. Use varying shades for depth
+    saturation: none
+    contrast: medium to high
+  lineArt:
+    style: organic, hand-drawn
+    weight: variable (0.5-3px)
+    color: grayscale
+    texture: rough, sketchy with visible breaks
+    edgeTreatment: natural variations, multiple overlapping strokes
+  lighting:
+    type: traditional shading
+    direction: typically top-left
+    intensity: varies with pressure
+    shadows:
+      style: crosshatching and scribbling
+      color: darker graphite tones
+      opacity: built up through layering
+    highlights: paper showing through or eraser marks
+  rendering:
+    technique: traditional pencil on paper
+    texture: visible paper grain and tooth
+    detailLevel: varies from loose to highly detailed
+    finish: intentionally incomplete with visible process
+  perspective: traditional drawing perspectives
+  mood:
+    overall: artistic, unfinished, spontaneous
+    emotion: raw, authentic, contemplative
+    tempo: calm, thoughtful
+    keywords:
+    - artistic
+    - raw
+    - authentic
+    - traditional
+    - sketchy
+  postProcessing:
+    effects:
+    - paper texture
+    - graphite smudging
+    filters: none
+    adjustments:
+      saturation: '0'
+      contrast: natural pencil contrast
+  stylePrecedents:
+  - Leonardo da Vinci sketches
+  - Academic drawing studies
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

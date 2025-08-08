@@ -1,0 +1,103 @@
+sceneDescription:
+  setting:
+    time: 1771 August, afternoon, warm summer light
+    location: Warm domestic environment filled with sounds of children laughing, pianoforte music, domestic activities, scent
+      of cooking and beeswax candles, orderly comfortable middle-class home
+    weather: Clear summer afternoon with golden sunlight streaming through windows
+  characters:
+  - appearance: Young man, 24 years old, slender athletic build, average height, expressive dark eyes, dark brown hair gathered
+      simply at the nape with a black ribbon, clean-shaven with sharp jawline, intensely emotional facial expressions capable
+      of extreme joy and deep melancholy
+    clothing: Iconic blue woolen frock coat with brass buttons, bright yellow silk waistcoat, cream-colored knee-length breeches,
+      white linen shirt with ruffled jabots, white silk stockings, brown leather riding boots with small heel and brass buckle
+    position: Seated across from Albert, leaning slightly forward with genuine interest
+    action: Listening intently to Albert speak, genuinely trying to like his rival, face showing internal struggle between
+      affection and jealousy, gestures animated but slightly forced
+  - appearance: Mature man, 31 years old, solid stocky build, tall stature, composed intelligent face, light brown hair in
+      powdered formal wig, clean-shaven, steady gray eyes, dignified bearing
+    clothing: Dark brown woolen frock coat with silver buttons, beige silk waistcoat, dark brown knee-length breeches, white
+      linen shirt with simple white cravat, white stockings, polished black leather shoes with silver buckles
+    position: Sitting comfortably in his own home, relaxed and welcoming
+    action: Speaking thoughtfully about practical matters, completely at ease, occasionally glancing toward Lotta with quiet
+      confidence of secure love, treating Werter as honored friend
+  - appearance: Young woman, 20 years old, medium height, graceful slender figure, striking black eyes, lively red lips, fresh
+      rosy cheeks, chestnut brown hair styled in simple elegant updo with loose curls framing her face, natural healthy complexion
+    clothing: Simple white cotton dress with fitted bodice and full skirt, bright pink silk ribbons at shoulders and across
+      the chest, white cotton cap with lace trim, simple brown leather shoes with small heel
+    position: Moving between kitchen and sitting room, attending to domestic tasks
+    action: Serving refreshments to both men with equal kindness, unaware of undercurrents, happy in her secure domestic world
+  scene:
+    mainElements: Two-story house with white plastered walls and dark timber framing, red tile roof, heavy wooden front door
+      with brass knocker, diamond-paned windows with wooden shutters, kitchen garden and fruit trees behind house
+    details: Warm afternoon sunlight fills comfortable middle-class interior through diamond-paned windows, simple wooden
+      furniture shows signs of careful maintenance and domestic pride, sound of children playing in garden drifts through
+      open windows, aroma of brewing tea and fresh bread creates homely atmosphere, men's conversation polite but charged
+      with unspoken tension, Albert's confident ease contrasts with Werter's barely controlled emotion, Lotta moves between
+      them like innocent catalyst unaware of the drama she creates, no text or letters visible
+    background: Through windows, peaceful garden shows vegetables and fruit trees, village street visible beyond with neighbors
+      going about daily business, church spire rises in distance
+    atmosphere: Complex emotional tension disguised as friendship, civilized surface hiding passionate undercurrents, generous
+      hospitality making jealousy more painful, domestic security that Werter yearns for but cannot have, friendship genuine
+      despite impossible circumstances
+  composition:
+    cameraAngle: Medium shot capturing triangle of relationships in domestic setting
+    focus: Three figures in complex emotional dance, two men watching each other while woman moves between them
+    depth: 'Foreground: intimate conversation between rivals, middle ground: domestic interior details, background: peaceful
+      village life through windows'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

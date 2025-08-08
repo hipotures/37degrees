@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: 1772 December 22, midnight, single candle burning
+    location: Small chamber with single window overlooking garden, wooden writing desk with chair, narrow bed with white linens,
+      washstand with ceramic basin, wooden chest for belongings, bookshelf with few volumes
+    weather: Bitter cold night with snow falling steadily, complete stillness
+  characters:
+  - appearance: Young man, 24 years old, slender athletic build, average height, expressive dark eyes, dark brown hair gathered
+      simply at the nape with a black ribbon, clean-shaven with sharp jawline, intensely emotional facial expressions capable
+      of extreme joy and deep melancholy
+    clothing: Iconic blue woolen frock coat with brass buttons, bright yellow silk waistcoat, cream-colored knee-length breeches,
+      white linen shirt with ruffled jabots, white silk stockings, brown leather riding boots with small heel and brass buckle
+    position: Seated at writing desk, perfectly still and composed
+    action: Staring at blank piece of paper with absolute calm that follows extreme decision, pen poised but motionless, face
+      expressing eerie peace of someone who has passed beyond suffering into final resolution
+  scene:
+    mainElements: Small chamber with single window overlooking garden, wooden writing desk with chair, narrow bed with white
+      linens, washstand with ceramic basin, wooden chest for belongings, bookshelf with few volumes
+    details: Room unnaturally neat and organized as if prepared for final departure, personal belongings arranged with unusual
+      precision, matched pair of flintlock pistols with walnut stocks, brass fittings, steel barrels eight inches long visible
+      on desk beside writing materials, small octavo volume bound in plain brown paper covers (Emilia Galotti) lies open,
+      sheets of cream-colored paper covered in passionate handwriting scattered about represent completed farewell letters,
+      single candle burns with steady flame creating island of light in vast darkness, no sound except scratching of pen and
+      distant church bell marking midnight hour, no text or letters visible except in his own handwriting
+    background: Through window, snow falls steadily on silent village, no lights visible in other houses, world appears completely
+      asleep and unaware of approaching tragedy
+    atmosphere: Supernatural calm of absolute decision, time suspended before irreversible action, peace that passes understanding
+      after storm of emotion, eye of hurricane where all motion stops, moment balanced on knife's edge between life and death,
+      terrible serenity of completed destiny
+  composition:
+    cameraAngle: Medium shot from slightly behind showing figure at desk with pistols visible
+    focus: Motionless figure in moment of fatal calm, surrounded by instruments of both creation and destruction
+    depth: 'Foreground: figure at desk with pen and pistol, middle ground: precisely arranged room prepared for departure,
+      background: snow-covered world beyond window sleeping in ignorance'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

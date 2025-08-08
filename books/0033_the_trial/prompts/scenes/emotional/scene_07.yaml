@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Shadows Lengthening"
+  setting:
+    time: "Early 1910s, Sunday afternoon following telephone summons"
+    location: "Maze of low-ceilinged attic spaces and storerooms in old Central European tenement building, hidden from public view on highest floors"
+    weather: "Cloudy afternoon with little natural light reaching interior spaces"
+  characters:
+    - appearance: "Man, 30 years old, average height with lean build, dark brown hair neatly combed, intelligent face with regular features, clean-shaven with pale complexion, becoming increasingly gaunt and tired-looking as stress mounts, dark circles under eyes, nervous ticks developing"
+      clothing: "Well-tailored dark charcoal suit, crisp white shirt with high starched collar, conservative dark tie, polished leather shoes, black formal overcoat when outdoors, always impeccably dressed despite growing internal turmoil"
+      position: "Climbing narrow staircases, moving through dark corridors, shoulders beginning to hunch forward"
+      action: "Searching through building labyrinth with growing disorientation, checking doors systematically, movements becoming less confident and more defensive"
+  scene:
+    mainElements: "Network of cramped rooms connected by narrow corridors with sloping ceilings, exposed wooden beams, stacks of dusty legal documents, old wooden furniture, small dormer windows"
+    details: "Steep wooden staircases creaking underfoot, dust motes visible in shafts of weak light, shadows growing longer and deeper, maze-like architecture creating confusion and claustrophobia, no text or letters visible"
+    background: "Labyrinthine building interior suggesting bureaucratic complexity and deliberate obfuscation"
+    atmosphere: "Oppressively stuffy air with no ventilation, overwhelming smell of dust and decay, suffocating heat, sounds of rustling papers and muffled conversations, labyrinthine layout causing disorientation"
+  composition:
+    cameraAngle: "Tight shots emphasizing claustrophobic spaces and disorientation"
+    focus: "Physical environment reflecting protagonist's growing psychological confusion"
+    depth: "Foreground: protagonist moving uncertainly through passages, middle ground: cramped attic spaces, background: shadows and darkness suggesting infinite bureaucratic maze"

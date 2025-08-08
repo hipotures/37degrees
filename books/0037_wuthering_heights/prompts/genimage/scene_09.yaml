@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: Late Georgian period Yorkshire, midday storm beginning, first drops of approaching downpour
+    location: Vast open rolling heathland between the two houses, wild untamed moorland stretching for miles, covered in heather
+      that blooms purple-pink in late summer, scattered with moss-covered boulders and peat bogs, few gnarled trees shaped
+      by wind
+    weather: Storm breaking overhead, first heavy raindrops hitting dry ground, wind picking up dramatically
+  characters:
+  - appearance: Girl to young woman 0-18 years, beautiful golden curling hair inherited from Lintons, dark expressive eyes
+      inherited from Earnshaws, very pretty combining features of both families
+    clothing: Simple dresses progressing to elegant Regency-style gowns as she matures, empire waist, light flowing fabrics,
+      colors reflecting her genteel upbringing
+    position: Caught in open moorland as storm breaks, hair and dress whipping in sudden wind
+    action: Running toward shelter as first drops fall, looking up at suddenly dark sky with mix of excitement and alarm
+  scene:
+    mainElements: Purple blooming heather suddenly darkened by storm shadow, first large raindrops creating tiny explosions
+      of dust from dry paths worn by sheep, wind picking up papers and debris, dramatic sky transformation from light to dark
+    details: Large scattered raindrops hit dusty moorland path creating small puffs of dust and dark spots on dry earth, wind
+      suddenly increases causing heather and grass to bend and wave, dark storm clouds race overhead creating moving shadows,
+      rocky outcrops provide potential shelter, air pressure drops noticeably before deluge, no text or letters visible
+    background: Rolling moorland now dark under storm clouds, distant lightning visible on horizon, landscape transforming
+      from peaceful to threatening
+    atmosphere: Sudden drama and power of nature unleashed, sense of vulnerability in open space, air electric with storm
+      energy and scent of approaching rain, atmosphere of wild natural forces beyond human control
+  composition:
+    cameraAngle: Medium shot showing figure against dramatic sky transformation
+    focus: Running figure with whipping hair and clothing, first raindrops visible as streaks
+    depth: Foreground dusty path with first raindrops, middle ground running figure, background dark storm clouds with lightning
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1840s Missouri, noon hour during school lunch break
+    location: Interior of one-room schoolhouse, desks and benches arranged in rows
+    weather: Warm summer day with bright sunlight streaming through windows
+  characters:
+  - appearance: Boy, 12-13 years old, lean build with curly brown hair, earnest and romantic expression
+    clothing: School clothes - brown trousers, cotton shirt, barefoot, more carefully groomed than usual
+    position: Sitting very close to girl at shared wooden desk, leaning toward her
+    action: Teaching girl to draw, guiding her hand with pencil, speaking seriously about marriage customs
+  - appearance: Girl, 12 years old, delicate build, golden braids, blue eyes, blushing and shy but intrigued
+    clothing: White summer dress with embroidered pantaloons, neat and pristine
+    position: Seated at desk beside boy, turned slightly toward him
+    action: Learning to draw while listening to boy's explanations, alternating between shy smiles and serious attention
+  scene:
+    mainElements: Empty one-room schoolhouse with rows of scarred wooden desks, black slate board on front wall, cast-iron
+      stove in center, tall windows letting in bright light
+    details: Slate and pencil on desk for drawing lesson, lunch pails abandoned nearby, dust motes dancing in sunbeams, wooden
+      floor worn smooth by generations of children, no text or letters visible
+    background: Schoolmaster's desk at front of room, recitation bench, walls lined with simple educational charts, coats
+      hanging on wall pegs
+    atmosphere: Intimate childhood romance, innocence mixed with serious play-acting of adult rituals, summer afternoon stillness
+  composition:
+    cameraAngle: Medium close shot focusing on two children at shared desk
+    focus: Tender moment of childhood romance, serious game-playing about adult commitments
+    depth: 'Foreground: two children sharing desk in intimate conversation, middle ground: empty classroom setting, background:
+      traditional schoolroom elements suggesting education and growth'
+visualElements:
+  colorPalette:
+    primary:
+    - bold red
+    - navy blue
+    - black
+    secondary:
+    - yellow
+    - green
+    - skin tone
+    background: skin tone or simple background
+    usageNotes: Limited palette designed for skin application
+    saturation: high (bold, vibrant colors)
+    contrast: very high (bold black outlines)
+  lineArt:
+    style: very bold, thick black outlines
+    weight: heavy, consistent thickness
+    color: solid black
+    texture: smooth, solid lines
+    edgeTreatment: rounded ends, smooth curves
+  lighting:
+    type: flat lighting with minimal shading
+    direction: even, front-lit
+    intensity: consistent
+    shadows:
+      style: simple solid color shadows
+      color: darker version of base color
+      opacity: solid
+    highlights: minimal, solid color highlights
+  rendering:
+    technique: simplified, iconic representation
+    texture: smooth, flat colors
+    detailLevel: moderate (clear iconic details)
+    finish: flat, bold appearance
+  perspective: simple, frontal views
+  mood:
+    overall: bold, iconic, maritime
+    emotion: strength, tradition, pride
+    tempo: strong, classic
+    keywords:
+    - bold
+    - iconic
+    - traditional
+    - maritime
+    - strong
+  stylePrecedents:
+  - Sailor Jerry Collins tattoos
+  - Norman Collins flash sheets
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

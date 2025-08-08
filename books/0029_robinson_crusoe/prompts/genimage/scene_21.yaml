@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1690s, seasonal transition showing same location with dramatic seasonal shift
+    location: Główna siedziba Crusoe u podnóża stromego skalistego wzgórza na tropikalnej wyspie, years after abandonment
+    weather: Different season from original construction, showing natural reclamation
+  characters:
+  - appearance: Starszy mężczyzna, wiek 55+ lat, postawny i godny, twarz ogolona, nosi długą lokowaną perukę w kolorze brązowym,
+      twarz statecznego zamożnego dżentelmena z subtelnymi śladami przeżytych lat
+    clothing: 'Elegancki strój dżentelmena z końca XVII wieku: długi płaszcz z ciemnej wełny lub brokatu, dopasowana kamizelka,
+      bryczesy do kolan, biała lniana koszula z koronkowym żabotem, jedwabne pończochy, skórzane buty z ozdobnymi srebrnymi
+      klamrami'
+    position: Standing among overgrown remains of his former fortress, visiting as successful plantation owner
+    action: Contemplating passage of time and changes in his life, reflecting on years of survival versus current prosperity
+  scene:
+    mainElements: Półokrągła palisada z podwójnego rzędu grubych zaostrzonych pali wbitych głęboko w ziemię partially collapsed
+      and overgrown, przestrzeń między palami wypełniona kablami okrętowymi now tangled with vines, nature reclaiming human
+      construction, tent site now grown over with tropical vegetation
+    details: Wooden palisade posts weathered and some fallen, tropical vegetation growing through gaps in fortification, vines
+      and creepers covering much of original construction, jaskinia wykuta w skale still visible but partially obscured by
+      plant growth, Prosty duży drewniany krzyż wbity w ziemię z licznymi nacięciami still standing but weathered, new growth
+      creating different seasonal character than during occupation
+    background: Same rocky hill formation but vegetation has changed with seasons and abandonment, forest has expanded closer
+      to former clearing
+    atmosphere: Melancholy beauty of nature reclaiming human habitation, sense of time's passage and life's changes, contrast
+      between past struggle for survival and current comfort, philosophical reflection on impermanence
+  composition:
+    cameraAngle: Wide shot showing extent of natural reclamation and figure contemplating changes
+    focus: Well-dressed figure among overgrown ruins, contrast between past and present circumstances
+    depth: 'Foreground: overgrown fortress remains, Middle: contemplative figure in fine clothes, Background: unchanged rocky
+      hillside with seasonal vegetation, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia ink
+    - brown ink
+    background: white or aged paper
+    usageNotes: Monochromatic, tone through line density
+    saturation: none
+    contrast: created through line spacing
+  lineArt:
+    style: systematic parallel lines
+    weight: consistent, fine
+    color: black or brown ink
+    texture: created entirely through lines
+    edgeTreatment: defined by line direction changes
+  lighting:
+    type: implied through line density
+    direction: shown through hatching direction
+    intensity: varies with line spacing
+    shadows:
+      style: dense crosshatching
+      color: black ink
+      opacity: line density
+    highlights: sparse or no lines
+  rendering:
+    technique: traditional pen technique
+    texture: entirely line-based
+    detailLevel: high through careful line work
+    finish: hand-drawn quality
+  perspective: traditional, often architectural
+  mood:
+    overall: classic, scholarly, detailed
+    emotion: contemplative, serious, refined
+    tempo: measured, careful
+    keywords:
+    - classic
+    - scholarly
+    - refined
+    - traditional
+    - meticulous
+  stylePrecedents:
+  - Albrecht Dürer
+  - Rembrandt etchings
+  - Scientific illustration
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

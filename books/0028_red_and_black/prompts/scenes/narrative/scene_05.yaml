@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The conquest of a hand by moonlight"
+  setting:
+    time: "1820s France during Bourbon Restoration, late summer night under full moon"
+    location: "Country house surrounded by romantic garden with large linden tree, secluded paths, benches for evening conversations, peaceful rural setting with mountain views"
+    weather: "Clear calm night with bright moonlight"
+  characters:
+    - appearance: "Young man, age 19-23, short stature with small, slender build almost feminine in delicacy, dark chestnut hair worn slightly longer in 1820s style, large expressive black eyes, regular delicate facial features with aquiline nose, extremely pale complexion that turns bright red easily under emotional stress"
+      clothing: "Black clerical/secretary attire - simple black frock coat, white linen shirt with high stiff collar, dark trousers, plain black shoes"
+      position: "Sitting tensely on bench, body rigid with internal struggle"
+      action: "Slowly extending trembling hand toward hers with extraordinary effort and determination"
+    - appearance: "Woman around 30 years old, tall with graceful elegant figure, dazzling fresh complexion, natural beauty without artifice, moves with innate grace and charm when comfortable"
+      clothing: "Elegant but restrained provincial fashion - silk or muslin summer dresses in muted pastel colors, well-made but not ostentatious, appropriate for wealthy provincial matron"
+      position: "Seated beside him, hand resting on bench between them"
+      action: "Initially startled by his touch, then allowing her hand to remain in his grasp"
+  scene:
+    mainElements: "Large linden tree creating dramatic shadows in moonlight, wooden bench where this crucial moment unfolds, garden paths silver in lunar glow, distant house with few lit windows"
+    details: "Moonlight filtering through linden leaves creating patterns of light and shadow, night-blooming flowers releasing fragrance, their two hands touching for first time creating electric connection, absolute silence except for night sounds"
+    background: "Country house sleeping peacefully, mountain peaks silhouetted against star-filled sky, forest edges mysterious in moonlight"
+    atmosphere: "Moment of supreme romantic tension and triumph, dangerous transgression of social boundaries, young man's victory over his own fear and social position, mutual recognition of forbidden attraction"
+  composition:
+    cameraAngle: "Close shot focusing on the crucial hand-holding moment"
+    focus: "Their joined hands as symbol of conquered barriers and forbidden intimacy"
+    depth: "Joined hands in immediate foreground, their faces showing emotion in middle ground, moonlit garden in background, no text or letters visible"

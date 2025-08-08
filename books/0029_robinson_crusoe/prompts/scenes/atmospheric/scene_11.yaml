@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Afternoon Light Through Forest Canopy"
+  setting:
+    time: "1668, afternoon with slanted light through trees creating patterns"
+    location: "Dense tropical forest interior of island, hunting ground for wild goats"
+    weather: "Clear afternoon following storm, dust motes visible in sunbeams, humid air"
+  characters:
+    - appearance: "Mężczyzna, wiek od 27 do 55 lat, postawny i muskularny, ogorzały od słońca, długie niestrzyżone włosy, długa gęsta broda przystrzyżona w tureckie wąsy mahometańskie, twarz poorana zmarszczkami od słońca, dziki barbarzyński wygląd"
+      clothing: "Kompletny strój z koziej skóry: wysoka stożkowata bezkształtna czapka z klapą chroniącą kark, krótka kurtka z koziej skóry z sierścią na zewnątrz sięgająca do połowy uda, spodnie z koziej skóry do kolan z długą sierścią zwisającą do połowy łydek, wysokie sznurowane buty z koziej skóry, szeroki pas z suszonej skóry"
+      position: "Moving carefully through dappled forest light, musket ready"
+      action: "Stalking wild goats for food, using knowledge of animal patterns gained through years of observation"
+  scene:
+    mainElements: "Dense tropical forest with multiple canopy layers, shafts of golden afternoon sunlight penetrating through gaps in leaves, lush vegetation at multiple heights, vines and creepers creating natural corridors"
+    details: "Slanted light beams creating dramatic patterns on forest floor, dust motes and tiny insects visible in sunbeams, post-rain humidity creating slight haze, water droplets still clinging to large tropical leaves, dappled light and shadow creating natural camouflage, fallen logs and forest debris forming natural pathways, distant sound of small stream trickling"
+    background: "Multi-layered forest canopy with various tropical trees, filtered light creating mysterious depth, glimpses of blue sky through occasional gaps in leaves"
+    atmosphere: "Peaceful solitude in nature's cathedral, sense of being perfectly adapted to environment, afternoon light creating magical quality in familiar surroundings, hunter at one with natural world"
+  composition:
+    cameraAngle: "Medium shot through forest emphasizing play of light and shadow"
+    focus: "Figure moving through dappled light patterns, interaction with natural environment"
+    depth: "Foreground: forest floor with light patterns, Middle: figure with weapon in forest, Background: layered forest canopy and filtered light, no text or letters visible"

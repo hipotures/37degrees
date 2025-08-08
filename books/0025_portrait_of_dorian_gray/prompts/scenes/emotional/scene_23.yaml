@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "New Emotional Baseline - Changed Relationships"
+  setting:
+    time: "Late Victorian London, several days after resolution, 1880s"
+    location: "Aristocratic Mayfair West End townhouse library, bardzo uroczy pokój in Victorian gentleman's residence now permanently changed by recent events"
+    weather: "Steady, calm weather suggesting new stability"
+  characters:
+    - appearance: "Man, 30-35 years old, wysoki and pełen gracji, ciemne włosy, spiczasta brązowa broda, ciemne ospałe marzycielskie oczy now showing different expression - less cynical, more sobered by recent events, oliwkowa cera, wyraz twarzy now showing contemplation rather than cruel amusement"
+      clothing: "Elegancki arystokratyczny strój dandysa in ciemne kolory, perfectly tailored garments befitting his status but worn with less theatrical flair"
+      position: "Sitting in different chair than before, spatial configuration showing changed perspective on life"
+      action: "Reading or writing with more serious concentration, smoking papierośów in elegant papierośnicy but with less theatrical flourish, handling cygarniczka and laska with subdued manner, showing changed relationship to previous aesthetic philosophy"
+  scene:
+    mainElements: "Wysoka boazeria z dębu bejcowana na oliwkowy kolor now arranged differently, furniture moved to new positions reflecting changed circumstances, kremowy fryz and wypukłe sztukaterie now seeming less oppressive, more simply elegant"
+    details: "Mały stolik z drewna satynowego now holding different objects - perhaps memorial items or changed reading material, statuetka Clodiona repositioned, kilka dużych niebieskich chińskich waz now holding fresh flowers rather than exotic displays, wazon z papuzimi tulipanami replaced with simpler, more natural arrangements, no text or letters visible"
+    background: "Małe okna z ołowianymi szybkami now clean and clear, allowing natural light creating bright, clear atmosphere"
+    atmosphere: "New emotional baseline established after moral crisis, stonowana elegancja now genuine rather than affected, different expressions on familiar faces showing changed perspectives, relationships shown through new spatial configurations, environmental healing visible in cleaner, lighter atmosphere, sense of lessons learned and wisdom gained through terrible experience"
+  composition:
+    cameraAngle: "Medium shot showing changed behavior and environment in familiar space"
+    focus: "Figure showing new emotional baseline and changed relationship to previous aesthetic philosophy"
+    depth: "Foreground: figure with altered manner and new perspective, middle ground: rearranged furnishings showing changed priorities, background: clearer windows suggesting increased moral clarity"

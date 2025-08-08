@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1651 September, pre-dawn darkness, last stars fading against deep blue sky
+    location: Historic city York in northern England, medieval cobblestone streets near city walls
+    weather: Clear autumn night transitioning to dawn, light mist rising from river valleys
+  characters:
+  - appearance: Young man, age 18-19 years, szczupła młodzieńcza sylwetka, gładko ogolona twarz, długie włosy do ramion w
+      naturalnym kolorze brązowym, energiczna postawa wyrażająca niepokój i pragnienie przygód
+    clothing: 'Strój zamożnej klasy średniej z 1651 roku: biała lniana koszula z koronkowym kołnierzem, dopasowany brązowy
+      dublet z rozcięciami na rękawach, szerokie bryczesy do kolan z ciemnej wełny, białe wełniane pończochy, skórzane buty
+      z ozdobnymi cholewami, ciemny płaszcz, kapelusz z szerokim rondem'
+    position: Walking quietly through empty street carrying small travel bundle
+    action: Moving stealthily toward city gates, frequently looking back toward family home, torn between guilt and determination
+  scene:
+    mainElements: Medieval timber-framed houses with dark oak beams against white plaster, narrow cobblestone street with
+      overhanging upper floors creating tunnel effect, massive stone York Minster cathedral silhouetted against deep blue
+      pre-dawn sky
+    details: Morning mist beginning to rise from River Ouse in distance, single bird perched on cathedral spire, shuttered
+      windows still dark, his footsteps echoing softly on wet cobblestones, small pools of water reflecting last fading stars,
+      chimneys beginning to release thin wisps of early morning smoke
+    background: Ancient stone city walls forming protective ring around sleeping city, rolling Yorkshire countryside beyond
+      walls shrouded in lifting mist
+    atmosphere: World holding its breath in transition between night and day, mixture of freedom and guilt, last moment of
+      innocence before life-changing decision, peaceful city unaware of young man's rebellion
+  composition:
+    cameraAngle: Low angle following behind figure, cathedral towering in background
+    focus: Young man's silhouette against emerging dawn light, path leading toward adventure
+    depth: 'Foreground: wet cobblestones and shadows, Middle: walking figure and houses, Background: cathedral spire and lightening
+      sky, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia ink
+    - brown ink
+    background: white or aged paper
+    usageNotes: Monochromatic, tone through line density
+    saturation: none
+    contrast: created through line spacing
+  lineArt:
+    style: systematic parallel lines
+    weight: consistent, fine
+    color: black or brown ink
+    texture: created entirely through lines
+    edgeTreatment: defined by line direction changes
+  lighting:
+    type: implied through line density
+    direction: shown through hatching direction
+    intensity: varies with line spacing
+    shadows:
+      style: dense crosshatching
+      color: black ink
+      opacity: line density
+    highlights: sparse or no lines
+  rendering:
+    technique: traditional pen technique
+    texture: entirely line-based
+    detailLevel: high through careful line work
+    finish: hand-drawn quality
+  perspective: traditional, often architectural
+  mood:
+    overall: classic, scholarly, detailed
+    emotion: contemplative, serious, refined
+    tempo: measured, careful
+    keywords:
+    - classic
+    - scholarly
+    - refined
+    - traditional
+    - meticulous
+  stylePrecedents:
+  - Albrecht Dürer
+  - Rembrandt etchings
+  - Scientific illustration
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

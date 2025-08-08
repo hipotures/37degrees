@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Morning Routine Disrupted"
+  setting:
+    time: "Early 1910s, early morning on 30th birthday"
+    location: "Medium-sized room in Austrian middle-class boarding house in Central European city, early 20th century tenement building with thick walls and high ceilings"
+    weather: "Overcast morning with grey light filtering through windows"
+  characters:
+    - appearance: "Man, 30 years old, average height with lean build, dark brown hair neatly combed, intelligent face with regular features, clean-shaven with pale complexion, becoming increasingly gaunt and tired-looking as stress mounts, dark circles under eyes, nervous ticks developing"
+      clothing: "White cotton nightshirt, later well-tailored dark charcoal suit, crisp white shirt with high starched collar, conservative dark tie, polished leather shoes, black formal overcoat when outdoors, always impeccably dressed despite growing internal turmoil"
+      position: "Initially lying in bed, then sitting up confused, finally standing near window"
+      action: "Awakening to unusual silence, checking time repeatedly, peering anxiously through window at neighbors across courtyard who seem to be watching him"
+  scene:
+    mainElements: "Simple dark wooden bed with white linens, wooden wardrobe, small writing desk near window, washbasin with pitcher and mirror, single window overlooking narrow courtyard or opposite building"
+    details: "Untouched breakfast tray should be present but isn't, rumpled bed sheets suggesting restless sleep, morning light revealing orderly room about to be invaded by chaos, pocket watch showing time, no text or letters visible"
+    background: "View through window of opposite tenement building where three elderly figures silhouetted against windows observe the scene below"
+    atmosphere: "Unsettling quiet disrupting normal routine, sense of being watched, anticipation of unknown threat about to materialize, calm before storm emotional state"
+  composition:
+    cameraAngle: "Medium shot focusing on protagonist in familiar domestic space"
+    focus: "Contrast between ordinary morning setting and growing sense of unease"
+    depth: "Foreground: confused protagonist in nightshirt, middle ground: sparse but orderly room furnishings, background: ominous watching figures across courtyard"

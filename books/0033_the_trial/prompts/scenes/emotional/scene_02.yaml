@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Invasion of Private Space"
+  setting:
+    time: "Early 1910s, morning following disrupted routine"
+    location: "Medium-sized room in Austrian middle-class boarding house in Central European city, early 20th century tenement building with thick walls and high ceilings"
+    weather: "Continued overcast with muted daylight"
+  characters:
+    - appearance: "Man, 30 years old, average height with lean build, dark brown hair neatly combed, intelligent face with regular features, clean-shaven with pale complexion, becoming increasingly gaunt and tired-looking as stress mounts, dark circles under eyes, nervous ticks developing"
+      clothing: "Well-tailored dark charcoal suit, crisp white shirt with high starched collar, conservative dark tie, polished leather shoes, black formal overcoat when outdoors, always impeccably dressed despite growing internal turmoil"
+      position: "Standing defensively in center of room, maintaining distance from intruders"
+      action: "Attempting to assert authority and control over his own space while facing two mysterious men who treat his private room as if it belongs to them"
+    - appearance: "Two middle-aged men, 40-50 years old, stocky build with pale flabby faces, expressionless features, physically similar to each other like bureaucratic twins, cold emotionless eyes"
+      clothing: "Formal black frock coats and top hats, white shirts with high collars, dark trousers, polished black shoes, dressed like 19th century undertakers or business executives"
+      position: "Moving freely through room as if they own it, one near wardrobe, other by window"
+      action: "Consuming protagonist's breakfast with casual indifference while delivering incomprehensible bureaucratic pronouncements"
+  scene:
+    mainElements: "Simple dark wooden bed with white linens, wooden wardrobe, small writing desk near window, washbasin with pitcher and mirror, single window overlooking narrow courtyard or opposite building"
+    details: "Breakfast tray being consumed by strangers, formal documents held but not shown, atmosphere of violated intimacy as private space becomes public tribunal, no text or letters visible"
+    background: "Domestic privacy transformed into bureaucratic stage, familiar objects now seeming alien and hostile"
+    atmosphere: "Surreal violation of personal sanctuary, emotional shock of powerlessness, normal world suddenly operating by unknown rules that exclude the inhabitant"
+  composition:
+    cameraAngle: "Wide shot capturing full violation of domestic space"
+    focus: "Emotional contrast between protagonist's distress and intruders' casual authority"
+    depth: "Foreground: distressed protagonist in defensive position, middle ground: casual intruders consuming his breakfast, background: once-safe room now transformed into theater of absurd judgment"

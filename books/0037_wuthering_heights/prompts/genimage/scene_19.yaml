@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: Late Georgian period Yorkshire, deep night with thick fog, limited visibility
+    location: Remote stone farmhouse from 1500s positioned on exposed Yorkshire hilltop, massive fortress-like structure with
+      thick walls built to withstand constant winds, narrow deep-set windows, surrounded by stunted fir trees and thorns bent
+      by prevailing winds
+    weather: Dense fog creating mysterious atmosphere, dampness in air, very limited visibility
+  characters:
+  - appearance: Strong young man about 24 years, thick brown curling hair, dark expressive eyes, handsome rugged features,
+      well-built athletic frame, hands tanned from farm work
+    clothing: Rough laborer's clothes, thick worn trousers, coarse shirt, heavy boots, garments suitable for outdoor work
+      but clean, clothing reflects his degraded status despite noble birth
+    position: Carrying lantern through foggy courtyard, moving cautiously
+    action: Navigating familiar terrain made mysterious by fog, lantern creating moving circle of light in dense mist
+  scene:
+    mainElements: Central living room called 'the house' barely visible through fog, narrow deep-set windows glowing like
+      distant beacons, massive ancient stone walls appearing and disappearing in mist, stunted fir trees creating ghostly
+      shapes in fog
+    details: Dense fog transforms familiar courtyard into mysterious landscape, lantern light creates golden halo in mist
+      with shadows within shadows, ancient stone walls appear and vanish in moving fog, narrow lit windows become distant
+      beacons in gray void, fog muffles all sound creating eerie silence, moisture beads on stone surfaces, no text or letters
+      visible
+    background: Yorkshire moorland completely invisible beyond few feet, fog creating complete isolation from wider world
+    atmosphere: Mystery and supernatural isolation, sense of familiar world transformed into something unknown, air thick
+      with moisture and scents of fog and damp earth, atmosphere of hidden presence and uncertainty
+  composition:
+    cameraAngle: Medium shot following lantern light through fog
+    focus: Figure with lantern creating golden light sphere in dense mist, mysterious shapes emerging and vanishing
+    depth: Foreground fog with lantern light, middle ground figure moving through mist, background shapes barely visible in
+      gray void
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Darcy's Secret Intervention in London"
+  setting:
+    time: "Early 19th century England, evening, midsummer"
+    location: "Modest lodgings in unfashionable part of London"
+    weather: "Warm summer evening with gaslight illuminating narrow streets"
+  characters:
+    - appearance: "Man, 28 years old, tall imposing height, handsome strong features, noble bearing, dark hair carefully styled in period fashion, serious expression that softens when genuinely pleased, athletic build from riding and outdoor activities, pale complexion typical of English gentleman"
+      clothing: "Dark traveling coat without usual refinement, plain attire suitable for moving through less fashionable areas unrecognized, no obvious signs of wealth or status"
+      position: "Standing in modest lodging room, speaking with evident authority"
+      action: "Negotiating with calm determination, clearly taking complete control of situation to protect Elizabeth's family"
+    - appearance: "Man, 26-27 years old, extremely handsome with fine countenance, good figure, pleasant address, charming smile that doesn't reach his calculating eyes, dark hair, superficial attractiveness"
+      clothing: "Civilian clothes rather than military uniform, showing signs of hasty dressing and recent dissolute living, no longer the immaculate officer"
+      position: "Seated at small table, looking sullen and trapped"
+      action: "Listening with resentful expression but clearly having no choice but to accept Darcy's terms"
+    - appearance: "Girl, 15 years old, tall for her age with full developing figure, dark hair like Elizabeth but worn in looser style, bright mischievous eyes, confident flirtatious expression, rosy complexion"
+      clothing: "Simple dress inappropriate for her situation, hair disheveled, appearance showing effects of scandalous adventure"
+      position: "Standing by window looking petulant and bored"
+      action: "Pouting at the serious negotiations, clearly not understanding the gravity of her situation"
+  scene:
+    mainElements: "Modest furnished lodgings in less fashionable London neighborhood, simple furniture and basic accommodations, candles providing flickering light, evidence of hurried occupation and uncomfortable circumstances"
+    details: "Small parlor with worn furniture, few personal belongings scattered about, candlelight casting long shadows, atmosphere of temporary and uncomfortable accommodation, papers and money visible on table suggesting financial arrangements being made, contrast between Darcy's dignity and shabby surroundings"
+    background: "Narrow window showing London street outside, sounds of urban life beyond, other lodgers in nearby rooms"
+    atmosphere: "Tension of desperate circumstances being resolved through determined intervention and financial sacrifice"
+  composition:
+    cameraAngle: "Medium shot emphasizing contrast between Darcy's nobility and sordid circumstances"
+    focus: "Darcy's determined intervention contrasted with Wickham's resentful submission"
+    depth: "Foreground: negotiation table with papers; middle ground: three figures in tense discussion; background: modest lodging details, no text or letters visible"

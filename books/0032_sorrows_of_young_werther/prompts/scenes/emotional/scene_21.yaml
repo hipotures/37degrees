@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Final Release - Shot in the Darkness"
+  setting:
+    time: "1772 December 22-23, midnight, single candle flame"
+    location: "Small chamber with single window overlooking garden, wooden writing desk with chair, narrow bed with white linens, washstand with ceramic basin, wooden chest for belongings, bookshelf with few volumes"
+    weather: "Deep winter night, snow continuing to fall in absolute silence"
+  characters:
+    - appearance: "Young man, 24 years old, slender athletic build, average height, expressive dark eyes, dark brown hair gathered simply at the nape with a black ribbon, clean-shaven with sharp jawline, intensely emotional facial expressions capable of extreme joy and deep melancholy"
+      clothing: "Iconic blue woolen frock coat with brass buttons, bright yellow silk waistcoat, cream-colored knee-length breeches, white linen shirt with ruffled jabots, white silk stockings, brown leather riding boots with small heel and brass buckle"
+      position: "Slumped over desk, having fallen forward from chair"
+      action: "Body motionless after the fatal shot, pistol fallen from nerveless fingers, blood staining the papers beneath his head, face finally at peace after long torment"
+  scene:
+    mainElements: "Small chamber with single window overlooking garden, wooden writing desk with chair, narrow bed with white linens, washstand with ceramic basin, wooden chest for belongings, bookshelf with few volumes"
+    details: "Candle flame flickers wildly from impact of gunshot then steadies again, acrid smoke of gunpowder hangs in still air, small octavo volume bound in plain brown paper covers (Emilia Galotti) lies open beside his head, farewell letters scattered and now stained with blood, matched flintlock pistol lies on floor where it fell from his hand after firing, snow continues falling silently outside window, room filled with profound stillness after violent interruption, scent of gunpowder mixed with candle wax and winter air, no text or letters visible except his own blood-stained writing"
+    background: "Village sleeps on undisturbed, no lights appear in response to gunshot, snow-covered world continues its peaceful slumber unaware of tragedy"
+    atmosphere: "Ultimate release from unbearable suffering, violence followed immediately by supernatural peace, mortal pain transformed into eternal rest, dramatic climax followed by complete stillness, storm finally ended in absolute calm"
+  composition:
+    cameraAngle: "Close shot of desk scene showing aftermath with symbolic objects"
+    focus: "Motionless figure finally at peace, surrounded by instruments of his passion - letters, book, pistol"
+    depth: "Foreground: tragic tableau at desk with all symbolic elements visible, middle ground: room as witness to final act, background: peaceful sleeping world beyond window"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "First Glimpse of Golden Beauty"
+  setting:
+    time: "1840s Missouri, sunny summer morning"
+    location: "Main street of St. Petersburg in front of Judge Thatcher's elegant house"
+    weather: "Bright summer morning with gentle breeze stirring dust on street"
+  characters:
+    - appearance: "Boy, 12-13 years old, lean build with curly brown hair, suddenly transfixed expression replacing casual swagger"
+      clothing: "Everyday clothes - brown trousers and cotton shirt, barefoot, but attempting to straighten appearance"
+      position: "Stopped mid-stride in street, one hand unconsciously smoothing hair"
+      action: "Staring with mouth slightly agape, then beginning exaggerated showing-off behavior - standing on hands, performing cartwheels"
+    - appearance: "Girl, 12 years old, delicate build, golden hair braided in two long plaits, blue eyes and charming smile, embodiment of girlish innocence"
+      clothing: "Pristine white summer dress with embroidered pantaloons visible beneath, small decorative apron, elegant bonnet"
+      position: "Standing in garden gate of finest house on street, holding small watering can"
+      action: "Tending to flowers in garden, glancing shyly toward boy's performance, pretending not to notice while obviously watching"
+  scene:
+    mainElements: "Elegant two-story house with painted white exterior and decorative trim, well-maintained garden with colorful flowers, wrought-iron gate separating yard from street"
+    details: "Dust clouds from boy's acrobatic performance, flower petals scattered by breeze, neat gravel path leading to house, polished brass door knocker, white picket fence with fresh paint, no text or letters visible"
+    background: "Other substantial houses of town's wealthy residents, mature shade trees lining street, glimpse of church spire in distance"
+    atmosphere: "Instant romantic fascination, contrast between boy's rough enthusiasm and girl's refined delicacy, summer morning full of possibility"
+  composition:
+    cameraAngle: "Medium wide shot showing both characters and elegant house setting"
+    focus: "Moment of first romantic attraction, class differences visible through clothing and setting"
+    depth: "Foreground: boy performing acrobatics in dusty street, middle ground: girl in garden gate, background: finest house in town representing wealth and status"

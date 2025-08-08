@@ -1,0 +1,92 @@
+sceneDescription:
+  setting:
+    time: Early 1910s, afternoon in artist's workspace
+    location: Small cramped attic studio in Central European tenement building filled with art supplies and identical landscape
+      paintings, bohemian creative space
+    weather: Afternoon light filtering through small attic windows
+  characters:
+  - appearance: Man, 30 years old, average height with lean build, dark brown hair neatly combed, intelligent face with regular
+      features, clean-shaven with pale complexion, becoming increasingly gaunt and tired-looking as stress mounts, dark circles
+      under eyes, nervous ticks developing
+    clothing: Well-tailored dark charcoal suit, crisp white shirt with high starched collar, conservative dark tie, polished
+      leather shoes, black formal overcoat when outdoors, always impeccably dressed despite growing internal turmoil
+    position: Seated on edge of bed, half in light from window, half in shadow, torn between hope and despair
+    action: Listening intently to explanations of possible solutions while simultaneously realizing their futility, face showing
+      conflict between desperate hope and growing understanding of impossibility
+  - appearance: Man, 35-40 years old, bohemian appearance with unkempt dark hair, sharp intelligent eyes, thin face with small
+      pointed beard, paint stains on hands and clothing, slightly disheveled look
+    clothing: Paint-stained artist's smock over simple dark trousers and shirt, worn leather boots, sometimes removes smock
+      to reveal wrinkled white shirt, practical working clothes of struggling artist
+    position: Moving restlessly around cramped space, gesturing toward paintings and door
+    action: Nervous and energetic movements, paces restlessly while talking, quick gesticulations with paint-stained hands,
+      frequently glances toward door as if expecting interruption
+  scene:
+    mainElements: Tiny attic room with sloped ceiling, small bed taking up most space, easels with identical paintings, art
+      supplies scattered about, door leading directly to court corridors
+    details: Dozens of identical landscape paintings suggesting endless repetition and futility, art supplies indicating creativity
+      constrained by institutional demands, direct connection to court system through hidden door, no text or letters visible
+    background: Creative space corrupted by institutional influence, artistic independence revealed as illusion
+    atmosphere: Moment caught between false hope and bitter reality, protagonist suspended between belief in possible solutions
+      and recognition of their impossibility
+  composition:
+    cameraAngle: Split lighting emphasizing protagonist caught between hope and despair
+    focus: Internal conflict between desperate hope for salvation and growing awareness of entrapment
+    depth: 'Foreground: protagonist caught between light and shadow, middle ground: cluttered artist''s studio, background:
+      hidden door suggesting inescapable institutional presence'
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

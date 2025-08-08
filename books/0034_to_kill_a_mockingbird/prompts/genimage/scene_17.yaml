@@ -1,0 +1,99 @@
+sceneDescription:
+  setting:
+    time: 1934, summer day, courthouse trial continues
+    location: Central courthouse building on town square in Maycomb Alabama, imposing but aging structure
+    weather: Hot oppressive afternoon, courtroom stifling with packed crowd
+  characters:
+  - appearance: White woman, 19 years old, thick-bodied from hard work, tangled brown-blonde hair, tries to stay clean despite
+      poverty
+    clothing: Faded pink cotton dress to the knees, worn dirty slippers
+    position: Sitting in witness stand, defensive and frightened
+    action: Defensive posture, shows effects of hard labor and fear
+  - appearance: Man, late 40s, tall and thin build, graying brown hair, wire-rimmed glasses, dignified weathered face
+    clothing: Dark three-piece suit, white dress shirt, dark tie, black leather shoes
+    position: Standing before witness stand, cross-examining gently
+    action: Respectful questioning despite hostile witness, treating her with dignity
+  - appearance: African-American man, 25 years old, strong well-built frame, left arm completely useless and 12 inches shorter
+      than right
+    clothing: Clean white shirt, dark trousers, humble respectful appearance
+    position: Seated at defendant's table, watching his accuser
+    action: Maintaining dignity despite false accusations, quiet strength
+  scene:
+    mainElements: Large brick and stone building with columns, sagging architectural details, courtroom with heavy oak benches,
+      separate balcony for colored section
+    details: Young woman breaking down under gentle cross-examination, revealing loneliness and desperation, courtroom watching
+      tragedy unfold, clash between truth and social expectations
+    background: Formal seat of justice, stuffy and oppressive during trial, symbol of legal system
+    atmosphere: Tragic revelation of abuse and fear, system forcing victim to become victimizer, justice corrupted by social
+      prejudice
+  composition:
+    cameraAngle: Medium shot focusing on witness stand and examining attorney
+    focus: Mayella in witness stand with Atticus conducting respectful cross-examination
+    depth: 'Foreground: witness stand with frightened young woman, middle ground: Atticus questioning with dignity, background:
+      packed courtroom watching drama, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - '#2B2B2B'
+    - '#4A4A4A'
+    - '#6B6B6B'
+    - '#8C8C8C'
+    - '#ADADAD'
+    - '#CECECE'
+    - '#F0F0F0'
+    secondary:
+    - '#FFFFFF'
+    - '#1A1A1A'
+    background: white or off-white paper
+    usageNotes: Monochromatic grayscale only. Use varying shades for depth
+    saturation: none
+    contrast: medium to high
+  lineArt:
+    style: organic, hand-drawn
+    weight: variable (0.5-3px)
+    color: grayscale
+    texture: rough, sketchy with visible breaks
+    edgeTreatment: natural variations, multiple overlapping strokes
+  lighting:
+    type: traditional shading
+    direction: typically top-left
+    intensity: varies with pressure
+    shadows:
+      style: crosshatching and scribbling
+      color: darker graphite tones
+      opacity: built up through layering
+    highlights: paper showing through or eraser marks
+  rendering:
+    technique: traditional pencil on paper
+    texture: visible paper grain and tooth
+    detailLevel: varies from loose to highly detailed
+    finish: intentionally incomplete with visible process
+  perspective: traditional drawing perspectives
+  mood:
+    overall: artistic, unfinished, spontaneous
+    emotion: raw, authentic, contemplative
+    tempo: calm, thoughtful
+    keywords:
+    - artistic
+    - raw
+    - authentic
+    - traditional
+    - sketchy
+  postProcessing:
+    effects:
+    - paper texture
+    - graphite smudging
+    filters: none
+    adjustments:
+      saturation: '0'
+      contrast: natural pencil contrast
+  stylePrecedents:
+  - Leonardo da Vinci sketches
+  - Academic drawing studies
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

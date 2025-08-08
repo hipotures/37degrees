@@ -1,0 +1,101 @@
+sceneDescription:
+  setting:
+    time: Early 19th century England, late afternoon, late autumn
+    location: English countryside manor house in Hertfordshire, 50 miles north of London
+    weather: Gray overcast day with hint of approaching winter
+  characters:
+  - appearance: Man, 25 years old, tall heavy-looking build, ungainly movements, serious pompous expression, thin hair, forgettable
+      features, formal grave manner
+    clothing: Black Anglican clergyman's coat and breeches, white clerical collar, black waistcoat, good quality but worn
+      without style, black shoes with buckles
+    position: Standing in drawing room having just arrived, travel bag beside him
+    action: Executing exaggerated formal bow with pompous self-important expression
+  - appearance: Woman, 45-50 years old, medium height, plump figure from comfortable living, faded blonde hair arranged in
+      elaborate style, anxious expression with frequent nervous gestures, still retains traces of former beauty
+    clothing: Overly ornate day dress in bright colors inappropriate for morning wear, excessive jewelry including multiple
+      bracelets and rings, elaborate lace cap with ribbons, silk shawl draped dramatically
+    position: Standing opposite Collins, wringing hands nervously
+    action: Curtsying deeply with anxious expression, clearly intimidated by heir to estate
+  - appearance: Man, 50 years old, medium height, thin build, graying dark hair, intelligent eyes with ironic glint, lined
+      face showing years of cynical amusement, pale complexion from indoor scholarly habits
+    clothing: Brown wool morning coat slightly worn at edges, dark waistcoat, white shirt with simple cravat, dark breeches,
+      comfortable leather slippers for indoor use
+    position: Seated in his armchair, having risen slightly in acknowledgment
+    action: Observing Collins with barely concealed ironic amusement, slight sardonic smile
+  - appearance: Woman, 20 years old, beautiful dark intelligent eyes with expressive gaze, light and pleasing figure, average
+      height, not classically beautiful like her sister Jane but possessing striking charm, dark hair arranged in period-appropriate
+      style with loose curls framing her face, healthy complexion that gains attractive rosy color after physical exertion
+    clothing: Early 19th century day dress in forest green muslin with high waistline just below bust, long sleeves, modest
+      neckline, dress hem reaching to ankles, white cotton chemise underneath, brown leather walking boots suitable for countryside
+      paths, simple bonnet when outdoors
+    position: Standing near bookshelf, observing the scene
+    action: Watching Collins with mixture of amusement and dismay at his pretentious behavior
+  scene:
+    mainElements: Red brick Georgian house built late 17th century, symmetrical facade with central entrance, white sash windows,
+      steep slate roof, surrounded by well-maintained grounds with formal garden, shrubbery walks, small woods, comfortable
+      but not grand estate showing minor wear from limited finances
+    details: Drawing room prepared for guest's arrival, best furniture arranged formally, tea service laid out on side table,
+      family portraits looking down from walls, afternoon shadows growing longer, sense of household disrupted by important
+      visitor, Collins' traveling bag and cloak visible, formal reception atmosphere
+    background: Windows showing gray autumn garden, other family members visible in background doorway
+    atmosphere: Warm family home with lived-in comfort, busy domestic activity, sounds of multiple young women, mixture of
+      refinement and casual informality
+  composition:
+    cameraAngle: Medium shot capturing formal introduction scene
+    focus: Collins executing pompous bow with family arranged around drawing room
+    depth: 'Foreground: Collins with formal gesture; middle ground: receiving family; background: domestic interior details,
+      no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

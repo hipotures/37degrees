@@ -1,0 +1,98 @@
+sceneDescription:
+  setting:
+    time: 1934, Sunday morning, church service
+    location: Colored Section of Maycomb Alabama, beyond dump from white section, collection of small cabins
+    weather: Bright Sunday morning, clean spring air
+  characters:
+  - appearance: African-American woman, 50s, very thin angular build, sharp features, often squints due to nearsightedness
+    clothing: Simple brown dress with white apron when working, clean Sunday dress for church
+    position: Walking proudly with children toward church entrance
+    action: Upright, authoritative bearing, introducing children to her community
+  - appearance: Girl, 6-9 years old, small and slender build, short straight brown hair with bangs, expressive face with tomboyish
+      features
+    clothing: Stiff white Sunday dress, uncomfortable formal clothes
+    position: Walking beside Calpurnia, looking around with wide eyes
+    action: Curious but nervous, experiencing new world for first time
+  - appearance: Boy, 10-13 years old, tall and lean athletic build, short brown hair, serious expression, left arm shorter
+      than right after injury
+    clothing: Clean white shirt, formal dark pants, Sunday shoes
+    position: Following behind Calpurnia and Scout
+    action: Observant and respectful, noting differences from familiar white world
+  scene:
+    mainElements: Poor but clean and dignified community, strong sense of togetherness and faith
+    details: Small neat wooden cabins with chimneys smoking, swept yards, First Purchase African M.E. Church with congregation
+      gathering in Sunday clothes, children as only white faces in crowd, hymn singing without musical instruments
+    background: Small neat wooden cabins with chimneys smoking, swept yards, First Purchase African M.E. Church
+    atmosphere: Cultural bridge between two worlds, children discovering dignity and faith in poverty, community warmth despite
+      hardship
+  composition:
+    cameraAngle: Medium shot showing church entrance with congregation
+    focus: Calpurnia proudly escorting white children into black church
+    depth: 'Foreground: church steps and gathering congregation, middle ground: Calpurnia with children, background: simple
+      church building and community cabins, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - '#2B2B2B'
+    - '#4A4A4A'
+    - '#6B6B6B'
+    - '#8C8C8C'
+    - '#ADADAD'
+    - '#CECECE'
+    - '#F0F0F0'
+    secondary:
+    - '#FFFFFF'
+    - '#1A1A1A'
+    background: white or off-white paper
+    usageNotes: Monochromatic grayscale only. Use varying shades for depth
+    saturation: none
+    contrast: medium to high
+  lineArt:
+    style: organic, hand-drawn
+    weight: variable (0.5-3px)
+    color: grayscale
+    texture: rough, sketchy with visible breaks
+    edgeTreatment: natural variations, multiple overlapping strokes
+  lighting:
+    type: traditional shading
+    direction: typically top-left
+    intensity: varies with pressure
+    shadows:
+      style: crosshatching and scribbling
+      color: darker graphite tones
+      opacity: built up through layering
+    highlights: paper showing through or eraser marks
+  rendering:
+    technique: traditional pencil on paper
+    texture: visible paper grain and tooth
+    detailLevel: varies from loose to highly detailed
+    finish: intentionally incomplete with visible process
+  perspective: traditional drawing perspectives
+  mood:
+    overall: artistic, unfinished, spontaneous
+    emotion: raw, authentic, contemplative
+    tempo: calm, thoughtful
+    keywords:
+    - artistic
+    - raw
+    - authentic
+    - traditional
+    - sketchy
+  postProcessing:
+    effects:
+    - paper texture
+    - graphite smudging
+    filters: none
+    adjustments:
+      saturation: '0'
+      contrast: natural pencil contrast
+  stylePrecedents:
+  - Leonardo da Vinci sketches
+  - Academic drawing studies
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

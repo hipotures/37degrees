@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Breakfast Preparations in Georgian Kitchen"
+  setting:
+    time: "Late Georgian period Yorkshire, morning activity time with sun well risen, shadows shortening"
+    location: "Elegant Georgian mansion in sheltered valley, symmetrical harmonious architecture from 18th century, built of warm honey-colored Bath stone, surrounded by extensive formal parks and gardens with maintained paths"
+    weather: "Pleasant clear morning, gentle warmth building, light breeze through open windows"
+  characters:
+    - appearance: "Gentleman in his teens to late 30s, pale fair complexion, long light hair slightly curling at temples, large serious blue eyes, slender graceful build, delicate aristocratic features"
+      clothing: "Impeccable gentleman's attire, well-fitted frock coat, silk waistcoat, breeches with silk stockings, leather shoes with buckles, linen shirt with lace frills, everything perfectly maintained and fashionable"
+      position: "Seated at polished dining table, morning light illuminating his refined features"
+      action: "Reading correspondence while morning meal is prepared, embodying civilized morning routine"
+  scene:
+    mainElements: "Refined Georgian furniture positioned to catch morning light, specialized rooms for different functions showing organized household, steam rising from silver tea service and warming dishes, crystal chandelier with numerous candles unlit in daylight"
+    details: "Steam rises gently from silver teapot and covered serving dishes, morning sunlight streams through large windows illuminating polished mahogany table, fine porcelain and crystal catch and reflect light, servants move quietly in background, fresh flowers in vases add color and life to formal setting, no text or letters visible"
+    background: "Well-appointed dining room opening to formal gardens visible through large windows, morning activity in distant kitchen areas"
+    atmosphere: "Refined morning ritual and domestic order, sense of comfortable privilege and routine, air carries scents of tea brewing and morning meal, atmosphere of civilized leisure and cultivation"
+  composition:
+    cameraAngle: "Interior shot across breakfast table toward windows"
+    focus: "Gentleman at table with steam rising from tea service, morning light creating warm atmosphere"
+    depth: "Foreground breakfast setting with rising steam, middle ground seated figure, background garden view through windows"

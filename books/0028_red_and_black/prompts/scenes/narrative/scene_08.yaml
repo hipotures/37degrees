@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The anonymous letter brings danger"
+  setting:
+    time: "1820s France during Bourbon Restoration, late summer afternoon"
+    location: "Fictional provincial town in Franche-Comté region of eastern France near Swiss border, interior of substantial bourgeois residence with formal drawing room"
+    weather: "Oppressive warm day with gathering storm clouds"
+  characters:
+    - appearance: "Middle-aged man around 40-50, well-fed bourgeois appearance suggesting tendency toward stoutness, face expressing vanity and self-satisfaction"
+      clothing: "Solid expensive but provincial attire - quality frock coats, waistcoats, well-made but not fashionable, clothes of prosperous provincial notable"
+      position: "Standing by window holding folded letter, body tense with anger"
+      action: "Reading anonymous accusation with growing rage and suspicion, crumpling paper in his fist"
+    - appearance: "Woman around 30 years old, tall with graceful elegant figure, dazzling fresh complexion, natural beauty without artifice, moves with innate grace and charm when comfortable"
+      clothing: "Elegant but restrained provincial fashion - silk or muslin summer dresses in muted pastel colors, well-made but not ostentatious, appropriate for wealthy provincial matron"
+      position: "Seated in upholstered chair across room, pale and trembling"
+      action: "Wringing hands with anxiety, struggling to maintain composure while fearing discovery"
+    - appearance: "Young man, age 19-23, short stature with small, slender build almost feminine in delicacy, dark chestnut hair worn slightly longer in 1820s style, large expressive black eyes, regular delicate facial features with aquiline nose, extremely pale complexion that turns bright red easily under emotional stress"
+      clothing: "Black clerical/secretary attire - simple black frock coat, white linen shirt with high stiff collar, dark trousers, plain black shoes"
+      position: "Standing near doorway, ready to leave if necessary"
+      action: "Maintaining careful mask of innocence while preparing for possible confrontation or flight"
+  scene:
+    mainElements: "Formal bourgeois drawing room with heavy Empire-style furniture, marble fireplace, oil paintings in gilded frames, thick carpet, multiple windows showing threatening sky"
+    details: "Letter written with goose quill pen on period paper with ink traces, folded and sealed with wax lying open on mahogany table, afternoon light growing dim with approaching storm, tension visible in characters' rigid postures and fearful glances"
+    background: "View through windows of provincial town with church spire, storm clouds gathering over landscape, sense of approaching crisis"
+    atmosphere: "Dangerous exposure threatening to destroy secret happiness, social scandal looming over forbidden romance, fear and anger replacing recent joy, inevitable separation approaching"
+  composition:
+    cameraAngle: "Wide shot encompassing the formal room and all three characters"
+    focus: "The threatening letter as catalyst for crisis and the fearful reactions it provokes"
+    depth: "de Rênal with letter in foreground, Madame de Rênal in middle ground, Julian at door in background, no text or letters visible"

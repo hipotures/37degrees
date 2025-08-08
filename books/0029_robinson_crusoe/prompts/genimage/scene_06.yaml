@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1659, midday with harsh vertical shadows, bleached colors in summer heat
+    location: Plantacja trzciny cukrowej w kolonialnej Brazylii XVII wieku
+    weather: Scorching heat with shimmering air over ground, cloudless brilliant blue sky
+  characters:
+  - appearance: Mężczyzna, wiek 26 lat, wychudzony ale umięśniony od ciężkiej pracy, zapuszczone włosy i broda w nieładzie,
+      skóra śniada i spalona słońcem, na twarzy ślady zmęczenia i rezygnacji
+    clothing: 'Prosty strój niewolnika: zniszczona zgrzebna tunika z grubego niebielonego płótna, luźne spodnie z tego samego
+      materiału, chodzi boso, ubranie brudne i podarte'
+    position: Standing in shade of plantation building overhang, squinting against brightness
+    action: Seeking shelter from brutal midday sun, wiping sweat from brow, planning next move toward freedom
+  scene:
+    mainElements: Rozległe zielone pola trzciny cukrowej ciągnące się po horyzont, biały dom właściciela z werandami otoczony
+      ogrodami, skromne chaty niewolników, kaplica, młyn cukrowy napędzany siłą wołów, warzelnie z unoszącym się słodkim zapachem
+      melasy
+    details: Heat shimmer creating wavy distortions above ground, minimal shadows directly beneath objects, sun-bleached walls
+      of buildings appearing almost white, workers seeking any available shade, oxen standing motionless in heat, sugar mill
+      machinery slowed during hottest part of day, dust particles visible in still air
+    background: Endless green sugar cane fields extending to distant hills, brilliant cloudless sky with sun directly overhead,
+      tropical forest line visible on horizon
+    atmosphere: Oppressive heat dominating all activity, life paused during peak sun hours, harsh beauty of tropical landscape,
+      contrast between apparent paradise and reality of slavery system
+  composition:
+    cameraAngle: Medium shot emphasizing harsh lighting and seeking shade behavior
+    focus: Figure in shadow contrasted against sun-bleached plantation buildings and fields
+    depth: 'Foreground: shaded area with figure, Middle: plantation buildings and machinery, Background: vast sugar cane fields
+      and brilliant sky, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia ink
+    - brown ink
+    background: white or aged paper
+    usageNotes: Monochromatic, tone through line density
+    saturation: none
+    contrast: created through line spacing
+  lineArt:
+    style: systematic parallel lines
+    weight: consistent, fine
+    color: black or brown ink
+    texture: created entirely through lines
+    edgeTreatment: defined by line direction changes
+  lighting:
+    type: implied through line density
+    direction: shown through hatching direction
+    intensity: varies with line spacing
+    shadows:
+      style: dense crosshatching
+      color: black ink
+      opacity: line density
+    highlights: sparse or no lines
+  rendering:
+    technique: traditional pen technique
+    texture: entirely line-based
+    detailLevel: high through careful line work
+    finish: hand-drawn quality
+  perspective: traditional, often architectural
+  mood:
+    overall: classic, scholarly, detailed
+    emotion: contemplative, serious, refined
+    tempo: measured, careful
+    keywords:
+    - classic
+    - scholarly
+    - refined
+    - traditional
+    - meticulous
+  stylePrecedents:
+  - Albrecht Dürer
+  - Rembrandt etchings
+  - Scientific illustration
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

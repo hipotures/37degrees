@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Mr. Collins' Unwelcome Proposal"
+  setting:
+    time: "Early 19th century England, morning, late autumn"
+    location: "English countryside manor house in Hertfordshire, 50 miles north of London"
+    weather: "Gray morning light filtering through windows"
+  characters:
+    - appearance: "Man, 25 years old, tall heavy-looking build, ungainly movements, serious pompous expression, thin hair, forgettable features, formal grave manner"
+      clothing: "Black Anglican clergyman's coat and breeches, white clerical collar, black waistcoat, good quality but worn without style, black shoes with buckles"
+      position: "Standing in center of small morning room in theatrical pose"
+      action: "Speaking with pompous gestures and self-satisfied expression, completely oblivious to Elizabeth's growing dismay"
+    - appearance: "Woman, 20 years old, beautiful dark intelligent eyes with expressive gaze, light and pleasing figure, average height, not classically beautiful like her sister Jane but possessing striking charm, dark hair arranged in period-appropriate style with loose curls framing her face, healthy complexion that gains attractive rosy color after physical exertion"
+      clothing: "Simple morning dress in pale green muslin, white fichu at neckline, hair arranged simply with small pins, house slippers, modest morning attire"
+      position: "Seated at small breakfast table, trapped by his speech"
+      action: "Staring at Collins with mixture of astonishment, disbelief, and growing irritation, hands clasped tightly"
+  scene:
+    mainElements: "Red brick Georgian house built late 17th century, symmetrical facade with central entrance, white sash windows, steep slate roof, surrounded by well-maintained grounds with formal garden, shrubbery walks, small woods, comfortable but not grand estate showing minor wear from limited finances"
+    details: "Small morning room with breakfast table set with china and silver, window overlooking garden, family portraits on walls, simple furniture arranged for informal dining, morning newspapers folded nearby, intimate domestic setting made uncomfortable by unwelcome proposal"
+    background: "Garden view through window, suggestion of family members deliberately absent to give them privacy"
+    atmosphere: "Warm family home with lived-in comfort, busy domestic activity, sounds of multiple young women, mixture of refinement and casual informality"
+  composition:
+    cameraAngle: "Medium shot capturing both figures in small intimate room"
+    focus: "Contrast between Collins' pompous self-satisfaction and Elizabeth's shocked dismay"
+    depth: "Foreground: breakfast table between them; middle ground: the two figures; background: domestic morning room details, no text or letters visible"

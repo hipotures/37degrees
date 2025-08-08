@@ -1,0 +1,95 @@
+sceneDescription:
+  setting:
+    time: 1772 December 23, dawn, pale gray light
+    location: Small chamber with single window overlooking garden, wooden writing desk with chair, narrow bed with white linens,
+      washstand with ceramic basin, wooden chest for belongings, bookshelf with few volumes
+    weather: Cold winter dawn with fresh snow covering world in white silence
+  characters:
+  - appearance: Village servant, middle-aged man with weathered face, simple honest features, shocked expression
+    clothing: Simple brown wool coat, worn leather boots, woolen cap, working man's practical attire
+    position: Standing frozen in doorway, hand still on door handle
+    action: Staring in horror at scene before him, face white with shock, hand raised to mouth in instinctive gesture of grief,
+      body rigid with disbelief at discovery
+  - appearance: Young man, 24 years old, slender athletic build, average height, expressive dark eyes, dark brown hair gathered
+      simply at the nape with a black ribbon, clean-shaven with sharp jawline
+    clothing: Iconic blue woolen frock coat with brass buttons, bright yellow silk waistcoat, cream-colored knee-length breeches,
+      white linen shirt with ruffled jabots, white silk stockings, brown leather riding boots with small heel and brass buckle
+    position: Body moved to bed, covered partially with white sheet
+    action: Lying motionless and pale, wounds cleaned but still visible, face bearing expression of final peace despite tragedy
+      of circumstances
+  scene:
+    mainElements: Small chamber with single window overlooking garden, wooden writing desk with chair, narrow bed with white
+      linens, washstand with ceramic basin, wooden chest for belongings, bookshelf with few volumes
+    details: Pale morning light streams through window revealing scene of tragedy, candle burned down to mere stub creating
+      pool of hardened wax, bloodstained papers have been gathered and stacked neatly, pistol removed but outline visible
+      on desk, room bears signs of careful attention by someone who found body hours earlier, bowl of water and bloodstained
+      cloths on washstand show attempts at respectful preparation, small octavo volume (Emilia Galotti) now closed and placed
+      reverently beside bed, fresh snow outside creates pure white backdrop contrasting with indoor sorrow, no text or letters
+      visible except stacked correspondence
+    background: Through window, village begins to stir with early morning activities, smoke rising from chimneys suggests
+      life continuing despite tragedy, church bell tolls solemnly in distance
+    atmosphere: Raw grief and shock at violent end to young life, morning light revealing full scope of tragedy, peaceful
+      snow contrasting with indoor devastation, community beginning to comprehend loss, dignity being restored to victim through
+      careful tending
+  composition:
+    cameraAngle: Wide shot from doorway showing entire room and the discovery
+    focus: Servant's shocked discovery contrasted with peaceful arrangement of tragic scene
+    depth: 'Foreground: horrified discoverer in doorway, middle ground: respectfully arranged death scene, background: innocent
+      morning world beyond window'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

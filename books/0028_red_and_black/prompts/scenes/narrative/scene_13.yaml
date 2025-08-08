@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Audience with the Marquis in his study"
+  setting:
+    time: "1820s France during Bourbon Restoration, mid-morning"
+    location: "Elegant study within aristocratic mansion (hôtel particulier) in prestigious Faubourg Saint-Germain district of Paris"
+    weather: "Bright clear morning"
+  characters:
+    - appearance: "Man age 50-60, short and very thin with restless movements, bright intelligent eyes, wears blonde powdered wig, sharp aristocratic facial features"
+      clothing: "Impeccably aristocratic attire possibly slightly old-fashioned - dark frock coat, light waistcoat, elegant but may show traces of ancien régime style"
+      position: "Seated behind ornate writing desk inlaid with precious woods"
+      action: "Evaluating Julian with sharp intelligence while handling elegant silver-handled walking stick"
+    - appearance: "Young man, age 19-23, short stature with small, slender build almost feminine in delicacy, dark chestnut hair worn slightly longer in 1820s style, large expressive black eyes, regular delicate facial features with aquiline nose, extremely pale complexion that turns bright red easily under emotional stress"
+      clothing: "Black clerical/secretary attire - simple black frock coat, white linen shirt with high stiff collar, dark trousers, plain black shoes"
+      position: "Standing formally at attention before the desk"
+      action: "Struggling to maintain composure under aristocratic scrutiny while demonstrating his education and ability"
+  scene:
+    mainElements: "Magnificent study with floor-to-ceiling bookcases filled with leather-bound volumes, ornate writing desk with silver inkwells and writing implements, Persian carpets on polished parquet floors, oil portraits of ancestors in gilded frames"
+    details: "Morning sunlight streaming through tall windows illuminating dust motes in air, scent of leather bindings and furniture wax, sound of pages turning and quill scratching on paper, silver-handled walking stick (laska ze srebrną gałką) leaning against desk, elegant silver snuff box (tabakierka) on desktop"
+    background: "View through windows of manicured gardens and other aristocratic residences, library shelves extending to ornate ceiling, family portraits watching from walls"
+    atmosphere: "Interview determining Julian's future in highest circles of society, intellectual testing by sophisticated aristocratic mind, mutual evaluation between old nobility and rising talent, beginning of crucial patronage relationship"
+  composition:
+    cameraAngle: "Medium shot capturing the formal interview dynamic"
+    focus: "Contrast between aristocratic authority and Julian's provincial determination"
+    depth: "Marquis at ornate desk in foreground, Julian standing formally in middle ground, magnificent library in background, no text or letters visible"

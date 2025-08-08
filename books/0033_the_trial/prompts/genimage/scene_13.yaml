@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: Early 1910s, evening after work hours
+    location: Dark storage room within Central European bank building, cramped space filled with office supplies and discarded
+      furniture
+    weather: Night darkness with single harsh artificial light
+  characters:
+  - appearance: Man, 30 years old, average height with lean build, dark brown hair neatly combed, intelligent face with regular
+      features, clean-shaven with pale complexion, becoming increasingly gaunt and tired-looking as stress mounts, dark circles
+      under eyes, nervous ticks developing
+    clothing: Well-tailored dark charcoal suit, crisp white shirt with high starched collar, conservative dark tie, polished
+      leather shoes, black formal overcoat when outdoors, always impeccably dressed despite growing internal turmoil
+    position: Recoiling in horror at doorway, one hand covering eyes, the other grasping door frame
+    action: Discovering scene of violence, backing away in shock and revulsion, attempting to flee from witnessing brutality
+      he inadvertently caused
+  - appearance: Three figures in dark clothing engaged in violent scene, one wielding instrument of punishment, two others
+      in positions of suffering
+    clothing: Official dark uniforms and leather garments suggesting institutional authority and brutality
+    position: Arranged in tableau of corporal punishment, creating scene of institutional violence
+    action: Carrying out systematic brutal punishment in methodical, bureaucratic manner without emotion or mercy
+  scene:
+    mainElements: Cramped storage room with single harsh light bulb, shadows creating dramatic contrast, office supplies and
+      furniture creating claustrophobic environment
+    details: Single bare bulb casting harsh shadows, institutional violence occurring in everyday workplace setting, ordinary
+      space transformed into chamber of horrors, bureaucratic brutality made visceral and immediate, no text or letters visible
+    background: Familiar workplace environment revealed as setting for institutional cruelty and punishment
+    atmosphere: Horror of discovering that institutional violence operates within ordinary professional settings, shock of
+      realizing personal actions have led to others' suffering
+  composition:
+    cameraAngle: Wide shot capturing full scene of institutional brutality with protagonist's horrified reaction
+    focus: Contrast between civilized professional environment and underlying institutional violence
+    depth: 'Foreground: protagonist recoiling in horror, middle ground: scene of systematic brutality, background: ordinary
+      office environment revealed as setting for cruelty'
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

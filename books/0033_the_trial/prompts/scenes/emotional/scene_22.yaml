@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Quiet Surrender"
+  setting:
+    time: "Early 1910s, evening of protagonist's final day, domestic interior"
+    location: "Medium-sized room in Austrian middle-class boarding house, protagonist's private space for last time"
+    weather: "Calm evening with gentle light from window"
+  characters:
+    - appearance: "Man, 30 years old, average height with lean build, dark brown hair neatly combed, intelligent face with regular features, clean-shaven with pale complexion, becoming increasingly gaunt and tired-looking as stress mounts, dark circles under eyes, nervous ticks developing"
+      clothing: "Well-tailored dark charcoal suit, crisp white shirt with high starched collar, conservative dark tie, polished leather shoes, black formal overcoat when outdoors, always impeccably dressed despite growing internal turmoil"
+      position: "Seated calmly at desk, hands folded, posture showing resigned dignity"
+      action: "Waiting quietly without agitation, no longer struggling or planning resistance, accepting whatever comes with calm dignity"
+    - appearance: "Two middle-aged men, 40-50 years old, stocky build with pale flabby faces, expressionless features, physically similar to each other like bureaucratic twins, cold emotionless eyes"
+      clothing: "Formal black frock coats and top hats, white shirts with high collars, dark trousers, polished black shoes, dressed like 19th century undertakers or business executives"
+      position: "Standing respectfully at doorway, waiting for protagonist to accompany them"
+      action: "Synchronized mechanical movements, walk in perfect unison, no facial expressions or gestures, silent and emotionless throughout their task, move with practiced efficiency"
+  scene:
+    mainElements: "Simple dark wooden bed with white linens, wooden wardrobe, small writing desk near window, washbasin with pitcher and mirror, single window overlooking narrow courtyard or opposite building"
+    details: "Evening light creating peaceful atmosphere, domestic objects taking on significance as protagonist sees them for last time, room clean and ordered suggesting final preparation, no text or letters visible"
+    background: "Private domestic space where journey began now serving as departure point for final journey"
+    atmosphere: "Calm acceptance replacing earlier struggle, dignified surrender without capitulation, peace that comes after long battle finally ends"
+  composition:
+    cameraAngle: "Balanced composition showing protagonist ready to leave familiar space"
+    focus: "Transition from struggle to acceptance, dignified conclusion to internal battle"
+    depth: "Foreground: protagonist in calm acceptance, middle ground: domestic space charged with finality, background: waiting figures representing inevitable conclusion"

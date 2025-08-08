@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Mirror of Madness - Future Self Revealed"
+  setting:
+    time: "1772 December, afternoon, weak winter light"
+    location: "Shaded hollow on gentle hillside near Wahlheim village, natural stone arch formation with marble spring, twenty stone steps leading down to water source"
+    weather: "Cold winter day with thin snow on ground, pale sun struggling through clouds"
+  characters:
+    - appearance: "Young man, 24 years old, slender athletic build, average height, expressive dark eyes, dark brown hair gathered simply at the nape with a black ribbon, clean-shaven with sharp jawline, intensely emotional facial expressions capable of extreme joy and deep melancholy"
+      clothing: "Iconic blue woolen frock coat with brass buttons, bright yellow silk waistcoat, cream-colored knee-length breeches, white linen shirt with ruffled jabots, white silk stockings, brown leather riding boots with small heel and brass buckle"
+      position: "Standing frozen in horror halfway down stone steps"
+      action: "Staring in terrified recognition at madman's condition, seeing his own possible future, hand raised to mouth in shock, face expressing existential terror at glimpse of destiny"
+    - appearance: "Man, 30 years old, thin gaunt frame, wild unkempt dark hair, hollow haunted dark eyes, pale sallow complexion, trembling hands, distracted vacant stare"
+      clothing: "Tattered brown coat too large for his frame, torn white shirt stained with dirt, patched gray breeches, no stockings, worn broken leather shoes, disheveled appearance inappropriate for winter weather"
+      position: "Crouched beside frozen spring, clawing at icy ground"
+      action: "Searching desperately for flowers that do not exist, muttering incoherently about love and loss, completely unaware of observer, lost in private world of delusion and sorrow"
+  scene:
+    mainElements: "Ancient stone archway carved into hillside creates natural cathedral, crystal clear water flowing from white marble rock face with musical trickling sound, moss-covered stone steps descending to water source, overhanging oak and beech trees creating dense canopy of bare branches"
+    details: "Thin snow covers stone steps and surrounding ground creating treacherous footing, water from marble spring has partially frozen creating bizarre ice formations, bare tree branches create prison-like cage of shadows and pale light, madman's desperate scrabbling has torn up patches of frozen earth revealing dark soil beneath, his broken muttering echoes eerily off stone walls, scent of winter decay and stagnant water replaces former freshness, scene that once brought peace now radiates menace and foreboding, no text or letters visible"
+    background: "Winter forest extends up hillside with skeletal trees, Wahlheim village visible through bare branches appears distant and unwelcoming, gray sky threatens more snow"
+    atmosphere: "Existential horror at glimpse of possible future, recognition of kindred spirit destroyed by same disease, former sanctuary contaminated by vision of madness, innocent love revealed as path to destruction, split moment between sanity and insanity"
+  composition:
+    cameraAngle: "Medium shot capturing both figures in vertical composition with stone architecture"
+    focus: "Two figures representing past and future self - one horrified observer, one destroyed victim"
+    depth: "Foreground: madman at water's edge lost in delusion, middle ground: horrified observer on stone steps, background: winter landscape extending toward village"

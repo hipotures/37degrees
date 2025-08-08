@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: Early 1910s, late afternoon week after initial encounter
+    location: Central European city streets during changing weather, transitioning from business district toward residential
+      areas
+    weather: Threatening storm clouds gathering overhead, wind picking up, first heavy drops beginning
+  characters:
+  - appearance: Man, 30 years old, average height with lean build, dark brown hair neatly combed, intelligent face with regular
+      features, clean-shaven with pale complexion, becoming increasingly gaunt and tired-looking as stress mounts, dark circles
+      under eyes, nervous ticks developing
+    clothing: Well-tailored dark charcoal suit, crisp white shirt with high starched collar, conservative dark tie, polished
+      leather shoes, black formal overcoat when outdoors, always impeccably dressed despite growing internal turmoil
+    position: Walking quickly through city streets, pausing to look up at darkening sky
+    action: Hurrying through streets with growing unease, glancing frequently over shoulder, collar turned up against rising
+      wind, pace becoming more urgent
+  scene:
+    mainElements: Cobblestone streets with tall tenement buildings, gas street lamps beginning to flicker on, shop signs swaying
+      in wind, pedestrians hurrying for shelter
+    details: Papers and debris beginning to blow in gutters, windows being hastily closed in buildings above, street vendors
+      packing up quickly, atmospheric pressure creating sense of impending change, no text or letters visible
+    background: Urban landscape transformed by approaching storm, familiar city becoming ominous and unwelcoming
+    atmosphere: Natural environment reflecting protagonist's internal state, sense that protective stability is dissolving,
+      external world beginning to mirror internal anxiety
+  composition:
+    cameraAngle: Low angle emphasizing threatening sky and protagonist's vulnerability
+    focus: Connection between external weather and internal emotional storm
+    depth: 'Foreground: protagonist moving urgently through streets, middle ground: city architecture appearing more menacing,
+      background: dark storm clouds gathering ominously overhead'
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

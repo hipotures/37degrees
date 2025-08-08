@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Storm Shatters Pirate Dreams"
+  setting:
+    time: "1840s Missouri, midnight during violent thunderstorm"
+    location: "Jackson Island camp under assault from fierce summer storm"
+    weather: "Violent thunderstorm with torrential rain, lightning, and powerful winds"
+  characters:
+    - appearance: "Boy, 12-13 years old, soaked and terrified, leadership facade completely abandoned"
+      clothing: "Clothes plastered to body by rain, barefoot in mud, shivering from cold and fear"
+      position: "Huddled with others under makeshift sail shelter, pressed against ground"
+      action: "Trying to maintain courage while obviously terrified, comforting younger companions"
+    - appearance: "Boy, 13-14 years old, experienced with rough weather but clearly shaken"
+      clothing: "Ragged clothes now thoroughly soaked, hat long since blown away"
+      position: "Crouched in shelter, holding canvas against wind"
+      action: "Using outdoor skills to secure shelter while fighting rising panic about storm's violence"
+    - appearance: "Third boy, 12-13 years old, openly weeping with fear and homesickness"
+      clothing: "Town clothes completely ruined by storm, mud-stained and torn"
+      position: "Clinging to companions in terror"
+      action: "Crying for home and mother, begging to return to town despite danger"
+  scene:
+    mainElements: "Campfire extinguished by rain, improvised shelter of canvas and branches failing against wind, river rising and waves crashing on beach"
+    details: "Lightning illuminating terrified faces, thunder drowning out voices, rain turning campsite to mud, camping supplies scattered by wind, trees bending and breaking, no text or letters visible"
+    background: "Mississippi River transformed into raging torrent, island forest thrashing violently, no lights visible from town through storm"
+    atmosphere: "Nature revealing its power over human plans, childhood adventure becoming genuine survival situation, illusions of independence shattered"
+  composition:
+    cameraAngle: "Close shot of three boys huddled together against storm"
+    focus: "Moment when adventure becomes ordeal, childhood bravado meeting real danger"
+    depth: "Foreground: three boys pressed together in failing shelter, middle ground: destroyed campsite and rising river, background: lightning-illuminated chaos of storm-lashed wilderness"

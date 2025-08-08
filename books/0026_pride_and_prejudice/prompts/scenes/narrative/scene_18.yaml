@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Darcy Delivers His Letter of Explanation"
+  setting:
+    time: "Early 19th century England, morning, mid-spring"
+    location: "Park grounds surrounding Rosings estate in Kent"
+    weather: "Clear morning after storm, fresh air with sunlight breaking through clouds"
+  characters:
+    - appearance: "Man, 28 years old, tall imposing height, handsome strong features, noble bearing, dark hair carefully styled in period fashion, serious expression that softens when genuinely pleased, athletic build from riding and outdoor activities, pale complexion typical of English gentleman"
+      clothing: "Simple morning coat in dark brown, white linen shirt with plain cravat, leather boots suitable for walking, no hat, less formal attire suggesting distressed state"
+      position: "Standing on park path, having approached Elizabeth during her solitary walk"
+      action: "Extending folded letter with formal bow, his expression grave and controlled despite obvious emotional strain"
+    - appearance: "Woman, 20 years old, beautiful dark intelligent eyes with expressive gaze, light and pleasing figure, average height, not classically beautiful like her sister Jane but possessing striking charm, dark hair arranged in period-appropriate style with loose curls framing her face, healthy complexion that gains attractive rosy color after physical exertion"
+      clothing: "Walking dress in practical dark blue wool, warm shawl around shoulders, sturdy leather walking boots, bonnet with ribbons, gloves suitable for morning air"
+      position: "Standing on woodland path, initially startled by his approach"
+      action: "Accepting letter with mixture of reluctance and curiosity, her expression wary and still angry from previous evening"
+  scene:
+    mainElements: "English parkland with ancient oak trees, well-maintained walking paths, spring flowers blooming along borders, stream running through grounds, mixture of natural beauty and careful landscaping typical of great estate"
+    details: "Morning light filtering through trees creating dappled shadows, fresh green leaves of spring, wildflowers blooming along path edges, sound of birds and running water, peaceful natural setting contrasting with emotional turbulence, solitary bench visible in distance"
+    background: "Rolling parkland extending toward mansion visible through trees, other walking paths winding through landscape"
+    atmosphere: "Fresh morning air after rain, sounds of nature awakening, peaceful solitude perfect for contemplation and truth-telling"
+  composition:
+    cameraAngle: "Medium shot capturing formal exchange in natural setting"
+    focus: "Crucial moment of letter exchange that will change everything"
+    depth: "Foreground: letter passing between gloved hands; middle ground: two figures in formal interaction; background: peaceful English parkland, no text or letters visible"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Peaceful Morning in the Artist's Sanctuary"
+  setting:
+    time: "Late Victorian London, warm summer morning, 1880s"
+    location: "Victorian West End artist's studio, duże wysokie pomieszczenie with ogromne okno sięgające od podłogi do sufitu overlooking starannie pielęgnowany ogród, wiktoriańska kamienica interior"
+    weather: "Gentle summer warmth with soft golden light"
+  characters:
+    - appearance: "Man, 30-35 years old, krzepki build, czarne jak węgiel włosy, szorstka silna twarz with intelektualny poważny wyraz"
+      clothing: "Strój artysty-dżentelmena, less formal than aristocrats, possibly tweedowa marynarka, practical attire suitable for painting"
+      position: "Standing at easel with relaxed, comfortable posture"
+      action: "Painting with pędzle, mixing colors on paleta malarska, arranging przybory do rysowania, focused peacefully on artistic work"
+  scene:
+    mainElements: "Masywna drewniana sztaluga with naturalnej wielkości portret Doriana Graya as central element, przestrzeń otwarta designed to maximize natural light for painting work, całe pomieszczenie filled with creative energy and artistic purpose"
+    details: "Głębokie czerwienie i złoto perskich dywanów, jedwabne zasłony in mieniące się odcienie, ciemne polerowane drewno mebli, fotele i kanapy obite drogimi wzorzystymi tkaninami, szafki z przyborami malarskimi, niedokończone płótna, gipsowe odlewy antycznych rzeźb, wszystkie arranged harmoniously in creative workspace, no text or letters visible"
+    background: "View of starannie pielęgnowany ogród through wielkie okno, lush greenery and blooming flowers creating peaceful natural backdrop"
+    atmosphere: "Serene creative sanctuary filled with artistic inspiration, gentle morning light streaming through windows, harmonious blend of luxury and artistic purpose, peaceful solitude of creative work, sense of pure artistic devotion and aesthetic pleasure"
+  composition:
+    cameraAngle: "Medium wide shot capturing both artist and studio space"
+    focus: "Artist at work on portrait, showing peaceful concentration and artistic dedication"
+    depth: "Foreground: artist and easel, middle ground: studio furnishings and art supplies, background: garden view through large window"

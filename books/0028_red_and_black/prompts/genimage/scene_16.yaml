@@ -1,0 +1,100 @@
+sceneDescription:
+  setting:
+    time: 1820s France during Bourbon Restoration, evening political gathering
+    location: Private salon within aristocratic mansion (hôtel particulier) in prestigious Faubourg Saint-Germain district
+      of Paris during political discussion
+    weather: Cool evening
+  characters:
+  - appearance: Young man, age 19-23, short stature with small, slender build almost feminine in delicacy, dark chestnut hair
+      worn slightly longer in 1820s style, large expressive black eyes, regular delicate facial features with aquiline nose,
+      extremely pale complexion that turns bright red easily under emotional stress
+    clothing: Black clerical/secretary attire - simple black frock coat, white linen shirt with high stiff collar, dark trousers,
+      plain black shoes
+    position: Standing confidently in center of aristocratic gathering
+    action: Speaking with growing authority on political matters, gaining respect through intelligence and discretion
+  - appearance: Man age 50-60, short and very thin with restless movements, bright intelligent eyes, wears blonde powdered
+      wig, sharp aristocratic facial features
+    clothing: Impeccably aristocratic attire possibly slightly old-fashioned - dark frock coat, light waistcoat, elegant but
+      may show traces of ancien régime style
+    position: Seated in place of honor, observing with approval
+    action: Listening to Julian with growing satisfaction and paternal pride in his protégé's development
+  - appearance: Young woman age 19-20, described as beautiful with intelligent expressive face often showing disdain, boredom
+      or ironic distance, slender proud bearing typical of aristocracy
+    clothing: Sophisticated evening dress showing latest Parisian fashion with elaborate details and rich materials
+    position: Seated slightly apart, fan in hand
+    action: Watching Julian with new interest and grudging respect, no longer dismissive of the provincial secretary
+  - appearance: Several distinguished aristocratic men in evening dress
+    clothing: Formal evening attire of highest Parisian society
+    position: Arranged around salon in discussion groups
+    action: Listening to Julian's insights with surprise and growing acceptance of his capabilities
+  scene:
+    mainElements: Intimate salon with comfortable seating arranged for conversation, warm candlelight creating atmosphere
+      for serious discussion, elegant furnishings reflecting aristocratic taste, political documents and maps on side tables
+    details: Candles burning low creating intimate atmosphere, sound of serious voices discussing affairs of state, scent
+      of tobacco and expensive cologne, wax seals and official papers suggesting important political business, crystal decanters
+      with brandy
+    background: Other reception rooms visible through doorways, servants waiting discretely in shadows, night visible through
+      tall windows
+    atmosphere: Julian's growing integration into highest political circles, recognition of his exceptional abilities by powerful
+      men, Matylda's dawning realization of his worth beyond social origins, dangerous proximity to center of political power
+  composition:
+    cameraAngle: Medium wide shot showing Julian's central position in aristocratic gathering
+    focus: Julian's transformation from outsider to respected member of elite circle
+    depth: Julian speaking in foreground, listening aristocrats in middle ground, elegant salon setting in background, no
+      text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

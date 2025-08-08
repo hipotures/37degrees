@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1651 September, first light moments with golden rays through windows and mist
+    location: London Thames riverbank port district, View of river Tamiza as główna arteria miasta gęsto usiana żaglowcami
+      i barkami
+    weather: Clear morning with light river mist, dew covering surfaces
+  characters:
+  - appearance: Young man, age 18-19 years, szczupła młodzieńcza sylwetka, gładko ogolona twarz, długie włosy do ramion w
+      naturalnym kolorze brązowym, energiczna postawa wyrażająca niepokój i pragnienie przygód
+    clothing: 'Strój zamożnej klasy średniej z 1651 roku: biała lniana koszula z koronkowym kołnierzem, dopasowany brązowy
+      dublet z rozcięciami na rękawach, szerokie bryczesy do kolan z ciemnej wełny, białe wełniane pończochy, skórzane buty
+      z ozdobnymi cholewami, ciemny płaszcz, kapelusz z szerokim rondem'
+    position: Standing at wooden dock watching ships, travel bundle at feet
+    action: Gazing at forest of masts with wonder and anticipation, breathing deeply of salt air and river scents
+  scene:
+    mainElements: Forest of ship masts creating geometric patterns against pink dawn sky, Thames river surface catching golden
+      light reflections, wooden dock structures extending into water, busy port beginning morning preparations
+    details: Dew drops on spider webs strung between dock posts, steam rising from crew preparing breakfast on nearby ships,
+      early dock workers moving cargo in soft golden light, river water lapping gently against hulls, seagulls beginning their
+      morning calls, smoke from ship chimneys catching early sunlight
+    background: London Bridge zabudowany domami i sklepami visible upstream, gotycka katedra św. Pawła rising above cityscape,
+      morning mist softening distant buildings
+    atmosphere: Promise of adventure and unknown possibilities, mixture of excitement and nervousness, maritime world awakening
+      to new day, golden light transforming mundane port into magical threshold
+  composition:
+    cameraAngle: Wide establishing shot capturing scale of port activity
+    focus: Young man's figure silhouetted against forest of ship masts, morning light creating drama
+    depth: 'Foreground: wooden dock planks with dew, Middle: ships and masts, Background: Thames and London skyline, no text
+      or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia ink
+    - brown ink
+    background: white or aged paper
+    usageNotes: Monochromatic, tone through line density
+    saturation: none
+    contrast: created through line spacing
+  lineArt:
+    style: systematic parallel lines
+    weight: consistent, fine
+    color: black or brown ink
+    texture: created entirely through lines
+    edgeTreatment: defined by line direction changes
+  lighting:
+    type: implied through line density
+    direction: shown through hatching direction
+    intensity: varies with line spacing
+    shadows:
+      style: dense crosshatching
+      color: black ink
+      opacity: line density
+    highlights: sparse or no lines
+  rendering:
+    technique: traditional pen technique
+    texture: entirely line-based
+    detailLevel: high through careful line work
+    finish: hand-drawn quality
+  perspective: traditional, often architectural
+  mood:
+    overall: classic, scholarly, detailed
+    emotion: contemplative, serious, refined
+    tempo: measured, careful
+    keywords:
+    - classic
+    - scholarly
+    - refined
+    - traditional
+    - meticulous
+  stylePrecedents:
+  - Albrecht Dürer
+  - Rembrandt etchings
+  - Scientific illustration
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

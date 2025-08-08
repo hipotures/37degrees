@@ -1,0 +1,32 @@
+sceneDescription:
+  title: "News of the Wealthy Neighbor"
+  setting:
+    time: "Early 19th century England, evening, early autumn"
+    location: "English countryside manor house in Hertfordshire, 50 miles north of London"
+    weather: "Clear evening with warm candlelight indoors"
+  characters:
+    - appearance: "Woman, 45-50 years old, medium height, plump figure from comfortable living, faded blonde hair arranged in elaborate style, anxious expression with frequent nervous gestures, still retains traces of former beauty"
+      clothing: "Overly ornate day dress in bright colors inappropriate for morning wear, excessive jewelry including multiple bracelets and rings, elaborate lace cap with ribbons, silk shawl draped dramatically"
+      position: "Standing in center of drawing room, addressing her family"
+      action: "Speaking animatedly with excited gestures, eyes bright with matrimonial schemes"
+    - appearance: "Girl, 15 years old, tall for her age with full developing figure, dark hair like Elizabeth but worn in looser style, bright mischievous eyes, confident flirtatious expression, rosy complexion"
+      clothing: "Bright yellow muslin dress with lower neckline than appropriate for her age, colorful ribbons in hair, dancing slippers, shawl worn carelessly draped"
+      position: "Bouncing excitedly near the sofa"
+      action: "Giggling and clapping hands together in anticipation"
+    - appearance: "Woman, 20 years old, beautiful dark intelligent eyes with expressive gaze, light and pleasing figure, average height, not classically beautiful like her sister Jane but possessing striking charm, dark hair arranged in period-appropriate style with loose curls framing her face, healthy complexion that gains attractive rosy color after physical exertion"
+      clothing: "Early 19th century day dress in forest green muslin with high waistline just below bust, long sleeves, modest neckline, dress hem reaching to ankles, white cotton chemise underneath, brown leather walking boots suitable for countryside paths, simple bonnet when outdoors"
+      position: "Seated at small writing desk"
+      action: "Looking up from correspondence with amused skeptical expression"
+    - appearance: "Woman, 22 years old, classically beautiful with perfect harmony of features, blonde hair arranged in elegant ringlets, serene blue eyes, tall graceful figure, flawless porcelain complexion, gentle sweet expression"
+      clothing: "Pale blue silk day dress with delicate white lace trim, high empire waistline, long fitted sleeves, pearl necklace, white silk slippers, white lace cap when at home"
+      position: "Seated gracefully on sofa"
+      action: "Smiling gently while working on embroidery, listening with patient attention"
+  scene:
+    mainElements: "Red brick Georgian house built late 17th century, symmetrical facade with central entrance, white sash windows, steep slate roof, surrounded by well-maintained grounds with formal garden, shrubbery walks, small woods, comfortable but not grand estate showing minor wear from limited finances"
+    details: "Evening drawing room lit by multiple candles and oil lamps, family portraits casting long shadows, pianoforte gleaming in candlelight, comfortable furniture arranged for conversation, writing materials scattered on desk, embroidery supplies, books on side tables, domestic evening scene"
+    background: "Dark windows reflecting candlelight, suggestion of peaceful countryside beyond"
+    atmosphere: "Warm family home with lived-in comfort, busy domestic activity, sounds of multiple young women, mixture of refinement and casual informality"
+  composition:
+    cameraAngle: "Medium shot capturing family group in candlelit drawing room"
+    focus: "Mother as central speaking figure with daughters arranged around the room listening"
+    depth: "Foreground: speaking mother; middle ground: listening daughters; background: candlelit room details, no text or letters visible"

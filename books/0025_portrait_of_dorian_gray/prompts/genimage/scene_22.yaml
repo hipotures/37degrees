@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: Late Victorian London, morning after revelation, 1880s
+    location: Victorian West End artist's studio, duże wysokie pomieszczenie with ogromne okno sięgające od podłogi do sufitu
+      overlooking starannie pielęgnowany ogród, wiktoriańska kamienica interior now scene of discovery
+    weather: Gentle morning light with soft breeze bringing fresh air
+  characters:
+  - appearance: Multiple figures of household staff and authorities, showing mixture of relief and solemnity, faces bearing
+      witness to final moral resolution, expressions of people who have discovered terrible truth but also its resolution
+    clothing: Victorian servants in proper household attire, officials in formal dress appropriate to their duties, all showing
+      dignity and respect for moment of moral conclusion
+    position: Gathered around scene with respectful distance, showing gentle physical contact as they comfort each other and
+      process shocking discovery
+    action: Moving carefully through scene of moral revelation, touching each other's shoulders for comfort and support, showing
+      human solidarity in face of moral extremes, gentle hands reaching out to provide comfort after witnessing consequences
+      of corruption
+  scene:
+    mainElements: Masywna drewniana sztaluga with completed portrait now restored to original beauty, przestrzeń otwarta now
+      filled with morning light showing truth of what occurred, artistic sanctuary partially restored to original purpose
+    details: Głębokie czerwienie i złoto perskich dywanów now cleaned and orderly, jedwabne zasłony moving gently in morning
+      breeze, ciemne polerowane drewno mebli reflecting natural light, przybory malarskie arranged with respect for departed
+      artist, gipsowe odlewy antycznych rzeźb now seeming to bless rather than judge, no text or letters visible
+    background: View of starannie pielęgnowany ogród through wielkie okno now showing renewal and hope, flowers blooming in
+      morning light, birds singing songs of life continuing after moral crisis
+    atmosphere: Exhausted but peaceful postures after long night of moral reckoning, gentle physical contact providing human
+      warmth after witnessing extremes of beauty and corruption, ciężki zapach róż now sweet and cleansing rather than cloying,
+      sense of community forming around shared experience of moral revelation, breathing spaces opening up as truth finally
+      allows healing to begin
+  composition:
+    cameraAngle: Medium shot showing figures supporting each other in aftermath of moral crisis
+    focus: Human connection and mutual support in face of moral extremes, showing healing beginning
+    depth: 'Foreground: figures offering comfort and support, middle ground: restored artistic space, background: garden showing
+      life''s continuation and renewal'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues and violets
+    - gold and old gold
+    - dark greens
+    - blood red
+    secondary:
+    - pearl white
+    - ivory shades
+    - dark brown
+    background: dreamlike landscapes, dark interiors, undefined space
+    usageNotes: Colors build mood and have symbolic meaning, need not be realistic.
+    saturation: often muted, except for symbolic bright accents
+    contrast: medium to high, often with large dark areas
+  lineArt:
+    style: flowing, elegant contour, but often fading into darkness
+    weight: varied, from delicate to strong
+    color: integrated with color patches
+    texture: smooth, but rich in ornamental details
+    edgeTreatment: soft, often blurred edges
+  lighting:
+    type: mysterious, unnatural, often spotlights or inner glow
+    direction: undefined, building atmosphere of mystery
+    intensity: low, with dramatic bright points
+    shadows:
+      style: deep, soft, enveloping figures
+      color: dark browns, violets, blues
+      opacity: heavy, impenetrable
+    highlights: luminous halos, magical glow, golden details
+  rendering:
+    technique: oil painting with attention to detail but soft modeling
+    texture: rich textures of fabrics, jewelry, feathers
+    detailLevel: high in symbolic details, background often simplified
+    finish: matte or satin, with shimmering accents
+  perspective: often flattened, decorative, subordinated to symbolic composition
+  mood:
+    overall: mysterious, atmospheric, literary
+    emotion: melancholy, longing, spirituality, unease
+    tempo: slow, contemplative
+    keywords:
+    - atmospheric
+    - mystical
+    - dreamlike
+    - symbolic
+    - decadent
+  stylePrecedents:
+  - Gustave Moreau
+  - Odilon Redon
+  - Arnold Böcklin
+  - Jacek Malczewski
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

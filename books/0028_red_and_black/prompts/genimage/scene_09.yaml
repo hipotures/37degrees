@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1820s France during Bourbon Restoration, gloomy autumn morning
+    location: Real city of Besançon approach, Catholic seminary imposing religious institution representing Church's hierarchical
+      power
+    weather: Gray overcast day with cold drizzle
+  characters:
+  - appearance: Young man, age 19-23, short stature with small, slender build almost feminine in delicacy, dark chestnut hair
+      worn slightly longer in 1820s style, large expressive black eyes, regular delicate facial features with aquiline nose,
+      extremely pale complexion that turns bright red easily under emotional stress
+    clothing: Black clerical/secretary attire - simple black frock coat, white linen shirt with high stiff collar, dark trousers,
+      plain black shoes
+    position: Standing alone before massive seminary gates, carrying small traveling bag
+    action: Staring up at forbidding architecture with mixture of determination and dread
+  scene:
+    mainElements: Ugly dirty architecture with prison-like appearance, barred windows, massive wooden gates with iron reinforcements,
+      stone walls blackened with age and weather, large cross visible above entrance
+    details: Cold rain creating puddles on cobblestones, Julian's breath visible in cold air, wet stone walls gleaming with
+      moisture, iron bars on windows casting shadow patterns, sound of monastery bells echoing from within
+    background: Medieval city of Besançon with ancient walls and towers, gray sky heavy with storm clouds, bare trees dripping
+      with rain
+    atmosphere: Oppressive institutional power crushing individual spirit, transition from world of passion to world of discipline
+      and hypocrisy, Julian's isolation and vulnerability in face of religious authority
+  composition:
+    cameraAngle: Low angle emphasizing the imposing height and threatening nature of seminary walls
+    focus: Julian's small figure dwarfed by massive institutional architecture
+    depth: Julian in foreground, seminary gates and walls in middle ground, grim cityscape in background, no text or letters
+      visible
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

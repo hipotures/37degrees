@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Mounting Paranoia"
+  setting:
+    time: "Early 1910s, late evening in residential area"
+    location: "Austrian middle-class boarding house with narrow corridors and stairwells, domestic space becoming threatening"
+    weather: "Night darkness with flickering gas lighting creating shifting shadows"
+  characters:
+    - appearance: "Man, 30 years old, average height with lean build, dark brown hair neatly combed, intelligent face with regular features, clean-shaven with pale complexion, becoming increasingly gaunt and tired-looking as stress mounts, dark circles under eyes, nervous ticks developing"
+      clothing: "Well-tailored dark charcoal suit, crisp white shirt with high starched collar, conservative dark tie, polished leather shoes, black formal overcoat when outdoors, always impeccably dressed despite growing internal turmoil"
+      position: "Moving cautiously through corridors, pressed against walls, constantly looking over shoulder"
+      action: "Creeping through familiar domestic spaces as if they were hostile territory, starting at every sound, examining shadows for hidden watchers"
+    - appearance: "Other boarding house residents appearing briefly in doorways or at corridor ends, faces partially obscured"
+      clothing: "Various domestic attire of middle-class tenants"
+      position: "Glimpsed briefly in peripheral vision, never directly confronted"
+      action: "Appearing and disappearing like phantoms, creating impression of constant surveillance without direct confrontation"
+  scene:
+    mainElements: "Narrow boarding house corridor with worn carpet runner, dark wooden banister, gas wall sconces providing warm but dim light, doors leading to individual rooms"
+    details: "Flickering gas flames creating constantly shifting shadows, familiar domestic architecture becoming maze-like and threatening, ordinary sounds becoming sinister, every corner potentially hiding watchers, no text or letters visible"
+    background: "Domestic environment transformed by paranoia into landscape of potential threats and hidden surveillance"
+    atmosphere: "Overwhelming sense of being watched and followed, familiar spaces becoming alien and hostile, every neighbor potentially an informant or judge"
+  composition:
+    cameraAngle: "Subjective camera following protagonist's paranoid perspective, emphasizing corners and shadows"
+    focus: "Transformation of familiar domestic environment into source of anxiety and threat"
+    depth: "Foreground: protagonist moving fearfully through spaces, middle ground: shadows and doorways suggesting hidden watchers, background: familiar architecture rendered threatening by paranoid perception"

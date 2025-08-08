@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Tom's Escape from Kitchen Justice"
+  setting:
+    time: "1840s Missouri, sunny summer morning"
+    location: "Kitchen in Aunt Polly's white two-story house, St. Petersburg Missouri"
+    weather: "Bright summer morning with golden sunlight streaming through windows"
+  characters:
+    - appearance: "Boy, 12-13 years old, average height with lean build, curly brown hair somewhat tousled, intelligent face with regular features, mouth and hands stained with jam"
+      clothing: "Simple white cotton shirt, dark brown loose trousers, barefoot"
+      position: "Crouched behind pantry door, one hand still holding stolen jam jar"
+      action: "Hiding from his guardian while trying to wipe jam evidence from his face with shirt sleeve"
+    - appearance: "Woman, 50-60 years old, gray hair partially covered by white day cap, wearing spectacles pushed up on forehead, stern but caring expression"
+      clothing: "Dark practical cotton dress with fitted bodice and full skirt, white apron tied around waist"
+      position: "Standing in center of kitchen holding birch switch, turning head to search room"
+      action: "Looking around kitchen with growing suspicion, calling out boy's name while brandishing discipline rod"
+  scene:
+    mainElements: "Rustic kitchen with wooden furniture, large fireplace with cooking implements, shelves lined with preserves and crockery, sunbeams creating dramatic light and shadow patterns across floor"
+    details: "Overturned jam jar on wooden table with sticky trail leading to pantry, flour dust motes dancing in sunlight, cast iron pot hanging over low fire, wooden spoon abandoned on cutting board, no text or letters visible"
+    background: "Simple frontier home interior with log walls, small window overlooking garden, door leading to main house visible in background"
+    atmosphere: "Domestic tension mixed with boyish mischief, warm morning light contrasting with impending punishment, sense of cat-and-mouse game between generations"
+  composition:
+    cameraAngle: "Medium wide shot capturing both kitchen space and character positions"
+    focus: "Contrast between hidden boy and searching woman, with jam evidence as key visual element"
+    depth: "Foreground: jam trail and overturned jar, middle ground: searching woman and hidden boy, background: frontier kitchen details and doorway suggesting escape route"

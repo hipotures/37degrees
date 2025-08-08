@@ -1,0 +1,98 @@
+sceneDescription:
+  setting:
+    time: 1771 June, evening during violent thunderstorm
+    location: Spacious room with polished oak floorboards, whitewashed walls with exposed dark wooden beams, musicians gallery
+      at one end, tall windows with heavy curtains, iron candelabras mounted on walls
+    weather: Violent thunderstorm at full intensity, lightning illuminating sky, torrential rain, powerful winds
+  characters:
+  - appearance: Young man, 24 years old, slender athletic build, average height, expressive dark eyes, dark brown hair gathered
+      simply at the nape with a black ribbon, clean-shaven with sharp jawline, intensely emotional facial expressions capable
+      of extreme joy and deep melancholy
+    clothing: Iconic blue woolen frock coat with brass buttons, bright yellow silk waistcoat, cream-colored knee-length breeches,
+      white linen shirt with ruffled jabots, white silk stockings, brown leather riding boots with small heel and brass buckle
+    position: Standing close beside her at tall window, bodies nearly touching
+    action: Gazing into storm with rapturous expression, completely absorbed by nature's power and proximity to beloved, face
+      illuminated repeatedly by lightning flashes, hand unconsciously moving toward hers
+  - appearance: Young woman, 20 years old, medium height, graceful slender figure, striking black eyes, lively red lips, fresh
+      rosy cheeks, chestnut brown hair styled in simple elegant updo with loose curls framing her face, natural healthy complexion
+    clothing: Simple white cotton dress with fitted bodice and full skirt, bright pink silk ribbons at shoulders and across
+      the chest, white cotton cap with lace trim, simple brown leather shoes with small heel
+    position: Standing at window beside him, face turned upward to storm
+    action: Watching lightning with tears of wonder in her eyes, placing her hand gently on his hand, speaking single word
+      with profound recognition of shared feeling
+  scene:
+    mainElements: Spacious room with polished oak floorboards, whitewashed walls with exposed dark wooden beams, musicians
+      gallery at one end, tall windows with heavy curtains, iron candelabras mounted on walls
+    details: Brilliant white lightning illuminates entire room in stroboscopic flashes, creating dramatic chiaroscuro effects
+      with deep shadows and blazing highlights, thunder crashes so powerfully that windows rattle and candle flames flicker
+      wildly, torrential rain sheets across window glass creating fluid distortions, other guests huddle together in fear
+      while these two stand transfixed by beauty of natural power, candlelight seems weak compared to lightning brilliance,
+      air electric with storm energy and unspoken emotion, no text or letters visible
+    background: Village beyond windows disappears and reappears in lightning flashes like phantoms, other people in room become
+      insignificant background figures cowering from storm, entire world reduced to two figures united in wonder at nature's
+      sublime power
+    atmosphere: Mystical communion between kindred souls, nature's violence as backdrop for spiritual connection, transcendent
+      moment beyond ordinary reality, shared recognition of deeper truth, romantic sublimity in face of natural terror, perfect
+      union of hearts witnessing divine power
+  composition:
+    cameraAngle: Close medium shot capturing both figures against storm-lit window
+    focus: Two figures in profile silhouetted and illuminated by lightning, hands touching in moment of perfect understanding
+    depth: 'Foreground: the two figures in mystical communion, middle ground: window with storm beyond, background: other
+      people and room details fade into relative insignificance'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Summer Afternoon in Maycomb"
+  setting:
+    time: "1933, hot summer afternoon, Alabama"
+    location: "Main residential street in Maycomb, Alabama during Great Depression, dusty dirt road with sidewalks, lined with Southern cottage-style homes"
+    weather: "Oppressive heat, blazing sun, dusty air from drought"
+  characters:
+    - appearance: "Girl, 6-9 years old, small and slender build, short straight brown hair with bangs, expressive face with tomboyish features"
+      clothing: "Blue denim overalls, white cotton shirt, bare feet or simple brown shoes"
+      position: "Sitting on front porch steps of white wooden house"
+      action: "Looking down the street toward mysterious gray house at curve, swinging bare feet"
+    - appearance: "Boy, 10-13 years old, tall and lean athletic build, short brown hair, serious expression, left arm shorter than right after injury"
+      clothing: "White cotton shirt, brown knee-length shorts, brown leather shoes"
+      position: "Standing beside porch railing, one foot on step"
+      action: "Pointing toward distant gray house while talking to sister"
+  scene:
+    mainElements: "Single-story wooden frame houses with deep front porches, old oak trees providing shade, uneven cracked sidewalks"
+    details: "White painted wood house with green shutters and wide porch with swing, dust motes dancing in afternoon sunlight, shadows from oak trees creating patterns on dirt road, empty street with no movement except children"
+    background: "Sleepy Southern town atmosphere, other houses visible along street, heat shimmer rising from road"
+    atmosphere: "Languid summer drowsiness, mysterious tension from children's focus on distant house, sense of stories waiting to be discovered"
+  composition:
+    cameraAngle: "Wide establishing shot from across street"
+    focus: "Children on porch with gray house visible in background at street's curve"
+    depth: "Foreground: porch and children, middle ground: oak-shaded street, background: mysterious gray house shrouded in shadows, no text or letters visible"

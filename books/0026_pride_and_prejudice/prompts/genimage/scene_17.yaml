@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: Early 19th century England, evening, mid-spring
+    location: Anglican clergyman's residence in Kent village, adjacent to Rosings Park
+    weather: Stormy spring evening with rain beating against windows
+  characters:
+  - appearance: Man, 28 years old, tall imposing height, handsome strong features, noble bearing, dark hair carefully styled
+      in period fashion, serious expression that softens when genuinely pleased, athletic build from riding and outdoor activities,
+      pale complexion typical of English gentleman
+    clothing: Dark blue wool tailcoat with brass buttons, white linen shirt with high white cravat, dark breeches, polished
+      black leather boots, gold pocket watch chain visible, beaver top hat when outdoors, riding attire when on horseback
+    position: Standing in center of small parlor, pacing with agitated movements
+    action: Speaking with mixture of arrogance and passion, clearly struggling with conflicting emotions of love and wounded
+      pride
+  - appearance: Woman, 20 years old, beautiful dark intelligent eyes with expressive gaze, light and pleasing figure, average
+      height, not classically beautiful like her sister Jane but possessing striking charm, dark hair arranged in period-appropriate
+      style with loose curls framing her face, healthy complexion that gains attractive rosy color after physical exertion
+    clothing: Simple evening dress in deep green silk, white fichu at neckline, hair arranged simply, no elaborate jewelry,
+      modest indoor attire
+    position: Standing near fireplace with rigid posture
+    action: Facing Darcy with flashing eyes and proud defiant expression, speaking with controlled anger and wounded dignity
+  scene:
+    mainElements: Modest but comfortable two-story rectory with neat front garden, small parlor and dining room, functional
+      kitchen, simple furnishings appropriate for clerical income, vegetable garden behind house, all maintained with precise
+      orderliness
+    details: Small parlor lit by firelight and single oil lamp, rain visible streaming down windows, simple furniture pushed
+      aside by their confrontation, Charlotte's needlework abandoned on chair, tea service cold and forgotten, intimate domestic
+      space charged with emotional drama
+    background: Storm outside reflected in streaming windows, shadows dancing on walls from firelight
+    atmosphere: Quiet domestic peace, religious propriety, sounds of church bells, humble comfort under shadow of great estate
+  composition:
+    cameraAngle: Medium shot emphasizing emotional intensity in confined space
+    focus: Two figures in passionate confrontation, both proud and wounded
+    depth: 'Foreground: Elizabeth''s defiant stance; middle ground: Darcy''s agitated pacing; background: storm-lashed windows
+      reflecting internal tempest, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

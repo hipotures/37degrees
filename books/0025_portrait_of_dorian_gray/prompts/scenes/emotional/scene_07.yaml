@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Storm Clouds Gathering on Horizon"
+  setting:
+    time: "Late Victorian London, approaching evening with weather changing, 1880s"
+    location: "Okazała arystokratyczna rezydencja at Grosvenor Square West End, elegant townhouse interior with view of changing sky"
+    weather: "Dark clouds beginning to gather on horizon, atmospheric pressure changing"
+  characters:
+    - appearance: "Young man, 20 years old, smukły build, pełen wdzięku, kędzierzawe złote włosy framing face in rebellious locks, szczere niebieskie oczy, klasyczna owalna twarz z rysami made of kości słoniowej i płatków róży, finely curved szkarłatne usta, brak jakichkolwiek skaz, absolutna doskonała uroda"
+      clothing: "Nienaganny strój dandysa: perfectly tailored garments, jedwabna kamizelka, but now standing by window watching weather change with growing interest"
+      position: "Standing at tall window, body language showing increased tension and anticipation"
+      action: "Watching approaching storm with mixture of fascination and restlessness, movements becoming more deliberate and less naturally graceful, showing signs of inner awakening to new sensations"
+  scene:
+    mainElements: "Tall windows of wealthy Victorian townhouse framing view of changing sky, interior luxury contrasted with dramatic weather outside, beginning of visual metaphor for internal emotional change"
+    details: "Bogata paleta of interior now contrasted with darkening sky outside, elegant złota i kremowe tones of furnishings seeming brighter against storm clouds, francuskie meble and orientalne dywany creating safe harbor from approaching weather, growing contrast between internal luxury and external drama, no text or letters visible"
+    background: "London skyline under gathering storm clouds, dark masses building on horizon while foreground remains in last light of day, architectural silhouettes becoming more dramatic"
+    atmosphere: "Growing tension and anticipation, sense of change approaching like weather front, comfortable luxury of interior feeling less secure as external forces gather, first stirrings of restlessness and desire for something beyond current comfort, atmospheric pressure of approaching transformation both literal and metaphorical"
+  composition:
+    cameraAngle: "Medium shot from interior looking toward window and figure silhouetted against changing sky"
+    focus: "Young man drawn to window by approaching storm, showing first signs of attraction to drama and intensity"
+    depth: "Foreground: elegant interior furnishings, middle ground: figure at window, background: dramatic sky with gathering storm clouds"

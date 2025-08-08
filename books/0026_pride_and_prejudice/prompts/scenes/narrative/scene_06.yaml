@@ -1,0 +1,32 @@
+sceneDescription:
+  title: "Arrival at Netherfield with Muddy Petticoats"
+  setting:
+    time: "Early 19th century England, mid-morning, early autumn"
+    location: "Grand rented estate in Hertfordshire, three miles from Longbourn"
+    weather: "Clear morning light streaming through tall windows"
+  characters:
+    - appearance: "Woman, 20 years old, beautiful dark intelligent eyes with expressive gaze, light and pleasing figure, average height, not classically beautiful like her sister Jane but possessing striking charm, dark hair arranged in period-appropriate style with loose curls framing her face, healthy complexion that gains attractive rosy color after physical exertion"
+      clothing: "Forest green wool walking dress with mud-stained hem and petticoats, brown wool pelisse slightly damp, muddy brown leather walking boots, bonnet somewhat disheveled from walk, shawl wrapped around shoulders, appearance showing effects of country walk"
+      position: "Standing in elegant drawing room having just entered"
+      action: "Looking around with bright intelligent eyes, slightly breathless from walk, unconsciously adjusting disheveled bonnet"
+    - appearance: "Man, 28 years old, tall imposing height, handsome strong features, noble bearing, dark hair carefully styled in period fashion, serious expression that softens when genuinely pleased, athletic build from riding and outdoor activities, pale complexion typical of English gentleman"
+      clothing: "Dark blue wool tailcoat with brass buttons, white linen shirt with high white cravat, dark breeches, polished black leather boots, gold pocket watch chain visible, beaver top hat when outdoors, riding attire when on horseback"
+      position: "Standing near fireplace, having risen upon her entrance"
+      action: "Observing Elizabeth with unmistakable admiration, particularly noting her bright eyes and healthy color"
+    - appearance: "Fashionably dressed woman in her twenties, haughty expression, elaborate coiffure"
+      clothing: "Expensive morning dress in pale yellow silk with intricate lace trim, multiple jewelry pieces, perfectly arranged hair"
+      position: "Seated on elegant sofa with shocked expression"
+      action: "Staring at Elizabeth's muddy appearance with barely concealed disapproval and raised eyebrows"
+    - appearance: "Similar fashionably dressed woman, equally disdainful"
+      clothing: "Lavender silk dress with expensive accessories, hair in latest fashion"
+      position: "Standing beside sofa with condescending expression"
+      action: "Exchanging meaningful looks with her sister, clearly scandalized by the muddy petticoats"
+  scene:
+    mainElements: "Large Palladian mansion with imposing columned facade, extensive manicured grounds, formal gardens, grand entrance hall with marble floors, elegant drawing rooms with high ceilings, modern furnishings in latest Regency style, everything pristine and fashionable"
+    details: "Luxurious drawing room with pale silk wallpaper, gilt mirrors, crystal chandelier, expensive furniture arranged formally, Persian carpet on polished floor, fresh flowers in Chinese vases, morning room perfect in every detail except for muddy footprints on carpet, contrast between Elizabeth's natural dishevelment and room's artificial perfection"
+    background: "View through tall windows of perfectly manicured grounds, formal garden visible beyond"
+    atmosphere: "Wealthy sophistication, formal entertaining spaces, slight coldness of new money attempting elegance, sounds of servants maintaining perfection"
+  composition:
+    cameraAngle: "Medium shot capturing contrast between muddy visitor and pristine interior"
+    focus: "Elizabeth's vibrant natural appearance against formal artificial surroundings"
+    depth: "Foreground: muddy boots on carpet; middle ground: Elizabeth and shocked observers; background: elegant room details, no text or letters visible"

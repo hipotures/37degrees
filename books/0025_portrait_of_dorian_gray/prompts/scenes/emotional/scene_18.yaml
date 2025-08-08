@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Emotional Breaking Point - Tears Visible on Faces"
+  setting:
+    time: "Late Victorian London, darkest hour before dawn, 1880s"
+    location: "Dawna bawialnia and later gabinet Doriana from childhood, nieużywana od lat, duży dobrze proporcjonalny pokój but zaniedbany i zapuszczony on top floor of Dorian's house"
+    weather: "Pre-dawn darkness with no relief, air completely still and oppressive"
+  characters:
+    - appearance: "Young man, 20 years old, smukły build, pełen wdzięku, kędzierzawe złote włosy now completely disheveled, szczere niebieskie oczy now streaming with tears of horror and self-recognition, klasyczna owalna twarz z rysami made of kości słoniowej i płatków róży now contorted with anguish, finely curved szkarłatne usta twisted in expression of complete despair, brak jakichkolwiek skaz, absolutna doskonała uroda now serving as cruel mockery of inner corruption"
+      clothing: "Nienaganny strój dandysa: perfectly tailored garments now torn and stained, jedwabna kamizelka ripped open, luksusowe dodatki scattered and broken"
+      position: "Collapsed on floor in fetal position, showing complete psychological breakdown"
+      action: "Sobbing uncontrollably while staring at terrible transformation in portrait, holding Małe podręczne lusterko w oprawie z kości słoniowej comparing unchanged face with hideous painted version, showing peak vulnerability and complete moral collapse"
+  scene:
+    mainElements: "Całe pomieszczenie pokrywa kurz now disturbed by violent activity, dywan podziurawiony stained with tears, ogromna włoska cassone z wytartymi złoceniami now open and revealing hidden horrors, central focus on Twarz całkowicie potworna zwiędła pomarszczona o odrazaǳacym wyrazie zła hipokryzji i rozkładu, plamy krwi na dłoniach from Basil's murder visible on painted hands"
+    details: "Szafka na książki z drewna satynowego with podniszczonymi szkolnymi podręcznikami now overturned, stół i krzeseł broken from violent confrontation, pojedyncza na wpół wypalona świeca creating harsh shadows that emphasize moral horror, wilgotny zapach stęchlizny now mixed with smell of fear and despair, no text or letters visible"
+    background: "Zniszczony flamandzki gobelin on wall showing wyblakłe postacie króla i królowej graja w szachy now appearing to judge the moral destruction below"
+    atmosphere: "Peak emotional breaking point, mroczna grobowa atmosfera now filled with sobbing and self-recognition of ultimate moral failure, stęchlizna mixed with scent of psychological breakdown, poczucie uwięzienia now complete as character realizes he cannot escape consequences of his choices, maximum vulnerability as perfect exterior confronts hideous interior truth, tears falling like rain in this chamber of moral horror"
+  composition:
+    cameraAngle: "Close-up emphasizing tears and complete emotional breakdown"
+    focus: "Figure collapsed in complete despair, showing peak vulnerability and moral recognition"
+    depth: "Foreground: broken figure with tears visible, middle ground: destroyed room and portrait revealing moral truth, background: judging tapestry figures watching downfall"

@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1679, early morning with dense tropical fog limiting visibility to few feet
+    location: Tropical island landscape completely transformed by thick fog bank
+    weather: Extremely dense fog creating mysterious limited visibility, cool and humid conditions
+  characters:
+  - appearance: Mężczyzna, wiek od 27 do 55 lat, postawny i muskularny, ogorzały od słońca, długie niestrzyżone włosy, długa
+      gęsta broda przystrzyżona w tureckie wąsy mahometańskie, twarz poorana zmarszczkami od słońca, dziki barbarzyński wygląd
+    clothing: 'Kompletny strój z koziej skóry: wysoka stożkowata bezkształtna czapka z klapą chroniącą kark, krótka kurtka
+      z koziej skóry z sierścią na zewnątrz sięgająca do połowy uda, spodnie z koziej skóry do kolan z długą sierścią zwisającą
+      do połowy łydek, wysokie sznurowane buty z koziej skóry, szeroki pas z suszonej skóry'
+    position: Moving carefully through fog with arms extended, navigating by feel and memory
+    action: Attempting to reach familiar locations despite complete visual disorientation, relying on years of intimate knowledge
+      of terrain
+  scene:
+    mainElements: Familiar island landscape completely transformed and made mysterious by impenetrable fog, visibility limited
+      to arm's length, all familiar landmarks invisible
+    details: Thick white fog creating soft edges on all visible objects, everything beyond three feet completely obscured,
+      moisture condensing on all surfaces including clothing and hair, sounds muffled and seeming to come from unexpected
+      directions, familiar trees and rocks appearing suddenly as ghostly shapes, complete disorientation despite intimate
+      knowledge of area, water droplets hanging in air and coating vegetation
+    background: Complete white void beyond immediate vicinity, familiar landscape made alien and mysterious, no reference
+      points visible
+    atmosphere: Island transformed into mysterious alien world by weather, sense of displacement in familiar territory, beauty
+      and danger of limited visibility, quiet contemplative mood created by muffled environment
+  composition:
+    cameraAngle: Close shots emphasizing limited visibility and mysterious atmosphere
+    focus: Figure moving carefully through fog, mysterious shapes appearing and disappearing, soft edges and limited visibility
+    depth: 'Foreground: figure with arms extended navigating carefully, Middle: mysterious shapes in fog, Background: complete
+      white void, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia ink
+    - brown ink
+    background: white or aged paper
+    usageNotes: Monochromatic, tone through line density
+    saturation: none
+    contrast: created through line spacing
+  lineArt:
+    style: systematic parallel lines
+    weight: consistent, fine
+    color: black or brown ink
+    texture: created entirely through lines
+    edgeTreatment: defined by line direction changes
+  lighting:
+    type: implied through line density
+    direction: shown through hatching direction
+    intensity: varies with line spacing
+    shadows:
+      style: dense crosshatching
+      color: black ink
+      opacity: line density
+    highlights: sparse or no lines
+  rendering:
+    technique: traditional pen technique
+    texture: entirely line-based
+    detailLevel: high through careful line work
+    finish: hand-drawn quality
+  perspective: traditional, often architectural
+  mood:
+    overall: classic, scholarly, detailed
+    emotion: contemplative, serious, refined
+    tempo: measured, careful
+    keywords:
+    - classic
+    - scholarly
+    - refined
+    - traditional
+    - meticulous
+  stylePrecedents:
+  - Albrecht Dürer
+  - Rembrandt etchings
+  - Scientific illustration
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

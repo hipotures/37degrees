@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Visit to Calpurnia's Church"
+  setting:
+    time: "1934, Sunday morning, church service"
+    location: "Colored Section of Maycomb Alabama, beyond dump from white section, collection of small cabins"
+    weather: "Bright Sunday morning, clean spring air"
+  characters:
+    - appearance: "African-American woman, 50s, very thin angular build, sharp features, often squints due to nearsightedness"
+      clothing: "Simple brown dress with white apron when working, clean Sunday dress for church"
+      position: "Walking proudly with children toward church entrance"
+      action: "Upright, authoritative bearing, introducing children to her community"
+    - appearance: "Girl, 6-9 years old, small and slender build, short straight brown hair with bangs, expressive face with tomboyish features"
+      clothing: "Stiff white Sunday dress, uncomfortable formal clothes"
+      position: "Walking beside Calpurnia, looking around with wide eyes"
+      action: "Curious but nervous, experiencing new world for first time"
+    - appearance: "Boy, 10-13 years old, tall and lean athletic build, short brown hair, serious expression, left arm shorter than right after injury"
+      clothing: "Clean white shirt, formal dark pants, Sunday shoes"
+      position: "Following behind Calpurnia and Scout"
+      action: "Observant and respectful, noting differences from familiar white world"
+  scene:
+    mainElements: "Poor but clean and dignified community, strong sense of togetherness and faith"
+    details: "Small neat wooden cabins with chimneys smoking, swept yards, First Purchase African M.E. Church with congregation gathering in Sunday clothes, children as only white faces in crowd, hymn singing without musical instruments"
+    background: "Small neat wooden cabins with chimneys smoking, swept yards, First Purchase African M.E. Church"
+    atmosphere: "Cultural bridge between two worlds, children discovering dignity and faith in poverty, community warmth despite hardship"
+  composition:
+    cameraAngle: "Medium shot showing church entrance with congregation"
+    focus: "Calpurnia proudly escorting white children into black church"
+    depth: "Foreground: church steps and gathering congregation, middle ground: Calpurnia with children, background: simple church building and community cabins, no text or letters visible"

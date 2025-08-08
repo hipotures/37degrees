@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Caught Between Light and Shadow of Truth"
+  setting:
+    time: "Late Victorian London, twilight hour of moral revelation, 1880s"
+    location: "Dawna bawialnia and later gabinet Doriana from childhood, nieużywana od lat, duży dobrze proporcjonalny pokój but zaniedbany i zapuszczony on top floor of Dorian's house"
+    weather: "Uncertain weather with clouds racing across sky, alternating light and shadow"
+  characters:
+    - appearance: "Young man, 20 years old, smukły build, pełen wdzięku, kędzierzawe złote włosy catching fragments of light, szczere niebieskie oczy now showing profound inner conflict between innocence and corruption, klasyczna owalna twarz z rysami made of kości słoniowej i płatków róży half in light and half in shadow, finely curved szkarłatne usta trembling between smile and grimace, brak jakichkolwiek skaz, absolutna doskonała uroda serving as battleground between good and evil"
+      clothing: "Nienaganny strój dandysa: perfectly tailored garments now disheveled from emotional turmoil, jedwabna kamizelka partially undone, luksusowe dodatki forgotten in crisis of conscience"
+      position: "Standing precisely at boundary between light and shadow, body twisted as if torn between opposing forces"
+      action: "Alternating between reaching toward light and shrinking into shadow, hands trembling as he holds small mirror comparing his unchanged face with growing horror, movements showing complete emotional and moral confusion"
+  scene:
+    mainElements: "Split composition dividing room between areas of light and profound darkness, Idealny promienny wizerunek młodzieńca painted in stylu akademickim z nutą romantyzmu on one side contrasted with growing sense that something terrible is beginning to manifest"
+    details: "Ogromna włoska cassone z wytartymi złoceniami now seeming like tomb, szafka na książki z drewna satynowego with podniszczonymi szkolnymi podręcznikami representing lost innocence, stół i krzesło positioned to divide light and dark, pojedyncza na wpół wypalona świeca creating harsh division between illuminated and shadow areas, no text or letters visible"
+    background: "Zniszczony flamandzki gobelin on wall showing wyblakłe postacie króla i królowej grają w szachy now appearing to watch moral chess game between good and evil, windows alternately bright and dark as clouds race past"
+    atmosphere: "Maximum emotional tension and internal conflict, split-screen effect between innocence and corruption, mroczna atmosphere punctuated by moments of clarity and horror, wilgotny zapach stęchlizny mixed with sense of moral decay beginning, poczucie uwięzienia between two states of being, moment of maximum psychological crisis where character realizes the terrible price of his choices"
+  composition:
+    cameraAngle: "Dramatic split composition emphasizing division between light and shadow, good and evil"
+    focus: "Figure literally caught between opposing forces, showing moment of maximum internal conflict"
+    depth: "Foreground: anguished figure at moral crossroads, middle ground: room divided between light and shadow, background: tapestry figures seeming to watch moral struggle"

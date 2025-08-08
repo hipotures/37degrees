@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Storm Clouds Gathering - Nature's Warning"
+  setting:
+    time: "1771 June, late afternoon, changing light as clouds build"
+    location: "Spacious room with polished oak floorboards, whitewashed walls with exposed dark wooden beams, musicians gallery at one end, tall windows with heavy curtains, iron candelabras mounted on walls"
+    weather: "Sudden storm building outside, dark clouds massing, first distant rumbles of thunder"
+  characters:
+    - appearance: "Young man, 24 years old, slender athletic build, average height, expressive dark eyes, dark brown hair gathered simply at the nape with a black ribbon, clean-shaven with sharp jawline, intensely emotional facial expressions capable of extreme joy and deep melancholy"
+      clothing: "Iconic blue woolen frock coat with brass buttons, bright yellow silk waistcoat, cream-colored knee-length breeches, white linen shirt with ruffled jabots, white silk stockings, brown leather riding boots with small heel and brass buckle"
+      position: "Standing near tall window, body turned toward approaching storm"
+      action: "Dancing previously with joy, now frozen mid-movement as reality intrudes, face shifting from happiness to confusion and dawning comprehension of loss"
+    - appearance: "Young woman, 20 years old, medium height, graceful slender figure, striking black eyes, lively red lips, fresh rosy cheeks, chestnut brown hair styled in simple elegant updo with loose curls framing her face, natural healthy complexion"
+      clothing: "Simple white cotton dress with fitted bodice and full skirt, bright pink silk ribbons at shoulders and across the chest, white cotton cap with lace trim, simple brown leather shoes with small heel"
+      position: "Still in dance position but sensing change in her partner"
+      action: "Speaking softly about her betrothal to Albert, innocent of the devastation her words cause, hand gently placed on his arm in friendly gesture"
+  scene:
+    mainElements: "Spacious room with polished oak floorboards, whitewashed walls with exposed dark wooden beams, musicians gallery at one end, tall windows with heavy curtains, iron candelabras mounted on walls"
+    details: "Dozens of candles in iron candelabras flicker as drafts from gathering storm penetrate the room, tall windows reveal dark clouds massing outside with ominous speed, lightning illuminates windows briefly, other dancing couples continue unaware of personal drama unfolding, violin music seems to falter and become melancholy, shadows deepen as exterior light fades rapidly, thunder grows closer and more frequent, warm golden interior light contrasts sharply with blue-black storm light through windows, no text or letters visible"
+    background: "Other village couples dancing in background become shadowy and less distinct, musicians in gallery continue playing but music seems distant, storm visible through windows dominates the atmospheric mood"
+    atmosphere: "Moment of devastating revelation disguised as casual conversation, happiness crashing into harsh reality, storm outside mirrors internal emotional tempest beginning, innocence destroyed by simple truth, paradise lost in single moment, nature itself responding to emotional catastrophe"
+  composition:
+    cameraAngle: "Medium shot focusing on the two main figures with storm windows visible"
+    focus: "Young man's face registering shock while young woman remains oblivious to impact"
+    depth: "Foreground: two figures in moment of devastating revelation, middle ground: other dancers continuing unaware, background: storm building beyond tall windows"

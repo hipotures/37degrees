@@ -1,0 +1,104 @@
+sceneDescription:
+  setting:
+    time: 1772 December, evening, candlelight through windows
+    location: Warm domestic environment filled with sounds of children laughing, pianoforte music, domestic activities, scent
+      of cooking and beeswax candles, orderly comfortable middle-class home
+    weather: Cold winter evening with frost on windows, wind rattling shutters
+  characters:
+  - appearance: Young man, 24 years old, slender athletic build, average height, expressive dark eyes, dark brown hair gathered
+      simply at the nape with a black ribbon, clean-shaven with sharp jawline, intensely emotional facial expressions capable
+      of extreme joy and deep melancholy
+    clothing: Iconic blue woolen frock coat with brass buttons, bright yellow silk waistcoat, cream-colored knee-length breeches,
+      white linen shirt with ruffled jabots, white silk stockings, brown leather riding boots with small heel and brass buckle
+    position: Standing awkwardly just inside doorway, uninvited but unable to stay away
+    action: Gazing desperately at domestic scene that no longer includes him, hands trembling with suppressed emotion, face
+      showing torment at being so close yet infinitely distant from happiness
+  - appearance: Young woman, 20 years old, medium height, graceful slender figure, striking black eyes, lively red lips, fresh
+      rosy cheeks, chestnut brown hair styled in simple elegant updo with loose curls framing her face, natural healthy complexion
+    clothing: Simple white cotton dress with fitted bodice and full skirt, bright pink silk ribbons at shoulders and across
+      the chest, white cotton cap with lace trim, simple brown leather shoes with small heel
+    position: Seated beside husband at dinner table, wedding ring visible on hand
+    action: Looking up with mixture of concern and discomfort at unexpected visitor, torn between kindness and loyalty to
+      husband, unconsciously moving closer to Albert for protection
+  - appearance: Mature man, 31 years old, solid stocky build, tall stature, composed intelligent face, light brown hair in
+      powdered formal wig, clean-shaven, steady gray eyes, dignified bearing
+    clothing: Dark brown woolen frock coat with silver buttons, beige silk waistcoat, dark brown knee-length breeches, white
+      linen shirt with simple white cravat, white stockings, polished black leather shoes with silver buckles
+    position: Seated at head of table in position of domestic authority
+    action: Rising slowly with controlled politeness but evident tension, face showing strain of dealing with unwelcome intrusion
+      into his marriage, protective stance toward wife
+  scene:
+    mainElements: Two-story house with white plastered walls and dark timber framing, red tile roof, heavy wooden front door
+      with brass knocker, diamond-paned windows with wooden shutters, kitchen garden and fruit trees behind house
+    details: Warm candlelight from dinner table creates intimate glow that excludes the intruder, winter frost covers diamond-paned
+      windows like prison bars, sound of domestic harmony - children's voices, clinking dishes, quiet conversation - emphasizes
+      his exclusion, scent of roasted meat and winter vegetables reminds him of meals once shared, wedding portrait on mantelpiece
+      shows union that destroyed his dreams, comfortable furniture arranged for family life has no place for unwanted visitor,
+      no text or letters visible
+    background: Through frosted windows, winter night appears cold and forbidding, village beyond seems hostile to wandering
+      soul, warm light from other houses emphasizes his homelessness
+    atmosphere: Painful exclusion from former paradise, domestic happiness become source of torture, watching life that should
+      have been his, suffocating pressure of being unwanted in place once welcoming, walls of contentment closing in on desperate
+      intruder
+  composition:
+    cameraAngle: Medium wide shot from inside room showing intruder against family tableau
+    focus: Unwelcome visitor in doorway contrasted with united family group around dinner table
+    depth: 'Foreground: awkward intruder in doorway, middle ground: family dinner scene with evident tension, background:
+      warm domestic interior that no longer offers sanctuary'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

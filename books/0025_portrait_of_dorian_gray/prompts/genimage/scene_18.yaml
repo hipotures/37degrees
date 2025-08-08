@@ -1,0 +1,94 @@
+sceneDescription:
+  setting:
+    time: Late Victorian London, darkest hour before dawn, 1880s
+    location: Dawna bawialnia and later gabinet Doriana from childhood, nieużywana od lat, duży dobrze proporcjonalny pokój
+      but zaniedbany i zapuszczony on top floor of Dorian's house
+    weather: Pre-dawn darkness with no relief, air completely still and oppressive
+  characters:
+  - appearance: Young man, 20 years old, smukły build, pełen wdzięku, kędzierzawe złote włosy now completely disheveled, szczere
+      niebieskie oczy now streaming with tears of horror and self-recognition, klasyczna owalna twarz z rysami made of kości
+      słoniowej i płatków róży now contorted with anguish, finely curved szkarłatne usta twisted in expression of complete
+      despair, brak jakichkolwiek skaz, absolutna doskonała uroda now serving as cruel mockery of inner corruption
+    clothing: 'Nienaganny strój dandysa: perfectly tailored garments now torn and stained, jedwabna kamizelka ripped open,
+      luksusowe dodatki scattered and broken'
+    position: Collapsed on floor in fetal position, showing complete psychological breakdown
+    action: Sobbing uncontrollably while staring at terrible transformation in portrait, holding Małe podręczne lusterko w
+      oprawie z kości słoniowej comparing unchanged face with hideous painted version, showing peak vulnerability and complete
+      moral collapse
+  scene:
+    mainElements: Całe pomieszczenie pokrywa kurz now disturbed by violent activity, dywan podziurawiony stained with tears,
+      ogromna włoska cassone z wytartymi złoceniami now open and revealing hidden horrors, central focus on Twarz całkowicie
+      potworna zwiędła pomarszczona o odrazaǳacym wyrazie zła hipokryzji i rozkładu, plamy krwi na dłoniach from Basil's murder
+      visible on painted hands
+    details: Szafka na książki z drewna satynowego with podniszczonymi szkolnymi podręcznikami now overturned, stół i krzeseł
+      broken from violent confrontation, pojedyncza na wpół wypalona świeca creating harsh shadows that emphasize moral horror,
+      wilgotny zapach stęchlizny now mixed with smell of fear and despair, no text or letters visible
+    background: Zniszczony flamandzki gobelin on wall showing wyblakłe postacie króla i królowej graja w szachy now appearing
+      to judge the moral destruction below
+    atmosphere: Peak emotional breaking point, mroczna grobowa atmosfera now filled with sobbing and self-recognition of ultimate
+      moral failure, stęchlizna mixed with scent of psychological breakdown, poczucie uwięzienia now complete as character
+      realizes he cannot escape consequences of his choices, maximum vulnerability as perfect exterior confronts hideous interior
+      truth, tears falling like rain in this chamber of moral horror
+  composition:
+    cameraAngle: Close-up emphasizing tears and complete emotional breakdown
+    focus: Figure collapsed in complete despair, showing peak vulnerability and moral recognition
+    depth: 'Foreground: broken figure with tears visible, middle ground: destroyed room and portrait revealing moral truth,
+      background: judging tapestry figures watching downfall'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues and violets
+    - gold and old gold
+    - dark greens
+    - blood red
+    secondary:
+    - pearl white
+    - ivory shades
+    - dark brown
+    background: dreamlike landscapes, dark interiors, undefined space
+    usageNotes: Colors build mood and have symbolic meaning, need not be realistic.
+    saturation: often muted, except for symbolic bright accents
+    contrast: medium to high, often with large dark areas
+  lineArt:
+    style: flowing, elegant contour, but often fading into darkness
+    weight: varied, from delicate to strong
+    color: integrated with color patches
+    texture: smooth, but rich in ornamental details
+    edgeTreatment: soft, often blurred edges
+  lighting:
+    type: mysterious, unnatural, often spotlights or inner glow
+    direction: undefined, building atmosphere of mystery
+    intensity: low, with dramatic bright points
+    shadows:
+      style: deep, soft, enveloping figures
+      color: dark browns, violets, blues
+      opacity: heavy, impenetrable
+    highlights: luminous halos, magical glow, golden details
+  rendering:
+    technique: oil painting with attention to detail but soft modeling
+    texture: rich textures of fabrics, jewelry, feathers
+    detailLevel: high in symbolic details, background often simplified
+    finish: matte or satin, with shimmering accents
+  perspective: often flattened, decorative, subordinated to symbolic composition
+  mood:
+    overall: mysterious, atmospheric, literary
+    emotion: melancholy, longing, spirituality, unease
+    tempo: slow, contemplative
+    keywords:
+    - atmospheric
+    - mystical
+    - dreamlike
+    - symbolic
+    - decadent
+  stylePrecedents:
+  - Gustave Moreau
+  - Odilon Redon
+  - Arnold Böcklin
+  - Jacek Malczewski
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

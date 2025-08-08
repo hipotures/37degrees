@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Winter Desolation - Soul in Frozen Wasteland"
+  setting:
+    time: "1772 April, late afternoon, gray overcast sky"
+    location: "Gentle grassy hilltop overlooking Wahlheim valley, two ancient massive linden trees providing deep shade, small rural church and graveyard at base"
+    weather: "Cold, damp day with threatening clouds, intermittent rain, harsh wind"
+  characters:
+    - appearance: "Young man, 24 years old, slender athletic build, average height, expressive dark eyes, dark brown hair gathered simply at the nape with a black ribbon, clean-shaven with sharp jawline, intensely emotional facial expressions capable of extreme joy and deep melancholy"
+      clothing: "Iconic blue woolen frock coat with brass buttons, bright yellow silk waistcoat, cream-colored knee-length breeches, white linen shirt with ruffled jabots, white silk stockings, brown leather riding boots with small heel and brass buckle"
+      position: "Sitting hunched on wooden bench beneath bare linden trees, body curved inward protectively"
+      action: "Staring blankly across desolate valley, shoulders shaking with cold and emotion, holding letter that brought devastating news, face expressing utter despair and spiritual emptiness"
+  scene:
+    mainElements: "Two enormous linden trees with spreading crowns and thick gnarled trunks, simple wooden bench beneath trees, panoramic view across valley with patchwork fields and distant forests, small stone church with bell tower"
+    details: "Bare linden branches create skeletal canopy against gray sky, wooden bench darkened by rain and weathered by winter storms, view across valley reveals brown stubbled fields and leafless trees, small church below seems abandoned and cheerless, intermittent cold rain patters on remaining dead leaves, harsh wind whistles through bare branches, muddy ground shows patches of dirty snow, letter in his hands appears crumpled and tear-stained, atmosphere of complete desolation pervades formerly beloved sanctuary, no text or letters visible except in his hand"
+    background: "Valley appears colorless and lifeless under gray sky, village below shows little sign of activity, distant forests appear as dark smudges against threatening horizon"
+    atmosphere: "Complete spiritual desolation and hopelessness, former paradise transformed into wasteland mirroring internal despair, nature itself seems to have died, absolute loneliness in place once filled with dreams, winter of the soul made visible in landscape"
+  composition:
+    cameraAngle: "Medium shot from ground level showing solitary figure against desolate landscape"
+    focus: "Hunched figure on bench representing total despair in former sanctuary now turned wasteland"
+    depth: "Foreground: suffering individual beneath dead trees, middle ground: bench and immediate hilltop, background: desolate valley stretching to gray horizon"

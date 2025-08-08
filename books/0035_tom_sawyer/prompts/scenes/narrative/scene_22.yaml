@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Justice in the Sealed Tomb"
+  setting:
+    time: "1840s Missouri, morning after cave has been sealed by authorities"
+    location: "Inside McDougal's Cave at the sealed main entrance, iron door newly installed"
+    weather: "Morning light filtering weakly through iron grating of sealed entrance"
+  characters:
+    - appearance: "Two boys, 12-14 years old, recovered from recent ordeal, mix of curiosity and dread on faces"
+      clothing: "Clean everyday clothes, moving carefully due to recent injuries"
+      position: "Standing at sealed cave entrance examining new iron door and lock"
+      action: "Discussing implications of sealing cave and wondering about escaped criminal's fate"
+    - appearance: "Several town officials and concerned citizens"
+      clothing: "Formal attire appropriate for official business"
+      position: "Gathered at cave entrance for official sealing"
+      action: "Ensuring cave is properly secured to prevent future tragedies, discussing safety measures"
+  scene:
+    mainElements: "Massive iron door with heavy lock sealing cave entrance, carved stone lintel above entrance, scattered tools from installation work"
+    details: "Fresh scratches on rocks around door from desperate escape attempts, broken fingernails and dried blood on stone, heavy iron key in official's hand, sound echoing from sealed interior, no text or letters visible"
+    background: "Hillside cave entrance now permanently secured, path leading down to town visible below, other hills and forests in distance"
+    atmosphere: "Final justice served by nature itself, closure of chapter involving murder and danger, community safety restored through permanent solution"
+  composition:
+    cameraAngle: "Medium shot showing sealed entrance and gathered officials"
+    focus: "Permanent resolution of danger, justice achieved through natural consequences rather than human punishment"
+    depth: "Foreground: boys contemplating sealed entrance, middle ground: officials ensuring security, background: town visible below, safe from danger"

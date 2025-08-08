@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: 1772 December 22-23, midnight, single candle flame
+    location: Small chamber with single window overlooking garden, wooden writing desk with chair, narrow bed with white linens,
+      washstand with ceramic basin, wooden chest for belongings, bookshelf with few volumes
+    weather: Deep winter night, snow continuing to fall in absolute silence
+  characters:
+  - appearance: Young man, 24 years old, slender athletic build, average height, expressive dark eyes, dark brown hair gathered
+      simply at the nape with a black ribbon, clean-shaven with sharp jawline, intensely emotional facial expressions capable
+      of extreme joy and deep melancholy
+    clothing: Iconic blue woolen frock coat with brass buttons, bright yellow silk waistcoat, cream-colored knee-length breeches,
+      white linen shirt with ruffled jabots, white silk stockings, brown leather riding boots with small heel and brass buckle
+    position: Slumped over desk, having fallen forward from chair
+    action: Body motionless after the fatal shot, pistol fallen from nerveless fingers, blood staining the papers beneath
+      his head, face finally at peace after long torment
+  scene:
+    mainElements: Small chamber with single window overlooking garden, wooden writing desk with chair, narrow bed with white
+      linens, washstand with ceramic basin, wooden chest for belongings, bookshelf with few volumes
+    details: Candle flame flickers wildly from impact of gunshot then steadies again, acrid smoke of gunpowder hangs in still
+      air, small octavo volume bound in plain brown paper covers (Emilia Galotti) lies open beside his head, farewell letters
+      scattered and now stained with blood, matched flintlock pistol lies on floor where it fell from his hand after firing,
+      snow continues falling silently outside window, room filled with profound stillness after violent interruption, scent
+      of gunpowder mixed with candle wax and winter air, no text or letters visible except his own blood-stained writing
+    background: Village sleeps on undisturbed, no lights appear in response to gunshot, snow-covered world continues its peaceful
+      slumber unaware of tragedy
+    atmosphere: Ultimate release from unbearable suffering, violence followed immediately by supernatural peace, mortal pain
+      transformed into eternal rest, dramatic climax followed by complete stillness, storm finally ended in absolute calm
+  composition:
+    cameraAngle: Close shot of desk scene showing aftermath with symbolic objects
+    focus: Motionless figure finally at peace, surrounded by instruments of his passion - letters, book, pistol
+    depth: 'Foreground: tragic tableau at desk with all symbolic elements visible, middle ground: room as witness to final
+      act, background: peaceful sleeping world beyond window'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

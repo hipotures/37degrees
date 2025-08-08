@@ -1,0 +1,108 @@
+sceneDescription:
+  setting:
+    time: 1772 December, Sunday morning, cold gray light
+    location: Village church interior with stone walls, wooden pews, simple altar
+    weather: Overcast winter morning with snow beginning to fall
+  characters:
+  - appearance: Young man, 24 years old, slender athletic build, average height, expressive dark eyes, dark brown hair gathered
+      simply at the nape with a black ribbon, clean-shaven with sharp jawline, intensely emotional facial expressions capable
+      of extreme joy and deep melancholy
+    clothing: Iconic blue woolen frock coat with brass buttons, bright yellow silk waistcoat, cream-colored knee-length breeches,
+      white linen shirt with ruffled jabots, white silk stockings, brown leather riding boots with small heel and brass buckle
+    position: Sitting alone in back pew, hunched forward under invisible weight
+    action: Surrounded by village families but utterly isolated, face showing crushing loneliness, hands pressed to head as
+      if trying to shut out the world's judgment, body language expressing complete defeat
+  - appearance: Village congregation of various ages and social positions, all in their Sunday best
+    clothing: Traditional Sunday attire in dark colors - men in formal coats, women in their finest dresses with bonnets and
+      shawls
+    position: Filling pews in family groups throughout church
+    action: Whispering among themselves while glancing back at solitary figure, their judgmental attention creating suffocating
+      pressure, children staring with innocent curiosity while parents hush them
+  - appearance: Mature man, 31 years old, solid stocky build, tall stature, composed intelligent face, light brown hair in
+      powdered formal wig, clean-shaven, steady gray eyes, dignified bearing
+    clothing: Dark brown woolen frock coat with silver buttons, beige silk waistcoat, dark brown knee-length breeches, white
+      linen shirt with simple white cravat, white stockings, polished black leather shoes with silver buckles
+    position: Seated in prominent pew with wife and extended family
+    action: Pointedly avoiding looking toward back of church, maintaining dignity while aware of uncomfortable situation,
+      protective arm around wife
+  - appearance: Young woman, 20 years old, medium height, graceful slender figure, striking black eyes, lively red lips, fresh
+      rosy cheeks, chestnut brown hair styled in simple elegant updo with loose curls framing her face, natural healthy complexion
+    clothing: Dark blue wool dress suitable for church with white collar and cuffs, dark bonnet framing her face
+    position: Seated close beside husband in family pew
+    action: Struggling not to turn around and look at him, face showing internal conflict between duty and compassion, hands
+      folded tightly in lap to maintain composure
+  scene:
+    mainElements: Stone church interior with arched windows, wooden pews arranged in rows, simple wooden altar with cross,
+      oil paintings of biblical scenes on walls
+    details: Cold stone walls create echoing acoustic that amplifies whispers into accusations, weak winter light filters
+      through plain glass windows casting harsh shadows, wooden pews worn smooth by generations of worshippers create feeling
+      of ancient judgment, church bells have stopped ringing leaving oppressive silence, scent of old wood and cold stone
+      suggests tomb-like finality, congregation's unified disapproval creates invisible prison around solitary figure, no
+      text or letters visible except prayer books
+    background: Through windows, snow falls steadily on village creating sense of being trapped, other church-goers' carriages
+      wait outside suggesting normal life continuing without him
+    atmosphere: Suffocating social pressure and community judgment, religious setting amplifying sense of moral condemnation,
+      isolation within crowd more painful than solitude, weight of collective disapproval crushing individual spirit, sanctuary
+      transformed into courtroom
+  composition:
+    cameraAngle: High angle shot from church gallery looking down on congregation
+    focus: Solitary figure in back pew crushed by invisible weight of social judgment
+    depth: 'Foreground: lone figure in emotional collapse, middle ground: congregation creating wall of judgment, background:
+      altar and religious symbols offering no comfort'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

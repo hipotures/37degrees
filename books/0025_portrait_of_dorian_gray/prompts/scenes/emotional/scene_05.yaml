@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Perfect Moment of Aesthetic Completion"
+  setting:
+    time: "Late Victorian London, golden hour evening, 1880s"
+    location: "Victorian West End artist's studio, duże wysokie pomieszczenie with ogromne okno sięgające od podłogi do sufitu overlooking starannie pielęgnowany ogród, wiktoriańska kamienica interior"
+    weather: "Perfect golden evening light casting warm glow over everything"
+  characters:
+    - appearance: "Young man, 20 years old, smukły build, pełen wdzięku, kędzierzawe złote włosy framing face in rebellious locks, szczere niebieskie oczy, klasyczna owalna twarz z rysami made of kości słoniowej i płatków róży, finely curved szkarłatne usta, brak jakichkolwiek skaz, absolutna doskonała uroda"
+      clothing: "Nienaganny strój dandysa: perfectly tailored elegant evening attire, jedwabna kamizelka, drogie krawaty, nieskazitelnie biała koszula, kwiat w butonierce"
+      position: "Standing before completed portrait in moment of wonder and recognition"
+      action: "Gazing at finished artwork with mixture of admiration and self-recognition, naturalny młodzieńczy wdzięk evident in posture, kapryśne porywcze gestures showing genuine emotional response to seeing himself captured in art"
+  scene:
+    mainElements: "Masywna drewniana sztaluga displaying naturalnej wielkości portret Doriana Graya in its completed, perfect state as masterpiece of art, przestrzeń otwarta bathed in golden evening light creating magical artistic moment, entire studio arranged around this moment of aesthetic triumph"
+    details: "Idealny promienny wizerunek młodzieńca painted in stylu akademickim z nutą romantyzmu showing perfect representation of youth and purity created by artistic genius, głębokie czerwienie i złoto perskich dywanów enhanced by evening light, jedwabne zasłony catching gentle breeze, przybory malarskie arranged as if completing great work, no text or letters visible"
+    background: "View of starannie pielęgnowany ogród through wielkie okno in peak of golden hour beauty, roses and flowering plants in full bloom creating perfect natural backdrop"
+    atmosphere: "Pinnacle moment of aesthetic achievement and recognition, perfect harmony between art and subject, golden light creating almost sacred atmosphere around artistic creation, ciężki zapach róż and słodka woń kwitnącego bzu filling air like incense, sense of completion and perfection, moment when youth recognizes its own immortal beauty captured forever in art, peaceful triumph of aesthetic vision"
+  composition:
+    cameraAngle: "Medium shot capturing both youth and portrait in moment of mutual recognition"
+    focus: "Young man contemplating his own perfect image captured in art, showing wonder at aesthetic achievement"
+    depth: "Foreground: figure gazing at portrait, middle ground: completed masterpiece on easel, background: golden garden view creating halo effect"

@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1660, overcast midday with flat gray light eliminating shadows
+    location: Główna siedziba Crusoe u podnóża stromego skalistego wzgórza na tropikalnej wyspie
+    weather: Heavy overcast sky with muted light, colors rich but soft, approaching storm front
+  characters:
+  - appearance: Mężczyzna, wiek od 27 do 55 lat, postawny i muskularny, ogorzały od słońca, długie niestrzyżone włosy, długa
+      gęsta broda przystrzyżona w tureckie wąsy mahometańskie, twarz poorana zmarszczkami od słońca, dziki barbarzyński wygląd
+    clothing: 'Kompletny strój z koziej skóry: wysoka stożkowata bezkształtna czapka z klapą chroniącą kark, krótka kurtka
+      z koziej skóry z sierścią na zewnątrz sięgająca do połowy uda, spodnie z koziej skóry do kolan z długą sierścią zwisającą
+      do połowy łydek, wysokie sznurowane buty z koziej skóry, szeroki pas z suszonej skóry'
+    position: Working at construction of palisade, methodically placing wooden stakes
+    action: Hammering stakes into ground with systematic determination, pausing to wipe sweat despite cooler air
+  scene:
+    mainElements: Półokrągła palisada z podwójnego rzędu grubych zaostrzonych pali wbitych głęboko w ziemię, przestrzeń między
+      palami wypełniona kablami okrętowymi tworząca niemal litą ścianę, brak bramy tylko krótka drabina wciągana do środka,
+      podwójny namiot w środku przykryty smołowaną plandeką z żagla, jaskinia wykuta w skale służąca jako piwnica i magazyn
+      z zorganizowanymi półkami
+    details: Even gray light eliminating harsh shadows, colors appearing rich but muted under cloud cover, wooden stakes and
+      rope taking on subtle earth tones, construction tools scattered around work area, supplies organized in neat piles,
+      tent material rippling slightly in pre-storm breeze, cave entrance dark and mysterious
+    background: Rocky hill formation providing natural protection, dense tropical forest extending beyond clearing, gray overcast
+      sky creating soft light conditions
+    atmosphere: Quiet determination and methodical progress, sense of security being built through hard work, muted colors
+      creating contemplative mood, approaching weather adding urgency to construction
+  composition:
+    cameraAngle: Medium shot showing construction progress within natural setting
+    focus: Working figure and emerging fortification, even lighting revealing detail without harsh contrast
+    depth: 'Foreground: construction materials and tools, Middle: working figure and palisade, Background: rocky hill and
+      forest, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia ink
+    - brown ink
+    background: white or aged paper
+    usageNotes: Monochromatic, tone through line density
+    saturation: none
+    contrast: created through line spacing
+  lineArt:
+    style: systematic parallel lines
+    weight: consistent, fine
+    color: black or brown ink
+    texture: created entirely through lines
+    edgeTreatment: defined by line direction changes
+  lighting:
+    type: implied through line density
+    direction: shown through hatching direction
+    intensity: varies with line spacing
+    shadows:
+      style: dense crosshatching
+      color: black ink
+      opacity: line density
+    highlights: sparse or no lines
+  rendering:
+    technique: traditional pen technique
+    texture: entirely line-based
+    detailLevel: high through careful line work
+    finish: hand-drawn quality
+  perspective: traditional, often architectural
+  mood:
+    overall: classic, scholarly, detailed
+    emotion: contemplative, serious, refined
+    tempo: measured, careful
+    keywords:
+    - classic
+    - scholarly
+    - refined
+    - traditional
+    - meticulous
+  stylePrecedents:
+  - Albrecht Dürer
+  - Rembrandt etchings
+  - Scientific illustration
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

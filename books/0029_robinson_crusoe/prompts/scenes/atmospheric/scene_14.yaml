@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Evening Prayers at Cross Calendar"
+  setting:
+    time: "1675, golden hour with long shadows, windows of fortress reflecting fire of sunset"
+    location: "Główna siedziba Crusoe u podnóża stromego skalistego wzgórza na tropikalnej wyspie"
+    weather: "Perfect clear evening, gentle breeze, warm golden light transforming everything"
+  characters:
+    - appearance: "Mężczyzna, wiek od 27 do 55 lat, postawny i muskularny, ogorzały od słońca, długie niestrzyżone włosy, długa gęsta broda przystrzyżona w tureckie wąsy mahometańskie, twarz poorana zmarszczkami od słońca, dziki barbarzyński wygląd"
+      clothing: "Kompletny strój z koziej skóry: wysoka stożkowata bezkształtna czapka z klapą chroniącą kark, krótka kurtka z koziej skóry z sierścią na zewnątrz sięgająca do połowy uda, spodnie z koziej skóry do kolan z długą sierścią zwisającą do połowy łydek, wysokie sznurowane buty z koziej skóry, szeroki pas z suszonej skóry"
+      position: "Kneeling beside wooden cross calendar in evening light"
+      action: "Offering evening prayers with deep gratitude, reading from Bible in golden light, marking another day survived"
+  scene:
+    mainElements: "Półokrągła palisada z podwójnego rzędu grubych zaostrzonych pali wbitych głęboko w ziemię, przestrzeń między palami wypełniona kablami okrętowymi tworząca niemal litą ścianę, brak bramy tylko krótka drabina wciągana do środka, podwójny namiot w środku przykryty smołowaną plandeką z żagla, jaskinia wykuta w skale służąca jako piwnica i magazyn z zorganizowanymi półkami"
+    details: "Prosty duży drewniany krzyż wbity w ziemię z licznymi nacięciami na powierzchni - długie kreski dla dni, dłuższe dla niedziel, najdłuższe dla początku miesiąca, symbol walki z bezmiarem czasu, golden evening light casting long dramatic shadow of cross across compound, Bible open beside cross with pages fluttering in gentle breeze, tent canvas glowing warmly in sunset light, wooden palisade posts creating rhythmic pattern of light and shadow"
+    background: "Rocky hill formation glowing in golden light, forest canopy catching evening sun, sky transitioning from gold to orange on horizon"
+    atmosphere: "Peaceful end-of-day reflection and gratitude, spiritual contemplation enhanced by beautiful natural lighting, sense of routine and stability built through faith and discipline, golden light creating sacred quality to daily ritual"
+  composition:
+    cameraAngle: "Medium shot showing figure at cross with dramatic golden light and long shadows"
+    focus: "Praying figure beside cross calendar, Bible and evening devotion, golden hour lighting"
+    depth: "Foreground: cross shadow and open Bible, Middle: kneeling figure in prayer, Background: golden lit fortress and hillside, no text or letters visible"

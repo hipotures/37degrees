@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Elizabeth's Painful Enlightenment Reading the Letter"
+  setting:
+    time: "Early 19th century England, morning, mid-spring"
+    location: "Park grounds surrounding Rosings estate in Kent"
+    weather: "Bright morning sunlight filtering through spring foliage"
+  characters:
+    - appearance: "Woman, 20 years old, beautiful dark intelligent eyes with expressive gaze, light and pleasing figure, average height, not classically beautiful like her sister Jane but possessing striking charm, dark hair arranged in period-appropriate style with loose curls framing her face, healthy complexion that gains attractive rosy color after physical exertion"
+      clothing: "Walking dress in practical dark blue wool, warm shawl around shoulders, sturdy leather walking boots, bonnet with ribbons, gloves suitable for morning air"
+      position: "Seated alone on park bench beneath spreading oak tree"
+      action: "Reading letter with expression changing from skepticism to shock to shame, her face showing the painful process of self-discovery"
+  scene:
+    mainElements: "Letter written on high-quality cream vellum paper with Darcy's personal watermark, sealed with burgundy wax bearing his family crest, written in strong confident handwriting with black ink, multiple pages explaining his actions regarding Wickham and Jane"
+    details: "Peaceful park setting with wooden bench placed for contemplation, spring flowers blooming in nearby flower beds, ancient oak providing natural shelter, morning light creating gentle shadows, birds singing in branches above, natural tranquility contrasting with emotional turmoil of revelation"
+    background: "Rolling parkland with other benches and walking paths, distant view of estate buildings through trees"
+    atmosphere: "Fresh morning air after rain, sounds of nature awakening, peaceful solitude perfect for contemplation and truth-telling"
+  composition:
+    cameraAngle: "Close-up focusing on Elizabeth's face as understanding dawns"
+    focus: "Elizabeth's changing expressions as she processes each shocking revelation"
+    depth: "Foreground: letter in Elizabeth's hands; middle ground: her emotional transformation; background: peaceful natural setting witnessing her awakening, no text or letters visible"

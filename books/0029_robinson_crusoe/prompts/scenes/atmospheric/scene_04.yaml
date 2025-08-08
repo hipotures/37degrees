@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Slave Market Morning in Salé"
+  setting:
+    time: "1657, morning with fog lifting to reveal Moroccan port city"
+    location: "Ufortyfikowane miasto portowe Salé w Maroku, XVII wiek, stolica korsarzy"
+    weather: "Hot dry morning with lifting mist, harsh Mediterranean sunlight breaking through"
+  characters:
+    - appearance: "Mężczyzna, wiek 26 lat, wychudzony ale umięśniony od ciężkiej pracy, zapuszczone włosy i broda w nieładzie, skóra śniada i spalona słońcem, na twarzy ślady zmęczenia i rezygnacji"
+      clothing: "Prosty strój niewolnika: zniszczona zgrzebna tunika z grubego niebielonego płótna, luźne spodnie z tego samego materiału, chodzi boso, ubranie brudne i podarte"
+      position: "Standing in courtyard with other captives, shoulders bent in defeat"
+      action: "Squinting against harsh morning light, accepting his reduced circumstances with quiet resignation"
+  scene:
+    mainElements: "Potężne kamienne mury obronne w kolorze ochry, medyna z labiryntem wąskich krętych uliczek, bielone wapnem domy z małymi oknami i płaskimi dachami, minarety meczetów, kazba strzegąca portu u ujścia rzeki Bou Regreg"
+    details: "Morning mist lifting to reveal white-washed buildings against blue sky, shadows shortening as sun climbs higher, exotic scents of spices and sea air mixing, palm fronds rustling in light breeze, market preparations beginning with vendors setting up stalls, scattered pottery and carpets being arranged"
+    background: "Harbor visible through city gates with corsair vessels anchored, distant mountains creating dramatic backdrop, Atlantic ocean stretching to horizon"
+    atmosphere: "Harsh beauty of North African morning light, sense of displacement and loss of identity, exotic world both fascinating and threatening, morning routines continuing despite human suffering"
+  composition:
+    cameraAngle: "Medium shot capturing figure within architectural context of foreign city"
+    focus: "Captive figure against backdrop of exotic Moroccan architecture, morning light creating strong shadows"
+    depth: "Foreground: courtyard stones and shadows, Middle: standing figure and nearby walls, Background: white city buildings and distant sea, no text or letters visible"

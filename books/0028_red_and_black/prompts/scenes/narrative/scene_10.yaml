@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Life within seminary walls - surveillance and suspicion"
+  setting:
+    time: "1820s France during Bourbon Restoration, grim winter afternoon"
+    location: "Interior of Catholic seminary in real city of Besançon, long dark corridors and austere common room"
+    weather: "Cold winter day with pale light through barred windows"
+  characters:
+    - appearance: "Young man, age 19-23, short stature with small, slender build almost feminine in delicacy, dark chestnut hair worn slightly longer in 1820s style, large expressive black eyes, regular delicate facial features with aquiline nose, extremely pale complexion that turns bright red easily under emotional stress"
+      clothing: "Black cassock of Catholic seminarian, simple and worn religious attire"
+      position: "Sitting at wooden table in common room, isolated from other students"
+      action: "Reading breviary while remaining alert to suspicious glances from fellow seminarians"
+    - appearance: "Multiple young men of various ages, all in identical black cassocks"
+      clothing: "Black cassocks of Catholic seminarians, simple religious attire"
+      position: "Scattered around room at other tables and benches"
+      action: "Whispering among themselves, casting hostile and suspicious looks toward Julian"
+    - appearance: "Man age 45-55, ascetic thin build, severe sharp facial features, penetrating gaze reflecting moral rigor"
+      clothing: "Simple worn black cassock of Catholic priest, practical and austere religious attire showing signs of wear"
+      position: "Standing in doorway observing the students"
+      action: "Watching Julian with protective but cautious interest"
+  scene:
+    mainElements: "Long dark corridors with stone floors, austere common room with wooden tables and benches, small barred windows letting in minimal light, stone walls bare except for crucifixes"
+    details: "Cold stone floors worn smooth by generations of seminarians, weak afternoon light filtering through dirty glass, sound of footsteps echoing in corridors, smell of cold stone and cheap incense, atmosphere of constant surveillance"
+    background: "More corridors leading to hundreds of identical cells, chapel entrance visible in distance, courtyard with large cross seen through window"
+    atmosphere: "Prison-like environment of mutual suspicion and paranoia, intellectual isolation among mediocre minds, danger of standing out or showing superiority, oppressive religious discipline masking political intrigue"
+  composition:
+    cameraAngle: "Medium wide shot showing the institutional setting and group dynamics"
+    focus: "Julian's isolation contrasted with the suspicious hostility of his fellow students"
+    depth: "Julian at table in foreground, hostile seminarians in middle ground, supervising priest in background, no text or letters visible"

@@ -1,0 +1,98 @@
+sceneDescription:
+  setting:
+    time: Early 1910s, afternoon in confined domestic space
+    location: Dark cramped apartment in suburban district of Central European city, old building with heavy Victorian furnishings,
+      oppressive interior atmosphere
+    weather: Dim afternoon light barely penetrating heavy curtains
+  characters:
+  - appearance: Man, 30 years old, average height with lean build, dark brown hair neatly combed, intelligent face with regular
+      features, clean-shaven with pale complexion, becoming increasingly gaunt and tired-looking as stress mounts, dark circles
+      under eyes, nervous ticks developing
+    clothing: Well-tailored dark charcoal suit, crisp white shirt with high starched collar, conservative dark tie, polished
+      leather shoes, black formal overcoat when outdoors, always impeccably dressed despite growing internal turmoil
+    position: Standing frozen in doorway, face showing horror and recognition
+    action: Witnessing complete degradation of another human being, seeing reflection of his own possible future, paralyzed
+      by recognition of what he might become
+  - appearance: Small man, 45-50 years old, long unkempt grey beard, thin frame bent with worry, hollow frightened eyes, prematurely
+      aged appearance from five years of legal proceedings
+    clothing: Worn ill-fitting dark suit with patches and repairs, frayed shirt collar, scuffed shoes, carries small battered
+      briefcase with legal documents, clothing reflects financial ruin
+    position: Crawling on floor in abject servility, completely degraded posture
+    action: Hunched servile posture, nervous fidgeting movements, avoids direct eye contact, speaks in whispered pleading
+      tones, behaves like frightened dog in presence of advocate
+  - appearance: Elderly man, 65-70 years old, extremely thin and frail, long grey beard reaching chest, pale translucent skin,
+      sunken cheeks, weak rheumy eyes, confined to bed due to chronic illness
+    clothing: White cotton nightshirt, woolen shawl around shoulders, nightcap, bedridden in pile of pillows and blankets,
+      occasionally wrapped in dark dressing gown
+    position: Lying in bed exercising power through humiliation
+    action: Ruches powolne, słabe. Gestykuluje kościstą dłonią. Wyraz twarzy wyniosły i znużony.
+  scene:
+    mainElements: Main bedroom dominated by large bed where Huld lies ill, heavy curtains blocking most light, stacks of old
+      books and legal papers, medicine bottles, ornate but shabby furniture
+    details: Scene of complete human degradation taking place in sickroom, witness to what institutional power can do to human
+      dignity, professional man reduced to animal-like subservience, no text or letters visible
+    background: Domestic space transformed into theater of institutional cruelty and human degradation
+    atmosphere: Witnessing ultimate consequences of submission to bureaucratic authority, horrifying preview of protagonist's
+      potential fate, complete destruction of human dignity
+  composition:
+    cameraAngle: Wide shot capturing full scene of degradation with protagonist's horrified witness
+    focus: Peak emotional trauma of witnessing what submission to institutional power produces
+    depth: 'Foreground: protagonist witnessing in horror, middle ground: scene of complete human degradation, background:
+      institutional symbols of false authority and power'
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

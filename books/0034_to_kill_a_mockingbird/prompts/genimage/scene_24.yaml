@@ -1,0 +1,94 @@
+sceneDescription:
+  setting:
+    time: 1934, late Halloween night, final moments
+    location: Gray weathered house at sharp curve of street in Maycomb Alabama, on boundary with schoolyard
+    weather: Cool peaceful night, stars visible between moving clouds
+  characters:
+  - appearance: Girl, 6-9 years old, small and slender build, short straight brown hair with bangs, expressive face with tomboyish
+      features
+    clothing: Blue denim overalls, white cotton shirt, bare feet or simple brown shoes
+    position: Walking slowly beside tall pale man toward his house
+    action: Gently guiding nervous hero home, protective of his shyness
+  - appearance: Man, mid-30s, very pale skin, extremely thin and gaunt, hollow cheeks, gray lifeless eyes, thinning colorless
+      hair
+    clothing: Simple worn gray shirt, dark trousers, pale from years indoors
+    position: Walking hesitantly toward his long-abandoned home
+    action: Hunched shoulders, hesitant movements, stays in shadows
+  scene:
+    mainElements: Once-white house now slate-gray, sagging shutters, rotted rain-soaked shingles, overgrown yard with Johnson
+      grass and rabbit tobacco, rickety fence
+    details: Quiet walk through empty streets, child escorting adult hero to safety of familiar isolation, house that once
+      seemed terrifying now appears as refuge for gentle soul
+    background: Gothic gloom, mysterious and forbidding, shrouded in deep shadows from massive oak trees
+    atmosphere: Peaceful conclusion to childhood terror, understanding replacing fear, protective care for vulnerable hero
+  composition:
+    cameraAngle: Wide shot showing pair walking toward Radley house
+    focus: Scout gently escorting Boo back to his sanctuary
+    depth: 'Foreground: child and reclusive man walking together, middle ground: empty moonlit street, background: house that''s
+      home to hidden hero, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - '#2B2B2B'
+    - '#4A4A4A'
+    - '#6B6B6B'
+    - '#8C8C8C'
+    - '#ADADAD'
+    - '#CECECE'
+    - '#F0F0F0'
+    secondary:
+    - '#FFFFFF'
+    - '#1A1A1A'
+    background: white or off-white paper
+    usageNotes: Monochromatic grayscale only. Use varying shades for depth
+    saturation: none
+    contrast: medium to high
+  lineArt:
+    style: organic, hand-drawn
+    weight: variable (0.5-3px)
+    color: grayscale
+    texture: rough, sketchy with visible breaks
+    edgeTreatment: natural variations, multiple overlapping strokes
+  lighting:
+    type: traditional shading
+    direction: typically top-left
+    intensity: varies with pressure
+    shadows:
+      style: crosshatching and scribbling
+      color: darker graphite tones
+      opacity: built up through layering
+    highlights: paper showing through or eraser marks
+  rendering:
+    technique: traditional pencil on paper
+    texture: visible paper grain and tooth
+    detailLevel: varies from loose to highly detailed
+    finish: intentionally incomplete with visible process
+  perspective: traditional drawing perspectives
+  mood:
+    overall: artistic, unfinished, spontaneous
+    emotion: raw, authentic, contemplative
+    tempo: calm, thoughtful
+    keywords:
+    - artistic
+    - raw
+    - authentic
+    - traditional
+    - sketchy
+  postProcessing:
+    effects:
+    - paper texture
+    - graphite smudging
+    filters: none
+    adjustments:
+      saturation: '0'
+      contrast: natural pencil contrast
+  stylePrecedents:
+  - Leonardo da Vinci sketches
+  - Academic drawing studies
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

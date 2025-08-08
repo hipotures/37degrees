@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "First Raindrops on Island Home"
+  setting:
+    time: "1665, afternoon with sudden weather change, first drops of tropical downpour"
+    location: "Główna siedziba Crusoe u podnóża stromego skalistego wzgórza na tropikalnej wyspie"
+    weather: "Dramatic sky transformation from overcast to active storm, large raindrops beginning"
+  characters:
+    - appearance: "Mężczyzna, wiek od 27 do 55 lat, postawny i muskularny, ogorzały od słońca, długie niestrzyżone włosy, długa gęsta broda przystrzyżona w tureckie wąsy mahometańskie, twarz poorana zmarszczkami od słońca, dziki barbarzyński wygląd"
+      clothing: "Kompletny strój z koziej skóry: wysoka stożkowata bezkształtna czapka z klapą chroniącą kark, krótka kurtka z koziej skóry z sierścią na zewnątrz sięgająca do połowy uda, spodnie z koziej skóry do kolan z długą sierścią zwisającą do połowy łydek, wysokie sznurowane buty z koziej skóry, szeroki pas z suszonej skóry"
+      position: "Running toward shelter of his tent, one hand protecting belongings"
+      action: "Hurrying to secure exposed items as first large raindrops fall, feeling both concern and satisfaction with his preparations"
+  scene:
+    mainElements: "Półokrągła palisada z podwójnego rzędu grubych zaostrzonych pali wbitych głęboko w ziemię, przestrzeń między palami wypełniona kablami okrętowymi tworząca niemal litą ścianę, brak bramy tylko krótka drabina wciągana do środka, podwójny namiot w środku przykryty smołowaną plandeką z żagla, jaskinia wykuta w skale służąca jako piwnica i magazyn z zorganizowanymi półkami"
+    details: "First large raindrops creating dark spots on dusty ground, wind picking up intensity and bending tropical vegetation, leaves and small debris beginning to blow around compound, tent canvas starting to ripple and strain, wooden palisade stakes remaining solid, scattered tools and supplies being quickly gathered, cave entrance providing promise of dry shelter"
+    background: "Sky transforming from gray to dark purple-black with visible rain columns approaching across landscape, forest trees beginning to whip and sway violently"
+    atmosphere: "Dramatic moment of weather transition, mixture of excitement and concern about storm's power, satisfaction with preparedness meeting natural forces, wild beauty of tropical storm beginning"
+  composition:
+    cameraAngle: "Dynamic angle capturing both figure movement and dramatic sky change"
+    focus: "Moving figure racing elements, first raindrops visible as diagonal lines in air"
+    depth: "Foreground: dusty ground receiving first drops, Middle: running figure and fortification, Background: dramatic transformation of sky and approaching rain, no text or letters visible"

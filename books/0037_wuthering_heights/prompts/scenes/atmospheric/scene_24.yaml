@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Dawn Breaking After Storm - Fresh Washed World"
+  setting:
+    time: "Late Georgian period Yorkshire, early dawn after violent night storm, world appearing fresh and cleansed"
+    location: "Elegant Georgian mansion in sheltered valley, symmetrical harmonious architecture from 18th century, built of warm honey-colored Bath stone, surrounded by extensive formal parks and gardens with maintained paths"
+    weather: "Storm clearing with first light, rainbow appearing, fresh clean air after rain"
+  characters:
+    - appearance: "Strong young man about 24 years, thick brown curling hair, dark expressive eyes, handsome rugged features, well-built athletic frame, hands tanned from farm work"
+      clothing: "Rough laborer's clothes, thick worn trousers, coarse shirt, heavy boots, garments suitable for outdoor work but clean, clothing reflects his degraded status despite noble birth"
+      position: "Standing in formal garden after storm, surveying cleared landscape"
+      action: "Breathing deeply of fresh morning air, examining storm damage but showing satisfaction with natural cleansing, face reflecting peace after violence"
+    - appearance: "Girl to young woman 0-18 years, beautiful golden curling hair inherited from Lintons, dark expressive eyes inherited from Earnshaws, very pretty combining features of both families"
+      clothing: "Simple dresses progressing to elegant Regency-style gowns as she matures, empire waist, light flowing fabrics, colors reflecting her genteel upbringing"
+      position: "Approaching through garden paths, drawn by beauty of morning after storm"
+      action: "Walking toward young man with expression of growing understanding and affection, representing hope and renewal"
+  scene:
+    mainElements: "Georgian architecture appearing brilliant clean after storm washing, formal gardens with paths gleaming wet and reflecting morning sky, extensive formal parks showing fresh green after rain cleansing, crystal chandelier visible through windows catching early light"
+    details: "After violent storm passes, sun breaks through clearing clouds creating brilliant rainbow arc across valley, everything appears fresh-washed and intensely colorful, formal garden paths shine like mirrors reflecting blue sky and white clouds, storm debris cleared by rain reveals underlying beauty and order, air crystal clear with enhanced visibility, water drips musically from architectural details and trees, no text or letters visible"
+    background: "Extensive formal parks extending into distance all appearing renewed by storm cleansing, rainbow spanning entire valley"
+    atmosphere: "Renewal and hope after chaos, sense of world reborn and possibilities restored, air carries fresh scents of rain-washed earth and flowers, atmosphere of optimism and new beginning"
+  composition:
+    cameraAngle: "Wide shot showing mansion and gardens in post-storm brilliance with rainbow"
+    focus: "Two figures in fresh-washed garden with rainbow spanning background, representing renewal and hope"
+    depth: "Foreground rain-washed garden paths reflecting sky, middle ground two figures representing future, background rainbow and renewed landscape"

@@ -1,0 +1,92 @@
+sceneDescription:
+  setting:
+    time: 1820s France during Bourbon Restoration, morning during religious service
+    location: Provincial parish church in Verrières where Julian learned Bible verses as child, scene of climactic assassination
+      attempt
+    weather: Bright morning with strong sunlight
+  characters:
+  - appearance: Young man, age 19-23, short stature with small, slender build almost feminine in delicacy, dark chestnut hair
+      worn slightly longer in 1820s style, large expressive black eyes, regular delicate facial features with aquiline nose,
+      extremely pale complexion that turns bright red easily under emotional stress
+    clothing: Dark traveling clothes, face like mask - pale, emotionless, mechanical
+    position: Standing behind church pew, pistol raised
+    action: Firing pair of flintlock pistols at kneeling Madame de Rênal with cold mechanical precision
+  - appearance: Woman around 30 years old, tall with graceful elegant figure, dazzling fresh complexion, natural beauty without
+      artifice, moves with innate grace and charm when comfortable
+    clothing: Modest dress appropriate for church attendance
+    position: Kneeling in prayer before altar, now collapsing from gunshot wounds
+    action: Falling to stone floor after being shot, blood spreading across church stones
+  - appearance: Several parishioners in Sunday attire
+    clothing: Simple but respectable provincial clothing
+    position: Scattered throughout church pews
+    action: Screaming and fleeing in panic from sudden violence in sacred space
+  scene:
+    mainElements: Stone parish church with church pews, altar, holy water font at entrance, small windows covered with heavy
+      crimson damask or velvet fabric casting blood-red glow throughout interior space
+    details: Supernatural blood-red light from crimson fabric on windows bathing entire scene in hellish tint, gunpowder smoke
+      rising from discharged pistols, smell of gunpowder mixing with incense, sound of screaming parishioners and running
+      feet echoing off stone walls, holy water in font appearing blood-red in crimson light
+    background: Altar with crucifix, stone columns supporting church roof, sacred space now profaned by violence
+    atmosphere: Sacred space transformed into scene of horror, Julian's mechanical coldness contrasting with chaos around
+      him, blood-red light prophesying tragedy, ultimate violation of social and religious boundaries
+  composition:
+    cameraAngle: Wide shot capturing the full horror and chaos of violence in sacred space
+    focus: Contrast between Julian's cold determination and the panic he has created
+    depth: Julian with smoking pistols in foreground, fallen Madame de Rênal in middle ground, terrified congregation in background,
+      no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,96 @@
+sceneDescription:
+  setting:
+    time: Late Victorian London, night of reckoning, 1880s
+    location: Aristocratic Mayfair West End townhouse library, bardzo uroczy pokój in Victorian gentleman's residence now
+      scene of confrontation
+    weather: Oppressive night with no relief, air thick and stifling
+  characters:
+  - appearance: Young man, 20 years old, smukły build, pełen wdzięku, kędzierzawe złote włosy now matted with perspiration,
+      szczere niebieskie oczy now wild with desperation, klasyczna owalna twarz z rysami made of kości słoniowej i płatków
+      róży now showing cracks in perfect composure, finely curved szkarłatne usta trembling with fear, brak jakichkolwiek
+      skaz, absolutna doskonała uroda now twisted by guilt and terror
+    clothing: 'Nienaganny strój dandysa: perfectly tailored garments now wrinkled and disheveled from stress, jedwabna kamizelka
+      stained with perspiration, luksusowe dodatki forgotten in crisis'
+    position: Pacing frantically with agitated movements, unable to remain still
+    action: Gesturing desperately while pleading, hands shaking uncontrollably, showing complete breakdown of previous composure,
+      begging for help with crimes that cannot be undone
+  - appearance: Man, 30-35 years old, czarne jak węgiel włosy, surowa blada twarz podkreślona by ciemne włosy i brwi now showing
+      horror and resistance to terrible request
+    clothing: Strój dżentelmena naukowca, stonowany formalny attire now rumpled from emotional stress
+    position: Rigid with horror, back pressed against wall as if trying to escape
+    action: Recoiling from terrible request, handling przyrządy chemiczne with trembling hands under duress, face showing
+      complete moral revulsion at being forced into criminal conspiracy
+  scene:
+    mainElements: Wysoka boazeria z dębu bejcowana na oliwkowy kolor now seeming like prison walls, elegant room transformed
+      into scene of blackmail and moral coercion, furniture overturned or displaced by frantic activity
+    details: Mały stolik z drewna satynowego now serving as barrier between desperate criminal and horrified victim, statuetka
+      Clodiona knocked over, cenna książka Les Cent Nouvelles oprawiony dla Małgorzaty de Valois scattered open showing torn
+      pages, kilka dużych niebieskich chińskich waz reflecting terrified faces, wazon z papuzimi tulipanami with flowers dead
+      and wilted, no text or letters visible
+    background: Małe okna z ołowianymi szybkami now completely black, shutting out any hope of help from outside world
+    atmosphere: Multiple figures in extreme stress, intellectual sanctuary transformed into scene of moral horror, stonowana
+      elegancja now oppressive and confining, air thick with desperation and blackmail, sense of civilized world collapsing
+      under weight of hidden crimes, pressure reaching breaking point as past catches up with present
+  composition:
+    cameraAngle: Medium shot showing confrontation between desperate criminal and horrified victim
+    focus: Two figures under maximum stress, showing complete breakdown of social civilized behavior
+    depth: 'Foreground: confronting figures in crisis, middle ground: disrupted elegant furnishings, background: darkness
+      suggesting no escape from moral consequences'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues and violets
+    - gold and old gold
+    - dark greens
+    - blood red
+    secondary:
+    - pearl white
+    - ivory shades
+    - dark brown
+    background: dreamlike landscapes, dark interiors, undefined space
+    usageNotes: Colors build mood and have symbolic meaning, need not be realistic.
+    saturation: often muted, except for symbolic bright accents
+    contrast: medium to high, often with large dark areas
+  lineArt:
+    style: flowing, elegant contour, but often fading into darkness
+    weight: varied, from delicate to strong
+    color: integrated with color patches
+    texture: smooth, but rich in ornamental details
+    edgeTreatment: soft, often blurred edges
+  lighting:
+    type: mysterious, unnatural, often spotlights or inner glow
+    direction: undefined, building atmosphere of mystery
+    intensity: low, with dramatic bright points
+    shadows:
+      style: deep, soft, enveloping figures
+      color: dark browns, violets, blues
+      opacity: heavy, impenetrable
+    highlights: luminous halos, magical glow, golden details
+  rendering:
+    technique: oil painting with attention to detail but soft modeling
+    texture: rich textures of fabrics, jewelry, feathers
+    detailLevel: high in symbolic details, background often simplified
+    finish: matte or satin, with shimmering accents
+  perspective: often flattened, decorative, subordinated to symbolic composition
+  mood:
+    overall: mysterious, atmospheric, literary
+    emotion: melancholy, longing, spirituality, unease
+    tempo: slow, contemplative
+    keywords:
+    - atmospheric
+    - mystical
+    - dreamlike
+    - symbolic
+    - decadent
+  stylePrecedents:
+  - Gustave Moreau
+  - Odilon Redon
+  - Arnold Böcklin
+  - Jacek Malczewski
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

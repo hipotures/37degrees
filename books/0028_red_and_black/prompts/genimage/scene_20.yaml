@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1820s France during Bourbon Restoration, late afternoon
+    location: Julian's private chamber within aristocratic mansion (hôtel particulier) in prestigious Faubourg Saint-Germain
+      district of Paris
+    weather: Darkening sky with approaching storm
+  characters:
+  - appearance: Young man, age 19-23, short stature with small, slender build almost feminine in delicacy, dark chestnut hair
+      worn slightly longer in 1820s style, large expressive black eyes, regular delicate facial features with aquiline nose,
+      extremely pale complexion that turns bright red easily under emotional stress
+    clothing: Still wearing brilliant blue hussar uniform with gold braiding, but now disheveled and wrinkled from agitation
+    position: Seated at small writing desk, hunched over opened letter
+    action: Reading Madame de Rênal's letter with growing horror and rage, crushing the paper in his fists
+  - appearance: Young woman age 19-20, described as beautiful with intelligent expressive face often showing disdain, boredom
+      or ironic distance, slender proud bearing typical of aristocracy
+    clothing: Elegant day dress, face pale with concern
+    position: Standing in doorway having just delivered the letter
+    action: Watching Julian's reaction with growing alarm and trying to comfort him
+  scene:
+    mainElements: Simple chamber furnished for secretary with writing desk, narrow bed, small window, letter written with
+      goose quill pen on period paper with ink traces, folded and sealed with wax now broken and scattered
+    details: Letter crumpled and torn in Julian's hands, wax seal fragments on floor, storm clouds visible through window
+      casting dark shadows across room, oil lamp flickering with approaching storm, sound of thunder in distance
+    background: View through window of Parisian rooftops under threatening sky, corridor where servants might hear raised
+      voices, distant sound of rain beginning
+    atmosphere: Complete reversal of fortune in single moment, Julian's dreams destroyed by written words, transformation
+      from triumph to despair, rage building toward violence, storm outside mirroring internal tempest
+  composition:
+    cameraAngle: Close shot focusing on Julian's anguish and the destructive letter
+    focus: Julian's emotional collapse as his carefully built world crumbles
+    depth: Julian with destroyed letter in foreground, Matylda in doorway in middle ground, darkening storm through window
+      in background, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

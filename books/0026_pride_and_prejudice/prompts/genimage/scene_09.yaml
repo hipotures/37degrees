@@ -1,0 +1,92 @@
+sceneDescription:
+  setting:
+    time: Early 19th century England, evening, late autumn
+    location: Small market town in Hertfordshire, walking distance from Longbourn
+    weather: Cool evening with oil lamps providing warm light indoors
+  characters:
+  - appearance: Man, 26-27 years old, extremely handsome with fine countenance, good figure, pleasant address, charming smile
+      that doesn't reach his calculating eyes, dark hair, superficial attractiveness
+    clothing: Scarlet military uniform with gold epaulets and brass buttons, white tight-fitting breeches, tall polished black
+      boots, uniform tailored to show off his figure, sword at side
+    position: Seated close to Elizabeth in private corner of assembly room
+    action: Leaning forward with practiced sincere expression, speaking in confidential tones with false earnestness
+  - appearance: Woman, 20 years old, beautiful dark intelligent eyes with expressive gaze, light and pleasing figure, average
+      height, not classically beautiful like her sister Jane but possessing striking charm, dark hair arranged in period-appropriate
+      style with loose curls framing her face, healthy complexion that gains attractive rosy color after physical exertion
+    clothing: Evening dress in deep burgundy silk with modest neckline, short sleeves, white gloves, simple gold jewelry,
+      silk slippers, hair arranged elegantly with small combs
+    position: Seated facing Wickham, leaning in to hear his confidential story
+    action: Listening with rapt attention and growing indignation, her eyes flashing with anger at the supposed injustice
+  - appearance: Woman, 22 years old, classically beautiful with perfect harmony of features, blonde hair arranged in elegant
+      ringlets, serene blue eyes, tall graceful figure, flawless porcelain complexion, gentle sweet expression
+    clothing: Pale lavender evening gown with delicate lace trim, pearl accessories, hair adorned with small white flowers
+    position: Nearby but giving them privacy, speaking with other guests
+    action: Occasionally glancing toward her sister with gentle concern
+  scene:
+    mainElements: Georgian town with main street lined with shops, coaching inn, assembly rooms for balls and social gatherings,
+      modest houses for tradespeople and professional families, church with ancient graveyard, weekly market square
+    details: Evening gathering in assembly rooms, other townspeople socializing in background, candlelight creating intimate
+      atmosphere, refreshment table with wine and punch, musicians tuning instruments, couples preparing for dancing, intimate
+      corner where private conversation can occur
+    background: Other guests mingling, soft conversation and laughter, preparations for evening entertainment
+    atmosphere: Busy provincial social life, gossip and news exchange, sounds of horses and carriages, mixture of commerce
+      and genteel society
+  composition:
+    cameraAngle: Intimate medium close-up of two figures in private conversation
+    focus: Wickham speaking with false sincerity while Elizabeth listens with growing belief in his story
+    depth: 'Foreground: intimate conversation between two main figures; middle ground: nearby social activity; background:
+      evening assembly gathering, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

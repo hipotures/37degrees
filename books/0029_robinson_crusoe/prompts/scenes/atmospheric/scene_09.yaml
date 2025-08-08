@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Storm Approaching Island Sanctuary"
+  setting:
+    time: "1665, late morning with heavy air before storm, approaching storm front"
+    location: "Druga mniejsza siedziba Crusoe w uroczej dolinie w głębi tropikalnej wyspy"
+    weather: "Oppressive humid air before tropical storm, dark clouds building, birds flying low"
+  characters:
+    - appearance: "Mężczyzna, wiek od 27 do 55 lat, postawny i muskularny, ogorzały od słońca, długie niestrzyżone włosy, długa gęsta broda przystrzyżona w tureckie wąsy mahometańskie, twarz poorana zmarszczkami od słońca, dziki barbarzyński wygląd"
+      clothing: "Kompletny strój z koziej skóry: wysoka stożkowata bezkształtna czapka z klapą chroniącą kark, krótka kurtka z koziej skóry z sierścią na zewnątrz sięgająca do połowy uda, spodnie z koziej skóry do kolan z długą sierścią zwisającą do połowy łydek, wysokie sznurowane buty z koziej skóry, szeroki pas z suszonej skóry"
+      position: "Standing in garden bower, looking up at threatening sky"
+      action: "Securing loose items and preparing shelter for approaching storm, reading natural weather signs"
+  scene:
+    mainElements: "Szałas otoczony żywym płotem z szybko rosnących drzew, bujna zielona dolina, strumień ze słodką wodą, winorośle, egzotyczne kwiaty w żywych kolorach"
+    details: "Heavy humid air making all movement feel sluggish, leaves rustling with increased urgency as wind picks up, tropical birds flying low seeking shelter, stream water appearing darker under storm clouds, grape vines swaying more vigorously, flower petals beginning to drop in anticipation of rain, insects disappearing into hiding places"
+    background: "Dark storm clouds building dramatically on horizon, forest canopy beginning to sway and bend, distant lightning flickering without sound"
+    atmosphere: "Nature preparing for dramatic weather event, sense of impending power and beauty of tropical storm, peaceful sanctuary about to be tested by elements, tension building in very air"
+  composition:
+    cameraAngle: "Wide shot emphasizing dramatic sky and approaching weather"
+    focus: "Figure in garden setting against backdrop of threatening storm clouds"
+    depth: "Foreground: garden plants beginning to respond to wind, Middle: figure and bower shelter, Background: dark dramatic storm clouds, no text or letters visible"

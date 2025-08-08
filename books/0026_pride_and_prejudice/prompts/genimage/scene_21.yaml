@@ -1,0 +1,94 @@
+sceneDescription:
+  setting:
+    time: Early 19th century England, late afternoon, midsummer
+    location: Beautiful estate in Derbyshire Peak District, northern England
+    weather: Warm summer evening with golden light across parkland
+  characters:
+  - appearance: Man, 28 years old, tall imposing height, handsome strong features, noble bearing, dark hair carefully styled
+      in period fashion, serious expression that softens when genuinely pleased, athletic build from riding and outdoor activities,
+      pale complexion typical of English gentleman
+    clothing: Casual riding attire with white linen shirt, sleeves rolled up from recent exertion, dark riding breeches, tall
+      leather boots, no formal coat, more relaxed and natural appearance than ever before
+    position: Walking across parkland toward river, having just dismounted from horse
+    action: Approaching with visible shock and embarrassment but determined courtesy, his whole demeanor transformed from
+      their last meeting
+  - appearance: Woman, 20 years old, beautiful dark intelligent eyes with expressive gaze, light and pleasing figure, average
+      height, not classically beautiful like her sister Jane but possessing striking charm, dark hair arranged in period-appropriate
+      style with loose curls framing her face, healthy complexion that gains attractive rosy color after physical exertion
+    clothing: Summer walking dress in pale pink muslin, white shawl, bonnet with ribbons now hanging loose, walking shoes,
+      gloves removed for comfort
+    position: Standing by the river with her aunt and uncle, frozen in mortification
+    action: Staring at Darcy with mixture of embarrassment and amazement at his transformed courtesy
+  - appearance: Middle-aged couple in respectable traveling attire
+    clothing: Practical but genteel clothing suitable for touring
+    position: Standing with Elizabeth by the riverside path
+    action: Observing the interaction with polite interest, clearly impressed by the gentleman's refined manners
+  scene:
+    mainElements: Elegant stone mansion perfectly proportioned, natural landscaped grounds with serpentine river, ancient
+      oak trees, rolling green parkland, house positioned to complement natural beauty rather than dominate it, harmonious
+      blend of architecture and landscape
+    details: Beautiful riverside walk with gravel path winding along water's edge, ancient trees providing dappled shade,
+      wildflowers blooming along banks, wooden bridge visible in distance, perfectly maintained parkland extending to horizon,
+      house visible through trees, setting of natural beauty enhanced by careful landscaping
+    background: Rolling parkland with grazing cattle, distant hills, other walking paths through grounds
+    atmosphere: Perfect balance of grandeur and natural beauty, peaceful serenity, tasteful refinement without ostentation,
+      sounds of flowing water and birdsong
+  composition:
+    cameraAngle: Wide shot capturing meeting in beautiful natural setting
+    focus: Moment of mutual surprise and embarrassment transformed by Darcy's new courtesy
+    depth: 'Foreground: river and natural beauty; middle ground: three figures in unexpected encounter; background: Pemberley
+      house through trees, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,137 @@
+canon:
+  characters:
+    - id: "julian_sorel"
+      name: "Julian Sorel"
+      description_block: |
+        characters:
+          - appearance: "Young man, age 19-23, short stature with small, slender build almost feminine in delicacy, dark chestnut hair worn slightly longer in 1820s style, large expressive black eyes, regular delicate facial features with aquiline nose, extremely pale complexion that turns bright red easily under emotional stress"
+            clothing: "Black clerical/secretary attire - simple black frock coat, white linen shirt with high stiff collar, dark trousers, plain black shoes"
+            posture: "Often stiff and awkward when consciously trying to imitate aristocratic manners, but naturally graceful when relaxed, frequently seen with tense facial expression trying to control emotions"
+
+    - id: "madame_de_renal"
+      name: "Madame de Rênal (Louise de Rênal)"
+      description_block: |
+        characters:
+          - appearance: "Woman around 30 years old, tall with graceful elegant figure, dazzling fresh complexion, natural beauty without artifice, moves with innate grace and charm when comfortable"
+            clothing: "Elegant but restrained provincial fashion - silk or muslin summer dresses in muted pastel colors, well-made but not ostentatious, appropriate for wealthy provincial matron"
+            posture: "Graceful and natural when alone or with children, becomes tense and cautious in formal situations or in husband's presence"
+
+    - id: "matylda_de_la_mole"
+      name: "Matylda de la Mole"
+      description_block: |
+        characters:
+          - appearance: "Young woman age 19-20, described as beautiful with intelligent expressive face often showing disdain, boredom or ironic distance, slender proud bearing typical of aristocracy"
+            clothing: "Cutting-edge Parisian haute couture of 1820s - elaborate ball gowns and visiting dresses made from finest materials (satin, velvet, silk) with characteristically oversized puffy sleeves, often wears dramatic deep mourning attire, richest fabrics with ornate decorations"
+            posture: "Moves energetically and confidently, sometimes almost violently, decisive theatrical gestures, lively expressive face, carries herself with aristocratic certainty"
+
+    - id: "marquis_de_la_mole"
+      name: "Marquis de la Mole"
+      description_block: |
+        characters:
+          - appearance: "Man age 50-60, short and very thin with restless movements, bright intelligent eyes, wears blonde powdered wig, sharp aristocratic facial features"
+            clothing: "Impeccably aristocratic attire possibly slightly old-fashioned - dark frock coat, light waistcoat, elegant but may show traces of ancien régime style"
+            posture: "Restless nervous movements, aristocratic bearing despite small stature, sharp observant gaze"
+
+    - id: "pan_de_renal"
+      name: "Pan de Rênal"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged man around 40-50, well-fed bourgeois appearance suggesting tendency toward stoutness, face expressing vanity and self-satisfaction"
+            clothing: "Solid expensive but provincial attire - quality frock coats, waistcoats, well-made but not fashionable, clothes of prosperous provincial notable"
+            posture: "Posture of wealthy provincial notable, movements expressing materialistic concerns and social climbing ambitions"
+
+    - id: "ksiadz_pirard"
+      name: "Ksiądz Pirard"
+      description_block: |
+        characters:
+          - appearance: "Man age 45-55, ascetic thin build, severe sharp facial features, penetrating gaze reflecting moral rigor"
+            clothing: "Simple worn black cassock of Catholic priest, practical and austere religious attire showing signs of wear"
+            posture: "Austere upright bearing reflecting strict moral discipline and Jansenist principles"
+
+  locations:
+    - id: "verrieres_town"
+      name: "Verrières"
+      description_block: |
+        setting:
+          location: "Fictional provincial town in Franche-Comté region of eastern France near Swiss border, picturesque setting above Doubs River, represents provincial French society under Bourbon Restoration"
+        mainElements: "Stone houses with tile roofs, dominant church overlooking town, old Sorel's sawmill with constant noise of machinery, narrow winding streets, stone bridge over river"
+        atmosphere: "Provincial stagnation, petty bourgeois materialism, social surveillance and gossip, dominated by rivalry between local notables"
+
+    - id: "de_renal_house_garden"
+      name: "Dom de Rênal i ogród"
+      description_block: |
+        setting:
+          location: "Substantial bourgeois residence in Verrières with extensive walled gardens, manifestation of de Rênal wealth and social aspirations"
+        mainElements: "Solid house with expensive retaining walls, well-maintained gardens enclosed by high walls, iron entrance gate, formal interior with heavy Empire-style furniture, dark wood and rich fabrics"
+        atmosphere: "Bourgeois ostentation and boredom, formal social constraints indoors contrasting with relative freedom in sunlit garden spaces"
+
+    - id: "vergy_estate"
+      name: "Posiadłość w Vergy"
+      description_block: |
+        setting:
+          location: "de Rênal family's summer estate in countryside near Verrières, idyllic retreat away from town's prying eyes"
+        mainElements: "Country house surrounded by romantic garden with large linden tree, secluded paths, benches for evening conversations, peaceful rural setting with mountain views"
+        atmosphere: "Romantic sanctuary allowing authentic emotions and forbidden love, moonlit garden scenes, away from social surveillance"
+
+    - id: "besancon_seminary"
+      name: "Seminarium w Besançon"
+      description_block: |
+        setting:
+          location: "Catholic seminary in real city of Besançon, imposing religious institution representing Church's hierarchical power"
+        mainElements: "Ugly dirty architecture with prison-like appearance, barred windows, long dark corridors, hundreds of identical austere cells, large cross in dirty courtyard, bell tower"
+        atmosphere: "Oppressive prison-like environment, grim silence broken by bells, surveillance and paranoia, cold dampness, smell of incense and unwashed bodies"
+
+    - id: "hotel_de_la_mole_paris"
+      name: "Hôtel de la Mole w Paryżu"
+      description_block: |
+        setting:
+          location: "Aristocratic mansion (hôtel particulier) in prestigious Faubourg Saint-Germain district of Paris, summit of French society"
+        mainElements: "Elegant classical architecture with large courtyard and rear garden, suite of reception rooms, grand ballroom, smaller intimate salons, dining room, marquis's study and library, private apartments upstairs, high ceilings with decorative plasterwork, marble fireplaces, herringbone oak parquet floors"
+        atmosphere: "Refined aristocratic elegance masking fundamental boredom, sophisticated conversations, political intrigue, crystalline chandeliers creating magical flickering light during evening receptions"
+
+    - id: "verrieres_church"
+      name: "Kościół w Verrières"
+      description_block: |
+        setting:
+          location: "Provincial parish church in Verrières where Julian learned Bible verses as child, scene of climactic assassination attempt"
+        mainElements: "Stone parish church with church pews, altar, holy water font at entrance, small windows that during climactic scene are covered with crimson fabric casting blood-red light throughout interior"
+        atmosphere: "Initially peaceful and mystical, transforms during assassination scene into space of horror and violence bathed in ominous red light from covered windows"
+
+    - id: "besancon_prison_cell"
+      name: "Cela więzienna w Besançon"
+      description_block: |
+        setting:
+          location: "Small austere prison cell in tower of Besançon prison where Julian awaits execution"
+        mainElements: "Stone walls, small barred window, simple cot, table, stool, single light source from window during day"
+        atmosphere: "Peaceful reflection and spiritual purification, sense of finality, simple monastic environment allowing authentic self-discovery"
+
+  items:
+    - id: "napoleon_portrait"
+      name: "Portret Napoleona"
+      description_block: |
+        details: "Small inexpensive engraving or woodcut of Napoleon Bonaparte in simple frame or unframed, Julian's most precious relic hidden under mattress in his room, represents his true identity and suppressed ideals in Restoration society where Napoleon worship was dangerous"
+
+    - id: "pistols_pair"
+      name: "Para pistoletów"
+      description_block: |
+        details: "Pair of flintlock pistols typical of 1820s, metal construction with wooden grips, require manual loading with gunpowder and bullet, purchased by Julian on route to Verrières for assassination attempt, instruments of wounded pride and destructive passion"
+
+    - id: "garden_ladder"
+      name: "Drabina ogrodowa"
+      description_block: |
+        details: "Long heavy wooden gardener's ladder, somewhat worn, chained in de la Mole garden, which Julian breaks with pistol shot to access Matylda's window, powerful literal symbol of social climbing - illegal, risky, violent ascent up social hierarchy"
+
+    - id: "books_various"
+      name: "Książki"
+      description_block: |
+        details: "Various books from cheap editions (Julian's books) to luxury volumes (marquis's library), bound in leather or cloth, written with quill pen and ink, represent knowledge as instrument of power, escape from reality, source of aspirations and role models"
+
+    - id: "letters_correspondence"
+      name: "Listy"
+      description_block: |
+        details: "Letters written with goose quill pen on period paper with ink traces, folded and sealed with wax, including anonymous letter from Eliza, Madame de Rênal's letter to marquis, correspondence between Julian and Matylda, represent intrigue, betrayal, manipulation"
+
+    - id: "crimson_church_fabric"
+      name: "Karmazynowa materia"
+      description_block: |
+        details: "Heavy crimson damask or velvet fabric covering church windows during assassination scene, casts supernatural blood-red glow throughout church interior, visual harbinger of violence and bloodshed, hellish tint cast over sacred space"

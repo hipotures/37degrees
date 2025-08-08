@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Arrival at the summer estate in Vergy"
+  setting:
+    time: "1820s France during Bourbon Restoration, early summer morning"
+    location: "de Rênal family's summer estate in countryside near Verrières, idyllic retreat away from town's prying eyes"
+    weather: "Bright clear morning with gentle breeze"
+  characters:
+    - appearance: "Young man, age 19-23, short stature with small, slender build almost feminine in delicacy, dark chestnut hair worn slightly longer in 1820s style, large expressive black eyes, regular delicate facial features with aquiline nose, extremely pale complexion that turns bright red easily under emotional stress"
+      clothing: "Black clerical/secretary attire - simple black frock coat, white linen shirt with high stiff collar, dark trousers, plain black shoes"
+      position: "Standing at edge of garden looking toward mountain views"
+      action: "Gazing with wonder at the peaceful rural landscape, breathing deeply of country air"
+    - appearance: "Woman around 30 years old, tall with graceful elegant figure, dazzling fresh complexion, natural beauty without artifice, moves with innate grace and charm when comfortable"
+      clothing: "Elegant but restrained provincial fashion - silk or muslin summer dresses in muted pastel colors, well-made but not ostentatious, appropriate for wealthy provincial matron"
+      position: "Walking along garden path with her children"
+      action: "Directing arrangement of summer furnishings, visibly more relaxed than in town"
+    - appearance: "Three young boys of various ages, well-dressed in period children's clothing"
+      clothing: "Fine children's attire appropriate to wealthy family - knee-length breeches, white shirts, small jackets"
+      position: "Running freely through garden spaces"
+      action: "Playing energetically, calling to their new tutor with excitement"
+  scene:
+    mainElements: "Country house surrounded by romantic garden with large linden tree, secluded paths, benches for evening conversations, peaceful rural setting with mountain views"
+    details: "Unpacking of summer belongings from carriage, outdoor furniture being arranged under trees, baskets of linens and household items, birds singing in branches, scent of blooming flowers and fresh grass"
+    background: "Rolling countryside with distant mountains, forest edges, winding country road leading back toward Verrières"
+    atmosphere: "Sense of liberation from social constraints, natural beauty creating romantic possibilities, family relaxation away from formal town life, promise of intimate conversations in secluded setting"
+  composition:
+    cameraAngle: "Establishing wide shot showing the estate's rural beauty and isolation"
+    focus: "Julian's sense of wonder and freedom contrasted with the family's comfortable familiarity"
+    depth: "Characters and immediate garden in foreground, country house in middle ground, pastoral landscape in background, no text or letters visible"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Secret lovers in morning garden light"
+  setting:
+    time: "1820s France during Bourbon Restoration, early morning just after dawn"
+    location: "Country house surrounded by romantic garden with large linden tree, secluded paths, benches for evening conversations, peaceful rural setting with mountain views"
+    weather: "Fresh clear morning with soft sunlight and morning mist"
+  characters:
+    - appearance: "Young man, age 19-23, short stature with small, slender build almost feminine in delicacy, dark chestnut hair worn slightly longer in 1820s style, large expressive black eyes, regular delicate facial features with aquiline nose, extremely pale complexion that turns bright red easily under emotional stress"
+      clothing: "Black clerical/secretary attire - simple black frock coat, white linen shirt with high stiff collar, dark trousers, plain black shoes"
+      position: "Walking closely beside her along secluded garden path"
+      action: "Moving with new confidence and tenderness, occasionally glancing toward house to ensure privacy"
+    - appearance: "Woman around 30 years old, tall with graceful elegant figure, dazzling fresh complexion, natural beauty without artifice, moves with innate grace and charm when comfortable"
+      clothing: "Elegant but restrained provincial fashion - silk or muslin summer dresses in muted pastel colors, well-made but not ostentatious, appropriate for wealthy provincial matron"
+      position: "Walking arm-in-arm with Julian along hidden pathway"
+      action: "Radiant with new happiness, occasionally looking back toward sleeping house with mixture of joy and anxiety"
+  scene:
+    mainElements: "Secluded garden path winding through flowering shrubs and trees, early morning shadows creating private spaces, dewdrops sparkling on grass and flower petals, birds beginning dawn songs"
+    details: "Morning mist rising from garden beds, fresh scent of damp earth and blooming flowers, footprints visible in dew-covered grass showing their secret meeting, distant house still shuttered and sleeping, sense of stolen time before others awaken"
+    background: "Country house peaceful in morning light, mountain landscape emerging from dawn mist, forest edges catching first sunlight"
+    atmosphere: "New intimacy and shared secret creating powerful bond, dangerous happiness in forbidden love, awareness of social transgression mixed with overwhelming joy, temporary escape from rigid social rules"
+  composition:
+    cameraAngle: "Medium shot following the couple along their private path"
+    focus: "Their transformed relationship visible in their closeness and shared expressions of happiness"
+    depth: "Walking couple in foreground, flowering garden path in middle ground, sleeping house in background, no text or letters visible"

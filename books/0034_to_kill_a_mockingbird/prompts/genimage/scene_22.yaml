@@ -1,0 +1,102 @@
+sceneDescription:
+  setting:
+    time: 1934, Halloween night, immediately after attack
+    location: Small white wooden frame house on main street Maycomb Alabama, typical Southern cottage with deep front porch
+    weather: Dark night, house lights creating refuge from outside dangers
+  characters:
+  - appearance: Boy, 10-13 years old, tall and lean athletic build, short brown hair, serious expression, left arm shorter
+      than right after injury
+    clothing: White cotton shirt, brown knee-length shorts, brown leather shoes
+    position: Lying unconscious in bed, left arm in makeshift sling
+    action: Injured and unconscious, left arm broken by attacker
+  - appearance: Man, late 40s, tall and thin build, graying brown hair, wire-rimmed glasses, dignified weathered face
+    clothing: Dark three-piece suit, white dress shirt, dark tie, black leather shoes
+    position: Sitting beside son's bed, keeping vigil
+    action: Calm, measured movements, removes glasses when concentrating
+  - appearance: Girl, 6-9 years old, small and slender build, short straight brown hair with bangs, expressive face with tomboyish
+      features
+    clothing: Blue denim overalls, white cotton shirt, bare feet or simple brown shoes
+    position: Standing in bedroom doorway, still in shock
+    action: Traumatized but trying to understand what happened
+  - appearance: Man, mid-30s, very pale skin, extremely thin and gaunt, hollow cheeks, gray lifeless eyes, thinning colorless
+      hair
+    clothing: Simple worn gray shirt, dark trousers, pale from years indoors
+    position: Standing in corner of room, uncomfortable with attention
+    action: Hunched shoulders, hesitant movements, stays in shadows
+  scene:
+    mainElements: Clean well-maintained family home, refuge of stability and moral guidance
+    details: Bedroom lit by single lamp, injured boy unconscious in bed, mysterious rescuer finally revealed in house light,
+      family processing trauma and gratitude
+    background: White painted wood siding, green shutters, wide porch with swing and rocking chairs, central hallway layout
+    atmosphere: Relief mixed with shock, family safe but forever changed, stranger revealed as guardian angel
+  composition:
+    cameraAngle: Intimate medium shot of bedroom scene
+    focus: Injured Jem with family and mysterious rescuer gathered around
+    depth: 'Foreground: bedside vigil, middle ground: family processing trauma, background: safe house interior, no text or
+      letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - '#2B2B2B'
+    - '#4A4A4A'
+    - '#6B6B6B'
+    - '#8C8C8C'
+    - '#ADADAD'
+    - '#CECECE'
+    - '#F0F0F0'
+    secondary:
+    - '#FFFFFF'
+    - '#1A1A1A'
+    background: white or off-white paper
+    usageNotes: Monochromatic grayscale only. Use varying shades for depth
+    saturation: none
+    contrast: medium to high
+  lineArt:
+    style: organic, hand-drawn
+    weight: variable (0.5-3px)
+    color: grayscale
+    texture: rough, sketchy with visible breaks
+    edgeTreatment: natural variations, multiple overlapping strokes
+  lighting:
+    type: traditional shading
+    direction: typically top-left
+    intensity: varies with pressure
+    shadows:
+      style: crosshatching and scribbling
+      color: darker graphite tones
+      opacity: built up through layering
+    highlights: paper showing through or eraser marks
+  rendering:
+    technique: traditional pencil on paper
+    texture: visible paper grain and tooth
+    detailLevel: varies from loose to highly detailed
+    finish: intentionally incomplete with visible process
+  perspective: traditional drawing perspectives
+  mood:
+    overall: artistic, unfinished, spontaneous
+    emotion: raw, authentic, contemplative
+    tempo: calm, thoughtful
+    keywords:
+    - artistic
+    - raw
+    - authentic
+    - traditional
+    - sketchy
+  postProcessing:
+    effects:
+    - paper texture
+    - graphite smudging
+    filters: none
+    adjustments:
+      saturation: '0'
+      contrast: natural pencil contrast
+  stylePrecedents:
+  - Leonardo da Vinci sketches
+  - Academic drawing studies
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

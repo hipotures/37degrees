@@ -1,0 +1,32 @@
+sceneDescription:
+  title: "Halloween Night Attack"
+  setting:
+    time: "1934, Halloween night, dark path from school"
+    location: "Elementary school building and grounds in Maycomb Alabama, borders Radley property"
+    weather: "Dark windy Halloween night, no moon, heavy shadows moving"
+  characters:
+    - appearance: "Girl, 6-9 years old, small and slender build, short straight brown hair with bangs, expressive face with tomboyish features"
+      clothing: "Large awkward construction of painted canvas over wire frame, brown and pink coloring, single eyehole, restricts movement and vision"
+      position: "Stumbling in bulky costume on dark path toward home"
+      action: "Confused and terrified, unable to see or move properly in costume"
+    - appearance: "Boy, 10-13 years old, tall and lean athletic build, short brown hair, serious expression, left arm shorter than right after injury"
+      clothing: "White cotton shirt, brown knee-length shorts, brown leather shoes"
+      position: "Walking beside sister, trying to guide her safely home"
+      action: "Protective of sister, fighting desperately against attacker"
+    - appearance: "White man, 40s, short and thin with rat-like face, unshaven, red nose from drinking, scalded look to his skin"
+      clothing: "Dirty collarless shirt, stained pants held up with suspenders, shapeless wool cap"
+      position: "Attacking children from ambush under oak tree"
+      action: "Violent cowardly assault on defenseless children, using kitchen knife"
+    - appearance: "Man, mid-30s, very pale skin, extremely thin and gaunt, hollow cheeks, gray lifeless eyes, thinning colorless hair"
+      clothing: "Simple worn gray shirt, dark trousers, pale from years indoors"
+      position: "Emerging from shadows to defend children"
+      action: "Hunched shoulders, hesitant movements, stays in shadows"
+  scene:
+    mainElements: "Large awkward construction of painted canvas over wire frame, brown and pink coloring, single eyehole, restricts movement and vision"
+    details: "Complete darkness broken only by struggling sounds, Scout trapped in costume unable to help, Jem's scream of pain, sounds of violent fight, sudden silence"
+    background: "Simple wooden schoolhouse, playground area, path through trees leading back to residential area"
+    atmosphere: "Pure terror and chaos, children's vulnerability, unexpected salvation from mysterious protector"
+  composition:
+    cameraAngle: "Close chaotic shots showing confused violence in darkness"
+    focus: "Children under attack with mysterious rescuer intervening"
+    depth: "Foreground: violent struggle in deep shadows, middle ground: children in mortal danger, background: dark trees and school building, no text or letters visible"

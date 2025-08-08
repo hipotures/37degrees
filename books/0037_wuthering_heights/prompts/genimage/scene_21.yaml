@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: Late Georgian period Yorkshire, winter night with snow beginning to fall, artificial lights creating warm refuge
+    location: Elegant Georgian mansion in sheltered valley, symmetrical harmonious architecture from 18th century, built of
+      warm honey-colored Bath stone, surrounded by extensive formal parks and gardens with maintained paths
+    weather: First snow of winter falling gently, large flakes visible in artificial light, cold still air
+  characters:
+  - appearance: Beautiful young woman, 18-19 years, long dark curling hair now elegantly arranged, penetrating dark eyes,
+      refined beauty with underlying wildness. During illness becomes very pale and emaciated
+    clothing: Elegant Georgian gowns in silk and muslin with lace and ruffles, fashionable dress appropriate for genteel lady,
+      during illness simple white nightgown, clothing represents her attempt to conform to civilization
+    position: Standing at large window watching snow fall, hand pressed against cold glass
+    action: Watching first snowflakes descend through warm window light, expression mixing wonder with melancholy
+  scene:
+    mainElements: Spacious well-lit rooms with large windows now showing falling snow illuminated by interior light, formal
+      gardens being transformed by white covering, Georgian architecture providing warm shelter from winter night
+    details: Large snowflakes fall gently through golden light streaming from mansion windows, formal garden paths and geometric
+      beds receive white covering transforming familiar landscape, warm interior light creates halos around falling snow,
+      crystal chandelier casts multiple light sources creating complex snow illumination patterns, contrast between warm interior
+      and cold night outside, no text or letters visible
+    background: Extensive formal parks disappearing under gentle snowfall, winter night creating intimate enclosed world
+    atmosphere: Winter's first magic and cozy domestic warmth, sense of seasonal change and protection from elements, air
+      carries silence of falling snow and warmth of heated rooms, atmosphere of peaceful transition and sheltered contemplation
+  composition:
+    cameraAngle: Interior shot through window emphasizing falling snow in warm light
+    focus: Woman at window with falling snow visible through glass, warm interior contrasting cold night
+    depth: Foreground warm interior with crystal chandelier, middle ground figure at window, background snow falling through
+      garden light
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

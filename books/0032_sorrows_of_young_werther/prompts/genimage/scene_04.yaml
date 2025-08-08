@@ -1,0 +1,95 @@
+sceneDescription:
+  setting:
+    time: 1771 May, mid-morning, bright cheerful light
+    location: Substantial half-timbered house in Wahlheim village center, home of local government commissioner, well-maintained
+      family residence with garden
+    weather: Sunny spring morning with fresh breeze through open windows
+  characters:
+  - appearance: Young woman, 20 years old, medium height, graceful slender figure, striking black eyes, lively red lips, fresh
+      rosy cheeks, chestnut brown hair styled in simple elegant updo with loose curls framing her face, natural healthy complexion
+    clothing: Simple white cotton dress with fitted bodice and full skirt, bright pink silk ribbons at shoulders and across
+      the chest, white cotton cap with lace trim, simple brown leather shoes with small heel
+    position: Standing at heavy wooden front door with brass knocker
+    action: Cutting bread with kitchen knife from large brown loaf, distributing equal portions to each child with patient
+      maternal tenderness, smiling warmly at their eager faces
+  - appearance: Eight children ranging from 3 to 16 years old, mix of boys and girls, healthy country children with rosy cheeks
+      and bright curious eyes, various shades of brown hair, simple clean faces
+    clothing: 'Simple homespun clothing: boys in linen shirts and woolen breeches, girls in cotton dresses with aprons, all
+      in muted earth tones, bare feet or simple wooden clogs'
+    position: Clustered around their sister in doorway and front steps
+    action: Reaching up eagerly for bread slices, younger ones tugging at her skirts, older ones waiting patiently, all looking
+      at her with absolute trust and adoration
+  scene:
+    mainElements: Two-story house with white plastered walls and dark timber framing, red tile roof, heavy wooden front door
+      with brass knocker, diamond-paned windows with wooden shutters, kitchen garden and fruit trees behind house
+    details: Warm morning sunlight streams through diamond-paned windows illuminating domestic scene, half-timbered architecture
+      displays traditional German craftsmanship with dark wooden beams forming geometric patterns, brass door knocker gleams
+      in sunlight, children's clothing shows careful mending and maternal attention to detail, fresh bread releases warm yeasty
+      aroma, sound of children's gentle voices and patient sister's replies, kitchen garden visible through side passage shows
+      neat rows of vegetables and herbs, no text or letters visible
+    background: Village street with cobblestones leads past neighboring half-timbered houses, church spire visible above rooftops,
+      fruit trees in bloom create white and pink canopy over garden
+    atmosphere: Pure domestic bliss and maternal devotion, family harmony based on love rather than authority, innocent childhood
+      trust and protection, nurturing feminine strength, home as sanctuary of unconditional love
+  composition:
+    cameraAngle: Eye level medium shot capturing doorway scene with architectural context
+    focus: Young woman distributing bread to beloved siblings in perfect domestic tableau
+    depth: 'Foreground: sister and children in doorway interaction, middle ground: house facade and immediate street, background:
+      village context with church spire'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

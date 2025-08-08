@@ -1,0 +1,182 @@
+characters:
+  tom_sawyer:
+    name: "Tom Sawyer"
+    age: "12-13 years old"
+    physical_description: "Szczupły, zwinny chłopiec o przeciętnej budowie. Kręcone, brązowe włosy, które nie znosi i stara się przyklepywać do głowy. Bystre, inteligentne oczy. Twarz opalona od słońca, często z plamami brudu, z wyjątkiem niedziel. Stracił jeden z górnych przednich zębów. Bardzo ekspresyjna mimika, zdolna do natychmiastowej zmiany w zależności od potrzeby chwili."
+    clothing: "Na co dzień: luźne spodnie z grubego materiału (brąz, szary), prosta koszula z długimi rękawami, często chodzi boso. W niedzielę: niebieski kubraczek zapięty pod szyję, biała koszula z ogromnym kołnierzem, nakrapiany słomkowy kapelusz."
+    personality: "Energiczny, sprytny, teatralny, skłonny do popisywania się, pełen wyobraźni. Potrafi być manipulujący, ale ma dobre serce i silne sumienie."
+
+  huckleberry_finn:
+    name: "Huckleberry Finn" 
+    age: "13-14 years old"
+    physical_description: "Szczupły, zahartowany życiem na ulicy. Długie, brudne i potargane włosy w mysim kolorze. Twarz wiecznie brudna i ogorzała od wiatru i słońca. Nieufne, ale bystre i obserwujące spojrzenie."
+    clothing: "Zawsze ubrany w znoszone ubrania dorosłych mężczyzn, o wiele za duże, wiecznie w strzępach. Ogromny kapelusz-ruina z wyrwanym półksiężycem z ronda. Spodnie na jednej szelce, zwisające nisko, postrzępione nogawki ciągnące się po ziemi. Zawsze chodzi boso."
+    personality: "Swobodny, niezależny, małomówny, naturalny. Ucieleśnienie wolności. Potrafi być wdzięczny i lojalny."
+
+  becky_thatcher:
+    name: "Becky Thatcher"
+    age: "12 years old"
+    physical_description: "Drobna i szczupła, zgodnie z ówczesnym ideałem dziewczęcej urody. Złote włosy splecione w dwa długie warkocze. Śliczne, niebieskie oczy i ujmujący uśmiech. Jasna cera chroniona przed słońcem."
+    clothing: "Biała letnia sukienka i haftowane pantalony. Na sukienkę może mieć założony mały, ozdobny fartuszek. Na piknik i poza domem nosi elegancki kapelusz lub czepek. Ubrania zawsze czyste i zadbane."
+    personality: "Urocza, nieśmiała ale kokieteryjna. Potrafi być dumna i urażona. Czasem płacze gdy jest zraniona emocjonalnie."
+
+  aunt_polly:
+    name: "Aunt Polly"
+    age: "około 50-60 lat"
+    physical_description: "Starsza pani o siwych włosach. Nosi okulary 'dla fasonu', które często zsuwa na czoło, gdy patrzy na coś z bliska. Twarz wyraża mieszankę surowości i głębokiej miłości, ciepłe, czułe serce."
+    clothing: "Prosta, praktyczna suknia z ciemnej bawełny lub wełny, z dopasowanym stanem i szeroką spódnicą. W domu nosi na niej fartuch, a na głowie biały czepek."
+    personality: "Troskliwa, surowa gdy trzeba, ale pełna miłości do Tomka. Pobożna, próbuje wychowywać Tomka zgodnie z normami społecznymi."
+
+  sid_sawyer:
+    name: "Sid Sawyer"
+    age: "około 9 lat"
+    physical_description: "Drobny chłopiec, zawsze schludny i czysty, z porządnie uczesanymi włosami. Wygląd wzorowego chłopca. Na twarzy często wyraz zadowolenia z siebie, zwłaszcza gdy uda mu się wsypać brata."
+    clothing: "Zawsze nosi dobrze dopasowane, czyste ubrania."
+    personality: "Cichy, grzeczny, podlizuje się dorosłym, donosi na Tomka. Całkowite przeciwieństwo swojego brata."
+
+  mary:
+    name: "Mary"
+    age: "nastolatka"
+    physical_description: "Starsza kuzynka Tomka. Łagodny i uprzejmy wygląd, postawa pełna troski."
+    clothing: "Skromna, ale zadbana suknia, odzwierciedlająca jej dojrzałość i dobre maniery."
+    personality: "Słodka, święta, troskliwa. Często pomaga ciotce Polly w opiece nad Tomkiem."
+
+  injun_joe:
+    name: "Injun Joe (Indianin Joe)"
+    age: "około 40 lat"
+    physical_description: "Dorosły mężczyzna określany jako półkrwi. Potężny, wzbudzający strach. Twarz kamienna, nieprzenikniona, złowroga i mściwa aparycja. Powinien być fizycznie potężny."
+    clothing: "Surowy, funkcjonalny i zniszczony strój. Prawdopodobnie mieszanka elementów stroju pogranicza ze znoszonymi ubraniami."
+    personality: "Mściwy, bezlitosny, groźny. Jednowymiarowy złoczyńca bez cech odkupieńczych. Główny antagonista."
+
+  muff_potter:
+    name: "Muff Potter"
+    age: "dorosły mężczyzna"
+    physical_description: "Miejscowy pijak. Twarz wynędzniała, w oczach strach i zagubienie. Zaniedbany, nieogolony, z kilkudniowym zarostem, przekrwionymi oczami i potarganymi włosami."
+    clothing: "Znoszone, brudne i niedopasowane ubranie, odzwierciedlające jego ubóstwo i alkoholizm."
+    personality: "Łagodny pijak, nieszkodliwy, wdzięczny wobec chłopców którzy go odwiedzają w więzieniu."
+
+  judge_thatcher:
+    name: "Judge Thatcher"
+    age: "średni wiek"
+    physical_description: "Przystojny, postawny, siwowłosy dżentelmen. Godna i autorytatywna postawa."
+    clothing: "Najlepsze ubranie w miasteczku. Dobrze skrojony garnitur z epoki, składający się z płaszcza, spodni, kamizelki i fularu. Eleganckie, wypastowane buty."
+    personality: "Szanowany sędzia okręgowy, reprezentuje władzę i prawo. Ojciec Becky."
+
+  joe_harper:
+    name: "Joe Harper"
+    age: "12-13 lat"
+    physical_description: "Prawdopodobnie podobny do Tomka, jego bratnia dusza w zabawach."
+    clothing: "Podobny do codziennego stroju Tomka."
+    personality: "Naśladuje Tomka, ale pierwszy ulega tęsknocie za domem podczas przygody na wyspie."
+
+locations:
+  st_petersburg:
+    name: "St. Petersburg"
+    description: "Fikcyjne miasteczko na zachodnim brzegu rzeki Missisipi w stanie Missouri. Białe miasteczko drzemiące w słońcu letniego poranka. Typowa osada na amerykańskim pograniczu lat 40. XIX wieku, odizolowana od wielkiego świata."
+    visual_details: "Dominuje biel wapiennych pobieleń domów, ciepłe brązy i szarości zwietrzałego drewna, czerwień lokalnej cegły oraz intensywna zieleń otaczającej roślinności."
+    atmosphere: "Senna, letnia atmosfera małego miasteczka. Słychać brzęczenie pszczół, bicie dzwonu kościelnego, stukot młota w kuźni, gwizd parowców na rzece."
+
+  aunt_polly_house:
+    name: "Dom ciotki Polly"
+    description: "Dwupiętrowy, drewniany dom w stylu I-house, pomalowany na biało. Otoczony ogrodem i długim, wysokim płotem z desek (trzydzieści jardów długi, dziewięć stóp wysoki)."
+    visual_details: "Wnętrze proste i schludne - drewniane meble, w salonie wzorzysta tapeta i religijne obrazki, kuchnia z piecem opalonym drewnem."
+    atmosphere: "Porządek, domowe ciepło, ale i poczucie ograniczenia. Symbol cywilizacji i społecznych oczekiwań."
+
+  main_street:
+    name: "Główna ulica"
+    description: "Szeroka, nieutwardzona, pylasta droga stanowiąca centrum życia miasteczka. Po obu stronach stoją dwukondygnacyjne budynki z cegły i drewna."
+    visual_details: "Na parterze sklepy z dużymi taflami szkła w witrynach, na piętrze biura lub mieszkania. Drewniane chodniki przed sklepami. Szyldy proste, malowane ręcznie."
+    atmosphere: "Tętniące życiem centrum miasteczka, gwar, handel, kurz unoszący się w powietrzu."
+
+  church:
+    name: "Kościół"
+    description: "Wolnostojący, biały budynek z wysoką, spiczastą wieżą zwieńczoną dzwonnicą. Architektura w stylu Greek Revival lub Gothic Revival."
+    visual_details: "Wnętrze surowe: rzędy twardych, drewnianych ławek, prosta ambona i galeria dla chóru. Wysokie okna zakończone łukiem."
+    atmosphere: "Centrum moralne i społeczne miasteczka. Powaga, nuda, ale także hipokryzja religijna."
+
+  school:
+    name: "Szkoła"
+    description: "Niewielki, jedoizbowy budynek o konstrukcji z bali lub desek, z małą dzwonnicą na dachu."
+    visual_details: "Wnętrze ascetyczne: rzędy zniszczonych, porysowanych drewnianych ławek i stołów, czarna tablica na frontowej ścianie, żeliwny piec na drewno pośrodku sali."
+    atmosphere: "Nuda, dyscyplina, kary cielesne, ale też miejsce pierwszych miłości i dziecięcej rywalizacji."
+
+  cemetery:
+    name: "Cmentarz"
+    description: "Położony na wzgórzu za miastem. Zgodnie z modą Rural Cemetery Movement, przypomina park z rosnącymi drzewami, w tym symbolicznymi płaczącymi wierzbami."
+    visual_details: "Nagrobki zróżnicowane - od prostych płyt z piaskowca po wyszukane formy z marmuru, zdobione symbolicznymi płaskorzeźbami (anioły, złamane kolumny, jagnięta)."
+    atmosphere: "Za dnia: spokój, melancholia. Nocą przy świetle księżyca: groza, gotycki charakter, miejsce tajemnic."
+
+  haunted_house:
+    name: "Nawiedzony dom"
+    description: "Zrujnowany, dwupiętrowy drewniany dom na obrzeżach miasteczka. Symbol moralnego upadku."
+    visual_details: "Puste, przypominające oczy okna, zapadnięte schody, wnętrze pełne pajęczyn, kurzu i zgnilizny. Deski skrzypią, wiatr hula po pustych pomieszczeniach."
+    atmosphere: "Złowieszczość, rozkład, tajemnica, niebezpieczeństwo. Miejsce ukrycia skarbów i złoczyńców."
+
+  jackson_island:
+    name: "Wyspa Jacksona"
+    description: "Długa (ok. 3 mile) i wąska wyspa na Missisipi, gęsto porośnięta lasem łęgowym - platanami, topolami i wierzbami."
+    visual_details: "Piaszczyste łachy na brzegach idealne na obozowisko. Wnętrze wyspy dzikie i niezamieszkane, gęsty, ciemny las."
+    atmosphere: "Wolność, przygoda, ucieczka od cywilizacji. Miejsce pirackiej przygody i kontaktu z naturą."
+
+  mcdougal_cave:
+    name: "Jaskinia McDougala"
+    description: "Jaskinia typu labiryntowego, składająca się z sieci wąskich, krętych korytarzy. Wejście to niewielki otwór w zboczu wzgórza."
+    visual_details: "Wewnątrz stała, niska temperatura, całkowita ciemność i wilgoć. Ściany z wapienia, praktycznie brak nacieków stalaktytowych czy stalagmitowych."
+    atmosphere: "Klaustrofobiczna, dezorientująca przestrzeń. Śmiertelna pułapka, miejsce ostatecznej próby i konfrontacji ze strachem."
+
+  mississippi_river:
+    name: "Rzeka Missisipi"
+    description: "Potężna rzeka o brudnożółtym, błotnistym kolorze. Ruch parowców z wysokimi kominami buchającymi czarnym dymem."
+    visual_details: "Szerokie, wzburzone wody, piaszczyste brzegi, okresowe powodzie. Charakterystyczne parowce z kołami łopatkowymi."
+    atmosphere: "Symbol wolności, ucieczki, przygody i nieustannego przepływu życia. Droga prowadząca w nieznane."
+
+items:
+  tom_treasures:
+    name: "Skarby Tomka"
+    description: "Kolekcja pozornie bezwartościowych przedmiotów o ogromnej wartości w chłopięcym świecie"
+    details: "Jabłko, zdechły szczur na sznurku, dwanaście kulek do gry, klucz który niczego nie otwiera, kawałek kredy, szklany korek od karafki, cynowy żołnierzyk i inne chłopięce drobiazgi"
+
+  sunday_school_bible:
+    name: "Biblia ze szkółki niedzielnej"
+    description: "Pięknie oprawiona Biblia w skórzanej okładce ze złoceniami"
+    details: "Nagroda za znajomość wersetów, którą Tomek zdobył podstępem poprzez handel biletami z innymi dziećmi"
+
+  whitewash_brush:
+    name: "Pędzel do malowania płotu"
+    description: "Pędzel z długim trzonkiem używany do malowania płotu wapnem"
+    details: "Centralny rekwizyt w słynnej scenie manipulacji psychologicznej, symbol przekształcania pracy w zabawę"
+
+  injun_joe_knife:
+    name: "Nóż Indianina Joego"
+    description: "Duży, groźny nóż myśliwski z drewnianą rękojeścią"
+    details: "Symbol brutalności i przemocy. Na końcu jest złamany, co symbolizuje klęskę złoczyńcy"
+
+  treasure_chest:
+    name: "Skrzynia ze skarbem"
+    description: "Stara, spróchniała drewniana skrzynia wzmocniona żelaznymi okuciami"
+    details: "Wypełniona starymi, złotymi monetami o różnym pochodzeniu. Ukryta w jaskini pod krzyżem z sadzy"
+
+  kite_string:
+    name: "Sznurek od latawca" 
+    description: "Zwykły kłębek sznurka który w jaskini staje się symbolem nadziei"
+    details: "Jedyne połączenie ze światem zewnętrznym, nić Ariadny w labiryncie jaskini"
+
+  candles:
+    name: "Świece"
+    description: "Świece używane do oświetlenia jaskini"
+    details: "Najważniejszy zasób w jaskini. Każda zgaszona świeca to symbol kurczącej się nadziei"
+
+  thimble:
+    name: "Naparstek ciotki Polly"
+    description: "Naparstek używany do szycia"
+    details: "Używany także do wymierzania kar Tomkowi poprzez stukanie w głowę"
+
+  dead_cat:
+    name: "Zdechły kot"
+    description: "Martwy kot używany w zabobonnym rytuale"
+    details: "Makabryczny rekwizyt związany z wierzeniem w usuwanie kurzajek na cmentarzu o północy"
+
+  percussion_cap_box:
+    name: "Pudełko po kapiszonach"
+    description: "Małe pudełeczko po kapiszonach do broni palnej"
+    details: "W którym Tomek więzi żuka w kościele - precyzyjny detal osadzający akcję w epoce"

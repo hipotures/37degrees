@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Hope's Brief Return - Soul Seeking New Light"
+  setting:
+    time: "1771 October, morning, crisp autumn air"
+    location: "Wnętrze arystokratycznej rezydencji, urządzone w stylu późnego rokoka"
+    weather: "Clear autumn morning with brilliant sunshine, leaves turning gold"
+  characters:
+    - appearance: "Young man, 24 years old, slender athletic build, average height, expressive dark eyes, dark brown hair gathered simply at the nape with a black ribbon, clean-shaven with sharp jawline, intensely emotional facial expressions capable of extreme joy and deep melancholy"
+      clothing: "Iconic blue woolen frock coat with brass buttons, bright yellow silk waistcoat, cream-colored knee-length breeches, white linen shirt with ruffled jabots, white silk stockings, brown leather riding boots with small heel and brass buckle"
+      position: "Standing in elegant salon, engaged in animated conversation"
+      action: "Speaking enthusiastically about art and literature with aristocratic friends, face bright with intellectual excitement, gestures animated and confident, temporarily forgetting his sorrows in stimulating company"
+    - appearance: "Young arystokratka, inteligentna i wrażliwa, around 20 years old"
+      clothing: "Elegancka, modna suknia dworska in pale blue silk with silver embroidery"
+      position: "Seated in elegant chair, leaning forward with interest"
+      action: "Listening intently to his passionate discourse, fanning herself gently, responding with intelligent questions that encourage his eloquence"
+    - appearance: "Arystokrata o wyniosłej postawie, 40-50 years old"
+      clothing: "Bogaty, dworski strój: jedwabny frak, haftowana kamizelka, koronkowe żaboty, peruka"
+      position: "Standing near fireplace with other gentlemen"
+      action: "Observing the young man's talent with approving nods, discussing his potential for diplomatic career with evident satisfaction"
+  scene:
+    mainElements: "Złocone meble, lustra w ozdobnych ramach, obrazy, kryształowe żyrandole, polerowane posadzki"
+    details: "Jasne, rozproszone światło z dużych okien lub wielu świeczników. Crystal chandeliers cast rainbow fragments of light across ornate golden furniture, polished marble floors reflect autumn sunlight streaming through tall windows, oil paintings in gilded frames show pastoral scenes and noble portraits, elaborately carved mirrors multiply the elegant scene infinitely, sound of refined conversation and gentle laughter fills the room, scent of expensive perfumes and beeswax candles, no text or letters visible"
+    background: "Formal gardens visible through tall windows show geometric patterns of hedges and fountains, other aristocrats move gracefully through connected salons, servants glide silently with refreshments"
+    atmosphere: "Renewed hope and possibility, intellectual stimulation providing escape from emotional pain, aristocratic appreciation offering new direction for life, temporary triumph of mind over heart, artificial paradise of cultured society, false dawn of happiness"
+  composition:
+    cameraAngle: "Medium wide shot capturing elegant salon with figures in conversation"
+    focus: "Young man animated by intellectual discourse, temporarily free from melancholy"
+    depth: "Foreground: animated conversation group, middle ground: ornate salon details, background: formal gardens through windows suggesting ordered world"

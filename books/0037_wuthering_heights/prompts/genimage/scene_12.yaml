@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: Late Georgian period Yorkshire, afternoon with dramatic storm clouds building, air heavy with approaching thunder
+    location: Vast open rolling heathland between the two houses, wild untamed moorland stretching for miles, covered in heather
+      that blooms purple-pink in late summer, scattered with moss-covered boulders and peat bogs, few gnarled trees shaped
+      by wind
+    weather: Towering thunderclouds building, air electric and oppressive, distant thunder rumbling
+  characters:
+  - appearance: Beautiful young woman, 18-19 years, long dark curling hair now elegantly arranged, penetrating dark eyes,
+      refined beauty with underlying wildness. During illness becomes very pale and emaciated
+    clothing: Elegant Georgian gowns in silk and muslin with lace and ruffles, fashionable dress appropriate for genteel lady,
+      during illness simple white nightgown, clothing represents her attempt to conform to civilization
+    position: Standing alone on high moorland ridge, wind whipping her elegant dress
+    action: Arms spread wide facing approaching storm, expression of exhilaration and wild joy, calling out to thunder
+  scene:
+    mainElements: Purple blooming heather darkening under storm shadow, towering cumulus clouds building to dramatic heights,
+      rocky outcrops providing shelter from approaching violence, completely open landscape to sky showing full drama of weather
+      formation
+    details: Massive thunderclouds tower like mountains in sky creating dramatic light and shadow patterns across moorland,
+      distant lightning flickers inside cloud formations, air pressure drops making breathing heavy, wind increases and decreases
+      in gusts, heather and grass bend in waves before approaching storm, few gnarled trees shaped by wind appear braced for
+      violence, no text or letters visible
+    background: Rolling moorland extending to horizon under towering storm architecture, distant hills disappearing into approaching
+      weather system
+    atmosphere: Electric tension and wild exhilaration, sense of human defiance meeting natural power, air charged with electricity
+      and scent of approaching rain, atmosphere of dangerous beauty and transcendent connection to natural forces
+  composition:
+    cameraAngle: Wide dramatic shot emphasizing towering clouds and lone figure
+    focus: Figure with spread arms against massive storm formation, human gesture meeting natural drama
+    depth: Foreground heather bending in gusts, middle ground figure on ridge, background towering thunderclouds dominating
+      sky
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,92 @@
+sceneDescription:
+  setting:
+    time: Early 1910s, evening in cathedral after spiritual confrontation
+    location: Massive Gothic cathedral in Central European city center, ancient stone building following profound philosophical
+      dialogue
+    weather: Evening darkness with cathedral interior illuminated only by scattered candles
+  characters:
+  - appearance: Man, 30 years old, average height with lean build, dark brown hair neatly combed, intelligent face with regular
+      features, clean-shaven with pale complexion, becoming increasingly gaunt and tired-looking as stress mounts, dark circles
+      under eyes, nervous ticks developing
+    clothing: Well-tailored dark charcoal suit, crisp white shirt with high starched collar, conservative dark tie, polished
+      leather shoes, black formal overcoat when outdoors, always impeccably dressed despite growing internal turmoil
+    position: Kneeling or sitting in pew, posture showing exhausted acceptance rather than defeat
+    action: No longer fighting or struggling, breathing slowly and deeply, face showing profound weariness but also strange
+      peace of final understanding
+  - appearance: Man, 50-60 years old, tall imposing figure with stern ascetic face, deep-set eyes, prominent cheekbones, commanding
+      presence radiating authority and spiritual gravitas
+    clothing: Simple black cassock reaching ankles, white clerical collar, black leather shoes, small silver cross on chain
+      around neck, black skullcap when in cathedral
+    position: Standing at distance, silhouetted against candlelight
+    action: Dignified upright posture, measured deliberate movements, hands often clasped behind back or folded in prayer
+      position, speaks with deep resonant voice that echoes in cathedral space
+  scene:
+    mainElements: Vast empty nave with towering stone pillars, high vaulted ceiling disappearing into darkness, stone altar
+      with flickering candles, wooden pulpit, scattered wooden pews
+    details: Candlelight creating pools of warm light in vast darkness, stone architecture suggesting eternal permanence beyond
+      human struggle, religious atmosphere offering strange comfort after philosophical resolution, no text or letters visible
+    background: Sacred space where ultimate questions have been addressed if not answered
+    atmosphere: Profound spiritual exhaustion mixed with acceptance, sense of having touched ultimate mysteries even if they
+      remain incomprehensible, peace that comes with end of struggle
+  composition:
+    cameraAngle: Medium shot showing protagonist in moment of acceptance within sacred architecture
+    focus: Emotional catharsis through acceptance of incomprehensible fate
+    depth: 'Foreground: protagonist in state of exhausted acceptance, middle ground: sacred space offering spiritual context,
+      background: vast architecture suggesting eternal dimensions beyond human understanding'
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical
