@@ -1,26 +1,29 @@
 sceneDescription:
   setting:
-    time: Afternoon on Arrakis, rare clouds gathering for infrequent storm
+    time: Early dawn on Arrakis, first of twin suns rising with deep red light filtering through dust storm aftermath
     location: Vast desert landscape on harsh desert world with endless golden sand dunes, twin blazing suns, extreme heat
       shimmer, and alien desert beauty
-    weather: Unusual overcast conditions with heavy gray clouds, static electricity in air
+    weather: Post-storm atmospheric conditions with red dust particles suspended in air, creating deep crimson lighting
   characters:
   - appearance: Young man, 15 years old, dark hair, lean athletic build, intense dark eyes, aristocratic features
     clothing: Black stillsuit with breathing apparatus, dark desert robes, or formal Atreides ducal uniform with family crest
-    position: Standing on elevated dune crest overlooking vast desert
-    action: Scanning horizon while storm clouds gather overhead
+    position: Standing on rocky outcropping overlooking vast dune field
+    action: Watching in awe as massive sandworm emerges from crimson-lit sand
   scene:
     mainElements: Rolling sand dunes, rocky outcroppings, scattered spice deposits creating orange patches, occasional desert
       plants
-    details: Dramatic gray clouds creating rare flat light across desert landscape. Colors muted but intensified by diffused
-      lighting. No harsh shadows - even illumination revealing subtle desert textures. Electric tension in air suggesting
-      approaching storm. Sand appearing different colors under cloud cover. Rare moment of relief from blazing sun.
-    background: Storm front approaching across endless dune fields
+    details: Massive sandworm breaking through desert surface in deep red dawn light. Creature's segmented body appearing
+      dark against crimson-illuminated sand cascading from its emergence. Mouth opening to reveal concentric rows of crystal
+      teeth catching red light. Sand particles suspended in air from storm aftermath creating blood-red atmosphere. Spice
+      deposits glowing like embers in the red light. Desert transformed into alien crimson world with the ancient creature
+      as centerpiece. Heat shimmer adding ethereal quality to the red-tinted scene.
+    background: Endless dune fields bathed in deep red morning light with dust particles creating atmospheric red haze
     atmosphere: Harsh alien beauty with shimmering heat, deadly stillness broken only by wind over sand
   composition:
-    cameraAngle: Wide landscape view from elevated dune position
-    focus: Solitary figure silhouetted against dramatic overcast sky
-    depth: Textured sand dune in foreground, standing figure in middle ground, approaching storm clouds filling background
+    cameraAngle: Wide dramatic view capturing both figure and massive sandworm in crimson landscape
+    focus: Towering sandworm emerging from red-lit sand with small human figure for scale
+    depth: Rocky outcropping with figure in foreground, massive emerging sandworm in middle ground, crimson desert expanse
+      in background
 visualElements:
   colorPalette:
     primary:
