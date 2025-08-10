@@ -10,7 +10,16 @@
 
 # Tablica zawierająca nazwy katalogów z książkami, które mają być przetworzone.
 # Każda nazwa katalogu odpowiada nazwie listy TODOIT.
-declare -a book_directories=("0014_jane_eyre" "0015_lady_of_the_camellias" "0017_little_prince" "0018_lord_of_the_rings" "0020_narnia")
+declare -a book_directories=(
+    "0026_pride_and_prejudice"
+    "0028_red_and_black"
+    "0029_robinson_crusoe"
+    "0032_sorrows_of_young_werther"
+    "0033_the_trial"
+    "0034_to_kill_a_mockingbird"
+    "0035_tom_sawyer"
+    "0037_wuthering_heights"
+)
 
 # Plik z komendą/promptem dla modelu Claude.
 COMMAND_FILE="/home/xai/DEV/37degrees/.claude/commands/37d-c3.md"

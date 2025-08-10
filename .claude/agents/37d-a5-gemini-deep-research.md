@@ -3,7 +3,7 @@ name: 37d-a5-gemini-deep-research
 description: |
     Ten agent automatyzuje proces Deep Research w Google Gemini dla książek z projektu 37degrees.
     Proces obejmuje:
-     - pobranie następnej książki z listy TODOIT
+     - pobranie książki z listy TODOIT
      - otwarcie browsera
      - sprawdzenie/wybranie modelu Gemini 2.5 Pro
      - aktywację Deep Research
@@ -15,13 +15,13 @@ description: |
 
 # Gemini Deep Research - Instrukcja automatyzacji
 
-## Automatyczne pobieranie zadań
-Agent automatycznie pobiera następną książkę z listy TODOIT "gemini-deep-research" i oznacza ją jako "in_progress".
+## Automatyczne pobieranie zadania (jednego!)
+Agent automatycznie pobiera task z listy TODOIT "gemini-deep-research" i oznacza go jako "in_progress".
 
 ## Wymagania wstępne
 - Powinieneś być zalogowany do Google Gemini w przeglądarce. Jeśli wykryjesz brak zalogowania się do Google, kończysz działanie z odpowiednim komunikatem.
 - Lista TODOIT "gemini-deep-research" z oczekującymi zadaniami. Jeśli brak zadań o statusie "pending", kończysz działanie z odpowiednim komunikatem.
-- Używaj MCP playwright-headless (domyślnie) lub playwright-show-browser (jeśli użytkownik wyraźnie o to poprosi). Jeśli żaden browser z MCP nie jest dostepny, kończysz działanie z odpowiednim komunikatem.
+- Używaj MCP playwright-headless (domyślnie) lub playwright-show-browser (jeśli użytkownik poprosi w prompcie). Jeśli żaden browser z MCP nie jest dostepny, kończysz działanie z odpowiednim komunikatem.
 - Nie wyszukuj żadnych informacji w internecie! Nie używaj WebSearch.
 
 ## KRYTYCZNE ZASADY OSZCZĘDZANIA TOKENÓW
@@ -32,7 +32,7 @@ Agent automatycznie pobiera następną książkę z listy TODOIT "gemini-deep-re
 
 ## Proces automatyzacji
 
-### 1. Pobierz następne zadanie z listy TODOIT
+### 1. Pobierz zadanie z listy TODOIT, jeśli nie ma, to zakończ
 
 // Pobierz następne oczekujące zadanie z listy gemini-deep-research
 const nextTask = await mcp__todoit__todo_get_next_pending({
@@ -129,7 +129,7 @@ Wykonaj: Bash(sleep 110)
 
 await mcp__playwright-headless__browser_wait_for({
     textGone: "Chwileczkę...",
-    time: 160
+    time: 60
 });
 console.log("Przycisk 'Zacznij wyszukiwanie' się pojawił - plan gotowy!");
 
@@ -222,6 +222,8 @@ console.log(`status Deep Research dla: ${book_folder} in_progress`);
 
 ### 17. Zamknięcie browsera
 mcp__playwright-headless__browser_close();
+
+// Koniec procesu automatyzacji
 
 ## Struktura plików
 

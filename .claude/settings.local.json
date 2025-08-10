@@ -5,7 +5,10 @@
       "mcp__claude-flow",
       "Bash(ls:*)"
     ],
-    "deny": []
+    "deny": [],
+    "additionalDirectories": [
+      "/tmp/playwright-mcp-files"
+    ]
   },
   "enableAllProjectMcpServers": true,
   "enabledMcpjsonServers": [

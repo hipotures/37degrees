@@ -1,0 +1,37 @@
+{
+  "mcpServers": {
+    "playwright-headless": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "@playwright/mcp@0.0.32",
+        "--user-data-dir=/home/xai/DEV/ms-playwright/mcp-chrome-profile-1",
+        "--no-sandbox",
+        "--device=Galaxy S24",
+        "--output-dir=/tmp/playwright-mcp-files/headless",
+        "--save-session",
+        "--user-agent=Mozilla/5.0 (Linux; Android 14; SM-S928B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+      ],
+      "env": {}
+    },
+    "playwright-show-browser": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "@playwright/mcp@0.0.32",
+        "--user-data-dir=/home/xai/DEV/ms-playwright/mcp-chrome-profile-2",
+        "--no-sandbox",
+        "--device=Galaxy S24",
+        "--output-dir=/tmp/playwright-mcp-files/browser",
+        "--save-session",
+        "--user-agent=Mozilla/5.0 (Linux; Android 14; SM-S928B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+      ],
+      "env": {}
+    },
+    "todoit": {
+      "command": "python",
+      "args": ["-m", "interfaces.mcp_server"],
+      "env": {}
+    }
+  }
+}

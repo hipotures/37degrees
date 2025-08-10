@@ -1,6 +1,9 @@
-# 37degrees Agent Workflow
+---
+name: 37d-research
+description: |
+   This is agent workflow for individual 37d research.
+---
 
-This document defines the complete workflow for individual 37d research agents.
 
 <objective>
 Execute ALL research tasks marked [ ] from FILE TODO
