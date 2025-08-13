@@ -1,0 +1,922 @@
+﻿Podróże Guliwera: Analiza Literacka i Przewodnik Wizualny dla Adaptacji
+
+
+
+
+CZĘŚĆ I: WPROWADZENIE
+
+
+
+
+1. Informacje bibliograficzne
+
+
+
+
+Pełny tytuł i podtytuł
+
+
+Pełny, oryginalny tytuł dzieła Jonathana Swifta, opublikowanego po raz pierwszy w 1726 roku, brzmi: Travels into Several Remote Nations of the World. In Four Parts. By Lemuel Gulliver, First a Surgeon, and then a Captain of Several Ships.1 W polskim tłumaczeniu Macieja Słomczyńskiego tytuł ten oddano jako:
+Podróże do wielu odległych narodów świata, w 4 częściach, opisane przez Lemuela Guliwera, najpierw lekarza okrętowego, później kapitana kilku statków.1 Już sam tytuł stanowi kluczowy element satyrycznej strategii autora. Jest on celowo rozwlekły, drobiazgowy i naśladuje autentyczne tytuły popularnych w XVIII wieku dzienników z podróży i relacji odkrywców, takich jak William Dampier. Swift od samego początku buduje iluzję autentyczności, przedstawiając swoje dzieło nie jako fikcję literacką, lecz jako rzetelną, faktograficzną relację spisaną przez prawdziwego marynarza. Ta mistyfikacja jest fundamentalna dla działania satyry – czytelnik, wprowadzony w ramy realistycznej opowieści podróżniczej, jest następnie konfrontowany z absurdalnymi i fantastycznymi światami, które w rzeczywistości stanowią lustrzane odbicie jego własnego społeczeństwa.
+
+
+Autor (Jonathan Swift)
+
+
+Jonathan Swift (1667–1745) był postacią o złożonej tożsamości: anglo-irlandzkim duchownym anglikańskim, błyskotliwym pamflecistą politycznym i jednym z najostrzejszych satyryków w historii literatury angielskiej.4 Urodzony w Dublinie, przez większość życia czuł się rozdarty między lojalnością wobec Anglii a rosnącą świadomością krzywd doznawanych przez Irlandię pod brytyjskimi rządami. Jego kariera była nierozerwalnie związana z polityką. Początkowo sympatyzował z partią Wigów, jednak rozczarowany ich polityką, stał się zagorzałym stronnikiem Torysów, dla których pisał cięte pamflety polityczne.4 Po dojściu do władzy Jerzego I i umocnieniu się pozycji Wigów pod wodzą Roberta Walpole’a, Swift został w praktyce zesłany na polityczną emeryturę do Irlandii, gdzie objął stanowisko dziekana katedry św. Patryka w Dublinie.5
+To właśnie w tym okresie względnej izolacji i frustracji politycznej powstały Podróże Guliwera. Dzieło to jest kulminacją jego talentu satyrycznego, który doskonalił przez lata. Swift był członkiem Klubu Martinusa Scriblerusa, nieformalnego stowarzyszenia literackiego, do którego należeli również tacy twórcy jak Alexander Pope i John Gay. Celem klubu było wyszydzanie wszelkiej fałszywej uczoności i literackiej pretensjonalności, co znalazło bezpośrednie odzwierciedlenie w trzeciej części Podróży.6 Swift postrzegał satyrę jako narzędzie moralnej reformy; był głęboko przeświadczony o zepsuciu ludzkiej natury, o dominacji pychy, chciwości i głupoty w życiu publicznym i prywatnym. Jego dzieło nie jest jedynie złośliwą kpiną, ale wynika z głębokiego, choć pesymistycznego, przekonania o konieczności demaskowania ludzkich wad, aby – być może – skłonić świat do opamiętania.7
+
+
+Data pierwszego wydania
+
+
+Książka została po raz pierwszy opublikowana anonimowo w Londynie przez wydawcę Benjamina Motte’a w dniu 28 października 1726 roku.2 Swift, obawiając się politycznych reperkusji i oskarżeń o zdradę stanu z powodu licznych aluzji do brytyjskiego dworu i rządu, zachował swoje autorstwo w tajemnicy.
+
+
+Gatunek literacki
+
+
+Podróże Guliwera wymykają się prostej klasyfikacji gatunkowej, stanowiąc mistrzowską hybrydę kilku konwencji literackich:
+* Parodia powieści podróżniczej: Utwór w swej strukturze i stylu narracji parodiuje niezwykle popularne w XVIII wieku autentyczne relacje z podróży. Swift naśladuje ich drobiazgowy, faktograficzny ton, włączając do tekstu mapy i precyzyjne dane nawigacyjne, aby uwiarygodnić fantastyczne wydarzenia.10
+* Satyra menippejska: Dzieło jest klasycznym przykładem satyry menippejskiej, która, w odróżnieniu od satyry horacjańskiej (łagodnej) czy juwenaliańskiej (gniewnej), atakuje nie pojedyncze wady, lecz całe spektrum ludzkich i społecznych szaleństw. Swift krytykuje politykę, religię, naukę, filozofię, a ostatecznie samą ludzką naturę, mieszając powagę z groteską i humorem.8
+* Powieść fantastyczna i prototyp science fiction: Poprzez stworzenie całkowicie fikcyjnych, rządzących się własnymi prawami światów, Swift stał się prekursorem nowoczesnej literatury fantasy. Opis latającej wyspy Laputy czy absurdalnych eksperymentów w Akademii Lagado jest uznawany za jeden z pierwszych przykładów krytyki nauki i technologii, co czyni go również prototypem literatury science fiction. Jego wpływ jest widoczny w twórczości takich pisarzy jak George Orwell i Stanisław Lem.11
+* Utopia/Antyutopia: Każda z czterech podróży prezentuje inny model społeczeństwa. Liliput i Laputa mają cechy antyutopii, ukazując wynaturzenia cywilizacji. Kraina Houyhnhnmów jest z kolei przedstawiona jako utopia oparta na czystym rozumie, choć jej doskonałość jest nieludzka i ostatecznie odrzuca Guliwera.10
+
+
+Przynależność do nurtu literackiego
+
+
+Dzieło jest jednym z najważniejszych tekstów europejskiego Oświecenia. Epoka ta, zwana Wiekiem Rozumu, kładła nacisk na racjonalizm, postęp i wiarę w możliwość doskonalenia ludzkiej natury i społeczeństwa. Swift, będąc dzieckiem tej epoki, posługuje się jej głównym narzędziem – rozumem – aby poddać w wątpliwość jej fundamentalne założenia.11
+Podróże Guliwera są więc dziełem głęboko oświeceniowym, ale jednocześnie stanowią jego wewnętrzną krytykę. Swift demaskuje pychę rozumu, pokazując, jak łatwo może on prowadzić do absurdalnych lub nieludzkich wniosków, co widać w postawach Laputańczyków i Houyhnhnmów. Stylistycznie utwór wpisuje się w ramy klasycyzmu, z jego dążeniem do jasności, precyzji i uporządkowanej kompozycji, co dodatkowo wzmacnia ironiczny kontrast między chłodną, rzeczową formą a fantastyczną i groteskową treścią.14
+
+
+Okładka (pierwsze wydanie)
+
+
+Pierwsze wydanie z 1726 roku, zgodnie z konwencją parodiowania autentycznych relacji, często zawierało frontyspis z portretem rzekomego autora, kapitana Lemuela Guliwera.1
+* Opis wizualny okładki/frontyspisu: Rycina przedstawia popiersie mężczyzny w średnim wieku, około 40 lat, ubranego w typowy dla epoki strój dżentelmena: perukę z długimi, opadającymi na ramiona lokami, biały, koronkowy żabot pod szyją oraz ciemny surdut. Twarz Guliwera jest owalna, o regularnych rysach. Spojrzenie ma poważne, inteligentne i godne zaufania – jest to twarz człowieka, którego relacjom czytelnik ma bezwarunkowo wierzyć. Portret umieszczony jest w owalnej ramie, pod którą znajduje się podpis: "Captain Lemuel Gulliver, of Redriff. Aetat. suae LVIII" (Kapitan Lemuel Guliwer z Redriff. W wieku swoim 58 lat). Całość ma na celu wzmocnienie iluzji, że czytelnik trzyma w ręku autentyczne wspomnienia, a nie satyryczną fikcję.
+
+
+2. Kontekst powstania
+
+
+
+
+Okoliczności napisania książki
+
+
+Podróże Guliwera powstały w latach 1721-1725, w okresie, gdy Swift, po upadku politycznym swoich torysowskich protektorów, przebywał w Dublinie jako dziekan katedry św. Patryka.5 Był to dla niego czas głębokiej frustracji i rozczarowania angielską sceną polityczną, zdominowaną przez partię Wigów i premiera Roberta Walpole’a, którego Swift uważał za uosobienie korupcji. Powieść stała się dla niego wentylem bezpieczeństwa, narzędziem, za pomocą którego mógł w zawoalowany sposób zaatakować swoich politycznych wrogów i skrytykować całe społeczeństwo angielskie, nie narażając się bezpośrednio na oskarżenia o zdradę. Anonimowość publikacji była kluczowym elementem tej strategii.
+
+
+Inspiracje autora
+
+
+Swift czerpał z bogatej tradycji literackiej i kulturowej. Bezpośrednią inspiracją były autentyczne dzienniki podróżnicze, takie jak relacje Williama Dampiera, które dostarczały wzorców stylistycznych do parodiowania.15 Równie ważna była tradycja satyryczna, od starożytnych autorów, jak Lukian z Samosat, po współczesne mu dzieła francuskich satyryków. Nie można pominąć wpływu literatury utopijnej, zwłaszcza
+Utopii Tomasza Morusa i Nowej Atlantydy Francisa Bacona, których wizje idealnych społeczeństw Swift poddaje ironicznej rewizji. Wreszcie, intelektualna atmosfera Klubu Martinusa Scriblerusa, z jego programowym wyszydzaniem "fałszywej uczoności", dała początek satyrze na naukę i filozofię w trzeciej części podróży.6
+
+
+Miejsce w dorobku pisarza
+
+
+Podróże Guliwera są magnum opus Jonathana Swifta, dziełem, w którym jego talent satyryczny, zjadliwy dowcip i pesymistyczna wizja ludzkości osiągnęły najpełniejszy wyraz.2 Wcześniejsze utwory, takie jak
+Bitwa książek czy Opowieść o beczce, były błyskotliwymi, ale bardziej ograniczonymi tematycznie satyrami.5
+Podróże mają charakter uniwersalny, a ich skala i ambicja przewyższają wszystko, co Swift napisał wcześniej i później. To dzieło ugruntowało jego pozycję jako jednego z największych satyryków w literaturze światowej i zapewniło mu nieśmiertelność, której nie dały mu ani jego działalność kościelna, ani liczne pamflety polityczne.
+
+
+Recepcja krytyczna i czytelnicza
+
+
+Reakcja na powieść była natychmiastowa i fenomenalna. Książka stała się bestsellerem, czytanym przez wszystkie warstwy społeczne – od arystokratów i polityków, którzy z zapałem rozszyfrowywali polityczne aluzje, po zwykłych czytelników i dzieci, których fascynowały fantastyczne przygody.2 Ta dwoistość odbioru jest kluczem do zrozumienia fenomenu
+Podróży Guliwera. Z jednej strony, dla współczesnych Swiftowi była to ostra, aktualna satyra polityczna, roman à clef, w której Flimnap to Walpole, a konflikt o obcasy to spór Wigów z Torysami.6 Z drugiej strony, siła fantastycznej wyobraźni Swifta sprawiła, że opowieść o Guliwerze w krainie karłów i olbrzymów zaczęła żyć własnym życiem.
+Z biegiem czasu, zwłaszcza w epoce wiktoriańskiej, zaczęto wydawać wersje skrócone i ocenzurowane, przeznaczone dla dzieci. Usunięto z nich najbardziej dosadną satyrę, elementy skatologiczne (jak gaszenie pożaru moczem) i całą mroczną, mizantropiczną czwartą część. W ten sposób Podróże Guliwera utrwaliły się w masowej świadomości jako klasyczna bajka dla dzieci, co jest jednym z największych paradoksów w historii literatury.3 Ta "oswojona" wersja, choć zniekształcała intencje autora, paradoksalnie zapewniła dziełu przetrwanie i niezwykłą popularność. Działała jak statek-matka, który przenosił przez wieki oryginalny, znacznie bardziej wywrotowy i niepokojący tekst. Każde pokolenie, wychowane na uproszczonej wersji, ma szansę na nowo odkryć szokującą głębię i pesymizm oryginału, co sprawia, że dzieło pozostaje żywe i nieustannie prowokuje do dyskusji.3 Współczesna krytyka literacka skupia się na analizie pełnej, nieocenzurowanej wersji, podkreślając jej filozoficzną głębię i bezkompromisową krytykę ludzkiej pychy.
+
+
+CZĘŚĆ II: TŁO I KONTEKST
+
+
+
+
+1. Miejsce akcji
+
+
+Akcja Podróży Guliwera rozgrywa się w dwóch odrębnych, lecz nierozerwalnie połączonych przestrzeniach: w realistycznym świecie Anglii początku XVIII wieku, który stanowi ramę narracyjną i punkt odniesienia, oraz w czterech fantastycznych krainach, które są celem podróży bohatera i głównym polem dla satyrycznej analizy.
+
+
+Świat Rzeczywisty: Anglia
+
+
+Narracja rozpoczyna się i kończy w Anglii, co mocno osadza fantastyczne wydarzenia w konkretnej, rozpoznawalnej dla czytelnika rzeczywistości. Guliwer pochodzi z hrabstwa Nottingham, studiuje w Cambridge, praktykuje w Londynie, a ostatecznie osiada w Redriff, dzielnicy portowej na południowo-wschodnich obrzeżach Londynu, znanej z powiązań z żeglugą.16 Te realne lokacje służą budowaniu wiarygodności narratora.
+* OPIS WIZUALNY MIEJSC (ANGLIA):
+   * Architektura: Dominującym stylem epoki był styl georgiański, charakteryzujący się elegancją, symetrią i inspiracjami klasycznymi.18 Domy, zwłaszcza w Londynie, to często szeregowe kamienice z czerwonej cegły lub jasnego kamienia. Ich fasady cechuje regularny rytm wysokich, wieloszybowych okien skrzydłowych (tzw. sash windows), a wejścia są podkreślone przez ozdobne portyki z pilastrami i frontonami.20 Dominujące kolory to czerwień cegły, biel lub krem detali architektonicznych (gzymsy, ramy okienne) i czerń żelaznych ogrodzeń.
+   * Wnętrza: Wnętrza domów klasy średniej i wyższej, takich jak dom Guliwera, odzwierciedlały georgiańskie upodobanie do porządku i światła. Ściany były często pokryte drewnianą boazerią malowaną na jasne, pastelowe kolory (błękit, szałwiowa zieleń) lub ozdobione tapetami. Sufity zdobiły misterne, białe sztukaterie.21 Umeblowanie składało się z solidnych, eleganckich mebli z ciemnego drewna, głównie mahoniu i orzecha, o formach inspirowanych projektami Thomasa Chippendale'a – z charakterystycznymi kabriolowymi nogami i ażurowymi oparciami.23 Oświetlenie było naturalne, wpadające przez duże okna, a po zmroku pochodziło od świec w mosiężnych lub srebrnych świecznikach i żyrandolach, co tworzyło atmosferę ciepłych, migotliwych świateł i głębokich cieni.
+   * Atmosfera: Londyn w czasach Guliwera był miastem kontrastów. Z jednej strony eleganckie place i nowe, uporządkowane ulice, z drugiej – ciasne, brudne zaułki odziedziczone po średniowieczu. Atmosfera była dynamiczna i głośna: stukot końskich kopyt i żelaznych kół powozów o bruk, pokrzykiwania woźniców, handlarzy i przekupek. W powietrzu unosiła się mieszanina zapachów: dymu węglowego z tysięcy kominów, woni koni, śmieci i nieczystości w rynsztokach oraz aromatów z licznych kawiarni i piekarni.
+
+
+Świat Fikcyjny: Krainy Odległe
+
+
+Każda z czterech fantastycznych krain, do których trafia Guliwer, jest precyzyjnie umiejscowiona na mapach dołączonych do powieści, co stanowi kolejny element parodii autentycznych relacji. Każda z nich posiada unikalny krajobraz, architekturę i atmosferę, które wizualnie odzwierciedlają jej charakter moralny i filozoficzny.
+* Liliput i Blefuscu:
+   * Lokalizacja: Wyspy na Oceanie Indyjskim, na południowy zachód od Sumatry.15
+   * Krajobraz i Architektura: Liliput to miniaturowa, wyidealizowana wersja Anglii. Krajobraz składa się z pól uprawnych, lasów i łąk, które z perspektywy Guliwera wyglądają jak starannie utrzymany ogród.24 Najwyższe drzewa mają około siedmiu stóp wysokości. Stolica,
+Mildendo, jest idealnym kwadratem o boku 500 stóp, otoczonym murem wysokim na dwie i pół stopy. Domy, wysokie na trzy do pięciu pięter, są pomalowane na jaskrawe, wesołe kolory i ozdobione różnymi wzorami, co tworzy wrażenie miasta z klocków.25 Pałac cesarski w centrum jest otoczony własnym murem i składa się z kilku dziedzińców prowadzących do "najwspanialszych apartamentów, jakie można sobie wyobrazić".27 Architektura, choć miniaturowa, naśladuje europejski barokowy przepych, co wizualnie podkreśla nieproporcjonalną pychę i pretensjonalność mieszkańców.
+   * Kolory i Oświetlenie: Paleta barw jest żywa i nasycona – dominują czerwienie, błękity, zielenie i złoto. Sceneria jest niemal zawsze skąpana w jasnym, słonecznym świetle, co podkreśla powierzchowną doskonałość i porządek tego świata.
+   * Atmosfera: Nastrój jest początkowo idylliczny, wręcz bajkowy. Panuje wrażenie absolutnego porządku, czystości i harmonii. Dźwięki to piskliwe, lecz wyraźne głosy Liliputanów, delikatny stukot ich powozów i odgłosy miniaturowych armii. Jednak pod tą powierzchnią kryje się atmosfera dworskich intryg, podejrzliwości i bezwzględnej polityki.
+   * Brobdingnag:
+   * Lokalizacja: Półwysep na północno-zachodnim wybrzeżu Ameryki Północnej.28
+   * Krajobraz i Architektura: Jest to świat o monumentalnej, przytłaczającej skali, gdzie wszystko jest dwunastokrotnie większe niż w Europie. Pola kukurydzy są lasem o wysokości 40 stóp, gradobicie przypomina bombardowanie kulami armatnimi, a zwykły kretowisko jest dla Guliwera niebezpieczną górą.29 Stolica,
+Lorbrulgrud, jest ogromnym miastem rozciągającym się na dziesiątki mil.31 Pałac królewski to "sterta budynków" o obwodzie siedmiu mil, z komnatami wysokimi na 240 stóp.32 Architektura jest prosta i solidna, pozbawiona drobnych ornamentów, które w tej skali straciłyby sens. Jest to powiększona, surowa wersja stylu georgiańskiego, gdzie liczy się funkcja i proporcja, a nie dekoracja.
+   * Kolory i Oświetlenie: Dominują barwy naturalne i ziemiste: brązy drewna, szarości kamienia, zieleń pól. Oświetlenie jest naturalne, wpadające przez gigantyczne okna, tworzy potężne kontrasty między światłem a cieniem.
+   * Atmosfera: Nastrój jest dwojaki. Z jednej strony, świat ten emanuje majestatem, siłą i moralną powagą, uosabianą przez mądrego króla. Z drugiej, dla Guliwera jest to miejsce nieustannego zagrożenia i upokorzenia. Z bliska świat ten staje się groteskowy i odpychający: Guliwer widzi pory w skórze olbrzymów, wszy wielkości owiec i odrażające choroby w monstrualnym powiększeniu.31 Dźwięki są ogłuszające – głos olbrzyma jest jak ryk wodospadu, a brzęczenie muchy jak warkot młyna.
+      * Laputa, Balnibarbi i sąsiednie wyspy:
+      * Lokalizacja: Archipelag na wschód od Japonii.33
+      * Krajobraz i Architektura: Laputa to latająca wyspa o średnicy 4,5 mili, której podstawę stanowi lity adamant. Jej powierzchnia to żyzna gleba, jednak architektura jest absurdalna – domy są źle zbudowane, bez kątów prostych, co jest ironicznym wynikiem obsesji na punkcie abstrakcyjnej geometrii.33
+Balnibarbi, ląd pod Laputą, jest w większości jałowy i zrujnowany. Pola leżą odłogiem, a domy w stolicy, Lagado, są w ruinie. Wyjątkiem jest posiadłość lorda Munodiego, wzorowana na dobrze zarządzanym angielskim majątku ziemskim, która stanowi oazę zieleni i porządku.36
+Wielka Akademia w Lagado to kompleks budynków w stanie rozkładu, wypełnionych dziwaczną aparaturą, gdzie panuje brud i chaos.37
+      * Kolory i Oświetlenie: Laputa skąpana jest w świetle słonecznym, ale rzuca cień na ziemie poniżej, co jest wizualną metaforą jej opresyjnej władzy. Balnibarbi jest utrzymane w palecie szarości i wyblakłych brązów, symbolizujących jałowość i upadek. Wnętrza Akademii są mroczne, oświetlone jedynie słabym światłem wpadającym przez zakurzone okna lub blaskiem palenisk eksperymentalnych.
+      * Atmosfera: W Lapucie panuje nastrój intelektualnego roztargnienia i niepokoju. W Balnibarbi dominuje poczucie beznadziei i upadku. Akademia to miejsce absurdalnego, gorączkowego i bezcelowego działania. Dźwięki Laputy to muzyka sfer i ciche mamrotanie matematyków; dźwięki Akademii to bulgotanie, stuki i wybuchy nieudanych eksperymentów.
+         * Kraj Houyhnhnmów:
+         * Lokalizacja: Nieokreślona, ostatnia z odkrytych przez Guliwera krain.
+         * Krajobraz i Architektura: To idylliczna, pastoralna kraina przypominająca arkadyjski, nie skażony cywilizacją krajobraz. Charakteryzuje się porządkiem, ale jest to porządek naturalny, a nie narzucony – "długie rzędy drzew, nie sadzone regularnie, lecz rosnące naturalnie", obfitość trawy i pola owsa.38 Domy Houyhnhnmów są proste, funkcjonalne i zbudowane z naturalnych materiałów: drewna, plecionej wikliny i słomy. Są niskie i długie, idealnie wkomponowane w otoczenie.39 Kontrastują z nimi nory i legowiska Jahusów, które są brudne i chaotyczne.
+         * Kolory i Oświetlenie: Paleta barw jest naturalna i stonowana: zielenie traw, złoto owsa, brązy i szarości końskiej sierści, błękit nieba. Oświetlenie jest zawsze czyste i naturalne, bez ostrych kontrastów.
+         * Atmosfera: Panuje nastrój absolutnego spokoju, harmonii, czystości i racjonalnego porządku. To świat bez zgiełku, pośpiechu i gwałtownych emocji. Dźwięki to spokojne rżenie Houyhnhnmów, które jest ich językiem, szum wiatru i śpiew ptaków. Kontrastuje z tym odrażający hałas i smród wydawany przez Jahusy.
+
+
+2. Czas akcji
+
+
+
+
+Konkretny okres historyczny
+
+
+Akcja powieści osadzona jest precyzyjnie w czasie. Cztery podróże Guliwera odbywają się w latach 1699-1715.2 Ten okres, obejmujący koniec panowania Wilhelma III, całe panowanie królowej Anny i początek panowania Jerzego I, był czasem burzliwych przemian politycznych w Wielkiej Brytanii, co stanowi klucz do zrozumienia satyrycznych aluzji w tekście. Czas trwania całej akcji, wliczając pobyty Guliwera w domu, to około 16 lat.
+
+
+WIZUALNE MARKERY EPOKI
+
+
+Aby wiernie oddać świat, z którego pochodzi Guliwer, należy zwrócić szczególną uwagę na materialne i wizualne aspekty początku XVIII wieku.
+         * Stroje charakterystyczne dla okresu:
+         * Strój męski (klasa Guliwera): Podstawą był trzyczęściowy garnitur składający się z długiego surduta (płaszcza) do kolan, często bez kołnierza, bogato zdobionego guzikami; dopasowanej kamizelki (waistcoat), która była niemal równie długa jak surdut; oraz obcisłych spodni do kolan (breeches). Do tego noszono długie, jedwabne lub wełniane pończochy, skórzane buty z klamrami oraz białą, lnianą koszulę z ozdobnym żabotem przy szyi i mankietach. Nieodłącznym elementem stroju dżentelmena była peruka, najczęściej długa i obficie pudrowana na biało lub szaro. Na głowę wkładano trójgraniasty kapelusz (tricorn).42
+         * Strój marynarski: Był znacznie bardziej praktyczny. Marynarze nosili krótkie, luźne kurtki (short jackets), które nie krępowały ruchów, szerokie spodnie z płótna żaglowego, często do połowy łydki (slops), oraz proste, lniane lub bawełniane koszule, często w kratę.43 Na głowach nosili wełniane, dziergane czapki (Monmouth caps) lub małe, okrągłe kapelusze smołowane dla wodoodporności.44
+         * Środki transportu:
+         * Na lądzie: Głównym środkiem transportu były powozy i karoce ciągnięte przez konie, a dla mniej zamożnych – wozy. Ulice Londynu były nimi zatłoczone.
+         * Na morzu: Statki handlowe epoki, takie jak fikcyjny Antelope, były trójmasztowymi żaglowcami o drewnianej konstrukcji. Charakteryzowały się wysokimi nadbudówkami na rufie (kasztelem) i dziobie, skomplikowanym olinowaniem i ożaglowaniem rejowym (kwadratowym) na dwóch pierwszych masztach oraz łacińskim (trójkątnym) na ostatnim.45 Były to statki stosunkowo niewielkie, o wyporności kilkuset ton, zdolne do odbywania długich, transoceanicznych podróży.47
+         * Technologia i przedmioty codziennego użytku:
+         * Broń: Guliwer posiada pistolety skałkowe, które robią ogromne wrażenie na Liliputanach, oraz krótką szablę marynarską, zwaną kordelasem (hanger).
+         * Przedmioty osobiste: Kluczowe dla fabuły są przedmioty znalezione w kieszeniach Guliwera: zegarek kieszonkowy (wielka, srebrna "cebula" na łańcuszku), tabakierka, grzebień, notes, monety. Są to typowe atrybuty dżentelmena podróżnika z tej epoki.48
+         * Narzędzia naukowe: Guliwer posługuje się lunetą ("perspective glass") do obserwacji floty Blefuscu oraz podstawowymi narzędziami nawigacyjnymi, jak kompas i kwadrant.
+
+
+Znaczenie czasu dla rozwoju fabuły
+
+
+Chronologiczny układ podróży jest kluczowy dla rozwoju psychologicznego Guliwera. Każda kolejna wyprawa jest coraz dłuższa i prowadzi go do coraz bardziej obcych i niepokojących światów. Stopniowe oddalanie się od Europy, zarówno w przestrzeni, jak i w czasie, symbolizuje jego rosnącą alienację i rozczarowanie ludzkością. Retrospekcje są rzadkie; narracja jest prowadzona w sposób linearny, co wzmacnia wrażenie autentyczności dziennika podróży.
+
+
+3. Kontekst historyczny
+
+
+
+
+Wydarzenia historyczne w tle
+
+
+Powieść jest głęboko zakorzeniona w historii politycznej Wielkiej Brytanii przełomu XVII i XVIII wieku. Choć nie ma bezpośrednich odniesień do konkretnych dat, aluzje są czytelne dla współczesnych Swiftowi.
+         * Chwalebna Rewolucja (1688): Obalenie katolickiego króla Jakuba II i ustanowienie monarchii parlamentarnej. Konflikty religijne, które do niej doprowadziły, są echem w absurdalnej wojnie o sposób rozbijania jajek między "Wielko-końcanami" (katolikami) a "Mało-końcanami" (protestantami).12
+         * Wojna o sukcesję hiszpańską (1701-1714): Długotrwały konflikt między Wielką Brytanią a Francją, który stanowił tło dla satyrycznego przedstawienia wojny między Liliputem (Anglią) a Blefuscu (Francją).6 Swift, jako Torys, był zwolennikiem szybkiego zakończenia tej wojny, w przeciwieństwie do Wigów, którzy dążyli do całkowitego pokonania Francji. Odmowa Guliwera, by zniewolić Blefuscu, odzwierciedla torysowskie stanowisko polityczne.
+         * Unia Anglii i Szkocji (1707): Stworzenie Królestwa Wielkiej Brytanii, co wzmocniło pozycję kraju na arenie międzynarodowej, ale też zaostrzyło wewnętrzne spory polityczne.
+
+
+Sytuacja polityczna epoki
+
+
+Okres ten zdominowała ostra rywalizacja między dwiema partiami politycznymi: Wigami i Torysami.
+         * Wigowie (Slamecksan - Niskie Obcasy): Reprezentowali interesy nowej arystokracji, finansjery i kupców. Byli zwolennikami silnego parlamentu, tolerancji religijnej dla protestanckich dysydentów i agresywnej polityki zagranicznej. Cieszyli się poparciem króla Jerzego I. Ich satyrycznym odpowiednikiem w powieści jest rządząca partia Niskich Obcasów w Lilipucie.52
+         * Torysi (Tramecksan - Wysokie Obcasy): Reprezentowali tradycyjne ziemiaństwo i Kościół Anglikański. Opowiadali się za silną władzą monarchy i byli bardziej izolacjonistyczni w polityce zagranicznej. Swift był ich czołowym propagandystą. W Lilipucie są przedstawieni jako partia Wysokich Obcasów, liczniejsza, ale odsunięta od władzy.54
+         * Postać Roberta Walpole'a (Flimnap): Uważany za pierwszego premiera Wielkiej Brytanii, lider Wigów, był głównym celem ataków Swifta. W powieści jest on sportretowany jako Flimnap, zręczny tancerz na linie, co jest aluzją do jego politycznej zręczności i umiejętności utrzymania się przy władzy za wszelką cenę.6
+
+
+4. Kontekst społeczny
+
+
+
+
+Struktura społeczna przedstawiona w książce
+
+
+Swift przedstawia i krytykuje XVIII-wieczne społeczeństwo angielskie jako system oparty na arbitralnych przywilejach, korupcji i powierzchowności.
+         * Klasy i warstwy społeczne: Wyraźnie zarysowana jest hierarchia: monarcha (cesarz Liliputu, król Brobdingnagu), arystokracja i urzędnicy dworscy (Flimnap, Reldresal), klasa średnia (reprezentowana przez samego Guliwera – wykształconego, ale niezamożnego lekarza) oraz lud (mieszkańcy miast, farmerzy).
+         * Normy i obyczaje epoki: Swift satyrycznie przedstawia dworskie obyczaje, intrygi i walkę o wpływy. Ceremoniały w Lilipucie, takie jak taniec na linie czy przeskakiwanie pod kijem w celu zdobycia urzędu, są groteskowym odbiciem realnych mechanizmów zdobywania łaski na dworze Jerzego I.57 To wizualne uproszczenie złożonych procesów politycznych do poziomu cyrkowych sztuczek jest jednym z najskuteczniejszych narzędzi satyrycznych w powieści. Pokazuje ono, że w ocenie Swifta, o awansie społecznym nie decydują kompetencje czy cnoty moralne, lecz umiejętność przypodobania się władcy i udział w upokarzających rytuałach.
+         * Konflikty społeczne: Poza konfliktem politycznym, Swift porusza kwestię konfliktu między tradycją a nowoczesnością. W trzeciej części podróży krytykuje Royal Society i nową, oświeceniową naukę, przedstawiając ją jako oderwaną od życia i bezużyteczną (Akademia w Lagado).2 Jest to wyraz konserwatywnego stanowiska Swifta w tzw. "sporze starożytników z nowożytnikami", gdzie opowiadał się on po stronie mądrości klasycznej przeciwko, jego zdaniem, aroganckim i jałowym innowacjom współczesności.
+         * Role płciowe: Powieść odzwierciedla patriarchalną strukturę społeczeństwa XVIII wieku. Kobiety odgrywają role drugoplanowe (żona Guliwera, cesarzowa Liliputu, królowa Brobdingnagu). Są postrzegane głównie przez pryzmat ich funkcji społecznych lub fizyczności. W Brobdingnagu Guliwer jest przerażony i zniesmaczony widokiem kobiecego ciała w powiększeniu, co jest interpretowane jako wyraz głębszej niechęci Swifta do fizyczności i cielesności.
+
+
+CZĘŚĆ III: BOHATEROWIE
+
+
+
+
+1. Protagoniści
+
+
+
+
+Lemuel Guliwer
+
+
+Guliwer jest centralną postacią i narratorem powieści. Jego charakter jest celowo skonstruowany tak, aby służyć satyrycznym celom autora. Jest on inteligentnym, wykształconym obserwatorem, ale jednocześnie naiwnym i często pozbawionym głębszej refleksji, co pozwala mu opisywać najbardziej absurdalne zjawiska z pozornie obiektywnym, naukowym dystansem.
+         * OPIS FIZYCZNY (OBOWIĄZKOWY):
+         * Dokładny wiek: Akcja powieści obejmuje okres, w którym Guliwer ma od około 28 do 44 lat (jego pierwsza podróż zaczyna się w 1699 roku, a ostatnia kończy w 1715). Jest człowiekiem w sile wieku.
+         * Wzrost i budowa ciała: Standardowy wzrost dla Europejczyka z początku XVIII wieku, prawdopodobnie między 170 a 180 cm. Jego zawód chirurga okrętowego, a później kapitana, sugeruje, że jest mężczyzną o solidnej, krzepkiej budowie ciała, zdolnym do znoszenia trudów morskiego życia. Nie jest opisywany jako wyjątkowo silny czy atletyczny, raczej jako przeciętny, zdrowy mężczyzna.
+         * Kolor i styl włosów: Tekst wspomina, że jego włosy są "długie i gęste", gdy zostaje związany przez Liliputanów.60
+BRAK OPISU WIZUALNEGO W ŹRÓDŁACH odnośnie koloru. Biorąc pod uwagę ryciny z epoki i typowy wygląd Anglika, prawdopodobne są włosy w odcieniach brązu. W sytuacjach formalnych nosiłby perukę.
+         * Kolor oczu, kształt twarzy: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.53 Rycina z pierwszego wydania przedstawia go z owalną twarzą, prostym nosem i poważnym, skupionym wyrazem twarzy. Jego oczy wydają się być głęboko osadzone, co sugeruje naturę obserwatora.
+         * Charakterystyczne cechy: Jest człowiekiem skrupulatnym i pedantycznym, co widać w jego narracji. Posiada okulary, które ratują mu wzrok podczas ataku floty Blefuscu – są to prawdopodobnie proste, okrągłe szkła w metalowej lub rogowej oprawie.63
+         * Typowy ubiór:
+            * Na morzu: Strój funkcjonalny, ale oddający jego rangę. Ciemny, wełniany surdut, skórzana lub materiałowa kamizelka, lniana koszula, bryczesy, grube pończochy i solidne, skórzane buty z prostymi klamrami. Na głowie trójgraniasty kapelusz, który gubi podczas lądowania w Lilipucie.43 Podczas akcji, jak zdobycie floty, ma na sobie tylko skórzany kaftan (leathern jerkin).65
+            * W obcych krajach: Jego ubrania szybko niszczeją. W Lilipucie i Brobdingnagu krawcy szyją mu nowe stroje z lokalnych materiałów, które są odpowiednio miniaturowe lub gigantyczne. W krainie Houyhnhnmów, gdy jego europejskie ubrania się rozpadają, konstruuje sobie odzież i buty ze skór Jahusów.
+            * Sposób poruszania się, gesty, mimika: Jego ruchy są zapewne opanowane i celowe, jak przystało na doświadczonego marynarza. Jego mimika jest raczej powściągliwa; rzadko okazuje skrajne emocje, nawet w najbardziej niezwykłych sytuacjach, co jest elementem jego charakterystyki jako "obiektywnego" narratora. Jego postawa jest postawą obserwatora, a nie aktywnego uczestnika wydarzeń.
+            * Motywacje i cele: Początkowo Guliwerem kieruje typowa dla epoki mieszanka ciekawości świata i chęci poprawy swojej sytuacji materialnej.16 Jednak w miarę kolejnych podróży jego motywacje ewoluują. Coraz bardziej pochłania go obserwacja i analiza napotkanych społeczeństw. Ostatecznym celem staje się dla niego znalezienie idealnego, racjonalnego modelu życia, który, jak sądzi, odnajduje u Houyhnhnmów.
+            * Rozwój psychologiczny: Guliwer przechodzi jedną z najbardziej drastycznych transformacji w historii literatury.
+            * Początek: Jest typowym Anglikiem z początku XVIII wieku: patriotą, wierzącym w wyższość europejskiej cywilizacji, nieco naiwnym, ale praktycznym i zaradnym.
+            * Po Lilipucie: Jego ego zostaje połechtane przez bycie "Człowiekiem-Górą". Zaczyna postrzegać politykę i konflikty przez pryzmat ich absurdalnej małości, ale wciąż uważa się za reprezentanta potężnego narodu.
+            * Po Brobdingnagu: Doświadcza upokorzenia bycia małym i bezsilnym. Słuchając oceny Europy z ust mądrego króla-olbrzyma, który nazywa jego rodaków "rasą wstrętnych małych robaków", po raz pierwszy jego duma narodowa zostaje poważnie zachwiana.12
+            * Po Lapucie: Rozwija w sobie pogardę dla czysto teoretycznej, oderwanej od życia wiedzy i nauki, widząc jej destrukcyjne skutki.
+            * Po krainie Houyhnhnmów: Dochodzi do ostatecznego punktu zwrotnego. Utożsamia się z racjonalnymi końmi do tego stopnia, że zaczyna nienawidzić własnego gatunku, utożsamianego z odrażającymi Jahusami. Wraca do Anglii jako skrajny mizantrop, niezdolny do życia z własną rodziną, znajdujący ukojenie jedynie w towarzystwie koni w stajni.12
+
+
+2. Postacie drugoplanowe
+
+
+Postacie drugoplanowe w Podróżach Guliwera często nie są w pełni rozwiniętymi charakterami, lecz archetypami lub satyrycznymi karykaturami, które służą do ilustracji określonych wad lub idei.
+
+
+Mieszkańcy Liliputu
+
+
+            * Cesarz Liliputu (Golbasto Momarem Evlame Gurdilo Shefin Mully Ully Gue):
+            * Wygląd: Wiek 28 i trzy czwarte roku. Jest wyższy od swoich dworzan o prawie szerokość paznokcia Guliwera (ok. 1 cm), co w skali Liliputu czyni go gigantem. Ma surowe, męskie rysy, wydatne usta ("austriacka warga" – aluzja do Habsburgów) i orli nos. Jego postawa jest majestatyczna i władcza.66 Nosi prosty strój wojskowy, ale jego głowę zdobi złoty hełm wysadzany klejnotami, a u boku ma maleńką, ale prawdziwą szpadę. Jest alegorycznym przedstawieniem króla Anglii, Jerzego I.51
+            * Funkcja w fabule: Reprezentuje pychę i tyranię władzy. Początkowo przychylny Guliwerowi, staje się jego wrogiem, gdy ten odmawia pomocy w zniewoleniu narodu Blefuscu. Jego ambicje są równie wielkie, jak on sam jest mały.
+            * Flimnap:
+            * Wygląd: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Jako Lord Wielki Skarbnik nosiłby zapewne najbardziej okazały i bogaty strój na dworze, symbolizujący jego pozycję i kontrolę nad finansami państwa. Jest niezwykle zręcznym tancerzem na linie, co sugeruje gibkość i zwinność ruchów.52 Jest satyryczną karykaturą premiera Roberta Walpole’a.56
+            * Funkcja w fabule: Uosabia dworską zawiść, korupcję i intryganctwo. Staje się śmiertelnym wrogiem Guliwera, oskarżając go fałszywie o romans ze swoją żoną i dążąc do jego zguby.
+            * Reldresal:
+            * Wygląd: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Jako Główny Sekretarz do Spraw Prywatnych, byłby ubrany w elegancki, choć może mniej ostentacyjny niż Flimnap, strój dworski.
+            * Funkcja w fabule: Pełni rolę informatora i pozornie przyjaznego polityka. To on wyjaśnia Guliwerowi zawiłości polityki Liliputu. Jego "przyjaźń" jest jednak pragmatyczna; proponuje oślepienie Guliwera jako "łagodniejszą" alternatywę dla kary śmierci, co demaskuje hipokryzję dworskich relacji.68
+
+
+Mieszkańcy Brobdingnagu
+
+
+            * Farmer:
+            * Wygląd: Olbrzym o wzroście około 22 metrów (72 stopy).28 Jest prostym wieśniakiem, więc jego twarz jest ogorzała od słońca, a dłonie spracowane i ogromne. Nosi proste, zgrzebne ubranie robocze, uszyte z grubego materiału, na gigantyczną skalę.
+            * Funkcja w fabule: Reprezentuje prostego, niezbyt inteligentnego człowieka, który początkowo traktuje Guliwera z pewną życzliwością, ale szybko zaczyna go eksploatować dla zysku, obwożąc go jako jarmarczną atrakcję.
+            * Glumdalclitch ("Mała Niańka"):
+            * Wygląd: Dziewczynka w wieku 9 lat. Jak na swój wiek jest niska, mierzy "zaledwie" 40 stóp (około 12 metrów).70 Ma wygląd typowej wiejskiej dziewczynki, prawdopodobnie z włosami splecionymi w warkocze. Nosi prostą sukienkę.
+            * Funkcja w fabule: Jest jedyną postacią w całej powieści, z którą Guliwer nawiązuje prawdziwie czułą, emocjonalną więź. Opiekuje się nim z troską i miłością, traktując go jak żywą lalkę. Reprezentuje niewinność, dobroć i instynkt opiekuńczy.
+            * Król Brobdingnagu:
+            * Wygląd: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Jest monarchą-filozofem. Jego wygląd zewnętrzny powinien odzwierciedlać jego charakter: majestatyczny, ale nie pompatyczny. Można go sobie wyobrazić jako potężnie zbudowanego olbrzyma o mądrym, przenikliwym spojrzeniu i spokojnych, opanowanych gestach. Jego strój byłby królewski, ale bez zbędnych ozdób, podkreślający godność, a nie bogactwo.71
+            * Funkcja w fabule: Jest moralnym kompasem drugiej części powieści. Jego zdroworozsądkowe pytania i komentarze demaskują absurdalność i okrucieństwo europejskiej polityki, wojen i systemów społecznych. Służy jako głos rozsądku, który z perspektywy swojej wielkości (zarówno fizycznej, jak i moralnej) ocenia małość ludzkich spraw.
+            * Królowa Brobdingnagu:
+            * Wygląd: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Opisywana jako dowcipna i łaskawa. Jako królowa nosiłaby wytworne, ale zapewne nieprzesadnie zdobione szaty.
+            * Funkcja w fabule: To ona kupuje Guliwera od farmera i wprowadza go na dwór. Traktuje go z sympatią i ciekawością, zapewniając mu opiekę i rozrywki. Jej postać łagodzi nieco surowość dworskiego życia olbrzymów.72
+
+
+Mieszkańcy Laputy i krain sąsiednich
+
+
+            * Laputańczycy:
+            * Wygląd: Mają bardzo osobliwy wygląd, który jest fizycznym odzwierciedleniem ich umysłowości. Ich głowy są stale przechylone na jedną stronę. Jedno oko mają zwrócone do wewnątrz (symbol introspekcji i abstrakcyjnego myślenia), a drugie skierowane w górę, ku zenitowi (symbol obserwacji astronomicznych).34 Ich ubrania są ozdobione symbolami astronomicznymi (słońca, księżyce, gwiazdy) i instrumentami muzycznymi. Poruszają się w sposób niezdarny i roztargniony.
+            * Funkcja w fabule: Są karykaturą naukowców i filozofów oderwanych od rzeczywistości, których teoretyczna wiedza nie ma żadnego praktycznego zastosowania. Stanowią satyrę na Royal Society i skrajne przejawy racjonalizmu oświeceniowego.59
+            * Lord Munodi:
+            * Wygląd: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Jako arystokrata z Balnibarbi, nosiłby strój typowy dla europejskiej szlachty, choć być może nieco zniszczony, jak wszystko w jego kraju.
+            * Funkcja w fabule: Jest jedyną rozsądną osobą w krainie szalonych "projektantów". Jego dobrze prosperujący majątek, zarządzany tradycyjnymi metodami, stanowi kontrast dla zrujnowanej reszty kraju. Reprezentuje zdrowy rozsądek i praktyczną mądrość, przeciwstawioną jałowej teorii.36
+
+
+Mieszkańcy krainy Houyhnhnmów
+
+
+            * Jahusy (Yahoos):
+            * Wygląd: Są odrażającą karykaturą człowieka. Chodzą nadzy, a ich ciała (o skórze w kolorze brązowo-żółtym) pokryte są gęstym, sfilcowanym owłosieniem w różnych kolorach (czarnym, rudym, brązowym, żółtym), szczególnie na głowie, piersi i plecach. Mają płaskie twarze, szerokie usta i wklęsłe nosy. Zamiast paznokci mają ostre, długie szpony, których używają do kopania i wspinania się na drzewa. Poruszają się na czterech lub dwóch kończynach. Wydzielają nieznośny odór.75
+            * Funkcja w fabule: Reprezentują ludzkość sprowadzoną do jej najbardziej podstawowych, zwierzęcych instynktów: chciwości, żądzy, brudu i brutalności. Są ucieleśnieniem tego, co w człowieku najgorsze, pozbawionym hamulców rozumu i kultury.
+            * Houyhnhnmowie:
+            * Wygląd: Są fizycznie pięknymi, dobrze zbudowanymi końmi różnych maści (pan Guliwera jest siwy dapple-grey). Ich postawa jest pełna godności, a ruchy płynne i harmonijne. Ich oczy wyrażają inteligencję i spokój. Posługują się przednimi kopytami do wykonywania precyzyjnych czynności.77
+            * Funkcja w fabule: Są ucieleśnieniem czystego, niezmąconego przez emocje rozumu. Ich społeczeństwo jest idealnie zorganizowane, oparte na prawdzie, przyjaźni i życzliwości. Stanowią utopijny ideał, do którego dąży Guliwer, ale jednocześnie ich natura jest zimna, pozbawiona indywidualizmu i namiętności, co czyni ich świat nieludzkim.
+
+
+3. Analiza psychologiczna
+
+
+
+
+Archetypy bohaterów
+
+
+            * Guliwer: Archetyp Odkrywcy i Naiwnego Obserwatora. Jego podróż jest zarówno fizyczna, jak i wewnętrzna, prowadząca od niewinności do gorzkiego rozczarowania. Jego naiwność pozwala autorowi na przedstawienie satyrycznych obserwacji jako obiektywnych faktów.
+            * Władcy (Cesarz Liliputu, Król Brobdingnagu): Reprezentują dwa archetypy Władcy: Tyrana (małostkowego, pysznego, żądnego władzy) i Króla-Filozofa (mądrego, sprawiedliwego, troszczącego się o poddanych).
+            * Jahusy: Archetyp Cienia – ucieleśnienie wypartych, mrocznych i zwierzęcych aspektów ludzkiej natury.
+            * Houyhnhnmowie: Archetyp Mędrca i Idei Czystego Rozumu, ale doprowadzony do skrajności, która staje się nieludzka.
+
+
+Konflikty wewnętrzne
+
+
+Główny konflikt wewnętrzny rozgrywa się w psychice Guliwera. Jest to walka między jego wpojonym poczuciem dumy i przynależności do cywilizacji europejskiej a rosnącą świadomością jej wad, hipokryzji i okrucieństwa. Jego ostateczna identyfikacja z Houyhnhnmami i odrzucenie własnej tożsamości jako "Jahusa" jest tragicznym rozwiązaniem tego konfliktu. Odrzucając ludzkość, Guliwer traci również część własnego człowieczeństwa.
+
+
+Przemiany charakterologiczne
+
+
+Jak opisano wcześniej, Guliwer przechodzi całkowitą przemianę z optymistycznego podróżnika w mizantropa. Jego wygląd zewnętrzny odzwierciedla tę zmianę. Na początku jest zadbanym Europejczykiem. Pod koniec czwartej podróży, ubrany w skóry Jahusów i mówiący z końskim akcentem, staje się postacią z pogranicza światów, nieprzynależącą w pełni ani do ludzi, ani do Houyhnhnmów. Jego ostateczny stan – odizolowanie w stajni – jest wizualnym symbolem jego psychicznej alienacji.
+
+
+Jak wygląd odzwierciedla osobowość
+
+
+Swift mistrzowsko wykorzystuje wygląd zewnętrzny do charakteryzacji.
+            * Liliputanie: Ich miniaturowy rozmiar jest metaforą ich małostkowości, małostkowych ambicji i trywialnych konfliktów.
+            * Brobdingnagczycy: Ich gigantyczny wzrost symbolizuje ich moralną wielkość i szerokie horyzonty myślowe. Jednak z bliska ich fizyczność jest groteskowa, co sugeruje, że nawet w najlepszych ludziach (lub społeczeństwach) istnieje element cielesny, niedoskonały.
+            * Laputańczycy: Ich dziwaczny wygląd (przechylone głowy, oczy patrzące w różnych kierunkach) jest bezpośrednim odzwierciedleniem ich umysłowego oderwania od rzeczywistości.
+            * Jahusy vs. Houyhnhnmowie: Ostateczny kontrast między chaotycznym, brudnym i zdeformowanym wyglądem Jahusów a czystą, harmonijną i szlachetną formą Houyhnhnmów jest wizualną metaforą konfliktu między bestialskimi namiętnościami a czystym rozumem.
+
+
+CZĘŚĆ IV: FABUŁA
+
+
+
+
+CZĘŚĆ PIERWSZA: PODRÓŻ DO LILIPUTU
+
+
+
+
+1. Ekspozycja
+
+
+            * Wprowadzenie w świat przedstawiony: Narrator, Lemuel Guliwer, przedstawia się jako człowiek z klasy średniej, trzeci z pięciu synów, pochodzący z hrabstwa Nottingham. Zgodnie z wolą ojca, kształci się na chirurga w Cambridge i Londynie, jednocześnie ucząc się nawigacji, gdyż od młodości marzy o podróżach.16 Po kilku latach praktyki lekarskiej w Londynie i poślubieniu Mary Burton, jego interesy podupadają, co skłania go do ponownego zaciągnięcia się na statek.
+            * Prezentacja sytuacji wyjściowej: 4 maja 1699 roku Guliwer wyrusza z Bristolu jako chirurg na statku Antelope, dowodzonym przez kapitana Williama Pricharda, w rejs na Morza Południowe.2 Podróż początkowo przebiega pomyślnie, jednak po przepłynięciu Indii Wschodnich statek wpada w gwałtowny sztorm.
+            * Pierwsze napięcia fabularne: Sztorm rozbija statek o skałę. Guliwer wraz z pięcioma innymi członkami załogi spuszcza na wodę szalupę, która jednak wkrótce się wywraca. Guliwer, jako jedyny ocalały, płynie wpław, zdany na łaskę losu. Wyczerpany, dociera do nieznanego lądu, gdzie pada na trawę i zapada w głęboki sen.17
+            * WIZUALIZACJA SCENY OTWIERAJĄCEJ (Przebudzenie Guliwera):
+            * Miejsce i czas: Płytka, piaszczysta plaża przechodząca w niską, miękką trawę. Wczesny ranek, tuż po wschodzie słońca (około 9 godzin po katastrofie). Światło jest jasne, ostre, rażące w oczy. Pogoda jest spokojna, niebo czyste – ironiczny kontrast do niedawnego sztormu.
+            * Postać: Lemuel Guliwer leży na plecach. Jego ubranie – lniana koszula, bryczesy, pończochy – jest przemoczone, przesiąknięte piaskiem i solą morską, w strzępach. Jego długie, gęste, ciemne włosy są rozrzucone i wplątane w trawę. Twarz ma pokrytą zadrapaniami i zaschniętą solą.
+            * Ruch i dynamika: Scena jest statyczna. Guliwer próbuje się podnieść, ale odkrywa, że nie może się poruszyć. Kamera (lub wzrok widza) podąża za jego spojrzeniem, odkrywając setki cienkich, ale mocnych nici krępujących jego ramiona, nogi i tułów. Jego długie włosy są wbite w ziemię za pomocą małych kołeczków.
+            * Kluczowe przedmioty: Nici i kołki, które go krępują. Są one nieproporcjonalnie małe w stosunku do jego ciała, co budzi pierwsze poczucie dziwności.
+            * Emocje: Na twarzy Guliwera maluje się początkowo zmęczenie, które przechodzi w zdumienie, a następnie w rosnący niepokój i frustrację, gdy uświadamia sobie swoje położenie.
+            * Dźwięk: Początkowo cisza, przerywana jedynie szumem fal. Następnie pojawia się "nieokreślony hałas" – cichy szmer, brzęczenie, które okazuje się być odgłosem kroków i głosów setek maleńkich istot.
+            * Punkt kulminacyjny sceny: Guliwer czuje, że coś żywego wspina się po jego nodze. Zginając wzrok, dostrzega na swojej piersi ludzką postać, nie wyższą niż sześć cali, uzbrojoną w łuk i strzały. Na jego twarzy maluje się czysty szok i niedowierzanie.60
+
+
+2. Rozwinięcie akcji
+
+
+            * Pobyt w niewoli: Guliwer zostaje jeńcem Liliputanów. Próba oswobodzenia lewej ręki kończy się gradem maleńkich strzał, które kłują go "jak setki igieł".61 Uznając opór za bezcelowy, poddaje się. Liliputanie, którzy są doskonałymi inżynierami, konstruują specjalną platformę na 22 kołach, ciągniętą przez 1500 koni wielkości myszy, aby przetransportować go do stolicy, Mildendo. Tam zostaje przykuty łańcuchami do opuszczonej, starożytnej świątyni, która staje się jego domem.17 Świątynia jest największym budynkiem w całym królestwie, ale Guliwer ledwo może się w niej wyprostować.
+            * Nauka języka i zdobywanie zaufania: Cesarz i jego dwór odwiedzają Guliwera. Władca, choć maleńki, imponuje mu swoją godnością. Guliwer, z natury łagodny, stara się zdobyć zaufanie tubylców. Jego gest łaski, kiedy udaje, że zje schwytanych napastników, a następnie puszcza ich wolno, zyskuje mu sympatię ludu.67 Rozpoczyna intensywną naukę języka, co pozwala mu na komunikację z dworem.
+            * Inwentarz kieszeni: Na rozkaz cesarza dwóch urzędników przeszukuje kieszenie Guliwera. Ich raport, odczytany na dworze, jest przykładem komizmu wynikającego z niezrozumienia.
+            * WIZUALIZACJA SCENY (Inwentarz):
+            * Miejsce: Przed świątynią-więzieniem Guliwera. Guliwer siedzi na ziemi, a przed nim stoi cesarz z dworem.
+            * Postacie: Guliwer, wyjmujący przedmioty ze swoich kieszeni. Dwóch urzędników, skrupulatnie notujących na miniaturowych zwojach. Cesarz i dworzanie przyglądający się z mieszaniną lęku i ciekawości.
+            * Kluczowe przedmioty i ich opisy:
+            * Szabla (kordelas): "Wielki drąg, przymocowany do jego boku".
+            * Pistolety: "Dwa puste w środku słupy żelazne", które Guliwer odpala na postrach, powodując panikę.
+            * Zegarek kieszonkowy: "Kula srebrna... z jednej strony przezroczysta... wydaje nieustanny hałas... jest to bóg, którego on czci".48
+            * Grzebień: "Narzędzie podobne do palisady przed pałacem".
+            * Tabakierka, monety, scyzoryk: Każdy przedmiot jest opisany w sposób, który obnaża ignorancję Liliputanów i podkreśla relatywność perspektywy.
+            * Odzyskanie wolności i życie na dworze: Guliwer przysięga wierność cesarzowi i zgadza się na szereg warunków, w zamian za co zostają mu zdjęte kajdany.64 Staje się atrakcją dworu. Obserwuje absurdalne zwyczaje, takie jak wybieranie urzędników na podstawie ich umiejętności w tańcu na linie lub przechodzeniu pod listwą trzymaną przez cesarza. Te sceny są bezpośrednią satyrą na korupcję i serwilizm na angielskim dworze.58
+            * Wojna z Blefuscu (Punkt zwrotny): Guliwer dowiaduje się od sekretarza Reldresala o dwóch głównych zagrożeniach dla Liliputu: wewnętrznym rozłamie na partie Wysokich i Niskich Obcasów (Torysi i Wigowie) oraz o grożącej inwazji ze strony sąsiedniej wyspy-imperium, Blefuscu (Francja). Przyczyną wojny jest spór o to, od którego końca należy rozbijać jajka – co jest aluzją do schizmy między katolicyzmem a protestantyzmem.50
+            * WIZUALIZACJA SCENY (Zdobycie floty Blefuscu):
+            * Miejsce i czas: Kanał morski między Liliputem a Blefuscu, szeroki na 800 jardów. Słoneczny dzień, spokojna woda.
+            * Postacie i wygląd: Guliwer, ubrany tylko w skórzany kaftan, brodzi w wodzie, która w najgłębszym miejscu sięga mu do piersi. Na brzegu Blefuscu widać tysiące maleńkich żołnierzy w panice uciekających ze swoich statków. Na brzegu Liliputu czeka cesarz ze swoim dworem, obserwując akcję z niepokojem.
+            * Ruch i dynamika: Guliwer, uzbrojony w żelazne haki i liny, podchodzi do floty Blefuscu składającej się z 50 okrętów wojennych. Żołnierze Blefuscu strzelają do niego z łuków; strzały wbijają mu się w dłonie i twarz. Guliwer zakłada okulary, które chronią jego oczy przed gradem pocisków. Spokojnie i metodycznie przyczepia haki do każdego statku, przecina nożem liny kotwiczne, a następnie, trzymając wszystkie liny w jednej ręce, ciągnie całą flotę w stronę Liliputu.63
+            * Emocje: Na twarzy Guliwera widać skupienie i determinację, mimo bólu od strzał. Twarze Blefuskudian wyrażają przerażenie i niedowierzanie. Dwór Liliputu przechodzi od strachu (gdy widzą zbliżającą się flotę, a Guliwer jest zanurzony w wodzie) do euforii i triumfu.
+            * Dźwięk: Szum wody, brzęk tysięcy wystrzeliwanych strzał, okrzyki paniki z brzegu Blefuscu, a na końcu triumfalny krzyk Guliwera: "Niech żyje najpotężniejszy cesarz Liliputu!" i wiwaty z brzegu Liliputu.
+            * Utrata łaski: Za swój czyn Guliwer otrzymuje najwyższy tytuł honorowy – Nardac. Jednak jego popularność gwałtownie spada, gdy odmawia cesarzowi pomocy w całkowitym podboju Blefuscu i zniewoleniu jego mieszkańców, argumentując, że nie chce przyczyniać się do niewoli wolnego narodu. Cesarz nigdy mu tego nie wybacza.84 Sytuację pogarsza incydent z pożarem w pałacu.
+            * WIZUALIZACJA SCENY (Pożar w pałacu):
+            * Miejsce i czas: Pałac cesarski w Mildendo, środek nocy. Niebo jest rozświetlone łuną pożaru.
+            * Sceneria: Jedno ze skrzydeł pałacu, apartamenty cesarzowej, stoi w płomieniach. Maleńcy strażacy biegają z wiadereczkami wielkości naparstków, bezradnie próbując ugasić ogień. Wokół panuje chaos i panika.85
+            * Postać i akcja: Guliwer, obudzony krzykami, przybywa na miejsce. Staje okrakiem nad płonącym budynkiem. Ponieważ poprzedniego wieczoru wypił dużo wina, wpada na niekonwencjonalne rozwiązanie: rozpina spodnie i oddaje mocz na płonący pałac, gasząc ogień w ciągu trzech minut.65
+            * Emocje: Twarz Guliwera wyraża determinację i ulgę po ugaszeniu ognia. Twarze dworzan – mieszaninę szoku, niedowierzania i obrzydzenia. Cesarzowa jest śmiertelnie obrażona i poprzysięga zemstę.
+            * Ucieczka: Frakcja wroga na dworze, na czele z Flimnapem i admirałem Skyresh Bolgolamem, oskarża Guliwera o zdradę (publiczne oddawanie moczu w obrębie pałacu, odmowa podboju Blefuscu, przyjazne kontakty z ambasadą wroga). Zostaje potajemnie skazany na oślepienie i zagłodzenie. Ostrzeżony przez przyjaznego dworzanina, Guliwer ucieka do Blefuscu, gdzie zostaje gościnnie przyjęty.88
+
+
+3. Punkt kulminacyjny (Części I)
+
+
+Punktem kulminacyjnym tej części jest ucieczka Guliwera i jego ostateczne opuszczenie krainy miniaturowych ludzi. W Blefuscu Guliwer znajduje na brzegu morza wywróconą do góry dnem łódź normalnych, ludzkich rozmiarów. Z pomocą tysięcy mieszkańców Blefuscu naprawia ją i przygotowuje do podróży.
+            * PEŁNA WIZUALIZACJA SCENY KULMINACYJNEJ (Odpłynięcie Guliwera):
+            * Miejsce i czas: Port w Blefuscu, pogodny dzień.
+            * Obecne postacie: Guliwer stoi przy swojej naprawionej łodzi. Na brzegu zgromadził się cesarz Blefuscu z całym dworem oraz tłumy mieszkańców, aby go pożegnać. Guliwer jest ubrany w strój uszyty w Lilipucie, który jest już nieco znoszony.
+            * Ważne przedmioty: Łódź Guliwera, która wydaje się gigantyczna w porównaniu z okrętami Blefuscu. Na pokładzie Guliwer umieszcza zapasy żywności oraz "pamiątki": sześć żywych krów, dwa byki i kilka owiec, które zamierza pokazać w Anglii.90 Te miniaturowe zwierzęta są wizualnym dowodem jego przygód.
+            * Dynamika i ruch: Guliwer żegna się z cesarzem, wchodzi do łodzi, podnosi żagiel i odpływa. Tłum na brzegu macha na pożegnanie. Kamera oddala się, pokazując maleńką postać Guliwera w jego łodzi na ogromnym oceanie, a za nim kurczącą się wyspę Blefuscu.
+            * Emocje: Na twarzy Guliwera widać ulgę i nadzieję na powrót do domu. Mieszkańcy Blefuscu żegnają go z sympatią i szacunkiem.
+
+
+4. Rozwiązanie (Części I)
+
+
+            * Zakończenie wątków: Wątek konfliktu z Liliputem zostaje rozwiązany przez ucieczkę. Guliwer opuszcza świat małych ludzi na zawsze.
+            * OPIS WIZUALNY SCENY KOŃCOWEJ (Powrót do Anglii):
+            * Miejsce: Pokład angielskiego statku handlowego, który odnalazł Guliwera na morzu. Później – jego dom w Redriff.
+            * Sceneria: Na statku Guliwer opowiada kapitanowi o swoich przygodach. Kapitan mu nie wierzy, dopóki Guliwer nie wyjmuje z kieszeni miniaturowych krów i owiec, które spokojnie zaczynają skubać trawę na stole w kajucie.90 W domu Guliwer wita się z żoną i dziećmi. Pokój jest urządzony w typowym stylu georgiańskim. Guliwer pokazuje rodzinie swoje maleńkie zwierzęta, co jest jedynym namacalnym dowodem jego niesamowitej podróży.
+            * Losy bohatera: Guliwer zarabia sporo pieniędzy, pokazując publicznie miniaturowe zwierzęta. Jednak spokój domowego życia szybko go nuży i już po dwóch miesiącach zaczyna planować kolejną podróż.
+
+
+CZĘŚĆ DRUGA: PODRÓŻ DO BROBDINGNAGU
+
+
+
+
+1. Ekspozycja
+
+
+            * Sytuacja wyjściowa: 20 czerwca 1702 roku, zaledwie dwa miesiące po powrocie, Guliwer wyrusza w kolejny rejs, tym razem na statku Adventure, płynącym do Surat w Indiach.30
+            * Napięcie fabularne: Po opłynięciu Przylądka Dobrej Nadziei statek zostaje zepchnięty z kursu przez monsun. Załoga, cierpiąca na brak wody pitnej, decyduje się przybić do nieznanego lądu. Guliwer wraz z grupą marynarzy udaje się na zwiad w głąb lądu.
+            * WIZUALIZACJA SCENY OTWIERAJĄCEJ (Lądowanie w Brobdingnagu):
+            * Miejsce i czas: Skaliste, jałowe wybrzeże. Guliwer oddziela się od grupy i idzie w głąb lądu, gdzie odkrywa, że trawa jest "wysoka jak drzewo". Słoneczne, upalne popołudnie.
+            * Postacie: Guliwer, ubrany w swój strój marynarski. W oddali widać jego towarzyszy, którzy w panice uciekają z powrotem do szalupy.
+            * Dynamika i ruch: Guliwer widzi, co przestraszyło jego załogę: gigantyczna ludzka postać, wysoka jak dzwonnica kościelna, brodzi w morzu, ścigając ich łódź.30 Guliwer, odcięty od statku, w przerażeniu ucieka i chowa się w polu jęczmienia, którego źdźbła mają 40 stóp wysokości.
+            * Emocje: Na twarzy Guliwera maluje się przerażenie i poczucie całkowitej bezradności. Scena jest odwróceniem jego doświadczeń z Liliputu – teraz to on jest maleńki i bezbronny.
+
+
+2. Rozwinięcie akcji
+
+
+            * Niewola u farmera: Guliwer zostaje znaleziony przez jednego z gigantycznych żniwiarzy i przyniesiony do jego pana, farmera. Farmer początkowo bierze go za rodzaj małego, dziwnego zwierzątka, ale zaintrygowany jego inteligencją, zabiera go do domu.
+            * WIZUALIZACJA SCENY (Walka ze szczurami):
+            * Miejsce: Sypialnia w domu farmera. Noc. Pokój jest prosty, umeblowany gigantycznymi, z grubsza ciosanymi meblami z drewna. Guliwer leży na ogromnym łóżku.
+            * Postacie: Guliwer i dwa szczury wielkości dużych psów (mastifów).
+            * Ruch i dynamika: Szczury wspinają się po zasłonach na łóżko. Jeden z nich atakuje Guliwera. Ten, w akcie desperacji, dobywa swojego kordelasa i staje do walki. Po krótkim, ale zaciętym starciu, udaje mu się zabić jednego szczura i zranić drugiego, który ucieka.91
+            * Emocje: Na twarzy Guliwera widać śmiertelny strach, ale i determinację. Po walce jest wyczerpany, ale i dumny ze swojego zwycięstwa.
+            * Glumdalclitch i jarmarczne występy: Dziewięcioletnia córka farmera, Glumdalclitch, zaczyna opiekować się Guliwerem, szyje mu ubranka i uczy go języka. Staje się jego "małą niańką".70 Chciwy farmer postanawia zarobić na Guliwerze i zaczyna go pokazywać za pieniądze na jarmarkach. Guliwer musi wykonywać upokarzające sztuczki, co niemal doprowadza go do śmierci z wyczerpania.93
+            * Na dworze królewskim: Sława Guliwera dociera do stolicy. Królowa, zaintrygowana opowieściami, kupuje go od farmera. Guliwer zamieszkuje na dworze, a Glumdalclitch zostaje jego oficjalną opiekunką. Królowa zamawia dla niego specjalnie wykonany "domek podróżny" – drewnianą skrzynkę z mebelkami, w której może być bezpiecznie przenoszony.95
+            * Przygody i niebezpieczeństwa: Życie na dworze, choć wygodne, jest pełne niebezpieczeństw wynikających z małego wzrostu Guliwera.
+            * Atak os: Podczas pikniku w ogrodzie, Guliwer zostaje zaatakowany przez osy wielkości kuropatw. Broni się kordelasem, zabijając cztery z nich.96
+            * Porwanie przez małpę: Małpa, ulubieniec dworu, porywa Guliwera z jego pokoju, bierze go za swoje dziecko i zanosi na dach pałacu. Guliwer jest karmiony na siłę i ledwo unika upadku. Zostaje uratowany przez służbę.98
+            * Rozmowy z królem (Punkt zwrotny): Król Brobdingnagu, człowiek wykształcony i mądry, często rozmawia z Guliwerem. Prosi go o szczegółowy opis ustroju, praw i obyczajów Europy.
+            * WIZUALIZACJA SCENY (Rozmowa z królem):
+            * Miejsce: Królewska komnata audiencyjna. Pomieszczenie jest ogromne, ale urządzone prosto. Król siedzi na wielkim, drewnianym tronie.
+            * Postacie: Król trzyma Guliwera na swojej dłoni, tuż przed twarzą, aby lepiej go słyszeć. Guliwer, stojąc na królewskiej dłoni, z dumą i emfazą opowiada o potędze Anglii, jej parlamencie, sądach i armii.100
+            * Emocje: Na twarzy Guliwera maluje się patriotyczna duma. Twarz króla początkowo wyraża zaciekawienie, które stopniowo przechodzi w zdumienie, niedowierzanie, a na końcu w smutek i odrazę.
+            * Kulminacja rozmowy: Guliwer, chcąc zaimponować królowi, oferuje mu zdradzenie sekretu prochu strzelniczego. Król reaguje przerażeniem i zgrozą, zakazując mu pod karą śmierci wspominać o tak "nieludzkim wynalazku". Po wysłuchaniu całej relacji, król konkluduje, że Anglicy to "najbardziej szkodliwa rasa małych, wstrętnych robaków, jakim natura kiedykolwiek pozwoliła pełzać po powierzchni ziemi".12 To zdanie jest dla Guliwera druzgocące i stanowi punkt zwrotny w jego postrzeganiu własnej cywilizacji.
+
+
+3. Punkt kulminacyjny (Części II)
+
+
+Po dwóch latach pobytu w Brobdingnagu, Guliwer towarzyszy dworowi królewskiemu w podróży na wybrzeże. Cierpi na zdrowiu i tęskni za domem.
+            * PEŁNA WIZUALIZACJA SCENY KULMINACYJNEJ (Porwanie przez orła):
+            * Miejsce i czas: Skaliste wybrzeże oceanu. Wietrzny, pochmurny dzień.
+            * Sceneria: Guliwer, czując się źle, prosi o pozostawienie go w jego domku podróżnym na brzegu, aby mógł pooddychać morskim powietrzem. Glumdalclitch oddala się na spacer. Domek Guliwera to kwadratowa skrzynia o boku 12 stóp, z oknami i drzwiami, umeblowana miniaturowymi meblami.102
+            * Ruch i dynamika: Nagle ogromny orzeł chwyta dziobem za pierścień na dachu domku i unosi go w powietrze. Guliwer w środku odczuwa gwałtowne szarpnięcie i wznoszenie. Orzeł leci nad oceanem, a Guliwer przez okno widzi oddalający się ląd. Po chwili pojawiają się inne orły, które atakują pierwszego. W trakcie walki porywacz upuszcza domek, który z ogromnym pluskiem wpada do morza.102
+            * Emocje: Guliwer przeżywa kolejno: spokój, nagły szok i przerażenie podczas porwania, a następnie rozpacz, gdy jego unoszący się na wodzie domek jest miotany przez fale, a on sam jest zdany na pewną śmierć.
+
+
+4. Rozwiązanie (Części II)
+
+
+            * Zakończenie wątków: Domek Guliwera zostaje zauważony przez załogę angielskiego statku. Marynarze, myśląc, że to dziwny obiekt, przyciągają go na pokład. Gdy Guliwer otwiera okno i wychodzi, wywołuje ogromne zdumienie.
+            * OPIS WIZUALNY SCENY KOŃCOWEJ (Powrót do normalności):
+            * Miejsce: Pokład statku, a następnie dom Guliwera w Anglii.
+            * Sceneria: Guliwer, przyzwyczajony do gigantycznych rozmiarów Brobdingnagu, ma problemy z adaptacją. Wszystko wydaje mu się maleńkie i kruche. Mówi bardzo głośno, boi się usiąść na krześle w obawie, że je połamie, i schyla się, wchodząc do domu.
+            * Emocje: Jego rodzina patrzy na niego ze zdumieniem i troską. Na twarzy Guliwera widać dezorientację i trudność w przystosowaniu się. Jego perspektywa została trwale zmieniona.
+            * Losy bohatera: Guliwer spędza w domu dziesięć dni, ale znów ogarnia go pragnienie podróży. Mimo próśb żony, postanawia wyruszyć w kolejny rejs.
+
+
+CZĘŚĆ TRZECIA: PODRÓŻ DO LAPUTY, BALNIBARBI, LUGGNAGGU, GLUBBDUBDRIBU I JAPONII
+
+
+
+
+1. Ekspozycja
+
+
+            * Sytuacja wyjściowa: 5 sierpnia 1706 roku Guliwer wypływa z Anglii jako kapitan statku.
+            * Napięcie fabularne: Jego statek zostaje napadnięty przez piratów. Japoński pirat okazuje mu litość, ale holenderski wspólnik, z nienawiści do Anglików, postanawia porzucić go samego w małej łódce na otwartym morzu.33
+            * WIZUALIZACJA SCENY OTWIERAJĄCEJ (Odkrycie Laputy):
+            * Miejsce i czas: Guliwer po kilku dniach dryfowania dociera do skalistej, bezludnej wyspy. Jest ranek, słońce świeci jasno.
+            * Sceneria: Nagle niebo ciemnieje. Guliwer spogląda w górę i widzi, że słońce jest zasłonięte przez ogromny, okrągły, ciemny obiekt. Po chwili orientuje się, że jest to unosząca się w powietrzu wyspa.34
+            * Ruch i dynamika: Wyspa powoli opada. Guliwer dostrzega na niej postacie ludzkie. Zaczyna krzyczeć i machać rękami. Mieszkańcy wyspy opuszczają na łańcuchach rodzaj siedziska, na którym Guliwer zostaje wciągnięty na górę.
+            * Emocje: Na twarzy Guliwera maluje się zdumienie, niedowierzanie i nadzieja na ratunek.
+
+
+2. Rozwinięcie akcji
+
+
+            * Pobyt na Lapucie: Guliwer odkrywa, że trafił do królestwa Laputy, latającej wyspy zamieszkanej przez ludzi całkowicie pochłoniętych matematyką, muzyką i astronomią.
+            * Wygląd i obyczaje Laputańczyków: Mają zdeformowane głowy i oczy, co odzwierciedla ich umysłowe skrzywienie.73 Są tak roztargnieni, że potrzebują służących ("klaperów"), którzy uderzają ich specjalnymi packami, aby przywrócić ich uwagę do rozmowy lub jedzenia.33 Ich jedzenie jest krojone w geometryczne kształty.
+            * Mechanizm wyspy: Guliwer dowiaduje się, że wyspa unosi się dzięki gigantycznemu magnesowi w jej centrum i jest narzędziem władzy króla nad lądem poniżej – Balnibarbi.34
+            * Wizyta w Balnibarbi: Znudzony abstrakcyjnymi rozmowami, Guliwer prosi o pozwolenie na zejście na ląd. Trafia do stolicy, Lagado, gdzie gości u lorda Munodiego.
+            * Kontrast: Guliwer widzi zrujnowany kraj – efekt wprowadzania w życie teoretycznych projektów z Wielkiej Akademii w Lagado. Kontrastuje to z dobrze prosperującą posiadłością Munodiego, zarządzaną tradycyjnymi metodami.36
+            * WIZUALIZACJA SCENY (Akademia w Lagado):
+            * Miejsce: Szereg mrocznych, zaniedbanych pomieszczeń i laboratoriów.
+            * Sceneria: W jednym pokoju naukowiec ("projektant") o brudnej twarzy i osmalonych włosach próbuje pozyskać światło słoneczne z ogórków.37 W innym, ślepiec miesza farby, próbując rozpoznać je po zapachu i dotyku. Jeszcze gdzie indziej profesorowie próbują zbudować dom od dachu w dół lub zamienić lód w proch strzelniczy. Wszędzie panuje bałagan, smród chemikaliów i poczucie absurdalnej, bezcelowej pracy.106
+            * Emocje: Na twarzach "projektantów" widać szaleńczy zapał i obsesję. Guliwer przygląda się temu z mieszaniną ciekawości i rosnącej odrazy do jałowej nauki.
+            * Wizyta w Glubbdubdrib (Wyspa Czarowników): Czekając na statek do Japonii, Guliwer odwiedza wyspę, której namiestnik potrafi przywoływać duchy zmarłych.
+            * Rozmowy z duchami: Guliwer prosi o przywołanie wielkich postaci z historii: Aleksandra Wielkiego, Hannibala, Juliusza Cezara, Brutusa, Homera, Arystotelesa. Dowiaduje się od nich, że historia, której się uczył, jest pełna kłamstw i przekłamań. Aleksander nie umarł na febrę, lecz z przepicia. Współczesna arystokracja jest potomstwem lokajów i kurtyzan.36 Ta część jest satyrą na fałszowanie historii.
+            * Wizyta w Luggnaggu: Guliwer trafia na wyspę Luggnagg.
+            * Dwór królewski: Musi poddać się upokarzającej ceremonii – czołgać się i lizać podłogę przed tronem królewskim. Król czasem dla pozbycia się wrogów każe posypać podłogę trucizną.36
+            * Struldbrugowie (Nieśmiertelni): Guliwer dowiaduje się o istnieniu struldbrugów – ludzi urodzonych ze znamieniem nieśmiertelności. Początkowo jest zachwycony, wyobrażając sobie, jak wspaniale byłoby żyć wiecznie, gromadząc wiedzę i bogactwo.
+            * WIZUALIZACJA SCENY (Spotkanie ze Struldbrugami):
+            * Miejsce: Dziedziniec lub publiczny plac w Luggnaggu.
+            * Postacie: Guliwer w towarzystwie dworzanina. W pewnej odległości siedzi grupa Struldbrugów.
+            * Wygląd Struldbrugów: Są to starcy w stanie krańcowego rozkładu. Ich ubrania są w łachmanach. Skóra jest pomarszczona i ziemista, oczy mętne, bezzębne usta zapadnięte. Włosy siwe i rzadkie. Poruszają się z trudem, są zgorzkniali, złośliwi i niepamiętliwi. Są prawnie uznani za zmarłych po ukończeniu 80 lat.109 Ich nieśmiertelność jest przekleństwem, a nie darem.
+            * Emocje: Początkowy entuzjazm Guliwera zmienia się w przerażenie i głębokie współczucie. Widok Struldbrugów jest dla niego wstrząsającą lekcją na temat natury życia i śmierci.
+
+
+3. Punkt kulminacyjny (Części III)
+
+
+Punktem kulminacyjnym tej części nie jest pojedyncze wydarzenie, lecz seria odkryć, które niszczą kolejne iluzje Guliwera: iluzję wszechmocy nauki (Laputa), iluzję prawdy historycznej (Glubbdubdrib) i iluzję pożądalności nieśmiertelności (Luggnagg). Kulminacją jest jego decyzja o powrocie do świata ludzi, mimo jego wad.
+
+
+4. Rozwiązanie (Części III)
+
+
+            * Podróż przez Japonię: Z Luggnaggu Guliwer udaje się do Japonii – jedynego realnego, nie-europejskiego kraju, który odwiedza. Jest to ukłon w stronę konwencji podróżniczej. Dzięki specjalnemu wstawiennictwu króla Luggnaggu, jako Holender (którzy jako jedyni Europejczycy mieli wtedy prawo handlu z Japonią), unika ceremonii deptania krucyfiksu.2
+            * OPIS WIZUALNY SCENY KOŃCOWEJ (Powrót do domu):
+            * Miejsce: Dom Guliwera w Redriff.
+            * Sceneria: Guliwer wraca do swojej rodziny. Scena jest krótka i pozbawiona emocji. Guliwer jest już zmęczony podróżami i postanawia zostać w domu na stałe. Jego twarz wyraża znużenie i rezygnację.
+            * Losy bohatera: Guliwer jest zdeterminowany, by już nigdy nie opuszczać Anglii.
+
+
+CZĘŚĆ CZWARTA: PODRÓŻ DO KRAJU HOUYHNHNMÓW
+
+
+
+
+1. Ekspozycja
+
+
+            * Sytuacja wyjściowa: Mimo swoich postanowień, Guliwer szybko nudzi się życiem na lądzie. Przyjmuje ofertę objęcia dowództwa nad statkiem handlowym.
+            * Napięcie fabularne: Podczas rejsu jego załoga, składająca się z byłych piratów, buntuje się. Buntownicy więżą Guliwera w jego kajucie, a następnie porzucają go na nieznanym lądzie.2
+            * WIZUALIZACJA SCENY OTWIERAJĄCEJ (Pierwsze spotkanie):
+            * Miejsce i czas: Łagodnie pofałdowany, trawiasty krajobraz. Słoneczny dzień.
+            * Sceneria: Guliwer idzie w głąb lądu i napotyka stado odrażających, zdeformowanych stworzeń o ludzkich kształtach. Są to Jahusy. Mają brudną, sfilcowaną sierść, płaskie twarze i ostre pazury. Poruszają się na czterech łapach lub wspinają na drzewa.38
+            * Ruch i dynamika: Jahusy otaczają Guliwera w agresywny sposób, obrzucając go ekskrementami. Guliwer, przerażony i zniesmaczony, broni się kordelasem. Nagle pojawia się koń maści siwej (dapple-grey). Jego widok sprawia, że Jahusy w panice uciekają.
+            * Emocje: Na twarzy Guliwera widać najpierw odrazę i strach, a następnie zdumienie, gdy koń podchodzi do niego i przygląda mu się z wyrazem inteligentnej ciekawości. Guliwer jest zszokowany, gdy dołącza do nich drugi koń, a oba zwierzęta zaczynają prowadzić "rozmowę" za pomocą złożonego systemu rżeń.
+
+
+2. Rozwinięcie akcji
+
+
+            * W domu Houyhnhnmów: Siwy koń, który okazuje się być panem domu, zabiera Guliwera do swojego domostwa. Guliwer odkrywa szokującą prawdę: w tej krainie inteligentne, racjonalne konie – Houyhnhnmowie – są gatunkiem dominującym, a odrażające Jahusy, które są uderzająco podobne do ludzi, to trzymane w niewoli, nierozumne bestie.112
+            * Nauka i adaptacja: Guliwer zamieszkuje w osobnym pomieszczeniu obok stajni dla Jahusów. Uczy się języka Houyhnhnmów, który jest doskonale logiczny i pozbawiony słów na określenie kłamstwa czy zła. Zaczyna podziwiać ich społeczeństwo oparte na czystym rozumie, przyjaźni i życzliwości. Aby odróżnić się od Jahusów, dba o czystość i szyje sobie ubrania ze skór.
+            * Rozmowy z panem: Guliwer spędza wiele godzin na rozmowach ze swoim panem, Houyhnhnmem, który jest jego mentorem. Opisuje mu Europę: jej wojny, system prawny, nierówności społeczne, chciwość.
+            * WIZUALIZACJA SCENY (Rozmowa o wojnie):
+            * Miejsce: Spokojna łąka. Guliwer i jego pan siedzą naprzeciwko siebie.
+            * Postacie: Guliwer, gestykulując, próbuje wyjaśnić Houyhnhnmowi pojęcie wojny. Koń słucha ze spokojem, ale jego oczy wyrażają rosnące zdumienie i zgrożę.
+            * Kontrast: Spokój i harmonia otaczającej natury kontrastują z opowieściami Guliwera o rzezi, okrucieństwie i absurdalnych powodach konfliktów (np. ambicja władców, różnice religijne).
+            * Emocje: Guliwer, opowiadając, sam zaczyna dostrzegać potworność ludzkich działań. Jego pan, niezdolny pojąć istoty zła i kłamstwa, dochodzi do wniosku, że europejscy Jahusy, posiadając "odrobinę rozumu", używają jej jedynie do potęgowania swoich naturalnych wad, co czyni ich gorszymi od nierozumnych bestii.114
+            * Odrzucenie ludzkości (Punkt zwrotny): Guliwer, porównując szlachetność Houyhnhnmów z podłością Jahusów, zaczyna nienawidzić własnego gatunku. Incydent, w którym młoda samica Jahusa próbuje go zgwałcić podczas kąpieli, utwierdza go w przekonaniu, że fizycznie jest jednym z nich.116 Postanawia już nigdy nie wracać do ludzkiego społeczeństwa.
+
+
+3. Punkt kulminacyjny (Części IV)
+
+
+            * PEŁNA WIZUALIZACJA SCENY KULMINACYJNEJ (Wygnanie):
+            * Miejsce i czas: Wielkie Zgromadzenie Houyhnhnmów, odbywające się co cztery lata na rozległej równinie.
+            * Sceneria: Tysiące koni zebranych w uporządkowany sposób. Panuje atmosfera powagi i racjonalnej debaty.
+            * Debata: Głównym tematem jest "kwestia Jahusów" – czy należy ich eksterminować. Pan Guliwera, jako argument przeciw, przedstawia Guliwera jako dowód, że Jahusy mogą być do pewnego stopnia cywilizowane. Proponuje, aby zamiast eksterminacji, poddać Jahusy kastracji, co doprowadzi do ich wyginięcia w sposób humanitarny.40
+            * Decyzja: Mimo obrony ze strony pana, Zgromadzenie dochodzi do wniosku, że Guliwer, jako rozumny Jahus, stanowi zagrożenie dla stabilności ich społeczeństwa. Obawiają się, że mógłby stanąć na czele buntu Jahusów. Zgromadzenie nakazuje Guliwerowi opuścić ich krainę.114
+            * Emocje: Guliwer na wieść o wygnaniu mdleje z żalu. Jest to dla niego wyrok straszniejszy niż śmierć. Jego pan wyraża smutek, ale podporządkowuje się racjonalnej decyzji Zgromadzenia. Scena jest pozbawiona gwałtownych emocji ze strony Houyhnhnmów, co podkreśla ich zimną, racjonalną naturę.
+
+
+4. Rozwiązanie (Części IV)
+
+
+            * Pożegnanie i podróż: Guliwer, z pomocą życzliwego sługi (konia maści karej), buduje małe czółno.
+            * WIZUALIZACJA SCENY KOŃCOWEJ (Ostateczna alienacja):
+            * Scena 1: Pożegnanie. Guliwer żegna się ze swoim panem i jego rodziną. Scena jest pełna smutku. Guliwer całuje kopyto swojego pana na znak szacunku. Wypływa na ocean, zamierzając znaleźć bezludną wyspę, by tam w samotności zakończyć życie.118
+            * Scena 2: Uratowanie. Zostaje wbrew woli "uratowany" przez portugalski statek. Kapitan, Don Pedro de Mendez, traktuje go z niezwykłą dobrocią i cierpliwością, ale Guliwer widzi w nim tylko odrażającego Jahusa. Na pokładzie statku Guliwer unika ludzi, zatyka nos, by nie czuć ich zapachu.41
+            * Scena 3: Powrót do domu. W swoim domu w Anglii Guliwer reaguje na widok żony i dzieci z obrzydzeniem i przerażeniem. Mdleje, gdy żona próbuje go pocałować.
+            * Scena 4: Nowe życie. Guliwer kupuje dwa konie i spędza większość czasu w stajni, rozmawiając z nimi i próbując naśladować ich sposób bycia. Unika swojej rodziny i reszty ludzkości, którą uważa za gatunek Jahusów.119 Jego twarz wyraża trwałą odrazę do świata i tęsknotę za utraconą utopią. Jest to ostateczny obraz człowieka, który w poszukiwaniu rozumu utracił swoje człowieczeństwo.
+
+
+CZĘŚĆ V: TEMATY I MOTYWY
+
+
+
+
+1. Główne tematy
+
+
+            * Krytyka ludzkiej natury: To nadrzędny temat całej powieści. Swift, poprzez konfrontację Guliwera z różnymi społeczeństwami, systematycznie demaskuje ludzkie wady: pychę (Liliputanie, Guliwer w Brobdingnagu), chciwość (farmer z Brobdingnagu, Jahusy walczące o błyszczące kamienie), okrucieństwo (wojny, propozycje Guliwera dotyczące prochu), głupotę (Laputańczycy) i fizyczną niedoskonałość (Brobdingnagczycy, Jahusy). Ostateczna konkluzja, wyrażona w czwartej części, jest głęboko pesymistyczna: człowiek jest z natury zepsutym "Jahusem", a jego rozum, zamiast go uszlachetniać, służy jedynie do potęgowania wrodzonych wad.4
+            * Satyra na politykę i społeczeństwo: Powieść jest bezlitosną krytyką XVIII-wiecznej Anglii. Swift atakuje system partyjny (Wigowie vs. Torysi), korupcję na dworze królewskim, bezsensowne wojny prowadzone z błahych powodów (religijnych lub dynastycznych) oraz niesprawiedliwość systemu prawnego.7 Każda z odwiedzanych krain w alegoryczny sposób odzwierciedla jakiś aspekt europejskiej cywilizacji, sprowadzając go do absurdu i demaskując jego prawdziwą, często trywialną lub brutalną naturę.
+            * Relatywność perspektywy i prawdy: Zestawienie podróży do Liliputu i Brobdingnagu jest mistrzowskim studium relatywizmu. W Lilipucie Guliwer jest gigantem, a jego perspektywa pozwala mu dostrzec małostkowość ludzkich spraw. W Brobdingnagu sam staje się karłem, a jego własne społeczeństwo i jego osiągnięcia wydają się śmieszne i godne pogardy w oczach olbrzymów.57 Swift pokazuje, że nasze poczucie ważności, nasze normy i wartości są zależne od punktu widzenia i nie mają charakteru absolutnego. To, co w jednej skali jest tragedią, w innej staje się farsą.
+            * Rozum kontra namiętność (natura): Czwarta podróż stawia fundamentalne pytanie o naturę człowieka. Houyhnhnmowie reprezentują ideał czystego, pozbawionego emocji rozumu, który prowadzi do życia w harmonii i cnocie. Jahusy to ucieleśnienie czystej, nieokiełznanej natury i namiętności, które prowadzą do chaosu i zepsucia. Guliwer, znajdując się pomiędzy tymi dwiema skrajnościami, ostatecznie wybiera rozum, ale płaci za to utratą człowieczeństwa. Swift zdaje się sugerować, że ludzka kondycja polega na tragicznym rozdarciu między tymi dwiema siłami, a próba całkowitego wyparcia jednej z nich prowadzi do szaleństwa lub dehumanizacji.
+
+
+2. Motywy literackie
+
+
+            * Ciało i fizjologia: Powieść jest przepełniona dosadnymi opisami ciała i jego funkcji. Swift obsesyjnie powraca do tematu wydzielin, chorób i fizycznej niedoskonałości. Guliwer gasi pożar moczem, jest zniesmaczony widokiem gigantycznych piersi i porów w skórze Brobdingnagczyków, a Jahusy są zdefiniowane przez swój brud i smród.86 Ten motyw służy do obalenia ludzkiej pychy. Swift przypomina, że człowiek, niezależnie od swoich intelektualnych czy duchowych aspiracji, jest istotą cielesną, podatną na choroby i rozkład.
+            * Podróż jako narzędzie poznania: Zgodnie z konwencją gatunku, podróż jest dla Guliwera procesem edukacyjnym. Jednak w przeciwieństwie do typowych powieści podróżniczych, gdzie bohater poszerza swoje horyzonty i utwierdza się w przekonaniu o wartości własnej kultury, podróż Guliwera prowadzi do całkowitej dekonstrukcji jego światopoglądu i nienawiści do własnego gatunku.4
+            * Utopia i antyutopia: Swift bawi się konwencjami literatury utopijnej. Przedstawia różne modele społeczne, ale żaden z nich nie jest idealny dla człowieka. Liliput to antyutopia małostkowej tyranii. Laputa to antyutopia jałowego intelektu. Kraina Houyhnhnmów wydaje się utopią, ale jej chłodny racjonalizm jest nieludzki i ostatecznie odrzuca Guliwera.10
+            * Język i komunikacja: Problemy z komunikacją są stałym motywem. Guliwer musi uczyć się nowych języków, a trudności w tłumaczeniu pojęć (np. kłamstwa dla Houyhnhnmów) obnażają różnice w systemach wartości. W Akademii w Lagado Swift parodiuje projekty stworzenia języka uniwersalnego, pokazując absurdalność prób sprowadzenia bogactwa ludzkiej mowy do prostych formuł.106
+
+
+3. Problematyka moralna
+
+
+            * Dylematy etyczne: Guliwer staje przed wieloma dylematami. Najważniejszy z nich to odmowa zniewolenia Blefusku, gdzie jego poczucie sprawiedliwości wchodzi w konflikt z lojalnością wobec cesarza Liliputu. Innym jest oferta zdradzenia sekretu prochu królowi Brobdingnagu, co pokazuje, jak łatwo europejskie "wartości" mogą być postrzegane jako barbarzyństwo. Jego ostateczna decyzja o odrzuceniu ludzkości jest największym i najbardziej tragicznym dylematem moralnym.
+            * Krytyka pychy (hybris): Pycha jest, według Swifta, grzechem głównym ludzkości. Liliputanie są pyszni ze swojej małej potęgi. Laputańczycy są pyszni ze swojej bezużytecznej wiedzy. Sam Guliwer jest pyszny ze swojej angielskości, dopóki nie zostaje upokorzony w Brobdingnagu. Ostatecznie, cała ludzkość jest oskarżona o pychę, ponieważ uważa się za istotę rozumną, podczas gdy w rzeczywistości jest jedynie Jahusem.
+            * Wartości prezentowane w książce: Mimo pesymistycznego tonu, powieść promuje pewne wartości. Król Brobdingnagu uosabia mądrość, zdrowy rozsądek i pacyfizm. Houyhnhnmowie, mimo swojej nieludzkiej natury, reprezentują ideały prawdy, uczciwości i życia w harmonii ze wspólnotą i naturą. Swift zdaje się tęsknić za światem, w którym rządziłyby te cnoty, jednocześnie wątpiąc, czy człowiek jest w stanie je kiedykolwiek osiągnąć.
+
+
+CZĘŚĆ VI: STYL I TECHNIKA
+
+
+
+
+1. Język i styl
+
+
+            * Charakterystyka języka narracji: Język Guliwera jest celowo prosty, rzeczowy i precyzyjny. Unika on emocjonalnych uniesień i ozdobników stylistycznych. Styl ten naśladuje beznamiętną, quasi-naukową prozę autentycznych dzienników okrętowych i relacji podróżniczych z epoki.12 Ta pozorna obiektywność i dbałość o szczegóły (np. podawanie dokładnych wymiarów) tworzą potężny efekt ironiczny: najbardziej fantastyczne i absurdalne wydarzenia są opisywane w sposób tak wiarygodny, jakby były zwykłymi obserwacjami przyrodniczymi. Czytelnik jest zmuszony albo zawiesić niewiarę, albo dostrzec satyryczny zamysł.
+            * Dialogi: Dialogi w powieści często mają charakter filozoficznych lub politycznych dysput, zwłaszcza rozmowy Guliwera z królem Brobdingnagu czy z jego panem Houyhnhnmem. Postacie mówią w sposób formalny i logiczny, co dodatkowo podkreśla satyryczny dystans. Język obcych ludów jest przedstawiony jako seria dziwacznych, ale konsekwentnie używanych słów (np. Quinbus Flestrin, Houyhnhnm), co wzmacnia iluzję istnienia tych światów.
+            * Ton narracji: Dominującym tonem jest ironia. Guliwer często opisuje oburzające lub absurdalne zwyczaje z pełną powagą, nie zdając sobie sprawy (lub udając, że nie zdaje sobie sprawy), że krytykują one jego własne społeczeństwo. Ten rozdźwięk między tym, co Guliwer mówi, a tym, co Swift chce przekazać, jest głównym źródłem satyrycznego humoru i krytyki. W czwartej części ton staje się coraz bardziej mroczny i mizantropijny, a ironia ustępuje miejsca bezpośredniej inwektywie przeciwko ludzkości.
+
+
+2. Techniki narracyjne
+
+
+            * Typ narratora: Narracja jest pierwszoosobowa. Narratorem jest Lemuel Guliwer, który opowiada o swoich przygodach z perspektywy czasu. Jest on narratorem-uczestnikiem, co zwiększa poczucie autentyczności relacji.
+            * Perspektywa narracyjna: Kluczową techniką jest wykorzystanie Guliwera jako "niewiarygodnego" lub, precyzyjniej, "naiwnego" narratora. Jego ograniczona perspektywa i dosłowne postrzeganie świata sprawiają, że czytelnik musi samodzielnie interpretować opisywane wydarzenia i dostrzegać ukryte w nich satyryczne znaczenia. Swift mistrzowsko manipuluje perspektywą Guliwera: czasami Guliwer jest głosem autora (np. gdy krytykuje abstrakcyjną naukę), a czasami staje się obiektem satyry (np. gdy z dumą opisuje angielski system polityczny królowi Brobdingnagu).
+            * Chronologia vs. retrospekcje: Narracja jest ściśle chronologiczna, co jest typowe dla dziennika podróży. Każda część jest uporządkowanym zapisem kolejnych wydarzeń, co wzmacnia iluzję realizmu.
+            * Techniki budowania napięcia: Napięcie w powieści rzadko wynika z zagrożenia fizycznego (choć takie momenty istnieją, np. walka ze szczurami). Głównie budowane jest na poziomie intelektualnym i satyrycznym – poprzez stopniowe odkrywanie przez Guliwera (i czytelnika) prawdziwej natury odwiedzanych społeczeństw i, co za tym idzie, natury samego człowieka.
+
+
+3. Struktura kompozycyjna
+
+
+            * Podział na rozdziały/części: Powieść jest precyzyjnie podzielona na cztery części, z których każda opisuje jedną podróż. Ta symetryczna, klarowna struktura nadaje dziełu monumentalny charakter i pozwala na systematyczne rozwijanie satyry. Każda część stanowi odrębną całość, ale razem tworzą spójny obraz stopniowej dekonstrukcji światopoglądu Guliwera.
+            * Część I (Liliput): Satyra na politykę i ludzką pychę z perspektywy wyższości.
+            * Część II (Brobdingnag): Satyra na politykę i ludzką małość z perspektywy niższości.
+            * Część III (Laputa i inne): Satyra na intelekt i naukę oderwaną od rzeczywistości.
+            * Część IV (Kraj Houyhnhnmów): Ostateczna satyra na ludzką naturę jako taką.
+            * Rytm narracji: Rytm jest miarowy i spokojny. Swift unika gwałtownych zwrotów akcji na rzecz szczegółowych opisów i długich, dygresyjnych rozmów. To spowolnienie tempa pozwala czytelnikowi na refleksję i analizę przedstawianych zjawisk.
+            * Proporcje między opisem a akcją: Opis zdecydowanie dominuje nad akcją. Swiftowi bardziej zależy na przedstawieniu i skomentowaniu obcych społeczeństw niż na tworzeniu dynamicznej fabuły przygodowej. Sceny akcji (jak zdobycie floty) są ważne, ale służą głównie jako punkty zwrotne w relacjach Guliwera z tubylcami, a nie jako cel sam w sobie.
+
+
+CZĘŚĆ VII: ZNACZENIE I INTERPRETACJE
+
+
+
+
+1. Interpretacje krytyczne
+
+
+Podróże Guliwera od momentu powstania budzą skrajne emocje i prowokują do różnorodnych interpretacji. Główne nurty krytyczne można podzielić na kilka kategorii:
+            * Interpretacja historyczno-polityczna: Dominująca w XVIII i XIX wieku, skupiała się na rozszyfrowywaniu powieści jako roman à clef. Krytycy i czytelnicy identyfikowali postacie i wydarzenia z Liliputu z konkretnymi osobami (Robert Walpole jako Flimnap) i faktami z historii Anglii (spór o jajka jako schizma anglikańska).6 Ta interpretacja, choć cenna, ogranicza uniwersalny wymiar dzieła.
+            * Interpretacja psychologiczna i biograficzna: Niektórzy krytycy, zwłaszcza w XX wieku, postrzegali powieść jako wyraz osobistych frustracji, obsesji i mizantropii Swifta. Skatologiczne motywy i odraza do ciała miałyby być odbiciem jego własnych lęków i problemów psychicznych. Ta perspektywa jest często krytykowana za redukowanie złożonego dzieła sztuki do symptomu choroby autora.
+            * Interpretacja filozoficzna ("twarda" vs. "miękka"): Największa kontrowersja interpretacyjna dotyczy czwartej części podróży.
+            * Szkoła "twarda" (hard school): Utrzymuje, że Swift w pełni identyfikuje się z perspektywą Guliwera. Houyhnhnmowie reprezentują ideał cnoty i rozumu, a ludzie (Jahusy) są z natury źli i niezdolni do poprawy. Powieść jest więc wyrazem skrajnego pesymizmu i mizantropii. Tę interpretację wspierał m.in. George Orwell.11
+            * Szkoła "miękka" (soft school): Twierdzi, że Swift kpi nie tylko z ludzkości, ale także z Guliwera i jego naiwnego uwielbienia dla Houyhnhnmów. Houyhnhnmowie, choć racjonalni, są zimni, bezduszni i pozbawieni ludzkich uczuć, takich jak miłość czy indywidualizm. Ich "cnota" jest nieludzka. Guliwer, odrzucając ludzkość na rzecz tego ideału, popada w szaleństwo pychy. Prawdziwa cnota leży gdzieś pośrodku, w niedoskonałym, ale ludzkim świecie, reprezentowanym np. przez dobrego kapitana Don Pedro.
+            * Interpretacja postkolonialna: Współczesne odczytania zwracają uwagę na motyw kolonializmu. Guliwer, jako Europejczyk, przybywa do obcych krain i ocenia je przez pryzmat własnej kultury. Jego relacje z tubylcami (zwłaszcza w Lilipucie, gdzie jego siła fizyczna daje mu przewagę) mogą być odczytywane jako alegoria europejskiej ekspansji kolonialnej i relacji władzy między kolonizatorem a skolonizowanym.16
+
+
+2. Znaczenie kulturowe
+
+
+            * Wpływ na literaturę: Wpływ Podróży Guliwera jest nie do przecenienia. Powieść ustanowiła wzorzec dla satyry politycznej i społecznej w formie fantastycznej podróży. Inspirowała Woltera (Kandyd), a w XX wieku jej echa można znaleźć w antyutopiach, takich jak Nowy wspaniały świat Huxleya i Rok 1984 Orwella. Słowa wymyślone przez Swifta, takie jak "Liliput", "Jahu" (Yahoo) i "Brobdingnagian", weszły na stałe do języka angielskiego i wielu innych języków jako określenia małości, barbarzyństwa i gigantyzmu.6
+            * Adaptacje: Dzieło było adaptowane niezliczoną ilość razy na potrzeby filmu, teatru, radia i telewizji.1 Najwcześniejszą znaną adaptacją filmową jest niemy film Georgesa Mélièsa z 1902 roku. Inne znaczące adaptacje to m.in. amerykański film animowany z 1939 roku, radziecki
+Nowy Guliwer (1935), który łączył satyrę Swifta z ideologią komunistyczną, oraz brytyjsko-amerykański miniserial z 1996 roku z Tedem Dansonem w roli głównej, który jako jeden z nielicznych próbował wiernie oddać wszystkie cztery części powieści.1 Większość adaptacji, zwłaszcza tych dla dzieci, skupia się jednak wyłącznie na pierwszej i drugiej podróży, pomijając mroczniejszy i bardziej złożony materiał z części trzeciej i czwartej.
+            * Miejsce w kanonie: Podróże Guliwera są niekwestionowanym filarem kanonu literatury światowej. To lektura obowiązkowa na uniwersyteckich kursach literatury angielskiej, symbol epoki Oświecenia i arcydzieło satyry. Jej wielopoziomowość sprawia, że może być analizowana z perspektywy historycznej, filozoficznej, politycznej i psychologicznej, co zapewnia jej trwałe miejsce w dyskursie akademickim.4
+
+
+3. Aktualność przesłania
+
+
+Mimo upływu prawie trzech stuleci, dzieło Swifta nie traci na aktualności. Jego satyra na ludzką naturę i mechanizmy władzy jest ponadczasowa.
+               * Uniwersalne wartości: Powieść wciąż zmusza do refleksji nad takimi kwestiami jak pycha, władza, natura cywilizacji i granice rozumu. Krytyka bezsensownych konfliktów, prowadzonych w imię trywialnych różnic (jak spór o jajka), brzmi dziś równie mocno w kontekście współczesnych wojen kulturowych i politycznych podziałów.4
+               * Znaczenie dla współczesnego czytelnika: Dla dzisiejszego odbiorcy Podróże Guliwera mogą być przestrogą przed arogancją – zarówno polityczną (przekonanie o wyższości własnego narodu), jak i intelektualną (wiara, że nauka i technologia rozwiążą wszystkie problemy). W dobie fake newsów i dezinformacji, satyra Swifta na fałszowanie historii (w Glubbdubdrib) jest niezwykle trafna.
+               * Lekcje moralne: Najważniejszą lekcją płynącą z powieści jest konieczność krytycznego spojrzenia na samego siebie i społeczeństwo, w którym żyjemy. Swift uczy nas, że perspektywa ma znaczenie i że to, co uważamy za normalne i słuszne, może z innego punktu widzenia wyglądać na absurdalne i barbarzyńskie. Ostatecznie, powieść stawia trudne pytanie: co to znaczy być człowiekiem? I nie udziela na nie łatwej odpowiedzi.
+
+
+CZĘŚĆ VIII: OPISY WIZUALNE DLA ADAPTACJI
+
+
+
+
+1. Katalog postaci z opisami wizualnymi
+
+
+Poniższa tabela zawiera skondensowane opisy wizualne kluczowych postaci, niezbędne dla działów castingu, charakteryzacji i kostiumów.
+Nazwa Postaci
+	Część Podróży
+	Rola
+	Przybliżony Wiek
+	Opis Fizyczny
+	Typowy Ubiór i Rekwizyty
+	Lemuel Gulliver
+	Wszystkie
+	Protagonista
+	28-44
+	Mężczyzna, wzrost ok. 175 cm, budowa krzepka. Włosy długie, gęste (kolor nieokreślony). Twarz owalna, poważna.
+	Strój kapitana/chirurga okrętowego z pocz. XVIII w.: wełniany surdut, kamizelka, bryczesy, pończochy, buty z klamrami. Rekwizyty: kordelas, pistolety skałkowe, zegarek kieszonkowy, okulary, trójgraniasty kapelusz.
+	Cesarz Liliputu
+	Część I
+	Władca-Tyran
+	28
+	Wzrost ok. 15 cm, wyższy od poddanych. Rysy twarzy mocne, męskie, nos orli, "austriacka warga".
+	Prosty strój wojskowy. Na głowie złoty hełm wysadzany klejnotami. U boku miniaturowa szpada.
+	Flimnap
+	Część I
+	Skarbnik, Intrygant
+	40-50
+	BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Postać zwinna, gibka (tancerz na linie).
+	Najbogatszy, najbardziej ostentacyjny strój dworski w Lilipucie, symbolizujący władzę i bogactwo.
+	Reldresal
+	Część I
+	Sekretarz, Polityk
+	30-40
+	BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+	Elegancki, ale stonowany strój wysokiego urzędnika dworskiego.
+	Glumdalclitch
+	Część II
+	Opiekunka
+	9
+	Wzrost ok. 12 metrów, "mała jak na swój wiek". Wygląd wiejskiej dziewczynki.
+	Prosta, lniana lub wełniana sukienka w gigantycznym rozmiarze, w naturalnych kolorach.
+	Król Brobdingnagu
+	Część II
+	Król-Filozof
+	50-60
+	Gigant, wzrost ok. 22 metry, potężna budowa. Twarz o mądrym, przenikliwym wyrazie. BRAK DALSZYCH SZCZEGÓŁÓW W ŹRÓDŁACH.
+	Królewskie, ale proste i funkcjonalne szaty, bez nadmiernych ozdób. Kolorystyka stonowana.
+	Laputańczyk
+	Część III
+	Intelektualista
+	Różny
+	Głowa przechylona na bok. Jedno oko zwrócone do wewnątrz, drugie ku górze.
+	Ubrania ozdobione wzorami słońc, księżyców, gwiazd i instrumentów muzycznych. Rekwizyt: "klapa" (packa) do przywracania uwagi.
+	Struldbrug
+	Część III
+	Nieśmiertelny starzec
+	80+
+	Skrajnie wyniszczony starzec. Skóra pomarszczona, ziemista. Rzadkie, siwe włosy, bezzębne usta. Oczy mętne. Czerwona/czarna plamka nad lewą brwią.
+	Zniszczone, brudne łachmany.
+	Jahus (mężczyzna)
+	Część IV
+	Zdegradowany człowiek
+	Różny
+	Wzrost ludzki. Ciało nagie, pokryte gęstą, brudną sierścią (różne kolory). Twarz płaska, szerokie usta. Długie, ostre pazury. Broda jak u kozła.
+	Brak.
+	Houyhnhnm (Pan)
+	Część IV
+	Uosobienie rozumu
+	Dorosły
+	Koń maści siwej (dapple-grey). Szlachetna, harmonijna budowa. Spojrzenie pełne inteligencji i spokoju.
+	Brak.
+	
+
+2. Katalog lokacji
+
+
+Poniższa tabela systematyzuje kluczowe informacje wizualne o najważniejszych miejscach akcji.
+Nazwa Lokacji
+	Część Podróży
+	Styl Architektoniczny / Krajobraz
+	Paleta Kolorów
+	Oświetlenie
+	Atmosfera / Nastrój
+	Mildendo
+	Część I
+	Miniaturowy, idealizowany barok/styl georgiański. Miasto na planie idealnego kwadratu.
+	Jasne, nasycone kolory: czerwień, błękit, zieleń, złoto, biel.
+	Jasne, słoneczne, niemal bez cieni.
+	Porządek, czystość, miniaturowa perfekcja, ale też powierzchowność i pycha.
+	Pałac Króla Brobdingnagu
+	Część II
+	Monumentalny, uproszczony styl georgiański.
+	
+
+	
+
+	
+
+	Cytowane prace
+               1. Podróże Guliwera – Wikipedia, wolna encyklopedia, otwierano: sierpnia 10, 2025, https://pl.wikipedia.org/wiki/Podr%C3%B3%C5%BCe_Guliwera
+               2. Gulliver's Travels - Wikipedia, otwierano: sierpnia 10, 2025, https://en.wikipedia.org/wiki/Gulliver%27s_Travels
+               3. "Podróże Guliwera" dla dorosłych. "Po tej książce człowiek nie będzie spokojny", otwierano: sierpnia 10, 2025, https://polskieradio24.pl/artykul/3078389,podroze-guliwera-dla-doroslych-po-tej-ksiazce-czlowiek-nie-bedzie-spokojny
+               4. Podróże Guliwera - WolneLektury.pl, otwierano: sierpnia 10, 2025, https://wolnelektury.pl/katalog/lektura/podroze-guliwera/
+               5. Podróże Guliwera - Biografia autora - Jonathan Swift - Bryk.pl, otwierano: sierpnia 10, 2025, https://www.bryk.pl/lektury/jonathan-swift/podroze-guliwera.biografia-autora
+               6. Kwestia skali | Jonathan Swift, Podróże do wielu odległych narodów świata | 355 lat temu urodził się autor „Guliwera” - Zupełnie Inna Opowieść, otwierano: sierpnia 10, 2025, https://zupelnieinnaopowiesc.com/2022/11/30/kwestia-skali-jonathan-swift-podroze-do-wielu-odleglych-narodow-swiata-355-lat-temu-urodzil-sie-autor-guliwera-1/
+               7. 19 X 1745 urodził się Jonathan Swift | Księgarnia Arsenał - książki w ulubionej cenie, otwierano: sierpnia 10, 2025, https://arsenal.pl/kalendarium/2783
+               8. Swift's Use of Satire in Gulliver's Travels Romana Rouf Chowdhury, otwierano: sierpnia 10, 2025, https://tmv.ac.in/ematerial/english/ss/SEM%202%20Gullivers%20Travles%20detailed%20satire.pdf
+               9. Podróże Gullivera do wielu odległych narodów świata - Jonathan Swift - Lubimyczytać, otwierano: sierpnia 10, 2025, https://lubimyczytac.pl/ksiazka/191932/podroze-gullivera-do-wielu-odleglych-narodow-swiata
+               10. Przeczytaj - Wyprawa w stronę fantastyki - zpe.gov.pl, otwierano: sierpnia 10, 2025, https://zpe.gov.pl/a/przeczytaj/DgIMleZn0
+               11. Wyprawa w stronę fantastyki - ZPE, otwierano: sierpnia 10, 2025, https://zpe.gov.pl/pdf/P14VSMqBs
+               12. Gulliver's Travels | Summary, Characters, Analysis, & Facts - Britannica, otwierano: sierpnia 10, 2025, https://www.britannica.com/topic/Gullivers-Travels
+               13. AleKlasa | Archiwa: EPOKI LITERACKIE - Strona 36 z 43 - AleKlasa, otwierano: sierpnia 10, 2025, https://aleklasa.pl/category/liceum/c155-powtorka-z-epok-literackich/page/36
+               14. Podróże Guliwera - Jonathan Swift - Polska Ksiegarnia w UK, otwierano: sierpnia 10, 2025, https://ksiegarniainternetowa.co.uk/pl/podroze_guliwera-9788382796322
+               15. Lilliput and Blefuscu - Wikipedia, otwierano: sierpnia 10, 2025, https://en.wikipedia.org/wiki/Lilliput_and_Blefuscu
+               16. Gulliver's Travels Part 1: Chapter 1 Summary & Analysis | SparkNotes, otwierano: sierpnia 10, 2025, https://www.sparknotes.com/lit/gulliver/section1/
+               17. Gulliver's Travels Part 1, Chapter 1 Summary - Shmoop, otwierano: sierpnia 10, 2025, https://www.shmoop.com/study-guides/gullivers-travels/part-1-chapter-1-summary.html
+               18. Ponadczasowe style architektoniczne w Londynie, które przyciągają uwagę - Spot Blue, otwierano: sierpnia 10, 2025, https://pl.spotblue.com/news/london-architecture-styles-buildings-famous/
+               19. Historia Edynburga – Od czasów średniowiecza po współczesność, otwierano: sierpnia 10, 2025, https://www.irishroots.pl/historia-edynburga-od-czasow-sredniowiecza-po-wspolczesnosc.htm
+               20. Georgian Style 1700 - 1800 | PHMC > Pennsylvania Architectural Field Guide, otwierano: sierpnia 10, 2025, https://www.phmc.state.pa.us/portal/communities/architecture/styles/georgian.html
+               21. www.homesandantiques.com, otwierano: sierpnia 10, 2025, https://www.homesandantiques.com/antiques/has-guide-to-georgian-style#:~:text=Intricate%2C%20white%20plasterwork%20is%20a,walls%2C'%20says%20Sarah%20Latham.
+               22. Georgian Style Interiors | Classic to Modern Home Designs - Mallery Hall, otwierano: sierpnia 10, 2025, https://malleryhall.com/georgian-style-interiors/
+               23. Georgian Revival: The Rise of 18th Century Elegance in 2025 Interior Design, otwierano: sierpnia 10, 2025, https://www.valentinesantiques.com.au/georgian-revival-the-rise-of-18th-century-elegance-in-2025-interior-design/
+               24. Podróże Guliwera - Charakterystyka bohaterów - Jonathan Swift - Bryk.pl, otwierano: sierpnia 10, 2025, https://www.bryk.pl/lektury/jonathan-swift/podroze-guliwera.charakterystyka-bohaterow
+               25. Gulliver's Travels 5: A Visit to Mildendo - Little Fox, otwierano: sierpnia 10, 2025, https://www.littlefox.com/en/supplement/org/C0002633
+               26. Podróże Guliwera - Streszczenie szczegółowe - Jonathan Swift - Bryk.pl, otwierano: sierpnia 10, 2025, https://www.bryk.pl/lektury/jonathan-swift/podroze-guliwera.streszczenie-szczegolowe
+               27. Gulliver's Travels: Part I, Chapter IV. - SparkNotes, otwierano: sierpnia 10, 2025, https://www.sparknotes.com/lit/gulliver/full-text/part-i-chapter-iv/
+               28. Brobdingnag - Wikipedia, otwierano: sierpnia 10, 2025, https://en.wikipedia.org/wiki/Brobdingnag
+               29. Chapter 5 < A Voyage to Brobdingnag < Gulliver's Travels < Jonathan Swift <4umi word, otwierano: sierpnia 10, 2025, http://4umi.com/swift/gulliver/brobdingnag/5
+               30. Part Two: A Voyage to Brobdingnag: Chapter 1 | Gulliver's Travels | Jonathan Swift | Lit2Go ETC - Florida Center for Instructional Technology, otwierano: sierpnia 10, 2025, https://etc.usf.edu/lit2go/177/gullivers-travels/3604/part-two-a-voyage-to-brobdingnag-chapter-1/
+               31. Gulliver's Travels Full Text: Part 2, Chapter 4 Page 2 - Shmoop, otwierano: sierpnia 10, 2025, https://www.shmoop.com/study-guides/gullivers-travels/part-2-chapter-4-full-text-2.html
+               32. Gulliver's Travels: Part II, Chapter IV. - SparkNotes, otwierano: sierpnia 10, 2025, https://www.sparknotes.com/lit/gulliver/full-text/part-ii-chapter-iv/
+               33. Gulliver's Travels Summary and Analysis of Part III, - A Voyage To Laputa - Scribd, otwierano: sierpnia 10, 2025, https://fr.scribd.com/document/440309345/Gulliver-s-Travels-Summary-and-Analysis-of-Part-III-A-Voyage-to-Laputa
+               34. Gulliver's Travels Part 3: Chapters 1–3 Summary & Analysis | SparkNotes, otwierano: sierpnia 10, 2025, https://www.sparknotes.com/lit/gulliver/section8/
+               35. LAPUTA(The third voyage of Jonathan Swift in Gulliver's travels) Aside Filed under: Tugas - Rajdhani College, otwierano: sierpnia 10, 2025, https://rajdhanicollege.ac.in/admin/ckeditor/ckfinder/userfiles/files/LAPUTA.pdf
+               36. Gulliver's Travels Part 3: Chapters 4–11 Summary & Analysis ..., otwierano: sierpnia 10, 2025, https://www.sparknotes.com/lit/gulliver/section9/
+               37. Gulliver's visit to the Academy of Lagado - Hektoen International, otwierano: sierpnia 10, 2025, https://hekint.org/2017/02/01/gullivers-visit-to-the-academy-of-lagado/
+               38. Part Four: A Voyage to the Country of the Houyhnhnms: Chapter 1 | Gulliver's Travels | Jonathan Swift | Lit2Go ETC - Florida Center for Instructional Technology, otwierano: sierpnia 10, 2025, https://etc.usf.edu/lit2go/177/gullivers-travels/3711/part-four-a-voyage-to-the-country-of-the-houyhnhnms-chapter-1/
+               39. Chapter 2 < A Voyage to the Country of the Houyhnhnms < Gulliver's Travels < Jonathan Swift <4umi word, otwierano: sierpnia 10, 2025, http://4umi.com/swift/gulliver/houyhnhnm/2
+               40. Jonathan Swift – “Gulliver's Travels” Part 4 (ctd.), otwierano: sierpnia 10, 2025, https://readingnorton.wordpress.com/2018/02/21/jonathan-swift-gullivers-travels-part-4-ctd-14/
+               41. Gulliver's Travels by Jonathan Swift | EBSCO Research Starters, otwierano: sierpnia 10, 2025, https://www.ebsco.com/research-starters/literature-and-writing/gullivers-travels-jonathan-swift
+               42. An Officer and A Gentleman: Naval Uniform and Male Fashion in the Eighteenth Century, otwierano: sierpnia 10, 2025, https://www.npg.org.uk/collections/explore/an-officer-and-a-gentleman-naval-uniform-and-male-fashion-in-the-eighteenth-century
+               43. 1770's Sailor - Living History Personas – Townsends, otwierano: sierpnia 10, 2025, https://www.townsends.us/pages/1770s-sailor
+               44. Sailor Dress Page - HMS Richmond, otwierano: sierpnia 10, 2025, https://www.hmsrichmond.org/sailordress.htm
+               45. Średniowieczne statki handlowe. Studium z historii technologii - Jacek Kwaśniewski, otwierano: sierpnia 10, 2025, https://jacek.kwasniewski.org.pl/media/Sredniowieczne_statki_handlowe.pdf
+               46. Średniowieczne statki handlowe. Jacek Kwaśniewski. Rozdział GALEON - Koga Portal, otwierano: sierpnia 10, 2025, https://koga.net.pl/grupy/viewdiscussion/488-sredniowieczne-statki-handlowe-jacek-kwasniewski-rozdzial-galeon.html?groupid=10&cookie_5a65df3349e6cfb7fcdcc02dfdb0997d=accepted
+               47. Okręty odkrywców, konkwistadorów i piratów: karaki, karawele i galeony - Historykon.pl, otwierano: sierpnia 10, 2025, https://historykon.pl/okrety-odkrywcow-konkwistadorow-i-piratow-karaki-karawele-i-galeony/
+               48. Estrangement in Gulliver's Travels - The Seafarer, otwierano: sierpnia 10, 2025, https://theseafareruff.wordpress.com/2016/12/12/estrangement-in-gullivers-travels/
+               49. The inventory1 - Zanichelli, otwierano: sierpnia 10, 2025, https://online.scuola.zanichelli.it/performerheritage-files/text-bank-blu/TB22_Swift_The_inventory.pdf
+               50. Gulliver's Travels Government Quotes - SparkNotes, otwierano: sierpnia 10, 2025, https://www.sparknotes.com/lit/gulliver/quotes/theme/government/
+               51. The Lilliputian Emperor in Gulliver's Travels Character Analysis - Shmoop, otwierano: sierpnia 10, 2025, https://www.shmoop.com/study-guides/gullivers-travels/the-lilliputian-emperor.html
+               52. Political Satire in Gulliver's Travels - English Literature Essays, otwierano: sierpnia 10, 2025, http://allrfree.blogspot.com/2009/10/political-satire-in-gullivers-travels.html
+               53. Gulliver's Travels: Character List - SparkNotes, otwierano: sierpnia 10, 2025, https://www.sparknotes.com/lit/gulliver/characters/
+               54. Torysi – Wikipedia, wolna encyklopedia, otwierano: sierpnia 10, 2025, https://pl.wikipedia.org/wiki/Torysi
+               55. POLITICAL SATIRE IN “GULLIVER'S TRAVELS” PART I Kseniia's blog, otwierano: sierpnia 10, 2025, https://bek.blogs.uv.es/2010/10/23/political-satire-in-%E2%80%9Cgulliver%E2%80%99s-travels%E2%80%9D-part-i/
+               56. Flimnap and Skyresh Bolgolam in Gulliver's Travels Character Analysis | Shmoop, otwierano: sierpnia 10, 2025, https://www.shmoop.com/study-guides/gullivers-travels/flimnap-and-skyresh-bolgolam.html
+               57. Gulliver in Lilliput: Examining the Allegory, otwierano: sierpnia 10, 2025, https://thefablesoup.wordpress.com/2016/02/21/gulliver-in-lilliput-examining-the-allegory/
+               58. Part One: A Voyage to Lilliput: Chapter 3 | Gulliver's Travels | Jonathan Swift | Lit2Go ETC, otwierano: sierpnia 10, 2025, https://etc.usf.edu/lit2go/177/gullivers-travels/3583/part-one-a-voyage-to-lilliput-chapter-3/
+               59. Podróże Guliwera – encyklopediafantastyki.pl, otwierano: sierpnia 10, 2025, https://encyklopediafantastyki.pl/index.php?title=Podr%C3%B3%C5%BCe_Guliwera
+               60. Gulliver's Travels - The Magic Ladder, otwierano: sierpnia 10, 2025, https://mlc.learningstewards.org/gulliver/
+               61. Gulliver's Travels text.pdf, otwierano: sierpnia 10, 2025, https://www.eriesd.org/cms/lib/PA01001942/Centricity/Domain/2098/Gullivers%20Travels%20text.pdf
+               62. appearance and reality - in gulliver's travels - Rajdhani College, otwierano: sierpnia 10, 2025, https://rajdhanicollege.ac.in/admin/ckeditor/ckfinder/userfiles/files/Appearance%20and%20Reality%20in%20Gullivers%20Travels%20(2).pdf
+               63. Gulliver's Travels Part 1, Chapter 5 Summary - Shmoop, otwierano: sierpnia 10, 2025, https://www.shmoop.com/study-guides/gullivers-travels/part-1-chapter-5-summary.html
+               64. Gulliver's Travels Part 1, Chapter 3 Summary - Shmoop, otwierano: sierpnia 10, 2025, https://www.shmoop.com/study-guides/gullivers-travels/part-1-chapter-3-summary.html
+               65. Gulliver's Travels: Part I, Chapter V. | SparkNotes, otwierano: sierpnia 10, 2025, https://www.sparknotes.com/lit/gulliver/full-text/part-i-chapter-v/
+               66. KRÓL LILIPUTÓW (GOLBASTO MOMAREM) - Słownik bohaterów literackich - Bryk.pl, otwierano: sierpnia 10, 2025, https://www.bryk.pl/slowniki/slownik-bohaterow-literackich-szkola-podstawowa/83870-krol-liliputow-golbasto-momarem
+               67. Gulliver's Travels Part 1, Chapter 2 Summary | Shmoop, otwierano: sierpnia 10, 2025, https://www.shmoop.com/study-guides/gullivers-travels/part-1-chapter-2-summary.html
+               68. The Lilliputians and the Blefuscudians Character Analysis in Gulliver's Travels | SparkNotes, otwierano: sierpnia 10, 2025, https://www.sparknotes.com/lit/gulliver/character/lilliputians-blefuscudians/
+               69. Reldresal in Gulliver's Travels Character Analysis - Shmoop, otwierano: sierpnia 10, 2025, https://www.shmoop.com/study-guides/gullivers-travels/redresal.html
+               70. www.sparknotes.com, otwierano: sierpnia 10, 2025, https://www.sparknotes.com/lit/gulliver/quotes/character/glumdalclitch/#:~:text=A%20knowledgeable%20nine%2Dyear%2Dold,has%20the%20closest%20personal%20relationship.
+               71. The Brobdingnagian King in Gulliver's Travels Character Analysis - Shmoop, otwierano: sierpnia 10, 2025, https://www.shmoop.com/study-guides/gullivers-travels/the-brobdingnagian-king.html
+               72. The Queen of Brobdingnag:: Lord Munodi | PDF | Gulliver's Travels - Scribd, otwierano: sierpnia 10, 2025, https://www.scribd.com/document/358619075/Characters
+               73. English ll second semester Flashcards - Quizlet, otwierano: sierpnia 10, 2025, https://quizlet.com/707384232/english-ll-second-semester-flash-cards/
+               74. Gulliver's Travels - University of Glasgow, otwierano: sierpnia 10, 2025, https://www.gla.ac.uk/myglasgow/library/files/special/exhibns/month/jan2006.html
+               75. Crazy Literary Fact: The Word "Yahoo" - Berrett Koehler Publishers, otwierano: sierpnia 10, 2025, https://www.bkconnection.com/bkblog/jeevan-sivasubramaniam/crazy-literary-fact-the-word-yahoo
+               76. Research Article DOES THE YAHOO IN GULLIVER'S TRAVELS REPRESENT AN EIGHTEENTH CENTURY DESCRIPTION OF THE SASQUATCH? - Idaho State University, otwierano: sierpnia 10, 2025, https://www.isu.edu/media/libraries/rhi/research-papers/ARGUE_Yahoos.pdf
+               77. Houyhnhnm - Wikipedia, otwierano: sierpnia 10, 2025, https://en.wikipedia.org/wiki/Houyhnhnm
+               78. Gulliver's Travels: Part IV, Chapter IX. - SparkNotes, otwierano: sierpnia 10, 2025, https://www.sparknotes.com/lit/gulliver/full-text/part-iv-chapter-ix/
+               79. Gulliver's Travels Summary and Analysis of Part I, "A Voyage To Lilliput," Chapters I-II | PDF, otwierano: sierpnia 10, 2025, https://www.scribd.com/document/366888965/Gulliver
+               80. Gulliver's Travels Free Summary by Jonathan Swift - getAbstract, otwierano: sierpnia 10, 2025, https://www.getabstract.com/en/summary/gullivers-travels/32018
+               81. Gulliver's travels chapter 3 of part 1 | PPTX | Humor and Satire - SlideShare, otwierano: sierpnia 10, 2025, https://www.slideshare.net/slideshow/gullivers-travels-chapter-3-of-part-1/50676152
+               82. Gulliver's Travels Part 1: Chapters 4 & 5 Summary & Analysis - SparkNotes, otwierano: sierpnia 10, 2025, https://www.sparknotes.com/lit/gulliver/section3/
+               83. Gulliver's Travels Part 1, Chapters 5–8 - eNotes.com, otwierano: sierpnia 10, 2025, https://www.enotes.com/topics/gullivers-travels-jonathan-swift/chapter-summaries/part-1-chapters-5-8
+               84. Part One: A Voyage to Lilliput: Chapter 5 | Gulliver's Travels ..., otwierano: sierpnia 10, 2025, https://etc.usf.edu/lit2go/177/gullivers-travels/3592/part-one-a-voyage-to-lilliput-chapter-5/
+               85. Gulliver's Travels 9: Fire at the Palace! - Little Fox, otwierano: sierpnia 10, 2025, https://www.littlefox.com/hk/supplement/org/C0002677
+               86. The Meaning of the Palace on Fire Scene in Gulliver's Travels and Its Adaptations in Selected English and Polish Abridged Versions of Jonathan Swift's Novel, otwierano: sierpnia 10, 2025, https://explorations.uni.opole.pl/wp-content/uploads/04_Kaptur_Pawel_V12.pdf
+               87. Gulliver's Travels Part 1, Chapter 7 Summary - Shmoop, otwierano: sierpnia 10, 2025, https://www.shmoop.com/study-guides/gullivers-travels/part-1-chapter-7-summary.html
+               88. Gulliver's Travels: Sparklet Chapter Summaries | SparkNotes, otwierano: sierpnia 10, 2025, https://www.sparknotes.com/lit/gulliver/sparklets/
+               89. Gulliver's Travels Part 1: Chapters 6–8 Summary & Analysis | SparkNotes, otwierano: sierpnia 10, 2025, https://www.sparknotes.com/lit/gulliver/section4/
+               90. Gulliver's Escape from Lilliput and Return to England - Heritage History, otwierano: sierpnia 10, 2025, https://www.heritage-history.com/index.php?c=read&author=langjohn&book=gulliver&story=escape
+               91. Stories of Gulliver's Travels Told to the Children by John Lang - Heritage History, otwierano: sierpnia 10, 2025, https://www.heritage-history.com/index.php?c=read&author=langjohn&book=gulliver&story=shown
+               92. Gulliver's Travels Part 2: Chapters 1 & 2 Summary & Analysis - SparkNotes, otwierano: sierpnia 10, 2025, https://www.sparknotes.com/lit/gulliver/section5/
+               93. Gulliver Travels Chapter 2 Summary | PDF | Parliament - Scribd, otwierano: sierpnia 10, 2025, https://www.scribd.com/document/375278227/Gulliver-Travels-Chapter-2-Summary
+               94. Gulliver's Travel | BOOK II Summary | A Voyage to Brobdingnag | NTA NET English Preparation - YouTube, otwierano: sierpnia 10, 2025, https://www.youtube.com/watch?v=xn-q6DgefkQ
+               95. Gulliver's Travels in Brobdingnag: Details,Pictures & Chapter Summary, otwierano: sierpnia 10, 2025, http://www.mygullivertravels.com/brobdingnag.html
+               96. What impact does Gulliver's fight with the wasps have? The idea is entertaining and humoro [Literature] - Gauth, otwierano: sierpnia 10, 2025, https://www.gauthmath.com/solution/1803516783049734/What-impact-does-Gulliver-s-fight-with-the-wasps-have-The-idea-is-entertaining-a
+               97. Catching up on Classics (and lots more!) discussion Gulliver's Travels - A Voyage to Brobdingnag Spoilers - Goodreads, otwierano: sierpnia 10, 2025, https://www.goodreads.com/topic/show/463641-gulliver-s-travels---a-voyage-to-brobdingnag-spoilers
+               98. Gulliver's Travels Part 2, Chapter 5 Summary - Shmoop, otwierano: sierpnia 10, 2025, https://www.shmoop.com/study-guides/gullivers-travels/part-2-chapter-5-summary.html
+               99. Gulliver carried onto the rooftop by a monkey stock image - Look and Learn, otwierano: sierpnia 10, 2025, https://www.lookandlearn.com/history-images/M196831/Gulliver-carried-onto-the-rooftop-by-a-monkey
+               100. Gulliver's Travels Part 2, Chapters 5–8 - eNotes.com, otwierano: sierpnia 10, 2025, https://www.enotes.com/topics/gullivers-travels-jonathan-swift/chapter-summaries/part-2-chapters-5-8
+               101. Part Two: A Voyage to Brobdingnag: Chapter 7 | Gulliver's Travels | Jonathan Swift | Lit2Go ETC - Florida Center for Instructional Technology, otwierano: sierpnia 10, 2025, https://etc.usf.edu/lit2go/177/gullivers-travels/3636/part-two-a-voyage-to-brobdingnag-chapter-7/
+               102. Chapter 8 < A Voyage to Brobdingnag < Gulliver's Travels < Jonathan Swift <4umi word, otwierano: sierpnia 10, 2025, http://4umi.com/swift/gulliver/brobdingnag/8
+               103. Gulliver Escapes Brobdingnag When His Box Is Grabbed by an Eagle Who Drops It in the Sea, from Gulliver's Travels by Jonathan Swift - MeisterDrucke, otwierano: sierpnia 10, 2025, https://www.meisterdrucke.us/fine-art-prints/Grandville/378235/Gulliver-Escapes-Brobdingnag-When-His-Box-Is-Grabbed-by-an-Eagle-Who-Drops-It-in-the-Sea,-from-Gulliver's-Travels-by-Jonathan-Swift.html
+               104. Gulliver's Travels: "A Voyage to Laputa, Balnibarbi, Luggnagg, Glubbdubdrib, and Japan", otwierano: sierpnia 10, 2025, https://quizlet.com/485713017/gullivers-travels-a-voyage-to-laputa-balnibarbi-luggnagg-glubbdubdrib-and-japan-flash-cards/
+               105. Lagado - Wikipedia, otwierano: sierpnia 10, 2025, https://en.wikipedia.org/wiki/Lagado
+               106. Gulliver's Travels Part 3, Chapter 5 Summary - Shmoop, otwierano: sierpnia 10, 2025, https://www.shmoop.com/study-guides/gullivers-travels/part-3-chapter-5-summary.html
+               107. Glubbdubdrib in Gulliver's Travels Character Analysis - Shmoop, otwierano: sierpnia 10, 2025, https://www.shmoop.com/study-guides/gullivers-travels/glubbdubdrib.html
+               108. A Voyage to Laputa | Gulliver's Travels Book 3 | Summary in English - YouTube, otwierano: sierpnia 10, 2025, https://www.youtube.com/watch?v=_T5jbi6CQhc
+               109. Struldbrugg - Wikipedia, otwierano: sierpnia 10, 2025, https://en.wikipedia.org/wiki/Struldbrugg
+               110. Swift's GULLIVER'S TRAVELS, Bk 3 | Enlightenment and Disability, otwierano: sierpnia 10, 2025, https://enlightanddis.wordpress.com/spectacles-of-deviance/physical-deformity/jonathan-swift-gullivers-travels-bk-3/
+               111. Gulliver's Travels Part-4 (Summary) | PDF | Lawyer | France - Scribd, otwierano: sierpnia 10, 2025, https://www.scribd.com/document/384754139/Gulliver-s-Travels-Part-4-Summary
+               112. Gulliver's Travels Part 4: Chapters 1–4 Summary & Analysis | SparkNotes, otwierano: sierpnia 10, 2025, https://www.sparknotes.com/lit/gulliver/section10/
+               113. Jonathan Swift: Gulliver's Travels – An Open Companion to Early British Literature, otwierano: sierpnia 10, 2025, https://pressbooks.pub/earlybritishlit/chapter/gullivers-travels-by-jonathan-swift/
+               114. Gulliver's Travels Part 4: Chapters 5–12 Summary & Analysis | SparkNotes, otwierano: sierpnia 10, 2025, https://www.sparknotes.com/lit/gulliver/section11/
+               115. Gulliver's Voyage to the Houyhnhnms, otwierano: sierpnia 10, 2025, https://mncbmonline.co.in/attendence/classnotes/files/1684910797.pdf
+               116. The Yahoos Character Analysis in Gulliver's Travels - SparkNotes, otwierano: sierpnia 10, 2025, https://www.sparknotes.com/lit/gulliver/character/yahoos/
+               117. Gulliver's Travels to the Country of the Houyhnhnm: Details,Pictures & Chapter Summary, otwierano: sierpnia 10, 2025, http://www.mygullivertravels.com/houyhnhnms.html
+               118. www.mygullivertravels.com, otwierano: sierpnia 10, 2025, http://www.mygullivertravels.com/houyhnhnms.html#:~:text=Gulliver%20has%20notice%20given%20him,CHAPTER%20XI.
+               119. A Voyage to the land of the Houyhnhnmm | Gulliver's Travels Book 4| Summary in English, otwierano: sierpnia 10, 2025, https://m.youtube.com/watch?v=7MeHOZ1T1_M&pp=ygUMI3RyYXZlbHNib29r
+               120. Podróże Guliwera - Jonathan Swift - jak nowa - SkupSzop, otwierano: sierpnia 10, 2025, https://skupszop.pl/podroze-guliwera-jonathan-swift-9788374354165
+               121. Podróże Guliwera - wydanie z opracowaniem i streszczeniem (Jonathan Swift) - Czytam.pl, otwierano: sierpnia 10, 2025, https://czytam.pl/podroze-guliwera-jonathan-swift-105422
+               122. Gulliver's Travels by Jonathan Swift | Part 1, Chapter 1 - YouTube, otwierano: sierpnia 10, 2025, https://www.youtube.com/watch?v=yhzxb9_yK_U
+               123. Podróże Guliwera | Film | 1996 - Filmweb, otwierano: sierpnia 10, 2025, https://www.filmweb.pl/film/Podr%C3%B3%C5%BCe+Guliwera-1996-8734
+               124. Podróże Guliwera (film 1996) - Dubbingpedia, otwierano: sierpnia 10, 2025, https://dubbingpedia.pl/wiki/Podr%C3%B3%C5%BCe_Guliwera_(film_1996)

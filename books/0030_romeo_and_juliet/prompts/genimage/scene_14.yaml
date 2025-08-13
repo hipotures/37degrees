@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Renaissance Italy, pre-dawn darkness
+    location: City gates of Verona, ancient stone archway
+    weather: Cold mist, stars fading, first hint of dawn on horizon
+  characters:
+  - appearance: Young man, 16-17 years old, athletic but slender build, dark brown hair slightly longer and tousled, expressive
+      melancholic eyes, fair complexion
+    clothing: Travel-worn nobleman's attire, dark cloak with hood partially concealing face, mud-splattered boots
+    position: On horseback pausing at gate threshold
+    action: Turning in saddle for last look at city, hand reaching back toward unseen palace, face showing unbearable loss
+  - appearance: Middle-aged to elderly man, 45-60 years old, gentle weathered face marked by wisdom, graying hair with tonsure,
+      kind but worried eyes
+    clothing: Simple rough Franciscan habit in brown or gray wool, tied with rope belt, wooden cross, sandals
+    position: Standing beside horse holding bridle
+    action: Hand on rider's knee in comfort, looking up with mixture of pity and fear
+  scene:
+    mainElements: Massive stone gate, road disappearing into dark countryside, city walls looming behind
+    details: Guard tower with single torch flickering, morning star still visible, horse's breath visible in cold air, bundle
+      of possessions tied to saddle, sealed letter in rider's hand
+    background: Verona's towers and domes silhouetted against lightening sky, empty road ahead vanishing into mist
+    atmosphere: Banishment as living death, love severed by distance, last moment between two worlds, hope struggling against
+      despair
+  composition:
+    cameraAngle: View from outside city looking back through gate arch
+    focus: The threshold moment - one foot in beloved past, one in uncertain future
+    depth: Rider and friar in foreground, gate arch framing city in middle ground, dawn sky in background
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

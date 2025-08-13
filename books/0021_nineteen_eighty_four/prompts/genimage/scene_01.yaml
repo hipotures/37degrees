@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1984, cold bright April day, early morning
+    location: Dystopian totalitarian London, capital city of Airstrip One province in superstate Oceania, post-war Britain
+      under Party control
+    weather: Cold bright day with steel-colored sky, harsh winter light
+  characters: []
+  scene:
+    mainElements: Decaying 19th century tenements with walls supported by timber beams, windows blocked with cardboard, roofs
+      patched with corrugated iron, bomb-damaged areas overgrown with willowherb, clouds of white plaster dust, makeshift
+      wooden shacks in bombed lots. Four enormous white concrete pyramids rise 300 meters high dominating the skyline.
+    details: Entire cityscape shows destruction and decay from war. Rubble-strewn lots between crumbling Victorian buildings
+      create patchwork of survival and abandonment. Three government ministry pyramids loom over the urban wasteland like
+      monuments to oppressive power. Willowherb grows wild through broken masonry. White dust particles drift through cold
+      morning air. No text or letters visible.
+    background: Steel-colored sky stretching endlessly over broken London, distant government pyramids casting long shadows
+      over ruins
+    atmosphere: Oppressive weight of totalitarian control mixed with urban decay, cold hostility of environment reflecting
+      society's spiritual death
+  composition:
+    cameraAngle: Wide establishing shot from elevated position
+    focus: Government ministry pyramids dominating cityscape of ruins
+    depth: Foreground rubble and broken buildings, middle ground tenements and shacks, background towering white pyramids
+      against gray sky
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF0000'
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - '#FFD700'
+    - '#1E3A8A'
+    background: solid color blocks
+    usageNotes: Limited palette, maximum impact
+    saturation: maximum
+    contrast: extreme
+  lineArt:
+    style: geometric, angular
+    weight: bold, uniform
+    color: black or contrasting
+    texture: clean, sharp
+    edgeTreatment: precise, mechanical
+  lighting:
+    type: flat, graphic
+    direction: none - flat design
+    intensity: n/a
+    shadows:
+      style: geometric drop shadows
+      color: black
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: vector-like precision
+    texture: flat color blocks
+    detailLevel: simplified to essentials
+    finish: poster-like, graphic
+  perspective: dynamic diagonals, forced perspective
+  mood:
+    overall: powerful, urgent, revolutionary
+    emotion: determination, conflict, awakening
+    tempo: dynamic, forceful
+    keywords:
+    - powerful
+    - revolutionary
+    - bold
+    - urgent
+    - authoritative
+  stylePrecedents:
+  - El Lissitzky
+  - Alexander Rodchenko
+  - Constructivist movement
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,98 @@
+sceneDescription:
+  setting:
+    time: Early 1830s Colombian Caribbean coast, late night with clear starlit sky
+    location: Edge of Macondo village where jungle path leads to outside world, Colombian settlement border
+    weather: Clear tropical night with brilliant stars and gentle warm breeze carrying jungle scents
+  characters:
+  - appearance: Man, teenager to adult, inherited enormous physical strength from father,
+      after return from long journey is enormous man, powerfully built with tanned
+      skin, entire body from neck to ankles covered with dense colorful tattoos in various languages depicting scenes and
+      symbols from travels, wild exotic intimidating appearance
+    clothing: Simple sailor clothes - loose pants and unbuttoned shirt, often walks with bare torso to display tattoos
+    position: Standing at jungle path entrance with travel pack
+    action: Taking final look back at sleeping village before disappearing into unknown world
+  - appearance: Woman, teenage to over 115 years old, described as active, small, stern woman with steel nerves, embodiment
+      of vitality and strength through most of life, in old age when loses sight body begins to shrink, at end of life becomes
+      so small and light resembles newborn or doll, skin becomes wrinkled and transparent
+    clothing: Dark, stern, simple dresses throughout life reflecting pragmatism and mourning for family members, characteristic
+      stiff starched petticoats that make quiet whisper during constant bustling
+    position: Hidden in shadows watching son's departure
+    action: Silently weeping while making sign of cross, knowing she may never see him again
+  - appearance: Woman, lives over 140 years witnessing almost entire history of Macondo, described as fat talkative with matron-in-distress
+      expression, has laughing wise eyes and sensual manner, characteristic feature is smell of smoke that constantly accompanies
+      her, in old age sits in rocking chair in her brothel surrounded by fortune-telling cards
+    clothing: Simple clothes appropriate for her role as embodiment of fertility and folk wisdom
+    position: Emerging from shadows near path
+    action: Offering final passionate embrace before young man leaves for adventure
+  scene:
+    mainElements: Edge of village where civilization meets wild jungle, narrow path disappearing into dense tropical vegetation,
+      sleeping houses with occasional oil lamp glowing in windows, brilliant starlit sky creating natural illumination, sense
+      of boundary between known and unknown worlds
+    details: Sounds of night insects and distant jungle animals, faint smoke rising from dying cooking fires, young man's
+      footprints in soft earth beginning journey into mystery, moonlight filtering through palm fronds creating patterns of
+      light and shadow, no text or letters visible
+    background: Dense jungle vegetation towering overhead, sleeping village with peaceful adobe houses, path winding into
+      impenetrable darkness of unknown adventures
+    atmosphere: Bittersweet departure mixing excitement of youth with family heartbreak, sense of inevitable journey toward
+      experiences that will change everything forever
+  composition:
+    cameraAngle: Wide shot from village perspective watching figure disappear into jungle
+    focus: José Arcadio's departure silhouette against starlit sky while mother watches from shadows
+    depth: 'Foreground: emotional family farewell, middle: departing son at boundary, background: mysterious jungle path leading
+      to unknown world'
+visualElements:
+  colorPalette:
+    primary:
+    - muted blues
+    - soft purples
+    - misty grays
+    secondary:
+    - pale golds
+    - dusty roses
+    - seafoam greens
+    background: gradient washes, nebulous
+    usageNotes: Soft, dreamy colors that blend into each other
+    saturation: low to medium
+    contrast: soft, hazy
+  lineArt:
+    style: fluid, dissolving
+    weight: varied, sometimes fading
+    color: soft, often colored lines
+    texture: smooth, organic
+    edgeTreatment: soft, sometimes undefined
+  lighting:
+    type: otherworldly, multiple sources
+    direction: illogical, dreamlike
+    intensity: soft, glowing
+    shadows:
+      style: soft, sometimes defying physics
+      color: colored shadows
+      opacity: translucent
+    highlights: ethereal glows
+  rendering:
+    technique: smooth blending, sfumato
+    texture: soft, cloud-like
+    detailLevel: selective focus, some areas sharp, others dissolving
+    finish: dreamlike, atmospheric
+  perspective: impossible, shifting, non-Euclidean
+  mood:
+    overall: mysterious, contemplative, otherworldly
+    emotion: wonder, unease, transcendence
+    tempo: floating, timeless
+    keywords:
+    - mysterious
+    - dreamlike
+    - surreal
+    - metaphysical
+    - transcendent
+  stylePrecedents:
+  - Salvador Dalí
+  - René Magritte
+  - Remedios Varo
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

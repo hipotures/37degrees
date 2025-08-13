@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Racing Against Death Through Night"
+  setting:
+    time: "Renaissance Italy, deep night with no moon"
+    location: "Road between Mantua and Verona, wild countryside"
+    weather: "Pitch black night, wind whipping, sense of storm approaching"
+  characters:
+    - appearance: "Young man, 16-17 years old, athletic but slender build, dark brown hair slightly longer and tousled, expressive melancholic eyes, fair complexion"
+      clothing: "Dark riding cloak billowing behind, travel clothes, sword at side"
+      position: "Leaning forward on galloping horse"
+      action: "Spurring horse desperately, face set with terrible purpose, one hand on reins, other clutching cloak with hidden vial"
+  scene:
+    mainElements: "Dark road cutting through hills, lone rider and horse as single desperate unit, dust cloud in wake"
+    details: "Horse's breath steaming, foam at mouth from hard riding, sparks from horseshoes on stones, trees whipping past like phantoms, owl hooting warning, crossroads passed without pause"
+    background: "Stars hidden by clouds, distant lightning on horizon, Verona's lights appearing far ahead"
+    atmosphere: "Desperate race against time unknown, death riding to meet death, love as madness driving beyond reason, fate closing its trap"
+  composition:
+    cameraAngle: "Dynamic side angle showing speed and urgency"
+    focus: "The fusion of rider and horse in desperate flight toward tragedy"
+    depth: "Horse and rider in sharp foreground, blurred landscape in middle ground, destination glowing faintly in far background"

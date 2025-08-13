@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Renaissance Italy, midnight in churchyard
+    location: Entrance to Capulet family tomb in Verona churchyard
+    weather: Still air, clouds parting to reveal stars, deathly quiet
+  characters:
+  - appearance: Young man, 16-17 years old, athletic but slender build, dark brown hair slightly longer and tousled, expressive
+      melancholic eyes, fair complexion
+    clothing: Noble attire disheveled from ride, cloak thrown back, sword drawn
+    position: At tomb entrance with iron crow
+    action: Prying open tomb door with desperate strength, torch in other hand, face illuminated showing tragic determination
+  scene:
+    mainElements: Stone tomb entrance like mouth of hell, iron gate forced open, graves and monuments surrounding
+    details: Torch flame only light in darkness, crow bar bending with force, stone dust falling, moths drawn to flame, flowers
+      from funeral scattered at entrance, cypress trees standing sentinel
+    background: Church silhouette against stars, sleeping city beyond walls, peaceful graves unaware of violation
+    atmosphere: Threshold between life and death, love violating death's domain, terrible purpose overcoming fear, last boundary
+      being crossed
+  composition:
+    cameraAngle: Low angle from inside tomb looking out at figure breaking in
+    focus: The violent entry of life and light into death's darkness
+    depth: Dark tomb interior in foreground, Romeo breaking through in middle ground, night sky in background
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

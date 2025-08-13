@@ -4,9 +4,6 @@ description: |
   Generates and validates a TODO file for a 37d research agent.
   Analyzes the agent profile and creates contextual research tasks.
   Ensures proper task distribution matching the agent's specialization.
-tools: Edit, Glob, Grep, LS, MultiEdit, Read, Task, TodoWrite, WebFetch, WebSearch, Write
-execution_order: 0
-todo_list: False
 ---
 
 # 37D TODO GENERATOR

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Poison Purchased in Shadows of Despair"
+  setting:
+    time: "Renaissance Italy, late evening in poor quarter"
+    location: "Decrepit apothecary shop in Mantua's poorest district"
+    weather: "Drizzling rain, gray twilight, mud in streets"
+  characters:
+    - appearance: "Young man, 16-17 years old, athletic but slender build, dark brown hair slightly longer and tousled, expressive melancholic eyes, fair complexion"
+      clothing: "Travel-stained nobleman's attire, dark cloak concealing rich clothes, hood partially hiding desperate face"
+      position: "Leaning across crude wooden counter"
+      action: "Pressing gold coins into gnarled hand, other hand reaching for small vial, face showing terrible determination"
+    - appearance: "Ancient apothecary, skeletal thin, yellowed eyes, trembling hands"
+      clothing: "Ragged robes, stained with chemicals, poverty evident"
+      position: "Behind counter among bizarre items"
+      action: "Grasping coins with one claw-like hand, reluctantly extending vial with other, greed battling fear"
+  scene:
+    mainElements: "Cramped shop with stuffed crocodile hanging from ceiling, dusty shelves of mysterious bottles, poverty and decay"
+    details: "Cobwebs on everything, dead things in jars, mortar and pestle with suspicious residue, single candle creating dancing shadows, rain leaking through roof, small glass vial glowing with deadly promise"
+    background: "Squalid street visible through dirty window, desperate poverty surrounding"
+    atmosphere: "Death merchant in death's anteroom, desperation meeting desperation, love choosing death over separation, moral boundaries crossed"
+  composition:
+    cameraAngle: "Close intimate angle across counter showing transaction"
+    focus: "The moment of exchange - gold for death, hand to hand"
+    depth: "Hands and vial in sharp foreground, faces in middle ground, shop's grotesque contents in background"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Violent Eruption in Blazing Square"
+  setting:
+    time: "Renaissance Italy, noon with merciless summer sun"
+    location: "Renaissance Italian city square in Verona, surrounded by pink and white limestone palaces, narrow streets radiating outward, stone fountain in center"
+    weather: "Scorching July heat, sun at zenith creating minimal shadows, heat waves rising from stones"
+  characters:
+    - appearance: "Young man, late teens to early twenties, agile and energetic build, sharp features with ironic smile, quick darting movements like quicksilver"
+      clothing: "Extravagant courtier's attire - vibrant multicolored doublet, fantastical feathered hat, fashionable but theatrical, not aligned to any house colors"
+      position: "Center of square, staggering backward"
+      action: "Hand pressed to side where blood seeps through fingers, face showing shock transforming to bitter ironic smile, knees beginning to buckle"
+    - appearance: "Young man, early twenties, athletic aggressive build, sharp angular features, dark hair slicked back, piercing hostile eyes"
+      clothing: "Impeccable nobleman's attire in Capulet warm tones - burgundy velvet doublet, gold chain, crimson cape, always wearing rapier and dagger"
+      position: "Few paces away, rapier still extended"
+      action: "Frozen in attack position, expression of triumph mixed with sudden realization"
+  scene:
+    mainElements: "Blood spreading on white limestone, overturned market stalls, scattered crowd forming horrified circle"
+    details: "Dropped rapier glinting in harsh sun, feathered hat fallen in dust, spilled fruit rolling across stones mixing with blood, fountain water continuing to splash indifferently, shadows sharp and black like knife cuts"
+    background: "Palace windows with faces peering out, church bells silent, brutal clarity of noon sun"
+    atmosphere: "Shocking violence under peaceful sky, playfulness turned deadly, heat and blood and sudden mortality, comedy becoming tragedy in single heartbeat"
+  composition:
+    cameraAngle: "High angle looking down at fallen figure and spreading chaos"
+    focus: "The moment of transformation from life to death, jest to tragedy"
+    depth: "Dying figure in foreground, attacker and crowd in middle ground, impassive architecture in background"

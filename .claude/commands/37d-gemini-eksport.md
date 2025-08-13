@@ -14,12 +14,13 @@
 
 Pobierz pierwszą pozycję ze statusem `in_progress` z listy zadań:
 
-```bash
-todo_get_list_items(
+// MCP mcp__todoit__todo_get_list_items
+todo_item = todo_get_list_items(
   list_key: "gemini-deep-research",
-  status: "in_progress"
+  status: "in_progress",
+  limit: 1
 )
-```
+
 
 **Przykładowy wynik:** `0002_animal_farm` - "Deep Research for Animal Farm by George Orwell"
 
@@ -27,26 +28,33 @@ todo_get_list_items(
 
 ### Krok 2: Połączenie z przeglądarką
 
-1. **Połączenie z MCP**
+1. **Połączenie z MCP playwright-cdp**
    - Połącz się z `playwright-cdp`
    - W przypadku braku połączenia → zgłoś błąd
 
 ---
 
 ### Krok 3: Wyszukanie chatu z książką
+// mcp__todoit__todo_get_item_property
+search_url = todo_get_item_property(
+   list_key : 'gemini-deep-research',
+   item_key : $todo_item,
+   property_key : 'SEARCH_URL'
+)
 
+Jeśli research_url nie zwróci wartosci lub zwróci błąd, wykonaj te cztery punkty:
 1. **Nawigacja**
    - Przejdź do: `https://gemini.google.com/search`
 
 2. **Wyszukiwanie**
    - W polu "Szukaj czatów" wpisz klucz książki (np. `0002_animal_farm`)
 
----
+3. Z listy wyników wybierz chat o nazwie **dokładnie** pasującej do klucza (dopasowanie 1:1)
+4. Kliknij na odpowiedni chat, aby go otworzyć
 
-### Krok 4: Wybór odpowiedniego chatu
-
-1. Z listy wyników wybierz chat o nazwie **dokładnie** pasującej do klucza (dopasowanie 1:1)
-2. Kliknij na odpowiedni chat, aby go otworzyć
+ELSE
+  Jeśli research_url zawiera url (przykład, różnice bedą tylko w częsci za app/ : https://gemini.google.com/app/23500f4e7be0cdad)
+Przejdź do strony $search_url
 
 > ⚠️ **UWAGA**: Błędy związane z dużymi odpowiedziami (>25000 tokens) należy ignorować
 
@@ -54,7 +62,7 @@ todo_get_list_items(
 
 ### Krok 5: Eksport chatu do Google Docs
 
-1. **W aplikacji Gemini:**
+1. **W aplikacji Gemini msz wykonać dokładnie te czynnoścci, "na ślepo", bez sprawdzania stanu!**
    - Kliknij przycisk eksportu: `button[data-test-id="export-menu-button"]`
    - Wybierz opcję eksportu do Dokumentów: `button[data-test-id="export-to-docs-button"]`
 
@@ -110,9 +118,7 @@ todo_mark_completed(
 ### Krok 9: Czyszczenie środowiska
 
 1. Zamknij zakładkę Google Docs:
-   ```bash
-   browser_tab_close()
-   ```
+   mcp__playwright-cdp__browser_tab_close(log_limit=100)
 
 2. Sprawdź, czy pozostała tylko jedna karta przeglądarki
 

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Evening Feast Preparations in Grand Palace"
+  setting:
+    time: "Renaissance Italy, golden hour before sunset"
+    location: "Grand hall inside Capulet palace in Verona, high coffered ceilings, musicians' gallery above"
+    weather: "Warm evening light streaming through tall windows, dust motes dancing in rays"
+  characters:
+    - appearance: "Numerous servants of various ages, both men and women, busy with preparations"
+      clothing: "Matching house liveries in Capulet colors - crimson and gold trim, white aprons, caps"
+      position: "Scattered throughout hall in purposeful movement"
+      action: "Setting long tables, arranging flowers, polishing silver, lighting first candles, carrying platters"
+  scene:
+    mainElements: "Long banquet tables with white cloths, hundreds of unlit candles in chandeliers, tapestries on walls, polished marble floor reflecting golden light"
+    details: "Fresh roses and orange blossoms in silver vases, gleaming goblets and plates, musicians tuning instruments in gallery, smell of roasting meat wafting from kitchens, elaborate sugar sculptures as centerpieces, servants' synchronized movements like choreographed dance"
+    background: "Ornate ceiling with gilded details catching light, tall windows showing gardens beyond, doorways leading to other chambers"
+    atmosphere: "Anticipation and excitement building, transformation of space from day to night, busy harmony before celebration, golden warmth before passionate darkness"
+  composition:
+    cameraAngle: "Wide shot from gallery level looking down at preparations"
+    focus: "The orchestrated transformation of grand space for momentous evening"
+    depth: "Busy servants and tables in foreground, architectural grandeur in middle ground, windows with fading daylight in background"

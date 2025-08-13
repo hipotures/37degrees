@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Love's Last Embrace in Death's Palace"
+  setting:
+    time: "Renaissance Italy, deepest hour before dawn"
+    location: "Stone crypt in churchyard of Verona, underground vault with family sarcophagi"
+    weather: "No weather penetrates here, eternal stillness of tomb"
+  characters:
+    - appearance: "Young man, 16-17 years old, athletic but slender build, dark brown hair slightly longer and tousled, expressive melancholic eyes, fair complexion"
+      clothing: "Rich nobleman's attire in cool tones - deep blue velvet doublet with silver embroidery, gray silk shirt, dark blue trunk hose, black leather boots, short blue cape"
+      position: "Lying beside stone bier, one arm draped over still figure"
+      action: "Just fallen, empty vial rolling from lifeless hand, face peaceful in death, lips still touching beloved's cheek"
+    - appearance: "Young girl, 13 years old, petite and delicate build, light brown hair often elaborately styled, luminous intelligent eyes, radiant fair complexion"
+      clothing: "White burial dress like wedding gown, flowers in hair wilting"
+      position: "Lying on stone bier as if sleeping"
+      action: "Beginning to stir, fingers starting to move, color returning to cheeks, but too late"
+  scene:
+    mainElements: "Stone sarcophagi along walls, carved effigies, dust and cobwebs, stone steps leading down, iron gate at entrance"
+    details: "Two torches burning low, creating dancing shadows on stone faces, scattered flowers from funeral, empty poison vial glinting, Romeo's dagger fallen nearby, strange beauty in tragic tableau"
+    background: "Ancient tombs receding into darkness, names of dead carved in stone"
+    atmosphere: "Love triumphant in death, beauty in tragedy, eternal union beginning, silence before discovery"
+  composition:
+    cameraAngle: "Overhead view like religious painting of pieta"
+    focus: "The tragic beauty of young lovers united in death's embrace"
+    depth: "Lovers on bier in center, tombs surrounding in middle ground, darkness at edges"

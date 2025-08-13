@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: 1984, cold March afternoon, harsh natural light
+    location: London park with bare trees and frost-covered ground, public space with few people
+    weather: Cold early spring day with frost and bitter wind
+  characters:
+  - appearance: Man, 39 years old, dramatically changed from torture - now corpulent and flabby with red unhealthy skin, balding
+      head, completely different from his former thin frame, empty eyes showing spiritual death
+    clothing: Clean blue Party overalls (newly issued), fresh but lifeless
+    position: Sitting on park bench, maintaining distance from woman beside him
+    action: Speaking with cold mechanical politeness while avoiding eye contact, showing complete emotional deadness
+  - appearance: Woman, appears much older than her 26-27 years, body stiff and thickened, face with grayish color, long scar
+      running from forehead through temple to corner of mouth that whitens when she smiles, all former vitality and beauty
+      destroyed
+    clothing: Blue Party overalls, no longer wearing scarlet sash
+    position: Sitting on opposite end of same bench, maintaining careful distance
+    action: Speaking with similar mechanical politeness while staring ahead blankly, showing matching spiritual destruction
+  scene:
+    mainElements: Park bench in public space with bare trees in background, frost-covered ground showing winter's lingering
+      effects, few other people visible at distance, cold March atmosphere with overcast sky, remnants of last winter's snow
+    details: Complete destruction of human love disguised as chance meeting. Both former lovers have been physically and spiritually
+      transformed beyond recognition. Winston's bloated red face contrasts his former thin intensity. Julia's scarred and
+      aged appearance shows loss of all youthful beauty. They maintain careful distance on bench like strangers. Their mechanical
+      conversation reveals total emotional death. The cold March setting reflects their inner winter. No warmth or recognition
+      passes between them. The Party has successfully destroyed not just their rebellion but their capacity for genuine human
+      feeling. No text or letters visible.
+    background: Bare trees against gray sky, frost-covered park paths, distant figures of other park visitors walking past
+    atmosphere: Death of human love and connection, artificial politeness masking complete spiritual destruction, cold formality
+      replacing passion and intimacy
+  composition:
+    cameraAngle: Medium shot showing both figures on bench with careful distance between them
+    focus: Gap between Winston and Julia representing destroyed connection
+    depth: Foreground park bench with separated couple, middle ground frost-covered ground, background bare trees against
+      gray sky
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF0000'
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - '#FFD700'
+    - '#1E3A8A'
+    background: solid color blocks
+    usageNotes: Limited palette, maximum impact
+    saturation: maximum
+    contrast: extreme
+  lineArt:
+    style: geometric, angular
+    weight: bold, uniform
+    color: black or contrasting
+    texture: clean, sharp
+    edgeTreatment: precise, mechanical
+  lighting:
+    type: flat, graphic
+    direction: none - flat design
+    intensity: n/a
+    shadows:
+      style: geometric drop shadows
+      color: black
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: vector-like precision
+    texture: flat color blocks
+    detailLevel: simplified to essentials
+    finish: poster-like, graphic
+  perspective: dynamic diagonals, forced perspective
+  mood:
+    overall: powerful, urgent, revolutionary
+    emotion: determination, conflict, awakening
+    tempo: dynamic, forceful
+    keywords:
+    - powerful
+    - revolutionary
+    - bold
+    - urgent
+    - authoritative
+  stylePrecedents:
+  - El Lissitzky
+  - Alexander Rodchenko
+  - Constructivist movement
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

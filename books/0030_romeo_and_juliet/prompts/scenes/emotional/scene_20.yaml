@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Tomb's Mouth Opens to Swallow Light"
+  setting:
+    time: "Renaissance Italy, midnight in churchyard"
+    location: "Entrance to Capulet family tomb in Verona churchyard"
+    weather: "Still air, clouds parting to reveal stars, deathly quiet"
+  characters:
+    - appearance: "Young man, 16-17 years old, athletic but slender build, dark brown hair slightly longer and tousled, expressive melancholic eyes, fair complexion"
+      clothing: "Noble attire disheveled from ride, cloak thrown back, sword drawn"
+      position: "At tomb entrance with iron crow"
+      action: "Prying open tomb door with desperate strength, torch in other hand, face illuminated showing tragic determination"
+  scene:
+    mainElements: "Stone tomb entrance like mouth of hell, iron gate forced open, graves and monuments surrounding"
+    details: "Torch flame only light in darkness, crow bar bending with force, stone dust falling, moths drawn to flame, flowers from funeral scattered at entrance, cypress trees standing sentinel"
+    background: "Church silhouette against stars, sleeping city beyond walls, peaceful graves unaware of violation"
+    atmosphere: "Threshold between life and death, love violating death's domain, terrible purpose overcoming fear, last boundary being crossed"
+  composition:
+    cameraAngle: "Low angle from inside tomb looking out at figure breaking in"
+    focus: "The violent entry of life and light into death's darkness"
+    depth: "Dark tomb interior in foreground, Romeo breaking through in middle ground, night sky in background"

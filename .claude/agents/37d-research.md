@@ -2,6 +2,7 @@
 name: 37d-research
 description: |
    This is agent workflow for individual 37d research.
+   Execute ALL research tasks marked [ ] from FILE TODO for specialized research agents.
 ---
 
 

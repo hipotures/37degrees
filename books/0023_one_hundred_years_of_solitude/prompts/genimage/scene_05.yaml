@@ -1,0 +1,97 @@
+sceneDescription:
+  setting:
+    time: Early 1820s Colombian Caribbean coast, mystical afternoon inside gypsy tent
+    location: Interior of large canvas tent in Macondo village plaza during gypsy visit, Colombian jungle settlement
+    weather: Tropical heat outside contrasting with mysterious cool inside tent
+  characters:
+  - appearance: Gypsy of indeterminate fluid age, appears as old man but can also regain youth, timeless almost immortal figure,
+      described as having untamed beard and sparrow hands, has Asian appearance and penetrating all-knowing eyes
+    clothing: Characteristic black hat with wide brim resembling raven wings, velvet worn vest covered with green patina of
+      centuries
+    position: Standing beside iron-bound pirate chest with ceremonial reverence
+    action: Slowly lifting heavy lid to reveal the miraculous contents within
+  - appearance: Man, late 20s to elderly, potężna budowa ciała with extraordinary strength that allows him to fell a horse
+      by grabbing its ears, in youth charismatic patriarch full of energy and curiosity, in madness becomes emaciated with
+      long grey beard and hair, wild absent gaze
+    clothing: Simple rural linen shirts and pants in youth, covered only by blanket or loincloth
+    position: Kneeling beside chest with hand extended toward miracle
+    action: Reaching with reverent fingers to touch the impossible frozen block
+  - appearance: Man, from birth to death in lonely old age, born with open eyes prophesying his gift of clairvoyance, as child
+      and youth silent and withdrawn, slender almost ascetic build, as result of 32 lost wars face takes on harsh tired expression
+      of veteran, penetrating melancholic gaze, suffers from painful boils under armpits (hidradenitis suppurativa) rare but
+      significant physical detail emphasizing inner suffering
+    clothing: In youth simple modest clothes, as military commander wears liberal uniform which over time becomes worn faded
+      and repeatedly patched, in old age after wars simple shirt and pants working in goldsmith workshop
+    position: Small child held in father's protective arm
+    action: Staring with wide innocent eyes at the transparent crystalline miracle
+  scene:
+    mainElements: Dark tent interior filled with exotic aromas and mysterious objects, large iron-bound pirate chest in center,
+      transparent block of ice emanating cold mist, strange alchemical devices and curiosities scattered on makeshift tables,
+      heavy canvas walls filtering tropical sunlight
+    details: Large transparent cold block kept in pirate chest by gypsies, represents wonder and unknown world, symbol of
+      magical discovery that opens novel, embodiment of innocent amazement at scientific marvels in pre-modern world, cold
+      vapor rising from impossible frozen surface creating ethereal atmosphere, no text or letters visible
+    background: Canvas walls with exotic patterns, mysterious scientific instruments barely visible in shadows, hint of tropical
+      brightness beyond tent entrance
+    atmosphere: Sacred wonder and mystical revelation, moment of pure discovery that changes everything, intersection of magic
+      and reality where impossible becomes touchable truth
+  composition:
+    cameraAngle: Intimate close-up capturing faces illuminated by ice's ethereal glow
+    focus: Child Aureliano's wonder-struck expression as he witnesses first miracle
+    depth: 'Foreground: hands reaching toward ice, middle: amazed faces, background: mysterious tent shadows and exotic objects'
+visualElements:
+  colorPalette:
+    primary:
+    - muted blues
+    - soft purples
+    - misty grays
+    secondary:
+    - pale golds
+    - dusty roses
+    - seafoam greens
+    background: gradient washes, nebulous
+    usageNotes: Soft, dreamy colors that blend into each other
+    saturation: low to medium
+    contrast: soft, hazy
+  lineArt:
+    style: fluid, dissolving
+    weight: varied, sometimes fading
+    color: soft, often colored lines
+    texture: smooth, organic
+    edgeTreatment: soft, sometimes undefined
+  lighting:
+    type: otherworldly, multiple sources
+    direction: illogical, dreamlike
+    intensity: soft, glowing
+    shadows:
+      style: soft, sometimes defying physics
+      color: colored shadows
+      opacity: translucent
+    highlights: ethereal glows
+  rendering:
+    technique: smooth blending, sfumato
+    texture: soft, cloud-like
+    detailLevel: selective focus, some areas sharp, others dissolving
+    finish: dreamlike, atmospheric
+  perspective: impossible, shifting, non-Euclidean
+  mood:
+    overall: mysterious, contemplative, otherworldly
+    emotion: wonder, unease, transcendence
+    tempo: floating, timeless
+    keywords:
+    - mysterious
+    - dreamlike
+    - surreal
+    - metaphysical
+    - transcendent
+  stylePrecedents:
+  - Salvador Dalí
+  - René Magritte
+  - Remedios Varo
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

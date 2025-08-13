@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1930s Colombian Caribbean coast, passionate night in decaying house
+    location: Interior bedroom of deteriorating Buendía house during forbidden romance, Colombian jungle village
+    weather: Warm tropical night with gentle breeze carrying scent of decay and blooming flowers
+  characters:
+  - appearance: Last woman of Buendía line, represents final chance for family redemption through love, beautiful and spirited
+      despite family's declining fortunes
+    clothing: Simple nightdress appropriate for intimate moment
+    position: Lying in bed with expression of deep love and concern
+    action: Touching beloved's face with tender worry about their forbidden relationship
+  - appearance: Last scholar of family line, devoted to deciphering family mysteries and ancient prophecies, represents culmination
+      of family's intellectual obsessions
+    clothing: Simple nightclothes, scholarly appearance even in intimacy
+    position: Embracing beloved while mind still occupied with ancient texts
+    action: Torn between passionate love and growing understanding of family curse through manuscript study
+  scene:
+    mainElements: Bedroom in house now crumbling with age and neglect, ancient furniture and family heirlooms creating atmosphere
+      of accumulated history, candlelight illuminating intimate scene while shadows hide decay, sense of last passionate love
+      blooming amid family ruin
+    details: Flickering candles creating romantic lighting that also emphasizes decay of surroundings, family portraits on
+      walls barely visible in darkness, old wooden furniture creaking with age, tropical night sounds through broken shutters
+      mixing with lovers' whispers, scent of old wood mixed with night-blooming flowers, no readable text on visible papers
+    background: Other rooms visible through doorway filled with accumulated debris of century, courtyard beyond with ancient
+      chestnut tree, manuscripts and books scattered indicating scholarly obsession
+    atmosphere: Last passionate love of family line occurring against backdrop of inevitable doom, romantic intensity heightened
+      by awareness of impending tragedy, beauty and youth defying decay and ancient curses
+  composition:
+    cameraAngle: Intimate close shot capturing both tenderness and underlying tragic tension
+    focus: Lovers' embrace representing final hope for family salvation through authentic love
+    depth: 'Foreground: intimate romantic scene, middle: candlelit bedroom atmosphere, background: suggestions of scholarly
+      pursuits and family decay'
+visualElements:
+  colorPalette:
+    primary:
+    - muted blues
+    - soft purples
+    - misty grays
+    secondary:
+    - pale golds
+    - dusty roses
+    - seafoam greens
+    background: gradient washes, nebulous
+    usageNotes: Soft, dreamy colors that blend into each other
+    saturation: low to medium
+    contrast: soft, hazy
+  lineArt:
+    style: fluid, dissolving
+    weight: varied, sometimes fading
+    color: soft, often colored lines
+    texture: smooth, organic
+    edgeTreatment: soft, sometimes undefined
+  lighting:
+    type: otherworldly, multiple sources
+    direction: illogical, dreamlike
+    intensity: soft, glowing
+    shadows:
+      style: soft, sometimes defying physics
+      color: colored shadows
+      opacity: translucent
+    highlights: ethereal glows
+  rendering:
+    technique: smooth blending, sfumato
+    texture: soft, cloud-like
+    detailLevel: selective focus, some areas sharp, others dissolving
+    finish: dreamlike, atmospheric
+  perspective: impossible, shifting, non-Euclidean
+  mood:
+    overall: mysterious, contemplative, otherworldly
+    emotion: wonder, unease, transcendence
+    tempo: floating, timeless
+    keywords:
+    - mysterious
+    - dreamlike
+    - surreal
+    - metaphysical
+    - transcendent
+  stylePrecedents:
+  - Salvador Dalí
+  - René Magritte
+  - Remedios Varo
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

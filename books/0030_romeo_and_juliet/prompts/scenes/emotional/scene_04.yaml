@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Young Men's Camaraderie in Sunlit Street"
+  setting:
+    time: "Renaissance Italy, noon with intense summer heat"
+    location: "Narrow street between tall palaces in Verona"
+    weather: "Blazing July sun creating sharp shadows, heat shimmering from stones"
+  characters:
+    - appearance: "Three young noblemen, late teens to early twenties, varied builds from athletic to slender"
+      clothing: "Fine doublets in different colors - blue, green, and multicolored, with feathered caps, trunk hose, wearing rapiers"
+      position: "Walking together down shaded side of street"
+      action: "Laughing at shared joke, one gesturing dramatically, another playfully pushing companion, third throwing head back in laughter"
+  scene:
+    mainElements: "Narrow street with high stone walls on both sides, dramatic contrast between sunlit and shadowed areas"
+    details: "Laundry strung between upper windows creating patchwork of shadows, potted geraniums on windowsills, cats sleeping in shaded doorways, shuttered windows against heat, distant sound of fountain"
+    background: "Strip of brilliant blue sky between buildings, church bell tower visible at street's end"
+    atmosphere: "Youthful masculine energy and friendship, carefree bravado, heat creating languid yet volatile mood, brotherhood before conflict"
+  composition:
+    cameraAngle: "Eye level from street following behind group"
+    focus: "Three friends united in moment of pure joy and companionship"
+    depth: "Young men in middle ground, narrow street walls creating tunnel effect, bright plaza visible in distance"

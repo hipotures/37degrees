@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Final Unity in Eternal Stillness"
+  setting:
+    time: "Renaissance Italy, dawn breaking above"
+    location: "Stone crypt in churchyard of Verona, underground vault with family sarcophagi"
+    weather: "Dawn light beginning to filter down stairs"
+  characters:
+    - appearance: "Young girl, 13 years old, petite and delicate build, light brown hair often elaborately styled, luminous intelligent eyes, radiant fair complexion"
+      clothing: "White burial dress now stained with blood from self-inflicted wound"
+      position: "Collapsed across lover's body"
+      action: "Still, dagger in her heart, hand clasped with his, faces touching"
+    - appearance: "Young man, 16-17 years old, athletic but slender build, dark brown hair slightly longer and tousled, expressive melancholic eyes, fair complexion"
+      clothing: "Rich nobleman's attire in cool tones - deep blue velvet doublet with silver embroidery, gray silk shirt, dark blue trunk hose, black leather boots, short blue cape"
+      position: "Lying on tomb floor"
+      action: "Still in death, now eternally embraced"
+  scene:
+    mainElements: "Two young bodies intertwined, white and blue clothing like sky and clouds, blood creating tragic seal"
+    details: "Short steel dagger with ornate handle protruding from her chest, their hands linked with wedding rings visible, faces peaceful, dried tears on cheeks, torches burnt out, natural light beginning to touch them"
+    background: "Shocked faces appearing at tomb entrance, frozen in horror"
+    atmosphere: "Terrible peace after violence, beauty in tragedy, love's victory in death, silence before lamentation"
+  composition:
+    cameraAngle: "Reverent medium shot as if altar piece"
+    focus: "The perfect tragic symmetry of united lovers"
+    depth: "Dead lovers centered, horrified witnesses at edges, dawn light creating halo effect"

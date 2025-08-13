@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Bustling Life in Verona's Heart"
+  setting:
+    time: "Renaissance Italy, mid-morning market hours"
+    location: "Central market square of Verona, between merchant palaces"
+    weather: "Bright sunshine warming pink limestone, clear blue sky with few white clouds"
+  characters:
+    - appearance: "Mix of merchants, nobles, and servants of various ages, predominantly Italian Renaissance features"
+      clothing: "Colorful array - merchants in practical wool tunics, nobles in silk and velvet, servants in house liveries"
+      position: "Scattered throughout square in natural groupings"
+      action: "Trading, gossiping, carrying baskets, examining goods, animated conversations with expressive hand gestures"
+  scene:
+    mainElements: "Market stalls with striped awnings, central fountain with people gathering water, Renaissance palaces with arched loggias surrounding square"
+    details: "Overflowing fruit and vegetable displays, bolts of rich fabric, hanging herbs and spices, chickens in wooden cages, fresh bread in baskets, flower sellers with bouquets, dogs wandering between stalls, pigeons pecking at crumbs"
+    background: "Church bell tower rising above rooftops, laundry hanging from upper windows, narrow streets leading away into shadows"
+    atmosphere: "Vibrant community life, warm social connections, comfortable daily rhythms, prosperity and abundance, underlying tension in careful distances between certain groups"
+  composition:
+    cameraAngle: "High angle overview capturing entire square's activity"
+    focus: "The living tapestry of interconnected lives and daily commerce"
+    depth: "Market stalls and crowds in foreground, palace facades in middle ground, church tower in background"

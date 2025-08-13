@@ -1,0 +1,94 @@
+sceneDescription:
+  setting:
+    time: 1984, night, harsh electric lights suddenly illuminating dark room
+    location: Hidden room above antique shop in prole district, now revealed as trap
+    weather: Cold night air rushing in through broken door
+  characters:
+  - appearance: Man, 39 years old, thin and frail build, below average height, very pale almost white hair, naturally ruddy
+      complexion made rough by cheap soap and dull razors, intelligent but sad and weary eyes, artificial teeth, chronic varicose
+      ulcer on right ankle above the ankle bone that frequently itches and suppurates
+    clothing: Blue Party overalls (standard Outer Party uniform), worn and shabby
+    position: Cowering against wall, hands raised defensively
+    action: Frozen in terror as armed guards surround him, realizing extent of betrayal
+  - appearance: Woman, 26-27 years old, athletic and supple body, shapely feminine hips, thick glossy dark hair, pretty face
+      with freckles, bold and confident expression, energetic and agile movements
+    clothing: Blue Party overalls, narrow scarlet sash of Anti-Sex League worn tightly around waist accentuating her figure
+    position: Pressed against opposite wall, arms crossed protectively over chest
+    action: Showing defiant terror as reality of capture destroys all previous confidence
+  - appearance: Man, approximately 35 years old, straight upright posture revealing true height and strength, face becomes
+      cold and hard, black hair, no eyeglasses, all gentleness vanished
+    clothing: Black Thought Police uniform
+    position: Standing in doorway in position of complete authority
+    action: Commanding arrest with cold professional efficiency, completely transformed from kindly shopkeeper disguise
+  scene:
+    mainElements: Room suddenly filled with armed guards in black uniforms carrying truncheons, mahogany furniture overturned
+      and smashed, brass clock stopped and broken, oil lamp knocked over creating harsh shadows, glass dome containing piece
+      of pink coral shattered on floor
+    details: Total destruction of paradise and privacy. Armed guards in black uniforms fill space that once represented sanctuary.
+      The coral paperweight lies shattered - symbol of beauty and past destroyed. Overturned mahogany furniture shows violence
+      of intrusion. Charrington's transformation from gentle shopkeeper to hard Thought Police agent completes betrayal. Winston
+      and Julia's terror contrasts their former confidence. Broken clock represents end of stolen time. Harsh electric lights
+      replace warm oil lamp intimacy. No text or letters visible.
+    background: Doorway filled with additional black-uniformed guards, narrow stairs leading down to shop visible behind them
+    atmosphere: Complete destruction of hope and privacy, total betrayal revealing extent of surveillance state, violent end
+      to love and rebellion
+  composition:
+    cameraAngle: Wide shot showing entire room filled with guards surrounding trapped couple
+    focus: Winston and Julia pressed against walls while guards and Charrington dominate space
+    depth: Foreground shattered coral paperweight and overturned furniture, middle ground Winston and Julia surrounded by
+      guards, background doorway filled with more agents
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF0000'
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - '#FFD700'
+    - '#1E3A8A'
+    background: solid color blocks
+    usageNotes: Limited palette, maximum impact
+    saturation: maximum
+    contrast: extreme
+  lineArt:
+    style: geometric, angular
+    weight: bold, uniform
+    color: black or contrasting
+    texture: clean, sharp
+    edgeTreatment: precise, mechanical
+  lighting:
+    type: flat, graphic
+    direction: none - flat design
+    intensity: n/a
+    shadows:
+      style: geometric drop shadows
+      color: black
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: vector-like precision
+    texture: flat color blocks
+    detailLevel: simplified to essentials
+    finish: poster-like, graphic
+  perspective: dynamic diagonals, forced perspective
+  mood:
+    overall: powerful, urgent, revolutionary
+    emotion: determination, conflict, awakening
+    tempo: dynamic, forceful
+    keywords:
+    - powerful
+    - revolutionary
+    - bold
+    - urgent
+    - authoritative
+  stylePrecedents:
+  - El Lissitzky
+  - Alexander Rodchenko
+  - Constructivist movement
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

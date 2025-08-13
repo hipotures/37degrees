@@ -1,0 +1,97 @@
+sceneDescription:
+  setting:
+    time: Early 1830s Colombian Caribbean coast, romantic evening with soft candlelight
+    location: Interior courtyard of Buendía house during family gathering, Colombian jungle village
+    weather: Warm tropical evening with gentle breeze carrying scent of night-blooming flowers
+  characters:
+  - appearance: Woman, from birth to death in old age, can be assumed attractive in youth since competed with Rebeca for Pietro
+      Crespi's affections, key unchanging visual feature is black silk bandage worn on right hand after deliberately burning
+      it in fire as penance after Pietro's suicide, wears bandage until death as symbol of virginity and rejected love
+    clothing: Usually wears dark stern dresses reflecting inner bitterness and permanent state of mourning over unfulfilled
+      life
+    position: Seated at embroidery frame with rigid posture
+    action: Stabbing needle through fabric with barely controlled jealousy while watching romantic scene
+  - appearance: Woman, arrives at age 11, dies as lonely old woman, upon arrival child with greenish skin, round tight-as-drum
+      belly and large frightened eyes indicating illness and malnutrition, has strange habit of eating earth and lime, after
+      healing and care by Úrsula grows into beautiful young woman, in old age after husband's death locks herself in house,
+      becomes wild and stops caring for herself
+    clothing: Arrives in dress with diagonal stripes dyed black worn and peeling patent leather shoes, as young lady dresses
+      fashionably according to latest trends brought by Pietro Crespi, in old age wears destroyed old clothes
+    position: Dancing gracefully in courtyard center
+    action: Moving with natural elegance and joy while completely absorbed in romantic moment
+  - appearance: Italian music teacher, elegant foreign man bringing European refinement to tropical village, well-dressed
+      in European fashion despite climate
+    clothing: Dark European suit with brocade vest and heavy coat despite tropical heat, polished shoes and formal accessories
+    position: Leading dance while playing small accordion
+    action: Gazing adoringly at beautiful Rebeca while teaching her European dance steps
+  scene:
+    mainElements: Candlelit courtyard with gigantic chestnut tree creating natural canopy, family gathered watching romantic
+      dance lesson, oil lamps creating warm golden light, tropical flowers blooming in evening air, informal family celebration
+    details: Soft accordion music floating through night air, candleflames flickering in gentle breeze, contrast between Amaranta's
+      tense embroidery and Rebeca's fluid dance movements, exotic perfume of night-blooming jasmine mixing with emotional
+      tension, no text or letters visible
+    background: Rooms of house visible through open doorways with family members watching, garden areas with tropical plants,
+      evening sky visible above courtyard
+    atmosphere: Growing romantic tension and jealousy, beautiful moment tinged with undercurrent of future tragedy, innocent
+      love threatened by complex family dynamics
+  composition:
+    cameraAngle: Medium shot capturing both dancing couple and jealous observer
+    focus: Contrast between Rebeca's joyful dancing and Amaranta's rigid tension
+    depth: 'Foreground: Amaranta''s jealous embroidery, middle: romantic dance, background: family observers and chestnut
+      tree'
+visualElements:
+  colorPalette:
+    primary:
+    - muted blues
+    - soft purples
+    - misty grays
+    secondary:
+    - pale golds
+    - dusty roses
+    - seafoam greens
+    background: gradient washes, nebulous
+    usageNotes: Soft, dreamy colors that blend into each other
+    saturation: low to medium
+    contrast: soft, hazy
+  lineArt:
+    style: fluid, dissolving
+    weight: varied, sometimes fading
+    color: soft, often colored lines
+    texture: smooth, organic
+    edgeTreatment: soft, sometimes undefined
+  lighting:
+    type: otherworldly, multiple sources
+    direction: illogical, dreamlike
+    intensity: soft, glowing
+    shadows:
+      style: soft, sometimes defying physics
+      color: colored shadows
+      opacity: translucent
+    highlights: ethereal glows
+  rendering:
+    technique: smooth blending, sfumato
+    texture: soft, cloud-like
+    detailLevel: selective focus, some areas sharp, others dissolving
+    finish: dreamlike, atmospheric
+  perspective: impossible, shifting, non-Euclidean
+  mood:
+    overall: mysterious, contemplative, otherworldly
+    emotion: wonder, unease, transcendence
+    tempo: floating, timeless
+    keywords:
+    - mysterious
+    - dreamlike
+    - surreal
+    - metaphysical
+    - transcendent
+  stylePrecedents:
+  - Salvador Dalí
+  - René Magritte
+  - Remedios Varo
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

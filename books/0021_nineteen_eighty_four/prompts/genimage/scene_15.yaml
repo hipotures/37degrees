@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: 1984, late spring afternoon, warm golden sunlight
+    location: Hidden forest clearing far from London surveillance, surrounded by hazel bushes and flowering trees
+    weather: Warm sunny day with gentle breeze, spring flowers in bloom
+  characters:
+  - appearance: Man, 39 years old, thin and frail build, below average height, very pale almost white hair, naturally ruddy
+      complexion made rough by cheap soap and dull razors, intelligent but sad and weary eyes, artificial teeth, chronic varicose
+      ulcer on right ankle above the ankle bone that frequently itches and suppurates
+    clothing: Blue Party overalls (standard Outer Party uniform), worn and shabby
+    position: Standing in sunlit clearing, looking uncertain and nervous
+    action: Waiting anxiously while scanning surroundings for signs of surveillance or danger
+  - appearance: Woman, 26-27 years old, athletic and supple body, shapely feminine hips, thick glossy dark hair, pretty face
+      with freckles, bold and confident expression, energetic and agile movements
+    clothing: Blue Party overalls, narrow scarlet sash of Anti-Sex League worn tightly around waist accentuating her figure
+    position: Approaching through gap in hazel bushes, emerging into sunlight
+    action: Moving confidently through natural landscape toward Winston, carrying herself with athletic grace and determination
+  scene:
+    mainElements: Forest clearing surrounded by hazel bushes and flowering trees, dappled golden sunlight filtering through
+      leaves, spring wildflowers carpeting ground, thick bushes providing natural concealment, birdsong and insect sounds
+      creating peaceful atmosphere
+    details: Paradise hidden from totalitarian surveillance. Golden afternoon light transforms forest into sanctuary of natural
+      beauty. Julia's scarlet sash blazes against green foliage as she moves with athletic confidence. Winston's nervous frailty
+      contrasts with surrounding vitality. Wildflowers bloom in defiance of urban decay. Hazel bushes create private chamber
+      away from telescreens and microphones. Bird songs replace mechanical propaganda broadcasts. This natural world represents
+      everything the Party seeks to destroy - spontaneous beauty, privacy, and authentic emotion. No text or letters visible.
+    background: Dense forest extending beyond clearing, distant hills visible through gaps in trees, completely natural landscape
+      free from human construction
+    atmosphere: Natural freedom and spontaneous beauty, paradise temporarily free from surveillance and control, authentic
+      life hidden from mechanical observation
+  composition:
+    cameraAngle: Medium wide shot capturing both characters in natural setting
+    focus: Julia emerging from bushes while Winston waits in golden sunlight
+    depth: Foreground wildflowers and forest floor, middle ground Winston and Julia in clearing, background dense trees and
+      distant hills
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF0000'
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - '#FFD700'
+    - '#1E3A8A'
+    background: solid color blocks
+    usageNotes: Limited palette, maximum impact
+    saturation: maximum
+    contrast: extreme
+  lineArt:
+    style: geometric, angular
+    weight: bold, uniform
+    color: black or contrasting
+    texture: clean, sharp
+    edgeTreatment: precise, mechanical
+  lighting:
+    type: flat, graphic
+    direction: none - flat design
+    intensity: n/a
+    shadows:
+      style: geometric drop shadows
+      color: black
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: vector-like precision
+    texture: flat color blocks
+    detailLevel: simplified to essentials
+    finish: poster-like, graphic
+  perspective: dynamic diagonals, forced perspective
+  mood:
+    overall: powerful, urgent, revolutionary
+    emotion: determination, conflict, awakening
+    tempo: dynamic, forceful
+    keywords:
+    - powerful
+    - revolutionary
+    - bold
+    - urgent
+    - authoritative
+  stylePrecedents:
+  - El Lissitzky
+  - Alexander Rodchenko
+  - Constructivist movement
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

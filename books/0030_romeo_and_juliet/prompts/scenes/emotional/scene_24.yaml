@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Grief's Recognition and Bitter Peace"
+  setting:
+    time: "Renaissance Italy, full dawn"
+    location: "Churchyard outside Capulet tomb, Verona"
+    weather: "Gentle morning rain beginning, as if heaven weeps"
+  characters:
+    - appearance: "Older man about 50 years old, imposing patrician build, face shifting between jovial and furious, graying beard and hair"
+      clothing: "Richest nobleman's attire - crimson velvet robes with fur trim, heavy gold chains, ornate rings, elaborate hat"
+      position: "Kneeling at tomb entrance"
+      action: "Head bowed in grief, shoulders shaking, one hand extended toward another man"
+    - appearance: "Similar aged nobleman, gray-haired, wearing blue and silver"
+      clothing: "Rich blue velvet robes with silver trim, Montague colors now muted with grief"
+      position: "Standing opposite, reaching to clasp offered hand"
+      action: "Tears on weathered face, accepting reconciliation with heavy heart"
+  scene:
+    mainElements: "Tomb entrance with crowd gathered, two feuding patriarchs meeting over their children's death"
+    details: "Rain mixing with tears on faces, weapons dropped on ground, Capulet red and Montague blue mingling in crowd, Prince and friar standing witness, dawn light gray and sorrowful"
+    background: "Verona waking to tragedy, church bells beginning to toll, ordinary life resuming unknowing"
+    atmosphere: "Hatred dying with children, peace purchased with innocent blood, reconciliation too late, exhausted grief replacing fury"
+  composition:
+    cameraAngle: "Wide shot encompassing both families and tomb"
+    focus: "The handshake of reconciliation over entrance to death"
+    depth: "Reconciling fathers in foreground, tomb mouth in middle ground, grieving city in background"

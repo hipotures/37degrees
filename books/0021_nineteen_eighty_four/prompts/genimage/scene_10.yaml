@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: 1984, lunch hour, harsh artificial lighting
+    location: Ministry of Truth employee canteen with long metal tables and benches
+    weather: Indoor institutional environment with cooking odors
+  characters:
+  - appearance: Man, 39 years old, thin and frail build, below average height, very pale almost white hair, naturally ruddy
+      complexion made rough by cheap soap and dull razors, intelligent but sad and weary eyes, artificial teeth, chronic varicose
+      ulcer on right ankle above the ankle bone that frequently itches and suppurates
+    clothing: Blue Party overalls (standard Outer Party uniform), worn and shabby
+    position: Sitting on metal bench at cafeteria table, leaning back slightly
+    action: Listening intently while eating Victory Food rations, occasionally nodding with forced interest
+  - appearance: Man, approximately 30 years old, tiny diminutive build shorter than Winston, dark hair, large bulging eyes
+      that are simultaneously sad and mocking
+    clothing: Blue Party overalls (Outer Party uniform)
+    position: Sitting across table, leaning forward eagerly over his meal tray
+    action: Speaking animatedly with intellectual enthusiasm while gesturing with eating utensil, eyes bright with fanatical
+      passion
+  scene:
+    mainElements: Long metal tables with bench seating filled with blue-uniformed workers eating identical meal rations, institutional
+      kitchen serving line in background, harsh fluorescent lighting creating stark shadows, utilitarian metal trays and eating
+      implements
+    details: Intellectual fervor meeting cautious fear in institutional setting. Syme's small frame vibrates with enthusiasm
+      while Winston maintains careful neutrality. Both eat identical colorless Victory Food from metal plates. Other workers
+      consume their rations mechanically around them. Harsh lighting makes everyone appear sickly. The canteen's industrial
+      efficiency reflects Party's reduction of human needs to basic biological functions. Steam rises from serving line. No
+      text or letters visible.
+    background: Rows of identical metal tables filled with blue-uniformed workers, institutional serving area with metal equipment
+    atmosphere: Dangerous intellectual passion disguised as casual lunch conversation, institutional efficiency reducing human
+      interaction to mechanical necessity
+  composition:
+    cameraAngle: Medium shot across table showing both men in conversation
+    focus: Contrast between Syme's animated speaking and Winston's careful listening
+    depth: Foreground conversation between Winston and Syme, middle ground their meal trays, background rows of other workers
+      eating
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF0000'
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - '#FFD700'
+    - '#1E3A8A'
+    background: solid color blocks
+    usageNotes: Limited palette, maximum impact
+    saturation: maximum
+    contrast: extreme
+  lineArt:
+    style: geometric, angular
+    weight: bold, uniform
+    color: black or contrasting
+    texture: clean, sharp
+    edgeTreatment: precise, mechanical
+  lighting:
+    type: flat, graphic
+    direction: none - flat design
+    intensity: n/a
+    shadows:
+      style: geometric drop shadows
+      color: black
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: vector-like precision
+    texture: flat color blocks
+    detailLevel: simplified to essentials
+    finish: poster-like, graphic
+  perspective: dynamic diagonals, forced perspective
+  mood:
+    overall: powerful, urgent, revolutionary
+    emotion: determination, conflict, awakening
+    tempo: dynamic, forceful
+    keywords:
+    - powerful
+    - revolutionary
+    - bold
+    - urgent
+    - authoritative
+  stylePrecedents:
+  - El Lissitzky
+  - Alexander Rodchenko
+  - Constructivist movement
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

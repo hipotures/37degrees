@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1984, evening, warm candlelight and oil lamp lighting
+    location: Hidden room above antique shop in prole district, furnished with pre-war items
+    weather: Warm sheltered interior space
+  characters:
+  - appearance: Man, 39 years old, thin and frail build, below average height, very pale almost white hair, naturally ruddy
+      complexion made rough by cheap soap and dull razers, intelligent but sad and weary eyes, artificial teeth, chronic varicose
+      ulcer on right ankle above the ankle bone that frequently itches and suppurates
+    clothing: Blue Party overalls (standard Outer Party uniform), worn and shabby
+    position: Sitting on edge of mahogany bed examining the room with wonder
+    action: Looking around private space with mixture of amazement and nervous fear, touching real wood furniture
+  - appearance: Woman, 26-27 years old, athletic and supple body, shapely feminine hips, thick glossy dark hair, pretty face
+      with freckles, bold and confident expression, energetic and agile movements
+    clothing: Blue Party overalls, narrow scarlet sash of Anti-Sex League worn tightly around waist accentuating her figure
+    position: Standing near window examining mahogany table with brass clock
+    action: Moving confidently through space, touching antique objects with appreciation for their forbidden beauty
+  scene:
+    mainElements: Furnished room with mahogany bed and table, brass clock with twelve-hour face, oil lamp providing warm lighting,
+      window overlooking prole district, no telescreen visible anywhere, antique furnishings from pre-revolutionary period,
+      ticking clock marking natural time
+    details: Paradise of privacy and authentic time. Mahogany furniture gleams with real wood grain under oil lamp light.
+      Brass clock ticks with twelve-hour face instead of Party's twenty-four hour system. No telescreen monitors this sacred
+      space. Window shows prole district where surveillance is minimal. Julia's confidence contrasts Winston's nervous wonder
+      at experiencing genuine privacy. Antique objects represent connection to destroyed past. Warm lighting creates intimate
+      atmosphere impossible in Party surveillance. The ticking clock represents return to human time. No text or letters visible.
+    background: Window showing narrow street and prole district buildings, shadows of neighboring rooftops
+    atmosphere: Forbidden intimacy and dangerous privacy, return to authentic human time and connection, fragile sanctuary
+      surrounded by totalitarian surveillance
+  composition:
+    cameraAngle: Medium shot showing both characters in furnished room
+    focus: Winston and Julia discovering privacy and pre-war luxury
+    depth: Foreground Winston on bed, middle ground Julia at table with clock, background window overlooking prole district
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF0000'
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - '#FFD700'
+    - '#1E3A8A'
+    background: solid color blocks
+    usageNotes: Limited palette, maximum impact
+    saturation: maximum
+    contrast: extreme
+  lineArt:
+    style: geometric, angular
+    weight: bold, uniform
+    color: black or contrasting
+    texture: clean, sharp
+    edgeTreatment: precise, mechanical
+  lighting:
+    type: flat, graphic
+    direction: none - flat design
+    intensity: n/a
+    shadows:
+      style: geometric drop shadows
+      color: black
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: vector-like precision
+    texture: flat color blocks
+    detailLevel: simplified to essentials
+    finish: poster-like, graphic
+  perspective: dynamic diagonals, forced perspective
+  mood:
+    overall: powerful, urgent, revolutionary
+    emotion: determination, conflict, awakening
+    tempo: dynamic, forceful
+    keywords:
+    - powerful
+    - revolutionary
+    - bold
+    - urgent
+    - authoritative
+  stylePrecedents:
+  - El Lissitzky
+  - Alexander Rodchenko
+  - Constructivist movement
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

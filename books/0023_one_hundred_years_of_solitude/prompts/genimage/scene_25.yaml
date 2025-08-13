@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: 1930s Colombian Caribbean coast, moment of cosmic destruction
+    location: Melquíades' chamber as biblical hurricane destroys Macondo forever, Colombian jungle village
+    weather: Apocalyptic hurricane with biblical winds destroying everything in existence
+  characters:
+  - appearance: Last scholar of family line, devoted to deciphering family mysteries and ancient prophecies, represents culmination
+      of family's intellectual obsessions
+    clothing: Scholarly clothes now whipping in supernatural wind
+    position: Standing in chamber reading final words of prophecy as reality dissolves
+    action: Reading last sentence about first ancestor tied to tree and last devoured by ants while hurricane destroys everything
+      around him
+  - appearance: Forces of destruction personified as biblical hurricane sent to erase cursed bloodline and village from existence
+    clothing: Manifestation of pure natural force, visible as swirling winds and debris
+    position: Surrounding and penetrating chamber from all directions
+    action: Systematically destroying house, village, and all traces of century-long story
+  scene:
+    mainElements: Chamber being torn apart by supernatural hurricane, roof flying away revealing apocalyptic sky, walls cracking
+      and crumbling, ancient parchments whirling in cosmic wind, entire reality dissolving as prophecy reaches completion,
+      moment when reading and destruction become simultaneous
+    details: Hurricane winds tearing apart century-old house, debris flying through air in supernatural whirlwind, parchments
+      dissolving as their prophecy completes, walls exploding outward revealing cosmic destruction beyond, moment when time
+      stops and all family history converges into single point of revelation and annihilation, no readable text as words dissolve
+      with reality
+    background: Through destroyed walls, entire village of Macondo being erased by biblical hurricane, jungle being swept
+      clean, sky showing apocalyptic colors of cosmic destruction, nothing remaining of century of human story
+    atmosphere: Ultimate convergence of prophecy and reality, reading and destruction happening simultaneously, family saga
+      reaching its predestined conclusion in moment of absolute understanding and total obliteration
+  composition:
+    cameraAngle: Dynamic shot capturing both scholar's final comprehension and cosmic destruction
+    focus: Last moment of reading prophecy as hurricane completes eternal erasure
+    depth: 'Foreground: dissolving parchments with final words, middle: scholar achieving ultimate understanding, background:
+      apocalyptic destruction of entire world through supernatural forces'
+visualElements:
+  colorPalette:
+    primary:
+    - muted blues
+    - soft purples
+    - misty grays
+    secondary:
+    - pale golds
+    - dusty roses
+    - seafoam greens
+    background: gradient washes, nebulous
+    usageNotes: Soft, dreamy colors that blend into each other
+    saturation: low to medium
+    contrast: soft, hazy
+  lineArt:
+    style: fluid, dissolving
+    weight: varied, sometimes fading
+    color: soft, often colored lines
+    texture: smooth, organic
+    edgeTreatment: soft, sometimes undefined
+  lighting:
+    type: otherworldly, multiple sources
+    direction: illogical, dreamlike
+    intensity: soft, glowing
+    shadows:
+      style: soft, sometimes defying physics
+      color: colored shadows
+      opacity: translucent
+    highlights: ethereal glows
+  rendering:
+    technique: smooth blending, sfumato
+    texture: soft, cloud-like
+    detailLevel: selective focus, some areas sharp, others dissolving
+    finish: dreamlike, atmospheric
+  perspective: impossible, shifting, non-Euclidean
+  mood:
+    overall: mysterious, contemplative, otherworldly
+    emotion: wonder, unease, transcendence
+    tempo: floating, timeless
+    keywords:
+    - mysterious
+    - dreamlike
+    - surreal
+    - metaphysical
+    - transcendent
+  stylePrecedents:
+  - Salvador Dalí
+  - René Magritte
+  - Remedios Varo
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

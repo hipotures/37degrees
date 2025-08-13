@@ -1,0 +1,99 @@
+sceneDescription:
+  setting:
+    time: Early 1820s Colombian Caribbean coast, warm evening with oil lamps
+    location: Interior of best house in Macondo village, small well-lit salon and terrace-shaped dining room, Colombian jungle
+      settlement
+    weather: Tropical evening warmth with gentle breeze through open windows
+  characters:
+  - appearance: Woman, teenage to over 115 years old, described as active, small, stern woman with steel nerves, embodiment
+      of vitality and strength through most of life, in old age when loses sight body begins to shrink, at end of life becomes
+      so small and light resembles newborn or doll, skin becomes wrinkled and transparent
+    clothing: Dark, stern, simple dresses throughout life reflecting pragmatism and mourning for family members, characteristic
+      stiff starched petticoats that make quiet whisper during constant bustling
+    position: Sitting at wooden table preparing caramel animals with skilled hands
+    action: Carefully shaping sweet figurines while watching over her growing family
+  - appearance: Man, late 20s to elderly, potężna budowa ciała with extraordinary strength that allows him to fell a horse
+      by grabbing its ears, in youth charismatic patriarch full of energy and curiosity, in madness becomes emaciated with
+      long grey beard and hair, wild absent gaze
+    clothing: Simple rural linen shirts and pants in youth,  covered only by blanket or loincloth
+    position: Seated near window examining alchemical text by lamplight
+    action: Reading intently while occasionally glancing lovingly at his family
+  - appearance: Man, teenager to adult, inherited enormous physical strength from father,
+      after return from long journey is enormous man, powerfully built with tanned
+      skin, entire body from neck to ankles covered with dense colorful tattoos in various languages depicting scenes and
+      symbols from travels, wild exotic intimidating appearance
+    clothing: Simple sailor clothes - loose pants and unbuttoned shirt, often walks with bare torso to display tattoos
+    position: Sprawled on floor playing with younger siblings
+    action: Laughing heartily while engaging in innocent childhood games
+  scene:
+    mainElements: Warm lamp-lit interior with packed earth floors and unwhitewashed clay walls, wooden furniture handcrafted
+      with care, small altar with religious images, cooking area with clay pots and dried herbs hanging from ceiling, family
+      gathered in comfortable evening routine
+    details: Scent of basil emanating from old clothing chests, gentle sound of Úrsula's petticoats rustling, oil lamps casting
+      dancing shadows on walls, tropical flowers visible through open doorway, warm golden light creating intimate atmosphere,
+      no text or letters visible
+    background: Courtyard visible through doorway with gigantic chestnut tree, well-tended garden with tropical plants, evening
+      sounds of jungle birds settling for night
+    atmosphere: Deep contentment and familial harmony, sense of security and belonging, peaceful domestic routine representing
+      foundation of love and stability
+  composition:
+    cameraAngle: Intimate medium shot capturing family gathered around lamp-lit table
+    focus: Úrsula's gentle hands working while family enjoys quiet evening together
+    depth: 'Foreground: detailed domestic activities, middle: family interaction, background: glimpse of courtyard and chestnut
+      tree'
+visualElements:
+  colorPalette:
+    primary:
+    - muted blues
+    - soft purples
+    - misty grays
+    secondary:
+    - pale golds
+    - dusty roses
+    - seafoam greens
+    background: gradient washes, nebulous
+    usageNotes: Soft, dreamy colors that blend into each other
+    saturation: low to medium
+    contrast: soft, hazy
+  lineArt:
+    style: fluid, dissolving
+    weight: varied, sometimes fading
+    color: soft, often colored lines
+    texture: smooth, organic
+    edgeTreatment: soft, sometimes undefined
+  lighting:
+    type: otherworldly, multiple sources
+    direction: illogical, dreamlike
+    intensity: soft, glowing
+    shadows:
+      style: soft, sometimes defying physics
+      color: colored shadows
+      opacity: translucent
+    highlights: ethereal glows
+  rendering:
+    technique: smooth blending, sfumato
+    texture: soft, cloud-like
+    detailLevel: selective focus, some areas sharp, others dissolving
+    finish: dreamlike, atmospheric
+  perspective: impossible, shifting, non-Euclidean
+  mood:
+    overall: mysterious, contemplative, otherworldly
+    emotion: wonder, unease, transcendence
+    tempo: floating, timeless
+    keywords:
+    - mysterious
+    - dreamlike
+    - surreal
+    - metaphysical
+    - transcendent
+  stylePrecedents:
+  - Salvador Dalí
+  - René Magritte
+  - Remedios Varo
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

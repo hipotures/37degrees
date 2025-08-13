@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Storm Clouds Gathering Over Festivities"
+  setting:
+    time: "Renaissance Italy, early evening as darkness approaches"
+    location: "View of Verona from hillside, city preparing for night"
+    weather: "Dark clouds massing on horizon, last rays of sun creating dramatic contrast, wind picking up"
+  characters:
+    - appearance: "Distant figures in streets below, too far to distinguish features"
+      clothing: "Colorful dots of festive attire, torches beginning to be lit"
+      position: "Moving through streets toward various palaces"
+      action: "Hurrying as weather changes, cloaks billowing in wind, seeking shelter or destinations"
+  scene:
+    mainElements: "Panoramic view of Verona with storm approaching from mountains, contrast between still-sunny city and dark horizon"
+    details: "First torches creating points of warm light against gathering darkness, birds flying low seeking roosts, cypress trees bending in strengthening wind, church bells ringing evening prayers, flags on towers snapping violently"
+    background: "Dramatic sky with collision of golden sunset and purple-black storm clouds, lightning flickering in distance"
+    atmosphere: "Nature's warning of approaching turmoil, beauty and threat in violent juxtaposition, festive anticipation shadowed by ominous portents"
+  composition:
+    cameraAngle: "Elevated wide vista from hillside overlooking city"
+    focus: "The approaching storm as metaphor for coming emotional tempest"
+    depth: "Wind-bent trees in foreground, city spread in middle ground, dramatic sky dominating background"

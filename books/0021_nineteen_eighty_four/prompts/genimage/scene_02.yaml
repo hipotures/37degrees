@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 1984, cold April afternoon, dim natural light
+    location: Dilapidated apartment block from 1930s literally falling apart, Winston Smith's residential building in London
+    weather: Cold and drafty inside building
+  characters: []
+  scene:
+    mainElements: Stairwell reeking of boiled cabbage and rotting doormats, peeling walls, broken fixtures, oblong metal plaque
+      resembling dulled mirror mounted on wall (telescreen), narrow hallway with multiple apartment doors, non-functioning
+      elevator shaft
+    details: Institutional decay pervades every surface. Paint peels in long strips from water-damaged walls. Flickering electric
+      bulb casts harsh shadows down concrete stairwell. The omnipresent telescreen monitors empty hallway with cold mechanical
+      eye. Residents must climb seven flights because elevator never works. Cooking smells from dozens of apartments create
+      overwhelming stench of poverty. No text or letters visible.
+    background: Multiple floors of identical doors stretching upward, broken elevator machinery visible in shaft
+    atmosphere: Claustrophobic surveillance state where even home provides no privacy or comfort, institutional neglect creating
+      constant physical discomfort
+  composition:
+    cameraAngle: Low angle shot looking up stairwell
+    focus: Telescreen mounted on wall watching the stairs
+    depth: Foreground broken steps, middle ground peeling walls and telescreen, background multiple floors vanishing into
+      shadows
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF0000'
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - '#FFD700'
+    - '#1E3A8A'
+    background: solid color blocks
+    usageNotes: Limited palette, maximum impact
+    saturation: maximum
+    contrast: extreme
+  lineArt:
+    style: geometric, angular
+    weight: bold, uniform
+    color: black or contrasting
+    texture: clean, sharp
+    edgeTreatment: precise, mechanical
+  lighting:
+    type: flat, graphic
+    direction: none - flat design
+    intensity: n/a
+    shadows:
+      style: geometric drop shadows
+      color: black
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: vector-like precision
+    texture: flat color blocks
+    detailLevel: simplified to essentials
+    finish: poster-like, graphic
+  perspective: dynamic diagonals, forced perspective
+  mood:
+    overall: powerful, urgent, revolutionary
+    emotion: determination, conflict, awakening
+    tempo: dynamic, forceful
+    keywords:
+    - powerful
+    - revolutionary
+    - bold
+    - urgent
+    - authoritative
+  stylePrecedents:
+  - El Lissitzky
+  - Alexander Rodchenko
+  - Constructivist movement
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

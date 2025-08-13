@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1984, evening, warm electric lighting from lamps
+    location: Spacious Inner Party apartment with quality furnishings and real luxuries
+    weather: Comfortable controlled climate with warmth
+  characters:
+  - appearance: Man, approximately 50 years old, large powerfully built frame, burly build with thick neck and broad chest,
+      coarse humorous cruel face that is simultaneously intelligent and charming, prominent aquiline nose, thick dark hair,
+      wears eyeglasses which he frequently adjusts
+    clothing: Black overalls (Inner Party uniform) signifying high rank and authority
+    position: Standing beside well-appointed sideboard with crystal decanters, adjusting eyeglasses
+    action: Pouring real wine into crystal glass while surveying his privileged domain with satisfaction
+  scene:
+    mainElements: Spacious well-furnished apartment with real carpet, crystal wine decanters, comfortable armchairs, telescreen
+      that can be switched off, warm electric lamps instead of harsh fluorescent lighting, quality food and drink on polished
+      wooden table
+    details: Elite privilege in stark contrast to Outer Party poverty. O'Brien's powerful frame dominates comfortable space
+      furnished with pre-war quality items. Crystal catches warm lamplight. Real wine fills proper glasses. The adjustable
+      telescreen represents ultimate power - privacy itself. His intelligent but cruel expression shows man who enjoys wielding
+      absolute authority. Black uniform marks him as Inner Party elite. Polished surfaces reflect wealth forbidden to others.
+      No text or letters visible.
+    background: Large windows with heavy curtains, bookshelves with real books, comfortable furniture suggesting long-term
+      comfort
+    atmosphere: Luxurious conspiracy and elite privilege, comfortable warmth hiding sophisticated cruelty and absolute power
+      over others' lives
+  composition:
+    cameraAngle: Medium shot showing O'Brien's commanding presence in his space
+    focus: O'Brien adjusting glasses while holding crystal wine glass
+    depth: Foreground O'Brien with wine, middle ground furnished living space, background bookshelves and curtained windows
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF0000'
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - '#FFD700'
+    - '#1E3A8A'
+    background: solid color blocks
+    usageNotes: Limited palette, maximum impact
+    saturation: maximum
+    contrast: extreme
+  lineArt:
+    style: geometric, angular
+    weight: bold, uniform
+    color: black or contrasting
+    texture: clean, sharp
+    edgeTreatment: precise, mechanical
+  lighting:
+    type: flat, graphic
+    direction: none - flat design
+    intensity: n/a
+    shadows:
+      style: geometric drop shadows
+      color: black
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: vector-like precision
+    texture: flat color blocks
+    detailLevel: simplified to essentials
+    finish: poster-like, graphic
+  perspective: dynamic diagonals, forced perspective
+  mood:
+    overall: powerful, urgent, revolutionary
+    emotion: determination, conflict, awakening
+    tempo: dynamic, forceful
+    keywords:
+    - powerful
+    - revolutionary
+    - bold
+    - urgent
+    - authoritative
+  stylePrecedents:
+  - El Lissitzky
+  - Alexander Rodchenko
+  - Constructivist movement
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical
